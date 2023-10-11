@@ -5,13 +5,13 @@ Rating: 4.82 (Ranked 61)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 96.00% | ~2,496 |
-| No more cages! | 92.00% | ~2,392 |
-| Everfrost | 79.00% | ~2,054 |
-| Pentakill | 78.00% | ~2,028 |
-| Dark Forest | 78.00% | ~2,028 |
-| The use of petricite | 75.00% | ~1,950 |
-| You can pet the dog | 62.00% | ~1,612 |
+| For Demacia | 96.00% | ~2,497 |
+| No more cages! | 92.00% | ~2,393 |
+| Everfrost | 79.00% | ~2,055 |
+| Pentakill | 78.00% | ~2,029 |
+| Dark Forest | 78.00% | ~2,029 |
+| The use of petricite | 75.00% | ~1,951 |
+| You can pet the dog | 62.00% | ~1,613 |
 | Big Helmet Bro | 38.00% | ~988 |
 | Thornbarrow | 38.00% | ~988 |
 | Clarion Cove | 38.00% | ~988 |
@@ -37,11 +37,11 @@ Rating: 4.82 (Ranked 61)
 | Quickmoore Headquarters | 18.00% | ~468 |
 | Terbisia | 17.00% | ~442 |
 | Whispers in the Woods III | 16.00% | ~416 |
-| My heart and sword always for Demacia | 16.00% | ~416 |
 | Friendly fire | 16.00% | ~416 |
 | True power | 16.00% | ~416 |
 | Meltridge | 16.00% | ~416 |
 | The Central Headquarters | 16.00% | ~416 |
+| My heart and sword always for Demacia | 15.00% | ~390 |
 | Cloven Dell Headquarters | 15.00% | ~390 |
 | Embrace the darkness | 13.00% | ~338 |
 | Whispers in the Woods IV | 13.00% | ~338 |
@@ -59,7 +59,7 @@ Rating: 4.82 (Ranked 61)
 | Silverwing nest | 2.00% | ~52 |
 | The Unshackled | 1.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,600 (Ranked 194)  
+Progressed: 2,601 (Ranked 194)  
 Completed: 12 (0.46%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,6 +206,7 @@ Completed: 12 (0.46%) (Ranked 175)
 | 2023-10-02 | 2,597 | 12 |
 | 2023-10-04 | 2,598 | 12 |
 | 2023-10-08 | 2,600 | 12 |
+| 2023-10-11 | 2,601 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1821,9 +1821,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14587,
+  "EOS_Progressed": 14588,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 260,
+  "EOS_NewPlayers": 261,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13531,6 +13531,11 @@
       "Time": "2023-10-11T00:05:08.2898767+00:00",
       "NumProgressed": 14587,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-11T01:48:02.0827461+00:00",
+      "NumProgressed": 14588,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -14460,9 +14465,9 @@
       "ID": "ACHIEVEMENT_FAMILY_FURIOUS",
       "SetID": "9201eeb",
       "Name": "Furious Family",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 102
     },
     {
       "ID": "ACHIEVEMENT_FERTILE_CRESCENT",
@@ -15364,9 +15369,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_EGYPT",
       "SetID": "7l38kb8",
       "Name": "Egyptian Paganism",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 102
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_GREECE",
@@ -16277,21 +16282,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14587,
+      "Progressed": 14588,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14587,
+      "Progressed": 14588,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-10T17:03:34.4008549+00:00",
-  "LastChanged_Achievements": "2023-10-11T00:05:08.2898759+00:00",
+  "LastChanged_Achievements": "2023-10-11T01:48:02.0827456+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:48.3987129+00:00",
-  "LastUpdate_Ratings": "2023-10-11T00:02:27.0131372+00:00",
-  "LastUpdate_Achievements": "2023-10-11T00:05:08.2912652+00:00"
+  "LastUpdate_Ratings": "2023-10-11T01:45:13.6560795+00:00",
+  "LastUpdate_Achievements": "2023-10-11T01:48:02.0837836+00:00"
 }

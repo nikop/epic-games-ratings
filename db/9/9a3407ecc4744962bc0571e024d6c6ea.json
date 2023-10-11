@@ -4,7 +4,7 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 850,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 193,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -1987,9 +1987,9 @@
       "ID": "BoxingClever",
       "SetID": "3ai6ml8",
       "Name": "Boxing Clever",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 434
+      "UsersEstimate": 442
     },
     {
       "ID": "Cartographer",
@@ -2138,8 +2138,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-10-11T00:06:00.6530438+00:00",
+  "LastChanged_Achievements": "2023-10-11T01:49:05.2859702+00:00",
   "LastUpdate_AppInfo": "2023-10-04T14:57:19.6676694+00:00",
-  "LastUpdate_Ratings": "2023-10-11T00:02:04.467281+00:00",
-  "LastUpdate_Achievements": "2023-10-11T00:06:00.6530737+00:00"
+  "LastUpdate_Ratings": "2023-10-11T01:43:46.4063752+00:00",
+  "LastUpdate_Achievements": "2023-10-11T01:49:05.2859972+00:00"
 }

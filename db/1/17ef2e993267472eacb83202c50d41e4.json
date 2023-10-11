@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7063,
+  "EOS_Progressed": 7064,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 206,
+  "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3898,6 +3898,11 @@
       "Time": "2023-10-10T23:09:36.9340581+00:00",
       "NumProgressed": 7063,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-11T01:51:09.6789455+00:00",
+      "NumProgressed": 7064,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -4188,9 +4193,9 @@
       "ID": "InhibitorKills30",
       "SetID": "12d07c7",
       "Name": "Destroyed 30 Inhibitors",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 42
     },
     {
       "ID": "LMGUpgraded1",
@@ -4406,7 +4411,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1059
+      "UsersEstimate": 1060
     },
     {
       "ID": "SEUpgraded1",
@@ -4501,7 +4506,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 7063,
+      "Progressed": 7064,
       "Completed": 1
     }
   ],
@@ -4509,8 +4514,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-09-28T09:00:22.5097709+00:00",
-  "LastChanged_Achievements": "2023-10-11T00:08:38.2130164+00:00",
+  "LastChanged_Achievements": "2023-10-11T01:51:09.6789448+00:00",
   "LastUpdate_AppInfo": "2023-10-10T10:57:15.6695599+00:00",
-  "LastUpdate_Ratings": "2023-10-10T23:58:16.4176707+00:00",
-  "LastUpdate_Achievements": "2023-10-11T00:08:38.2131144+00:00"
+  "LastUpdate_Ratings": "2023-10-11T01:40:56.1146044+00:00",
+  "LastUpdate_Achievements": "2023-10-11T01:51:09.6790509+00:00"
 }

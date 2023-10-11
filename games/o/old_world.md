@@ -46,23 +46,23 @@ Number of Ratings: 1,307  (23.09.2022)
 | Brilliant | 0.70% | ~102 |
 | Fountainhead | 0.70% | ~102 |
 | Able Difficulty | 0.70% | ~102 |
+| Furious Family | 0.70% | ~102 |
 | Great Ziggurat | 0.70% | ~102 |
 | Learn to Play 1 | 0.70% | ~102 |
 | Carthaginian Paganism | 0.70% | ~102 |
+| Egyptian Paganism | 0.70% | ~102 |
 | Roman Paganism | 0.70% | ~102 |
 | Drillmaster | 0.60% | ~88 |
 | Great | 0.60% | ~88 |
 | Legendary Cities | 0.60% | ~88 |
 | Just Difficulty | 0.60% | ~88 |
 | Artisans | 0.60% | ~88 |
-| Furious Family | 0.60% | ~88 |
 | Apadana | 0.60% | ~88 |
 | Colossus | 0.60% | ~88 |
 | Musaeum | 0.60% | ~88 |
 | Necropolis | 0.60% | ~88 |
 | Learn to Play 2 | 0.60% | ~88 |
 | Manichaeism | 0.60% | ~88 |
-| Egyptian Paganism | 0.60% | ~88 |
 | Regicide | 0.50% | ~73 |
 | Hanging Gardens in Babylon | 0.50% | ~73 |
 | Conqueror | 0.50% | ~73 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,587 (Ranked 134)  
+Progressed: 14,588 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -523,7 +523,7 @@ Completed: 5 (0.03%) (Ranked 281)
 | 2023-10-08 | 14,534 | 5 |
 | 2023-10-09 | 14,562 | 5 |
 | 2023-10-10 | 14,586 | 5 |
-| 2023-10-11 | 14,587 | 5 |
+| 2023-10-11 | 14,588 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 266)  
 Sum: 1,832 (Ranked 210)  

@@ -743,9 +743,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4004,
+  "EOS_Progressed": 4005,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 295,
+  "EOS_NewPlayers": 291,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7078,6 +7078,11 @@
       "Time": "2023-10-11T00:05:48.9295833+00:00",
       "NumProgressed": 4004,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-11T01:48:51.7032191+00:00",
+      "NumProgressed": 4005,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -7128,9 +7133,9 @@
       "ID": "MF_Ach_EverythingMustGo",
       "SetID": "9b9n573",
       "Name": "Everything Must Go!",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 521
+      "UsersEstimate": 561
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -7210,7 +7215,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -7273,15 +7278,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4004,
+      "Progressed": 4005,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-07T19:57:55.3513461+00:00",
-  "LastChanged_Achievements": "2023-10-11T00:05:48.9295829+00:00",
+  "LastChanged_Achievements": "2023-10-11T01:48:51.7032186+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:44.063019+00:00",
-  "LastUpdate_Ratings": "2023-10-10T23:59:18.8719365+00:00",
-  "LastUpdate_Achievements": "2023-10-11T00:05:48.9296614+00:00"
+  "LastUpdate_Ratings": "2023-10-11T01:42:15.5678579+00:00",
+  "LastUpdate_Achievements": "2023-10-11T01:48:51.7032796+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 531,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewPlayers": 102,
   "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -78,7 +78,7 @@
   "Tags": [],
   "EOS_Progressed": 5954,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 418,
+  "EOS_NewPlayers": 408,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -3062,9 +3062,9 @@
       "ID": "achievement_01_03",
       "SetID": "4f1m94d",
       "Name": "Brand New Ride",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 3572
+      "UsersEstimate": 3632
     },
     {
       "ID": "achievement_01_04",
@@ -3359,8 +3359,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-10-07T17:57:03.0045577+00:00",
-  "LastChanged_Achievements": "2023-10-11T00:04:29.5710784+00:00",
+  "LastChanged_Achievements": "2023-10-11T01:47:14.8072145+00:00",
   "LastUpdate_AppInfo": "2023-10-05T17:57:07.1711191+00:00",
-  "LastUpdate_Ratings": "2023-10-10T23:58:40.1808478+00:00",
-  "LastUpdate_Achievements": "2023-10-11T00:04:29.5711236+00:00"
+  "LastUpdate_Ratings": "2023-10-11T01:41:27.1560758+00:00",
+  "LastUpdate_Achievements": "2023-10-11T01:47:14.8072604+00:00"
 }

@@ -1254,9 +1254,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 19770,
+  "EOS_Progressed": 19771,
   "EOS_Completed": 74,
-  "EOS_NewPlayers": 406,
+  "EOS_NewPlayers": 405,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -20074,6 +20074,11 @@
       "Time": "2023-10-11T00:03:18.3151451+00:00",
       "NumProgressed": 19770,
       "NumCompleted": 74
+    },
+    {
+      "Time": "2023-10-11T01:45:40.9776649+00:00",
+      "NumProgressed": 19771,
+      "NumCompleted": 74
     }
   ],
   "TotalAchievements": 45,
@@ -20173,7 +20178,7 @@
       "Name": "Homerunner",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 8896
+      "UsersEstimate": 8897
     },
     {
       "ID": "ICallItLuck",
@@ -20181,7 +20186,7 @@
       "Name": "I call it luck",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 8501
+      "UsersEstimate": 8502
     },
     {
       "ID": "ImproviseAdaptOverrun",
@@ -20221,7 +20226,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 15025
+      "UsersEstimate": 15026
     },
     {
       "ID": "MoreThanHuman",
@@ -20229,7 +20234,7 @@
       "Name": "More than human",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 2372
+      "UsersEstimate": 2373
     },
     {
       "ID": "Neuromancer",
@@ -20277,7 +20282,7 @@
       "Name": "Perfection",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 6326
+      "UsersEstimate": 6327
     },
     {
       "ID": "PreempativeStrike",
@@ -20285,7 +20290,7 @@
       "Name": "Pre-empative strike",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2372
+      "UsersEstimate": 2373
     },
     {
       "ID": "PushItToTheLimit",
@@ -20349,7 +20354,7 @@
       "Name": "Strike",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2372
+      "UsersEstimate": 2373
     },
     {
       "ID": "SwordRunner",
@@ -20365,7 +20370,7 @@
       "Name": "Sword to a gunfight",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 5733
+      "UsersEstimate": 5734
     },
     {
       "ID": "TripleA",
@@ -20381,7 +20386,7 @@
       "Name": "Unstoppable force",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 4349
+      "UsersEstimate": 4350
     },
     {
       "ID": "UpCloseAndPersonal",
@@ -20397,7 +20402,7 @@
       "Name": "Upgrades not mandatory",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 5733
+      "UsersEstimate": 5734
     },
     {
       "ID": "Wallrunner",
@@ -20405,7 +20410,7 @@
       "Name": "Wallrunner",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 10478
+      "UsersEstimate": 10479
     },
     {
       "ID": "WaveOfMutilation",
@@ -20413,7 +20418,7 @@
       "Name": "Wave of mutilation",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 4349
+      "UsersEstimate": 4350
     },
     {
       "ID": "WhereAreMyKeys",
@@ -20429,7 +20434,7 @@
       "Name": "Where He Stood",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 988
+      "UsersEstimate": 989
     },
     {
       "ID": "WhyNotBoth",
@@ -20444,21 +20449,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 19770,
+      "Progressed": 19771,
       "Completed": 47
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 19770,
+      "Progressed": 19771,
       "Completed": 74
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-10-09T16:58:44.980826+00:00",
-  "LastChanged_Achievements": "2023-10-11T00:03:18.3151447+00:00",
+  "LastChanged_Achievements": "2023-10-11T01:45:40.9776644+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:05.4275599+00:00",
-  "LastUpdate_Ratings": "2023-10-10T23:58:27.3152357+00:00",
-  "LastUpdate_Achievements": "2023-10-11T00:03:18.3153142+00:00"
+  "LastUpdate_Ratings": "2023-10-11T01:41:09.829759+00:00",
+  "LastUpdate_Achievements": "2023-10-11T01:45:40.9778038+00:00"
 }

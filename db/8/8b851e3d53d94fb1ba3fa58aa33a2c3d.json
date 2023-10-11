@@ -4,7 +4,7 @@
   "ProductSlug": "palladium-adventure-in-greece-f1ee1b",
   "Ranking_EOS_Progress": 440,
   "Ranking_EOS_Completed": 109,
-  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_NewPlayers": 287,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-07-20T15:00:00+00:00",
@@ -388,9 +388,9 @@
       "ID": "BEVERAGE_OF_THE_GODS",
       "SetID": "e4de54",
       "Name": "Beverage of the gods",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "CAREFULNESS",
@@ -548,17 +548,17 @@
       "ID": "RAT_TERROR",
       "SetID": "e4de54",
       "Name": "Rat terror",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "RED_HERRING",
       "SetID": "e4de54",
       "Name": "Red herring",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SELF_CONFIDENCE",
@@ -572,17 +572,17 @@
       "ID": "SPIDER",
       "SetID": "e4de54",
       "Name": "Spider",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "STEALTH_MASTER",
       "SetID": "e4de54",
       "Name": "Stealth master",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "TAMER",
@@ -611,8 +611,8 @@
   ],
   "FirstSeen": "2023-07-24T20:59:19.8931718+00:00",
   "FirstSeenAchievements": "2023-07-14T20:01:12.8113065+00:00",
-  "LastChanged_Achievements": "2023-10-11T00:04:09.510869+00:00",
+  "LastChanged_Achievements": "2023-10-11T01:46:50.0869536+00:00",
   "LastUpdate_AppInfo": "2023-10-07T02:12:11.3049242+00:00",
-  "LastUpdate_Ratings": "2023-10-10T23:57:33.1183517+00:00",
-  "LastUpdate_Achievements": "2023-10-11T00:04:09.5109009+00:00"
+  "LastUpdate_Ratings": "2023-10-11T01:40:03.5475011+00:00",
+  "LastUpdate_Achievements": "2023-10-11T01:46:50.0869882+00:00"
 }

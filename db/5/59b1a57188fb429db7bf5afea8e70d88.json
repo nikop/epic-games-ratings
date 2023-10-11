@@ -142,9 +142,9 @@
       "ID": "HERE_WE_GO_AGAIN_ACH",
       "SetID": "7jaf9il",
       "Name": "Here We Go Again",
-      "Percentage": 75,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "HEROIC_RESCUE_ACH",
@@ -222,9 +222,9 @@
       "ID": "SOMETHING_ISNT_RIGHT_ACH",
       "SetID": "7jaf9il",
       "Name": "Something Isn\u0027t Right",
-      "Percentage": 75,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "SPEED_RUNNER_ACH",
@@ -238,9 +238,9 @@
       "ID": "TAPE_IT_BACK_TOGETHER_ACH",
       "SetID": "7jaf9il",
       "Name": "Tape It Back Together",
-      "Percentage": 25,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "TEMPORARY_SHELTER_ACH",
@@ -293,8 +293,8 @@
   ],
   "FirstSeen": "2023-10-10T23:57:30.9159633+00:00",
   "FirstSeenAchievements": "2023-08-30T15:02:12.9396866+00:00",
-  "LastChanged_Achievements": "2023-10-11T00:05:48.7355021+00:00",
+  "LastChanged_Achievements": "2023-10-11T01:48:51.4443654+00:00",
   "LastUpdate_AppInfo": "2023-10-04T17:57:00.1319997+00:00",
-  "LastUpdate_Ratings": "2023-10-10T23:57:30.9159665+00:00",
-  "LastUpdate_Achievements": "2023-10-11T00:05:48.7355208+00:00"
+  "LastUpdate_Ratings": "2023-10-11T01:40:00.7150781+00:00",
+  "LastUpdate_Achievements": "2023-10-11T01:48:51.4443833+00:00"
 }

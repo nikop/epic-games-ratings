@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 648,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1657,9 +1657,9 @@
       "ID": "achievement_116",
       "SetID": "d252ncf",
       "Name": "The One and Only",
-      "Percentage": 0.6,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_117",
@@ -2533,8 +2533,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-11T00:06:40.8890038+00:00",
+  "LastChanged_Achievements": "2023-10-11T01:49:54.1802832+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:40.7255751+00:00",
-  "LastUpdate_Ratings": "2023-10-10T23:58:05.5281054+00:00",
-  "LastUpdate_Achievements": "2023-10-11T00:06:40.8891756+00:00"
+  "LastUpdate_Ratings": "2023-10-11T01:40:42.1216185+00:00",
+  "LastUpdate_Achievements": "2023-10-11T01:49:54.1804602+00:00"
 }

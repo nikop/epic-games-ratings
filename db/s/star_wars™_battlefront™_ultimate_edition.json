@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 572,
+  "EOS_Progressed": 573,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1501,6 +1501,11 @@
       "Time": "2023-10-10T21:03:31.2935332+00:00",
       "NumProgressed": 572,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-11T01:45:30.0916378+00:00",
+      "NumProgressed": 573,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -1577,7 +1582,7 @@
       "Name": "\u0022Gonk? Gonk!\u0022",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "achievement_18",
@@ -1737,7 +1742,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "achievement_36",
@@ -1745,7 +1750,7 @@
       "Name": "Impressive. Most impressive.",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "achievement_37",
@@ -1753,7 +1758,7 @@
       "Name": "Off to a good start",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "achievement_38",
@@ -1777,7 +1782,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "achievement_40",
@@ -1785,7 +1790,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "achievement_41",
@@ -1793,7 +1798,7 @@
       "Name": "Judge me by my size, do you?",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "achievement_42",
@@ -1817,7 +1822,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "achievement_45",
@@ -2016,13 +2021,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 572,
+      "Progressed": 573,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 572,
+      "Progressed": 573,
       "Completed": 1
     }
   ],
@@ -2030,8 +2035,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-11T00:03:08.9419884+00:00",
+  "LastChanged_Achievements": "2023-10-11T01:45:30.0916371+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:04.2927905+00:00",
-  "LastUpdate_Ratings": "2023-10-11T00:02:30.204107+00:00",
-  "LastUpdate_Achievements": "2023-10-11T00:03:08.9421012+00:00"
+  "LastUpdate_Ratings": "2023-10-11T01:45:17.6901928+00:00",
+  "LastUpdate_Achievements": "2023-10-11T01:45:30.0917138+00:00"
 }

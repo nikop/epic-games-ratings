@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Love | 42.00% | ~595 |
-| Clean Race | 40.00% | ~566 |
-| Eat My Dust | 40.00% | ~566 |
-| Hear That Roar! | 38.00% | ~538 |
-| Rivals to the End | 28.00% | ~396 |
+| First Love | 42.00% | ~596 |
+| Clean Race | 40.00% | ~567 |
+| Eat My Dust | 40.00% | ~567 |
+| Hear That Roar! | 38.00% | ~539 |
+| Rivals to the End | 28.00% | ~397 |
 | We're Going to Need a Bigger Garage | 24.00% | ~340 |
 | Bitter Rivalry | 24.00% | ~340 |
-| Champagne Spray | 21.00% | ~297 |
+| Champagne Spray | 21.00% | ~298 |
 | I Want One Too! | 19.00% | ~269 |
 | Restored and Ready | 18.00% | ~255 |
 | Legendary!!! | 18.00% | ~255 |
 | Quick Pit Stop | 18.00% | ~255 |
 | I'm Here Too! | 18.00% | ~255 |
 | Go-Faster Stripes | 16.00% | ~227 |
-| We've Just Begun | 9.00% | ~127 |
+| We've Just Begun | 9.00% | ~128 |
 | Stamina Star | 7.00% | ~99 |
 | Is It the Right Size? | 7.00% | ~99 |
 | Evangelist | 5.00% | ~71 |
 | Make It Your Own! | 4.00% | ~57 |
 | The Road to Liberty | 4.00% | ~57 |
 | I Make the Rules! | 4.00% | ~57 |
-| Spoilt for Choice | 3.00% | ~42 |
-| Cherry Blossom and Temples | 3.00% | ~42 |
-| La Dolce Vita | 3.00% | ~42 |
-| Romantic Races | 3.00% | ~42 |
-| Still Here | 3.00% | ~42 |
+| Spoilt for Choice | 3.00% | ~43 |
+| Cherry Blossom and Temples | 3.00% | ~43 |
+| La Dolce Vita | 3.00% | ~43 |
+| Romantic Races | 3.00% | ~43 |
+| Still Here | 3.00% | ~43 |
 | Iconic! | 2.00% | ~28 |
 | Back in Blighty | 2.00% | ~28 |
 | Rounding Off | 2.00% | ~28 |
@@ -39,7 +39,7 @@
 | I Don't Stop | 1.00% | ~14 |
 | Next Level | 0.90% | ~13 |
 | Exhausted but Happy | 0.80% | ~11 |
-| In Search of Perfection | 0.60% | ~8 |
+| In Search of Perfection | 0.60% | ~9 |
 | Globe-trotter | 0.40% | ~6 |
 | Maximum Endurance | 0.20% | ~3 |
 | Beyond the Limiter | 0.10% | ~1 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,416 (Ranked 220)  
+Progressed: 1,418 (Ranked 220)  
 Completed: 0 (0.00%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,3 +94,4 @@ Completed: 0 (0.00%) (Ranked 312)
 | 2023-10-08 | 1,381 | 0 |
 | 2023-10-09 | 1,401 | 0 |
 | 2023-10-10 | 1,416 | 0 |
+| 2023-10-11 | 1,418 | 0 |

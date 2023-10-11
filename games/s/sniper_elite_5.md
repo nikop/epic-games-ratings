@@ -1,32 +1,32 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.45 (Ranked 643)  
+Rating: 4.45 (Ranked 644)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 46.00% | ~1,713 |
-| Confirming Suspicions | 41.00% | ~1,526 |
+| Confirming Suspicions | 41.00% | ~1,527 |
 | The Kraken Wakes | 37.00% | ~1,378 |
 | It's Starting to Crack | 34.00% | ~1,266 |
 | Change the Channel | 31.00% | ~1,154 |
 | Lord of War | 30.00% | ~1,117 |
-| Taking it back | 28.00% | ~1,042 |
+| Taking it back | 28.00% | ~1,043 |
 | Resourceful | 27.00% | ~1,005 |
 | Target America | 26.00% | ~968 |
 | The Kraken Sleeps | 24.00% | ~894 |
-| Organ Grinder | 23.00% | ~856 |
+| Organ Grinder | 23.00% | ~857 |
 | Liberté | 22.00% | ~819 |
 | Sharpshooter | 22.00% | ~819 |
 | As Quiet as a Mouse | 22.00% | ~819 |
-| Explosive Efficiency | 19.00% | ~707 |
+| Explosive Efficiency | 19.00% | ~708 |
 | Gunslinger | 18.00% | ~670 |
 | Just a Flesh Wound | 17.00% | ~633 |
 | Climbing the Ladder | 16.00% | ~596 |
 | Der Geist | 16.00% | ~596 |
 | Close Quarters | 16.00% | ~596 |
-| Snake in the Grass | 15.00% | ~558 |
-| Brains of the Operation | 15.00% | ~558 |
+| Snake in the Grass | 15.00% | ~559 |
+| Brains of the Operation | 15.00% | ~559 |
 | No Stone Unturned | 14.00% | ~521 |
 | Opposing Force | 14.00% | ~521 |
 | Enemy at the Gates | 14.00% | ~521 |
@@ -59,11 +59,11 @@ Rating: 4.45 (Ranked 643)
 | Eagle Eyed | 2.00% | ~74 |
 | Up close and personal | 2.00% | ~74 |
 | Can't Outrun A Bullet | 2.00% | ~74 |
-| Führerious Repetition | 2.00% | ~73 |
-| Reich To The Point | 2.00% | ~73 |
-| Covert Elimination | 2.00% | ~73 |
-| Shipbreaker | 2.00% | ~73 |
-| Sink or Swim | 2.00% | ~73 |
+| Führerious Repetition | 2.00% | ~74 |
+| Reich To The Point | 2.00% | ~74 |
+| Covert Elimination | 2.00% | ~74 |
+| Shipbreaker | 2.00% | ~74 |
+| Sink or Swim | 2.00% | ~74 |
 | Best of the Best | 1.00% | ~37 |
 | Sight Beyond Sights | 1.00% | ~37 |
 | From Führer Away | 1.00% | ~37 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 643)
 | Going Overboard | 0.60% | ~22 |
 | Stroll in the Woods | 0.50% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,723 (Ranked 178)  
+Progressed: 3,724 (Ranked 178)  
 Completed: 11 (0.30%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,6 +249,7 @@ Completed: 11 (0.30%) (Ranked 204)
 | 2023-10-08 | 3,715 | 11 |
 | 2023-10-09 | 3,718 | 11 |
 | 2023-10-10 | 3,723 | 11 |
+| 2023-10-11 | 3,724 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

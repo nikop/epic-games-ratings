@@ -34,9 +34,9 @@
 | Artful Assister | 35.00% | ~43 |
 | Karakuri Isle | 34.00% | ~42 |
 | Left Arm Leverager | 32.00% | ~40 |
+| Human Believer | 31.00% | ~38 |
 | Unrivaled in Arms | 31.00% | ~38 |
 | Karakuri Minato | 31.00% | ~38 |
-| Human Believer | 30.00% | ~37 |
 | Style Seeker | 29.00% | ~36 |
 | Threaded Harmony | 29.00% | ~36 |
 | Canyon of Karakuri | 27.00% | ~33 |
@@ -46,7 +46,7 @@
 | Quintessence of Form | 24.00% | ~30 |
 | Tender Touch | 23.00% | ~29 |
 | Superlative View | 23.00% | ~29 |
-| Haven Hunter | 22.00% | ~27 |
+| Haven Hunter | 23.00% | ~29 |
 | Relentless Kemono Hunter | 19.00% | ~24 |
 | Vanquisher of the Volatile | 17.00% | ~21 |
 | Bewitched by Bathing | 15.00% | ~19 |

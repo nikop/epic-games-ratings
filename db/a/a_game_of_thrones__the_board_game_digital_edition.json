@@ -1275,9 +1275,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 25789,
+  "EOS_Progressed": 25791,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 463,
+  "EOS_NewPlayers": 461,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -19900,6 +19900,11 @@
       "Time": "2023-10-10T23:07:19.063808+00:00",
       "NumProgressed": 25789,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-10-11T01:49:17.947261+00:00",
+      "NumProgressed": 25791,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 22,
@@ -19935,7 +19940,7 @@
       "Name": "Unbowed, Unbent, Unbroken",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 1289
+      "UsersEstimate": 1290
     },
     {
       "ID": "1019",
@@ -19951,7 +19956,7 @@
       "Name": "Growing Strong",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1289
+      "UsersEstimate": 1290
     },
     {
       "ID": "1021",
@@ -20039,7 +20044,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3610
+      "UsersEstimate": 3611
     },
     {
       "ID": "1032",
@@ -20086,15 +20091,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 25789,
+      "Progressed": 25791,
       "Completed": 64
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-09-03T23:00:19.1993338+00:00",
-  "LastChanged_Achievements": "2023-10-11T00:06:11.0821766+00:00",
+  "LastChanged_Achievements": "2023-10-11T01:49:17.9472605+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:37.0739283+00:00",
-  "LastUpdate_Ratings": "2023-10-10T23:57:34.5397491+00:00",
-  "LastUpdate_Achievements": "2023-10-11T00:06:11.0823171+00:00"
+  "LastUpdate_Ratings": "2023-10-11T01:40:05.3747296+00:00",
+  "LastUpdate_Achievements": "2023-10-11T01:49:17.9474251+00:00"
 }
