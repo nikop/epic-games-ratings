@@ -1908,9 +1908,9 @@
       "ID": "tireless_explorer",
       "SetID": "5fi1i42",
       "Name": "Tireless Explorer",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 88
+      "UsersEstimate": 92
     },
     {
       "ID": "treant_destroyer",
@@ -1955,8 +1955,8 @@
   ],
   "FirstSeen": "2023-07-12T15:57:01.7070767+00:00",
   "FirstSeenAchievements": "2023-07-18T16:05:27.8243884+00:00",
-  "LastChanged_Achievements": "2023-10-11T02:25:23.4633341+00:00",
+  "LastChanged_Achievements": "2023-10-11T03:09:19.8160591+00:00",
   "LastUpdate_AppInfo": "2023-10-05T11:57:28.6631125+00:00",
-  "LastUpdate_Ratings": "2023-10-11T02:14:58.1059533+00:00",
-  "LastUpdate_Achievements": "2023-10-11T02:25:23.4633536+00:00"
+  "LastUpdate_Ratings": "2023-10-11T02:58:56.8628136+00:00",
+  "LastUpdate_Achievements": "2023-10-11T03:09:19.8160854+00:00"
 }

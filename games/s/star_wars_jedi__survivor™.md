@@ -31,8 +31,8 @@ Rating: 4.49 (Ranked 590)
 | A Place You Could Call Home | 39.00% | ~1,893 |
 | Catch! | 39.00% | ~1,893 |
 | They're Probably Fine | 38.00% | ~1,844 |
+| Han Slowlo | 35.00% | ~1,699 |
 | There Is No Try | 35.00% | ~1,699 |
-| Han Slowlo | 34.00% | ~1,650 |
 | The Jedi Path | 29.00% | ~1,407 |
 | This Is Canon | 27.00% | ~1,310 |
 | It's a Trap | 24.00% | ~1,165 |

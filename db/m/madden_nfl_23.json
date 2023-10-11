@@ -700,9 +700,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 2381,
+  "EOS_Progressed": 2382,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 384,
+  "EOS_NewPlayers": 385,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2805,6 +2805,11 @@
       "Time": "2023-10-11T02:20:13.3793568+00:00",
       "NumProgressed": 2381,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-11T03:04:21.0368978+00:00",
+      "NumProgressed": 2382,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -2825,7 +2830,7 @@
       "Name": "Bragging Rights",
       "Percentage": 56,
       "XP": 90,
-      "UsersEstimate": 1333
+      "UsersEstimate": 1334
     },
     {
       "ID": "achievement_11",
@@ -2839,9 +2844,9 @@
       "ID": "achievement_12",
       "SetID": "c8fif6p",
       "Name": "Stud Finder",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1000
     },
     {
       "ID": "achievement_13",
@@ -2857,7 +2862,7 @@
       "Name": "Dealmaker",
       "Percentage": 41,
       "XP": 60,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "achievement_15",
@@ -2984,7 +2989,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 2381,
+      "Progressed": 2382,
       "Completed": 0
     }
   ],
@@ -2992,8 +2997,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-10-10T17:59:35.6472222+00:00",
-  "LastChanged_Achievements": "2023-10-11T02:20:13.3793562+00:00",
+  "LastChanged_Achievements": "2023-10-11T03:04:21.0368971+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:58.3611516+00:00",
-  "LastUpdate_Ratings": "2023-10-11T02:15:55.1590218+00:00",
-  "LastUpdate_Achievements": "2023-10-11T02:20:13.3793798+00:00"
+  "LastUpdate_Ratings": "2023-10-11T02:59:56.5443953+00:00",
+  "LastUpdate_Achievements": "2023-10-11T03:04:21.0369297+00:00"
 }

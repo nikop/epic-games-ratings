@@ -4,7 +4,7 @@
   "ProductSlug": "hand-of-fate-2",
   "Ranking_Rating": 490,
   "Ranking_Popularity": 452,
-  "Ranking_PopularitySum": 391,
+  "Ranking_PopularitySum": 390,
   "Ranking_EOS_Progress": 25,
   "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 121,
@@ -898,7 +898,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 663166,
+  "EOS_Progressed": 663167,
   "EOS_Completed": 170,
   "EOS_NewPlayers": 264,
   "EOS_NewCompleters": 0,
@@ -17363,6 +17363,11 @@
       "Time": "2023-10-11T01:49:20.9241904+00:00",
       "NumProgressed": 663166,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-10-11T03:06:31.5871175+00:00",
+      "NumProgressed": 663167,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 48,
@@ -17382,7 +17387,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 384636
+      "UsersEstimate": 384637
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -17702,7 +17707,7 @@
       "Name": "Thomas\u0027 Bane",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 5968
+      "UsersEstimate": 5969
     },
     {
       "ID": "Achievement_43_Final_Death",
@@ -17726,7 +17731,7 @@
       "Name": "Peaceful Coast",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1989
+      "UsersEstimate": 1990
     },
     {
       "ID": "Achievement_46_Pilgrim",
@@ -17757,15 +17762,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 663166,
+      "Progressed": 663167,
       "Completed": 170
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-09-17T14:00:02.1778642+00:00",
-  "LastChanged_Achievements": "2023-10-11T02:22:24.8671023+00:00",
+  "LastChanged_Achievements": "2023-10-11T03:06:31.5871167+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:13.7193737+00:00",
-  "LastUpdate_Ratings": "2023-10-11T02:15:14.9881908+00:00",
-  "LastUpdate_Achievements": "2023-10-11T02:22:24.8672082+00:00"
+  "LastUpdate_Ratings": "2023-10-11T02:59:14.4971565+00:00",
+  "LastUpdate_Achievements": "2023-10-11T03:06:31.5872453+00:00"
 }

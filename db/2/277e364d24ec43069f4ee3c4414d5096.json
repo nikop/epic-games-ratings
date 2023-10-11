@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -326,7 +326,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 110830,
+  "EOS_Progressed": 110833,
   "EOS_Completed": 45,
   "EOS_NewPlayers": 828,
   "EOS_NewCompleters": 1,
@@ -13946,6 +13946,11 @@
       "Time": "2023-10-11T02:23:12.3565543+00:00",
       "NumProgressed": 110830,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-10-11T03:08:29.5627394+00:00",
+      "NumProgressed": 110833,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 49,
@@ -13965,7 +13970,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 85339
+      "UsersEstimate": 85341
     },
     {
       "ID": "EAwards_10",
@@ -13973,7 +13978,7 @@
       "Name": "Juan Punch Man",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12191
+      "UsersEstimate": 12192
     },
     {
       "ID": "EAwards_11",
@@ -13981,7 +13986,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 28816
+      "UsersEstimate": 28817
     },
     {
       "ID": "EAwards_12",
@@ -13989,7 +13994,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 16624
+      "UsersEstimate": 16625
     },
     {
       "ID": "EAwards_13",
@@ -14029,7 +14034,7 @@
       "Name": "Talented Player",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 39899
+      "UsersEstimate": 39900
     },
     {
       "ID": "EAwards_18",
@@ -14053,7 +14058,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 53198
+      "UsersEstimate": 53200
     },
     {
       "ID": "EAwards_20",
@@ -14085,7 +14090,7 @@
       "Name": "These are not fertilized",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 8866
+      "UsersEstimate": 8867
     },
     {
       "ID": "EAwards_24",
@@ -14109,7 +14114,7 @@
       "Name": "I have nothing left to teach you",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 12191
+      "UsersEstimate": 12192
     },
     {
       "ID": "EAwards_27",
@@ -14189,7 +14194,7 @@
       "Name": "Nacho Libre",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 8866
+      "UsersEstimate": 8867
     },
     {
       "ID": "EAwards_36",
@@ -14317,7 +14322,7 @@
       "Name": "Severed 2",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 8866
+      "UsersEstimate": 8867
     },
     {
       "ID": "EAwards_7",
@@ -14348,7 +14353,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 110830,
+      "Progressed": 110833,
       "Completed": 45
     }
   ],
@@ -14356,8 +14361,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-25T16:00:07.3978241+00:00",
-  "LastChanged_Achievements": "2023-10-11T02:23:12.3565531+00:00",
+  "LastChanged_Achievements": "2023-10-11T03:08:29.5627389+00:00",
   "LastUpdate_AppInfo": "2023-10-06T01:39:33.4628061+00:00",
-  "LastUpdate_Ratings": "2023-10-11T02:13:55.4013095+00:00",
-  "LastUpdate_Achievements": "2023-10-11T02:23:12.3566513+00:00"
+  "LastUpdate_Ratings": "2023-10-11T02:57:56.6051479+00:00",
+  "LastUpdate_Achievements": "2023-10-11T03:08:29.5628731+00:00"
 }

@@ -7,7 +7,7 @@ Number of Ratings: 780  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Fool | 72.00% | ~477,480 |
-| Apprentice | 58.00% | ~384,636 |
+| Apprentice | 58.00% | ~384,637 |
 | Close Shave | 25.00% | ~165,792 |
 | Mercenary | 23.00% | ~152,528 |
 | Ninja | 23.00% | ~152,528 |
@@ -39,7 +39,7 @@ Number of Ratings: 780  (23.09.2022)
 | Cursed Soul | 1.00% | ~6,632 |
 | Champion | 1.00% | ~6,632 |
 | Final Death | 1.00% | ~6,632 |
-| Thomas' Bane | 0.90% | ~5,968 |
+| Thomas' Bane | 0.90% | ~5,969 |
 | Ally | 0.80% | ~5,305 |
 | Gamester | 0.70% | ~4,642 |
 | Hero | 0.60% | ~3,979 |
@@ -47,7 +47,7 @@ Number of Ratings: 780  (23.09.2022)
 | Dungeon Master | 0.50% | ~3,316 |
 | Pilgrim | 0.40% | ~2,653 |
 | Smiths Honour | 0.40% | ~2,653 |
-| Peaceful Coast | 0.30% | ~1,989 |
+| Peaceful Coast | 0.30% | ~1,990 |
 | Money Bags | 0.20% | ~1,326 |
 | Grifter | 0.10% | ~663 |
 | Unburdened | 0.10% | ~663 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~663 |
 | Blood Pact | 0.10% | ~663 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 663,166 (Ranked 25)  
+Progressed: 663,167 (Ranked 25)  
 Completed: 170 (0.03%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,11 +229,11 @@ Completed: 170 (0.03%) (Ranked 281)
 | 2023-10-08 | 663,084 | 170 |
 | 2023-10-09 | 663,132 | 170 |
 | 2023-10-10 | 663,163 | 170 |
-| 2023-10-11 | 663,166 | 170 |
+| 2023-10-11 | 663,167 | 170 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 452)  
-Sum: 186 (Ranked 391)  
-Diff (max vs sum): 61  
+Sum: 186 (Ranked 390)  
+Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 118 |

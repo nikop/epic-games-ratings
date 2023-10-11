@@ -23,12 +23,12 @@
 | Who let the pets out? | 4.00% | ~5 |
 | Groovy! | 4.00% | ~5 |
 | It's a bug's life | 4.00% | ~5 |
+| Zap! | 3.00% | ~3 |
 | V is for Vegan | 3.00% | ~3 |
 | Veggie Master | 2.00% | ~2 |
 | Homecoming | 2.00% | ~2 |
 | I am Root! | 2.00% | ~2 |
 | Tururururu! | 2.00% | ~2 |
-| Zap! | 2.00% | ~2 |
 | Yeehaw! | 0.90% | ~1 |
 | Yeetus Deletus | 0.90% | ~1 |
 | Best in the field | 0.90% | ~1 |

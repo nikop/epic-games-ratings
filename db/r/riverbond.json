@@ -4,11 +4,11 @@
   "ProductSlug": "riverbond-782aa4",
   "Ranking_Rating": 619,
   "Ranking_Popularity": 525,
-  "Ranking_PopularitySum": 525,
+  "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 34,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
     "PcReleaseDate": "2019-06-09T00:00:00+00:00",
@@ -494,10 +494,10 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 529039,
+  "EOS_Progressed": 529040,
   "EOS_Completed": 482,
   "EOS_NewPlayers": 491,
-  "EOS_NewCompleters": 3,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
     {
@@ -19019,6 +19019,11 @@
       "Time": "2023-10-11T02:22:19.5047755+00:00",
       "NumProgressed": 529039,
       "NumCompleted": 482
+    },
+    {
+      "Time": "2023-10-11T03:06:26.5308821+00:00",
+      "NumProgressed": 529040,
+      "NumCompleted": 482
     }
   ],
   "TotalAchievements": 57,
@@ -19046,7 +19051,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 370327
+      "UsersEstimate": 370328
     },
     {
       "ID": "12",
@@ -19110,7 +19115,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 328004
+      "UsersEstimate": 328005
     },
     {
       "ID": "2",
@@ -19126,7 +19131,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 126969
+      "UsersEstimate": 126970
     },
     {
       "ID": "21",
@@ -19286,7 +19291,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 179873
+      "UsersEstimate": 179874
     },
     {
       "ID": "4",
@@ -19358,7 +19363,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 328004
+      "UsersEstimate": 328005
     },
     {
       "ID": "48",
@@ -19374,7 +19379,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 179873
+      "UsersEstimate": 179874
     },
     {
       "ID": "5",
@@ -19390,7 +19395,7 @@
       "Name": "Two of a Kind",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 74065
+      "UsersEstimate": 74066
     },
     {
       "ID": "51",
@@ -19485,15 +19490,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 529039,
+      "Progressed": 529040,
       "Completed": 482
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-10-11T02:22:19.5047748+00:00",
+  "LastChanged_Achievements": "2023-10-11T03:06:26.5308816+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:12.4810618+00:00",
-  "LastUpdate_Ratings": "2023-10-11T02:14:05.6775603+00:00",
-  "LastUpdate_Achievements": "2023-10-11T02:22:19.5049024+00:00"
+  "LastUpdate_Ratings": "2023-10-11T02:58:07.3233761+00:00",
+  "LastUpdate_Achievements": "2023-10-11T03:06:26.5310574+00:00"
 }

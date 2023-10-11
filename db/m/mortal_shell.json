@@ -4,7 +4,7 @@
   "ProductSlug": "mortal-shell",
   "Ranking_Rating": 828,
   "Ranking_Popularity": 525,
-  "Ranking_PopularitySum": 525,
+  "Ranking_PopularitySum": 478,
   "Ranking_EOS_Progress": 662,
   "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 403,
@@ -610,12 +610,18 @@
       "Rating": 4.28,
       "NumberOfAwards": 20,
       "NumberOfAwardsMax": 20
+    },
+    {
+      "Time": "2023-10-11T02:59:17.3240037+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 40,
+      "NumberOfAwardsMax": 20
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20,
+  "NumberOfAwards": 40,
   "NumberOfAwardsMax": 20,
-  "MaxAwardTitle": "Unique Visuals",
+  "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
@@ -627,6 +633,12 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
+      "Count": 20
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
       "Count": 20
     }
   ],
@@ -641,8 +653,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:45.0826323+00:00",
-  "LastChanged": "2023-10-05T07:03:07.7157142+00:00",
+  "LastChanged": "2023-10-11T02:59:17.3240035+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:26.0301724+00:00",
-  "LastUpdate_Ratings": "2023-10-11T02:15:17.3062681+00:00",
-  "LastUpdate_Achievements": "2023-10-11T02:22:25.4060149+00:00"
+  "LastUpdate_Ratings": "2023-10-11T02:59:17.3240041+00:00",
+  "LastUpdate_Achievements": "2023-10-11T03:06:32.1262562+00:00"
 }

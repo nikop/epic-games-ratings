@@ -6,20 +6,20 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~721,545 |
-| The Blues | 85.00% | ~619,508 |
+| Out of bed | 99.00% | ~721,546 |
+| The Blues | 85.00% | ~619,509 |
 | Fast | 66.00% | ~481,030 |
-| Healthbar | 55.00% | ~400,858 |
-| Force Cube | 53.00% | ~386,281 |
+| Healthbar | 55.00% | ~400,859 |
+| Force Cube | 53.00% | ~386,282 |
 | Double Jump | 48.00% | ~349,840 |
 | Regeneration | 47.00% | ~342,552 |
-| Triple Jump | 43.00% | ~313,398 |
+| Triple Jump | 43.00% | ~313,399 |
 | Climb the hill | 42.00% | ~306,110 |
 | Through the fire pipe | 39.00% | ~284,245 |
 | MacGuffin | 38.00% | ~276,957 |
-| Just once | 37.00% | ~269,668 |
+| Just once | 37.00% | ~269,669 |
 | Armor | 30.00% | ~218,650 |
-| True holy spirit | 28.00% | ~204,073 |
+| True holy spirit | 28.00% | ~204,074 |
 | That's how electronics work obviously | 27.00% | ~196,785 |
 | Force Cube Catapult | 25.00% | ~182,208 |
 | Holy Sword | 23.00% | ~167,632 |
@@ -95,9 +95,9 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: Thrown | 0.40% | ~2,915 |
 | DLC: To the House | 0.40% | ~2,915 |
 | DLC: Knock, Knock, Knockin' on Wooden Doors | 0.40% | ~2,915 |
-| DLC: Birds | 0.30% | ~2,186 |
-| DLC: Horticultural | 0.30% | ~2,186 |
-| DLC: Non-NPC | 0.30% | ~2,186 |
+| DLC: Birds | 0.30% | ~2,187 |
+| DLC: Horticultural | 0.30% | ~2,187 |
+| DLC: Non-NPC | 0.30% | ~2,187 |
 | DLC: The Giant's Workshop | 0.20% | ~1,458 |
 | DLC: Invisible Wall | 0.20% | ~1,458 |
 | DLC: A good cause! | 0.20% | ~1,458 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~729 |
 | DLC: Top of the world | 0.10% | ~729 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 728,833 (Ranked 19)  
+Progressed: 728,834 (Ranked 19)  
 Completed: 746 (0.10%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,7 +279,7 @@ Completed: 746 (0.10%) (Ranked 246)
 | 2023-10-08 | 728,636 | 745 |
 | 2023-10-09 | 728,732 | 745 |
 | 2023-10-10 | 728,821 | 746 |
-| 2023-10-11 | 728,833 | 746 |
+| 2023-10-11 | 728,834 | 746 |
 ## Awards
 Max (Challenging Puzzles): 7,696  (Ranked 47)  
 Sum: 10,034 (Ranked 90)  

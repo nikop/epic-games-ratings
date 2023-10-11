@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 39,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2022-04-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-23T00:00:00+00:00",
@@ -2708,9 +2708,9 @@
       "Count": 146
     }
   ],
-  "EOS_Progressed": 653052,
+  "EOS_Progressed": 653055,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 2481,
+  "EOS_NewPlayers": 2473,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22298,6 +22298,11 @@
       "Time": "2023-10-11T02:21:27.9112128+00:00",
       "NumProgressed": 653052,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-10-11T03:05:35.6524197+00:00",
+      "NumProgressed": 653055,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 52,
@@ -22629,7 +22634,7 @@
       "Name": "Climate Change",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 104488
+      "UsersEstimate": 104489
     },
     {
       "ID": "_11_00_FIRE_FIGHTER",
@@ -22724,15 +22729,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 653052,
+      "Progressed": 653055,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-10-09T17:02:40.4221354+00:00",
-  "LastChanged_Achievements": "2023-10-11T02:21:27.9112122+00:00",
+  "LastChanged_Achievements": "2023-10-11T03:05:35.652419+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:08.7369498+00:00",
-  "LastUpdate_Ratings": "2023-10-11T02:19:07.5002906+00:00",
-  "LastUpdate_Achievements": "2023-10-11T02:21:27.9113368+00:00"
+  "LastUpdate_Ratings": "2023-10-11T03:03:12.4167676+00:00",
+  "LastUpdate_Achievements": "2023-10-11T03:05:35.6525856+00:00"
 }

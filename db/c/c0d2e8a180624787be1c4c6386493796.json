@@ -4,7 +4,7 @@
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 502,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
@@ -367,9 +367,9 @@
       "ID": "KR4_ACHIEVEMENT_HYPNOTOAD",
       "SetID": "caeik3h",
       "Name": "Glory To The Hypnotoad",
-      "Percentage": 13,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "KR4_ACHIEVEMENT_ICESCULPTOR",
@@ -439,9 +439,9 @@
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_HARD",
       "SetID": "caeik3h",
       "Name": "No Survivors III",
-      "Percentage": 53,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_MEDIUM",
@@ -734,8 +734,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-10-11T02:21:57.1300941+00:00",
+  "LastChanged_Achievements": "2023-10-11T03:06:04.0282363+00:00",
   "LastUpdate_AppInfo": "2023-10-05T14:57:18.2729846+00:00",
-  "LastUpdate_Ratings": "2023-10-11T01:43:59.479382+00:00",
-  "LastUpdate_Achievements": "2023-10-11T02:21:57.1301578+00:00"
+  "LastUpdate_Ratings": "2023-10-11T02:57:21.4978223+00:00",
+  "LastUpdate_Achievements": "2023-10-11T03:06:04.0283195+00:00"
 }

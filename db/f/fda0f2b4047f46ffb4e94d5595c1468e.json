@@ -1074,9 +1074,9 @@
       "Count": 180
     }
   ],
-  "EOS_Progressed": 7357,
+  "EOS_Progressed": 7358,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 579,
+  "EOS_NewPlayers": 577,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3714,6 +3714,11 @@
       "Time": "2023-10-11T01:48:53.9271687+00:00",
       "NumProgressed": 7357,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-11T03:06:08.8110659+00:00",
+      "NumProgressed": 7358,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -3726,7 +3731,7 @@
       "Name": "Become A Ninja In No Time",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2501
+      "UsersEstimate": 2502
     },
     {
       "ID": "ach02",
@@ -3854,7 +3859,7 @@
       "Name": "So I Just Kill Stuff??",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 3678
+      "UsersEstimate": 3679
     },
     {
       "ID": "ach18",
@@ -3942,7 +3947,7 @@
       "Name": "Feeling Stronger",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2354
+      "UsersEstimate": 2355
     },
     {
       "ID": "ach29",
@@ -3958,7 +3963,7 @@
       "Name": "Juggernaut",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "ach31",
@@ -4014,7 +4019,7 @@
       "Name": "ABACABB",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 4046
+      "UsersEstimate": 4047
     },
     {
       "ID": "ach38",
@@ -4054,7 +4059,7 @@
       "Name": "Quest Master",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3016
+      "UsersEstimate": 3017
     },
     {
       "ID": "ach43",
@@ -4125,7 +4130,7 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 7357,
+      "Progressed": 7358,
       "Completed": 0
     }
   ],
@@ -4133,8 +4138,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-10-11T01:40:00.0856502+00:00",
-  "LastChanged_Achievements": "2023-10-11T02:22:01.912054+00:00",
+  "LastChanged_Achievements": "2023-10-11T03:06:08.8110654+00:00",
   "LastUpdate_AppInfo": "2023-10-07T06:57:30.1408327+00:00",
-  "LastUpdate_Ratings": "2023-10-11T02:13:48.2197249+00:00",
-  "LastUpdate_Achievements": "2023-10-11T02:22:01.9121002+00:00"
+  "LastUpdate_Ratings": "2023-10-11T02:57:49.4063144+00:00",
+  "LastUpdate_Achievements": "2023-10-11T03:06:08.8111332+00:00"
 }

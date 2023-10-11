@@ -2605,10 +2605,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 1968,
       "NumberOfAwardsMax": 286
+    },
+    {
+      "Time": "2023-10-11T03:00:20.2909604+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 1969,
+      "NumberOfAwardsMax": 286
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1968,
+  "NumberOfAwards": 1969,
   "NumberOfAwardsMax": 286,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -2646,7 +2652,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 228
+      "Count": 229
     },
     {
       "Text": "This game has Unique Visuals",
@@ -2673,9 +2679,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 535139,
+  "EOS_Progressed": 535140,
   "EOS_Completed": 1569,
-  "EOS_NewPlayers": 530,
+  "EOS_NewPlayers": 531,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -21643,6 +21649,11 @@
       "Time": "2023-10-11T02:19:40.0776151+00:00",
       "NumProgressed": 535139,
       "NumCompleted": 1569
+    },
+    {
+      "Time": "2023-10-11T03:03:47.406051+00:00",
+      "NumProgressed": 535140,
+      "NumCompleted": 1569
     }
   ],
   "TotalAchievements": 37,
@@ -21710,7 +21721,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 444165
+      "UsersEstimate": 444166
     },
     {
       "ID": "HONED",
@@ -21838,7 +21849,7 @@
       "Name": "The Keep",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 74919
+      "UsersEstimate": 74920
     },
     {
       "ID": "THE_LAKE",
@@ -21910,7 +21921,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 342489
+      "UsersEstimate": 342490
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -21949,15 +21960,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 535139,
+      "Progressed": 535140,
       "Completed": 1569
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
-  "LastChanged": "2023-10-10T15:59:50.7161487+00:00",
-  "LastChanged_Achievements": "2023-10-11T02:19:40.0776147+00:00",
+  "LastChanged": "2023-10-11T03:00:20.2909602+00:00",
+  "LastChanged_Achievements": "2023-10-11T03:03:47.4060501+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:24.9112747+00:00",
-  "LastUpdate_Ratings": "2023-10-11T02:16:15.7039332+00:00",
-  "LastUpdate_Achievements": "2023-10-11T02:19:40.0777272+00:00"
+  "LastUpdate_Ratings": "2023-10-11T03:00:20.2909608+00:00",
+  "LastUpdate_Achievements": "2023-10-11T03:03:47.4061942+00:00"
 }

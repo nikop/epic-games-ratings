@@ -6,43 +6,43 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 1.00% | ~9,317 |
-| It wakes | 1.00% | ~9,317 |
-| Not half bad | 1.00% | ~9,317 |
-| Skillful | 1.00% | ~9,317 |
-| Make Some Noise | 1.00% | ~9,317 |
-| Handyman | 0.90% | ~8,385 |
-| Apt Survivor | 0.90% | ~8,385 |
-| Survival Treasures | 0.90% | ~8,385 |
+| Zealous | 1.00% | ~9,318 |
+| It wakes | 1.00% | ~9,318 |
+| Not half bad | 1.00% | ~9,318 |
+| Skillful | 1.00% | ~9,318 |
+| Make Some Noise | 1.00% | ~9,318 |
+| Handyman | 0.90% | ~8,386 |
+| Apt Survivor | 0.90% | ~8,386 |
+| Survival Treasures | 0.90% | ~8,386 |
+| Medic | 0.80% | ~7,454 |
 | Sorted | 0.80% | ~7,454 |
 | Resurgence | 0.80% | ~7,454 |
 | The Grand Sacrifice | 0.70% | ~6,522 |
 | No one left behind | 0.70% | ~6,522 |
-| Medic | 0.70% | ~6,522 |
 | Nerves of steel | 0.70% | ~6,522 |
 | Bloody Millionaire | 0.70% | ~6,522 |
 | I | 0.70% | ~6,522 |
 | Healthy Obsession | 0.70% | ~6,522 |
 | Preemptive Strike | 0.70% | ~6,522 |
-| Agonizing Escape | 0.60% | ~5,590 |
-| Backdoor Escape | 0.60% | ~5,590 |
-| I've got your back | 0.60% | ~5,590 |
-| Perfect Escape | 0.60% | ~5,590 |
-| Engineer | 0.60% | ~5,590 |
-| Humanitarian | 0.60% | ~5,590 |
+| Agonizing Escape | 0.60% | ~5,591 |
+| Backdoor Escape | 0.60% | ~5,591 |
+| I've got your back | 0.60% | ~5,591 |
+| Perfect Escape | 0.60% | ~5,591 |
+| Engineer | 0.60% | ~5,591 |
+| Humanitarian | 0.60% | ~5,591 |
 | Perfect Killing | 0.50% | ~4,659 |
 | Apt Killer | 0.50% | ~4,659 |
 | Risk it all | 0.50% | ~4,659 |
 | II | 0.50% | ~4,659 |
 | Wounded Healer | 0.50% | ~4,659 |
 | Close Shave | 0.50% | ~4,659 |
+| Second Act | 0.50% | ~4,659 |
 | Vulture | 0.40% | ~3,727 |
 | III | 0.40% | ~3,727 |
 | First to the Punch | 0.40% | ~3,727 |
 | Every Last Drop | 0.40% | ~3,727 |
 | With Scars to Show | 0.40% | ~3,727 |
 | Flight to Freedom | 0.40% | ~3,727 |
-| Second Act | 0.40% | ~3,727 |
 | Blood on your hands | 0.30% | ~2,795 |
 | Escape Artist | 0.30% | ~2,795 |
 | Made it out alive! | 0.30% | ~2,795 |
@@ -72,31 +72,31 @@ Number of Ratings: 70,340  (23.09.2022)
 | Chorus of Chaos | 0.30% | ~2,795 |
 | One More Step | 0.30% | ~2,795 |
 | MU/TH/UR Dearest | 0.30% | ~2,795 |
-| A bite for the Entity | 0.20% | ~1,863 |
-| Blood on your face | 0.20% | ~1,863 |
-| Jump Scares | 0.20% | ~1,863 |
-| Hemophobia | 0.20% | ~1,863 |
-| Deep Cleansing | 0.20% | ~1,863 |
-| Leapfrog | 0.20% | ~1,863 |
-| Texas BBQ | 0.20% | ~1,863 |
-| Serial Killer | 0.20% | ~1,863 |
-| Game Over | 0.20% | ~1,863 |
-| Party Crasher | 0.20% | ~1,863 |
-| Outrage | 0.20% | ~1,863 |
-| Devoted Gatekeeping | 0.20% | ~1,863 |
-| Shrine Apparatus | 0.20% | ~1,863 |
-| Broken Bodies | 0.20% | ~1,863 |
-| Selfless Survival | 0.20% | ~1,863 |
-| End of Days | 0.20% | ~1,863 |
-| Insult and Injury | 0.20% | ~1,863 |
-| Triage | 0.20% | ~1,863 |
-| Outrun the Overlap | 0.20% | ~1,863 |
-| High Speed Pursuit | 0.20% | ~1,863 |
-| Rebuilding The Borgo | 0.20% | ~1,863 |
-| Hack the Mainframe | 0.20% | ~1,863 |
-| Complete the Evolution | 0.20% | ~1,863 |
-| Extraterrestrial | 0.20% | ~1,863 |
-| Kitted Out | 0.20% | ~1,863 |
+| A bite for the Entity | 0.20% | ~1,864 |
+| Blood on your face | 0.20% | ~1,864 |
+| Jump Scares | 0.20% | ~1,864 |
+| Hemophobia | 0.20% | ~1,864 |
+| Deep Cleansing | 0.20% | ~1,864 |
+| Leapfrog | 0.20% | ~1,864 |
+| Texas BBQ | 0.20% | ~1,864 |
+| Serial Killer | 0.20% | ~1,864 |
+| Game Over | 0.20% | ~1,864 |
+| Party Crasher | 0.20% | ~1,864 |
+| Outrage | 0.20% | ~1,864 |
+| Devoted Gatekeeping | 0.20% | ~1,864 |
+| Shrine Apparatus | 0.20% | ~1,864 |
+| Broken Bodies | 0.20% | ~1,864 |
+| Selfless Survival | 0.20% | ~1,864 |
+| End of Days | 0.20% | ~1,864 |
+| Insult and Injury | 0.20% | ~1,864 |
+| Triage | 0.20% | ~1,864 |
+| Outrun the Overlap | 0.20% | ~1,864 |
+| High Speed Pursuit | 0.20% | ~1,864 |
+| Rebuilding The Borgo | 0.20% | ~1,864 |
+| Hack the Mainframe | 0.20% | ~1,864 |
+| Complete the Evolution | 0.20% | ~1,864 |
+| Extraterrestrial | 0.20% | ~1,864 |
+| Kitted Out | 0.20% | ~1,864 |
 | A feast for the Entity | 0.10% | ~932 |
 | Blood in your mouth | 0.10% | ~932 |
 | Cripple them all | 0.10% | ~932 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~932 |
 | Adept Ripley | 0.10% | ~932 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 931,719 (Ranked 14)  
+Progressed: 931,762 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -410,14 +410,14 @@ Completed: 49 (0.01%) (Ranked 294)
 | 2023-10-08 | 927,984 | 49 |
 | 2023-10-09 | 929,902 | 49 |
 | 2023-10-10 | 931,511 | 49 |
-| 2023-10-11 | 931,719 | 49 |
+| 2023-10-11 | 931,762 | 49 |
 ## Awards
-Max (Diverse Characters): 33,667  (Ranked 15)  
-Sum: 261,003 (Ranked 13)  
+Max (Diverse Characters): 33,734  (Ranked 15)  
+Sum: 261,070 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 33,667 |
+| This game has Diverse Characters | 33,734 |
 | This game is Highly Recommended | 29,816 |
 | This game has Competitive Players | 29,506 |
 | This game has Amazing Characters | 29,480 |
@@ -691,3 +691,4 @@ Diff (max vs sum): 2
 | 2023-10-08 | 4.52 | - | 33,596 | 260,474 |
 | 2023-10-09 | 4.52 | - | 33,640 | 260,754 |
 | 2023-10-10 | 4.51 | - | 33,667 | 261,003 |
+| 2023-10-11 | 4.51 | - | 33,734 | 261,070 |

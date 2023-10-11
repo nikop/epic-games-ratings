@@ -5,12 +5,12 @@ Rating: 4.64 (Ranked 318)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Satisfied Gus-tomer | 0.70% | ~169 |
 | Sweezy Like Sunday Morning | 0.70% | ~169 |
 | First Bounty Down | 0.70% | ~169 |
 | G3 Graduation | 0.70% | ~169 |
 | Cold-Blooded Driller | 0.70% | ~169 |
 | Don't Knife The Hand That Feeds | 0.70% | ~169 |
-| Satisfied Gus-tomer | 0.60% | ~145 |
 | Are You Packin'? | 0.60% | ~145 |
 | RIP Davey Glutes | 0.60% | ~145 |
 | Hardest Battle In The Game | 0.60% | ~145 |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 318)
 | It's Like The Santa Clause | 0.10% | ~1 |
 | That's B.A.L.L., Folks | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,179 (Ranked 119)  
+Progressed: 24,181 (Ranked 119)  
 Completed: 13 (0.05%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 13 (0.05%) (Ranked 269)
 | 2023-10-08 | 24,152 | 13 |
 | 2023-10-09 | 24,168 | 13 |
 | 2023-10-10 | 24,177 | 13 |
-| 2023-10-11 | 24,179 | 13 |
+| 2023-10-11 | 24,181 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

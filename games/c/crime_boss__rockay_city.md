@@ -33,6 +33,7 @@ Rating: 3.94 (Ranked 977)
 | Olympus Ascended | 0.20% | ~178 |
 | Ding Dong | 0.20% | ~178 |
 | All that Glitters | 0.20% | ~35 |
+| All for One | 0.20% | ~35 |
 | Rockay Knight | 0.10% | ~89 |
 | Privateer | 0.10% | ~89 |
 | Talent Scout | 0.10% | ~89 |
@@ -43,7 +44,6 @@ Rating: 3.94 (Ranked 977)
 | Geek Out | 0.10% | ~89 |
 | Classy Joint | 0.10% | ~89 |
 | Impossible Dreamer | 0.10% | ~89 |
-| All for One | 0.10% | ~17 |
 | One for All | 0.10% | ~17 |
 | Now You See Me | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)

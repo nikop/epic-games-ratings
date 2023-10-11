@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 143,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-04-28T04:00:00+00:00",
     "PcReleaseDate": "2023-04-28T04:00:00+00:00",
@@ -4184,7 +4184,7 @@
   ],
   "EOS_Progressed": 4853,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 815,
+  "EOS_NewPlayers": 809,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -6522,9 +6522,9 @@
       "ID": "achievement_a14",
       "SetID": "3m4b0pk",
       "Name": "Han Slowlo",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 1650
+      "UsersEstimate": 1699
     },
     {
       "ID": "achievement_a15",
@@ -6915,8 +6915,8 @@
   "FirstSeenRating": "2023-04-28T17:02:09.2169574+00:00",
   "FirstSeenAchievements": "2023-07-31T22:07:03.059823+00:00",
   "LastChanged": "2023-10-11T01:42:25.248273+00:00",
-  "LastChanged_Achievements": "2023-10-11T02:22:48.3724402+00:00",
+  "LastChanged_Achievements": "2023-10-11T03:08:05.2118511+00:00",
   "LastUpdate_AppInfo": "2023-10-07T09:57:21.9804325+00:00",
-  "LastUpdate_Ratings": "2023-10-11T02:15:48.895926+00:00",
-  "LastUpdate_Achievements": "2023-10-11T02:22:48.3724882+00:00"
+  "LastUpdate_Ratings": "2023-10-11T02:59:50.4314364+00:00",
+  "LastUpdate_Achievements": "2023-10-11T03:08:05.211919+00:00"
 }

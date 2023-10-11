@@ -23,8 +23,8 @@
 | Silver Scarf | 1.00% | ~1 |
 | So close! | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68 (Ranked 413)  
-Completed: 1 (1.47%) (Ranked 123)  
+Progressed: 69 (Ranked 411)  
+Completed: 1 (1.45%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -45,4 +45,4 @@ Completed: 1 (1.47%) (Ranked 123)
 | 2023-10-08 | 59 | 1 |
 | 2023-10-09 | 66 | 1 |
 | 2023-10-10 | 67 | 1 |
-| 2023-10-11 | 68 | 1 |
+| 2023-10-11 | 69 | 1 |

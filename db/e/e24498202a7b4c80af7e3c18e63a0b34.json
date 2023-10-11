@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 186,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 31,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
     "PcReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -76,7 +76,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5955,
+  "EOS_Progressed": 5956,
   "EOS_Completed": 24,
   "EOS_NewPlayers": 408,
   "EOS_NewCompleters": 6,
@@ -3041,6 +3041,11 @@
       "Time": "2023-10-11T02:20:38.4200715+00:00",
       "NumProgressed": 5955,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-10-11T03:04:45.7385729+00:00",
+      "NumProgressed": 5956,
+      "NumCompleted": 24
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -3053,7 +3058,7 @@
       "Name": "First of Many",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 5062
+      "UsersEstimate": 5063
     },
     {
       "ID": "achievement_01_02",
@@ -3061,7 +3066,7 @@
       "Name": "Tournament Star",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 1012
+      "UsersEstimate": 1013
     },
     {
       "ID": "achievement_01_03",
@@ -3077,7 +3082,7 @@
       "Name": "Bzzzt",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 4228
+      "UsersEstimate": 4229
     },
     {
       "ID": "achievement_01_05",
@@ -3101,7 +3106,7 @@
       "Name": "Car Workshop",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 2322
+      "UsersEstimate": 2323
     },
     {
       "ID": "achievement_01_08",
@@ -3117,7 +3122,7 @@
       "Name": "Right Foot",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 2501
+      "UsersEstimate": 2502
     },
     {
       "ID": "achievement_01_10",
@@ -3163,9 +3168,9 @@
       "ID": "achievement_02_05",
       "SetID": "4f1m94d",
       "Name": "Fully Upgraded",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 1310
+      "UsersEstimate": 1370
     },
     {
       "ID": "achievement_02_06",
@@ -3293,7 +3298,7 @@
       "Name": "Gotta go Fast",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 2501
+      "UsersEstimate": 2502
     },
     {
       "ID": "achievement_04_03",
@@ -3301,7 +3306,7 @@
       "Name": "Consolation Trophy",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 2858
+      "UsersEstimate": 2859
     },
     {
       "ID": "achievement_04_04",
@@ -3317,7 +3322,7 @@
       "Name": "That was a Close Call!",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1786
+      "UsersEstimate": 1787
     },
     {
       "ID": "achievement_04_06",
@@ -3341,7 +3346,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 5002
+      "UsersEstimate": 5003
     },
     {
       "ID": "achievement_04_09",
@@ -3356,7 +3361,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 5955,
+      "Progressed": 5956,
       "Completed": 24
     }
   ],
@@ -3364,8 +3369,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-10-07T17:57:03.0045577+00:00",
-  "LastChanged_Achievements": "2023-10-11T02:20:38.4200709+00:00",
+  "LastChanged_Achievements": "2023-10-11T03:04:45.7385725+00:00",
   "LastUpdate_AppInfo": "2023-10-05T17:57:07.1711191+00:00",
-  "LastUpdate_Ratings": "2023-10-11T02:15:03.175878+00:00",
-  "LastUpdate_Achievements": "2023-10-11T02:20:38.4201406+00:00"
+  "LastUpdate_Ratings": "2023-10-11T02:59:02.2473937+00:00",
+  "LastUpdate_Achievements": "2023-10-11T03:04:45.7386191+00:00"
 }

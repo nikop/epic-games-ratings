@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 531,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -286,9 +286,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24179,
+  "EOS_Progressed": 24181,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5426,6 +5426,11 @@
       "Time": "2023-10-11T01:46:12.59875+00:00",
       "NumProgressed": 24179,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-10-11T03:03:53.808906+00:00",
+      "NumProgressed": 24181,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 44,
@@ -5483,9 +5488,9 @@
       "ID": "ACH_GET_GUS",
       "SetID": "cdkbb11",
       "Name": "Satisfied Gus-tomer",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 145
+      "UsersEstimate": 169
     },
     {
       "ID": "ACH_GET_JETPACK",
@@ -5788,13 +5793,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24179,
+      "Progressed": 24181,
       "Completed": 13
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1472,
+      "Progressed": 1474,
       "Completed": 1373
     }
   ],
@@ -5802,8 +5807,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-07T05:03:09.4311759+00:00",
-  "LastChanged_Achievements": "2023-10-11T02:19:46.3135521+00:00",
+  "LastChanged_Achievements": "2023-10-11T03:03:53.8089055+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:51.1168375+00:00",
-  "LastUpdate_Ratings": "2023-10-11T02:14:51.3965922+00:00",
-  "LastUpdate_Achievements": "2023-10-11T02:19:46.3136079+00:00"
+  "LastUpdate_Ratings": "2023-10-11T02:58:49.7837695+00:00",
+  "LastUpdate_Achievements": "2023-10-11T03:03:53.8089786+00:00"
 }

@@ -12,8 +12,8 @@ Rating: 4.62 (Ranked 354)
 | Brute Force | 66.00% | ~605 |
 | Cannon Fodder | 62.00% | ~568 |
 | Autofire | 60.00% | ~550 |
+| Story Teller | 58.00% | ~531 |
 | True Believer | 58.00% | ~531 |
-| Story Teller | 57.00% | ~522 |
 | Raise the Stakes | 57.00% | ~522 |
 | Surgeon | 53.00% | ~485 |
 | Exterminator | 52.00% | ~476 |
@@ -30,7 +30,7 @@ Rating: 4.62 (Ranked 354)
 | Legend Teller | 37.00% | ~339 |
 | There's Always Peng! | 37.00% | ~339 |
 | Exodus | 36.00% | ~330 |
-| Mindless Prey | 35.00% | ~321 |
+| Mindless Prey | 36.00% | ~330 |
 | A Cut Above | 34.00% | ~311 |
 | Front Toward Enemy | 34.00% | ~311 |
 | Whole Again | 28.00% | ~256 |
