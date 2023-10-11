@@ -1748,9 +1748,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 60470,
+  "EOS_Progressed": 60472,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 526,
+  "EOS_NewPlayers": 524,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -20833,6 +20833,11 @@
       "Time": "2023-10-11T15:06:19.8030201+00:00",
       "NumProgressed": 60470,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-11T16:05:52.6030331+00:00",
+      "NumProgressed": 60472,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -20844,7 +20849,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 33258
+      "UsersEstimate": 33260
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -21076,7 +21081,7 @@
       "Name": "Headhunter I",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 15722
+      "UsersEstimate": 15723
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS2",
@@ -21100,7 +21105,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 19350
+      "UsersEstimate": 19351
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -21108,7 +21113,7 @@
       "Name": "Corpseman I",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 24188
+      "UsersEstimate": 24189
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -21132,7 +21137,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 38096
+      "UsersEstimate": 38097
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -21140,7 +21145,7 @@
       "Name": "Gott Mit Uns",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7256
+      "UsersEstimate": 7257
     },
     {
       "ID": "VERDUN_ACH_LEVEL100",
@@ -21212,7 +21217,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 47167
+      "UsersEstimate": 47168
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -21308,22 +21313,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 22374
+      "UsersEstimate": 22375
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 60470,
+      "Progressed": 60472,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-09-19T10:59:28.3016701+00:00",
-  "LastChanged_Achievements": "2023-10-11T15:06:19.8030196+00:00",
+  "LastChanged_Achievements": "2023-10-11T16:05:52.6030325+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:23.9532506+00:00",
-  "LastUpdate_Ratings": "2023-10-11T15:01:27.2125166+00:00",
-  "LastUpdate_Achievements": "2023-10-11T15:06:19.8031832+00:00"
+  "LastUpdate_Ratings": "2023-10-11T16:00:42.8789586+00:00",
+  "LastUpdate_Achievements": "2023-10-11T16:05:52.603204+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 269,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -288,7 +288,7 @@
   "Tags": [],
   "EOS_Progressed": 24185,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5580,9 +5580,9 @@
       "ID": "ACH_JUGGLE_SKILLS",
       "SetID": "cdkbb11",
       "Name": "We\u0027re All Very Impressed, Trust Me",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -5684,9 +5684,9 @@
       "ID": "ACH_NIPULON_JOKE",
       "SetID": "cdkbb11",
       "Name": "Spent 15 Hours At The Alien Strip Club",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 97
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH_NOT_KENNY",
@@ -5827,8 +5827,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-07T05:03:09.4311759+00:00",
-  "LastChanged_Achievements": "2023-10-11T15:04:22.1708557+00:00",
+  "LastChanged_Achievements": "2023-10-11T16:04:14.3640309+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:51.1168375+00:00",
-  "LastUpdate_Ratings": "2023-10-11T14:59:27.2287692+00:00",
-  "LastUpdate_Achievements": "2023-10-11T15:04:22.1709227+00:00"
+  "LastUpdate_Ratings": "2023-10-11T15:59:04.2673233+00:00",
+  "LastUpdate_Achievements": "2023-10-11T16:04:14.3641583+00:00"
 }

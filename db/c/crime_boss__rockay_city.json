@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 269,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -3916,10 +3916,16 @@
       "Rating": 3.94,
       "NumberOfAwards": 2324,
       "NumberOfAwardsMax": 488
+    },
+    {
+      "Time": "2023-10-11T15:57:36.7281529+00:00",
+      "Rating": 3.94,
+      "NumberOfAwards": 2325,
+      "NumberOfAwardsMax": 488
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 2324,
+  "NumberOfAwards": 2325,
   "NumberOfAwardsMax": 488,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3963,7 +3969,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 461
+      "Count": 462
     },
     {
       "Text": "This game has a Silly Community",
@@ -3975,7 +3981,7 @@
   "EOS_Progressed": 88988,
   "EOS_Completed": 48,
   "EOS_NewPlayers": 246,
-  "EOS_NewCompleters": 2,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
     {
@@ -22150,9 +22156,9 @@
       "ID": "ACH_0451",
       "SetID": "3kam13l",
       "Name": "Raider\u2019s Ruin",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 534
+      "UsersEstimate": 623
     },
     {
       "ID": "ACH_0452",
@@ -22228,9 +22234,9 @@
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-10-11T14:57:37.6682465+00:00",
-  "LastChanged_Achievements": "2023-10-11T15:06:32.100777+00:00",
+  "LastChanged": "2023-10-11T15:57:36.7281525+00:00",
+  "LastChanged_Achievements": "2023-10-11T16:06:03.0116847+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:16.9897613+00:00",
-  "LastUpdate_Ratings": "2023-10-11T14:57:37.668247+00:00",
-  "LastUpdate_Achievements": "2023-10-11T15:06:32.1009148+00:00"
+  "LastUpdate_Ratings": "2023-10-11T15:57:36.7281535+00:00",
+  "LastUpdate_Achievements": "2023-10-11T16:06:03.0118631+00:00"
 }

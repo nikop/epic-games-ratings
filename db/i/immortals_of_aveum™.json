@@ -700,9 +700,9 @@
       "ID": "achievement_5",
       "SetID": "18al4io",
       "Name": "Initiate",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "achievement_50",
@@ -837,8 +837,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-10-03T16:00:12.6154231+00:00",
-  "LastChanged_Achievements": "2023-10-11T15:06:59.0304761+00:00",
+  "LastChanged_Achievements": "2023-10-11T16:06:25.3548862+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:18.0204012+00:00",
-  "LastUpdate_Ratings": "2023-10-11T14:59:45.5932052+00:00",
-  "LastUpdate_Achievements": "2023-10-11T15:06:59.0305217+00:00"
+  "LastUpdate_Ratings": "2023-10-11T15:59:20.5964507+00:00",
+  "LastUpdate_Achievements": "2023-10-11T16:06:25.3549537+00:00"
 }

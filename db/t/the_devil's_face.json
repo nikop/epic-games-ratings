@@ -4,7 +4,7 @@
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 361,
+  "EOS_Progressed": 362,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -1601,6 +1601,11 @@
       "Time": "2023-10-11T01:45:29.869329+00:00",
       "NumProgressed": 361,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-11T16:03:56.5511804+00:00",
+      "NumProgressed": 362,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 14,
@@ -1684,7 +1689,7 @@
       "Name": "Unholy lands",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -1723,14 +1728,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 361,
+      "Progressed": 362,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-10-11T15:03:50.4223926+00:00",
+  "LastChanged_Achievements": "2023-10-11T16:03:56.5511798+00:00",
   "LastUpdate_AppInfo": "2023-10-07T11:57:07.3971588+00:00",
-  "LastUpdate_Ratings": "2023-10-11T14:57:03.7584684+00:00",
-  "LastUpdate_Achievements": "2023-10-11T15:03:50.4224117+00:00"
+  "LastUpdate_Ratings": "2023-10-11T15:57:08.2626976+00:00",
+  "LastUpdate_Achievements": "2023-10-11T16:03:56.5512071+00:00"
 }

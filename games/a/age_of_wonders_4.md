@@ -11,13 +11,13 @@ Rating: 4.60 (Ranked 398)
 | Walls Cannot Stop Us | 7.00% | ~365 |
 | From Friends to Family | 7.00% | ~365 |
 | Tipping the Scales | 7.00% | ~365 |
+| There Can Only Be One! | 6.00% | ~313 |
 | Bone Peddler | 6.00% | ~313 |
 | Stronger Together | 6.00% | ~313 |
 | Magical Synergy | 6.00% | ~313 |
 | Seat of Power | 6.00% | ~313 |
 | Intimidation Tactics | 6.00% | ~313 |
 | Mighty Hoard | 6.00% | ~313 |
-| There Can Only Be One! | 5.00% | ~260 |
 | Full Ascension | 5.00% | ~260 |
 | My Final Form | 5.00% | ~260 |
 | In a Liege of Your Own | 5.00% | ~260 |

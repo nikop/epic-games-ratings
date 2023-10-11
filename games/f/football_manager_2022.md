@@ -9,15 +9,15 @@ Number of Ratings: 19,160  (23.09.2022)
 | Clean Sheet | 50.00% | ~237,196 |
 | He's Signed! | 50.00% | ~237,196 |
 | First Victory | 50.00% | ~237,196 |
-| He's Sold! | 48.00% | ~227,708 |
+| He's Sold! | 48.00% | ~227,709 |
 | I'm The Boss! | 42.00% | ~199,245 |
 | Hat-trick | 41.00% | ~194,501 |
 | Scoring Streak | 38.00% | ~180,269 |
 | Unbeatable! | 37.00% | ~175,525 |
 | Thumping | 37.00% | ~175,525 |
-| Superb Dressing Room Atmosphere | 35.00% | ~166,037 |
-| Total Support | 32.00% | ~151,805 |
-| Record Signing | 32.00% | ~151,805 |
+| Superb Dressing Room Atmosphere | 35.00% | ~166,038 |
+| Total Support | 32.00% | ~151,806 |
+| Record Signing | 32.00% | ~151,806 |
 | He's a Natural | 31.00% | ~147,062 |
 | Millionaire's Club | 31.00% | ~147,062 |
 | Team Performance | 30.00% | ~142,318 |
@@ -41,9 +41,9 @@ Number of Ratings: 19,160  (23.09.2022)
 | Clean Bill of Health | 22.00% | ~104,366 |
 | What A Goal! | 22.00% | ~104,366 |
 | Cup Glory! | 22.00% | ~104,366 |
-| Irresistible Force | 20.00% | ~94,878 |
-| Excellent Match Cohesion | 20.00% | ~94,878 |
-| Do The Double | 19.00% | ~90,134 |
+| Irresistible Force | 20.00% | ~94,879 |
+| Excellent Match Cohesion | 20.00% | ~94,879 |
+| Do The Double | 19.00% | ~90,135 |
 | Top Form | 17.00% | ~80,647 |
 | Cash To Burn | 17.00% | ~80,647 |
 | Overachiever! | 16.00% | ~75,903 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~474 |
 | Shoestring Budget | 0.10% | ~474 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 474,392 (Ranked 36)  
+Progressed: 474,393 (Ranked 36)  
 Completed: 22 (0.00%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,10 +279,10 @@ Completed: 22 (0.00%) (Ranked 312)
 | 2023-10-08 | 474,304 | 22 |
 | 2023-10-09 | 474,338 | 22 |
 | 2023-10-10 | 474,374 | 22 |
-| 2023-10-11 | 474,392 | 22 |
+| 2023-10-11 | 474,393 | 22 |
 ## Awards
 Max (Relaxing): 6,459  (Ranked 56)  
-Sum: 50,852 (Ranked 27)  
+Sum: 50,853 (Ranked 27)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -295,7 +295,7 @@ Diff (max vs sum): 29
 | This game has Diverse Characters | 5,541 |
 | This game has Amazing Storytelling | 4,919 |
 | This game has Obsessive Gameplay | 4,416 |
-| This game has Amazing Characters | 4,376 |
+| This game has Amazing Characters | 4,377 |
 | This game has a Creative Community | 1,495 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -558,4 +558,4 @@ Diff (max vs sum): 29
 | 2023-10-08 | 4.80 | - | 6,457 | 50,845 |
 | 2023-10-09 | 4.80 | - | 6,459 | 50,848 |
 | 2023-10-10 | 4.80 | - | 6,459 | 50,851 |
-| 2023-10-11 | 4.80 | - | 6,459 | 50,852 |
+| 2023-10-11 | 4.80 | - | 6,459 | 50,853 |

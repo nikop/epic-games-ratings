@@ -37,12 +37,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | Blank Page Syndrome | 0.90% | ~1,237 |
 | Efficient Floor Space | 0.90% | ~1,237 |
 | Gem Expert | 0.90% | ~1,237 |
-| Research & Development | 0.80% | ~1,099 |
-| Fated Encounters | 0.80% | ~1,099 |
-| Power of Love | 0.80% | ~1,099 |
-| Flawless Fusion | 0.80% | ~1,099 |
-| Helping Hand | 0.80% | ~1,099 |
-| Natural 20 | 0.80% | ~1,099 |
+| Research & Development | 0.80% | ~1,100 |
+| Fated Encounters | 0.80% | ~1,100 |
+| Power of Love | 0.80% | ~1,100 |
+| Flawless Fusion | 0.80% | ~1,100 |
+| Helping Hand | 0.80% | ~1,100 |
+| Natural 20 | 0.80% | ~1,100 |
 | Tax not Included | 0.70% | ~962 |
 | For the Hoard! | 0.70% | ~962 |
 | This Power Level...! | 0.70% | ~962 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,436 (Ranked 73)  
+Progressed: 137,438 (Ranked 73)  
 Completed: 168 (0.12%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 168 (0.12%) (Ranked 239)
 | 2023-10-08 | 137,336 | 167 |
 | 2023-10-09 | 137,384 | 167 |
 | 2023-10-10 | 137,421 | 168 |
-| 2023-10-11 | 137,436 | 168 |
+| 2023-10-11 | 137,438 | 168 |
 ## Awards
 Max (Great for Beginners): 4,779  (Ranked 71)  
 Sum: 27,369 (Ranked 51)  

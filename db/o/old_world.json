@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -1741,10 +1741,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 1832,
       "NumberOfAwardsMax": 224
+    },
+    {
+      "Time": "2023-10-11T16:03:25.0946052+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1833,
+      "NumberOfAwardsMax": 224
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1832,
+  "NumberOfAwards": 1833,
   "NumberOfAwardsMax": 224,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -1788,7 +1794,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 190
+      "Count": 191
     },
     {
       "Text": "This game is Relaxing",
@@ -1821,9 +1827,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14595,
+  "EOS_Progressed": 14596,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 259,
+  "EOS_NewPlayers": 258,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13571,6 +13577,11 @@
       "Time": "2023-10-11T15:06:15.3347104+00:00",
       "NumProgressed": 14595,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-11T16:05:48.9321872+00:00",
+      "NumProgressed": 14596,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -14084,9 +14095,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_JUST",
       "SetID": "7l38kb8",
       "Name": "Just",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 146
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_KEYSTONE",
@@ -14316,9 +14327,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_ABLE",
       "SetID": "7l38kb8",
       "Name": "Able Difficulty",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 117
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_GLORIOUS",
@@ -16317,21 +16328,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14595,
+      "Progressed": 14596,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14595,
+      "Progressed": 14596,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
-  "LastChanged": "2023-10-10T17:03:34.4008549+00:00",
-  "LastChanged_Achievements": "2023-10-11T15:06:15.3347097+00:00",
+  "LastChanged": "2023-10-11T16:03:25.094605+00:00",
+  "LastChanged_Achievements": "2023-10-11T16:05:48.9321865+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:48.3987129+00:00",
-  "LastUpdate_Ratings": "2023-10-11T15:03:13.1356461+00:00",
-  "LastUpdate_Achievements": "2023-10-11T15:06:15.3361832+00:00"
+  "LastUpdate_Ratings": "2023-10-11T16:03:25.0946057+00:00",
+  "LastUpdate_Achievements": "2023-10-11T16:05:48.9334807+00:00"
 }

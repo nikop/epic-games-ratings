@@ -8,7 +8,7 @@ Rating: 4.20 (Ranked 880)
 | “Occupied!“ | 1.00% | ~16 |
 | Worlds best dad | 1.00% | ~16 |
 | Resignation Reprise | 0.70% | ~12 |
-| Admiring the view | 0.50% | ~8 |
+| Admiring the view | 0.60% | ~10 |
 | Resignation | 0.40% | ~7 |
 | “Here boy…“ | 0.30% | ~5 |
 | Understanding | 0.30% | ~5 |

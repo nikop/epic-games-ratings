@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22233,
+  "EOS_Progressed": 22262,
   "EOS_Completed": 11759,
-  "EOS_NewPlayers": 3277,
+  "EOS_NewPlayers": 3276,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 52.89,
+  "EOS_Completed_Percentage": 52.82,
   "EosHistory": [
     {
       "Time": "2023-08-15T10:06:43.8267441+00:00",
@@ -5096,6 +5096,11 @@
       "Time": "2023-10-11T15:06:44.3882901+00:00",
       "NumProgressed": 22233,
       "NumCompleted": 11759
+    },
+    {
+      "Time": "2023-10-11T16:06:13.2116988+00:00",
+      "NumProgressed": 22262,
+      "NumCompleted": 11759
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -5116,7 +5121,7 @@
       "Name": "First blood",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 12673
+      "UsersEstimate": 12689
     },
     {
       "ID": "grenadeKills",
@@ -5132,7 +5137,7 @@
       "Name": "Head popping I",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "headshots1000",
@@ -5148,7 +5153,7 @@
       "Name": "Head popping II",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "knifeKills",
@@ -5219,14 +5224,14 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 22233,
+      "Progressed": 22262,
       "Completed": 11759
     }
   ],
   "FirstSeen": "2023-09-28T12:00:24.9112474+00:00",
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
-  "LastChanged_Achievements": "2023-10-11T15:06:44.3882896+00:00",
+  "LastChanged_Achievements": "2023-10-11T16:06:13.2116981+00:00",
   "LastUpdate_AppInfo": "2023-10-07T09:57:22.1549513+00:00",
-  "LastUpdate_Ratings": "2023-10-11T15:01:16.3349831+00:00",
-  "LastUpdate_Achievements": "2023-10-11T15:06:44.3883314+00:00"
+  "LastUpdate_Ratings": "2023-10-11T16:00:34.4445144+00:00",
+  "LastUpdate_Achievements": "2023-10-11T16:06:13.2117769+00:00"
 }

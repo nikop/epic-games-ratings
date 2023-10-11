@@ -10,6 +10,7 @@
 | The great escape | 8.00% | ~22 |
 | A new dawn | 7.00% | ~19 |
 | A good beginning | 5.00% | ~14 |
+| Half the way | 5.00% | ~14 |
 | True G3M4R | 5.00% | ~14 |
 | Scholar | 5.00% | ~14 |
 | The darkness | 5.00% | ~14 |
@@ -17,16 +18,15 @@
 | In this together | 4.00% | ~11 |
 | Peace walker | 4.00% | ~11 |
 | Cable guy | 4.00% | ~11 |
-| Half the way | 4.00% | ~11 |
 | Open door | 4.00% | ~11 |
 | Feels like springtime | 4.00% | ~11 |
 | Alchemists Express | 4.00% | ~11 |
 | One last step | 4.00% | ~11 |
 | Free at last | 3.00% | ~8 |
 | For its own good | 3.00% | ~8 |
+| A Link to the Past | 3.00% | ~8 |
 | Rascal | 3.00% | ~8 |
 | Champollion | 3.00% | ~8 |
-| A Link to the Past | 2.00% | ~6 |
 | A great audience | 1.00% | ~3 |
 | Fashion victim | 0.70% | ~2 |
 ## Popularity (Based on EOS Achievements)

@@ -7737,10 +7737,16 @@
       "Rating": 4.8,
       "NumberOfAwards": 50852,
       "NumberOfAwardsMax": 6459
+    },
+    {
+      "Time": "2023-10-11T15:57:59.7543648+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 50853,
+      "NumberOfAwardsMax": 6459
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 50852,
+  "NumberOfAwards": 50853,
   "NumberOfAwardsMax": 6459,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -7802,7 +7808,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4376
+      "Count": 4377
     },
     {
       "Text": "This game has a Creative Community",
@@ -7811,9 +7817,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 474392,
+  "EOS_Progressed": 474393,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 291,
+  "EOS_NewPlayers": 292,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25916,6 +25922,11 @@
       "Time": "2023-10-11T15:05:52.562546+00:00",
       "NumProgressed": 474392,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-10-11T16:05:29.5586803+00:00",
+      "NumProgressed": 474393,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -26127,7 +26138,7 @@
       "Name": "Do The Double",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 90134
+      "UsersEstimate": 90135
     },
     {
       "ID": "achievement_dont_concede_a_goal_for_10_consecutive_matches",
@@ -26223,7 +26234,7 @@
       "Name": "Irresistible Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 94878
+      "UsersEstimate": 94879
     },
     {
       "ID": "achievement_golden_boot_award",
@@ -26351,7 +26362,7 @@
       "Name": "Superb Dressing Room Atmosphere",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 166037
+      "UsersEstimate": 166038
     },
     {
       "ID": "achievement_perfect_managerial_support",
@@ -26359,7 +26370,7 @@
       "Name": "Total Support",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 151805
+      "UsersEstimate": 151806
     },
     {
       "ID": "achievement_perfect_match_cohesion",
@@ -26367,7 +26378,7 @@
       "Name": "Excellent Match Cohesion",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 94878
+      "UsersEstimate": 94879
     },
     {
       "ID": "achievement_pick_feeder",
@@ -26431,7 +26442,7 @@
       "Name": "Record Signing",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 151805
+      "UsersEstimate": 151806
     },
     {
       "ID": "achievement_rushed_signing",
@@ -26471,7 +26482,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 227708
+      "UsersEstimate": 227709
     },
     {
       "ID": "achievement_signed_a_player",
@@ -26710,15 +26721,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 474392,
+      "Progressed": 474393,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
-  "LastChanged": "2023-10-11T13:58:19.6937044+00:00",
-  "LastChanged_Achievements": "2023-10-11T15:05:52.5625454+00:00",
+  "LastChanged": "2023-10-11T15:57:59.7543646+00:00",
+  "LastChanged_Achievements": "2023-10-11T16:05:29.5586793+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:37.2597837+00:00",
-  "LastUpdate_Ratings": "2023-10-11T14:58:06.0015004+00:00",
-  "LastUpdate_Achievements": "2023-10-11T15:05:52.5627736+00:00"
+  "LastUpdate_Ratings": "2023-10-11T15:57:59.7543653+00:00",
+  "LastUpdate_Achievements": "2023-10-11T16:05:29.5589106+00:00"
 }

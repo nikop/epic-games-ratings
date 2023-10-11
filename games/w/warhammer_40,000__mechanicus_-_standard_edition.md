@@ -1,24 +1,24 @@
 # Warhammer 40,000: Mechanicus - Standard Edition
 [Store](https://store.epicgames.com/en-US/p/warhammer-mechanicus-0e4b71)  
 [View Rawdata](../../db/w/warhammer_40,000__mechanicus_-_standard_edition.json)  
-Rating: 4.43 (Ranked 673)  
+Rating: 4.43 (Ranked 672)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | No aid from the Omnissiah | 26.00% | ~58,366 |
 | This is only the beginning | 19.00% | ~42,652 |
 | Knowledge is power | 12.00% | ~26,938 |
-| Power Ranger | 9.00% | ~20,203 |
-| Galvanic Rifle | 9.00% | ~20,203 |
-| Taser Goad | 9.00% | ~20,203 |
-| Radium Ready | 9.00% | ~20,203 |
-| Half a cog | 9.00% | ~20,203 |
+| Power Ranger | 9.00% | ~20,204 |
+| Galvanic Rifle | 9.00% | ~20,204 |
+| Taser Goad | 9.00% | ~20,204 |
+| Radium Ready | 9.00% | ~20,204 |
+| Half a cog | 9.00% | ~20,204 |
 | Watch them crumble | 6.00% | ~13,469 |
 | Competent Cohort | 4.00% | ~8,979 |
 | Celestial Cartography Catastrophe | 4.00% | ~8,979 |
 | One with the Machine | 4.00% | ~8,979 |
-| Legio Cybernetica | 3.00% | ~6,734 |
-| Fleshy Disposal | 3.00% | ~6,734 |
+| Legio Cybernetica | 3.00% | ~6,735 |
+| Fleshy Disposal | 3.00% | ~6,735 |
 | Battle Servitor | 2.00% | ~4,490 |
 | Ding Dong Szaregon's Gone | 2.00% | ~4,490 |
 | Impatient destruction | 2.00% | ~4,490 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 673)
 | Perma-live | 0.10% | ~224 |
 | Purge the Heretek | 0.10% | ~224 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,483 (Ranked 62)  
+Progressed: 224,486 (Ranked 62)  
 Completed: 5 (0.00%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,17 +214,17 @@ Completed: 5 (0.00%) (Ranked 312)
 | 2023-10-08 | 224,310 | 5 |
 | 2023-10-09 | 224,376 | 5 |
 | 2023-10-10 | 224,445 | 5 |
-| 2023-10-11 | 224,483 | 5 |
+| 2023-10-11 | 224,486 | 5 |
 ## Awards
 Max (Highly Recommended): 285  (Ranked 247)  
-Sum: 2,162 (Ranked 198)  
+Sum: 2,163 (Ranked 198)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 285 |
 | This game has Quickly Understood Controls | 279 |
 | This game is Extremely Fun | 276 |
-| This game has Diverse Characters | 265 |
+| This game has Diverse Characters | 266 |
 | This game has Amazing Characters | 262 |
 | This game has Amazing Storytelling | 246 |
 | This game is Relaxing | 241 |
@@ -306,3 +306,4 @@ Diff (max vs sum): 49
 | 2023-10-06 | 4.43 | 285 | 2,160 |
 | 2023-10-07 | 4.43 | 285 | 2,161 |
 | 2023-10-10 | 4.43 | 285 | 2,162 |
+| 2023-10-11 | 4.43 | 285 | 2,163 |

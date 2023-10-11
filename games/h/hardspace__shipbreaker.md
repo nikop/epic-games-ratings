@@ -18,7 +18,7 @@ Number of Ratings: 36  (23.09.2022)
 | A drop in the Ocean | 29.00% | ~268 |
 | The Weight of the World | 29.00% | ~268 |
 | No Niños | 27.00% | ~250 |
-| I ain’t afraid of no Ghost | 24.00% | ~222 |
+| I ain’t afraid of no Ghost | 25.00% | ~231 |
 | Act II Complete | 22.00% | ~204 |
 | A successful procedure! | 19.00% | ~176 |
 | Bing Bang BOOM | 19.00% | ~176 |

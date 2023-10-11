@@ -1,21 +1,21 @@
 # Disney Speedstorm
 [Store](https://store.epicgames.com/en-US/p/disney-speedstorm)  
 [View Rawdata](../../db/d/disney_speedstorm.json)  
-Rating: 4.43 (Ranked 673)  
+Rating: 4.43 (Ranked 672)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 5.00% | ~10,261 |
-| IT MAKES BOOM! | 3.00% | ~6,157 |
-| EXTRA BOOST | 2.00% | ~4,105 |
-| PROTECTED | 1.00% | ~2,052 |
-| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,052 |
-| PRO | 1.00% | ~2,052 |
-| AGGRESSIVE RACER | 0.90% | ~1,847 |
-| A TIGER'S FEAR | 0.80% | ~1,642 |
-| ACE SPEEDSTER | 0.50% | ~1,026 |
-| IT'S A LONG WAY TO THE TOP | 0.40% | ~821 |
-| DEFEAT OUR CHAMPION | 0.40% | ~821 |
+| ROOKIE | 5.00% | ~10,274 |
+| IT MAKES BOOM! | 3.00% | ~6,164 |
+| EXTRA BOOST | 2.00% | ~4,109 |
+| PROTECTED | 1.00% | ~2,055 |
+| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,055 |
+| PRO | 1.00% | ~2,055 |
+| AGGRESSIVE RACER | 0.90% | ~1,849 |
+| A TIGER'S FEAR | 0.80% | ~1,644 |
+| ACE SPEEDSTER | 0.50% | ~1,027 |
+| IT'S A LONG WAY TO THE TOP | 0.40% | ~822 |
+| DEFEAT OUR CHAMPION | 0.40% | ~822 |
 | PERFECTLY POISED | 0.30% | ~616 |
 | TRAINING HARD | 0.30% | ~616 |
 | RELEASE THE KRAKEN | 0.30% | ~616 |
@@ -26,11 +26,11 @@ Rating: 4.43 (Ranked 673)
 | FRIENDLY | 0.30% | ~616 |
 | MASTER | 0.30% | ~616 |
 | LEGENDARY HERO | 0.30% | ~616 |
-| EXPERIENCED CREW | 0.20% | ~410 |
-| ACE TRICKSTER | 0.20% | ~410 |
+| EXPERIENCED CREW | 0.20% | ~411 |
+| ACE TRICKSTER | 0.20% | ~411 |
 | FRAMED! | 0.10% | ~205 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 205,228 (Ranked 65)  
+Progressed: 205,474 (Ranked 65)  
 Completed: 227 (0.11%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 227 (0.11%) (Ranked 243)
 | 2023-10-08 | 191,216 | 227 |
 | 2023-10-09 | 197,568 | 227 |
 | 2023-10-10 | 202,800 | 227 |
-| 2023-10-11 | 205,228 | 227 |
+| 2023-10-11 | 205,474 | 227 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

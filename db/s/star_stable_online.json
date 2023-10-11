@@ -2,12 +2,12 @@
   "ID": "207b765975664e9db1e29129aafae69c",
   "Name": "Star Stable Online",
   "ProductSlug": "star-stable",
-  "Ranking_Rating": 689,
+  "Ranking_Rating": 672,
   "Ranking_Popularity": 300,
   "Ranking_PopularitySum": 237,
   "Ranking_EOS_Progress": 665,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewPlayers": 402,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-06-22T16:00:00+00:00",
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.42,
+  "Rating": 4.43,
   "NumberOfRatings": 317,
   "RatingHistory": [
     {
@@ -2204,10 +2204,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 1171,
       "NumberOfAwardsMax": 166
+    },
+    {
+      "Time": "2023-10-11T16:00:04.1443109+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 1176,
+      "NumberOfAwardsMax": 166
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1171,
+  "NumberOfAwards": 1176,
   "NumberOfAwardsMax": 166,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2215,7 +2221,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 121
+      "Count": 123
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2245,7 +2251,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 134
+      "Count": 137
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2295,8 +2301,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:59.036031+00:00",
-  "LastChanged": "2023-10-10T17:59:26.8695958+00:00",
+  "LastChanged": "2023-10-11T16:00:04.1443108+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:50.8737129+00:00",
-  "LastUpdate_Ratings": "2023-10-11T15:00:43.3974143+00:00",
-  "LastUpdate_Achievements": "2023-10-11T15:06:31.3394078+00:00"
+  "LastUpdate_Ratings": "2023-10-11T16:00:04.1443115+00:00",
+  "LastUpdate_Achievements": "2023-10-11T16:06:02.2591138+00:00"
 }

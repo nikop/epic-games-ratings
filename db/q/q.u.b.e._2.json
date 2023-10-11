@@ -2,11 +2,11 @@
   "ID": "4b5f1eb366dc45f0920d397c01b291ba",
   "Name": "Q.U.B.E. 2",
   "ProductSlug": "q-u-b-e-2",
-  "Ranking_Rating": 689,
+  "Ranking_Rating": 690,
   "Ranking_Popularity": 531,
   "Ranking_PopularitySum": 531,
   "Ranking_EOS_Progress": 248,
-  "Ranking_EOS_Completed": 234,
+  "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
@@ -356,7 +356,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 757,
+  "EOS_Progressed": 758,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 195,
   "EOS_NewCompleters": 0,
@@ -2821,6 +2821,11 @@
       "Time": "2023-10-11T15:03:24.0346366+00:00",
       "NumProgressed": 757,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-11T16:03:34.268462+00:00",
+      "NumProgressed": 758,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -3001,7 +3006,7 @@
       "Name": "There\u0027s No Place Like Home",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "ACH_PROPELL",
@@ -3025,7 +3030,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "ACH_S4",
@@ -3057,22 +3062,22 @@
       "Name": "Forgotten Memories",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 757,
+      "Progressed": 758,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-10-05T15:02:30.1081746+00:00",
-  "LastChanged_Achievements": "2023-10-11T15:03:24.0346361+00:00",
+  "LastChanged_Achievements": "2023-10-11T16:03:34.2684613+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:14.9821566+00:00",
-  "LastUpdate_Ratings": "2023-10-11T14:59:30.2794668+00:00",
-  "LastUpdate_Achievements": "2023-10-11T15:03:24.0346797+00:00"
+  "LastUpdate_Ratings": "2023-10-11T15:59:08.0189895+00:00",
+  "LastUpdate_Achievements": "2023-10-11T16:03:34.2685251+00:00"
 }

@@ -24,7 +24,7 @@
 | Asari Ally | 52.00% | ~340 |
 | Soldier Ally | 51.00% | ~333 |
 | Colonial Savior | 49.00% | ~320 |
-| Paramour I | 47.00% | ~307 |
+| Paramour I | 48.00% | ~313 |
 | Krogan Ally | 45.00% | ~294 |
 | Merciless | 45.00% | ~294 |
 | Scientist | 45.00% | ~294 |
@@ -55,13 +55,13 @@
 | Ghost of the Father | 31.00% | ~202 |
 | The Cure | 31.00% | ~202 |
 | Big Game Hunter | 31.00% | ~202 |
+| Heart of Darkness | 31.00% | ~202 |
 | Shopaholic | 31.00% | ~202 |
 | Catharsis | 30.00% | ~196 |
+| Fade Away | 30.00% | ~196 |
 | Agent | 30.00% | ~196 |
 | Revenge! | 30.00% | ~196 |
-| Heart of Darkness | 30.00% | ~196 |
 | Cat's in the Cradle | 29.00% | ~189 |
-| Fade Away | 29.00% | ~189 |
 | Treason | 29.00% | ~189 |
 | Digital Exorcist | 29.00% | ~189 |
 | Driven | 29.00% | ~189 |

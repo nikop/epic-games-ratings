@@ -4,7 +4,7 @@
   "ProductSlug": "reverie-knights-tactics-82a158",
   "Ranking_EOS_Progress": 665,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewPlayers": 402,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-01-25T18:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:21.9100638+00:00",
   "LastChanged": "2023-03-31T05:57:21.9100639+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:41.0924122+00:00",
-  "LastUpdate_Ratings": "2023-10-11T14:58:52.1422954+00:00",
-  "LastUpdate_Achievements": "2023-10-11T15:06:43.1204961+00:00"
+  "LastUpdate_Ratings": "2023-10-11T15:58:33.0935198+00:00",
+  "LastUpdate_Achievements": "2023-10-11T16:06:12.162328+00:00"
 }

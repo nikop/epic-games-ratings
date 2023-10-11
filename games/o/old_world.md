@@ -15,6 +15,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Glorious | 1.00% | ~146 |
 | Good | 1.00% | ~146 |
 | Intrepid | 1.00% | ~146 |
+| Just | 1.00% | ~146 |
 | Learned | 1.00% | ~146 |
 | Mason | 1.00% | ~146 |
 | Noble | 1.00% | ~146 |
@@ -27,7 +28,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Trade Caravan | 1.00% | ~146 |
 | Kushite Paganism | 1.00% | ~146 |
 | Enlightened | 0.90% | ~131 |
-| Just | 0.90% | ~131 |
 | Keystone | 0.90% | ~131 |
 | Warrior | 0.90% | ~131 |
 | Developing Cities | 0.90% | ~131 |
@@ -36,6 +36,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Magnificent | 0.80% | ~117 |
 | Wise | 0.80% | ~117 |
 | Strong Cities | 0.80% | ~117 |
+| Able Difficulty | 0.80% | ~117 |
 | Ishtar Gate | 0.80% | ~117 |
 | Lighthouse | 0.80% | ~117 |
 | Pyramids | 0.80% | ~117 |
@@ -45,7 +46,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Pyramids | 0.80% | ~117 |
 | Brilliant | 0.70% | ~102 |
 | Fountainhead | 0.70% | ~102 |
-| Able Difficulty | 0.70% | ~102 |
 | Furious Family | 0.70% | ~102 |
 | Great Ziggurat | 0.70% | ~102 |
 | Learn to Play 1 | 0.70% | ~102 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,595 (Ranked 134)  
+Progressed: 14,596 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -523,10 +523,10 @@ Completed: 5 (0.03%) (Ranked 281)
 | 2023-10-08 | 14,534 | 5 |
 | 2023-10-09 | 14,562 | 5 |
 | 2023-10-10 | 14,586 | 5 |
-| 2023-10-11 | 14,595 | 5 |
+| 2023-10-11 | 14,596 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
-Sum: 1,832 (Ranked 210)  
+Sum: 1,833 (Ranked 210)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
@@ -536,7 +536,7 @@ Diff (max vs sum): 57
 | This game is Highly Recommended | 211 |
 | This game is Educational | 209 |
 | This game has Challenging Combat | 198 |
-| This game has Quickly Understood Controls | 190 |
+| This game has Quickly Understood Controls | 191 |
 | This game has Amazing Characters | 190 |
 | This game has Amazing Storytelling | 186 |
 | This game has Obsessive Gameplay | 155 |
@@ -685,3 +685,4 @@ Diff (max vs sum): 57
 | 2023-10-07 | 4.65 | - | 224 | 1,830 |
 | 2023-10-08 | 4.65 | - | 224 | 1,831 |
 | 2023-10-10 | 4.65 | - | 224 | 1,832 |
+| 2023-10-11 | 4.65 | - | 224 | 1,833 |

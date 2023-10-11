@@ -705,9 +705,9 @@
       "ID": "SomervilleWearyTraveller",
       "SetID": "3mk3nll",
       "Name": "Admiring the view",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "SomervilleWorldsBestDad",
@@ -730,8 +730,8 @@
   "FirstSeenRating": "2022-11-25T17:58:18.0029626+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:11.8533708+00:00",
   "LastChanged": "2023-03-31T05:58:16.104552+00:00",
-  "LastChanged_Achievements": "2023-10-11T15:03:24.6792356+00:00",
+  "LastChanged_Achievements": "2023-10-11T16:03:34.8225733+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:31.908469+00:00",
-  "LastUpdate_Ratings": "2023-10-11T14:59:11.3563644+00:00",
-  "LastUpdate_Achievements": "2023-10-11T15:03:24.6792513+00:00"
+  "LastUpdate_Ratings": "2023-10-11T15:58:52.4204096+00:00",
+  "LastUpdate_Achievements": "2023-10-11T16:03:34.8225942+00:00"
 }

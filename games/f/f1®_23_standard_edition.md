@@ -5,35 +5,35 @@ Rating: 4.66 (Ranked 279)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 95.00% | ~2,985 |
-| On the Top Step | 89.00% | ~2,796 |
-| Setting up for Success | 78.00% | ~2,451 |
-| Team Orders | 76.00% | ~2,388 |
-| Engineer | 56.00% | ~1,760 |
-| Familiar Faces | 50.00% | ~1,571 |
-| Going the Extra Mile | 44.00% | ~1,382 |
+| Getting on the Step | 95.00% | ~2,987 |
+| On the Top Step | 89.00% | ~2,798 |
+| Setting up for Success | 78.00% | ~2,452 |
+| Team Orders | 76.00% | ~2,389 |
+| Engineer | 56.00% | ~1,761 |
+| Familiar Faces | 50.00% | ~1,572 |
+| Going the Extra Mile | 44.00% | ~1,383 |
 | Sharing the Love | 42.00% | ~1,320 |
-| Hitting a Season | 38.00% | ~1,194 |
+| Hitting a Season | 38.00% | ~1,195 |
 | Challenge Yourself | 35.00% | ~1,100 |
-| A Dozen Pieces | 33.00% | ~1,037 |
-| Making History | 33.00% | ~1,037 |
+| A Dozen Pieces | 33.00% | ~1,038 |
+| Making History | 33.00% | ~1,038 |
 | Network Success | 26.00% | ~817 |
 | Writing a new Chapter | 26.00% | ~817 |
-| Spring Cleaning | 24.00% | ~754 |
-| Reduce | 20.00% | ~628 |
-| Ups and Downs | 20.00% | ~628 |
+| Spring Cleaning | 24.00% | ~755 |
+| Reduce | 20.00% | ~629 |
+| Ups and Downs | 20.00% | ~629 |
 | Crucial Combo | 19.00% | ~597 |
 | One for the Book | 18.00% | ~566 |
 | Reuse | 17.00% | ~534 |
+| Proving Them Wrong | 17.00% | ~534 |
 | Gathering Dust | 16.00% | ~503 |
 | Oil and Water | 16.00% | ~503 |
-| Proving Them Wrong | 16.00% | ~503 |
 | Hitting a Bullseye | 14.00% | ~440 |
-| Eagle Eye | 13.00% | ~408 |
-| Lightning Round the World | 13.00% | ~408 |
+| Eagle Eye | 13.00% | ~409 |
+| Lightning Round the World | 13.00% | ~409 |
+| Recycle | 13.00% | ~409 |
 | All in a Weekend's Work | 12.00% | ~377 |
 | Spinning Around | 12.00% | ~377 |
-| Recycle | 12.00% | ~377 |
 | Switcheroo | 11.00% | ~346 |
 | Tinkerer | 11.00% | ~346 |
 | Friendly Competition | 10.00% | ~314 |
@@ -51,11 +51,11 @@ Rating: 4.66 (Ranked 279)
 | Under the Microscope | 1.00% | ~31 |
 | Saturday Night Drama | 1.00% | ~31 |
 | Ultimate Collector | 0.50% | ~16 |
-| Golden Touch | 0.40% | ~13 |
+| Golden Touch | 0.30% | ~9 |
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,142 (Ranked 189)  
+Progressed: 3,144 (Ranked 189)  
 Completed: 0 (0.00%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 0 (0.00%) (Ranked 312)
 | 2023-10-08 | 3,083 | 0 |
 | 2023-10-09 | 3,114 | 0 |
 | 2023-10-10 | 3,132 | 0 |
-| 2023-10-11 | 3,142 | 0 |
+| 2023-10-11 | 3,144 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

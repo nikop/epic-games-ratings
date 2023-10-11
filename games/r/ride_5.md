@@ -36,8 +36,8 @@
 | My Work Here Is Done | 2.00% | ~28 |
 | Overtaking the Master | 2.00% | ~28 |
 | I'll Be the Best! | 1.00% | ~14 |
+| Next Level | 1.00% | ~14 |
 | I Don't Stop | 1.00% | ~14 |
-| Next Level | 0.90% | ~13 |
 | Exhausted but Happy | 0.80% | ~11 |
 | In Search of Perfection | 0.60% | ~9 |
 | Globe-trotter | 0.40% | ~6 |

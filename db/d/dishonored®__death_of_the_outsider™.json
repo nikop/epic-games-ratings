@@ -2,12 +2,12 @@
   "ID": "87c84bc5f43d4fe69ad8f3ccde0594b0",
   "Name": "Dishonored\u00AE: Death of the Outsider\u2122",
   "ProductSlug": "dishonored-death-of-the-outsider",
-  "Ranking_Rating": 673,
+  "Ranking_Rating": 672,
   "Ranking_Popularity": 424,
   "Ranking_PopularitySum": 345,
   "Ranking_EOS_Progress": 665,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewPlayers": 402,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-12-15T16:00:00+00:00",
@@ -1180,6 +1180,6 @@
   "FirstSeenRating": "2022-12-26T17:58:45.352902+00:00",
   "LastChanged": "2023-10-08T21:57:52.4840325+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:26.6028984+00:00",
-  "LastUpdate_Ratings": "2023-10-11T15:00:04.1173573+00:00",
-  "LastUpdate_Achievements": "2023-10-11T15:04:28.6410293+00:00"
+  "LastUpdate_Ratings": "2023-10-11T15:59:35.0941745+00:00",
+  "LastUpdate_Achievements": "2023-10-11T16:04:19.7232746+00:00"
 }

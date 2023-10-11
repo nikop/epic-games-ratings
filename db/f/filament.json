@@ -261,9 +261,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 203246,
+  "EOS_Progressed": 203250,
   "EOS_Completed": 515,
-  "EOS_NewPlayers": 458,
+  "EOS_NewPlayers": 459,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -19041,6 +19041,11 @@
       "Time": "2023-10-11T15:09:05.7805666+00:00",
       "NumProgressed": 203246,
       "NumCompleted": 515
+    },
+    {
+      "Time": "2023-10-11T16:09:16.8869509+00:00",
+      "NumProgressed": 203250,
+      "NumCompleted": 515
     }
   ],
   "TotalAchievements": 29,
@@ -19076,7 +19081,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 191051
+      "UsersEstimate": 191055
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -19100,7 +19105,7 @@
       "Name": "A full deck.",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 1219
+      "UsersEstimate": 1220
     },
     {
       "ID": "ACHIEVEMENT_COCKPIT",
@@ -19124,7 +19129,7 @@
       "Name": "Answers can be found amongst the stars",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 6097
+      "UsersEstimate": 6098
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTED",
@@ -19220,7 +19225,7 @@
       "Name": "Bend to the will of the arrows.",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 6097
+      "UsersEstimate": 6098
     },
     {
       "ID": "ACHIEVEMENT_SECRET",
@@ -19228,7 +19233,7 @@
       "Name": "14237b6509eafd8c",
       "Percentage": 0.6,
       "XP": 80,
-      "UsersEstimate": 1219
+      "UsersEstimate": 1220
     },
     {
       "ID": "ACHIEVEMENT_SNOOPER",
@@ -19283,7 +19288,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 203246,
+      "Progressed": 203250,
       "Completed": 515
     }
   ],
@@ -19291,8 +19296,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-10-05T02:17:05.6678867+00:00",
-  "LastChanged_Achievements": "2023-10-11T15:09:05.7805661+00:00",
+  "LastChanged_Achievements": "2023-10-11T16:09:16.8869503+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:23.9270429+00:00",
-  "LastUpdate_Ratings": "2023-10-11T14:57:10.6269964+00:00",
-  "LastUpdate_Achievements": "2023-10-11T15:09:05.7806974+00:00"
+  "LastUpdate_Ratings": "2023-10-11T15:57:13.3673816+00:00",
+  "LastUpdate_Achievements": "2023-10-11T16:09:16.8870833+00:00"
 }

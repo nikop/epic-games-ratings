@@ -2,9 +2,9 @@
   "ID": "bf3261d8abc64fdfb73c3f9c4f7870e0",
   "Name": "Ash of Gods: Redemption",
   "ProductSlug": "ash-of-gods-redemption-e0b97d",
-  "Ranking_EOS_Progress": 570,
+  "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewPlayers": 332,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-10-11T09:00:00+00:00",
@@ -19,15 +19,20 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3,
+  "EOS_Progressed": 4,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-10-11T10:03:42.0536597+00:00",
       "NumProgressed": 3,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-11T16:03:36.1138061+00:00",
+      "NumProgressed": 4,
       "NumCompleted": 0
     }
   ],
@@ -39,7 +44,7 @@
       "ID": "achievement_altruism",
       "SetID": "bngbnfb",
       "Name": "Altruist",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -440,13 +445,13 @@
     {
       "ID": "bngbnfb",
       "IsBase": true,
-      "Progressed": 3,
+      "Progressed": 4,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-11T10:03:42.0552864+00:00",
-  "LastChanged_Achievements": "2023-10-11T15:03:26.1582405+00:00",
+  "LastChanged_Achievements": "2023-10-11T16:03:36.1138055+00:00",
   "LastUpdate_AppInfo": "2023-10-11T09:57:28.467345+00:00",
-  "LastUpdate_Ratings": "2023-10-11T14:57:09.0312318+00:00",
-  "LastUpdate_Achievements": "2023-10-11T15:03:26.1582835+00:00"
+  "LastUpdate_Ratings": "2023-10-11T15:57:10.3866292+00:00",
+  "LastUpdate_Achievements": "2023-10-11T16:03:36.113855+00:00"
 }

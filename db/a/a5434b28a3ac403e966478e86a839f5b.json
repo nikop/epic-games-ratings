@@ -1062,9 +1062,9 @@
       "ID": "ACH_eou5",
       "SetID": "51of0eo",
       "Name": "Shut Down Processing Plant",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 90
+      "UsersEstimate": 94
     },
     {
       "ID": "ACH_eou6",
@@ -1133,8 +1133,8 @@
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-10-11T15:03:40.937593+00:00",
+  "LastChanged_Achievements": "2023-10-11T16:03:48.3772463+00:00",
   "LastUpdate_AppInfo": "2023-10-05T21:57:19.832691+00:00",
-  "LastUpdate_Ratings": "2023-10-11T14:57:54.8703958+00:00",
-  "LastUpdate_Achievements": "2023-10-11T15:03:40.9376087+00:00"
+  "LastUpdate_Ratings": "2023-10-11T15:57:48.5680707+00:00",
+  "LastUpdate_Achievements": "2023-10-11T16:03:48.3772718+00:00"
 }
