@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 53.17% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 53.15% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 47.17% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.28% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
@@ -70,8 +70,8 @@
 | 68 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.08% |
 | 69 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.02% |
 | 70 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 4.00% |
-| 71 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.85% |
-| 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.85% |
+| 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.86% |
+| 72 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.85% |
 | 73 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
 | 74 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.78% |
 | 75 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
@@ -170,19 +170,19 @@
 | 168 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.57% |
 | 169 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
 | 169 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.55% |
-| 171 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
-| 171 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.53% |
-| 173 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.51% |
-| 173 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.51% |
-| 175 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
-| 175 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.46% |
-| 175 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.46% |
-| 175 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
-| 175 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.46% |
-| 175 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.46% |
-| 175 | [Them and Us](games/t/them_and_us.md) | 0.46% |
-| 182 | [Dead Space](games/d/dead_space.md) | 0.44% |
-| 182 | [Tchia](games/t/tchia.md) | 0.44% |
+| 171 | [Dead Space](games/d/dead_space.md) | 0.54% |
+| 172 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
+| 172 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.53% |
+| 174 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.51% |
+| 174 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.51% |
+| 176 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
+| 176 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.46% |
+| 176 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.46% |
+| 176 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
+| 176 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.46% |
+| 176 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.46% |
+| 176 | [Them and Us](games/t/them_and_us.md) | 0.46% |
+| 183 | [Tchia](games/t/tchia.md) | 0.44% |
 | 184 | [It Takes Two](games/i/it_takes_two.md) | 0.42% |
 | 184 | [Wildermyth](games/w/wildermyth.md) | 0.42% |
 | 186 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.40% |
