@@ -1,17 +1,17 @@
 # Runbow
 [Store](https://store.epicgames.com/en-US/p/runbow-fc9fa4)  
 [View Rawdata](../../db/r/runbow.json)  
-Rating: 4.46 (Ranked 628)  
+Rating: 4.46 (Ranked 627)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~132,619 |
-| My First Runbow | 50.00% | ~125,112 |
-| It's The Fall | 26.00% | ~65,058 |
+| In The Zone | 53.00% | ~132,620 |
+| My First Runbow | 50.00% | ~125,113 |
+| It's The Fall | 26.00% | ~65,059 |
 | The Stunner | 22.00% | ~55,050 |
 | Be Aggressive | 21.00% | ~52,547 |
 | Curator | 20.00% | ~50,045 |
-| Crowning Around | 18.00% | ~45,040 |
+| Crowning Around | 18.00% | ~45,041 |
 | Can You Dig It? | 17.00% | ~42,538 |
 | You Juan-A-Go? | 16.00% | ~40,036 |
 | Chan-tastic | 15.00% | ~37,534 |
@@ -24,9 +24,9 @@ Rating: 4.46 (Ranked 628)
 | Butt Butt | 6.00% | ~15,014 |
 | He Who Laughs Last | 3.00% | ~7,507 |
 | Shoo, Cat! | 3.00% | ~7,507 |
-| And You're Okay | 2.00% | ~5,004 |
-| Blotbuster | 2.00% | ~5,004 |
-| Thunderstruck | 2.00% | ~5,004 |
+| And You're Okay | 2.00% | ~5,005 |
+| Blotbuster | 2.00% | ~5,005 |
+| Thunderstruck | 2.00% | ~5,005 |
 | Just A Bit | 1.00% | ~2,502 |
 | Tubular, Dude | 1.00% | ~2,502 |
 | What A Trip | 1.00% | ~2,502 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 628)
 | Talent Scout | 0.10% | ~250 |
 | True Completionist | 0.10% | ~250 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250,225 (Ranked 52)  
+Progressed: 250,226 (Ranked 52)  
 Completed: 6 (0.00%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 6 (0.00%) (Ranked 312)
 | 2023-10-08 | 250,142 | 6 |
 | 2023-10-09 | 250,182 | 6 |
 | 2023-10-10 | 250,213 | 6 |
-| 2023-10-11 | 250,225 | 6 |
+| 2023-10-11 | 250,226 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

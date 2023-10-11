@@ -4025,9 +4025,9 @@
       "ID": "COLLECT_LOGS",
       "SetID": "9eia0f5",
       "Name": "Lumberjack",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 1616
+      "UsersEstimate": 1681
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -4185,9 +4185,9 @@
       "ID": "UPGRADE_ALLTOOLSMAX",
       "SetID": "9eia0f5",
       "Name": "Right Tool For the Job",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 129
+      "UsersEstimate": 194
     },
     {
       "ID": "UPGRADE_COZYMAX",
@@ -4226,8 +4226,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-09T19:00:11.1644039+00:00",
-  "LastChanged_Achievements": "2023-10-11T08:06:12.563977+00:00",
+  "LastChanged_Achievements": "2023-10-11T09:07:45.2558045+00:00",
   "LastUpdate_AppInfo": "2023-10-06T05:57:20.0812213+00:00",
-  "LastUpdate_Ratings": "2023-10-11T08:02:16.1169547+00:00",
-  "LastUpdate_Achievements": "2023-10-11T08:06:12.5640314+00:00"
+  "LastUpdate_Ratings": "2023-10-11T09:02:13.0251367+00:00",
+  "LastUpdate_Achievements": "2023-10-11T09:07:45.2558439+00:00"
 }

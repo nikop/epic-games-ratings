@@ -6,17 +6,17 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~295,503 |
-| Full garage | 60.00% | ~242,879 |
-| To the eyeballs! | 51.00% | ~206,447 |
-| Individual delivery | 46.00% | ~186,207 |
-| Non-Stop | 44.00% | ~178,111 |
-| Juggler | 36.00% | ~145,727 |
-| Forgot something | 35.00% | ~141,679 |
-| Close call! | 30.00% | ~121,439 |
-| Get out my way | 28.00% | ~113,343 |
-| Common cause | 26.00% | ~105,247 |
-| Critical care | 26.00% | ~105,247 |
+| Dealmaker | 73.00% | ~295,505 |
+| Full garage | 60.00% | ~242,881 |
+| To the eyeballs! | 51.00% | ~206,449 |
+| Individual delivery | 46.00% | ~186,209 |
+| Non-Stop | 44.00% | ~178,113 |
+| Juggler | 36.00% | ~145,729 |
+| Forgot something | 35.00% | ~141,681 |
+| Close call! | 30.00% | ~121,441 |
+| Get out my way | 28.00% | ~113,345 |
+| Common cause | 26.00% | ~105,249 |
+| Critical care | 26.00% | ~105,249 |
 | Mega-railroad | 23.00% | ~93,104 |
 | Upgrade complete | 23.00% | ~93,104 |
 | Just in time! | 18.00% | ~72,864 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~404 |
 | World Zapper | 0.10% | ~404 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 404,798 (Ranked 42)  
+Progressed: 404,802 (Ranked 42)  
 Completed: 19 (0.00%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,7 +232,7 @@ Completed: 19 (0.00%) (Ranked 312)
 | 2023-10-08 | 404,042 | 19 |
 | 2023-10-09 | 404,414 | 19 |
 | 2023-10-10 | 404,724 | 19 |
-| 2023-10-11 | 404,798 | 19 |
+| 2023-10-11 | 404,802 | 19 |
 ## Awards
 Max (Challenging Puzzles): 744  (Ranked 170)  
 Sum: 1,508 (Ranked 226)  

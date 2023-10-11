@@ -6,17 +6,17 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 44.00% | ~5,377 |
-| A normal day in Gloomhaven | 35.00% | ~4,277 |
-| Overkill | 34.00% | ~4,155 |
-| Vaccine Incoming | 33.00% | ~4,033 |
+| I'm not dead yet | 44.00% | ~5,379 |
+| A normal day in Gloomhaven | 35.00% | ~4,278 |
+| Overkill | 34.00% | ~4,156 |
+| Vaccine Incoming | 33.00% | ~4,034 |
 | Spread the plague | 31.00% | ~3,789 |
-| Get over here! | 24.00% | ~2,933 |
-| Just when I thought I was out... | 19.00% | ~2,322 |
+| Get over here! | 24.00% | ~2,934 |
+| Just when I thought I was out... | 19.00% | ~2,323 |
 | Mine... All Mine... | 17.00% | ~2,078 |
-| Precious! | 15.00% | ~1,833 |
-| Light of my life | 15.00% | ~1,833 |
-| Anatomy Lesson | 15.00% | ~1,833 |
+| Precious! | 15.00% | ~1,834 |
+| Light of my life | 15.00% | ~1,834 |
+| Anatomy Lesson | 15.00% | ~1,834 |
 | You activated my trap card! | 13.00% | ~1,589 |
 | Augmented rat | 13.00% | ~1,589 |
 | Obstacle race | 13.00% | ~1,589 |
@@ -27,7 +27,7 @@ Number of Ratings: 68  (23.09.2022)
 | Pain is your friend | 8.00% | ~978 |
 | Black death | 8.00% | ~978 |
 | Play it again, Sam | 8.00% | ~978 |
-| Dungeon Veteran | 7.00% | ~855 |
+| Dungeon Veteran | 7.00% | ~856 |
 | Quad damage | 6.00% | ~733 |
 | The Pro from Dover | 5.00% | ~611 |
 | Pretty lights! | 5.00% | ~611 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~12 |
 | Murder Death Kill | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,221 (Ranked 141)  
+Progressed: 12,224 (Ranked 141)  
 Completed: 1 (0.01%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 1 (0.01%) (Ranked 294)
 | 2023-10-08 | 11,624 | 1 |
 | 2023-10-09 | 11,901 | 1 |
 | 2023-10-10 | 12,150 | 1 |
-| 2023-10-11 | 12,221 | 1 |
+| 2023-10-11 | 12,224 | 1 |
 ## Awards
 Max (Character Customization): 3,548  (Ranked 90)  
 Sum: 8,276 (Ranked 98)  

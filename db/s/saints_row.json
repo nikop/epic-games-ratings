@@ -3786,9 +3786,9 @@
       "Count": 1069
     }
   ],
-  "EOS_Progressed": 74577,
+  "EOS_Progressed": 74579,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 892,
+  "EOS_NewPlayers": 891,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -23326,6 +23326,11 @@
       "Time": "2023-10-11T08:05:26.1357086+00:00",
       "NumProgressed": 74577,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-11T09:06:43.0284877+00:00",
+      "NumProgressed": 74579,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -23369,7 +23374,7 @@
       "Name": "Hijacked",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 8203
+      "UsersEstimate": 8204
     },
     {
       "ID": "collect_high_amount_hero_props",
@@ -23385,7 +23390,7 @@
       "Name": "Finders Keepers",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 18644
+      "UsersEstimate": 18645
     },
     {
       "ID": "complet_epilogue_mission",
@@ -23393,7 +23398,7 @@
       "Name": "We could go home, or\u2026",
       "Percentage": 7,
       "XP": 75,
-      "UsersEstimate": 5220
+      "UsersEstimate": 5221
     },
     {
       "ID": "complete_all_of_wanted",
@@ -23417,7 +23422,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 5220
+      "UsersEstimate": 5221
     },
     {
       "ID": "complete_final_mission",
@@ -23425,7 +23430,7 @@
       "Name": "Showdown",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 11932
+      "UsersEstimate": 11933
     },
     {
       "ID": "complete_first_side_hustle",
@@ -23449,7 +23454,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 34305
+      "UsersEstimate": 34306
     },
     {
       "ID": "customize_a_vehicle",
@@ -23457,7 +23462,7 @@
       "Name": "Tune Up",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 24610
+      "UsersEstimate": 24611
     },
     {
       "ID": "customize_a_weapon",
@@ -23465,7 +23470,7 @@
       "Name": "Optimized",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 27593
+      "UsersEstimate": 27594
     },
     {
       "ID": "cutting_edge_materials",
@@ -23513,7 +23518,7 @@
       "Name": "A Young Empire",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18644
+      "UsersEstimate": 18645
     },
     {
       "ID": "empire_tier_3",
@@ -23537,7 +23542,7 @@
       "Name": "A Golden Age",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 5220
+      "UsersEstimate": 5221
     },
     {
       "ID": "first_building_placed",
@@ -23593,7 +23598,7 @@
       "Name": "Took It to The Limit",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 11932
+      "UsersEstimate": 11933
     },
     {
       "ID": "infinite_boost_refill",
@@ -23609,7 +23614,7 @@
       "Name": "Picking Fights",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14915
+      "UsersEstimate": 14916
     },
     {
       "ID": "kill_enemy_with_tetherd_object",
@@ -23633,7 +23638,7 @@
       "Name": "Making a Name",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 25356
+      "UsersEstimate": 25357
     },
     {
       "ID": "one_third_purple",
@@ -23721,7 +23726,7 @@
       "Name": "To The Nines",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 31322
+      "UsersEstimate": 31323
     },
     {
       "ID": "whole_map_purple",
@@ -23760,13 +23765,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 74577,
+      "Progressed": 74579,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 46214,
+      "Progressed": 46216,
       "Completed": 4073
     }
   ],
@@ -23774,8 +23779,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-10-10T22:00:55.8126775+00:00",
-  "LastChanged_Achievements": "2023-10-11T08:05:26.1357081+00:00",
+  "LastChanged_Achievements": "2023-10-11T09:06:43.028487+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:36.8950193+00:00",
-  "LastUpdate_Ratings": "2023-10-11T08:00:16.4784404+00:00",
-  "LastUpdate_Achievements": "2023-10-11T08:05:26.1358831+00:00"
+  "LastUpdate_Ratings": "2023-10-11T09:01:46.9066643+00:00",
+  "LastUpdate_Achievements": "2023-10-11T09:06:43.0286593+00:00"
 }

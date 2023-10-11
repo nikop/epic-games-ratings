@@ -21,9 +21,9 @@
 | You have two wishes left | 32.00% | ~8 |
 | The artist | 28.00% | ~7 |
 | The seer | 28.00% | ~7 |
+| Kirlian's best disciple | 28.00% | ~7 |
 | You had one wish left | 24.00% | ~6 |
 | Et in arcadia ego | 24.00% | ~6 |
-| Kirlian's best disciple | 24.00% | ~6 |
 | Welcome to Hellville | 24.00% | ~6 |
 | You've awakened the beast | 20.00% | ~5 |
 | Hate is... addictive | 20.00% | ~5 |

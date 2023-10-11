@@ -102,7 +102,7 @@
 | Well Connected | 17.00% | ~111 |
 | Throw Mastery | 16.00% | ~104 |
 | Master and Commander | 16.00% | ~104 |
-| Executioner | 14.00% | ~91 |
+| Executioner | 15.00% | ~98 |
 | Mail Slot | 13.00% | ~85 |
 | Patriot | 13.00% | ~85 |
 | Legend | 13.00% | ~85 |

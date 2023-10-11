@@ -673,9 +673,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 347238,
+  "EOS_Progressed": 347240,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1026,
+  "EOS_NewPlayers": 1022,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20248,6 +20248,11 @@
       "Time": "2023-10-11T08:05:39.2392208+00:00",
       "NumProgressed": 347238,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-11T09:07:00.5780834+00:00",
+      "NumProgressed": 347240,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -20467,7 +20472,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 159729
+      "UsersEstimate": 159730
     },
     {
       "ID": "ach028",
@@ -20771,7 +20776,7 @@
       "Name": "The Dawn of Automation",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 48613
+      "UsersEstimate": 48614
     },
     {
       "ID": "ach067",
@@ -20795,7 +20800,7 @@
       "Name": "Extraordinary Logistics",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 48613
+      "UsersEstimate": 48614
     },
     {
       "ID": "ach070",
@@ -20898,7 +20903,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 347238,
+      "Progressed": 347240,
       "Completed": 7
     }
   ],
@@ -20906,8 +20911,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-10-06T22:57:01.637596+00:00",
-  "LastChanged_Achievements": "2023-10-11T08:05:39.2392203+00:00",
+  "LastChanged_Achievements": "2023-10-11T09:07:00.5780829+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:17.3375259+00:00",
-  "LastUpdate_Ratings": "2023-10-11T07:58:51.4272305+00:00",
-  "LastUpdate_Achievements": "2023-10-11T08:05:39.2394418+00:00"
+  "LastUpdate_Ratings": "2023-10-11T08:59:49.6130065+00:00",
+  "LastUpdate_Achievements": "2023-10-11T09:07:00.5782723+00:00"
 }

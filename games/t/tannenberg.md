@@ -7,15 +7,15 @@ Number of Ratings: 13,393  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Immovable Object | 89.00% | ~118,884 |
-| Comeback | 82.00% | ~109,533 |
+| Comeback | 82.00% | ~109,534 |
 | Information is Key | 80.00% | ~106,862 |
-| Unlucky | 70.00% | ~93,504 |
-| Anarchist | 68.00% | ~90,832 |
-| Wallhack | 65.00% | ~86,825 |
-| Steady Supply | 60.00% | ~80,146 |
+| Unlucky | 70.00% | ~93,505 |
+| Anarchist | 68.00% | ~90,833 |
+| Wallhack | 65.00% | ~86,826 |
+| Steady Supply | 60.00% | ~80,147 |
 | Lucky Shot | 53.00% | ~70,796 |
-| Forward Observer | 52.00% | ~69,460 |
-| Ring Ring! | 52.00% | ~69,460 |
+| Forward Observer | 52.00% | ~69,461 |
+| Ring Ring! | 52.00% | ~69,461 |
 | Bossing Around | 45.00% | ~60,110 |
 | Frostbite | 45.00% | ~60,110 |
 | Night Owl | 44.00% | ~58,774 |
@@ -27,8 +27,8 @@ Number of Ratings: 13,393  (23.09.2022)
 | Hydra | 36.00% | ~48,088 |
 | This Belongs to Us Now | 36.00% | ~48,088 |
 | Stronghold | 35.00% | ~46,752 |
-| Leeroy | 33.00% | ~44,080 |
-| Lost Batallion | 33.00% | ~44,080 |
+| Leeroy | 33.00% | ~44,081 |
+| Lost Batallion | 33.00% | ~44,081 |
 | This is MY Machine Gun! | 32.00% | ~42,745 |
 | Together As One | 31.00% | ~41,409 |
 | Gavrilo Princip | 27.00% | ~36,066 |
@@ -74,7 +74,7 @@ Number of Ratings: 13,393  (23.09.2022)
 | Seeing is Believing | 0.90% | ~1,202 |
 | Road to Berlin | 0.60% | ~801 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,577 (Ranked 74)  
+Progressed: 133,578 (Ranked 74)  
 Completed: 30 (0.02%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,7 +248,7 @@ Completed: 30 (0.02%) (Ranked 285)
 | 2023-10-08 | 133,363 | 30 |
 | 2023-10-09 | 133,470 | 30 |
 | 2023-10-10 | 133,555 | 30 |
-| 2023-10-11 | 133,577 | 30 |
+| 2023-10-11 | 133,578 | 30 |
 ## Awards
 Max (Competitive Players): 334  (Ranked 236)  
 Sum: 2,916 (Ranked 173)  

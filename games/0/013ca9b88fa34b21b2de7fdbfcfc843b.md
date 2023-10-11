@@ -15,7 +15,7 @@ Rating: 4.63 (Ranked 335)
 | Calm Sailing | 35.00% | ~2,263 |
 | Open the Gate! | 32.00% | ~2,069 |
 | Mist Walker | 30.00% | ~1,940 |
-| Lumberjack | 25.00% | ~1,616 |
+| Lumberjack | 26.00% | ~1,681 |
 | Oui, Chef! | 22.00% | ~1,422 |
 | Clear the Air | 17.00% | ~1,099 |
 | Botanical Breakthrough | 16.00% | ~1,034 |
@@ -32,8 +32,8 @@ Rating: 4.63 (Ranked 335)
 | Azorian Anniversary | 5.00% | ~323 |
 | I Now Pronounce You... | 4.00% | ~259 |
 | Chatty Neighbor | 3.00% | ~194 |
+| Right Tool For the Job | 3.00% | ~194 |
 | House Proud | 3.00% | ~194 |
-| Right Tool For the Job | 2.00% | ~129 |
 | Angling Authority | 1.00% | ~65 |
 | Captain of Cozy | 1.00% | ~65 |
 | Cloverfield Island | 0.10% | ~6 |

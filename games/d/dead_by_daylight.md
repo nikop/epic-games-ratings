@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~932 |
 | Adept Ripley | 0.10% | ~932 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 931,961 (Ranked 14)  
+Progressed: 931,997 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -410,10 +410,10 @@ Completed: 49 (0.01%) (Ranked 294)
 | 2023-10-08 | 927,984 | 49 |
 | 2023-10-09 | 929,902 | 49 |
 | 2023-10-10 | 931,511 | 49 |
-| 2023-10-11 | 931,961 | 49 |
+| 2023-10-11 | 931,997 | 49 |
 ## Awards
 Max (Diverse Characters): 33,734  (Ranked 15)  
-Sum: 261,070 (Ranked 13)  
+Sum: 261,100 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -423,7 +423,7 @@ Diff (max vs sum): 2
 | This game has Amazing Characters | 29,480 |
 | This game is Extremely Fun | 29,132 |
 | This game has Challenging Combat | 28,707 |
-| This game has Quickly Understood Controls | 28,648 |
+| This game has Quickly Understood Controls | 28,678 |
 | This game has Amazing Storytelling | 26,772 |
 | This game has a Competitive Community | 25,275 |
 | This game has Obsessive Gameplay | 16,768 |
@@ -691,4 +691,4 @@ Diff (max vs sum): 2
 | 2023-10-08 | 4.52 | - | 33,596 | 260,474 |
 | 2023-10-09 | 4.52 | - | 33,640 | 260,754 |
 | 2023-10-10 | 4.51 | - | 33,667 | 261,003 |
-| 2023-10-11 | 4.51 | - | 33,734 | 261,070 |
+| 2023-10-11 | 4.51 | - | 33,734 | 261,100 |

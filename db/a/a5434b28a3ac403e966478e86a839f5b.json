@@ -19,7 +19,7 @@
   "Tags": [],
   "EOS_Progressed": 390,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -1076,9 +1076,9 @@
       "ID": "ACH_eou8",
       "SetID": "51of0eo",
       "Name": "Destroy Black Hole Generator",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 62
+      "UsersEstimate": 66
     },
     {
       "ID": "ACH_mg2",
@@ -1123,8 +1123,8 @@
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-10-11T08:03:17.7439102+00:00",
+  "LastChanged_Achievements": "2023-10-11T09:03:29.6405059+00:00",
   "LastUpdate_AppInfo": "2023-10-05T21:57:19.832691+00:00",
-  "LastUpdate_Ratings": "2023-10-11T07:57:32.1411822+00:00",
-  "LastUpdate_Achievements": "2023-10-11T08:03:17.7439258+00:00"
+  "LastUpdate_Ratings": "2023-10-11T08:57:56.1685452+00:00",
+  "LastUpdate_Achievements": "2023-10-11T09:03:29.6405312+00:00"
 }

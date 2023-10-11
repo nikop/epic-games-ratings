@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 456,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -352,9 +352,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2012,
+  "EOS_Progressed": 2013,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5992,6 +5992,11 @@
       "Time": "2023-10-11T04:09:09.6221893+00:00",
       "NumProgressed": 2012,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-11T09:08:41.8100947+00:00",
+      "NumProgressed": 2013,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -6179,7 +6184,7 @@
       "Name": "Exotic Merchant",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "fellowshippower",
@@ -6267,7 +6272,7 @@
       "Name": "Hunter",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "inspection",
@@ -6395,7 +6400,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1086
+      "UsersEstimate": 1087
     },
     {
       "ID": "prestigiousx10",
@@ -6499,7 +6504,7 @@
       "Name": "The power of Awakening",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "theunstoppable",
@@ -6563,7 +6568,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1871
+      "UsersEstimate": 1872
     },
     {
       "ID": "warmachinesarmy",
@@ -6587,7 +6592,7 @@
       "Name": "What lies behind the bush",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "worldmap",
@@ -6595,14 +6600,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1589
+      "UsersEstimate": 1590
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2012,
+      "Progressed": 2013,
       "Completed": 2
     }
   ],
@@ -6610,8 +6615,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-10-10T07:58:19.281773+00:00",
-  "LastChanged_Achievements": "2023-10-11T08:08:15.4764105+00:00",
+  "LastChanged_Achievements": "2023-10-11T09:08:41.8100942+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:57.0347276+00:00",
-  "LastUpdate_Ratings": "2023-10-11T07:58:42.284222+00:00",
-  "LastUpdate_Achievements": "2023-10-11T08:08:15.4765337+00:00"
+  "LastUpdate_Ratings": "2023-10-11T08:59:36.8119194+00:00",
+  "LastUpdate_Achievements": "2023-10-11T09:08:41.8101808+00:00"
 }

@@ -3464,9 +3464,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73409,
+  "EOS_Progressed": 73410,
   "EOS_Completed": 120,
-  "EOS_NewPlayers": 288,
+  "EOS_NewPlayers": 289,
   "EOS_NewCompleters": -2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -18329,6 +18329,11 @@
       "Time": "2023-10-11T07:03:17.3655872+00:00",
       "NumProgressed": 73409,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-10-11T09:03:20.6113922+00:00",
+      "NumProgressed": 73410,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 61,
@@ -18428,7 +18433,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11011
+      "UsersEstimate": 11012
     },
     {
       "ID": "CHALLENGES_1",
@@ -18644,7 +18649,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25693
+      "UsersEstimate": 25694
     },
     {
       "ID": "HARLEY_2",
@@ -18658,9 +18663,9 @@
       "ID": "HARLEY_3",
       "SetID": "4eo5ebm",
       "Name": "Working Hard or Harley Working?",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15416
+      "UsersEstimate": 14682
     },
     {
       "ID": "HARLEY_4",
@@ -18668,7 +18673,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 11745
+      "UsersEstimate": 11746
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -18772,7 +18777,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11011
+      "UsersEstimate": 11012
     },
     {
       "ID": "MYSTERY_07",
@@ -18827,13 +18832,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73409,
+      "Progressed": 73410,
       "Completed": 120
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43689,
+      "Progressed": 43690,
       "Completed": 2666
     }
   ],
@@ -18841,8 +18846,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-10T23:01:03.3236622+00:00",
-  "LastChanged_Achievements": "2023-10-11T08:03:11.1960728+00:00",
+  "LastChanged_Achievements": "2023-10-11T09:03:20.6113917+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:31.3761181+00:00",
-  "LastUpdate_Ratings": "2023-10-11T08:00:10.8514097+00:00",
-  "LastUpdate_Achievements": "2023-10-11T08:03:11.19624+00:00"
+  "LastUpdate_Ratings": "2023-10-11T09:01:37.1186477+00:00",
+  "LastUpdate_Achievements": "2023-10-11T09:03:20.6115149+00:00"
 }

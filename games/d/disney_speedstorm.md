@@ -5,32 +5,32 @@ Rating: 4.43 (Ranked 673)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 5.00% | ~10,222 |
-| IT MAKES BOOM! | 3.00% | ~6,133 |
-| EXTRA BOOST | 2.00% | ~4,089 |
-| PROTECTED | 1.00% | ~2,044 |
-| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,044 |
-| PRO | 1.00% | ~2,044 |
-| AGGRESSIVE RACER | 0.90% | ~1,840 |
+| ROOKIE | 5.00% | ~10,226 |
+| IT MAKES BOOM! | 3.00% | ~6,136 |
+| EXTRA BOOST | 2.00% | ~4,090 |
+| PROTECTED | 1.00% | ~2,045 |
+| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,045 |
+| PRO | 1.00% | ~2,045 |
+| AGGRESSIVE RACER | 0.90% | ~1,841 |
 | A TIGER'S FEAR | 0.80% | ~1,636 |
-| ACE SPEEDSTER | 0.50% | ~1,022 |
+| ACE SPEEDSTER | 0.50% | ~1,023 |
 | IT'S A LONG WAY TO THE TOP | 0.40% | ~818 |
 | DEFEAT OUR CHAMPION | 0.40% | ~818 |
-| PERFECTLY POISED | 0.30% | ~613 |
-| TRAINING HARD | 0.30% | ~613 |
-| RELEASE THE KRAKEN | 0.30% | ~613 |
-| BE OUR GUEST | 0.30% | ~613 |
-| ACE BRAWLER | 0.30% | ~613 |
-| ACE DEFENDER | 0.30% | ~613 |
-| THE EYE OF THE HUNTER | 0.30% | ~613 |
-| FRIENDLY | 0.30% | ~613 |
-| MASTER | 0.30% | ~613 |
-| LEGENDARY HERO | 0.30% | ~613 |
+| PERFECTLY POISED | 0.30% | ~614 |
+| TRAINING HARD | 0.30% | ~614 |
+| RELEASE THE KRAKEN | 0.30% | ~614 |
+| BE OUR GUEST | 0.30% | ~614 |
+| ACE BRAWLER | 0.30% | ~614 |
+| ACE DEFENDER | 0.30% | ~614 |
+| THE EYE OF THE HUNTER | 0.30% | ~614 |
+| FRIENDLY | 0.30% | ~614 |
+| MASTER | 0.30% | ~614 |
+| LEGENDARY HERO | 0.30% | ~614 |
 | EXPERIENCED CREW | 0.20% | ~409 |
 | ACE TRICKSTER | 0.20% | ~409 |
-| FRAMED! | 0.10% | ~204 |
+| FRAMED! | 0.10% | ~205 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 204,446 (Ranked 65)  
+Progressed: 204,517 (Ranked 65)  
 Completed: 227 (0.11%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 227 (0.11%) (Ranked 243)
 | 2023-10-08 | 191,216 | 227 |
 | 2023-10-09 | 197,568 | 227 |
 | 2023-10-10 | 202,800 | 227 |
-| 2023-10-11 | 204,446 | 227 |
+| 2023-10-11 | 204,517 | 227 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
