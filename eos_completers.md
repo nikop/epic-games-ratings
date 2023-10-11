@@ -1,8 +1,8 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 53.32% |
-| 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.79% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 53.29% |
+| 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 47.17% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.28% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
 | 6 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 33.33% |
@@ -109,7 +109,7 @@
 | 107 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.15% |
 | 108 | [Bloodshore](games/b/bloodshore.md) | 2.14% |
 | 109 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.08% |
-| 110 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.99% |
+| 110 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.98% |
 | 111 | [Night Book](games/n/night_book.md) | 1.86% |
 | 112 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.85% |
 | 113 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
