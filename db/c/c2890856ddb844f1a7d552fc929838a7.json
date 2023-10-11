@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 532,
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -136,9 +136,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 899,
+  "EOS_Progressed": 900,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2026,6 +2026,11 @@
       "Time": "2023-10-11T21:05:09.0327046+00:00",
       "NumProgressed": 899,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-11T22:03:52.304132+00:00",
+      "NumProgressed": 900,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -2046,7 +2051,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 92,
       "XP": 30,
-      "UsersEstimate": 827
+      "UsersEstimate": 828
     },
     {
       "ID": "AC02",
@@ -2054,7 +2059,7 @@
       "Name": "Blood and Dust",
       "Percentage": 74,
       "XP": 30,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "AC03",
@@ -2062,15 +2067,15 @@
       "Name": "Blood and Gold",
       "Percentage": 71,
       "XP": 30,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "AC04",
       "SetID": "l4abp0",
       "Name": "Blood and Iron",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 30,
-      "UsersEstimate": 638
+      "UsersEstimate": 630
     },
     {
       "ID": "AC05",
@@ -2078,7 +2083,7 @@
       "Name": "The Sharpest Tool in the Shed",
       "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "AC06",
@@ -2086,7 +2091,7 @@
       "Name": "The Last Ascension",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "AC07",
@@ -2094,7 +2099,7 @@
       "Name": "The Sea dies on the Shore",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "AC08",
@@ -2102,7 +2107,7 @@
       "Name": "Forged in Fire",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "AC09",
@@ -2110,7 +2115,7 @@
       "Name": "Fermosa Fembra",
       "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "AC10",
@@ -2182,7 +2187,7 @@
       "Name": "Acquired Taste",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "AC19",
@@ -2190,7 +2195,7 @@
       "Name": "Soledad",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "AC20",
@@ -2278,7 +2283,7 @@
       "Name": "The Anointed One",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "AC31",
@@ -2302,7 +2307,7 @@
       "Name": "Ultima Ratio",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "AC34",
@@ -2356,9 +2361,9 @@
       "ID": "AC40",
       "SetID": "l4abp0",
       "Name": "Welcome Back!",
-      "Percentage": 85,
+      "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 764
+      "UsersEstimate": 756
     },
     {
       "ID": "AC41",
@@ -2382,7 +2387,7 @@
       "Name": "The Finest Craftmanship",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "AC44",
@@ -2405,7 +2410,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 899,
+      "Progressed": 900,
       "Completed": 0
     }
   ],
@@ -2413,8 +2418,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-10-10T02:57:43.7078143+00:00",
-  "LastChanged_Achievements": "2023-10-11T21:05:09.0327036+00:00",
+  "LastChanged_Achievements": "2023-10-11T22:03:52.3041316+00:00",
   "LastUpdate_AppInfo": "2023-10-10T20:57:16.6962643+00:00",
-  "LastUpdate_Ratings": "2023-10-11T20:59:18.5161214+00:00",
-  "LastUpdate_Achievements": "2023-10-11T21:05:09.032772+00:00"
+  "LastUpdate_Ratings": "2023-10-11T21:58:15.5215308+00:00",
+  "LastUpdate_Achievements": "2023-10-11T22:03:52.3041784+00:00"
 }

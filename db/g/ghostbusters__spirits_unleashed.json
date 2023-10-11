@@ -2,7 +2,7 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 572,
+  "Ranking_Rating": 573,
   "Ranking_Popularity": 257,
   "Ranking_PopularitySum": 189,
   "Ranking_EOS_Progress": 117,
@@ -2354,7 +2354,7 @@
   ],
   "EOS_Progressed": 26350,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 146,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -14897,9 +14897,9 @@
       "ID": "Pesky_Jerks",
       "SetID": "819popo",
       "Name": "Pesky Jerks",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 132
     },
     {
       "ID": "Reckless",
@@ -15098,8 +15098,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-11T01:43:33.204022+00:00",
-  "LastChanged_Achievements": "2023-10-11T21:05:52.1794488+00:00",
+  "LastChanged_Achievements": "2023-10-11T22:04:24.6527925+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:25.2013042+00:00",
-  "LastUpdate_Ratings": "2023-10-11T20:57:45.3747766+00:00",
-  "LastUpdate_Achievements": "2023-10-11T21:05:52.1796226+00:00"
+  "LastUpdate_Ratings": "2023-10-11T21:57:16.9560372+00:00",
+  "LastUpdate_Achievements": "2023-10-11T22:04:24.6529285+00:00"
 }

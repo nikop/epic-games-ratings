@@ -4,7 +4,7 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 363,
   "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -635,9 +635,9 @@
       "ID": "achievement_14",
       "SetID": "2cpn27e",
       "Name": "Fusion Conjuror",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "achievement_15",
@@ -859,9 +859,9 @@
       "ID": "achievement_4",
       "SetID": "2cpn27e",
       "Name": "Axer of Auspice",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 67
     },
     {
       "ID": "achievement_40",
@@ -985,8 +985,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-10-11T21:07:52.8851962+00:00",
+  "LastChanged_Achievements": "2023-10-11T22:05:55.9294452+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:12.1602586+00:00",
-  "LastUpdate_Ratings": "2023-10-11T21:00:09.0861894+00:00",
-  "LastUpdate_Achievements": "2023-10-11T21:07:52.8852569+00:00"
+  "LastUpdate_Ratings": "2023-10-11T21:58:49.8198791+00:00",
+  "LastUpdate_Achievements": "2023-10-11T22:05:55.9294912+00:00"
 }

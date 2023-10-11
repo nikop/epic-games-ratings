@@ -5,23 +5,23 @@ Rating: 4.63 (Ranked 335)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 73.00% | ~4,741 |
-| A Thorny Situation | 70.00% | ~4,546 |
-| ... And Spit Back Out | 60.00% | ~3,897 |
-| Break-Net Speed | 48.00% | ~3,118 |
-| Bramble Breaker | 45.00% | ~2,923 |
-| Miner 49er | 42.00% | ~2,728 |
-| Humble Collector | 41.00% | ~2,663 |
-| Calm Sailing | 35.00% | ~2,273 |
-| Open the Gate! | 32.00% | ~2,078 |
-| Mist Walker | 30.00% | ~1,948 |
+| Azoria Beckons | 73.00% | ~4,743 |
+| A Thorny Situation | 70.00% | ~4,548 |
+| ... And Spit Back Out | 60.00% | ~3,898 |
+| Break-Net Speed | 48.00% | ~3,119 |
+| Bramble Breaker | 45.00% | ~2,924 |
+| Miner 49er | 42.00% | ~2,729 |
+| Humble Collector | 41.00% | ~2,664 |
+| Calm Sailing | 35.00% | ~2,274 |
+| Open the Gate! | 32.00% | ~2,079 |
+| Mist Walker | 30.00% | ~1,949 |
 | Lumberjack | 26.00% | ~1,689 |
 | Oui, Chef! | 22.00% | ~1,429 |
 | Clear the Air | 17.00% | ~1,104 |
-| Botanical Breakthrough | 16.00% | ~1,039 |
-| Beach Comber | 13.00% | ~844 |
-| Search for the Hairy Grell | 12.00% | ~779 |
-| Higher Tax Bracket | 12.00% | ~779 |
+| Botanical Breakthrough | 16.00% | ~1,040 |
+| Beach Comber | 13.00% | ~845 |
+| Search for the Hairy Grell | 12.00% | ~780 |
+| Higher Tax Bracket | 12.00% | ~780 |
 | Skilled | 8.00% | ~520 |
 | Got to Catch Them All | 7.00% | ~455 |
 | Rumble in the Jumble | 7.00% | ~455 |
@@ -41,7 +41,7 @@ Rating: 4.63 (Ranked 335)
 | Giving the People What They Want | 0.10% | ~6 |
 | Very Skilled | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,495 (Ranked 162)  
+Progressed: 6,497 (Ranked 162)  
 Completed: 0 (0.00%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 0 (0.00%) (Ranked 313)
 | 2023-10-08 | 6,353 | 0 |
 | 2023-10-09 | 6,417 | 0 |
 | 2023-10-10 | 6,462 | 0 |
-| 2023-10-11 | 6,495 | 0 |
+| 2023-10-11 | 6,497 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You have three wishes left | 81.00% | ~21 |
-| Master trainee | 77.00% | ~20 |
-| Jung's dream | 65.00% | ~17 |
+| You have three wishes left | 85.00% | ~22 |
+| Master trainee | 81.00% | ~21 |
+| Jung's dream | 69.00% | ~18 |
 | The battle of Great Britain | 58.00% | ~15 |
 | Giant | 42.00% | ~11 |
 | Pulp! Where Monsters Dwell | 42.00% | ~11 |
@@ -30,27 +30,27 @@
 | Blessed antennas | 19.00% | ~5 |
 | The beast in the Oval Office | 19.00% | ~5 |
 | Blood Red Island | 19.00% | ~5 |
+| Bread and bocaua | 19.00% | ~5 |
+| Fanatacism is... poisonous | 19.00% | ~5 |
+| The adventurer | 19.00% | ~5 |
 | Pulp! The Beyond | 19.00% | ~5 |
 | The barbarian invasions | 19.00% | ~5 |
 | America had no Faith | 19.00% | ~5 |
-| Bread and bocaua | 15.00% | ~4 |
-| Fanatacism is... poisonous | 15.00% | ~4 |
 | The bully | 15.00% | ~4 |
 | The scholar | 15.00% | ~4 |
-| The adventurer | 15.00% | ~4 |
+| Pulp! Tales from the Crypt | 12.00% | ~3 |
 | Pulp! True Adventures | 12.00% | ~3 |
-| Pulp! Tales from the Crypt | 8.00% | ~2 |
-| ECO mode | 8.00% | ~2 |
+| ECO mode | 12.00% | ~3 |
 | Vaccine fans | 8.00% | ~2 |
 | Pulp! Heart Throbs | 4.00% | ~1 |
 | Thirst for Oleum | 4.00% | ~1 |
+| A new Hindenburg | 4.00% | ~1 |
 | Pulp! The Perfect Crime | 0.00% | ~0 |
 | Pulp! Weird Science | 0.00% | ~0 |
 | Pulp! Mister Mystery | 0.00% | ~0 |
 | Pulp! Skeleton Hand | 0.00% | ~0 |
 | Pulp! The Vault of Horror | 0.00% | ~0 |
 | Troy is burning! | 0.00% | ~0 |
-| A new Hindenburg | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 26 (Ranked 472)  
 Completed: 0 (0.00%) (Ranked 313)  

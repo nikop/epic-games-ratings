@@ -8776,10 +8776,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 45601,
       "NumberOfAwardsMax": 23447
+    },
+    {
+      "Time": "2023-10-11T21:59:28.3996485+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 45619,
+      "NumberOfAwardsMax": 23447
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 45601,
+  "NumberOfAwards": 45619,
   "NumberOfAwardsMax": 23447,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8793,7 +8799,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 11692
+      "Count": 11710
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -8856,9 +8862,9 @@
       "Count": 705
     }
   ],
-  "EOS_Progressed": 298176,
+  "EOS_Progressed": 298177,
   "EOS_Completed": 483,
-  "EOS_NewPlayers": 357,
+  "EOS_NewPlayers": 354,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -27586,6 +27592,11 @@
       "Time": "2023-10-11T21:04:41.5894064+00:00",
       "NumProgressed": 298176,
       "NumCompleted": 483
+    },
+    {
+      "Time": "2023-10-11T22:03:32.8846026+00:00",
+      "NumProgressed": 298177,
+      "NumCompleted": 483
     }
   ],
   "TotalAchievements": 45,
@@ -27597,7 +27608,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 44726
+      "UsersEstimate": 44727
     },
     {
       "ID": "PFA_10",
@@ -27956,16 +27967,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298176,
+      "Progressed": 298177,
       "Completed": 483
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-10-11T21:01:06.4062197+00:00",
-  "LastChanged_Achievements": "2023-10-11T21:04:41.5894057+00:00",
+  "LastChanged": "2023-10-11T21:59:28.3996483+00:00",
+  "LastChanged_Achievements": "2023-10-11T22:03:32.8846021+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:01.0338203+00:00",
-  "LastUpdate_Ratings": "2023-10-11T21:01:06.4062203+00:00",
-  "LastUpdate_Achievements": "2023-10-11T21:04:41.5895626+00:00"
+  "LastUpdate_Ratings": "2023-10-11T21:59:28.3996491+00:00",
+  "LastUpdate_Achievements": "2023-10-11T22:03:32.8847563+00:00"
 }

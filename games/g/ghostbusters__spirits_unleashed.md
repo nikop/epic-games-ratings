@@ -1,7 +1,7 @@
 # Ghostbusters: Spirits Unleashed
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 572)  
+Rating: 4.50 (Ranked 573)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -32,11 +32,11 @@ Rating: 4.50 (Ranked 572)
 | Side Hustle | 0.60% | ~158 |
 | Skilled | 0.60% | ~158 |
 | Legions | 0.50% | ~132 |
+| Pesky Jerks | 0.50% | ~132 |
 | Stunner | 0.50% | ~132 |
 | We have the best insurance | 0.40% | ~105 |
 | Collector | 0.40% | ~105 |
 | Diabolical | 0.40% | ~105 |
-| Pesky Jerks | 0.40% | ~105 |
 | Reckless | 0.40% | ~105 |
 | Rift Destroyer | 0.40% | ~105 |
 | Seasoned | 0.40% | ~105 |

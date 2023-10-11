@@ -18,14 +18,14 @@ Rating: 4.60 (Ranked 397)
 | Seat of Power | 6.00% | ~313 |
 | Intimidation Tactics | 6.00% | ~313 |
 | Mighty Hoard | 6.00% | ~313 |
-| Full Ascension | 5.00% | ~260 |
-| My Final Form | 5.00% | ~260 |
-| In a Liege of Your Own | 5.00% | ~260 |
-| Fiery Friend | 5.00% | ~260 |
-| Against the Odds | 5.00% | ~260 |
-| Impenetrable Fortress | 5.00% | ~260 |
-| Here be Dragons | 5.00% | ~260 |
-| Blood of the Dragon | 5.00% | ~260 |
+| Full Ascension | 5.00% | ~261 |
+| My Final Form | 5.00% | ~261 |
+| In a Liege of Your Own | 5.00% | ~261 |
+| Fiery Friend | 5.00% | ~261 |
+| Against the Odds | 5.00% | ~261 |
+| Impenetrable Fortress | 5.00% | ~261 |
+| Here be Dragons | 5.00% | ~261 |
+| Blood of the Dragon | 5.00% | ~261 |
 | Valley of Wonders | 4.00% | ~208 |
 | Return of the Wizard King | 4.00% | ~208 |
 | Enchanted Archipelago | 4.00% | ~208 |
@@ -56,7 +56,7 @@ Rating: 4.60 (Ranked 397)
 | Master of Evilness | 0.10% | ~5 |
 | The Grey Wizard | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,210 (Ranked 171)  
+Progressed: 5,211 (Ranked 171)  
 Completed: 6 (0.12%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,6 +202,7 @@ Completed: 6 (0.12%) (Ranked 240)
 | 2023-10-08 | 5,207 | 6 |
 | 2023-10-09 | 5,208 | 6 |
 | 2023-10-10 | 5,210 | 6 |
+| 2023-10-11 | 5,211 | 6 |
 ## Awards
 Max (Great for Beginners): 26  (Ranked 495)  
 Sum: 26 (Ranked 505)  

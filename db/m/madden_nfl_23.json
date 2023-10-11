@@ -706,9 +706,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2399,
+  "EOS_Progressed": 2401,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 384,
+  "EOS_NewPlayers": 383,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2861,6 +2861,11 @@
       "Time": "2023-10-11T21:05:59.4261614+00:00",
       "NumProgressed": 2399,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-11T22:04:29.882938+00:00",
+      "NumProgressed": 2401,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -2881,7 +2886,7 @@
       "Name": "Bragging Rights",
       "Percentage": 56,
       "XP": 90,
-      "UsersEstimate": 1343
+      "UsersEstimate": 1345
     },
     {
       "ID": "achievement_11",
@@ -2905,7 +2910,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1273
     },
     {
       "ID": "achievement_14",
@@ -2921,7 +2926,7 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 1295
+      "UsersEstimate": 1297
     },
     {
       "ID": "achievement_16",
@@ -3040,7 +3045,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 2399,
+      "Progressed": 2401,
       "Completed": 0
     }
   ],
@@ -3048,8 +3053,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-10-11T06:59:42.9773462+00:00",
-  "LastChanged_Achievements": "2023-10-11T21:05:59.4261607+00:00",
+  "LastChanged_Achievements": "2023-10-11T22:04:29.8829375+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:58.3611516+00:00",
-  "LastUpdate_Ratings": "2023-10-11T21:02:25.1584907+00:00",
-  "LastUpdate_Achievements": "2023-10-11T21:05:59.4261931+00:00"
+  "LastUpdate_Ratings": "2023-10-11T22:00:25.3886997+00:00",
+  "LastUpdate_Achievements": "2023-10-11T22:04:29.88297+00:00"
 }

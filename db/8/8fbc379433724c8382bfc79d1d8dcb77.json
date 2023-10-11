@@ -2,9 +2,9 @@
   "ID": "8fbc379433724c8382bfc79d1d8dcb77",
   "Name": "Vlad Circus - Descend Into Madness",
   "ProductSlug": "vlad-circus-descend-into-madness-9d1ed2",
-  "Ranking_EOS_Progress": 612,
+  "Ranking_EOS_Progress": 613,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewPlayers": 402,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-10-16T13:00:00+00:00",
@@ -141,8 +141,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-26T15:04:26.955299+00:00",
-  "LastChanged_Achievements": "2023-10-11T21:05:06.8334272+00:00",
+  "LastChanged_Achievements": "2023-10-11T22:03:50.6961868+00:00",
   "LastUpdate_AppInfo": "2023-10-10T16:57:15.7152447+00:00",
-  "LastUpdate_Ratings": "2023-10-11T21:01:57.331861+00:00",
-  "LastUpdate_Achievements": "2023-10-11T21:05:06.8334537+00:00"
+  "LastUpdate_Ratings": "2023-10-11T22:00:03.4437193+00:00",
+  "LastUpdate_Achievements": "2023-10-11T22:03:50.6961968+00:00"
 }

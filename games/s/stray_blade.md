@@ -30,9 +30,9 @@
 | A Deceiving Gift | 7.00% | ~6 |
 | Bringing guns to a sword fight | 5.00% | ~5 |
 | Ancient Powers | 5.00% | ~5 |
+| Unveiling the Truth | 5.00% | ~5 |
 | Defeat Ingla | 4.00% | ~4 |
 | But what of the Acreans? | 4.00% | ~4 |
-| Unveiling the Truth | 4.00% | ~4 |
 | Sponsor | 3.00% | ~3 |
 | Wizard | 3.00% | ~3 |
 | Wayseeker | 3.00% | ~3 |

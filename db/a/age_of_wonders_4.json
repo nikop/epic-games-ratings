@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -354,9 +354,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 5210,
+  "EOS_Progressed": 5211,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -6304,6 +6304,11 @@
       "Time": "2023-10-10T15:08:17.9328114+00:00",
       "NumProgressed": 5210,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-11T22:07:03.7629221+00:00",
+      "NumProgressed": 5211,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 50,
@@ -6355,7 +6360,7 @@
       "Name": "Full Ascension",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "15",
@@ -6515,7 +6520,7 @@
       "Name": "My Final Form",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "33",
@@ -6531,7 +6536,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "35",
@@ -6547,7 +6552,7 @@
       "Name": "Fiery Friend",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "37",
@@ -6555,7 +6560,7 @@
       "Name": "Against the Odds",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "38",
@@ -6571,7 +6576,7 @@
       "Name": "Impenetrable Fortress",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "4",
@@ -6667,7 +6672,7 @@
       "Name": "Here be Dragons",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "46",
@@ -6691,7 +6696,7 @@
       "Name": "Blood of the Dragon",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "49",
@@ -6714,13 +6719,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5210,
+      "Progressed": 5211,
       "Completed": 4763
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5210,
+      "Progressed": 5211,
       "Completed": 6
     }
   ],
@@ -6728,8 +6733,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-10-11T08:00:22.3550379+00:00",
-  "LastChanged_Achievements": "2023-10-11T21:09:23.6842151+00:00",
+  "LastChanged_Achievements": "2023-10-11T22:07:03.7629217+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:43.3200894+00:00",
-  "LastUpdate_Ratings": "2023-10-11T21:03:30.8341689+00:00",
-  "LastUpdate_Achievements": "2023-10-11T21:09:23.6843519+00:00"
+  "LastUpdate_Ratings": "2023-10-11T22:01:20.4195091+00:00",
+  "LastUpdate_Achievements": "2023-10-11T22:07:03.7630013+00:00"
 }

@@ -751,9 +751,9 @@
       "ID": "GSS_ACH_32_TRASH_03",
       "SetID": "5fn8ia4",
       "Name": "It has to be clean!",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "GSS_ACH_33_FLY",
@@ -1166,8 +1166,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-11T21:08:59.0187419+00:00",
+  "LastChanged_Achievements": "2023-10-11T22:06:36.3654589+00:00",
   "LastUpdate_AppInfo": "2023-10-09T13:09:09.0618232+00:00",
-  "LastUpdate_Ratings": "2023-10-11T21:00:05.8609836+00:00",
-  "LastUpdate_Achievements": "2023-10-11T21:08:59.0188473+00:00"
+  "LastUpdate_Ratings": "2023-10-11T21:58:46.7871724+00:00",
+  "LastUpdate_Achievements": "2023-10-11T22:06:36.3655679+00:00"
 }

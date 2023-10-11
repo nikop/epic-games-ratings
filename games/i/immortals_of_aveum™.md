@@ -5,25 +5,25 @@ Rating: 4.03 (Ranked 959)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 90.00% | ~74 |
-| Battlefields Have Memories | 90.00% | ~74 |
-| Enlisted | 88.00% | ~72 |
-| Maybe Engage a Little | 82.00% | ~67 |
-| No More Names | 68.00% | ~56 |
-| Initiate | 61.00% | ~50 |
+| Unforeseen | 90.00% | ~75 |
+| Battlefields Have Memories | 90.00% | ~75 |
+| Enlisted | 88.00% | ~73 |
+| Maybe Engage a Little | 82.00% | ~68 |
+| No More Names | 69.00% | ~57 |
+| Initiate | 61.00% | ~51 |
 | Thrada-Kul | 57.00% | ~47 |
 | Gravity-Challenged Rocks | 46.00% | ~38 |
 | Soldier | 41.00% | ~34 |
 | All the Major Food Groups | 40.00% | ~33 |
+| Beggars Would Ride | 35.00% | ~29 |
 | Socialite | 34.00% | ~28 |
-| Beggars Would Ride | 34.00% | ~28 |
 | Control is an Illusion | 33.00% | ~27 |
 | The Means to Save It | 27.00% | ~22 |
 | Resilience to Sin | 23.00% | ~19 |
-| A Familiar Nest | 21.00% | ~17 |
-| Periapt Alizarin | 21.00% | ~17 |
-| Geas Aristeya | 20.00% | ~16 |
-| Armsman | 18.00% | ~15 |
+| A Familiar Nest | 20.00% | ~17 |
+| Periapt Alizarin | 20.00% | ~17 |
+| Geas Aristeya | 19.00% | ~16 |
+| Armsman | 19.00% | ~16 |
 | A Perfect Cycle | 17.00% | ~14 |
 | Recruit | 17.00% | ~14 |
 | Good Boy | 13.00% | ~11 |
@@ -31,7 +31,7 @@ Rating: 4.03 (Ranked 959)
 | Periapt Cerulean | 11.00% | ~9 |
 | Periapt Viridian | 10.00% | ~8 |
 | Shroudfane Explorer | 10.00% | ~8 |
-| Armaments Gules | 9.00% | ~7 |
+| Armaments Gules | 8.00% | ~7 |
 | Scholar | 7.00% | ~6 |
 | Armaments Azure | 7.00% | ~6 |
 | Veteran | 7.00% | ~6 |
@@ -53,7 +53,7 @@ Rating: 4.03 (Ranked 959)
 | Out of Time | 0.00% | ~0 |
 | Fowl Play | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82 (Ranked 401)  
+Progressed: 83 (Ranked 401)  
 Completed: 0 (0.00%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 0 (0.00%) (Ranked 313)
 | 2023-10-08 | 71 | 0 |
 | 2023-10-09 | 75 | 0 |
 | 2023-10-10 | 77 | 0 |
-| 2023-10-11 | 82 | 0 |
+| 2023-10-11 | 83 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

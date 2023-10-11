@@ -4,7 +4,7 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_NewPlayers": 301,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 157,
+  "EOS_Progressed": 158,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -558,6 +558,11 @@
       "Time": "2023-10-10T12:10:05.0505967+00:00",
       "NumProgressed": 157,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-11T22:09:27.5507558+00:00",
+      "NumProgressed": 158,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 99,
@@ -567,9 +572,9 @@
       "ID": "Vanilla_100OnACCRoll",
       "SetID": "27kik8p",
       "Name": "Randomized",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 25
     },
     {
       "ID": "Vanilla_Abolitionists",
@@ -687,9 +692,9 @@
       "ID": "Vanilla_CodexTier1",
       "SetID": "27kik8p",
       "Name": "Scribe",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "Vanilla_CodexTier2",
@@ -1121,7 +1126,7 @@
       "Name": "Press-ganged",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "Vanilla_Ratharnak",
@@ -1185,7 +1190,7 @@
       "Name": "A Second Chance",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "Vanilla_SecretsBelow",
@@ -1360,7 +1365,7 @@
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 157,
+      "Progressed": 158,
       "Completed": 0
     }
   ],
@@ -1368,8 +1373,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-10-11T21:10:39.4160264+00:00",
+  "LastChanged_Achievements": "2023-10-11T22:09:27.5507553+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:38.1607009+00:00",
-  "LastUpdate_Ratings": "2023-10-11T21:03:24.4695179+00:00",
-  "LastUpdate_Achievements": "2023-10-11T21:10:39.416156+00:00"
+  "LastUpdate_Ratings": "2023-10-11T22:01:08.4148254+00:00",
+  "LastUpdate_Achievements": "2023-10-11T22:09:27.5508831+00:00"
 }

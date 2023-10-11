@@ -66,9 +66,9 @@
 | Cat's in the Cradle | 29.00% | ~190 |
 | Digital Exorcist | 29.00% | ~190 |
 | Driven | 29.00% | ~190 |
+| Bringer of War | 29.00% | ~190 |
 | Friend or Foe | 28.00% | ~183 |
 | Doppelganger | 28.00% | ~183 |
-| Bringer of War | 28.00% | ~183 |
 | Mobilizer | 28.00% | ~183 |
 | First Aid Specialist | 27.00% | ~177 |
 | Suicide Mission | 27.00% | ~177 |
@@ -86,9 +86,9 @@
 | Tunnel Rat | 22.00% | ~144 |
 | Arbiter | 22.00% | ~144 |
 | Savior | 21.00% | ~138 |
+| Lost and Found | 21.00% | ~138 |
 | Party Crasher | 20.00% | ~131 |
 | Problem Solver | 20.00% | ~131 |
-| Lost and Found | 20.00% | ~131 |
 | No One Left Behind | 19.00% | ~124 |
 | Hard Target | 19.00% | ~124 |
 | Saboteur | 19.00% | ~124 |
@@ -109,10 +109,10 @@
 | Combined Arms | 12.00% | ~79 |
 | Long Service Medal | 12.00% | ~79 |
 | Barrier Mastery | 11.00% | ~72 |
+| Paramour III | 11.00% | ~72 |
 | Bruiser | 11.00% | ~72 |
 | Overload Specialist | 11.00% | ~72 |
 | Warp Mastery | 11.00% | ~72 |
-| Paramour III | 10.00% | ~66 |
 | Lift Mastery | 10.00% | ~66 |
 | Hijacker | 9.00% | ~59 |
 | Always Prepared | 9.00% | ~59 |

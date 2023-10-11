@@ -156,9 +156,9 @@
       "ID": "1",
       "SetID": "d37idgg",
       "Name": "Master trainee",
-      "Percentage": 77,
+      "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "10",
@@ -212,25 +212,25 @@
       "ID": "16",
       "SetID": "d37idgg",
       "Name": "Bread and bocaua",
-      "Percentage": 15,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "17",
       "SetID": "d37idgg",
       "Name": "Fanatacism is... poisonous",
-      "Percentage": 15,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "18",
       "SetID": "d37idgg",
       "Name": "Jung\u0027s dream",
-      "Percentage": 65,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "19",
@@ -244,9 +244,9 @@
       "ID": "2",
       "SetID": "d37idgg",
       "Name": "You have three wishes left",
-      "Percentage": 81,
+      "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "20",
@@ -300,9 +300,9 @@
       "ID": "26",
       "SetID": "d37idgg",
       "Name": "The adventurer",
-      "Percentage": 15,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "27",
@@ -348,9 +348,9 @@
       "ID": "31",
       "SetID": "d37idgg",
       "Name": "Pulp! Tales from the Crypt",
-      "Percentage": 8,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "32",
@@ -452,9 +452,9 @@
       "ID": "43",
       "SetID": "d37idgg",
       "Name": "ECO mode",
-      "Percentage": 8,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "44",
@@ -484,9 +484,9 @@
       "ID": "47",
       "SetID": "d37idgg",
       "Name": "A new Hindenburg",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "5",
@@ -539,8 +539,8 @@
   ],
   "FirstSeen": "2023-10-04T21:00:27.0019409+00:00",
   "FirstSeenAchievements": "2023-09-01T11:02:14.7440084+00:00",
-  "LastChanged_Achievements": "2023-10-11T21:05:50.7743396+00:00",
+  "LastChanged_Achievements": "2023-10-11T22:04:23.5295368+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:05.043787+00:00",
-  "LastUpdate_Ratings": "2023-10-11T21:00:30.8771651+00:00",
-  "LastUpdate_Achievements": "2023-10-11T21:05:50.7744104+00:00"
+  "LastUpdate_Ratings": "2023-10-11T21:59:06.6590849+00:00",
+  "LastUpdate_Achievements": "2023-10-11T22:04:23.5295756+00:00"
 }

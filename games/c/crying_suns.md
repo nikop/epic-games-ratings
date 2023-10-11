@@ -1,12 +1,12 @@
 # Crying Suns
 [Store](https://store.epicgames.com/en-US/p/crying-suns)  
 [View Rawdata](../../db/c/crying_suns.json)  
-Rating: 4.50 (Ranked 572)  
+Rating: 4.50 (Ranked 573)  
 Number of Ratings: 1,003  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~309,473 |
+| The Shutdown | 66.00% | ~309,474 |
 | Jeef Skeejj | 44.00% | ~206,316 |
 | Careful planning | 39.00% | ~182,871 |
 | Second Coming | 34.00% | ~159,426 |
@@ -59,7 +59,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Excelsior Mastery | 0.90% | ~4,220 |
 | The greatest admiral of all time | 0.50% | ~2,344 |
 | Hand of the Emperor | 0.40% | ~51 |
-| Soldiers of Fortune | 0.30% | ~38 |
+| Soldiers of Fortune | 0.30% | ~39 |
 | Liberator | 0.10% | ~469 |
 | The Art of War | 0.10% | ~469 |
 | Geno Mastery | 0.10% | ~469 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~13 |
 | Kronos Rule | 0.10% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 468,899 (Ranked 37)  
+Progressed: 468,900 (Ranked 37)  
 Completed: 18 (0.00%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,7 +260,7 @@ Completed: 18 (0.00%) (Ranked 313)
 | 2023-10-08 | 468,744 | 18 |
 | 2023-10-09 | 468,804 | 18 |
 | 2023-10-10 | 468,855 | 18 |
-| 2023-10-11 | 468,899 | 18 |
+| 2023-10-11 | 468,900 | 18 |
 ## Awards
 Max (Character Customization): 221  (Ranked 269)  
 Sum: 242 (Ranked 365)  

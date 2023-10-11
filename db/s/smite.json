@@ -4,10 +4,10 @@
   "ProductSlug": "smite",
   "Ranking_Rating": 672,
   "Ranking_Popularity": 79,
-  "Ranking_PopularitySum": 46,
+  "Ranking_PopularitySum": 52,
   "Ranking_EOS_Progress": 667,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewPlayers": 402,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2020-04-28T15:00:00+00:00",
@@ -8785,10 +8785,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 29239,
       "NumberOfAwardsMax": 4428
+    },
+    {
+      "Time": "2023-10-11T22:01:38.1881165+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 26131,
+      "NumberOfAwardsMax": 4428
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29239,
+  "NumberOfAwards": 26131,
   "NumberOfAwardsMax": 4428,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -8864,8 +8870,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:32.4644513+00:00",
-  "LastChanged": "2023-10-11T21:03:54.5089478+00:00",
+  "LastChanged": "2023-10-11T22:01:38.1881162+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:13.6738962+00:00",
-  "LastUpdate_Ratings": "2023-10-11T21:03:54.5089486+00:00",
-  "LastUpdate_Achievements": "2023-10-11T21:05:13.2465437+00:00"
+  "LastUpdate_Ratings": "2023-10-11T22:01:38.188117+00:00",
+  "LastUpdate_Achievements": "2023-10-11T22:03:55.420186+00:00"
 }

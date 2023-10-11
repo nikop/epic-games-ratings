@@ -3,7 +3,7 @@
   "Name": "while True: learn()",
   "ProductSlug": "while-true-learn",
   "Ranking_Rating": 552,
-  "Ranking_Popularity": 314,
+  "Ranking_Popularity": 315,
   "Ranking_PopularitySum": 414,
   "Ranking_EOS_Progress": 29,
   "Ranking_EOS_Completed": 252,
@@ -490,9 +490,9 @@
       "Count": 134
     }
   ],
-  "EOS_Progressed": 606560,
+  "EOS_Progressed": 606567,
   "EOS_Completed": 532,
-  "EOS_NewPlayers": 736,
+  "EOS_NewPlayers": 737,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -19905,6 +19905,11 @@
       "Time": "2023-10-11T21:10:31.5657959+00:00",
       "NumProgressed": 606560,
       "NumCompleted": 532
+    },
+    {
+      "Time": "2023-10-11T22:09:21.6699992+00:00",
+      "NumProgressed": 606567,
+      "NumCompleted": 532
     }
   ],
   "TotalAchievements": 28,
@@ -19980,7 +19985,7 @@
       "Name": "We need more gold",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 370002
+      "UsersEstimate": 370006
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -19996,7 +20001,7 @@
       "Name": "One more!",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 266886
+      "UsersEstimate": 266889
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -20012,7 +20017,7 @@
       "Name": "Cosplay",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 78853
+      "UsersEstimate": 78854
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -20020,7 +20025,7 @@
       "Name": "Evolution in progress...",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 78853
+      "UsersEstimate": 78854
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -20028,7 +20033,7 @@
       "Name": "Beauty and harmony",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 291149
+      "UsersEstimate": 291152
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -20036,7 +20041,7 @@
       "Name": "More FPS for the FPS god!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 303280
+      "UsersEstimate": 303284
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -20044,7 +20049,7 @@
       "Name": "First.. Bit?",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 564101
+      "UsersEstimate": 564107
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -20052,7 +20057,7 @@
       "Name": "Overmind",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 145574
+      "UsersEstimate": 145576
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -20076,7 +20081,7 @@
       "Name": "Error: Stack Overflow",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 400330
+      "UsersEstimate": 400334
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -20084,7 +20089,7 @@
       "Name": "RNG is my best friend now",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 109181
+      "UsersEstimate": 109182
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -20092,7 +20097,7 @@
       "Name": "The dawn of civilization",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 321477
+      "UsersEstimate": 321481
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -20139,15 +20144,15 @@
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 606560,
+      "Progressed": 606567,
       "Completed": 532
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
   "LastChanged": "2023-07-16T08:00:08.7749167+00:00",
-  "LastChanged_Achievements": "2023-10-11T21:10:31.5657948+00:00",
+  "LastChanged_Achievements": "2023-10-11T22:09:21.6699986+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:59.5062529+00:00",
-  "LastUpdate_Ratings": "2023-10-11T21:02:26.1703014+00:00",
-  "LastUpdate_Achievements": "2023-10-11T21:10:31.5659293+00:00"
+  "LastUpdate_Ratings": "2023-10-11T22:00:26.2578104+00:00",
+  "LastUpdate_Achievements": "2023-10-11T22:09:21.6702333+00:00"
 }

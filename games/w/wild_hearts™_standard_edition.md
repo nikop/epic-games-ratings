@@ -11,7 +11,7 @@
 | Man-Machine Master | 71.00% | ~91 |
 | Mountain Splitter | 70.00% | ~90 |
 | Charmed by the Hunt | 70.00% | ~90 |
-| Fusion Conjuror | 68.00% | ~87 |
+| Fusion Conjuror | 69.00% | ~88 |
 | Memory Rouser | 68.00% | ~87 |
 | Kemono Hunter | 65.00% | ~83 |
 | Subsistence Skills | 64.00% | ~82 |
@@ -22,7 +22,7 @@
 | Helpful Heart | 58.00% | ~74 |
 | Bonds of Enmity | 56.00% | ~72 |
 | Counter Specialist | 54.00% | ~69 |
-| Axer of Auspice | 51.00% | ~65 |
+| Axer of Auspice | 52.00% | ~67 |
 | Fair Means or Foul | 48.00% | ~61 |
 | Mighty Marmelizer | 46.00% | ~59 |
 | Single Minded | 45.00% | ~58 |

@@ -825,9 +825,9 @@
       "ID": "GROW_20_PLANTS",
       "SetID": "aniflfk",
       "Name": "Farmer",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 92
+      "UsersEstimate": 94
     },
     {
       "ID": "HOUSEWARMING",
@@ -897,9 +897,9 @@
       "ID": "SPEND_2000_COINS",
       "SetID": "aniflfk",
       "Name": "Crypto Bro",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "TAKE_LEECH",
@@ -928,8 +928,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-10-11T21:08:20.0695984+00:00",
+  "LastChanged_Achievements": "2023-10-11T22:06:08.1491701+00:00",
   "LastUpdate_AppInfo": "2023-10-11T15:57:05.2435729+00:00",
-  "LastUpdate_Ratings": "2023-10-11T20:57:48.8564079+00:00",
-  "LastUpdate_Achievements": "2023-10-11T21:08:20.0696258+00:00"
+  "LastUpdate_Ratings": "2023-10-11T21:57:19.2181886+00:00",
+  "LastUpdate_Achievements": "2023-10-11T22:06:08.1491916+00:00"
 }

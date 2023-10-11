@@ -5,24 +5,24 @@ Rating: 4.16 (Ranked 907)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The touch of Chaos | 37.00% | ~96,722 |
-| May the Torchbearer light our way | 35.00% | ~91,494 |
-| A powerful aura was here | 22.00% | ~57,510 |
-| Let's raise the stakes!! | 10.00% | ~26,141 |
-| Rumors are true | 5.00% | ~13,071 |
-| Pride is a sin, young Knight | 5.00% | ~13,071 |
-| Your wounds… They are healing so fast! | 5.00% | ~13,071 |
-| We'll be careful | 4.00% | ~10,456 |
-| Bring it on! | 4.00% | ~10,456 |
-| Back to your senses | 2.00% | ~5,228 |
-| They tricked me | 2.00% | ~5,228 |
-| We need to talk | 2.00% | ~5,228 |
-| They won't last long | 2.00% | ~5,228 |
-| I feel drawn to it | 1.00% | ~2,614 |
-| I took a risk | 1.00% | ~2,614 |
+| The touch of Chaos | 37.00% | ~96,754 |
+| May the Torchbearer light our way | 35.00% | ~91,524 |
+| A powerful aura was here | 22.00% | ~57,529 |
+| Let's raise the stakes!! | 10.00% | ~26,150 |
+| Rumors are true | 5.00% | ~13,075 |
+| Pride is a sin, young Knight | 5.00% | ~13,075 |
+| Your wounds… They are healing so fast! | 5.00% | ~13,075 |
+| We'll be careful | 4.00% | ~10,460 |
+| Bring it on! | 4.00% | ~10,460 |
+| Back to your senses | 2.00% | ~5,230 |
+| They tricked me | 2.00% | ~5,230 |
+| We need to talk | 2.00% | ~5,230 |
+| They won't last long | 2.00% | ~5,230 |
+| I feel drawn to it | 1.00% | ~2,615 |
+| I took a risk | 1.00% | ~2,615 |
 | Their fate is sealed | 0.90% | ~2,353 |
-| Here to stay | 0.80% | ~2,091 |
-| Counting on you | 0.70% | ~1,830 |
+| Here to stay | 0.80% | ~2,092 |
+| Counting on you | 0.80% | ~2,092 |
 | This is the end | 0.70% | ~1,830 |
 | We can choose to fight | 0.70% | ~1,830 |
 | Not even from this world | 0.40% | ~1,046 |
@@ -46,7 +46,7 @@ Rating: 4.16 (Ranked 907)
 | We strike as one | 0.10% | ~261 |
 | Chaos be damned! | 0.10% | ~261 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 261,411 (Ranked 50)  
+Progressed: 261,497 (Ranked 50)  
 Completed: 1 (0.00%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,7 +64,7 @@ Completed: 1 (0.00%) (Ranked 313)
 | 2023-10-08 | 251,611 | 1 |
 | 2023-10-09 | 255,673 | 1 |
 | 2023-10-10 | 258,836 | 1 |
-| 2023-10-11 | 261,411 | 1 |
+| 2023-10-11 | 261,497 | 1 |
 ## Awards
 Max (Great Boss Battles): 22  (Ranked 515)  
 Sum: 22 (Ranked 518)  
