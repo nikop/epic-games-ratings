@@ -7,7 +7,7 @@
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 206,034 | 4.19 | 889 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 185,401 | 4.88 | 16 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 149,834 | 4.51 | 551 |
-| 8 | [Borderlands 3](games/b/borderlands_3.md) | 118,432 | 4.69 | 220 |
+| 8 | [Borderlands 3](games/b/borderlands_3.md) | 118,492 | 4.69 | 220 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 95,835 | 4.64 | 318 |
 | 10 | [VALORANT](games/v/valorant.md) | 74,694 | 4.53 | 525 |
 | 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 62,029 | 4.58 | 436 |
@@ -35,7 +35,7 @@
 | 33 | [Satisfactory](games/s/satisfactory.md) | 11,894 | 4.88 | 16 |
 | 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 11,850 | 4.45 | 644 |
 | 35 | [NBA 2K21](games/n/nba_2k21.md) | 11,770 | 4.39 | 729 |
-| 36 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,498 | 4.69 | 220 |
+| 36 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,503 | 4.69 | 220 |
 | 37 | [SnowRunner](games/s/snowrunner.md) | 11,174 | 4.76 | 120 |
 | 38 | [HITMAN World of Assassination](games/h/hitman_3.md) | 10,283 | 4.78 | 99 |
 | 39 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 10,225 | 4.61 | 374 |
@@ -413,7 +413,7 @@
 | 411 | [ATOM RPG](games/a/atom_rpg.md) | 50 | 4.45 | 644 |
 | 411 | [Crayta](games/c/crayta.md) | 50 | 4.19 | 889 |
 | 411 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 50 | 4.36 | 760 |
-| 414 | [Poker Club](games/p/poker_club.md) | 49 | 3.83 | 992 |
+| 414 | [Poker Club](games/p/poker_club.md) | 49 | 3.83 | 993 |
 | 414 | [Quake](games/q/quake.md) | 49 | 4.77 | 112 |
 | 414 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 49 | 4.82 | 61 |
 | 414 | [The Riftbreaker](games/t/the_riftbreaker.md) | 49 | 4.76 | 120 |
@@ -494,14 +494,14 @@
 | 487 | [Madden NFL 23](games/m/madden_nfl_23.md) | 27 | 4.27 | 834 |
 | 487 | [Songs of Conquest](games/s/songs_of_conquest.md) | 27 | 4.69 | 220 |
 | 487 | [Weird West: Definitive Edition](games/w/weird_west.md) | 27 | 4.44 | 656 |
+| 495 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 26 | 4.60 | 398 |
 | 495 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 26 | 4.06 | 947 |
 | 495 | [Spirit of the North](games/s/spirit_of_the_north.md) | 26 | 4.36 | 760 |
 | 495 | [Star Atlas](games/s/star_atlas.md) | 26 | 4.80 | 81 |
-| 498 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 25 | 4.60 | 398 |
-| 498 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 25 | 4.53 | 525 |
-| 498 | [Homeworld Remastered Collection](games/4/4311a0ee99724086b1a4f261b827d038.md) | 25 | 4.55 | 490 |
-| 498 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 25 | 4.54 | 509 |
-| 498 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 25 | 4.63 | 335 |
+| 499 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 25 | 4.53 | 525 |
+| 499 | [Homeworld Remastered Collection](games/4/4311a0ee99724086b1a4f261b827d038.md) | 25 | 4.55 | 490 |
+| 499 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 25 | 4.54 | 509 |
+| 499 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 25 | 4.63 | 335 |
 | 503 | [ELEX](games/e/elex.md) | 24 | 4.46 | 628 |
 | 503 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 24 | 4.16 | 905 |
 | 503 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 24 | 4.49 | 590 |

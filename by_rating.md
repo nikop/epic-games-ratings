@@ -220,7 +220,7 @@
 | 203 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 0 | 531 |
 | 203 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.70 | 0 | 531 |
 | 220 | [Black Book](games/b/black_book.md) | 4.69 | 72 | 385 |
-| 220 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 118,432 | 8 |
+| 220 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 118,492 | 8 |
 | 220 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 531 |
 | 220 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 6,464 | 55 |
 | 220 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.69 | 5,146 | 70 |
@@ -231,7 +231,7 @@
 | 220 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 531 |
 | 220 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 0 | 531 |
 | 220 | [Revita](games/r/revita.md) | 4.69 | 0 | 531 |
-| 220 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,498 | 36 |
+| 220 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,503 | 36 |
 | 220 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 334 | 236 |
 | 220 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 27 | 487 |
 | 220 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 0 | 531 |
@@ -350,7 +350,7 @@
 | 335 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 304 | 241 |
 | 335 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,786 | 116 |
 | 335 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.63 | 1,244 | 136 |
-| 335 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.63 | 25 | 498 |
+| 335 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.63 | 25 | 499 |
 | 335 | [Ticket To Ride: Classic Edition](games/t/ticket_to_ride.md) | 4.63 | 68 | 392 |
 | 335 | [Witchfire](games/w/witchfire.md) | 4.63 | 28 | 480 |
 | 354 | [Aimlabs](games/a/aimlabs.md) | 4.62 | 34 | 459 |
@@ -398,7 +398,7 @@
 | 374 | [Tavern Master](games/t/tavern_master.md) | 4.61 | 0 | 531 |
 | 374 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.61 | 0 | 531 |
 | 398 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.60 | 0 | 531 |
-| 398 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.60 | 25 | 498 |
+| 398 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.60 | 26 | 495 |
 | 398 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 14,210 | 27 |
 | 398 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.60 | 0 | 531 |
 | 398 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,726 | 73 |
@@ -496,7 +496,7 @@
 | 490 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.55 | 343 | 232 |
 | 490 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 35 | 452 |
 | 490 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.55 | 288 | 244 |
-| 490 | [Homeworld Remastered Collection](games/4/4311a0ee99724086b1a4f261b827d038.md) | 4.55 | 25 | 498 |
+| 490 | [Homeworld Remastered Collection](games/4/4311a0ee99724086b1a4f261b827d038.md) | 4.55 | 25 | 499 |
 | 490 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.55 | 156 | 305 |
 | 490 | [Observation](games/o/observation.md) | 4.55 | 0 | 531 |
 | 490 | [Outward Definitive Edition](games/o/outward.md) | 4.55 | 35 | 452 |
@@ -519,13 +519,13 @@
 | 509 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.54 | 0 | 531 |
 | 509 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 34 | 459 |
 | 509 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 97 | 351 |
-| 509 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.54 | 25 | 498 |
+| 509 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.54 | 25 | 499 |
 | 509 | [Souldiers](games/s/souldiers.md) | 4.54 | 0 | 531 |
 | 509 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.54 | 0 | 531 |
 | 509 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 520 | 201 |
 | 509 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 361 | 229 |
 | 525 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 531 |
-| 525 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.53 | 25 | 498 |
+| 525 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.53 | 25 | 499 |
 | 525 | [Dauntless](games/d/dauntless.md) | 4.53 | 22,651 | 18 |
 | 525 | [Everything](games/e/everything.md) | 4.53 | 0 | 531 |
 | 525 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.53 | 0 | 531 |
@@ -990,9 +990,9 @@
 | 988 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 3.86 | 0 | 531 |
 | 988 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 0 | 531 |
 | 990 | [Stygian: Reign of the Old Ones](games/s/stygian__reign_of_the_old_ones.md) | 3.85 | 0 | 531 |
+| 991 | [Spelldrifter](games/s/spelldrifter.md) | 3.84 | 0 | 531 |
 | 991 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.84 | 0 | 531 |
-| 992 | [Poker Club](games/p/poker_club.md) | 3.83 | 49 | 414 |
-| 992 | [Spelldrifter](games/s/spelldrifter.md) | 3.83 | 0 | 531 |
+| 993 | [Poker Club](games/p/poker_club.md) | 3.83 | 49 | 414 |
 | 994 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.82 | 0 | 531 |
 | 994 | [Potion Permit](games/p/potion_permit.md) | 3.82 | 69 | 390 |
 | 994 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.82 | 0 | 531 |

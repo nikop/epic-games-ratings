@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 53.12% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 53.10% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 47.17% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.28% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
@@ -133,13 +133,13 @@
 | 131 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.32% |
 | 131 | [Lemon Cake](games/l/lemon_cake.md) | 1.32% |
 | 131 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.32% |
-| 134 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.21% |
+| 134 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.20% |
 | 135 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.13% |
 | 136 | [Trifox](games/t/trifox.md) | 1.09% |
-| 137 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.06% |
 | 137 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.06% |
-| 139 | [Adios](games/a/adios.md) | 1.05% |
-| 139 | [Infindustry](games/i/infindustry.md) | 1.05% |
+| 138 | [Adios](games/a/adios.md) | 1.05% |
+| 138 | [Infindustry](games/i/infindustry.md) | 1.05% |
+| 138 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.05% |
 | 141 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.02% |
 | 142 | [Sable](games/s/sable.md) | 1.00% |
 | 143 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.99% |
