@@ -747,9 +747,9 @@
       "Count": 98
     }
   ],
-  "EOS_Progressed": 224508,
+  "EOS_Progressed": 224509,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 561,
+  "EOS_NewPlayers": 559,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19747,6 +19747,11 @@
       "Time": "2023-10-11T22:04:03.4579781+00:00",
       "NumProgressed": 224508,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-11T23:04:30.9307047+00:00",
+      "NumProgressed": 224509,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -19804,9 +19809,9 @@
       "ID": "ACH_BASE_16",
       "SetID": "880fehc",
       "Name": "Galvanic Rifle",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 20206
+      "UsersEstimate": 22451
     },
     {
       "ID": "ACH_BASE_17",
@@ -19838,7 +19843,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13470
+      "UsersEstimate": 13471
     },
     {
       "ID": "ACH_BASE_20",
@@ -20029,7 +20034,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 224508,
+      "Progressed": 224509,
       "Completed": 5
     }
   ],
@@ -20037,8 +20042,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-10-11T15:59:54.4942762+00:00",
-  "LastChanged_Achievements": "2023-10-11T22:04:03.4579777+00:00",
+  "LastChanged_Achievements": "2023-10-11T23:04:30.9307042+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:40.0692082+00:00",
-  "LastUpdate_Ratings": "2023-10-11T22:00:00.3006308+00:00",
-  "LastUpdate_Achievements": "2023-10-11T22:04:03.4581779+00:00"
+  "LastUpdate_Ratings": "2023-10-11T23:00:41.2227171+00:00",
+  "LastUpdate_Achievements": "2023-10-11T23:04:30.9308644+00:00"
 }

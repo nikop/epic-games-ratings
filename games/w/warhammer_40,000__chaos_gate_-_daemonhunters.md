@@ -38,10 +38,10 @@ Number of Ratings: 371  (23.09.2022)
 | Mind Like a Fortress | 0.80% | ~26 |
 | Junk Banishment | 0.80% | ~26 |
 | Patron of Deimos | 0.70% | ~23 |
+| For the Machine God | 0.70% | ~23 |
 | Preservationist | 0.70% | ~23 |
 | Engine Kill | 0.70% | ~23 |
 | Death Comes For All | 0.70% | ~23 |
-| For the Machine God | 0.60% | ~20 |
 | Harvest No More | 0.60% | ~20 |
 | Hands-On Research | 0.50% | ~16 |
 | Strike Force | 0.40% | ~13 |

@@ -5,19 +5,19 @@ Rating: 4.24 (Ranked 855)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,667 |
-| Don't I Know You...? | 77.00% | ~1,605 |
-| Jailbreak | 66.00% | ~1,375 |
+| Rigged And Ready | 80.00% | ~1,668 |
+| Don't I Know You...? | 76.00% | ~1,585 |
+| Jailbreak | 66.00% | ~1,376 |
 | Suited and Booted | 39.00% | ~813 |
 | HEADSHOT! | 38.00% | ~792 |
-| Sleeping With The Fishes | 36.00% | ~750 |
-| Overheated | 30.00% | ~625 |
-| High Performance | 30.00% | ~625 |
+| Sleeping With The Fishes | 36.00% | ~751 |
+| Overheated | 30.00% | ~626 |
+| High Performance | 30.00% | ~626 |
 | Powered Up | 28.00% | ~584 |
 | Studied The Blade | 25.00% | ~521 |
-| Home Invasion | 23.00% | ~479 |
-| Luminary | 23.00% | ~479 |
-| It's a Trap | 22.00% | ~458 |
+| Home Invasion | 23.00% | ~480 |
+| Luminary | 23.00% | ~480 |
+| It's a Trap | 22.00% | ~459 |
 | True Survivor | 21.00% | ~438 |
 | Offensive Defense | 20.00% | ~417 |
 | Shocking | 20.00% | ~417 |
@@ -35,10 +35,10 @@ Rating: 4.24 (Ranked 855)
 | Corrupted Beauty | 12.00% | ~250 |
 | Marked For Success | 12.00% | ~250 |
 | Sorry, Didn't See You There | 12.00% | ~250 |
-| Stimulating The Local Economy | 10.00% | ~208 |
 | Triplets | 10.00% | ~208 |
 | Denying Prophecy | 9.00% | ~188 |
 | Defense in Depth | 9.00% | ~188 |
+| Stimulating The Local Economy | 9.00% | ~188 |
 | A Little Banged Up | 8.00% | ~167 |
 | Following In Their Footsteps | 8.00% | ~167 |
 | Reverse Engineering | 7.00% | ~146 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 855)
 | Swiss Army Drone | 1.00% | ~21 |
 | The Easy Way Out | 1.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,084 (Ranked 201)  
+Progressed: 2,085 (Ranked 201)  
 Completed: 12 (0.58%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 12 (0.58%) (Ranked 166)
 | 2023-10-04 | 2,079 | 12 |
 | 2023-10-08 | 2,081 | 12 |
 | 2023-10-09 | 2,082 | 12 |
-| 2023-10-11 | 2,084 | 12 |
+| 2023-10-11 | 2,085 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6497,
+  "EOS_Progressed": 6498,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 495,
+  "EOS_NewPlayers": 494,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3987,6 +3987,11 @@
       "Time": "2023-10-11T22:06:41.5594858+00:00",
       "NumProgressed": 6497,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-11T23:07:40.313394+00:00",
+      "NumProgressed": 6498,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -3999,7 +4004,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 4743
+      "UsersEstimate": 4744
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -4007,7 +4012,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 4548
+      "UsersEstimate": 4549
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -4031,7 +4036,7 @@
       "Name": "Clear the Air",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 1104
+      "UsersEstimate": 1105
     },
     {
       "ID": "CHAPTER_6_COMPLETE",
@@ -4151,7 +4156,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 3898
+      "UsersEstimate": 3899
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -4215,7 +4220,7 @@
       "Name": "Oui, Chef!",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 1429
+      "UsersEstimate": 1430
     },
     {
       "ID": "PRODUCE_HYBRIDFLOWER",
@@ -4278,7 +4283,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 6497,
+      "Progressed": 6498,
       "Completed": 0
     }
   ],
@@ -4286,8 +4291,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-09T19:00:11.1644039+00:00",
-  "LastChanged_Achievements": "2023-10-11T22:06:41.5594854+00:00",
+  "LastChanged_Achievements": "2023-10-11T23:07:40.3133931+00:00",
   "LastUpdate_AppInfo": "2023-10-06T05:57:20.0812213+00:00",
-  "LastUpdate_Ratings": "2023-10-11T22:01:31.5493279+00:00",
-  "LastUpdate_Achievements": "2023-10-11T22:06:41.5595436+00:00"
+  "LastUpdate_Ratings": "2023-10-11T23:02:17.9965693+00:00",
+  "LastUpdate_Achievements": "2023-10-11T23:07:40.3134504+00:00"
 }

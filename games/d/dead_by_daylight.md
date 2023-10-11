@@ -6,13 +6,13 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 1.00% | ~9,331 |
-| It wakes | 1.00% | ~9,331 |
-| Not half bad | 1.00% | ~9,331 |
-| Apt Survivor | 1.00% | ~9,331 |
-| Survival Treasures | 1.00% | ~9,331 |
-| Skillful | 1.00% | ~9,331 |
-| Make Some Noise | 1.00% | ~9,331 |
+| Zealous | 1.00% | ~9,332 |
+| It wakes | 1.00% | ~9,332 |
+| Not half bad | 1.00% | ~9,332 |
+| Apt Survivor | 1.00% | ~9,332 |
+| Survival Treasures | 1.00% | ~9,332 |
+| Skillful | 1.00% | ~9,332 |
+| Make Some Noise | 1.00% | ~9,332 |
 | Handyman | 0.90% | ~8,398 |
 | Sorted | 0.90% | ~8,398 |
 | No one left behind | 0.80% | ~7,465 |
@@ -38,15 +38,16 @@ Number of Ratings: 70,340  (23.09.2022)
 | Vulture | 0.50% | ~4,666 |
 | II | 0.50% | ~4,666 |
 | Second Act | 0.50% | ~4,666 |
-| Made it out alive! | 0.40% | ~3,732 |
-| III | 0.40% | ~3,732 |
-| Cherish your Life | 0.40% | ~3,732 |
-| First to the Punch | 0.40% | ~3,732 |
-| Every Last Drop | 0.40% | ~3,732 |
-| Raccoon City Recruit | 0.40% | ~3,732 |
-| With Scars to Show | 0.40% | ~3,732 |
-| Flight to Freedom | 0.40% | ~3,732 |
-| A Fast Death | 0.40% | ~3,732 |
+| Made it out alive! | 0.40% | ~3,733 |
+| III | 0.40% | ~3,733 |
+| Cherish your Life | 0.40% | ~3,733 |
+| Unforgettable Getaway | 0.40% | ~3,733 |
+| First to the Punch | 0.40% | ~3,733 |
+| Every Last Drop | 0.40% | ~3,733 |
+| Raccoon City Recruit | 0.40% | ~3,733 |
+| With Scars to Show | 0.40% | ~3,733 |
+| Flight to Freedom | 0.40% | ~3,733 |
+| A Fast Death | 0.40% | ~3,733 |
 | A bite for the Entity | 0.30% | ~2,799 |
 | Blood on your hands | 0.30% | ~2,799 |
 | Escape Artist | 0.30% | ~2,799 |
@@ -63,7 +64,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Near-Death Experience | 0.30% | ~2,799 |
 | Campbell's Chapel Legacy | 0.30% | ~2,799 |
 | Ancestor's Rite | 0.30% | ~2,799 |
-| Unforgettable Getaway | 0.30% | ~2,799 |
 | Cutting Out | 0.30% | ~2,799 |
 | Outrun Evil | 0.30% | ~2,799 |
 | Operation: Survival | 0.30% | ~2,799 |
@@ -93,6 +93,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | I See You | 0.20% | ~1,866 |
 | End of Days | 0.20% | ~1,866 |
 | Insult and Injury | 0.20% | ~1,866 |
+| Prowler | 0.20% | ~1,866 |
 | Triage | 0.20% | ~1,866 |
 | Outrun the Overlap | 0.20% | ~1,866 |
 | High Speed Pursuit | 0.20% | ~1,866 |
@@ -202,7 +203,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Bless You | 0.10% | ~933 |
 | Adept Mikaela | 0.10% | ~933 |
 | Caws of Death | 0.10% | ~933 |
-| Prowler | 0.10% | ~933 |
 | Adept Artist | 0.10% | ~933 |
 | Adept Jonah | 0.10% | ~933 |
 | Viral Video | 0.10% | ~933 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~933 |
 | Adept Ripley | 0.10% | ~933 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 933,104 (Ranked 14)  
+Progressed: 933,163 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -410,7 +410,7 @@ Completed: 49 (0.01%) (Ranked 295)
 | 2023-10-08 | 927,984 | 49 |
 | 2023-10-09 | 929,902 | 49 |
 | 2023-10-10 | 931,511 | 49 |
-| 2023-10-11 | 933,104 | 49 |
+| 2023-10-11 | 933,163 | 49 |
 ## Awards
 Max (Diverse Characters): 33,734  (Ranked 15)  
 Sum: 261,382 (Ranked 13)  

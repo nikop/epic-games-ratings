@@ -8,19 +8,19 @@ Number of Ratings: 8,414  (23.09.2022)
 | ---- | ---------- | ----- |
 | That's a Grand Army | 4.00% | ~17,130 |
 | Until death do us apart | 4.00% | ~17,130 |
-| That is mine! | 3.00% | ~12,847 |
-| Victorious! | 3.00% | ~12,847 |
+| That is mine! | 3.00% | ~12,848 |
+| Victorious! | 3.00% | ~12,848 |
 | Brothers in Arms | 2.00% | ~8,565 |
 | Cold War | 2.00% | ~8,565 |
 | For the Glory | 2.00% | ~8,565 |
 | That's a Grand Navy | 2.00% | ~8,565 |
 | Seriously?! | 2.00% | ~8,565 |
-| Defender of the Faith | 1.00% | ~4,282 |
-| It's all about the money | 1.00% | ~4,282 |
-| Respected | 1.00% | ~4,282 |
-| The Princess is in this Castle | 1.00% | ~4,282 |
-| True Catholic | 1.00% | ~4,282 |
-| Truly Divine Ruler | 1.00% | ~4,282 |
+| Defender of the Faith | 1.00% | ~4,283 |
+| It's all about the money | 1.00% | ~4,283 |
+| Respected | 1.00% | ~4,283 |
+| The Princess is in this Castle | 1.00% | ~4,283 |
+| True Catholic | 1.00% | ~4,283 |
+| Truly Divine Ruler | 1.00% | ~4,283 |
 | It's all about luck | 0.90% | ~3,854 |
 | Blockader | 0.80% | ~3,426 |
 | Double the Love | 0.80% | ~3,426 |
@@ -45,22 +45,22 @@ Number of Ratings: 8,414  (23.09.2022)
 | Market Control | 0.30% | ~1,285 |
 | Populists in Government | 0.30% | ~1,285 |
 | Trustworthy | 0.30% | ~1,285 |
-| All belongs to Mother Russia | 0.20% | ~856 |
-| At every continent | 0.20% | ~856 |
-| Early-Modern Warfare | 0.20% | ~856 |
-| Electable! | 0.20% | ~856 |
-| Grand Coalition | 0.20% | ~856 |
-| In the Name of the Father | 0.20% | ~856 |
-| Italian Ambition | 0.20% | ~856 |
-| Just a Little Patience | 0.20% | ~856 |
-| One Family to Rule them All | 0.20% | ~856 |
-| Ruina Imperii | 0.20% | ~856 |
-| The pen is mightier than the sword | 0.20% | ~856 |
-| This is My Faith | 0.20% | ~856 |
-| Time Bandit | 0.20% | ~856 |
-| Traditional Player | 0.20% | ~856 |
-| Trophy Hunter | 0.20% | ~856 |
-| Voting Streak | 0.20% | ~856 |
+| All belongs to Mother Russia | 0.20% | ~857 |
+| At every continent | 0.20% | ~857 |
+| Early-Modern Warfare | 0.20% | ~857 |
+| Electable! | 0.20% | ~857 |
+| Grand Coalition | 0.20% | ~857 |
+| In the Name of the Father | 0.20% | ~857 |
+| Italian Ambition | 0.20% | ~857 |
+| Just a Little Patience | 0.20% | ~857 |
+| One Family to Rule them All | 0.20% | ~857 |
+| Ruina Imperii | 0.20% | ~857 |
+| The pen is mightier than the sword | 0.20% | ~857 |
+| This is My Faith | 0.20% | ~857 |
+| Time Bandit | 0.20% | ~857 |
+| Traditional Player | 0.20% | ~857 |
+| Trophy Hunter | 0.20% | ~857 |
+| Voting Streak | 0.20% | ~857 |
 | The 52 Garhs | 0.10% | ~428 |
 | I don't like sand | 0.10% | ~428 |
 | A Blessed Nation | 0.10% | ~428 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 428,242 (Ranked 41)  
+Progressed: 428,261 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -535,7 +535,7 @@ Completed: 1 (0.00%) (Ranked 313)
 | 2023-10-08 | 426,194 | 1 |
 | 2023-10-09 | 426,888 | 1 |
 | 2023-10-10 | 427,588 | 1 |
-| 2023-10-11 | 428,242 | 1 |
+| 2023-10-11 | 428,261 | 1 |
 ## Awards
 Max (Educational): 6,479  (Ranked 55)  
 Sum: 53,243 (Ranked 24)  

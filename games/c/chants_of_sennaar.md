@@ -15,19 +15,19 @@
 | Cable guy | 5.00% | ~14 |
 | A good beginning | 5.00% | ~14 |
 | Half the way | 5.00% | ~14 |
+| Alchemists Express | 5.00% | ~14 |
 | True G3M4R | 5.00% | ~14 |
 | Scholar | 5.00% | ~14 |
 | The darkness | 5.00% | ~14 |
 | One last step | 5.00% | ~14 |
 | Open door | 4.00% | ~11 |
 | Feels like springtime | 4.00% | ~11 |
-| Alchemists Express | 4.00% | ~11 |
 | Champollion | 4.00% | ~11 |
 | Free at last | 3.00% | ~8 |
 | For its own good | 3.00% | ~8 |
 | A Link to the Past | 3.00% | ~8 |
 | Rascal | 3.00% | ~8 |
-| A great audience | 1.00% | ~3 |
+| A great audience | 2.00% | ~6 |
 | Fashion victim | 0.70% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 277 (Ranked 318)  

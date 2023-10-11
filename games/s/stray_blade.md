@@ -39,10 +39,10 @@
 | Pathfinder | 3.00% | ~3 |
 | Globetrotter | 3.00% | ~3 |
 | The End | 3.00% | ~3 |
+| Style over Stats | 2.00% | ~2 |
 | Mountain Lover | 2.00% | ~2 |
 | Forest Expert | 2.00% | ~2 |
 | Knowledge is King | 2.00% | ~2 |
-| Style over Stats | 1.00% | ~1 |
 | Explorer by Heart | 1.00% | ~1 |
 | Wasteland Connoisseur | 1.00% | ~1 |
 | Fashionista | 1.00% | ~1 |

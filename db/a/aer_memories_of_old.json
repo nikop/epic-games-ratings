@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 532,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewPlayers": 92,
   "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -410,7 +410,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21913,
+  "EOS_Progressed": 21916,
   "EOS_Completed": 434,
   "EOS_NewPlayers": 480,
   "EOS_NewCompleters": 7,
@@ -19150,6 +19150,11 @@
       "Time": "2023-10-11T22:06:00.0737909+00:00",
       "NumProgressed": 21913,
       "NumCompleted": 434
+    },
+    {
+      "Time": "2023-10-11T23:06:51.5053321+00:00",
+      "NumProgressed": 21916,
+      "NumCompleted": 434
     }
   ],
   "TotalAchievements": 20,
@@ -19161,7 +19166,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 3725
+      "UsersEstimate": 3726
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -19193,7 +19198,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2410
+      "UsersEstimate": 2411
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -19201,7 +19206,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 2191
+      "UsersEstimate": 2192
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -19281,7 +19286,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 16873
+      "UsersEstimate": 16875
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -19313,22 +19318,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 3944
+      "UsersEstimate": 3945
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 21913,
+      "Progressed": 21916,
       "Completed": 434
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-11T22:06:00.0737905+00:00",
+  "LastChanged_Achievements": "2023-10-11T23:06:51.5053316+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:20.9828053+00:00",
-  "LastUpdate_Ratings": "2023-10-11T22:00:46.7128349+00:00",
-  "LastUpdate_Achievements": "2023-10-11T22:06:00.0739121+00:00"
+  "LastUpdate_Ratings": "2023-10-11T23:01:33.3062142+00:00",
+  "LastUpdate_Achievements": "2023-10-11T23:06:51.5054502+00:00"
 }

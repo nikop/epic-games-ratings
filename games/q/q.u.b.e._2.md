@@ -17,7 +17,7 @@ Number of Ratings: 94  (23.09.2022)
 | Green Cube Killer | 23.00% | ~175 |
 | Infinity Loop | 21.00% | ~160 |
 | Path to Salvation | 21.00% | ~160 |
-| Descendants | 19.00% | ~145 |
+| Descendants | 20.00% | ~152 |
 | The Flawed Teacher | 17.00% | ~130 |
 | The Truthful Enemy | 8.00% | ~61 |
 | To Infinity and Beyond | 7.00% | ~53 |

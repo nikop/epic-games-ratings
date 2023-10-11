@@ -25236,9 +25236,9 @@
       "ID": "workers03",
       "SetID": "anfd17p",
       "Name": "Complete Monopoly",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 825
+      "UsersEstimate": 962
     },
     {
       "ID": "yami_a",
@@ -25260,8 +25260,8 @@
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-11T19:01:56.6933267+00:00",
-  "LastChanged_Achievements": "2023-10-11T22:06:51.3449899+00:00",
+  "LastChanged_Achievements": "2023-10-11T23:07:51.8920186+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:52.7124415+00:00",
-  "LastUpdate_Ratings": "2023-10-11T22:00:17.4052153+00:00",
-  "LastUpdate_Achievements": "2023-10-11T22:06:51.3452709+00:00"
+  "LastUpdate_Ratings": "2023-10-11T23:00:59.1278072+00:00",
+  "LastUpdate_Achievements": "2023-10-11T23:07:51.8923102+00:00"
 }

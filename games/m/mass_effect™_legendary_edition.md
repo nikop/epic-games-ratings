@@ -64,16 +64,16 @@
 | Agent | 30.00% | ~196 |
 | Focused | 29.00% | ~190 |
 | Cat's in the Cradle | 29.00% | ~190 |
+| Doppelganger | 29.00% | ~190 |
 | Digital Exorcist | 29.00% | ~190 |
 | Driven | 29.00% | ~190 |
 | Bringer of War | 29.00% | ~190 |
 | Friend or Foe | 28.00% | ~183 |
-| Doppelganger | 28.00% | ~183 |
 | Mobilizer | 28.00% | ~183 |
 | First Aid Specialist | 27.00% | ~177 |
+| Mission Accomplished | 27.00% | ~177 |
 | Suicide Mission | 27.00% | ~177 |
-| Mission Accomplished | 26.00% | ~170 |
-| Against All Odds | 26.00% | ~170 |
+| Against All Odds | 27.00% | ~177 |
 | A House Divided | 26.00% | ~170 |
 | Untouchable | 25.00% | ~164 |
 | Eye of the Hurricane | 25.00% | ~164 |
@@ -87,9 +87,9 @@
 | Arbiter | 22.00% | ~144 |
 | Savior | 21.00% | ~138 |
 | Lost and Found | 21.00% | ~138 |
+| No One Left Behind | 20.00% | ~131 |
 | Party Crasher | 20.00% | ~131 |
 | Problem Solver | 20.00% | ~131 |
-| No One Left Behind | 19.00% | ~124 |
 | Hard Target | 19.00% | ~124 |
 | Saboteur | 19.00% | ~124 |
 | Fact Finder | 19.00% | ~124 |

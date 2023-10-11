@@ -4,7 +4,7 @@
   "ProductSlug": "stray-blade",
   "Ranking_EOS_Progress": 396,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewPlayers": 336,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -479,9 +479,9 @@
       "ID": "ACH_CRAFT_ALL_ARMOR",
       "SetID": "7i20me3",
       "Name": "Style over Stats",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_CRAFT_ALL_WEAPONS",
@@ -838,8 +838,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-10-11T22:07:07.3233957+00:00",
+  "LastChanged_Achievements": "2023-10-11T23:08:08.4997542+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:38.6289283+00:00",
-  "LastUpdate_Ratings": "2023-10-11T21:58:12.9080161+00:00",
-  "LastUpdate_Achievements": "2023-10-11T22:07:07.323437+00:00"
+  "LastUpdate_Ratings": "2023-10-11T22:58:24.9890833+00:00",
+  "LastUpdate_Achievements": "2023-10-11T23:08:08.4997958+00:00"
 }

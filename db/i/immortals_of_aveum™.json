@@ -537,9 +537,9 @@
       "ID": "achievement_19",
       "SetID": "18al4io",
       "Name": "Socialite",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "achievement_2",
@@ -633,9 +633,9 @@
       "ID": "achievement_4",
       "SetID": "18al4io",
       "Name": "No More Names",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "achievement_41",
@@ -842,8 +842,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-10-03T16:00:12.6154231+00:00",
-  "LastChanged_Achievements": "2023-10-11T22:06:19.0139337+00:00",
+  "LastChanged_Achievements": "2023-10-11T23:07:13.8353497+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:18.0204012+00:00",
-  "LastUpdate_Ratings": "2023-10-11T21:59:25.9160119+00:00",
-  "LastUpdate_Achievements": "2023-10-11T22:06:19.0139799+00:00"
+  "LastUpdate_Ratings": "2023-10-11T22:59:58.8015464+00:00",
+  "LastUpdate_Achievements": "2023-10-11T23:07:13.8353951+00:00"
 }

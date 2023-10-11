@@ -5531,9 +5531,9 @@
       "ID": "ACH_GET_JETPACK",
       "SetID": "cdkbb11",
       "Name": "Are You Packin\u0027?",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 145
+      "UsersEstimate": 169
     },
     {
       "ID": "ACH_GET_KNIFEY",
@@ -5842,8 +5842,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-07T05:03:09.4311759+00:00",
-  "LastChanged_Achievements": "2023-10-11T22:04:01.1510148+00:00",
+  "LastChanged_Achievements": "2023-10-11T23:04:28.2435684+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:51.1168375+00:00",
-  "LastUpdate_Ratings": "2023-10-11T21:59:09.6243784+00:00",
-  "LastUpdate_Achievements": "2023-10-11T22:04:01.1510899+00:00"
+  "LastUpdate_Ratings": "2023-10-11T22:59:33.6995909+00:00",
+  "LastUpdate_Achievements": "2023-10-11T23:04:28.2436373+00:00"
 }

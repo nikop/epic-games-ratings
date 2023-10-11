@@ -1983,9 +1983,9 @@
       "ID": "achievement_35",
       "SetID": "d252ncf",
       "Name": "Mission Accomplished",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 125,
-      "UsersEstimate": 170
+      "UsersEstimate": 177
     },
     {
       "ID": "achievement_36",
@@ -2039,17 +2039,17 @@
       "ID": "achievement_41",
       "SetID": "b9pe172",
       "Name": "Against All Odds",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 170
+      "UsersEstimate": 177
     },
     {
       "ID": "achievement_42",
       "SetID": "b9pe172",
       "Name": "No One Left Behind",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 75,
-      "UsersEstimate": 124
+      "UsersEstimate": 131
     },
     {
       "ID": "achievement_43",
@@ -2159,9 +2159,9 @@
       "ID": "achievement_55",
       "SetID": "d252ncf",
       "Name": "Doppelganger",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 190
     },
     {
       "ID": "achievement_56",
@@ -2563,8 +2563,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-11T22:07:18.6615937+00:00",
+  "LastChanged_Achievements": "2023-10-11T23:08:21.918548+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:40.7255751+00:00",
-  "LastUpdate_Ratings": "2023-10-11T21:58:37.6131818+00:00",
-  "LastUpdate_Achievements": "2023-10-11T22:07:18.661824+00:00"
+  "LastUpdate_Ratings": "2023-10-11T22:58:55.4180551+00:00",
+  "LastUpdate_Achievements": "2023-10-11T23:08:21.9187715+00:00"
 }

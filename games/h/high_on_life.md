@@ -6,13 +6,13 @@ Rating: 4.64 (Ranked 319)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Satisfied Gus-tomer | 0.70% | ~169 |
+| Are You Packin'? | 0.70% | ~169 |
 | Sweezy Like Sunday Morning | 0.70% | ~169 |
 | First Bounty Down | 0.70% | ~169 |
 | G3 Graduation | 0.70% | ~169 |
 | Cold-Blooded Driller | 0.70% | ~169 |
 | Don't Knife The Hand That Feeds | 0.70% | ~169 |
 | Creature Feature | 0.60% | ~145 |
-| Are You Packin'? | 0.60% | ~145 |
 | Bring A Knife to a Gun Fight | 0.60% | ~145 |
 | RIP Davey Glutes | 0.60% | ~145 |
 | We're All Very Impressed, Trust Me | 0.60% | ~145 |

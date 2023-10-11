@@ -9,14 +9,14 @@ Rating: 4.03 (Ranked 959)
 | Battlefields Have Memories | 90.00% | ~75 |
 | Enlisted | 88.00% | ~73 |
 | Maybe Engage a Little | 82.00% | ~68 |
-| No More Names | 69.00% | ~57 |
+| No More Names | 70.00% | ~58 |
 | Initiate | 61.00% | ~51 |
 | Thrada-Kul | 57.00% | ~47 |
 | Gravity-Challenged Rocks | 46.00% | ~38 |
 | Soldier | 41.00% | ~34 |
 | All the Major Food Groups | 40.00% | ~33 |
+| Socialite | 35.00% | ~29 |
 | Beggars Would Ride | 35.00% | ~29 |
-| Socialite | 34.00% | ~28 |
 | Control is an Illusion | 33.00% | ~27 |
 | The Means to Save It | 27.00% | ~22 |
 | Resilience to Sin | 23.00% | ~19 |

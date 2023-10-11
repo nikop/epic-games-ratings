@@ -454,9 +454,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1544639,
+  "EOS_Progressed": 1544646,
   "EOS_Completed": 705,
-  "EOS_NewPlayers": 1158,
+  "EOS_NewPlayers": 1163,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -20159,6 +20159,11 @@
       "Time": "2023-10-11T22:06:17.8748307+00:00",
       "NumProgressed": 1544639,
       "NumCompleted": 705
+    },
+    {
+      "Time": "2023-10-11T23:07:12.662146+00:00",
+      "NumProgressed": 1544646,
+      "NumCompleted": 705
     }
   ],
   "TotalAchievements": 20,
@@ -20210,7 +20215,7 @@
       "Name": "Drift Line Master",
       "Percentage": 0.7,
       "XP": 90,
-      "UsersEstimate": 10812
+      "UsersEstimate": 10813
     },
     {
       "ID": "ACH_GOOD_SKILLS",
@@ -20234,7 +20239,7 @@
       "Name": "Insane Skills",
       "Percentage": 0.7,
       "XP": 95,
-      "UsersEstimate": 10812
+      "UsersEstimate": 10813
     },
     {
       "ID": "ACH_JELLY_FILLED_DONUTS",
@@ -20266,7 +20271,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 154464
+      "UsersEstimate": 154465
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -20329,15 +20334,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1544639,
+      "Progressed": 1544646,
       "Completed": 705
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-09-25T13:05:51.0685533+00:00",
-  "LastChanged_Achievements": "2023-10-11T22:06:17.8748299+00:00",
+  "LastChanged_Achievements": "2023-10-11T23:07:12.6621455+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:49.6102489+00:00",
-  "LastUpdate_Ratings": "2023-10-11T22:01:27.126705+00:00",
-  "LastUpdate_Achievements": "2023-10-11T22:06:17.87498+00:00"
+  "LastUpdate_Ratings": "2023-10-11T23:02:13.1687969+00:00",
+  "LastUpdate_Achievements": "2023-10-11T23:07:12.6623039+00:00"
 }

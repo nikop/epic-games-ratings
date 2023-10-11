@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 532,
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
@@ -358,7 +358,7 @@
   "Tags": [],
   "EOS_Progressed": 762,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 194,
+  "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2851,9 +2851,9 @@
       "ID": "ACH_ABYSS",
       "SetID": "232494e",
       "Name": "Descendants",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 145
+      "UsersEstimate": 152
     },
     {
       "ID": "ACH_BLUEEND",
@@ -3091,8 +3091,8 @@
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-10-05T15:02:30.1081746+00:00",
-  "LastChanged_Achievements": "2023-10-11T22:03:20.9031614+00:00",
+  "LastChanged_Achievements": "2023-10-11T23:03:41.3948287+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:14.9821566+00:00",
-  "LastUpdate_Ratings": "2023-10-11T21:59:11.9703961+00:00",
-  "LastUpdate_Achievements": "2023-10-11T22:03:20.903213+00:00"
+  "LastUpdate_Ratings": "2023-10-11T22:59:37.6798261+00:00",
+  "LastUpdate_Achievements": "2023-10-11T23:03:41.3948734+00:00"
 }

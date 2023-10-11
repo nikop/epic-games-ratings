@@ -51,6 +51,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Seasoned Journeyman | 0.70% | ~962 |
 | Magical Harmony | 0.70% | ~962 |
 | Special Ingredient | 0.70% | ~962 |
+| Complete Monopoly | 0.70% | ~962 |
 | A Notch Above the Rest | 0.60% | ~825 |
 | Cream of the Crop | 0.60% | ~825 |
 | Proud Paladin | 0.60% | ~825 |
@@ -80,7 +81,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Moment of Respite | 0.60% | ~825 |
 | Black Friday Special | 0.60% | ~825 |
 | Exotic Commodities | 0.60% | ~825 |
-| Complete Monopoly | 0.60% | ~825 |
 | King's Blade | 0.60% | ~825 |
 | Top of the World | 0.50% | ~687 |
 | Constellated | 0.50% | ~687 |
