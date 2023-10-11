@@ -305,6 +305,7 @@
 | [Hades](../games/h/hades.md) | 49 | 1,000 |
 | [Hand of Fate 2](../games/h/hand_of_fate_2.md) | 48 | 1,000 |
 | [Hardspace: Shipbreaker](../games/h/hardspace__shipbreaker.md) | 27 | 1,000 |
+| [Haunted House](../games/8/81970ccb964d4720adccf2e2244fe754.md) | 25 | 1,000 |
 | [Haven](../games/h/haven.md) | 30 | 1,000 |
 | [Hazel Sky](../games/h/hazel_sky.md) | 24 | 1,000 |
 | [Heim](../games/h/heim.md) | 36 | 1,000 |
