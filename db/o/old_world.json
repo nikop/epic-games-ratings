@@ -1823,7 +1823,7 @@
   ],
   "EOS_Progressed": 14594,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 262,
+  "EOS_NewPlayers": 261,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15247,9 +15247,9 @@
       "ID": "ACHIEVEMENT_ONE_TRUE_FAITH",
       "SetID": "9201eeb",
       "Name": "One True Faith",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHIEVEMENT_PANTHEON_OF_GODS",
@@ -15663,9 +15663,9 @@
       "ID": "ACHIEVEMENT_UNIT_SIEGE_TOWER",
       "SetID": "9201eeb",
       "Name": "Siege Tower",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_UNIT_TURRETED_ELEPHANT",
@@ -16325,8 +16325,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-10T17:03:34.4008549+00:00",
-  "LastChanged_Achievements": "2023-10-11T12:05:58.5478404+00:00",
+  "LastChanged_Achievements": "2023-10-11T13:12:23.19593+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:48.3987129+00:00",
-  "LastUpdate_Ratings": "2023-10-11T12:03:03.9043035+00:00",
-  "LastUpdate_Achievements": "2023-10-11T12:05:58.548849+00:00"
+  "LastUpdate_Ratings": "2023-10-11T13:09:25.830599+00:00",
+  "LastUpdate_Achievements": "2023-10-11T13:12:23.1973566+00:00"
 }

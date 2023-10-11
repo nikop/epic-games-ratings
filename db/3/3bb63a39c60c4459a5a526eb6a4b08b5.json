@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -3066,9 +3066,9 @@
       "ID": "LargeAirport",
       "SetID": "1e89b4i",
       "Name": "Large Airport",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 110
     },
     {
       "ID": "LargeTerritories",
@@ -3273,8 +3273,8 @@
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-10-11T12:09:27.1627891+00:00",
+  "LastChanged_Achievements": "2023-10-11T13:16:14.4159366+00:00",
   "LastUpdate_AppInfo": "2023-10-10T13:57:13.1433164+00:00",
-  "LastUpdate_Ratings": "2023-10-11T11:58:38.071425+00:00",
-  "LastUpdate_Achievements": "2023-10-11T12:09:27.1628288+00:00"
+  "LastUpdate_Ratings": "2023-10-11T13:05:21.3202877+00:00",
+  "LastUpdate_Achievements": "2023-10-11T13:16:14.4160195+00:00"
 }

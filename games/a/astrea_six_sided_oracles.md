@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Noctuan Champion | 27.00% | ~14 |
+| Noctuan Champion | 29.00% | ~15 |
 | Apian Champion | 23.00% | ~12 |
 | Meissa's Savior | 21.00% | ~11 |
 | Lacertian Champion | 21.00% | ~11 |
+| Dicesmithing Time! | 19.00% | ~10 |
 | Endless Tricks | 19.00% | ~10 |
+| Loyal Partner | 19.00% | ~10 |
 | Mechanical Buddy | 19.00% | ~10 |
 | Purification Pioneer | 19.00% | ~10 |
+| Sanctuary Guardian | 19.00% | ~10 |
 | Shard Spender | 19.00% | ~10 |
 | Eridanian Champion | 19.00% | ~10 |
-| Dicesmithing Time! | 17.00% | ~9 |
-| Loyal Partner | 17.00% | ~9 |
-| Sanctuary Guardian | 17.00% | ~9 |
+| Mind Illuminator | 17.00% | ~9 |
 | Stellar Dismantler | 17.00% | ~9 |
 | Wild's Keeper | 17.00% | ~9 |
 | Anomaly Destroyer | 15.00% | ~8 |
-| Mind Illuminator | 15.00% | ~8 |
 | Aquarian Champion | 15.00% | ~8 |
 | Behenian Champion | 15.00% | ~8 |
 | Heart Gate | 13.00% | ~7 |
 | Astral Adventurer | 12.00% | ~6 |
 | Astral Seeker | 12.00% | ~6 |
+| Star Killer | 12.00% | ~6 |
 | The Corruption Goddess | 12.00% | ~6 |
 | The Goddes Avatar | 12.00% | ~6 |
 | Unbeatable | 12.00% | ~6 |
 | Favored by the Cosmos | 10.00% | ~5 |
 | Sadistic Plan | 10.00% | ~5 |
-| Star Killer | 10.00% | ~5 |
 | Stellar Haste | 10.00% | ~5 |
 | Anomaly Control | 8.00% | ~4 |
 | Heavy Purger | 8.00% | ~4 |

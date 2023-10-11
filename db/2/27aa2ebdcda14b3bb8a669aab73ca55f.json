@@ -2,12 +2,12 @@
   "ID": "27aa2ebdcda14b3bb8a669aab73ca55f",
   "Name": "The Elder Scrolls Online",
   "ProductSlug": "the-elder-scrolls-online",
-  "Ranking_Rating": 786,
+  "Ranking_Rating": 781,
   "Ranking_Popularity": 100,
   "Ranking_PopularitySum": 131,
-  "Ranking_EOS_Progress": 663,
+  "Ranking_EOS_Progress": 664,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewPlayers": 402,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-07-20T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.33,
+  "Rating": 4.34,
   "RatingHistory": [
     {
       "Time": "2023-07-21T13:07:17.4893091+00:00",
@@ -2796,10 +2796,16 @@
       "Rating": 4.33,
       "NumberOfAwards": 5353,
       "NumberOfAwardsMax": 2640
+    },
+    {
+      "Time": "2023-10-11T13:09:14.7094159+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 5362,
+      "NumberOfAwardsMax": 2640
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5353,
+  "NumberOfAwards": 5362,
   "NumberOfAwardsMax": 2640,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2813,13 +2819,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 348
+      "Count": 355
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 441
+      "Count": 443
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2876,8 +2882,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-20T19:00:34.5855853+00:00",
   "FirstSeenRating": "2023-07-21T13:07:17.4893089+00:00",
-  "LastChanged": "2023-10-11T08:02:20.6542517+00:00",
+  "LastChanged": "2023-10-11T13:09:14.7094156+00:00",
   "LastUpdate_AppInfo": "2023-10-05T21:57:19.0985642+00:00",
-  "LastUpdate_Ratings": "2023-10-11T12:02:08.443453+00:00",
-  "LastUpdate_Achievements": "2023-10-11T12:05:19.7717908+00:00"
+  "LastUpdate_Ratings": "2023-10-11T13:09:14.7094164+00:00",
+  "LastUpdate_Achievements": "2023-10-11T13:11:50.3666792+00:00"
 }

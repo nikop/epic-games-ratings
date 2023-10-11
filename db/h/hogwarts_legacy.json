@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 31,
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8746,10 +8746,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 45565,
       "NumberOfAwardsMax": 23430
+    },
+    {
+      "Time": "2023-10-11T13:06:14.3152619+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 45568,
+      "NumberOfAwardsMax": 23430
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 45565,
+  "NumberOfAwards": 45568,
   "NumberOfAwardsMax": 23430,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8823,12 +8829,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 702
+      "Count": 705
     }
   ],
-  "EOS_Progressed": 298163,
+  "EOS_Progressed": 298164,
   "EOS_Completed": 483,
-  "EOS_NewPlayers": 368,
+  "EOS_NewPlayers": 366,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -27521,6 +27527,11 @@
       "Time": "2023-10-11T12:03:27.6558988+00:00",
       "NumProgressed": 298163,
       "NumCompleted": 483
+    },
+    {
+      "Time": "2023-10-11T13:10:15.4298025+00:00",
+      "NumProgressed": 298164,
+      "NumCompleted": 483
     }
   ],
   "TotalAchievements": 45,
@@ -27532,7 +27543,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 44724
+      "UsersEstimate": 44725
     },
     {
       "ID": "PFA_10",
@@ -27891,16 +27902,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298163,
+      "Progressed": 298164,
       "Completed": 483
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-10-11T10:00:23.9353342+00:00",
-  "LastChanged_Achievements": "2023-10-11T12:03:27.655898+00:00",
+  "LastChanged": "2023-10-11T13:06:14.3152617+00:00",
+  "LastChanged_Achievements": "2023-10-11T13:10:15.429802+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:01.0338203+00:00",
-  "LastUpdate_Ratings": "2023-10-11T11:59:41.8254839+00:00",
-  "LastUpdate_Achievements": "2023-10-11T12:03:27.6560242+00:00"
+  "LastUpdate_Ratings": "2023-10-11T13:06:14.3152626+00:00",
+  "LastUpdate_Achievements": "2023-10-11T13:10:15.429975+00:00"
 }

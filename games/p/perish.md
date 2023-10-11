@@ -6,12 +6,12 @@
 | ---- | ---------- | ----- |
 | To Suffer is to Learn | 6.00% | ~213 |
 | Initiate's Resolve | 6.00% | ~213 |
-| Missilis | 5.00% | ~177 |
-| Armaments of the Pantheon | 5.00% | ~177 |
-| Persephone's Guidance | 5.00% | ~177 |
-| Lochos | 5.00% | ~177 |
-| Strength of Herakles | 5.00% | ~177 |
-| Reign in Blood | 5.00% | ~177 |
+| Missilis | 5.00% | ~178 |
+| Armaments of the Pantheon | 5.00% | ~178 |
+| Persephone's Guidance | 5.00% | ~178 |
+| Lochos | 5.00% | ~178 |
+| Strength of Herakles | 5.00% | ~178 |
+| Reign in Blood | 5.00% | ~178 |
 | Immolator | 4.00% | ~142 |
 | Go For the Head | 4.00% | ~142 |
 | Spartan Sandal | 4.00% | ~142 |
@@ -44,15 +44,15 @@
 | Baby Crabs They Ain't | 2.00% | ~71 |
 | Mors Omnibus | 2.00% | ~71 |
 | Blot Out the Sky | 2.00% | ~71 |
-| The Nameless One | 1.00% | ~35 |
-| Rule of Thirds | 1.00% | ~35 |
-| Pyr Demon | 1.00% | ~35 |
-| Veneration of Hephaestus | 1.00% | ~35 |
-| Biotechnology | 1.00% | ~35 |
-| The Archimedes Principle | 1.00% | ~35 |
-| Rites at Sea | 1.00% | ~35 |
-| Close Shut the Doors | 1.00% | ~35 |
-| Scrap Metal | 1.00% | ~35 |
+| The Nameless One | 1.00% | ~36 |
+| Rule of Thirds | 1.00% | ~36 |
+| Pyr Demon | 1.00% | ~36 |
+| Veneration of Hephaestus | 1.00% | ~36 |
+| Biotechnology | 1.00% | ~36 |
+| The Archimedes Principle | 1.00% | ~36 |
+| Rites at Sea | 1.00% | ~36 |
+| Close Shut the Doors | 1.00% | ~36 |
+| Scrap Metal | 1.00% | ~36 |
 | Athenian Treasury | 0.80% | ~28 |
 | Invicta | 0.80% | ~28 |
 | Olympian | 0.50% | ~18 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,549 (Ranked 183)  
+Progressed: 3,550 (Ranked 183)  
 Completed: 0 (0.00%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 0 (0.00%) (Ranked 313)
 | 2023-10-08 | 3,543 | 0 |
 | 2023-10-09 | 3,546 | 0 |
 | 2023-10-10 | 3,548 | 0 |
-| 2023-10-11 | 3,549 | 0 |
+| 2023-10-11 | 3,550 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

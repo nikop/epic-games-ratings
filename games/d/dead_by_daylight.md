@@ -11,20 +11,20 @@ Number of Ratings: 70,340  (23.09.2022)
 | Not half bad | 1.00% | ~9,322 |
 | Skillful | 1.00% | ~9,322 |
 | Make Some Noise | 1.00% | ~9,322 |
-| Handyman | 0.90% | ~8,389 |
-| Apt Survivor | 0.90% | ~8,389 |
-| Survival Treasures | 0.90% | ~8,389 |
-| Medic | 0.80% | ~7,457 |
-| Sorted | 0.80% | ~7,457 |
-| Resurgence | 0.80% | ~7,457 |
-| The Grand Sacrifice | 0.70% | ~6,525 |
-| No one left behind | 0.70% | ~6,525 |
-| Nerves of steel | 0.70% | ~6,525 |
-| Bloody Millionaire | 0.70% | ~6,525 |
-| I | 0.70% | ~6,525 |
-| Healthy Obsession | 0.70% | ~6,525 |
-| Preemptive Strike | 0.70% | ~6,525 |
-| Humanitarian | 0.70% | ~6,525 |
+| Handyman | 0.90% | ~8,390 |
+| Apt Survivor | 0.90% | ~8,390 |
+| Survival Treasures | 0.90% | ~8,390 |
+| Medic | 0.80% | ~7,458 |
+| Sorted | 0.80% | ~7,458 |
+| Resurgence | 0.80% | ~7,458 |
+| The Grand Sacrifice | 0.70% | ~6,526 |
+| No one left behind | 0.70% | ~6,526 |
+| Nerves of steel | 0.70% | ~6,526 |
+| Bloody Millionaire | 0.70% | ~6,526 |
+| I | 0.70% | ~6,526 |
+| Healthy Obsession | 0.70% | ~6,526 |
+| Preemptive Strike | 0.70% | ~6,526 |
+| Humanitarian | 0.70% | ~6,526 |
 | Agonizing Escape | 0.60% | ~5,593 |
 | Backdoor Escape | 0.60% | ~5,593 |
 | I've got your back | 0.60% | ~5,593 |
@@ -45,36 +45,36 @@ Number of Ratings: 70,340  (23.09.2022)
 | Raccoon City Recruit | 0.40% | ~3,729 |
 | With Scars to Show | 0.40% | ~3,729 |
 | Flight to Freedom | 0.40% | ~3,729 |
-| A bite for the Entity | 0.30% | ~2,796 |
-| Blood on your hands | 0.30% | ~2,796 |
-| Escape Artist | 0.30% | ~2,796 |
-| Made it out alive! | 0.30% | ~2,796 |
-| Gifts for the Fog | 0.30% | ~2,796 |
-| III-50 | 0.30% | ~2,796 |
-| Shock Therapy | 0.30% | ~2,796 |
-| All Aboard | 0.30% | ~2,796 |
-| Leapfrog | 0.30% | ~2,796 |
-| Item of Obsession | 0.30% | ~2,796 |
-| House of Pain | 0.30% | ~2,796 |
-| Cottage Owner | 0.30% | ~2,796 |
-| Escaping the Nightmare | 0.30% | ~2,796 |
-| Holiday Get-Together | 0.30% | ~2,796 |
-| Near-Death Experience | 0.30% | ~2,796 |
-| Campbell's Chapel Legacy | 0.30% | ~2,796 |
-| Ancestor's Rite | 0.30% | ~2,796 |
-| Unforgettable Getaway | 0.30% | ~2,796 |
-| Cutting Out | 0.30% | ~2,796 |
-| Outrun Evil | 0.30% | ~2,796 |
-| Operation: Survival | 0.30% | ~2,796 |
-| Grim Pilgrimage | 0.30% | ~2,796 |
-| Old West Oasis | 0.30% | ~2,796 |
-| Classy Act | 0.30% | ~2,796 |
-| A Fast Death | 0.30% | ~2,796 |
-| Rebuilding The Borgo | 0.30% | ~2,796 |
-| Lifting The Fog | 0.30% | ~2,796 |
-| Chorus of Chaos | 0.30% | ~2,796 |
-| One More Step | 0.30% | ~2,796 |
-| MU/TH/UR Dearest | 0.30% | ~2,796 |
+| A bite for the Entity | 0.30% | ~2,797 |
+| Blood on your hands | 0.30% | ~2,797 |
+| Escape Artist | 0.30% | ~2,797 |
+| Made it out alive! | 0.30% | ~2,797 |
+| Gifts for the Fog | 0.30% | ~2,797 |
+| III-50 | 0.30% | ~2,797 |
+| Shock Therapy | 0.30% | ~2,797 |
+| All Aboard | 0.30% | ~2,797 |
+| Leapfrog | 0.30% | ~2,797 |
+| Item of Obsession | 0.30% | ~2,797 |
+| House of Pain | 0.30% | ~2,797 |
+| Cottage Owner | 0.30% | ~2,797 |
+| Escaping the Nightmare | 0.30% | ~2,797 |
+| Holiday Get-Together | 0.30% | ~2,797 |
+| Near-Death Experience | 0.30% | ~2,797 |
+| Campbell's Chapel Legacy | 0.30% | ~2,797 |
+| Ancestor's Rite | 0.30% | ~2,797 |
+| Unforgettable Getaway | 0.30% | ~2,797 |
+| Cutting Out | 0.30% | ~2,797 |
+| Outrun Evil | 0.30% | ~2,797 |
+| Operation: Survival | 0.30% | ~2,797 |
+| Grim Pilgrimage | 0.30% | ~2,797 |
+| Old West Oasis | 0.30% | ~2,797 |
+| Classy Act | 0.30% | ~2,797 |
+| A Fast Death | 0.30% | ~2,797 |
+| Rebuilding The Borgo | 0.30% | ~2,797 |
+| Lifting The Fog | 0.30% | ~2,797 |
+| Chorus of Chaos | 0.30% | ~2,797 |
+| One More Step | 0.30% | ~2,797 |
+| MU/TH/UR Dearest | 0.30% | ~2,797 |
 | Blood on your face | 0.20% | ~1,864 |
 | Jump Scares | 0.20% | ~1,864 |
 | Hemophobia | 0.20% | ~1,864 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~932 |
 | Adept Ripley | 0.10% | ~932 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 932,151 (Ranked 14)  
+Progressed: 932,240 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -410,10 +410,10 @@ Completed: 49 (0.01%) (Ranked 295)
 | 2023-10-08 | 927,984 | 49 |
 | 2023-10-09 | 929,902 | 49 |
 | 2023-10-10 | 931,511 | 49 |
-| 2023-10-11 | 932,151 | 49 |
+| 2023-10-11 | 932,240 | 49 |
 ## Awards
 Max (Diverse Characters): 33,734  (Ranked 15)  
-Sum: 261,100 (Ranked 13)  
+Sum: 261,148 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -422,7 +422,7 @@ Diff (max vs sum): 2
 | This game has Competitive Players | 29,506 |
 | This game has Amazing Characters | 29,480 |
 | This game is Extremely Fun | 29,132 |
-| This game has Challenging Combat | 28,707 |
+| This game has Challenging Combat | 28,755 |
 | This game has Quickly Understood Controls | 28,678 |
 | This game has Amazing Storytelling | 26,772 |
 | This game has a Competitive Community | 25,275 |
@@ -691,4 +691,4 @@ Diff (max vs sum): 2
 | 2023-10-08 | 4.52 | - | 33,596 | 260,474 |
 | 2023-10-09 | 4.52 | - | 33,640 | 260,754 |
 | 2023-10-10 | 4.51 | - | 33,667 | 261,003 |
-| 2023-10-11 | 4.51 | - | 33,734 | 261,100 |
+| 2023-10-11 | 4.51 | - | 33,734 | 261,148 |

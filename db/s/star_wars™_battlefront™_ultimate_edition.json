@@ -26,7 +26,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 577,
+  "EOS_Progressed": 579,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
@@ -1526,6 +1526,11 @@
       "Time": "2023-10-11T08:03:26.295726+00:00",
       "NumProgressed": 577,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-11T13:10:27.6994739+00:00",
+      "NumProgressed": 579,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -1592,9 +1597,9 @@
       "ID": "achievement_16",
       "SetID": "271ol84",
       "Name": "I\u0027ve been waiting for you",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 23
     },
     {
       "ID": "achievement_17",
@@ -1634,7 +1639,7 @@
       "Name": "Collector",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "achievement_21",
@@ -1682,7 +1687,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "achievement_27",
@@ -1730,7 +1735,7 @@
       "Name": "Scrap collector",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "achievement_32",
@@ -1744,9 +1749,9 @@
       "ID": "achievement_33",
       "SetID": "271ol84",
       "Name": "Safety ain\u0027t the point of a joyride",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 23
     },
     {
       "ID": "achievement_34",
@@ -1762,7 +1767,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 519
+      "UsersEstimate": 521
     },
     {
       "ID": "achievement_36",
@@ -1776,9 +1781,9 @@
       "ID": "achievement_37",
       "SetID": "271ol84",
       "Name": "Off to a good start",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 387
+      "UsersEstimate": 382
     },
     {
       "ID": "achievement_38",
@@ -1802,7 +1807,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "achievement_40",
@@ -1810,7 +1815,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "achievement_41",
@@ -1842,7 +1847,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "achievement_45",
@@ -1978,7 +1983,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "achievement_60",
@@ -2018,7 +2023,7 @@
       "Name": "A cunning warrior",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "achievement_8",
@@ -2041,13 +2046,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 577,
+      "Progressed": 579,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 577,
+      "Progressed": 579,
       "Completed": 1
     }
   ],
@@ -2055,8 +2060,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-11T12:03:41.8470021+00:00",
+  "LastChanged_Achievements": "2023-10-11T13:10:27.699473+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:04.2927905+00:00",
-  "LastUpdate_Ratings": "2023-10-11T12:03:07.9978776+00:00",
-  "LastUpdate_Achievements": "2023-10-11T12:03:41.8470669+00:00"
+  "LastUpdate_Ratings": "2023-10-11T13:09:31.252965+00:00",
+  "LastUpdate_Achievements": "2023-10-11T13:10:27.6996118+00:00"
 }

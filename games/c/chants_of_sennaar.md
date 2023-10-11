@@ -20,12 +20,12 @@
 | Half the way | 4.00% | ~11 |
 | One last step | 4.00% | ~11 |
 | Open door | 3.00% | ~8 |
+| Free at last | 3.00% | ~8 |
 | Feels like springtime | 3.00% | ~8 |
 | For its own good | 3.00% | ~8 |
 | Alchemists Express | 3.00% | ~8 |
 | Rascal | 3.00% | ~8 |
 | Champollion | 3.00% | ~8 |
-| Free at last | 2.00% | ~6 |
 | A Link to the Past | 2.00% | ~6 |
 | A great audience | 1.00% | ~3 |
 | Fashion victim | 0.70% | ~2 |

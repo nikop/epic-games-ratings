@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 531,
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewPlayers": 332,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -67,9 +67,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 325,
+  "EOS_Progressed": 326,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -257,6 +257,11 @@
       "Time": "2023-10-08T19:09:19.6232535+00:00",
       "NumProgressed": 325,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-11T13:10:26.4939308+00:00",
+      "NumProgressed": 326,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -322,9 +327,9 @@
       "ID": "ach-ascension-die",
       "SetID": "17ih7ma",
       "Name": "The Director is Dead",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 42
     },
     {
       "ID": "ach-ascension-inspector-return",
@@ -372,7 +377,7 @@
       "Name": "Lunatic",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ach-campaign-finish-normal",
@@ -404,7 +409,7 @@
       "Name": "A Strange Artefact",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "ach-campaign-story2",
@@ -492,7 +497,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ach-hardExpeditions",
@@ -508,7 +513,7 @@
       "Name": "It\u0027s Complicated",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ach-joinClubChallenge",
@@ -556,7 +561,7 @@
       "Name": "Shennong Herbalist",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ach-maxClubLevel-american",
@@ -604,15 +609,15 @@
       "Name": "Look Ma, No Equipment!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ach-noRest",
       "SetID": "17ih7ma",
       "Name": "Insomnia",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 147
     },
     {
       "ID": "ach-pacifist-goals",
@@ -636,7 +641,7 @@
       "Name": "Uncertain Loyalties",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ach-portal-return",
@@ -644,7 +649,7 @@
       "Name": "From Whence we Came",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ach-promotion",
@@ -747,7 +752,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 325,
+      "Progressed": 326,
       "Completed": 1
     }
   ],
@@ -755,8 +760,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-10-11T12:03:40.5719186+00:00",
+  "LastChanged_Achievements": "2023-10-11T13:10:26.4939302+00:00",
   "LastUpdate_AppInfo": "2023-10-07T08:57:03.7720322+00:00",
-  "LastUpdate_Ratings": "2023-10-11T11:57:06.4417741+00:00",
-  "LastUpdate_Achievements": "2023-10-11T12:03:40.5719651+00:00"
+  "LastUpdate_Ratings": "2023-10-11T13:04:06.534087+00:00",
+  "LastUpdate_Achievements": "2023-10-11T13:10:26.4939894+00:00"
 }

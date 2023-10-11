@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 390,
   "Ranking_EOS_Progress": 25,
   "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -898,9 +898,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 663173,
+  "EOS_Progressed": 663174,
   "EOS_Completed": 170,
-  "EOS_NewPlayers": 261,
+  "EOS_NewPlayers": 260,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -17398,6 +17398,11 @@
       "Time": "2023-10-11T12:07:27.3647039+00:00",
       "NumProgressed": 663173,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-10-11T13:13:28.6432205+00:00",
+      "NumProgressed": 663174,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 48,
@@ -17417,7 +17422,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 384640
+      "UsersEstimate": 384641
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -17561,7 +17566,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 112739
+      "UsersEstimate": 112740
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -17673,7 +17678,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 165793
+      "UsersEstimate": 165794
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -17792,15 +17797,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 663173,
+      "Progressed": 663174,
       "Completed": 170
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-09-17T14:00:02.1778642+00:00",
-  "LastChanged_Achievements": "2023-10-11T12:07:27.3647035+00:00",
+  "LastChanged_Achievements": "2023-10-11T13:13:28.6432199+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:13.7193737+00:00",
-  "LastUpdate_Ratings": "2023-10-11T11:59:50.7765415+00:00",
-  "LastUpdate_Achievements": "2023-10-11T12:07:27.3648093+00:00"
+  "LastUpdate_Ratings": "2023-10-11T13:06:21.9126132+00:00",
+  "LastUpdate_Achievements": "2023-10-11T13:13:28.6433872+00:00"
 }

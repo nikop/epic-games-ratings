@@ -2,9 +2,9 @@
   "ID": "81970ccb964d4720adccf2e2244fe754",
   "Name": "Haunted House",
   "ProductSlug": "haunted-house-c5a71b",
-  "Ranking_EOS_Progress": 663,
+  "Ranking_EOS_Progress": 611,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewPlayers": 402,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-10-12T07:00:00+00:00",
@@ -19,26 +19,234 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2023-10-11T13:10:28.7912717+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2023-10-11T13:10:28.7912746+00:00",
+  "TotalAchievements": 25,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "BeCaughtBySinforoso",
+      "SetID": "2b5h7op",
+      "Name": "What happened? Where am I?",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BigGhostDefeated",
+      "SetID": "2b5h7op",
+      "Name": "Washing the Sheet",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CollectAllAtariCartridges",
+      "SetID": "2b5h7op",
+      "Name": "Retro Gamer",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CollectAllCats",
+      "SetID": "2b5h7op",
+      "Name": "180 Felines saved",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CollectAllKitchenUtensils",
+      "SetID": "2b5h7op",
+      "Name": "The Perfect Tool!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CompleteTheLanternRoomChallenge",
+      "SetID": "2b5h7op",
+      "Name": "Breaking the Magic",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CompleteTheOwlRoomChallenge",
+      "SetID": "2b5h7op",
+      "Name": "Riddle Solved!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CompleteTheTrapRoomChallenge",
+      "SetID": "2b5h7op",
+      "Name": "Back to Reality",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CucaDefeated",
+      "SetID": "2b5h7op",
+      "Name": "Witch Hunt",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EscapeFromTheBasement",
+      "SetID": "2b5h7op",
+      "Name": "I need a Shower",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FinalBossDefeated",
+      "SetID": "2b5h7op",
+      "Name": "The End?",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FindAllEnemies",
+      "SetID": "2b5h7op",
+      "Name": "A Strange Family",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FindAllItems",
+      "SetID": "2b5h7op",
+      "Name": "Hoarder",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MaximizeHealthUpgrade",
+      "SetID": "2b5h7op",
+      "Name": "Health is what Matters",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MaximizeStaminaUpgrade",
+      "SetID": "2b5h7op",
+      "Name": "The King of Aerobics",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MaximizeTheLanternUpgrade",
+      "SetID": "2b5h7op",
+      "Name": "Let there be Light",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RescueAlex",
+      "SetID": "2b5h7op",
+      "Name": "It\u0027s Game Time",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RescueEric",
+      "SetID": "2b5h7op",
+      "Name": "Overcoming Fear",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RescueFred",
+      "SetID": "2b5h7op",
+      "Name": "Thanks Anyway",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RescueStephanie",
+      "SetID": "2b5h7op",
+      "Name": "Research Team",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "StealthKill",
+      "SetID": "2b5h7op",
+      "Name": "Shhh!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TutorialCompleted",
+      "SetID": "2b5h7op",
+      "Name": "Welcome to Haunted House",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "UpgradePurchase",
+      "SetID": "2b5h7op",
+      "Name": "Shopping Time",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "UseTheGhostItem",
+      "SetID": "2b5h7op",
+      "Name": "Joining the Gang",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "VampireDefeated",
+      "SetID": "2b5h7op",
+      "Name": "Sunny Day",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "2b5h7op",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-10T18:03:06.981062+00:00",
-  "LastChanged_Achievements": "2023-10-11T12:03:43.1929323+00:00",
+  "LastChanged_Achievements": "2023-10-11T13:10:28.7912712+00:00",
   "LastUpdate_AppInfo": "2023-10-04T17:57:00.1526836+00:00",
-  "LastUpdate_Ratings": "2023-10-11T12:03:07.8469921+00:00",
-  "LastUpdate_Achievements": "2023-10-11T12:03:43.1929347+00:00"
+  "LastUpdate_Ratings": "2023-10-11T13:09:29.977534+00:00",
+  "LastUpdate_Achievements": "2023-10-11T13:10:28.8405702+00:00"
 }

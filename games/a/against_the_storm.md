@@ -25,18 +25,18 @@ Number of Ratings: 1,845  (23.09.2022)
 | Watchtower | 4.00% | ~675 |
 | A Real Challenge | 4.00% | ~675 |
 | Trade Baron | 4.00% | ~675 |
-| Serving Ale | 3.00% | ~506 |
-| Against All Odds | 3.00% | ~506 |
-| Ruined Armory | 3.00% | ~506 |
-| Haunted Forest | 3.00% | ~506 |
-| Levitating Monument | 3.00% | ~506 |
-| Flooded Mines | 3.00% | ~506 |
-| Monastery of the Holy Flame | 3.00% | ~506 |
-| Corrosive Torrent | 3.00% | ~506 |
-| Cursed Lands | 3.00% | ~506 |
-| Like a Machine | 3.00% | ~506 |
-| Defying the Crown | 3.00% | ~506 |
-| Into the Forest | 3.00% | ~506 |
+| Serving Ale | 3.00% | ~507 |
+| Against All Odds | 3.00% | ~507 |
+| Ruined Armory | 3.00% | ~507 |
+| Haunted Forest | 3.00% | ~507 |
+| Levitating Monument | 3.00% | ~507 |
+| Flooded Mines | 3.00% | ~507 |
+| Monastery of the Holy Flame | 3.00% | ~507 |
+| Corrosive Torrent | 3.00% | ~507 |
+| Cursed Lands | 3.00% | ~507 |
+| Like a Machine | 3.00% | ~507 |
+| Defying the Crown | 3.00% | ~507 |
+| Into the Forest | 3.00% | ~507 |
 | Refinery | 2.00% | ~338 |
 | Dangerous Lands | 2.00% | ~338 |
 | Fishmen Ritual Site | 2.00% | ~338 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Higher Needs | 0.20% | ~34 |
 | Paradise | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,882 (Ranked 130)  
+Progressed: 16,884 (Ranked 130)  
 Completed: 52 (0.31%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,10 +231,10 @@ Completed: 52 (0.31%) (Ranked 202)
 | 2023-10-08 | 16,855 | 52 |
 | 2023-10-09 | 16,868 | 52 |
 | 2023-10-10 | 16,879 | 52 |
-| 2023-10-11 | 16,882 | 52 |
+| 2023-10-11 | 16,884 | 52 |
 ## Awards
 Max (Quickly Understood Controls): 436  (Ranked 212)  
-Sum: 3,184 (Ranked 167)  
+Sum: 3,186 (Ranked 167)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
@@ -247,7 +247,7 @@ Diff (max vs sum): 45
 | This game has Amazing Storytelling | 315 |
 | This game has Amazing Characters | 282 |
 | This game has Obsessive Gameplay | 254 |
-| This game has a Creative Community | 206 |
+| This game has a Creative Community | 208 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -461,3 +461,4 @@ Diff (max vs sum): 45
 | 2023-10-08 | 4.81 | - | 435 | 3,181 |
 | 2023-10-09 | 4.81 | - | 435 | 3,183 |
 | 2023-10-10 | 4.81 | - | 436 | 3,184 |
+| 2023-10-11 | 4.81 | - | 436 | 3,186 |

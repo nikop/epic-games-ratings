@@ -6,21 +6,21 @@ Number of Ratings: 20  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 61.00% | ~198 |
+| The Adventure Begins | 61.00% | ~199 |
 | Cartographer | 54.00% | ~176 |
-| A Strange Artefact | 50.00% | ~162 |
-| Insomnia | 46.00% | ~150 |
-| From Whence we Came | 41.00% | ~133 |
+| A Strange Artefact | 50.00% | ~163 |
+| Insomnia | 45.00% | ~147 |
+| From Whence we Came | 41.00% | ~134 |
 | Lost & Found & Lost Again | 40.00% | ~130 |
 | Fire and Flood | 38.00% | ~124 |
 | Spooky! | 36.00% | ~117 |
-| Shennong Herbalist | 33.00% | ~107 |
+| Shennong Herbalist | 33.00% | ~108 |
 | Treasure Hunt | 32.00% | ~104 |
 | Good Mama | 31.00% | ~101 |
 | O Captain My Captain | 30.00% | ~98 |
 | Taxonomist | 27.00% | ~88 |
 | Plunderer | 27.00% | ~88 |
-| Uncertain Loyalties | 25.00% | ~81 |
+| Uncertain Loyalties | 25.00% | ~82 |
 | Traveller | 24.00% | ~78 |
 | Nahua Seeker | 24.00% | ~78 |
 | Roll to Save | 22.00% | ~72 |
@@ -33,14 +33,14 @@ Number of Ratings: 20  (23.09.2022)
 | Shortening of the Way | 15.00% | ~49 |
 | Dapper | 15.00% | ~49 |
 | The New Director | 14.00% | ~46 |
-| The Director is Dead | 14.00% | ~46 |
 | Adventurer | 14.00% | ~46 |
+| The Director is Dead | 13.00% | ~42 |
 | And Here Is Your Statue | 13.00% | ~42 |
 | Discovery | 13.00% | ~42 |
 | Plays Well With Others | 13.00% | ~42 |
 | Very Classy | 12.00% | ~39 |
 | Under the Table | 11.00% | ~36 |
-| It's Complicated | 10.00% | ~32 |
+| It's Complicated | 10.00% | ~33 |
 | No Laughing Matter | 9.00% | ~29 |
 | Cold Blood, Warm Heart | 9.00% | ~29 |
 | Errand Runner | 9.00% | ~29 |
@@ -59,15 +59,15 @@ Number of Ratings: 20  (23.09.2022)
 | A Perfect Map | 3.00% | ~10 |
 | Risk/Reward | 3.00% | ~10 |
 | I Set Forth Again... and Again... and Again... | 3.00% | ~10 |
-| Lunatic | 2.00% | ~6 |
-| Look Ma, No Equipment! | 2.00% | ~6 |
+| Lunatic | 2.00% | ~7 |
+| Look Ma, No Equipment! | 2.00% | ~7 |
 | Everything is FINE... | 0.90% | ~3 |
 | Abominable Hunger | 0.60% | ~2 |
 | Pacifism Ain't Easy | 0.60% | ~2 |
 | It's Not Too Late | 0.60% | ~2 |
 | Now I've Seen It All | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 325 (Ranked 305)  
+Progressed: 326 (Ranked 305)  
 Completed: 1 (0.31%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,6 +103,7 @@ Completed: 1 (0.31%) (Ranked 202)
 | 2023-09-17 | 323 | 1 |
 | 2023-09-30 | 324 | 1 |
 | 2023-10-08 | 325 | 1 |
+| 2023-10-11 | 326 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

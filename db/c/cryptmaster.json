@@ -2,9 +2,9 @@
   "ID": "ff039999d57e4e44bcd1359987e46d51",
   "Name": "Cryptmaster",
   "ProductSlug": "cryptmaster-6468dc",
-  "Ranking_EOS_Progress": 663,
+  "Ranking_EOS_Progress": 664,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewPlayers": 402,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-07T14:59:45.3847712+00:00",
-  "LastUpdate_Ratings": "2023-10-11T11:58:36.1233074+00:00",
-  "LastUpdate_Achievements": "2023-10-11T12:06:33.2066901+00:00"
+  "LastUpdate_Ratings": "2023-10-11T13:05:19.5603111+00:00",
+  "LastUpdate_Achievements": "2023-10-11T13:12:52.0168554+00:00"
 }

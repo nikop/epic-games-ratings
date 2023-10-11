@@ -109,6 +109,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 4 | 0.30% | ~44 |
 | Babylonia | 0.30% | ~44 |
 | Carthage | 0.30% | ~44 |
+| One True Faith | 0.30% | ~44 |
 | Assyrian Paganism | 0.30% | ~44 |
 | Hittite Paganism | 0.30% | ~44 |
 | Economic Reform | 0.30% | ~44 |
@@ -139,10 +140,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egypt | 0.20% | ~29 |
 | Rome | 0.20% | ~29 |
 | Old World Order | 0.20% | ~29 |
-| One True Faith | 0.20% | ~29 |
 | Industrial Progress | 0.20% | ~29 |
 | Enlightenment | 0.20% | ~29 |
 | Cataphract Archer | 0.20% | ~29 |
+| Siege Tower | 0.20% | ~29 |
 | All Nations | 0.20% | ~29 |
 | No Undo | 0.20% | ~29 |
 | Rmt n Kmt Buhen | 0.20% | ~29 |
@@ -250,7 +251,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ten Crowns | 0.10% | ~15 |
 | Word of God | 0.10% | ~15 |
 | Three Man Chariot | 0.10% | ~15 |
-| Siege Tower | 0.10% | ~15 |
 | Great Ziggurat in Ur | 0.10% | ~15 |
 | Conquest Victory | 0.10% | ~15 |
 | No Characters | 0.10% | ~15 |

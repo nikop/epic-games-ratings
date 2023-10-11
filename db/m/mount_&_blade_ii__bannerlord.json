@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 66,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -7789,18 +7789,24 @@
       "Rating": 4.74,
       "NumberOfAwards": 14816,
       "NumberOfAwardsMax": 7209
+    },
+    {
+      "Time": "2023-10-11T13:06:26.6109853+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 14825,
+      "NumberOfAwardsMax": 7217
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14816,
-  "NumberOfAwardsMax": 7209,
+  "NumberOfAwards": 14825,
+  "NumberOfAwardsMax": 7217,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 7209
+      "Count": 7217
     },
     {
       "Text": "This game is Highly Recommended",
@@ -7842,7 +7848,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 811
+      "Count": 812
     },
     {
       "Text": "This game has Diverse Characters",
@@ -7869,9 +7875,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 63071,
+  "EOS_Progressed": 63073,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 395,
+  "EOS_NewPlayers": 393,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26349,6 +26355,11 @@
       "Time": "2023-10-11T12:07:11.5882227+00:00",
       "NumProgressed": 63071,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-11T13:13:15.4348358+00:00",
+      "NumProgressed": 63073,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -26376,7 +26387,7 @@
       "Name": "Bannerlord",
       "Percentage": 23,
       "XP": 65,
-      "UsersEstimate": 14506
+      "UsersEstimate": 14507
     },
     {
       "ID": "Best served cold",
@@ -26472,7 +26483,7 @@
       "Name": "Fat Cat",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "Freedom",
@@ -26520,7 +26531,7 @@
       "Name": "Horde breaker",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 14506
+      "UsersEstimate": 14507
     },
     {
       "ID": "I can do it",
@@ -26528,7 +26539,7 @@
       "Name": "I can do it",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10091
+      "UsersEstimate": 10092
     },
     {
       "ID": "I spit on your grave",
@@ -26536,7 +26547,7 @@
       "Name": "I spit on your grave",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5676
+      "UsersEstimate": 5677
     },
     {
       "ID": "Jack of All Trades",
@@ -26584,7 +26595,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 20813
+      "UsersEstimate": 20814
     },
     {
       "ID": "Lawbringer",
@@ -26600,7 +26611,7 @@
       "Name": "Lawmaker",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 14506
+      "UsersEstimate": 14507
     },
     {
       "ID": "Long live the Empire",
@@ -26712,7 +26723,7 @@
       "Name": "The king is pleased",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 11983
+      "UsersEstimate": 11984
     },
     {
       "ID": "This Is Our Land",
@@ -26736,7 +26747,7 @@
       "Name": "Trained",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 14506
+      "UsersEstimate": 14507
     },
     {
       "ID": "Undercover",
@@ -26767,15 +26778,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 63071,
+      "Progressed": 63073,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-10-11T11:59:59.6854039+00:00",
-  "LastChanged_Achievements": "2023-10-11T12:07:11.5882223+00:00",
+  "LastChanged": "2023-10-11T13:06:26.6109852+00:00",
+  "LastChanged_Achievements": "2023-10-11T13:13:15.434835+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:27.1626185+00:00",
-  "LastUpdate_Ratings": "2023-10-11T11:59:59.6854044+00:00",
-  "LastUpdate_Achievements": "2023-10-11T12:07:11.5883413+00:00"
+  "LastUpdate_Ratings": "2023-10-11T13:06:26.6109862+00:00",
+  "LastUpdate_Achievements": "2023-10-11T13:13:15.4351184+00:00"
 }

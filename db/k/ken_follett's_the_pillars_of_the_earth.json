@@ -6,9 +6,9 @@
   "Ranking_Popularity": 307,
   "Ranking_PopularitySum": 386,
   "Ranking_EOS_Progress": 133,
-  "Ranking_EOS_Completed": 154,
+  "Ranking_EOS_Completed": 155,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -525,9 +525,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 15676,
+  "EOS_Progressed": 15677,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -11795,6 +11795,11 @@
       "Time": "2023-10-11T12:09:06.2151295+00:00",
       "NumProgressed": 15676,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-10-11T13:15:37.0227038+00:00",
+      "NumProgressed": 15677,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 41,
@@ -11822,7 +11827,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3605
+      "UsersEstimate": 3606
     },
     {
       "ID": "tpote_achievement_12",
@@ -11876,9 +11881,9 @@
       "ID": "tpote_achievement_18",
       "SetID": "3jcf6c3",
       "Name": "Friar Tuck",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 1724
+      "UsersEstimate": 1568
     },
     {
       "ID": "tpote_achievement_19",
@@ -11982,7 +11987,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5016
+      "UsersEstimate": 5017
     },
     {
       "ID": "tpote_achievement_30",
@@ -12070,7 +12075,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6270
+      "UsersEstimate": 6271
     },
     {
       "ID": "tpote_achievement_40",
@@ -12133,15 +12138,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15676,
+      "Progressed": 15677,
       "Completed": 113
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-26T12:00:19.7408959+00:00",
-  "LastChanged_Achievements": "2023-10-11T12:09:06.2151291+00:00",
+  "LastChanged_Achievements": "2023-10-11T13:15:37.0227032+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:27.8730623+00:00",
-  "LastUpdate_Ratings": "2023-10-11T11:57:54.7441879+00:00",
-  "LastUpdate_Achievements": "2023-10-11T12:09:06.215209+00:00"
+  "LastUpdate_Ratings": "2023-10-11T13:04:47.5696032+00:00",
+  "LastUpdate_Achievements": "2023-10-11T13:15:37.0228105+00:00"
 }

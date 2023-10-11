@@ -5,18 +5,18 @@ Rating: 3.35 (Ranked 1,010)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's Good to have Allies | 29.00% | ~456 |
-| Defenses Online | 26.00% | ~409 |
+| It's Good to have Allies | 29.00% | ~457 |
+| Defenses Online | 26.00% | ~410 |
 | Facility Online | 21.00% | ~331 |
-| Corporal | 16.00% | ~252 |
+| Corporal | 15.00% | ~236 |
 | Covert Operative | 13.00% | ~205 |
 | Sergeant | 12.00% | ~189 |
 | Lieutenant | 11.00% | ~173 |
-| Keeping Busy | 10.00% | ~157 |
-| Getting Deployment | 10.00% | ~157 |
-| Stocking Up | 10.00% | ~157 |
-| On Target | 10.00% | ~157 |
-| Infantry Reporting | 10.00% | ~157 |
+| Keeping Busy | 10.00% | ~158 |
+| Getting Deployment | 10.00% | ~158 |
+| Stocking Up | 10.00% | ~158 |
+| On Target | 10.00% | ~158 |
+| Infantry Reporting | 10.00% | ~158 |
 | Fighting for Survival | 8.00% | ~126 |
 | Silver Competitor | 8.00% | ~126 |
 | Captain | 8.00% | ~126 |
@@ -31,10 +31,10 @@ Rating: 3.35 (Ranked 1,010)
 | Gold Achiever | 3.00% | ~47 |
 | Resourceful | 3.00% | ~47 |
 | Control the Skies | 3.00% | ~47 |
-| Advanced Warfare | 2.00% | ~31 |
-| Colonel | 2.00% | ~31 |
-| Seek & Destroy | 2.00% | ~31 |
-| Battle Ready | 2.00% | ~31 |
+| Advanced Warfare | 2.00% | ~32 |
+| Colonel | 2.00% | ~32 |
+| Seek & Destroy | 2.00% | ~32 |
+| Battle Ready | 2.00% | ~32 |
 | General | 1.00% | ~16 |
 | Titan Tanks | 1.00% | ~16 |
 | Shock Troops | 1.00% | ~16 |
@@ -44,7 +44,7 @@ Rating: 3.35 (Ranked 1,010)
 | Platinum Achiever | 0.10% | ~2 |
 | Platinum Competitor | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,574 (Ranked 214)  
+Progressed: 1,575 (Ranked 214)  
 Completed: 1 (0.06%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 1 (0.06%) (Ranked 265)
 | 2023-10-08 | 1,554 | 1 |
 | 2023-10-09 | 1,564 | 1 |
 | 2023-10-10 | 1,572 | 1 |
-| 2023-10-11 | 1,574 | 1 |
+| 2023-10-11 | 1,575 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -530,7 +530,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 13515,
+  "EOS_Progressed": 13516,
   "EOS_Completed": 49,
   "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 1,
@@ -9865,6 +9865,11 @@
       "Time": "2023-10-10T19:05:58.8580527+00:00",
       "NumProgressed": 13515,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-11T13:13:17.026082+00:00",
+      "NumProgressed": 13516,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 35,
@@ -9876,7 +9881,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 12434
+      "UsersEstimate": 12435
     },
     {
       "ID": "ACH_02",
@@ -9884,7 +9889,7 @@
       "Name": "Newcomers",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 10677
+      "UsersEstimate": 10678
     },
     {
       "ID": "ACH_03",
@@ -9892,7 +9897,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 10001
+      "UsersEstimate": 10002
     },
     {
       "ID": "ACH_04",
@@ -9900,7 +9905,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 9460
+      "UsersEstimate": 9461
     },
     {
       "ID": "ACH_05",
@@ -9908,7 +9913,7 @@
       "Name": "In our Wake",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 9190
+      "UsersEstimate": 9191
     },
     {
       "ID": "ACH_06",
@@ -9924,7 +9929,7 @@
       "Name": "Felons",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 8379
+      "UsersEstimate": 8380
     },
     {
       "ID": "ACH_08",
@@ -9932,7 +9937,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 8244
+      "UsersEstimate": 8245
     },
     {
       "ID": "ACH_09",
@@ -9956,7 +9961,7 @@
       "Name": "The Cradle of Centuries",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 6622
+      "UsersEstimate": 6623
     },
     {
       "ID": "ACH_12",
@@ -10068,7 +10073,7 @@
       "Name": "Effective instruments",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 2973
+      "UsersEstimate": 2974
     },
     {
       "ID": "ACH_26",
@@ -10084,7 +10089,7 @@
       "Name": "Night guard",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 5811
+      "UsersEstimate": 5812
     },
     {
       "ID": "ACH_28",
@@ -10092,7 +10097,7 @@
       "Name": "Alchemist",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 9325
+      "UsersEstimate": 9326
     },
     {
       "ID": "ACH_29",
@@ -10124,7 +10129,7 @@
       "Name": "Perfect shot",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 2973
+      "UsersEstimate": 2974
     },
     {
       "ID": "ACH_33",
@@ -10132,7 +10137,7 @@
       "Name": "Perfect throw",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 2973
+      "UsersEstimate": 2974
     },
     {
       "ID": "ACH_34",
@@ -10155,7 +10160,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 13515,
+      "Progressed": 13516,
       "Completed": 49
     }
   ],
@@ -10163,8 +10168,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-10-09T20:01:08.9572395+00:00",
-  "LastChanged_Achievements": "2023-10-11T12:07:13.5117774+00:00",
+  "LastChanged_Achievements": "2023-10-11T13:13:17.0260815+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:58.3444981+00:00",
-  "LastUpdate_Ratings": "2023-10-11T11:57:21.1933404+00:00",
-  "LastUpdate_Achievements": "2023-10-11T12:07:13.5118414+00:00"
+  "LastUpdate_Ratings": "2023-10-11T13:04:16.7776035+00:00",
+  "LastUpdate_Achievements": "2023-10-11T13:13:17.0261709+00:00"
 }

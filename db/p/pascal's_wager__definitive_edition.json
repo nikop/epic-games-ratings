@@ -2,12 +2,12 @@
   "ID": "a861a0cf27d74d85ad7c3fbcf9e2af42",
   "Name": "Pascal\u0027s Wager: Definitive Edition",
   "ProductSlug": "pascals-wager",
-  "Ranking_Rating": 786,
+  "Ranking_Rating": 787,
   "Ranking_Popularity": 531,
   "Ranking_PopularitySum": 531,
-  "Ranking_EOS_Progress": 663,
+  "Ranking_EOS_Progress": 664,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewPlayers": 402,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-06-23T15:00:00+00:00",
@@ -64,6 +64,6 @@
   "FirstSeenRating": "2022-11-24T04:58:14.8204326+00:00",
   "LastChanged": "2023-03-31T05:58:36.0580691+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:08.4282876+00:00",
-  "LastUpdate_Ratings": "2023-10-11T12:00:59.4129973+00:00",
-  "LastUpdate_Achievements": "2023-10-11T12:05:47.8652076+00:00"
+  "LastUpdate_Ratings": "2023-10-11T13:07:14.2072572+00:00",
+  "LastUpdate_Achievements": "2023-10-11T13:12:13.7640064+00:00"
 }

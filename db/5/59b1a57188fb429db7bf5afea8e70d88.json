@@ -2,9 +2,9 @@
   "ID": "59b1a57188fb429db7bf5afea8e70d88",
   "Name": "Dinobreak",
   "ProductSlug": "dinobreak-307b09",
-  "Ranking_EOS_Progress": 508,
+  "Ranking_EOS_Progress": 503,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-10-04T14:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13,
+  "EOS_Progressed": 14,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -81,6 +81,11 @@
       "Time": "2023-10-11T10:08:03.7933058+00:00",
       "NumProgressed": 13,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-11T13:13:02.8827142+00:00",
+      "NumProgressed": 14,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-30T15:02:12.9396867+00:00",
@@ -91,7 +96,7 @@
       "ID": "A_PATH_TO_SAFETY_ACH",
       "SetID": "7jaf9il",
       "Name": "A Patch to Safety",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -99,7 +104,7 @@
       "ID": "CATCHING_UP_ACH",
       "SetID": "7jaf9il",
       "Name": "Catching Up",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -107,7 +112,7 @@
       "ID": "COMBAT_EVOLUTION_ACH",
       "SetID": "7jaf9il",
       "Name": "Combat Evolution",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -123,7 +128,7 @@
       "ID": "DINO_CHOW_ACH",
       "SetID": "7jaf9il",
       "Name": "Dino Chow",
-      "Percentage": 54,
+      "Percentage": 50,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -147,9 +152,9 @@
       "ID": "HERE_WE_GO_AGAIN_ACH",
       "SetID": "7jaf9il",
       "Name": "Here We Go Again",
-      "Percentage": 77,
+      "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "HEROIC_RESCUE_ACH",
@@ -163,7 +168,7 @@
       "ID": "HORRIFIC_BEYOND_BELIEF_ACH",
       "SetID": "7jaf9il",
       "Name": "Horrific Beyond Belief",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -203,7 +208,7 @@
       "ID": "MAKING_FRIENDS_ACH",
       "SetID": "7jaf9il",
       "Name": "Making Friends",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -227,9 +232,9 @@
       "ID": "SOMETHING_ISNT_RIGHT_ACH",
       "SetID": "7jaf9il",
       "Name": "Something Isn\u0027t Right",
-      "Percentage": 77,
+      "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SPEED_RUNNER_ACH",
@@ -243,7 +248,7 @@
       "ID": "TAPE_IT_BACK_TOGETHER_ACH",
       "SetID": "7jaf9il",
       "Name": "Tape It Back Together",
-      "Percentage": 31,
+      "Percentage": 29,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -251,7 +256,7 @@
       "ID": "TEMPORARY_SHELTER_ACH",
       "SetID": "7jaf9il",
       "Name": "Temporary Shelter",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -292,14 +297,14 @@
     {
       "ID": "7jaf9il",
       "IsBase": true,
-      "Progressed": 13,
+      "Progressed": 14,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-10T23:57:30.9159633+00:00",
   "FirstSeenAchievements": "2023-08-30T15:02:12.9396866+00:00",
-  "LastChanged_Achievements": "2023-10-11T12:06:46.2425276+00:00",
+  "LastChanged_Achievements": "2023-10-11T13:13:02.882713+00:00",
   "LastUpdate_AppInfo": "2023-10-04T17:57:00.1319997+00:00",
-  "LastUpdate_Ratings": "2023-10-11T11:57:54.2481776+00:00",
-  "LastUpdate_Achievements": "2023-10-11T12:06:46.2425429+00:00"
+  "LastUpdate_Ratings": "2023-10-11T13:04:47.1647783+00:00",
+  "LastUpdate_Achievements": "2023-10-11T13:13:02.8827428+00:00"
 }

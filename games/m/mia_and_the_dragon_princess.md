@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Tour Guide Extraordinaire | 38.00% | ~23 |
 | Glass Act | 36.00% | ~22 |
 | Relight my Cannon | 36.00% | ~22 |
-| Tour Guide Extraordinaire | 36.00% | ~22 |
 | Puzzle Prodigy | 25.00% | ~15 |
 | Snitch | 23.00% | ~14 |
 | Explosive End | 21.00% | ~13 |
