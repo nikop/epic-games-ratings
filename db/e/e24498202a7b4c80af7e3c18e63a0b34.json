@@ -76,7 +76,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5957,
+  "EOS_Progressed": 5958,
   "EOS_Completed": 24,
   "EOS_NewPlayers": 404,
   "EOS_NewCompleters": 6,
@@ -3051,6 +3051,11 @@
       "Time": "2023-10-11T04:05:14.4701763+00:00",
       "NumProgressed": 5957,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-10-11T05:04:20.4468798+00:00",
+      "NumProgressed": 5958,
+      "NumCompleted": 24
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -3063,7 +3068,7 @@
       "Name": "First of Many",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 5063
+      "UsersEstimate": 5064
     },
     {
       "ID": "achievement_01_02",
@@ -3087,7 +3092,7 @@
       "Name": "Bzzzt",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 4229
+      "UsersEstimate": 4230
     },
     {
       "ID": "achievement_01_05",
@@ -3111,7 +3116,7 @@
       "Name": "Car Workshop",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 2323
+      "UsersEstimate": 2324
     },
     {
       "ID": "achievement_01_08",
@@ -3119,7 +3124,7 @@
       "Name": "Trophy Collector",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 4289
+      "UsersEstimate": 4290
     },
     {
       "ID": "achievement_01_09",
@@ -3143,7 +3148,7 @@
       "Name": "Roll the Credits!",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 774
+      "UsersEstimate": 775
     },
     {
       "ID": "achievement_02_02",
@@ -3199,7 +3204,7 @@
       "Name": "Car Specialist",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 774
+      "UsersEstimate": 775
     },
     {
       "ID": "achievement_03_01",
@@ -3207,7 +3212,7 @@
       "Name": "USA - Check!",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 1608
+      "UsersEstimate": 1609
     },
     {
       "ID": "achievement_03_02",
@@ -3223,7 +3228,7 @@
       "Name": "Morocco - Check!",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 774
+      "UsersEstimate": 775
     },
     {
       "ID": "achievement_03_04",
@@ -3311,7 +3316,7 @@
       "Name": "Consolation Trophy",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 2859
+      "UsersEstimate": 2860
     },
     {
       "ID": "achievement_04_04",
@@ -3351,7 +3356,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 5004
+      "UsersEstimate": 5005
     },
     {
       "ID": "achievement_04_09",
@@ -3359,14 +3364,14 @@
       "Name": "Nitro on a curve? Better not.",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1906
+      "UsersEstimate": 1907
     }
   ],
   "AchievementSets": [
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 5957,
+      "Progressed": 5958,
       "Completed": 24
     }
   ],
@@ -3374,8 +3379,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-10-07T17:57:03.0045577+00:00",
-  "LastChanged_Achievements": "2023-10-11T04:05:14.4701758+00:00",
+  "LastChanged_Achievements": "2023-10-11T05:04:20.4468794+00:00",
   "LastUpdate_AppInfo": "2023-10-05T17:57:07.1711191+00:00",
-  "LastUpdate_Ratings": "2023-10-11T03:59:21.7422518+00:00",
-  "LastUpdate_Achievements": "2023-10-11T04:05:14.4702241+00:00"
+  "LastUpdate_Ratings": "2023-10-11T04:58:47.3727277+00:00",
+  "LastUpdate_Achievements": "2023-10-11T05:04:20.4469164+00:00"
 }

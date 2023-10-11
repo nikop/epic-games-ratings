@@ -6,14 +6,14 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 44.00% | ~5,367 |
-| A normal day in Gloomhaven | 35.00% | ~4,269 |
-| Overkill | 34.00% | ~4,147 |
-| Vaccine Incoming | 33.00% | ~4,025 |
-| Spread the plague | 31.00% | ~3,781 |
-| Get over here! | 24.00% | ~2,927 |
-| Just when I thought I was out... | 19.00% | ~2,317 |
-| Mine... All Mine... | 17.00% | ~2,073 |
+| I'm not dead yet | 44.00% | ~5,369 |
+| A normal day in Gloomhaven | 35.00% | ~4,271 |
+| Overkill | 34.00% | ~4,149 |
+| Vaccine Incoming | 33.00% | ~4,027 |
+| Spread the plague | 31.00% | ~3,783 |
+| Get over here! | 24.00% | ~2,928 |
+| Just when I thought I was out... | 19.00% | ~2,318 |
+| Mine... All Mine... | 17.00% | ~2,074 |
 | Precious! | 15.00% | ~1,830 |
 | Light of my life | 15.00% | ~1,830 |
 | Anatomy Lesson | 15.00% | ~1,830 |
@@ -40,13 +40,13 @@ Number of Ratings: 68  (23.09.2022)
 | Down the hatch | 2.00% | ~244 |
 | An eye for an eye | 2.00% | ~244 |
 | Master Assassin | 2.00% | ~244 |
-| The Sniper | 2.00% | ~244 |
 | An axe to grind | 2.00% | ~244 |
 | From Gloom, only greed and death emerges | 1.00% | ~122 |
 | Add a bit of colour | 1.00% | ~122 |
 | The Rat King | 1.00% | ~122 |
 | How to train your Drake | 1.00% | ~122 |
 | The Cephalophore | 1.00% | ~122 |
+| The Sniper | 1.00% | ~122 |
 | New Blood | 1.00% | ~122 |
 | Captain hooked | 0.70% | ~85 |
 | Betray this | 0.60% | ~73 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~12 |
 | Murder Death Kill | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,197 (Ranked 141)  
+Progressed: 12,202 (Ranked 141)  
 Completed: 1 (0.01%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 1 (0.01%) (Ranked 294)
 | 2023-10-08 | 11,624 | 1 |
 | 2023-10-09 | 11,901 | 1 |
 | 2023-10-10 | 12,150 | 1 |
-| 2023-10-11 | 12,197 | 1 |
+| 2023-10-11 | 12,202 | 1 |
 ## Awards
 Max (Character Customization): 3,548  (Ranked 90)  
 Sum: 8,276 (Ranked 98)  

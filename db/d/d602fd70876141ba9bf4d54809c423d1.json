@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 381,
   "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
     "PcReleaseDate": "2014-07-13T00:00:00+00:00",
@@ -555,9 +555,9 @@
       "ID": "ACHIEVEMENT_03",
       "SetID": "ap8553i",
       "Name": "Weapon of Choice",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -1120,8 +1120,8 @@
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-10-11T04:06:23.2458858+00:00",
+  "LastChanged_Achievements": "2023-10-11T05:05:18.2433948+00:00",
   "LastUpdate_AppInfo": "2023-10-04T21:57:01.2165637+00:00",
-  "LastUpdate_Ratings": "2023-10-11T04:01:27.8570204+00:00",
-  "LastUpdate_Achievements": "2023-10-11T04:06:23.2459764+00:00"
+  "LastUpdate_Ratings": "2023-10-11T05:00:28.6277558+00:00",
+  "LastUpdate_Achievements": "2023-10-11T05:05:18.2434604+00:00"
 }

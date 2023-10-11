@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 81299,
+  "EOS_Progressed": 81301,
   "EOS_Completed": 227,
-  "EOS_NewPlayers": 1464,
+  "EOS_NewPlayers": 1463,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -6823,6 +6823,11 @@
       "Time": "2023-10-11T04:04:50.3331351+00:00",
       "NumProgressed": 81299,
       "NumCompleted": 227
+    },
+    {
+      "Time": "2023-10-11T05:04:08.8456191+00:00",
+      "NumProgressed": 81301,
+      "NumCompleted": 227
     }
   ],
   "AchievementsAdded": "2023-08-03T06:01:19.3820028+00:00",
@@ -6835,7 +6840,7 @@
       "Name": "Welcome to Dodo Peak",
       "Percentage": 80,
       "XP": 50,
-      "UsersEstimate": 65039
+      "UsersEstimate": 65041
     },
     {
       "ID": "grp_beet",
@@ -6851,7 +6856,7 @@
       "Name": "Two month\u0027s rent",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 62600
+      "UsersEstimate": 62602
     },
     {
       "ID": "grp_endless",
@@ -6899,7 +6904,7 @@
       "Name": "Level 30!",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "grp_level40",
@@ -6907,7 +6912,7 @@
       "Name": "Level 40!",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "grp_level50",
@@ -6923,7 +6928,7 @@
       "Name": "Investing in BirdCoin",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 43088
+      "UsersEstimate": 43090
     },
     {
       "ID": "grp_money_tree",
@@ -6931,7 +6936,7 @@
       "Name": "Money doesn\u0027t grow on trees",
       "Percentage": 74,
       "XP": 50,
-      "UsersEstimate": 60161
+      "UsersEstimate": 60163
     },
     {
       "ID": "grp_speed",
@@ -6970,7 +6975,7 @@
     {
       "ID": "2gd32f",
       "IsBase": true,
-      "Progressed": 81299,
+      "Progressed": 81301,
       "Completed": 227
     }
   ],
@@ -6978,8 +6983,8 @@
   "FirstSeenRating": "2023-08-27T07:59:18.2658043+00:00",
   "FirstSeenAchievements": "2023-08-03T06:01:19.3820026+00:00",
   "LastChanged": "2023-10-09T17:03:28.2323675+00:00",
-  "LastChanged_Achievements": "2023-10-11T04:04:50.3331341+00:00",
+  "LastChanged_Achievements": "2023-10-11T05:04:08.8456186+00:00",
   "LastUpdate_AppInfo": "2023-10-05T11:57:27.8259613+00:00",
-  "LastUpdate_Ratings": "2023-10-11T04:03:17.7215288+00:00",
-  "LastUpdate_Achievements": "2023-10-11T04:04:50.3331881+00:00"
+  "LastUpdate_Ratings": "2023-10-11T05:02:10.8527174+00:00",
+  "LastUpdate_Achievements": "2023-10-11T05:04:08.8456597+00:00"
 }

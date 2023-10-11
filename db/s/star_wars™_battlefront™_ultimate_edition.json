@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 575,
+  "EOS_Progressed": 576,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1516,6 +1516,11 @@
       "Time": "2023-10-11T04:03:41.0574817+00:00",
       "NumProgressed": 575,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-11T05:02:30.9058701+00:00",
+      "NumProgressed": 576,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -1670,9 +1675,9 @@
       "ID": "achievement_26",
       "SetID": "271ol84",
       "Name": "Together we can rule the galaxy",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 92
     },
     {
       "ID": "achievement_27",
@@ -1718,9 +1723,9 @@
       "ID": "achievement_31",
       "SetID": "271ol84",
       "Name": "Scrap collector",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 121
+      "UsersEstimate": 115
     },
     {
       "ID": "achievement_32",
@@ -1766,9 +1771,9 @@
       "ID": "achievement_37",
       "SetID": "271ol84",
       "Name": "Off to a good start",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 385
+      "UsersEstimate": 380
     },
     {
       "ID": "achievement_38",
@@ -1816,7 +1821,7 @@
       "Name": "Not bad for a little furball",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "achievement_43",
@@ -1848,7 +1853,7 @@
       "Name": "Patience you must have",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "achievement_47",
@@ -1966,9 +1971,9 @@
       "ID": "achievement_6",
       "SetID": "271ol84",
       "Name": "Great shot, kid!",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 115
     },
     {
       "ID": "achievement_60",
@@ -2031,13 +2036,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 575,
+      "Progressed": 576,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 575,
+      "Progressed": 576,
       "Completed": 1
     }
   ],
@@ -2045,8 +2050,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-11T04:03:41.0574811+00:00",
+  "LastChanged_Achievements": "2023-10-11T05:02:30.9058698+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:04.2927905+00:00",
-  "LastUpdate_Ratings": "2023-10-11T04:03:23.9284973+00:00",
-  "LastUpdate_Achievements": "2023-10-11T04:03:41.0575514+00:00"
+  "LastUpdate_Ratings": "2023-10-11T05:02:15.3092465+00:00",
+  "LastUpdate_Achievements": "2023-10-11T05:02:30.9059299+00:00"
 }

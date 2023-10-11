@@ -525,7 +525,7 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 15670,
+  "EOS_Progressed": 15671,
   "EOS_Completed": 113,
   "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 1,
@@ -11770,6 +11770,11 @@
       "Time": "2023-10-10T22:08:29.8615704+00:00",
       "NumProgressed": 15670,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-10-11T05:07:21.4108128+00:00",
+      "NumProgressed": 15671,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 41,
@@ -11941,7 +11946,7 @@
       "Name": "Whodunnit",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1880
+      "UsersEstimate": 1881
     },
     {
       "ID": "tpote_achievement_29",
@@ -11957,7 +11962,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5014
+      "UsersEstimate": 5015
     },
     {
       "ID": "tpote_achievement_30",
@@ -12093,7 +12098,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3447
+      "UsersEstimate": 3448
     },
     {
       "ID": "tpote_achievement_9",
@@ -12101,22 +12106,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 5484
+      "UsersEstimate": 5485
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15670,
+      "Progressed": 15671,
       "Completed": 113
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-26T12:00:19.7408959+00:00",
-  "LastChanged_Achievements": "2023-10-11T04:09:26.8663482+00:00",
+  "LastChanged_Achievements": "2023-10-11T05:07:21.4108121+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:27.8730623+00:00",
-  "LastUpdate_Ratings": "2023-10-11T03:57:53.361444+00:00",
-  "LastUpdate_Achievements": "2023-10-11T04:09:26.8664502+00:00"
+  "LastUpdate_Ratings": "2023-10-11T04:57:32.0095573+00:00",
+  "LastUpdate_Achievements": "2023-10-11T05:07:21.4108917+00:00"
 }

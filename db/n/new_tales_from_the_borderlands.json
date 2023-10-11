@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 531,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
     "PcReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -174,9 +174,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3664,
+  "EOS_Progressed": 3665,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1624,6 +1624,11 @@
       "Time": "2023-10-10T23:05:10.1549201+00:00",
       "NumProgressed": 3664,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-11T05:04:20.4574919+00:00",
+      "NumProgressed": 3665,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -1699,7 +1704,7 @@
       "Name": "Our Lucky Winner",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "FINISH_EPISODE_4",
@@ -1819,7 +1824,7 @@
       "Name": "Don\u0027t Get Cocky",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 989
+      "UsersEstimate": 990
     },
     {
       "ID": "WIN_VAULTLANDER_BATTLE_CLAPTRAP",
@@ -1842,7 +1847,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3664,
+      "Progressed": 3665,
       "Completed": 0
     }
   ],
@@ -1850,8 +1855,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2023-10-11T04:05:14.4785505+00:00",
+  "LastChanged_Achievements": "2023-10-11T05:04:20.4574917+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:54.3101384+00:00",
-  "LastUpdate_Ratings": "2023-10-11T03:59:06.7631457+00:00",
-  "LastUpdate_Achievements": "2023-10-11T04:05:14.4785757+00:00"
+  "LastUpdate_Ratings": "2023-10-11T04:58:34.660556+00:00",
+  "LastUpdate_Achievements": "2023-10-11T05:04:20.4575105+00:00"
 }

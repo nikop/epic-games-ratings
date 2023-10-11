@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -356,9 +356,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 748,
+  "EOS_Progressed": 749,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 191,
+  "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2786,6 +2786,11 @@
       "Time": "2023-10-11T04:07:28.9705637+00:00",
       "NumProgressed": 748,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-11T05:06:13.379891+00:00",
+      "NumProgressed": 749,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -2942,7 +2947,7 @@
       "Name": "Mission Success",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "ACH_HUB2",
@@ -3029,15 +3034,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 748,
+      "Progressed": 749,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-10-05T15:02:30.1081746+00:00",
-  "LastChanged_Achievements": "2023-10-11T04:07:28.970563+00:00",
+  "LastChanged_Achievements": "2023-10-11T05:06:13.3798907+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:14.9821566+00:00",
-  "LastUpdate_Ratings": "2023-10-11T03:59:11.1519331+00:00",
-  "LastUpdate_Achievements": "2023-10-11T04:07:28.9705992+00:00"
+  "LastUpdate_Ratings": "2023-10-11T04:58:38.8934541+00:00",
+  "LastUpdate_Achievements": "2023-10-11T05:06:13.3799211+00:00"
 }

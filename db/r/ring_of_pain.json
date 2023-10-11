@@ -2,7 +2,7 @@
   "ID": "b9c7474c6bdf4e9ab8ca5a5da60059d4",
   "Name": "Ring of Pain",
   "ProductSlug": "ring-of-pain",
-  "Ranking_Rating": 435,
+  "Ranking_Rating": 436,
   "Ranking_Popularity": 126,
   "Ranking_PopularitySum": 82,
   "Ranking_EOS_Progress": 56,
@@ -3055,9 +3055,9 @@
       "Count": 738
     }
   ],
-  "EOS_Progressed": 237684,
+  "EOS_Progressed": 237685,
   "EOS_Completed": 281,
-  "EOS_NewPlayers": 462,
+  "EOS_NewPlayers": 459,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -21005,6 +21005,11 @@
       "Time": "2023-10-11T04:06:12.9638858+00:00",
       "NumProgressed": 237684,
       "NumCompleted": 281
+    },
+    {
+      "Time": "2023-10-11T05:05:10.0361888+00:00",
+      "NumProgressed": 237685,
+      "NumCompleted": 281
     }
   ],
   "TotalAchievements": 122,
@@ -21032,7 +21037,7 @@
       "Name": "Ambitious Intent",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 99827
+      "UsersEstimate": 99828
     },
     {
       "ID": "BOSSPIT",
@@ -21048,7 +21053,7 @@
       "Name": "First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 228177
+      "UsersEstimate": 228178
     },
     {
       "ID": "CURSE1HP",
@@ -21112,7 +21117,7 @@
       "Name": "Delving Deeper",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 99827
+      "UsersEstimate": 99828
     },
     {
       "ID": "DEPTH12HARD",
@@ -21136,7 +21141,7 @@
       "Name": "Getting A Glimpse",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 173509
+      "UsersEstimate": 173510
     },
     {
       "ID": "DEPTH6NOPOTIONS",
@@ -21288,7 +21293,7 @@
       "Name": "I Am Overburdened",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 83189
+      "UsersEstimate": 83190
     },
     {
       "ID": "FULLYPRESTIGESPOON",
@@ -21416,7 +21421,7 @@
       "Name": "Defeat The Dark",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 144987
+      "UsersEstimate": 144988
     },
     {
       "ID": "KILL1000",
@@ -21504,7 +21509,7 @@
       "Name": "Goodbye, Frog Friend",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 128349
+      "UsersEstimate": 128350
     },
     {
       "ID": "KILLNICEDOG",
@@ -21552,7 +21557,7 @@
       "Name": "Shootout",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 85566
+      "UsersEstimate": 85567
     },
     {
       "ID": "KILLSTONESHIFTERHARD",
@@ -21616,7 +21621,7 @@
       "Name": "C-C-Combo",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 99827
+      "UsersEstimate": 99828
     },
     {
       "ID": "NOEPIC",
@@ -21680,7 +21685,7 @@
       "Name": "Doing Time",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 38029
+      "UsersEstimate": 38030
     },
     {
       "ID": "POISON300",
@@ -21760,7 +21765,7 @@
       "Name": "Uncharted Territory",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 211539
+      "UsersEstimate": 211540
     },
     {
       "ID": "SPECIALROOMS10",
@@ -21768,7 +21773,7 @@
       "Name": "Explorer",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 147364
+      "UsersEstimate": 147365
     },
     {
       "ID": "SPEEDRUN10",
@@ -21784,7 +21789,7 @@
       "Name": "Sneaky",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 102204
+      "UsersEstimate": 102205
     },
     {
       "ID": "STEALTH100",
@@ -21800,7 +21805,7 @@
       "Name": "Flesh Wound",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 68928
+      "UsersEstimate": 68929
     },
     {
       "ID": "TELEPORTKNOCKBACKEXPLOSIVE50",
@@ -21832,7 +21837,7 @@
       "Name": "An Offering",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 147364
+      "UsersEstimate": 147365
     },
     {
       "ID": "VISIT35DUNGEONS",
@@ -21991,7 +21996,7 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 237684,
+      "Progressed": 237685,
       "Completed": 281
     }
   ],
@@ -21999,8 +22004,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-10-10T20:02:07.3546129+00:00",
-  "LastChanged_Achievements": "2023-10-11T04:06:12.9638852+00:00",
+  "LastChanged_Achievements": "2023-10-11T05:05:10.0361884+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:51.5450628+00:00",
-  "LastUpdate_Ratings": "2023-10-11T04:01:38.401423+00:00",
-  "LastUpdate_Achievements": "2023-10-11T04:06:12.9641734+00:00"
+  "LastUpdate_Ratings": "2023-10-11T05:00:36.3751203+00:00",
+  "LastUpdate_Achievements": "2023-10-11T05:05:10.0364118+00:00"
 }

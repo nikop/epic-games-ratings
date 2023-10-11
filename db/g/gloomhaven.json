@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 294,
   "Ranking_EOS_NewPlayers": 46,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2021-10-20T12:00:00+00:00",
@@ -2078,9 +2078,9 @@
       "Count": 211
     }
   ],
-  "EOS_Progressed": 12197,
+  "EOS_Progressed": 12202,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2170,
+  "EOS_NewPlayers": 2168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4803,6 +4803,11 @@
       "Time": "2023-10-11T04:07:13.4924591+00:00",
       "NumProgressed": 12197,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-11T05:06:00.4729902+00:00",
+      "NumProgressed": 12202,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -4999,7 +5004,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 5367
+      "UsersEstimate": 5369
     },
     {
       "ID": "Achievement_Trophy25",
@@ -5015,7 +5020,7 @@
       "Name": "Overkill",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 4147
+      "UsersEstimate": 4149
     },
     {
       "ID": "Achievement_Trophy27",
@@ -5031,15 +5036,15 @@
       "Name": "Vaccine Incoming",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 4025
+      "UsersEstimate": 4027
     },
     {
       "ID": "Achievement_Trophy29",
       "SetID": "724h0m0",
       "Name": "The Sniper",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 244
+      "UsersEstimate": 122
     },
     {
       "ID": "Achievement_Trophy30",
@@ -5047,7 +5052,7 @@
       "Name": "Spread the plague",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 3781
+      "UsersEstimate": 3783
     },
     {
       "ID": "Achievement_Trophy31",
@@ -5055,7 +5060,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 4269
+      "UsersEstimate": 4271
     },
     {
       "ID": "Achievement_Trophy32",
@@ -5103,7 +5108,7 @@
       "Name": "Get over here!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 2927
+      "UsersEstimate": 2928
     },
     {
       "ID": "Achievement_Trophy38",
@@ -5111,7 +5116,7 @@
       "Name": "Mine... All Mine...",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 2073
+      "UsersEstimate": 2074
     },
     {
       "ID": "Achievement_Trophy39",
@@ -5119,7 +5124,7 @@
       "Name": "Just when I thought I was out...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2317
+      "UsersEstimate": 2318
     },
     {
       "ID": "Achievement_Trophy40",
@@ -5302,7 +5307,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 12197,
+      "Progressed": 12202,
       "Completed": 1
     }
   ],
@@ -5310,8 +5315,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-10-11T01:40:13.5803246+00:00",
-  "LastChanged_Achievements": "2023-10-11T04:07:13.4924585+00:00",
+  "LastChanged_Achievements": "2023-10-11T05:06:00.4729897+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:04.4779784+00:00",
-  "LastUpdate_Ratings": "2023-10-11T03:58:06.2297451+00:00",
-  "LastUpdate_Achievements": "2023-10-11T04:07:13.4925338+00:00"
+  "LastUpdate_Ratings": "2023-10-11T04:57:44.6262505+00:00",
+  "LastUpdate_Achievements": "2023-10-11T05:06:00.4730481+00:00"
 }

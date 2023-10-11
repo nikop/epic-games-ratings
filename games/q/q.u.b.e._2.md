@@ -12,7 +12,7 @@ Number of Ratings: 94  (23.09.2022)
 | Power Glove | 54.00% | ~404 |
 | Forgotten Memories | 50.00% | ~374 |
 | Cogs in the Machine | 45.00% | ~337 |
-| Mission Success | 28.00% | ~209 |
+| Mission Success | 28.00% | ~210 |
 | There's No Place Like Home | 27.00% | ~202 |
 | Green Cube Killer | 23.00% | ~172 |
 | Infinity Loop | 21.00% | ~157 |
@@ -36,7 +36,7 @@ Number of Ratings: 94  (23.09.2022)
 | QUBE Master | 0.10% | ~1 |
 | Expert Collector | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 748 (Ranked 248)  
+Progressed: 749 (Ranked 248)  
 Completed: 1 (0.13%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 1 (0.13%) (Ranked 234)
 | 2023-10-08 | 696 | 1 |
 | 2023-10-09 | 723 | 1 |
 | 2023-10-10 | 745 | 1 |
-| 2023-10-11 | 748 | 1 |
+| 2023-10-11 | 749 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

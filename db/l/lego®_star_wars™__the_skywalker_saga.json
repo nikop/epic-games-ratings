@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 121,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 175,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -3416,9 +3416,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 51810,
+  "EOS_Progressed": 51811,
   "EOS_Completed": 238,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -12821,6 +12821,11 @@
       "Time": "2023-10-11T03:05:40.1243127+00:00",
       "NumProgressed": 51810,
       "NumCompleted": 238
+    },
+    {
+      "Time": "2023-10-11T05:05:15.2934778+00:00",
+      "NumProgressed": 51811,
+      "NumCompleted": 238
     }
   ],
   "TotalAchievements": 45,
@@ -12856,7 +12861,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 40930
+      "UsersEstimate": 40931
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -12984,7 +12989,7 @@
       "Name": "Return of the Jedi",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 16579
+      "UsersEstimate": 16580
     },
     {
       "ID": "COMPLETE_EPISODE_7",
@@ -13000,7 +13005,7 @@
       "Name": "The Last Jedi",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 11916
+      "UsersEstimate": 11917
     },
     {
       "ID": "COMPLETE_EPISODE_9",
@@ -13040,7 +13045,7 @@
       "Name": "Rishi Maze",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2590
+      "UsersEstimate": 2591
     },
     {
       "ID": "COMPLETE_KASHYYYK_KIJIMI",
@@ -13088,7 +13093,7 @@
       "Name": "\u0027\u0027Only one business in the Galaxy...\u0027\u0027",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 2590
+      "UsersEstimate": 2591
     },
     {
       "ID": "EARN_17K_STUDS",
@@ -13096,7 +13101,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 50256
+      "UsersEstimate": 50257
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -13136,7 +13141,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 36785
+      "UsersEstimate": 36786
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -13168,7 +13173,7 @@
       "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 27459
+      "UsersEstimate": 27460
     },
     {
       "ID": "TRUE_JEDI_ALL_LEVELS",
@@ -13184,22 +13189,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 37303
+      "UsersEstimate": 37304
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 51810,
+      "Progressed": 51811,
       "Completed": 238
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-10-10T13:03:11.9099654+00:00",
-  "LastChanged_Achievements": "2023-10-11T04:06:19.6584438+00:00",
+  "LastChanged_Achievements": "2023-10-11T05:05:15.2934773+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:29.5593708+00:00",
-  "LastUpdate_Ratings": "2023-10-11T03:57:49.6255983+00:00",
-  "LastUpdate_Achievements": "2023-10-11T04:06:19.6585369+00:00"
+  "LastUpdate_Ratings": "2023-10-11T04:57:29.5531681+00:00",
+  "LastUpdate_Achievements": "2023-10-11T05:05:15.2935515+00:00"
 }

@@ -5,17 +5,17 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | New Recruit | 90.00% | ~518 |
-| Off to a good start | 67.00% | ~385 |
+| Off to a good start | 66.00% | ~380 |
 | Do... or do not. There is no try | 53.00% | ~305 |
 | A good blaster at your side | 34.00% | ~196 |
-| Scrap collector | 21.00% | ~121 |
+| Scrap collector | 20.00% | ~115 |
 | I suggest a new strategy | 20.00% | ~115 |
-| Great shot, kid! | 19.00% | ~109 |
+| Great shot, kid! | 20.00% | ~115 |
 | All right, I'll give it a try | 18.00% | ~104 |
 | Shoot first | 18.00% | ~104 |
 | The power of the Force | 17.00% | ~98 |
-| Together we can rule the galaxy | 17.00% | ~98 |
 | Collector | 16.00% | ~92 |
+| Together we can rule the galaxy | 16.00% | ~92 |
 | Tell Jabba that I've got his money | 12.00% | ~69 |
 | Best star-pilot in the galaxy | 12.00% | ~69 |
 | Survivor | 12.00% | ~69 |
@@ -28,8 +28,8 @@
 | Distinguished | 8.00% | ~46 |
 | A tremor in the Force | 8.00% | ~46 |
 | Support the troops | 8.00% | ~46 |
-| Not bad for a little furball | 6.00% | ~34 |
-| Patience you must have | 6.00% | ~34 |
+| Not bad for a little furball | 6.00% | ~35 |
+| Patience you must have | 6.00% | ~35 |
 | I've been waiting for you | 5.00% | ~29 |
 | On the ball | 5.00% | ~29 |
 | Safety ain't the point of a joyride | 5.00% | ~29 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.30% | ~2 |
 | Crush them with one swift stroke… | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 575 (Ranked 263)  
+Progressed: 576 (Ranked 263)  
 Completed: 1 (0.17%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 1 (0.17%) (Ranked 227)
 | 2023-10-08 | 538 | 1 |
 | 2023-10-09 | 558 | 1 |
 | 2023-10-10 | 572 | 1 |
-| 2023-10-11 | 575 | 1 |
+| 2023-10-11 | 576 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

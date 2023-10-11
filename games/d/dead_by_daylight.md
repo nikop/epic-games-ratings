@@ -6,14 +6,14 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 1.00% | ~9,318 |
-| It wakes | 1.00% | ~9,318 |
-| Not half bad | 1.00% | ~9,318 |
-| Skillful | 1.00% | ~9,318 |
-| Make Some Noise | 1.00% | ~9,318 |
-| Handyman | 0.90% | ~8,386 |
-| Apt Survivor | 0.90% | ~8,386 |
-| Survival Treasures | 0.90% | ~8,386 |
+| Zealous | 1.00% | ~9,319 |
+| It wakes | 1.00% | ~9,319 |
+| Not half bad | 1.00% | ~9,319 |
+| Skillful | 1.00% | ~9,319 |
+| Make Some Noise | 1.00% | ~9,319 |
+| Handyman | 0.90% | ~8,387 |
+| Apt Survivor | 0.90% | ~8,387 |
+| Survival Treasures | 0.90% | ~8,387 |
 | Medic | 0.80% | ~7,455 |
 | Sorted | 0.80% | ~7,455 |
 | Resurgence | 0.80% | ~7,455 |
@@ -43,35 +43,35 @@ Number of Ratings: 70,340  (23.09.2022)
 | Every Last Drop | 0.40% | ~3,727 |
 | With Scars to Show | 0.40% | ~3,727 |
 | Flight to Freedom | 0.40% | ~3,727 |
-| Blood on your hands | 0.30% | ~2,795 |
-| Escape Artist | 0.30% | ~2,795 |
-| Made it out alive! | 0.30% | ~2,795 |
-| Gifts for the Fog | 0.30% | ~2,795 |
-| III-50 | 0.30% | ~2,795 |
-| Shock Therapy | 0.30% | ~2,795 |
-| All Aboard | 0.30% | ~2,795 |
-| Item of Obsession | 0.30% | ~2,795 |
-| House of Pain | 0.30% | ~2,795 |
-| Cottage Owner | 0.30% | ~2,795 |
-| Escaping the Nightmare | 0.30% | ~2,795 |
-| Holiday Get-Together | 0.30% | ~2,795 |
-| Near-Death Experience | 0.30% | ~2,795 |
-| Cherish your Life | 0.30% | ~2,795 |
-| Campbell's Chapel Legacy | 0.30% | ~2,795 |
-| Ancestor's Rite | 0.30% | ~2,795 |
-| Unforgettable Getaway | 0.30% | ~2,795 |
-| Cutting Out | 0.30% | ~2,795 |
-| Outrun Evil | 0.30% | ~2,795 |
-| Operation: Survival | 0.30% | ~2,795 |
-| Grim Pilgrimage | 0.30% | ~2,795 |
-| Old West Oasis | 0.30% | ~2,795 |
-| Classy Act | 0.30% | ~2,795 |
-| Raccoon City Recruit | 0.30% | ~2,795 |
-| A Fast Death | 0.30% | ~2,795 |
-| Lifting The Fog | 0.30% | ~2,795 |
-| Chorus of Chaos | 0.30% | ~2,795 |
-| One More Step | 0.30% | ~2,795 |
-| MU/TH/UR Dearest | 0.30% | ~2,795 |
+| Blood on your hands | 0.30% | ~2,796 |
+| Escape Artist | 0.30% | ~2,796 |
+| Made it out alive! | 0.30% | ~2,796 |
+| Gifts for the Fog | 0.30% | ~2,796 |
+| III-50 | 0.30% | ~2,796 |
+| Shock Therapy | 0.30% | ~2,796 |
+| All Aboard | 0.30% | ~2,796 |
+| Item of Obsession | 0.30% | ~2,796 |
+| House of Pain | 0.30% | ~2,796 |
+| Cottage Owner | 0.30% | ~2,796 |
+| Escaping the Nightmare | 0.30% | ~2,796 |
+| Holiday Get-Together | 0.30% | ~2,796 |
+| Near-Death Experience | 0.30% | ~2,796 |
+| Cherish your Life | 0.30% | ~2,796 |
+| Campbell's Chapel Legacy | 0.30% | ~2,796 |
+| Ancestor's Rite | 0.30% | ~2,796 |
+| Unforgettable Getaway | 0.30% | ~2,796 |
+| Cutting Out | 0.30% | ~2,796 |
+| Outrun Evil | 0.30% | ~2,796 |
+| Operation: Survival | 0.30% | ~2,796 |
+| Grim Pilgrimage | 0.30% | ~2,796 |
+| Old West Oasis | 0.30% | ~2,796 |
+| Classy Act | 0.30% | ~2,796 |
+| Raccoon City Recruit | 0.30% | ~2,796 |
+| A Fast Death | 0.30% | ~2,796 |
+| Lifting The Fog | 0.30% | ~2,796 |
+| Chorus of Chaos | 0.30% | ~2,796 |
+| One More Step | 0.30% | ~2,796 |
+| MU/TH/UR Dearest | 0.30% | ~2,796 |
 | A bite for the Entity | 0.20% | ~1,864 |
 | Blood on your face | 0.20% | ~1,864 |
 | Jump Scares | 0.20% | ~1,864 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~932 |
 | Adept Ripley | 0.10% | ~932 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 931,813 (Ranked 14)  
+Progressed: 931,858 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -410,7 +410,7 @@ Completed: 49 (0.01%) (Ranked 294)
 | 2023-10-08 | 927,984 | 49 |
 | 2023-10-09 | 929,902 | 49 |
 | 2023-10-10 | 931,511 | 49 |
-| 2023-10-11 | 931,813 | 49 |
+| 2023-10-11 | 931,858 | 49 |
 ## Awards
 Max (Diverse Characters): 33,734  (Ranked 15)  
 Sum: 261,070 (Ranked 13)  

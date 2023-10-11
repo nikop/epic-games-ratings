@@ -2794,9 +2794,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 33160,
+  "EOS_Progressed": 33161,
   "EOS_Completed": 265,
-  "EOS_NewPlayers": 918,
+  "EOS_NewPlayers": 917,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.8,
   "EosHistory": [
@@ -21779,6 +21779,11 @@
       "Time": "2023-10-11T04:05:44.2921612+00:00",
       "NumProgressed": 33160,
       "NumCompleted": 265
+    },
+    {
+      "Time": "2023-10-11T05:04:45.7139622+00:00",
+      "NumProgressed": 33161,
+      "NumCompleted": 265
     }
   ],
   "TotalAchievements": 60,
@@ -21806,7 +21811,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 18901
+      "UsersEstimate": 18902
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -21878,7 +21883,7 @@
       "Name": "A trip on sea, what fun it can be",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 11274
+      "UsersEstimate": 11275
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_1",
@@ -21902,7 +21907,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 16248
+      "UsersEstimate": 16249
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -21934,7 +21939,7 @@
       "Name": "MASS-O-BOT",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 7958
+      "UsersEstimate": 7959
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_2",
@@ -21950,7 +21955,7 @@
       "Name": "The last burger",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 12269
+      "UsersEstimate": 12270
     },
     {
       "ID": "ACH_D3_Campaign_Fire_1",
@@ -21958,7 +21963,7 @@
       "Name": "Prepare the grave",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 7958
+      "UsersEstimate": 7959
     },
     {
       "ID": "ACH_D3_Campaign_Fire_2",
@@ -21974,7 +21979,7 @@
       "Name": "Angel of Fire",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 7958
+      "UsersEstimate": 7959
     },
     {
       "ID": "ACH_D3_Campaign_Graves_1",
@@ -21982,7 +21987,7 @@
       "Name": "Braiiiiins!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 12269
+      "UsersEstimate": 12270
     },
     {
       "ID": "ACH_D3_Campaign_Graves_2",
@@ -22062,7 +22067,7 @@
       "Name": "Chorus of damnation",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 6300
+      "UsersEstimate": 6301
     },
     {
       "ID": "ACH_D3_Campaign_Infested_Completed",
@@ -22182,7 +22187,7 @@
       "Name": "Shadow hunter",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 9616
+      "UsersEstimate": 9617
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_Completed",
@@ -22190,7 +22195,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 22880
+      "UsersEstimate": 22881
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -22222,7 +22227,7 @@
       "Name": "We don\u2019t have time!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 6300
+      "UsersEstimate": 6301
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_2",
@@ -22269,15 +22274,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 33160,
+      "Progressed": 33161,
       "Completed": 265
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-10-10T17:59:44.4776675+00:00",
-  "LastChanged_Achievements": "2023-10-11T04:05:44.2921606+00:00",
+  "LastChanged_Achievements": "2023-10-11T05:04:45.7139618+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:08.7087735+00:00",
-  "LastUpdate_Ratings": "2023-10-11T04:00:40.2048944+00:00",
-  "LastUpdate_Achievements": "2023-10-11T04:05:44.2923343+00:00"
+  "LastUpdate_Ratings": "2023-10-11T04:59:53.1615539+00:00",
+  "LastUpdate_Achievements": "2023-10-11T05:04:45.7140994+00:00"
 }

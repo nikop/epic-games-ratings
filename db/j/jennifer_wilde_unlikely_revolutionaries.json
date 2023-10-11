@@ -2,10 +2,10 @@
   "ID": "e58f8f670f3243f690ed3c89cba89c9e",
   "Name": "Jennifer Wilde Unlikely Revolutionaries",
   "ProductSlug": "jennifer-wilde-unlikely-revolutionaries-7eda5e",
-  "Ranking_EOS_Progress": 425,
+  "Ranking_EOS_Progress": 422,
   "Ranking_EOS_Completed": 59,
-  "Ranking_EOS_NewPlayers": 403,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 402,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-06-09T11:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 59,
+  "EOS_Progressed": 60,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5.08,
+  "EOS_Completed_Percentage": 5,
   "EosHistory": [
     {
       "Time": "2023-05-23T11:00:16.5750246+00:00",
@@ -311,6 +311,11 @@
       "Time": "2023-09-23T09:04:06.124354+00:00",
       "NumProgressed": 59,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-11T05:04:26.2438532+00:00",
+      "NumProgressed": 60,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 10,
@@ -344,7 +349,7 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "1ejicho",
       "Name": "Bedtime Storyteller",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 100,
       "UsersEstimate": 11
     },
@@ -376,7 +381,7 @@
       "ID": "NEW_ACHIEVEMENT_1_7",
       "SetID": "1ejicho",
       "Name": "Card Sharp",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 100,
       "UsersEstimate": 8
     },
@@ -401,14 +406,14 @@
     {
       "ID": "1ejicho",
       "IsBase": true,
-      "Progressed": 59,
+      "Progressed": 60,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-06-11T16:59:26.254378+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:12.1227021+00:00",
-  "LastChanged_Achievements": "2023-10-11T04:05:21.4125608+00:00",
+  "LastChanged_Achievements": "2023-10-11T05:04:26.2438528+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:19.3773411+00:00",
-  "LastUpdate_Ratings": "2023-10-11T04:00:51.2212799+00:00",
-  "LastUpdate_Achievements": "2023-10-11T04:05:21.4125701+00:00"
+  "LastUpdate_Ratings": "2023-10-11T05:00:01.9800241+00:00",
+  "LastUpdate_Achievements": "2023-10-11T05:04:26.2438615+00:00"
 }

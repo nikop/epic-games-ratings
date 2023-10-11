@@ -4,8 +4,8 @@
   "ProductSlug": "voltaire-e1c517",
   "Ranking_EOS_Progress": 373,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 403,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 402,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-02-27T17:00:00+00:00",
     "PcReleaseDate": "2023-02-27T17:00:00+00:00",
@@ -277,9 +277,9 @@
       "ID": "FISH",
       "SetID": "3c20ib3",
       "Name": "C\u0027who?",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "GET_PETS",
@@ -357,9 +357,9 @@
       "ID": "KILL_ENEMIES",
       "SetID": "3c20ib3",
       "Name": "Free Spirit",
-      "Percentage": 0,
+      "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "KILL_GROVE",
@@ -437,9 +437,9 @@
       "ID": "SNOWSCALE",
       "SetID": "3c20ib3",
       "Name": "Do you wanna build a snowboiii?",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "SOUTHERN",
@@ -477,9 +477,9 @@
       "ID": "V_VEGAN",
       "SetID": "3c20ib3",
       "Name": "V is for Vegan",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     }
   ],
   "AchievementSets": [
@@ -494,8 +494,8 @@
   "FirstSeenRating": "2023-03-31T05:58:46.1122799+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.0090692+00:00",
   "LastChanged": "2023-03-31T05:58:46.11228+00:00",
-  "LastChanged_Achievements": "2023-10-11T04:06:39.750101+00:00",
+  "LastChanged_Achievements": "2023-10-11T05:05:31.8929295+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:09.2077841+00:00",
-  "LastUpdate_Ratings": "2023-10-11T03:57:26.3830169+00:00",
-  "LastUpdate_Achievements": "2023-10-11T04:06:39.7501248+00:00"
+  "LastUpdate_Ratings": "2023-10-11T04:57:08.1847747+00:00",
+  "LastUpdate_Achievements": "2023-10-11T05:05:31.8929498+00:00"
 }

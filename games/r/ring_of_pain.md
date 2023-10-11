@@ -1,41 +1,41 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.58 (Ranked 435)  
+Rating: 4.58 (Ranked 436)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~228,177 |
-| Uncharted Territory | 89.00% | ~211,539 |
-| Getting A Glimpse | 73.00% | ~173,509 |
+| First Steps | 96.00% | ~228,178 |
+| Uncharted Territory | 89.00% | ~211,540 |
+| Getting A Glimpse | 73.00% | ~173,510 |
 | A Quick Escape | 65.00% | ~154,495 |
-| Explorer | 62.00% | ~147,364 |
-| An Offering | 62.00% | ~147,364 |
-| Defeat The Dark | 61.00% | ~144,987 |
+| Explorer | 62.00% | ~147,365 |
+| An Offering | 62.00% | ~147,365 |
+| Defeat The Dark | 61.00% | ~144,988 |
 | Colorful Corpse | 58.00% | ~137,857 |
 | That Was Quick | 57.00% | ~135,480 |
 | A Donation | 57.00% | ~135,480 |
-| Goodbye, Frog Friend | 54.00% | ~128,349 |
+| Goodbye, Frog Friend | 54.00% | ~128,350 |
 | Heavy Hitter | 53.00% | ~125,973 |
 | Heartless | 46.00% | ~109,335 |
 | Spine Breaker | 46.00% | ~109,335 |
 | Deflection | 45.00% | ~106,958 |
-| Sneaky | 43.00% | ~102,204 |
-| Ambitious Intent | 42.00% | ~99,827 |
-| Delving Deeper | 42.00% | ~99,827 |
-| C-C-Combo | 42.00% | ~99,827 |
+| Sneaky | 43.00% | ~102,205 |
+| Ambitious Intent | 42.00% | ~99,828 |
+| Delving Deeper | 42.00% | ~99,828 |
+| C-C-Combo | 42.00% | ~99,828 |
 | Nothing To Lose | 40.00% | ~95,074 |
 | The Bestiary | 40.00% | ~95,074 |
 | What's Yours Is Mine | 39.00% | ~92,697 |
 | R.I.P | 37.00% | ~87,943 |
-| Shootout | 36.00% | ~85,566 |
-| I Am Overburdened | 35.00% | ~83,189 |
+| Shootout | 36.00% | ~85,567 |
+| I Am Overburdened | 35.00% | ~83,190 |
 | Cold Hearted | 34.00% | ~80,813 |
 | Dig Your Own Grave | 33.00% | ~78,436 |
 | Toxic | 33.00% | ~78,436 |
 | Who To Trust? | 32.00% | ~76,059 |
-| Flesh Wound | 29.00% | ~68,928 |
+| Flesh Wound | 29.00% | ~68,929 |
 | Walk It Off | 28.00% | ~66,552 |
 | Stone Touch | 28.00% | ~66,552 |
 | Shadow Walker | 28.00% | ~66,552 |
@@ -54,7 +54,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Max Damage! | 17.00% | ~40,406 |
 | Don't Ignore Me! | 17.00% | ~40,406 |
 | Illuminate, Eliminate | 17.00% | ~40,406 |
-| Doing Time | 16.00% | ~38,029 |
+| Doing Time | 16.00% | ~38,030 |
 | Spreading Plague | 15.00% | ~35,653 |
 | The Long Run | 15.00% | ~35,653 |
 | A Rough Road | 13.00% | ~30,899 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Down Under | 0.50% | ~1,188 |
 | Near Death Experience | 0.30% | ~713 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 237,684 (Ranked 56)  
+Progressed: 237,685 (Ranked 56)  
 Completed: 281 (0.12%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 281 (0.12%) (Ranked 239)
 | 2023-10-08 | 237,565 | 279 |
 | 2023-10-09 | 237,612 | 281 |
 | 2023-10-10 | 237,673 | 281 |
-| 2023-10-11 | 237,684 | 281 |
+| 2023-10-11 | 237,685 | 281 |
 ## Awards
 Max (Quickly Understood Controls): 1,497  (Ranked 126)  
 Sum: 11,599 (Ranked 82)  
