@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 276,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1126,10 +1126,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 702,
       "NumberOfAwardsMax": 99
+    },
+    {
+      "Time": "2023-10-11T17:58:19.1142924+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 703,
+      "NumberOfAwardsMax": 99
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 702,
+  "NumberOfAwards": 703,
   "NumberOfAwardsMax": 99,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -1137,7 +1143,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 86
+      "Count": 87
     },
     {
       "Text": "This game is Relaxing",
@@ -1200,7 +1206,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5519,
+  "EOS_Progressed": 5521,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
@@ -11090,6 +11096,11 @@
       "Time": "2023-10-11T17:06:24.6190594+00:00",
       "NumProgressed": 5519,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-11T18:05:34.4118191+00:00",
+      "NumProgressed": 5521,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -11253,7 +11264,7 @@
       "Name": "The Governator",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 938
+      "UsersEstimate": 939
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -11261,7 +11272,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4139
+      "UsersEstimate": 4141
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -11357,7 +11368,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2594
+      "UsersEstimate": 2595
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -11373,7 +11384,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2042
+      "UsersEstimate": 2043
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -11420,15 +11431,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5519,
+      "Progressed": 5521,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
-  "LastChanged": "2023-10-09T17:03:26.5989294+00:00",
-  "LastChanged_Achievements": "2023-10-11T17:06:24.6190591+00:00",
+  "LastChanged": "2023-10-11T17:58:19.1142922+00:00",
+  "LastChanged_Achievements": "2023-10-11T18:05:34.4118187+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:39.4137332+00:00",
-  "LastUpdate_Ratings": "2023-10-11T16:58:51.3964763+00:00",
-  "LastUpdate_Achievements": "2023-10-11T17:06:24.6191513+00:00"
+  "LastUpdate_Ratings": "2023-10-11T17:58:19.1142927+00:00",
+  "LastUpdate_Achievements": "2023-10-11T18:05:34.4118903+00:00"
 }

@@ -6,45 +6,45 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 1.00% | ~9,326 |
-| It wakes | 1.00% | ~9,326 |
-| Not half bad | 1.00% | ~9,326 |
-| Survival Treasures | 1.00% | ~9,326 |
-| Skillful | 1.00% | ~9,326 |
-| Make Some Noise | 1.00% | ~9,326 |
-| Handyman | 0.90% | ~8,393 |
-| Apt Survivor | 0.90% | ~8,393 |
-| Sorted | 0.90% | ~8,393 |
-| No one left behind | 0.80% | ~7,461 |
-| Medic | 0.80% | ~7,461 |
-| Resurgence | 0.80% | ~7,461 |
-| The Grand Sacrifice | 0.70% | ~6,528 |
-| Nerves of steel | 0.70% | ~6,528 |
-| Perfect Escape | 0.70% | ~6,528 |
-| Bloody Millionaire | 0.70% | ~6,528 |
-| I | 0.70% | ~6,528 |
-| Engineer | 0.70% | ~6,528 |
-| Healthy Obsession | 0.70% | ~6,528 |
-| Preemptive Strike | 0.70% | ~6,528 |
-| Humanitarian | 0.70% | ~6,528 |
+| Zealous | 1.00% | ~9,327 |
+| It wakes | 1.00% | ~9,327 |
+| Not half bad | 1.00% | ~9,327 |
+| Apt Survivor | 1.00% | ~9,327 |
+| Survival Treasures | 1.00% | ~9,327 |
+| Skillful | 1.00% | ~9,327 |
+| Make Some Noise | 1.00% | ~9,327 |
+| Handyman | 0.90% | ~8,395 |
+| Sorted | 0.90% | ~8,395 |
+| No one left behind | 0.80% | ~7,462 |
+| Medic | 0.80% | ~7,462 |
+| Resurgence | 0.80% | ~7,462 |
+| The Grand Sacrifice | 0.70% | ~6,529 |
+| Nerves of steel | 0.70% | ~6,529 |
+| Perfect Escape | 0.70% | ~6,529 |
+| Bloody Millionaire | 0.70% | ~6,529 |
+| I | 0.70% | ~6,529 |
+| Engineer | 0.70% | ~6,529 |
+| Healthy Obsession | 0.70% | ~6,529 |
+| Preemptive Strike | 0.70% | ~6,529 |
+| Humanitarian | 0.70% | ~6,529 |
 | Agonizing Escape | 0.60% | ~5,596 |
 | Backdoor Escape | 0.60% | ~5,596 |
 | I've got your back | 0.60% | ~5,596 |
 | Perfect Killing | 0.60% | ~5,596 |
 | Close Shave | 0.60% | ~5,596 |
-| Apt Killer | 0.50% | ~4,663 |
-| Risk it all | 0.50% | ~4,663 |
-| Vulture | 0.50% | ~4,663 |
-| II | 0.50% | ~4,663 |
-| Wounded Healer | 0.50% | ~4,663 |
-| Second Act | 0.50% | ~4,663 |
-| III | 0.40% | ~3,730 |
-| Cherish your Life | 0.40% | ~3,730 |
-| First to the Punch | 0.40% | ~3,730 |
-| Every Last Drop | 0.40% | ~3,730 |
-| Raccoon City Recruit | 0.40% | ~3,730 |
-| With Scars to Show | 0.40% | ~3,730 |
-| Flight to Freedom | 0.40% | ~3,730 |
+| Apt Killer | 0.50% | ~4,664 |
+| Risk it all | 0.50% | ~4,664 |
+| Vulture | 0.50% | ~4,664 |
+| II | 0.50% | ~4,664 |
+| Wounded Healer | 0.50% | ~4,664 |
+| Second Act | 0.50% | ~4,664 |
+| III | 0.40% | ~3,731 |
+| Cherish your Life | 0.40% | ~3,731 |
+| First to the Punch | 0.40% | ~3,731 |
+| Every Last Drop | 0.40% | ~3,731 |
+| Raccoon City Recruit | 0.40% | ~3,731 |
+| With Scars to Show | 0.40% | ~3,731 |
+| Flight to Freedom | 0.40% | ~3,731 |
 | A bite for the Entity | 0.30% | ~2,798 |
 | Blood on your hands | 0.30% | ~2,798 |
 | Escape Artist | 0.30% | ~2,798 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~933 |
 | Adept Ripley | 0.10% | ~933 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 932,610 (Ranked 14)  
+Progressed: 932,726 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -410,22 +410,22 @@ Completed: 49 (0.01%) (Ranked 295)
 | 2023-10-08 | 927,984 | 49 |
 | 2023-10-09 | 929,902 | 49 |
 | 2023-10-10 | 931,511 | 49 |
-| 2023-10-11 | 932,610 | 49 |
+| 2023-10-11 | 932,726 | 49 |
 ## Awards
 Max (Diverse Characters): 33,734  (Ranked 15)  
-Sum: 261,218 (Ranked 13)  
+Sum: 261,343 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 33,734 |
 | This game is Highly Recommended | 29,857 |
 | This game has Competitive Players | 29,535 |
-| This game has Amazing Characters | 29,480 |
-| This game is Extremely Fun | 29,132 |
+| This game has Amazing Characters | 29,521 |
+| This game is Extremely Fun | 29,182 |
 | This game has Challenging Combat | 28,755 |
 | This game has Quickly Understood Controls | 28,678 |
 | This game has Amazing Storytelling | 26,772 |
-| This game has a Competitive Community | 25,275 |
+| This game has a Competitive Community | 25,309 |
 | This game has Obsessive Gameplay | 16,768 |
 | This game is Great for Quick Sessions | 4,888 |
 ## Ratings History
@@ -691,4 +691,4 @@ Diff (max vs sum): 2
 | 2023-10-08 | 4.52 | - | 33,596 | 260,474 |
 | 2023-10-09 | 4.52 | - | 33,640 | 260,754 |
 | 2023-10-10 | 4.51 | - | 33,667 | 261,003 |
-| 2023-10-11 | 4.51 | - | 33,734 | 261,218 |
+| 2023-10-11 | 4.51 | - | 33,734 | 261,343 |

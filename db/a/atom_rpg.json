@@ -5,10 +5,10 @@
   "Ranking_Rating": 644,
   "Ranking_Popularity": 411,
   "Ranking_PopularitySum": 466,
-  "Ranking_EOS_Progress": 223,
+  "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -376,9 +376,9 @@
       "Count": 50
     }
   ],
-  "EOS_Progressed": 1276,
+  "EOS_Progressed": 1277,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2811,6 +2811,11 @@
       "Time": "2023-10-11T02:22:19.8351027+00:00",
       "NumProgressed": 1276,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-11T18:08:06.0733652+00:00",
+      "NumProgressed": 1277,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -2870,7 +2875,7 @@
       "Name": "Double agent",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "EARLY_ACCESS_1",
@@ -2878,7 +2883,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1263
+      "UsersEstimate": 1264
     },
     {
       "ID": "EXPERT_1",
@@ -2918,7 +2923,7 @@
       "Name": "Head Burst",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "INDY_1",
@@ -2974,7 +2979,7 @@
       "Name": "One HIT wonder",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -2982,7 +2987,7 @@
       "Name": "One shot, one kill",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "PACIFIST",
@@ -3084,9 +3089,9 @@
       "ID": "VVE",
       "SetID": "bf13m8j",
       "Name": "The Vitinsky Rifle",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 89
+      "UsersEstimate": 77
     },
     {
       "ID": "WANDERER_1",
@@ -3109,15 +3114,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1276,
+      "Progressed": 1277,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-09-29T01:41:28.9416414+00:00",
-  "LastChanged_Achievements": "2023-10-11T17:09:07.3206653+00:00",
+  "LastChanged_Achievements": "2023-10-11T18:08:06.073365+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:48.8446992+00:00",
-  "LastUpdate_Ratings": "2023-10-11T16:57:41.5789135+00:00",
-  "LastUpdate_Achievements": "2023-10-11T17:09:07.3207047+00:00"
+  "LastUpdate_Ratings": "2023-10-11T17:57:10.46602+00:00",
+  "LastUpdate_Achievements": "2023-10-11T18:08:06.0733976+00:00"
 }

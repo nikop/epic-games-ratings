@@ -33,7 +33,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Developing Cities | 0.90% | ~131 |
 | Christianity | 0.90% | ~131 |
 | Babylonian Paganism | 0.90% | ~131 |
+| Greek Paganism | 0.90% | ~131 |
 | Ambitious | 0.80% | ~117 |
+| Fountainhead | 0.80% | ~117 |
 | Magnificent | 0.80% | ~117 |
 | Wise | 0.80% | ~117 |
 | Strong Cities | 0.80% | ~117 |
@@ -42,13 +44,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lighthouse | 0.80% | ~117 |
 | Pyramids | 0.80% | ~117 |
 | Carthaginian Paganism | 0.80% | ~117 |
-| Greek Paganism | 0.80% | ~117 |
 | Zoroastrianism | 0.80% | ~117 |
 | Kushite Pyramids | 0.80% | ~117 |
 | Brilliant | 0.70% | ~102 |
-| Fountainhead | 0.70% | ~102 |
 | Furious Family | 0.70% | ~102 |
 | Great Ziggurat | 0.70% | ~102 |
+| Musaeum | 0.70% | ~102 |
 | Learn to Play 1 | 0.70% | ~102 |
 | Manichaeism | 0.70% | ~102 |
 | Egyptian Paganism | 0.70% | ~102 |
@@ -61,7 +62,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Artisans | 0.60% | ~88 |
 | Apadana | 0.60% | ~88 |
 | Colossus | 0.60% | ~88 |
-| Musaeum | 0.60% | ~88 |
 | Necropolis | 0.60% | ~88 |
 | Learn to Play 2 | 0.60% | ~88 |
 | Regicide | 0.50% | ~73 |
@@ -259,6 +259,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Role-Playing | 0.10% | ~15 |
 | Time Victory | 0.10% | ~15 |
 | Necropolis in Waset | 0.10% | ~15 |
+| Win a Free-For-All Game (>2 Players) | 0.10% | ~15 |
 | Win a Hotseat Game | 0.10% | ~15 |
 | Win a LAN Game | 0.10% | ~15 |
 | Win a MP Teams Game | 0.10% | ~15 |
@@ -343,13 +344,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus in Rhodes | 0.00% | ~0 |
 | One City Challenge | 0.00% | ~0 |
 | Win a 1-v-1 Game | 0.00% | ~0 |
-| Win a Free-For-All Game (>2 Players) | 0.00% | ~0 |
 | Deposed Tribe | 0.00% | ~0 |
 | Religious Dissent | 0.00% | ~0 |
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,598 (Ranked 134)  
+Progressed: 14,599 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -523,7 +523,7 @@ Completed: 5 (0.03%) (Ranked 282)
 | 2023-10-08 | 14,534 | 5 |
 | 2023-10-09 | 14,562 | 5 |
 | 2023-10-10 | 14,586 | 5 |
-| 2023-10-11 | 14,598 | 5 |
+| 2023-10-11 | 14,599 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,833 (Ranked 210)  

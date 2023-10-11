@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 322,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1268,9 +1268,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 16002,
+  "EOS_Progressed": 16003,
   "EOS_Completed": 74,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -7368,6 +7368,11 @@
       "Time": "2023-10-11T17:07:34.4942671+00:00",
       "NumProgressed": 16002,
       "NumCompleted": 74
+    },
+    {
+      "Time": "2023-10-11T18:06:39.4158654+00:00",
+      "NumProgressed": 16003,
+      "NumCompleted": 74
     }
   ],
   "TotalAchievements": 47,
@@ -7387,7 +7392,7 @@
       "Name": "Armed to the Teeth",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "BACKSTAB_BLIND",
@@ -7691,7 +7696,7 @@
       "Name": "Big Spender",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "DESTROY_FACTORY_CRATES",
@@ -7707,7 +7712,7 @@
       "Name": "Information Overload",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "FIND_ESCAPE_POD",
@@ -7754,13 +7759,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16002,
+      "Progressed": 16003,
       "Completed": 74
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3928,
+      "Progressed": 3929,
       "Completed": 29
     }
   ],
@@ -7768,8 +7773,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-10-11T01:40:36.3905912+00:00",
-  "LastChanged_Achievements": "2023-10-11T17:07:34.4942656+00:00",
+  "LastChanged_Achievements": "2023-10-11T18:06:39.4158649+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:42.1590556+00:00",
-  "LastUpdate_Ratings": "2023-10-11T16:59:38.1528977+00:00",
-  "LastUpdate_Achievements": "2023-10-11T17:07:34.4943592+00:00"
+  "LastUpdate_Ratings": "2023-10-11T17:58:56.2054573+00:00",
+  "LastUpdate_Achievements": "2023-10-11T18:06:39.4159261+00:00"
 }

@@ -36,7 +36,7 @@
 | Operative | 41.00% | ~268 |
 | Scholar | 41.00% | ~268 |
 | Power Full | 40.00% | ~261 |
-| The Professor | 37.00% | ~242 |
+| The Professor | 38.00% | ~248 |
 | Completionist | 36.00% | ~235 |
 | The Archangel | 36.00% | ~235 |
 | The Convict | 35.00% | ~229 |
@@ -49,9 +49,9 @@
 | The Assassin | 32.00% | ~209 |
 | The Justicar | 32.00% | ~209 |
 | The Quarian | 32.00% | ~209 |
+| Battlemaster | 32.00% | ~209 |
 | The Prodigal | 32.00% | ~209 |
 | A Personal Touch | 31.00% | ~202 |
-| Battlemaster | 31.00% | ~202 |
 | Ghost of the Father | 31.00% | ~202 |
 | The Cure | 31.00% | ~202 |
 | Big Game Hunter | 31.00% | ~202 |
@@ -66,10 +66,10 @@
 | Digital Exorcist | 29.00% | ~189 |
 | Driven | 29.00% | ~189 |
 | Focused | 28.00% | ~183 |
+| Friend or Foe | 28.00% | ~183 |
 | Doppelganger | 28.00% | ~183 |
 | Bringer of War | 28.00% | ~183 |
 | First Aid Specialist | 27.00% | ~176 |
-| Friend or Foe | 27.00% | ~176 |
 | Mobilizer | 27.00% | ~176 |
 | Mission Accomplished | 26.00% | ~170 |
 | Suicide Mission | 26.00% | ~170 |

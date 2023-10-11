@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Noctuan Champion | 29.00% | ~15 |
-| Apian Champion | 23.00% | ~12 |
+| Apian Champion | 25.00% | ~13 |
 | Endless Tricks | 21.00% | ~11 |
 | Meissa's Savior | 21.00% | ~11 |
 | Lacertian Champion | 21.00% | ~11 |
@@ -15,11 +15,11 @@
 | Purification Pioneer | 19.00% | ~10 |
 | Sanctuary Guardian | 19.00% | ~10 |
 | Shard Spender | 19.00% | ~10 |
+| Stellar Dismantler | 19.00% | ~10 |
 | Wild's Keeper | 19.00% | ~10 |
 | Eridanian Champion | 19.00% | ~10 |
+| Anomaly Destroyer | 17.00% | ~9 |
 | Mind Illuminator | 17.00% | ~9 |
-| Stellar Dismantler | 17.00% | ~9 |
-| Anomaly Destroyer | 15.00% | ~8 |
 | Aquarian Champion | 15.00% | ~8 |
 | Behenian Champion | 15.00% | ~8 |
 | Heart Gate | 13.00% | ~7 |
@@ -43,6 +43,7 @@
 | The Dark Moon | 6.00% | ~3 |
 | The Distorted Sage | 6.00% | ~3 |
 | Behenian Hero | 6.00% | ~3 |
+| Behenian Mastery | 6.00% | ~3 |
 | Lacertian Hero | 6.00% | ~3 |
 | Artificer | 4.00% | ~2 |
 | Astrarium of Holding | 4.00% | ~2 |
@@ -50,7 +51,6 @@
 | Reflexive Mind | 4.00% | ~2 |
 | Sentinelphobic | 4.00% | ~2 |
 | Aquarian Mastery | 4.00% | ~2 |
-| Behenian Mastery | 4.00% | ~2 |
 | Lacertian Mastery | 4.00% | ~2 |
 | Anomaly Master | 2.00% | ~1 |
 | Arch-Oracle | 2.00% | ~1 |

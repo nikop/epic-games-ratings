@@ -8752,10 +8752,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 45568,
       "NumberOfAwardsMax": 23430
+    },
+    {
+      "Time": "2023-10-11T18:00:06.5907829+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 45575,
+      "NumberOfAwardsMax": 23430
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 45568,
+  "NumberOfAwards": 45575,
   "NumberOfAwardsMax": 23430,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8781,7 +8787,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1074
+      "Count": 1081
     },
     {
       "Text": "This game is Great for Beginners",
@@ -8832,9 +8838,9 @@
       "Count": 705
     }
   ],
-  "EOS_Progressed": 298167,
+  "EOS_Progressed": 298169,
   "EOS_Completed": 483,
-  "EOS_NewPlayers": 361,
+  "EOS_NewPlayers": 362,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -27542,6 +27548,11 @@
       "Time": "2023-10-11T17:04:34.4972064+00:00",
       "NumProgressed": 298167,
       "NumCompleted": 483
+    },
+    {
+      "Time": "2023-10-11T18:03:49.9888075+00:00",
+      "NumProgressed": 298169,
+      "NumCompleted": 483
     }
   ],
   "TotalAchievements": 45,
@@ -27577,7 +27588,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 32798
+      "UsersEstimate": 32799
     },
     {
       "ID": "PFA_13",
@@ -27601,7 +27612,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23853
+      "UsersEstimate": 23854
     },
     {
       "ID": "PFA_16",
@@ -27609,7 +27620,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32798
+      "UsersEstimate": 32799
     },
     {
       "ID": "PFA_17",
@@ -27625,7 +27636,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23853
+      "UsersEstimate": 23854
     },
     {
       "ID": "PFA_19",
@@ -27633,7 +27644,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23853
+      "UsersEstimate": 23854
     },
     {
       "ID": "PFA_2",
@@ -27681,7 +27692,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32798
+      "UsersEstimate": 32799
     },
     {
       "ID": "PFA_25",
@@ -27737,7 +27748,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32798
+      "UsersEstimate": 32799
     },
     {
       "ID": "PFA_31",
@@ -27809,7 +27820,7 @@
       "Name": "Coasting Along",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32798
+      "UsersEstimate": 32799
     },
     {
       "ID": "PFA_4",
@@ -27912,16 +27923,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298167,
+      "Progressed": 298169,
       "Completed": 483
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-10-11T13:06:14.3152617+00:00",
-  "LastChanged_Achievements": "2023-10-11T17:04:34.4972051+00:00",
+  "LastChanged": "2023-10-11T18:00:06.5907827+00:00",
+  "LastChanged_Achievements": "2023-10-11T18:03:49.9888071+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:01.0338203+00:00",
-  "LastUpdate_Ratings": "2023-10-11T17:00:53.8938753+00:00",
-  "LastUpdate_Achievements": "2023-10-11T17:04:34.4973607+00:00"
+  "LastUpdate_Ratings": "2023-10-11T18:00:06.5907833+00:00",
+  "LastUpdate_Achievements": "2023-10-11T18:03:49.9889227+00:00"
 }

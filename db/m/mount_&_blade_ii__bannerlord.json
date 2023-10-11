@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -7881,9 +7881,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 63087,
+  "EOS_Progressed": 63089,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 396,
+  "EOS_NewPlayers": 395,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26386,6 +26386,11 @@
       "Time": "2023-10-11T17:08:55.429844+00:00",
       "NumProgressed": 63087,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-11T18:07:55.1914475+00:00",
+      "NumProgressed": 63089,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -26397,7 +26402,7 @@
       "Name": "Against all odds",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7570
+      "UsersEstimate": 7571
     },
     {
       "ID": "Apple of my eye",
@@ -26525,7 +26530,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8201
+      "UsersEstimate": 8202
     },
     {
       "ID": "Great Granny",
@@ -26629,7 +26634,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 24604
+      "UsersEstimate": 24605
     },
     {
       "ID": "Lawmaker",
@@ -26757,7 +26762,7 @@
       "Name": "This Is Our Land",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7570
+      "UsersEstimate": 7571
     },
     {
       "ID": "This is Sparta",
@@ -26789,7 +26794,7 @@
       "Name": "Veni vidi vici",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2523
+      "UsersEstimate": 2524
     },
     {
       "ID": "What have the Romans ever done for us",
@@ -26804,15 +26809,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 63087,
+      "Progressed": 63089,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-11T15:00:05.8731605+00:00",
-  "LastChanged_Achievements": "2023-10-11T17:08:55.4298437+00:00",
+  "LastChanged_Achievements": "2023-10-11T18:07:55.1914472+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:27.1626185+00:00",
-  "LastUpdate_Ratings": "2023-10-11T17:01:13.2497892+00:00",
-  "LastUpdate_Achievements": "2023-10-11T17:08:55.4300014+00:00"
+  "LastUpdate_Ratings": "2023-10-11T18:00:22.7212258+00:00",
+  "LastUpdate_Achievements": "2023-10-11T18:07:55.1915672+00:00"
 }

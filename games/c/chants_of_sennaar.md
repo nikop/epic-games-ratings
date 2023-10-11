@@ -9,6 +9,7 @@
 | The Preacher's fate | 8.00% | ~22 |
 | The great escape | 8.00% | ~22 |
 | A new dawn | 6.00% | ~17 |
+| Peace walker | 5.00% | ~14 |
 | Cable guy | 5.00% | ~14 |
 | A good beginning | 5.00% | ~14 |
 | Half the way | 5.00% | ~14 |
@@ -18,15 +19,14 @@
 | One last step | 5.00% | ~14 |
 | I did it | 4.00% | ~11 |
 | In this together | 4.00% | ~11 |
-| Peace walker | 4.00% | ~11 |
 | Open door | 4.00% | ~11 |
 | Feels like springtime | 4.00% | ~11 |
 | Alchemists Express | 4.00% | ~11 |
+| Champollion | 4.00% | ~11 |
 | Free at last | 3.00% | ~8 |
 | For its own good | 3.00% | ~8 |
 | A Link to the Past | 3.00% | ~8 |
 | Rascal | 3.00% | ~8 |
-| Champollion | 3.00% | ~8 |
 | A great audience | 1.00% | ~3 |
 | Fashion victim | 0.70% | ~2 |
 ## Popularity (Based on EOS Achievements)

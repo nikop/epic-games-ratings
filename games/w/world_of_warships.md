@@ -1,36 +1,36 @@
 # World of Warships
 [Store](https://store.epicgames.com/en-US/p/world-of-warships)  
 [View Rawdata](../../db/w/world_of_warships.json)  
-Rating: 4.41 (Ranked 698)  
+Rating: 4.41 (Ranked 697)  
 Number of Ratings: 4,733  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 82.00% | ~30,652 |
-| Initial Capital | 70.00% | ~26,167 |
-| Moneybags | 49.00% | ~18,317 |
-| Junior Supply Officer | 49.00% | ~18,317 |
-| Naval Warfare. Arson | 37.00% | ~13,831 |
-| Naval Warfare. Ramming | 36.00% | ~13,457 |
-| Naval Constructor | 35.00% | ~13,083 |
-| Amateur | 34.00% | ~12,710 |
-| Naval Warfare. Tactics | 34.00% | ~12,710 |
-| Naval Warfare. Weaponry Basics | 26.00% | ~9,719 |
-| Naval Warfare. Lucky Shot | 23.00% | ~8,598 |
-| Naval Warfare. Flooding | 22.00% | ~8,224 |
-| Business Magnate | 20.00% | ~7,476 |
-| Battle Hero | 18.00% | ~6,729 |
-| Supply Officer | 16.00% | ~5,981 |
-| Smooth Supply | 16.00% | ~5,981 |
-| Warrior | 15.00% | ~5,607 |
-| Veteran | 9.00% | ~3,364 |
-| Shield | 5.00% | ~1,869 |
-| Legend of the Seas | 4.00% | ~1,495 |
-| Chief Naval Architect | 4.00% | ~1,495 |
-| Important Missions | 4.00% | ~1,495 |
-| Senior Supply Officer | 3.00% | ~1,121 |
-| Weather Beaten | 3.00% | ~1,121 |
-| Guardian | 3.00% | ~1,121 |
+| Junior Naval Designer | 82.00% | ~30,670 |
+| Initial Capital | 70.00% | ~26,181 |
+| Moneybags | 49.00% | ~18,327 |
+| Junior Supply Officer | 49.00% | ~18,327 |
+| Naval Warfare. Arson | 37.00% | ~13,839 |
+| Naval Warfare. Ramming | 36.00% | ~13,465 |
+| Naval Constructor | 35.00% | ~13,091 |
+| Amateur | 34.00% | ~12,717 |
+| Naval Warfare. Tactics | 34.00% | ~12,717 |
+| Naval Warfare. Weaponry Basics | 26.00% | ~9,725 |
+| Naval Warfare. Lucky Shot | 23.00% | ~8,602 |
+| Naval Warfare. Flooding | 22.00% | ~8,228 |
+| Business Magnate | 20.00% | ~7,480 |
+| Battle Hero | 18.00% | ~6,732 |
+| Supply Officer | 16.00% | ~5,984 |
+| Smooth Supply | 16.00% | ~5,984 |
+| Warrior | 15.00% | ~5,610 |
+| Veteran | 9.00% | ~3,366 |
+| Shield | 5.00% | ~1,870 |
+| Legend of the Seas | 4.00% | ~1,496 |
+| Chief Naval Architect | 4.00% | ~1,496 |
+| Important Missions | 4.00% | ~1,496 |
+| Senior Supply Officer | 3.00% | ~1,122 |
+| Weather Beaten | 3.00% | ~1,122 |
+| Guardian | 3.00% | ~1,122 |
 | Bane of the Oceans | 2.00% | ~748 |
 | "Science of Victory" | 2.00% | ~748 |
 | Special Orders | 2.00% | ~748 |
@@ -38,8 +38,8 @@ Number of Ratings: 4,733  (23.09.2022)
 | Exterminator | 2.00% | ~748 |
 | American Cruisers | 2.00% | ~748 |
 | Old-Timer | 1.00% | ~374 |
-| Secret Instructions | 0.90% | ~336 |
-| Raider | 0.90% | ~336 |
+| Secret Instructions | 0.90% | ~337 |
+| Raider | 0.90% | ~337 |
 | Experienced One | 0.70% | ~262 |
 | Ravager | 0.50% | ~187 |
 | "Yamamoto Isoroku" | 0.50% | ~187 |
@@ -51,7 +51,7 @@ Number of Ratings: 4,733  (23.09.2022)
 | "Yamamoto Isoroku" with Honors | 0.10% | ~37 |
 | Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 37,381 (Ranked 112)  
+Progressed: 37,402 (Ranked 112)  
 Completed: 0 (0.00%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,10 +110,10 @@ Completed: 0 (0.00%) (Ranked 313)
 | 2023-10-08 | 36,330 | 0 |
 | 2023-10-09 | 36,773 | 0 |
 | 2023-10-10 | 37,123 | 0 |
-| 2023-10-11 | 37,381 | 0 |
+| 2023-10-11 | 37,402 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 1,405  (Ranked 131)  
-Sum: 11,740 (Ranked 81)  
+Sum: 11,743 (Ranked 81)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
@@ -125,7 +125,7 @@ Diff (max vs sum): 50
 | This game is Extremely Fun | 1,344 |
 | This game has Realistic Visuals | 1,236 |
 | This game has Amazing Storytelling | 1,148 |
-| This game has a Competitive Community | 1,089 |
+| This game has a Competitive Community | 1,092 |
 | This game has Amazing Characters | 942 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -402,4 +402,4 @@ Diff (max vs sum): 50
 | 2023-10-08 | 4.41 | - | 1,397 | 11,675 |
 | 2023-10-09 | 4.41 | - | 1,400 | 11,700 |
 | 2023-10-10 | 4.41 | - | 1,400 | 11,723 |
-| 2023-10-11 | 4.41 | - | 1,405 | 11,740 |
+| 2023-10-11 | 4.41 | - | 1,405 | 11,743 |

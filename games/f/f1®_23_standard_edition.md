@@ -5,25 +5,25 @@ Rating: 4.66 (Ranked 279)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 95.00% | ~2,990 |
-| On the Top Step | 89.00% | ~2,801 |
-| Setting up for Success | 78.00% | ~2,455 |
-| Team Orders | 76.00% | ~2,392 |
-| Engineer | 56.00% | ~1,762 |
+| Getting on the Step | 95.00% | ~2,992 |
+| On the Top Step | 89.00% | ~2,803 |
+| Setting up for Success | 78.00% | ~2,456 |
+| Team Orders | 76.00% | ~2,393 |
+| Engineer | 56.00% | ~1,763 |
 | Familiar Faces | 50.00% | ~1,574 |
-| Going the Extra Mile | 44.00% | ~1,385 |
-| Sharing the Love | 42.00% | ~1,322 |
-| Hitting a Season | 38.00% | ~1,196 |
-| Challenge Yourself | 35.00% | ~1,101 |
+| Going the Extra Mile | 44.00% | ~1,386 |
+| Sharing the Love | 42.00% | ~1,323 |
+| Hitting a Season | 38.00% | ~1,197 |
+| Challenge Yourself | 35.00% | ~1,102 |
 | A Dozen Pieces | 33.00% | ~1,039 |
 | Making History | 33.00% | ~1,039 |
-| Network Success | 26.00% | ~818 |
-| Writing a new Chapter | 26.00% | ~818 |
-| Spring Cleaning | 24.00% | ~755 |
-| Reduce | 20.00% | ~629 |
-| Ups and Downs | 20.00% | ~629 |
+| Network Success | 26.00% | ~819 |
+| Writing a new Chapter | 26.00% | ~819 |
+| Spring Cleaning | 24.00% | ~756 |
+| Reduce | 20.00% | ~630 |
+| Ups and Downs | 20.00% | ~630 |
 | Crucial Combo | 19.00% | ~598 |
-| One for the Book | 18.00% | ~566 |
+| One for the Book | 18.00% | ~567 |
 | Reuse | 17.00% | ~535 |
 | Proving Them Wrong | 17.00% | ~535 |
 | Gathering Dust | 16.00% | ~504 |
@@ -55,7 +55,7 @@ Rating: 4.66 (Ranked 279)
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,147 (Ranked 189)  
+Progressed: 3,149 (Ranked 189)  
 Completed: 0 (0.00%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 0 (0.00%) (Ranked 313)
 | 2023-10-08 | 3,083 | 0 |
 | 2023-10-09 | 3,114 | 0 |
 | 2023-10-10 | 3,132 | 0 |
-| 2023-10-11 | 3,147 | 0 |
+| 2023-10-11 | 3,149 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

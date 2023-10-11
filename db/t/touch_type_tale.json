@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3692,
+  "EOS_Progressed": 3693,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -4124,6 +4124,11 @@
       "Time": "2023-10-11T00:05:21.8808344+00:00",
       "NumProgressed": 3692,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-11T18:07:00.7239378+00:00",
+      "NumProgressed": 3693,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -4143,7 +4148,7 @@
       "Name": "Sniped",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "bonus3",
@@ -4183,7 +4188,7 @@
       "Name": "You and what Army?",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 3249
+      "UsersEstimate": 3250
     },
     {
       "ID": "campaign10",
@@ -4191,7 +4196,7 @@
       "Name": "Leave Them no Cake",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "campaign11",
@@ -4207,7 +4212,7 @@
       "Name": "Would be a Shame if Someone Would Waste Those Units",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "campaign13",
@@ -4215,7 +4220,7 @@
       "Name": "Damage Control",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "campaign14",
@@ -4239,7 +4244,7 @@
       "Name": "Master of the Brawl",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "campaign17",
@@ -4271,7 +4276,7 @@
       "Name": "Flanked!",
       "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 2806
+      "UsersEstimate": 2807
     },
     {
       "ID": "campaign20",
@@ -4287,7 +4292,7 @@
       "Name": "Economics 101",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 2252
+      "UsersEstimate": 2253
     },
     {
       "ID": "campaign4",
@@ -4398,7 +4403,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3692,
+      "Progressed": 3693,
       "Completed": 11
     }
   ],
@@ -4406,8 +4411,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-10-11T17:07:57.3295678+00:00",
+  "LastChanged_Achievements": "2023-10-11T18:07:00.7239369+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:08.2021033+00:00",
-  "LastUpdate_Ratings": "2023-10-11T17:00:02.3423834+00:00",
-  "LastUpdate_Achievements": "2023-10-11T17:07:57.3296189+00:00"
+  "LastUpdate_Ratings": "2023-10-11T17:59:19.5367476+00:00",
+  "LastUpdate_Achievements": "2023-10-11T18:07:00.7239774+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "8d473e8643ba4e50a5b3a01f31b80c8c",
   "Name": "Don\u0027t Byte Your Tongue",
   "ProductSlug": "dont-byte-your-tongue-da237b",
-  "Ranking_EOS_Progress": 488,
+  "Ranking_EOS_Progress": 486,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-04-07T07:00:00+00:00",
     "PcReleaseDate": "2023-04-07T07:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18,
+  "EOS_Progressed": 19,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -60,6 +60,11 @@
     {
       "Time": "2023-07-16T02:44:33.0256752+00:00",
       "NumProgressed": 18,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-11T18:03:30.9300681+00:00",
+      "NumProgressed": 19,
       "NumCompleted": 0
     }
   ],
@@ -182,7 +187,7 @@
       "ID": "LEVEL_1",
       "SetID": "dkj0bmo",
       "Name": "Hello, World!",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -246,7 +251,7 @@
       "ID": "NEW_CHALLENGE",
       "SetID": "dkj0bmo",
       "Name": "I Need A Challenge",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -254,7 +259,7 @@
       "ID": "NPC_CHAT",
       "SetID": "dkj0bmo",
       "Name": "Hello, Friend!",
-      "Percentage": 28,
+      "Percentage": 26,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -319,14 +324,14 @@
     {
       "ID": "dkj0bmo",
       "IsBase": true,
-      "Progressed": 18,
+      "Progressed": 19,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-12T10:01:11.6414122+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:46.226412+00:00",
-  "LastChanged_Achievements": "2023-10-11T17:04:14.4282653+00:00",
+  "LastChanged_Achievements": "2023-10-11T18:03:30.9300678+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:16.4149967+00:00",
-  "LastUpdate_Ratings": "2023-10-11T17:02:35.9788954+00:00",
-  "LastUpdate_Achievements": "2023-10-11T17:04:14.4282925+00:00"
+  "LastUpdate_Ratings": "2023-10-11T18:01:43.3731787+00:00",
+  "LastUpdate_Achievements": "2023-10-11T18:03:30.9300901+00:00"
 }

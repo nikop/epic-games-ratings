@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 12549,
+  "EOS_Progressed": 12550,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 2460,
+  "EOS_NewPlayers": 2447,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -2510,6 +2510,11 @@
       "Time": "2023-10-11T17:07:15.3183193+00:00",
       "NumProgressed": 12549,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-10-11T18:06:20.5924693+00:00",
+      "NumProgressed": 12550,
+      "NumCompleted": 52
     }
   ],
   "AchievementsAdded": "2023-09-20T21:06:26.7864758+00:00",
@@ -2546,7 +2551,7 @@
       "Name": "On Rails Experience",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 7027
+      "UsersEstimate": 7028
     },
     {
       "ID": "achievement_13",
@@ -2554,7 +2559,7 @@
       "Name": "Platforming Prodigy",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1130
     },
     {
       "ID": "achievement_14",
@@ -2578,7 +2583,7 @@
       "Name": "Mood Swing",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "achievement_17",
@@ -2634,7 +2639,7 @@
       "Name": "Struck A Pose",
       "Percentage": 88,
       "XP": 50,
-      "UsersEstimate": 11043
+      "UsersEstimate": 11044
     },
     {
       "ID": "achievement_5",
@@ -2642,7 +2647,7 @@
       "Name": "Plastic Prison Breakers",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 2133
+      "UsersEstimate": 2134
     },
     {
       "ID": "achievement_6",
@@ -2658,7 +2663,7 @@
       "Name": "Look At Him Go",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 9663
+      "UsersEstimate": 9664
     },
     {
       "ID": "achievement_8",
@@ -2681,13 +2686,13 @@
     {
       "ID": "2bk7oji",
       "IsBase": true,
-      "Progressed": 12549,
+      "Progressed": 12550,
       "Completed": 52
     }
   ],
   "FirstSeenAchievements": "2023-07-27T23:04:38.3880568+00:00",
-  "LastChanged_Achievements": "2023-10-11T17:07:15.318319+00:00",
+  "LastChanged_Achievements": "2023-10-11T18:06:20.5924687+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:28.0662391+00:00",
-  "LastUpdate_Ratings": "2023-10-11T16:59:12.8815333+00:00",
-  "LastUpdate_Achievements": "2023-10-11T17:07:15.3183505+00:00"
+  "LastUpdate_Ratings": "2023-10-11T17:58:35.7552081+00:00",
+  "LastUpdate_Achievements": "2023-10-11T18:06:20.5924913+00:00"
 }

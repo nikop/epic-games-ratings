@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -3050,9 +3050,9 @@
       "ID": "Incredible",
       "SetID": "1e89b4i",
       "Name": "Incredible!",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "LackOfTime",
@@ -3273,8 +3273,8 @@
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-10-11T17:10:52.5665788+00:00",
+  "LastChanged_Achievements": "2023-10-11T18:09:34.6539533+00:00",
   "LastUpdate_AppInfo": "2023-10-10T13:57:13.1433164+00:00",
-  "LastUpdate_Ratings": "2023-10-11T16:59:43.9921826+00:00",
-  "LastUpdate_Achievements": "2023-10-11T17:10:52.5666318+00:00"
+  "LastUpdate_Ratings": "2023-10-11T17:59:01.3003802+00:00",
+  "LastUpdate_Achievements": "2023-10-11T18:09:34.6539932+00:00"
 }

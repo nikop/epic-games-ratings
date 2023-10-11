@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1827,9 +1827,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14598,
+  "EOS_Progressed": 14599,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 257,
+  "EOS_NewPlayers": 255,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13587,6 +13587,11 @@
       "Time": "2023-10-11T17:07:42.1882595+00:00",
       "NumProgressed": 14598,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-11T18:06:46.6546105+00:00",
+      "NumProgressed": 14599,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -14036,9 +14041,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD",
       "SetID": "9201eeb",
       "Name": "Fountainhead",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 117
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_GLORIOUS",
@@ -15028,9 +15033,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_MUSAEUM",
       "SetID": "9201eeb",
       "Name": "Musaeum",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 102
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_NECROPOLIS",
@@ -15428,9 +15433,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_GREECE",
       "SetID": "7l38kb8",
       "Name": "Greek Paganism",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 131
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_HITTITE",
@@ -15820,9 +15825,9 @@
       "ID": "ACHIEVEMENT_WIN_FFA",
       "SetID": "9201eeb",
       "Name": "Win a Free-For-All Game (\u003E2 Players)",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_WIN_HOTSEAT",
@@ -16333,21 +16338,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14598,
+      "Progressed": 14599,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14598,
+      "Progressed": 14599,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-11T16:03:25.094605+00:00",
-  "LastChanged_Achievements": "2023-10-11T17:07:42.1882592+00:00",
+  "LastChanged_Achievements": "2023-10-11T18:06:46.6546102+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:48.3987129+00:00",
-  "LastUpdate_Ratings": "2023-10-11T17:04:02.6148728+00:00",
-  "LastUpdate_Achievements": "2023-10-11T17:07:42.1894031+00:00"
+  "LastUpdate_Ratings": "2023-10-11T18:03:17.6808467+00:00",
+  "LastUpdate_Achievements": "2023-10-11T18:06:46.6556674+00:00"
 }

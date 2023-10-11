@@ -2,10 +2,10 @@
   "ID": "e6c7d54c946f4d3da27a4a6d4a45202f",
   "Name": "FRONT MISSION 1st: Remake",
   "ProductSlug": "front-mission-1st-remake-124a24",
-  "Ranking_EOS_Progress": 571,
+  "Ranking_EOS_Progress": 572,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
     "PcReleaseDate": "2023-06-29T22:00:00+00:00",
@@ -282,8 +282,8 @@
   ],
   "FirstSeen": "2023-06-30T05:57:06.1324977+00:00",
   "FirstSeenAchievements": "2023-06-26T08:01:45.5503063+00:00",
-  "LastChanged_Achievements": "2023-10-11T17:04:38.5314996+00:00",
+  "LastChanged_Achievements": "2023-10-11T18:04:03.6277995+00:00",
   "LastUpdate_AppInfo": "2023-10-09T15:57:19.1538347+00:00",
-  "LastUpdate_Ratings": "2023-10-11T16:59:40.84017+00:00",
-  "LastUpdate_Achievements": "2023-10-11T17:04:38.5315208+00:00"
+  "LastUpdate_Ratings": "2023-10-11T17:58:58.0347017+00:00",
+  "LastUpdate_Achievements": "2023-10-11T18:04:03.6278166+00:00"
 }

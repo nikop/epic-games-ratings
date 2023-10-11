@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3396,18 +3396,24 @@
       "Rating": 4.18,
       "NumberOfAwards": 4703,
       "NumberOfAwardsMax": 2802
+    },
+    {
+      "Time": "2023-10-11T18:02:05.0692801+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4712,
+      "NumberOfAwardsMax": 2811
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4703,
-  "NumberOfAwardsMax": 2802,
+  "NumberOfAwards": 4712,
+  "NumberOfAwardsMax": 2811,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2802
+      "Count": 2811
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3464,9 +3470,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73417,
+  "EOS_Progressed": 73418,
   "EOS_Completed": 120,
-  "EOS_NewPlayers": 289,
+  "EOS_NewPlayers": 288,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -18354,6 +18360,11 @@
       "Time": "2023-10-11T17:04:28.256598+00:00",
       "NumProgressed": 73417,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-10-11T18:03:44.0914348+00:00",
+      "NumProgressed": 73418,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 61,
@@ -18485,7 +18496,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10278
+      "UsersEstimate": 10279
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -18613,7 +18624,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10278
+      "UsersEstimate": 10279
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -18683,9 +18694,9 @@
       "ID": "HARLEY_3",
       "SetID": "4eo5ebm",
       "Name": "Working Hard or Harley Working?",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 14683
+      "UsersEstimate": 15418
     },
     {
       "ID": "HARLEY_4",
@@ -18733,7 +18744,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14683
+      "UsersEstimate": 14684
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -18781,7 +18792,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14683
+      "UsersEstimate": 14684
     },
     {
       "ID": "MYSTERY_05",
@@ -18805,7 +18816,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10278
+      "UsersEstimate": 10279
     },
     {
       "ID": "MYSTERY_08",
@@ -18852,22 +18863,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73417,
+      "Progressed": 73418,
       "Completed": 120
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43697,
+      "Progressed": 43698,
       "Completed": 2666
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-10-10T23:01:03.3236622+00:00",
-  "LastChanged_Achievements": "2023-10-11T17:04:28.2565976+00:00",
+  "LastChanged": "2023-10-11T18:02:05.06928+00:00",
+  "LastChanged_Achievements": "2023-10-11T18:03:44.0914345+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:31.3761181+00:00",
-  "LastUpdate_Ratings": "2023-10-11T17:03:02.158703+00:00",
-  "LastUpdate_Achievements": "2023-10-11T17:04:28.2567682+00:00"
+  "LastUpdate_Ratings": "2023-10-11T18:02:05.0692805+00:00",
+  "LastUpdate_Achievements": "2023-10-11T18:03:44.0915638+00:00"
 }

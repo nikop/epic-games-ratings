@@ -21,7 +21,7 @@
 | We've Just Begun | 9.00% | ~128 |
 | Is It the Right Size? | 8.00% | ~114 |
 | Stamina Star | 7.00% | ~100 |
-| Evangelist | 5.00% | ~71 |
+| Evangelist | 6.00% | ~86 |
 | Make It Your Own! | 4.00% | ~57 |
 | The Road to Liberty | 4.00% | ~57 |
 | I Make the Rules! | 4.00% | ~57 |
