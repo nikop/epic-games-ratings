@@ -24334,9 +24334,9 @@
       "ID": "argon_a",
       "SetID": "anfd17p",
       "Name": "Proud Paladin",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 687
+      "UsersEstimate": 825
     },
     {
       "ID": "ascend01",
@@ -25198,8 +25198,8 @@
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-10T23:00:18.3392127+00:00",
-  "LastChanged_Achievements": "2023-10-11T09:07:58.4018772+00:00",
+  "LastChanged_Achievements": "2023-10-11T10:08:46.1201947+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:52.7124415+00:00",
-  "LastUpdate_Ratings": "2023-10-11T09:00:47.154708+00:00",
-  "LastUpdate_Achievements": "2023-10-11T09:07:58.4020816+00:00"
+  "LastUpdate_Ratings": "2023-10-11T10:01:26.0567278+00:00",
+  "LastUpdate_Achievements": "2023-10-11T10:08:46.1204557+00:00"
 }

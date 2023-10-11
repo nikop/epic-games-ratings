@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6516,
+  "EOS_Progressed": 6517,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11236,6 +11236,11 @@
       "Time": "2023-10-11T05:03:26.9140689+00:00",
       "NumProgressed": 6516,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-11T10:05:08.4539803+00:00",
+      "NumProgressed": 6517,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -11263,7 +11268,7 @@
       "Name": "Telepathic",
       "Percentage": 9,
       "XP": 70,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "12",
@@ -11351,7 +11356,7 @@
       "Name": "Sunset Ridge",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "9",
@@ -11366,7 +11371,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 6516,
+      "Progressed": 6517,
       "Completed": 0
     }
   ],
@@ -11374,8 +11379,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-10-11T09:04:25.7082405+00:00",
+  "LastChanged_Achievements": "2023-10-11T10:05:08.4539794+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:19.3582319+00:00",
-  "LastUpdate_Ratings": "2023-10-11T09:00:49.5914836+00:00",
-  "LastUpdate_Achievements": "2023-10-11T09:04:25.7083047+00:00"
+  "LastUpdate_Ratings": "2023-10-11T10:01:28.942761+00:00",
+  "LastUpdate_Achievements": "2023-10-11T10:05:08.4540637+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "baa1163025994ae3b1cf3d425230e90a",
   "Name": "Aimlabs",
   "ProductSlug": "aimlabs",
-  "Ranking_Rating": 354,
+  "Ranking_Rating": 373,
   "Ranking_Popularity": 459,
   "Ranking_PopularitySum": 441,
-  "Ranking_EOS_Progress": 662,
+  "Ranking_EOS_Progress": 663,
   "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 400,
   "Ranking_EOS_NewCompleters": 110,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.62,
+  "Rating": 4.61,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:50.8966306+00:00",
@@ -592,6 +592,12 @@
       "Rating": 4.62,
       "NumberOfAwards": 79,
       "NumberOfAwardsMax": 34
+    },
+    {
+      "Time": "2023-10-11T09:58:15.320842+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 79,
+      "NumberOfAwardsMax": 34
     }
   ],
   "ReviewsDisabled": false,
@@ -630,8 +636,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-03-10T02:20:52.9712815+00:00",
   "FirstSeenRating": "2023-03-31T05:57:50.8966303+00:00",
-  "LastChanged": "2023-10-10T06:02:05.1952536+00:00",
+  "LastChanged": "2023-10-11T09:58:15.3208419+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:27.3808541+00:00",
-  "LastUpdate_Ratings": "2023-10-11T08:57:53.2041134+00:00",
-  "LastUpdate_Achievements": "2023-10-11T09:03:17.9980232+00:00"
+  "LastUpdate_Ratings": "2023-10-11T09:58:15.3208426+00:00",
+  "LastUpdate_Achievements": "2023-10-11T10:04:07.526505+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 31,
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8740,10 +8740,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 45557,
       "NumberOfAwardsMax": 23430
+    },
+    {
+      "Time": "2023-10-11T10:00:23.9353344+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 45565,
+      "NumberOfAwardsMax": 23430
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 45557,
+  "NumberOfAwards": 45565,
   "NumberOfAwardsMax": 23430,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8787,7 +8793,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1120
+      "Count": 1128
     },
     {
       "Text": "This game is Relaxing",
@@ -8820,9 +8826,9 @@
       "Count": 702
     }
   ],
-  "EOS_Progressed": 298159,
+  "EOS_Progressed": 298160,
   "EOS_Completed": 483,
-  "EOS_NewPlayers": 368,
+  "EOS_NewPlayers": 367,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -27500,6 +27506,11 @@
       "Time": "2023-10-11T09:03:25.9721552+00:00",
       "NumProgressed": 298159,
       "NumCompleted": 483
+    },
+    {
+      "Time": "2023-10-11T10:04:15.9596203+00:00",
+      "NumProgressed": 298160,
+      "NumCompleted": 483
     }
   ],
   "TotalAchievements": 45,
@@ -27535,7 +27546,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 32797
+      "UsersEstimate": 32798
     },
     {
       "ID": "PFA_13",
@@ -27567,7 +27578,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32797
+      "UsersEstimate": 32798
     },
     {
       "ID": "PFA_17",
@@ -27639,7 +27650,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32797
+      "UsersEstimate": 32798
     },
     {
       "ID": "PFA_25",
@@ -27695,7 +27706,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32797
+      "UsersEstimate": 32798
     },
     {
       "ID": "PFA_31",
@@ -27767,7 +27778,7 @@
       "Name": "Coasting Along",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32797
+      "UsersEstimate": 32798
     },
     {
       "ID": "PFA_4",
@@ -27870,16 +27881,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298159,
+      "Progressed": 298160,
       "Completed": 483
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-10-11T06:58:55.9423041+00:00",
-  "LastChanged_Achievements": "2023-10-11T09:03:25.9721543+00:00",
+  "LastChanged": "2023-10-11T10:00:23.9353342+00:00",
+  "LastChanged_Achievements": "2023-10-11T10:04:15.9596197+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:01.0338203+00:00",
-  "LastUpdate_Ratings": "2023-10-11T08:59:54.1792958+00:00",
-  "LastUpdate_Achievements": "2023-10-11T09:03:25.9722817+00:00"
+  "LastUpdate_Ratings": "2023-10-11T10:00:23.9353349+00:00",
+  "LastUpdate_Achievements": "2023-10-11T10:04:15.9598273+00:00"
 }

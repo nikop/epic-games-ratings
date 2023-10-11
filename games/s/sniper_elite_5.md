@@ -5,20 +5,20 @@ Rating: 4.45 (Ranked 644)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 46.00% | ~1,713 |
+| Meeting Resistance | 46.00% | ~1,714 |
 | Confirming Suspicions | 41.00% | ~1,527 |
 | The Kraken Wakes | 37.00% | ~1,378 |
 | It's Starting to Crack | 34.00% | ~1,266 |
-| Change the Channel | 31.00% | ~1,154 |
-| Lord of War | 30.00% | ~1,117 |
+| Change the Channel | 31.00% | ~1,155 |
+| Lord of War | 30.00% | ~1,118 |
 | Taking it back | 28.00% | ~1,043 |
-| Resourceful | 27.00% | ~1,005 |
+| Resourceful | 27.00% | ~1,006 |
 | Target America | 26.00% | ~968 |
 | The Kraken Sleeps | 24.00% | ~894 |
 | Organ Grinder | 23.00% | ~857 |
-| Liberté | 22.00% | ~819 |
-| Sharpshooter | 22.00% | ~819 |
-| As Quiet as a Mouse | 22.00% | ~819 |
+| As Quiet as a Mouse | 23.00% | ~857 |
+| Liberté | 22.00% | ~820 |
+| Sharpshooter | 22.00% | ~820 |
 | Explosive Efficiency | 19.00% | ~708 |
 | Gunslinger | 18.00% | ~670 |
 | Just a Flesh Wound | 17.00% | ~633 |
@@ -27,17 +27,17 @@ Rating: 4.45 (Ranked 644)
 | Close Quarters | 16.00% | ~596 |
 | Snake in the Grass | 15.00% | ~559 |
 | Brains of the Operation | 15.00% | ~559 |
-| No Stone Unturned | 14.00% | ~521 |
-| Opposing Force | 14.00% | ~521 |
-| Enemy at the Gates | 14.00% | ~521 |
-| Fields of Glory | 14.00% | ~521 |
-| Skirmisher | 14.00% | ~521 |
-| Die Nussknacker Sweet! | 14.00% | ~521 |
+| No Stone Unturned | 14.00% | ~522 |
+| Opposing Force | 14.00% | ~522 |
+| Enemy at the Gates | 14.00% | ~522 |
+| Fields of Glory | 14.00% | ~522 |
+| Skirmisher | 14.00% | ~522 |
+| Die Nussknacker Sweet! | 14.00% | ~522 |
 | Set Europe Ablaze | 13.00% | ~484 |
 | Precision Is Key | 10.00% | ~372 |
 | My Little Friend | 10.00% | ~372 |
 | Rigged to Blow | 9.00% | ~335 |
-| Herr Today, Gone Tomorrow | 6.00% | ~220 |
+| Herr Today, Gone Tomorrow | 6.00% | ~221 |
 | The Long Game | 5.00% | ~186 |
 | It'll Buff Right Out | 5.00% | ~186 |
 | Don't hold your breath | 5.00% | ~186 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 644)
 | Going Overboard | 0.60% | ~22 |
 | Stroll in the Woods | 0.50% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,724 (Ranked 178)  
+Progressed: 3,725 (Ranked 178)  
 Completed: 11 (0.30%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,7 +249,7 @@ Completed: 11 (0.30%) (Ranked 204)
 | 2023-10-08 | 3,715 | 11 |
 | 2023-10-09 | 3,718 | 11 |
 | 2023-10-10 | 3,723 | 11 |
-| 2023-10-11 | 3,724 | 11 |
+| 2023-10-11 | 3,725 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

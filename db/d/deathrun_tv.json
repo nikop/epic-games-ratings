@@ -2,7 +2,7 @@
   "ID": "d2ed683d5c3d4f42a4aac8aed9a410a6",
   "Name": "DEATHRUN TV",
   "ProductSlug": "deathrun-tv-db074f",
-  "Ranking_EOS_Progress": 662,
+  "Ranking_EOS_Progress": 663,
   "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 400,
   "Ranking_EOS_NewCompleters": 110,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:54.5085826+00:00",
   "LastChanged": "2023-03-31T05:57:54.5085827+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:45.6656451+00:00",
-  "LastUpdate_Ratings": "2023-10-11T09:01:58.3122393+00:00",
-  "LastUpdate_Achievements": "2023-10-11T09:05:24.5957612+00:00"
+  "LastUpdate_Ratings": "2023-10-11T10:02:41.6689018+00:00",
+  "LastUpdate_Achievements": "2023-10-11T10:06:12.2740613+00:00"
 }

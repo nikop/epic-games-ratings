@@ -6,19 +6,19 @@
 | ---- | ---------- | ----- |
 | Brace for impact! | 31.00% | ~121 |
 | Baby's First Car | 29.00% | ~113 |
-| Amateur Mechanic | 29.00% | ~113 |
 | Pushover | 29.00% | ~113 |
 | A Forest Walk | 29.00% | ~113 |
+| Amateur Mechanic | 28.00% | ~109 |
 | Multiply that! | 27.00% | ~105 |
 | C-C-C-Combo! | 26.00% | ~101 |
-| Fore! | 24.00% | ~93 |
-| Insurance fraud | 24.00% | ~93 |
-| Snow Fun! | 24.00% | ~93 |
-| The Collector | 23.00% | ~89 |
-| The Wild West | 23.00% | ~89 |
-| Bag of Tricks | 23.00% | ~89 |
-| In the Bag! | 23.00% | ~89 |
-| You're it | 23.00% | ~89 |
+| Fore! | 24.00% | ~94 |
+| Insurance fraud | 24.00% | ~94 |
+| Snow Fun! | 24.00% | ~94 |
+| The Collector | 23.00% | ~90 |
+| The Wild West | 23.00% | ~90 |
+| Bag of Tricks | 23.00% | ~90 |
+| In the Bag! | 23.00% | ~90 |
+| You're it | 23.00% | ~90 |
 | First Come, First Serve | 22.00% | ~86 |
 | To and Fro | 22.00% | ~86 |
 | Goodbye cruel world | 22.00% | ~86 |
@@ -36,7 +36,7 @@
 | Ferry Good! | 17.00% | ~66 |
 | Assert Dominance | 17.00% | ~66 |
 | Speed of light | 17.00% | ~66 |
-| Out of this League | 14.00% | ~54 |
+| Out of this League | 14.00% | ~55 |
 | Special Forces | 13.00% | ~51 |
 | Toot Toot! | 12.00% | ~47 |
 | Rocketman | 12.00% | ~47 |
@@ -47,7 +47,7 @@
 | Space Crash | 7.00% | ~27 |
 | To war! | 6.00% | ~23 |
 | Hoarder | 6.00% | ~23 |
-| Event Master | 5.00% | ~19 |
+| Event Master | 5.00% | ~20 |
 | A Starting Collector | 4.00% | ~16 |
 | 433 Eros | 4.00% | ~16 |
 | Best Friends! | 4.00% | ~16 |
@@ -60,7 +60,7 @@
 | Master Mechanic | 1.00% | ~4 |
 | Crashed and Driven | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 389 (Ranked 291)  
+Progressed: 390 (Ranked 291)  
 Completed: 2 (0.51%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,6 +135,7 @@ Completed: 2 (0.51%) (Ranked 174)
 | 2023-10-03 | 387 | 2 |
 | 2023-10-04 | 388 | 2 |
 | 2023-10-07 | 389 | 2 |
+| 2023-10-11 | 390 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

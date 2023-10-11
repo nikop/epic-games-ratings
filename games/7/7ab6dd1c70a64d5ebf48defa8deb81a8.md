@@ -5,20 +5,20 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Powerful Allies | 18.00% | ~6 |
+| Scholar | 15.00% | ~5 |
 | Find Allies | 12.00% | ~4 |
 | A Taste of Wrath | 12.00% | ~4 |
 | Trinity | 12.00% | ~4 |
 | Adventurer | 12.00% | ~4 |
 | Essence Blow | 12.00% | ~4 |
 | Shatter Them All | 12.00% | ~4 |
-| Scholar | 12.00% | ~4 |
 | The Collector | 12.00% | ~4 |
 | Break Out | 9.00% | ~3 |
+| Calm before the Storm | 9.00% | ~3 |
 | To Battle | 9.00% | ~3 |
 | Godslayer | 9.00% | ~3 |
 | Geared Up | 9.00% | ~3 |
 | Fashion Victim | 9.00% | ~3 |
-| Calm before the Storm | 6.00% | ~2 |
 | The Mentor | 6.00% | ~2 |
 | Miner | 6.00% | ~2 |
 | A Queen's Tale | 6.00% | ~2 |
@@ -38,8 +38,8 @@
 | Feeling Fancy | 0.00% | ~0 |
 | Summiter | 0.00% | ~0 |
 | Shatterer | -3.00% | ~-1 |
+| Flawless Victory | -3.00% | ~-1 |
 | Big Bazar | -3.00% | ~-1 |
-| Flawless Victory | -6.10% | ~-2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 33 (Ranked 464)  
 Completed: 1 (3.03%) (Ranked 90)  

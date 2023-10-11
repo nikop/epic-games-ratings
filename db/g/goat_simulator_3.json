@@ -4342,9 +4342,9 @@
       "Count": 301
     }
   ],
-  "EOS_Progressed": 247046,
+  "EOS_Progressed": 247047,
   "EOS_Completed": 853,
-  "EOS_NewPlayers": 891,
+  "EOS_NewPlayers": 889,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -23272,6 +23272,11 @@
       "Time": "2023-10-11T09:04:31.1198807+00:00",
       "NumProgressed": 247046,
       "NumCompleted": 853
+    },
+    {
+      "Time": "2023-10-11T10:05:14.1588764+00:00",
+      "NumProgressed": 247047,
+      "NumCompleted": 853
     }
   ],
   "TotalAchievements": 39,
@@ -23315,7 +23320,7 @@
       "Name": "San Angora: Become Human",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 66702
+      "UsersEstimate": 66703
     },
     {
       "ID": "AchievementBigFootID",
@@ -23347,7 +23352,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 224812
+      "UsersEstimate": 224813
     },
     {
       "ID": "AchievementClownID",
@@ -23395,7 +23400,7 @@
       "Name": "What a Waste of Money",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 81525
+      "UsersEstimate": 81526
     },
     {
       "ID": "AchievementGoatID",
@@ -23411,7 +23416,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 130934
+      "UsersEstimate": 130935
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -23451,7 +23456,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 140816
+      "UsersEstimate": 140817
     },
     {
       "ID": "AchievementLootBoxID",
@@ -23459,7 +23464,7 @@
       "Name": "Black Market",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 34586
+      "UsersEstimate": 34587
     },
     {
       "ID": "AchievementMascotPoopID",
@@ -23483,7 +23488,7 @@
       "Name": "Shadow Syndicate",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 93877
+      "UsersEstimate": 93878
     },
     {
       "ID": "AchievementRampID",
@@ -23515,7 +23520,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 182814
+      "UsersEstimate": 182815
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -23531,7 +23536,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 123523
+      "UsersEstimate": 123524
     },
     {
       "ID": "AchievementStreakingID",
@@ -23547,7 +23552,7 @@
       "Name": "401(K.O.)",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 34586
+      "UsersEstimate": 34587
     },
     {
       "ID": "AchievementThroneID",
@@ -23555,7 +23560,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 135875
+      "UsersEstimate": 135876
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -23579,7 +23584,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 160580
+      "UsersEstimate": 160581
     },
     {
       "ID": "AchievementWhaleID",
@@ -23587,14 +23592,14 @@
       "Name": "Real Buoy",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 66702
+      "UsersEstimate": 66703
     }
   ],
   "AchievementSets": [
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 247046,
+      "Progressed": 247047,
       "Completed": 853
     }
   ],
@@ -23602,8 +23607,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-10-11T01:40:32.0288862+00:00",
-  "LastChanged_Achievements": "2023-10-11T09:04:31.1198802+00:00",
+  "LastChanged_Achievements": "2023-10-11T10:05:14.1588758+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:37.6967783+00:00",
-  "LastUpdate_Ratings": "2023-10-11T08:58:41.188227+00:00",
-  "LastUpdate_Achievements": "2023-10-11T09:04:31.1199928+00:00"
+  "LastUpdate_Ratings": "2023-10-11T09:59:04.9445395+00:00",
+  "LastUpdate_Achievements": "2023-10-11T10:05:14.1590191+00:00"
 }

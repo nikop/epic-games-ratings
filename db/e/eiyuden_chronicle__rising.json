@@ -397,9 +397,9 @@
       "ID": "ACHIEVEMENT007",
       "SetID": "dejhjd5",
       "Name": "The Lava Mantor Wyrm",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 249
+      "UsersEstimate": 256
     },
     {
       "ID": "ACHIEVEMENT008",
@@ -437,9 +437,9 @@
       "ID": "ACHIEVEMENT012",
       "SetID": "dejhjd5",
       "Name": "The Go-To Girl",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 256
+      "UsersEstimate": 263
     },
     {
       "ID": "ACHIEVEMENT013",
@@ -525,9 +525,9 @@
       "ID": "ACHIEVEMENT023",
       "SetID": "dejhjd5",
       "Name": "Armor Master",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 173
     },
     {
       "ID": "ACHIEVEMENT024",
@@ -677,9 +677,9 @@
       "ID": "ACHIEVEMENT042",
       "SetID": "dejhjd5",
       "Name": "The Quarry...On Foot!",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 221
     },
     {
       "ID": "ACHIEVEMENT043",
@@ -757,8 +757,8 @@
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-10-09T03:01:40.7583334+00:00",
-  "LastChanged_Achievements": "2023-10-11T09:07:33.8551598+00:00",
+  "LastChanged_Achievements": "2023-10-11T10:08:19.7843319+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:28.6139067+00:00",
-  "LastUpdate_Ratings": "2023-10-11T09:02:26.5262397+00:00",
-  "LastUpdate_Achievements": "2023-10-11T09:07:33.8552004+00:00"
+  "LastUpdate_Ratings": "2023-10-11T10:03:24.6122285+00:00",
+  "LastUpdate_Achievements": "2023-10-11T10:08:19.7843839+00:00"
 }

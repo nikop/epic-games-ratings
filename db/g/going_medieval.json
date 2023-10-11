@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 248,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1318,7 +1318,7 @@
   ],
   "EOS_Progressed": 6167,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -10718,9 +10718,9 @@
       "ID": "BUILD_WOOD_BEAM",
       "SetID": "5349c2e",
       "Name": "Beam Me Up",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 3145
+      "UsersEstimate": 3207
     },
     {
       "ID": "DISMANTLE_ITEMS_5",
@@ -10966,8 +10966,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-10-09T20:00:35.0536124+00:00",
-  "LastChanged_Achievements": "2023-10-11T09:07:16.4575049+00:00",
+  "LastChanged_Achievements": "2023-10-11T10:08:01.4229626+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:33.8053112+00:00",
-  "LastUpdate_Ratings": "2023-10-11T09:01:41.0820134+00:00",
-  "LastUpdate_Achievements": "2023-10-11T09:07:16.4575621+00:00"
+  "LastUpdate_Ratings": "2023-10-11T10:02:24.3338342+00:00",
+  "LastUpdate_Achievements": "2023-10-11T10:08:01.423055+00:00"
 }

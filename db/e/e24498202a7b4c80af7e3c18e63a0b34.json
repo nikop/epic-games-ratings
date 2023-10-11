@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 531,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 31,
+  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
     "PcReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -76,10 +76,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5961,
+  "EOS_Progressed": 5962,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 400,
-  "EOS_NewCompleters": 6,
+  "EOS_NewPlayers": 398,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
     {
@@ -3061,6 +3061,11 @@
       "Time": "2023-10-11T06:04:54.3987813+00:00",
       "NumProgressed": 5961,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-10-11T10:06:10.3942573+00:00",
+      "NumProgressed": 5962,
+      "NumCompleted": 24
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -3073,7 +3078,7 @@
       "Name": "First of Many",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 5067
+      "UsersEstimate": 5068
     },
     {
       "ID": "achievement_01_02",
@@ -3081,7 +3086,7 @@
       "Name": "Tournament Star",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 1013
+      "UsersEstimate": 1014
     },
     {
       "ID": "achievement_01_03",
@@ -3089,7 +3094,7 @@
       "Name": "Brand New Ride",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 3636
+      "UsersEstimate": 3637
     },
     {
       "ID": "achievement_01_04",
@@ -3097,7 +3102,7 @@
       "Name": "Bzzzt",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 4232
+      "UsersEstimate": 4233
     },
     {
       "ID": "achievement_01_05",
@@ -3105,7 +3110,7 @@
       "Name": "Automotive Stylist",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 2682
+      "UsersEstimate": 2683
     },
     {
       "ID": "achievement_01_06",
@@ -3113,7 +3118,7 @@
       "Name": "Mr Wheeler",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 3338
+      "UsersEstimate": 3339
     },
     {
       "ID": "achievement_01_07",
@@ -3129,7 +3134,7 @@
       "Name": "Trophy Collector",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 4292
+      "UsersEstimate": 4293
     },
     {
       "ID": "achievement_01_09",
@@ -3217,7 +3222,7 @@
       "Name": "USA - Check!",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 1609
+      "UsersEstimate": 1610
     },
     {
       "ID": "achievement_03_02",
@@ -3321,7 +3326,7 @@
       "Name": "Consolation Trophy",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 2861
+      "UsersEstimate": 2862
     },
     {
       "ID": "achievement_04_04",
@@ -3337,7 +3342,7 @@
       "Name": "That was a Close Call!",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1788
+      "UsersEstimate": 1789
     },
     {
       "ID": "achievement_04_06",
@@ -3361,7 +3366,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 5007
+      "UsersEstimate": 5008
     },
     {
       "ID": "achievement_04_09",
@@ -3376,7 +3381,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 5961,
+      "Progressed": 5962,
       "Completed": 24
     }
   ],
@@ -3384,8 +3389,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-10-07T17:57:03.0045577+00:00",
-  "LastChanged_Achievements": "2023-10-11T09:05:22.8645308+00:00",
+  "LastChanged_Achievements": "2023-10-11T10:06:10.3942566+00:00",
   "LastUpdate_AppInfo": "2023-10-05T17:57:07.1711191+00:00",
-  "LastUpdate_Ratings": "2023-10-11T08:59:46.0486975+00:00",
-  "LastUpdate_Achievements": "2023-10-11T09:05:22.8645681+00:00"
+  "LastUpdate_Ratings": "2023-10-11T10:00:15.1840144+00:00",
+  "LastUpdate_Achievements": "2023-10-11T10:06:10.394305+00:00"
 }

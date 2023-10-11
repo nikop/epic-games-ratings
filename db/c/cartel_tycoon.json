@@ -2103,9 +2103,9 @@
       "ID": "unlock-residences",
       "SetID": "bed33dd",
       "Name": "Pampered Life",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 144
+      "UsersEstimate": 150
     },
     {
       "ID": "upgrade-building",
@@ -2135,8 +2135,8 @@
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-09-23T20:57:48.080138+00:00",
-  "LastChanged_Achievements": "2023-10-11T09:07:07.1233531+00:00",
+  "LastChanged_Achievements": "2023-10-11T10:07:51.23936+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:54.7554745+00:00",
-  "LastUpdate_Ratings": "2023-10-11T09:02:10.5218885+00:00",
-  "LastUpdate_Achievements": "2023-10-11T09:07:07.1233733+00:00"
+  "LastUpdate_Ratings": "2023-10-11T10:03:06.9374654+00:00",
+  "LastUpdate_Achievements": "2023-10-11T10:07:51.239394+00:00"
 }

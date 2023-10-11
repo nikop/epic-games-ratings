@@ -2,7 +2,7 @@
   "ID": "bcd479d96de045fa8805f2bf4962475e",
   "Name": "Sea Horizon",
   "ProductSlug": "sea-horizon-729355",
-  "Ranking_EOS_Progress": 608,
+  "Ranking_EOS_Progress": 582,
   "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 400,
   "Ranking_EOS_NewCompleters": 110,
@@ -19,7 +19,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -28,6 +28,11 @@
     {
       "Time": "2023-09-23T01:42:40.7099811+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-11T10:07:53.7037793+00:00",
+      "NumProgressed": 2,
       "NumCompleted": 0
     }
   ],
@@ -39,7 +44,7 @@
       "ID": "Chapter_Adventurer",
       "SetID": "9onb7g0",
       "Name": "Master of Adventure",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 60,
       "UsersEstimate": 2
     },
@@ -87,7 +92,7 @@
       "ID": "Chapter_Wanderer",
       "SetID": "9onb7g0",
       "Name": "Home is Everywhere",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 60,
       "UsersEstimate": 1
     },
@@ -135,7 +140,7 @@
       "ID": "Money_TenThousand_Total",
       "SetID": "9onb7g0",
       "Name": "Big Pile of Anchors",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 60,
       "UsersEstimate": 1
     },
@@ -176,13 +181,13 @@
     {
       "ID": "9onb7g0",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 2,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-27T17:02:13.4628733+00:00",
-  "LastChanged_Achievements": "2023-10-11T09:07:09.4066151+00:00",
+  "LastChanged_Achievements": "2023-10-11T10:07:53.7037786+00:00",
   "LastUpdate_AppInfo": "2023-10-08T19:57:13.6998781+00:00",
-  "LastUpdate_Ratings": "2023-10-11T08:58:54.9120103+00:00",
-  "LastUpdate_Achievements": "2023-10-11T09:07:09.4066248+00:00"
+  "LastUpdate_Ratings": "2023-10-11T09:59:19.6702271+00:00",
+  "LastUpdate_Achievements": "2023-10-11T10:07:53.7037914+00:00"
 }

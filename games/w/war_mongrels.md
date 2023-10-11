@@ -7,23 +7,23 @@ Number of Ratings: 34  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Explorer | 67.00% | ~360 |
-| Cowardice | 60.00% | ~322 |
-| NO LIFE IS WORTH SAVING... | 50.00% | ~268 |
+| Cowardice | 60.00% | ~323 |
+| NO LIFE IS WORTH SAVING... | 51.00% | ~274 |
 | Eat Lead! | 48.00% | ~258 |
 | The Breaking Point | 46.00% | ~247 |
 | Prospector | 45.00% | ~242 |
-| Here Comes the Boom | 44.00% | ~236 |
-| Treasure Hunter | 41.00% | ~220 |
-| Sniper Wolf | 41.00% | ~220 |
+| Here Comes the Boom | 44.00% | ~237 |
+| Treasure Hunter | 41.00% | ~221 |
+| Sniper Wolf | 41.00% | ~221 |
 | The Motivation | 40.00% | ~215 |
 | Heroism | 37.00% | ~199 |
 | Missing in Action | 37.00% | ~199 |
 | Collectibles of Chapter I | 35.00% | ~188 |
 | Consequences | 34.00% | ~183 |
 | King of Knives | 34.00% | ~183 |
-| Opportunities | 33.00% | ~177 |
-| The Horror | 31.00% | ~166 |
-| The Difference | 28.00% | ~150 |
+| Opportunities | 33.00% | ~178 |
+| The Horror | 31.00% | ~167 |
+| The Difference | 28.00% | ~151 |
 | Vengeance | 27.00% | ~145 |
 | Collectibles of Chapter II | 24.00% | ~129 |
 | Broken Hopes | 24.00% | ~129 |
@@ -47,7 +47,7 @@ Number of Ratings: 34  (23.09.2022)
 | Collectibles of Chapter XI | 5.00% | ~27 |
 | The Good Samaritan | 5.00% | ~27 |
 | It Will Rain | 5.00% | ~27 |
-| Collectibles of Chapter X | 4.00% | ~21 |
+| Collectibles of Chapter X | 4.00% | ~22 |
 | Collectibles of Chapter VI | 3.00% | ~16 |
 | Collectibles of Chapter IX | 3.00% | ~16 |
 | Hold a Door | 2.00% | ~11 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 537 (Ranked 269)  
+Progressed: 538 (Ranked 269)  
 Completed: 0 (0.00%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 0 (0.00%) (Ranked 312)
 | 2023-10-08 | 533 | 0 |
 | 2023-10-09 | 534 | 0 |
 | 2023-10-10 | 535 | 0 |
-| 2023-10-11 | 537 | 0 |
+| 2023-10-11 | 538 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

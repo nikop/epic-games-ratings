@@ -52,6 +52,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Special Ingredient | 0.70% | ~962 |
 | A Notch Above the Rest | 0.60% | ~825 |
 | Cream of the Crop | 0.60% | ~825 |
+| Proud Paladin | 0.60% | ~825 |
 | Above the Norm | 0.60% | ~825 |
 | A Ronin Reborn | 0.60% | ~825 |
 | The King's Caprice | 0.60% | ~825 |
@@ -82,7 +83,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 0.60% | ~825 |
 | King's Blade | 0.60% | ~825 |
 | Top of the World | 0.50% | ~687 |
-| Proud Paladin | 0.50% | ~687 |
 | Constellated | 0.50% | ~687 |
 | Thirst for Knowledge | 0.50% | ~687 |
 | Booty by the Boatload | 0.50% | ~687 |

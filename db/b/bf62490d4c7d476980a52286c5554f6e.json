@@ -2,7 +2,7 @@
   "ID": "bf62490d4c7d476980a52286c5554f6e",
   "Name": "Generative Quest",
   "ProductSlug": "generative-quest-db8a3f",
-  "Ranking_EOS_Progress": 662,
+  "Ranking_EOS_Progress": 663,
   "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 400,
   "Ranking_EOS_NewCompleters": 110,
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-19T10:57:33.1892173+00:00",
   "LastUpdate_AppInfo": "2023-10-09T21:57:09.3346846+00:00",
-  "LastUpdate_Ratings": "2023-10-11T08:58:38.4826392+00:00",
-  "LastUpdate_Achievements": "2023-10-11T09:06:50.7794962+00:00"
+  "LastUpdate_Ratings": "2023-10-11T09:59:03.0076955+00:00",
+  "LastUpdate_Achievements": "2023-10-11T10:07:34.017638+00:00"
 }

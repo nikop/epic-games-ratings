@@ -20,22 +20,22 @@ Number of Ratings: 48  (23.09.2022)
 | Rune Wall Wreckage | 49.00% | ~339 |
 | ...And Your Tax Money | 47.00% | ~325 |
 | The Lords of the Snowpeak | 41.00% | ~284 |
-| The Go-To Girl | 37.00% | ~256 |
+| The Go-To Girl | 38.00% | ~263 |
+| The Lava Mantor Wyrm | 37.00% | ~256 |
 | Scavenger's Honor | 37.00% | ~256 |
 | Natural Born Monster-Killer | 37.00% | ~256 |
 | The Great Forest...On Foot! | 37.00% | ~256 |
-| The Lava Mantor Wyrm | 36.00% | ~249 |
 | One Mean Merc | 36.00% | ~249 |
 | Money, Money, Money | 36.00% | ~249 |
 | Adept, for an Acting Mayor | 35.00% | ~242 |
 | Rune Wall Master | 34.00% | ~235 |
-| The Quarry...On Foot! | 31.00% | ~215 |
+| The Quarry...On Foot! | 32.00% | ~221 |
 | The Runebarrows...On Foot! | 29.00% | ~201 |
 | The Lava Ruins...On Foot! | 28.00% | ~194 |
 | Meat Master | 27.00% | ~187 |
 | The Snowpeak...On Foot! | 27.00% | ~187 |
+| Armor Master | 25.00% | ~173 |
 | Fishing Master | 25.00% | ~173 |
-| Armor Master | 24.00% | ~166 |
 | The Pride of the Town | 23.00% | ~159 |
 | This Treasure I've Found | 21.00% | ~145 |
 | New Nevaeh's Number One Customer | 21.00% | ~145 |

@@ -68,6 +68,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Classy Act | 0.30% | ~2,796 |
 | Raccoon City Recruit | 0.30% | ~2,796 |
 | A Fast Death | 0.30% | ~2,796 |
+| Rebuilding The Borgo | 0.30% | ~2,796 |
 | Lifting The Fog | 0.30% | ~2,796 |
 | Chorus of Chaos | 0.30% | ~2,796 |
 | One More Step | 0.30% | ~2,796 |
@@ -92,7 +93,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Triage | 0.20% | ~1,864 |
 | Outrun the Overlap | 0.20% | ~1,864 |
 | High Speed Pursuit | 0.20% | ~1,864 |
-| Rebuilding The Borgo | 0.20% | ~1,864 |
 | Hack the Mainframe | 0.20% | ~1,864 |
 | Complete the Evolution | 0.20% | ~1,864 |
 | Extraterrestrial | 0.20% | ~1,864 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~932 |
 | Adept Ripley | 0.10% | ~932 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 931,997 (Ranked 14)  
+Progressed: 932,039 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -410,7 +410,7 @@ Completed: 49 (0.01%) (Ranked 294)
 | 2023-10-08 | 927,984 | 49 |
 | 2023-10-09 | 929,902 | 49 |
 | 2023-10-10 | 931,511 | 49 |
-| 2023-10-11 | 931,997 | 49 |
+| 2023-10-11 | 932,039 | 49 |
 ## Awards
 Max (Diverse Characters): 33,734  (Ranked 15)  
 Sum: 261,100 (Ranked 13)  

@@ -268,9 +268,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1660,
+  "EOS_Progressed": 1661,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3933,6 +3933,11 @@
       "Time": "2023-10-10T20:04:51.7513545+00:00",
       "NumProgressed": 1660,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-11T10:05:24.4557157+00:00",
+      "NumProgressed": 1661,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4096,7 +4101,7 @@
       "Name": "Detective",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "NEW_ACHIEVEMENT_DE_DUST",
@@ -4120,7 +4125,7 @@
       "Name": "Electrician",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -4160,7 +4165,7 @@
       "Name": "I am the greatest botanist on this planet.",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
@@ -4327,7 +4332,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1660,
+      "Progressed": 1661,
       "Completed": 0
     }
   ],
@@ -4335,8 +4340,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-10-07T20:58:51.3818577+00:00",
-  "LastChanged_Achievements": "2023-10-11T09:04:40.7433502+00:00",
+  "LastChanged_Achievements": "2023-10-11T10:05:24.455715+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:07.1369242+00:00",
-  "LastUpdate_Ratings": "2023-10-11T09:02:00.9400242+00:00",
-  "LastUpdate_Achievements": "2023-10-11T09:04:40.7434001+00:00"
+  "LastUpdate_Ratings": "2023-10-11T10:02:45.0786688+00:00",
+  "LastUpdate_Achievements": "2023-10-11T10:05:24.4557775+00:00"
 }

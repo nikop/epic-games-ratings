@@ -1747,9 +1747,9 @@
       "Count": 250
     }
   ],
-  "EOS_Progressed": 207239,
+  "EOS_Progressed": 207242,
   "EOS_Completed": 90,
-  "EOS_NewPlayers": 1329,
+  "EOS_NewPlayers": 1323,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -21462,6 +21462,11 @@
       "Time": "2023-10-11T09:05:14.0784833+00:00",
       "NumProgressed": 207239,
       "NumCompleted": 90
+    },
+    {
+      "Time": "2023-10-11T10:06:00.9246669+00:00",
+      "NumProgressed": 207242,
+      "NumCompleted": 90
     }
   ],
   "TotalAchievements": 44,
@@ -21497,7 +21502,7 @@
       "Name": "Chunin",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 12434
+      "UsersEstimate": 12435
     },
     {
       "ID": "CompleteMastery",
@@ -21529,7 +21534,7 @@
       "Name": "Flying Rocks",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 12434
+      "UsersEstimate": 12435
     },
     {
       "ID": "GearUp",
@@ -21625,7 +21630,7 @@
       "Name": "Mugen Unchained",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 12434
+      "UsersEstimate": 12435
     },
     {
       "ID": "NoGimmicks",
@@ -21793,7 +21798,7 @@
       "Name": "Warzone",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 12434
+      "UsersEstimate": 12435
     },
     {
       "ID": "WhenCutAcrossTheNeck",
@@ -21824,15 +21829,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 207239,
+      "Progressed": 207242,
       "Completed": 90
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-10-09T23:58:27.37616+00:00",
-  "LastChanged_Achievements": "2023-10-11T09:05:14.0784828+00:00",
+  "LastChanged_Achievements": "2023-10-11T10:06:00.9246663+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:03.7364002+00:00",
-  "LastUpdate_Ratings": "2023-10-11T08:59:42.2506678+00:00",
-  "LastUpdate_Achievements": "2023-10-11T09:05:14.0786068+00:00"
+  "LastUpdate_Ratings": "2023-10-11T10:00:10.630729+00:00",
+  "LastUpdate_Achievements": "2023-10-11T10:06:00.9248193+00:00"
 }

@@ -6,25 +6,25 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 39.00% | ~24,595 |
-| Landlord | 33.00% | ~20,811 |
-| Bannerlord | 23.00% | ~14,505 |
-| Horde breaker | 23.00% | ~14,505 |
-| Lawmaker | 23.00% | ~14,505 |
-| Trained | 23.00% | ~14,505 |
-| The king is pleased | 19.00% | ~11,982 |
-| King Solomon | 17.00% | ~10,721 |
-| I can do it | 16.00% | ~10,090 |
+| Lawbringer | 39.00% | ~24,597 |
+| Landlord | 33.00% | ~20,813 |
+| Bannerlord | 23.00% | ~14,506 |
+| Horde breaker | 23.00% | ~14,506 |
+| Lawmaker | 23.00% | ~14,506 |
+| Trained | 23.00% | ~14,506 |
+| The king is pleased | 19.00% | ~11,983 |
+| King Solomon | 17.00% | ~10,722 |
+| I can do it | 16.00% | ~10,091 |
 | Apple of my eye | 15.00% | ~9,460 |
-| God of the Arena | 13.00% | ~8,198 |
+| God of the Arena | 13.00% | ~8,199 |
 | Against all odds | 12.00% | ~7,568 |
 | This Is Our Land | 12.00% | ~7,568 |
-| Duelist | 10.00% | ~6,306 |
-| Dynasty | 10.00% | ~6,306 |
-| Swordbearer | 10.00% | ~6,306 |
-| What have the Romans ever done for us? | 10.00% | ~6,306 |
+| Duelist | 10.00% | ~6,307 |
+| Dynasty | 10.00% | ~6,307 |
+| Swordbearer | 10.00% | ~6,307 |
+| What have the Romans ever done for us? | 10.00% | ~6,307 |
 | I spit on your grave | 9.00% | ~5,676 |
-| Butterlord | 8.00% | ~5,045 |
+| Butterlord | 8.00% | ~5,046 |
 | Know your enemy | 7.00% | ~4,415 |
 | Mastery | 7.00% | ~4,415 |
 | Crowdfunded | 5.00% | ~3,153 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,065 (Ranked 97)  
+Progressed: 63,069 (Ranked 97)  
 Completed: 0 (0.00%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,7 +232,7 @@ Completed: 0 (0.00%) (Ranked 312)
 | 2023-10-08 | 62,927 | 0 |
 | 2023-10-09 | 62,994 | 0 |
 | 2023-10-10 | 63,051 | 0 |
-| 2023-10-11 | 63,065 | 0 |
+| 2023-10-11 | 63,069 | 0 |
 ## Awards
 Max (Character Customization): 7,209  (Ranked 52)  
 Sum: 14,815 (Ranked 66)  

@@ -11225,9 +11225,9 @@
       "Count": 25275
     }
   ],
-  "EOS_Progressed": 931997,
+  "EOS_Progressed": 932039,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 13951,
+  "EOS_NewPlayers": 13956,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -30965,6 +30965,11 @@
       "Time": "2023-10-11T09:06:15.3627542+00:00",
       "NumProgressed": 931997,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-11T10:06:56.0657527+00:00",
+      "NumProgressed": 932039,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 229,
@@ -32614,9 +32619,9 @@
       "ID": "ACH_209",
       "SetID": "16jml5b",
       "Name": "Rebuilding The Borgo",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 1864
+      "UsersEstimate": 2796
     },
     {
       "ID": "ACH_210",
@@ -32807,21 +32812,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 931997,
+      "Progressed": 932039,
       "Completed": 52
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 931997,
+      "Progressed": 932039,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-10-11T09:02:21.873+00:00",
-  "LastChanged_Achievements": "2023-10-11T09:06:15.3627537+00:00",
+  "LastChanged_Achievements": "2023-10-11T10:06:56.0657519+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:11.5924675+00:00",
-  "LastUpdate_Ratings": "2023-10-11T09:02:21.8730008+00:00",
-  "LastUpdate_Achievements": "2023-10-11T09:06:15.3633046+00:00"
+  "LastUpdate_Ratings": "2023-10-11T10:03:19.1674852+00:00",
+  "LastUpdate_Achievements": "2023-10-11T10:06:56.0667804+00:00"
 }
