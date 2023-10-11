@@ -4,58 +4,58 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First success | 200.00% | ~4 |
-| First blood | 150.00% | ~3 |
-| By own strength | 100.00% | ~2 |
-| A solo player | 100.00% | ~2 |
-| Do it yourself | 100.00% | ~2 |
-| Suicide squad | 100.00% | ~2 |
-| Train hard, fight easy | 100.00% | ~2 |
-| Royal blessing | 100.00% | ~2 |
-| Under cover | 100.00% | ~2 |
-| A hidden snake | 100.00% | ~2 |
-| Blood and sand | 100.00% | ~2 |
-| Crimson rivers | 50.00% | ~1 |
-| For the greater good | 50.00% | ~1 |
-| Collector | 50.00% | ~1 |
-| Berserk | 50.00% | ~1 |
-| Overplay the rogue | 50.00% | ~1 |
-| Supplier | 50.00% | ~1 |
-| Berkanan Borgia | 50.00% | ~1 |
-| Power of Inquisition | 50.00% | ~1 |
-| Master of the Way | 50.00% | ~1 |
-| The best apprentice | 50.00% | ~1 |
-| The champion of the arena | 50.00% | ~1 |
-| Stronger than Gellian steel | 50.00% | ~1 |
-| First among Frisians | 50.00% | ~1 |
-| Surpass the teacher | 50.00% | ~1 |
-| Vene, vidi, vici | 50.00% | ~1 |
-| Defeat the bear | 50.00% | ~1 |
-| All for one! | 50.00% | ~1 |
-| Rage | 50.00% | ~1 |
-| The power of persuasion | 50.00% | ~1 |
-| Never laid a finger | 50.00% | ~1 |
-| Deadly strike | 50.00% | ~1 |
-| Punish the Punisher | 50.00% | ~1 |
-| Protect the Healer! | 50.00% | ~1 |
-| Mate in 4 moves | 50.00% | ~1 |
-| By own rules | 50.00% | ~1 |
-| Cunning plan | 50.00% | ~1 |
-| By someone else's hands | 50.00% | ~1 |
-| Help of the Gell | 50.00% | ~1 |
-| Trial by cold | 50.00% | ~1 |
-| There can be only one | 50.00% | ~1 |
-| Blood and honour | 50.00% | ~1 |
-| All's fair in love and war | 50.00% | ~1 |
-| The End | 50.00% | ~1 |
-| Happily ever after | 50.00% | ~1 |
-| Nothing is settled | 50.00% | ~1 |
-| A lesson to all the madmen | 50.00% | ~1 |
-| That's the way! | 50.00% | ~1 |
-| She-Wolf | 50.00% | ~1 |
+| First success | 150.00% | ~3 |
+| First blood | 100.00% | ~2 |
+| By own strength | 50.00% | ~1 |
+| A solo player | 50.00% | ~1 |
+| Do it yourself | 50.00% | ~1 |
+| Suicide squad | 50.00% | ~1 |
+| Train hard, fight easy | 50.00% | ~1 |
+| Royal blessing | 50.00% | ~1 |
+| Under cover | 50.00% | ~1 |
+| A hidden snake | 50.00% | ~1 |
+| Blood and sand | 50.00% | ~1 |
+| Crimson rivers | 0.00% | ~0 |
+| For the greater good | 0.00% | ~0 |
+| Collector | 0.00% | ~0 |
+| Berserk | 0.00% | ~0 |
+| Overplay the rogue | 0.00% | ~0 |
+| Supplier | 0.00% | ~0 |
+| Berkanan Borgia | 0.00% | ~0 |
+| Power of Inquisition | 0.00% | ~0 |
+| Master of the Way | 0.00% | ~0 |
+| The best apprentice | 0.00% | ~0 |
+| The champion of the arena | 0.00% | ~0 |
+| Stronger than Gellian steel | 0.00% | ~0 |
+| First among Frisians | 0.00% | ~0 |
+| Surpass the teacher | 0.00% | ~0 |
+| Vene, vidi, vici | 0.00% | ~0 |
+| Defeat the bear | 0.00% | ~0 |
+| All for one! | 0.00% | ~0 |
+| Rage | 0.00% | ~0 |
+| The power of persuasion | 0.00% | ~0 |
+| Never laid a finger | 0.00% | ~0 |
+| Deadly strike | 0.00% | ~0 |
+| Punish the Punisher | 0.00% | ~0 |
+| Protect the Healer! | 0.00% | ~0 |
+| Mate in 4 moves | 0.00% | ~0 |
+| By own rules | 0.00% | ~0 |
+| Cunning plan | 0.00% | ~0 |
+| By someone else's hands | 0.00% | ~0 |
+| Help of the Gell | 0.00% | ~0 |
+| Trial by cold | 0.00% | ~0 |
+| There can be only one | 0.00% | ~0 |
+| Blood and honour | 0.00% | ~0 |
+| All's fair in love and war | 0.00% | ~0 |
+| The End | 0.00% | ~0 |
+| Happily ever after | 0.00% | ~0 |
+| Nothing is settled | 0.00% | ~0 |
+| A lesson to all the madmen | 0.00% | ~0 |
+| That's the way! | 0.00% | ~0 |
+| She-Wolf | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2 (Ranked 582)  
-Completed: 1 (50.00%) (Ranked 3)  
+Completed: 0 (0.00%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

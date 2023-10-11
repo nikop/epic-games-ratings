@@ -3,9 +3,9 @@
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 263,
-  "Ranking_EOS_Completed": 228,
+  "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -26,7 +26,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 579,
+  "EOS_Progressed": 580,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
@@ -1531,6 +1531,11 @@
       "Time": "2023-10-11T13:10:27.6994739+00:00",
       "NumProgressed": 579,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-11T14:04:14.9218656+00:00",
+      "NumProgressed": 580,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -1615,7 +1620,7 @@
       "Name": "The power of the Force",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "achievement_19",
@@ -1647,7 +1652,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "achievement_22",
@@ -1759,7 +1764,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "achievement_35",
@@ -1767,7 +1772,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "achievement_36",
@@ -1781,9 +1786,9 @@
       "ID": "achievement_37",
       "SetID": "271ol84",
       "Name": "Off to a good start",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 382
+      "UsersEstimate": 389
     },
     {
       "ID": "achievement_38",
@@ -1791,7 +1796,7 @@
       "Name": "Survivor",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "achievement_39",
@@ -2046,13 +2051,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 579,
+      "Progressed": 580,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 579,
+      "Progressed": 580,
       "Completed": 1
     }
   ],
@@ -2060,8 +2065,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-11T13:10:27.699473+00:00",
+  "LastChanged_Achievements": "2023-10-11T14:04:14.9218644+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:04.2927905+00:00",
-  "LastUpdate_Ratings": "2023-10-11T13:09:31.252965+00:00",
-  "LastUpdate_Achievements": "2023-10-11T13:10:27.6996118+00:00"
+  "LastUpdate_Ratings": "2023-10-11T14:03:24.2562277+00:00",
+  "LastUpdate_Achievements": "2023-10-11T14:04:14.92196+00:00"
 }

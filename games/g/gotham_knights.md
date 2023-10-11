@@ -68,7 +68,7 @@ Rating: 4.18 (Ranked 897)
 | It's Nice to Be Wanted | 0.20% | ~87 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 73,413 (Ranked 91)  
-Completed: 120 (0.16%) (Ranked 230)  
+Completed: 120 (0.16%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

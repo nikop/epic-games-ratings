@@ -3,7 +3,7 @@
   "Name": "Warhammer Age of Sigmar: Realms of Ruin",
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 469,
-  "Ranking_EOS_Completed": 79,
+  "Ranking_EOS_Completed": 78,
   "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
@@ -131,17 +131,17 @@
       "ID": "Capture100Conduits",
       "SetID": "52ail55",
       "Name": "Territorial",
-      "Percentage": 10,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Capture100VictoryPoints",
       "SetID": "52ail55",
       "Name": "Chosen Victor",
-      "Percentage": 10,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "CompleteCampaignChampion",
@@ -155,9 +155,9 @@
       "ID": "CompleteCampaignLorekeeper",
       "SetID": "52ail55",
       "Name": "Liberator",
-      "Percentage": 3,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CompleteCampaignVeteran",
@@ -179,9 +179,9 @@
       "ID": "CompleteChapter1",
       "SetID": "52ail55",
       "Name": "Pathfinder",
-      "Percentage": 17,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "CompleteChapter10",
@@ -235,17 +235,17 @@
       "ID": "CompleteChapter16",
       "SetID": "52ail55",
       "Name": "Our Own Miracle",
-      "Percentage": 7,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "CompleteChapter17",
       "SetID": "52ail55",
       "Name": "Fool\u0027s Errand",
-      "Percentage": 3,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CompleteChapter17NoIdenDeath",
@@ -259,73 +259,73 @@
       "ID": "CompleteChapter18",
       "SetID": "52ail55",
       "Name": "The Might of Sigmar\u0027s Warriors",
-      "Percentage": 3,
-      "XP": 5,
-      "UsersEstimate": 1
-    },
-    {
-      "ID": "CompleteChapter2",
-      "SetID": "52ail55",
-      "Name": "Met the Enemy",
-      "Percentage": 10,
-      "XP": 5,
-      "UsersEstimate": 3
-    },
-    {
-      "ID": "CompleteChapter3",
-      "SetID": "52ail55",
-      "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
-      "Percentage": 17,
-      "XP": 5,
-      "UsersEstimate": 5
-    },
-    {
-      "ID": "CompleteChapter4",
-      "SetID": "52ail55",
-      "Name": "Servant of the Blue Raven",
-      "Percentage": 14,
-      "XP": 5,
-      "UsersEstimate": 4
-    },
-    {
-      "ID": "CompleteChapter5",
-      "SetID": "52ail55",
-      "Name": "Breathing Easy",
-      "Percentage": 10,
-      "XP": 5,
-      "UsersEstimate": 3
-    },
-    {
-      "ID": "CompleteChapter6",
-      "SetID": "52ail55",
-      "Name": "More Waagh, More Problems",
       "Percentage": 7,
       "XP": 5,
       "UsersEstimate": 2
     },
     {
+      "ID": "CompleteChapter2",
+      "SetID": "52ail55",
+      "Name": "Met the Enemy",
+      "Percentage": 14,
+      "XP": 5,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "CompleteChapter3",
+      "SetID": "52ail55",
+      "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
+      "Percentage": 21,
+      "XP": 5,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "CompleteChapter4",
+      "SetID": "52ail55",
+      "Name": "Servant of the Blue Raven",
+      "Percentage": 17,
+      "XP": 5,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "CompleteChapter5",
+      "SetID": "52ail55",
+      "Name": "Breathing Easy",
+      "Percentage": 14,
+      "XP": 5,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "CompleteChapter6",
+      "SetID": "52ail55",
+      "Name": "More Waagh, More Problems",
+      "Percentage": 10,
+      "XP": 5,
+      "UsersEstimate": 3
+    },
+    {
       "ID": "CompleteChapter7",
       "SetID": "52ail55",
       "Name": "First to be Forged, Never to Fail!",
-      "Percentage": 3,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CompleteChapter8",
       "SetID": "52ail55",
       "Name": "Troggoff Troubles",
-      "Percentage": 3,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CompleteChapter9",
       "SetID": "52ail55",
       "Name": "Ingredients List",
-      "Percentage": 3,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CompleteConquestKruleboyz",
@@ -371,9 +371,9 @@
       "ID": "Defeat250Units",
       "SetID": "52ail55",
       "Name": "Feeding Shyish",
-      "Percentage": 14,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Win100OnlineMatched",
@@ -425,8 +425,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-10-11T13:12:08.0181158+00:00",
+  "LastChanged_Achievements": "2023-10-11T14:06:34.9453194+00:00",
   "LastUpdate_AppInfo": "2023-10-06T03:57:12.3370257+00:00",
-  "LastUpdate_Ratings": "2023-10-11T13:05:42.1024225+00:00",
-  "LastUpdate_Achievements": "2023-10-11T13:12:08.0181641+00:00"
+  "LastUpdate_Ratings": "2023-10-11T13:59:36.1008248+00:00",
+  "LastUpdate_Achievements": "2023-10-11T14:06:34.945347+00:00"
 }

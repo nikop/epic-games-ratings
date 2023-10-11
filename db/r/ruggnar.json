@@ -3,9 +3,9 @@
   "Name": "Ruggnar",
   "ProductSlug": "ruggnar-06d06b",
   "Ranking_EOS_Progress": 664,
-  "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 402,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_Completed": 312,
+  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2022-06-23T15:00:00+00:00",
@@ -48,8 +48,8 @@
   "FirstSeenRating": "2023-03-31T05:58:05.015956+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.8962583+00:00",
   "LastChanged": "2023-03-31T05:58:05.0159561+00:00",
-  "LastChanged_Achievements": "2023-10-11T13:15:08.3943931+00:00",
+  "LastChanged_Achievements": "2023-10-11T14:09:05.7033901+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:14.0944695+00:00",
-  "LastUpdate_Ratings": "2023-10-11T13:07:18.421088+00:00",
-  "LastUpdate_Achievements": "2023-10-11T13:15:08.3943972+00:00"
+  "LastUpdate_Ratings": "2023-10-11T14:01:57.667567+00:00",
+  "LastUpdate_Achievements": "2023-10-11T14:09:05.7033934+00:00"
 }

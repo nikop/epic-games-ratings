@@ -12,17 +12,17 @@ Rating: 4.64 (Ranked 318)
 | Cold-Blooded Driller | 0.70% | ~169 |
 | Don't Knife The Hand That Feeds | 0.70% | ~169 |
 | Are You Packin'? | 0.60% | ~145 |
+| Bring A Knife to a Gun Fight | 0.60% | ~145 |
 | RIP Davey Glutes | 0.60% | ~145 |
 | Hardest Battle In The Game | 0.60% | ~145 |
 | Who's The Boss? | 0.60% | ~145 |
 | Creature Feature | 0.50% | ~121 |
-| Bring A Knife to a Gun Fight | 0.50% | ~121 |
 | We're All Very Impressed, Trust Me | 0.50% | ~121 |
+| Self-Actualization | 0.50% | ~121 |
 | Bathe With A Giant Nude Alien | 0.50% | ~7 |
 | Eatin' Good in the Neighborhood | 0.40% | ~97 |
 | Lezduit! | 0.40% | ~97 |
 | Legendary Bounty Hunter | 0.40% | ~97 |
-| Self-Actualization | 0.40% | ~97 |
 | Fallout Doesn't Let You Do This | 0.40% | ~97 |
 | Spent 15 Hours At The Alien Strip Club | 0.40% | ~97 |
 | Series Wrap on Suit-O | 0.40% | ~97 |
@@ -51,7 +51,7 @@ Rating: 4.64 (Ranked 318)
 | That's B.A.L.L., Folks | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 24,185 (Ranked 119)  
-Completed: 13 (0.05%) (Ranked 270)  
+Completed: 13 (0.05%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,8 +6,8 @@
   "Ranking_Popularity": 94,
   "Ranking_PopularitySum": 102,
   "Ranking_EOS_Progress": 21,
-  "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 95,
+  "Ranking_EOS_Completed": 148,
+  "Ranking_EOS_NewPlayers": 96,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2019-12-10T11:00:00+00:00",
@@ -4715,18 +4715,24 @@
       "Rating": 4.92,
       "NumberOfAwards": 8021,
       "NumberOfAwardsMax": 3304
+    },
+    {
+      "Time": "2023-10-11T14:03:12.5488449+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 8023,
+      "NumberOfAwardsMax": 3306
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8021,
-  "NumberOfAwardsMax": 3304,
+  "NumberOfAwards": 8023,
+  "NumberOfAwardsMax": 3306,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 3304
+      "Count": 3306
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -4813,9 +4819,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 705131,
+  "EOS_Progressed": 705132,
   "EOS_Completed": 6404,
-  "EOS_NewPlayers": 468,
+  "EOS_NewPlayers": 463,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
@@ -23383,6 +23389,11 @@
       "Time": "2023-10-11T12:06:26.7930426+00:00",
       "NumProgressed": 705131,
       "NumCompleted": 6404
+    },
+    {
+      "Time": "2023-10-11T14:07:40.2905645+00:00",
+      "NumProgressed": 705132,
+      "NumCompleted": 6404
     }
   ],
   "TotalAchievements": 49,
@@ -23434,7 +23445,7 @@
       "Name": "Haste of Hermes",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 77564
+      "UsersEstimate": 77565
     },
     {
       "ID": "AchCerberusPets",
@@ -23450,7 +23461,7 @@
       "Name": "Is There No Escape?",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 366668
+      "UsersEstimate": 366669
     },
     {
       "ID": "AchClearAsphodel",
@@ -23458,7 +23469,7 @@
       "Name": "Escaped Asphodel",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 564105
+      "UsersEstimate": 564106
     },
     {
       "ID": "AchClearElysium",
@@ -23466,7 +23477,7 @@
       "Name": "Escaped Elysium",
       "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 465386
+      "UsersEstimate": 465387
     },
     {
       "ID": "AchClearElysiumEM",
@@ -23562,7 +23573,7 @@
       "Name": "Friends in High Places",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 479489
+      "UsersEstimate": 479490
     },
     {
       "ID": "AchGreaterCallSpurned",
@@ -23586,7 +23597,7 @@
       "Name": "Day-or-Night Trader",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 260898
+      "UsersEstimate": 260899
     },
     {
       "ID": "AchManyCosmetics",
@@ -23594,7 +23605,7 @@
       "Name": "Home Makeover",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 190385
+      "UsersEstimate": 190386
     },
     {
       "ID": "AchManyQuests",
@@ -23642,7 +23653,7 @@
       "Name": "Divided by Death",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 56410
+      "UsersEstimate": 56411
     },
     {
       "ID": "AchNyxChaosReunion",
@@ -23666,7 +23677,7 @@
       "Name": "Urge to Sing",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 253847
+      "UsersEstimate": 253848
     },
     {
       "ID": "AchPactUpgradesClears",
@@ -23682,7 +23693,7 @@
       "Name": "Blessed by the Gods",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 260898
+      "UsersEstimate": 260899
     },
     {
       "ID": "AchPickedManyHammers",
@@ -23754,7 +23765,7 @@
       "Name": "Arms Collector",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 500643
+      "UsersEstimate": 500644
     },
     {
       "ID": "AchWeaponClears",
@@ -23770,7 +23781,7 @@
       "Name": "Well Stocked",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 282052
+      "UsersEstimate": 282053
     },
     {
       "ID": "ActUnlockedAllAspects",
@@ -23785,15 +23796,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 705131,
+      "Progressed": 705132,
       "Completed": 6404
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
-  "LastChanged": "2023-10-11T12:02:16.9846703+00:00",
-  "LastChanged_Achievements": "2023-10-11T13:12:46.6382312+00:00",
+  "LastChanged": "2023-10-11T14:03:12.5488448+00:00",
+  "LastChanged_Achievements": "2023-10-11T14:07:40.2905638+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:28.9852152+00:00",
-  "LastUpdate_Ratings": "2023-10-11T13:09:21.0296706+00:00",
-  "LastUpdate_Achievements": "2023-10-11T13:12:46.638507+00:00"
+  "LastUpdate_Ratings": "2023-10-11T14:03:12.5488456+00:00",
+  "LastUpdate_Achievements": "2023-10-11T14:07:40.2907337+00:00"
 }

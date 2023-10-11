@@ -45,6 +45,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Natural 20 | 0.80% | ~1,099 |
 | Tax not Included | 0.70% | ~962 |
 | For the Hoard! | 0.70% | ~962 |
+| This Power Level...! | 0.70% | ~962 |
 | Trash to Treasure | 0.70% | ~962 |
 | Royal Ransom | 0.70% | ~962 |
 | Seasoned Journeyman | 0.70% | ~962 |
@@ -60,7 +61,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Scrapbooker | 0.60% | ~825 |
 | Locally Sourced | 0.60% | ~825 |
 | Flying off the Shelves | 0.60% | ~825 |
-| This Power Level...! | 0.60% | ~825 |
 | Master of Transmutation | 0.60% | ~825 |
 | Hidden Potential | 0.60% | ~825 |
 | Supercharged | 0.60% | ~825 |
@@ -120,7 +120,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 137,434 (Ranked 73)  
-Completed: 168 (0.12%) (Ranked 240)  
+Completed: 168 (0.12%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -12,8 +12,8 @@
 | Chapter 4 Complete | 27.00% | ~25 |
 | Heavy Duty | 23.00% | ~21 |
 | Chapter 5 Complete | 22.00% | ~20 |
+| Chapter 6 Complete | 21.00% | ~19 |
 | The Truth | 21.00% | ~19 |
-| Chapter 6 Complete | 20.00% | ~18 |
 | Plant Enchanter | 20.00% | ~18 |
 | Reconciliation | 20.00% | ~18 |
 | Always Watchful | 19.00% | ~17 |
@@ -36,7 +36,7 @@
 | Crystal Collector | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 91 (Ranked 396)  
-Completed: 0 (0.00%) (Ranked 313)  
+Completed: 0 (0.00%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

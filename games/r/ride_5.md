@@ -12,8 +12,8 @@
 | We're Going to Need a Bigger Garage | 24.00% | ~342 |
 | Bitter Rivalry | 24.00% | ~342 |
 | Champagne Spray | 21.00% | ~299 |
+| Restored and Ready | 19.00% | ~271 |
 | I Want One Too! | 19.00% | ~271 |
-| Restored and Ready | 18.00% | ~256 |
 | Legendary!!! | 18.00% | ~256 |
 | Quick Pit Stop | 18.00% | ~256 |
 | I'm Here Too! | 18.00% | ~256 |
@@ -55,7 +55,7 @@
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,424 (Ranked 220)  
-Completed: 0 (0.00%) (Ranked 313)  
+Completed: 0 (0.00%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

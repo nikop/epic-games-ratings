@@ -6,9 +6,9 @@
   "Ranking_Popularity": 418,
   "Ranking_PopularitySum": 334,
   "Ranking_EOS_Progress": 105,
-  "Ranking_EOS_Completed": 295,
+  "Ranking_EOS_Completed": 294,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -775,9 +775,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 42297,
+  "EOS_Progressed": 42301,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 835,
+  "EOS_NewPlayers": 834,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -20300,6 +20300,11 @@
       "Time": "2023-10-11T13:15:09.7791288+00:00",
       "NumProgressed": 42297,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-11T14:09:07.4727905+00:00",
+      "NumProgressed": 42301,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -20351,7 +20356,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 11420
+      "UsersEstimate": 11421
     },
     {
       "ID": "goals180",
@@ -20431,7 +20436,7 @@
       "Name": "Nomad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7190
+      "UsersEstimate": 7191
     },
     {
       "ID": "novice",
@@ -20487,7 +20492,7 @@
       "Name": "Unlock Tupa",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "playerWingsuit",
@@ -20519,7 +20524,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 10997
+      "UsersEstimate": 10998
     },
     {
       "ID": "sandboarder",
@@ -20622,15 +20627,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 42297,
+      "Progressed": 42301,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-10-08T11:59:05.5217125+00:00",
-  "LastChanged_Achievements": "2023-10-11T13:15:09.7791279+00:00",
+  "LastChanged_Achievements": "2023-10-11T14:09:07.4727902+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:34.5787714+00:00",
-  "LastUpdate_Ratings": "2023-10-11T13:07:36.59456+00:00",
-  "LastUpdate_Achievements": "2023-10-11T13:15:09.7793931+00:00"
+  "LastUpdate_Ratings": "2023-10-11T14:02:24.7608168+00:00",
+  "LastUpdate_Achievements": "2023-10-11T14:09:07.4729915+00:00"
 }

@@ -6,14 +6,14 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~13,918 |
-| Sweet Sorrow | 18.00% | ~6,959 |
-| Rules the Waves | 17.00% | ~6,572 |
-| Thou, All-Shaking Thunder | 15.00% | ~5,799 |
-| Rival | 14.00% | ~5,412 |
-| Correspondent | 12.00% | ~4,639 |
-| Lose Your Mind | 12.00% | ~4,639 |
-| Sound Mind? | 12.00% | ~4,639 |
+| Sink Beneath the Waves | 36.00% | ~13,919 |
+| Sweet Sorrow | 18.00% | ~6,960 |
+| Rules the Waves | 17.00% | ~6,573 |
+| Thou, All-Shaking Thunder | 15.00% | ~5,800 |
+| Rival | 14.00% | ~5,413 |
+| Correspondent | 12.00% | ~4,640 |
+| Lose Your Mind | 12.00% | ~4,640 |
+| Sound Mind? | 12.00% | ~4,640 |
 | Salt's Curse | 11.00% | ~4,253 |
 | HE SUN THE SUN THE SUN T | 11.00% | ~4,253 |
 | The Fall of the House | 11.00% | ~4,253 |
@@ -24,8 +24,8 @@ Number of Ratings: 401  (23.09.2022)
 | Open Your Ears | 7.00% | ~2,706 |
 | The Ascent of Man | 7.00% | ~2,706 |
 | Zee Fever | 5.00% | ~1,933 |
-| Old Unhappy Far-Off Things | 4.00% | ~1,546 |
-| Sink Beneath the Waves. Again. | 4.00% | ~1,546 |
+| Old Unhappy Far-Off Things | 4.00% | ~1,547 |
+| Sink Beneath the Waves. Again. | 4.00% | ~1,547 |
 | Storm's Curse | 3.00% | ~1,160 |
 | We're Gonna Need a Bigger Boat | 3.00% | ~1,160 |
 | Come Closer | 3.00% | ~1,160 |
@@ -61,8 +61,8 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~39 |
 | Ten Years at Zee | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,660 (Ranked 110)  
-Completed: 4 (0.01%) (Ranked 295)  
+Progressed: 38,664 (Ranked 110)  
+Completed: 4 (0.01%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -235,11 +235,11 @@ Completed: 4 (0.01%) (Ranked 295)
 | 2023-10-08 | 38,538 | 3 |
 | 2023-10-09 | 38,595 | 4 |
 | 2023-10-10 | 38,639 | 4 |
-| 2023-10-11 | 38,660 | 4 |
+| 2023-10-11 | 38,664 | 4 |
 ## Awards
-Max (Character Customization): 215  (Ranked 272)  
+Max (Character Customization): 215  (Ranked 273)  
 Sum: 286 (Ranked 352)  
-Diff (max vs sum): -80  
+Diff (max vs sum): -79  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 215 |

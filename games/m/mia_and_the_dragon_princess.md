@@ -24,7 +24,7 @@
 | Escape Artist | 2.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 61 (Ranked 421)  
-Completed: 1 (1.64%) (Ranked 120)  
+Completed: 1 (1.64%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -15,10 +15,10 @@
 | Purification Pioneer | 19.00% | ~10 |
 | Sanctuary Guardian | 19.00% | ~10 |
 | Shard Spender | 19.00% | ~10 |
+| Wild's Keeper | 19.00% | ~10 |
 | Eridanian Champion | 19.00% | ~10 |
 | Mind Illuminator | 17.00% | ~9 |
 | Stellar Dismantler | 17.00% | ~9 |
-| Wild's Keeper | 17.00% | ~9 |
 | Anomaly Destroyer | 15.00% | ~8 |
 | Aquarian Champion | 15.00% | ~8 |
 | Behenian Champion | 15.00% | ~8 |
@@ -104,7 +104,7 @@
 | Eridanian Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 52 (Ranked 432)  
-Completed: 0 (0.00%) (Ranked 313)  
+Completed: 0 (0.00%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

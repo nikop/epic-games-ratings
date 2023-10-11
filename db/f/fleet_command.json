@@ -3,9 +3,9 @@
   "Name": "Fleet Command",
   "ProductSlug": "naval-combat-package-34e444",
   "Ranking_EOS_Progress": 664,
-  "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 402,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_Completed": 312,
+  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-12-05T17:00:00+00:00",
     "PcReleaseDate": "1999-05-15T04:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:05.1116583+00:00",
   "LastChanged": "2023-03-31T05:58:05.1116583+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:55.3158843+00:00",
-  "LastUpdate_Ratings": "2023-10-11T13:05:05.5698762+00:00",
-  "LastUpdate_Achievements": "2023-10-11T13:12:59.2487889+00:00"
+  "LastUpdate_Ratings": "2023-10-11T13:58:43.675605+00:00",
+  "LastUpdate_Achievements": "2023-10-11T14:07:58.1627291+00:00"
 }

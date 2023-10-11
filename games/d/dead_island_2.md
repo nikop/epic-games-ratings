@@ -5,32 +5,32 @@ Rating: 4.54 (Ranked 509)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 4.00% | ~27,759 |
-| Dr. Reed, I Presume? | 3.00% | ~20,820 |
-| Git Gutte! | 3.00% | ~20,820 |
-| Break A Leg | 3.00% | ~20,820 |
-| Coup de Grâce | 3.00% | ~20,820 |
-| Hazardous Materials | 3.00% | ~20,820 |
-| Friends Like These | 3.00% | ~20,820 |
-| Hotel California | 3.00% | ~20,820 |
-| Apex Predator | 3.00% | ~20,820 |
-| Stacking the Deck | 3.00% | ~20,820 |
-| Personal Assistant Personally Assisted | 3.00% | ~20,820 |
-| Anger Management | 2.00% | ~13,880 |
-| Perks of the Job | 2.00% | ~13,880 |
-| Bookworm | 2.00% | ~13,880 |
-| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,880 |
-| But Doctor, I am Butcho | 2.00% | ~13,880 |
-| Slayer Squad | 2.00% | ~13,880 |
-| Can't Handle the Truth | 2.00% | ~13,880 |
-| Like Riding a Bike | 2.00% | ~13,880 |
-| Zombologist | 2.00% | ~13,880 |
-| Ooh, Shiny! | 2.00% | ~13,880 |
-| A Patton Emerges | 2.00% | ~13,880 |
-| Humanity Distilled | 2.00% | ~13,880 |
-| I Am the Resurrection | 2.00% | ~13,880 |
-| Our True Nature | 2.00% | ~13,880 |
-| This is My Weapon | 2.00% | ~13,880 |
+| Welcome To Hell-A | 4.00% | ~27,762 |
+| Dr. Reed, I Presume? | 3.00% | ~20,821 |
+| Git Gutte! | 3.00% | ~20,821 |
+| Break A Leg | 3.00% | ~20,821 |
+| Coup de Grâce | 3.00% | ~20,821 |
+| Hazardous Materials | 3.00% | ~20,821 |
+| Friends Like These | 3.00% | ~20,821 |
+| Hotel California | 3.00% | ~20,821 |
+| Apex Predator | 3.00% | ~20,821 |
+| Stacking the Deck | 3.00% | ~20,821 |
+| Personal Assistant Personally Assisted | 3.00% | ~20,821 |
+| Anger Management | 2.00% | ~13,881 |
+| Perks of the Job | 2.00% | ~13,881 |
+| Bookworm | 2.00% | ~13,881 |
+| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,881 |
+| But Doctor, I am Butcho | 2.00% | ~13,881 |
+| Slayer Squad | 2.00% | ~13,881 |
+| Can't Handle the Truth | 2.00% | ~13,881 |
+| Like Riding a Bike | 2.00% | ~13,881 |
+| Zombologist | 2.00% | ~13,881 |
+| Ooh, Shiny! | 2.00% | ~13,881 |
+| A Patton Emerges | 2.00% | ~13,881 |
+| Humanity Distilled | 2.00% | ~13,881 |
+| I Am the Resurrection | 2.00% | ~13,881 |
+| Our True Nature | 2.00% | ~13,881 |
+| This is My Weapon | 2.00% | ~13,881 |
 | Making Your Mark | 1.00% | ~6,940 |
 | Jumbo Keyring | 1.00% | ~6,940 |
 | Down with the Sickness | 1.00% | ~6,940 |
@@ -51,8 +51,8 @@ Rating: 4.54 (Ranked 509)
 | Donk! | 0.20% | ~1,388 |
 | Bucket List | 0.10% | ~694 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 693,987 (Ranked 22)  
-Completed: 2,209 (0.32%) (Ranked 200)  
+Progressed: 694,046 (Ranked 22)  
+Completed: 2,209 (0.32%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -225,16 +225,16 @@ Completed: 2,209 (0.32%) (Ranked 200)
 | 2023-10-08 | 693,041 | 2,205 |
 | 2023-10-09 | 693,470 | 2,208 |
 | 2023-10-10 | 693,868 | 2,209 |
-| 2023-10-11 | 693,987 | 2,209 |
+| 2023-10-11 | 694,046 | 2,209 |
 ## Awards
 Max (Great Boss Battles): 6,385  (Ranked 58)  
-Sum: 9,538 (Ranked 91)  
+Sum: 9,541 (Ranked 91)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,385 |
+| This game is Great for Beginners | 449 |
 | This game has Diverse Characters | 446 |
-| This game is Great for Beginners | 446 |
 | This game has Quickly Understood Controls | 418 |
 | This game is Relaxing | 400 |
 | This game has Amazing Storytelling | 376 |
@@ -417,4 +417,4 @@ Diff (max vs sum): -33
 | 2023-10-08 | 4.54 | 6,366 | 9,500 |
 | 2023-10-09 | 4.54 | 6,378 | 9,523 |
 | 2023-10-10 | 4.54 | 6,385 | 9,533 |
-| 2023-10-11 | 4.54 | 6,385 | 9,538 |
+| 2023-10-11 | 4.54 | 6,385 | 9,541 |

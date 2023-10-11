@@ -6,7 +6,7 @@
   "Ranking_Popularity": 531,
   "Ranking_PopularitySum": 531,
   "Ranking_EOS_Progress": 122,
-  "Ranking_EOS_Completed": 111,
+  "Ranking_EOS_Completed": 110,
   "Ranking_EOS_NewPlayers": 94,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
@@ -410,9 +410,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21884,
+  "EOS_Progressed": 21887,
   "EOS_Completed": 434,
-  "EOS_NewPlayers": 471,
+  "EOS_NewPlayers": 473,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.98,
   "EosHistory": [
@@ -19105,6 +19105,11 @@
       "Time": "2023-10-11T13:12:41.3128078+00:00",
       "NumProgressed": 21884,
       "NumCompleted": 434
+    },
+    {
+      "Time": "2023-10-11T14:07:32.8354121+00:00",
+      "NumProgressed": 21887,
+      "NumCompleted": 434
     }
   ],
   "TotalAchievements": 20,
@@ -19116,7 +19121,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 3720
+      "UsersEstimate": 3721
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -19148,7 +19153,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2407
+      "UsersEstimate": 2408
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -19156,7 +19161,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 2188
+      "UsersEstimate": 2189
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -19236,15 +19241,15 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 16851
+      "UsersEstimate": 16853
     },
     {
       "ID": "LAMBABY_LOVE",
       "SetID": "b6m2mm5",
       "Name": "Mama?",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 5909
+      "UsersEstimate": 6128
     },
     {
       "ID": "NORTH_FINISHED",
@@ -19268,22 +19273,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 3939
+      "UsersEstimate": 3940
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 21884,
+      "Progressed": 21887,
       "Completed": 434
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-11T13:12:41.3128071+00:00",
+  "LastChanged_Achievements": "2023-10-11T14:07:32.8354114+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:20.9828053+00:00",
-  "LastUpdate_Ratings": "2023-10-11T13:07:23.5738458+00:00",
-  "LastUpdate_Achievements": "2023-10-11T13:12:41.3130382+00:00"
+  "LastUpdate_Ratings": "2023-10-11T14:02:05.3323873+00:00",
+  "LastUpdate_Achievements": "2023-10-11T14:07:32.8355825+00:00"
 }

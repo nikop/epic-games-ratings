@@ -6,7 +6,7 @@
   "Ranking_Popularity": 531,
   "Ranking_PopularitySum": 531,
   "Ranking_EOS_Progress": 119,
-  "Ranking_EOS_Completed": 270,
+  "Ranking_EOS_Completed": 269,
   "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
@@ -5524,9 +5524,9 @@
       "ID": "ACH_GET_KNIFEY",
       "SetID": "cdkbb11",
       "Name": "Bring A Knife to a Gun Fight",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -5628,9 +5628,9 @@
       "ID": "ACH_KILL_NIPULON",
       "SetID": "cdkbb11",
       "Name": "Self-Actualization",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 45,
-      "UsersEstimate": 97
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH_KILL_SKRENDELS",
@@ -5827,8 +5827,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-07T05:03:09.4311759+00:00",
-  "LastChanged_Achievements": "2023-10-11T13:10:45.7202631+00:00",
+  "LastChanged_Achievements": "2023-10-11T14:04:40.0422626+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:51.1168375+00:00",
-  "LastUpdate_Ratings": "2023-10-11T13:05:51.2044719+00:00",
-  "LastUpdate_Achievements": "2023-10-11T13:10:45.7203594+00:00"
+  "LastUpdate_Ratings": "2023-10-11T13:59:52.0529594+00:00",
+  "LastUpdate_Achievements": "2023-10-11T14:04:40.0423745+00:00"
 }

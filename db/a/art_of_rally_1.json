@@ -6,9 +6,9 @@
   "Ranking_Popularity": 531,
   "Ranking_PopularitySum": 531,
   "Ranking_EOS_Progress": 146,
-  "Ranking_EOS_Completed": 252,
-  "Ranking_EOS_NewPlayers": 288,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_Completed": 251,
+  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
     "PcReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10270,
+  "EOS_Progressed": 10271,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1636,6 +1636,11 @@
       "Time": "2023-10-08T20:03:27.9258245+00:00",
       "NumProgressed": 10270,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-11T14:05:26.1972792+00:00",
+      "NumProgressed": 10271,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -1687,7 +1692,7 @@
       "Name": "bicycle race",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 1540
+      "UsersEstimate": 1541
     },
     {
       "ID": "ACH_CAR_WASH",
@@ -1695,7 +1700,7 @@
       "Name": "car wash",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1540
+      "UsersEstimate": 1541
     },
     {
       "ID": "ACH_COLLECTIBLES_FINLAND",
@@ -1807,7 +1812,7 @@
       "Name": "keep it tidy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7908
+      "UsersEstimate": 7909
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -1871,7 +1876,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9859
+      "UsersEstimate": 9860
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -1887,7 +1892,7 @@
       "Name": "medium attack",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 6162
+      "UsersEstimate": 6163
     },
     {
       "ID": "ACH_NIGHT",
@@ -1935,7 +1940,7 @@
       "Name": "good drivers have dead flies on the side windows",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 4416
+      "UsersEstimate": 4417
     },
     {
       "ID": "ACH_SNOW",
@@ -1983,22 +1988,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7394
+      "UsersEstimate": 7395
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10270,
+      "Progressed": 10271,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-10-11T13:11:18.5797117+00:00",
+  "LastChanged_Achievements": "2023-10-11T14:05:26.1972786+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:05.6929685+00:00",
-  "LastUpdate_Ratings": "2023-10-11T13:06:41.7311785+00:00",
-  "LastUpdate_Achievements": "2023-10-11T13:11:18.5798178+00:00"
+  "LastUpdate_Ratings": "2023-10-11T14:01:00.4894599+00:00",
+  "LastUpdate_Achievements": "2023-10-11T14:05:26.1973224+00:00"
 }

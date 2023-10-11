@@ -42,7 +42,7 @@
 | Big Bazar | -2.90% | ~-1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 34 (Ranked 462)  
-Completed: 1 (2.94%) (Ranked 91)  
+Completed: 1 (2.94%) (Ranked 90)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
