@@ -5,16 +5,16 @@ Rating: 4.76 (Ranked 120)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~17,427 |
-| The Killing Jar | 8.00% | ~15,490 |
-| Expanding Horizons | 7.00% | ~13,554 |
-| Quest for Survival | 7.00% | ~13,554 |
-| Not Your Average Trait | 7.00% | ~13,554 |
-| Gleaming the Cube | 6.00% | ~11,618 |
-| Familiar Face | 6.00% | ~11,618 |
-| Duality | 6.00% | ~11,618 |
-| Boss'n Up | 6.00% | ~11,618 |
-| Trait Chaser | 6.00% | ~11,618 |
+| First of Many | 9.00% | ~17,428 |
+| The Killing Jar | 8.00% | ~15,492 |
+| Expanding Horizons | 7.00% | ~13,555 |
+| Quest for Survival | 7.00% | ~13,555 |
+| Not Your Average Trait | 7.00% | ~13,555 |
+| Gleaming the Cube | 6.00% | ~11,619 |
+| Familiar Face | 6.00% | ~11,619 |
+| Duality | 6.00% | ~11,619 |
+| Boss'n Up | 6.00% | ~11,619 |
+| Trait Chaser | 6.00% | ~11,619 |
 | Not So Special Now | 5.00% | ~9,682 |
 | Not a Janitor | 5.00% | ~9,682 |
 | Equal Measures | 5.00% | ~9,682 |
@@ -24,17 +24,17 @@ Rating: 4.76 (Ranked 120)
 | Almost There | 5.00% | ~9,682 |
 | Make Some Room | 5.00% | ~9,682 |
 | Good, But Could Be Better! | 5.00% | ~9,682 |
-| Chaos | 4.00% | ~7,745 |
-| Traitor | 4.00% | ~7,745 |
-| Forever is a Long Time Coming | 4.00% | ~7,745 |
-| Power Surge | 4.00% | ~7,745 |
-| The God Gambit | 4.00% | ~7,745 |
-| Dark Designs | 4.00% | ~7,745 |
-| Madman's Paradise | 4.00% | ~7,745 |
-| Was This Supposed To Happen? | 4.00% | ~7,745 |
-| The Web | 4.00% | ~7,745 |
-| Scrap Collector | 4.00% | ~7,745 |
-| All These Traits� | 4.00% | ~7,745 |
+| Chaos | 4.00% | ~7,746 |
+| Traitor | 4.00% | ~7,746 |
+| Forever is a Long Time Coming | 4.00% | ~7,746 |
+| Power Surge | 4.00% | ~7,746 |
+| The God Gambit | 4.00% | ~7,746 |
+| Dark Designs | 4.00% | ~7,746 |
+| Madman's Paradise | 4.00% | ~7,746 |
+| Was This Supposed To Happen? | 4.00% | ~7,746 |
+| The Web | 4.00% | ~7,746 |
+| Scrap Collector | 4.00% | ~7,746 |
+| All These Traits� | 4.00% | ~7,746 |
 | Am I Seeing This? | 3.00% | ~5,809 |
 | The Agenda | 3.00% | ~5,809 |
 | Tall Tales | 3.00% | ~5,809 |
@@ -56,7 +56,7 @@ Rating: 4.76 (Ranked 120)
 | Cutting Edge | 1.00% | ~1,936 |
 | Proving Grounds | 1.00% | ~1,936 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 193,631 (Ranked 68)  
+Progressed: 193,645 (Ranked 68)  
 Completed: 379 (0.20%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 379 (0.20%) (Ranked 220)
 | 2023-10-08 | 192,419 | 375 |
 | 2023-10-09 | 192,990 | 377 |
 | 2023-10-10 | 193,536 | 379 |
-| 2023-10-11 | 193,631 | 379 |
+| 2023-10-11 | 193,645 | 379 |
 ## Awards
 Max (Great Boss Battles): 1,822  (Ranked 114)  
 Sum: 3,912 (Ranked 150)  

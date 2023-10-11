@@ -5,24 +5,24 @@ Rating: 4.40 (Ranked 718)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 80.00% | ~99,252 |
-| 74 miles East of Otaheité | 56.00% | ~69,476 |
-| Interesting... | 42.00% | ~52,107 |
-| The Everhart Expedition | 39.00% | ~48,385 |
+| A Family Heirloom | 80.00% | ~99,254 |
+| 74 miles East of Otaheité | 56.00% | ~69,478 |
+| Interesting... | 42.00% | ~52,109 |
+| The Everhart Expedition | 39.00% | ~48,387 |
 | The Vanishing of the Lady Shannon | 30.00% | ~37,220 |
 | Seaside Serenade | 30.00% | ~37,220 |
-| Halfway there | 29.00% | ~35,979 |
-| A brigantine, a brig and a barque | 28.00% | ~34,738 |
-| 506 East Hampden Avenue | 28.00% | ~34,738 |
+| Halfway there | 29.00% | ~35,980 |
+| A brigantine, a brig and a barque | 28.00% | ~34,739 |
+| 506 East Hampden Avenue | 28.00% | ~34,739 |
 | Weekend at Walakea's | 27.00% | ~33,498 |
 | Quite a Show | 27.00% | ~33,498 |
 | Dark Water Ride | 24.00% | ~29,776 |
 | Sunken | 24.00% | ~29,776 |
 | Deep Cut | 24.00% | ~29,776 |
-| FHALGOF'N' | 23.00% | ~28,535 |
+| FHALGOF'N' | 23.00% | ~28,536 |
 | Marsh Cannery | 21.00% | ~26,054 |
-| Greetings from Y'ha-nthlei! | 17.00% | ~21,091 |
-| The only thing I have now | 16.00% | ~19,850 |
+| Greetings from Y'ha-nthlei! | 17.00% | ~21,092 |
+| The only thing I have now | 16.00% | ~19,851 |
 | Not Another Boring Slideshow! | 15.00% | ~18,610 |
 | Naacalvision | 15.00% | ~18,610 |
 | I'll make a note of that... | 9.00% | ~11,166 |
@@ -40,7 +40,7 @@ Rating: 4.40 (Ranked 718)
 | Gently down the stream... | 1.00% | ~1,241 |
 | Meta-reference | 1.00% | ~1,241 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 124,065 (Ranked 76)  
+Progressed: 124,068 (Ranked 76)  
 Completed: 1,043 (0.84%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 1,043 (0.84%) (Ranked 150)
 | 2023-10-08 | 123,738 | 1,038 |
 | 2023-10-09 | 123,912 | 1,042 |
 | 2023-10-10 | 124,040 | 1,042 |
-| 2023-10-11 | 124,065 | 1,043 |
+| 2023-10-11 | 124,068 | 1,043 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

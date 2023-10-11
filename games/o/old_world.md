@@ -49,6 +49,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Furious Family | 0.70% | ~102 |
 | Great Ziggurat | 0.70% | ~102 |
 | Learn to Play 1 | 0.70% | ~102 |
+| Manichaeism | 0.70% | ~102 |
 | Carthaginian Paganism | 0.70% | ~102 |
 | Egyptian Paganism | 0.70% | ~102 |
 | Roman Paganism | 0.70% | ~102 |
@@ -62,7 +63,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Musaeum | 0.60% | ~88 |
 | Necropolis | 0.60% | ~88 |
 | Learn to Play 2 | 0.60% | ~88 |
-| Manichaeism | 0.60% | ~88 |
 | Regicide | 0.50% | ~73 |
 | Hanging Gardens in Babylon | 0.50% | ~73 |
 | Conqueror | 0.50% | ~73 |

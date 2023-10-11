@@ -1823,7 +1823,7 @@
   ],
   "EOS_Progressed": 14590,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 260,
+  "EOS_NewPlayers": 259,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15347,9 +15347,9 @@
       "ID": "ACHIEVEMENT_RELIGION_MANICHAEISM",
       "SetID": "7l38kb8",
       "Name": "Manichaeism",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 102
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_ASSYRIA",
@@ -16305,8 +16305,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-10T17:03:34.4008549+00:00",
-  "LastChanged_Achievements": "2023-10-11T06:05:35.2933162+00:00",
+  "LastChanged_Achievements": "2023-10-11T07:05:24.7177571+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:48.3987129+00:00",
-  "LastUpdate_Ratings": "2023-10-11T06:03:22.7927185+00:00",
-  "LastUpdate_Achievements": "2023-10-11T06:05:35.2946754+00:00"
+  "LastUpdate_Ratings": "2023-10-11T07:03:10.3001107+00:00",
+  "LastUpdate_Achievements": "2023-10-11T07:05:24.7188751+00:00"
 }

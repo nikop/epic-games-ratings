@@ -5,36 +5,36 @@ Rating: 4.03 (Ranked 959)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 90.00% | ~72 |
-| Battlefields Have Memories | 90.00% | ~72 |
-| Enlisted | 88.00% | ~70 |
-| Maybe Engage a Little | 81.00% | ~65 |
-| No More Names | 68.00% | ~54 |
-| Initiate | 60.00% | ~48 |
+| Unforeseen | 90.00% | ~73 |
+| Battlefields Have Memories | 90.00% | ~73 |
+| Enlisted | 88.00% | ~71 |
+| Maybe Engage a Little | 81.00% | ~66 |
+| No More Names | 68.00% | ~55 |
+| Initiate | 59.00% | ~48 |
 | Thrada-Kul | 56.00% | ~45 |
 | Gravity-Challenged Rocks | 46.00% | ~37 |
 | Soldier | 41.00% | ~33 |
 | All the Major Food Groups | 40.00% | ~32 |
 | Beggars Would Ride | 35.00% | ~28 |
-| Control is an Illusion | 34.00% | ~27 |
-| Socialite | 33.00% | ~26 |
-| The Means to Save It | 28.00% | ~22 |
-| Resilience to Sin | 24.00% | ~19 |
+| Control is an Illusion | 33.00% | ~27 |
+| Socialite | 33.00% | ~27 |
+| The Means to Save It | 27.00% | ~22 |
+| Resilience to Sin | 23.00% | ~19 |
 | A Familiar Nest | 21.00% | ~17 |
 | Periapt Alizarin | 21.00% | ~17 |
 | Geas Aristeya | 20.00% | ~16 |
 | Armsman | 19.00% | ~15 |
-| A Perfect Cycle | 18.00% | ~14 |
-| Recruit | 18.00% | ~14 |
+| A Perfect Cycle | 17.00% | ~14 |
+| Recruit | 17.00% | ~14 |
 | Good Boy | 14.00% | ~11 |
 | Lights Army | 11.00% | ~9 |
 | Periapt Cerulean | 11.00% | ~9 |
 | Periapt Viridian | 10.00% | ~8 |
 | Shroudfane Explorer | 10.00% | ~8 |
 | Armaments Gules | 9.00% | ~7 |
-| Scholar | 8.00% | ~6 |
-| Armaments Azure | 8.00% | ~6 |
-| Veteran | 8.00% | ~6 |
+| Scholar | 7.00% | ~6 |
+| Armaments Azure | 7.00% | ~6 |
+| Veteran | 7.00% | ~6 |
 | Kitted Out | 5.00% | ~4 |
 | Best Dressed | 5.00% | ~4 |
 | Armaments Vert | 5.00% | ~4 |
@@ -42,10 +42,10 @@ Rating: 4.03 (Ranked 959)
 | Treasure Hunter | 5.00% | ~4 |
 | Master of Ultramarine | 4.00% | ~3 |
 | Master of Carmine | 4.00% | ~3 |
-| Grand Magnus | 3.00% | ~2 |
-| Master of Malachite | 3.00% | ~2 |
-| Tip of the Spear | 3.00% | ~2 |
-| Backtracker | 3.00% | ~2 |
+| Grand Magnus | 2.00% | ~2 |
+| Master of Malachite | 2.00% | ~2 |
+| Tip of the Spear | 2.00% | ~2 |
+| Backtracker | 2.00% | ~2 |
 | Witch-Taker | 1.00% | ~1 |
 | Family Business | 0.00% | ~0 |
 | Diplomat | 0.00% | ~0 |
@@ -53,7 +53,7 @@ Rating: 4.03 (Ranked 959)
 | Out of Time | 0.00% | ~0 |
 | Fowl Play | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 80 (Ranked 403)  
+Progressed: 81 (Ranked 402)  
 Completed: 0 (0.00%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 0 (0.00%) (Ranked 312)
 | 2023-10-08 | 71 | 0 |
 | 2023-10-09 | 75 | 0 |
 | 2023-10-10 | 77 | 0 |
-| 2023-10-11 | 80 | 0 |
+| 2023-10-11 | 81 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

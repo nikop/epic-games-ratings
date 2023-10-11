@@ -4184,7 +4184,7 @@
   ],
   "EOS_Progressed": 4863,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 811,
+  "EOS_NewPlayers": 807,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -6505,9 +6505,9 @@
       "ID": "achievement_a10",
       "SetID": "3m4b0pk",
       "Name": "Tragedy",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 2188
+      "UsersEstimate": 2237
     },
     {
       "ID": "achievement_a11",
@@ -6930,8 +6930,8 @@
   "FirstSeenRating": "2023-04-28T17:02:09.2169574+00:00",
   "FirstSeenAchievements": "2023-07-31T22:07:03.059823+00:00",
   "LastChanged": "2023-10-11T01:42:25.248273+00:00",
-  "LastChanged_Achievements": "2023-10-11T06:08:13.3886614+00:00",
+  "LastChanged_Achievements": "2023-10-11T07:06:52.6660323+00:00",
   "LastUpdate_AppInfo": "2023-10-07T09:57:21.9804325+00:00",
-  "LastUpdate_Ratings": "2023-10-11T05:59:48.8380615+00:00",
-  "LastUpdate_Achievements": "2023-10-11T06:08:13.3887342+00:00"
+  "LastUpdate_Ratings": "2023-10-11T06:59:36.4890485+00:00",
+  "LastUpdate_Achievements": "2023-10-11T07:06:52.666091+00:00"
 }

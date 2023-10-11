@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 33.00% | ~75,917 |
+| Sowwy! | 33.00% | ~75,919 |
 | Alt+F4 | 6.00% | ~13,803 |
 | Déjà vu | 5.00% | ~11,503 |
 | Where's that freaking Dwarf? | 5.00% | ~11,503 |
@@ -40,9 +40,9 @@ Number of Ratings: 118  (23.09.2022)
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,301 |
 | The Ranger of Chaos | 1.00% | ~2,301 |
 | Thieves' Guild Accreditation | 1.00% | ~2,301 |
-| Dead for good | 0.90% | ~2,070 |
-| Lust and Debauchery | 0.90% | ~2,070 |
-| Material Girl | 0.90% | ~2,070 |
+| Dead for good | 0.90% | ~2,071 |
+| Lust and Debauchery | 0.90% | ~2,071 |
+| Material Girl | 0.90% | ~2,071 |
 | Gargantua | 0.80% | ~1,840 |
 | In Navalu's footsteps | 0.70% | ~1,610 |
 | Lëgal Legend | 0.60% | ~1,380 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~230 |
 | Dwarf Candy | 0.10% | ~230 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,053 (Ranked 60)  
+Progressed: 230,058 (Ranked 60)  
 Completed: 5 (0.00%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,14 +228,14 @@ Completed: 5 (0.00%) (Ranked 312)
 | 2023-10-08 | 229,641 | 5 |
 | 2023-10-09 | 229,845 | 5 |
 | 2023-10-10 | 230,022 | 5 |
-| 2023-10-11 | 230,053 | 5 |
+| 2023-10-11 | 230,058 | 5 |
 ## Awards
-Max (Character Customization): 210  (Ranked 275)  
-Sum: 415 (Ranked 324)  
+Max (Character Customization): 212  (Ranked 275)  
+Sum: 417 (Ranked 324)  
 Diff (max vs sum): -49  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 210 |
+| This game has Inclusive Character Customization | 212 |
 | This game is Relaxing | 32 |
 | This game is Great for Beginners | 31 |
 | This game is Highly Recommended | 26 |
@@ -401,3 +401,4 @@ Diff (max vs sum): -49
 | 2023-10-08 | 4.59 | - | 210 | 412 |
 | 2023-10-09 | 4.59 | - | 210 | 414 |
 | 2023-10-10 | 4.59 | - | 210 | 415 |
+| 2023-10-11 | 4.59 | - | 212 | 417 |

@@ -23,7 +23,7 @@ Rating: 4.49 (Ranked 590)
 | Hey, Luke At Us | 49.00% | ~2,383 |
 | Kitted Out | 49.00% | ~2,383 |
 | Tanalorr Bound | 48.00% | ~2,334 |
-| Tragedy | 45.00% | ~2,188 |
+| Tragedy | 46.00% | ~2,237 |
 | Riposte | 45.00% | ~2,188 |
 | At the Precipice | 43.00% | ~2,091 |
 | Greezy Money | 42.00% | ~2,042 |

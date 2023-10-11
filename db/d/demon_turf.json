@@ -4,7 +4,7 @@
   "ProductSlug": "demon-turf",
   "Ranking_EOS_Progress": 662,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 402,
+  "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-11-04T11:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6632397+00:00",
   "LastChanged": "2023-03-31T05:57:34.6632398+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:29.4332371+00:00",
-  "LastUpdate_Ratings": "2023-10-11T05:57:49.5183412+00:00",
-  "LastUpdate_Achievements": "2023-10-11T06:03:46.7736515+00:00"
+  "LastUpdate_Ratings": "2023-10-11T06:57:40.8820552+00:00",
+  "LastUpdate_Achievements": "2023-10-11T07:03:36.4795878+00:00"
 }

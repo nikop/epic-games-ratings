@@ -4,7 +4,7 @@
   "ProductSlug": "the-alchemist-of-ars-magna-e68b84",
   "Ranking_EOS_Progress": 662,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 402,
+  "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-06-06T07:00:00+00:00",
@@ -30,9 +30,18 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "6b1h973",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
   "FirstSeen": "2023-06-07T20:57:08.4369441+00:00",
+  "FirstSeenAchievements": "2023-10-11T07:06:18.3215752+00:00",
+  "LastChanged_Achievements": "2023-10-11T07:06:18.3215731+00:00",
   "LastUpdate_AppInfo": "2023-10-10T19:57:53.1906433+00:00",
-  "LastUpdate_Ratings": "2023-10-11T06:03:18.0906005+00:00",
-  "LastUpdate_Achievements": "2023-10-11T06:06:28.7554686+00:00"
+  "LastUpdate_Ratings": "2023-10-11T07:03:05.9708187+00:00",
+  "LastUpdate_Achievements": "2023-10-11T07:06:18.3215771+00:00"
 }

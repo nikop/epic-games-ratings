@@ -1066,18 +1066,24 @@
       "Rating": 4.59,
       "NumberOfAwards": 415,
       "NumberOfAwardsMax": 210
+    },
+    {
+      "Time": "2023-10-11T06:59:30.2862035+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 417,
+      "NumberOfAwardsMax": 212
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 415,
-  "NumberOfAwardsMax": 210,
+  "NumberOfAwards": 417,
+  "NumberOfAwardsMax": 212,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 210
+      "Count": 212
     },
     {
       "Text": "This game is Relaxing",
@@ -1128,7 +1134,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 230053,
+  "EOS_Progressed": 230058,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 1494,
   "EOS_NewCompleters": 0,
@@ -14238,6 +14244,11 @@
       "Time": "2023-10-11T06:06:15.1428422+00:00",
       "NumProgressed": 230053,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-11T07:06:04.59569+00:00",
+      "NumProgressed": 230058,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 88,
@@ -14697,7 +14708,7 @@
       "Name": "Sowwy!",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 75917
+      "UsersEstimate": 75919
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -14777,7 +14788,7 @@
       "Name": "Dead for good",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2070
+      "UsersEstimate": 2071
     },
     {
       "ID": "KillGolbargh",
@@ -14865,7 +14876,7 @@
       "Name": "Lust and Debauchery",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 2070
+      "UsersEstimate": 2071
     },
     {
       "ID": "RangerEpic",
@@ -14937,7 +14948,7 @@
       "Name": "Material Girl",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2070
+      "UsersEstimate": 2071
     },
     {
       "ID": "WizardResistBurn",
@@ -14952,21 +14963,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 230053,
+      "Progressed": 230058,
       "Completed": 5
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 230053,
+      "Progressed": 230058,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2023-10-10T17:00:33.0804127+00:00",
-  "LastChanged_Achievements": "2023-10-11T06:06:15.1428417+00:00",
+  "LastChanged": "2023-10-11T06:59:30.2862032+00:00",
+  "LastChanged_Achievements": "2023-10-11T07:06:04.5956872+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:46.3182894+00:00",
-  "LastUpdate_Ratings": "2023-10-11T05:59:42.5221766+00:00",
-  "LastUpdate_Achievements": "2023-10-11T06:06:15.1430524+00:00"
+  "LastUpdate_Ratings": "2023-10-11T06:59:30.2862039+00:00",
+  "LastUpdate_Achievements": "2023-10-11T07:06:04.5958754+00:00"
 }

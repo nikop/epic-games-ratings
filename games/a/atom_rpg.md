@@ -29,7 +29,7 @@ Number of Ratings: 54  (23.09.2022)
 | Sacrifice | 4.00% | ~51 |
 | Wishmaster | 3.00% | ~38 |
 | Career criminal | 2.00% | ~26 |
-| Neanderthal | 1.00% | ~13 |
+| Neanderthal | 2.00% | ~26 |
 | It was worth a shot | 1.00% | ~13 |
 | Cosmic Horror | 1.00% | ~13 |
 | Ghostbuster | 0.70% | ~9 |

@@ -6,17 +6,17 @@ Number of Ratings: 896  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 93.00% | ~564,045 |
-| Error: Stack Overflow | 66.00% | ~400,290 |
-| We need more gold | 61.00% | ~369,965 |
-| The dawn of civilization | 53.00% | ~321,445 |
-| More FPS for the FPS god! | 50.00% | ~303,250 |
-| Beauty and harmony | 48.00% | ~291,120 |
-| One more! | 44.00% | ~266,860 |
-| Overmind | 24.00% | ~145,560 |
-| RNG is my best friend now | 18.00% | ~109,170 |
-| Cosplay | 13.00% | ~78,845 |
-| Evolution in progress... | 13.00% | ~78,845 |
+| First.. Bit? | 93.00% | ~564,049 |
+| Error: Stack Overflow | 66.00% | ~400,293 |
+| We need more gold | 61.00% | ~369,967 |
+| The dawn of civilization | 53.00% | ~321,447 |
+| More FPS for the FPS god! | 50.00% | ~303,252 |
+| Beauty and harmony | 48.00% | ~291,122 |
+| One more! | 44.00% | ~266,862 |
+| Overmind | 24.00% | ~145,561 |
+| RNG is my best friend now | 18.00% | ~109,171 |
+| Cosplay | 13.00% | ~78,846 |
+| Evolution in progress... | 13.00% | ~78,846 |
 | Step by step | 8.00% | ~48,520 |
 | README reader | 3.00% | ~18,195 |
 | Data scientist | 3.00% | ~18,195 |
@@ -29,13 +29,13 @@ Number of Ratings: 896  (23.09.2022)
 | The hoarder | 1.00% | ~6,065 |
 | Ping | 1.00% | ~6,065 |
 | Magna cum laude | 1.00% | ~6,065 |
-| Deal with it! | 0.50% | ~3,032 |
+| Deal with it! | 0.50% | ~3,033 |
 | Gold rush | 0.40% | ~2,426 |
 | Cat-o-holic | 0.40% | ~2,426 |
 | Elements will destroy you! | 0.30% | ~1,820 |
-| The Scrooge | 0.10% | ~606 |
+| The Scrooge | 0.10% | ~607 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 606,500 (Ranked 29)  
+Progressed: 606,504 (Ranked 29)  
 Completed: 532 (0.09%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 532 (0.09%) (Ranked 251)
 | 2023-10-08 | 606,287 | 531 |
 | 2023-10-09 | 606,385 | 532 |
 | 2023-10-10 | 606,487 | 532 |
-| 2023-10-11 | 606,500 | 532 |
+| 2023-10-11 | 606,504 | 532 |
 ## Awards
 Max (Challenging Puzzles): 134  (Ranked 314)  
 Sum: 134 (Ranked 414)  

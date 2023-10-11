@@ -4,7 +4,7 @@
   "ProductSlug": "miniland-adventure-ee81ff",
   "Ranking_EOS_Progress": 607,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 402,
+  "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -461,8 +461,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-27T06:05:39.2666292+00:00",
-  "LastChanged_Achievements": "2023-10-11T06:04:33.2053986+00:00",
+  "LastChanged_Achievements": "2023-10-11T07:04:22.304975+00:00",
   "LastUpdate_AppInfo": "2023-10-11T05:57:12.5444491+00:00",
-  "LastUpdate_Ratings": "2023-10-11T05:59:16.9955506+00:00",
-  "LastUpdate_Achievements": "2023-10-11T06:04:33.2054491+00:00"
+  "LastUpdate_Ratings": "2023-10-11T06:59:06.6722191+00:00",
+  "LastUpdate_Achievements": "2023-10-11T07:04:22.3050209+00:00"
 }

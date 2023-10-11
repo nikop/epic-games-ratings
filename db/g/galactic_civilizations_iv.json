@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 286,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -912,9 +912,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 6800,
+  "EOS_Progressed": 6801,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6852,6 +6852,11 @@
       "Time": "2023-10-11T06:08:12.4181929+00:00",
       "NumProgressed": 6800,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-11T07:06:51.668347+00:00",
+      "NumProgressed": 6801,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -6903,7 +6908,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 4216
+      "UsersEstimate": 4217
     },
     {
       "ID": "Control_All_Relics",
@@ -6967,7 +6972,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 5372
+      "UsersEstimate": 5373
     },
     {
       "ID": "First_Race_Met",
@@ -6975,7 +6980,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4964
+      "UsersEstimate": 4965
     },
     {
       "ID": "First_Ship_Designed",
@@ -6999,7 +7004,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5304
+      "UsersEstimate": 5305
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -7183,7 +7188,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 4216
+      "UsersEstimate": 4217
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -7277,9 +7282,9 @@
       "ID": "Win_As_Krynn",
       "SetID": "4h07amh",
       "Name": "Win as the Krynn",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 48
     },
     {
       "ID": "Win_As_Manti",
@@ -7351,7 +7356,7 @@
       "Name": "Win a Battle",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 4488
+      "UsersEstimate": 4489
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -7438,15 +7443,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6800,
+      "Progressed": 6801,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-10-11T06:08:12.4181923+00:00",
+  "LastChanged_Achievements": "2023-10-11T07:06:51.6683464+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:04.8619869+00:00",
-  "LastUpdate_Ratings": "2023-10-11T05:59:26.474461+00:00",
-  "LastUpdate_Achievements": "2023-10-11T06:08:12.4183088+00:00"
+  "LastUpdate_Ratings": "2023-10-11T06:59:15.0319884+00:00",
+  "LastUpdate_Achievements": "2023-10-11T07:06:51.6684584+00:00"
 }

@@ -24,19 +24,19 @@ Number of Ratings: 70,340  (23.09.2022)
 | I | 0.70% | ~6,523 |
 | Healthy Obsession | 0.70% | ~6,523 |
 | Preemptive Strike | 0.70% | ~6,523 |
-| Agonizing Escape | 0.60% | ~5,591 |
-| Backdoor Escape | 0.60% | ~5,591 |
-| I've got your back | 0.60% | ~5,591 |
-| Perfect Escape | 0.60% | ~5,591 |
-| Engineer | 0.60% | ~5,591 |
-| Humanitarian | 0.60% | ~5,591 |
-| Perfect Killing | 0.50% | ~4,659 |
-| Apt Killer | 0.50% | ~4,659 |
-| Risk it all | 0.50% | ~4,659 |
-| II | 0.50% | ~4,659 |
-| Wounded Healer | 0.50% | ~4,659 |
-| Close Shave | 0.50% | ~4,659 |
-| Second Act | 0.50% | ~4,659 |
+| Humanitarian | 0.70% | ~6,523 |
+| Agonizing Escape | 0.60% | ~5,592 |
+| Backdoor Escape | 0.60% | ~5,592 |
+| I've got your back | 0.60% | ~5,592 |
+| Perfect Escape | 0.60% | ~5,592 |
+| Engineer | 0.60% | ~5,592 |
+| Close Shave | 0.60% | ~5,592 |
+| Perfect Killing | 0.50% | ~4,660 |
+| Apt Killer | 0.50% | ~4,660 |
+| Risk it all | 0.50% | ~4,660 |
+| II | 0.50% | ~4,660 |
+| Wounded Healer | 0.50% | ~4,660 |
+| Second Act | 0.50% | ~4,660 |
 | Vulture | 0.40% | ~3,728 |
 | III | 0.40% | ~3,728 |
 | Cherish your Life | 0.40% | ~3,728 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~932 |
 | Adept Ripley | 0.10% | ~932 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 931,885 (Ranked 14)  
+Progressed: 931,921 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -410,7 +410,7 @@ Completed: 49 (0.01%) (Ranked 294)
 | 2023-10-08 | 927,984 | 49 |
 | 2023-10-09 | 929,902 | 49 |
 | 2023-10-10 | 931,511 | 49 |
-| 2023-10-11 | 931,885 | 49 |
+| 2023-10-11 | 931,921 | 49 |
 ## Awards
 Max (Diverse Characters): 33,734  (Ranked 15)  
 Sum: 261,070 (Ranked 13)  

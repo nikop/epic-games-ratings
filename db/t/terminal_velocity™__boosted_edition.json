@@ -4,7 +4,7 @@
   "ProductSlug": "terminal-velocity-boosted-edition-1f204f",
   "Ranking_EOS_Progress": 607,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 402,
+  "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-03-14T13:00:00+00:00",
@@ -312,8 +312,8 @@
   "FirstSeenRating": "2023-04-24T13:57:47.5499376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:22.0883379+00:00",
   "LastChanged": "2023-04-24T13:57:47.5499377+00:00",
-  "LastChanged_Achievements": "2023-10-11T06:06:10.4171501+00:00",
+  "LastChanged_Achievements": "2023-10-11T07:05:59.7020268+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:58.0201273+00:00",
-  "LastUpdate_Ratings": "2023-10-11T05:58:25.4671778+00:00",
-  "LastUpdate_Achievements": "2023-10-11T06:06:10.4171754+00:00"
+  "LastUpdate_Ratings": "2023-10-11T06:58:18.1736341+00:00",
+  "LastUpdate_Achievements": "2023-10-11T07:05:59.7020505+00:00"
 }

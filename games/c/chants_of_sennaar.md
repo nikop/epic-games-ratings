@@ -17,8 +17,8 @@
 | Peace walker | 4.00% | ~11 |
 | Cable guy | 4.00% | ~11 |
 | A good beginning | 4.00% | ~11 |
+| Half the way | 4.00% | ~11 |
 | One last step | 4.00% | ~11 |
-| Half the way | 3.00% | ~8 |
 | Open door | 3.00% | ~8 |
 | Feels like springtime | 3.00% | ~8 |
 | For its own good | 3.00% | ~8 |

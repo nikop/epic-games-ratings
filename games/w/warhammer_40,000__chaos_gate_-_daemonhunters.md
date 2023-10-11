@@ -30,8 +30,8 @@ Number of Ratings: 371  (23.09.2022)
 | Efficient Killer | 1.00% | ~33 |
 | Only in Death | 1.00% | ~33 |
 | A Gift Spurned | 1.00% | ~33 |
+| Long Distance Call | 1.00% | ~33 |
 | Execution Force | 1.00% | ~33 |
-| Long Distance Call | 0.90% | ~29 |
 | Tactical Flexibility | 0.90% | ~29 |
 | Tactical Sabotage | 0.90% | ~29 |
 | Fleetmaster | 0.80% | ~26 |

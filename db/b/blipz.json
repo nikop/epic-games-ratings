@@ -4,7 +4,7 @@
   "ProductSlug": "blipz-c85697",
   "Ranking_EOS_Progress": 662,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 402,
+  "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-05-03T20:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-07T12:58:59.3118276+00:00",
-  "LastUpdate_Ratings": "2023-10-11T05:58:58.3281289+00:00",
-  "LastUpdate_Achievements": "2023-10-11T06:03:46.9125238+00:00"
+  "LastUpdate_Ratings": "2023-10-11T06:58:49.6251785+00:00",
+  "LastUpdate_Achievements": "2023-10-11T07:03:36.5425176+00:00"
 }

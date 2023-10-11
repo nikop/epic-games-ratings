@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 466,
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -2956,9 +2956,9 @@
       "ID": "NEANDERTHAL_1",
       "SetID": "bf13m8j",
       "Name": "Neanderthal",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 26
     },
     {
       "ID": "NO_NAME",
@@ -3116,8 +3116,8 @@
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-09-29T01:41:28.9416414+00:00",
-  "LastChanged_Achievements": "2023-10-11T06:06:36.4408326+00:00",
+  "LastChanged_Achievements": "2023-10-11T07:06:26.1036832+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:48.8446992+00:00",
-  "LastUpdate_Ratings": "2023-10-11T06:00:43.0745731+00:00",
-  "LastUpdate_Achievements": "2023-10-11T06:06:36.4409056+00:00"
+  "LastUpdate_Ratings": "2023-10-11T07:00:32.8659552+00:00",
+  "LastUpdate_Achievements": "2023-10-11T07:06:26.103725+00:00"
 }
