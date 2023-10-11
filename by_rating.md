@@ -555,7 +555,7 @@
 | 551 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,136 | 81 |
 | 551 | [CryoFall](games/c/cryofall.md) | 4.51 | 0 | 531 |
 | 551 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 0 | 531 |
-| 551 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.51 | 33,667 | 15 |
+| 551 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.51 | 33,734 | 15 |
 | 551 | [Fall Guys](games/f/fall_guys.md) | 4.51 | 149,834 | 7 |
 | 551 | [Far Cry](games/f/far_cry.md) | 4.51 | 28 | 480 |
 | 551 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 4.51 | 0 | 531 |
