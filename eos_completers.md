@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 53.19% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 53.17% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 47.17% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.28% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
@@ -58,7 +58,7 @@
 | 56 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.77% |
 | 56 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 5.77% |
 | 58 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.29% |
-| 59 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.08% |
+| 59 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.00% |
 | 60 | [JARS](games/j/jars.md) | 4.94% |
 | 61 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
 | 62 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.76% |
@@ -68,12 +68,12 @@
 | 66 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.31% |
 | 67 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.11% |
 | 68 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.08% |
-| 69 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 4.03% |
-| 70 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.02% |
+| 69 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.02% |
+| 70 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 4.00% |
 | 71 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.85% |
 | 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.85% |
 | 73 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
-| 74 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.79% |
+| 74 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.78% |
 | 75 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
 | 75 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.57% |
 | 77 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
@@ -203,11 +203,11 @@
 | 201 | [Against the Storm](games/a/against_the_storm.md) | 0.31% |
 | 201 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 201 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
+| 204 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
 | 204 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.30% |
 | 204 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.30% |
 | 204 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.30% |
-| 207 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.29% |
-| 207 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
+| 208 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
 | 209 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.28% |
 | 209 | [The Devil's Face](games/t/the_devil's_face.md) | 0.28% |
 | 211 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.25% |
