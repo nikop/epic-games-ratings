@@ -410,11 +410,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21863,
+  "EOS_Progressed": 21864,
   "EOS_Completed": 434,
-  "EOS_NewPlayers": 483,
+  "EOS_NewPlayers": 481,
   "EOS_NewCompleters": 9,
-  "EOS_Completed_Percentage": 1.99,
+  "EOS_Completed_Percentage": 1.98,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:31.7860479+00:00",
@@ -19050,6 +19050,11 @@
       "Time": "2023-10-10T23:06:25.5479921+00:00",
       "NumProgressed": 21863,
       "NumCompleted": 434
+    },
+    {
+      "Time": "2023-10-11T00:05:28.3202634+00:00",
+      "NumProgressed": 21864,
+      "NumCompleted": 434
     }
   ],
   "TotalAchievements": 20,
@@ -19125,7 +19130,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 3279
+      "UsersEstimate": 3280
     },
     {
       "ID": "FOUND_ERIN",
@@ -19213,22 +19218,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 3935
+      "UsersEstimate": 3936
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 21863,
+      "Progressed": 21864,
       "Completed": 434
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-10T23:06:25.5479916+00:00",
+  "LastChanged_Achievements": "2023-10-11T00:05:28.3202627+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:20.9828053+00:00",
-  "LastUpdate_Ratings": "2023-10-10T23:00:49.765281+00:00",
-  "LastUpdate_Achievements": "2023-10-10T23:06:25.5481536+00:00"
+  "LastUpdate_Ratings": "2023-10-10T23:59:50.3004915+00:00",
+  "LastUpdate_Achievements": "2023-10-11T00:05:28.3204073+00:00"
 }

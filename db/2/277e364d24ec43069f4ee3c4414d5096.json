@@ -326,9 +326,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 110819,
+  "EOS_Progressed": 110823,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 830,
+  "EOS_NewPlayers": 829,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -13931,6 +13931,11 @@
       "Time": "2023-10-10T23:08:33.228244+00:00",
       "NumProgressed": 110819,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-10-11T00:08:11.6838277+00:00",
+      "NumProgressed": 110823,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 49,
@@ -13950,7 +13955,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 85331
+      "UsersEstimate": 85334
     },
     {
       "ID": "EAwards_10",
@@ -13958,7 +13963,7 @@
       "Name": "Juan Punch Man",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12190
+      "UsersEstimate": 12191
     },
     {
       "ID": "EAwards_11",
@@ -13966,7 +13971,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 28813
+      "UsersEstimate": 28814
     },
     {
       "ID": "EAwards_12",
@@ -14006,7 +14011,7 @@
       "Name": "PERFECT",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 7757
+      "UsersEstimate": 7758
     },
     {
       "ID": "EAwards_17",
@@ -14014,7 +14019,7 @@
       "Name": "Talented Player",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 39895
+      "UsersEstimate": 39896
     },
     {
       "ID": "EAwards_18",
@@ -14038,7 +14043,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 53193
+      "UsersEstimate": 53195
     },
     {
       "ID": "EAwards_20",
@@ -14054,7 +14059,7 @@
       "Name": "Special Delivery!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 7757
+      "UsersEstimate": 7758
     },
     {
       "ID": "EAwards_22",
@@ -14078,7 +14083,7 @@
       "Name": "Temple Raider",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 7757
+      "UsersEstimate": 7758
     },
     {
       "ID": "EAwards_25",
@@ -14094,7 +14099,7 @@
       "Name": "I have nothing left to teach you",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 12190
+      "UsersEstimate": 12191
     },
     {
       "ID": "EAwards_27",
@@ -14150,7 +14155,7 @@
       "Name": "El T\u00E9cnico T\u00E1ctico",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 7757
+      "UsersEstimate": 7758
     },
     {
       "ID": "EAwards_33",
@@ -14214,7 +14219,7 @@
       "Name": "Severed",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13298
+      "UsersEstimate": 13299
     },
     {
       "ID": "EAwards_40",
@@ -14310,7 +14315,7 @@
       "Name": "Questionable Plumbing",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13298
+      "UsersEstimate": 13299
     },
     {
       "ID": "EAwards_8",
@@ -14318,7 +14323,7 @@
       "Name": "Santa Golpiza!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13298
+      "UsersEstimate": 13299
     },
     {
       "ID": "EAwards_9",
@@ -14333,7 +14338,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 110819,
+      "Progressed": 110823,
       "Completed": 45
     }
   ],
@@ -14341,8 +14346,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-25T16:00:07.3978241+00:00",
-  "LastChanged_Achievements": "2023-10-10T23:08:33.2282433+00:00",
+  "LastChanged_Achievements": "2023-10-11T00:08:11.6838271+00:00",
   "LastUpdate_AppInfo": "2023-10-06T01:39:33.4628061+00:00",
-  "LastUpdate_Ratings": "2023-10-10T22:57:55.8054195+00:00",
-  "LastUpdate_Achievements": "2023-10-10T23:08:33.2283705+00:00"
+  "LastUpdate_Ratings": "2023-10-10T23:57:36.9090158+00:00",
+  "LastUpdate_Achievements": "2023-10-11T00:08:11.683969+00:00"
 }

@@ -300,9 +300,9 @@
       "ID": "ANDREAS_AND_THE_CHAMBER_OF_SECRETS",
       "SetID": "e4de54",
       "Name": "Andreas and the chamber of secrets",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ANXIETY",
@@ -324,9 +324,9 @@
       "ID": "APHRODITE",
       "SetID": "e4de54",
       "Name": "Aphrodite",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "APOLLO",
@@ -364,9 +364,9 @@
       "ID": "A_STRANGE_SPRING",
       "SetID": "e4de54",
       "Name": "A strange spring",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "BAD_MUSICIAN",
@@ -460,9 +460,9 @@
       "ID": "HEBE",
       "SetID": "e4de54",
       "Name": "Hebe",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "HERA",
@@ -611,8 +611,8 @@
   ],
   "FirstSeen": "2023-07-24T20:59:19.8931718+00:00",
   "FirstSeenAchievements": "2023-07-14T20:01:12.8113065+00:00",
-  "LastChanged_Achievements": "2023-10-10T23:04:43.7576505+00:00",
+  "LastChanged_Achievements": "2023-10-11T00:04:09.510869+00:00",
   "LastUpdate_AppInfo": "2023-10-07T02:12:11.3049242+00:00",
-  "LastUpdate_Ratings": "2023-10-10T22:57:50.7658067+00:00",
-  "LastUpdate_Achievements": "2023-10-10T23:04:43.7576836+00:00"
+  "LastUpdate_Ratings": "2023-10-10T23:57:33.1183517+00:00",
+  "LastUpdate_Achievements": "2023-10-11T00:04:09.5109009+00:00"
 }

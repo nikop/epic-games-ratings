@@ -30,13 +30,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Dungeon Imports | 1.00% | ~1,374 |
 | Through Repetition, Perfection | 1.00% | ~1,374 |
 | Did we pack lunch? | 1.00% | ~1,374 |
+| Arcane Industries | 1.00% | ~1,374 |
 | On the Path to Greatness | 0.90% | ~1,237 |
 | Ascended | 0.90% | ~1,237 |
 | Vanity, Verily | 0.90% | ~1,237 |
 | Blank Page Syndrome | 0.90% | ~1,237 |
 | Efficient Floor Space | 0.90% | ~1,237 |
 | Gem Expert | 0.90% | ~1,237 |
-| Arcane Industries | 0.90% | ~1,237 |
 | Research & Development | 0.80% | ~1,099 |
 | Fated Encounters | 0.80% | ~1,099 |
 | Power of Love | 0.80% | ~1,099 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,421 (Ranked 73)  
+Progressed: 137,424 (Ranked 73)  
 Completed: 168 (0.12%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,6 +293,7 @@ Completed: 168 (0.12%) (Ranked 239)
 | 2023-10-08 | 137,336 | 167 |
 | 2023-10-09 | 137,384 | 167 |
 | 2023-10-10 | 137,421 | 168 |
+| 2023-10-11 | 137,424 | 168 |
 ## Awards
 Max (Great for Beginners): 4,779  (Ranked 71)  
 Sum: 27,368 (Ranked 50)  

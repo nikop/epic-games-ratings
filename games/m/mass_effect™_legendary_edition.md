@@ -34,7 +34,7 @@
 | Head Hunter | 42.00% | ~272 |
 | Operative | 42.00% | ~272 |
 | Veteran | 41.00% | ~266 |
-| Scholar | 40.00% | ~259 |
+| Scholar | 41.00% | ~266 |
 | Power Full | 40.00% | ~259 |
 | The Professor | 37.00% | ~240 |
 | Completionist | 36.00% | ~233 |
@@ -86,9 +86,9 @@
 | Paramour II | 21.00% | ~136 |
 | Pathfinder | 21.00% | ~136 |
 | Arbiter | 21.00% | ~136 |
+| Lost and Found | 21.00% | ~136 |
 | Party Crasher | 20.00% | ~130 |
 | Problem Solver | 20.00% | ~130 |
-| Lost and Found | 20.00% | ~130 |
 | No One Left Behind | 19.00% | ~123 |
 | Hard Target | 19.00% | ~123 |
 | Fact Finder | 19.00% | ~123 |
@@ -99,8 +99,8 @@
 | Last Resort | 17.00% | ~110 |
 | Sabotage Specialist | 17.00% | ~110 |
 | Last Witness | 17.00% | ~110 |
+| Well Connected | 17.00% | ~110 |
 | Throw Mastery | 16.00% | ~104 |
-| Well Connected | 16.00% | ~104 |
 | Master and Commander | 16.00% | ~104 |
 | Executioner | 14.00% | ~91 |
 | Mail Slot | 13.00% | ~84 |

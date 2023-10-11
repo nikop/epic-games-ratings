@@ -4,7 +4,7 @@
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 46,
-  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewPlayers": 302,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
@@ -1248,9 +1248,9 @@
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "8d3ci0",
       "Name": "Way to the shore",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 102
+      "UsersEstimate": 105
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -1272,9 +1272,9 @@
       "ID": "NEW_ACHIEVEMENT_1_8",
       "SetID": "8d3ci0",
       "Name": "On fire",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 60,
-      "UsersEstimate": 94
+      "UsersEstimate": 97
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -1295,8 +1295,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-10-10T23:07:28.2784882+00:00",
+  "LastChanged_Achievements": "2023-10-11T00:06:18.3484037+00:00",
   "LastUpdate_AppInfo": "2023-10-07T21:57:04.7269587+00:00",
-  "LastUpdate_Ratings": "2023-10-10T22:57:45.1278838+00:00",
-  "LastUpdate_Achievements": "2023-10-10T23:07:28.2785082+00:00"
+  "LastUpdate_Ratings": "2023-10-10T23:57:28.2023207+00:00",
+  "LastUpdate_Achievements": "2023-10-11T00:06:18.3484329+00:00"
 }

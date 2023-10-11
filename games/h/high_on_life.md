@@ -8,15 +8,15 @@ Rating: 4.64 (Ranked 318)
 | Sweezy Like Sunday Morning | 0.70% | ~169 |
 | First Bounty Down | 0.70% | ~169 |
 | G3 Graduation | 0.70% | ~169 |
+| Cold-Blooded Driller | 0.70% | ~169 |
 | Satisfied Gus-tomer | 0.60% | ~145 |
 | Are You Packin'? | 0.60% | ~145 |
+| RIP Davey Glutes | 0.60% | ~145 |
 | Hardest Battle In The Game | 0.60% | ~145 |
-| Cold-Blooded Driller | 0.60% | ~145 |
 | Who's The Boss? | 0.60% | ~145 |
 | Don't Knife The Hand That Feeds | 0.60% | ~145 |
 | Creature Feature | 0.50% | ~121 |
 | Bring A Knife to a Gun Fight | 0.50% | ~121 |
-| RIP Davey Glutes | 0.50% | ~121 |
 | We're All Very Impressed, Trust Me | 0.50% | ~121 |
 | Bathe With A Giant Nude Alien | 0.50% | ~7 |
 | Eatin' Good in the Neighborhood | 0.40% | ~97 |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 318)
 | It's Like The Santa Clause | 0.10% | ~1 |
 | That's B.A.L.L., Folks | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,177 (Ranked 119)  
+Progressed: 24,178 (Ranked 119)  
 Completed: 13 (0.05%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,6 +223,7 @@ Completed: 13 (0.05%) (Ranked 269)
 | 2023-10-08 | 24,152 | 13 |
 | 2023-10-09 | 24,168 | 13 |
 | 2023-10-10 | 24,177 | 13 |
+| 2023-10-11 | 24,178 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

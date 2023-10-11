@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 297)  
+Rating: 4.65 (Ranked 296)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -117,6 +117,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Gnosticism | 0.30% | ~44 |
 | Redemption | 0.30% | ~44 |
 | Revelation | 0.30% | ~44 |
+| Veneration | 0.30% | ~44 |
 | Mounted Lancer | 0.30% | ~44 |
 | Legionary | 0.30% | ~44 |
 | Phalangite | 0.30% | ~44 |
@@ -141,12 +142,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | One True Faith | 0.20% | ~29 |
 | Industrial Progress | 0.20% | ~29 |
 | Enlightenment | 0.20% | ~29 |
-| Veneration | 0.20% | ~29 |
 | Cataphract Archer | 0.20% | ~29 |
 | All Nations | 0.20% | ~29 |
 | No Undo | 0.20% | ~29 |
 | Rmt n Kmt Buhen | 0.20% | ~29 |
 | Greater Kmt Unified | 0.20% | ~29 |
+| Beja Archer | 0.20% | ~29 |
 | Centenarian | 0.10% | ~15 |
 | Alexander the who? | 0.10% | ~15 |
 | Lighthouse in Alexandria | 0.10% | ~15 |
@@ -307,7 +308,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egypt Campaign | 0.10% | ~15 |
 | The Hekau Khasut Slaves | 0.10% | ~15 |
 | Kush | 0.10% | ~15 |
-| Beja Archer | 0.10% | ~15 |
 | Alexander the Great | 0.00% | ~0 |
 | The Great Raging Horde | 0.00% | ~0 |
 | Hagia Sophia in Byzantion | 0.00% | ~0 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,586 (Ranked 134)  
+Progressed: 14,587 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -523,6 +523,7 @@ Completed: 5 (0.03%) (Ranked 281)
 | 2023-10-08 | 14,534 | 5 |
 | 2023-10-09 | 14,562 | 5 |
 | 2023-10-10 | 14,586 | 5 |
+| 2023-10-11 | 14,587 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 266)  
 Sum: 1,832 (Ranked 210)  

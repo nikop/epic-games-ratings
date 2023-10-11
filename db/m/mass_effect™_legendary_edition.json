@@ -2289,9 +2289,9 @@
       "ID": "achievement_73",
       "SetID": "d252ncf",
       "Name": "Scholar",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 259
+      "UsersEstimate": 266
     },
     {
       "ID": "achievement_74",
@@ -2449,9 +2449,9 @@
       "ID": "achievement_91",
       "SetID": "d252ncf",
       "Name": "Well Connected",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 110
     },
     {
       "ID": "achievement_92",
@@ -2513,9 +2513,9 @@
       "ID": "achievement_99",
       "SetID": "d252ncf",
       "Name": "Lost and Found",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 130
+      "UsersEstimate": 136
     }
   ],
   "AchievementSets": [
@@ -2533,8 +2533,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-10T23:08:06.916418+00:00",
+  "LastChanged_Achievements": "2023-10-11T00:06:40.8890038+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:40.7255751+00:00",
-  "LastUpdate_Ratings": "2023-10-10T22:58:31.6416098+00:00",
-  "LastUpdate_Achievements": "2023-10-10T23:08:06.9166584+00:00"
+  "LastUpdate_Ratings": "2023-10-10T23:58:05.5281054+00:00",
+  "LastUpdate_Achievements": "2023-10-11T00:06:40.8891756+00:00"
 }

@@ -1295,7 +1295,7 @@
   ],
   "EOS_Progressed": 9514,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 146,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14573,9 +14573,9 @@
       "ID": "16",
       "SetID": "8idi9ml",
       "Name": "Adventurer",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 3901
+      "UsersEstimate": 3996
     },
     {
       "ID": "17",
@@ -14997,8 +14997,8 @@
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-10-09T20:59:58.2616403+00:00",
-  "LastChanged_Achievements": "2023-10-10T23:05:12.9113122+00:00",
+  "LastChanged_Achievements": "2023-10-11T00:04:31.5830429+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:49.8010243+00:00",
-  "LastUpdate_Ratings": "2023-10-10T23:01:31.6635062+00:00",
-  "LastUpdate_Achievements": "2023-10-10T23:05:12.9114986+00:00"
+  "LastUpdate_Ratings": "2023-10-11T00:00:20.8834713+00:00",
+  "LastUpdate_Achievements": "2023-10-11T00:04:31.5832036+00:00"
 }

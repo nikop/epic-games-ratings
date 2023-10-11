@@ -12,10 +12,10 @@ Rating: 4.28 (Ranked 828)
 | Extraordinary Logistics | 14.00% | ~48,610 |
 | Dirty Money | 13.00% | ~45,138 |
 | Family First | 13.00% | ~45,138 |
-| Cleaning House | 12.00% | ~41,665 |
-| Room in the Back | 12.00% | ~41,665 |
-| Beating the Heat | 11.00% | ~38,193 |
-| Booze Baron | 11.00% | ~38,193 |
+| Cleaning House | 12.00% | ~41,666 |
+| Room in the Back | 12.00% | ~41,666 |
+| Beating the Heat | 11.00% | ~38,194 |
+| Booze Baron | 11.00% | ~38,194 |
 | Friends on the Force | 10.00% | ~34,721 |
 | Neighborhood Watch | 10.00% | ~34,721 |
 | Core Corps | 8.00% | ~27,777 |
@@ -36,11 +36,11 @@ Rating: 4.28 (Ranked 828)
 | Opportunity Knocked | 5.00% | ~17,361 |
 | City of Big Shoulders | 5.00% | ~17,361 |
 | Mission Mastery | 5.00% | ~17,361 |
-| Considerable Clams | 4.00% | ~13,888 |
-| Gin Joint | 4.00% | ~13,888 |
-| An Affront to the Enemy | 4.00% | ~13,888 |
-| Friends from Back Home | 4.00% | ~13,888 |
-| Half Century Mark | 4.00% | ~13,888 |
+| Considerable Clams | 4.00% | ~13,889 |
+| Gin Joint | 4.00% | ~13,889 |
+| An Affront to the Enemy | 4.00% | ~13,889 |
+| Friends from Back Home | 4.00% | ~13,889 |
+| Half Century Mark | 4.00% | ~13,889 |
 | Corner Opportunities | 3.00% | ~10,416 |
 | 2122 North Clark Street | 3.00% | ~10,416 |
 | Copious Cabbage | 3.00% | ~10,416 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 828)
 | High Pillow | 0.10% | ~347 |
 | Station Master | 0.10% | ~347 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 347,212 (Ranked 43)  
+Progressed: 347,214 (Ranked 43)  
 Completed: 7 (0.00%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,10 +260,11 @@ Completed: 7 (0.00%) (Ranked 312)
 | 2023-10-08 | 346,961 | 7 |
 | 2023-10-09 | 347,086 | 7 |
 | 2023-10-10 | 347,212 | 7 |
+| 2023-10-11 | 347,214 | 7 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 443)  
-Sum: 176 (Ranked 396)  
-Diff (max vs sum): 47  
+Sum: 176 (Ranked 397)  
+Diff (max vs sum): 46  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 38 |

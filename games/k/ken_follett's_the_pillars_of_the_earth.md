@@ -26,8 +26,8 @@ Number of Ratings: 368  (23.09.2022)
 | Exterminator | 13.00% | ~2,037 |
 | Whodunnit | 12.00% | ~1,880 |
 | Good midwife | 11.00% | ~1,724 |
+| Friar Tuck | 11.00% | ~1,724 |
 | First profit | 11.00% | ~1,724 |
-| Friar Tuck | 10.00% | ~1,567 |
 | Team player | 10.00% | ~1,567 |
 | Skilled merchant | 9.00% | ~1,410 |
 | Nothing but make-believe | 9.00% | ~1,410 |

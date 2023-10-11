@@ -18,6 +18,8 @@
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 12,
   "EOS_Completed": 0,
@@ -84,9 +86,9 @@
       "ID": "A_PATH_TO_SAFETY_ACH",
       "SetID": "7jaf9il",
       "Name": "A Patch to Safety",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CATCHING_UP_ACH",
@@ -100,9 +102,9 @@
       "ID": "COMBAT_EVOLUTION_ACH",
       "SetID": "7jaf9il",
       "Name": "Combat Evolution",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CUTTING_EDGE_ACH",
@@ -289,9 +291,10 @@
       "Completed": 0
     }
   ],
+  "FirstSeen": "2023-10-10T23:57:30.9159633+00:00",
   "FirstSeenAchievements": "2023-08-30T15:02:12.9396866+00:00",
-  "LastChanged_Achievements": "2023-10-10T23:06:51.4438314+00:00",
+  "LastChanged_Achievements": "2023-10-11T00:05:48.7355021+00:00",
   "LastUpdate_AppInfo": "2023-10-04T17:57:00.1319997+00:00",
-  "LastUpdate_Ratings": "2023-10-10T22:57:47.834058+00:00",
-  "LastUpdate_Achievements": "2023-10-10T23:06:51.443853+00:00"
+  "LastUpdate_Ratings": "2023-10-10T23:57:30.9159665+00:00",
+  "LastUpdate_Achievements": "2023-10-11T00:05:48.7355208+00:00"
 }

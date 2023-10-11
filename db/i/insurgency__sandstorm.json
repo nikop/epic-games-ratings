@@ -3631,9 +3631,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 461035,
+  "EOS_Progressed": 461046,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2275,
+  "EOS_NewPlayers": 2276,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23226,6 +23226,11 @@
       "Time": "2023-10-10T23:06:25.4889524+00:00",
       "NumProgressed": 461035,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-11T00:05:28.1415157+00:00",
+      "NumProgressed": 461046,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -23293,7 +23298,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 18441
+      "UsersEstimate": 18442
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -23341,7 +23346,7 @@
       "Name": "High Speed Low Drag",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 18441
+      "UsersEstimate": 18442
     },
     {
       "ID": "ACH_JR_50",
@@ -23509,22 +23514,22 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 18441
+      "UsersEstimate": 18442
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 461035,
+      "Progressed": 461046,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-10-10T15:59:21.1272273+00:00",
-  "LastChanged_Achievements": "2023-10-10T23:06:25.4889517+00:00",
+  "LastChanged_Achievements": "2023-10-11T00:05:28.1415153+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:53.2662514+00:00",
-  "LastUpdate_Ratings": "2023-10-10T23:00:19.4245348+00:00",
-  "LastUpdate_Achievements": "2023-10-10T23:06:25.4891357+00:00"
+  "LastUpdate_Ratings": "2023-10-10T23:59:26.4692415+00:00",
+  "LastUpdate_Achievements": "2023-10-11T00:05:28.1416564+00:00"
 }

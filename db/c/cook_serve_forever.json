@@ -4,7 +4,7 @@
   "ProductSlug": "cook-serve-forever-abc556",
   "Ranking_EOS_Progress": 662,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewPlayers": 404,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-06-30T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-07T14:59:07.0369382+00:00",
-  "LastUpdate_Ratings": "2023-10-10T23:02:04.4794605+00:00",
-  "LastUpdate_Achievements": "2023-10-10T23:06:32.486729+00:00"
+  "LastUpdate_Ratings": "2023-10-11T00:02:09.6350917+00:00",
+  "LastUpdate_Achievements": "2023-10-11T00:05:33.7841616+00:00"
 }

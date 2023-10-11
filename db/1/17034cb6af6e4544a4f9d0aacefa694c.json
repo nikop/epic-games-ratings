@@ -4,7 +4,7 @@
   "ProductSlug": "brutal-orchestra-0b0276",
   "Ranking_EOS_Progress": 662,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewPlayers": 404,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-05-06T07:00:00+00:00",
@@ -40,8 +40,8 @@
   ],
   "FirstSeen": "2023-05-10T15:57:17.8739247+00:00",
   "FirstSeenAchievements": "2023-05-05T21:02:14.6109374+00:00",
-  "LastChanged_Achievements": "2023-10-10T23:06:18.3523612+00:00",
+  "LastChanged_Achievements": "2023-10-11T00:05:22.4577364+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:48.9132981+00:00",
-  "LastUpdate_Ratings": "2023-10-10T22:58:13.8468076+00:00",
-  "LastUpdate_Achievements": "2023-10-10T23:06:18.3523937+00:00"
+  "LastUpdate_Ratings": "2023-10-10T23:57:50.464747+00:00",
+  "LastUpdate_Achievements": "2023-10-11T00:05:22.4577398+00:00"
 }

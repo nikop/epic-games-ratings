@@ -1,40 +1,40 @@
 # Godlike Burger
 [Store](https://store.epicgames.com/en-US/p/godlike-burger-4150a0)  
 [View Rawdata](../../db/g/godlike_burger.json)  
-Rating: 4.38 (Ranked 738)  
+Rating: 4.37 (Ranked 751)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 44.00% | ~113,412 |
-| FIRST BLOOD | 39.00% | ~100,524 |
-| KEVIN! | 29.00% | ~74,749 |
-| JACK OF ALL TRADES | 22.00% | ~56,706 |
-| CRIMINAL | 18.00% | ~46,396 |
-| GRANDMA WOULD BE PROUD | 9.00% | ~23,198 |
-| WITHOUT BREAKING A SWEAT | 7.00% | ~18,043 |
-| HONORS STUDENT | 6.00% | ~15,465 |
-| BUTCHER | 4.00% | ~10,310 |
-| RAMBO | 4.00% | ~10,310 |
-| INDIVIDUAL APPROACH | 3.00% | ~7,733 |
-| CELEBRITY | 2.00% | ~5,155 |
-| HELL'S KITCHEN | 2.00% | ~5,155 |
-| MARTYR | 1.00% | ~2,578 |
-| GRATITUDE | 0.90% | ~2,320 |
-| PATTY-KILLER | 0.60% | ~1,547 |
-| PRUDENT | 0.50% | ~1,289 |
-| EXPERIMENTALIST | 0.40% | ~1,031 |
-| GOURMET | 0.40% | ~1,031 |
-| LAW-ABIDING CITIZEN | 0.30% | ~773 |
-| HIGH TECHNOLOGIES | 0.20% | ~516 |
-| SCATTERBRAIN | 0.20% | ~516 |
-| TASTE UNTASTY | 0.20% | ~516 |
+| MASTER CHEF | 44.00% | ~113,731 |
+| FIRST BLOOD | 39.00% | ~100,807 |
+| KEVIN! | 29.00% | ~74,959 |
+| JACK OF ALL TRADES | 22.00% | ~56,865 |
+| CRIMINAL | 18.00% | ~46,526 |
+| GRANDMA WOULD BE PROUD | 9.00% | ~23,263 |
+| WITHOUT BREAKING A SWEAT | 7.00% | ~18,094 |
+| HONORS STUDENT | 6.00% | ~15,509 |
+| BUTCHER | 4.00% | ~10,339 |
+| RAMBO | 4.00% | ~10,339 |
+| INDIVIDUAL APPROACH | 3.00% | ~7,754 |
+| CELEBRITY | 2.00% | ~5,170 |
+| HELL'S KITCHEN | 2.00% | ~5,170 |
+| MARTYR | 1.00% | ~2,585 |
+| GRATITUDE | 0.90% | ~2,326 |
+| PATTY-KILLER | 0.60% | ~1,551 |
+| PRUDENT | 0.50% | ~1,292 |
+| EXPERIMENTALIST | 0.40% | ~1,034 |
+| GOURMET | 0.40% | ~1,034 |
+| LAW-ABIDING CITIZEN | 0.30% | ~775 |
+| HIGH TECHNOLOGIES | 0.20% | ~517 |
+| SCATTERBRAIN | 0.20% | ~517 |
+| TASTE UNTASTY | 0.20% | ~517 |
 | CORRUPTIONIST | 0.10% | ~258 |
 | DEBTOR | 0.10% | ~258 |
 | I'VE SEEN SOME… | 0.10% | ~258 |
 | MISTER ALL THUMBS | 0.10% | ~258 |
 | TRAVELER | 0.10% | ~258 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 257,754 (Ranked 50)  
+Progressed: 258,479 (Ranked 50)  
 Completed: 6 (0.00%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,6 +135,7 @@ Completed: 6 (0.00%) (Ranked 312)
 | 2023-10-08 | 207,184 | 3 |
 | 2023-10-09 | 234,759 | 3 |
 | 2023-10-10 | 257,754 | 6 |
+| 2023-10-11 | 258,479 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

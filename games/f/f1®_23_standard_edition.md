@@ -1,34 +1,34 @@
 # F1® 23
 [Store](https://store.epicgames.com/en-US/p/f1-23)  
 [View Rawdata](../../db/f/f1®_23_standard_edition.json)  
-Rating: 4.66 (Ranked 280)  
+Rating: 4.66 (Ranked 279)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 95.00% | ~2,975 |
-| On the Top Step | 89.00% | ~2,787 |
-| Setting up for Success | 78.00% | ~2,443 |
-| Team Orders | 76.00% | ~2,380 |
-| Engineer | 56.00% | ~1,754 |
-| Familiar Faces | 50.00% | ~1,566 |
-| Going the Extra Mile | 44.00% | ~1,378 |
-| Sharing the Love | 42.00% | ~1,315 |
-| Hitting a Season | 38.00% | ~1,190 |
-| Challenge Yourself | 35.00% | ~1,096 |
+| Getting on the Step | 95.00% | ~2,977 |
+| On the Top Step | 89.00% | ~2,789 |
+| Setting up for Success | 78.00% | ~2,445 |
+| Team Orders | 76.00% | ~2,382 |
+| Engineer | 56.00% | ~1,755 |
+| Familiar Faces | 50.00% | ~1,567 |
+| Going the Extra Mile | 44.00% | ~1,379 |
+| Sharing the Love | 42.00% | ~1,316 |
+| Hitting a Season | 38.00% | ~1,191 |
+| Challenge Yourself | 35.00% | ~1,097 |
 | A Dozen Pieces | 33.00% | ~1,034 |
-| Making History | 32.00% | ~1,002 |
-| Network Success | 26.00% | ~814 |
-| Writing a new Chapter | 26.00% | ~814 |
+| Making History | 32.00% | ~1,003 |
+| Network Success | 26.00% | ~815 |
+| Writing a new Chapter | 26.00% | ~815 |
 | Spring Cleaning | 24.00% | ~752 |
-| Reduce | 20.00% | ~626 |
-| Ups and Downs | 20.00% | ~626 |
+| Reduce | 20.00% | ~627 |
+| Ups and Downs | 20.00% | ~627 |
 | Crucial Combo | 19.00% | ~595 |
 | One for the Book | 18.00% | ~564 |
-| Reuse | 17.00% | ~532 |
+| Reuse | 17.00% | ~533 |
 | Gathering Dust | 16.00% | ~501 |
 | Proving Them Wrong | 16.00% | ~501 |
 | Oil and Water | 15.00% | ~470 |
-| Hitting a Bullseye | 14.00% | ~438 |
+| Hitting a Bullseye | 14.00% | ~439 |
 | Eagle Eye | 13.00% | ~407 |
 | Lightning Round the World | 13.00% | ~407 |
 | All in a Weekend's Work | 12.00% | ~376 |
@@ -55,7 +55,7 @@ Rating: 4.66 (Ranked 280)
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,132 (Ranked 189)  
+Progressed: 3,134 (Ranked 189)  
 Completed: 0 (0.00%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,6 +83,7 @@ Completed: 0 (0.00%) (Ranked 312)
 | 2023-10-08 | 3,083 | 0 |
 | 2023-10-09 | 3,114 | 0 |
 | 2023-10-10 | 3,132 | 0 |
+| 2023-10-11 | 3,134 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

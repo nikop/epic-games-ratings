@@ -2,12 +2,12 @@
   "ID": "301ec0fdbcaf46b3af9322e436ac87bd",
   "Name": "Voidtrain",
   "ProductSlug": "voidtrain",
-  "Ranking_Rating": 550,
+  "Ranking_Rating": 572,
   "Ranking_Popularity": 439,
-  "Ranking_PopularitySum": 388,
+  "Ranking_PopularitySum": 389,
   "Ranking_EOS_Progress": 662,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewPlayers": 404,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-08-12T17:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.51,
+  "Rating": 4.5,
   "NumberOfRatings": 1305,
   "RatingHistory": [
     {
@@ -987,10 +987,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 189,
       "NumberOfAwardsMax": 39
+    },
+    {
+      "Time": "2023-10-10T23:58:38.7498192+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 190,
+      "NumberOfAwardsMax": 39
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 189,
+  "NumberOfAwards": 190,
   "NumberOfAwardsMax": 39,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1028,7 +1034,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 24
+      "Count": 25
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1054,8 +1060,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:41.7165355+00:00",
-  "LastChanged": "2023-10-10T07:58:25.0024439+00:00",
+  "LastChanged": "2023-10-10T23:58:38.749819+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:13.956996+00:00",
-  "LastUpdate_Ratings": "2023-10-10T22:59:15.7791788+00:00",
-  "LastUpdate_Achievements": "2023-10-10T23:05:03.0410552+00:00"
+  "LastUpdate_Ratings": "2023-10-10T23:58:38.7498196+00:00",
+  "LastUpdate_Achievements": "2023-10-11T00:04:24.1254482+00:00"
 }

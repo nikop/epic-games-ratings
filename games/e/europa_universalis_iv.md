@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 427,588 (Ranked 41)  
+Progressed: 427,609 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -535,9 +535,10 @@ Completed: 1 (0.00%) (Ranked 312)
 | 2023-10-08 | 426,194 | 1 |
 | 2023-10-09 | 426,888 | 1 |
 | 2023-10-10 | 427,588 | 1 |
+| 2023-10-11 | 427,609 | 1 |
 ## Awards
 Max (Educational): 6,464  (Ranked 55)  
-Sum: 53,160 (Ranked 24)  
+Sum: 53,176 (Ranked 24)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
@@ -547,7 +548,7 @@ Diff (max vs sum): 31
 | This game has Challenging Combat | 6,109 |
 | This game is Extremely Fun | 6,098 |
 | This game is Relaxing | 5,977 |
-| This game has Competitive Players | 5,787 |
+| This game has Competitive Players | 5,803 |
 | This game has Amazing Storytelling | 5,410 |
 | This game has Amazing Characters | 5,009 |
 | This game has Obsessive Gameplay | 3,351 |
@@ -820,4 +821,4 @@ Diff (max vs sum): 31
 | 2023-10-07 | 4.69 | - | 6,432 | 52,874 |
 | 2023-10-08 | 4.69 | - | 6,445 | 52,995 |
 | 2023-10-09 | 4.69 | - | 6,454 | 53,084 |
-| 2023-10-10 | 4.69 | - | 6,464 | 53,160 |
+| 2023-10-10 | 4.69 | - | 6,464 | 53,176 |

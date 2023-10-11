@@ -11213,9 +11213,9 @@
       "Count": 25275
     }
   ],
-  "EOS_Progressed": 931511,
+  "EOS_Progressed": 931565,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 13950,
+  "EOS_NewPlayers": 13949,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -30903,6 +30903,11 @@
       "Time": "2023-10-10T23:05:48.0369774+00:00",
       "NumProgressed": 931511,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-11T00:04:59.3976222+00:00",
+      "NumProgressed": 931565,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 229,
@@ -31082,7 +31087,7 @@
       "Name": "Zealous",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 9315
+      "UsersEstimate": 9316
     },
     {
       "ID": "ACH_023",
@@ -31090,7 +31095,7 @@
       "Name": "It wakes",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 9315
+      "UsersEstimate": 9316
     },
     {
       "ID": "ACH_024",
@@ -31218,7 +31223,7 @@
       "Name": "Skillful",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 9315
+      "UsersEstimate": 9316
     },
     {
       "ID": "ACH_040",
@@ -31482,7 +31487,7 @@
       "Name": "Sorted",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 7452
+      "UsersEstimate": 7453
     },
     {
       "ID": "ACH_073",
@@ -31976,9 +31981,9 @@
       "ID": "ACH_137",
       "SetID": "16jml5b",
       "Name": "Grim Pilgrimage",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1863
+      "UsersEstimate": 2795
     },
     {
       "ID": "ACH_138",
@@ -32128,9 +32133,9 @@
       "ID": "ACH_156",
       "SetID": "16jml5b",
       "Name": "Resurgence",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 6521
+      "UsersEstimate": 7453
     },
     {
       "ID": "ACH_157",
@@ -32682,7 +32687,7 @@
       "Name": "Make Some Noise",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 9315
+      "UsersEstimate": 9316
     },
     {
       "ID": "ACH_226",
@@ -32745,21 +32750,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 931511,
+      "Progressed": 931565,
       "Completed": 52
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 931511,
+      "Progressed": 931565,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-10-10T20:02:29.9846643+00:00",
-  "LastChanged_Achievements": "2023-10-10T23:05:48.0369767+00:00",
+  "LastChanged_Achievements": "2023-10-11T00:04:59.397622+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:11.5924675+00:00",
-  "LastUpdate_Ratings": "2023-10-10T23:02:07.7500488+00:00",
-  "LastUpdate_Achievements": "2023-10-10T23:05:48.0377424+00:00"
+  "LastUpdate_Ratings": "2023-10-11T00:02:12.1861929+00:00",
+  "LastUpdate_Achievements": "2023-10-11T00:04:59.3983393+00:00"
 }
