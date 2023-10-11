@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 52.76% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 52.71% |
 | 3 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 47.17% |
 | 5 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 45.90% |
@@ -39,7 +39,7 @@
 | 36 | [Smelter](games/s/smelter.md) | 10.00% |
 | 36 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.00% |
 | 39 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
-| 40 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.07% |
+| 40 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.06% |
 | 41 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.67% |
 | 42 | [Sonic Origins](games/s/sonic_origins.md) | 7.75% |
 | 43 | [Ravenlok](games/r/ravenlok.md) | 7.70% |
@@ -74,7 +74,7 @@
 | 72 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.86% |
 | 73 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.84% |
 | 74 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
-| 75 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.77% |
+| 75 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.76% |
 | 76 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
 | 76 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.57% |
 | 78 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
@@ -120,7 +120,7 @@
 | 117 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 1.79% |
 | 119 | [Somerville](games/s/somerville.md) | 1.70% |
 | 120 | [Five Dates](games/f/five_dates.md) | 1.62% |
-| 121 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.61% |
+| 121 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.59% |
 | 122 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.50% |
 | 123 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
 | 124 | [Iron Danger](games/i/iron_danger.md) | 1.45% |
@@ -137,7 +137,7 @@
 | 135 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.19% |
 | 136 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.13% |
 | 137 | [Trifox](games/t/trifox.md) | 1.09% |
-| 138 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.08% |
+| 138 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.07% |
 | 139 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.06% |
 | 140 | [Adios](games/a/adios.md) | 1.05% |
 | 140 | [Infindustry](games/i/infindustry.md) | 1.05% |
@@ -162,10 +162,10 @@
 | 160 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
 | 161 | [Potion Permit](games/p/potion_permit.md) | 0.62% |
 | 162 | [Haven](games/h/haven.md) | 0.61% |
-| 163 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.60% |
-| 164 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.59% |
-| 164 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.59% |
-| 164 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.59% |
+| 163 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.59% |
+| 163 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.59% |
+| 163 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.59% |
+| 163 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.59% |
 | 167 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.58% |
 | 167 | [Grindstone](games/g/grindstone.md) | 0.58% |
 | 167 | [The Surge 2](games/t/the_surge_2.md) | 0.58% |
@@ -663,4 +663,4 @@
 | 313 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 313 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 313 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,380 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,381 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
