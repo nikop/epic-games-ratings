@@ -4,8 +4,8 @@
   "ProductSlug": "mia-and-the-dragon-princess-f4e1d0",
   "Ranking_EOS_Progress": 420,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-05-04T07:00:00+00:00",
     "PcReleaseDate": "2023-05-04T07:00:00+00:00",
@@ -462,9 +462,9 @@
       "ID": "relight_my_cannon",
       "SetID": "5anb57n",
       "Name": "Relight my Cannon",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "set_sail",
@@ -501,8 +501,8 @@
   ],
   "FirstSeen": "2023-05-13T16:58:04.6283661+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:18.2098384+00:00",
-  "LastChanged_Achievements": "2023-10-12T02:24:29.9274191+00:00",
+  "LastChanged_Achievements": "2023-10-12T03:10:48.6213245+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:16.5255346+00:00",
-  "LastUpdate_Ratings": "2023-10-12T02:15:24.9915798+00:00",
-  "LastUpdate_Achievements": "2023-10-12T02:24:29.9274366+00:00"
+  "LastUpdate_Ratings": "2023-10-12T03:01:04.3478907+00:00",
+  "LastUpdate_Achievements": "2023-10-12T03:10:48.6213453+00:00"
 }

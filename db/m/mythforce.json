@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -745,7 +745,7 @@
   ],
   "EOS_Progressed": 4032,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 283,
+  "EOS_NewPlayers": 282,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7283,9 +7283,9 @@
       "ID": "MF_Ach_NextTimeOnMythForce",
       "SetID": "9b9n573",
       "Name": "Next Time on MythForce...",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 484
+      "UsersEstimate": 524
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -7355,8 +7355,8 @@
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-07T19:57:55.3513461+00:00",
-  "LastChanged_Achievements": "2023-10-12T02:22:59.8537746+00:00",
+  "LastChanged_Achievements": "2023-10-12T03:09:16.2533218+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:44.063019+00:00",
-  "LastUpdate_Ratings": "2023-10-12T02:16:26.9669753+00:00",
-  "LastUpdate_Achievements": "2023-10-12T02:22:59.8538389+00:00"
+  "LastUpdate_Ratings": "2023-10-12T03:02:17.6681254+00:00",
+  "LastUpdate_Achievements": "2023-10-12T03:09:16.2534016+00:00"
 }

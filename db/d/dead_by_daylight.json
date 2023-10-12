@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 14,
   "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 11,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2016-06-14T16:00:00+00:00",
@@ -11175,11 +11175,17 @@
       "Rating": 4.51,
       "NumberOfAwards": 261382,
       "NumberOfAwardsMax": 33734
+    },
+    {
+      "Time": "2023-10-12T03:04:28.8939782+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 261429,
+      "NumberOfAwardsMax": 33781
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 261382,
-  "NumberOfAwardsMax": 33734,
+  "NumberOfAwards": 261429,
+  "NumberOfAwardsMax": 33781,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -11192,7 +11198,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 33734
+      "Count": 33781
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -11249,9 +11255,9 @@
       "Count": 25309
     }
   ],
-  "EOS_Progressed": 933371,
+  "EOS_Progressed": 933406,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 13964,
+  "EOS_NewPlayers": 13960,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -31074,6 +31080,11 @@
       "Time": "2023-10-12T02:22:06.5156471+00:00",
       "NumProgressed": 933371,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-12T03:08:03.2484115+00:00",
+      "NumProgressed": 933406,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 229,
@@ -31165,7 +31176,7 @@
       "Name": "Made it out alive!",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 3733
+      "UsersEstimate": 3734
     },
     {
       "ID": "ACH_012",
@@ -31413,7 +31424,7 @@
       "Name": "III",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 3733
+      "UsersEstimate": 3734
     },
     {
       "ID": "ACH_043",
@@ -31653,7 +31664,7 @@
       "Name": "Sorted",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 8400
+      "UsersEstimate": 8401
     },
     {
       "ID": "ACH_073",
@@ -31797,7 +31808,7 @@
       "Name": "Cherish your Life",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3733
+      "UsersEstimate": 3734
     },
     {
       "ID": "ACH_091",
@@ -31941,7 +31952,7 @@
       "Name": "Unforgettable Getaway",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3733
+      "UsersEstimate": 3734
     },
     {
       "ID": "ACH_109",
@@ -32085,7 +32096,7 @@
       "Name": "First to the Punch",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 3733
+      "UsersEstimate": 3734
     },
     {
       "ID": "ACH_130",
@@ -32195,9 +32206,9 @@
       "ID": "ACH_143",
       "SetID": "16jml5b",
       "Name": "Old West Oasis",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2800
+      "UsersEstimate": 3734
     },
     {
       "ID": "ACH_144",
@@ -32293,7 +32304,7 @@
       "Name": "Every Last Drop",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3733
+      "UsersEstimate": 3734
     },
     {
       "ID": "ACH_156",
@@ -32437,7 +32448,7 @@
       "Name": "Raccoon City Recruit",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 3733
+      "UsersEstimate": 3734
     },
     {
       "ID": "ACH_174",
@@ -32533,7 +32544,7 @@
       "Name": "With Scars to Show",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3733
+      "UsersEstimate": 3734
     },
     {
       "ID": "ACH_186",
@@ -32541,7 +32552,7 @@
       "Name": "Flight to Freedom",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 3733
+      "UsersEstimate": 3734
     },
     {
       "ID": "ACH_187",
@@ -32709,7 +32720,7 @@
       "Name": "A Fast Death",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 3733
+      "UsersEstimate": 3734
     },
     {
       "ID": "ACH_208",
@@ -32757,7 +32768,7 @@
       "Name": "Chorus of Chaos",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 3733
+      "UsersEstimate": 3734
     },
     {
       "ID": "ACH_214",
@@ -32916,21 +32927,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 933371,
+      "Progressed": 933406,
       "Completed": 52
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 933371,
+      "Progressed": 933406,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
-  "LastChanged": "2023-10-11T20:02:19.5966135+00:00",
-  "LastChanged_Achievements": "2023-10-12T02:22:06.5156466+00:00",
+  "LastChanged": "2023-10-12T03:04:28.893978+00:00",
+  "LastChanged_Achievements": "2023-10-12T03:08:03.2484108+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:11.5924675+00:00",
-  "LastUpdate_Ratings": "2023-10-12T02:18:34.3908443+00:00",
-  "LastUpdate_Achievements": "2023-10-12T02:22:06.5164248+00:00"
+  "LastUpdate_Ratings": "2023-10-12T03:04:28.8939788+00:00",
+  "LastUpdate_Achievements": "2023-10-12T03:08:03.2498006+00:00"
 }

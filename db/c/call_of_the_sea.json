@@ -274,9 +274,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 124199,
+  "EOS_Progressed": 124200,
   "EOS_Completed": 1044,
-  "EOS_NewPlayers": 1257,
+  "EOS_NewPlayers": 1253,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.84,
   "EosHistory": [
@@ -19954,6 +19954,11 @@
       "Time": "2023-10-12T02:21:27.4571248+00:00",
       "NumProgressed": 124199,
       "NumCompleted": 1044
+    },
+    {
+      "Time": "2023-10-12T03:07:28.2774249+00:00",
+      "NumProgressed": 124200,
+      "NumCompleted": 1044
     }
   ],
   "TotalAchievements": 34,
@@ -20021,7 +20026,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 99359
+      "UsersEstimate": 99360
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -20037,7 +20042,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 69551
+      "UsersEstimate": 69552
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -20236,7 +20241,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 124199,
+      "Progressed": 124200,
       "Completed": 1044
     }
   ],
@@ -20244,8 +20249,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-09-30T12:00:15.2854641+00:00",
-  "LastChanged_Achievements": "2023-10-12T02:21:27.4571243+00:00",
+  "LastChanged_Achievements": "2023-10-12T03:07:28.2774239+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:39.2829487+00:00",
-  "LastUpdate_Ratings": "2023-10-12T02:18:03.8727961+00:00",
-  "LastUpdate_Achievements": "2023-10-12T02:21:27.4572833+00:00"
+  "LastUpdate_Ratings": "2023-10-12T03:03:55.804395+00:00",
+  "LastUpdate_Achievements": "2023-10-12T03:07:28.2775665+00:00"
 }

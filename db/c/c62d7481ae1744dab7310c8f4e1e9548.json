@@ -4,7 +4,7 @@
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 396,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 258,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -549,9 +549,9 @@
       "ID": "Jing",
       "SetID": "ag48e8e",
       "Name": "Jing Jang",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "Kamzik",
@@ -589,9 +589,9 @@
       "ID": "Kvitky",
       "SetID": "ag48e8e",
       "Name": "Blossoms",
-      "Percentage": 38,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "MluviciPapouch",
@@ -748,8 +748,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-10-12T02:20:09.1080077+00:00",
+  "LastChanged_Achievements": "2023-10-12T03:05:53.8732741+00:00",
   "LastUpdate_AppInfo": "2023-10-06T23:57:00.6075217+00:00",
-  "LastUpdate_Ratings": "2023-10-12T02:13:43.7288439+00:00",
-  "LastUpdate_Achievements": "2023-10-12T02:20:09.108035+00:00"
+  "LastUpdate_Ratings": "2023-10-12T02:58:48.2562769+00:00",
+  "LastUpdate_Achievements": "2023-10-12T03:05:53.87333+00:00"
 }

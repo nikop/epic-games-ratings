@@ -9,6 +9,7 @@
 | Lacertian Champion | 23.00% | ~12 |
 | Endless Tricks | 21.00% | ~11 |
 | Meissa's Savior | 21.00% | ~11 |
+| Eridanian Champion | 21.00% | ~11 |
 | Dicesmithing Time! | 19.00% | ~10 |
 | Loyal Partner | 19.00% | ~10 |
 | Mechanical Buddy | 19.00% | ~10 |
@@ -17,7 +18,6 @@
 | Shard Spender | 19.00% | ~10 |
 | Stellar Dismantler | 19.00% | ~10 |
 | Wild's Keeper | 19.00% | ~10 |
-| Eridanian Champion | 19.00% | ~10 |
 | Anomaly Destroyer | 17.00% | ~9 |
 | Mind Illuminator | 17.00% | ~9 |
 | Aquarian Champion | 15.00% | ~8 |

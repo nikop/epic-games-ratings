@@ -208,12 +208,12 @@ Completed: 1 (0.00%) (Ranked 313)
 | 2023-10-12 | 151,480 | 1 |
 ## Awards
 Max (Highly Recommended): 42  (Ranked 434)  
-Sum: 276 (Ranked 356)  
+Sum: 278 (Ranked 356)  
 Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 42 |
-| This game has Quickly Understood Controls | 39 |
+| This game has Quickly Understood Controls | 41 |
 | This game has Unique Visuals | 39 |
 | This game has Challenging Combat | 36 |
 | This game is Extremely Fun | 34 |
@@ -334,3 +334,4 @@ Diff (max vs sum): 78
 | 2023-10-09 | 4.59 | - | 42 | 273 |
 | 2023-10-10 | 4.59 | - | 42 | 275 |
 | 2023-10-11 | 4.59 | - | 42 | 276 |
+| 2023-10-12 | 4.59 | - | 42 | 278 |

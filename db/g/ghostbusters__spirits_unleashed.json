@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2364,9 +2364,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26357,
+  "EOS_Progressed": 26360,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -14694,6 +14694,11 @@
       "Time": "2023-10-12T01:45:41.0270235+00:00",
       "NumProgressed": 26357,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-10-12T03:06:31.2800799+00:00",
+      "NumProgressed": 26360,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 51,
@@ -14809,7 +14814,7 @@
       "Name": "Ectoplasmic Entity",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "Efficient",
@@ -14849,7 +14854,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "Ghost_Expert",
@@ -14953,7 +14958,7 @@
       "Name": "Right back at ya",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "Rivalry",
@@ -15017,7 +15022,7 @@
       "Name": "Summoner",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "Surprise",
@@ -15049,7 +15054,7 @@
       "Name": "Terrifying",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "Therapeutic",
@@ -15097,7 +15102,7 @@
       "Name": "Welcome to the Crew",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "Whoopsie",
@@ -15112,7 +15117,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26357,
+      "Progressed": 26360,
       "Completed": 58
     }
   ],
@@ -15120,8 +15125,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-12T01:37:56.5097971+00:00",
-  "LastChanged_Achievements": "2023-10-12T02:20:40.1251753+00:00",
+  "LastChanged_Achievements": "2023-10-12T03:06:31.2800792+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:25.2013042+00:00",
-  "LastUpdate_Ratings": "2023-10-12T02:12:31.2382259+00:00",
-  "LastUpdate_Achievements": "2023-10-12T02:20:40.1253089+00:00"
+  "LastUpdate_Ratings": "2023-10-12T02:57:29.1052998+00:00",
+  "LastUpdate_Achievements": "2023-10-12T03:06:31.2802218+00:00"
 }

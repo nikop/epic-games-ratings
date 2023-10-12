@@ -4,8 +4,8 @@
   "ProductSlug": "boxr-62411f",
   "Ranking_EOS_Progress": 667,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-04-12T22:00:00+00:00",
     "PcReleaseDate": "2023-04-19T08:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-07T14:59:26.7669631+00:00",
-  "LastUpdate_Ratings": "2023-10-12T02:13:23.5125103+00:00",
-  "LastUpdate_Achievements": "2023-10-12T02:19:05.3991332+00:00"
+  "LastUpdate_Ratings": "2023-10-12T02:58:25.6908969+00:00",
+  "LastUpdate_Achievements": "2023-10-12T03:04:49.6541764+00:00"
 }

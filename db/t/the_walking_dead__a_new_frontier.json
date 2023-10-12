@@ -2,13 +2,13 @@
   "ID": "begonia",
   "Name": "The Walking Dead: A New Frontier",
   "ProductSlug": "walking-dead-a-new-frontier",
-  "Ranking_Rating": 75,
+  "Ranking_Rating": 61,
   "Ranking_Popularity": 532,
   "Ranking_PopularitySum": 532,
   "Ranking_EOS_Progress": 667,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2016-12-20T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.81,
+  "Rating": 4.82,
   "NumberOfRatings": 27,
   "RatingHistory": [
     {
@@ -123,6 +123,12 @@
       "Rating": 4.81,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-10-12T02:59:08.774776+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -141,8 +147,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:08.3729258+00:00",
   "FirstSeenRating": "2022-08-09T06:30:26.3767839+00:00",
-  "LastChanged": "2023-07-24T15:00:43.3273984+00:00",
+  "LastChanged": "2023-10-12T02:59:08.7747758+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:32.9258478+00:00",
-  "LastUpdate_Ratings": "2023-10-12T02:13:59.5485524+00:00",
-  "LastUpdate_Achievements": "2023-10-12T02:24:23.4666131+00:00"
+  "LastUpdate_Ratings": "2023-10-12T02:59:08.7747767+00:00",
+  "LastUpdate_Achievements": "2023-10-12T03:10:41.0301794+00:00"
 }

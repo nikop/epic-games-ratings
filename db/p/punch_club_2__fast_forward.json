@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 103,
   "Ranking_EOS_NewPlayers": 303,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
     "PcReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -1608,9 +1608,9 @@
       "ID": "mike_resurect",
       "SetID": "69co12a",
       "Name": "It\u0027s good to be alive",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 204
     },
     {
       "ID": "mysterious_voice",
@@ -1831,8 +1831,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-10-12T02:20:29.2750935+00:00",
+  "LastChanged_Achievements": "2023-10-12T03:06:18.0022559+00:00",
   "LastUpdate_AppInfo": "2023-10-07T11:57:13.456228+00:00",
-  "LastUpdate_Ratings": "2023-10-12T02:18:46.7370197+00:00",
-  "LastUpdate_Achievements": "2023-10-12T02:20:29.2751784+00:00"
+  "LastUpdate_Ratings": "2023-10-12T03:04:39.792829+00:00",
+  "LastUpdate_Achievements": "2023-10-12T03:06:18.002331+00:00"
 }

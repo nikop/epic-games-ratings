@@ -17,7 +17,7 @@ Number of Ratings: 285  (23.09.2022)
 | Horder Better Faster Stronger | 16.00% | ~645 |
 | Everything Must Go! | 14.00% | ~564 |
 | Ten Steps from the Grave | 14.00% | ~564 |
-| Next Time on MythForce... | 12.00% | ~484 |
+| Next Time on MythForce... | 13.00% | ~524 |
 | Cold-Blooded Critters | 10.00% | ~403 |
 | Death Becomes You | 8.00% | ~323 |
 | Flawless Victory | 6.00% | ~242 |

@@ -10441,9 +10441,9 @@
       "Count": 8394
     }
   ],
-  "EOS_Progressed": 1344040,
+  "EOS_Progressed": 1344042,
   "EOS_Completed": 2158,
-  "EOS_NewPlayers": 2443,
+  "EOS_NewPlayers": 2444,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -30211,6 +30211,11 @@
       "Time": "2023-10-12T02:20:58.6147403+00:00",
       "NumProgressed": 1344040,
       "NumCompleted": 2158
+    },
+    {
+      "Time": "2023-10-12T03:06:53.3222774+00:00",
+      "NumProgressed": 1344042,
+      "NumCompleted": 2158
     }
   ],
   "TotalAchievements": 47,
@@ -30222,7 +30227,7 @@
       "Name": "The Result of Previous Training",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 376331
+      "UsersEstimate": 376332
     },
     {
       "ID": "ACH_001",
@@ -30238,7 +30243,7 @@
       "Name": "Seizing the Opportunity",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 349450
+      "UsersEstimate": 349451
     },
     {
       "ID": "ACH_003",
@@ -30286,7 +30291,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 376331
+      "UsersEstimate": 376332
     },
     {
       "ID": "ACH_009",
@@ -30294,7 +30299,7 @@
       "Name": "Unseen Assassin",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 618258
+      "UsersEstimate": 618259
     },
     {
       "ID": "ACH_010",
@@ -30318,7 +30323,7 @@
       "Name": "Death From Above",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 604818
+      "UsersEstimate": 604819
     },
     {
       "ID": "ACH_013",
@@ -30366,7 +30371,7 @@
       "Name": "Master of the Household",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 510735
+      "UsersEstimate": 510736
     },
     {
       "ID": "ACH_019",
@@ -30390,7 +30395,7 @@
       "Name": "Family Feud",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 80642
+      "UsersEstimate": 80643
     },
     {
       "ID": "ACH_022",
@@ -30414,7 +30419,7 @@
       "Name": "Death of the Party",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 483854
+      "UsersEstimate": 483855
     },
     {
       "ID": "ACH_025",
@@ -30462,7 +30467,7 @@
       "Name": "NEXUS-47",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 443533
+      "UsersEstimate": 443534
     },
     {
       "ID": "ACH_031",
@@ -30510,7 +30515,7 @@
       "Name": "The Last Tango",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 416652
+      "UsersEstimate": 416653
     },
     {
       "ID": "ACH_037",
@@ -30534,7 +30539,7 @@
       "Name": "Evil Wine Club",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 147844
+      "UsersEstimate": 147845
     },
     {
       "ID": "ACH_040",
@@ -30542,7 +30547,7 @@
       "Name": "Rich Harvest",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 80642
+      "UsersEstimate": 80643
     },
     {
       "ID": "ACH_041",
@@ -30558,7 +30563,7 @@
       "Name": "Nightmare Fuel",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 403212
+      "UsersEstimate": 403213
     },
     {
       "ID": "ACH_043",
@@ -30566,7 +30571,7 @@
       "Name": "Bullet Train",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 282248
+      "UsersEstimate": 282249
     },
     {
       "ID": "ACH_044",
@@ -30574,7 +30579,7 @@
       "Name": "Count Down From 47",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 80642
+      "UsersEstimate": 80643
     },
     {
       "ID": "ACH_045",
@@ -30597,15 +30602,15 @@
     {
       "ID": "62l33o1",
       "IsBase": true,
-      "Progressed": 1344040,
+      "Progressed": 1344042,
       "Completed": 2158
     }
   ],
   "FirstSeen": "2022-07-22T20:17:51.8099598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:56.7371376+00:00",
   "LastChanged": "2023-10-12T02:17:07.7292034+00:00",
-  "LastChanged_Achievements": "2023-10-12T02:20:58.6147396+00:00",
+  "LastChanged_Achievements": "2023-10-12T03:06:53.3222767+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:14.657185+00:00",
-  "LastUpdate_Ratings": "2023-10-12T02:17:07.729204+00:00",
-  "LastUpdate_Achievements": "2023-10-12T02:20:58.6149263+00:00"
+  "LastUpdate_Ratings": "2023-10-12T03:03:09.5850328+00:00",
+  "LastUpdate_Achievements": "2023-10-12T03:06:53.3224609+00:00"
 }

@@ -14,7 +14,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Survival Treasures | 1.00% | ~9,334 |
 | Skillful | 1.00% | ~9,334 |
 | Make Some Noise | 1.00% | ~9,334 |
-| Sorted | 0.90% | ~8,400 |
+| Sorted | 0.90% | ~8,401 |
 | No one left behind | 0.80% | ~7,467 |
 | Medic | 0.80% | ~7,467 |
 | Healthy Obsession | 0.80% | ~7,467 |
@@ -38,17 +38,18 @@ Number of Ratings: 70,340  (23.09.2022)
 | Vulture | 0.50% | ~4,667 |
 | II | 0.50% | ~4,667 |
 | Second Act | 0.50% | ~4,667 |
-| Made it out alive! | 0.40% | ~3,733 |
-| III | 0.40% | ~3,733 |
-| Cherish your Life | 0.40% | ~3,733 |
-| Unforgettable Getaway | 0.40% | ~3,733 |
-| First to the Punch | 0.40% | ~3,733 |
-| Every Last Drop | 0.40% | ~3,733 |
-| Raccoon City Recruit | 0.40% | ~3,733 |
-| With Scars to Show | 0.40% | ~3,733 |
-| Flight to Freedom | 0.40% | ~3,733 |
-| A Fast Death | 0.40% | ~3,733 |
-| Chorus of Chaos | 0.40% | ~3,733 |
+| Made it out alive! | 0.40% | ~3,734 |
+| III | 0.40% | ~3,734 |
+| Cherish your Life | 0.40% | ~3,734 |
+| Unforgettable Getaway | 0.40% | ~3,734 |
+| First to the Punch | 0.40% | ~3,734 |
+| Old West Oasis | 0.40% | ~3,734 |
+| Every Last Drop | 0.40% | ~3,734 |
+| Raccoon City Recruit | 0.40% | ~3,734 |
+| With Scars to Show | 0.40% | ~3,734 |
+| Flight to Freedom | 0.40% | ~3,734 |
+| A Fast Death | 0.40% | ~3,734 |
+| Chorus of Chaos | 0.40% | ~3,734 |
 | A bite for the Entity | 0.30% | ~2,800 |
 | Blood on your hands | 0.30% | ~2,800 |
 | Escape Artist | 0.30% | ~2,800 |
@@ -69,7 +70,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outrun Evil | 0.30% | ~2,800 |
 | Operation: Survival | 0.30% | ~2,800 |
 | Grim Pilgrimage | 0.30% | ~2,800 |
-| Old West Oasis | 0.30% | ~2,800 |
 | Classy Act | 0.30% | ~2,800 |
 | Rebuilding The Borgo | 0.30% | ~2,800 |
 | Lifting The Fog | 0.30% | ~2,800 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~933 |
 | Adept Ripley | 0.10% | ~933 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 933,371 (Ranked 14)  
+Progressed: 933,406 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -411,14 +411,14 @@ Completed: 49 (0.01%) (Ranked 295)
 | 2023-10-09 | 929,902 | 49 |
 | 2023-10-10 | 931,511 | 49 |
 | 2023-10-11 | 933,163 | 49 |
-| 2023-10-12 | 933,371 | 49 |
+| 2023-10-12 | 933,406 | 49 |
 ## Awards
-Max (Diverse Characters): 33,734  (Ranked 15)  
-Sum: 261,382 (Ranked 13)  
+Max (Diverse Characters): 33,781  (Ranked 15)  
+Sum: 261,429 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 33,734 |
+| This game has Diverse Characters | 33,781 |
 | This game is Highly Recommended | 29,857 |
 | This game has Competitive Players | 29,535 |
 | This game has Amazing Characters | 29,521 |
@@ -693,3 +693,4 @@ Diff (max vs sum): 2
 | 2023-10-09 | 4.52 | - | 33,640 | 260,754 |
 | 2023-10-10 | 4.51 | - | 33,667 | 261,003 |
 | 2023-10-11 | 4.51 | - | 33,734 | 261,382 |
+| 2023-10-12 | 4.51 | - | 33,781 | 261,429 |

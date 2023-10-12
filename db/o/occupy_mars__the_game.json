@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 532,
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -268,9 +268,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1662,
+  "EOS_Progressed": 1663,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3943,6 +3943,11 @@
       "Time": "2023-10-11T19:05:44.6843961+00:00",
       "NumProgressed": 1662,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-12T03:06:28.1594288+00:00",
+      "NumProgressed": 1663,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4050,7 +4055,7 @@
       "Name": "\u201CAliens\u201D",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "NEW_ACHIEVEMENT_ALL_WHEEL_TROUBLE",
@@ -4074,7 +4079,7 @@
       "Name": "Fear my botany powers, Mars",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -4200,9 +4205,9 @@
       "ID": "NEW_ACHIEVEMENT_MINER",
       "SetID": "l546gc",
       "Name": "Miner",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 432
+      "UsersEstimate": 416
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -4226,7 +4231,7 @@
       "Name": "Occupy Mars!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
@@ -4337,7 +4342,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1662,
+      "Progressed": 1663,
       "Completed": 0
     }
   ],
@@ -4345,8 +4350,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-10-07T20:58:51.3818577+00:00",
-  "LastChanged_Achievements": "2023-10-12T02:20:37.6332016+00:00",
+  "LastChanged_Achievements": "2023-10-12T03:06:28.1594282+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:07.1369242+00:00",
-  "LastUpdate_Ratings": "2023-10-12T02:12:28.0607878+00:00",
-  "LastUpdate_Achievements": "2023-10-12T02:20:37.6332652+00:00"
+  "LastUpdate_Ratings": "2023-10-12T02:57:26.9742579+00:00",
+  "LastUpdate_Achievements": "2023-10-12T03:06:28.1594991+00:00"
 }

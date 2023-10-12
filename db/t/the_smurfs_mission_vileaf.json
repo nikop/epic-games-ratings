@@ -4,8 +4,8 @@
   "ProductSlug": "the-smurfs-mission-vileaf-b1b351",
   "Ranking_EOS_Progress": 667,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-03-24T00:00:00+00:00",
     "PcReleaseDate": "2021-10-26T00:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:48.223488+00:00",
   "LastChanged": "2023-03-31T05:57:48.2234881+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:21.7884216+00:00",
-  "LastUpdate_Ratings": "2023-10-12T02:17:19.8080626+00:00",
-  "LastUpdate_Achievements": "2023-10-12T02:21:16.0602133+00:00"
+  "LastUpdate_Ratings": "2023-10-12T03:03:21.0706963+00:00",
+  "LastUpdate_Achievements": "2023-10-12T03:07:14.3935154+00:00"
 }

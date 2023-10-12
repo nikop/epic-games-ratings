@@ -2,7 +2,7 @@
   "ID": "e97659b501af4e3981d5430dad170911",
   "Name": "Hogwarts Legacy",
   "ProductSlug": "hogwarts-legacy",
-  "Ranking_Rating": 120,
+  "Ranking_Rating": 119,
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 31,
   "Ranking_EOS_Progress": 46,
@@ -8874,9 +8874,9 @@
       "Count": 705
     }
   ],
-  "EOS_Progressed": 298179,
+  "EOS_Progressed": 298183,
   "EOS_Completed": 483,
-  "EOS_NewPlayers": 348,
+  "EOS_NewPlayers": 352,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -27614,6 +27614,11 @@
       "Time": "2023-10-12T01:44:39.1751714+00:00",
       "NumProgressed": 298179,
       "NumCompleted": 483
+    },
+    {
+      "Time": "2023-10-12T03:05:20.1309151+00:00",
+      "NumProgressed": 298183,
+      "NumCompleted": 483
     }
   ],
   "TotalAchievements": 45,
@@ -27673,7 +27678,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23854
+      "UsersEstimate": 23855
     },
     {
       "ID": "PFA_16",
@@ -27697,7 +27702,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23854
+      "UsersEstimate": 23855
     },
     {
       "ID": "PFA_19",
@@ -27705,7 +27710,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23854
+      "UsersEstimate": 23855
     },
     {
       "ID": "PFA_2",
@@ -27745,7 +27750,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35781
+      "UsersEstimate": 35782
     },
     {
       "ID": "PFA_24",
@@ -27953,7 +27958,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38763
+      "UsersEstimate": 38764
     },
     {
       "ID": "PFA_7",
@@ -27961,7 +27966,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38763
+      "UsersEstimate": 38764
     },
     {
       "ID": "PFA_8",
@@ -27969,7 +27974,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 35781
+      "UsersEstimate": 35782
     },
     {
       "ID": "PFA_9",
@@ -27984,7 +27989,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298179,
+      "Progressed": 298183,
       "Completed": 483
     }
   ],
@@ -27992,8 +27997,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-12T02:15:33.2503119+00:00",
-  "LastChanged_Achievements": "2023-10-12T02:19:30.9269162+00:00",
+  "LastChanged_Achievements": "2023-10-12T03:05:20.1309143+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:01.0338203+00:00",
-  "LastUpdate_Ratings": "2023-10-12T02:15:33.2503127+00:00",
-  "LastUpdate_Achievements": "2023-10-12T02:19:30.9270912+00:00"
+  "LastUpdate_Ratings": "2023-10-12T03:01:15.237529+00:00",
+  "LastUpdate_Achievements": "2023-10-12T03:05:20.1310691+00:00"
 }

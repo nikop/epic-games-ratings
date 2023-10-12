@@ -43,6 +43,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Magnificent | 0.80% | ~117 |
 | Wise | 0.80% | ~117 |
 | Able Difficulty | 0.80% | ~117 |
+| Great Ziggurat | 0.80% | ~117 |
 | Carthaginian Paganism | 0.80% | ~117 |
 | Roman Paganism | 0.80% | ~117 |
 | Zoroastrianism | 0.80% | ~117 |
@@ -50,7 +51,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Brilliant | 0.70% | ~102 |
 | Great | 0.70% | ~102 |
 | Furious Family | 0.70% | ~102 |
-| Great Ziggurat | 0.70% | ~102 |
 | Musaeum | 0.70% | ~102 |
 | Learn to Play 1 | 0.70% | ~102 |
 | Manichaeism | 0.70% | ~102 |

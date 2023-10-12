@@ -525,9 +525,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 15688,
+  "EOS_Progressed": 15689,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -11840,6 +11840,11 @@
       "Time": "2023-10-12T01:49:49.0870342+00:00",
       "NumProgressed": 15688,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-10-12T03:11:09.1826592+00:00",
+      "NumProgressed": 15689,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 41,
@@ -11955,7 +11960,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4706
+      "UsersEstimate": 4707
     },
     {
       "ID": "tpote_achievement_22",
@@ -11995,7 +12000,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2039
+      "UsersEstimate": 2040
     },
     {
       "ID": "tpote_achievement_27",
@@ -12115,7 +12120,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6275
+      "UsersEstimate": 6276
     },
     {
       "ID": "tpote_achievement_40",
@@ -12163,7 +12168,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3451
+      "UsersEstimate": 3452
     },
     {
       "ID": "tpote_achievement_9",
@@ -12178,15 +12183,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15688,
+      "Progressed": 15689,
       "Completed": 113
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-26T12:00:19.7408959+00:00",
-  "LastChanged_Achievements": "2023-10-12T02:24:38.9415016+00:00",
+  "LastChanged_Achievements": "2023-10-12T03:11:09.1826585+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:27.8730623+00:00",
-  "LastUpdate_Ratings": "2023-10-12T02:13:35.0666175+00:00",
-  "LastUpdate_Achievements": "2023-10-12T02:24:38.9416381+00:00"
+  "LastUpdate_Ratings": "2023-10-12T02:58:41.1957758+00:00",
+  "LastUpdate_Achievements": "2023-10-12T03:11:09.1831459+00:00"
 }

@@ -4,11 +4,11 @@
   "ProductSlug": "weird-west-906661",
   "Ranking_Rating": 656,
   "Ranking_Popularity": 487,
-  "Ranking_PopularitySum": 500,
+  "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 303,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -2515,8 +2515,8 @@
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-09-26T20:04:09.1562051+00:00",
-  "LastChanged_Achievements": "2023-10-12T02:22:08.3396411+00:00",
+  "LastChanged_Achievements": "2023-10-12T03:08:05.2385353+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:48.6052091+00:00",
-  "LastUpdate_Ratings": "2023-10-12T02:18:46.1694753+00:00",
-  "LastUpdate_Achievements": "2023-10-12T02:22:08.3396973+00:00"
+  "LastUpdate_Ratings": "2023-10-12T03:04:39.7377412+00:00",
+  "LastUpdate_Achievements": "2023-10-12T03:08:05.2385951+00:00"
 }

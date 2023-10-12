@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 491,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 250,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-07-12T13:00:00+00:00",
     "PcReleaseDate": "2022-07-12T13:00:00+00:00",
@@ -154,9 +154,9 @@
       "ID": "a13",
       "SetID": "cdg65ol",
       "Name": "One with the frogs",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "a14",
@@ -226,17 +226,17 @@
       "ID": "a21",
       "SetID": "cdg65ol",
       "Name": "Sailor Swift",
-      "Percentage": 6,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "a22",
       "SetID": "cdg65ol",
       "Name": "No Evil",
-      "Percentage": 6,
+      "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "a23",
@@ -274,9 +274,9 @@
       "ID": "a27",
       "SetID": "cdg65ol",
       "Name": "Honey, I\u0027m Home",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "a28",
@@ -330,9 +330,9 @@
       "ID": "a33",
       "SetID": "cdg65ol",
       "Name": "Home Sweet Home",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "a34",
@@ -386,17 +386,17 @@
       "ID": "a8",
       "SetID": "cdg65ol",
       "Name": "Replace the Rudder",
-      "Percentage": 12,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "a9",
       "SetID": "cdg65ol",
       "Name": "The Journey Continues",
-      "Percentage": 6,
+      "Percentage": 12,
       "XP": 75,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
@@ -411,8 +411,8 @@
   "FirstSeenRating": "2023-03-31T05:58:16.4143103+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:44.2276989+00:00",
   "LastChanged": "2023-03-31T05:58:16.4143104+00:00",
-  "LastChanged_Achievements": "2023-10-12T02:21:18.3782973+00:00",
+  "LastChanged_Achievements": "2023-10-12T03:07:17.2648553+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:38.4592564+00:00",
-  "LastUpdate_Ratings": "2023-10-12T02:13:57.3553489+00:00",
-  "LastUpdate_Achievements": "2023-10-12T02:21:18.3783258+00:00"
+  "LastUpdate_Ratings": "2023-10-12T02:59:03.9801834+00:00",
+  "LastUpdate_Achievements": "2023-10-12T03:07:17.2648848+00:00"
 }
