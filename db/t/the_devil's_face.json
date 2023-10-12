@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
     "PcReleaseDate": "2023-08-26T16:00:00+00:00",
@@ -1673,17 +1673,17 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "296pn27",
       "Name": "The path to enlightenment",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 44
+      "UsersEstimate": 47
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "296pn27",
       "Name": "Our efforts are finally yielding progress",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 44
+      "UsersEstimate": 47
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -1744,8 +1744,8 @@
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-10-12T19:04:12.614285+00:00",
+  "LastChanged_Achievements": "2023-10-12T20:04:40.8707019+00:00",
   "LastUpdate_AppInfo": "2023-10-07T11:57:07.3971588+00:00",
-  "LastUpdate_Ratings": "2023-10-12T18:57:30.7311341+00:00",
-  "LastUpdate_Achievements": "2023-10-12T19:04:12.6143062+00:00"
+  "LastUpdate_Ratings": "2023-10-12T19:57:54.0930637+00:00",
+  "LastUpdate_Achievements": "2023-10-12T20:04:40.8707269+00:00"
 }

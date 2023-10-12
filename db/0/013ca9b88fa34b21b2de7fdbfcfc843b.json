@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -118,9 +118,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6530,
+  "EOS_Progressed": 6531,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 465,
+  "EOS_NewPlayers": 462,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4058,6 +4058,11 @@
       "Time": "2023-10-12T19:03:32.2498032+00:00",
       "NumProgressed": 6530,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-12T20:03:36.7812931+00:00",
+      "NumProgressed": 6531,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -4070,7 +4075,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 4767
+      "UsersEstimate": 4768
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -4078,7 +4083,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 4571
+      "UsersEstimate": 4572
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -4174,7 +4179,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 3134
+      "UsersEstimate": 3135
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -4206,7 +4211,7 @@
       "Name": "Humble Collector",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 2677
+      "UsersEstimate": 2678
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -4214,7 +4219,7 @@
       "Name": "Scattered Scroll Scrounger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "DISCOVER_WHIRLPOOL",
@@ -4222,7 +4227,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 3918
+      "UsersEstimate": 3919
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -4246,7 +4251,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2938
+      "UsersEstimate": 2939
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -4302,7 +4307,7 @@
       "Name": "Azorian Anniversary",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "UPGRADE_ALLSKILLSMAX",
@@ -4349,7 +4354,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 6530,
+      "Progressed": 6531,
       "Completed": 0
     }
   ],
@@ -4357,8 +4362,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-12T12:03:13.8462755+00:00",
-  "LastChanged_Achievements": "2023-10-12T19:03:32.2498027+00:00",
+  "LastChanged_Achievements": "2023-10-12T20:03:36.7812926+00:00",
   "LastUpdate_AppInfo": "2023-10-06T05:57:20.0812213+00:00",
-  "LastUpdate_Ratings": "2023-10-12T18:57:09.4891771+00:00",
-  "LastUpdate_Achievements": "2023-10-12T19:03:32.249854+00:00"
+  "LastUpdate_Ratings": "2023-10-12T19:57:22.8498375+00:00",
+  "LastUpdate_Achievements": "2023-10-12T20:03:36.7813552+00:00"
 }

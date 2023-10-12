@@ -35,9 +35,9 @@ Rating: 3.51 (Ranked 1,009)
 | Block Party | 0.30% | ~5 |
 | Silence Is Golden | 0.30% | ~5 |
 | You Clean It Up | 0.30% | ~5 |
+| Sisterhood | 0.30% | ~5 |
 | Nice Try | 0.30% | ~5 |
 | I Spit On Your Grave | 0.30% | ~5 |
-| Sisterhood | 0.20% | ~4 |
 | What Lies Below | 0.20% | ~4 |
 | Check, Please! | 0.20% | ~4 |
 | Starve the Beast | 0.20% | ~4 |

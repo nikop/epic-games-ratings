@@ -476,11 +476,11 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 93766,
-  "EOS_Completed": 942,
+  "EOS_Progressed": 93770,
+  "EOS_Completed": 943,
   "EOS_NewPlayers": 1076,
-  "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 1,
+  "EOS_NewCompleters": 9,
+  "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:25.309734+00:00",
@@ -20311,6 +20311,11 @@
       "Time": "2023-10-12T19:06:38.470891+00:00",
       "NumProgressed": 93766,
       "NumCompleted": 942
+    },
+    {
+      "Time": "2023-10-12T20:07:59.2890507+00:00",
+      "NumProgressed": 93770,
+      "NumCompleted": 943
     }
   ],
   "TotalAchievements": 56,
@@ -20322,7 +20327,7 @@
       "Name": "Just The Two of Us",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 30005
+      "UsersEstimate": 30006
     },
     {
       "ID": "ach_001_game_complete",
@@ -20402,7 +20407,7 @@
       "Name": "The Scrapper Mask",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 7501
+      "UsersEstimate": 7502
     },
     {
       "ID": "ach_011_merchants_mask",
@@ -20450,7 +20455,7 @@
       "Name": "The Dunboyne",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 15940
+      "UsersEstimate": 15941
     },
     {
       "ID": "ach_017_door_trellicks_pillar",
@@ -20466,7 +20471,7 @@
       "Name": "Shadow Of Neave",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 7501
+      "UsersEstimate": 7502
     },
     {
       "ID": "ach_019_door_rowleys_way",
@@ -20474,7 +20479,7 @@
       "Name": "Rowleys Way",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 10314
+      "UsersEstimate": 10315
     },
     {
       "ID": "ach_020_door_centre_of_brunswick",
@@ -20498,7 +20503,7 @@
       "Name": "Thread The Needle",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 14065
+      "UsersEstimate": 14066
     },
     {
       "ID": "ach_023_open_sandwyrm",
@@ -20514,7 +20519,7 @@
       "Name": "Fragile Goods",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 7501
+      "UsersEstimate": 7502
     },
     {
       "ID": "ach_025_solve_the_watch",
@@ -20538,7 +20543,7 @@
       "Name": "Power to the People",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 13127
+      "UsersEstimate": 13128
     },
     {
       "ID": "ach_028_accuse_suspect",
@@ -20554,7 +20559,7 @@
       "Name": "Glider on the Storm",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 7501
+      "UsersEstimate": 7502
     },
     {
       "ID": "ach_030_collect_glowworm",
@@ -20578,7 +20583,7 @@
       "Name": "Got Your Nose",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 22504
+      "UsersEstimate": 22505
     },
     {
       "ID": "ach_033_collect_slicer_beetle_poo",
@@ -20586,7 +20591,7 @@
       "Name": "Squeeze One Out",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 7501
+      "UsersEstimate": 7502
     },
     {
       "ID": "ach_034_collect_orange_ringed_beetle",
@@ -20618,7 +20623,7 @@
       "Name": "Badge Hobbyist",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 15940
+      "UsersEstimate": 15941
     },
     {
       "ID": "ach_038_collect_badges_2",
@@ -20634,7 +20639,7 @@
       "Name": "Simoon",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 31880
+      "UsersEstimate": 31882
     },
     {
       "ID": "ach_040_customise_hoverbike",
@@ -20650,7 +20655,7 @@
       "Name": "The Gift of Gab",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 22504
+      "UsersEstimate": 22505
     },
     {
       "ID": "ach_042_talk_to_npcs_2",
@@ -20674,7 +20679,7 @@
       "Name": "More Than A Box Of Sand",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 16878
+      "UsersEstimate": 16879
     },
     {
       "ID": "ach_045_open_chests_2",
@@ -20698,7 +20703,7 @@
       "Name": "Dune Rider",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 7501
+      "UsersEstimate": 7502
     },
     {
       "ID": "ach_048_glide_long_distance",
@@ -20769,15 +20774,15 @@
     {
       "ID": "585ckk9",
       "IsBase": true,
-      "Progressed": 93766,
-      "Completed": 942
+      "Progressed": 93770,
+      "Completed": 943
     }
   ],
   "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:25.3097347+00:00",
   "LastChanged": "2023-09-28T23:58:44.8728569+00:00",
-  "LastChanged_Achievements": "2023-10-12T19:06:38.4708905+00:00",
+  "LastChanged_Achievements": "2023-10-12T20:07:59.2890502+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:07.2919835+00:00",
-  "LastUpdate_Ratings": "2023-10-12T19:00:25.6030114+00:00",
-  "LastUpdate_Achievements": "2023-10-12T19:06:38.4710368+00:00"
+  "LastUpdate_Ratings": "2023-10-12T20:02:04.4515613+00:00",
+  "LastUpdate_Achievements": "2023-10-12T20:07:59.2892616+00:00"
 }

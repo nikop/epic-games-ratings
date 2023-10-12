@@ -7,6 +7,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 0.30% | ~695 |
+| The Jungles of Doomspace | 0.20% | ~396 |
 | Maddening | 0.10% | ~232 |
 | Pros and CONs | 0.10% | ~232 |
 | Upholding the Law | 0.10% | ~232 |
@@ -526,7 +527,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~198 |
 | The End | 0.10% | ~198 |
 | All's Well That Ends Well | 0.10% | ~198 |
-| The Jungles of Doomspace | 0.10% | ~198 |
 | Slow Down Showdown | 0.10% | ~198 |
 | The Arena of Blood | 0.10% | ~198 |
 | Entrance of the Gladiators | 0.10% | ~198 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Spelljammers in Training | 0.10% | ~198 |
 | Time Out | 0.10% | ~198 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,634 (Ranked 58)  
+Progressed: 231,637 (Ranked 58)  
 Completed: 2,355 (1.02%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -710,7 +710,7 @@ Completed: 2,355 (1.02%) (Ranked 143)
 | 2023-10-09 | 231,404 | 2,348 |
 | 2023-10-10 | 231,484 | 2,351 |
 | 2023-10-11 | 231,561 | 2,353 |
-| 2023-10-12 | 231,634 | 2,355 |
+| 2023-10-12 | 231,637 | 2,355 |
 ## Awards
 Max (Great for Beginners): 5,387  (Ranked 69)  
 Sum: 32,002 (Ranked 41)  

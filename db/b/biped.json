@@ -4,8 +4,8 @@
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6524,
+  "EOS_Progressed": 6525,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11276,6 +11276,11 @@
       "Time": "2023-10-12T13:10:12.3965395+00:00",
       "NumProgressed": 6524,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-12T20:05:18.391951+00:00",
+      "NumProgressed": 6525,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -11287,7 +11292,7 @@
       "Name": "First Step",
       "Percentage": 35,
       "XP": 45,
-      "UsersEstimate": 2283
+      "UsersEstimate": 2284
     },
     {
       "ID": "10",
@@ -11351,7 +11356,7 @@
       "Name": "Cactus Vally",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 1435
+      "UsersEstimate": 1436
     },
     {
       "ID": "4",
@@ -11383,7 +11388,7 @@
       "Name": "Blue Rapids",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "8",
@@ -11399,14 +11404,14 @@
       "Name": "Speed\u00A0walkers",
       "Percentage": 6,
       "XP": 65,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     }
   ],
   "AchievementSets": [
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 6524,
+      "Progressed": 6525,
       "Completed": 0
     }
   ],
@@ -11414,8 +11419,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-10-12T19:04:40.6916214+00:00",
+  "LastChanged_Achievements": "2023-10-12T20:05:18.3919505+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:19.3582319+00:00",
-  "LastUpdate_Ratings": "2023-10-12T19:00:12.2544783+00:00",
-  "LastUpdate_Achievements": "2023-10-12T19:04:40.6916934+00:00"
+  "LastUpdate_Ratings": "2023-10-12T20:01:45.399902+00:00",
+  "LastUpdate_Achievements": "2023-10-12T20:05:18.3920469+00:00"
 }

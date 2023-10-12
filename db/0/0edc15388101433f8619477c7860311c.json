@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 503,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 292,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-08-30T04:00:00+00:00",
     "PcReleaseDate": "2022-08-24T16:00:00+00:00",
@@ -133,9 +133,9 @@
       "ID": "HeartHurt",
       "SetID": "7m88n8p",
       "Name": "Whose Heart was Never Hurt",
-      "Percentage": 50,
+      "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "HideAndSeek",
@@ -269,9 +269,9 @@
       "ID": "WhoseChild",
       "SetID": "7m88n8p",
       "Name": "Whose Child?",
-      "Percentage": 36,
+      "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     }
   ],
   "AchievementSets": [
@@ -284,8 +284,8 @@
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2023-10-12T19:07:02.4917713+00:00",
+  "LastChanged_Achievements": "2023-10-12T20:08:32.9453698+00:00",
   "LastUpdate_AppInfo": "2023-10-09T06:57:11.9550048+00:00",
-  "LastUpdate_Ratings": "2023-10-12T19:00:32.3533039+00:00",
-  "LastUpdate_Achievements": "2023-10-12T19:07:02.4917893+00:00"
+  "LastUpdate_Ratings": "2023-10-12T20:02:14.2456708+00:00",
+  "LastUpdate_Achievements": "2023-10-12T20:08:32.9453897+00:00"
 }

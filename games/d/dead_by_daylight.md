@@ -6,61 +6,61 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 2.00% | ~18,692 |
-| Handyman | 1.00% | ~9,346 |
-| Zealous | 1.00% | ~9,346 |
-| Not half bad | 1.00% | ~9,346 |
-| Apt Survivor | 1.00% | ~9,346 |
-| Survival Treasures | 1.00% | ~9,346 |
-| Skillful | 1.00% | ~9,346 |
-| Make Some Noise | 1.00% | ~9,346 |
-| Medic | 0.90% | ~8,411 |
-| Sorted | 0.90% | ~8,411 |
-| Resurgence | 0.90% | ~8,411 |
+| It wakes | 2.00% | ~18,694 |
+| Handyman | 1.00% | ~9,347 |
+| Zealous | 1.00% | ~9,347 |
+| Not half bad | 1.00% | ~9,347 |
+| Apt Survivor | 1.00% | ~9,347 |
+| Survival Treasures | 1.00% | ~9,347 |
+| Skillful | 1.00% | ~9,347 |
+| Make Some Noise | 1.00% | ~9,347 |
+| No one left behind | 0.90% | ~8,412 |
+| Medic | 0.90% | ~8,412 |
+| Sorted | 0.90% | ~8,412 |
+| Resurgence | 0.90% | ~8,412 |
 | The Grand Sacrifice | 0.80% | ~7,477 |
-| No one left behind | 0.80% | ~7,477 |
 | Nerves of steel | 0.80% | ~7,477 |
 | Bloody Millionaire | 0.80% | ~7,477 |
 | I | 0.80% | ~7,477 |
 | Healthy Obsession | 0.80% | ~7,477 |
 | Preemptive Strike | 0.80% | ~7,477 |
-| Agonizing Escape | 0.70% | ~6,542 |
-| Backdoor Escape | 0.70% | ~6,542 |
-| I've got your back | 0.70% | ~6,542 |
-| Perfect Escape | 0.70% | ~6,542 |
-| Engineer | 0.70% | ~6,542 |
-| Humanitarian | 0.70% | ~6,542 |
-| Perfect Killing | 0.60% | ~5,607 |
-| Apt Killer | 0.60% | ~5,607 |
-| Risk it all | 0.60% | ~5,607 |
-| II | 0.60% | ~5,607 |
-| Wounded Healer | 0.60% | ~5,607 |
-| Close Shave | 0.60% | ~5,607 |
+| Humanitarian | 0.80% | ~7,477 |
+| Agonizing Escape | 0.70% | ~6,543 |
+| Backdoor Escape | 0.70% | ~6,543 |
+| I've got your back | 0.70% | ~6,543 |
+| Perfect Escape | 0.70% | ~6,543 |
+| Engineer | 0.70% | ~6,543 |
+| Perfect Killing | 0.60% | ~5,608 |
+| Apt Killer | 0.60% | ~5,608 |
+| Risk it all | 0.60% | ~5,608 |
+| II | 0.60% | ~5,608 |
+| Wounded Healer | 0.60% | ~5,608 |
+| Close Shave | 0.60% | ~5,608 |
 | Vulture | 0.50% | ~4,673 |
 | III | 0.50% | ~4,673 |
 | With Scars to Show | 0.50% | ~4,673 |
 | Second Act | 0.50% | ~4,673 |
-| Blood on your hands | 0.40% | ~3,738 |
-| Escape Artist | 0.40% | ~3,738 |
-| Made it out alive! | 0.40% | ~3,738 |
-| All Aboard | 0.40% | ~3,738 |
-| Item of Obsession | 0.40% | ~3,738 |
-| Holiday Get-Together | 0.40% | ~3,738 |
-| Near-Death Experience | 0.40% | ~3,738 |
-| Cherish your Life | 0.40% | ~3,738 |
-| Unforgettable Getaway | 0.40% | ~3,738 |
-| First to the Punch | 0.40% | ~3,738 |
-| Operation: Survival | 0.40% | ~3,738 |
-| Old West Oasis | 0.40% | ~3,738 |
-| Classy Act | 0.40% | ~3,738 |
-| Every Last Drop | 0.40% | ~3,738 |
-| Raccoon City Recruit | 0.40% | ~3,738 |
-| Flight to Freedom | 0.40% | ~3,738 |
-| A Fast Death | 0.40% | ~3,738 |
-| Rebuilding The Borgo | 0.40% | ~3,738 |
-| Lifting The Fog | 0.40% | ~3,738 |
-| Chorus of Chaos | 0.40% | ~3,738 |
-| One More Step | 0.40% | ~3,738 |
+| Blood on your hands | 0.40% | ~3,739 |
+| Escape Artist | 0.40% | ~3,739 |
+| Made it out alive! | 0.40% | ~3,739 |
+| All Aboard | 0.40% | ~3,739 |
+| Item of Obsession | 0.40% | ~3,739 |
+| Holiday Get-Together | 0.40% | ~3,739 |
+| Near-Death Experience | 0.40% | ~3,739 |
+| Cherish your Life | 0.40% | ~3,739 |
+| Unforgettable Getaway | 0.40% | ~3,739 |
+| First to the Punch | 0.40% | ~3,739 |
+| Operation: Survival | 0.40% | ~3,739 |
+| Old West Oasis | 0.40% | ~3,739 |
+| Classy Act | 0.40% | ~3,739 |
+| Every Last Drop | 0.40% | ~3,739 |
+| Raccoon City Recruit | 0.40% | ~3,739 |
+| Flight to Freedom | 0.40% | ~3,739 |
+| A Fast Death | 0.40% | ~3,739 |
+| Rebuilding The Borgo | 0.40% | ~3,739 |
+| Lifting The Fog | 0.40% | ~3,739 |
+| Chorus of Chaos | 0.40% | ~3,739 |
+| One More Step | 0.40% | ~3,739 |
 | A bite for the Entity | 0.30% | ~2,804 |
 | Blood on your face | 0.30% | ~2,804 |
 | Gifts for the Fog | 0.30% | ~2,804 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~935 |
 | Adept Ripley | 0.10% | ~935 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 934,583 (Ranked 14)  
+Progressed: 934,682 (Ranked 14)  
 Completed: 50 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -411,10 +411,10 @@ Completed: 50 (0.01%) (Ranked 296)
 | 2023-10-09 | 929,902 | 49 |
 | 2023-10-10 | 931,511 | 49 |
 | 2023-10-11 | 933,163 | 49 |
-| 2023-10-12 | 934,583 | 50 |
+| 2023-10-12 | 934,682 | 50 |
 ## Awards
 Max (Diverse Characters): 33,781  (Ranked 15)  
-Sum: 261,642 (Ranked 13)  
+Sum: 261,674 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -425,7 +425,7 @@ Diff (max vs sum): 2
 | This game is Extremely Fun | 29,214 |
 | This game has Challenging Combat | 28,793 |
 | This game has Quickly Understood Controls | 28,704 |
-| This game has Amazing Storytelling | 26,811 |
+| This game has Amazing Storytelling | 26,843 |
 | This game has a Competitive Community | 25,339 |
 | This game has Obsessive Gameplay | 16,768 |
 | This game is Great for Quick Sessions | 4,888 |
@@ -693,4 +693,4 @@ Diff (max vs sum): 2
 | 2023-10-09 | 4.52 | - | 33,640 | 260,754 |
 | 2023-10-10 | 4.51 | - | 33,667 | 261,003 |
 | 2023-10-11 | 4.51 | - | 33,734 | 261,382 |
-| 2023-10-12 | 4.51 | - | 33,781 | 261,642 |
+| 2023-10-12 | 4.51 | - | 33,781 | 261,674 |

@@ -5,13 +5,13 @@ Rating: 4.64 (Ranked 320)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 73.00% | ~4,767 |
-| A Thorny Situation | 70.00% | ~4,571 |
-| ... And Spit Back Out | 60.00% | ~3,918 |
-| Break-Net Speed | 48.00% | ~3,134 |
-| Bramble Breaker | 45.00% | ~2,938 |
+| Azoria Beckons | 73.00% | ~4,768 |
+| A Thorny Situation | 70.00% | ~4,572 |
+| ... And Spit Back Out | 60.00% | ~3,919 |
+| Break-Net Speed | 48.00% | ~3,135 |
+| Bramble Breaker | 45.00% | ~2,939 |
 | Miner 49er | 42.00% | ~2,743 |
-| Humble Collector | 41.00% | ~2,677 |
+| Humble Collector | 41.00% | ~2,678 |
 | Calm Sailing | 35.00% | ~2,286 |
 | Open the Gate! | 32.00% | ~2,090 |
 | Mist Walker | 30.00% | ~1,959 |
@@ -28,8 +28,8 @@ Rating: 4.64 (Ranked 320)
 | Fanatical Farmer | 7.00% | ~457 |
 | Flaming Hot Completos | 6.00% | ~392 |
 | Fae Farmer | 6.00% | ~392 |
-| Scattered Scroll Scrounger | 5.00% | ~326 |
-| Azorian Anniversary | 5.00% | ~326 |
+| Scattered Scroll Scrounger | 5.00% | ~327 |
+| Azorian Anniversary | 5.00% | ~327 |
 | I Now Pronounce You... | 4.00% | ~261 |
 | Chatty Neighbor | 3.00% | ~196 |
 | Right Tool For the Job | 3.00% | ~196 |
@@ -41,7 +41,7 @@ Rating: 4.64 (Ranked 320)
 | Giving the People What They Want | 0.10% | ~7 |
 | Very Skilled | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,530 (Ranked 161)  
+Progressed: 6,531 (Ranked 161)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-10-09 | 6,417 | 0 |
 | 2023-10-10 | 6,462 | 0 |
 | 2023-10-11 | 6,498 | 0 |
-| 2023-10-12 | 6,530 | 0 |
+| 2023-10-12 | 6,531 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

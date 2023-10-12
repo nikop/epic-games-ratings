@@ -7294,9 +7294,9 @@
       "Count": 3464
     }
   ],
-  "EOS_Progressed": 231634,
+  "EOS_Progressed": 231637,
   "EOS_Completed": 2355,
-  "EOS_NewPlayers": 647,
+  "EOS_NewPlayers": 644,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
@@ -26829,6 +26829,11 @@
       "Time": "2023-10-12T19:05:07.4260102+00:00",
       "NumProgressed": 231634,
       "NumCompleted": 2355
+    },
+    {
+      "Time": "2023-10-12T20:05:55.2468493+00:00",
+      "NumProgressed": 231637,
+      "NumCompleted": 2355
     }
   ],
   "TotalAchievements": 528,
@@ -30998,9 +31003,9 @@
       "ID": "objective_completed_1405",
       "SetID": "415jc5c",
       "Name": "The Jungles of Doomspace",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 396
     },
     {
       "ID": "objective_completed_1406",
@@ -31063,21 +31068,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 197908,
-      "Completed": 3574
+      "Progressed": 197911,
+      "Completed": 3575
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 231634,
+      "Progressed": 231637,
       "Completed": 2355
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-10-12T18:59:09.3469151+00:00",
-  "LastChanged_Achievements": "2023-10-12T19:05:07.4260096+00:00",
+  "LastChanged_Achievements": "2023-10-12T20:05:55.2468487+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:05.8246543+00:00",
-  "LastUpdate_Ratings": "2023-10-12T18:59:09.346916+00:00",
-  "LastUpdate_Achievements": "2023-10-12T19:05:07.4291667+00:00"
+  "LastUpdate_Ratings": "2023-10-12T20:00:17.6897793+00:00",
+  "LastUpdate_Achievements": "2023-10-12T20:05:55.2509718+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 663,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1693,9 +1693,9 @@
       "ID": "achievement_113",
       "SetID": "d252ncf",
       "Name": "Under Pressure",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 119
+      "UsersEstimate": 126
     },
     {
       "ID": "achievement_114",
@@ -1989,9 +1989,9 @@
       "ID": "achievement_32",
       "SetID": "b9pe172",
       "Name": "Charismatic",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 385
+      "UsersEstimate": 391
     },
     {
       "ID": "achievement_33",
@@ -2029,9 +2029,9 @@
       "ID": "achievement_37",
       "SetID": "b9pe172",
       "Name": "Very Elusive",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 278
+      "UsersEstimate": 285
     },
     {
       "ID": "achievement_38",
@@ -2061,9 +2061,9 @@
       "ID": "achievement_40",
       "SetID": "b9pe172",
       "Name": "Suicide Mission",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 186
     },
     {
       "ID": "achievement_41",
@@ -2125,9 +2125,9 @@
       "ID": "achievement_48",
       "SetID": "d252ncf",
       "Name": "The Krogan",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 232
+      "UsersEstimate": 239
     },
     {
       "ID": "achievement_49",
@@ -2593,8 +2593,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-12T19:03:18.1983473+00:00",
+  "LastChanged_Achievements": "2023-10-12T20:03:17.7056869+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:40.7255751+00:00",
-  "LastUpdate_Ratings": "2023-10-12T18:58:46.6451772+00:00",
-  "LastUpdate_Achievements": "2023-10-12T19:03:18.1986669+00:00"
+  "LastUpdate_Ratings": "2023-10-12T19:59:43.5686415+00:00",
+  "LastUpdate_Achievements": "2023-10-12T20:03:17.705981+00:00"
 }

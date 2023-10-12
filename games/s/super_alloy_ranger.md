@@ -14,20 +14,20 @@
 | Stop Right There | 31.00% | ~29 |
 | Get to the Point | 29.00% | ~28 |
 | Mr. Want It All | 18.00% | ~17 |
+| Toe to Toe | 17.00% | ~16 |
 | The Hidden Secret | 16.00% | ~15 |
-| Toe to Toe | 16.00% | ~15 |
 | Phew! | 15.00% | ~14 |
 | The Abyss Conqueror | 13.00% | ~12 |
 | Space Warrior: Prologue | 12.00% | ~11 |
 | The Fortress Conqueror | 11.00% | ~10 |
 | Grand Escape | 11.00% | ~10 |
 | Keep it Up, rookie! | 8.00% | ~8 |
+| The Hypergravitational Abyss Conqueror | 7.00% | ~7 |
 | he Ultra Fortress Conqueror | 7.00% | ~7 |
 | Antaeus | 7.00% | ~7 |
 | The Deep Frozen Conqueror | 6.00% | ~6 |
 | The Infinite Train Conqueror | 6.00% | ~6 |
 | The Paradox Coordinate Conqueror | 6.00% | ~6 |
-| The Hypergravitational Abyss Conqueror | 6.00% | ~6 |
 | Hell of a Fight | 6.00% | ~6 |
 | Decapitation Strike | 6.00% | ~6 |
 | The Sunken City Conqueror | 5.00% | ~5 |

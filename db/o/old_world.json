@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 283,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1753,10 +1753,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 1834,
       "NumberOfAwardsMax": 224
+    },
+    {
+      "Time": "2023-10-12T20:03:06.2994791+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1835,
+      "NumberOfAwardsMax": 224
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1834,
+  "NumberOfAwards": 1835,
   "NumberOfAwardsMax": 224,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -1818,7 +1824,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 190
+      "Count": 191
     },
     {
       "Text": "This game has a Creative Community",
@@ -1833,9 +1839,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14619,
+  "EOS_Progressed": 14621,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 245,
+  "EOS_NewPlayers": 246,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13668,6 +13674,11 @@
       "Time": "2023-10-12T19:06:15.3883672+00:00",
       "NumProgressed": 14619,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-12T20:07:28.2118817+00:00",
+      "NumProgressed": 14621,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -14357,9 +14368,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_WISE",
       "SetID": "9201eeb",
       "Name": "Wise",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 132
     },
     {
       "ID": "ACHIEVEMENT_COUNCIL_OF_MADNESS",
@@ -14549,9 +14560,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_PATRONS",
       "SetID": "7l38kb8",
       "Name": "Patrons",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 73
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_RIDERS",
@@ -15813,9 +15824,9 @@
       "ID": "ACHIEVEMENT_VICTORY_DOUBLE",
       "SetID": "7l38kb8",
       "Name": "Double Victory",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 73
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_NO_CHARACTERS",
@@ -16414,21 +16425,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14619,
+      "Progressed": 14621,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14619,
+      "Progressed": 14621,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
-  "LastChanged": "2023-10-12T09:03:11.7935292+00:00",
-  "LastChanged_Achievements": "2023-10-12T19:06:15.3883665+00:00",
+  "LastChanged": "2023-10-12T20:03:06.2994788+00:00",
+  "LastChanged_Achievements": "2023-10-12T20:07:28.2118812+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:48.3987129+00:00",
-  "LastUpdate_Ratings": "2023-10-12T19:03:12.0777399+00:00",
-  "LastUpdate_Achievements": "2023-10-12T19:06:15.3896262+00:00"
+  "LastUpdate_Ratings": "2023-10-12T20:03:06.2994797+00:00",
+  "LastUpdate_Achievements": "2023-10-12T20:07:28.2128434+00:00"
 }

@@ -5,8 +5,8 @@ Rating: 4.50 (Ranked 573)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advancement | 2.00% | ~527 |
-| Stylish | 2.00% | ~527 |
+| Advancement | 2.00% | ~528 |
+| Stylish | 2.00% | ~528 |
 | Clutch Capture | 1.00% | ~264 |
 | I collect Spores, Molds, and Fungi | 1.00% | ~264 |
 | Cultured | 1.00% | ~264 |
@@ -35,14 +35,14 @@ Rating: 4.50 (Ranked 573)
 | We have the best insurance | 0.50% | ~132 |
 | Legions | 0.50% | ~132 |
 | Pesky Jerks | 0.50% | ~132 |
-| Collector | 0.40% | ~105 |
-| Diabolical | 0.40% | ~105 |
-| Escape Artist | 0.40% | ~105 |
-| Reckless | 0.40% | ~105 |
-| Rift Destroyer | 0.40% | ~105 |
-| Rivalry | 0.40% | ~105 |
-| Seasoned | 0.40% | ~105 |
-| Tobin's Prodigy | 0.40% | ~105 |
+| Collector | 0.40% | ~106 |
+| Diabolical | 0.40% | ~106 |
+| Escape Artist | 0.40% | ~106 |
+| Reckless | 0.40% | ~106 |
+| Rift Destroyer | 0.40% | ~106 |
+| Rivalry | 0.40% | ~106 |
+| Seasoned | 0.40% | ~106 |
+| Tobin's Prodigy | 0.40% | ~106 |
 | Fragile Panes | 0.30% | ~79 |
 | Surprise! | 0.30% | ~79 |
 | Liability | 0.20% | ~53 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 573)
 | Therapeutic | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,374 (Ranked 117)  
+Progressed: 26,378 (Ranked 117)  
 Completed: 58 (0.22%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,7 +232,7 @@ Completed: 58 (0.22%) (Ranked 219)
 | 2023-10-09 | 26,315 | 58 |
 | 2023-10-10 | 26,330 | 58 |
 | 2023-10-11 | 26,352 | 58 |
-| 2023-10-12 | 26,374 | 58 |
+| 2023-10-12 | 26,378 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 261  (Ranked 257)  
 Sum: 2,378 (Ranked 188)  

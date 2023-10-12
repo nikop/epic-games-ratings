@@ -4,11 +4,11 @@
   "ProductSlug": "madden-nfl-23",
   "Ranking_Rating": 834,
   "Ranking_Popularity": 488,
-  "Ranking_PopularitySum": 448,
+  "Ranking_PopularitySum": 449,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
     "PcReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -3128,8 +3128,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-10-11T06:59:42.9773462+00:00",
-  "LastChanged_Achievements": "2023-10-12T19:04:59.8290566+00:00",
+  "LastChanged_Achievements": "2023-10-12T20:05:44.7230615+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:58.3611516+00:00",
-  "LastUpdate_Ratings": "2023-10-12T19:00:18.3226228+00:00",
-  "LastUpdate_Achievements": "2023-10-12T19:04:59.8290836+00:00"
+  "LastUpdate_Ratings": "2023-10-12T20:01:53.8184449+00:00",
+  "LastUpdate_Achievements": "2023-10-12T20:05:44.7230971+00:00"
 }

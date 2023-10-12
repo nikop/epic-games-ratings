@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 532,
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1151,
+  "EOS_Progressed": 1154,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1025,6 +1025,11 @@
       "Time": "2023-10-12T13:14:20.7969143+00:00",
       "NumProgressed": 1151,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-12T20:03:20.4513465+00:00",
+      "NumProgressed": 1154,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -1108,7 +1113,7 @@
       "Name": "Ride in the rising sun",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "ALLTRACKSGENESIS",
@@ -1138,9 +1143,9 @@
       "ID": "ALLTRACKSTARTARUS",
       "SetID": "3dh70f3",
       "Name": "To the core",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 92
     },
     {
       "ID": "ALLTRACKSTOKYO",
@@ -1164,7 +1169,7 @@
       "Name": "Rookie No More",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "CAREERADVANCED",
@@ -1258,9 +1263,9 @@
       "ID": "FINISHFAST",
       "SetID": "3dh70f3",
       "Name": "Blurred photofinish",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 92
     },
     {
       "ID": "FINISHSOUND",
@@ -1268,7 +1273,7 @@
       "Name": "Running at the speed of sound",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "FLYLONG",
@@ -1340,7 +1345,7 @@
       "Name": "Suit up",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "ONEMODULE",
@@ -1348,7 +1353,7 @@
       "Name": "Increasing your Power Level",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "ONEPAINT",
@@ -1356,7 +1361,7 @@
       "Name": "It\u0027s like an haircut",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "ONEPLATINUM",
@@ -1372,7 +1377,7 @@
       "Name": "Put it on a shelf",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "OVERTAKE100HUMANS",
@@ -1386,9 +1391,9 @@
       "ID": "PARMESANCHEESE",
       "SetID": "3dh70f3",
       "Name": "A Cheese Grater to the Face",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 219
+      "UsersEstimate": 231
     },
     {
       "ID": "TENPLATINUM",
@@ -1451,7 +1456,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1151,
+      "Progressed": 1154,
       "Completed": 0
     }
   ],
@@ -1459,8 +1464,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-07-10T22:58:27.6839393+00:00",
-  "LastChanged_Achievements": "2023-10-12T19:03:20.0266289+00:00",
+  "LastChanged_Achievements": "2023-10-12T20:03:20.4513461+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:33.6296431+00:00",
-  "LastUpdate_Ratings": "2023-10-12T19:00:47.5730293+00:00",
-  "LastUpdate_Achievements": "2023-10-12T19:03:20.0267033+00:00"
+  "LastUpdate_Ratings": "2023-10-12T20:02:36.6732437+00:00",
+  "LastUpdate_Achievements": "2023-10-12T20:03:20.4514128+00:00"
 }

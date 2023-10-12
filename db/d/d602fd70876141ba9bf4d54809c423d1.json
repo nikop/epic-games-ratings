@@ -2,10 +2,10 @@
   "ID": "d602fd70876141ba9bf4d54809c423d1",
   "Name": "The Evil Within",
   "ProductSlug": "the-evil-within",
-  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Progress": 376,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 243,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
     "PcReleaseDate": "2014-07-13T00:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 108,
+  "EOS_Progressed": 109,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -544,6 +544,11 @@
       "Time": "2023-10-12T16:06:58.8382509+00:00",
       "NumProgressed": 108,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-12T20:07:42.8192201+00:00",
+      "NumProgressed": 109,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T16:01:32.1694174+00:00",
@@ -578,9 +583,9 @@
       "ID": "ACHIEVEMENT_04",
       "SetID": "ap8553i",
       "Name": "Two on Two",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 20
     },
     {
       "ID": "ACHIEVEMENT_05",
@@ -660,7 +665,7 @@
       "Name": "Hardbody",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -748,7 +753,7 @@
       "Name": "One Man Army",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -860,7 +865,7 @@
       "Name": "Bathed in Flames",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -1123,20 +1128,20 @@
     {
       "ID": "8ddjaeg",
       "IsBase": false,
-      "Progressed": 108,
+      "Progressed": 109,
       "Completed": 0
     },
     {
       "ID": "ap8553i",
       "IsBase": true,
-      "Progressed": 108,
+      "Progressed": 109,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-10-12T19:06:26.1759692+00:00",
+  "LastChanged_Achievements": "2023-10-12T20:07:42.8192196+00:00",
   "LastUpdate_AppInfo": "2023-10-11T21:57:06.97719+00:00",
-  "LastUpdate_Ratings": "2023-10-12T18:57:35.5403957+00:00",
-  "LastUpdate_Achievements": "2023-10-12T19:06:26.1760491+00:00"
+  "LastUpdate_Ratings": "2023-10-12T19:58:01.5285224+00:00",
+  "LastUpdate_Achievements": "2023-10-12T20:07:42.819323+00:00"
 }

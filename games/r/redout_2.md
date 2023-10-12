@@ -5,21 +5,21 @@ Rating: 4.48 (Ranked 607)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie No More | 27.00% | ~311 |
-| Increasing your Power Level | 27.00% | ~311 |
+| Rookie No More | 27.00% | ~312 |
+| Increasing your Power Level | 27.00% | ~312 |
 | Enter the Speed Gauntlet | 25.00% | ~288 |
 | I just can't choose | 25.00% | ~288 |
-| A Cheese Grater to the Face | 19.00% | ~219 |
-| It's like an haircut | 18.00% | ~207 |
-| Put it on a shelf | 18.00% | ~207 |
-| Ride in the rising sun | 16.00% | ~184 |
-| Suit up | 16.00% | ~184 |
+| A Cheese Grater to the Face | 20.00% | ~231 |
+| It's like an haircut | 18.00% | ~208 |
+| Put it on a shelf | 18.00% | ~208 |
+| Ride in the rising sun | 16.00% | ~185 |
+| Suit up | 16.00% | ~185 |
 | Walked like an Egyptian | 15.00% | ~173 |
-| Running at the speed of sound | 14.00% | ~161 |
+| Running at the speed of sound | 14.00% | ~162 |
 | Rookie No-No More | 13.00% | ~150 |
 | Martian explorer | 11.00% | ~127 |
-| To the core | 9.00% | ~104 |
-| Blurred photofinish | 9.00% | ~104 |
+| To the core | 8.00% | ~92 |
+| Blurred photofinish | 8.00% | ~92 |
 | EZ game EZ life | 7.00% | ~81 |
 | First step into a larger world | 7.00% | ~81 |
 | Over the clouds | 6.00% | ~69 |
@@ -58,7 +58,7 @@ Rating: 4.48 (Ranked 607)
 | I, need, more, shelves! | 0.40% | ~5 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,151 (Ranked 227)  
+Progressed: 1,154 (Ranked 227)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-10-05 | 1,147 | 0 |
 | 2023-10-06 | 1,148 | 0 |
 | 2023-10-08 | 1,150 | 0 |
-| 2023-10-12 | 1,151 | 0 |
+| 2023-10-12 | 1,154 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

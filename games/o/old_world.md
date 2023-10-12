@@ -35,6 +35,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightened | 0.90% | ~132 |
 | Magnificent | 0.90% | ~132 |
 | Warrior | 0.90% | ~132 |
+| Wise | 0.90% | ~132 |
 | Strong Cities | 0.90% | ~132 |
 | Ishtar Gate | 0.90% | ~132 |
 | Lighthouse | 0.90% | ~132 |
@@ -42,7 +43,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greek Paganism | 0.90% | ~132 |
 | Brilliant | 0.80% | ~117 |
 | Fountainhead | 0.80% | ~117 |
-| Wise | 0.80% | ~117 |
 | Able Difficulty | 0.80% | ~117 |
 | Furious Family | 0.80% | ~117 |
 | Great Ziggurat | 0.80% | ~117 |
@@ -77,16 +77,17 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mighty | 0.50% | ~73 |
 | Victorious | 0.50% | ~73 |
 | Good Difficulty | 0.50% | ~73 |
+| Patrons | 0.50% | ~73 |
 | Acropolis | 0.50% | ~73 |
 | Learn to Play 3 | 0.50% | ~73 |
 | Greece | 0.50% | ~73 |
 | Power to the People | 0.50% | ~73 |
 | Building Wonders | 0.50% | ~73 |
+| Double Victory | 0.50% | ~73 |
 | Invincible | 0.40% | ~58 |
 | Lion | 0.40% | ~58 |
 | Subjugator | 0.40% | ~58 |
 | Landowners | 0.40% | ~58 |
-| Patrons | 0.40% | ~58 |
 | Riders | 0.40% | ~58 |
 | Traders | 0.40% | ~58 |
 | Hittite Iron | 0.40% | ~58 |
@@ -103,7 +104,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cimmerian Archer | 0.40% | ~58 |
 | Legionary | 0.40% | ~58 |
 | Phalangite | 0.40% | ~58 |
-| Double Victory | 0.40% | ~58 |
 | Points Victory | 0.40% | ~58 |
 | Capable | 0.30% | ~44 |
 | Devout | 0.30% | ~44 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,619 (Ranked 134)  
+Progressed: 14,621 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -524,10 +524,10 @@ Completed: 5 (0.03%) (Ranked 283)
 | 2023-10-09 | 14,562 | 5 |
 | 2023-10-10 | 14,586 | 5 |
 | 2023-10-11 | 14,606 | 5 |
-| 2023-10-12 | 14,619 | 5 |
+| 2023-10-12 | 14,621 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
-Sum: 1,834 (Ranked 210)  
+Sum: 1,835 (Ranked 210)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
@@ -538,7 +538,7 @@ Diff (max vs sum): 57
 | This game is Educational | 209 |
 | This game has Challenging Combat | 198 |
 | This game has Quickly Understood Controls | 191 |
-| This game has Amazing Characters | 190 |
+| This game has Amazing Characters | 191 |
 | This game has Amazing Storytelling | 186 |
 | This game has Obsessive Gameplay | 155 |
 | This game has a Creative Community | 101 |
@@ -687,4 +687,4 @@ Diff (max vs sum): 57
 | 2023-10-08 | 4.65 | - | 224 | 1,831 |
 | 2023-10-10 | 4.65 | - | 224 | 1,832 |
 | 2023-10-11 | 4.65 | - | 224 | 1,833 |
-| 2023-10-12 | 4.65 | - | 224 | 1,834 |
+| 2023-10-12 | 4.65 | - | 224 | 1,835 |

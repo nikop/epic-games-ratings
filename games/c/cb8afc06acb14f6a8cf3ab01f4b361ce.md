@@ -5,28 +5,28 @@ Rating: 4.15 (Ranked 913)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The touch of Chaos | 37.00% | ~97,642 |
-| May the Torchbearer light our way | 35.00% | ~92,364 |
-| A powerful aura was here | 23.00% | ~60,697 |
-| Let's raise the stakes!! | 10.00% | ~26,390 |
-| Rumors are true | 5.00% | ~13,195 |
-| Pride is a sin, young Knight | 5.00% | ~13,195 |
-| Your wounds… They are healing so fast! | 5.00% | ~13,195 |
-| We'll be careful | 4.00% | ~10,556 |
-| Bring it on! | 4.00% | ~10,556 |
-| Back to your senses | 3.00% | ~7,917 |
-| They tricked me | 2.00% | ~5,278 |
-| We need to talk | 2.00% | ~5,278 |
-| They won't last long | 2.00% | ~5,278 |
-| I feel drawn to it | 1.00% | ~2,639 |
-| I took a risk | 1.00% | ~2,639 |
-| Here to stay | 0.90% | ~2,375 |
-| Their fate is sealed | 0.90% | ~2,375 |
-| Counting on you | 0.80% | ~2,111 |
-| This is the end | 0.70% | ~1,847 |
-| We can choose to fight | 0.70% | ~1,847 |
+| The touch of Chaos | 37.00% | ~97,696 |
+| May the Torchbearer light our way | 35.00% | ~92,415 |
+| A powerful aura was here | 23.00% | ~60,730 |
+| Let's raise the stakes!! | 10.00% | ~26,404 |
+| Rumors are true | 5.00% | ~13,202 |
+| Pride is a sin, young Knight | 5.00% | ~13,202 |
+| Your wounds… They are healing so fast! | 5.00% | ~13,202 |
+| We'll be careful | 4.00% | ~10,562 |
+| Bring it on! | 4.00% | ~10,562 |
+| Back to your senses | 3.00% | ~7,921 |
+| They tricked me | 2.00% | ~5,281 |
+| We need to talk | 2.00% | ~5,281 |
+| They won't last long | 2.00% | ~5,281 |
+| I feel drawn to it | 1.00% | ~2,640 |
+| I took a risk | 1.00% | ~2,640 |
+| Here to stay | 0.90% | ~2,376 |
+| Their fate is sealed | 0.90% | ~2,376 |
+| Counting on you | 0.80% | ~2,112 |
+| This is the end | 0.70% | ~1,848 |
+| We can choose to fight | 0.70% | ~1,848 |
+| You want more? I've got more! | 0.50% | ~1,320 |
 | Not even from this world | 0.40% | ~1,056 |
-| You want more? I've got more! | 0.40% | ~1,056 |
 | No damsels in distress | 0.20% | ~528 |
 | The Ashen Knight | 0.20% | ~528 |
 | The immortal is bound to reborn | 0.10% | ~264 |
@@ -46,7 +46,7 @@ Rating: 4.15 (Ranked 913)
 | We strike as one | 0.10% | ~264 |
 | Chaos be damned! | 0.10% | ~264 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 263,898 (Ranked 50)  
+Progressed: 264,042 (Ranked 50)  
 Completed: 1 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,7 +65,7 @@ Completed: 1 (0.00%) (Ranked 314)
 | 2023-10-09 | 255,673 | 1 |
 | 2023-10-10 | 258,836 | 1 |
 | 2023-10-11 | 261,607 | 1 |
-| 2023-10-12 | 263,898 | 1 |
+| 2023-10-12 | 264,042 | 1 |
 ## Awards
 Max (Great Boss Battles): 25  (Ranked 500)  
 Sum: 25 (Ranked 508)  

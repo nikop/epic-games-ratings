@@ -6,22 +6,22 @@ Number of Ratings: 2,731  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 37.00% | ~29,159 |
-| Final touch | 36.00% | ~28,371 |
-| Prop-M Rover | 32.00% | ~25,218 |
-| Changing the Planet | 28.00% | ~22,066 |
-| Sojourner | 26.00% | ~20,490 |
-| Beagle 2 | 24.00% | ~18,914 |
-| New Home | 23.00% | ~18,126 |
-| Winner Winner Terraformer | 21.00% | ~16,549 |
-| Project Manager | 19.00% | ~14,973 |
-| Curiosity | 19.00% | ~14,973 |
-| Collector | 19.00% | ~14,973 |
-| Master | 19.00% | ~14,973 |
-| No Longer Red | 18.00% | ~14,185 |
-| Self-sufficient | 18.00% | ~14,185 |
-| Money money | 15.00% | ~11,821 |
-| Biggest Reward | 14.00% | ~11,033 |
+| It's a steal! | 37.00% | ~29,160 |
+| Final touch | 36.00% | ~28,372 |
+| Prop-M Rover | 32.00% | ~25,220 |
+| Changing the Planet | 28.00% | ~22,067 |
+| Sojourner | 26.00% | ~20,491 |
+| Beagle 2 | 24.00% | ~18,915 |
+| New Home | 23.00% | ~18,127 |
+| Winner Winner Terraformer | 21.00% | ~16,550 |
+| Project Manager | 19.00% | ~14,974 |
+| Curiosity | 19.00% | ~14,974 |
+| Collector | 19.00% | ~14,974 |
+| Master | 19.00% | ~14,974 |
+| No Longer Red | 18.00% | ~14,186 |
+| Self-sufficient | 18.00% | ~14,186 |
+| Money money | 15.00% | ~11,822 |
+| Biggest Reward | 14.00% | ~11,034 |
 | First Journey | 13.00% | ~10,245 |
 | Acquired knowledge | 13.00% | ~10,245 |
 | Hellenic Elysium | 12.00% | ~9,457 |
@@ -37,7 +37,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | Team Effort | 3.00% | ~2,364 |
 | Opportunity | 3.00% | ~2,364 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 78,807 (Ranked 88)  
+Progressed: 78,811 (Ranked 88)  
 Completed: 142 (0.18%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,10 +212,10 @@ Completed: 142 (0.18%) (Ranked 227)
 | 2023-10-09 | 78,581 | 142 |
 | 2023-10-10 | 78,658 | 142 |
 | 2023-10-11 | 78,736 | 142 |
-| 2023-10-12 | 78,807 | 142 |
+| 2023-10-12 | 78,811 | 142 |
 ## Awards
 Max (Relaxing): 520  (Ranked 201)  
-Sum: 3,191 (Ranked 166)  
+Sum: 3,192 (Ranked 166)  
 Diff (max vs sum): 35  
 | Award | Count |
 | ----- | ----- |
@@ -226,7 +226,7 @@ Diff (max vs sum): 35
 | This game is Extremely Fun | 449 |
 | This game has Amazing Storytelling | 362 |
 | This game has Obsessive Gameplay | 334 |
-| This game has a Competitive Community | 243 |
+| This game has a Competitive Community | 244 |
 | This game has Amazing Characters | 201 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -415,4 +415,4 @@ Diff (max vs sum): 35
 | 2023-10-08 | 4.54 | - | 518 | 3,185 |
 | 2023-10-09 | 4.54 | - | 519 | 3,186 |
 | 2023-10-10 | 4.54 | - | 520 | 3,190 |
-| 2023-10-12 | 4.54 | - | 520 | 3,191 |
+| 2023-10-12 | 4.54 | - | 520 | 3,192 |

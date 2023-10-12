@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8824,18 +8824,24 @@
       "Rating": 4.76,
       "NumberOfAwards": 45650,
       "NumberOfAwardsMax": 23447
+    },
+    {
+      "Time": "2023-10-12T20:00:46.7048395+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 45672,
+      "NumberOfAwardsMax": 23469
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 45650,
-  "NumberOfAwardsMax": 23447,
+  "NumberOfAwards": 45672,
+  "NumberOfAwardsMax": 23469,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 23447
+      "Count": 23469
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -8906,8 +8912,8 @@
   ],
   "EOS_Progressed": 298206,
   "EOS_Completed": 484,
-  "EOS_NewPlayers": 343,
-  "EOS_NewCompleters": 4,
+  "EOS_NewPlayers": 340,
+  "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
     {
@@ -28091,9 +28097,9 @@
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-10-12T18:00:15.6165025+00:00",
-  "LastChanged_Achievements": "2023-10-12T19:04:02.8145107+00:00",
+  "LastChanged": "2023-10-12T20:00:46.7048393+00:00",
+  "LastChanged_Achievements": "2023-10-12T20:04:27.4295313+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:01.0338203+00:00",
-  "LastUpdate_Ratings": "2023-10-12T18:59:29.7784663+00:00",
-  "LastUpdate_Achievements": "2023-10-12T19:04:02.8146621+00:00"
+  "LastUpdate_Ratings": "2023-10-12T20:00:46.7048402+00:00",
+  "LastUpdate_Achievements": "2023-10-12T20:04:27.4297136+00:00"
 }

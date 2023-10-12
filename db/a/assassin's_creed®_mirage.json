@@ -2,20 +2,20 @@
   "ID": "9bcf5a4dc1d54cb6ab1a42f3a70c5cf4",
   "Name": "Assassin\u0027s Creed\u00AE Mirage",
   "ProductSlug": "assassins-creed-mirage",
-  "Ranking_Rating": 643,
+  "Ranking_Rating": 655,
   "Ranking_Popularity": 504,
-  "Ranking_PopularitySum": 460,
+  "Ranking_PopularitySum": 437,
   "Ranking_EOS_Progress": 668,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 395,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 397,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-10-05T16:00:00+00:00",
     "PcReleaseDate": "2023-10-05T16:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.45,
+  "Rating": 4.44,
   "RatingHistory": [
     {
       "Time": "2023-10-06T05:58:23.6709701+00:00",
@@ -124,10 +124,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 65,
       "NumberOfAwardsMax": 24
+    },
+    {
+      "Time": "2023-10-12T20:02:22.6959864+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 88,
+      "NumberOfAwardsMax": 24
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 65,
+  "NumberOfAwards": 88,
   "NumberOfAwardsMax": 24,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -148,6 +154,12 @@
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
       "Count": 20
+    },
+    {
+      "Text": "This game is Educational",
+      "Prefix": "This game is",
+      "Type": "Educational",
+      "Count": 23
     }
   ],
   "EOS_Progressed": 0,
@@ -162,8 +174,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-05T18:58:30.4202319+00:00",
   "FirstSeenRating": "2023-10-06T05:58:23.6709697+00:00",
-  "LastChanged": "2023-10-12T12:01:27.9190426+00:00",
+  "LastChanged": "2023-10-12T20:02:22.6959862+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:21.9440654+00:00",
-  "LastUpdate_Ratings": "2023-10-12T19:00:37.7255192+00:00",
-  "LastUpdate_Achievements": "2023-10-12T19:03:43.8558263+00:00"
+  "LastUpdate_Ratings": "2023-10-12T20:02:22.6959869+00:00",
+  "LastUpdate_Achievements": "2023-10-12T20:03:52.1375474+00:00"
 }

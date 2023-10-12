@@ -45,10 +45,10 @@ Number of Ratings: 429  (23.09.2022)
 | Win as the Krynn | 0.70% | ~48 |
 | Win as the Manti | 0.70% | ~48 |
 | Win as Xeloxi | 0.70% | ~48 |
+| Win as the Iconians | 0.60% | ~41 |
 | Win as the Iridium | 0.60% | ~41 |
 | Win as the Onyx | 0.60% | ~41 |
 | Diplomatic Victory! | 0.60% | ~41 |
-| Win as the Iconians | 0.50% | ~34 |
 | Iconia Reclaimed! | 0.30% | ~20 |
 | Relic Hoarder | 0.20% | ~14 |
 | Commodity Trader - Level 2 | 0.10% | ~7 |

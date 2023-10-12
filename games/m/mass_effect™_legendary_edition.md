@@ -14,9 +14,9 @@
 | Honorarium of Corporate Service | 67.00% | ~444 |
 | Council Legion of Merit | 61.00% | ~404 |
 | Medal of Exploration II | 59.00% | ~391 |
+| Charismatic | 59.00% | ~391 |
 | Medal of Honor | 58.00% | ~385 |
 | Meritorious Service Medal | 58.00% | ~385 |
-| Charismatic | 58.00% | ~385 |
 | Turian Ally | 57.00% | ~378 |
 | Soldier | 56.00% | ~371 |
 | Principled | 53.00% | ~351 |
@@ -29,9 +29,9 @@
 | Scientist | 46.00% | ~305 |
 | Krogan Ally | 45.00% | ~298 |
 | Sentinel Ally | 44.00% | ~292 |
+| Very Elusive | 43.00% | ~285 |
 | Head Hunter | 43.00% | ~285 |
 | Missing in Action | 42.00% | ~278 |
-| Very Elusive | 42.00% | ~278 |
 | Operative | 42.00% | ~278 |
 | Veteran | 41.00% | ~272 |
 | Scholar | 41.00% | ~272 |
@@ -40,8 +40,8 @@
 | Completionist | 37.00% | ~245 |
 | The Archangel | 37.00% | ~245 |
 | The Convict | 36.00% | ~239 |
+| The Krogan | 36.00% | ~239 |
 | Colony Defense | 35.00% | ~232 |
-| The Krogan | 35.00% | ~232 |
 | Galactic Explorer | 35.00% | ~232 |
 | Archivist | 34.00% | ~225 |
 | Broke, Blind, and Bedlam | 34.00% | ~225 |
@@ -68,11 +68,11 @@
 | Doppelganger | 29.00% | ~192 |
 | Driven | 29.00% | ~192 |
 | Bringer of War | 29.00% | ~192 |
+| Suicide Mission | 28.00% | ~186 |
 | Friend or Foe | 28.00% | ~186 |
 | Mobilizer | 28.00% | ~186 |
 | First Aid Specialist | 27.00% | ~179 |
 | Mission Accomplished | 27.00% | ~179 |
-| Suicide Mission | 27.00% | ~179 |
 | Against All Odds | 27.00% | ~179 |
 | A House Divided | 26.00% | ~172 |
 | Weapon Specialist | 26.00% | ~172 |
@@ -90,11 +90,11 @@
 | No One Left Behind | 20.00% | ~133 |
 | Party Crasher | 20.00% | ~133 |
 | Problem Solver | 20.00% | ~133 |
+| Under Pressure | 19.00% | ~126 |
 | Hard Target | 19.00% | ~126 |
 | Saboteur | 19.00% | ~126 |
 | Fact Finder | 19.00% | ~126 |
 | Pyromaniac | 18.00% | ~119 |
-| Under Pressure | 18.00% | ~119 |
 | Last Resort | 18.00% | ~119 |
 | Electronics Specialist | 18.00% | ~119 |
 | Sabotage Specialist | 18.00% | ~119 |

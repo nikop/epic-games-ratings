@@ -1471,17 +1471,17 @@
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 28
     },
     {
       "ID": "PROGRESS_N2",
       "SetID": "2gma9an",
       "Name": "The great escape",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 25
     },
     {
       "ID": "PROGRESS_N3",
@@ -1495,9 +1495,9 @@
       "ID": "PROGRESS_N4",
       "SetID": "2gma9an",
       "Name": "The darkness",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 14
+      "UsersEstimate": 17
     },
     {
       "ID": "PROGRESS_N5",
@@ -1518,8 +1518,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-12T19:07:21.5475727+00:00",
+  "LastChanged_Achievements": "2023-10-12T20:08:59.0202968+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:05.0979362+00:00",
-  "LastUpdate_Ratings": "2023-10-12T19:00:24.3146376+00:00",
-  "LastUpdate_Achievements": "2023-10-12T19:07:21.5475964+00:00"
+  "LastUpdate_Ratings": "2023-10-12T20:02:02.5131368+00:00",
+  "LastUpdate_Achievements": "2023-10-12T20:08:59.0203259+00:00"
 }

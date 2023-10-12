@@ -4,11 +4,11 @@
   "ProductSlug": "medieval-dynasty",
   "Ranking_Rating": 280,
   "Ranking_Popularity": 407,
-  "Ranking_PopularitySum": 329,
+  "Ranking_PopularitySum": 339,
   "Ranking_EOS_Progress": 668,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 395,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 397,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2020-12-17T16:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -1107,10 +1107,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 389,
       "NumberOfAwardsMax": 53
+    },
+    {
+      "Time": "2023-10-12T20:01:08.1083473+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 341,
+      "NumberOfAwardsMax": 53
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 389,
+  "NumberOfAwards": 341,
   "NumberOfAwardsMax": 53,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1204,8 +1210,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:29.0491506+00:00",
-  "LastChanged": "2023-10-10T21:59:27.6022601+00:00",
+  "LastChanged": "2023-10-12T20:01:08.1083471+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:04.6974446+00:00",
-  "LastUpdate_Ratings": "2023-10-12T18:59:43.3882295+00:00",
-  "LastUpdate_Achievements": "2023-10-12T19:03:52.4817708+00:00"
+  "LastUpdate_Ratings": "2023-10-12T20:01:08.1083479+00:00",
+  "LastUpdate_Achievements": "2023-10-12T20:04:13.8569224+00:00"
 }
