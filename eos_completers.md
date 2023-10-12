@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 51.98% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 51.93% |
 | 3 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 47.17% |
 | 5 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.72% |
@@ -41,15 +41,15 @@
 | 39 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
 | 40 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.05% |
 | 41 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.67% |
-| 42 | [Sonic Origins](games/s/sonic_origins.md) | 7.72% |
-| 43 | [Ravenlok](games/r/ravenlok.md) | 7.70% |
-| 44 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
+| 42 | [Sonic Origins](games/s/sonic_origins.md) | 7.71% |
+| 43 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
+| 43 | [Ravenlok](games/r/ravenlok.md) | 7.69% |
 | 45 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.63% |
 | 46 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.54% |
 | 47 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.41% |
 | 48 | [Time Loader](games/t/time_loader.md) | 7.20% |
 | 49 | [Scorn](games/s/scorn.md) | 7.03% |
-| 50 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.86% |
+| 50 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.81% |
 | 51 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.59% |
 | 52 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.29% |
 | 53 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -71,11 +71,11 @@
 | 69 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.11% |
 | 70 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.06% |
 | 71 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 3.96% |
-| 72 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.88% |
+| 72 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.87% |
 | 73 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.85% |
 | 74 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.84% |
 | 75 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
-| 76 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.61% |
+| 76 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.60% |
 | 77 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
 | 77 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.57% |
 | 79 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
@@ -158,7 +158,7 @@
 | 156 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.72% |
 | 156 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.72% |
 | 158 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.67% |
-| 159 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.65% |
+| 159 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.66% |
 | 160 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.64% |
 | 161 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
 | 162 | [Potion Permit](games/p/potion_permit.md) | 0.62% |
@@ -267,15 +267,15 @@
 | 265 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.06% |
 | 265 | [Operation New Earth](games/o/operation_new_earth.md) | 0.06% |
 | 265 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
-| 265 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.06% |
 | 265 | [Transport Fever 2](games/t/transport_fever_2.md) | 0.06% |
 | 265 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
-| 271 | [Absolute Drift](games/a/absolute_drift.md) | 0.05% |
-| 271 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.05% |
-| 271 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
-| 271 | [High On Life](games/h/high_on_life.md) | 0.05% |
-| 271 | [House Party](games/h/house_party.md) | 0.05% |
-| 271 | [MythForce](games/m/mythforce.md) | 0.05% |
+| 270 | [Absolute Drift](games/a/absolute_drift.md) | 0.05% |
+| 270 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.05% |
+| 270 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
+| 270 | [High On Life](games/h/high_on_life.md) | 0.05% |
+| 270 | [House Party](games/h/house_party.md) | 0.05% |
+| 270 | [MythForce](games/m/mythforce.md) | 0.05% |
+| 270 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.05% |
 | 277 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.04% |
 | 277 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 0.04% |
 | 277 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.04% |
@@ -562,6 +562,7 @@
 | 314 | [Riftbound](games/r/riftbound.md) | 0.00% |
 | 314 | [Rise of Industry](games/r/rise_of_industry.md) | 0.00% |
 | 314 | [Road 96](games/r/road_96.md) | 0.00% |
+| 314 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 0.00% |
 | 314 | [Roboplant](games/r/roboplant.md) | 0.00% |
 | 314 | [Rocco's Island](games/r/rocco's_island.md) | 0.00% |
 | 314 | [Rogue Spirit](games/r/rogue_spirit.md) | 0.00% |
