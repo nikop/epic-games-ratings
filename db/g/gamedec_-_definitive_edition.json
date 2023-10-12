@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 440,
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 79,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -432,9 +432,9 @@
       "Count": 83
     }
   ],
-  "EOS_Progressed": 248832,
+  "EOS_Progressed": 248836,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 762,
+  "EOS_NewPlayers": 760,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19987,6 +19987,11 @@
       "Time": "2023-10-12T17:09:39.7135936+00:00",
       "NumProgressed": 248832,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-12T18:09:37.5701463+00:00",
+      "NumProgressed": 248836,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -19998,7 +20003,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 67185
+      "UsersEstimate": 67186
     },
     {
       "ID": "ACH_AON",
@@ -20062,7 +20067,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 32348
+      "UsersEstimate": 32349
     },
     {
       "ID": "ACH_HATTRICK",
@@ -20142,7 +20147,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 69673
+      "UsersEstimate": 69674
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -20214,7 +20219,7 @@
       "Name": "Write that down",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 59720
+      "UsersEstimate": 59721
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -20270,7 +20275,7 @@
       "Name": "It\u0027s honest work",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 17418
+      "UsersEstimate": 17419
     },
     {
       "ID": "ACH_MEMESMART",
@@ -20318,7 +20323,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 62208
+      "UsersEstimate": 62209
     },
     {
       "ID": "ACH_SOREAD",
@@ -20398,7 +20403,7 @@
       "Name": "Well-deserved reunion",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 746
+      "UsersEstimate": 747
     },
     {
       "ID": "ACH_WHOTROLL",
@@ -20413,7 +20418,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 248832,
+      "Progressed": 248836,
       "Completed": 7
     }
   ],
@@ -20421,8 +20426,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-10-12T12:01:33.1136088+00:00",
-  "LastChanged_Achievements": "2023-10-12T17:09:39.7135929+00:00",
+  "LastChanged_Achievements": "2023-10-12T18:09:37.5701458+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:27.2552472+00:00",
-  "LastUpdate_Ratings": "2023-10-12T17:02:14.6371682+00:00",
-  "LastUpdate_Achievements": "2023-10-12T17:09:39.7137281+00:00"
+  "LastUpdate_Ratings": "2023-10-12T18:02:03.3691843+00:00",
+  "LastUpdate_Achievements": "2023-10-12T18:09:37.5702708+00:00"
 }

@@ -6,7 +6,7 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 61.00% | ~1,835 |
+| You're free now! | 60.00% | ~1,805 |
 | Keeping it classy | 27.00% | ~812 |
 | Welcome to the family | 22.00% | ~662 |
 | The finer things in life | 19.00% | ~572 |
@@ -23,12 +23,12 @@ Number of Ratings: 111  (23.09.2022)
 | Finally he zips it | 7.00% | ~211 |
 | That pinch! | 7.00% | ~211 |
 | Tight lipslides | 7.00% | ~211 |
-| Fulfilled the dream | 6.00% | ~180 |
-| G'Day Mate! | 6.00% | ~180 |
-| NAHELL! | 6.00% | ~180 |
-| Purple passion | 6.00% | ~180 |
-| Squad goals | 6.00% | ~180 |
-| Sup widdit big dog! | 6.00% | ~180 |
+| Fulfilled the dream | 6.00% | ~181 |
+| G'Day Mate! | 6.00% | ~181 |
+| NAHELL! | 6.00% | ~181 |
+| Purple passion | 6.00% | ~181 |
+| Squad goals | 6.00% | ~181 |
+| Sup widdit big dog! | 6.00% | ~181 |
 | Commence the Hijinx! | 5.00% | ~150 |
 | DIY Boss | 5.00% | ~150 |
 | Globetrotter | 5.00% | ~150 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,008 (Ranked 190)  
+Progressed: 3,009 (Ranked 190)  
 Completed: 1 (0.03%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,6 +219,7 @@ Completed: 1 (0.03%) (Ranked 283)
 | 2023-10-08 | 3,005 | 1 |
 | 2023-10-09 | 3,007 | 1 |
 | 2023-10-10 | 3,008 | 1 |
+| 2023-10-12 | 3,009 | 1 |
 ## Awards
 Max (Highly Recommended): 54  (Ranked 405)  
 Sum: 515 (Ranked 306)  

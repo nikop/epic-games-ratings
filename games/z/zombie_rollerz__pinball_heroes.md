@@ -6,28 +6,28 @@ Rating: 4.30 (Ranked 811)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Level Up! | 88.00% | ~150 |
-| Bullseye! | 85.00% | ~144 |
-| Graduation! | 80.00% | ~136 |
-| Villfir Forest | 76.00% | ~129 |
+| Bullseye! | 85.00% | ~145 |
+| Graduation! | 80.00% | ~137 |
+| Villfir Forest | 77.00% | ~132 |
 | Right in the kisser! | 61.00% | ~104 |
-| The Thrower | 49.00% | ~83 |
-| Duscot Steamcity | 48.00% | ~82 |
-| The Shaman | 46.00% | ~78 |
-| The Penguin | 45.00% | ~76 |
-| The Magician | 42.00% | ~71 |
-| The Tunneler | 39.00% | ~66 |
-| Level Up!! | 38.00% | ~65 |
-| The Shield | 36.00% | ~61 |
-| Kill-streak | 29.00% | ~49 |
+| The Thrower | 49.00% | ~84 |
+| Duscot Steamcity | 47.00% | ~80 |
+| The Shaman | 46.00% | ~79 |
+| The Penguin | 45.00% | ~77 |
+| The Magician | 42.00% | ~72 |
+| The Tunneler | 39.00% | ~67 |
+| Level Up!! | 37.00% | ~63 |
+| The Shield | 37.00% | ~63 |
+| Kill-streak | 29.00% | ~50 |
 | Topped up | 28.00% | ~48 |
 | The Bird | 28.00% | ~48 |
 | The Idol | 26.00% | ~44 |
 | The Ninja | 26.00% | ~44 |
-| Inferno Ruins | 25.00% | ~42 |
-| I'm Rich | 24.00% | ~41 |
-| 1 is all I need | 22.00% | ~37 |
-| The Slime | 22.00% | ~37 |
-| Untouchable | 21.00% | ~36 |
+| Inferno Ruins | 25.00% | ~43 |
+| I'm Rich | 23.00% | ~39 |
+| 1 is all I need | 22.00% | ~38 |
+| The Slime | 22.00% | ~38 |
+| Untouchable | 20.00% | ~34 |
 | The Giant | 18.00% | ~31 |
 | The Blacksmith | 17.00% | ~29 |
 | The Flower | 17.00% | ~29 |
@@ -36,7 +36,7 @@ Rating: 4.30 (Ranked 811)
 | The Ooze | 16.00% | ~27 |
 | The Assistant | 15.00% | ~26 |
 | Turquoise | 15.00% | ~26 |
-| The Steampunk | 14.00% | ~24 |
+| The Steampunk | 13.00% | ~22 |
 | The Droid | 11.00% | ~19 |
 | Verse | 11.00% | ~19 |
 | Iron | 10.00% | ~17 |
@@ -46,9 +46,9 @@ Rating: 4.30 (Ranked 811)
 | Power Overwhelming | 6.00% | ~10 |
 | The Astronaut | 6.00% | ~10 |
 | Mithril | 6.00% | ~10 |
-| The Exorcist | 5.00% | ~8 |
-| Aluminum | 5.00% | ~8 |
-| Anvil | 5.00% | ~8 |
+| The Exorcist | 5.00% | ~9 |
+| Aluminum | 5.00% | ~9 |
+| Anvil | 5.00% | ~9 |
 | Analyzed | 4.00% | ~7 |
 | Tongs | 4.00% | ~7 |
 | It's a Trap! | 3.00% | ~5 |
@@ -79,8 +79,8 @@ Rating: 4.30 (Ranked 811)
 | Divinity | 0.60% | ~1 |
 | Zombie Exterminator | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 170 (Ranked 350)  
-Completed: 1 (0.59%) (Ranked 165)  
+Progressed: 171 (Ranked 350)  
+Completed: 1 (0.58%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -164,6 +164,7 @@ Completed: 1 (0.59%) (Ranked 165)
 | 2023-10-07 | 168 | 1 |
 | 2023-10-08 | 169 | 1 |
 | 2023-10-09 | 170 | 1 |
+| 2023-10-12 | 171 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

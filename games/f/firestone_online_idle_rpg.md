@@ -81,7 +81,7 @@ Rating: 4.06 (Ranked 946)
 | War Machines Army | 0.20% | ~4 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,018 (Ranked 202)  
+Progressed: 2,018 (Ranked 203)  
 Completed: 2 (0.10%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,12 +254,12 @@ Completed: 2 (0.10%) (Ranked 247)
 | 2023-10-11 | 2,016 | 2 |
 | 2023-10-12 | 2,018 | 2 |
 ## Awards
-Max (Great for Beginners): 26  (Ranked 495)  
-Sum: 70 (Ranked 452)  
-Diff (max vs sum): 43  
+Max (Great for Beginners): 27  (Ranked 488)  
+Sum: 71 (Ranked 451)  
+Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 26 |
+| This game is Great for Beginners | 27 |
 | This game is Great for Quick Sessions | 23 |
 | This game has Diverse Characters | 21 |
 ## Ratings History
@@ -310,3 +310,4 @@ Diff (max vs sum): 43
 | 2023-10-06 | 4.06 | 25 | 67 |
 | 2023-10-10 | 4.06 | 26 | 68 |
 | 2023-10-11 | 4.06 | 26 | 70 |
+| 2023-10-12 | 4.06 | 27 | 71 |

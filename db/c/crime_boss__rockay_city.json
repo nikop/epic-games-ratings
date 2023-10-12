@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -3984,9 +3984,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 89007,
+  "EOS_Progressed": 89009,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 223,
+  "EOS_NewPlayers": 224,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -21949,6 +21949,11 @@
       "Time": "2023-10-12T16:06:57.2129185+00:00",
       "NumProgressed": 89007,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-10-12T18:07:20.8051365+00:00",
+      "NumProgressed": 89009,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 41,
@@ -22046,9 +22051,9 @@
       "ID": "ACH_0050",
       "SetID": "3kam13l",
       "Name": "Foo Finder",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 178
+      "UsersEstimate": 267
     },
     {
       "ID": "ACH_0060",
@@ -22287,13 +22292,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 89007,
+      "Progressed": 89009,
       "Completed": 48
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 17354,
+      "Progressed": 17356,
       "Completed": 15545
     }
   ],
@@ -22301,8 +22306,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-10-11T18:57:58.8397663+00:00",
-  "LastChanged_Achievements": "2023-10-12T17:07:40.5017294+00:00",
+  "LastChanged_Achievements": "2023-10-12T18:07:20.8051361+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:16.9897613+00:00",
-  "LastUpdate_Ratings": "2023-10-12T16:58:19.1948255+00:00",
-  "LastUpdate_Achievements": "2023-10-12T17:07:40.5018453+00:00"
+  "LastUpdate_Ratings": "2023-10-12T17:58:08.7327071+00:00",
+  "LastUpdate_Achievements": "2023-10-12T18:07:20.8052453+00:00"
 }

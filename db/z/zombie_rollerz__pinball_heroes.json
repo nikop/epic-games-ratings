@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 532,
   "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 289,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
     "PcReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -36,11 +36,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 170,
+  "EOS_Progressed": 171,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.59,
+  "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:48.5975235+00:00",
@@ -641,6 +641,11 @@
       "Time": "2023-10-09T20:06:28.4343991+00:00",
       "NumProgressed": 170,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-12T18:07:55.6594966+00:00",
+      "NumProgressed": 171,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 73,
@@ -650,9 +655,9 @@
       "ID": "CLG_CHAPTER_NODAMAGE",
       "SetID": "89cjc9l",
       "Name": "Untouchable",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 34
     },
     {
       "ID": "CLG_CHAPTER_NODROPBALL",
@@ -660,7 +665,7 @@
       "Name": "1 is all I need",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "CLG_LEVEL_BALLISTASHOT",
@@ -676,7 +681,7 @@
       "Name": "Bullseye!",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "CLG_LEVEL_COMBO",
@@ -692,7 +697,7 @@
       "Name": "Kill-streak",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "CLG_RUN_LEVELUP_1",
@@ -706,9 +711,9 @@
       "ID": "CLG_RUN_LEVELUP_2",
       "SetID": "89cjc9l",
       "Name": "Level Up!!",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 63
     },
     {
       "ID": "CLG_SKILL_LEVEL5_1",
@@ -732,7 +737,7 @@
       "Name": "The Penguin",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "CLG_UNLOCK_10003",
@@ -772,7 +777,7 @@
       "Name": "The Exorcist",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "CLG_UNLOCK_10008",
@@ -786,9 +791,9 @@
       "ID": "CLG_UNLOCK_10009",
       "SetID": "89cjc9l",
       "Name": "The Steampunk",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 22
     },
     {
       "ID": "CLG_UNLOCK_10010",
@@ -826,9 +831,9 @@
       "ID": "PRG_ACCUM_GOLD",
       "SetID": "89cjc9l",
       "Name": "I\u0027m Rich",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 39
     },
     {
       "ID": "PRG_BOSS_BIRD",
@@ -860,7 +865,7 @@
       "Name": "The Shaman",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "PRG_BOSS_MAGICIAN",
@@ -868,7 +873,7 @@
       "Name": "The Magician",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "PRG_BOSS_NINJA",
@@ -890,9 +895,9 @@
       "ID": "PRG_BOSS_SHIELD",
       "SetID": "89cjc9l",
       "Name": "The Shield",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 63
     },
     {
       "ID": "PRG_BOSS_SLIME",
@@ -900,7 +905,7 @@
       "Name": "The Slime",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "PRG_BOSS_THROWER",
@@ -908,7 +913,7 @@
       "Name": "The Thrower",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "PRG_BOSS_TUNNELER",
@@ -916,23 +921,23 @@
       "Name": "The Tunneler",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "PRG_CHAPTER_1",
       "SetID": "89cjc9l",
       "Name": "Villfir Forest",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 132
     },
     {
       "ID": "PRG_CHAPTER_2",
       "SetID": "89cjc9l",
       "Name": "Duscot Steamcity",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 80
     },
     {
       "ID": "PRG_CHAPTER_3",
@@ -940,7 +945,7 @@
       "Name": "Inferno Ruins",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "PRG_HARD_10001",
@@ -1196,7 +1201,7 @@
       "Name": "Aluminum",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "PRG_NORMAL_10009",
@@ -1204,7 +1209,7 @@
       "Name": "Anvil",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "PRG_NORMAL_10010",
@@ -1228,14 +1233,14 @@
       "Name": "Graduation!",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     }
   ],
   "AchievementSets": [
     {
       "ID": "89cjc9l",
       "IsBase": true,
-      "Progressed": 170,
+      "Progressed": 171,
       "Completed": 1
     }
   ],
@@ -1243,8 +1248,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-08-23T10:59:34.2635846+00:00",
-  "LastChanged_Achievements": "2023-10-12T17:08:16.2557398+00:00",
+  "LastChanged_Achievements": "2023-10-12T18:07:55.6594962+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:08.7022117+00:00",
-  "LastUpdate_Ratings": "2023-10-12T16:58:30.1944683+00:00",
-  "LastUpdate_Achievements": "2023-10-12T17:08:16.2558047+00:00"
+  "LastUpdate_Ratings": "2023-10-12T17:58:19.8404367+00:00",
+  "LastUpdate_Achievements": "2023-10-12T18:07:55.6595601+00:00"
 }

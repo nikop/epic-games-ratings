@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 283,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1833,9 +1833,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14615,
+  "EOS_Progressed": 14617,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 246,
+  "EOS_NewPlayers": 247,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13658,6 +13658,11 @@
       "Time": "2023-10-12T17:07:27.3352087+00:00",
       "NumProgressed": 14615,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-12T18:07:08.1535834+00:00",
+      "NumProgressed": 14617,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -14211,9 +14216,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_MAGNIFICENT",
       "SetID": "7l38kb8",
       "Name": "Magnificent",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 117
+      "UsersEstimate": 132
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MASON",
@@ -14499,9 +14504,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_ARTISANS",
       "SetID": "7l38kb8",
       "Name": "Artisans",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 88
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_CHAMPIONS",
@@ -14587,9 +14592,9 @@
       "ID": "ACHIEVEMENT_FAMILY_FURIOUS",
       "SetID": "9201eeb",
       "Name": "Furious Family",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 117
     },
     {
       "ID": "ACHIEVEMENT_FERTILE_CRESCENT",
@@ -15195,9 +15200,9 @@
       "ID": "ACHIEVEMENT_LEARNTOPLAY_2",
       "SetID": "7l38kb8",
       "Name": "Learn to Play 2",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 88
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_3",
@@ -16404,21 +16409,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14615,
+      "Progressed": 14617,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14615,
+      "Progressed": 14617,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-12T09:03:11.7935292+00:00",
-  "LastChanged_Achievements": "2023-10-12T17:07:27.335208+00:00",
+  "LastChanged_Achievements": "2023-10-12T18:07:08.1535829+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:48.3987129+00:00",
-  "LastUpdate_Ratings": "2023-10-12T17:03:12.6727324+00:00",
-  "LastUpdate_Achievements": "2023-10-12T17:07:27.336275+00:00"
+  "LastUpdate_Ratings": "2023-10-12T18:03:12.1882157+00:00",
+  "LastUpdate_Achievements": "2023-10-12T18:07:08.1545848+00:00"
 }

@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 12772,
+  "EOS_Progressed": 12778,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 2251,
+  "EOS_NewPlayers": 2246,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -2625,6 +2625,11 @@
       "Time": "2023-10-12T17:06:54.9561586+00:00",
       "NumProgressed": 12772,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-10-12T18:06:36.2848155+00:00",
+      "NumProgressed": 12778,
+      "NumCompleted": 54
     }
   ],
   "AchievementsAdded": "2023-09-20T21:06:26.7864758+00:00",
@@ -2637,7 +2642,7 @@
       "Name": "It Took Two",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 5109
+      "UsersEstimate": 5111
     },
     {
       "ID": "achievement_10",
@@ -2661,7 +2666,7 @@
       "Name": "On Rails Experience",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 7152
+      "UsersEstimate": 7156
     },
     {
       "ID": "achievement_13",
@@ -2669,7 +2674,7 @@
       "Name": "Platforming Prodigy",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1149
+      "UsersEstimate": 1150
     },
     {
       "ID": "achievement_14",
@@ -2685,7 +2690,7 @@
       "Name": "Lost And Found",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1277
+      "UsersEstimate": 1278
     },
     {
       "ID": "achievement_16",
@@ -2701,7 +2706,7 @@
       "Name": "Something Fishy",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1277
+      "UsersEstimate": 1278
     },
     {
       "ID": "achievement_18",
@@ -2709,7 +2714,7 @@
       "Name": "Terror Of The Seven Seas",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1916
+      "UsersEstimate": 1917
     },
     {
       "ID": "achievement_19",
@@ -2717,7 +2722,7 @@
       "Name": "Bug Sized Relaxation",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 2554
+      "UsersEstimate": 2556
     },
     {
       "ID": "achievement_2",
@@ -2733,7 +2738,7 @@
       "Name": "Meditation Maestro",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 1405
+      "UsersEstimate": 1406
     },
     {
       "ID": "achievement_3",
@@ -2741,7 +2746,7 @@
       "Name": "Fried Friendship",
       "Percentage": 87,
       "XP": 50,
-      "UsersEstimate": 11112
+      "UsersEstimate": 11117
     },
     {
       "ID": "achievement_4",
@@ -2749,7 +2754,7 @@
       "Name": "Struck A Pose",
       "Percentage": 88,
       "XP": 50,
-      "UsersEstimate": 11239
+      "UsersEstimate": 11245
     },
     {
       "ID": "achievement_5",
@@ -2757,7 +2762,7 @@
       "Name": "Plastic Prison Breakers",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 2171
+      "UsersEstimate": 2172
     },
     {
       "ID": "achievement_6",
@@ -2773,7 +2778,7 @@
       "Name": "Look At Him Go",
       "Percentage": 78,
       "XP": 50,
-      "UsersEstimate": 9962
+      "UsersEstimate": 9967
     },
     {
       "ID": "achievement_8",
@@ -2781,7 +2786,7 @@
       "Name": "Break the Bank",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 5364
+      "UsersEstimate": 5367
     },
     {
       "ID": "achievement_9",
@@ -2789,20 +2794,20 @@
       "Name": "A Daring Devil",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 6514
+      "UsersEstimate": 6517
     }
   ],
   "AchievementSets": [
     {
       "ID": "2bk7oji",
       "IsBase": true,
-      "Progressed": 12772,
+      "Progressed": 12778,
       "Completed": 54
     }
   ],
   "FirstSeenAchievements": "2023-07-27T23:04:38.3880568+00:00",
-  "LastChanged_Achievements": "2023-10-12T17:06:54.956158+00:00",
+  "LastChanged_Achievements": "2023-10-12T18:06:36.2848149+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:28.0662391+00:00",
-  "LastUpdate_Ratings": "2023-10-12T16:59:05.5926224+00:00",
-  "LastUpdate_Achievements": "2023-10-12T17:06:54.9561867+00:00"
+  "LastUpdate_Ratings": "2023-10-12T17:58:52.1933453+00:00",
+  "LastUpdate_Achievements": "2023-10-12T18:06:36.2848383+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 357,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 60,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1060,9 +1060,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 151598,
+  "EOS_Progressed": 151616,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1197,
+  "EOS_NewPlayers": 1200,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11300,6 +11300,11 @@
       "Time": "2023-10-12T17:08:38.8014844+00:00",
       "NumProgressed": 151598,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-12T18:08:17.6529254+00:00",
+      "NumProgressed": 151616,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -11359,7 +11364,7 @@
       "Name": "The Hunt",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1364
+      "UsersEstimate": 1365
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -11678,21 +11683,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 151181,
+      "Progressed": 151199,
       "Completed": 1154
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 151598,
+      "Progressed": 151616,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-12T16:59:41.5193052+00:00",
-  "LastChanged_Achievements": "2023-10-12T17:08:38.8014838+00:00",
+  "LastChanged_Achievements": "2023-10-12T18:08:17.6529247+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:46.4911319+00:00",
-  "LastUpdate_Ratings": "2023-10-12T16:59:41.5193056+00:00",
-  "LastUpdate_Achievements": "2023-10-12T17:08:38.8015663+00:00"
+  "LastUpdate_Ratings": "2023-10-12T17:59:25.9583018+00:00",
+  "LastUpdate_Achievements": "2023-10-12T18:08:17.6530039+00:00"
 }

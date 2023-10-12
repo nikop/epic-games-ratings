@@ -7,11 +7,11 @@ Number of Ratings: 368  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tattletale | 40.00% | ~6,278 |
-| Man of politics | 35.00% | ~5,493 |
-| Friends of sorts | 33.00% | ~5,179 |
-| Yet another secret | 33.00% | ~5,179 |
-| Let there be darkness | 32.00% | ~5,022 |
-| End of Book One | 30.00% | ~4,708 |
+| Man of politics | 35.00% | ~5,494 |
+| Friends of sorts | 33.00% | ~5,180 |
+| Yet another secret | 33.00% | ~5,180 |
+| Let there be darkness | 32.00% | ~5,023 |
+| End of Book One | 30.00% | ~4,709 |
 | Garden of Eden | 24.00% | ~3,767 |
 | Full house | 24.00% | ~3,767 |
 | Wannabe knight | 23.00% | ~3,610 |
@@ -24,10 +24,10 @@ Number of Ratings: 368  (23.09.2022)
 | Twist of Fate | 14.00% | ~2,197 |
 | Jack was here! | 14.00% | ~2,197 |
 | Exterminator | 13.00% | ~2,040 |
-| Whodunnit | 12.00% | ~1,883 |
-| Good midwife | 11.00% | ~1,726 |
-| Friar Tuck | 11.00% | ~1,726 |
-| First profit | 11.00% | ~1,726 |
+| Whodunnit | 12.00% | ~1,884 |
+| Good midwife | 11.00% | ~1,727 |
+| Friar Tuck | 11.00% | ~1,727 |
+| First profit | 11.00% | ~1,727 |
 | Team player | 10.00% | ~1,570 |
 | Skilled merchant | 9.00% | ~1,413 |
 | Nothing but make-believe | 9.00% | ~1,413 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~471 |
 | Boy of mystery | 2.00% | ~314 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,695 (Ranked 133)  
+Progressed: 15,696 (Ranked 133)  
 Completed: 113 (0.72%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 113 (0.72%) (Ranked 156)
 | 2023-10-09 | 15,653 | 113 |
 | 2023-10-10 | 15,670 | 113 |
 | 2023-10-11 | 15,686 | 113 |
-| 2023-10-12 | 15,695 | 113 |
+| 2023-10-12 | 15,696 | 113 |
 ## Awards
 Max (Easy Puzzles): 151  (Ranked 307)  
 Sum: 193 (Ranked 389)  

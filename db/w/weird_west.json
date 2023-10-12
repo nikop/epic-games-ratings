@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 289,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -349,9 +349,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1849,
+  "EOS_Progressed": 1850,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -2079,6 +2079,11 @@
       "Time": "2023-10-12T12:06:45.112094+00:00",
       "NumProgressed": 1849,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-12T18:06:54.480781+00:00",
+      "NumProgressed": 1850,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -2090,7 +2095,7 @@
       "Name": "Chain Reaction",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "ACH_DEAD_OR_ALIVE",
@@ -2098,7 +2103,7 @@
       "Name": "Dead or Alive",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 1035
+      "UsersEstimate": 1036
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -2178,7 +2183,7 @@
       "Name": "Getting the Gang Back Together",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACH_GHOST_TOWN",
@@ -2186,7 +2191,7 @@
       "Name": "Ghost Town",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ACH_GOLD_DIGGER",
@@ -2242,7 +2247,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -2258,7 +2263,7 @@
       "Name": "Lord Inut Sends His Regards",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ACH_LOYALTY_TO_THE_PACK",
@@ -2298,7 +2303,7 @@
       "Name": "Moondrunk",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ACH_MOON_HUNTER",
@@ -2338,7 +2343,7 @@
       "Name": "Perky",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 1220
+      "UsersEstimate": 1221
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -2386,7 +2391,7 @@
       "Name": "Self-Improvement",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1331
+      "UsersEstimate": 1332
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -2402,7 +2407,7 @@
       "Name": "That\u2019s All, Folks",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "ACH_THERE_IS_HOPE",
@@ -2466,7 +2471,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1627
+      "UsersEstimate": 1628
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -2513,15 +2518,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1849,
+      "Progressed": 1850,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-09-26T20:04:09.1562051+00:00",
-  "LastChanged_Achievements": "2023-10-12T17:07:13.5604631+00:00",
+  "LastChanged_Achievements": "2023-10-12T18:06:54.4807805+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:48.6052091+00:00",
-  "LastUpdate_Ratings": "2023-10-12T17:03:14.0820144+00:00",
-  "LastUpdate_Achievements": "2023-10-12T17:07:13.5605061+00:00"
+  "LastUpdate_Ratings": "2023-10-12T18:03:13.3272124+00:00",
+  "LastUpdate_Achievements": "2023-10-12T18:06:54.4808254+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 464,
   "Ranking_EOS_Completed": 91,
   "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -415,9 +415,9 @@
       "ID": "Win1OnlineMatched",
       "SetID": "52ail55",
       "Name": "Bloodied Hammer",
-      "Percentage": 38,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Win50ConquestBattles",
@@ -445,8 +445,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-10-12T17:07:00.7493219+00:00",
+  "LastChanged_Achievements": "2023-10-12T18:06:41.8744348+00:00",
   "LastUpdate_AppInfo": "2023-10-06T03:57:12.3370257+00:00",
-  "LastUpdate_Ratings": "2023-10-12T16:59:58.5986005+00:00",
-  "LastUpdate_Achievements": "2023-10-12T17:07:00.7493446+00:00"
+  "LastUpdate_Ratings": "2023-10-12T17:59:41.8357626+00:00",
+  "LastUpdate_Achievements": "2023-10-12T18:06:41.8744574+00:00"
 }

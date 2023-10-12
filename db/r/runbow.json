@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 532,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 250271,
+  "EOS_Progressed": 250273,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 279,
+  "EOS_NewPlayers": 280,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16364,6 +16364,11 @@
       "Time": "2023-10-12T17:08:08.920396+00:00",
       "NumProgressed": 250271,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-12T18:07:48.8589745+00:00",
+      "NumProgressed": 250273,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -16479,7 +16484,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 50054
+      "UsersEstimate": 50055
     },
     {
       "ID": "didYourTime",
@@ -16551,7 +16556,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 132644
+      "UsersEstimate": 132645
     },
     {
       "ID": "indegestible",
@@ -16575,7 +16580,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 65070
+      "UsersEstimate": 65071
     },
     {
       "ID": "justABit",
@@ -16605,9 +16610,9 @@
       "ID": "muddyWaters",
       "SetID": "d7im63i",
       "Name": "Muddy Waters",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 35038
+      "UsersEstimate": 37541
     },
     {
       "ID": "myFirstRunbow",
@@ -16735,14 +16740,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 40043
+      "UsersEstimate": 40044
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 250271,
+      "Progressed": 250273,
       "Completed": 6
     }
   ],
@@ -16750,8 +16755,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-10-12T17:08:08.9203955+00:00",
+  "LastChanged_Achievements": "2023-10-12T18:07:48.858974+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:40.5346177+00:00",
-  "LastUpdate_Ratings": "2023-10-12T16:57:25.4205101+00:00",
-  "LastUpdate_Achievements": "2023-10-12T17:08:08.9205083+00:00"
+  "LastUpdate_Ratings": "2023-10-12T17:57:19.4164627+00:00",
+  "LastUpdate_Achievements": "2023-10-12T18:07:48.8590771+00:00"
 }

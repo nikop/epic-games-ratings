@@ -6,67 +6,67 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 2.00% | ~18,687 |
-| Handyman | 1.00% | ~9,344 |
-| Zealous | 1.00% | ~9,344 |
-| Not half bad | 1.00% | ~9,344 |
-| Apt Survivor | 1.00% | ~9,344 |
-| Survival Treasures | 1.00% | ~9,344 |
-| Skillful | 1.00% | ~9,344 |
-| Make Some Noise | 1.00% | ~9,344 |
-| Medic | 0.90% | ~8,409 |
-| Sorted | 0.90% | ~8,409 |
-| Resurgence | 0.90% | ~8,409 |
-| The Grand Sacrifice | 0.80% | ~7,475 |
-| No one left behind | 0.80% | ~7,475 |
-| Bloody Millionaire | 0.80% | ~7,475 |
-| I | 0.80% | ~7,475 |
-| Healthy Obsession | 0.80% | ~7,475 |
-| Preemptive Strike | 0.80% | ~7,475 |
+| It wakes | 2.00% | ~18,689 |
+| Handyman | 1.00% | ~9,345 |
+| Zealous | 1.00% | ~9,345 |
+| Not half bad | 1.00% | ~9,345 |
+| Apt Survivor | 1.00% | ~9,345 |
+| Survival Treasures | 1.00% | ~9,345 |
+| Skillful | 1.00% | ~9,345 |
+| Make Some Noise | 1.00% | ~9,345 |
+| Medic | 0.90% | ~8,410 |
+| Sorted | 0.90% | ~8,410 |
+| Resurgence | 0.90% | ~8,410 |
+| The Grand Sacrifice | 0.80% | ~7,476 |
+| No one left behind | 0.80% | ~7,476 |
+| Bloody Millionaire | 0.80% | ~7,476 |
+| I | 0.80% | ~7,476 |
+| Healthy Obsession | 0.80% | ~7,476 |
+| Preemptive Strike | 0.80% | ~7,476 |
 | Agonizing Escape | 0.70% | ~6,541 |
 | Backdoor Escape | 0.70% | ~6,541 |
 | Nerves of steel | 0.70% | ~6,541 |
 | Perfect Escape | 0.70% | ~6,541 |
 | Engineer | 0.70% | ~6,541 |
 | Humanitarian | 0.70% | ~6,541 |
-| I've got your back | 0.60% | ~5,606 |
-| Perfect Killing | 0.60% | ~5,606 |
-| Risk it all | 0.60% | ~5,606 |
-| II | 0.60% | ~5,606 |
-| Wounded Healer | 0.60% | ~5,606 |
-| Close Shave | 0.60% | ~5,606 |
-| Apt Killer | 0.50% | ~4,672 |
+| I've got your back | 0.60% | ~5,607 |
+| Perfect Killing | 0.60% | ~5,607 |
+| Apt Killer | 0.60% | ~5,607 |
+| Risk it all | 0.60% | ~5,607 |
+| II | 0.60% | ~5,607 |
+| Wounded Healer | 0.60% | ~5,607 |
+| Close Shave | 0.60% | ~5,607 |
 | Vulture | 0.50% | ~4,672 |
 | III | 0.50% | ~4,672 |
 | With Scars to Show | 0.50% | ~4,672 |
 | Second Act | 0.50% | ~4,672 |
-| Blood on your hands | 0.40% | ~3,737 |
-| Escape Artist | 0.40% | ~3,737 |
-| Made it out alive! | 0.40% | ~3,737 |
-| Item of Obsession | 0.40% | ~3,737 |
-| Holiday Get-Together | 0.40% | ~3,737 |
-| Near-Death Experience | 0.40% | ~3,737 |
-| Cherish your Life | 0.40% | ~3,737 |
-| Unforgettable Getaway | 0.40% | ~3,737 |
-| First to the Punch | 0.40% | ~3,737 |
-| Operation: Survival | 0.40% | ~3,737 |
-| Old West Oasis | 0.40% | ~3,737 |
-| Classy Act | 0.40% | ~3,737 |
-| Every Last Drop | 0.40% | ~3,737 |
-| Raccoon City Recruit | 0.40% | ~3,737 |
-| Flight to Freedom | 0.40% | ~3,737 |
-| A Fast Death | 0.40% | ~3,737 |
-| Rebuilding The Borgo | 0.40% | ~3,737 |
-| Lifting The Fog | 0.40% | ~3,737 |
-| Chorus of Chaos | 0.40% | ~3,737 |
-| One More Step | 0.40% | ~3,737 |
+| Blood on your hands | 0.40% | ~3,738 |
+| Escape Artist | 0.40% | ~3,738 |
+| Made it out alive! | 0.40% | ~3,738 |
+| All Aboard | 0.40% | ~3,738 |
+| Item of Obsession | 0.40% | ~3,738 |
+| Holiday Get-Together | 0.40% | ~3,738 |
+| Near-Death Experience | 0.40% | ~3,738 |
+| Cherish your Life | 0.40% | ~3,738 |
+| Unforgettable Getaway | 0.40% | ~3,738 |
+| First to the Punch | 0.40% | ~3,738 |
+| Operation: Survival | 0.40% | ~3,738 |
+| Old West Oasis | 0.40% | ~3,738 |
+| Classy Act | 0.40% | ~3,738 |
+| Every Last Drop | 0.40% | ~3,738 |
+| Raccoon City Recruit | 0.40% | ~3,738 |
+| Flight to Freedom | 0.40% | ~3,738 |
+| A Fast Death | 0.40% | ~3,738 |
+| Rebuilding The Borgo | 0.40% | ~3,738 |
+| Lifting The Fog | 0.40% | ~3,738 |
+| Chorus of Chaos | 0.40% | ~3,738 |
+| One More Step | 0.40% | ~3,738 |
 | A bite for the Entity | 0.30% | ~2,803 |
 | Blood on your face | 0.30% | ~2,803 |
 | Gifts for the Fog | 0.30% | ~2,803 |
 | III-50 | 0.30% | ~2,803 |
 | Hemophobia | 0.30% | ~2,803 |
 | Shock Therapy | 0.30% | ~2,803 |
-| All Aboard | 0.30% | ~2,803 |
 | Leapfrog | 0.30% | ~2,803 |
 | House of Pain | 0.30% | ~2,803 |
 | Cottage Owner | 0.30% | ~2,803 |
@@ -79,6 +79,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outrun Evil | 0.30% | ~2,803 |
 | Grim Pilgrimage | 0.30% | ~2,803 |
 | Selfless Survival | 0.30% | ~2,803 |
+| End of Days | 0.30% | ~2,803 |
 | Outrun the Overlap | 0.30% | ~2,803 |
 | Extraterrestrial | 0.30% | ~2,803 |
 | MU/TH/UR Dearest | 0.30% | ~2,803 |
@@ -94,7 +95,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Shrine Apparatus | 0.20% | ~1,869 |
 | Broken Bodies | 0.20% | ~1,869 |
 | I See You | 0.20% | ~1,869 |
-| End of Days | 0.20% | ~1,869 |
 | Insult and Injury | 0.20% | ~1,869 |
 | Prowler | 0.20% | ~1,869 |
 | Triage | 0.20% | ~1,869 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~934 |
 | Adept Ripley | 0.10% | ~934 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 934,368 (Ranked 14)  
+Progressed: 934,471 (Ranked 14)  
 Completed: 50 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -411,22 +411,22 @@ Completed: 50 (0.01%) (Ranked 296)
 | 2023-10-09 | 929,902 | 49 |
 | 2023-10-10 | 931,511 | 49 |
 | 2023-10-11 | 933,163 | 49 |
-| 2023-10-12 | 934,368 | 50 |
+| 2023-10-12 | 934,471 | 50 |
 ## Awards
 Max (Diverse Characters): 33,781  (Ranked 15)  
-Sum: 261,543 (Ranked 13)  
+Sum: 261,642 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 33,781 |
 | This game is Highly Recommended | 29,881 |
 | This game has Competitive Players | 29,561 |
-| This game has Amazing Characters | 29,521 |
-| This game is Extremely Fun | 29,182 |
+| This game has Amazing Characters | 29,558 |
+| This game is Extremely Fun | 29,214 |
 | This game has Challenging Combat | 28,793 |
 | This game has Quickly Understood Controls | 28,704 |
 | This game has Amazing Storytelling | 26,811 |
-| This game has a Competitive Community | 25,309 |
+| This game has a Competitive Community | 25,339 |
 | This game has Obsessive Gameplay | 16,768 |
 | This game is Great for Quick Sessions | 4,888 |
 ## Ratings History
@@ -693,4 +693,4 @@ Diff (max vs sum): 2
 | 2023-10-09 | 4.52 | - | 33,640 | 260,754 |
 | 2023-10-10 | 4.51 | - | 33,667 | 261,003 |
 | 2023-10-11 | 4.51 | - | 33,734 | 261,382 |
-| 2023-10-12 | 4.51 | - | 33,781 | 261,543 |
+| 2023-10-12 | 4.51 | - | 33,781 | 261,642 |

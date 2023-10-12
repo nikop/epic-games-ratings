@@ -4,8 +4,8 @@
   "ProductSlug": "airport-ceo-442ecc",
   "Ranking_EOS_Progress": 464,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 308,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-09-01T10:00:00+00:00",
     "PcReleaseDate": "2021-03-04T18:00:00+00:00",
@@ -246,9 +246,9 @@
       "ID": "DoABarrelRoll",
       "SetID": "d11cl5p",
       "Name": "Do a barrel roll!",
-      "Percentage": 9,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "FiveThousand",
@@ -485,8 +485,8 @@
   ],
   "FirstSeen": "2023-09-02T13:02:28.4911547+00:00",
   "FirstSeenAchievements": "2023-07-27T10:02:52.8790419+00:00",
-  "LastChanged_Achievements": "2023-10-12T17:09:03.3062268+00:00",
+  "LastChanged_Achievements": "2023-10-12T18:08:41.8565987+00:00",
   "LastUpdate_AppInfo": "2023-10-11T15:57:05.906412+00:00",
-  "LastUpdate_Ratings": "2023-10-12T16:58:59.1938459+00:00",
-  "LastUpdate_Achievements": "2023-10-12T17:09:03.3062532+00:00"
+  "LastUpdate_Ratings": "2023-10-12T17:58:46.7899416+00:00",
+  "LastUpdate_Achievements": "2023-10-12T18:08:41.8566186+00:00"
 }

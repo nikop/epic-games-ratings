@@ -59,12 +59,12 @@ Number of Ratings: 524  (23.09.2022)
 | Cardboard Companions | 0.60% | ~187 |
 | Fast and Furious | 0.50% | ~156 |
 | License Revoked | 0.50% | ~156 |
+| Whirlwind | 0.50% | ~156 |
 | Creative Space | 0.50% | ~156 |
 | Alan, Wake Up | 0.40% | ~271 |
 | Meet the Deadline | 0.40% | ~271 |
 | Picking Up After Yourself | 0.40% | ~271 |
 | Run-On Sentence | 0.40% | ~125 |
-| Whirlwind | 0.40% | ~125 |
 | Bright Falls Aficionado | 0.30% | ~203 |
 | Tick Tock | 0.30% | ~93 |
 | Gunless Wonder | 0.20% | ~135 |
