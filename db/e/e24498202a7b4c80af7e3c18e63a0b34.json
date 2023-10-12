@@ -76,9 +76,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5985,
+  "EOS_Progressed": 5986,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 371,
+  "EOS_NewPlayers": 370,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -3131,6 +3131,11 @@
       "Time": "2023-10-12T06:05:07.8848693+00:00",
       "NumProgressed": 5985,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-10-12T08:05:14.168939+00:00",
+      "NumProgressed": 5986,
+      "NumCompleted": 25
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -3143,7 +3148,7 @@
       "Name": "First of Many",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 5087
+      "UsersEstimate": 5088
     },
     {
       "ID": "achievement_01_02",
@@ -3151,7 +3156,7 @@
       "Name": "Tournament Star",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1018
     },
     {
       "ID": "achievement_01_03",
@@ -3167,7 +3172,7 @@
       "Name": "Bzzzt",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 4249
+      "UsersEstimate": 4250
     },
     {
       "ID": "achievement_01_05",
@@ -3175,7 +3180,7 @@
       "Name": "Automotive Stylist",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 2693
+      "UsersEstimate": 2694
     },
     {
       "ID": "achievement_01_06",
@@ -3183,7 +3188,7 @@
       "Name": "Mr Wheeler",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 3411
+      "UsersEstimate": 3412
     },
     {
       "ID": "achievement_01_07",
@@ -3191,7 +3196,7 @@
       "Name": "Car Workshop",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 2334
+      "UsersEstimate": 2335
     },
     {
       "ID": "achievement_01_08",
@@ -3199,7 +3204,7 @@
       "Name": "Trophy Collector",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 4309
+      "UsersEstimate": 4310
     },
     {
       "ID": "achievement_01_09",
@@ -3215,7 +3220,7 @@
       "Name": "Beat the Clock",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 3112
+      "UsersEstimate": 3113
     },
     {
       "ID": "achievement_02_01",
@@ -3375,7 +3380,7 @@
       "Name": "Long Time on the Road",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "achievement_04_02",
@@ -3431,7 +3436,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 5027
+      "UsersEstimate": 5028
     },
     {
       "ID": "achievement_04_09",
@@ -3446,7 +3451,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 5985,
+      "Progressed": 5986,
       "Completed": 25
     }
   ],
@@ -3454,8 +3459,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-10-07T17:57:03.0045577+00:00",
-  "LastChanged_Achievements": "2023-10-12T07:05:09.5802179+00:00",
+  "LastChanged_Achievements": "2023-10-12T08:05:14.1689384+00:00",
   "LastUpdate_AppInfo": "2023-10-05T17:57:07.1711191+00:00",
-  "LastUpdate_Ratings": "2023-10-12T06:59:23.9139708+00:00",
-  "LastUpdate_Achievements": "2023-10-12T07:05:09.580257+00:00"
+  "LastUpdate_Ratings": "2023-10-12T07:59:14.4718837+00:00",
+  "LastUpdate_Achievements": "2023-10-12T08:05:14.1690249+00:00"
 }

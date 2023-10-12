@@ -4,8 +4,8 @@
   "ProductSlug": "engine-evolution-2023-7d9eb7",
   "Ranking_EOS_Progress": 667,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 399,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
     "PcReleaseDate": "2023-08-07T10:00:00+00:00",
@@ -319,8 +319,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-03T16:02:20.9417998+00:00",
-  "LastChanged_Achievements": "2023-10-12T07:05:59.8882313+00:00",
+  "LastChanged_Achievements": "2023-10-12T08:06:04.2077629+00:00",
   "LastUpdate_AppInfo": "2023-10-08T16:57:17.6114726+00:00",
-  "LastUpdate_Ratings": "2023-10-12T06:58:04.7876669+00:00",
-  "LastUpdate_Achievements": "2023-10-12T07:05:59.8882511+00:00"
+  "LastUpdate_Ratings": "2023-10-12T07:58:01.8601176+00:00",
+  "LastUpdate_Achievements": "2023-10-12T08:06:04.2078058+00:00"
 }

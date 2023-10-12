@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -138,7 +138,7 @@
   "Tags": [],
   "EOS_Progressed": 900,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2345,9 +2345,9 @@
       "ID": "AC38",
       "SetID": "l4abp0",
       "Name": "Edge of Orison",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 387
+      "UsersEstimate": 396
     },
     {
       "ID": "AC39",
@@ -2418,8 +2418,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-10-10T02:57:43.7078143+00:00",
-  "LastChanged_Achievements": "2023-10-12T07:04:09.8820908+00:00",
+  "LastChanged_Achievements": "2023-10-12T08:04:14.5695682+00:00",
   "LastUpdate_AppInfo": "2023-10-10T20:57:16.6962643+00:00",
-  "LastUpdate_Ratings": "2023-10-12T06:58:22.9463929+00:00",
-  "LastUpdate_Achievements": "2023-10-12T07:04:09.8821294+00:00"
+  "LastUpdate_Ratings": "2023-10-12T07:58:19.2364791+00:00",
+  "LastUpdate_Achievements": "2023-10-12T08:04:14.5696666+00:00"
 }

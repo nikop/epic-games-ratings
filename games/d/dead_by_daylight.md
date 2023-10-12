@@ -14,7 +14,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Survival Treasures | 1.00% | ~9,336 |
 | Skillful | 1.00% | ~9,336 |
 | Make Some Noise | 1.00% | ~9,336 |
-| Sorted | 0.90% | ~8,402 |
+| Sorted | 0.90% | ~8,403 |
 | No one left behind | 0.80% | ~7,469 |
 | Medic | 0.80% | ~7,469 |
 | Bloody Millionaire | 0.80% | ~7,469 |
@@ -37,25 +37,25 @@ Number of Ratings: 70,340  (23.09.2022)
 | Apt Killer | 0.50% | ~4,668 |
 | Vulture | 0.50% | ~4,668 |
 | II | 0.50% | ~4,668 |
+| With Scars to Show | 0.50% | ~4,668 |
 | Second Act | 0.50% | ~4,668 |
-| Blood on your hands | 0.40% | ~3,734 |
-| Escape Artist | 0.40% | ~3,734 |
-| Made it out alive! | 0.40% | ~3,734 |
-| III | 0.40% | ~3,734 |
-| Holiday Get-Together | 0.40% | ~3,734 |
-| Near-Death Experience | 0.40% | ~3,734 |
-| Cherish your Life | 0.40% | ~3,734 |
-| Unforgettable Getaway | 0.40% | ~3,734 |
-| First to the Punch | 0.40% | ~3,734 |
-| Operation: Survival | 0.40% | ~3,734 |
-| Old West Oasis | 0.40% | ~3,734 |
-| Every Last Drop | 0.40% | ~3,734 |
-| Raccoon City Recruit | 0.40% | ~3,734 |
-| With Scars to Show | 0.40% | ~3,734 |
-| Flight to Freedom | 0.40% | ~3,734 |
-| A Fast Death | 0.40% | ~3,734 |
-| Chorus of Chaos | 0.40% | ~3,734 |
-| One More Step | 0.40% | ~3,734 |
+| Blood on your hands | 0.40% | ~3,735 |
+| Escape Artist | 0.40% | ~3,735 |
+| Made it out alive! | 0.40% | ~3,735 |
+| III | 0.40% | ~3,735 |
+| Holiday Get-Together | 0.40% | ~3,735 |
+| Near-Death Experience | 0.40% | ~3,735 |
+| Cherish your Life | 0.40% | ~3,735 |
+| Unforgettable Getaway | 0.40% | ~3,735 |
+| First to the Punch | 0.40% | ~3,735 |
+| Operation: Survival | 0.40% | ~3,735 |
+| Old West Oasis | 0.40% | ~3,735 |
+| Every Last Drop | 0.40% | ~3,735 |
+| Raccoon City Recruit | 0.40% | ~3,735 |
+| Flight to Freedom | 0.40% | ~3,735 |
+| A Fast Death | 0.40% | ~3,735 |
+| Chorus of Chaos | 0.40% | ~3,735 |
+| One More Step | 0.40% | ~3,735 |
 | A bite for the Entity | 0.30% | ~2,801 |
 | Blood on your face | 0.30% | ~2,801 |
 | Gifts for the Fog | 0.30% | ~2,801 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~934 |
 | Adept Ripley | 0.10% | ~934 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 933,602 (Ranked 14)  
+Progressed: 933,637 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -411,7 +411,7 @@ Completed: 49 (0.01%) (Ranked 296)
 | 2023-10-09 | 929,902 | 49 |
 | 2023-10-10 | 931,511 | 49 |
 | 2023-10-11 | 933,163 | 49 |
-| 2023-10-12 | 933,602 | 49 |
+| 2023-10-12 | 933,637 | 49 |
 ## Awards
 Max (Diverse Characters): 33,781  (Ranked 15)  
 Sum: 261,429 (Ranked 13)  

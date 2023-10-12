@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3482,9 +3482,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73435,
+  "EOS_Progressed": 73436,
   "EOS_Completed": 120,
-  "EOS_NewPlayers": 280,
+  "EOS_NewPlayers": 278,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -18422,6 +18422,11 @@
       "Time": "2023-10-12T05:03:37.3874364+00:00",
       "NumProgressed": 73435,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-10-12T08:03:51.1814361+00:00",
+      "NumProgressed": 73436,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 61,
@@ -18537,7 +18542,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15421
+      "UsersEstimate": 15422
     },
     {
       "ID": "CLAYFACE_2",
@@ -18577,7 +18582,7 @@
       "Name": "Fusion Expert",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 5140
+      "UsersEstimate": 5141
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -18665,7 +18670,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15421
+      "UsersEstimate": 15422
     },
     {
       "ID": "FREEZE_2",
@@ -18737,7 +18742,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25702
+      "UsersEstimate": 25703
     },
     {
       "ID": "HARLEY_2",
@@ -18751,9 +18756,9 @@
       "ID": "HARLEY_3",
       "SetID": "4eo5ebm",
       "Name": "Working Hard or Harley Working?",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 14687
+      "UsersEstimate": 15422
     },
     {
       "ID": "HARLEY_4",
@@ -18777,7 +18782,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 38186
+      "UsersEstimate": 38187
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -18920,13 +18925,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73435,
+      "Progressed": 73436,
       "Completed": 120
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43715,
+      "Progressed": 43716,
       "Completed": 2666
     }
   ],
@@ -18934,8 +18939,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-12T07:00:52.579433+00:00",
-  "LastChanged_Achievements": "2023-10-12T07:03:46.4462716+00:00",
+  "LastChanged_Achievements": "2023-10-12T08:03:51.1814356+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:31.3761181+00:00",
-  "LastUpdate_Ratings": "2023-10-12T07:00:52.5794336+00:00",
-  "LastUpdate_Achievements": "2023-10-12T07:03:46.4463897+00:00"
+  "LastUpdate_Ratings": "2023-10-12T08:00:32.906529+00:00",
+  "LastUpdate_Achievements": "2023-10-12T08:03:51.1815998+00:00"
 }

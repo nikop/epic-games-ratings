@@ -1,42 +1,42 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.64 (Ranked 319)  
+Rating: 4.64 (Ranked 320)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 71.00% | ~632,660 |
-| Right Back At Ya | 44.00% | ~392,071 |
-| The Lovers | 39.00% | ~347,517 |
-| Stanislavski's Method | 33.00% | ~294,053 |
-| The Wheel of Fortune | 32.00% | ~285,142 |
-| The Hermit | 30.00% | ~267,321 |
-| The High Priestess | 29.00% | ~258,410 |
-| True Soldier | 29.00% | ~258,410 |
-| Christmas Tree Attack | 26.00% | ~231,678 |
-| Full Body Conversion | 24.00% | ~213,857 |
-| Life of the Road | 23.00% | ~204,946 |
-| Ten out of Ten | 21.00% | ~187,125 |
-| The World | 21.00% | ~187,125 |
-| Master Crafter | 20.00% | ~178,214 |
-| True Warrior | 19.00% | ~169,303 |
-| Bushido and Chill | 18.00% | ~160,393 |
-| Gun Fu | 18.00% | ~160,393 |
-| I Am The Law | 16.00% | ~142,571 |
-| To Protect and Serve | 15.00% | ~133,660 |
-| The Quick and the Dead | 13.00% | ~115,839 |
-| Breathtaking | 13.00% | ~115,839 |
-| Rough Landing | 12.00% | ~106,928 |
+| The Fool | 71.00% | ~632,664 |
+| Right Back At Ya | 44.00% | ~392,073 |
+| The Lovers | 39.00% | ~347,520 |
+| Stanislavski's Method | 33.00% | ~294,055 |
+| The Wheel of Fortune | 32.00% | ~285,144 |
+| The Hermit | 30.00% | ~267,323 |
+| The High Priestess | 29.00% | ~258,412 |
+| True Soldier | 29.00% | ~258,412 |
+| Christmas Tree Attack | 26.00% | ~231,680 |
+| Full Body Conversion | 24.00% | ~213,858 |
+| Life of the Road | 23.00% | ~204,947 |
+| Ten out of Ten | 21.00% | ~187,126 |
+| The World | 21.00% | ~187,126 |
+| Master Crafter | 20.00% | ~178,215 |
+| True Warrior | 19.00% | ~169,304 |
+| Bushido and Chill | 18.00% | ~160,394 |
+| Gun Fu | 18.00% | ~160,394 |
+| I Am The Law | 16.00% | ~142,572 |
+| To Protect and Serve | 15.00% | ~133,661 |
+| The Quick and the Dead | 13.00% | ~115,840 |
+| Breathtaking | 13.00% | ~115,840 |
+| Rough Landing | 12.00% | ~106,929 |
 | To Bad Decisions! | 11.00% | ~98,018 |
 | The Wandering Fool | 11.00% | ~98,018 |
 | The Jungle | 11.00% | ~98,018 |
-| Gunslinger | 10.00% | ~89,107 |
-| Mean Streets | 9.00% | ~80,196 |
-| Temperance | 9.00% | ~80,196 |
+| Gunslinger | 10.00% | ~89,108 |
+| Mean Streets | 9.00% | ~80,197 |
+| Temperance | 9.00% | ~80,197 |
 | The Star | 8.00% | ~71,286 |
 | The Sun | 8.00% | ~71,286 |
-| City Lights | 6.00% | ~53,464 |
+| City Lights | 6.00% | ~53,465 |
 | Must Be Rats | 5.00% | ~44,554 |
 | The Devil | 5.00% | ~44,554 |
 | Greetings from Pacifica! | 5.00% | ~44,554 |
@@ -48,8 +48,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Wasteland | 3.00% | ~26,732 |
 | Daemon In The Shell | 3.00% | ~26,732 |
 | Legend of The Afterlife | 3.00% | ~26,732 |
-| Judy vs Night City | 2.00% | ~17,821 |
-| It's Elementary | 2.00% | ~17,821 |
+| Judy vs Night City | 2.00% | ~17,822 |
+| It's Elementary | 2.00% | ~17,822 |
 | Spin Doctor | 2.00% | ~394 |
 | The APB is Not Enough | 0.60% | ~118 |
 | Relic Ruler | 0.50% | ~98 |
@@ -64,7 +64,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 891,070 (Ranked 15)  
+Progressed: 891,076 (Ranked 15)  
 Completed: 2,644 (0.30%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 2,644 (0.30%) (Ranked 206)
 | 2023-10-09 | 890,533 | 2,633 |
 | 2023-10-10 | 890,786 | 2,639 |
 | 2023-10-11 | 891,024 | 2,641 |
-| 2023-10-12 | 891,070 | 2,644 |
+| 2023-10-12 | 891,076 | 2,644 |
 ## Awards
 Max (Character Customization): 96,295  (Ranked 9)  
 Sum: 292,941 (Ranked 11)  

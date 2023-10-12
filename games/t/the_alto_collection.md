@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~42 |
 | Windswept | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,380 (Ranked 105)  
+Progressed: 42,381 (Ranked 105)  
 Completed: 5 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,10 +221,10 @@ Completed: 5 (0.01%) (Ranked 296)
 | 2023-10-09 | 42,133 | 5 |
 | 2023-10-10 | 42,251 | 5 |
 | 2023-10-11 | 42,352 | 5 |
-| 2023-10-12 | 42,380 | 5 |
+| 2023-10-12 | 42,381 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 48  (Ranked 418)  
-Sum: 365 (Ranked 334)  
+Sum: 366 (Ranked 334)  
 Diff (max vs sum): 84  
 | Award | Count |
 | ----- | ----- |
@@ -235,8 +235,8 @@ Diff (max vs sum): 84
 | This game has Quickly Understood Controls | 38 |
 | This game is Extremely Fun | 36 |
 | This game is Relaxing | 35 |
+| This game has Diverse Characters | 29 |
 | This game has Amazing Storytelling | 29 |
-| This game has Diverse Characters | 28 |
 | This game has Amazing Characters | 26 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -345,3 +345,4 @@ Diff (max vs sum): 84
 | 2023-09-15 | 4.70 | - | 48 | 362 |
 | 2023-09-23 | 4.70 | - | 48 | 364 |
 | 2023-10-08 | 4.70 | - | 48 | 365 |
+| 2023-10-12 | 4.70 | - | 48 | 366 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 532,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18334,
+  "EOS_Progressed": 18335,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -11391,6 +11391,11 @@
       "Time": "2023-10-12T06:06:04.6609324+00:00",
       "NumProgressed": 18334,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-12T08:06:11.7720611+00:00",
+      "NumProgressed": 18335,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -11466,7 +11471,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4033
+      "UsersEstimate": 4034
     },
     {
       "ID": "0010",
@@ -11490,7 +11495,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2933
+      "UsersEstimate": 2934
     },
     {
       "ID": "0013",
@@ -11498,7 +11503,7 @@
       "Name": "Keycards Royale",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1833
+      "UsersEstimate": 1834
     },
     {
       "ID": "0014",
@@ -11506,7 +11511,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2933
+      "UsersEstimate": 2934
     },
     {
       "ID": "0015",
@@ -11530,7 +11535,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3483
+      "UsersEstimate": 3484
     },
     {
       "ID": "0018",
@@ -11554,7 +11559,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 10,
       "XP": 115,
-      "UsersEstimate": 1833
+      "UsersEstimate": 1834
     },
     {
       "ID": "0021",
@@ -11586,7 +11591,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4033
+      "UsersEstimate": 4034
     },
     {
       "ID": "0025",
@@ -11626,7 +11631,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2383
+      "UsersEstimate": 2384
     },
     {
       "ID": "0030",
@@ -11689,7 +11694,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18334,
+      "Progressed": 18335,
       "Completed": 4
     }
   ],
@@ -11697,8 +11702,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-10-12T07:06:07.5530119+00:00",
+  "LastChanged_Achievements": "2023-10-12T08:06:11.7720605+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:09.6905795+00:00",
-  "LastUpdate_Ratings": "2023-10-12T06:57:45.9739796+00:00",
-  "LastUpdate_Achievements": "2023-10-12T07:06:07.5530883+00:00"
+  "LastUpdate_Ratings": "2023-10-12T07:57:45.615049+00:00",
+  "LastUpdate_Achievements": "2023-10-12T08:06:11.7722753+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -326,9 +326,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 110920,
+  "EOS_Progressed": 110921,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 792,
+  "EOS_NewPlayers": 793,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -14081,6 +14081,11 @@
       "Time": "2023-10-12T07:03:31.0710339+00:00",
       "NumProgressed": 110920,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-10-12T08:03:35.820735+00:00",
+      "NumProgressed": 110921,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 49,
@@ -14100,7 +14105,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 85408
+      "UsersEstimate": 85409
     },
     {
       "ID": "EAwards_10",
@@ -14164,7 +14169,7 @@
       "Name": "Talented Player",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 39931
+      "UsersEstimate": 39932
     },
     {
       "ID": "EAwards_18",
@@ -14364,7 +14369,7 @@
       "Name": "Severed",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13310
+      "UsersEstimate": 13311
     },
     {
       "ID": "EAwards_40",
@@ -14460,7 +14465,7 @@
       "Name": "Questionable Plumbing",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13310
+      "UsersEstimate": 13311
     },
     {
       "ID": "EAwards_8",
@@ -14468,7 +14473,7 @@
       "Name": "Santa Golpiza!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13310
+      "UsersEstimate": 13311
     },
     {
       "ID": "EAwards_9",
@@ -14483,7 +14488,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 110920,
+      "Progressed": 110921,
       "Completed": 46
     }
   ],
@@ -14491,8 +14496,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-25T16:00:07.3978241+00:00",
-  "LastChanged_Achievements": "2023-10-12T07:03:31.0710334+00:00",
+  "LastChanged_Achievements": "2023-10-12T08:03:35.8207341+00:00",
   "LastUpdate_AppInfo": "2023-10-06T01:39:33.4628061+00:00",
-  "LastUpdate_Ratings": "2023-10-12T06:58:13.7754557+00:00",
-  "LastUpdate_Achievements": "2023-10-12T07:03:31.0711391+00:00"
+  "LastUpdate_Ratings": "2023-10-12T07:58:10.4801503+00:00",
+  "LastUpdate_Achievements": "2023-10-12T08:03:35.8209291+00:00"
 }

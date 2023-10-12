@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-08-03T05:00:00+00:00",
     "PcReleaseDate": null,
@@ -164,9 +164,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 81423,
+  "EOS_Progressed": 81424,
   "EOS_Completed": 229,
-  "EOS_NewPlayers": 1395,
+  "EOS_NewPlayers": 1389,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -6954,6 +6954,11 @@
       "Time": "2023-10-12T07:04:57.2493582+00:00",
       "NumProgressed": 81423,
       "NumCompleted": 229
+    },
+    {
+      "Time": "2023-10-12T08:05:01.7766743+00:00",
+      "NumProgressed": 81424,
+      "NumCompleted": 229
     }
   ],
   "AchievementsAdded": "2023-08-03T06:01:19.3820028+00:00",
@@ -6966,7 +6971,7 @@
       "Name": "Welcome to Dodo Peak",
       "Percentage": 80,
       "XP": 50,
-      "UsersEstimate": 65138
+      "UsersEstimate": 65139
     },
     {
       "ID": "grp_beet",
@@ -7054,7 +7059,7 @@
       "Name": "Investing in BirdCoin",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 43154
+      "UsersEstimate": 43155
     },
     {
       "ID": "grp_money_tree",
@@ -7062,7 +7067,7 @@
       "Name": "Money doesn\u0027t grow on trees",
       "Percentage": 74,
       "XP": 50,
-      "UsersEstimate": 60253
+      "UsersEstimate": 60254
     },
     {
       "ID": "grp_speed",
@@ -7101,7 +7106,7 @@
     {
       "ID": "2gd32f",
       "IsBase": true,
-      "Progressed": 81423,
+      "Progressed": 81424,
       "Completed": 229
     }
   ],
@@ -7109,8 +7114,8 @@
   "FirstSeenRating": "2023-08-27T07:59:18.2658043+00:00",
   "FirstSeenAchievements": "2023-08-03T06:01:19.3820026+00:00",
   "LastChanged": "2023-10-11T17:04:02.0340506+00:00",
-  "LastChanged_Achievements": "2023-10-12T07:04:57.2493578+00:00",
+  "LastChanged_Achievements": "2023-10-12T08:05:01.7766734+00:00",
   "LastUpdate_AppInfo": "2023-10-05T11:57:27.8259613+00:00",
-  "LastUpdate_Ratings": "2023-10-12T06:57:11.5376166+00:00",
-  "LastUpdate_Achievements": "2023-10-12T07:04:57.2493993+00:00"
+  "LastUpdate_Ratings": "2023-10-12T07:57:20.4136431+00:00",
+  "LastUpdate_Achievements": "2023-10-12T08:05:01.7767714+00:00"
 }

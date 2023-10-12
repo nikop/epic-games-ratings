@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 435,
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 50,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 51,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -368,9 +368,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 225574,
+  "EOS_Progressed": 225577,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1719,
+  "EOS_NewPlayers": 1714,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9518,6 +9518,11 @@
       "Time": "2023-10-12T07:04:04.2617606+00:00",
       "NumProgressed": 225574,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-12T08:04:08.8845172+00:00",
+      "NumProgressed": 225577,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -9618,7 +9623,7 @@
       "Name": "Great Wastelands (part 2) Completed",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4511
+      "UsersEstimate": 4512
     },
     {
       "ID": "HW1_MISSION6_COMPLETE",
@@ -9634,7 +9639,7 @@
       "Name": "The Gardens of Kadesh Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 4511
+      "UsersEstimate": 4512
     },
     {
       "ID": "HW1_MISSION8_COMPLETE",
@@ -9642,7 +9647,7 @@
       "Name": "The Cathedral of Kadesh Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 4511
+      "UsersEstimate": 4512
     },
     {
       "ID": "HW1_MISSION9_COMPLETE",
@@ -9650,7 +9655,7 @@
       "Name": "Sea of Lost Souls Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 4511
+      "UsersEstimate": 4512
     },
     {
       "ID": "HW1_TUTORIAL_COMPLETE",
@@ -9730,7 +9735,7 @@
       "Name": "Sarum Completed",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4511
+      "UsersEstimate": 4512
     },
     {
       "ID": "HW2_MISSION4_COMPLETE",
@@ -9801,7 +9806,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 225574,
+      "Progressed": 225577,
       "Completed": 0
     }
   ],
@@ -9809,8 +9814,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-10-12T02:59:20.3320896+00:00",
-  "LastChanged_Achievements": "2023-10-12T07:04:04.2617602+00:00",
+  "LastChanged_Achievements": "2023-10-12T08:04:08.8845166+00:00",
   "LastUpdate_AppInfo": "2023-10-05T21:57:20.1324692+00:00",
-  "LastUpdate_Ratings": "2023-10-12T06:58:28.2311367+00:00",
-  "LastUpdate_Achievements": "2023-10-12T07:04:04.2618256+00:00"
+  "LastUpdate_Ratings": "2023-10-12T07:58:24.6240577+00:00",
+  "LastUpdate_Achievements": "2023-10-12T08:04:08.8846358+00:00"
 }

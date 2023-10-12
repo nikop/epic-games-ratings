@@ -16,21 +16,21 @@ Rating: 4.54 (Ranked 510)
 | Apex Predator | 3.00% | ~20,831 |
 | Stacking the Deck | 3.00% | ~20,831 |
 | Personal Assistant Personally Assisted | 3.00% | ~20,831 |
-| Anger Management | 2.00% | ~13,887 |
-| Perks of the Job | 2.00% | ~13,887 |
-| Bookworm | 2.00% | ~13,887 |
-| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,887 |
-| But Doctor, I am Butcho | 2.00% | ~13,887 |
-| Slayer Squad | 2.00% | ~13,887 |
-| Can't Handle the Truth | 2.00% | ~13,887 |
-| Like Riding a Bike | 2.00% | ~13,887 |
-| Zombologist | 2.00% | ~13,887 |
-| Ooh, Shiny! | 2.00% | ~13,887 |
-| A Patton Emerges | 2.00% | ~13,887 |
-| Humanity Distilled | 2.00% | ~13,887 |
-| I Am the Resurrection | 2.00% | ~13,887 |
-| Our True Nature | 2.00% | ~13,887 |
-| This is My Weapon | 2.00% | ~13,887 |
+| Anger Management | 2.00% | ~13,888 |
+| Perks of the Job | 2.00% | ~13,888 |
+| Bookworm | 2.00% | ~13,888 |
+| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,888 |
+| But Doctor, I am Butcho | 2.00% | ~13,888 |
+| Slayer Squad | 2.00% | ~13,888 |
+| Can't Handle the Truth | 2.00% | ~13,888 |
+| Like Riding a Bike | 2.00% | ~13,888 |
+| Zombologist | 2.00% | ~13,888 |
+| Ooh, Shiny! | 2.00% | ~13,888 |
+| A Patton Emerges | 2.00% | ~13,888 |
+| Humanity Distilled | 2.00% | ~13,888 |
+| I Am the Resurrection | 2.00% | ~13,888 |
+| Our True Nature | 2.00% | ~13,888 |
+| This is My Weapon | 2.00% | ~13,888 |
 | Making Your Mark | 1.00% | ~6,944 |
 | Jumbo Keyring | 1.00% | ~6,944 |
 | Down with the Sickness | 1.00% | ~6,944 |
@@ -45,13 +45,13 @@ Rating: 4.54 (Ranked 510)
 | Variety is the Spice of Death | 0.60% | ~4,166 |
 | LA Influential | 0.50% | ~3,472 |
 | Gore Horse | 0.50% | ~3,472 |
-| Sole Survivor | 0.40% | ~2,777 |
-| Sharpest Tool in the Box | 0.40% | ~2,777 |
+| Sole Survivor | 0.40% | ~2,778 |
+| Sharpest Tool in the Box | 0.40% | ~2,778 |
 | Survival Skills | 0.30% | ~2,083 |
 | Donk! | 0.20% | ~1,389 |
 | Bucket List | 0.10% | ~694 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 694,366 (Ranked 22)  
+Progressed: 694,377 (Ranked 22)  
 Completed: 2,210 (0.32%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 2,210 (0.32%) (Ranked 200)
 | 2023-10-09 | 693,470 | 2,208 |
 | 2023-10-10 | 693,868 | 2,209 |
 | 2023-10-11 | 694,263 | 2,210 |
-| 2023-10-12 | 694,366 | 2,210 |
+| 2023-10-12 | 694,377 | 2,210 |
 ## Awards
 Max (Great Boss Battles): 6,398  (Ranked 58)  
 Sum: 9,556 (Ranked 91)  

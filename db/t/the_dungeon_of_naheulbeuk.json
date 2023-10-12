@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1140,7 +1140,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 230231,
+  "EOS_Progressed": 230239,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 1494,
   "EOS_NewCompleters": 0,
@@ -14375,6 +14375,11 @@
       "Time": "2023-10-12T07:06:27.8443757+00:00",
       "NumProgressed": 230231,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-12T08:06:31.8117141+00:00",
+      "NumProgressed": 230239,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 88,
@@ -14818,7 +14823,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9209
+      "UsersEstimate": 9210
     },
     {
       "ID": "ElfEpic",
@@ -14834,7 +14839,7 @@
       "Name": "Sowwy!",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 75976
+      "UsersEstimate": 75979
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -15089,21 +15094,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 230231,
+      "Progressed": 230239,
       "Completed": 5
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 230231,
+      "Progressed": 230239,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-10-11T19:01:44.5403059+00:00",
-  "LastChanged_Achievements": "2023-10-12T07:06:27.8443752+00:00",
+  "LastChanged_Achievements": "2023-10-12T08:06:31.8117134+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:46.3182894+00:00",
-  "LastUpdate_Ratings": "2023-10-12T07:00:05.8583639+00:00",
-  "LastUpdate_Achievements": "2023-10-12T07:06:27.8445207+00:00"
+  "LastUpdate_Ratings": "2023-10-12T07:59:52.6769422+00:00",
+  "LastUpdate_Achievements": "2023-10-12T08:06:31.8119167+00:00"
 }

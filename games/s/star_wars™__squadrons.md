@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~8,994 |
-| A Better Idea | 25.00% | ~2,367 |
-| Safety in the Storm | 24.00% | ~2,272 |
-| Begin the Ceremony | 20.00% | ~1,893 |
-| Mission Accomplished | 20.00% | ~1,893 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~1,420 |
-| A Starfighter of Your Own | 14.00% | ~1,325 |
-| Asset Secured | 13.00% | ~1,231 |
-| Unkillable | 8.00% | ~757 |
+| Fracture at Fostar Haven | 95.00% | ~9,004 |
+| A Better Idea | 25.00% | ~2,370 |
+| Safety in the Storm | 24.00% | ~2,275 |
+| Begin the Ceremony | 21.00% | ~1,990 |
+| Mission Accomplished | 20.00% | ~1,896 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~1,422 |
+| A Starfighter of Your Own | 14.00% | ~1,327 |
+| Asset Secured | 13.00% | ~1,232 |
+| Unkillable | 8.00% | ~758 |
 | The Galaxy's Finest (Pilot) | 7.00% | ~663 |
 | Sound Strategy | 7.00% | ~663 |
 | Together, Vanguard | 7.00% | ~663 |
-| Stomped | 6.00% | ~568 |
-| Fearless | 5.00% | ~473 |
-| Flames Over Mon Cala | 5.00% | ~473 |
-| A Promising Career | 5.00% | ~473 |
+| Stomped | 6.00% | ~569 |
+| Fearless | 5.00% | ~474 |
+| Flames Over Mon Cala | 5.00% | ~474 |
+| A Promising Career | 5.00% | ~474 |
 | Great Shot, Kid | 4.00% | ~379 |
 | Back From the Brink | 4.00% | ~379 |
 | Temporary Guardian | 4.00% | ~379 |
@@ -28,8 +28,8 @@
 | Squadron Hunter | 3.00% | ~284 |
 | Punch It | 3.00% | ~284 |
 | Combat Pilot | 3.00% | ~284 |
-| Stun 'Em | 2.00% | ~189 |
-| Dressed for the Job You Want | 2.00% | ~189 |
+| Stun 'Em | 2.00% | ~190 |
+| Dressed for the Job You Want | 2.00% | ~190 |
 | I Have You Now | 1.00% | ~95 |
 | Against the Current | 1.00% | ~95 |
 | Denied | 0.90% | ~85 |
@@ -52,7 +52,7 @@
 | Fully Decorated | 0.10% | ~9 |
 | The Galaxy's Finest (Ace) | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,467 (Ranked 149)  
+Progressed: 9,478 (Ranked 149)  
 Completed: 1 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 1 (0.01%) (Ranked 296)
 | 2023-10-09 | 8,828 | 1 |
 | 2023-10-10 | 9,128 | 1 |
 | 2023-10-11 | 9,402 | 1 |
-| 2023-10-12 | 9,467 | 1 |
+| 2023-10-12 | 9,478 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,16 +5,16 @@ Rating: 4.76 (Ranked 119)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~17,471 |
-| The Killing Jar | 8.00% | ~15,529 |
-| Expanding Horizons | 7.00% | ~13,588 |
-| Quest for Survival | 7.00% | ~13,588 |
-| Not Your Average Trait | 7.00% | ~13,588 |
-| Gleaming the Cube | 6.00% | ~11,647 |
-| Familiar Face | 6.00% | ~11,647 |
-| Duality | 6.00% | ~11,647 |
-| Boss'n Up | 6.00% | ~11,647 |
-| Trait Chaser | 6.00% | ~11,647 |
+| First of Many | 9.00% | ~17,472 |
+| The Killing Jar | 8.00% | ~15,530 |
+| Expanding Horizons | 7.00% | ~13,589 |
+| Quest for Survival | 7.00% | ~13,589 |
+| Not Your Average Trait | 7.00% | ~13,589 |
+| Gleaming the Cube | 6.00% | ~11,648 |
+| Familiar Face | 6.00% | ~11,648 |
+| Duality | 6.00% | ~11,648 |
+| Boss'n Up | 6.00% | ~11,648 |
+| Trait Chaser | 6.00% | ~11,648 |
 | Not So Special Now | 5.00% | ~9,706 |
 | Not a Janitor | 5.00% | ~9,706 |
 | Equal Measures | 5.00% | ~9,706 |
@@ -43,20 +43,20 @@ Rating: 4.76 (Ranked 119)
 | Edgelord | 3.00% | ~5,824 |
 | The Ultimate Weapon | 3.00% | ~5,824 |
 | No One Should Have All That Power | 3.00% | ~5,824 |
-| Crafty | 2.00% | ~3,882 |
-| Only Human | 2.00% | ~3,882 |
-| Red Room | 2.00% | ~3,882 |
-| The Collector | 2.00% | ~3,882 |
-| Scrap Hoarder | 2.00% | ~3,882 |
-| Carnage in C-Minor | 2.00% | ~3,882 |
-| Maxed Out! | 2.00% | ~3,882 |
-| Transmutate | 2.00% | ~3,882 |
+| Crafty | 2.00% | ~3,883 |
+| Only Human | 2.00% | ~3,883 |
+| Red Room | 2.00% | ~3,883 |
+| The Collector | 2.00% | ~3,883 |
+| Scrap Hoarder | 2.00% | ~3,883 |
+| Carnage in C-Minor | 2.00% | ~3,883 |
+| Maxed Out! | 2.00% | ~3,883 |
+| Transmutate | 2.00% | ~3,883 |
 | Ghost in the Machine | 1.00% | ~1,941 |
 | The Trigger | 1.00% | ~1,941 |
 | Cutting Edge | 1.00% | ~1,941 |
 | Proving Grounds | 1.00% | ~1,941 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 194,117 (Ranked 68)  
+Progressed: 194,130 (Ranked 68)  
 Completed: 381 (0.20%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 381 (0.20%) (Ranked 222)
 | 2023-10-09 | 192,990 | 377 |
 | 2023-10-10 | 193,536 | 379 |
 | 2023-10-11 | 194,019 | 381 |
-| 2023-10-12 | 194,117 | 381 |
+| 2023-10-12 | 194,130 | 381 |
 ## Awards
 Max (Great Boss Battles): 1,826  (Ranked 114)  
 Sum: 3,927 (Ranked 150)  

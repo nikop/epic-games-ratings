@@ -6,30 +6,30 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sheet | 50.00% | ~237,204 |
-| He's Signed! | 50.00% | ~237,204 |
-| First Victory | 50.00% | ~237,204 |
-| He's Sold! | 48.00% | ~227,716 |
-| I'm The Boss! | 42.00% | ~199,251 |
-| Hat-trick | 41.00% | ~194,507 |
-| Scoring Streak | 38.00% | ~180,275 |
-| Unbeatable! | 37.00% | ~175,531 |
-| Thumping | 37.00% | ~175,531 |
-| Superb Dressing Room Atmosphere | 35.00% | ~166,043 |
+| Clean Sheet | 50.00% | ~237,205 |
+| He's Signed! | 50.00% | ~237,205 |
+| First Victory | 50.00% | ~237,205 |
+| He's Sold! | 48.00% | ~227,717 |
+| I'm The Boss! | 42.00% | ~199,252 |
+| Hat-trick | 41.00% | ~194,508 |
+| Scoring Streak | 38.00% | ~180,276 |
+| Unbeatable! | 37.00% | ~175,532 |
+| Thumping | 37.00% | ~175,532 |
+| Superb Dressing Room Atmosphere | 35.00% | ~166,044 |
 | Total Support | 32.00% | ~151,811 |
 | Record Signing | 32.00% | ~151,811 |
-| He's a Natural | 31.00% | ~147,066 |
-| Millionaire's Club | 31.00% | ~147,066 |
-| Team Performance | 30.00% | ~142,322 |
-| Parked The Bus | 29.00% | ~137,578 |
-| Shrewd Spender | 29.00% | ~137,578 |
-| Star Man | 29.00% | ~137,578 |
-| Attack! | 28.00% | ~132,834 |
-| You're On Fire | 27.00% | ~128,090 |
-| Tremendous Trio | 27.00% | ~128,090 |
-| Record Sale | 27.00% | ~128,090 |
-| On A Roll | 26.00% | ~123,346 |
-| Unstoppable Force | 26.00% | ~123,346 |
+| He's a Natural | 31.00% | ~147,067 |
+| Millionaire's Club | 31.00% | ~147,067 |
+| Team Performance | 30.00% | ~142,323 |
+| Parked The Bus | 29.00% | ~137,579 |
+| Shrewd Spender | 29.00% | ~137,579 |
+| Star Man | 29.00% | ~137,579 |
+| Attack! | 28.00% | ~132,835 |
+| You're On Fire | 27.00% | ~128,091 |
+| Tremendous Trio | 27.00% | ~128,091 |
+| Record Sale | 27.00% | ~128,091 |
+| On A Roll | 26.00% | ~123,347 |
+| Unstoppable Force | 26.00% | ~123,347 |
 | Armchair Expert | 25.00% | ~118,602 |
 | Fantastic Five | 24.00% | ~113,858 |
 | Full Faith | 24.00% | ~113,858 |
@@ -44,12 +44,12 @@ Number of Ratings: 19,160  (23.09.2022)
 | Irresistible Force | 20.00% | ~94,882 |
 | Excellent Match Cohesion | 20.00% | ~94,882 |
 | Do The Double | 19.00% | ~90,138 |
-| Top Form | 17.00% | ~80,649 |
-| Cash To Burn | 17.00% | ~80,649 |
-| Overachiever! | 16.00% | ~75,905 |
-| Rushed signing | 16.00% | ~75,905 |
-| Beating Expectations | 15.00% | ~71,161 |
-| Window Shopping | 15.00% | ~71,161 |
+| Top Form | 17.00% | ~80,650 |
+| Cash To Burn | 17.00% | ~80,650 |
+| Overachiever! | 16.00% | ~75,906 |
+| Rushed signing | 16.00% | ~75,906 |
+| Beating Expectations | 15.00% | ~71,162 |
+| Window Shopping | 15.00% | ~71,162 |
 | Eyes and Ears | 14.00% | ~66,417 |
 | Comeback King! | 14.00% | ~66,417 |
 | You're Up! | 13.00% | ~61,673 |
@@ -63,11 +63,11 @@ Number of Ratings: 19,160  (23.09.2022)
 | Headhunted | 9.00% | ~42,697 |
 | Domination | 9.00% | ~42,697 |
 | Best In The Business | 8.00% | ~37,953 |
-| Legend | 6.00% | ~28,464 |
-| Win the Club World Cup | 6.00% | ~28,464 |
-| Parked The Tank | 6.00% | ~28,464 |
-| World Renowned | 6.00% | ~28,464 |
-| Head-to-Head | 6.00% | ~28,464 |
+| Legend | 6.00% | ~28,465 |
+| Win the Club World Cup | 6.00% | ~28,465 |
+| Parked The Tank | 6.00% | ~28,465 |
+| World Renowned | 6.00% | ~28,465 |
+| Head-to-Head | 6.00% | ~28,465 |
 | Going Places | 5.00% | ~23,720 |
 | We Trust You | 5.00% | ~23,720 |
 | Trophy Hoarder | 4.00% | ~18,976 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~474 |
 | Shoestring Budget | 0.10% | ~474 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 474,408 (Ranked 36)  
+Progressed: 474,410 (Ranked 36)  
 Completed: 22 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,7 +280,7 @@ Completed: 22 (0.00%) (Ranked 314)
 | 2023-10-09 | 474,338 | 22 |
 | 2023-10-10 | 474,374 | 22 |
 | 2023-10-11 | 474,405 | 22 |
-| 2023-10-12 | 474,408 | 22 |
+| 2023-10-12 | 474,410 | 22 |
 ## Awards
 Max (Relaxing): 6,460  (Ranked 56)  
 Sum: 50,854 (Ranked 27)  

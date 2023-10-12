@@ -6,8 +6,8 @@ Number of Ratings: 756  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ball Launched | 82.00% | ~221,810 |
-| I know the Rules | 35.00% | ~94,675 |
+| Ball Launched | 82.00% | ~221,813 |
+| I know the Rules | 35.00% | ~94,676 |
 | Contender | 10.00% | ~27,050 |
 | I Found it! | 10.00% | ~27,050 |
 | First but not Last | 4.00% | ~10,820 |
@@ -19,15 +19,15 @@ Number of Ratings: 756  (23.09.2022)
 | Shiny Memento | 0.30% | ~812 |
 | Pinball Hoarder | 0.30% | ~812 |
 | Interior Designer | 0.30% | ~812 |
-| Table Mastered, part 10 | 0.10% | ~270 |
-| Medal Hunter | 0.10% | ~270 |
-| Medal Wizard | 0.10% | ~270 |
-| Virtual Pinball Museum | 0.10% | ~270 |
-| Challenge Accepted! | 0.10% | ~270 |
-| Relic Hunter | 0.10% | ~270 |
-| Show Them | 0.10% | ~270 |
-| Totally Furnished | 0.10% | ~270 |
-| Customizer | 0.10% | ~270 |
+| Table Mastered, part 10 | 0.10% | ~271 |
+| Medal Hunter | 0.10% | ~271 |
+| Medal Wizard | 0.10% | ~271 |
+| Virtual Pinball Museum | 0.10% | ~271 |
+| Challenge Accepted! | 0.10% | ~271 |
+| Relic Hunter | 0.10% | ~271 |
+| Show Them | 0.10% | ~271 |
+| Totally Furnished | 0.10% | ~271 |
+| Customizer | 0.10% | ~271 |
 | Feel the Power | 0.00% | ~0 |
 | Funko Town | 0.00% | ~0 |
 | Master of Attacks | 0.00% | ~0 |
@@ -37,7 +37,7 @@ Number of Ratings: 756  (23.09.2022)
 | Fully Involved | 0.00% | ~0 |
 | Collect Them All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 270,500 (Ranked 49)  
+Progressed: 270,504 (Ranked 49)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-10-09 | 270,057 | 0 |
 | 2023-10-10 | 270,280 | 0 |
 | 2023-10-11 | 270,451 | 0 |
-| 2023-10-12 | 270,500 | 0 |
+| 2023-10-12 | 270,504 | 0 |
 ## Awards
 Max (Great for Beginners): 195  (Ranked 280)  
 Sum: 1,566 (Ranked 223)  

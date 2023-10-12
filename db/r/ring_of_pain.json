@@ -4,7 +4,7 @@
   "ProductSlug": "ring-of-pain",
   "Ranking_Rating": 436,
   "Ranking_Popularity": 126,
-  "Ranking_PopularitySum": 82,
+  "Ranking_PopularitySum": 75,
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 241,
   "Ranking_EOS_NewPlayers": 99,
@@ -2987,12 +2987,18 @@
       "Rating": 4.58,
       "NumberOfAwards": 11600,
       "NumberOfAwardsMax": 1497
+    },
+    {
+      "Time": "2023-10-12T07:57:16.0585509+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 13106,
+      "NumberOfAwardsMax": 1506
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11600,
-  "NumberOfAwardsMax": 1497,
-  "MaxAwardTitle": "Quickly Understood Controls",
+  "NumberOfAwards": 13106,
+  "NumberOfAwardsMax": 1506,
+  "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
@@ -3028,7 +3034,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1496
+      "Count": 1506
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3063,7 +3069,7 @@
   ],
   "EOS_Progressed": 237733,
   "EOS_Completed": 281,
-  "EOS_NewPlayers": 437,
+  "EOS_NewPlayers": 436,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -22104,9 +22110,9 @@
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
-  "LastChanged": "2023-10-11T20:02:08.9829212+00:00",
-  "LastChanged_Achievements": "2023-10-12T07:05:58.5166643+00:00",
+  "LastChanged": "2023-10-12T07:57:16.0585508+00:00",
+  "LastChanged_Achievements": "2023-10-12T08:06:02.9318502+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:51.5450628+00:00",
-  "LastUpdate_Ratings": "2023-10-12T06:01:23.0899988+00:00",
-  "LastUpdate_Achievements": "2023-10-12T07:05:58.5168885+00:00"
+  "LastUpdate_Ratings": "2023-10-12T07:57:16.0585516+00:00",
+  "LastUpdate_Achievements": "2023-10-12T08:06:02.9324126+00:00"
 }
