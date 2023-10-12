@@ -17,9 +17,9 @@ Rating: 4.50 (Ranked 573)
 | Teamwork | 1.00% | ~264 |
 | There you are! | 1.00% | ~264 |
 | Vaporous Expansion | 1.00% | ~264 |
+| Whoopsie | 1.00% | ~264 |
 | Back Off | 0.90% | ~237 |
 | Clutch Capture | 0.90% | ~237 |
-| Whoopsie | 0.90% | ~237 |
 | Animated | 0.80% | ~211 |
 | Daily Dose | 0.80% | ~211 |
 | Icing on the Cake | 0.80% | ~211 |
@@ -31,9 +31,9 @@ Rating: 4.50 (Ranked 573)
 | Welcome to the Crew | 0.70% | ~185 |
 | Side Hustle | 0.60% | ~158 |
 | Skilled | 0.60% | ~158 |
+| Stunner | 0.60% | ~158 |
 | Legions | 0.50% | ~132 |
 | Pesky Jerks | 0.50% | ~132 |
-| Stunner | 0.50% | ~132 |
 | We have the best insurance | 0.40% | ~105 |
 | Collector | 0.40% | ~105 |
 | Diabolical | 0.40% | ~105 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 573)
 | Therapeutic | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,364 (Ranked 117)  
+Progressed: 26,367 (Ranked 117)  
 Completed: 58 (0.22%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,7 +232,7 @@ Completed: 58 (0.22%) (Ranked 219)
 | 2023-10-09 | 26,315 | 58 |
 | 2023-10-10 | 26,330 | 58 |
 | 2023-10-11 | 26,352 | 58 |
-| 2023-10-12 | 26,364 | 58 |
+| 2023-10-12 | 26,367 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 261  (Ranked 257)  
 Sum: 2,378 (Ranked 188)  

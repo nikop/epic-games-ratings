@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 106,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 105,
-  "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
     "PcReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -4098,7 +4098,7 @@
       "Count": 516
     }
   ],
-  "EOS_Progressed": 10747,
+  "EOS_Progressed": 10748,
   "EOS_Completed": 255,
   "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 6,
@@ -15638,6 +15638,11 @@
       "Time": "2023-10-12T10:04:41.1149148+00:00",
       "NumProgressed": 10747,
       "NumCompleted": 255
+    },
+    {
+      "Time": "2023-10-12T11:05:04.8109162+00:00",
+      "NumProgressed": 10748,
+      "NumCompleted": 255
     }
   ],
   "TotalAchievements": 15,
@@ -15657,7 +15662,7 @@
       "Name": "Banker",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 4191
+      "UsersEstimate": 4192
     },
     {
       "ID": "Bestest_Friend",
@@ -15665,7 +15670,7 @@
       "Name": "Bestest Friend",
       "Percentage": 47,
       "XP": 75,
-      "UsersEstimate": 5051
+      "UsersEstimate": 5052
     },
     {
       "ID": "Chef_Cook",
@@ -15673,7 +15678,7 @@
       "Name": "Chef Cook",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 1934
+      "UsersEstimate": 1935
     },
     {
       "ID": "Chit_Chatter",
@@ -15713,7 +15718,7 @@
       "Name": "Generous",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 2579
+      "UsersEstimate": 2580
     },
     {
       "ID": "Goofys_Investor",
@@ -15721,7 +15726,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 70,
       "XP": 75,
-      "UsersEstimate": 7523
+      "UsersEstimate": 7524
     },
     {
       "ID": "Miner",
@@ -15737,7 +15742,7 @@
       "Name": "Photographer",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 7415
+      "UsersEstimate": 7416
     },
     {
       "ID": "Renovator",
@@ -15761,14 +15766,14 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 62,
       "XP": 100,
-      "UsersEstimate": 6663
+      "UsersEstimate": 6664
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 10747,
+      "Progressed": 10748,
       "Completed": 255
     }
   ],
@@ -15776,8 +15781,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-10-12T02:16:22.2200296+00:00",
-  "LastChanged_Achievements": "2023-10-12T10:04:41.1149138+00:00",
+  "LastChanged_Achievements": "2023-10-12T11:05:04.8109154+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:41.0939363+00:00",
-  "LastUpdate_Ratings": "2023-10-12T09:59:53.7600711+00:00",
-  "LastUpdate_Achievements": "2023-10-12T10:04:41.1149988+00:00"
+  "LastUpdate_Ratings": "2023-10-12T11:00:01.8036704+00:00",
+  "LastUpdate_Achievements": "2023-10-12T11:05:04.8110092+00:00"
 }

@@ -2364,9 +2364,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26364,
+  "EOS_Progressed": 26367,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 149,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -14714,6 +14714,11 @@
       "Time": "2023-10-12T09:04:38.0173969+00:00",
       "NumProgressed": 26364,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-10-12T11:05:05.4815281+00:00",
+      "NumProgressed": 26367,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 51,
@@ -15019,9 +15024,9 @@
       "ID": "Stunner",
       "SetID": "819popo",
       "Name": "Stunner",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 158
     },
     {
       "ID": "Stylish",
@@ -15123,16 +15128,16 @@
       "ID": "Whoopsie",
       "SetID": "819popo",
       "Name": "Whoopsie",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 264
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26364,
+      "Progressed": 26367,
       "Completed": 58
     }
   ],
@@ -15140,8 +15145,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-12T01:37:56.5097971+00:00",
-  "LastChanged_Achievements": "2023-10-12T10:04:41.7119582+00:00",
+  "LastChanged_Achievements": "2023-10-12T11:05:05.4815271+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:25.2013042+00:00",
-  "LastUpdate_Ratings": "2023-10-12T09:57:34.9391764+00:00",
-  "LastUpdate_Achievements": "2023-10-12T10:04:41.7120837+00:00"
+  "LastUpdate_Ratings": "2023-10-12T10:57:40.0144574+00:00",
+  "LastUpdate_Achievements": "2023-10-12T11:05:05.4817116+00:00"
 }

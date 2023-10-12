@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -1833,9 +1833,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14610,
+  "EOS_Progressed": 14611,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 249,
+  "EOS_NewPlayers": 250,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13638,6 +13638,11 @@
       "Time": "2023-10-12T09:05:51.3324684+00:00",
       "NumProgressed": 14610,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-12T11:06:18.2919704+00:00",
+      "NumProgressed": 14611,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -14015,9 +14020,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_BELOVED",
       "SetID": "9201eeb",
       "Name": "Beloved",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 73
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_BRAVE",
@@ -14031,9 +14036,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_BRILLIANT",
       "SetID": "9201eeb",
       "Name": "Brilliant",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 117
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_CAPABLE",
@@ -14159,9 +14164,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_KEYSTONE",
       "SetID": "9201eeb",
       "Name": "Keystone",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 146
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_LEARNED",
@@ -14287,9 +14292,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_SUBJUGATOR",
       "SetID": "9201eeb",
       "Name": "Subjugator",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_VALIANT",
@@ -14303,9 +14308,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_VICTORIOUS",
       "SetID": "9201eeb",
       "Name": "Victorious",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 73
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_WARRIOR",
@@ -14343,9 +14348,9 @@
       "ID": "ACHIEVEMENT_CULTURE_DEVELOPING",
       "SetID": "9201eeb",
       "Name": "Developing Cities",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 146
     },
     {
       "ID": "ACHIEVEMENT_CULTURE_LEGENDARY",
@@ -14399,9 +14404,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_GOOD",
       "SetID": "7l38kb8",
       "Name": "Good Difficulty",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 73
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_GREAT",
@@ -15087,9 +15092,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_NECROPOLIS",
       "SetID": "9201eeb",
       "Name": "Necropolis",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 102
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_ORACLE",
@@ -15271,9 +15276,9 @@
       "ID": "ACHIEVEMENT_NATION_EGYPT",
       "SetID": "7l38kb8",
       "Name": "Egypt",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHIEVEMENT_NATION_GREECE",
@@ -15407,9 +15412,9 @@
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
       "SetID": "9201eeb",
       "Name": "Power to the People",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 73
     },
     {
       "ID": "ACHIEVEMENT_PUNIC_WARS",
@@ -15591,9 +15596,9 @@
       "ID": "ACHIEVEMENT_TECH_INDUSTRIAL_PROGRESS",
       "SetID": "9201eeb",
       "Name": "Industrial Progress",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHIEVEMENT_TECH_MILITARY_PRESTIGE",
@@ -15655,9 +15660,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_REVELATION",
       "SetID": "7l38kb8",
       "Name": "Revelation",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_VENERATION",
@@ -16384,21 +16389,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14610,
+      "Progressed": 14611,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14610,
+      "Progressed": 14611,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-12T09:03:11.7935292+00:00",
-  "LastChanged_Achievements": "2023-10-12T10:05:52.9062393+00:00",
+  "LastChanged_Achievements": "2023-10-12T11:06:18.2919698+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:48.3987129+00:00",
-  "LastUpdate_Ratings": "2023-10-12T10:03:17.215067+00:00",
-  "LastUpdate_Achievements": "2023-10-12T10:05:52.9074213+00:00"
+  "LastUpdate_Ratings": "2023-10-12T11:03:26.5613509+00:00",
+  "LastUpdate_Achievements": "2023-10-12T11:06:18.2933605+00:00"
 }

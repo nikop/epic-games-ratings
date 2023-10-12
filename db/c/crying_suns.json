@@ -622,9 +622,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 468912,
+  "EOS_Progressed": 468913,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 420,
+  "EOS_NewPlayers": 419,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18907,6 +18907,11 @@
       "Time": "2023-10-12T10:08:14.3721166+00:00",
       "NumProgressed": 468912,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-10-12T11:08:29.7343821+00:00",
+      "NumProgressed": 468913,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 79,
@@ -19006,7 +19011,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 309482
+      "UsersEstimate": 309483
     },
     {
       "ID": "achievement_story_landa",
@@ -19094,7 +19099,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 93782
+      "UsersEstimate": 93783
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -19342,7 +19347,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 206321
+      "UsersEstimate": 206322
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -19549,21 +19554,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 12846,
+      "Progressed": 12847,
       "Completed": 2357
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 468912,
+      "Progressed": 468913,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-10-10T01:42:39.6470224+00:00",
-  "LastChanged_Achievements": "2023-10-12T10:08:14.3721157+00:00",
+  "LastChanged_Achievements": "2023-10-12T11:08:29.7343814+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:12.2439016+00:00",
-  "LastUpdate_Ratings": "2023-10-12T10:00:23.6648181+00:00",
-  "LastUpdate_Achievements": "2023-10-12T10:08:14.3723238+00:00"
+  "LastUpdate_Ratings": "2023-10-12T11:00:29.4319165+00:00",
+  "LastUpdate_Achievements": "2023-10-12T11:08:29.7345813+00:00"
 }

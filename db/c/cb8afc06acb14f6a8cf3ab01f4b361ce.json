@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 518,
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 5,
+  "Ranking_EOS_NewPlayers": 6,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -164,9 +164,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 262598,
+  "EOS_Progressed": 262705,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 48037,
+  "EOS_NewPlayers": 47055,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1819,6 +1819,11 @@
       "Time": "2023-10-12T10:05:31.5469837+00:00",
       "NumProgressed": 262598,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-12T11:05:56.3572581+00:00",
+      "NumProgressed": 262705,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -1831,7 +1836,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 91909
+      "UsersEstimate": 91947
     },
     {
       "ID": "S02_BRDA",
@@ -1839,7 +1844,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 57772
+      "UsersEstimate": 57795
     },
     {
       "ID": "S03_OTWA",
@@ -1847,7 +1852,7 @@
       "Name": "Rumors are true",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13130
+      "UsersEstimate": 13135
     },
     {
       "ID": "S04_BRDC",
@@ -1855,7 +1860,7 @@
       "Name": "We\u0027ll be careful",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 10504
+      "UsersEstimate": 10508
     },
     {
       "ID": "S05_SWRA",
@@ -1863,7 +1868,7 @@
       "Name": "Back to your senses",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 5252
+      "UsersEstimate": 5254
     },
     {
       "ID": "S06_LWTC",
@@ -1871,7 +1876,7 @@
       "Name": "They tricked me",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 5252
+      "UsersEstimate": 5254
     },
     {
       "ID": "S07_INWA",
@@ -1879,7 +1884,7 @@
       "Name": "We need to talk",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 5252
+      "UsersEstimate": 5254
     },
     {
       "ID": "S08_MNSA",
@@ -1887,7 +1892,7 @@
       "Name": "I feel drawn to it",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 2626
+      "UsersEstimate": 2627
     },
     {
       "ID": "S09_MNSE",
@@ -1895,7 +1900,7 @@
       "Name": "Here to stay",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 2363
+      "UsersEstimate": 2364
     },
     {
       "ID": "S10_GRSB",
@@ -1903,7 +1908,7 @@
       "Name": "Counting on you",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 2101
+      "UsersEstimate": 2102
     },
     {
       "ID": "S11_MMR6",
@@ -1911,7 +1916,7 @@
       "Name": "This is the end",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 1838
+      "UsersEstimate": 1839
     },
     {
       "ID": "S12_ALL",
@@ -1919,7 +1924,7 @@
       "Name": "We can choose to fight",
       "Percentage": 0.7,
       "XP": 90,
-      "UsersEstimate": 1838
+      "UsersEstimate": 1839
     },
     {
       "ID": "S13_ALL_HARD",
@@ -1967,7 +1972,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 97161
+      "UsersEstimate": 97201
     },
     {
       "ID": "S19_CHALLENGES",
@@ -1999,7 +2004,7 @@
       "Name": "They won\u0027t last long",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 5252
+      "UsersEstimate": 5254
     },
     {
       "ID": "S23_ETHEREAL",
@@ -2023,7 +2028,7 @@
       "Name": "Pride is a sin, young Knight",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 13130
+      "UsersEstimate": 13135
     },
     {
       "ID": "S26_CRTA",
@@ -2039,7 +2044,7 @@
       "Name": "Their fate is sealed",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2363
+      "UsersEstimate": 2364
     },
     {
       "ID": "S28_CTHB",
@@ -2047,7 +2052,7 @@
       "Name": "Not even from this world",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1050
+      "UsersEstimate": 1051
     },
     {
       "ID": "S29_RECOVER",
@@ -2055,7 +2060,7 @@
       "Name": "Your wounds\u2026 They are healing so fast!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 13130
+      "UsersEstimate": 13135
     },
     {
       "ID": "S30_DIAMOND",
@@ -2063,7 +2068,7 @@
       "Name": "Bring it on!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10504
+      "UsersEstimate": 10508
     },
     {
       "ID": "S31_CHNG_DIAMOND",
@@ -2079,7 +2084,7 @@
       "Name": "You want more? I\u0027ve got more!",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 1050
+      "UsersEstimate": 1051
     },
     {
       "ID": "S33_NORMAL_PLATINUM",
@@ -2135,7 +2140,7 @@
       "Name": "I took a risk",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 2626
+      "UsersEstimate": 2627
     },
     {
       "ID": "S40_BONUS",
@@ -2143,14 +2148,14 @@
       "Name": "Let\u0027s raise the stakes!!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 26260
+      "UsersEstimate": 26270
     }
   ],
   "AchievementSets": [
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 262598,
+      "Progressed": 262705,
       "Completed": 1
     }
   ],
@@ -2158,8 +2163,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-10-10T22:57:57.4135919+00:00",
-  "LastChanged_Achievements": "2023-10-12T10:05:31.5469832+00:00",
+  "LastChanged_Achievements": "2023-10-12T11:05:56.3572573+00:00",
   "LastUpdate_AppInfo": "2023-10-05T16:57:03.7740399+00:00",
-  "LastUpdate_Ratings": "2023-10-12T09:58:20.0287723+00:00",
-  "LastUpdate_Achievements": "2023-10-12T10:05:31.5470285+00:00"
+  "LastUpdate_Ratings": "2023-10-12T10:58:23.7882793+00:00",
+  "LastUpdate_Achievements": "2023-10-12T11:05:56.357319+00:00"
 }

@@ -4,11 +4,11 @@
   "ProductSlug": "sunless-sea",
   "Ranking_Rating": 436,
   "Ranking_Popularity": 273,
-  "Ranking_PopularitySum": 352,
+  "Ranking_PopularitySum": 353,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -721,7 +721,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 38696,
+  "EOS_Progressed": 38697,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 371,
   "EOS_NewCompleters": 1,
@@ -18556,6 +18556,11 @@
       "Time": "2023-10-12T10:06:07.9783709+00:00",
       "NumProgressed": 38696,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-12T11:06:33.2014037+00:00",
+      "NumProgressed": 38697,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -18775,7 +18780,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 5417
+      "UsersEstimate": 5418
     },
     {
       "ID": "ach_legacysalvager",
@@ -18935,7 +18940,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 5804
+      "UsersEstimate": 5805
     },
     {
       "ID": "ach_undercurrent",
@@ -18998,15 +19003,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 38696,
+      "Progressed": 38697,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-10-12T03:04:10.3794317+00:00",
-  "LastChanged_Achievements": "2023-10-12T10:06:07.9783704+00:00",
+  "LastChanged_Achievements": "2023-10-12T11:06:33.2014029+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:51.283431+00:00",
-  "LastUpdate_Ratings": "2023-10-12T09:57:25.3522184+00:00",
-  "LastUpdate_Achievements": "2023-10-12T10:06:07.9785212+00:00"
+  "LastUpdate_Ratings": "2023-10-12T10:57:30.839739+00:00",
+  "LastUpdate_Achievements": "2023-10-12T11:06:33.2015667+00:00"
 }

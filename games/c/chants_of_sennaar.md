@@ -9,11 +9,11 @@
 | The Preacher's fate | 8.00% | ~22 |
 | The great escape | 8.00% | ~22 |
 | A new dawn | 7.00% | ~19 |
+| In this together | 6.00% | ~17 |
 | Cable guy | 6.00% | ~17 |
 | Half the way | 6.00% | ~17 |
 | One last step | 6.00% | ~17 |
 | I did it | 5.00% | ~14 |
-| In this together | 5.00% | ~14 |
 | Peace walker | 5.00% | ~14 |
 | A good beginning | 5.00% | ~14 |
 | Alchemists Express | 5.00% | ~14 |

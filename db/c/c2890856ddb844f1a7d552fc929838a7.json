@@ -2097,17 +2097,17 @@
       "ID": "AC07",
       "SetID": "l4abp0",
       "Name": "The Sea dies on the Shore",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 549
+      "UsersEstimate": 558
     },
     {
       "ID": "AC08",
       "SetID": "l4abp0",
       "Name": "Forged in Fire",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 540
+      "UsersEstimate": 549
     },
     {
       "ID": "AC09",
@@ -2249,9 +2249,9 @@
       "ID": "AC26",
       "SetID": "l4abp0",
       "Name": "A Leap of Faith",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 360
+      "UsersEstimate": 369
     },
     {
       "ID": "AC27",
@@ -2321,9 +2321,9 @@
       "ID": "AC35",
       "SetID": "l4abp0",
       "Name": "Flawless Penance",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 72
+      "UsersEstimate": 81
     },
     {
       "ID": "AC36",
@@ -2418,8 +2418,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-10-10T02:57:43.7078143+00:00",
-  "LastChanged_Achievements": "2023-10-12T10:04:12.2809395+00:00",
+  "LastChanged_Achievements": "2023-10-12T11:04:35.1520978+00:00",
   "LastUpdate_AppInfo": "2023-10-10T20:57:16.6962643+00:00",
-  "LastUpdate_Ratings": "2023-10-12T09:58:27.9237413+00:00",
-  "LastUpdate_Achievements": "2023-10-12T10:04:12.2809906+00:00"
+  "LastUpdate_Ratings": "2023-10-12T10:58:32.056382+00:00",
+  "LastUpdate_Achievements": "2023-10-12T11:04:35.1521515+00:00"
 }

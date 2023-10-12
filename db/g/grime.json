@@ -1054,7 +1054,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 151512,
+  "EOS_Progressed": 151522,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 1198,
   "EOS_NewCompleters": 0,
@@ -11259,6 +11259,11 @@
       "Time": "2023-10-12T10:06:44.3286935+00:00",
       "NumProgressed": 151512,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-12T11:08:10.2302057+00:00",
+      "NumProgressed": 151522,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -11516,9 +11521,9 @@
       "ID": "MISC_MAXUPGRADE",
       "SetID": "ccc0dlh",
       "Name": "Breathsmith",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 303
     },
     {
       "ID": "MISC_PULLANENEMY",
@@ -11637,21 +11642,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 151095,
+      "Progressed": 151105,
       "Completed": 1153
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 151512,
+      "Progressed": 151522,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-12T03:00:00.130866+00:00",
-  "LastChanged_Achievements": "2023-10-12T10:06:44.3286929+00:00",
+  "LastChanged_Achievements": "2023-10-12T11:08:10.2302049+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:46.4911319+00:00",
-  "LastUpdate_Ratings": "2023-10-12T09:58:51.5393564+00:00",
-  "LastUpdate_Achievements": "2023-10-12T10:06:44.3287993+00:00"
+  "LastUpdate_Ratings": "2023-10-12T10:58:57.0057149+00:00",
+  "LastUpdate_Achievements": "2023-10-12T11:08:10.2303461+00:00"
 }

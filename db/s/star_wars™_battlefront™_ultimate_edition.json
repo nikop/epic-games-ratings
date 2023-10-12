@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 591,
+  "EOS_Progressed": 592,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1576,6 +1576,11 @@
       "Time": "2023-10-12T05:04:13.5931105+00:00",
       "NumProgressed": 591,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-12T11:04:27.6704924+00:00",
+      "NumProgressed": 592,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -1660,7 +1665,7 @@
       "Name": "The power of the Force",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "achievement_19",
@@ -1788,7 +1793,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "achievement_33",
@@ -1812,7 +1817,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "achievement_36",
@@ -1828,7 +1833,7 @@
       "Name": "Off to a good start",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "achievement_38",
@@ -1860,7 +1865,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "achievement_41",
@@ -1876,7 +1881,7 @@
       "Name": "Not bad for a little furball",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "achievement_43",
@@ -1908,7 +1913,7 @@
       "Name": "Patience you must have",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "achievement_47",
@@ -1940,7 +1945,7 @@
       "Name": "Shoot first",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "achievement_50",
@@ -2091,13 +2096,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 591,
+      "Progressed": 592,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 591,
+      "Progressed": 592,
       "Completed": 1
     }
   ],
@@ -2105,8 +2110,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-12T10:04:04.6399268+00:00",
+  "LastChanged_Achievements": "2023-10-12T11:04:27.6704916+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:04.2927905+00:00",
-  "LastUpdate_Ratings": "2023-10-12T10:03:21.1033652+00:00",
-  "LastUpdate_Achievements": "2023-10-12T10:04:04.6400077+00:00"
+  "LastUpdate_Ratings": "2023-10-12T11:03:31.9791853+00:00",
+  "LastUpdate_Achievements": "2023-10-12T11:04:27.6706276+00:00"
 }

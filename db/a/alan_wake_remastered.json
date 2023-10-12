@@ -524,9 +524,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 67671,
+  "EOS_Progressed": 67672,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 642,
+  "EOS_NewPlayers": 643,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -17739,6 +17739,11 @@
       "Time": "2023-10-12T10:09:03.8604555+00:00",
       "NumProgressed": 67671,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-10-12T11:09:08.7478067+00:00",
+      "NumProgressed": 67672,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 67,
@@ -17814,7 +17819,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10827
+      "UsersEstimate": 10828
     },
     {
       "ID": "10",
@@ -17910,7 +17915,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10827
+      "UsersEstimate": 10828
     },
     {
       "ID": "22",
@@ -18006,7 +18011,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10827
+      "UsersEstimate": 10828
     },
     {
       "ID": "34",
@@ -18285,21 +18290,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 67671,
+      "Progressed": 67672,
       "Completed": 69
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 31139,
+      "Progressed": 31140,
       "Completed": 55
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-09-26T11:01:48.1926095+00:00",
-  "LastChanged_Achievements": "2023-10-12T10:09:03.8604549+00:00",
+  "LastChanged_Achievements": "2023-10-12T11:09:08.7478059+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:13.3553682+00:00",
-  "LastUpdate_Ratings": "2023-10-12T09:59:31.9821903+00:00",
-  "LastUpdate_Achievements": "2023-10-12T10:09:03.8606299+00:00"
+  "LastUpdate_Ratings": "2023-10-12T10:59:40.8033563+00:00",
+  "LastUpdate_Achievements": "2023-10-12T11:09:08.7480151+00:00"
 }

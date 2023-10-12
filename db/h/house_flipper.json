@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 196,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
@@ -1938,9 +1938,9 @@
       "Count": 215
     }
   ],
-  "EOS_Progressed": 20916,
+  "EOS_Progressed": 20917,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -9058,6 +9058,11 @@
       "Time": "2023-10-12T09:06:51.8605788+00:00",
       "NumProgressed": 20916,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-10-12T11:08:17.291088+00:00",
+      "NumProgressed": 20917,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -9085,7 +9090,7 @@
       "Name": "Nerd",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "DoItASAP",
@@ -9093,7 +9098,7 @@
       "Name": "Do it ASAP",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "DolanTrusk",
@@ -9101,7 +9106,7 @@
       "Name": "Worth Every Penny",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 3137
+      "UsersEstimate": 3138
     },
     {
       "ID": "EstateAgent",
@@ -9117,7 +9122,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 19870
+      "UsersEstimate": 19871
     },
     {
       "ID": "GameOver",
@@ -9213,7 +9218,7 @@
       "Name": "Senior Estate Agent",
       "Percentage": 0.6,
       "XP": 150,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "SmothFamily",
@@ -9252,15 +9257,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 20916,
+      "Progressed": 20917,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-10-11T18:00:29.5286227+00:00",
-  "LastChanged_Achievements": "2023-10-12T10:06:51.1352046+00:00",
+  "LastChanged_Achievements": "2023-10-12T11:08:17.291087+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:30.1878353+00:00",
-  "LastUpdate_Ratings": "2023-10-12T09:59:40.3545936+00:00",
-  "LastUpdate_Achievements": "2023-10-12T10:06:51.1352665+00:00"
+  "LastUpdate_Ratings": "2023-10-12T10:59:49.1110913+00:00",
+  "LastUpdate_Achievements": "2023-10-12T11:08:17.2911621+00:00"
 }

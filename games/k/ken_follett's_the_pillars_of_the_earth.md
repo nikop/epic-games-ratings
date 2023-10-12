@@ -6,21 +6,21 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 40.00% | ~6,276 |
+| Tattletale | 40.00% | ~6,277 |
 | Man of politics | 35.00% | ~5,492 |
 | Friends of sorts | 33.00% | ~5,178 |
 | Yet another secret | 33.00% | ~5,178 |
 | Let there be darkness | 32.00% | ~5,021 |
-| End of Book One | 30.00% | ~4,707 |
+| End of Book One | 30.00% | ~4,708 |
 | Garden of Eden | 24.00% | ~3,766 |
 | Full house | 24.00% | ~3,766 |
 | Wannabe knight | 23.00% | ~3,609 |
 | Help an old friend | 22.00% | ~3,452 |
 | Two of us | 20.00% | ~3,138 |
-| Negotiation skills | 18.00% | ~2,824 |
-| Workers' union | 18.00% | ~2,824 |
-| End of Book Two | 18.00% | ~2,824 |
-| Everything's in order | 17.00% | ~2,667 |
+| Negotiation skills | 18.00% | ~2,825 |
+| Workers' union | 18.00% | ~2,825 |
+| End of Book Two | 18.00% | ~2,825 |
+| Everything's in order | 17.00% | ~2,668 |
 | Twist of Fate | 14.00% | ~2,197 |
 | Jack was here! | 14.00% | ~2,197 |
 | Exterminator | 13.00% | ~2,040 |
@@ -37,7 +37,7 @@ Number of Ratings: 368  (23.09.2022)
 | The End. | 9.00% | ~1,412 |
 | A cry for help | 8.00% | ~1,255 |
 | Silentium est aureum | 7.00% | ~1,098 |
-| Rebel without a cause | 6.00% | ~941 |
+| Rebel without a cause | 6.00% | ~942 |
 | Staring contest champion | 5.00% | ~785 |
 | Lone wolf | 5.00% | ~785 |
 | Vox Populi | 5.00% | ~785 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~471 |
 | Boy of mystery | 2.00% | ~314 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,691 (Ranked 133)  
+Progressed: 15,692 (Ranked 133)  
 Completed: 113 (0.72%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 113 (0.72%) (Ranked 156)
 | 2023-10-09 | 15,653 | 113 |
 | 2023-10-10 | 15,670 | 113 |
 | 2023-10-11 | 15,686 | 113 |
-| 2023-10-12 | 15,691 | 113 |
+| 2023-10-12 | 15,692 | 113 |
 ## Awards
 Max (Easy Puzzles): 151  (Ranked 307)  
 Sum: 193 (Ranked 388)  
