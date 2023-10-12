@@ -124,7 +124,7 @@
 | 119 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,355 | 92 |
 | 119 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 1,004 | 149 |
 | 119 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.76 | 0 | 533 |
-| 119 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 893 | 154 |
+| 119 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 902 | 154 |
 | 119 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.76 | 23,469 | 17 |
 | 119 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,691 | 75 |
 | 119 | [Journey](games/j/journey.md) | 4.76 | 0 | 533 |
@@ -138,7 +138,7 @@
 | 119 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.76 | 49 | 416 |
 | 119 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 41 | 439 |
 | 119 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 0 | 533 |
-| 119 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.76 | 382 | 226 |
+| 119 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.76 | 384 | 226 |
 | 140 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 6,190 | 59 |
 | 140 | [Diabotical](games/d/diabotical.md) | 4.75 | 284 | 248 |
 | 140 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 757 | 168 |
@@ -741,6 +741,7 @@
 | 730 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.39 | 0 | 533 |
 | 740 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 0 | 533 |
 | 740 | [Beholder 3](games/b/beholder_3.md) | 4.38 | 0 | 533 |
+| 740 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 4.38 | 55 | 403 |
 | 740 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 588 | 191 |
 | 740 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 164 | 301 |
 | 740 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 173 | 292 |
@@ -749,16 +750,15 @@
 | 740 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.38 | 0 | 533 |
 | 740 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 533 |
 | 740 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.38 | 0 | 533 |
-| 750 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 0 | 533 |
-| 750 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 4.37 | 55 | 403 |
-| 750 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.37 | 0 | 533 |
-| 750 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,152 | 108 |
-| 750 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 533 |
-| 750 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 4.37 | 71 | 387 |
-| 750 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.37 | 0 | 533 |
-| 750 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.37 | 0 | 533 |
-| 750 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.37 | 242 | 262 |
-| 750 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.37 | 32 | 468 |
+| 751 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 0 | 533 |
+| 751 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.37 | 0 | 533 |
+| 751 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,152 | 108 |
+| 751 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 533 |
+| 751 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 4.37 | 72 | 386 |
+| 751 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.37 | 0 | 533 |
+| 751 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.37 | 0 | 533 |
+| 751 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.37 | 242 | 262 |
+| 751 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.37 | 32 | 468 |
 | 760 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.36 | 0 | 533 |
 | 760 | [Core](games/c/core.md) | 4.36 | 757 | 168 |
 | 760 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 173 | 292 |
@@ -783,7 +783,7 @@
 | 781 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 489 |
 | 781 | [Encased](games/e/encased.md) | 4.34 | 146 | 310 |
 | 781 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.34 | 0 | 533 |
-| 781 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 258 | 258 |
+| 781 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 259 | 258 |
 | 781 | [Tails Noir](games/b/backbone.md) | 4.34 | 0 | 533 |
 | 781 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.34 | 2,694 | 99 |
 | 787 | [Ashen](games/a/ashen.md) | 4.33 | 0 | 533 |
@@ -892,7 +892,7 @@
 | 890 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 412 |
 | 890 | [Grand Tactician: The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.19 | 0 | 533 |
 | 890 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 78 | 375 |
-| 890 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 206,199 | 5 |
+| 890 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 206,343 | 5 |
 | 890 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 533 |
 | 890 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 76 | 379 |
 | 890 | [Windbound](games/w/windbound.md) | 4.19 | 0 | 533 |
