@@ -23,12 +23,12 @@ Rating: 4.50 (Ranked 573)
 | Icing on the Cake | 0.90% | ~237 |
 | Animated | 0.80% | ~211 |
 | Daily Dose | 0.80% | ~211 |
+| Welcome to the Crew | 0.80% | ~211 |
 | Ectoplasmic Entity | 0.70% | ~185 |
 | Ghostbuster In Training | 0.70% | ~185 |
 | Right back at ya | 0.70% | ~185 |
 | Summoner | 0.70% | ~185 |
 | Terrifying | 0.70% | ~185 |
-| Welcome to the Crew | 0.70% | ~185 |
 | Side Hustle | 0.60% | ~158 |
 | Skilled | 0.60% | ~158 |
 | Stunner | 0.60% | ~158 |

@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 296)  
+Rating: 4.65 (Ranked 295)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -24,6 +24,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong | 1.00% | ~146 |
 | Warrior | 1.00% | ~146 |
 | Developing Cities | 1.00% | ~146 |
+| Strong Cities | 1.00% | ~146 |
 | Hanging Gardens | 1.00% | ~146 |
 | Oracle | 1.00% | ~146 |
 | Christianity | 1.00% | ~146 |
@@ -36,11 +37,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightened | 0.90% | ~132 |
 | Magnificent | 0.90% | ~132 |
 | Wise | 0.90% | ~132 |
-| Strong Cities | 0.90% | ~132 |
 | Ishtar Gate | 0.90% | ~132 |
 | Lighthouse | 0.90% | ~132 |
 | Pyramids | 0.90% | ~132 |
 | Greek Paganism | 0.90% | ~132 |
+| Kushite Pyramids | 0.90% | ~132 |
 | Brilliant | 0.80% | ~117 |
 | Fountainhead | 0.80% | ~117 |
 | Able Difficulty | 0.80% | ~117 |
@@ -48,9 +49,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Ziggurat | 0.80% | ~117 |
 | Learn to Play 1 | 0.80% | ~117 |
 | Carthaginian Paganism | 0.80% | ~117 |
+| Egyptian Paganism | 0.80% | ~117 |
 | Roman Paganism | 0.80% | ~117 |
 | Zoroastrianism | 0.80% | ~117 |
-| Kushite Pyramids | 0.80% | ~117 |
+| Regicide | 0.70% | ~102 |
 | Drillmaster | 0.70% | ~102 |
 | Great | 0.70% | ~102 |
 | Artisans | 0.70% | ~102 |
@@ -59,8 +61,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Necropolis | 0.70% | ~102 |
 | Learn to Play 2 | 0.70% | ~102 |
 | Manichaeism | 0.70% | ~102 |
-| Egyptian Paganism | 0.70% | ~102 |
-| Regicide | 0.60% | ~88 |
 | Mighty | 0.60% | ~88 |
 | Valiant | 0.60% | ~88 |
 | Legendary Cities | 0.60% | ~88 |
@@ -93,6 +93,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Iron | 0.40% | ~58 |
 | Circus Maximus | 0.40% | ~58 |
 | Hagia Sophia | 0.40% | ~58 |
+| Church of the Holy Sepulchre | 0.40% | ~58 |
 | Temple of Solomon | 0.40% | ~58 |
 | Pantheon | 0.40% | ~58 |
 | Via Recta Souk | 0.40% | ~58 |
@@ -111,7 +112,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Clerics | 0.30% | ~44 |
 | Hunters | 0.30% | ~44 |
 | Statesmen | 0.30% | ~44 |
-| Church of the Holy Sepulchre | 0.30% | ~44 |
 | Learn to Play 5 | 0.30% | ~44 |
 | Babylonia | 0.30% | ~44 |
 | Carthage | 0.30% | ~44 |
@@ -140,6 +140,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Peacemaker | 0.20% | ~29 |
 | Ready | 0.20% | ~29 |
 | Noble Difficulty | 0.20% | ~29 |
+| Cao'an | 0.20% | ~29 |
 | Adur Burzen-Mihr | 0.20% | ~29 |
 | Rome | 0.20% | ~29 |
 | Old World Order | 0.20% | ~29 |
@@ -228,7 +229,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Knot So Hard | 0.10% | ~15 |
 | Pharaoh | 0.10% | ~15 |
 | A Tyresome Siege | 0.10% | ~15 |
-| Cao'an | 0.10% | ~15 |
 | Learn By Playing 1 - Able | 0.10% | ~15 |
 | Learn By Playing 2 - Just | 0.10% | ~15 |
 | Learn By Playing 3 - Good | 0.10% | ~15 |
@@ -349,8 +349,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,623 (Ranked 134)  
-Completed: 5 (0.03%) (Ranked 283)  
+Progressed: 14,624 (Ranked 134)  
+Completed: 5 (0.03%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -524,7 +524,7 @@ Completed: 5 (0.03%) (Ranked 283)
 | 2023-10-09 | 14,562 | 5 |
 | 2023-10-10 | 14,586 | 5 |
 | 2023-10-11 | 14,606 | 5 |
-| 2023-10-12 | 14,623 | 5 |
+| 2023-10-12 | 14,624 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,835 (Ranked 210)  

@@ -5,9 +5,9 @@
   "Ranking_Rating": 119,
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 31,
-  "Ranking_EOS_Progress": 46,
+  "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8830,10 +8830,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 45672,
       "NumberOfAwardsMax": 23469
+    },
+    {
+      "Time": "2023-10-12T22:00:23.4266416+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 45698,
+      "NumberOfAwardsMax": 23469
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 45672,
+  "NumberOfAwards": 45698,
   "NumberOfAwardsMax": 23469,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8847,13 +8853,13 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 11710
+      "Count": 11721
     },
     {
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 935
+      "Count": 937
     },
     {
       "Text": "This game has Amazing Characters",
@@ -8883,7 +8889,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1121
+      "Count": 1126
     },
     {
       "Text": "This game is Highly Recommended",
@@ -8895,7 +8901,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1136
+      "Count": 1144
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -8910,7 +8916,7 @@
       "Count": 710
     }
   ],
-  "EOS_Progressed": 298211,
+  "EOS_Progressed": 298213,
   "EOS_Completed": 485,
   "EOS_NewPlayers": 344,
   "EOS_NewCompleters": 4,
@@ -27725,6 +27731,11 @@
       "Time": "2023-10-12T21:04:19.2703966+00:00",
       "NumProgressed": 298211,
       "NumCompleted": 485
+    },
+    {
+      "Time": "2023-10-12T22:04:18.8350919+00:00",
+      "NumProgressed": 298213,
+      "NumCompleted": 485
     }
   ],
   "TotalAchievements": 45,
@@ -27856,7 +27867,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35785
+      "UsersEstimate": 35786
     },
     {
       "ID": "PFA_24",
@@ -27888,7 +27899,7 @@
       "Name": "Going Through the Potions",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11928
+      "UsersEstimate": 11929
     },
     {
       "ID": "PFA_28",
@@ -27936,7 +27947,7 @@
       "Name": "Room with a View",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11928
+      "UsersEstimate": 11929
     },
     {
       "ID": "PFA_33",
@@ -27984,7 +27995,7 @@
       "Name": "The Intrepid Explorer",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 11928
+      "UsersEstimate": 11929
     },
     {
       "ID": "PFA_39",
@@ -28000,7 +28011,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11928
+      "UsersEstimate": 11929
     },
     {
       "ID": "PFA_40",
@@ -28056,7 +28067,7 @@
       "Name": "The Wise Owl",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11928
+      "UsersEstimate": 11929
     },
     {
       "ID": "PFA_6",
@@ -28064,7 +28075,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38767
+      "UsersEstimate": 38768
     },
     {
       "ID": "PFA_7",
@@ -28072,7 +28083,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38767
+      "UsersEstimate": 38768
     },
     {
       "ID": "PFA_8",
@@ -28080,7 +28091,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 35785
+      "UsersEstimate": 35786
     },
     {
       "ID": "PFA_9",
@@ -28095,16 +28106,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298211,
+      "Progressed": 298213,
       "Completed": 485
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-10-12T20:00:46.7048393+00:00",
-  "LastChanged_Achievements": "2023-10-12T21:04:19.2703955+00:00",
+  "LastChanged": "2023-10-12T22:00:23.4266415+00:00",
+  "LastChanged_Achievements": "2023-10-12T22:04:18.8350915+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:01.0338203+00:00",
-  "LastUpdate_Ratings": "2023-10-12T20:59:52.0591527+00:00",
-  "LastUpdate_Achievements": "2023-10-12T21:04:19.2705609+00:00"
+  "LastUpdate_Ratings": "2023-10-12T22:00:23.426642+00:00",
+  "LastUpdate_Achievements": "2023-10-12T22:04:18.8352106+00:00"
 }

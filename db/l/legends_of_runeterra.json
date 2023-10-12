@@ -2,13 +2,13 @@
   "ID": "4fb89e9f47fe48258314c366649c398e",
   "Name": "Legends of Runeterra",
   "ProductSlug": "legends-of-runeterra",
-  "Ranking_Rating": 280,
-  "Ranking_Popularity": 290,
+  "Ranking_Rating": 295,
+  "Ranking_Popularity": 289,
   "Ranking_PopularitySum": 229,
   "Ranking_EOS_Progress": 668,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 396,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 395,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-11-04T16:30:00+00:00",
     "PcReleaseDate": "2020-04-29T18:06:30+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "CN, VN"
     }
   },
-  "Rating": 4.66,
+  "Rating": 4.65,
   "NumberOfRatings": 431,
   "RatingHistory": [
     {
@@ -2109,11 +2109,17 @@
       "Rating": 4.66,
       "NumberOfAwards": 1426,
       "NumberOfAwardsMax": 180
+    },
+    {
+      "Time": "2023-10-12T22:03:08.0042342+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1429,
+      "NumberOfAwardsMax": 181
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1426,
-  "NumberOfAwardsMax": 180,
+  "NumberOfAwards": 1429,
+  "NumberOfAwardsMax": 181,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -2150,7 +2156,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 180
+      "Count": 181
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2168,7 +2174,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 136
+      "Count": 138
     },
     {
       "Text": "This game has Competitive Players",
@@ -2194,8 +2200,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:06.6748123+00:00",
-  "LastChanged": "2023-10-11T19:03:52.690228+00:00",
+  "LastChanged": "2023-10-12T22:03:08.004234+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:31.0841356+00:00",
-  "LastUpdate_Ratings": "2023-10-12T21:03:17.056819+00:00",
-  "LastUpdate_Achievements": "2023-10-12T21:06:25.6352614+00:00"
+  "LastUpdate_Ratings": "2023-10-12T22:03:08.0042349+00:00",
+  "LastUpdate_Achievements": "2023-10-12T22:07:06.53435+00:00"
 }

@@ -41,13 +41,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fated Encounters | 0.80% | ~1,100 |
 | Power of Love | 0.80% | ~1,100 |
 | Flawless Fusion | 0.80% | ~1,100 |
+| Royal Ransom | 0.80% | ~1,100 |
 | Helping Hand | 0.80% | ~1,100 |
 | Natural 20 | 0.80% | ~1,100 |
 | Tax not Included | 0.70% | ~962 |
 | For the Hoard! | 0.70% | ~962 |
 | This Power Level...! | 0.70% | ~962 |
 | Trash to Treasure | 0.70% | ~962 |
-| Royal Ransom | 0.70% | ~962 |
 | Seasoned Journeyman | 0.70% | ~962 |
 | Magical Harmony | 0.70% | ~962 |
 | Special Ingredient | 0.70% | ~962 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,492 (Ranked 73)  
+Progressed: 137,493 (Ranked 73)  
 Completed: 168 (0.12%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 168 (0.12%) (Ranked 240)
 | 2023-10-09 | 137,384 | 167 |
 | 2023-10-10 | 137,421 | 168 |
 | 2023-10-11 | 137,455 | 168 |
-| 2023-10-12 | 137,492 | 168 |
+| 2023-10-12 | 137,493 | 168 |
 ## Awards
 Max (Great for Beginners): 4,782  (Ranked 71)  
 Sum: 27,374 (Ranked 50)  

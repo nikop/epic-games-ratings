@@ -29,13 +29,13 @@
 | Krogan Ally | 45.00% | ~299 |
 | Merciless | 45.00% | ~299 |
 | Sentinel Ally | 44.00% | ~292 |
+| Missing in Action | 43.00% | ~286 |
 | Head Hunter | 43.00% | ~286 |
-| Missing in Action | 42.00% | ~279 |
 | Very Elusive | 42.00% | ~279 |
 | Operative | 42.00% | ~279 |
 | Veteran | 41.00% | ~272 |
 | Scholar | 41.00% | ~272 |
-| Power Full | 39.00% | ~259 |
+| Power Full | 40.00% | ~266 |
 | The Professor | 38.00% | ~252 |
 | Completionist | 37.00% | ~246 |
 | The Archangel | 37.00% | ~246 |
@@ -45,9 +45,9 @@
 | Galactic Explorer | 35.00% | ~232 |
 | Archivist | 34.00% | ~226 |
 | Broke, Blind, and Bedlam | 34.00% | ~226 |
+| The Assassin | 33.00% | ~219 |
 | The Quarian | 33.00% | ~219 |
 | Ghost Ship | 32.00% | ~212 |
-| The Assassin | 32.00% | ~212 |
 | The Justicar | 32.00% | ~212 |
 | The Prodigal | 32.00% | ~212 |
 | A Personal Touch | 31.00% | ~206 |

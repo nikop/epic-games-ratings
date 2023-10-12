@@ -43,10 +43,10 @@ Rating: 4.47 (Ranked 619)
 | Networker | 17.00% | ~342 |
 | Assimilated | 16.00% | ~322 |
 | Locusts | 15.00% | ~302 |
+| Bold and beautiful | 15.00% | ~302 |
 | Settler | 15.00% | ~302 |
 | Go West | 14.00% | ~282 |
 | Max Power | 14.00% | ~282 |
-| Bold and beautiful | 14.00% | ~282 |
 | A new Hope | 11.00% | ~221 |
 | Tycoon | 11.00% | ~221 |
 | Unstoppable | 9.00% | ~181 |

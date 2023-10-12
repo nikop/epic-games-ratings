@@ -5236,18 +5236,24 @@
       "Rating": 4.54,
       "NumberOfAwards": 9565,
       "NumberOfAwardsMax": 6398
+    },
+    {
+      "Time": "2023-10-12T22:01:43.4299792+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 9574,
+      "NumberOfAwardsMax": 6407
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9565,
-  "NumberOfAwardsMax": 6398,
+  "NumberOfAwards": 9574,
+  "NumberOfAwardsMax": 6407,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6398
+      "Count": 6407
     },
     {
       "Text": "This game has Diverse Characters",
@@ -5298,9 +5304,9 @@
       "Count": 377
     }
   ],
-  "EOS_Progressed": 694678,
+  "EOS_Progressed": 694700,
   "EOS_Completed": 2216,
-  "EOS_NewPlayers": 3417,
+  "EOS_NewPlayers": 3424,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -25158,6 +25164,11 @@
       "Time": "2023-10-12T21:04:03.8324303+00:00",
       "NumProgressed": 694678,
       "NumCompleted": 2216
+    },
+    {
+      "Time": "2023-10-12T22:03:59.4622583+00:00",
+      "NumProgressed": 694700,
+      "NumCompleted": 2216
     }
   ],
   "TotalAchievements": 45,
@@ -25169,7 +25180,7 @@
       "Name": "Dr. Reed, I Presume?",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20840
+      "UsersEstimate": 20841
     },
     {
       "ID": "ach_a_taste_of_stardom",
@@ -25185,7 +25196,7 @@
       "Name": "Git Gutte!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20840
+      "UsersEstimate": 20841
     },
     {
       "ID": "ach_anger_management",
@@ -25209,7 +25220,7 @@
       "Name": "LA Influential",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 3473
+      "UsersEstimate": 3474
     },
     {
       "ID": "ach_blueprinted",
@@ -25233,7 +25244,7 @@
       "Name": "Break A Leg",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20840
+      "UsersEstimate": 20841
     },
     {
       "ID": "ach_contender",
@@ -25289,7 +25300,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20840
+      "UsersEstimate": 20841
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -25313,7 +25324,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20840
+      "UsersEstimate": 20841
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -25321,7 +25332,7 @@
       "Name": "Friends Like These",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20840
+      "UsersEstimate": 20841
     },
     {
       "ID": "ach_hotel_california",
@@ -25329,7 +25340,7 @@
       "Name": "Hotel California",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20840
+      "UsersEstimate": 20841
     },
     {
       "ID": "ach_impressive_aim",
@@ -25345,7 +25356,7 @@
       "Name": "Internet Famous",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5557
+      "UsersEstimate": 5558
     },
     {
       "ID": "ach_investigator",
@@ -25369,7 +25380,7 @@
       "Name": "Apex Predator",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20840
+      "UsersEstimate": 20841
     },
     {
       "ID": "ach_knowledgeable",
@@ -25393,7 +25404,7 @@
       "Name": "Gore Horse",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3473
+      "UsersEstimate": 3474
     },
     {
       "ID": "ach_metropolitan",
@@ -25441,7 +25452,7 @@
       "Name": "Stacking the Deck",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20840
+      "UsersEstimate": 20841
     },
     {
       "ID": "ach_star_performance",
@@ -25449,7 +25460,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20840
+      "UsersEstimate": 20841
     },
     {
       "ID": "ach_survival_expert",
@@ -25505,7 +25516,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 27787
+      "UsersEstimate": 27788
     },
     {
       "ID": "ach_well_known_survivor",
@@ -25528,22 +25539,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 694678,
+      "Progressed": 694700,
       "Completed": 2216
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 20220,
-      "Completed": 20220
+      "Progressed": 20242,
+      "Completed": 20242
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-10-12T20:02:11.0143918+00:00",
-  "LastChanged_Achievements": "2023-10-12T21:04:03.8324297+00:00",
+  "LastChanged": "2023-10-12T22:01:43.429979+00:00",
+  "LastChanged_Achievements": "2023-10-12T22:03:59.4622579+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:12.9143544+00:00",
-  "LastUpdate_Ratings": "2023-10-12T21:00:47.8190937+00:00",
-  "LastUpdate_Achievements": "2023-10-12T21:04:03.8326002+00:00"
+  "LastUpdate_Ratings": "2023-10-12T22:01:43.4299796+00:00",
+  "LastUpdate_Achievements": "2023-10-12T22:03:59.4623811+00:00"
 }

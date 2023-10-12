@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -15161,9 +15161,9 @@
       "ID": "Welcome_Crew",
       "SetID": "819popo",
       "Name": "Welcome to the Crew",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 185
+      "UsersEstimate": 211
     },
     {
       "ID": "Whoopsie",
@@ -15186,8 +15186,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-12T20:57:58.6775817+00:00",
-  "LastChanged_Achievements": "2023-10-12T21:05:10.5668452+00:00",
+  "LastChanged_Achievements": "2023-10-12T22:05:26.7689074+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:25.2013042+00:00",
-  "LastUpdate_Ratings": "2023-10-12T20:57:58.6775823+00:00",
-  "LastUpdate_Achievements": "2023-10-12T21:05:10.5669733+00:00"
+  "LastUpdate_Ratings": "2023-10-12T21:57:41.5606816+00:00",
+  "LastUpdate_Achievements": "2023-10-12T22:05:26.7690064+00:00"
 }

@@ -12,12 +12,12 @@ Rating: 4.64 (Ranked 320)
 | Cold-Blooded Driller | 0.80% | ~194 |
 | Don't Knife The Hand That Feeds | 0.80% | ~194 |
 | Are You Packin'? | 0.70% | ~169 |
+| Hardest Battle In The Game | 0.70% | ~169 |
 | Who's The Boss? | 0.70% | ~169 |
 | Creature Feature | 0.60% | ~145 |
 | Bring A Knife to a Gun Fight | 0.60% | ~145 |
 | RIP Davey Glutes | 0.60% | ~145 |
 | We're All Very Impressed, Trust Me | 0.60% | ~145 |
-| Hardest Battle In The Game | 0.60% | ~145 |
 | Bathe With A Giant Nude Alien | 0.60% | ~9 |
 | Lezduit! | 0.50% | ~121 |
 | Legendary Bounty Hunter | 0.50% | ~121 |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 320)
 | It's Like The Santa Clause | 0.10% | ~1 |
 | That's B.A.L.L., Folks | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,197 (Ranked 119)  
+Progressed: 24,199 (Ranked 119)  
 Completed: 13 (0.05%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 13 (0.05%) (Ranked 270)
 | 2023-10-09 | 24,168 | 13 |
 | 2023-10-10 | 24,177 | 13 |
 | 2023-10-11 | 24,192 | 13 |
-| 2023-10-12 | 24,197 | 13 |
+| 2023-10-12 | 24,199 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

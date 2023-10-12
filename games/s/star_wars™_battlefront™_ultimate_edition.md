@@ -12,7 +12,7 @@
 | I suggest a new strategy | 20.00% | ~121 |
 | Great shot, kid! | 19.00% | ~115 |
 | All right, I'll give it a try | 18.00% | ~109 |
-| Shoot first | 17.00% | ~103 |
+| Shoot first | 18.00% | ~109 |
 | The power of the Force | 16.00% | ~96 |
 | Together we can rule the galaxy | 16.00% | ~96 |
 | Collector | 15.00% | ~90 |

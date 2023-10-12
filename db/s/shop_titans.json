@@ -6484,7 +6484,7 @@
       "Count": 3759
     }
   ],
-  "EOS_Progressed": 137492,
+  "EOS_Progressed": 137493,
   "EOS_Completed": 168,
   "EOS_NewPlayers": 334,
   "EOS_NewCompleters": 6,
@@ -24434,6 +24434,11 @@
       "Time": "2023-10-12T21:09:08.2119393+00:00",
       "NumProgressed": 137492,
       "NumCompleted": 168
+    },
+    {
+      "Time": "2023-10-12T22:08:28.4513963+00:00",
+      "NumProgressed": 137493,
+      "NumCompleted": 168
     }
   ],
   "TotalAchievements": 112,
@@ -24939,9 +24944,9 @@
       "ID": "gold04",
       "SetID": "anfd17p",
       "Name": "Royal Ransom",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 962
+      "UsersEstimate": 1100
     },
     {
       "ID": "gold05",
@@ -25340,15 +25345,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 137492,
+      "Progressed": 137493,
       "Completed": 168
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-12T14:00:09.8218051+00:00",
-  "LastChanged_Achievements": "2023-10-12T21:09:08.2119385+00:00",
+  "LastChanged_Achievements": "2023-10-12T22:08:28.4513957+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:52.7124415+00:00",
-  "LastUpdate_Ratings": "2023-10-12T21:00:30.3965168+00:00",
-  "LastUpdate_Achievements": "2023-10-12T21:09:08.2122107+00:00"
+  "LastUpdate_Ratings": "2023-10-12T22:01:18.7943648+00:00",
+  "LastUpdate_Achievements": "2023-10-12T22:08:28.4516064+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "Railway Empire 2",
   "ProductSlug": "railway-empire-2-46840c",
   "Ranking_Rating": 619,
-  "Ranking_Popularity": 532,
-  "Ranking_PopularitySum": 532,
+  "Ranking_Popularity": 533,
+  "Ranking_PopularitySum": 533,
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -5507,9 +5507,9 @@
       "ID": "A39",
       "SetID": "9b7p7eo",
       "Name": "Bold and beautiful",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 282
+      "UsersEstimate": 302
     },
     {
       "ID": "A40",
@@ -5644,8 +5644,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-10-01T08:59:20.9835547+00:00",
-  "LastChanged_Achievements": "2023-10-12T21:05:56.6903038+00:00",
+  "LastChanged_Achievements": "2023-10-12T22:06:28.4578147+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:44.8210559+00:00",
-  "LastUpdate_Ratings": "2023-10-12T21:00:22.8562156+00:00",
-  "LastUpdate_Achievements": "2023-10-12T21:05:56.6903869+00:00"
+  "LastUpdate_Ratings": "2023-10-12T22:01:08.0343405+00:00",
+  "LastUpdate_Achievements": "2023-10-12T22:06:28.457879+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "752b276b9bff4070be17669b1519eeb1",
   "Name": "Snowbreak Containment Zone",
   "ProductSlug": "snowbreak-containment-zone-abc820",
-  "Ranking_Rating": 730,
+  "Ranking_Rating": 740,
   "Ranking_Popularity": 433,
-  "Ranking_PopularitySum": 370,
+  "Ranking_PopularitySum": 369,
   "Ranking_EOS_Progress": 668,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 396,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 395,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-07-20T02:00:00+00:00",
     "PcReleaseDate": "2023-07-20T02:00:00+00:00",
@@ -19,7 +19,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.39,
+  "Rating": 4.38,
   "RatingHistory": [
     {
       "Time": "2023-07-29T23:57:57.562026+00:00",
@@ -668,10 +668,16 @@
       "Rating": 4.39,
       "NumberOfAwards": 235,
       "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2023-10-12T22:00:03.3774061+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 236,
+      "NumberOfAwardsMax": 44
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 235,
+  "NumberOfAwards": 236,
   "NumberOfAwardsMax": 44,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -685,7 +691,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 40
+      "Count": 41
     },
     {
       "Text": "This game is Great for Beginners",
@@ -748,8 +754,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-25T06:57:36.7654235+00:00",
   "FirstSeenRating": "2023-07-29T23:57:57.5620258+00:00",
-  "LastChanged": "2023-10-12T20:00:24.3878311+00:00",
+  "LastChanged": "2023-10-12T22:00:03.3774059+00:00",
   "LastUpdate_AppInfo": "2023-10-12T15:57:03.8228327+00:00",
-  "LastUpdate_Ratings": "2023-10-12T20:59:37.3988927+00:00",
-  "LastUpdate_Achievements": "2023-10-12T21:06:55.9335992+00:00"
+  "LastUpdate_Ratings": "2023-10-12T22:00:03.3774064+00:00",
+  "LastUpdate_Achievements": "2023-10-12T22:07:47.1854378+00:00"
 }

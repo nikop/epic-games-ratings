@@ -4,7 +4,7 @@
   "ProductSlug": "aya-and-naya-b7791e",
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 76,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-08-17T20:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 890,
+  "EOS_Progressed": 891,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.71,
+  "EOS_Completed_Percentage": 3.7,
   "EosHistory": [
     {
       "Time": "2023-08-08T23:02:04.1783243+00:00",
@@ -2066,6 +2066,11 @@
       "Time": "2023-10-12T21:09:25.3343041+00:00",
       "NumProgressed": 890,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-10-12T22:08:50.8603975+00:00",
+      "NumProgressed": 891,
+      "NumCompleted": 33
     }
   ],
   "AchievementsAdded": "2023-08-08T22:02:18.1743145+00:00",
@@ -2110,21 +2115,21 @@
       "Name": "Finished!",
       "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     }
   ],
   "AchievementSets": [
     {
       "ID": "6igjng7",
       "IsBase": true,
-      "Progressed": 890,
+      "Progressed": 891,
       "Completed": 33
     }
   ],
   "FirstSeen": "2023-08-19T18:58:05.6794692+00:00",
   "FirstSeenAchievements": "2023-08-08T21:02:12.6548497+00:00",
-  "LastChanged_Achievements": "2023-10-12T21:09:25.3343034+00:00",
+  "LastChanged_Achievements": "2023-10-12T22:08:50.8603971+00:00",
   "LastUpdate_AppInfo": "2023-10-09T13:09:08.8929434+00:00",
-  "LastUpdate_Ratings": "2023-10-12T20:59:09.5035754+00:00",
-  "LastUpdate_Achievements": "2023-10-12T21:09:25.3343247+00:00"
+  "LastUpdate_Ratings": "2023-10-12T21:59:25.4355617+00:00",
+  "LastUpdate_Achievements": "2023-10-12T22:08:50.860413+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1060,9 +1060,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 151655,
+  "EOS_Progressed": 151668,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1196,
+  "EOS_NewPlayers": 1195,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11320,6 +11320,11 @@
       "Time": "2023-10-12T21:07:20.2518321+00:00",
       "NumProgressed": 151655,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-12T22:08:18.9699868+00:00",
+      "NumProgressed": 151668,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -11449,9 +11454,9 @@
       "ID": "DEFEAT_FLOWERVULTURE",
       "SetID": "72k7oh",
       "Name": "Host",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 302
+      "UsersEstimate": 454
     },
     {
       "ID": "DEFEAT_GRIEVINGROCKGIANT",
@@ -11627,7 +11632,7 @@
       "Name": "Dream",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "QUEST_CODA",
@@ -11698,21 +11703,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 151238,
+      "Progressed": 151251,
       "Completed": 1155
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 151655,
+      "Progressed": 151668,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-12T16:59:41.5193052+00:00",
-  "LastChanged_Achievements": "2023-10-12T21:07:20.2518313+00:00",
+  "LastChanged_Achievements": "2023-10-12T22:08:18.9699864+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:46.4911319+00:00",
-  "LastUpdate_Ratings": "2023-10-12T20:59:14.7107237+00:00",
-  "LastUpdate_Achievements": "2023-10-12T21:07:20.2519382+00:00"
+  "LastUpdate_Ratings": "2023-10-12T21:59:33.3915303+00:00",
+  "LastUpdate_Achievements": "2023-10-12T22:08:18.9700718+00:00"
 }

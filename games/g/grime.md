@@ -24,17 +24,17 @@ Number of Ratings: 46  (23.09.2022)
 | Assimilation | 0.30% | ~455 |
 | Shapely | 0.30% | ~455 |
 | Glare | 0.30% | ~454 |
+| Host | 0.30% | ~454 |
 | Predator | 0.30% | ~455 |
 | Breath | 0.20% | ~303 |
 | Hunt Down | 0.20% | ~303 |
 | Artisan | 0.20% | ~303 |
-| Host | 0.20% | ~302 |
 | Hush | 0.20% | ~303 |
 | Celebration | 0.20% | ~303 |
 | Inevitable | 0.20% | ~303 |
 | All-Seeing | 0.20% | ~303 |
 | Breathsmith | 0.20% | ~303 |
-| Dream | 0.20% | ~302 |
+| Dream | 0.20% | ~303 |
 | Spiral Heart | 0.10% | ~152 |
 | Bloodhunter | 0.10% | ~152 |
 | Skinmaker | 0.10% | ~152 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~151 |
 | Intensify | 0.10% | ~151 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 151,655 (Ranked 71)  
+Progressed: 151,668 (Ranked 71)  
 Completed: 1 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 1 (0.00%) (Ranked 314)
 | 2023-10-09 | 151,449 | 1 |
 | 2023-10-10 | 151,469 | 1 |
 | 2023-10-11 | 151,477 | 1 |
-| 2023-10-12 | 151,655 | 1 |
+| 2023-10-12 | 151,668 | 1 |
 ## Awards
 Max (Highly Recommended): 42  (Ranked 435)  
 Sum: 280 (Ranked 357)  

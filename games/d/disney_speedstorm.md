@@ -5,32 +5,32 @@ Rating: 4.41 (Ranked 696)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 5.00% | ~10,560 |
-| IT MAKES BOOM! | 3.00% | ~6,336 |
-| EXTRA BOOST | 2.00% | ~4,224 |
-| PROTECTED | 1.00% | ~2,112 |
-| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,112 |
-| PRO | 1.00% | ~2,112 |
-| AGGRESSIVE RACER | 0.90% | ~1,901 |
-| A TIGER'S FEAR | 0.80% | ~1,690 |
-| ACE SPEEDSTER | 0.50% | ~1,056 |
-| IT'S A LONG WAY TO THE TOP | 0.40% | ~845 |
-| DEFEAT OUR CHAMPION | 0.40% | ~845 |
-| PERFECTLY POISED | 0.30% | ~634 |
-| TRAINING HARD | 0.30% | ~634 |
-| RELEASE THE KRAKEN | 0.30% | ~634 |
-| BE OUR GUEST | 0.30% | ~634 |
-| ACE BRAWLER | 0.30% | ~634 |
-| ACE DEFENDER | 0.30% | ~634 |
-| THE EYE OF THE HUNTER | 0.30% | ~634 |
-| FRIENDLY | 0.30% | ~634 |
-| MASTER | 0.30% | ~634 |
-| LEGENDARY HERO | 0.30% | ~634 |
-| EXPERIENCED CREW | 0.20% | ~422 |
-| ACE TRICKSTER | 0.20% | ~422 |
-| FRAMED! | 0.10% | ~211 |
+| ROOKIE | 5.00% | ~10,575 |
+| IT MAKES BOOM! | 3.00% | ~6,345 |
+| EXTRA BOOST | 2.00% | ~4,230 |
+| PROTECTED | 1.00% | ~2,115 |
+| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,115 |
+| PRO | 1.00% | ~2,115 |
+| AGGRESSIVE RACER | 0.90% | ~1,904 |
+| A TIGER'S FEAR | 0.80% | ~1,692 |
+| ACE SPEEDSTER | 0.50% | ~1,058 |
+| IT'S A LONG WAY TO THE TOP | 0.40% | ~846 |
+| DEFEAT OUR CHAMPION | 0.40% | ~846 |
+| TRAINING HARD | 0.30% | ~635 |
+| RELEASE THE KRAKEN | 0.30% | ~635 |
+| BE OUR GUEST | 0.30% | ~635 |
+| ACE BRAWLER | 0.30% | ~635 |
+| ACE DEFENDER | 0.30% | ~635 |
+| THE EYE OF THE HUNTER | 0.30% | ~635 |
+| FRIENDLY | 0.30% | ~635 |
+| MASTER | 0.30% | ~635 |
+| LEGENDARY HERO | 0.30% | ~635 |
+| PERFECTLY POISED | 0.20% | ~423 |
+| EXPERIENCED CREW | 0.20% | ~423 |
+| ACE TRICKSTER | 0.20% | ~423 |
+| FRAMED! | 0.10% | ~212 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 211,196 (Ranked 64)  
+Progressed: 211,503 (Ranked 64)  
 Completed: 230 (0.11%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,14 @@ Completed: 230 (0.11%) (Ranked 244)
 | 2023-10-09 | 197,568 | 227 |
 | 2023-10-10 | 202,800 | 227 |
 | 2023-10-11 | 207,182 | 229 |
-| 2023-10-12 | 211,196 | 230 |
+| 2023-10-12 | 211,503 | 230 |
+## Awards
+Max (Diverse Characters): 20  (Ranked 526)  
+Sum: 20 (Ranked 527)  
+Diff (max vs sum): -1  
+| Award | Count |
+| ----- | ----- |
+| This game has Diverse Characters | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -216,4 +223,4 @@ Completed: 230 (0.11%) (Ranked 244)
 | 2023-10-08 | 4.42 | 0 | 0 |
 | 2023-10-09 | 4.43 | 0 | 0 |
 | 2023-10-10 | 4.43 | 0 | 0 |
-| 2023-10-12 | 4.42 | 0 | 0 |
+| 2023-10-12 | 4.42 | 20 | 20 |
