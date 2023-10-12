@@ -249,7 +249,7 @@
 | 242 | [CARRION](games/c/carrion.md) | 4.68 | 0 | 532 |
 | 242 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,450 | 51 |
 | 242 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,972 | 84 |
-| 242 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 4,702 | 74 |
+| 242 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 4,714 | 74 |
 | 242 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 309,740 | 3 |
 | 242 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 240,666 | 4 |
 | 242 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 532 |
@@ -840,7 +840,7 @@
 | 834 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.27 | 27 | 487 |
 | 834 | [Out of Line](games/o/out_of_line.md) | 4.27 | 0 | 532 |
 | 834 | [OVERPASS™](games/o/overpass™.md) | 4.27 | 0 | 532 |
-| 834 | [RAGE 2](games/r/rage_2.md) | 4.27 | 2,596 | 101 |
+| 834 | [RAGE 2](games/r/rage_2.md) | 4.27 | 2,599 | 101 |
 | 834 | [RiMS Racing](games/r/rims_racing.md) | 4.27 | 0 | 532 |
 | 834 | [The Fall](games/t/the_fall.md) | 4.27 | 0 | 532 |
 | 844 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 20,185 | 19 |

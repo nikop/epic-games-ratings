@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 52.37% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 52.34% |
 | 3 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 47.17% |
 | 5 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 45.90% |
@@ -39,7 +39,7 @@
 | 36 | [Smelter](games/s/smelter.md) | 10.00% |
 | 36 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.00% |
 | 39 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
-| 40 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.06% |
+| 40 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.05% |
 | 41 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.67% |
 | 42 | [Sonic Origins](games/s/sonic_origins.md) | 7.73% |
 | 43 | [Ravenlok](games/r/ravenlok.md) | 7.70% |
@@ -75,7 +75,7 @@
 | 72 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.88% |
 | 74 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.84% |
 | 75 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
-| 76 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.68% |
+| 76 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.67% |
 | 77 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
 | 77 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.57% |
 | 79 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
@@ -125,8 +125,8 @@
 | 123 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.50% |
 | 124 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
 | 125 | [Iron Danger](games/i/iron_danger.md) | 1.45% |
-| 126 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 1.43% |
-| 127 | [Late Shift](games/l/late_shift.md) | 1.41% |
+| 126 | [Late Shift](games/l/late_shift.md) | 1.41% |
+| 126 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 1.41% |
 | 128 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.38% |
 | 128 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.38% |
 | 128 | [Poosh XL](games/p/poosh_xl.md) | 1.38% |
@@ -189,10 +189,10 @@
 | 187 | [It Takes Two](games/i/it_takes_two.md) | 0.41% |
 | 188 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.40% |
 | 188 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
-| 190 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.39% |
 | 190 | [Train Valley](games/t/train_valley.md) | 0.39% |
-| 192 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.38% |
-| 192 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.38% |
+| 191 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.38% |
+| 191 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.38% |
+| 191 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.38% |
 | 194 | [Ghostrunner](games/g/ghostrunner.md) | 0.37% |
 | 194 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.37% |
 | 196 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.36% |
