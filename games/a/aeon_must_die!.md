@@ -13,7 +13,7 @@
 | Balance Incarnate | 10.00% | ~356 |
 | Purpose Lost | 7.00% | ~250 |
 | A Scarlet Mark | 7.00% | ~250 |
-| Hot Potato | 5.00% | ~178 |
+| Hot Potato | 6.00% | ~214 |
 | Emperor's Hubris | 4.00% | ~143 |
 | Nothing To Lose | 4.00% | ~143 |
 | Dreams Of Perfection | 3.00% | ~107 |

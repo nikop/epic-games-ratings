@@ -485,9 +485,9 @@
       "ID": "2005n_achv_chapter2",
       "SetID": "dhn82m5",
       "Name": "Chapter II",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "2008_achv_bubble",
@@ -509,9 +509,9 @@
       "ID": "2009_achv_deathwheel",
       "SetID": "dhn82m5",
       "Name": "Death is a part of life",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "2009_achv_dreamwheel",
@@ -638,8 +638,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-10-12T13:10:27.6432555+00:00",
+  "LastChanged_Achievements": "2023-10-12T14:04:48.6735234+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:56.7643629+00:00",
-  "LastUpdate_Ratings": "2023-10-12T13:08:13.776248+00:00",
-  "LastUpdate_Achievements": "2023-10-12T13:10:27.6432971+00:00"
+  "LastUpdate_Ratings": "2023-10-12T14:03:05.3773003+00:00",
+  "LastUpdate_Achievements": "2023-10-12T14:04:48.6735654+00:00"
 }

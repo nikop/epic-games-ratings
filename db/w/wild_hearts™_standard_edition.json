@@ -4,7 +4,7 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 363,
   "Ranking_EOS_Completed": 73,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -925,9 +925,9 @@
       "ID": "achievement_46",
       "SetID": "2cpn27e",
       "Name": "Charmed by the Hunt",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "achievement_47",
@@ -995,8 +995,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-10-12T13:11:49.3799667+00:00",
+  "LastChanged_Achievements": "2023-10-12T14:06:12.5826149+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:12.1602586+00:00",
-  "LastUpdate_Ratings": "2023-10-12T13:04:42.0602031+00:00",
-  "LastUpdate_Achievements": "2023-10-12T13:11:49.3800146+00:00"
+  "LastUpdate_Ratings": "2023-10-12T13:58:54.5337052+00:00",
+  "LastUpdate_Achievements": "2023-10-12T14:06:12.5826626+00:00"
 }

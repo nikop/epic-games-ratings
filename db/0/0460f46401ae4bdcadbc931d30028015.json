@@ -364,9 +364,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2399,
+  "EOS_Progressed": 2401,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 332,
+  "EOS_NewPlayers": 334,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2299,6 +2299,11 @@
       "Time": "2023-10-12T08:03:58.4527915+00:00",
       "NumProgressed": 2399,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-12T14:03:59.0246744+00:00",
+      "NumProgressed": 2401,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -2365,9 +2370,9 @@
       "ID": "achievement_16",
       "SetID": "aiin7da",
       "Name": "Gain Train",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_17",
@@ -2407,7 +2412,7 @@
       "Name": "Saw It Coming",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 1343
+      "UsersEstimate": 1345
     },
     {
       "ID": "achievement_21",
@@ -2478,7 +2483,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 2399,
+      "Progressed": 2401,
       "Completed": 0
     }
   ],
@@ -2486,8 +2491,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-10-11T23:00:03.000311+00:00",
-  "LastChanged_Achievements": "2023-10-12T13:09:39.0574059+00:00",
+  "LastChanged_Achievements": "2023-10-12T14:03:59.0246739+00:00",
   "LastUpdate_AppInfo": "2023-10-12T02:57:10.0786796+00:00",
-  "LastUpdate_Ratings": "2023-10-12T13:05:15.7316217+00:00",
-  "LastUpdate_Achievements": "2023-10-12T13:09:39.0574362+00:00"
+  "LastUpdate_Ratings": "2023-10-12T13:59:31.2367011+00:00",
+  "LastUpdate_Achievements": "2023-10-12T14:03:59.0246974+00:00"
 }

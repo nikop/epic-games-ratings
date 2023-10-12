@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~534 |
-| Off to a good start | 67.00% | ~397 |
-| Do... or do not. There is no try | 53.00% | ~314 |
+| New Recruit | 90.00% | ~536 |
+| Off to a good start | 67.00% | ~399 |
+| Do... or do not. There is no try | 53.00% | ~315 |
 | A good blaster at your side | 34.00% | ~202 |
 | Scrap collector | 21.00% | ~125 |
 | I suggest a new strategy | 20.00% | ~119 |
@@ -20,14 +20,14 @@
 | Best star-pilot in the galaxy | 12.00% | ~71 |
 | Survivor | 12.00% | ~71 |
 | A cunning warrior | 11.00% | ~65 |
-| What's the cargo? | 10.00% | ~59 |
-| Never tell me the odds! | 10.00% | ~59 |
-| "Gonk? Gonk!" | 9.00% | ~53 |
-| Impressive. Most impressive. | 9.00% | ~53 |
-| Judge me by my size, do you? | 9.00% | ~53 |
-| Distinguished | 8.00% | ~47 |
-| A tremor in the Force | 8.00% | ~47 |
-| Support the troops | 8.00% | ~47 |
+| What's the cargo? | 10.00% | ~60 |
+| Never tell me the odds! | 10.00% | ~60 |
+| "Gonk? Gonk!" | 9.00% | ~54 |
+| Impressive. Most impressive. | 9.00% | ~54 |
+| Judge me by my size, do you? | 9.00% | ~54 |
+| Distinguished | 8.00% | ~48 |
+| A tremor in the Force | 8.00% | ~48 |
+| Support the troops | 8.00% | ~48 |
 | Not bad for a little furball | 6.00% | ~36 |
 | Patience you must have | 6.00% | ~36 |
 | On the ball | 5.00% | ~30 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.30% | ~2 |
 | Crush them with one swift stroke… | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 593 (Ranked 263)  
+Progressed: 595 (Ranked 263)  
 Completed: 1 (0.17%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 1 (0.17%) (Ranked 229)
 | 2023-10-09 | 558 | 1 |
 | 2023-10-10 | 572 | 1 |
 | 2023-10-11 | 589 | 1 |
-| 2023-10-12 | 593 | 1 |
+| 2023-10-12 | 595 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,13 +5,13 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Love | 42.00% | ~604 |
+| Eat My Dust | 41.00% | ~590 |
 | Clean Race | 40.00% | ~576 |
-| Eat My Dust | 40.00% | ~576 |
 | Hear That Roar! | 38.00% | ~547 |
 | Rivals to the End | 28.00% | ~403 |
+| Bitter Rivalry | 25.00% | ~360 |
 | We're Going to Need a Bigger Garage | 24.00% | ~345 |
-| Bitter Rivalry | 24.00% | ~345 |
-| Champagne Spray | 21.00% | ~302 |
+| Champagne Spray | 22.00% | ~317 |
 | I Want One Too! | 19.00% | ~273 |
 | Restored and Ready | 18.00% | ~259 |
 | Legendary!!! | 18.00% | ~259 |

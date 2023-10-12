@@ -12,7 +12,7 @@
 | Elephant in the room | 31.00% | ~86 |
 | Dark and stinky | 30.00% | ~83 |
 | Sneak in, sneak out | 26.00% | ~72 |
-| Is this the end? | 24.00% | ~67 |
+| Is this the end? | 25.00% | ~70 |
 | A gift horse | 24.00% | ~67 |
 | You sssaved me | 24.00% | ~67 |
 | Say hello to my little friends | 22.00% | ~61 |
@@ -21,8 +21,8 @@
 | It's not cheating | 17.00% | ~47 |
 | Double trouble | 16.00% | ~44 |
 | Stronk | 15.00% | ~42 |
+| Welcome to Forte Ailes | 14.00% | ~39 |
 | Super Moth Boy | 13.00% | ~36 |
-| Welcome to Forte Ailes | 13.00% | ~36 |
 | The Bad Place | 10.00% | ~28 |
 | Meet your maker | 9.00% | ~25 |
 | The pelican brief | 8.00% | ~22 |

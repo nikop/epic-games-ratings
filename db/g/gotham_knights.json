@@ -3420,10 +3420,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4716,
       "NumberOfAwardsMax": 2811
+    },
+    {
+      "Time": "2023-10-12T13:57:14.649765+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4717,
+      "NumberOfAwardsMax": 2811
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4716,
+  "NumberOfAwards": 4717,
   "NumberOfAwardsMax": 2811,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3473,7 +3479,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 241
+      "Count": 242
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3488,7 +3494,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73437,
+  "EOS_Progressed": 73438,
   "EOS_Completed": 121,
   "EOS_NewPlayers": 275,
   "EOS_NewCompleters": 1,
@@ -18438,6 +18444,11 @@
       "Time": "2023-10-12T13:09:31.8979901+00:00",
       "NumProgressed": 73437,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-10-12T14:03:52.0859861+00:00",
+      "NumProgressed": 73438,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 61,
@@ -18529,7 +18540,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8812
+      "UsersEstimate": 8813
     },
     {
       "ID": "APPLY_STATUS",
@@ -18585,7 +18596,7 @@
       "Name": "Dressed to Impress",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2937
+      "UsersEstimate": 2938
     },
     {
       "ID": "CRAFTING_MOD_CHIPS",
@@ -18625,7 +18636,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8812
+      "UsersEstimate": 8813
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -18737,7 +18748,7 @@
       "Name": "History Major",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "GOTHAM_MURALS",
@@ -18761,7 +18772,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18359
+      "UsersEstimate": 18360
     },
     {
       "ID": "HARLEY_3",
@@ -18793,7 +18804,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 38187
+      "UsersEstimate": 38188
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -18817,7 +18828,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14687
+      "UsersEstimate": 14688
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -18825,7 +18836,7 @@
       "Name": "Knighthood",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20562
+      "UsersEstimate": 20563
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -18849,7 +18860,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18359
+      "UsersEstimate": 18360
     },
     {
       "ID": "MYSTERY_03",
@@ -18865,7 +18876,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14687
+      "UsersEstimate": 14688
     },
     {
       "ID": "MYSTERY_05",
@@ -18897,7 +18908,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8812
+      "UsersEstimate": 8813
     },
     {
       "ID": "SECRET_CACHE",
@@ -18936,22 +18947,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73437,
+      "Progressed": 73438,
       "Completed": 121
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43717,
+      "Progressed": 43718,
       "Completed": 2666
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-10-12T11:57:30.9478237+00:00",
-  "LastChanged_Achievements": "2023-10-12T13:09:31.8979892+00:00",
+  "LastChanged": "2023-10-12T13:57:14.6497649+00:00",
+  "LastChanged_Achievements": "2023-10-12T14:03:52.0859856+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:31.3761181+00:00",
-  "LastUpdate_Ratings": "2023-10-12T13:02:59.1078253+00:00",
-  "LastUpdate_Achievements": "2023-10-12T13:09:31.8981546+00:00"
+  "LastUpdate_Ratings": "2023-10-12T13:57:14.6497656+00:00",
+  "LastUpdate_Achievements": "2023-10-12T14:03:52.0861337+00:00"
 }

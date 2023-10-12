@@ -6,26 +6,26 @@
 | ---- | ---------- | ----- |
 | Noctuan Champion | 29.00% | ~15 |
 | Apian Champion | 25.00% | ~13 |
+| Endless Tricks | 23.00% | ~12 |
+| Eridanian Champion | 23.00% | ~12 |
 | Lacertian Champion | 23.00% | ~12 |
-| Endless Tricks | 21.00% | ~11 |
+| Dicesmithing Time! | 21.00% | ~11 |
+| Loyal Partner | 21.00% | ~11 |
 | Meissa's Savior | 21.00% | ~11 |
 | Sanctuary Guardian | 21.00% | ~11 |
-| Eridanian Champion | 21.00% | ~11 |
-| Dicesmithing Time! | 19.00% | ~10 |
-| Loyal Partner | 19.00% | ~10 |
+| Wild's Keeper | 21.00% | ~11 |
 | Mechanical Buddy | 19.00% | ~10 |
+| Mind Illuminator | 19.00% | ~10 |
 | Purification Pioneer | 19.00% | ~10 |
 | Shard Spender | 19.00% | ~10 |
 | Stellar Dismantler | 19.00% | ~10 |
-| Wild's Keeper | 19.00% | ~10 |
 | Behenian Champion | 19.00% | ~10 |
 | Anomaly Destroyer | 17.00% | ~9 |
-| Mind Illuminator | 17.00% | ~9 |
 | Aquarian Champion | 15.00% | ~8 |
 | Heart Gate | 13.00% | ~7 |
+| Star Killer | 13.00% | ~7 |
 | Astral Adventurer | 12.00% | ~6 |
 | Astral Seeker | 12.00% | ~6 |
-| Star Killer | 12.00% | ~6 |
 | The Corruption Goddess | 12.00% | ~6 |
 | The Goddes Avatar | 12.00% | ~6 |
 | Unbeatable | 12.00% | ~6 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 532,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewPlayers": 92,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -118,9 +118,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6511,
+  "EOS_Progressed": 6512,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 483,
+  "EOS_NewPlayers": 480,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4028,6 +4028,11 @@
       "Time": "2023-10-12T13:09:08.6406291+00:00",
       "NumProgressed": 6511,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-12T14:03:28.4696808+00:00",
+      "NumProgressed": 6512,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -4040,7 +4045,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 4753
+      "UsersEstimate": 4754
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -4144,7 +4149,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 3125
+      "UsersEstimate": 3126
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -4152,7 +4157,7 @@
       "Name": "Beach Comber",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 846
+      "UsersEstimate": 847
     },
     {
       "ID": "COMPLETE_ALLJOBQUESTS",
@@ -4200,7 +4205,7 @@
       "Name": "Mist Walker",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1953
+      "UsersEstimate": 1954
     },
     {
       "ID": "DISPATCH_JUMBLES",
@@ -4256,7 +4261,7 @@
       "Name": "Oui, Chef!",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 1432
+      "UsersEstimate": 1433
     },
     {
       "ID": "PRODUCE_HYBRIDFLOWER",
@@ -4319,7 +4324,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 6511,
+      "Progressed": 6512,
       "Completed": 0
     }
   ],
@@ -4327,8 +4332,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-12T12:03:13.8462755+00:00",
-  "LastChanged_Achievements": "2023-10-12T13:09:08.6406283+00:00",
+  "LastChanged_Achievements": "2023-10-12T14:03:28.4696803+00:00",
   "LastUpdate_AppInfo": "2023-10-06T05:57:20.0812213+00:00",
   "LastUpdate_Ratings": "2023-10-12T13:08:13.0426727+00:00",
-  "LastUpdate_Achievements": "2023-10-12T13:09:08.6406835+00:00"
+  "LastUpdate_Achievements": "2023-10-12T14:03:28.4697308+00:00"
 }

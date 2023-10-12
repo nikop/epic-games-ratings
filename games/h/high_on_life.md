@@ -5,27 +5,27 @@ Rating: 4.64 (Ranked 320)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Satisfied Gus-tomer | 0.80% | ~194 |
 | Sweezy Like Sunday Morning | 0.80% | ~194 |
 | First Bounty Down | 0.80% | ~194 |
 | G3 Graduation | 0.80% | ~194 |
-| Satisfied Gus-tomer | 0.70% | ~169 |
+| Cold-Blooded Driller | 0.80% | ~194 |
 | Are You Packin'? | 0.70% | ~169 |
-| Cold-Blooded Driller | 0.70% | ~169 |
+| Who's The Boss? | 0.70% | ~169 |
 | Don't Knife The Hand That Feeds | 0.70% | ~169 |
 | Creature Feature | 0.60% | ~145 |
 | Bring A Knife to a Gun Fight | 0.60% | ~145 |
 | RIP Davey Glutes | 0.60% | ~145 |
 | We're All Very Impressed, Trust Me | 0.60% | ~145 |
 | Hardest Battle In The Game | 0.60% | ~145 |
-| Who's The Boss? | 0.60% | ~145 |
 | Bathe With A Giant Nude Alien | 0.60% | ~9 |
 | Lezduit! | 0.50% | ~121 |
 | Legendary Bounty Hunter | 0.50% | ~121 |
 | Self-Actualization | 0.50% | ~121 |
 | Spent 15 Hours At The Alien Strip Club | 0.50% | ~121 |
+| Series Wrap on Suit-O | 0.50% | ~121 |
 | Eatin' Good in the Neighborhood | 0.40% | ~97 |
 | Fallout Doesn't Let You Do This | 0.40% | ~97 |
-| Series Wrap on Suit-O | 0.40% | ~97 |
 | We Came, We Chainsaw, We Conquered | 0.40% | ~6 |
 | Eye Scream, You Scream | 0.30% | ~73 |
 | Mux Ado About Shipping | 0.30% | ~4 |

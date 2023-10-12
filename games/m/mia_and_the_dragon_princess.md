@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tour Guide Extraordinaire | 37.00% | ~24 |
-| Glass Act | 35.00% | ~23 |
+| Tour Guide Extraordinaire | 38.00% | ~25 |
+| Glass Act | 37.00% | ~24 |
 | Relight my Cannon | 35.00% | ~23 |
-| Puzzle Prodigy | 23.00% | ~15 |
+| Puzzle Prodigy | 25.00% | ~16 |
 | Snitch | 23.00% | ~15 |
+| A Box of Tricks | 20.00% | ~13 |
 | Explosive End | 20.00% | ~13 |
-| A Box of Tricks | 18.00% | ~12 |
 | Backstory Buff | 18.00% | ~12 |
+| Finger-Lickin' Bad | 18.00% | ~12 |
 | Bathroom Brawler | 17.00% | ~11 |
 | Codebreaker | 17.00% | ~11 |
-| Finger-Lickin' Bad | 17.00% | ~11 |
 | Flying High | 17.00% | ~11 |
 | Set Sail | 17.00% | ~11 |
 | Breathless End | 15.00% | ~10 |

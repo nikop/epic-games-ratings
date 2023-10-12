@@ -10,15 +10,15 @@ Number of Ratings: 12,664  (23.09.2022)
 | Basic in Bulk | 3.00% | ~4,124 |
 | Tinkle of Coins | 3.00% | ~4,124 |
 | Titan's First Steps | 3.00% | ~4,124 |
-| One Easy Payment | 2.00% | ~2,749 |
-| Some Assembly Required | 2.00% | ~2,749 |
-| Disintermediation | 2.00% | ~2,749 |
-| Another Satisfied Customer | 2.00% | ~2,749 |
-| It's Free Real Estate | 2.00% | ~2,749 |
-| Pretty Penny | 2.00% | ~2,749 |
-| Budding Merchant | 2.00% | ~2,749 |
-| Capitalism Ho! | 2.00% | ~2,749 |
-| Own the Means of Production | 2.00% | ~2,749 |
+| One Easy Payment | 2.00% | ~2,750 |
+| Some Assembly Required | 2.00% | ~2,750 |
+| Disintermediation | 2.00% | ~2,750 |
+| Another Satisfied Customer | 2.00% | ~2,750 |
+| It's Free Real Estate | 2.00% | ~2,750 |
+| Pretty Penny | 2.00% | ~2,750 |
+| Budding Merchant | 2.00% | ~2,750 |
+| Capitalism Ho! | 2.00% | ~2,750 |
+| Own the Means of Production | 2.00% | ~2,750 |
 | The Daily Grind | 1.00% | ~1,375 |
 | Bounty Hunters | 1.00% | ~1,375 |
 | Demand for Supplies | 1.00% | ~1,375 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,472 (Ranked 73)  
+Progressed: 137,478 (Ranked 73)  
 Completed: 168 (0.12%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,14 +294,14 @@ Completed: 168 (0.12%) (Ranked 241)
 | 2023-10-09 | 137,384 | 167 |
 | 2023-10-10 | 137,421 | 168 |
 | 2023-10-11 | 137,455 | 168 |
-| 2023-10-12 | 137,472 | 168 |
+| 2023-10-12 | 137,478 | 168 |
 ## Awards
-Max (Great for Beginners): 4,779  (Ranked 71)  
-Sum: 27,371 (Ranked 50)  
+Max (Great for Beginners): 4,782  (Ranked 71)  
+Sum: 27,374 (Ranked 50)  
 Diff (max vs sum): 21  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,779 |
+| This game is Great for Beginners | 4,782 |
 | This game is Relaxing | 4,023 |
 | This game has Quickly Understood Controls | 4,012 |
 | This game has Diverse Characters | 3,911 |
@@ -569,4 +569,4 @@ Diff (max vs sum): 21
 | 2023-10-09 | 3.99 | - | 4,778 | 27,363 |
 | 2023-10-10 | 3.99 | - | 4,779 | 27,368 |
 | 2023-10-11 | 3.99 | - | 4,779 | 27,370 |
-| 2023-10-12 | 3.99 | - | 4,779 | 27,371 |
+| 2023-10-12 | 3.99 | - | 4,782 | 27,374 |

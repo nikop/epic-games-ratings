@@ -6,22 +6,22 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Handyman | 1.00% | ~9,339 |
-| Zealous | 1.00% | ~9,339 |
-| It wakes | 1.00% | ~9,339 |
-| Not half bad | 1.00% | ~9,339 |
-| Apt Survivor | 1.00% | ~9,339 |
-| Survival Treasures | 1.00% | ~9,339 |
-| Skillful | 1.00% | ~9,339 |
-| Make Some Noise | 1.00% | ~9,339 |
-| Sorted | 0.90% | ~8,405 |
-| Resurgence | 0.90% | ~8,405 |
-| The Grand Sacrifice | 0.80% | ~7,471 |
-| No one left behind | 0.80% | ~7,471 |
-| Medic | 0.80% | ~7,471 |
-| Bloody Millionaire | 0.80% | ~7,471 |
-| I | 0.80% | ~7,471 |
-| Healthy Obsession | 0.80% | ~7,471 |
+| It wakes | 2.00% | ~18,680 |
+| Handyman | 1.00% | ~9,340 |
+| Zealous | 1.00% | ~9,340 |
+| Not half bad | 1.00% | ~9,340 |
+| Apt Survivor | 1.00% | ~9,340 |
+| Survival Treasures | 1.00% | ~9,340 |
+| Skillful | 1.00% | ~9,340 |
+| Make Some Noise | 1.00% | ~9,340 |
+| Sorted | 0.90% | ~8,406 |
+| Resurgence | 0.90% | ~8,406 |
+| The Grand Sacrifice | 0.80% | ~7,472 |
+| No one left behind | 0.80% | ~7,472 |
+| Medic | 0.80% | ~7,472 |
+| Bloody Millionaire | 0.80% | ~7,472 |
+| I | 0.80% | ~7,472 |
+| Healthy Obsession | 0.80% | ~7,472 |
 | Agonizing Escape | 0.70% | ~6,538 |
 | Backdoor Escape | 0.70% | ~6,538 |
 | Nerves of steel | 0.70% | ~6,538 |
@@ -77,6 +77,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Grim Pilgrimage | 0.30% | ~2,802 |
 | Selfless Survival | 0.30% | ~2,802 |
 | Classy Act | 0.30% | ~2,802 |
+| Outrun the Overlap | 0.30% | ~2,802 |
 | Lifting The Fog | 0.30% | ~2,802 |
 | Extraterrestrial | 0.30% | ~2,802 |
 | MU/TH/UR Dearest | 0.30% | ~2,802 |
@@ -96,7 +97,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Insult and Injury | 0.20% | ~1,868 |
 | Prowler | 0.20% | ~1,868 |
 | Triage | 0.20% | ~1,868 |
-| Outrun the Overlap | 0.20% | ~1,868 |
 | High Speed Pursuit | 0.20% | ~1,868 |
 | Hack the Mainframe | 0.20% | ~1,868 |
 | Complete the Evolution | 0.20% | ~1,868 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~934 |
 | Adept Ripley | 0.10% | ~934 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 933,932 (Ranked 14)  
+Progressed: 934,016 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -411,7 +411,7 @@ Completed: 49 (0.01%) (Ranked 296)
 | 2023-10-09 | 929,902 | 49 |
 | 2023-10-10 | 931,511 | 49 |
 | 2023-10-11 | 933,163 | 49 |
-| 2023-10-12 | 933,932 | 49 |
+| 2023-10-12 | 934,016 | 49 |
 ## Awards
 Max (Diverse Characters): 33,781  (Ranked 15)  
 Sum: 261,493 (Ranked 13)  

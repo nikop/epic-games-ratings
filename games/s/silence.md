@@ -14,7 +14,7 @@
 | Artistic fool | 33.00% | ~44 |
 | Open up wide | 33.00% | ~44 |
 | Let the boot talk | 32.00% | ~42 |
-| Chapter II | 27.00% | ~36 |
+| Chapter II | 28.00% | ~37 |
 | Handyman | 24.00% | ~32 |
 | Achoo!! | 24.00% | ~32 |
 | Shadow on the wall | 23.00% | ~30 |
@@ -27,7 +27,7 @@
 | Fastidious Clown | 19.00% | ~25 |
 | It's not easy being green! | 18.00% | ~24 |
 | Home is where the heart is | 17.00% | ~22 |
-| Death is a part of life | 15.00% | ~20 |
+| Death is a part of life | 16.00% | ~21 |
 | Master of Thermodynamics | 14.00% | ~18 |
 | Unfullfilled dreams | 13.00% | ~17 |
 | To err is human... | 11.00% | ~15 |
