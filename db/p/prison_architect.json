@@ -6,9 +6,9 @@
   "Ranking_Popularity": 200,
   "Ranking_PopularitySum": 141,
   "Ranking_EOS_Progress": 69,
-  "Ranking_EOS_Completed": 313,
+  "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 48,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2015-10-06T14:47:00+00:00",
@@ -5934,7 +5934,7 @@
       "Count": 431
     }
   ],
-  "EOS_Progressed": 182855,
+  "EOS_Progressed": 182860,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 1973,
   "EOS_NewCompleters": 0,
@@ -25619,6 +25619,11 @@
       "Time": "2023-10-12T03:10:44.4659528+00:00",
       "NumProgressed": 182855,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-12T04:10:19.6807646+00:00",
+      "NumProgressed": 182860,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 16,
@@ -25662,7 +25667,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 29257
+      "UsersEstimate": 29258
     },
     {
       "ID": "Achievement_13",
@@ -25710,7 +25715,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 45714
+      "UsersEstimate": 45715
     },
     {
       "ID": "Achievement_5",
@@ -25757,15 +25762,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 182855,
+      "Progressed": 182860,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2023-10-12T01:41:39.0278423+00:00",
-  "LastChanged_Achievements": "2023-10-12T03:10:44.4659522+00:00",
+  "LastChanged_Achievements": "2023-10-12T04:10:19.6807642+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:39.436814+00:00",
-  "LastUpdate_Ratings": "2023-10-12T03:02:08.3947884+00:00",
-  "LastUpdate_Achievements": "2023-10-12T03:10:44.466089+00:00"
+  "LastUpdate_Ratings": "2023-10-12T04:01:50.8251949+00:00",
+  "LastUpdate_Achievements": "2023-10-12T04:10:19.6808667+00:00"
 }

@@ -55,6 +55,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 1 | 0.70% | ~102 |
 | Manichaeism | 0.70% | ~102 |
 | Egyptian Paganism | 0.70% | ~102 |
+| Regicide | 0.60% | ~88 |
 | Drillmaster | 0.60% | ~88 |
 | Valiant | 0.60% | ~88 |
 | Legendary Cities | 0.60% | ~88 |
@@ -66,7 +67,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus | 0.60% | ~88 |
 | Necropolis | 0.60% | ~88 |
 | Learn to Play 2 | 0.60% | ~88 |
-| Regicide | 0.50% | ~73 |
 | Hanging Gardens in Babylon | 0.50% | ~73 |
 | Conqueror | 0.50% | ~73 |
 | Intercessor | 0.50% | ~73 |
@@ -350,7 +350,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 14,607 (Ranked 134)  
-Completed: 5 (0.03%) (Ranked 282)  
+Completed: 5 (0.03%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

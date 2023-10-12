@@ -3,9 +3,9 @@
   "Name": "Time on Frog Island",
   "ProductSlug": "time-on-frog-island-b3ad0d",
   "Ranking_EOS_Progress": 491,
-  "Ranking_EOS_Completed": 313,
+  "Ranking_EOS_Completed": 55,
   "Ranking_EOS_NewPlayers": 250,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-07-12T13:00:00+00:00",
     "PcReleaseDate": "2022-07-12T13:00:00+00:00",
@@ -28,10 +28,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 17,
-  "EOS_Completed": 0,
+  "EOS_Completed": 1,
   "EOS_NewPlayers": 6,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 5.88,
   "EosHistory": [
     {
       "Time": "2023-09-11T10:06:16.3667497+00:00",
@@ -112,6 +112,11 @@
       "Time": "2023-10-09T18:04:25.4100333+00:00",
       "NumProgressed": 17,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-12T04:06:44.9501488+00:00",
+      "NumProgressed": 17,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-11T10:06:16.366753+00:00",
@@ -130,9 +135,9 @@
       "ID": "a10",
       "SetID": "cdg65ol",
       "Name": "Crunch Time",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "a11",
@@ -218,9 +223,9 @@
       "ID": "a20",
       "SetID": "cdg65ol",
       "Name": "Couch-surfing",
-      "Percentage": 12,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "a21",
@@ -404,15 +409,15 @@
       "ID": "cdg65ol",
       "IsBase": true,
       "Progressed": 17,
-      "Completed": 0
+      "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:28:53.4377966+00:00",
   "FirstSeenRating": "2023-03-31T05:58:16.4143103+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:44.2276989+00:00",
   "LastChanged": "2023-03-31T05:58:16.4143104+00:00",
-  "LastChanged_Achievements": "2023-10-12T03:07:17.2648553+00:00",
+  "LastChanged_Achievements": "2023-10-12T04:06:44.9501482+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:38.4592564+00:00",
-  "LastUpdate_Ratings": "2023-10-12T02:59:03.9801834+00:00",
-  "LastUpdate_Achievements": "2023-10-12T03:07:17.2648848+00:00"
+  "LastUpdate_Ratings": "2023-10-12T03:59:00.5410338+00:00",
+  "LastUpdate_Achievements": "2023-10-12T04:06:44.95017+00:00"
 }

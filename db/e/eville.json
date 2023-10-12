@@ -3,9 +3,9 @@
   "Name": "Eville",
   "ProductSlug": "eville",
   "Ranking_EOS_Progress": 667,
-  "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 400,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_Completed": 314,
+  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-07T14:57:31.6455147+00:00",
-  "LastUpdate_Ratings": "2023-10-12T03:01:48.8787535+00:00",
-  "LastUpdate_Achievements": "2023-10-12T03:07:22.533123+00:00"
+  "LastUpdate_Ratings": "2023-10-12T04:01:29.7585236+00:00",
+  "LastUpdate_Achievements": "2023-10-12T04:06:49.730651+00:00"
 }

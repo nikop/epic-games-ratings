@@ -6,8 +6,8 @@
   "Ranking_Popularity": 230,
   "Ranking_PopularitySum": 177,
   "Ranking_EOS_Progress": 114,
-  "Ranking_EOS_Completed": 152,
-  "Ranking_EOS_NewPlayers": 68,
+  "Ranking_EOS_Completed": 153,
+  "Ranking_EOS_NewPlayers": 69,
   "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2020-11-05T16:00:00+00:00",
@@ -2800,9 +2800,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 33310,
+  "EOS_Progressed": 33311,
   "EOS_Completed": 266,
-  "EOS_NewPlayers": 973,
+  "EOS_NewPlayers": 972,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.8,
   "EosHistory": [
@@ -21900,6 +21900,11 @@
       "Time": "2023-10-12T03:07:49.1990285+00:00",
       "NumProgressed": 33310,
       "NumCompleted": 266
+    },
+    {
+      "Time": "2023-10-12T04:07:14.5528398+00:00",
+      "NumProgressed": 33311,
+      "NumCompleted": 266
     }
   ],
   "TotalAchievements": 60,
@@ -21999,7 +22004,7 @@
       "Name": "A trip on sea, what fun it can be",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 11325
+      "UsersEstimate": 11326
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_1",
@@ -22055,7 +22060,7 @@
       "Name": "MASS-O-BOT",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 7994
+      "UsersEstimate": 7995
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_2",
@@ -22079,7 +22084,7 @@
       "Name": "Prepare the grave",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 7994
+      "UsersEstimate": 7995
     },
     {
       "ID": "ACH_D3_Campaign_Fire_2",
@@ -22095,7 +22100,7 @@
       "Name": "Angel of Fire",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 7994
+      "UsersEstimate": 7995
     },
     {
       "ID": "ACH_D3_Campaign_Graves_1",
@@ -22119,7 +22124,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 14323
+      "UsersEstimate": 14324
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -22143,7 +22148,7 @@
       "Name": "Rusty Steel",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 13657
+      "UsersEstimate": 13658
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_1",
@@ -22215,7 +22220,7 @@
       "Name": "Where there is Light, there is Shadow",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 7661
+      "UsersEstimate": 7662
     },
     {
       "ID": "ACH_D3_Campaign_Renegade_1",
@@ -22247,7 +22252,7 @@
       "Name": "Can\u2019t stand the sight of Dark Elf blood",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 4996
+      "UsersEstimate": 4997
     },
     {
       "ID": "ACH_D3_Campaign_Ritual_2",
@@ -22287,7 +22292,7 @@
       "Name": "Damned good",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 10992
+      "UsersEstimate": 10993
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_1",
@@ -22311,7 +22316,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 22984
+      "UsersEstimate": 22985
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -22390,15 +22395,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 33310,
+      "Progressed": 33311,
       "Completed": 266
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-10-12T00:02:04.0036019+00:00",
-  "LastChanged_Achievements": "2023-10-12T03:07:49.1990278+00:00",
+  "LastChanged_Achievements": "2023-10-12T04:07:14.5528394+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:08.7087735+00:00",
-  "LastUpdate_Ratings": "2023-10-12T03:03:02.6785316+00:00",
-  "LastUpdate_Achievements": "2023-10-12T03:07:49.1992036+00:00"
+  "LastUpdate_Ratings": "2023-10-12T04:02:38.1025664+00:00",
+  "LastUpdate_Achievements": "2023-10-12T04:07:14.5529658+00:00"
 }

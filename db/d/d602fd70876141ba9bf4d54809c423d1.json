@@ -3,9 +3,9 @@
   "Name": "The Evil Within",
   "ProductSlug": "the-evil-within",
   "Ranking_EOS_Progress": 380,
-  "Ranking_EOS_Completed": 313,
+  "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 250,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
     "PcReleaseDate": "2014-07-13T00:00:00+00:00",
@@ -549,9 +549,9 @@
       "ID": "ACHIEVEMENT_01",
       "SetID": "ap8553i",
       "Name": "What\u0027s in the Box?",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACHIEVEMENT_02",
@@ -573,9 +573,9 @@
       "ID": "ACHIEVEMENT_04",
       "SetID": "ap8553i",
       "Name": "Two on Two",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACHIEVEMENT_05",
@@ -725,9 +725,9 @@
       "ID": "ACHIEVEMENT_23",
       "SetID": "ap8553i",
       "Name": "...And the Corpses Mount",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -813,9 +813,9 @@
       "ID": "ACHIEVEMENT_34",
       "SetID": "ap8553i",
       "Name": "Home is Where the Hospice is",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -1130,8 +1130,8 @@
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-10-12T03:08:34.2529428+00:00",
+  "LastChanged_Achievements": "2023-10-12T04:08:16.3445018+00:00",
   "LastUpdate_AppInfo": "2023-10-11T21:57:06.97719+00:00",
-  "LastUpdate_Ratings": "2023-10-12T02:57:34.3688271+00:00",
-  "LastUpdate_Achievements": "2023-10-12T03:08:34.2530348+00:00"
+  "LastUpdate_Ratings": "2023-10-12T03:57:38.7395072+00:00",
+  "LastUpdate_Achievements": "2023-10-12T04:08:16.344565+00:00"
 }

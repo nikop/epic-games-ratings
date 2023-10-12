@@ -54,7 +54,7 @@ Number of Ratings: 46  (23.09.2022)
 | Intensify | 0.10% | ~151 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 151,480 (Ranked 71)  
-Completed: 1 (0.00%) (Ranked 313)  
+Completed: 1 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

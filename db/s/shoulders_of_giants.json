@@ -6,9 +6,9 @@
   "Ranking_Popularity": 532,
   "Ranking_PopularitySum": 532,
   "Ranking_EOS_Progress": 200,
-  "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_Completed": 188,
+  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-01-26T06:00:00+00:00",
     "PcReleaseDate": "2023-01-26T06:00:00+00:00",
@@ -72,9 +72,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2264,
+  "EOS_Progressed": 2265,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -1717,6 +1717,11 @@
       "Time": "2023-10-10T01:47:42.1314801+00:00",
       "NumProgressed": 2264,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-12T04:07:13.836141+00:00",
+      "NumProgressed": 2265,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 19,
@@ -1736,7 +1741,7 @@
       "Name": "Nothing to Wear",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "complete_act_one",
@@ -1768,7 +1773,7 @@
       "Name": "On the Shoulders of Giants",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 1992
+      "UsersEstimate": 1993
     },
     {
       "ID": "deal_damage",
@@ -1776,15 +1781,15 @@
       "Name": "Ouch",
       "Percentage": 55,
       "XP": 40,
-      "UsersEstimate": 1245
+      "UsersEstimate": 1246
     },
     {
       "ID": "defeat_enemies",
       "SetID": "236b9eg",
       "Name": "A Ribbiting Performance",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 1743
+      "UsersEstimate": 1721
     },
     {
       "ID": "defeat_tree_dummy",
@@ -1800,7 +1805,7 @@
       "Name": "At Least We Have Each Other...",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 1698
+      "UsersEstimate": 1699
     },
     {
       "ID": "piercing_beam",
@@ -1832,7 +1837,7 @@
       "Name": "Frogbot",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1630
+      "UsersEstimate": 1631
     },
     {
       "ID": "save_planet_bestfriend",
@@ -1848,7 +1853,7 @@
       "Name": "The Interdimensional Power of Friendship",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 996
+      "UsersEstimate": 997
     },
     {
       "ID": "stick_decoy",
@@ -1879,7 +1884,7 @@
     {
       "ID": "236b9eg",
       "IsBase": true,
-      "Progressed": 2264,
+      "Progressed": 2265,
       "Completed": 9
     }
   ],
@@ -1887,8 +1892,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-06-30T03:59:49.3890269+00:00",
-  "LastChanged_Achievements": "2023-10-12T03:07:48.4716651+00:00",
+  "LastChanged_Achievements": "2023-10-12T04:07:13.8361406+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:57:00.8282628+00:00",
-  "LastUpdate_Ratings": "2023-10-12T02:57:39.1439737+00:00",
-  "LastUpdate_Achievements": "2023-10-12T03:07:48.4716926+00:00"
+  "LastUpdate_Ratings": "2023-10-12T03:57:42.8124664+00:00",
+  "LastUpdate_Achievements": "2023-10-12T04:07:13.8361586+00:00"
 }

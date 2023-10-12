@@ -6,9 +6,9 @@
   "Ranking_Popularity": 267,
   "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 134,
-  "Ranking_EOS_Completed": 282,
+  "Ranking_EOS_Completed": 283,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -13679,9 +13679,9 @@
       "ID": "ACHIEVEMENT_ASSASSINATED_ANOTHER_LEADER",
       "SetID": "9201eeb",
       "Name": "Regicide",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 88
     },
     {
       "ID": "ACHIEVEMENT_ASSASSINATED_BY_HEIR",
@@ -16381,8 +16381,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-11T16:03:25.094605+00:00",
-  "LastChanged_Achievements": "2023-10-12T03:08:15.3249102+00:00",
+  "LastChanged_Achievements": "2023-10-12T04:07:38.7826762+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:48.3987129+00:00",
-  "LastUpdate_Ratings": "2023-10-12T03:04:37.6381203+00:00",
-  "LastUpdate_Achievements": "2023-10-12T03:08:15.3263822+00:00"
+  "LastUpdate_Ratings": "2023-10-12T04:04:14.7214821+00:00",
+  "LastUpdate_Achievements": "2023-10-12T04:07:38.7836766+00:00"
 }

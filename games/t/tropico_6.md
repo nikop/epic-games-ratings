@@ -48,7 +48,7 @@ Number of Ratings: 398  (23.09.2022)
 | My Ways | 0.30% | ~17 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,521 (Ranked 168)  
-Completed: 2 (0.04%) (Ranked 276)  
+Completed: 2 (0.04%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -224,13 +224,13 @@ Completed: 2 (0.04%) (Ranked 276)
 | 2023-10-11 | 5,521 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 99  (Ranked 347)  
-Sum: 703 (Ranked 284)  
+Sum: 704 (Ranked 284)  
 Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 106 |
 | This game has Quickly Understood Controls | 99 |
-| This game is Highly Recommended | 96 |
+| This game is Highly Recommended | 97 |
 | This game is Relaxing | 93 |
 | This game has Amazing Storytelling | 90 |
 | This game is Extremely Fun | 87 |
@@ -386,3 +386,4 @@ Diff (max vs sum): 63
 | 2023-10-07 | 4.65 | - | 99 | 699 |
 | 2023-10-09 | 4.65 | - | 99 | 702 |
 | 2023-10-11 | 4.65 | - | 99 | 703 |
+| 2023-10-12 | 4.65 | - | 99 | 704 |

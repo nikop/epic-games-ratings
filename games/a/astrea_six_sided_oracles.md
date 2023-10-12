@@ -20,8 +20,8 @@
 | Wild's Keeper | 19.00% | ~10 |
 | Anomaly Destroyer | 17.00% | ~9 |
 | Mind Illuminator | 17.00% | ~9 |
+| Behenian Champion | 17.00% | ~9 |
 | Aquarian Champion | 15.00% | ~8 |
-| Behenian Champion | 15.00% | ~8 |
 | Heart Gate | 13.00% | ~7 |
 | Astral Adventurer | 12.00% | ~6 |
 | Astral Seeker | 12.00% | ~6 |
@@ -104,7 +104,7 @@
 | Eridanian Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 52 (Ranked 432)  
-Completed: 0 (0.00%) (Ranked 313)  
+Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

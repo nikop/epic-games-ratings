@@ -18,8 +18,8 @@
 | Say hello to my little friends | 22.00% | ~61 |
 | Gotcha | 19.00% | ~53 |
 | Heal thyself | 19.00% | ~53 |
+| It's not cheating | 17.00% | ~47 |
 | Double trouble | 16.00% | ~44 |
-| It's not cheating | 16.00% | ~44 |
 | Stronk | 15.00% | ~42 |
 | Super Moth Boy | 13.00% | ~36 |
 | Welcome to Forte Ailes | 13.00% | ~36 |
@@ -47,7 +47,7 @@
 | Save it for a Rainier day | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 278 (Ranked 317)  
-Completed: 0 (0.00%) (Ranked 313)  
+Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

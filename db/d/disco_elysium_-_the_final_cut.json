@@ -6,9 +6,9 @@
   "Ranking_Popularity": 172,
   "Ranking_PopularitySum": 241,
   "Ranking_EOS_Progress": 75,
-  "Ranking_EOS_Completed": 286,
+  "Ranking_EOS_Completed": 287,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1349,7 +1349,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 129586,
+  "EOS_Progressed": 129588,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 260,
   "EOS_NewCompleters": 0,
@@ -18804,6 +18804,11 @@
       "Time": "2023-10-12T00:07:24.8479126+00:00",
       "NumProgressed": 129586,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-10-12T04:08:17.3339789+00:00",
+      "NumProgressed": 129588,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -18847,7 +18852,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 23325
+      "UsersEstimate": 23326
     },
     {
       "ID": "ACH_COP_BAD",
@@ -18895,7 +18900,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36284
+      "UsersEstimate": 36285
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -18911,7 +18916,7 @@
       "Name": "The Lawbringer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5183
+      "UsersEstimate": 5184
     },
     {
       "ID": "ACH_COP_LIBERAL",
@@ -18959,7 +18964,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 14254
+      "UsersEstimate": 14255
     },
     {
       "ID": "ACH_CUNO",
@@ -19111,7 +19116,7 @@
       "Name": "Fairweather t-500 Vitreous Enamel",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 5183
+      "UsersEstimate": 5184
     },
     {
       "ID": "ACH_REAL_MUSOR",
@@ -19134,15 +19139,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 129586,
+      "Progressed": 129588,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-10-11T21:03:20.1103028+00:00",
-  "LastChanged_Achievements": "2023-10-12T03:08:35.3591537+00:00",
+  "LastChanged_Achievements": "2023-10-12T04:08:17.3339784+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:36.8908498+00:00",
-  "LastUpdate_Ratings": "2023-10-12T03:03:50.3387361+00:00",
-  "LastUpdate_Achievements": "2023-10-12T03:08:35.3593173+00:00"
+  "LastUpdate_Ratings": "2023-10-12T04:03:23.5068514+00:00",
+  "LastUpdate_Achievements": "2023-10-12T04:08:17.3340817+00:00"
 }

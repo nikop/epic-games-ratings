@@ -24,7 +24,7 @@
 | Quack quack | 6.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 299 (Ranked 311)  
-Completed: 10 (3.34%) (Ranked 83)  
+Completed: 10 (3.34%) (Ranked 84)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

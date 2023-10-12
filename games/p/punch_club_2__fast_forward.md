@@ -36,7 +36,7 @@
 | Legal courier | 56.00% | ~187 |
 | Extreme neuropower! | 55.00% | ~184 |
 | Escaped from a big trouble | 53.00% | ~177 |
-| Now you are worthy | 50.00% | ~167 |
+| Now you are worthy | 51.00% | ~170 |
 | Fight is life | 47.00% | ~157 |
 | Mysterious voice | 47.00% | ~157 |
 | Guiding on the right path | 47.00% | ~157 |
@@ -72,7 +72,7 @@
 | The only right decision | 30.00% | ~100 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 334 (Ranked 302)  
-Completed: 8 (2.40%) (Ranked 103)  
+Completed: 8 (2.40%) (Ranked 104)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
