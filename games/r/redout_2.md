@@ -10,8 +10,8 @@ Rating: 4.48 (Ranked 607)
 | Enter the Speed Gauntlet | 25.00% | ~288 |
 | I just can't choose | 25.00% | ~288 |
 | A Cheese Grater to the Face | 19.00% | ~219 |
+| It's like an haircut | 18.00% | ~207 |
 | Put it on a shelf | 18.00% | ~207 |
-| It's like an haircut | 17.00% | ~196 |
 | Ride in the rising sun | 16.00% | ~184 |
 | Suit up | 16.00% | ~184 |
 | Walked like an Egyptian | 15.00% | ~173 |
@@ -58,7 +58,7 @@ Rating: 4.48 (Ranked 607)
 | I, need, more, shelves! | 0.40% | ~5 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,151 (Ranked 226)  
+Progressed: 1,151 (Ranked 227)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -4,8 +4,8 @@
   "ProductSlug": "silence-57bc4e",
   "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 288,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2016-11-15T17:00:00+00:00",
@@ -589,33 +589,33 @@
       "ID": "3014_achv_shootgate",
       "SetID": "dhn82m5",
       "Name": "It\u0027s nothing personal",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "3017_achv_chapter3",
       "SetID": "dhn82m5",
       "Name": "Chapter III",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "3017_achv_flycloud",
       "SetID": "dhn82m5",
       "Name": "Like a moth in the Wind",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "4004_achv_home",
       "SetID": "dhn82m5",
       "Name": "Home is where the heart is",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "4004_achv_mirror",
@@ -638,8 +638,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-10-12T16:05:15.554516+00:00",
+  "LastChanged_Achievements": "2023-10-12T17:05:43.8154565+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:56.7643629+00:00",
-  "LastUpdate_Ratings": "2023-10-12T16:03:06.3822664+00:00",
-  "LastUpdate_Achievements": "2023-10-12T16:05:15.5545554+00:00"
+  "LastUpdate_Ratings": "2023-10-12T17:02:30.9434397+00:00",
+  "LastUpdate_Achievements": "2023-10-12T17:05:43.81549+00:00"
 }

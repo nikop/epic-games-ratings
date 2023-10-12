@@ -3494,9 +3494,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73438,
+  "EOS_Progressed": 73440,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 273,
+  "EOS_NewPlayers": 272,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -18449,6 +18449,11 @@
       "Time": "2023-10-12T14:03:52.0859861+00:00",
       "NumProgressed": 73438,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-10-12T17:04:25.9543074+00:00",
+      "NumProgressed": 73440,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 61,
@@ -18556,7 +18561,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 12484
+      "UsersEstimate": 12485
     },
     {
       "ID": "CLAYFACE_1",
@@ -18580,7 +18585,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10281
+      "UsersEstimate": 10282
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -18644,7 +18649,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6609
+      "UsersEstimate": 6610
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -18684,7 +18689,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21297
+      "UsersEstimate": 21298
     },
     {
       "ID": "FREEZE_1_5",
@@ -18700,7 +18705,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 13953
+      "UsersEstimate": 13954
     },
     {
       "ID": "FREEZE_3",
@@ -18708,7 +18713,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10281
+      "UsersEstimate": 10282
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -18764,7 +18769,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25703
+      "UsersEstimate": 25704
     },
     {
       "ID": "HARLEY_2",
@@ -18804,7 +18809,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 38188
+      "UsersEstimate": 38189
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -18852,7 +18857,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24969
+      "UsersEstimate": 24970
     },
     {
       "ID": "MYSTERY_02",
@@ -18900,7 +18905,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10281
+      "UsersEstimate": 10282
     },
     {
       "ID": "MYSTERY_08",
@@ -18924,7 +18929,7 @@
       "Name": "Solid Alibi",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6609
+      "UsersEstimate": 6610
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -18947,13 +18952,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73438,
+      "Progressed": 73440,
       "Completed": 121
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43718,
+      "Progressed": 43720,
       "Completed": 2666
     }
   ],
@@ -18961,8 +18966,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-12T13:57:14.6497649+00:00",
-  "LastChanged_Achievements": "2023-10-12T16:04:05.7855995+00:00",
+  "LastChanged_Achievements": "2023-10-12T17:04:25.9543068+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:31.3761181+00:00",
-  "LastUpdate_Ratings": "2023-10-12T15:57:12.2984689+00:00",
-  "LastUpdate_Achievements": "2023-10-12T16:04:05.7857466+00:00"
+  "LastUpdate_Ratings": "2023-10-12T16:57:18.8729779+00:00",
+  "LastUpdate_Achievements": "2023-10-12T17:04:25.9544275+00:00"
 }

@@ -87,6 +87,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Landowners | 0.40% | ~58 |
 | Patrons | 0.40% | ~58 |
 | Riders | 0.40% | ~58 |
+| Traders | 0.40% | ~58 |
 | Hittite Iron | 0.40% | ~58 |
 | Circus Maximus | 0.40% | ~58 |
 | Hagia Sophia | 0.40% | ~58 |
@@ -110,7 +111,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Clerics | 0.30% | ~44 |
 | Hunters | 0.30% | ~44 |
 | Statesmen | 0.30% | ~44 |
-| Traders | 0.30% | ~44 |
 | Church of the Holy Sepulchre | 0.30% | ~44 |
 | Learn to Play 5 | 0.30% | ~44 |
 | Babylonia | 0.30% | ~44 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,614 (Ranked 134)  
+Progressed: 14,615 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -524,7 +524,7 @@ Completed: 5 (0.03%) (Ranked 283)
 | 2023-10-09 | 14,562 | 5 |
 | 2023-10-10 | 14,586 | 5 |
 | 2023-10-11 | 14,606 | 5 |
-| 2023-10-12 | 14,614 | 5 |
+| 2023-10-12 | 14,615 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,834 (Ranked 210)  

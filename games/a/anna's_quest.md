@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escape artist | 79.00% | ~42 |
-| Book Worm | 62.00% | ~33 |
-| Ooh, it's shiny! | 60.00% | ~32 |
-| My lost nightingale | 53.00% | ~28 |
-| Through the woods | 49.00% | ~26 |
+| Escape artist | 78.00% | ~42 |
+| Book Worm | 61.00% | ~33 |
+| Ooh, it's shiny! | 59.00% | ~32 |
+| My lost nightingale | 52.00% | ~28 |
+| Through the woods | 48.00% | ~26 |
 | Back to the anvil | 43.00% | ~23 |
-| Fussy eater | 42.00% | ~22 |
-| So soothing... | 42.00% | ~22 |
-| Kekekeke... | 42.00% | ~22 |
-| Mystery solved | 40.00% | ~21 |
-| Honey, honey, honey… | 40.00% | ~21 |
-| Far away from home | 40.00% | ~21 |
-| Sorry Grandpa | 40.00% | ~21 |
-| Roostwig has entered the building | 40.00% | ~21 |
-| Game Over! | 38.00% | ~20 |
-| A very special drink | 38.00% | ~20 |
-| NOW GO AWAY! | 38.00% | ~20 |
-| Show me your true self | 36.00% | ~19 |
-| No posters allowed | 36.00% | ~19 |
-| Little genius | 36.00% | ~19 |
-| Shattered | 34.00% | ~18 |
-| GG | 34.00% | ~18 |
-| You've got mail! | 32.00% | ~17 |
-| Mischief maker | 32.00% | ~17 |
+| Fussy eater | 41.00% | ~22 |
+| So soothing... | 41.00% | ~22 |
+| Kekekeke... | 41.00% | ~22 |
+| Mystery solved | 39.00% | ~21 |
+| Honey, honey, honey… | 39.00% | ~21 |
+| Far away from home | 39.00% | ~21 |
+| Sorry Grandpa | 39.00% | ~21 |
+| Roostwig has entered the building | 39.00% | ~21 |
+| Game Over! | 37.00% | ~20 |
+| A very special drink | 37.00% | ~20 |
+| NOW GO AWAY! | 37.00% | ~20 |
+| Show me your true self | 35.00% | ~19 |
+| No posters allowed | 35.00% | ~19 |
+| Little genius | 35.00% | ~19 |
+| Shattered | 33.00% | ~18 |
+| GG | 33.00% | ~18 |
+| You've got mail! | 31.00% | ~17 |
+| Mischief maker | 31.00% | ~17 |
 | Close the deal | 30.00% | ~16 |
 | Memories | 30.00% | ~16 |
 | Beekeeper | 30.00% | ~16 |
@@ -35,17 +35,17 @@
 | Pain in the hands | 30.00% | ~16 |
 | Turn the last page | 26.00% | ~14 |
 | Singstar | 26.00% | ~14 |
-| Makeover | 25.00% | ~13 |
-| Bahahahaha... | 25.00% | ~13 |
-| Kill it! KILL IT! | 25.00% | ~13 |
-| Guilty conscience | 21.00% | ~11 |
+| Makeover | 24.00% | ~13 |
+| Bahahahaha... | 24.00% | ~13 |
+| Kill it! KILL IT! | 24.00% | ~13 |
+| Guilty conscience | 20.00% | ~11 |
 | Cameodalic | 19.00% | ~10 |
 | Clever reference #451 | 17.00% | ~9 |
 | What a mess | 15.00% | ~8 |
 | Posterboy! | 13.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53 (Ranked 432)  
-Completed: 6 (11.32%) (Ranked 31)  
+Progressed: 54 (Ranked 430)  
+Completed: 6 (11.11%) (Ranked 31)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -73,7 +73,7 @@ Completed: 6 (11.32%) (Ranked 31)
 | 2023-10-05 | 50 | 6 |
 | 2023-10-06 | 51 | 6 |
 | 2023-10-07 | 52 | 6 |
-| 2023-10-12 | 53 | 6 |
+| 2023-10-12 | 54 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,24 +5,24 @@ Rating: 4.16 (Ranked 907)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 29.00% | ~18,180 |
-| As Far Away As Possible | 16.00% | ~10,030 |
-| A Most Unstable Organism | 12.00% | ~7,523 |
-| No Time to Follow Protocol | 9.00% | ~5,642 |
-| Float Like a Butterfly... | 8.00% | ~5,015 |
-| Nano Connoisseur | 6.00% | ~3,761 |
-| In Two Places At Once | 6.00% | ~3,761 |
+| Your Lucky Day | 29.00% | ~18,182 |
+| As Far Away As Possible | 16.00% | ~10,032 |
+| A Most Unstable Organism | 12.00% | ~7,524 |
+| No Time to Follow Protocol | 9.00% | ~5,643 |
+| Float Like a Butterfly... | 8.00% | ~5,016 |
+| Nano Connoisseur | 6.00% | ~3,762 |
+| In Two Places At Once | 6.00% | ~3,762 |
 | Pulling Your Weight | 3.00% | ~1,881 |
 | Reaping Rivals | 3.00% | ~1,881 |
 | fifteenth Time's the Charm | 1.00% | ~627 |
 | More Power to You | 0.70% | ~439 |
 | Gone Rogue | 0.30% | ~188 |
+| Completely Customizable | 0.30% | ~188 |
 | Memory Keeper | 0.20% | ~125 |
-| Completely Customizable | 0.20% | ~125 |
 | Runs for Your Money | 0.10% | ~63 |
 | Past Master | 0.10% | ~63 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,689 (Ranked 98)  
+Progressed: 62,698 (Ranked 98)  
 Completed: 14 (0.02%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,17 +68,17 @@ Completed: 14 (0.02%) (Ranked 287)
 | 2023-10-09 | 62,315 | 9 |
 | 2023-10-10 | 62,448 | 12 |
 | 2023-10-11 | 62,597 | 14 |
-| 2023-10-12 | 62,689 | 14 |
+| 2023-10-12 | 62,698 | 14 |
 ## Awards
 Max (Great for Beginners): 63  (Ranked 397)  
-Sum: 187 (Ranked 391)  
-Diff (max vs sum): 6  
+Sum: 217 (Ranked 376)  
+Diff (max vs sum): 21  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 63 |
 | This game has Diverse Characters | 41 |
 | This game is Highly Recommended | 35 |
-| This game has a Competitive Community | 28 |
+| This game has a Competitive Community | 30 |
 | This game has Amazing Storytelling | 24 |
 | This game has Quickly Understood Controls | 24 |
 | This game has Unique Visuals | 20 |
@@ -118,3 +118,4 @@ Diff (max vs sum): 6
 | 2023-10-09 | 4.17 | 59 | 206 |
 | 2023-10-10 | 4.16 | 63 | 212 |
 | 2023-10-11 | 4.16 | 63 | 187 |
+| 2023-10-12 | 4.16 | 63 | 217 |

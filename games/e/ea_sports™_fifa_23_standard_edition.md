@@ -1,51 +1,51 @@
 # EA SPORTS™ FIFA 23 Standard Edition
 [Store](https://store.epicgames.com/en-US/p/fifa-23)  
 [View Rawdata](../../db/e/ea_sports™_fifa_23_standard_edition.json)  
-Rating: 4.26 (Ranked 844)  
+Rating: 4.26 (Ranked 843)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Power Shot | 76.00% | ~117,104 |
-| Dead-ball specialist | 64.00% | ~98,614 |
-| Multitasking | 52.00% | ~80,124 |
-| European Legend | 52.00% | ~80,124 |
-| Let the Games Begin | 50.00% | ~77,042 |
-| High Grades | 50.00% | ~77,042 |
-| Balanced Path | 49.00% | ~75,501 |
-| A Moment of Your Time | 48.00% | ~73,960 |
-| Aiming High | 47.00% | ~72,419 |
-| Tactical Tinkerer | 43.00% | ~66,256 |
-| Squad Building Connoisseur | 41.00% | ~63,174 |
-| Intuition and Execution | 41.00% | ~63,174 |
-| The Winning Formula | 39.00% | ~60,093 |
-| Parking the Bus | 30.00% | ~46,225 |
-| Safe House | 28.00% | ~43,144 |
-| Best of Five | 25.00% | ~38,521 |
-| Football is Everything | 24.00% | ~36,980 |
-| The Chosen One | 23.00% | ~35,439 |
-| Fresh Fit | 21.00% | ~32,358 |
-| Bring it on | 17.00% | ~26,194 |
-| Life-Like | 15.00% | ~23,113 |
-| Make the Grade | 13.00% | ~20,031 |
-| I Played Them All | 11.00% | ~16,949 |
-| Specialist | 11.00% | ~16,949 |
-| Teamwork works | 9.00% | ~13,868 |
-| First of Many | 9.00% | ~13,868 |
-| Momentous Achievement | 6.00% | ~9,245 |
-| Shop till you drop | 6.00% | ~9,245 |
-| On the way up | 6.00% | ~9,245 |
-| Volta's best | 5.00% | ~7,704 |
-| In Cahoots | 5.00% | ~7,704 |
-| Tune Your Club | 5.00% | ~7,704 |
-| Becoming Unplayable | 5.00% | ~7,704 |
-| Full-House | 4.00% | ~6,163 |
-| Sharing is Caring | 4.00% | ~6,163 |
+| Power Shot | 76.00% | ~117,150 |
+| Dead-ball specialist | 64.00% | ~98,653 |
+| Multitasking | 52.00% | ~80,155 |
+| European Legend | 52.00% | ~80,155 |
+| Let the Games Begin | 50.00% | ~77,072 |
+| High Grades | 50.00% | ~77,072 |
+| Balanced Path | 49.00% | ~75,531 |
+| A Moment of Your Time | 48.00% | ~73,990 |
+| Aiming High | 47.00% | ~72,448 |
+| Tactical Tinkerer | 43.00% | ~66,282 |
+| Squad Building Connoisseur | 41.00% | ~63,199 |
+| Intuition and Execution | 41.00% | ~63,199 |
+| The Winning Formula | 39.00% | ~60,117 |
+| Parking the Bus | 30.00% | ~46,244 |
+| Safe House | 28.00% | ~43,161 |
+| Best of Five | 25.00% | ~38,536 |
+| Football is Everything | 24.00% | ~36,995 |
+| The Chosen One | 23.00% | ~35,453 |
+| Fresh Fit | 21.00% | ~32,370 |
+| Bring it on | 17.00% | ~26,205 |
+| Life-Like | 15.00% | ~23,122 |
+| Make the Grade | 13.00% | ~20,039 |
+| I Played Them All | 11.00% | ~16,956 |
+| Specialist | 11.00% | ~16,956 |
+| Teamwork works | 9.00% | ~13,873 |
+| First of Many | 9.00% | ~13,873 |
+| Momentous Achievement | 6.00% | ~9,249 |
+| Shop till you drop | 6.00% | ~9,249 |
+| On the way up | 6.00% | ~9,249 |
+| Volta's best | 5.00% | ~7,707 |
+| In Cahoots | 5.00% | ~7,707 |
+| Tune Your Club | 5.00% | ~7,707 |
+| Becoming Unplayable | 5.00% | ~7,707 |
+| Full-House | 4.00% | ~6,166 |
+| Sharing is Caring | 4.00% | ~6,166 |
 | Full wardrobe | 0.70% | ~1,079 |
-| Girl Power | 0.40% | ~616 |
+| Girl Power | 0.40% | ~617 |
 | Training Addict | 0.10% | ~154 |
 | Dazzling Personality | 0.10% | ~154 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 154,084 (Ranked 70)  
+Progressed: 154,145 (Ranked 70)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-10-09 | 150,649 | 0 |
 | 2023-10-10 | 152,019 | 0 |
 | 2023-10-11 | 153,308 | 0 |
-| 2023-10-12 | 154,084 | 0 |
+| 2023-10-12 | 154,145 | 0 |
 ## Awards
 Max (Diverse Characters): 20,209  (Ranked 19)  
 Sum: 102,396 (Ranked 14)  

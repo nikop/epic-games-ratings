@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
     "PcReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -4406,9 +4406,9 @@
       "ID": "achPennyPincher",
       "SetID": "dgl390n",
       "Name": "Penny pincher",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 173
     },
     {
       "ID": "achPresentReached",
@@ -4510,8 +4510,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-10-09T03:01:23.2061764+00:00",
-  "LastChanged_Achievements": "2023-10-12T16:04:25.8277796+00:00",
+  "LastChanged_Achievements": "2023-10-12T17:04:47.8983721+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:19.9284245+00:00",
-  "LastUpdate_Ratings": "2023-10-12T15:58:05.9847712+00:00",
-  "LastUpdate_Achievements": "2023-10-12T16:04:25.8278618+00:00"
+  "LastUpdate_Ratings": "2023-10-12T16:58:26.1832646+00:00",
+  "LastUpdate_Achievements": "2023-10-12T17:04:47.8984342+00:00"
 }

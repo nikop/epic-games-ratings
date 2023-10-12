@@ -8,7 +8,7 @@
 | Spectre Inductee | 84.00% | ~557 |
 | Medal of Exploration I | 76.00% | ~504 |
 | Recruit | 72.00% | ~477 |
-| Search and Rescue | 71.00% | ~471 |
+| Search and Rescue | 72.00% | ~477 |
 | Quarian Ally | 69.00% | ~457 |
 | Medal of Heroism | 67.00% | ~444 |
 | Honorarium of Corporate Service | 67.00% | ~444 |
@@ -25,9 +25,9 @@
 | Soldier Ally | 51.00% | ~338 |
 | Colonial Savior | 49.00% | ~325 |
 | Paramour I | 48.00% | ~318 |
+| Merciless | 46.00% | ~305 |
 | Scientist | 46.00% | ~305 |
 | Krogan Ally | 45.00% | ~298 |
-| Merciless | 45.00% | ~298 |
 | Sentinel Ally | 44.00% | ~292 |
 | Head Hunter | 43.00% | ~285 |
 | Missing in Action | 42.00% | ~278 |
@@ -50,11 +50,11 @@
 | The Assassin | 32.00% | ~212 |
 | The Justicar | 32.00% | ~212 |
 | Battlemaster | 32.00% | ~212 |
+| The Cure | 32.00% | ~212 |
 | The Prodigal | 32.00% | ~212 |
 | A Personal Touch | 31.00% | ~206 |
 | Catharsis | 31.00% | ~206 |
 | Ghost of the Father | 31.00% | ~206 |
-| The Cure | 31.00% | ~206 |
 | Big Game Hunter | 31.00% | ~206 |
 | Revenge! | 31.00% | ~206 |
 | Heart of Darkness | 31.00% | ~206 |
@@ -75,17 +75,17 @@
 | Suicide Mission | 27.00% | ~179 |
 | Against All Odds | 27.00% | ~179 |
 | A House Divided | 26.00% | ~172 |
+| Weapon Specialist | 26.00% | ~172 |
 | Untouchable | 25.00% | ~166 |
 | Eye of the Hurricane | 25.00% | ~166 |
 | Giant Killer | 25.00% | ~166 |
-| Weapon Specialist | 25.00% | ~166 |
 | World Shaker | 24.00% | ~159 |
 | Liberator | 24.00% | ~159 |
+| Savior | 22.00% | ~146 |
 | Paramour II | 22.00% | ~146 |
 | Pathfinder | 22.00% | ~146 |
 | Tunnel Rat | 22.00% | ~146 |
 | Arbiter | 22.00% | ~146 |
-| Savior | 21.00% | ~139 |
 | Lost and Found | 21.00% | ~139 |
 | No One Left Behind | 20.00% | ~133 |
 | Party Crasher | 20.00% | ~133 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 198,
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -759,7 +759,7 @@
       "Count": 98
     }
   ],
-  "EOS_Progressed": 224552,
+  "EOS_Progressed": 224555,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 551,
   "EOS_NewCompleters": 0,
@@ -19834,6 +19834,11 @@
       "Time": "2023-10-12T16:04:48.7434661+00:00",
       "NumProgressed": 224552,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-12T17:05:13.2981279+00:00",
+      "NumProgressed": 224555,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -19893,7 +19898,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 22455
+      "UsersEstimate": 22456
     },
     {
       "ID": "ACH_BASE_17",
@@ -20093,7 +20098,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 26946
+      "UsersEstimate": 26947
     },
     {
       "ID": "ACH_BASE_8",
@@ -20116,7 +20121,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 224552,
+      "Progressed": 224555,
       "Completed": 5
     }
   ],
@@ -20124,8 +20129,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-10-12T01:41:39.2845442+00:00",
-  "LastChanged_Achievements": "2023-10-12T16:04:48.7434657+00:00",
+  "LastChanged_Achievements": "2023-10-12T17:05:13.2981272+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:40.0692082+00:00",
-  "LastUpdate_Ratings": "2023-10-12T16:00:30.3374096+00:00",
-  "LastUpdate_Achievements": "2023-10-12T16:04:48.7436469+00:00"
+  "LastUpdate_Ratings": "2023-10-12T17:01:13.1165244+00:00",
+  "LastUpdate_Achievements": "2023-10-12T17:05:13.2982402+00:00"
 }

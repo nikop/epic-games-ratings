@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 176,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 90,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -1134,9 +1134,9 @@
       "Count": 191
     }
   ],
-  "EOS_Progressed": 7433,
+  "EOS_Progressed": 7434,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 536,
+  "EOS_NewPlayers": 533,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3924,6 +3924,11 @@
       "Time": "2023-10-12T16:07:30.1341157+00:00",
       "NumProgressed": 7433,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-12T17:08:17.0843658+00:00",
+      "NumProgressed": 7434,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -3936,7 +3941,7 @@
       "Name": "Become A Ninja In No Time",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2527
+      "UsersEstimate": 2528
     },
     {
       "ID": "ach02",
@@ -3952,7 +3957,7 @@
       "Name": "A New Timeline",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 3196
+      "UsersEstimate": 3197
     },
     {
       "ID": "ach04",
@@ -3976,7 +3981,7 @@
       "Name": "Titan",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 5500
+      "UsersEstimate": 5501
     },
     {
       "ID": "ach07",
@@ -3984,7 +3989,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 3939
+      "UsersEstimate": 3940
     },
     {
       "ID": "ach08",
@@ -3992,7 +3997,7 @@
       "Name": "It Has Begun!!!",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2750
+      "UsersEstimate": 2751
     },
     {
       "ID": "ach09",
@@ -4064,7 +4069,7 @@
       "Name": "So I Just Kill Stuff??",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 3716
+      "UsersEstimate": 3717
     },
     {
       "ID": "ach18",
@@ -4120,7 +4125,7 @@
       "Name": "Ultimate Power",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 3419
+      "UsersEstimate": 3420
     },
     {
       "ID": "ach25",
@@ -4200,7 +4205,7 @@
       "Name": "Always Accessorize",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 2304
+      "UsersEstimate": 2305
     },
     {
       "ID": "ach35",
@@ -4224,7 +4229,7 @@
       "Name": "ABACABB",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 4162
+      "UsersEstimate": 4163
     },
     {
       "ID": "ach38",
@@ -4272,7 +4277,7 @@
       "Name": "Working Overtime",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3196
+      "UsersEstimate": 3197
     },
     {
       "ID": "ach44",
@@ -4328,14 +4333,14 @@
       "Name": "Witness Me!!!",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2750
+      "UsersEstimate": 2751
     }
   ],
   "AchievementSets": [
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 7433,
+      "Progressed": 7434,
       "Completed": 0
     }
   ],
@@ -4343,8 +4348,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-10-12T13:58:11.0517808+00:00",
-  "LastChanged_Achievements": "2023-10-12T16:07:30.1341152+00:00",
+  "LastChanged_Achievements": "2023-10-12T17:08:17.0843652+00:00",
   "LastUpdate_AppInfo": "2023-10-07T06:57:30.1408327+00:00",
-  "LastUpdate_Ratings": "2023-10-12T15:58:17.8821316+00:00",
-  "LastUpdate_Achievements": "2023-10-12T16:07:30.1341757+00:00"
+  "LastUpdate_Ratings": "2023-10-12T16:58:42.3034424+00:00",
+  "LastUpdate_Achievements": "2023-10-12T17:08:17.0844124+00:00"
 }
