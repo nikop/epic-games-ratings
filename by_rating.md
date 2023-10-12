@@ -126,7 +126,7 @@
 | 119 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.76 | 0 | 532 |
 | 119 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 893 | 154 |
 | 119 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.76 | 23,447 | 17 |
-| 119 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,684 | 75 |
+| 119 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,691 | 75 |
 | 119 | [Journey](games/j/journey.md) | 4.76 | 0 | 532 |
 | 119 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 532 |
 | 119 | [Legend Bowl](games/l/legend_bowl.md) | 4.76 | 0 | 532 |
@@ -159,7 +159,7 @@
 | 149 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.74 | 0 | 532 |
 | 149 | [Tchia](games/t/tchia.md) | 4.74 | 0 | 532 |
 | 149 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 0 | 532 |
-| 149 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 817 | 161 |
+| 149 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 818 | 161 |
 | 149 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 83 | 369 |
 | 149 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 0 | 532 |
 | 163 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 426 | 216 |

@@ -74,7 +74,7 @@
 | 72 | [MultiVersus](games/m/multiversus.md) | 4,748 | 4.56 | 471 |
 | 73 | [Chivalry 2](games/c/chivalry_2.md) | 4,726 | 4.60 | 397 |
 | 74 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4,702 | 4.68 | 242 |
-| 75 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4,684 | 4.76 | 119 |
+| 75 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4,691 | 4.76 | 119 |
 | 76 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,615 | 4.56 | 471 |
 | 77 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,597 | 4.70 | 203 |
 | 78 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,586 | 4.70 | 203 |
@@ -160,7 +160,7 @@
 | 158 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 838 | 4.49 | 590 |
 | 159 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 833 | 4.69 | 221 |
 | 160 | [Frostpunk](games/f/frostpunk.md) | 822 | 4.74 | 149 |
-| 161 | [The Long Dark](games/t/the_long_dark.md) | 817 | 4.74 | 149 |
+| 161 | [The Long Dark](games/t/the_long_dark.md) | 818 | 4.74 | 149 |
 | 162 | [Auto Chess](games/a/auto_chess.md) | 816 | 4.51 | 551 |
 | 163 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 796 | 4.61 | 373 |
 | 164 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 777 | 4.79 | 90 |
