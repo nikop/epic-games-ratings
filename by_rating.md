@@ -183,7 +183,7 @@
 | 178 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 77 | 377 |
 | 178 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.72 | 129 | 318 |
 | 178 | [Slipways](games/s/slipways.md) | 4.72 | 0 | 532 |
-| 178 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 335 | 236 |
+| 178 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 336 | 236 |
 | 178 | [The Red Lantern](games/t/the_red_lantern.md) | 4.72 | 0 | 532 |
 | 178 | [Timberborn](games/t/timberborn.md) | 4.72 | 139 | 312 |
 | 187 | [Barony](games/b/barony.md) | 4.71 | 85 | 366 |
@@ -191,7 +191,7 @@
 | 187 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.71 | 102 | 344 |
 | 187 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 453 |
 | 187 | [GNOG](games/g/gnog.md) | 4.71 | 0 | 532 |
-| 187 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,509 | 49 |
+| 187 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,512 | 49 |
 | 187 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 0 | 532 |
 | 187 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 0 | 532 |
 | 187 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.71 | 0 | 532 |
@@ -220,7 +220,7 @@
 | 203 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.70 | 0 | 532 |
 | 203 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 0 | 532 |
 | 203 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.70 | 0 | 532 |
-| 221 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 118,492 | 8 |
+| 221 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 118,549 | 8 |
 | 221 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 532 |
 | 221 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 6,479 | 55 |
 | 221 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.69 | 5,153 | 70 |
@@ -390,7 +390,7 @@
 | 373 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 707 | 176 |
 | 373 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 107 | 339 |
 | 373 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 527 | 200 |
-| 373 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 10,225 | 39 |
+| 373 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 10,232 | 39 |
 | 373 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,086 | 139 |
 | 373 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 288 | 244 |
 | 373 | [Supraland](games/s/supraland.md) | 4.61 | 7,696 | 47 |
@@ -411,7 +411,7 @@
 | 397 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 63 | 397 |
 | 397 | [RiME](games/r/rime.md) | 4.60 | 0 | 532 |
 | 397 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.60 | 0 | 532 |
-| 397 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 489 | 204 |
+| 397 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 490 | 204 |
 | 397 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.60 | 262 | 255 |
 | 397 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 22 | 515 |
 | 397 | [Warframe](games/w/warframe.md) | 4.60 | 17,613 | 22 |
@@ -466,7 +466,7 @@
 | 453 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.57 | 0 | 532 |
 | 453 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.57 | 0 | 532 |
 | 453 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 4,061 | 82 |
-| 453 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 19,827 | 20 |
+| 453 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 19,841 | 20 |
 | 453 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,783 | 117 |
 | 453 | [Travellers Rest](games/t/travellers_rest.md) | 4.57 | 0 | 532 |
 | 453 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.57 | 71 | 386 |
@@ -820,19 +820,19 @@
 | 818 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.29 | 0 | 532 |
 | 818 | [ELEX II](games/e/elex_ii.md) | 4.29 | 0 | 532 |
 | 818 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.29 | 0 | 532 |
-| 818 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,805,328 | 1 |
+| 818 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,806,685 | 1 |
 | 818 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.29 | 82 | 371 |
-| 818 | [Murder by Numbers](games/m/murder_by_numbers.md) | 4.29 | 0 | 532 |
 | 818 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.29 | 0 | 532 |
 | 818 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 150 | 308 |
 | 818 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 127 | 320 |
 | 818 | [Steelrising](games/s/steelrising.md) | 4.29 | 37 | 449 |
-| 828 | [Against All Odds](games/a/against_all_odds.md) | 4.28 | 0 | 532 |
-| 828 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.28 | 0 | 532 |
-| 828 | [Chess Ultra](games/c/chess_ultra.md) | 4.28 | 0 | 532 |
-| 828 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.28 | 38 | 444 |
-| 828 | [Mortal Shell](games/m/mortal_shell.md) | 4.28 | 20 | 526 |
-| 828 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 292 |
+| 827 | [Against All Odds](games/a/against_all_odds.md) | 4.28 | 0 | 532 |
+| 827 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.28 | 0 | 532 |
+| 827 | [Chess Ultra](games/c/chess_ultra.md) | 4.28 | 0 | 532 |
+| 827 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.28 | 38 | 444 |
+| 827 | [Mortal Shell](games/m/mortal_shell.md) | 4.28 | 20 | 526 |
+| 827 | [Murder by Numbers](games/m/murder_by_numbers.md) | 4.28 | 0 | 532 |
+| 827 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 292 |
 | 834 | [Dice Legacy](games/d/dice_legacy.md) | 4.27 | 0 | 532 |
 | 834 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.27 | 0 | 532 |
 | 834 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.27 | 3,805 | 85 |
