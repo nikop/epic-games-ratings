@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 52.16% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 52.11% |
 | 3 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 47.17% |
 | 5 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 45.90% |
@@ -29,8 +29,8 @@
 | 27 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.27% |
 | 28 | [Remains](games/r/remains.md) | 12.00% |
 | 29 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 11.59% |
-| 30 | [Anna's Quest](games/a/anna's_quest.md) | 11.54% |
-| 31 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 11.48% |
+| 30 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 11.48% |
+| 31 | [Anna's Quest](games/a/anna's_quest.md) | 11.32% |
 | 32 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 33 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.95% |
 | 34 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.85% |
@@ -56,10 +56,10 @@
 | 54 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.97% |
 | 55 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
 | 55 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.88% |
+| 55 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.88% |
 | 55 | [Time on Frog Island](games/t/time_on_frog_island.md) | 5.88% |
-| 58 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.77% |
-| 58 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 5.77% |
-| 60 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.29% |
+| 59 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.77% |
+| 59 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 5.77% |
 | 61 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.00% |
 | 62 | [JARS](games/j/jars.md) | 4.94% |
 | 63 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
@@ -67,11 +67,11 @@
 | 65 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.74% |
 | 66 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 67 | [ZZT!](games/z/zzt!.md) | 4.47% |
-| 68 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.38% |
+| 68 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.46% |
 | 69 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.11% |
 | 70 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.06% |
-| 71 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 3.97% |
-| 72 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.87% |
+| 71 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 3.96% |
+| 72 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.88% |
 | 73 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.85% |
 | 74 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.84% |
 | 75 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
@@ -83,9 +83,9 @@
 | 80 | [The Bunker](games/t/the_bunker.md) | 3.39% |
 | 82 | [The Complex](games/t/the_complex.md) | 3.36% |
 | 83 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
-| 84 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 3.33% |
-| 85 | [Doodle God](games/d/doodle_god.md) | 3.31% |
-| 86 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.27% |
+| 84 | [Doodle God](games/d/doodle_god.md) | 3.31% |
+| 85 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.27% |
+| 86 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 3.23% |
 | 87 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.20% |
 | 88 | [Monster Harvest](games/m/monster_harvest.md) | 3.17% |
 | 89 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.15% |
@@ -143,7 +143,7 @@
 | 140 | [Infindustry](games/i/infindustry.md) | 1.05% |
 | 140 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.05% |
 | 143 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.02% |
-| 144 | [Sable](games/s/sable.md) | 1.01% |
+| 144 | [Sable](games/s/sable.md) | 1.00% |
 | 145 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.99% |
 | 145 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.99% |
 | 147 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.98% |
@@ -665,4 +665,4 @@
 | 314 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 314 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 314 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,384 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,385 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
