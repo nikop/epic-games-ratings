@@ -622,6 +622,7 @@
 | [Super Adventure Hand](../games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15 | 1,000 |
 | [Yars: Recharged](../games/y/yars__recharged.md) | 15 | 1,000 |
 | [Zero-G Gunfight](../games/a/ac35eab3f59b4fab98f7ea12a18f3e7a.md) | 15 | 1,000 |
+| [100 Doors - Escape from Work](../games/2/2e8b593f066d4ec59a473a0650c2794a.md) | 14 | 1,000 |
 | [Access Denied Escape](../games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 14 | 1,000 |
 | [Black Widow: Recharged](../games/b/black_widow__recharged.md) | 14 | 1,000 |
 | [BloodRayne 2: Terminal Cut](../games/b/bloodrayne_2__terminal_cut.md) | 14 | 1,000 |
