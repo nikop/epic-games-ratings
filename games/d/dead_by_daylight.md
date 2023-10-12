@@ -6,40 +6,40 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 2.00% | ~18,698 |
-| Handyman | 1.00% | ~9,349 |
-| Zealous | 1.00% | ~9,349 |
-| Not half bad | 1.00% | ~9,349 |
-| Apt Survivor | 1.00% | ~9,349 |
-| Survival Treasures | 1.00% | ~9,349 |
-| Skillful | 1.00% | ~9,349 |
-| Sorted | 1.00% | ~9,349 |
-| Make Some Noise | 1.00% | ~9,349 |
-| No one left behind | 0.90% | ~8,414 |
-| Medic | 0.90% | ~8,414 |
-| Resurgence | 0.90% | ~8,414 |
-| The Grand Sacrifice | 0.80% | ~7,479 |
-| Nerves of steel | 0.80% | ~7,479 |
-| Bloody Millionaire | 0.80% | ~7,479 |
-| I | 0.80% | ~7,479 |
-| Healthy Obsession | 0.80% | ~7,479 |
-| Preemptive Strike | 0.80% | ~7,479 |
-| Humanitarian | 0.80% | ~7,479 |
-| Agonizing Escape | 0.70% | ~6,544 |
-| Backdoor Escape | 0.70% | ~6,544 |
-| I've got your back | 0.70% | ~6,544 |
-| Perfect Escape | 0.70% | ~6,544 |
-| Engineer | 0.70% | ~6,544 |
-| Perfect Killing | 0.60% | ~5,609 |
-| Apt Killer | 0.60% | ~5,609 |
-| Risk it all | 0.60% | ~5,609 |
-| II | 0.60% | ~5,609 |
-| Wounded Healer | 0.60% | ~5,609 |
-| Close Shave | 0.60% | ~5,609 |
-| Vulture | 0.50% | ~4,674 |
-| III | 0.50% | ~4,674 |
-| With Scars to Show | 0.50% | ~4,674 |
-| Second Act | 0.50% | ~4,674 |
+| It wakes | 2.00% | ~18,699 |
+| Handyman | 1.00% | ~9,350 |
+| Zealous | 1.00% | ~9,350 |
+| Not half bad | 1.00% | ~9,350 |
+| Apt Survivor | 1.00% | ~9,350 |
+| Survival Treasures | 1.00% | ~9,350 |
+| Skillful | 1.00% | ~9,350 |
+| Sorted | 1.00% | ~9,350 |
+| Make Some Noise | 1.00% | ~9,350 |
+| No one left behind | 0.90% | ~8,415 |
+| Medic | 0.90% | ~8,415 |
+| Resurgence | 0.90% | ~8,415 |
+| The Grand Sacrifice | 0.80% | ~7,480 |
+| Nerves of steel | 0.80% | ~7,480 |
+| Bloody Millionaire | 0.80% | ~7,480 |
+| I | 0.80% | ~7,480 |
+| Healthy Obsession | 0.80% | ~7,480 |
+| Preemptive Strike | 0.80% | ~7,480 |
+| Humanitarian | 0.80% | ~7,480 |
+| Agonizing Escape | 0.70% | ~6,545 |
+| Backdoor Escape | 0.70% | ~6,545 |
+| I've got your back | 0.70% | ~6,545 |
+| Perfect Escape | 0.70% | ~6,545 |
+| Perfect Killing | 0.70% | ~6,545 |
+| Engineer | 0.70% | ~6,545 |
+| Close Shave | 0.70% | ~6,545 |
+| Apt Killer | 0.60% | ~5,610 |
+| Risk it all | 0.60% | ~5,610 |
+| II | 0.60% | ~5,610 |
+| Wounded Healer | 0.60% | ~5,610 |
+| Vulture | 0.50% | ~4,675 |
+| III | 0.50% | ~4,675 |
+| With Scars to Show | 0.50% | ~4,675 |
+| Second Act | 0.50% | ~4,675 |
 | Blood on your hands | 0.40% | ~3,740 |
 | Escape Artist | 0.40% | ~3,740 |
 | Made it out alive! | 0.40% | ~3,740 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~935 |
 | Adept Ripley | 0.10% | ~935 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 934,882 (Ranked 14)  
+Progressed: 934,954 (Ranked 14)  
 Completed: 50 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -411,7 +411,7 @@ Completed: 50 (0.01%) (Ranked 296)
 | 2023-10-09 | 929,902 | 49 |
 | 2023-10-10 | 931,511 | 49 |
 | 2023-10-11 | 933,163 | 49 |
-| 2023-10-12 | 934,882 | 50 |
+| 2023-10-12 | 934,954 | 50 |
 ## Awards
 Max (Diverse Characters): 33,781  (Ranked 15)  
 Sum: 261,674 (Ranked 13)  

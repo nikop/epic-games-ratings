@@ -5,7 +5,7 @@
   "Ranking_Rating": 203,
   "Ranking_Popularity": 405,
   "Ranking_PopularitySum": 306,
-  "Ranking_EOS_Progress": 190,
+  "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 282,
   "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 111,
@@ -5570,9 +5570,9 @@
       "ID": "ACH_TANK-COMMANDER",
       "SetID": "72olkc5",
       "Name": "Tank commander",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_THAT-PINCH",
@@ -5690,8 +5690,8 @@
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-10-12T16:57:07.6869387+00:00",
-  "LastChanged_Achievements": "2023-10-12T22:06:54.7627943+00:00",
+  "LastChanged_Achievements": "2023-10-12T23:06:37.082645+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:23.9466799+00:00",
-  "LastUpdate_Ratings": "2023-10-12T21:57:03.0638755+00:00",
-  "LastUpdate_Achievements": "2023-10-12T22:06:54.7628446+00:00"
+  "LastUpdate_Ratings": "2023-10-12T22:57:19.9890861+00:00",
+  "LastUpdate_Achievements": "2023-10-12T23:06:37.082735+00:00"
 }

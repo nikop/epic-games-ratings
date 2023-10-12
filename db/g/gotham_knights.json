@@ -3494,9 +3494,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73446,
+  "EOS_Progressed": 73448,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 266,
+  "EOS_NewPlayers": 267,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -18474,6 +18474,11 @@
       "Time": "2023-10-12T22:04:12.4291253+00:00",
       "NumProgressed": 73446,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-10-12T23:04:15.3584046+00:00",
+      "NumProgressed": 73448,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 61,
@@ -18597,7 +18602,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13220
+      "UsersEstimate": 13221
     },
     {
       "ID": "CLAYFACE_3",
@@ -18605,7 +18610,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10282
+      "UsersEstimate": 10283
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -18683,9 +18688,9 @@
       "ID": "DEFEAT_OC_1",
       "SetID": "4eo5ebm",
       "Name": "Family Meeting",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 5141
+      "UsersEstimate": 4407
     },
     {
       "ID": "DEFEAT_OC_2",
@@ -18709,7 +18714,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21299
+      "UsersEstimate": 21300
     },
     {
       "ID": "FREEZE_1_5",
@@ -18733,7 +18738,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10282
+      "UsersEstimate": 10283
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -18789,7 +18794,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25706
+      "UsersEstimate": 25707
     },
     {
       "ID": "HARLEY_2",
@@ -18813,7 +18818,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 11751
+      "UsersEstimate": 11752
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -18829,7 +18834,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 38192
+      "UsersEstimate": 38193
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -18853,7 +18858,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14689
+      "UsersEstimate": 14690
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -18901,7 +18906,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14689
+      "UsersEstimate": 14690
     },
     {
       "ID": "MYSTERY_05",
@@ -18909,7 +18914,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13220
+      "UsersEstimate": 13221
     },
     {
       "ID": "MYSTERY_06",
@@ -18925,7 +18930,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10282
+      "UsersEstimate": 10283
     },
     {
       "ID": "MYSTERY_08",
@@ -18972,13 +18977,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73446,
+      "Progressed": 73448,
       "Completed": 121
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43726,
+      "Progressed": 43728,
       "Completed": 2666
     }
   ],
@@ -18986,8 +18991,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-12T13:57:14.6497649+00:00",
-  "LastChanged_Achievements": "2023-10-12T22:04:12.4291249+00:00",
+  "LastChanged_Achievements": "2023-10-12T23:04:15.3584037+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:31.3761181+00:00",
-  "LastUpdate_Ratings": "2023-10-12T21:57:12.7331705+00:00",
-  "LastUpdate_Achievements": "2023-10-12T22:04:12.4292425+00:00"
+  "LastUpdate_Ratings": "2023-10-12T22:57:28.0231407+00:00",
+  "LastUpdate_Achievements": "2023-10-12T23:04:15.3585633+00:00"
 }

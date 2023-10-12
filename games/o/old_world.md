@@ -151,6 +151,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | No Undo | 0.20% | ~29 |
 | Rmt n Kmt Buhen | 0.20% | ~29 |
 | Greater Kmt Unified | 0.20% | ~29 |
+| Prosperous Kmt | 0.20% | ~29 |
 | Kush | 0.20% | ~29 |
 | Beja Archer | 0.20% | ~29 |
 | Centenarian | 0.10% | ~15 |
@@ -282,7 +283,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Golden Age-less | 0.10% | ~15 |
 | Worst Pharaoh Ever | 0.10% | ~15 |
 | Kmt Golden Age | 0.10% | ~15 |
-| Prosperous Kmt | 0.10% | ~15 |
 | Pharaonic Kmt Golden Age | 0.10% | ~15 |
 | Prosperous Pharaonic Kmt | 0.10% | ~15 |
 | Failed the Aten | 0.10% | ~15 |

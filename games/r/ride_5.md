@@ -8,7 +8,7 @@
 | Eat My Dust | 41.00% | ~592 |
 | Clean Race | 40.00% | ~578 |
 | Hear That Roar! | 38.00% | ~549 |
-| Rivals to the End | 28.00% | ~404 |
+| Rivals to the End | 29.00% | ~419 |
 | Bitter Rivalry | 25.00% | ~361 |
 | We're Going to Need a Bigger Garage | 24.00% | ~347 |
 | Champagne Spray | 22.00% | ~318 |

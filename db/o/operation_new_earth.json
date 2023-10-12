@@ -56,9 +56,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1588,
+  "EOS_Progressed": 1589,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5866,6 +5866,11 @@
       "Time": "2023-10-12T21:04:43.5183779+00:00",
       "NumProgressed": 1588,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-12T23:04:49.0534202+00:00",
+      "NumProgressed": 1589,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -5981,7 +5986,7 @@
       "Name": "Facility Online",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -6061,7 +6066,7 @@
       "Name": "Covert Operative",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -6180,7 +6185,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1588,
+      "Progressed": 1589,
       "Completed": 1
     }
   ],
@@ -6188,8 +6193,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-10-12T22:04:50.9599289+00:00",
+  "LastChanged_Achievements": "2023-10-12T23:04:49.0534195+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:57:03.7604863+00:00",
-  "LastUpdate_Ratings": "2023-10-12T21:58:55.4839007+00:00",
-  "LastUpdate_Achievements": "2023-10-12T22:04:50.9599807+00:00"
+  "LastUpdate_Ratings": "2023-10-12T22:58:56.0424356+00:00",
+  "LastUpdate_Achievements": "2023-10-12T23:04:49.0534838+00:00"
 }

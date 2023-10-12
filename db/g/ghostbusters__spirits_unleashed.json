@@ -15041,9 +15041,9 @@
       "ID": "Side_Hustle",
       "SetID": "819popo",
       "Name": "Side Hustle",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 185
     },
     {
       "ID": "Skilled",
@@ -15186,8 +15186,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-12T20:57:58.6775817+00:00",
-  "LastChanged_Achievements": "2023-10-12T22:05:26.7689074+00:00",
+  "LastChanged_Achievements": "2023-10-12T23:05:20.3976444+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:25.2013042+00:00",
-  "LastUpdate_Ratings": "2023-10-12T21:57:41.5606816+00:00",
-  "LastUpdate_Achievements": "2023-10-12T22:05:26.7690064+00:00"
+  "LastUpdate_Ratings": "2023-10-12T22:57:49.6247895+00:00",
+  "LastUpdate_Achievements": "2023-10-12T23:05:20.3977743+00:00"
 }

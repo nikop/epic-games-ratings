@@ -4,7 +4,7 @@
   "ProductSlug": "perish-390141",
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -3470,9 +3470,9 @@
       "ID": "ACH_M_D5",
       "SetID": "b3fep3o",
       "Name": "Athenian Treasury",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_M_DC",
@@ -3815,8 +3815,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-10-12T22:05:37.6507849+00:00",
+  "LastChanged_Achievements": "2023-10-12T23:05:29.8219463+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:18.6235407+00:00",
-  "LastUpdate_Ratings": "2023-10-12T21:58:05.1779994+00:00",
-  "LastUpdate_Achievements": "2023-10-12T22:05:37.6508484+00:00"
+  "LastUpdate_Ratings": "2023-10-12T22:58:09.1667045+00:00",
+  "LastUpdate_Achievements": "2023-10-12T23:05:29.8220364+00:00"
 }

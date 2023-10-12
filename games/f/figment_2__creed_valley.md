@@ -7,10 +7,10 @@
 | Black Hog Down | 35.00% | ~7 |
 | Ouch, that hurt! | 30.00% | ~6 |
 | Remembering of the past | 30.00% | ~6 |
-| Slam-KABAM | 20.00% | ~4 |
+| Slam-KABAM | 25.00% | ~5 |
+| Repair the Mind Validation Machine | 25.00% | ~5 |
 | A heavy thinker | 20.00% | ~4 |
 | Fight like an idiot | 20.00% | ~4 |
-| Repair the Mind Validation Machine | 20.00% | ~4 |
 | Heavy Thoughts | 15.00% | ~3 |
 | Dance like an idiot | 15.00% | ~3 |
 | Flee like an idiot | 15.00% | ~3 |

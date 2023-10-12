@@ -30,8 +30,8 @@
 | Merciless | 45.00% | ~299 |
 | Sentinel Ally | 44.00% | ~292 |
 | Missing in Action | 43.00% | ~286 |
+| Very Elusive | 43.00% | ~286 |
 | Head Hunter | 43.00% | ~286 |
-| Very Elusive | 42.00% | ~279 |
 | Operative | 42.00% | ~279 |
 | Veteran | 41.00% | ~272 |
 | Scholar | 41.00% | ~272 |
@@ -41,8 +41,8 @@
 | The Archangel | 37.00% | ~246 |
 | The Convict | 36.00% | ~239 |
 | The Krogan | 36.00% | ~239 |
+| Galactic Explorer | 36.00% | ~239 |
 | Colony Defense | 35.00% | ~232 |
-| Galactic Explorer | 35.00% | ~232 |
 | Archivist | 34.00% | ~226 |
 | Broke, Blind, and Bedlam | 34.00% | ~226 |
 | The Assassin | 33.00% | ~219 |

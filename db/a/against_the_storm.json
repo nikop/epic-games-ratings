@@ -3018,10 +3018,16 @@
       "Rating": 4.81,
       "NumberOfAwards": 3187,
       "NumberOfAwardsMax": 436
+    },
+    {
+      "Time": "2023-10-12T22:57:47.6864875+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 3188,
+      "NumberOfAwardsMax": 436
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3187,
+  "NumberOfAwards": 3188,
   "NumberOfAwardsMax": 436,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3035,7 +3041,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 427
+      "Count": 428
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3086,7 +3092,7 @@
       "Count": 321
     }
   ],
-  "EOS_Progressed": 16895,
+  "EOS_Progressed": 16896,
   "EOS_Completed": 52,
   "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
@@ -11881,6 +11887,11 @@
       "Time": "2023-10-12T22:06:23.7374693+00:00",
       "NumProgressed": 16895,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-10-12T23:06:09.9413493+00:00",
+      "NumProgressed": 16896,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 50,
@@ -12291,15 +12302,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 16895,
+      "Progressed": 16896,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-10-11T15:57:08.5093433+00:00",
-  "LastChanged_Achievements": "2023-10-12T22:06:23.737469+00:00",
+  "LastChanged": "2023-10-12T22:57:47.6864871+00:00",
+  "LastChanged_Achievements": "2023-10-12T23:06:09.9413483+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:39.9609132+00:00",
-  "LastUpdate_Ratings": "2023-10-12T21:57:39.3737584+00:00",
-  "LastUpdate_Achievements": "2023-10-12T22:06:23.7375435+00:00"
+  "LastUpdate_Ratings": "2023-10-12T22:57:47.6864881+00:00",
+  "LastUpdate_Achievements": "2023-10-12T23:06:09.9414514+00:00"
 }

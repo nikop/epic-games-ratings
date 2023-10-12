@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Maupiroa | 35.00% | ~6 |
+| Welcome to Maupiroa | 41.00% | ~7 |
 | Recycling newbie | 24.00% | ~4 |
 | New recruit | 18.00% | ~3 |
 | Amateur photographer | 12.00% | ~2 |

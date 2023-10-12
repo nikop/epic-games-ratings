@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2048,
+  "EOS_Progressed": 2055,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1540,
+  "EOS_NewPlayers": 1537,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1436,6 +1436,11 @@
       "Time": "2023-10-12T22:07:19.1677399+00:00",
       "NumProgressed": 2048,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-12T23:06:58.5710026+00:00",
+      "NumProgressed": 2055,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -1480,7 +1485,7 @@
       "Name": "KITTY",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_MEGLAB",
@@ -1496,7 +1501,7 @@
       "Name": "RUN",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_SECRETENDING",
@@ -1510,9 +1515,9 @@
       "ID": "ACH_SUBLEVEL02",
       "SetID": "1lo1k0a",
       "Name": "RED",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 75,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_SUBLEVEL03",
@@ -1544,7 +1549,7 @@
       "Name": "Level 0",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 512
+      "UsersEstimate": 514
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -1552,7 +1557,7 @@
       "Name": "Level 1",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -1560,7 +1565,7 @@
       "Name": "Dreamer!",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "ACH_WINLEVEL3",
@@ -1568,7 +1573,7 @@
       "Name": "Poolrooms",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ACH_WINLEVEL4",
@@ -1624,7 +1629,7 @@
       "Name": "FUN",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_WINLEVELLIGHTOUT",
@@ -1639,14 +1644,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 2048,
+      "Progressed": 2055,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-10-12T22:07:19.1677396+00:00",
+  "LastChanged_Achievements": "2023-10-12T23:06:58.5710017+00:00",
   "LastUpdate_AppInfo": "2023-10-09T13:09:09.4900137+00:00",
-  "LastUpdate_Ratings": "2023-10-12T21:58:24.7542313+00:00",
-  "LastUpdate_Achievements": "2023-10-12T22:07:19.1677588+00:00"
+  "LastUpdate_Ratings": "2023-10-12T22:58:26.3992912+00:00",
+  "LastUpdate_Achievements": "2023-10-12T23:06:58.5710334+00:00"
 }

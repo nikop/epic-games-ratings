@@ -35,6 +35,7 @@ Number of Ratings: 401  (23.09.2022)
 | Frightful, sheer, no-man-fathomed | 1.00% | ~387 |
 | The Bell Tolls | 1.00% | ~387 |
 | His bones in whispers | 1.00% | ~387 |
+| The beauty of the deep | 1.00% | ~387 |
 | The dragon in the zee | 1.00% | ~387 |
 | Thanks for all the fish | 1.00% | ~387 |
 | Knife, Cup and Bone | 1.00% | ~387 |
@@ -43,7 +44,6 @@ Number of Ratings: 401  (23.09.2022)
 | Under the zee | 1.00% | ~387 |
 | A current under zee | 1.00% | ~387 |
 | Never Stop Sinking... | 0.90% | ~349 |
-| The beauty of the deep | 0.90% | ~349 |
 | Leviathan | 0.90% | ~349 |
 | No regrets | 0.90% | ~349 |
 | Depth charge | 0.90% | ~349 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~39 |
 | Ten Years at Zee | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,727 (Ranked 110)  
+Progressed: 38,728 (Ranked 110)  
 Completed: 4 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 4 (0.01%) (Ranked 296)
 | 2023-10-09 | 38,595 | 4 |
 | 2023-10-10 | 38,639 | 4 |
 | 2023-10-11 | 38,686 | 4 |
-| 2023-10-12 | 38,727 | 4 |
+| 2023-10-12 | 38,728 | 4 |
 ## Awards
 Max (Character Customization): 215  (Ranked 273)  
 Sum: 287 (Ranked 353)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -361,9 +361,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4721,
+  "EOS_Progressed": 4722,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -2721,6 +2721,11 @@
       "Time": "2023-10-10T06:08:33.8749614+00:00",
       "NumProgressed": 4721,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-10-12T23:09:30.9479005+00:00",
+      "NumProgressed": 4722,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 67,
@@ -2740,7 +2745,7 @@
       "Name": "Firebug",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "ID_ACHIEV_03",
@@ -2748,7 +2753,7 @@
       "Name": "Big Sister",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "ID_ACHIEV_04",
@@ -2780,7 +2785,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 4013
+      "UsersEstimate": 4014
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -2788,7 +2793,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4438
+      "UsersEstimate": 4439
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -2796,7 +2801,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3635
+      "UsersEstimate": 3636
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -2860,7 +2865,7 @@
       "Name": "Sunglasses at Night",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ID_ACHIEV_18",
@@ -2924,7 +2929,7 @@
       "Name": "Duty-Bound",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ID_ACHIEV_26",
@@ -2940,7 +2945,7 @@
       "Name": "Follow the White Rabbit",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ID_ACHIEV_28",
@@ -2948,7 +2953,7 @@
       "Name": "First Day on the Job",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3635
+      "UsersEstimate": 3636
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -2956,7 +2961,7 @@
       "Name": "Liberation",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ID_ACHIEV_30",
@@ -3068,7 +3073,7 @@
       "Name": "GOLIATH",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "ID_ACHIEV_45",
@@ -3084,7 +3089,7 @@
       "Name": "SENTINEL",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "ID_ACHIEV_47",
@@ -3260,22 +3265,22 @@
       "Name": "Risk Assessment",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     }
   ],
   "AchievementSets": [
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4721,
+      "Progressed": 4722,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-08-16T19:59:29.2344729+00:00",
-  "LastChanged_Achievements": "2023-10-12T22:09:26.7965282+00:00",
+  "LastChanged_Achievements": "2023-10-12T23:09:30.9478997+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:02.3390771+00:00",
-  "LastUpdate_Ratings": "2023-10-12T21:59:27.0851691+00:00",
-  "LastUpdate_Achievements": "2023-10-12T22:09:26.7966021+00:00"
+  "LastUpdate_Ratings": "2023-10-12T22:59:21.1553136+00:00",
+  "LastUpdate_Achievements": "2023-10-12T23:09:30.9479864+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "whispering-willows-bde110",
   "Ranking_EOS_Progress": 668,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 395,
+  "Ranking_EOS_NewPlayers": 393,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-05-06T19:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:27.1756634+00:00",
   "LastChanged": "2023-03-31T05:58:27.1756636+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:02.5139826+00:00",
-  "LastUpdate_Ratings": "2023-10-12T22:01:32.2451626+00:00",
-  "LastUpdate_Achievements": "2023-10-12T22:05:50.4499416+00:00"
+  "LastUpdate_Ratings": "2023-10-12T23:01:10.6839429+00:00",
+  "LastUpdate_Achievements": "2023-10-12T23:05:41.1244466+00:00"
 }

@@ -2034,9 +2034,9 @@
       "ID": "achievement_37",
       "SetID": "b9pe172",
       "Name": "Very Elusive",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 279
+      "UsersEstimate": 286
     },
     {
       "ID": "achievement_38",
@@ -2314,9 +2314,9 @@
       "ID": "achievement_69",
       "SetID": "d252ncf",
       "Name": "Galactic Explorer",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 75,
-      "UsersEstimate": 232
+      "UsersEstimate": 239
     },
     {
       "ID": "achievement_7",
@@ -2598,8 +2598,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-12T22:03:23.0533232+00:00",
+  "LastChanged_Achievements": "2023-10-12T23:03:32.1035659+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:40.7255751+00:00",
-  "LastUpdate_Ratings": "2023-10-12T21:59:24.8695003+00:00",
-  "LastUpdate_Achievements": "2023-10-12T22:03:23.0535171+00:00"
+  "LastUpdate_Ratings": "2023-10-12T22:59:19.1264374+00:00",
+  "LastUpdate_Achievements": "2023-10-12T23:03:32.10379+00:00"
 }

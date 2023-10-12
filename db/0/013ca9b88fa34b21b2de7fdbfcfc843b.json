@@ -118,9 +118,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6533,
+  "EOS_Progressed": 6534,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 453,
+  "EOS_NewPlayers": 454,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4068,6 +4068,11 @@
       "Time": "2023-10-12T21:03:39.569856+00:00",
       "NumProgressed": 6533,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-12T23:03:47.6790471+00:00",
+      "NumProgressed": 6534,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -4080,7 +4085,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 4769
+      "UsersEstimate": 4770
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -4088,7 +4093,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 4573
+      "UsersEstimate": 4574
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -4254,9 +4259,9 @@
       "ID": "DISPATCH_THORNS",
       "SetID": "9eia0f5",
       "Name": "Bramble Breaker",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 2940
+      "UsersEstimate": 3006
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -4359,7 +4364,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 6533,
+      "Progressed": 6534,
       "Completed": 0
     }
   ],
@@ -4367,8 +4372,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-12T12:03:13.8462755+00:00",
-  "LastChanged_Achievements": "2023-10-12T22:03:41.100858+00:00",
+  "LastChanged_Achievements": "2023-10-12T23:03:47.6790463+00:00",
   "LastUpdate_AppInfo": "2023-10-06T05:57:20.0812213+00:00",
-  "LastUpdate_Ratings": "2023-10-12T21:57:07.4321252+00:00",
-  "LastUpdate_Achievements": "2023-10-12T22:03:41.1009023+00:00"
+  "LastUpdate_Ratings": "2023-10-12T22:57:23.7488036+00:00",
+  "LastUpdate_Achievements": "2023-10-12T23:03:47.6791011+00:00"
 }

@@ -138,9 +138,9 @@
       "ID": "combat_slammer_friendly_fire",
       "SetID": "7e96e7l",
       "Name": "Slam-KABAM",
-      "Percentage": 20,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "combat_thought_block_friendly_fire",
@@ -250,9 +250,9 @@
       "ID": "story_ethics_maze",
       "SetID": "7e96e7l",
       "Name": "Repair the Mind Validation Machine",
-      "Percentage": 20,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "story_jester_land",
@@ -291,8 +291,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4324402+00:00",
   "FirstSeenAchievements": "2023-05-30T08:03:39.2504029+00:00",
   "LastChanged": "2023-03-31T05:57:26.4324404+00:00",
-  "LastChanged_Achievements": "2023-10-12T22:08:40.6347319+00:00",
+  "LastChanged_Achievements": "2023-10-12T23:08:29.3646644+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:31.2755151+00:00",
-  "LastUpdate_Ratings": "2023-10-12T21:56:57.9595045+00:00",
-  "LastUpdate_Achievements": "2023-10-12T22:08:40.6347439+00:00"
+  "LastUpdate_Ratings": "2023-10-12T22:57:15.9517525+00:00",
+  "LastUpdate_Achievements": "2023-10-12T23:08:29.3646778+00:00"
 }

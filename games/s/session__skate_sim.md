@@ -36,11 +36,11 @@ Number of Ratings: 111  (23.09.2022)
 | Lines for days | 5.00% | ~150 |
 | Manny Destroys All | 5.00% | ~150 |
 | Renaissance man | 5.00% | ~150 |
+| Tank commander | 5.00% | ~150 |
 | Trick shot marksman | 5.00% | ~150 |
 | Cops called! | 4.00% | ~120 |
 | G.O.A.T. status | 4.00% | ~120 |
 | Prince of Philly | 4.00% | ~120 |
-| Tank commander | 4.00% | ~120 |
 | We get it, you're good | 4.00% | ~120 |
 | Hoarder | 3.00% | ~90 |
 | Pew-Pew | 3.00% | ~90 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,009 (Ranked 190)  
+Progressed: 3,009 (Ranked 191)  
 Completed: 1 (0.03%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |

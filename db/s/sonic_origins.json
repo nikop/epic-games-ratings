@@ -2389,9 +2389,9 @@
       "ID": "ID_01_SONIC1_WATCH_OPENING",
       "SetID": "7o8nc5m",
       "Name": "Welcome to Sonic the Hedgehog",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 508
+      "UsersEstimate": 513
     },
     {
       "ID": "ID_02_SONICCD_WATCH_OPENING",
@@ -2677,8 +2677,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-10-04T20:01:39.9838728+00:00",
-  "LastChanged_Achievements": "2023-10-12T22:08:30.7900302+00:00",
+  "LastChanged_Achievements": "2023-10-12T23:08:20.774195+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:14.4441586+00:00",
-  "LastUpdate_Ratings": "2023-10-12T22:00:38.4753257+00:00",
-  "LastUpdate_Achievements": "2023-10-12T22:08:30.7900739+00:00"
+  "LastUpdate_Ratings": "2023-10-12T23:00:23.8943988+00:00",
+  "LastUpdate_Achievements": "2023-10-12T23:08:20.7742377+00:00"
 }
