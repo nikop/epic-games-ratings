@@ -2,12 +2,12 @@
   "ID": "9bcf5a4dc1d54cb6ab1a42f3a70c5cf4",
   "Name": "Assassin\u0027s Creed\u00AE Mirage",
   "ProductSlug": "assassins-creed-mirage",
-  "Ranking_Rating": 628,
+  "Ranking_Rating": 643,
   "Ranking_Popularity": 503,
-  "Ranking_PopularitySum": 472,
+  "Ranking_PopularitySum": 460,
   "Ranking_EOS_Progress": 667,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 396,
+  "Ranking_EOS_NewPlayers": 397,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-10-05T16:00:00+00:00",
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.46,
+  "Rating": 4.45,
   "RatingHistory": [
     {
       "Time": "2023-10-06T05:58:23.6709701+00:00",
@@ -118,10 +118,16 @@
       "Rating": 4.46,
       "NumberOfAwards": 45,
       "NumberOfAwardsMax": 24
+    },
+    {
+      "Time": "2023-10-12T12:01:27.9190428+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 65,
+      "NumberOfAwardsMax": 24
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 45,
+  "NumberOfAwards": 65,
   "NumberOfAwardsMax": 24,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -136,6 +142,12 @@
       "Prefix": "This game is",
       "Type": "Great for Beginners",
       "Count": 21
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -150,8 +162,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-05T18:58:30.4202319+00:00",
   "FirstSeenRating": "2023-10-06T05:58:23.6709697+00:00",
-  "LastChanged": "2023-10-12T03:03:20.9160865+00:00",
+  "LastChanged": "2023-10-12T12:01:27.9190426+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:21.9440654+00:00",
-  "LastUpdate_Ratings": "2023-10-12T11:00:36.0277386+00:00",
-  "LastUpdate_Achievements": "2023-10-12T11:03:50.0026875+00:00"
+  "LastUpdate_Ratings": "2023-10-12T12:01:27.9190432+00:00",
+  "LastUpdate_Achievements": "2023-10-12T12:04:06.3800168+00:00"
 }

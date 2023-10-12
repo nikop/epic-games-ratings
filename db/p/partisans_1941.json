@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 532,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1485,
+  "EOS_Progressed": 1486,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3030,6 +3030,11 @@
       "Time": "2023-10-12T11:06:14.4522708+00:00",
       "NumProgressed": 1485,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-12T12:06:50.9397876+00:00",
+      "NumProgressed": 1486,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -3073,7 +3078,7 @@
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "Commandos",
@@ -3169,7 +3174,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "High_noon",
@@ -3193,7 +3198,7 @@
       "Name": "Spice It Up",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "KillAllM2",
@@ -3280,15 +3285,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1485,
+      "Progressed": 1486,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-10-12T11:06:14.45227+00:00",
+  "LastChanged_Achievements": "2023-10-12T12:06:50.9397868+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:37.6923731+00:00",
   "LastUpdate_Ratings": "2023-10-12T11:03:10.5695083+00:00",
-  "LastUpdate_Achievements": "2023-10-12T11:06:14.4523279+00:00"
+  "LastUpdate_Achievements": "2023-10-12T12:06:50.9398234+00:00"
 }

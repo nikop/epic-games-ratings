@@ -9,7 +9,7 @@
 | Haute cuisine | 47.00% | ~62 |
 | Demolition expert | 39.00% | ~51 |
 | I didn't do it! | 39.00% | ~51 |
-| Wooooooow! | 37.00% | ~49 |
+| Wooooooow! | 38.00% | ~50 |
 | Keep away from children | 35.00% | ~46 |
 | Artistic fool | 33.00% | ~44 |
 | Open up wide | 33.00% | ~44 |

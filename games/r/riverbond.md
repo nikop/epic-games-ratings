@@ -6,14 +6,14 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~370,366 |
-| Now You're Talking | 62.00% | ~328,038 |
-| Steel Yourself | 62.00% | ~328,038 |
-| Window Dressing | 50.00% | ~264,547 |
-| Trigger Happy | 46.00% | ~243,383 |
-| Riverborn | 45.00% | ~238,092 |
-| Starry Eyed | 34.00% | ~179,892 |
-| Poking Around | 34.00% | ~179,892 |
+| First Step | 70.00% | ~370,367 |
+| Now You're Talking | 62.00% | ~328,040 |
+| Steel Yourself | 62.00% | ~328,040 |
+| Window Dressing | 50.00% | ~264,548 |
+| Trigger Happy | 46.00% | ~243,384 |
+| Riverborn | 45.00% | ~238,093 |
+| Starry Eyed | 34.00% | ~179,893 |
+| Poking Around | 34.00% | ~179,893 |
 | Talk of the Town | 24.00% | ~126,983 |
 | AAARR! | 23.00% | ~121,692 |
 | Hello Darkness | 23.00% | ~121,692 |
@@ -24,12 +24,12 @@ Number of Ratings: 617  (23.09.2022)
 | To Victory! | 15.00% | ~79,364 |
 | Two of a Kind | 14.00% | ~74,073 |
 | Keep On Trucking | 13.00% | ~68,782 |
-| Going on an Adventure | 11.00% | ~58,200 |
-| Make Peace, Not War | 11.00% | ~58,200 |
-| Walking The Line | 10.00% | ~52,909 |
-| Not So Cute Anymore | 10.00% | ~52,909 |
-| Road Less Travelled | 9.00% | ~47,618 |
-| Lost and Found | 9.00% | ~47,618 |
+| Going on an Adventure | 11.00% | ~58,201 |
+| Make Peace, Not War | 11.00% | ~58,201 |
+| Walking The Line | 10.00% | ~52,910 |
+| Not So Cute Anymore | 10.00% | ~52,910 |
+| Road Less Travelled | 9.00% | ~47,619 |
+| Lost and Found | 9.00% | ~47,619 |
 | Under the Radar | 8.00% | ~42,328 |
 | Partner in Crime | 7.00% | ~37,037 |
 | Hard to Hear | 7.00% | ~37,037 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,587 |
 | Point Taken | 0.20% | ~1,058 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 529,094 (Ranked 34)  
+Progressed: 529,096 (Ranked 34)  
 Completed: 483 (0.09%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 483 (0.09%) (Ranked 253)
 | 2023-10-09 | 528,985 | 481 |
 | 2023-10-10 | 529,036 | 482 |
 | 2023-10-11 | 529,075 | 483 |
-| 2023-10-12 | 529,094 | 483 |
+| 2023-10-12 | 529,096 | 483 |
 ## Awards
 Max (Relaxing): 20  (Ranked 526)  
 Sum: 20 (Ranked 527)  

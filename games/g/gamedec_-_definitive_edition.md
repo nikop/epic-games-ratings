@@ -6,17 +6,17 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~69,665 |
-| Powergamer | 27.00% | ~67,177 |
-| Barely scratched the surface | 25.00% | ~62,200 |
-| Write that down | 24.00% | ~59,712 |
-| Guns, lots of guns | 13.00% | ~32,344 |
-| Collector | 12.00% | ~29,856 |
-| Elementary! | 9.00% | ~22,392 |
-| Griever | 8.00% | ~19,904 |
-| Pumpkin Jack | 8.00% | ~19,904 |
-| Wake up! | 8.00% | ~19,904 |
-| It's honest work | 7.00% | ~17,416 |
+| I will finish what you started | 28.00% | ~69,666 |
+| Powergamer | 27.00% | ~67,178 |
+| Barely scratched the surface | 25.00% | ~62,202 |
+| Write that down | 24.00% | ~59,714 |
+| Guns, lots of guns | 13.00% | ~32,345 |
+| Collector | 12.00% | ~29,857 |
+| Elementary! | 9.00% | ~22,393 |
+| Griever | 8.00% | ~19,905 |
+| Pumpkin Jack | 8.00% | ~19,905 |
+| Wake up! | 8.00% | ~19,905 |
+| It's honest work | 7.00% | ~17,417 |
 | Me smart | 6.00% | ~14,928 |
 | Trash compactor | 6.00% | ~14,928 |
 | Good listener | 5.00% | ~12,440 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~498 |
 | Memory 5 | 0.10% | ~249 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248,802 (Ranked 53)  
+Progressed: 248,808 (Ranked 53)  
 Completed: 7 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,14 +234,14 @@ Completed: 7 (0.00%) (Ranked 314)
 | 2023-10-09 | 248,605 | 7 |
 | 2023-10-10 | 248,676 | 7 |
 | 2023-10-11 | 248,764 | 7 |
-| 2023-10-12 | 248,802 | 7 |
+| 2023-10-12 | 248,808 | 7 |
 ## Awards
-Max (Character Customization): 82  (Ranked 371)  
-Sum: 82 (Ranked 441)  
-Diff (max vs sum): -70  
+Max (Character Customization): 83  (Ranked 369)  
+Sum: 83 (Ranked 440)  
+Diff (max vs sum): -71  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 82 |
+| This game has Inclusive Character Customization | 83 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -316,3 +316,4 @@ Diff (max vs sum): -70
 | 2023-09-19 | 4.30 | - | 81 | 81 |
 | 2023-09-29 | 4.30 | - | 82 | 82 |
 | 2023-10-08 | 4.29 | - | 82 | 82 |
+| 2023-10-12 | 4.29 | - | 83 | 83 |

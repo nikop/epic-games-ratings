@@ -673,9 +673,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 347373,
+  "EOS_Progressed": 347375,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1021,
+  "EOS_NewPlayers": 1018,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20383,6 +20383,11 @@
       "Time": "2023-10-12T11:06:38.7964341+00:00",
       "NumProgressed": 347373,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-12T12:07:20.3563188+00:00",
+      "NumProgressed": 347375,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -20418,7 +20423,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6947
+      "UsersEstimate": 6948
     },
     {
       "ID": "ach005",
@@ -20466,7 +20471,7 @@
       "Name": "Homemade Hooch",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1389
+      "UsersEstimate": 1390
     },
     {
       "ID": "ach011",
@@ -20490,7 +20495,7 @@
       "Name": "Baker\u2019s Dozen",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6947
+      "UsersEstimate": 6948
     },
     {
       "ID": "ach014",
@@ -20522,7 +20527,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 45158
+      "UsersEstimate": 45159
     },
     {
       "ID": "ach018",
@@ -20626,7 +20631,7 @@
       "Name": "Dropping the Dime",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6947
+      "UsersEstimate": 6948
     },
     {
       "ID": "ach031",
@@ -20672,9 +20677,9 @@
       "ID": "ach036",
       "SetID": "1d2iaed",
       "Name": "Still Dreaming",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1389
+      "UsersEstimate": 1737
     },
     {
       "ID": "ach037",
@@ -20682,7 +20687,7 @@
       "Name": "High End Booze",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1389
+      "UsersEstimate": 1390
     },
     {
       "ID": "ach038",
@@ -20698,7 +20703,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 34737
+      "UsersEstimate": 34738
     },
     {
       "ID": "ach040",
@@ -20746,7 +20751,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 45158
+      "UsersEstimate": 45159
     },
     {
       "ID": "ach046",
@@ -20826,7 +20831,7 @@
       "Name": "Spiffy Speakeasies",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6947
+      "UsersEstimate": 6948
     },
     {
       "ID": "ach056",
@@ -20842,7 +20847,7 @@
       "Name": "Working on the Railroad",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1389
+      "UsersEstimate": 1390
     },
     {
       "ID": "ach058",
@@ -20858,7 +20863,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 34737
+      "UsersEstimate": 34738
     },
     {
       "ID": "ach060",
@@ -20874,7 +20879,7 @@
       "Name": "Keeping Your Word",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6947
+      "UsersEstimate": 6948
     },
     {
       "ID": "ach062",
@@ -20906,7 +20911,7 @@
       "Name": "The Dawn of Automation",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 48632
+      "UsersEstimate": 48633
     },
     {
       "ID": "ach067",
@@ -20930,7 +20935,7 @@
       "Name": "Extraordinary Logistics",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 48632
+      "UsersEstimate": 48633
     },
     {
       "ID": "ach070",
@@ -20994,7 +20999,7 @@
       "Name": "In-House Maintenance",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1389
+      "UsersEstimate": 1390
     },
     {
       "ID": "ach078",
@@ -21033,7 +21038,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 347373,
+      "Progressed": 347375,
       "Completed": 7
     }
   ],
@@ -21041,8 +21046,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-10-06T22:57:01.637596+00:00",
-  "LastChanged_Achievements": "2023-10-12T11:06:38.7964331+00:00",
+  "LastChanged_Achievements": "2023-10-12T12:07:20.3563181+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:17.3375259+00:00",
-  "LastUpdate_Ratings": "2023-10-12T10:59:30.7675732+00:00",
-  "LastUpdate_Achievements": "2023-10-12T11:06:38.7966964+00:00"
+  "LastUpdate_Ratings": "2023-10-12T12:00:03.4719486+00:00",
+  "LastUpdate_Achievements": "2023-10-12T12:07:20.3565127+00:00"
 }

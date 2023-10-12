@@ -3,11 +3,11 @@
   "Name": "Ancestors: The Humankind Odyssey",
   "ProductSlug": "ancestors",
   "Ranking_Rating": 436,
-  "Ranking_Popularity": 424,
+  "Ranking_Popularity": 425,
   "Ranking_PopularitySum": 366,
   "Ranking_EOS_Progress": 667,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 396,
+  "Ranking_EOS_NewPlayers": 397,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2019-08-27T15:00:00+00:00",
@@ -730,6 +730,6 @@
   "FirstSeen": "2022-07-22T20:21:27.180823+00:00",
   "LastChanged": "2023-10-10T18:58:33.1103571+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:03.5583427+00:00",
-  "LastUpdate_Ratings": "2023-10-12T10:59:24.7603267+00:00",
-  "LastUpdate_Achievements": "2023-10-12T11:06:02.8399637+00:00"
+  "LastUpdate_Ratings": "2023-10-12T11:59:56.4885864+00:00",
+  "LastUpdate_Achievements": "2023-10-12T12:06:37.1027993+00:00"
 }

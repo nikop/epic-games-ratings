@@ -1,47 +1,47 @@
 # Saints Row
 [Store](https://store.epicgames.com/en-US/p/saints-row)  
 [View Rawdata](../../db/s/saints_row.json)  
-Rating: 3.79 (Ranked 1,000)  
+Rating: 3.79 (Ranked 1,001)  
 Number of Ratings: 22,103  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 46.00% | ~34,357 |
-| To The Nines | 42.00% | ~31,370 |
-| Optimized | 37.00% | ~27,635 |
-| Performance Review | 36.00% | ~26,888 |
-| Making a Name | 34.00% | ~25,395 |
-| Tune Up | 33.00% | ~24,648 |
-| Wet Work | 32.00% | ~23,901 |
-| Landlord | 32.00% | ~23,901 |
-| The Side Job | 31.00% | ~23,154 |
-| Wrecking Ball | 28.00% | ~20,913 |
-| Food for Thought | 27.00% | ~20,166 |
-| Finders Keepers | 25.00% | ~18,672 |
-| A Young Empire | 25.00% | ~18,672 |
+| First F#@!ing Day | 46.00% | ~34,359 |
+| To The Nines | 42.00% | ~31,371 |
+| Optimized | 37.00% | ~27,636 |
+| Performance Review | 36.00% | ~26,889 |
+| Making a Name | 34.00% | ~25,396 |
+| Tune Up | 33.00% | ~24,649 |
+| Wet Work | 32.00% | ~23,902 |
+| Landlord | 32.00% | ~23,902 |
+| The Side Job | 31.00% | ~23,155 |
+| Wrecking Ball | 28.00% | ~20,914 |
+| Food for Thought | 27.00% | ~20,167 |
+| Finders Keepers | 25.00% | ~18,673 |
+| A Young Empire | 25.00% | ~18,673 |
 | Work Ethic | 23.00% | ~17,179 |
-| Picking Fights | 20.00% | ~14,938 |
-| Power Players | 19.00% | ~14,191 |
-| Quality Time | 18.00% | ~13,444 |
-| Et tu? | 17.00% | ~12,697 |
-| Showdown | 16.00% | ~11,950 |
-| Took It to The Limit | 16.00% | ~11,950 |
+| Picking Fights | 20.00% | ~14,939 |
+| Power Players | 19.00% | ~14,192 |
+| Quality Time | 18.00% | ~13,445 |
+| Et tu? | 17.00% | ~12,698 |
+| Showdown | 16.00% | ~11,951 |
+| Took It to The Limit | 16.00% | ~11,951 |
 | Kitted Out | 14.00% | ~10,457 |
 | Masters of Santo Ileso | 12.00% | ~8,963 |
 | Hijacked | 11.00% | ~8,216 |
 | The Spins | 10.00% | ~7,469 |
 | The Mechanic | 10.00% | ~7,469 |
 | Closet Space | 8.00% | ~5,975 |
-| We could go home, or… | 7.00% | ~5,228 |
-| Challenge Accepted | 7.00% | ~5,228 |
-| A Golden Age | 7.00% | ~5,228 |
+| We could go home, or… | 7.00% | ~5,229 |
+| Challenge Accepted | 7.00% | ~5,229 |
+| A Golden Age | 7.00% | ~5,229 |
 | Producer Credit | 7.00% | ~3,243 |
-| Chaos Tamer | 6.00% | ~4,481 |
+| Chaos Tamer | 6.00% | ~4,482 |
 | Face Off | 6.00% | ~2,780 |
-| The Professional | 5.00% | ~3,734 |
-| Untouchable | 5.00% | ~3,734 |
-| Free Refills | 5.00% | ~3,734 |
-| Smooth Moves | 5.00% | ~3,734 |
+| The Professional | 5.00% | ~3,735 |
+| Untouchable | 5.00% | ~3,735 |
+| Free Refills | 5.00% | ~3,735 |
+| Smooth Moves | 5.00% | ~3,735 |
 | Hazardous Heist | 5.00% | ~2,316 |
 | Neighborly | 4.00% | ~2,988 |
 | Prankster | 4.00% | ~2,988 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~149 |
 | Fiesta Time | 0.20% | ~149 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 74,690 (Ranked 90)  
+Progressed: 74,693 (Ranked 90)  
 Completed: 51 (0.07%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,19 +235,19 @@ Completed: 51 (0.07%) (Ranked 261)
 | 2023-10-09 | 74,444 | 51 |
 | 2023-10-10 | 74,548 | 51 |
 | 2023-10-11 | 74,641 | 51 |
-| 2023-10-12 | 74,690 | 51 |
+| 2023-10-12 | 74,693 | 51 |
 ## Awards
 Max (Extremely Fun): 1,069  (Ranked 142)  
-Sum: 8,675 (Ranked 97)  
+Sum: 8,677 (Ranked 97)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 1,069 |
 | This game has Quickly Understood Controls | 1,040 |
 | This game is Highly Recommended | 1,009 |
-| This game is Great for Beginners | 1,004 |
+| This game is Great for Beginners | 1,005 |
 | This game has Diverse Characters | 999 |
-| This game has Amazing Characters | 990 |
+| This game has Amazing Characters | 991 |
 | This game is Relaxing | 984 |
 | This game has Amazing Storytelling | 974 |
 | This game has Playful Visuals | 777 |
@@ -450,3 +450,4 @@ Diff (max vs sum): 45
 | 2023-10-09 | 3.79 | - | 1,068 | 8,671 |
 | 2023-10-10 | 3.79 | - | 1,069 | 8,674 |
 | 2023-10-11 | 3.79 | - | 1,069 | 8,675 |
+| 2023-10-12 | 3.79 | - | 1,069 | 8,677 |

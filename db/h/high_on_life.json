@@ -5573,9 +5573,9 @@
       "ID": "ACH_GET_SWEEZY",
       "SetID": "cdkbb11",
       "Name": "Sweezy Like Sunday Morning",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 169
+      "UsersEstimate": 194
     },
     {
       "ID": "ACH_GLOBO_STAR",
@@ -5621,9 +5621,9 @@
       "ID": "ACH_KILL_DOUGLAS",
       "SetID": "cdkbb11",
       "Name": "G3 Graduation",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 169
+      "UsersEstimate": 194
     },
     {
       "ID": "ACH_KILL_GARM",
@@ -5852,8 +5852,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-07T05:03:09.4311759+00:00",
-  "LastChanged_Achievements": "2023-10-12T11:04:43.386547+00:00",
+  "LastChanged_Achievements": "2023-10-12T12:05:02.1190258+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:51.1168375+00:00",
-  "LastUpdate_Ratings": "2023-10-12T10:59:15.8078569+00:00",
-  "LastUpdate_Achievements": "2023-10-12T11:04:43.3866314+00:00"
+  "LastUpdate_Ratings": "2023-10-12T11:59:47.392786+00:00",
+  "LastUpdate_Achievements": "2023-10-12T12:05:02.119099+00:00"
 }

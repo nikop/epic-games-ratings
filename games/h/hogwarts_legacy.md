@@ -25,11 +25,11 @@ Rating: 4.76 (Ranked 119)
 | The Avenging Gazelle | 8.00% | ~23,855 |
 | A Sallow Grave | 8.00% | ~23,855 |
 | Flight the Good Flight | 8.00% | ~23,855 |
-| Beast Friends | 7.00% | ~20,873 |
-| The Seeker of Knowledge | 6.00% | ~17,891 |
-| The Root of the Problem | 6.00% | ~17,891 |
-| Third Time's a Charm | 6.00% | ~17,891 |
-| Raising Expectations | 6.00% | ~17,891 |
+| Beast Friends | 7.00% | ~20,874 |
+| The Seeker of Knowledge | 6.00% | ~17,892 |
+| The Root of the Problem | 6.00% | ~17,892 |
+| Third Time's a Charm | 6.00% | ~17,892 |
+| Raising Expectations | 6.00% | ~17,892 |
 | The Toast of the Town | 5.00% | ~14,910 |
 | The Ends Petrify the Means | 5.00% | ~14,910 |
 | Going Through the Potions | 4.00% | ~11,928 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 119)
 | The Nature of the Beast | 0.70% | ~2,087 |
 | Collector's Edition | 0.30% | ~895 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,191 (Ranked 46)  
+Progressed: 298,193 (Ranked 46)  
 Completed: 484 (0.16%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,10 +226,10 @@ Completed: 484 (0.16%) (Ranked 231)
 | 2023-10-09 | 298,106 | 482 |
 | 2023-10-10 | 298,150 | 483 |
 | 2023-10-11 | 298,177 | 483 |
-| 2023-10-12 | 298,191 | 484 |
+| 2023-10-12 | 298,193 | 484 |
 ## Awards
 Max (Character Customization): 23,447  (Ranked 17)  
-Sum: 45,630 (Ranked 31)  
+Sum: 45,633 (Ranked 31)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -237,7 +237,7 @@ Diff (max vs sum): -14
 | This game has Great Boss Battles | 11,710 |
 | This game is Great for Beginners | 1,172 |
 | This game has Amazing Storytelling | 1,136 |
-| This game has Diverse Characters | 1,128 |
+| This game has Diverse Characters | 1,131 |
 | This game is Relaxing | 1,121 |
 | This game is Extremely Fun | 1,120 |
 | This game has Amazing Characters | 1,081 |
@@ -450,4 +450,4 @@ Diff (max vs sum): -14
 | 2023-10-09 | 4.76 | 23,405 | 45,477 |
 | 2023-10-10 | 4.76 | 23,430 | 45,548 |
 | 2023-10-11 | 4.76 | 23,447 | 45,619 |
-| 2023-10-12 | 4.76 | 23,447 | 45,630 |
+| 2023-10-12 | 4.76 | 23,447 | 45,633 |

@@ -5,11 +5,11 @@ Rating: 4.64 (Ranked 320)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Sweezy Like Sunday Morning | 0.80% | ~194 |
 | First Bounty Down | 0.80% | ~194 |
+| G3 Graduation | 0.80% | ~194 |
 | Satisfied Gus-tomer | 0.70% | ~169 |
 | Are You Packin'? | 0.70% | ~169 |
-| Sweezy Like Sunday Morning | 0.70% | ~169 |
-| G3 Graduation | 0.70% | ~169 |
 | Cold-Blooded Driller | 0.70% | ~169 |
 | Don't Knife The Hand That Feeds | 0.70% | ~169 |
 | Creature Feature | 0.60% | ~145 |
