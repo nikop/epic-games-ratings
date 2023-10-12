@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 52.19% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 52.16% |
 | 3 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 47.17% |
 | 5 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 45.90% |
@@ -71,11 +71,11 @@
 | 69 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.11% |
 | 70 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.06% |
 | 71 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 3.97% |
-| 72 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.88% |
+| 72 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.87% |
 | 73 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.85% |
 | 74 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.84% |
 | 75 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
-| 76 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.64% |
+| 76 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.63% |
 | 77 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
 | 77 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.57% |
 | 79 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
@@ -126,7 +126,7 @@
 | 124 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
 | 125 | [Iron Danger](games/i/iron_danger.md) | 1.45% |
 | 126 | [Late Shift](games/l/late_shift.md) | 1.41% |
-| 126 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 1.41% |
+| 127 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 1.39% |
 | 128 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.38% |
 | 128 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.38% |
 | 128 | [Poosh XL](games/p/poosh_xl.md) | 1.38% |
@@ -163,9 +163,9 @@
 | 161 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
 | 162 | [Potion Permit](games/p/potion_permit.md) | 0.62% |
 | 163 | [Haven](games/h/haven.md) | 0.61% |
-| 164 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.59% |
-| 164 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.59% |
-| 164 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.59% |
+| 164 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.60% |
+| 165 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.59% |
+| 165 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.59% |
 | 167 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.58% |
 | 167 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.58% |
 | 167 | [Grindstone](games/g/grindstone.md) | 0.58% |
@@ -173,9 +173,9 @@
 | 171 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.57% |
 | 172 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
 | 172 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.55% |
-| 174 | [Dead Space](games/d/dead_space.md) | 0.54% |
-| 175 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
-| 175 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.53% |
+| 174 | [Dead Space](games/d/dead_space.md) | 0.53% |
+| 174 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
+| 174 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.53% |
 | 177 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.51% |
 | 178 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 178 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.46% |
@@ -185,9 +185,9 @@
 | 178 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.46% |
 | 178 | [Them and Us](games/t/them_and_us.md) | 0.46% |
 | 185 | [Tchia](games/t/tchia.md) | 0.44% |
-| 186 | [It Takes Two](games/i/it_takes_two.md) | 0.43% |
-| 187 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.42% |
-| 187 | [Wildermyth](games/w/wildermyth.md) | 0.42% |
+| 186 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.42% |
+| 186 | [It Takes Two](games/i/it_takes_two.md) | 0.42% |
+| 186 | [Wildermyth](games/w/wildermyth.md) | 0.42% |
 | 189 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 190 | [Train Valley](games/t/train_valley.md) | 0.39% |
 | 191 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.38% |

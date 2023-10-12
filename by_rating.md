@@ -18,7 +18,7 @@
 | 16 | [God of War](games/g/god_of_war.md) | 4.88 | 4,276 | 80 |
 | 16 | [Ooblets](games/o/ooblets.md) | 4.88 | 1,029 | 146 |
 | 16 | [Rain World](games/r/rain_world.md) | 4.88 | 0 | 532 |
-| 16 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 185,871 | 6 |
+| 16 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 186,190 | 6 |
 | 16 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 11,902 | 33 |
 | 16 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 515 |
 | 22 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.87 | 23 | 513 |
@@ -61,7 +61,7 @@
 | 56 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 94 | 357 |
 | 56 | [TUNIC](games/t/tunic.md) | 4.83 | 35 | 453 |
 | 61 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 0 | 532 |
-| 61 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,694 | 120 |
+| 61 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,696 | 120 |
 | 61 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,907 | 63 |
 | 61 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 0 | 532 |
 | 61 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 532 |
@@ -119,7 +119,7 @@
 | 112 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.77 | 149 | 309 |
 | 112 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 532 |
 | 119 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.76 | 30 | 472 |
-| 119 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 15,555 | 24 |
+| 119 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 15,567 | 24 |
 | 119 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.76 | 0 | 532 |
 | 119 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,355 | 92 |
 | 119 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 1,004 | 149 |
@@ -133,7 +133,7 @@
 | 119 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,721 | 119 |
 | 119 | [Quake](games/q/quake.md) | 4.76 | 49 | 416 |
 | 119 | [Remnant 2](games/r/remnant_2.md) | 4.76 | 1,826 | 114 |
-| 119 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 11,191 | 37 |
+| 119 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 11,216 | 37 |
 | 119 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.76 | 103 | 341 |
 | 119 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.76 | 49 | 416 |
 | 119 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 41 | 439 |
@@ -277,7 +277,7 @@
 | 260 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.67 | 0 | 532 |
 | 260 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.67 | 225 | 265 |
 | 260 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.67 | 0 | 532 |
-| 260 | [Trackmania](games/t/trackmania.md) | 4.67 | 3,602 | 89 |
+| 260 | [Trackmania](games/t/trackmania.md) | 4.67 | 3,606 | 89 |
 | 260 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 0 | 532 |
 | 280 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 79 | 373 |
 | 280 | [Cities: Skylines](games/c/cities__skylines.md) | 4.66 | 5,717 | 66 |
@@ -615,7 +615,7 @@
 | 607 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.48 | 0 | 532 |
 | 607 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.48 | 0 | 532 |
 | 607 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.48 | 103 | 341 |
-| 607 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.48 | 8,209 | 44 |
+| 607 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.48 | 8,215 | 44 |
 | 607 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 0 | 532 |
 | 607 | [Train Valley](games/t/train_valley.md) | 4.48 | 0 | 532 |
 | 619 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 0 | 532 |
@@ -965,7 +965,7 @@
 | 962 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 4.00 | 0 | 532 |
 | 962 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.00 | 0 | 532 |
 | 965 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 373 | 227 |
-| 965 | [Shop Titans](games/s/shop_titans.md) | 3.99 | 4,779 | 71 |
+| 965 | [Shop Titans](games/s/shop_titans.md) | 3.99 | 4,782 | 71 |
 | 965 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.99 | 0 | 532 |
 | 968 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.98 | 0 | 532 |
 | 968 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.98 | 0 | 532 |
