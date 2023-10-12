@@ -45,7 +45,7 @@
 | 43 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 8,395 | 4.89 | 10 |
 | 44 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 8,209 | 4.48 | 607 |
 | 45 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 8,001 | 4.57 | 453 |
-| 46 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,912 | 4.85 | 42 |
+| 46 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,917 | 4.85 | 42 |
 | 47 | [Supraland](games/s/supraland.md) | 7,696 | 4.61 | 373 |
 | 48 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 7,514 | 4.70 | 203 |
 | 49 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,509 | 4.71 | 187 |
@@ -69,7 +69,7 @@
 | 67 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,588 | 4.85 | 42 |
 | 68 | [Rogue Company](games/r/rogue_company.md) | 5,526 | 4.32 | 797 |
 | 69 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,385 | 4.06 | 946 |
-| 70 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 5,146 | 4.69 | 221 |
+| 70 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 5,153 | 4.69 | 221 |
 | 71 | [Shop Titans](games/s/shop_titans.md) | 4,779 | 3.99 | 965 |
 | 72 | [MultiVersus](games/m/multiversus.md) | 4,748 | 4.56 | 471 |
 | 73 | [Chivalry 2](games/c/chivalry_2.md) | 4,726 | 4.60 | 397 |
@@ -101,7 +101,7 @@
 | 99 | [Path of Exile](games/p/path_of_exile.md) | 2,655 | 4.62 | 354 |
 | 100 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 2,654 | 4.34 | 781 |
 | 101 | [RAGE 2](games/r/rage_2.md) | 2,599 | 4.27 | 834 |
-| 102 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,519 | 4.10 | 931 |
+| 102 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,519 | 4.10 | 930 |
 | 103 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,487 | 4.80 | 82 |
 | 104 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,430 | 4.78 | 99 |
 | 105 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,261 | 4.67 | 260 |
@@ -230,7 +230,7 @@
 | 228 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 364 | 4.31 | 806 |
 | 229 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 361 | 4.54 | 510 |
 | 230 | [Dungeons 3](games/d/dungeons_3.md) | 358 | 4.66 | 280 |
-| 231 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 349 | 4.59 | 418 |
+| 231 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 350 | 4.59 | 418 |
 | 232 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 347 | 4.56 | 471 |
 | 233 | [Inscryption](games/i/inscryption.md) | 339 | 4.86 | 28 |
 | 233 | [The Messenger](games/t/the_messenger.md) | 339 | 4.81 | 76 |
@@ -359,7 +359,7 @@
 | 357 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 94 | 4.17 | 903 |
 | 357 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 94 | 4.83 | 56 |
 | 359 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 93 | 4.55 | 492 |
-| 360 | [Armored Warfare](games/a/armored_warfare.md) | 91 | 4.10 | 931 |
+| 360 | [Armored Warfare](games/a/armored_warfare.md) | 91 | 4.10 | 930 |
 | 360 | [Darksiders III](games/d/darksiders_iii.md) | 91 | 4.50 | 573 |
 | 360 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 91 | 4.69 | 221 |
 | 363 | [RAILGRADE](games/r/railgrade.md) | 90 | 4.55 | 492 |
