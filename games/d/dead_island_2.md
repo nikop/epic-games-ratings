@@ -5,7 +5,7 @@ Rating: 4.54 (Ranked 510)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 4.00% | ~27,774 |
+| Welcome To Hell-A | 4.00% | ~27,775 |
 | Dr. Reed, I Presume? | 3.00% | ~20,831 |
 | Git Gutte! | 3.00% | ~20,831 |
 | Break A Leg | 3.00% | ~20,831 |
@@ -38,9 +38,9 @@ Rating: 4.54 (Ranked 510)
 | Go, Bobcats! | 1.00% | ~6,944 |
 | Rising Star | 1.00% | ~6,944 |
 | Smorgasbord | 0.90% | ~6,249 |
-| On Safari | 0.70% | ~4,860 |
-| Not Even My Final Form | 0.70% | ~4,860 |
-| Internet Famous | 0.70% | ~4,860 |
+| On Safari | 0.70% | ~4,861 |
+| Not Even My Final Form | 0.70% | ~4,861 |
+| Internet Famous | 0.70% | ~4,861 |
 | Make it So | 0.60% | ~4,166 |
 | Variety is the Spice of Death | 0.60% | ~4,166 |
 | LA Influential | 0.50% | ~3,472 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 510)
 | Donk! | 0.20% | ~1,389 |
 | Bucket List | 0.10% | ~694 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 694,354 (Ranked 22)  
+Progressed: 694,366 (Ranked 22)  
 Completed: 2,210 (0.32%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 2,210 (0.32%) (Ranked 200)
 | 2023-10-09 | 693,470 | 2,208 |
 | 2023-10-10 | 693,868 | 2,209 |
 | 2023-10-11 | 694,263 | 2,210 |
-| 2023-10-12 | 694,354 | 2,210 |
+| 2023-10-12 | 694,366 | 2,210 |
 ## Awards
 Max (Great Boss Battles): 6,398  (Ranked 58)  
 Sum: 9,556 (Ranked 91)  

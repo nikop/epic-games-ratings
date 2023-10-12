@@ -4,7 +4,7 @@
   "ProductSlug": "assassins-creed-2",
   "Ranking_Rating": 119,
   "Ranking_Popularity": 472,
-  "Ranking_PopularitySum": 374,
+  "Ranking_PopularitySum": 373,
   "Ranking_EOS_Progress": 667,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 399,
@@ -777,10 +777,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 224,
       "NumberOfAwardsMax": 30
+    },
+    {
+      "Time": "2023-10-12T07:03:06.8474947+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 225,
+      "NumberOfAwardsMax": 30
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 224,
+  "NumberOfAwards": 225,
   "NumberOfAwardsMax": 30,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -800,7 +806,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game is Relaxing",
@@ -850,8 +856,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:28.9665726+00:00",
-  "LastChanged": "2023-10-11T18:02:39.2898994+00:00",
+  "LastChanged": "2023-10-12T07:03:06.8474943+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:02.437817+00:00",
-  "LastUpdate_Ratings": "2023-10-12T06:03:08.5569902+00:00",
-  "LastUpdate_Achievements": "2023-10-12T06:03:47.3842667+00:00"
+  "LastUpdate_Ratings": "2023-10-12T07:03:06.8474951+00:00",
+  "LastUpdate_Achievements": "2023-10-12T07:03:47.4860696+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "foretales-d6c5bd",
   "Ranking_EOS_Progress": 317,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewPlayers": 333,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-09-15T13:00:00+00:00",
@@ -234,9 +234,9 @@
       "ID": "darkAndStinky",
       "SetID": "5bkacmp",
       "Name": "Dark and stinky",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 81
+      "UsersEstimate": 83
     },
     {
       "ID": "darkVolepain",
@@ -523,8 +523,8 @@
   "FirstSeenRating": "2023-03-31T05:57:28.0245429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.9795214+00:00",
   "LastChanged": "2023-03-31T05:57:28.024543+00:00",
-  "LastChanged_Achievements": "2023-10-12T06:03:30.5745298+00:00",
+  "LastChanged_Achievements": "2023-10-12T07:03:30.2762279+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:06.0117383+00:00",
-  "LastUpdate_Ratings": "2023-10-12T05:57:36.6709148+00:00",
-  "LastUpdate_Achievements": "2023-10-12T06:03:30.5745639+00:00"
+  "LastUpdate_Ratings": "2023-10-12T06:57:40.2654236+00:00",
+  "LastUpdate_Achievements": "2023-10-12T07:03:30.2762578+00:00"
 }

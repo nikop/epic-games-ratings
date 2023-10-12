@@ -1299,7 +1299,7 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 9534,
+  "EOS_Progressed": 9535,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
@@ -14589,6 +14589,11 @@
       "Time": "2023-10-12T06:05:10.1971396+00:00",
       "NumProgressed": 9534,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-12T07:05:11.9382753+00:00",
+      "NumProgressed": 9535,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -14600,7 +14605,7 @@
       "Name": "Leader",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 5720
+      "UsersEstimate": 5721
     },
     {
       "ID": "10",
@@ -14632,7 +14637,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 5053
+      "UsersEstimate": 5054
     },
     {
       "ID": "14",
@@ -14710,9 +14715,9 @@
       "ID": "22",
       "SetID": "8idi9ml",
       "Name": "First Step",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 6864
+      "UsersEstimate": 6961
     },
     {
       "ID": "23",
@@ -14728,7 +14733,7 @@
       "Name": "It\u0027s a Finnish Thing",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 953
+      "UsersEstimate": 954
     },
     {
       "ID": "25",
@@ -14752,7 +14757,7 @@
       "Name": "Energized",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 3146
+      "UsersEstimate": 3147
     },
     {
       "ID": "28",
@@ -14760,7 +14765,7 @@
       "Name": "Merchant",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 2097
+      "UsersEstimate": 2098
     },
     {
       "ID": "29",
@@ -14816,7 +14821,7 @@
       "Name": "Ice Lakes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 2097
+      "UsersEstimate": 2098
     },
     {
       "ID": "35",
@@ -14824,7 +14829,7 @@
       "Name": "War Never Changes",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1811
+      "UsersEstimate": 1812
     },
     {
       "ID": "36",
@@ -14896,7 +14901,7 @@
       "Name": "Prepared for Anything",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1239
+      "UsersEstimate": 1240
     },
     {
       "ID": "44",
@@ -14928,7 +14933,7 @@
       "Name": "The Long Haul",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 3146
+      "UsersEstimate": 3147
     },
     {
       "ID": "48",
@@ -14952,7 +14957,7 @@
       "Name": "Big Catastrofan",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1239
+      "UsersEstimate": 1240
     },
     {
       "ID": "50",
@@ -14968,7 +14973,7 @@
       "Name": "Sky Burial",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 953
+      "UsersEstimate": 954
     },
     {
       "ID": "52",
@@ -15056,7 +15061,7 @@
       "Name": "Real Survivor",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 2097
+      "UsersEstimate": 2098
     },
     {
       "ID": "9",
@@ -15071,15 +15076,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 9534,
+      "Progressed": 9535,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-10-11T08:02:10.6297724+00:00",
-  "LastChanged_Achievements": "2023-10-12T06:05:10.1971392+00:00",
+  "LastChanged_Achievements": "2023-10-12T07:05:11.9382749+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:49.8010243+00:00",
-  "LastUpdate_Ratings": "2023-10-12T05:57:20.4946977+00:00",
-  "LastUpdate_Achievements": "2023-10-12T06:05:10.1973687+00:00"
+  "LastUpdate_Ratings": "2023-10-12T06:57:17.099536+00:00",
+  "LastUpdate_Achievements": "2023-10-12T07:05:11.9383837+00:00"
 }

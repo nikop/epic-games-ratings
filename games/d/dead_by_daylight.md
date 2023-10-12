@@ -15,12 +15,12 @@ Number of Ratings: 70,340  (23.09.2022)
 | Skillful | 1.00% | ~9,336 |
 | Make Some Noise | 1.00% | ~9,336 |
 | Sorted | 0.90% | ~8,402 |
-| No one left behind | 0.80% | ~7,468 |
-| Medic | 0.80% | ~7,468 |
-| Bloody Millionaire | 0.80% | ~7,468 |
-| I | 0.80% | ~7,468 |
-| Healthy Obsession | 0.80% | ~7,468 |
-| Resurgence | 0.80% | ~7,468 |
+| No one left behind | 0.80% | ~7,469 |
+| Medic | 0.80% | ~7,469 |
+| Bloody Millionaire | 0.80% | ~7,469 |
+| I | 0.80% | ~7,469 |
+| Healthy Obsession | 0.80% | ~7,469 |
+| Resurgence | 0.80% | ~7,469 |
 | The Grand Sacrifice | 0.70% | ~6,535 |
 | Agonizing Escape | 0.70% | ~6,535 |
 | Backdoor Escape | 0.70% | ~6,535 |
@@ -29,15 +29,17 @@ Number of Ratings: 70,340  (23.09.2022)
 | Engineer | 0.70% | ~6,535 |
 | Preemptive Strike | 0.70% | ~6,535 |
 | Humanitarian | 0.70% | ~6,535 |
-| I've got your back | 0.60% | ~5,601 |
-| Perfect Killing | 0.60% | ~5,601 |
-| Risk it all | 0.60% | ~5,601 |
-| Wounded Healer | 0.60% | ~5,601 |
-| Close Shave | 0.60% | ~5,601 |
+| I've got your back | 0.60% | ~5,602 |
+| Perfect Killing | 0.60% | ~5,602 |
+| Risk it all | 0.60% | ~5,602 |
+| Wounded Healer | 0.60% | ~5,602 |
+| Close Shave | 0.60% | ~5,602 |
 | Apt Killer | 0.50% | ~4,668 |
 | Vulture | 0.50% | ~4,668 |
 | II | 0.50% | ~4,668 |
 | Second Act | 0.50% | ~4,668 |
+| Blood on your hands | 0.40% | ~3,734 |
+| Escape Artist | 0.40% | ~3,734 |
 | Made it out alive! | 0.40% | ~3,734 |
 | III | 0.40% | ~3,734 |
 | Holiday Get-Together | 0.40% | ~3,734 |
@@ -45,6 +47,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Cherish your Life | 0.40% | ~3,734 |
 | Unforgettable Getaway | 0.40% | ~3,734 |
 | First to the Punch | 0.40% | ~3,734 |
+| Operation: Survival | 0.40% | ~3,734 |
 | Old West Oasis | 0.40% | ~3,734 |
 | Every Last Drop | 0.40% | ~3,734 |
 | Raccoon City Recruit | 0.40% | ~3,734 |
@@ -52,10 +55,9 @@ Number of Ratings: 70,340  (23.09.2022)
 | Flight to Freedom | 0.40% | ~3,734 |
 | A Fast Death | 0.40% | ~3,734 |
 | Chorus of Chaos | 0.40% | ~3,734 |
+| One More Step | 0.40% | ~3,734 |
 | A bite for the Entity | 0.30% | ~2,801 |
-| Blood on your hands | 0.30% | ~2,801 |
 | Blood on your face | 0.30% | ~2,801 |
-| Escape Artist | 0.30% | ~2,801 |
 | Gifts for the Fog | 0.30% | ~2,801 |
 | III-50 | 0.30% | ~2,801 |
 | Shock Therapy | 0.30% | ~2,801 |
@@ -70,14 +72,12 @@ Number of Ratings: 70,340  (23.09.2022)
 | Ancestor's Rite | 0.30% | ~2,801 |
 | Cutting Out | 0.30% | ~2,801 |
 | Outrun Evil | 0.30% | ~2,801 |
-| Operation: Survival | 0.30% | ~2,801 |
 | Grim Pilgrimage | 0.30% | ~2,801 |
 | Selfless Survival | 0.30% | ~2,801 |
 | Classy Act | 0.30% | ~2,801 |
 | Rebuilding The Borgo | 0.30% | ~2,801 |
 | Lifting The Fog | 0.30% | ~2,801 |
 | Extraterrestrial | 0.30% | ~2,801 |
-| One More Step | 0.30% | ~2,801 |
 | MU/TH/UR Dearest | 0.30% | ~2,801 |
 | Jump Scares | 0.20% | ~1,867 |
 | Hemophobia | 0.20% | ~1,867 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~934 |
 | Adept Ripley | 0.10% | ~934 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 933,561 (Ranked 14)  
+Progressed: 933,602 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -411,7 +411,7 @@ Completed: 49 (0.01%) (Ranked 296)
 | 2023-10-09 | 929,902 | 49 |
 | 2023-10-10 | 931,511 | 49 |
 | 2023-10-11 | 933,163 | 49 |
-| 2023-10-12 | 933,561 | 49 |
+| 2023-10-12 | 933,602 | 49 |
 ## Awards
 Max (Diverse Characters): 33,781  (Ranked 15)  
 Sum: 261,429 (Ranked 13)  

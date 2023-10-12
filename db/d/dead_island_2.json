@@ -5268,9 +5268,9 @@
       "Count": 377
     }
   ],
-  "EOS_Progressed": 694354,
+  "EOS_Progressed": 694366,
   "EOS_Completed": 2210,
-  "EOS_NewPlayers": 3433,
+  "EOS_NewPlayers": 3438,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -25053,6 +25053,11 @@
       "Time": "2023-10-12T06:03:36.858556+00:00",
       "NumProgressed": 694354,
       "NumCompleted": 2210
+    },
+    {
+      "Time": "2023-10-12T07:03:36.8027308+00:00",
+      "NumProgressed": 694366,
+      "NumCompleted": 2210
     }
   ],
   "TotalAchievements": 45,
@@ -25136,7 +25141,7 @@
       "Name": "On Safari",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 4860
+      "UsersEstimate": 4861
     },
     {
       "ID": "ach_defensive",
@@ -25200,7 +25205,7 @@
       "Name": "Not Even My Final Form",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4860
+      "UsersEstimate": 4861
     },
     {
       "ID": "ach_hazardous_materials",
@@ -25240,7 +25245,7 @@
       "Name": "Internet Famous",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4860
+      "UsersEstimate": 4861
     },
     {
       "ID": "ach_investigator",
@@ -25400,7 +25405,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 27774
+      "UsersEstimate": 27775
     },
     {
       "ID": "ach_well_known_survivor",
@@ -25423,22 +25428,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 694354,
+      "Progressed": 694366,
       "Completed": 2210
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 19896,
-      "Completed": 19896
+      "Progressed": 19908,
+      "Completed": 19908
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-10-12T01:42:28.3959978+00:00",
-  "LastChanged_Achievements": "2023-10-12T06:03:36.8585557+00:00",
+  "LastChanged_Achievements": "2023-10-12T07:03:36.8027305+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:12.9143544+00:00",
-  "LastUpdate_Ratings": "2023-10-12T06:00:43.8940064+00:00",
-  "LastUpdate_Achievements": "2023-10-12T06:03:36.8588281+00:00"
+  "LastUpdate_Ratings": "2023-10-12T07:00:33.3587978+00:00",
+  "LastUpdate_Achievements": "2023-10-12T07:03:36.8028538+00:00"
 }

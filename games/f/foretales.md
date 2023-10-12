@@ -10,7 +10,7 @@
 | Pieces of eight! | 42.00% | ~117 |
 | Aboard the Sea Bird | 31.00% | ~86 |
 | Elephant in the room | 31.00% | ~86 |
-| Dark and stinky | 29.00% | ~81 |
+| Dark and stinky | 30.00% | ~83 |
 | Sneak in, sneak out | 26.00% | ~72 |
 | Is this the end? | 24.00% | ~67 |
 | A gift horse | 24.00% | ~67 |

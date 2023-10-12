@@ -6,9 +6,9 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 72.00% | ~6,864 |
-| Leader | 60.00% | ~5,720 |
-| Explorer | 53.00% | ~5,053 |
+| First Step | 73.00% | ~6,961 |
+| Leader | 60.00% | ~5,721 |
+| Explorer | 53.00% | ~5,054 |
 | Healer | 52.00% | ~4,958 |
 | Aspiring Inventor | 44.00% | ~4,195 |
 | Adventurer | 41.00% | ~3,909 |
@@ -16,8 +16,8 @@ Number of Ratings: 836  (23.09.2022)
 | Local Leader | 35.00% | ~3,337 |
 | Famous Explorer | 34.00% | ~3,242 |
 | New Opportunities | 34.00% | ~3,242 |
-| Energized | 33.00% | ~3,146 |
-| The Long Haul | 33.00% | ~3,146 |
+| Energized | 33.00% | ~3,147 |
+| The Long Haul | 33.00% | ~3,147 |
 | Survivor | 32.00% | ~3,051 |
 | The Great Healer | 31.00% | ~2,956 |
 | Legendary Explorer | 28.00% | ~2,670 |
@@ -27,21 +27,21 @@ Number of Ratings: 836  (23.09.2022)
 | Top Notch | 25.00% | ~2,384 |
 | Great Leader | 23.00% | ~2,193 |
 | Mentor | 23.00% | ~2,193 |
-| Merchant | 22.00% | ~2,097 |
-| Ice Lakes | 22.00% | ~2,097 |
-| Real Survivor | 22.00% | ~2,097 |
+| Merchant | 22.00% | ~2,098 |
+| Ice Lakes | 22.00% | ~2,098 |
+| Real Survivor | 22.00% | ~2,098 |
 | Rocket Surgeon | 20.00% | ~1,907 |
-| War Never Changes | 19.00% | ~1,811 |
+| War Never Changes | 19.00% | ~1,812 |
 | Friendly | 17.00% | ~1,621 |
 | Big Game Hunter | 17.00% | ~1,621 |
 | Around the World | 17.00% | ~1,621 |
 | Spreading Influence | 17.00% | ~1,621 |
 | Bookworm | 15.00% | ~1,430 |
 | Famous Adventurer | 14.00% | ~1,335 |
-| Prepared for Anything | 13.00% | ~1,239 |
-| Big Catastrofan | 13.00% | ~1,239 |
-| It's a Finnish Thing | 10.00% | ~953 |
-| Sky Burial | 10.00% | ~953 |
+| Prepared for Anything | 13.00% | ~1,240 |
+| Big Catastrofan | 13.00% | ~1,240 |
+| It's a Finnish Thing | 10.00% | ~954 |
+| Sky Burial | 10.00% | ~954 |
 | Trader | 9.00% | ~858 |
 | Bread and Circuses | 8.00% | ~763 |
 | New Eden | 7.00% | ~667 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~19 |
 | Customized calamities | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,534 (Ranked 148)  
+Progressed: 9,535 (Ranked 148)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-10-09 | 9,502 | 0 |
 | 2023-10-10 | 9,514 | 0 |
 | 2023-10-11 | 9,530 | 0 |
-| 2023-10-12 | 9,534 | 0 |
+| 2023-10-12 | 9,535 | 0 |
 ## Awards
 Max (Extremely Fun): 103  (Ranked 341)  
 Sum: 709 (Ranked 283)  

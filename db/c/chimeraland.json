@@ -3,8 +3,8 @@
   "Name": "Chimeraland",
   "ProductSlug": "chimeraland",
   "Ranking_Rating": 986,
-  "Ranking_Popularity": 487,
-  "Ranking_PopularitySum": 501,
+  "Ranking_Popularity": 481,
+  "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 667,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 399,
@@ -388,18 +388,24 @@
       "Rating": 3.9,
       "NumberOfAwards": 27,
       "NumberOfAwardsMax": 27
+    },
+    {
+      "Time": "2023-10-12T07:03:12.6862689+00:00",
+      "Rating": 3.9,
+      "NumberOfAwards": 28,
+      "NumberOfAwardsMax": 28
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27,
-  "NumberOfAwardsMax": 27,
+  "NumberOfAwards": 28,
+  "NumberOfAwardsMax": 28,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 27
+      "Count": 28
     }
   ],
   "EOS_Progressed": 0,
@@ -414,8 +420,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-12-22T08:56:57.9222177+00:00",
   "FirstSeenRating": "2023-01-08T08:57:11.5833974+00:00",
-  "LastChanged": "2023-09-22T18:58:00.9153263+00:00",
+  "LastChanged": "2023-10-12T07:03:12.6862687+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:22.0395377+00:00",
-  "LastUpdate_Ratings": "2023-10-12T06:03:16.7586701+00:00",
-  "LastUpdate_Achievements": "2023-10-12T06:06:21.050844+00:00"
+  "LastUpdate_Ratings": "2023-10-12T07:03:12.6862692+00:00",
+  "LastUpdate_Achievements": "2023-10-12T07:06:24.1081667+00:00"
 }

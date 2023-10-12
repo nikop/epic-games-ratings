@@ -6,14 +6,14 @@ Number of Ratings: 10,109  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Improvement | 85.00% | ~35,444 |
-| Blood Moon | 73.00% | ~30,440 |
-| Path of the Necromancer | 66.00% | ~27,521 |
-| Chainbreaker - I | 60.00% | ~25,019 |
-| Cursed Creature | 57.00% | ~23,768 |
-| Extraction | 57.00% | ~23,768 |
-| Chainbreaker - II | 55.00% | ~22,934 |
-| Necromancer's Apprentice | 51.00% | ~21,266 |
+| Improvement | 85.00% | ~35,445 |
+| Blood Moon | 73.00% | ~30,441 |
+| Path of the Necromancer | 66.00% | ~27,522 |
+| Chainbreaker - I | 60.00% | ~25,020 |
+| Cursed Creature | 57.00% | ~23,769 |
+| Extraction | 57.00% | ~23,769 |
+| Chainbreaker - II | 55.00% | ~22,935 |
+| Necromancer's Apprentice | 51.00% | ~21,267 |
 | Keeper of Keys | 47.00% | ~19,599 |
 | Distillation | 43.00% | ~17,931 |
 | Mountain King - I | 42.00% | ~17,514 |
@@ -82,7 +82,7 @@ Number of Ratings: 10,109  (23.09.2022)
 | Unrivaled | 0.50% | ~208 |
 | Renowned Researcher | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,699 (Ranked 108)  
+Progressed: 41,700 (Ranked 108)  
 Completed: 23 (0.06%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 23 (0.06%) (Ranked 266)
 | 2023-10-09 | 41,577 | 23 |
 | 2023-10-10 | 41,641 | 23 |
 | 2023-10-11 | 41,684 | 23 |
-| 2023-10-12 | 41,699 | 23 |
+| 2023-10-12 | 41,700 | 23 |
 ## Awards
 Max (Character Customization): 2,152  (Ranked 108)  
 Sum: 4,178 (Ranked 145)  

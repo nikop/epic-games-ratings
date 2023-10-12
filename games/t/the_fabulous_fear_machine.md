@@ -14,6 +14,7 @@
 | A continent with chemistry | 42.00% | ~11 |
 | The happy farmer girl | 42.00% | ~11 |
 | Pulp! Terror Tales in the Night | 35.00% | ~9 |
+| The seer | 31.00% | ~8 |
 | Pulp! Out of this World | 31.00% | ~8 |
 | Pulp! Adventures into the Unknown | 31.00% | ~8 |
 | Kirlian's best disciple | 31.00% | ~8 |
@@ -21,7 +22,6 @@
 | Ambition is... blind | 31.00% | ~8 |
 | You have two wishes left | 31.00% | ~8 |
 | The artist | 27.00% | ~7 |
-| The seer | 27.00% | ~7 |
 | You had one wish left | 23.00% | ~6 |
 | Et in arcadia ego | 23.00% | ~6 |
 | Welcome to Hellville | 23.00% | ~6 |

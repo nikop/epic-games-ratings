@@ -1748,7 +1748,7 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 60519,
+  "EOS_Progressed": 60520,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 541,
   "EOS_NewCompleters": 0,
@@ -20908,6 +20908,11 @@
       "Time": "2023-10-12T06:05:52.0594529+00:00",
       "NumProgressed": 60519,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-12T07:05:54.4260306+00:00",
+      "NumProgressed": 60520,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -20919,7 +20924,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 33285
+      "UsersEstimate": 33286
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -21207,7 +21212,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 38127
+      "UsersEstimate": 38128
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -21287,7 +21292,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 47205
+      "UsersEstimate": 47206
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -21335,7 +21340,7 @@
       "Name": "Furchtlos und Treu",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7867
+      "UsersEstimate": 7868
     },
     {
       "ID": "VERDUN_ACH_SCOTTISH",
@@ -21390,15 +21395,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 60519,
+      "Progressed": 60520,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-09-19T10:59:28.3016701+00:00",
-  "LastChanged_Achievements": "2023-10-12T06:05:52.0594525+00:00",
+  "LastChanged_Achievements": "2023-10-12T07:05:54.4260299+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:23.9532506+00:00",
-  "LastUpdate_Ratings": "2023-10-12T06:00:55.5122851+00:00",
-  "LastUpdate_Achievements": "2023-10-12T06:05:52.0599462+00:00"
+  "LastUpdate_Ratings": "2023-10-12T07:00:46.1659102+00:00",
+  "LastUpdate_Achievements": "2023-10-12T07:05:54.4263169+00:00"
 }

@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9465,
+  "EOS_Progressed": 9467,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2689,
+  "EOS_NewPlayers": 2687,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -2576,6 +2576,11 @@
       "Time": "2023-10-12T06:09:13.351603+00:00",
       "NumProgressed": 9465,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-12T07:08:19.1443967+00:00",
+      "NumProgressed": 9467,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -2812,7 +2817,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 8992
+      "UsersEstimate": 8994
     },
     {
       "ID": "achievement_36",
@@ -2828,7 +2833,7 @@
       "Name": "Asset Secured",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1230
+      "UsersEstimate": 1231
     },
     {
       "ID": "achievement_38",
@@ -2948,7 +2953,7 @@
       "Name": "A Better Idea",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 2366
+      "UsersEstimate": 2367
     },
     {
       "ID": "achievement_9",
@@ -2963,7 +2968,7 @@
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 9465,
+      "Progressed": 9467,
       "Completed": 1
     }
   ],
@@ -2971,8 +2976,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2023-10-12T06:09:13.3516025+00:00",
+  "LastChanged_Achievements": "2023-10-12T07:08:19.1443962+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:06.8970148+00:00",
-  "LastUpdate_Ratings": "2023-10-12T06:01:11.4197218+00:00",
-  "LastUpdate_Achievements": "2023-10-12T06:09:13.3516814+00:00"
+  "LastUpdate_Ratings": "2023-10-12T07:00:59.0777084+00:00",
+  "LastUpdate_Achievements": "2023-10-12T07:08:19.144445+00:00"
 }

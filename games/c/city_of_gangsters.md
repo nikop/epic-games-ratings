@@ -7,59 +7,59 @@ Rating: 4.28 (Ranked 828)
 | ---- | ---------- | ----- |
 | Corner Clout | 46.00% | ~159,781 |
 | Copacetic Coordination | 16.00% | ~55,576 |
-| Fronting the Money | 15.00% | ~52,102 |
+| Fronting the Money | 15.00% | ~52,103 |
 | The Dawn of Automation | 14.00% | ~48,629 |
 | Extraordinary Logistics | 14.00% | ~48,629 |
-| Dirty Money | 13.00% | ~45,155 |
-| Family First | 13.00% | ~45,155 |
+| Dirty Money | 13.00% | ~45,156 |
+| Family First | 13.00% | ~45,156 |
 | Cleaning House | 12.00% | ~41,682 |
 | Room in the Back | 12.00% | ~41,682 |
-| Beating the Heat | 11.00% | ~38,208 |
-| Booze Baron | 11.00% | ~38,208 |
+| Beating the Heat | 11.00% | ~38,209 |
+| Booze Baron | 11.00% | ~38,209 |
 | Friends on the Force | 10.00% | ~34,735 |
 | Neighborhood Watch | 10.00% | ~34,735 |
 | Core Corps | 8.00% | ~27,788 |
 | Sizeable Stash | 8.00% | ~27,788 |
-| Street Fighter | 7.00% | ~24,314 |
-| Friendly Gestures | 7.00% | ~24,314 |
-| People Person | 7.00% | ~24,314 |
+| Street Fighter | 7.00% | ~24,315 |
+| Friendly Gestures | 7.00% | ~24,315 |
+| People Person | 7.00% | ~24,315 |
 | Liquor Lord | 6.00% | ~20,841 |
 | Safety in Numbers | 6.00% | ~20,841 |
 | Moving Experiences | 6.00% | ~20,841 |
 | Wise Head | 6.00% | ~20,841 |
 | Show ‘em the Sugar | 6.00% | ~20,841 |
 | Killing Them Softly | 6.00% | ~20,841 |
-| Street Knowledge | 5.00% | ~17,367 |
-| Oh Captain | 5.00% | ~17,367 |
-| Branching Out | 5.00% | ~17,367 |
-| Improvement Missions | 5.00% | ~17,367 |
-| Opportunity Knocked | 5.00% | ~17,367 |
-| City of Big Shoulders | 5.00% | ~17,367 |
-| Mission Mastery | 5.00% | ~17,367 |
+| Street Knowledge | 5.00% | ~17,368 |
+| Oh Captain | 5.00% | ~17,368 |
+| Branching Out | 5.00% | ~17,368 |
+| Improvement Missions | 5.00% | ~17,368 |
+| Opportunity Knocked | 5.00% | ~17,368 |
+| City of Big Shoulders | 5.00% | ~17,368 |
+| Mission Mastery | 5.00% | ~17,368 |
 | Considerable Clams | 4.00% | ~13,894 |
 | Gin Joint | 4.00% | ~13,894 |
 | An Affront to the Enemy | 4.00% | ~13,894 |
 | Friends from Back Home | 4.00% | ~13,894 |
 | Half Century Mark | 4.00% | ~13,894 |
-| Corner Opportunities | 3.00% | ~10,420 |
-| 2122 North Clark Street | 3.00% | ~10,420 |
-| Copious Cabbage | 3.00% | ~10,420 |
-| Sockdolager | 3.00% | ~10,420 |
-| Still Stalwart | 3.00% | ~10,420 |
-| Bees Knees Bootlegger | 3.00% | ~10,420 |
-| Tighten the Screws | 3.00% | ~10,420 |
+| Corner Opportunities | 3.00% | ~10,421 |
+| 2122 North Clark Street | 3.00% | ~10,421 |
+| Copious Cabbage | 3.00% | ~10,421 |
+| Sockdolager | 3.00% | ~10,421 |
+| Still Stalwart | 3.00% | ~10,421 |
+| Bees Knees Bootlegger | 3.00% | ~10,421 |
+| Tighten the Screws | 3.00% | ~10,421 |
 | One of Us | 2.00% | ~6,947 |
 | Baker’s Dozen | 2.00% | ~6,947 |
 | Dropping the Dime | 2.00% | ~6,947 |
 | Spiffy Speakeasies | 2.00% | ~6,947 |
 | Keeping Your Word | 2.00% | ~6,947 |
-| Boxing Them In | 1.00% | ~3,473 |
-| Backroom Empire | 1.00% | ~3,473 |
-| Corner Control | 1.00% | ~3,473 |
-| Full House | 1.00% | ~3,473 |
-| The Rubber Meets the Road | 1.00% | ~3,473 |
-| Cat’s Meow Clubs | 1.00% | ~3,473 |
-| Stepping It Up | 1.00% | ~3,473 |
+| Boxing Them In | 1.00% | ~3,474 |
+| Backroom Empire | 1.00% | ~3,474 |
+| Corner Control | 1.00% | ~3,474 |
+| Full House | 1.00% | ~3,474 |
+| The Rubber Meets the Road | 1.00% | ~3,474 |
+| Cat’s Meow Clubs | 1.00% | ~3,474 |
+| Stepping It Up | 1.00% | ~3,474 |
 | Determined Deliveries | 0.90% | ~3,126 |
 | Boots in the Ground | 0.80% | ~2,779 |
 | Getting Fancy | 0.80% | ~2,779 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 828)
 | High Pillow | 0.10% | ~347 |
 | Station Master | 0.10% | ~347 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 347,349 (Ranked 43)  
+Progressed: 347,351 (Ranked 43)  
 Completed: 7 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,7 +261,7 @@ Completed: 7 (0.00%) (Ranked 314)
 | 2023-10-09 | 347,086 | 7 |
 | 2023-10-10 | 347,212 | 7 |
 | 2023-10-11 | 347,320 | 7 |
-| 2023-10-12 | 347,349 | 7 |
+| 2023-10-12 | 347,351 | 7 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 444)  
 Sum: 176 (Ranked 397)  

@@ -114,9 +114,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 75560,
+  "EOS_Progressed": 75561,
   "EOS_Completed": 793,
-  "EOS_NewPlayers": 535,
+  "EOS_NewPlayers": 534,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -19599,6 +19599,11 @@
       "Time": "2023-10-12T06:03:27.0161386+00:00",
       "NumProgressed": 75560,
       "NumCompleted": 793
+    },
+    {
+      "Time": "2023-10-12T07:03:26.6266937+00:00",
+      "NumProgressed": 75561,
+      "NumCompleted": 793
     }
   ],
   "TotalAchievements": 25,
@@ -19730,7 +19735,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 14356
+      "UsersEstimate": 14357
     },
     {
       "ID": "Nice Try",
@@ -19809,7 +19814,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 75560,
+      "Progressed": 75561,
       "Completed": 793
     }
   ],
@@ -19817,8 +19822,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-10-12T06:03:27.0161382+00:00",
+  "LastChanged_Achievements": "2023-10-12T07:03:26.6266933+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:32.9396838+00:00",
-  "LastUpdate_Ratings": "2023-10-12T05:58:14.9446546+00:00",
-  "LastUpdate_Achievements": "2023-10-12T06:03:27.0163651+00:00"
+  "LastUpdate_Ratings": "2023-10-12T06:58:16.6848088+00:00",
+  "LastUpdate_Achievements": "2023-10-12T07:03:26.6268061+00:00"
 }

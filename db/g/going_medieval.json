@@ -1316,9 +1316,9 @@
       "Count": 68
     }
   ],
-  "EOS_Progressed": 6173,
+  "EOS_Progressed": 6174,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -10731,6 +10731,11 @@
       "Time": "2023-10-12T01:48:24.4463767+00:00",
       "NumProgressed": 6173,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-10-12T07:06:25.7304736+00:00",
+      "NumProgressed": 6174,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -10758,7 +10763,7 @@
       "Name": "Disassembled",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1296
+      "UsersEstimate": 1297
     },
     {
       "ID": "DISMANTLE_ITEMS_50",
@@ -10766,7 +10771,7 @@
       "Name": "Nothing Wasted",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "HARVEST_CROPS_200",
@@ -10774,7 +10779,7 @@
       "Name": "Green Thumb",
       "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 4136
+      "UsersEstimate": 4137
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -10798,7 +10803,7 @@
       "Name": "A Party Now",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 1296
+      "UsersEstimate": 1297
     },
     {
       "ID": "HUNT_DEER_20",
@@ -10814,7 +10819,7 @@
       "Name": "Oh Deer!",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1296
+      "UsersEstimate": 1297
     },
     {
       "ID": "HUNT_RABBIT_20",
@@ -10846,7 +10851,7 @@
       "Name": "Don\u0027t Cry Wolf",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "KILL_RAIDER",
@@ -10862,7 +10867,7 @@
       "Name": "Home Cooked Meal",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 3642
+      "UsersEstimate": 3643
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -10870,7 +10875,7 @@
       "Name": "Feast or Famine",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 2654
+      "UsersEstimate": 2655
     },
     {
       "ID": "STORE_NUTRITION_20000",
@@ -10894,7 +10899,7 @@
       "Name": "Winter Is Coming",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1728
+      "UsersEstimate": 1729
     },
     {
       "ID": "SURVIVE_FIRST_DAY",
@@ -10902,7 +10907,7 @@
       "Name": "The First Day",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 4259
+      "UsersEstimate": 4260
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -10934,7 +10939,7 @@
       "Name": "All Year Round",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 1296
+      "UsersEstimate": 1297
     },
     {
       "ID": "SURVIVE_SEVEN_DAY",
@@ -10942,7 +10947,7 @@
       "Name": "The First Week",
       "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 3395
+      "UsersEstimate": 3396
     },
     {
       "ID": "UNLOCK_RESEARCH",
@@ -10950,7 +10955,7 @@
       "Name": "Novice Researcher",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 4136
+      "UsersEstimate": 4137
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -10966,7 +10971,7 @@
       "Name": "Luminary Researcher",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 1975
+      "UsersEstimate": 1976
     },
     {
       "ID": "UNLOCK_RESEARCH_3",
@@ -10989,15 +10994,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 6173,
+      "Progressed": 6174,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-10-09T20:00:35.0536124+00:00",
-  "LastChanged_Achievements": "2023-10-12T06:06:22.3464775+00:00",
+  "LastChanged_Achievements": "2023-10-12T07:06:25.7304732+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:33.8053112+00:00",
-  "LastUpdate_Ratings": "2023-10-12T06:01:08.3531898+00:00",
-  "LastUpdate_Achievements": "2023-10-12T06:06:22.346562+00:00"
+  "LastUpdate_Ratings": "2023-10-12T07:00:55.9458234+00:00",
+  "LastUpdate_Achievements": "2023-10-12T07:06:25.7305371+00:00"
 }

@@ -15009,9 +15009,9 @@
       "ID": "Stunner",
       "SetID": "819popo",
       "Name": "Stunner",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 158
     },
     {
       "ID": "Stylish",
@@ -15130,8 +15130,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-12T01:37:56.5097971+00:00",
-  "LastChanged_Achievements": "2023-10-12T06:04:38.9063386+00:00",
+  "LastChanged_Achievements": "2023-10-12T07:04:40.1894925+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:25.2013042+00:00",
-  "LastUpdate_Ratings": "2023-10-12T05:57:23.1933925+00:00",
-  "LastUpdate_Achievements": "2023-10-12T06:04:38.9064786+00:00"
+  "LastUpdate_Ratings": "2023-10-12T06:57:21.7324491+00:00",
+  "LastUpdate_Achievements": "2023-10-12T07:04:40.1895864+00:00"
 }
