@@ -33,9 +33,9 @@ Rating: 4.48 (Ranked 607)
 | El Riesgo Siempre Vive | 24.00% | ~832 |
 | Stuff Of Nightmares | 23.00% | ~797 |
 | Excavating The Truth | 22.00% | ~763 |
+| Frontliner | 21.00% | ~728 |
 | Abysmal Horrors | 21.00% | ~728 |
 | One For Every Occasion | 20.00% | ~693 |
-| Frontliner | 20.00% | ~693 |
 | The Cable Guy | 20.00% | ~693 |
 | Bandage Lover | 19.00% | ~659 |
 | Regicide | 16.00% | ~555 |

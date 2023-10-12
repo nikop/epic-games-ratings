@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -5608,9 +5608,9 @@
       "ID": "ACH_KILL_9TORG",
       "SetID": "cdkbb11",
       "Name": "First Bounty Down",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 169
+      "UsersEstimate": 194
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
@@ -5624,9 +5624,9 @@
       "ID": "ACH_KILL_GARM",
       "SetID": "cdkbb11",
       "Name": "Legendary Bounty Hunter",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 60,
-      "UsersEstimate": 97
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH_KILL_GIBLETS",
@@ -5847,8 +5847,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-07T05:03:09.4311759+00:00",
-  "LastChanged_Achievements": "2023-10-12T00:04:49.1826704+00:00",
+  "LastChanged_Achievements": "2023-10-12T01:45:13.4959112+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:51.1168375+00:00",
-  "LastUpdate_Ratings": "2023-10-11T23:59:58.7519725+00:00",
-  "LastUpdate_Achievements": "2023-10-12T00:04:49.1827243+00:00"
+  "LastUpdate_Ratings": "2023-10-12T01:40:31.3412179+00:00",
+  "LastUpdate_Achievements": "2023-10-12T01:45:13.4959781+00:00"
 }

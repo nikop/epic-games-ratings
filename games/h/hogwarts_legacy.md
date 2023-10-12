@@ -10,11 +10,11 @@ Rating: 4.76 (Ranked 120)
 | Troll with the Punches | 13.00% | ~38,763 |
 | A Keen Sense of Spell | 12.00% | ~35,781 |
 | That's a Keeper | 12.00% | ~35,781 |
-| The Hallowed Hero | 11.00% | ~32,799 |
-| The Defender of Dragons | 11.00% | ~32,799 |
-| Loom for Improvement | 11.00% | ~32,799 |
-| A Talent for Spending | 11.00% | ~32,799 |
-| Coasting Along | 11.00% | ~32,799 |
+| The Hallowed Hero | 11.00% | ~32,800 |
+| The Defender of Dragons | 11.00% | ~32,800 |
+| Loom for Improvement | 11.00% | ~32,800 |
+| A Talent for Spending | 11.00% | ~32,800 |
+| Coasting Along | 11.00% | ~32,800 |
 | Grappling with a Graphorn | 10.00% | ~29,818 |
 | The One Who Mastered Memories | 10.00% | ~29,818 |
 | The Hero of Hogwarts | 10.00% | ~29,818 |
@@ -25,7 +25,7 @@ Rating: 4.76 (Ranked 120)
 | The Avenging Gazelle | 8.00% | ~23,854 |
 | A Sallow Grave | 8.00% | ~23,854 |
 | Flight the Good Flight | 8.00% | ~23,854 |
-| Beast Friends | 7.00% | ~20,872 |
+| Beast Friends | 7.00% | ~20,873 |
 | The Seeker of Knowledge | 6.00% | ~17,891 |
 | The Root of the Problem | 6.00% | ~17,891 |
 | Third Time's a Charm | 6.00% | ~17,891 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 120)
 | The Nature of the Beast | 0.70% | ~2,087 |
 | Collector's Edition | 0.30% | ~895 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,177 (Ranked 46)  
+Progressed: 298,179 (Ranked 46)  
 Completed: 483 (0.16%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,15 +226,16 @@ Completed: 483 (0.16%) (Ranked 230)
 | 2023-10-09 | 298,106 | 482 |
 | 2023-10-10 | 298,150 | 483 |
 | 2023-10-11 | 298,177 | 483 |
+| 2023-10-12 | 298,179 | 483 |
 ## Awards
 Max (Character Customization): 23,447  (Ranked 17)  
-Sum: 45,619 (Ranked 31)  
+Sum: 45,620 (Ranked 31)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 23,447 |
 | This game has Great Boss Battles | 11,710 |
-| This game is Great for Beginners | 1,171 |
+| This game is Great for Beginners | 1,172 |
 | This game has Amazing Storytelling | 1,136 |
 | This game has Diverse Characters | 1,128 |
 | This game is Relaxing | 1,121 |
@@ -449,3 +450,4 @@ Diff (max vs sum): -14
 | 2023-10-09 | 4.76 | 23,405 | 45,477 |
 | 2023-10-10 | 4.76 | 23,430 | 45,548 |
 | 2023-10-11 | 4.76 | 23,447 | 45,619 |
+| 2023-10-12 | 4.76 | 23,447 | 45,620 |

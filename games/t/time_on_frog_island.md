@@ -9,10 +9,10 @@
 | What?! | 41.00% | ~7 |
 | Frogs Legs | 35.00% | ~6 |
 | Mad Scientist | 29.00% | ~5 |
+| Socialite | 18.00% | ~3 |
 | Who Even Needs Keys | 18.00% | ~3 |
 | Shrub-Seeing: Silly Birbs | 18.00% | ~3 |
 | Secure the Sheets | 18.00% | ~3 |
-| Socialite | 12.00% | ~2 |
 | Shrub-Seeing: Townlife | 12.00% | ~2 |
 | Shrub-Seeing: Ruins of old | 12.00% | ~2 |
 | Yeet! | 12.00% | ~2 |
@@ -31,6 +31,7 @@
 | Fantastic Fungi | 6.00% | ~1 |
 | Vandal | 6.00% | ~1 |
 | Just Here for the Food | 6.00% | ~1 |
+| Falling with Style | 6.00% | ~1 |
 | Froggy Friendship | 6.00% | ~1 |
 | Hands on the Helm | 6.00% | ~1 |
 | The Journey Continues | 6.00% | ~1 |
@@ -38,7 +39,6 @@
 | One with the frogs | 0.00% | ~0 |
 | Honey, I'm Home | 0.00% | ~0 |
 | Home Sweet Home | 0.00% | ~0 |
-| Falling with Style | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 17 (Ranked 491)  
 Completed: 0 (0.00%) (Ranked 313)  

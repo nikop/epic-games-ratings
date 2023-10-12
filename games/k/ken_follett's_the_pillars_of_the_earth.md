@@ -1,13 +1,13 @@
 # Ken Follett's The Pillars of the Earth
 [Store](https://store.epicgames.com/en-US/p/ken-follets-the-pillars-of-the-earth)  
 [View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
-Rating: 4.51 (Ranked 552)  
+Rating: 4.51 (Ranked 551)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tattletale | 40.00% | ~6,275 |
-| Man of politics | 35.00% | ~5,490 |
+| Man of politics | 35.00% | ~5,491 |
 | Friends of sorts | 33.00% | ~5,177 |
 | Yet another secret | 33.00% | ~5,177 |
 | Let there be darkness | 32.00% | ~5,020 |
@@ -16,7 +16,7 @@ Number of Ratings: 368  (23.09.2022)
 | Full house | 24.00% | ~3,765 |
 | Wannabe knight | 23.00% | ~3,608 |
 | Help an old friend | 22.00% | ~3,451 |
-| Two of us | 20.00% | ~3,137 |
+| Two of us | 20.00% | ~3,138 |
 | Negotiation skills | 18.00% | ~2,824 |
 | Workers' union | 18.00% | ~2,824 |
 | End of Book Two | 18.00% | ~2,824 |
@@ -24,7 +24,7 @@ Number of Ratings: 368  (23.09.2022)
 | Twist of Fate | 14.00% | ~2,196 |
 | Jack was here! | 14.00% | ~2,196 |
 | Exterminator | 13.00% | ~2,039 |
-| Whodunnit | 12.00% | ~1,882 |
+| Whodunnit | 12.00% | ~1,883 |
 | Good midwife | 11.00% | ~1,726 |
 | Friar Tuck | 11.00% | ~1,726 |
 | First profit | 11.00% | ~1,726 |
@@ -41,14 +41,14 @@ Number of Ratings: 368  (23.09.2022)
 | Staring contest champion | 5.00% | ~784 |
 | Lone wolf | 5.00% | ~784 |
 | Vox Populi | 5.00% | ~784 |
-| Revenge | 4.00% | ~627 |
-| Self-defense | 4.00% | ~627 |
-| Countess Aliena | 4.00% | ~627 |
+| Revenge | 4.00% | ~628 |
+| Self-defense | 4.00% | ~628 |
+| Countess Aliena | 4.00% | ~628 |
 | Care, like a brother cares | 3.00% | ~471 |
 | A brush with death | 3.00% | ~471 |
 | Boy of mystery | 2.00% | ~314 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,687 (Ranked 133)  
+Progressed: 15,688 (Ranked 133)  
 Completed: 113 (0.72%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 113 (0.72%) (Ranked 155)
 | 2023-10-09 | 15,653 | 113 |
 | 2023-10-10 | 15,670 | 113 |
 | 2023-10-11 | 15,686 | 113 |
-| 2023-10-12 | 15,687 | 113 |
+| 2023-10-12 | 15,688 | 113 |
 ## Awards
 Max (Easy Puzzles): 151  (Ranked 307)  
 Sum: 193 (Ranked 387)  

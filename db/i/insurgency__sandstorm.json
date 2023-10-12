@@ -3563,10 +3563,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 3056,
       "NumberOfAwardsMax": 387
+    },
+    {
+      "Time": "2023-10-12T01:41:59.319477+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 3059,
+      "NumberOfAwardsMax": 387
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3056,
+  "NumberOfAwards": 3059,
   "NumberOfAwardsMax": 387,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3592,7 +3598,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 321
+      "Count": 323
     },
     {
       "Text": "This game has Challenging Combat",
@@ -3604,7 +3610,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 336
+      "Count": 337
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -3637,9 +3643,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 461326,
+  "EOS_Progressed": 461349,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2306,
+  "EOS_NewPlayers": 2294,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23357,6 +23363,11 @@
       "Time": "2023-10-12T00:07:26.4594797+00:00",
       "NumProgressed": 461326,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-12T01:47:51.1926399+00:00",
+      "NumProgressed": 461349,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -23424,7 +23435,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 18453
+      "UsersEstimate": 18454
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -23472,7 +23483,7 @@
       "Name": "High Speed Low Drag",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 18453
+      "UsersEstimate": 18454
     },
     {
       "ID": "ACH_JR_50",
@@ -23536,7 +23547,7 @@
       "Name": "Point Shooting",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 23066
+      "UsersEstimate": 23067
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -23632,7 +23643,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 23066
+      "UsersEstimate": 23067
     },
     {
       "ID": "ACH_WET_FEET",
@@ -23640,22 +23651,22 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 18453
+      "UsersEstimate": 18454
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 461326,
+      "Progressed": 461349,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
-  "LastChanged": "2023-10-11T12:00:40.449253+00:00",
-  "LastChanged_Achievements": "2023-10-12T00:07:26.4594792+00:00",
+  "LastChanged": "2023-10-12T01:41:59.3194768+00:00",
+  "LastChanged_Achievements": "2023-10-12T01:47:51.1926393+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:53.2662514+00:00",
-  "LastUpdate_Ratings": "2023-10-12T00:01:40.8646561+00:00",
-  "LastUpdate_Achievements": "2023-10-12T00:07:26.4595991+00:00"
+  "LastUpdate_Ratings": "2023-10-12T01:41:59.3194776+00:00",
+  "LastUpdate_Achievements": "2023-10-12T01:47:51.1928139+00:00"
 }

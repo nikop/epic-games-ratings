@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 147720,
+  "EOS_Progressed": 147721,
   "EOS_Completed": 294,
-  "EOS_NewPlayers": 1205,
+  "EOS_NewPlayers": 1193,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -14099,6 +14099,11 @@
       "Time": "2023-10-12T00:05:37.6834838+00:00",
       "NumProgressed": 147720,
       "NumCompleted": 294
+    },
+    {
+      "Time": "2023-10-12T01:46:08.6735999+00:00",
+      "NumProgressed": 147721,
+      "NumCompleted": 294
     }
   ],
   "TotalAchievements": 31,
@@ -14118,7 +14123,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 103404
+      "UsersEstimate": 103405
     },
     {
       "ID": "EAwards_10",
@@ -14142,7 +14147,7 @@
       "Name": "Last Straw",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 25112
+      "UsersEstimate": 25113
     },
     {
       "ID": "EAwards_13",
@@ -14166,7 +14171,7 @@
       "Name": "No Encore!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 17726
+      "UsersEstimate": 17727
     },
     {
       "ID": "EAwards_16",
@@ -14182,7 +14187,7 @@
       "Name": "Main Event",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 32498
+      "UsersEstimate": 32499
     },
     {
       "ID": "EAwards_18",
@@ -14190,7 +14195,7 @@
       "Name": "That was INTENSE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 32498
+      "UsersEstimate": 32499
     },
     {
       "ID": "EAwards_19",
@@ -14342,7 +14347,7 @@
       "Name": "Flawless",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 54656
+      "UsersEstimate": 54657
     },
     {
       "ID": "EAwards_9",
@@ -14350,14 +14355,14 @@
       "Name": "Nooks and Crannies",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 17726
+      "UsersEstimate": 17727
     }
   ],
   "AchievementSets": [
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 147720,
+      "Progressed": 147721,
       "Completed": 294
     }
   ],
@@ -14365,8 +14370,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-10-06T14:02:51.6664481+00:00",
-  "LastChanged_Achievements": "2023-10-12T00:05:37.6834831+00:00",
+  "LastChanged_Achievements": "2023-10-12T01:46:08.6735992+00:00",
   "LastUpdate_AppInfo": "2023-10-06T01:39:34.0636045+00:00",
-  "LastUpdate_Ratings": "2023-10-11T23:59:56.6303025+00:00",
-  "LastUpdate_Achievements": "2023-10-12T00:05:37.6835721+00:00"
+  "LastUpdate_Ratings": "2023-10-12T01:40:30.26719+00:00",
+  "LastUpdate_Achievements": "2023-10-12T01:46:08.6737232+00:00"
 }

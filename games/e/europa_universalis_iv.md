@@ -1,15 +1,15 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.69 (Ranked 220)  
+Rating: 4.69 (Ranked 221)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,131 |
-| Until death do us apart | 4.00% | ~17,131 |
-| That is mine! | 3.00% | ~12,848 |
-| Victorious! | 3.00% | ~12,848 |
+| That's a Grand Army | 4.00% | ~17,132 |
+| Until death do us apart | 4.00% | ~17,132 |
+| That is mine! | 3.00% | ~12,849 |
+| Victorious! | 3.00% | ~12,849 |
 | Brothers in Arms | 2.00% | ~8,566 |
 | Cold War | 2.00% | ~8,566 |
 | For the Glory | 2.00% | ~8,566 |
@@ -27,11 +27,11 @@ Number of Ratings: 8,414  (23.09.2022)
 | Royal Authority | 0.80% | ~3,426 |
 | Total Control | 0.80% | ~3,426 |
 | My armies are invincible! | 0.70% | ~2,998 |
-| Agressive Expander | 0.50% | ~2,141 |
-| Azur semé de lis or | 0.50% | ~2,141 |
-| City of Cities | 0.50% | ~2,141 |
-| Combined Arms | 0.50% | ~2,141 |
-| This navy can take it all | 0.50% | ~2,141 |
+| Agressive Expander | 0.50% | ~2,142 |
+| Azur semé de lis or | 0.50% | ~2,142 |
+| City of Cities | 0.50% | ~2,142 |
+| Combined Arms | 0.50% | ~2,142 |
+| This navy can take it all | 0.50% | ~2,142 |
 | Bright Spark | 0.40% | ~1,713 |
 | Factionalism | 0.40% | ~1,713 |
 | Gentle Persuasion | 0.40% | ~1,713 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 428,281 (Ranked 41)  
+Progressed: 428,310 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -536,10 +536,10 @@ Completed: 1 (0.00%) (Ranked 313)
 | 2023-10-09 | 426,888 | 1 |
 | 2023-10-10 | 427,588 | 1 |
 | 2023-10-11 | 428,261 | 1 |
-| 2023-10-12 | 428,281 | 1 |
+| 2023-10-12 | 428,310 | 1 |
 ## Awards
 Max (Educational): 6,479  (Ranked 55)  
-Sum: 53,243 (Ranked 24)  
+Sum: 53,262 (Ranked 24)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
@@ -549,8 +549,8 @@ Diff (max vs sum): 31
 | This game has Challenging Combat | 6,119 |
 | This game is Extremely Fun | 6,107 |
 | This game is Relaxing | 5,989 |
-| This game has Competitive Players | 5,803 |
-| This game has Amazing Storytelling | 5,410 |
+| This game has Competitive Players | 5,812 |
+| This game has Amazing Storytelling | 5,420 |
 | This game has Amazing Characters | 5,015 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
@@ -824,3 +824,4 @@ Diff (max vs sum): 31
 | 2023-10-09 | 4.69 | - | 6,454 | 53,084 |
 | 2023-10-10 | 4.69 | - | 6,464 | 53,176 |
 | 2023-10-11 | 4.69 | - | 6,479 | 53,243 |
+| 2023-10-12 | 4.69 | - | 6,479 | 53,262 |

@@ -1,24 +1,24 @@
 # Dead by Daylight
 [Store](https://store.epicgames.com/en-US/p/dead-by-daylight)  
 [View Rawdata](../../db/d/dead_by_daylight.json)  
-Rating: 4.51 (Ranked 552)  
+Rating: 4.51 (Ranked 551)  
 Number of Ratings: 70,340  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 1.00% | ~9,332 |
-| It wakes | 1.00% | ~9,332 |
-| Not half bad | 1.00% | ~9,332 |
-| Apt Survivor | 1.00% | ~9,332 |
-| Survival Treasures | 1.00% | ~9,332 |
-| Skillful | 1.00% | ~9,332 |
-| Make Some Noise | 1.00% | ~9,332 |
-| Handyman | 0.90% | ~8,399 |
-| Sorted | 0.90% | ~8,399 |
-| No one left behind | 0.80% | ~7,466 |
-| Medic | 0.80% | ~7,466 |
-| Healthy Obsession | 0.80% | ~7,466 |
-| Resurgence | 0.80% | ~7,466 |
+| Handyman | 1.00% | ~9,333 |
+| Zealous | 1.00% | ~9,333 |
+| It wakes | 1.00% | ~9,333 |
+| Not half bad | 1.00% | ~9,333 |
+| Apt Survivor | 1.00% | ~9,333 |
+| Survival Treasures | 1.00% | ~9,333 |
+| Skillful | 1.00% | ~9,333 |
+| Make Some Noise | 1.00% | ~9,333 |
+| Sorted | 0.90% | ~8,400 |
+| No one left behind | 0.80% | ~7,467 |
+| Medic | 0.80% | ~7,467 |
+| Healthy Obsession | 0.80% | ~7,467 |
+| Resurgence | 0.80% | ~7,467 |
 | The Grand Sacrifice | 0.70% | ~6,533 |
 | Agonizing Escape | 0.70% | ~6,533 |
 | Backdoor Escape | 0.70% | ~6,533 |
@@ -29,15 +29,15 @@ Number of Ratings: 70,340  (23.09.2022)
 | Engineer | 0.70% | ~6,533 |
 | Preemptive Strike | 0.70% | ~6,533 |
 | Humanitarian | 0.70% | ~6,533 |
-| I've got your back | 0.60% | ~5,599 |
-| Perfect Killing | 0.60% | ~5,599 |
-| Risk it all | 0.60% | ~5,599 |
-| Wounded Healer | 0.60% | ~5,599 |
-| Close Shave | 0.60% | ~5,599 |
-| Apt Killer | 0.50% | ~4,666 |
-| Vulture | 0.50% | ~4,666 |
-| II | 0.50% | ~4,666 |
-| Second Act | 0.50% | ~4,666 |
+| I've got your back | 0.60% | ~5,600 |
+| Perfect Killing | 0.60% | ~5,600 |
+| Risk it all | 0.60% | ~5,600 |
+| Wounded Healer | 0.60% | ~5,600 |
+| Close Shave | 0.60% | ~5,600 |
+| Apt Killer | 0.50% | ~4,667 |
+| Vulture | 0.50% | ~4,667 |
+| II | 0.50% | ~4,667 |
+| Second Act | 0.50% | ~4,667 |
 | Made it out alive! | 0.40% | ~3,733 |
 | III | 0.40% | ~3,733 |
 | Cherish your Life | 0.40% | ~3,733 |
@@ -48,6 +48,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | With Scars to Show | 0.40% | ~3,733 |
 | Flight to Freedom | 0.40% | ~3,733 |
 | A Fast Death | 0.40% | ~3,733 |
+| Chorus of Chaos | 0.40% | ~3,733 |
 | A bite for the Entity | 0.30% | ~2,800 |
 | Blood on your hands | 0.30% | ~2,800 |
 | Escape Artist | 0.30% | ~2,800 |
@@ -72,34 +73,33 @@ Number of Ratings: 70,340  (23.09.2022)
 | Classy Act | 0.30% | ~2,800 |
 | Rebuilding The Borgo | 0.30% | ~2,800 |
 | Lifting The Fog | 0.30% | ~2,800 |
-| Chorus of Chaos | 0.30% | ~2,800 |
 | Extraterrestrial | 0.30% | ~2,800 |
 | One More Step | 0.30% | ~2,800 |
 | MU/TH/UR Dearest | 0.30% | ~2,800 |
-| Blood on your face | 0.20% | ~1,866 |
-| Jump Scares | 0.20% | ~1,866 |
-| Hemophobia | 0.20% | ~1,866 |
-| Deep Cleansing | 0.20% | ~1,866 |
-| Texas BBQ | 0.20% | ~1,866 |
-| Serial Killer | 0.20% | ~1,866 |
-| Game Over | 0.20% | ~1,866 |
-| Party Crasher | 0.20% | ~1,866 |
-| Outrage | 0.20% | ~1,866 |
-| Heavy Burden | 0.20% | ~1,866 |
-| Devoted Gatekeeping | 0.20% | ~1,866 |
-| Shrine Apparatus | 0.20% | ~1,866 |
-| Broken Bodies | 0.20% | ~1,866 |
-| Selfless Survival | 0.20% | ~1,866 |
-| I See You | 0.20% | ~1,866 |
-| End of Days | 0.20% | ~1,866 |
-| Insult and Injury | 0.20% | ~1,866 |
-| Prowler | 0.20% | ~1,866 |
-| Triage | 0.20% | ~1,866 |
-| Outrun the Overlap | 0.20% | ~1,866 |
-| High Speed Pursuit | 0.20% | ~1,866 |
-| Hack the Mainframe | 0.20% | ~1,866 |
-| Complete the Evolution | 0.20% | ~1,866 |
-| Kitted Out | 0.20% | ~1,866 |
+| Blood on your face | 0.20% | ~1,867 |
+| Jump Scares | 0.20% | ~1,867 |
+| Hemophobia | 0.20% | ~1,867 |
+| Deep Cleansing | 0.20% | ~1,867 |
+| Texas BBQ | 0.20% | ~1,867 |
+| Serial Killer | 0.20% | ~1,867 |
+| Game Over | 0.20% | ~1,867 |
+| Party Crasher | 0.20% | ~1,867 |
+| Outrage | 0.20% | ~1,867 |
+| Heavy Burden | 0.20% | ~1,867 |
+| Devoted Gatekeeping | 0.20% | ~1,867 |
+| Shrine Apparatus | 0.20% | ~1,867 |
+| Broken Bodies | 0.20% | ~1,867 |
+| Selfless Survival | 0.20% | ~1,867 |
+| I See You | 0.20% | ~1,867 |
+| End of Days | 0.20% | ~1,867 |
+| Insult and Injury | 0.20% | ~1,867 |
+| Prowler | 0.20% | ~1,867 |
+| Triage | 0.20% | ~1,867 |
+| Outrun the Overlap | 0.20% | ~1,867 |
+| High Speed Pursuit | 0.20% | ~1,867 |
+| Hack the Mainframe | 0.20% | ~1,867 |
+| Complete the Evolution | 0.20% | ~1,867 |
+| Kitted Out | 0.20% | ~1,867 |
 | A feast for the Entity | 0.10% | ~933 |
 | Blood in your mouth | 0.10% | ~933 |
 | Cripple them all | 0.10% | ~933 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~933 |
 | Adept Ripley | 0.10% | ~933 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 933,227 (Ranked 14)  
+Progressed: 933,337 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -411,7 +411,7 @@ Completed: 49 (0.01%) (Ranked 295)
 | 2023-10-09 | 929,902 | 49 |
 | 2023-10-10 | 931,511 | 49 |
 | 2023-10-11 | 933,163 | 49 |
-| 2023-10-12 | 933,227 | 49 |
+| 2023-10-12 | 933,337 | 49 |
 ## Awards
 Max (Diverse Characters): 33,734  (Ranked 15)  
 Sum: 261,382 (Ranked 13)  

@@ -8,7 +8,7 @@ Rating: 4.43 (Ranked 672)
 | No aid from the Omnissiah | 26.00% | ~58,374 |
 | This is only the beginning | 19.00% | ~42,658 |
 | Knowledge is power | 12.00% | ~26,942 |
-| Galvanic Rifle | 10.00% | ~22,451 |
+| Galvanic Rifle | 10.00% | ~22,452 |
 | Power Ranger | 9.00% | ~20,206 |
 | Taser Goad | 9.00% | ~20,206 |
 | Radium Ready | 9.00% | ~20,206 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 672)
 | Perma-live | 0.10% | ~225 |
 | Purge the Heretek | 0.10% | ~225 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,514 (Ranked 62)  
+Progressed: 224,516 (Ranked 62)  
 Completed: 5 (0.00%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,14 +215,14 @@ Completed: 5 (0.00%) (Ranked 313)
 | 2023-10-09 | 224,376 | 5 |
 | 2023-10-10 | 224,445 | 5 |
 | 2023-10-11 | 224,509 | 5 |
-| 2023-10-12 | 224,514 | 5 |
+| 2023-10-12 | 224,516 | 5 |
 ## Awards
-Max (Highly Recommended): 285  (Ranked 247)  
-Sum: 2,164 (Ranked 198)  
+Max (Highly Recommended): 286  (Ranked 247)  
+Sum: 2,165 (Ranked 198)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
-| This game is Highly Recommended | 285 |
+| This game is Highly Recommended | 286 |
 | This game has Quickly Understood Controls | 279 |
 | This game is Extremely Fun | 276 |
 | This game has Diverse Characters | 266 |
@@ -308,4 +308,4 @@ Diff (max vs sum): 49
 | 2023-10-07 | 4.43 | 285 | 2,161 |
 | 2023-10-10 | 4.43 | 285 | 2,162 |
 | 2023-10-11 | 4.43 | 285 | 2,163 |
-| 2023-10-12 | 4.43 | 285 | 2,164 |
+| 2023-10-12 | 4.43 | 286 | 2,165 |

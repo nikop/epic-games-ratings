@@ -3086,9 +3086,9 @@
       "Count": 321
     }
   ],
-  "EOS_Progressed": 16887,
+  "EOS_Progressed": 16888,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -11851,6 +11851,11 @@
       "Time": "2023-10-11T22:05:06.9827965+00:00",
       "NumProgressed": 16887,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-10-12T01:46:42.6787886+00:00",
+      "NumProgressed": 16888,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 50,
@@ -11942,7 +11947,7 @@
       "Name": "Homesick",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "WinFirstGame",
@@ -11982,7 +11987,7 @@
       "Name": "Bandit Camp",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "WinNearBarren",
@@ -11990,7 +11995,7 @@
       "Name": "Barren Lands",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "WinNearBattleground",
@@ -11998,7 +12003,7 @@
       "Name": "Ancient Battleground",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "WinNearCrystals",
@@ -12006,7 +12011,7 @@
       "Name": "Sparkdew Crystals",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "WinNearDangerous",
@@ -12078,7 +12083,7 @@
       "Name": "Royal Outpost",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "WinNearRuins",
@@ -12086,7 +12091,7 @@
       "Name": "Lost Colonies",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "WinNearStatue",
@@ -12094,7 +12099,7 @@
       "Name": "Statue of the Forefathers",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "WinNearTemple",
@@ -12118,7 +12123,7 @@
       "Name": "Watchtower",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "WinOnCoral",
@@ -12174,7 +12179,7 @@
       "Name": "A Real Challenge",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "WinWIthCaches",
@@ -12230,7 +12235,7 @@
       "Name": "Trade Baron",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "WinWithoutDeath",
@@ -12261,15 +12266,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 16887,
+      "Progressed": 16888,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-10-11T15:57:08.5093433+00:00",
-  "LastChanged_Achievements": "2023-10-12T00:06:14.3373277+00:00",
+  "LastChanged_Achievements": "2023-10-12T01:46:42.6787881+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:39.9609132+00:00",
-  "LastUpdate_Ratings": "2023-10-11T23:57:17.3210794+00:00",
-  "LastUpdate_Achievements": "2023-10-12T00:06:14.337409+00:00"
+  "LastUpdate_Ratings": "2023-10-12T01:37:54.5461092+00:00",
+  "LastUpdate_Achievements": "2023-10-12T01:46:42.678896+00:00"
 }

@@ -6,9 +6,9 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 25.00% | ~45,708 |
-| Get Busy Living | 16.00% | ~29,253 |
-| Samuel Norton | 9.00% | ~16,455 |
+| Stone Walls | 25.00% | ~45,711 |
+| Get Busy Living | 16.00% | ~29,255 |
+| Samuel Norton | 9.00% | ~16,456 |
 | Spare The Rod | 5.00% | ~9,142 |
 | Don't Put Me In The Dark | 3.00% | ~5,485 |
 | Wait and Hope | 3.00% | ~5,485 |
@@ -19,11 +19,11 @@ Number of Ratings: 4,491  (23.09.2022)
 | Reformation | 0.60% | ~1,097 |
 | Crowd Control | 0.50% | ~914 |
 | Freedom | 0.40% | ~731 |
-| Confined | 0.30% | ~548 |
+| Confined | 0.30% | ~549 |
 | It's Not What You Know... | 0.10% | ~183 |
 | ... It's What You Can Prove | 0.10% | ~183 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 182,833 (Ranked 69)  
+Progressed: 182,845 (Ranked 69)  
 Completed: 8 (0.00%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,10 +198,10 @@ Completed: 8 (0.00%) (Ranked 313)
 | 2023-10-09 | 182,365 | 8 |
 | 2023-10-10 | 182,598 | 8 |
 | 2023-10-11 | 182,829 | 8 |
-| 2023-10-12 | 182,833 | 8 |
+| 2023-10-12 | 182,845 | 8 |
 ## Awards
 Max (Extremely Fun): 527  (Ranked 200)  
-Sum: 4,538 (Ranked 141)  
+Sum: 4,540 (Ranked 141)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
@@ -212,7 +212,7 @@ Diff (max vs sum): 59
 | This game is Relaxing | 471 |
 | This game has Amazing Storytelling | 448 |
 | This game has Diverse Characters | 439 |
-| This game is Educational | 429 |
+| This game is Educational | 431 |
 | This game has Amazing Characters | 397 |
 | This game has a Creative Community | 315 |
 | This game has Obsessive Gameplay | 234 |
@@ -481,3 +481,4 @@ Diff (max vs sum): 59
 | 2023-10-09 | 4.61 | - | 524 | 4,527 |
 | 2023-10-10 | 4.61 | - | 526 | 4,531 |
 | 2023-10-11 | 4.61 | - | 527 | 4,538 |
+| 2023-10-12 | 4.61 | - | 527 | 4,540 |

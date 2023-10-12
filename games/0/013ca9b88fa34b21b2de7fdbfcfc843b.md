@@ -5,17 +5,17 @@ Rating: 4.63 (Ranked 335)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 73.00% | ~4,744 |
-| A Thorny Situation | 70.00% | ~4,549 |
-| ... And Spit Back Out | 60.00% | ~3,899 |
-| Break-Net Speed | 48.00% | ~3,120 |
-| Bramble Breaker | 45.00% | ~2,925 |
-| Miner 49er | 42.00% | ~2,730 |
-| Humble Collector | 41.00% | ~2,665 |
-| Calm Sailing | 35.00% | ~2,275 |
-| Open the Gate! | 32.00% | ~2,080 |
-| Mist Walker | 30.00% | ~1,950 |
-| Lumberjack | 26.00% | ~1,690 |
+| Azoria Beckons | 73.00% | ~4,746 |
+| A Thorny Situation | 70.00% | ~4,551 |
+| ... And Spit Back Out | 60.00% | ~3,901 |
+| Break-Net Speed | 48.00% | ~3,121 |
+| Bramble Breaker | 45.00% | ~2,926 |
+| Miner 49er | 42.00% | ~2,731 |
+| Humble Collector | 41.00% | ~2,666 |
+| Calm Sailing | 35.00% | ~2,276 |
+| Open the Gate! | 32.00% | ~2,081 |
+| Mist Walker | 30.00% | ~1,951 |
+| Lumberjack | 26.00% | ~1,691 |
 | Oui, Chef! | 22.00% | ~1,430 |
 | Clear the Air | 17.00% | ~1,105 |
 | Botanical Breakthrough | 16.00% | ~1,040 |
@@ -36,12 +36,12 @@ Rating: 4.63 (Ranked 335)
 | House Proud | 3.00% | ~195 |
 | Angling Authority | 1.00% | ~65 |
 | Captain of Cozy | 1.00% | ~65 |
-| Cloverfield Island | 0.10% | ~6 |
-| Workaholic | 0.10% | ~6 |
-| Giving the People What They Want | 0.10% | ~6 |
-| Very Skilled | 0.10% | ~6 |
+| Cloverfield Island | 0.10% | ~7 |
+| Workaholic | 0.10% | ~7 |
+| Giving the People What They Want | 0.10% | ~7 |
+| Very Skilled | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,499 (Ranked 162)  
+Progressed: 6,502 (Ranked 162)  
 Completed: 0 (0.00%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 0 (0.00%) (Ranked 313)
 | 2023-10-09 | 6,417 | 0 |
 | 2023-10-10 | 6,462 | 0 |
 | 2023-10-11 | 6,498 | 0 |
-| 2023-10-12 | 6,499 | 0 |
+| 2023-10-12 | 6,502 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

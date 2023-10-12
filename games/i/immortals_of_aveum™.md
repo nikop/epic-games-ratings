@@ -12,11 +12,11 @@ Rating: 4.03 (Ranked 959)
 | No More Names | 70.00% | ~58 |
 | Initiate | 61.00% | ~51 |
 | Thrada-Kul | 57.00% | ~47 |
-| Gravity-Challenged Rocks | 47.00% | ~39 |
-| Soldier | 41.00% | ~34 |
-| All the Major Food Groups | 40.00% | ~33 |
+| Gravity-Challenged Rocks | 48.00% | ~40 |
+| Soldier | 42.00% | ~35 |
+| All the Major Food Groups | 41.00% | ~34 |
+| Beggars Would Ride | 36.00% | ~30 |
 | Socialite | 35.00% | ~29 |
-| Beggars Would Ride | 35.00% | ~29 |
 | Control is an Illusion | 33.00% | ~27 |
 | The Means to Save It | 27.00% | ~22 |
 | Resilience to Sin | 23.00% | ~19 |

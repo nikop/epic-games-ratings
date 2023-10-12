@@ -28,6 +28,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Naming Landmarks | 1.00% | ~146 |
 | Trade Caravan | 1.00% | ~146 |
 | Kushite Paganism | 1.00% | ~146 |
+| Ambitious | 0.90% | ~131 |
 | Enlightened | 0.90% | ~131 |
 | Keystone | 0.90% | ~131 |
 | Warrior | 0.90% | ~131 |
@@ -38,7 +39,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pyramids | 0.90% | ~131 |
 | Christianity | 0.90% | ~131 |
 | Greek Paganism | 0.90% | ~131 |
-| Ambitious | 0.80% | ~117 |
 | Fountainhead | 0.80% | ~117 |
 | Magnificent | 0.80% | ~117 |
 | Wise | 0.80% | ~117 |
@@ -78,6 +78,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mythology | 0.50% | ~73 |
 | Win a Single Player Game | 0.50% | ~73 |
 | Beloved | 0.40% | ~58 |
+| Invincible | 0.40% | ~58 |
 | Lion | 0.40% | ~58 |
 | Victorious | 0.40% | ~58 |
 | Good Difficulty | 0.40% | ~58 |
@@ -101,7 +102,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Points Victory | 0.40% | ~58 |
 | Capable | 0.30% | ~44 |
 | Devout | 0.30% | ~44 |
-| Invincible | 0.30% | ~44 |
 | Subjugator | 0.30% | ~44 |
 | Strong Difficulty | 0.30% | ~44 |
 | Hunters | 0.30% | ~44 |
@@ -190,6 +190,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Difficulty | 0.10% | ~15 |
 | Magnificent Difficulty | 0.10% | ~15 |
 | Ethnic Diversity | 0.10% | ~15 |
+| Et tu Brutus? | 0.10% | ~15 |
 | Event Level High | 0.10% | ~15 |
 | Battle of the Fertile Crescent | 0.10% | ~15 |
 | The Eternal Treaty | 0.10% | ~15 |
@@ -322,7 +323,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Via Recta Souk in Damascus | 0.00% | ~0 |
 | Oracle in Delphi | 0.00% | ~0 |
 | Elephant in Elephantine | 0.00% | ~0 |
-| Et tu Brutus? | 0.00% | ~0 |
 | That Also Works | 0.00% | ~0 |
 | They Shall Not Pass | 0.00% | ~0 |
 | THIS IS SPARTA!! | 0.00% | ~0 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,606 (Ranked 134)  
+Progressed: 14,607 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -524,6 +524,7 @@ Completed: 5 (0.03%) (Ranked 282)
 | 2023-10-09 | 14,562 | 5 |
 | 2023-10-10 | 14,586 | 5 |
 | 2023-10-11 | 14,606 | 5 |
+| 2023-10-12 | 14,607 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,833 (Ranked 210)  
