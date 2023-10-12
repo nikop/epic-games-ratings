@@ -287,6 +287,7 @@
 | [Goat Simulator 3](../games/g/goat_simulator_3.md) | 39 | 1,000 |
 | [Godlike Burger](../games/g/godlike_burger.md) | 28 | 1,000 |
 | [Going Medieval](../games/g/going_medieval.md) | 31 | 1,000 |
+| [Golden Light](../games/c/ca05bd340e84436ebea4a0c0ca55befa.md) | 67 | 1,000 |
 | [Golfing in Aether](../games/4/40f6e4beb45a4bbfb77fdb6774331e83.md) | 14 | 1,000 |
 | [Good Company](../games/g/good_company.md) | 76 | 1,000 |
 | [GPRO - Classic racing manager](../games/g/gpro_-_classic_racing_manager.md) | 162 | 1,000 |

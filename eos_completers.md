@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 52.25% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 52.22% |
 | 3 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 47.17% |
 | 5 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 45.90% |
@@ -19,11 +19,11 @@
 | 17 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 18 | [Doodle Devil](games/d/doodle_devil.md) | 19.51% |
 | 19 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.39% |
-| 20 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 16.67% |
-| 21 | [Island Cities](games/i/island_cities.md) | 16.62% |
-| 22 | [Seven Doors](games/s/seven_doors.md) | 15.38% |
-| 22 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 15.38% |
-| 24 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.12% |
+| 20 | [Island Cities](games/i/island_cities.md) | 16.62% |
+| 21 | [Seven Doors](games/s/seven_doors.md) | 15.38% |
+| 21 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 15.38% |
+| 23 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.12% |
+| 24 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 14.29% |
 | 25 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 12.77% |
 | 26 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 12.50% |
 | 27 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.27% |
@@ -153,8 +153,8 @@
 | 151 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 152 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.84% |
 | 153 | [Dungeons 3](games/d/dungeons_3.md) | 0.80% |
-| 154 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.77% |
-| 155 | [Eternights](games/e/eternights.md) | 0.76% |
+| 154 | [Eternights](games/e/eternights.md) | 0.76% |
+| 154 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.76% |
 | 156 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.72% |
 | 156 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.72% |
 | 158 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.67% |
@@ -185,9 +185,9 @@
 | 178 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.46% |
 | 178 | [Them and Us](games/t/them_and_us.md) | 0.46% |
 | 185 | [Tchia](games/t/tchia.md) | 0.44% |
-| 186 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.42% |
-| 186 | [It Takes Two](games/i/it_takes_two.md) | 0.42% |
-| 186 | [Wildermyth](games/w/wildermyth.md) | 0.42% |
+| 186 | [It Takes Two](games/i/it_takes_two.md) | 0.43% |
+| 187 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.42% |
+| 187 | [Wildermyth](games/w/wildermyth.md) | 0.42% |
 | 189 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 190 | [Train Valley](games/t/train_valley.md) | 0.39% |
 | 191 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.38% |
@@ -665,4 +665,4 @@
 | 314 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 314 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 314 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,383 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,384 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
