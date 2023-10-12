@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 532,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -286,7 +286,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24192,
+  "EOS_Progressed": 24193,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 1,
@@ -5466,6 +5466,11 @@
       "Time": "2023-10-11T22:04:01.1510152+00:00",
       "NumProgressed": 24192,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-10-12T00:04:49.1826709+00:00",
+      "NumProgressed": 24193,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 44,
@@ -5547,9 +5552,9 @@
       "ID": "ACH_GET_LEZDUIT",
       "SetID": "cdkbb11",
       "Name": "Lezduit!",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 97
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH_GET_MAGBOOTS",
@@ -5819,22 +5824,22 @@
       "ID": "ACH_TOXXO_BATH",
       "SetID": "7fgbhpb",
       "Name": "Bathe With A Giant Nude Alien",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     }
   ],
   "AchievementSets": [
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24192,
+      "Progressed": 24193,
       "Completed": 13
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1485,
+      "Progressed": 1486,
       "Completed": 1373
     }
   ],
@@ -5842,8 +5847,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-07T05:03:09.4311759+00:00",
-  "LastChanged_Achievements": "2023-10-11T23:04:28.2435684+00:00",
+  "LastChanged_Achievements": "2023-10-12T00:04:49.1826704+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:51.1168375+00:00",
-  "LastUpdate_Ratings": "2023-10-11T22:59:33.6995909+00:00",
-  "LastUpdate_Achievements": "2023-10-11T23:04:28.2436373+00:00"
+  "LastUpdate_Ratings": "2023-10-11T23:59:58.7519725+00:00",
+  "LastUpdate_Achievements": "2023-10-12T00:04:49.1827243+00:00"
 }

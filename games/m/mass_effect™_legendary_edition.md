@@ -14,9 +14,9 @@
 | Honorarium of Corporate Service | 67.00% | ~439 |
 | Council Legion of Merit | 61.00% | ~400 |
 | Medal of Exploration II | 59.00% | ~386 |
+| Medal of Honor | 58.00% | ~380 |
+| Meritorious Service Medal | 58.00% | ~380 |
 | Charismatic | 58.00% | ~380 |
-| Medal of Honor | 57.00% | ~373 |
-| Meritorious Service Medal | 57.00% | ~373 |
 | Turian Ally | 57.00% | ~373 |
 | Soldier | 55.00% | ~360 |
 | Principled | 53.00% | ~347 |
@@ -78,9 +78,9 @@
 | Untouchable | 25.00% | ~164 |
 | Eye of the Hurricane | 25.00% | ~164 |
 | Weapon Specialist | 25.00% | ~164 |
+| Liberator | 25.00% | ~164 |
 | Giant Killer | 24.00% | ~157 |
 | World Shaker | 24.00% | ~157 |
-| Liberator | 24.00% | ~157 |
 | Paramour II | 22.00% | ~144 |
 | Pathfinder | 22.00% | ~144 |
 | Tunnel Rat | 22.00% | ~144 |

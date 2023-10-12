@@ -16,28 +16,28 @@ Rating: 4.54 (Ranked 510)
 | Apex Predator | 3.00% | ~20,828 |
 | Stacking the Deck | 3.00% | ~20,828 |
 | Personal Assistant Personally Assisted | 3.00% | ~20,828 |
-| Anger Management | 2.00% | ~13,885 |
-| Perks of the Job | 2.00% | ~13,885 |
-| Bookworm | 2.00% | ~13,885 |
-| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,885 |
-| But Doctor, I am Butcho | 2.00% | ~13,885 |
-| Slayer Squad | 2.00% | ~13,885 |
-| Can't Handle the Truth | 2.00% | ~13,885 |
-| Like Riding a Bike | 2.00% | ~13,885 |
-| Zombologist | 2.00% | ~13,885 |
-| Ooh, Shiny! | 2.00% | ~13,885 |
-| A Patton Emerges | 2.00% | ~13,885 |
-| Humanity Distilled | 2.00% | ~13,885 |
-| I Am the Resurrection | 2.00% | ~13,885 |
-| Our True Nature | 2.00% | ~13,885 |
-| This is My Weapon | 2.00% | ~13,885 |
+| Anger Management | 2.00% | ~13,886 |
+| Perks of the Job | 2.00% | ~13,886 |
+| Bookworm | 2.00% | ~13,886 |
+| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,886 |
+| But Doctor, I am Butcho | 2.00% | ~13,886 |
+| Slayer Squad | 2.00% | ~13,886 |
+| Can't Handle the Truth | 2.00% | ~13,886 |
+| Like Riding a Bike | 2.00% | ~13,886 |
+| Zombologist | 2.00% | ~13,886 |
+| Ooh, Shiny! | 2.00% | ~13,886 |
+| A Patton Emerges | 2.00% | ~13,886 |
+| Humanity Distilled | 2.00% | ~13,886 |
+| I Am the Resurrection | 2.00% | ~13,886 |
+| Our True Nature | 2.00% | ~13,886 |
+| This is My Weapon | 2.00% | ~13,886 |
 | Making Your Mark | 1.00% | ~6,943 |
 | Jumbo Keyring | 1.00% | ~6,943 |
 | Down with the Sickness | 1.00% | ~6,943 |
 | Max Headroom | 1.00% | ~6,943 |
 | Go, Bobcats! | 1.00% | ~6,943 |
 | Rising Star | 1.00% | ~6,943 |
-| Smorgasbord | 0.90% | ~6,248 |
+| Smorgasbord | 0.90% | ~6,249 |
 | On Safari | 0.70% | ~4,860 |
 | Not Even My Final Form | 0.70% | ~4,860 |
 | Internet Famous | 0.70% | ~4,860 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 510)
 | Donk! | 0.20% | ~1,389 |
 | Bucket List | 0.10% | ~694 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 694,263 (Ranked 22)  
+Progressed: 694,280 (Ranked 22)  
 Completed: 2,210 (0.32%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,6 +226,7 @@ Completed: 2,210 (0.32%) (Ranked 199)
 | 2023-10-09 | 693,470 | 2,208 |
 | 2023-10-10 | 693,868 | 2,209 |
 | 2023-10-11 | 694,263 | 2,210 |
+| 2023-10-12 | 694,280 | 2,210 |
 ## Awards
 Max (Great Boss Battles): 6,398  (Ranked 58)  
 Sum: 9,555 (Ranked 91)  

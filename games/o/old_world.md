@@ -44,6 +44,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Wise | 0.80% | ~117 |
 | Able Difficulty | 0.80% | ~117 |
 | Carthaginian Paganism | 0.80% | ~117 |
+| Roman Paganism | 0.80% | ~117 |
 | Zoroastrianism | 0.80% | ~117 |
 | Kushite Pyramids | 0.80% | ~117 |
 | Brilliant | 0.70% | ~102 |
@@ -54,7 +55,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 1 | 0.70% | ~102 |
 | Manichaeism | 0.70% | ~102 |
 | Egyptian Paganism | 0.70% | ~102 |
-| Roman Paganism | 0.70% | ~102 |
 | Drillmaster | 0.60% | ~88 |
 | Valiant | 0.60% | ~88 |
 | Legendary Cities | 0.60% | ~88 |
@@ -149,6 +149,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | No Undo | 0.20% | ~29 |
 | Rmt n Kmt Buhen | 0.20% | ~29 |
 | Greater Kmt Unified | 0.20% | ~29 |
+| Kush | 0.20% | ~29 |
 | Beja Archer | 0.20% | ~29 |
 | Centenarian | 0.10% | ~15 |
 | Alexander the who? | 0.10% | ~15 |
@@ -308,7 +309,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pharaonic History Repeats | 0.10% | ~15 |
 | Egypt Campaign | 0.10% | ~15 |
 | The Hekau Khasut Slaves | 0.10% | ~15 |
-| Kush | 0.10% | ~15 |
 | Alexander the Great | 0.00% | ~0 |
 | The Great Raging Horde | 0.00% | ~0 |
 | Hagia Sophia in Byzantion | 0.00% | ~0 |

@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Love | 42.00% | ~601 |
+| First Love | 42.00% | ~602 |
 | Clean Race | 40.00% | ~573 |
 | Eat My Dust | 40.00% | ~573 |
-| Hear That Roar! | 38.00% | ~544 |
+| Hear That Roar! | 38.00% | ~545 |
 | Rivals to the End | 28.00% | ~401 |
 | We're Going to Need a Bigger Garage | 24.00% | ~344 |
 | Bitter Rivalry | 24.00% | ~344 |
 | Champagne Spray | 21.00% | ~301 |
-| Restored and Ready | 19.00% | ~272 |
 | I Want One Too! | 19.00% | ~272 |
+| Restored and Ready | 18.00% | ~258 |
 | Legendary!!! | 18.00% | ~258 |
 | Quick Pit Stop | 18.00% | ~258 |
 | I'm Here Too! | 18.00% | ~258 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,432 (Ranked 220)  
+Progressed: 1,433 (Ranked 220)  
 Completed: 0 (0.00%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,3 +95,4 @@ Completed: 0 (0.00%) (Ranked 313)
 | 2023-10-09 | 1,401 | 0 |
 | 2023-10-10 | 1,416 | 0 |
 | 2023-10-11 | 1,432 | 0 |
+| 2023-10-12 | 1,433 | 0 |

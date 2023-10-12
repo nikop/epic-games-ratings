@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 532,
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 955,
+  "EOS_Progressed": 956,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2335,6 +2335,11 @@
       "Time": "2023-10-11T13:11:42.5338464+00:00",
       "NumProgressed": 955,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-12T00:06:02.8430698+00:00",
+      "NumProgressed": 956,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -2402,7 +2407,7 @@
       "Name": "My little farm",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "ACH008",
@@ -2434,7 +2439,7 @@
       "Name": "Intangible",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "ACH012",
@@ -2442,7 +2447,7 @@
       "Name": "3, 2, 1, mine",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "ACH013",
@@ -2450,7 +2455,7 @@
       "Name": "In a mint condition",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "ACH014",
@@ -2458,7 +2463,7 @@
       "Name": "Christening",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "ACH015",
@@ -2528,9 +2533,9 @@
       "ID": "ACH023",
       "SetID": "69nfp41",
       "Name": "Gofer",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 544
+      "UsersEstimate": 535
     },
     {
       "ID": "ACH024",
@@ -2546,7 +2551,7 @@
       "Name": "My precious!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "ACH026",
@@ -2696,9 +2701,9 @@
       "ID": "ACH044",
       "SetID": "69nfp41",
       "Name": "Greed for gold",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 411
+      "UsersEstimate": 402
     },
     {
       "ID": "ACH045",
@@ -2730,7 +2735,7 @@
       "Name": "Megalomania",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "ACH049",
@@ -2745,15 +2750,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 955,
+      "Progressed": 956,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-07-02T02:29:11.8786643+00:00",
-  "LastChanged_Achievements": "2023-10-11T23:05:34.5272516+00:00",
+  "LastChanged_Achievements": "2023-10-12T00:06:02.8430691+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:30.9232291+00:00",
-  "LastUpdate_Ratings": "2023-10-11T23:00:26.344566+00:00",
-  "LastUpdate_Achievements": "2023-10-11T23:05:34.5273153+00:00"
+  "LastUpdate_Ratings": "2023-10-12T00:00:59.2492767+00:00",
+  "LastUpdate_Achievements": "2023-10-12T00:06:02.8431142+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -679,10 +679,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 2163,
       "NumberOfAwardsMax": 285
+    },
+    {
+      "Time": "2023-10-12T00:01:19.625082+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 2164,
+      "NumberOfAwardsMax": 285
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2163,
+  "NumberOfAwards": 2164,
   "NumberOfAwardsMax": 285,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -726,7 +732,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 210
+      "Count": 211
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -747,9 +753,9 @@
       "Count": 98
     }
   ],
-  "EOS_Progressed": 224509,
+  "EOS_Progressed": 224514,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 559,
+  "EOS_NewPlayers": 562,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19752,6 +19758,11 @@
       "Time": "2023-10-11T23:04:30.9307047+00:00",
       "NumProgressed": 224509,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-12T00:04:52.3107862+00:00",
+      "NumProgressed": 224514,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -19763,7 +19774,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 42657
+      "UsersEstimate": 42658
     },
     {
       "ID": "ACH_BASE_10",
@@ -19771,7 +19782,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 58372
+      "UsersEstimate": 58374
     },
     {
       "ID": "ACH_BASE_11",
@@ -19787,7 +19798,7 @@
       "Name": "Competent Cohort",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 8980
+      "UsersEstimate": 8981
     },
     {
       "ID": "ACH_BASE_13",
@@ -19931,7 +19942,7 @@
       "Name": "Celestial Cartography Catastrophe",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8980
+      "UsersEstimate": 8981
     },
     {
       "ID": "ACH_BASE_30",
@@ -20011,7 +20022,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 26941
+      "UsersEstimate": 26942
     },
     {
       "ID": "ACH_BASE_8",
@@ -20019,7 +20030,7 @@
       "Name": "One with the Machine",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8980
+      "UsersEstimate": 8981
     },
     {
       "ID": "ACH_BASE_9",
@@ -20034,16 +20045,16 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 224509,
+      "Progressed": 224514,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-08-11T20:31:05.9094892+00:00",
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
-  "LastChanged": "2023-10-11T15:59:54.4942762+00:00",
-  "LastChanged_Achievements": "2023-10-11T23:04:30.9307042+00:00",
+  "LastChanged": "2023-10-12T00:01:19.6250819+00:00",
+  "LastChanged_Achievements": "2023-10-12T00:04:52.3107857+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:40.0692082+00:00",
-  "LastUpdate_Ratings": "2023-10-11T23:00:41.2227171+00:00",
-  "LastUpdate_Achievements": "2023-10-11T23:04:30.9308644+00:00"
+  "LastUpdate_Ratings": "2023-10-12T00:01:19.6250828+00:00",
+  "LastUpdate_Achievements": "2023-10-12T00:04:52.3108979+00:00"
 }

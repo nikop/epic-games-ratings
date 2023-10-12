@@ -326,9 +326,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 110900,
+  "EOS_Progressed": 110901,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 811,
+  "EOS_NewPlayers": 805,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -14041,6 +14041,11 @@
       "Time": "2023-10-11T23:03:30.3652576+00:00",
       "NumProgressed": 110900,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-10-12T00:03:45.323391+00:00",
+      "NumProgressed": 110901,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 49,
@@ -14060,7 +14065,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 85393
+      "UsersEstimate": 85394
     },
     {
       "ID": "EAwards_10",
@@ -14092,7 +14097,7 @@
       "Name": "The Floor Is...",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "EAwards_14",
@@ -14443,7 +14448,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 110900,
+      "Progressed": 110901,
       "Completed": 46
     }
   ],
@@ -14451,8 +14456,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-25T16:00:07.3978241+00:00",
-  "LastChanged_Achievements": "2023-10-11T23:03:30.3652563+00:00",
+  "LastChanged_Achievements": "2023-10-12T00:03:45.3233904+00:00",
   "LastUpdate_AppInfo": "2023-10-06T01:39:33.4628061+00:00",
-  "LastUpdate_Ratings": "2023-10-11T22:58:13.6399219+00:00",
-  "LastUpdate_Achievements": "2023-10-11T23:03:30.3679613+00:00"
+  "LastUpdate_Ratings": "2023-10-11T23:58:32.5561945+00:00",
+  "LastUpdate_Achievements": "2023-10-12T00:03:45.3239918+00:00"
 }

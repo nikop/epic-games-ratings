@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 532,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -530,9 +530,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3726,
+  "EOS_Progressed": 3727,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -7180,6 +7180,11 @@
       "Time": "2023-10-11T11:05:53.6785786+00:00",
       "NumProgressed": 3726,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-12T00:07:16.975667+00:00",
+      "NumProgressed": 3727,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7247,7 +7252,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -7343,15 +7348,15 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
       "SetID": "bm6el81",
       "Name": "Precision Is Key",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 373
+      "UsersEstimate": 335
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -7559,7 +7564,7 @@
       "Name": "Taking it back",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1043
+      "UsersEstimate": 1044
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -7758,13 +7763,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3677,
+      "Progressed": 3678,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3726,
+      "Progressed": 3727,
       "Completed": 11
     }
   ],
@@ -7772,8 +7777,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-30T02:10:59.0113899+00:00",
-  "LastChanged_Achievements": "2023-10-11T23:06:43.1292284+00:00",
+  "LastChanged_Achievements": "2023-10-12T00:07:16.9756666+00:00",
   "LastUpdate_AppInfo": "2023-10-07T09:57:23.5324772+00:00",
-  "LastUpdate_Ratings": "2023-10-11T22:58:45.2754141+00:00",
-  "LastUpdate_Achievements": "2023-10-11T23:06:43.1294835+00:00"
+  "LastUpdate_Ratings": "2023-10-11T23:59:07.2015672+00:00",
+  "LastUpdate_Achievements": "2023-10-12T00:07:16.9757716+00:00"
 }

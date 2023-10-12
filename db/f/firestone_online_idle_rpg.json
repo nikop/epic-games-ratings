@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 452,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -364,9 +364,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 2016,
+  "EOS_Progressed": 2017,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6024,6 +6024,11 @@
       "Time": "2023-10-11T22:07:30.261921+00:00",
       "NumProgressed": 2016,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-12T00:09:20.2797644+00:00",
+      "NumProgressed": 2017,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -6251,7 +6256,7 @@
       "Name": "Gear Enchanting",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "guardianmaster",
@@ -6275,7 +6280,7 @@
       "Name": "Here We Go Again",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "heroinspection",
@@ -6283,7 +6288,7 @@
       "Name": "Hero inspection",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "howdoyouturnthison",
@@ -6403,7 +6408,7 @@
       "Name": "Mythic Power",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "naturaltalent",
@@ -6491,7 +6496,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1149
+      "UsersEstimate": 1150
     },
     {
       "ID": "thealchemist",
@@ -6523,7 +6528,7 @@
       "Name": "The game is on",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "thepowerofawakening",
@@ -6555,7 +6560,7 @@
       "Name": "Trader",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "trainingmakesaproplayer",
@@ -6595,7 +6600,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1875
+      "UsersEstimate": 1876
     },
     {
       "ID": "warmachinesarmy",
@@ -6634,7 +6639,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2016,
+      "Progressed": 2017,
       "Completed": 2
     }
   ],
@@ -6642,8 +6647,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-10-11T22:59:41.9399649+00:00",
-  "LastChanged_Achievements": "2023-10-11T23:09:05.5967056+00:00",
+  "LastChanged_Achievements": "2023-10-12T00:09:20.2797639+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:57.0347276+00:00",
-  "LastUpdate_Ratings": "2023-10-11T22:59:41.9399706+00:00",
-  "LastUpdate_Achievements": "2023-10-11T23:09:05.5968177+00:00"
+  "LastUpdate_Ratings": "2023-10-12T00:00:05.7600429+00:00",
+  "LastUpdate_Achievements": "2023-10-12T00:09:20.279852+00:00"
 }

@@ -5,18 +5,18 @@ Rating: 4.43 (Ranked 672)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~58,372 |
-| This is only the beginning | 19.00% | ~42,657 |
-| Knowledge is power | 12.00% | ~26,941 |
+| No aid from the Omnissiah | 26.00% | ~58,374 |
+| This is only the beginning | 19.00% | ~42,658 |
+| Knowledge is power | 12.00% | ~26,942 |
 | Galvanic Rifle | 10.00% | ~22,451 |
 | Power Ranger | 9.00% | ~20,206 |
 | Taser Goad | 9.00% | ~20,206 |
 | Radium Ready | 9.00% | ~20,206 |
 | Half a cog | 9.00% | ~20,206 |
 | Watch them crumble | 6.00% | ~13,471 |
-| Competent Cohort | 4.00% | ~8,980 |
-| Celestial Cartography Catastrophe | 4.00% | ~8,980 |
-| One with the Machine | 4.00% | ~8,980 |
+| Competent Cohort | 4.00% | ~8,981 |
+| Celestial Cartography Catastrophe | 4.00% | ~8,981 |
+| One with the Machine | 4.00% | ~8,981 |
 | Legio Cybernetica | 3.00% | ~6,735 |
 | Fleshy Disposal | 3.00% | ~6,735 |
 | Battle Servitor | 2.00% | ~4,490 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 672)
 | Perma-live | 0.10% | ~225 |
 | Purge the Heretek | 0.10% | ~225 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,509 (Ranked 62)  
+Progressed: 224,514 (Ranked 62)  
 Completed: 5 (0.00%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,9 +215,10 @@ Completed: 5 (0.00%) (Ranked 313)
 | 2023-10-09 | 224,376 | 5 |
 | 2023-10-10 | 224,445 | 5 |
 | 2023-10-11 | 224,509 | 5 |
+| 2023-10-12 | 224,514 | 5 |
 ## Awards
 Max (Highly Recommended): 285  (Ranked 247)  
-Sum: 2,163 (Ranked 198)  
+Sum: 2,164 (Ranked 198)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
@@ -228,7 +229,7 @@ Diff (max vs sum): 49
 | This game has Amazing Characters | 262 |
 | This game has Amazing Storytelling | 246 |
 | This game is Relaxing | 241 |
-| This game has Unique Visuals | 210 |
+| This game has Unique Visuals | 211 |
 | This game has a Creative Community | 98 |
 | This game is Great for Beginners | 63 |
 ## Ratings History
@@ -307,3 +308,4 @@ Diff (max vs sum): 49
 | 2023-10-07 | 4.43 | 285 | 2,161 |
 | 2023-10-10 | 4.43 | 285 | 2,162 |
 | 2023-10-11 | 4.43 | 285 | 2,163 |
+| 2023-10-12 | 4.43 | 285 | 2,164 |

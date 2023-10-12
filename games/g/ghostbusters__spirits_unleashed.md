@@ -37,13 +37,13 @@ Rating: 4.50 (Ranked 573)
 | We have the best insurance | 0.40% | ~105 |
 | Collector | 0.40% | ~105 |
 | Diabolical | 0.40% | ~105 |
+| Escape Artist | 0.40% | ~105 |
 | Reckless | 0.40% | ~105 |
 | Rift Destroyer | 0.40% | ~105 |
+| Rivalry | 0.40% | ~105 |
 | Seasoned | 0.40% | ~105 |
 | Tobin's Prodigy | 0.40% | ~105 |
-| Escape Artist | 0.30% | ~79 |
 | Fragile Panes | 0.30% | ~79 |
-| Rivalry | 0.30% | ~79 |
 | Surprise! | 0.30% | ~79 |
 | Liability | 0.20% | ~53 |
 | Catostrophic Destroyer | 0.10% | ~26 |

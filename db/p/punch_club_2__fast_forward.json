@@ -4,8 +4,8 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 302,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
     "PcReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -1368,9 +1368,9 @@
       "ID": "any_stat_5",
       "SetID": "69co12a",
       "Name": "Fitness professional",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 264
+      "UsersEstimate": 267
     },
     {
       "ID": "buy_trainer",
@@ -1512,9 +1512,9 @@
       "ID": "hack_gpp",
       "SetID": "69co12a",
       "Name": "Little hacker",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 197
     },
     {
       "ID": "handyman",
@@ -1528,9 +1528,9 @@
       "ID": "huey_win",
       "SetID": "69co12a",
       "Name": "No bullying more",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 234
+      "UsersEstimate": 237
     },
     {
       "ID": "intro_dream",
@@ -1752,9 +1752,9 @@
       "ID": "soft_install",
       "SetID": "69co12a",
       "Name": "Hello, world!",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 234
+      "UsersEstimate": 237
     },
     {
       "ID": "trainer_promotion_1",
@@ -1831,8 +1831,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-10-11T23:04:43.9768621+00:00",
+  "LastChanged_Achievements": "2023-10-12T00:05:06.779658+00:00",
   "LastUpdate_AppInfo": "2023-10-07T11:57:13.456228+00:00",
-  "LastUpdate_Ratings": "2023-10-11T23:03:23.9412664+00:00",
-  "LastUpdate_Achievements": "2023-10-11T23:04:43.9769401+00:00"
+  "LastUpdate_Ratings": "2023-10-12T00:03:36.2955047+00:00",
+  "LastUpdate_Achievements": "2023-10-12T00:05:06.779715+00:00"
 }

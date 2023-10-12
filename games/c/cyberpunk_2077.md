@@ -6,52 +6,52 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 71.00% | ~632,627 |
-| Right Back At Ya | 44.00% | ~392,051 |
-| The Lovers | 39.00% | ~347,499 |
-| Stanislavski's Method | 33.00% | ~294,038 |
-| The Wheel of Fortune | 32.00% | ~285,128 |
-| The Hermit | 30.00% | ~267,307 |
-| The High Priestess | 29.00% | ~258,397 |
-| True Soldier | 29.00% | ~258,397 |
-| Christmas Tree Attack | 25.00% | ~222,756 |
-| Full Body Conversion | 24.00% | ~213,846 |
-| Life of the Road | 23.00% | ~204,936 |
-| Ten out of Ten | 21.00% | ~187,115 |
-| The World | 21.00% | ~187,115 |
-| Master Crafter | 20.00% | ~178,205 |
-| True Warrior | 19.00% | ~169,295 |
-| Bushido and Chill | 18.00% | ~160,384 |
-| Gun Fu | 18.00% | ~160,384 |
-| I Am The Law | 16.00% | ~142,564 |
+| The Fool | 71.00% | ~632,631 |
+| Right Back At Ya | 44.00% | ~392,053 |
+| The Lovers | 39.00% | ~347,502 |
+| Stanislavski's Method | 33.00% | ~294,040 |
+| The Wheel of Fortune | 32.00% | ~285,130 |
+| The Hermit | 30.00% | ~267,309 |
+| The High Priestess | 29.00% | ~258,399 |
+| True Soldier | 29.00% | ~258,399 |
+| Christmas Tree Attack | 25.00% | ~222,758 |
+| Full Body Conversion | 24.00% | ~213,847 |
+| Life of the Road | 23.00% | ~204,937 |
+| Ten out of Ten | 21.00% | ~187,116 |
+| The World | 21.00% | ~187,116 |
+| Master Crafter | 20.00% | ~178,206 |
+| True Warrior | 19.00% | ~169,296 |
+| Bushido and Chill | 18.00% | ~160,385 |
+| Gun Fu | 18.00% | ~160,385 |
+| I Am The Law | 16.00% | ~142,565 |
 | To Protect and Serve | 15.00% | ~133,654 |
-| The Quick and the Dead | 13.00% | ~115,833 |
-| Breathtaking | 13.00% | ~115,833 |
-| Rough Landing | 12.00% | ~106,923 |
+| The Quick and the Dead | 13.00% | ~115,834 |
+| Breathtaking | 13.00% | ~115,834 |
+| Rough Landing | 12.00% | ~106,924 |
 | To Bad Decisions! | 11.00% | ~98,013 |
 | The Wandering Fool | 11.00% | ~98,013 |
 | The Jungle | 11.00% | ~98,013 |
-| Gunslinger | 10.00% | ~89,102 |
-| Mean Streets | 9.00% | ~80,192 |
-| Temperance | 9.00% | ~80,192 |
+| Gunslinger | 10.00% | ~89,103 |
+| Mean Streets | 9.00% | ~80,193 |
+| Temperance | 9.00% | ~80,193 |
 | The Star | 8.00% | ~71,282 |
 | The Sun | 8.00% | ~71,282 |
-| City Lights | 6.00% | ~53,461 |
-| Must Be Rats | 5.00% | ~44,551 |
-| The Devil | 5.00% | ~44,551 |
-| Greetings from Pacifica! | 5.00% | ~44,551 |
+| City Lights | 6.00% | ~53,462 |
+| Must Be Rats | 5.00% | ~44,552 |
+| The Devil | 5.00% | ~44,552 |
+| Greetings from Pacifica! | 5.00% | ~44,552 |
 | Little Tokyo | 4.00% | ~35,641 |
 | Two Heads, One Bullet | 4.00% | ~35,641 |
+| V for Vendetta | 4.00% | ~35,641 |
 | Autojock | 3.00% | ~26,731 |
 | Frequent Flyer | 3.00% | ~26,731 |
 | The Wasteland | 3.00% | ~26,731 |
 | Daemon In The Shell | 3.00% | ~26,731 |
-| V for Vendetta | 3.00% | ~26,731 |
 | Legend of The Afterlife | 3.00% | ~26,731 |
-| Judy vs Night City | 2.00% | ~17,820 |
-| It's Elementary | 2.00% | ~17,820 |
+| Judy vs Night City | 2.00% | ~17,821 |
+| It's Elementary | 2.00% | ~17,821 |
 | Spin Doctor | 2.00% | ~393 |
-| The APB is Not Enough | 0.50% | ~98 |
+| The APB is Not Enough | 0.60% | ~118 |
 | Relic Ruler | 0.50% | ~98 |
 | All the President's Men | 0.00% | ~0 |
 | Arachnophobia | 0.00% | ~0 |
@@ -64,7 +64,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 891,024 (Ranked 15)  
+Progressed: 891,030 (Ranked 15)  
 Completed: 2,641 (0.30%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,9 +239,10 @@ Completed: 2,641 (0.30%) (Ranked 205)
 | 2023-10-09 | 890,533 | 2,633 |
 | 2023-10-10 | 890,786 | 2,639 |
 | 2023-10-11 | 891,024 | 2,641 |
+| 2023-10-12 | 891,030 | 2,641 |
 ## Awards
 Max (Character Customization): 96,295  (Ranked 9)  
-Sum: 291,610 (Ranked 11)  
+Sum: 291,847 (Ranked 11)  
 Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |
@@ -249,8 +250,8 @@ Diff (max vs sum): -2
 | This game has Great Boss Battles | 66,834 |
 | This game is Great for Beginners | 15,655 |
 | This game has Diverse Characters | 15,577 |
+| This game is Highly Recommended | 15,094 |
 | This game has Amazing Storytelling | 14,992 |
-| This game is Highly Recommended | 14,857 |
 | This game is Extremely Fun | 14,832 |
 | This game has Amazing Characters | 14,513 |
 | This game has Quickly Understood Controls | 14,239 |
@@ -524,4 +525,4 @@ Diff (max vs sum): -2
 | 2023-10-08 | 4.64 | - | 94,679 | 282,115 |
 | 2023-10-09 | 4.64 | - | 95,294 | 285,902 |
 | 2023-10-10 | 4.64 | - | 95,835 | 288,877 |
-| 2023-10-11 | 4.64 | - | 96,295 | 291,610 |
+| 2023-10-11 | 4.64 | - | 96,295 | 291,847 |

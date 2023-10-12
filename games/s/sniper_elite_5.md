@@ -11,7 +11,7 @@ Rating: 4.45 (Ranked 644)
 | It's Starting to Crack | 34.00% | ~1,267 |
 | Change the Channel | 31.00% | ~1,155 |
 | Lord of War | 30.00% | ~1,118 |
-| Taking it back | 28.00% | ~1,043 |
+| Taking it back | 28.00% | ~1,044 |
 | Resourceful | 27.00% | ~1,006 |
 | Target America | 26.00% | ~969 |
 | The Kraken Sleeps | 24.00% | ~894 |
@@ -21,7 +21,7 @@ Rating: 4.45 (Ranked 644)
 | Sharpshooter | 22.00% | ~820 |
 | Explosive Efficiency | 19.00% | ~708 |
 | Gunslinger | 18.00% | ~671 |
-| Just a Flesh Wound | 17.00% | ~633 |
+| Just a Flesh Wound | 17.00% | ~634 |
 | Climbing the Ladder | 16.00% | ~596 |
 | Der Geist | 16.00% | ~596 |
 | Close Quarters | 16.00% | ~596 |
@@ -33,9 +33,9 @@ Rating: 4.45 (Ranked 644)
 | Fields of Glory | 14.00% | ~522 |
 | Skirmisher | 14.00% | ~522 |
 | Die Nussknacker Sweet! | 14.00% | ~522 |
-| Set Europe Ablaze | 13.00% | ~484 |
-| Precision Is Key | 10.00% | ~373 |
+| Set Europe Ablaze | 13.00% | ~485 |
 | My Little Friend | 10.00% | ~373 |
+| Precision Is Key | 9.00% | ~335 |
 | Rigged to Blow | 9.00% | ~335 |
 | Herr Today, Gone Tomorrow | 6.00% | ~221 |
 | Operation Foxley | 6.00% | ~221 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 644)
 | Going Overboard | 0.60% | ~22 |
 | Stroll in the Woods | 0.50% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,726 (Ranked 178)  
+Progressed: 3,727 (Ranked 178)  
 Completed: 11 (0.30%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,6 +250,7 @@ Completed: 11 (0.30%) (Ranked 205)
 | 2023-10-09 | 3,718 | 11 |
 | 2023-10-10 | 3,723 | 11 |
 | 2023-10-11 | 3,726 | 11 |
+| 2023-10-12 | 3,727 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

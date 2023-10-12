@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1192,7 +1192,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 13158,
+  "EOS_Progressed": 13159,
   "EOS_Completed": 49,
   "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
@@ -12612,6 +12612,11 @@
       "Time": "2023-10-11T20:04:14.414557+00:00",
       "NumProgressed": 13158,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-12T00:04:52.7397083+00:00",
+      "NumProgressed": 13159,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 35,
@@ -12623,7 +12628,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 10658
+      "UsersEstimate": 10659
     },
     {
       "ID": "ACH02",
@@ -12759,7 +12764,7 @@
       "Name": "Saviour",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 789
+      "UsersEstimate": 790
     },
     {
       "ID": "ACH19",
@@ -12902,7 +12907,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13158,
+      "Progressed": 13159,
       "Completed": 49
     }
   ],
@@ -12910,8 +12915,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-10-11T21:03:30.6551406+00:00",
-  "LastChanged_Achievements": "2023-10-11T23:04:31.3361827+00:00",
+  "LastChanged_Achievements": "2023-10-12T00:04:52.7397078+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:41.6586777+00:00",
-  "LastUpdate_Ratings": "2023-10-11T23:02:07.532763+00:00",
-  "LastUpdate_Achievements": "2023-10-11T23:04:31.3363017+00:00"
+  "LastUpdate_Ratings": "2023-10-12T00:03:00.7797604+00:00",
+  "LastUpdate_Achievements": "2023-10-12T00:04:52.7397847+00:00"
 }

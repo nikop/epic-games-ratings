@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 40,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2516,
+  "EOS_Progressed": 2517,
   "EOS_Completed": 228,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 9.06,
   "EosHistory": [
@@ -6583,6 +6583,11 @@
       "Time": "2023-10-11T18:05:18.0258357+00:00",
       "NumProgressed": 2516,
       "NumCompleted": 228
+    },
+    {
+      "Time": "2023-10-12T00:05:27.5948588+00:00",
+      "NumProgressed": 2517,
+      "NumCompleted": 228
     }
   ],
   "TotalAchievements": 12,
@@ -6594,7 +6599,7 @@
       "Name": "Arranging Boxes",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "Bernard",
@@ -6658,7 +6663,7 @@
       "Name": "Little Helper",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -6666,7 +6671,7 @@
       "Name": "May Their Memories be a Blessing",
       "Percentage": 9,
       "XP": 200,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "Nazis in Paris",
@@ -6689,7 +6694,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2516,
+      "Progressed": 2517,
       "Completed": 228
     }
   ],
@@ -6697,8 +6702,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-10-11T23:05:03.143401+00:00",
+  "LastChanged_Achievements": "2023-10-12T00:05:27.5948583+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:41.6994669+00:00",
-  "LastUpdate_Ratings": "2023-10-11T23:00:43.7590251+00:00",
-  "LastUpdate_Achievements": "2023-10-11T23:05:03.1434706+00:00"
+  "LastUpdate_Ratings": "2023-10-12T00:01:24.3634933+00:00",
+  "LastUpdate_Achievements": "2023-10-12T00:05:27.5948982+00:00"
 }

@@ -1330,9 +1330,9 @@
       "ID": "META_ALL_TERMINAL",
       "SetID": "2gma9an",
       "Name": "Cable guy",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 17
     },
     {
       "ID": "META_FIRST_LINK",
@@ -1498,9 +1498,9 @@
       "ID": "PROGRESS_N5",
       "SetID": "2gma9an",
       "Name": "One last step",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 14
+      "UsersEstimate": 17
     }
   ],
   "AchievementSets": [
@@ -1513,8 +1513,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-11T23:08:08.8919287+00:00",
+  "LastChanged_Achievements": "2023-10-12T00:08:40.8017066+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:05.0979362+00:00",
-  "LastUpdate_Ratings": "2023-10-11T23:01:17.323078+00:00",
-  "LastUpdate_Achievements": "2023-10-11T23:08:08.8919598+00:00"
+  "LastUpdate_Ratings": "2023-10-12T00:01:58.7448349+00:00",
+  "LastUpdate_Achievements": "2023-10-12T00:08:40.8017287+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3476,9 +3476,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73428,
+  "EOS_Progressed": 73430,
   "EOS_Completed": 120,
-  "EOS_NewPlayers": 289,
+  "EOS_NewPlayers": 287,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -18391,6 +18391,11 @@
       "Time": "2023-10-11T23:03:49.7263232+00:00",
       "NumProgressed": 73428,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-10-12T00:04:06.2964108+00:00",
+      "NumProgressed": 73430,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 61,
@@ -18450,7 +18455,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16888
+      "UsersEstimate": 16889
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -18482,7 +18487,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8811
+      "UsersEstimate": 8812
     },
     {
       "ID": "APPLY_STATUS",
@@ -18578,7 +18583,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8811
+      "UsersEstimate": 8812
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -18626,7 +18631,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21294
+      "UsersEstimate": 21295
     },
     {
       "ID": "FREEZE_1_5",
@@ -18642,7 +18647,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 13951
+      "UsersEstimate": 13952
     },
     {
       "ID": "FREEZE_3",
@@ -18714,7 +18719,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18357
+      "UsersEstimate": 18358
     },
     {
       "ID": "HARLEY_3",
@@ -18730,7 +18735,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 11748
+      "UsersEstimate": 11749
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -18746,7 +18751,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 38183
+      "UsersEstimate": 38184
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -18802,7 +18807,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18357
+      "UsersEstimate": 18358
     },
     {
       "ID": "MYSTERY_03",
@@ -18810,7 +18815,7 @@
       "Name": "Lock and Key",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16888
+      "UsersEstimate": 16889
     },
     {
       "ID": "MYSTERY_04",
@@ -18850,7 +18855,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8811
+      "UsersEstimate": 8812
     },
     {
       "ID": "SECRET_CACHE",
@@ -18889,13 +18894,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73428,
+      "Progressed": 73430,
       "Completed": 120
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43708,
+      "Progressed": 43710,
       "Completed": 2666
     }
   ],
@@ -18903,8 +18908,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-11T23:01:49.0342579+00:00",
-  "LastChanged_Achievements": "2023-10-11T23:03:49.7263225+00:00",
+  "LastChanged_Achievements": "2023-10-12T00:04:06.2964104+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:31.3761181+00:00",
-  "LastUpdate_Ratings": "2023-10-11T23:01:49.0342584+00:00",
-  "LastUpdate_Achievements": "2023-10-11T23:03:49.7265278+00:00"
+  "LastUpdate_Ratings": "2023-10-12T00:02:40.8960018+00:00",
+  "LastUpdate_Achievements": "2023-10-12T00:04:06.2965748+00:00"
 }

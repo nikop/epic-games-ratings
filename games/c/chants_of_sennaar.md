@@ -8,18 +8,18 @@
 | Welcome to the Tower | 9.00% | ~25 |
 | The Preacher's fate | 8.00% | ~22 |
 | The great escape | 8.00% | ~22 |
+| Cable guy | 6.00% | ~17 |
 | A new dawn | 6.00% | ~17 |
+| One last step | 6.00% | ~17 |
 | I did it | 5.00% | ~14 |
 | In this together | 5.00% | ~14 |
 | Peace walker | 5.00% | ~14 |
-| Cable guy | 5.00% | ~14 |
 | A good beginning | 5.00% | ~14 |
 | Half the way | 5.00% | ~14 |
 | Alchemists Express | 5.00% | ~14 |
 | True G3M4R | 5.00% | ~14 |
 | Scholar | 5.00% | ~14 |
 | The darkness | 5.00% | ~14 |
-| One last step | 5.00% | ~14 |
 | Open door | 4.00% | ~11 |
 | Feels like springtime | 4.00% | ~11 |
 | Champollion | 4.00% | ~11 |

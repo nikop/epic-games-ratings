@@ -6,31 +6,31 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~295,659 |
-| Full garage | 60.00% | ~243,008 |
-| To the eyeballs! | 51.00% | ~206,557 |
-| Individual delivery | 46.00% | ~186,306 |
-| Non-Stop | 44.00% | ~178,206 |
+| Dealmaker | 73.00% | ~295,661 |
+| Full garage | 60.00% | ~243,009 |
+| To the eyeballs! | 51.00% | ~206,558 |
+| Individual delivery | 46.00% | ~186,307 |
+| Non-Stop | 44.00% | ~178,207 |
 | Juggler | 36.00% | ~145,805 |
 | Forgot something | 35.00% | ~141,755 |
 | Close call! | 30.00% | ~121,504 |
 | Get out my way | 28.00% | ~113,404 |
-| Common cause | 26.00% | ~105,303 |
-| Critical care | 26.00% | ~105,303 |
+| Common cause | 26.00% | ~105,304 |
+| Critical care | 26.00% | ~105,304 |
 | Mega-railroad | 23.00% | ~93,153 |
 | Upgrade complete | 23.00% | ~93,153 |
-| Just in time! | 18.00% | ~72,902 |
-| Builder | 17.00% | ~68,852 |
-| Long Haul | 17.00% | ~68,740 |
+| Just in time! | 18.00% | ~72,903 |
+| Builder | 17.00% | ~68,853 |
+| Long Haul | 17.00% | ~68,741 |
 | Steam Age | 16.00% | ~64,802 |
 | Bridgemania | 14.00% | ~56,702 |
 | Multilevel road | 14.00% | ~56,702 |
 | Need to think | 14.00% | ~56,702 |
 | The Tortoise | 12.00% | ~48,602 |
-| Without a lunch break | 11.00% | ~44,551 |
-| Beginner | 10.00% | ~40,501 |
-| One way | 10.00% | ~40,501 |
-| Relocation | 10.00% | ~40,501 |
+| Without a lunch break | 11.00% | ~44,552 |
+| Beginner | 10.00% | ~40,502 |
+| One way | 10.00% | ~40,502 |
+| Relocation | 10.00% | ~40,502 |
 | Industrial Age | 9.00% | ~36,451 |
 | Just One More Valley | 9.00% | ~36,392 |
 | Prick of conscience | 8.00% | ~32,401 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~404 |
 | World Zapper | 0.10% | ~404 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 405,013 (Ranked 42)  
+Progressed: 405,015 (Ranked 42)  
 Completed: 19 (0.00%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,6 +233,7 @@ Completed: 19 (0.00%) (Ranked 313)
 | 2023-10-09 | 404,414 | 19 |
 | 2023-10-10 | 404,724 | 19 |
 | 2023-10-11 | 405,013 | 19 |
+| 2023-10-12 | 405,015 | 19 |
 ## Awards
 Max (Challenging Puzzles): 749  (Ranked 170)  
 Sum: 1,517 (Ranked 226)  

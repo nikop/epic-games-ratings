@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 655,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1535,9 +1535,9 @@
       "ID": "achievement_1",
       "SetID": "b9pe172",
       "Name": "Medal of Honor",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 125,
-      "UsersEstimate": 373
+      "UsersEstimate": 380
     },
     {
       "ID": "achievement_10",
@@ -1831,9 +1831,9 @@
       "ID": "achievement_18",
       "SetID": "b9pe172",
       "Name": "Meritorious Service Medal",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 373
+      "UsersEstimate": 380
     },
     {
       "ID": "achievement_19",
@@ -2495,9 +2495,9 @@
       "ID": "achievement_93",
       "SetID": "d252ncf",
       "Name": "Liberator",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 164
     },
     {
       "ID": "achievement_94",
@@ -2563,8 +2563,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-11T23:08:21.918548+00:00",
+  "LastChanged_Achievements": "2023-10-12T00:09:05.4584998+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:40.7255751+00:00",
-  "LastUpdate_Ratings": "2023-10-11T22:58:55.4180551+00:00",
-  "LastUpdate_Achievements": "2023-10-11T23:08:21.9187715+00:00"
+  "LastUpdate_Ratings": "2023-10-11T23:59:18.8303246+00:00",
+  "LastUpdate_Achievements": "2023-10-12T00:09:05.4586767+00:00"
 }

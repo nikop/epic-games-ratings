@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 532,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -56,9 +56,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1581,
+  "EOS_Progressed": 1582,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5841,6 +5841,11 @@
       "Time": "2023-10-11T23:04:23.9870817+00:00",
       "NumProgressed": 1581,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-12T00:04:44.5241378+00:00",
+      "NumProgressed": 1582,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -5868,7 +5873,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ach_defeat_players_100",
@@ -5916,7 +5921,7 @@
       "Name": "Silver Competitor",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -5988,7 +5993,7 @@
       "Name": "Captain",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -6028,7 +6033,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -6100,7 +6105,7 @@
       "Name": "Factory Expansion",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -6155,7 +6160,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1581,
+      "Progressed": 1582,
       "Completed": 1
     }
   ],
@@ -6163,8 +6168,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-10-11T23:04:23.9870812+00:00",
+  "LastChanged_Achievements": "2023-10-12T00:04:44.5241373+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:57:03.7604863+00:00",
-  "LastUpdate_Ratings": "2023-10-11T22:58:26.6495216+00:00",
-  "LastUpdate_Achievements": "2023-10-11T23:04:23.9871409+00:00"
+  "LastUpdate_Ratings": "2023-10-11T23:58:45.5206285+00:00",
+  "LastUpdate_Achievements": "2023-10-12T00:04:44.5241883+00:00"
 }

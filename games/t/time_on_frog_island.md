@@ -29,6 +29,7 @@
 | Bank of Me | 6.00% | ~1 |
 | Return to sender | 6.00% | ~1 |
 | Fantastic Fungi | 6.00% | ~1 |
+| Vandal | 6.00% | ~1 |
 | Just Here for the Food | 6.00% | ~1 |
 | Froggy Friendship | 6.00% | ~1 |
 | Hands on the Helm | 6.00% | ~1 |
@@ -36,7 +37,6 @@
 | Crunch Time | 0.00% | ~0 |
 | One with the frogs | 0.00% | ~0 |
 | Honey, I'm Home | 0.00% | ~0 |
-| Vandal | 0.00% | ~0 |
 | Home Sweet Home | 0.00% | ~0 |
 | Falling with Style | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
