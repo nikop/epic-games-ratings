@@ -26,7 +26,7 @@ Rating: 4.37 (Ranked 750)
 | So do we just stay up here, or?... | 2.00% | ~45 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,265 (Ranked 200)  
-Completed: 9 (0.40%) (Ranked 188)  
+Completed: 9 (0.40%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

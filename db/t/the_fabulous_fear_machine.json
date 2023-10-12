@@ -252,9 +252,9 @@
       "ID": "20",
       "SetID": "d37idgg",
       "Name": "A rival with no options",
-      "Percentage": 38,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "21",
@@ -492,9 +492,9 @@
       "ID": "5",
       "SetID": "d37idgg",
       "Name": "The happy farmer girl",
-      "Percentage": 38,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "6",
@@ -539,8 +539,8 @@
   ],
   "FirstSeen": "2023-10-04T21:00:27.0019409+00:00",
   "FirstSeenAchievements": "2023-09-01T11:02:14.7440084+00:00",
-  "LastChanged_Achievements": "2023-10-12T05:05:11.0311152+00:00",
+  "LastChanged_Achievements": "2023-10-12T06:04:38.0148054+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:05.043787+00:00",
-  "LastUpdate_Ratings": "2023-10-12T04:59:51.5258924+00:00",
-  "LastUpdate_Achievements": "2023-10-12T05:05:11.0311469+00:00"
+  "LastUpdate_Ratings": "2023-10-12T05:59:08.3526121+00:00",
+  "LastUpdate_Achievements": "2023-10-12T06:04:38.014847+00:00"
 }

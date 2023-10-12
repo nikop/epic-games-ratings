@@ -2,7 +2,7 @@
   "ID": "e7a7820e516744b88212c1f78aa895df",
   "Name": "Overpass 2",
   "ProductSlug": "overpass-2",
-  "Ranking_EOS_Progress": 368,
+  "Ranking_EOS_Progress": 367,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 108,
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 122,
+  "EOS_Progressed": 124,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -442,6 +442,11 @@
       "Time": "2023-10-11T18:04:49.2320286+00:00",
       "NumProgressed": 122,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-12T06:04:25.4543433+00:00",
+      "NumProgressed": 124,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-28T09:03:06.3221207+00:00",
@@ -452,9 +457,9 @@
       "ID": "achFire1",
       "SetID": "7ji07dj",
       "Name": "You\u0027re Fired!",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 12
     },
     {
       "ID": "achMaxCage",
@@ -556,9 +561,9 @@
       "ID": "achSponsor5",
       "SetID": "7ji07dj",
       "Name": "In the Good Books",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "achSponsorMain1",
@@ -677,14 +682,14 @@
     {
       "ID": "7ji07dj",
       "IsBase": true,
-      "Progressed": 122,
+      "Progressed": 124,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-03T04:00:29.2485771+00:00",
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2023-10-12T05:04:37.9796159+00:00",
+  "LastChanged_Achievements": "2023-10-12T06:04:25.4543431+00:00",
   "LastUpdate_AppInfo": "2023-10-05T09:57:13.8606524+00:00",
-  "LastUpdate_Ratings": "2023-10-12T05:00:25.2780888+00:00",
-  "LastUpdate_Achievements": "2023-10-12T05:04:37.9796347+00:00"
+  "LastUpdate_Ratings": "2023-10-12T05:59:39.7997873+00:00",
+  "LastUpdate_Achievements": "2023-10-12T06:04:25.4543617+00:00"
 }

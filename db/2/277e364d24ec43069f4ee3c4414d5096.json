@@ -326,9 +326,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 110915,
+  "EOS_Progressed": 110918,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 797,
+  "EOS_NewPlayers": 793,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -14071,6 +14071,11 @@
       "Time": "2023-10-12T05:03:21.9124646+00:00",
       "NumProgressed": 110915,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-10-12T06:03:31.3016814+00:00",
+      "NumProgressed": 110918,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 49,
@@ -14090,7 +14095,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 85405
+      "UsersEstimate": 85407
     },
     {
       "ID": "EAwards_10",
@@ -14106,7 +14111,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 28838
+      "UsersEstimate": 28839
     },
     {
       "ID": "EAwards_12",
@@ -14114,7 +14119,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 16637
+      "UsersEstimate": 16638
     },
     {
       "ID": "EAwards_13",
@@ -14154,7 +14159,7 @@
       "Name": "Talented Player",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 39929
+      "UsersEstimate": 39930
     },
     {
       "ID": "EAwards_18",
@@ -14162,7 +14167,7 @@
       "Name": "You Survived",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 9982
+      "UsersEstimate": 9983
     },
     {
       "ID": "EAwards_19",
@@ -14178,7 +14183,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 53239
+      "UsersEstimate": 53241
     },
     {
       "ID": "EAwards_20",
@@ -14242,7 +14247,7 @@
       "Name": "One down...",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 9982
+      "UsersEstimate": 9983
     },
     {
       "ID": "EAwards_28",
@@ -14250,7 +14255,7 @@
       "Name": "Very Special",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 3327
+      "UsersEstimate": 3328
     },
     {
       "ID": "EAwards_29",
@@ -14258,7 +14263,7 @@
       "Name": "Talk to the Hend",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 3327
+      "UsersEstimate": 3328
     },
     {
       "ID": "EAwards_3",
@@ -14434,7 +14439,7 @@
       "Name": "Prickly Pair",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 9982
+      "UsersEstimate": 9983
     },
     {
       "ID": "EAwards_6",
@@ -14473,7 +14478,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 110915,
+      "Progressed": 110918,
       "Completed": 46
     }
   ],
@@ -14481,8 +14486,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-25T16:00:07.3978241+00:00",
-  "LastChanged_Achievements": "2023-10-12T05:03:21.9124638+00:00",
+  "LastChanged_Achievements": "2023-10-12T06:03:31.3016806+00:00",
   "LastUpdate_AppInfo": "2023-10-06T01:39:33.4628061+00:00",
-  "LastUpdate_Ratings": "2023-10-12T04:58:48.1970212+00:00",
-  "LastUpdate_Achievements": "2023-10-12T05:03:21.9125683+00:00"
+  "LastUpdate_Ratings": "2023-10-12T05:58:11.5203778+00:00",
+  "LastUpdate_Achievements": "2023-10-12T06:03:31.301839+00:00"
 }

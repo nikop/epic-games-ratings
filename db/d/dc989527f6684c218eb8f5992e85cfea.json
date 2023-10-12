@@ -4,7 +4,7 @@
   "ProductSlug": "scribble-it-c61a6f",
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 12449,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 248,
+  "EOS_NewPlayers": 246,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11918,9 +11918,9 @@
       "ID": "ACH_ONLY_ONE_TO_NOT_GUESS_CORRECTLY",
       "SetID": "5ck0pmd",
       "Name": "Facepalm",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 2241
+      "UsersEstimate": 2365
     },
     {
       "ID": "ACH_TEN_WORD_PACKAGES",
@@ -12037,8 +12037,8 @@
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-10-12T05:06:10.9649526+00:00",
+  "LastChanged_Achievements": "2023-10-12T06:05:26.2851991+00:00",
   "LastUpdate_AppInfo": "2023-10-07T01:38:10.3444399+00:00",
-  "LastUpdate_Ratings": "2023-10-12T04:58:17.2405185+00:00",
-  "LastUpdate_Achievements": "2023-10-12T05:06:10.9650215+00:00"
+  "LastUpdate_Ratings": "2023-10-12T05:57:49.9395402+00:00",
+  "LastUpdate_Achievements": "2023-10-12T06:05:26.2853281+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "pixel-art-coloring-book-a485ef",
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3441,
+  "EOS_Progressed": 3442,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.67,
   "EosHistory": [
@@ -7871,6 +7871,11 @@
       "Time": "2023-10-12T02:19:24.6857289+00:00",
       "NumProgressed": 3441,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-10-12T06:03:45.6786248+00:00",
+      "NumProgressed": 3442,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 16,
@@ -7954,7 +7959,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 2787
+      "UsersEstimate": 2788
     },
     {
       "ID": "ach_food_completed",
@@ -7978,7 +7983,7 @@
       "Name": "Game opened",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2581
+      "UsersEstimate": 2582
     },
     {
       "ID": "ach_magic_wand",
@@ -8002,21 +8007,21 @@
       "Name": "Aeolus",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 963
+      "UsersEstimate": 964
     }
   ],
   "AchievementSets": [
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 3441,
+      "Progressed": 3442,
       "Completed": 23
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-10-12T05:03:36.7980149+00:00",
+  "LastChanged_Achievements": "2023-10-12T06:03:45.6786244+00:00",
   "LastUpdate_AppInfo": "2023-10-06T16:57:09.8249462+00:00",
-  "LastUpdate_Ratings": "2023-10-12T04:58:52.0282042+00:00",
-  "LastUpdate_Achievements": "2023-10-12T05:03:36.7980621+00:00"
+  "LastUpdate_Ratings": "2023-10-12T05:58:14.7070192+00:00",
+  "LastUpdate_Achievements": "2023-10-12T06:03:45.6786892+00:00"
 }

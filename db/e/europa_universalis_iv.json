@@ -10602,9 +10602,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 428363,
+  "EOS_Progressed": 428382,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5866,
+  "EOS_NewPlayers": 5867,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30432,6 +30432,11 @@
       "Time": "2023-10-12T05:09:22.349472+00:00",
       "NumProgressed": 428363,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-12T06:09:42.9893652+00:00",
+      "NumProgressed": 428382,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -30875,7 +30880,7 @@
       "Name": "Bright Spark",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1713
+      "UsersEstimate": 1714
     },
     {
       "ID": "achievement_brothers_in_arms",
@@ -30883,7 +30888,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8567
+      "UsersEstimate": 8568
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -30963,7 +30968,7 @@
       "Name": "Cold War",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8567
+      "UsersEstimate": 8568
     },
     {
       "ID": "achievement_colonial_management",
@@ -31203,7 +31208,7 @@
       "Name": "Factionalism",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1713
+      "UsersEstimate": 1714
     },
     {
       "ID": "achievement_fanatic_collectivist",
@@ -31275,7 +31280,7 @@
       "Name": "For the Glory",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8567
+      "UsersEstimate": 8568
     },
     {
       "ID": "achievement_forever_golden",
@@ -31363,7 +31368,7 @@
       "Name": "Gentle Persuasion",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1713
+      "UsersEstimate": 1714
     },
     {
       "ID": "achievement_georgia_on_my_mind",
@@ -31467,7 +31472,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8567
+      "UsersEstimate": 8568
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -31635,7 +31640,7 @@
       "Name": "Isn\u0027t this the way to India?",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1713
+      "UsersEstimate": 1714
     },
     {
       "ID": "achievement_italian_ambition",
@@ -32307,7 +32312,7 @@
       "Name": "Queen of Conquest",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1713
+      "UsersEstimate": 1714
     },
     {
       "ID": "achievement_queen_of_mercury",
@@ -32443,7 +32448,7 @@
       "Name": "Seriously?!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8567
+      "UsersEstimate": 8568
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -32787,7 +32792,7 @@
       "Name": "The Five Colonies",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1713
+      "UsersEstimate": 1714
     },
     {
       "ID": "achievement_the_freest_man_in_the_world",
@@ -33274,21 +33279,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 428363,
+      "Progressed": 428382,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 428363,
+      "Progressed": 428382,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-10-12T04:01:02.8217959+00:00",
-  "LastChanged_Achievements": "2023-10-12T05:09:22.3494716+00:00",
+  "LastChanged_Achievements": "2023-10-12T06:09:42.989365+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:02.2822326+00:00",
-  "LastUpdate_Ratings": "2023-10-12T05:00:21.3808169+00:00",
-  "LastUpdate_Achievements": "2023-10-12T05:09:22.3505876+00:00"
+  "LastUpdate_Ratings": "2023-10-12T05:59:35.8141057+00:00",
+  "LastUpdate_Achievements": "2023-10-12T06:09:42.9904116+00:00"
 }

@@ -9,15 +9,15 @@ Number of Ratings: 19,160  (23.09.2022)
 | Clean Sheet | 50.00% | ~237,204 |
 | He's Signed! | 50.00% | ~237,204 |
 | First Victory | 50.00% | ~237,204 |
-| He's Sold! | 48.00% | ~227,715 |
+| He's Sold! | 48.00% | ~227,716 |
 | I'm The Boss! | 42.00% | ~199,251 |
 | Hat-trick | 41.00% | ~194,507 |
 | Scoring Streak | 38.00% | ~180,275 |
 | Unbeatable! | 37.00% | ~175,531 |
 | Thumping | 37.00% | ~175,531 |
-| Superb Dressing Room Atmosphere | 35.00% | ~166,042 |
-| Total Support | 32.00% | ~151,810 |
-| Record Signing | 32.00% | ~151,810 |
+| Superb Dressing Room Atmosphere | 35.00% | ~166,043 |
+| Total Support | 32.00% | ~151,811 |
+| Record Signing | 32.00% | ~151,811 |
 | He's a Natural | 31.00% | ~147,066 |
 | Millionaire's Club | 31.00% | ~147,066 |
 | Team Performance | 30.00% | ~142,322 |
@@ -41,9 +41,9 @@ Number of Ratings: 19,160  (23.09.2022)
 | Clean Bill of Health | 22.00% | ~104,370 |
 | What A Goal! | 22.00% | ~104,370 |
 | Cup Glory! | 22.00% | ~104,370 |
-| Irresistible Force | 20.00% | ~94,881 |
-| Excellent Match Cohesion | 20.00% | ~94,881 |
-| Do The Double | 19.00% | ~90,137 |
+| Irresistible Force | 20.00% | ~94,882 |
+| Excellent Match Cohesion | 20.00% | ~94,882 |
+| Do The Double | 19.00% | ~90,138 |
 | Top Form | 17.00% | ~80,649 |
 | Cash To Burn | 17.00% | ~80,649 |
 | Overachiever! | 16.00% | ~75,905 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~474 |
 | Shoestring Budget | 0.10% | ~474 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 474,407 (Ranked 36)  
+Progressed: 474,408 (Ranked 36)  
 Completed: 22 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,14 +280,14 @@ Completed: 22 (0.00%) (Ranked 314)
 | 2023-10-09 | 474,338 | 22 |
 | 2023-10-10 | 474,374 | 22 |
 | 2023-10-11 | 474,405 | 22 |
-| 2023-10-12 | 474,407 | 22 |
+| 2023-10-12 | 474,408 | 22 |
 ## Awards
-Max (Relaxing): 6,459  (Ranked 56)  
-Sum: 50,853 (Ranked 27)  
+Max (Relaxing): 6,460  (Ranked 56)  
+Sum: 50,854 (Ranked 27)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
-| This game is Relaxing | 6,459 |
+| This game is Relaxing | 6,460 |
 | This game is Extremely Fun | 6,058 |
 | This game has Competitive Players | 5,892 |
 | This game has Quickly Understood Controls | 5,878 |
@@ -560,3 +560,4 @@ Diff (max vs sum): 29
 | 2023-10-09 | 4.80 | - | 6,459 | 50,848 |
 | 2023-10-10 | 4.80 | - | 6,459 | 50,851 |
 | 2023-10-11 | 4.80 | - | 6,459 | 50,853 |
+| 2023-10-12 | 4.80 | - | 6,460 | 50,854 |

@@ -4,7 +4,7 @@
   "ProductSlug": "galactic-civilizations-iii",
   "Ranking_Rating": 870,
   "Ranking_Popularity": 287,
-  "Ranking_PopularitySum": 237,
+  "Ranking_PopularitySum": 236,
   "Ranking_EOS_Progress": 667,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 399,
@@ -1799,10 +1799,16 @@
       "Rating": 4.22,
       "NumberOfAwards": 1192,
       "NumberOfAwardsMax": 182
+    },
+    {
+      "Time": "2023-10-12T05:57:54.7228309+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 1194,
+      "NumberOfAwardsMax": 182
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1192,
+  "NumberOfAwards": 1194,
   "NumberOfAwardsMax": 182,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1834,7 +1840,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 159
+      "Count": 161
     },
     {
       "Text": "This game is Relaxing",
@@ -1872,8 +1878,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:25.7061184+00:00",
-  "LastChanged": "2023-10-11T14:57:49.2685363+00:00",
+  "LastChanged": "2023-10-12T05:57:54.7228306+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:25.6726946+00:00",
-  "LastUpdate_Ratings": "2023-10-12T04:58:26.8702579+00:00",
-  "LastUpdate_Achievements": "2023-10-12T05:07:21.5075836+00:00"
+  "LastUpdate_Ratings": "2023-10-12T05:57:54.7228316+00:00",
+  "LastUpdate_Achievements": "2023-10-12T06:06:25.1342929+00:00"
 }

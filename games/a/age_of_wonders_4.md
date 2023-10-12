@@ -48,7 +48,7 @@ Rating: 4.60 (Ranked 397)
 | Duality | 2.00% | ~104 |
 | Manufactured War | 1.00% | ~52 |
 | Snap Out of It! | 0.90% | ~47 |
-| Betrayal Most Foul | 0.50% | ~26 |
+| Betrayal Most Foul | 0.60% | ~31 |
 | I Want to Break Free | 0.30% | ~16 |
 | Returning Circle | 0.20% | ~10 |
 | I'll Fight You All | 0.20% | ~10 |

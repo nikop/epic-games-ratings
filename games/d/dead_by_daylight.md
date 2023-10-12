@@ -6,14 +6,14 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Handyman | 1.00% | ~9,335 |
-| Zealous | 1.00% | ~9,335 |
-| It wakes | 1.00% | ~9,335 |
-| Not half bad | 1.00% | ~9,335 |
-| Apt Survivor | 1.00% | ~9,335 |
-| Survival Treasures | 1.00% | ~9,335 |
-| Skillful | 1.00% | ~9,335 |
-| Make Some Noise | 1.00% | ~9,335 |
+| Handyman | 1.00% | ~9,336 |
+| Zealous | 1.00% | ~9,336 |
+| It wakes | 1.00% | ~9,336 |
+| Not half bad | 1.00% | ~9,336 |
+| Apt Survivor | 1.00% | ~9,336 |
+| Survival Treasures | 1.00% | ~9,336 |
+| Skillful | 1.00% | ~9,336 |
+| Make Some Noise | 1.00% | ~9,336 |
 | Sorted | 0.90% | ~8,402 |
 | No one left behind | 0.80% | ~7,468 |
 | Medic | 0.80% | ~7,468 |
@@ -40,6 +40,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Second Act | 0.50% | ~4,668 |
 | Made it out alive! | 0.40% | ~3,734 |
 | III | 0.40% | ~3,734 |
+| Holiday Get-Together | 0.40% | ~3,734 |
 | Near-Death Experience | 0.40% | ~3,734 |
 | Cherish your Life | 0.40% | ~3,734 |
 | Unforgettable Getaway | 0.40% | ~3,734 |
@@ -53,6 +54,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Chorus of Chaos | 0.40% | ~3,734 |
 | A bite for the Entity | 0.30% | ~2,801 |
 | Blood on your hands | 0.30% | ~2,801 |
+| Blood on your face | 0.30% | ~2,801 |
 | Escape Artist | 0.30% | ~2,801 |
 | Gifts for the Fog | 0.30% | ~2,801 |
 | III-50 | 0.30% | ~2,801 |
@@ -64,7 +66,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Cottage Owner | 0.30% | ~2,801 |
 | Serial Killer | 0.30% | ~2,801 |
 | Escaping the Nightmare | 0.30% | ~2,801 |
-| Holiday Get-Together | 0.30% | ~2,801 |
 | Campbell's Chapel Legacy | 0.30% | ~2,801 |
 | Ancestor's Rite | 0.30% | ~2,801 |
 | Cutting Out | 0.30% | ~2,801 |
@@ -78,7 +79,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Extraterrestrial | 0.30% | ~2,801 |
 | One More Step | 0.30% | ~2,801 |
 | MU/TH/UR Dearest | 0.30% | ~2,801 |
-| Blood on your face | 0.20% | ~1,867 |
 | Jump Scares | 0.20% | ~1,867 |
 | Hemophobia | 0.20% | ~1,867 |
 | Deep Cleansing | 0.20% | ~1,867 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~934 |
 | Adept Ripley | 0.10% | ~934 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 933,525 (Ranked 14)  
+Progressed: 933,561 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -411,7 +411,7 @@ Completed: 49 (0.01%) (Ranked 296)
 | 2023-10-09 | 929,902 | 49 |
 | 2023-10-10 | 931,511 | 49 |
 | 2023-10-11 | 933,163 | 49 |
-| 2023-10-12 | 933,525 | 49 |
+| 2023-10-12 | 933,561 | 49 |
 ## Awards
 Max (Diverse Characters): 33,781  (Ranked 15)  
 Sum: 261,429 (Ranked 13)  
