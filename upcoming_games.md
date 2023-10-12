@@ -24,6 +24,7 @@
 | [Slender The Arrival](games/d/d8a044edf03d410b9880dd7a8950da84.md) | 2023-10-18 | - |  | - | - |
 | [The Jackbox Party Pack 10](games/3/3b925119dbd84a9986f06e66e6794033.md) | 2023-10-19 | - |  | - | - |
 | [ENDLESS™ Dungeon](games/e/endless™_dungeon.md) | 2023-10-19 | - |  | - | - |
+| [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 2023-10-19 | - |  | - | - |
 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 2023-10-19 | 43 (1,000 XP) | 14 | - | - |
 | [GO TO HELL or Die Trying](games/8/8dd803604799447fa19f637a05991e98.md) | 2023-10-20 | - |  | - | - |
 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 2023-10-24 | - |  | - | - |
@@ -68,7 +69,7 @@
 | [Dungeons 4](games/d/dungeons_4.md) | 2023-11-09 | - |  | - | - |
 | [Broken Roads](games/b/broken_roads.md) | 2023-11-14 | - |  | - | - |
 | [Naheulbeuk's Dungeon Master](games/4/4885ae8497a54a0d95073db643c65ea0.md) | 2023-11-15 | - |  | - | - |
-| [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 2023-11-17 | 37 (1,000 XP) | 31 | - | - |
+| [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 2023-11-17 | 37 (1,000 XP) | 32 | - | - |
 | [Iragon](games/6/693d136b854d4a38a1dee6bc9020a5a4.md) | 2023-11-22 | - |  | - | - |
 | [Robocraft 2](games/2/2b5294e26e714e0f8647b6b4b135f34e.md) | 2023-11-28 | - |  | - | - |
 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 2023-11-28 | 12 (1,000 XP) | 10 | - | - |
@@ -196,7 +197,7 @@
 | [Eternal Exodus](games/e/e54a925435924e42ab3cd20f584d6e14.md) | 2024-05-31 | - |  | - | - |
 | [SpectralClimb](games/6/6120f91f9281420e818d6298ccd09772.md) | 2024-06-28 | - |  | - | - |
 | [Elders Grace - Unchained](games/d/d975114b43134558aa8413af2a0918c6.md) | 2024-06-30 | - |  | - | - |
-| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 64,972 | - | - |
+| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 65,015 | - | - |
 | [Monospaced Lovers](games/e/e73367d384634d11975effc86569bc47.md) | 2024-06-30 | - |  | - | - |
 | [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
 | [Rise of the Robots X - Early access](games/d/d065c8442524400dac2e0e9674a68732.md) | 2024-06-30 | - |  | - | - |
@@ -502,7 +503,6 @@
 | [Ultros](games/c/c6422f963ff84bcbb3b77539e77b6ef7.md) | 2099-02-01 | - |  | - | - |
 | [Under The Waves](games/u/under_the_waves.md) | 2099-02-01 | - |  | - | - |
 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 2099-03-09 | - |  | - | - |
-| [Blazing Sails](games/b/blazing_sails.md) | 2099-04-06 | - |  | - | - |
 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2099-06-08 | - |  | 4.10 | 2,519 |
 | [Tower of Fantasy](games/t/tower_of_fantasy_1.md) | 2099-06-26 | - |  | - | - |
 | [Matchpoint - Tennis Championships](games/m/matchpoint_-_tennis_championships.md) | 2099-07-07 | - |  | - | 0 |
