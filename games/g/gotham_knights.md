@@ -39,8 +39,8 @@ Rating: 4.18 (Ranked 897)
 | Out of Their League | 9.00% | ~6,609 |
 | Solid Alibi | 9.00% | ~6,609 |
 | Fusion Expert | 7.00% | ~5,141 |
+| Family Meeting | 7.00% | ~5,141 |
 | Expert Crime Fighter | 6.00% | ~4,406 |
-| Family Meeting | 6.00% | ~4,406 |
 | A Worthy Successor | 6.00% | ~4,406 |
 | Dressed to Impress | 4.00% | ~2,937 |
 | A Momentum Occasion | 3.00% | ~2,203 |

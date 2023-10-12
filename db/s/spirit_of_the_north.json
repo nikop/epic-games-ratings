@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 175,
   "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
     "PcReleaseDate": "2021-05-07T00:00:00+00:00",
@@ -324,9 +324,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 71171,
+  "EOS_Progressed": 71173,
   "EOS_Completed": 377,
-  "EOS_NewPlayers": 577,
+  "EOS_NewPlayers": 578,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -19499,6 +19499,11 @@
       "Time": "2023-10-12T08:06:08.6362431+00:00",
       "NumProgressed": 71171,
       "NumCompleted": 377
+    },
+    {
+      "Time": "2023-10-12T10:06:03.3576919+00:00",
+      "NumProgressed": 71173,
+      "NumCompleted": 377
     }
   ],
   "TotalAchievements": 24,
@@ -19526,7 +19531,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 48396
+      "UsersEstimate": 48398
     },
     {
       "ID": "BEST_FRIENDS",
@@ -19542,7 +19547,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 18504
+      "UsersEstimate": 18505
     },
     {
       "ID": "ERADICATE",
@@ -19590,7 +19595,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 37721
+      "UsersEstimate": 37722
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -19630,7 +19635,7 @@
       "Name": "OLD COMPANION",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6405
+      "UsersEstimate": 6406
     },
     {
       "ID": "PLAGUE_DOCTOR",
@@ -19670,7 +19675,7 @@
       "Name": "SPIRIT FORM",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 11387
+      "UsersEstimate": 11388
     },
     {
       "ID": "UPROOTING_DARKNESS",
@@ -19694,14 +19699,14 @@
       "Name": "WRITTEN IN STONE",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 11387
+      "UsersEstimate": 11388
     }
   ],
   "AchievementSets": [
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 71171,
+      "Progressed": 71173,
       "Completed": 377
     }
   ],
@@ -19709,8 +19714,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-10-12T09:06:02.2143717+00:00",
+  "LastChanged_Achievements": "2023-10-12T10:06:03.3576914+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:52.3980127+00:00",
-  "LastUpdate_Ratings": "2023-10-12T08:59:52.3237481+00:00",
-  "LastUpdate_Achievements": "2023-10-12T09:06:02.214514+00:00"
+  "LastUpdate_Ratings": "2023-10-12T10:00:03.2662953+00:00",
+  "LastUpdate_Achievements": "2023-10-12T10:06:03.3578279+00:00"
 }

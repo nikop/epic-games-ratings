@@ -5,21 +5,21 @@ Rating: 4.73 (Ranked 163)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~12,439 |
+| Under a New Sun | 92.00% | ~12,440 |
 | Newcomers | 79.00% | ~10,682 |
 | A Burden of Blood | 74.00% | ~10,006 |
 | Protector's Duty | 70.00% | ~9,465 |
-| Alchemist | 69.00% | ~9,329 |
-| In our Wake | 68.00% | ~9,194 |
+| Alchemist | 69.00% | ~9,330 |
+| In our Wake | 68.00% | ~9,195 |
 | Leaving all Behind | 65.00% | ~8,789 |
-| Felons | 62.00% | ~8,383 |
+| Felons | 62.00% | ~8,384 |
 | A Sea of Promises | 61.00% | ~8,248 |
-| Tales and Revelations | 58.00% | ~7,842 |
-| Bloodline | 53.00% | ~7,166 |
-| The Cradle of Centuries | 49.00% | ~6,625 |
+| Tales and Revelations | 58.00% | ~7,843 |
+| Bloodline | 53.00% | ~7,167 |
+| The Cradle of Centuries | 49.00% | ~6,626 |
 | The Life We Deserve | 46.00% | ~6,220 |
 | Night guard | 43.00% | ~5,814 |
-| Nothing Left | 40.00% | ~5,408 |
+| Nothing Left | 40.00% | ~5,409 |
 | Healing our Wounds | 37.00% | ~5,003 |
 | Dying Sun | 33.00% | ~4,462 |
 | Improved crossbow | 27.00% | ~3,651 |
@@ -28,7 +28,7 @@ Rating: 4.73 (Ranked 163)
 | Effective instruments | 22.00% | ~2,975 |
 | Perfect shot | 22.00% | ~2,975 |
 | Perfect throw | 22.00% | ~2,975 |
-| Knights! | 21.00% | ~2,839 |
+| Knights! | 21.00% | ~2,840 |
 | Handful of pockets | 13.00% | ~1,758 |
 | Pocket laboratory | 12.00% | ~1,623 |
 | Not a toy anymore | 11.00% | ~1,487 |
@@ -41,7 +41,7 @@ Rating: 4.73 (Ranked 163)
 | Old protector | 2.00% | ~270 |
 | Malignant | 1.00% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,521 (Ranked 136)  
+Progressed: 13,522 (Ranked 136)  
 Completed: 49 (0.36%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,10 +216,10 @@ Completed: 49 (0.36%) (Ranked 196)
 | 2023-10-09 | 13,508 | 49 |
 | 2023-10-10 | 13,515 | 49 |
 | 2023-10-11 | 13,519 | 49 |
-| 2023-10-12 | 13,521 | 49 |
+| 2023-10-12 | 13,522 | 49 |
 ## Awards
 Max (Great Boss Battles): 426  (Ranked 216)  
-Sum: 659 (Ranked 295)  
+Sum: 660 (Ranked 295)  
 Diff (max vs sum): -79  
 | Award | Count |
 | ----- | ----- |
@@ -230,7 +230,7 @@ Diff (max vs sum): -79
 | This game is Relaxing | 27 |
 | This game has Amazing Storytelling | 26 |
 | This game is Extremely Fun | 25 |
-| This game has Amazing Characters | 23 |
+| This game has Amazing Characters | 24 |
 | This game has Quickly Understood Controls | 21 |
 | This game has a Creative Community | 21 |
 ## Ratings History
@@ -300,3 +300,4 @@ Diff (max vs sum): -79
 | 2023-10-06 | 4.73 | 425 | 656 |
 | 2023-10-08 | 4.73 | 425 | 657 |
 | 2023-10-09 | 4.73 | 426 | 659 |
+| 2023-10-12 | 4.73 | 426 | 660 |

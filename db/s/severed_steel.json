@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 23,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 33,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2021-09-17T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -620,9 +620,9 @@
       "Count": 338
     }
   ],
-  "EOS_Progressed": 673052,
+  "EOS_Progressed": 673055,
   "EOS_Completed": 72,
-  "EOS_NewPlayers": 2952,
+  "EOS_NewPlayers": 2933,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -20410,6 +20410,11 @@
       "Time": "2023-10-12T09:06:52.9028223+00:00",
       "NumProgressed": 673052,
       "NumCompleted": 72
+    },
+    {
+      "Time": "2023-10-12T10:06:52.0902355+00:00",
+      "NumProgressed": 673055,
+      "NumCompleted": 72
     }
   ],
   "TotalAchievements": 52,
@@ -20501,7 +20506,7 @@
       "Name": "FINISHED CHAPTER 3",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 107688
+      "UsersEstimate": 107689
     },
     {
       "ID": "CHAPTER4",
@@ -20509,7 +20514,7 @@
       "Name": "FINISHED CHAPTER 4",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 94227
+      "UsersEstimate": 94228
     },
     {
       "ID": "CHAPTER5",
@@ -20525,7 +20530,7 @@
       "Name": "FINISH CHAPTER 6",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 67305
+      "UsersEstimate": 67306
     },
     {
       "ID": "CHURCH",
@@ -20549,7 +20554,7 @@
       "Name": "CATHARTIC ESCAPISM",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 67305
+      "UsersEstimate": 67306
     },
     {
       "ID": "FIREFIGHT10 LEVEL (0-10)",
@@ -20797,7 +20802,7 @@
       "Name": "SCIENCE AND INDUSTRY",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 181724
+      "UsersEstimate": 181725
     },
     {
       "ID": "SOUL",
@@ -20836,7 +20841,7 @@
     {
       "ID": "1pi2inm",
       "IsBase": true,
-      "Progressed": 673052,
+      "Progressed": 673055,
       "Completed": 72
     }
   ],
@@ -20844,8 +20849,8 @@
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
   "LastChanged": "2023-10-12T07:59:53.4179073+00:00",
-  "LastChanged_Achievements": "2023-10-12T09:06:52.902822+00:00",
+  "LastChanged_Achievements": "2023-10-12T10:06:52.0902349+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:47.1373293+00:00",
-  "LastUpdate_Ratings": "2023-10-12T08:59:48.5908375+00:00",
-  "LastUpdate_Achievements": "2023-10-12T09:06:52.9030008+00:00"
+  "LastUpdate_Ratings": "2023-10-12T09:59:58.7631117+00:00",
+  "LastUpdate_Achievements": "2023-10-12T10:06:52.0904029+00:00"
 }

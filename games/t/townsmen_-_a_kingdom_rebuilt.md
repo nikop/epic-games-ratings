@@ -72,8 +72,8 @@ Number of Ratings: 37  (23.09.2022)
 | Tax-man V | 1.00% | ~43 |
 | A time consuming game V | 1.00% | ~43 |
 | I've been everywhere II | 0.90% | ~39 |
+| Last man standing | 0.80% | ~34 |
 | I've been everywhere VI | 0.80% | ~34 |
-| Last man standing | 0.70% | ~30 |
 | Builder V | 0.70% | ~30 |
 | Ten-Hut! | 0.70% | ~30 |
 | Penny pincher | 0.70% | ~30 |

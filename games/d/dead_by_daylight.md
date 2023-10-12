@@ -14,13 +14,13 @@ Number of Ratings: 70,340  (23.09.2022)
 | Survival Treasures | 1.00% | ~9,337 |
 | Skillful | 1.00% | ~9,337 |
 | Make Some Noise | 1.00% | ~9,337 |
-| Sorted | 0.90% | ~8,403 |
-| No one left behind | 0.80% | ~7,469 |
-| Medic | 0.80% | ~7,469 |
-| Bloody Millionaire | 0.80% | ~7,469 |
-| I | 0.80% | ~7,469 |
-| Healthy Obsession | 0.80% | ~7,469 |
-| Resurgence | 0.80% | ~7,469 |
+| Sorted | 0.90% | ~8,404 |
+| No one left behind | 0.80% | ~7,470 |
+| Medic | 0.80% | ~7,470 |
+| Bloody Millionaire | 0.80% | ~7,470 |
+| I | 0.80% | ~7,470 |
+| Healthy Obsession | 0.80% | ~7,470 |
+| Resurgence | 0.80% | ~7,470 |
 | The Grand Sacrifice | 0.70% | ~6,536 |
 | Agonizing Escape | 0.70% | ~6,536 |
 | Backdoor Escape | 0.70% | ~6,536 |
@@ -34,11 +34,11 @@ Number of Ratings: 70,340  (23.09.2022)
 | Risk it all | 0.60% | ~5,602 |
 | Wounded Healer | 0.60% | ~5,602 |
 | Close Shave | 0.60% | ~5,602 |
-| Apt Killer | 0.50% | ~4,668 |
-| Vulture | 0.50% | ~4,668 |
-| II | 0.50% | ~4,668 |
-| With Scars to Show | 0.50% | ~4,668 |
-| Second Act | 0.50% | ~4,668 |
+| Apt Killer | 0.50% | ~4,669 |
+| Vulture | 0.50% | ~4,669 |
+| II | 0.50% | ~4,669 |
+| With Scars to Show | 0.50% | ~4,669 |
+| Second Act | 0.50% | ~4,669 |
 | Blood on your hands | 0.40% | ~3,735 |
 | Escape Artist | 0.40% | ~3,735 |
 | Made it out alive! | 0.40% | ~3,735 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~934 |
 | Adept Ripley | 0.10% | ~934 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 933,670 (Ranked 14)  
+Progressed: 933,732 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -411,10 +411,10 @@ Completed: 49 (0.01%) (Ranked 296)
 | 2023-10-09 | 929,902 | 49 |
 | 2023-10-10 | 931,511 | 49 |
 | 2023-10-11 | 933,163 | 49 |
-| 2023-10-12 | 933,670 | 49 |
+| 2023-10-12 | 933,732 | 49 |
 ## Awards
 Max (Diverse Characters): 33,781  (Ranked 15)  
-Sum: 261,429 (Ranked 13)  
+Sum: 261,455 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -424,7 +424,7 @@ Diff (max vs sum): 2
 | This game has Amazing Characters | 29,521 |
 | This game is Extremely Fun | 29,182 |
 | This game has Challenging Combat | 28,755 |
-| This game has Quickly Understood Controls | 28,678 |
+| This game has Quickly Understood Controls | 28,704 |
 | This game has Amazing Storytelling | 26,811 |
 | This game has a Competitive Community | 25,309 |
 | This game has Obsessive Gameplay | 16,768 |
@@ -693,4 +693,4 @@ Diff (max vs sum): 2
 | 2023-10-09 | 4.52 | - | 33,640 | 260,754 |
 | 2023-10-10 | 4.51 | - | 33,667 | 261,003 |
 | 2023-10-11 | 4.51 | - | 33,734 | 261,382 |
-| 2023-10-12 | 4.51 | - | 33,781 | 261,429 |
+| 2023-10-12 | 4.51 | - | 33,781 | 261,455 |

@@ -38,9 +38,9 @@ Number of Ratings: 368  (23.09.2022)
 | A cry for help | 8.00% | ~1,255 |
 | Silentium est aureum | 7.00% | ~1,098 |
 | Rebel without a cause | 6.00% | ~941 |
-| Staring contest champion | 5.00% | ~784 |
-| Lone wolf | 5.00% | ~784 |
-| Vox Populi | 5.00% | ~784 |
+| Staring contest champion | 5.00% | ~785 |
+| Lone wolf | 5.00% | ~785 |
+| Vox Populi | 5.00% | ~785 |
 | Revenge | 4.00% | ~628 |
 | Self-defense | 4.00% | ~628 |
 | Countess Aliena | 4.00% | ~628 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~471 |
 | Boy of mystery | 2.00% | ~314 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,690 (Ranked 133)  
+Progressed: 15,691 (Ranked 133)  
 Completed: 113 (0.72%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 113 (0.72%) (Ranked 156)
 | 2023-10-09 | 15,653 | 113 |
 | 2023-10-10 | 15,670 | 113 |
 | 2023-10-11 | 15,686 | 113 |
-| 2023-10-12 | 15,690 | 113 |
+| 2023-10-12 | 15,691 | 113 |
 ## Awards
 Max (Easy Puzzles): 151  (Ranked 307)  
 Sum: 193 (Ranked 388)  

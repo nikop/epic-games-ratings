@@ -6,36 +6,36 @@
 | ---- | ---------- | ----- |
 | Chapter I | 51.00% | ~67 |
 | Fire in the... nevermind | 50.00% | ~66 |
-| Haute cuisine | 47.00% | ~62 |
+| Haute cuisine | 46.00% | ~61 |
 | I didn't do it! | 39.00% | ~51 |
 | Demolition expert | 38.00% | ~50 |
-| Wooooooow! | 37.00% | ~48 |
+| Wooooooow! | 37.00% | ~49 |
 | Keep away from children | 35.00% | ~46 |
-| Artistic fool | 33.00% | ~43 |
+| Artistic fool | 33.00% | ~44 |
 | Let the boot talk | 32.00% | ~42 |
 | Open up wide | 32.00% | ~42 |
-| Chapter II | 27.00% | ~35 |
-| Handyman | 24.00% | ~31 |
-| Achoo!! | 24.00% | ~31 |
-| Chapter III | 24.00% | ~31 |
-| Like a moth in the Wind | 24.00% | ~31 |
+| Chapter II | 27.00% | ~36 |
+| Achoo!! | 24.00% | ~32 |
+| Shadow on the wall | 23.00% | ~30 |
+| Handyman | 23.00% | ~30 |
 | Bubblekillerfamily | 23.00% | ~30 |
-| Shadow on the wall | 22.00% | ~29 |
+| Chapter III | 23.00% | ~30 |
+| Like a moth in the Wind | 23.00% | ~30 |
 | Quite a buggy game | 21.00% | ~28 |
-| Mirror mirror on the wall... | 21.00% | ~28 |
+| Mirror mirror on the wall... | 20.00% | ~26 |
 | Pacifist | 19.00% | ~25 |
 | Fastidious Clown | 19.00% | ~25 |
 | It's not easy being green! | 18.00% | ~24 |
-| Home is where the heart is | 18.00% | ~24 |
-| Master of Thermodynamics | 15.00% | ~20 |
+| Home is where the heart is | 17.00% | ~22 |
 | Death is a part of life | 15.00% | ~20 |
+| Master of Thermodynamics | 14.00% | ~18 |
 | Unfullfilled dreams | 13.00% | ~17 |
-| To err is human... | 11.00% | ~14 |
+| To err is human... | 11.00% | ~15 |
 | Useless but beautiful | 10.00% | ~13 |
 | Nothing can stop me | 10.00% | ~13 |
 | Mumbo Jumbo | 9.00% | ~12 |
-| Lollipop | 8.00% | ~10 |
-| Where there is life, there is hope | 8.00% | ~10 |
+| Lollipop | 8.00% | ~11 |
+| Where there is life, there is hope | 8.00% | ~11 |
 | It's nothing personal | 7.00% | ~9 |
 | The hands of a healer | 6.00% | ~8 |
 | Artistic master | 5.00% | ~7 |
@@ -51,7 +51,7 @@
 | Done. First! | 0.80% | ~1 |
 | Do not feed the fish! | 0.80% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131 (Ranked 362)  
+Progressed: 132 (Ranked 362)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,6 +89,7 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-10-05 | 129 | 0 |
 | 2023-10-10 | 130 | 0 |
 | 2023-10-11 | 131 | 0 |
+| 2023-10-12 | 132 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

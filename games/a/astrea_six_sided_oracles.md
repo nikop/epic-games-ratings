@@ -9,12 +9,12 @@
 | Lacertian Champion | 23.00% | ~12 |
 | Endless Tricks | 21.00% | ~11 |
 | Meissa's Savior | 21.00% | ~11 |
+| Sanctuary Guardian | 21.00% | ~11 |
 | Eridanian Champion | 21.00% | ~11 |
 | Dicesmithing Time! | 19.00% | ~10 |
 | Loyal Partner | 19.00% | ~10 |
 | Mechanical Buddy | 19.00% | ~10 |
 | Purification Pioneer | 19.00% | ~10 |
-| Sanctuary Guardian | 19.00% | ~10 |
 | Shard Spender | 19.00% | ~10 |
 | Stellar Dismantler | 19.00% | ~10 |
 | Wild's Keeper | 19.00% | ~10 |
@@ -32,9 +32,9 @@
 | Favored by the Cosmos | 10.00% | ~5 |
 | Sadistic Plan | 10.00% | ~5 |
 | Stellar Haste | 10.00% | ~5 |
+| Wave Bender | 10.00% | ~5 |
 | Anomaly Control | 8.00% | ~4 |
 | Heavy Purger | 8.00% | ~4 |
-| Wave Bender | 8.00% | ~4 |
 | Apian Hero | 8.00% | ~4 |
 | Can't touch this | 6.00% | ~3 |
 | Denying Destiny | 6.00% | ~3 |

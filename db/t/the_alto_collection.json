@@ -781,9 +781,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 42386,
+  "EOS_Progressed": 42387,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 832,
+  "EOS_NewPlayers": 829,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -20401,6 +20401,11 @@
       "Time": "2023-10-12T09:03:22.5663673+00:00",
       "NumProgressed": 42386,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-12T10:03:27.8954454+00:00",
+      "NumProgressed": 42387,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -20436,7 +20441,7 @@
       "Name": "Scout",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4662
+      "UsersEstimate": 4663
     },
     {
       "ID": "distance500000",
@@ -20620,7 +20625,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 11020
+      "UsersEstimate": 11021
     },
     {
       "ID": "sandboarder",
@@ -20636,7 +20641,7 @@
       "Name": "Sightseer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4662
+      "UsersEstimate": 4663
     },
     {
       "ID": "ultimate",
@@ -20723,15 +20728,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 42386,
+      "Progressed": 42387,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-10-12T08:00:34.9108004+00:00",
-  "LastChanged_Achievements": "2023-10-12T09:03:22.5663665+00:00",
+  "LastChanged_Achievements": "2023-10-12T10:03:27.8954445+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:34.5787714+00:00",
-  "LastUpdate_Ratings": "2023-10-12T09:00:28.7219692+00:00",
-  "LastUpdate_Achievements": "2023-10-12T09:03:22.5666229+00:00"
+  "LastUpdate_Ratings": "2023-10-12T10:00:45.362663+00:00",
+  "LastUpdate_Achievements": "2023-10-12T10:03:27.8956081+00:00"
 }

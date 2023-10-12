@@ -462,10 +462,16 @@
       "Rating": 4.73,
       "NumberOfAwards": 659,
       "NumberOfAwardsMax": 426
+    },
+    {
+      "Time": "2023-10-12T09:57:48.9204643+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 660,
+      "NumberOfAwardsMax": 426
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 659,
+  "NumberOfAwards": 660,
   "NumberOfAwardsMax": 426,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -527,12 +533,12 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 23
+      "Count": 24
     }
   ],
-  "EOS_Progressed": 13521,
+  "EOS_Progressed": 13522,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -9890,6 +9896,11 @@
       "Time": "2023-10-12T06:06:37.7625958+00:00",
       "NumProgressed": 13521,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-12T10:06:39.2907973+00:00",
+      "NumProgressed": 13522,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 35,
@@ -9901,7 +9912,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 12439
+      "UsersEstimate": 12440
     },
     {
       "ID": "ACH_02",
@@ -9933,7 +9944,7 @@
       "Name": "In our Wake",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 9194
+      "UsersEstimate": 9195
     },
     {
       "ID": "ACH_06",
@@ -9949,7 +9960,7 @@
       "Name": "Felons",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 8383
+      "UsersEstimate": 8384
     },
     {
       "ID": "ACH_08",
@@ -9965,7 +9976,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 7842
+      "UsersEstimate": 7843
     },
     {
       "ID": "ACH_10",
@@ -9973,7 +9984,7 @@
       "Name": "Bloodline",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 7166
+      "UsersEstimate": 7167
     },
     {
       "ID": "ACH_11",
@@ -9981,7 +9992,7 @@
       "Name": "The Cradle of Centuries",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 6625
+      "UsersEstimate": 6626
     },
     {
       "ID": "ACH_12",
@@ -9997,7 +10008,7 @@
       "Name": "Nothing Left",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 5408
+      "UsersEstimate": 5409
     },
     {
       "ID": "ACH_14",
@@ -10029,7 +10040,7 @@
       "Name": "Knights!",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 2839
+      "UsersEstimate": 2840
     },
     {
       "ID": "ACH_18",
@@ -10117,7 +10128,7 @@
       "Name": "Alchemist",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 9329
+      "UsersEstimate": 9330
     },
     {
       "ID": "ACH_29",
@@ -10180,16 +10191,16 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 13521,
+      "Progressed": 13522,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-10-18T03:00:59.1275304+00:00",
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
-  "LastChanged": "2023-10-09T20:01:08.9572395+00:00",
-  "LastChanged_Achievements": "2023-10-12T09:06:39.7308925+00:00",
+  "LastChanged": "2023-10-12T09:57:48.9204641+00:00",
+  "LastChanged_Achievements": "2023-10-12T10:06:39.2907967+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:58.3444981+00:00",
-  "LastUpdate_Ratings": "2023-10-12T08:57:33.8730603+00:00",
-  "LastUpdate_Achievements": "2023-10-12T09:06:39.7309879+00:00"
+  "LastUpdate_Ratings": "2023-10-12T09:57:48.9204648+00:00",
+  "LastUpdate_Achievements": "2023-10-12T10:06:39.2908836+00:00"
 }

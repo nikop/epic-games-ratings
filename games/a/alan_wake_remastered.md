@@ -6,22 +6,22 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 43.00% | ~29,097 |
-| Let There Be Light | 35.00% | ~23,684 |
-| Float Like a Butterfly | 34.00% | ~23,007 |
-| Nordic Walking | 27.00% | ~18,270 |
-| Bright Falls' Finest | 27.00% | ~18,270 |
-| Under a Thin Layer of Skin | 24.00% | ~16,240 |
+| Follow the Light | 43.00% | ~29,099 |
+| Let There Be Light | 35.00% | ~23,685 |
+| Float Like a Butterfly | 34.00% | ~23,008 |
+| Nordic Walking | 27.00% | ~18,271 |
+| Bright Falls' Finest | 27.00% | ~18,271 |
+| Under a Thin Layer of Skin | 24.00% | ~16,241 |
 | Park Ranger | 20.00% | ~13,534 |
 | Paging Mr. Wake | 20.00% | ~13,534 |
-| Back! Back, I Say! | 18.00% | ~12,180 |
-| Finders Keepers | 18.00% | ~12,180 |
+| Back! Back, I Say! | 18.00% | ~12,181 |
+| Finders Keepers | 18.00% | ~12,181 |
 | Sound and Fury | 17.00% | ~11,504 |
 | Damn Good Cup of Coffee | 17.00% | ~11,504 |
 | Wheels Within Wheels | 16.00% | ~10,827 |
 | They're Heeeeeere! | 16.00% | ~10,827 |
 | Missed by a Mile | 16.00% | ~10,827 |
-| The Six-Gun Scribe | 15.00% | ~10,150 |
+| The Six-Gun Scribe | 15.00% | ~10,151 |
 | Heavy Metal | 14.00% | ~9,474 |
 | Iron Horse | 14.00% | ~9,474 |
 | Perchance to Dream | 14.00% | ~9,474 |
@@ -29,25 +29,25 @@ Number of Ratings: 524  (23.09.2022)
 | Come One, Come All | 14.00% | ~9,474 |
 | It's Not Just a Typewriter Brand | 13.00% | ~8,797 |
 | Thunder and Lightning | 13.00% | ~8,797 |
-| Gatekeeper | 12.00% | ~8,120 |
-| The Lady of the Light | 12.00% | ~8,120 |
-| Two For the Price of One | 12.00% | ~8,120 |
-| Energized! | 12.00% | ~8,120 |
+| Gatekeeper | 12.00% | ~8,121 |
+| The Lady of the Light | 12.00% | ~8,121 |
+| Two For the Price of One | 12.00% | ~8,121 |
+| Energized! | 12.00% | ~8,121 |
 | What Light Through Yonder Window | 10.00% | ~6,767 |
 | Right of Way | 10.00% | ~6,767 |
 | Tornado Wrangler | 9.00% | ~6,090 |
-| A Friend in Need | 9.00% | ~2,802 |
-| Departure | 8.00% | ~5,413 |
+| A Friend in Need | 9.00% | ~2,803 |
+| Departure | 8.00% | ~5,414 |
 | Hardboiled Writer | 7.00% | ~4,737 |
 | A Friend Indeed | 7.00% | ~2,180 |
 | Children of the Elder God | 6.00% | ~4,060 |
 | Drink 'Em Both Up | 6.00% | ~4,060 |
 | Ding! | 6.00% | ~1,868 |
-| Boob Tube | 5.00% | ~3,383 |
-| If It Flies, It Burns | 5.00% | ~3,383 |
-| KBF-FM | 5.00% | ~3,383 |
-| Kill Your Darlings | 4.00% | ~1,245 |
-| Heartbreaker | 4.00% | ~1,245 |
+| Boob Tube | 5.00% | ~3,384 |
+| If It Flies, It Burns | 5.00% | ~3,384 |
+| KBF-FM | 5.00% | ~3,384 |
+| Kill Your Darlings | 4.00% | ~1,246 |
+| Heartbreaker | 4.00% | ~1,246 |
 | Carny | 3.00% | ~2,030 |
 | Medical Opinions | 2.00% | ~1,353 |
 | Taken Season | 2.00% | ~1,353 |
@@ -74,8 +74,8 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~68 |
 | No Punctuation | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,668 (Ranked 93)  
-Completed: 68 (0.10%) (Ranked 248)  
+Progressed: 67,671 (Ranked 93)  
+Completed: 69 (0.10%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -249,7 +249,7 @@ Completed: 68 (0.10%) (Ranked 248)
 | 2023-10-09 | 67,450 | 67 |
 | 2023-10-10 | 67,536 | 67 |
 | 2023-10-11 | 67,631 | 68 |
-| 2023-10-12 | 67,668 | 68 |
+| 2023-10-12 | 67,671 | 69 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

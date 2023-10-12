@@ -5,36 +5,36 @@ Rating: 4.39 (Ranked 729)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 44.00% | ~126,263 |
-| FIRST BLOOD | 39.00% | ~111,915 |
-| KEVIN! | 29.00% | ~83,219 |
-| JACK OF ALL TRADES | 22.00% | ~63,132 |
-| CRIMINAL | 18.00% | ~51,653 |
-| GRANDMA WOULD BE PROUD | 10.00% | ~28,696 |
-| WITHOUT BREAKING A SWEAT | 7.00% | ~20,087 |
-| HONORS STUDENT | 6.00% | ~17,218 |
-| BUTCHER | 4.00% | ~11,478 |
-| INDIVIDUAL APPROACH | 4.00% | ~11,478 |
-| RAMBO | 4.00% | ~11,478 |
-| HELL'S KITCHEN | 3.00% | ~8,609 |
-| CELEBRITY | 2.00% | ~5,739 |
-| MARTYR | 2.00% | ~5,739 |
-| GRATITUDE | 1.00% | ~2,870 |
-| PATTY-KILLER | 0.60% | ~1,722 |
-| PRUDENT | 0.60% | ~1,722 |
-| GOURMET | 0.50% | ~1,435 |
-| EXPERIMENTALIST | 0.40% | ~1,148 |
-| LAW-ABIDING CITIZEN | 0.40% | ~1,148 |
-| HIGH TECHNOLOGIES | 0.20% | ~574 |
-| SCATTERBRAIN | 0.20% | ~574 |
-| TASTE UNTASTY | 0.20% | ~574 |
-| CORRUPTIONIST | 0.10% | ~287 |
-| DEBTOR | 0.10% | ~287 |
-| I'VE SEEN SOME… | 0.10% | ~287 |
-| MISTER ALL THUMBS | 0.10% | ~287 |
-| TRAVELER | 0.10% | ~287 |
+| MASTER CHEF | 44.00% | ~126,659 |
+| FIRST BLOOD | 39.00% | ~112,266 |
+| KEVIN! | 29.00% | ~83,480 |
+| JACK OF ALL TRADES | 22.00% | ~63,329 |
+| CRIMINAL | 18.00% | ~51,815 |
+| GRANDMA WOULD BE PROUD | 10.00% | ~28,786 |
+| WITHOUT BREAKING A SWEAT | 7.00% | ~20,150 |
+| HONORS STUDENT | 6.00% | ~17,272 |
+| BUTCHER | 4.00% | ~11,514 |
+| INDIVIDUAL APPROACH | 4.00% | ~11,514 |
+| RAMBO | 4.00% | ~11,514 |
+| HELL'S KITCHEN | 3.00% | ~8,636 |
+| CELEBRITY | 2.00% | ~5,757 |
+| MARTYR | 2.00% | ~5,757 |
+| GRATITUDE | 1.00% | ~2,879 |
+| PATTY-KILLER | 0.60% | ~1,727 |
+| PRUDENT | 0.60% | ~1,727 |
+| GOURMET | 0.50% | ~1,439 |
+| EXPERIMENTALIST | 0.40% | ~1,151 |
+| LAW-ABIDING CITIZEN | 0.40% | ~1,151 |
+| HIGH TECHNOLOGIES | 0.20% | ~576 |
+| SCATTERBRAIN | 0.20% | ~576 |
+| TASTE UNTASTY | 0.20% | ~576 |
+| CORRUPTIONIST | 0.10% | ~288 |
+| DEBTOR | 0.10% | ~288 |
+| I'VE SEEN SOME… | 0.10% | ~288 |
+| MISTER ALL THUMBS | 0.10% | ~288 |
+| TRAVELER | 0.10% | ~288 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 286,962 (Ranked 47)  
+Progressed: 287,861 (Ranked 47)  
 Completed: 8 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 8 (0.00%) (Ranked 314)
 | 2023-10-09 | 234,759 | 3 |
 | 2023-10-10 | 257,754 | 6 |
 | 2023-10-11 | 279,541 | 6 |
-| 2023-10-12 | 286,962 | 8 |
+| 2023-10-12 | 287,861 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

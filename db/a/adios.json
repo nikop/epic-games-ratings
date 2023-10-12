@@ -6,7 +6,7 @@
   "Ranking_Popularity": 532,
   "Ranking_PopularitySum": 532,
   "Ranking_EOS_Progress": 89,
-  "Ranking_EOS_Completed": 141,
+  "Ranking_EOS_Completed": 140,
   "Ranking_EOS_NewPlayers": 89,
   "Ranking_EOS_NewCompleters": 20,
   "Store": {
@@ -114,7 +114,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 75568,
+  "EOS_Progressed": 75570,
   "EOS_Completed": 793,
   "EOS_NewPlayers": 536,
   "EOS_NewCompleters": 9,
@@ -19614,6 +19614,11 @@
       "Time": "2023-10-12T09:03:24.8443637+00:00",
       "NumProgressed": 75568,
       "NumCompleted": 793
+    },
+    {
+      "Time": "2023-10-12T10:03:30.1681462+00:00",
+      "NumProgressed": 75570,
+      "NumCompleted": 793
     }
   ],
   "TotalAchievements": 25,
@@ -19641,7 +19646,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 13602
+      "UsersEstimate": 13603
     },
     {
       "ID": "Audiophile",
@@ -19665,7 +19670,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 13602
+      "UsersEstimate": 13603
     },
     {
       "ID": "Butcher",
@@ -19727,9 +19732,9 @@
       "ID": "Master, Commander",
       "SetID": "1e8d2nk",
       "Name": "Master, Commander",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 15114
+      "UsersEstimate": 15870
     },
     {
       "ID": "Meaty",
@@ -19817,14 +19822,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6045
+      "UsersEstimate": 6046
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 75568,
+      "Progressed": 75570,
       "Completed": 793
     }
   ],
@@ -19832,8 +19837,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-10-12T09:03:24.844363+00:00",
+  "LastChanged_Achievements": "2023-10-12T10:03:30.1681457+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:32.9396838+00:00",
-  "LastUpdate_Ratings": "2023-10-12T08:58:06.8618674+00:00",
-  "LastUpdate_Achievements": "2023-10-12T09:03:24.8445197+00:00"
+  "LastUpdate_Ratings": "2023-10-12T09:58:21.6191224+00:00",
+  "LastUpdate_Achievements": "2023-10-12T10:03:30.1682943+00:00"
 }

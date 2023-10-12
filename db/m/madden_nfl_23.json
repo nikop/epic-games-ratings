@@ -706,7 +706,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2424,
+  "EOS_Progressed": 2425,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 374,
   "EOS_NewCompleters": 0,
@@ -2906,6 +2906,11 @@
       "Time": "2023-10-12T06:04:43.2348983+00:00",
       "NumProgressed": 2424,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-12T10:04:45.9994441+00:00",
+      "NumProgressed": 2425,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -2926,7 +2931,7 @@
       "Name": "Bragging Rights",
       "Percentage": 56,
       "XP": 90,
-      "UsersEstimate": 1357
+      "UsersEstimate": 1358
     },
     {
       "ID": "achievement_11",
@@ -2966,7 +2971,7 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 1309
+      "UsersEstimate": 1310
     },
     {
       "ID": "achievement_16",
@@ -2974,7 +2979,7 @@
       "Name": "ROTY",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "achievement_17",
@@ -3085,7 +3090,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 2424,
+      "Progressed": 2425,
       "Completed": 0
     }
   ],
@@ -3093,8 +3098,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-10-11T06:59:42.9773462+00:00",
-  "LastChanged_Achievements": "2023-10-12T09:04:42.4614843+00:00",
+  "LastChanged_Achievements": "2023-10-12T10:04:45.9994436+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:58.3611516+00:00",
-  "LastUpdate_Ratings": "2023-10-12T08:59:59.5179798+00:00",
-  "LastUpdate_Achievements": "2023-10-12T09:04:42.4615169+00:00"
+  "LastUpdate_Ratings": "2023-10-12T10:00:10.9280689+00:00",
+  "LastUpdate_Achievements": "2023-10-12T10:04:45.9994741+00:00"
 }

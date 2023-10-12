@@ -441,9 +441,9 @@
       "ID": "ACH_CAR_WASH_01",
       "SetID": "5fn8ia4",
       "Name": "Restored the Car Wash",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_CAR_WASH_02",
@@ -1097,9 +1097,9 @@
       "ID": "GSS_ACH_74_SANDSTORM",
       "SetID": "5fn8ia4",
       "Name": "Sandstorm!",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "GSS_ACH_75_RACE_02_COMPLETE",
@@ -1176,8 +1176,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-12T09:06:40.7407282+00:00",
+  "LastChanged_Achievements": "2023-10-12T10:06:40.2678807+00:00",
   "LastUpdate_AppInfo": "2023-10-09T13:09:09.0618232+00:00",
-  "LastUpdate_Ratings": "2023-10-12T08:58:39.9946695+00:00",
-  "LastUpdate_Achievements": "2023-10-12T09:06:40.7408853+00:00"
+  "LastUpdate_Ratings": "2023-10-12T09:58:53.4513097+00:00",
+  "LastUpdate_Achievements": "2023-10-12T10:06:40.2679954+00:00"
 }

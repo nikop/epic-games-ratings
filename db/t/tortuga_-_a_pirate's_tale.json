@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 532,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16814,
+  "EOS_Progressed": 16815,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5623,6 +5623,11 @@
       "Time": "2023-10-12T00:04:13.331908+00:00",
       "NumProgressed": 16814,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-12T10:03:54.4340098+00:00",
+      "NumProgressed": 16815,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -5634,7 +5639,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 15973
+      "UsersEstimate": 15974
     },
     {
       "ID": "ACH001",
@@ -5642,7 +5647,7 @@
       "Name": "Personal Matter",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 14460
+      "UsersEstimate": 14461
     },
     {
       "ID": "ACH0010",
@@ -5682,7 +5687,7 @@
       "Name": "Sharing Is Caring",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1681
+      "UsersEstimate": 1682
     },
     {
       "ID": "ACH0015",
@@ -5730,7 +5735,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 12106
+      "UsersEstimate": 12107
     },
     {
       "ID": "ACH0020",
@@ -5794,7 +5799,7 @@
       "Name": "No Half Measures",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 14628
+      "UsersEstimate": 14629
     },
     {
       "ID": "ACH005",
@@ -5841,7 +5846,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 16814,
+      "Progressed": 16815,
       "Completed": 0
     }
   ],
@@ -5849,8 +5854,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-10-04T01:42:23.3161505+00:00",
-  "LastChanged_Achievements": "2023-10-12T09:03:49.7827944+00:00",
+  "LastChanged_Achievements": "2023-10-12T10:03:54.4340093+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:31.092943+00:00",
-  "LastUpdate_Ratings": "2023-10-12T09:03:11.5920291+00:00",
-  "LastUpdate_Achievements": "2023-10-12T09:03:49.7828734+00:00"
+  "LastUpdate_Ratings": "2023-10-12T10:03:16.9725889+00:00",
+  "LastUpdate_Achievements": "2023-10-12T10:03:54.4340629+00:00"
 }

@@ -8880,9 +8880,9 @@
       "Count": 705
     }
   ],
-  "EOS_Progressed": 298189,
+  "EOS_Progressed": 298190,
   "EOS_Completed": 484,
-  "EOS_NewPlayers": 352,
+  "EOS_NewPlayers": 351,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -27645,6 +27645,11 @@
       "Time": "2023-10-12T09:03:49.3210284+00:00",
       "NumProgressed": 298189,
       "NumCompleted": 484
+    },
+    {
+      "Time": "2023-10-12T10:03:54.0299272+00:00",
+      "NumProgressed": 298190,
+      "NumCompleted": 484
     }
   ],
   "TotalAchievements": 45,
@@ -27744,7 +27749,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14909
+      "UsersEstimate": 14910
     },
     {
       "ID": "PFA_20",
@@ -27936,7 +27941,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14909
+      "UsersEstimate": 14910
     },
     {
       "ID": "PFA_42",
@@ -28015,7 +28020,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298189,
+      "Progressed": 298190,
       "Completed": 484
     }
   ],
@@ -28023,8 +28028,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-12T04:00:59.5217041+00:00",
-  "LastChanged_Achievements": "2023-10-12T09:03:49.3210279+00:00",
+  "LastChanged_Achievements": "2023-10-12T10:03:54.0299264+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:01.0338203+00:00",
-  "LastUpdate_Ratings": "2023-10-12T08:59:15.3907345+00:00",
-  "LastUpdate_Achievements": "2023-10-12T09:03:49.3212259+00:00"
+  "LastUpdate_Ratings": "2023-10-12T09:59:26.4357808+00:00",
+  "LastUpdate_Achievements": "2023-10-12T10:03:54.0300837+00:00"
 }
