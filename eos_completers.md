@@ -74,7 +74,7 @@
 | 71 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.88% |
 | 73 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.84% |
 | 74 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
-| 75 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.71% |
+| 75 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.70% |
 | 76 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
 | 76 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.57% |
 | 78 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
@@ -112,8 +112,8 @@
 | 110 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.08% |
 | 111 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.98% |
 | 112 | [Night Book](games/n/night_book.md) | 1.86% |
-| 113 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.85% |
 | 113 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.85% |
+| 114 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.83% |
 | 115 | [Sifu](games/s/sifu.md) | 1.81% |
 | 116 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.80% |
 | 117 | [Frogun](games/f/frogun.md) | 1.79% |
