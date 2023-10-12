@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -56,9 +56,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1583,
+  "EOS_Progressed": 1585,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5851,6 +5851,11 @@
       "Time": "2023-10-12T04:05:28.0306155+00:00",
       "NumProgressed": 1583,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-12T16:04:41.5125188+00:00",
+      "NumProgressed": 1585,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -5894,7 +5899,7 @@
       "Name": "Gold Achiever",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ach_gold_rewards_25",
@@ -5966,7 +5971,7 @@
       "Name": "Facility Online",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -5974,7 +5979,7 @@
       "Name": "Corporal",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -6038,7 +6043,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -6078,7 +6083,7 @@
       "Name": "Resourceful",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "objective_key_objectives_completed_2",
@@ -6150,7 +6155,7 @@
       "Name": "Jet Troops",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "objective_upgrade_dropships_2",
@@ -6158,14 +6163,14 @@
       "Name": "Control the Skies",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     }
   ],
   "AchievementSets": [
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1583,
+      "Progressed": 1585,
       "Completed": 1
     }
   ],
@@ -6173,8 +6178,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-10-12T15:04:57.9464456+00:00",
+  "LastChanged_Achievements": "2023-10-12T16:04:41.5125183+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:57:03.7604863+00:00",
-  "LastUpdate_Ratings": "2023-10-12T14:59:02.9352908+00:00",
-  "LastUpdate_Achievements": "2023-10-12T15:04:57.9465286+00:00"
+  "LastUpdate_Ratings": "2023-10-12T15:58:37.4342696+00:00",
+  "LastUpdate_Achievements": "2023-10-12T16:04:41.512588+00:00"
 }

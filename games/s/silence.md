@@ -33,7 +33,7 @@
 | To err is human... | 11.00% | ~15 |
 | Useless but beautiful | 10.00% | ~13 |
 | Nothing can stop me | 10.00% | ~13 |
-| Mumbo Jumbo | 9.00% | ~12 |
+| Mumbo Jumbo | 10.00% | ~13 |
 | Lollipop | 8.00% | ~11 |
 | Where there is life, there is hope | 8.00% | ~11 |
 | It's nothing personal | 7.00% | ~9 |
@@ -42,10 +42,10 @@
 | Artistic master | 5.00% | ~7 |
 | Fartjokes! | 5.00% | ~7 |
 | Shut up clown! | 4.00% | ~5 |
+| The Green, the Fat, the Ugly | 3.00% | ~4 |
 | Life is but a dream | 3.00% | ~4 |
 | Summit attempt | 2.00% | ~3 |
 | Fine Listener | 2.00% | ~3 |
-| The Green, the Fat, the Ugly | 2.00% | ~3 |
 | Checkmate in 8 moves | 2.00% | ~3 |
 | Sherlock Holmes | 0.80% | ~1 |
 | Done. First! | 0.80% | ~1 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1218,9 +1218,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5526,
+  "EOS_Progressed": 5527,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -11138,6 +11138,11 @@
       "Time": "2023-10-12T12:05:50.4978446+00:00",
       "NumProgressed": 5526,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-12T16:05:36.70241+00:00",
+      "NumProgressed": 5527,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -11301,7 +11306,7 @@
       "Name": "The Governator",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 939
+      "UsersEstimate": 940
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -11309,7 +11314,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4144
+      "UsersEstimate": 4145
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -11405,7 +11410,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2597
+      "UsersEstimate": 2598
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -11468,15 +11473,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5526,
+      "Progressed": 5527,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-10-12T04:58:44.0677781+00:00",
-  "LastChanged_Achievements": "2023-10-12T15:06:01.955384+00:00",
+  "LastChanged_Achievements": "2023-10-12T16:05:36.7024095+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:39.4137332+00:00",
-  "LastUpdate_Ratings": "2023-10-12T14:58:47.7255554+00:00",
-  "LastUpdate_Achievements": "2023-10-12T15:06:01.9554629+00:00"
+  "LastUpdate_Ratings": "2023-10-12T15:58:24.0658289+00:00",
+  "LastUpdate_Achievements": "2023-10-12T16:05:36.7025024+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "silence-57bc4e",
   "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 286,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2016-11-15T17:00:00+00:00",
@@ -341,9 +341,9 @@
       "ID": "0000_achv_spotforms",
       "SetID": "dhn82m5",
       "Name": "The Green, the Fat, the Ugly",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "0000_achv_spotinteract",
@@ -573,9 +573,9 @@
       "ID": "3011_achv_magicbox",
       "SetID": "dhn82m5",
       "Name": "Mumbo Jumbo",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "3014_achv_sendspot",
@@ -638,8 +638,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-10-12T15:05:37.5758491+00:00",
+  "LastChanged_Achievements": "2023-10-12T16:05:15.554516+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:56.7643629+00:00",
-  "LastUpdate_Ratings": "2023-10-12T15:03:06.0973032+00:00",
-  "LastUpdate_Achievements": "2023-10-12T15:05:37.5758929+00:00"
+  "LastUpdate_Ratings": "2023-10-12T16:03:06.3822664+00:00",
+  "LastUpdate_Achievements": "2023-10-12T16:05:15.5545554+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "3bb63a39c60c4459a5a526eb6a4b08b5",
   "Name": "Fly Corp",
   "ProductSlug": "fly-corp-398021",
-  "Ranking_EOS_Progress": 245,
+  "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 788,
+  "EOS_Progressed": 789,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
@@ -2936,6 +2936,11 @@
       "Time": "2023-10-12T14:09:17.1948688+00:00",
       "NumProgressed": 788,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-12T16:09:30.6254293+00:00",
+      "NumProgressed": 789,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2963,7 +2968,7 @@
       "Name": "Basic Controls",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "BigPlane",
@@ -3147,7 +3152,7 @@
       "Name": "New Record",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "NoTimeForModernization",
@@ -3275,21 +3280,21 @@
       "Name": "Transport Hub",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 788,
+      "Progressed": 789,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-10-12T15:09:47.7154431+00:00",
+  "LastChanged_Achievements": "2023-10-12T16:09:30.6254286+00:00",
   "LastUpdate_AppInfo": "2023-10-10T13:57:13.1433164+00:00",
-  "LastUpdate_Ratings": "2023-10-12T14:59:32.2874159+00:00",
-  "LastUpdate_Achievements": "2023-10-12T15:09:47.7155059+00:00"
+  "LastUpdate_Ratings": "2023-10-12T15:59:01.1802341+00:00",
+  "LastUpdate_Achievements": "2023-10-12T16:09:30.6254735+00:00"
 }

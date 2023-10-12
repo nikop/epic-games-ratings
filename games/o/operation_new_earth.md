@@ -5,10 +5,10 @@ Rating: 3.38 (Ranked 1,010)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's Good to have Allies | 29.00% | ~459 |
+| It's Good to have Allies | 29.00% | ~460 |
 | Defenses Online | 26.00% | ~412 |
-| Facility Online | 21.00% | ~332 |
-| Corporal | 15.00% | ~237 |
+| Facility Online | 21.00% | ~333 |
+| Corporal | 15.00% | ~238 |
 | Covert Operative | 13.00% | ~206 |
 | Sergeant | 12.00% | ~190 |
 | Lieutenant | 11.00% | ~174 |
@@ -28,9 +28,9 @@ Rating: 3.38 (Ranked 1,010)
 | Moving On Up | 5.00% | ~79 |
 | Player Betrayer | 4.00% | ~63 |
 | Major | 4.00% | ~63 |
-| Gold Achiever | 3.00% | ~47 |
-| Resourceful | 3.00% | ~47 |
-| Control the Skies | 3.00% | ~47 |
+| Gold Achiever | 3.00% | ~48 |
+| Resourceful | 3.00% | ~48 |
+| Control the Skies | 3.00% | ~48 |
 | Advanced Warfare | 2.00% | ~32 |
 | Colonel | 2.00% | ~32 |
 | Seek & Destroy | 2.00% | ~32 |
@@ -39,12 +39,12 @@ Rating: 3.38 (Ranked 1,010)
 | Titan Tanks | 1.00% | ~16 |
 | Shock Troops | 0.90% | ~14 |
 | Advanced Interceptors | 0.80% | ~13 |
-| Jet Troops | 0.60% | ~9 |
+| Jet Troops | 0.60% | ~10 |
 | Gold Competitor | 0.10% | ~2 |
 | Platinum Achiever | 0.10% | ~2 |
 | Platinum Competitor | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,583 (Ranked 214)  
+Progressed: 1,585 (Ranked 214)  
 Completed: 1 (0.06%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 1 (0.06%) (Ranked 266)
 | 2023-10-09 | 1,564 | 1 |
 | 2023-10-10 | 1,572 | 1 |
 | 2023-10-11 | 1,581 | 1 |
-| 2023-10-12 | 1,583 | 1 |
+| 2023-10-12 | 1,585 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 241,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1349,9 +1349,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 129609,
+  "EOS_Progressed": 129612,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 262,
+  "EOS_NewPlayers": 263,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -18854,6 +18854,11 @@
       "Time": "2023-10-12T15:07:39.2835427+00:00",
       "NumProgressed": 129609,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-10-12T16:06:59.5564426+00:00",
+      "NumProgressed": 129612,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -18881,7 +18886,7 @@
       "Name": "Committee of la Responsabilit\u00E9",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 1166
+      "UsersEstimate": 1167
     },
     {
       "ID": "ACH_COP_APO",
@@ -18921,7 +18926,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31106
+      "UsersEstimate": 31107
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -18969,7 +18974,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20737
+      "UsersEstimate": 20738
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -18977,7 +18982,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 27218
+      "UsersEstimate": 27219
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -18993,7 +18998,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 16849
+      "UsersEstimate": 16850
     },
     {
       "ID": "ACH_COP_STAR",
@@ -19001,7 +19006,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20737
+      "UsersEstimate": 20738
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -19049,7 +19054,7 @@
       "Name": "Venture into the HARDCORE",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1166
+      "UsersEstimate": 1167
     },
     {
       "ID": "ACH_HARDIE",
@@ -19081,7 +19086,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 18145
+      "UsersEstimate": 18146
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -19145,7 +19150,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 18145
+      "UsersEstimate": 18146
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -19169,7 +19174,7 @@
       "Name": "Real Musor",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1166
+      "UsersEstimate": 1167
     },
     {
       "ID": "ACH_WHATBODY",
@@ -19184,15 +19189,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 129609,
+      "Progressed": 129612,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-10-11T21:03:20.1103028+00:00",
-  "LastChanged_Achievements": "2023-10-12T15:07:39.2835424+00:00",
+  "LastChanged_Achievements": "2023-10-12T16:06:59.5564422+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:36.8908498+00:00",
-  "LastUpdate_Ratings": "2023-10-12T15:02:24.7464488+00:00",
-  "LastUpdate_Achievements": "2023-10-12T15:07:39.283702+00:00"
+  "LastUpdate_Ratings": "2023-10-12T16:01:29.2511059+00:00",
+  "LastUpdate_Achievements": "2023-10-12T16:06:59.5565814+00:00"
 }

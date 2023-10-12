@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 532,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -508,9 +508,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8273,
+  "EOS_Progressed": 8274,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -9948,6 +9948,11 @@
       "Time": "2023-10-12T14:06:14.2487664+00:00",
       "NumProgressed": 8273,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-10-12T16:06:58.0355771+00:00",
+      "NumProgressed": 8274,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 29,
@@ -10031,7 +10036,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2316
+      "UsersEstimate": 2317
     },
     {
       "ID": "ACH11",
@@ -10063,7 +10068,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1406
+      "UsersEstimate": 1407
     },
     {
       "ID": "ACH15",
@@ -10190,7 +10195,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8273,
+      "Progressed": 8274,
       "Completed": 54
     }
   ],
@@ -10198,8 +10203,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-10-06T23:02:27.8926786+00:00",
-  "LastChanged_Achievements": "2023-10-12T15:07:37.4119904+00:00",
+  "LastChanged_Achievements": "2023-10-12T16:06:58.0355766+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:58.9824672+00:00",
-  "LastUpdate_Ratings": "2023-10-12T14:58:19.417653+00:00",
-  "LastUpdate_Achievements": "2023-10-12T15:07:37.4121178+00:00"
+  "LastUpdate_Ratings": "2023-10-12T15:57:59.1001758+00:00",
+  "LastUpdate_Achievements": "2023-10-12T16:06:58.0357209+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 532,
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -239,9 +239,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1955,
+  "EOS_Progressed": 1956,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -2879,6 +2879,11 @@
       "Time": "2023-10-12T15:07:21.4678789+00:00",
       "NumProgressed": 1955,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-12T16:06:44.2512463+00:00",
+      "NumProgressed": 1956,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -2898,7 +2903,7 @@
       "Name": "Collect Gold",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 899
+      "UsersEstimate": 900
     },
     {
       "ID": "Collect20Iron",
@@ -2914,7 +2919,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 1153
+      "UsersEstimate": 1154
     },
     {
       "ID": "CollectAllStatues",
@@ -2962,7 +2967,7 @@
       "Name": "Complete Elder Faction",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "CompleteGuardFaction",
@@ -3002,7 +3007,7 @@
       "Name": "End of the Mozis",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "DefeatRatnorRodentson",
@@ -3010,7 +3015,7 @@
       "Name": "Defeat Ratnor Rodentson",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "DefeatRattusAugustus",
@@ -3032,9 +3037,9 @@
       "ID": "GetRangedWeapon",
       "SetID": "9lj35g4",
       "Name": "Ranged Weapon",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1232
+      "UsersEstimate": 1213
     },
     {
       "ID": "GetTHWeapon",
@@ -3042,7 +3047,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1114
+      "UsersEstimate": 1115
     },
     {
       "ID": "Kill25Bugs",
@@ -3066,7 +3071,7 @@
       "Name": "Defeat 25 Mozis",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 938
+      "UsersEstimate": 939
     },
     {
       "ID": "MeetTheMoles",
@@ -3074,7 +3079,7 @@
       "Name": "Meet the Creatures from the Deep",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "MysteryKingsChamber",
@@ -3090,7 +3095,7 @@
       "Name": "Kitchen Ready To Cook",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 938
+      "UsersEstimate": 939
     },
     {
       "ID": "RepairSmith",
@@ -3098,7 +3103,7 @@
       "Name": "Smithy Ready to Craft",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 899
+      "UsersEstimate": 900
     },
     {
       "ID": "RepairThroneRoom",
@@ -3106,7 +3111,7 @@
       "Name": "Throne Room Fit For A King",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "RescueBrothers",
@@ -3114,7 +3119,7 @@
       "Name": "Rescue Redgi\u0027s Brothers",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1036
+      "UsersEstimate": 1037
     },
     {
       "ID": "ReturnPowerInMines",
@@ -3122,29 +3127,29 @@
       "Name": "Return Power To The Depths",
       "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     }
   ],
   "AchievementSets": [
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1955,
+      "Progressed": 1956,
       "Completed": 9
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 596,
-      "Completed": 596
+      "Progressed": 597,
+      "Completed": 597
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-10-09T14:58:48.9405433+00:00",
-  "LastChanged_Achievements": "2023-10-12T15:07:21.4678784+00:00",
+  "LastChanged_Achievements": "2023-10-12T16:06:44.2512459+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:43.6337882+00:00",
-  "LastUpdate_Ratings": "2023-10-12T15:01:21.1553709+00:00",
-  "LastUpdate_Achievements": "2023-10-12T15:07:21.4679233+00:00"
+  "LastUpdate_Ratings": "2023-10-12T16:00:33.9018187+00:00",
+  "LastUpdate_Achievements": "2023-10-12T16:06:44.2512822+00:00"
 }

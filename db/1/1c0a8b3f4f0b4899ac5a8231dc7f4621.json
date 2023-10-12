@@ -4,8 +4,8 @@
   "ProductSlug": "creatura-270265",
   "Ranking_EOS_Progress": 667,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 394,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 395,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-09-08T19:00:00+00:00",
     "PcReleaseDate": "2021-03-31T17:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-10T20:57:16.3449487+00:00",
-  "LastUpdate_Ratings": "2023-10-12T14:58:35.320195+00:00",
-  "LastUpdate_Achievements": "2023-10-12T15:03:41.0682713+00:00"
+  "LastUpdate_Ratings": "2023-10-12T15:58:12.4827141+00:00",
+  "LastUpdate_Achievements": "2023-10-12T16:03:34.5232442+00:00"
 }

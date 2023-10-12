@@ -51,6 +51,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Zoroastrianism | 0.80% | ~117 |
 | Kushite Pyramids | 0.80% | ~117 |
 | Great | 0.70% | ~102 |
+| Artisans | 0.70% | ~102 |
 | Furious Family | 0.70% | ~102 |
 | Musaeum | 0.70% | ~102 |
 | Necropolis | 0.70% | ~102 |
@@ -62,13 +63,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Valiant | 0.60% | ~88 |
 | Legendary Cities | 0.60% | ~88 |
 | Just Difficulty | 0.60% | ~88 |
-| Artisans | 0.60% | ~88 |
 | Champions | 0.60% | ~88 |
 | Sages | 0.60% | ~88 |
 | Apadana | 0.60% | ~88 |
 | Colossus | 0.60% | ~88 |
 | Mausoleum | 0.60% | ~88 |
 | Mythology | 0.60% | ~88 |
+| Win a Single Player Game | 0.60% | ~88 |
 | Hanging Gardens in Babylon | 0.50% | ~73 |
 | Beloved | 0.50% | ~73 |
 | Conqueror | 0.50% | ~73 |
@@ -80,7 +81,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 3 | 0.50% | ~73 |
 | Power to the People | 0.50% | ~73 |
 | Building Wonders | 0.50% | ~73 |
-| Win a Single Player Game | 0.50% | ~73 |
 | Invincible | 0.40% | ~58 |
 | Lion | 0.40% | ~58 |
 | Subjugator | 0.40% | ~58 |

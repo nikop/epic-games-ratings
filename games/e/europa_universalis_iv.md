@@ -6,32 +6,32 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,147 |
-| Until death do us apart | 4.00% | ~17,147 |
-| That is mine! | 3.00% | ~12,860 |
-| Victorious! | 3.00% | ~12,860 |
-| Brothers in Arms | 2.00% | ~8,573 |
-| Cold War | 2.00% | ~8,573 |
-| For the Glory | 2.00% | ~8,573 |
-| That's a Grand Navy | 2.00% | ~8,573 |
-| Seriously?! | 2.00% | ~8,573 |
+| That's a Grand Army | 4.00% | ~17,149 |
+| Until death do us apart | 4.00% | ~17,149 |
+| That is mine! | 3.00% | ~12,862 |
+| Victorious! | 3.00% | ~12,862 |
+| Brothers in Arms | 2.00% | ~8,575 |
+| Cold War | 2.00% | ~8,575 |
+| For the Glory | 2.00% | ~8,575 |
+| That's a Grand Navy | 2.00% | ~8,575 |
+| Seriously?! | 2.00% | ~8,575 |
 | Defender of the Faith | 1.00% | ~4,287 |
 | It's all about the money | 1.00% | ~4,287 |
 | Respected | 1.00% | ~4,287 |
 | The Princess is in this Castle | 1.00% | ~4,287 |
 | True Catholic | 1.00% | ~4,287 |
 | Truly Divine Ruler | 1.00% | ~4,287 |
-| It's all about luck | 0.90% | ~3,858 |
-| Blockader | 0.80% | ~3,429 |
-| Double the Love | 0.80% | ~3,429 |
-| Royal Authority | 0.80% | ~3,429 |
-| Total Control | 0.80% | ~3,429 |
+| It's all about luck | 0.90% | ~3,859 |
+| Blockader | 0.80% | ~3,430 |
+| Double the Love | 0.80% | ~3,430 |
+| Royal Authority | 0.80% | ~3,430 |
+| Total Control | 0.80% | ~3,430 |
 | My armies are invincible! | 0.70% | ~3,001 |
-| Agressive Expander | 0.50% | ~2,143 |
-| Azur semé de lis or | 0.50% | ~2,143 |
-| City of Cities | 0.50% | ~2,143 |
-| Combined Arms | 0.50% | ~2,143 |
-| This navy can take it all | 0.50% | ~2,143 |
+| Agressive Expander | 0.50% | ~2,144 |
+| Azur semé de lis or | 0.50% | ~2,144 |
+| City of Cities | 0.50% | ~2,144 |
+| Combined Arms | 0.50% | ~2,144 |
+| This navy can take it all | 0.50% | ~2,144 |
 | Bright Spark | 0.40% | ~1,715 |
 | Factionalism | 0.40% | ~1,715 |
 | Gentle Persuasion | 0.40% | ~1,715 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 428,672 (Ranked 40)  
+Progressed: 428,728 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -536,18 +536,18 @@ Completed: 1 (0.00%) (Ranked 314)
 | 2023-10-09 | 426,888 | 1 |
 | 2023-10-10 | 427,588 | 1 |
 | 2023-10-11 | 428,261 | 1 |
-| 2023-10-12 | 428,672 | 1 |
+| 2023-10-12 | 428,728 | 1 |
 ## Awards
 Max (Educational): 6,479  (Ranked 55)  
-Sum: 53,304 (Ranked 24)  
+Sum: 53,328 (Ranked 24)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 6,479 |
 | This game is Highly Recommended | 6,183 |
 | This game has Diverse Characters | 6,160 |
-| This game has Challenging Combat | 6,119 |
-| This game is Extremely Fun | 6,107 |
+| This game has Challenging Combat | 6,129 |
+| This game is Extremely Fun | 6,121 |
 | This game is Relaxing | 5,997 |
 | This game has Competitive Players | 5,812 |
 | This game has Amazing Storytelling | 5,420 |
@@ -824,4 +824,4 @@ Diff (max vs sum): 31
 | 2023-10-09 | 4.69 | - | 6,454 | 53,084 |
 | 2023-10-10 | 4.69 | - | 6,464 | 53,176 |
 | 2023-10-11 | 4.69 | - | 6,479 | 53,243 |
-| 2023-10-12 | 4.69 | - | 6,479 | 53,304 |
+| 2023-10-12 | 4.69 | - | 6,479 | 53,328 |

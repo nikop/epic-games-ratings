@@ -2,8 +2,8 @@
   "ID": "0f4a57443f904107818acfc2068704f9",
   "Name": "Warhammer Age of Sigmar: Realms of Ruin",
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
-  "Ranking_EOS_Progress": 468,
-  "Ranking_EOS_Completed": 86,
+  "Ranking_EOS_Progress": 466,
+  "Ranking_EOS_Completed": 89,
   "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
@@ -18,11 +18,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 31,
+  "EOS_Progressed": 32,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.23,
+  "EOS_Completed_Percentage": 3.12,
   "EosHistory": [
     {
       "Time": "2023-10-05T10:07:12.2760178+00:00",
@@ -123,6 +123,11 @@
       "Time": "2023-10-12T15:06:55.8489472+00:00",
       "NumProgressed": 31,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-12T16:06:22.6806064+00:00",
+      "NumProgressed": 32,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -141,9 +146,9 @@
       "ID": "Capture100Conduits",
       "SetID": "52ail55",
       "Name": "Territorial",
-      "Percentage": 19,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "Capture100VictoryPoints",
@@ -189,153 +194,153 @@
       "ID": "CompleteChapter1",
       "SetID": "52ail55",
       "Name": "Pathfinder",
-      "Percentage": 26,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "CompleteChapter10",
       "SetID": "52ail55",
       "Name": "You da Boss, Now",
-      "Percentage": 6,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "CompleteChapter11",
       "SetID": "52ail55",
       "Name": "The Artefact is Mine",
-      "Percentage": 10,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "CompleteChapter12",
       "SetID": "52ail55",
       "Name": "Grumblin\u0027 Bellies",
-      "Percentage": 13,
-      "XP": 5,
-      "UsersEstimate": 4
-    },
-    {
-      "ID": "CompleteChapter13",
-      "SetID": "52ail55",
-      "Name": "Slaughter and Siege wiv da Squeeze",
-      "Percentage": 13,
-      "XP": 5,
-      "UsersEstimate": 4
-    },
-    {
-      "ID": "CompleteChapter14",
-      "SetID": "52ail55",
-      "Name": "For Harkanibus!",
-      "Percentage": 10,
-      "XP": 5,
-      "UsersEstimate": 3
-    },
-    {
-      "ID": "CompleteChapter15",
-      "SetID": "52ail55",
-      "Name": "The Great Scheme",
-      "Percentage": 10,
-      "XP": 5,
-      "UsersEstimate": 3
-    },
-    {
-      "ID": "CompleteChapter16",
-      "SetID": "52ail55",
-      "Name": "Our Own Miracle",
-      "Percentage": 13,
-      "XP": 5,
-      "UsersEstimate": 4
-    },
-    {
-      "ID": "CompleteChapter17",
-      "SetID": "52ail55",
-      "Name": "Fool\u0027s Errand",
-      "Percentage": 13,
-      "XP": 5,
-      "UsersEstimate": 4
-    },
-    {
-      "ID": "CompleteChapter17NoIdenDeath",
-      "SetID": "52ail55",
-      "Name": "Who Needs Reinforcements?",
-      "Percentage": 10,
-      "XP": 50,
-      "UsersEstimate": 3
-    },
-    {
-      "ID": "CompleteChapter18",
-      "SetID": "52ail55",
-      "Name": "The Might of Sigmar\u0027s Warriors",
-      "Percentage": 10,
-      "XP": 5,
-      "UsersEstimate": 3
-    },
-    {
-      "ID": "CompleteChapter2",
-      "SetID": "52ail55",
-      "Name": "Met the Enemy",
-      "Percentage": 16,
-      "XP": 5,
-      "UsersEstimate": 5
-    },
-    {
-      "ID": "CompleteChapter3",
-      "SetID": "52ail55",
-      "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
-      "Percentage": 23,
-      "XP": 5,
-      "UsersEstimate": 7
-    },
-    {
-      "ID": "CompleteChapter4",
-      "SetID": "52ail55",
-      "Name": "Servant of the Blue Raven",
-      "Percentage": 23,
-      "XP": 5,
-      "UsersEstimate": 7
-    },
-    {
-      "ID": "CompleteChapter5",
-      "SetID": "52ail55",
-      "Name": "Breathing Easy",
       "Percentage": 19,
       "XP": 5,
       "UsersEstimate": 6
     },
     {
-      "ID": "CompleteChapter6",
+      "ID": "CompleteChapter13",
       "SetID": "52ail55",
-      "Name": "More Waagh, More Problems",
+      "Name": "Slaughter and Siege wiv da Squeeze",
+      "Percentage": 19,
+      "XP": 5,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "CompleteChapter14",
+      "SetID": "52ail55",
+      "Name": "For Harkanibus!",
       "Percentage": 16,
       "XP": 5,
       "UsersEstimate": 5
     },
     {
+      "ID": "CompleteChapter15",
+      "SetID": "52ail55",
+      "Name": "The Great Scheme",
+      "Percentage": 16,
+      "XP": 5,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "CompleteChapter16",
+      "SetID": "52ail55",
+      "Name": "Our Own Miracle",
+      "Percentage": 19,
+      "XP": 5,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "CompleteChapter17",
+      "SetID": "52ail55",
+      "Name": "Fool\u0027s Errand",
+      "Percentage": 19,
+      "XP": 5,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "CompleteChapter17NoIdenDeath",
+      "SetID": "52ail55",
+      "Name": "Who Needs Reinforcements?",
+      "Percentage": 16,
+      "XP": 50,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "CompleteChapter18",
+      "SetID": "52ail55",
+      "Name": "The Might of Sigmar\u0027s Warriors",
+      "Percentage": 16,
+      "XP": 5,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "CompleteChapter2",
+      "SetID": "52ail55",
+      "Name": "Met the Enemy",
+      "Percentage": 22,
+      "XP": 5,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "CompleteChapter3",
+      "SetID": "52ail55",
+      "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
+      "Percentage": 28,
+      "XP": 5,
+      "UsersEstimate": 9
+    },
+    {
+      "ID": "CompleteChapter4",
+      "SetID": "52ail55",
+      "Name": "Servant of the Blue Raven",
+      "Percentage": 28,
+      "XP": 5,
+      "UsersEstimate": 9
+    },
+    {
+      "ID": "CompleteChapter5",
+      "SetID": "52ail55",
+      "Name": "Breathing Easy",
+      "Percentage": 25,
+      "XP": 5,
+      "UsersEstimate": 8
+    },
+    {
+      "ID": "CompleteChapter6",
+      "SetID": "52ail55",
+      "Name": "More Waagh, More Problems",
+      "Percentage": 22,
+      "XP": 5,
+      "UsersEstimate": 7
+    },
+    {
       "ID": "CompleteChapter7",
       "SetID": "52ail55",
       "Name": "First to be Forged, Never to Fail!",
-      "Percentage": 13,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "CompleteChapter8",
       "SetID": "52ail55",
       "Name": "Troggoff Troubles",
-      "Percentage": 13,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "CompleteChapter9",
       "SetID": "52ail55",
       "Name": "Ingredients List",
-      "Percentage": 10,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "CompleteConquestKruleboyz",
@@ -381,9 +386,9 @@
       "ID": "Defeat250Units",
       "SetID": "52ail55",
       "Name": "Feeding Shyish",
-      "Percentage": 23,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "Win100OnlineMatched",
@@ -397,7 +402,7 @@
       "ID": "Win10BonusConquestBattles",
       "SetID": "52ail55",
       "Name": "No Corner Unclaimed",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -405,17 +410,17 @@
       "ID": "Win1OnlineMatched",
       "SetID": "52ail55",
       "Name": "Bloodied Hammer",
-      "Percentage": 32,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 13
     },
     {
       "ID": "Win50ConquestBattles",
       "SetID": "52ail55",
       "Name": "Warmaster Supreme",
-      "Percentage": 16,
+      "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "WinAllConquestBattlesInARun",
@@ -430,13 +435,13 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 31,
+      "Progressed": 32,
       "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-10-12T15:06:55.8489467+00:00",
+  "LastChanged_Achievements": "2023-10-12T16:06:22.6806059+00:00",
   "LastUpdate_AppInfo": "2023-10-06T03:57:12.3370257+00:00",
-  "LastUpdate_Ratings": "2023-10-12T14:59:57.8116448+00:00",
-  "LastUpdate_Achievements": "2023-10-12T15:06:55.848974+00:00"
+  "LastUpdate_Ratings": "2023-10-12T15:59:25.020042+00:00",
+  "LastUpdate_Achievements": "2023-10-12T16:06:22.6806374+00:00"
 }

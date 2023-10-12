@@ -1,7 +1,7 @@
 # Ken Follett's The Pillars of the Earth
 [Store](https://store.epicgames.com/en-US/p/ken-follets-the-pillars-of-the-earth)  
 [View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
-Rating: 4.51 (Ranked 551)  
+Rating: 4.51 (Ranked 550)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -28,13 +28,13 @@ Number of Ratings: 368  (23.09.2022)
 | Good midwife | 11.00% | ~1,726 |
 | Friar Tuck | 11.00% | ~1,726 |
 | First profit | 11.00% | ~1,726 |
-| Team player | 10.00% | ~1,569 |
-| Skilled merchant | 9.00% | ~1,412 |
-| Nothing but make-believe | 9.00% | ~1,412 |
-| Brother Marcus | 9.00% | ~1,412 |
-| The oath | 9.00% | ~1,412 |
-| The truth revealed | 9.00% | ~1,412 |
-| The End. | 9.00% | ~1,412 |
+| Team player | 10.00% | ~1,570 |
+| Skilled merchant | 9.00% | ~1,413 |
+| Nothing but make-believe | 9.00% | ~1,413 |
+| Brother Marcus | 9.00% | ~1,413 |
+| The oath | 9.00% | ~1,413 |
+| The truth revealed | 9.00% | ~1,413 |
+| The End. | 9.00% | ~1,413 |
 | A cry for help | 8.00% | ~1,256 |
 | Silentium est aureum | 7.00% | ~1,099 |
 | Rebel without a cause | 6.00% | ~942 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~471 |
 | Boy of mystery | 2.00% | ~314 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,694 (Ranked 133)  
+Progressed: 15,695 (Ranked 133)  
 Completed: 113 (0.72%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 113 (0.72%) (Ranked 156)
 | 2023-10-09 | 15,653 | 113 |
 | 2023-10-10 | 15,670 | 113 |
 | 2023-10-11 | 15,686 | 113 |
-| 2023-10-12 | 15,694 | 113 |
+| 2023-10-12 | 15,695 | 113 |
 ## Awards
 Max (Easy Puzzles): 151  (Ranked 307)  
 Sum: 193 (Ranked 388)  

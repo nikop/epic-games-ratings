@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -5677,9 +5677,9 @@
       "ID": "ACH_KNIFE_GENE",
       "SetID": "cdkbb11",
       "Name": "Don\u0027t Knife The Hand That Feeds",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 169
+      "UsersEstimate": 194
     },
     {
       "ID": "ACH_MOPLET_BOSS",
@@ -5852,8 +5852,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-07T05:03:09.4311759+00:00",
-  "LastChanged_Achievements": "2023-10-12T15:05:03.2531902+00:00",
+  "LastChanged_Achievements": "2023-10-12T16:04:46.3559724+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:51.1168375+00:00",
-  "LastUpdate_Ratings": "2023-10-12T15:00:08.9713591+00:00",
-  "LastUpdate_Achievements": "2023-10-12T15:05:03.2532667+00:00"
+  "LastUpdate_Ratings": "2023-10-12T15:59:34.8397644+00:00",
+  "LastUpdate_Achievements": "2023-10-12T16:04:46.3560418+00:00"
 }

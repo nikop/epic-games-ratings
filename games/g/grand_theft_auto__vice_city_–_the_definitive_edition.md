@@ -29,10 +29,10 @@ Rating: 4.54 (Ranked 510)
 | Somebody Call the Wambulance? | 3.00% | ~318 |
 | Just Like the Real Thing | 3.00% | ~318 |
 | Don't Need Roads | 3.00% | ~318 |
+| City Sleuth | 3.00% | ~318 |
 | One is Better Than Two | 2.00% | ~212 |
 | Take the Cannoli | 2.00% | ~212 |
 | Chopper’d Up | 2.00% | ~212 |
-| City Sleuth | 2.00% | ~212 |
 | Born in the 80’s | 1.00% | ~106 |
 | Keepie-Uppy Okie Dokie | 1.00% | ~106 |
 | I'm Famous! | 1.00% | ~106 |

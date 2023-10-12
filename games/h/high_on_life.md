@@ -10,9 +10,9 @@ Rating: 4.64 (Ranked 320)
 | First Bounty Down | 0.80% | ~194 |
 | G3 Graduation | 0.80% | ~194 |
 | Cold-Blooded Driller | 0.80% | ~194 |
+| Don't Knife The Hand That Feeds | 0.80% | ~194 |
 | Are You Packin'? | 0.70% | ~169 |
 | Who's The Boss? | 0.70% | ~169 |
-| Don't Knife The Hand That Feeds | 0.70% | ~169 |
 | Creature Feature | 0.60% | ~145 |
 | Bring A Knife to a Gun Fight | 0.60% | ~145 |
 | RIP Davey Glutes | 0.60% | ~145 |

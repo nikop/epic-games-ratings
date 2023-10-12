@@ -4,8 +4,8 @@
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 82,
-  "Ranking_EOS_NewPlayers": 286,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
     "PcReleaseDate": "2020-03-31T05:00:00+00:00",
@@ -762,9 +762,9 @@
       "ID": "free_champagne",
       "SetID": "d4f4pll",
       "Name": "Free Champagne",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 25,
-      "UsersEstimate": 272
+      "UsersEstimate": 277
     },
     {
       "ID": "kamikaze",
@@ -818,9 +818,9 @@
       "ID": "tough_decision",
       "SetID": "d4f4pll",
       "Name": "Tough Decision",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 50,
-      "UsersEstimate": 526
+      "UsersEstimate": 532
     }
   ],
   "AchievementSets": [
@@ -835,8 +835,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-10-12T15:07:51.3027842+00:00",
+  "LastChanged_Achievements": "2023-10-12T16:07:09.7403462+00:00",
   "LastUpdate_AppInfo": "2023-10-07T11:57:10.2608398+00:00",
-  "LastUpdate_Ratings": "2023-10-12T14:59:47.4455196+00:00",
-  "LastUpdate_Achievements": "2023-10-12T15:07:51.3028063+00:00"
+  "LastUpdate_Ratings": "2023-10-12T15:59:13.8128535+00:00",
+  "LastUpdate_Achievements": "2023-10-12T16:07:09.7403651+00:00"
 }

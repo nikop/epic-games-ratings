@@ -4,7 +4,7 @@
   "ProductSlug": "redraptor-71deb7",
   "Ranking_EOS_Progress": 584,
   "Ranking_EOS_Completed": 3,
-  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewPlayers": 395,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-10-11T12:00:00+00:00",
@@ -138,8 +138,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-18T15:02:16.3526142+00:00",
-  "LastChanged_Achievements": "2023-10-12T15:03:30.1341807+00:00",
+  "LastChanged_Achievements": "2023-10-12T16:03:25.1808013+00:00",
   "LastUpdate_AppInfo": "2023-10-09T15:57:18.9454099+00:00",
-  "LastUpdate_Ratings": "2023-10-12T14:59:30.4203001+00:00",
-  "LastUpdate_Achievements": "2023-10-12T15:03:30.1341967+00:00"
+  "LastUpdate_Ratings": "2023-10-12T15:58:59.6408555+00:00",
+  "LastUpdate_Achievements": "2023-10-12T16:03:25.1808149+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "e6059b123f9045878919974afd435691",
   "Name": "Chased by Darkness",
   "ProductSlug": "chased-by-darkness-d00d26",
-  "Ranking_EOS_Progress": 241,
+  "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 235,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 861,
+  "EOS_Progressed": 862,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2076,6 +2076,11 @@
       "Time": "2023-10-10T15:05:59.8659614+00:00",
       "NumProgressed": 861,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-12T16:06:15.9524352+00:00",
+      "NumProgressed": 862,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2087,7 +2092,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -2095,7 +2100,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -2159,7 +2164,7 @@
       "Name": "Capraphobia",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -2285,9 +2290,9 @@
       "ID": "DUCHESS_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Greetings from Royalty",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 284
+      "UsersEstimate": 276
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -2359,7 +2364,7 @@
       "Name": "Pest Control or Taxonomist?",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "KILLR_ACHIEVEMENT_1",
@@ -2383,7 +2388,7 @@
       "Name": "Decakill!",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -2447,7 +2452,7 @@
       "Name": "Don\u0027t Turn Your Back",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -2455,7 +2460,7 @@
       "Name": "1, 2, 3! Grandma!",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "MARY_ACHIEVEMENT_1",
@@ -2463,7 +2468,7 @@
       "Name": "Hostage of the Elderly",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -2479,7 +2484,7 @@
       "Name": "Night Snack",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -2535,7 +2540,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -2614,14 +2619,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 861,
+      "Progressed": 862,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-10-12T15:06:47.8233326+00:00",
+  "LastChanged_Achievements": "2023-10-12T16:06:15.9524349+00:00",
   "LastUpdate_AppInfo": "2023-10-05T20:57:12.9487142+00:00",
-  "LastUpdate_Ratings": "2023-10-12T15:00:08.3993964+00:00",
-  "LastUpdate_Achievements": "2023-10-12T15:06:47.8234089+00:00"
+  "LastUpdate_Ratings": "2023-10-12T15:59:34.2188556+00:00",
+  "LastUpdate_Achievements": "2023-10-12T16:06:15.9525152+00:00"
 }
