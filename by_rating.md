@@ -82,7 +82,7 @@
 | 76 | [The Messenger](games/t/the_messenger.md) | 4.81 | 339 | 233 |
 | 76 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 0 | 532 |
 | 82 | [Aground](games/a/aground.md) | 4.80 | 0 | 532 |
-| 82 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,459 | 56 |
+| 82 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,460 | 56 |
 | 82 | [Huntdown](games/h/huntdown.md) | 4.80 | 0 | 532 |
 | 82 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.80 | 0 | 532 |
 | 82 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,487 | 103 |
@@ -108,7 +108,7 @@
 | 99 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.78 | 0 | 532 |
 | 99 | [Sailing Era](games/s/sailing_era.md) | 4.78 | 0 | 532 |
 | 99 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 42 | 434 |
-| 99 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 951 | 153 |
+| 99 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 952 | 153 |
 | 99 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 532 |
 | 99 | [Wildermyth](games/w/wildermyth.md) | 4.78 | 28 | 481 |
 | 112 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 6,048 | 60 |
@@ -242,7 +242,7 @@
 | 221 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 22 | 515 |
 | 221 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 833 | 159 |
 | 242 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,367 | 91 |
-| 242 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 3,644 | 87 |
+| 242 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 3,655 | 87 |
 | 242 | [Bad North](games/b/bad_north.md) | 4.68 | 0 | 532 |
 | 242 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 70 | 388 |
 | 242 | [Black Book](games/b/black_book.md) | 4.68 | 72 | 385 |
@@ -490,7 +490,7 @@
 | 471 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 4.56 | 0 | 532 |
 | 471 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.56 | 31 | 471 |
 | 471 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.56 | 0 | 532 |
-| 471 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 4,615 | 76 |
+| 471 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 4,623 | 76 |
 | 492 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.55 | 0 | 532 |
 | 492 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 532 |
 | 492 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.55 | 0 | 532 |
