@@ -22,9 +22,9 @@ Rating: 4.76 (Ranked 119)
 | Followed the Butterflies | 9.00% | ~26,837 |
 | The Spell Master | 9.00% | ~26,837 |
 | Rising From the Ashes | 9.00% | ~26,837 |
-| The Avenging Gazelle | 8.00% | ~23,855 |
-| A Sallow Grave | 8.00% | ~23,855 |
-| Flight the Good Flight | 8.00% | ~23,855 |
+| The Avenging Gazelle | 8.00% | ~23,856 |
+| A Sallow Grave | 8.00% | ~23,856 |
+| Flight the Good Flight | 8.00% | ~23,856 |
 | Beast Friends | 7.00% | ~20,874 |
 | The Seeker of Knowledge | 6.00% | ~17,892 |
 | The Root of the Problem | 6.00% | ~17,892 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 119)
 | The Nature of the Beast | 0.70% | ~2,087 |
 | Collector's Edition | 0.30% | ~895 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,193 (Ranked 46)  
+Progressed: 298,194 (Ranked 46)  
 Completed: 484 (0.16%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,10 +226,10 @@ Completed: 484 (0.16%) (Ranked 231)
 | 2023-10-09 | 298,106 | 482 |
 | 2023-10-10 | 298,150 | 483 |
 | 2023-10-11 | 298,177 | 483 |
-| 2023-10-12 | 298,193 | 484 |
+| 2023-10-12 | 298,194 | 484 |
 ## Awards
 Max (Character Customization): 23,447  (Ranked 17)  
-Sum: 45,633 (Ranked 31)  
+Sum: 45,638 (Ranked 31)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -244,7 +244,7 @@ Diff (max vs sum): -14
 | This game is Highly Recommended | 1,069 |
 | This game has Quickly Understood Controls | 1,006 |
 | This game has Beautiful Visuals | 935 |
-| This game has a Creative Community | 705 |
+| This game has a Creative Community | 710 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -450,4 +450,4 @@ Diff (max vs sum): -14
 | 2023-10-09 | 4.76 | 23,405 | 45,477 |
 | 2023-10-10 | 4.76 | 23,430 | 45,548 |
 | 2023-10-11 | 4.76 | 23,447 | 45,619 |
-| 2023-10-12 | 4.76 | 23,447 | 45,633 |
+| 2023-10-12 | 4.76 | 23,447 | 45,638 |

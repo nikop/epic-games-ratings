@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You have three wishes left | 85.00% | ~22 |
-| Master trainee | 81.00% | ~21 |
-| Jung's dream | 69.00% | ~18 |
-| The battle of Great Britain | 58.00% | ~15 |
-| Giant | 46.00% | ~12 |
-| A rival with no options | 42.00% | ~11 |
-| Pulp! Where Monsters Dwell | 42.00% | ~11 |
-| A continent with chemistry | 42.00% | ~11 |
-| The happy farmer girl | 42.00% | ~11 |
-| Pulp! Terror Tales in the Night | 35.00% | ~9 |
-| The seer | 31.00% | ~8 |
-| Pulp! Out of this World | 31.00% | ~8 |
-| Pulp! Adventures into the Unknown | 31.00% | ~8 |
-| Kirlian's best disciple | 31.00% | ~8 |
-| Diagnosis: fear | 31.00% | ~8 |
-| Ambition is... blind | 31.00% | ~8 |
-| You have two wishes left | 31.00% | ~8 |
-| The artist | 27.00% | ~7 |
-| You had one wish left | 23.00% | ~6 |
-| Et in arcadia ego | 23.00% | ~6 |
-| Welcome to Hellville | 23.00% | ~6 |
+| You have three wishes left | 85.00% | ~23 |
+| Master trainee | 81.00% | ~22 |
+| Jung's dream | 70.00% | ~19 |
+| The battle of Great Britain | 56.00% | ~15 |
+| Giant | 44.00% | ~12 |
+| A rival with no options | 41.00% | ~11 |
+| Pulp! Where Monsters Dwell | 41.00% | ~11 |
+| A continent with chemistry | 41.00% | ~11 |
+| The happy farmer girl | 41.00% | ~11 |
+| Pulp! Terror Tales in the Night | 33.00% | ~9 |
+| Kirlian's best disciple | 33.00% | ~9 |
+| The seer | 30.00% | ~8 |
+| Pulp! Out of this World | 30.00% | ~8 |
+| Pulp! Adventures into the Unknown | 30.00% | ~8 |
+| Diagnosis: fear | 30.00% | ~8 |
+| Ambition is... blind | 30.00% | ~8 |
+| You have two wishes left | 30.00% | ~8 |
+| The artist | 26.00% | ~7 |
+| You had one wish left | 22.00% | ~6 |
+| Et in arcadia ego | 22.00% | ~6 |
+| Welcome to Hellville | 22.00% | ~6 |
 | You've awakened the beast | 19.00% | ~5 |
 | Hate is... addictive | 19.00% | ~5 |
 | Blessed antennas | 19.00% | ~5 |
@@ -38,10 +38,10 @@
 | America had no Faith | 19.00% | ~5 |
 | The bully | 15.00% | ~4 |
 | The scholar | 15.00% | ~4 |
-| Pulp! Tales from the Crypt | 12.00% | ~3 |
-| Pulp! True Adventures | 12.00% | ~3 |
-| ECO mode | 12.00% | ~3 |
-| Vaccine fans | 8.00% | ~2 |
+| Pulp! Tales from the Crypt | 11.00% | ~3 |
+| Pulp! True Adventures | 11.00% | ~3 |
+| ECO mode | 11.00% | ~3 |
+| Vaccine fans | 7.00% | ~2 |
 | Pulp! Heart Throbs | 4.00% | ~1 |
 | Thirst for Oleum | 4.00% | ~1 |
 | A new Hindenburg | 4.00% | ~1 |
@@ -52,7 +52,7 @@
 | Pulp! The Vault of Horror | 0.00% | ~0 |
 | Troy is burning! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26 (Ranked 472)  
+Progressed: 27 (Ranked 471)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,3 +66,4 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-10-09 | 22 | 0 |
 | 2023-10-10 | 24 | 0 |
 | 2023-10-11 | 26 | 0 |
+| 2023-10-12 | 27 | 0 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3488,10 +3488,10 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73436,
-  "EOS_Completed": 120,
+  "EOS_Progressed": 73437,
+  "EOS_Completed": 121,
   "EOS_NewPlayers": 275,
-  "EOS_NewCompleters": 0,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
     {
@@ -18433,6 +18433,11 @@
       "Time": "2023-10-12T08:03:51.1814361+00:00",
       "NumProgressed": 73436,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-10-12T13:09:31.8979901+00:00",
+      "NumProgressed": 73437,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 61,
@@ -18492,7 +18497,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16890
+      "UsersEstimate": 16891
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -18532,7 +18537,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11015
+      "UsersEstimate": 11016
     },
     {
       "ID": "CHALLENGES_1",
@@ -18556,7 +18561,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13218
+      "UsersEstimate": 13219
     },
     {
       "ID": "CLAYFACE_3",
@@ -18668,7 +18673,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21296
+      "UsersEstimate": 21297
     },
     {
       "ID": "FREEZE_1_5",
@@ -18836,7 +18841,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24968
+      "UsersEstimate": 24969
     },
     {
       "ID": "MYSTERY_02",
@@ -18852,7 +18857,7 @@
       "Name": "Lock and Key",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16890
+      "UsersEstimate": 16891
     },
     {
       "ID": "MYSTERY_04",
@@ -18868,7 +18873,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13218
+      "UsersEstimate": 13219
     },
     {
       "ID": "MYSTERY_06",
@@ -18876,7 +18881,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11015
+      "UsersEstimate": 11016
     },
     {
       "ID": "MYSTERY_07",
@@ -18931,13 +18936,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73436,
-      "Completed": 120
+      "Progressed": 73437,
+      "Completed": 121
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43716,
+      "Progressed": 43717,
       "Completed": 2666
     }
   ],
@@ -18945,8 +18950,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-12T11:57:30.9478237+00:00",
-  "LastChanged_Achievements": "2023-10-12T12:04:24.0563702+00:00",
+  "LastChanged_Achievements": "2023-10-12T13:09:31.8979892+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:31.3761181+00:00",
-  "LastUpdate_Ratings": "2023-10-12T11:57:30.9478242+00:00",
-  "LastUpdate_Achievements": "2023-10-12T12:04:24.056505+00:00"
+  "LastUpdate_Ratings": "2023-10-12T13:02:59.1078253+00:00",
+  "LastUpdate_Achievements": "2023-10-12T13:09:31.8981546+00:00"
 }

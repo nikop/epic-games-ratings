@@ -8806,10 +8806,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 45633,
       "NumberOfAwardsMax": 23447
+    },
+    {
+      "Time": "2023-10-12T13:05:13.9647081+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 45638,
+      "NumberOfAwardsMax": 23447
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 45633,
+  "NumberOfAwards": 45638,
   "NumberOfAwardsMax": 23447,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8883,12 +8889,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 705
+      "Count": 710
     }
   ],
-  "EOS_Progressed": 298193,
+  "EOS_Progressed": 298194,
   "EOS_Completed": 484,
-  "EOS_NewPlayers": 351,
+  "EOS_NewPlayers": 350,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -27666,6 +27672,11 @@
       "Time": "2023-10-12T12:04:29.936999+00:00",
       "NumProgressed": 298193,
       "NumCompleted": 484
+    },
+    {
+      "Time": "2023-10-12T13:09:36.9589502+00:00",
+      "NumProgressed": 298194,
+      "NumCompleted": 484
     }
   ],
   "TotalAchievements": 45,
@@ -27725,7 +27736,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23855
+      "UsersEstimate": 23856
     },
     {
       "ID": "PFA_16",
@@ -27749,7 +27760,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23855
+      "UsersEstimate": 23856
     },
     {
       "ID": "PFA_19",
@@ -27757,7 +27768,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23855
+      "UsersEstimate": 23856
     },
     {
       "ID": "PFA_2",
@@ -28036,16 +28047,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298193,
+      "Progressed": 298194,
       "Completed": 484
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-10-12T12:00:08.6153322+00:00",
-  "LastChanged_Achievements": "2023-10-12T12:04:29.9369983+00:00",
+  "LastChanged": "2023-10-12T13:05:13.964708+00:00",
+  "LastChanged_Achievements": "2023-10-12T13:09:36.9589497+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:01.0338203+00:00",
-  "LastUpdate_Ratings": "2023-10-12T12:00:08.6153329+00:00",
-  "LastUpdate_Achievements": "2023-10-12T12:04:29.9371336+00:00"
+  "LastUpdate_Ratings": "2023-10-12T13:05:13.9647087+00:00",
+  "LastUpdate_Achievements": "2023-10-12T13:09:36.9590959+00:00"
 }

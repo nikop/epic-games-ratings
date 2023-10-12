@@ -4,8 +4,8 @@
   "ProductSlug": "keywe-c3a70e",
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 305,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-04-28T09:00:00+00:00",
     "PcReleaseDate": "2021-08-31T00:00:00+00:00",
@@ -264,9 +264,9 @@
       "ID": "completeOnboarding",
       "SetID": "cfe0fhi",
       "Name": "You\u0027re Hired",
-      "Percentage": 97,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "completeSummer",
@@ -367,8 +367,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.8503401+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:23.8514145+00:00",
   "LastChanged": "2023-03-31T05:58:13.8503402+00:00",
-  "LastChanged_Achievements": "2023-10-12T12:04:14.9108728+00:00",
+  "LastChanged_Achievements": "2023-10-12T13:09:23.8722485+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:24.8011289+00:00",
-  "LastUpdate_Ratings": "2023-10-12T11:57:51.7497617+00:00",
-  "LastUpdate_Achievements": "2023-10-12T12:04:14.9108873+00:00"
+  "LastUpdate_Ratings": "2023-10-12T13:03:17.2612006+00:00",
+  "LastUpdate_Achievements": "2023-10-12T13:09:23.8722654+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 532,
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -114,7 +114,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 75581,
+  "EOS_Progressed": 75583,
   "EOS_Completed": 793,
   "EOS_NewPlayers": 542,
   "EOS_NewCompleters": 9,
@@ -19629,6 +19629,11 @@
       "Time": "2023-10-12T12:03:45.7604643+00:00",
       "NumProgressed": 75581,
       "NumCompleted": 793
+    },
+    {
+      "Time": "2023-10-12T13:09:12.2515+00:00",
+      "NumProgressed": 75583,
+      "NumCompleted": 793
     }
   ],
   "TotalAchievements": 25,
@@ -19712,7 +19717,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 15116
+      "UsersEstimate": 15117
     },
     {
       "ID": "Hearty",
@@ -19742,9 +19747,9 @@
       "ID": "Master, Commander",
       "SetID": "1e8d2nk",
       "Name": "Master, Commander",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 15116
+      "UsersEstimate": 15872
     },
     {
       "ID": "Meaty",
@@ -19760,7 +19765,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 14360
+      "UsersEstimate": 14361
     },
     {
       "ID": "Nice Try",
@@ -19832,14 +19837,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6046
+      "UsersEstimate": 6047
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 75581,
+      "Progressed": 75583,
       "Completed": 793
     }
   ],
@@ -19847,8 +19852,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-10-12T12:03:45.7604634+00:00",
+  "LastChanged_Achievements": "2023-10-12T13:09:12.2514995+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:32.9396838+00:00",
-  "LastUpdate_Ratings": "2023-10-12T11:58:47.973489+00:00",
-  "LastUpdate_Achievements": "2023-10-12T12:03:45.7605962+00:00"
+  "LastUpdate_Ratings": "2023-10-12T13:04:04.4724368+00:00",
+  "LastUpdate_Achievements": "2023-10-12T13:09:12.2516573+00:00"
 }

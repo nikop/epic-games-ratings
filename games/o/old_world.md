@@ -68,6 +68,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Apadana | 0.60% | ~88 |
 | Colossus | 0.60% | ~88 |
 | Mausoleum | 0.60% | ~88 |
+| Mythology | 0.60% | ~88 |
 | Hanging Gardens in Babylon | 0.50% | ~73 |
 | Beloved | 0.50% | ~73 |
 | Conqueror | 0.50% | ~73 |
@@ -79,7 +80,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 3 | 0.50% | ~73 |
 | Power to the People | 0.50% | ~73 |
 | Building Wonders | 0.50% | ~73 |
-| Mythology | 0.50% | ~73 |
 | Win a Single Player Game | 0.50% | ~73 |
 | Invincible | 0.40% | ~58 |
 | Lion | 0.40% | ~58 |
@@ -107,10 +107,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Capable | 0.30% | ~44 |
 | Devout | 0.30% | ~44 |
 | Strong Difficulty | 0.30% | ~44 |
+| Clerics | 0.30% | ~44 |
 | Hunters | 0.30% | ~44 |
 | Statesmen | 0.30% | ~44 |
 | Traders | 0.30% | ~44 |
 | Church of the Holy Sepulchre | 0.30% | ~44 |
+| Learn to Play 5 | 0.30% | ~44 |
 | Babylonia | 0.30% | ~44 |
 | Carthage | 0.30% | ~44 |
 | Egypt | 0.30% | ~44 |
@@ -137,9 +139,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Peacemaker | 0.20% | ~29 |
 | Ready | 0.20% | ~29 |
 | Noble Difficulty | 0.20% | ~29 |
-| Clerics | 0.20% | ~29 |
 | Adur Burzen-Mihr | 0.20% | ~29 |
-| Learn to Play 5 | 0.20% | ~29 |
 | Rome | 0.20% | ~29 |
 | Old World Order | 0.20% | ~29 |
 | Enlightenment | 0.20% | ~29 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,613 (Ranked 134)  
+Progressed: 14,614 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -524,7 +524,7 @@ Completed: 5 (0.03%) (Ranked 283)
 | 2023-10-09 | 14,562 | 5 |
 | 2023-10-10 | 14,586 | 5 |
 | 2023-10-11 | 14,606 | 5 |
-| 2023-10-12 | 14,613 | 5 |
+| 2023-10-12 | 14,614 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,834 (Ranked 210)  

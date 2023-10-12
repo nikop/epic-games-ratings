@@ -3,12 +3,12 @@
   "Name": "Saints Row",
   "ProductSlug": "saints-row",
   "Ranking_Rating": 1001,
-  "Ranking_Popularity": 142,
+  "Ranking_Popularity": 143,
   "Ranking_PopularitySum": 97,
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewPlayers": 71,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
     "PcReleaseDate": "2022-08-23T07:00:00+00:00",
@@ -3798,9 +3798,9 @@
       "Count": 1069
     }
   ],
-  "EOS_Progressed": 74693,
+  "EOS_Progressed": 74696,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 888,
+  "EOS_NewPlayers": 883,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -23478,6 +23478,11 @@
       "Time": "2023-10-12T12:07:04.6432718+00:00",
       "NumProgressed": 74693,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-12T13:11:47.7369124+00:00",
+      "NumProgressed": 74696,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -23521,7 +23526,7 @@
       "Name": "Hijacked",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 8216
+      "UsersEstimate": 8217
     },
     {
       "ID": "collect_high_amount_hero_props",
@@ -23537,7 +23542,7 @@
       "Name": "Finders Keepers",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 18673
+      "UsersEstimate": 18674
     },
     {
       "ID": "complet_epilogue_mission",
@@ -23585,7 +23590,7 @@
       "Name": "The Side Job",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 23155
+      "UsersEstimate": 23156
     },
     {
       "ID": "complete_first_wanted_mission",
@@ -23593,7 +23598,7 @@
       "Name": "Wet Work",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 23902
+      "UsersEstimate": 23903
     },
     {
       "ID": "complete_mission_1",
@@ -23601,7 +23606,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 34359
+      "UsersEstimate": 34360
     },
     {
       "ID": "customize_a_vehicle",
@@ -23609,7 +23614,7 @@
       "Name": "Tune Up",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 24649
+      "UsersEstimate": 24650
     },
     {
       "ID": "customize_a_weapon",
@@ -23617,7 +23622,7 @@
       "Name": "Optimized",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 27636
+      "UsersEstimate": 27638
     },
     {
       "ID": "cutting_edge_materials",
@@ -23657,7 +23662,7 @@
       "Name": "The Spins",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 7469
+      "UsersEstimate": 7470
     },
     {
       "ID": "empire_tier_2",
@@ -23665,7 +23670,7 @@
       "Name": "A Young Empire",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18673
+      "UsersEstimate": 18674
     },
     {
       "ID": "empire_tier_3",
@@ -23681,7 +23686,7 @@
       "Name": "Masters of Santo Ileso",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 8963
+      "UsersEstimate": 8964
     },
     {
       "ID": "empire_tier_5",
@@ -23697,7 +23702,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 23902
+      "UsersEstimate": 23903
     },
     {
       "ID": "fully_complete_a_building",
@@ -23705,7 +23710,7 @@
       "Name": "Work Ethic",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 17179
+      "UsersEstimate": 17180
     },
     {
       "ID": "fully_upgrade_1_vehicle",
@@ -23713,7 +23718,7 @@
       "Name": "The Mechanic",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 7469
+      "UsersEstimate": 7470
     },
     {
       "ID": "fully_upgrade_a_weapon",
@@ -23737,7 +23742,7 @@
       "Name": "Performance Review",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 26889
+      "UsersEstimate": 26891
     },
     {
       "ID": "hit_max_level",
@@ -23769,7 +23774,7 @@
       "Name": "Wrecking Ball",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 20914
+      "UsersEstimate": 20915
     },
     {
       "ID": "kill_tank_driver_with_rail",
@@ -23785,7 +23790,7 @@
       "Name": "Making a Name",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 25396
+      "UsersEstimate": 25397
     },
     {
       "ID": "one_third_purple",
@@ -23801,7 +23806,7 @@
       "Name": "Closet Space",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 5975
+      "UsersEstimate": 5976
     },
     {
       "ID": "prank_coop_partner",
@@ -23841,7 +23846,7 @@
       "Name": "Food for Thought",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 20167
+      "UsersEstimate": 20168
     },
     {
       "ID": "two_thirds_purple",
@@ -23873,7 +23878,7 @@
       "Name": "To The Nines",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 31371
+      "UsersEstimate": 31372
     },
     {
       "ID": "whole_map_purple",
@@ -23905,20 +23910,20 @@
       "Name": "Hazardous Heist",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 2316
+      "UsersEstimate": 2317
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 74693,
+      "Progressed": 74696,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 46330,
+      "Progressed": 46333,
       "Completed": 4085
     }
   ],
@@ -23926,8 +23931,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-10-12T12:01:42.87671+00:00",
-  "LastChanged_Achievements": "2023-10-12T12:07:04.6432713+00:00",
+  "LastChanged_Achievements": "2023-10-12T13:11:47.7369118+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:36.8950193+00:00",
-  "LastUpdate_Ratings": "2023-10-12T12:01:42.8767106+00:00",
-  "LastUpdate_Achievements": "2023-10-12T12:07:04.6434386+00:00"
+  "LastUpdate_Ratings": "2023-10-12T13:08:06.1717141+00:00",
+  "LastUpdate_Achievements": "2023-10-12T13:11:47.7370895+00:00"
 }

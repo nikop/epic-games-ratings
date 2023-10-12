@@ -5,19 +5,19 @@ Rating: 4.48 (Ranked 607)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie No More | 27.00% | ~310 |
-| Increasing your Power Level | 27.00% | ~310 |
+| Rookie No More | 27.00% | ~311 |
+| Increasing your Power Level | 27.00% | ~311 |
 | Enter the Speed Gauntlet | 25.00% | ~288 |
 | I just can't choose | 25.00% | ~288 |
-| A Cheese Grater to the Face | 19.00% | ~218 |
+| A Cheese Grater to the Face | 19.00% | ~219 |
 | Put it on a shelf | 18.00% | ~207 |
 | It's like an haircut | 17.00% | ~196 |
 | Ride in the rising sun | 16.00% | ~184 |
 | Suit up | 16.00% | ~184 |
-| Walked like an Egyptian | 15.00% | ~172 |
+| Walked like an Egyptian | 15.00% | ~173 |
 | Running at the speed of sound | 14.00% | ~161 |
 | Rookie No-No More | 13.00% | ~150 |
-| Martian explorer | 11.00% | ~126 |
+| Martian explorer | 11.00% | ~127 |
 | To the core | 9.00% | ~104 |
 | Blurred photofinish | 9.00% | ~104 |
 | EZ game EZ life | 7.00% | ~81 |
@@ -34,12 +34,12 @@ Rating: 4.48 (Ranked 607)
 | Better luck next time | 4.00% | ~46 |
 | Dev, this! | 4.00% | ~46 |
 | He who laughs last... | 4.00% | ~46 |
-| Try them all | 3.00% | ~34 |
-| A-mazing! | 3.00% | ~34 |
-| To infinity and gravity! | 3.00% | ~34 |
-| One giant drive for mankind | 3.00% | ~34 |
-| It's like a party! | 3.00% | ~34 |
-| Healthy competition | 3.00% | ~34 |
+| Try them all | 3.00% | ~35 |
+| A-mazing! | 3.00% | ~35 |
+| To infinity and gravity! | 3.00% | ~35 |
+| One giant drive for mankind | 3.00% | ~35 |
+| It's like a party! | 3.00% | ~35 |
+| Healthy competition | 3.00% | ~35 |
 | This is to go, even Further Beyond! | 2.00% | ~23 |
 | Gitting Gud | 2.00% | ~23 |
 | [Sweats profusely] | 2.00% | ~23 |
@@ -58,7 +58,7 @@ Rating: 4.48 (Ranked 607)
 | I, need, more, shelves! | 0.40% | ~5 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,150 (Ranked 226)  
+Progressed: 1,151 (Ranked 226)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,6 +170,7 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-10-05 | 1,147 | 0 |
 | 2023-10-06 | 1,148 | 0 |
 | 2023-10-08 | 1,150 | 0 |
+| 2023-10-12 | 1,151 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

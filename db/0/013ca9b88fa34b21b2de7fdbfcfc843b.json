@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -118,9 +118,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6510,
+  "EOS_Progressed": 6511,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 486,
+  "EOS_NewPlayers": 483,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4023,6 +4023,11 @@
       "Time": "2023-10-12T11:03:38.7528138+00:00",
       "NumProgressed": 6510,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-12T13:09:08.6406291+00:00",
+      "NumProgressed": 6511,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -4035,7 +4040,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 4752
+      "UsersEstimate": 4753
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -4043,7 +4048,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 4557
+      "UsersEstimate": 4558
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -4051,7 +4056,7 @@
       "Name": "Calm Sailing",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2278
+      "UsersEstimate": 2279
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -4059,7 +4064,7 @@
       "Name": "Open the Gate!",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2083
+      "UsersEstimate": 2084
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -4131,7 +4136,7 @@
       "Name": "Miner 49er",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 2734
+      "UsersEstimate": 2735
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -4171,7 +4176,7 @@
       "Name": "Humble Collector",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 2669
+      "UsersEstimate": 2670
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -4187,7 +4192,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 3906
+      "UsersEstimate": 3907
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -4314,7 +4319,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 6510,
+      "Progressed": 6511,
       "Completed": 0
     }
   ],
@@ -4322,8 +4327,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-12T12:03:13.8462755+00:00",
-  "LastChanged_Achievements": "2023-10-12T12:03:41.3663454+00:00",
+  "LastChanged_Achievements": "2023-10-12T13:09:08.6406283+00:00",
   "LastUpdate_AppInfo": "2023-10-06T05:57:20.0812213+00:00",
-  "LastUpdate_Ratings": "2023-10-12T12:03:13.8462761+00:00",
-  "LastUpdate_Achievements": "2023-10-12T12:03:41.366397+00:00"
+  "LastUpdate_Ratings": "2023-10-12T13:08:13.0426727+00:00",
+  "LastUpdate_Achievements": "2023-10-12T13:09:08.6406835+00:00"
 }

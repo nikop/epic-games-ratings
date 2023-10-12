@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~9,038 |
-| A Better Idea | 25.00% | ~2,378 |
-| Safety in the Storm | 24.00% | ~2,283 |
-| Begin the Ceremony | 20.00% | ~1,903 |
-| Mission Accomplished | 20.00% | ~1,903 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~1,427 |
-| A Starfighter of Your Own | 14.00% | ~1,332 |
-| Asset Secured | 13.00% | ~1,237 |
-| Unkillable | 8.00% | ~761 |
-| The Galaxy's Finest (Pilot) | 7.00% | ~666 |
-| Sound Strategy | 7.00% | ~666 |
-| Together, Vanguard | 7.00% | ~666 |
-| Stomped | 6.00% | ~571 |
+| Fracture at Fostar Haven | 95.00% | ~9,049 |
+| A Better Idea | 25.00% | ~2,381 |
+| Safety in the Storm | 24.00% | ~2,286 |
+| Begin the Ceremony | 20.00% | ~1,905 |
+| Mission Accomplished | 20.00% | ~1,905 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~1,429 |
+| A Starfighter of Your Own | 14.00% | ~1,334 |
+| Asset Secured | 13.00% | ~1,238 |
+| Unkillable | 8.00% | ~762 |
+| The Galaxy's Finest (Pilot) | 7.00% | ~667 |
+| Sound Strategy | 7.00% | ~667 |
+| Together, Vanguard | 7.00% | ~667 |
+| Stomped | 6.00% | ~572 |
 | Fearless | 5.00% | ~476 |
 | Flames Over Mon Cala | 5.00% | ~476 |
 | A Promising Career | 5.00% | ~476 |
@@ -24,10 +24,10 @@
 | Back From the Brink | 4.00% | ~381 |
 | Temporary Guardian | 4.00% | ~381 |
 | Baited | 4.00% | ~381 |
-| Stronger Together | 3.00% | ~285 |
-| Squadron Hunter | 3.00% | ~285 |
-| Punch It | 3.00% | ~285 |
-| Combat Pilot | 3.00% | ~285 |
+| Stronger Together | 3.00% | ~286 |
+| Squadron Hunter | 3.00% | ~286 |
+| Punch It | 3.00% | ~286 |
+| Combat Pilot | 3.00% | ~286 |
 | Stun 'Em | 2.00% | ~190 |
 | Dressed for the Job You Want | 2.00% | ~190 |
 | I Have You Now | 1.00% | ~95 |
@@ -52,7 +52,7 @@
 | Fully Decorated | 0.10% | ~10 |
 | The Galaxy's Finest (Ace) | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,514 (Ranked 149)  
+Progressed: 9,525 (Ranked 149)  
 Completed: 1 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 1 (0.01%) (Ranked 296)
 | 2023-10-09 | 8,828 | 1 |
 | 2023-10-10 | 9,128 | 1 |
 | 2023-10-11 | 9,402 | 1 |
-| 2023-10-12 | 9,514 | 1 |
+| 2023-10-12 | 9,525 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

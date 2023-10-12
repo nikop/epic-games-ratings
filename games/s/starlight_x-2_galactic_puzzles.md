@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Complete 25 levels | 5.00% | ~3 |
+| Complete 50 levels | 3.00% | ~2 |
 | Switch off the light | 3.00% | ~2 |
 | Use 10 hints | 3.00% | ~2 |
 | Fast 6x6 | 2.00% | ~1 |
-| Complete 50 levels | 2.00% | ~1 |
 | Complete 100 levels | 2.00% | ~1 |
 | Complete 25 6x6 levels | 2.00% | ~1 |
 | Play for 5 hours | 2.00% | ~1 |

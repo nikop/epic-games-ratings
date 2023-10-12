@@ -18,9 +18,9 @@
 | Shard Spender | 19.00% | ~10 |
 | Stellar Dismantler | 19.00% | ~10 |
 | Wild's Keeper | 19.00% | ~10 |
+| Behenian Champion | 19.00% | ~10 |
 | Anomaly Destroyer | 17.00% | ~9 |
 | Mind Illuminator | 17.00% | ~9 |
-| Behenian Champion | 17.00% | ~9 |
 | Aquarian Champion | 15.00% | ~8 |
 | Heart Gate | 13.00% | ~7 |
 | Astral Adventurer | 12.00% | ~6 |

@@ -12,6 +12,7 @@
 | In this together | 6.00% | ~17 |
 | Cable guy | 6.00% | ~17 |
 | Half the way | 6.00% | ~17 |
+| Scholar | 6.00% | ~17 |
 | One last step | 6.00% | ~17 |
 | I did it | 5.00% | ~14 |
 | Peace walker | 5.00% | ~14 |
@@ -19,7 +20,6 @@
 | Alchemists Express | 5.00% | ~14 |
 | True G3M4R | 5.00% | ~14 |
 | Champollion | 5.00% | ~14 |
-| Scholar | 5.00% | ~14 |
 | The darkness | 5.00% | ~14 |
 | Open door | 4.00% | ~11 |
 | Feels like springtime | 4.00% | ~11 |
