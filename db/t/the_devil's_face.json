@@ -2,10 +2,10 @@
   "ID": "b022b60ee02545788d645fe353f5ddd6",
   "Name": "The Devil\u0027s Face",
   "ProductSlug": "the-devils-face-356c31",
-  "Ranking_EOS_Progress": 298,
+  "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
     "PcReleaseDate": "2023-08-26T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 362,
+  "EOS_Progressed": 363,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -1606,6 +1606,11 @@
       "Time": "2023-10-11T16:03:56.5511804+00:00",
       "NumProgressed": 362,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-12T02:19:43.383926+00:00",
+      "NumProgressed": 363,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 14,
@@ -1615,9 +1620,9 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "296pn27",
       "Name": "The gateway to the underworld",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 72
+      "UsersEstimate": 76
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -1625,7 +1630,7 @@
       "Name": "Is it merely a dream?",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -1665,7 +1670,7 @@
       "Name": "The path to enlightenment",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -1673,7 +1678,7 @@
       "Name": "Our efforts are finally yielding progress",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -1713,7 +1718,7 @@
       "Name": "Holy Nails",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -1728,14 +1733,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 362,
+      "Progressed": 363,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-10-12T01:44:52.2191154+00:00",
+  "LastChanged_Achievements": "2023-10-12T02:19:43.3839255+00:00",
   "LastUpdate_AppInfo": "2023-10-07T11:57:07.3971588+00:00",
-  "LastUpdate_Ratings": "2023-10-12T01:37:54.2252946+00:00",
-  "LastUpdate_Achievements": "2023-10-12T01:44:52.2191362+00:00"
+  "LastUpdate_Ratings": "2023-10-12T02:12:26.9659313+00:00",
+  "LastUpdate_Achievements": "2023-10-12T02:19:43.383948+00:00"
 }

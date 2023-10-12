@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
     "PcReleaseDate": "2018-10-16T00:00:00+00:00",
@@ -2866,7 +2866,7 @@
       "Count": 243
     }
   ],
-  "EOS_Progressed": 78742,
+  "EOS_Progressed": 78743,
   "EOS_Completed": 142,
   "EOS_NewPlayers": 760,
   "EOS_NewCompleters": 0,
@@ -22156,6 +22156,11 @@
       "Time": "2023-10-12T01:44:22.9901866+00:00",
       "NumProgressed": 78742,
       "NumCompleted": 142
+    },
+    {
+      "Time": "2023-10-12T02:19:15.4247247+00:00",
+      "NumProgressed": 78743,
+      "NumCompleted": 142
     }
   ],
   "TotalAchievements": 30,
@@ -22167,7 +22172,7 @@
       "Name": "First Journey",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 10236
+      "UsersEstimate": 10237
     },
     {
       "ID": "ACHIEVEMENT_01",
@@ -22263,7 +22268,7 @@
       "Name": "Prop-M Rover",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 25197
+      "UsersEstimate": 25198
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -22327,7 +22332,7 @@
       "Name": "Acquired knowledge",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 10236
+      "UsersEstimate": 10237
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -22406,15 +22411,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 78742,
+      "Progressed": 78743,
       "Completed": 142
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-10-10T18:57:49.0829966+00:00",
-  "LastChanged_Achievements": "2023-10-12T01:44:22.9901859+00:00",
+  "LastChanged_Achievements": "2023-10-12T02:19:15.4247243+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:49.0539094+00:00",
-  "LastUpdate_Ratings": "2023-10-12T01:39:32.0895079+00:00",
-  "LastUpdate_Achievements": "2023-10-12T01:44:22.9903263+00:00"
+  "LastUpdate_Ratings": "2023-10-12T02:14:18.1352246+00:00",
+  "LastUpdate_Achievements": "2023-10-12T02:19:15.4248824+00:00"
 }

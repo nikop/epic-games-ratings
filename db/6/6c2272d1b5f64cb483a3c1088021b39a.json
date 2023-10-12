@@ -4,8 +4,8 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1118,
+  "EOS_Progressed": 1119,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3791,6 +3791,11 @@
       "Time": "2023-10-12T01:48:39.1156259+00:00",
       "NumProgressed": 1118,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-12T02:23:11.5481282+00:00",
+      "NumProgressed": 1119,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4210,7 +4215,7 @@
       "Name": "Sophisticated Alchemist 1",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "sophisticated_alchemist_2",
@@ -4329,14 +4334,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 1118,
+      "Progressed": 1119,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-10-12T01:48:39.1156254+00:00",
+  "LastChanged_Achievements": "2023-10-12T02:23:11.5481277+00:00",
   "LastUpdate_AppInfo": "2023-10-10T10:57:16.25747+00:00",
-  "LastUpdate_Ratings": "2023-10-12T01:42:02.3206097+00:00",
-  "LastUpdate_Achievements": "2023-10-12T01:48:39.1157068+00:00"
+  "LastUpdate_Ratings": "2023-10-12T02:16:41.1414783+00:00",
+  "LastUpdate_Achievements": "2023-10-12T02:23:11.5482191+00:00"
 }

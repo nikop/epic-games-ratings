@@ -17,7 +17,7 @@ Rating: 4.03 (Ranked 959)
 | All the Major Food Groups | 41.00% | ~34 |
 | Beggars Would Ride | 36.00% | ~30 |
 | Socialite | 35.00% | ~29 |
-| Control is an Illusion | 33.00% | ~27 |
+| Control is an Illusion | 34.00% | ~28 |
 | The Means to Save It | 27.00% | ~22 |
 | Resilience to Sin | 23.00% | ~19 |
 | A Familiar Nest | 20.00% | ~17 |

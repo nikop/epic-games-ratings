@@ -1078,9 +1078,9 @@
       "ID": "ACH_eou7",
       "SetID": "51of0eo",
       "Name": "Destroy the Big Gun",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 90
+      "UsersEstimate": 94
     },
     {
       "ID": "ACH_eou8",
@@ -1133,8 +1133,8 @@
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-10-12T01:44:17.3074051+00:00",
+  "LastChanged_Achievements": "2023-10-12T02:19:09.9176095+00:00",
   "LastUpdate_AppInfo": "2023-10-05T21:57:19.832691+00:00",
-  "LastUpdate_Ratings": "2023-10-12T01:38:45.0425399+00:00",
-  "LastUpdate_Achievements": "2023-10-12T01:44:17.3074347+00:00"
+  "LastUpdate_Ratings": "2023-10-12T02:13:25.7363488+00:00",
+  "LastUpdate_Achievements": "2023-10-12T02:19:09.9176418+00:00"
 }

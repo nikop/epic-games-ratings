@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 50,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -362,9 +362,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 225550,
+  "EOS_Progressed": 225551,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1726,
+  "EOS_NewPlayers": 1724,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9482,6 +9482,11 @@
       "Time": "2023-10-12T01:44:55.969077+00:00",
       "NumProgressed": 225550,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-12T02:19:46.905266+00:00",
+      "NumProgressed": 225551,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -9590,7 +9595,7 @@
       "Name": "Diamond Shoals Completed",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 6766
+      "UsersEstimate": 6767
     },
     {
       "ID": "HW1_MISSION7_COMPLETE",
@@ -9765,7 +9770,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 225550,
+      "Progressed": 225551,
       "Completed": 0
     }
   ],
@@ -9773,8 +9778,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-10-11T11:58:20.7310585+00:00",
-  "LastChanged_Achievements": "2023-10-12T01:44:55.9690764+00:00",
+  "LastChanged_Achievements": "2023-10-12T02:19:46.9052655+00:00",
   "LastUpdate_AppInfo": "2023-10-05T21:57:20.1324692+00:00",
-  "LastUpdate_Ratings": "2023-10-12T01:39:25.4743225+00:00",
-  "LastUpdate_Achievements": "2023-10-12T01:44:55.9691549+00:00"
+  "LastUpdate_Ratings": "2023-10-12T02:14:11.2672022+00:00",
+  "LastUpdate_Achievements": "2023-10-12T02:19:46.9053559+00:00"
 }

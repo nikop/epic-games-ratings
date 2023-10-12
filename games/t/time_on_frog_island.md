@@ -12,28 +12,28 @@
 | Socialite | 18.00% | ~3 |
 | Who Even Needs Keys | 18.00% | ~3 |
 | Shrub-Seeing: Silly Birbs | 18.00% | ~3 |
+| Hoist the Sails | 18.00% | ~3 |
 | Secure the Sheets | 18.00% | ~3 |
 | Shrub-Seeing: Townlife | 12.00% | ~2 |
 | Shrub-Seeing: Ruins of old | 12.00% | ~2 |
 | Yeet! | 12.00% | ~2 |
 | Couch-surfing | 12.00% | ~2 |
 | Caught Ya! | 12.00% | ~2 |
-| Hoist the Sails | 12.00% | ~2 |
+| Safe Investment | 12.00% | ~2 |
+| Bank of Me | 12.00% | ~2 |
+| Hands on the Helm | 12.00% | ~2 |
 | Replace the Rudder | 12.00% | ~2 |
 | Shrub-Seeing: Lights in the sky | 6.00% | ~1 |
 | Shrub-Seeing: Ancient Extractor | 6.00% | ~1 |
 | Shrub-Seeing: Seen it all! | 6.00% | ~1 |
 | Sailor Swift | 6.00% | ~1 |
 | No Evil | 6.00% | ~1 |
-| Safe Investment | 6.00% | ~1 |
-| Bank of Me | 6.00% | ~1 |
 | Return to sender | 6.00% | ~1 |
 | Fantastic Fungi | 6.00% | ~1 |
 | Vandal | 6.00% | ~1 |
 | Just Here for the Food | 6.00% | ~1 |
 | Falling with Style | 6.00% | ~1 |
 | Froggy Friendship | 6.00% | ~1 |
-| Hands on the Helm | 6.00% | ~1 |
 | The Journey Continues | 6.00% | ~1 |
 | Crunch Time | 0.00% | ~0 |
 | One with the frogs | 0.00% | ~0 |

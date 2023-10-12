@@ -11,15 +11,15 @@ Number of Ratings: 45  (23.09.2022)
 | This Too Shall Pass | 32.00% | ~452 |
 | Passing Shadow | 31.00% | ~438 |
 | Cutthroat Competitors | 31.00% | ~438 |
-| How Romantic! | 29.00% | ~409 |
-| Daybreak | 29.00% | ~409 |
+| How Romantic! | 29.00% | ~410 |
+| Daybreak | 29.00% | ~410 |
 | Gotta Ca... Must Collect All of Them | 26.00% | ~367 |
 | Completing the Look | 15.00% | ~212 |
 | War Endured | 15.00% | ~212 |
 | A Mythic Menagerie | 14.00% | ~198 |
 | Who's Counting? | 14.00% | ~198 |
 | Core Failure | 14.00% | ~198 |
-| Pyrrhic Victory | 12.00% | ~169 |
+| Pyrrhic Victory | 12.00% | ~170 |
 | Thematic Divergence | 10.00% | ~141 |
 | Echoes Die | 10.00% | ~141 |
 | Chain Reaction | 9.00% | ~127 |
@@ -34,14 +34,14 @@ Number of Ratings: 45  (23.09.2022)
 | Wingknight's Prowess | 6.00% | ~85 |
 | All My Birds, Safely Home | 6.00% | ~85 |
 | Turncoat | 6.00% | ~85 |
-| We Emerge Changed | 4.00% | ~56 |
-| Storied Past | 4.00% | ~56 |
-| Worldwalker | 4.00% | ~56 |
-| No More Nightmares | 4.00% | ~56 |
-| Bears are Scary | 4.00% | ~56 |
-| Grillmaster | 4.00% | ~56 |
-| Lochias's Hunger | 4.00% | ~56 |
-| No Time for Clawmonsters | 4.00% | ~56 |
+| We Emerge Changed | 4.00% | ~57 |
+| Storied Past | 4.00% | ~57 |
+| Worldwalker | 4.00% | ~57 |
+| No More Nightmares | 4.00% | ~57 |
+| Bears are Scary | 4.00% | ~57 |
+| Grillmaster | 4.00% | ~57 |
+| Lochias's Hunger | 4.00% | ~57 |
+| No Time for Clawmonsters | 4.00% | ~57 |
 | Empty the Caves | 3.00% | ~42 |
 | Bonebreakers | 3.00% | ~42 |
 | Some Say I'm Too Flashy | 3.00% | ~42 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Overwhelming Monstrosity | 0.80% | ~11 |
 | Peacemaker | 0.70% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,412 (Ranked 221)  
+Progressed: 1,413 (Ranked 221)  
 Completed: 6 (0.42%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,6 +195,7 @@ Completed: 6 (0.42%) (Ranked 185)
 | 2023-10-05 | 1,409 | 5 |
 | 2023-10-08 | 1,411 | 6 |
 | 2023-10-10 | 1,412 | 6 |
+| 2023-10-12 | 1,413 | 6 |
 ## Awards
 Max (Character Customization): 28  (Ranked 480)  
 Sum: 28 (Ranked 495)  

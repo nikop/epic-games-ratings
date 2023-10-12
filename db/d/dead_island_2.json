@@ -5268,9 +5268,9 @@
       "Count": 377
     }
   ],
-  "EOS_Progressed": 694298,
+  "EOS_Progressed": 694307,
   "EOS_Completed": 2210,
-  "EOS_NewPlayers": 3415,
+  "EOS_NewPlayers": 3416,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -25028,6 +25028,11 @@
       "Time": "2023-10-12T01:44:21.4933912+00:00",
       "NumProgressed": 694298,
       "NumCompleted": 2210
+    },
+    {
+      "Time": "2023-10-12T02:19:14.0406186+00:00",
+      "NumProgressed": 694307,
+      "NumCompleted": 2210
     }
   ],
   "TotalAchievements": 45,
@@ -25079,7 +25084,7 @@
       "Name": "LA Influential",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 3471
+      "UsersEstimate": 3472
     },
     {
       "ID": "ach_blueprinted",
@@ -25263,7 +25268,7 @@
       "Name": "Gore Horse",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3471
+      "UsersEstimate": 3472
     },
     {
       "ID": "ach_metropolitan",
@@ -25398,22 +25403,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 694298,
+      "Progressed": 694307,
       "Completed": 2210
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 19840,
-      "Completed": 19840
+      "Progressed": 19849,
+      "Completed": 19849
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-10-12T01:42:28.3959978+00:00",
-  "LastChanged_Achievements": "2023-10-12T01:44:21.4933908+00:00",
+  "LastChanged_Achievements": "2023-10-12T02:19:14.0406182+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:12.9143544+00:00",
-  "LastUpdate_Ratings": "2023-10-12T01:42:28.3959985+00:00",
-  "LastUpdate_Achievements": "2023-10-12T01:44:21.4935759+00:00"
+  "LastUpdate_Ratings": "2023-10-12T02:17:05.9509186+00:00",
+  "LastUpdate_Achievements": "2023-10-12T02:19:14.040837+00:00"
 }

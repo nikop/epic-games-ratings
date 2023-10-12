@@ -2905,9 +2905,9 @@
       "ID": "achievement_28",
       "SetID": "222fo9l",
       "Name": "Story Teller",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 530
+      "UsersEstimate": 539
     },
     {
       "ID": "achievement_29",
@@ -3130,8 +3130,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-08T19:00:42.2138843+00:00",
-  "LastChanged_Achievements": "2023-10-12T01:47:37.4383347+00:00",
+  "LastChanged_Achievements": "2023-10-12T02:22:22.2156082+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:57:03.1853957+00:00",
-  "LastUpdate_Ratings": "2023-10-12T01:39:11.6728392+00:00",
-  "LastUpdate_Achievements": "2023-10-12T01:47:37.4383918+00:00"
+  "LastUpdate_Ratings": "2023-10-12T02:13:54.1597526+00:00",
+  "LastUpdate_Achievements": "2023-10-12T02:22:22.2156618+00:00"
 }

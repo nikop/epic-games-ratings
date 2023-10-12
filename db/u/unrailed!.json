@@ -2708,9 +2708,9 @@
       "Count": 146
     }
   ],
-  "EOS_Progressed": 653283,
+  "EOS_Progressed": 653286,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 2412,
+  "EOS_NewPlayers": 2413,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22413,6 +22413,11 @@
       "Time": "2023-10-12T01:47:39.0539298+00:00",
       "NumProgressed": 653283,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-10-12T02:22:23.7562934+00:00",
+      "NumProgressed": 653286,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 52,
@@ -22424,7 +22429,7 @@
       "Name": "Stroller",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 97992
+      "UsersEstimate": 97993
     },
     {
       "ID": "_01_01_DISTANCE_200_EASY",
@@ -22440,7 +22445,7 @@
       "Name": "Voyager",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 19598
+      "UsersEstimate": 19599
     },
     {
       "ID": "_01_03_DISTANCE_1000_EASY",
@@ -22464,7 +22469,7 @@
       "Name": "Advanced Stroller",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 111058
+      "UsersEstimate": 111059
     },
     {
       "ID": "_01_06_DISTANCE_200_MEDIUM",
@@ -22480,7 +22485,7 @@
       "Name": "Advanced Voyager",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 19598
+      "UsersEstimate": 19599
     },
     {
       "ID": "_01_08_DISTANCE_1000_MEDIUM",
@@ -22504,7 +22509,7 @@
       "Name": "Expert Stroller",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 19598
+      "UsersEstimate": 19599
     },
     {
       "ID": "_01_11_DISTANCE_200_HARD",
@@ -22552,7 +22557,7 @@
       "Name": "Orient Express",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 19598
+      "UsersEstimate": 19599
     },
     {
       "ID": "_01_22_TRACKS_2000",
@@ -22624,7 +22629,7 @@
       "Name": "Destructionist",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 19598
+      "UsersEstimate": 19599
     },
     {
       "ID": "_02_04_INDUSTRIALIST",
@@ -22672,7 +22677,7 @@
       "Name": "Incurious",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 111058
+      "UsersEstimate": 111059
     },
     {
       "ID": "_03_01_MOJAVE_COURIER",
@@ -22744,7 +22749,7 @@
       "Name": "Climate Change",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 104525
+      "UsersEstimate": 104526
     },
     {
       "ID": "_11_00_FIRE_FIGHTER",
@@ -22839,15 +22844,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 653283,
+      "Progressed": 653286,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-10-09T17:02:40.4221354+00:00",
-  "LastChanged_Achievements": "2023-10-12T01:47:39.0539294+00:00",
+  "LastChanged_Achievements": "2023-10-12T02:22:23.7562925+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:08.7369498+00:00",
-  "LastUpdate_Ratings": "2023-10-12T01:38:04.3043643+00:00",
-  "LastUpdate_Achievements": "2023-10-12T01:47:39.0540879+00:00"
+  "LastUpdate_Ratings": "2023-10-12T02:12:41.2131523+00:00",
+  "LastUpdate_Achievements": "2023-10-12T02:22:23.7564694+00:00"
 }

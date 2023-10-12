@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 495,
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -157,9 +157,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1412,
+  "EOS_Progressed": 1413,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -1567,6 +1567,11 @@
       "Time": "2023-10-10T06:05:22.6732531+00:00",
       "NumProgressed": 1412,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-12T02:23:00.0979252+00:00",
+      "NumProgressed": 1413,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 56,
@@ -1578,7 +1583,7 @@
       "Name": "We Emerge Changed",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "achievement_150Calamities",
@@ -1602,7 +1607,7 @@
       "Name": "Storied Past",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "achievement_5petsReceived",
@@ -1618,7 +1623,7 @@
       "Name": "Worldwalker",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "achievement_beatGameOnIronmanMode",
@@ -1714,7 +1719,7 @@
       "Name": "No More Nightmares",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "achievement_kill100Monsters",
@@ -1746,7 +1751,7 @@
       "Name": "How Romantic!",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "achievement_maimedHero",
@@ -1794,7 +1799,7 @@
       "Name": "Pyrrhic Victory",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "completedStory_cvawn",
@@ -1850,7 +1855,7 @@
       "Name": "Daybreak",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "completedStory_vultureLord",
@@ -1906,7 +1911,7 @@
       "Name": "Bears are Scary",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "theme_crow_blind20Enemies",
@@ -1922,7 +1927,7 @@
       "Name": "Grillmaster",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "theme_foothill_takeNoDamage20Times",
@@ -2010,7 +2015,7 @@
       "Name": "Lochias\u0027s Hunger",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ulstryx_killCalabyneInOneTurn",
@@ -2018,22 +2023,22 @@
       "Name": "No Time for Clawmonsters",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     }
   ],
   "AchievementSets": [
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1412,
+      "Progressed": 1413,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-09-16T17:00:08.5779719+00:00",
-  "LastChanged_Achievements": "2023-10-12T01:48:27.2218988+00:00",
+  "LastChanged_Achievements": "2023-10-12T02:23:00.0979248+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:23.0384854+00:00",
-  "LastUpdate_Ratings": "2023-10-12T01:43:12.9373444+00:00",
-  "LastUpdate_Achievements": "2023-10-12T01:48:27.2219539+00:00"
+  "LastUpdate_Ratings": "2023-10-12T02:18:03.5615494+00:00",
+  "LastUpdate_Achievements": "2023-10-12T02:23:00.0979813+00:00"
 }

@@ -6,30 +6,30 @@ Number of Ratings: 21,082  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unseen Assassin | 46.00% | ~618,254 |
-| Death From Above | 45.00% | ~604,814 |
-| Master of the Household | 38.00% | ~510,732 |
-| Death of the Party | 36.00% | ~483,851 |
-| NEXUS-47 | 33.00% | ~443,530 |
-| The Last Tango | 31.00% | ~416,650 |
-| Nightmare Fuel | 30.00% | ~403,209 |
-| The Result of Previous Training | 28.00% | ~376,329 |
-| Tools of the Trade | 28.00% | ~376,329 |
-| Cleared for Field Duty | 27.00% | ~362,888 |
-| Seizing the Opportunity | 26.00% | ~349,448 |
-| Bullet Train | 21.00% | ~282,247 |
-| Stylish Assassin | 20.00% | ~268,806 |
-| Silent Assassin | 14.00% | ~188,164 |
-| Rise Up | 12.00% | ~161,284 |
-| Evil Wine Club | 11.00% | ~147,843 |
-| Console Cowboy | 10.00% | ~134,403 |
-| Last Stop | 10.00% | ~134,403 |
-| A New Profile | 9.00% | ~120,963 |
-| Full House | 9.00% | ~120,963 |
-| Dune Raider | 8.00% | ~107,522 |
-| No Stone Unturned | 8.00% | ~107,522 |
-| Train Surfing | 8.00% | ~107,522 |
-| Icebreaker | 7.00% | ~94,082 |
+| Unseen Assassin | 46.00% | ~618,258 |
+| Death From Above | 45.00% | ~604,818 |
+| Master of the Household | 38.00% | ~510,735 |
+| Death of the Party | 36.00% | ~483,854 |
+| NEXUS-47 | 33.00% | ~443,533 |
+| The Last Tango | 31.00% | ~416,652 |
+| Nightmare Fuel | 30.00% | ~403,212 |
+| The Result of Previous Training | 28.00% | ~376,331 |
+| Tools of the Trade | 28.00% | ~376,331 |
+| Cleared for Field Duty | 27.00% | ~362,891 |
+| Seizing the Opportunity | 26.00% | ~349,450 |
+| Bullet Train | 21.00% | ~282,248 |
+| Stylish Assassin | 20.00% | ~268,808 |
+| Silent Assassin | 14.00% | ~188,166 |
+| Rise Up | 12.00% | ~161,285 |
+| Evil Wine Club | 11.00% | ~147,844 |
+| Console Cowboy | 10.00% | ~134,404 |
+| Last Stop | 10.00% | ~134,404 |
+| A New Profile | 9.00% | ~120,964 |
+| Full House | 9.00% | ~120,964 |
+| Dune Raider | 8.00% | ~107,523 |
+| No Stone Unturned | 8.00% | ~107,523 |
+| Train Surfing | 8.00% | ~107,523 |
+| Icebreaker | 7.00% | ~94,083 |
 | Family Feud | 6.00% | ~80,642 |
 | Rich Harvest | 6.00% | ~80,642 |
 | Count Down From 47 | 6.00% | ~80,642 |
@@ -37,11 +37,11 @@ Number of Ratings: 21,082  (23.09.2022)
 | Stair Master | 5.00% | ~67,202 |
 | Followed the Trails | 5.00% | ~67,202 |
 | Last Call | 5.00% | ~67,202 |
-| Treacherous Architecture | 4.00% | ~53,761 |
-| Upstairs, Downstairs | 4.00% | ~53,761 |
-| The Great Outdoors | 4.00% | ~53,761 |
-| Partied Out | 4.00% | ~53,761 |
-| Surveillance Master | 4.00% | ~53,761 |
+| Treacherous Architecture | 4.00% | ~53,762 |
+| Upstairs, Downstairs | 4.00% | ~53,762 |
+| The Great Outdoors | 4.00% | ~53,762 |
+| Partied Out | 4.00% | ~53,762 |
+| Surveillance Master | 4.00% | ~53,762 |
 | Training Escalated | 3.00% | ~40,321 |
 | Keep Your Eyes Peeled | 3.00% | ~40,321 |
 | Warehouse Veteran | 3.00% | ~40,321 |
@@ -54,7 +54,7 @@ Number of Ratings: 21,082  (23.09.2022)
 | Ripe for the Picking | 1.00% | ~13,440 |
 | The Creative Assassin | 0.70% | ~9,408 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,344,031 (Ranked 9)  
+Progressed: 1,344,040 (Ranked 9)  
 Completed: 2,158 (0.16%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,10 +229,10 @@ Completed: 2,158 (0.16%) (Ranked 230)
 | 2023-10-09 | 1,343,425 | 2,157 |
 | 2023-10-10 | 1,343,726 | 2,157 |
 | 2023-10-11 | 1,344,013 | 2,158 |
-| 2023-10-12 | 1,344,031 | 2,158 |
+| 2023-10-12 | 1,344,040 | 2,158 |
 ## Awards
 Max (Diverse Characters): 10,297  (Ranked 38)  
-Sum: 72,030 (Ranked 21)  
+Sum: 72,033 (Ranked 21)  
 Diff (max vs sum): 17  
 | Award | Count |
 | ----- | ----- |
@@ -241,7 +241,7 @@ Diff (max vs sum): 17
 | This game is Extremely Fun | 9,175 |
 | This game has Amazing Storytelling | 9,040 |
 | This game has Amazing Characters | 8,878 |
-| This game has Quickly Understood Controls | 8,520 |
+| This game has Quickly Understood Controls | 8,523 |
 | This game is Relaxing | 8,404 |
 | This game is Great for Beginners | 8,394 |
 | This game has a Creative Community | 8,249 |
@@ -536,3 +536,4 @@ Diff (max vs sum): 17
 | 2023-10-09 | 4.78 | - | 10,275 | 71,953 |
 | 2023-10-10 | 4.78 | - | 10,283 | 71,993 |
 | 2023-10-11 | 4.78 | - | 10,297 | 72,030 |
+| 2023-10-12 | 4.78 | - | 10,297 | 72,033 |

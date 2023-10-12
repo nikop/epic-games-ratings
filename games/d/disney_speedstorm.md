@@ -5,32 +5,32 @@ Rating: 4.43 (Ranked 672)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 5.00% | ~10,390 |
-| IT MAKES BOOM! | 3.00% | ~6,234 |
-| EXTRA BOOST | 2.00% | ~4,156 |
-| PROTECTED | 1.00% | ~2,078 |
-| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,078 |
-| PRO | 1.00% | ~2,078 |
-| AGGRESSIVE RACER | 0.90% | ~1,870 |
-| A TIGER'S FEAR | 0.80% | ~1,662 |
-| ACE SPEEDSTER | 0.50% | ~1,039 |
-| IT'S A LONG WAY TO THE TOP | 0.40% | ~831 |
-| DEFEAT OUR CHAMPION | 0.40% | ~831 |
-| PERFECTLY POISED | 0.30% | ~623 |
-| TRAINING HARD | 0.30% | ~623 |
-| RELEASE THE KRAKEN | 0.30% | ~623 |
-| BE OUR GUEST | 0.30% | ~623 |
-| ACE BRAWLER | 0.30% | ~623 |
-| ACE DEFENDER | 0.30% | ~623 |
-| THE EYE OF THE HUNTER | 0.30% | ~623 |
-| FRIENDLY | 0.30% | ~623 |
-| MASTER | 0.30% | ~623 |
-| LEGENDARY HERO | 0.30% | ~623 |
+| ROOKIE | 5.00% | ~10,397 |
+| IT MAKES BOOM! | 3.00% | ~6,238 |
+| EXTRA BOOST | 2.00% | ~4,159 |
+| PROTECTED | 1.00% | ~2,079 |
+| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,079 |
+| PRO | 1.00% | ~2,079 |
+| AGGRESSIVE RACER | 0.90% | ~1,871 |
+| A TIGER'S FEAR | 0.80% | ~1,663 |
+| ACE SPEEDSTER | 0.50% | ~1,040 |
+| IT'S A LONG WAY TO THE TOP | 0.40% | ~832 |
+| DEFEAT OUR CHAMPION | 0.40% | ~832 |
+| PERFECTLY POISED | 0.30% | ~624 |
+| TRAINING HARD | 0.30% | ~624 |
+| RELEASE THE KRAKEN | 0.30% | ~624 |
+| BE OUR GUEST | 0.30% | ~624 |
+| ACE BRAWLER | 0.30% | ~624 |
+| ACE DEFENDER | 0.30% | ~624 |
+| THE EYE OF THE HUNTER | 0.30% | ~624 |
+| FRIENDLY | 0.30% | ~624 |
+| MASTER | 0.30% | ~624 |
+| LEGENDARY HERO | 0.30% | ~624 |
 | EXPERIENCED CREW | 0.20% | ~416 |
 | ACE TRICKSTER | 0.20% | ~416 |
 | FRAMED! | 0.10% | ~208 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 207,798 (Ranked 64)  
+Progressed: 207,934 (Ranked 64)  
 Completed: 229 (0.11%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 229 (0.11%) (Ranked 244)
 | 2023-10-09 | 197,568 | 227 |
 | 2023-10-10 | 202,800 | 227 |
 | 2023-10-11 | 207,182 | 229 |
-| 2023-10-12 | 207,798 | 229 |
+| 2023-10-12 | 207,934 | 229 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,8 +8,8 @@ Number of Ratings: 43  (23.09.2022)
 | ---- | ---------- | ----- |
 | Simoon | 34.00% | ~31,841 |
 | Just The Two of Us | 32.00% | ~29,968 |
-| Up On High | 25.00% | ~23,412 |
-| Under The Hood | 25.00% | ~23,412 |
+| Up On High | 25.00% | ~23,413 |
+| Under The Hood | 25.00% | ~23,413 |
 | Got Your Nose | 24.00% | ~22,476 |
 | The Gift of Gab | 24.00% | ~22,476 |
 | Wrapping Up | 22.00% | ~20,603 |
@@ -22,10 +22,10 @@ Number of Ratings: 43  (23.09.2022)
 | Bubble Up | 16.00% | ~14,984 |
 | Thread The Needle | 15.00% | ~14,048 |
 | Power to the People | 14.00% | ~13,111 |
-| Take That! | 13.00% | ~12,174 |
-| Nesting Giant | 13.00% | ~12,174 |
-| Treasure Tracker | 13.00% | ~12,174 |
-| Big Spender | 13.00% | ~12,174 |
+| Take That! | 13.00% | ~12,175 |
+| Nesting Giant | 13.00% | ~12,175 |
+| Treasure Tracker | 13.00% | ~12,175 |
+| Big Spender | 13.00% | ~12,175 |
 | Badge Collector | 12.00% | ~11,238 |
 | Quite The Catch | 12.00% | ~11,238 |
 | Rowleys Way | 11.00% | ~10,302 |
@@ -34,11 +34,11 @@ Number of Ratings: 43  (23.09.2022)
 | Balfron Connection | 10.00% | ~9,365 |
 | Ceiling Of Stars | 10.00% | ~9,365 |
 | Playing Dress Up | 10.00% | ~9,365 |
-| Many Different Faces | 9.00% | ~8,428 |
-| Trellick's Pillar | 9.00% | ~8,428 |
-| Centre Of Brunswick | 9.00% | ~8,428 |
-| Bike Collector | 9.00% | ~8,428 |
-| Not That Kind Of Gliding | 9.00% | ~8,428 |
+| Many Different Faces | 9.00% | ~8,429 |
+| Trellick's Pillar | 9.00% | ~8,429 |
+| Centre Of Brunswick | 9.00% | ~8,429 |
+| Bike Collector | 9.00% | ~8,429 |
+| Not That Kind Of Gliding | 9.00% | ~8,429 |
 | The Scrapper Mask | 8.00% | ~7,492 |
 | Shadow Of Neave | 8.00% | ~7,492 |
 | Fragile Goods | 8.00% | ~7,492 |
@@ -54,8 +54,8 @@ Number of Ratings: 43  (23.09.2022)
 | The Merchant Mask | 6.00% | ~5,619 |
 | Honorary Chum | 6.00% | ~5,619 |
 | Bikes Don't Fly | 6.00% | ~5,619 |
-| The Gliding | 5.00% | ~4,682 |
-| The Entertainer Mask | 5.00% | ~4,682 |
+| The Gliding | 5.00% | ~4,683 |
+| The Entertainer Mask | 5.00% | ~4,683 |
 | The Quick and the Curious | 4.00% | ~3,746 |
 | Bike Aficionado | 4.00% | ~3,746 |
 | Chum Expert | 3.00% | ~2,810 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~2,810 |
 | Vivacious Vivarium | 2.00% | ~1,873 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 93,650 (Ranked 80)  
+Progressed: 93,651 (Ranked 80)  
 Completed: 941 (1.00%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 941 (1.00%) (Ranked 143)
 | 2023-10-09 | 93,392 | 938 |
 | 2023-10-10 | 93,517 | 939 |
 | 2023-10-11 | 93,639 | 941 |
-| 2023-10-12 | 93,650 | 941 |
+| 2023-10-12 | 93,651 | 941 |
 ## Awards
 Max (Quickly Understood Controls): 24  (Ranked 503)  
 Sum: 88 (Ranked 435)  

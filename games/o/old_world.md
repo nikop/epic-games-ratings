@@ -186,6 +186,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Avenger | 0.10% | ~15 |
 | Destroyer | 0.10% | ~15 |
 | Holy | 0.10% | ~15 |
+| White Death | 0.10% | ~15 |
 | Glorious Difficulty | 0.10% | ~15 |
 | Great Difficulty | 0.10% | ~15 |
 | Magnificent Difficulty | 0.10% | ~15 |
@@ -318,7 +319,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Liberator | 0.00% | ~0 |
 | Rebuilder | 0.00% | ~0 |
 | Restorer | 0.00% | ~0 |
-| White Death | 0.00% | ~0 |
 | Council of Madness | 0.00% | ~0 |
 | Via Recta Souk in Damascus | 0.00% | ~0 |
 | Oracle in Delphi | 0.00% | ~0 |

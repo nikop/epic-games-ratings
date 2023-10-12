@@ -43,15 +43,15 @@ Rating: 4.54 (Ranked 510)
 | Internet Famous | 0.70% | ~4,860 |
 | Make it So | 0.60% | ~4,166 |
 | Variety is the Spice of Death | 0.60% | ~4,166 |
-| LA Influential | 0.50% | ~3,471 |
-| Gore Horse | 0.50% | ~3,471 |
+| LA Influential | 0.50% | ~3,472 |
+| Gore Horse | 0.50% | ~3,472 |
 | Sole Survivor | 0.40% | ~2,777 |
 | Sharpest Tool in the Box | 0.40% | ~2,777 |
 | Survival Skills | 0.30% | ~2,083 |
 | Donk! | 0.20% | ~1,389 |
 | Bucket List | 0.10% | ~694 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 694,298 (Ranked 22)  
+Progressed: 694,307 (Ranked 22)  
 Completed: 2,210 (0.32%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 2,210 (0.32%) (Ranked 199)
 | 2023-10-09 | 693,470 | 2,208 |
 | 2023-10-10 | 693,868 | 2,209 |
 | 2023-10-11 | 694,263 | 2,210 |
-| 2023-10-12 | 694,298 | 2,210 |
+| 2023-10-12 | 694,307 | 2,210 |
 ## Awards
 Max (Great Boss Battles): 6,398  (Ranked 58)  
 Sum: 9,556 (Ranked 91)  
