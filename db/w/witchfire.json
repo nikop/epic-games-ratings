@@ -2,13 +2,13 @@
   "ID": "2e404271085e4eb480f48c3d2e5f08ed",
   "Name": "Witchfire",
   "ProductSlug": "witchfire-db273e",
-  "Ranking_Rating": 336,
+  "Ranking_Rating": 353,
   "Ranking_Popularity": 473,
-  "Ranking_PopularitySum": 382,
+  "Ranking_PopularitySum": 394,
   "Ranking_EOS_Progress": 668,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 397,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 396,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-09-20T14:00:00+00:00",
     "PcReleaseDate": "2023-09-20T14:00:00+00:00",
@@ -19,7 +19,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.63,
+  "Rating": 4.62,
   "RatingHistory": [
     {
       "Time": "2023-09-21T14:59:00.9142333+00:00",
@@ -314,10 +314,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 203,
       "NumberOfAwardsMax": 30
+    },
+    {
+      "Time": "2023-10-12T20:59:53.284449+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 182,
+      "NumberOfAwardsMax": 30
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 203,
+  "NumberOfAwards": 182,
   "NumberOfAwardsMax": 30,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -382,8 +388,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-20T14:59:38.0794771+00:00",
   "FirstSeenRating": "2023-09-21T14:59:00.914233+00:00",
-  "LastChanged": "2023-10-12T18:00:17.3650979+00:00",
+  "LastChanged": "2023-10-12T20:59:53.2844489+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:01.4923139+00:00",
-  "LastUpdate_Ratings": "2023-10-12T20:00:48.6035681+00:00",
-  "LastUpdate_Achievements": "2023-10-12T20:08:23.5406184+00:00"
+  "LastUpdate_Ratings": "2023-10-12T20:59:53.2844494+00:00",
+  "LastUpdate_Achievements": "2023-10-12T21:07:07.2486548+00:00"
 }

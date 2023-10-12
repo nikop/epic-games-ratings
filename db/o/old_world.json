@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 283,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1839,7 +1839,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14621,
+  "EOS_Progressed": 14623,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 246,
   "EOS_NewCompleters": 0,
@@ -13679,6 +13679,11 @@
       "Time": "2023-10-12T20:07:28.2118817+00:00",
       "NumProgressed": 14621,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-12T21:06:28.3938987+00:00",
+      "NumProgressed": 14623,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -14248,9 +14253,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_MIGHTY",
       "SetID": "9201eeb",
       "Name": "Mighty",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 88
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_NOBLE",
@@ -14352,9 +14357,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_WARRIOR",
       "SetID": "9201eeb",
       "Name": "Warrior",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 146
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_WHITE_DEATH",
@@ -15008,9 +15013,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_ACROPOLIS",
       "SetID": "9201eeb",
       "Name": "Acropolis",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 88
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_APADANA",
@@ -15032,9 +15037,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_COLOSSUS",
       "SetID": "9201eeb",
       "Name": "Colossus",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 102
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_GREAT_ZIGGURAT",
@@ -15560,9 +15565,9 @@
       "ID": "ACHIEVEMENT_RHODES_COLOSSUS",
       "SetID": "9201eeb",
       "Name": "Colossus in Rhodes",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_ROMAN_PAPACY",
@@ -15800,9 +15805,9 @@
       "ID": "ACHIEVEMENT_VICTORY_ALL_NATIONS",
       "SetID": "7l38kb8",
       "Name": "All Nations",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_AMBITION",
@@ -16425,21 +16430,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14621,
+      "Progressed": 14623,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14621,
+      "Progressed": 14623,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-12T20:03:06.2994788+00:00",
-  "LastChanged_Achievements": "2023-10-12T20:07:28.2118812+00:00",
+  "LastChanged_Achievements": "2023-10-12T21:06:28.3938981+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:48.3987129+00:00",
-  "LastUpdate_Ratings": "2023-10-12T20:03:06.2994797+00:00",
-  "LastUpdate_Achievements": "2023-10-12T20:07:28.2128434+00:00"
+  "LastUpdate_Ratings": "2023-10-12T21:03:18.50403+00:00",
+  "LastUpdate_Achievements": "2023-10-12T21:06:28.3952016+00:00"
 }

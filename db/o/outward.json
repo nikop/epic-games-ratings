@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -5347,9 +5347,9 @@
       "ID": "ReadyforSummer_41",
       "SetID": "c4hee28",
       "Name": "Ready for Summer",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1859
+      "UsersEstimate": 1895
     },
     {
       "ID": "ReadyforWinter_42",
@@ -5507,8 +5507,8 @@
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-17T17:59:20.5916626+00:00",
-  "LastChanged_Achievements": "2023-10-12T20:06:27.4169829+00:00",
+  "LastChanged_Achievements": "2023-10-12T21:05:45.0865902+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:05.8735773+00:00",
-  "LastUpdate_Ratings": "2023-10-12T20:00:17.3237836+00:00",
-  "LastUpdate_Achievements": "2023-10-12T20:06:27.4170596+00:00"
+  "LastUpdate_Ratings": "2023-10-12T20:59:32.1795354+00:00",
+  "LastUpdate_Achievements": "2023-10-12T21:05:45.0866544+00:00"
 }

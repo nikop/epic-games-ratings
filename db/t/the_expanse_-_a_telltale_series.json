@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 17,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -162,8 +162,8 @@
   "Tags": [],
   "EOS_Progressed": 13886,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 297,
-  "EOS_NewCompleters": 10,
+  "EOS_NewPlayers": 294,
+  "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
     {
@@ -8642,9 +8642,9 @@
       "ID": "4",
       "SetID": "458bbdk",
       "Name": "Debris Spree",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 56
+      "UsersEstimate": 69
     },
     {
       "ID": "5",
@@ -8699,8 +8699,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-08T08:57:35.7928069+00:00",
-  "LastChanged_Achievements": "2023-10-12T20:05:17.3294341+00:00",
+  "LastChanged_Achievements": "2023-10-12T21:04:55.3076243+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:56.4622667+00:00",
-  "LastUpdate_Ratings": "2023-10-12T20:00:26.5267911+00:00",
-  "LastUpdate_Achievements": "2023-10-12T20:05:17.3295225+00:00"
+  "LastUpdate_Ratings": "2023-10-12T20:59:39.493311+00:00",
+  "LastUpdate_Achievements": "2023-10-12T21:04:55.3077035+00:00"
 }

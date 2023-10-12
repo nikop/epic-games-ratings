@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -524,9 +524,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 67707,
+  "EOS_Progressed": 67708,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 655,
+  "EOS_NewPlayers": 652,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -17784,6 +17784,11 @@
       "Time": "2023-10-12T20:09:18.194427+00:00",
       "NumProgressed": 67707,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-10-12T21:09:25.3838565+00:00",
+      "NumProgressed": 67708,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 67,
@@ -17835,7 +17840,7 @@
       "Name": "Park Ranger",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 13541
+      "UsersEstimate": 13542
     },
     {
       "ID": "07",
@@ -17931,7 +17936,7 @@
       "Name": "Hardboiled Writer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4739
+      "UsersEstimate": 4740
     },
     {
       "ID": "19",
@@ -18035,7 +18040,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 12864
+      "UsersEstimate": 12865
     },
     {
       "ID": "32",
@@ -18043,7 +18048,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 23020
+      "UsersEstimate": 23021
     },
     {
       "ID": "33",
@@ -18067,7 +18072,7 @@
       "Name": "Let There Be Light",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 23697
+      "UsersEstimate": 23698
     },
     {
       "ID": "36",
@@ -18097,9 +18102,9 @@
       "ID": "39",
       "SetID": "212770e",
       "Name": "Gunless Wonder",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 203
     },
     {
       "ID": "40",
@@ -18131,7 +18136,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 13541
+      "UsersEstimate": 13542
     },
     {
       "ID": "44",
@@ -18259,7 +18264,7 @@
       "Name": "Ding!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 1870
+      "UsersEstimate": 1871
     },
     {
       "ID": "60",
@@ -18330,21 +18335,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 67707,
+      "Progressed": 67708,
       "Completed": 69
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 31175,
+      "Progressed": 31176,
       "Completed": 55
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-09-26T11:01:48.1926095+00:00",
-  "LastChanged_Achievements": "2023-10-12T20:09:18.1944264+00:00",
+  "LastChanged_Achievements": "2023-10-12T21:09:25.3838559+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:13.3553682+00:00",
-  "LastUpdate_Ratings": "2023-10-12T20:00:55.5741348+00:00",
-  "LastUpdate_Achievements": "2023-10-12T20:09:18.1946394+00:00"
+  "LastUpdate_Ratings": "2023-10-12T20:59:58.9723664+00:00",
+  "LastUpdate_Achievements": "2023-10-12T21:09:25.3840433+00:00"
 }

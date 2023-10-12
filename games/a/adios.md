@@ -5,33 +5,33 @@ Rating: 3.55 (Ranked 1,008)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 22.00% | ~16,635 |
-| Master, Commander | 21.00% | ~15,879 |
-| Hard Worker | 20.00% | ~15,123 |
-| Mechanic | 19.00% | ~14,367 |
-| Adios, Friendo | 18.00% | ~13,611 |
-| Bottom's Up | 18.00% | ~13,611 |
-| Nice Try | 16.00% | ~12,098 |
-| Right On Target | 13.00% | ~9,830 |
+| Be Seeing You | 22.00% | ~16,637 |
+| Master, Commander | 21.00% | ~15,880 |
+| Hard Worker | 20.00% | ~15,124 |
+| Mechanic | 19.00% | ~14,368 |
+| Adios, Friendo | 18.00% | ~13,612 |
+| Bottom's Up | 18.00% | ~13,612 |
+| Nice Try | 16.00% | ~12,099 |
+| Right On Target | 13.00% | ~9,831 |
 | Piano Man | 10.00% | ~7,562 |
-| Lazy Bones | 9.00% | ~6,805 |
-| Vinyl Vibes | 8.00% | ~6,049 |
+| Lazy Bones | 9.00% | ~6,806 |
+| Vinyl Vibes | 8.00% | ~6,050 |
 | Nothing Left to Say | 7.00% | ~5,293 |
 | Sniper | 7.00% | ~5,293 |
 | Cut Call | 6.00% | ~4,537 |
 | Magnetic Miracles | 5.00% | ~3,781 |
 | Butcher | 4.00% | ~3,025 |
 | Spicy | 4.00% | ~3,025 |
-| A Man Of Taste | 3.00% | ~2,268 |
-| Ace in the Hole | 3.00% | ~2,268 |
-| Fair's Fair | 3.00% | ~2,268 |
-| Hearty | 3.00% | ~2,268 |
-| Meaty | 3.00% | ~2,268 |
-| Taco Toto | 3.00% | ~2,268 |
+| A Man Of Taste | 3.00% | ~2,269 |
+| Ace in the Hole | 3.00% | ~2,269 |
+| Fair's Fair | 3.00% | ~2,269 |
+| Hearty | 3.00% | ~2,269 |
+| Meaty | 3.00% | ~2,269 |
+| Taco Toto | 3.00% | ~2,269 |
 | Audiophile | 2.00% | ~1,512 |
 | Tape Head | 2.00% | ~1,512 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 75,615 (Ranked 89)  
+Progressed: 75,621 (Ranked 89)  
 Completed: 794 (1.05%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 794 (1.05%) (Ranked 140)
 | 2023-10-09 | 75,416 | 787 |
 | 2023-10-10 | 75,476 | 791 |
 | 2023-10-11 | 75,543 | 792 |
-| 2023-10-12 | 75,615 | 794 |
+| 2023-10-12 | 75,621 | 794 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

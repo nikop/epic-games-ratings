@@ -4,8 +4,8 @@
   "ProductSlug": "iron-danger-b4320c",
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 250,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-01-18T18:00:00+00:00",
     "PcReleaseDate": "2020-03-25T00:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 276,
+  "EOS_Progressed": 277,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.45,
+  "EOS_Completed_Percentage": 1.44,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:49.5378411+00:00",
@@ -601,6 +601,11 @@
       "Time": "2023-10-10T14:06:38.6298609+00:00",
       "NumProgressed": 276,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-12T21:07:12.2562898+00:00",
+      "NumProgressed": 277,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 23,
@@ -634,9 +639,9 @@
       "ID": "ACH_FORAGER_BERRY",
       "SetID": "ao59f0i",
       "Name": "Berry Nice",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_GOOD_STEW",
@@ -676,7 +681,7 @@
       "Name": "Found the Healer",
       "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACH_KEYU_EXTERMINATOR",
@@ -795,7 +800,7 @@
     {
       "ID": "ao59f0i",
       "IsBase": true,
-      "Progressed": 276,
+      "Progressed": 277,
       "Completed": 4
     }
   ],
@@ -803,8 +808,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5649613+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.5378421+00:00",
   "LastChanged": "2023-03-31T05:58:48.5649614+00:00",
-  "LastChanged_Achievements": "2023-10-12T20:08:30.7712288+00:00",
+  "LastChanged_Achievements": "2023-10-12T21:07:12.2562887+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:15.4991623+00:00",
-  "LastUpdate_Ratings": "2023-10-12T19:58:27.826894+00:00",
-  "LastUpdate_Achievements": "2023-10-12T20:08:30.7712538+00:00"
+  "LastUpdate_Ratings": "2023-10-12T20:58:19.4863947+00:00",
+  "LastUpdate_Achievements": "2023-10-12T21:07:12.2563107+00:00"
 }

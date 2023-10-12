@@ -22,6 +22,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble | 1.00% | ~146 |
 | Pioneer | 1.00% | ~146 |
 | Strong | 1.00% | ~146 |
+| Warrior | 1.00% | ~146 |
 | Developing Cities | 1.00% | ~146 |
 | Hanging Gardens | 1.00% | ~146 |
 | Oracle | 1.00% | ~146 |
@@ -34,7 +35,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambitious | 0.90% | ~132 |
 | Enlightened | 0.90% | ~132 |
 | Magnificent | 0.90% | ~132 |
-| Warrior | 0.90% | ~132 |
 | Wise | 0.90% | ~132 |
 | Strong Cities | 0.90% | ~132 |
 | Ishtar Gate | 0.90% | ~132 |
@@ -54,19 +54,21 @@ Number of Ratings: 1,307  (23.09.2022)
 | Drillmaster | 0.70% | ~102 |
 | Great | 0.70% | ~102 |
 | Artisans | 0.70% | ~102 |
+| Colossus | 0.70% | ~102 |
 | Musaeum | 0.70% | ~102 |
 | Necropolis | 0.70% | ~102 |
 | Learn to Play 2 | 0.70% | ~102 |
 | Manichaeism | 0.70% | ~102 |
 | Egyptian Paganism | 0.70% | ~102 |
 | Regicide | 0.60% | ~88 |
+| Mighty | 0.60% | ~88 |
 | Valiant | 0.60% | ~88 |
 | Legendary Cities | 0.60% | ~88 |
 | Just Difficulty | 0.60% | ~88 |
 | Champions | 0.60% | ~88 |
 | Sages | 0.60% | ~88 |
+| Acropolis | 0.60% | ~88 |
 | Apadana | 0.60% | ~88 |
-| Colossus | 0.60% | ~88 |
 | Mausoleum | 0.60% | ~88 |
 | Mythology | 0.60% | ~88 |
 | Win a Single Player Game | 0.60% | ~88 |
@@ -74,11 +76,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Beloved | 0.50% | ~73 |
 | Conqueror | 0.50% | ~73 |
 | Intercessor | 0.50% | ~73 |
-| Mighty | 0.50% | ~73 |
 | Victorious | 0.50% | ~73 |
 | Good Difficulty | 0.50% | ~73 |
 | Patrons | 0.50% | ~73 |
-| Acropolis | 0.50% | ~73 |
 | Learn to Play 3 | 0.50% | ~73 |
 | Greece | 0.50% | ~73 |
 | Power to the People | 0.50% | ~73 |
@@ -127,6 +127,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Veneration | 0.30% | ~44 |
 | Mounted Lancer | 0.30% | ~44 |
 | Turreted Elephant | 0.30% | ~44 |
+| All Nations | 0.30% | ~44 |
 | Ambition Victory | 0.30% | ~44 |
 | The Clergy | 0.30% | ~44 |
 | The Great Mage | 0.30% | ~44 |
@@ -146,7 +147,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cataphract Archer | 0.20% | ~29 |
 | Three Man Chariot | 0.20% | ~29 |
 | Siege Tower | 0.20% | ~29 |
-| All Nations | 0.20% | ~29 |
 | No Undo | 0.20% | ~29 |
 | Rmt n Kmt Buhen | 0.20% | ~29 |
 | Greater Kmt Unified | 0.20% | ~29 |
@@ -250,6 +250,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Network Game | 0.10% | ~15 |
 | Play a Play-By-Cloud Game | 0.10% | ~15 |
 | Punic Wars | 0.10% | ~15 |
+| Colossus in Rhodes | 0.10% | ~15 |
 | Roman Papacy | 0.10% | ~15 |
 | Circus Maximus in Roma | 0.10% | ~15 |
 | Pantheon in Roma | 0.10% | ~15 |
@@ -341,7 +342,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hardcore | 0.00% | ~0 |
 | Knowledge of the Ancients | 0.00% | ~0 |
 | Merchants of the Levant | 0.00% | ~0 |
-| Colossus in Rhodes | 0.00% | ~0 |
 | One City Challenge | 0.00% | ~0 |
 | Win a 1-v-1 Game | 0.00% | ~0 |
 | Deposed Tribe | 0.00% | ~0 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,621 (Ranked 134)  
+Progressed: 14,623 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -524,7 +524,7 @@ Completed: 5 (0.03%) (Ranked 283)
 | 2023-10-09 | 14,562 | 5 |
 | 2023-10-10 | 14,586 | 5 |
 | 2023-10-11 | 14,606 | 5 |
-| 2023-10-12 | 14,621 | 5 |
+| 2023-10-12 | 14,623 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,835 (Ranked 210)  

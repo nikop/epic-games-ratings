@@ -28,7 +28,7 @@ Rating: 4.56 (Ranked 472)
 | No Belter Left Behind | 0.80% | ~111 |
 | Data Logger | 0.70% | ~97 |
 | Data Master | 0.60% | ~83 |
-| Debris Spree | 0.40% | ~56 |
+| Debris Spree | 0.50% | ~69 |
 | Data Recoverer | 0.40% | ~56 |
 | Urshanabi Hoarder | 0.30% | ~42 |
 | Data Miner | 0.20% | ~28 |

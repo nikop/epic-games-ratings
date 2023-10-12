@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 491,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-09-26T11:00:00+00:00",
     "PcReleaseDate": "2023-09-26T11:00:00+00:00",
@@ -289,9 +289,9 @@
       "ID": "world6",
       "SetID": "40o2ndb",
       "Name": "The tale is over and the mages come over",
-      "Percentage": 18,
+      "Percentage": 24,
       "XP": 85,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
@@ -304,8 +304,8 @@
   ],
   "FirstSeen": "2023-09-28T10:00:15.1472211+00:00",
   "FirstSeenAchievements": "2023-09-13T08:04:00.4811231+00:00",
-  "LastChanged_Achievements": "2023-10-12T20:05:35.9455143+00:00",
+  "LastChanged_Achievements": "2023-10-12T21:05:08.5790418+00:00",
   "LastUpdate_AppInfo": "2023-10-08T19:57:13.8488612+00:00",
-  "LastUpdate_Ratings": "2023-10-12T20:00:23.8586497+00:00",
-  "LastUpdate_Achievements": "2023-10-12T20:05:35.945535+00:00"
+  "LastUpdate_Ratings": "2023-10-12T20:59:37.1574741+00:00",
+  "LastUpdate_Achievements": "2023-10-12T21:05:08.5790606+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8910,10 +8910,10 @@
       "Count": 710
     }
   ],
-  "EOS_Progressed": 298206,
-  "EOS_Completed": 484,
-  "EOS_NewPlayers": 340,
-  "EOS_NewCompleters": 3,
+  "EOS_Progressed": 298211,
+  "EOS_Completed": 485,
+  "EOS_NewPlayers": 344,
+  "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
     {
@@ -27720,6 +27720,11 @@
       "Time": "2023-10-12T19:04:02.8145115+00:00",
       "NumProgressed": 298206,
       "NumCompleted": 484
+    },
+    {
+      "Time": "2023-10-12T21:04:19.2703966+00:00",
+      "NumProgressed": 298211,
+      "NumCompleted": 485
     }
   ],
   "TotalAchievements": 45,
@@ -27731,7 +27736,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 44731
+      "UsersEstimate": 44732
     },
     {
       "ID": "PFA_10",
@@ -27771,7 +27776,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 17892
+      "UsersEstimate": 17893
     },
     {
       "ID": "PFA_15",
@@ -27779,7 +27784,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23856
+      "UsersEstimate": 23857
     },
     {
       "ID": "PFA_16",
@@ -27795,7 +27800,7 @@
       "Name": "Beast Friends",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20874
+      "UsersEstimate": 20875
     },
     {
       "ID": "PFA_18",
@@ -27803,7 +27808,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23856
+      "UsersEstimate": 23857
     },
     {
       "ID": "PFA_19",
@@ -27811,7 +27816,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23856
+      "UsersEstimate": 23857
     },
     {
       "ID": "PFA_2",
@@ -27819,7 +27824,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14910
+      "UsersEstimate": 14911
     },
     {
       "ID": "PFA_20",
@@ -27867,7 +27872,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 17892
+      "UsersEstimate": 17893
     },
     {
       "ID": "PFA_26",
@@ -27899,7 +27904,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 17892
+      "UsersEstimate": 17893
     },
     {
       "ID": "PFA_3",
@@ -28011,7 +28016,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14910
+      "UsersEstimate": 14911
     },
     {
       "ID": "PFA_42",
@@ -28019,7 +28024,7 @@
       "Name": "Raising Expectations",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 17892
+      "UsersEstimate": 17893
     },
     {
       "ID": "PFA_43",
@@ -28090,16 +28095,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298206,
-      "Completed": 484
+      "Progressed": 298211,
+      "Completed": 485
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-12T20:00:46.7048393+00:00",
-  "LastChanged_Achievements": "2023-10-12T20:04:27.4295313+00:00",
+  "LastChanged_Achievements": "2023-10-12T21:04:19.2703955+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:01.0338203+00:00",
-  "LastUpdate_Ratings": "2023-10-12T20:00:46.7048402+00:00",
-  "LastUpdate_Achievements": "2023-10-12T20:04:27.4297136+00:00"
+  "LastUpdate_Ratings": "2023-10-12T20:59:52.0591527+00:00",
+  "LastUpdate_Achievements": "2023-10-12T21:04:19.2705609+00:00"
 }

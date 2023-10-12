@@ -2,13 +2,13 @@
   "ID": "c11f80fe3b674a2bbf60e4c46d588a54",
   "Name": "Pinball FX",
   "ProductSlug": "pinball-fx",
-  "Ranking_Rating": 946,
+  "Ranking_Rating": 947,
   "Ranking_Popularity": 280,
   "Ranking_PopularitySum": 224,
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 48,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 49,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -1852,9 +1852,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 270620,
+  "EOS_Progressed": 270643,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1843,
+  "EOS_NewPlayers": 1838,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21747,6 +21747,11 @@
       "Time": "2023-10-12T20:07:53.7142824+00:00",
       "NumProgressed": 270620,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-12T21:06:46.2547285+00:00",
+      "NumProgressed": 270643,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -21806,7 +21811,7 @@
       "Name": "Contender",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 27062
+      "UsersEstimate": 27064
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -21846,7 +21851,7 @@
       "Name": "First but not Last",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 10825
+      "UsersEstimate": 10826
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -21918,7 +21923,7 @@
       "Name": "I Found it!",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 27062
+      "UsersEstimate": 27064
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -21926,7 +21931,7 @@
       "Name": "Full Loot Madness",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5412
+      "UsersEstimate": 5413
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -21982,7 +21987,7 @@
       "Name": "Ball Launched",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 221908
+      "UsersEstimate": 221927
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -21990,22 +21995,22 @@
       "Name": "I know the Rules",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 94717
+      "UsersEstimate": 94725
     }
   ],
   "AchievementSets": [
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 270620,
+      "Progressed": 270643,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "LastChanged": "2023-10-12T17:58:08.4312396+00:00",
-  "LastChanged_Achievements": "2023-10-12T20:07:53.714282+00:00",
+  "LastChanged_Achievements": "2023-10-12T21:06:46.2547278+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:00.8853649+00:00",
-  "LastUpdate_Ratings": "2023-10-12T19:58:29.7045078+00:00",
-  "LastUpdate_Achievements": "2023-10-12T20:07:53.7144626+00:00"
+  "LastUpdate_Ratings": "2023-10-12T20:58:20.8535143+00:00",
+  "LastUpdate_Achievements": "2023-10-12T21:06:46.2548812+00:00"
 }

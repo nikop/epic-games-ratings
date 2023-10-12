@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 65,
   "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
     "PcReleaseDate": "2020-02-19T00:00:00+00:00",
@@ -254,9 +254,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1540,
+  "EOS_Progressed": 1541,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.74,
   "EosHistory": [
@@ -2929,6 +2929,11 @@
       "Time": "2023-10-12T17:09:00.1174335+00:00",
       "NumProgressed": 1540,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-10-12T21:09:15.2034159+00:00",
+      "NumProgressed": 1541,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 11,
@@ -3004,7 +3009,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1170
+      "UsersEstimate": 1171
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -3020,22 +3025,22 @@
       "Name": "Ghost Hunters",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     }
   ],
   "AchievementSets": [
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1540,
+      "Progressed": 1541,
       "Completed": 73
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-09-26T03:58:28.0006108+00:00",
-  "LastChanged_Achievements": "2023-10-12T20:09:03.3845294+00:00",
+  "LastChanged_Achievements": "2023-10-12T21:09:15.2034154+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:50.9443853+00:00",
-  "LastUpdate_Ratings": "2023-10-12T19:57:22.0746583+00:00",
-  "LastUpdate_Achievements": "2023-10-12T20:09:03.3845599+00:00"
+  "LastUpdate_Ratings": "2023-10-12T20:57:34.6381765+00:00",
+  "LastUpdate_Achievements": "2023-10-12T21:09:15.2034439+00:00"
 }

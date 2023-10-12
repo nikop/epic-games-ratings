@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 165,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
     "PcReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 858,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 151,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -2051,9 +2051,9 @@
       "ID": "CongratulationsYouAreAnEngineer",
       "SetID": "3ai6ml8",
       "Name": "Congratulations, you\u0027re an engineer",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 335
+      "UsersEstimate": 343
     },
     {
       "ID": "DarkestBeforeTheDawn",
@@ -2178,8 +2178,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-10-12T20:08:31.077704+00:00",
+  "LastChanged_Achievements": "2023-10-12T21:07:12.4423088+00:00",
   "LastUpdate_AppInfo": "2023-10-11T15:57:05.4111665+00:00",
-  "LastUpdate_Ratings": "2023-10-12T19:58:06.0192754+00:00",
-  "LastUpdate_Achievements": "2023-10-12T20:08:31.0777306+00:00"
+  "LastUpdate_Ratings": "2023-10-12T20:58:04.117557+00:00",
+  "LastUpdate_Achievements": "2023-10-12T21:07:12.4423352+00:00"
 }
