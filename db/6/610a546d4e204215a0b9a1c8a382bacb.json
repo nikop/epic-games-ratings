@@ -2,10 +2,10 @@
   "ID": "610a546d4e204215a0b9a1c8a382bacb",
   "Name": "Football Manager 2024",
   "ProductSlug": "football-manager-2024",
-  "Ranking_EOS_Progress": 667,
+  "Ranking_EOS_Progress": 668,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 395,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-11-06T16:00:00+00:00",
     "PcReleaseDate": "2023-11-06T16:00:00+00:00",
@@ -36,8 +36,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-02T11:06:23.203391+00:00",
-  "LastChanged_Achievements": "2023-10-12T18:07:05.1346697+00:00",
+  "LastChanged_Achievements": "2023-10-12T19:06:12.8175293+00:00",
   "LastUpdate_AppInfo": "2023-10-10T16:57:15.3544407+00:00",
-  "LastUpdate_Ratings": "2023-10-12T17:59:17.8137681+00:00",
-  "LastUpdate_Achievements": "2023-10-12T18:07:05.134673+00:00"
+  "LastUpdate_Ratings": "2023-10-12T18:58:47.1749358+00:00",
+  "LastUpdate_Achievements": "2023-10-12T19:06:12.8175322+00:00"
 }

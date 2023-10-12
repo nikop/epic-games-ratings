@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 283,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1833,9 +1833,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14617,
+  "EOS_Progressed": 14619,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 247,
+  "EOS_NewPlayers": 245,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13663,6 +13663,11 @@
       "Time": "2023-10-12T18:07:08.1535834+00:00",
       "NumProgressed": 14617,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-12T19:06:15.3883672+00:00",
+      "NumProgressed": 14619,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -14048,9 +14053,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_BRAVE",
       "SetID": "9201eeb",
       "Name": "Drillmaster",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 102
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_BRILLIANT",
@@ -14504,9 +14509,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_ARTISANS",
       "SetID": "7l38kb8",
       "Name": "Artisans",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 102
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_CHAMPIONS",
@@ -15200,9 +15205,9 @@
       "ID": "ACHIEVEMENT_LEARNTOPLAY_2",
       "SetID": "7l38kb8",
       "Name": "Learn to Play 2",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 102
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_3",
@@ -15304,9 +15309,9 @@
       "ID": "ACHIEVEMENT_NATION_GREECE",
       "SetID": "7l38kb8",
       "Name": "Greece",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 73
     },
     {
       "ID": "ACHIEVEMENT_NATION_HITTITE",
@@ -15728,9 +15733,9 @@
       "ID": "ACHIEVEMENT_UNIT_HITTITE_CHARIOT",
       "SetID": "9201eeb",
       "Name": "Three Man Chariot",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_UNIT_KUSHITE_CAVALRY",
@@ -16409,21 +16414,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14617,
+      "Progressed": 14619,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14617,
+      "Progressed": 14619,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-12T09:03:11.7935292+00:00",
-  "LastChanged_Achievements": "2023-10-12T18:07:08.1535829+00:00",
+  "LastChanged_Achievements": "2023-10-12T19:06:15.3883665+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:48.3987129+00:00",
-  "LastUpdate_Ratings": "2023-10-12T18:03:12.1882157+00:00",
-  "LastUpdate_Achievements": "2023-10-12T18:07:08.1545848+00:00"
+  "LastUpdate_Ratings": "2023-10-12T19:03:12.0777399+00:00",
+  "LastUpdate_Achievements": "2023-10-12T19:06:15.3896262+00:00"
 }

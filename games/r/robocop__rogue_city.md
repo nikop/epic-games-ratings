@@ -4,6 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| No stone unturned | 100.00% | ~1 |
 | I'd Buy That For a Dollar! | 0.00% | ~0 |
 | Hard Boiled | 0.00% | ~0 |
 | Uphold the Law | 0.00% | ~0 |
@@ -24,10 +25,16 @@
 | Not Arresting You Anymore | 0.00% | ~0 |
 | "Nice shooting, son" | 0.00% | ~0 |
 | A Real Hero | 0.00% | ~0 |
-| No stone unturned | 0.00% | ~0 |
 | Good eyes, Murphy! | 0.00% | ~0 |
 | Zip This Up | 0.00% | ~0 |
 | Dead-On | 0.00% | ~0 |
 | SuperCop | 0.00% | ~0 |
 | "This Guy Is Really Good" | 0.00% | ~0 |
 | Practice Makes Perfect | 0.00% | ~0 |
+## Popularity (Based on EOS Achievements)
+Progressed: 1 (Ranked 613)  
+Completed: 0 (0.00%) (Ranked 314)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2023-10-12 | 1 | 0 |

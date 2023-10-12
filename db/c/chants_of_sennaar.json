@@ -2,10 +2,10 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_EOS_Progress": 318,
+  "Ranking_EOS_Progress": 317,
   "Ranking_EOS_Completed": 50,
-  "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -17,11 +17,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 277,
+  "EOS_Progressed": 279,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 6.86,
+  "EOS_Completed_Percentage": 6.81,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1297,6 +1297,11 @@
       "Time": "2023-10-11T17:09:29.6847282+00:00",
       "NumProgressed": 277,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-10-12T19:07:21.5475732+00:00",
+      "NumProgressed": 279,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 25,
@@ -1418,9 +1423,9 @@
       "ID": "OPTIONNAL_GAMES",
       "SetID": "2gma9an",
       "Name": "True G3M4R",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 17
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -1450,9 +1455,9 @@
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 28
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -1484,7 +1489,7 @@
       "Name": "A new dawn",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "PROGRESS_N4",
@@ -1507,14 +1512,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 277,
+      "Progressed": 279,
       "Completed": 19
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-12T18:08:33.8744484+00:00",
+  "LastChanged_Achievements": "2023-10-12T19:07:21.5475727+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:05.0979362+00:00",
-  "LastUpdate_Ratings": "2023-10-12T18:01:28.8077258+00:00",
-  "LastUpdate_Achievements": "2023-10-12T18:08:33.874469+00:00"
+  "LastUpdate_Ratings": "2023-10-12T19:00:24.3146376+00:00",
+  "LastUpdate_Achievements": "2023-10-12T19:07:21.5475964+00:00"
 }

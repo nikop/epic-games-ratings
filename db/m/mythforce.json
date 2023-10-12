@@ -6,9 +6,9 @@
   "Ranking_Popularity": 460,
   "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 177,
-  "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_Completed": 270,
+  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -743,9 +743,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4050,
+  "EOS_Progressed": 4051,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 280,
+  "EOS_NewPlayers": 281,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7198,6 +7198,11 @@
       "Time": "2023-10-12T18:07:52.7279546+00:00",
       "NumProgressed": 4050,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-12T19:06:49.9254874+00:00",
+      "NumProgressed": 4051,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -7266,7 +7271,7 @@
       "Name": "First Strike",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -7282,7 +7287,7 @@
       "Name": "The Fourth Gate",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "MF_Ach_HarderTheyFall",
@@ -7330,7 +7335,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -7338,7 +7343,7 @@
       "Name": "On this Episode!",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "MF_Ach_PerkShardPunchCard",
@@ -7362,7 +7367,7 @@
       "Name": "Spending Spree",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -7393,15 +7398,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4050,
+      "Progressed": 4051,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-07T19:57:55.3513461+00:00",
-  "LastChanged_Achievements": "2023-10-12T18:07:52.7279541+00:00",
+  "LastChanged_Achievements": "2023-10-12T19:06:49.9254863+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:44.063019+00:00",
-  "LastUpdate_Ratings": "2023-10-12T18:00:59.5073929+00:00",
-  "LastUpdate_Achievements": "2023-10-12T18:07:52.7279975+00:00"
+  "LastUpdate_Ratings": "2023-10-12T19:00:04.4967725+00:00",
+  "LastUpdate_Achievements": "2023-10-12T19:06:49.9255407+00:00"
 }

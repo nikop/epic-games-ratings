@@ -2,10 +2,10 @@
   "ID": "2d82ec23ba2e4b188a8a34ac37ccbb99",
   "Name": "The Golden Eyed Ghosts",
   "ProductSlug": "the-golden-eyed-ghosts-9cd9cf",
-  "Ranking_EOS_Progress": 667,
+  "Ranking_EOS_Progress": 668,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 395,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-07T14:58:55.7287362+00:00",
-  "LastUpdate_Ratings": "2023-10-12T17:57:22.6611938+00:00",
-  "LastUpdate_Achievements": "2023-10-12T18:08:18.6150052+00:00"
+  "LastUpdate_Ratings": "2023-10-12T18:57:20.0059238+00:00",
+  "LastUpdate_Achievements": "2023-10-12T19:07:10.1013423+00:00"
 }

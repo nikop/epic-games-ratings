@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 357,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 60,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 61,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1060,9 +1060,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 151616,
+  "EOS_Progressed": 151631,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1200,
+  "EOS_NewPlayers": 1198,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11305,6 +11305,11 @@
       "Time": "2023-10-12T18:08:17.6529254+00:00",
       "NumProgressed": 151616,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-12T19:07:09.1211668+00:00",
+      "NumProgressed": 151631,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -11460,7 +11465,7 @@
       "Name": "Jawcrab",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "DEFEAT_JAWSTAG",
@@ -11468,7 +11473,7 @@
       "Name": "Jawstag",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "DEFEAT_PERFORMER",
@@ -11492,7 +11497,7 @@
       "Name": "Feast",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "DEFEAT_WATCHER",
@@ -11500,7 +11505,7 @@
       "Name": "Watcher",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "DEFEAT_WHISPERERS",
@@ -11572,7 +11577,7 @@
       "Name": "Yank",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "MISC_REACHHIGHLEVEL",
@@ -11580,7 +11585,7 @@
       "Name": "Sharpened Vessel",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "MISC_REACHMAXARDOR",
@@ -11683,21 +11688,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 151199,
+      "Progressed": 151214,
       "Completed": 1154
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 151616,
+      "Progressed": 151631,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-12T16:59:41.5193052+00:00",
-  "LastChanged_Achievements": "2023-10-12T18:08:17.6529247+00:00",
+  "LastChanged_Achievements": "2023-10-12T19:07:09.1211664+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:46.4911319+00:00",
-  "LastUpdate_Ratings": "2023-10-12T17:59:25.9583018+00:00",
-  "LastUpdate_Achievements": "2023-10-12T18:08:17.6530039+00:00"
+  "LastUpdate_Ratings": "2023-10-12T18:58:53.0559224+00:00",
+  "LastUpdate_Achievements": "2023-10-12T19:07:09.1212677+00:00"
 }

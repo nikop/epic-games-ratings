@@ -2,10 +2,10 @@
   "ID": "661acb27189a4b4f8e6fdc8ca44aa6ea",
   "Name": "Flashback 2",
   "ProductSlug": "flashback-2-9dc232",
-  "Ranking_EOS_Progress": 667,
+  "Ranking_EOS_Progress": 668,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 395,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-07T14:58:03.0655852+00:00",
-  "LastUpdate_Ratings": "2023-10-12T17:58:41.0886571+00:00",
-  "LastUpdate_Achievements": "2023-10-12T18:09:36.3362682+00:00"
+  "LastUpdate_Ratings": "2023-10-12T18:58:19.2225305+00:00",
+  "LastUpdate_Achievements": "2023-10-12T19:09:13.1142131+00:00"
 }

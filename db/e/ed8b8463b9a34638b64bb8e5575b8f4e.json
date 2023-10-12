@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 476,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 309,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-09-12T11:00:00+00:00",
     "PcReleaseDate": "2023-09-12T09:00:00+00:00",
@@ -234,9 +234,9 @@
       "ID": "passive_fist",
       "SetID": "7i36ba9",
       "Name": "Passive Fist",
-      "Percentage": 8,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "poor_gracie_ray",
@@ -330,17 +330,17 @@
       "ID": "the_swell_celebration",
       "SetID": "7i36ba9",
       "Name": "The Swell Celebration",
-      "Percentage": 4,
+      "Percentage": 8,
       "XP": 95,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "time_waster",
       "SetID": "7i36ba9",
       "Name": "Time Waster",
-      "Percentage": 25,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "who_is_d",
@@ -361,8 +361,8 @@
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2023-10-12T18:09:44.4228836+00:00",
+  "LastChanged_Achievements": "2023-10-12T19:09:19.7139351+00:00",
   "LastUpdate_AppInfo": "2023-10-06T23:56:59.9075633+00:00",
-  "LastUpdate_Ratings": "2023-10-12T17:58:19.6624383+00:00",
-  "LastUpdate_Achievements": "2023-10-12T18:09:44.4228995+00:00"
+  "LastUpdate_Ratings": "2023-10-12T18:58:03.1025161+00:00",
+  "LastUpdate_Achievements": "2023-10-12T19:09:19.713954+00:00"
 }

@@ -37,6 +37,7 @@
 | Galactic Lieutenant | 8.00% | ~5 |
 | Sectoral Captain | 8.00% | ~5 |
 | Collateral Damage II | 8.00% | ~5 |
+| Fighting Fit II | 8.00% | ~5 |
 | Bronze Foundation | 6.00% | ~4 |
 | System Ensign | 6.00% | ~4 |
 | Bronze Pest Control | 6.00% | ~4 |
@@ -54,7 +55,6 @@
 | 50Gb HDD | 6.00% | ~4 |
 | Silver Foundation | 6.00% | ~4 |
 | Silver Pest Control | 6.00% | ~4 |
-| Fighting Fit II | 6.00% | ~4 |
 | Bronze BBQ | 5.00% | ~3 |
 | Pilgrim | 5.00% | ~3 |
 | Golden Foundation | 5.00% | ~3 |

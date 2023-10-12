@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 306,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2019-09-17T12:00:00+00:00",
@@ -5674,9 +5674,9 @@
       "ID": "ACH_YOURE-FREE-NOW",
       "SetID": "72olkc5",
       "Name": "You\u0027re free now!",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 1805
+      "UsersEstimate": 1835
     }
   ],
   "AchievementSets": [
@@ -5690,8 +5690,8 @@
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-10-12T16:57:07.6869387+00:00",
-  "LastChanged_Achievements": "2023-10-12T18:06:53.3077878+00:00",
+  "LastChanged_Achievements": "2023-10-12T19:06:03.7347659+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:23.9466799+00:00",
-  "LastUpdate_Ratings": "2023-10-12T17:57:02.8326103+00:00",
-  "LastUpdate_Achievements": "2023-10-12T18:06:53.3078393+00:00"
+  "LastUpdate_Ratings": "2023-10-12T18:57:05.6761138+00:00",
+  "LastUpdate_Achievements": "2023-10-12T19:06:03.7348274+00:00"
 }

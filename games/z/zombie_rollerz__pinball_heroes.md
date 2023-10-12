@@ -18,7 +18,7 @@ Rating: 4.30 (Ranked 811)
 | The Tunneler | 39.00% | ~67 |
 | Level Up!! | 37.00% | ~63 |
 | The Shield | 37.00% | ~63 |
-| Kill-streak | 29.00% | ~50 |
+| Kill-streak | 30.00% | ~51 |
 | Topped up | 28.00% | ~48 |
 | The Bird | 28.00% | ~48 |
 | The Idol | 26.00% | ~44 |

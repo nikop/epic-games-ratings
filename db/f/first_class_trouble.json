@@ -3,12 +3,12 @@
   "Name": "First Class Trouble",
   "ProductSlug": "first-class-trouble",
   "Ranking_Rating": 607,
-  "Ranking_Popularity": 316,
-  "Ranking_PopularitySum": 293,
-  "Ranking_EOS_Progress": 667,
+  "Ranking_Popularity": 315,
+  "Ranking_PopularitySum": 292,
+  "Ranking_EOS_Progress": 668,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 395,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -1546,11 +1546,17 @@
       "Rating": 4.48,
       "NumberOfAwards": 667,
       "NumberOfAwardsMax": 133
+    },
+    {
+      "Time": "2023-10-12T18:59:40.6436443+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 668,
+      "NumberOfAwardsMax": 134
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 667,
-  "NumberOfAwardsMax": 133,
+  "NumberOfAwards": 668,
+  "NumberOfAwardsMax": 134,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
@@ -1569,7 +1575,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 133
+      "Count": 134
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1626,8 +1632,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-09-22T22:01:01.54229+00:00",
   "FirstSeenRating": "2023-01-13T07:56:45.2170746+00:00",
-  "LastChanged": "2023-10-11T05:59:16.8617455+00:00",
+  "LastChanged": "2023-10-12T18:59:40.6436441+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:03.7467092+00:00",
-  "LastUpdate_Ratings": "2023-10-12T18:00:31.1212949+00:00",
-  "LastUpdate_Achievements": "2023-10-12T18:06:00.2141243+00:00"
+  "LastUpdate_Ratings": "2023-10-12T18:59:40.6436447+00:00",
+  "LastUpdate_Achievements": "2023-10-12T19:05:22.8399765+00:00"
 }

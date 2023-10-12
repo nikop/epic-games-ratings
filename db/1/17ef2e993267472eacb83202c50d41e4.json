@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7083,
+  "EOS_Progressed": 7084,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 191,
+  "EOS_NewPlayers": 190,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3953,6 +3953,11 @@
       "Time": "2023-10-12T18:09:43.3152724+00:00",
       "NumProgressed": 7083,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-12T19:09:18.6823268+00:00",
+      "NumProgressed": 7084,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -4037,7 +4042,7 @@
       "Name": "Upgraded Enhanced Armor to Level 3",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "EAUpgraded1",
@@ -4141,7 +4146,7 @@
       "Name": "Upgraded the Grenade Launcher to Level 3",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "HAPurchased1",
@@ -4245,7 +4250,7 @@
       "Name": "Destroyed 30 Inhibitors",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "LMGUpgraded1",
@@ -4461,7 +4466,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1062
+      "UsersEstimate": 1063
     },
     {
       "ID": "SEUpgraded1",
@@ -4517,7 +4522,7 @@
       "Name": "Purchased Toxic Grenade",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "TPurchased1",
@@ -4541,7 +4546,7 @@
       "Name": "Destroyed 11 Towers",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "WCUpgraded1",
@@ -4556,7 +4561,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 7083,
+      "Progressed": 7084,
       "Completed": 1
     }
   ],
@@ -4564,8 +4569,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-09-28T09:00:22.5097709+00:00",
-  "LastChanged_Achievements": "2023-10-12T18:09:43.315272+00:00",
+  "LastChanged_Achievements": "2023-10-12T19:09:18.682326+00:00",
   "LastUpdate_AppInfo": "2023-10-10T10:57:15.6695599+00:00",
-  "LastUpdate_Ratings": "2023-10-12T17:59:34.499004+00:00",
-  "LastUpdate_Achievements": "2023-10-12T18:09:43.3153521+00:00"
+  "LastUpdate_Ratings": "2023-10-12T18:58:59.014998+00:00",
+  "LastUpdate_Achievements": "2023-10-12T19:09:18.6824168+00:00"
 }

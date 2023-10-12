@@ -51,23 +51,23 @@ Number of Ratings: 1,307  (23.09.2022)
 | Roman Paganism | 0.80% | ~117 |
 | Zoroastrianism | 0.80% | ~117 |
 | Kushite Pyramids | 0.80% | ~117 |
+| Drillmaster | 0.70% | ~102 |
 | Great | 0.70% | ~102 |
+| Artisans | 0.70% | ~102 |
 | Musaeum | 0.70% | ~102 |
 | Necropolis | 0.70% | ~102 |
+| Learn to Play 2 | 0.70% | ~102 |
 | Manichaeism | 0.70% | ~102 |
 | Egyptian Paganism | 0.70% | ~102 |
 | Regicide | 0.60% | ~88 |
-| Drillmaster | 0.60% | ~88 |
 | Valiant | 0.60% | ~88 |
 | Legendary Cities | 0.60% | ~88 |
 | Just Difficulty | 0.60% | ~88 |
-| Artisans | 0.60% | ~88 |
 | Champions | 0.60% | ~88 |
 | Sages | 0.60% | ~88 |
 | Apadana | 0.60% | ~88 |
 | Colossus | 0.60% | ~88 |
 | Mausoleum | 0.60% | ~88 |
-| Learn to Play 2 | 0.60% | ~88 |
 | Mythology | 0.60% | ~88 |
 | Win a Single Player Game | 0.60% | ~88 |
 | Hanging Gardens in Babylon | 0.50% | ~73 |
@@ -79,6 +79,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Good Difficulty | 0.50% | ~73 |
 | Acropolis | 0.50% | ~73 |
 | Learn to Play 3 | 0.50% | ~73 |
+| Greece | 0.50% | ~73 |
 | Power to the People | 0.50% | ~73 |
 | Building Wonders | 0.50% | ~73 |
 | Invincible | 0.40% | ~58 |
@@ -95,7 +96,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon | 0.40% | ~58 |
 | Via Recta Souk | 0.40% | ~58 |
 | Learn to Play 4 | 0.40% | ~58 |
-| Greece | 0.40% | ~58 |
 | Persian Paganism | 0.40% | ~58 |
 | Legalism | 0.40% | ~58 |
 | Redemption | 0.40% | ~58 |
@@ -144,6 +144,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Old World Order | 0.20% | ~29 |
 | Enlightenment | 0.20% | ~29 |
 | Cataphract Archer | 0.20% | ~29 |
+| Three Man Chariot | 0.20% | ~29 |
 | Siege Tower | 0.20% | ~29 |
 | All Nations | 0.20% | ~29 |
 | No Undo | 0.20% | ~29 |
@@ -255,7 +256,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Capturing Cities | 0.10% | ~15 |
 | Ten Crowns | 0.10% | ~15 |
 | Word of God | 0.10% | ~15 |
-| Three Man Chariot | 0.10% | ~15 |
 | Great Ziggurat in Ur | 0.10% | ~15 |
 | Conquest Victory | 0.10% | ~15 |
 | No Characters | 0.10% | ~15 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,617 (Ranked 134)  
+Progressed: 14,619 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -524,7 +524,7 @@ Completed: 5 (0.03%) (Ranked 283)
 | 2023-10-09 | 14,562 | 5 |
 | 2023-10-10 | 14,586 | 5 |
 | 2023-10-11 | 14,606 | 5 |
-| 2023-10-12 | 14,617 | 5 |
+| 2023-10-12 | 14,619 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,834 (Ranked 210)  

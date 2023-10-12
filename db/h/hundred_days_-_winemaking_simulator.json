@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 219,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 252,
-  "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 66,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1018,9 +1018,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 7695,
+  "EOS_Progressed": 7702,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1132,
+  "EOS_NewPlayers": 1126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -6143,6 +6143,11 @@
       "Time": "2023-10-12T18:05:06.8242097+00:00",
       "NumProgressed": 7695,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-12T19:04:42.0443007+00:00",
+      "NumProgressed": 7702,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -6203,7 +6208,7 @@
       "Name": "Bye Bye",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 2924
+      "UsersEstimate": 2927
     },
     {
       "ID": "a_19",
@@ -6379,7 +6384,7 @@
       "Name": "Knight of Langhe",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "a_8",
@@ -6402,7 +6407,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 7695,
+      "Progressed": 7702,
       "Completed": 7
     }
   ],
@@ -6410,8 +6415,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-10-10T16:59:22.7446864+00:00",
-  "LastChanged_Achievements": "2023-10-12T18:05:06.8242088+00:00",
+  "LastChanged_Achievements": "2023-10-12T19:04:42.0442997+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:33.0848409+00:00",
-  "LastUpdate_Ratings": "2023-10-12T18:00:00.7763452+00:00",
-  "LastUpdate_Achievements": "2023-10-12T18:05:06.8242503+00:00"
+  "LastUpdate_Ratings": "2023-10-12T18:59:18.7674837+00:00",
+  "LastUpdate_Achievements": "2023-10-12T19:04:42.0443556+00:00"
 }

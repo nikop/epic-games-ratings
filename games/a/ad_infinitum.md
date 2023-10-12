@@ -9,7 +9,7 @@
 | Not alone | 59.00% | ~29 |
 | Hunger | 51.00% | ~25 |
 | Awaken | 49.00% | ~24 |
-| Path of Corruption | 31.00% | ~15 |
+| Path of Corruption | 33.00% | ~16 |
 | Hope | 27.00% | ~13 |
 | Rage | 22.00% | ~11 |
 | Path of Pain | 16.00% | ~8 |
@@ -23,9 +23,9 @@
 | Art critic | 6.00% | ~3 |
 | Jigsaw | 6.00% | ~3 |
 | Peace | 6.00% | ~3 |
+| An act of compassion | 4.00% | ~2 |
 | An act of mercy | 4.00% | ~2 |
 | Ad Infinitum | 4.00% | ~2 |
-| An act of compassion | 2.00% | ~1 |
 | Corruption | 2.00% | ~1 |
 | Despair | 2.00% | ~1 |
 | Pain | 2.00% | ~1 |

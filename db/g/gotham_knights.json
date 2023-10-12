@@ -3494,9 +3494,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73440,
+  "EOS_Progressed": 73441,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 270,
+  "EOS_NewPlayers": 266,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -18454,6 +18454,11 @@
       "Time": "2023-10-12T17:04:25.9543074+00:00",
       "NumProgressed": 73440,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-10-12T19:03:57.3833417+00:00",
+      "NumProgressed": 73441,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 61,
@@ -18569,7 +18574,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15422
+      "UsersEstimate": 15423
     },
     {
       "ID": "CLAYFACE_2",
@@ -18697,7 +18702,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15422
+      "UsersEstimate": 15423
     },
     {
       "ID": "FREEZE_2",
@@ -18785,7 +18790,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15422
+      "UsersEstimate": 15423
     },
     {
       "ID": "HARLEY_4",
@@ -18793,7 +18798,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 11750
+      "UsersEstimate": 11751
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -18921,7 +18926,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 8078
+      "UsersEstimate": 8079
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -18952,13 +18957,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73440,
+      "Progressed": 73441,
       "Completed": 121
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43720,
+      "Progressed": 43721,
       "Completed": 2666
     }
   ],
@@ -18966,8 +18971,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-12T13:57:14.6497649+00:00",
-  "LastChanged_Achievements": "2023-10-12T18:04:09.3981083+00:00",
+  "LastChanged_Achievements": "2023-10-12T19:03:57.3833412+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:31.3761181+00:00",
-  "LastUpdate_Ratings": "2023-10-12T17:57:13.0255099+00:00",
-  "LastUpdate_Achievements": "2023-10-12T18:04:09.3982271+00:00"
+  "LastUpdate_Ratings": "2023-10-12T18:57:13.2585356+00:00",
+  "LastUpdate_Achievements": "2023-10-12T19:03:57.3835012+00:00"
 }

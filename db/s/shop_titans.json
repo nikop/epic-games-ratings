@@ -6484,7 +6484,7 @@
       "Count": 3759
     }
   ],
-  "EOS_Progressed": 137483,
+  "EOS_Progressed": 137488,
   "EOS_Completed": 168,
   "EOS_NewPlayers": 333,
   "EOS_NewCompleters": 6,
@@ -24419,6 +24419,11 @@
       "Time": "2023-10-12T16:07:59.2673884+00:00",
       "NumProgressed": 137483,
       "NumCompleted": 168
+    },
+    {
+      "Time": "2023-10-12T19:07:17.8429753+00:00",
+      "NumProgressed": 137488,
+      "NumCompleted": 168
     }
   ],
   "TotalAchievements": 112,
@@ -24598,7 +24603,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4124
+      "UsersEstimate": 4125
     },
     {
       "ID": "chest02",
@@ -24662,7 +24667,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4124
+      "UsersEstimate": 4125
     },
     {
       "ID": "commonres02",
@@ -24902,7 +24907,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4124
+      "UsersEstimate": 4125
     },
     {
       "ID": "gold02",
@@ -25246,7 +25251,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4124
+      "UsersEstimate": 4125
     },
     {
       "ID": "twinenchant01",
@@ -25325,15 +25330,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 137483,
+      "Progressed": 137488,
       "Completed": 168
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-12T14:00:09.8218051+00:00",
-  "LastChanged_Achievements": "2023-10-12T18:08:28.7543294+00:00",
+  "LastChanged_Achievements": "2023-10-12T19:07:17.8429747+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:52.7124415+00:00",
-  "LastUpdate_Ratings": "2023-10-12T18:01:08.9684756+00:00",
-  "LastUpdate_Achievements": "2023-10-12T18:08:28.754533+00:00"
+  "LastUpdate_Ratings": "2023-10-12T19:00:10.8942587+00:00",
+  "LastUpdate_Achievements": "2023-10-12T19:07:17.8432328+00:00"
 }

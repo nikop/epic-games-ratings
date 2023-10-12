@@ -2,10 +2,10 @@
   "ID": "9e46ce76e796420a89e04e0d6cad61f4",
   "Name": "Effie",
   "ProductSlug": "effie-f06e3c",
-  "Ranking_EOS_Progress": 667,
+  "Ranking_EOS_Progress": 668,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 395,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-01-20T15:00:00+00:00",
     "PcReleaseDate": "2020-01-28T00:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:58:33.350726+00:00",
   "LastChanged": "2023-03-31T05:58:33.3507261+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:13.9056358+00:00",
-  "LastUpdate_Ratings": "2023-10-12T18:01:37.5607179+00:00",
-  "LastUpdate_Achievements": "2023-10-12T18:08:22.028825+00:00"
+  "LastUpdate_Ratings": "2023-10-12T19:00:31.0712521+00:00",
+  "LastUpdate_Achievements": "2023-10-12T19:07:12.6242064+00:00"
 }

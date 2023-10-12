@@ -19,7 +19,7 @@ Rating: 4.03 (Ranked 959)
 | Control is an Illusion | 35.00% | ~29 |
 | Socialite | 35.00% | ~29 |
 | The Means to Save It | 29.00% | ~24 |
-| Resilience to Sin | 23.00% | ~19 |
+| Resilience to Sin | 24.00% | ~20 |
 | A Familiar Nest | 20.00% | ~17 |
 | Periapt Alizarin | 20.00% | ~17 |
 | Geas Aristeya | 19.00% | ~16 |

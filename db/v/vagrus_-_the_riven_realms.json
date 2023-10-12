@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 333,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
     "PcReleaseDate": "2021-10-05T15:00:00+00:00",
@@ -1124,9 +1124,9 @@
       "ID": "Vanilla_PressGanged",
       "SetID": "27kik8p",
       "Name": "Press-ganged",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "Vanilla_Ratharnak",
@@ -1252,9 +1252,9 @@
       "ID": "Vanilla_ThePackage",
       "SetID": "27kik8p",
       "Name": "The Package",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 43
     },
     {
       "ID": "Vanilla_ThePilgrimageEnds",
@@ -1373,8 +1373,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-10-12T18:09:43.1500617+00:00",
+  "LastChanged_Achievements": "2023-10-12T19:09:18.6451981+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:38.1607009+00:00",
-  "LastUpdate_Ratings": "2023-10-12T18:02:15.5180132+00:00",
-  "LastUpdate_Achievements": "2023-10-12T18:09:43.150167+00:00"
+  "LastUpdate_Ratings": "2023-10-12T19:00:51.6964552+00:00",
+  "LastUpdate_Achievements": "2023-10-12T19:09:18.6453217+00:00"
 }

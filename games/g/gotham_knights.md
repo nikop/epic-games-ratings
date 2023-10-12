@@ -14,16 +14,16 @@ Rating: 4.18 (Ranked 897)
 | Whispered Words | 25.00% | ~18,360 |
 | The Batman Family | 23.00% | ~16,891 |
 | Lock and Key | 23.00% | ~16,891 |
-| Something in the Clay | 21.00% | ~15,422 |
-| Quartzer Life Crisis | 21.00% | ~15,422 |
-| Working Hard or Harley Working? | 21.00% | ~15,422 |
+| Something in the Clay | 21.00% | ~15,423 |
+| Quartzer Life Crisis | 21.00% | ~15,423 |
+| Working Hard or Harley Working? | 21.00% | ~15,423 |
 | Unstoppable Force | 20.00% | ~14,688 |
 | Bad Apples in Every Orchard | 20.00% | ~14,688 |
 | Snow Problem | 19.00% | ~13,954 |
 | The Show Mud Go On | 18.00% | ~13,219 |
 | From Inside Gotham's Walls | 18.00% | ~13,219 |
 | Protector of Gotham | 17.00% | ~12,485 |
-| Universal Health Scare | 16.00% | ~11,750 |
+| Universal Health Scare | 16.00% | ~11,751 |
 | In Your Element | 15.00% | ~11,016 |
 | Voiceless | 15.00% | ~11,016 |
 | Rock and a Hard Place | 14.00% | ~10,282 |
@@ -34,7 +34,7 @@ Rating: 4.18 (Ranked 897)
 | End of an Era | 12.00% | ~8,813 |
 | Bulldozed | 12.00% | ~8,813 |
 | Gotham Knight | 12.00% | ~8,813 |
-| Gotham City Confidential | 11.00% | ~8,078 |
+| Gotham City Confidential | 11.00% | ~8,079 |
 | Drone You Out | 10.00% | ~7,344 |
 | Out of Their League | 9.00% | ~6,610 |
 | Solid Alibi | 9.00% | ~6,610 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 897)
 | Element of Surprise | 0.20% | ~87 |
 | It's Nice to Be Wanted | 0.20% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,440 (Ranked 91)  
+Progressed: 73,441 (Ranked 91)  
 Completed: 121 (0.16%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,7 +242,7 @@ Completed: 121 (0.16%) (Ranked 231)
 | 2023-10-09 | 73,364 | 120 |
 | 2023-10-10 | 73,398 | 120 |
 | 2023-10-11 | 73,428 | 120 |
-| 2023-10-12 | 73,440 | 121 |
+| 2023-10-12 | 73,441 | 121 |
 ## Awards
 Max (Great Boss Battles): 2,811  (Ranked 97)  
 Sum: 4,717 (Ranked 140)  

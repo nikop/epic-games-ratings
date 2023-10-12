@@ -2,10 +2,10 @@
   "ID": "ec8ec4b13e6043cab8d1cbd0edda9a70",
   "Name": "Oceanhorn 2 - Knights of the Lost Realm",
   "ProductSlug": "oceanhorn-2-knights-of-the-lost-realm-8f4eb9",
-  "Ranking_EOS_Progress": 667,
+  "Ranking_EOS_Progress": 668,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 395,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-08-02T14:00:00+00:00",
     "PcReleaseDate": "2023-08-02T14:00:00+00:00",
@@ -40,8 +40,8 @@
   ],
   "FirstSeen": "2023-08-03T10:58:12.6215513+00:00",
   "FirstSeenAchievements": "2023-06-02T12:01:49.7973388+00:00",
-  "LastChanged_Achievements": "2023-10-12T18:05:07.2900681+00:00",
+  "LastChanged_Achievements": "2023-10-12T19:04:42.3721227+00:00",
   "LastUpdate_AppInfo": "2023-10-06T23:57:00.303628+00:00",
-  "LastUpdate_Ratings": "2023-10-12T18:03:11.707056+00:00",
-  "LastUpdate_Achievements": "2023-10-12T18:05:07.2900706+00:00"
+  "LastUpdate_Ratings": "2023-10-12T19:03:11.7811508+00:00",
+  "LastUpdate_Achievements": "2023-10-12T19:04:42.372126+00:00"
 }

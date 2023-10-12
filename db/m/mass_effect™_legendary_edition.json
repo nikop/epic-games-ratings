@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -1789,9 +1789,9 @@
       "ID": "achievement_124",
       "SetID": "d252ncf",
       "Name": "Recruit",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 477
+      "UsersEstimate": 484
     },
     {
       "ID": "achievement_125",
@@ -2593,8 +2593,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-12T17:09:05.0382085+00:00",
+  "LastChanged_Achievements": "2023-10-12T19:03:18.1983473+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:40.7255751+00:00",
-  "LastUpdate_Ratings": "2023-10-12T17:59:17.2539358+00:00",
-  "LastUpdate_Achievements": "2023-10-12T17:09:05.0384054+00:00"
+  "LastUpdate_Ratings": "2023-10-12T18:58:46.6451772+00:00",
+  "LastUpdate_Achievements": "2023-10-12T19:03:18.1986669+00:00"
 }

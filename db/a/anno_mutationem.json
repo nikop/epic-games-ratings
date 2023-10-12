@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 532,
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 395,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
     "PcReleaseDate": "2022-03-17T09:00:00+00:00",
@@ -109,9 +109,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 675,
+  "EOS_Progressed": 676,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -539,6 +539,11 @@
       "Time": "2023-10-06T18:09:28.2436623+00:00",
       "NumProgressed": 675,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-12T19:09:20.4204996+00:00",
+      "NumProgressed": 676,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -574,7 +579,7 @@
       "Name": "Big Spender",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "Clarity_of_Mind",
@@ -622,7 +627,7 @@
       "Name": "I feel secure, contained \u0026 protected",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "I\u0027m walking here!",
@@ -638,7 +643,7 @@
       "Name": "I just love stuff!",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "I_think_its_broke",
@@ -694,7 +699,7 @@
       "Name": "Science, it works!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "So_Fresh",
@@ -718,7 +723,7 @@
       "Name": "Tell me your story",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "Thats_gotta_hurt",
@@ -734,7 +739,7 @@
       "Name": "The Traveler",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "The_Age_of_Mutationem",
@@ -750,7 +755,7 @@
       "Name": "The Ann Flores Combo Experience",
       "Percentage": 27,
       "XP": 40,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "The_Warlord",
@@ -814,7 +819,7 @@
       "Name": "Don\u0027t judge a manhole by its cover",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "posters",
@@ -837,7 +842,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 675,
+      "Progressed": 676,
       "Completed": 0
     }
   ],
@@ -845,8 +850,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-09-07T23:01:24.8259304+00:00",
-  "LastChanged_Achievements": "2023-10-12T18:09:45.4174307+00:00",
+  "LastChanged_Achievements": "2023-10-12T19:09:20.4204991+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:17.1389499+00:00",
-  "LastUpdate_Ratings": "2023-10-12T18:00:47.170944+00:00",
-  "LastUpdate_Achievements": "2023-10-12T18:09:45.4174538+00:00"
+  "LastUpdate_Ratings": "2023-10-12T18:59:53.4748512+00:00",
+  "LastUpdate_Achievements": "2023-10-12T19:09:20.420532+00:00"
 }

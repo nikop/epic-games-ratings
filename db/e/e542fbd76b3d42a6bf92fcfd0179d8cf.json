@@ -2,10 +2,10 @@
   "ID": "e542fbd76b3d42a6bf92fcfd0179d8cf",
   "Name": "Tracks of Triumph Retro Blast",
   "ProductSlug": "tracks-of-triumph-retro-blast-d2c1c2",
-  "Ranking_EOS_Progress": 667,
+  "Ranking_EOS_Progress": 668,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 395,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-06-07T14:00:00+00:00",
     "PcReleaseDate": "2023-06-07T14:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-06T05:57:20.4190924+00:00",
-  "LastUpdate_Ratings": "2023-10-12T17:58:31.7912254+00:00",
-  "LastUpdate_Achievements": "2023-10-12T18:08:38.4924727+00:00"
+  "LastUpdate_Ratings": "2023-10-12T18:58:12.2569028+00:00",
+  "LastUpdate_Achievements": "2023-10-12T19:08:04.9105425+00:00"
 }
