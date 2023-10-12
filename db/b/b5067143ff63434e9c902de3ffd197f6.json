@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1922,
+  "EOS_Progressed": 1926,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1557,
   "EOS_NewCompleters": 0,
@@ -1346,6 +1346,11 @@
       "Time": "2023-10-12T04:08:11.739119+00:00",
       "NumProgressed": 1922,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-12T05:06:44.8119619+00:00",
+      "NumProgressed": 1926,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -1454,7 +1459,7 @@
       "Name": "Level 0",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -1470,7 +1475,7 @@
       "Name": "Dreamer!",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "ACH_WINLEVEL3",
@@ -1494,7 +1499,7 @@
       "Name": "Glitchy",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_WINLEVEL5",
@@ -1510,7 +1515,7 @@
       "Name": "The Dark Road",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_WINLEVEL94",
@@ -1526,7 +1531,7 @@
       "Name": "Endless",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_WINLEVELFUN",
@@ -1542,21 +1547,21 @@
       "Name": "Lights Out",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     }
   ],
   "AchievementSets": [
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 1922,
+      "Progressed": 1926,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-10-12T04:08:11.7391187+00:00",
+  "LastChanged_Achievements": "2023-10-12T05:06:44.8119613+00:00",
   "LastUpdate_AppInfo": "2023-10-09T13:09:09.4900137+00:00",
-  "LastUpdate_Ratings": "2023-10-12T03:58:24.1696921+00:00",
-  "LastUpdate_Achievements": "2023-10-12T04:08:11.7391414+00:00"
+  "LastUpdate_Ratings": "2023-10-12T04:58:27.9516067+00:00",
+  "LastUpdate_Achievements": "2023-10-12T05:06:44.8119822+00:00"
 }

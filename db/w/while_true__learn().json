@@ -490,9 +490,9 @@
       "Count": 134
     }
   ],
-  "EOS_Progressed": 606577,
+  "EOS_Progressed": 606578,
   "EOS_Completed": 532,
-  "EOS_NewPlayers": 723,
+  "EOS_NewPlayers": 720,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -19935,6 +19935,11 @@
       "Time": "2023-10-12T04:10:47.3298516+00:00",
       "NumProgressed": 606577,
       "NumCompleted": 532
+    },
+    {
+      "Time": "2023-10-12T05:09:16.2146688+00:00",
+      "NumProgressed": 606578,
+      "NumCompleted": 532
     }
   ],
   "TotalAchievements": 28,
@@ -20010,7 +20015,7 @@
       "Name": "We need more gold",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 370012
+      "UsersEstimate": 370013
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -20066,7 +20071,7 @@
       "Name": "More FPS for the FPS god!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 303288
+      "UsersEstimate": 303289
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -20074,7 +20079,7 @@
       "Name": "First.. Bit?",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 564117
+      "UsersEstimate": 564118
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -20082,7 +20087,7 @@
       "Name": "Overmind",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 145578
+      "UsersEstimate": 145579
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -20169,15 +20174,15 @@
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 606577,
+      "Progressed": 606578,
       "Completed": 532
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
   "LastChanged": "2023-07-16T08:00:08.7749167+00:00",
-  "LastChanged_Achievements": "2023-10-12T04:10:47.3298511+00:00",
+  "LastChanged_Achievements": "2023-10-12T05:09:16.2146681+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:59.5062529+00:00",
-  "LastUpdate_Ratings": "2023-10-12T04:02:26.6056362+00:00",
-  "LastUpdate_Achievements": "2023-10-12T04:10:47.329963+00:00"
+  "LastUpdate_Ratings": "2023-10-12T05:01:23.8808248+00:00",
+  "LastUpdate_Achievements": "2023-10-12T05:09:16.2147825+00:00"
 }

@@ -324,9 +324,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 71164,
+  "EOS_Progressed": 71166,
   "EOS_Completed": 377,
-  "EOS_NewPlayers": 580,
+  "EOS_NewPlayers": 579,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -19479,6 +19479,11 @@
       "Time": "2023-10-12T04:08:15.0504766+00:00",
       "NumProgressed": 71164,
       "NumCompleted": 377
+    },
+    {
+      "Time": "2023-10-12T05:06:47.2627067+00:00",
+      "NumProgressed": 71166,
+      "NumCompleted": 377
     }
   ],
   "TotalAchievements": 24,
@@ -19498,7 +19503,7 @@
       "Name": "AWAKEN",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 15656
+      "UsersEstimate": 15657
     },
     {
       "ID": "A_GUARDIAN_FORGOTTEN",
@@ -19506,7 +19511,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 48392
+      "UsersEstimate": 48393
     },
     {
       "ID": "BEST_FRIENDS",
@@ -19514,7 +19519,7 @@
       "Name": "BEST FRIENDS",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 15656
+      "UsersEstimate": 15657
     },
     {
       "ID": "BLOOMS_OF_LIGHT",
@@ -19530,7 +19535,7 @@
       "Name": "ERADICATE",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 14944
+      "UsersEstimate": 14945
     },
     {
       "ID": "FETCH",
@@ -19570,7 +19575,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 37717
+      "UsersEstimate": 37718
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -19602,7 +19607,7 @@
       "Name": "NORTHERN LIGHTS",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 4981
+      "UsersEstimate": 4982
     },
     {
       "ID": "OLD_COMPANION",
@@ -19634,7 +19639,7 @@
       "Name": "SPIRIT BARK",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 14944
+      "UsersEstimate": 14945
     },
     {
       "ID": "SPIRIT_DASH",
@@ -19650,7 +19655,7 @@
       "Name": "SPIRIT FORM",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 11386
+      "UsersEstimate": 11387
     },
     {
       "ID": "UPROOTING_DARKNESS",
@@ -19674,14 +19679,14 @@
       "Name": "WRITTEN IN STONE",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 11386
+      "UsersEstimate": 11387
     }
   ],
   "AchievementSets": [
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 71164,
+      "Progressed": 71166,
       "Completed": 377
     }
   ],
@@ -19689,8 +19694,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-10-12T04:08:15.0504762+00:00",
+  "LastChanged_Achievements": "2023-10-12T05:06:47.2627061+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:52.3980127+00:00",
-  "LastUpdate_Ratings": "2023-10-12T04:02:10.121312+00:00",
-  "LastUpdate_Achievements": "2023-10-12T04:08:15.0505754+00:00"
+  "LastUpdate_Ratings": "2023-10-12T05:01:13.9985171+00:00",
+  "LastUpdate_Achievements": "2023-10-12T05:06:47.2628053+00:00"
 }

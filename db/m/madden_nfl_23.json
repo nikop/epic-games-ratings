@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 448,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -706,9 +706,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2419,
+  "EOS_Progressed": 2420,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 373,
+  "EOS_NewPlayers": 372,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2896,6 +2896,11 @@
       "Time": "2023-10-12T04:06:07.9946142+00:00",
       "NumProgressed": 2419,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-12T05:05:16.4652164+00:00",
+      "NumProgressed": 2420,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -2940,7 +2945,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 1282
+      "UsersEstimate": 1283
     },
     {
       "ID": "achievement_14",
@@ -2956,7 +2961,7 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 1306
+      "UsersEstimate": 1307
     },
     {
       "ID": "achievement_16",
@@ -2964,7 +2969,7 @@
       "Name": "ROTY",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 822
+      "UsersEstimate": 823
     },
     {
       "ID": "achievement_17",
@@ -3044,7 +3049,7 @@
       "Name": "Change of Scenery",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "achievement_7",
@@ -3075,7 +3080,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 2419,
+      "Progressed": 2420,
       "Completed": 0
     }
   ],
@@ -3083,8 +3088,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-10-11T06:59:42.9773462+00:00",
-  "LastChanged_Achievements": "2023-10-12T04:06:07.9946138+00:00",
+  "LastChanged_Achievements": "2023-10-12T05:05:16.4652159+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:58.3611516+00:00",
-  "LastUpdate_Ratings": "2023-10-12T04:02:24.9999671+00:00",
-  "LastUpdate_Achievements": "2023-10-12T04:06:07.9946362+00:00"
+  "LastUpdate_Ratings": "2023-10-12T05:01:23.1492059+00:00",
+  "LastUpdate_Achievements": "2023-10-12T05:05:16.4652394+00:00"
 }

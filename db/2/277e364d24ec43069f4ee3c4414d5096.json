@@ -326,9 +326,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 110914,
+  "EOS_Progressed": 110915,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 799,
+  "EOS_NewPlayers": 797,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -14066,6 +14066,11 @@
       "Time": "2023-10-12T04:04:29.45631+00:00",
       "NumProgressed": 110914,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-10-12T05:03:21.9124646+00:00",
+      "NumProgressed": 110915,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 49,
@@ -14085,7 +14090,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 85404
+      "UsersEstimate": 85405
     },
     {
       "ID": "EAwards_10",
@@ -14133,7 +14138,7 @@
       "Name": "He Looks Portable",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 11091
+      "UsersEstimate": 11092
     },
     {
       "ID": "EAwards_16",
@@ -14181,7 +14186,7 @@
       "Name": "King of the Hill",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 11091
+      "UsersEstimate": 11092
     },
     {
       "ID": "EAwards_21",
@@ -14277,7 +14282,7 @@
       "Name": "Luchonarrative Resonance",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 11091
+      "UsersEstimate": 11092
     },
     {
       "ID": "EAwards_32",
@@ -14461,14 +14466,14 @@
       "Name": "Grapple Expert",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 11091
+      "UsersEstimate": 11092
     }
   ],
   "AchievementSets": [
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 110914,
+      "Progressed": 110915,
       "Completed": 46
     }
   ],
@@ -14476,8 +14481,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-25T16:00:07.3978241+00:00",
-  "LastChanged_Achievements": "2023-10-12T04:04:29.4563093+00:00",
+  "LastChanged_Achievements": "2023-10-12T05:03:21.9124638+00:00",
   "LastUpdate_AppInfo": "2023-10-06T01:39:33.4628061+00:00",
-  "LastUpdate_Ratings": "2023-10-12T03:58:51.0446034+00:00",
-  "LastUpdate_Achievements": "2023-10-12T04:04:29.4564682+00:00"
+  "LastUpdate_Ratings": "2023-10-12T04:58:48.1970212+00:00",
+  "LastUpdate_Achievements": "2023-10-12T05:03:21.9125683+00:00"
 }

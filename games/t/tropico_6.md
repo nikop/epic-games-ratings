@@ -6,15 +6,15 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~4,141 |
+| Just One...More...Term... | 75.00% | ~4,142 |
 | Un-Lonely Island | 47.00% | ~2,595 |
-| The Beginning of a Servantship | 45.00% | ~2,484 |
+| The Beginning of a Servantship | 45.00% | ~2,485 |
 | Trade Is My Trait | 37.00% | ~2,043 |
 | Number 18 | 24.00% | ~1,325 |
 | We Don't Have Time For That | 19.00% | ~1,049 |
 | The Governator | 17.00% | ~939 |
-| Caribbean Comrade | 16.00% | ~883 |
-| The Legend of Langostino | 16.00% | ~883 |
+| Caribbean Comrade | 16.00% | ~884 |
+| The Legend of Langostino | 16.00% | ~884 |
 | The Dreamer of Dreams | 15.00% | ~828 |
 | Go Sovereigns! | 11.00% | ~607 |
 | For Science! | 11.00% | ~607 |
@@ -23,9 +23,9 @@ Number of Ratings: 398  (23.09.2022)
 | Shackadelic | 10.00% | ~552 |
 | Double Trouble | 8.00% | ~442 |
 | Firestarter | 8.00% | ~442 |
-| I Owe You Nothing | 7.00% | ~386 |
-| Make Tropico Great Again! | 7.00% | ~386 |
-| French Connection | 7.00% | ~386 |
+| I Owe You Nothing | 7.00% | ~387 |
+| Make Tropico Great Again! | 7.00% | ~387 |
+| French Connection | 7.00% | ~387 |
 | Don't Panic! | 6.00% | ~331 |
 | Computer Says "No" | 6.00% | ~331 |
 | Beware The Betman | 6.00% | ~331 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~50 |
 | My Ways | 0.30% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,521 (Ranked 168)  
+Progressed: 5,522 (Ranked 168)  
 Completed: 2 (0.04%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,9 +222,10 @@ Completed: 2 (0.04%) (Ranked 277)
 | 2023-10-09 | 5,500 | 2 |
 | 2023-10-10 | 5,512 | 2 |
 | 2023-10-11 | 5,521 | 2 |
+| 2023-10-12 | 5,522 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 99  (Ranked 347)  
-Sum: 704 (Ranked 284)  
+Sum: 705 (Ranked 284)  
 Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
@@ -232,7 +233,7 @@ Diff (max vs sum): 63
 | This game has Quickly Understood Controls | 99 |
 | This game is Highly Recommended | 97 |
 | This game is Relaxing | 93 |
-| This game has Amazing Storytelling | 90 |
+| This game has Amazing Storytelling | 91 |
 | This game is Extremely Fun | 87 |
 | This game has Amazing Characters | 87 |
 | This game is Educational | 86 |
@@ -386,4 +387,4 @@ Diff (max vs sum): 63
 | 2023-10-07 | 4.65 | - | 99 | 699 |
 | 2023-10-09 | 4.65 | - | 99 | 702 |
 | 2023-10-11 | 4.65 | - | 99 | 703 |
-| 2023-10-12 | 4.65 | - | 99 | 704 |
+| 2023-10-12 | 4.65 | - | 99 | 705 |

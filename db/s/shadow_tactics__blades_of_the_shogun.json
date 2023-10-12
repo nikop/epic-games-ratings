@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -1747,9 +1747,9 @@
       "Count": 250
     }
   ],
-  "EOS_Progressed": 207363,
+  "EOS_Progressed": 207367,
   "EOS_Completed": 90,
-  "EOS_NewPlayers": 1309,
+  "EOS_NewPlayers": 1306,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -21557,6 +21557,11 @@
       "Time": "2023-10-12T04:06:32.7769417+00:00",
       "NumProgressed": 207363,
       "NumCompleted": 90
+    },
+    {
+      "Time": "2023-10-12T05:05:35.2489926+00:00",
+      "NumProgressed": 207367,
+      "NumCompleted": 90
     }
   ],
   "TotalAchievements": 44,
@@ -21568,7 +21573,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20736
+      "UsersEstimate": 20737
     },
     {
       "ID": "AtheistOx",
@@ -21656,7 +21661,7 @@
       "Name": "Happy Planning",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 14515
+      "UsersEstimate": 14516
     },
     {
       "ID": "HighFiveTheMoon",
@@ -21672,7 +21677,7 @@
       "Name": "Ice Ice Yuki",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 14515
+      "UsersEstimate": 14516
     },
     {
       "ID": "ItsRainingMen",
@@ -21688,7 +21693,7 @@
       "Name": "Jonin",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 14515
+      "UsersEstimate": 14516
     },
     {
       "ID": "Mercyful",
@@ -21816,7 +21821,7 @@
       "Name": "Stoned Ox",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 14515
+      "UsersEstimate": 14516
     },
     {
       "ID": "TanukiTime",
@@ -21856,7 +21861,7 @@
       "Name": "Thorough",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 20736
+      "UsersEstimate": 20737
     },
     {
       "ID": "TimeParadox",
@@ -21912,22 +21917,22 @@
       "Name": "Yabu",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 14515
+      "UsersEstimate": 14516
     }
   ],
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 207363,
+      "Progressed": 207367,
       "Completed": 90
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-10-09T23:58:27.37616+00:00",
-  "LastChanged_Achievements": "2023-10-12T04:06:32.7769413+00:00",
+  "LastChanged_Achievements": "2023-10-12T05:05:35.2489917+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:03.7364002+00:00",
-  "LastUpdate_Ratings": "2023-10-12T04:00:44.4734378+00:00",
-  "LastUpdate_Achievements": "2023-10-12T04:06:32.7770579+00:00"
+  "LastUpdate_Ratings": "2023-10-12T05:00:06.0023294+00:00",
+  "LastUpdate_Achievements": "2023-10-12T05:05:35.2491124+00:00"
 }

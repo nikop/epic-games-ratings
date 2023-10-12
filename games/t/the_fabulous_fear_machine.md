@@ -8,7 +8,7 @@
 | Master trainee | 81.00% | ~21 |
 | Jung's dream | 69.00% | ~18 |
 | The battle of Great Britain | 58.00% | ~15 |
-| Giant | 42.00% | ~11 |
+| Giant | 46.00% | ~12 |
 | Pulp! Where Monsters Dwell | 42.00% | ~11 |
 | A continent with chemistry | 42.00% | ~11 |
 | A rival with no options | 38.00% | ~10 |

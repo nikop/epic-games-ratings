@@ -923,9 +923,9 @@
       "ID": "ACHIEVEMENT_14_PromiseYuna",
       "SetID": "9bke6f1",
       "Name": "Yuna\u0027s Promise",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 79
+      "UsersEstimate": 82
     },
     {
       "ID": "ACHIEVEMENT_15_PromiseMin",
@@ -1098,8 +1098,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-10-12T04:06:44.5150804+00:00",
+  "LastChanged_Achievements": "2023-10-12T05:05:44.0282574+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:21.0883+00:00",
-  "LastUpdate_Ratings": "2023-10-12T04:03:07.6357009+00:00",
-  "LastUpdate_Achievements": "2023-10-12T04:06:44.5150985+00:00"
+  "LastUpdate_Ratings": "2023-10-12T05:01:52.892633+00:00",
+  "LastUpdate_Achievements": "2023-10-12T05:05:44.0282771+00:00"
 }

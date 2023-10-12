@@ -797,9 +797,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 28449,
+  "EOS_Progressed": 28450,
   "EOS_Completed": 1360,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 4.78,
   "EosHistory": [
@@ -5962,6 +5962,11 @@
       "Time": "2023-10-11T23:06:51.0599932+00:00",
       "NumProgressed": 28449,
       "NumCompleted": 1360
+    },
+    {
+      "Time": "2023-10-12T05:06:49.9688282+00:00",
+      "NumProgressed": 28450,
+      "NumCompleted": 1360
     }
   ],
   "TotalAchievements": 30,
@@ -5981,7 +5986,7 @@
       "Name": "Feeding Frenzy",
       "Percentage": 19,
       "XP": 70,
-      "UsersEstimate": 5405
+      "UsersEstimate": 5406
     },
     {
       "ID": "ACH_ALL_VIDS",
@@ -6013,7 +6018,7 @@
       "Name": "Deep Impact",
       "Percentage": 23,
       "XP": 70,
-      "UsersEstimate": 6543
+      "UsersEstimate": 6544
     },
     {
       "ID": "ACH_CATCH_ALL",
@@ -6029,7 +6034,7 @@
       "Name": "Got to Catch a Lot",
       "Percentage": 66,
       "XP": 50,
-      "UsersEstimate": 18776
+      "UsersEstimate": 18777
     },
     {
       "ID": "ACH_CATCH_QUARTER",
@@ -6045,7 +6050,7 @@
       "Name": "Say Cheese!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 4267
+      "UsersEstimate": 4268
     },
     {
       "ID": "ACH_COMBO_MEAL",
@@ -6061,7 +6066,7 @@
       "Name": "In the Arms of the Gramble",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 16785
+      "UsersEstimate": 16786
     },
     {
       "ID": "ACH_FIRST_BUGSNAK",
@@ -6085,7 +6090,7 @@
       "Name": "Candid Cryptid",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 9957
+      "UsersEstimate": 9958
     },
     {
       "ID": "ACH_HATS",
@@ -6093,7 +6098,7 @@
       "Name": "Dapper Capper",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1991
+      "UsersEstimate": 1992
     },
     {
       "ID": "ACH_HOME",
@@ -6117,7 +6122,7 @@
       "Name": "Launch Party",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 15931
+      "UsersEstimate": 15932
     },
     {
       "ID": "ACH_MAIN_STORY",
@@ -6133,7 +6138,7 @@
       "Name": "That Reminds Me of a Puzzle",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 12233
+      "UsersEstimate": 12234
     },
     {
       "ID": "ACH_RETURN_ALL",
@@ -6141,7 +6146,7 @@
       "Name": "Know Thy Neighbor",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 16785
+      "UsersEstimate": 16786
     },
     {
       "ID": "ACH_SIDE_QUEST",
@@ -6157,7 +6162,7 @@
       "Name": "Grab Bag",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 6543
+      "UsersEstimate": 6544
     },
     {
       "ID": "ACH_SNAXBURG",
@@ -6173,7 +6178,7 @@
       "Name": "Perf Dirt",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 15931
+      "UsersEstimate": 15932
     },
     {
       "ID": "ACH_SUNDAE",
@@ -6197,7 +6202,7 @@
       "Name": "Double Trapper",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 21337
+      "UsersEstimate": 21338
     },
     {
       "ID": "ACH_WATERFALL",
@@ -6205,22 +6210,22 @@
       "Name": "Wonderfalls",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 24751
+      "UsersEstimate": 24752
     }
   ],
   "AchievementSets": [
     {
       "ID": "2m0copd",
       "IsBase": true,
-      "Progressed": 28449,
+      "Progressed": 28450,
       "Completed": 1360
     }
   ],
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
   "LastChanged": "2023-10-04T20:57:51.7359398+00:00",
-  "LastChanged_Achievements": "2023-10-12T04:08:18.523614+00:00",
+  "LastChanged_Achievements": "2023-10-12T05:06:49.9688266+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:45.023216+00:00",
-  "LastUpdate_Ratings": "2023-10-12T03:57:37.8602303+00:00",
-  "LastUpdate_Achievements": "2023-10-12T04:08:18.5236538+00:00"
+  "LastUpdate_Ratings": "2023-10-12T04:57:38.0590396+00:00",
+  "LastUpdate_Achievements": "2023-10-12T05:06:49.9688699+00:00"
 }
