@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 51.93% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 51.87% |
 | 3 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 47.17% |
 | 5 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.72% |
@@ -71,7 +71,7 @@
 | 69 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.11% |
 | 70 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.06% |
 | 71 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 3.96% |
-| 72 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.87% |
+| 72 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.88% |
 | 73 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.85% |
 | 74 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.84% |
 | 75 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
@@ -143,7 +143,7 @@
 | 140 | [Infindustry](games/i/infindustry.md) | 1.05% |
 | 140 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.05% |
 | 143 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.02% |
-| 144 | [Sable](games/s/sable.md) | 1.00% |
+| 144 | [Sable](games/s/sable.md) | 1.01% |
 | 145 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.99% |
 | 145 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.99% |
 | 147 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.98% |
@@ -275,13 +275,13 @@
 | 270 | [High On Life](games/h/high_on_life.md) | 0.05% |
 | 270 | [House Party](games/h/house_party.md) | 0.05% |
 | 270 | [MythForce](games/m/mythforce.md) | 0.05% |
-| 270 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.05% |
-| 277 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.04% |
-| 277 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 0.04% |
-| 277 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.04% |
-| 277 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 0.04% |
-| 277 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.04% |
-| 277 | [Tropico 6](games/t/tropico_6.md) | 0.04% |
+| 276 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.04% |
+| 276 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 0.04% |
+| 276 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.04% |
+| 276 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 0.04% |
+| 276 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.04% |
+| 276 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.04% |
+| 276 | [Tropico 6](games/t/tropico_6.md) | 0.04% |
 | 283 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
 | 283 | [Old World](games/o/old_world.md) | 0.03% |
 | 283 | [Session: Skate Sim](games/s/session__skate_sim.md) | 0.03% |
@@ -666,4 +666,4 @@
 | 314 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 314 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 314 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,386 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,387 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
