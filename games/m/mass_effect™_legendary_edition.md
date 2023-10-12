@@ -62,10 +62,10 @@
 | Fade Away | 30.00% | ~197 |
 | Treason | 30.00% | ~197 |
 | Agent | 30.00% | ~197 |
+| Driven | 30.00% | ~197 |
+| Focused | 29.00% | ~191 |
 | Cat's in the Cradle | 29.00% | ~191 |
 | Digital Exorcist | 29.00% | ~191 |
-| Driven | 29.00% | ~191 |
-| Focused | 28.00% | ~184 |
 | Friend or Foe | 28.00% | ~184 |
 | Doppelganger | 28.00% | ~184 |
 | Bringer of War | 28.00% | ~184 |

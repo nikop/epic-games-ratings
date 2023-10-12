@@ -6,13 +6,13 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,748,536 |
-| Easy to forget | 46.00% | ~1,641,483 |
-| Back in the black | 39.00% | ~1,391,692 |
-| That's what I'm talking about | 29.00% | ~1,034,848 |
-| The Best of Both Worlds | 25.00% | ~892,110 |
-| Get your wings | 20.00% | ~713,688 |
-| Double trouble | 16.00% | ~570,951 |
+| You need to plug it in... | 49.00% | ~1,748,540 |
+| Easy to forget | 46.00% | ~1,641,487 |
+| Back in the black | 39.00% | ~1,391,695 |
+| That's what I'm talking about | 29.00% | ~1,034,850 |
+| The Best of Both Worlds | 25.00% | ~892,112 |
+| Get your wings | 20.00% | ~713,690 |
+| Double trouble | 16.00% | ~570,952 |
 | Smashing it | 11.00% | ~392,529 |
 | But can it run Crysis? | 9.00% | ~321,160 |
 | My favourite feature... | 9.00% | ~321,160 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,568 |
 | Treat yourself - GPU | 0.10% | ~3,568 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,568,441 (Ranked 5)  
+Progressed: 3,568,449 (Ranked 5)  
 Completed: 36 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,10 +234,10 @@ Completed: 36 (0.00%) (Ranked 314)
 | 2023-10-09 | 3,567,776 | 36 |
 | 2023-10-10 | 3,568,089 | 36 |
 | 2023-10-11 | 3,568,370 | 36 |
-| 2023-10-12 | 3,568,441 | 36 |
+| 2023-10-12 | 3,568,449 | 36 |
 ## Awards
 Max (Great for Beginners): 1,082  (Ranked 141)  
-Sum: 8,060 (Ranked 100)  
+Sum: 8,062 (Ranked 100)  
 Diff (max vs sum): 41  
 | Award | Count |
 | ----- | ----- |
@@ -248,8 +248,8 @@ Diff (max vs sum): 41
 | This game has Quickly Understood Controls | 947 |
 | This game is Highly Recommended | 898 |
 | This game has Amazing Storytelling | 823 |
+| This game has Amazing Characters | 666 |
 | This game has Obsessive Gameplay | 664 |
-| This game has Amazing Characters | 664 |
 | This game has a Creative Community | 655 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -480,3 +480,4 @@ Diff (max vs sum): 41
 | 2023-10-07 | 4.65 | - | 1,077 | 8,050 |
 | 2023-10-08 | 4.65 | - | 1,080 | 8,057 |
 | 2023-10-11 | 4.65 | - | 1,082 | 8,060 |
+| 2023-10-12 | 4.65 | - | 1,082 | 8,062 |

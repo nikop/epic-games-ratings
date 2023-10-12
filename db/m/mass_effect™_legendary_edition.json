@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 657,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1577,9 +1577,9 @@
       "ID": "achievement_102",
       "SetID": "d252ncf",
       "Name": "Focused",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 184
+      "UsersEstimate": 191
     },
     {
       "ID": "achievement_103",
@@ -2377,9 +2377,9 @@
       "ID": "achievement_79",
       "SetID": "d252ncf",
       "Name": "Driven",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 191
+      "UsersEstimate": 197
     },
     {
       "ID": "achievement_8",
@@ -2573,8 +2573,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-12T08:08:24.8707539+00:00",
+  "LastChanged_Achievements": "2023-10-12T09:08:07.2072322+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:40.7255751+00:00",
-  "LastUpdate_Ratings": "2023-10-12T07:58:38.8487169+00:00",
-  "LastUpdate_Achievements": "2023-10-12T08:08:24.8711837+00:00"
+  "LastUpdate_Ratings": "2023-10-12T08:58:31.6270604+00:00",
+  "LastUpdate_Achievements": "2023-10-12T09:08:07.2074109+00:00"
 }

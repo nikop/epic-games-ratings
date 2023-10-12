@@ -42,13 +42,13 @@ Number of Ratings: 45  (23.09.2022)
 | Grillmaster | 4.00% | ~57 |
 | Lochias's Hunger | 4.00% | ~57 |
 | No Time for Clawmonsters | 4.00% | ~57 |
+| The Power of Friendship | 3.00% | ~42 |
 | Empty the Caves | 3.00% | ~42 |
 | Bonebreakers | 3.00% | ~42 |
 | Some Say I'm Too Flashy | 3.00% | ~42 |
 | Into Mulch | 3.00% | ~42 |
 | Astrology | 3.00% | ~42 |
 | Tempest | 3.00% | ~42 |
-| The Power of Friendship | 2.00% | ~28 |
 | Drauvenslayers | 2.00% | ~28 |
 | Back into the Sea | 2.00% | ~28 |
 | War-Ender | 2.00% | ~28 |

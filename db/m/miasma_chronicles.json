@@ -3582,9 +3582,9 @@
       "ID": "GOAL",
       "SetID": "9a4jnji",
       "Name": "Goaaaaal!",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "GUN_FOR_HIRE",
@@ -3775,8 +3775,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-10-07T23:58:40.5277412+00:00",
-  "LastChanged_Achievements": "2023-10-12T08:08:18.3625317+00:00",
+  "LastChanged_Achievements": "2023-10-12T09:07:01.0223806+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:05.6393775+00:00",
-  "LastUpdate_Ratings": "2023-10-12T08:00:10.1639409+00:00",
-  "LastUpdate_Achievements": "2023-10-12T08:08:18.3625991+00:00"
+  "LastUpdate_Ratings": "2023-10-12T09:00:03.8949569+00:00",
+  "LastUpdate_Achievements": "2023-10-12T09:07:01.0224358+00:00"
 }

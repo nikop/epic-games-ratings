@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -1747,10 +1747,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 1833,
       "NumberOfAwardsMax": 224
+    },
+    {
+      "Time": "2023-10-12T09:03:11.7935294+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1834,
+      "NumberOfAwardsMax": 224
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1833,
+  "NumberOfAwards": 1834,
   "NumberOfAwardsMax": 224,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -1788,7 +1794,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 211
+      "Count": 212
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1827,9 +1833,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14608,
+  "EOS_Progressed": 14610,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 248,
+  "EOS_NewPlayers": 250,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13627,6 +13633,11 @@
       "Time": "2023-10-12T07:05:53.0264834+00:00",
       "NumProgressed": 14608,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-12T09:05:51.3324684+00:00",
+      "NumProgressed": 14610,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -14676,17 +14687,17 @@
       "ID": "ACHIEVEMENT_GREECE2_THERMOPYLAE_40",
       "SetID": "9201eeb",
       "Name": "They Shall Not Pass",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_GREECE2_THERMOPYLAE_50",
       "SetID": "9201eeb",
       "Name": "THIS IS SPARTA!!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_GREECE2_THERMOPYLAE_WIN",
@@ -15156,9 +15167,9 @@
       "ID": "ACHIEVEMENT_LEARNTOPLAY_1",
       "SetID": "7l38kb8",
       "Name": "Learn to Play 1",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 117
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_2",
@@ -16373,21 +16384,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14608,
+      "Progressed": 14610,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14608,
+      "Progressed": 14610,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
-  "LastChanged": "2023-10-11T16:03:25.094605+00:00",
-  "LastChanged_Achievements": "2023-10-12T08:05:57.4721816+00:00",
+  "LastChanged": "2023-10-12T09:03:11.7935292+00:00",
+  "LastChanged_Achievements": "2023-10-12T09:05:51.3324678+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:48.3987129+00:00",
-  "LastUpdate_Ratings": "2023-10-12T08:03:21.168259+00:00",
-  "LastUpdate_Achievements": "2023-10-12T08:05:57.4738289+00:00"
+  "LastUpdate_Ratings": "2023-10-12T09:03:11.79353+00:00",
+  "LastUpdate_Achievements": "2023-10-12T09:05:51.3335442+00:00"
 }

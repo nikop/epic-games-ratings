@@ -446,17 +446,17 @@
       "ID": "_double_item",
       "SetID": "2d5739o",
       "Name": "Double item",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "_elite_battlecruiser",
       "SetID": "2d5739o",
       "Name": "Elite battlecruiser",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 150,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "_elite_destroyer",
@@ -717,8 +717,8 @@
   ],
   "FirstSeen": "2023-08-19T02:04:22.1564483+00:00",
   "FirstSeenAchievements": "2023-08-09T13:13:29.9534062+00:00",
-  "LastChanged_Achievements": "2023-10-12T08:06:35.2585713+00:00",
+  "LastChanged_Achievements": "2023-10-12T09:06:29.0856108+00:00",
   "LastUpdate_AppInfo": "2023-10-11T17:57:01.5242311+00:00",
-  "LastUpdate_Ratings": "2023-10-12T07:57:54.1231285+00:00",
-  "LastUpdate_Achievements": "2023-10-12T08:06:35.2586183+00:00"
+  "LastUpdate_Ratings": "2023-10-12T08:57:48.0089184+00:00",
+  "LastUpdate_Achievements": "2023-10-12T09:06:29.085649+00:00"
 }

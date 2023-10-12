@@ -274,9 +274,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 124219,
+  "EOS_Progressed": 124220,
   "EOS_Completed": 1044,
-  "EOS_NewPlayers": 1258,
+  "EOS_NewPlayers": 1251,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.84,
   "EosHistory": [
@@ -19984,6 +19984,11 @@
       "Time": "2023-10-12T08:05:24.4320698+00:00",
       "NumProgressed": 124219,
       "NumCompleted": 1044
+    },
+    {
+      "Time": "2023-10-12T09:05:17.6235988+00:00",
+      "NumProgressed": 124220,
+      "NumCompleted": 1044
     }
   ],
   "TotalAchievements": 34,
@@ -20051,7 +20056,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 99375
+      "UsersEstimate": 99376
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -20075,7 +20080,7 @@
       "Name": "A brigantine, a brig and a barque",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 34781
+      "UsersEstimate": 34782
     },
     {
       "ID": "ACH_L02_BASECAMP_END",
@@ -20083,7 +20088,7 @@
       "Name": "The Everhart Expedition",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 48445
+      "UsersEstimate": 48446
     },
     {
       "ID": "ACH_L02_BASECAMP_OBJ",
@@ -20171,7 +20176,7 @@
       "Name": "506 East Hampden Avenue",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 34781
+      "UsersEstimate": 34782
     },
     {
       "ID": "ACH_L04B_DESERT_OBJ",
@@ -20251,7 +20256,7 @@
       "Name": "FHALGOF\u0027N\u0027",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 28570
+      "UsersEstimate": 28571
     },
     {
       "ID": "ACH_L06_TEMPLE_OBJ",
@@ -20266,7 +20271,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 124219,
+      "Progressed": 124220,
       "Completed": 1044
     }
   ],
@@ -20274,8 +20279,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-09-30T12:00:15.2854641+00:00",
-  "LastChanged_Achievements": "2023-10-12T08:05:24.432069+00:00",
+  "LastChanged_Achievements": "2023-10-12T09:05:17.6235981+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:39.2829487+00:00",
-  "LastUpdate_Ratings": "2023-10-12T08:00:41.5245732+00:00",
-  "LastUpdate_Achievements": "2023-10-12T08:05:24.432363+00:00"
+  "LastUpdate_Ratings": "2023-10-12T09:00:34.6925035+00:00",
+  "LastUpdate_Achievements": "2023-10-12T09:05:17.6237967+00:00"
 }

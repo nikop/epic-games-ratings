@@ -4,7 +4,7 @@
   "ProductSlug": "shalnor-legends-2-fea913",
   "Ranking_EOS_Progress": 613,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewPlayers": 397,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-09-05T13:00:00+00:00",
@@ -245,8 +245,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-04T06:04:53.5272508+00:00",
-  "LastChanged_Achievements": "2023-10-12T08:05:14.8264598+00:00",
+  "LastChanged_Achievements": "2023-10-12T09:05:08.016908+00:00",
   "LastUpdate_AppInfo": "2023-10-08T02:15:30.8636263+00:00",
-  "LastUpdate_Ratings": "2023-10-12T07:58:35.7893495+00:00",
-  "LastUpdate_Achievements": "2023-10-12T08:05:14.8264894+00:00"
+  "LastUpdate_Ratings": "2023-10-12T08:58:28.8890376+00:00",
+  "LastUpdate_Achievements": "2023-10-12T09:05:08.0169255+00:00"
 }

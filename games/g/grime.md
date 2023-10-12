@@ -9,21 +9,21 @@ Number of Ratings: 46  (23.09.2022)
 | Taste | 1.00% | ~1,515 |
 | Imprint | 1.00% | ~1,515 |
 | The Hunt | 0.80% | ~1,212 |
-| Weeper | 0.70% | ~1,060 |
-| Ravenous | 0.70% | ~1,060 |
-| Harmless | 0.50% | ~757 |
-| Silenced Whispers | 0.50% | ~757 |
-| Devourer | 0.50% | ~757 |
+| Weeper | 0.70% | ~1,061 |
+| Ravenous | 0.70% | ~1,061 |
+| Harmless | 0.50% | ~758 |
+| Silenced Whispers | 0.50% | ~758 |
+| Devourer | 0.50% | ~758 |
 | Scion | 0.40% | ~604 |
 | Jawcrab | 0.40% | ~606 |
 | Jawstag | 0.40% | ~606 |
 | Feast | 0.40% | ~606 |
 | Yank | 0.40% | ~606 |
 | Sharpened Vessel | 0.40% | ~606 |
-| Shapely | 0.30% | ~454 |
+| Shapely | 0.30% | ~455 |
 | Glare | 0.30% | ~453 |
-| Watcher | 0.30% | ~454 |
-| Predator | 0.30% | ~454 |
+| Watcher | 0.30% | ~455 |
+| Predator | 0.30% | ~455 |
 | Assimilation | 0.20% | ~303 |
 | Breath | 0.20% | ~303 |
 | Hunt Down | 0.20% | ~303 |
@@ -34,26 +34,26 @@ Number of Ratings: 46  (23.09.2022)
 | Inevitable | 0.20% | ~303 |
 | All-Seeing | 0.20% | ~303 |
 | Dream | 0.20% | ~302 |
-| Spiral Heart | 0.10% | ~151 |
-| Bloodhunter | 0.10% | ~151 |
-| Skinmaker | 0.10% | ~151 |
-| Instruments | 0.10% | ~151 |
+| Spiral Heart | 0.10% | ~152 |
+| Bloodhunter | 0.10% | ~152 |
+| Skinmaker | 0.10% | ~152 |
+| Instruments | 0.10% | ~152 |
 | Zygote | 0.10% | ~151 |
-| Kinship | 0.10% | ~151 |
-| Weakness | 0.10% | ~151 |
-| Breathsmith | 0.10% | ~151 |
-| Unwrap the Gift | 0.10% | ~151 |
-| Passage | 0.10% | ~151 |
-| Generous | 0.10% | ~151 |
+| Kinship | 0.10% | ~152 |
+| Weakness | 0.10% | ~152 |
+| Breathsmith | 0.10% | ~152 |
+| Unwrap the Gift | 0.10% | ~152 |
+| Passage | 0.10% | ~152 |
+| Generous | 0.10% | ~152 |
 | Kin | 0.10% | ~151 |
 | Listen | 0.10% | ~151 |
-| Proportions | 0.10% | ~151 |
+| Proportions | 0.10% | ~152 |
 | The Nightmare | 0.10% | ~151 |
 | Touch of Otherwhere | 0.10% | ~151 |
 | Enrich | 0.10% | ~151 |
 | Intensify | 0.10% | ~151 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 151,496 (Ranked 71)  
+Progressed: 151,507 (Ranked 71)  
 Completed: 1 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 1 (0.00%) (Ranked 314)
 | 2023-10-09 | 151,449 | 1 |
 | 2023-10-10 | 151,469 | 1 |
 | 2023-10-11 | 151,477 | 1 |
-| 2023-10-12 | 151,496 | 1 |
+| 2023-10-12 | 151,507 | 1 |
 ## Awards
 Max (Highly Recommended): 42  (Ranked 435)  
 Sum: 278 (Ranked 357)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 359,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -6263,9 +6263,9 @@
       "ID": "ISONZO_ACH_MILLENIAL",
       "SetID": "akchbl3",
       "Name": "Millenial",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 704
+      "UsersEstimate": 775
     },
     {
       "ID": "ISONZO_ACH_O_LA_VITTORIA_O_TUTTI_ACCOPPATI",
@@ -6456,8 +6456,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-09-23T14:01:09.047151+00:00",
-  "LastChanged_Achievements": "2023-10-12T08:08:26.4688796+00:00",
+  "LastChanged_Achievements": "2023-10-12T09:08:08.7758658+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:06.1752865+00:00",
-  "LastUpdate_Ratings": "2023-10-12T07:59:49.2313079+00:00",
-  "LastUpdate_Achievements": "2023-10-12T08:08:26.4689551+00:00"
+  "LastUpdate_Ratings": "2023-10-12T08:59:44.5240538+00:00",
+  "LastUpdate_Achievements": "2023-10-12T09:08:08.7759494+00:00"
 }

@@ -44,6 +44,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Wise | 0.80% | ~117 |
 | Able Difficulty | 0.80% | ~117 |
 | Great Ziggurat | 0.80% | ~117 |
+| Learn to Play 1 | 0.80% | ~117 |
 | Carthaginian Paganism | 0.80% | ~117 |
 | Roman Paganism | 0.80% | ~117 |
 | Zoroastrianism | 0.80% | ~117 |
@@ -52,7 +53,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great | 0.70% | ~102 |
 | Furious Family | 0.70% | ~102 |
 | Musaeum | 0.70% | ~102 |
-| Learn to Play 1 | 0.70% | ~102 |
 | Manichaeism | 0.70% | ~102 |
 | Egyptian Paganism | 0.70% | ~102 |
 | Regicide | 0.60% | ~88 |
@@ -206,6 +206,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | A Good Start | 0.10% | ~15 |
 | Like a Lion | 0.10% | ~15 |
 | Still Fighting | 0.10% | ~15 |
+| They Shall Not Pass | 0.10% | ~15 |
+| THIS IS SPARTA!! | 0.10% | ~15 |
 | Tell the Spartans | 0.10% | ~15 |
 | Shape of Things to Come | 0.10% | ~15 |
 | I am the Archon Now | 0.10% | ~15 |
@@ -324,8 +326,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Oracle in Delphi | 0.00% | ~0 |
 | Elephant in Elephantine | 0.00% | ~0 |
 | That Also Works | 0.00% | ~0 |
-| They Shall Not Pass | 0.00% | ~0 |
-| THIS IS SPARTA!! | 0.00% | ~0 |
 | Not a Scratch | 0.00% | ~0 |
 | Queen of Opportunity | 0.00% | ~0 |
 | Queen of War | 0.00% | ~0 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,608 (Ranked 134)  
+Progressed: 14,610 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -524,17 +524,17 @@ Completed: 5 (0.03%) (Ranked 283)
 | 2023-10-09 | 14,562 | 5 |
 | 2023-10-10 | 14,586 | 5 |
 | 2023-10-11 | 14,606 | 5 |
-| 2023-10-12 | 14,608 | 5 |
+| 2023-10-12 | 14,610 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
-Sum: 1,833 (Ranked 210)  
+Sum: 1,834 (Ranked 210)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 224 |
 | This game has Diverse Characters | 213 |
+| This game is Highly Recommended | 212 |
 | This game is Extremely Fun | 211 |
-| This game is Highly Recommended | 211 |
 | This game is Educational | 209 |
 | This game has Challenging Combat | 198 |
 | This game has Quickly Understood Controls | 191 |
@@ -687,3 +687,4 @@ Diff (max vs sum): 57
 | 2023-10-08 | 4.65 | - | 224 | 1,831 |
 | 2023-10-10 | 4.65 | - | 224 | 1,832 |
 | 2023-10-11 | 4.65 | - | 224 | 1,833 |
+| 2023-10-12 | 4.65 | - | 224 | 1,834 |
