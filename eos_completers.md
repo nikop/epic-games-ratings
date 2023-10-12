@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 52.05% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 52.01% |
 | 3 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 47.17% |
 | 5 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.72% |
@@ -30,9 +30,9 @@
 | 28 | [Remains](games/r/remains.md) | 12.00% |
 | 29 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 11.59% |
 | 30 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 11.48% |
-| 31 | [Anna's Quest](games/a/anna's_quest.md) | 11.32% |
-| 32 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
-| 33 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.95% |
+| 31 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
+| 31 | [Anna's Quest](games/a/anna's_quest.md) | 11.11% |
+| 33 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.08% |
 | 34 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.85% |
 | 35 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.81% |
 | 36 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 10.00% |
@@ -85,12 +85,12 @@
 | 83 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
 | 84 | [Doodle God](games/d/doodle_god.md) | 3.31% |
 | 85 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.27% |
-| 86 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.20% |
+| 86 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.19% |
 | 87 | [Monster Harvest](games/m/monster_harvest.md) | 3.17% |
 | 88 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.15% |
 | 89 | [HordeCore](games/h/hordecore.md) | 3.12% |
-| 89 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 3.12% |
 | 89 | [Without Escape](games/w/without_escape.md) | 3.12% |
+| 91 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 2.94% |
 | 92 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 93 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 2.86% |
 | 93 | [FORECLOSED](games/f/foreclosed.md) | 2.86% |
@@ -211,10 +211,10 @@
 | 206 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.30% |
 | 210 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
 | 211 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.28% |
-| 211 | [The Devil's Face](games/t/the_devil's_face.md) | 0.28% |
-| 213 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.26% |
-| 214 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
-| 214 | [Filament](games/f/filament.md) | 0.25% |
+| 212 | [The Devil's Face](games/t/the_devil's_face.md) | 0.27% |
+| 213 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.25% |
+| 213 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
+| 213 | [Filament](games/f/filament.md) | 0.25% |
 | 216 | [Scrapnaut](games/s/scrapnaut.md) | 0.24% |
 | 217 | [Despot's Game](games/d/despot's_game.md) | 0.23% |
 | 217 | [Going Medieval](games/g/going_medieval.md) | 0.23% |
@@ -246,20 +246,20 @@
 | 244 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.11% |
 | 244 | [Isonzo](games/i/isonzo.md) | 0.11% |
 | 244 | [Outward Definitive Edition](games/o/outward.md) | 0.11% |
-| 244 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.11% |
-| 248 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
-| 248 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.10% |
-| 248 | [House Flipper](games/h/house_flipper.md) | 0.10% |
-| 248 | [Port Royale 4](games/p/port_royale_4.md) | 0.10% |
-| 248 | [Supraland](games/s/supraland.md) | 0.10% |
-| 253 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.09% |
-| 253 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
-| 253 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.09% |
-| 253 | [Lost Eidolons](games/l/lost_eidolons.md) | 0.09% |
-| 253 | [Riverbond](games/r/riverbond.md) | 0.09% |
-| 253 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
-| 253 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
-| 260 | [ATOM RPG](games/a/atom_rpg.md) | 0.08% |
+| 247 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
+| 247 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.10% |
+| 247 | [House Flipper](games/h/house_flipper.md) | 0.10% |
+| 247 | [Port Royale 4](games/p/port_royale_4.md) | 0.10% |
+| 247 | [Supraland](games/s/supraland.md) | 0.10% |
+| 252 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.09% |
+| 252 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
+| 252 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.09% |
+| 252 | [Lost Eidolons](games/l/lost_eidolons.md) | 0.09% |
+| 252 | [Riverbond](games/r/riverbond.md) | 0.09% |
+| 252 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
+| 252 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
+| 259 | [ATOM RPG](games/a/atom_rpg.md) | 0.08% |
+| 259 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.08% |
 | 261 | [Black Book](games/b/black_book.md) | 0.07% |
 | 261 | [Partisans 1941](games/p/partisans_1941.md) | 0.07% |
 | 261 | [Saints Row](games/s/saints_row.md) | 0.07% |
