@@ -94,7 +94,7 @@
 | 90 | [Griftlands](games/g/griftlands.md) | 4.79 | 0 | 532 |
 | 90 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 4.79 | 0 | 532 |
 | 90 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 1,006 | 148 |
-| 90 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 777 | 164 |
+| 90 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 779 | 164 |
 | 90 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 6,042 | 61 |
 | 90 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 391 | 222 |
 | 90 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 123 | 324 |
@@ -251,7 +251,7 @@
 | 242 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,972 | 84 |
 | 242 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 4,714 | 74 |
 | 242 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 309,740 | 3 |
-| 242 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 240,666 | 4 |
+| 242 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 241,221 | 4 |
 | 242 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 532 |
 | 242 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.68 | 0 | 532 |
 | 242 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 572 | 193 |
@@ -598,7 +598,7 @@
 | 590 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.49 | 0 | 532 |
 | 590 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 276 | 250 |
 | 590 | [Knockout City™](games/k/knockout_city™.md) | 4.49 | 0 | 532 |
-| 590 | [Maneater](games/m/maneater.md) | 4.49 | 13,719 | 29 |
+| 590 | [Maneater](games/m/maneater.md) | 4.49 | 13,722 | 29 |
 | 590 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 99 | 347 |
 | 590 | [MythForce](games/m/mythforce.md) | 4.49 | 34 | 460 |
 | 590 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.49 | 24 | 503 |
@@ -762,7 +762,7 @@
 | 760 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.36 | 0 | 532 |
 | 760 | [Core](games/c/core.md) | 4.36 | 757 | 168 |
 | 760 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 173 | 292 |
-| 760 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,701 | 31 |
+| 760 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,704 | 31 |
 | 760 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.36 | 0 | 532 |
 | 760 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 532 |
 | 760 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 0 | 532 |
@@ -846,14 +846,14 @@
 | 844 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 20,209 | 19 |
 | 844 | [Flatout](games/f/flatout.md) | 4.26 | 0 | 532 |
 | 844 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 0 | 532 |
+| 844 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 0 | 532 |
 | 844 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 297 | 242 |
-| 848 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 4.25 | 0 | 532 |
-| 848 | [EVE Online](games/e/eve_online.md) | 4.25 | 1,086 | 139 |
-| 848 | [Starsand](games/s/starsand.md) | 4.25 | 0 | 532 |
-| 848 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 0 | 532 |
-| 848 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 0 | 532 |
-| 848 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.25 | 0 | 532 |
-| 848 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 0 | 532 |
+| 849 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 4.25 | 0 | 532 |
+| 849 | [EVE Online](games/e/eve_online.md) | 4.25 | 1,086 | 139 |
+| 849 | [Starsand](games/s/starsand.md) | 4.25 | 0 | 532 |
+| 849 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 0 | 532 |
+| 849 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.25 | 0 | 532 |
+| 849 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 0 | 532 |
 | 855 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 532 |
 | 855 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 32 | 467 |
 | 855 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.24 | 22 | 515 |
@@ -927,8 +927,8 @@
 | 921 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.14 | 0 | 532 |
 | 926 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 0 | 532 |
 | 926 | [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 4.13 | 20 | 526 |
-| 926 | [Model Builder](games/m/model_builder.md) | 4.13 | 0 | 532 |
 | 926 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.13 | 0 | 532 |
+| 929 | [Model Builder](games/m/model_builder.md) | 4.11 | 0 | 532 |
 | 930 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 91 | 360 |
 | 930 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.10 | 0 | 532 |
 | 930 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 4.10 | 0 | 532 |
