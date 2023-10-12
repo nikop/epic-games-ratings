@@ -2,9 +2,9 @@
   "ID": "e7a7820e516744b88212c1f78aa895df",
   "Name": "Overpass 2",
   "ProductSlug": "overpass-2",
-  "Ranking_EOS_Progress": 367,
+  "Ranking_EOS_Progress": 366,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 124,
+  "EOS_Progressed": 126,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -447,6 +447,11 @@
       "Time": "2023-10-12T06:04:25.4543433+00:00",
       "NumProgressed": 124,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-12T15:05:14.3904273+00:00",
+      "NumProgressed": 126,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-28T09:03:06.3221207+00:00",
@@ -459,7 +464,7 @@
       "Name": "You\u0027re Fired!",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "achMaxCage",
@@ -499,7 +504,7 @@
       "Name": "Moving Up a Gear",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "achMaxTransmissionAll",
@@ -539,7 +544,7 @@
       "Name": "Extra Funding",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "achSponsor10",
@@ -563,7 +568,7 @@
       "Name": "In the Good Books",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "achSponsorMain1",
@@ -571,7 +576,7 @@
       "Name": "Executive Approval",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "achUnlockAddon",
@@ -619,7 +624,7 @@
       "Name": "Moving Up",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "achWinEvent",
@@ -682,14 +687,14 @@
     {
       "ID": "7ji07dj",
       "IsBase": true,
-      "Progressed": 124,
+      "Progressed": 126,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-03T04:00:29.2485771+00:00",
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2023-10-12T14:04:32.2817913+00:00",
+  "LastChanged_Achievements": "2023-10-12T15:05:14.3904266+00:00",
   "LastUpdate_AppInfo": "2023-10-12T09:57:17.4515049+00:00",
-  "LastUpdate_Ratings": "2023-10-12T13:59:36.2434783+00:00",
-  "LastUpdate_Achievements": "2023-10-12T14:04:32.2818133+00:00"
+  "LastUpdate_Ratings": "2023-10-12T15:00:45.6120386+00:00",
+  "LastUpdate_Achievements": "2023-10-12T15:05:14.3904474+00:00"
 }

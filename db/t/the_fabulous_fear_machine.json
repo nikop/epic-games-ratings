@@ -4,7 +4,7 @@
   "ProductSlug": "the-fabulous-fear-machine-8e7c6b",
   "Ranking_EOS_Progress": 471,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-10-04T16:00:00+00:00",
@@ -377,17 +377,17 @@
       "ID": "34",
       "SetID": "d37idgg",
       "Name": "Pulp! Terror Tales in the Night",
-      "Percentage": 33,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "35",
       "SetID": "d37idgg",
       "Name": "Pulp! Where Monsters Dwell",
-      "Percentage": 41,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "36",
@@ -425,9 +425,9 @@
       "ID": "4",
       "SetID": "d37idgg",
       "Name": "A continent with chemistry",
-      "Percentage": 41,
+      "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "40",
@@ -544,8 +544,8 @@
   ],
   "FirstSeen": "2023-10-04T21:00:27.0019409+00:00",
   "FirstSeenAchievements": "2023-09-01T11:02:14.7440084+00:00",
-  "LastChanged_Achievements": "2023-10-12T14:04:45.8521859+00:00",
+  "LastChanged_Achievements": "2023-10-12T15:05:33.6770257+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:05.043787+00:00",
-  "LastUpdate_Ratings": "2023-10-12T13:59:08.3058597+00:00",
-  "LastUpdate_Achievements": "2023-10-12T14:04:45.8522277+00:00"
+  "LastUpdate_Ratings": "2023-10-12T15:00:04.483553+00:00",
+  "LastUpdate_Achievements": "2023-10-12T15:05:33.6770684+00:00"
 }

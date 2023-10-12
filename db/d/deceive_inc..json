@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18341,
+  "EOS_Progressed": 18343,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -11411,6 +11411,11 @@
       "Time": "2023-10-12T14:06:16.9023869+00:00",
       "NumProgressed": 18341,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-12T15:07:41.5227315+00:00",
+      "NumProgressed": 18343,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -11446,7 +11451,7 @@
       "Name": "Security Supervisor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1100
+      "UsersEstimate": 1101
     },
     {
       "ID": "0005",
@@ -11478,7 +11483,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3301
+      "UsersEstimate": 3302
     },
     {
       "ID": "0009",
@@ -11550,7 +11555,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3301
+      "UsersEstimate": 3302
     },
     {
       "ID": "0018",
@@ -11604,9 +11609,9 @@
       "ID": "0024",
       "SetID": "2n2feee",
       "Name": "Tomorrow Never Dyes",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3852
+      "UsersEstimate": 4035
     },
     {
       "ID": "0025",
@@ -11638,7 +11643,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4218
+      "UsersEstimate": 4219
     },
     {
       "ID": "0029",
@@ -11646,7 +11651,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2384
+      "UsersEstimate": 2385
     },
     {
       "ID": "0030",
@@ -11654,7 +11659,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3301
+      "UsersEstimate": 3302
     },
     {
       "ID": "0031",
@@ -11709,7 +11714,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18341,
+      "Progressed": 18343,
       "Completed": 4
     }
   ],
@@ -11717,8 +11722,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-10-12T14:06:16.9023862+00:00",
+  "LastChanged_Achievements": "2023-10-12T15:07:41.5227311+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:09.6905795+00:00",
-  "LastUpdate_Ratings": "2023-10-12T13:57:52.3205234+00:00",
-  "LastUpdate_Achievements": "2023-10-12T14:06:16.9024839+00:00"
+  "LastUpdate_Ratings": "2023-10-12T14:58:14.0852707+00:00",
+  "LastUpdate_Achievements": "2023-10-12T15:07:41.5228406+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 182,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
@@ -2151,9 +2151,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 43612,
+  "EOS_Progressed": 43613,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -7541,6 +7541,11 @@
       "Time": "2023-10-12T11:04:47.2497421+00:00",
       "NumProgressed": 43612,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-10-12T15:05:09.0577849+00:00",
+      "NumProgressed": 43613,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -7552,7 +7557,7 @@
       "Name": "Groovy",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 27039
+      "UsersEstimate": 27040
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -7608,7 +7613,7 @@
       "Name": "Is it over?",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 12211
+      "UsersEstimate": 12212
     },
     {
       "ID": "SE_COMPLETE_CAMPAIGN_ON_HARD",
@@ -7688,7 +7693,7 @@
       "Name": "They\u0027re coming to get you Barbara",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 1744
+      "UsersEstimate": 1745
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_FROZEN_IN_FEAR",
@@ -7720,7 +7725,7 @@
       "Name": "Into the deep",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5233
+      "UsersEstimate": 5234
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_UNDEAD_WOOD",
@@ -7744,7 +7749,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 27039
+      "UsersEstimate": 27040
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -7752,7 +7757,7 @@
       "Name": "Total protonic reversal",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 1744
+      "UsersEstimate": 1745
     },
     {
       "ID": "SE_COMPLETE_ROME",
@@ -7768,7 +7773,7 @@
       "Name": "Weird science",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 19189
+      "UsersEstimate": 19190
     },
     {
       "ID": "SE_COMPLETE_ST_PETERS",
@@ -7808,7 +7813,7 @@
       "Name": "All of this has happened before\u2026",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15700
+      "UsersEstimate": 15701
     },
     {
       "ID": "SE_DROP_PIANO_ON_A_ZOMBIE",
@@ -7840,7 +7845,7 @@
       "Name": "Double tap",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 16136
+      "UsersEstimate": 16137
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -7872,7 +7877,7 @@
       "Name": "Cranial blowout!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 15700
+      "UsersEstimate": 15701
     },
     {
       "ID": "SE_HEADSHOT_ZOMBIE_MID_RESURRECTION",
@@ -7880,7 +7885,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 30092
+      "UsersEstimate": 30093
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -7928,7 +7933,7 @@
       "Name": "Zombie killin\u0027 machine",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15700
+      "UsersEstimate": 15701
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_ATTACKING_OTHER_PLAYERS",
@@ -7936,7 +7941,7 @@
       "Name": "Got your back",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 11775
+      "UsersEstimate": 11776
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_WITHOUT_MISS",
@@ -7944,7 +7949,7 @@
       "Name": "Chain reaction",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19625
+      "UsersEstimate": 19626
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -7952,7 +7957,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 28784
+      "UsersEstimate": 28785
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -8040,7 +8045,7 @@
       "Name": "A friend in need",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 1744
+      "UsersEstimate": 1745
     },
     {
       "ID": "SE_SEVER_X_LIMBS",
@@ -8072,22 +8077,22 @@
       "Name": "Every bullet counts",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 15700
+      "UsersEstimate": 15701
     }
   ],
   "AchievementSets": [
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 43612,
+      "Progressed": 43613,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-10-10T01:39:35.711869+00:00",
-  "LastChanged_Achievements": "2023-10-12T14:04:28.4778971+00:00",
+  "LastChanged_Achievements": "2023-10-12T15:05:09.0577844+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:57:02.9271925+00:00",
-  "LastUpdate_Ratings": "2023-10-12T13:58:19.5722402+00:00",
-  "LastUpdate_Achievements": "2023-10-12T14:04:28.4779931+00:00"
+  "LastUpdate_Ratings": "2023-10-12T14:58:54.0454688+00:00",
+  "LastUpdate_Achievements": "2023-10-12T15:05:09.057882+00:00"
 }

@@ -11,7 +11,7 @@ Rating: 3.55 (Ranked 1,008)
 | Mechanic | 19.00% | ~14,362 |
 | Adios, Friendo | 18.00% | ~13,606 |
 | Bottom's Up | 18.00% | ~13,606 |
-| Nice Try | 16.00% | ~12,094 |
+| Nice Try | 16.00% | ~12,095 |
 | Right On Target | 13.00% | ~9,827 |
 | Piano Man | 10.00% | ~7,559 |
 | Lazy Bones | 9.00% | ~6,803 |
@@ -19,7 +19,7 @@ Rating: 3.55 (Ranked 1,008)
 | Nothing Left to Say | 7.00% | ~5,291 |
 | Sniper | 7.00% | ~5,291 |
 | Cut Call | 6.00% | ~4,535 |
-| Magnetic Miracles | 5.00% | ~3,779 |
+| Magnetic Miracles | 5.00% | ~3,780 |
 | Butcher | 4.00% | ~3,024 |
 | Spicy | 4.00% | ~3,024 |
 | A Man Of Taste | 3.00% | ~2,268 |
@@ -31,7 +31,7 @@ Rating: 3.55 (Ranked 1,008)
 | Audiophile | 2.00% | ~1,512 |
 | Tape Head | 2.00% | ~1,512 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 75,589 (Ranked 89)  
+Progressed: 75,591 (Ranked 89)  
 Completed: 793 (1.05%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 793 (1.05%) (Ranked 140)
 | 2023-10-09 | 75,416 | 787 |
 | 2023-10-10 | 75,476 | 791 |
 | 2023-10-11 | 75,543 | 792 |
-| 2023-10-12 | 75,589 | 793 |
+| 2023-10-12 | 75,591 | 793 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

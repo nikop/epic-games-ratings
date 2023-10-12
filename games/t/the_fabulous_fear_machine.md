@@ -9,11 +9,11 @@
 | Jung's dream | 70.00% | ~19 |
 | The battle of Great Britain | 63.00% | ~17 |
 | Giant | 52.00% | ~14 |
+| Pulp! Where Monsters Dwell | 48.00% | ~13 |
+| A continent with chemistry | 48.00% | ~13 |
 | A rival with no options | 44.00% | ~12 |
-| Pulp! Where Monsters Dwell | 41.00% | ~11 |
-| A continent with chemistry | 41.00% | ~11 |
+| Pulp! Terror Tales in the Night | 41.00% | ~11 |
 | The happy farmer girl | 41.00% | ~11 |
-| Pulp! Terror Tales in the Night | 33.00% | ~9 |
 | Kirlian's best disciple | 33.00% | ~9 |
 | The seer | 30.00% | ~8 |
 | Pulp! Out of this World | 30.00% | ~8 |

@@ -12,13 +12,13 @@ Rating: 3.94 (Ranked 977)
 | Too Old for This | 0.90% | ~801 |
 | Fancy Pants | 0.80% | ~712 |
 | Roid Ranger | 0.70% | ~623 |
+| King of the Hill | 0.70% | ~623 |
 | Off the Rocks | 0.70% | ~623 |
 | Raider’s Ruin | 0.70% | ~623 |
 | Dragonslayer | 0.70% | ~623 |
 | Rockay Rex | 0.70% | ~623 |
 | Hidden Sonata | 0.60% | ~534 |
 | Case Closed | 0.60% | ~534 |
-| King of the Hill | 0.60% | ~534 |
 | Track Star | 0.50% | ~445 |
 | True Player | 0.50% | ~445 |
 | Headhunter | 0.40% | ~356 |

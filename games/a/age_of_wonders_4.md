@@ -15,11 +15,11 @@ Rating: 4.60 (Ranked 397)
 | Bone Peddler | 6.00% | ~313 |
 | Stronger Together | 6.00% | ~313 |
 | Magical Synergy | 6.00% | ~313 |
+| My Final Form | 6.00% | ~313 |
 | Seat of Power | 6.00% | ~313 |
 | Intimidation Tactics | 6.00% | ~313 |
 | Mighty Hoard | 6.00% | ~313 |
 | Full Ascension | 5.00% | ~261 |
-| My Final Form | 5.00% | ~261 |
 | In a Liege of Your Own | 5.00% | ~261 |
 | Fiery Friend | 5.00% | ~261 |
 | Against the Odds | 5.00% | ~261 |

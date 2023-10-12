@@ -1275,9 +1275,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 25874,
+  "EOS_Progressed": 25876,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 470,
+  "EOS_NewPlayers": 464,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -20055,6 +20055,11 @@
       "Time": "2023-10-12T14:03:25.1041663+00:00",
       "NumProgressed": 25874,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-10-12T15:03:39.0086601+00:00",
+      "NumProgressed": 25876,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 22,
@@ -20082,7 +20087,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1552
+      "UsersEstimate": 1553
     },
     {
       "ID": "1018",
@@ -20114,7 +20119,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 6,
       "XP": 65,
-      "UsersEstimate": 1552
+      "UsersEstimate": 1553
     },
     {
       "ID": "1022",
@@ -20122,7 +20127,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1552
+      "UsersEstimate": 1553
     },
     {
       "ID": "1023",
@@ -20146,7 +20151,7 @@
       "Name": "King in the North",
       "Percentage": 2,
       "XP": 110,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "1026",
@@ -20170,7 +20175,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4657
+      "UsersEstimate": 4658
     },
     {
       "ID": "1029",
@@ -20194,7 +20199,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3622
+      "UsersEstimate": 3623
     },
     {
       "ID": "1032",
@@ -20241,15 +20246,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 25874,
+      "Progressed": 25876,
       "Completed": 65
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-09-03T23:00:19.1993338+00:00",
-  "LastChanged_Achievements": "2023-10-12T14:03:25.1041657+00:00",
+  "LastChanged_Achievements": "2023-10-12T15:03:39.0086594+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:37.0739283+00:00",
-  "LastUpdate_Ratings": "2023-10-12T13:58:15.8332959+00:00",
-  "LastUpdate_Achievements": "2023-10-12T14:03:25.1043032+00:00"
+  "LastUpdate_Ratings": "2023-10-12T14:58:48.7210006+00:00",
+  "LastUpdate_Achievements": "2023-10-12T15:03:39.0088474+00:00"
 }

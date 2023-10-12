@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 456,
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewPlayers": 308,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -2403,9 +2403,9 @@
       "ID": "ACHIEVEMENTS_19",
       "SetID": "d4o538a",
       "Name": "Spark of Love",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 292
+      "UsersEstimate": 308
     },
     {
       "ID": "ACHIEVEMENTS_20",
@@ -2572,8 +2572,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-10-10T06:57:32.8973467+00:00",
-  "LastChanged_Achievements": "2023-10-12T14:06:41.3482997+00:00",
+  "LastChanged_Achievements": "2023-10-12T15:08:16.14137+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:41.468799+00:00",
-  "LastUpdate_Ratings": "2023-10-12T13:58:23.924891+00:00",
-  "LastUpdate_Achievements": "2023-10-12T14:06:41.3483402+00:00"
+  "LastUpdate_Ratings": "2023-10-12T14:59:00.2184727+00:00",
+  "LastUpdate_Achievements": "2023-10-12T15:08:16.1414138+00:00"
 }

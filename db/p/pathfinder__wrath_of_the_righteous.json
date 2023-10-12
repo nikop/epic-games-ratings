@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 116,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3908,9 +3908,9 @@
       "Count": 387
     }
   ],
-  "EOS_Progressed": 11514,
+  "EOS_Progressed": 11515,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13468,6 +13468,11 @@
       "Time": "2023-10-12T11:09:22.3717517+00:00",
       "NumProgressed": 11514,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-12T15:09:32.1718328+00:00",
+      "NumProgressed": 11515,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -13479,7 +13484,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2878
+      "UsersEstimate": 2879
     },
     {
       "ID": "02_BurningCity",
@@ -13487,7 +13492,7 @@
       "Name": "Burning City",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1957
+      "UsersEstimate": 1958
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -14406,21 +14411,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10296,
+      "Progressed": 10297,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11514,
+      "Progressed": 11515,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-10-11T14:59:58.2187492+00:00",
-  "LastChanged_Achievements": "2023-10-12T14:09:06.1948226+00:00",
+  "LastChanged_Achievements": "2023-10-12T15:09:32.1718324+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:22.9873596+00:00",
-  "LastUpdate_Ratings": "2023-10-12T13:59:34.6203342+00:00",
-  "LastUpdate_Achievements": "2023-10-12T14:09:06.1950486+00:00"
+  "LastUpdate_Ratings": "2023-10-12T15:00:42.7678317+00:00",
+  "LastUpdate_Achievements": "2023-10-12T15:09:32.1720538+00:00"
 }

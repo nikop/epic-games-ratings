@@ -6,25 +6,25 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 75.00% | ~4,631 |
-| Having A Field Day | 75.00% | ~4,631 |
-| Reap What You Sow | 72.00% | ~4,446 |
+| Get A Room | 75.00% | ~4,632 |
+| Having A Field Day | 75.00% | ~4,632 |
+| Reap What You Sow | 72.00% | ~4,447 |
 | The First Day | 69.00% | ~4,261 |
-| Green Thumb | 67.00% | ~4,137 |
-| Novice Researcher | 67.00% | ~4,137 |
-| Home Cooked Meal | 59.00% | ~3,643 |
+| Green Thumb | 67.00% | ~4,138 |
+| Novice Researcher | 67.00% | ~4,138 |
+| Home Cooked Meal | 59.00% | ~3,644 |
 | Onward | 57.00% | ~3,520 |
-| The First Week | 55.00% | ~3,396 |
-| Beam Me Up | 52.00% | ~3,211 |
-| Putting Food on the Table | 52.00% | ~3,211 |
-| Studious Researcher | 52.00% | ~3,211 |
+| The First Week | 55.00% | ~3,397 |
+| Beam Me Up | 52.00% | ~3,212 |
+| Putting Food on the Table | 52.00% | ~3,212 |
+| Studious Researcher | 52.00% | ~3,212 |
 | Adept Researcher | 45.00% | ~2,779 |
-| Feast or Famine | 43.00% | ~2,655 |
+| Feast or Famine | 43.00% | ~2,656 |
 | Retribution | 42.00% | ~2,594 |
 | ...And Don’t Come Back! | 42.00% | ~2,594 |
 | Fit For A King | 33.00% | ~2,038 |
 | Luminary Researcher | 32.00% | ~1,976 |
-| Heating Up | 31.00% | ~1,914 |
+| Heating Up | 31.00% | ~1,915 |
 | Winter Is Coming | 28.00% | ~1,729 |
 | Winter Is Here | 24.00% | ~1,482 |
 | Disassembled | 21.00% | ~1,297 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~124 |
 | Wabbit Season | 0.50% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,175 (Ranked 164)  
+Progressed: 6,176 (Ranked 164)  
 Completed: 14 (0.23%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 14 (0.23%) (Ranked 217)
 | 2023-10-09 | 6,154 | 14 |
 | 2023-10-10 | 6,163 | 14 |
 | 2023-10-11 | 6,171 | 14 |
-| 2023-10-12 | 6,175 | 14 |
+| 2023-10-12 | 6,176 | 14 |
 ## Awards
 Max (Relaxing): 122  (Ranked 326)  
 Sum: 991 (Ranked 248)  

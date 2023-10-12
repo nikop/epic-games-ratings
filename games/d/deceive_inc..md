@@ -6,17 +6,17 @@ Rating: 4.56 (Ranked 471)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | On Deceive Inc.'s Secret Service | 29.00% | ~5,319 |
-| The Spy who eliminated me | 23.00% | ~4,218 |
+| The Spy who eliminated me | 23.00% | ~4,219 |
 | Mainframe Hacker | 22.00% | ~4,035 |
-| Tomorrow Never Dyes | 21.00% | ~3,852 |
-| From the Vault with Love | 18.00% | ~3,301 |
-| Never Say Loser Again | 18.00% | ~3,301 |
-| For your Eyes only | 18.00% | ~3,301 |
+| Tomorrow Never Dyes | 22.00% | ~4,035 |
+| From the Vault with Love | 18.00% | ~3,302 |
+| Never Say Loser Again | 18.00% | ~3,302 |
+| For your Eyes only | 18.00% | ~3,302 |
 | Assistant Accountant | 17.00% | ~3,118 |
 | Tailor-Made | 17.00% | ~3,118 |
 | You Only Live Twice | 16.00% | ~2,935 |
 | Fully Decked Out | 16.00% | ~2,935 |
-| A view to Win | 13.00% | ~2,384 |
+| A view to Win | 13.00% | ~2,385 |
 | Smells Like Trouble | 12.00% | ~2,201 |
 | The Living Portrait | 11.00% | ~2,018 |
 | My Motto, My Creed | 11.00% | ~2,018 |
@@ -26,7 +26,7 @@ Rating: 4.56 (Ranked 471)
 | Keycards Royale | 10.00% | ~1,834 |
 | Dr. No Kill | 10.00% | ~1,834 |
 | In It to Win It | 9.00% | ~1,651 |
-| Security Supervisor | 6.00% | ~1,100 |
+| Security Supervisor | 6.00% | ~1,101 |
 | License to Thrill | 5.00% | ~917 |
 | Social of Solace | 3.00% | ~550 |
 | Live and let lie | 3.00% | ~550 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 471)
 | Extraction Confusion | 0.20% | ~37 |
 | Spyfall | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,341 (Ranked 128)  
+Progressed: 18,343 (Ranked 128)  
 Completed: 4 (0.02%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 4 (0.02%) (Ranked 287)
 | 2023-10-09 | 18,319 | 4 |
 | 2023-10-10 | 18,327 | 4 |
 | 2023-10-11 | 18,331 | 4 |
-| 2023-10-12 | 18,341 | 4 |
+| 2023-10-12 | 18,343 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

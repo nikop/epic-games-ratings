@@ -465,17 +465,17 @@
       "ID": "achievement_10",
       "SetID": "18al4io",
       "Name": "Control is an Illusion",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "achievement_11",
       "SetID": "18al4io",
       "Name": "The Means to Save It",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "achievement_12",
@@ -842,8 +842,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-10-03T16:00:12.6154231+00:00",
-  "LastChanged_Achievements": "2023-10-12T14:06:34.7453208+00:00",
+  "LastChanged_Achievements": "2023-10-12T15:08:06.9458883+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:18.0204012+00:00",
-  "LastUpdate_Ratings": "2023-10-12T13:59:28.3755767+00:00",
-  "LastUpdate_Achievements": "2023-10-12T14:06:34.7453664+00:00"
+  "LastUpdate_Ratings": "2023-10-12T15:00:31.9924624+00:00",
+  "LastUpdate_Achievements": "2023-10-12T15:08:06.9459341+00:00"
 }

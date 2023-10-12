@@ -20,10 +20,10 @@
 | Bit Blaster V5 | 14.00% | ~24 |
 | Bit Blaster V6 | 11.00% | ~19 |
 | Bit Blaster V7 | 9.00% | ~15 |
-| Bit Blaster V8 | 5.00% | ~8 |
+| Bit Blaster V8 | 6.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 170 (Ranked 350)  
-Completed: 9 (5.29%) (Ranked 60)  
+Completed: 10 (5.88%) (Ranked 55)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -82,3 +82,4 @@ Completed: 9 (5.29%) (Ranked 60)
 | 2023-08-13 | 168 | 9 |
 | 2023-08-22 | 169 | 9 |
 | 2023-09-05 | 170 | 9 |
+| 2023-10-12 | 170 | 10 |

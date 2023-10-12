@@ -4,10 +4,10 @@
   "ProductSlug": "the-sims-4",
   "Ranking_Rating": 336,
   "Ranking_Popularity": 136,
-  "Ranking_PopularitySum": 115,
+  "Ranking_PopularitySum": 114,
   "Ranking_EOS_Progress": 667,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 395,
+  "Ranking_EOS_NewPlayers": 394,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-02-02T18:00:00+00:00",
@@ -7706,10 +7706,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 6986,
       "NumberOfAwardsMax": 1255
+    },
+    {
+      "Time": "2023-10-12T14:58:21.5012924+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 7000,
+      "NumberOfAwardsMax": 1255
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6986,
+  "NumberOfAwards": 7000,
   "NumberOfAwardsMax": 1255,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7747,7 +7753,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 602
+      "Count": 607
     },
     {
       "Text": "This game is Extremely Fun",
@@ -7759,13 +7765,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 520
+      "Count": 525
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 526
+      "Count": 530
     },
     {
       "Text": "This game is Relaxing",
@@ -7800,9 +7806,9 @@
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
   "FirstSeenAchievements": "2023-07-31T02:02:04.5176736+00:00",
-  "LastChanged": "2023-10-12T11:58:18.8736801+00:00",
-  "LastChanged_Achievements": "2023-10-12T14:05:23.3173194+00:00",
+  "LastChanged": "2023-10-12T14:58:21.5012922+00:00",
+  "LastChanged_Achievements": "2023-10-12T15:06:26.0493026+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:07.5872285+00:00",
-  "LastUpdate_Ratings": "2023-10-12T13:57:56.2648544+00:00",
-  "LastUpdate_Achievements": "2023-10-12T14:05:23.3173228+00:00"
+  "LastUpdate_Ratings": "2023-10-12T14:58:21.5012929+00:00",
+  "LastUpdate_Achievements": "2023-10-12T15:06:26.0493063+00:00"
 }

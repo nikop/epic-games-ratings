@@ -15,16 +15,16 @@
 | Open up wide | 33.00% | ~44 |
 | Let the boot talk | 32.00% | ~42 |
 | Chapter II | 28.00% | ~37 |
+| Achoo!! | 25.00% | ~33 |
 | Handyman | 24.00% | ~32 |
-| Achoo!! | 24.00% | ~32 |
 | Shadow on the wall | 23.00% | ~30 |
 | Bubblekillerfamily | 23.00% | ~30 |
 | Chapter III | 23.00% | ~30 |
 | Like a moth in the Wind | 23.00% | ~30 |
 | Quite a buggy game | 22.00% | ~29 |
+| Fastidious Clown | 20.00% | ~26 |
 | Mirror mirror on the wall... | 20.00% | ~26 |
 | Pacifist | 19.00% | ~25 |
-| Fastidious Clown | 19.00% | ~25 |
 | It's not easy being green! | 18.00% | ~24 |
 | Home is where the heart is | 17.00% | ~22 |
 | Death is a part of life | 16.00% | ~21 |
@@ -37,9 +37,9 @@
 | Lollipop | 8.00% | ~11 |
 | Where there is life, there is hope | 8.00% | ~11 |
 | It's nothing personal | 7.00% | ~9 |
+| Sadist | 6.00% | ~8 |
 | The hands of a healer | 6.00% | ~8 |
 | Artistic master | 5.00% | ~7 |
-| Sadist | 5.00% | ~7 |
 | Fartjokes! | 5.00% | ~7 |
 | Shut up clown! | 4.00% | ~5 |
 | Life is but a dream | 3.00% | ~4 |

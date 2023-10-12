@@ -19,8 +19,8 @@ Rating: 3.51 (Ranked 1,009)
 | ICU | 0.90% | ~16 |
 | Wounded Whispers | 0.90% | ~16 |
 | Heart Attack | 0.90% | ~16 |
+| Skin of Their Teeth | 0.90% | ~16 |
 | Home Is Where the Heart Is | 0.80% | ~14 |
-| Skin of Their Teeth | 0.80% | ~14 |
 | Neighborhood Revitalization | 0.70% | ~12 |
 | Radio Silence | 0.70% | ~12 |
 | From the Shadows | 0.60% | ~11 |

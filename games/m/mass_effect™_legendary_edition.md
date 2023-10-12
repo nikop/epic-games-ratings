@@ -7,7 +7,7 @@
 | Distinguished Service Medal | 95.00% | ~627 |
 | Spectre Inductee | 85.00% | ~561 |
 | Medal of Exploration I | 76.00% | ~502 |
-| Recruit | 72.00% | ~475 |
+| Recruit | 73.00% | ~482 |
 | Search and Rescue | 72.00% | ~475 |
 | Quarian Ally | 69.00% | ~455 |
 | Medal of Heroism | 67.00% | ~442 |
@@ -77,8 +77,8 @@
 | A House Divided | 26.00% | ~172 |
 | Untouchable | 25.00% | ~165 |
 | Eye of the Hurricane | 25.00% | ~165 |
+| Giant Killer | 25.00% | ~165 |
 | Weapon Specialist | 25.00% | ~165 |
-| Giant Killer | 24.00% | ~158 |
 | World Shaker | 24.00% | ~158 |
 | Liberator | 24.00% | ~158 |
 | Paramour II | 22.00% | ~145 |
@@ -97,8 +97,8 @@
 | Under Pressure | 18.00% | ~119 |
 | Electronics Specialist | 18.00% | ~119 |
 | Sabotage Specialist | 18.00% | ~119 |
+| Last Witness | 18.00% | ~119 |
 | Last Resort | 17.00% | ~112 |
-| Last Witness | 17.00% | ~112 |
 | Well Connected | 17.00% | ~112 |
 | Throw Mastery | 16.00% | ~106 |
 | Master and Commander | 16.00% | ~106 |

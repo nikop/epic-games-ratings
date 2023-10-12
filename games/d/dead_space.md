@@ -5,34 +5,34 @@ Rating: 4.62 (Ranked 354)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marksman | 95.00% | ~889 |
-| Welcome Aboard | 87.00% | ~814 |
-| Lab Rat | 75.00% | ~702 |
-| All Systems Go | 67.00% | ~627 |
+| Marksman | 95.00% | ~890 |
+| Welcome Aboard | 87.00% | ~815 |
+| Lab Rat | 75.00% | ~703 |
+| All Systems Go | 67.00% | ~628 |
 | Brute Force | 66.00% | ~618 |
-| Cannon Fodder | 62.00% | ~580 |
+| Cannon Fodder | 62.00% | ~581 |
 | Autofire | 60.00% | ~562 |
 | Story Teller | 58.00% | ~543 |
 | True Believer | 58.00% | ~543 |
 | Raise the Stakes | 57.00% | ~534 |
-| Surgeon | 53.00% | ~496 |
+| Surgeon | 53.00% | ~497 |
 | Exterminator | 52.00% | ~487 |
 | Greenhouse Effect | 52.00% | ~487 |
-| Freeze | 51.00% | ~477 |
+| Freeze | 51.00% | ~478 |
 | Full Arsenal | 46.00% | ~431 |
-| S.O.S. | 45.00% | ~421 |
-| Get Off My Ship! | 43.00% | ~402 |
-| Strange Transmissions | 43.00% | ~402 |
-| Live with the Hot Ones | 42.00% | ~393 |
-| Wreckage | 42.00% | ~393 |
-| Keeper of the Faith | 40.00% | ~374 |
+| S.O.S. | 45.00% | ~422 |
+| Get Off My Ship! | 43.00% | ~403 |
+| Strange Transmissions | 43.00% | ~403 |
+| Live with the Hot Ones | 42.00% | ~394 |
+| Wreckage | 42.00% | ~394 |
+| Keeper of the Faith | 40.00% | ~375 |
 | Betrayed | 38.00% | ~356 |
-| Legend Teller | 37.00% | ~346 |
-| There's Always Peng! | 37.00% | ~346 |
+| Legend Teller | 37.00% | ~347 |
+| There's Always Peng! | 37.00% | ~347 |
 | Exodus | 36.00% | ~337 |
 | Mindless Prey | 36.00% | ~337 |
-| A Cut Above | 34.00% | ~318 |
-| Front Toward Enemy | 34.00% | ~318 |
+| A Cut Above | 34.00% | ~319 |
+| Front Toward Enemy | 34.00% | ~319 |
 | Whole Again | 28.00% | ~262 |
 | Set A Benchmark | 28.00% | ~262 |
 | Final Regeneration | 25.00% | ~234 |
@@ -53,7 +53,7 @@ Rating: 4.62 (Ranked 354)
 | Untouchable | 2.00% | ~19 |
 | One Gun | 2.00% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 936 (Ranked 236)  
+Progressed: 937 (Ranked 236)  
 Completed: 5 (0.53%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 5 (0.53%) (Ranked 174)
 | 2023-10-09 | 886 | 4 |
 | 2023-10-10 | 912 | 4 |
 | 2023-10-11 | 926 | 5 |
-| 2023-10-12 | 936 | 5 |
+| 2023-10-12 | 937 | 5 |
 ## Awards
 Max (Great Boss Battles): 102  (Ranked 344)  
 Sum: 102 (Ranked 429)  

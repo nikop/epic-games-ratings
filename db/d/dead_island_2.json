@@ -5280,9 +5280,9 @@
       "Count": 377
     }
   ],
-  "EOS_Progressed": 694486,
+  "EOS_Progressed": 694508,
   "EOS_Completed": 2210,
-  "EOS_NewPlayers": 3428,
+  "EOS_NewPlayers": 3422,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -25105,6 +25105,11 @@
       "Time": "2023-10-12T14:03:42.4055726+00:00",
       "NumProgressed": 694486,
       "NumCompleted": 2210
+    },
+    {
+      "Time": "2023-10-12T15:04:02.9599166+00:00",
+      "NumProgressed": 694508,
+      "NumCompleted": 2210
     }
   ],
   "TotalAchievements": 45,
@@ -25156,7 +25161,7 @@
       "Name": "LA Influential",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 3472
+      "UsersEstimate": 3473
     },
     {
       "ID": "ach_blueprinted",
@@ -25188,7 +25193,7 @@
       "Name": "On Safari",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 4861
+      "UsersEstimate": 4862
     },
     {
       "ID": "ach_defensive",
@@ -25220,7 +25225,7 @@
       "Name": "Smorgasbord",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 6250
+      "UsersEstimate": 6251
     },
     {
       "ID": "ach_fetch_me_a_tisha",
@@ -25252,7 +25257,7 @@
       "Name": "Not Even My Final Form",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4861
+      "UsersEstimate": 4862
     },
     {
       "ID": "ach_hazardous_materials",
@@ -25292,7 +25297,7 @@
       "Name": "Internet Famous",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4861
+      "UsersEstimate": 4862
     },
     {
       "ID": "ach_investigator",
@@ -25340,7 +25345,7 @@
       "Name": "Gore Horse",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3472
+      "UsersEstimate": 3473
     },
     {
       "ID": "ach_metropolitan",
@@ -25404,7 +25409,7 @@
       "Name": "Survival Skills",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2083
+      "UsersEstimate": 2084
     },
     {
       "ID": "ach_survival_of_the_fittest",
@@ -25452,7 +25457,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 27779
+      "UsersEstimate": 27780
     },
     {
       "ID": "ach_well_known_survivor",
@@ -25468,29 +25473,29 @@
       "Name": "Bucket List",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     }
   ],
   "AchievementSets": [
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 694486,
+      "Progressed": 694508,
       "Completed": 2210
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 20028,
-      "Completed": 20028
+      "Progressed": 20050,
+      "Completed": 20050
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-10-12T11:00:28.821442+00:00",
-  "LastChanged_Achievements": "2023-10-12T14:03:42.4055717+00:00",
+  "LastChanged_Achievements": "2023-10-12T15:04:02.9599159+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:12.9143544+00:00",
-  "LastUpdate_Ratings": "2023-10-12T14:00:27.7530532+00:00",
-  "LastUpdate_Achievements": "2023-10-12T14:03:42.405732+00:00"
+  "LastUpdate_Ratings": "2023-10-12T15:01:58.012471+00:00",
+  "LastUpdate_Achievements": "2023-10-12T15:04:02.9601009+00:00"
 }

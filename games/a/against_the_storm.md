@@ -23,6 +23,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Lost Colonies | 4.00% | ~676 |
 | Statue of the Forefathers | 4.00% | ~676 |
 | Watchtower | 4.00% | ~676 |
+| Cursed Lands | 4.00% | ~676 |
 | A Real Challenge | 4.00% | ~676 |
 | Trade Baron | 4.00% | ~676 |
 | Serving Ale | 3.00% | ~507 |
@@ -33,7 +34,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Flooded Mines | 3.00% | ~507 |
 | Monastery of the Holy Flame | 3.00% | ~507 |
 | Corrosive Torrent | 3.00% | ~507 |
-| Cursed Lands | 3.00% | ~507 |
 | Like a Machine | 3.00% | ~507 |
 | Defying the Crown | 3.00% | ~507 |
 | Into the Forest | 3.00% | ~507 |

@@ -4,7 +4,7 @@
   "ProductSlug": "eternights-c2fbca",
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -1035,9 +1035,9 @@
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
       "SetID": "9bke6f1",
       "Name": "Novice Scavenger",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 172
+      "UsersEstimate": 174
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
@@ -1098,8 +1098,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-10-12T14:05:19.3504955+00:00",
+  "LastChanged_Achievements": "2023-10-12T15:06:20.2591499+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:21.0883+00:00",
-  "LastUpdate_Ratings": "2023-10-12T14:00:39.838111+00:00",
-  "LastUpdate_Achievements": "2023-10-12T14:05:19.3505169+00:00"
+  "LastUpdate_Ratings": "2023-10-12T15:02:15.6233491+00:00",
+  "LastUpdate_Achievements": "2023-10-12T15:06:20.2591749+00:00"
 }
