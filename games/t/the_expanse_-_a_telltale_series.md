@@ -13,6 +13,7 @@ Rating: 4.56 (Ranked 472)
 | Drone Dodger | 3.00% | ~417 |
 | Heal Thy Medic | 3.00% | ~417 |
 | Call it Even | 3.00% | ~417 |
+| Captain Drummer | 3.00% | ~417 |
 | Celebrations are in Order | 3.00% | ~417 |
 | Impossible Objects | 3.00% | ~417 |
 | Stogie for Fogey | 2.00% | ~278 |
@@ -20,7 +21,6 @@ Rating: 4.56 (Ranked 472)
 | Martian Music | 2.00% | ~278 |
 | Miraculous Maya | 2.00% | ~278 |
 | Khan's Revenge | 2.00% | ~278 |
-| Captain Drummer | 2.00% | ~278 |
 | Doctor Approved | 1.00% | ~139 |
 | Bottoms up! | 1.00% | ~139 |
 | Thorston Mayer | 1.00% | ~139 |

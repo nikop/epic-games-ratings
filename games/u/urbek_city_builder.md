@@ -18,8 +18,8 @@
 | I love parks | 1.00% | ~4 |
 | I love books! | 0.80% | ~3 |
 | King of fish | 0.80% | ~3 |
-| Food producer | 0.60% | ~2 |
-| I am very happy! | 0.60% | ~2 |
+| Food producer | 0.50% | ~2 |
+| I am very happy! | 0.50% | ~2 |
 | Banking city | 0.30% | ~1 |
 | Food provider master | 0.30% | ~1 |
 | City crisis | 0.30% | ~1 |
@@ -84,7 +84,7 @@
 | Rainforest master | 0.00% | ~0 |
 | Welfare state | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 363 (Ranked 298)  
+Progressed: 364 (Ranked 297)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,6 +202,7 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-09-26 | 357 | 0 |
 | 2023-09-28 | 362 | 0 |
 | 2023-10-07 | 363 | 0 |
+| 2023-10-13 | 364 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

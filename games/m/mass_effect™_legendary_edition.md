@@ -41,8 +41,8 @@
 | The Archangel | 37.00% | ~246 |
 | The Convict | 36.00% | ~240 |
 | The Krogan | 36.00% | ~240 |
+| Galactic Explorer | 36.00% | ~240 |
 | Colony Defense | 35.00% | ~233 |
-| Galactic Explorer | 35.00% | ~233 |
 | Archivist | 34.00% | ~226 |
 | Broke, Blind, and Bedlam | 34.00% | ~226 |
 | The Assassin | 33.00% | ~220 |

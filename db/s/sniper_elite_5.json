@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 534,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -530,9 +530,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3727,
+  "EOS_Progressed": 3728,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -7185,6 +7185,11 @@
       "Time": "2023-10-12T00:07:16.975667+00:00",
       "NumProgressed": 3727,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-13T05:06:29.8947632+00:00",
+      "NumProgressed": 3728,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7276,7 +7281,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1714
+      "UsersEstimate": 1715
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -7356,7 +7361,7 @@
       "Name": "Precision Is Key",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -7380,7 +7385,7 @@
       "Name": "Rigged to Blow",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
@@ -7420,7 +7425,7 @@
       "Name": "Resourceful",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1006
+      "UsersEstimate": 1007
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -7508,7 +7513,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -7532,7 +7537,7 @@
       "Name": "Change the Channel",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1155
+      "UsersEstimate": 1156
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -7604,7 +7609,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 894
+      "UsersEstimate": 895
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -7666,9 +7671,9 @@
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
       "SetID": "83mdf7p",
       "Name": "Operation Foxley",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 221
+      "UsersEstimate": 184
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -7763,13 +7768,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3678,
+      "Progressed": 3679,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3727,
+      "Progressed": 3728,
       "Completed": 11
     }
   ],
@@ -7777,8 +7782,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-30T02:10:59.0113899+00:00",
-  "LastChanged_Achievements": "2023-10-13T04:06:11.1474077+00:00",
+  "LastChanged_Achievements": "2023-10-13T05:06:29.8947627+00:00",
   "LastUpdate_AppInfo": "2023-10-07T09:57:23.5324772+00:00",
-  "LastUpdate_Ratings": "2023-10-13T03:58:37.2776153+00:00",
-  "LastUpdate_Achievements": "2023-10-13T04:06:11.1475421+00:00"
+  "LastUpdate_Ratings": "2023-10-13T04:58:45.6542421+00:00",
+  "LastUpdate_Achievements": "2023-10-13T05:06:29.8949013+00:00"
 }

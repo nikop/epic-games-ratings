@@ -580,9 +580,9 @@
       "ID": "ACHIEVEMENT_03",
       "SetID": "ap8553i",
       "Name": "Weapon of Choice",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -596,9 +596,9 @@
       "ID": "ACHIEVEMENT_05",
       "SetID": "ap8553i",
       "Name": "The First, Not the Last",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_06",
@@ -1145,8 +1145,8 @@
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-10-13T04:06:15.3629653+00:00",
+  "LastChanged_Achievements": "2023-10-13T05:06:34.2152129+00:00",
   "LastUpdate_AppInfo": "2023-10-11T21:57:06.97719+00:00",
-  "LastUpdate_Ratings": "2023-10-13T03:57:37.2065836+00:00",
-  "LastUpdate_Achievements": "2023-10-13T04:06:15.3630675+00:00"
+  "LastUpdate_Ratings": "2023-10-13T04:57:40.1353991+00:00",
+  "LastUpdate_Achievements": "2023-10-13T05:06:34.215322+00:00"
 }

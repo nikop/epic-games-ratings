@@ -29,6 +29,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong Cities | 1.00% | ~146 |
 | Hanging Gardens | 1.00% | ~146 |
 | Oracle | 1.00% | ~146 |
+| Pyramids | 1.00% | ~146 |
 | Christianity | 1.00% | ~146 |
 | Judaism | 1.00% | ~146 |
 | Babylonian Paganism | 1.00% | ~146 |
@@ -40,7 +41,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Wise | 0.90% | ~132 |
 | Ishtar Gate | 0.90% | ~132 |
 | Lighthouse | 0.90% | ~132 |
-| Pyramids | 0.90% | ~132 |
 | Kushite Pyramids | 0.90% | ~132 |
 | Brilliant | 0.80% | ~117 |
 | Fountainhead | 0.80% | ~117 |

@@ -1841,7 +1841,7 @@
   ],
   "EOS_Progressed": 14627,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 233,
+  "EOS_NewPlayers": 232,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15177,9 +15177,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_PYRAMIDS",
       "SetID": "9201eeb",
       "Name": "Pyramids",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 146
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_VIA_RECTA_SOUK",
@@ -16463,8 +16463,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-12T20:03:06.2994788+00:00",
-  "LastChanged_Achievements": "2023-10-13T04:06:06.6194484+00:00",
+  "LastChanged_Achievements": "2023-10-13T05:06:25.3965614+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:48.3987129+00:00",
-  "LastUpdate_Ratings": "2023-10-13T04:03:11.2564165+00:00",
-  "LastUpdate_Achievements": "2023-10-13T04:06:06.6210089+00:00"
+  "LastUpdate_Ratings": "2023-10-13T05:03:18.4119217+00:00",
+  "LastUpdate_Achievements": "2023-10-13T05:06:25.3981758+00:00"
 }

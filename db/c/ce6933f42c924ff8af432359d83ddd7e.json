@@ -924,9 +924,9 @@
       "ID": "ACH_CUBES",
       "SetID": "6f5dahd",
       "Name": "Brain-teaser",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 85,
-      "UsersEstimate": 179
+      "UsersEstimate": 183
     },
     {
       "ID": "ACH_DONUTS",
@@ -988,9 +988,9 @@
       "ID": "ACH_THE_END",
       "SetID": "6f5dahd",
       "Name": "Exit",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 65,
-      "UsersEstimate": 206
+      "UsersEstimate": 210
     }
   ],
   "AchievementSets": [
@@ -1003,8 +1003,8 @@
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-10-13T04:09:19.2932384+00:00",
+  "LastChanged_Achievements": "2023-10-13T05:09:38.6512509+00:00",
   "LastUpdate_AppInfo": "2023-10-06T13:02:54.461472+00:00",
-  "LastUpdate_Ratings": "2023-10-13T03:58:33.9545966+00:00",
-  "LastUpdate_Achievements": "2023-10-13T04:09:19.2932545+00:00"
+  "LastUpdate_Ratings": "2023-10-13T04:58:42.9299726+00:00",
+  "LastUpdate_Achievements": "2023-10-13T05:09:38.6512679+00:00"
 }

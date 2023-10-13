@@ -7,15 +7,15 @@ Rating: 4.54 (Ranked 510)
 | ---- | ---------- | ----- |
 | Hotel California | 4.00% | ~27,791 |
 | Welcome To Hell-A | 4.00% | ~27,791 |
-| Dr. Reed, I Presume? | 3.00% | ~20,843 |
-| Git Gutte! | 3.00% | ~20,843 |
-| Break A Leg | 3.00% | ~20,843 |
-| Coup de Grâce | 3.00% | ~20,843 |
-| Hazardous Materials | 3.00% | ~20,843 |
-| Friends Like These | 3.00% | ~20,843 |
-| Apex Predator | 3.00% | ~20,843 |
-| Stacking the Deck | 3.00% | ~20,843 |
-| Personal Assistant Personally Assisted | 3.00% | ~20,843 |
+| Dr. Reed, I Presume? | 3.00% | ~20,844 |
+| Git Gutte! | 3.00% | ~20,844 |
+| Break A Leg | 3.00% | ~20,844 |
+| Coup de Grâce | 3.00% | ~20,844 |
+| Hazardous Materials | 3.00% | ~20,844 |
+| Friends Like These | 3.00% | ~20,844 |
+| Apex Predator | 3.00% | ~20,844 |
+| Stacking the Deck | 3.00% | ~20,844 |
+| Personal Assistant Personally Assisted | 3.00% | ~20,844 |
 | Making Your Mark | 2.00% | ~13,896 |
 | Anger Management | 2.00% | ~13,896 |
 | Perks of the Job | 2.00% | ~13,896 |
@@ -39,8 +39,8 @@ Rating: 4.54 (Ranked 510)
 | Rising Star | 1.00% | ~6,948 |
 | Smorgasbord | 0.90% | ~6,253 |
 | Internet Famous | 0.80% | ~5,558 |
-| On Safari | 0.70% | ~4,863 |
-| Not Even My Final Form | 0.70% | ~4,863 |
+| On Safari | 0.70% | ~4,864 |
+| Not Even My Final Form | 0.70% | ~4,864 |
 | Make it So | 0.60% | ~4,169 |
 | Variety is the Spice of Death | 0.60% | ~4,169 |
 | LA Influential | 0.50% | ~3,474 |
@@ -51,8 +51,8 @@ Rating: 4.54 (Ranked 510)
 | Donk! | 0.20% | ~1,390 |
 | Bucket List | 0.10% | ~695 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 694,778 (Ranked 22)  
-Completed: 2,216 (0.32%) (Ranked 200)  
+Progressed: 694,787 (Ranked 22)  
+Completed: 2,217 (0.32%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -227,7 +227,7 @@ Completed: 2,216 (0.32%) (Ranked 200)
 | 2023-10-10 | 693,868 | 2,209 |
 | 2023-10-11 | 694,263 | 2,210 |
 | 2023-10-12 | 694,718 | 2,216 |
-| 2023-10-13 | 694,778 | 2,216 |
+| 2023-10-13 | 694,787 | 2,217 |
 ## Awards
 Max (Great Boss Battles): 6,407  (Ranked 58)  
 Sum: 9,574 (Ranked 91)  

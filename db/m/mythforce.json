@@ -749,9 +749,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4071,
+  "EOS_Progressed": 4072,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 278,
+  "EOS_NewPlayers": 279,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7249,6 +7249,11 @@
       "Time": "2023-10-13T04:06:36.5084776+00:00",
       "NumProgressed": 4071,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-13T05:06:55.976843+00:00",
+      "NumProgressed": 4072,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -7309,15 +7314,15 @@
       "Name": "Faceroll the Bones",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 936
+      "UsersEstimate": 937
     },
     {
       "ID": "MF_Ach_FirstStrike",
       "SetID": "9b9n573",
       "Name": "First Strike",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 692
+      "UsersEstimate": 733
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -7357,7 +7362,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -7444,15 +7449,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4071,
+      "Progressed": 4072,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-12T23:00:50.5530003+00:00",
-  "LastChanged_Achievements": "2023-10-13T04:06:36.508477+00:00",
+  "LastChanged_Achievements": "2023-10-13T05:06:55.9768425+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:44.063019+00:00",
-  "LastUpdate_Ratings": "2023-10-13T03:59:57.0724871+00:00",
-  "LastUpdate_Achievements": "2023-10-13T04:06:36.5085419+00:00"
+  "LastUpdate_Ratings": "2023-10-13T05:00:05.588597+00:00",
+  "LastUpdate_Achievements": "2023-10-13T05:06:55.9769124+00:00"
 }

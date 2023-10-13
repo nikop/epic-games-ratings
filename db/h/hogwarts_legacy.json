@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8922,7 +8922,7 @@
       "Count": 710
     }
   ],
-  "EOS_Progressed": 298222,
+  "EOS_Progressed": 298224,
   "EOS_Completed": 485,
   "EOS_NewPlayers": 342,
   "EOS_NewCompleters": 4,
@@ -27757,6 +27757,11 @@
       "Time": "2023-10-13T04:04:02.7853001+00:00",
       "NumProgressed": 298222,
       "NumCompleted": 485
+    },
+    {
+      "Time": "2023-10-13T05:04:13.9312111+00:00",
+      "NumProgressed": 298224,
+      "NumCompleted": 485
     }
   ],
   "TotalAchievements": 45,
@@ -27768,7 +27773,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 44733
+      "UsersEstimate": 44734
     },
     {
       "ID": "PFA_10",
@@ -27792,7 +27797,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 32804
+      "UsersEstimate": 32805
     },
     {
       "ID": "PFA_13",
@@ -27824,7 +27829,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32804
+      "UsersEstimate": 32805
     },
     {
       "ID": "PFA_17",
@@ -27896,7 +27901,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32804
+      "UsersEstimate": 32805
     },
     {
       "ID": "PFA_25",
@@ -27952,7 +27957,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32804
+      "UsersEstimate": 32805
     },
     {
       "ID": "PFA_31",
@@ -28024,7 +28029,7 @@
       "Name": "Coasting Along",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32804
+      "UsersEstimate": 32805
     },
     {
       "ID": "PFA_4",
@@ -28127,7 +28132,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298222,
+      "Progressed": 298224,
       "Completed": 485
     }
   ],
@@ -28135,8 +28140,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-13T01:44:37.0244788+00:00",
-  "LastChanged_Achievements": "2023-10-13T04:04:02.7852996+00:00",
+  "LastChanged_Achievements": "2023-10-13T05:04:13.9312105+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:01.0338203+00:00",
-  "LastUpdate_Ratings": "2023-10-13T03:59:27.5468695+00:00",
-  "LastUpdate_Achievements": "2023-10-13T04:04:02.7854647+00:00"
+  "LastUpdate_Ratings": "2023-10-13T04:59:34.7808473+00:00",
+  "LastUpdate_Achievements": "2023-10-13T05:04:13.9313966+00:00"
 }

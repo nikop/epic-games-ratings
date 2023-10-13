@@ -11291,9 +11291,9 @@
       "Count": 25339
     }
   ],
-  "EOS_Progressed": 935288,
+  "EOS_Progressed": 935338,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 14048,
+  "EOS_NewPlayers": 14054,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -31246,6 +31246,11 @@
       "Time": "2023-10-13T04:05:58.3740209+00:00",
       "NumProgressed": 935288,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-10-13T05:06:16.9149556+00:00",
+      "NumProgressed": 935338,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 229,
@@ -31257,7 +31262,7 @@
       "Name": "The Grand Sacrifice",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 7482
+      "UsersEstimate": 7483
     },
     {
       "ID": "ACH_002",
@@ -31401,7 +31406,7 @@
       "Name": "Nerves of steel",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 7482
+      "UsersEstimate": 7483
     },
     {
       "ID": "ACH_020",
@@ -31409,7 +31414,7 @@
       "Name": "Perfect Escape",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 7482
+      "UsersEstimate": 7483
     },
     {
       "ID": "ACH_021",
@@ -31433,7 +31438,7 @@
       "Name": "It wakes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 18706
+      "UsersEstimate": 18707
     },
     {
       "ID": "ACH_024",
@@ -31449,7 +31454,7 @@
       "Name": "Bloody Millionaire",
       "Percentage": 0.8,
       "XP": 35,
-      "UsersEstimate": 7482
+      "UsersEstimate": 7483
     },
     {
       "ID": "ACH_026",
@@ -31497,7 +31502,7 @@
       "Name": "Vulture",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 4676
+      "UsersEstimate": 4677
     },
     {
       "ID": "ACH_032",
@@ -31569,7 +31574,7 @@
       "Name": "I",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 7482
+      "UsersEstimate": 7483
     },
     {
       "ID": "ACH_041",
@@ -31585,7 +31590,7 @@
       "Name": "III",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 4676
+      "UsersEstimate": 4677
     },
     {
       "ID": "ACH_043",
@@ -31719,9 +31724,9 @@
       "ID": "ACH_059",
       "SetID": "16jml5b",
       "Name": "Engineer",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 6547
+      "UsersEstimate": 7483
     },
     {
       "ID": "ACH_060",
@@ -32255,9 +32260,9 @@
       "ID": "ACH_129",
       "SetID": "16jml5b",
       "Name": "First to the Punch",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3741
+      "UsersEstimate": 4677
     },
     {
       "ID": "ACH_130",
@@ -32593,7 +32598,7 @@
       "Name": "Preemptive Strike",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 7482
+      "UsersEstimate": 7483
     },
     {
       "ID": "ACH_172",
@@ -32665,7 +32670,7 @@
       "Name": "Humanitarian",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 7482
+      "UsersEstimate": 7483
     },
     {
       "ID": "ACH_181",
@@ -32705,7 +32710,7 @@
       "Name": "With Scars to Show",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4676
+      "UsersEstimate": 4677
     },
     {
       "ID": "ACH_186",
@@ -33017,7 +33022,7 @@
       "Name": "Second Act",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4676
+      "UsersEstimate": 4677
     },
     {
       "ID": "ACH_225",
@@ -33088,21 +33093,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 935288,
+      "Progressed": 935338,
       "Completed": 52
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 935288,
+      "Progressed": 935338,
       "Completed": 50
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-10-13T03:57:26.6518476+00:00",
-  "LastChanged_Achievements": "2023-10-13T04:05:58.3740202+00:00",
+  "LastChanged_Achievements": "2023-10-13T05:06:16.9149552+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:11.5924675+00:00",
-  "LastUpdate_Ratings": "2023-10-13T03:57:26.6518484+00:00",
-  "LastUpdate_Achievements": "2023-10-13T04:05:58.374922+00:00"
+  "LastUpdate_Ratings": "2023-10-13T04:57:28.4361942+00:00",
+  "LastUpdate_Achievements": "2023-10-13T05:06:16.9157561+00:00"
 }

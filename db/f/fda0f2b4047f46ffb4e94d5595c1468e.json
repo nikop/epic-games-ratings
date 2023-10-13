@@ -1166,7 +1166,7 @@
   ],
   "EOS_Progressed": 7478,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 530,
+  "EOS_NewPlayers": 529,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4168,9 +4168,9 @@
       "ID": "ach19",
       "SetID": "47in8n6",
       "Name": "King Slayer",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 150
+      "UsersEstimate": 224
     },
     {
       "ID": "ach20",
@@ -4433,8 +4433,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-10-13T03:58:10.8685542+00:00",
-  "LastChanged_Achievements": "2023-10-13T04:06:39.4534465+00:00",
+  "LastChanged_Achievements": "2023-10-13T05:06:59.1497947+00:00",
   "LastUpdate_AppInfo": "2023-10-07T06:57:30.1408327+00:00",
-  "LastUpdate_Ratings": "2023-10-13T03:58:10.8685548+00:00",
-  "LastUpdate_Achievements": "2023-10-13T04:06:39.45352+00:00"
+  "LastUpdate_Ratings": "2023-10-13T04:58:17.5433199+00:00",
+  "LastUpdate_Achievements": "2023-10-13T05:06:59.1498736+00:00"
 }

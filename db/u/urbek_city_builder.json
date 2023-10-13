@@ -2,9 +2,9 @@
   "ID": "5d2e14c5f6ac427b8a8466508cf81f6d",
   "Name": "Urbek City Builder",
   "ProductSlug": "urbek-city-builder-17cf7d",
-  "Ranking_EOS_Progress": 298,
+  "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewPlayers": 332,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 363,
+  "EOS_Progressed": 364,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1157,6 +1157,11 @@
       "Time": "2023-10-07T08:08:37.4166053+00:00",
       "NumProgressed": 363,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-13T05:04:50.6166033+00:00",
+      "NumProgressed": 364,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -1254,7 +1259,7 @@
       "ID": "COMIDA_1",
       "SetID": "44dlcg0",
       "Name": "Food producer",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -1446,7 +1451,7 @@
       "ID": "FELIZ_2",
       "SetID": "44dlcg0",
       "Name": "I am very happy!",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -1799,7 +1804,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 363,
+      "Progressed": 364,
       "Completed": 0
     }
   ],
@@ -1807,8 +1812,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-10-13T04:04:39.3662525+00:00",
+  "LastChanged_Achievements": "2023-10-13T05:04:50.6166029+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:04.4636239+00:00",
-  "LastUpdate_Ratings": "2023-10-13T04:00:14.5779679+00:00",
-  "LastUpdate_Achievements": "2023-10-13T04:04:39.366351+00:00"
+  "LastUpdate_Ratings": "2023-10-13T05:00:23.3986384+00:00",
+  "LastUpdate_Achievements": "2023-10-13T05:04:50.6167427+00:00"
 }

@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18355,
+  "EOS_Progressed": 18358,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -11451,6 +11451,11 @@
       "Time": "2023-10-13T00:07:40.3964551+00:00",
       "NumProgressed": 18355,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-13T05:06:36.2755829+00:00",
+      "NumProgressed": 18358,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -11462,7 +11467,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5323
+      "UsersEstimate": 5324
     },
     {
       "ID": "0002",
@@ -11478,7 +11483,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3120
+      "UsersEstimate": 3121
     },
     {
       "ID": "0004",
@@ -11526,7 +11531,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4038
+      "UsersEstimate": 4039
     },
     {
       "ID": "0010",
@@ -11654,7 +11659,7 @@
       "Name": "Tailor-Made",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3120
+      "UsersEstimate": 3121
     },
     {
       "ID": "0026",
@@ -11686,7 +11691,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2386
+      "UsersEstimate": 2387
     },
     {
       "ID": "0030",
@@ -11749,7 +11754,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18355,
+      "Progressed": 18358,
       "Completed": 4
     }
   ],
@@ -11757,8 +11762,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-10-13T04:06:17.3757944+00:00",
+  "LastChanged_Achievements": "2023-10-13T05:06:36.275582+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:09.6905795+00:00",
-  "LastUpdate_Ratings": "2023-10-13T03:57:51.8781422+00:00",
-  "LastUpdate_Achievements": "2023-10-13T04:06:17.3758902+00:00"
+  "LastUpdate_Ratings": "2023-10-13T04:57:57.5326325+00:00",
+  "LastUpdate_Achievements": "2023-10-13T05:06:36.2757006+00:00"
 }

@@ -118,7 +118,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6542,
+  "EOS_Progressed": 6543,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 456,
   "EOS_NewCompleters": 0,
@@ -4093,6 +4093,11 @@
       "Time": "2023-10-13T04:03:36.5099024+00:00",
       "NumProgressed": 6542,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-13T05:03:46.720336+00:00",
+      "NumProgressed": 6543,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -4113,7 +4118,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 4579
+      "UsersEstimate": 4580
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -4129,7 +4134,7 @@
       "Name": "Open the Gate!",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2093
+      "UsersEstimate": 2094
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -4209,7 +4214,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 3140
+      "UsersEstimate": 3141
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -4217,7 +4222,7 @@
       "Name": "Beach Comber",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "COMPLETE_ALLJOBQUESTS",
@@ -4241,7 +4246,7 @@
       "Name": "Humble Collector",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 2682
+      "UsersEstimate": 2683
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -4257,7 +4262,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 3925
+      "UsersEstimate": 3926
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -4279,9 +4284,9 @@
       "ID": "DISPATCH_THORNS",
       "SetID": "9eia0f5",
       "Name": "Bramble Breaker",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 3009
+      "UsersEstimate": 2944
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -4384,7 +4389,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 6542,
+      "Progressed": 6543,
       "Completed": 0
     }
   ],
@@ -4392,8 +4397,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-12T12:03:13.8462755+00:00",
-  "LastChanged_Achievements": "2023-10-13T04:03:36.5099018+00:00",
+  "LastChanged_Achievements": "2023-10-13T05:03:46.7203355+00:00",
   "LastUpdate_AppInfo": "2023-10-06T05:57:20.0812213+00:00",
-  "LastUpdate_Ratings": "2023-10-13T03:57:13.2487359+00:00",
-  "LastUpdate_Achievements": "2023-10-13T04:03:36.5099613+00:00"
+  "LastUpdate_Ratings": "2023-10-13T04:57:15.7716409+00:00",
+  "LastUpdate_Achievements": "2023-10-13T05:03:46.7203983+00:00"
 }

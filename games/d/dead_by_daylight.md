@@ -6,7 +6,7 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 2.00% | ~18,706 |
+| It wakes | 2.00% | ~18,707 |
 | Handyman | 1.00% | ~9,353 |
 | Zealous | 1.00% | ~9,353 |
 | Not half bad | 1.00% | ~9,353 |
@@ -19,27 +19,28 @@ Number of Ratings: 70,340  (23.09.2022)
 | Medic | 0.90% | ~8,418 |
 | Healthy Obsession | 0.90% | ~8,418 |
 | Resurgence | 0.90% | ~8,418 |
-| The Grand Sacrifice | 0.80% | ~7,482 |
-| Nerves of steel | 0.80% | ~7,482 |
-| Perfect Escape | 0.80% | ~7,482 |
-| Bloody Millionaire | 0.80% | ~7,482 |
-| I | 0.80% | ~7,482 |
-| Preemptive Strike | 0.80% | ~7,482 |
-| Humanitarian | 0.80% | ~7,482 |
+| The Grand Sacrifice | 0.80% | ~7,483 |
+| Nerves of steel | 0.80% | ~7,483 |
+| Perfect Escape | 0.80% | ~7,483 |
+| Bloody Millionaire | 0.80% | ~7,483 |
+| I | 0.80% | ~7,483 |
+| Engineer | 0.80% | ~7,483 |
+| Preemptive Strike | 0.80% | ~7,483 |
+| Humanitarian | 0.80% | ~7,483 |
 | Agonizing Escape | 0.70% | ~6,547 |
 | Backdoor Escape | 0.70% | ~6,547 |
 | I've got your back | 0.70% | ~6,547 |
 | Perfect Killing | 0.70% | ~6,547 |
-| Engineer | 0.70% | ~6,547 |
 | Close Shave | 0.70% | ~6,547 |
 | Apt Killer | 0.60% | ~5,612 |
 | Risk it all | 0.60% | ~5,612 |
 | II | 0.60% | ~5,612 |
 | Wounded Healer | 0.60% | ~5,612 |
-| Vulture | 0.50% | ~4,676 |
-| III | 0.50% | ~4,676 |
-| With Scars to Show | 0.50% | ~4,676 |
-| Second Act | 0.50% | ~4,676 |
+| Vulture | 0.50% | ~4,677 |
+| III | 0.50% | ~4,677 |
+| First to the Punch | 0.50% | ~4,677 |
+| With Scars to Show | 0.50% | ~4,677 |
+| Second Act | 0.50% | ~4,677 |
 | Blood on your hands | 0.40% | ~3,741 |
 | Escape Artist | 0.40% | ~3,741 |
 | Made it out alive! | 0.40% | ~3,741 |
@@ -52,7 +53,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Cherish your Life | 0.40% | ~3,741 |
 | Unforgettable Getaway | 0.40% | ~3,741 |
 | Cutting Out | 0.40% | ~3,741 |
-| First to the Punch | 0.40% | ~3,741 |
 | Operation: Survival | 0.40% | ~3,741 |
 | Old West Oasis | 0.40% | ~3,741 |
 | Classy Act | 0.40% | ~3,741 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~935 |
 | Adept Ripley | 0.10% | ~935 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 935,288 (Ranked 14)  
+Progressed: 935,338 (Ranked 14)  
 Completed: 50 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -412,7 +412,7 @@ Completed: 50 (0.01%) (Ranked 296)
 | 2023-10-10 | 931,511 | 49 |
 | 2023-10-11 | 933,163 | 49 |
 | 2023-10-12 | 934,954 | 50 |
-| 2023-10-13 | 935,288 | 50 |
+| 2023-10-13 | 935,338 | 50 |
 ## Awards
 Max (Diverse Characters): 33,824  (Ranked 15)  
 Sum: 261,717 (Ranked 13)  

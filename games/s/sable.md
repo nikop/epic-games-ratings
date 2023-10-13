@@ -6,12 +6,12 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~31,895 |
-| Just The Two of Us | 32.00% | ~30,019 |
-| Up On High | 25.00% | ~23,452 |
-| Under The Hood | 25.00% | ~23,452 |
-| Got Your Nose | 24.00% | ~22,514 |
-| The Gift of Gab | 24.00% | ~22,514 |
+| Simoon | 34.00% | ~31,896 |
+| Just The Two of Us | 32.00% | ~30,020 |
+| Up On High | 25.00% | ~23,453 |
+| Under The Hood | 25.00% | ~23,453 |
+| Got Your Nose | 24.00% | ~22,515 |
+| The Gift of Gab | 24.00% | ~22,515 |
 | Wrapping Up | 22.00% | ~20,638 |
 | More Than A Box Of Sand | 18.00% | ~16,886 |
 | The Dunboyne | 17.00% | ~15,948 |
@@ -21,7 +21,7 @@ Number of Ratings: 43  (23.09.2022)
 | Sticky Paws | 16.00% | ~15,010 |
 | Bubble Up | 16.00% | ~15,010 |
 | Thread The Needle | 15.00% | ~14,072 |
-| Power to the People | 14.00% | ~13,133 |
+| Power to the People | 14.00% | ~13,134 |
 | Take That! | 13.00% | ~12,195 |
 | Nesting Giant | 13.00% | ~12,195 |
 | Treasure Tracker | 13.00% | ~12,195 |
@@ -54,8 +54,8 @@ Number of Ratings: 43  (23.09.2022)
 | The Merchant Mask | 6.00% | ~5,629 |
 | Honorary Chum | 6.00% | ~5,629 |
 | Bikes Don't Fly | 6.00% | ~5,629 |
-| The Gliding | 5.00% | ~4,690 |
-| The Entertainer Mask | 5.00% | ~4,690 |
+| The Gliding | 5.00% | ~4,691 |
+| The Entertainer Mask | 5.00% | ~4,691 |
 | The Quick and the Curious | 4.00% | ~3,752 |
 | Bike Aficionado | 4.00% | ~3,752 |
 | Chum Expert | 3.00% | ~2,814 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~2,814 |
 | Vivacious Vivarium | 2.00% | ~1,876 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 93,810 (Ranked 80)  
+Progressed: 93,811 (Ranked 80)  
 Completed: 943 (1.01%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 943 (1.01%) (Ranked 145)
 | 2023-10-10 | 93,517 | 939 |
 | 2023-10-11 | 93,639 | 941 |
 | 2023-10-12 | 93,785 | 943 |
-| 2023-10-13 | 93,810 | 943 |
+| 2023-10-13 | 93,811 | 943 |
 ## Awards
 Max (Quickly Understood Controls): 24  (Ranked 505)  
 Sum: 88 (Ranked 437)  

@@ -13407,10 +13407,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 295785,
       "NumberOfAwardsMax": 96724
+    },
+    {
+      "Time": "2023-10-13T04:59:14.4026763+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 295788,
+      "NumberOfAwardsMax": 96724
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 295785,
+  "NumberOfAwards": 295788,
   "NumberOfAwardsMax": 96724,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -13460,7 +13466,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 16145
+      "Count": 16148
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -13487,10 +13493,10 @@
       "Count": 9805
     }
   ],
-  "EOS_Progressed": 891279,
+  "EOS_Progressed": 891281,
   "EOS_Completed": 2649,
-  "EOS_NewPlayers": 2115,
-  "EOS_NewCompleters": 55,
+  "EOS_NewPlayers": 2106,
+  "EOS_NewCompleters": 54,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -33327,6 +33333,11 @@
       "Time": "2023-10-13T04:05:39.717643+00:00",
       "NumProgressed": 891279,
       "NumCompleted": 2649
+    },
+    {
+      "Time": "2023-10-13T05:05:52.2316956+00:00",
+      "NumProgressed": 891281,
+      "NumCompleted": 2649
     }
   ],
   "TotalAchievements": 57,
@@ -33354,7 +33365,7 @@
       "Name": "Bushido and Chill",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 160430
+      "UsersEstimate": 160431
     },
     {
       "ID": "Cyberjunkie",
@@ -33370,7 +33381,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 392163
+      "UsersEstimate": 392164
     },
     {
       "ID": "FollowingTheRiver",
@@ -33410,7 +33421,7 @@
       "Name": "Gun Fu",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 160430
+      "UsersEstimate": 160431
     },
     {
       "ID": "Gunslinger",
@@ -33466,7 +33477,7 @@
       "Name": "The Quick and the Dead",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 115866
+      "UsersEstimate": 115867
     },
     {
       "ID": "MustBeTheRats",
@@ -33482,7 +33493,7 @@
       "Name": "Breathtaking",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 115866
+      "UsersEstimate": 115867
     },
     {
       "ID": "NoMansLand",
@@ -33506,7 +33517,7 @@
       "Name": "Life of the Road",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 204994
+      "UsersEstimate": 204995
     },
     {
       "ID": "Roleplayer",
@@ -33514,7 +33525,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 294122
+      "UsersEstimate": 294123
     },
     {
       "ID": "Specialist",
@@ -33538,7 +33549,7 @@
       "Name": "Rough Landing",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 115866
+      "UsersEstimate": 115867
     },
     {
       "ID": "TheDevil",
@@ -33554,7 +33565,7 @@
       "Name": "The Fool",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 632808
+      "UsersEstimate": 632810
     },
     {
       "ID": "TheHermit",
@@ -33578,7 +33589,7 @@
       "Name": "The Lovers",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 347599
+      "UsersEstimate": 347600
     },
     {
       "ID": "TheStar",
@@ -33602,7 +33613,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 285209
+      "UsersEstimate": 285210
     },
     {
       "ID": "TheWorld",
@@ -33793,21 +33804,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 891279,
+      "Progressed": 891281,
       "Completed": 2649
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 19902,
+      "Progressed": 19904,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-10-13T03:59:08.5068705+00:00",
-  "LastChanged_Achievements": "2023-10-13T04:05:39.7176425+00:00",
+  "LastChanged": "2023-10-13T04:59:14.4026761+00:00",
+  "LastChanged_Achievements": "2023-10-13T05:05:52.2316947+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:05.2273904+00:00",
-  "LastUpdate_Ratings": "2023-10-13T03:59:08.5068713+00:00",
-  "LastUpdate_Achievements": "2023-10-13T04:05:39.7178589+00:00"
+  "LastUpdate_Ratings": "2023-10-13T04:59:14.4026768+00:00",
+  "LastUpdate_Achievements": "2023-10-13T05:05:52.2319323+00:00"
 }

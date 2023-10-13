@@ -4,7 +4,7 @@
   "ProductSlug": "gas-station-simulator-ee93c7",
   "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -462,9 +462,9 @@
       "ID": "ACH_CAR_WASH_03",
       "SetID": "5fn8ia4",
       "Name": "Car Wash Lvl. 3",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_CAR_WASH_04",
@@ -534,9 +534,9 @@
       "ID": "GSS_ACH_02_SHOP_02",
       "SetID": "5fn8ia4",
       "Name": "It\u0027s just getting started",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "GSS_ACH_03_TIP_01",
@@ -806,9 +806,9 @@
       "ID": "GSS_ACH_37_BROOM_03",
       "SetID": "5fn8ia4",
       "Name": "Dirt Stains? Not here!",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "GSS_ACH_38_GARAGE_01",
@@ -822,9 +822,9 @@
       "ID": "GSS_ACH_39_GARAGE_02",
       "SetID": "5fn8ia4",
       "Name": "Machine Head",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "GSS_ACH_40_GARAGE_03",
@@ -950,9 +950,9 @@
       "ID": "GSS_ACH_55_UPGRADE_WORKSHOP_05",
       "SetID": "5fn8ia4",
       "Name": "Workshop Lvl. 5",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "GSS_ACH_56_UPGRADE_WAREHOUSE_01",
@@ -1022,9 +1022,9 @@
       "ID": "GSS_ACH_64_POPULARITY_04",
       "SetID": "5fn8ia4",
       "Name": "Local Celebrity",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "GSS_ACH_65_POPULARITY_05",
@@ -1181,8 +1181,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-13T04:06:49.775943+00:00",
+  "LastChanged_Achievements": "2023-10-13T05:07:09.7992243+00:00",
   "LastUpdate_AppInfo": "2023-10-09T13:09:09.0618232+00:00",
-  "LastUpdate_Ratings": "2023-10-13T03:58:52.3942841+00:00",
-  "LastUpdate_Achievements": "2023-10-13T04:06:49.7760619+00:00"
+  "LastUpdate_Ratings": "2023-10-13T04:58:59.6680263+00:00",
+  "LastUpdate_Achievements": "2023-10-13T05:07:09.79934+00:00"
 }

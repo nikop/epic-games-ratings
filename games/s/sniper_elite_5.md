@@ -5,16 +5,16 @@ Rating: 4.45 (Ranked 643)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 46.00% | ~1,714 |
+| Meeting Resistance | 46.00% | ~1,715 |
 | Confirming Suspicions | 41.00% | ~1,528 |
 | The Kraken Wakes | 37.00% | ~1,379 |
-| It's Starting to Crack | 34.00% | ~1,267 |
-| Change the Channel | 31.00% | ~1,155 |
+| It's Starting to Crack | 34.00% | ~1,268 |
+| Change the Channel | 31.00% | ~1,156 |
 | Lord of War | 30.00% | ~1,118 |
 | Taking it back | 28.00% | ~1,044 |
-| Resourceful | 27.00% | ~1,006 |
+| Resourceful | 27.00% | ~1,007 |
 | Target America | 26.00% | ~969 |
-| The Kraken Sleeps | 24.00% | ~894 |
+| The Kraken Sleeps | 24.00% | ~895 |
 | Organ Grinder | 23.00% | ~857 |
 | As Quiet as a Mouse | 23.00% | ~857 |
 | Liberté | 22.00% | ~820 |
@@ -35,13 +35,13 @@ Rating: 4.45 (Ranked 643)
 | Die Nussknacker Sweet! | 14.00% | ~522 |
 | Set Europe Ablaze | 13.00% | ~485 |
 | My Little Friend | 10.00% | ~373 |
-| Precision Is Key | 9.00% | ~335 |
-| Rigged to Blow | 9.00% | ~335 |
+| Precision Is Key | 9.00% | ~336 |
+| Rigged to Blow | 9.00% | ~336 |
 | Herr Today, Gone Tomorrow | 6.00% | ~221 |
-| Operation Foxley | 6.00% | ~221 |
 | The Long Game | 5.00% | ~186 |
 | It'll Buff Right Out | 5.00% | ~186 |
 | Don't hold your breath | 5.00% | ~186 |
+| Operation Foxley | 5.00% | ~184 |
 | Strategist | 4.00% | ~149 |
 | Tinkerer | 4.00% | ~149 |
 | Locomotion Commotion | 4.00% | ~149 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 643)
 | Going Overboard | 0.60% | ~22 |
 | Stroll in the Woods | 0.50% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,727 (Ranked 179)  
+Progressed: 3,728 (Ranked 179)  
 Completed: 11 (0.30%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,6 +251,7 @@ Completed: 11 (0.30%) (Ranked 206)
 | 2023-10-10 | 3,723 | 11 |
 | 2023-10-11 | 3,726 | 11 |
 | 2023-10-12 | 3,727 | 11 |
+| 2023-10-13 | 3,728 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
