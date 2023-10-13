@@ -6,9 +6,9 @@
   "Ranking_Popularity": 526,
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 179,
-  "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_Completed": 209,
+  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -544,11 +544,11 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3728,
+  "EOS_Progressed": 3729,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.3,
+  "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:23.1376838+00:00",
@@ -7204,6 +7204,11 @@
       "Time": "2023-10-13T05:06:29.8947632+00:00",
       "NumProgressed": 3728,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-13T12:07:29.1390368+00:00",
+      "NumProgressed": 3729,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7215,7 +7220,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -7279,7 +7284,7 @@
       "Name": "Organ Grinder",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 857
+      "UsersEstimate": 858
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -7383,7 +7388,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1528
+      "UsersEstimate": 1529
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -7415,7 +7420,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 708
+      "UsersEstimate": 709
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -7423,7 +7428,7 @@
       "Name": "Lord of War",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1118
+      "UsersEstimate": 1119
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -7447,7 +7452,7 @@
       "Name": "Der Geist",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -7455,7 +7460,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 857
+      "UsersEstimate": 858
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -7463,7 +7468,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1379
+      "UsersEstimate": 1380
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -7471,7 +7476,7 @@
       "Name": "Close Quarters",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -7607,7 +7612,7 @@
       "Name": "Target America",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 969
+      "UsersEstimate": 970
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -7782,13 +7787,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3679,
+      "Progressed": 3680,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3728,
+      "Progressed": 3729,
       "Completed": 11
     }
   ],
@@ -7796,8 +7801,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-10-13T09:59:46.3659401+00:00",
-  "LastChanged_Achievements": "2023-10-13T11:07:30.6580247+00:00",
+  "LastChanged_Achievements": "2023-10-13T12:07:29.1390364+00:00",
   "LastUpdate_AppInfo": "2023-10-07T09:57:23.5324772+00:00",
-  "LastUpdate_Ratings": "2023-10-13T10:59:42.3904979+00:00",
-  "LastUpdate_Achievements": "2023-10-13T11:07:30.6581127+00:00"
+  "LastUpdate_Ratings": "2023-10-13T11:59:34.1220877+00:00",
+  "LastUpdate_Achievements": "2023-10-13T12:07:29.1391263+00:00"
 }

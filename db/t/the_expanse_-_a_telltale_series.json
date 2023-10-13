@@ -6,9 +6,9 @@
   "Ranking_Popularity": 535,
   "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 135,
-  "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 23,
+  "Ranking_EOS_Completed": 234,
+  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -166,11 +166,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13906,
-  "EOS_Completed": 20,
-  "EOS_NewPlayers": 285,
-  "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 0.14,
+  "EOS_Progressed": 13909,
+  "EOS_Completed": 21,
+  "EOS_NewPlayers": 287,
+  "EOS_NewCompleters": 9,
+  "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
     {
       "Time": "2023-07-26T16:06:14.482825+00:00",
@@ -8506,6 +8506,11 @@
       "Time": "2023-10-13T10:05:25.9602071+00:00",
       "NumProgressed": 13906,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-10-13T12:05:29.0640093+00:00",
+      "NumProgressed": 13909,
+      "NumCompleted": 21
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -8757,16 +8762,16 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13906,
-      "Completed": 20
+      "Progressed": 13909,
+      "Completed": 21
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-13T09:00:57.1370573+00:00",
-  "LastChanged_Achievements": "2023-10-13T11:05:09.7656531+00:00",
+  "LastChanged_Achievements": "2023-10-13T12:05:29.0640089+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:56.4622667+00:00",
-  "LastUpdate_Ratings": "2023-10-13T11:00:36.3687139+00:00",
-  "LastUpdate_Achievements": "2023-10-13T11:05:09.7657391+00:00"
+  "LastUpdate_Ratings": "2023-10-13T12:00:21.5064583+00:00",
+  "LastUpdate_Achievements": "2023-10-13T12:05:29.0640651+00:00"
 }

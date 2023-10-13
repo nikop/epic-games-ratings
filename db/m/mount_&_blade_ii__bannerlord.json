@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -7923,9 +7923,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 63177,
+  "EOS_Progressed": 63179,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 395,
+  "EOS_NewPlayers": 392,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26603,6 +26603,11 @@
       "Time": "2023-10-13T11:03:39.3574369+00:00",
       "NumProgressed": 63177,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-13T12:04:06.6678877+00:00",
+      "NumProgressed": 63179,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -26782,7 +26787,7 @@
       "Name": "I can do it",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10108
+      "UsersEstimate": 10109
     },
     {
       "ID": "I spit on your grave",
@@ -26822,7 +26827,7 @@
       "Name": "Know your enemy",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 4422
+      "UsersEstimate": 4423
     },
     {
       "ID": "Lance-a-lot",
@@ -26838,7 +26843,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 20848
+      "UsersEstimate": 20849
     },
     {
       "ID": "Lawbringer",
@@ -26846,7 +26851,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 24639
+      "UsersEstimate": 24640
     },
     {
       "ID": "Lawmaker",
@@ -26870,7 +26875,7 @@
       "Name": "Mastery",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 4422
+      "UsersEstimate": 4423
     },
     {
       "ID": "Minor Clan",
@@ -27021,15 +27026,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 63177,
+      "Progressed": 63179,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-13T10:01:09.1264967+00:00",
-  "LastChanged_Achievements": "2023-10-13T11:03:39.3574364+00:00",
+  "LastChanged_Achievements": "2023-10-13T12:04:06.6678872+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:27.1626185+00:00",
-  "LastUpdate_Ratings": "2023-10-13T11:01:12.2185588+00:00",
-  "LastUpdate_Achievements": "2023-10-13T11:03:39.3575581+00:00"
+  "LastUpdate_Ratings": "2023-10-13T12:00:53.4359094+00:00",
+  "LastUpdate_Achievements": "2023-10-13T12:04:06.6680053+00:00"
 }

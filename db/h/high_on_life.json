@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -286,9 +286,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24202,
+  "EOS_Progressed": 24203,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5511,6 +5511,11 @@
       "Time": "2023-10-13T11:04:59.3214618+00:00",
       "NumProgressed": 24202,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-10-13T12:05:19.6802827+00:00",
+      "NumProgressed": 24203,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 44,
@@ -5576,9 +5581,9 @@
       "ID": "ACH_GET_JETPACK",
       "SetID": "cdkbb11",
       "Name": "Are You Packin\u0027?",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 169
+      "UsersEstimate": 194
     },
     {
       "ID": "ACH_GET_KNIFEY",
@@ -5744,9 +5749,9 @@
       "ID": "ACH_NIPULON_JOKE",
       "SetID": "cdkbb11",
       "Name": "Spent 15 Hours At The Alien Strip Club",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH_NOT_KENNY",
@@ -5873,13 +5878,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24202,
+      "Progressed": 24203,
       "Completed": 13
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1495,
+      "Progressed": 1496,
       "Completed": 1373
     }
   ],
@@ -5887,8 +5892,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-07T05:03:09.4311759+00:00",
-  "LastChanged_Achievements": "2023-10-13T11:04:59.3214613+00:00",
+  "LastChanged_Achievements": "2023-10-13T12:05:19.6802823+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:51.1168375+00:00",
-  "LastUpdate_Ratings": "2023-10-13T11:00:31.1347293+00:00",
-  "LastUpdate_Achievements": "2023-10-13T11:04:59.3215165+00:00"
+  "LastUpdate_Ratings": "2023-10-13T12:00:15.3570333+00:00",
+  "LastUpdate_Achievements": "2023-10-13T12:05:19.6803343+00:00"
 }

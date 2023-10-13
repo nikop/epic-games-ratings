@@ -4,8 +4,8 @@
   "ProductSlug": "the-crackpet-show-0bf5c4",
   "Ranking_EOS_Progress": 504,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 284,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-09-27T15:00:00+00:00",
     "PcReleaseDate": "2023-09-27T15:00:00+00:00",
@@ -274,9 +274,9 @@
       "ID": "FLAWLESS_BOSS_KILL",
       "SetID": "dcng643",
       "Name": "Flawless",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "GET_HIT_N_TIMES",
@@ -769,8 +769,8 @@
   ],
   "FirstSeen": "2023-09-28T16:00:28.1613796+00:00",
   "FirstSeenAchievements": "2023-09-19T08:09:12.2865196+00:00",
-  "LastChanged_Achievements": "2023-10-13T11:05:33.3629388+00:00",
+  "LastChanged_Achievements": "2023-10-13T12:05:50.7612069+00:00",
   "LastUpdate_AppInfo": "2023-10-12T19:57:11.6358663+00:00",
-  "LastUpdate_Ratings": "2023-10-13T10:59:18.9067175+00:00",
-  "LastUpdate_Achievements": "2023-10-13T11:05:33.363014+00:00"
+  "LastUpdate_Ratings": "2023-10-13T11:59:13.0478579+00:00",
+  "LastUpdate_Achievements": "2023-10-13T12:05:50.7612825+00:00"
 }

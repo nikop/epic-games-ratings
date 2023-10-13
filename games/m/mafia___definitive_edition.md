@@ -1,15 +1,15 @@
 # Mafia: Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/mafia-definitive-edition)  
 [View Rawdata](../../db/m/mafia___definitive_edition.json)  
-Rating: 4.63 (Ranked 336)  
+Rating: 4.63 (Ranked 337)  
 Number of Ratings: 2,035  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 612  (Ranked 189)  
-Sum: 736 (Ranked 277)  
-Diff (max vs sum): -88  
+Max (Great Boss Battles): 614  (Ranked 189)  
+Sum: 738 (Ranked 275)  
+Diff (max vs sum): -86  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 612 |
+| This game has Great Boss Battles | 614 |
 | This game is Highly Recommended | 34 |
 | This game is Extremely Fun | 25 |
 | This game has Diverse Characters | 24 |
@@ -138,3 +138,4 @@ Diff (max vs sum): -88
 | 2023-09-22 | 4.63 | - | 612 | 734 |
 | 2023-09-30 | 4.63 | - | 612 | 735 |
 | 2023-10-08 | 4.63 | - | 612 | 736 |
+| 2023-10-13 | 4.63 | - | 614 | 738 |

@@ -86,15 +86,15 @@
 | Tunnel Rat | 22.00% | ~147 |
 | Arbiter | 22.00% | ~147 |
 | Savior | 21.00% | ~140 |
+| Party Crasher | 21.00% | ~140 |
 | Lost and Found | 21.00% | ~140 |
 | No One Left Behind | 20.00% | ~134 |
-| Party Crasher | 20.00% | ~134 |
 | Problem Solver | 20.00% | ~134 |
+| Pyromaniac | 19.00% | ~127 |
 | Under Pressure | 19.00% | ~127 |
 | Hard Target | 19.00% | ~127 |
 | Saboteur | 19.00% | ~127 |
 | Fact Finder | 19.00% | ~127 |
-| Pyromaniac | 18.00% | ~120 |
 | Last Resort | 18.00% | ~120 |
 | Electronics Specialist | 18.00% | ~120 |
 | Sabotage Specialist | 18.00% | ~120 |

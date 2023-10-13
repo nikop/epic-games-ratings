@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -2305,9 +2305,9 @@
       "ID": "AC33",
       "SetID": "l4abp0",
       "Name": "Ultima Ratio",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 549
+      "UsersEstimate": 558
     },
     {
       "ID": "AC34",
@@ -2418,8 +2418,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-10-10T02:57:43.7078143+00:00",
-  "LastChanged_Achievements": "2023-10-13T11:04:49.0572227+00:00",
+  "LastChanged_Achievements": "2023-10-13T12:05:10.3506807+00:00",
   "LastUpdate_AppInfo": "2023-10-10T20:57:16.6962643+00:00",
-  "LastUpdate_Ratings": "2023-10-13T10:59:25.9254317+00:00",
-  "LastUpdate_Achievements": "2023-10-13T11:04:49.057262+00:00"
+  "LastUpdate_Ratings": "2023-10-13T11:59:20.4883973+00:00",
+  "LastUpdate_Achievements": "2023-10-13T12:05:10.3507202+00:00"
 }

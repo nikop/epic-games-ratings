@@ -4,8 +4,8 @@
   "ProductSlug": "probo-rush-b3ee54",
   "Ranking_EOS_Progress": 615,
   "Ranking_EOS_Completed": 1,
-  "Ranking_EOS_NewPlayers": 392,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 391,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-07-25T17:00:00+00:00",
     "PcReleaseDate": "2023-07-25T17:00:00+00:00",
@@ -71,9 +71,9 @@
       "ID": "BOSS_12",
       "SetID": "9h4jac1",
       "Name": "BOSS 12",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 80,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BOSS_13",
@@ -187,8 +187,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-12T15:07:13.1424827+00:00",
-  "LastChanged_Achievements": "2023-10-13T11:04:14.5740551+00:00",
+  "LastChanged_Achievements": "2023-10-13T12:04:38.866573+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:16.1343194+00:00",
-  "LastUpdate_Ratings": "2023-10-13T11:01:28.1921373+00:00",
-  "LastUpdate_Achievements": "2023-10-13T11:04:14.5740646+00:00"
+  "LastUpdate_Ratings": "2023-10-13T12:01:08.2460639+00:00",
+  "LastUpdate_Achievements": "2023-10-13T12:04:38.8665833+00:00"
 }

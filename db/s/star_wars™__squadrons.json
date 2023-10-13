@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 36,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2020-10-02T04:00:00+00:00",
     "PcReleaseDate": "2020-10-02T04:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9839,
+  "EOS_Progressed": 9855,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2655,
+  "EOS_NewPlayers": 2665,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -2721,6 +2721,11 @@
       "Time": "2023-10-13T11:09:05.9601083+00:00",
       "NumProgressed": 9839,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-13T12:09:27.5138702+00:00",
+      "NumProgressed": 9855,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -2733,7 +2738,7 @@
       "Name": "The Galaxy\u0027s Finest (Story Mode)",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 1476
+      "UsersEstimate": 1478
     },
     {
       "ID": "achievement_10",
@@ -2781,7 +2786,7 @@
       "Name": "Begin the Ceremony",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 1968
+      "UsersEstimate": 1971
     },
     {
       "ID": "achievement_16",
@@ -2797,7 +2802,7 @@
       "Name": "I Have You Now",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "achievement_18",
@@ -2813,7 +2818,7 @@
       "Name": "Stronger Together",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "achievement_2",
@@ -2821,7 +2826,7 @@
       "Name": "The Galaxy\u0027s Finest (Pilot)",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "achievement_20",
@@ -2837,7 +2842,7 @@
       "Name": "Sound Strategy",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "achievement_22",
@@ -2845,7 +2850,7 @@
       "Name": "Fearless",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "achievement_23",
@@ -2877,7 +2882,7 @@
       "Name": "Squadron Hunter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "achievement_27",
@@ -2885,7 +2890,7 @@
       "Name": "Unkillable",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "achievement_28",
@@ -2941,7 +2946,7 @@
       "Name": "Mission Accomplished",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 1968
+      "UsersEstimate": 1971
     },
     {
       "ID": "achievement_34",
@@ -2957,7 +2962,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 9347
+      "UsersEstimate": 9362
     },
     {
       "ID": "achievement_36",
@@ -2965,7 +2970,7 @@
       "Name": "Together, Vanguard",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "achievement_37",
@@ -2973,7 +2978,7 @@
       "Name": "Asset Secured",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1279
+      "UsersEstimate": 1281
     },
     {
       "ID": "achievement_38",
@@ -2989,7 +2994,7 @@
       "Name": "Safety in the Storm",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 2361
+      "UsersEstimate": 2365
     },
     {
       "ID": "achievement_4",
@@ -3005,7 +3010,7 @@
       "Name": "Flames Over Mon Cala",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "achievement_41",
@@ -3021,7 +3026,7 @@
       "Name": "Against the Current",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "achievement_43",
@@ -3029,7 +3034,7 @@
       "Name": "Punch It",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "achievement_44",
@@ -3037,7 +3042,7 @@
       "Name": "Combat Pilot",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "achievement_45",
@@ -3061,7 +3066,7 @@
       "Name": "Stomped",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "achievement_5",
@@ -3077,7 +3082,7 @@
       "Name": "A Starfighter of Your Own",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1377
+      "UsersEstimate": 1380
     },
     {
       "ID": "achievement_7",
@@ -3093,7 +3098,7 @@
       "Name": "A Better Idea",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 2361
+      "UsersEstimate": 2365
     },
     {
       "ID": "achievement_9",
@@ -3101,14 +3106,14 @@
       "Name": "A Promising Career",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     }
   ],
   "AchievementSets": [
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 9839,
+      "Progressed": 9855,
       "Completed": 1
     }
   ],
@@ -3116,8 +3121,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2023-10-13T11:09:05.9601077+00:00",
+  "LastChanged_Achievements": "2023-10-13T12:09:27.5138695+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:06.8970148+00:00",
-  "LastUpdate_Ratings": "2023-10-13T10:57:41.9867434+00:00",
-  "LastUpdate_Achievements": "2023-10-13T11:09:05.9601593+00:00"
+  "LastUpdate_Ratings": "2023-10-13T11:57:44.7927058+00:00",
+  "LastUpdate_Achievements": "2023-10-13T12:09:27.5139183+00:00"
 }

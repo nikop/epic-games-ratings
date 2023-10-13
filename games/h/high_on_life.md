@@ -6,12 +6,12 @@ Rating: 4.64 (Ranked 320)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Satisfied Gus-tomer | 0.80% | ~194 |
+| Are You Packin'? | 0.80% | ~194 |
 | Sweezy Like Sunday Morning | 0.80% | ~194 |
 | First Bounty Down | 0.80% | ~194 |
 | G3 Graduation | 0.80% | ~194 |
 | Cold-Blooded Driller | 0.80% | ~194 |
 | Don't Knife The Hand That Feeds | 0.80% | ~194 |
-| Are You Packin'? | 0.70% | ~169 |
 | RIP Davey Glutes | 0.70% | ~169 |
 | Hardest Battle In The Game | 0.70% | ~169 |
 | Who's The Boss? | 0.70% | ~169 |
@@ -19,11 +19,11 @@ Rating: 4.64 (Ranked 320)
 | Bring A Knife to a Gun Fight | 0.60% | ~145 |
 | We're All Very Impressed, Trust Me | 0.60% | ~145 |
 | Self-Actualization | 0.60% | ~145 |
+| Spent 15 Hours At The Alien Strip Club | 0.60% | ~145 |
 | Bathe With A Giant Nude Alien | 0.60% | ~9 |
 | Lezduit! | 0.50% | ~121 |
 | Legendary Bounty Hunter | 0.50% | ~121 |
 | Fallout Doesn't Let You Do This | 0.50% | ~121 |
-| Spent 15 Hours At The Alien Strip Club | 0.50% | ~121 |
 | Series Wrap on Suit-O | 0.50% | ~121 |
 | Eatin' Good in the Neighborhood | 0.40% | ~97 |
 | We Came, We Chainsaw, We Conquered | 0.40% | ~6 |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 320)
 | It's Like The Santa Clause | 0.10% | ~1 |
 | That's B.A.L.L., Folks | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,202 (Ranked 119)  
+Progressed: 24,203 (Ranked 119)  
 Completed: 13 (0.05%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 13 (0.05%) (Ranked 271)
 | 2023-10-10 | 24,177 | 13 |
 | 2023-10-11 | 24,192 | 13 |
 | 2023-10-12 | 24,200 | 13 |
-| 2023-10-13 | 24,202 | 13 |
+| 2023-10-13 | 24,203 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

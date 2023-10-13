@@ -6,17 +6,18 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 2.00% | ~18,712 |
-| Handyman | 1.00% | ~9,356 |
-| Zealous | 1.00% | ~9,356 |
-| Not half bad | 1.00% | ~9,356 |
-| Apt Survivor | 1.00% | ~9,356 |
-| Survival Treasures | 1.00% | ~9,356 |
-| Skillful | 1.00% | ~9,356 |
-| Sorted | 1.00% | ~9,356 |
-| Make Some Noise | 1.00% | ~9,356 |
+| It wakes | 2.00% | ~18,714 |
+| Handyman | 1.00% | ~9,357 |
+| Zealous | 1.00% | ~9,357 |
+| Not half bad | 1.00% | ~9,357 |
+| Apt Survivor | 1.00% | ~9,357 |
+| Survival Treasures | 1.00% | ~9,357 |
+| Skillful | 1.00% | ~9,357 |
+| Sorted | 1.00% | ~9,357 |
+| Make Some Noise | 1.00% | ~9,357 |
 | No one left behind | 0.90% | ~8,421 |
 | Medic | 0.90% | ~8,421 |
+| I | 0.90% | ~8,421 |
 | Healthy Obsession | 0.90% | ~8,421 |
 | Resurgence | 0.90% | ~8,421 |
 | The Grand Sacrifice | 0.80% | ~7,485 |
@@ -24,14 +25,13 @@ Number of Ratings: 70,340  (23.09.2022)
 | Nerves of steel | 0.80% | ~7,485 |
 | Perfect Escape | 0.80% | ~7,485 |
 | Bloody Millionaire | 0.80% | ~7,485 |
-| I | 0.80% | ~7,485 |
 | Engineer | 0.80% | ~7,485 |
 | Preemptive Strike | 0.80% | ~7,485 |
 | Humanitarian | 0.80% | ~7,485 |
-| Agonizing Escape | 0.70% | ~6,549 |
-| I've got your back | 0.70% | ~6,549 |
-| Perfect Killing | 0.70% | ~6,549 |
-| Close Shave | 0.70% | ~6,549 |
+| Agonizing Escape | 0.70% | ~6,550 |
+| I've got your back | 0.70% | ~6,550 |
+| Perfect Killing | 0.70% | ~6,550 |
+| Close Shave | 0.70% | ~6,550 |
 | Apt Killer | 0.60% | ~5,614 |
 | Risk it all | 0.60% | ~5,614 |
 | II | 0.60% | ~5,614 |
@@ -42,30 +42,30 @@ Number of Ratings: 70,340  (23.09.2022)
 | First to the Punch | 0.50% | ~4,678 |
 | Every Last Drop | 0.50% | ~4,678 |
 | With Scars to Show | 0.50% | ~4,678 |
-| Blood on your hands | 0.40% | ~3,742 |
-| Escape Artist | 0.40% | ~3,742 |
-| Made it out alive! | 0.40% | ~3,742 |
-| III-50 | 0.40% | ~3,742 |
-| All Aboard | 0.40% | ~3,742 |
-| Item of Obsession | 0.40% | ~3,742 |
-| House of Pain | 0.40% | ~3,742 |
-| Holiday Get-Together | 0.40% | ~3,742 |
-| Near-Death Experience | 0.40% | ~3,742 |
-| Cherish your Life | 0.40% | ~3,742 |
-| Unforgettable Getaway | 0.40% | ~3,742 |
-| Cutting Out | 0.40% | ~3,742 |
-| Outrun Evil | 0.40% | ~3,742 |
-| Operation: Survival | 0.40% | ~3,742 |
-| Old West Oasis | 0.40% | ~3,742 |
-| Classy Act | 0.40% | ~3,742 |
-| Raccoon City Recruit | 0.40% | ~3,742 |
-| Flight to Freedom | 0.40% | ~3,742 |
-| A Fast Death | 0.40% | ~3,742 |
-| Rebuilding The Borgo | 0.40% | ~3,742 |
-| Lifting The Fog | 0.40% | ~3,742 |
-| Chorus of Chaos | 0.40% | ~3,742 |
-| One More Step | 0.40% | ~3,742 |
-| MU/TH/UR Dearest | 0.40% | ~3,742 |
+| Blood on your hands | 0.40% | ~3,743 |
+| Escape Artist | 0.40% | ~3,743 |
+| Made it out alive! | 0.40% | ~3,743 |
+| III-50 | 0.40% | ~3,743 |
+| All Aboard | 0.40% | ~3,743 |
+| Item of Obsession | 0.40% | ~3,743 |
+| House of Pain | 0.40% | ~3,743 |
+| Holiday Get-Together | 0.40% | ~3,743 |
+| Near-Death Experience | 0.40% | ~3,743 |
+| Cherish your Life | 0.40% | ~3,743 |
+| Unforgettable Getaway | 0.40% | ~3,743 |
+| Cutting Out | 0.40% | ~3,743 |
+| Outrun Evil | 0.40% | ~3,743 |
+| Operation: Survival | 0.40% | ~3,743 |
+| Old West Oasis | 0.40% | ~3,743 |
+| Classy Act | 0.40% | ~3,743 |
+| Raccoon City Recruit | 0.40% | ~3,743 |
+| Flight to Freedom | 0.40% | ~3,743 |
+| A Fast Death | 0.40% | ~3,743 |
+| Rebuilding The Borgo | 0.40% | ~3,743 |
+| Lifting The Fog | 0.40% | ~3,743 |
+| Chorus of Chaos | 0.40% | ~3,743 |
+| One More Step | 0.40% | ~3,743 |
+| MU/TH/UR Dearest | 0.40% | ~3,743 |
 | A bite for the Entity | 0.30% | ~2,807 |
 | Blood on your face | 0.30% | ~2,807 |
 | Gifts for the Fog | 0.30% | ~2,807 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~936 |
 | Adept Ripley | 0.10% | ~936 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 935,623 (Ranked 14)  
+Progressed: 935,681 (Ranked 14)  
 Completed: 50 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -412,7 +412,7 @@ Completed: 50 (0.01%) (Ranked 296)
 | 2023-10-10 | 931,511 | 49 |
 | 2023-10-11 | 933,163 | 49 |
 | 2023-10-12 | 934,954 | 50 |
-| 2023-10-13 | 935,623 | 50 |
+| 2023-10-13 | 935,681 | 50 |
 ## Awards
 Max (Diverse Characters): 33,824  (Ranked 15)  
 Sum: 261,741 (Ranked 13)  

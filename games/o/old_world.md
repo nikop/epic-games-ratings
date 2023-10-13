@@ -37,6 +37,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Naming Landmarks | 1.00% | ~146 |
 | Trade Caravan | 1.00% | ~146 |
 | Kushite Paganism | 1.00% | ~146 |
+| Fountainhead | 0.90% | ~132 |
 | Magnificent | 0.90% | ~132 |
 | Wise | 0.90% | ~132 |
 | Ishtar Gate | 0.90% | ~132 |
@@ -44,7 +45,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Zoroastrianism | 0.90% | ~132 |
 | Kushite Pyramids | 0.90% | ~132 |
 | Brilliant | 0.80% | ~117 |
-| Fountainhead | 0.80% | ~117 |
 | Able Difficulty | 0.80% | ~117 |
 | Furious Family | 0.80% | ~117 |
 | Great Ziggurat | 0.80% | ~117 |
@@ -102,6 +102,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 4 | 0.40% | ~59 |
 | Babylonia | 0.40% | ~59 |
 | Persian Paganism | 0.40% | ~59 |
+| Military Prestige | 0.40% | ~59 |
 | Redemption | 0.40% | ~59 |
 | Revelation | 0.40% | ~59 |
 | Cimmerian Archer | 0.40% | ~59 |
@@ -123,7 +124,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Paganism | 0.30% | ~44 |
 | Economic Reform | 0.30% | ~44 |
 | Industrial Progress | 0.30% | ~44 |
-| Military Prestige | 0.30% | ~44 |
 | Dualism | 0.30% | ~44 |
 | Enlightenment | 0.30% | ~44 |
 | Gnosticism | 0.30% | ~44 |
@@ -145,6 +145,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble Difficulty | 0.20% | ~29 |
 | Cao'an | 0.20% | ~29 |
 | Adur Burzen-Mihr | 0.20% | ~29 |
+| Assyria | 0.20% | ~29 |
 | Ten Crowns | 0.20% | ~29 |
 | Cataphract Archer | 0.20% | ~29 |
 | Three Man Chariot | 0.20% | ~29 |
@@ -239,7 +240,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Medo-Babylonian Conquest | 0.10% | ~15 |
 | Pyramids in Menefer | 0.10% | ~15 |
 | Realistic Mortality | 0.10% | ~15 |
-| Assyria | 0.10% | ~15 |
 | Hatti | 0.10% | ~15 |
 | Persia | 0.10% | ~15 |
 | Pantheon of Gods | 0.10% | ~15 |
@@ -349,8 +349,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,633 (Ranked 134)  
-Completed: 5 (0.03%) (Ranked 283)  
+Progressed: 14,636 (Ranked 134)  
+Completed: 5 (0.03%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -525,7 +525,7 @@ Completed: 5 (0.03%) (Ranked 283)
 | 2023-10-10 | 14,586 | 5 |
 | 2023-10-11 | 14,606 | 5 |
 | 2023-10-12 | 14,624 | 5 |
-| 2023-10-13 | 14,633 | 5 |
+| 2023-10-13 | 14,636 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,835 (Ranked 210)  

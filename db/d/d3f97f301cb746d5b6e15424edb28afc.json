@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -1158,9 +1158,9 @@
       "ID": "GSS_ACH_88_DECORATION_02",
       "SetID": "5fn8ia4",
       "Name": "Decorating Better",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "GSS_ACH_89_DECORATION_03",
@@ -1181,8 +1181,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-13T11:08:21.1259671+00:00",
+  "LastChanged_Achievements": "2023-10-13T12:09:04.9435847+00:00",
   "LastUpdate_AppInfo": "2023-10-09T13:09:09.0618232+00:00",
-  "LastUpdate_Ratings": "2023-10-13T11:00:03.9054471+00:00",
-  "LastUpdate_Achievements": "2023-10-13T11:08:21.1260696+00:00"
+  "LastUpdate_Ratings": "2023-10-13T11:59:51.5529953+00:00",
+  "LastUpdate_Achievements": "2023-10-13T12:09:04.9436649+00:00"
 }

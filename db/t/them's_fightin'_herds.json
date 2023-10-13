@@ -2,13 +2,13 @@
   "ID": "a567c32599bf4d4fb609e424f3691b39",
   "Name": "Them\u0027s Fightin\u0027 Herds",
   "ProductSlug": "thems-fightin-herds",
-  "Ranking_Rating": 336,
+  "Ranking_Rating": 337,
   "Ranking_Popularity": 501,
   "Ranking_PopularitySum": 508,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -256,7 +256,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 230959,
+  "EOS_Progressed": 230960,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 314,
   "EOS_NewCompleters": 0,
@@ -18441,6 +18441,11 @@
       "Time": "2023-10-13T11:03:14.8225918+00:00",
       "NumProgressed": 230959,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-13T12:03:44.9280249+00:00",
+      "NumProgressed": 230960,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -18516,7 +18521,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 83145
+      "UsersEstimate": 83146
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -18675,7 +18680,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 230959,
+      "Progressed": 230960,
       "Completed": 5
     }
   ],
@@ -18683,8 +18688,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-10-04T16:59:35.8231734+00:00",
-  "LastChanged_Achievements": "2023-10-13T11:03:14.8225914+00:00",
+  "LastChanged_Achievements": "2023-10-13T12:03:44.9280244+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:32.3872151+00:00",
-  "LastUpdate_Ratings": "2023-10-13T10:59:17.8319729+00:00",
-  "LastUpdate_Achievements": "2023-10-13T11:03:14.8226999+00:00"
+  "LastUpdate_Ratings": "2023-10-13T11:59:12.1337175+00:00",
+  "LastUpdate_Achievements": "2023-10-13T12:03:44.9281342+00:00"
 }
