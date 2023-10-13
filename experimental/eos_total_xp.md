@@ -277,7 +277,6 @@
 | [Gamedec - Definitive Edition](../games/g/gamedec_-_definitive_edition.md) | 52 | 1,000 |
 | [Garden In](../games/g/garden_in.md) | 31 | 1,000 |
 | [Gas Station Simulator](../games/d/d3f97f301cb746d5b6e15424edb28afc.md) | 91 | 1,000 |
-| [GeoJelly](../games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 7 | 1,000 |
 | [Geometric Sniper - Z](../games/7/706577b22cbb4ab38611e2c97e03a800.md) | 50 | 1,000 |
 | [Get Together: A Coop Adventure](../games/g/get_together__a_coop_adventure.md) | 10 | 1,000 |
 | [Ghostbusters: Spirits Unleashed](../games/g/ghostbusters__spirits_unleashed.md) | 51 | 1,000 |

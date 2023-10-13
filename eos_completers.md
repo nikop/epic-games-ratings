@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 51.54% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 51.52% |
 | 3 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 47.17% |
 | 5 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.72% |
@@ -94,9 +94,9 @@
 | 92 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 2.86% |
 | 92 | [FORECLOSED](games/f/foreclosed.md) | 2.86% |
 | 92 | [Mega City Police](games/m/mega_city_police.md) | 2.86% |
-| 92 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 2.86% |
-| 96 | [Destiny 2](games/d/destiny_2.md) | 2.80% |
-| 97 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.74% |
+| 95 | [Destiny 2](games/d/destiny_2.md) | 2.80% |
+| 96 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.74% |
+| 97 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 2.70% |
 | 98 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.68% |
 | 99 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.65% |
 | 100 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.56% |
@@ -104,7 +104,7 @@
 | 102 | [Lamentum](games/l/lamentum.md) | 2.47% |
 | 103 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.41% |
 | 104 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.40% |
-| 105 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.39% |
+| 105 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.38% |
 | 106 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.36% |
 | 107 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.33% |
 | 108 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.22% |
@@ -131,11 +131,11 @@
 | 127 | [Poosh XL](games/p/poosh_xl.md) | 1.38% |
 | 127 | [Ten Dates](games/t/ten_dates.md) | 1.38% |
 | 131 | [Chorus](games/c/chorus.md) | 1.37% |
-| 132 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 1.33% |
-| 133 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.32% |
-| 133 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.32% |
-| 133 | [Lemon Cake](games/l/lemon_cake.md) | 1.32% |
-| 133 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.32% |
+| 132 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.32% |
+| 132 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.32% |
+| 132 | [Lemon Cake](games/l/lemon_cake.md) | 1.32% |
+| 132 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 1.32% |
+| 132 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.32% |
 | 137 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.18% |
 | 138 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.13% |
 | 139 | [Trifox](games/t/trifox.md) | 1.09% |
@@ -144,7 +144,7 @@
 | 141 | [Infindustry](games/i/infindustry.md) | 1.05% |
 | 141 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.05% |
 | 144 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.02% |
-| 145 | [Sable](games/s/sable.md) | 1.01% |
+| 145 | [Sable](games/s/sable.md) | 1.00% |
 | 146 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.99% |
 | 147 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.98% |
 | 148 | [A Musical Story](games/a/a_musical_story.md) | 0.96% |

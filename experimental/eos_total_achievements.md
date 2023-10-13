@@ -709,7 +709,6 @@
 | [FRACTALS OF DESTINY](../games/c/c3282c07843f4c4b8601d8c6abd1d7c5.md) | 8 | 1,000 |
 | [Lost Abroad Cafe - A Language Learning Management](../games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 8 | 1,000 |
 | [Metro Simulator 2](../games/7/7ef79b257fe8475aa5c7a9d6c4d96f9b.md) | 8 | 1,000 |
-| [GeoJelly](../games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 7 | 1,000 |
 | [Remains](../games/r/remains.md) | 7 | 1,000 |
 | [Evalina The Sorceress](../games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 6 | 1,000 |
 | [Strange House](../games/s/strange_house.md) | 6 | 1,000 |
