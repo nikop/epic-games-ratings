@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 51.20% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 51.12% |
 | 3 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 47.17% |
 | 5 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.34% |
@@ -29,7 +29,7 @@
 | 27 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.26% |
 | 28 | [Remains](games/r/remains.md) | 12.00% |
 | 29 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 11.59% |
-| 30 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 11.48% |
+| 30 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 11.29% |
 | 31 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 31 | [Anna's Quest](games/a/anna's_quest.md) | 11.11% |
 | 33 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.08% |
@@ -71,7 +71,7 @@
 | 69 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.11% |
 | 70 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.02% |
 | 71 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 3.92% |
-| 72 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.90% |
+| 72 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.91% |
 | 73 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.83% |
 | 74 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
 | 75 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.79% |
@@ -153,8 +153,8 @@
 | 151 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 152 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.84% |
 | 153 | [Dungeons 3](games/d/dungeons_3.md) | 0.80% |
-| 154 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.76% |
-| 155 | [Eternights](games/e/eternights.md) | 0.75% |
+| 154 | [Eternights](games/e/eternights.md) | 0.75% |
+| 154 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.75% |
 | 156 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.72% |
 | 156 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.72% |
 | 158 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.66% |
@@ -203,11 +203,11 @@
 | 200 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
 | 202 | [Against the Storm](games/a/against_the_storm.md) | 0.31% |
 | 202 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
-| 202 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.31% |
 | 202 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
-| 206 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
-| 206 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.30% |
-| 206 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.30% |
+| 205 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
+| 205 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.30% |
+| 205 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.30% |
+| 205 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.30% |
 | 209 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
 | 209 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.29% |
 | 211 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.28% |
