@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 51.46% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 51.41% |
 | 3 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 47.17% |
 | 5 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.72% |
@@ -49,8 +49,8 @@
 | 47 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.41% |
 | 48 | [Time Loader](games/t/time_loader.md) | 7.20% |
 | 49 | [Scorn](games/s/scorn.md) | 7.02% |
-| 50 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.76% |
-| 51 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.59% |
+| 50 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.74% |
+| 51 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.52% |
 | 52 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.29% |
 | 53 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 54 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.97% |
@@ -139,7 +139,7 @@
 | 137 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.18% |
 | 138 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.13% |
 | 139 | [Trifox](games/t/trifox.md) | 1.09% |
-| 140 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.07% |
+| 140 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.08% |
 | 141 | [Adios](games/a/adios.md) | 1.05% |
 | 141 | [Infindustry](games/i/infindustry.md) | 1.05% |
 | 141 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.05% |
@@ -157,8 +157,8 @@
 | 155 | [Eternights](games/e/eternights.md) | 0.75% |
 | 156 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.72% |
 | 156 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.72% |
-| 158 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.67% |
-| 159 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.66% |
+| 158 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.66% |
+| 158 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.66% |
 | 160 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.64% |
 | 161 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
 | 161 | [Potion Permit](games/p/potion_permit.md) | 0.62% |
@@ -275,26 +275,26 @@
 | 271 | [High On Life](games/h/high_on_life.md) | 0.05% |
 | 271 | [House Party](games/h/house_party.md) | 0.05% |
 | 271 | [MythForce](games/m/mythforce.md) | 0.05% |
-| 276 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.04% |
-| 276 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 0.04% |
-| 276 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.04% |
-| 276 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 0.04% |
-| 276 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.04% |
-| 276 | [Tropico 6](games/t/tropico_6.md) | 0.04% |
-| 282 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
-| 282 | [Old World](games/o/old_world.md) | 0.03% |
-| 282 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.03% |
-| 282 | [Session: Skate Sim](games/s/session__skate_sim.md) | 0.03% |
-| 282 | [STAR WARS™ Battlefront™ II: Celebration Edition](games/s/star_wars™_battlefront™_ii__celebration_edition.md) | 0.03% |
-| 287 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.02% |
-| 287 | [Deceive Inc.](games/d/deceive_inc..md) | 0.02% |
-| 287 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
-| 287 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 0.02% |
-| 287 | [Good Company](games/g/good_company.md) | 0.02% |
-| 287 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
-| 287 | [Saturnalia](games/s/saturnalia.md) | 0.02% |
-| 287 | [SYNCED](games/s/synced.md) | 0.02% |
-| 287 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
+| 271 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.05% |
+| 277 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.04% |
+| 277 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 0.04% |
+| 277 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.04% |
+| 277 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 0.04% |
+| 277 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.04% |
+| 277 | [Tropico 6](games/t/tropico_6.md) | 0.04% |
+| 283 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
+| 283 | [Old World](games/o/old_world.md) | 0.03% |
+| 283 | [Session: Skate Sim](games/s/session__skate_sim.md) | 0.03% |
+| 283 | [STAR WARS™ Battlefront™ II: Celebration Edition](games/s/star_wars™_battlefront™_ii__celebration_edition.md) | 0.03% |
+| 283 | [SYNCED](games/s/synced.md) | 0.03% |
+| 288 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.02% |
+| 288 | [Deceive Inc.](games/d/deceive_inc..md) | 0.02% |
+| 288 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
+| 288 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 0.02% |
+| 288 | [Good Company](games/g/good_company.md) | 0.02% |
+| 288 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
+| 288 | [Saturnalia](games/s/saturnalia.md) | 0.02% |
+| 288 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
 | 296 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 0.01% |
 | 296 | [Arcadegeddon](games/a/arcadegeddon.md) | 0.01% |
 | 296 | [Dead by Daylight](games/d/dead_by_daylight.md) | 0.01% |

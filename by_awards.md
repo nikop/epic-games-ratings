@@ -5,7 +5,7 @@
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 309,850 | 4.68 | 241 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 241,745 | 4.68 | 241 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 206,343 | 4.18 | 897 |
-| 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 186,190 | 4.88 | 16 |
+| 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 186,515 | 4.88 | 16 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 149,940 | 4.51 | 551 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 118,606 | 4.69 | 221 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 96,724 | 4.64 | 320 |
@@ -17,16 +17,16 @@
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 33,824 | 4.51 | 551 |
 | 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 29,017 | 4.64 | 320 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 23,469 | 4.76 | 119 |
-| 18 | [Dauntless](games/d/dauntless.md) | 22,699 | 4.53 | 525 |
+| 18 | [Dauntless](games/d/dauntless.md) | 22,735 | 4.53 | 525 |
 | 19 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 20,225 | 4.26 | 844 |
-| 20 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 19,841 | 4.57 | 454 |
+| 20 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 19,852 | 4.57 | 454 |
 | 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 19,141 | 4.89 | 10 |
 | 22 | [Warframe](games/w/warframe.md) | 17,632 | 4.60 | 397 |
 | 23 | [League of Legends](games/l/league_of_legends.md) | 16,632 | 4.21 | 874 |
 | 24 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 15,635 | 4.74 | 149 |
-| 25 | [Borderlands 2](games/b/borderlands_2.md) | 15,567 | 4.76 | 119 |
+| 25 | [Borderlands 2](games/b/borderlands_2.md) | 15,577 | 4.76 | 119 |
 | 26 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,527 | 4.58 | 437 |
-| 27 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 14,236 | 4.60 | 397 |
+| 27 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 14,254 | 4.60 | 397 |
 | 28 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,836 | 4.60 | 397 |
 | 29 | [Maneater](games/m/maneater.md) | 13,724 | 4.49 | 590 |
 | 30 | [Killing Floor 2](games/k/killing_floor_2.md) | 13,218 | 4.43 | 672 |
@@ -38,12 +38,12 @@
 | 36 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,505 | 4.69 | 221 |
 | 37 | [SnowRunner](games/s/snowrunner.md) | 11,216 | 4.76 | 119 |
 | 38 | [HITMAN World of Assassination](games/h/hitman_3.md) | 10,305 | 4.78 | 99 |
-| 39 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 10,232 | 4.61 | 373 |
+| 39 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 10,237 | 4.61 | 373 |
 | 40 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 9,498 | 4.57 | 454 |
 | 41 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 8,694 | 4.58 | 437 |
 | 42 | [Control](games/c/control.md) | 8,590 | 4.60 | 397 |
 | 43 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 8,414 | 4.89 | 10 |
-| 44 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 8,215 | 4.48 | 607 |
+| 44 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 8,222 | 4.48 | 607 |
 | 45 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 8,002 | 4.57 | 454 |
 | 46 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,917 | 4.85 | 42 |
 | 47 | [Supraland](games/s/supraland.md) | 7,697 | 4.61 | 373 |
@@ -123,7 +123,7 @@
 | 121 | [Celeste](games/c/celeste.md) | 1,651 | 4.92 | 4 |
 | 122 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 1,561 | 4.78 | 99 |
 | 123 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,541 | 4.62 | 354 |
-| 124 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,535 | 4.79 | 90 |
+| 124 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,536 | 4.79 | 90 |
 | 125 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,526 | 4.55 | 492 |
 | 126 | [Ring of Pain](games/r/ring_of_pain.md) | 1,506 | 4.58 | 437 |
 | 127 | [Conan Exiles](games/c/conan_exiles.md) | 1,495 | 4.54 | 510 |
@@ -199,13 +199,13 @@
 | 197 | [Filament](games/f/filament.md) | 564 | 4.33 | 789 |
 | 198 | [Dishonored 2](games/d/dishonored_2.md) | 555 | 4.78 | 99 |
 | 199 | [Godfall Ultimate Edition](games/g/godfall.md) | 548 | 4.07 | 947 |
-| 200 | [Prison Architect](games/p/prison_architect.md) | 527 | 4.61 | 373 |
+| 200 | [Prison Architect](games/p/prison_architect.md) | 529 | 4.61 | 373 |
 | 201 | [Terraforming Mars](games/t/terraforming_mars.md) | 520 | 4.54 | 510 |
 | 202 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 518 | 4.86 | 28 |
 | 203 | [Ghostrunner](games/g/ghostrunner.md) | 505 | 4.72 | 178 |
-| 204 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 490 | 3.94 | 978 |
-| 204 | [Surviving Mars](games/s/surviving_mars.md) | 490 | 4.60 | 397 |
-| 204 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 490 | 4.60 | 397 |
+| 204 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 492 | 4.60 | 397 |
+| 205 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 490 | 3.94 | 978 |
+| 205 | [Surviving Mars](games/s/surviving_mars.md) | 490 | 4.60 | 397 |
 | 207 | [Second Extinction™](games/s/second_extinction™.md) | 473 | 4.05 | 956 |
 | 208 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 469 | 4.40 | 720 |
 | 209 | [Loop Hero](games/l/loop_hero.md) | 468 | 4.67 | 260 |
