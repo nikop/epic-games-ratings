@@ -11297,9 +11297,9 @@
       "Count": 25339
     }
   ],
-  "EOS_Progressed": 935572,
+  "EOS_Progressed": 935623,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 14066,
+  "EOS_NewPlayers": 14046,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -31282,6 +31282,11 @@
       "Time": "2023-10-13T10:07:15.5204168+00:00",
       "NumProgressed": 935572,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-10-13T11:07:13.9287371+00:00",
+      "NumProgressed": 935623,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 229,
@@ -31413,7 +31418,7 @@
       "Name": "No one left behind",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 8420
+      "UsersEstimate": 8421
     },
     {
       "ID": "ACH_017",
@@ -31421,7 +31426,7 @@
       "Name": "Medic",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 8420
+      "UsersEstimate": 8421
     },
     {
       "ID": "ACH_018",
@@ -31469,7 +31474,7 @@
       "Name": "It wakes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 18711
+      "UsersEstimate": 18712
     },
     {
       "ID": "ACH_024",
@@ -31509,7 +31514,7 @@
       "Name": "Apt Killer",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 5613
+      "UsersEstimate": 5614
     },
     {
       "ID": "ACH_029",
@@ -31517,7 +31522,7 @@
       "Name": "Risk it all",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 5613
+      "UsersEstimate": 5614
     },
     {
       "ID": "ACH_030",
@@ -31613,7 +31618,7 @@
       "Name": "II",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 5613
+      "UsersEstimate": 5614
     },
     {
       "ID": "ACH_042",
@@ -31979,9 +31984,9 @@
       "ID": "ACH_087",
       "SetID": "16jml5b",
       "Name": "Game Over",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1871
+      "UsersEstimate": 2807
     },
     {
       "ID": "ACH_088",
@@ -32189,7 +32194,7 @@
       "Name": "Wounded Healer",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 5613
+      "UsersEstimate": 5614
     },
     {
       "ID": "ACH_114",
@@ -32219,9 +32224,9 @@
       "ID": "ACH_117",
       "SetID": "16jml5b",
       "Name": "Outrun Evil",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2807
+      "UsersEstimate": 3742
     },
     {
       "ID": "ACH_118",
@@ -32461,7 +32466,7 @@
       "Name": "Healthy Obsession",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 8420
+      "UsersEstimate": 8421
     },
     {
       "ID": "ACH_151",
@@ -32499,9 +32504,9 @@
       "ID": "ACH_155",
       "SetID": "16jml5b",
       "Name": "Every Last Drop",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3742
+      "UsersEstimate": 4678
     },
     {
       "ID": "ACH_156",
@@ -32509,7 +32514,7 @@
       "Name": "Resurgence",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 8420
+      "UsersEstimate": 8421
     },
     {
       "ID": "ACH_157",
@@ -33053,7 +33058,7 @@
       "Name": "Second Act",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5613
+      "UsersEstimate": 5614
     },
     {
       "ID": "ACH_225",
@@ -33124,21 +33129,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 935572,
+      "Progressed": 935623,
       "Completed": 52
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 935572,
+      "Progressed": 935623,
       "Completed": 50
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-10-13T09:58:08.1344061+00:00",
-  "LastChanged_Achievements": "2023-10-13T10:07:15.5204162+00:00",
+  "LastChanged_Achievements": "2023-10-13T11:07:13.9287366+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:11.5924675+00:00",
-  "LastUpdate_Ratings": "2023-10-13T09:58:08.1344069+00:00",
-  "LastUpdate_Achievements": "2023-10-13T10:07:15.5213307+00:00"
+  "LastUpdate_Ratings": "2023-10-13T10:57:57.0756834+00:00",
+  "LastUpdate_Achievements": "2023-10-13T11:07:13.9293192+00:00"
 }

@@ -1718,9 +1718,9 @@
       "ID": "achievement_113",
       "SetID": "d252ncf",
       "Name": "Under Pressure",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 120
+      "UsersEstimate": 127
     },
     {
       "ID": "achievement_114",
@@ -2382,9 +2382,9 @@
       "ID": "achievement_74",
       "SetID": "d252ncf",
       "Name": "Power Full",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 268
     },
     {
       "ID": "achievement_75",
@@ -2618,8 +2618,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-13T10:03:40.952835+00:00",
+  "LastChanged_Achievements": "2023-10-13T11:03:30.9489773+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:40.7255751+00:00",
-  "LastUpdate_Ratings": "2023-10-13T09:59:56.5037272+00:00",
-  "LastUpdate_Achievements": "2023-10-13T10:03:40.9530676+00:00"
+  "LastUpdate_Ratings": "2023-10-13T10:59:52.6813576+00:00",
+  "LastUpdate_Achievements": "2023-10-13T11:03:30.9491665+00:00"
 }

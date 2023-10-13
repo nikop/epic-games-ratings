@@ -27,7 +27,7 @@
 | Spotless.. Freedom (?) | 0.00% | ~0 |
 | Freedom | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 614)  
+Progressed: 1 (Ranked 615)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -6,16 +6,16 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~4,152 |
+| Just One...More...Term... | 75.00% | ~4,153 |
 | Un-Lonely Island | 47.00% | ~2,602 |
-| The Beginning of a Servantship | 45.00% | ~2,491 |
-| Trade Is My Trait | 37.00% | ~2,048 |
+| The Beginning of a Servantship | 45.00% | ~2,492 |
+| Trade Is My Trait | 37.00% | ~2,049 |
 | Number 18 | 24.00% | ~1,329 |
 | We Don't Have Time For That | 19.00% | ~1,052 |
+| The Legend of Langostino | 17.00% | ~941 |
 | The Governator | 17.00% | ~941 |
 | Caribbean Comrade | 16.00% | ~886 |
-| The Legend of Langostino | 16.00% | ~886 |
-| The Dreamer of Dreams | 15.00% | ~830 |
+| The Dreamer of Dreams | 15.00% | ~831 |
 | Go Sovereigns! | 11.00% | ~609 |
 | For Science! | 11.00% | ~609 |
 | Happy Ending? | 10.00% | ~554 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~50 |
 | My Ways | 0.30% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,536 (Ranked 168)  
+Progressed: 5,537 (Ranked 168)  
 Completed: 2 (0.04%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,10 +223,10 @@ Completed: 2 (0.04%) (Ranked 276)
 | 2023-10-10 | 5,512 | 2 |
 | 2023-10-11 | 5,521 | 2 |
 | 2023-10-12 | 5,531 | 2 |
-| 2023-10-13 | 5,536 | 2 |
+| 2023-10-13 | 5,537 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 100  (Ranked 347)  
-Sum: 707 (Ranked 284)  
+Sum: 708 (Ranked 284)  
 Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
@@ -237,7 +237,7 @@ Diff (max vs sum): 63
 | This game has Amazing Storytelling | 92 |
 | This game is Extremely Fun | 87 |
 | This game has Amazing Characters | 87 |
-| This game is Educational | 86 |
+| This game is Educational | 87 |
 | This game has a Creative Community | 65 |
 | This game has Obsessive Gameplay | 52 |
 | This game has Diverse Characters | 46 |
@@ -389,4 +389,4 @@ Diff (max vs sum): 63
 | 2023-10-09 | 4.65 | - | 99 | 702 |
 | 2023-10-11 | 4.65 | - | 99 | 703 |
 | 2023-10-12 | 4.65 | - | 100 | 706 |
-| 2023-10-13 | 4.65 | - | 100 | 707 |
+| 2023-10-13 | 4.65 | - | 100 | 708 |

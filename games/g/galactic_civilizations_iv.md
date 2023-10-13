@@ -6,19 +6,19 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 79.00% | ~5,380 |
-| Worker Specialization | 78.00% | ~5,312 |
-| First Contact | 73.00% | ~4,971 |
+| Colonize a Planet | 79.00% | ~5,381 |
+| Worker Specialization | 78.00% | ~5,313 |
+| First Contact | 73.00% | ~4,972 |
 | Win a Battle | 66.00% | ~4,495 |
-| Anomaly Researcher | 62.00% | ~4,222 |
-| Unleash My Power | 62.00% | ~4,222 |
-| Own 30 Planets | 34.00% | ~2,315 |
-| Xenocide | 32.00% | ~2,179 |
-| Design a Civilization | 32.00% | ~2,179 |
+| Anomaly Researcher | 62.00% | ~4,223 |
+| Unleash My Power | 62.00% | ~4,223 |
+| Own 30 Planets | 34.00% | ~2,316 |
+| Xenocide | 32.00% | ~2,180 |
+| Design a Civilization | 32.00% | ~2,180 |
 | Commodity Trader | 31.00% | ~2,111 |
 | Design a Ship | 28.00% | ~1,907 |
-| Commodity Seller | 25.00% | ~1,702 |
-| Prestige Victory! | 14.00% | ~953 |
+| Commodity Seller | 25.00% | ~1,703 |
+| Prestige Victory! | 14.00% | ~954 |
 | Galactic War | 11.00% | ~749 |
 | Trading Partner | 9.00% | ~613 |
 | Fleet Victory | 8.00% | ~545 |
@@ -26,7 +26,7 @@ Number of Ratings: 429  (23.09.2022)
 | Gain an Ally | 6.00% | ~409 |
 | War with the Unknown | 6.00% | ~409 |
 | Win with a Custom Faction | 6.00% | ~409 |
-| Win Quickly | 5.00% | ~340 |
+| Win Quickly | 5.00% | ~341 |
 | Conquest Victory! | 4.00% | ~272 |
 | Pirate Cleansing | 3.00% | ~204 |
 | Win an Immense Game | 3.00% | ~204 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,810 (Ranked 160)  
+Progressed: 6,811 (Ranked 160)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-10-10 | 6,796 | 0 |
 | 2023-10-11 | 6,803 | 0 |
 | 2023-10-12 | 6,807 | 0 |
-| 2023-10-13 | 6,810 | 0 |
+| 2023-10-13 | 6,811 | 0 |
 ## Awards
 Max (Diverse Characters): 94  (Ranked 357)  
 Sum: 681 (Ranked 286)  

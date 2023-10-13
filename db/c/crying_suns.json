@@ -622,7 +622,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 468971,
+  "EOS_Progressed": 468974,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 402,
   "EOS_NewCompleters": 0,
@@ -19012,6 +19012,11 @@
       "Time": "2023-10-13T10:08:39.433757+00:00",
       "NumProgressed": 468971,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-10-13T11:08:40.8950897+00:00",
+      "NumProgressed": 468974,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 79,
@@ -19039,7 +19044,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 112553
+      "UsersEstimate": 112554
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -19111,7 +19116,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 309521
+      "UsersEstimate": 309523
     },
     {
       "ID": "achievement_story_landa",
@@ -19143,7 +19148,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 117243
+      "UsersEstimate": 117244
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -19199,7 +19204,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 93794
+      "UsersEstimate": 93795
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -19207,7 +19212,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 159450
+      "UsersEstimate": 159451
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -19447,7 +19452,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 206347
+      "UsersEstimate": 206349
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -19455,7 +19460,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 140691
+      "UsersEstimate": 140692
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -19479,7 +19484,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 182899
+      "UsersEstimate": 182900
     },
     {
       "ID": "achievement_win_run_hard",
@@ -19654,21 +19659,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 12905,
+      "Progressed": 12908,
       "Completed": 2357
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 468971,
+      "Progressed": 468974,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-10-10T01:42:39.6470224+00:00",
-  "LastChanged_Achievements": "2023-10-13T10:08:39.4337563+00:00",
+  "LastChanged_Achievements": "2023-10-13T11:08:40.8950893+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:12.2439016+00:00",
-  "LastUpdate_Ratings": "2023-10-13T09:57:25.2883472+00:00",
-  "LastUpdate_Achievements": "2023-10-13T10:08:39.433964+00:00"
+  "LastUpdate_Ratings": "2023-10-13T10:57:11.4056532+00:00",
+  "LastUpdate_Achievements": "2023-10-13T11:08:40.8952429+00:00"
 }

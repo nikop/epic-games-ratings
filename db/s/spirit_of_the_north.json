@@ -324,7 +324,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 71255,
+  "EOS_Progressed": 71256,
   "EOS_Completed": 377,
   "EOS_NewPlayers": 579,
   "EOS_NewCompleters": 1,
@@ -19624,6 +19624,11 @@
       "Time": "2023-10-13T10:07:34.962046+00:00",
       "NumProgressed": 71255,
       "NumCompleted": 377
+    },
+    {
+      "Time": "2023-10-13T11:07:33.6249707+00:00",
+      "NumProgressed": 71256,
+      "NumCompleted": 377
     }
   ],
   "TotalAchievements": 24,
@@ -19651,7 +19656,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 48453
+      "UsersEstimate": 48454
     },
     {
       "ID": "BEST_FRIENDS",
@@ -19667,7 +19672,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 18526
+      "UsersEstimate": 18527
     },
     {
       "ID": "ERADICATE",
@@ -19683,7 +19688,7 @@
       "Name": "FETCH",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 19951
+      "UsersEstimate": 19952
     },
     {
       "ID": "FOXIN_AROUND",
@@ -19715,7 +19720,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 37765
+      "UsersEstimate": 37766
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -19826,7 +19831,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 71255,
+      "Progressed": 71256,
       "Completed": 377
     }
   ],
@@ -19834,8 +19839,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-10-13T10:07:34.9620455+00:00",
+  "LastChanged_Achievements": "2023-10-13T11:07:33.6249702+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:52.3980127+00:00",
-  "LastUpdate_Ratings": "2023-10-13T10:01:49.3143461+00:00",
-  "LastUpdate_Achievements": "2023-10-13T10:07:34.9622032+00:00"
+  "LastUpdate_Ratings": "2023-10-13T11:01:51.9652951+00:00",
+  "LastUpdate_Achievements": "2023-10-13T11:07:33.6250741+00:00"
 }

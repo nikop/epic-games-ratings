@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -180,9 +180,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1483,
+  "EOS_Progressed": 1484,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -1925,6 +1925,11 @@
       "Time": "2023-10-13T02:29:18.4864718+00:00",
       "NumProgressed": 1483,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-13T11:09:21.082815+00:00",
+      "NumProgressed": 1484,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -1944,7 +1949,7 @@
       "Name": "Perfect timing",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "11",
@@ -1960,7 +1965,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "13",
@@ -2000,7 +2005,7 @@
       "Name": "Balding bloot!",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 1157
+      "UsersEstimate": 1158
     },
     {
       "ID": "18",
@@ -2008,7 +2013,7 @@
       "Name": "Like new!",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "19",
@@ -2056,7 +2061,7 @@
       "Name": "Pearls before Birble",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "24",
@@ -2160,7 +2165,7 @@
       "Name": "Over my dead body",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "9",
@@ -2168,22 +2173,22 @@
       "Name": "Last minute",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     }
   ],
   "AchievementSets": [
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1483,
+      "Progressed": 1484,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-10-13T10:09:19.3743354+00:00",
+  "LastChanged_Achievements": "2023-10-13T11:09:21.0828145+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:55.1210673+00:00",
-  "LastUpdate_Ratings": "2023-10-13T09:58:04.5543667+00:00",
-  "LastUpdate_Achievements": "2023-10-13T10:09:19.3743686+00:00"
+  "LastUpdate_Ratings": "2023-10-13T10:57:53.2182301+00:00",
+  "LastUpdate_Achievements": "2023-10-13T11:09:21.0828413+00:00"
 }

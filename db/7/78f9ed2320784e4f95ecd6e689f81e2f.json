@@ -4,7 +4,7 @@
   "ProductSlug": "geojelly-a44cfe",
   "Ranking_EOS_Progress": 444,
   "Ranking_EOS_Completed": 108,
-  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewPlayers": 333,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-06-07T18:00:00+00:00",
@@ -253,8 +253,8 @@
       "NumCompleted": 1
     }
   ],
-  "TotalAchievements": 7,
-  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 0,
+  "TotalAchievementsXP": 0,
   "Achievements": [
     {
       "ID": "WEEKEND_JUMPER_1",
@@ -363,8 +363,8 @@
   ],
   "FirstSeen": "2023-06-24T07:57:28.1262112+00:00",
   "FirstSeenAchievements": "2023-05-09T08:01:56.5974066+00:00",
-  "LastChanged_Achievements": "2023-10-13T10:06:34.427029+00:00",
+  "LastChanged_Achievements": "2023-10-13T11:06:21.3709963+00:00",
   "LastUpdate_AppInfo": "2023-10-10T21:57:06.8399033+00:00",
-  "LastUpdate_Ratings": "2023-10-13T10:00:56.4223914+00:00",
-  "LastUpdate_Achievements": "2023-10-13T10:06:34.4270442+00:00"
+  "LastUpdate_Ratings": "2023-10-13T11:01:00.487067+00:00",
+  "LastUpdate_Achievements": "2023-10-13T11:06:21.371002+00:00"
 }

@@ -6,7 +6,7 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 2.00% | ~18,711 |
+| It wakes | 2.00% | ~18,712 |
 | Handyman | 1.00% | ~9,356 |
 | Zealous | 1.00% | ~9,356 |
 | Not half bad | 1.00% | ~9,356 |
@@ -15,10 +15,10 @@ Number of Ratings: 70,340  (23.09.2022)
 | Skillful | 1.00% | ~9,356 |
 | Sorted | 1.00% | ~9,356 |
 | Make Some Noise | 1.00% | ~9,356 |
-| No one left behind | 0.90% | ~8,420 |
-| Medic | 0.90% | ~8,420 |
-| Healthy Obsession | 0.90% | ~8,420 |
-| Resurgence | 0.90% | ~8,420 |
+| No one left behind | 0.90% | ~8,421 |
+| Medic | 0.90% | ~8,421 |
+| Healthy Obsession | 0.90% | ~8,421 |
+| Resurgence | 0.90% | ~8,421 |
 | The Grand Sacrifice | 0.80% | ~7,485 |
 | Backdoor Escape | 0.80% | ~7,485 |
 | Nerves of steel | 0.80% | ~7,485 |
@@ -32,14 +32,15 @@ Number of Ratings: 70,340  (23.09.2022)
 | I've got your back | 0.70% | ~6,549 |
 | Perfect Killing | 0.70% | ~6,549 |
 | Close Shave | 0.70% | ~6,549 |
-| Apt Killer | 0.60% | ~5,613 |
-| Risk it all | 0.60% | ~5,613 |
-| II | 0.60% | ~5,613 |
-| Wounded Healer | 0.60% | ~5,613 |
-| Second Act | 0.60% | ~5,613 |
+| Apt Killer | 0.60% | ~5,614 |
+| Risk it all | 0.60% | ~5,614 |
+| II | 0.60% | ~5,614 |
+| Wounded Healer | 0.60% | ~5,614 |
+| Second Act | 0.60% | ~5,614 |
 | Vulture | 0.50% | ~4,678 |
 | III | 0.50% | ~4,678 |
 | First to the Punch | 0.50% | ~4,678 |
+| Every Last Drop | 0.50% | ~4,678 |
 | With Scars to Show | 0.50% | ~4,678 |
 | Blood on your hands | 0.40% | ~3,742 |
 | Escape Artist | 0.40% | ~3,742 |
@@ -53,10 +54,10 @@ Number of Ratings: 70,340  (23.09.2022)
 | Cherish your Life | 0.40% | ~3,742 |
 | Unforgettable Getaway | 0.40% | ~3,742 |
 | Cutting Out | 0.40% | ~3,742 |
+| Outrun Evil | 0.40% | ~3,742 |
 | Operation: Survival | 0.40% | ~3,742 |
 | Old West Oasis | 0.40% | ~3,742 |
 | Classy Act | 0.40% | ~3,742 |
-| Every Last Drop | 0.40% | ~3,742 |
 | Raccoon City Recruit | 0.40% | ~3,742 |
 | Flight to Freedom | 0.40% | ~3,742 |
 | A Fast Death | 0.40% | ~3,742 |
@@ -74,11 +75,11 @@ Number of Ratings: 70,340  (23.09.2022)
 | Cottage Owner | 0.30% | ~2,807 |
 | Serial Killer | 0.30% | ~2,807 |
 | Escaping the Nightmare | 0.30% | ~2,807 |
+| Game Over | 0.30% | ~2,807 |
 | Campbell's Chapel Legacy | 0.30% | ~2,807 |
 | Ancestor's Rite | 0.30% | ~2,807 |
 | Devoted Gatekeeping | 0.30% | ~2,807 |
 | Shrine Apparatus | 0.30% | ~2,807 |
-| Outrun Evil | 0.30% | ~2,807 |
 | Grim Pilgrimage | 0.30% | ~2,807 |
 | Selfless Survival | 0.30% | ~2,807 |
 | End of Days | 0.30% | ~2,807 |
@@ -90,7 +91,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Jump Scares | 0.20% | ~1,871 |
 | Deep Cleansing | 0.20% | ~1,871 |
 | Texas BBQ | 0.20% | ~1,871 |
-| Game Over | 0.20% | ~1,871 |
 | Party Crasher | 0.20% | ~1,871 |
 | Whiffing to Success | 0.20% | ~1,871 |
 | Outrage | 0.20% | ~1,871 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~936 |
 | Adept Ripley | 0.10% | ~936 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 935,572 (Ranked 14)  
+Progressed: 935,623 (Ranked 14)  
 Completed: 50 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -412,7 +412,7 @@ Completed: 50 (0.01%) (Ranked 296)
 | 2023-10-10 | 931,511 | 49 |
 | 2023-10-11 | 933,163 | 49 |
 | 2023-10-12 | 934,954 | 50 |
-| 2023-10-13 | 935,572 | 50 |
+| 2023-10-13 | 935,623 | 50 |
 ## Awards
 Max (Diverse Characters): 33,824  (Ranked 15)  
 Sum: 261,741 (Ranked 13)  

@@ -1,25 +1,25 @@
 # Dead Space
 [Store](https://store.epicgames.com/en-US/p/dead-space)  
 [View Rawdata](../../db/d/dead_space.json)  
-Rating: 4.62 (Ranked 353)  
+Rating: 4.62 (Ranked 354)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marksman | 95.00% | ~909 |
+| Marksman | 95.00% | ~910 |
 | Welcome Aboard | 87.00% | ~833 |
-| Lab Rat | 76.00% | ~727 |
-| All Systems Go | 67.00% | ~641 |
+| Lab Rat | 76.00% | ~728 |
+| All Systems Go | 67.00% | ~642 |
 | Brute Force | 66.00% | ~632 |
-| Cannon Fodder | 62.00% | ~593 |
-| Autofire | 60.00% | ~574 |
-| Story Teller | 58.00% | ~555 |
-| True Believer | 58.00% | ~555 |
-| Raise the Stakes | 57.00% | ~545 |
-| Surgeon | 53.00% | ~507 |
-| Exterminator | 53.00% | ~507 |
-| Greenhouse Effect | 53.00% | ~507 |
-| Freeze | 51.00% | ~488 |
-| Full Arsenal | 46.00% | ~440 |
+| Cannon Fodder | 62.00% | ~594 |
+| Autofire | 60.00% | ~575 |
+| Story Teller | 58.00% | ~556 |
+| True Believer | 58.00% | ~556 |
+| Raise the Stakes | 57.00% | ~546 |
+| Surgeon | 53.00% | ~508 |
+| Exterminator | 53.00% | ~508 |
+| Greenhouse Effect | 53.00% | ~508 |
+| Freeze | 51.00% | ~489 |
+| Full Arsenal | 46.00% | ~441 |
 | S.O.S. | 45.00% | ~431 |
 | Get Off My Ship! | 43.00% | ~412 |
 | Strange Transmissions | 43.00% | ~412 |
@@ -31,17 +31,17 @@ Rating: 4.62 (Ranked 353)
 | There's Always Peng! | 37.00% | ~354 |
 | Exodus | 36.00% | ~345 |
 | Mindless Prey | 36.00% | ~345 |
-| Front Toward Enemy | 34.00% | ~325 |
+| Front Toward Enemy | 34.00% | ~326 |
 | A Cut Above | 33.00% | ~316 |
 | Whole Again | 28.00% | ~268 |
 | Set A Benchmark | 28.00% | ~268 |
 | Final Regeneration | 26.00% | ~249 |
-| Full Contact | 25.00% | ~239 |
-| Pack Rat | 25.00% | ~239 |
+| Full Contact | 25.00% | ~240 |
+| Pack Rat | 25.00% | ~240 |
 | Full Clearance | 24.00% | ~230 |
 | Pusher | 22.00% | ~211 |
 | Z-Baller | 22.00% | ~211 |
-| Marked | 20.00% | ~191 |
+| Marked | 20.00% | ~192 |
 | Eviscerator | 19.00% | ~182 |
 | Backbreaker | 14.00% | ~134 |
 | Wishbone | 8.00% | ~77 |
@@ -53,7 +53,7 @@ Rating: 4.62 (Ranked 353)
 | Reunion | 3.00% | ~29 |
 | Untouchable | 2.00% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 957 (Ranked 235)  
+Progressed: 958 (Ranked 235)  
 Completed: 5 (0.52%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 5 (0.52%) (Ranked 176)
 | 2023-10-10 | 912 | 4 |
 | 2023-10-11 | 926 | 5 |
 | 2023-10-12 | 949 | 5 |
-| 2023-10-13 | 957 | 5 |
+| 2023-10-13 | 958 | 5 |
 ## Awards
 Max (Great Boss Battles): 102  (Ranked 344)  
 Sum: 102 (Ranked 430)  

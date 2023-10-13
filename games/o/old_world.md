@@ -85,6 +85,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greece | 0.50% | ~73 |
 | Power to the People | 0.50% | ~73 |
 | Building Wonders | 0.50% | ~73 |
+| Legalism | 0.50% | ~73 |
 | Double Victory | 0.50% | ~73 |
 | Points Victory | 0.50% | ~73 |
 | Invincible | 0.40% | ~59 |
@@ -101,7 +102,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 4 | 0.40% | ~59 |
 | Babylonia | 0.40% | ~59 |
 | Persian Paganism | 0.40% | ~59 |
-| Legalism | 0.40% | ~59 |
 | Redemption | 0.40% | ~59 |
 | Revelation | 0.40% | ~59 |
 | Cimmerian Archer | 0.40% | ~59 |

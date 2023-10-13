@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2124,
+  "EOS_Progressed": 2130,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1534,
+  "EOS_NewPlayers": 1533,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1496,6 +1496,11 @@
       "Time": "2023-10-13T10:07:32.3745363+00:00",
       "NumProgressed": 2124,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-13T11:07:31.0498801+00:00",
+      "NumProgressed": 2130,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -1604,7 +1609,7 @@
       "Name": "Level 0",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -1644,7 +1649,7 @@
       "Name": "Glitchy",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_WINLEVEL5",
@@ -1668,7 +1673,7 @@
       "Name": "Motion",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_WINLEVEL9999999",
@@ -1676,7 +1681,7 @@
       "Name": "Endless",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_WINLEVELFUN",
@@ -1692,21 +1697,21 @@
       "Name": "Lights Out",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     }
   ],
   "AchievementSets": [
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 2124,
+      "Progressed": 2130,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-10-13T10:07:32.3745356+00:00",
+  "LastChanged_Achievements": "2023-10-13T11:07:31.0498792+00:00",
   "LastUpdate_AppInfo": "2023-10-09T13:09:09.4900137+00:00",
-  "LastUpdate_Ratings": "2023-10-13T09:58:57.396722+00:00",
-  "LastUpdate_Achievements": "2023-10-13T10:07:32.3745649+00:00"
+  "LastUpdate_Ratings": "2023-10-13T10:58:52.2822926+00:00",
+  "LastUpdate_Achievements": "2023-10-13T11:07:31.0499022+00:00"
 }

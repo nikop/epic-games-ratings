@@ -4,7 +4,7 @@
   "ProductSlug": "xuan-yuan-sword-7-22c442",
   "Ranking_EOS_Progress": 530,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewPlayers": 307,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-09-06T02:00:00+00:00",
@@ -81,9 +81,9 @@
       "ID": "ARestWellDeserved",
       "SetID": "c8fdd59",
       "Name": "A Rest Well Deserved",
-      "Percentage": 33,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "AspirationOfYuanchu",
@@ -129,17 +129,17 @@
       "ID": "Chapter02_BlackTidings",
       "SetID": "c8fdd59",
       "Name": "Black Tidings",
-      "Percentage": 44,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Chapter03_DangerousDeal",
       "SetID": "c8fdd59",
       "Name": "Dangerous Deal",
-      "Percentage": 33,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Chapter04_AJourneyBegins",
@@ -265,9 +265,9 @@
       "ID": "EnemySlain",
       "SetID": "c8fdd59",
       "Name": "Enemy Slain",
-      "Percentage": 11,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "FaithfulAudience",
@@ -281,9 +281,9 @@
       "ID": "FirstBuildingInElysium",
       "SetID": "c8fdd59",
       "Name": "Something in the Scroll",
-      "Percentage": 33,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "GoodCompany",
@@ -297,9 +297,9 @@
       "ID": "HitTheBoardRunning",
       "SetID": "c8fdd59",
       "Name": "Hit the Board Running",
-      "Percentage": 22,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Marker",
@@ -440,8 +440,8 @@
   ],
   "FirstSeen": "2023-09-08T10:00:07.3821883+00:00",
   "FirstSeenAchievements": "2023-08-28T07:03:21.9021387+00:00",
-  "LastChanged_Achievements": "2023-10-13T10:04:26.9008294+00:00",
+  "LastChanged_Achievements": "2023-10-13T11:04:08.4149153+00:00",
   "LastUpdate_AppInfo": "2023-10-09T10:57:20.738043+00:00",
-  "LastUpdate_Ratings": "2023-10-13T10:01:39.7742442+00:00",
-  "LastUpdate_Achievements": "2023-10-13T10:04:26.9008676+00:00"
+  "LastUpdate_Ratings": "2023-10-13T11:01:41.3947469+00:00",
+  "LastUpdate_Achievements": "2023-10-13T11:04:08.4149423+00:00"
 }

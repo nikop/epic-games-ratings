@@ -35,7 +35,7 @@
 | Operative | 42.00% | ~281 |
 | Veteran | 41.00% | ~274 |
 | Scholar | 41.00% | ~274 |
-| Power Full | 39.00% | ~261 |
+| Power Full | 40.00% | ~268 |
 | The Professor | 38.00% | ~254 |
 | Completionist | 37.00% | ~248 |
 | The Archangel | 37.00% | ~248 |
@@ -90,11 +90,11 @@
 | No One Left Behind | 20.00% | ~134 |
 | Party Crasher | 20.00% | ~134 |
 | Problem Solver | 20.00% | ~134 |
+| Under Pressure | 19.00% | ~127 |
 | Hard Target | 19.00% | ~127 |
 | Saboteur | 19.00% | ~127 |
 | Fact Finder | 19.00% | ~127 |
 | Pyromaniac | 18.00% | ~120 |
-| Under Pressure | 18.00% | ~120 |
 | Last Resort | 18.00% | ~120 |
 | Electronics Specialist | 18.00% | ~120 |
 | Sabotage Specialist | 18.00% | ~120 |

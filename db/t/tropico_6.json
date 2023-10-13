@@ -1156,10 +1156,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 707,
       "NumberOfAwardsMax": 100
+    },
+    {
+      "Time": "2023-10-13T10:59:09.1323838+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 708,
+      "NumberOfAwardsMax": 100
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 707,
+  "NumberOfAwards": 708,
   "NumberOfAwardsMax": 100,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -1203,7 +1209,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 86
+      "Count": 87
     },
     {
       "Text": "This game has a Creative Community",
@@ -1230,9 +1236,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5536,
+  "EOS_Progressed": 5537,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -11190,6 +11196,11 @@
       "Time": "2023-10-13T10:06:09.714042+00:00",
       "NumProgressed": 5536,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-13T11:05:55.7560685+00:00",
+      "NumProgressed": 5537,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -11273,7 +11284,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -11297,15 +11308,15 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2491
+      "UsersEstimate": 2492
     },
     {
       "ID": "ACH_EP_PIRATEKING",
       "SetID": "1p8ab95",
       "Name": "The Legend of Langostino",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 886
+      "UsersEstimate": 941
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -11361,7 +11372,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4152
+      "UsersEstimate": 4153
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -11473,7 +11484,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2048
+      "UsersEstimate": 2049
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -11520,15 +11531,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5536,
+      "Progressed": 5537,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
-  "LastChanged": "2023-10-13T06:59:03.2091218+00:00",
-  "LastChanged_Achievements": "2023-10-13T10:06:09.7140412+00:00",
+  "LastChanged": "2023-10-13T10:59:09.1323837+00:00",
+  "LastChanged_Achievements": "2023-10-13T11:05:55.7560681+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:39.4137332+00:00",
-  "LastUpdate_Ratings": "2023-10-13T09:59:13.3968102+00:00",
-  "LastUpdate_Achievements": "2023-10-13T10:06:09.7141545+00:00"
+  "LastUpdate_Ratings": "2023-10-13T10:59:09.1323842+00:00",
+  "LastUpdate_Achievements": "2023-10-13T11:05:55.7561418+00:00"
 }

@@ -1945,9 +1945,9 @@
       "ID": "achievement_44",
       "SetID": "cemm4l8",
       "Name": "A good blaster at your side",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 200
+      "UsersEstimate": 206
     },
     {
       "ID": "achievement_45",
@@ -2160,8 +2160,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-13T10:04:56.6247717+00:00",
+  "LastChanged_Achievements": "2023-10-13T11:04:39.4704973+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:04.2927905+00:00",
-  "LastUpdate_Ratings": "2023-10-13T10:03:17.1186547+00:00",
-  "LastUpdate_Achievements": "2023-10-13T10:04:56.6249144+00:00"
+  "LastUpdate_Ratings": "2023-10-13T11:03:05.4975452+00:00",
+  "LastUpdate_Achievements": "2023-10-13T11:04:39.4705574+00:00"
 }

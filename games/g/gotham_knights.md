@@ -5,10 +5,10 @@ Rating: 4.18 (Ranked 898)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~38,199 |
+| First Step Into the Knight | 52.00% | ~38,200 |
 | Har, Har, Har, Very Funny | 35.00% | ~25,711 |
-| Loose Ends | 34.00% | ~24,976 |
-| To the Victor Go the Spoils | 29.00% | ~21,303 |
+| Loose Ends | 34.00% | ~24,977 |
+| To the Victor Go the Spoils | 29.00% | ~21,304 |
 | Knighthood | 28.00% | ~20,569 |
 | Get ReQ'd | 25.00% | ~18,365 |
 | Whispered Words | 25.00% | ~18,365 |
@@ -19,16 +19,16 @@ Rating: 4.18 (Ranked 898)
 | Working Hard or Harley Working? | 21.00% | ~15,427 |
 | Unstoppable Force | 20.00% | ~14,692 |
 | Bad Apples in Every Orchard | 20.00% | ~14,692 |
-| Snow Problem | 19.00% | ~13,957 |
+| Snow Problem | 19.00% | ~13,958 |
 | The Show Mud Go On | 18.00% | ~13,223 |
 | From Inside Gotham's Walls | 18.00% | ~13,223 |
 | Protector of Gotham | 17.00% | ~12,488 |
 | Universal Health Scare | 16.00% | ~11,754 |
 | In Your Element | 15.00% | ~11,019 |
 | Voiceless | 15.00% | ~11,019 |
-| Rock and a Hard Place | 14.00% | ~10,284 |
-| Cooldown | 14.00% | ~10,284 |
-| Seeking Asylum | 14.00% | ~10,284 |
+| Rock and a Hard Place | 14.00% | ~10,285 |
+| Cooldown | 14.00% | ~10,285 |
+| Seeking Asylum | 14.00% | ~10,285 |
 | Not On My Watch | 13.00% | ~9,550 |
 | Shock Til They Drop | 13.00% | ~9,550 |
 | End of an Era | 12.00% | ~8,815 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 898)
 | Element of Surprise | 0.20% | ~87 |
 | It's Nice to Be Wanted | 0.20% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,460 (Ranked 91)  
+Progressed: 73,461 (Ranked 91)  
 Completed: 121 (0.16%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 121 (0.16%) (Ranked 230)
 | 2023-10-10 | 73,398 | 120 |
 | 2023-10-11 | 73,428 | 120 |
 | 2023-10-12 | 73,448 | 121 |
-| 2023-10-13 | 73,460 | 121 |
+| 2023-10-13 | 73,461 | 121 |
 ## Awards
 Max (Great Boss Battles): 2,819  (Ranked 97)  
 Sum: 4,727 (Ranked 140)  

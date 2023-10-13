@@ -781,9 +781,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 42501,
+  "EOS_Progressed": 42502,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 831,
+  "EOS_NewPlayers": 829,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -20516,6 +20516,11 @@
       "Time": "2023-10-13T10:04:07.6530886+00:00",
       "NumProgressed": 42501,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-13T11:03:48.1586992+00:00",
+      "NumProgressed": 42502,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -20567,7 +20572,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 11475
+      "UsersEstimate": 11476
     },
     {
       "ID": "goals180",
@@ -20735,7 +20740,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 11050
+      "UsersEstimate": 11051
     },
     {
       "ID": "sandboarder",
@@ -20838,15 +20843,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 42501,
+      "Progressed": 42502,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-10-12T08:00:34.9108004+00:00",
-  "LastChanged_Achievements": "2023-10-13T10:04:07.653088+00:00",
+  "LastChanged_Achievements": "2023-10-13T11:03:48.1586987+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:34.5787714+00:00",
-  "LastUpdate_Ratings": "2023-10-13T10:02:20.3945208+00:00",
-  "LastUpdate_Achievements": "2023-10-13T10:04:07.6532859+00:00"
+  "LastUpdate_Ratings": "2023-10-13T11:02:29.2651162+00:00",
+  "LastUpdate_Achievements": "2023-10-13T11:03:48.1588137+00:00"
 }

@@ -1170,9 +1170,9 @@
       "Count": 201
     }
   ],
-  "EOS_Progressed": 7482,
+  "EOS_Progressed": 7483,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 524,
+  "EOS_NewPlayers": 521,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4035,6 +4035,11 @@
       "Time": "2023-10-13T10:08:08.1582964+00:00",
       "NumProgressed": 7482,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-13T11:08:08.0221793+00:00",
+      "NumProgressed": 7483,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -4063,7 +4068,7 @@
       "Name": "A New Timeline",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 3217
+      "UsersEstimate": 3218
     },
     {
       "ID": "ach04",
@@ -4087,7 +4092,7 @@
       "Name": "Titan",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 5462
+      "UsersEstimate": 5463
     },
     {
       "ID": "ach07",
@@ -4095,7 +4100,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 3965
+      "UsersEstimate": 3966
     },
     {
       "ID": "ach08",
@@ -4111,7 +4116,7 @@
       "Name": "Kontender",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1047
+      "UsersEstimate": 1048
     },
     {
       "ID": "ach10",
@@ -4143,7 +4148,7 @@
       "Name": "Making Friends Is Easy",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1047
+      "UsersEstimate": 1048
     },
     {
       "ID": "ach14",
@@ -4223,7 +4228,7 @@
       "Name": "Take And Deny",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 1945
+      "UsersEstimate": 1946
     },
     {
       "ID": "ach24",
@@ -4263,7 +4268,7 @@
       "Name": "Feeling Stronger",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2394
+      "UsersEstimate": 2395
     },
     {
       "ID": "ach29",
@@ -4311,7 +4316,7 @@
       "Name": "Always Accessorize",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 2319
+      "UsersEstimate": 2320
     },
     {
       "ID": "ach35",
@@ -4343,7 +4348,7 @@
       "Name": "Made It Out Alive",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 3142
+      "UsersEstimate": 3143
     },
     {
       "ID": "ach39",
@@ -4383,7 +4388,7 @@
       "Name": "Working Overtime",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3217
+      "UsersEstimate": 3218
     },
     {
       "ID": "ach44",
@@ -4439,14 +4444,14 @@
       "Name": "Witness Me!!!",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2768
+      "UsersEstimate": 2769
     }
   ],
   "AchievementSets": [
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 7482,
+      "Progressed": 7483,
       "Completed": 0
     }
   ],
@@ -4454,8 +4459,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-10-13T06:58:57.0366046+00:00",
-  "LastChanged_Achievements": "2023-10-13T10:08:08.1582956+00:00",
+  "LastChanged_Achievements": "2023-10-13T11:08:08.0221789+00:00",
   "LastUpdate_AppInfo": "2023-10-07T06:57:30.1408327+00:00",
-  "LastUpdate_Ratings": "2023-10-13T09:59:07.9500551+00:00",
-  "LastUpdate_Achievements": "2023-10-13T10:08:08.1583755+00:00"
+  "LastUpdate_Ratings": "2023-10-13T10:59:03.16229+00:00",
+  "LastUpdate_Achievements": "2023-10-13T11:08:08.0222275+00:00"
 }

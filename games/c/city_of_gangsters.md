@@ -5,19 +5,19 @@ Rating: 4.28 (Ranked 828)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~159,847 |
-| Copacetic Coordination | 16.00% | ~55,599 |
-| Fronting the Money | 15.00% | ~52,124 |
-| The Dawn of Automation | 14.00% | ~48,649 |
-| Extraordinary Logistics | 14.00% | ~48,649 |
-| Dirty Money | 13.00% | ~45,174 |
-| Family First | 13.00% | ~45,174 |
-| Cleaning House | 12.00% | ~41,699 |
-| Room in the Back | 12.00% | ~41,699 |
-| Beating the Heat | 11.00% | ~38,224 |
-| Booze Baron | 11.00% | ~38,224 |
-| Friends on the Force | 10.00% | ~34,749 |
-| Neighborhood Watch | 10.00% | ~34,749 |
+| Corner Clout | 46.00% | ~159,849 |
+| Copacetic Coordination | 16.00% | ~55,600 |
+| Fronting the Money | 15.00% | ~52,125 |
+| The Dawn of Automation | 14.00% | ~48,650 |
+| Extraordinary Logistics | 14.00% | ~48,650 |
+| Dirty Money | 13.00% | ~45,175 |
+| Family First | 13.00% | ~45,175 |
+| Cleaning House | 12.00% | ~41,700 |
+| Room in the Back | 12.00% | ~41,700 |
+| Beating the Heat | 11.00% | ~38,225 |
+| Booze Baron | 11.00% | ~38,225 |
+| Friends on the Force | 10.00% | ~34,750 |
+| Neighborhood Watch | 10.00% | ~34,750 |
 | Core Corps | 8.00% | ~27,800 |
 | Sizeable Stash | 8.00% | ~27,800 |
 | Street Fighter | 7.00% | ~24,325 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 828)
 | High Pillow | 0.10% | ~347 |
 | Station Master | 0.10% | ~347 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 347,494 (Ranked 43)  
+Progressed: 347,498 (Ranked 43)  
 Completed: 7 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,11 +262,11 @@ Completed: 7 (0.00%) (Ranked 314)
 | 2023-10-10 | 347,212 | 7 |
 | 2023-10-11 | 347,320 | 7 |
 | 2023-10-12 | 347,462 | 7 |
-| 2023-10-13 | 347,494 | 7 |
+| 2023-10-13 | 347,498 | 7 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 444)  
-Sum: 176 (Ranked 397)  
-Diff (max vs sum): 47  
+Sum: 176 (Ranked 396)  
+Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 38 |
