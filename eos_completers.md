@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 51.68% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 51.67% |
 | 3 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 47.17% |
 | 5 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.72% |
@@ -43,7 +43,7 @@
 | 41 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.67% |
 | 42 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 42 | [Ravenlok](games/r/ravenlok.md) | 7.69% |
-| 44 | [Sonic Origins](games/s/sonic_origins.md) | 7.68% |
+| 44 | [Sonic Origins](games/s/sonic_origins.md) | 7.66% |
 | 45 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.63% |
 | 46 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.54% |
 | 47 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.41% |
@@ -104,7 +104,7 @@
 | 102 | [Lamentum](games/l/lamentum.md) | 2.47% |
 | 103 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.41% |
 | 104 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.40% |
-| 105 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.38% |
+| 105 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.39% |
 | 106 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.36% |
 | 107 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.33% |
 | 108 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.22% |
@@ -121,7 +121,7 @@
 | 118 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 1.79% |
 | 120 | [Somerville](games/s/somerville.md) | 1.70% |
 | 121 | [Five Dates](games/f/five_dates.md) | 1.62% |
-| 122 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.54% |
+| 122 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.52% |
 | 123 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.49% |
 | 124 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
 | 125 | [Iron Danger](games/i/iron_danger.md) | 1.44% |
@@ -283,18 +283,18 @@
 | 276 | [Tropico 6](games/t/tropico_6.md) | 0.04% |
 | 282 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
 | 282 | [Old World](games/o/old_world.md) | 0.03% |
-| 282 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.03% |
 | 282 | [Session: Skate Sim](games/s/session__skate_sim.md) | 0.03% |
 | 282 | [STAR WARS™ Battlefront™ II: Celebration Edition](games/s/star_wars™_battlefront™_ii__celebration_edition.md) | 0.03% |
-| 287 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.02% |
-| 287 | [Deceive Inc.](games/d/deceive_inc..md) | 0.02% |
-| 287 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
-| 287 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 0.02% |
-| 287 | [Good Company](games/g/good_company.md) | 0.02% |
-| 287 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
-| 287 | [Saturnalia](games/s/saturnalia.md) | 0.02% |
-| 287 | [SYNCED](games/s/synced.md) | 0.02% |
-| 287 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
+| 286 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.02% |
+| 286 | [Deceive Inc.](games/d/deceive_inc..md) | 0.02% |
+| 286 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
+| 286 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 0.02% |
+| 286 | [Good Company](games/g/good_company.md) | 0.02% |
+| 286 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.02% |
+| 286 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
+| 286 | [Saturnalia](games/s/saturnalia.md) | 0.02% |
+| 286 | [SYNCED](games/s/synced.md) | 0.02% |
+| 286 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
 | 296 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 0.01% |
 | 296 | [Arcadegeddon](games/a/arcadegeddon.md) | 0.01% |
 | 296 | [Dead by Daylight](games/d/dead_by_daylight.md) | 0.01% |
