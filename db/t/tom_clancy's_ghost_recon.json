@@ -4,8 +4,8 @@
   "ProductSlug": "ghost-recon",
   "Ranking_EOS_Progress": 669,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 393,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 396,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-03-09T19:00:00+00:00",
     "PcReleaseDate": "2023-03-09T19:00:00+00:00",
@@ -31,6 +31,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-08T21:57:49.6225456+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:13.2756535+00:00",
-  "LastUpdate_Ratings": "2023-10-13T19:01:02.7227064+00:00",
-  "LastUpdate_Achievements": "2023-10-13T19:04:08.4877565+00:00"
+  "LastUpdate_Ratings": "2023-10-13T20:00:33.4066946+00:00",
+  "LastUpdate_Achievements": "2023-10-13T20:03:39.9493946+00:00"
 }

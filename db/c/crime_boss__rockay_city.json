@@ -3,11 +3,11 @@
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 978,
-  "Ranking_Popularity": 205,
+  "Ranking_Popularity": 206,
   "Ranking_PopularitySum": 192,
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -3996,9 +3996,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 89035,
+  "EOS_Progressed": 89039,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 213,
+  "EOS_NewPlayers": 217,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -22041,6 +22041,11 @@
       "Time": "2023-10-13T18:07:09.7601488+00:00",
       "NumProgressed": 89035,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-13T20:07:31.9994179+00:00",
+      "NumProgressed": 89039,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 41,
@@ -22379,13 +22384,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 89035,
+      "Progressed": 89039,
       "Completed": 49
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 17382,
+      "Progressed": 17386,
       "Completed": 15545
     }
   ],
@@ -22393,8 +22398,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-10-13T16:59:38.3196145+00:00",
-  "LastChanged_Achievements": "2023-10-13T19:08:08.1861974+00:00",
+  "LastChanged_Achievements": "2023-10-13T20:07:31.9994173+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:16.9897613+00:00",
-  "LastUpdate_Ratings": "2023-10-13T18:59:01.1700112+00:00",
-  "LastUpdate_Achievements": "2023-10-13T19:08:08.186327+00:00"
+  "LastUpdate_Ratings": "2023-10-13T19:58:41.9873513+00:00",
+  "LastUpdate_Achievements": "2023-10-13T20:07:31.9995531+00:00"
 }

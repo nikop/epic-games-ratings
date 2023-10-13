@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 351,
   "Ranking_EOS_Completed": 137,
   "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -827,9 +827,9 @@
       "ID": "GO_ON_EXPEDITION",
       "SetID": "aniflfk",
       "Name": "Off on an Expedition!",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 50,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -851,9 +851,9 @@
       "ID": "LUNCH_LEECH",
       "SetID": "aniflfk",
       "Name": "Leech Lunch",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "NOT_EAT_BIOMASS_HOUSEWARMING",
@@ -938,8 +938,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-10-13T19:08:21.1699585+00:00",
+  "LastChanged_Achievements": "2023-10-13T20:08:04.0127348+00:00",
   "LastUpdate_AppInfo": "2023-10-11T15:57:05.2435729+00:00",
-  "LastUpdate_Ratings": "2023-10-13T18:58:36.1250558+00:00",
-  "LastUpdate_Achievements": "2023-10-13T19:08:21.1699972+00:00"
+  "LastUpdate_Ratings": "2023-10-13T19:58:15.0331595+00:00",
+  "LastUpdate_Achievements": "2023-10-13T20:08:04.0127526+00:00"
 }

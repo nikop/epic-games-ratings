@@ -4,8 +4,8 @@
   "ProductSlug": "the-bunker-03b712",
   "Ranking_EOS_Progress": 371,
   "Ranking_EOS_Completed": 80,
-  "Ranking_EOS_NewPlayers": 393,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 396,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2016-09-20T17:00:00+00:00",
@@ -396,9 +396,9 @@
       "ID": "PEG_SAM",
       "SetID": "bho0i1h",
       "Name": "Sam",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "PEG_SOLDIER",
@@ -429,8 +429,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.332275+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:47.0734489+00:00",
   "LastChanged": "2023-03-31T05:58:47.3322751+00:00",
-  "LastChanged_Achievements": "2023-10-13T19:07:33.6228917+00:00",
+  "LastChanged_Achievements": "2023-10-13T20:06:59.5357645+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:37.6798431+00:00",
-  "LastUpdate_Ratings": "2023-10-13T19:01:53.6476189+00:00",
-  "LastUpdate_Achievements": "2023-10-13T19:07:33.6229136+00:00"
+  "LastUpdate_Ratings": "2023-10-13T20:01:20.0556379+00:00",
+  "LastUpdate_Achievements": "2023-10-13T20:06:59.5357854+00:00"
 }

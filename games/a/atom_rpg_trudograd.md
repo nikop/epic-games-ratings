@@ -8,8 +8,8 @@ Rating: 4.53 (Ranked 525)
 | Fresh Prince of Trudograd | 87.00% | ~1,088 |
 | Household | 7.00% | ~88 |
 | An Old Friend | 6.00% | ~75 |
-| Lot 49 | 5.00% | ~62 |
-| Viva La Revolution | 5.00% | ~62 |
+| Lot 49 | 5.00% | ~63 |
+| Viva La Revolution | 5.00% | ~63 |
 | Atomic Soda | 4.00% | ~50 |
 | Mysterious Knife | 4.00% | ~50 |
 | Shadow over Trudograd | 4.00% | ~50 |
@@ -18,9 +18,9 @@ Rating: 4.53 (Ranked 525)
 | The Great and Powerful | 3.00% | ~38 |
 | Fight Club | 2.00% | ~25 |
 | Human Antidote | 2.00% | ~25 |
-| Albino Bloodsucker | 1.00% | ~12 |
-| Death of the Author | 1.00% | ~12 |
-| Memoirs of a Nibbler | 1.00% | ~12 |
+| Albino Bloodsucker | 1.00% | ~13 |
+| Death of the Author | 1.00% | ~13 |
+| Memoirs of a Nibbler | 1.00% | ~13 |
 | Rising Star | 0.90% | ~11 |
 | KGB Bunker | 0.80% | ~10 |
 | Sixth Sense | 0.70% | ~9 |
@@ -33,12 +33,12 @@ Rating: 4.53 (Ranked 525)
 | Goose Sacrifice | 0.30% | ~4 |
 | Second Thought | 0.30% | ~4 |
 | Sick Freak | 0.30% | ~4 |
-| Goodbye ATOM | 0.20% | ~2 |
-| Escalation of Conflict | 0.20% | ~2 |
-| Power of Simplicity | 0.20% | ~2 |
-| Terrorist | 0.20% | ~2 |
+| Goodbye ATOM | 0.20% | ~3 |
+| Escalation of Conflict | 0.20% | ~3 |
+| Power of Simplicity | 0.20% | ~3 |
+| Terrorist | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,250 (Ranked 225)  
+Progressed: 1,251 (Ranked 225)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-10-04 | 1,246 | 0 |
 | 2023-10-07 | 1,247 | 0 |
 | 2023-10-08 | 1,249 | 0 |
-| 2023-10-13 | 1,250 | 0 |
+| 2023-10-13 | 1,251 | 0 |
 ## Awards
 Max (Character Customization): 25  (Ranked 501)  
 Sum: 25 (Ranked 508)  

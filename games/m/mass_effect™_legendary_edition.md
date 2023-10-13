@@ -31,14 +31,14 @@
 | Sentinel Ally | 44.00% | ~297 |
 | Missing in Action | 43.00% | ~290 |
 | Very Elusive | 43.00% | ~290 |
-| Head Hunter | 42.00% | ~283 |
+| Head Hunter | 43.00% | ~290 |
 | Operative | 42.00% | ~283 |
 | Veteran | 41.00% | ~276 |
 | Scholar | 41.00% | ~276 |
 | Power Full | 40.00% | ~270 |
 | The Professor | 38.00% | ~256 |
 | Completionist | 37.00% | ~249 |
-| The Archangel | 36.00% | ~243 |
+| The Archangel | 37.00% | ~249 |
 | The Convict | 36.00% | ~243 |
 | The Krogan | 36.00% | ~243 |
 | Archivist | 35.00% | ~236 |
@@ -76,8 +76,8 @@
 | Mobilizer | 27.00% | ~182 |
 | A House Divided | 26.00% | ~175 |
 | Untouchable | 25.00% | ~168 |
+| Eye of the Hurricane | 25.00% | ~168 |
 | Weapon Specialist | 25.00% | ~168 |
-| Eye of the Hurricane | 24.00% | ~162 |
 | Giant Killer | 24.00% | ~162 |
 | World Shaker | 24.00% | ~162 |
 | Liberator | 24.00% | ~162 |

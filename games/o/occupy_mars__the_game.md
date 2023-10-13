@@ -23,8 +23,8 @@ Rating: 3.98 (Ranked 969)
 | ITS crash site | 6.00% | ~100 |
 | DeDust | 5.00% | ~83 |
 | “Aliens” | 4.00% | ~67 |
+| Plumber | 4.00% | ~67 |
 | Hard Landing | 3.00% | ~50 |
-| Plumber | 3.00% | ~50 |
 | To infinity and beyond! | 3.00% | ~50 |
 | Driver's License | 2.00% | ~33 |
 | Explosive Miner | 2.00% | ~33 |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 267,
   "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 134,
-  "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_Completed": 282,
+  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1845,9 +1845,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14646,
+  "EOS_Progressed": 14648,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 215,
+  "EOS_NewPlayers": 216,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13760,6 +13760,11 @@
       "Time": "2023-10-13T19:08:00.9497044+00:00",
       "NumProgressed": 14646,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-13T20:07:25.2018858+00:00",
+      "NumProgressed": 14648,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -14145,9 +14150,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_BRAVE",
       "SetID": "9201eeb",
       "Name": "Drillmaster",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 117
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_BRILLIANT",
@@ -14169,9 +14174,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_CONQUEROR",
       "SetID": "9201eeb",
       "Name": "Conqueror",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 88
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_DESTROYER",
@@ -14665,9 +14670,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_STATESMEN",
       "SetID": "7l38kb8",
       "Name": "Statesmen",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 59
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_TRADERS",
@@ -15177,9 +15182,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_ISHTAR_GATE",
       "SetID": "9201eeb",
       "Name": "Ishtar Gate",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 146
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_LIGHTHOUSE",
@@ -15241,9 +15246,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_VIA_RECTA_SOUK",
       "SetID": "9201eeb",
       "Name": "Via Recta Souk",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 73
     },
     {
       "ID": "ACHIEVEMENT_KNOWLEDGE_ANCIENTS",
@@ -15625,9 +15630,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_ROME",
       "SetID": "7l38kb8",
       "Name": "Roman Paganism",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 132
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_ZOROASTRIANISM",
@@ -15729,9 +15734,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_DUALISM",
       "SetID": "7l38kb8",
       "Name": "Dualism",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 59
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_ENLIGHTENMENT",
@@ -16506,21 +16511,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14646,
+      "Progressed": 14648,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14646,
+      "Progressed": 14648,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-13T13:09:24.1793459+00:00",
-  "LastChanged_Achievements": "2023-10-13T19:08:00.9497037+00:00",
+  "LastChanged_Achievements": "2023-10-13T20:07:25.2018853+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:48.3987129+00:00",
-  "LastUpdate_Ratings": "2023-10-13T19:03:25.1263874+00:00",
-  "LastUpdate_Achievements": "2023-10-13T19:08:00.9512076+00:00"
+  "LastUpdate_Ratings": "2023-10-13T20:03:18.0340227+00:00",
+  "LastUpdate_Achievements": "2023-10-13T20:07:25.2030147+00:00"
 }

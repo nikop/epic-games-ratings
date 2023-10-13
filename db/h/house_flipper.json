@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -1938,9 +1938,9 @@
       "Count": 215
     }
   ],
-  "EOS_Progressed": 20925,
+  "EOS_Progressed": 20926,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -9103,6 +9103,11 @@
       "Time": "2023-10-13T17:10:05.8613675+00:00",
       "NumProgressed": 20925,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-10-13T20:08:35.2219281+00:00",
+      "NumProgressed": 20926,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -9162,7 +9167,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 19879
+      "UsersEstimate": 19880
     },
     {
       "ID": "GameOver",
@@ -9178,7 +9183,7 @@
       "Name": "I\u0027m Belieber",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "JackTarinton",
@@ -9194,7 +9199,7 @@
       "Name": "Mystery",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 2092
+      "UsersEstimate": 2093
     },
     {
       "ID": "JuniorEstateAgent",
@@ -9266,7 +9271,7 @@
       "Name": "Pro-creative",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3766
+      "UsersEstimate": 3767
     },
     {
       "ID": "Strongman",
@@ -9282,7 +9287,7 @@
       "Name": "Artistic soul",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 2092
+      "UsersEstimate": 2093
     },
     {
       "ID": "YouDoItWrong",
@@ -9297,15 +9302,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 20925,
+      "Progressed": 20926,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-10-11T18:00:29.5286227+00:00",
-  "LastChanged_Achievements": "2023-10-13T19:09:04.2574671+00:00",
+  "LastChanged_Achievements": "2023-10-13T20:08:35.2219274+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:30.1878353+00:00",
-  "LastUpdate_Ratings": "2023-10-13T19:01:42.0881312+00:00",
-  "LastUpdate_Achievements": "2023-10-13T19:09:04.2576134+00:00"
+  "LastUpdate_Ratings": "2023-10-13T20:01:05.9510597+00:00",
+  "LastUpdate_Achievements": "2023-10-13T20:08:35.2219922+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -5386,9 +5386,9 @@
       "ID": "A22",
       "SetID": "9b7p7eo",
       "Name": "Brainstorm",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 1310
+      "UsersEstimate": 1331
     },
     {
       "ID": "A23",
@@ -5578,9 +5578,9 @@
       "ID": "A46",
       "SetID": "9b7p7eo",
       "Name": "Mystery Tour",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1371
+      "UsersEstimate": 1391
     },
     {
       "ID": "A47",
@@ -5659,8 +5659,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-10-01T08:59:20.9835547+00:00",
-  "LastChanged_Achievements": "2023-10-13T19:07:17.1285821+00:00",
+  "LastChanged_Achievements": "2023-10-13T20:06:44.106459+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:44.8210559+00:00",
-  "LastUpdate_Ratings": "2023-10-13T19:02:06.1765602+00:00",
-  "LastUpdate_Achievements": "2023-10-13T19:07:17.1286833+00:00"
+  "LastUpdate_Ratings": "2023-10-13T20:01:31.1695194+00:00",
+  "LastUpdate_Achievements": "2023-10-13T20:06:44.1065404+00:00"
 }

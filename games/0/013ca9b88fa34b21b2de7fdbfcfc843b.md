@@ -12,7 +12,7 @@ Rating: 4.64 (Ranked 320)
 | Bramble Breaker | 46.00% | ~3,023 |
 | Miner 49er | 42.00% | ~2,760 |
 | Humble Collector | 41.00% | ~2,695 |
-| Calm Sailing | 35.00% | ~2,300 |
+| Calm Sailing | 36.00% | ~2,366 |
 | Open the Gate! | 32.00% | ~2,103 |
 | Mist Walker | 30.00% | ~1,972 |
 | Lumberjack | 26.00% | ~1,709 |

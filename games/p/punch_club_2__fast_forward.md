@@ -47,9 +47,9 @@
 | Responsible approach | 42.00% | ~140 |
 | Mom got better | 41.00% | ~137 |
 | GYM professional | 41.00% | ~137 |
+| Poisoned fighter | 41.00% | ~137 |
 | Get out of my apartment! | 41.00% | ~137 |
 | The die is cast | 41.00% | ~137 |
-| Poisoned fighter | 40.00% | ~134 |
 | Seashell hunter | 38.00% | ~127 |
 | Gang wrangler | 37.00% | ~124 |
 | Undercover robot | 37.00% | ~124 |

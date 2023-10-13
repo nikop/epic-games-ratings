@@ -13,9 +13,9 @@ Number of Ratings: 46  (23.09.2022)
 | Ravenous | 0.90% | ~1,367 |
 | Silenced Whispers | 0.60% | ~911 |
 | Devourer | 0.60% | ~911 |
-| Harmless | 0.50% | ~759 |
-| Yank | 0.50% | ~759 |
-| Sharpened Vessel | 0.50% | ~759 |
+| Harmless | 0.50% | ~760 |
+| Yank | 0.50% | ~760 |
+| Sharpened Vessel | 0.50% | ~760 |
 | Scion | 0.40% | ~606 |
 | Jawcrab | 0.40% | ~608 |
 | Jawstag | 0.40% | ~608 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~151 |
 | Intensify | 0.10% | ~151 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 151,895 (Ranked 71)  
+Progressed: 151,905 (Ranked 71)  
 Completed: 1 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 1 (0.00%) (Ranked 314)
 | 2023-10-10 | 151,469 | 1 |
 | 2023-10-11 | 151,477 | 1 |
 | 2023-10-12 | 151,679 | 1 |
-| 2023-10-13 | 151,895 | 1 |
+| 2023-10-13 | 151,905 | 1 |
 ## Awards
 Max (Highly Recommended): 44  (Ranked 433)  
 Sum: 283 (Ranked 355)  

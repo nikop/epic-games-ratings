@@ -37,11 +37,11 @@ Rating: 4.45 (Ranked 643)
 | Precision Is Key | 10.00% | ~373 |
 | My Little Friend | 10.00% | ~373 |
 | Rigged to Blow | 8.00% | ~299 |
-| Herr Today, Gone Tomorrow | 6.00% | ~221 |
+| Herr Today, Gone Tomorrow | 7.00% | ~258 |
+| Operation Foxley | 6.00% | ~221 |
 | The Long Game | 5.00% | ~187 |
 | It'll Buff Right Out | 5.00% | ~187 |
 | Don't hold your breath | 5.00% | ~187 |
-| Operation Foxley | 5.00% | ~184 |
 | Strategist | 4.00% | ~149 |
 | Tinkerer | 4.00% | ~149 |
 | Locomotion Commotion | 4.00% | ~149 |

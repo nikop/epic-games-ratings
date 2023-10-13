@@ -6,72 +6,72 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 2.00% | ~18,730 |
-| It wakes | 2.00% | ~18,730 |
-| Medic | 1.00% | ~9,365 |
-| Handyman | 1.00% | ~9,365 |
-| Not half bad | 1.00% | ~9,365 |
-| Apt Survivor | 1.00% | ~9,365 |
-| Survival Treasures | 1.00% | ~9,365 |
-| Skillful | 1.00% | ~9,365 |
-| Sorted | 1.00% | ~9,365 |
-| Resurgence | 1.00% | ~9,365 |
-| Make Some Noise | 1.00% | ~9,365 |
-| The Grand Sacrifice | 0.90% | ~8,429 |
-| No one left behind | 0.90% | ~8,429 |
-| Bloody Millionaire | 0.90% | ~8,429 |
-| I | 0.90% | ~8,429 |
-| Healthy Obsession | 0.90% | ~8,429 |
-| Agonizing Escape | 0.80% | ~7,492 |
-| Backdoor Escape | 0.80% | ~7,492 |
-| Nerves of steel | 0.80% | ~7,492 |
-| Perfect Escape | 0.80% | ~7,492 |
-| Engineer | 0.80% | ~7,492 |
-| Preemptive Strike | 0.80% | ~7,492 |
-| Humanitarian | 0.80% | ~7,492 |
-| I've got your back | 0.70% | ~6,556 |
-| Perfect Killing | 0.70% | ~6,556 |
-| Risk it all | 0.70% | ~6,556 |
-| Wounded Healer | 0.70% | ~6,556 |
-| Close Shave | 0.70% | ~6,556 |
-| Apt Killer | 0.60% | ~5,619 |
-| Vulture | 0.60% | ~5,619 |
-| II | 0.60% | ~5,619 |
-| Second Act | 0.60% | ~5,619 |
+| Zealous | 2.00% | ~18,733 |
+| It wakes | 2.00% | ~18,733 |
+| Skillful | 2.00% | ~18,733 |
+| Medic | 1.00% | ~9,367 |
+| Handyman | 1.00% | ~9,367 |
+| Not half bad | 1.00% | ~9,367 |
+| Apt Survivor | 1.00% | ~9,367 |
+| Survival Treasures | 1.00% | ~9,367 |
+| Sorted | 1.00% | ~9,367 |
+| Resurgence | 1.00% | ~9,367 |
+| Make Some Noise | 1.00% | ~9,367 |
+| The Grand Sacrifice | 0.90% | ~8,430 |
+| No one left behind | 0.90% | ~8,430 |
+| Bloody Millionaire | 0.90% | ~8,430 |
+| I | 0.90% | ~8,430 |
+| Healthy Obsession | 0.90% | ~8,430 |
+| Agonizing Escape | 0.80% | ~7,493 |
+| Backdoor Escape | 0.80% | ~7,493 |
+| Nerves of steel | 0.80% | ~7,493 |
+| Perfect Escape | 0.80% | ~7,493 |
+| Engineer | 0.80% | ~7,493 |
+| Preemptive Strike | 0.80% | ~7,493 |
+| Humanitarian | 0.80% | ~7,493 |
+| I've got your back | 0.70% | ~6,557 |
+| Perfect Killing | 0.70% | ~6,557 |
+| Risk it all | 0.70% | ~6,557 |
+| Wounded Healer | 0.70% | ~6,557 |
+| Close Shave | 0.70% | ~6,557 |
+| Apt Killer | 0.60% | ~5,620 |
+| Vulture | 0.60% | ~5,620 |
+| II | 0.60% | ~5,620 |
+| Second Act | 0.60% | ~5,620 |
 | III | 0.50% | ~4,683 |
 | First to the Punch | 0.50% | ~4,683 |
 | Every Last Drop | 0.50% | ~4,683 |
 | With Scars to Show | 0.50% | ~4,683 |
 | Rebuilding The Borgo | 0.50% | ~4,683 |
-| Blood on your hands | 0.40% | ~3,746 |
-| Escape Artist | 0.40% | ~3,746 |
-| Made it out alive! | 0.40% | ~3,746 |
-| Gifts for the Fog | 0.40% | ~3,746 |
-| III-50 | 0.40% | ~3,746 |
-| All Aboard | 0.40% | ~3,746 |
-| Item of Obsession | 0.40% | ~3,746 |
-| House of Pain | 0.40% | ~3,746 |
-| Holiday Get-Together | 0.40% | ~3,746 |
-| Near-Death Experience | 0.40% | ~3,746 |
-| Cherish your Life | 0.40% | ~3,746 |
-| Unforgettable Getaway | 0.40% | ~3,746 |
-| Cutting Out | 0.40% | ~3,746 |
-| Outrun Evil | 0.40% | ~3,746 |
-| Operation: Survival | 0.40% | ~3,746 |
-| Old West Oasis | 0.40% | ~3,746 |
-| Classy Act | 0.40% | ~3,746 |
-| Raccoon City Recruit | 0.40% | ~3,746 |
-| Flight to Freedom | 0.40% | ~3,746 |
-| A Fast Death | 0.40% | ~3,746 |
-| Lifting The Fog | 0.40% | ~3,746 |
-| Chorus of Chaos | 0.40% | ~3,746 |
-| One More Step | 0.40% | ~3,746 |
-| MU/TH/UR Dearest | 0.40% | ~3,746 |
+| Blood on your hands | 0.40% | ~3,747 |
+| Escape Artist | 0.40% | ~3,747 |
+| Made it out alive! | 0.40% | ~3,747 |
+| Gifts for the Fog | 0.40% | ~3,747 |
+| III-50 | 0.40% | ~3,747 |
+| Shock Therapy | 0.40% | ~3,747 |
+| All Aboard | 0.40% | ~3,747 |
+| Item of Obsession | 0.40% | ~3,747 |
+| House of Pain | 0.40% | ~3,747 |
+| Holiday Get-Together | 0.40% | ~3,747 |
+| Near-Death Experience | 0.40% | ~3,747 |
+| Cherish your Life | 0.40% | ~3,747 |
+| Unforgettable Getaway | 0.40% | ~3,747 |
+| Cutting Out | 0.40% | ~3,747 |
+| Outrun Evil | 0.40% | ~3,747 |
+| Operation: Survival | 0.40% | ~3,747 |
+| Old West Oasis | 0.40% | ~3,747 |
+| Classy Act | 0.40% | ~3,747 |
+| Raccoon City Recruit | 0.40% | ~3,747 |
+| Flight to Freedom | 0.40% | ~3,747 |
+| A Fast Death | 0.40% | ~3,747 |
+| Lifting The Fog | 0.40% | ~3,747 |
+| Chorus of Chaos | 0.40% | ~3,747 |
+| One More Step | 0.40% | ~3,747 |
+| MU/TH/UR Dearest | 0.40% | ~3,747 |
 | A bite for the Entity | 0.30% | ~2,810 |
 | Blood on your face | 0.30% | ~2,810 |
 | Jump Scares | 0.30% | ~2,810 |
 | Hemophobia | 0.30% | ~2,810 |
-| Shock Therapy | 0.30% | ~2,810 |
 | Leapfrog | 0.30% | ~2,810 |
 | Cottage Owner | 0.30% | ~2,810 |
 | Serial Killer | 0.30% | ~2,810 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~937 |
 | Adept Ripley | 0.10% | ~937 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 936,516 (Ranked 14)  
+Progressed: 936,662 (Ranked 14)  
 Completed: 50 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -412,10 +412,10 @@ Completed: 50 (0.01%) (Ranked 296)
 | 2023-10-10 | 931,511 | 49 |
 | 2023-10-11 | 933,163 | 49 |
 | 2023-10-12 | 934,954 | 50 |
-| 2023-10-13 | 936,516 | 50 |
+| 2023-10-13 | 936,662 | 50 |
 ## Awards
 Max (Diverse Characters): 33,824  (Ranked 15)  
-Sum: 261,956 (Ranked 13)  
+Sum: 261,989 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -426,7 +426,7 @@ Diff (max vs sum): 2
 | This game is Extremely Fun | 29,264 |
 | This game has Challenging Combat | 28,824 |
 | This game has Quickly Understood Controls | 28,728 |
-| This game has Amazing Storytelling | 26,843 |
+| This game has Amazing Storytelling | 26,876 |
 | This game has a Competitive Community | 25,360 |
 | This game has Obsessive Gameplay | 16,768 |
 | This game is Great for Quick Sessions | 4,888 |
@@ -695,4 +695,4 @@ Diff (max vs sum): 2
 | 2023-10-10 | 4.51 | - | 33,667 | 261,003 |
 | 2023-10-11 | 4.51 | - | 33,734 | 261,382 |
 | 2023-10-12 | 4.51 | - | 33,781 | 261,674 |
-| 2023-10-13 | 4.51 | - | 33,824 | 261,956 |
+| 2023-10-13 | 4.51 | - | 33,824 | 261,989 |

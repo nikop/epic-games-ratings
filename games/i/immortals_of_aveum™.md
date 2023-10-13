@@ -1,17 +1,17 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.03 (Ranked 960)  
+Rating: 4.05 (Ranked 956)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Unforeseen | 91.00% | ~78 |
 | Battlefields Have Memories | 91.00% | ~78 |
 | Enlisted | 90.00% | ~77 |
-| Maybe Engage a Little | 83.00% | ~71 |
+| Maybe Engage a Little | 84.00% | ~72 |
 | No More Names | 70.00% | ~60 |
 | Initiate | 60.00% | ~52 |
-| Thrada-Kul | 55.00% | ~47 |
+| Thrada-Kul | 56.00% | ~48 |
 | Gravity-Challenged Rocks | 47.00% | ~40 |
 | Soldier | 41.00% | ~35 |
 | All the Major Food Groups | 40.00% | ~34 |
@@ -47,11 +47,11 @@ Rating: 4.03 (Ranked 960)
 | Tip of the Spear | 2.00% | ~2 |
 | Backtracker | 2.00% | ~2 |
 | Witch-Taker | 1.00% | ~1 |
+| Fowl Play | 1.00% | ~1 |
 | Family Business | 0.00% | ~0 |
 | Diplomat | 0.00% | ~0 |
 | Petite Bourgeoisie | 0.00% | ~0 |
 | Out of Time | 0.00% | ~0 |
-| Fowl Play | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 86 (Ranked 400)  
 Completed: 0 (0.00%) (Ranked 314)  
@@ -92,3 +92,4 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-09-12 | 3.97 | 0 | 0 |
 | 2023-09-24 | 4.00 | 0 | 0 |
 | 2023-10-03 | 4.03 | 0 | 0 |
+| 2023-10-13 | 4.05 | 0 | 0 |

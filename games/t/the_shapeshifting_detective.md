@@ -8,8 +8,8 @@
 | Strong Silent Type | 90.00% | ~183 |
 | Play Me By The Hour | 68.00% | ~138 |
 | Patient Listener | 46.00% | ~93 |
+| Hashtag Winning | 38.00% | ~77 |
 | Video Saved The Radio Star | 38.00% | ~77 |
-| Hashtag Winning | 37.00% | ~75 |
 | A Woman Scorned | 25.00% | ~51 |
 | Chameleon | 22.00% | ~45 |
 | Highlander | 20.00% | ~41 |

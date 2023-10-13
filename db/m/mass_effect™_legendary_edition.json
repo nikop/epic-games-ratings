@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -1682,9 +1682,9 @@
       "ID": "achievement_107",
       "SetID": "d252ncf",
       "Name": "Eye of the Hurricane",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 168
     },
     {
       "ID": "achievement_108",
@@ -2138,9 +2138,9 @@
       "ID": "achievement_44",
       "SetID": "d252ncf",
       "Name": "The Archangel",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 243
+      "UsersEstimate": 249
     },
     {
       "ID": "achievement_45",
@@ -2298,9 +2298,9 @@
       "ID": "achievement_62",
       "SetID": "d252ncf",
       "Name": "Head Hunter",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 283
+      "UsersEstimate": 290
     },
     {
       "ID": "achievement_63",
@@ -2638,8 +2638,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-13T19:04:22.1986755+00:00",
+  "LastChanged_Achievements": "2023-10-13T20:03:52.6478699+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:40.7255751+00:00",
-  "LastUpdate_Ratings": "2023-10-13T19:00:16.4516376+00:00",
-  "LastUpdate_Achievements": "2023-10-13T19:04:22.1988762+00:00"
+  "LastUpdate_Ratings": "2023-10-13T19:59:52.5590034+00:00",
+  "LastUpdate_Achievements": "2023-10-13T20:03:52.6481169+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -2148,9 +2148,9 @@
       "ID": "ACH_TIP_EARNED",
       "SetID": "7k95e4n",
       "Name": "Excellent service",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 526
+      "UsersEstimate": 536
     },
     {
       "ID": "ACH_WALLET_RETURNED",
@@ -2173,8 +2173,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-10-08T18:57:13.8694552+00:00",
-  "LastChanged_Achievements": "2023-10-13T19:08:46.2464028+00:00",
+  "LastChanged_Achievements": "2023-10-13T20:08:27.8608156+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:10.5874811+00:00",
-  "LastUpdate_Ratings": "2023-10-13T19:00:37.7311062+00:00",
-  "LastUpdate_Achievements": "2023-10-13T19:08:46.2464548+00:00"
+  "LastUpdate_Ratings": "2023-10-13T20:00:11.8687759+00:00",
+  "LastUpdate_Achievements": "2023-10-13T20:08:27.8608465+00:00"
 }

@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | New Recruit | 90.00% | ~554 |
-| Off to a good start | 67.00% | ~412 |
-| Do... or do not. There is no try | 53.00% | ~326 |
+| Off to a good start | 67.00% | ~413 |
+| Do... or do not. There is no try | 54.00% | ~333 |
 | A good blaster at your side | 34.00% | ~209 |
 | Scrap collector | 21.00% | ~129 |
 | I suggest a new strategy | 20.00% | ~123 |
@@ -14,14 +14,14 @@
 | All right, I'll give it a try | 18.00% | ~111 |
 | Shoot first | 18.00% | ~111 |
 | The power of the Force | 17.00% | ~105 |
-| Collector | 16.00% | ~98 |
-| Together we can rule the galaxy | 16.00% | ~98 |
+| Collector | 16.00% | ~99 |
+| Together we can rule the galaxy | 16.00% | ~99 |
 | Tell Jabba that I've got his money | 12.00% | ~74 |
 | Best star-pilot in the galaxy | 12.00% | ~74 |
 | Survivor | 12.00% | ~74 |
+| What's the cargo? | 10.00% | ~62 |
 | Never tell me the odds! | 10.00% | ~62 |
 | A cunning warrior | 10.00% | ~62 |
-| What's the cargo? | 9.00% | ~55 |
 | Impressive. Most impressive. | 9.00% | ~55 |
 | Judge me by my size, do you? | 9.00% | ~55 |
 | "Gonk? Gonk!" | 8.00% | ~49 |
@@ -57,8 +57,8 @@
 | No such thing as luck | 1.00% | ~6 |
 | Do we take prisoners? | 1.00% | ~6 |
 | I’ll take that bet | 1.00% | ~6 |
-| in a galaxy far, far away.... | 0.70% | ~4 |
-| Walker defender | 0.70% | ~4 |
+| in a galaxy far, far away.... | 0.60% | ~4 |
+| Walker defender | 0.60% | ~4 |
 | That got him! | 0.50% | ~3 |
 | Stay on target | 0.50% | ~3 |
 | Don't get cocky | 0.50% | ~3 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.30% | ~2 |
 | Crush them with one swift stroke… | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 615 (Ranked 261)  
+Progressed: 616 (Ranked 261)  
 Completed: 1 (0.16%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 1 (0.16%) (Ranked 231)
 | 2023-10-10 | 572 | 1 |
 | 2023-10-11 | 589 | 1 |
 | 2023-10-12 | 603 | 1 |
-| 2023-10-13 | 615 | 1 |
+| 2023-10-13 | 616 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

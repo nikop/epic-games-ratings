@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 508,
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 289,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-11-07T12:00:00+00:00",
     "PcReleaseDate": "2022-11-07T12:00:00+00:00",
@@ -225,9 +225,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 1250,
+  "EOS_Progressed": 1251,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1475,6 +1475,11 @@
       "Time": "2023-10-13T11:08:33.6041324+00:00",
       "NumProgressed": 1250,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-13T20:08:41.8462187+00:00",
+      "NumProgressed": 1251,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -1494,7 +1499,7 @@
       "Name": "Albino Bloodsucker",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ATOM_KVAS",
@@ -1510,7 +1515,7 @@
       "Name": "Goodbye ATOM",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "BRONZOVKA",
@@ -1542,7 +1547,7 @@
       "Name": "Death of the Author",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ESCALATION_OF_CONFLICT",
@@ -1550,7 +1555,7 @@
       "Name": "Escalation of Conflict",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "FIGHT_CLUB",
@@ -1614,7 +1619,7 @@
       "Name": "Lot 49",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "LUCKY_GOOSE",
@@ -1630,7 +1635,7 @@
       "Name": "Memoirs of a Nibbler",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "MYST_KNIFE",
@@ -1662,7 +1667,7 @@
       "Name": "Power of Simplicity",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "RISING_STAR",
@@ -1710,7 +1715,7 @@
       "Name": "Terrorist",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "VIVA_LA_REVOLUTION",
@@ -1718,7 +1723,7 @@
       "Name": "Viva La Revolution",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "WALKING_FORTRESS",
@@ -1741,7 +1746,7 @@
     {
       "ID": "62d2oh4",
       "IsBase": true,
-      "Progressed": 1250,
+      "Progressed": 1251,
       "Completed": 0
     }
   ],
@@ -1749,8 +1754,8 @@
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "LastChanged": "2023-08-27T19:59:37.9265528+00:00",
-  "LastChanged_Achievements": "2023-10-13T19:09:11.3143167+00:00",
+  "LastChanged_Achievements": "2023-10-13T20:08:41.8462179+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:09.1816772+00:00",
-  "LastUpdate_Ratings": "2023-10-13T19:03:24.0035701+00:00",
-  "LastUpdate_Achievements": "2023-10-13T19:09:11.3143489+00:00"
+  "LastUpdate_Ratings": "2023-10-13T20:03:16.9991849+00:00",
+  "LastUpdate_Achievements": "2023-10-13T20:08:41.8462498+00:00"
 }

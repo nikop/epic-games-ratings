@@ -23,11 +23,11 @@
 | Is It the Right Size? | 7.00% | ~102 |
 | Evangelist | 6.00% | ~87 |
 | Make It Your Own! | 5.00% | ~73 |
+| The Road to Liberty | 4.00% | ~58 |
 | I Make the Rules! | 4.00% | ~58 |
 | Spoilt for Choice | 3.00% | ~44 |
 | Cherry Blossom and Temples | 3.00% | ~44 |
 | La Dolce Vita | 3.00% | ~44 |
-| The Road to Liberty | 3.00% | ~44 |
 | Romantic Races | 3.00% | ~44 |
 | Still Here | 3.00% | ~44 |
 | Iconic! | 2.00% | ~29 |
