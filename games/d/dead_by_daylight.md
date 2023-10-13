@@ -6,7 +6,7 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 2.00% | ~18,708 |
+| It wakes | 2.00% | ~18,709 |
 | Handyman | 1.00% | ~9,354 |
 | Zealous | 1.00% | ~9,354 |
 | Not half bad | 1.00% | ~9,354 |
@@ -15,10 +15,10 @@ Number of Ratings: 70,340  (23.09.2022)
 | Skillful | 1.00% | ~9,354 |
 | Sorted | 1.00% | ~9,354 |
 | Make Some Noise | 1.00% | ~9,354 |
-| No one left behind | 0.90% | ~8,418 |
-| Medic | 0.90% | ~8,418 |
-| Healthy Obsession | 0.90% | ~8,418 |
-| Resurgence | 0.90% | ~8,418 |
+| No one left behind | 0.90% | ~8,419 |
+| Medic | 0.90% | ~8,419 |
+| Healthy Obsession | 0.90% | ~8,419 |
+| Resurgence | 0.90% | ~8,419 |
 | The Grand Sacrifice | 0.80% | ~7,483 |
 | Nerves of steel | 0.80% | ~7,483 |
 | Perfect Escape | 0.80% | ~7,483 |
@@ -32,15 +32,15 @@ Number of Ratings: 70,340  (23.09.2022)
 | I've got your back | 0.70% | ~6,548 |
 | Perfect Killing | 0.70% | ~6,548 |
 | Close Shave | 0.70% | ~6,548 |
-| Apt Killer | 0.60% | ~5,612 |
-| Risk it all | 0.60% | ~5,612 |
-| II | 0.60% | ~5,612 |
-| Wounded Healer | 0.60% | ~5,612 |
+| Apt Killer | 0.60% | ~5,613 |
+| Risk it all | 0.60% | ~5,613 |
+| II | 0.60% | ~5,613 |
+| Wounded Healer | 0.60% | ~5,613 |
+| Second Act | 0.60% | ~5,613 |
 | Vulture | 0.50% | ~4,677 |
 | III | 0.50% | ~4,677 |
 | First to the Punch | 0.50% | ~4,677 |
 | With Scars to Show | 0.50% | ~4,677 |
-| Second Act | 0.50% | ~4,677 |
 | Blood on your hands | 0.40% | ~3,742 |
 | Escape Artist | 0.40% | ~3,742 |
 | Made it out alive! | 0.40% | ~3,742 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~935 |
 | Adept Ripley | 0.10% | ~935 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 935,382 (Ranked 14)  
+Progressed: 935,428 (Ranked 14)  
 Completed: 50 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -412,7 +412,7 @@ Completed: 50 (0.01%) (Ranked 296)
 | 2023-10-10 | 931,511 | 49 |
 | 2023-10-11 | 933,163 | 49 |
 | 2023-10-12 | 934,954 | 50 |
-| 2023-10-13 | 935,382 | 50 |
+| 2023-10-13 | 935,428 | 50 |
 ## Awards
 Max (Diverse Characters): 33,824  (Ranked 15)  
 Sum: 261,717 (Ranked 13)  

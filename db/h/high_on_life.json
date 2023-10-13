@@ -286,7 +286,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24200,
+  "EOS_Progressed": 24201,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
@@ -5501,6 +5501,11 @@
       "Time": "2023-10-12T23:04:53.2977295+00:00",
       "NumProgressed": 24200,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-10-13T07:05:18.6233628+00:00",
+      "NumProgressed": 24201,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 44,
@@ -5694,9 +5699,9 @@
       "ID": "ACH_KILL_SLUMSLEY",
       "SetID": "cdkbb11",
       "Name": "Fallout Doesn\u0027t Let You Do This",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 97
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -5863,13 +5868,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24200,
+      "Progressed": 24201,
       "Completed": 13
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1493,
+      "Progressed": 1494,
       "Completed": 1373
     }
   ],
@@ -5877,8 +5882,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-07T05:03:09.4311759+00:00",
-  "LastChanged_Achievements": "2023-10-13T06:04:20.9147791+00:00",
+  "LastChanged_Achievements": "2023-10-13T07:05:18.623362+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:51.1168375+00:00",
-  "LastUpdate_Ratings": "2023-10-13T05:59:21.8554444+00:00",
-  "LastUpdate_Achievements": "2023-10-13T06:04:20.9148547+00:00"
+  "LastUpdate_Ratings": "2023-10-13T07:00:29.9041232+00:00",
+  "LastUpdate_Achievements": "2023-10-13T07:05:18.6234871+00:00"
 }

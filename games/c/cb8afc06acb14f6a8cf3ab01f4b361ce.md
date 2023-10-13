@@ -5,30 +5,30 @@ Rating: 4.16 (Ranked 908)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The touch of Chaos | 37.00% | ~98,121 |
-| May the Torchbearer light our way | 35.00% | ~92,817 |
-| A powerful aura was here | 23.00% | ~60,994 |
-| Let's raise the stakes!! | 10.00% | ~26,519 |
-| Rumors are true | 5.00% | ~13,260 |
-| Pride is a sin, young Knight | 5.00% | ~13,260 |
-| Your wounds… They are healing so fast! | 5.00% | ~13,260 |
-| We'll be careful | 4.00% | ~10,608 |
-| Bring it on! | 4.00% | ~10,608 |
-| Back to your senses | 3.00% | ~7,956 |
-| They tricked me | 2.00% | ~5,304 |
-| We need to talk | 2.00% | ~5,304 |
-| They won't last long | 2.00% | ~5,304 |
-| I feel drawn to it | 1.00% | ~2,652 |
-| I took a risk | 1.00% | ~2,652 |
+| The touch of Chaos | 37.00% | ~98,148 |
+| May the Torchbearer light our way | 35.00% | ~92,843 |
+| A powerful aura was here | 23.00% | ~61,011 |
+| Let's raise the stakes!! | 10.00% | ~26,527 |
+| Rumors are true | 5.00% | ~13,263 |
+| Pride is a sin, young Knight | 5.00% | ~13,263 |
+| Your wounds… They are healing so fast! | 5.00% | ~13,263 |
+| We'll be careful | 4.00% | ~10,611 |
+| Bring it on! | 4.00% | ~10,611 |
+| Back to your senses | 3.00% | ~7,958 |
+| They tricked me | 2.00% | ~5,305 |
+| We need to talk | 2.00% | ~5,305 |
+| They won't last long | 2.00% | ~5,305 |
+| I feel drawn to it | 1.00% | ~2,653 |
+| I took a risk | 1.00% | ~2,653 |
 | Here to stay | 0.90% | ~2,387 |
 | Their fate is sealed | 0.90% | ~2,387 |
 | Counting on you | 0.80% | ~2,122 |
 | This is the end | 0.80% | ~2,122 |
-| We can choose to fight | 0.70% | ~1,856 |
+| We can choose to fight | 0.70% | ~1,857 |
 | You want more? I've got more! | 0.50% | ~1,326 |
 | Not even from this world | 0.40% | ~1,061 |
-| No damsels in distress | 0.20% | ~530 |
-| The Ashen Knight | 0.20% | ~530 |
+| No damsels in distress | 0.20% | ~531 |
+| The Ashen Knight | 0.20% | ~531 |
 | The immortal is bound to reborn | 0.10% | ~265 |
 | A legend among Chimeras | 0.10% | ~265 |
 | It's only pain | 0.10% | ~265 |
@@ -46,7 +46,7 @@ Rating: 4.16 (Ranked 908)
 | We strike as one | 0.10% | ~265 |
 | Chaos be damned! | 0.10% | ~265 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 265,192 (Ranked 50)  
+Progressed: 265,266 (Ranked 50)  
 Completed: 1 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,11 +66,11 @@ Completed: 1 (0.00%) (Ranked 314)
 | 2023-10-10 | 258,836 | 1 |
 | 2023-10-11 | 261,607 | 1 |
 | 2023-10-12 | 264,434 | 1 |
-| 2023-10-13 | 265,192 | 1 |
+| 2023-10-13 | 265,266 | 1 |
 ## Awards
-Max (Great Boss Battles): 25  (Ranked 500)  
+Max (Great Boss Battles): 25  (Ranked 501)  
 Sum: 25 (Ranked 508)  
-Diff (max vs sum): -8  
+Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 41 |

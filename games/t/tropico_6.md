@@ -226,7 +226,7 @@ Completed: 2 (0.04%) (Ranked 276)
 | 2023-10-13 | 5,533 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 100  (Ranked 347)  
-Sum: 706 (Ranked 284)  
+Sum: 707 (Ranked 284)  
 Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
@@ -234,7 +234,7 @@ Diff (max vs sum): 63
 | This game has Quickly Understood Controls | 100 |
 | This game is Highly Recommended | 97 |
 | This game is Relaxing | 93 |
-| This game has Amazing Storytelling | 91 |
+| This game has Amazing Storytelling | 92 |
 | This game is Extremely Fun | 87 |
 | This game has Amazing Characters | 87 |
 | This game is Educational | 86 |
@@ -389,3 +389,4 @@ Diff (max vs sum): 63
 | 2023-10-09 | 4.65 | - | 99 | 702 |
 | 2023-10-11 | 4.65 | - | 99 | 703 |
 | 2023-10-12 | 4.65 | - | 100 | 706 |
+| 2023-10-13 | 4.65 | - | 100 | 707 |

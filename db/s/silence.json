@@ -4,7 +4,7 @@
   "ProductSlug": "silence-57bc4e",
   "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewPlayers": 285,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -541,9 +541,9 @@
       "ID": "3003_achv_allKyraTexts",
       "SetID": "dhn82m5",
       "Name": "Shut up clown!",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "3003_achv_useAllCandlesWithAllObjects",
@@ -638,8 +638,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-10-13T06:04:44.4699672+00:00",
+  "LastChanged_Achievements": "2023-10-13T07:05:53.5152039+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:56.7643629+00:00",
-  "LastUpdate_Ratings": "2023-10-13T06:02:13.8333777+00:00",
-  "LastUpdate_Achievements": "2023-10-13T06:04:44.470013+00:00"
+  "LastUpdate_Ratings": "2023-10-13T07:02:37.2481886+00:00",
+  "LastUpdate_Achievements": "2023-10-13T07:05:53.5152624+00:00"
 }

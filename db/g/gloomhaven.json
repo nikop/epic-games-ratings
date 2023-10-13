@@ -2096,9 +2096,9 @@
       "Count": 211
     }
   ],
-  "EOS_Progressed": 12728,
+  "EOS_Progressed": 12731,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2124,
+  "EOS_NewPlayers": 2125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5071,6 +5071,11 @@
       "Time": "2023-10-13T06:08:04.3405715+00:00",
       "NumProgressed": 12728,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-13T07:08:45.9694616+00:00",
+      "NumProgressed": 12731,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -5083,7 +5088,7 @@
       "Name": "Power Up!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "Achievement_Trophy02",
@@ -5251,7 +5256,7 @@
       "Name": "Precious!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 2036
+      "UsersEstimate": 2037
     },
     {
       "ID": "Achievement_Trophy23",
@@ -5267,7 +5272,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 5600
+      "UsersEstimate": 5602
     },
     {
       "ID": "Achievement_Trophy25",
@@ -5283,7 +5288,7 @@
       "Name": "Overkill",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 4328
+      "UsersEstimate": 4329
     },
     {
       "ID": "Achievement_Trophy27",
@@ -5299,7 +5304,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 4200
+      "UsersEstimate": 4201
     },
     {
       "ID": "Achievement_Trophy29",
@@ -5315,7 +5320,7 @@
       "Name": "Spread the plague",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 3946
+      "UsersEstimate": 3947
     },
     {
       "ID": "Achievement_Trophy31",
@@ -5323,7 +5328,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 4455
+      "UsersEstimate": 4456
     },
     {
       "ID": "Achievement_Trophy32",
@@ -5355,7 +5360,7 @@
       "Name": "The Pro from Dover",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "Achievement_Trophy36",
@@ -5363,7 +5368,7 @@
       "Name": "Pretty lights!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "Achievement_Trophy37",
@@ -5387,7 +5392,7 @@
       "Name": "Just when I thought I was out...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2418
+      "UsersEstimate": 2419
     },
     {
       "ID": "Achievement_Trophy40",
@@ -5419,7 +5424,7 @@
       "Name": "Light of my life",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 1909
+      "UsersEstimate": 1910
     },
     {
       "ID": "Achievement_Trophy44",
@@ -5435,7 +5440,7 @@
       "Name": "Now you see me...",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "Achievement_Trophy46",
@@ -5459,7 +5464,7 @@
       "Name": "Doom and gloom",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 1527
+      "UsersEstimate": 1528
     },
     {
       "ID": "Achievement_Trophy49",
@@ -5467,7 +5472,7 @@
       "Name": "Anatomy Lesson",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 1909
+      "UsersEstimate": 1910
     },
     {
       "ID": "Achievement_Trophy50",
@@ -5570,7 +5575,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 12728,
+      "Progressed": 12731,
       "Completed": 1
     }
   ],
@@ -5578,8 +5583,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-10-13T02:59:21.910975+00:00",
-  "LastChanged_Achievements": "2023-10-13T06:08:04.3405711+00:00",
+  "LastChanged_Achievements": "2023-10-13T07:08:45.9694606+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:04.4779784+00:00",
-  "LastUpdate_Ratings": "2023-10-13T05:58:31.9130037+00:00",
-  "LastUpdate_Achievements": "2023-10-13T06:08:04.3406514+00:00"
+  "LastUpdate_Ratings": "2023-10-13T06:59:13.898569+00:00",
+  "LastUpdate_Achievements": "2023-10-13T07:08:45.9696322+00:00"
 }

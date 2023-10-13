@@ -10,11 +10,11 @@ Number of Ratings: 8,414  (23.09.2022)
 | Until death do us apart | 4.00% | ~17,165 |
 | That is mine! | 3.00% | ~12,874 |
 | Victorious! | 3.00% | ~12,874 |
-| Brothers in Arms | 2.00% | ~8,582 |
-| Cold War | 2.00% | ~8,582 |
-| For the Glory | 2.00% | ~8,582 |
-| That's a Grand Navy | 2.00% | ~8,582 |
-| Seriously?! | 2.00% | ~8,582 |
+| Brothers in Arms | 2.00% | ~8,583 |
+| Cold War | 2.00% | ~8,583 |
+| For the Glory | 2.00% | ~8,583 |
+| That's a Grand Navy | 2.00% | ~8,583 |
+| Seriously?! | 2.00% | ~8,583 |
 | Defender of the Faith | 1.00% | ~4,291 |
 | It's all about the money | 1.00% | ~4,291 |
 | Respected | 1.00% | ~4,291 |
@@ -32,12 +32,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | City of Cities | 0.50% | ~2,146 |
 | Combined Arms | 0.50% | ~2,146 |
 | This navy can take it all | 0.50% | ~2,146 |
-| Bright Spark | 0.40% | ~1,716 |
-| Factionalism | 0.40% | ~1,716 |
-| Gentle Persuasion | 0.40% | ~1,716 |
-| Isn't this the way to India? | 0.40% | ~1,716 |
-| Queen of Conquest | 0.40% | ~1,716 |
-| The Five Colonies | 0.40% | ~1,716 |
+| Bright Spark | 0.40% | ~1,717 |
+| Factionalism | 0.40% | ~1,717 |
+| Gentle Persuasion | 0.40% | ~1,717 |
+| Isn't this the way to India? | 0.40% | ~1,717 |
+| Queen of Conquest | 0.40% | ~1,717 |
+| The Five Colonies | 0.40% | ~1,717 |
 | All That's Thine Shall Be Mine | 0.30% | ~1,287 |
 | Down Under | 0.30% | ~1,287 |
 | The Emperors new clothes | 0.30% | ~1,287 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 429,118 (Ranked 40)  
+Progressed: 429,136 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -537,10 +537,10 @@ Completed: 1 (0.00%) (Ranked 314)
 | 2023-10-10 | 427,588 | 1 |
 | 2023-10-11 | 428,261 | 1 |
 | 2023-10-12 | 429,009 | 1 |
-| 2023-10-13 | 429,118 | 1 |
+| 2023-10-13 | 429,136 | 1 |
 ## Awards
 Max (Educational): 6,494  (Ranked 55)  
-Sum: 53,363 (Ranked 25)  
+Sum: 53,375 (Ranked 25)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -551,7 +551,7 @@ Diff (max vs sum): 30
 | This game is Extremely Fun | 6,121 |
 | This game is Relaxing | 5,997 |
 | This game has Competitive Players | 5,822 |
-| This game has Amazing Storytelling | 5,420 |
+| This game has Amazing Storytelling | 5,432 |
 | This game has Amazing Characters | 5,027 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
@@ -826,4 +826,4 @@ Diff (max vs sum): 30
 | 2023-10-10 | 4.69 | - | 6,464 | 53,176 |
 | 2023-10-11 | 4.69 | - | 6,479 | 53,243 |
 | 2023-10-12 | 4.69 | - | 6,494 | 53,343 |
-| 2023-10-13 | 4.69 | - | 6,494 | 53,363 |
+| 2023-10-13 | 4.69 | - | 6,494 | 53,375 |

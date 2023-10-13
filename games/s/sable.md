@@ -12,7 +12,7 @@ Number of Ratings: 43  (23.09.2022)
 | Under The Hood | 25.00% | ~23,453 |
 | Got Your Nose | 24.00% | ~22,515 |
 | The Gift of Gab | 24.00% | ~22,515 |
-| Wrapping Up | 22.00% | ~20,638 |
+| Wrapping Up | 22.00% | ~20,639 |
 | More Than A Box Of Sand | 18.00% | ~16,886 |
 | The Dunboyne | 17.00% | ~15,948 |
 | Badge Hobbyist | 17.00% | ~15,948 |
@@ -22,12 +22,12 @@ Number of Ratings: 43  (23.09.2022)
 | Bubble Up | 16.00% | ~15,010 |
 | Thread The Needle | 15.00% | ~14,072 |
 | Power to the People | 14.00% | ~13,134 |
-| Take That! | 13.00% | ~12,195 |
-| Nesting Giant | 13.00% | ~12,195 |
-| Treasure Tracker | 13.00% | ~12,195 |
-| Big Spender | 13.00% | ~12,195 |
-| Badge Collector | 12.00% | ~11,257 |
-| Quite The Catch | 12.00% | ~11,257 |
+| Take That! | 13.00% | ~12,196 |
+| Nesting Giant | 13.00% | ~12,196 |
+| Treasure Tracker | 13.00% | ~12,196 |
+| Big Spender | 13.00% | ~12,196 |
+| Badge Collector | 12.00% | ~11,258 |
+| Quite The Catch | 12.00% | ~11,258 |
 | Rowleys Way | 11.00% | ~10,319 |
 | The Machinist Mask | 10.00% | ~9,381 |
 | The Cartographer Mask | 10.00% | ~9,381 |
@@ -56,14 +56,14 @@ Number of Ratings: 43  (23.09.2022)
 | Bikes Don't Fly | 6.00% | ~5,629 |
 | The Gliding | 5.00% | ~4,691 |
 | The Entertainer Mask | 5.00% | ~4,691 |
-| The Quick and the Curious | 4.00% | ~3,752 |
-| Bike Aficionado | 4.00% | ~3,752 |
+| The Quick and the Curious | 4.00% | ~3,753 |
+| Bike Aficionado | 4.00% | ~3,753 |
 | Chum Expert | 3.00% | ~2,814 |
 | Gastric Bypass | 3.00% | ~2,814 |
 | The Angler Mask | 3.00% | ~2,814 |
 | Vivacious Vivarium | 2.00% | ~1,876 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 93,811 (Ranked 80)  
+Progressed: 93,813 (Ranked 80)  
 Completed: 943 (1.01%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,10 +239,10 @@ Completed: 943 (1.01%) (Ranked 145)
 | 2023-10-10 | 93,517 | 939 |
 | 2023-10-11 | 93,639 | 941 |
 | 2023-10-12 | 93,785 | 943 |
-| 2023-10-13 | 93,811 | 943 |
+| 2023-10-13 | 93,813 | 943 |
 ## Awards
-Max (Quickly Understood Controls): 24  (Ranked 505)  
-Sum: 88 (Ranked 437)  
+Max (Quickly Understood Controls): 24  (Ranked 506)  
+Sum: 88 (Ranked 438)  
 Diff (max vs sum): 68  
 | Award | Count |
 | ----- | ----- |

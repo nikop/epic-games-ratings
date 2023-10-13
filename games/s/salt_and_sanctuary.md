@@ -6,19 +6,19 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~444,285 |
-| The Three | 64.00% | ~342,581 |
-| The Banquet | 40.00% | ~214,113 |
+| Find Sanctuary | 83.00% | ~444,286 |
+| The Three | 64.00% | ~342,582 |
+| The Banquet | 40.00% | ~214,114 |
 | Devara's Light | 31.00% | ~165,938 |
 | The Iron Ones | 18.00% | ~96,351 |
 | The Village | 17.00% | ~90,998 |
-| The Forest | 15.00% | ~80,292 |
+| The Forest | 15.00% | ~80,293 |
 | The Keep | 14.00% | ~74,940 |
 | Branded | 13.00% | ~69,587 |
 | The Imposter | 13.00% | ~69,587 |
 | The Castle | 11.00% | ~58,881 |
-| The Dome | 9.00% | ~48,175 |
-| The Red Hall | 9.00% | ~48,175 |
+| The Dome | 9.00% | ~48,176 |
+| The Red Hall | 9.00% | ~48,176 |
 | The Sacrifice | 8.00% | ~42,823 |
 | The Cave | 7.00% | ~37,470 |
 | The Mire | 7.00% | ~37,470 |
@@ -34,8 +34,8 @@ Number of Ratings: 3,114  (23.09.2022)
 | The House of Splendor | 4.00% | ~21,411 |
 | The Crypt | 4.00% | ~21,411 |
 | The Palace | 4.00% | ~21,411 |
-| Find Salvation | 3.00% | ~16,058 |
-| The Unspeakable Deep | 3.00% | ~16,058 |
+| Find Salvation | 3.00% | ~16,059 |
+| The Unspeakable Deep | 3.00% | ~16,059 |
 | Coastrock | 2.00% | ~10,706 |
 | Devoted | 2.00% | ~10,706 |
 | Dominion | 2.00% | ~10,706 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,706 |
 | Fading Fast | 1.00% | ~5,353 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 535,283 (Ranked 32)  
+Progressed: 535,284 (Ranked 32)  
 Completed: 1,569 (0.29%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,11 +220,11 @@ Completed: 1,569 (0.29%) (Ranked 210)
 | 2023-10-10 | 535,132 | 1,569 |
 | 2023-10-11 | 535,197 | 1,569 |
 | 2023-10-12 | 535,263 | 1,569 |
-| 2023-10-13 | 535,283 | 1,569 |
+| 2023-10-13 | 535,284 | 1,569 |
 ## Awards
-Max (Challenging Combat): 288  (Ranked 244)  
+Max (Challenging Combat): 288  (Ranked 245)  
 Sum: 1,971 (Ranked 205)  
-Diff (max vs sum): 39  
+Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
 | This game has Challenging Combat | 288 |

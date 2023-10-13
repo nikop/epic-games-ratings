@@ -8,6 +8,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 0.30% | ~695 |
 | The Jungles of Doomspace | 0.20% | ~396 |
+| Foul Play | 0.20% | ~396 |
 | Maddening | 0.10% | ~232 |
 | Pros and CONs | 0.10% | ~232 |
 | Upholding the Law | 0.10% | ~232 |
@@ -530,12 +531,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Slow Down Showdown | 0.10% | ~198 |
 | The Arena of Blood | 0.10% | ~198 |
 | Entrance of the Gladiators | 0.10% | ~198 |
-| Foul Play | 0.10% | ~198 |
 | Fowl Play | 0.10% | ~198 |
 | Spelljammers in Training | 0.10% | ~198 |
 | Time Out | 0.10% | ~198 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,672 (Ranked 58)  
+Progressed: 231,676 (Ranked 58)  
 Completed: 2,355 (1.02%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -711,7 +711,7 @@ Completed: 2,355 (1.02%) (Ranked 144)
 | 2023-10-10 | 231,484 | 2,351 |
 | 2023-10-11 | 231,561 | 2,353 |
 | 2023-10-12 | 231,654 | 2,355 |
-| 2023-10-13 | 231,672 | 2,355 |
+| 2023-10-13 | 231,676 | 2,355 |
 ## Awards
 Max (Great for Beginners): 5,387  (Ranked 69)  
 Sum: 32,004 (Ranked 41)  

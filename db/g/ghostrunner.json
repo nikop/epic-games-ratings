@@ -1260,9 +1260,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 19907,
+  "EOS_Progressed": 19908,
   "EOS_Completed": 74,
-  "EOS_NewPlayers": 428,
+  "EOS_NewPlayers": 427,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -20310,6 +20310,11 @@
       "Time": "2023-10-13T06:03:21.8719285+00:00",
       "NumProgressed": 19907,
       "NumCompleted": 74
+    },
+    {
+      "Time": "2023-10-13T07:04:07.7423046+00:00",
+      "NumProgressed": 19908,
+      "NumCompleted": 74
     }
   ],
   "TotalAchievements": 45,
@@ -20409,7 +20414,7 @@
       "Name": "Homerunner",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 8958
+      "UsersEstimate": 8959
     },
     {
       "ID": "ICallItLuck",
@@ -20457,7 +20462,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 15129
+      "UsersEstimate": 15130
     },
     {
       "ID": "MoreThanHuman",
@@ -20497,7 +20502,7 @@
       "Name": "One Of Those Days",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1393
+      "UsersEstimate": 1394
     },
     {
       "ID": "OutOfOrder",
@@ -20505,7 +20510,7 @@
       "Name": "Out of order",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 8759
+      "UsersEstimate": 8760
     },
     {
       "ID": "Perfection",
@@ -20513,7 +20518,7 @@
       "Name": "Perfection",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 6370
+      "UsersEstimate": 6371
     },
     {
       "ID": "PreempativeStrike",
@@ -20593,7 +20598,7 @@
       "Name": "Sword Runner",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 12143
+      "UsersEstimate": 12144
     },
     {
       "ID": "SwordToAGunfight",
@@ -20680,21 +20685,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 19907,
+      "Progressed": 19908,
       "Completed": 47
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 19907,
+      "Progressed": 19908,
       "Completed": 74
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-10-12T05:59:07.9847642+00:00",
-  "LastChanged_Achievements": "2023-10-13T06:03:21.8719277+00:00",
+  "LastChanged_Achievements": "2023-10-13T07:04:07.742304+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:05.4275599+00:00",
-  "LastUpdate_Ratings": "2023-10-13T05:59:19.2374435+00:00",
-  "LastUpdate_Achievements": "2023-10-13T06:03:21.8720898+00:00"
+  "LastUpdate_Ratings": "2023-10-13T07:00:25.8858479+00:00",
+  "LastUpdate_Achievements": "2023-10-13T07:04:07.742486+00:00"
 }

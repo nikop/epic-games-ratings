@@ -11291,7 +11291,7 @@
       "Count": 25339
     }
   ],
-  "EOS_Progressed": 935382,
+  "EOS_Progressed": 935428,
   "EOS_Completed": 50,
   "EOS_NewPlayers": 14059,
   "EOS_NewCompleters": 1,
@@ -31256,6 +31256,11 @@
       "Time": "2023-10-13T06:05:49.9394549+00:00",
       "NumProgressed": 935382,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-10-13T07:07:28.6266867+00:00",
+      "NumProgressed": 935428,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 229,
@@ -31387,7 +31392,7 @@
       "Name": "No one left behind",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 8418
+      "UsersEstimate": 8419
     },
     {
       "ID": "ACH_017",
@@ -31395,7 +31400,7 @@
       "Name": "Medic",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 8418
+      "UsersEstimate": 8419
     },
     {
       "ID": "ACH_018",
@@ -31443,7 +31448,7 @@
       "Name": "It wakes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 18708
+      "UsersEstimate": 18709
     },
     {
       "ID": "ACH_024",
@@ -31483,7 +31488,7 @@
       "Name": "Apt Killer",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 5612
+      "UsersEstimate": 5613
     },
     {
       "ID": "ACH_029",
@@ -31491,7 +31496,7 @@
       "Name": "Risk it all",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 5612
+      "UsersEstimate": 5613
     },
     {
       "ID": "ACH_030",
@@ -31587,7 +31592,7 @@
       "Name": "II",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 5612
+      "UsersEstimate": 5613
     },
     {
       "ID": "ACH_042",
@@ -32163,7 +32168,7 @@
       "Name": "Wounded Healer",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 5612
+      "UsersEstimate": 5613
     },
     {
       "ID": "ACH_114",
@@ -32435,7 +32440,7 @@
       "Name": "Healthy Obsession",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 8418
+      "UsersEstimate": 8419
     },
     {
       "ID": "ACH_151",
@@ -32483,7 +32488,7 @@
       "Name": "Resurgence",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 8418
+      "UsersEstimate": 8419
     },
     {
       "ID": "ACH_157",
@@ -33025,9 +33030,9 @@
       "ID": "ACH_224",
       "SetID": "16jml5b",
       "Name": "Second Act",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4677
+      "UsersEstimate": 5613
     },
     {
       "ID": "ACH_225",
@@ -33098,21 +33103,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 935382,
+      "Progressed": 935428,
       "Completed": 52
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 935382,
+      "Progressed": 935428,
       "Completed": 50
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-10-13T03:57:26.6518476+00:00",
-  "LastChanged_Achievements": "2023-10-13T06:05:49.9394541+00:00",
+  "LastChanged_Achievements": "2023-10-13T07:07:28.6266859+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:11.5924675+00:00",
-  "LastUpdate_Ratings": "2023-10-13T05:57:35.6288239+00:00",
-  "LastUpdate_Achievements": "2023-10-13T06:05:49.9406069+00:00"
+  "LastUpdate_Ratings": "2023-10-13T06:57:50.3527172+00:00",
+  "LastUpdate_Achievements": "2023-10-13T07:07:28.628085+00:00"
 }

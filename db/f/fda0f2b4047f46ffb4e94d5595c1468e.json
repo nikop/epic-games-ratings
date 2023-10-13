@@ -1084,10 +1084,16 @@
       "Rating": 4.46,
       "NumberOfAwards": 2797,
       "NumberOfAwardsMax": 1074
+    },
+    {
+      "Time": "2023-10-13T06:58:57.0366048+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 2802,
+      "NumberOfAwardsMax": 1074
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2797,
+  "NumberOfAwards": 2802,
   "NumberOfAwardsMax": 1074,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1107,7 +1113,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 158
+      "Count": 163
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1164,9 +1170,9 @@
       "Count": 201
     }
   ],
-  "EOS_Progressed": 7478,
+  "EOS_Progressed": 7479,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 526,
+  "EOS_NewPlayers": 525,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4014,6 +4020,11 @@
       "Time": "2023-10-13T04:06:39.4534471+00:00",
       "NumProgressed": 7478,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-13T07:08:28.2483494+00:00",
+      "NumProgressed": 7479,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -4074,7 +4085,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 3963
+      "UsersEstimate": 3964
     },
     {
       "ID": "ach08",
@@ -4106,7 +4117,7 @@
       "Name": "Karnage",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "ach12",
@@ -4154,7 +4165,7 @@
       "Name": "So I Just Kill Stuff??",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 3739
+      "UsersEstimate": 3740
     },
     {
       "ID": "ach18",
@@ -4162,7 +4173,7 @@
       "Name": "Adventure Time",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2617
+      "UsersEstimate": 2618
     },
     {
       "ID": "ach19",
@@ -4202,7 +4213,7 @@
       "Name": "Take And Deny",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 1944
+      "UsersEstimate": 1945
     },
     {
       "ID": "ach24",
@@ -4218,7 +4229,7 @@
       "Name": "Talis-Mania",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 1570
+      "UsersEstimate": 1571
     },
     {
       "ID": "ach26",
@@ -4234,7 +4245,7 @@
       "Name": "So Krafty",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 2243
+      "UsersEstimate": 2244
     },
     {
       "ID": "ach28",
@@ -4266,7 +4277,7 @@
       "Name": "Not So Big Now, Are You??",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 2243
+      "UsersEstimate": 2244
     },
     {
       "ID": "ach32",
@@ -4330,7 +4341,7 @@
       "Name": "Make Way, I\u0027m Koming Through",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2916
+      "UsersEstimate": 2917
     },
     {
       "ID": "ach40",
@@ -4425,16 +4436,16 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 7478,
+      "Progressed": 7479,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2023-10-13T03:58:10.8685542+00:00",
-  "LastChanged_Achievements": "2023-10-13T06:06:31.0335446+00:00",
+  "LastChanged": "2023-10-13T06:58:57.0366046+00:00",
+  "LastChanged_Achievements": "2023-10-13T07:08:28.248349+00:00",
   "LastUpdate_AppInfo": "2023-10-07T06:57:30.1408327+00:00",
-  "LastUpdate_Ratings": "2023-10-13T05:58:21.1241096+00:00",
-  "LastUpdate_Achievements": "2023-10-13T06:06:31.0336197+00:00"
+  "LastUpdate_Ratings": "2023-10-13T06:58:57.0366053+00:00",
+  "LastUpdate_Achievements": "2023-10-13T07:08:28.248415+00:00"
 }

@@ -41,7 +41,7 @@
 | The hands of a healer | 6.00% | ~8 |
 | Artistic master | 5.00% | ~7 |
 | Fartjokes! | 5.00% | ~7 |
-| Shut up clown! | 4.00% | ~5 |
+| Shut up clown! | 5.00% | ~7 |
 | The Green, the Fat, the Ugly | 3.00% | ~4 |
 | Life is but a dream | 3.00% | ~4 |
 | Summit attempt | 2.00% | ~3 |

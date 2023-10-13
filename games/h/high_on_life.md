@@ -22,10 +22,10 @@ Rating: 4.64 (Ranked 320)
 | Lezduit! | 0.50% | ~121 |
 | Legendary Bounty Hunter | 0.50% | ~121 |
 | Self-Actualization | 0.50% | ~121 |
+| Fallout Doesn't Let You Do This | 0.50% | ~121 |
 | Spent 15 Hours At The Alien Strip Club | 0.50% | ~121 |
 | Series Wrap on Suit-O | 0.50% | ~121 |
 | Eatin' Good in the Neighborhood | 0.40% | ~97 |
-| Fallout Doesn't Let You Do This | 0.40% | ~97 |
 | We Came, We Chainsaw, We Conquered | 0.40% | ~6 |
 | Eye Scream, You Scream | 0.30% | ~73 |
 | Mux Ado About Shipping | 0.30% | ~4 |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 320)
 | It's Like The Santa Clause | 0.10% | ~1 |
 | That's B.A.L.L., Folks | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,200 (Ranked 119)  
+Progressed: 24,201 (Ranked 119)  
 Completed: 13 (0.05%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,6 +225,7 @@ Completed: 13 (0.05%) (Ranked 271)
 | 2023-10-10 | 24,177 | 13 |
 | 2023-10-11 | 24,192 | 13 |
 | 2023-10-12 | 24,200 | 13 |
+| 2023-10-13 | 24,201 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
