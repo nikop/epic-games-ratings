@@ -10,15 +10,15 @@ Number of Ratings: 12,664  (23.09.2022)
 | Basic in Bulk | 3.00% | ~4,126 |
 | Tinkle of Coins | 3.00% | ~4,126 |
 | Titan's First Steps | 3.00% | ~4,126 |
-| One Easy Payment | 2.00% | ~2,750 |
-| Some Assembly Required | 2.00% | ~2,750 |
-| Disintermediation | 2.00% | ~2,750 |
-| Another Satisfied Customer | 2.00% | ~2,750 |
-| It's Free Real Estate | 2.00% | ~2,750 |
-| Pretty Penny | 2.00% | ~2,750 |
-| Budding Merchant | 2.00% | ~2,750 |
-| Capitalism Ho! | 2.00% | ~2,750 |
-| Own the Means of Production | 2.00% | ~2,750 |
+| One Easy Payment | 2.00% | ~2,751 |
+| Some Assembly Required | 2.00% | ~2,751 |
+| Disintermediation | 2.00% | ~2,751 |
+| Another Satisfied Customer | 2.00% | ~2,751 |
+| It's Free Real Estate | 2.00% | ~2,751 |
+| Pretty Penny | 2.00% | ~2,751 |
+| Budding Merchant | 2.00% | ~2,751 |
+| Capitalism Ho! | 2.00% | ~2,751 |
+| Own the Means of Production | 2.00% | ~2,751 |
 | The Daily Grind | 1.00% | ~1,375 |
 | Bounty Hunters | 1.00% | ~1,375 |
 | Demand for Supplies | 1.00% | ~1,375 |
@@ -37,12 +37,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | Blank Page Syndrome | 0.90% | ~1,238 |
 | Efficient Floor Space | 0.90% | ~1,238 |
 | Gem Expert | 0.90% | ~1,238 |
+| Helping Hand | 0.90% | ~1,238 |
 | Research & Development | 0.80% | ~1,100 |
 | Fated Encounters | 0.80% | ~1,100 |
 | Power of Love | 0.80% | ~1,100 |
 | Flawless Fusion | 0.80% | ~1,100 |
 | Royal Ransom | 0.80% | ~1,100 |
-| Helping Hand | 0.80% | ~1,100 |
 | Natural 20 | 0.80% | ~1,100 |
 | Magical Harmony | 0.80% | ~1,100 |
 | Tax not Included | 0.70% | ~963 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~138 |
 | Cash Only Please | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,522 (Ranked 73)  
+Progressed: 137,527 (Ranked 73)  
 Completed: 168 (0.12%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 168 (0.12%) (Ranked 240)
 | 2023-10-10 | 137,421 | 168 |
 | 2023-10-11 | 137,455 | 168 |
 | 2023-10-12 | 137,496 | 168 |
-| 2023-10-13 | 137,522 | 168 |
+| 2023-10-13 | 137,527 | 168 |
 ## Awards
 Max (Great for Beginners): 4,782  (Ranked 71)  
 Sum: 27,375 (Ranked 50)  

@@ -20,7 +20,7 @@
 | Go-Faster Stripes | 16.00% | ~232 |
 | We've Just Begun | 9.00% | ~130 |
 | Stamina Star | 8.00% | ~116 |
-| Is It the Right Size? | 7.00% | ~101 |
+| Is It the Right Size? | 8.00% | ~116 |
 | Evangelist | 6.00% | ~87 |
 | Make It Your Own! | 4.00% | ~58 |
 | I Make the Rules! | 4.00% | ~58 |
@@ -40,7 +40,7 @@
 | I Don't Stop | 1.00% | ~14 |
 | Exhausted but Happy | 0.80% | ~12 |
 | In Search of Perfection | 0.60% | ~9 |
-| Globe-trotter | 0.40% | ~6 |
+| Globe-trotter | 0.50% | ~7 |
 | Maximum Endurance | 0.20% | ~3 |
 | Beyond the Limiter | 0.10% | ~1 |
 | All My Own Toys | 0.10% | ~1 |

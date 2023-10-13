@@ -4,7 +4,7 @@
   "ProductSlug": "scribble-it-c61a6f",
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12486,
+  "EOS_Progressed": 12487,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 246,
   "EOS_NewCompleters": 0,
@@ -11916,6 +11916,11 @@
       "Time": "2023-10-13T13:12:04.7894294+00:00",
       "NumProgressed": 12486,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-13T14:07:16.3402793+00:00",
+      "NumProgressed": 12487,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -12015,7 +12020,7 @@
       "Name": "Facepalm",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 2372
+      "UsersEstimate": 2373
     },
     {
       "ID": "ACH_TEN_WORD_PACKAGES",
@@ -12119,21 +12124,21 @@
       "Name": "First Sketch",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 2247
+      "UsersEstimate": 2248
     }
   ],
   "AchievementSets": [
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 12486,
+      "Progressed": 12487,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-10-13T13:12:04.7894288+00:00",
+  "LastChanged_Achievements": "2023-10-13T14:07:16.3402789+00:00",
   "LastUpdate_AppInfo": "2023-10-07T01:38:10.3444399+00:00",
-  "LastUpdate_Ratings": "2023-10-13T13:04:26.2566267+00:00",
-  "LastUpdate_Achievements": "2023-10-13T13:12:04.7895177+00:00"
+  "LastUpdate_Ratings": "2023-10-13T13:59:02.6365846+00:00",
+  "LastUpdate_Achievements": "2023-10-13T14:07:16.3403489+00:00"
 }

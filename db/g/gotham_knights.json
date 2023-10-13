@@ -4,11 +4,11 @@
   "ProductSlug": "gotham-knights",
   "Ranking_Rating": 897,
   "Ranking_Popularity": 97,
-  "Ranking_PopularitySum": 140,
+  "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3432,10 +3432,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4727,
       "NumberOfAwardsMax": 2819
+    },
+    {
+      "Time": "2023-10-13T13:58:03.1576523+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4728,
+      "NumberOfAwardsMax": 2819
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4727,
+  "NumberOfAwards": 4728,
   "NumberOfAwardsMax": 2819,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3479,7 +3485,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 245
+      "Count": 246
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3500,7 +3506,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73462,
+  "EOS_Progressed": 73463,
   "EOS_Completed": 121,
   "EOS_NewPlayers": 257,
   "EOS_NewCompleters": 1,
@@ -18525,6 +18531,11 @@
       "Time": "2023-10-13T13:10:22.1551639+00:00",
       "NumProgressed": 73462,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-10-13T14:04:55.9066525+00:00",
+      "NumProgressed": 73463,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 61,
@@ -18616,7 +18627,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8815
+      "UsersEstimate": 8816
     },
     {
       "ID": "APPLY_STATUS",
@@ -18672,7 +18683,7 @@
       "Name": "Dressed to Impress",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2938
+      "UsersEstimate": 2939
     },
     {
       "ID": "CRAFTING_MOD_CHIPS",
@@ -18712,7 +18723,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8815
+      "UsersEstimate": 8816
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -18880,7 +18891,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 38200
+      "UsersEstimate": 38201
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -18904,7 +18915,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14692
+      "UsersEstimate": 14693
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -18912,7 +18923,7 @@
       "Name": "Knighthood",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20569
+      "UsersEstimate": 20570
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -18952,7 +18963,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14692
+      "UsersEstimate": 14693
     },
     {
       "ID": "MYSTERY_05",
@@ -18984,7 +18995,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8815
+      "UsersEstimate": 8816
     },
     {
       "ID": "SECRET_CACHE",
@@ -19023,22 +19034,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73462,
+      "Progressed": 73463,
       "Completed": 121
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43742,
+      "Progressed": 43743,
       "Completed": 2667
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-10-13T01:42:24.3885942+00:00",
-  "LastChanged_Achievements": "2023-10-13T13:10:22.1551632+00:00",
+  "LastChanged": "2023-10-13T13:58:03.1576521+00:00",
+  "LastChanged_Achievements": "2023-10-13T14:04:55.9066518+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:31.3761181+00:00",
-  "LastUpdate_Ratings": "2023-10-13T13:03:40.8918171+00:00",
-  "LastUpdate_Achievements": "2023-10-13T13:10:22.1553155+00:00"
+  "LastUpdate_Ratings": "2023-10-13T13:58:03.1576526+00:00",
+  "LastUpdate_Achievements": "2023-10-13T14:04:55.9067687+00:00"
 }

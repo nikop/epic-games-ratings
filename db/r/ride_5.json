@@ -2808,9 +2808,9 @@
       "ID": "ML_ACHIEVEMENT_09",
       "SetID": "c7hf6a4",
       "Name": "Is It the Right Size?",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 101
+      "UsersEstimate": 116
     },
     {
       "ID": "ML_ACHIEVEMENT_10",
@@ -2976,9 +2976,9 @@
       "ID": "ML_ACHIEVEMENT_30",
       "SetID": "c7hf6a4",
       "Name": "Globe-trotter",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ML_ACHIEVEMENT_31",
@@ -3143,8 +3143,8 @@
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-13T13:12:25.1298957+00:00",
+  "LastChanged_Achievements": "2023-10-13T14:07:44.0016342+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:00.8071833+00:00",
-  "LastUpdate_Ratings": "2023-10-13T13:06:51.3449021+00:00",
-  "LastUpdate_Achievements": "2023-10-13T13:12:25.129959+00:00"
+  "LastUpdate_Ratings": "2023-10-13T14:02:22.2682686+00:00",
+  "LastUpdate_Achievements": "2023-10-13T14:07:44.0016861+00:00"
 }

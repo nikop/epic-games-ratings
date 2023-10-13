@@ -5,27 +5,27 @@ Rating: 4.64 (Ranked 320)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 73.00% | ~4,791 |
-| A Thorny Situation | 70.00% | ~4,594 |
-| ... And Spit Back Out | 60.00% | ~3,938 |
-| Break-Net Speed | 48.00% | ~3,150 |
-| Bramble Breaker | 45.00% | ~2,953 |
-| Miner 49er | 42.00% | ~2,756 |
-| Humble Collector | 41.00% | ~2,691 |
-| Calm Sailing | 35.00% | ~2,297 |
-| Open the Gate! | 32.00% | ~2,100 |
-| Mist Walker | 30.00% | ~1,969 |
-| Lumberjack | 26.00% | ~1,706 |
-| Oui, Chef! | 22.00% | ~1,444 |
+| Azoria Beckons | 73.00% | ~4,793 |
+| A Thorny Situation | 70.00% | ~4,596 |
+| ... And Spit Back Out | 60.00% | ~3,940 |
+| Break-Net Speed | 48.00% | ~3,152 |
+| Bramble Breaker | 46.00% | ~3,020 |
+| Miner 49er | 42.00% | ~2,758 |
+| Humble Collector | 41.00% | ~2,692 |
+| Calm Sailing | 35.00% | ~2,298 |
+| Open the Gate! | 32.00% | ~2,101 |
+| Mist Walker | 30.00% | ~1,970 |
+| Lumberjack | 26.00% | ~1,707 |
+| Oui, Chef! | 22.00% | ~1,445 |
 | Clear the Air | 17.00% | ~1,116 |
-| Botanical Breakthrough | 16.00% | ~1,050 |
-| Beach Comber | 13.00% | ~853 |
+| Botanical Breakthrough | 16.00% | ~1,051 |
+| Beach Comber | 13.00% | ~854 |
 | Search for the Hairy Grell | 12.00% | ~788 |
 | Higher Tax Bracket | 12.00% | ~788 |
 | Skilled | 8.00% | ~525 |
-| Got to Catch Them All | 7.00% | ~459 |
-| Rumble in the Jumble | 7.00% | ~459 |
-| Fanatical Farmer | 7.00% | ~459 |
+| Got to Catch Them All | 7.00% | ~460 |
+| Rumble in the Jumble | 7.00% | ~460 |
+| Fanatical Farmer | 7.00% | ~460 |
 | Flaming Hot Completos | 6.00% | ~394 |
 | Fae Farmer | 6.00% | ~394 |
 | Scattered Scroll Scrounger | 5.00% | ~328 |
@@ -41,7 +41,7 @@ Rating: 4.64 (Ranked 320)
 | Giving the People What They Want | 0.10% | ~7 |
 | Very Skilled | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,563 (Ranked 161)  
+Progressed: 6,566 (Ranked 161)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-10-10 | 6,462 | 0 |
 | 2023-10-11 | 6,498 | 0 |
 | 2023-10-12 | 6,534 | 0 |
-| 2023-10-13 | 6,563 | 0 |
+| 2023-10-13 | 6,566 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

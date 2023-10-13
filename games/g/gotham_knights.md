@@ -5,11 +5,11 @@ Rating: 4.18 (Ranked 897)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~38,200 |
+| First Step Into the Knight | 52.00% | ~38,201 |
 | Har, Har, Har, Very Funny | 35.00% | ~25,712 |
 | Loose Ends | 34.00% | ~24,977 |
 | To the Victor Go the Spoils | 29.00% | ~21,304 |
-| Knighthood | 28.00% | ~20,569 |
+| Knighthood | 28.00% | ~20,570 |
 | Get ReQ'd | 25.00% | ~18,366 |
 | Whispered Words | 25.00% | ~18,366 |
 | The Batman Family | 23.00% | ~16,896 |
@@ -17,8 +17,8 @@ Rating: 4.18 (Ranked 897)
 | Something in the Clay | 21.00% | ~15,427 |
 | Quartzer Life Crisis | 21.00% | ~15,427 |
 | Working Hard or Harley Working? | 21.00% | ~15,427 |
-| Unstoppable Force | 20.00% | ~14,692 |
-| Bad Apples in Every Orchard | 20.00% | ~14,692 |
+| Unstoppable Force | 20.00% | ~14,693 |
+| Bad Apples in Every Orchard | 20.00% | ~14,693 |
 | Snow Problem | 19.00% | ~13,958 |
 | The Show Mud Go On | 18.00% | ~13,223 |
 | From Inside Gotham's Walls | 18.00% | ~13,223 |
@@ -31,9 +31,9 @@ Rating: 4.18 (Ranked 897)
 | Seeking Asylum | 14.00% | ~10,285 |
 | Not On My Watch | 13.00% | ~9,550 |
 | Shock Til They Drop | 13.00% | ~9,550 |
-| End of an Era | 12.00% | ~8,815 |
-| Bulldozed | 12.00% | ~8,815 |
-| Gotham Knight | 12.00% | ~8,815 |
+| End of an Era | 12.00% | ~8,816 |
+| Bulldozed | 12.00% | ~8,816 |
+| Gotham Knight | 12.00% | ~8,816 |
 | Gotham City Confidential | 11.00% | ~8,081 |
 | Drone You Out | 10.00% | ~7,346 |
 | Out of Their League | 9.00% | ~6,612 |
@@ -42,7 +42,7 @@ Rating: 4.18 (Ranked 897)
 | Family Meeting | 7.00% | ~5,142 |
 | Expert Crime Fighter | 6.00% | ~4,408 |
 | A Worthy Successor | 6.00% | ~4,408 |
-| Dressed to Impress | 4.00% | ~2,938 |
+| Dressed to Impress | 4.00% | ~2,939 |
 | A Momentum Occasion | 3.00% | ~2,204 |
 | Bat Out of Hell | 3.00% | ~2,204 |
 | Practice Makes Perfect | 2.00% | ~1,469 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 897)
 | Element of Surprise | 0.20% | ~87 |
 | It's Nice to Be Wanted | 0.20% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,462 (Ranked 91)  
+Progressed: 73,463 (Ranked 91)  
 Completed: 121 (0.16%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,15 +243,15 @@ Completed: 121 (0.16%) (Ranked 230)
 | 2023-10-10 | 73,398 | 120 |
 | 2023-10-11 | 73,428 | 120 |
 | 2023-10-12 | 73,448 | 121 |
-| 2023-10-13 | 73,462 | 121 |
+| 2023-10-13 | 73,463 | 121 |
 ## Awards
 Max (Great Boss Battles): 2,819  (Ranked 97)  
-Sum: 4,727 (Ranked 140)  
-Diff (max vs sum): -43  
+Sum: 4,728 (Ranked 139)  
+Diff (max vs sum): -42  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,819 |
-| This game is Relaxing | 245 |
+| This game is Relaxing | 246 |
 | This game is Extremely Fun | 242 |
 | This game is Great for Beginners | 241 |
 | This game has Quickly Understood Controls | 239 |
@@ -493,4 +493,4 @@ Diff (max vs sum): -43
 | 2023-10-10 | 4.18 | 2,802 | 4,703 |
 | 2023-10-11 | 4.18 | 2,811 | 4,713 |
 | 2023-10-12 | 4.18 | 2,811 | 4,717 |
-| 2023-10-13 | 4.18 | 2,819 | 4,727 |
+| 2023-10-13 | 4.18 | 2,819 | 4,728 |

@@ -6,22 +6,22 @@ Number of Ratings: 94  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost in Space | 77.00% | ~4,733 |
-| Quick Understanding of Block Extrusion | 68.00% | ~4,180 |
-| Nature or Nurture | 45.00% | ~2,766 |
-| Power Glove | 42.00% | ~2,582 |
-| Forgotten Memories | 33.00% | ~2,029 |
-| Cogs in the Machine | 24.00% | ~1,475 |
-| Mission Success | 9.00% | ~553 |
-| Green Cube Killer | 8.00% | ~492 |
-| There's No Place Like Home | 8.00% | ~492 |
-| Descendants | 4.00% | ~246 |
-| Infinity Loop | 4.00% | ~246 |
-| Path to Salvation | 4.00% | ~246 |
-| The Flawed Teacher | 3.00% | ~184 |
-| To Infinity and Beyond | 2.00% | ~123 |
-| The Truthful Enemy | 1.00% | ~61 |
-| Laser Sharp | 0.30% | ~18 |
+| Lost in Space | 77.00% | ~4,990 |
+| Quick Understanding of Block Extrusion | 68.00% | ~4,406 |
+| Nature or Nurture | 45.00% | ~2,916 |
+| Power Glove | 42.00% | ~2,722 |
+| Forgotten Memories | 33.00% | ~2,138 |
+| Cogs in the Machine | 24.00% | ~1,555 |
+| Mission Success | 9.00% | ~583 |
+| Green Cube Killer | 8.00% | ~518 |
+| There's No Place Like Home | 8.00% | ~518 |
+| Descendants | 4.00% | ~259 |
+| Infinity Loop | 4.00% | ~259 |
+| Path to Salvation | 4.00% | ~259 |
+| The Flawed Teacher | 3.00% | ~194 |
+| To Infinity and Beyond | 2.00% | ~130 |
+| The Truthful Enemy | 1.00% | ~65 |
+| Laser Sharp | 0.30% | ~19 |
 | True collector | 0.10% | ~6 |
 | Bronze collector | 0.10% | ~6 |
 | Home Stretch | 0.10% | ~6 |
@@ -36,8 +36,8 @@ Number of Ratings: 94  (23.09.2022)
 | QUBE Master | 0.10% | ~6 |
 | Expert Collector | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,147 (Ranked 166)  
-Completed: 2 (0.03%) (Ranked 282)  
+Progressed: 6,480 (Ranked 163)  
+Completed: 3 (0.05%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -89,7 +89,7 @@ Completed: 2 (0.03%) (Ranked 282)
 | 2023-10-10 | 745 | 1 |
 | 2023-10-11 | 762 | 1 |
 | 2023-10-12 | 3,214 | 1 |
-| 2023-10-13 | 6,147 | 2 |
+| 2023-10-13 | 6,480 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

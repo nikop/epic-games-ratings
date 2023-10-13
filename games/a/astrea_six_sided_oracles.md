@@ -45,6 +45,7 @@
 | The Distorted Sage | 6.00% | ~3 |
 | Behenian Hero | 6.00% | ~3 |
 | Behenian Mastery | 6.00% | ~3 |
+| Lacertian Mastery | 6.00% | ~3 |
 | Artificer | 4.00% | ~2 |
 | Astrarium of Holding | 4.00% | ~2 |
 | If I Had Failed... | 4.00% | ~2 |
@@ -53,7 +54,6 @@
 | The Chaos Artisan | 4.00% | ~2 |
 | Aquarian Mastery | 4.00% | ~2 |
 | Eridanian Mastery | 4.00% | ~2 |
-| Lacertian Mastery | 4.00% | ~2 |
 | Noctuan Hero | 4.00% | ~2 |
 | Noctuan Mastery | 4.00% | ~2 |
 | Anomaly Master | 2.00% | ~1 |

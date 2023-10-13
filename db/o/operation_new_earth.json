@@ -56,9 +56,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1591,
+  "EOS_Progressed": 1592,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5881,6 +5881,11 @@
       "Time": "2023-10-13T08:04:50.214792+00:00",
       "NumProgressed": 1591,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-13T14:05:32.7304609+00:00",
+      "NumProgressed": 1592,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6060,7 +6065,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "objective_key_alliance_join_1",
@@ -6068,7 +6073,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -6195,7 +6200,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1591,
+      "Progressed": 1592,
       "Completed": 1
     }
   ],
@@ -6203,8 +6208,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-10-13T13:10:49.5906007+00:00",
+  "LastChanged_Achievements": "2023-10-13T14:05:32.7304604+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:57:03.7604863+00:00",
-  "LastUpdate_Ratings": "2023-10-13T13:04:56.7837275+00:00",
-  "LastUpdate_Achievements": "2023-10-13T13:10:49.5906664+00:00"
+  "LastUpdate_Ratings": "2023-10-13T13:59:43.106584+00:00",
+  "LastUpdate_Achievements": "2023-10-13T14:05:32.7305459+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 317,
   "Ranking_EOS_Completed": 50,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -17,11 +17,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 281,
+  "EOS_Progressed": 282,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 6.76,
+  "EOS_Completed_Percentage": 6.74,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1312,6 +1312,11 @@
       "Time": "2023-10-13T12:03:49.4759948+00:00",
       "NumProgressed": 281,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-10-13T14:03:47.9507663+00:00",
+      "NumProgressed": 282,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 25,
@@ -1443,7 +1448,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -1522,14 +1527,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 281,
+      "Progressed": 282,
       "Completed": 19
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-13T13:09:39.9484605+00:00",
+  "LastChanged_Achievements": "2023-10-13T14:03:47.9507659+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:05.0979362+00:00",
-  "LastUpdate_Ratings": "2023-10-13T13:03:12.8640924+00:00",
-  "LastUpdate_Achievements": "2023-10-13T13:09:39.9484893+00:00"
+  "LastUpdate_Ratings": "2023-10-13T13:57:20.2376216+00:00",
+  "LastUpdate_Achievements": "2023-10-13T14:03:47.9507871+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -130,9 +130,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4140,
+  "EOS_Progressed": 4141,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -6965,6 +6965,11 @@
       "Time": "2023-10-12T13:12:28.3741115+00:00",
       "NumProgressed": 4140,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-13T14:08:50.1965992+00:00",
+      "NumProgressed": 4141,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7216,7 +7221,7 @@
       "Name": "Perfect Parry",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "Ach032",
@@ -7352,7 +7357,7 @@
       "Name": "Alright, that felt AWESOME!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "Ach049",
@@ -7543,13 +7548,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4140,
+      "Progressed": 4141,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2661,
+      "Progressed": 2662,
       "Completed": 1930
     }
   ],
@@ -7557,8 +7562,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-09-20T21:58:46.0382146+00:00",
-  "LastChanged_Achievements": "2023-10-13T13:15:05.7337851+00:00",
+  "LastChanged_Achievements": "2023-10-13T14:08:50.1965987+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:32.6690541+00:00",
-  "LastUpdate_Ratings": "2023-10-13T13:06:21.6519522+00:00",
-  "LastUpdate_Achievements": "2023-10-13T13:15:05.7339141+00:00"
+  "LastUpdate_Ratings": "2023-10-13T14:01:38.8762629+00:00",
+  "LastUpdate_Achievements": "2023-10-13T14:08:50.1966902+00:00"
 }

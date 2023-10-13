@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -244,9 +244,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 36671,
+  "EOS_Progressed": 36673,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 256,
+  "EOS_NewPlayers": 257,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -15469,6 +15469,11 @@
       "Time": "2023-10-13T13:12:35.1226863+00:00",
       "NumProgressed": 36671,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-10-13T14:07:56.8926318+00:00",
+      "NumProgressed": 36673,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 14,
@@ -15496,7 +15501,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 9534
+      "UsersEstimate": 9535
     },
     {
       "ID": "allItems",
@@ -15528,7 +15533,7 @@
       "Name": "Joseph",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 3300
+      "UsersEstimate": 3301
     },
     {
       "ID": "completionist",
@@ -15568,7 +15573,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 28237
+      "UsersEstimate": 28238
     },
     {
       "ID": "roots",
@@ -15591,15 +15596,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 36671,
+      "Progressed": 36673,
       "Completed": 113
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-07-24T04:01:31.3679912+00:00",
-  "LastChanged_Achievements": "2023-10-13T13:12:35.1226858+00:00",
+  "LastChanged_Achievements": "2023-10-13T14:07:56.8926314+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:51.0981807+00:00",
-  "LastUpdate_Ratings": "2023-10-13T13:03:36.4389119+00:00",
-  "LastUpdate_Achievements": "2023-10-13T13:12:35.1227893+00:00"
+  "LastUpdate_Ratings": "2023-10-13T13:57:56.2685282+00:00",
+  "LastUpdate_Achievements": "2023-10-13T14:07:56.8927131+00:00"
 }

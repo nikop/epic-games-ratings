@@ -1304,9 +1304,9 @@
       "ID": "adriana_sick",
       "SetID": "69co12a",
       "Name": "Deal with life",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 140
     },
     {
       "ID": "airpods",
@@ -1432,9 +1432,9 @@
       "ID": "fight_win_50",
       "SetID": "69co12a",
       "Name": "Fight is life",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 160
     },
     {
       "ID": "first_job",
@@ -1680,9 +1680,9 @@
       "ID": "police_promotion_2",
       "SetID": "69co12a",
       "Name": "Get out of my apartment!",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 137
     },
     {
       "ID": "police_promotion_3",
@@ -1831,8 +1831,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-10-13T13:11:07.9696135+00:00",
+  "LastChanged_Achievements": "2023-10-13T14:05:57.954394+00:00",
   "LastUpdate_AppInfo": "2023-10-07T11:57:13.456228+00:00",
-  "LastUpdate_Ratings": "2023-10-13T13:09:26.3623399+00:00",
-  "LastUpdate_Achievements": "2023-10-13T13:11:07.9696868+00:00"
+  "LastUpdate_Ratings": "2023-10-13T14:03:25.6816577+00:00",
+  "LastUpdate_Achievements": "2023-10-13T14:05:57.9544514+00:00"
 }

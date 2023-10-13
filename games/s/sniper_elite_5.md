@@ -34,8 +34,8 @@ Rating: 4.45 (Ranked 643)
 | Skirmisher | 14.00% | ~522 |
 | Die Nussknacker Sweet! | 14.00% | ~522 |
 | Set Europe Ablaze | 13.00% | ~485 |
+| Precision Is Key | 10.00% | ~373 |
 | My Little Friend | 10.00% | ~373 |
-| Precision Is Key | 9.00% | ~336 |
 | Rigged to Blow | 8.00% | ~299 |
 | Herr Today, Gone Tomorrow | 6.00% | ~221 |
 | The Long Game | 5.00% | ~187 |

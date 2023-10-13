@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 363,
   "Ranking_EOS_Completed": 74,
   "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -682,9 +682,9 @@
       "ID": "achievement_18",
       "SetID": "2cpn27e",
       "Name": "Man-Machine Master",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 96
     },
     {
       "ID": "achievement_19",
@@ -970,9 +970,9 @@
       "ID": "achievement_7",
       "SetID": "2cpn27e",
       "Name": "Budding Conjuror",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "achievement_8",
@@ -1000,8 +1000,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-10-13T13:12:40.3952687+00:00",
+  "LastChanged_Achievements": "2023-10-13T14:08:04.0321578+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:12.1602586+00:00",
-  "LastUpdate_Ratings": "2023-10-13T13:05:29.5425244+00:00",
-  "LastUpdate_Achievements": "2023-10-13T13:12:40.3953181+00:00"
+  "LastUpdate_Ratings": "2023-10-13T14:00:25.1572936+00:00",
+  "LastUpdate_Achievements": "2023-10-13T14:08:04.0322001+00:00"
 }
