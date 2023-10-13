@@ -4,7 +4,7 @@
   "ProductSlug": "redraptor-71deb7",
   "Ranking_EOS_Progress": 585,
   "Ranking_EOS_Completed": 3,
-  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewPlayers": 391,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-10-11T12:00:00+00:00",
@@ -84,9 +84,9 @@
       "ID": "Upgrade1",
       "SetID": "ag762md",
       "Name": "First Upgrade",
-      "Percentage": 100,
+      "Percentage": 150,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Upgrade10",
@@ -100,9 +100,9 @@
       "ID": "Upgrade2",
       "SetID": "ag762md",
       "Name": "Second Upgrade",
-      "Percentage": 100,
+      "Percentage": 150,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Upgrade3",
@@ -138,8 +138,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-18T15:02:16.3526142+00:00",
-  "LastChanged_Achievements": "2023-10-13T08:03:50.1459698+00:00",
+  "LastChanged_Achievements": "2023-10-13T09:04:12.9599821+00:00",
   "LastUpdate_AppInfo": "2023-10-09T15:57:18.9454099+00:00",
-  "LastUpdate_Ratings": "2023-10-13T07:59:08.7263419+00:00",
-  "LastUpdate_Achievements": "2023-10-13T08:03:50.1459777+00:00"
+  "LastUpdate_Ratings": "2023-10-13T09:00:11.417912+00:00",
+  "LastUpdate_Achievements": "2023-10-13T09:04:12.9599943+00:00"
 }

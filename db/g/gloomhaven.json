@@ -2016,10 +2016,16 @@
       "Rating": 4.47,
       "NumberOfAwards": 8283,
       "NumberOfAwardsMax": 3551
+    },
+    {
+      "Time": "2023-10-13T08:59:38.2151774+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 8284,
+      "NumberOfAwardsMax": 3551
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8283,
+  "NumberOfAwards": 8284,
   "NumberOfAwardsMax": 3551,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2063,7 +2069,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 485
+      "Count": 486
     },
     {
       "Text": "This game has Unique Visuals",
@@ -2096,9 +2102,9 @@
       "Count": 211
     }
   ],
-  "EOS_Progressed": 12739,
+  "EOS_Progressed": 12742,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2126,
+  "EOS_NewPlayers": 2122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5081,6 +5087,11 @@
       "Time": "2023-10-13T08:09:07.6030071+00:00",
       "NumProgressed": 12739,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-13T09:09:03.6258552+00:00",
+      "NumProgressed": 12742,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -5261,7 +5272,7 @@
       "Name": "Precious!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 2038
+      "UsersEstimate": 2039
     },
     {
       "ID": "Achievement_Trophy23",
@@ -5277,7 +5288,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 5605
+      "UsersEstimate": 5606
     },
     {
       "ID": "Achievement_Trophy25",
@@ -5293,7 +5304,7 @@
       "Name": "Overkill",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 4331
+      "UsersEstimate": 4332
     },
     {
       "ID": "Achievement_Trophy27",
@@ -5309,7 +5320,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 4204
+      "UsersEstimate": 4205
     },
     {
       "ID": "Achievement_Trophy29",
@@ -5325,7 +5336,7 @@
       "Name": "Spread the plague",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 3949
+      "UsersEstimate": 3950
     },
     {
       "ID": "Achievement_Trophy31",
@@ -5333,7 +5344,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 4459
+      "UsersEstimate": 4460
     },
     {
       "ID": "Achievement_Trophy32",
@@ -5381,7 +5392,7 @@
       "Name": "Get over here!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 3057
+      "UsersEstimate": 3058
     },
     {
       "ID": "Achievement_Trophy38",
@@ -5397,7 +5408,7 @@
       "Name": "Just when I thought I was out...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2420
+      "UsersEstimate": 2421
     },
     {
       "ID": "Achievement_Trophy40",
@@ -5437,7 +5448,7 @@
       "Name": "Quad damage",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "Achievement_Trophy45",
@@ -5580,16 +5591,16 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 12739,
+      "Progressed": 12742,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-09-22T18:02:13.8573093+00:00",
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
-  "LastChanged": "2023-10-13T02:59:21.910975+00:00",
-  "LastChanged_Achievements": "2023-10-13T08:09:07.6030067+00:00",
+  "LastChanged": "2023-10-13T08:59:38.2151771+00:00",
+  "LastChanged_Achievements": "2023-10-13T09:09:03.6258544+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:04.4779784+00:00",
-  "LastUpdate_Ratings": "2023-10-13T07:58:45.1700041+00:00",
-  "LastUpdate_Achievements": "2023-10-13T08:09:07.6030676+00:00"
+  "LastUpdate_Ratings": "2023-10-13T08:59:38.2151779+00:00",
+  "LastUpdate_Achievements": "2023-10-13T09:09:03.6259397+00:00"
 }

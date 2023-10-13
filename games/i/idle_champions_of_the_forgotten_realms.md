@@ -8,6 +8,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 0.30% | ~695 |
 | The Jungles of Doomspace | 0.20% | ~396 |
+| The Arena of Blood | 0.20% | ~396 |
 | Foul Play | 0.20% | ~396 |
 | Maddening | 0.10% | ~232 |
 | Pros and CONs | 0.10% | ~232 |
@@ -529,7 +530,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End | 0.10% | ~198 |
 | All's Well That Ends Well | 0.10% | ~198 |
 | Slow Down Showdown | 0.10% | ~198 |
-| The Arena of Blood | 0.10% | ~198 |
 | Entrance of the Gladiators | 0.10% | ~198 |
 | Fowl Play | 0.10% | ~198 |
 | Spelljammers in Training | 0.10% | ~198 |
@@ -714,7 +714,7 @@ Completed: 2,355 (1.02%) (Ranked 144)
 | 2023-10-13 | 231,682 | 2,355 |
 ## Awards
 Max (Great for Beginners): 5,387  (Ranked 69)  
-Sum: 32,004 (Ranked 41)  
+Sum: 32,008 (Ranked 41)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
@@ -722,8 +722,8 @@ Diff (max vs sum): 28
 | This game has Diverse Characters | 5,386 |
 | This game has Quickly Understood Controls | 4,786 |
 | This game is Relaxing | 4,677 |
+| This game is Highly Recommended | 4,154 |
 | This game has Amazing Characters | 4,152 |
-| This game is Highly Recommended | 4,150 |
 | This game has Playful Visuals | 3,466 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -988,4 +988,4 @@ Diff (max vs sum): 28
 | 2023-10-10 | 4.06 | - | 5,381 | 31,977 |
 | 2023-10-11 | 4.06 | - | 5,385 | 31,990 |
 | 2023-10-12 | 4.06 | - | 5,387 | 32,002 |
-| 2023-10-13 | 4.06 | - | 5,387 | 32,004 |
+| 2023-10-13 | 4.06 | - | 5,387 | 32,008 |

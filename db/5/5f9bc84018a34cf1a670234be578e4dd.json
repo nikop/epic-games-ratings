@@ -4,7 +4,7 @@
   "ProductSlug": "access-denied-escape-1d486e",
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 11,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -1497,9 +1497,9 @@
       "ID": "Compiling",
       "SetID": "7jbi7el",
       "Name": "Job completed!",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 142
+      "UsersEstimate": 144
     },
     {
       "ID": "FallDeath",
@@ -1561,9 +1561,9 @@
       "ID": "Hologram",
       "SetID": "7jbi7el",
       "Name": "Holographic Scanner",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 70,
-      "UsersEstimate": 150
+      "UsersEstimate": 153
     },
     {
       "ID": "Screwdriver",
@@ -1600,8 +1600,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-10-13T08:06:44.4349869+00:00",
+  "LastChanged_Achievements": "2023-10-13T09:08:04.9586408+00:00",
   "LastUpdate_AppInfo": "2023-10-10T20:57:16.7085477+00:00",
-  "LastUpdate_Ratings": "2023-10-13T07:59:05.2241637+00:00",
-  "LastUpdate_Achievements": "2023-10-13T08:06:44.4350025+00:00"
+  "LastUpdate_Ratings": "2023-10-13T09:00:06.2865203+00:00",
+  "LastUpdate_Achievements": "2023-10-13T09:08:04.9586755+00:00"
 }

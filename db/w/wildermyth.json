@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -157,9 +157,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1413,
+  "EOS_Progressed": 1414,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -1572,6 +1572,11 @@
       "Time": "2023-10-12T02:23:00.0979252+00:00",
       "NumProgressed": 1413,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-13T09:08:44.511204+00:00",
+      "NumProgressed": 1414,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 56,
@@ -1647,7 +1652,7 @@
       "Name": "Gotta Ca... Must Collect All of Them",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "achievement_endTurnInGrayplane5Times",
@@ -1759,7 +1764,7 @@
       "Name": "The Cost of Heroism",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "achievement_mythwalker",
@@ -2030,15 +2035,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1413,
+      "Progressed": 1414,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-09-16T17:00:08.5779719+00:00",
-  "LastChanged_Achievements": "2023-10-13T08:07:12.6792675+00:00",
+  "LastChanged_Achievements": "2023-10-13T09:08:44.5112033+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:23.0384854+00:00",
-  "LastUpdate_Ratings": "2023-10-13T07:57:19.7162199+00:00",
-  "LastUpdate_Achievements": "2023-10-13T08:07:12.6793131+00:00"
+  "LastUpdate_Ratings": "2023-10-13T08:57:34.2999207+00:00",
+  "LastUpdate_Achievements": "2023-10-13T09:08:44.511294+00:00"
 }

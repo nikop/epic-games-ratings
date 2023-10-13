@@ -7250,10 +7250,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 32004,
       "NumberOfAwardsMax": 5387
+    },
+    {
+      "Time": "2023-10-13T09:00:48.1868535+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 32008,
+      "NumberOfAwardsMax": 5387
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32004,
+  "NumberOfAwards": 32008,
   "NumberOfAwardsMax": 5387,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7285,7 +7291,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 4150
+      "Count": 4154
     },
     {
       "Text": "This game has Amazing Characters",
@@ -7302,7 +7308,7 @@
   ],
   "EOS_Progressed": 231682,
   "EOS_Completed": 2355,
-  "EOS_NewPlayers": 642,
+  "EOS_NewPlayers": 637,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
@@ -31085,9 +31091,9 @@
       "ID": "objective_completed_1410",
       "SetID": "415jc5c",
       "Name": "The Arena of Blood",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 396
     },
     {
       "ID": "objective_completed_1411",
@@ -31135,7 +31141,7 @@
       "ID": "415jc5c",
       "IsBase": false,
       "Progressed": 197956,
-      "Completed": 3593
+      "Completed": 3594
     },
     {
       "ID": "cc37lbc",
@@ -31146,9 +31152,9 @@
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-10-13T01:44:17.4774713+00:00",
-  "LastChanged_Achievements": "2023-10-13T08:05:35.2758256+00:00",
+  "LastChanged": "2023-10-13T09:00:48.1868533+00:00",
+  "LastChanged_Achievements": "2023-10-13T09:06:35.9165436+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:05.8246543+00:00",
-  "LastUpdate_Ratings": "2023-10-13T07:59:34.647066+00:00",
-  "LastUpdate_Achievements": "2023-10-13T08:05:35.2783921+00:00"
+  "LastUpdate_Ratings": "2023-10-13T09:00:48.1868544+00:00",
+  "LastUpdate_Achievements": "2023-10-13T09:06:35.9224752+00:00"
 }

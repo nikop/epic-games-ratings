@@ -370,9 +370,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2426,
+  "EOS_Progressed": 2427,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 319,
+  "EOS_NewPlayers": 320,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2375,6 +2375,11 @@
       "Time": "2023-10-13T07:04:43.4263096+00:00",
       "NumProgressed": 2426,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-13T09:05:06.7958971+00:00",
+      "NumProgressed": 2427,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -2427,7 +2432,7 @@
       "Name": "ROTY",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "achievement_15",
@@ -2483,7 +2488,7 @@
       "Name": "Saw It Coming",
       "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 1334
+      "UsersEstimate": 1335
     },
     {
       "ID": "achievement_21",
@@ -2523,7 +2528,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "achievement_7",
@@ -2554,7 +2559,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 2426,
+      "Progressed": 2427,
       "Completed": 0
     }
   ],
@@ -2562,8 +2567,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-10-13T03:59:28.6125347+00:00",
-  "LastChanged_Achievements": "2023-10-13T08:04:28.8597441+00:00",
+  "LastChanged_Achievements": "2023-10-13T09:05:06.7958962+00:00",
   "LastUpdate_AppInfo": "2023-10-12T02:57:10.0786796+00:00",
-  "LastUpdate_Ratings": "2023-10-13T07:59:56.6393384+00:00",
-  "LastUpdate_Achievements": "2023-10-13T08:04:28.8597663+00:00"
+  "LastUpdate_Ratings": "2023-10-13T09:01:20.0652504+00:00",
+  "LastUpdate_Achievements": "2023-10-13T09:05:06.7959442+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 433,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -760,7 +760,7 @@
       "Count": 95
     }
   ],
-  "EOS_Progressed": 10589,
+  "EOS_Progressed": 10590,
   "EOS_Completed": 60,
   "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 1,
@@ -11330,6 +11330,11 @@
       "Time": "2023-10-13T08:06:50.012949+00:00",
       "NumProgressed": 10589,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-10-13T09:08:12.9236026+00:00",
+      "NumProgressed": 10590,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 34,
@@ -11365,7 +11370,7 @@
       "Name": "Not my First Time",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "ACH05",
@@ -11445,7 +11450,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4447
+      "UsersEstimate": 4448
     },
     {
       "ID": "ACH15",
@@ -11549,7 +11554,7 @@
       "Name": "Grand Theft Auto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "ACH28",
@@ -11612,7 +11617,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10589,
+      "Progressed": 10590,
       "Completed": 60
     }
   ],
@@ -11620,8 +11625,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-10-10T09:59:23.5158922+00:00",
-  "LastChanged_Achievements": "2023-10-13T08:06:50.0129486+00:00",
+  "LastChanged_Achievements": "2023-10-13T09:08:12.9236017+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:33.9086955+00:00",
-  "LastUpdate_Ratings": "2023-10-13T08:00:15.5869681+00:00",
-  "LastUpdate_Achievements": "2023-10-13T08:06:50.0130171+00:00"
+  "LastUpdate_Ratings": "2023-10-13T09:01:47.0928741+00:00",
+  "LastUpdate_Achievements": "2023-10-13T09:08:12.9237328+00:00"
 }

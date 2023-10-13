@@ -93,6 +93,7 @@
 | Unbalanced | 2.00% | ~1 |
 | Golden Tovarish | 2.00% | ~1 |
 | Archer's Golden Fate | 2.00% | ~1 |
+| Magic Golden mirror; on the wall | 2.00% | ~1 |
 | Godlike | 2.00% | ~1 |
 | Usurper IV | 2.00% | ~1 |
 | Rampage | 2.00% | ~1 |
@@ -122,7 +123,6 @@
 | U.N. Squadron I | 0.00% | ~0 |
 | U.N. Squadron II | 0.00% | ~0 |
 | U.N. Squadron III | 0.00% | ~0 |
-| Magic Golden mirror; on the wall | 0.00% | ~0 |
 | Galactic Admiral | 0.00% | ~0 |
 | Universal Admiral | 0.00% | ~0 |
 | Completionist | 0.00% | ~0 |

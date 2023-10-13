@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 145,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2021-09-23T13:00:00+00:00",
     "PcReleaseDate": "2021-09-23T13:00:00+00:00",
@@ -476,9 +476,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 93821,
+  "EOS_Progressed": 93823,
   "EOS_Completed": 943,
-  "EOS_NewPlayers": 1070,
+  "EOS_NewPlayers": 1063,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
@@ -20371,6 +20371,11 @@
       "Time": "2023-10-13T08:07:01.2748999+00:00",
       "NumProgressed": 93821,
       "NumCompleted": 943
+    },
+    {
+      "Time": "2023-10-13T09:08:28.8226749+00:00",
+      "NumProgressed": 93823,
+      "NumCompleted": 943
     }
   ],
   "TotalAchievements": 56,
@@ -20414,7 +20419,7 @@
       "Name": "Amateur Historian",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 6567
+      "UsersEstimate": 6568
     },
     {
       "ID": "ach_005_machinist_mask",
@@ -20430,7 +20435,7 @@
       "Name": "The Beetle Mask",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 6567
+      "UsersEstimate": 6568
     },
     {
       "ID": "ach_007_climbers_mask",
@@ -20454,7 +20459,7 @@
       "Name": "The Guard Mask",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 6567
+      "UsersEstimate": 6568
     },
     {
       "ID": "ach_010_scrapper_mask",
@@ -20494,7 +20499,7 @@
       "Name": "Chum Novice",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 15011
+      "UsersEstimate": 15012
     },
     {
       "ID": "ach_015_all_chum_eggs",
@@ -20534,7 +20539,7 @@
       "Name": "Rowleys Way",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 10320
+      "UsersEstimate": 10321
     },
     {
       "ID": "ach_020_door_centre_of_brunswick",
@@ -20590,7 +20595,7 @@
       "Name": "Up On High",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 23455
+      "UsersEstimate": 23456
     },
     {
       "ID": "ach_027_fix_atomic_heart",
@@ -20622,7 +20627,7 @@
       "Name": "Smoked Out",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 6567
+      "UsersEstimate": 6568
     },
     {
       "ID": "ach_031_enter_hercules_beetle_nest",
@@ -20638,7 +20643,7 @@
       "Name": "Got Your Nose",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 22517
+      "UsersEstimate": 22518
     },
     {
       "ID": "ach_033_collect_slicer_beetle_poo",
@@ -20654,7 +20659,7 @@
       "Name": "A Hard Place",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 6567
+      "UsersEstimate": 6568
     },
     {
       "ID": "ach_035_collect_bike_parts_1",
@@ -20694,7 +20699,7 @@
       "Name": "Simoon",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 31899
+      "UsersEstimate": 31900
     },
     {
       "ID": "ach_040_customise_hoverbike",
@@ -20702,7 +20707,7 @@
       "Name": "Under The Hood",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 23455
+      "UsersEstimate": 23456
     },
     {
       "ID": "ach_041_talk_to_npcs_1",
@@ -20710,7 +20715,7 @@
       "Name": "The Gift of Gab",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 22517
+      "UsersEstimate": 22518
     },
     {
       "ID": "ach_042_talk_to_npcs_2",
@@ -20718,7 +20723,7 @@
       "Name": "Silver-Tongued Sable",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 15011
+      "UsersEstimate": 15012
     },
     {
       "ID": "ach_043_climb_large_distance",
@@ -20726,7 +20731,7 @@
       "Name": "Sticky Paws",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 15011
+      "UsersEstimate": 15012
     },
     {
       "ID": "ach_044_open_chests_1",
@@ -20766,7 +20771,7 @@
       "Name": "Bubble Up",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 15011
+      "UsersEstimate": 15012
     },
     {
       "ID": "ach_049_fall_from_large_height",
@@ -20829,15 +20834,15 @@
     {
       "ID": "585ckk9",
       "IsBase": true,
-      "Progressed": 93821,
+      "Progressed": 93823,
       "Completed": 943
     }
   ],
   "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:25.3097347+00:00",
   "LastChanged": "2023-09-28T23:58:44.8728569+00:00",
-  "LastChanged_Achievements": "2023-10-13T08:07:01.2748996+00:00",
+  "LastChanged_Achievements": "2023-10-13T09:08:28.8226739+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:07.2919835+00:00",
-  "LastUpdate_Ratings": "2023-10-13T08:03:07.8470051+00:00",
-  "LastUpdate_Achievements": "2023-10-13T08:07:01.2750302+00:00"
+  "LastUpdate_Ratings": "2023-10-13T09:02:35.4629685+00:00",
+  "LastUpdate_Achievements": "2023-10-13T09:08:28.8229834+00:00"
 }

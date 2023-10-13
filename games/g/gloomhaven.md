@@ -6,15 +6,15 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 44.00% | ~5,605 |
-| A normal day in Gloomhaven | 35.00% | ~4,459 |
-| Overkill | 34.00% | ~4,331 |
-| Vaccine Incoming | 33.00% | ~4,204 |
-| Spread the plague | 31.00% | ~3,949 |
-| Get over here! | 24.00% | ~3,057 |
-| Just when I thought I was out... | 19.00% | ~2,420 |
+| I'm not dead yet | 44.00% | ~5,606 |
+| A normal day in Gloomhaven | 35.00% | ~4,460 |
+| Overkill | 34.00% | ~4,332 |
+| Vaccine Incoming | 33.00% | ~4,205 |
+| Spread the plague | 31.00% | ~3,950 |
+| Get over here! | 24.00% | ~3,058 |
+| Just when I thought I was out... | 19.00% | ~2,421 |
 | Mine... All Mine... | 17.00% | ~2,166 |
-| Precious! | 16.00% | ~2,038 |
+| Precious! | 16.00% | ~2,039 |
 | Light of my life | 15.00% | ~1,911 |
 | Anatomy Lesson | 15.00% | ~1,911 |
 | Grizzled veteran | 13.00% | ~1,656 |
@@ -28,7 +28,7 @@ Number of Ratings: 68  (23.09.2022)
 | Black death | 8.00% | ~1,019 |
 | Play it again, Sam | 8.00% | ~1,019 |
 | Dungeon Veteran | 7.00% | ~892 |
-| Quad damage | 6.00% | ~764 |
+| Quad damage | 6.00% | ~765 |
 | Power Up! | 5.00% | ~637 |
 | The Pro from Dover | 5.00% | ~637 |
 | Pretty lights! | 5.00% | ~637 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~13 |
 | Murder Death Kill | 0.10% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,739 (Ranked 140)  
+Progressed: 12,742 (Ranked 140)  
 Completed: 1 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,10 +98,10 @@ Completed: 1 (0.01%) (Ranked 296)
 | 2023-10-10 | 12,150 | 1 |
 | 2023-10-11 | 12,389 | 1 |
 | 2023-10-12 | 12,652 | 1 |
-| 2023-10-13 | 12,739 | 1 |
+| 2023-10-13 | 12,742 | 1 |
 ## Awards
 Max (Character Customization): 3,551  (Ranked 90)  
-Sum: 8,283 (Ranked 98)  
+Sum: 8,284 (Ranked 98)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -110,8 +110,8 @@ Diff (max vs sum): -8
 | This game has Challenging Combat | 547 |
 | This game is Highly Recommended | 541 |
 | This game is Extremely Fun | 536 |
+| This game is Relaxing | 486 |
 | This game has Amazing Characters | 486 |
-| This game is Relaxing | 485 |
 | This game has Quickly Understood Controls | 481 |
 | This game has Amazing Storytelling | 481 |
 | This game has Unique Visuals | 376 |
@@ -309,4 +309,4 @@ Diff (max vs sum): -8
 | 2023-10-10 | 4.47 | - | 3,548 | 8,275 |
 | 2023-10-11 | 4.47 | - | 3,551 | 8,279 |
 | 2023-10-12 | 4.47 | - | 3,551 | 8,282 |
-| 2023-10-13 | 4.47 | - | 3,551 | 8,283 |
+| 2023-10-13 | 4.47 | - | 3,551 | 8,284 |

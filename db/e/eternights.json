@@ -4,7 +4,7 @@
   "ProductSlug": "eternights-c2fbca",
   "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -1037,17 +1037,17 @@
       "ID": "ACHIEVEMENT_2_FirstBond",
       "SetID": "9bke6f1",
       "Name": "The First Bond",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 192
+      "UsersEstimate": 194
     },
     {
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
       "SetID": "9bke6f1",
       "Name": "Novice Scavenger",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 173
+      "UsersEstimate": 176
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
@@ -1108,8 +1108,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-10-13T08:05:50.0610499+00:00",
+  "LastChanged_Achievements": "2023-10-13T09:06:56.5217455+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:21.0883+00:00",
-  "LastUpdate_Ratings": "2023-10-13T07:57:30.9547227+00:00",
-  "LastUpdate_Achievements": "2023-10-13T08:05:50.0610685+00:00"
+  "LastUpdate_Ratings": "2023-10-13T08:57:49.4701805+00:00",
+  "LastUpdate_Achievements": "2023-10-13T09:06:56.5217708+00:00"
 }

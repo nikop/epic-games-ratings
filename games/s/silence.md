@@ -25,8 +25,8 @@
 | Fastidious Clown | 20.00% | ~26 |
 | Mirror mirror on the wall... | 20.00% | ~26 |
 | Pacifist | 19.00% | ~25 |
+| Home is where the heart is | 19.00% | ~25 |
 | It's not easy being green! | 18.00% | ~24 |
-| Home is where the heart is | 18.00% | ~24 |
 | Death is a part of life | 16.00% | ~21 |
 | Master of Thermodynamics | 14.00% | ~18 |
 | Unfullfilled dreams | 13.00% | ~17 |

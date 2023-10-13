@@ -48,6 +48,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Tax not Included | 0.70% | ~963 |
 | For the Hoard! | 0.70% | ~963 |
 | This Power Level...! | 0.70% | ~963 |
+| Hidden Potential | 0.70% | ~963 |
 | Trash to Treasure | 0.70% | ~963 |
 | Seasoned Journeyman | 0.70% | ~963 |
 | Special Ingredient | 0.70% | ~963 |
@@ -64,7 +65,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Locally Sourced | 0.60% | ~825 |
 | Flying off the Shelves | 0.60% | ~825 |
 | Master of Transmutation | 0.60% | ~825 |
-| Hidden Potential | 0.60% | ~825 |
 | Supercharged | 0.60% | ~825 |
 | Expansion in Session | 0.60% | ~825 |
 | Cranked up to 11 | 0.60% | ~825 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~138 |
 | Cash Only Please | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,513 (Ranked 73)  
+Progressed: 137,515 (Ranked 73)  
 Completed: 168 (0.12%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,17 +295,17 @@ Completed: 168 (0.12%) (Ranked 240)
 | 2023-10-10 | 137,421 | 168 |
 | 2023-10-11 | 137,455 | 168 |
 | 2023-10-12 | 137,496 | 168 |
-| 2023-10-13 | 137,513 | 168 |
+| 2023-10-13 | 137,515 | 168 |
 ## Awards
 Max (Great for Beginners): 4,782  (Ranked 71)  
-Sum: 27,374 (Ranked 50)  
+Sum: 27,375 (Ranked 50)  
 Diff (max vs sum): 21  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,782 |
 | This game is Relaxing | 4,023 |
 | This game has Quickly Understood Controls | 4,012 |
-| This game has Diverse Characters | 3,911 |
+| This game has Diverse Characters | 3,912 |
 | This game is Highly Recommended | 3,759 |
 | This game has Easy Combat | 3,703 |
 | This game has Playful Visuals | 3,184 |
@@ -571,3 +571,4 @@ Diff (max vs sum): 21
 | 2023-10-10 | 3.99 | - | 4,779 | 27,368 |
 | 2023-10-11 | 3.99 | - | 4,779 | 27,370 |
 | 2023-10-12 | 3.99 | - | 4,782 | 27,374 |
+| 2023-10-13 | 3.99 | - | 4,782 | 27,375 |

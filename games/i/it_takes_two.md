@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Struck A Pose | 88.00% | ~11,310 |
-| Fried Friendship | 87.00% | ~11,181 |
-| Look At Him Go | 78.00% | ~10,025 |
-| On Rails Experience | 56.00% | ~7,197 |
-| A Daring Devil | 51.00% | ~6,555 |
-| Break the Bank | 42.00% | ~5,398 |
-| It Took Two | 40.00% | ~5,141 |
-| Bug Sized Relaxation | 20.00% | ~2,570 |
-| Plastic Prison Breakers | 17.00% | ~2,185 |
-| Terror Of The Seven Seas | 15.00% | ~1,928 |
-| Realize Your Art | 12.00% | ~1,542 |
-| Force Triangulated | 12.00% | ~1,542 |
-| Meditation Maestro | 11.00% | ~1,414 |
-| Lost And Found | 10.00% | ~1,285 |
-| Something Fishy | 10.00% | ~1,285 |
-| Platforming Prodigy | 9.00% | ~1,157 |
-| Snackosaurus | 8.00% | ~1,028 |
-| Mood Swing | 7.00% | ~900 |
-| Faraway Frequencies | 4.00% | ~514 |
+| Struck A Pose | 88.00% | ~11,328 |
+| Fried Friendship | 87.00% | ~11,200 |
+| Look At Him Go | 78.00% | ~10,041 |
+| On Rails Experience | 56.00% | ~7,209 |
+| A Daring Devil | 51.00% | ~6,565 |
+| Break the Bank | 42.00% | ~5,407 |
+| It Took Two | 40.00% | ~5,149 |
+| Bug Sized Relaxation | 20.00% | ~2,575 |
+| Plastic Prison Breakers | 17.00% | ~2,188 |
+| Terror Of The Seven Seas | 15.00% | ~1,931 |
+| Realize Your Art | 12.00% | ~1,545 |
+| Force Triangulated | 12.00% | ~1,545 |
+| Meditation Maestro | 11.00% | ~1,416 |
+| Lost And Found | 10.00% | ~1,287 |
+| Something Fishy | 10.00% | ~1,287 |
+| Platforming Prodigy | 9.00% | ~1,159 |
+| Snackosaurus | 8.00% | ~1,030 |
+| Mood Swing | 7.00% | ~901 |
+| Faraway Frequencies | 4.00% | ~515 |
 | Minigame Megalomania | 3.00% | ~386 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,852 (Ranked 139)  
+Progressed: 12,873 (Ranked 139)  
 Completed: 55 (0.43%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -53,4 +53,4 @@ Completed: 55 (0.43%) (Ranked 186)
 | 2023-10-10 | 12,330 | 52 |
 | 2023-10-11 | 12,563 | 52 |
 | 2023-10-12 | 12,797 | 54 |
-| 2023-10-13 | 12,852 | 55 |
+| 2023-10-13 | 12,873 | 55 |

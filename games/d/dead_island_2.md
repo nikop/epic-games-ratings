@@ -16,28 +16,28 @@ Rating: 4.54 (Ranked 510)
 | Apex Predator | 3.00% | ~20,845 |
 | Stacking the Deck | 3.00% | ~20,845 |
 | Personal Assistant Personally Assisted | 3.00% | ~20,845 |
-| Making Your Mark | 2.00% | ~13,896 |
-| Anger Management | 2.00% | ~13,896 |
-| Perks of the Job | 2.00% | ~13,896 |
-| Bookworm | 2.00% | ~13,896 |
-| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,896 |
-| But Doctor, I am Butcho | 2.00% | ~13,896 |
-| Slayer Squad | 2.00% | ~13,896 |
-| Can't Handle the Truth | 2.00% | ~13,896 |
-| Like Riding a Bike | 2.00% | ~13,896 |
-| Zombologist | 2.00% | ~13,896 |
-| Ooh, Shiny! | 2.00% | ~13,896 |
-| A Patton Emerges | 2.00% | ~13,896 |
-| Humanity Distilled | 2.00% | ~13,896 |
-| I Am the Resurrection | 2.00% | ~13,896 |
-| Our True Nature | 2.00% | ~13,896 |
-| This is My Weapon | 2.00% | ~13,896 |
+| Making Your Mark | 2.00% | ~13,897 |
+| Anger Management | 2.00% | ~13,897 |
+| Perks of the Job | 2.00% | ~13,897 |
+| Bookworm | 2.00% | ~13,897 |
+| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,897 |
+| But Doctor, I am Butcho | 2.00% | ~13,897 |
+| Slayer Squad | 2.00% | ~13,897 |
+| Can't Handle the Truth | 2.00% | ~13,897 |
+| Like Riding a Bike | 2.00% | ~13,897 |
+| Zombologist | 2.00% | ~13,897 |
+| Ooh, Shiny! | 2.00% | ~13,897 |
+| A Patton Emerges | 2.00% | ~13,897 |
+| Humanity Distilled | 2.00% | ~13,897 |
+| I Am the Resurrection | 2.00% | ~13,897 |
+| Our True Nature | 2.00% | ~13,897 |
+| This is My Weapon | 2.00% | ~13,897 |
 | Jumbo Keyring | 1.00% | ~6,948 |
 | Down with the Sickness | 1.00% | ~6,948 |
 | Max Headroom | 1.00% | ~6,948 |
 | Go, Bobcats! | 1.00% | ~6,948 |
 | Rising Star | 1.00% | ~6,948 |
-| Smorgasbord | 0.90% | ~6,253 |
+| Smorgasbord | 0.90% | ~6,254 |
 | Internet Famous | 0.80% | ~5,559 |
 | On Safari | 0.70% | ~4,864 |
 | Not Even My Final Form | 0.70% | ~4,864 |
@@ -47,11 +47,11 @@ Rating: 4.54 (Ranked 510)
 | Gore Horse | 0.50% | ~3,474 |
 | Sole Survivor | 0.40% | ~2,779 |
 | Sharpest Tool in the Box | 0.40% | ~2,779 |
-| Survival Skills | 0.30% | ~2,084 |
+| Survival Skills | 0.30% | ~2,085 |
 | Donk! | 0.20% | ~1,390 |
 | Bucket List | 0.10% | ~695 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 694,824 (Ranked 22)  
+Progressed: 694,834 (Ranked 22)  
 Completed: 2,217 (0.32%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 2,217 (0.32%) (Ranked 200)
 | 2023-10-10 | 693,868 | 2,209 |
 | 2023-10-11 | 694,263 | 2,210 |
 | 2023-10-12 | 694,718 | 2,216 |
-| 2023-10-13 | 694,824 | 2,217 |
+| 2023-10-13 | 694,834 | 2,217 |
 ## Awards
 Max (Great Boss Battles): 6,407  (Ranked 58)  
 Sum: 9,576 (Ranked 91)  

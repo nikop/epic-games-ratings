@@ -7835,9 +7835,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 474447,
+  "EOS_Progressed": 474448,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 290,
+  "EOS_NewPlayers": 289,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26080,6 +26080,11 @@
       "Time": "2023-10-13T08:06:18.7962789+00:00",
       "NumProgressed": 474447,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-10-13T09:07:29.6361259+00:00",
+      "NumProgressed": 474448,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -26115,7 +26120,7 @@
       "Name": "Unbeatable!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 175545
+      "UsersEstimate": 175546
     },
     {
       "ID": "achievement_10_seasons_at_one_club",
@@ -26211,7 +26216,7 @@
       "Name": "Fantastic Five",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 113867
+      "UsersEstimate": 113868
     },
     {
       "ID": "achievement_always_a_plan_b",
@@ -26243,7 +26248,7 @@
       "Name": "Thumping",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 175545
+      "UsersEstimate": 175546
     },
     {
       "ID": "achievement_buy_50_million_plus_player",
@@ -26251,7 +26256,7 @@
       "Name": "Splashing The Cash",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 104378
+      "UsersEstimate": 104379
     },
     {
       "ID": "achievement_childhood_dream",
@@ -26267,7 +26272,7 @@
       "Name": "Clean Bill of Health",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 104378
+      "UsersEstimate": 104379
     },
     {
       "ID": "achievement_clean_sheet",
@@ -26331,7 +26336,7 @@
       "Name": "Full Faith",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 113867
+      "UsersEstimate": 113868
     },
     {
       "ID": "achievement_gain_bottom_to_top_promotion",
@@ -26363,7 +26368,7 @@
       "Name": "What A Goal!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 104378
+      "UsersEstimate": 104379
     },
     {
       "ID": "achievement_goal_of_the_season",
@@ -26387,7 +26392,7 @@
       "Name": "Irresistible Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 94889
+      "UsersEstimate": 94890
     },
     {
       "ID": "achievement_golden_boot_award",
@@ -26411,7 +26416,7 @@
       "Name": "Hat-trick",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 194523
+      "UsersEstimate": 194524
     },
     {
       "ID": "achievement_head_to_head",
@@ -26459,7 +26464,7 @@
       "Name": "Iron Curtain",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 113867
+      "UsersEstimate": 113868
     },
     {
       "ID": "achievement_manager_of_the_month",
@@ -26475,7 +26480,7 @@
       "Name": "The Boss",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 113867
+      "UsersEstimate": 113868
     },
     {
       "ID": "achievement_most_goals_scored_in_league",
@@ -26515,7 +26520,7 @@
       "Name": "Superb Dressing Room Atmosphere",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 166056
+      "UsersEstimate": 166057
     },
     {
       "ID": "achievement_perfect_managerial_support",
@@ -26531,7 +26536,7 @@
       "Name": "Excellent Match Cohesion",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 94889
+      "UsersEstimate": 94890
     },
     {
       "ID": "achievement_pick_feeder",
@@ -26731,7 +26736,7 @@
       "Name": "Cup Glory!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 104378
+      "UsersEstimate": 104379
     },
     {
       "ID": "achievement_won_international_championship",
@@ -26874,15 +26879,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 474447,
+      "Progressed": 474448,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-10-13T01:43:23.2938809+00:00",
-  "LastChanged_Achievements": "2023-10-13T08:06:18.7962784+00:00",
+  "LastChanged_Achievements": "2023-10-13T09:07:29.6361251+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:37.2597837+00:00",
-  "LastUpdate_Ratings": "2023-10-13T07:58:39.9311887+00:00",
-  "LastUpdate_Achievements": "2023-10-13T08:06:18.7964535+00:00"
+  "LastUpdate_Ratings": "2023-10-13T08:59:30.2535238+00:00",
+  "LastUpdate_Achievements": "2023-10-13T09:07:29.6363714+00:00"
 }

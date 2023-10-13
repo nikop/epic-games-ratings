@@ -56,6 +56,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Regicide | 0.70% | ~102 |
 | Drillmaster | 0.70% | ~102 |
 | Great | 0.70% | ~102 |
+| Legendary Cities | 0.70% | ~102 |
 | Artisans | 0.70% | ~102 |
 | Apadana | 0.70% | ~102 |
 | Colossus | 0.70% | ~102 |
@@ -64,7 +65,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 2 | 0.70% | ~102 |
 | Mighty | 0.60% | ~88 |
 | Valiant | 0.60% | ~88 |
-| Legendary Cities | 0.60% | ~88 |
 | Just Difficulty | 0.60% | ~88 |
 | Champions | 0.60% | ~88 |
 | Sages | 0.60% | ~88 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,632 (Ranked 134)  
+Progressed: 14,633 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -525,7 +525,7 @@ Completed: 5 (0.03%) (Ranked 282)
 | 2023-10-10 | 14,586 | 5 |
 | 2023-10-11 | 14,606 | 5 |
 | 2023-10-12 | 14,624 | 5 |
-| 2023-10-13 | 14,632 | 5 |
+| 2023-10-13 | 14,633 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,835 (Ranked 210)  

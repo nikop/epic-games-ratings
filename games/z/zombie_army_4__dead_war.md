@@ -6,21 +6,21 @@ Number of Ratings: 743  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 69.00% | ~30,098 |
-| Say goodbye, creep! | 66.00% | ~28,790 |
+| Shoot it, man! Shoot it in the head! | 69.00% | ~30,099 |
+| Say goodbye, creep! | 66.00% | ~28,791 |
 | Blood splattered | 65.00% | ~28,354 |
-| Groovy | 62.00% | ~27,045 |
-| Choo choo! | 62.00% | ~27,045 |
-| Cleanup on aisle 4! | 57.00% | ~24,864 |
-| Gold | 50.00% | ~21,810 |
-| The boat can leave now...tell the crew | 49.00% | ~21,374 |
+| Groovy | 62.00% | ~27,046 |
+| Choo choo! | 62.00% | ~27,046 |
+| Cleanup on aisle 4! | 57.00% | ~24,865 |
+| Gold | 50.00% | ~21,811 |
+| The boat can leave now...tell the crew | 49.00% | ~21,375 |
 | Give me something to shoot! | 47.00% | ~20,502 |
 | Stand back boy! | 47.00% | ~20,502 |
-| Chain reaction | 45.00% | ~19,629 |
-| Weird science | 44.00% | ~19,193 |
+| Chain reaction | 45.00% | ~19,630 |
+| Weird science | 44.00% | ~19,194 |
 | What did you say, Blain? | 42.00% | ~18,321 |
 | Look mummy! A shark! | 41.00% | ~17,885 |
-| In the dark dark woods... | 39.00% | ~17,012 |
+| In the dark dark woods... | 39.00% | ~17,013 |
 | Come and get it! It's a running buffet! | 38.00% | ~16,576 |
 | Double tap | 37.00% | ~16,140 |
 | All of this has happened before… | 36.00% | ~15,704 |
@@ -32,7 +32,7 @@ Number of Ratings: 743  (23.09.2022)
 | You're all going to die down here | 32.00% | ~13,959 |
 | He did Nazi that coming | 32.00% | ~13,959 |
 | Kill of the week | 31.00% | ~13,523 |
-| I never liked them anyway | 30.00% | ~13,086 |
+| I never liked them anyway | 30.00% | ~13,087 |
 | Is it over? | 28.00% | ~12,214 |
 | Got your back | 27.00% | ~11,778 |
 | Gore soaked | 24.00% | ~10,469 |
@@ -50,12 +50,12 @@ Number of Ratings: 743  (23.09.2022)
 | Plane sailing | 8.00% | ~3,490 |
 | I can do anything I want. I got guns | 8.00% | ~3,490 |
 | Send me an angel | 8.00% | ~3,490 |
-| This is no Sunday School picnic! | 7.00% | ~3,053 |
-| I never redoubted you! | 7.00% | ~3,053 |
-| Not today you won't | 7.00% | ~3,053 |
-| Gotcha, didn't I? | 7.00% | ~3,053 |
-| A gross gross | 7.00% | ~3,053 |
-| Hail to the king, baby! | 7.00% | ~3,053 |
+| This is no Sunday School picnic! | 7.00% | ~3,054 |
+| I never redoubted you! | 7.00% | ~3,054 |
+| Not today you won't | 7.00% | ~3,054 |
+| Gotcha, didn't I? | 7.00% | ~3,054 |
+| A gross gross | 7.00% | ~3,054 |
+| Hail to the king, baby! | 7.00% | ~3,054 |
 | Something wicked this way comes | 6.00% | ~2,617 |
 | Take a little bit of Italy with you | 6.00% | ~2,617 |
 | Staring at Shadows | 6.00% | ~2,617 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~436 |
 | None more hard | 0.50% | ~218 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,621 (Ranked 103)  
+Progressed: 43,622 (Ranked 103)  
 Completed: 25 (0.06%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,7 +249,7 @@ Completed: 25 (0.06%) (Ranked 265)
 | 2023-10-10 | 43,601 | 25 |
 | 2023-10-11 | 43,608 | 25 |
 | 2023-10-12 | 43,618 | 25 |
-| 2023-10-13 | 43,621 | 25 |
+| 2023-10-13 | 43,622 | 25 |
 ## Awards
 Max (Great Boss Battles): 833  (Ranked 159)  
 Sum: 2,514 (Ranked 182)  

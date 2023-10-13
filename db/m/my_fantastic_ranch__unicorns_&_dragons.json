@@ -2,9 +2,9 @@
   "ID": "62dde68a8e2a400da4f259d970803658",
   "Name": "My Fantastic Ranch: Unicorns \u0026 Dragons",
   "ProductSlug": "my-fantastic-ranch",
-  "Ranking_EOS_Progress": 464,
+  "Ranking_EOS_Progress": 465,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewPlayers": 391,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-11-17T09:00:00+00:00",
@@ -417,8 +417,8 @@
   "FirstSeenRating": "2023-03-31T05:58:20.5434938+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.8838282+00:00",
   "LastChanged": "2023-03-31T05:58:20.5434939+00:00",
-  "LastChanged_Achievements": "2023-10-13T08:03:44.4932311+00:00",
+  "LastChanged_Achievements": "2023-10-13T09:04:05.0491139+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:15.8487562+00:00",
-  "LastUpdate_Ratings": "2023-10-13T07:59:49.8868099+00:00",
-  "LastUpdate_Achievements": "2023-10-13T08:03:44.4932515+00:00"
+  "LastUpdate_Ratings": "2023-10-13T09:01:11.4631468+00:00",
+  "LastUpdate_Achievements": "2023-10-13T09:04:05.049146+00:00"
 }
