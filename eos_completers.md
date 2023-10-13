@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 51.12% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 51.05% |
 | 3 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 47.17% |
 | 5 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.34% |
@@ -45,7 +45,7 @@
 | 42 | [Ravenlok](games/r/ravenlok.md) | 7.69% |
 | 44 | [Sonic Origins](games/s/sonic_origins.md) | 7.64% |
 | 45 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.61% |
-| 46 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.54% |
+| 46 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.52% |
 | 47 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.41% |
 | 48 | [Time Loader](games/t/time_loader.md) | 7.20% |
 | 49 | [Scorn](games/s/scorn.md) | 7.02% |
@@ -60,8 +60,8 @@
 | 54 | [Time on Frog Island](games/t/time_on_frog_island.md) | 5.88% |
 | 59 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.77% |
 | 59 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 5.77% |
-| 61 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.00% |
-| 62 | [JARS](games/j/jars.md) | 4.94% |
+| 61 | [JARS](games/j/jars.md) | 4.94% |
+| 62 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.92% |
 | 63 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
 | 64 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.76% |
 | 65 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.73% |
@@ -71,7 +71,7 @@
 | 69 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.11% |
 | 70 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.02% |
 | 71 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 3.92% |
-| 72 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.91% |
+| 72 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.90% |
 | 73 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.83% |
 | 74 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
 | 75 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.79% |
@@ -83,7 +83,7 @@
 | 81 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.38% |
 | 82 | [The Complex](games/t/the_complex.md) | 3.35% |
 | 83 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
-| 84 | [Doodle God](games/d/doodle_god.md) | 3.31% |
+| 84 | [Doodle God](games/d/doodle_god.md) | 3.29% |
 | 85 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.27% |
 | 86 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.19% |
 | 87 | [Monster Harvest](games/m/monster_harvest.md) | 3.15% |
@@ -112,8 +112,8 @@
 | 110 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.09% |
 | 111 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.00% |
 | 112 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.98% |
-| 113 | [Night Book](games/n/night_book.md) | 1.86% |
-| 114 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.85% |
+| 113 | [Night Book](games/n/night_book.md) | 1.85% |
+| 113 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.85% |
 | 115 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.82% |
 | 116 | [Sifu](games/s/sifu.md) | 1.81% |
 | 117 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.80% |
@@ -125,7 +125,7 @@
 | 122 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.49% |
 | 124 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
 | 125 | [Iron Danger](games/i/iron_danger.md) | 1.44% |
-| 126 | [Late Shift](games/l/late_shift.md) | 1.41% |
+| 126 | [Late Shift](games/l/late_shift.md) | 1.40% |
 | 127 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.38% |
 | 127 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.38% |
 | 127 | [Poosh XL](games/p/poosh_xl.md) | 1.38% |
@@ -134,7 +134,7 @@
 | 132 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.32% |
 | 132 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.32% |
 | 132 | [Lemon Cake](games/l/lemon_cake.md) | 1.32% |
-| 132 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.32% |
+| 135 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.31% |
 | 136 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 1.30% |
 | 137 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.18% |
 | 138 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.13% |
@@ -279,14 +279,14 @@
 | 276 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 0.04% |
 | 276 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.04% |
 | 276 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 0.04% |
-| 276 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.04% |
 | 276 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.04% |
 | 276 | [Tropico 6](games/t/tropico_6.md) | 0.04% |
-| 283 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
-| 283 | [Old World](games/o/old_world.md) | 0.03% |
-| 283 | [Session: Skate Sim](games/s/session__skate_sim.md) | 0.03% |
-| 283 | [STAR WARS™ Battlefront™ II: Celebration Edition](games/s/star_wars™_battlefront™_ii__celebration_edition.md) | 0.03% |
-| 283 | [SYNCED](games/s/synced.md) | 0.03% |
+| 282 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
+| 282 | [Old World](games/o/old_world.md) | 0.03% |
+| 282 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.03% |
+| 282 | [Session: Skate Sim](games/s/session__skate_sim.md) | 0.03% |
+| 282 | [STAR WARS™ Battlefront™ II: Celebration Edition](games/s/star_wars™_battlefront™_ii__celebration_edition.md) | 0.03% |
+| 282 | [SYNCED](games/s/synced.md) | 0.03% |
 | 288 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.02% |
 | 288 | [Deceive Inc.](games/d/deceive_inc..md) | 0.02% |
 | 288 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
