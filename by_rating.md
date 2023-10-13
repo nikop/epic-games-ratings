@@ -126,7 +126,7 @@
 | 119 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.76 | 0 | 534 |
 | 119 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 902 | 154 |
 | 119 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.76 | 23,469 | 17 |
-| 119 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,691 | 75 |
+| 119 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,699 | 75 |
 | 119 | [Journey](games/j/journey.md) | 4.76 | 0 | 534 |
 | 119 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 534 |
 | 119 | [Legend Bowl](games/l/legend_bowl.md) | 4.76 | 0 | 534 |
@@ -477,7 +477,7 @@
 | 472 | [Aztez](games/a/aztez.md) | 4.56 | 0 | 534 |
 | 472 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 51 | 410 |
 | 472 | [Deceive Inc.](games/d/deceive_inc..md) | 4.56 | 0 | 534 |
-| 472 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 875 | 157 |
+| 472 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 876 | 157 |
 | 472 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 27 | 489 |
 | 472 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.56 | 347 | 232 |
 | 472 | [Hue](games/h/hue.md) | 4.56 | 0 | 534 |
@@ -719,7 +719,7 @@
 | 696 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 1,409 | 131 |
 | 718 | [Breathedge](games/b/breathedge.md) | 4.40 | 0 | 534 |
 | 718 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.40 | 0 | 534 |
-| 718 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 1,040 | 144 |
+| 718 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 1,041 | 144 |
 | 718 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.40 | 0 | 534 |
 | 718 | [Godlike Burger](games/g/godlike_burger.md) | 4.40 | 0 | 534 |
 | 718 | [Hell is Others](games/h/hell_is_others.md) | 4.40 | 45 | 425 |
