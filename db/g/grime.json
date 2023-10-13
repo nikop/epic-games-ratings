@@ -1060,9 +1060,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 151684,
+  "EOS_Progressed": 151704,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1186,
+  "EOS_NewPlayers": 1187,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11335,6 +11335,11 @@
       "Time": "2023-10-13T00:08:30.4484805+00:00",
       "NumProgressed": 151684,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-13T01:53:07.9732796+00:00",
+      "NumProgressed": 151704,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -11418,7 +11423,7 @@
       "Name": "Weeper",
       "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 1213
+      "UsersEstimate": 1214
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -11482,7 +11487,7 @@
       "Name": "Harmless",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "DEFEAT_JAWCRAB",
@@ -11504,9 +11509,9 @@
       "ID": "DEFEAT_PERFORMER",
       "SetID": "ccc0dlh",
       "Name": "Celebration",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 303
+      "UsersEstimate": 455
     },
     {
       "ID": "DEFEAT_SHIDRA",
@@ -11538,7 +11543,7 @@
       "Name": "Silenced Whispers",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "MISC_ABSORBMANY",
@@ -11618,7 +11623,7 @@
       "Name": "Ravenous",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1213
+      "UsersEstimate": 1214
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -11713,21 +11718,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 151267,
+      "Progressed": 151287,
       "Completed": 1155
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 151684,
+      "Progressed": 151704,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-12T16:59:41.5193052+00:00",
-  "LastChanged_Achievements": "2023-10-13T00:08:30.44848+00:00",
+  "LastChanged_Achievements": "2023-10-13T01:53:07.973279+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:46.4911319+00:00",
-  "LastUpdate_Ratings": "2023-10-12T23:59:37.8866162+00:00",
-  "LastUpdate_Achievements": "2023-10-13T00:08:30.4485597+00:00"
+  "LastUpdate_Ratings": "2023-10-13T01:44:00.2322509+00:00",
+  "LastUpdate_Achievements": "2023-10-13T01:53:07.9733839+00:00"
 }

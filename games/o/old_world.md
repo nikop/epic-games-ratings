@@ -6,12 +6,13 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 2.00% | ~292 |
-| Settler | 2.00% | ~292 |
-| Friendly Family | 2.00% | ~292 |
-| Play a Single Player Game | 2.00% | ~292 |
+| Explorer | 2.00% | ~293 |
+| Settler | 2.00% | ~293 |
+| Friendly Family | 2.00% | ~293 |
+| Play a Single Player Game | 2.00% | ~293 |
 | Able | 1.00% | ~146 |
 | Architect | 1.00% | ~146 |
+| Enlightened | 1.00% | ~146 |
 | Glorious | 1.00% | ~146 |
 | Good | 1.00% | ~146 |
 | Intrepid | 1.00% | ~146 |
@@ -34,7 +35,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Trade Caravan | 1.00% | ~146 |
 | Kushite Paganism | 1.00% | ~146 |
 | Ambitious | 0.90% | ~132 |
-| Enlightened | 0.90% | ~132 |
 | Magnificent | 0.90% | ~132 |
 | Wise | 0.90% | ~132 |
 | Ishtar Gate | 0.90% | ~132 |
@@ -85,27 +85,27 @@ Number of Ratings: 1,307  (23.09.2022)
 | Power to the People | 0.50% | ~73 |
 | Building Wonders | 0.50% | ~73 |
 | Double Victory | 0.50% | ~73 |
-| Invincible | 0.40% | ~58 |
-| Lion | 0.40% | ~58 |
-| Subjugator | 0.40% | ~58 |
-| Landowners | 0.40% | ~58 |
-| Riders | 0.40% | ~58 |
-| Traders | 0.40% | ~58 |
-| Hittite Iron | 0.40% | ~58 |
-| Hagia Sophia | 0.40% | ~58 |
-| Church of the Holy Sepulchre | 0.40% | ~58 |
-| Temple of Solomon | 0.40% | ~58 |
-| Pantheon | 0.40% | ~58 |
-| Via Recta Souk | 0.40% | ~58 |
-| Learn to Play 4 | 0.40% | ~58 |
-| Persian Paganism | 0.40% | ~58 |
-| Legalism | 0.40% | ~58 |
-| Redemption | 0.40% | ~58 |
-| Revelation | 0.40% | ~58 |
-| Cimmerian Archer | 0.40% | ~58 |
-| Legionary | 0.40% | ~58 |
-| Phalangite | 0.40% | ~58 |
-| Points Victory | 0.40% | ~58 |
+| Invincible | 0.40% | ~59 |
+| Lion | 0.40% | ~59 |
+| Subjugator | 0.40% | ~59 |
+| Landowners | 0.40% | ~59 |
+| Riders | 0.40% | ~59 |
+| Traders | 0.40% | ~59 |
+| Hittite Iron | 0.40% | ~59 |
+| Hagia Sophia | 0.40% | ~59 |
+| Church of the Holy Sepulchre | 0.40% | ~59 |
+| Temple of Solomon | 0.40% | ~59 |
+| Pantheon | 0.40% | ~59 |
+| Via Recta Souk | 0.40% | ~59 |
+| Learn to Play 4 | 0.40% | ~59 |
+| Persian Paganism | 0.40% | ~59 |
+| Legalism | 0.40% | ~59 |
+| Redemption | 0.40% | ~59 |
+| Revelation | 0.40% | ~59 |
+| Cimmerian Archer | 0.40% | ~59 |
+| Legionary | 0.40% | ~59 |
+| Phalangite | 0.40% | ~59 |
+| Points Victory | 0.40% | ~59 |
 | Capable | 0.30% | ~44 |
 | Devout | 0.30% | ~44 |
 | Strong Difficulty | 0.30% | ~44 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,625 (Ranked 134)  
+Progressed: 14,626 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -525,7 +525,7 @@ Completed: 5 (0.03%) (Ranked 282)
 | 2023-10-10 | 14,586 | 5 |
 | 2023-10-11 | 14,606 | 5 |
 | 2023-10-12 | 14,624 | 5 |
-| 2023-10-13 | 14,625 | 5 |
+| 2023-10-13 | 14,626 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,835 (Ranked 210)  

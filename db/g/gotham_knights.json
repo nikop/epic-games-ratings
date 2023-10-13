@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3426,18 +3426,24 @@
       "Rating": 4.18,
       "NumberOfAwards": 4717,
       "NumberOfAwardsMax": 2811
+    },
+    {
+      "Time": "2023-10-13T01:42:24.3885944+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4727,
+      "NumberOfAwardsMax": 2819
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4717,
-  "NumberOfAwardsMax": 2811,
+  "NumberOfAwards": 4727,
+  "NumberOfAwardsMax": 2819,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2811
+      "Count": 2819
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3455,7 +3461,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 239
+      "Count": 241
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3494,9 +3500,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73448,
+  "EOS_Progressed": 73450,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 265,
+  "EOS_NewPlayers": 259,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -18479,6 +18485,11 @@
       "Time": "2023-10-12T23:04:15.3584046+00:00",
       "NumProgressed": 73448,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-10-13T01:49:04.1447098+00:00",
+      "NumProgressed": 73450,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 61,
@@ -18538,7 +18549,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16893
+      "UsersEstimate": 16894
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -18578,7 +18589,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11017
+      "UsersEstimate": 11018
     },
     {
       "ID": "CHALLENGES_1",
@@ -18634,7 +18645,7 @@
       "Name": "Fusion Expert",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 5141
+      "UsersEstimate": 5142
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -18688,9 +18699,9 @@
       "ID": "DEFEAT_OC_1",
       "SetID": "4eo5ebm",
       "Name": "Family Meeting",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 4407
+      "UsersEstimate": 5142
     },
     {
       "ID": "DEFEAT_OC_2",
@@ -18730,7 +18741,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 13955
+      "UsersEstimate": 13956
     },
     {
       "ID": "FREEZE_3",
@@ -18794,7 +18805,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25707
+      "UsersEstimate": 25708
     },
     {
       "ID": "HARLEY_2",
@@ -18834,7 +18845,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 38193
+      "UsersEstimate": 38194
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -18850,7 +18861,7 @@
       "Name": "A Momentum Occasion",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2203
+      "UsersEstimate": 2204
     },
     {
       "ID": "HERO_PROGRESSION_4",
@@ -18866,7 +18877,7 @@
       "Name": "Knighthood",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20565
+      "UsersEstimate": 20566
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -18882,7 +18893,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24972
+      "UsersEstimate": 24973
     },
     {
       "ID": "MYSTERY_02",
@@ -18898,7 +18909,7 @@
       "Name": "Lock and Key",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16893
+      "UsersEstimate": 16894
     },
     {
       "ID": "MYSTERY_04",
@@ -18922,7 +18933,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11017
+      "UsersEstimate": 11018
     },
     {
       "ID": "MYSTERY_07",
@@ -18946,7 +18957,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 8079
+      "UsersEstimate": 8080
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -18970,29 +18981,29 @@
       "Name": "Bat Out of Hell",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2203
+      "UsersEstimate": 2204
     }
   ],
   "AchievementSets": [
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73448,
+      "Progressed": 73450,
       "Completed": 121
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43728,
+      "Progressed": 43730,
       "Completed": 2666
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-10-12T13:57:14.6497649+00:00",
-  "LastChanged_Achievements": "2023-10-13T00:04:31.8898483+00:00",
+  "LastChanged": "2023-10-13T01:42:24.3885942+00:00",
+  "LastChanged_Achievements": "2023-10-13T01:49:04.1447096+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:31.3761181+00:00",
-  "LastUpdate_Ratings": "2023-10-12T23:57:28.6591945+00:00",
-  "LastUpdate_Achievements": "2023-10-13T00:04:31.8899709+00:00"
+  "LastUpdate_Ratings": "2023-10-13T01:42:24.3885949+00:00",
+  "LastUpdate_Achievements": "2023-10-13T01:49:04.1448635+00:00"
 }

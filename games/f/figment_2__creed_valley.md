@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Black Hog Down | 35.00% | ~7 |
-| Ouch, that hurt! | 30.00% | ~6 |
-| Remembering of the past | 30.00% | ~6 |
-| Slam-KABAM | 25.00% | ~5 |
-| Repair the Mind Validation Machine | 25.00% | ~5 |
-| A heavy thinker | 20.00% | ~4 |
-| Fight like an idiot | 20.00% | ~4 |
-| Heavy Thoughts | 15.00% | ~3 |
-| Dance like an idiot | 15.00% | ~3 |
-| Flee like an idiot | 15.00% | ~3 |
+| Black Hog Down | 33.00% | ~7 |
+| Ouch, that hurt! | 29.00% | ~6 |
+| Remembering of the past | 29.00% | ~6 |
+| Slam-KABAM | 24.00% | ~5 |
+| Repair the Mind Validation Machine | 24.00% | ~5 |
+| A heavy thinker | 19.00% | ~4 |
+| Fight like an idiot | 19.00% | ~4 |
+| Heavy Thoughts | 14.00% | ~3 |
+| Dance like an idiot | 14.00% | ~3 |
+| Flee like an idiot | 14.00% | ~3 |
 | I'm Back at the Surface now | 10.00% | ~2 |
 | Elementary, My Dear Dusty | 10.00% | ~2 |
 | Come full circle | 5.00% | ~1 |
@@ -23,7 +23,7 @@
 | GOAAAAAAAAAL! | 0.00% | ~0 |
 | Memory Completionist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20 (Ranked 483)  
+Progressed: 21 (Ranked 482)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -42,6 +42,7 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-10-05 | 18 | 0 |
 | 2023-10-07 | 19 | 0 |
 | 2023-10-10 | 20 | 0 |
+| 2023-10-13 | 21 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

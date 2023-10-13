@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 391,
   "Ranking_EOS_Progress": 25,
   "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -898,9 +898,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 663233,
+  "EOS_Progressed": 663235,
   "EOS_Completed": 171,
-  "EOS_NewPlayers": 285,
+  "EOS_NewPlayers": 286,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -17538,6 +17538,11 @@
       "Time": "2023-10-13T00:03:29.2792165+00:00",
       "NumProgressed": 663233,
       "NumCompleted": 171
+    },
+    {
+      "Time": "2023-10-13T01:48:24.2657219+00:00",
+      "NumProgressed": 663235,
+      "NumCompleted": 171
     }
   ],
   "TotalAchievements": 48,
@@ -17549,7 +17554,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 477528
+      "UsersEstimate": 477529
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -17557,7 +17562,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 384675
+      "UsersEstimate": 384676
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -17613,7 +17618,7 @@
       "Name": "Gambler",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66323
+      "UsersEstimate": 66324
     },
     {
       "ID": "Achievement_10_Long_Shot",
@@ -17645,7 +17650,7 @@
       "Name": "Dice Master",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66323
+      "UsersEstimate": 66324
     },
     {
       "ID": "Achievement_14_Magician",
@@ -17813,7 +17818,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 165808
+      "UsersEstimate": 165809
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -17932,15 +17937,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 663233,
+      "Progressed": 663235,
       "Completed": 171
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-09-17T14:00:02.1778642+00:00",
-  "LastChanged_Achievements": "2023-10-13T00:03:29.2792153+00:00",
+  "LastChanged_Achievements": "2023-10-13T01:48:24.2657205+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:13.7193737+00:00",
-  "LastUpdate_Ratings": "2023-10-13T00:00:34.5776571+00:00",
-  "LastUpdate_Achievements": "2023-10-13T00:03:29.2794022+00:00"
+  "LastUpdate_Ratings": "2023-10-13T01:44:42.3997187+00:00",
+  "LastUpdate_Achievements": "2023-10-13T01:48:24.2659602+00:00"
 }

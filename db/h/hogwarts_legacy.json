@@ -8836,10 +8836,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 45698,
       "NumberOfAwardsMax": 23469
+    },
+    {
+      "Time": "2023-10-13T01:44:37.024479+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 45702,
+      "NumberOfAwardsMax": 23469
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 45698,
+  "NumberOfAwards": 45702,
   "NumberOfAwardsMax": 23469,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8871,7 +8877,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1172
+      "Count": 1176
     },
     {
       "Text": "This game is Extremely Fun",
@@ -8916,7 +8922,7 @@
       "Count": 710
     }
   ],
-  "EOS_Progressed": 298217,
+  "EOS_Progressed": 298220,
   "EOS_Completed": 485,
   "EOS_NewPlayers": 343,
   "EOS_NewCompleters": 4,
@@ -27741,6 +27747,11 @@
       "Time": "2023-10-12T23:04:20.8839323+00:00",
       "NumProgressed": 298217,
       "NumCompleted": 485
+    },
+    {
+      "Time": "2023-10-13T01:49:08.8577596+00:00",
+      "NumProgressed": 298220,
+      "NumCompleted": 485
     }
   ],
   "TotalAchievements": 45,
@@ -27800,7 +27811,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23857
+      "UsersEstimate": 23858
     },
     {
       "ID": "PFA_16",
@@ -27824,7 +27835,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23857
+      "UsersEstimate": 23858
     },
     {
       "ID": "PFA_19",
@@ -27832,7 +27843,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23857
+      "UsersEstimate": 23858
     },
     {
       "ID": "PFA_2",
@@ -28080,7 +28091,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38768
+      "UsersEstimate": 38769
     },
     {
       "ID": "PFA_7",
@@ -28088,7 +28099,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38768
+      "UsersEstimate": 38769
     },
     {
       "ID": "PFA_8",
@@ -28111,16 +28122,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298217,
+      "Progressed": 298220,
       "Completed": 485
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-10-12T22:00:23.4266415+00:00",
-  "LastChanged_Achievements": "2023-10-13T00:04:37.9655802+00:00",
+  "LastChanged": "2023-10-13T01:44:37.0244788+00:00",
+  "LastChanged_Achievements": "2023-10-13T01:49:08.857759+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:01.0338203+00:00",
-  "LastUpdate_Ratings": "2023-10-13T00:00:26.904945+00:00",
-  "LastUpdate_Achievements": "2023-10-13T00:04:37.9656959+00:00"
+  "LastUpdate_Ratings": "2023-10-13T01:44:37.0244796+00:00",
+  "LastUpdate_Achievements": "2023-10-13T01:49:08.8579088+00:00"
 }

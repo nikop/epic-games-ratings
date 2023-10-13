@@ -106,8 +106,8 @@
 | Mail Slot | 14.00% | ~93 |
 | Patriot | 14.00% | ~93 |
 | Legend | 14.00% | ~93 |
+| Long Service Medal | 13.00% | ~87 |
 | Combined Arms | 12.00% | ~80 |
-| Long Service Medal | 12.00% | ~80 |
 | Barrier Mastery | 11.00% | ~73 |
 | Paramour III | 11.00% | ~73 |
 | Bruiser | 11.00% | ~73 |

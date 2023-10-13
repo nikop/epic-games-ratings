@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 415,
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 44,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-06-23T04:00:00+00:00",
@@ -2506,9 +2506,9 @@
       "ID": "ID_15_NOVICE_HERO",
       "SetID": "7o8nc5m",
       "Name": "Newbie Hero",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 443
+      "UsersEstimate": 449
     },
     {
       "ID": "ID_16_WATCH_AT_MUSEUM",
@@ -2682,8 +2682,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-10-04T20:01:39.9838728+00:00",
-  "LastChanged_Achievements": "2023-10-13T00:08:41.6050296+00:00",
+  "LastChanged_Achievements": "2023-10-13T01:53:16.7321219+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:14.4441586+00:00",
-  "LastUpdate_Ratings": "2023-10-13T00:00:42.151196+00:00",
-  "LastUpdate_Achievements": "2023-10-13T00:08:41.6050619+00:00"
+  "LastUpdate_Ratings": "2023-10-13T01:44:46.1686763+00:00",
+  "LastUpdate_Achievements": "2023-10-13T01:53:16.7321739+00:00"
 }

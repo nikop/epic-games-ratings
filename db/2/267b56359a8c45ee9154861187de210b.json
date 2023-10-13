@@ -541,9 +541,9 @@
       "ID": "beat_c4_silver",
       "SetID": "3448go",
       "Name": "Slip Sliding Away",
-      "Percentage": 2,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "beat_c4a_bronze",
@@ -805,9 +805,9 @@
       "ID": "rolldist_short",
       "SetID": "3448go",
       "Name": "Rolling the Competition",
-      "Percentage": 67,
+      "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "soccer_hattrick",
@@ -916,8 +916,8 @@
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2023-10-13T00:07:45.3907937+00:00",
+  "LastChanged_Achievements": "2023-10-13T01:51:33.4097663+00:00",
   "LastUpdate_AppInfo": "2023-10-11T21:57:10.1271769+00:00",
-  "LastUpdate_Ratings": "2023-10-12T23:57:14.605897+00:00",
-  "LastUpdate_Achievements": "2023-10-13T00:07:45.3908747+00:00"
+  "LastUpdate_Ratings": "2023-10-13T01:42:13.3697886+00:00",
+  "LastUpdate_Achievements": "2023-10-13T01:51:33.4098736+00:00"
 }

@@ -15,7 +15,7 @@ Rating: 4.46 (Ranked 628)
 | Can You Dig It? | 17.00% | ~42,547 |
 | You Juan-A-Go? | 16.00% | ~40,044 |
 | Chan-tastic | 15.00% | ~37,542 |
-| Muddy Waters | 14.00% | ~35,039 |
+| Muddy Waters | 15.00% | ~37,542 |
 | Toasty! | 13.00% | ~32,536 |
 | Lazy Laser | 8.00% | ~20,022 |
 | Just A Phaze | 7.00% | ~17,519 |

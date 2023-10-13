@@ -9,11 +9,11 @@ Number of Ratings: 46  (23.09.2022)
 | Taste | 1.00% | ~1,517 |
 | Imprint | 1.00% | ~1,517 |
 | The Hunt | 0.90% | ~1,365 |
-| Weeper | 0.80% | ~1,213 |
-| Ravenous | 0.80% | ~1,213 |
+| Weeper | 0.80% | ~1,214 |
+| Ravenous | 0.80% | ~1,214 |
 | Devourer | 0.60% | ~910 |
-| Harmless | 0.50% | ~758 |
-| Silenced Whispers | 0.50% | ~758 |
+| Harmless | 0.50% | ~759 |
+| Silenced Whispers | 0.50% | ~759 |
 | Scion | 0.40% | ~605 |
 | Jawcrab | 0.40% | ~607 |
 | Jawstag | 0.40% | ~607 |
@@ -25,12 +25,12 @@ Number of Ratings: 46  (23.09.2022)
 | Shapely | 0.30% | ~455 |
 | Glare | 0.30% | ~454 |
 | Host | 0.30% | ~454 |
+| Celebration | 0.30% | ~455 |
 | Predator | 0.30% | ~455 |
 | Breath | 0.20% | ~303 |
 | Hunt Down | 0.20% | ~303 |
 | Artisan | 0.20% | ~303 |
 | Hush | 0.20% | ~303 |
-| Celebration | 0.20% | ~303 |
 | Inevitable | 0.20% | ~303 |
 | All-Seeing | 0.20% | ~303 |
 | Breathsmith | 0.20% | ~303 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~151 |
 | Intensify | 0.10% | ~151 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 151,684 (Ranked 71)  
+Progressed: 151,704 (Ranked 71)  
 Completed: 1 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 1 (0.00%) (Ranked 314)
 | 2023-10-10 | 151,469 | 1 |
 | 2023-10-11 | 151,477 | 1 |
 | 2023-10-12 | 151,679 | 1 |
-| 2023-10-13 | 151,684 | 1 |
+| 2023-10-13 | 151,704 | 1 |
 ## Awards
 Max (Highly Recommended): 42  (Ranked 435)  
 Sum: 280 (Ranked 357)  

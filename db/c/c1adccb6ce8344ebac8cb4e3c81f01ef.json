@@ -3,7 +3,7 @@
   "Name": "Evalina The Sorceress",
   "ProductSlug": "evalinathe-sorceress-a9a60a",
   "Ranking_EOS_Progress": 267,
-  "Ranking_EOS_Completed": 105,
+  "Ranking_EOS_Completed": 106,
   "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 549,
+  "EOS_Progressed": 550,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.37,
+  "EOS_Completed_Percentage": 2.36,
   "EosHistory": [
     {
       "Time": "2023-06-26T21:03:11.1861868+00:00",
@@ -1906,6 +1906,11 @@
       "Time": "2023-10-12T12:03:42.0523927+00:00",
       "NumProgressed": 549,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-10-13T01:48:41.1513398+00:00",
+      "NumProgressed": 550,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-06-26T21:03:11.1861911+00:00",
@@ -1926,7 +1931,7 @@
       "Name": "Blue Skeleton",
       "Percentage": 13,
       "XP": 200,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "GreenSkeleton",
@@ -1950,7 +1955,7 @@
       "Name": "Red Skeleton",
       "Percentage": 61,
       "XP": 100,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "YellowSkeleton",
@@ -1958,21 +1963,21 @@
       "Name": "Yellow Skeleton",
       "Percentage": 17,
       "XP": 200,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     }
   ],
   "AchievementSets": [
     {
       "ID": "a76l54k",
       "IsBase": true,
-      "Progressed": 549,
+      "Progressed": 550,
       "Completed": 13
     }
   ],
   "FirstSeen": "2023-06-27T08:56:55.4742028+00:00",
   "FirstSeenAchievements": "2023-06-15T10:01:05.3060571+00:00",
-  "LastChanged_Achievements": "2023-10-13T00:03:51.5634222+00:00",
+  "LastChanged_Achievements": "2023-10-13T01:48:41.1513389+00:00",
   "LastUpdate_AppInfo": "2023-10-12T20:57:27.2773362+00:00",
-  "LastUpdate_Ratings": "2023-10-12T23:58:57.4470765+00:00",
-  "LastUpdate_Achievements": "2023-10-13T00:03:51.5634377+00:00"
+  "LastUpdate_Ratings": "2023-10-13T01:43:30.0699794+00:00",
+  "LastUpdate_Achievements": "2023-10-13T01:48:41.1513709+00:00"
 }

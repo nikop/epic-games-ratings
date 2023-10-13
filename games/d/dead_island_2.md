@@ -5,8 +5,8 @@ Rating: 4.54 (Ranked 510)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 4.00% | ~27,789 |
-| Welcome To Hell-A | 4.00% | ~27,789 |
+| Hotel California | 4.00% | ~27,790 |
+| Welcome To Hell-A | 4.00% | ~27,790 |
 | Dr. Reed, I Presume? | 3.00% | ~20,842 |
 | Git Gutte! | 3.00% | ~20,842 |
 | Break A Leg | 3.00% | ~20,842 |
@@ -31,12 +31,12 @@ Rating: 4.54 (Ranked 510)
 | I Am the Resurrection | 2.00% | ~13,895 |
 | Our True Nature | 2.00% | ~13,895 |
 | This is My Weapon | 2.00% | ~13,895 |
-| Making Your Mark | 1.00% | ~6,947 |
-| Jumbo Keyring | 1.00% | ~6,947 |
-| Down with the Sickness | 1.00% | ~6,947 |
-| Max Headroom | 1.00% | ~6,947 |
-| Go, Bobcats! | 1.00% | ~6,947 |
-| Rising Star | 1.00% | ~6,947 |
+| Making Your Mark | 1.00% | ~6,948 |
+| Jumbo Keyring | 1.00% | ~6,948 |
+| Down with the Sickness | 1.00% | ~6,948 |
+| Max Headroom | 1.00% | ~6,948 |
+| Go, Bobcats! | 1.00% | ~6,948 |
+| Rising Star | 1.00% | ~6,948 |
 | Smorgasbord | 0.90% | ~6,253 |
 | Internet Famous | 0.80% | ~5,558 |
 | On Safari | 0.70% | ~4,863 |
@@ -48,10 +48,10 @@ Rating: 4.54 (Ranked 510)
 | Sole Survivor | 0.40% | ~2,779 |
 | Sharpest Tool in the Box | 0.40% | ~2,779 |
 | Survival Skills | 0.30% | ~2,084 |
-| Donk! | 0.20% | ~1,389 |
+| Donk! | 0.20% | ~1,390 |
 | Bucket List | 0.10% | ~695 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 694,732 (Ranked 22)  
+Progressed: 694,750 (Ranked 22)  
 Completed: 2,216 (0.32%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 2,216 (0.32%) (Ranked 200)
 | 2023-10-10 | 693,868 | 2,209 |
 | 2023-10-11 | 694,263 | 2,210 |
 | 2023-10-12 | 694,718 | 2,216 |
-| 2023-10-13 | 694,732 | 2,216 |
+| 2023-10-13 | 694,750 | 2,216 |
 ## Awards
 Max (Great Boss Battles): 6,407  (Ranked 58)  
 Sum: 9,574 (Ranked 91)  

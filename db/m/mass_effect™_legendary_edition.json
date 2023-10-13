@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 666,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1791,9 +1791,9 @@
       "ID": "achievement_123",
       "SetID": "d252ncf",
       "Name": "Long Service Medal",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 125,
-      "UsersEstimate": 80
+      "UsersEstimate": 87
     },
     {
       "ID": "achievement_124",
@@ -2603,8 +2603,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-13T00:03:33.9706972+00:00",
+  "LastChanged_Achievements": "2023-10-13T01:48:28.0366041+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:40.7255751+00:00",
-  "LastUpdate_Ratings": "2023-10-12T23:59:29.9486628+00:00",
-  "LastUpdate_Achievements": "2023-10-13T00:03:33.9708952+00:00"
+  "LastUpdate_Ratings": "2023-10-13T01:43:54.2910893+00:00",
+  "LastUpdate_Achievements": "2023-10-13T01:48:28.036856+00:00"
 }
