@@ -1,33 +1,33 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.06 (Ranked 948)  
+Rating: 4.06 (Ranked 950)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,878 |
-| World Map | 79.00% | ~1,595 |
+| Victor | 93.00% | ~1,879 |
+| World Map | 79.00% | ~1,596 |
 | Temple of Eternals | 57.00% | ~1,151 |
-| Prestigious | 54.00% | ~1,090 |
+| Prestigious | 54.00% | ~1,091 |
 | Fellowship Power | 42.00% | ~848 |
 | Guild Power | 26.00% | ~525 |
-| Prestigious x10 | 23.00% | ~464 |
+| Prestigious x10 | 23.00% | ~465 |
 | The game is on | 21.00% | ~424 |
 | Exotic Merchant | 20.00% | ~404 |
-| Dragon Clicker | 18.00% | ~363 |
+| Dragon Clicker | 18.00% | ~364 |
 | Full Party | 17.00% | ~343 |
 | Inspection | 17.00% | ~343 |
 | Miner Clicker | 17.00% | ~343 |
 | Dragon Master | 16.00% | ~323 |
 | Enlightenment | 16.00% | ~323 |
-| Lieutenant | 16.00% | ~323 |
 | Hero inspection | 15.00% | ~303 |
+| Lieutenant | 15.00% | ~303 |
 | Milestone collector | 14.00% | ~283 |
 | Mysterious Rock | 14.00% | ~283 |
 | Natural Talent | 14.00% | ~283 |
 | Superior | 14.00% | ~283 |
 | The Unstoppable | 14.00% | ~283 |
-| Scientist | 13.00% | ~262 |
+| Scientist | 13.00% | ~263 |
 | Hunter | 12.00% | ~242 |
 | The power of Awakening | 12.00% | ~242 |
 | Challenger | 11.00% | ~222 |
@@ -81,7 +81,7 @@ Rating: 4.06 (Ranked 948)
 | War Machines Army | 0.20% | ~4 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,019 (Ranked 204)  
+Progressed: 2,020 (Ranked 204)  
 Completed: 2 (0.10%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,7 +253,7 @@ Completed: 2 (0.10%) (Ranked 247)
 | 2023-10-10 | 2,011 | 2 |
 | 2023-10-11 | 2,016 | 2 |
 | 2023-10-12 | 2,018 | 2 |
-| 2023-10-13 | 2,019 | 2 |
+| 2023-10-13 | 2,020 | 2 |
 ## Awards
 Max (Great for Beginners): 27  (Ranked 489)  
 Sum: 71 (Ranked 452)  

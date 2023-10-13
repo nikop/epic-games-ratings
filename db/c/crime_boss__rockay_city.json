@@ -2,13 +2,13 @@
   "ID": "af0ea01162704696bebf8633a52a7a6d",
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
-  "Ranking_Rating": 977,
+  "Ranking_Rating": 978,
   "Ranking_Popularity": 206,
   "Ranking_PopularitySum": 192,
   "Ranking_EOS_Progress": 82,
-  "Ranking_EOS_Completed": 270,
+  "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -3984,11 +3984,11 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 89015,
-  "EOS_Completed": 48,
+  "EOS_Progressed": 89016,
+  "EOS_Completed": 49,
   "EOS_NewPlayers": 218,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.05,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:51.3341254+00:00",
@@ -21969,6 +21969,11 @@
       "Time": "2023-10-12T21:06:37.4893375+00:00",
       "NumProgressed": 89015,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-10-13T04:06:14.2251429+00:00",
+      "NumProgressed": 89016,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 41,
@@ -22307,13 +22312,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 89015,
-      "Completed": 48
+      "Progressed": 89016,
+      "Completed": 49
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 17362,
+      "Progressed": 17363,
       "Completed": 15545
     }
   ],
@@ -22321,8 +22326,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-10-11T18:57:58.8397663+00:00",
-  "LastChanged_Achievements": "2023-10-13T03:07:23.2323644+00:00",
+  "LastChanged_Achievements": "2023-10-13T04:06:14.2251423+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:16.9897613+00:00",
-  "LastUpdate_Ratings": "2023-10-13T02:58:50.0400999+00:00",
-  "LastUpdate_Achievements": "2023-10-13T03:07:23.2325538+00:00"
+  "LastUpdate_Ratings": "2023-10-13T03:57:55.1976666+00:00",
+  "LastUpdate_Achievements": "2023-10-13T04:06:14.2252847+00:00"
 }

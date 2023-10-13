@@ -2,7 +2,7 @@
   "ID": "e33138cc2b964d38a42a812b83b6507e",
   "Name": "City of Gangsters",
   "ProductSlug": "city-of-gangsters-6c2974",
-  "Ranking_Rating": 827,
+  "Ranking_Rating": 828,
   "Ranking_Popularity": 444,
   "Ranking_PopularitySum": 397,
   "Ranking_EOS_Progress": 43,
@@ -673,9 +673,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 347474,
+  "EOS_Progressed": 347475,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1006,
+  "EOS_NewPlayers": 998,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20463,6 +20463,11 @@
       "Time": "2023-10-13T03:07:36.0825889+00:00",
       "NumProgressed": 347474,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-13T04:06:24.7350774+00:00",
+      "NumProgressed": 347475,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -20498,7 +20503,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6949
+      "UsersEstimate": 6950
     },
     {
       "ID": "ach005",
@@ -20570,7 +20575,7 @@
       "Name": "Baker\u2019s Dozen",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6949
+      "UsersEstimate": 6950
     },
     {
       "ID": "ach014",
@@ -20706,7 +20711,7 @@
       "Name": "Dropping the Dime",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6949
+      "UsersEstimate": 6950
     },
     {
       "ID": "ach031",
@@ -20778,7 +20783,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 34747
+      "UsersEstimate": 34748
     },
     {
       "ID": "ach040",
@@ -20906,7 +20911,7 @@
       "Name": "Spiffy Speakeasies",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6949
+      "UsersEstimate": 6950
     },
     {
       "ID": "ach056",
@@ -20938,7 +20943,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 34747
+      "UsersEstimate": 34748
     },
     {
       "ID": "ach060",
@@ -20954,7 +20959,7 @@
       "Name": "Keeping Your Word",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6949
+      "UsersEstimate": 6950
     },
     {
       "ID": "ach062",
@@ -20986,7 +20991,7 @@
       "Name": "The Dawn of Automation",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 48646
+      "UsersEstimate": 48647
     },
     {
       "ID": "ach067",
@@ -21010,7 +21015,7 @@
       "Name": "Extraordinary Logistics",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 48646
+      "UsersEstimate": 48647
     },
     {
       "ID": "ach070",
@@ -21113,7 +21118,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 347474,
+      "Progressed": 347475,
       "Completed": 7
     }
   ],
@@ -21121,8 +21126,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-10-06T22:57:01.637596+00:00",
-  "LastChanged_Achievements": "2023-10-13T03:07:36.0825882+00:00",
+  "LastChanged_Achievements": "2023-10-13T04:06:24.7350769+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:17.3375259+00:00",
-  "LastUpdate_Ratings": "2023-10-13T03:00:38.1952414+00:00",
-  "LastUpdate_Achievements": "2023-10-13T03:07:36.0829487+00:00"
+  "LastUpdate_Ratings": "2023-10-13T03:59:23.9772893+00:00",
+  "LastUpdate_Achievements": "2023-10-13T04:06:24.7353334+00:00"
 }

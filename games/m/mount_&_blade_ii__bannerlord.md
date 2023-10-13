@@ -36,13 +36,13 @@ Number of Ratings: 5,603  (23.09.2022)
 | Real Estate | 3.00% | ~1,895 |
 | Entrepreneur | 1.00% | ~632 |
 | Supreme Emperor | 1.00% | ~632 |
-| Crackshot | 0.90% | ~568 |
+| Crackshot | 0.90% | ~569 |
 | Undercover | 0.80% | ~505 |
 | Fat Cat | 0.70% | ~442 |
 | Catch | 0.60% | ~379 |
 | Slice 'n dice | 0.50% | ~316 |
 | Ride it like you stole it | 0.40% | ~253 |
-| Mounted Archery | 0.30% | ~189 |
+| Mounted Archery | 0.30% | ~190 |
 | Explorer | 0.20% | ~126 |
 | Great Granny | 0.20% | ~126 |
 | Strike! | 0.20% | ~126 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,166 (Ranked 97)  
+Progressed: 63,167 (Ranked 97)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,7 +234,7 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-10-10 | 63,051 | 0 |
 | 2023-10-11 | 63,097 | 0 |
 | 2023-10-12 | 63,156 | 0 |
-| 2023-10-13 | 63,166 | 0 |
+| 2023-10-13 | 63,167 | 0 |
 ## Awards
 Max (Character Customization): 7,225  (Ranked 52)  
 Sum: 14,843 (Ranked 66)  

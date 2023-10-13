@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -7818,7 +7818,7 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 804579,
+  "EOS_Progressed": 804580,
   "EOS_Completed": 50,
   "EOS_NewPlayers": 805,
   "EOS_NewCompleters": 1,
@@ -27438,6 +27438,11 @@
       "Time": "2023-10-13T03:08:07.653204+00:00",
       "NumProgressed": 804579,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-10-13T04:06:50.8937076+00:00",
+      "NumProgressed": 804580,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 82,
@@ -27529,7 +27534,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 257465
+      "UsersEstimate": 257466
     },
     {
       "ID": "Bookworm",
@@ -27545,7 +27550,7 @@
       "Name": "Buddy",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 96549
+      "UsersEstimate": 96550
     },
     {
       "ID": "Casanova",
@@ -28025,7 +28030,7 @@
       "Name": "Thief",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 96549
+      "UsersEstimate": 96550
     },
     {
       "ID": "TisButAScratch",
@@ -28104,15 +28109,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 804579,
+      "Progressed": 804580,
       "Completed": 50
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-10-12T15:02:01.0641205+00:00",
-  "LastChanged_Achievements": "2023-10-13T03:08:07.6532034+00:00",
+  "LastChanged_Achievements": "2023-10-13T04:06:50.893707+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:13.5383314+00:00",
-  "LastUpdate_Ratings": "2023-10-13T03:01:52.9553216+00:00",
-  "LastUpdate_Achievements": "2023-10-13T03:08:07.6534789+00:00"
+  "LastUpdate_Ratings": "2023-10-13T04:00:22.5545642+00:00",
+  "LastUpdate_Achievements": "2023-10-13T04:06:50.893926+00:00"
 }

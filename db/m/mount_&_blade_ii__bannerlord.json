@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 66,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -7911,7 +7911,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 63166,
+  "EOS_Progressed": 63167,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 399,
   "EOS_NewCompleters": 0,
@@ -26556,6 +26556,11 @@
       "Time": "2023-10-13T03:03:41.6597012+00:00",
       "NumProgressed": 63166,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-13T04:03:30.3619351+00:00",
+      "NumProgressed": 63167,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -26631,7 +26636,7 @@
       "Name": "Crackshot",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "Crush your enemies",
@@ -26839,7 +26844,7 @@
       "Name": "Mounted Archery",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "My way",
@@ -26974,15 +26979,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 63166,
+      "Progressed": 63167,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-12T16:00:08.2884632+00:00",
-  "LastChanged_Achievements": "2023-10-13T03:03:41.6597006+00:00",
+  "LastChanged_Achievements": "2023-10-13T04:03:30.3619345+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:27.1626185+00:00",
-  "LastUpdate_Ratings": "2023-10-13T03:00:55.4580582+00:00",
-  "LastUpdate_Achievements": "2023-10-13T03:03:41.6598584+00:00"
+  "LastUpdate_Ratings": "2023-10-13T03:59:37.1801685+00:00",
+  "LastUpdate_Achievements": "2023-10-13T04:03:30.3621473+00:00"
 }

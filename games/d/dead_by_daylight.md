@@ -6,19 +6,19 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 2.00% | ~18,704 |
-| Handyman | 1.00% | ~9,352 |
-| Zealous | 1.00% | ~9,352 |
-| Not half bad | 1.00% | ~9,352 |
-| Apt Survivor | 1.00% | ~9,352 |
-| Survival Treasures | 1.00% | ~9,352 |
-| Skillful | 1.00% | ~9,352 |
-| Sorted | 1.00% | ~9,352 |
-| Make Some Noise | 1.00% | ~9,352 |
-| No one left behind | 0.90% | ~8,417 |
-| Medic | 0.90% | ~8,417 |
-| Healthy Obsession | 0.90% | ~8,417 |
-| Resurgence | 0.90% | ~8,417 |
+| It wakes | 2.00% | ~18,706 |
+| Handyman | 1.00% | ~9,353 |
+| Zealous | 1.00% | ~9,353 |
+| Not half bad | 1.00% | ~9,353 |
+| Apt Survivor | 1.00% | ~9,353 |
+| Survival Treasures | 1.00% | ~9,353 |
+| Skillful | 1.00% | ~9,353 |
+| Sorted | 1.00% | ~9,353 |
+| Make Some Noise | 1.00% | ~9,353 |
+| No one left behind | 0.90% | ~8,418 |
+| Medic | 0.90% | ~8,418 |
+| Healthy Obsession | 0.90% | ~8,418 |
+| Resurgence | 0.90% | ~8,418 |
 | The Grand Sacrifice | 0.80% | ~7,482 |
 | Nerves of steel | 0.80% | ~7,482 |
 | Perfect Escape | 0.80% | ~7,482 |
@@ -32,10 +32,10 @@ Number of Ratings: 70,340  (23.09.2022)
 | Perfect Killing | 0.70% | ~6,547 |
 | Engineer | 0.70% | ~6,547 |
 | Close Shave | 0.70% | ~6,547 |
-| Apt Killer | 0.60% | ~5,611 |
-| Risk it all | 0.60% | ~5,611 |
-| II | 0.60% | ~5,611 |
-| Wounded Healer | 0.60% | ~5,611 |
+| Apt Killer | 0.60% | ~5,612 |
+| Risk it all | 0.60% | ~5,612 |
+| II | 0.60% | ~5,612 |
+| Wounded Healer | 0.60% | ~5,612 |
 | Vulture | 0.50% | ~4,676 |
 | III | 0.50% | ~4,676 |
 | With Scars to Show | 0.50% | ~4,676 |
@@ -85,24 +85,24 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outrun the Overlap | 0.30% | ~2,806 |
 | Extraterrestrial | 0.30% | ~2,806 |
 | Kitted Out | 0.30% | ~2,806 |
-| Blood in your mouth | 0.20% | ~1,870 |
-| Jump Scares | 0.20% | ~1,870 |
-| Deep Cleansing | 0.20% | ~1,870 |
-| Texas BBQ | 0.20% | ~1,870 |
-| Game Over | 0.20% | ~1,870 |
-| Party Crasher | 0.20% | ~1,870 |
-| Whiffing to Success | 0.20% | ~1,870 |
-| Outrage | 0.20% | ~1,870 |
-| Heavy Burden | 0.20% | ~1,870 |
-| Broken Bodies | 0.20% | ~1,870 |
-| I See You | 0.20% | ~1,870 |
-| Power Moves | 0.20% | ~1,870 |
-| Insult and Injury | 0.20% | ~1,870 |
-| Prowler | 0.20% | ~1,870 |
-| Triage | 0.20% | ~1,870 |
-| High Speed Pursuit | 0.20% | ~1,870 |
-| Hack the Mainframe | 0.20% | ~1,870 |
-| Complete the Evolution | 0.20% | ~1,870 |
+| Blood in your mouth | 0.20% | ~1,871 |
+| Jump Scares | 0.20% | ~1,871 |
+| Deep Cleansing | 0.20% | ~1,871 |
+| Texas BBQ | 0.20% | ~1,871 |
+| Game Over | 0.20% | ~1,871 |
+| Party Crasher | 0.20% | ~1,871 |
+| Whiffing to Success | 0.20% | ~1,871 |
+| Outrage | 0.20% | ~1,871 |
+| Heavy Burden | 0.20% | ~1,871 |
+| Broken Bodies | 0.20% | ~1,871 |
+| I See You | 0.20% | ~1,871 |
+| Power Moves | 0.20% | ~1,871 |
+| Insult and Injury | 0.20% | ~1,871 |
+| Prowler | 0.20% | ~1,871 |
+| Triage | 0.20% | ~1,871 |
+| High Speed Pursuit | 0.20% | ~1,871 |
+| Hack the Mainframe | 0.20% | ~1,871 |
+| Complete the Evolution | 0.20% | ~1,871 |
 | A feast for the Entity | 0.10% | ~935 |
 | Cripple them all | 0.10% | ~935 |
 | The Grind | 0.10% | ~935 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~935 |
 | Adept Ripley | 0.10% | ~935 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 935,225 (Ranked 14)  
+Progressed: 935,288 (Ranked 14)  
 Completed: 50 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -412,14 +412,14 @@ Completed: 50 (0.01%) (Ranked 296)
 | 2023-10-10 | 931,511 | 49 |
 | 2023-10-11 | 933,163 | 49 |
 | 2023-10-12 | 934,954 | 50 |
-| 2023-10-13 | 935,225 | 50 |
+| 2023-10-13 | 935,288 | 50 |
 ## Awards
-Max (Diverse Characters): 33,781  (Ranked 15)  
-Sum: 261,674 (Ranked 13)  
+Max (Diverse Characters): 33,824  (Ranked 15)  
+Sum: 261,717 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 33,781 |
+| This game has Diverse Characters | 33,824 |
 | This game is Highly Recommended | 29,881 |
 | This game has Competitive Players | 29,561 |
 | This game has Amazing Characters | 29,558 |
@@ -695,3 +695,4 @@ Diff (max vs sum): 2
 | 2023-10-10 | 4.51 | - | 33,667 | 261,003 |
 | 2023-10-11 | 4.51 | - | 33,734 | 261,382 |
 | 2023-10-12 | 4.51 | - | 33,781 | 261,674 |
+| 2023-10-13 | 4.51 | - | 33,824 | 261,717 |

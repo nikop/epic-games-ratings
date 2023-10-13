@@ -6,13 +6,13 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,748,661 |
-| Easy to forget | 46.00% | ~1,641,600 |
-| Back in the black | 39.00% | ~1,391,791 |
-| That's what I'm talking about | 29.00% | ~1,034,922 |
-| The Best of Both Worlds | 25.00% | ~892,174 |
-| Get your wings | 20.00% | ~713,739 |
-| Double trouble | 16.00% | ~570,991 |
+| You need to plug it in... | 49.00% | ~1,748,665 |
+| Easy to forget | 46.00% | ~1,641,604 |
+| Back in the black | 39.00% | ~1,391,795 |
+| That's what I'm talking about | 29.00% | ~1,034,924 |
+| The Best of Both Worlds | 25.00% | ~892,176 |
+| Get your wings | 20.00% | ~713,741 |
+| Double trouble | 16.00% | ~570,993 |
 | Smashing it | 11.00% | ~392,557 |
 | But can it run Crysis? | 9.00% | ~321,183 |
 | My favourite feature... | 9.00% | ~321,183 |
@@ -41,7 +41,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Work ethic 101 | 0.70% | ~24,981 |
 | Building momentum | 0.60% | ~21,412 |
 | Lead by example | 0.60% | ~21,412 |
-| Treat yourself - RAM | 0.50% | ~17,843 |
+| Treat yourself - RAM | 0.50% | ~17,844 |
 | Mr big business | 0.40% | ~14,275 |
 | So you're the reason why the prices are so high? | 0.30% | ~10,706 |
 | Mister Big | 0.30% | ~10,706 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,569 |
 | Treat yourself - GPU | 0.10% | ~3,569 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,568,696 (Ranked 5)  
+Progressed: 3,568,704 (Ranked 5)  
 Completed: 36 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,14 +235,14 @@ Completed: 36 (0.00%) (Ranked 314)
 | 2023-10-10 | 3,568,089 | 36 |
 | 2023-10-11 | 3,568,370 | 36 |
 | 2023-10-12 | 3,568,660 | 36 |
-| 2023-10-13 | 3,568,696 | 36 |
+| 2023-10-13 | 3,568,704 | 36 |
 ## Awards
-Max (Great for Beginners): 1,082  (Ranked 141)  
-Sum: 8,062 (Ranked 100)  
+Max (Great for Beginners): 1,083  (Ranked 141)  
+Sum: 8,063 (Ranked 100)  
 Diff (max vs sum): 41  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 1,082 |
+| This game is Great for Beginners | 1,083 |
 | This game is Educational | 1,003 |
 | This game is Extremely Fun | 1,001 |
 | This game is Relaxing | 987 |
@@ -482,3 +482,4 @@ Diff (max vs sum): 41
 | 2023-10-08 | 4.65 | - | 1,080 | 8,057 |
 | 2023-10-11 | 4.65 | - | 1,082 | 8,060 |
 | 2023-10-12 | 4.65 | - | 1,082 | 8,062 |
+| 2023-10-13 | 4.65 | - | 1,083 | 8,063 |

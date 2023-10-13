@@ -6,23 +6,23 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Faceroll the Bones | 23.00% | ~935 |
-| Debuff Dogpile | 22.00% | ~895 |
-| Hit 'Em Where It Hurts | 22.00% | ~895 |
-| Perk Shard Punch Card | 22.00% | ~895 |
-| That'll Leave a Mark | 22.00% | ~895 |
-| Mushroom Madness! | 20.00% | ~813 |
-| First Strike | 17.00% | ~691 |
-| Spending Spree | 17.00% | ~691 |
+| Faceroll the Bones | 23.00% | ~936 |
+| Debuff Dogpile | 22.00% | ~896 |
+| Hit 'Em Where It Hurts | 22.00% | ~896 |
+| Perk Shard Punch Card | 22.00% | ~896 |
+| That'll Leave a Mark | 22.00% | ~896 |
+| Mushroom Madness! | 20.00% | ~814 |
+| First Strike | 17.00% | ~692 |
+| Spending Spree | 17.00% | ~692 |
 | Horder Better Faster Stronger | 16.00% | ~651 |
-| Everything Must Go! | 14.00% | ~569 |
-| Ten Steps from the Grave | 14.00% | ~569 |
+| Everything Must Go! | 14.00% | ~570 |
+| Ten Steps from the Grave | 14.00% | ~570 |
 | Next Time on MythForce... | 13.00% | ~529 |
 | Cold-Blooded Critters | 10.00% | ~407 |
-| Death Becomes You | 8.00% | ~325 |
+| Death Becomes You | 8.00% | ~326 |
 | Flawless Victory | 6.00% | ~244 |
 | The Harder They Fall | 6.00% | ~244 |
-| On this Episode! | 5.00% | ~203 |
+| On this Episode! | 5.00% | ~204 |
 | Deadication | 4.00% | ~163 |
 | We've Got a Kaiju on the Field | 3.00% | ~122 |
 | Season Finale | 3.00% | ~122 |
@@ -30,8 +30,8 @@ Number of Ratings: 285  (23.09.2022)
 | Vexed Her | 0.40% | ~16 |
 | Deadalus and Loving It | 0.20% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,067 (Ranked 177)  
-Completed: 2 (0.05%) (Ranked 270)  
+Progressed: 4,071 (Ranked 178)  
+Completed: 2 (0.05%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -120,7 +120,7 @@ Completed: 2 (0.05%) (Ranked 270)
 | 2023-10-10 | 4,002 | 2 |
 | 2023-10-11 | 4,028 | 2 |
 | 2023-10-12 | 4,056 | 2 |
-| 2023-10-13 | 4,067 | 2 |
+| 2023-10-13 | 4,071 | 2 |
 ## Awards
 Max (Great for Beginners): 34  (Ranked 461)  
 Sum: 283 (Ranked 355)  

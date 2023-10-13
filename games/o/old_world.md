@@ -32,6 +32,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Christianity | 1.00% | ~146 |
 | Judaism | 1.00% | ~146 |
 | Babylonian Paganism | 1.00% | ~146 |
+| Greek Paganism | 1.00% | ~146 |
 | Naming Landmarks | 1.00% | ~146 |
 | Trade Caravan | 1.00% | ~146 |
 | Kushite Paganism | 1.00% | ~146 |
@@ -40,7 +41,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate | 0.90% | ~132 |
 | Lighthouse | 0.90% | ~132 |
 | Pyramids | 0.90% | ~132 |
-| Greek Paganism | 0.90% | ~132 |
 | Kushite Pyramids | 0.90% | ~132 |
 | Brilliant | 0.80% | ~117 |
 | Fountainhead | 0.80% | ~117 |
@@ -85,6 +85,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Power to the People | 0.50% | ~73 |
 | Building Wonders | 0.50% | ~73 |
 | Double Victory | 0.50% | ~73 |
+| Points Victory | 0.50% | ~73 |
 | Invincible | 0.40% | ~59 |
 | Lion | 0.40% | ~59 |
 | Subjugator | 0.40% | ~59 |
@@ -98,6 +99,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon | 0.40% | ~59 |
 | Via Recta Souk | 0.40% | ~59 |
 | Learn to Play 4 | 0.40% | ~59 |
+| Babylonia | 0.40% | ~59 |
 | Persian Paganism | 0.40% | ~59 |
 | Legalism | 0.40% | ~59 |
 | Redemption | 0.40% | ~59 |
@@ -105,7 +107,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cimmerian Archer | 0.40% | ~59 |
 | Legionary | 0.40% | ~59 |
 | Phalangite | 0.40% | ~59 |
-| Points Victory | 0.40% | ~59 |
 | Capable | 0.30% | ~44 |
 | Devout | 0.30% | ~44 |
 | Strong Difficulty | 0.30% | ~44 |
@@ -113,7 +114,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hunters | 0.30% | ~44 |
 | Statesmen | 0.30% | ~44 |
 | Learn to Play 5 | 0.30% | ~44 |
-| Babylonia | 0.30% | ~44 |
 | Carthage | 0.30% | ~44 |
 | Egypt | 0.30% | ~44 |
 | Old World Order | 0.30% | ~44 |
@@ -144,6 +144,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cao'an | 0.20% | ~29 |
 | Adur Burzen-Mihr | 0.20% | ~29 |
 | Rome | 0.20% | ~29 |
+| Ten Crowns | 0.20% | ~29 |
 | Enlightenment | 0.20% | ~29 |
 | Cataphract Archer | 0.20% | ~29 |
 | Three Man Chariot | 0.20% | ~29 |
@@ -256,7 +257,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Circus Maximus in Roma | 0.10% | ~15 |
 | Pantheon in Roma | 0.10% | ~15 |
 | Capturing Cities | 0.10% | ~15 |
-| Ten Crowns | 0.10% | ~15 |
 | Word of God | 0.10% | ~15 |
 | Great Ziggurat in Ur | 0.10% | ~15 |
 | Conquest Victory | 0.10% | ~15 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,626 (Ranked 134)  
+Progressed: 14,627 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -525,7 +525,7 @@ Completed: 5 (0.03%) (Ranked 282)
 | 2023-10-10 | 14,586 | 5 |
 | 2023-10-11 | 14,606 | 5 |
 | 2023-10-12 | 14,624 | 5 |
-| 2023-10-13 | 14,626 | 5 |
+| 2023-10-13 | 14,627 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,835 (Ranked 210)  

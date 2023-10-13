@@ -2,12 +2,12 @@
   "ID": "bda8d2133655435982b9118972792328",
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
-  "Ranking_Rating": 948,
+  "Ranking_Rating": 950,
   "Ranking_Popularity": 489,
   "Ranking_PopularitySum": 452,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -370,9 +370,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 2019,
+  "EOS_Progressed": 2020,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6045,6 +6045,11 @@
       "Time": "2023-10-13T03:09:19.7439606+00:00",
       "NumProgressed": 2019,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-13T04:09:05.4237573+00:00",
+      "NumProgressed": 2020,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -6160,7 +6165,7 @@
       "Name": "Dragon Clicker",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "dragonmaster",
@@ -6350,9 +6355,9 @@
       "ID": "lieutenant",
       "SetID": "3nl4bcg",
       "Name": "Lieutenant",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 323
+      "UsersEstimate": 303
     },
     {
       "ID": "lockandload",
@@ -6448,7 +6453,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1090
+      "UsersEstimate": 1091
     },
     {
       "ID": "prestigiousx10",
@@ -6456,7 +6461,7 @@
       "Name": "Prestigious x10",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "relicofthepast",
@@ -6480,7 +6485,7 @@
       "Name": "Scientist",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "scrollmaster",
@@ -6616,7 +6621,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1878
+      "UsersEstimate": 1879
     },
     {
       "ID": "warmachinesarmy",
@@ -6648,14 +6653,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1595
+      "UsersEstimate": 1596
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2019,
+      "Progressed": 2020,
       "Completed": 2
     }
   ],
@@ -6663,8 +6668,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-10-12T17:59:57.3603053+00:00",
-  "LastChanged_Achievements": "2023-10-13T03:09:19.74396+00:00",
+  "LastChanged_Achievements": "2023-10-13T04:09:05.4237566+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:57.0347276+00:00",
-  "LastUpdate_Ratings": "2023-10-13T03:00:26.6562017+00:00",
-  "LastUpdate_Achievements": "2023-10-13T03:09:19.7440944+00:00"
+  "LastUpdate_Ratings": "2023-10-13T03:59:15.6341154+00:00",
+  "LastUpdate_Achievements": "2023-10-13T04:09:05.4238715+00:00"
 }

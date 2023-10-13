@@ -2,7 +2,7 @@
   "ID": "0460f46401ae4bdcadbc931d30028015",
   "Name": "Madden NFL 24",
   "ProductSlug": "madden-nfl-24",
-  "Ranking_Rating": 948,
+  "Ranking_Rating": 947,
   "Ranking_Popularity": 534,
   "Ranking_PopularitySum": 534,
   "Ranking_EOS_Progress": 198,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.06,
+  "Rating": 4.07,
   "RatingHistory": [
     {
       "Time": "2023-08-25T11:00:17.1063519+00:00",
@@ -358,13 +358,19 @@
       "Rating": 4.06,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-10-13T03:59:28.6125348+00:00",
+      "Rating": 4.07,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2421,
+  "EOS_Progressed": 2422,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 318,
   "EOS_NewCompleters": 0,
@@ -2349,6 +2355,11 @@
       "Time": "2023-10-13T02:24:28.3736298+00:00",
       "NumProgressed": 2421,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-13T04:04:04.4261926+00:00",
+      "NumProgressed": 2422,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -2385,15 +2396,15 @@
       "Name": "Dealmaker",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "achievement_13",
       "SetID": "aiin7da",
       "Name": "MVP",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 90,
-      "UsersEstimate": 702
+      "UsersEstimate": 727
     },
     {
       "ID": "achievement_14",
@@ -2497,7 +2508,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "achievement_7",
@@ -2528,16 +2539,16 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 2421,
+      "Progressed": 2422,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-18T01:36:55.7733992+00:00",
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
-  "LastChanged": "2023-10-11T23:00:03.000311+00:00",
-  "LastChanged_Achievements": "2023-10-13T03:04:44.2452413+00:00",
+  "LastChanged": "2023-10-13T03:59:28.6125347+00:00",
+  "LastChanged_Achievements": "2023-10-13T04:04:04.4261918+00:00",
   "LastUpdate_AppInfo": "2023-10-12T02:57:10.0786796+00:00",
-  "LastUpdate_Ratings": "2023-10-13T03:00:44.2884107+00:00",
-  "LastUpdate_Achievements": "2023-10-13T03:04:44.2452908+00:00"
+  "LastUpdate_Ratings": "2023-10-13T03:59:28.6125354+00:00",
+  "LastUpdate_Achievements": "2023-10-13T04:04:04.4262237+00:00"
 }

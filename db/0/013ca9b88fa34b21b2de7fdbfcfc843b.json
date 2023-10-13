@@ -118,9 +118,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6541,
+  "EOS_Progressed": 6542,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 455,
+  "EOS_NewPlayers": 456,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4088,6 +4088,11 @@
       "Time": "2023-10-13T03:04:09.7014691+00:00",
       "NumProgressed": 6541,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-13T04:03:36.5099024+00:00",
+      "NumProgressed": 6542,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -4100,7 +4105,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 4775
+      "UsersEstimate": 4776
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -4116,7 +4121,7 @@
       "Name": "Calm Sailing",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2289
+      "UsersEstimate": 2290
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -4148,7 +4153,7 @@
       "Name": "Flaming Hot Completos",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "CHAPTER_8_COMPLETE",
@@ -4156,7 +4161,7 @@
       "Name": "Fae Farmer",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "COLLECT_CLOVER",
@@ -4196,7 +4201,7 @@
       "Name": "Miner 49er",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 2747
+      "UsersEstimate": 2748
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -4260,7 +4265,7 @@
       "Name": "Mist Walker",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1962
+      "UsersEstimate": 1963
     },
     {
       "ID": "DISPATCH_JUMBLES",
@@ -4379,7 +4384,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 6541,
+      "Progressed": 6542,
       "Completed": 0
     }
   ],
@@ -4387,8 +4392,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-12T12:03:13.8462755+00:00",
-  "LastChanged_Achievements": "2023-10-13T03:04:09.7014685+00:00",
+  "LastChanged_Achievements": "2023-10-13T04:03:36.5099018+00:00",
   "LastUpdate_AppInfo": "2023-10-06T05:57:20.0812213+00:00",
-  "LastUpdate_Ratings": "2023-10-13T02:57:35.3188044+00:00",
-  "LastUpdate_Achievements": "2023-10-13T03:04:09.7015204+00:00"
+  "LastUpdate_Ratings": "2023-10-13T03:57:13.2487359+00:00",
+  "LastUpdate_Achievements": "2023-10-13T04:03:36.5099613+00:00"
 }

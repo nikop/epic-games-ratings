@@ -2,13 +2,13 @@
   "ID": "489c2ca47aaa4190b694184b979d3b23",
   "Name": "The First Tree",
   "ProductSlug": "the-first-tree",
-  "Ranking_Rating": 968,
+  "Ranking_Rating": 969,
   "Ranking_Popularity": 534,
   "Ranking_PopularitySum": 534,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -244,7 +244,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 36662,
+  "EOS_Progressed": 36663,
   "EOS_Completed": 113,
   "EOS_NewPlayers": 252,
   "EOS_NewCompleters": 1,
@@ -15444,6 +15444,11 @@
       "Time": "2023-10-13T03:07:15.7965841+00:00",
       "NumProgressed": 36662,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-10-13T04:06:08.5146968+00:00",
+      "NumProgressed": 36663,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 14,
@@ -15527,7 +15532,7 @@
       "Name": "Hummed of Mystery",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 1466
+      "UsersEstimate": 1467
     },
     {
       "ID": "firstBunny",
@@ -15543,7 +15548,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 28230
+      "UsersEstimate": 28231
     },
     {
       "ID": "roots",
@@ -15566,15 +15571,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 36662,
+      "Progressed": 36663,
       "Completed": 113
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-07-24T04:01:31.3679912+00:00",
-  "LastChanged_Achievements": "2023-10-13T03:07:15.7965835+00:00",
+  "LastChanged_Achievements": "2023-10-13T04:06:08.5146962+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:51.0981807+00:00",
-  "LastUpdate_Ratings": "2023-10-13T02:57:34.959007+00:00",
-  "LastUpdate_Achievements": "2023-10-13T03:07:15.7967264+00:00"
+  "LastUpdate_Ratings": "2023-10-13T03:57:12.8857061+00:00",
+  "LastUpdate_Achievements": "2023-10-13T04:06:08.5147994+00:00"
 }

@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Distinguished Service Medal | 95.00% | ~633 |
-| Spectre Inductee | 84.00% | ~559 |
+| Spectre Inductee | 85.00% | ~566 |
 | Medal of Exploration I | 76.00% | ~506 |
 | Recruit | 73.00% | ~486 |
 | Search and Rescue | 72.00% | ~480 |
@@ -66,9 +66,9 @@
 | Focused | 29.00% | ~193 |
 | Cat's in the Cradle | 29.00% | ~193 |
 | Driven | 29.00% | ~193 |
+| Bringer of War | 29.00% | ~193 |
 | Friend or Foe | 28.00% | ~186 |
 | Doppelganger | 28.00% | ~186 |
-| Bringer of War | 28.00% | ~186 |
 | First Aid Specialist | 27.00% | ~180 |
 | Mission Accomplished | 27.00% | ~180 |
 | Suicide Mission | 27.00% | ~180 |
@@ -108,11 +108,11 @@
 | Legend | 14.00% | ~93 |
 | Long Service Medal | 13.00% | ~87 |
 | Combined Arms | 12.00% | ~80 |
+| Warp Mastery | 12.00% | ~80 |
 | Barrier Mastery | 11.00% | ~73 |
 | Paramour III | 11.00% | ~73 |
 | Bruiser | 11.00% | ~73 |
 | Overload Specialist | 11.00% | ~73 |
-| Warp Mastery | 11.00% | ~73 |
 | Lift Mastery | 10.00% | ~67 |
 | Hijacker | 9.00% | ~60 |
 | Always Prepared | 9.00% | ~60 |

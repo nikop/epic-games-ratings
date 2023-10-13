@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Once Upon a Time | 97.00% | ~1,072 |
-| Waff! | 95.00% | ~1,050 |
-| Into the Barn | 87.00% | ~961 |
-| A Prophecy | 85.00% | ~939 |
-| Sword, Shield, Fight! | 76.00% | ~840 |
+| Once Upon a Time | 96.00% | ~1,062 |
+| Waff! | 95.00% | ~1,051 |
+| Into the Barn | 87.00% | ~962 |
+| A Prophecy | 85.00% | ~940 |
+| Sword, Shield, Fight! | 76.00% | ~841 |
 | A Grand Visit | 72.00% | ~796 |
-| Fun Guy | 63.00% | ~696 |
-| Vibing | 62.00% | ~685 |
+| Fun Guy | 63.00% | ~697 |
+| Vibing | 62.00% | ~686 |
 | Tragic Brave | 54.00% | ~597 |
 | Awakened Spirits | 51.00% | ~564 |
-| Little Shop | 50.00% | ~552 |
-| Surprise! | 46.00% | ~508 |
-| An Actor! | 46.00% | ~508 |
-| Curtain Call | 45.00% | ~497 |
-| Piece of Cake | 42.00% | ~464 |
-| Gooey Delight! | 42.00% | ~464 |
-| Glimmer of Hope | 42.00% | ~464 |
+| Little Shop | 50.00% | ~553 |
+| Surprise! | 46.00% | ~509 |
+| An Actor! | 46.00% | ~509 |
+| Curtain Call | 45.00% | ~498 |
+| Piece of Cake | 42.00% | ~465 |
+| Gooey Delight! | 42.00% | ~465 |
+| Glimmer of Hope | 42.00% | ~465 |
 | The Guardian | 41.00% | ~453 |
 | Teacups for Toppy | 41.00% | ~453 |
 | Nightmare Fuel | 40.00% | ~442 |
@@ -48,14 +48,14 @@
 | Going Home | 34.00% | ~376 |
 | Extraordinary! | 33.00% | ~365 |
 | Mirror, Mirror | 32.00% | ~354 |
-| Flower Power | 28.00% | ~309 |
-| Shopping Spree! | 26.00% | ~287 |
+| Flower Power | 28.00% | ~310 |
+| Shopping Spree! | 26.00% | ~288 |
 | Crowned | 23.00% | ~254 |
 | Max Level! | 16.00% | ~177 |
-| Dance Master | 10.00% | ~110 |
-| Bombs Away! | 9.00% | ~99 |
+| Dance Master | 10.00% | ~111 |
+| Bombs Away! | 9.00% | ~100 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,105 (Ranked 231)  
+Progressed: 1,106 (Ranked 231)  
 Completed: 85 (7.69%) (Ranked 42)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,6 +177,7 @@ Completed: 85 (7.69%) (Ranked 42)
 | 2023-10-03 | 1,103 | 85 |
 | 2023-10-07 | 1,104 | 85 |
 | 2023-10-12 | 1,105 | 85 |
+| 2023-10-13 | 1,106 | 85 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
