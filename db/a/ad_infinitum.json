@@ -2,9 +2,9 @@
   "ID": "9862908ffff747abb145c54ded5164d0",
   "Name": "Ad Infinitum",
   "ProductSlug": "ad-infinitum",
-  "Ranking_EOS_Progress": 437,
+  "Ranking_EOS_Progress": 435,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 50,
+  "EOS_Progressed": 51,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -262,6 +262,11 @@
       "Time": "2023-10-12T22:04:02.2651832+00:00",
       "NumProgressed": 50,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-13T18:04:10.6801016+00:00",
+      "NumProgressed": 51,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-26T17:06:03.7591+00:00",
@@ -328,7 +333,7 @@
       "ID": "ACH_AWAKEN",
       "SetID": "88d7anj",
       "Name": "Awaken",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 10,
       "UsersEstimate": 25
     },
@@ -368,7 +373,7 @@
       "ID": "ACH_HOPE",
       "SetID": "88d7anj",
       "Name": "Hope",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 30,
       "UsersEstimate": 13
     },
@@ -376,7 +381,7 @@
       "ID": "ACH_HUNGER",
       "SetID": "88d7anj",
       "Name": "Hunger",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 30,
       "UsersEstimate": 26
     },
@@ -410,7 +415,7 @@
       "Name": "Morgengrauen",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_NOONELEFTBEHIND",
@@ -424,7 +429,7 @@
       "ID": "ACH_NOTALONE",
       "SetID": "88d7anj",
       "Name": "Not alone",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 15,
       "UsersEstimate": 30
     },
@@ -440,7 +445,7 @@
       "ID": "ACH_PATHOFCORRUPTION",
       "SetID": "88d7anj",
       "Name": "Path of Corruption",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
       "UsersEstimate": 16
     },
@@ -450,7 +455,7 @@
       "Name": "Path of Despair",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_PATHOFPAIN",
@@ -505,14 +510,14 @@
     {
       "ID": "88d7anj",
       "IsBase": true,
-      "Progressed": 50,
+      "Progressed": 51,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-16T22:59:49.7725195+00:00",
   "FirstSeenAchievements": "2023-07-25T11:06:40.9201069+00:00",
-  "LastChanged_Achievements": "2023-10-13T17:05:38.1141412+00:00",
+  "LastChanged_Achievements": "2023-10-13T18:04:10.680101+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:17.5744783+00:00",
-  "LastUpdate_Ratings": "2023-10-13T17:03:37.7148966+00:00",
-  "LastUpdate_Achievements": "2023-10-13T17:05:38.1141793+00:00"
+  "LastUpdate_Ratings": "2023-10-13T18:02:18.8113952+00:00",
+  "LastUpdate_Achievements": "2023-10-13T18:04:10.6801228+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 286,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -912,7 +912,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 6812,
+  "EOS_Progressed": 6813,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
@@ -6912,6 +6912,11 @@
       "Time": "2023-10-13T17:05:15.5360978+00:00",
       "NumProgressed": 6812,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-13T18:03:51.4987559+00:00",
+      "NumProgressed": 6813,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -6963,7 +6968,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 4223
+      "UsersEstimate": 4224
     },
     {
       "ID": "Control_All_Relics",
@@ -7027,7 +7032,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 5381
+      "UsersEstimate": 5382
     },
     {
       "ID": "First_Race_Met",
@@ -7043,7 +7048,7 @@
       "Name": "Design a Ship",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1907
+      "UsersEstimate": 1908
     },
     {
       "ID": "First_Stream_Travel",
@@ -7059,7 +7064,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5313
+      "UsersEstimate": 5314
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -7243,7 +7248,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 4223
+      "UsersEstimate": 4224
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -7411,7 +7416,7 @@
       "Name": "Win a Battle",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 4496
+      "UsersEstimate": 4497
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -7427,7 +7432,7 @@
       "Name": "Conquest Victory!",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "Win_CustomFaction",
@@ -7498,15 +7503,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6812,
+      "Progressed": 6813,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-10-13T17:05:15.5360972+00:00",
+  "LastChanged_Achievements": "2023-10-13T18:03:51.4987555+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:04.8619869+00:00",
-  "LastUpdate_Ratings": "2023-10-13T17:02:43.9661416+00:00",
-  "LastUpdate_Achievements": "2023-10-13T17:05:15.536255+00:00"
+  "LastUpdate_Ratings": "2023-10-13T18:01:04.8497838+00:00",
+  "LastUpdate_Achievements": "2023-10-13T18:03:51.498864+00:00"
 }

@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 611,
+  "EOS_Progressed": 612,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 151,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1646,6 +1646,11 @@
       "Time": "2023-10-13T17:06:13.5020038+00:00",
       "NumProgressed": 611,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-13T18:04:39.5115482+00:00",
+      "NumProgressed": 612,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -1720,9 +1725,9 @@
       "ID": "achievement_17",
       "SetID": "271ol84",
       "Name": "\u0022Gonk? Gonk!\u0022",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 49
     },
     {
       "ID": "achievement_18",
@@ -1850,7 +1855,7 @@
       "Name": "Scrap collector",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "achievement_32",
@@ -1882,7 +1887,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "achievement_36",
@@ -1898,7 +1903,7 @@
       "Name": "Off to a good start",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "achievement_38",
@@ -1928,9 +1933,9 @@
       "ID": "achievement_40",
       "SetID": "271ol84",
       "Name": "Do... or do not. There is no try",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 330
+      "UsersEstimate": 324
     },
     {
       "ID": "achievement_41",
@@ -2161,13 +2166,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 611,
+      "Progressed": 612,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 611,
+      "Progressed": 612,
       "Completed": 1
     }
   ],
@@ -2175,8 +2180,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-13T17:06:13.5020033+00:00",
+  "LastChanged_Achievements": "2023-10-13T18:04:39.5115478+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:04.2927905+00:00",
-  "LastUpdate_Ratings": "2023-10-13T17:04:24.5052708+00:00",
-  "LastUpdate_Achievements": "2023-10-13T17:06:13.5021599+00:00"
+  "LastUpdate_Ratings": "2023-10-13T18:03:08.9604127+00:00",
+  "LastUpdate_Achievements": "2023-10-13T18:04:39.5116204+00:00"
 }

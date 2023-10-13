@@ -483,9 +483,9 @@
       "ID": "ACH_CAR_WASH_05",
       "SetID": "5fn8ia4",
       "Name": "Car Wash Lvl. 5",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_FEED_GATOR",
@@ -547,9 +547,9 @@
       "ID": "GSS_ACH_03_TIP_01",
       "SetID": "5fn8ia4",
       "Name": "The first tip",
-      "Percentage": 96,
+      "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "GSS_ACH_04_TIP_02",
@@ -571,17 +571,17 @@
       "ID": "GSS_ACH_06_FUEL_01",
       "SetID": "5fn8ia4",
       "Name": "Fueled it good!",
-      "Percentage": 96,
+      "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "GSS_ACH_07_FUEL_02",
       "SetID": "5fn8ia4",
       "Name": "Fueled it better!",
-      "Percentage": 94,
+      "Percentage": 95,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "GSS_ACH_08_FUEL_03",
@@ -627,9 +627,9 @@
       "ID": "GSS_ACH_13_FUEL_SERVE_01",
       "SetID": "5fn8ia4",
       "Name": "So it begins",
-      "Percentage": 96,
+      "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "GSS_ACH_14_FUEL_SERVE_02",
@@ -1186,8 +1186,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-13T17:10:01.1409192+00:00",
+  "LastChanged_Achievements": "2023-10-13T18:08:08.4888711+00:00",
   "LastUpdate_AppInfo": "2023-10-09T13:09:09.0618232+00:00",
-  "LastUpdate_Ratings": "2023-10-13T17:01:10.7916274+00:00",
-  "LastUpdate_Achievements": "2023-10-13T17:10:01.141086+00:00"
+  "LastUpdate_Ratings": "2023-10-13T17:59:53.1850162+00:00",
+  "LastUpdate_Achievements": "2023-10-13T18:08:08.4889786+00:00"
 }

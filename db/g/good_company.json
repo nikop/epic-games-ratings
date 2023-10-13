@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5487,
+  "EOS_Progressed": 5488,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -3835,6 +3835,11 @@
       "Time": "2023-10-13T15:05:29.6092396+00:00",
       "NumProgressed": 5487,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-13T18:05:11.9771735+00:00",
+      "NumProgressed": 5488,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -4102,7 +4107,7 @@
       "Name": "Extra Life: Wish Granted",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "ach_campaign_special6",
@@ -4190,7 +4195,7 @@
       "Name": "High Five!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "ach_frp_high_networth",
@@ -4206,7 +4211,7 @@
       "Name": "Modular Progress",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "ach_frp_many_modules2",
@@ -4453,15 +4458,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5487,
+      "Progressed": 5488,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-10-13T17:06:51.6362861+00:00",
+  "LastChanged_Achievements": "2023-10-13T18:05:11.977173+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:57.6012015+00:00",
-  "LastUpdate_Ratings": "2023-10-13T17:03:20.6009704+00:00",
-  "LastUpdate_Achievements": "2023-10-13T17:06:51.6364704+00:00"
+  "LastUpdate_Ratings": "2023-10-13T18:02:04.3821131+00:00",
+  "LastUpdate_Achievements": "2023-10-13T18:05:11.9772788+00:00"
 }

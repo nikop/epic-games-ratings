@@ -3506,9 +3506,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73464,
+  "EOS_Progressed": 73466,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 257,
+  "EOS_NewPlayers": 256,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -18541,6 +18541,11 @@
       "Time": "2023-10-13T16:04:53.8043696+00:00",
       "NumProgressed": 73464,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-10-13T18:04:19.8883407+00:00",
+      "NumProgressed": 73466,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 61,
@@ -18656,7 +18661,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15427
+      "UsersEstimate": 15428
     },
     {
       "ID": "CLAYFACE_2",
@@ -18696,7 +18701,7 @@
       "Name": "Fusion Expert",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 5142
+      "UsersEstimate": 5143
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -18712,7 +18717,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 9550
+      "UsersEstimate": 9551
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -18752,7 +18757,7 @@
       "Name": "Family Meeting",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 5142
+      "UsersEstimate": 5143
     },
     {
       "ID": "DEFEAT_OC_2",
@@ -18760,7 +18765,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 9550
+      "UsersEstimate": 9551
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -18768,7 +18773,7 @@
       "Name": "Drone You Out",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 7346
+      "UsersEstimate": 7347
     },
     {
       "ID": "FREEZE_1",
@@ -18784,7 +18789,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15427
+      "UsersEstimate": 15428
     },
     {
       "ID": "FREEZE_2",
@@ -18792,7 +18797,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 13958
+      "UsersEstimate": 13959
     },
     {
       "ID": "FREEZE_3",
@@ -18856,7 +18861,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25712
+      "UsersEstimate": 25713
     },
     {
       "ID": "HARLEY_2",
@@ -18872,7 +18877,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15427
+      "UsersEstimate": 15428
     },
     {
       "ID": "HARLEY_4",
@@ -18880,7 +18885,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 11754
+      "UsersEstimate": 11755
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -18896,7 +18901,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 38201
+      "UsersEstimate": 38202
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -19039,13 +19044,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73464,
+      "Progressed": 73466,
       "Completed": 121
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43744,
+      "Progressed": 43746,
       "Completed": 2667
     }
   ],
@@ -19053,8 +19058,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-13T13:58:03.1576521+00:00",
-  "LastChanged_Achievements": "2023-10-13T17:05:49.0794043+00:00",
+  "LastChanged_Achievements": "2023-10-13T18:04:19.8883401+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:31.3761181+00:00",
-  "LastUpdate_Ratings": "2023-10-13T16:58:33.0087036+00:00",
-  "LastUpdate_Achievements": "2023-10-13T17:05:49.0796687+00:00"
+  "LastUpdate_Ratings": "2023-10-13T17:57:39.7614169+00:00",
+  "LastUpdate_Achievements": "2023-10-13T18:04:19.8884878+00:00"
 }

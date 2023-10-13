@@ -2376,7 +2376,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26396,
+  "EOS_Progressed": 26398,
   "EOS_Completed": 58,
   "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
@@ -14821,6 +14821,11 @@
       "Time": "2023-10-13T16:06:12.5607877+00:00",
       "NumProgressed": 26396,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-10-13T18:05:27.3735637+00:00",
+      "NumProgressed": 26398,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 51,
@@ -14998,9 +15003,9 @@
       "ID": "Legions",
       "SetID": "819popo",
       "Name": "Legions",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 132
+      "UsersEstimate": 158
     },
     {
       "ID": "Liability",
@@ -15239,7 +15244,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26396,
+      "Progressed": 26398,
       "Completed": 58
     }
   ],
@@ -15247,8 +15252,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-12T23:57:52.2890853+00:00",
-  "LastChanged_Achievements": "2023-10-13T17:07:09.7508168+00:00",
+  "LastChanged_Achievements": "2023-10-13T18:05:27.3735633+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:25.2013042+00:00",
-  "LastUpdate_Ratings": "2023-10-13T16:59:03.9815198+00:00",
-  "LastUpdate_Achievements": "2023-10-13T17:07:09.7509407+00:00"
+  "LastUpdate_Ratings": "2023-10-13T17:58:06.5567928+00:00",
+  "LastUpdate_Achievements": "2023-10-13T18:05:27.3736783+00:00"
 }

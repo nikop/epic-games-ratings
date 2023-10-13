@@ -2,9 +2,9 @@
   "ID": "5e09944aaced4155ac9463196b5deada",
   "Name": "Astalon -Tears of the Earth-",
   "ProductSlug": "astalon-tears-of-the-earth-1b2279",
-  "Ranking_EOS_Progress": 418,
+  "Ranking_EOS_Progress": 417,
   "Ranking_EOS_Completed": 66,
-  "Ranking_EOS_NewPlayers": 392,
+  "Ranking_EOS_NewPlayers": 391,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-04-01T00:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 65,
+  "EOS_Progressed": 66,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.62,
+  "EOS_Completed_Percentage": 4.55,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:01.3708206+00:00",
@@ -106,6 +106,11 @@
       "Time": "2023-08-20T20:03:24.96118+00:00",
       "NumProgressed": 65,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-13T18:05:45.4854485+00:00",
+      "NumProgressed": 66,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 30,
@@ -123,7 +128,7 @@
       "ID": "Beat_Game",
       "SetID": "4f0g260",
       "Name": "Vanquisher!",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 30,
       "UsersEstimate": 20
     },
@@ -203,7 +208,7 @@
       "ID": "Collect_10000_Orbs",
       "SetID": "4f0g260",
       "Name": "Orb Gatherer",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
       "UsersEstimate": 22
     },
@@ -211,7 +216,7 @@
       "ID": "Collect_50000_Orbs",
       "SetID": "4f0g260",
       "Name": "Orb Collector",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
       "UsersEstimate": 20
     },
@@ -267,7 +272,7 @@
       "ID": "Defeat_Gemini",
       "SetID": "4f0g260",
       "Name": "Twin slayer!",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
       "UsersEstimate": 20
     },
@@ -275,7 +280,7 @@
       "ID": "Defeat_Medusa",
       "SetID": "4f0g260",
       "Name": "Snakehead!",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
       "UsersEstimate": 20
     },
@@ -283,7 +288,7 @@
       "ID": "Defeat_Solaria",
       "SetID": "4f0g260",
       "Name": "Unmasked!",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
       "UsersEstimate": 20
     },
@@ -291,7 +296,7 @@
       "ID": "Defeat_Tauros",
       "SetID": "4f0g260",
       "Name": "Horn prize!",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 15,
       "UsersEstimate": 31
     },
@@ -299,7 +304,7 @@
       "ID": "Defeat_Volantis",
       "SetID": "4f0g260",
       "Name": "Space worm!",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
       "UsersEstimate": 22
     },
@@ -339,7 +344,7 @@
       "ID": "Unlock_Bram",
       "SetID": "4f0g260",
       "Name": "Mercenary!",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
       "UsersEstimate": 20
     },
@@ -356,7 +361,7 @@
     {
       "ID": "4f0g260",
       "IsBase": true,
-      "Progressed": 65,
+      "Progressed": 66,
       "Completed": 3
     }
   ],
@@ -364,8 +369,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6585967+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.3708214+00:00",
   "LastChanged": "2023-03-31T05:57:06.6585968+00:00",
-  "LastChanged_Achievements": "2023-10-13T17:07:31.764097+00:00",
+  "LastChanged_Achievements": "2023-10-13T18:05:45.4854481+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:21.635358+00:00",
-  "LastUpdate_Ratings": "2023-10-13T16:57:43.3603945+00:00",
-  "LastUpdate_Achievements": "2023-10-13T17:07:31.7641208+00:00"
+  "LastUpdate_Ratings": "2023-10-13T17:57:01.0708688+00:00",
+  "LastUpdate_Achievements": "2023-10-13T18:05:45.48547+00:00"
 }

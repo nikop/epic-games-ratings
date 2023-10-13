@@ -8,10 +8,10 @@
 | Welcome to the Tower | 10.00% | ~28 |
 | The great escape | 9.00% | ~25 |
 | The Preacher's fate | 8.00% | ~23 |
+| In this together | 7.00% | ~20 |
 | Cable guy | 7.00% | ~20 |
 | A new dawn | 7.00% | ~20 |
 | I did it | 6.00% | ~17 |
-| In this together | 6.00% | ~17 |
 | Peace walker | 6.00% | ~17 |
 | A good beginning | 6.00% | ~17 |
 | Half the way | 6.00% | ~17 |
@@ -24,9 +24,9 @@
 | Alchemists Express | 5.00% | ~14 |
 | Open door | 4.00% | ~11 |
 | Free at last | 4.00% | ~11 |
+| Rascal | 4.00% | ~11 |
 | For its own good | 3.00% | ~8 |
 | A Link to the Past | 3.00% | ~8 |
-| Rascal | 3.00% | ~8 |
 | A great audience | 2.00% | ~6 |
 | Fashion victim | 0.70% | ~2 |
 ## Popularity (Based on EOS Achievements)

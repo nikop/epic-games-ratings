@@ -370,9 +370,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2432,
+  "EOS_Progressed": 2433,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 321,
+  "EOS_NewPlayers": 320,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2390,6 +2390,11 @@
       "Time": "2023-10-13T17:05:58.7596709+00:00",
       "NumProgressed": 2432,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-13T18:04:27.4504457+00:00",
+      "NumProgressed": 2433,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -2418,7 +2423,7 @@
       "Name": "Big Spender",
       "Percentage": 23,
       "XP": 60,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "achievement_12",
@@ -2426,7 +2431,7 @@
       "Name": "Dealmaker",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "achievement_13",
@@ -2562,14 +2567,14 @@
       "Name": "Future of the Franchise",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     }
   ],
   "AchievementSets": [
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 2432,
+      "Progressed": 2433,
       "Completed": 0
     }
   ],
@@ -2577,8 +2582,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-10-13T03:59:28.6125347+00:00",
-  "LastChanged_Achievements": "2023-10-13T17:05:58.7596703+00:00",
+  "LastChanged_Achievements": "2023-10-13T18:04:27.4504452+00:00",
   "LastUpdate_AppInfo": "2023-10-12T02:57:10.0786796+00:00",
-  "LastUpdate_Ratings": "2023-10-13T17:02:10.8226763+00:00",
-  "LastUpdate_Achievements": "2023-10-13T17:05:58.7597186+00:00"
+  "LastUpdate_Ratings": "2023-10-13T18:00:39.1629485+00:00",
+  "LastUpdate_Achievements": "2023-10-13T18:04:27.4504699+00:00"
 }

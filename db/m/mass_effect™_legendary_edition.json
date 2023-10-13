@@ -2221,9 +2221,9 @@
       "ID": "achievement_54",
       "SetID": "d252ncf",
       "Name": "Catharsis",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 202
+      "UsersEstimate": 208
     },
     {
       "ID": "achievement_55",
@@ -2341,9 +2341,9 @@
       "ID": "achievement_68",
       "SetID": "b9pe172",
       "Name": "Agent",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 202
+      "UsersEstimate": 208
     },
     {
       "ID": "achievement_69",
@@ -2421,9 +2421,9 @@
       "ID": "achievement_77",
       "SetID": "d252ncf",
       "Name": "Digital Exorcist",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 195
+      "UsersEstimate": 202
     },
     {
       "ID": "achievement_78",
@@ -2633,8 +2633,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-13T17:04:59.4947509+00:00",
+  "LastChanged_Achievements": "2023-10-13T18:03:38.2374746+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:40.7255751+00:00",
-  "LastUpdate_Ratings": "2023-10-13T17:00:57.6245354+00:00",
-  "LastUpdate_Achievements": "2023-10-13T17:04:59.4949827+00:00"
+  "LastUpdate_Ratings": "2023-10-13T17:59:43.1195159+00:00",
+  "LastUpdate_Achievements": "2023-10-13T18:03:38.2377025+00:00"
 }

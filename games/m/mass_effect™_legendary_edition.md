@@ -53,20 +53,20 @@
 | The Cure | 32.00% | ~215 |
 | The Prodigal | 32.00% | ~215 |
 | A Personal Touch | 31.00% | ~208 |
+| Catharsis | 31.00% | ~208 |
 | Ghost of the Father | 31.00% | ~208 |
 | Big Game Hunter | 31.00% | ~208 |
+| Agent | 31.00% | ~208 |
 | Revenge! | 31.00% | ~208 |
 | Heart of Darkness | 31.00% | ~208 |
 | Shopaholic | 31.00% | ~208 |
-| Catharsis | 30.00% | ~202 |
 | Fade Away | 30.00% | ~202 |
 | Treason | 30.00% | ~202 |
-| Agent | 30.00% | ~202 |
+| Digital Exorcist | 30.00% | ~202 |
 | Driven | 30.00% | ~202 |
 | Focused | 29.00% | ~195 |
 | Cat's in the Cradle | 29.00% | ~195 |
 | Doppelganger | 29.00% | ~195 |
-| Digital Exorcist | 29.00% | ~195 |
 | Bringer of War | 29.00% | ~195 |
 | Friend or Foe | 28.00% | ~188 |
 | First Aid Specialist | 27.00% | ~181 |

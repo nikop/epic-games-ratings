@@ -13697,9 +13697,9 @@
       "ID": "24_Legacy",
       "SetID": "989of5o",
       "Name": "The Legacy",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 461
+      "UsersEstimate": 576
     },
     {
       "ID": "25_MasterfulDispell",
@@ -14455,8 +14455,8 @@
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-10-12T17:00:39.3097327+00:00",
-  "LastChanged_Achievements": "2023-10-13T17:10:49.8301062+00:00",
+  "LastChanged_Achievements": "2023-10-13T18:09:07.9094853+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:22.9873596+00:00",
-  "LastUpdate_Ratings": "2023-10-13T17:02:16.8808767+00:00",
-  "LastUpdate_Achievements": "2023-10-13T17:10:49.8304985+00:00"
+  "LastUpdate_Ratings": "2023-10-13T18:00:43.9221124+00:00",
+  "LastUpdate_Achievements": "2023-10-13T18:09:07.9096977+00:00"
 }

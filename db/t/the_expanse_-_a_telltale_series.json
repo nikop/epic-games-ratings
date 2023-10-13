@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -166,9 +166,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13915,
+  "EOS_Progressed": 13917,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 278,
+  "EOS_NewPlayers": 275,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -8531,6 +8531,11 @@
       "Time": "2023-10-13T17:06:46.4676435+00:00",
       "NumProgressed": 13915,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-10-13T18:05:07.7648292+00:00",
+      "NumProgressed": 13917,
+      "NumCompleted": 23
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -8567,7 +8572,7 @@
       "Name": "Data Archivist",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "13",
@@ -8647,7 +8652,7 @@
       "Name": "Drone Dodger",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "22",
@@ -8663,7 +8668,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "24",
@@ -8687,7 +8692,7 @@
       "Name": "Call it Even",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "27",
@@ -8719,7 +8724,7 @@
       "Name": "Captain Drummer",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "30",
@@ -8743,7 +8748,7 @@
       "Name": "Data Master",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "6",
@@ -8751,7 +8756,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "7",
@@ -8775,14 +8780,14 @@
       "Name": "Impossible Objects",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13915,
+      "Progressed": 13917,
       "Completed": 23
     }
   ],
@@ -8790,8 +8795,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-13T09:00:57.1370573+00:00",
-  "LastChanged_Achievements": "2023-10-13T17:06:46.467643+00:00",
+  "LastChanged_Achievements": "2023-10-13T18:05:07.7648288+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:56.4622667+00:00",
-  "LastUpdate_Ratings": "2023-10-13T17:01:45.2332599+00:00",
-  "LastUpdate_Achievements": "2023-10-13T17:06:46.4677331+00:00"
+  "LastUpdate_Ratings": "2023-10-13T18:00:21.3690144+00:00",
+  "LastUpdate_Achievements": "2023-10-13T18:05:07.7649019+00:00"
 }

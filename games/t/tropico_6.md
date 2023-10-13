@@ -1,28 +1,28 @@
 # Tropico 6
 [Store](https://store.epicgames.com/en-US/p/tropico-6)  
 [View Rawdata](../../db/t/tropico_6.json)  
-Rating: 4.65 (Ranked 296)  
+Rating: 4.65 (Ranked 297)  
 Number of Ratings: 398  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~4,156 |
-| Un-Lonely Island | 47.00% | ~2,605 |
-| The Beginning of a Servantship | 45.00% | ~2,494 |
+| Just One...More...Term... | 75.00% | ~4,158 |
+| Un-Lonely Island | 47.00% | ~2,606 |
+| The Beginning of a Servantship | 45.00% | ~2,495 |
 | Trade Is My Trait | 37.00% | ~2,051 |
-| Number 18 | 24.00% | ~1,330 |
+| Number 18 | 24.00% | ~1,331 |
 | We Don't Have Time For That | 19.00% | ~1,053 |
 | The Governator | 17.00% | ~942 |
 | Caribbean Comrade | 16.00% | ~887 |
 | The Legend of Langostino | 16.00% | ~887 |
-| The Dreamer of Dreams | 15.00% | ~831 |
+| The Dreamer of Dreams | 15.00% | ~832 |
 | Go Sovereigns! | 11.00% | ~610 |
 | For Science! | 11.00% | ~610 |
 | Happy Ending? | 10.00% | ~554 |
 | Of Seals And Men | 10.00% | ~554 |
 | Shackadelic | 10.00% | ~554 |
-| Double Trouble | 8.00% | ~443 |
-| Firestarter | 8.00% | ~443 |
+| Double Trouble | 8.00% | ~444 |
+| Firestarter | 8.00% | ~444 |
 | I Owe You Nothing | 7.00% | ~388 |
 | Make Tropico Great Again! | 7.00% | ~388 |
 | French Connection | 7.00% | ~388 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~50 |
 | My Ways | 0.30% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,542 (Ranked 169)  
+Progressed: 5,544 (Ranked 169)  
 Completed: 2 (0.04%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 2 (0.04%) (Ranked 276)
 | 2023-10-10 | 5,512 | 2 |
 | 2023-10-11 | 5,521 | 2 |
 | 2023-10-12 | 5,531 | 2 |
-| 2023-10-13 | 5,542 | 2 |
+| 2023-10-13 | 5,544 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 100  (Ranked 347)  
 Sum: 708 (Ranked 284)  

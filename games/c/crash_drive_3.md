@@ -9,8 +9,8 @@
 | Pushover | 29.00% | ~113 |
 | A Forest Walk | 29.00% | ~113 |
 | Amateur Mechanic | 28.00% | ~109 |
-| Multiply that! | 27.00% | ~105 |
-| C-C-C-Combo! | 26.00% | ~101 |
+| Multiply that! | 27.00% | ~106 |
+| C-C-C-Combo! | 26.00% | ~102 |
 | Fore! | 24.00% | ~94 |
 | Insurance fraud | 24.00% | ~94 |
 | Snow Fun! | 24.00% | ~94 |
@@ -19,10 +19,10 @@
 | Bag of Tricks | 23.00% | ~90 |
 | In the Bag! | 23.00% | ~90 |
 | You're it | 23.00% | ~90 |
-| First Come, First Serve | 22.00% | ~86 |
 | To and Fro | 22.00% | ~86 |
 | Goodbye cruel world | 22.00% | ~86 |
 | I see the light! | 22.00% | ~86 |
+| First Come, First Serve | 21.00% | ~82 |
 | Disoriented | 21.00% | ~82 |
 | Take that Frosty! | 21.00% | ~82 |
 | Beach Party! | 21.00% | ~82 |
@@ -60,7 +60,7 @@
 | Master Mechanic | 1.00% | ~4 |
 | Crashed and Driven | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 390 (Ranked 291)  
+Progressed: 391 (Ranked 291)  
 Completed: 2 (0.51%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,6 +136,7 @@ Completed: 2 (0.51%) (Ranked 177)
 | 2023-10-04 | 388 | 2 |
 | 2023-10-07 | 389 | 2 |
 | 2023-10-11 | 390 | 2 |
+| 2023-10-13 | 391 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
