@@ -2,7 +2,7 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 418,
+  "Ranking_Rating": 419,
   "Ranking_Popularity": 433,
   "Ranking_PopularitySum": 356,
   "Ranking_EOS_Progress": 71,
@@ -1066,9 +1066,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 151820,
+  "EOS_Progressed": 151834,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1201,
+  "EOS_NewPlayers": 1197,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11406,6 +11406,11 @@
       "Time": "2023-10-13T14:03:45.7492766+00:00",
       "NumProgressed": 151820,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-13T15:03:41.3302716+00:00",
+      "NumProgressed": 151834,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -11441,7 +11446,7 @@
       "Name": "Assimilation",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "ACQUIRE_ALLWEAPONS",
@@ -11463,9 +11468,9 @@
       "ID": "ACQUIRE_HUNTPOINT",
       "SetID": "ccc0dlh",
       "Name": "The Hunt",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1366
+      "UsersEstimate": 1518
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -11513,7 +11518,7 @@
       "Name": "Shapely",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "DEFEAT_FLOWERHEART",
@@ -11577,7 +11582,7 @@
       "Name": "Celebration",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "DEFEAT_SHIDRA",
@@ -11641,7 +11646,7 @@
       "Name": "Predator",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "MISC_ENDING_PROPER",
@@ -11689,7 +11694,7 @@
       "Name": "Ravenous",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1366
+      "UsersEstimate": 1367
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -11784,21 +11789,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 151403,
+      "Progressed": 151417,
       "Completed": 1155
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 151820,
+      "Progressed": 151834,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-13T07:59:15.5371294+00:00",
-  "LastChanged_Achievements": "2023-10-13T14:03:45.7492759+00:00",
+  "LastChanged_Achievements": "2023-10-13T15:03:41.3302713+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:46.4911319+00:00",
-  "LastUpdate_Ratings": "2023-10-13T14:00:19.8258988+00:00",
-  "LastUpdate_Achievements": "2023-10-13T14:03:45.7493907+00:00"
+  "LastUpdate_Ratings": "2023-10-13T14:59:52.3574442+00:00",
+  "LastUpdate_Achievements": "2023-10-13T15:03:41.3303636+00:00"
 }

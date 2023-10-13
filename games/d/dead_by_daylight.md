@@ -6,43 +6,43 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 2.00% | ~18,718 |
-| Handyman | 1.00% | ~9,359 |
-| Zealous | 1.00% | ~9,359 |
-| Not half bad | 1.00% | ~9,359 |
-| Apt Survivor | 1.00% | ~9,359 |
-| Survival Treasures | 1.00% | ~9,359 |
-| Skillful | 1.00% | ~9,359 |
-| Sorted | 1.00% | ~9,359 |
-| Make Some Noise | 1.00% | ~9,359 |
-| No one left behind | 0.90% | ~8,423 |
-| Medic | 0.90% | ~8,423 |
-| Bloody Millionaire | 0.90% | ~8,423 |
-| I | 0.90% | ~8,423 |
-| Healthy Obsession | 0.90% | ~8,423 |
-| Resurgence | 0.90% | ~8,423 |
-| The Grand Sacrifice | 0.80% | ~7,487 |
-| Agonizing Escape | 0.80% | ~7,487 |
-| Backdoor Escape | 0.80% | ~7,487 |
-| Nerves of steel | 0.80% | ~7,487 |
-| Perfect Escape | 0.80% | ~7,487 |
-| Engineer | 0.80% | ~7,487 |
-| Preemptive Strike | 0.80% | ~7,487 |
-| Humanitarian | 0.80% | ~7,487 |
-| I've got your back | 0.70% | ~6,551 |
-| Perfect Killing | 0.70% | ~6,551 |
-| Close Shave | 0.70% | ~6,551 |
-| Apt Killer | 0.60% | ~5,615 |
-| Risk it all | 0.60% | ~5,615 |
-| Vulture | 0.60% | ~5,615 |
-| II | 0.60% | ~5,615 |
-| Wounded Healer | 0.60% | ~5,615 |
-| Second Act | 0.60% | ~5,615 |
-| III | 0.50% | ~4,679 |
-| First to the Punch | 0.50% | ~4,679 |
-| Every Last Drop | 0.50% | ~4,679 |
-| With Scars to Show | 0.50% | ~4,679 |
-| Rebuilding The Borgo | 0.50% | ~4,679 |
+| It wakes | 2.00% | ~18,719 |
+| Handyman | 1.00% | ~9,360 |
+| Zealous | 1.00% | ~9,360 |
+| Not half bad | 1.00% | ~9,360 |
+| Apt Survivor | 1.00% | ~9,360 |
+| Survival Treasures | 1.00% | ~9,360 |
+| Skillful | 1.00% | ~9,360 |
+| Sorted | 1.00% | ~9,360 |
+| Make Some Noise | 1.00% | ~9,360 |
+| No one left behind | 0.90% | ~8,424 |
+| Medic | 0.90% | ~8,424 |
+| Bloody Millionaire | 0.90% | ~8,424 |
+| I | 0.90% | ~8,424 |
+| Healthy Obsession | 0.90% | ~8,424 |
+| Resurgence | 0.90% | ~8,424 |
+| The Grand Sacrifice | 0.80% | ~7,488 |
+| Agonizing Escape | 0.80% | ~7,488 |
+| Backdoor Escape | 0.80% | ~7,488 |
+| Nerves of steel | 0.80% | ~7,488 |
+| Perfect Escape | 0.80% | ~7,488 |
+| Engineer | 0.80% | ~7,488 |
+| Preemptive Strike | 0.80% | ~7,488 |
+| Humanitarian | 0.80% | ~7,488 |
+| I've got your back | 0.70% | ~6,552 |
+| Perfect Killing | 0.70% | ~6,552 |
+| Risk it all | 0.70% | ~6,552 |
+| Close Shave | 0.70% | ~6,552 |
+| Apt Killer | 0.60% | ~5,616 |
+| Vulture | 0.60% | ~5,616 |
+| II | 0.60% | ~5,616 |
+| Wounded Healer | 0.60% | ~5,616 |
+| Second Act | 0.60% | ~5,616 |
+| III | 0.50% | ~4,680 |
+| First to the Punch | 0.50% | ~4,680 |
+| Every Last Drop | 0.50% | ~4,680 |
+| With Scars to Show | 0.50% | ~4,680 |
+| Rebuilding The Borgo | 0.50% | ~4,680 |
 | Blood on your hands | 0.40% | ~3,744 |
 | Escape Artist | 0.40% | ~3,744 |
 | Made it out alive! | 0.40% | ~3,744 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~936 |
 | Adept Ripley | 0.10% | ~936 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 935,878 (Ranked 14)  
+Progressed: 935,974 (Ranked 14)  
 Completed: 50 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -412,7 +412,7 @@ Completed: 50 (0.01%) (Ranked 296)
 | 2023-10-10 | 931,511 | 49 |
 | 2023-10-11 | 933,163 | 49 |
 | 2023-10-12 | 934,954 | 50 |
-| 2023-10-13 | 935,878 | 50 |
+| 2023-10-13 | 935,974 | 50 |
 ## Awards
 Max (Diverse Characters): 33,824  (Ranked 15)  
 Sum: 261,772 (Ranked 13)  

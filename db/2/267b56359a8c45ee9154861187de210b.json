@@ -805,9 +805,9 @@
       "ID": "rolldist_short",
       "SetID": "3448go",
       "Name": "Rolling the Competition",
-      "Percentage": 70,
+      "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "soccer_hattrick",
@@ -916,8 +916,8 @@
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2023-10-13T14:08:16.2734443+00:00",
+  "LastChanged_Achievements": "2023-10-13T15:07:40.5796921+00:00",
   "LastUpdate_AppInfo": "2023-10-11T21:57:10.1271769+00:00",
-  "LastUpdate_Ratings": "2023-10-13T13:57:46.0438838+00:00",
-  "LastUpdate_Achievements": "2023-10-13T14:08:16.2735224+00:00"
+  "LastUpdate_Ratings": "2023-10-13T14:57:30.838572+00:00",
+  "LastUpdate_Achievements": "2023-10-13T15:07:40.5797679+00:00"
 }

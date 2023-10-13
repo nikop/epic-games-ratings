@@ -2,12 +2,12 @@
   "ID": "9a4a6536096c4307bfb235d811f754ce",
   "Name": "Neverwinter",
   "ProductSlug": "neverwinter",
-  "Ranking_Rating": 812,
+  "Ranking_Rating": 818,
   "Ranking_Popularity": 171,
   "Ranking_PopularitySum": 193,
   "Ranking_EOS_Progress": 669,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 390,
+  "Ranking_EOS_NewPlayers": 391,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2020-11-10T17:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.3,
+  "Rating": 4.29,
   "NumberOfRatings": 1084,
   "RatingHistory": [
     {
@@ -2746,10 +2746,16 @@
       "Rating": 4.3,
       "NumberOfAwards": 2328,
       "NumberOfAwardsMax": 743
+    },
+    {
+      "Time": "2023-10-13T15:03:06.0174457+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 2329,
+      "NumberOfAwardsMax": 743
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2328,
+  "NumberOfAwards": 2329,
   "NumberOfAwardsMax": 743,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2793,7 +2799,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 185
+      "Count": 186
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2831,8 +2837,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:12.0635613+00:00",
-  "LastChanged": "2023-10-12T15:02:11.2614879+00:00",
+  "LastChanged": "2023-10-13T15:03:06.0174456+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:24.3612605+00:00",
-  "LastUpdate_Ratings": "2023-10-13T14:03:07.0639085+00:00",
-  "LastUpdate_Achievements": "2023-10-13T14:03:44.0933961+00:00"
+  "LastUpdate_Ratings": "2023-10-13T15:03:06.0174459+00:00",
+  "LastUpdate_Achievements": "2023-10-13T15:03:39.8130534+00:00"
 }

@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Noctuan Champion | 30.00% | ~16 |
-| Apian Champion | 26.00% | ~14 |
-| Eridanian Champion | 26.00% | ~14 |
-| Lacertian Champion | 26.00% | ~14 |
+| Noctuan Champion | 32.00% | ~17 |
+| Apian Champion | 28.00% | ~15 |
+| Eridanian Champion | 28.00% | ~15 |
+| Lacertian Champion | 28.00% | ~15 |
 | Endless Tricks | 25.00% | ~13 |
 | Dicesmithing Time! | 23.00% | ~12 |
 | Meissa's Savior | 23.00% | ~12 |
 | Sanctuary Guardian | 23.00% | ~12 |
 | Wild's Keeper | 23.00% | ~12 |
+| Behenian Champion | 23.00% | ~12 |
 | Loyal Partner | 21.00% | ~11 |
 | Mechanical Buddy | 21.00% | ~11 |
 | Mind Illuminator | 21.00% | ~11 |
 | Purification Pioneer | 21.00% | ~11 |
 | Stellar Dismantler | 21.00% | ~11 |
-| Behenian Champion | 21.00% | ~11 |
 | Anomaly Destroyer | 19.00% | ~10 |
 | Shard Spender | 19.00% | ~10 |
 | Aquarian Champion | 17.00% | ~9 |

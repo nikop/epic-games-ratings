@@ -3886,9 +3886,9 @@
       "ID": "Kills_Vakir",
       "SetID": "3jha1np",
       "Name": "Hands-On Research",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 20
     },
     {
       "ID": "KoramarCompleted",
@@ -4204,8 +4204,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-09-24T17:03:05.3976488+00:00",
-  "LastChanged_Achievements": "2023-10-13T14:06:54.307183+00:00",
+  "LastChanged_Achievements": "2023-10-13T15:06:25.6868324+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:01.1215159+00:00",
-  "LastUpdate_Ratings": "2023-10-13T14:02:24.2995802+00:00",
-  "LastUpdate_Achievements": "2023-10-13T14:06:54.3072572+00:00"
+  "LastUpdate_Ratings": "2023-10-13T15:02:12.6430005+00:00",
+  "LastUpdate_Achievements": "2023-10-13T15:06:25.6868974+00:00"
 }

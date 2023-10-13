@@ -42,8 +42,8 @@ Number of Ratings: 371  (23.09.2022)
 | Preservationist | 0.70% | ~23 |
 | Engine Kill | 0.70% | ~23 |
 | Death Comes For All | 0.70% | ~23 |
+| Hands-On Research | 0.60% | ~20 |
 | Harvest No More | 0.60% | ~20 |
-| Hands-On Research | 0.50% | ~16 |
 | Strike Force | 0.40% | ~13 |
 | Warp Flickers | 0.30% | ~10 |
 | Exercise in Restraint | 0.30% | ~10 |

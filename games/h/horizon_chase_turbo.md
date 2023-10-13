@@ -1,51 +1,51 @@
 # Horizon Chase Turbo
 [Store](https://store.epicgames.com/en-US/p/horizon-chase-turbo)  
 [View Rawdata](../../db/h/horizon_chase_turbo.json)  
-Rating: 4.55 (Ranked 492)  
+Rating: 4.54 (Ranked 509)  
 Number of Ratings: 1,343  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~954,247 |
-| I Need a Bigger Garage | 63.00% | ~667,973 |
-| Pump my Ride | 47.00% | ~498,329 |
-| Ghostbuster | 33.00% | ~349,890 |
-| Call Roadside Assistance | 18.00% | ~190,849 |
-| That Was Close | 18.00% | ~190,849 |
-| Quickie | 11.00% | ~116,630 |
-| California Dreamer | 7.00% | ~74,219 |
-| Can't Touch This | 5.00% | ~53,014 |
-| Carménère Taster | 4.00% | ~42,411 |
-| Comeback | 4.00% | ~42,411 |
-| Driver from Ipanema | 3.00% | ~31,808 |
-| Supersonic | 3.00% | ~31,808 |
-| Marathonist | 3.00% | ~31,808 |
-| Living Legend | 3.00% | ~31,808 |
-| God of Roads | 2.00% | ~21,205 |
-| Pathfinder | 2.00% | ~21,205 |
-| Go-Kart Champion | 2.00% | ~21,205 |
-| Completionist | 2.00% | ~21,205 |
-| Harder, Better, Faster, Stronger | 2.00% | ~21,205 |
+| The First of Many | 90.00% | ~954,270 |
+| I Need a Bigger Garage | 63.00% | ~667,989 |
+| Pump my Ride | 47.00% | ~498,341 |
+| Ghostbuster | 33.00% | ~349,899 |
+| Call Roadside Assistance | 18.00% | ~190,854 |
+| That Was Close | 18.00% | ~190,854 |
+| Quickie | 11.00% | ~116,633 |
+| California Dreamer | 7.00% | ~74,221 |
+| Can't Touch This | 5.00% | ~53,015 |
+| Carménère Taster | 4.00% | ~42,412 |
+| Comeback | 4.00% | ~42,412 |
+| Driver from Ipanema | 3.00% | ~31,809 |
+| Supersonic | 3.00% | ~31,809 |
+| Marathonist | 3.00% | ~31,809 |
+| Living Legend | 3.00% | ~31,809 |
+| God of Roads | 2.00% | ~21,206 |
+| Pathfinder | 2.00% | ~21,206 |
+| Go-Kart Champion | 2.00% | ~21,206 |
+| Completionist | 2.00% | ~21,206 |
+| Harder, Better, Faster, Stronger | 2.00% | ~21,206 |
 | The Iceman | 1.00% | ~10,603 |
 | Bollywood Star | 1.00% | ~10,603 |
 | Oil Tycoon | 1.00% | ~10,603 |
 | Round the Globe | 1.00% | ~10,603 |
 | Golden Passport | 1.00% | ~10,603 |
 | Brave and Bold | 1.00% | ~10,603 |
-| Crocodile Hunter | 0.90% | ~9,542 |
-| Old Master | 0.90% | ~9,542 |
+| Crocodile Hunter | 0.90% | ~9,543 |
+| Old Master | 0.90% | ~9,543 |
 | Volcano Surfer | 0.80% | ~8,482 |
 | Otaku | 0.80% | ~8,482 |
 | Survivor | 0.60% | ~6,362 |
 | King of the World | 0.60% | ~6,362 |
-| Getting Famous | 0.50% | ~5,301 |
+| Getting Famous | 0.50% | ~5,302 |
 | Now Go Play Outside | 0.30% | ~3,181 |
 | Master of the Racetrack | 0.20% | ~2,121 |
 | Transporter | 0.10% | ~1,060 |
 | Look Mom, No Hands! | 0.10% | ~1,060 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,060,274 (Ranked 13)  
-Completed: 455 (0.04%) (Ranked 277)  
+Progressed: 1,060,300 (Ranked 13)  
+Completed: 456 (0.04%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -220,24 +220,24 @@ Completed: 455 (0.04%) (Ranked 277)
 | 2023-10-10 | 1,059,096 | 453 |
 | 2023-10-11 | 1,059,490 | 453 |
 | 2023-10-12 | 1,059,985 | 455 |
-| 2023-10-13 | 1,060,274 | 455 |
+| 2023-10-13 | 1,060,300 | 456 |
 ## Awards
-Max (Great for Beginners): 156  (Ranked 305)  
-Sum: 1,302 (Ranked 232)  
-Diff (max vs sum): 73  
+Max (Great for Beginners): 158  (Ranked 303)  
+Sum: 1,323 (Ranked 232)  
+Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 156 |
-| This game has Quickly Understood Controls | 134 |
-| This game is Great for Quick Sessions | 131 |
+| This game is Great for Beginners | 158 |
+| This game has Quickly Understood Controls | 137 |
+| This game is Great for Quick Sessions | 133 |
 | This game is Relaxing | 131 |
-| This game is Highly Recommended | 125 |
+| This game is Highly Recommended | 129 |
+| This game has Competitive Players | 121 |
 | This game has Playful Visuals | 121 |
-| This game has Competitive Players | 120 |
-| This game is Extremely Fun | 111 |
-| This game has Amazing Storytelling | 99 |
+| This game is Extremely Fun | 116 |
+| This game has Amazing Storytelling | 101 |
 | This game has Amazing Characters | 93 |
-| This game has a Competitive Community | 81 |
+| This game has a Competitive Community | 83 |
 | This game has Diverse Characters | 75 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -456,3 +456,4 @@ Diff (max vs sum): 73
 | 2023-09-23 | 4.55 | - | 155 | 1,296 |
 | 2023-09-24 | 4.55 | - | 156 | 1,299 |
 | 2023-09-25 | 4.55 | - | 156 | 1,302 |
+| 2023-10-13 | 4.54 | - | 158 | 1,323 |

@@ -13,11 +13,11 @@ Rating: 4.64 (Ranked 320)
 | Cold-Blooded Driller | 0.80% | ~194 |
 | Don't Knife The Hand That Feeds | 0.80% | ~194 |
 | RIP Davey Glutes | 0.70% | ~169 |
+| We're All Very Impressed, Trust Me | 0.70% | ~169 |
 | Hardest Battle In The Game | 0.70% | ~169 |
 | Who's The Boss? | 0.70% | ~169 |
 | Creature Feature | 0.60% | ~145 |
 | Bring A Knife to a Gun Fight | 0.60% | ~145 |
-| We're All Very Impressed, Trust Me | 0.60% | ~145 |
 | Self-Actualization | 0.60% | ~145 |
 | Spent 15 Hours At The Alien Strip Club | 0.60% | ~145 |
 | Bathe With A Giant Nude Alien | 0.60% | ~9 |
@@ -26,8 +26,8 @@ Rating: 4.64 (Ranked 320)
 | Fallout Doesn't Let You Do This | 0.50% | ~121 |
 | Series Wrap on Suit-O | 0.50% | ~121 |
 | Eatin' Good in the Neighborhood | 0.40% | ~97 |
+| Eye Scream, You Scream | 0.40% | ~97 |
 | We Came, We Chainsaw, We Conquered | 0.40% | ~6 |
-| Eye Scream, You Scream | 0.30% | ~73 |
 | Mux Ado About Shipping | 0.30% | ~4 |
 | Sequel-Bait | 0.20% | ~48 |
 | Gunning For Your Job | 0.20% | ~48 |

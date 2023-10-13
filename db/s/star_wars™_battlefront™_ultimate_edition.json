@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 607,
+  "EOS_Progressed": 608,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 149,
+  "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1631,6 +1631,11 @@
       "Time": "2023-10-13T10:04:56.6247722+00:00",
       "NumProgressed": 607,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-13T15:04:56.8085114+00:00",
+      "NumProgressed": 608,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -1779,7 +1784,7 @@
       "Name": "A tremor in the Force",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "achievement_26",
@@ -1835,7 +1840,7 @@
       "Name": "Scrap collector",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "achievement_32",
@@ -1867,7 +1872,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "achievement_36",
@@ -1907,7 +1912,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "achievement_40",
@@ -1947,7 +1952,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "achievement_45",
@@ -2083,7 +2088,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "achievement_60",
@@ -2146,13 +2151,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 607,
+      "Progressed": 608,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 607,
+      "Progressed": 608,
       "Completed": 1
     }
   ],
@@ -2160,8 +2165,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-13T14:05:17.8450456+00:00",
+  "LastChanged_Achievements": "2023-10-13T15:04:56.808511+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:04.2927905+00:00",
-  "LastUpdate_Ratings": "2023-10-13T14:03:28.9026123+00:00",
-  "LastUpdate_Achievements": "2023-10-13T14:05:17.8451124+00:00"
+  "LastUpdate_Ratings": "2023-10-13T15:03:24.9585292+00:00",
+  "LastUpdate_Achievements": "2023-10-13T15:04:56.8085705+00:00"
 }

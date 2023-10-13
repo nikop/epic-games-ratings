@@ -8,11 +8,11 @@
 | Welcome to the Tower | 10.00% | ~28 |
 | The great escape | 9.00% | ~25 |
 | The Preacher's fate | 8.00% | ~23 |
+| Cable guy | 7.00% | ~20 |
 | A new dawn | 7.00% | ~20 |
 | I did it | 6.00% | ~17 |
 | In this together | 6.00% | ~17 |
 | Peace walker | 6.00% | ~17 |
-| Cable guy | 6.00% | ~17 |
 | A good beginning | 6.00% | ~17 |
 | Half the way | 6.00% | ~17 |
 | True G3M4R | 6.00% | ~17 |

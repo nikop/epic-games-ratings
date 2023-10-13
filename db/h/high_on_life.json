@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -5629,9 +5629,9 @@
       "ID": "ACH_GRUNT_EYES",
       "SetID": "cdkbb11",
       "Name": "Eye Scream, You Scream",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -5645,9 +5645,9 @@
       "ID": "ACH_JUGGLE_SKILLS",
       "SetID": "cdkbb11",
       "Name": "We\u0027re All Very Impressed, Trust Me",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 145
+      "UsersEstimate": 169
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -5892,8 +5892,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-07T05:03:09.4311759+00:00",
-  "LastChanged_Achievements": "2023-10-13T14:05:38.0330271+00:00",
+  "LastChanged_Achievements": "2023-10-13T15:05:15.7177699+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:51.1168375+00:00",
-  "LastUpdate_Ratings": "2023-10-13T14:00:47.835745+00:00",
-  "LastUpdate_Achievements": "2023-10-13T14:05:38.0330869+00:00"
+  "LastUpdate_Ratings": "2023-10-13T15:00:21.2360027+00:00",
+  "LastUpdate_Achievements": "2023-10-13T15:05:15.7178241+00:00"
 }

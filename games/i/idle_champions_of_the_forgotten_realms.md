@@ -7,6 +7,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 0.30% | ~695 |
+| The Cursed Farmer | 0.20% | ~463 |
 | The Jungles of Doomspace | 0.20% | ~396 |
 | The Arena of Blood | 0.20% | ~396 |
 | Foul Play | 0.20% | ~396 |
@@ -218,7 +219,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Trepidatious Trio | 0.10% | ~232 |
 | Our Time To Shine | 0.10% | ~232 |
 | Review by the Blackstaff | 0.10% | ~198 |
-| The Cursed Farmer | 0.10% | ~232 |
 | The Ring of Regeneration | 0.10% | ~232 |
 | The Crumbling Temple | 0.10% | ~232 |
 | The Death Curse | 0.10% | ~232 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Spelljammers in Training | 0.10% | ~198 |
 | Time Out | 0.10% | ~198 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,700 (Ranked 58)  
+Progressed: 231,704 (Ranked 58)  
 Completed: 2,356 (1.02%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -711,7 +711,7 @@ Completed: 2,356 (1.02%) (Ranked 144)
 | 2023-10-10 | 231,484 | 2,351 |
 | 2023-10-11 | 231,561 | 2,353 |
 | 2023-10-12 | 231,654 | 2,355 |
-| 2023-10-13 | 231,700 | 2,356 |
+| 2023-10-13 | 231,704 | 2,356 |
 ## Awards
 Max (Great for Beginners): 5,387  (Ranked 69)  
 Sum: 32,008 (Ranked 41)  

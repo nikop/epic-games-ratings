@@ -26,7 +26,7 @@
 | Little genius | 35.00% | ~19 |
 | Shattered | 33.00% | ~18 |
 | GG | 33.00% | ~18 |
-| You've got mail! | 31.00% | ~17 |
+| You've got mail! | 33.00% | ~18 |
 | Mischief maker | 31.00% | ~17 |
 | Close the deal | 30.00% | ~16 |
 | Memories | 30.00% | ~16 |

@@ -1,21 +1,21 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 510)  
+Rating: 4.54 (Ranked 509)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 4.00% | ~27,798 |
-| Welcome To Hell-A | 4.00% | ~27,798 |
-| Dr. Reed, I Presume? | 3.00% | ~20,848 |
-| Git Gutte! | 3.00% | ~20,848 |
-| Break A Leg | 3.00% | ~20,848 |
-| Coup de Grâce | 3.00% | ~20,848 |
-| Hazardous Materials | 3.00% | ~20,848 |
-| Friends Like These | 3.00% | ~20,848 |
-| Apex Predator | 3.00% | ~20,848 |
-| Stacking the Deck | 3.00% | ~20,848 |
-| Personal Assistant Personally Assisted | 3.00% | ~20,848 |
+| Hotel California | 4.00% | ~27,799 |
+| Welcome To Hell-A | 4.00% | ~27,799 |
+| Dr. Reed, I Presume? | 3.00% | ~20,849 |
+| Git Gutte! | 3.00% | ~20,849 |
+| Break A Leg | 3.00% | ~20,849 |
+| Coup de Grâce | 3.00% | ~20,849 |
+| Hazardous Materials | 3.00% | ~20,849 |
+| Friends Like These | 3.00% | ~20,849 |
+| Apex Predator | 3.00% | ~20,849 |
+| Stacking the Deck | 3.00% | ~20,849 |
+| Personal Assistant Personally Assisted | 3.00% | ~20,849 |
 | Making Your Mark | 2.00% | ~13,899 |
 | Anger Management | 2.00% | ~13,899 |
 | Perks of the Job | 2.00% | ~13,899 |
@@ -32,12 +32,12 @@ Rating: 4.54 (Ranked 510)
 | I Am the Resurrection | 2.00% | ~13,899 |
 | Our True Nature | 2.00% | ~13,899 |
 | This is My Weapon | 2.00% | ~13,899 |
-| Jumbo Keyring | 1.00% | ~6,949 |
-| Down with the Sickness | 1.00% | ~6,949 |
-| Max Headroom | 1.00% | ~6,949 |
-| Go, Bobcats! | 1.00% | ~6,949 |
-| Rising Star | 1.00% | ~6,949 |
-| Smorgasbord | 0.90% | ~6,254 |
+| Jumbo Keyring | 1.00% | ~6,950 |
+| Down with the Sickness | 1.00% | ~6,950 |
+| Max Headroom | 1.00% | ~6,950 |
+| Go, Bobcats! | 1.00% | ~6,950 |
+| Rising Star | 1.00% | ~6,950 |
+| Smorgasbord | 0.90% | ~6,255 |
 | Internet Famous | 0.80% | ~5,560 |
 | On Safari | 0.70% | ~4,865 |
 | Not Even My Final Form | 0.70% | ~4,865 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 510)
 | Donk! | 0.20% | ~1,390 |
 | Bucket List | 0.10% | ~695 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 694,940 (Ranked 22)  
+Progressed: 694,964 (Ranked 22)  
 Completed: 2,217 (0.32%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,15 +227,15 @@ Completed: 2,217 (0.32%) (Ranked 200)
 | 2023-10-10 | 693,868 | 2,209 |
 | 2023-10-11 | 694,263 | 2,210 |
 | 2023-10-12 | 694,718 | 2,216 |
-| 2023-10-13 | 694,940 | 2,217 |
+| 2023-10-13 | 694,964 | 2,217 |
 ## Awards
 Max (Great Boss Battles): 6,407  (Ranked 58)  
-Sum: 9,576 (Ranked 91)  
+Sum: 9,581 (Ranked 91)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,407 |
-| This game is Great for Beginners | 449 |
+| This game is Great for Beginners | 454 |
 | This game has Diverse Characters | 448 |
 | This game has Quickly Understood Controls | 420 |
 | This game is Relaxing | 403 |
@@ -421,4 +421,4 @@ Diff (max vs sum): -33
 | 2023-10-10 | 4.54 | 6,385 | 9,533 |
 | 2023-10-11 | 4.54 | 6,398 | 9,555 |
 | 2023-10-12 | 4.54 | 6,407 | 9,574 |
-| 2023-10-13 | 4.54 | 6,407 | 9,576 |
+| 2023-10-13 | 4.54 | 6,407 | 9,581 |

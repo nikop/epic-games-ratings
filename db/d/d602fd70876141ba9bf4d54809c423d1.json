@@ -4,7 +4,7 @@
   "ProductSlug": "the-evil-within",
   "Ranking_EOS_Progress": 375,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 111,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -737,9 +737,9 @@
       "ID": "ACHIEVEMENT_22",
       "SetID": "ap8553i",
       "Name": "Burn, Baby, Burn!",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -1150,8 +1150,8 @@
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-10-13T14:08:07.3811806+00:00",
+  "LastChanged_Achievements": "2023-10-13T15:07:32.3017582+00:00",
   "LastUpdate_AppInfo": "2023-10-11T21:57:06.97719+00:00",
-  "LastUpdate_Ratings": "2023-10-13T13:58:32.0436046+00:00",
-  "LastUpdate_Achievements": "2023-10-13T14:08:07.3812454+00:00"
+  "LastUpdate_Ratings": "2023-10-13T14:58:11.8939586+00:00",
+  "LastUpdate_Achievements": "2023-10-13T15:07:32.3018233+00:00"
 }
