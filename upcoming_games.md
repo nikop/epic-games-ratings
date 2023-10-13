@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Ancient Battle Rome](games/7/7cc689908d9e4ec28716dc5b8fbd1ae0.md) | 2023-10-13 | - |  | - | - |
 | [Geppetto's Workshop](games/4/4701ddf3a9714750b30e7935bec28744.md) | 2023-10-14 | - |  | - | - |
 | [Polygon Survival](games/e/e9232f2161dd47bd8d3ed6218f562013.md) | 2023-10-14 | - |  | - | - |
 | [Golden Light](games/c/ca05bd340e84436ebea4a0c0ca55befa.md) | 2023-10-14 | 67 (1,000 XP) | 0 | - | - |
@@ -20,7 +19,7 @@
 | [The Jackbox Party Pack 10](games/3/3b925119dbd84a9986f06e66e6794033.md) | 2023-10-19 | - |  | - | - |
 | [ENDLESS™ Dungeon](games/e/endless™_dungeon.md) | 2023-10-19 | - |  | - | - |
 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 2023-10-19 | - |  | - | - |
-| [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 2023-10-19 | 43 (1,000 XP) | 14 | - | - |
+| [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 2023-10-19 | 43 (1,000 XP) | 15 | - | - |
 | [Forgive Me Father 2](games/f/forgive_me_father_2.md) | 2023-10-19 | - |  | - | - |
 | [GO TO HELL or Die Trying](games/8/8dd803604799447fa19f637a05991e98.md) | 2023-10-20 | - |  | - | - |
 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 2023-10-24 | - |  | - | - |
@@ -52,7 +51,7 @@
 | [Warhammer 40,000: Boltgun](games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 2023-10-31 | 12 (1,000 XP) | 2 | - | - |
 | [PHANTOM GALAXIES™](games/f/f2144add4a0542e385d8d8506f26d760.md) | 2023-11-01 | - |  | - | - |
 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 2023-11-01 | - |  | - | - |
-| [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 2023-11-02 | 27 (1,000 XP) | 1 | - | - |
+| [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 2023-11-02 | 27 (1,000 XP) | 3 | - | - |
 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 2023-11-02 | - |  | - | - |
 | [Gangs of Sherwood](games/g/gangs_of_sherwood.md) | 2023-11-02 | - |  | - | - |
 | [Tad the Lost Explorer](games/t/tad_the_lost_explorer.md) | 2023-11-02 | 27 (1,000 XP) | 1 | - | - |
@@ -80,7 +79,7 @@
 | [Venatur](games/a/ac4ba4393ede46f1960596d753b6222c.md) | 2023-11-30 | - |  | - | - |
 | [The Ecdysis](games/8/824dd71739cf45fba9d997979856c5a9.md) | 2023-11-30 | - |  | - | - |
 | [SteamWorld Build](games/s/steamworld_build.md) | 2023-12-01 | - |  | - | - |
-| [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 2023-12-05 | 18 (1,000 XP) | 76 | - | - |
+| [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 2023-12-05 | 18 (1,000 XP) | 77 | - | - |
 | [Backrooms Break](games/6/6246bf144dd3486fa681b773ddbe441a.md) | 2023-12-12 | - |  | - | - |
 | [1000xRESIST](games/1/1000xresist.md) | 2023-12-31 | - |  | - | - |
 | [9Lives Arena](games/9/9lives_arena.md) | 2023-12-31 | - |  | - | - |
@@ -193,7 +192,7 @@
 | [Eternal Exodus](games/e/e54a925435924e42ab3cd20f584d6e14.md) | 2024-05-31 | - |  | - | - |
 | [SpectralClimb](games/6/6120f91f9281420e818d6298ccd09772.md) | 2024-06-28 | - |  | - | - |
 | [Elders Grace - Unchained](games/d/d975114b43134558aa8413af2a0918c6.md) | 2024-06-30 | - |  | - | - |
-| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 65,863 | - | - |
+| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 65,904 | - | - |
 | [Monospaced Lovers](games/e/e73367d384634d11975effc86569bc47.md) | 2024-06-30 | - |  | - | - |
 | [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
 | [Rise of the Robots X - Early access](games/d/d065c8442524400dac2e0e9674a68732.md) | 2024-06-30 | - |  | - | - |
