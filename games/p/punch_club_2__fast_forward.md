@@ -34,7 +34,7 @@
 | Little hacker | 59.00% | ~197 |
 | Intriguing candies | 59.00% | ~197 |
 | Legal courier | 56.00% | ~187 |
-| Extreme neuropower! | 55.00% | ~184 |
+| Extreme neuropower! | 56.00% | ~187 |
 | Escaped from a big trouble | 53.00% | ~177 |
 | Now you are worthy | 51.00% | ~170 |
 | Fight is life | 48.00% | ~160 |

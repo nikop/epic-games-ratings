@@ -2,12 +2,12 @@
   "ID": "695337c5e45f4fe69d68f5593197a41e",
   "Name": "King of Retail",
   "ProductSlug": "king-of-retail-c3ad3e",
-  "Ranking_Rating": 261,
+  "Ranking_Rating": 262,
   "Ranking_Popularity": 535,
   "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 669,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 396,
+  "Ranking_EOS_NewPlayers": 397,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-09-14T11:00:00+00:00",
@@ -101,6 +101,6 @@
   "FirstSeenRating": "2022-11-20T11:58:32.3978616+00:00",
   "LastChanged": "2023-10-02T14:59:23.5530752+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:02.9560786+00:00",
-  "LastUpdate_Ratings": "2023-10-13T20:00:54.6403962+00:00",
-  "LastUpdate_Achievements": "2023-10-13T20:09:04.3029229+00:00"
+  "LastUpdate_Ratings": "2023-10-13T21:00:48.9544144+00:00",
+  "LastUpdate_Achievements": "2023-10-13T21:08:13.6625334+00:00"
 }

@@ -147,6 +147,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cao'an | 0.20% | ~29 |
 | Adur Burzen-Mihr | 0.20% | ~29 |
 | Assyria | 0.20% | ~29 |
+| Pantheon of Gods | 0.20% | ~29 |
 | Ten Crowns | 0.20% | ~29 |
 | Cataphract Archer | 0.20% | ~29 |
 | Three Man Chariot | 0.20% | ~29 |
@@ -242,7 +243,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Realistic Mortality | 0.10% | ~15 |
 | Hatti | 0.10% | ~15 |
 | Persia | 0.10% | ~15 |
-| Pantheon of Gods | 0.10% | ~15 |
 | Apadana in Parsa | 0.10% | ~15 |
 | Play a 1-v-1 Game | 0.10% | ~15 |
 | Play a Free-For-All Game (>2 Players) | 0.10% | ~15 |

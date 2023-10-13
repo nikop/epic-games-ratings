@@ -5,12 +5,12 @@ Rating: 4.64 (Ranked 320)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Satisfied Gus-tomer | 0.90% | ~218 |
 | First Bounty Down | 0.90% | ~218 |
-| Satisfied Gus-tomer | 0.80% | ~194 |
+| Cold-Blooded Driller | 0.90% | ~218 |
 | Are You Packin'? | 0.80% | ~194 |
 | Sweezy Like Sunday Morning | 0.80% | ~194 |
 | G3 Graduation | 0.80% | ~194 |
-| Cold-Blooded Driller | 0.80% | ~194 |
 | Don't Knife The Hand That Feeds | 0.80% | ~194 |
 | Bring A Knife to a Gun Fight | 0.70% | ~169 |
 | RIP Davey Glutes | 0.70% | ~169 |
@@ -41,16 +41,16 @@ Rating: 4.64 (Ranked 320)
 | We Paid For The Rights To Put A Whole Movie In Here | 0.10% | ~24 |
 | Seeing All The Sights | 0.10% | ~24 |
 | Carried Stan's Load To Completion | 0.10% | ~24 |
-| Cardbored | 0.10% | ~1 |
-| See Salt | 0.10% | ~1 |
-| Porch Pirate | 0.10% | ~1 |
-| Harper? I Barely Know Her! | 0.10% | ~1 |
-| Give Away All Your Money | 0.10% | ~1 |
-| Meet Frasier from Frasier | 0.10% | ~1 |
-| It's Like The Santa Clause | 0.10% | ~1 |
+| Cardbored | 0.10% | ~2 |
+| See Salt | 0.10% | ~2 |
+| Porch Pirate | 0.10% | ~2 |
+| Harper? I Barely Know Her! | 0.10% | ~2 |
+| Give Away All Your Money | 0.10% | ~2 |
+| Meet Frasier from Frasier | 0.10% | ~2 |
+| It's Like The Santa Clause | 0.10% | ~2 |
 | That's B.A.L.L., Folks | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,206 (Ranked 119)  
+Progressed: 24,207 (Ranked 119)  
 Completed: 13 (0.05%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 13 (0.05%) (Ranked 271)
 | 2023-10-10 | 24,177 | 13 |
 | 2023-10-11 | 24,192 | 13 |
 | 2023-10-12 | 24,200 | 13 |
-| 2023-10-13 | 24,206 | 13 |
+| 2023-10-13 | 24,207 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 452,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -370,9 +370,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 2026,
+  "EOS_Progressed": 2027,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6070,6 +6070,11 @@
       "Time": "2023-10-13T17:10:32.9322296+00:00",
       "NumProgressed": 2026,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-13T21:08:26.18077+00:00",
+      "NumProgressed": 2027,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -6289,7 +6294,7 @@
       "Name": "Full Party",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "gearenchanting",
@@ -6343,9 +6348,9 @@
       "ID": "hunter",
       "SetID": "3nl4bcg",
       "Name": "Hunter",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 243
+      "UsersEstimate": 223
     },
     {
       "ID": "inspection",
@@ -6353,7 +6358,7 @@
       "Name": "Inspection",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "jewelenchanting",
@@ -6417,7 +6422,7 @@
       "Name": "Miner Clicker",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "missionsdedication",
@@ -6473,7 +6478,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1094
+      "UsersEstimate": 1095
     },
     {
       "ID": "prestigiousx10",
@@ -6505,7 +6510,7 @@
       "Name": "Scientist",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "scrollmaster",
@@ -6569,7 +6574,7 @@
       "Name": "The game is on",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "thepowerofawakening",
@@ -6641,7 +6646,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1884
+      "UsersEstimate": 1885
     },
     {
       "ID": "warmachinesarmy",
@@ -6680,7 +6685,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2026,
+      "Progressed": 2027,
       "Completed": 2
     }
   ],
@@ -6688,8 +6693,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-10-12T17:59:57.3603053+00:00",
-  "LastChanged_Achievements": "2023-10-13T20:09:17.1028057+00:00",
+  "LastChanged_Achievements": "2023-10-13T21:08:26.1807689+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:57.0347276+00:00",
-  "LastUpdate_Ratings": "2023-10-13T20:00:30.3717523+00:00",
-  "LastUpdate_Achievements": "2023-10-13T20:09:17.1029221+00:00"
+  "LastUpdate_Ratings": "2023-10-13T21:00:26.2329374+00:00",
+  "LastUpdate_Achievements": "2023-10-13T21:08:26.1809047+00:00"
 }

@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 80.00% | ~249 |
+| Seeds of War | 80.00% | ~250 |
 | First Blood | 61.00% | ~190 |
 | Triple Kill | 60.00% | ~187 |
-| Aspairagus | 59.00% | ~154 |
-| No Asperascope | 56.00% | ~174 |
+| Aspairagus | 60.00% | ~157 |
+| No Asperascope | 57.00% | ~178 |
 | Survivor | 55.00% | ~144 |
 | Cornivore | 52.00% | ~162 |
-| I Believe I Can Fly | 49.00% | ~152 |
-| No Diggity | 43.00% | ~112 |
-| Early Survivor | 40.00% | ~104 |
+| I Believe I Can Fly | 49.00% | ~153 |
+| No Diggity | 44.00% | ~115 |
+| Early Survivor | 39.00% | ~102 |
 | Bouncemato | 31.00% | ~81 |
 | 10K | 29.00% | ~90 |
 | Amateur Survivor | 29.00% | ~76 |
 | 15K | 27.00% | ~84 |
 | Quick-Draw Pod | 24.00% | ~63 |
-| Drinking Problem | 22.00% | ~68 |
-| Grave Digger | 22.00% | ~57 |
+| Drinking Problem | 22.00% | ~69 |
+| Grave Digger | 22.00% | ~58 |
 | Professional Survivor | 21.00% | ~55 |
 | Pork Chop Express | 18.00% | ~56 |
 | Carrocketeer | 17.00% | ~53 |
-| This Is My Boomstick | 17.00% | ~44 |
+| This Is My Boomstick | 17.00% | ~45 |
 | Getting Started | 16.00% | ~50 |
 | Skin Of Your Teeth | 16.00% | ~50 |
 | Eggtraordinary | 15.00% | ~47 |
@@ -34,7 +34,7 @@
 | Perfect | 11.00% | ~29 |
 | Fresh Pancake | 10.00% | ~31 |
 | Quadsparagus | 10.00% | ~26 |
-| Expert Survivor | 9.00% | ~23 |
+| Expert Survivor | 9.00% | ~24 |
 | Bring Home The Bacon | 8.00% | ~25 |
 | Early Bird | 6.00% | ~19 |
 | Pyromaniac | 6.00% | ~16 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 311 (Ranked 308)  
+Progressed: 312 (Ranked 308)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-10-06 | 308 | 0 |
 | 2023-10-07 | 309 | 0 |
 | 2023-10-10 | 310 | 0 |
-| 2023-10-13 | 311 | 0 |
+| 2023-10-13 | 312 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

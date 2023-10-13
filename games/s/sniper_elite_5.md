@@ -6,33 +6,33 @@ Rating: 4.45 (Ranked 643)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 46.00% | ~1,717 |
-| Confirming Suspicions | 41.00% | ~1,530 |
+| Confirming Suspicions | 41.00% | ~1,531 |
 | The Kraken Wakes | 37.00% | ~1,381 |
 | It's Starting to Crack | 34.00% | ~1,269 |
 | Change the Channel | 31.00% | ~1,157 |
 | Lord of War | 30.00% | ~1,120 |
 | Taking it back | 28.00% | ~1,045 |
 | Resourceful | 27.00% | ~1,008 |
-| Target America | 26.00% | ~970 |
+| Target America | 26.00% | ~971 |
 | The Kraken Sleeps | 24.00% | ~896 |
-| Organ Grinder | 23.00% | ~858 |
-| As Quiet as a Mouse | 23.00% | ~858 |
+| Organ Grinder | 23.00% | ~859 |
+| As Quiet as a Mouse | 23.00% | ~859 |
 | Liberté | 22.00% | ~821 |
 | Sharpshooter | 22.00% | ~821 |
 | Explosive Efficiency | 19.00% | ~709 |
 | Gunslinger | 18.00% | ~672 |
-| Just a Flesh Wound | 17.00% | ~634 |
+| Just a Flesh Wound | 17.00% | ~635 |
 | Climbing the Ladder | 16.00% | ~597 |
 | Der Geist | 16.00% | ~597 |
 | Close Quarters | 16.00% | ~597 |
 | Snake in the Grass | 15.00% | ~560 |
 | Brains of the Operation | 15.00% | ~560 |
-| No Stone Unturned | 14.00% | ~522 |
-| Opposing Force | 14.00% | ~522 |
-| Enemy at the Gates | 14.00% | ~522 |
-| Fields of Glory | 14.00% | ~522 |
-| Skirmisher | 14.00% | ~522 |
-| Die Nussknacker Sweet! | 14.00% | ~522 |
+| No Stone Unturned | 14.00% | ~523 |
+| Opposing Force | 14.00% | ~523 |
+| Enemy at the Gates | 14.00% | ~523 |
+| Fields of Glory | 14.00% | ~523 |
+| Skirmisher | 14.00% | ~523 |
+| Die Nussknacker Sweet! | 14.00% | ~523 |
 | Set Europe Ablaze | 13.00% | ~485 |
 | Precision Is Key | 10.00% | ~373 |
 | My Little Friend | 10.00% | ~373 |
@@ -53,8 +53,8 @@ Rating: 4.45 (Ranked 643)
 | Burn after reading | 3.00% | ~112 |
 | Souvenir hunter | 3.00% | ~112 |
 | Shoot for the Moon | 3.00% | ~112 |
-| If You Go Down To The Woods Today | 3.00% | ~110 |
-| Fight Another Day | 3.00% | ~110 |
+| If You Go Down To The Woods Today | 3.00% | ~111 |
+| Fight Another Day | 3.00% | ~111 |
 | Out of Scope | 2.00% | ~75 |
 | Eagle Eyed | 2.00% | ~75 |
 | Up close and personal | 2.00% | ~75 |
@@ -74,10 +74,10 @@ Rating: 4.45 (Ranked 643)
 | Operation Overlord | 0.80% | ~29 |
 | Master of Pistols | 0.70% | ~26 |
 | Master-at-arms | 0.60% | ~22 |
+| Stroll in the Woods | 0.60% | ~22 |
 | Going Overboard | 0.60% | ~22 |
-| Stroll in the Woods | 0.50% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,732 (Ranked 179)  
+Progressed: 3,733 (Ranked 179)  
 Completed: 11 (0.29%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,7 +251,7 @@ Completed: 11 (0.29%) (Ranked 209)
 | 2023-10-10 | 3,723 | 11 |
 | 2023-10-11 | 3,726 | 11 |
 | 2023-10-12 | 3,727 | 11 |
-| 2023-10-13 | 3,732 | 11 |
+| 2023-10-13 | 3,733 | 11 |
 ## Awards
 Max (Great for Beginners): 20  (Ranked 526)  
 Sum: 20 (Ranked 527)  

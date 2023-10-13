@@ -6,21 +6,21 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 75.00% | ~37,391 |
-| I read Shakespeare and stuff | 64.00% | ~31,907 |
+| Own use | 75.00% | ~37,392 |
+| I read Shakespeare and stuff | 64.00% | ~31,908 |
 | Just a sprinkle | 63.00% | ~31,409 |
 | I'm stumped | 61.00% | ~30,412 |
-| Plant get enough | 60.00% | ~29,913 |
-| It's just the beginning | 59.00% | ~29,414 |
+| Plant get enough | 60.00% | ~29,914 |
+| It's just the beginning | 59.00% | ~29,415 |
 | This is just my weekend vehicle | 58.00% | ~28,916 |
-| Hard work pays off | 53.00% | ~26,423 |
+| Hard work pays off | 53.00% | ~26,424 |
 | It's never too late to farm | 50.00% | ~24,928 |
-| All out of Land | 44.00% | ~21,936 |
+| All out of Land | 44.00% | ~21,937 |
 | Field Trip | 43.00% | ~21,438 |
 | I like to switch it up | 40.00% | ~19,942 |
 | Help me to help you | 38.00% | ~18,945 |
-| Ultimutt Pawesomeness | 28.00% | ~13,959 |
-| Van Gogh | 26.00% | ~12,962 |
+| Ultimutt Pawesomeness | 28.00% | ~13,960 |
+| Van Gogh | 26.00% | ~12,963 |
 | You wood not believe it | 22.00% | ~10,968 |
 | Vehicle fleet | 22.00% | ~10,968 |
 | The plot thickens | 16.00% | ~7,977 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~199 |
 | Raisin the stakes | 0.30% | ~150 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,855 (Ranked 102)  
+Progressed: 49,856 (Ranked 102)  
 Completed: 6 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,19 +226,19 @@ Completed: 6 (0.01%) (Ranked 296)
 | 2023-10-10 | 49,721 | 6 |
 | 2023-10-11 | 49,764 | 6 |
 | 2023-10-12 | 49,819 | 6 |
-| 2023-10-13 | 49,855 | 6 |
+| 2023-10-13 | 49,856 | 6 |
 ## Awards
 Max (Great for Beginners): 5,158  (Ranked 70)  
-Sum: 41,151 (Ranked 33)  
+Sum: 41,160 (Ranked 33)  
 Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,158 |
 | This game has Diverse Characters | 4,268 |
-| This game is Educational | 4,227 |
+| This game is Educational | 4,230 |
 | This game is Relaxing | 4,193 |
 | This game has Quickly Understood Controls | 4,155 |
-| This game is Highly Recommended | 4,088 |
+| This game is Highly Recommended | 4,094 |
 | This game is Extremely Fun | 4,049 |
 | This game has Amazing Storytelling | 3,954 |
 | This game has Amazing Characters | 3,584 |
@@ -517,4 +517,4 @@ Diff (max vs sum): 37
 | 2023-10-10 | 4.69 | - | 5,146 | 41,079 |
 | 2023-10-11 | 4.69 | - | 5,146 | 41,100 |
 | 2023-10-12 | 4.69 | - | 5,153 | 41,122 |
-| 2023-10-13 | 4.69 | - | 5,158 | 41,151 |
+| 2023-10-13 | 4.69 | - | 5,158 | 41,160 |

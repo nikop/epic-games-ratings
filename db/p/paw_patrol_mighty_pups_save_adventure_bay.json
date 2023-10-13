@@ -4,7 +4,7 @@
   "ProductSlug": "paw-patrol-mighty-pups-save-adventure-bay-aaad37",
   "Ranking_EOS_Progress": 467,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewPlayers": 337,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-12-13T19:30:00+00:00",
@@ -202,9 +202,9 @@
       "ID": "0",
       "SetID": "38ide56",
       "Name": "Mighty Powers",
-      "Percentage": 76,
+      "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "1",
@@ -250,9 +250,9 @@
       "ID": "14",
       "SetID": "38ide56",
       "Name": "Pup Pup Boogie",
-      "Percentage": 64,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "15",
@@ -451,8 +451,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2023-10-13T20:07:24.6553343+00:00",
+  "LastChanged_Achievements": "2023-10-13T21:06:57.189057+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:24.5381929+00:00",
-  "LastUpdate_Ratings": "2023-10-13T20:03:05.5718109+00:00",
-  "LastUpdate_Achievements": "2023-10-13T20:07:24.6553566+00:00"
+  "LastUpdate_Ratings": "2023-10-13T21:02:18.2031942+00:00",
+  "LastUpdate_Achievements": "2023-10-13T21:06:57.1890792+00:00"
 }

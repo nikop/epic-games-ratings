@@ -4,7 +4,7 @@
   "ProductSlug": "the-fabulous-fear-machine-8e7c6b",
   "Ranking_EOS_Progress": 470,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-10-04T16:00:00+00:00",
@@ -398,9 +398,9 @@
       "ID": "36",
       "SetID": "d37idgg",
       "Name": "Pulp! Out of this World",
-      "Percentage": 32,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "37",
@@ -549,8 +549,8 @@
   ],
   "FirstSeen": "2023-10-04T21:00:27.0019409+00:00",
   "FirstSeenAchievements": "2023-09-01T11:02:14.7440084+00:00",
-  "LastChanged_Achievements": "2023-10-13T20:05:48.1948002+00:00",
+  "LastChanged_Achievements": "2023-10-13T21:05:19.1925104+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:05.043787+00:00",
-  "LastUpdate_Ratings": "2023-10-13T20:00:21.4926008+00:00",
-  "LastUpdate_Achievements": "2023-10-13T20:05:48.194844+00:00"
+  "LastUpdate_Ratings": "2023-10-13T21:00:13.0739588+00:00",
+  "LastUpdate_Achievements": "2023-10-13T21:05:19.1925558+00:00"
 }

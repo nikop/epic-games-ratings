@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 119)
 | The Nature of the Beast | 0.70% | ~2,088 |
 | Collector's Edition | 0.30% | ~895 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,251 (Ranked 47)  
+Progressed: 298,254 (Ranked 47)  
 Completed: 485 (0.16%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,22 +227,22 @@ Completed: 485 (0.16%) (Ranked 231)
 | 2023-10-10 | 298,150 | 483 |
 | 2023-10-11 | 298,177 | 483 |
 | 2023-10-12 | 298,217 | 485 |
-| 2023-10-13 | 298,251 | 485 |
+| 2023-10-13 | 298,254 | 485 |
 ## Awards
-Max (Character Customization): 23,469  (Ranked 17)  
-Sum: 45,715 (Ranked 31)  
-Diff (max vs sum): -14  
+Max (Character Customization): 23,491  (Ranked 17)  
+Sum: 45,748 (Ranked 30)  
+Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 23,469 |
+| This game has Inclusive Character Customization | 23,491 |
 | This game has Great Boss Battles | 11,721 |
 | This game is Great for Beginners | 1,176 |
 | This game has Amazing Storytelling | 1,144 |
-| This game has Diverse Characters | 1,131 |
+| This game has Diverse Characters | 1,135 |
 | This game is Extremely Fun | 1,129 |
 | This game is Relaxing | 1,126 |
 | This game has Amazing Characters | 1,090 |
-| This game is Highly Recommended | 1,069 |
+| This game is Highly Recommended | 1,076 |
 | This game has Quickly Understood Controls | 1,013 |
 | This game has Beautiful Visuals | 937 |
 | This game has a Creative Community | 710 |
@@ -452,4 +452,4 @@ Diff (max vs sum): -14
 | 2023-10-10 | 4.76 | 23,430 | 45,548 |
 | 2023-10-11 | 4.76 | 23,447 | 45,619 |
 | 2023-10-12 | 4.76 | 23,469 | 45,698 |
-| 2023-10-13 | 4.76 | 23,469 | 45,715 |
+| 2023-10-13 | 4.76 | 23,491 | 45,748 |

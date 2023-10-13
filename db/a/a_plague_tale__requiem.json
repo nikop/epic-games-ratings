@@ -536,9 +536,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 13532,
+  "EOS_Progressed": 13533,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -9946,6 +9946,11 @@
       "Time": "2023-10-13T17:04:49.1399196+00:00",
       "NumProgressed": 13532,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-13T21:03:28.8003164+00:00",
+      "NumProgressed": 13533,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 35,
@@ -9957,7 +9962,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 12449
+      "UsersEstimate": 12450
     },
     {
       "ID": "ACH_02",
@@ -9965,7 +9970,7 @@
       "Name": "Newcomers",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 10690
+      "UsersEstimate": 10691
     },
     {
       "ID": "ACH_03",
@@ -9981,7 +9986,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 9472
+      "UsersEstimate": 9473
     },
     {
       "ID": "ACH_05",
@@ -10173,7 +10178,7 @@
       "Name": "Alchemist",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 9337
+      "UsersEstimate": 9338
     },
     {
       "ID": "ACH_29",
@@ -10236,7 +10241,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 13532,
+      "Progressed": 13533,
       "Completed": 49
     }
   ],
@@ -10244,8 +10249,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-10-12T09:57:48.9204641+00:00",
-  "LastChanged_Achievements": "2023-10-13T20:03:43.7640939+00:00",
+  "LastChanged_Achievements": "2023-10-13T21:03:28.8003145+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:58.3444981+00:00",
-  "LastUpdate_Ratings": "2023-10-13T19:58:29.2231646+00:00",
-  "LastUpdate_Achievements": "2023-10-13T20:03:43.7641845+00:00"
+  "LastUpdate_Ratings": "2023-10-13T20:58:25.2653533+00:00",
+  "LastUpdate_Achievements": "2023-10-13T21:03:28.8004656+00:00"
 }

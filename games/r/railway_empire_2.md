@@ -1,7 +1,7 @@
 # Railway Empire 2
 [Store](https://store.epicgames.com/en-US/p/railway-empire-2-46840c)  
 [View Rawdata](../../db/r/railway_empire_2.json)  
-Rating: 4.47 (Ranked 619)  
+Rating: 4.48 (Ranked 607)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -17,8 +17,8 @@ Rating: 4.47 (Ranked 619)
 | Travel Company | 65.00% | ~1,310 |
 | All around the World | 62.00% | ~1,250 |
 | Right through the middle | 58.00% | ~1,169 |
+| Poor Devil | 54.00% | ~1,089 |
 | Facility Manager | 53.00% | ~1,068 |
-| Poor Devil | 53.00% | ~1,068 |
 | Producer | 50.00% | ~1,008 |
 | Apprentice | 42.00% | ~847 |
 | Bridge Builder | 41.00% | ~827 |
@@ -246,3 +246,4 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-09-22 | 4.45 | 0 | 0 |
 | 2023-09-28 | 4.46 | 0 | 0 |
 | 2023-10-01 | 4.47 | 0 | 0 |
+| 2023-10-13 | 4.48 | 0 | 0 |

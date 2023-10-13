@@ -6,43 +6,43 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 71.00% | ~632,932 |
-| Right Back At Ya | 44.00% | ~392,239 |
-| The Lovers | 39.00% | ~347,667 |
-| Stanislavski's Method | 33.00% | ~294,179 |
-| The Wheel of Fortune | 33.00% | ~294,179 |
-| The Hermit | 30.00% | ~267,436 |
-| The High Priestess | 29.00% | ~258,521 |
-| True Soldier | 29.00% | ~258,521 |
-| Christmas Tree Attack | 26.00% | ~231,778 |
-| Full Body Conversion | 24.00% | ~213,949 |
-| Life of the Road | 23.00% | ~205,034 |
-| Ten out of Ten | 21.00% | ~187,205 |
-| The World | 21.00% | ~187,205 |
-| Master Crafter | 20.00% | ~178,291 |
-| True Warrior | 19.00% | ~169,376 |
-| Bushido and Chill | 18.00% | ~160,462 |
-| Gun Fu | 18.00% | ~160,462 |
-| I Am The Law | 16.00% | ~142,632 |
-| To Protect and Serve | 15.00% | ~133,718 |
-| The Quick and the Dead | 13.00% | ~115,889 |
-| Breathtaking | 13.00% | ~115,889 |
-| Rough Landing | 13.00% | ~115,889 |
-| To Bad Decisions! | 11.00% | ~98,060 |
-| The Wandering Fool | 11.00% | ~98,060 |
-| The Jungle | 11.00% | ~98,060 |
-| Gunslinger | 10.00% | ~89,145 |
-| Mean Streets | 9.00% | ~80,231 |
-| Temperance | 9.00% | ~80,231 |
-| The Star | 8.00% | ~71,316 |
-| The Sun | 8.00% | ~71,316 |
-| City Lights | 6.00% | ~53,487 |
+| The Fool | 71.00% | ~632,939 |
+| Right Back At Ya | 44.00% | ~392,244 |
+| The Lovers | 39.00% | ~347,671 |
+| Stanislavski's Method | 33.00% | ~294,183 |
+| The Wheel of Fortune | 33.00% | ~294,183 |
+| The Hermit | 30.00% | ~267,439 |
+| The High Priestess | 29.00% | ~258,524 |
+| True Soldier | 29.00% | ~258,524 |
+| Christmas Tree Attack | 26.00% | ~231,780 |
+| Full Body Conversion | 24.00% | ~213,951 |
+| Life of the Road | 23.00% | ~205,036 |
+| Ten out of Ten | 21.00% | ~187,207 |
+| The World | 21.00% | ~187,207 |
+| Master Crafter | 20.00% | ~178,293 |
+| True Warrior | 19.00% | ~169,378 |
+| Bushido and Chill | 18.00% | ~160,463 |
+| Gun Fu | 18.00% | ~160,463 |
+| I Am The Law | 16.00% | ~142,634 |
+| To Protect and Serve | 15.00% | ~133,719 |
+| The Quick and the Dead | 13.00% | ~115,890 |
+| Breathtaking | 13.00% | ~115,890 |
+| Rough Landing | 13.00% | ~115,890 |
+| To Bad Decisions! | 11.00% | ~98,061 |
+| The Wandering Fool | 11.00% | ~98,061 |
+| The Jungle | 11.00% | ~98,061 |
+| Gunslinger | 10.00% | ~89,146 |
+| Mean Streets | 9.00% | ~80,232 |
+| Temperance | 9.00% | ~80,232 |
+| The Star | 8.00% | ~71,317 |
+| The Sun | 8.00% | ~71,317 |
+| City Lights | 6.00% | ~53,488 |
 | Must Be Rats | 5.00% | ~44,573 |
 | The Devil | 5.00% | ~44,573 |
 | Greetings from Pacifica! | 5.00% | ~44,573 |
-| Little Tokyo | 4.00% | ~35,658 |
-| Two Heads, One Bullet | 4.00% | ~35,658 |
-| V for Vendetta | 4.00% | ~35,658 |
+| Little Tokyo | 4.00% | ~35,659 |
+| Two Heads, One Bullet | 4.00% | ~35,659 |
+| V for Vendetta | 4.00% | ~35,659 |
 | Autojock | 3.00% | ~26,744 |
 | Frequent Flyer | 3.00% | ~26,744 |
 | The Wasteland | 3.00% | ~26,744 |
@@ -51,8 +51,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | Judy vs Night City | 2.00% | ~17,829 |
 | It's Elementary | 2.00% | ~17,829 |
 | Spin Doctor | 2.00% | ~402 |
-| The APB is Not Enough | 0.60% | ~120 |
-| Relic Ruler | 0.60% | ~120 |
+| The APB is Not Enough | 0.60% | ~121 |
+| Relic Ruler | 0.60% | ~121 |
 | All the President's Men | 0.00% | ~0 |
 | Arachnophobia | 0.00% | ~0 |
 | Dirty Deeds | 0.00% | ~0 |
@@ -64,7 +64,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 891,453 (Ranked 15)  
+Progressed: 891,463 (Ranked 15)  
 Completed: 2,655 (0.30%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,7 +240,7 @@ Completed: 2,655 (0.30%) (Ranked 205)
 | 2023-10-10 | 890,786 | 2,639 |
 | 2023-10-11 | 891,024 | 2,641 |
 | 2023-10-12 | 891,256 | 2,648 |
-| 2023-10-13 | 891,453 | 2,655 |
+| 2023-10-13 | 891,463 | 2,655 |
 ## Awards
 Max (Character Customization): 97,173  (Ranked 9)  
 Sum: 297,099 (Ranked 11)  

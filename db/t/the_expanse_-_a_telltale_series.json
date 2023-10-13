@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -166,7 +166,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13919,
+  "EOS_Progressed": 13921,
   "EOS_Completed": 23,
   "EOS_NewPlayers": 270,
   "EOS_NewCompleters": 10,
@@ -8546,6 +8546,11 @@
       "Time": "2023-10-13T20:05:30.7398943+00:00",
       "NumProgressed": 13919,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-10-13T21:05:02.3815894+00:00",
+      "NumProgressed": 13921,
+      "NumCompleted": 23
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -8590,7 +8595,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1809
+      "UsersEstimate": 1810
     },
     {
       "ID": "14",
@@ -8692,9 +8697,9 @@
       "ID": "25",
       "SetID": "458bbdk",
       "Name": "Khan\u0027s Revenge",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 278
+      "UsersEstimate": 418
     },
     {
       "ID": "26",
@@ -8708,9 +8713,9 @@
       "ID": "27",
       "SetID": "458bbdk",
       "Name": "Bosmang",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 557
+      "UsersEstimate": 696
     },
     {
       "ID": "28",
@@ -8797,7 +8802,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13919,
+      "Progressed": 13921,
       "Completed": 23
     }
   ],
@@ -8805,8 +8810,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-13T09:00:57.1370573+00:00",
-  "LastChanged_Achievements": "2023-10-13T20:05:30.7398935+00:00",
+  "LastChanged_Achievements": "2023-10-13T21:05:02.3815888+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:56.4622667+00:00",
-  "LastUpdate_Ratings": "2023-10-13T20:00:30.0633897+00:00",
-  "LastUpdate_Achievements": "2023-10-13T20:05:30.7399761+00:00"
+  "LastUpdate_Ratings": "2023-10-13T21:00:25.9375197+00:00",
+  "LastUpdate_Achievements": "2023-10-13T21:05:02.3817134+00:00"
 }

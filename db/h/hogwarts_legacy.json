@@ -4,7 +4,7 @@
   "ProductSlug": "hogwarts-legacy",
   "Ranking_Rating": 119,
   "Ranking_Popularity": 17,
-  "Ranking_PopularitySum": 31,
+  "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 111,
@@ -8848,18 +8848,24 @@
       "Rating": 4.76,
       "NumberOfAwards": 45715,
       "NumberOfAwardsMax": 23469
+    },
+    {
+      "Time": "2023-10-13T21:00:40.970528+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 45748,
+      "NumberOfAwardsMax": 23491
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 45715,
-  "NumberOfAwardsMax": 23469,
+  "NumberOfAwards": 45748,
+  "NumberOfAwardsMax": 23491,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 23469
+      "Count": 23491
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -8895,7 +8901,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1131
+      "Count": 1135
     },
     {
       "Text": "This game is Relaxing",
@@ -8907,7 +8913,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1069
+      "Count": 1076
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -8928,7 +8934,7 @@
       "Count": 710
     }
   ],
-  "EOS_Progressed": 298251,
+  "EOS_Progressed": 298254,
   "EOS_Completed": 485,
   "EOS_NewPlayers": 346,
   "EOS_NewCompleters": 4,
@@ -27823,6 +27829,11 @@
       "Time": "2023-10-13T20:04:49.223208+00:00",
       "NumProgressed": 298251,
       "NumCompleted": 485
+    },
+    {
+      "Time": "2023-10-13T21:04:22.2178227+00:00",
+      "NumProgressed": 298254,
+      "NumCompleted": 485
     }
   ],
   "TotalAchievements": 45,
@@ -28193,16 +28204,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298251,
+      "Progressed": 298254,
       "Completed": 485
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-10-13T19:01:17.9035716+00:00",
-  "LastChanged_Achievements": "2023-10-13T20:04:49.2232075+00:00",
+  "LastChanged": "2023-10-13T21:00:40.9705279+00:00",
+  "LastChanged_Achievements": "2023-10-13T21:04:22.2178219+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:01.0338203+00:00",
-  "LastUpdate_Ratings": "2023-10-13T20:00:45.9862561+00:00",
-  "LastUpdate_Achievements": "2023-10-13T20:04:49.2233683+00:00"
+  "LastUpdate_Ratings": "2023-10-13T21:00:40.9705285+00:00",
+  "LastUpdate_Achievements": "2023-10-13T21:04:22.2180848+00:00"
 }

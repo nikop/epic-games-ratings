@@ -4,7 +4,7 @@
   "ProductSlug": "doodle-god-f6a7b6",
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 84,
-  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewPlayers": 307,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-03-10T17:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 243,
+  "EOS_Progressed": 244,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.29,
+  "EOS_Completed_Percentage": 3.28,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:26.6583072+00:00",
@@ -286,6 +286,11 @@
       "Time": "2023-10-13T20:08:10.731569+00:00",
       "NumProgressed": 243,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-13T21:07:22.3015287+00:00",
+      "NumProgressed": 244,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 22,
@@ -297,7 +302,7 @@
       "Name": "Good Start",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "605742",
@@ -313,7 +318,7 @@
       "Name": "Creator of Life",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "605762",
@@ -321,7 +326,7 @@
       "Name": "Creator of Humanity",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "605772",
@@ -409,7 +414,7 @@
       "Name": "Practice Makes Perfect",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "605892",
@@ -417,7 +422,7 @@
       "Name": "Similar to Similar",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "605912",
@@ -472,7 +477,7 @@
     {
       "ID": "4lpaifm",
       "IsBase": true,
-      "Progressed": 243,
+      "Progressed": 244,
       "Completed": 8
     }
   ],
@@ -480,8 +485,8 @@
   "FirstSeenRating": "2023-03-31T05:58:36.1213415+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:26.6583079+00:00",
   "LastChanged": "2023-03-31T05:58:36.1213416+00:00",
-  "LastChanged_Achievements": "2023-10-13T20:08:10.7315684+00:00",
+  "LastChanged_Achievements": "2023-10-13T21:07:22.3015282+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:49.0195257+00:00",
-  "LastUpdate_Ratings": "2023-10-13T20:02:04.5998632+00:00",
-  "LastUpdate_Achievements": "2023-10-13T20:08:10.7315857+00:00"
+  "LastUpdate_Ratings": "2023-10-13T21:01:25.3095647+00:00",
+  "LastUpdate_Achievements": "2023-10-13T21:07:22.3015475+00:00"
 }

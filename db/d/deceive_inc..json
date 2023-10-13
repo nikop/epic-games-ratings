@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18363,
+  "EOS_Progressed": 18364,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -11481,6 +11481,11 @@
       "Time": "2023-10-13T19:08:12.2853623+00:00",
       "NumProgressed": 18363,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-13T21:07:08.1578734+00:00",
+      "NumProgressed": 18364,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -11492,7 +11497,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5325
+      "UsersEstimate": 5326
     },
     {
       "ID": "0002",
@@ -11548,7 +11553,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3305
+      "UsersEstimate": 3306
     },
     {
       "ID": "0009",
@@ -11620,7 +11625,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3305
+      "UsersEstimate": 3306
     },
     {
       "ID": "0018",
@@ -11708,7 +11713,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4223
+      "UsersEstimate": 4224
     },
     {
       "ID": "0029",
@@ -11724,7 +11729,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3305
+      "UsersEstimate": 3306
     },
     {
       "ID": "0031",
@@ -11779,7 +11784,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18363,
+      "Progressed": 18364,
       "Completed": 4
     }
   ],
@@ -11787,8 +11792,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-10-13T20:07:35.75484+00:00",
+  "LastChanged_Achievements": "2023-10-13T21:07:08.1578719+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:09.6905795+00:00",
-  "LastUpdate_Ratings": "2023-10-13T19:58:37.9730684+00:00",
-  "LastUpdate_Achievements": "2023-10-13T20:07:35.7549407+00:00"
+  "LastUpdate_Ratings": "2023-10-13T20:58:31.1910636+00:00",
+  "LastUpdate_Achievements": "2023-10-13T21:07:08.1580353+00:00"
 }

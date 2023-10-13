@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -544,9 +544,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3732,
+  "EOS_Progressed": 3733,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -7214,6 +7214,11 @@
       "Time": "2023-10-13T13:12:38.6447017+00:00",
       "NumProgressed": 3732,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-13T21:07:00.986264+00:00",
+      "NumProgressed": 3733,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7249,7 +7254,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -7257,7 +7262,7 @@
       "Name": "Opposing Force",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -7265,7 +7270,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -7273,7 +7278,7 @@
       "Name": "Fields of Glory",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -7281,7 +7286,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -7289,7 +7294,7 @@
       "Name": "Organ Grinder",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 858
+      "UsersEstimate": 859
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -7353,7 +7358,7 @@
       "Name": "Skirmisher",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -7393,7 +7398,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1530
+      "UsersEstimate": 1531
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -7441,7 +7446,7 @@
       "Name": "Die Nussknacker Sweet!",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -7465,7 +7470,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 858
+      "UsersEstimate": 859
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -7617,7 +7622,7 @@
       "Name": "Target America",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 970
+      "UsersEstimate": 971
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -7745,7 +7750,7 @@
       "Name": "If You Go Down To The Woods Today",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "REWARD_DLC03_02_FIGHT_ANOTHER_DAY",
@@ -7753,15 +7758,15 @@
       "Name": "Fight Another Day",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "REWARD_DLC03_03_STROLL_IN_THE_WOODS",
       "SetID": "83mdf7p",
       "Name": "Stroll in the Woods",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 18
+      "UsersEstimate": 22
     },
     {
       "ID": "REWARD_DLC04_01_SHIPBREAKER",
@@ -7792,13 +7797,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3683,
+      "Progressed": 3684,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3732,
+      "Progressed": 3733,
       "Completed": 11
     }
   ],
@@ -7806,8 +7811,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-10-13T09:59:46.3659401+00:00",
-  "LastChanged_Achievements": "2023-10-13T20:07:28.4085846+00:00",
+  "LastChanged_Achievements": "2023-10-13T21:07:00.9862634+00:00",
   "LastUpdate_AppInfo": "2023-10-07T09:57:23.5324772+00:00",
-  "LastUpdate_Ratings": "2023-10-13T19:59:42.864202+00:00",
-  "LastUpdate_Achievements": "2023-10-13T20:07:28.4087005+00:00"
+  "LastUpdate_Ratings": "2023-10-13T20:59:33.6039571+00:00",
+  "LastUpdate_Achievements": "2023-10-13T21:07:00.9864147+00:00"
 }

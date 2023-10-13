@@ -28,10 +28,10 @@ Rating: 4.50 (Ranked 573)
 | Ectoplasmic Entity | 0.70% | ~185 |
 | Right back at ya | 0.70% | ~185 |
 | Side Hustle | 0.70% | ~185 |
+| Skilled | 0.70% | ~185 |
 | Summoner | 0.70% | ~185 |
 | Terrifying | 0.70% | ~185 |
 | Legions | 0.60% | ~158 |
-| Skilled | 0.60% | ~158 |
 | Stunner | 0.60% | ~158 |
 | We have the best insurance | 0.50% | ~132 |
 | Pesky Jerks | 0.50% | ~132 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 573)
 | Therapeutic | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,403 (Ranked 117)  
+Progressed: 26,412 (Ranked 117)  
 Completed: 58 (0.22%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,10 +233,10 @@ Completed: 58 (0.22%) (Ranked 219)
 | 2023-10-10 | 26,330 | 58 |
 | 2023-10-11 | 26,352 | 58 |
 | 2023-10-12 | 26,379 | 58 |
-| 2023-10-13 | 26,403 | 58 |
+| 2023-10-13 | 26,412 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 261  (Ranked 257)  
-Sum: 2,380 (Ranked 188)  
+Sum: 2,381 (Ranked 188)  
 Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
@@ -245,8 +245,8 @@ Diff (max vs sum): 69
 | This game has Competitive Players | 242 |
 | This game has Amazing Storytelling | 239 |
 | This game is Extremely Fun | 235 |
+| This game is Highly Recommended | 235 |
 | This game has Diverse Characters | 234 |
-| This game is Highly Recommended | 234 |
 | This game is Relaxing | 233 |
 | This game has Amazing Characters | 222 |
 | This game has Quickly Understood Controls | 221 |
@@ -434,3 +434,4 @@ Diff (max vs sum): 69
 | 2023-10-10 | 4.50 | 261 | 2,373 |
 | 2023-10-11 | 4.50 | 261 | 2,375 |
 | 2023-10-12 | 4.50 | 261 | 2,380 |
+| 2023-10-13 | 4.50 | 261 | 2,381 |

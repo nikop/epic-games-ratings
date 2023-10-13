@@ -118,9 +118,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6572,
+  "EOS_Progressed": 6573,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 426,
+  "EOS_NewPlayers": 423,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4158,6 +4158,11 @@
       "Time": "2023-10-13T19:04:37.3315376+00:00",
       "NumProgressed": 6572,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-13T21:03:50.6793703+00:00",
+      "NumProgressed": 6573,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -4178,7 +4183,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 4600
+      "UsersEstimate": 4601
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -4266,7 +4271,7 @@
       "Name": "Miner 49er",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 2760
+      "UsersEstimate": 2761
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -4322,7 +4327,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 3943
+      "UsersEstimate": 3944
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -4346,7 +4351,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 3023
+      "UsersEstimate": 3024
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -4449,7 +4454,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 6572,
+      "Progressed": 6573,
       "Completed": 0
     }
   ],
@@ -4457,8 +4462,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-12T12:03:13.8462755+00:00",
-  "LastChanged_Achievements": "2023-10-13T20:04:16.51224+00:00",
+  "LastChanged_Achievements": "2023-10-13T21:03:50.6793692+00:00",
   "LastUpdate_AppInfo": "2023-10-13T06:57:01.9287951+00:00",
-  "LastUpdate_Ratings": "2023-10-13T19:57:41.4682122+00:00",
-  "LastUpdate_Achievements": "2023-10-13T20:04:16.5122989+00:00"
+  "LastUpdate_Ratings": "2023-10-13T20:57:38.9730684+00:00",
+  "LastUpdate_Achievements": "2023-10-13T21:03:50.6794353+00:00"
 }

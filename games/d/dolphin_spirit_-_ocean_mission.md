@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Welcome to Maupiroa | 39.00% | ~7 |
-| Recycling newbie | 22.00% | ~4 |
+| Recycling newbie | 28.00% | ~5 |
 | New recruit | 17.00% | ~3 |
 | Amateur photographer | 11.00% | ~2 |
 | Interesting | 11.00% | ~2 |

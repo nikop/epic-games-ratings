@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7118,
+  "EOS_Progressed": 7121,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 203,
+  "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4028,6 +4028,11 @@
       "Time": "2023-10-13T18:09:17.4553005+00:00",
       "NumProgressed": 7118,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-13T21:09:17.92412+00:00",
+      "NumProgressed": 7121,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -4096,7 +4101,7 @@
       "Name": "Spent 50000 Credits",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "DHUpgraded1",
@@ -4160,7 +4165,7 @@
       "Name": "Played a Match",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 2278
+      "UsersEstimate": 2279
     },
     {
       "ID": "GamesPlayed10",
@@ -4184,7 +4189,7 @@
       "Name": "Won a Match",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1352
+      "UsersEstimate": 1353
     },
     {
       "ID": "GamesWon10",
@@ -4232,7 +4237,7 @@
       "Name": "Purchased Heal and Shield",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 854
+      "UsersEstimate": 855
     },
     {
       "ID": "HAUpgraded1",
@@ -4248,7 +4253,7 @@
       "Name": "Purchased Healing Grenade",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "HSPurchased1",
@@ -4408,7 +4413,7 @@
       "Name": "Destroyed 3 Towers in a single match",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "MaxTowersKilled6",
@@ -4552,7 +4557,7 @@
       "Name": "Upgraded the SMG to Level 3",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "SOVUpgraded1",
@@ -4600,7 +4605,7 @@
       "Name": "Purchased Turret",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "TSUPurchased1",
@@ -4624,14 +4629,14 @@
       "Name": "Upgraded Weaponized Capacitor to Level 3",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 854
+      "UsersEstimate": 855
     }
   ],
   "AchievementSets": [
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 7118,
+      "Progressed": 7121,
       "Completed": 1
     }
   ],
@@ -4639,8 +4644,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-09-28T09:00:22.5097709+00:00",
-  "LastChanged_Achievements": "2023-10-13T20:09:40.2987517+00:00",
+  "LastChanged_Achievements": "2023-10-13T21:09:17.9241194+00:00",
   "LastUpdate_AppInfo": "2023-10-10T10:57:15.6695599+00:00",
-  "LastUpdate_Ratings": "2023-10-13T20:00:08.4412931+00:00",
-  "LastUpdate_Achievements": "2023-10-13T20:09:40.2988458+00:00"
+  "LastUpdate_Ratings": "2023-10-13T20:59:58.7953386+00:00",
+  "LastUpdate_Achievements": "2023-10-13T21:09:17.9242318+00:00"
 }

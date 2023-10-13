@@ -286,9 +286,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24206,
+  "EOS_Progressed": 24207,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5531,6 +5531,11 @@
       "Time": "2023-10-13T19:05:47.3544183+00:00",
       "NumProgressed": 24206,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-10-13T21:04:53.4607329+00:00",
+      "NumProgressed": 24207,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 44,
@@ -5588,9 +5593,9 @@
       "ID": "ACH_GET_GUS",
       "SetID": "cdkbb11",
       "Name": "Satisfied Gus-tomer",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 194
+      "UsersEstimate": 218
     },
     {
       "ID": "ACH_GET_JETPACK",
@@ -5700,9 +5705,9 @@
       "ID": "ACH_KILL_KRUBIS",
       "SetID": "cdkbb11",
       "Name": "Cold-Blooded Driller",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 194
+      "UsersEstimate": 218
     },
     {
       "ID": "ACH_KILL_NIPULON",
@@ -5806,7 +5811,7 @@
       "Name": "Cardbored",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_DEFEAT_MUX",
@@ -5822,7 +5827,7 @@
       "Name": "See Salt",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_FIND_ALL_PACKAGES",
@@ -5830,7 +5835,7 @@
       "Name": "Porch Pirate",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_HARPER_GLOB_SHOT_KILLS",
@@ -5838,7 +5843,7 @@
       "Name": "Harper? I Barely Know Her!",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_KNIFEY_EXECUTE_BLOAT",
@@ -5854,7 +5859,7 @@
       "Name": "Give Away All Your Money",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_PARASITE_PASSENGER_LOVE",
@@ -5870,7 +5875,7 @@
       "Name": "Meet Frasier from Frasier",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_RIDDLE_MASTER",
@@ -5878,7 +5883,7 @@
       "Name": "It\u0027s Like The Santa Clause",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_TOXXO_BATH",
@@ -5893,13 +5898,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24206,
+      "Progressed": 24207,
       "Completed": 13
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1499,
+      "Progressed": 1500,
       "Completed": 1373
     }
   ],
@@ -5907,8 +5912,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-07T05:03:09.4311759+00:00",
-  "LastChanged_Achievements": "2023-10-13T20:05:21.2596986+00:00",
+  "LastChanged_Achievements": "2023-10-13T21:04:53.4607322+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:51.1168375+00:00",
-  "LastUpdate_Ratings": "2023-10-13T20:00:25.6037742+00:00",
-  "LastUpdate_Achievements": "2023-10-13T20:05:21.2597695+00:00"
+  "LastUpdate_Ratings": "2023-10-13T21:00:17.8304007+00:00",
+  "LastUpdate_Achievements": "2023-10-13T21:04:53.4608343+00:00"
 }
