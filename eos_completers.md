@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 51.67% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 51.66% |
 | 3 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 47.17% |
 | 5 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.72% |
@@ -44,7 +44,7 @@
 | 42 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 42 | [Ravenlok](games/r/ravenlok.md) | 7.69% |
 | 44 | [Sonic Origins](games/s/sonic_origins.md) | 7.66% |
-| 45 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.63% |
+| 45 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.62% |
 | 46 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.54% |
 | 47 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.41% |
 | 48 | [Time Loader](games/t/time_loader.md) | 7.20% |
@@ -70,7 +70,7 @@
 | 67 | [ZZT!](games/z/zzt!.md) | 4.46% |
 | 69 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.11% |
 | 70 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.06% |
-| 71 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 3.95% |
+| 71 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 3.94% |
 | 72 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.89% |
 | 73 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.84% |
 | 74 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.82% |
@@ -86,7 +86,7 @@
 | 84 | [Doodle God](games/d/doodle_god.md) | 3.31% |
 | 85 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.27% |
 | 86 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.19% |
-| 87 | [Monster Harvest](games/m/monster_harvest.md) | 3.17% |
+| 87 | [Monster Harvest](games/m/monster_harvest.md) | 3.16% |
 | 88 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.15% |
 | 89 | [HordeCore](games/h/hordecore.md) | 3.12% |
 | 89 | [Without Escape](games/w/without_escape.md) | 3.12% |
@@ -153,8 +153,8 @@
 | 151 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 152 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.84% |
 | 153 | [Dungeons 3](games/d/dungeons_3.md) | 0.80% |
-| 154 | [Eternights](games/e/eternights.md) | 0.76% |
 | 154 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.76% |
+| 155 | [Eternights](games/e/eternights.md) | 0.75% |
 | 156 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.72% |
 | 156 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.72% |
 | 158 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.67% |
@@ -264,17 +264,17 @@
 | 260 | [Saints Row](games/s/saints_row.md) | 0.07% |
 | 260 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
 | 260 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
+| 265 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.06% |
 | 265 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.06% |
 | 265 | [Operation New Earth](games/o/operation_new_earth.md) | 0.06% |
 | 265 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
 | 265 | [Transport Fever 2](games/t/transport_fever_2.md) | 0.06% |
 | 265 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
-| 270 | [Absolute Drift](games/a/absolute_drift.md) | 0.05% |
-| 270 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.05% |
-| 270 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
-| 270 | [High On Life](games/h/high_on_life.md) | 0.05% |
-| 270 | [House Party](games/h/house_party.md) | 0.05% |
-| 270 | [MythForce](games/m/mythforce.md) | 0.05% |
+| 271 | [Absolute Drift](games/a/absolute_drift.md) | 0.05% |
+| 271 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
+| 271 | [High On Life](games/h/high_on_life.md) | 0.05% |
+| 271 | [House Party](games/h/house_party.md) | 0.05% |
+| 271 | [MythForce](games/m/mythforce.md) | 0.05% |
 | 276 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.04% |
 | 276 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 0.04% |
 | 276 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.04% |
