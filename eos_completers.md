@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 51.52% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 51.48% |
 | 3 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 47.17% |
 | 5 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.72% |
@@ -49,7 +49,7 @@
 | 47 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.41% |
 | 48 | [Time Loader](games/t/time_loader.md) | 7.20% |
 | 49 | [Scorn](games/s/scorn.md) | 7.02% |
-| 50 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.79% |
+| 50 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.76% |
 | 51 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.59% |
 | 52 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.29% |
 | 53 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -70,7 +70,7 @@
 | 68 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.46% |
 | 69 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.11% |
 | 70 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.06% |
-| 71 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 3.94% |
+| 71 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 3.93% |
 | 72 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.90% |
 | 73 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.84% |
 | 74 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.82% |
@@ -121,8 +121,8 @@
 | 118 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 1.79% |
 | 120 | [Somerville](games/s/somerville.md) | 1.70% |
 | 121 | [Five Dates](games/f/five_dates.md) | 1.62% |
-| 122 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.52% |
-| 123 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.49% |
+| 122 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.49% |
+| 122 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.49% |
 | 124 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
 | 125 | [Iron Danger](games/i/iron_danger.md) | 1.44% |
 | 126 | [Late Shift](games/l/late_shift.md) | 1.41% |
@@ -139,7 +139,7 @@
 | 137 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.18% |
 | 138 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.13% |
 | 139 | [Trifox](games/t/trifox.md) | 1.09% |
-| 140 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.08% |
+| 140 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.07% |
 | 141 | [Adios](games/a/adios.md) | 1.05% |
 | 141 | [Infindustry](games/i/infindustry.md) | 1.05% |
 | 141 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.05% |
@@ -207,9 +207,9 @@
 | 202 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 206 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
 | 206 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.30% |
-| 206 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.30% |
 | 206 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.30% |
-| 210 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
+| 209 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
+| 209 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.29% |
 | 211 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.28% |
 | 212 | [The Devil's Face](games/t/the_devil's_face.md) | 0.27% |
 | 213 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.25% |
@@ -234,8 +234,8 @@
 | 230 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
 | 230 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.16% |
 | 234 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
-| 235 | [BLACKTAIL](games/b/blacktail.md) | 0.14% |
-| 235 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.14% |
+| 234 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.15% |
+| 236 | [BLACKTAIL](games/b/blacktail.md) | 0.14% |
 | 237 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
 | 237 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.13% |
 | 237 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
@@ -279,13 +279,13 @@
 | 276 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 0.04% |
 | 276 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.04% |
 | 276 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 0.04% |
-| 276 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.04% |
 | 276 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.04% |
 | 276 | [Tropico 6](games/t/tropico_6.md) | 0.04% |
-| 283 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
-| 283 | [Old World](games/o/old_world.md) | 0.03% |
-| 283 | [Session: Skate Sim](games/s/session__skate_sim.md) | 0.03% |
-| 283 | [STAR WARS™ Battlefront™ II: Celebration Edition](games/s/star_wars™_battlefront™_ii__celebration_edition.md) | 0.03% |
+| 282 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
+| 282 | [Old World](games/o/old_world.md) | 0.03% |
+| 282 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.03% |
+| 282 | [Session: Skate Sim](games/s/session__skate_sim.md) | 0.03% |
+| 282 | [STAR WARS™ Battlefront™ II: Celebration Edition](games/s/star_wars™_battlefront™_ii__celebration_edition.md) | 0.03% |
 | 287 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.02% |
 | 287 | [Deceive Inc.](games/d/deceive_inc..md) | 0.02% |
 | 287 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
@@ -667,4 +667,4 @@
 | 314 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 314 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 314 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,390 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,391 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
