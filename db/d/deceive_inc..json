@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 533,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18354,
+  "EOS_Progressed": 18355,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -11446,6 +11446,11 @@
       "Time": "2023-10-12T22:07:26.9248186+00:00",
       "NumProgressed": 18354,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-13T00:07:40.3964551+00:00",
+      "NumProgressed": 18355,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -11553,7 +11558,7 @@
       "Name": "Keycards Royale",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1835
+      "UsersEstimate": 1836
     },
     {
       "ID": "0014",
@@ -11609,7 +11614,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 10,
       "XP": 115,
-      "UsersEstimate": 1835
+      "UsersEstimate": 1836
     },
     {
       "ID": "0021",
@@ -11641,7 +11646,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 3854
+      "UsersEstimate": 3855
     },
     {
       "ID": "0025",
@@ -11673,7 +11678,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4221
+      "UsersEstimate": 4222
     },
     {
       "ID": "0029",
@@ -11721,7 +11726,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2202
+      "UsersEstimate": 2203
     },
     {
       "ID": "0035",
@@ -11744,7 +11749,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18354,
+      "Progressed": 18355,
       "Completed": 4
     }
   ],
@@ -11752,8 +11757,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-10-12T23:07:05.369637+00:00",
+  "LastChanged_Achievements": "2023-10-13T00:07:40.3964548+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:09.6905795+00:00",
-  "LastUpdate_Ratings": "2023-10-12T22:58:12.6224828+00:00",
-  "LastUpdate_Achievements": "2023-10-12T23:07:05.3697251+00:00"
+  "LastUpdate_Ratings": "2023-10-12T23:58:17.5338371+00:00",
+  "LastUpdate_Achievements": "2023-10-13T00:07:40.3965257+00:00"
 }

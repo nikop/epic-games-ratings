@@ -6,7 +6,7 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 2.00% | ~18,699 |
+| It wakes | 2.00% | ~18,700 |
 | Handyman | 1.00% | ~9,350 |
 | Zealous | 1.00% | ~9,350 |
 | Not half bad | 1.00% | ~9,350 |
@@ -43,6 +43,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Blood on your hands | 0.40% | ~3,740 |
 | Escape Artist | 0.40% | ~3,740 |
 | Made it out alive! | 0.40% | ~3,740 |
+| III-50 | 0.40% | ~3,740 |
 | All Aboard | 0.40% | ~3,740 |
 | Item of Obsession | 0.40% | ~3,740 |
 | Holiday Get-Together | 0.40% | ~3,740 |
@@ -62,10 +63,10 @@ Number of Ratings: 70,340  (23.09.2022)
 | Lifting The Fog | 0.40% | ~3,740 |
 | Chorus of Chaos | 0.40% | ~3,740 |
 | One More Step | 0.40% | ~3,740 |
+| MU/TH/UR Dearest | 0.40% | ~3,740 |
 | A bite for the Entity | 0.30% | ~2,805 |
 | Blood on your face | 0.30% | ~2,805 |
 | Gifts for the Fog | 0.30% | ~2,805 |
-| III-50 | 0.30% | ~2,805 |
 | Hemophobia | 0.30% | ~2,805 |
 | Shock Therapy | 0.30% | ~2,805 |
 | Leapfrog | 0.30% | ~2,805 |
@@ -82,7 +83,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | End of Days | 0.30% | ~2,805 |
 | Outrun the Overlap | 0.30% | ~2,805 |
 | Extraterrestrial | 0.30% | ~2,805 |
-| MU/TH/UR Dearest | 0.30% | ~2,805 |
 | Kitted Out | 0.30% | ~2,805 |
 | Blood in your mouth | 0.20% | ~1,870 |
 | Jump Scares | 0.20% | ~1,870 |
@@ -96,6 +96,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Shrine Apparatus | 0.20% | ~1,870 |
 | Broken Bodies | 0.20% | ~1,870 |
 | I See You | 0.20% | ~1,870 |
+| Power Moves | 0.20% | ~1,870 |
 | Insult and Injury | 0.20% | ~1,870 |
 | Prowler | 0.20% | ~1,870 |
 | Triage | 0.20% | ~1,870 |
@@ -187,7 +188,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Tag Team | 0.10% | ~935 |
 | Adept Twins | 0.10% | ~935 |
 | Rescue Mission | 0.10% | ~935 |
-| Power Moves | 0.10% | ~935 |
 | Adept Élodie | 0.10% | ~935 |
 | One Thousand Cuts | 0.10% | ~935 |
 | Multi-tasker | 0.10% | ~935 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~935 |
 | Adept Ripley | 0.10% | ~935 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 934,954 (Ranked 14)  
+Progressed: 935,017 (Ranked 14)  
 Completed: 50 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -412,6 +412,7 @@ Completed: 50 (0.01%) (Ranked 296)
 | 2023-10-10 | 931,511 | 49 |
 | 2023-10-11 | 933,163 | 49 |
 | 2023-10-12 | 934,954 | 50 |
+| 2023-10-13 | 935,017 | 50 |
 ## Awards
 Max (Diverse Characters): 33,781  (Ranked 15)  
 Sum: 261,674 (Ranked 13)  

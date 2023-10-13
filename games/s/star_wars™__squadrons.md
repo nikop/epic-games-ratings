@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~9,241 |
-| A Better Idea | 25.00% | ~2,432 |
-| Safety in the Storm | 24.00% | ~2,334 |
-| Begin the Ceremony | 20.00% | ~1,945 |
-| Mission Accomplished | 20.00% | ~1,945 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~1,459 |
-| A Starfighter of Your Own | 14.00% | ~1,362 |
-| Asset Secured | 13.00% | ~1,265 |
-| Unkillable | 8.00% | ~778 |
-| The Galaxy's Finest (Pilot) | 7.00% | ~681 |
-| Sound Strategy | 7.00% | ~681 |
-| Together, Vanguard | 7.00% | ~681 |
+| Fracture at Fostar Haven | 95.00% | ~9,253 |
+| A Better Idea | 25.00% | ~2,435 |
+| Safety in the Storm | 24.00% | ~2,338 |
+| Begin the Ceremony | 20.00% | ~1,948 |
+| Mission Accomplished | 20.00% | ~1,948 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~1,461 |
+| A Starfighter of Your Own | 14.00% | ~1,364 |
+| Asset Secured | 13.00% | ~1,266 |
+| Unkillable | 8.00% | ~779 |
+| The Galaxy's Finest (Pilot) | 7.00% | ~682 |
+| Sound Strategy | 7.00% | ~682 |
+| Together, Vanguard | 7.00% | ~682 |
 | Stomped | 6.00% | ~584 |
-| Fearless | 5.00% | ~486 |
-| Flames Over Mon Cala | 5.00% | ~486 |
-| A Promising Career | 5.00% | ~486 |
-| Great Shot, Kid | 4.00% | ~389 |
-| Back From the Brink | 4.00% | ~389 |
-| Temporary Guardian | 4.00% | ~389 |
-| Baited | 4.00% | ~389 |
+| Fearless | 5.00% | ~487 |
+| Flames Over Mon Cala | 5.00% | ~487 |
+| A Promising Career | 5.00% | ~487 |
+| Great Shot, Kid | 4.00% | ~390 |
+| Back From the Brink | 4.00% | ~390 |
+| Temporary Guardian | 4.00% | ~390 |
+| Baited | 4.00% | ~390 |
 | Stronger Together | 3.00% | ~292 |
 | Squadron Hunter | 3.00% | ~292 |
 | Punch It | 3.00% | ~292 |
@@ -52,7 +52,7 @@
 | Fully Decorated | 0.10% | ~10 |
 | The Galaxy's Finest (Ace) | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,727 (Ranked 148)  
+Progressed: 9,740 (Ranked 147)  
 Completed: 1 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,6 +79,7 @@ Completed: 1 (0.01%) (Ranked 296)
 | 2023-10-10 | 9,128 | 1 |
 | 2023-10-11 | 9,402 | 1 |
 | 2023-10-12 | 9,727 | 1 |
+| 2023-10-13 | 9,740 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

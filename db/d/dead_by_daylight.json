@@ -11285,9 +11285,9 @@
       "Count": 25339
     }
   ],
-  "EOS_Progressed": 934954,
+  "EOS_Progressed": 935017,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 14031,
+  "EOS_NewPlayers": 14030,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -31215,6 +31215,11 @@
       "Time": "2023-10-12T23:06:40.3710976+00:00",
       "NumProgressed": 934954,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-10-13T00:07:13.4592489+00:00",
+      "NumProgressed": 935017,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 229,
@@ -31402,7 +31407,7 @@
       "Name": "It wakes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 18699
+      "UsersEstimate": 18700
     },
     {
       "ID": "ACH_024",
@@ -31560,9 +31565,9 @@
       "ID": "ACH_043",
       "SetID": "bdmlp8o",
       "Name": "III-50",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2805
+      "UsersEstimate": 3740
     },
     {
       "ID": "ACH_044",
@@ -32488,9 +32493,9 @@
       "ID": "ACH_162",
       "SetID": "16jml5b",
       "Name": "Power Moves",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 935
+      "UsersEstimate": 1870
     },
     {
       "ID": "ACH_163",
@@ -33032,9 +33037,9 @@
       "ID": "ACH_230",
       "SetID": "16jml5b",
       "Name": "MU/TH/UR Dearest",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2805
+      "UsersEstimate": 3740
     },
     {
       "ID": "ACH_231",
@@ -33057,21 +33062,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 934954,
+      "Progressed": 935017,
       "Completed": 52
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 934954,
+      "Progressed": 935017,
       "Completed": 50
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-10-12T19:57:44.8273587+00:00",
-  "LastChanged_Achievements": "2023-10-12T23:06:40.3710966+00:00",
+  "LastChanged_Achievements": "2023-10-13T00:07:13.4592483+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:11.5924675+00:00",
-  "LastUpdate_Ratings": "2023-10-12T22:57:39.2435855+00:00",
-  "LastUpdate_Achievements": "2023-10-12T23:06:40.3718406+00:00"
+  "LastUpdate_Ratings": "2023-10-12T23:57:41.3189626+00:00",
+  "LastUpdate_Achievements": "2023-10-13T00:07:13.4598269+00:00"
 }

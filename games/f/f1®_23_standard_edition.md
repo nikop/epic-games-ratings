@@ -1,19 +1,19 @@
 # F1® 23
 [Store](https://store.epicgames.com/en-US/p/f1-23)  
 [View Rawdata](../../db/f/f1®_23_standard_edition.json)  
-Rating: 4.65 (Ranked 295)  
+Rating: 4.66 (Ranked 280)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 95.00% | ~3,031 |
-| On the Top Step | 89.00% | ~2,840 |
-| Setting up for Success | 78.00% | ~2,489 |
-| Team Orders | 76.00% | ~2,425 |
-| Engineer | 56.00% | ~1,787 |
+| Getting on the Step | 95.00% | ~3,032 |
+| On the Top Step | 89.00% | ~2,841 |
+| Setting up for Success | 78.00% | ~2,490 |
+| Team Orders | 76.00% | ~2,426 |
+| Engineer | 56.00% | ~1,788 |
 | Familiar Faces | 50.00% | ~1,596 |
 | Going the Extra Mile | 44.00% | ~1,404 |
-| Sharing the Love | 42.00% | ~1,340 |
-| Hitting a Season | 39.00% | ~1,244 |
+| Sharing the Love | 42.00% | ~1,341 |
+| Hitting a Season | 39.00% | ~1,245 |
 | Challenge Yourself | 35.00% | ~1,117 |
 | A Dozen Pieces | 33.00% | ~1,053 |
 | Making History | 33.00% | ~1,053 |
@@ -23,9 +23,9 @@ Rating: 4.65 (Ranked 295)
 | Reduce | 20.00% | ~638 |
 | Ups and Downs | 20.00% | ~638 |
 | Crucial Combo | 19.00% | ~606 |
-| One for the Book | 18.00% | ~574 |
-| Reuse | 17.00% | ~542 |
-| Proving Them Wrong | 17.00% | ~542 |
+| One for the Book | 18.00% | ~575 |
+| Reuse | 17.00% | ~543 |
+| Proving Them Wrong | 17.00% | ~543 |
 | Gathering Dust | 16.00% | ~511 |
 | Oil and Water | 16.00% | ~511 |
 | Lightning Round the World | 14.00% | ~447 |
@@ -38,9 +38,9 @@ Rating: 4.65 (Ranked 295)
 | Tinkerer | 11.00% | ~351 |
 | Friendly Competition | 10.00% | ~319 |
 | Undisputed Winner | 9.00% | ~287 |
-| For all Those Back at the Factory | 6.00% | ~191 |
-| Living up to Expectations | 6.00% | ~191 |
-| Smooth Operator | 6.00% | ~191 |
+| For all Those Back at the Factory | 6.00% | ~192 |
+| Living up to Expectations | 6.00% | ~192 |
+| Smooth Operator | 6.00% | ~192 |
 | Loyal Bond | 5.00% | ~160 |
 | Peak Performance | 5.00% | ~160 |
 | Seasoned Rookie | 3.00% | ~96 |
@@ -55,7 +55,7 @@ Rating: 4.65 (Ranked 295)
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,191 (Ranked 190)  
+Progressed: 3,192 (Ranked 190)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,6 +85,7 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-10-10 | 3,132 | 0 |
 | 2023-10-11 | 3,166 | 0 |
 | 2023-10-12 | 3,191 | 0 |
+| 2023-10-13 | 3,192 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -139,4 +140,4 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-10-01 | 4.67 | 0 | 0 |
 | 2023-10-03 | 4.65 | 0 | 0 |
 | 2023-10-04 | 4.66 | 0 | 0 |
-| 2023-10-12 | 4.65 | 0 | 0 |
+| 2023-10-12 | 4.66 | 0 | 0 |

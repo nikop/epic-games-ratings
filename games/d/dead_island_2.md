@@ -5,6 +5,7 @@ Rating: 4.54 (Ranked 510)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Hotel California | 4.00% | ~27,789 |
 | Welcome To Hell-A | 4.00% | ~27,789 |
 | Dr. Reed, I Presume? | 3.00% | ~20,842 |
 | Git Gutte! | 3.00% | ~20,842 |
@@ -12,32 +13,31 @@ Rating: 4.54 (Ranked 510)
 | Coup de Grâce | 3.00% | ~20,842 |
 | Hazardous Materials | 3.00% | ~20,842 |
 | Friends Like These | 3.00% | ~20,842 |
-| Hotel California | 3.00% | ~20,842 |
 | Apex Predator | 3.00% | ~20,842 |
 | Stacking the Deck | 3.00% | ~20,842 |
 | Personal Assistant Personally Assisted | 3.00% | ~20,842 |
-| Anger Management | 2.00% | ~13,894 |
-| Perks of the Job | 2.00% | ~13,894 |
-| Bookworm | 2.00% | ~13,894 |
-| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,894 |
-| But Doctor, I am Butcho | 2.00% | ~13,894 |
-| Slayer Squad | 2.00% | ~13,894 |
-| Can't Handle the Truth | 2.00% | ~13,894 |
-| Like Riding a Bike | 2.00% | ~13,894 |
-| Zombologist | 2.00% | ~13,894 |
-| Ooh, Shiny! | 2.00% | ~13,894 |
-| A Patton Emerges | 2.00% | ~13,894 |
-| Humanity Distilled | 2.00% | ~13,894 |
-| I Am the Resurrection | 2.00% | ~13,894 |
-| Our True Nature | 2.00% | ~13,894 |
-| This is My Weapon | 2.00% | ~13,894 |
+| Anger Management | 2.00% | ~13,895 |
+| Perks of the Job | 2.00% | ~13,895 |
+| Bookworm | 2.00% | ~13,895 |
+| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,895 |
+| But Doctor, I am Butcho | 2.00% | ~13,895 |
+| Slayer Squad | 2.00% | ~13,895 |
+| Can't Handle the Truth | 2.00% | ~13,895 |
+| Like Riding a Bike | 2.00% | ~13,895 |
+| Zombologist | 2.00% | ~13,895 |
+| Ooh, Shiny! | 2.00% | ~13,895 |
+| A Patton Emerges | 2.00% | ~13,895 |
+| Humanity Distilled | 2.00% | ~13,895 |
+| I Am the Resurrection | 2.00% | ~13,895 |
+| Our True Nature | 2.00% | ~13,895 |
+| This is My Weapon | 2.00% | ~13,895 |
 | Making Your Mark | 1.00% | ~6,947 |
 | Jumbo Keyring | 1.00% | ~6,947 |
 | Down with the Sickness | 1.00% | ~6,947 |
 | Max Headroom | 1.00% | ~6,947 |
 | Go, Bobcats! | 1.00% | ~6,947 |
 | Rising Star | 1.00% | ~6,947 |
-| Smorgasbord | 0.90% | ~6,252 |
+| Smorgasbord | 0.90% | ~6,253 |
 | Internet Famous | 0.80% | ~5,558 |
 | On Safari | 0.70% | ~4,863 |
 | Not Even My Final Form | 0.70% | ~4,863 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 510)
 | Donk! | 0.20% | ~1,389 |
 | Bucket List | 0.10% | ~695 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 694,718 (Ranked 22)  
+Progressed: 694,732 (Ranked 22)  
 Completed: 2,216 (0.32%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,6 +227,7 @@ Completed: 2,216 (0.32%) (Ranked 200)
 | 2023-10-10 | 693,868 | 2,209 |
 | 2023-10-11 | 694,263 | 2,210 |
 | 2023-10-12 | 694,718 | 2,216 |
+| 2023-10-13 | 694,732 | 2,216 |
 ## Awards
 Max (Great Boss Battles): 6,407  (Ranked 58)  
 Sum: 9,574 (Ranked 91)  

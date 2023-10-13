@@ -5,44 +5,44 @@ Rating: 4.76 (Ranked 119)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~17,503 |
-| The Killing Jar | 8.00% | ~15,558 |
-| Expanding Horizons | 7.00% | ~13,614 |
-| Quest for Survival | 7.00% | ~13,614 |
-| Not Your Average Trait | 7.00% | ~13,614 |
-| Gleaming the Cube | 6.00% | ~11,669 |
-| Familiar Face | 6.00% | ~11,669 |
-| Duality | 6.00% | ~11,669 |
-| Boss'n Up | 6.00% | ~11,669 |
-| Trait Chaser | 6.00% | ~11,669 |
-| Not So Special Now | 5.00% | ~9,724 |
-| Not a Janitor | 5.00% | ~9,724 |
-| Equal Measures | 5.00% | ~9,724 |
-| Blue Goddess | 5.00% | ~9,724 |
-| Top Performer | 5.00% | ~9,724 |
-| Shhh...It's a Secret | 5.00% | ~9,724 |
-| Almost There | 5.00% | ~9,724 |
-| Make Some Room | 5.00% | ~9,724 |
-| Good, But Could Be Better! | 5.00% | ~9,724 |
-| Chaos | 4.00% | ~7,779 |
-| Traitor | 4.00% | ~7,779 |
-| Power Surge | 4.00% | ~7,779 |
-| The God Gambit | 4.00% | ~7,779 |
-| Dark Designs | 4.00% | ~7,779 |
-| Madman's Paradise | 4.00% | ~7,779 |
-| Was This Supposed To Happen? | 4.00% | ~7,779 |
-| The Web | 4.00% | ~7,779 |
-| Scrap Collector | 4.00% | ~7,779 |
-| All These Traits� | 4.00% | ~7,779 |
-| Am I Seeing This? | 3.00% | ~5,834 |
-| Forever is a Long Time Coming | 3.00% | ~5,834 |
-| The Agenda | 3.00% | ~5,834 |
-| Tall Tales | 3.00% | ~5,834 |
-| Bad Moon Rising | 3.00% | ~5,834 |
-| Strapped | 3.00% | ~5,834 |
-| Edgelord | 3.00% | ~5,834 |
-| The Ultimate Weapon | 3.00% | ~5,834 |
-| No One Should Have All That Power | 3.00% | ~5,834 |
+| First of Many | 9.00% | ~17,504 |
+| The Killing Jar | 8.00% | ~15,559 |
+| Expanding Horizons | 7.00% | ~13,615 |
+| Quest for Survival | 7.00% | ~13,615 |
+| Not Your Average Trait | 7.00% | ~13,615 |
+| Gleaming the Cube | 6.00% | ~11,670 |
+| Familiar Face | 6.00% | ~11,670 |
+| Duality | 6.00% | ~11,670 |
+| Boss'n Up | 6.00% | ~11,670 |
+| Trait Chaser | 6.00% | ~11,670 |
+| Not So Special Now | 5.00% | ~9,725 |
+| Not a Janitor | 5.00% | ~9,725 |
+| Equal Measures | 5.00% | ~9,725 |
+| Blue Goddess | 5.00% | ~9,725 |
+| Top Performer | 5.00% | ~9,725 |
+| Shhh...It's a Secret | 5.00% | ~9,725 |
+| Almost There | 5.00% | ~9,725 |
+| Make Some Room | 5.00% | ~9,725 |
+| Good, But Could Be Better! | 5.00% | ~9,725 |
+| Chaos | 4.00% | ~7,780 |
+| Traitor | 4.00% | ~7,780 |
+| Power Surge | 4.00% | ~7,780 |
+| The God Gambit | 4.00% | ~7,780 |
+| Dark Designs | 4.00% | ~7,780 |
+| Madman's Paradise | 4.00% | ~7,780 |
+| Was This Supposed To Happen? | 4.00% | ~7,780 |
+| The Web | 4.00% | ~7,780 |
+| Scrap Collector | 4.00% | ~7,780 |
+| All These Traits� | 4.00% | ~7,780 |
+| Am I Seeing This? | 3.00% | ~5,835 |
+| Forever is a Long Time Coming | 3.00% | ~5,835 |
+| The Agenda | 3.00% | ~5,835 |
+| Tall Tales | 3.00% | ~5,835 |
+| Bad Moon Rising | 3.00% | ~5,835 |
+| Strapped | 3.00% | ~5,835 |
+| Edgelord | 3.00% | ~5,835 |
+| The Ultimate Weapon | 3.00% | ~5,835 |
+| No One Should Have All That Power | 3.00% | ~5,835 |
 | Crafty | 2.00% | ~3,890 |
 | Only Human | 2.00% | ~3,890 |
 | Red Room | 2.00% | ~3,890 |
@@ -56,7 +56,7 @@ Rating: 4.76 (Ranked 119)
 | Proving Grounds | 1.00% | ~1,945 |
 | Ghost in the Machine | 0.90% | ~1,750 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 194,480 (Ranked 68)  
+Progressed: 194,493 (Ranked 68)  
 Completed: 384 (0.20%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,9 +145,10 @@ Completed: 384 (0.20%) (Ranked 222)
 | 2023-10-10 | 193,536 | 379 |
 | 2023-10-11 | 194,019 | 381 |
 | 2023-10-12 | 194,480 | 384 |
+| 2023-10-13 | 194,493 | 384 |
 ## Awards
 Max (Great Boss Battles): 1,826  (Ranked 114)  
-Sum: 3,933 (Ranked 150)  
+Sum: 3,935 (Ranked 150)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
@@ -161,7 +162,7 @@ Diff (max vs sum): -36
 | This game has Amazing Characters | 209 |
 | This game has Quickly Understood Controls | 208 |
 | This game has Unique Visuals | 177 |
-| This game has a Creative Community | 158 |
+| This game has a Creative Community | 160 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -243,4 +244,4 @@ Diff (max vs sum): -36
 | 2023-10-09 | 4.76 | 1,815 | 3,880 |
 | 2023-10-10 | 4.76 | 1,822 | 3,911 |
 | 2023-10-11 | 4.76 | 1,826 | 3,926 |
-| 2023-10-12 | 4.76 | 1,826 | 3,933 |
+| 2023-10-12 | 4.76 | 1,826 | 3,935 |

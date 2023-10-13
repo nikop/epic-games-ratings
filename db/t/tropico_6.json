@@ -2,13 +2,13 @@
   "ID": "e1055bf1e5654b93a27e19e6bb86cb2a",
   "Name": "Tropico 6",
   "ProductSlug": "tropico-6",
-  "Ranking_Rating": 295,
+  "Ranking_Rating": 296,
   "Ranking_Popularity": 347,
   "Ranking_PopularitySum": 284,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 276,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1224,9 +1224,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5531,
+  "EOS_Progressed": 5532,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -11164,6 +11164,11 @@
       "Time": "2023-10-12T23:05:42.4765548+00:00",
       "NumProgressed": 5531,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-13T00:06:08.3551351+00:00",
+      "NumProgressed": 5532,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -11191,7 +11196,7 @@
       "Name": "Double Trouble",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "ACH_EP_ACTSOFGOD",
@@ -11215,7 +11220,7 @@
       "Name": "Go Sovereigns!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "ACH_EP_BATTLEROYALE",
@@ -11295,7 +11300,7 @@
       "Name": "Number 18",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1327
+      "UsersEstimate": 1328
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -11303,7 +11308,7 @@
       "Name": "Firestarter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "ACH_EP_THEREFERENDUM",
@@ -11319,7 +11324,7 @@
       "Name": "For Science!",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "ACH_GOVERNATOR",
@@ -11335,7 +11340,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4148
+      "UsersEstimate": 4149
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -11447,7 +11452,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2046
+      "UsersEstimate": 2047
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -11494,15 +11499,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5531,
+      "Progressed": 5532,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-10-12T16:58:48.8447387+00:00",
-  "LastChanged_Achievements": "2023-10-12T23:05:42.4765539+00:00",
+  "LastChanged_Achievements": "2023-10-13T00:06:08.3551338+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:39.4137332+00:00",
-  "LastUpdate_Ratings": "2023-10-12T22:58:43.1217236+00:00",
-  "LastUpdate_Achievements": "2023-10-12T23:05:42.4766468+00:00"
+  "LastUpdate_Ratings": "2023-10-12T23:58:48.4469899+00:00",
+  "LastUpdate_Achievements": "2023-10-13T00:06:08.3552057+00:00"
 }

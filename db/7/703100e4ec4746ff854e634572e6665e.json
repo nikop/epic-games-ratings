@@ -2,13 +2,13 @@
   "ID": "703100e4ec4746ff854e634572e6665e",
   "Name": "Madcar GT (Multiplayer)",
   "ProductSlug": "madcar-f-multiplayer-65691b",
-  "Ranking_Rating": 295,
+  "Ranking_Rating": 296,
   "Ranking_Popularity": 533,
   "Ranking_PopularitySum": 533,
   "Ranking_EOS_Progress": 668,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 393,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-06-09T19:00:00+00:00",
     "PcReleaseDate": "2023-06-09T19:00:00+00:00",
@@ -46,6 +46,6 @@
   "FirstSeenRating": "2023-10-01T16:58:16.7880158+00:00",
   "LastChanged": "2023-10-01T16:58:16.7880159+00:00",
   "LastUpdate_AppInfo": "2023-10-06T16:57:10.1331872+00:00",
-  "LastUpdate_Ratings": "2023-10-12T22:59:18.9942951+00:00",
-  "LastUpdate_Achievements": "2023-10-12T23:08:33.0829593+00:00"
+  "LastUpdate_Ratings": "2023-10-12T23:59:29.8563036+00:00",
+  "LastUpdate_Achievements": "2023-10-13T00:09:05.2634177+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "deeeer-simulator-9bfc4a",
   "Ranking_EOS_Progress": 422,
   "Ranking_EOS_Completed": 30,
-  "Ranking_EOS_NewPlayers": 235,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-09-04T07:00:00+00:00",
     "PcReleaseDate": "2021-11-23T23:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 61,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 11.48,
   "EosHistory": [
@@ -370,17 +370,17 @@
       "ID": "EpicACHV_12",
       "SetID": "acn799d",
       "Name": "God Disguised as a Cow",
-      "Percentage": 70,
+      "Percentage": 72,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "EpicACHV_13",
       "SetID": "acn799d",
       "Name": "Kept You Waiting?",
-      "Percentage": 70,
+      "Percentage": 72,
       "XP": 70,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "EpicACHV_14",
@@ -489,8 +489,8 @@
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2023-10-12T23:09:14.3438502+00:00",
+  "LastChanged_Achievements": "2023-10-13T00:09:17.5572209+00:00",
   "LastUpdate_AppInfo": "2023-10-11T08:57:13.9823134+00:00",
-  "LastUpdate_Ratings": "2023-10-12T22:58:17.3869115+00:00",
-  "LastUpdate_Achievements": "2023-10-12T23:09:14.343873+00:00"
+  "LastUpdate_Ratings": "2023-10-12T23:58:22.8633837+00:00",
+  "LastUpdate_Achievements": "2023-10-13T00:09:17.5572338+00:00"
 }

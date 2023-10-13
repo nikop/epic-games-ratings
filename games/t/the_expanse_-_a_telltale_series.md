@@ -18,12 +18,12 @@ Rating: 4.56 (Ranked 472)
 | Stogie for Fogey | 2.00% | ~278 |
 | Spore Taste | 2.00% | ~278 |
 | Martian Music | 2.00% | ~278 |
+| Miraculous Maya | 2.00% | ~278 |
 | Khan's Revenge | 2.00% | ~278 |
 | Captain Drummer | 2.00% | ~278 |
 | Doctor Approved | 1.00% | ~139 |
 | Bottoms up! | 1.00% | ~139 |
 | Thorston Mayer | 1.00% | ~139 |
-| Miraculous Maya | 1.00% | ~139 |
 | No Belter Left Behind | 0.90% | ~125 |
 | Brother's Reaper | 0.80% | ~111 |
 | Data Logger | 0.70% | ~97 |
@@ -36,7 +36,7 @@ Rating: 4.56 (Ranked 472)
 | Scavenger Star | 0.10% | ~14 |
 | Data Collector | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,891 (Ranked 135)  
+Progressed: 13,893 (Ranked 135)  
 Completed: 20 (0.14%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,6 +119,7 @@ Completed: 20 (0.14%) (Ranked 235)
 | 2023-10-10 | 13,843 | 18 |
 | 2023-10-11 | 13,863 | 19 |
 | 2023-10-12 | 13,891 | 20 |
+| 2023-10-13 | 13,893 | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
