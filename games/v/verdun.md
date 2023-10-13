@@ -6,16 +6,16 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~47,284 |
-| Worth it | 63.00% | ~38,191 |
-| Eagle Eye | 55.00% | ~33,342 |
-| Corpseman I | 40.00% | ~24,248 |
-| Blast fishing | 37.00% | ~22,430 |
+| Setting an example | 78.00% | ~47,286 |
+| Worth it | 63.00% | ~38,192 |
+| Eagle Eye | 55.00% | ~33,343 |
+| Corpseman I | 40.00% | ~24,249 |
+| Blast fishing | 37.00% | ~22,431 |
 | Not alone | 32.00% | ~19,399 |
-| Headhunter I | 26.00% | ~15,761 |
-| Manual Labour I | 25.00% | ~15,155 |
-| Developers, Developers, Developers | 24.00% | ~14,549 |
-| Basic Training | 24.00% | ~14,549 |
+| Headhunter I | 26.00% | ~15,762 |
+| Manual Labour I | 25.00% | ~15,156 |
+| Developers, Developers, Developers | 24.00% | ~14,550 |
+| Basic Training | 24.00% | ~14,550 |
 | Furchtlos und Treu | 13.00% | ~7,881 |
 | Gott Mit Uns | 12.00% | ~7,275 |
 | This We'll Defend! | 9.00% | ~5,456 |
@@ -23,8 +23,8 @@ Number of Ratings: 1,999  (23.09.2022)
 | Providentiea Memor | 9.00% | ~5,456 |
 | For King and Country | 9.00% | ~5,456 |
 | Battle hardened | 8.00% | ~4,850 |
-| Semper Fidelis! | 7.00% | ~4,243 |
-| Honneur et Patrie | 7.00% | ~4,243 |
+| Semper Fidelis! | 7.00% | ~4,244 |
+| Honneur et Patrie | 7.00% | ~4,244 |
 | In Treue Fest | 5.00% | ~3,031 |
 | Voor De Koning | 5.00% | ~3,031 |
 | Extreme Headhunter | 5.00% | ~3,031 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~61 |
 | Blood Brother | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,621 (Ranked 99)  
+Progressed: 60,623 (Ranked 99)  
 Completed: 4 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,7 +242,7 @@ Completed: 4 (0.01%) (Ranked 296)
 | 2023-10-10 | 60,432 | 4 |
 | 2023-10-11 | 60,502 | 4 |
 | 2023-10-12 | 60,590 | 4 |
-| 2023-10-13 | 60,621 | 4 |
+| 2023-10-13 | 60,623 | 4 |
 ## Awards
 Max (Highly Recommended): 97  (Ranked 351)  
 Sum: 777 (Ranked 273)  

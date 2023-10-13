@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewPlayers": 92,
   "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -410,9 +410,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22007,
+  "EOS_Progressed": 22011,
   "EOS_Completed": 436,
-  "EOS_NewPlayers": 484,
+  "EOS_NewPlayers": 485,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.98,
   "EosHistory": [
@@ -19315,6 +19315,11 @@
       "Time": "2023-10-13T12:07:35.7800772+00:00",
       "NumProgressed": 22007,
       "NumCompleted": 436
+    },
+    {
+      "Time": "2023-10-13T13:12:44.0311763+00:00",
+      "NumProgressed": 22011,
+      "NumCompleted": 436
     }
   ],
   "TotalAchievements": 20,
@@ -19326,7 +19331,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 3741
+      "UsersEstimate": 3742
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -19334,7 +19339,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1100
+      "UsersEstimate": 1101
     },
     {
       "ID": "EAST_FINISHED",
@@ -19342,7 +19347,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3081
+      "UsersEstimate": 3082
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -19390,7 +19395,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 3301
+      "UsersEstimate": 3302
     },
     {
       "ID": "FOUND_ERIN",
@@ -19398,7 +19403,7 @@
       "Name": "Hide and Seek",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1100
+      "UsersEstimate": 1101
     },
     {
       "ID": "FOUND_FOX_STATUE",
@@ -19406,7 +19411,7 @@
       "Name": "Tails of Stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1320
+      "UsersEstimate": 1321
     },
     {
       "ID": "FOUND_MAMBA",
@@ -19414,7 +19419,7 @@
       "Name": "Baa from the past",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1320
+      "UsersEstimate": 1321
     },
     {
       "ID": "FOUND_RIFT_CAVE",
@@ -19430,7 +19435,7 @@
       "Name": "Written in stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1320
+      "UsersEstimate": 1321
     },
     {
       "ID": "GAME_FINISHED",
@@ -19446,7 +19451,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 16945
+      "UsersEstimate": 16948
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -19454,7 +19459,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 5942
+      "UsersEstimate": 5943
     },
     {
       "ID": "NORTH_FINISHED",
@@ -19470,7 +19475,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1540
+      "UsersEstimate": 1541
     },
     {
       "ID": "WEST_FINISHED",
@@ -19478,22 +19483,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 3961
+      "UsersEstimate": 3962
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 22007,
+      "Progressed": 22011,
       "Completed": 436
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-13T12:07:35.7800768+00:00",
+  "LastChanged_Achievements": "2023-10-13T13:12:44.0311756+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:20.9828053+00:00",
-  "LastUpdate_Ratings": "2023-10-13T12:03:13.3657521+00:00",
-  "LastUpdate_Achievements": "2023-10-13T12:07:35.7801525+00:00"
+  "LastUpdate_Ratings": "2023-10-13T13:09:09.3128087+00:00",
+  "LastUpdate_Achievements": "2023-10-13T13:12:44.0313075+00:00"
 }

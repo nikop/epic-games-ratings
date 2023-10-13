@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 615,
   "Ranking_EOS_Completed": 1,
   "Ranking_EOS_NewPlayers": 391,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-07-25T17:00:00+00:00",
     "PcReleaseDate": "2023-07-25T17:00:00+00:00",
@@ -79,25 +79,25 @@
       "ID": "BOSS_13",
       "SetID": "9h4jac1",
       "Name": "BOSS 13",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 80,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BOSS_14",
       "SetID": "9h4jac1",
       "Name": "BOSS 14",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 80,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BOSS_15",
       "SetID": "9h4jac1",
       "Name": "BOSS 15",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 80,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BOSS_2",
@@ -183,12 +183,12 @@
       "ID": "9h4jac1",
       "IsBase": false,
       "Progressed": 1,
-      "Completed": 0
+      "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-07-12T15:07:13.1424827+00:00",
-  "LastChanged_Achievements": "2023-10-13T12:04:38.866573+00:00",
+  "LastChanged_Achievements": "2023-10-13T13:10:19.7557884+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:16.1343194+00:00",
-  "LastUpdate_Ratings": "2023-10-13T12:01:08.2460639+00:00",
-  "LastUpdate_Achievements": "2023-10-13T12:04:38.8665833+00:00"
+  "LastUpdate_Ratings": "2023-10-13T13:06:25.5440875+00:00",
+  "LastUpdate_Achievements": "2023-10-13T13:10:19.7558013+00:00"
 }

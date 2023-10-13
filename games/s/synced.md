@@ -5,10 +5,10 @@ Rating: 4.16 (Ranked 908)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 30.00% | ~18,850 |
-| As Far Away As Possible | 16.00% | ~10,053 |
-| A Most Unstable Organism | 12.00% | ~7,540 |
-| No Time to Follow Protocol | 9.00% | ~5,655 |
+| Your Lucky Day | 30.00% | ~18,852 |
+| As Far Away As Possible | 16.00% | ~10,054 |
+| A Most Unstable Organism | 12.00% | ~7,541 |
+| No Time to Follow Protocol | 9.00% | ~5,656 |
 | Float Like a Butterfly... | 8.00% | ~5,027 |
 | Nano Connoisseur | 6.00% | ~3,770 |
 | In Two Places At Once | 6.00% | ~3,770 |
@@ -16,13 +16,13 @@ Rating: 4.16 (Ranked 908)
 | Reaping Rivals | 3.00% | ~1,885 |
 | fifteenth Time's the Charm | 1.00% | ~628 |
 | More Power to You | 0.70% | ~440 |
-| Gone Rogue | 0.30% | ~188 |
-| Completely Customizable | 0.30% | ~188 |
+| Gone Rogue | 0.30% | ~189 |
+| Completely Customizable | 0.30% | ~189 |
 | Memory Keeper | 0.20% | ~126 |
 | Runs for Your Money | 0.10% | ~63 |
 | Past Master | 0.10% | ~63 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,832 (Ranked 98)  
+Progressed: 62,839 (Ranked 98)  
 Completed: 15 (0.02%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,11 +69,11 @@ Completed: 15 (0.02%) (Ranked 287)
 | 2023-10-10 | 62,448 | 12 |
 | 2023-10-11 | 62,597 | 14 |
 | 2023-10-12 | 62,755 | 15 |
-| 2023-10-13 | 62,832 | 15 |
+| 2023-10-13 | 62,839 | 15 |
 ## Awards
-Max (Great for Beginners): 66  (Ranked 395)  
-Sum: 257 (Ranked 364)  
-Diff (max vs sum): 31  
+Max (Great for Beginners): 66  (Ranked 396)  
+Sum: 259 (Ranked 364)  
+Diff (max vs sum): 32  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 66 |
@@ -81,8 +81,8 @@ Diff (max vs sum): 31
 | This game is Highly Recommended | 38 |
 | This game is Extremely Fun | 32 |
 | This game has a Competitive Community | 30 |
+| This game has Quickly Understood Controls | 26 |
 | This game has Amazing Storytelling | 24 |
-| This game has Quickly Understood Controls | 24 |
 | This game has Unique Visuals | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -121,4 +121,4 @@ Diff (max vs sum): 31
 | 2023-10-10 | 4.16 | 63 | 212 |
 | 2023-10-11 | 4.16 | 63 | 187 |
 | 2023-10-12 | 4.16 | 63 | 217 |
-| 2023-10-13 | 4.16 | 66 | 257 |
+| 2023-10-13 | 4.16 | 66 | 259 |

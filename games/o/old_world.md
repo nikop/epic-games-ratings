@@ -7,6 +7,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Explorer | 2.00% | ~293 |
+| Intrepid | 2.00% | ~293 |
 | Settler | 2.00% | ~293 |
 | Friendly Family | 2.00% | ~293 |
 | Play a Single Player Game | 2.00% | ~293 |
@@ -16,7 +17,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightened | 1.00% | ~146 |
 | Glorious | 1.00% | ~146 |
 | Good | 1.00% | ~146 |
-| Intrepid | 1.00% | ~146 |
 | Just | 1.00% | ~146 |
 | Keystone | 1.00% | ~146 |
 | Learned | 1.00% | ~146 |
@@ -42,29 +42,30 @@ Number of Ratings: 1,307  (23.09.2022)
 | Wise | 0.90% | ~132 |
 | Ishtar Gate | 0.90% | ~132 |
 | Lighthouse | 0.90% | ~132 |
+| Carthaginian Paganism | 0.90% | ~132 |
 | Zoroastrianism | 0.90% | ~132 |
 | Kushite Pyramids | 0.90% | ~132 |
 | Brilliant | 0.80% | ~117 |
+| Great | 0.80% | ~117 |
 | Able Difficulty | 0.80% | ~117 |
 | Furious Family | 0.80% | ~117 |
 | Great Ziggurat | 0.80% | ~117 |
+| Musaeum | 0.80% | ~117 |
 | Learn to Play 1 | 0.80% | ~117 |
 | Manichaeism | 0.80% | ~117 |
-| Carthaginian Paganism | 0.80% | ~117 |
 | Egyptian Paganism | 0.80% | ~117 |
 | Roman Paganism | 0.80% | ~117 |
 | Regicide | 0.70% | ~102 |
 | Drillmaster | 0.70% | ~102 |
-| Great | 0.70% | ~102 |
+| Valiant | 0.70% | ~102 |
 | Legendary Cities | 0.70% | ~102 |
 | Artisans | 0.70% | ~102 |
 | Apadana | 0.70% | ~102 |
 | Colossus | 0.70% | ~102 |
-| Musaeum | 0.70% | ~102 |
 | Necropolis | 0.70% | ~102 |
 | Learn to Play 2 | 0.70% | ~102 |
+| Hanging Gardens in Babylon | 0.60% | ~88 |
 | Mighty | 0.60% | ~88 |
-| Valiant | 0.60% | ~88 |
 | Just Difficulty | 0.60% | ~88 |
 | Champions | 0.60% | ~88 |
 | Sages | 0.60% | ~88 |
@@ -72,7 +73,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mausoleum | 0.60% | ~88 |
 | Mythology | 0.60% | ~88 |
 | Win a Single Player Game | 0.60% | ~88 |
-| Hanging Gardens in Babylon | 0.50% | ~73 |
 | Beloved | 0.50% | ~73 |
 | Conqueror | 0.50% | ~73 |
 | Intercessor | 0.50% | ~73 |
@@ -84,6 +84,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 3 | 0.50% | ~73 |
 | Greece | 0.50% | ~73 |
 | Power to the People | 0.50% | ~73 |
+| Persian Paganism | 0.50% | ~73 |
 | Building Wonders | 0.50% | ~73 |
 | Legalism | 0.50% | ~73 |
 | Double Victory | 0.50% | ~73 |
@@ -101,7 +102,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Via Recta Souk | 0.40% | ~59 |
 | Learn to Play 4 | 0.40% | ~59 |
 | Babylonia | 0.40% | ~59 |
-| Persian Paganism | 0.40% | ~59 |
 | Military Prestige | 0.40% | ~59 |
 | Redemption | 0.40% | ~59 |
 | Revelation | 0.40% | ~59 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,636 (Ranked 134)  
+Progressed: 14,639 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -525,10 +525,10 @@ Completed: 5 (0.03%) (Ranked 282)
 | 2023-10-10 | 14,586 | 5 |
 | 2023-10-11 | 14,606 | 5 |
 | 2023-10-12 | 14,624 | 5 |
-| 2023-10-13 | 14,636 | 5 |
+| 2023-10-13 | 14,639 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
-Sum: 1,835 (Ranked 210)  
+Sum: 1,836 (Ranked 210)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
@@ -538,7 +538,7 @@ Diff (max vs sum): 57
 | This game is Extremely Fun | 211 |
 | This game is Educational | 209 |
 | This game has Challenging Combat | 198 |
-| This game has Quickly Understood Controls | 191 |
+| This game has Quickly Understood Controls | 192 |
 | This game has Amazing Characters | 191 |
 | This game has Amazing Storytelling | 186 |
 | This game has Obsessive Gameplay | 155 |
@@ -689,3 +689,4 @@ Diff (max vs sum): 57
 | 2023-10-10 | 4.65 | - | 224 | 1,832 |
 | 2023-10-11 | 4.65 | - | 224 | 1,833 |
 | 2023-10-12 | 4.65 | - | 224 | 1,835 |
+| 2023-10-13 | 4.65 | - | 224 | 1,836 |

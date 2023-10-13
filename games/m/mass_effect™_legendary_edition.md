@@ -49,11 +49,11 @@
 | Ghost Ship | 32.00% | ~214 |
 | The Assassin | 32.00% | ~214 |
 | The Justicar | 32.00% | ~214 |
+| Battlemaster | 32.00% | ~214 |
+| The Cure | 32.00% | ~214 |
 | The Prodigal | 32.00% | ~214 |
 | A Personal Touch | 31.00% | ~207 |
-| Battlemaster | 31.00% | ~207 |
 | Ghost of the Father | 31.00% | ~207 |
-| The Cure | 31.00% | ~207 |
 | Big Game Hunter | 31.00% | ~207 |
 | Revenge! | 31.00% | ~207 |
 | Heart of Darkness | 31.00% | ~207 |
@@ -67,13 +67,13 @@
 | Focused | 29.00% | ~194 |
 | Cat's in the Cradle | 29.00% | ~194 |
 | Bringer of War | 29.00% | ~194 |
+| Suicide Mission | 28.00% | ~187 |
 | Friend or Foe | 28.00% | ~187 |
 | Doppelganger | 28.00% | ~187 |
+| Mobilizer | 28.00% | ~187 |
 | First Aid Specialist | 27.00% | ~181 |
 | Mission Accomplished | 27.00% | ~181 |
-| Suicide Mission | 27.00% | ~181 |
 | Against All Odds | 27.00% | ~181 |
-| Mobilizer | 27.00% | ~181 |
 | A House Divided | 26.00% | ~174 |
 | Untouchable | 25.00% | ~167 |
 | Eye of the Hurricane | 25.00% | ~167 |

@@ -5,13 +5,13 @@ Rating: 4.40 (Ranked 720)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~79,739 |
-| Predator I | 22.00% | ~56,589 |
-| Fixer I | 10.00% | ~25,722 |
-| A week in Century City | 10.00% | ~25,722 |
+| Survivor | 31.00% | ~79,740 |
+| Predator I | 22.00% | ~56,590 |
+| Fixer I | 10.00% | ~25,723 |
+| A week in Century City | 10.00% | ~25,723 |
 | The Wait | 7.00% | ~18,006 |
-| Green thumb I | 6.00% | ~15,433 |
-| Cleaning Company | 6.00% | ~15,433 |
+| Green thumb I | 6.00% | ~15,434 |
+| Cleaning Company | 6.00% | ~15,434 |
 | Well-oiled machine | 5.00% | ~12,861 |
 | Saver I | 5.00% | ~12,861 |
 | The Ascent | 4.00% | ~10,289 |
@@ -20,13 +20,13 @@ Rating: 4.40 (Ranked 720)
 | Capitalist I | 4.00% | ~10,289 |
 | Fixer II | 3.00% | ~7,717 |
 | Adrenaline | 3.00% | ~7,717 |
-| By a hair | 2.00% | ~5,144 |
-| It took a while | 2.00% | ~5,144 |
-| Samurai | 2.00% | ~5,144 |
-| I Left You a Present | 2.00% | ~5,144 |
-| Predator II | 2.00% | ~5,144 |
-| Truffle Dog | 2.00% | ~5,144 |
-| A month in Century City | 2.00% | ~5,144 |
+| By a hair | 2.00% | ~5,145 |
+| It took a while | 2.00% | ~5,145 |
+| Samurai | 2.00% | ~5,145 |
+| I Left You a Present | 2.00% | ~5,145 |
+| Predator II | 2.00% | ~5,145 |
+| Truffle Dog | 2.00% | ~5,145 |
+| A month in Century City | 2.00% | ~5,145 |
 | The Strengthening | 1.00% | ~2,572 |
 | Saver II | 1.00% | ~2,572 |
 | It's the last one, I swear | 1.00% | ~2,572 |
@@ -62,7 +62,7 @@ Rating: 4.40 (Ranked 720)
 | Capitalist III | 0.10% | ~257 |
 | Hell Is You | 0.10% | ~257 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 257,222 (Ranked 51)  
+Progressed: 257,226 (Ranked 51)  
 Completed: 3 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 3 (0.00%) (Ranked 314)
 | 2023-10-10 | 257,159 | 3 |
 | 2023-10-11 | 257,176 | 3 |
 | 2023-10-12 | 257,203 | 3 |
-| 2023-10-13 | 257,222 | 3 |
+| 2023-10-13 | 257,226 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 45  (Ranked 425)  
 Sum: 289 (Ranked 351)  

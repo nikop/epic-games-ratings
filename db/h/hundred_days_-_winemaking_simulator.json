@@ -4,11 +4,11 @@
   "ProductSlug": "hundred-days-winemaking-simulator",
   "Ranking_Rating": 773,
   "Ranking_Popularity": 277,
-  "Ranking_PopularitySum": 219,
+  "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 252,
   "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1018,9 +1018,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 7776,
+  "EOS_Progressed": 7777,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1121,
+  "EOS_NewPlayers": 1115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -6228,6 +6228,11 @@
       "Time": "2023-10-13T12:05:31.8458552+00:00",
       "NumProgressed": 7776,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-13T13:11:03.3388913+00:00",
+      "NumProgressed": 7777,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -6487,7 +6492,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 7776,
+      "Progressed": 7777,
       "Completed": 7
     }
   ],
@@ -6495,8 +6500,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-10-10T16:59:22.7446864+00:00",
-  "LastChanged_Achievements": "2023-10-13T12:05:31.8458543+00:00",
+  "LastChanged_Achievements": "2023-10-13T13:11:03.3388901+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:33.0848409+00:00",
-  "LastUpdate_Ratings": "2023-10-13T12:00:25.043923+00:00",
-  "LastUpdate_Achievements": "2023-10-13T12:05:31.8458977+00:00"
+  "LastUpdate_Ratings": "2023-10-13T13:05:52.6755977+00:00",
+  "LastUpdate_Achievements": "2023-10-13T13:11:03.3389479+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 509,
+  "Ranking_Rating": 510,
   "Ranking_Popularity": 355,
   "Ranking_PopularitySum": 433,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 171,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -760,7 +760,7 @@
       "Count": 95
     }
   ],
-  "EOS_Progressed": 10592,
+  "EOS_Progressed": 10594,
   "EOS_Completed": 60,
   "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 1,
@@ -11340,6 +11340,11 @@
       "Time": "2023-10-13T12:07:33.7961951+00:00",
       "NumProgressed": 10592,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-10-13T13:12:42.4957556+00:00",
+      "NumProgressed": 10594,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 34,
@@ -11423,7 +11428,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "ACH11",
@@ -11511,7 +11516,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4872
+      "UsersEstimate": 4873
     },
     {
       "ID": "ACH22",
@@ -11519,7 +11524,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2118
+      "UsersEstimate": 2119
     },
     {
       "ID": "ACH23",
@@ -11567,7 +11572,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "ACH29",
@@ -11622,7 +11627,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10592,
+      "Progressed": 10594,
       "Completed": 60
     }
   ],
@@ -11630,8 +11635,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-10-10T09:59:23.5158922+00:00",
-  "LastChanged_Achievements": "2023-10-13T12:07:33.7961946+00:00",
+  "LastChanged_Achievements": "2023-10-13T13:12:42.4957549+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:33.9086955+00:00",
-  "LastUpdate_Ratings": "2023-10-13T12:01:05.6443973+00:00",
-  "LastUpdate_Achievements": "2023-10-13T12:07:33.7962617+00:00"
+  "LastUpdate_Ratings": "2023-10-13T13:06:23.4395077+00:00",
+  "LastUpdate_Achievements": "2023-10-13T13:12:42.4958445+00:00"
 }

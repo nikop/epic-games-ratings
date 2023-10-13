@@ -4,8 +4,8 @@
   "ProductSlug": "deverse-world-3ccb84",
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-07-12T02:00:00+00:00",
     "PcReleaseDate": "2023-07-12T02:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 421,
+  "EOS_Progressed": 422,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1801,6 +1801,11 @@
       "Time": "2023-10-12T21:09:41.4362458+00:00",
       "NumProgressed": 421,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-13T13:15:39.9253457+00:00",
+      "NumProgressed": 422,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-19T08:04:21.5092334+00:00",
@@ -1829,7 +1834,7 @@
       "Name": "Construct your world",
       "Percentage": 7,
       "XP": 60,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "goblin_slayed",
@@ -1923,9 +1928,9 @@
       "ID": "tireless_explorer",
       "SetID": "5fi1i42",
       "Name": "Tireless Explorer",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 88
+      "UsersEstimate": 93
     },
     {
       "ID": "treant_destroyer",
@@ -1964,14 +1969,14 @@
     {
       "ID": "5fi1i42",
       "IsBase": true,
-      "Progressed": 421,
+      "Progressed": 422,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-12T15:57:01.7070767+00:00",
   "FirstSeenAchievements": "2023-07-18T16:05:27.8243884+00:00",
-  "LastChanged_Achievements": "2023-10-13T12:09:48.5862428+00:00",
+  "LastChanged_Achievements": "2023-10-13T13:15:39.9253443+00:00",
   "LastUpdate_AppInfo": "2023-10-12T13:02:56.6821044+00:00",
-  "LastUpdate_Ratings": "2023-10-13T12:00:23.4873463+00:00",
-  "LastUpdate_Achievements": "2023-10-13T12:09:48.5862614+00:00"
+  "LastUpdate_Ratings": "2023-10-13T13:05:51.2236087+00:00",
+  "LastUpdate_Achievements": "2023-10-13T13:15:39.9253726+00:00"
 }

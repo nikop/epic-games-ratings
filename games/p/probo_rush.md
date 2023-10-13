@@ -12,15 +12,15 @@
 | BOSS 10 | 100.00% | ~1 |
 | BOSS 11 | 100.00% | ~1 |
 | BOSS 12 | 100.00% | ~1 |
+| BOSS 13 | 100.00% | ~1 |
+| BOSS 14 | 100.00% | ~1 |
+| BOSS 15 | 100.00% | ~1 |
 | BOSS 4 | 100.00% | ~1 |
 | BOSS 5 | 100.00% | ~1 |
 | BOSS 6 | 100.00% | ~1 |
 | BOSS 8 | 100.00% | ~1 |
 | BOSS 9 | 100.00% | ~1 |
 | GOD GAMER | 100.00% | ~1 |
-| BOSS 13 | 0.00% | ~0 |
-| BOSS 14 | 0.00% | ~0 |
-| BOSS 15 | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1 (Ranked 615)  
 Completed: 1 (100.00%) (Ranked 1)  

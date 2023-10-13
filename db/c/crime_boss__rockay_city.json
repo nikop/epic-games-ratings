@@ -3,12 +3,12 @@
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 978,
-  "Ranking_Popularity": 206,
+  "Ranking_Popularity": 204,
   "Ranking_PopularitySum": 192,
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -3928,11 +3928,17 @@
       "Rating": 3.94,
       "NumberOfAwards": 2329,
       "NumberOfAwardsMax": 488
+    },
+    {
+      "Time": "2023-10-13T13:04:23.0311058+00:00",
+      "Rating": 3.94,
+      "NumberOfAwards": 2333,
+      "NumberOfAwardsMax": 490
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 2329,
-  "NumberOfAwardsMax": 488,
+  "NumberOfAwards": 2333,
+  "NumberOfAwardsMax": 490,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -3945,7 +3951,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 488
+      "Count": 490
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3957,7 +3963,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 473
+      "Count": 475
     },
     {
       "Text": "This game has Challenging Combat",
@@ -3984,7 +3990,7 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 89026,
+  "EOS_Progressed": 89027,
   "EOS_Completed": 49,
   "EOS_NewPlayers": 215,
   "EOS_NewCompleters": 1,
@@ -22004,6 +22010,11 @@
       "Time": "2023-10-13T12:07:32.7268013+00:00",
       "NumProgressed": 89026,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-13T13:12:41.5644196+00:00",
+      "NumProgressed": 89027,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 41,
@@ -22342,22 +22353,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 89026,
+      "Progressed": 89027,
       "Completed": 49
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 17373,
+      "Progressed": 17374,
       "Completed": 15545
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-10-11T18:57:58.8397663+00:00",
-  "LastChanged_Achievements": "2023-10-13T12:07:32.7268008+00:00",
+  "LastChanged": "2023-10-13T13:04:23.0311057+00:00",
+  "LastChanged_Achievements": "2023-10-13T13:12:41.5644187+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:16.9897613+00:00",
-  "LastUpdate_Ratings": "2023-10-13T11:58:38.8213629+00:00",
-  "LastUpdate_Achievements": "2023-10-13T12:07:32.726911+00:00"
+  "LastUpdate_Ratings": "2023-10-13T13:04:23.0311061+00:00",
+  "LastUpdate_Achievements": "2023-10-13T13:12:41.5645632+00:00"
 }

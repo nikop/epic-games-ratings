@@ -6,16 +6,16 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~69,696 |
-| Powergamer | 27.00% | ~67,207 |
-| Barely scratched the surface | 25.00% | ~62,228 |
-| Write that down | 24.00% | ~59,739 |
+| I will finish what you started | 28.00% | ~69,697 |
+| Powergamer | 27.00% | ~67,208 |
+| Barely scratched the surface | 25.00% | ~62,230 |
+| Write that down | 24.00% | ~59,741 |
 | Guns, lots of guns | 13.00% | ~32,359 |
 | Collector | 12.00% | ~29,870 |
-| Elementary! | 9.00% | ~22,402 |
-| Griever | 8.00% | ~19,913 |
-| Pumpkin Jack | 8.00% | ~19,913 |
-| Wake up! | 8.00% | ~19,913 |
+| Elementary! | 9.00% | ~22,403 |
+| Griever | 8.00% | ~19,914 |
+| Pumpkin Jack | 8.00% | ~19,914 |
+| Wake up! | 8.00% | ~19,914 |
 | It's honest work | 7.00% | ~17,424 |
 | Me smart | 6.00% | ~14,935 |
 | Trash compactor | 6.00% | ~14,935 |
@@ -24,9 +24,9 @@ Number of Ratings: 33  (23.09.2022)
 | BOY! | 4.00% | ~9,957 |
 | Ka-ching! | 4.00% | ~9,957 |
 | So you like to read? | 4.00% | ~9,957 |
-| Hoarder | 3.00% | ~7,467 |
-| I like to sniff around | 3.00% | ~7,467 |
-| Mind reader | 3.00% | ~7,467 |
+| Hoarder | 3.00% | ~7,468 |
+| I like to sniff around | 3.00% | ~7,468 |
+| Mind reader | 3.00% | ~7,468 |
 | Catnip | 2.00% | ~4,978 |
 | Gentleman's classic | 2.00% | ~4,978 |
 | Is that a rift? | 2.00% | ~4,978 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~498 |
 | Memory 5 | 0.10% | ~249 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248,913 (Ranked 53)  
+Progressed: 248,919 (Ranked 53)  
 Completed: 7 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,7 +235,7 @@ Completed: 7 (0.00%) (Ranked 314)
 | 2023-10-10 | 248,676 | 7 |
 | 2023-10-11 | 248,764 | 7 |
 | 2023-10-12 | 248,866 | 7 |
-| 2023-10-13 | 248,913 | 7 |
+| 2023-10-13 | 248,919 | 7 |
 ## Awards
 Max (Character Customization): 83  (Ranked 369)  
 Sum: 83 (Ranked 441)  

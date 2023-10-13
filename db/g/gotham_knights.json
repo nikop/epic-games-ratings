@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3500,9 +3500,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73461,
+  "EOS_Progressed": 73462,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 256,
+  "EOS_NewPlayers": 257,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -18520,6 +18520,11 @@
       "Time": "2023-10-13T11:04:17.7757549+00:00",
       "NumProgressed": 73461,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-10-13T13:10:22.1551639+00:00",
+      "NumProgressed": 73462,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 61,
@@ -18627,7 +18632,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 12488
+      "UsersEstimate": 12489
     },
     {
       "ID": "CLAYFACE_1",
@@ -18715,7 +18720,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6611
+      "UsersEstimate": 6612
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -18835,7 +18840,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25711
+      "UsersEstimate": 25712
     },
     {
       "ID": "HARLEY_2",
@@ -18843,7 +18848,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18365
+      "UsersEstimate": 18366
     },
     {
       "ID": "HARLEY_3",
@@ -18931,7 +18936,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18365
+      "UsersEstimate": 18366
     },
     {
       "ID": "MYSTERY_03",
@@ -18995,7 +19000,7 @@
       "Name": "Solid Alibi",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6611
+      "UsersEstimate": 6612
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -19018,22 +19023,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73461,
+      "Progressed": 73462,
       "Completed": 121
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43741,
-      "Completed": 2666
+      "Progressed": 43742,
+      "Completed": 2667
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-13T01:42:24.3885942+00:00",
-  "LastChanged_Achievements": "2023-10-13T12:04:41.7047693+00:00",
+  "LastChanged_Achievements": "2023-10-13T13:10:22.1551632+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:31.3761181+00:00",
-  "LastUpdate_Ratings": "2023-10-13T11:57:47.1873317+00:00",
-  "LastUpdate_Achievements": "2023-10-13T12:04:41.7048833+00:00"
+  "LastUpdate_Ratings": "2023-10-13T13:03:40.8918171+00:00",
+  "LastUpdate_Achievements": "2023-10-13T13:10:22.1553155+00:00"
 }

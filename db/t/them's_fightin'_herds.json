@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -256,9 +256,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 230960,
+  "EOS_Progressed": 230964,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 314,
+  "EOS_NewPlayers": 318,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18446,6 +18446,11 @@
       "Time": "2023-10-13T12:03:44.9280249+00:00",
       "NumProgressed": 230960,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-13T13:09:36.3278717+00:00",
+      "NumProgressed": 230964,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -18521,7 +18526,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 83146
+      "UsersEstimate": 83147
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -18601,7 +18606,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 78526
+      "UsersEstimate": 78528
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -18617,7 +18622,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 50811
+      "UsersEstimate": 50812
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -18657,7 +18662,7 @@
       "Name": "Makin\u0027 Bacon",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 9238
+      "UsersEstimate": 9239
     },
     {
       "ID": "WIN_1_ONLINE_MATCH",
@@ -18665,7 +18670,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 39263
+      "UsersEstimate": 39264
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -18680,7 +18685,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 230960,
+      "Progressed": 230964,
       "Completed": 5
     }
   ],
@@ -18688,8 +18693,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-10-04T16:59:35.8231734+00:00",
-  "LastChanged_Achievements": "2023-10-13T12:03:44.9280244+00:00",
+  "LastChanged_Achievements": "2023-10-13T13:09:36.3278709+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:32.3872151+00:00",
-  "LastUpdate_Ratings": "2023-10-13T11:59:12.1337175+00:00",
-  "LastUpdate_Achievements": "2023-10-13T12:03:44.9281342+00:00"
+  "LastUpdate_Ratings": "2023-10-13T13:04:53.1385907+00:00",
+  "LastUpdate_Achievements": "2023-10-13T13:09:36.3280141+00:00"
 }

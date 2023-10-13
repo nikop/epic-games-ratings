@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -2086,9 +2086,9 @@
       "ID": "achievement_40",
       "SetID": "b9pe172",
       "Name": "Suicide Mission",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 187
     },
     {
       "ID": "achievement_41",
@@ -2190,9 +2190,9 @@
       "ID": "achievement_52",
       "SetID": "d252ncf",
       "Name": "Battlemaster",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 207
+      "UsersEstimate": 214
     },
     {
       "ID": "achievement_53",
@@ -2238,9 +2238,9 @@
       "ID": "achievement_58",
       "SetID": "d252ncf",
       "Name": "The Cure",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 207
+      "UsersEstimate": 214
     },
     {
       "ID": "achievement_59",
@@ -2446,9 +2446,9 @@
       "ID": "achievement_81",
       "SetID": "d252ncf",
       "Name": "Mobilizer",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 187
     },
     {
       "ID": "achievement_82",
@@ -2618,8 +2618,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-13T12:03:59.5128251+00:00",
+  "LastChanged_Achievements": "2023-10-13T13:09:48.1773066+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:40.7255751+00:00",
-  "LastUpdate_Ratings": "2023-10-13T11:59:42.2816246+00:00",
-  "LastUpdate_Achievements": "2023-10-13T12:03:59.5130022+00:00"
+  "LastUpdate_Ratings": "2023-10-13T13:05:18.6444699+00:00",
+  "LastUpdate_Achievements": "2023-10-13T13:09:48.1775517+00:00"
 }

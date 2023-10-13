@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 252,
   "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-03-29T13:00:00+00:00",
     "PcReleaseDate": "2023-03-29T13:00:00+00:00",
@@ -276,9 +276,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 20250,
+  "EOS_Progressed": 20251,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -7116,6 +7116,11 @@
       "Time": "2023-10-13T10:03:24.1566226+00:00",
       "NumProgressed": 20250,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-10-13T13:09:35.0727263+00:00",
+      "NumProgressed": 20251,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 13,
@@ -7151,7 +7156,7 @@
       "Name": "Forming bonds",
       "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "MeetElder",
@@ -7183,7 +7188,7 @@
       "Name": "Vertebrate hunter",
       "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "PickupChitin",
@@ -7199,7 +7204,7 @@
       "Name": "The Key",
       "Percentage": 0.2,
       "XP": 150,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "PickupMetalPiece",
@@ -7230,7 +7235,7 @@
     {
       "ID": "3c9im16",
       "IsBase": true,
-      "Progressed": 20250,
+      "Progressed": 20251,
       "Completed": 18
     }
   ],
@@ -7238,8 +7243,8 @@
   "FirstSeenRating": "2023-03-31T05:57:29.8298127+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.2502922+00:00",
   "LastChanged": "2023-10-02T22:58:00.7545639+00:00",
-  "LastChanged_Achievements": "2023-10-13T12:03:43.3137764+00:00",
+  "LastChanged_Achievements": "2023-10-13T13:09:35.0727256+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:08.1675596+00:00",
-  "LastUpdate_Ratings": "2023-10-13T11:58:25.815552+00:00",
-  "LastUpdate_Achievements": "2023-10-13T12:03:43.3138291+00:00"
+  "LastUpdate_Ratings": "2023-10-13T13:04:13.30386+00:00",
+  "LastUpdate_Achievements": "2023-10-13T13:09:35.0727888+00:00"
 }

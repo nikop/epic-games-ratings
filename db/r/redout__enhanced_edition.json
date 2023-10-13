@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 287,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -334,9 +334,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 233538,
+  "EOS_Progressed": 233540,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 389,
+  "EOS_NewPlayers": 390,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -18854,6 +18854,11 @@
       "Time": "2023-10-13T12:06:17.6199433+00:00",
       "NumProgressed": 233538,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-10-13T13:11:39.5749157+00:00",
+      "NumProgressed": 233540,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 34,
@@ -19025,7 +19030,7 @@
       "Name": "ON A ROLL",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 21018
+      "UsersEstimate": 21019
     },
     {
       "ID": "PHOTOFINISH",
@@ -19089,7 +19094,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 51378
+      "UsersEstimate": 51379
     },
     {
       "ID": "TACTICIAN",
@@ -19113,7 +19118,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 51378
+      "UsersEstimate": 51379
     },
     {
       "ID": "TUNINGMANIAC",
@@ -19136,15 +19141,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 233538,
+      "Progressed": 233540,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-10-13T12:06:17.6199428+00:00",
+  "LastChanged_Achievements": "2023-10-13T13:11:39.574915+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:05.8840873+00:00",
-  "LastUpdate_Ratings": "2023-10-13T12:01:42.1452684+00:00",
-  "LastUpdate_Achievements": "2023-10-13T12:06:17.6200483+00:00"
+  "LastUpdate_Ratings": "2023-10-13T13:06:52.1996475+00:00",
+  "LastUpdate_Achievements": "2023-10-13T13:11:39.5750589+00:00"
 }

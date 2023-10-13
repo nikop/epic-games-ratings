@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Noctuan Champion | 28.00% | ~15 |
+| Noctuan Champion | 30.00% | ~16 |
+| Apian Champion | 26.00% | ~14 |
+| Eridanian Champion | 26.00% | ~14 |
+| Lacertian Champion | 26.00% | ~14 |
 | Endless Tricks | 25.00% | ~13 |
-| Apian Champion | 25.00% | ~13 |
-| Eridanian Champion | 25.00% | ~13 |
-| Lacertian Champion | 25.00% | ~13 |
 | Dicesmithing Time! | 23.00% | ~12 |
 | Meissa's Savior | 23.00% | ~12 |
 | Sanctuary Guardian | 23.00% | ~12 |
@@ -18,11 +18,11 @@
 | Mind Illuminator | 21.00% | ~11 |
 | Purification Pioneer | 21.00% | ~11 |
 | Stellar Dismantler | 21.00% | ~11 |
+| Behenian Champion | 21.00% | ~11 |
 | Anomaly Destroyer | 19.00% | ~10 |
 | Shard Spender | 19.00% | ~10 |
-| Behenian Champion | 19.00% | ~10 |
+| Aquarian Champion | 17.00% | ~9 |
 | Star Killer | 15.00% | ~8 |
-| Aquarian Champion | 15.00% | ~8 |
 | Heart Gate | 13.00% | ~7 |
 | Astral Adventurer | 11.00% | ~6 |
 | Astral Seeker | 11.00% | ~6 |
@@ -36,6 +36,7 @@
 | Anomaly Control | 8.00% | ~4 |
 | Heavy Purger | 8.00% | ~4 |
 | Apian Hero | 8.00% | ~4 |
+| Lacertian Hero | 8.00% | ~4 |
 | Can't touch this | 6.00% | ~3 |
 | Denying Destiny | 6.00% | ~3 |
 | Purification Avatar | 6.00% | ~3 |
@@ -44,7 +45,6 @@
 | The Distorted Sage | 6.00% | ~3 |
 | Behenian Hero | 6.00% | ~3 |
 | Behenian Mastery | 6.00% | ~3 |
-| Lacertian Hero | 6.00% | ~3 |
 | Artificer | 4.00% | ~2 |
 | Astrarium of Holding | 4.00% | ~2 |
 | If I Had Failed... | 4.00% | ~2 |

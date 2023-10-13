@@ -10,16 +10,16 @@ Rating: 4.57 (Ranked 454)
 | Insect hunter | 3.00% | ~608 |
 | Stone Age | 3.00% | ~608 |
 | Safe! | 2.00% | ~405 |
-| Forming bonds | 1.00% | ~202 |
-| Vertebrate hunter | 1.00% | ~202 |
+| Forming bonds | 1.00% | ~203 |
+| Vertebrate hunter | 1.00% | ~203 |
 | Smooth as silk | 0.90% | ~182 |
 | Metal Age | 0.60% | ~122 |
 | Hang time | 0.50% | ~101 |
 | Mastermind | 0.50% | ~101 |
 | Something Wicked | 0.30% | ~61 |
-| The Key | 0.20% | ~40 |
+| The Key | 0.20% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,250 (Ranked 124)  
+Progressed: 20,251 (Ranked 124)  
 Completed: 18 (0.09%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 18 (0.09%) (Ranked 252)
 | 2023-10-10 | 20,242 | 18 |
 | 2023-10-11 | 20,245 | 18 |
 | 2023-10-12 | 20,248 | 18 |
-| 2023-10-13 | 20,250 | 18 |
+| 2023-10-13 | 20,251 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

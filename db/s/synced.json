@@ -3,7 +3,7 @@
   "Name": "SYNCED",
   "ProductSlug": "synced",
   "Ranking_Rating": 908,
-  "Ranking_Popularity": 395,
+  "Ranking_Popularity": 396,
   "Ranking_PopularitySum": 364,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 287,
@@ -586,10 +586,16 @@
       "Rating": 4.16,
       "NumberOfAwards": 257,
       "NumberOfAwardsMax": 66
+    },
+    {
+      "Time": "2023-10-13T13:06:34.7185098+00:00",
+      "Rating": 4.16,
+      "NumberOfAwards": 259,
+      "NumberOfAwardsMax": 66
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 257,
+  "NumberOfAwards": 259,
   "NumberOfAwardsMax": 66,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -633,7 +639,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 24
+      "Count": 26
     },
     {
       "Text": "This game is Extremely Fun",
@@ -642,9 +648,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 62832,
+  "EOS_Progressed": 62839,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 1534,
+  "EOS_NewPlayers": 1528,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -4977,6 +4983,11 @@
       "Time": "2023-10-13T12:10:06.1466433+00:00",
       "NumProgressed": 62832,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-10-13T13:15:45.5831674+00:00",
+      "NumProgressed": 62839,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -4989,7 +5000,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 18850
+      "UsersEstimate": 18852
     },
     {
       "ID": "10",
@@ -5037,7 +5048,7 @@
       "Name": "Gone Rogue",
       "Percentage": 0.3,
       "XP": 80,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "16",
@@ -5045,7 +5056,7 @@
       "Name": "Completely Customizable",
       "Percentage": 0.3,
       "XP": 80,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "2",
@@ -5053,7 +5064,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 10053
+      "UsersEstimate": 10054
     },
     {
       "ID": "3",
@@ -5061,7 +5072,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 7540
+      "UsersEstimate": 7541
     },
     {
       "ID": "4",
@@ -5069,7 +5080,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 5655
+      "UsersEstimate": 5656
     },
     {
       "ID": "5",
@@ -5116,16 +5127,16 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 62832,
+      "Progressed": 62839,
       "Completed": 15
     }
   ],
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged": "2023-10-13T12:01:20.2306545+00:00",
-  "LastChanged_Achievements": "2023-10-13T12:10:06.1466428+00:00",
+  "LastChanged": "2023-10-13T13:06:34.7185096+00:00",
+  "LastChanged_Achievements": "2023-10-13T13:15:45.5831665+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:18.5160199+00:00",
-  "LastUpdate_Ratings": "2023-10-13T12:01:20.230655+00:00",
-  "LastUpdate_Achievements": "2023-10-13T12:10:06.1466734+00:00"
+  "LastUpdate_Ratings": "2023-10-13T13:06:34.7185101+00:00",
+  "LastUpdate_Achievements": "2023-10-13T13:15:45.5832049+00:00"
 }
