@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7334,
+  "EOS_Progressed": 7335,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -4949,6 +4949,11 @@
       "Time": "2023-10-13T18:05:45.6460223+00:00",
       "NumProgressed": 7334,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-10-13T19:06:38.2423825+00:00",
+      "NumProgressed": 7335,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 27,
@@ -4992,7 +4997,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3887
+      "UsersEstimate": 3888
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -5008,7 +5013,7 @@
       "Name": "Hopes Hoisted",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1613
+      "UsersEstimate": 1614
     },
     {
       "ID": "AK_IRONS_SCORCHED",
@@ -5048,7 +5053,7 @@
       "Name": "A Learned Scholar",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 953
+      "UsersEstimate": 954
     },
     {
       "ID": "AK_ON_TOWN",
@@ -5072,7 +5077,7 @@
       "Name": "Prophecy Fulfilled",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 953
+      "UsersEstimate": 954
     },
     {
       "ID": "AK_PYRE_IGNITED",
@@ -5112,7 +5117,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4107
+      "UsersEstimate": 4108
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -5168,22 +5173,22 @@
       "Name": "Worthy of the Title",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1393
+      "UsersEstimate": 1394
     }
   ],
   "AchievementSets": [
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7334,
+      "Progressed": 7335,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-08-27T09:59:24.0528306+00:00",
-  "LastChanged_Achievements": "2023-10-13T18:05:45.6460218+00:00",
+  "LastChanged_Achievements": "2023-10-13T19:06:38.2423815+00:00",
   "LastUpdate_AppInfo": "2023-10-07T11:57:11.1457517+00:00",
-  "LastUpdate_Ratings": "2023-10-13T17:59:23.8105527+00:00",
-  "LastUpdate_Achievements": "2023-10-13T18:05:45.646068+00:00"
+  "LastUpdate_Ratings": "2023-10-13T18:59:54.9402817+00:00",
+  "LastUpdate_Achievements": "2023-10-13T19:06:38.2424514+00:00"
 }

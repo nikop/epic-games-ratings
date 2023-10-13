@@ -17,7 +17,7 @@ Number of Ratings: 54  (23.09.2022)
 | Paranoia | 16.00% | ~204 |
 | Double agent | 15.00% | ~192 |
 | Kraina Grzybow | 10.00% | ~128 |
-| Love Guru | 9.00% | ~115 |
+| Love Guru | 10.00% | ~128 |
 | Savant | 9.00% | ~115 |
 | Bustin' nuts | 8.00% | ~102 |
 | Not-so-private Eye | 8.00% | ~102 |
@@ -30,8 +30,8 @@ Number of Ratings: 54  (23.09.2022)
 | Wishmaster | 3.00% | ~38 |
 | Career criminal | 2.00% | ~26 |
 | Neanderthal | 2.00% | ~26 |
+| Cosmic Horror | 2.00% | ~26 |
 | It was worth a shot | 1.00% | ~13 |
-| Cosmic Horror | 1.00% | ~13 |
 | Ghostbuster | 0.70% | ~9 |
 | Comrade Yogi | 0.50% | ~6 |
 | Tourist Korallov | 0.50% | ~6 |

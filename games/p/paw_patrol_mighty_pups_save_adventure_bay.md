@@ -4,38 +4,38 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mighty Powers | 78.00% | ~25 |
-| Grand Re-Opening | 69.00% | ~22 |
-| Pup Pup Boogie | 66.00% | ~21 |
-| Summer Day | 66.00% | ~21 |
-| Mr. Porter | 56.00% | ~18 |
-| Risky Rescue | 53.00% | ~17 |
-| Carlos Is Tangled | 50.00% | ~16 |
-| Mandy Family | 44.00% | ~14 |
-| Break Time | 34.00% | ~11 |
-| Paw patrol member | 34.00% | ~11 |
-| Robot Out of Control | 34.00% | ~11 |
-| Clear the Road | 31.00% | ~10 |
-| Master of the Rope | 28.00% | ~9 |
-| Training Day | 28.00% | ~9 |
-| The Fastest | 28.00% | ~9 |
-| Never Miss | 28.00% | ~9 |
-| Adventure Bay’s Citizen | 28.00% | ~9 |
-| Don’t Miss Any | 25.00% | ~8 |
-| In the Air | 22.00% | ~7 |
-| Animal Sighting | 22.00% | ~7 |
-| Mountain and Ice | 22.00% | ~7 |
-| You Have Been Everywhere | 19.00% | ~6 |
-| Everything Under Control | 16.00% | ~5 |
-| A Great Explorer | 13.00% | ~4 |
-| Nothing Can Stop You | 13.00% | ~4 |
+| Mighty Powers | 76.00% | ~25 |
+| Grand Re-Opening | 67.00% | ~22 |
+| Pup Pup Boogie | 64.00% | ~21 |
+| Summer Day | 64.00% | ~21 |
+| Mr. Porter | 55.00% | ~18 |
+| Risky Rescue | 52.00% | ~17 |
+| Carlos Is Tangled | 48.00% | ~16 |
+| Mandy Family | 42.00% | ~14 |
+| Break Time | 33.00% | ~11 |
+| Paw patrol member | 33.00% | ~11 |
+| Robot Out of Control | 33.00% | ~11 |
+| Clear the Road | 30.00% | ~10 |
+| Master of the Rope | 27.00% | ~9 |
+| Training Day | 27.00% | ~9 |
+| The Fastest | 27.00% | ~9 |
+| Never Miss | 27.00% | ~9 |
+| Adventure Bay’s Citizen | 27.00% | ~9 |
+| Don’t Miss Any | 24.00% | ~8 |
+| In the Air | 21.00% | ~7 |
+| Animal Sighting | 21.00% | ~7 |
+| Mountain and Ice | 21.00% | ~7 |
+| You Have Been Everywhere | 18.00% | ~6 |
+| Everything Under Control | 15.00% | ~5 |
+| A Great Explorer | 12.00% | ~4 |
+| Nothing Can Stop You | 12.00% | ~4 |
 | King of the Mountain | 6.00% | ~2 |
 | Air Ace | 0.00% | ~0 |
 | You Know Them All | 0.00% | ~0 |
 | The Collector | 0.00% | ~0 |
 | Pup Treat Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32 (Ranked 467)  
+Progressed: 33 (Ranked 467)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,6 +68,7 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-09-30 | 30 | 0 |
 | 2023-10-05 | 31 | 0 |
 | 2023-10-07 | 32 | 0 |
+| 2023-10-13 | 33 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

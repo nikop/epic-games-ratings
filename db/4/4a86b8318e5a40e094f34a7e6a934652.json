@@ -787,9 +787,9 @@
       "ID": "BRING_MARY",
       "SetID": "aniflfk",
       "Name": "Retro Diva",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 50,
-      "UsersEstimate": 119
+      "UsersEstimate": 121
     },
     {
       "ID": "BRING_PROSPERO",
@@ -938,8 +938,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-10-13T18:07:21.6375514+00:00",
+  "LastChanged_Achievements": "2023-10-13T19:08:21.1699585+00:00",
   "LastUpdate_AppInfo": "2023-10-11T15:57:05.2435729+00:00",
-  "LastUpdate_Ratings": "2023-10-13T17:58:11.4197645+00:00",
-  "LastUpdate_Achievements": "2023-10-13T18:07:21.6375694+00:00"
+  "LastUpdate_Ratings": "2023-10-13T18:58:36.1250558+00:00",
+  "LastUpdate_Achievements": "2023-10-13T19:08:21.1699972+00:00"
 }

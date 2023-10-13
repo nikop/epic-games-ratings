@@ -6,12 +6,12 @@ Rating: 4.56 (Ranked 473)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 28.00% | ~902 |
-| Sputnik 2049 | 25.00% | ~805 |
+| Sputnik 2049 | 25.00% | ~806 |
 | Without Breaking Some Eggs... | 23.00% | ~741 |
 | Infinite Growth... | 23.00% | ~741 |
 | Ready for a New World | 17.00% | ~548 |
-| Space Society | 16.00% | ~515 |
-| A Thousand Strong | 16.00% | ~515 |
+| Space Society | 16.00% | ~516 |
+| A Thousand Strong | 16.00% | ~516 |
 | Permanent Redesigns | 14.00% | ~451 |
 | Fully Recycled | 13.00% | ~419 |
 | The Ship of Theseus | 13.00% | ~419 |
@@ -24,8 +24,8 @@ Rating: 4.56 (Ranked 473)
 | Man's Best Friend | 8.00% | ~258 |
 | Power Outage | 8.00% | ~258 |
 | Please Make it Stop! | 8.00% | ~258 |
-| Sightseeing | 7.00% | ~225 |
-| Convenient Transport | 7.00% | ~225 |
+| Sightseeing | 7.00% | ~226 |
+| Convenient Transport | 7.00% | ~226 |
 | Access Granted | 6.00% | ~193 |
 | Necessary Enhancement | 6.00% | ~193 |
 | From the Past | 6.00% | ~193 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 473)
 | I Give You the Stars | 0.10% | ~1 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,221 (Ranked 189)  
+Progressed: 3,222 (Ranked 189)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,7 +233,7 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-10-09 | 3,217 | 0 |
 | 2023-10-10 | 3,218 | 0 |
 | 2023-10-11 | 3,220 | 0 |
-| 2023-10-13 | 3,221 | 0 |
+| 2023-10-13 | 3,222 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

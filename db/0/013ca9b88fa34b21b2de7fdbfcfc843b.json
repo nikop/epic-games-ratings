@@ -118,7 +118,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6571,
+  "EOS_Progressed": 6572,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 432,
   "EOS_NewCompleters": 0,
@@ -4153,6 +4153,11 @@
       "Time": "2023-10-13T18:03:52.3060465+00:00",
       "NumProgressed": 6571,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-13T19:04:37.3315376+00:00",
+      "NumProgressed": 6572,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -4165,7 +4170,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 4797
+      "UsersEstimate": 4798
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -4253,7 +4258,7 @@
       "Name": "Lumberjack",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 1708
+      "UsersEstimate": 1709
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -4269,7 +4274,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 3154
+      "UsersEstimate": 3155
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -4301,7 +4306,7 @@
       "Name": "Humble Collector",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 2694
+      "UsersEstimate": 2695
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -4325,7 +4330,7 @@
       "Name": "Mist Walker",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1971
+      "UsersEstimate": 1972
     },
     {
       "ID": "DISPATCH_JUMBLES",
@@ -4389,7 +4394,7 @@
       "Name": "Botanical Breakthrough",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1051
+      "UsersEstimate": 1052
     },
     {
       "ID": "SPEND_FIRSTYEAR",
@@ -4444,7 +4449,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 6571,
+      "Progressed": 6572,
       "Completed": 0
     }
   ],
@@ -4452,8 +4457,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-12T12:03:13.8462755+00:00",
-  "LastChanged_Achievements": "2023-10-13T18:03:52.306046+00:00",
+  "LastChanged_Achievements": "2023-10-13T19:04:37.3315369+00:00",
   "LastUpdate_AppInfo": "2023-10-13T06:57:01.9287951+00:00",
-  "LastUpdate_Ratings": "2023-10-13T17:57:35.3507199+00:00",
-  "LastUpdate_Achievements": "2023-10-13T18:03:52.3060975+00:00"
+  "LastUpdate_Ratings": "2023-10-13T18:57:59.7798274+00:00",
+  "LastUpdate_Achievements": "2023-10-13T19:04:37.3315972+00:00"
 }

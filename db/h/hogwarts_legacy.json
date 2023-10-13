@@ -8842,10 +8842,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 45702,
       "NumberOfAwardsMax": 23469
+    },
+    {
+      "Time": "2023-10-13T19:01:17.9035719+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 45715,
+      "NumberOfAwardsMax": 23469
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 45702,
+  "NumberOfAwards": 45715,
   "NumberOfAwardsMax": 23469,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8871,7 +8877,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1086
+      "Count": 1090
     },
     {
       "Text": "This game is Great for Beginners",
@@ -8883,7 +8889,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1120
+      "Count": 1129
     },
     {
       "Text": "This game has Diverse Characters",
@@ -8922,7 +8928,7 @@
       "Count": 710
     }
   ],
-  "EOS_Progressed": 298245,
+  "EOS_Progressed": 298247,
   "EOS_Completed": 485,
   "EOS_NewPlayers": 345,
   "EOS_NewCompleters": 4,
@@ -27807,6 +27813,11 @@
       "Time": "2023-10-13T18:04:25.3465882+00:00",
       "NumProgressed": 298245,
       "NumCompleted": 485
+    },
+    {
+      "Time": "2023-10-13T19:05:12.4183104+00:00",
+      "NumProgressed": 298247,
+      "NumCompleted": 485
     }
   ],
   "TotalAchievements": 45,
@@ -27826,7 +27837,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29824
+      "UsersEstimate": 29825
     },
     {
       "ID": "PFA_11",
@@ -27834,7 +27845,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 29824
+      "UsersEstimate": 29825
     },
     {
       "ID": "PFA_12",
@@ -27850,7 +27861,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 29824
+      "UsersEstimate": 29825
     },
     {
       "ID": "PFA_14",
@@ -27922,7 +27933,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29824
+      "UsersEstimate": 29825
     },
     {
       "ID": "PFA_22",
@@ -27938,7 +27949,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35789
+      "UsersEstimate": 35790
     },
     {
       "ID": "PFA_24",
@@ -28162,7 +28173,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 35789
+      "UsersEstimate": 35790
     },
     {
       "ID": "PFA_9",
@@ -28177,16 +28188,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298245,
+      "Progressed": 298247,
       "Completed": 485
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-10-13T01:44:37.0244788+00:00",
-  "LastChanged_Achievements": "2023-10-13T18:04:25.3465877+00:00",
+  "LastChanged": "2023-10-13T19:01:17.9035716+00:00",
+  "LastChanged_Achievements": "2023-10-13T19:05:12.4183096+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:01.0338203+00:00",
-  "LastUpdate_Ratings": "2023-10-13T18:00:37.9353983+00:00",
-  "LastUpdate_Achievements": "2023-10-13T18:04:25.3467334+00:00"
+  "LastUpdate_Ratings": "2023-10-13T19:01:17.9035725+00:00",
+  "LastUpdate_Achievements": "2023-10-13T19:05:12.4185509+00:00"
 }

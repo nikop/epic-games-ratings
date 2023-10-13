@@ -2,12 +2,12 @@
   "ID": "a17cc66c3a3c4d75875febf281c73fd2",
   "Name": "BLACKTAIL",
   "ProductSlug": "blacktail",
-  "Ranking_Rating": 260,
+  "Ranking_Rating": 261,
   "Ranking_Popularity": 535,
   "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 289,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -74,7 +74,7 @@
   "Tags": [],
   "EOS_Progressed": 706,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -2251,8 +2251,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-10-11T21:03:46.8828246+00:00",
-  "LastChanged_Achievements": "2023-10-13T18:03:28.6415937+00:00",
+  "LastChanged_Achievements": "2023-10-13T19:04:12.2635082+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:57.4837603+00:00",
-  "LastUpdate_Ratings": "2023-10-13T17:57:43.0321778+00:00",
-  "LastUpdate_Achievements": "2023-10-13T18:03:28.6416282+00:00"
+  "LastUpdate_Ratings": "2023-10-13T18:58:10.1893496+00:00",
+  "LastUpdate_Achievements": "2023-10-13T19:04:12.2635464+00:00"
 }

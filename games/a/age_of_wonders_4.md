@@ -12,6 +12,7 @@ Rating: 4.60 (Ranked 397)
 | From Friends to Family | 7.00% | ~365 |
 | Tipping the Scales | 7.00% | ~365 |
 | There Can Only Be One! | 6.00% | ~313 |
+| Full Ascension | 6.00% | ~313 |
 | Bone Peddler | 6.00% | ~313 |
 | Stronger Together | 6.00% | ~313 |
 | Magical Synergy | 6.00% | ~313 |
@@ -19,7 +20,6 @@ Rating: 4.60 (Ranked 397)
 | Seat of Power | 6.00% | ~313 |
 | Intimidation Tactics | 6.00% | ~313 |
 | Mighty Hoard | 6.00% | ~313 |
-| Full Ascension | 5.00% | ~261 |
 | In a Liege of Your Own | 5.00% | ~261 |
 | Fiery Friend | 5.00% | ~261 |
 | Against the Odds | 5.00% | ~261 |
@@ -56,7 +56,7 @@ Rating: 4.60 (Ranked 397)
 | Master of Evilness | 0.10% | ~5 |
 | The Grey Wizard | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,213 (Ranked 172)  
+Progressed: 5,215 (Ranked 172)  
 Completed: 6 (0.12%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,6 +204,7 @@ Completed: 6 (0.12%) (Ranked 240)
 | 2023-10-10 | 5,210 | 6 |
 | 2023-10-11 | 5,211 | 6 |
 | 2023-10-12 | 5,213 | 6 |
+| 2023-10-13 | 5,215 | 6 |
 ## Awards
 Max (Great for Beginners): 26  (Ranked 497)  
 Sum: 26 (Ranked 506)  

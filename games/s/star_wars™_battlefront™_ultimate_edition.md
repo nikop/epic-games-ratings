@@ -4,42 +4,42 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~551 |
-| Off to a good start | 67.00% | ~410 |
-| Do... or do not. There is no try | 53.00% | ~324 |
-| A good blaster at your side | 34.00% | ~208 |
+| New Recruit | 90.00% | ~554 |
+| Off to a good start | 67.00% | ~412 |
+| Do... or do not. There is no try | 53.00% | ~326 |
+| A good blaster at your side | 34.00% | ~209 |
 | Scrap collector | 21.00% | ~129 |
-| I suggest a new strategy | 20.00% | ~122 |
-| Great shot, kid! | 19.00% | ~116 |
-| All right, I'll give it a try | 18.00% | ~110 |
-| Shoot first | 18.00% | ~110 |
-| The power of the Force | 17.00% | ~104 |
+| I suggest a new strategy | 20.00% | ~123 |
+| Great shot, kid! | 19.00% | ~117 |
+| All right, I'll give it a try | 18.00% | ~111 |
+| Shoot first | 18.00% | ~111 |
+| The power of the Force | 17.00% | ~105 |
 | Collector | 16.00% | ~98 |
 | Together we can rule the galaxy | 16.00% | ~98 |
-| Tell Jabba that I've got his money | 12.00% | ~73 |
-| Survivor | 12.00% | ~73 |
-| Best star-pilot in the galaxy | 11.00% | ~67 |
-| Never tell me the odds! | 10.00% | ~61 |
-| A cunning warrior | 10.00% | ~61 |
+| Tell Jabba that I've got his money | 12.00% | ~74 |
+| Best star-pilot in the galaxy | 12.00% | ~74 |
+| Survivor | 12.00% | ~74 |
+| Never tell me the odds! | 10.00% | ~62 |
+| A cunning warrior | 10.00% | ~62 |
 | What's the cargo? | 9.00% | ~55 |
 | Impressive. Most impressive. | 9.00% | ~55 |
 | Judge me by my size, do you? | 9.00% | ~55 |
 | "Gonk? Gonk!" | 8.00% | ~49 |
-| Distinguished | 8.00% | ~49 |
-| Support the troops | 8.00% | ~49 |
+| Distinguished | 7.00% | ~43 |
 | A tremor in the Force | 7.00% | ~43 |
+| Support the troops | 7.00% | ~43 |
 | Not bad for a little furball | 6.00% | ~37 |
 | On the ball | 5.00% | ~31 |
 | Patience you must have | 5.00% | ~31 |
 | Don't underestimate the Force | 5.00% | ~31 |
-| I've been waiting for you | 4.00% | ~24 |
-| When 900 years old you reach... | 4.00% | ~24 |
-| Determined | 4.00% | ~24 |
-| Your journey has only started | 4.00% | ~24 |
-| Precision shot | 4.00% | ~24 |
-| Safety ain't the point of a joyride | 4.00% | ~24 |
-| That's no moon | 4.00% | ~24 |
-| Disturbed tranquility | 4.00% | ~24 |
+| I've been waiting for you | 4.00% | ~25 |
+| When 900 years old you reach... | 4.00% | ~25 |
+| Determined | 4.00% | ~25 |
+| Your journey has only started | 4.00% | ~25 |
+| Precision shot | 4.00% | ~25 |
+| Safety ain't the point of a joyride | 4.00% | ~25 |
+| That's no moon | 4.00% | ~25 |
+| Disturbed tranquility | 4.00% | ~25 |
 | Hold the line! | 3.00% | ~18 |
 | The Force is strong with this one | 3.00% | ~18 |
 | This is a new day, a new beginning | 3.00% | ~18 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.30% | ~2 |
 | Crush them with one swift stroke… | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 612 (Ranked 261)  
+Progressed: 615 (Ranked 261)  
 Completed: 1 (0.16%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 1 (0.16%) (Ranked 231)
 | 2023-10-10 | 572 | 1 |
 | 2023-10-11 | 589 | 1 |
 | 2023-10-12 | 603 | 1 |
-| 2023-10-13 | 612 | 1 |
+| 2023-10-13 | 615 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

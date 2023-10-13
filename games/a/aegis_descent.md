@@ -10,7 +10,7 @@
 | Gunner | 56.00% | ~228 |
 | DocKing | 47.00% | ~192 |
 | What-A-Shot | 45.00% | ~184 |
-| Batteries Included | 38.00% | ~155 |
+| Batteries Included | 39.00% | ~159 |
 | Death from Above | 35.00% | ~143 |
 | Hull King | 26.00% | ~106 |
 | Boss Down | 20.00% | ~82 |

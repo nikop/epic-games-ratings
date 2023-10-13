@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,7 +295,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1487,
+  "EOS_Progressed": 1488,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
@@ -3040,6 +3040,11 @@
       "Time": "2023-10-13T15:07:12.3813899+00:00",
       "NumProgressed": 1487,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-13T19:07:48.8862479+00:00",
+      "NumProgressed": 1488,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -3075,7 +3080,7 @@
       "Name": "The Big Bertha",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "Boy",
@@ -3179,7 +3184,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "High_noon",
@@ -3243,7 +3248,7 @@
       "Name": "Mosquito bite",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "Scout",
@@ -3259,7 +3264,7 @@
       "Name": "Strategist",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "War_never_changes",
@@ -3290,15 +3295,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1487,
+      "Progressed": 1488,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-10-13T18:06:51.3060249+00:00",
+  "LastChanged_Achievements": "2023-10-13T19:07:48.8862469+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:37.6923731+00:00",
-  "LastUpdate_Ratings": "2023-10-13T17:57:38.034955+00:00",
-  "LastUpdate_Achievements": "2023-10-13T18:06:51.3060628+00:00"
+  "LastUpdate_Ratings": "2023-10-13T18:58:03.6355851+00:00",
+  "LastUpdate_Achievements": "2023-10-13T19:07:48.8863197+00:00"
 }

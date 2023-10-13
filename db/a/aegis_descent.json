@@ -4,7 +4,7 @@
   "ProductSlug": "aegis-descent-a1f5a0",
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 391,
+  "Ranking_EOS_NewPlayers": 393,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -341,9 +341,9 @@
       "ID": "Award_BatteriesIncluded",
       "SetID": "9ojec6n",
       "Name": "Batteries Included",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 155
+      "UsersEstimate": 159
     },
     {
       "ID": "Award_BigSpender",
@@ -702,8 +702,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-10-13T18:06:03.7139998+00:00",
+  "LastChanged_Achievements": "2023-10-13T19:06:57.968489+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:19.1602486+00:00",
-  "LastUpdate_Ratings": "2023-10-13T18:00:39.0108956+00:00",
-  "LastUpdate_Achievements": "2023-10-13T18:06:03.714034+00:00"
+  "LastUpdate_Ratings": "2023-10-13T19:01:19.9422224+00:00",
+  "LastUpdate_Achievements": "2023-10-13T19:06:57.9685343+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -524,9 +524,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 67798,
+  "EOS_Progressed": 67801,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 680,
+  "EOS_NewPlayers": 677,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -17889,6 +17889,11 @@
       "Time": "2023-10-13T18:08:33.3242512+00:00",
       "NumProgressed": 67798,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-10-13T19:09:26.4318385+00:00",
+      "NumProgressed": 67801,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 67,
@@ -17900,7 +17905,7 @@
       "Name": "Follow the Light",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 29153
+      "UsersEstimate": 29154
     },
     {
       "ID": "02",
@@ -17908,7 +17913,7 @@
       "Name": "Nordic Walking",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 18305
+      "UsersEstimate": 18306
     },
     {
       "ID": "03",
@@ -17916,7 +17921,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 18305
+      "UsersEstimate": 18306
     },
     {
       "ID": "04",
@@ -18148,7 +18153,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 23051
+      "UsersEstimate": 23052
     },
     {
       "ID": "33",
@@ -18172,7 +18177,7 @@
       "Name": "Let There Be Light",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 23729
+      "UsersEstimate": 23730
     },
     {
       "ID": "36",
@@ -18435,21 +18440,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 67798,
+      "Progressed": 67801,
       "Completed": 69
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 31266,
+      "Progressed": 31269,
       "Completed": 56
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-09-26T11:01:48.1926095+00:00",
-  "LastChanged_Achievements": "2023-10-13T18:08:33.3242505+00:00",
+  "LastChanged_Achievements": "2023-10-13T19:09:26.4318377+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:13.3553682+00:00",
-  "LastUpdate_Ratings": "2023-10-13T18:00:45.5934704+00:00",
-  "LastUpdate_Achievements": "2023-10-13T18:08:33.3244169+00:00"
+  "LastUpdate_Ratings": "2023-10-13T19:01:27.9523663+00:00",
+  "LastUpdate_Achievements": "2023-10-13T19:09:26.432016+00:00"
 }

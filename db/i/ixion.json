@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -284,9 +284,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3221,
+  "EOS_Progressed": 3222,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5259,6 +5259,11 @@
       "Time": "2023-10-13T17:09:20.0087372+00:00",
       "NumProgressed": 3221,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-13T19:08:14.0702636+00:00",
+      "NumProgressed": 3222,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -5374,7 +5379,7 @@
       "Name": "Space Society",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "ACH_BASE_24",
@@ -5382,7 +5387,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 805
+      "UsersEstimate": 806
     },
     {
       "ID": "ACH_BASE_25",
@@ -5398,7 +5403,7 @@
       "Name": "Sightseeing",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "ACH_BASE_27",
@@ -5422,7 +5427,7 @@
       "Name": "A Thousand Strong",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "ACH_BASE_3",
@@ -5598,7 +5603,7 @@
       "Name": "Convenient Transport",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "ACH_BASE_52",
@@ -5725,13 +5730,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1403,
+      "Progressed": 1404,
       "Completed": 7
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3221,
+      "Progressed": 3222,
       "Completed": 0
     }
   ],
@@ -5739,8 +5744,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-09-17T17:59:23.8865698+00:00",
-  "LastChanged_Achievements": "2023-10-13T18:07:15.0531848+00:00",
+  "LastChanged_Achievements": "2023-10-13T19:08:14.0702629+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:54.7366735+00:00",
-  "LastUpdate_Ratings": "2023-10-13T18:00:14.1821679+00:00",
-  "LastUpdate_Achievements": "2023-10-13T18:07:15.0532709+00:00"
+  "LastUpdate_Ratings": "2023-10-13T19:00:49.0216946+00:00",
+  "LastUpdate_Achievements": "2023-10-13T19:08:14.0704081+00:00"
 }

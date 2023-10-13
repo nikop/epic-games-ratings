@@ -4,7 +4,7 @@
   "ProductSlug": "the-isle-tide-hotel-adf588",
   "Ranking_EOS_Progress": 476,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_NewPlayers": 332,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-09-12T11:00:00+00:00",
@@ -298,9 +298,9 @@
       "ID": "the_martyr",
       "SetID": "7i36ba9",
       "Name": "The Martyr",
-      "Percentage": 4,
+      "Percentage": 8,
       "XP": 95,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "the_pageant",
@@ -361,8 +361,8 @@
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2023-10-13T18:09:16.2873878+00:00",
+  "LastChanged_Achievements": "2023-10-13T19:10:10.9367529+00:00",
   "LastUpdate_AppInfo": "2023-10-06T23:56:59.9075633+00:00",
-  "LastUpdate_Ratings": "2023-10-13T17:58:47.1515859+00:00",
-  "LastUpdate_Achievements": "2023-10-13T18:09:16.2874072+00:00"
+  "LastUpdate_Ratings": "2023-10-13T18:59:13.6351013+00:00",
+  "LastUpdate_Achievements": "2023-10-13T19:10:10.9367833+00:00"
 }

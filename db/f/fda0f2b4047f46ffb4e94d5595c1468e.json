@@ -1176,9 +1176,9 @@
       "Count": 201
     }
   ],
-  "EOS_Progressed": 7504,
+  "EOS_Progressed": 7505,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 516,
+  "EOS_NewPlayers": 513,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4081,6 +4081,11 @@
       "Time": "2023-10-13T18:07:39.5947399+00:00",
       "NumProgressed": 7504,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-13T19:08:40.7369915+00:00",
+      "NumProgressed": 7505,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -4093,7 +4098,7 @@
       "Name": "Become A Ninja In No Time",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2551
+      "UsersEstimate": 2552
     },
     {
       "ID": "ach02",
@@ -4133,7 +4138,7 @@
       "Name": "Titan",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 5553
+      "UsersEstimate": 5554
     },
     {
       "ID": "ach07",
@@ -4141,7 +4146,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 3977
+      "UsersEstimate": 3978
     },
     {
       "ID": "ach08",
@@ -4149,7 +4154,7 @@
       "Name": "It Has Begun!!!",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2701
+      "UsersEstimate": 2702
     },
     {
       "ID": "ach09",
@@ -4229,7 +4234,7 @@
       "Name": "Adventure Time",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2626
+      "UsersEstimate": 2627
     },
     {
       "ID": "ach19",
@@ -4301,7 +4306,7 @@
       "Name": "So Krafty",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 2251
+      "UsersEstimate": 2252
     },
     {
       "ID": "ach28",
@@ -4309,7 +4314,7 @@
       "Name": "Feeling Stronger",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2401
+      "UsersEstimate": 2402
     },
     {
       "ID": "ach29",
@@ -4333,7 +4338,7 @@
       "Name": "Not So Big Now, Are You??",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 2251
+      "UsersEstimate": 2252
     },
     {
       "ID": "ach32",
@@ -4357,7 +4362,7 @@
       "Name": "Always Accessorize",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 2326
+      "UsersEstimate": 2327
     },
     {
       "ID": "ach35",
@@ -4381,7 +4386,7 @@
       "Name": "ABACABB",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 4202
+      "UsersEstimate": 4203
     },
     {
       "ID": "ach38",
@@ -4405,7 +4410,7 @@
       "Name": "Found You",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 2701
+      "UsersEstimate": 2702
     },
     {
       "ID": "ach41",
@@ -4413,7 +4418,7 @@
       "Name": "Stop Hiding",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2701
+      "UsersEstimate": 2702
     },
     {
       "ID": "ach42",
@@ -4485,14 +4490,14 @@
       "Name": "Witness Me!!!",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2776
+      "UsersEstimate": 2777
     }
   ],
   "AchievementSets": [
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 7504,
+      "Progressed": 7505,
       "Completed": 0
     }
   ],
@@ -4500,8 +4505,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-10-13T15:59:30.1298834+00:00",
-  "LastChanged_Achievements": "2023-10-13T18:07:39.5947393+00:00",
+  "LastChanged_Achievements": "2023-10-13T19:08:40.7369907+00:00",
   "LastUpdate_AppInfo": "2023-10-07T06:57:30.1408327+00:00",
-  "LastUpdate_Ratings": "2023-10-13T17:58:57.0276289+00:00",
-  "LastUpdate_Achievements": "2023-10-13T18:07:39.5947981+00:00"
+  "LastUpdate_Ratings": "2023-10-13T18:59:24.8557833+00:00",
+  "LastUpdate_Achievements": "2023-10-13T19:08:40.7370573+00:00"
 }

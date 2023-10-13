@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 241,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
@@ -1355,9 +1355,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 129651,
+  "EOS_Progressed": 129653,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 260,
+  "EOS_NewPlayers": 256,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -18965,6 +18965,11 @@
       "Time": "2023-10-13T18:07:11.9064615+00:00",
       "NumProgressed": 129651,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-10-13T19:08:10.5544603+00:00",
+      "NumProgressed": 129653,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -19008,7 +19013,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 23337
+      "UsersEstimate": 23338
     },
     {
       "ID": "ACH_COP_BAD",
@@ -19032,7 +19037,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31116
+      "UsersEstimate": 31117
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -19056,7 +19061,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36302
+      "UsersEstimate": 36303
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -19295,15 +19300,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 129651,
+      "Progressed": 129653,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-10-13T11:02:30.7777293+00:00",
-  "LastChanged_Achievements": "2023-10-13T18:07:11.9064611+00:00",
+  "LastChanged_Achievements": "2023-10-13T19:08:10.5544595+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:36.8908498+00:00",
-  "LastUpdate_Ratings": "2023-10-13T18:02:25.5360538+00:00",
-  "LastUpdate_Achievements": "2023-10-13T18:07:11.9066012+00:00"
+  "LastUpdate_Ratings": "2023-10-13T19:03:16.2820751+00:00",
+  "LastUpdate_Achievements": "2023-10-13T19:08:10.5546728+00:00"
 }

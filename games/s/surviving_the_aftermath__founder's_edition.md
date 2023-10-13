@@ -6,57 +6,57 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 73.00% | ~6,986 |
-| Leader | 60.00% | ~5,742 |
-| Explorer | 53.00% | ~5,072 |
-| Healer | 52.00% | ~4,976 |
-| Aspiring Inventor | 44.00% | ~4,211 |
-| Adventurer | 42.00% | ~4,019 |
-| Famous Healer | 38.00% | ~3,637 |
-| Local Leader | 35.00% | ~3,350 |
-| Famous Explorer | 34.00% | ~3,254 |
-| New Opportunities | 34.00% | ~3,254 |
-| Energized | 33.00% | ~3,158 |
-| The Long Haul | 33.00% | ~3,158 |
-| Survivor | 32.00% | ~3,062 |
-| The Great Healer | 31.00% | ~2,967 |
-| Legendary Explorer | 28.00% | ~2,680 |
-| Cleaner | 28.00% | ~2,680 |
-| Catastrofan | 28.00% | ~2,680 |
-| Finders, Keepers | 26.00% | ~2,488 |
-| Top Notch | 25.00% | ~2,392 |
-| Great Leader | 23.00% | ~2,201 |
-| Mentor | 23.00% | ~2,201 |
-| Merchant | 22.00% | ~2,105 |
-| Ice Lakes | 22.00% | ~2,105 |
-| Real Survivor | 22.00% | ~2,105 |
-| Rocket Surgeon | 20.00% | ~1,914 |
-| War Never Changes | 19.00% | ~1,818 |
-| Friendly | 17.00% | ~1,627 |
-| Big Game Hunter | 17.00% | ~1,627 |
-| Around the World | 17.00% | ~1,627 |
-| Spreading Influence | 17.00% | ~1,627 |
+| First Step | 73.00% | ~6,990 |
+| Leader | 60.00% | ~5,745 |
+| Explorer | 53.00% | ~5,075 |
+| Healer | 52.00% | ~4,979 |
+| Aspiring Inventor | 44.00% | ~4,213 |
+| Adventurer | 42.00% | ~4,022 |
+| Famous Healer | 38.00% | ~3,638 |
+| Local Leader | 35.00% | ~3,351 |
+| Famous Explorer | 34.00% | ~3,256 |
+| New Opportunities | 34.00% | ~3,256 |
+| Energized | 33.00% | ~3,160 |
+| The Long Haul | 33.00% | ~3,160 |
+| Survivor | 32.00% | ~3,064 |
+| The Great Healer | 31.00% | ~2,968 |
+| Legendary Explorer | 28.00% | ~2,681 |
+| Cleaner | 28.00% | ~2,681 |
+| Catastrofan | 28.00% | ~2,681 |
+| Finders, Keepers | 26.00% | ~2,490 |
+| Top Notch | 25.00% | ~2,394 |
+| Great Leader | 23.00% | ~2,202 |
+| Mentor | 23.00% | ~2,202 |
+| Merchant | 22.00% | ~2,106 |
+| Ice Lakes | 22.00% | ~2,106 |
+| Real Survivor | 22.00% | ~2,106 |
+| Rocket Surgeon | 20.00% | ~1,915 |
+| War Never Changes | 19.00% | ~1,819 |
+| Friendly | 17.00% | ~1,628 |
+| Big Game Hunter | 17.00% | ~1,628 |
+| Around the World | 17.00% | ~1,628 |
+| Spreading Influence | 17.00% | ~1,628 |
 | Bookworm | 15.00% | ~1,436 |
-| Famous Adventurer | 14.00% | ~1,340 |
-| Prepared for Anything | 14.00% | ~1,340 |
-| Big Catastrofan | 13.00% | ~1,244 |
-| It's a Finnish Thing | 10.00% | ~957 |
-| Sky Burial | 10.00% | ~957 |
-| Trader | 9.00% | ~861 |
+| Famous Adventurer | 14.00% | ~1,341 |
+| Prepared for Anything | 13.00% | ~1,245 |
+| Big Catastrofan | 13.00% | ~1,245 |
+| It's a Finnish Thing | 10.00% | ~958 |
+| Sky Burial | 10.00% | ~958 |
+| Trader | 9.00% | ~862 |
 | Bread and Circuses | 8.00% | ~766 |
 | New Eden | 7.00% | ~670 |
 | Tailored to fit | 7.00% | ~670 |
 | Really Friendly | 6.00% | ~574 |
 | Amped Up | 6.00% | ~574 |
-| Look, no Hands! | 5.00% | ~478 |
+| Look, no Hands! | 5.00% | ~479 |
 | Luxurious Living | 4.00% | ~383 |
 | Mogul | 3.00% | ~287 |
 | Ranch Hand | 3.00% | ~287 |
-| The Friendliest | 2.00% | ~191 |
-| Diplomat | 2.00% | ~191 |
-| Doomsday is canceled | 2.00% | ~191 |
-| Biggest Catastrofan | 2.00% | ~191 |
-| True Survivor | 2.00% | ~191 |
+| The Friendliest | 2.00% | ~192 |
+| Diplomat | 2.00% | ~192 |
+| Doomsday is canceled | 2.00% | ~192 |
+| Biggest Catastrofan | 2.00% | ~192 |
+| True Survivor | 2.00% | ~192 |
 | Legendary Adventurer | 1.00% | ~96 |
 | Slimy yet Satisfying | 1.00% | ~96 |
 | Feng Shui | 1.00% | ~96 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~19 |
 | Customized calamities | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,570 (Ranked 149)  
+Progressed: 9,575 (Ranked 149)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,7 +242,7 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-10-10 | 9,514 | 0 |
 | 2023-10-11 | 9,530 | 0 |
 | 2023-10-12 | 9,549 | 0 |
-| 2023-10-13 | 9,570 | 0 |
+| 2023-10-13 | 9,575 | 0 |
 ## Awards
 Max (Extremely Fun): 103  (Ranked 341)  
 Sum: 710 (Ranked 283)  

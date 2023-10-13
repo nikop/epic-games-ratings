@@ -326,9 +326,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 111060,
+  "EOS_Progressed": 111061,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 775,
+  "EOS_NewPlayers": 768,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -14251,6 +14251,11 @@
       "Time": "2023-10-13T18:04:01.6097568+00:00",
       "NumProgressed": 111060,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-10-13T19:04:47.5220185+00:00",
+      "NumProgressed": 111061,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 49,
@@ -14270,7 +14275,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 85516
+      "UsersEstimate": 85517
     },
     {
       "ID": "EAwards_10",
@@ -14406,7 +14411,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 21101
+      "UsersEstimate": 21102
     },
     {
       "ID": "EAwards_26",
@@ -14446,7 +14451,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 21101
+      "UsersEstimate": 21102
     },
     {
       "ID": "EAwards_30",
@@ -14653,7 +14658,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 111060,
+      "Progressed": 111061,
       "Completed": 47
     }
   ],
@@ -14661,8 +14666,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-25T16:00:07.3978241+00:00",
-  "LastChanged_Achievements": "2023-10-13T18:04:01.6097562+00:00",
+  "LastChanged_Achievements": "2023-10-13T19:04:47.5220178+00:00",
   "LastUpdate_AppInfo": "2023-10-13T01:42:07.6726517+00:00",
-  "LastUpdate_Ratings": "2023-10-13T17:59:10.336213+00:00",
-  "LastUpdate_Achievements": "2023-10-13T18:04:01.6098795+00:00"
+  "LastUpdate_Ratings": "2023-10-13T18:59:36.1172905+00:00",
+  "LastUpdate_Achievements": "2023-10-13T19:04:47.522167+00:00"
 }

@@ -1,40 +1,40 @@
 # Godlike Burger
 [Store](https://store.epicgames.com/en-US/p/godlike-burger-4150a0)  
 [View Rawdata](../../db/g/godlike_burger.json)  
-Rating: 4.41 (Ranked 697)  
+Rating: 4.42 (Ranked 687)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 44.00% | ~134,402 |
-| FIRST BLOOD | 39.00% | ~119,129 |
-| KEVIN! | 29.00% | ~88,583 |
-| JACK OF ALL TRADES | 22.00% | ~67,201 |
-| CRIMINAL | 19.00% | ~58,037 |
-| GRANDMA WOULD BE PROUD | 10.00% | ~30,546 |
-| WITHOUT BREAKING A SWEAT | 8.00% | ~24,437 |
-| HONORS STUDENT | 7.00% | ~21,382 |
-| BUTCHER | 5.00% | ~15,273 |
-| INDIVIDUAL APPROACH | 4.00% | ~12,218 |
-| RAMBO | 4.00% | ~12,218 |
-| HELL'S KITCHEN | 3.00% | ~9,164 |
-| CELEBRITY | 2.00% | ~6,109 |
-| MARTYR | 2.00% | ~6,109 |
-| GRATITUDE | 1.00% | ~3,055 |
-| PATTY-KILLER | 0.70% | ~2,138 |
-| PRUDENT | 0.70% | ~2,138 |
-| GOURMET | 0.60% | ~1,833 |
-| EXPERIMENTALIST | 0.50% | ~1,527 |
-| LAW-ABIDING CITIZEN | 0.50% | ~1,527 |
-| SCATTERBRAIN | 0.30% | ~916 |
-| HIGH TECHNOLOGIES | 0.20% | ~611 |
-| TASTE UNTASTY | 0.20% | ~611 |
-| CORRUPTIONIST | 0.10% | ~305 |
-| DEBTOR | 0.10% | ~305 |
-| I'VE SEEN SOME… | 0.10% | ~305 |
-| MISTER ALL THUMBS | 0.10% | ~305 |
-| TRAVELER | 0.10% | ~305 |
+| MASTER CHEF | 44.00% | ~134,561 |
+| FIRST BLOOD | 39.00% | ~119,270 |
+| KEVIN! | 29.00% | ~88,688 |
+| JACK OF ALL TRADES | 22.00% | ~67,280 |
+| CRIMINAL | 19.00% | ~58,106 |
+| GRANDMA WOULD BE PROUD | 10.00% | ~30,582 |
+| WITHOUT BREAKING A SWEAT | 8.00% | ~24,466 |
+| HONORS STUDENT | 7.00% | ~21,407 |
+| BUTCHER | 5.00% | ~15,291 |
+| INDIVIDUAL APPROACH | 4.00% | ~12,233 |
+| RAMBO | 4.00% | ~12,233 |
+| HELL'S KITCHEN | 3.00% | ~9,175 |
+| CELEBRITY | 2.00% | ~6,116 |
+| MARTYR | 2.00% | ~6,116 |
+| GRATITUDE | 1.00% | ~3,058 |
+| PATTY-KILLER | 0.70% | ~2,141 |
+| PRUDENT | 0.70% | ~2,141 |
+| GOURMET | 0.60% | ~1,835 |
+| EXPERIMENTALIST | 0.50% | ~1,529 |
+| LAW-ABIDING CITIZEN | 0.50% | ~1,529 |
+| SCATTERBRAIN | 0.30% | ~917 |
+| HIGH TECHNOLOGIES | 0.20% | ~612 |
+| TASTE UNTASTY | 0.20% | ~612 |
+| CORRUPTIONIST | 0.10% | ~306 |
+| DEBTOR | 0.10% | ~306 |
+| I'VE SEEN SOME… | 0.10% | ~306 |
+| MISTER ALL THUMBS | 0.10% | ~306 |
+| TRAVELER | 0.10% | ~306 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 305,459 (Ranked 46)  
+Progressed: 305,820 (Ranked 46)  
 Completed: 10 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 10 (0.00%) (Ranked 314)
 | 2023-10-10 | 257,754 | 6 |
 | 2023-10-11 | 279,541 | 6 |
 | 2023-10-12 | 298,914 | 9 |
-| 2023-10-13 | 305,459 | 10 |
+| 2023-10-13 | 305,820 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -160,4 +160,4 @@ Completed: 10 (0.00%) (Ranked 314)
 | 2023-10-10 | 4.38 | 0 | 0 |
 | 2023-10-11 | 4.39 | 0 | 0 |
 | 2023-10-12 | 4.40 | 0 | 0 |
-| 2023-10-13 | 4.41 | 0 | 0 |
+| 2023-10-13 | 4.42 | 0 | 0 |

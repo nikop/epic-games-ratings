@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | That's the spirit | 10.00% | ~28 |
 | Welcome to the Tower | 10.00% | ~28 |
+| The Preacher's fate | 9.00% | ~25 |
 | The great escape | 9.00% | ~25 |
-| The Preacher's fate | 8.00% | ~23 |
 | In this together | 7.00% | ~20 |
 | Cable guy | 7.00% | ~20 |
 | A new dawn | 7.00% | ~20 |

@@ -2,10 +2,10 @@
   "ID": "4cbfe407ada24702a556b6e4d28a8800",
   "Name": "WILD HEARTS\u2122 Standard Edition",
   "ProductSlug": "wild-hearts",
-  "Ranking_EOS_Progress": 362,
+  "Ranking_EOS_Progress": 363,
   "Ranking_EOS_Completed": 75,
-  "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -1005,8 +1005,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-10-13T18:07:08.2044002+00:00",
+  "LastChanged_Achievements": "2023-10-13T19:08:06.4988676+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:12.1602586+00:00",
-  "LastUpdate_Ratings": "2023-10-13T17:59:56.2599484+00:00",
-  "LastUpdate_Achievements": "2023-10-13T18:07:08.2044473+00:00"
+  "LastUpdate_Ratings": "2023-10-13T19:00:29.7278505+00:00",
+  "LastUpdate_Achievements": "2023-10-13T19:08:06.4989432+00:00"
 }
