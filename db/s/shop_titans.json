@@ -6446,11 +6446,17 @@
       "Rating": 3.99,
       "NumberOfAwards": 27377,
       "NumberOfAwardsMax": 4782
+    },
+    {
+      "Time": "2023-10-13T22:01:35.3873158+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27380,
+      "NumberOfAwardsMax": 4785
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27377,
-  "NumberOfAwardsMax": 4782,
+  "NumberOfAwards": 27380,
+  "NumberOfAwardsMax": 4785,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -6469,7 +6475,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4782
+      "Count": 4785
     },
     {
       "Text": "This game has Easy Combat",
@@ -6502,9 +6508,9 @@
       "Count": 3759
     }
   ],
-  "EOS_Progressed": 137550,
+  "EOS_Progressed": 137553,
   "EOS_Completed": 168,
-  "EOS_NewPlayers": 337,
+  "EOS_NewPlayers": 336,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -24557,6 +24563,11 @@
       "Time": "2023-10-13T21:08:10.3732389+00:00",
       "NumProgressed": 137550,
       "NumCompleted": 168
+    },
+    {
+      "Time": "2023-10-13T22:08:19.9129709+00:00",
+      "NumProgressed": 137553,
+      "NumCompleted": 168
     }
   ],
   "TotalAchievements": 112,
@@ -24736,7 +24747,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4126
+      "UsersEstimate": 4127
     },
     {
       "ID": "chest02",
@@ -24800,7 +24811,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4126
+      "UsersEstimate": 4127
     },
     {
       "ID": "commonres02",
@@ -25040,7 +25051,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4126
+      "UsersEstimate": 4127
     },
     {
       "ID": "gold02",
@@ -25142,9 +25153,9 @@
       "ID": "legenchant01",
       "SetID": "anfd17p",
       "Name": "Item of Renown",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 688
+      "UsersEstimate": 825
     },
     {
       "ID": "level01",
@@ -25384,7 +25395,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4126
+      "UsersEstimate": 4127
     },
     {
       "ID": "twinenchant01",
@@ -25463,15 +25474,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 137550,
+      "Progressed": 137553,
       "Completed": 168
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-10-13T16:02:29.4998206+00:00",
-  "LastChanged_Achievements": "2023-10-13T21:08:10.3732381+00:00",
+  "LastChanged": "2023-10-13T22:01:35.3873157+00:00",
+  "LastChanged_Achievements": "2023-10-13T22:08:19.9129707+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:52.7124415+00:00",
-  "LastUpdate_Ratings": "2023-10-13T21:01:29.6775273+00:00",
-  "LastUpdate_Achievements": "2023-10-13T21:08:10.3736125+00:00"
+  "LastUpdate_Ratings": "2023-10-13T22:01:35.3873161+00:00",
+  "LastUpdate_Achievements": "2023-10-13T22:08:19.9132955+00:00"
 }

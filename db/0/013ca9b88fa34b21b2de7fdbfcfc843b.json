@@ -118,7 +118,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6573,
+  "EOS_Progressed": 6575,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 423,
   "EOS_NewCompleters": 0,
@@ -4163,6 +4163,11 @@
       "Time": "2023-10-13T21:03:50.6793703+00:00",
       "NumProgressed": 6573,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-13T22:03:49.9950881+00:00",
+      "NumProgressed": 6575,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -4175,7 +4180,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 4798
+      "UsersEstimate": 4800
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -4183,7 +4188,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 4601
+      "UsersEstimate": 4602
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -4191,7 +4196,7 @@
       "Name": "Calm Sailing",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2366
+      "UsersEstimate": 2367
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -4199,7 +4204,7 @@
       "Name": "Open the Gate!",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2103
+      "UsersEstimate": 2104
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -4207,7 +4212,7 @@
       "Name": "Clear the Air",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 1117
+      "UsersEstimate": 1118
     },
     {
       "ID": "CHAPTER_6_COMPLETE",
@@ -4263,7 +4268,7 @@
       "Name": "Lumberjack",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 1709
+      "UsersEstimate": 1710
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -4271,7 +4276,7 @@
       "Name": "Miner 49er",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 2761
+      "UsersEstimate": 2762
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -4279,7 +4284,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 3155
+      "UsersEstimate": 3156
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -4287,7 +4292,7 @@
       "Name": "Beach Comber",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 854
+      "UsersEstimate": 855
     },
     {
       "ID": "COMPLETE_ALLJOBQUESTS",
@@ -4311,7 +4316,7 @@
       "Name": "Humble Collector",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 2695
+      "UsersEstimate": 2696
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -4327,7 +4332,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 3944
+      "UsersEstimate": 3945
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -4454,7 +4459,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 6573,
+      "Progressed": 6575,
       "Completed": 0
     }
   ],
@@ -4462,8 +4467,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-12T12:03:13.8462755+00:00",
-  "LastChanged_Achievements": "2023-10-13T21:03:50.6793692+00:00",
+  "LastChanged_Achievements": "2023-10-13T22:03:49.9950878+00:00",
   "LastUpdate_AppInfo": "2023-10-13T06:57:01.9287951+00:00",
-  "LastUpdate_Ratings": "2023-10-13T20:57:38.9730684+00:00",
-  "LastUpdate_Achievements": "2023-10-13T21:03:50.6794353+00:00"
+  "LastUpdate_Ratings": "2023-10-13T21:57:41.8771237+00:00",
+  "LastUpdate_Achievements": "2023-10-13T22:03:49.9951396+00:00"
 }

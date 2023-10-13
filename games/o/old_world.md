@@ -11,36 +11,38 @@ Number of Ratings: 1,307  (23.09.2022)
 | Settler | 2.00% | ~293 |
 | Friendly Family | 2.00% | ~293 |
 | Play a Single Player Game | 2.00% | ~293 |
-| Able | 1.00% | ~146 |
-| Ambitious | 1.00% | ~146 |
-| Architect | 1.00% | ~146 |
-| Enlightened | 1.00% | ~146 |
-| Glorious | 1.00% | ~146 |
-| Good | 1.00% | ~146 |
-| Just | 1.00% | ~146 |
-| Keystone | 1.00% | ~146 |
-| Learned | 1.00% | ~146 |
-| Mason | 1.00% | ~146 |
-| Noble | 1.00% | ~146 |
-| Pioneer | 1.00% | ~146 |
-| Strong | 1.00% | ~146 |
-| Warrior | 1.00% | ~146 |
-| Developing Cities | 1.00% | ~146 |
-| Strong Cities | 1.00% | ~146 |
-| Hanging Gardens | 1.00% | ~146 |
-| Ishtar Gate | 1.00% | ~146 |
-| Oracle | 1.00% | ~146 |
-| Pyramids | 1.00% | ~146 |
-| Christianity | 1.00% | ~146 |
-| Judaism | 1.00% | ~146 |
-| Babylonian Paganism | 1.00% | ~146 |
-| Greek Paganism | 1.00% | ~146 |
-| Naming Landmarks | 1.00% | ~146 |
-| Trade Caravan | 1.00% | ~146 |
-| Kushite Paganism | 1.00% | ~146 |
+| Able | 1.00% | ~147 |
+| Ambitious | 1.00% | ~147 |
+| Architect | 1.00% | ~147 |
+| Enlightened | 1.00% | ~147 |
+| Glorious | 1.00% | ~147 |
+| Good | 1.00% | ~147 |
+| Just | 1.00% | ~147 |
+| Keystone | 1.00% | ~147 |
+| Learned | 1.00% | ~147 |
+| Magnificent | 1.00% | ~147 |
+| Mason | 1.00% | ~147 |
+| Noble | 1.00% | ~147 |
+| Pioneer | 1.00% | ~147 |
+| Strong | 1.00% | ~147 |
+| Warrior | 1.00% | ~147 |
+| Developing Cities | 1.00% | ~147 |
+| Strong Cities | 1.00% | ~147 |
+| Hanging Gardens | 1.00% | ~147 |
+| Ishtar Gate | 1.00% | ~147 |
+| Oracle | 1.00% | ~147 |
+| Pyramids | 1.00% | ~147 |
+| Christianity | 1.00% | ~147 |
+| Judaism | 1.00% | ~147 |
+| Babylonian Paganism | 1.00% | ~147 |
+| Greek Paganism | 1.00% | ~147 |
+| Naming Landmarks | 1.00% | ~147 |
+| Trade Caravan | 1.00% | ~147 |
+| Kushite Paganism | 1.00% | ~147 |
 | Fountainhead | 0.90% | ~132 |
-| Magnificent | 0.90% | ~132 |
 | Wise | 0.90% | ~132 |
+| Able Difficulty | 0.90% | ~132 |
+| Furious Family | 0.90% | ~132 |
 | Great Ziggurat | 0.90% | ~132 |
 | Lighthouse | 0.90% | ~132 |
 | Carthaginian Paganism | 0.90% | ~132 |
@@ -50,8 +52,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Drillmaster | 0.80% | ~117 |
 | Brilliant | 0.80% | ~117 |
 | Great | 0.80% | ~117 |
-| Able Difficulty | 0.80% | ~117 |
-| Furious Family | 0.80% | ~117 |
 | Musaeum | 0.80% | ~117 |
 | Learn to Play 1 | 0.80% | ~117 |
 | Manichaeism | 0.80% | ~117 |
@@ -72,6 +72,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Sages | 0.60% | ~88 |
 | Acropolis | 0.60% | ~88 |
 | Mausoleum | 0.60% | ~88 |
+| Learn to Play 3 | 0.60% | ~88 |
 | Mythology | 0.60% | ~88 |
 | Win a Single Player Game | 0.60% | ~88 |
 | Beloved | 0.50% | ~73 |
@@ -81,43 +82,45 @@ Number of Ratings: 1,307  (23.09.2022)
 | Good Difficulty | 0.50% | ~73 |
 | Patrons | 0.50% | ~73 |
 | Circus Maximus | 0.50% | ~73 |
+| Hagia Sophia | 0.50% | ~73 |
 | Pantheon | 0.50% | ~73 |
 | Via Recta Souk | 0.50% | ~73 |
-| Learn to Play 3 | 0.50% | ~73 |
 | Greece | 0.50% | ~73 |
 | Power to the People | 0.50% | ~73 |
 | Persian Paganism | 0.50% | ~73 |
 | Building Wonders | 0.50% | ~73 |
 | Legalism | 0.50% | ~73 |
+| Legionary | 0.50% | ~73 |
 | Double Victory | 0.50% | ~73 |
 | Points Victory | 0.50% | ~73 |
 | Invincible | 0.40% | ~59 |
 | Subjugator | 0.40% | ~59 |
+| Strong Difficulty | 0.40% | ~59 |
+| Hunters | 0.40% | ~59 |
 | Landowners | 0.40% | ~59 |
 | Riders | 0.40% | ~59 |
 | Statesmen | 0.40% | ~59 |
 | Traders | 0.40% | ~59 |
 | Hittite Iron | 0.40% | ~59 |
-| Hagia Sophia | 0.40% | ~59 |
 | Church of the Holy Sepulchre | 0.40% | ~59 |
 | Temple of Solomon | 0.40% | ~59 |
 | Learn to Play 4 | 0.40% | ~59 |
 | Babylonia | 0.40% | ~59 |
+| Economic Reform | 0.40% | ~59 |
 | Military Prestige | 0.40% | ~59 |
 | Dualism | 0.40% | ~59 |
+| Gnosticism | 0.40% | ~59 |
 | Redemption | 0.40% | ~59 |
 | Revelation | 0.40% | ~59 |
 | Cimmerian Archer | 0.40% | ~59 |
-| Legionary | 0.40% | ~59 |
 | Phalangite | 0.40% | ~59 |
 | The Clergy | 0.40% | ~59 |
 | Kmt Unified | 0.40% | ~59 |
 | Capable | 0.30% | ~44 |
 | Devout | 0.30% | ~44 |
+| Ready | 0.30% | ~44 |
 | Noble Difficulty | 0.30% | ~44 |
-| Strong Difficulty | 0.30% | ~44 |
 | Clerics | 0.30% | ~44 |
-| Hunters | 0.30% | ~44 |
 | Learn to Play 5 | 0.30% | ~44 |
 | Carthage | 0.30% | ~44 |
 | Egypt | 0.30% | ~44 |
@@ -126,10 +129,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | One True Faith | 0.30% | ~44 |
 | Assyrian Paganism | 0.30% | ~44 |
 | Hittite Paganism | 0.30% | ~44 |
-| Economic Reform | 0.30% | ~44 |
 | Industrial Progress | 0.30% | ~44 |
 | Enlightenment | 0.30% | ~44 |
-| Gnosticism | 0.30% | ~44 |
 | Veneration | 0.30% | ~44 |
 | Mounted Lancer | 0.30% | ~44 |
 | Turreted Elephant | 0.30% | ~44 |
@@ -142,7 +143,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage - Ox Hide | 0.20% | ~29 |
 | Old | 0.20% | ~29 |
 | Peacemaker | 0.20% | ~29 |
-| Ready | 0.20% | ~29 |
 | Glorious Difficulty | 0.20% | ~29 |
 | Cao'an | 0.20% | ~29 |
 | Adur Burzen-Mihr | 0.20% | ~29 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,648 (Ranked 134)  
+Progressed: 14,652 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -525,7 +525,7 @@ Completed: 5 (0.03%) (Ranked 282)
 | 2023-10-10 | 14,586 | 5 |
 | 2023-10-11 | 14,606 | 5 |
 | 2023-10-12 | 14,624 | 5 |
-| 2023-10-13 | 14,648 | 5 |
+| 2023-10-13 | 14,652 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,836 (Ranked 210)  

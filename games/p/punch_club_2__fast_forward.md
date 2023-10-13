@@ -43,8 +43,8 @@
 | No blades in the gym | 46.00% | ~154 |
 | Champion – no way back | 44.00% | ~147 |
 | Underground dwellers | 43.00% | ~144 |
+| Responsible approach | 43.00% | ~144 |
 | Deal with life | 42.00% | ~140 |
-| Responsible approach | 42.00% | ~140 |
 | Mom got better | 41.00% | ~137 |
 | GYM professional | 41.00% | ~137 |
 | Poisoned fighter | 41.00% | ~137 |
@@ -58,6 +58,7 @@
 | Absolute Champion! | 36.00% | ~120 |
 | Not little hacker | 35.00% | ~117 |
 | Anyone can resist | 35.00% | ~117 |
+| Trap disarmed | 34.00% | ~114 |
 | Another world | 34.00% | ~114 |
 | The lonesome road | 34.00% | ~114 |
 | Keep nature safe | 34.00% | ~114 |
@@ -65,7 +66,6 @@
 | Key memories | 34.00% | ~114 |
 | Careerist | 34.00% | ~114 |
 | The heart of the Resistance | 34.00% | ~114 |
-| Trap disarmed | 33.00% | ~110 |
 | The last bell ring | 33.00% | ~110 |
 | Better cooking at home | 31.00% | ~104 |
 | Silver’s past | 30.00% | ~100 |

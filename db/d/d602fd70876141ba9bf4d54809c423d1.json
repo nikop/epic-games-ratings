@@ -4,7 +4,7 @@
   "ProductSlug": "the-evil-within",
   "Ranking_EOS_Progress": 375,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 111,
+  "EOS_Progressed": 112,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -559,6 +559,11 @@
       "Time": "2023-10-13T06:06:06.7637694+00:00",
       "NumProgressed": 111,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-13T22:07:15.1797626+00:00",
+      "NumProgressed": 112,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T16:01:32.1694174+00:00",
@@ -601,9 +606,9 @@
       "ID": "ACHIEVEMENT_05",
       "SetID": "ap8553i",
       "Name": "The First, Not the Last",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 16
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_06",
@@ -611,7 +616,7 @@
       "Name": "Arachnophobia",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_07",
@@ -739,7 +744,7 @@
       "Name": "Burn, Baby, Burn!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -787,7 +792,7 @@
       "Name": "Drop It Like It\u0027s Hot",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_29",
@@ -849,9 +854,9 @@
       "ID": "ACHIEVEMENT_36",
       "SetID": "ap8553i",
       "Name": "Everybody Gets One",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -1138,20 +1143,20 @@
     {
       "ID": "8ddjaeg",
       "IsBase": false,
-      "Progressed": 111,
+      "Progressed": 112,
       "Completed": 0
     },
     {
       "ID": "ap8553i",
       "IsBase": true,
-      "Progressed": 111,
+      "Progressed": 112,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-10-13T21:07:06.0298157+00:00",
+  "LastChanged_Achievements": "2023-10-13T22:07:15.1797623+00:00",
   "LastUpdate_AppInfo": "2023-10-11T21:57:06.97719+00:00",
-  "LastUpdate_Ratings": "2023-10-13T20:58:12.8479685+00:00",
-  "LastUpdate_Achievements": "2023-10-13T21:07:06.0299165+00:00"
+  "LastUpdate_Ratings": "2023-10-13T21:58:13.0912752+00:00",
+  "LastUpdate_Achievements": "2023-10-13T22:07:15.1799068+00:00"
 }

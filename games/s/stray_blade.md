@@ -23,19 +23,19 @@
 | The A-Team | 10.00% | ~9 |
 | Defeat Uskol | 9.00% | ~8 |
 | Finally! | 9.00% | ~8 |
+| Mirror, Mirror on the Wall | 8.00% | ~7 |
 | Craftsmen | 8.00% | ~7 |
 | Defeat Tezuth | 8.00% | ~7 |
 | Through Dangers Untold | 8.00% | ~7 |
-| Mirror, Mirror on the Wall | 7.00% | ~6 |
 | A Deceiving Gift | 7.00% | ~6 |
 | Bringing guns to a sword fight | 5.00% | ~5 |
 | Ancient Powers | 5.00% | ~5 |
 | Unveiling the Truth | 5.00% | ~5 |
 | Defeat Ingla | 4.00% | ~4 |
+| Wayseeker | 4.00% | ~4 |
 | But what of the Acreans? | 4.00% | ~4 |
 | Sponsor | 3.00% | ~3 |
 | Wizard | 3.00% | ~3 |
-| Wayseeker | 3.00% | ~3 |
 | Pathfinder | 3.00% | ~3 |
 | Globetrotter | 3.00% | ~3 |
 | The End | 3.00% | ~3 |

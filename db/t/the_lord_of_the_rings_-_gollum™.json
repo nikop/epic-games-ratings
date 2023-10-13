@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 528,
+  "EOS_Progressed": 529,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -1275,6 +1275,11 @@
       "Time": "2023-09-26T12:09:30.7725677+00:00",
       "NumProgressed": 528,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-13T22:05:09.5345695+00:00",
+      "NumProgressed": 529,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1342,7 +1347,7 @@
       "Name": "The Veteran",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "Chapter5",
@@ -1350,7 +1355,7 @@
       "Name": "The Traitor",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "Chapter6",
@@ -1564,23 +1569,23 @@
       "ID": "WelcomeToMordor",
       "SetID": "70l3651",
       "Name": "Welcome to Mordor!",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 285
+      "UsersEstimate": 280
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 528,
+      "Progressed": 529,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-10-13T21:04:58.4485026+00:00",
+  "LastChanged_Achievements": "2023-10-13T22:05:09.5345692+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:48.4501514+00:00",
-  "LastUpdate_Ratings": "2023-10-13T20:58:09.8648862+00:00",
-  "LastUpdate_Achievements": "2023-10-13T21:04:58.4485459+00:00"
+  "LastUpdate_Ratings": "2023-10-13T21:58:09.9704799+00:00",
+  "LastUpdate_Achievements": "2023-10-13T22:05:09.5346117+00:00"
 }

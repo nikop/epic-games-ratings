@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -544,9 +544,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3733,
+  "EOS_Progressed": 3734,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -7219,6 +7219,11 @@
       "Time": "2023-10-13T21:07:00.986264+00:00",
       "NumProgressed": 3733,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-13T22:07:10.1067317+00:00",
+      "NumProgressed": 3734,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7268,9 +7273,9 @@
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
       "SetID": "bm6el81",
       "Name": "Enemy at the Gates",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 523
+      "UsersEstimate": 485
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -7310,7 +7315,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1717
+      "UsersEstimate": 1718
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -7478,7 +7483,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1381
+      "UsersEstimate": 1382
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -7542,7 +7547,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1269
+      "UsersEstimate": 1270
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -7566,7 +7571,7 @@
       "Name": "Change the Channel",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1157
+      "UsersEstimate": 1158
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -7598,7 +7603,7 @@
       "Name": "Taking it back",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1046
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -7797,13 +7802,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3684,
+      "Progressed": 3685,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3733,
+      "Progressed": 3734,
       "Completed": 11
     }
   ],
@@ -7811,8 +7816,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-10-13T09:59:46.3659401+00:00",
-  "LastChanged_Achievements": "2023-10-13T21:07:00.9862634+00:00",
+  "LastChanged_Achievements": "2023-10-13T22:07:10.1067313+00:00",
   "LastUpdate_AppInfo": "2023-10-07T09:57:23.5324772+00:00",
-  "LastUpdate_Ratings": "2023-10-13T20:59:33.6039571+00:00",
-  "LastUpdate_Achievements": "2023-10-13T21:07:00.9864147+00:00"
+  "LastUpdate_Ratings": "2023-10-13T21:59:35.7968985+00:00",
+  "LastUpdate_Achievements": "2023-10-13T22:07:10.1068677+00:00"
 }

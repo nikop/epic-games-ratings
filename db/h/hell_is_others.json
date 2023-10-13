@@ -1010,10 +1010,16 @@
       "Rating": 4.4,
       "NumberOfAwards": 289,
       "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2023-10-13T22:00:36.4761356+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 290,
+      "NumberOfAwardsMax": 45
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 289,
+  "NumberOfAwards": 290,
   "NumberOfAwardsMax": 45,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1027,7 +1033,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 36
+      "Count": 37
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1078,7 +1084,7 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 257242,
+  "EOS_Progressed": 257243,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 244,
   "EOS_NewCompleters": 0,
@@ -18493,6 +18499,11 @@
       "Time": "2023-10-13T21:05:09.8116044+00:00",
       "NumProgressed": 257242,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-13T22:05:21.2612543+00:00",
+      "NumProgressed": 257243,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -18951,16 +18962,16 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 257242,
+      "Progressed": 257243,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2023-10-10T17:58:44.9120992+00:00",
-  "LastChanged_Achievements": "2023-10-13T21:05:09.8116033+00:00",
+  "LastChanged": "2023-10-13T22:00:36.4761355+00:00",
+  "LastChanged_Achievements": "2023-10-13T22:05:21.261254+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:56:59.9696715+00:00",
-  "LastUpdate_Ratings": "2023-10-13T21:00:36.9318643+00:00",
-  "LastUpdate_Achievements": "2023-10-13T21:05:09.8118569+00:00"
+  "LastUpdate_Ratings": "2023-10-13T22:00:36.4761359+00:00",
+  "LastUpdate_Achievements": "2023-10-13T22:05:21.2614184+00:00"
 }

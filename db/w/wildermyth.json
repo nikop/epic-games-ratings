@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -157,9 +157,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1416,
+  "EOS_Progressed": 1417,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -1587,6 +1587,11 @@
       "Time": "2023-10-13T21:07:31.6269064+00:00",
       "NumProgressed": 1416,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-13T22:07:41.0800143+00:00",
+      "NumProgressed": 1417,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 56,
@@ -1678,7 +1683,7 @@
       "Name": "The Power of Friendship",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "achievement_fullTransformation",
@@ -1686,7 +1691,7 @@
       "Name": "Completing the Look",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "achievement_kill1000Cultists",
@@ -1694,7 +1699,7 @@
       "Name": "Empty the Caves",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "achievement_kill1000Drauven",
@@ -1726,7 +1731,7 @@
       "Name": "Bonebreakers",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "achievement_kill1000Thrixl",
@@ -1806,7 +1811,7 @@
       "Name": "Chain Reaction",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "achievement_victoryAfterLosingThreeHeroesInBattle",
@@ -1838,7 +1843,7 @@
       "Name": "War Endured",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "completedStory_legacy",
@@ -1958,7 +1963,7 @@
       "Name": "Some Say I\u0027m Too Flashy",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "theme_green_kill3Enemies",
@@ -1966,7 +1971,7 @@
       "Name": "Into Mulch",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "theme_morthagi_killWithBoltAndHammer",
@@ -1998,7 +2003,7 @@
       "Name": "Astrology",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "theme_storm_kill3Enemies",
@@ -2006,7 +2011,7 @@
       "Name": "Tempest",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "theme_tree_knockback50Tiles",
@@ -2045,15 +2050,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1416,
+      "Progressed": 1417,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-09-16T17:00:08.5779719+00:00",
-  "LastChanged_Achievements": "2023-10-13T21:07:31.6269059+00:00",
+  "LastChanged_Achievements": "2023-10-13T22:07:41.080014+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:23.0384854+00:00",
-  "LastUpdate_Ratings": "2023-10-13T20:57:20.1973209+00:00",
-  "LastUpdate_Achievements": "2023-10-13T21:07:31.6269727+00:00"
+  "LastUpdate_Ratings": "2023-10-13T21:57:19.5472494+00:00",
+  "LastUpdate_Achievements": "2023-10-13T22:07:41.0801161+00:00"
 }

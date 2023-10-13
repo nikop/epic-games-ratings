@@ -5,44 +5,44 @@ Rating: 4.76 (Ranked 119)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~17,542 |
-| The Killing Jar | 8.00% | ~15,593 |
-| Expanding Horizons | 7.00% | ~13,644 |
-| Quest for Survival | 7.00% | ~13,644 |
-| Not Your Average Trait | 7.00% | ~13,644 |
+| First of Many | 9.00% | ~17,543 |
+| The Killing Jar | 8.00% | ~15,594 |
+| Expanding Horizons | 7.00% | ~13,645 |
+| Quest for Survival | 7.00% | ~13,645 |
+| Not Your Average Trait | 7.00% | ~13,645 |
 | Gleaming the Cube | 6.00% | ~11,695 |
 | Familiar Face | 6.00% | ~11,695 |
 | Duality | 6.00% | ~11,695 |
 | Boss'n Up | 6.00% | ~11,695 |
 | Trait Chaser | 6.00% | ~11,695 |
-| Not So Special Now | 5.00% | ~9,745 |
-| Not a Janitor | 5.00% | ~9,745 |
-| Equal Measures | 5.00% | ~9,745 |
-| Blue Goddess | 5.00% | ~9,745 |
-| Top Performer | 5.00% | ~9,745 |
-| Shhh...It's a Secret | 5.00% | ~9,745 |
-| Almost There | 5.00% | ~9,745 |
-| Make Some Room | 5.00% | ~9,745 |
-| Good, But Could Be Better! | 5.00% | ~9,745 |
-| Chaos | 4.00% | ~7,796 |
-| Traitor | 4.00% | ~7,796 |
-| Power Surge | 4.00% | ~7,796 |
-| The God Gambit | 4.00% | ~7,796 |
-| Dark Designs | 4.00% | ~7,796 |
-| Madman's Paradise | 4.00% | ~7,796 |
-| Was This Supposed To Happen? | 4.00% | ~7,796 |
-| The Web | 4.00% | ~7,796 |
-| Scrap Collector | 4.00% | ~7,796 |
-| All These Traits� | 4.00% | ~7,796 |
-| Am I Seeing This? | 3.00% | ~5,847 |
-| Forever is a Long Time Coming | 3.00% | ~5,847 |
-| The Agenda | 3.00% | ~5,847 |
-| Tall Tales | 3.00% | ~5,847 |
-| Bad Moon Rising | 3.00% | ~5,847 |
-| Strapped | 3.00% | ~5,847 |
-| Edgelord | 3.00% | ~5,847 |
-| The Ultimate Weapon | 3.00% | ~5,847 |
-| No One Should Have All That Power | 3.00% | ~5,847 |
+| Not So Special Now | 5.00% | ~9,746 |
+| Not a Janitor | 5.00% | ~9,746 |
+| Equal Measures | 5.00% | ~9,746 |
+| Blue Goddess | 5.00% | ~9,746 |
+| Top Performer | 5.00% | ~9,746 |
+| Shhh...It's a Secret | 5.00% | ~9,746 |
+| Almost There | 5.00% | ~9,746 |
+| Make Some Room | 5.00% | ~9,746 |
+| Good, But Could Be Better! | 5.00% | ~9,746 |
+| Chaos | 4.00% | ~7,797 |
+| Traitor | 4.00% | ~7,797 |
+| Power Surge | 4.00% | ~7,797 |
+| The God Gambit | 4.00% | ~7,797 |
+| Dark Designs | 4.00% | ~7,797 |
+| Madman's Paradise | 4.00% | ~7,797 |
+| Was This Supposed To Happen? | 4.00% | ~7,797 |
+| The Web | 4.00% | ~7,797 |
+| Scrap Collector | 4.00% | ~7,797 |
+| All These Traits� | 4.00% | ~7,797 |
+| Am I Seeing This? | 3.00% | ~5,848 |
+| Forever is a Long Time Coming | 3.00% | ~5,848 |
+| The Agenda | 3.00% | ~5,848 |
+| Tall Tales | 3.00% | ~5,848 |
+| Bad Moon Rising | 3.00% | ~5,848 |
+| Strapped | 3.00% | ~5,848 |
+| Edgelord | 3.00% | ~5,848 |
+| The Ultimate Weapon | 3.00% | ~5,848 |
+| No One Should Have All That Power | 3.00% | ~5,848 |
 | Crafty | 2.00% | ~3,898 |
 | Only Human | 2.00% | ~3,898 |
 | Red Room | 2.00% | ~3,898 |
@@ -56,7 +56,7 @@ Rating: 4.76 (Ranked 119)
 | Proving Grounds | 1.00% | ~1,949 |
 | Ghost in the Machine | 0.90% | ~1,754 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 194,909 (Ranked 68)  
+Progressed: 194,924 (Ranked 68)  
 Completed: 389 (0.20%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,10 +145,10 @@ Completed: 389 (0.20%) (Ranked 222)
 | 2023-10-10 | 193,536 | 379 |
 | 2023-10-11 | 194,019 | 381 |
 | 2023-10-12 | 194,480 | 384 |
-| 2023-10-13 | 194,909 | 389 |
+| 2023-10-13 | 194,924 | 389 |
 ## Awards
 Max (Great Boss Battles): 1,828  (Ranked 114)  
-Sum: 3,942 (Ranked 150)  
+Sum: 3,945 (Ranked 150)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
@@ -157,7 +157,7 @@ Diff (max vs sum): -36
 | This game has Diverse Characters | 233 |
 | This game is Relaxing | 231 |
 | This game is Extremely Fun | 226 |
-| This game is Highly Recommended | 220 |
+| This game is Highly Recommended | 223 |
 | This game has Amazing Storytelling | 213 |
 | This game has Amazing Characters | 209 |
 | This game has Quickly Understood Controls | 208 |
@@ -245,4 +245,4 @@ Diff (max vs sum): -36
 | 2023-10-10 | 4.76 | 1,822 | 3,911 |
 | 2023-10-11 | 4.76 | 1,826 | 3,926 |
 | 2023-10-12 | 4.76 | 1,826 | 3,935 |
-| 2023-10-13 | 4.76 | 1,828 | 3,942 |
+| 2023-10-13 | 4.76 | 1,828 | 3,945 |

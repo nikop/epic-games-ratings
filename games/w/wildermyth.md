@@ -14,15 +14,15 @@ Number of Ratings: 45  (23.09.2022)
 | How Romantic! | 29.00% | ~411 |
 | Daybreak | 29.00% | ~411 |
 | Gotta Ca... Must Collect All of Them | 26.00% | ~368 |
-| Completing the Look | 15.00% | ~212 |
-| War Endured | 15.00% | ~212 |
+| Completing the Look | 15.00% | ~213 |
+| War Endured | 15.00% | ~213 |
 | A Mythic Menagerie | 14.00% | ~198 |
 | Who's Counting? | 14.00% | ~198 |
 | Core Failure | 14.00% | ~198 |
 | Pyrrhic Victory | 12.00% | ~170 |
 | Thematic Divergence | 10.00% | ~142 |
 | Echoes Die | 10.00% | ~142 |
-| Chain Reaction | 9.00% | ~127 |
+| Chain Reaction | 9.00% | ~128 |
 | Plague Doctor | 8.00% | ~113 |
 | Everfading | 8.00% | ~113 |
 | Another Tale to Tell | 8.00% | ~113 |
@@ -42,13 +42,13 @@ Number of Ratings: 45  (23.09.2022)
 | Grillmaster | 4.00% | ~57 |
 | Lochias's Hunger | 4.00% | ~57 |
 | No Time for Clawmonsters | 4.00% | ~57 |
-| The Power of Friendship | 3.00% | ~42 |
-| Empty the Caves | 3.00% | ~42 |
-| Bonebreakers | 3.00% | ~42 |
-| Some Say I'm Too Flashy | 3.00% | ~42 |
-| Into Mulch | 3.00% | ~42 |
-| Astrology | 3.00% | ~42 |
-| Tempest | 3.00% | ~42 |
+| The Power of Friendship | 3.00% | ~43 |
+| Empty the Caves | 3.00% | ~43 |
+| Bonebreakers | 3.00% | ~43 |
+| Some Say I'm Too Flashy | 3.00% | ~43 |
+| Into Mulch | 3.00% | ~43 |
+| Astrology | 3.00% | ~43 |
+| Tempest | 3.00% | ~43 |
 | Drauvenslayers | 2.00% | ~28 |
 | Back into the Sea | 2.00% | ~28 |
 | War-Ender | 2.00% | ~28 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Overwhelming Monstrosity | 0.80% | ~11 |
 | Peacemaker | 0.70% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,416 (Ranked 222)  
+Progressed: 1,417 (Ranked 222)  
 Completed: 6 (0.42%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 6 (0.42%) (Ranked 187)
 | 2023-10-08 | 1,411 | 6 |
 | 2023-10-10 | 1,412 | 6 |
 | 2023-10-12 | 1,413 | 6 |
-| 2023-10-13 | 1,416 | 6 |
+| 2023-10-13 | 1,417 | 6 |
 ## Awards
 Max (Character Customization): 28  (Ranked 482)  
 Sum: 28 (Ranked 496)  

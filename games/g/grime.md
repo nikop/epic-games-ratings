@@ -11,20 +11,20 @@ Number of Ratings: 46  (23.09.2022)
 | Imprint | 1.00% | ~1,519 |
 | Weeper | 0.90% | ~1,367 |
 | Ravenous | 0.90% | ~1,367 |
-| Silenced Whispers | 0.60% | ~911 |
-| Devourer | 0.60% | ~911 |
+| Silenced Whispers | 0.60% | ~912 |
+| Devourer | 0.60% | ~912 |
 | Harmless | 0.50% | ~760 |
 | Yank | 0.50% | ~760 |
 | Sharpened Vessel | 0.50% | ~760 |
+| Shapely | 0.40% | ~608 |
 | Scion | 0.40% | ~606 |
 | Jawcrab | 0.40% | ~608 |
 | Jawstag | 0.40% | ~608 |
 | Feast | 0.40% | ~608 |
 | Watcher | 0.40% | ~608 |
 | Assimilation | 0.30% | ~456 |
-| Shapely | 0.30% | ~456 |
-| Glare | 0.30% | ~454 |
-| Host | 0.30% | ~454 |
+| Glare | 0.30% | ~455 |
+| Host | 0.30% | ~455 |
 | Celebration | 0.30% | ~456 |
 | Predator | 0.30% | ~456 |
 | Breath | 0.20% | ~304 |
@@ -39,21 +39,21 @@ Number of Ratings: 46  (23.09.2022)
 | Bloodhunter | 0.10% | ~152 |
 | Skinmaker | 0.10% | ~152 |
 | Instruments | 0.10% | ~152 |
-| Zygote | 0.10% | ~151 |
+| Zygote | 0.10% | ~152 |
 | Kinship | 0.10% | ~152 |
 | Weakness | 0.10% | ~152 |
 | Unwrap the Gift | 0.10% | ~152 |
 | Passage | 0.10% | ~152 |
 | Generous | 0.10% | ~152 |
-| Kin | 0.10% | ~151 |
-| Listen | 0.10% | ~151 |
+| Kin | 0.10% | ~152 |
+| Listen | 0.10% | ~152 |
 | Proportions | 0.10% | ~152 |
-| The Nightmare | 0.10% | ~151 |
-| Touch of Otherwhere | 0.10% | ~151 |
-| Enrich | 0.10% | ~151 |
-| Intensify | 0.10% | ~151 |
+| The Nightmare | 0.10% | ~152 |
+| Touch of Otherwhere | 0.10% | ~152 |
+| Enrich | 0.10% | ~152 |
+| Intensify | 0.10% | ~152 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 151,916 (Ranked 71)  
+Progressed: 151,921 (Ranked 71)  
 Completed: 1 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 1 (0.00%) (Ranked 314)
 | 2023-10-10 | 151,469 | 1 |
 | 2023-10-11 | 151,477 | 1 |
 | 2023-10-12 | 151,679 | 1 |
-| 2023-10-13 | 151,916 | 1 |
+| 2023-10-13 | 151,921 | 1 |
 ## Awards
 Max (Highly Recommended): 44  (Ranked 433)  
 Sum: 283 (Ranked 355)  

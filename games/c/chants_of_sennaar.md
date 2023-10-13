@@ -11,18 +11,18 @@
 | In this together | 7.00% | ~20 |
 | Cable guy | 7.00% | ~20 |
 | A new dawn | 7.00% | ~20 |
+| One last step | 7.00% | ~20 |
 | I did it | 6.00% | ~17 |
 | Peace walker | 6.00% | ~17 |
 | A good beginning | 6.00% | ~17 |
 | Half the way | 6.00% | ~17 |
+| Feels like springtime | 6.00% | ~17 |
 | True G3M4R | 6.00% | ~17 |
 | Champollion | 6.00% | ~17 |
 | Scholar | 6.00% | ~17 |
 | The darkness | 6.00% | ~17 |
-| One last step | 6.00% | ~17 |
-| Feels like springtime | 5.00% | ~14 |
+| Open door | 5.00% | ~14 |
 | Alchemists Express | 5.00% | ~14 |
-| Open door | 4.00% | ~11 |
 | Free at last | 4.00% | ~11 |
 | A Link to the Past | 4.00% | ~11 |
 | Rascal | 4.00% | ~11 |

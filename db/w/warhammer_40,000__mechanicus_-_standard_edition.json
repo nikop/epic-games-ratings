@@ -765,9 +765,9 @@
       "Count": 98
     }
   ],
-  "EOS_Progressed": 224657,
+  "EOS_Progressed": 224663,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 562,
+  "EOS_NewPlayers": 566,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19980,6 +19980,11 @@
       "Time": "2023-10-13T21:04:55.2758683+00:00",
       "NumProgressed": 224657,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-13T22:05:06.3216654+00:00",
+      "NumProgressed": 224663,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -19991,7 +19996,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 42685
+      "UsersEstimate": 42686
     },
     {
       "ID": "ACH_BASE_10",
@@ -19999,7 +20004,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 58411
+      "UsersEstimate": 58412
     },
     {
       "ID": "ACH_BASE_11",
@@ -20015,7 +20020,7 @@
       "Name": "Competent Cohort",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 8986
+      "UsersEstimate": 8987
     },
     {
       "ID": "ACH_BASE_13",
@@ -20031,7 +20036,7 @@
       "Name": "Power Ranger",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20219
+      "UsersEstimate": 20220
     },
     {
       "ID": "ACH_BASE_16",
@@ -20047,7 +20052,7 @@
       "Name": "Taser Goad",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20219
+      "UsersEstimate": 20220
     },
     {
       "ID": "ACH_BASE_18",
@@ -20055,7 +20060,7 @@
       "Name": "Radium Ready",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20219
+      "UsersEstimate": 20220
     },
     {
       "ID": "ACH_BASE_19",
@@ -20071,7 +20076,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13479
+      "UsersEstimate": 13480
     },
     {
       "ID": "ACH_BASE_20",
@@ -20159,7 +20164,7 @@
       "Name": "Celestial Cartography Catastrophe",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8986
+      "UsersEstimate": 8987
     },
     {
       "ID": "ACH_BASE_30",
@@ -20239,7 +20244,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 26959
+      "UsersEstimate": 26960
     },
     {
       "ID": "ACH_BASE_8",
@@ -20247,7 +20252,7 @@
       "Name": "One with the Machine",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8986
+      "UsersEstimate": 8987
     },
     {
       "ID": "ACH_BASE_9",
@@ -20255,14 +20260,14 @@
       "Name": "Half a cog",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20219
+      "UsersEstimate": 20220
     }
   ],
   "AchievementSets": [
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 224657,
+      "Progressed": 224663,
       "Completed": 5
     }
   ],
@@ -20270,8 +20275,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-10-13T17:02:55.4930265+00:00",
-  "LastChanged_Achievements": "2023-10-13T21:04:55.2758676+00:00",
+  "LastChanged_Achievements": "2023-10-13T22:05:06.321665+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:40.0692082+00:00",
-  "LastUpdate_Ratings": "2023-10-13T21:01:15.5218675+00:00",
-  "LastUpdate_Achievements": "2023-10-13T21:04:55.2761222+00:00"
+  "LastUpdate_Ratings": "2023-10-13T22:01:21.2486172+00:00",
+  "LastUpdate_Achievements": "2023-10-13T22:05:06.3217886+00:00"
 }

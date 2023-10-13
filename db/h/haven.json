@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -180,9 +180,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1484,
+  "EOS_Progressed": 1485,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -1930,6 +1930,11 @@
       "Time": "2023-10-13T11:09:21.082815+00:00",
       "NumProgressed": 1484,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-13T22:09:04.4027957+00:00",
+      "NumProgressed": 1485,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -1941,7 +1946,7 @@
       "Name": "Lovebirds",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "10",
@@ -2099,9 +2104,9 @@
       "ID": "3",
       "SetID": "n50no0",
       "Name": "Hug therapy",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 638
+      "UsersEstimate": 653
     },
     {
       "ID": "30",
@@ -2180,15 +2185,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1484,
+      "Progressed": 1485,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-10-13T21:09:04.5039641+00:00",
+  "LastChanged_Achievements": "2023-10-13T22:09:04.402795+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:55.1210673+00:00",
-  "LastUpdate_Ratings": "2023-10-13T20:57:52.5441093+00:00",
-  "LastUpdate_Achievements": "2023-10-13T21:09:04.5040032+00:00"
+  "LastUpdate_Ratings": "2023-10-13T21:57:55.1728572+00:00",
+  "LastUpdate_Achievements": "2023-10-13T22:09:04.4028322+00:00"
 }
