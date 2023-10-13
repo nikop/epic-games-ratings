@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 51.59% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 51.57% |
 | 3 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 47.17% |
 | 5 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.72% |
@@ -90,11 +90,11 @@
 | 88 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.15% |
 | 89 | [HordeCore](games/h/hordecore.md) | 3.12% |
 | 89 | [Without Escape](games/w/without_escape.md) | 3.12% |
-| 91 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 2.94% |
-| 92 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 93 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 2.86% |
-| 93 | [FORECLOSED](games/f/foreclosed.md) | 2.86% |
-| 93 | [Mega City Police](games/m/mega_city_police.md) | 2.86% |
+| 91 | [MultiVersus](games/m/multiversus.md) | 2.93% |
+| 92 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 2.86% |
+| 92 | [FORECLOSED](games/f/foreclosed.md) | 2.86% |
+| 92 | [Mega City Police](games/m/mega_city_police.md) | 2.86% |
+| 92 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 2.86% |
 | 96 | [Destiny 2](games/d/destiny_2.md) | 2.80% |
 | 97 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.74% |
 | 98 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.68% |
@@ -131,7 +131,7 @@
 | 127 | [Poosh XL](games/p/poosh_xl.md) | 1.38% |
 | 127 | [Ten Dates](games/t/ten_dates.md) | 1.38% |
 | 131 | [Chorus](games/c/chorus.md) | 1.37% |
-| 132 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 1.35% |
+| 132 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 1.33% |
 | 133 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.32% |
 | 133 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.32% |
 | 133 | [Lemon Cake](games/l/lemon_cake.md) | 1.32% |
@@ -226,10 +226,10 @@
 | 222 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.20% |
 | 225 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.19% |
 | 225 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.19% |
-| 227 | [RAILGRADE](games/r/railgrade.md) | 0.18% |
 | 227 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.18% |
-| 229 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.17% |
-| 229 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.17% |
+| 228 | [RAILGRADE](games/r/railgrade.md) | 0.17% |
+| 228 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.17% |
+| 228 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.17% |
 | 231 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
 | 231 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 231 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
@@ -666,4 +666,4 @@
 | 314 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 314 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 314 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,388 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,390 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
