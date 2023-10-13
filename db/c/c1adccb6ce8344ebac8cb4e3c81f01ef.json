@@ -2,9 +2,9 @@
   "ID": "c1adccb6ce8344ebac8cb4e3c81f01ef",
   "Name": "Evalina The Sorceress",
   "ProductSlug": "evalinathe-sorceress-a9a60a",
-  "Ranking_EOS_Progress": 267,
+  "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-06-20T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 550,
+  "EOS_Progressed": 551,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.36,
   "EosHistory": [
@@ -1911,6 +1911,11 @@
       "Time": "2023-10-13T01:48:41.1513398+00:00",
       "NumProgressed": 550,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-10-13T10:04:06.3262153+00:00",
+      "NumProgressed": 551,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-06-26T21:03:11.1861911+00:00",
@@ -1923,7 +1928,7 @@
       "Name": "Black Skeleton",
       "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "BlueSkeleton",
@@ -1947,7 +1952,7 @@
       "Name": "Orange Skeleton",
       "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "RedSkeleton",
@@ -1970,14 +1975,14 @@
     {
       "ID": "a76l54k",
       "IsBase": true,
-      "Progressed": 550,
+      "Progressed": 551,
       "Completed": 13
     }
   ],
   "FirstSeen": "2023-06-27T08:56:55.4742028+00:00",
   "FirstSeenAchievements": "2023-06-15T10:01:05.3060571+00:00",
-  "LastChanged_Achievements": "2023-10-13T09:04:25.9686178+00:00",
+  "LastChanged_Achievements": "2023-10-13T10:04:06.3262148+00:00",
   "LastUpdate_AppInfo": "2023-10-12T20:57:27.2773362+00:00",
-  "LastUpdate_Ratings": "2023-10-13T08:59:39.1566907+00:00",
-  "LastUpdate_Achievements": "2023-10-13T09:04:25.968651+00:00"
+  "LastUpdate_Ratings": "2023-10-13T09:59:22.4436782+00:00",
+  "LastUpdate_Achievements": "2023-10-13T10:04:06.3262578+00:00"
 }

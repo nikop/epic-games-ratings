@@ -6,28 +6,28 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 2.00% | ~18,710 |
-| Handyman | 1.00% | ~9,355 |
-| Zealous | 1.00% | ~9,355 |
-| Not half bad | 1.00% | ~9,355 |
-| Apt Survivor | 1.00% | ~9,355 |
-| Survival Treasures | 1.00% | ~9,355 |
-| Skillful | 1.00% | ~9,355 |
-| Sorted | 1.00% | ~9,355 |
-| Make Some Noise | 1.00% | ~9,355 |
+| It wakes | 2.00% | ~18,711 |
+| Handyman | 1.00% | ~9,356 |
+| Zealous | 1.00% | ~9,356 |
+| Not half bad | 1.00% | ~9,356 |
+| Apt Survivor | 1.00% | ~9,356 |
+| Survival Treasures | 1.00% | ~9,356 |
+| Skillful | 1.00% | ~9,356 |
+| Sorted | 1.00% | ~9,356 |
+| Make Some Noise | 1.00% | ~9,356 |
 | No one left behind | 0.90% | ~8,420 |
 | Medic | 0.90% | ~8,420 |
 | Healthy Obsession | 0.90% | ~8,420 |
 | Resurgence | 0.90% | ~8,420 |
-| The Grand Sacrifice | 0.80% | ~7,484 |
-| Backdoor Escape | 0.80% | ~7,484 |
-| Nerves of steel | 0.80% | ~7,484 |
-| Perfect Escape | 0.80% | ~7,484 |
-| Bloody Millionaire | 0.80% | ~7,484 |
-| I | 0.80% | ~7,484 |
-| Engineer | 0.80% | ~7,484 |
-| Preemptive Strike | 0.80% | ~7,484 |
-| Humanitarian | 0.80% | ~7,484 |
+| The Grand Sacrifice | 0.80% | ~7,485 |
+| Backdoor Escape | 0.80% | ~7,485 |
+| Nerves of steel | 0.80% | ~7,485 |
+| Perfect Escape | 0.80% | ~7,485 |
+| Bloody Millionaire | 0.80% | ~7,485 |
+| I | 0.80% | ~7,485 |
+| Engineer | 0.80% | ~7,485 |
+| Preemptive Strike | 0.80% | ~7,485 |
+| Humanitarian | 0.80% | ~7,485 |
 | Agonizing Escape | 0.70% | ~6,549 |
 | I've got your back | 0.70% | ~6,549 |
 | Perfect Killing | 0.70% | ~6,549 |
@@ -82,6 +82,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Grim Pilgrimage | 0.30% | ~2,807 |
 | Selfless Survival | 0.30% | ~2,807 |
 | End of Days | 0.30% | ~2,807 |
+| Insult and Injury | 0.30% | ~2,807 |
 | Outrun the Overlap | 0.30% | ~2,807 |
 | Extraterrestrial | 0.30% | ~2,807 |
 | Kitted Out | 0.30% | ~2,807 |
@@ -97,7 +98,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Broken Bodies | 0.20% | ~1,871 |
 | I See You | 0.20% | ~1,871 |
 | Power Moves | 0.20% | ~1,871 |
-| Insult and Injury | 0.20% | ~1,871 |
 | Prowler | 0.20% | ~1,871 |
 | Triage | 0.20% | ~1,871 |
 | High Speed Pursuit | 0.20% | ~1,871 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~936 |
 | Adept Ripley | 0.10% | ~936 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 935,523 (Ranked 14)  
+Progressed: 935,572 (Ranked 14)  
 Completed: 50 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -412,10 +412,10 @@ Completed: 50 (0.01%) (Ranked 296)
 | 2023-10-10 | 931,511 | 49 |
 | 2023-10-11 | 933,163 | 49 |
 | 2023-10-12 | 934,954 | 50 |
-| 2023-10-13 | 935,523 | 50 |
+| 2023-10-13 | 935,572 | 50 |
 ## Awards
 Max (Diverse Characters): 33,824  (Ranked 15)  
-Sum: 261,717 (Ranked 13)  
+Sum: 261,741 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -425,7 +425,7 @@ Diff (max vs sum): 2
 | This game has Amazing Characters | 29,558 |
 | This game is Extremely Fun | 29,214 |
 | This game has Challenging Combat | 28,793 |
-| This game has Quickly Understood Controls | 28,704 |
+| This game has Quickly Understood Controls | 28,728 |
 | This game has Amazing Storytelling | 26,843 |
 | This game has a Competitive Community | 25,339 |
 | This game has Obsessive Gameplay | 16,768 |
@@ -695,4 +695,4 @@ Diff (max vs sum): 2
 | 2023-10-10 | 4.51 | - | 33,667 | 261,003 |
 | 2023-10-11 | 4.51 | - | 33,734 | 261,382 |
 | 2023-10-12 | 4.51 | - | 33,781 | 261,674 |
-| 2023-10-13 | 4.51 | - | 33,824 | 261,717 |
+| 2023-10-13 | 4.51 | - | 33,824 | 261,741 |

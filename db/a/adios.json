@@ -3,8 +3,8 @@
   "Name": "Adios",
   "ProductSlug": "adios-b378b4",
   "Ranking_Rating": 1009,
-  "Ranking_Popularity": 534,
-  "Ranking_PopularitySum": 534,
+  "Ranking_Popularity": 535,
+  "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 141,
   "Ranking_EOS_NewPlayers": 89,
@@ -114,9 +114,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 75654,
+  "EOS_Progressed": 75658,
   "EOS_Completed": 795,
-  "EOS_NewPlayers": 551,
+  "EOS_NewPlayers": 553,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -19724,6 +19724,11 @@
       "Time": "2023-10-13T09:04:30.1678918+00:00",
       "NumProgressed": 75654,
       "NumCompleted": 795
+    },
+    {
+      "Time": "2023-10-13T10:04:10.2076255+00:00",
+      "NumProgressed": 75658,
+      "NumCompleted": 795
     }
   ],
   "TotalAchievements": 25,
@@ -19767,7 +19772,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 16644
+      "UsersEstimate": 16645
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -19807,7 +19812,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 15131
+      "UsersEstimate": 15132
     },
     {
       "ID": "Hearty",
@@ -19839,7 +19844,7 @@
       "Name": "Master, Commander",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 15131
+      "UsersEstimate": 15132
     },
     {
       "ID": "Meaty",
@@ -19855,7 +19860,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 14374
+      "UsersEstimate": 14375
     },
     {
       "ID": "Nice Try",
@@ -19879,7 +19884,7 @@
       "Name": "Piano Man",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 7565
+      "UsersEstimate": 7566
     },
     {
       "ID": "Right On Target",
@@ -19887,7 +19892,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 9835
+      "UsersEstimate": 9836
     },
     {
       "ID": "Sniper",
@@ -19927,14 +19932,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6052
+      "UsersEstimate": 6053
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 75654,
+      "Progressed": 75658,
       "Completed": 795
     }
   ],
@@ -19942,8 +19947,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-10-13T09:04:30.1678906+00:00",
+  "LastChanged_Achievements": "2023-10-13T10:04:10.2076248+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:32.9396838+00:00",
-  "LastUpdate_Ratings": "2023-10-13T08:59:38.025603+00:00",
-  "LastUpdate_Achievements": "2023-10-13T09:04:30.1680485+00:00"
+  "LastUpdate_Ratings": "2023-10-13T09:59:21.4156679+00:00",
+  "LastUpdate_Achievements": "2023-10-13T10:04:10.2077927+00:00"
 }

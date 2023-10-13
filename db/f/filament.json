@@ -2,7 +2,7 @@
   "ID": "89fb09a222a54e53b692e9c36e68d0a1",
   "Name": "Filament",
   "ProductSlug": "filament-332a92",
-  "Ranking_Rating": 788,
+  "Ranking_Rating": 789,
   "Ranking_Popularity": 197,
   "Ranking_PopularitySum": 288,
   "Ranking_EOS_Progress": 66,
@@ -267,9 +267,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 203334,
+  "EOS_Progressed": 203335,
   "EOS_Completed": 515,
-  "EOS_NewPlayers": 444,
+  "EOS_NewPlayers": 445,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -19232,6 +19232,11 @@
       "Time": "2023-10-13T09:09:39.4844271+00:00",
       "NumProgressed": 203334,
       "NumCompleted": 515
+    },
+    {
+      "Time": "2023-10-13T10:09:16.41361+00:00",
+      "NumProgressed": 203335,
+      "NumCompleted": 515
     }
   ],
   "TotalAchievements": 29,
@@ -19267,7 +19272,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 191134
+      "UsersEstimate": 191135
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -19427,7 +19432,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20333
+      "UsersEstimate": 20334
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -19474,7 +19479,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 203334,
+      "Progressed": 203335,
       "Completed": 515
     }
   ],
@@ -19482,8 +19487,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-10-13T02:58:16.6970015+00:00",
-  "LastChanged_Achievements": "2023-10-13T09:09:39.4844264+00:00",
+  "LastChanged_Achievements": "2023-10-13T10:09:16.4136092+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:23.9270429+00:00",
-  "LastUpdate_Ratings": "2023-10-13T08:58:32.8189064+00:00",
-  "LastUpdate_Achievements": "2023-10-13T09:09:39.484576+00:00"
+  "LastUpdate_Ratings": "2023-10-13T09:58:22.4243707+00:00",
+  "LastUpdate_Achievements": "2023-10-13T10:09:16.4138664+00:00"
 }

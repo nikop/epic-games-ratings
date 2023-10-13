@@ -3,12 +3,12 @@
   "Name": "Redout: Enhanced Edition",
   "ProductSlug": "redout-enhanced-edition",
   "Ranking_Rating": 573,
-  "Ranking_Popularity": 534,
-  "Ranking_PopularitySum": 534,
+  "Ranking_Popularity": 535,
+  "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 57,
-  "Ranking_EOS_Completed": 286,
+  "Ranking_EOS_Completed": 287,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -334,7 +334,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 233532,
+  "EOS_Progressed": 233533,
   "EOS_Completed": 47,
   "EOS_NewPlayers": 387,
   "EOS_NewCompleters": 0,
@@ -18839,6 +18839,11 @@
       "Time": "2023-10-13T09:06:46.7603863+00:00",
       "NumProgressed": 233532,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-10-13T10:06:16.4808845+00:00",
+      "NumProgressed": 233533,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 34,
@@ -18938,7 +18943,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 46706
+      "UsersEstimate": 46707
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -19114,22 +19119,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 95748
+      "UsersEstimate": 95749
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 233532,
+      "Progressed": 233533,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-10-13T09:06:46.7603852+00:00",
+  "LastChanged_Achievements": "2023-10-13T10:06:16.4808841+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:05.8840873+00:00",
-  "LastUpdate_Ratings": "2023-10-13T09:02:33.1689719+00:00",
-  "LastUpdate_Achievements": "2023-10-13T09:06:46.7606226+00:00"
+  "LastUpdate_Ratings": "2023-10-13T10:02:02.4526843+00:00",
+  "LastUpdate_Achievements": "2023-10-13T10:06:16.4810394+00:00"
 }

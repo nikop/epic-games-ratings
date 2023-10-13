@@ -3,12 +3,12 @@
   "Name": "F1\u00AE 23",
   "ProductSlug": "f1-23",
   "Ranking_Rating": 280,
-  "Ranking_Popularity": 534,
-  "Ranking_PopularitySum": 534,
+  "Ranking_Popularity": 535,
+  "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -376,9 +376,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3200,
+  "EOS_Progressed": 3201,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 246,
+  "EOS_NewPlayers": 245,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2746,6 +2746,11 @@
       "Time": "2023-10-13T06:05:54.2134305+00:00",
       "NumProgressed": 3200,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-13T10:07:20.8861669+00:00",
+      "NumProgressed": 3201,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -2798,7 +2803,7 @@
       "Name": "Setting up for Success",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 2496
+      "UsersEstimate": 2497
     },
     {
       "ID": "achievement_0007",
@@ -2806,7 +2811,7 @@
       "Name": "Getting on the Step",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 3040
+      "UsersEstimate": 3041
     },
     {
       "ID": "achievement_0008",
@@ -2814,7 +2819,7 @@
       "Name": "On the Top Step",
       "Percentage": 89,
       "XP": 20,
-      "UsersEstimate": 2848
+      "UsersEstimate": 2849
     },
     {
       "ID": "achievement_0009",
@@ -2918,7 +2923,7 @@
       "Name": "Team Orders",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2432
+      "UsersEstimate": 2433
     },
     {
       "ID": "achievement_0022",
@@ -3014,7 +3019,7 @@
       "Name": "Engineer",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 1792
+      "UsersEstimate": 1793
     },
     {
       "ID": "achievement_0034",
@@ -3149,7 +3154,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 3200,
+      "Progressed": 3201,
       "Completed": 0
     }
   ],
@@ -3157,8 +3162,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-10-12T23:59:48.9336928+00:00",
-  "LastChanged_Achievements": "2023-10-13T09:07:55.6562895+00:00",
+  "LastChanged_Achievements": "2023-10-13T10:07:20.8861662+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:10.4381265+00:00",
-  "LastUpdate_Ratings": "2023-10-13T09:00:33.529031+00:00",
-  "LastUpdate_Achievements": "2023-10-13T09:07:55.6563498+00:00"
+  "LastUpdate_Ratings": "2023-10-13T10:00:14.3939989+00:00",
+  "LastUpdate_Achievements": "2023-10-13T10:07:20.8862785+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "Absolute Drift",
   "ProductSlug": "absolute-drift",
   "Ranking_Rating": 696,
-  "Ranking_Popularity": 534,
-  "Ranking_PopularitySum": 534,
+  "Ranking_Popularity": 535,
+  "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 7,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2021-02-18T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -454,9 +454,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1544839,
+  "EOS_Progressed": 1544842,
   "EOS_Completed": 705,
-  "EOS_NewPlayers": 1139,
+  "EOS_NewPlayers": 1138,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -20319,6 +20319,11 @@
       "Time": "2023-10-13T09:08:38.5065784+00:00",
       "NumProgressed": 1544839,
       "NumCompleted": 705
+    },
+    {
+      "Time": "2023-10-13T10:08:00.4368094+00:00",
+      "NumProgressed": 1544842,
+      "NumCompleted": 705
     }
   ],
   "TotalAchievements": 20,
@@ -20489,15 +20494,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1544839,
+      "Progressed": 1544842,
       "Completed": 705
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-09-25T13:05:51.0685533+00:00",
-  "LastChanged_Achievements": "2023-10-13T09:08:38.5065773+00:00",
+  "LastChanged_Achievements": "2023-10-13T10:08:00.4368088+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:49.6102489+00:00",
-  "LastUpdate_Ratings": "2023-10-13T08:57:53.3101934+00:00",
-  "LastUpdate_Achievements": "2023-10-13T09:08:38.5069186+00:00"
+  "LastUpdate_Ratings": "2023-10-13T09:57:47.9772633+00:00",
+  "LastUpdate_Achievements": "2023-10-13T10:08:00.4369782+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 106,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 105,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -4116,9 +4116,9 @@
       "Count": 516
     }
   ],
-  "EOS_Progressed": 10774,
+  "EOS_Progressed": 10775,
   "EOS_Completed": 257,
-  "EOS_NewPlayers": 198,
+  "EOS_NewPlayers": 199,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 2.39,
   "EosHistory": [
@@ -15741,6 +15741,11 @@
       "Time": "2023-10-13T06:04:41.4167601+00:00",
       "NumProgressed": 10774,
       "NumCompleted": 257
+    },
+    {
+      "Time": "2023-10-13T10:05:43.4162349+00:00",
+      "NumProgressed": 10775,
+      "NumCompleted": 257
     }
   ],
   "TotalAchievements": 15,
@@ -15776,7 +15781,7 @@
       "Name": "Chef Cook",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 1939
+      "UsersEstimate": 1940
     },
     {
       "ID": "Chit_Chatter",
@@ -15840,7 +15845,7 @@
       "Name": "Photographer",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 7434
+      "UsersEstimate": 7435
     },
     {
       "ID": "Renovator",
@@ -15871,7 +15876,7 @@
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 10774,
+      "Progressed": 10775,
       "Completed": 257
     }
   ],
@@ -15879,8 +15884,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-10-12T19:00:00.3793403+00:00",
-  "LastChanged_Achievements": "2023-10-13T09:06:11.1148114+00:00",
+  "LastChanged_Achievements": "2023-10-13T10:05:43.4162344+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:41.0939363+00:00",
-  "LastUpdate_Ratings": "2023-10-13T09:02:03.1540658+00:00",
-  "LastUpdate_Achievements": "2023-10-13T09:06:11.1149023+00:00"
+  "LastUpdate_Ratings": "2023-10-13T10:01:37.8979541+00:00",
+  "LastUpdate_Achievements": "2023-10-13T10:05:43.4163276+00:00"
 }

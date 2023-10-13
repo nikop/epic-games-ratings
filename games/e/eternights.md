@@ -9,9 +9,9 @@
 | The First Bond | 73.00% | ~194 |
 | Novice Scavenger | 66.00% | ~176 |
 | Master Craftsman | 54.00% | ~144 |
-| First wall | 52.00% | ~138 |
+| First wall | 53.00% | ~141 |
 | Piggyback Expert | 50.00% | ~133 |
-| Second wall | 39.00% | ~104 |
+| Second wall | 40.00% | ~106 |
 | Expert Scavenger | 36.00% | ~96 |
 | Their Rock | 32.00% | ~85 |
 | Yuna's Promise | 31.00% | ~82 |

@@ -2,10 +2,10 @@
   "ID": "404af94cb14f43609c176f0e14fc7d68",
   "Name": "ANXRacers - Drift Space",
   "ProductSlug": "anxracers-635368",
-  "Ranking_EOS_Progress": 668,
+  "Ranking_EOS_Progress": 669,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 391,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-08-30T18:30:00+00:00",
     "PcReleaseDate": "2023-08-30T18:30:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-22T14:02:11.4250592+00:00",
-  "LastChanged_Achievements": "2023-10-13T09:10:05.1584123+00:00",
+  "LastChanged_Achievements": "2023-10-13T10:09:30.59449+00:00",
   "LastUpdate_AppInfo": "2023-10-10T17:57:11.8714233+00:00",
-  "LastUpdate_Ratings": "2023-10-13T08:57:40.5754496+00:00",
-  "LastUpdate_Achievements": "2023-10-13T09:10:05.1584177+00:00"
+  "LastUpdate_Ratings": "2023-10-13T09:57:36.6018483+00:00",
+  "LastUpdate_Achievements": "2023-10-13T10:09:30.5944953+00:00"
 }

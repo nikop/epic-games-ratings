@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -749,9 +749,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4072,
+  "EOS_Progressed": 4075,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 277,
+  "EOS_NewPlayers": 280,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7254,6 +7254,11 @@
       "Time": "2023-10-13T05:06:55.976843+00:00",
       "NumProgressed": 4072,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-13T10:08:05.2421245+00:00",
+      "NumProgressed": 4075,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -7266,7 +7271,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -7320,9 +7325,9 @@
       "ID": "MF_Ach_FirstStrike",
       "SetID": "9b9n573",
       "Name": "First Strike",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 733
+      "UsersEstimate": 693
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -7378,7 +7383,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -7386,7 +7391,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -7418,7 +7423,7 @@
       "Name": "Spending Spree",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 692
+      "UsersEstimate": 693
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -7449,15 +7454,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4072,
+      "Progressed": 4075,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-12T23:00:50.5530003+00:00",
-  "LastChanged_Achievements": "2023-10-13T09:08:43.7527874+00:00",
+  "LastChanged_Achievements": "2023-10-13T10:08:05.2421238+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:44.063019+00:00",
-  "LastUpdate_Ratings": "2023-10-13T09:02:07.7461543+00:00",
-  "LastUpdate_Achievements": "2023-10-13T09:08:43.752848+00:00"
+  "LastUpdate_Ratings": "2023-10-13T10:01:41.3504183+00:00",
+  "LastUpdate_Achievements": "2023-10-13T10:08:05.2421911+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "Guacamelee! Super Turbo Championship Edition",
   "ProductSlug": "guacamelee-stce-7cdbc8",
   "Ranking_Rating": 526,
-  "Ranking_Popularity": 534,
-  "Ranking_PopularitySum": 534,
+  "Ranking_Popularity": 535,
+  "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 63,
@@ -224,10 +224,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 147905,
+  "EOS_Progressed": 147908,
   "EOS_Completed": 297,
-  "EOS_NewPlayers": 1186,
-  "EOS_NewCompleters": 10,
+  "EOS_NewPlayers": 1183,
+  "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
     {
@@ -14259,6 +14259,11 @@
       "Time": "2023-10-13T09:06:31.3906928+00:00",
       "NumProgressed": 147905,
       "NumCompleted": 297
+    },
+    {
+      "Time": "2023-10-13T10:06:02.2757834+00:00",
+      "NumProgressed": 147908,
+      "NumCompleted": 297
     }
   ],
   "TotalAchievements": 31,
@@ -14278,7 +14283,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 103534
+      "UsersEstimate": 103536
     },
     {
       "ID": "EAwards_10",
@@ -14294,7 +14299,7 @@
       "Name": "Pollo Power",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 29581
+      "UsersEstimate": 29582
     },
     {
       "ID": "EAwards_12",
@@ -14318,7 +14323,7 @@
       "Name": "Do or Do Not",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 57683
+      "UsersEstimate": 57684
     },
     {
       "ID": "EAwards_15",
@@ -14342,7 +14347,7 @@
       "Name": "Main Event",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 32539
+      "UsersEstimate": 32540
     },
     {
       "ID": "EAwards_18",
@@ -14350,7 +14355,7 @@
       "Name": "That was INTENSE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 32539
+      "UsersEstimate": 32540
     },
     {
       "ID": "EAwards_19",
@@ -14366,7 +14371,7 @@
       "Name": "That\u0027s one big Gato Frito",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 41413
+      "UsersEstimate": 41414
     },
     {
       "ID": "EAwards_20",
@@ -14374,7 +14379,7 @@
       "Name": "I Have The Power",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 11832
+      "UsersEstimate": 11833
     },
     {
       "ID": "EAwards_21",
@@ -14454,7 +14459,7 @@
       "Name": "X\u0027tabay-Bye",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 28102
+      "UsersEstimate": 28103
     },
     {
       "ID": "EAwards_30",
@@ -14462,7 +14467,7 @@
       "Name": "Boom-Shack-Calaca",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 13311
+      "UsersEstimate": 13312
     },
     {
       "ID": "EAwards_4",
@@ -14486,7 +14491,7 @@
       "Name": "Power Within",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 36976
+      "UsersEstimate": 36977
     },
     {
       "ID": "EAwards_7",
@@ -14502,7 +14507,7 @@
       "Name": "Flawless",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 54725
+      "UsersEstimate": 54726
     },
     {
       "ID": "EAwards_9",
@@ -14517,7 +14522,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 147905,
+      "Progressed": 147908,
       "Completed": 297
     }
   ],
@@ -14525,8 +14530,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-10-06T14:02:51.6664481+00:00",
-  "LastChanged_Achievements": "2023-10-13T09:06:31.3906919+00:00",
+  "LastChanged_Achievements": "2023-10-13T10:06:02.2757829+00:00",
   "LastUpdate_AppInfo": "2023-10-13T01:42:08.412452+00:00",
-  "LastUpdate_Ratings": "2023-10-13T09:00:50.227597+00:00",
-  "LastUpdate_Achievements": "2023-10-13T09:06:31.3908107+00:00"
+  "LastUpdate_Ratings": "2023-10-13T10:00:28.9868727+00:00",
+  "LastUpdate_Achievements": "2023-10-13T10:06:02.2759032+00:00"
 }

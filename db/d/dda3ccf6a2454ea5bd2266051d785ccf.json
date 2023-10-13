@@ -2,10 +2,10 @@
   "ID": "dda3ccf6a2454ea5bd2266051d785ccf",
   "Name": "100 Halloweens",
   "ProductSlug": "100-halloweens-ee5589",
-  "Ranking_EOS_Progress": 668,
+  "Ranking_EOS_Progress": 669,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 391,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-10-03T17:00:00+00:00",
     "PcReleaseDate": "2023-10-03T17:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-07T06:02:14.9258318+00:00",
   "LastUpdate_AppInfo": "2023-10-11T02:57:18.8889456+00:00",
-  "LastUpdate_Ratings": "2023-10-13T08:59:39.8898914+00:00",
-  "LastUpdate_Achievements": "2023-10-13T09:06:04.8608115+00:00"
+  "LastUpdate_Ratings": "2023-10-13T09:59:23.1158462+00:00",
+  "LastUpdate_Achievements": "2023-10-13T10:05:37.5895636+00:00"
 }

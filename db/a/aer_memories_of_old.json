@@ -3,8 +3,8 @@
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
   "Ranking_Rating": 628,
-  "Ranking_Popularity": 534,
-  "Ranking_PopularitySum": 534,
+  "Ranking_Popularity": 535,
+  "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 112,
   "Ranking_EOS_NewPlayers": 92,
@@ -410,7 +410,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22001,
+  "EOS_Progressed": 22002,
   "EOS_Completed": 436,
   "EOS_NewPlayers": 486,
   "EOS_NewCompleters": 7,
@@ -19300,6 +19300,11 @@
       "Time": "2023-10-13T09:08:15.211088+00:00",
       "NumProgressed": 22001,
       "NumCompleted": 436
+    },
+    {
+      "Time": "2023-10-13T10:07:39.1417978+00:00",
+      "NumProgressed": 22002,
+      "NumCompleted": 436
     }
   ],
   "TotalAchievements": 20,
@@ -19431,7 +19436,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 16941
+      "UsersEstimate": 16942
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -19439,7 +19444,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 5940
+      "UsersEstimate": 5941
     },
     {
       "ID": "NORTH_FINISHED",
@@ -19470,15 +19475,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 22001,
+      "Progressed": 22002,
       "Completed": 436
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-13T09:08:15.211087+00:00",
+  "LastChanged_Achievements": "2023-10-13T10:07:39.1417968+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:20.9828053+00:00",
-  "LastUpdate_Ratings": "2023-10-13T09:03:05.669171+00:00",
-  "LastUpdate_Achievements": "2023-10-13T09:08:15.2113659+00:00"
+  "LastUpdate_Ratings": "2023-10-13T10:02:13.6874492+00:00",
+  "LastUpdate_Achievements": "2023-10-13T10:07:39.1419639+00:00"
 }

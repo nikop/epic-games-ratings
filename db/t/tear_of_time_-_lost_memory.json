@@ -2,10 +2,10 @@
   "ID": "7db5792a3c524cfba78b1666b7355b7b",
   "Name": "Tear of Time - Lost memory",
   "ProductSlug": "tear-of-time-lost-memory-add761",
-  "Ranking_EOS_Progress": 668,
+  "Ranking_EOS_Progress": 669,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 391,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-04-02T09:00:00+00:00",
     "PcReleaseDate": "2022-03-01T08:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-04-07T08:58:00.2116473+00:00",
   "LastChanged": "2023-04-07T08:58:00.2116473+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:06.4964341+00:00",
-  "LastUpdate_Ratings": "2023-10-13T09:00:58.1133743+00:00",
-  "LastUpdate_Achievements": "2023-10-13T09:09:29.5147547+00:00"
+  "LastUpdate_Ratings": "2023-10-13T10:00:37.4000003+00:00",
+  "LastUpdate_Achievements": "2023-10-13T10:09:07.1412953+00:00"
 }

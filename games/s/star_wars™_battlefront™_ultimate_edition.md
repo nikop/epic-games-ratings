@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~544 |
-| Off to a good start | 67.00% | ~405 |
-| Do... or do not. There is no try | 54.00% | ~327 |
+| New Recruit | 90.00% | ~546 |
+| Off to a good start | 67.00% | ~407 |
+| Do... or do not. There is no try | 54.00% | ~328 |
 | A good blaster at your side | 33.00% | ~200 |
-| Scrap collector | 20.00% | ~121 |
+| Scrap collector | 21.00% | ~127 |
 | I suggest a new strategy | 20.00% | ~121 |
 | Great shot, kid! | 19.00% | ~115 |
 | All right, I'll give it a try | 18.00% | ~109 |
 | Shoot first | 18.00% | ~109 |
-| The power of the Force | 16.00% | ~97 |
+| The power of the Force | 17.00% | ~103 |
 | Together we can rule the galaxy | 16.00% | ~97 |
 | Collector | 15.00% | ~91 |
 | Tell Jabba that I've got his money | 12.00% | ~73 |
 | Best star-pilot in the galaxy | 12.00% | ~73 |
 | Survivor | 12.00% | ~73 |
-| Never tell me the odds! | 10.00% | ~60 |
-| A cunning warrior | 10.00% | ~60 |
-| What's the cargo? | 9.00% | ~54 |
-| "Gonk? Gonk!" | 9.00% | ~54 |
-| Impressive. Most impressive. | 9.00% | ~54 |
-| Judge me by my size, do you? | 9.00% | ~54 |
-| Distinguished | 8.00% | ~48 |
-| Support the troops | 8.00% | ~48 |
+| Never tell me the odds! | 10.00% | ~61 |
+| A cunning warrior | 10.00% | ~61 |
+| What's the cargo? | 9.00% | ~55 |
+| "Gonk? Gonk!" | 9.00% | ~55 |
+| Impressive. Most impressive. | 9.00% | ~55 |
+| Judge me by my size, do you? | 9.00% | ~55 |
+| Distinguished | 8.00% | ~49 |
+| Support the troops | 8.00% | ~49 |
 | A tremor in the Force | 7.00% | ~42 |
 | Not bad for a little furball | 6.00% | ~36 |
 | On the ball | 5.00% | ~30 |
@@ -68,8 +68,8 @@
 | I never doubted you! | 0.30% | ~2 |
 | Crush them with one swift stroke… | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 605 (Ranked 262)  
-Completed: 1 (0.17%) (Ranked 228)  
+Progressed: 607 (Ranked 262)  
+Completed: 1 (0.16%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -95,7 +95,7 @@ Completed: 1 (0.17%) (Ranked 228)
 | 2023-10-10 | 572 | 1 |
 | 2023-10-11 | 589 | 1 |
 | 2023-10-12 | 603 | 1 |
-| 2023-10-13 | 605 | 1 |
+| 2023-10-13 | 607 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

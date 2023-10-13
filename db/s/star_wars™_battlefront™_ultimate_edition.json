@@ -3,9 +3,9 @@
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 262,
-  "Ranking_EOS_Completed": 228,
+  "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 605,
+  "EOS_Progressed": 607,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.17,
+  "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
     {
       "Time": "2023-09-21T19:05:03.9870233+00:00",
@@ -1626,6 +1626,11 @@
       "Time": "2023-10-13T02:24:41.9199992+00:00",
       "NumProgressed": 605,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-13T10:04:56.6247722+00:00",
+      "NumProgressed": 607,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -1670,7 +1675,7 @@
       "Name": "What\u0027s the cargo?",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "achievement_14",
@@ -1702,15 +1707,15 @@
       "Name": "\u0022Gonk? Gonk!\u0022",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "achievement_18",
       "SetID": "271ol84",
       "Name": "The power of the Force",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 103
     },
     {
       "ID": "achievement_19",
@@ -1750,7 +1755,7 @@
       "Name": "Distinguished",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "achievement_23",
@@ -1814,7 +1819,7 @@
       "Name": "Never tell me the odds!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "achievement_30",
@@ -1828,9 +1833,9 @@
       "ID": "achievement_31",
       "SetID": "271ol84",
       "Name": "Scrap collector",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 121
+      "UsersEstimate": 127
     },
     {
       "ID": "achievement_32",
@@ -1862,7 +1867,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 544
+      "UsersEstimate": 546
     },
     {
       "ID": "achievement_36",
@@ -1870,7 +1875,7 @@
       "Name": "Impressive. Most impressive.",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "achievement_37",
@@ -1878,7 +1883,7 @@
       "Name": "Off to a good start",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 405
+      "UsersEstimate": 407
     },
     {
       "ID": "achievement_38",
@@ -1910,7 +1915,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "achievement_41",
@@ -1918,7 +1923,7 @@
       "Name": "Judge me by my size, do you?",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "achievement_42",
@@ -2046,7 +2051,7 @@
       "Name": "Support the troops",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "achievement_57",
@@ -2118,7 +2123,7 @@
       "Name": "A cunning warrior",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "achievement_8",
@@ -2141,13 +2146,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 605,
+      "Progressed": 607,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 605,
+      "Progressed": 607,
       "Completed": 1
     }
   ],
@@ -2155,8 +2160,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-13T09:05:20.5252041+00:00",
+  "LastChanged_Achievements": "2023-10-13T10:04:56.6247717+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:04.2927905+00:00",
-  "LastUpdate_Ratings": "2023-10-13T09:03:34.1718819+00:00",
-  "LastUpdate_Achievements": "2023-10-13T09:05:20.5252888+00:00"
+  "LastUpdate_Ratings": "2023-10-13T10:03:17.1186547+00:00",
+  "LastUpdate_Achievements": "2023-10-13T10:04:56.6249144+00:00"
 }

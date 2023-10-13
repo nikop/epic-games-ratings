@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 155,
   "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -1061,9 +1061,9 @@
       "ID": "ACHIEVEMENT_5_FirstWall",
       "SetID": "9bke6f1",
       "Name": "First wall",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 138
+      "UsersEstimate": 141
     },
     {
       "ID": "ACHIEVEMENT_6_PiggybackExpert",
@@ -1077,9 +1077,9 @@
       "ID": "ACHIEVEMENT_7_SecondWall",
       "SetID": "9bke6f1",
       "Name": "Second wall",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 104
+      "UsersEstimate": 106
     },
     {
       "ID": "ACHIEVEMENT_8_StoneRetriever",
@@ -1108,8 +1108,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-10-13T09:06:56.5217455+00:00",
+  "LastChanged_Achievements": "2023-10-13T10:06:25.5852559+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:21.0883+00:00",
-  "LastUpdate_Ratings": "2023-10-13T08:57:49.4701805+00:00",
-  "LastUpdate_Achievements": "2023-10-13T09:06:56.5217708+00:00"
+  "LastUpdate_Ratings": "2023-10-13T09:57:44.5128558+00:00",
+  "LastUpdate_Achievements": "2023-10-13T10:06:25.5852822+00:00"
 }

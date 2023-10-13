@@ -41,11 +41,11 @@ Number of Ratings: 22  (23.09.2022)
 | Hundred Percent Third | 3.00% | ~14 |
 | Hundred Percent Fourth | 3.00% | ~14 |
 | Circus Maximus | 3.00% | ~14 |
+| Victorian Victor | 3.00% | ~14 |
 | Perfect Chemistry | 3.00% | ~14 |
 | Last Man Standing | 3.00% | ~14 |
 | Unmatched Skills | 2.00% | ~9 |
 | Hundred Percent Fifth | 2.00% | ~9 |
-| Victorian Victor | 2.00% | ~9 |
 | King of District 6 | 2.00% | ~9 |
 | Grand Slam | 2.00% | ~9 |
 | The Greatest Show | 2.00% | ~9 |

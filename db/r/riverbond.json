@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 34,
   "Ranking_EOS_Completed": 252,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
     "PcReleaseDate": "2019-06-09T00:00:00+00:00",
@@ -494,9 +494,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 529159,
+  "EOS_Progressed": 529160,
   "EOS_Completed": 485,
-  "EOS_NewPlayers": 485,
+  "EOS_NewPlayers": 483,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -19234,6 +19234,11 @@
       "Time": "2023-10-13T09:03:46.4312974+00:00",
       "NumProgressed": 529159,
       "NumCompleted": 485
+    },
+    {
+      "Time": "2023-10-13T10:03:28.9498234+00:00",
+      "NumProgressed": 529160,
+      "NumCompleted": 485
     }
   ],
   "TotalAchievements": 57,
@@ -19261,7 +19266,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 370411
+      "UsersEstimate": 370412
     },
     {
       "ID": "12",
@@ -19285,7 +19290,7 @@
       "Name": "Going on an Adventure",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 58207
+      "UsersEstimate": 58208
     },
     {
       "ID": "15",
@@ -19349,7 +19354,7 @@
       "Name": "Make Peace, Not War",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 58207
+      "UsersEstimate": 58208
     },
     {
       "ID": "22",
@@ -19477,7 +19482,7 @@
       "Name": "Sunday Best",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 84665
+      "UsersEstimate": 84666
     },
     {
       "ID": "37",
@@ -19621,7 +19626,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 243413
+      "UsersEstimate": 243414
     },
     {
       "ID": "53",
@@ -19700,15 +19705,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 529159,
+      "Progressed": 529160,
       "Completed": 485
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-10-13T09:03:46.4312967+00:00",
+  "LastChanged_Achievements": "2023-10-13T10:03:28.9498228+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:12.4810618+00:00",
-  "LastUpdate_Ratings": "2023-10-13T08:59:47.8306727+00:00",
-  "LastUpdate_Achievements": "2023-10-13T09:03:46.4314889+00:00"
+  "LastUpdate_Ratings": "2023-10-13T09:59:32.2245763+00:00",
+  "LastUpdate_Achievements": "2023-10-13T10:03:28.9501269+00:00"
 }

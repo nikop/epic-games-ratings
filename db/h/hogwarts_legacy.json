@@ -6,7 +6,7 @@
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 31,
   "Ranking_EOS_Progress": 47,
-  "Ranking_EOS_Completed": 231,
+  "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
@@ -8922,9 +8922,9 @@
       "Count": 710
     }
   ],
-  "EOS_Progressed": 298226,
+  "EOS_Progressed": 298227,
   "EOS_Completed": 485,
-  "EOS_NewPlayers": 339,
+  "EOS_NewPlayers": 340,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -27767,6 +27767,11 @@
       "Time": "2023-10-13T08:04:26.9061342+00:00",
       "NumProgressed": 298226,
       "NumCompleted": 485
+    },
+    {
+      "Time": "2023-10-13T10:04:41.7505051+00:00",
+      "NumProgressed": 298227,
+      "NumCompleted": 485
     }
   ],
   "TotalAchievements": 45,
@@ -28106,7 +28111,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38769
+      "UsersEstimate": 38770
     },
     {
       "ID": "PFA_7",
@@ -28114,7 +28119,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38769
+      "UsersEstimate": 38770
     },
     {
       "ID": "PFA_8",
@@ -28137,7 +28142,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298226,
+      "Progressed": 298227,
       "Completed": 485
     }
   ],
@@ -28145,8 +28150,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-13T01:44:37.0244788+00:00",
-  "LastChanged_Achievements": "2023-10-13T09:05:04.2705521+00:00",
+  "LastChanged_Achievements": "2023-10-13T10:04:41.7505045+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:01.0338203+00:00",
-  "LastUpdate_Ratings": "2023-10-13T09:01:18.0329087+00:00",
-  "LastUpdate_Achievements": "2023-10-13T09:05:04.2707178+00:00"
+  "LastUpdate_Ratings": "2023-10-13T10:00:54.4405151+00:00",
+  "LastUpdate_Achievements": "2023-10-13T10:04:41.75072+00:00"
 }

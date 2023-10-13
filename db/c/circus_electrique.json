@@ -3,12 +3,12 @@
   "Name": "Circus Electrique",
   "ProductSlug": "circus-electrique",
   "Ranking_Rating": 908,
-  "Ranking_Popularity": 534,
-  "Ranking_PopularitySum": 534,
+  "Ranking_Popularity": 535,
+  "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 220,
   "Ranking_EOS_NewPlayers": 391,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
     "PcReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -699,9 +699,9 @@
       "ID": "ACHIEVEMENT_28",
       "SetID": "631ndc2",
       "Name": "Victorian Victor",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_29",
@@ -892,8 +892,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-10-13T09:09:19.6554744+00:00",
+  "LastChanged_Achievements": "2023-10-13T10:08:38.3091329+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:56.2356011+00:00",
-  "LastUpdate_Ratings": "2023-10-13T09:00:55.8221201+00:00",
-  "LastUpdate_Achievements": "2023-10-13T09:09:19.6555278+00:00"
+  "LastUpdate_Ratings": "2023-10-13T10:00:35.2446631+00:00",
+  "LastUpdate_Achievements": "2023-10-13T10:08:38.3091775+00:00"
 }

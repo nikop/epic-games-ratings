@@ -2,10 +2,10 @@
   "ID": "08c03f2a2b794478a6b73c0a3e9b2b29",
   "Name": "Bud Spencer and Terence Hill - Slaps and Beans",
   "ProductSlug": "bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b",
-  "Ranking_EOS_Progress": 668,
+  "Ranking_EOS_Progress": 669,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 391,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2021-09-09T22:00:00+00:00",
     "PcReleaseDate": "2017-12-15T15:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:02.2055935+00:00",
   "LastChanged": "2023-03-31T05:58:02.2055936+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:25.6364621+00:00",
-  "LastUpdate_Ratings": "2023-10-13T08:58:33.9436169+00:00",
-  "LastUpdate_Achievements": "2023-10-13T09:06:18.4433658+00:00"
+  "LastUpdate_Ratings": "2023-10-13T09:58:23.4345453+00:00",
+  "LastUpdate_Achievements": "2023-10-13T10:05:50.1776696+00:00"
 }

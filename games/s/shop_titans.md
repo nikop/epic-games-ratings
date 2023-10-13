@@ -6,10 +6,10 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 3.00% | ~4,125 |
-| Basic in Bulk | 3.00% | ~4,125 |
-| Tinkle of Coins | 3.00% | ~4,125 |
-| Titan's First Steps | 3.00% | ~4,125 |
+| Sponsored by Argon | 3.00% | ~4,126 |
+| Basic in Bulk | 3.00% | ~4,126 |
+| Tinkle of Coins | 3.00% | ~4,126 |
+| Titan's First Steps | 3.00% | ~4,126 |
 | One Easy Payment | 2.00% | ~2,750 |
 | Some Assembly Required | 2.00% | ~2,750 |
 | Disintermediation | 2.00% | ~2,750 |
@@ -47,6 +47,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Magical Harmony | 0.80% | ~1,100 |
 | Tax not Included | 0.70% | ~963 |
 | For the Hoard! | 0.70% | ~963 |
+| Scrapbooker | 0.70% | ~963 |
 | This Power Level...! | 0.70% | ~963 |
 | Hidden Potential | 0.70% | ~963 |
 | Trash to Treasure | 0.70% | ~963 |
@@ -60,7 +61,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | A Ronin Reborn | 0.60% | ~825 |
 | The King's Caprice | 0.60% | ~825 |
 | Big Game Hunting | 0.60% | ~825 |
-| Scrapbooker | 0.60% | ~825 |
 | Archivist | 0.60% | ~825 |
 | Locally Sourced | 0.60% | ~825 |
 | Flying off the Shelves | 0.60% | ~825 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~138 |
 | Cash Only Please | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,515 (Ranked 73)  
+Progressed: 137,518 (Ranked 73)  
 Completed: 168 (0.12%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 168 (0.12%) (Ranked 240)
 | 2023-10-10 | 137,421 | 168 |
 | 2023-10-11 | 137,455 | 168 |
 | 2023-10-12 | 137,496 | 168 |
-| 2023-10-13 | 137,515 | 168 |
+| 2023-10-13 | 137,518 | 168 |
 ## Awards
 Max (Great for Beginners): 4,782  (Ranked 71)  
 Sum: 27,375 (Ranked 50)  

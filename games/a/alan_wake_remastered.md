@@ -7,7 +7,7 @@ Number of Ratings: 524  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Follow the Light | 43.00% | ~29,136 |
-| Let There Be Light | 35.00% | ~23,715 |
+| Let There Be Light | 35.00% | ~23,716 |
 | Float Like a Butterfly | 34.00% | ~23,038 |
 | Nordic Walking | 27.00% | ~18,295 |
 | Bright Falls' Finest | 27.00% | ~18,295 |
@@ -15,7 +15,7 @@ Number of Ratings: 524  (23.09.2022)
 | Park Ranger | 20.00% | ~13,552 |
 | Paging Mr. Wake | 20.00% | ~13,552 |
 | Back! Back, I Say! | 19.00% | ~12,874 |
-| Finders Keepers | 18.00% | ~12,196 |
+| Finders Keepers | 18.00% | ~12,197 |
 | Sound and Fury | 17.00% | ~11,519 |
 | Damn Good Cup of Coffee | 17.00% | ~11,519 |
 | Wheels Within Wheels | 16.00% | ~10,841 |
@@ -40,8 +40,8 @@ Number of Ratings: 524  (23.09.2022)
 | Departure | 8.00% | ~5,421 |
 | Hardboiled Writer | 7.00% | ~4,743 |
 | A Friend Indeed | 7.00% | ~2,186 |
-| Children of the Elder God | 6.00% | ~4,065 |
-| Drink 'Em Both Up | 6.00% | ~4,065 |
+| Children of the Elder God | 6.00% | ~4,066 |
+| Drink 'Em Both Up | 6.00% | ~4,066 |
 | Ding! | 6.00% | ~1,874 |
 | Boob Tube | 5.00% | ~3,388 |
 | If It Flies, It Burns | 5.00% | ~3,388 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~68 |
 | No Punctuation | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,758 (Ranked 93)  
+Progressed: 67,759 (Ranked 93)  
 Completed: 69 (0.10%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,7 +250,7 @@ Completed: 69 (0.10%) (Ranked 247)
 | 2023-10-10 | 67,536 | 67 |
 | 2023-10-11 | 67,631 | 68 |
 | 2023-10-12 | 67,717 | 69 |
-| 2023-10-13 | 67,758 | 69 |
+| 2023-10-13 | 67,759 | 69 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

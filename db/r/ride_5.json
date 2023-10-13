@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -2843,9 +2843,9 @@
       "ID": "ML_ACHIEVEMENT_14",
       "SetID": "c7hf6a4",
       "Name": "Quick Pit Stop",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 246
+      "UsersEstimate": 260
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -3138,8 +3138,8 @@
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-13T09:07:49.6507936+00:00",
+  "LastChanged_Achievements": "2023-10-13T10:07:14.9852901+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:00.8071833+00:00",
-  "LastUpdate_Ratings": "2023-10-13T09:02:31.6188243+00:00",
-  "LastUpdate_Achievements": "2023-10-13T09:07:49.6509012+00:00"
+  "LastUpdate_Ratings": "2023-10-13T10:02:01.0757379+00:00",
+  "LastUpdate_Achievements": "2023-10-13T10:07:14.9853679+00:00"
 }

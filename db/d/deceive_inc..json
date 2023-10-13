@@ -3,12 +3,12 @@
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
   "Ranking_Rating": 473,
-  "Ranking_Popularity": 534,
-  "Ranking_PopularitySum": 534,
+  "Ranking_Popularity": 535,
+  "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 128,
-  "Ranking_EOS_Completed": 286,
+  "Ranking_EOS_Completed": 287,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -256,7 +256,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18359,
+  "EOS_Progressed": 18360,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
@@ -11461,6 +11461,11 @@
       "Time": "2023-10-13T09:08:16.1655111+00:00",
       "NumProgressed": 18359,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-13T10:07:40.0367095+00:00",
+      "NumProgressed": 18360,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -11560,7 +11565,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2937
+      "UsersEstimate": 2938
     },
     {
       "ID": "0013",
@@ -11576,7 +11581,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2937
+      "UsersEstimate": 2938
     },
     {
       "ID": "0015",
@@ -11672,7 +11677,7 @@
       "Name": "The Living Portrait",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2019
+      "UsersEstimate": 2020
     },
     {
       "ID": "0027",
@@ -11680,7 +11685,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2019
+      "UsersEstimate": 2020
     },
     {
       "ID": "0028",
@@ -11712,7 +11717,7 @@
       "Name": "Private Collection",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2019
+      "UsersEstimate": 2020
     },
     {
       "ID": "0032",
@@ -11720,7 +11725,7 @@
       "Name": "Killer Looks",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2019
+      "UsersEstimate": 2020
     },
     {
       "ID": "0033",
@@ -11728,7 +11733,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2019
+      "UsersEstimate": 2020
     },
     {
       "ID": "0034",
@@ -11759,7 +11764,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18359,
+      "Progressed": 18360,
       "Completed": 4
     }
   ],
@@ -11767,8 +11772,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-10-13T09:08:16.1655099+00:00",
+  "LastChanged_Achievements": "2023-10-13T10:07:40.036709+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:09.6905795+00:00",
-  "LastUpdate_Ratings": "2023-10-13T08:58:56.8365564+00:00",
-  "LastUpdate_Achievements": "2023-10-13T09:08:16.1656225+00:00"
+  "LastUpdate_Ratings": "2023-10-13T09:58:43.146908+00:00",
+  "LastUpdate_Achievements": "2023-10-13T10:07:40.0370245+00:00"
 }
