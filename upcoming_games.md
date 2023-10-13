@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 2023-10-13 | - |  | - | - |
 | [Ancient Battle Rome](games/7/7cc689908d9e4ec28716dc5b8fbd1ae0.md) | 2023-10-13 | - |  | - | - |
 | [Geppetto's Workshop](games/4/4701ddf3a9714750b30e7935bec28744.md) | 2023-10-14 | - |  | - | - |
 | [Polygon Survival](games/e/e9232f2161dd47bd8d3ed6218f562013.md) | 2023-10-14 | - |  | - | - |
@@ -194,7 +193,7 @@
 | [Eternal Exodus](games/e/e54a925435924e42ab3cd20f584d6e14.md) | 2024-05-31 | - |  | - | - |
 | [SpectralClimb](games/6/6120f91f9281420e818d6298ccd09772.md) | 2024-06-28 | - |  | - | - |
 | [Elders Grace - Unchained](games/d/d975114b43134558aa8413af2a0918c6.md) | 2024-06-30 | - |  | - | - |
-| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 65,835 | - | - |
+| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 65,863 | - | - |
 | [Monospaced Lovers](games/e/e73367d384634d11975effc86569bc47.md) | 2024-06-30 | - |  | - | - |
 | [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
 | [Rise of the Robots X - Early access](games/d/d065c8442524400dac2e0e9674a68732.md) | 2024-06-30 | - |  | - | - |
@@ -437,6 +436,7 @@
 | [THE SILENT CITY CHAPTER TWO](games/1/15863494f4ef46d481aae0759ec24eb1.md) | 2099-01-01 | - |  | - | - |
 | [The Thaumaturge](games/t/the_thaumaturge.md) | 2099-01-01 | - |  | - | - |
 | [Three Kingdoms The Last Warlord](games/t/three_kingdoms_the_last_warlord.md) | 2099-01-01 | 192 (1,000 XP) | 0 | - | - |
+| [Time Commando](games/b/ba12e8eb6a7f4f2d803a2bd73dd7efde.md) | 2099-01-01 | - |  | - | - |
 | [Time Flies](games/d/deef7522b0aa48629c8df8cfab16007c.md) | 2099-01-01 | - |  | - | - |
 | [Tokyo Waning Moon](games/0/098b24c8da10404abc327b0e1604ee96.md) | 2099-01-01 | - |  | - | - |
 | [Tormented Souls 2](games/9/98a33c69dd4c462a877089ca59716a52.md) | 2099-01-01 | - |  | - | - |

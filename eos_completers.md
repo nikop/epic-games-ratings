@@ -1,10 +1,10 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 51.41% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 51.36% |
 | 3 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 47.17% |
-| 5 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.72% |
+| 5 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.34% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
 | 7 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 33.33% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 31.86% |
@@ -69,18 +69,18 @@
 | 67 | [ZZT!](games/z/zzt!.md) | 4.49% |
 | 68 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.46% |
 | 69 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.11% |
-| 70 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.06% |
+| 70 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.02% |
 | 71 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 3.93% |
 | 72 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.90% |
 | 73 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.84% |
-| 74 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.82% |
-| 75 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
-| 76 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.69% |
+| 74 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
+| 75 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.79% |
+| 76 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.68% |
 | 77 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
 | 77 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.57% |
 | 79 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
-| 80 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.39% |
 | 80 | [The Bunker](games/t/the_bunker.md) | 3.39% |
+| 81 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.38% |
 | 82 | [The Complex](games/t/the_complex.md) | 3.35% |
 | 83 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
 | 84 | [Doodle God](games/d/doodle_god.md) | 3.31% |
@@ -138,8 +138,8 @@
 | 132 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.32% |
 | 137 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.18% |
 | 138 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.13% |
+| 139 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.09% |
 | 139 | [Trifox](games/t/trifox.md) | 1.09% |
-| 140 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.08% |
 | 141 | [Adios](games/a/adios.md) | 1.05% |
 | 141 | [Infindustry](games/i/infindustry.md) | 1.05% |
 | 141 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.05% |
@@ -275,13 +275,13 @@
 | 271 | [High On Life](games/h/high_on_life.md) | 0.05% |
 | 271 | [House Party](games/h/house_party.md) | 0.05% |
 | 271 | [MythForce](games/m/mythforce.md) | 0.05% |
-| 271 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.05% |
-| 277 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.04% |
-| 277 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 0.04% |
-| 277 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.04% |
-| 277 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 0.04% |
-| 277 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.04% |
-| 277 | [Tropico 6](games/t/tropico_6.md) | 0.04% |
+| 276 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.04% |
+| 276 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 0.04% |
+| 276 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.04% |
+| 276 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 0.04% |
+| 276 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.04% |
+| 276 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.04% |
+| 276 | [Tropico 6](games/t/tropico_6.md) | 0.04% |
 | 283 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
 | 283 | [Old World](games/o/old_world.md) | 0.03% |
 | 283 | [Session: Skate Sim](games/s/session__skate_sim.md) | 0.03% |
@@ -667,4 +667,4 @@
 | 314 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 314 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 314 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,391 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,392 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
