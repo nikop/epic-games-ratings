@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 51.48% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 51.46% |
 | 3 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 47.17% |
 | 5 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.72% |
@@ -96,9 +96,9 @@
 | 92 | [Mega City Police](games/m/mega_city_police.md) | 2.86% |
 | 95 | [Destiny 2](games/d/destiny_2.md) | 2.80% |
 | 96 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.74% |
-| 97 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 2.70% |
-| 98 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.68% |
-| 99 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.65% |
+| 97 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.68% |
+| 98 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.65% |
+| 99 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 2.63% |
 | 100 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.56% |
 | 101 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 102 | [Lamentum](games/l/lamentum.md) | 2.47% |
@@ -186,8 +186,8 @@
 | 178 | [Them and Us](games/t/them_and_us.md) | 0.46% |
 | 185 | [Tchia](games/t/tchia.md) | 0.44% |
 | 186 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.43% |
-| 186 | [It Takes Two](games/i/it_takes_two.md) | 0.43% |
-| 188 | [Wildermyth](games/w/wildermyth.md) | 0.42% |
+| 187 | [It Takes Two](games/i/it_takes_two.md) | 0.42% |
+| 187 | [Wildermyth](games/w/wildermyth.md) | 0.42% |
 | 189 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 190 | [Train Valley](games/t/train_valley.md) | 0.39% |
 | 191 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.38% |
