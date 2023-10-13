@@ -1839,9 +1839,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14629,
+  "EOS_Progressed": 14632,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 232,
+  "EOS_NewPlayers": 234,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13714,6 +13714,11 @@
       "Time": "2023-10-13T07:07:40.7300437+00:00",
       "NumProgressed": 14629,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-13T08:06:41.892439+00:00",
+      "NumProgressed": 14632,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -14259,9 +14264,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_LION",
       "SetID": "9201eeb",
       "Name": "Lion",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 73
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MAGNIFICENT",
@@ -15051,9 +15056,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_APADANA",
       "SetID": "9201eeb",
       "Name": "Apadana",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 102
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_CIRCUS_MAXIMUS",
@@ -15379,9 +15384,9 @@
       "ID": "ACHIEVEMENT_NATION_ROME",
       "SetID": "7l38kb8",
       "Name": "Rome",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHIEVEMENT_OLD_WORLD_ORDER",
@@ -15587,9 +15592,9 @@
       "ID": "ACHIEVEMENT_RELIGION_ZOROASTRIANISM",
       "SetID": "7l38kb8",
       "Name": "Zoroastrianism",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 132
     },
     {
       "ID": "ACHIEVEMENT_RHODES_COLOSSUS",
@@ -15691,9 +15696,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_ENLIGHTENMENT",
       "SetID": "7l38kb8",
       "Name": "Enlightenment",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_GNOSTICISM",
@@ -16460,21 +16465,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14629,
+      "Progressed": 14632,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14629,
+      "Progressed": 14632,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-12T20:03:06.2994788+00:00",
-  "LastChanged_Achievements": "2023-10-13T07:07:40.7300431+00:00",
+  "LastChanged_Achievements": "2023-10-13T08:06:41.8924385+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:48.3987129+00:00",
-  "LastUpdate_Ratings": "2023-10-13T07:03:07.2939978+00:00",
-  "LastUpdate_Achievements": "2023-10-13T07:07:40.7314015+00:00"
+  "LastUpdate_Ratings": "2023-10-13T08:03:28.3625093+00:00",
+  "LastUpdate_Achievements": "2023-10-13T08:06:41.8934371+00:00"
 }

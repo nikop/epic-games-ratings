@@ -44,12 +44,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | Royal Ransom | 0.80% | ~1,100 |
 | Helping Hand | 0.80% | ~1,100 |
 | Natural 20 | 0.80% | ~1,100 |
+| Magical Harmony | 0.80% | ~1,100 |
 | Tax not Included | 0.70% | ~963 |
 | For the Hoard! | 0.70% | ~963 |
 | This Power Level...! | 0.70% | ~963 |
 | Trash to Treasure | 0.70% | ~963 |
 | Seasoned Journeyman | 0.70% | ~963 |
-| Magical Harmony | 0.70% | ~963 |
 | Special Ingredient | 0.70% | ~963 |
 | Complete Monopoly | 0.70% | ~963 |
 | A Notch Above the Rest | 0.60% | ~825 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~138 |
 | Cash Only Please | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,512 (Ranked 73)  
+Progressed: 137,513 (Ranked 73)  
 Completed: 168 (0.12%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 168 (0.12%) (Ranked 240)
 | 2023-10-10 | 137,421 | 168 |
 | 2023-10-11 | 137,455 | 168 |
 | 2023-10-12 | 137,496 | 168 |
-| 2023-10-13 | 137,512 | 168 |
+| 2023-10-13 | 137,513 | 168 |
 ## Awards
 Max (Great for Beginners): 4,782  (Ranked 71)  
 Sum: 27,374 (Ranked 50)  

@@ -120,7 +120,7 @@
   "Tags": [],
   "EOS_Progressed": 6548,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 457,
+  "EOS_NewPlayers": 455,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4294,9 +4294,9 @@
       "ID": "DISPATCH_THORNS",
       "SetID": "9eia0f5",
       "Name": "Bramble Breaker",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 2947
+      "UsersEstimate": 3012
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -4407,8 +4407,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-12T12:03:13.8462755+00:00",
-  "LastChanged_Achievements": "2023-10-13T07:03:52.7067291+00:00",
+  "LastChanged_Achievements": "2023-10-13T08:04:00.0011856+00:00",
   "LastUpdate_AppInfo": "2023-10-13T06:57:01.9287951+00:00",
-  "LastUpdate_Ratings": "2023-10-13T06:57:31.4312794+00:00",
-  "LastUpdate_Achievements": "2023-10-13T07:03:52.7067822+00:00"
+  "LastUpdate_Ratings": "2023-10-13T07:57:35.65926+00:00",
+  "LastUpdate_Achievements": "2023-10-13T08:04:00.0012297+00:00"
 }

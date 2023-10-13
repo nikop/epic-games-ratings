@@ -5,17 +5,17 @@ Rating: 4.54 (Ranked 510)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 4.00% | ~27,792 |
-| Welcome To Hell-A | 4.00% | ~27,792 |
-| Dr. Reed, I Presume? | 3.00% | ~20,844 |
-| Git Gutte! | 3.00% | ~20,844 |
-| Break A Leg | 3.00% | ~20,844 |
-| Coup de Grâce | 3.00% | ~20,844 |
-| Hazardous Materials | 3.00% | ~20,844 |
-| Friends Like These | 3.00% | ~20,844 |
-| Apex Predator | 3.00% | ~20,844 |
-| Stacking the Deck | 3.00% | ~20,844 |
-| Personal Assistant Personally Assisted | 3.00% | ~20,844 |
+| Hotel California | 4.00% | ~27,793 |
+| Welcome To Hell-A | 4.00% | ~27,793 |
+| Dr. Reed, I Presume? | 3.00% | ~20,845 |
+| Git Gutte! | 3.00% | ~20,845 |
+| Break A Leg | 3.00% | ~20,845 |
+| Coup de Grâce | 3.00% | ~20,845 |
+| Hazardous Materials | 3.00% | ~20,845 |
+| Friends Like These | 3.00% | ~20,845 |
+| Apex Predator | 3.00% | ~20,845 |
+| Stacking the Deck | 3.00% | ~20,845 |
+| Personal Assistant Personally Assisted | 3.00% | ~20,845 |
 | Making Your Mark | 2.00% | ~13,896 |
 | Anger Management | 2.00% | ~13,896 |
 | Perks of the Job | 2.00% | ~13,896 |
@@ -38,7 +38,7 @@ Rating: 4.54 (Ranked 510)
 | Go, Bobcats! | 1.00% | ~6,948 |
 | Rising Star | 1.00% | ~6,948 |
 | Smorgasbord | 0.90% | ~6,253 |
-| Internet Famous | 0.80% | ~5,558 |
+| Internet Famous | 0.80% | ~5,559 |
 | On Safari | 0.70% | ~4,864 |
 | Not Even My Final Form | 0.70% | ~4,864 |
 | Make it So | 0.60% | ~4,169 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 510)
 | Donk! | 0.20% | ~1,390 |
 | Bucket List | 0.10% | ~695 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 694,812 (Ranked 22)  
+Progressed: 694,824 (Ranked 22)  
 Completed: 2,217 (0.32%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,10 +227,10 @@ Completed: 2,217 (0.32%) (Ranked 200)
 | 2023-10-10 | 693,868 | 2,209 |
 | 2023-10-11 | 694,263 | 2,210 |
 | 2023-10-12 | 694,718 | 2,216 |
-| 2023-10-13 | 694,812 | 2,217 |
+| 2023-10-13 | 694,824 | 2,217 |
 ## Awards
 Max (Great Boss Battles): 6,407  (Ranked 58)  
-Sum: 9,574 (Ranked 91)  
+Sum: 9,576 (Ranked 91)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
@@ -239,7 +239,7 @@ Diff (max vs sum): -33
 | This game has Diverse Characters | 448 |
 | This game has Quickly Understood Controls | 420 |
 | This game is Relaxing | 403 |
-| This game has Amazing Storytelling | 377 |
+| This game has Amazing Storytelling | 379 |
 | This game is Highly Recommended | 361 |
 | This game is Extremely Fun | 361 |
 | This game has Amazing Characters | 348 |
@@ -421,3 +421,4 @@ Diff (max vs sum): -33
 | 2023-10-10 | 4.54 | 6,385 | 9,533 |
 | 2023-10-11 | 4.54 | 6,398 | 9,555 |
 | 2023-10-12 | 4.54 | 6,407 | 9,574 |
+| 2023-10-13 | 4.54 | 6,407 | 9,576 |

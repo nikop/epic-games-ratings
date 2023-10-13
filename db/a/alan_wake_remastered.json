@@ -524,9 +524,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 67755,
+  "EOS_Progressed": 67756,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 667,
+  "EOS_NewPlayers": 666,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -17834,6 +17834,11 @@
       "Time": "2023-10-13T07:09:23.703662+00:00",
       "NumProgressed": 67755,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-10-13T08:09:27.0951792+00:00",
+      "NumProgressed": 67756,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 67,
@@ -18069,7 +18074,7 @@
       "Name": "Sound and Fury",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11518
+      "UsersEstimate": 11519
     },
     {
       "ID": "30",
@@ -18085,7 +18090,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 12873
+      "UsersEstimate": 12874
     },
     {
       "ID": "32",
@@ -18117,7 +18122,7 @@
       "Name": "Let There Be Light",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 23714
+      "UsersEstimate": 23715
     },
     {
       "ID": "36",
@@ -18205,7 +18210,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 11518
+      "UsersEstimate": 11519
     },
     {
       "ID": "47",
@@ -18380,21 +18385,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 67755,
+      "Progressed": 67756,
       "Completed": 69
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 31223,
+      "Progressed": 31224,
       "Completed": 55
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-09-26T11:01:48.1926095+00:00",
-  "LastChanged_Achievements": "2023-10-13T07:09:23.7036615+00:00",
+  "LastChanged_Achievements": "2023-10-13T08:09:27.0951788+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:13.3553682+00:00",
-  "LastUpdate_Ratings": "2023-10-13T07:01:03.6430916+00:00",
-  "LastUpdate_Achievements": "2023-10-13T07:09:23.7039844+00:00"
+  "LastUpdate_Ratings": "2023-10-13T08:00:01.348738+00:00",
+  "LastUpdate_Achievements": "2023-10-13T08:09:27.0953154+00:00"
 }

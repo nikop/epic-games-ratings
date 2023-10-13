@@ -3798,9 +3798,9 @@
       "Count": 1069
     }
   ],
-  "EOS_Progressed": 74779,
+  "EOS_Progressed": 74780,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 869,
+  "EOS_NewPlayers": 870,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -23568,6 +23568,11 @@
       "Time": "2023-10-13T06:06:03.4169289+00:00",
       "NumProgressed": 74779,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-13T08:06:47.0306031+00:00",
+      "NumProgressed": 74780,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -23675,7 +23680,7 @@
       "Name": "The Side Job",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 23181
+      "UsersEstimate": 23182
     },
     {
       "ID": "complete_first_wanted_mission",
@@ -23683,7 +23688,7 @@
       "Name": "Wet Work",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 23929
+      "UsersEstimate": 23930
     },
     {
       "ID": "complete_mission_1",
@@ -23691,7 +23696,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 34398
+      "UsersEstimate": 34399
     },
     {
       "ID": "customize_a_vehicle",
@@ -23707,7 +23712,7 @@
       "Name": "Optimized",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 27668
+      "UsersEstimate": 27669
     },
     {
       "ID": "cutting_edge_materials",
@@ -23771,7 +23776,7 @@
       "Name": "Masters of Santo Ileso",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 8973
+      "UsersEstimate": 8974
     },
     {
       "ID": "empire_tier_5",
@@ -23787,7 +23792,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 23929
+      "UsersEstimate": 23930
     },
     {
       "ID": "fully_complete_a_building",
@@ -23819,7 +23824,7 @@
       "Name": "Et tu?",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 12712
+      "UsersEstimate": 12713
     },
     {
       "ID": "get_fired",
@@ -23827,7 +23832,7 @@
       "Name": "Performance Review",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 26920
+      "UsersEstimate": 26921
     },
     {
       "ID": "hit_max_level",
@@ -23931,7 +23936,7 @@
       "Name": "Food for Thought",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 20190
+      "UsersEstimate": 20191
     },
     {
       "ID": "two_thirds_purple",
@@ -23963,7 +23968,7 @@
       "Name": "To The Nines",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 31407
+      "UsersEstimate": 31408
     },
     {
       "ID": "whole_map_purple",
@@ -24002,13 +24007,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 74779,
+      "Progressed": 74780,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 46416,
+      "Progressed": 46417,
       "Completed": 4092
     }
   ],
@@ -24016,8 +24021,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-10-12T12:01:42.87671+00:00",
-  "LastChanged_Achievements": "2023-10-13T07:07:48.259517+00:00",
+  "LastChanged_Achievements": "2023-10-13T08:06:47.0306026+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:36.8950193+00:00",
-  "LastUpdate_Ratings": "2023-10-13T07:02:36.4468081+00:00",
-  "LastUpdate_Achievements": "2023-10-13T07:07:48.2597304+00:00"
+  "LastUpdate_Ratings": "2023-10-13T08:03:21.6396602+00:00",
+  "LastUpdate_Achievements": "2023-10-13T08:06:47.030731+00:00"
 }

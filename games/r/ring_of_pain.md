@@ -1,23 +1,23 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.58 (Ranked 436)  
+Rating: 4.58 (Ranked 437)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~228,287 |
-| Uncharted Territory | 89.00% | ~211,641 |
-| Getting A Glimpse | 73.00% | ~173,593 |
-| A Quick Escape | 65.00% | ~154,569 |
-| Explorer | 62.00% | ~147,435 |
-| An Offering | 62.00% | ~147,435 |
-| Defeat The Dark | 61.00% | ~145,057 |
-| Colorful Corpse | 58.00% | ~137,923 |
-| That Was Quick | 57.00% | ~135,545 |
-| A Donation | 57.00% | ~135,545 |
-| Goodbye, Frog Friend | 54.00% | ~128,411 |
-| Heavy Hitter | 53.00% | ~126,033 |
+| First Steps | 96.00% | ~228,289 |
+| Uncharted Territory | 89.00% | ~211,643 |
+| Getting A Glimpse | 73.00% | ~173,595 |
+| A Quick Escape | 65.00% | ~154,571 |
+| Explorer | 62.00% | ~147,437 |
+| An Offering | 62.00% | ~147,437 |
+| Defeat The Dark | 61.00% | ~145,059 |
+| Colorful Corpse | 58.00% | ~137,925 |
+| That Was Quick | 57.00% | ~135,547 |
+| A Donation | 57.00% | ~135,547 |
+| Goodbye, Frog Friend | 54.00% | ~128,413 |
+| Heavy Hitter | 53.00% | ~126,035 |
 | Heartless | 46.00% | ~109,388 |
 | Spine Breaker | 46.00% | ~109,388 |
 | Deflection | 45.00% | ~107,010 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Down Under | 0.50% | ~1,189 |
 | Near Death Experience | 0.30% | ~713 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 237,799 (Ranked 56)  
+Progressed: 237,801 (Ranked 56)  
 Completed: 281 (0.12%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 281 (0.12%) (Ranked 240)
 | 2023-10-10 | 237,673 | 281 |
 | 2023-10-11 | 237,721 | 281 |
 | 2023-10-12 | 237,774 | 281 |
-| 2023-10-13 | 237,799 | 281 |
+| 2023-10-13 | 237,801 | 281 |
 ## Awards
 Max (Great for Beginners): 1,506  (Ranked 126)  
 Sum: 13,107 (Ranked 76)  

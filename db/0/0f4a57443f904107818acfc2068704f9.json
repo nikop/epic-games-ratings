@@ -151,9 +151,9 @@
       "ID": "Capture100Conduits",
       "SetID": "52ail55",
       "Name": "Territorial",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Capture100VictoryPoints",
@@ -207,81 +207,81 @@
       "ID": "CompleteChapter10",
       "SetID": "52ail55",
       "Name": "You da Boss, Now",
-      "Percentage": 12,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "CompleteChapter11",
       "SetID": "52ail55",
       "Name": "The Artefact is Mine",
-      "Percentage": 15,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "CompleteChapter12",
       "SetID": "52ail55",
       "Name": "Grumblin\u0027 Bellies",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "CompleteChapter13",
       "SetID": "52ail55",
       "Name": "Slaughter and Siege wiv da Squeeze",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "CompleteChapter14",
       "SetID": "52ail55",
       "Name": "For Harkanibus!",
-      "Percentage": 15,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "CompleteChapter15",
       "SetID": "52ail55",
       "Name": "The Great Scheme",
-      "Percentage": 15,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "CompleteChapter16",
       "SetID": "52ail55",
       "Name": "Our Own Miracle",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "CompleteChapter17",
       "SetID": "52ail55",
       "Name": "Fool\u0027s Errand",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "CompleteChapter17NoIdenDeath",
       "SetID": "52ail55",
       "Name": "Who Needs Reinforcements?",
-      "Percentage": 15,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "CompleteChapter18",
       "SetID": "52ail55",
       "Name": "The Might of Sigmar\u0027s Warriors",
-      "Percentage": 15,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "CompleteChapter2",
@@ -319,33 +319,33 @@
       "ID": "CompleteChapter6",
       "SetID": "52ail55",
       "Name": "More Waagh, More Problems",
-      "Percentage": 21,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "CompleteChapter7",
       "SetID": "52ail55",
       "Name": "First to be Forged, Never to Fail!",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "CompleteChapter8",
       "SetID": "52ail55",
       "Name": "Troggoff Troubles",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "CompleteChapter9",
       "SetID": "52ail55",
       "Name": "Ingredients List",
-      "Percentage": 15,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "CompleteConquestKruleboyz",
@@ -415,17 +415,17 @@
       "ID": "Win1OnlineMatched",
       "SetID": "52ail55",
       "Name": "Bloodied Hammer",
-      "Percentage": 44,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Win50ConquestBattles",
       "SetID": "52ail55",
       "Name": "Warmaster Supreme",
-      "Percentage": 21,
+      "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "WinAllConquestBattlesInARun",
@@ -445,8 +445,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-10-13T07:07:10.33428+00:00",
+  "LastChanged_Achievements": "2023-10-13T08:06:19.9892623+00:00",
   "LastUpdate_AppInfo": "2023-10-13T04:56:59.2205819+00:00",
-  "LastUpdate_Ratings": "2023-10-13T07:00:18.8533436+00:00",
-  "LastUpdate_Achievements": "2023-10-13T07:07:10.3343111+00:00"
+  "LastUpdate_Ratings": "2023-10-13T07:59:29.6952963+00:00",
+  "LastUpdate_Achievements": "2023-10-13T08:06:19.9892867+00:00"
 }

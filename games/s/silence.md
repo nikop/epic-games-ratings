@@ -37,9 +37,9 @@
 | Lollipop | 8.00% | ~11 |
 | Where there is life, there is hope | 8.00% | ~11 |
 | It's nothing personal | 8.00% | ~11 |
+| Artistic master | 6.00% | ~8 |
 | Sadist | 6.00% | ~8 |
 | The hands of a healer | 6.00% | ~8 |
-| Artistic master | 5.00% | ~7 |
 | Fartjokes! | 5.00% | ~7 |
 | Shut up clown! | 5.00% | ~7 |
 | The Green, the Fat, the Ugly | 3.00% | ~4 |

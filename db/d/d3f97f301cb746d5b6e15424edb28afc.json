@@ -4,7 +4,7 @@
   "ProductSlug": "gas-station-simulator-ee93c7",
   "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -486,9 +486,9 @@
       "ID": "ACH_FEED_GATOR",
       "SetID": "5fn8ia4",
       "Name": "Feed the Beast",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_FISH",
@@ -502,17 +502,17 @@
       "ID": "ACH_WASHCAR_01",
       "SetID": "5fn8ia4",
       "Name": "Welcome to the Car Wash",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_WASHCAR_02",
       "SetID": "5fn8ia4",
       "Name": "Squeaky Clean",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_WASHCAR_03",
@@ -694,17 +694,17 @@
       "ID": "GSS_ACH_22_LOCKPICKING_02",
       "SetID": "5fn8ia4",
       "Name": "So Shady!",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "GSS_ACH_23_LOCKPICKING_03",
       "SetID": "5fn8ia4",
       "Name": "Just Checking!",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "GSS_ACH_25_DENNIS",
@@ -782,9 +782,9 @@
       "ID": "GSS_ACH_34_FLYING_CARS",
       "SetID": "5fn8ia4",
       "Name": "It\u0027s Raining Cars",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "GSS_ACH_35_BROOM_01",
@@ -854,9 +854,9 @@
       "ID": "GSS_ACH_43_CARAVAN_02",
       "SetID": "5fn8ia4",
       "Name": "Raising the Stakes",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "GSS_ACH_44_CARAVAN_03",
@@ -934,9 +934,9 @@
       "ID": "GSS_ACH_53_UPGRADE_WORKSHOP_03",
       "SetID": "5fn8ia4",
       "Name": "Workshop Lvl. 3",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "GSS_ACH_54_UPGRADE_WORKSHOP_04",
@@ -974,9 +974,9 @@
       "ID": "GSS_ACH_58_UPGRADE_WAREHOUSE_03",
       "SetID": "5fn8ia4",
       "Name": "Warehouse Lvl. 3",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "GSS_ACH_59_UPGRADE_WAREHOUSE_04",
@@ -1181,8 +1181,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-13T07:08:42.7376247+00:00",
+  "LastChanged_Achievements": "2023-10-13T08:09:05.3347277+00:00",
   "LastUpdate_AppInfo": "2023-10-09T13:09:09.0618232+00:00",
-  "LastUpdate_Ratings": "2023-10-13T07:00:03.6945065+00:00",
-  "LastUpdate_Achievements": "2023-10-13T07:08:42.7378252+00:00"
+  "LastUpdate_Ratings": "2023-10-13T07:59:17.1324503+00:00",
+  "LastUpdate_Achievements": "2023-10-13T08:09:05.3348152+00:00"
 }

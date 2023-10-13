@@ -6,12 +6,12 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taste | 1.00% | ~1,517 |
-| Imprint | 1.00% | ~1,517 |
+| Taste | 1.00% | ~1,518 |
+| Imprint | 1.00% | ~1,518 |
 | The Hunt | 0.90% | ~1,366 |
 | Weeper | 0.80% | ~1,214 |
 | Ravenous | 0.80% | ~1,214 |
-| Devourer | 0.60% | ~910 |
+| Devourer | 0.60% | ~911 |
 | Harmless | 0.50% | ~759 |
 | Silenced Whispers | 0.50% | ~759 |
 | Yank | 0.50% | ~759 |
@@ -27,13 +27,13 @@ Number of Ratings: 46  (23.09.2022)
 | Host | 0.30% | ~454 |
 | Celebration | 0.30% | ~455 |
 | Predator | 0.30% | ~455 |
-| Breath | 0.20% | ~303 |
-| Hunt Down | 0.20% | ~303 |
-| Artisan | 0.20% | ~303 |
-| Hush | 0.20% | ~303 |
-| Inevitable | 0.20% | ~303 |
-| All-Seeing | 0.20% | ~303 |
-| Breathsmith | 0.20% | ~303 |
+| Breath | 0.20% | ~304 |
+| Hunt Down | 0.20% | ~304 |
+| Artisan | 0.20% | ~304 |
+| Hush | 0.20% | ~304 |
+| Inevitable | 0.20% | ~304 |
+| All-Seeing | 0.20% | ~304 |
+| Breathsmith | 0.20% | ~304 |
 | Dream | 0.20% | ~303 |
 | Spiral Heart | 0.10% | ~152 |
 | Bloodhunter | 0.10% | ~152 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~151 |
 | Intensify | 0.10% | ~151 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 151,743 (Ranked 71)  
+Progressed: 151,754 (Ranked 71)  
 Completed: 1 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,14 +206,14 @@ Completed: 1 (0.00%) (Ranked 314)
 | 2023-10-10 | 151,469 | 1 |
 | 2023-10-11 | 151,477 | 1 |
 | 2023-10-12 | 151,679 | 1 |
-| 2023-10-13 | 151,743 | 1 |
+| 2023-10-13 | 151,754 | 1 |
 ## Awards
-Max (Highly Recommended): 42  (Ranked 435)  
-Sum: 280 (Ranked 357)  
-Diff (max vs sum): 78  
+Max (Highly Recommended): 44  (Ranked 433)  
+Sum: 282 (Ranked 356)  
+Diff (max vs sum): 77  
 | Award | Count |
 | ----- | ----- |
-| This game is Highly Recommended | 42 |
+| This game is Highly Recommended | 44 |
 | This game has Quickly Understood Controls | 41 |
 | This game has Unique Visuals | 39 |
 | This game has Challenging Combat | 38 |
@@ -336,3 +336,4 @@ Diff (max vs sum): 78
 | 2023-10-10 | 4.59 | - | 42 | 275 |
 | 2023-10-11 | 4.59 | - | 42 | 276 |
 | 2023-10-12 | 4.59 | - | 42 | 280 |
+| 2023-10-13 | 4.59 | - | 44 | 282 |

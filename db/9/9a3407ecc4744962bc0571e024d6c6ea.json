@@ -4,7 +4,7 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 858,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -2099,9 +2099,9 @@
       "ID": "MiCasaSuCasa",
       "SetID": "3ai6ml8",
       "Name": "Mi Casa Su Casa",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 240
+      "UsersEstimate": 249
     },
     {
       "ID": "OnceMoreIntoTheBreach",
@@ -2178,8 +2178,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-10-13T07:08:38.7995514+00:00",
+  "LastChanged_Achievements": "2023-10-13T08:08:12.6898021+00:00",
   "LastUpdate_AppInfo": "2023-10-11T15:57:05.4111665+00:00",
-  "LastUpdate_Ratings": "2023-10-13T06:58:12.4575125+00:00",
-  "LastUpdate_Achievements": "2023-10-13T07:08:38.7995969+00:00"
+  "LastUpdate_Ratings": "2023-10-13T07:58:03.9321669+00:00",
+  "LastUpdate_Achievements": "2023-10-13T08:08:12.6898237+00:00"
 }

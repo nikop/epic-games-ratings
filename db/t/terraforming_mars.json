@@ -2884,9 +2884,9 @@
       "Count": 244
     }
   ],
-  "EOS_Progressed": 78838,
+  "EOS_Progressed": 78839,
   "EOS_Completed": 142,
-  "EOS_NewPlayers": 742,
+  "EOS_NewPlayers": 739,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -22319,6 +22319,11 @@
       "Time": "2023-10-13T07:04:20.9492747+00:00",
       "NumProgressed": 78838,
       "NumCompleted": 142
+    },
+    {
+      "Time": "2023-10-13T08:04:12.6529159+00:00",
+      "NumProgressed": 78839,
+      "NumCompleted": 142
     }
   ],
   "TotalAchievements": 30,
@@ -22394,7 +22399,7 @@
       "Name": "Variety Expert",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 7095
+      "UsersEstimate": 7096
     },
     {
       "ID": "ACHIEVEMENT_09",
@@ -22569,15 +22574,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 78838,
+      "Progressed": 78839,
       "Completed": 142
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-10-12T22:59:08.6369664+00:00",
-  "LastChanged_Achievements": "2023-10-13T07:04:20.9492741+00:00",
+  "LastChanged_Achievements": "2023-10-13T08:04:12.6529156+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:49.0539094+00:00",
-  "LastUpdate_Ratings": "2023-10-13T06:59:38.0463222+00:00",
-  "LastUpdate_Achievements": "2023-10-13T07:04:20.9494252+00:00"
+  "LastUpdate_Ratings": "2023-10-13T07:59:01.4484268+00:00",
+  "LastUpdate_Achievements": "2023-10-13T08:04:12.6530239+00:00"
 }

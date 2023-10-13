@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 534,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 69,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -414,9 +414,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2945,
+  "EOS_Progressed": 2946,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 4.11,
   "EosHistory": [
@@ -3629,6 +3629,11 @@
       "Time": "2023-10-12T20:04:53.6536539+00:00",
       "NumProgressed": 2945,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-10-13T08:04:45.1166418+00:00",
+      "NumProgressed": 2946,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 14,
@@ -3680,7 +3685,7 @@
       "Name": "Easy As Pie",
       "Percentage": 34,
       "XP": 55,
-      "UsersEstimate": 1001
+      "UsersEstimate": 1002
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -3694,9 +3699,9 @@
       "ID": "ACH_HIDDEN_SECRETS",
       "SetID": "4kfb9pd",
       "Name": "Hidden Secrets",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 766
+      "UsersEstimate": 736
     },
     {
       "ID": "ACH_IMPRISONMENT",
@@ -3751,7 +3756,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2945,
+      "Progressed": 2946,
       "Completed": 121
     }
   ],
@@ -3759,8 +3764,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-10-06T14:00:50.47481+00:00",
-  "LastChanged_Achievements": "2023-10-13T07:05:06.4059+00:00",
+  "LastChanged_Achievements": "2023-10-13T08:04:45.1166414+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:20.0712197+00:00",
-  "LastUpdate_Ratings": "2023-10-13T06:58:39.7066657+00:00",
-  "LastUpdate_Achievements": "2023-10-13T07:05:06.4059556+00:00"
+  "LastUpdate_Ratings": "2023-10-13T07:58:22.9437571+00:00",
+  "LastUpdate_Achievements": "2023-10-13T08:04:45.116665+00:00"
 }

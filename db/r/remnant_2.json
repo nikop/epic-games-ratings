@@ -3018,9 +3018,9 @@
       "Count": 231
     }
   ],
-  "EOS_Progressed": 194578,
+  "EOS_Progressed": 194583,
   "EOS_Completed": 385,
-  "EOS_NewPlayers": 4007,
+  "EOS_NewPlayers": 3992,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -12973,6 +12973,11 @@
       "Time": "2023-10-13T07:05:41.5878156+00:00",
       "NumProgressed": 194578,
       "NumCompleted": 385
+    },
+    {
+      "Time": "2023-10-13T08:05:09.9929014+00:00",
+      "NumProgressed": 194583,
+      "NumCompleted": 385
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -12985,7 +12990,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 13620
+      "UsersEstimate": 13621
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -13065,7 +13070,7 @@
       "Name": "The Killing Jar",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 15566
+      "UsersEstimate": 15567
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -13105,7 +13110,7 @@
       "Name": "Quest for Survival",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 13620
+      "UsersEstimate": 13621
     },
     {
       "ID": "Discover_Blood_Moon_Room",
@@ -13289,7 +13294,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 13620
+      "UsersEstimate": 13621
     },
     {
       "ID": "Obtain_Traits_B",
@@ -13384,7 +13389,7 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 194578,
+      "Progressed": 194583,
       "Completed": 385
     }
   ],
@@ -13392,8 +13397,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-10-13T03:58:32.4493059+00:00",
-  "LastChanged_Achievements": "2023-10-13T07:05:41.5878151+00:00",
+  "LastChanged_Achievements": "2023-10-13T08:05:09.9929005+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:36.520005+00:00",
-  "LastUpdate_Ratings": "2023-10-13T06:59:34.7692746+00:00",
-  "LastUpdate_Achievements": "2023-10-13T07:05:41.5879256+00:00"
+  "LastUpdate_Ratings": "2023-10-13T07:58:59.0571063+00:00",
+  "LastUpdate_Achievements": "2023-10-13T08:05:09.9929814+00:00"
 }

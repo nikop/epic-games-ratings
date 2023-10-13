@@ -6,28 +6,28 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 46.00% | ~34,398 |
-| To The Nines | 42.00% | ~31,407 |
-| Optimized | 37.00% | ~27,668 |
-| Performance Review | 36.00% | ~26,920 |
+| First F#@!ing Day | 46.00% | ~34,399 |
+| To The Nines | 42.00% | ~31,408 |
+| Optimized | 37.00% | ~27,669 |
+| Performance Review | 36.00% | ~26,921 |
 | Making a Name | 34.00% | ~25,425 |
 | Tune Up | 33.00% | ~24,677 |
-| Wet Work | 32.00% | ~23,929 |
-| Landlord | 32.00% | ~23,929 |
-| The Side Job | 31.00% | ~23,181 |
+| Wet Work | 32.00% | ~23,930 |
+| Landlord | 32.00% | ~23,930 |
+| The Side Job | 31.00% | ~23,182 |
 | Wrecking Ball | 28.00% | ~20,938 |
-| Food for Thought | 27.00% | ~20,190 |
+| Food for Thought | 27.00% | ~20,191 |
 | Finders Keepers | 25.00% | ~18,695 |
 | A Young Empire | 25.00% | ~18,695 |
 | Work Ethic | 23.00% | ~17,199 |
 | Picking Fights | 20.00% | ~14,956 |
 | Power Players | 19.00% | ~14,208 |
 | Quality Time | 18.00% | ~13,460 |
-| Et tu? | 17.00% | ~12,712 |
+| Et tu? | 17.00% | ~12,713 |
 | Showdown | 16.00% | ~11,965 |
 | Took It to The Limit | 16.00% | ~11,965 |
 | Kitted Out | 14.00% | ~10,469 |
-| Masters of Santo Ileso | 12.00% | ~8,973 |
+| Masters of Santo Ileso | 12.00% | ~8,974 |
 | Hijacked | 11.00% | ~8,226 |
 | The Spins | 10.00% | ~7,478 |
 | The Mechanic | 10.00% | ~7,478 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~150 |
 | Fiesta Time | 0.20% | ~150 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 74,779 (Ranked 90)  
+Progressed: 74,780 (Ranked 90)  
 Completed: 51 (0.07%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 51 (0.07%) (Ranked 260)
 | 2023-10-10 | 74,548 | 51 |
 | 2023-10-11 | 74,641 | 51 |
 | 2023-10-12 | 74,754 | 51 |
-| 2023-10-13 | 74,779 | 51 |
+| 2023-10-13 | 74,780 | 51 |
 ## Awards
 Max (Extremely Fun): 1,069  (Ranked 143)  
 Sum: 8,677 (Ranked 97)  

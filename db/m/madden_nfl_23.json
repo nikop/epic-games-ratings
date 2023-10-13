@@ -712,9 +712,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2462,
+  "EOS_Progressed": 2463,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 375,
+  "EOS_NewPlayers": 376,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2992,6 +2992,11 @@
       "Time": "2023-10-13T07:05:57.037658+00:00",
       "NumProgressed": 2462,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-13T08:05:23.5377187+00:00",
+      "NumProgressed": 2463,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -3020,7 +3025,7 @@
       "Name": "Future of the Franchise",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "achievement_12",
@@ -3044,7 +3049,7 @@
       "Name": "Dealmaker",
       "Percentage": 41,
       "XP": 60,
-      "UsersEstimate": 1009
+      "UsersEstimate": 1010
     },
     {
       "ID": "achievement_15",
@@ -3052,7 +3057,7 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 1329
+      "UsersEstimate": 1330
     },
     {
       "ID": "achievement_16",
@@ -3124,7 +3129,7 @@
       "Name": "Lockdown Corner",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "achievement_5",
@@ -3138,9 +3143,9 @@
       "ID": "achievement_6",
       "SetID": "c8fif6p",
       "Name": "Change of Scenery",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 443
+      "UsersEstimate": 419
     },
     {
       "ID": "achievement_7",
@@ -3171,7 +3176,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 2462,
+      "Progressed": 2463,
       "Completed": 0
     }
   ],
@@ -3179,8 +3184,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-10-13T04:00:09.5787966+00:00",
-  "LastChanged_Achievements": "2023-10-13T07:05:57.0376573+00:00",
+  "LastChanged_Achievements": "2023-10-13T08:05:23.5377183+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:58.3611516+00:00",
-  "LastUpdate_Ratings": "2023-10-13T07:02:05.8631833+00:00",
-  "LastUpdate_Achievements": "2023-10-13T07:05:57.0376928+00:00"
+  "LastUpdate_Ratings": "2023-10-13T08:00:41.6046772+00:00",
+  "LastUpdate_Achievements": "2023-10-13T08:05:23.5377425+00:00"
 }

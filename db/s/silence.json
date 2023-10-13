@@ -261,9 +261,9 @@
       "ID": "0000_achv_balance",
       "SetID": "dhn82m5",
       "Name": "Artistic master",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "0000_achv_failbalance",
@@ -638,8 +638,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-10-13T07:05:53.5152039+00:00",
+  "LastChanged_Achievements": "2023-10-13T08:05:21.0867395+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:56.7643629+00:00",
-  "LastUpdate_Ratings": "2023-10-13T07:02:37.2481886+00:00",
-  "LastUpdate_Achievements": "2023-10-13T07:05:53.5152624+00:00"
+  "LastUpdate_Ratings": "2023-10-13T08:03:22.2388063+00:00",
+  "LastUpdate_Achievements": "2023-10-13T08:05:21.0867741+00:00"
 }

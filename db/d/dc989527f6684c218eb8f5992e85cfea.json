@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12481,
+  "EOS_Progressed": 12482,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 247,
   "EOS_NewCompleters": 0,
@@ -11896,6 +11896,11 @@
       "Time": "2023-10-13T07:06:59.8761885+00:00",
       "NumProgressed": 12481,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-13T08:06:07.6852087+00:00",
+      "NumProgressed": 12482,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -11993,9 +11998,9 @@
       "ID": "ACH_ONLY_ONE_TO_NOT_GUESS_CORRECTLY",
       "SetID": "5ck0pmd",
       "Name": "Facepalm",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 2371
+      "UsersEstimate": 2247
     },
     {
       "ID": "ACH_TEN_WORD_PACKAGES",
@@ -12106,14 +12111,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 12481,
+      "Progressed": 12482,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-10-13T07:06:59.876188+00:00",
+  "LastChanged_Achievements": "2023-10-13T08:06:07.6852083+00:00",
   "LastUpdate_AppInfo": "2023-10-07T01:38:10.3444399+00:00",
-  "LastUpdate_Ratings": "2023-10-13T06:58:38.0732135+00:00",
-  "LastUpdate_Achievements": "2023-10-13T07:06:59.8762842+00:00"
+  "LastUpdate_Ratings": "2023-10-13T07:58:21.6715875+00:00",
+  "LastUpdate_Achievements": "2023-10-13T08:06:07.6852769+00:00"
 }

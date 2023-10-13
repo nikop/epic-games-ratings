@@ -41,6 +41,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Wise | 0.90% | ~132 |
 | Ishtar Gate | 0.90% | ~132 |
 | Lighthouse | 0.90% | ~132 |
+| Zoroastrianism | 0.90% | ~132 |
 | Kushite Pyramids | 0.90% | ~132 |
 | Brilliant | 0.80% | ~117 |
 | Fountainhead | 0.80% | ~117 |
@@ -52,11 +53,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthaginian Paganism | 0.80% | ~117 |
 | Egyptian Paganism | 0.80% | ~117 |
 | Roman Paganism | 0.80% | ~117 |
-| Zoroastrianism | 0.80% | ~117 |
 | Regicide | 0.70% | ~102 |
 | Drillmaster | 0.70% | ~102 |
 | Great | 0.70% | ~102 |
 | Artisans | 0.70% | ~102 |
+| Apadana | 0.70% | ~102 |
 | Colossus | 0.70% | ~102 |
 | Musaeum | 0.70% | ~102 |
 | Necropolis | 0.70% | ~102 |
@@ -68,7 +69,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Champions | 0.60% | ~88 |
 | Sages | 0.60% | ~88 |
 | Acropolis | 0.60% | ~88 |
-| Apadana | 0.60% | ~88 |
 | Mausoleum | 0.60% | ~88 |
 | Mythology | 0.60% | ~88 |
 | Win a Single Player Game | 0.60% | ~88 |
@@ -76,6 +76,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Beloved | 0.50% | ~73 |
 | Conqueror | 0.50% | ~73 |
 | Intercessor | 0.50% | ~73 |
+| Lion | 0.50% | ~73 |
 | Victorious | 0.50% | ~73 |
 | Good Difficulty | 0.50% | ~73 |
 | Patrons | 0.50% | ~73 |
@@ -87,7 +88,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Double Victory | 0.50% | ~73 |
 | Points Victory | 0.50% | ~73 |
 | Invincible | 0.40% | ~59 |
-| Lion | 0.40% | ~59 |
 | Subjugator | 0.40% | ~59 |
 | Landowners | 0.40% | ~59 |
 | Riders | 0.40% | ~59 |
@@ -116,6 +116,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 5 | 0.30% | ~44 |
 | Carthage | 0.30% | ~44 |
 | Egypt | 0.30% | ~44 |
+| Rome | 0.30% | ~44 |
 | Old World Order | 0.30% | ~44 |
 | One True Faith | 0.30% | ~44 |
 | Assyrian Paganism | 0.30% | ~44 |
@@ -124,6 +125,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Industrial Progress | 0.30% | ~44 |
 | Military Prestige | 0.30% | ~44 |
 | Dualism | 0.30% | ~44 |
+| Enlightenment | 0.30% | ~44 |
 | Gnosticism | 0.30% | ~44 |
 | Veneration | 0.30% | ~44 |
 | Mounted Lancer | 0.30% | ~44 |
@@ -143,9 +145,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble Difficulty | 0.20% | ~29 |
 | Cao'an | 0.20% | ~29 |
 | Adur Burzen-Mihr | 0.20% | ~29 |
-| Rome | 0.20% | ~29 |
 | Ten Crowns | 0.20% | ~29 |
-| Enlightenment | 0.20% | ~29 |
 | Cataphract Archer | 0.20% | ~29 |
 | Three Man Chariot | 0.20% | ~29 |
 | Siege Tower | 0.20% | ~29 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,629 (Ranked 134)  
+Progressed: 14,632 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -525,7 +525,7 @@ Completed: 5 (0.03%) (Ranked 282)
 | 2023-10-10 | 14,586 | 5 |
 | 2023-10-11 | 14,606 | 5 |
 | 2023-10-12 | 14,624 | 5 |
-| 2023-10-13 | 14,629 | 5 |
+| 2023-10-13 | 14,632 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,835 (Ranked 210)  

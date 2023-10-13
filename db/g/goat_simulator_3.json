@@ -4372,9 +4372,9 @@
       "Count": 301
     }
   ],
-  "EOS_Progressed": 247257,
+  "EOS_Progressed": 247258,
   "EOS_Completed": 854,
-  "EOS_NewPlayers": 894,
+  "EOS_NewPlayers": 892,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -23512,6 +23512,11 @@
       "Time": "2023-10-13T07:05:37.5674938+00:00",
       "NumProgressed": 247257,
       "NumCompleted": 854
+    },
+    {
+      "Time": "2023-10-13T08:05:07.2531922+00:00",
+      "NumProgressed": 247258,
+      "NumCompleted": 854
     }
   ],
   "TotalAchievements": 39,
@@ -23555,7 +23560,7 @@
       "Name": "San Angora: Become Human",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 66759
+      "UsersEstimate": 66760
     },
     {
       "ID": "AchievementBigFootID",
@@ -23587,7 +23592,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 225004
+      "UsersEstimate": 225005
     },
     {
       "ID": "AchievementClownID",
@@ -23651,7 +23656,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 131046
+      "UsersEstimate": 131047
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -23691,7 +23696,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 140936
+      "UsersEstimate": 140937
     },
     {
       "ID": "AchievementLootBoxID",
@@ -23755,7 +23760,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 182970
+      "UsersEstimate": 182971
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -23771,7 +23776,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 123628
+      "UsersEstimate": 123629
     },
     {
       "ID": "AchievementStreakingID",
@@ -23795,7 +23800,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 135991
+      "UsersEstimate": 135992
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -23819,7 +23824,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 160717
+      "UsersEstimate": 160718
     },
     {
       "ID": "AchievementWhaleID",
@@ -23827,14 +23832,14 @@
       "Name": "Real Buoy",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 66759
+      "UsersEstimate": 66760
     }
   ],
   "AchievementSets": [
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 247257,
+      "Progressed": 247258,
       "Completed": 854
     }
   ],
@@ -23842,8 +23847,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-10-13T05:58:47.1855176+00:00",
-  "LastChanged_Achievements": "2023-10-13T07:05:37.5674933+00:00",
+  "LastChanged_Achievements": "2023-10-13T08:05:07.2531919+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:37.6967783+00:00",
-  "LastUpdate_Ratings": "2023-10-13T06:59:38.8028004+00:00",
-  "LastUpdate_Achievements": "2023-10-13T07:05:37.5676738+00:00"
+  "LastUpdate_Ratings": "2023-10-13T07:59:01.9618439+00:00",
+  "LastUpdate_Achievements": "2023-10-13T08:05:07.2533063+00:00"
 }

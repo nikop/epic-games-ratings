@@ -3500,9 +3500,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73452,
+  "EOS_Progressed": 73454,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 249,
+  "EOS_NewPlayers": 251,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -18500,6 +18500,11 @@
       "Time": "2023-10-13T06:03:40.0321634+00:00",
       "NumProgressed": 73452,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-10-13T08:04:22.3130811+00:00",
+      "NumProgressed": 73454,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 61,
@@ -18623,7 +18628,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13221
+      "UsersEstimate": 13222
     },
     {
       "ID": "CLAYFACE_3",
@@ -18631,7 +18636,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10283
+      "UsersEstimate": 10284
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -18735,7 +18740,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21301
+      "UsersEstimate": 21302
     },
     {
       "ID": "FREEZE_1_5",
@@ -18759,7 +18764,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10283
+      "UsersEstimate": 10284
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -18815,7 +18820,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25708
+      "UsersEstimate": 25709
     },
     {
       "ID": "HARLEY_2",
@@ -18823,7 +18828,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18363
+      "UsersEstimate": 18364
     },
     {
       "ID": "HARLEY_3",
@@ -18839,7 +18844,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 11752
+      "UsersEstimate": 11753
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -18855,7 +18860,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 38195
+      "UsersEstimate": 38196
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -18879,7 +18884,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14690
+      "UsersEstimate": 14691
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -18911,7 +18916,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18363
+      "UsersEstimate": 18364
     },
     {
       "ID": "MYSTERY_03",
@@ -18927,7 +18932,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14690
+      "UsersEstimate": 14691
     },
     {
       "ID": "MYSTERY_05",
@@ -18935,7 +18940,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13221
+      "UsersEstimate": 13222
     },
     {
       "ID": "MYSTERY_06",
@@ -18951,7 +18956,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10283
+      "UsersEstimate": 10284
     },
     {
       "ID": "MYSTERY_08",
@@ -18998,13 +19003,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73452,
+      "Progressed": 73454,
       "Completed": 121
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43732,
+      "Progressed": 43734,
       "Completed": 2666
     }
   ],
@@ -19012,8 +19017,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-13T01:42:24.3885942+00:00",
-  "LastChanged_Achievements": "2023-10-13T07:04:34.2871617+00:00",
+  "LastChanged_Achievements": "2023-10-13T08:04:22.3130808+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:31.3761181+00:00",
-  "LastUpdate_Ratings": "2023-10-13T06:57:36.9079242+00:00",
-  "LastUpdate_Achievements": "2023-10-13T07:04:34.287477+00:00"
+  "LastUpdate_Ratings": "2023-10-13T07:57:40.0100722+00:00",
+  "LastUpdate_Achievements": "2023-10-13T08:04:22.3131993+00:00"
 }

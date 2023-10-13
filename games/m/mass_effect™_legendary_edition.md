@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Distinguished Service Medal | 94.00% | ~627 |
+| Distinguished Service Medal | 95.00% | ~634 |
 | Spectre Inductee | 85.00% | ~567 |
 | Medal of Exploration I | 76.00% | ~507 |
 | Recruit | 73.00% | ~487 |
@@ -29,9 +29,9 @@
 | Krogan Ally | 45.00% | ~300 |
 | Merciless | 45.00% | ~300 |
 | Sentinel Ally | 44.00% | ~293 |
+| Very Elusive | 43.00% | ~287 |
 | Head Hunter | 43.00% | ~287 |
 | Missing in Action | 42.00% | ~280 |
-| Very Elusive | 42.00% | ~280 |
 | Operative | 42.00% | ~280 |
 | Veteran | 41.00% | ~273 |
 | Scholar | 41.00% | ~273 |
@@ -79,8 +79,8 @@
 | Eye of the Hurricane | 25.00% | ~167 |
 | Giant Killer | 25.00% | ~167 |
 | Weapon Specialist | 25.00% | ~167 |
+| Liberator | 25.00% | ~167 |
 | World Shaker | 24.00% | ~160 |
-| Liberator | 24.00% | ~160 |
 | Paramour II | 22.00% | ~147 |
 | Pathfinder | 22.00% | ~147 |
 | Tunnel Rat | 22.00% | ~147 |
