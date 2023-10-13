@@ -111,7 +111,7 @@
 | 99 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 952 | 153 |
 | 99 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 535 |
 | 99 | [Wildermyth](games/w/wildermyth.md) | 4.78 | 28 | 482 |
-| 112 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 6,096 | 60 |
+| 112 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 6,182 | 60 |
 | 112 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 7,467 | 50 |
 | 112 | [Outlast](games/o/outlast.md) | 4.77 | 0 | 535 |
 | 112 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 0 | 535 |
@@ -243,7 +243,7 @@
 | 241 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,371 | 91 |
 | 241 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 3,657 | 87 |
 | 241 | [Bad North](games/b/bad_north.md) | 4.68 | 0 | 535 |
-| 241 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 70 | 388 |
+| 241 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 71 | 388 |
 | 241 | [Black Book](games/b/black_book.md) | 4.68 | 72 | 386 |
 | 241 | [BLACKTAIL](games/b/blacktail.md) | 4.68 | 0 | 535 |
 | 241 | [CARRION](games/c/carrion.md) | 4.68 | 0 | 535 |
@@ -293,7 +293,7 @@
 | 280 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 1,926 | 111 |
 | 280 | [SOMA](games/s/soma.md) | 4.66 | 0 | 535 |
 | 280 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 0 | 535 |
-| 280 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,910 | 64 |
+| 280 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,915 | 64 |
 | 280 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 460 | 210 |
 | 280 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 0 | 535 |
 | 297 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 0 | 535 |
@@ -511,7 +511,7 @@
 | 492 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,304 | 133 |
 | 510 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,498 | 127 |
 | 510 | [Costume Quest](games/c/costume_quest.md) | 4.54 | 0 | 535 |
-| 510 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 6,407 | 58 |
+| 510 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 6,420 | 58 |
 | 510 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 35 | 454 |
 | 510 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.54 | 95 | 355 |
 | 510 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.54 | 158 | 303 |
@@ -692,7 +692,7 @@
 | 687 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,228 | 137 |
 | 687 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.42 | 0 | 535 |
 | 687 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 53 |
-| 687 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 70 | 388 |
+| 687 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 70 | 389 |
 | 687 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 172 | 295 |
 | 687 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.42 | 0 | 535 |
 | 687 | [Wall World](games/w/wall_world.md) | 4.42 | 0 | 535 |
@@ -820,7 +820,7 @@
 | 818 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.29 | 0 | 535 |
 | 818 | [ELEX II](games/e/elex_ii.md) | 4.29 | 0 | 535 |
 | 818 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.29 | 0 | 535 |
-| 818 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,809,232 | 1 |
+| 818 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,813,870 | 1 |
 | 818 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.29 | 83 | 369 |
 | 818 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 743 | 171 |
 | 818 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.29 | 0 | 535 |
@@ -966,7 +966,7 @@
 | 963 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 4.00 | 0 | 535 |
 | 963 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.00 | 0 | 535 |
 | 966 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 373 | 227 |
-| 966 | [Shop Titans](games/s/shop_titans.md) | 3.99 | 4,782 | 71 |
+| 966 | [Shop Titans](games/s/shop_titans.md) | 3.99 | 4,785 | 71 |
 | 966 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.99 | 0 | 535 |
 | 969 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.98 | 0 | 535 |
 | 969 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.98 | 0 | 535 |
