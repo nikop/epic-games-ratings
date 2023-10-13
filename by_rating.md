@@ -119,7 +119,7 @@
 | 112 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.77 | 149 | 309 |
 | 112 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 533 |
 | 119 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.76 | 30 | 473 |
-| 119 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 15,567 | 24 |
+| 119 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 15,567 | 25 |
 | 119 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.76 | 0 | 533 |
 | 119 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,355 | 92 |
 | 119 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 1,004 | 149 |
@@ -150,7 +150,7 @@
 | 140 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 0 | 533 |
 | 149 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 0 | 533 |
 | 149 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 822 | 160 |
-| 149 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 15,470 | 25 |
+| 149 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 15,635 | 24 |
 | 149 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 713 | 175 |
 | 149 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.74 | 0 | 533 |
 | 149 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 7,225 | 52 |
@@ -383,7 +383,7 @@
 | 373 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 46,549 | 12 |
 | 373 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 4.61 | 0 | 533 |
 | 373 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 0 | 533 |
-| 373 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,260 | 136 |
+| 373 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,261 | 136 |
 | 373 | [MudRunner](games/m/mudrunner.md) | 4.61 | 269 | 253 |
 | 373 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.61 | 0 | 533 |
 | 373 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 0 | 533 |
@@ -581,7 +581,7 @@
 | 573 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 91 | 360 |
 | 573 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 533 |
 | 573 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 261 | 257 |
-| 573 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,861 | 96 |
+| 573 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,865 | 96 |
 | 573 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 111 | 335 |
 | 573 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 0 | 533 |
 | 573 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 646 | 186 |
@@ -993,16 +993,16 @@
 | 991 | [Stygian: Reign of the Old Ones](games/s/stygian__reign_of_the_old_ones.md) | 3.85 | 0 | 533 |
 | 992 | [Spelldrifter](games/s/spelldrifter.md) | 3.84 | 0 | 533 |
 | 992 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.84 | 0 | 533 |
+| 994 | [Poker Club](games/p/poker_club.md) | 3.83 | 50 | 412 |
 | 994 | [To The Rescue](games/t/to_the_rescue.md) | 3.83 | 0 | 533 |
-| 995 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.82 | 0 | 533 |
-| 995 | [Poker Club](games/p/poker_club.md) | 3.82 | 50 | 412 |
-| 995 | [Potion Permit](games/p/potion_permit.md) | 3.82 | 69 | 390 |
-| 995 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.82 | 0 | 533 |
-| 999 | [Sengoku Dynasty](games/6/696f412c815b40089807922419188f43.md) | 3.81 | 0 | 533 |
-| 1,000 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.80 | 85 | 366 |
-| 1,001 | [Saints Row](games/s/saints_row.md) | 3.79 | 1,069 | 143 |
-| 1,001 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.79 | 0 | 533 |
-| 1,003 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.77 | 0 | 533 |
+| 996 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.82 | 0 | 533 |
+| 996 | [Potion Permit](games/p/potion_permit.md) | 3.82 | 69 | 390 |
+| 996 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.82 | 0 | 533 |
+| 999 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.80 | 85 | 366 |
+| 1,000 | [Saints Row](games/s/saints_row.md) | 3.79 | 1,069 | 143 |
+| 1,000 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.79 | 0 | 533 |
+| 1,002 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.77 | 0 | 533 |
+| 1,003 | [Sengoku Dynasty](games/6/696f412c815b40089807922419188f43.md) | 3.76 | 0 | 533 |
 | 1,004 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.72 | 0 | 533 |
 | 1,005 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.71 | 0 | 533 |
 | 1,005 | [Blood of Steel](games/b/blood_of_steel.md) | 3.71 | 0 | 533 |
