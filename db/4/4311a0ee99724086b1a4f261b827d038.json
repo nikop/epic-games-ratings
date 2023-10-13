@@ -2,13 +2,13 @@
   "ID": "4311a0ee99724086b1a4f261b827d038",
   "Name": "Homeworld Remastered Collection",
   "ProductSlug": "homeworld-remastered-collection",
-  "Ranking_Rating": 509,
+  "Ranking_Rating": 492,
   "Ranking_Popularity": 497,
-  "Ranking_PopularitySum": 437,
+  "Ranking_PopularitySum": 426,
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 51,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.54,
+  "Rating": 4.55,
   "RatingHistory": [
     {
       "Time": "2023-07-29T12:59:22.4734783+00:00",
@@ -348,10 +348,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 89,
       "NumberOfAwardsMax": 26
+    },
+    {
+      "Time": "2023-10-13T17:00:37.1431666+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 109,
+      "NumberOfAwardsMax": 26
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 89,
+  "NumberOfAwards": 109,
   "NumberOfAwardsMax": 26,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -378,11 +384,17 @@
       "Prefix": "This game has",
       "Type": "Diverse Characters",
       "Count": 20
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 20
     }
   ],
-  "EOS_Progressed": 225867,
+  "EOS_Progressed": 225881,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1661,
+  "EOS_NewPlayers": 1665,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9695,6 +9707,11 @@
       "Time": "2023-10-13T16:05:18.0329298+00:00",
       "NumProgressed": 225867,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-13T17:06:14.3219272+00:00",
+      "NumProgressed": 225881,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -9763,7 +9780,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 47432
+      "UsersEstimate": 47435
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -9771,7 +9788,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20328
+      "UsersEstimate": 20329
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -9779,7 +9796,7 @@
       "Name": "Return to Kharak",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 11293
+      "UsersEstimate": 11294
     },
     {
       "ID": "HW1_MISSION4_COMPLETE",
@@ -9795,7 +9812,7 @@
       "Name": "Great Wastelands (part 2) Completed",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4517
+      "UsersEstimate": 4518
     },
     {
       "ID": "HW1_MISSION6_COMPLETE",
@@ -9811,7 +9828,7 @@
       "Name": "The Gardens of Kadesh Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 4517
+      "UsersEstimate": 4518
     },
     {
       "ID": "HW1_MISSION8_COMPLETE",
@@ -9819,7 +9836,7 @@
       "Name": "The Cathedral of Kadesh Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 4517
+      "UsersEstimate": 4518
     },
     {
       "ID": "HW1_MISSION9_COMPLETE",
@@ -9827,7 +9844,7 @@
       "Name": "Sea of Lost Souls Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 4517
+      "UsersEstimate": 4518
     },
     {
       "ID": "HW1_TUTORIAL_COMPLETE",
@@ -9883,7 +9900,7 @@
       "Name": "Return to Hiigara Complete",
       "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 903
+      "UsersEstimate": 904
     },
     {
       "ID": "HW2_MISSION1_COMPLETE",
@@ -9891,7 +9908,7 @@
       "Name": "Tanis Completed",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 29363
+      "UsersEstimate": 29365
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -9899,7 +9916,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 15811
+      "UsersEstimate": 15812
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -9907,7 +9924,7 @@
       "Name": "Sarum Completed",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4517
+      "UsersEstimate": 4518
     },
     {
       "ID": "HW2_MISSION4_COMPLETE",
@@ -9963,7 +9980,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 56467
+      "UsersEstimate": 56470
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -9978,16 +9995,16 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 225867,
+      "Progressed": 225881,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T17:57:09.4627104+00:00",
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
-  "LastChanged": "2023-10-13T09:59:37.0474737+00:00",
-  "LastChanged_Achievements": "2023-10-13T16:05:18.0329293+00:00",
+  "LastChanged": "2023-10-13T17:00:37.1431663+00:00",
+  "LastChanged_Achievements": "2023-10-13T17:06:14.3219266+00:00",
   "LastUpdate_AppInfo": "2023-10-12T22:57:12.5355858+00:00",
-  "LastUpdate_Ratings": "2023-10-13T16:00:00.3496991+00:00",
-  "LastUpdate_Achievements": "2023-10-13T16:05:18.0330317+00:00"
+  "LastUpdate_Ratings": "2023-10-13T17:00:37.143167+00:00",
+  "LastUpdate_Achievements": "2023-10-13T17:06:14.3220712+00:00"
 }

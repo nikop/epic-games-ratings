@@ -40,6 +40,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Fountainhead | 0.90% | ~132 |
 | Magnificent | 0.90% | ~132 |
 | Wise | 0.90% | ~132 |
+| Great Ziggurat | 0.90% | ~132 |
 | Ishtar Gate | 0.90% | ~132 |
 | Lighthouse | 0.90% | ~132 |
 | Carthaginian Paganism | 0.90% | ~132 |
@@ -49,7 +50,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great | 0.80% | ~117 |
 | Able Difficulty | 0.80% | ~117 |
 | Furious Family | 0.80% | ~117 |
-| Great Ziggurat | 0.80% | ~117 |
 | Musaeum | 0.80% | ~117 |
 | Learn to Play 1 | 0.80% | ~117 |
 | Manichaeism | 0.80% | ~117 |
@@ -108,6 +108,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cimmerian Archer | 0.40% | ~59 |
 | Legionary | 0.40% | ~59 |
 | Phalangite | 0.40% | ~59 |
+| The Clergy | 0.40% | ~59 |
 | Capable | 0.30% | ~44 |
 | Devout | 0.30% | ~44 |
 | Noble Difficulty | 0.30% | ~44 |
@@ -133,7 +134,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Turreted Elephant | 0.30% | ~44 |
 | All Nations | 0.30% | ~44 |
 | Ambition Victory | 0.30% | ~44 |
-| The Clergy | 0.30% | ~44 |
 | The Great Mage | 0.30% | ~44 |
 | Poetic Leader | 0.30% | ~44 |
 | Kmt Unified | 0.30% | ~44 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,644 (Ranked 134)  
+Progressed: 14,645 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -525,7 +525,7 @@ Completed: 5 (0.03%) (Ranked 283)
 | 2023-10-10 | 14,586 | 5 |
 | 2023-10-11 | 14,606 | 5 |
 | 2023-10-12 | 14,624 | 5 |
-| 2023-10-13 | 14,644 | 5 |
+| 2023-10-13 | 14,645 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,836 (Ranked 210)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -912,9 +912,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 6811,
+  "EOS_Progressed": 6812,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6907,6 +6907,11 @@
       "Time": "2023-10-13T11:03:46.5642146+00:00",
       "NumProgressed": 6811,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-13T17:05:15.5360978+00:00",
+      "NumProgressed": 6812,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -6950,7 +6955,7 @@
       "Name": "Commodity Trader",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2111
+      "UsersEstimate": 2112
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -7030,7 +7035,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4972
+      "UsersEstimate": 4973
     },
     {
       "ID": "First_Ship_Designed",
@@ -7406,7 +7411,7 @@
       "Name": "Win a Battle",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 4495
+      "UsersEstimate": 4496
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -7493,15 +7498,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6811,
+      "Progressed": 6812,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-10-13T16:04:20.4306696+00:00",
+  "LastChanged_Achievements": "2023-10-13T17:05:15.5360972+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:04.8619869+00:00",
-  "LastUpdate_Ratings": "2023-10-13T16:01:57.5028948+00:00",
-  "LastUpdate_Achievements": "2023-10-13T16:04:20.4307978+00:00"
+  "LastUpdate_Ratings": "2023-10-13T17:02:43.9661416+00:00",
+  "LastUpdate_Achievements": "2023-10-13T17:05:15.536255+00:00"
 }

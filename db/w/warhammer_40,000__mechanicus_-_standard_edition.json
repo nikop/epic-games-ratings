@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 198,
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -691,10 +691,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 2165,
       "NumberOfAwardsMax": 286
+    },
+    {
+      "Time": "2023-10-13T17:02:55.4930267+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 2166,
+      "NumberOfAwardsMax": 286
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2165,
+  "NumberOfAwards": 2166,
   "NumberOfAwardsMax": 286,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -726,7 +732,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 262
+      "Count": 263
     },
     {
       "Text": "This game has Diverse Characters",
@@ -759,9 +765,9 @@
       "Count": 98
     }
   ],
-  "EOS_Progressed": 224629,
+  "EOS_Progressed": 224631,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 553,
+  "EOS_NewPlayers": 551,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19949,6 +19955,11 @@
       "Time": "2023-10-13T16:05:41.1648537+00:00",
       "NumProgressed": 224629,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-13T17:06:37.7681289+00:00",
+      "NumProgressed": 224631,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -20208,7 +20219,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 26955
+      "UsersEstimate": 26956
     },
     {
       "ID": "ACH_BASE_8",
@@ -20231,16 +20242,16 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 224629,
+      "Progressed": 224631,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-08-11T20:31:05.9094892+00:00",
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
-  "LastChanged": "2023-10-12T01:41:39.2845442+00:00",
-  "LastChanged_Achievements": "2023-10-13T16:05:41.1648532+00:00",
+  "LastChanged": "2023-10-13T17:02:55.4930265+00:00",
+  "LastChanged_Achievements": "2023-10-13T17:06:37.7681282+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:40.0692082+00:00",
-  "LastUpdate_Ratings": "2023-10-13T16:02:08.9686901+00:00",
-  "LastUpdate_Achievements": "2023-10-13T16:05:41.1650373+00:00"
+  "LastUpdate_Ratings": "2023-10-13T17:02:55.4930274+00:00",
+  "LastUpdate_Achievements": "2023-10-13T17:06:37.7683846+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 672,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1797,9 +1797,9 @@
       "ID": "achievement_120",
       "SetID": "d252ncf",
       "Name": "Paramour I",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 323
+      "UsersEstimate": 329
     },
     {
       "ID": "achievement_121",
@@ -1973,9 +1973,9 @@
       "ID": "achievement_26",
       "SetID": "b9pe172",
       "Name": "Krogan Ally",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 302
+      "UsersEstimate": 309
     },
     {
       "ID": "achievement_27",
@@ -2061,9 +2061,9 @@
       "ID": "achievement_36",
       "SetID": "b9pe172",
       "Name": "Missing in Action",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 289
     },
     {
       "ID": "achievement_37",
@@ -2229,9 +2229,9 @@
       "ID": "achievement_55",
       "SetID": "d252ncf",
       "Name": "Doppelganger",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 188
+      "UsersEstimate": 195
     },
     {
       "ID": "achievement_56",
@@ -2633,8 +2633,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-13T16:04:04.7597991+00:00",
+  "LastChanged_Achievements": "2023-10-13T17:04:59.4947509+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:40.7255751+00:00",
-  "LastUpdate_Ratings": "2023-10-13T16:00:22.7256266+00:00",
-  "LastUpdate_Achievements": "2023-10-13T16:04:04.760071+00:00"
+  "LastUpdate_Ratings": "2023-10-13T17:00:57.6245354+00:00",
+  "LastUpdate_Achievements": "2023-10-13T17:04:59.4949827+00:00"
 }

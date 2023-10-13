@@ -1,37 +1,37 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 509)  
+Rating: 4.54 (Ranked 510)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 4.00% | ~27,800 |
-| Welcome To Hell-A | 4.00% | ~27,800 |
-| Dr. Reed, I Presume? | 3.00% | ~20,850 |
-| Git Gutte! | 3.00% | ~20,850 |
-| Break A Leg | 3.00% | ~20,850 |
-| Coup de Grâce | 3.00% | ~20,850 |
-| Hazardous Materials | 3.00% | ~20,850 |
-| Friends Like These | 3.00% | ~20,850 |
-| Apex Predator | 3.00% | ~20,850 |
-| Stacking the Deck | 3.00% | ~20,850 |
-| Personal Assistant Personally Assisted | 3.00% | ~20,850 |
-| Making Your Mark | 2.00% | ~13,900 |
-| Anger Management | 2.00% | ~13,900 |
-| Perks of the Job | 2.00% | ~13,900 |
-| Bookworm | 2.00% | ~13,900 |
-| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,900 |
-| But Doctor, I am Butcho | 2.00% | ~13,900 |
-| Slayer Squad | 2.00% | ~13,900 |
-| Can't Handle the Truth | 2.00% | ~13,900 |
-| Like Riding a Bike | 2.00% | ~13,900 |
-| Zombologist | 2.00% | ~13,900 |
-| Ooh, Shiny! | 2.00% | ~13,900 |
-| A Patton Emerges | 2.00% | ~13,900 |
-| Humanity Distilled | 2.00% | ~13,900 |
-| I Am the Resurrection | 2.00% | ~13,900 |
-| Our True Nature | 2.00% | ~13,900 |
-| This is My Weapon | 2.00% | ~13,900 |
+| Hotel California | 4.00% | ~27,801 |
+| Welcome To Hell-A | 4.00% | ~27,801 |
+| Dr. Reed, I Presume? | 3.00% | ~20,851 |
+| Git Gutte! | 3.00% | ~20,851 |
+| Break A Leg | 3.00% | ~20,851 |
+| Coup de Grâce | 3.00% | ~20,851 |
+| Hazardous Materials | 3.00% | ~20,851 |
+| Friends Like These | 3.00% | ~20,851 |
+| Apex Predator | 3.00% | ~20,851 |
+| Stacking the Deck | 3.00% | ~20,851 |
+| Personal Assistant Personally Assisted | 3.00% | ~20,851 |
+| Making Your Mark | 2.00% | ~13,901 |
+| Anger Management | 2.00% | ~13,901 |
+| Perks of the Job | 2.00% | ~13,901 |
+| Bookworm | 2.00% | ~13,901 |
+| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,901 |
+| But Doctor, I am Butcho | 2.00% | ~13,901 |
+| Slayer Squad | 2.00% | ~13,901 |
+| Can't Handle the Truth | 2.00% | ~13,901 |
+| Like Riding a Bike | 2.00% | ~13,901 |
+| Zombologist | 2.00% | ~13,901 |
+| Ooh, Shiny! | 2.00% | ~13,901 |
+| A Patton Emerges | 2.00% | ~13,901 |
+| Humanity Distilled | 2.00% | ~13,901 |
+| I Am the Resurrection | 2.00% | ~13,901 |
+| Our True Nature | 2.00% | ~13,901 |
+| This is My Weapon | 2.00% | ~13,901 |
 | Jumbo Keyring | 1.00% | ~6,950 |
 | Down with the Sickness | 1.00% | ~6,950 |
 | Max Headroom | 1.00% | ~6,950 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 509)
 | Donk! | 0.20% | ~1,390 |
 | Bucket List | 0.10% | ~695 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 694,994 (Ranked 22)  
+Progressed: 695,037 (Ranked 22)  
 Completed: 2,219 (0.32%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 2,219 (0.32%) (Ranked 200)
 | 2023-10-10 | 693,868 | 2,209 |
 | 2023-10-11 | 694,263 | 2,210 |
 | 2023-10-12 | 694,718 | 2,216 |
-| 2023-10-13 | 694,994 | 2,219 |
+| 2023-10-13 | 695,037 | 2,219 |
 ## Awards
 Max (Great Boss Battles): 6,407  (Ranked 58)  
 Sum: 9,581 (Ranked 91)  

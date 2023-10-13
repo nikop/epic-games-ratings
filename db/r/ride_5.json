@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1449,
+  "EOS_Progressed": 1451,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2739,6 +2739,11 @@
       "Time": "2023-10-13T16:07:50.4384067+00:00",
       "NumProgressed": 1449,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-13T17:08:50.0263794+00:00",
+      "NumProgressed": 1451,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -2789,9 +2794,9 @@
       "ID": "ML_ACHIEVEMENT_06",
       "SetID": "c7hf6a4",
       "Name": "Make It Your Own!",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 73
     },
     {
       "ID": "ML_ACHIEVEMENT_07",
@@ -2807,7 +2812,7 @@
       "Name": "I Want One Too!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -2831,7 +2836,7 @@
       "Name": "Spoilt for Choice",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ML_ACHIEVEMENT_12",
@@ -2863,7 +2868,7 @@
       "Name": "I\u0027ll Be the Best!",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ML_ACHIEVEMENT_16",
@@ -2879,7 +2884,7 @@
       "Name": "Cherry Blossom and Temples",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -2887,7 +2892,7 @@
       "Name": "La Dolce Vita",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ML_ACHIEVEMENT_19",
@@ -2903,7 +2908,7 @@
       "Name": "The Road to Liberty",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ML_ACHIEVEMENT_21",
@@ -2911,7 +2916,7 @@
       "Name": "Romantic Races",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ML_ACHIEVEMENT_22",
@@ -2935,7 +2940,7 @@
       "Name": "Still Here",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ML_ACHIEVEMENT_25",
@@ -3007,7 +3012,7 @@
       "Name": "We\u0027ve Just Begun",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -3015,7 +3020,7 @@
       "Name": "Next Level",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
@@ -3039,7 +3044,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -3047,7 +3052,7 @@
       "Name": "Eat My Dust",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -3087,7 +3092,7 @@
       "Name": "I Don\u0027t Stop",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ML_ACHIEVEMENT_44",
@@ -3103,7 +3108,7 @@
       "Name": "Rivals to the End",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -3142,14 +3147,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1449,
+      "Progressed": 1451,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-13T16:07:50.4384061+00:00",
+  "LastChanged_Achievements": "2023-10-13T17:08:50.0263785+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:00.8071833+00:00",
-  "LastUpdate_Ratings": "2023-10-13T16:02:42.4260671+00:00",
-  "LastUpdate_Achievements": "2023-10-13T16:07:50.4384742+00:00"
+  "LastUpdate_Ratings": "2023-10-13T17:03:27.3152318+00:00",
+  "LastUpdate_Achievements": "2023-10-13T17:08:50.0264829+00:00"
 }

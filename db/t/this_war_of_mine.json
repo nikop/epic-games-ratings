@@ -4,11 +4,11 @@
   "ProductSlug": "this-war-of-mine",
   "Ranking_Rating": 149,
   "Ranking_Popularity": 369,
-  "Ranking_PopularitySum": 291,
+  "Ranking_PopularitySum": 290,
   "Ranking_EOS_Progress": 669,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 393,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 392,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2014-11-14T15:00:00+00:00",
     "PcReleaseDate": "2014-11-14T15:00:00+00:00",
@@ -1498,10 +1498,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 671,
       "NumberOfAwardsMax": 83
+    },
+    {
+      "Time": "2023-10-13T16:59:06.576036+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 673,
+      "NumberOfAwardsMax": 83
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 671,
+  "NumberOfAwards": 673,
   "NumberOfAwardsMax": 83,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1515,13 +1521,13 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 72
+      "Count": 73
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 71
+      "Count": 72
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1585,9 +1591,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:40.68032+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.8551694+00:00",
-  "LastChanged": "2023-10-13T09:58:21.1943318+00:00",
-  "LastChanged_Achievements": "2023-10-13T16:08:47.106198+00:00",
+  "LastChanged": "2023-10-13T16:59:06.5760357+00:00",
+  "LastChanged_Achievements": "2023-10-13T17:09:47.476012+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:43.2137272+00:00",
-  "LastUpdate_Ratings": "2023-10-13T15:58:35.8462229+00:00",
-  "LastUpdate_Achievements": "2023-10-13T16:08:47.1062023+00:00"
+  "LastUpdate_Ratings": "2023-10-13T16:59:06.5760365+00:00",
+  "LastUpdate_Achievements": "2023-10-13T17:09:47.4760492+00:00"
 }

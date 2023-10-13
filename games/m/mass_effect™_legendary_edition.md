@@ -23,15 +23,15 @@
 | Medal of Exploration III | 52.00% | ~349 |
 | Asari Ally | 52.00% | ~349 |
 | Soldier Ally | 51.00% | ~343 |
+| Paramour I | 49.00% | ~329 |
 | Colonial Savior | 49.00% | ~329 |
-| Paramour I | 48.00% | ~323 |
+| Krogan Ally | 46.00% | ~309 |
 | Scientist | 46.00% | ~309 |
-| Krogan Ally | 45.00% | ~302 |
 | Merciless | 45.00% | ~302 |
 | Sentinel Ally | 44.00% | ~296 |
+| Missing in Action | 43.00% | ~289 |
 | Very Elusive | 43.00% | ~289 |
 | Head Hunter | 43.00% | ~289 |
-| Missing in Action | 42.00% | ~282 |
 | Operative | 42.00% | ~282 |
 | Veteran | 41.00% | ~276 |
 | Scholar | 41.00% | ~276 |
@@ -65,10 +65,10 @@
 | Driven | 30.00% | ~202 |
 | Focused | 29.00% | ~195 |
 | Cat's in the Cradle | 29.00% | ~195 |
+| Doppelganger | 29.00% | ~195 |
 | Digital Exorcist | 29.00% | ~195 |
 | Bringer of War | 29.00% | ~195 |
 | Friend or Foe | 28.00% | ~188 |
-| Doppelganger | 28.00% | ~188 |
 | First Aid Specialist | 27.00% | ~181 |
 | Mission Accomplished | 27.00% | ~181 |
 | Suicide Mission | 27.00% | ~181 |

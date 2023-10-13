@@ -5,7 +5,7 @@ Rating: 4.19 (Ranked 891)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get a Grip | 7.00% | ~1,120 |
+| Get a Grip | 7.00% | ~1,121 |
 | Paper Jams | 6.00% | ~960 |
 | Flesh Wound | 5.00% | ~800 |
 | Float Like A Butterfly | 5.00% | ~800 |
@@ -33,10 +33,10 @@ Rating: 4.19 (Ranked 891)
 | One Last Job | 2.00% | ~79 |
 | This Isn't About Escape | 1.00% | ~39 |
 | Armed to the Teeth | 0.70% | ~28 |
+| Parole Denied | 0.70% | ~28 |
 | Big Spender | 0.70% | ~28 |
 | Information Overload | 0.70% | ~28 |
 | Grim Reaper | 0.60% | ~96 |
-| Parole Denied | 0.60% | ~24 |
 | Quick Pick | 0.50% | ~20 |
 | Mugshot | 0.40% | ~64 |
 | Instigator | 0.40% | ~16 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 891)
 | Hoard Mode | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,007 (Ranked 132)  
+Progressed: 16,008 (Ranked 132)  
 Completed: 74 (0.46%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,17 +222,17 @@ Completed: 74 (0.46%) (Ranked 178)
 | 2023-10-09 | 16,001 | 74 |
 | 2023-10-11 | 16,003 | 74 |
 | 2023-10-12 | 16,004 | 74 |
-| 2023-10-13 | 16,007 | 74 |
+| 2023-10-13 | 16,008 | 74 |
 ## Awards
 Max (Amazing Storytelling): 76  (Ranked 379)  
-Sum: 444 (Ranked 322)  
+Sum: 445 (Ranked 322)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 76 |
 | This game is Highly Recommended | 75 |
 | This game has Amazing Characters | 73 |
-| This game has Quickly Understood Controls | 71 |
+| This game has Quickly Understood Controls | 72 |
 | This game is Extremely Fun | 66 |
 | This game has Challenging Combat | 57 |
 | This game has a Creative Community | 26 |
@@ -375,4 +375,4 @@ Diff (max vs sum): 57
 | 2023-10-10 | 4.19 | 75 | 440 |
 | 2023-10-11 | 4.19 | 76 | 442 |
 | 2023-10-12 | 4.19 | 76 | 443 |
-| 2023-10-13 | 4.19 | 76 | 444 |
+| 2023-10-13 | 4.19 | 76 | 445 |

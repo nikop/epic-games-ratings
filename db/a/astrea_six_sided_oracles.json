@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 433,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -286,9 +286,9 @@
       "ID": "AnomalyControl",
       "SetID": "1jeo1g7",
       "Name": "Anomaly Control",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "AnomalyDestroyer",
@@ -822,9 +822,9 @@
       "ID": "TheChaosArtisan",
       "SetID": "1jeo1g7",
       "Name": "The Chaos Artisan",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "TheCorruptionGoddess",
@@ -934,9 +934,9 @@
       "ID": "ApianHero",
       "SetID": "1jeo1g7",
       "Name": "Apian Hero",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ApianMastery",
@@ -1077,8 +1077,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-10-13T16:05:19.4897548+00:00",
+  "LastChanged_Achievements": "2023-10-13T17:06:15.8111142+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:02.1495418+00:00",
-  "LastUpdate_Ratings": "2023-10-13T16:00:25.2488049+00:00",
-  "LastUpdate_Achievements": "2023-10-13T16:05:19.4898792+00:00"
+  "LastUpdate_Ratings": "2023-10-13T17:01:00.1748216+00:00",
+  "LastUpdate_Achievements": "2023-10-13T17:06:15.8113136+00:00"
 }

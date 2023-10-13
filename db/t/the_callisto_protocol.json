@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 178,
   "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1236,10 +1236,16 @@
       "Rating": 4.19,
       "NumberOfAwards": 444,
       "NumberOfAwardsMax": 76
+    },
+    {
+      "Time": "2023-10-13T17:00:51.7750813+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 445,
+      "NumberOfAwardsMax": 76
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 444,
+  "NumberOfAwards": 445,
   "NumberOfAwardsMax": 76,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -1259,7 +1265,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 71
+      "Count": 72
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1286,9 +1292,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 16007,
+  "EOS_Progressed": 16008,
   "EOS_Completed": 74,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -7411,6 +7417,11 @@
       "Time": "2023-10-13T13:12:22.6448528+00:00",
       "NumProgressed": 16007,
       "NumCompleted": 74
+    },
+    {
+      "Time": "2023-10-13T17:08:46.4967+00:00",
+      "NumProgressed": 16008,
+      "NumCompleted": 74
     }
   ],
   "TotalAchievements": 47,
@@ -7516,9 +7527,9 @@
       "ID": "FINISH_NEW_GAME_PLUS",
       "SetID": "6j5ggkc",
       "Name": "Parole Denied",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 28
     },
     {
       "ID": "GRP_25_ENEMIES",
@@ -7526,7 +7537,7 @@
       "Name": "Get a Grip",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1121
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -7797,22 +7808,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16007,
+      "Progressed": 16008,
       "Completed": 74
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3933,
+      "Progressed": 3934,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-10-13T13:05:14.0762375+00:00",
-  "LastChanged_Achievements": "2023-10-13T16:07:46.9745152+00:00",
+  "LastChanged": "2023-10-13T17:00:51.7750812+00:00",
+  "LastChanged_Achievements": "2023-10-13T17:08:46.4966993+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:42.1590556+00:00",
-  "LastUpdate_Ratings": "2023-10-13T16:00:16.9769694+00:00",
-  "LastUpdate_Achievements": "2023-10-13T16:07:46.9745966+00:00"
+  "LastUpdate_Ratings": "2023-10-13T17:00:51.7750817+00:00",
+  "LastUpdate_Achievements": "2023-10-13T17:08:46.4968323+00:00"
 }

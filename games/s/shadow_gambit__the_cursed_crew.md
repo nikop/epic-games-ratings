@@ -8,7 +8,7 @@ Rating: 4.73 (Ranked 163)
 | A New Journey | 67.00% | ~482 |
 | The Adventure Begins | 53.00% | ~382 |
 | Swabbie | 43.00% | ~310 |
-| With Great Power… | 41.00% | ~295 |
+| With Great Power… | 42.00% | ~302 |
 | This Belongs in a Museum | 38.00% | ~274 |
 | The Gambit Has Begun | 34.00% | ~245 |
 | Somewhere Deep in the Lost Caribbean | 31.00% | ~223 |
@@ -20,7 +20,7 @@ Rating: 4.73 (Ranked 163)
 | All Good Things | 20.00% | ~144 |
 | Persistent Parasite | 19.00% | ~137 |
 | Seadog | 18.00% | ~130 |
-| Jaded Judge | 13.00% | ~94 |
+| Jaded Judge | 14.00% | ~101 |
 | Privateer | 12.00% | ~86 |
 | Rustic Recipe | 12.00% | ~86 |
 | Tobacco Travesty | 11.00% | ~79 |

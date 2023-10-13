@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 178,
   "Ranking_EOS_NewPlayers": 244,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -2925,9 +2925,9 @@
       "ID": "CollectAllStatues",
       "SetID": "9lj35g4",
       "Name": "Return the Statues",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 528
+      "UsersEstimate": 548
     },
     {
       "ID": "CollectAllWeaponsAndGear",
@@ -3148,8 +3148,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-10-09T14:58:48.9405433+00:00",
-  "LastChanged_Achievements": "2023-10-13T16:07:58.3573805+00:00",
+  "LastChanged_Achievements": "2023-10-13T17:08:57.9406719+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:43.6337882+00:00",
-  "LastUpdate_Ratings": "2023-10-13T16:02:13.6026791+00:00",
-  "LastUpdate_Achievements": "2023-10-13T16:07:58.3574217+00:00"
+  "LastUpdate_Ratings": "2023-10-13T17:03:00.6881678+00:00",
+  "LastUpdate_Achievements": "2023-10-13T17:08:57.9407373+00:00"
 }

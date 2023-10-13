@@ -29,18 +29,19 @@
 | The Corruption Goddess | 11.00% | ~6 |
 | The Goddes Avatar | 11.00% | ~6 |
 | Unbeatable | 11.00% | ~6 |
+| Anomaly Control | 9.00% | ~5 |
 | Favored by the Cosmos | 9.00% | ~5 |
 | Sadistic Plan | 9.00% | ~5 |
 | Stellar Haste | 9.00% | ~5 |
 | Wave Bender | 9.00% | ~5 |
-| Anomaly Control | 8.00% | ~4 |
+| Apian Hero | 9.00% | ~5 |
 | Can't touch this | 8.00% | ~4 |
 | Heavy Purger | 8.00% | ~4 |
-| Apian Hero | 8.00% | ~4 |
 | Lacertian Hero | 8.00% | ~4 |
 | Denying Destiny | 6.00% | ~3 |
 | Purification Avatar | 6.00% | ~3 |
 | The Abyssal Terror | 6.00% | ~3 |
+| The Chaos Artisan | 6.00% | ~3 |
 | The Dark Moon | 6.00% | ~3 |
 | The Distorted Sage | 6.00% | ~3 |
 | Behenian Hero | 6.00% | ~3 |
@@ -51,7 +52,6 @@
 | If I Had Failed... | 4.00% | ~2 |
 | Reflexive Mind | 4.00% | ~2 |
 | Sentinelphobic | 4.00% | ~2 |
-| The Chaos Artisan | 4.00% | ~2 |
 | Aquarian Mastery | 4.00% | ~2 |
 | Eridanian Mastery | 4.00% | ~2 |
 | Noctuan Hero | 4.00% | ~2 |

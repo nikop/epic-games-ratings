@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 86,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -2246,9 +2246,9 @@
       "ID": "_17_UpgradeFirstCharacter",
       "SetID": "8a1io5d",
       "Name": "With Great Power\u2026",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 295
+      "UsersEstimate": 302
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -2302,9 +2302,9 @@
       "ID": "_24_CrewTale_SNP",
       "SetID": "8a1io5d",
       "Name": "Jaded Judge",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 101
     },
     {
       "ID": "_25_CrewTale_GCW",
@@ -2335,8 +2335,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-10-02T00:00:41.2116731+00:00",
-  "LastChanged_Achievements": "2023-10-13T16:08:44.5329935+00:00",
+  "LastChanged_Achievements": "2023-10-13T17:09:44.9024743+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:22.4303238+00:00",
-  "LastUpdate_Ratings": "2023-10-13T16:01:33.7555166+00:00",
-  "LastUpdate_Achievements": "2023-10-13T16:08:44.5330284+00:00"
+  "LastUpdate_Ratings": "2023-10-13T17:02:14.9364329+00:00",
+  "LastUpdate_Achievements": "2023-10-13T17:09:44.9025257+00:00"
 }
