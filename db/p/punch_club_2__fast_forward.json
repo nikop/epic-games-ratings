@@ -4,7 +4,7 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 104,
-  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewPlayers": 306,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -1736,9 +1736,9 @@
       "ID": "seashell_hunter",
       "SetID": "69co12a",
       "Name": "Seashell hunter",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 130
     },
     {
       "ID": "sleep_candy",
@@ -1831,8 +1831,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-10-13T22:05:22.1625886+00:00",
+  "LastChanged_Achievements": "2023-10-13T23:04:55.8966616+00:00",
   "LastUpdate_AppInfo": "2023-10-07T11:57:13.456228+00:00",
-  "LastUpdate_Ratings": "2023-10-13T22:02:31.9392606+00:00",
-  "LastUpdate_Achievements": "2023-10-13T22:05:22.1627038+00:00"
+  "LastUpdate_Ratings": "2023-10-13T23:02:31.3565346+00:00",
+  "LastUpdate_Achievements": "2023-10-13T23:04:55.8967193+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6537,
+  "EOS_Progressed": 6539,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11321,6 +11321,11 @@
       "Time": "2023-10-13T20:05:31.9538721+00:00",
       "NumProgressed": 6537,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-13T23:04:49.4334083+00:00",
+      "NumProgressed": 6539,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -11332,7 +11337,7 @@
       "Name": "First Step",
       "Percentage": 35,
       "XP": 45,
-      "UsersEstimate": 2288
+      "UsersEstimate": 2289
     },
     {
       "ID": "10",
@@ -11348,7 +11353,7 @@
       "Name": "Telepathic",
       "Percentage": 9,
       "XP": 70,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "12",
@@ -11396,7 +11401,7 @@
       "Name": "Cactus Vally",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 1438
+      "UsersEstimate": 1439
     },
     {
       "ID": "4",
@@ -11404,7 +11409,7 @@
       "Name": "Rainy Ruins",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "5",
@@ -11451,7 +11456,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 6537,
+      "Progressed": 6539,
       "Completed": 0
     }
   ],
@@ -11459,8 +11464,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-10-13T22:05:14.6929302+00:00",
+  "LastChanged_Achievements": "2023-10-13T23:04:49.4334078+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:19.3582319+00:00",
-  "LastUpdate_Ratings": "2023-10-13T22:01:36.7369672+00:00",
-  "LastUpdate_Achievements": "2023-10-13T22:05:14.6929928+00:00"
+  "LastUpdate_Ratings": "2023-10-13T23:00:45.3306685+00:00",
+  "LastUpdate_Achievements": "2023-10-13T23:04:49.4334671+00:00"
 }

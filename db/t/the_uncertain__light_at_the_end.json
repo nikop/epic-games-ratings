@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 397,
+  "Ranking_EOS_NewPlayers": 337,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 531,
+  "EOS_Progressed": 532,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.13,
   "EosHistory": [
@@ -730,6 +730,11 @@
       "Time": "2023-10-08T04:08:27.8056707+00:00",
       "NumProgressed": 531,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-13T23:08:59.9112628+00:00",
+      "NumProgressed": 532,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -837,7 +842,7 @@
       "Name": "Short Circuit",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "Illustrator",
@@ -861,7 +866,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "Leisurely_Strol",
@@ -957,7 +962,7 @@
       "Name": "Beat the Heat",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "Unforeseen_Consequences",
@@ -972,7 +977,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 531,
+      "Progressed": 532,
       "Completed": 6
     }
   ],
@@ -980,8 +985,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-10-13T22:09:11.9474357+00:00",
+  "LastChanged_Achievements": "2023-10-13T23:08:59.911262+00:00",
   "LastUpdate_AppInfo": "2023-10-07T09:57:25.9836969+00:00",
-  "LastUpdate_Ratings": "2023-10-13T22:03:04.2026356+00:00",
-  "LastUpdate_Achievements": "2023-10-13T22:09:11.9474704+00:00"
+  "LastUpdate_Ratings": "2023-10-13T23:02:32.782742+00:00",
+  "LastUpdate_Achievements": "2023-10-13T23:08:59.911283+00:00"
 }

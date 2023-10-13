@@ -7,7 +7,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 0.30% | ~695 |
-| The Cursed Farmer | 0.20% | ~463 |
+| The Cursed Farmer | 0.20% | ~464 |
 | The Jungles of Doomspace | 0.20% | ~396 |
 | The Arena of Blood | 0.20% | ~396 |
 | Foul Play | 0.20% | ~396 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Spelljammers in Training | 0.10% | ~198 |
 | Time Out | 0.10% | ~198 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,747 (Ranked 58)  
+Progressed: 231,754 (Ranked 58)  
 Completed: 2,358 (1.02%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -711,7 +711,7 @@ Completed: 2,358 (1.02%) (Ranked 144)
 | 2023-10-10 | 231,484 | 2,351 |
 | 2023-10-11 | 231,561 | 2,353 |
 | 2023-10-12 | 231,654 | 2,355 |
-| 2023-10-13 | 231,747 | 2,358 |
+| 2023-10-13 | 231,754 | 2,358 |
 ## Awards
 Max (Diverse Characters): 5,392  (Ranked 69)  
 Sum: 32,021 (Ranked 41)  

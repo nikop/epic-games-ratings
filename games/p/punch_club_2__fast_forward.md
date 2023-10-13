@@ -50,7 +50,7 @@
 | Poisoned fighter | 41.00% | ~137 |
 | Get out of my apartment! | 41.00% | ~137 |
 | The die is cast | 41.00% | ~137 |
-| Seashell hunter | 38.00% | ~127 |
+| Seashell hunter | 39.00% | ~130 |
 | Gang wrangler | 37.00% | ~124 |
 | Undercover robot | 37.00% | ~124 |
 | Your own way | 37.00% | ~124 |

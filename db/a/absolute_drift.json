@@ -2,7 +2,7 @@
   "ID": "9d2f484bbec64aa8ad234b3199dcaf1c",
   "Name": "Absolute Drift",
   "ProductSlug": "absolute-drift",
-  "Ranking_Rating": 698,
+  "Ranking_Rating": 699,
   "Ranking_Popularity": 535,
   "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 7,
@@ -454,9 +454,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1544955,
+  "EOS_Progressed": 1544963,
   "EOS_Completed": 705,
-  "EOS_NewPlayers": 1135,
+  "EOS_NewPlayers": 1139,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -20384,6 +20384,11 @@
       "Time": "2023-10-13T22:07:35.065004+00:00",
       "NumProgressed": 1544955,
       "NumCompleted": 705
+    },
+    {
+      "Time": "2023-10-13T23:08:14.3578141+00:00",
+      "NumProgressed": 1544963,
+      "NumCompleted": 705
     }
   ],
   "TotalAchievements": 20,
@@ -20443,7 +20448,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 139046
+      "UsersEstimate": 139047
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -20507,7 +20512,7 @@
       "Name": "Multiplier Master",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 139046
+      "UsersEstimate": 139047
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -20554,15 +20559,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1544955,
+      "Progressed": 1544963,
       "Completed": 705
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-09-25T13:05:51.0685533+00:00",
-  "LastChanged_Achievements": "2023-10-13T22:07:35.0650037+00:00",
+  "LastChanged_Achievements": "2023-10-13T23:08:14.3578137+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:49.6102489+00:00",
-  "LastUpdate_Ratings": "2023-10-13T21:57:39.8226118+00:00",
-  "LastUpdate_Achievements": "2023-10-13T22:07:35.0651186+00:00"
+  "LastUpdate_Ratings": "2023-10-13T22:57:28.6695531+00:00",
+  "LastUpdate_Achievements": "2023-10-13T23:08:14.3579179+00:00"
 }

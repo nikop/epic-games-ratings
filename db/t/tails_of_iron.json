@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -239,9 +239,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1956,
+  "EOS_Progressed": 1957,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -2884,6 +2884,11 @@
       "Time": "2023-10-12T16:06:44.2512463+00:00",
       "NumProgressed": 1956,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-13T23:06:16.6011597+00:00",
+      "NumProgressed": 1957,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -2895,7 +2900,7 @@
       "Name": "Become King",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 1447
+      "UsersEstimate": 1448
     },
     {
       "ID": "Collect20Gold",
@@ -2911,7 +2916,7 @@
       "Name": "Collect Iron Ore",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "Collect50MonsterParts",
@@ -2919,15 +2924,15 @@
       "Name": "Collect Monster Parts",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 1154
+      "UsersEstimate": 1155
     },
     {
       "ID": "CollectAllStatues",
       "SetID": "9lj35g4",
       "Name": "Return the Statues",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 548
+      "UsersEstimate": 528
     },
     {
       "ID": "CollectAllWeaponsAndGear",
@@ -2935,7 +2940,7 @@
       "Name": "Complete Redgi\u0027s Armory",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "CompleteAll",
@@ -2943,7 +2948,7 @@
       "Name": "King of Kings",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "CompleteArenaFaction",
@@ -2975,7 +2980,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 1584
+      "UsersEstimate": 1585
     },
     {
       "ID": "CompleteHunterFaction",
@@ -2983,7 +2988,7 @@
       "Name": "Complete Ranger Faction",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "CompleteStoryDM",
@@ -3031,7 +3036,7 @@
       "Name": "Fix the Travellers Wagon",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 880
+      "UsersEstimate": 881
     },
     {
       "ID": "GetRangedWeapon",
@@ -3039,7 +3044,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 1232
+      "UsersEstimate": 1233
     },
     {
       "ID": "GetTHWeapon",
@@ -3055,7 +3060,7 @@
       "Name": "Defeat 25 Grubs",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1056
+      "UsersEstimate": 1057
     },
     {
       "ID": "Kill25Frogs",
@@ -3063,7 +3068,7 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 1232
+      "UsersEstimate": 1233
     },
     {
       "ID": "Kill25Mozi",
@@ -3134,22 +3139,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1956,
+      "Progressed": 1957,
       "Completed": 9
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 597,
-      "Completed": 597
+      "Progressed": 598,
+      "Completed": 598
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-10-09T14:58:48.9405433+00:00",
-  "LastChanged_Achievements": "2023-10-13T22:07:00.405633+00:00",
+  "LastChanged_Achievements": "2023-10-13T23:06:16.6011594+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:43.6337882+00:00",
-  "LastUpdate_Ratings": "2023-10-13T22:01:25.1292624+00:00",
-  "LastUpdate_Achievements": "2023-10-13T22:07:00.4056718+00:00"
+  "LastUpdate_Ratings": "2023-10-13T23:00:32.4228225+00:00",
+  "LastUpdate_Achievements": "2023-10-13T23:06:16.601188+00:00"
 }

@@ -3,11 +3,11 @@
   "Name": "LEGO\u00AE Batman\u2122 2: DC Super Heroes",
   "ProductSlug": "lego-batman-2",
   "Ranking_Rating": 353,
-  "Ranking_Popularity": 285,
+  "Ranking_Popularity": 284,
   "Ranking_PopularitySum": 391,
   "Ranking_EOS_Progress": 669,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 397,
+  "Ranking_EOS_NewPlayers": 394,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2012-06-22T15:00:00+00:00",
@@ -516,18 +516,24 @@
       "Rating": 4.62,
       "NumberOfAwards": 186,
       "NumberOfAwardsMax": 186
+    },
+    {
+      "Time": "2023-10-13T22:57:26.7217784+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 187,
+      "NumberOfAwardsMax": 187
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 186,
-  "NumberOfAwardsMax": 186,
+  "NumberOfAwards": 187,
+  "NumberOfAwardsMax": 187,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 186
+      "Count": 187
     }
   ],
   "EOS_Progressed": 0,
@@ -541,8 +547,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:32.502574+00:00",
-  "LastChanged": "2023-10-11T00:02:09.0007552+00:00",
+  "LastChanged": "2023-10-13T22:57:26.7217782+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:06.4488102+00:00",
-  "LastUpdate_Ratings": "2023-10-13T21:57:37.6406671+00:00",
-  "LastUpdate_Achievements": "2023-10-13T22:03:32.6017548+00:00"
+  "LastUpdate_Ratings": "2023-10-13T22:57:26.7217787+00:00",
+  "LastUpdate_Achievements": "2023-10-13T23:03:26.0574593+00:00"
 }

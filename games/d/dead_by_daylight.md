@@ -6,23 +6,23 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 2.00% | ~18,739 |
-| It wakes | 2.00% | ~18,739 |
-| Skillful | 2.00% | ~18,739 |
-| Medic | 1.00% | ~9,369 |
-| Handyman | 1.00% | ~9,369 |
-| Not half bad | 1.00% | ~9,369 |
-| Apt Survivor | 1.00% | ~9,369 |
-| Survival Treasures | 1.00% | ~9,369 |
-| Sorted | 1.00% | ~9,369 |
-| Resurgence | 1.00% | ~9,369 |
-| Make Some Noise | 1.00% | ~9,369 |
-| The Grand Sacrifice | 0.90% | ~8,432 |
-| No one left behind | 0.90% | ~8,432 |
-| Bloody Millionaire | 0.90% | ~8,432 |
-| I | 0.90% | ~8,432 |
-| Healthy Obsession | 0.90% | ~8,432 |
-| Preemptive Strike | 0.90% | ~8,432 |
+| Zealous | 2.00% | ~18,741 |
+| It wakes | 2.00% | ~18,741 |
+| Skillful | 2.00% | ~18,741 |
+| No one left behind | 1.00% | ~9,370 |
+| Medic | 1.00% | ~9,370 |
+| Handyman | 1.00% | ~9,370 |
+| Not half bad | 1.00% | ~9,370 |
+| Apt Survivor | 1.00% | ~9,370 |
+| Survival Treasures | 1.00% | ~9,370 |
+| Sorted | 1.00% | ~9,370 |
+| Resurgence | 1.00% | ~9,370 |
+| Make Some Noise | 1.00% | ~9,370 |
+| The Grand Sacrifice | 0.90% | ~8,433 |
+| Bloody Millionaire | 0.90% | ~8,433 |
+| I | 0.90% | ~8,433 |
+| Healthy Obsession | 0.90% | ~8,433 |
+| Preemptive Strike | 0.90% | ~8,433 |
 | Agonizing Escape | 0.80% | ~7,496 |
 | Backdoor Escape | 0.80% | ~7,496 |
 | Nerves of steel | 0.80% | ~7,496 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~937 |
 | Adept Ripley | 0.10% | ~937 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 936,939 (Ranked 14)  
+Progressed: 937,037 (Ranked 14)  
 Completed: 50 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -412,7 +412,7 @@ Completed: 50 (0.01%) (Ranked 296)
 | 2023-10-10 | 931,511 | 49 |
 | 2023-10-11 | 933,163 | 49 |
 | 2023-10-12 | 934,954 | 50 |
-| 2023-10-13 | 936,939 | 50 |
+| 2023-10-13 | 937,037 | 50 |
 ## Awards
 Max (Diverse Characters): 33,824  (Ranked 15)  
 Sum: 261,989 (Ranked 13)  

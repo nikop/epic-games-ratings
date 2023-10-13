@@ -6,18 +6,18 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~24,921 |
+| Genin | 12.00% | ~24,922 |
 | A thief's beginning | 10.00% | ~20,768 |
 | Thorough | 10.00% | ~20,768 |
-| Rollin' | 9.00% | ~18,691 |
-| Disguised | 8.00% | ~16,614 |
-| Rescue Takuma | 8.00% | ~16,614 |
-| Tanuki Time | 8.00% | ~16,614 |
-| Happy Planning | 7.00% | ~14,537 |
-| Ice Ice Yuki | 7.00% | ~14,537 |
-| Jonin | 7.00% | ~14,537 |
-| Stoned Ox | 7.00% | ~14,537 |
-| Yabu | 7.00% | ~14,537 |
+| Rollin' | 9.00% | ~18,692 |
+| Disguised | 8.00% | ~16,615 |
+| Rescue Takuma | 8.00% | ~16,615 |
+| Tanuki Time | 8.00% | ~16,615 |
+| Happy Planning | 7.00% | ~14,538 |
+| Ice Ice Yuki | 7.00% | ~14,538 |
+| Jonin | 7.00% | ~14,538 |
+| Stoned Ox | 7.00% | ~14,538 |
+| Yabu | 7.00% | ~14,538 |
 | Chunin | 6.00% | ~12,461 |
 | Flying Rocks | 6.00% | ~12,461 |
 | Mugen Unchained | 6.00% | ~12,461 |
@@ -28,9 +28,9 @@ Number of Ratings: 495  (23.09.2022)
 | Gear up | 4.00% | ~8,307 |
 | Happy little accidents | 4.00% | ~8,307 |
 | Still Rollin' | 4.00% | ~8,307 |
-| Noboru | 3.00% | ~6,230 |
-| Stoned | 3.00% | ~6,230 |
-| The Old Way | 3.00% | ~6,230 |
+| Noboru | 3.00% | ~6,231 |
+| Stoned | 3.00% | ~6,231 |
+| The Old Way | 3.00% | ~6,231 |
 | Atheist Ox | 2.00% | ~4,154 |
 | It's raining men | 2.00% | ~4,154 |
 | No Gimmicks | 2.00% | ~4,154 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~208 |
 | Release the Kraken | 0.10% | ~208 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 207,677 (Ranked 65)  
+Progressed: 207,685 (Ranked 65)  
 Completed: 90 (0.04%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 90 (0.04%) (Ranked 276)
 | 2023-10-10 | 207,189 | 90 |
 | 2023-10-11 | 207,337 | 90 |
 | 2023-10-12 | 207,509 | 90 |
-| 2023-10-13 | 207,677 | 90 |
+| 2023-10-13 | 207,685 | 90 |
 ## Awards
 Max (Great for Beginners): 566  (Ranked 196)  
 Sum: 4,789 (Ranked 138)  

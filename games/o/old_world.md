@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 297)  
+Rating: 4.65 (Ranked 298)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -30,6 +30,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong Cities | 1.00% | ~147 |
 | Hanging Gardens | 1.00% | ~147 |
 | Ishtar Gate | 1.00% | ~147 |
+| Lighthouse | 1.00% | ~147 |
 | Oracle | 1.00% | ~147 |
 | Pyramids | 1.00% | ~147 |
 | Christianity | 1.00% | ~147 |
@@ -44,7 +45,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able Difficulty | 0.90% | ~132 |
 | Furious Family | 0.90% | ~132 |
 | Great Ziggurat | 0.90% | ~132 |
-| Lighthouse | 0.90% | ~132 |
 | Carthaginian Paganism | 0.90% | ~132 |
 | Roman Paganism | 0.90% | ~132 |
 | Zoroastrianism | 0.90% | ~132 |

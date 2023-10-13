@@ -6,8 +6,8 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~69,713 |
-| Powergamer | 27.00% | ~67,223 |
+| I will finish what you started | 28.00% | ~69,714 |
+| Powergamer | 27.00% | ~67,224 |
 | Barely scratched the surface | 25.00% | ~62,244 |
 | Write that down | 24.00% | ~59,754 |
 | Guns, lots of guns | 13.00% | ~32,367 |
@@ -17,8 +17,8 @@ Number of Ratings: 33  (23.09.2022)
 | Wake up! | 8.00% | ~19,918 |
 | It's honest work | 7.00% | ~17,428 |
 | Griever | 7.00% | ~17,428 |
-| Me smart | 6.00% | ~14,938 |
-| Trash compactor | 6.00% | ~14,938 |
+| Me smart | 6.00% | ~14,939 |
+| Trash compactor | 6.00% | ~14,939 |
 | Good listener | 5.00% | ~12,449 |
 | Valedictorian | 5.00% | ~12,449 |
 | BOY! | 4.00% | ~9,959 |
@@ -27,14 +27,14 @@ Number of Ratings: 33  (23.09.2022)
 | Hoarder | 3.00% | ~7,469 |
 | I like to sniff around | 3.00% | ~7,469 |
 | Mind reader | 3.00% | ~7,469 |
-| Catnip | 2.00% | ~4,979 |
-| Gentleman's classic | 2.00% | ~4,979 |
-| Is that a rift? | 2.00% | ~4,979 |
-| It's alive! | 2.00% | ~4,979 |
-| Enjoy the beach | 2.00% | ~4,979 |
-| Rinse and repeat | 2.00% | ~4,979 |
-| Mama, I'm a criminal | 2.00% | ~4,979 |
-| Never gonna give you up | 2.00% | ~4,979 |
+| Catnip | 2.00% | ~4,980 |
+| Gentleman's classic | 2.00% | ~4,980 |
+| Is that a rift? | 2.00% | ~4,980 |
+| It's alive! | 2.00% | ~4,980 |
+| Enjoy the beach | 2.00% | ~4,980 |
+| Rinse and repeat | 2.00% | ~4,980 |
+| Mama, I'm a criminal | 2.00% | ~4,980 |
+| Never gonna give you up | 2.00% | ~4,980 |
 | A muscle to rely on | 1.00% | ~2,490 |
 | A true blacksmith | 1.00% | ~2,490 |
 | I am in great pain, please help me | 1.00% | ~2,490 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~498 |
 | Memory 5 | 0.10% | ~249 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248,974 (Ranked 53)  
+Progressed: 248,977 (Ranked 53)  
 Completed: 7 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,7 +235,7 @@ Completed: 7 (0.00%) (Ranked 314)
 | 2023-10-10 | 248,676 | 7 |
 | 2023-10-11 | 248,764 | 7 |
 | 2023-10-12 | 248,866 | 7 |
-| 2023-10-13 | 248,974 | 7 |
+| 2023-10-13 | 248,977 | 7 |
 ## Awards
 Max (Character Customization): 83  (Ranked 369)  
 Sum: 83 (Ranked 441)  

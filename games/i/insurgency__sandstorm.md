@@ -8,9 +8,9 @@ Number of Ratings: 1,316  (23.09.2022)
 | ---- | ---------- | ----- |
 | Point Shooting | 5.00% | ~23,097 |
 | Wallbanger | 5.00% | ~23,097 |
-| Exploitative | 4.00% | ~18,477 |
-| High Speed Low Drag | 4.00% | ~18,477 |
-| Wet Feet | 4.00% | ~18,477 |
+| Exploitative | 4.00% | ~18,478 |
+| High Speed Low Drag | 4.00% | ~18,478 |
+| Wet Feet | 4.00% | ~18,478 |
 | Checkpoint Victory | 3.00% | ~13,858 |
 | Lucky | 3.00% | ~13,858 |
 | Stylin' | 3.00% | ~13,858 |
@@ -24,11 +24,11 @@ Number of Ratings: 1,316  (23.09.2022)
 | Efficient | 1.00% | ~4,619 |
 | Ruthless | 1.00% | ~4,619 |
 | Semper Paratus | 1.00% | ~4,619 |
-| Carrying | 0.90% | ~4,157 |
-| Mount & Gun | 0.90% | ~4,157 |
-| Personal | 0.90% | ~4,157 |
-| Grounded | 0.80% | ~3,695 |
-| Play to Win | 0.80% | ~3,695 |
+| Carrying | 0.90% | ~4,158 |
+| Mount & Gun | 0.90% | ~4,158 |
+| Personal | 0.90% | ~4,158 |
+| Grounded | 0.80% | ~3,696 |
+| Play to Win | 0.80% | ~3,696 |
 | #1 | 0.70% | ~3,234 |
 | Special Delivery | 0.70% | ~3,234 |
 | Firefight Victory | 0.60% | ~2,772 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~462 |
 | Road Hazard | 0.10% | ~462 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 461,931 (Ranked 38)  
+Progressed: 461,949 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,10 +218,10 @@ Completed: 2 (0.00%) (Ranked 314)
 | 2023-10-10 | 461,035 | 2 |
 | 2023-10-11 | 461,311 | 2 |
 | 2023-10-12 | 461,610 | 2 |
-| 2023-10-13 | 461,931 | 2 |
+| 2023-10-13 | 461,949 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 388  (Ranked 224)  
-Sum: 3,063 (Ranked 169)  
+Sum: 3,065 (Ranked 169)  
 Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
@@ -233,7 +233,7 @@ Diff (max vs sum): 55
 | This game has Realistic Visuals | 326 |
 | This game has Amazing Storytelling | 323 |
 | This game has Amazing Characters | 322 |
-| This game has a Competitive Community | 290 |
+| This game has a Competitive Community | 292 |
 | This game has Obsessive Gameplay | 156 |
 | This game has Diverse Characters | 103 |
 ## Ratings History
@@ -492,4 +492,4 @@ Diff (max vs sum): 55
 | 2023-10-10 | 4.62 | - | 387 | 3,054 |
 | 2023-10-11 | 4.62 | - | 387 | 3,056 |
 | 2023-10-12 | 4.62 | - | 388 | 3,062 |
-| 2023-10-13 | 4.62 | - | 388 | 3,063 |
+| 2023-10-13 | 4.62 | - | 388 | 3,065 |

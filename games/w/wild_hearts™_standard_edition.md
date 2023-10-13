@@ -53,7 +53,7 @@
 | Big Spender | 11.00% | ~15 |
 | Tsukumo Whisperer | 10.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132 (Ranked 363)  
+Progressed: 132 (Ranked 364)  
 Completed: 5 (3.79%) (Ranked 75)  
 ## EOS Players History
 | Date | Progressed | Completed |

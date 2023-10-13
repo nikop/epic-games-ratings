@@ -6,17 +6,17 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 39.00% | ~24,649 |
+| Lawbringer | 39.00% | ~24,650 |
 | Landlord | 33.00% | ~20,857 |
-| Bannerlord | 23.00% | ~14,536 |
-| Horde breaker | 23.00% | ~14,536 |
-| Lawmaker | 23.00% | ~14,536 |
-| Trained | 23.00% | ~14,536 |
-| The king is pleased | 19.00% | ~12,008 |
-| King Solomon | 17.00% | ~10,744 |
-| I can do it | 16.00% | ~10,112 |
-| Apple of my eye | 15.00% | ~9,480 |
-| God of the Arena | 13.00% | ~8,216 |
+| Bannerlord | 23.00% | ~14,537 |
+| Horde breaker | 23.00% | ~14,537 |
+| Lawmaker | 23.00% | ~14,537 |
+| Trained | 23.00% | ~14,537 |
+| The king is pleased | 19.00% | ~12,009 |
+| King Solomon | 17.00% | ~10,745 |
+| I can do it | 16.00% | ~10,113 |
+| Apple of my eye | 15.00% | ~9,481 |
+| God of the Arena | 13.00% | ~8,217 |
 | Against all odds | 12.00% | ~7,584 |
 | This Is Our Land | 12.00% | ~7,584 |
 | Duelist | 10.00% | ~6,320 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,202 (Ranked 97)  
+Progressed: 63,204 (Ranked 97)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,10 +234,10 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-10-10 | 63,051 | 0 |
 | 2023-10-11 | 63,097 | 0 |
 | 2023-10-12 | 63,156 | 0 |
-| 2023-10-13 | 63,202 | 0 |
+| 2023-10-13 | 63,204 | 0 |
 ## Awards
 Max (Character Customization): 7,228  (Ranked 52)  
-Sum: 14,857 (Ranked 66)  
+Sum: 14,858 (Ranked 66)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -245,7 +245,7 @@ Diff (max vs sum): -14
 | This game is Great for Beginners | 1,008 |
 | This game has Diverse Characters | 958 |
 | This game is Highly Recommended | 892 |
-| This game is Extremely Fun | 847 |
+| This game is Extremely Fun | 848 |
 | This game has Amazing Storytelling | 840 |
 | This game has Amazing Characters | 835 |
 | This game is Relaxing | 830 |
@@ -527,4 +527,4 @@ Diff (max vs sum): -14
 | 2023-10-10 | 4.74 | - | 7,209 | 14,812 |
 | 2023-10-11 | 4.74 | - | 7,217 | 14,830 |
 | 2023-10-12 | 4.74 | - | 7,225 | 14,843 |
-| 2023-10-13 | 4.74 | - | 7,228 | 14,857 |
+| 2023-10-13 | 4.74 | - | 7,228 | 14,858 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18365,
+  "EOS_Progressed": 18366,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -11491,6 +11491,11 @@
       "Time": "2023-10-13T22:07:17.2060361+00:00",
       "NumProgressed": 18365,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-13T23:06:30.408381+00:00",
+      "NumProgressed": 18366,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -11566,7 +11571,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4040
+      "UsersEstimate": 4041
     },
     {
       "ID": "0010",
@@ -11590,7 +11595,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2938
+      "UsersEstimate": 2939
     },
     {
       "ID": "0013",
@@ -11598,7 +11603,7 @@
       "Name": "Keycards Royale",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1836
+      "UsersEstimate": 1837
     },
     {
       "ID": "0014",
@@ -11606,7 +11611,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2938
+      "UsersEstimate": 2939
     },
     {
       "ID": "0015",
@@ -11654,7 +11659,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 10,
       "XP": 115,
-      "UsersEstimate": 1836
+      "UsersEstimate": 1837
     },
     {
       "ID": "0021",
@@ -11686,7 +11691,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4040
+      "UsersEstimate": 4041
     },
     {
       "ID": "0025",
@@ -11726,7 +11731,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2387
+      "UsersEstimate": 2388
     },
     {
       "ID": "0030",
@@ -11740,9 +11745,9 @@
       "ID": "0031",
       "SetID": "2n2feee",
       "Name": "Private Collection",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2204
+      "UsersEstimate": 2020
     },
     {
       "ID": "0032",
@@ -11789,7 +11794,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18365,
+      "Progressed": 18366,
       "Completed": 4
     }
   ],
@@ -11797,8 +11802,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-10-13T22:07:17.2060356+00:00",
+  "LastChanged_Achievements": "2023-10-13T23:06:30.4083806+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:09.6905795+00:00",
-  "LastUpdate_Ratings": "2023-10-13T21:58:32.3464184+00:00",
-  "LastUpdate_Achievements": "2023-10-13T22:07:17.206146+00:00"
+  "LastUpdate_Ratings": "2023-10-13T22:58:14.5866905+00:00",
+  "LastUpdate_Achievements": "2023-10-13T23:06:30.4084548+00:00"
 }

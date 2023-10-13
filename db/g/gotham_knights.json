@@ -2,12 +2,12 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 897,
+  "Ranking_Rating": 898,
   "Ranking_Popularity": 97,
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3506,9 +3506,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73471,
+  "EOS_Progressed": 73472,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 253,
+  "EOS_NewPlayers": 252,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -18561,6 +18561,11 @@
       "Time": "2023-10-13T21:04:16.9781516+00:00",
       "NumProgressed": 73471,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-10-13T23:04:11.0447632+00:00",
+      "NumProgressed": 73472,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 61,
@@ -18620,7 +18625,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16898
+      "UsersEstimate": 16899
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -18812,7 +18817,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 13959
+      "UsersEstimate": 13960
     },
     {
       "ID": "FREEZE_3",
@@ -18900,7 +18905,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 11755
+      "UsersEstimate": 11756
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -18980,7 +18985,7 @@
       "Name": "Lock and Key",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16898
+      "UsersEstimate": 16899
     },
     {
       "ID": "MYSTERY_04",
@@ -19059,13 +19064,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73471,
+      "Progressed": 73472,
       "Completed": 121
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43751,
+      "Progressed": 43752,
       "Completed": 2667
     }
   ],
@@ -19073,8 +19078,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-13T13:58:03.1576521+00:00",
-  "LastChanged_Achievements": "2023-10-13T22:04:27.1233996+00:00",
+  "LastChanged_Achievements": "2023-10-13T23:04:11.0447627+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:31.3761181+00:00",
-  "LastUpdate_Ratings": "2023-10-13T21:57:46.6189326+00:00",
-  "LastUpdate_Achievements": "2023-10-13T22:04:27.1235531+00:00"
+  "LastUpdate_Ratings": "2023-10-13T22:57:34.9636279+00:00",
+  "LastUpdate_Achievements": "2023-10-13T23:04:11.0448802+00:00"
 }

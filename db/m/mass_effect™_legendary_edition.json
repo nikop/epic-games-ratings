@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 676,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2092,9 +2092,9 @@
       "ID": "achievement_38",
       "SetID": "b9pe172",
       "Name": "Colony Defense",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 230
+      "UsersEstimate": 237
     },
     {
       "ID": "achievement_39",
@@ -2612,9 +2612,9 @@
       "ID": "achievement_97",
       "SetID": "d252ncf",
       "Name": "Shopaholic",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 210
+      "UsersEstimate": 216
     },
     {
       "ID": "achievement_98",
@@ -2648,8 +2648,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-13T22:03:36.1119309+00:00",
+  "LastChanged_Achievements": "2023-10-13T23:03:28.9761256+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:40.7255751+00:00",
-  "LastUpdate_Ratings": "2023-10-13T21:59:45.09917+00:00",
-  "LastUpdate_Achievements": "2023-10-13T22:03:36.1122623+00:00"
+  "LastUpdate_Ratings": "2023-10-13T22:59:13.4705431+00:00",
+  "LastUpdate_Achievements": "2023-10-13T23:03:28.9763029+00:00"
 }

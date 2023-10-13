@@ -749,7 +749,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4085,
+  "EOS_Progressed": 4087,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 267,
   "EOS_NewCompleters": 0,
@@ -7284,6 +7284,11 @@
       "Time": "2023-10-13T22:07:39.5838503+00:00",
       "NumProgressed": 4085,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-13T23:08:18.0290499+00:00",
+      "NumProgressed": 4087,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -7296,7 +7301,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -7352,7 +7357,7 @@
       "Name": "First Strike",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 735
+      "UsersEstimate": 736
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -7448,7 +7453,7 @@
       "Name": "Spending Spree",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -7479,15 +7484,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4085,
+      "Progressed": 4087,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-12T23:00:50.5530003+00:00",
-  "LastChanged_Achievements": "2023-10-13T22:07:39.58385+00:00",
+  "LastChanged_Achievements": "2023-10-13T23:08:18.0290497+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:44.063019+00:00",
-  "LastUpdate_Ratings": "2023-10-13T22:01:27.5679985+00:00",
-  "LastUpdate_Achievements": "2023-10-13T22:07:39.5839058+00:00"
+  "LastUpdate_Ratings": "2023-10-13T23:00:33.809459+00:00",
+  "LastUpdate_Achievements": "2023-10-13T23:08:18.0290947+00:00"
 }

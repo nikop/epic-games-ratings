@@ -42,8 +42,8 @@
 | The Convict | 36.00% | ~243 |
 | The Krogan | 36.00% | ~243 |
 | Archivist | 35.00% | ~237 |
+| Colony Defense | 35.00% | ~237 |
 | Galactic Explorer | 35.00% | ~237 |
-| Colony Defense | 34.00% | ~230 |
 | Broke, Blind, and Bedlam | 34.00% | ~230 |
 | The Quarian | 33.00% | ~223 |
 | A Personal Touch | 32.00% | ~216 |
@@ -52,12 +52,12 @@
 | The Justicar | 32.00% | ~216 |
 | Battlemaster | 32.00% | ~216 |
 | The Prodigal | 32.00% | ~216 |
+| Shopaholic | 32.00% | ~216 |
 | Ghost of the Father | 31.00% | ~210 |
 | The Cure | 31.00% | ~210 |
 | Big Game Hunter | 31.00% | ~210 |
 | Revenge! | 31.00% | ~210 |
 | Heart of Darkness | 31.00% | ~210 |
-| Shopaholic | 31.00% | ~210 |
 | Catharsis | 30.00% | ~203 |
 | Fade Away | 30.00% | ~203 |
 | Agent | 30.00% | ~203 |

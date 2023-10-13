@@ -2382,9 +2382,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26412,
+  "EOS_Progressed": 26414,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 161,
+  "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -14842,6 +14842,11 @@
       "Time": "2023-10-13T21:05:21.1861025+00:00",
       "NumProgressed": 26412,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-10-13T23:05:05.0951865+00:00",
+      "NumProgressed": 26414,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 51,
@@ -15195,9 +15200,9 @@
       "ID": "Terrifying",
       "SetID": "819popo",
       "Name": "Terrifying",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 185
+      "UsersEstimate": 211
     },
     {
       "ID": "Therapeutic",
@@ -15260,7 +15265,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26412,
+      "Progressed": 26414,
       "Completed": 58
     }
   ],
@@ -15268,8 +15273,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-13T20:58:09.6339944+00:00",
-  "LastChanged_Achievements": "2023-10-13T22:05:32.888161+00:00",
+  "LastChanged_Achievements": "2023-10-13T23:05:05.0951861+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:25.2013042+00:00",
-  "LastUpdate_Ratings": "2023-10-13T21:58:09.7642724+00:00",
-  "LastUpdate_Achievements": "2023-10-13T22:05:32.888288+00:00"
+  "LastUpdate_Ratings": "2023-10-13T22:57:53.9611744+00:00",
+  "LastUpdate_Achievements": "2023-10-13T23:05:05.0952945+00:00"
 }
