@@ -250,9 +250,9 @@
       "ID": "FIND_SECRET_ROOM",
       "SetID": "dcng643",
       "Name": "Thru the rabbit hole",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "FINISH_RUN_WITHOUT_DROPS",
@@ -338,9 +338,9 @@
       "ID": "KILL_999_AUDIENCE",
       "SetID": "dcng643",
       "Name": "I don\u2019t like crowds",
-      "Percentage": 14,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "KILL_BOSS_0",
@@ -442,9 +442,9 @@
       "ID": "KILL_BOSS_4",
       "SetID": "dcng643",
       "Name": "Holy Moly",
-      "Percentage": 14,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "KILL_BOSS_5",
@@ -769,8 +769,8 @@
   ],
   "FirstSeen": "2023-09-28T16:00:28.1613796+00:00",
   "FirstSeenAchievements": "2023-09-19T08:09:12.2865196+00:00",
-  "LastChanged_Achievements": "2023-10-13T05:05:05.4056214+00:00",
+  "LastChanged_Achievements": "2023-10-13T06:04:45.1746247+00:00",
   "LastUpdate_AppInfo": "2023-10-12T19:57:11.6358663+00:00",
-  "LastUpdate_Ratings": "2023-10-13T04:58:28.4923199+00:00",
-  "LastUpdate_Achievements": "2023-10-13T05:05:05.4057351+00:00"
+  "LastUpdate_Ratings": "2023-10-13T05:58:32.9033524+00:00",
+  "LastUpdate_Achievements": "2023-10-13T06:04:45.1747232+00:00"
 }

@@ -524,7 +524,7 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 67748,
+  "EOS_Progressed": 67750,
   "EOS_Completed": 69,
   "EOS_NewPlayers": 664,
   "EOS_NewCompleters": 2,
@@ -17824,6 +17824,11 @@
       "Time": "2023-10-13T05:09:23.8662957+00:00",
       "NumProgressed": 67748,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-10-13T06:08:23.3418241+00:00",
+      "NumProgressed": 67750,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 67,
@@ -17859,7 +17864,7 @@
       "Name": "Boob Tube",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3387
+      "UsersEstimate": 3388
     },
     {
       "ID": "05",
@@ -17955,7 +17960,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 6097
+      "UsersEstimate": 6098
     },
     {
       "ID": "17",
@@ -17987,7 +17992,7 @@
       "Name": "If It Flies, It Burns",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3387
+      "UsersEstimate": 3388
     },
     {
       "ID": "21",
@@ -18019,7 +18024,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8807
+      "UsersEstimate": 8808
     },
     {
       "ID": "25",
@@ -18035,7 +18040,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8807
+      "UsersEstimate": 8808
     },
     {
       "ID": "27",
@@ -18059,7 +18064,7 @@
       "Name": "Sound and Fury",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11517
+      "UsersEstimate": 11518
     },
     {
       "ID": "30",
@@ -18083,7 +18088,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 23034
+      "UsersEstimate": 23035
     },
     {
       "ID": "33",
@@ -18163,7 +18168,7 @@
       "Name": "Every Nook and Cranny",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "43",
@@ -18187,7 +18192,7 @@
       "Name": "Collector\u0027s Edition",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "46",
@@ -18195,7 +18200,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 11517
+      "UsersEstimate": 11518
     },
     {
       "ID": "47",
@@ -18211,7 +18216,7 @@
       "Name": "KBF-FM",
       "Percentage": 5,
       "XP": 110,
-      "UsersEstimate": 3387
+      "UsersEstimate": 3388
     },
     {
       "ID": "49",
@@ -18235,7 +18240,7 @@
       "Name": "A Friend in Need",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 2809
+      "UsersEstimate": 2810
     },
     {
       "ID": "52",
@@ -18370,21 +18375,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 67748,
+      "Progressed": 67750,
       "Completed": 69
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 31216,
+      "Progressed": 31218,
       "Completed": 55
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-09-26T11:01:48.1926095+00:00",
-  "LastChanged_Achievements": "2023-10-13T05:09:23.8662954+00:00",
+  "LastChanged_Achievements": "2023-10-13T06:08:23.3418236+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:13.3553682+00:00",
-  "LastUpdate_Ratings": "2023-10-13T04:59:41.7265347+00:00",
-  "LastUpdate_Achievements": "2023-10-13T05:09:23.8665115+00:00"
+  "LastUpdate_Ratings": "2023-10-13T05:59:44.3342423+00:00",
+  "LastUpdate_Achievements": "2023-10-13T06:08:23.3420039+00:00"
 }

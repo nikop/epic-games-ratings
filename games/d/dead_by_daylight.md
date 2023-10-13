@@ -6,15 +6,15 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 2.00% | ~18,707 |
-| Handyman | 1.00% | ~9,353 |
-| Zealous | 1.00% | ~9,353 |
-| Not half bad | 1.00% | ~9,353 |
-| Apt Survivor | 1.00% | ~9,353 |
-| Survival Treasures | 1.00% | ~9,353 |
-| Skillful | 1.00% | ~9,353 |
-| Sorted | 1.00% | ~9,353 |
-| Make Some Noise | 1.00% | ~9,353 |
+| It wakes | 2.00% | ~18,708 |
+| Handyman | 1.00% | ~9,354 |
+| Zealous | 1.00% | ~9,354 |
+| Not half bad | 1.00% | ~9,354 |
+| Apt Survivor | 1.00% | ~9,354 |
+| Survival Treasures | 1.00% | ~9,354 |
+| Skillful | 1.00% | ~9,354 |
+| Sorted | 1.00% | ~9,354 |
+| Make Some Noise | 1.00% | ~9,354 |
 | No one left behind | 0.90% | ~8,418 |
 | Medic | 0.90% | ~8,418 |
 | Healthy Obsession | 0.90% | ~8,418 |
@@ -27,11 +27,11 @@ Number of Ratings: 70,340  (23.09.2022)
 | Engineer | 0.80% | ~7,483 |
 | Preemptive Strike | 0.80% | ~7,483 |
 | Humanitarian | 0.80% | ~7,483 |
-| Agonizing Escape | 0.70% | ~6,547 |
-| Backdoor Escape | 0.70% | ~6,547 |
-| I've got your back | 0.70% | ~6,547 |
-| Perfect Killing | 0.70% | ~6,547 |
-| Close Shave | 0.70% | ~6,547 |
+| Agonizing Escape | 0.70% | ~6,548 |
+| Backdoor Escape | 0.70% | ~6,548 |
+| I've got your back | 0.70% | ~6,548 |
+| Perfect Killing | 0.70% | ~6,548 |
+| Close Shave | 0.70% | ~6,548 |
 | Apt Killer | 0.60% | ~5,612 |
 | Risk it all | 0.60% | ~5,612 |
 | II | 0.60% | ~5,612 |
@@ -41,30 +41,30 @@ Number of Ratings: 70,340  (23.09.2022)
 | First to the Punch | 0.50% | ~4,677 |
 | With Scars to Show | 0.50% | ~4,677 |
 | Second Act | 0.50% | ~4,677 |
-| Blood on your hands | 0.40% | ~3,741 |
-| Escape Artist | 0.40% | ~3,741 |
-| Made it out alive! | 0.40% | ~3,741 |
-| III-50 | 0.40% | ~3,741 |
-| All Aboard | 0.40% | ~3,741 |
-| Item of Obsession | 0.40% | ~3,741 |
-| House of Pain | 0.40% | ~3,741 |
-| Holiday Get-Together | 0.40% | ~3,741 |
-| Near-Death Experience | 0.40% | ~3,741 |
-| Cherish your Life | 0.40% | ~3,741 |
-| Unforgettable Getaway | 0.40% | ~3,741 |
-| Cutting Out | 0.40% | ~3,741 |
-| Operation: Survival | 0.40% | ~3,741 |
-| Old West Oasis | 0.40% | ~3,741 |
-| Classy Act | 0.40% | ~3,741 |
-| Every Last Drop | 0.40% | ~3,741 |
-| Raccoon City Recruit | 0.40% | ~3,741 |
-| Flight to Freedom | 0.40% | ~3,741 |
-| A Fast Death | 0.40% | ~3,741 |
-| Rebuilding The Borgo | 0.40% | ~3,741 |
-| Lifting The Fog | 0.40% | ~3,741 |
-| Chorus of Chaos | 0.40% | ~3,741 |
-| One More Step | 0.40% | ~3,741 |
-| MU/TH/UR Dearest | 0.40% | ~3,741 |
+| Blood on your hands | 0.40% | ~3,742 |
+| Escape Artist | 0.40% | ~3,742 |
+| Made it out alive! | 0.40% | ~3,742 |
+| III-50 | 0.40% | ~3,742 |
+| All Aboard | 0.40% | ~3,742 |
+| Item of Obsession | 0.40% | ~3,742 |
+| House of Pain | 0.40% | ~3,742 |
+| Holiday Get-Together | 0.40% | ~3,742 |
+| Near-Death Experience | 0.40% | ~3,742 |
+| Cherish your Life | 0.40% | ~3,742 |
+| Unforgettable Getaway | 0.40% | ~3,742 |
+| Cutting Out | 0.40% | ~3,742 |
+| Operation: Survival | 0.40% | ~3,742 |
+| Old West Oasis | 0.40% | ~3,742 |
+| Classy Act | 0.40% | ~3,742 |
+| Every Last Drop | 0.40% | ~3,742 |
+| Raccoon City Recruit | 0.40% | ~3,742 |
+| Flight to Freedom | 0.40% | ~3,742 |
+| A Fast Death | 0.40% | ~3,742 |
+| Rebuilding The Borgo | 0.40% | ~3,742 |
+| Lifting The Fog | 0.40% | ~3,742 |
+| Chorus of Chaos | 0.40% | ~3,742 |
+| One More Step | 0.40% | ~3,742 |
+| MU/TH/UR Dearest | 0.40% | ~3,742 |
 | A bite for the Entity | 0.30% | ~2,806 |
 | Blood on your face | 0.30% | ~2,806 |
 | Gifts for the Fog | 0.30% | ~2,806 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~935 |
 | Adept Ripley | 0.10% | ~935 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 935,338 (Ranked 14)  
+Progressed: 935,382 (Ranked 14)  
 Completed: 50 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -412,7 +412,7 @@ Completed: 50 (0.01%) (Ranked 296)
 | 2023-10-10 | 931,511 | 49 |
 | 2023-10-11 | 933,163 | 49 |
 | 2023-10-12 | 934,954 | 50 |
-| 2023-10-13 | 935,338 | 50 |
+| 2023-10-13 | 935,382 | 50 |
 ## Awards
 Max (Diverse Characters): 33,824  (Ranked 15)  
 Sum: 261,717 (Ranked 13)  

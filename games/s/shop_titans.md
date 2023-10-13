@@ -60,6 +60,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | The King's Caprice | 0.60% | ~825 |
 | Big Game Hunting | 0.60% | ~825 |
 | Scrapbooker | 0.60% | ~825 |
+| Archivist | 0.60% | ~825 |
 | Locally Sourced | 0.60% | ~825 |
 | Flying off the Shelves | 0.60% | ~825 |
 | Master of Transmutation | 0.60% | ~825 |
@@ -86,7 +87,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Constellated | 0.50% | ~688 |
 | Thirst for Knowledge | 0.50% | ~688 |
 | Booty by the Boatload | 0.50% | ~688 |
-| Archivist | 0.50% | ~688 |
 | Fillin' the Bin | 0.50% | ~688 |
 | Industrial Evolution | 0.50% | ~688 |
 | Omae wa Mou Shindeiru | 0.50% | ~688 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~138 |
 | Cash Only Please | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,510 (Ranked 73)  
+Progressed: 137,511 (Ranked 73)  
 Completed: 168 (0.12%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 168 (0.12%) (Ranked 240)
 | 2023-10-10 | 137,421 | 168 |
 | 2023-10-11 | 137,455 | 168 |
 | 2023-10-12 | 137,496 | 168 |
-| 2023-10-13 | 137,510 | 168 |
+| 2023-10-13 | 137,511 | 168 |
 ## Awards
 Max (Great for Beginners): 4,782  (Ranked 71)  
 Sum: 27,374 (Ranked 50)  

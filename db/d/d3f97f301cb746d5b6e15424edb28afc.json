@@ -694,9 +694,9 @@
       "ID": "GSS_ACH_22_LOCKPICKING_02",
       "SetID": "5fn8ia4",
       "Name": "So Shady!",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "GSS_ACH_23_LOCKPICKING_03",
@@ -894,9 +894,9 @@
       "ID": "GSS_ACH_48_UPGRADE_STATION_02",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 3",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "GSS_ACH_49_UPGRADE_STATION_03",
@@ -1181,8 +1181,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-13T05:07:09.7992243+00:00",
+  "LastChanged_Achievements": "2023-10-13T06:07:11.5392711+00:00",
   "LastUpdate_AppInfo": "2023-10-09T13:09:09.0618232+00:00",
-  "LastUpdate_Ratings": "2023-10-13T04:58:59.6680263+00:00",
-  "LastUpdate_Achievements": "2023-10-13T05:07:09.79934+00:00"
+  "LastUpdate_Ratings": "2023-10-13T05:59:03.225088+00:00",
+  "LastUpdate_Achievements": "2023-10-13T06:07:11.5394688+00:00"
 }

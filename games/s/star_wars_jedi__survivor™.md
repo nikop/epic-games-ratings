@@ -10,7 +10,7 @@ Rating: 4.49 (Ranked 590)
 | Grab Some Seat | 91.00% | ~4,553 |
 | Can You Pet the Bogling? | 87.00% | ~4,353 |
 | The Past Made Present | 83.00% | ~4,152 |
-| Survivors, We Adapt | 78.00% | ~3,902 |
+| Survivors, We Adapt | 79.00% | ~3,952 |
 | Among the Masters | 77.00% | ~3,852 |
 | They Never Saw It Coming | 76.00% | ~3,802 |
 | Who Gives a Puck | 72.00% | ~3,602 |

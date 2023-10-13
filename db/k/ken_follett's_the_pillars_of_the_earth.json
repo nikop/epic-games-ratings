@@ -525,9 +525,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 15706,
+  "EOS_Progressed": 15707,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -11915,6 +11915,11 @@
       "Time": "2023-10-13T05:09:31.4806028+00:00",
       "NumProgressed": 15706,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-10-13T06:08:30.733618+00:00",
+      "NumProgressed": 15707,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 41,
@@ -11942,7 +11947,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3612
+      "UsersEstimate": 3613
     },
     {
       "ID": "tpote_achievement_12",
@@ -12142,7 +12147,7 @@
       "Name": "A cry for help",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1256
+      "UsersEstimate": 1257
     },
     {
       "ID": "tpote_achievement_35",
@@ -12190,7 +12195,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6282
+      "UsersEstimate": 6283
     },
     {
       "ID": "tpote_achievement_40",
@@ -12214,7 +12219,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 3769
+      "UsersEstimate": 3770
     },
     {
       "ID": "tpote_achievement_6",
@@ -12222,7 +12227,7 @@
       "Name": "Full house",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3769
+      "UsersEstimate": 3770
     },
     {
       "ID": "tpote_achievement_7",
@@ -12238,7 +12243,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3455
+      "UsersEstimate": 3456
     },
     {
       "ID": "tpote_achievement_9",
@@ -12253,15 +12258,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15706,
+      "Progressed": 15707,
       "Completed": 113
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-26T12:00:19.7408959+00:00",
-  "LastChanged_Achievements": "2023-10-13T05:09:31.4806024+00:00",
+  "LastChanged_Achievements": "2023-10-13T06:08:30.7336172+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:27.8730623+00:00",
-  "LastUpdate_Ratings": "2023-10-13T04:58:18.3282097+00:00",
-  "LastUpdate_Achievements": "2023-10-13T05:09:31.4807267+00:00"
+  "LastUpdate_Ratings": "2023-10-13T05:58:22.8828481+00:00",
+  "LastUpdate_Achievements": "2023-10-13T06:08:30.7337251+00:00"
 }

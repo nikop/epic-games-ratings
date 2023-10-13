@@ -22,10 +22,10 @@
 | Principled | 53.00% | ~353 |
 | Medal of Exploration III | 52.00% | ~346 |
 | Asari Ally | 52.00% | ~346 |
-| Soldier Ally | 50.00% | ~333 |
+| Soldier Ally | 51.00% | ~340 |
 | Colonial Savior | 49.00% | ~326 |
 | Paramour I | 48.00% | ~320 |
-| Scientist | 46.00% | ~306 |
+| Scientist | 47.00% | ~313 |
 | Krogan Ally | 45.00% | ~300 |
 | Merciless | 45.00% | ~300 |
 | Sentinel Ally | 44.00% | ~293 |
@@ -35,7 +35,7 @@
 | Operative | 42.00% | ~280 |
 | Veteran | 41.00% | ~273 |
 | Scholar | 41.00% | ~273 |
-| Power Full | 39.00% | ~260 |
+| Power Full | 40.00% | ~266 |
 | The Professor | 38.00% | ~253 |
 | Completionist | 37.00% | ~246 |
 | The Archangel | 37.00% | ~246 |

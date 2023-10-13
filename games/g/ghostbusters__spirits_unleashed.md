@@ -19,9 +19,9 @@ Rating: 4.50 (Ranked 573)
 | There you are! | 1.00% | ~264 |
 | Vaporous Expansion | 1.00% | ~264 |
 | Whoopsie | 1.00% | ~264 |
+| Animated | 0.90% | ~237 |
 | Back Off | 0.90% | ~237 |
 | Icing on the Cake | 0.90% | ~237 |
-| Animated | 0.80% | ~211 |
 | Daily Dose | 0.80% | ~211 |
 | Welcome to the Crew | 0.80% | ~211 |
 | Ectoplasmic Entity | 0.70% | ~185 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 573)
 | Therapeutic | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,383 (Ranked 117)  
+Progressed: 26,384 (Ranked 117)  
 Completed: 58 (0.22%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,7 +233,7 @@ Completed: 58 (0.22%) (Ranked 219)
 | 2023-10-10 | 26,330 | 58 |
 | 2023-10-11 | 26,352 | 58 |
 | 2023-10-12 | 26,379 | 58 |
-| 2023-10-13 | 26,383 | 58 |
+| 2023-10-13 | 26,384 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 261  (Ranked 257)  
 Sum: 2,380 (Ranked 188)  

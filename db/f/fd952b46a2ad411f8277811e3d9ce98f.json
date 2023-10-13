@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 65637,
+  "EOS_Progressed": 65654,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 39151,
+  "EOS_NewPlayers": 38820,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4609,6 +4609,11 @@
       "Time": "2023-10-13T05:04:06.3240928+00:00",
       "NumProgressed": 65637,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-13T06:03:37.0125294+00:00",
+      "NumProgressed": 65654,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-23T09:03:04.200541+00:00",
@@ -4717,7 +4722,7 @@
       "Name": "Rookie Rumble",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 30849
+      "UsersEstimate": 30857
     },
     {
       "ID": "kills_100",
@@ -4773,7 +4778,7 @@
       "Name": "Toy Surgeon",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 5251
+      "UsersEstimate": 5252
     },
     {
       "ID": "revives_25",
@@ -4868,13 +4873,13 @@
     {
       "ID": "413a09o",
       "IsBase": true,
-      "Progressed": 65637,
+      "Progressed": 65654,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-23T09:03:04.2005407+00:00",
-  "LastChanged_Achievements": "2023-10-13T05:04:06.3240924+00:00",
+  "LastChanged_Achievements": "2023-10-13T06:03:37.0125284+00:00",
   "LastUpdate_AppInfo": "2023-10-11T13:57:09.9976611+00:00",
-  "LastUpdate_Ratings": "2023-10-13T04:59:39.3972737+00:00",
-  "LastUpdate_Achievements": "2023-10-13T05:04:06.3241539+00:00"
+  "LastUpdate_Ratings": "2023-10-13T05:59:41.9335709+00:00",
+  "LastUpdate_Achievements": "2023-10-13T06:03:37.012582+00:00"
 }
