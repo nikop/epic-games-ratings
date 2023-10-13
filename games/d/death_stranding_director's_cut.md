@@ -6,29 +6,29 @@ Number of Ratings: 3,099  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Delivering Is What I Do | 92.00% | ~493,976 |
-| Good Samaritan | 90.00% | ~483,237 |
-| Rebuilding America | 80.00% | ~429,544 |
-| Like and Be Liked | 77.00% | ~413,436 |
+| Delivering Is What I Do | 92.00% | ~493,977 |
+| Good Samaritan | 90.00% | ~483,238 |
+| Rebuilding America | 80.00% | ~429,545 |
+| Like and Be Liked | 77.00% | ~413,437 |
 | Apprentice Builder | 72.00% | ~386,590 |
-| A New Day for the UCA | 71.00% | ~381,220 |
-| Prominent Porter | 65.00% | ~349,004 |
-| A Baby Blessing | 64.00% | ~343,635 |
-| Building Bridges | 64.00% | ~343,635 |
+| A New Day for the UCA | 71.00% | ~381,221 |
+| Prominent Porter | 65.00% | ~349,005 |
+| A Baby Blessing | 64.00% | ~343,636 |
+| Building Bridges | 64.00% | ~343,636 |
 | Well Connected | 62.00% | ~332,897 |
-| The Custom Kid | 61.00% | ~327,527 |
+| The Custom Kid | 61.00% | ~327,528 |
 | Chiral Crafter | 59.00% | ~316,789 |
 | Boots Are a Porter's Best Friend | 59.00% | ~316,789 |
 | The People's Porter | 56.00% | ~300,681 |
 | I Couldn't Hold it In! | 56.00% | ~300,681 |
 | Everyday Delivery | 52.00% | ~279,204 |
-| A Shout in the Dark | 50.00% | ~268,465 |
-| A Thirst for Knowledge | 48.00% | ~257,726 |
-| Snooze 'n' Soothe | 48.00% | ~257,726 |
+| A Shout in the Dark | 50.00% | ~268,466 |
+| A Thirst for Knowledge | 48.00% | ~257,727 |
+| Snooze 'n' Soothe | 48.00% | ~257,727 |
 | Soothing Sounds | 46.00% | ~246,988 |
-| We Need You | 45.00% | ~241,618 |
-| Catcher Crusher | 45.00% | ~241,618 |
-| Sleep Tight, Little BB | 44.00% | ~236,249 |
+| We Need You | 45.00% | ~241,619 |
+| Catcher Crusher | 45.00% | ~241,619 |
+| Sleep Tight, Little BB | 44.00% | ~236,250 |
 | Giver of Gifts | 39.00% | ~209,403 |
 | All Roads Lead to the UCA | 39.00% | ~209,403 |
 | Well-Traveled | 37.00% | ~198,664 |
@@ -37,17 +37,17 @@ Number of Ratings: 3,099  (23.09.2022)
 | I Won't Break | 32.00% | ~171,818 |
 | BB... | 32.00% | ~171,818 |
 | The World's Most Popular Porter | 29.00% | ~155,710 |
-| Pumped Porter | 28.00% | ~150,340 |
-| We're Whole Again | 28.00% | ~150,340 |
+| Pumped Porter | 28.00% | ~150,341 |
+| We're Whole Again | 28.00% | ~150,341 |
 | BBs: A Bridge Between This World and the One Beyond | 26.00% | ~139,602 |
 | "BB" | 26.00% | ~139,602 |
-| Soak and Sigh | 25.00% | ~134,232 |
+| Soak and Sigh | 25.00% | ~134,233 |
 | Deliveries Done | 24.00% | ~128,863 |
 | Sixty Deaths and Sixty Births in a Day | 22.00% | ~118,125 |
-| The Particle of God | 21.00% | ~112,755 |
-| I'm Your Die-Hardman | 21.00% | ~112,755 |
-| Bring Back My Baby | 21.00% | ~112,755 |
-| She's waiting for you on the Beach. | 21.00% | ~112,755 |
+| The Particle of God | 21.00% | ~112,756 |
+| I'm Your Die-Hardman | 21.00% | ~112,756 |
+| Bring Back My Baby | 21.00% | ~112,756 |
+| She's waiting for you on the Beach. | 21.00% | ~112,756 |
 | Thank You, Sam | 20.00% | ~107,386 |
 | Thanks for Everything | 20.00% | ~107,386 |
 | The Post Guides the Present | 17.00% | ~91,278 |
@@ -56,8 +56,8 @@ Number of Ratings: 3,099  (23.09.2022)
 | Childminder | 14.00% | ~75,170 |
 | Public Service Porter | 12.00% | ~64,432 |
 | God Particle Go-Getter | 9.00% | ~48,324 |
-| A Helping Hand | 5.00% | ~26,846 |
-| The Past Guides the Present | 5.00% | ~26,846 |
+| A Helping Hand | 5.00% | ~26,847 |
+| The Past Guides the Present | 5.00% | ~26,847 |
 | Any Porter in a Storm | 3.00% | ~16,108 |
 | Birth of a Legend | 2.00% | ~10,739 |
 | In Sam We Trust | 2.00% | ~10,739 |
@@ -70,7 +70,7 @@ Number of Ratings: 3,099  (23.09.2022)
 | Greatest of Great Deliverers | 0.40% | ~2,148 |
 | Homo Faber | 0.40% | ~2,148 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 536,930 (Ranked 31)  
+Progressed: 536,931 (Ranked 31)  
 Completed: 2,055 (0.38%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +246,7 @@ Completed: 2,055 (0.38%) (Ranked 191)
 | 2023-10-10 | 536,611 | 2,052 |
 | 2023-10-11 | 536,774 | 2,053 |
 | 2023-10-12 | 536,914 | 2,055 |
-| 2023-10-13 | 536,930 | 2,055 |
+| 2023-10-13 | 536,931 | 2,055 |
 ## Awards
 Max (Great Boss Battles): 8,404  (Ranked 43)  
 Sum: 14,372 (Ranked 71)  

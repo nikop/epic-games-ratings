@@ -10471,9 +10471,9 @@
       "Count": 8394
     }
   ],
-  "EOS_Progressed": 1344361,
+  "EOS_Progressed": 1344362,
   "EOS_Completed": 2158,
-  "EOS_NewPlayers": 2425,
+  "EOS_NewPlayers": 2415,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -30361,6 +30361,11 @@
       "Time": "2023-10-13T02:25:57.99616+00:00",
       "NumProgressed": 1344361,
       "NumCompleted": 2158
+    },
+    {
+      "Time": "2023-10-13T03:05:59.7686459+00:00",
+      "NumProgressed": 1344362,
+      "NumCompleted": 2158
     }
   ],
   "TotalAchievements": 47,
@@ -30380,7 +30385,7 @@
       "Name": "Cleared for Field Duty",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 362977
+      "UsersEstimate": 362978
     },
     {
       "ID": "ACH_002",
@@ -30428,7 +30433,7 @@
       "Name": "A New Profile",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 120992
+      "UsersEstimate": 120993
     },
     {
       "ID": "ACH_008",
@@ -30444,7 +30449,7 @@
       "Name": "Unseen Assassin",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 618406
+      "UsersEstimate": 618407
     },
     {
       "ID": "ACH_010",
@@ -30468,7 +30473,7 @@
       "Name": "Death From Above",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 604962
+      "UsersEstimate": 604963
     },
     {
       "ID": "ACH_013",
@@ -30516,7 +30521,7 @@
       "Name": "Master of the Household",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 510857
+      "UsersEstimate": 510858
     },
     {
       "ID": "ACH_019",
@@ -30548,7 +30553,7 @@
       "Name": "Full House",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 120992
+      "UsersEstimate": 120993
     },
     {
       "ID": "ACH_023",
@@ -30708,7 +30713,7 @@
       "Name": "Nightmare Fuel",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 403308
+      "UsersEstimate": 403309
     },
     {
       "ID": "ACH_043",
@@ -30747,15 +30752,15 @@
     {
       "ID": "62l33o1",
       "IsBase": true,
-      "Progressed": 1344361,
+      "Progressed": 1344362,
       "Completed": 2158
     }
   ],
   "FirstSeen": "2022-07-22T20:17:51.8099598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:56.7371376+00:00",
   "LastChanged": "2023-10-12T23:01:21.8190393+00:00",
-  "LastChanged_Achievements": "2023-10-13T02:25:57.9961595+00:00",
+  "LastChanged_Achievements": "2023-10-13T03:05:59.7686454+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:14.657185+00:00",
-  "LastUpdate_Ratings": "2023-10-13T02:22:09.3472922+00:00",
-  "LastUpdate_Achievements": "2023-10-13T02:25:57.9963388+00:00"
+  "LastUpdate_Ratings": "2023-10-13T03:01:51.9241583+00:00",
+  "LastUpdate_Achievements": "2023-10-13T03:05:59.768848+00:00"
 }

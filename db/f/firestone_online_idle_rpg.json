@@ -370,7 +370,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 2018,
+  "EOS_Progressed": 2019,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
@@ -6040,6 +6040,11 @@
       "Time": "2023-10-12T03:10:46.3249881+00:00",
       "NumProgressed": 2018,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-13T03:09:19.7439606+00:00",
+      "NumProgressed": 2019,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -6099,7 +6104,7 @@
       "Name": "Blueprint Upgrades",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "cauldronliberator",
@@ -6131,7 +6136,7 @@
       "Name": "Crystal Mining",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "dailyquestcompletionist",
@@ -6171,7 +6176,7 @@
       "Name": "Dragon Slayer",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "ebonyjungleliberator",
@@ -6187,7 +6192,7 @@
       "Name": "Enchanting skill",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "enchantingskillx5",
@@ -6203,7 +6208,7 @@
       "Name": "Engineer Mastery",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "enhancedwarmachines",
@@ -6507,7 +6512,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1150
+      "UsersEstimate": 1151
     },
     {
       "ID": "thealchemist",
@@ -6523,7 +6528,7 @@
       "Name": "The Expeditioner",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "thefatherofdragons",
@@ -6611,7 +6616,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1877
+      "UsersEstimate": 1878
     },
     {
       "ID": "warmachinesarmy",
@@ -6627,7 +6632,7 @@
       "Name": "Weekly Quest Completionist",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "whatliesbehindthebush",
@@ -6643,14 +6648,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1594
+      "UsersEstimate": 1595
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2018,
+      "Progressed": 2019,
       "Completed": 2
     }
   ],
@@ -6658,8 +6663,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-10-12T17:59:57.3603053+00:00",
-  "LastChanged_Achievements": "2023-10-13T02:29:07.4925917+00:00",
+  "LastChanged_Achievements": "2023-10-13T03:09:19.74396+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:57.0347276+00:00",
-  "LastUpdate_Ratings": "2023-10-13T02:20:24.7165817+00:00",
-  "LastUpdate_Achievements": "2023-10-13T02:29:07.4928287+00:00"
+  "LastUpdate_Ratings": "2023-10-13T03:00:26.6562017+00:00",
+  "LastUpdate_Achievements": "2023-10-13T03:09:19.7440944+00:00"
 }

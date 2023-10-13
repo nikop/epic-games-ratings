@@ -3,8 +3,8 @@
   "Name": "World of Goo",
   "ProductSlug": "world-of-goo",
   "Ranking_Rating": 203,
-  "Ranking_Popularity": 533,
-  "Ranking_PopularitySum": 533,
+  "Ranking_Popularity": 534,
+  "Ranking_PopularitySum": 534,
   "Ranking_EOS_Progress": 668,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 393,
@@ -222,6 +222,6 @@
   "FirstSeen": "2022-07-22T20:26:07.5057967+00:00",
   "LastChanged": "2023-08-22T05:02:41.0680498+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:23.6553628+00:00",
-  "LastUpdate_Ratings": "2023-10-13T02:20:52.3625733+00:00",
-  "LastUpdate_Achievements": "2023-10-13T02:25:03.7407312+00:00"
+  "LastUpdate_Ratings": "2023-10-13T03:00:50.4693151+00:00",
+  "LastUpdate_Achievements": "2023-10-13T03:05:14.114482+00:00"
 }

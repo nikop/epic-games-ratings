@@ -11285,9 +11285,9 @@
       "Count": 25339
     }
   ],
-  "EOS_Progressed": 935189,
+  "EOS_Progressed": 935225,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 14044,
+  "EOS_NewPlayers": 14043,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -31230,6 +31230,11 @@
       "Time": "2023-10-13T02:27:12.3226782+00:00",
       "NumProgressed": 935189,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-10-13T03:07:02.8376054+00:00",
+      "NumProgressed": 935225,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 229,
@@ -31329,7 +31334,7 @@
       "Name": "Agonizing Escape",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 6546
+      "UsersEstimate": 6547
     },
     {
       "ID": "ACH_013",
@@ -31337,7 +31342,7 @@
       "Name": "Backdoor Escape",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 6546
+      "UsersEstimate": 6547
     },
     {
       "ID": "ACH_014",
@@ -31353,7 +31358,7 @@
       "Name": "I\u0027ve got your back",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 6546
+      "UsersEstimate": 6547
     },
     {
       "ID": "ACH_016",
@@ -31391,9 +31396,9 @@
       "ID": "ACH_020",
       "SetID": "bdmlp8o",
       "Name": "Perfect Escape",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 6546
+      "UsersEstimate": 7482
     },
     {
       "ID": "ACH_021",
@@ -31401,7 +31406,7 @@
       "Name": "Perfect Killing",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 6546
+      "UsersEstimate": 6547
     },
     {
       "ID": "ACH_022",
@@ -31705,7 +31710,7 @@
       "Name": "Engineer",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 6546
+      "UsersEstimate": 6547
     },
     {
       "ID": "ACH_060",
@@ -32553,7 +32558,7 @@
       "Name": "Close Shave",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 6546
+      "UsersEstimate": 6547
     },
     {
       "ID": "ACH_169",
@@ -33072,21 +33077,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 935189,
+      "Progressed": 935225,
       "Completed": 52
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 935189,
+      "Progressed": 935225,
       "Completed": 50
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-10-12T19:57:44.8273587+00:00",
-  "LastChanged_Achievements": "2023-10-13T02:27:12.3226775+00:00",
+  "LastChanged_Achievements": "2023-10-13T03:07:02.8376046+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:11.5924675+00:00",
-  "LastUpdate_Ratings": "2023-10-13T02:17:42.5585854+00:00",
-  "LastUpdate_Achievements": "2023-10-13T02:27:12.3237507+00:00"
+  "LastUpdate_Ratings": "2023-10-13T02:57:52.2546+00:00",
+  "LastUpdate_Achievements": "2023-10-13T03:07:02.8389287+00:00"
 }

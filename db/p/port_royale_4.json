@@ -3,8 +3,8 @@
   "Name": "Port Royale 4",
   "ProductSlug": "port-royale-4",
   "Ranking_Rating": 959,
-  "Ranking_Popularity": 533,
-  "Ranking_PopularitySum": 533,
+  "Ranking_Popularity": 534,
+  "Ranking_PopularitySum": 534,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 234,
@@ -2565,9 +2565,9 @@
       "ID": "ACH027",
       "SetID": "69nfp41",
       "Name": "I\u0027m out of here for a while",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 392
+      "UsersEstimate": 402
     },
     {
       "ID": "ACH028",
@@ -2757,8 +2757,8 @@
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-07-02T02:29:11.8786643+00:00",
-  "LastChanged_Achievements": "2023-10-13T02:26:22.192116+00:00",
+  "LastChanged_Achievements": "2023-10-13T03:06:20.4328351+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:30.9232291+00:00",
-  "LastUpdate_Ratings": "2023-10-13T02:21:06.5417044+00:00",
-  "LastUpdate_Achievements": "2023-10-13T02:26:22.1921771+00:00"
+  "LastUpdate_Ratings": "2023-10-13T03:01:01.5189475+00:00",
+  "LastUpdate_Achievements": "2023-10-13T03:06:20.4328988+00:00"
 }

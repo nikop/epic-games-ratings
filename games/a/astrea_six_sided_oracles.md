@@ -50,9 +50,12 @@
 | If I Had Failed... | 4.00% | ~2 |
 | Reflexive Mind | 4.00% | ~2 |
 | Sentinelphobic | 4.00% | ~2 |
+| The Chaos Artisan | 4.00% | ~2 |
 | Aquarian Mastery | 4.00% | ~2 |
 | Eridanian Mastery | 4.00% | ~2 |
 | Lacertian Mastery | 4.00% | ~2 |
+| Noctuan Hero | 4.00% | ~2 |
+| Noctuan Mastery | 4.00% | ~2 |
 | Anomaly Master | 2.00% | ~1 |
 | Arch-Oracle | 2.00% | ~1 |
 | Critical Twist | 2.00% | ~1 |
@@ -60,12 +63,9 @@
 | Plague Doctor | 2.00% | ~1 |
 | Pocket Astrarium | 2.00% | ~1 |
 | Prestidigitation | 2.00% | ~1 |
-| The Chaos Artisan | 2.00% | ~1 |
 | The Raging Skies | 2.00% | ~1 |
 | This is Fine | 2.00% | ~1 |
 | Aquarian Hero | 2.00% | ~1 |
-| Noctuan Hero | 2.00% | ~1 |
-| Noctuan Mastery | 2.00% | ~1 |
 | Apian Champion | 0.00% | ~0 |
 | Apian Hero | 0.00% | ~0 |
 | Apian Mastery | 0.00% | ~0 |

@@ -5059,9 +5059,9 @@
       "ID": "SavedElderEnt",
       "SetID": "97dk767",
       "Name": "Rescued Elder Ent",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 5182
+      "UsersEstimate": 5265
     },
     {
       "ID": "SavedElderEnt_2",
@@ -5131,8 +5131,8 @@
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-10-11T09:01:11.2841956+00:00",
-  "LastChanged_Achievements": "2023-10-13T02:28:17.673165+00:00",
+  "LastChanged_Achievements": "2023-10-13T03:07:57.0911748+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:10.5338223+00:00",
-  "LastUpdate_Ratings": "2023-10-13T02:22:04.7956822+00:00",
-  "LastUpdate_Achievements": "2023-10-13T02:28:17.673218+00:00"
+  "LastUpdate_Ratings": "2023-10-13T03:01:48.3077968+00:00",
+  "LastUpdate_Achievements": "2023-10-13T03:07:57.0912257+00:00"
 }

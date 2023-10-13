@@ -817,9 +817,9 @@
       "ID": "TheChaosArtisan",
       "SetID": "1jeo1g7",
       "Name": "The Chaos Artisan",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "TheCorruptionGoddess",
@@ -1049,17 +1049,17 @@
       "ID": "NoctuanHero",
       "SetID": "1jeo1g7",
       "Name": "Noctuan Hero",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NoctuanMastery",
       "SetID": "1jeo1g7",
       "Name": "Noctuan Mastery",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
@@ -1072,8 +1072,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-10-13T02:24:44.2294481+00:00",
+  "LastChanged_Achievements": "2023-10-13T03:04:57.7968846+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:02.1495418+00:00",
-  "LastUpdate_Ratings": "2023-10-13T02:19:42.7061979+00:00",
-  "LastUpdate_Achievements": "2023-10-13T02:24:44.2295879+00:00"
+  "LastUpdate_Ratings": "2023-10-13T02:59:52.1410698+00:00",
+  "LastUpdate_Achievements": "2023-10-13T03:04:57.7970232+00:00"
 }

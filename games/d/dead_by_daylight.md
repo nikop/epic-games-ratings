@@ -21,17 +21,17 @@ Number of Ratings: 70,340  (23.09.2022)
 | Resurgence | 0.90% | ~8,417 |
 | The Grand Sacrifice | 0.80% | ~7,482 |
 | Nerves of steel | 0.80% | ~7,482 |
+| Perfect Escape | 0.80% | ~7,482 |
 | Bloody Millionaire | 0.80% | ~7,482 |
 | I | 0.80% | ~7,482 |
 | Preemptive Strike | 0.80% | ~7,482 |
 | Humanitarian | 0.80% | ~7,482 |
-| Agonizing Escape | 0.70% | ~6,546 |
-| Backdoor Escape | 0.70% | ~6,546 |
-| I've got your back | 0.70% | ~6,546 |
-| Perfect Escape | 0.70% | ~6,546 |
-| Perfect Killing | 0.70% | ~6,546 |
-| Engineer | 0.70% | ~6,546 |
-| Close Shave | 0.70% | ~6,546 |
+| Agonizing Escape | 0.70% | ~6,547 |
+| Backdoor Escape | 0.70% | ~6,547 |
+| I've got your back | 0.70% | ~6,547 |
+| Perfect Killing | 0.70% | ~6,547 |
+| Engineer | 0.70% | ~6,547 |
+| Close Shave | 0.70% | ~6,547 |
 | Apt Killer | 0.60% | ~5,611 |
 | Risk it all | 0.60% | ~5,611 |
 | II | 0.60% | ~5,611 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~935 |
 | Adept Ripley | 0.10% | ~935 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 935,189 (Ranked 14)  
+Progressed: 935,225 (Ranked 14)  
 Completed: 50 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -412,7 +412,7 @@ Completed: 50 (0.01%) (Ranked 296)
 | 2023-10-10 | 931,511 | 49 |
 | 2023-10-11 | 933,163 | 49 |
 | 2023-10-12 | 934,954 | 50 |
-| 2023-10-13 | 935,189 | 50 |
+| 2023-10-13 | 935,225 | 50 |
 ## Awards
 Max (Diverse Characters): 33,781  (Ranked 15)  
 Sum: 261,674 (Ranked 13)  

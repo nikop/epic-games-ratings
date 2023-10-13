@@ -3,8 +3,8 @@
   "Name": "Adios",
   "ProductSlug": "adios-b378b4",
   "Ranking_Rating": 1008,
-  "Ranking_Popularity": 533,
-  "Ranking_PopularitySum": 533,
+  "Ranking_Popularity": 534,
+  "Ranking_PopularitySum": 534,
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 141,
   "Ranking_EOS_NewPlayers": 89,
@@ -114,9 +114,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 75638,
+  "EOS_Progressed": 75639,
   "EOS_Completed": 795,
-  "EOS_NewPlayers": 548,
+  "EOS_NewPlayers": 547,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -19694,6 +19694,11 @@
       "Time": "2023-10-13T01:48:44.3598027+00:00",
       "NumProgressed": 75638,
       "NumCompleted": 795
+    },
+    {
+      "Time": "2023-10-13T03:04:13.1679801+00:00",
+      "NumProgressed": 75639,
+      "NumCompleted": 795
     }
   ],
   "TotalAchievements": 25,
@@ -19737,7 +19742,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 16640
+      "UsersEstimate": 16641
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -19793,7 +19798,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 6807
+      "UsersEstimate": 6808
     },
     {
       "ID": "Magnetic Miracles",
@@ -19904,7 +19909,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 75638,
+      "Progressed": 75639,
       "Completed": 795
     }
   ],
@@ -19912,8 +19917,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-10-13T02:23:41.8455061+00:00",
+  "LastChanged_Achievements": "2023-10-13T03:04:13.1679794+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:32.9396838+00:00",
-  "LastUpdate_Ratings": "2023-10-13T02:19:04.6281415+00:00",
-  "LastUpdate_Achievements": "2023-10-13T02:23:41.845661+00:00"
+  "LastUpdate_Ratings": "2023-10-13T02:59:21.7388642+00:00",
+  "LastUpdate_Achievements": "2023-10-13T03:04:13.1681478+00:00"
 }
