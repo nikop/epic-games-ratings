@@ -622,9 +622,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 468954,
+  "EOS_Progressed": 468956,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 397,
+  "EOS_NewPlayers": 399,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18972,6 +18972,11 @@
       "Time": "2023-10-13T01:53:23.7708586+00:00",
       "NumProgressed": 468954,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-10-13T02:28:55.7654934+00:00",
+      "NumProgressed": 468956,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 79,
@@ -19023,7 +19028,7 @@
       "Name": "Chapter III: The Man Who Sold the World",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 46895
+      "UsersEstimate": 46896
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -19071,7 +19076,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 309510
+      "UsersEstimate": 309511
     },
     {
       "ID": "achievement_story_landa",
@@ -19103,7 +19108,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 117238
+      "UsersEstimate": 117239
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -19167,7 +19172,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 159444
+      "UsersEstimate": 159445
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -19407,7 +19412,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 206340
+      "UsersEstimate": 206341
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -19415,7 +19420,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 140686
+      "UsersEstimate": 140687
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -19439,7 +19444,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 182892
+      "UsersEstimate": 182893
     },
     {
       "ID": "achievement_win_run_hard",
@@ -19614,21 +19619,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 12888,
+      "Progressed": 12890,
       "Completed": 2357
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 468954,
+      "Progressed": 468956,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-10-10T01:42:39.6470224+00:00",
-  "LastChanged_Achievements": "2023-10-13T01:53:23.770858+00:00",
+  "LastChanged_Achievements": "2023-10-13T02:28:55.7654928+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:12.2439016+00:00",
-  "LastUpdate_Ratings": "2023-10-13T01:45:33.4644311+00:00",
-  "LastUpdate_Achievements": "2023-10-13T01:53:23.7710652+00:00"
+  "LastUpdate_Ratings": "2023-10-13T02:22:07.8270885+00:00",
+  "LastUpdate_Achievements": "2023-10-13T02:28:55.7658054+00:00"
 }

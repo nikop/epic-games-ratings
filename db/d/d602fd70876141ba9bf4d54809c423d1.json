@@ -2,9 +2,9 @@
   "ID": "d602fd70876141ba9bf4d54809c423d1",
   "Name": "The Evil Within",
   "ProductSlug": "the-evil-within",
-  "Ranking_EOS_Progress": 377,
+  "Ranking_EOS_Progress": 376,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 109,
+  "EOS_Progressed": 110,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -549,6 +549,11 @@
       "Time": "2023-10-12T20:07:42.8192201+00:00",
       "NumProgressed": 109,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-13T02:27:37.8697041+00:00",
+      "NumProgressed": 110,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T16:01:32.1694174+00:00",
@@ -559,7 +564,7 @@
       "ID": "ACHIEVEMENT_01",
       "SetID": "ap8553i",
       "Name": "What\u0027s in the Box?",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 20,
       "UsersEstimate": 40
     },
@@ -567,7 +572,7 @@
       "ID": "ACHIEVEMENT_02",
       "SetID": "ap8553i",
       "Name": "Old Flame",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
       "UsersEstimate": 29
     },
@@ -663,9 +668,9 @@
       "ID": "ACHIEVEMENT_14",
       "SetID": "ap8553i",
       "Name": "Hardbody",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -751,9 +756,9 @@
       "ID": "ACHIEVEMENT_25",
       "SetID": "ap8553i",
       "Name": "One Man Army",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 7
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -823,7 +828,7 @@
       "ID": "ACHIEVEMENT_34",
       "SetID": "ap8553i",
       "Name": "Home is Where the Hospice is",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
       "UsersEstimate": 28
     },
@@ -841,7 +846,7 @@
       "Name": "Everybody Gets One",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -863,9 +868,9 @@
       "ID": "ACHIEVEMENT_39",
       "SetID": "ap8553i",
       "Name": "Bathed in Flames",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -1128,20 +1133,20 @@
     {
       "ID": "8ddjaeg",
       "IsBase": false,
-      "Progressed": 109,
+      "Progressed": 110,
       "Completed": 0
     },
     {
       "ID": "ap8553i",
       "IsBase": true,
-      "Progressed": 109,
+      "Progressed": 110,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-10-13T01:51:27.3118173+00:00",
+  "LastChanged_Achievements": "2023-10-13T02:27:37.8697035+00:00",
   "LastUpdate_AppInfo": "2023-10-11T21:57:06.97719+00:00",
-  "LastUpdate_Ratings": "2023-10-13T01:42:45.7161415+00:00",
-  "LastUpdate_Achievements": "2023-10-13T01:51:27.3119109+00:00"
+  "LastUpdate_Ratings": "2023-10-13T02:17:59.2687944+00:00",
+  "LastUpdate_Achievements": "2023-10-13T02:27:37.8698124+00:00"
 }

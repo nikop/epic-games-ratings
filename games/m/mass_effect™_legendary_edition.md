@@ -45,9 +45,9 @@
 | Galactic Explorer | 35.00% | ~233 |
 | Archivist | 34.00% | ~226 |
 | Broke, Blind, and Bedlam | 34.00% | ~226 |
+| The Assassin | 33.00% | ~220 |
 | The Quarian | 33.00% | ~220 |
 | Ghost Ship | 32.00% | ~213 |
-| The Assassin | 32.00% | ~213 |
 | The Justicar | 32.00% | ~213 |
 | The Prodigal | 32.00% | ~213 |
 | A Personal Touch | 31.00% | ~206 |
@@ -86,9 +86,9 @@
 | Tunnel Rat | 22.00% | ~147 |
 | Arbiter | 22.00% | ~147 |
 | Savior | 21.00% | ~140 |
+| Party Crasher | 21.00% | ~140 |
 | Lost and Found | 21.00% | ~140 |
 | No One Left Behind | 20.00% | ~133 |
-| Party Crasher | 20.00% | ~133 |
 | Problem Solver | 20.00% | ~133 |
 | Hard Target | 19.00% | ~127 |
 | Saboteur | 19.00% | ~127 |

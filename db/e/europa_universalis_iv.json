@@ -10632,9 +10632,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 429060,
+  "EOS_Progressed": 429065,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5842,
+  "EOS_NewPlayers": 5832,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30562,6 +30562,11 @@
       "Time": "2023-10-13T01:54:25.5206951+00:00",
       "NumProgressed": 429060,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-13T02:29:38.9883677+00:00",
+      "NumProgressed": 429065,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -30965,7 +30970,7 @@
       "Name": "Blockader",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 3432
+      "UsersEstimate": 3433
     },
     {
       "ID": "achievement_blood_for_the_sky_god",
@@ -31229,7 +31234,7 @@
       "Name": "Double the Love",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 3432
+      "UsersEstimate": 3433
     },
     {
       "ID": "achievement_dovmonts_own",
@@ -31573,7 +31578,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17162
+      "UsersEstimate": 17163
     },
     {
       "ID": "achievement_grand_coalition",
@@ -32525,7 +32530,7 @@
       "Name": "Royal Authority",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 3432
+      "UsersEstimate": 3433
     },
     {
       "ID": "achievement_rozwi_empire",
@@ -33125,7 +33130,7 @@
       "Name": "Total Control",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 3432
+      "UsersEstimate": 3433
     },
     {
       "ID": "achievement_trade_hegemon",
@@ -33237,7 +33242,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17162
+      "UsersEstimate": 17163
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -33404,21 +33409,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 429060,
+      "Progressed": 429065,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 429060,
+      "Progressed": 429065,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-10-12T18:00:20.2924484+00:00",
-  "LastChanged_Achievements": "2023-10-13T01:54:25.5206943+00:00",
+  "LastChanged_Achievements": "2023-10-13T02:29:38.988367+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:02.2822326+00:00",
-  "LastUpdate_Ratings": "2023-10-13T01:44:39.7957217+00:00",
-  "LastUpdate_Achievements": "2023-10-13T01:54:25.5221521+00:00"
+  "LastUpdate_Ratings": "2023-10-13T02:20:48.1392276+00:00",
+  "LastUpdate_Achievements": "2023-10-13T02:29:38.9902557+00:00"
 }

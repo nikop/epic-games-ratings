@@ -2111,9 +2111,9 @@
       "ID": "achievement_45",
       "SetID": "d252ncf",
       "Name": "The Assassin",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 213
+      "UsersEstimate": 220
     },
     {
       "ID": "achievement_46",
@@ -2463,9 +2463,9 @@
       "ID": "achievement_85",
       "SetID": "d252ncf",
       "Name": "Party Crasher",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 140
     },
     {
       "ID": "achievement_86",
@@ -2603,8 +2603,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-13T01:48:28.0366041+00:00",
+  "LastChanged_Achievements": "2023-10-13T02:23:18.5901852+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:40.7255751+00:00",
-  "LastUpdate_Ratings": "2023-10-13T01:43:54.2910893+00:00",
-  "LastUpdate_Achievements": "2023-10-13T01:48:28.036856+00:00"
+  "LastUpdate_Ratings": "2023-10-13T02:19:40.1896544+00:00",
+  "LastUpdate_Achievements": "2023-10-13T02:23:18.5904348+00:00"
 }

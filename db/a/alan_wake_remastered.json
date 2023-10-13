@@ -524,9 +524,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 67732,
+  "EOS_Progressed": 67733,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 659,
+  "EOS_NewPlayers": 657,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -17809,6 +17809,11 @@
       "Time": "2023-10-13T01:53:31.2013862+00:00",
       "NumProgressed": 67732,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-10-13T02:29:06.3595943+00:00",
+      "NumProgressed": 67733,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 67,
@@ -17860,7 +17865,7 @@
       "Name": "Park Ranger",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 13546
+      "UsersEstimate": 13547
     },
     {
       "ID": "07",
@@ -17868,7 +17873,7 @@
       "Name": "Heavy Metal",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9482
+      "UsersEstimate": 9483
     },
     {
       "ID": "08",
@@ -17876,7 +17881,7 @@
       "Name": "Iron Horse",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9482
+      "UsersEstimate": 9483
     },
     {
       "ID": "09",
@@ -17908,7 +17913,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9482
+      "UsersEstimate": 9483
     },
     {
       "ID": "13",
@@ -18036,7 +18041,7 @@
       "Name": "Come One, Come All",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9482
+      "UsersEstimate": 9483
     },
     {
       "ID": "29",
@@ -18044,7 +18049,7 @@
       "Name": "Sound and Fury",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11514
+      "UsersEstimate": 11515
     },
     {
       "ID": "30",
@@ -18092,7 +18097,7 @@
       "Name": "Let There Be Light",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 23706
+      "UsersEstimate": 23707
     },
     {
       "ID": "36",
@@ -18156,7 +18161,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 13546
+      "UsersEstimate": 13547
     },
     {
       "ID": "44",
@@ -18180,7 +18185,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 11514
+      "UsersEstimate": 11515
     },
     {
       "ID": "47",
@@ -18355,21 +18360,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 67732,
+      "Progressed": 67733,
       "Completed": 69
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 31200,
+      "Progressed": 31201,
       "Completed": 55
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-09-26T11:01:48.1926095+00:00",
-  "LastChanged_Achievements": "2023-10-13T01:53:31.2013857+00:00",
+  "LastChanged_Achievements": "2023-10-13T02:29:06.3595939+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:13.3553682+00:00",
-  "LastUpdate_Ratings": "2023-10-13T01:44:42.7854385+00:00",
-  "LastUpdate_Achievements": "2023-10-13T01:53:31.2015919+00:00"
+  "LastUpdate_Ratings": "2023-10-13T02:20:52.6695497+00:00",
+  "LastUpdate_Achievements": "2023-10-13T02:29:06.3597847+00:00"
 }

@@ -1841,7 +1841,7 @@
   ],
   "EOS_Progressed": 14626,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 235,
+  "EOS_NewPlayers": 233,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14044,9 +14044,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_AMBITIOUS",
       "SetID": "9201eeb",
       "Name": "Ambitious",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 146
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_ANCIENT",
@@ -16458,8 +16458,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-12T20:03:06.2994788+00:00",
-  "LastChanged_Achievements": "2023-10-13T01:51:17.2774894+00:00",
+  "LastChanged_Achievements": "2023-10-13T02:27:24.6228066+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:48.3987129+00:00",
-  "LastUpdate_Ratings": "2023-10-13T01:48:17.1596011+00:00",
-  "LastUpdate_Achievements": "2023-10-13T01:51:17.2787887+00:00"
+  "LastUpdate_Ratings": "2023-10-13T02:22:40.1353591+00:00",
+  "LastUpdate_Achievements": "2023-10-13T02:27:24.6244137+00:00"
 }

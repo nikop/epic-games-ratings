@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 11,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 46,
+  "Ranking_EOS_NewPlayers": 47,
   "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -13481,7 +13481,7 @@
       "Count": 9805
     }
   ],
-  "EOS_Progressed": 891270,
+  "EOS_Progressed": 891272,
   "EOS_Completed": 2648,
   "EOS_NewPlayers": 2129,
   "EOS_NewCompleters": 54,
@@ -33306,6 +33306,11 @@
       "Time": "2023-10-13T01:50:49.1978054+00:00",
       "NumProgressed": 891270,
       "NumCompleted": 2648
+    },
+    {
+      "Time": "2023-10-13T02:26:45.3186102+00:00",
+      "NumProgressed": 891272,
+      "NumCompleted": 2648
     }
   ],
   "TotalAchievements": 57,
@@ -33349,7 +33354,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 392159
+      "UsersEstimate": 392160
     },
     {
       "ID": "FollowingTheRiver",
@@ -33357,7 +33362,7 @@
       "Name": "To Protect and Serve",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 133690
+      "UsersEstimate": 133691
     },
     {
       "ID": "Fortuneteller",
@@ -33413,7 +33418,7 @@
       "Name": "I Am The Law",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 142603
+      "UsersEstimate": 142604
     },
     {
       "ID": "LikeFatherLikeSon",
@@ -33437,7 +33442,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 231730
+      "UsersEstimate": 231731
     },
     {
       "ID": "MaxPain",
@@ -33485,7 +33490,7 @@
       "Name": "Life of the Road",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 204992
+      "UsersEstimate": 204993
     },
     {
       "ID": "Roleplayer",
@@ -33493,7 +33498,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 294119
+      "UsersEstimate": 294120
     },
     {
       "ID": "Specialist",
@@ -33533,7 +33538,7 @@
       "Name": "The Fool",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 632802
+      "UsersEstimate": 632803
     },
     {
       "ID": "TheHermit",
@@ -33541,7 +33546,7 @@
       "Name": "The Hermit",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 267381
+      "UsersEstimate": 267382
     },
     {
       "ID": "TheHightPriestess",
@@ -33549,7 +33554,7 @@
       "Name": "The High Priestess",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 258468
+      "UsersEstimate": 258469
     },
     {
       "ID": "TheLovers",
@@ -33557,7 +33562,7 @@
       "Name": "The Lovers",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 347595
+      "UsersEstimate": 347596
     },
     {
       "ID": "TheStar",
@@ -33581,7 +33586,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 285206
+      "UsersEstimate": 285207
     },
     {
       "ID": "TheWorld",
@@ -33613,7 +33618,7 @@
       "Name": "True Soldier",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 258468
+      "UsersEstimate": 258469
     },
     {
       "ID": "TrueWarrior",
@@ -33621,7 +33626,7 @@
       "Name": "True Warrior",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 169341
+      "UsersEstimate": 169342
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -33772,21 +33777,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 891270,
+      "Progressed": 891272,
       "Completed": 2648
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 19893,
+      "Progressed": 19895,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-13T01:44:17.0880669+00:00",
-  "LastChanged_Achievements": "2023-10-13T01:50:49.1978045+00:00",
+  "LastChanged_Achievements": "2023-10-13T02:26:45.3186095+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:05.2273904+00:00",
-  "LastUpdate_Ratings": "2023-10-13T01:44:17.0880677+00:00",
-  "LastUpdate_Achievements": "2023-10-13T01:50:49.1981193+00:00"
+  "LastUpdate_Ratings": "2023-10-13T02:20:14.4648194+00:00",
+  "LastUpdate_Achievements": "2023-10-13T02:26:45.3188358+00:00"
 }

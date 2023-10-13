@@ -6,21 +6,21 @@ Number of Ratings: 94  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost in Space | 77.00% | ~2,953 |
-| Quick Understanding of Block Extrusion | 67.00% | ~2,569 |
-| Nature or Nurture | 45.00% | ~1,726 |
-| Power Glove | 42.00% | ~1,611 |
-| Forgotten Memories | 33.00% | ~1,266 |
-| Cogs in the Machine | 23.00% | ~882 |
-| Mission Success | 9.00% | ~345 |
-| There's No Place Like Home | 9.00% | ~345 |
-| Green Cube Killer | 8.00% | ~307 |
-| Descendants | 5.00% | ~192 |
-| Infinity Loop | 5.00% | ~192 |
-| Path to Salvation | 5.00% | ~192 |
-| The Flawed Teacher | 4.00% | ~153 |
-| To Infinity and Beyond | 3.00% | ~115 |
-| The Truthful Enemy | 2.00% | ~77 |
+| Lost in Space | 77.00% | ~3,021 |
+| Quick Understanding of Block Extrusion | 67.00% | ~2,628 |
+| Nature or Nurture | 46.00% | ~1,805 |
+| Power Glove | 42.00% | ~1,648 |
+| Forgotten Memories | 34.00% | ~1,334 |
+| Cogs in the Machine | 24.00% | ~942 |
+| Mission Success | 9.00% | ~353 |
+| There's No Place Like Home | 9.00% | ~353 |
+| Green Cube Killer | 8.00% | ~314 |
+| Descendants | 5.00% | ~196 |
+| Infinity Loop | 5.00% | ~196 |
+| Path to Salvation | 5.00% | ~196 |
+| The Flawed Teacher | 4.00% | ~157 |
+| To Infinity and Beyond | 3.00% | ~118 |
+| The Truthful Enemy | 2.00% | ~78 |
 | Laser Sharp | 0.30% | ~12 |
 | Home Stretch | 0.20% | ~8 |
 | True collector | 0.10% | ~4 |
@@ -36,7 +36,7 @@ Number of Ratings: 94  (23.09.2022)
 | QUBE Master | 0.10% | ~4 |
 | Expert Collector | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,835 (Ranked 178)  
+Progressed: 3,923 (Ranked 178)  
 Completed: 1 (0.03%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 1 (0.03%) (Ranked 282)
 | 2023-10-10 | 745 | 1 |
 | 2023-10-11 | 762 | 1 |
 | 2023-10-12 | 3,214 | 1 |
-| 2023-10-13 | 3,835 | 1 |
+| 2023-10-13 | 3,923 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

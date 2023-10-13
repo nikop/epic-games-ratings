@@ -5304,9 +5304,9 @@
       "Count": 377
     }
   ],
-  "EOS_Progressed": 694750,
+  "EOS_Progressed": 694759,
   "EOS_Completed": 2216,
-  "EOS_NewPlayers": 3429,
+  "EOS_NewPlayers": 3430,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -25184,6 +25184,11 @@
       "Time": "2023-10-13T01:48:54.486507+00:00",
       "NumProgressed": 694750,
       "NumCompleted": 2216
+    },
+    {
+      "Time": "2023-10-13T02:24:05.9707528+00:00",
+      "NumProgressed": 694759,
+      "NumCompleted": 2216
     }
   ],
   "TotalAchievements": 45,
@@ -25195,7 +25200,7 @@
       "Name": "Dr. Reed, I Presume?",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20842
+      "UsersEstimate": 20843
     },
     {
       "ID": "ach_a_taste_of_stardom",
@@ -25211,7 +25216,7 @@
       "Name": "Git Gutte!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20842
+      "UsersEstimate": 20843
     },
     {
       "ID": "ach_anger_management",
@@ -25227,7 +25232,7 @@
       "Name": "Make it So",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4168
+      "UsersEstimate": 4169
     },
     {
       "ID": "ach_big_name_in_town",
@@ -25259,7 +25264,7 @@
       "Name": "Break A Leg",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20842
+      "UsersEstimate": 20843
     },
     {
       "ID": "ach_contender",
@@ -25315,7 +25320,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20842
+      "UsersEstimate": 20843
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -25339,7 +25344,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20842
+      "UsersEstimate": 20843
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -25347,7 +25352,7 @@
       "Name": "Friends Like These",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20842
+      "UsersEstimate": 20843
     },
     {
       "ID": "ach_hotel_california",
@@ -25395,7 +25400,7 @@
       "Name": "Apex Predator",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20842
+      "UsersEstimate": 20843
     },
     {
       "ID": "ach_knowledgeable",
@@ -25467,7 +25472,7 @@
       "Name": "Stacking the Deck",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20842
+      "UsersEstimate": 20843
     },
     {
       "ID": "ach_star_performance",
@@ -25475,7 +25480,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20842
+      "UsersEstimate": 20843
     },
     {
       "ID": "ach_survival_expert",
@@ -25523,7 +25528,7 @@
       "Name": "Variety is the Spice of Death",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 4168
+      "UsersEstimate": 4169
     },
     {
       "ID": "ach_welcome_to_hell_a",
@@ -25554,22 +25559,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 694750,
+      "Progressed": 694759,
       "Completed": 2216
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 20292,
-      "Completed": 20292
+      "Progressed": 20301,
+      "Completed": 20301
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-10-12T22:01:43.429979+00:00",
-  "LastChanged_Achievements": "2023-10-13T01:48:54.4865061+00:00",
+  "LastChanged_Achievements": "2023-10-13T02:24:05.9707522+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:12.9143544+00:00",
-  "LastUpdate_Ratings": "2023-10-13T01:45:32.802571+00:00",
-  "LastUpdate_Achievements": "2023-10-13T01:48:54.48667+00:00"
+  "LastUpdate_Ratings": "2023-10-13T02:22:06.8751498+00:00",
+  "LastUpdate_Achievements": "2023-10-13T02:24:05.9709573+00:00"
 }

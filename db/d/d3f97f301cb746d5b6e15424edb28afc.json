@@ -526,9 +526,9 @@
       "ID": "GSS_ACH_01_SHOP_01",
       "SetID": "5fn8ia4",
       "Name": "First Customer!",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "GSS_ACH_02_SHOP_02",
@@ -694,9 +694,9 @@
       "ID": "GSS_ACH_22_LOCKPICKING_02",
       "SetID": "5fn8ia4",
       "Name": "So Shady!",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "GSS_ACH_23_LOCKPICKING_03",
@@ -886,9 +886,9 @@
       "ID": "GSS_ACH_47_UPGRADE_STATION_01",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 2",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "GSS_ACH_48_UPGRADE_STATION_02",
@@ -990,9 +990,9 @@
       "ID": "GSS_ACH_60_UPGRADE_WAREHOUSE_05",
       "SetID": "5fn8ia4",
       "Name": "Warehouse Lvl. 5",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "GSS_ACH_61_POPULARITY_01",
@@ -1094,9 +1094,9 @@
       "ID": "GSS_ACH_73_MEETING_THE_UNCLE",
       "SetID": "5fn8ia4",
       "Name": "The Uncle",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "GSS_ACH_74_SANDSTORM",
@@ -1181,8 +1181,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-13T01:53:04.1681706+00:00",
+  "LastChanged_Achievements": "2023-10-13T02:28:28.6501075+00:00",
   "LastUpdate_AppInfo": "2023-10-09T13:09:09.0618232+00:00",
-  "LastUpdate_Ratings": "2023-10-13T01:44:01.9021282+00:00",
-  "LastUpdate_Achievements": "2023-10-13T01:53:04.168287+00:00"
+  "LastUpdate_Ratings": "2023-10-13T02:19:51.2543367+00:00",
+  "LastUpdate_Achievements": "2023-10-13T02:28:28.6502483+00:00"
 }

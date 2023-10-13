@@ -279,9 +279,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 742514,
+  "EOS_Progressed": 742518,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 2236,
+  "EOS_NewPlayers": 2234,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20194,6 +20194,11 @@
       "Time": "2023-10-13T01:54:09.8041831+00:00",
       "NumProgressed": 742514,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-13T02:29:17.873501+00:00",
+      "NumProgressed": 742518,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 27,
@@ -20269,7 +20274,7 @@
       "Name": "Well educated",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 274730
+      "UsersEstimate": 274732
     },
     {
       "ID": "ach_demolish_trees",
@@ -20277,7 +20282,7 @@
       "Name": "Deforester",
       "Percentage": 17,
       "XP": 35,
-      "UsersEstimate": 126227
+      "UsersEstimate": 126228
     },
     {
       "ID": "ach_free_cam_mode",
@@ -20333,7 +20338,7 @@
       "Name": "Entrepreneur",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 356407
+      "UsersEstimate": 356409
     },
     {
       "ID": "ach_produced",
@@ -20349,7 +20354,7 @@
       "Name": "Big Hauling",
       "Percentage": 16,
       "XP": 35,
-      "UsersEstimate": 118802
+      "UsersEstimate": 118803
     },
     {
       "ID": "ach_raise_money",
@@ -20365,7 +20370,7 @@
       "Name": "Salesman",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 22275
+      "UsersEstimate": 22276
     },
     {
       "ID": "ach_sell_to_state",
@@ -20420,7 +20425,7 @@
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 742514,
+      "Progressed": 742518,
       "Completed": 4
     }
   ],
@@ -20428,8 +20433,8 @@
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
   "LastChanged": "2023-10-02T11:00:31.1907722+00:00",
-  "LastChanged_Achievements": "2023-10-13T01:54:09.8041825+00:00",
+  "LastChanged_Achievements": "2023-10-13T02:29:17.8735005+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:38.4284644+00:00",
-  "LastUpdate_Ratings": "2023-10-13T01:48:08.5090098+00:00",
-  "LastUpdate_Achievements": "2023-10-13T01:54:09.8043307+00:00"
+  "LastUpdate_Ratings": "2023-10-13T02:22:27.2650618+00:00",
+  "LastUpdate_Achievements": "2023-10-13T02:29:17.873657+00:00"
 }

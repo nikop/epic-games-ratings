@@ -7,15 +7,15 @@ Rating: 4.54 (Ranked 510)
 | ---- | ---------- | ----- |
 | Hotel California | 4.00% | ~27,790 |
 | Welcome To Hell-A | 4.00% | ~27,790 |
-| Dr. Reed, I Presume? | 3.00% | ~20,842 |
-| Git Gutte! | 3.00% | ~20,842 |
-| Break A Leg | 3.00% | ~20,842 |
-| Coup de Grâce | 3.00% | ~20,842 |
-| Hazardous Materials | 3.00% | ~20,842 |
-| Friends Like These | 3.00% | ~20,842 |
-| Apex Predator | 3.00% | ~20,842 |
-| Stacking the Deck | 3.00% | ~20,842 |
-| Personal Assistant Personally Assisted | 3.00% | ~20,842 |
+| Dr. Reed, I Presume? | 3.00% | ~20,843 |
+| Git Gutte! | 3.00% | ~20,843 |
+| Break A Leg | 3.00% | ~20,843 |
+| Coup de Grâce | 3.00% | ~20,843 |
+| Hazardous Materials | 3.00% | ~20,843 |
+| Friends Like These | 3.00% | ~20,843 |
+| Apex Predator | 3.00% | ~20,843 |
+| Stacking the Deck | 3.00% | ~20,843 |
+| Personal Assistant Personally Assisted | 3.00% | ~20,843 |
 | Anger Management | 2.00% | ~13,895 |
 | Perks of the Job | 2.00% | ~13,895 |
 | Bookworm | 2.00% | ~13,895 |
@@ -41,8 +41,8 @@ Rating: 4.54 (Ranked 510)
 | Internet Famous | 0.80% | ~5,558 |
 | On Safari | 0.70% | ~4,863 |
 | Not Even My Final Form | 0.70% | ~4,863 |
-| Make it So | 0.60% | ~4,168 |
-| Variety is the Spice of Death | 0.60% | ~4,168 |
+| Make it So | 0.60% | ~4,169 |
+| Variety is the Spice of Death | 0.60% | ~4,169 |
 | LA Influential | 0.50% | ~3,474 |
 | Gore Horse | 0.50% | ~3,474 |
 | Sole Survivor | 0.40% | ~2,779 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 510)
 | Donk! | 0.20% | ~1,390 |
 | Bucket List | 0.10% | ~695 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 694,750 (Ranked 22)  
+Progressed: 694,759 (Ranked 22)  
 Completed: 2,216 (0.32%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 2,216 (0.32%) (Ranked 200)
 | 2023-10-10 | 693,868 | 2,209 |
 | 2023-10-11 | 694,263 | 2,210 |
 | 2023-10-12 | 694,718 | 2,216 |
-| 2023-10-13 | 694,750 | 2,216 |
+| 2023-10-13 | 694,759 | 2,216 |
 ## Awards
 Max (Great Boss Battles): 6,407  (Ranked 58)  
 Sum: 9,574 (Ranked 91)  

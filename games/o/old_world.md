@@ -11,6 +11,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Friendly Family | 2.00% | ~293 |
 | Play a Single Player Game | 2.00% | ~293 |
 | Able | 1.00% | ~146 |
+| Ambitious | 1.00% | ~146 |
 | Architect | 1.00% | ~146 |
 | Enlightened | 1.00% | ~146 |
 | Glorious | 1.00% | ~146 |
@@ -34,7 +35,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Naming Landmarks | 1.00% | ~146 |
 | Trade Caravan | 1.00% | ~146 |
 | Kushite Paganism | 1.00% | ~146 |
-| Ambitious | 0.90% | ~132 |
 | Magnificent | 0.90% | ~132 |
 | Wise | 0.90% | ~132 |
 | Ishtar Gate | 0.90% | ~132 |

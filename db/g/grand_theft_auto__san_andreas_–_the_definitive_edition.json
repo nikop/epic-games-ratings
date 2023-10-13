@@ -4,7 +4,7 @@
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 472,
   "Ranking_Popularity": 232,
-  "Ranking_PopularitySum": 309,
+  "Ranking_PopularitySum": 306,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 157,
@@ -1160,10 +1160,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 509,
       "NumberOfAwardsMax": 347
+    },
+    {
+      "Time": "2023-10-13T02:17:29.2929634+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 529,
+      "NumberOfAwardsMax": 347
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 509,
+  "NumberOfAwards": 529,
   "NumberOfAwardsMax": 347,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1208,6 +1214,12 @@
       "Prefix": "This game has a",
       "Type": "Creative Community",
       "Count": 21
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 13165,
@@ -12962,9 +12974,9 @@
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-10-13T01:42:26.6428424+00:00",
-  "LastChanged_Achievements": "2023-10-13T01:49:39.4076913+00:00",
+  "LastChanged": "2023-10-13T02:17:29.2929632+00:00",
+  "LastChanged_Achievements": "2023-10-13T02:25:08.5395249+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:41.6586777+00:00",
-  "LastUpdate_Ratings": "2023-10-13T01:42:26.6428433+00:00",
-  "LastUpdate_Achievements": "2023-10-13T01:49:39.407791+00:00"
+  "LastUpdate_Ratings": "2023-10-13T02:17:29.2929638+00:00",
+  "LastUpdate_Achievements": "2023-10-13T02:25:08.5396548+00:00"
 }
