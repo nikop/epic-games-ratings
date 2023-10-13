@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 252,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -350,7 +350,7 @@
   ],
   "EOS_Progressed": 3468,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -5138,9 +5138,9 @@
       "ID": "ACH_ALL_WEAPONS",
       "SetID": "816efe",
       "Name": "One For Every Occasion",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 694
+      "UsersEstimate": 728
     },
     {
       "ID": "ACH_ALL_XENO_TECHS",
@@ -5491,8 +5491,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-10-12T17:00:05.6617832+00:00",
-  "LastChanged_Achievements": "2023-10-13T15:08:02.8334553+00:00",
+  "LastChanged_Achievements": "2023-10-13T16:08:51.0205843+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:06.8958078+00:00",
-  "LastUpdate_Ratings": "2023-10-13T15:00:17.2956503+00:00",
-  "LastUpdate_Achievements": "2023-10-13T15:08:02.8335067+00:00"
+  "LastUpdate_Ratings": "2023-10-13T16:00:57.1762931+00:00",
+  "LastUpdate_Achievements": "2023-10-13T16:08:51.0206705+00:00"
 }

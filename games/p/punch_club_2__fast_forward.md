@@ -42,8 +42,8 @@
 | Guiding on the right path | 48.00% | ~160 |
 | No blades in the gym | 46.00% | ~154 |
 | Champion – no way back | 44.00% | ~147 |
+| Underground dwellers | 43.00% | ~144 |
 | Deal with life | 42.00% | ~140 |
-| Underground dwellers | 42.00% | ~140 |
 | Responsible approach | 42.00% | ~140 |
 | Mom got better | 41.00% | ~137 |
 | GYM professional | 41.00% | ~137 |

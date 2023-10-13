@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 111,
   "Ranking_EOS_Progress": 669,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 391,
+  "Ranking_EOS_NewPlayers": 393,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2020-04-23T15:00:00+00:00",
@@ -4424,10 +4424,16 @@
       "Rating": 4.27,
       "NumberOfAwards": 7258,
       "NumberOfAwardsMax": 3807
+    },
+    {
+      "Time": "2023-10-13T16:00:31.8722641+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 7259,
+      "NumberOfAwardsMax": 3807
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7258,
+  "NumberOfAwards": 7259,
   "NumberOfAwardsMax": 3807,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4441,7 +4447,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 584
+      "Count": 585
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4497,8 +4503,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:31.4925823+00:00",
-  "LastChanged": "2023-10-12T18:58:53.2697392+00:00",
+  "LastChanged": "2023-10-13T16:00:31.8722639+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:45.8197116+00:00",
-  "LastUpdate_Ratings": "2023-10-13T14:59:52.5177553+00:00",
-  "LastUpdate_Achievements": "2023-10-13T15:05:02.6993132+00:00"
+  "LastUpdate_Ratings": "2023-10-13T16:00:31.8722644+00:00",
+  "LastUpdate_Achievements": "2023-10-13T16:05:24.0293187+00:00"
 }

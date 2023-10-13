@@ -9,12 +9,12 @@ Rating: 4.64 (Ranked 320)
 | A Thorny Situation | 70.00% | ~4,598 |
 | ... And Spit Back Out | 60.00% | ~3,941 |
 | Break-Net Speed | 48.00% | ~3,153 |
-| Bramble Breaker | 46.00% | ~3,021 |
+| Bramble Breaker | 46.00% | ~3,022 |
 | Miner 49er | 42.00% | ~2,759 |
 | Humble Collector | 41.00% | ~2,693 |
 | Calm Sailing | 35.00% | ~2,299 |
 | Open the Gate! | 32.00% | ~2,102 |
-| Mist Walker | 30.00% | ~1,970 |
+| Mist Walker | 30.00% | ~1,971 |
 | Lumberjack | 26.00% | ~1,708 |
 | Oui, Chef! | 22.00% | ~1,445 |
 | Clear the Air | 17.00% | ~1,117 |
@@ -22,7 +22,7 @@ Rating: 4.64 (Ranked 320)
 | Beach Comber | 13.00% | ~854 |
 | Search for the Hairy Grell | 12.00% | ~788 |
 | Higher Tax Bracket | 12.00% | ~788 |
-| Skilled | 8.00% | ~525 |
+| Skilled | 8.00% | ~526 |
 | Got to Catch Them All | 7.00% | ~460 |
 | Rumble in the Jumble | 7.00% | ~460 |
 | Fanatical Farmer | 7.00% | ~460 |
@@ -41,7 +41,7 @@ Rating: 4.64 (Ranked 320)
 | Giving the People What They Want | 0.10% | ~7 |
 | Very Skilled | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,568 (Ranked 162)  
+Progressed: 6,569 (Ranked 162)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-10-10 | 6,462 | 0 |
 | 2023-10-11 | 6,498 | 0 |
 | 2023-10-12 | 6,534 | 0 |
-| 2023-10-13 | 6,568 | 0 |
+| 2023-10-13 | 6,569 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

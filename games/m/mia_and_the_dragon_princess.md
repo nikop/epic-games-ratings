@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Glass Act | 37.00% | ~25 |
 | Tour Guide Extraordinaire | 37.00% | ~25 |
-| Glass Act | 36.00% | ~24 |
 | Relight my Cannon | 34.00% | ~23 |
 | Puzzle Prodigy | 24.00% | ~16 |
-| Snitch | 22.00% | ~15 |
-| A Box of Tricks | 19.00% | ~13 |
-| Explosive End | 19.00% | ~13 |
+| Snitch | 24.00% | ~16 |
+| A Box of Tricks | 21.00% | ~14 |
+| Explosive End | 21.00% | ~14 |
 | Backstory Buff | 18.00% | ~12 |
 | Finger-Lickin' Bad | 18.00% | ~12 |
 | Bathroom Brawler | 16.00% | ~11 |
@@ -23,7 +23,7 @@
 | Freedum Fighter | 3.00% | ~2 |
 | Escape Artist | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67 (Ranked 414)  
+Progressed: 67 (Ranked 415)  
 Completed: 1 (1.49%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |

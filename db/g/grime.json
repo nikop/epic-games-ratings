@@ -4,7 +4,7 @@
   "ProductSlug": "grime",
   "Ranking_Rating": 419,
   "Ranking_Popularity": 433,
-  "Ranking_PopularitySum": 356,
+  "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 62,
@@ -1004,10 +1004,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 282,
       "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2023-10-13T16:00:31.6680541+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 283,
+      "NumberOfAwardsMax": 44
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 282,
+  "NumberOfAwards": 283,
   "NumberOfAwardsMax": 44,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1051,7 +1057,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 39
+      "Count": 40
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1066,9 +1072,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 151834,
+  "EOS_Progressed": 151848,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1197,
+  "EOS_NewPlayers": 1196,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11411,6 +11417,11 @@
       "Time": "2023-10-13T15:03:41.3302716+00:00",
       "NumProgressed": 151834,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-13T16:03:40.5068944+00:00",
+      "NumProgressed": 151848,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -11789,21 +11800,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 151417,
+      "Progressed": 151431,
       "Completed": 1155
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 151834,
+      "Progressed": 151848,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2023-10-13T07:59:15.5371294+00:00",
-  "LastChanged_Achievements": "2023-10-13T15:03:41.3302713+00:00",
+  "LastChanged": "2023-10-13T16:00:31.6680539+00:00",
+  "LastChanged_Achievements": "2023-10-13T16:03:40.506894+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:46.4911319+00:00",
-  "LastUpdate_Ratings": "2023-10-13T14:59:52.3574442+00:00",
-  "LastUpdate_Achievements": "2023-10-13T15:03:41.3303636+00:00"
+  "LastUpdate_Ratings": "2023-10-13T16:00:31.6680543+00:00",
+  "LastUpdate_Achievements": "2023-10-13T16:03:40.507024+00:00"
 }

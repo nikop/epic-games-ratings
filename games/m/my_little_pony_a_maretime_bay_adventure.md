@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| An Adorable Thief | 86.00% | ~38 |
-| Unicycling 101 | 84.00% | ~37 |
-| Mane Street Awaits! | 73.00% | ~32 |
-| Pipp Pipp Parade! | 64.00% | ~28 |
-| Amateur Detective | 64.00% | ~28 |
-| Glowing Up | 61.00% | ~27 |
-| Pro Herder | 57.00% | ~25 |
-| The Neigh-gotiator | 57.00% | ~25 |
-| Sheriff's Apprentice | 55.00% | ~24 |
-| Where Did The Magic Go? | 50.00% | ~22 |
-| Friendship Is Still Magic | 50.00% | ~22 |
-| Starscout | 41.00% | ~18 |
-| W.I.N.G.S. Cadet | 32.00% | ~14 |
+| An Adorable Thief | 84.00% | ~38 |
+| Unicycling 101 | 82.00% | ~37 |
+| Mane Street Awaits! | 71.00% | ~32 |
+| Pipp Pipp Parade! | 62.00% | ~28 |
+| Amateur Detective | 62.00% | ~28 |
+| Glowing Up | 60.00% | ~27 |
+| Pro Herder | 56.00% | ~25 |
+| The Neigh-gotiator | 56.00% | ~25 |
+| Sheriff's Apprentice | 53.00% | ~24 |
+| Where Did The Magic Go? | 49.00% | ~22 |
+| Friendship Is Still Magic | 49.00% | ~22 |
+| Starscout | 40.00% | ~18 |
+| W.I.N.G.S. Cadet | 31.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44 (Ranked 445)  
-Completed: 13 (29.55%) (Ranked 9)  
+Progressed: 45 (Ranked 444)  
+Completed: 13 (28.89%) (Ranked 9)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -37,6 +37,7 @@ Completed: 13 (29.55%) (Ranked 9)
 | 2023-08-28 | 42 | 13 |
 | 2023-09-02 | 43 | 13 |
 | 2023-09-09 | 44 | 13 |
+| 2023-10-13 | 45 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,8 +7,8 @@
 | Solved The Spider of Lanka 1st Case | 13.00% | ~19 |
 | Solved first case | 8.00% | ~16 |
 | Solved second case | 8.00% | ~16 |
+| Solved third case | 7.00% | ~14 |
 | Solved The Spider of Lanka 2nd Case | 7.00% | ~10 |
-| Solved third case | 6.00% | ~12 |
 | Solved fourth case | 6.00% | ~12 |
 | Solved The Spider of Lanka 3rd Case | 6.00% | ~9 |
 | Solved fifth case | 4.00% | ~8 |

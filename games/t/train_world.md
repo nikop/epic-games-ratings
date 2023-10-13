@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| City Link | 40.00% | ~2 |
-| Billionaire Club | 20.00% | ~1 |
-| Full House | 20.00% | ~1 |
-| Speed Demon | 20.00% | ~1 |
-| Regional Express | 20.00% | ~1 |
-| Industrial Giant | 20.00% | ~1 |
-| Task Apprentice | 20.00% | ~1 |
-| Urban Network | 20.00% | ~1 |
-| Supply Chain | 20.00% | ~1 |
-| Mega Train | 20.00% | ~1 |
-| Heavy Load | 20.00% | ~1 |
-| Line Master | 20.00% | ~1 |
-| Industrial Revolution | 20.00% | ~1 |
-| Double Trouble | 20.00% | ~1 |
+| City Link | 33.00% | ~2 |
+| Billionaire Club | 17.00% | ~1 |
+| Full House | 17.00% | ~1 |
+| Speed Demon | 17.00% | ~1 |
+| Regional Express | 17.00% | ~1 |
+| Industrial Giant | 17.00% | ~1 |
+| Task Apprentice | 17.00% | ~1 |
+| Urban Network | 17.00% | ~1 |
+| Supply Chain | 17.00% | ~1 |
+| Mega Train | 17.00% | ~1 |
+| Heavy Load | 17.00% | ~1 |
+| Line Master | 17.00% | ~1 |
+| Industrial Revolution | 17.00% | ~1 |
+| Double Trouble | 17.00% | ~1 |
 | Capital Connection | 0.00% | ~0 |
 | World Explorer | 0.00% | ~0 |
 | Mass Upgrade | 0.00% | ~0 |
@@ -55,7 +55,7 @@
 | Money Matters | 0.00% | ~0 |
 | Long Train | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5 (Ranked 554)  
+Progressed: 6 (Ranked 544)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,3 +64,4 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-10-08 | 3 | 0 |
 | 2023-10-11 | 4 | 0 |
 | 2023-10-12 | 5 | 0 |
+| 2023-10-13 | 6 | 0 |

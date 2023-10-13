@@ -5,32 +5,32 @@ Rating: 4.03 (Ranked 960)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 90.00% | ~76 |
-| Battlefields Have Memories | 90.00% | ~76 |
-| Enlisted | 89.00% | ~75 |
-| Maybe Engage a Little | 82.00% | ~69 |
-| No More Names | 70.00% | ~59 |
-| Initiate | 61.00% | ~51 |
-| Thrada-Kul | 56.00% | ~47 |
-| Gravity-Challenged Rocks | 48.00% | ~40 |
-| Soldier | 42.00% | ~35 |
+| Unforeseen | 91.00% | ~77 |
+| Battlefields Have Memories | 91.00% | ~77 |
+| Enlisted | 89.00% | ~76 |
+| Maybe Engage a Little | 82.00% | ~70 |
+| No More Names | 69.00% | ~59 |
+| Initiate | 60.00% | ~51 |
+| Thrada-Kul | 55.00% | ~47 |
+| Gravity-Challenged Rocks | 47.00% | ~40 |
+| Soldier | 41.00% | ~35 |
 | All the Major Food Groups | 40.00% | ~34 |
-| Beggars Would Ride | 36.00% | ~30 |
-| Control is an Illusion | 35.00% | ~29 |
-| Socialite | 35.00% | ~29 |
-| The Means to Save It | 29.00% | ~24 |
+| Beggars Would Ride | 35.00% | ~30 |
+| Control is an Illusion | 34.00% | ~29 |
+| Socialite | 34.00% | ~29 |
+| The Means to Save It | 28.00% | ~24 |
 | Resilience to Sin | 24.00% | ~20 |
 | A Familiar Nest | 20.00% | ~17 |
 | Periapt Alizarin | 20.00% | ~17 |
 | Geas Aristeya | 19.00% | ~16 |
 | Armsman | 19.00% | ~16 |
-| A Perfect Cycle | 17.00% | ~14 |
-| Recruit | 17.00% | ~14 |
+| A Perfect Cycle | 16.00% | ~14 |
+| Recruit | 16.00% | ~14 |
 | Good Boy | 13.00% | ~11 |
 | Lights Army | 11.00% | ~9 |
 | Periapt Cerulean | 11.00% | ~9 |
-| Periapt Viridian | 10.00% | ~8 |
-| Shroudfane Explorer | 10.00% | ~8 |
+| Periapt Viridian | 9.00% | ~8 |
+| Shroudfane Explorer | 9.00% | ~8 |
 | Armaments Gules | 8.00% | ~7 |
 | Scholar | 7.00% | ~6 |
 | Armaments Azure | 7.00% | ~6 |
@@ -53,7 +53,7 @@ Rating: 4.03 (Ranked 960)
 | Out of Time | 0.00% | ~0 |
 | Fowl Play | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 84 (Ranked 400)  
+Progressed: 85 (Ranked 400)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-10-09 | 75 | 0 |
 | 2023-10-10 | 77 | 0 |
 | 2023-10-11 | 83 | 0 |
-| 2023-10-13 | 84 | 0 |
+| 2023-10-13 | 85 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

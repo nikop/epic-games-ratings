@@ -585,9 +585,9 @@
       "ID": "ACHIEVEMENT_03",
       "SetID": "ap8553i",
       "Name": "Weapon of Choice",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -1150,8 +1150,8 @@
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-10-13T15:07:32.3017582+00:00",
+  "LastChanged_Achievements": "2023-10-13T16:08:15.6151985+00:00",
   "LastUpdate_AppInfo": "2023-10-11T21:57:06.97719+00:00",
-  "LastUpdate_Ratings": "2023-10-13T14:58:11.8939586+00:00",
-  "LastUpdate_Achievements": "2023-10-13T15:07:32.3018233+00:00"
+  "LastUpdate_Ratings": "2023-10-13T15:58:37.4655944+00:00",
+  "LastUpdate_Achievements": "2023-10-13T16:08:15.6152933+00:00"
 }

@@ -6,44 +6,44 @@ Number of Ratings: 743  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 69.00% | ~30,101 |
-| Say goodbye, creep! | 66.00% | ~28,792 |
-| Blood splattered | 65.00% | ~28,356 |
-| Groovy | 62.00% | ~27,047 |
-| Choo choo! | 62.00% | ~27,047 |
-| Cleanup on aisle 4! | 57.00% | ~24,866 |
-| Gold | 50.00% | ~21,812 |
-| The boat can leave now...tell the crew | 49.00% | ~21,376 |
-| Give me something to shoot! | 47.00% | ~20,503 |
-| Stand back boy! | 47.00% | ~20,503 |
-| Chain reaction | 45.00% | ~19,631 |
+| Shoot it, man! Shoot it in the head! | 69.00% | ~30,102 |
+| Say goodbye, creep! | 66.00% | ~28,793 |
+| Blood splattered | 65.00% | ~28,357 |
+| Groovy | 62.00% | ~27,048 |
+| Choo choo! | 62.00% | ~27,048 |
+| Cleanup on aisle 4! | 57.00% | ~24,867 |
+| Gold | 50.00% | ~21,813 |
+| The boat can leave now...tell the crew | 49.00% | ~21,377 |
+| Give me something to shoot! | 47.00% | ~20,504 |
+| Stand back boy! | 47.00% | ~20,504 |
+| Chain reaction | 45.00% | ~19,632 |
 | Weird science | 44.00% | ~19,195 |
-| What did you say, Blain? | 42.00% | ~18,322 |
-| Look mummy! A shark! | 41.00% | ~17,886 |
-| In the dark dark woods... | 39.00% | ~17,013 |
-| Come and get it! It's a running buffet! | 38.00% | ~16,577 |
-| Double tap | 37.00% | ~16,141 |
+| What did you say, Blain? | 42.00% | ~18,323 |
+| Look mummy! A shark! | 41.00% | ~17,887 |
+| In the dark dark woods... | 39.00% | ~17,014 |
+| Come and get it! It's a running buffet! | 38.00% | ~16,578 |
+| Double tap | 37.00% | ~16,142 |
 | All of this has happened before… | 36.00% | ~15,705 |
 | Cranial blowout! | 36.00% | ~15,705 |
 | Zombie killin' machine | 36.00% | ~15,705 |
 | Every bullet counts | 36.00% | ~15,705 |
-| All roads lead to Rome | 34.00% | ~14,832 |
-| You've got red on you | 34.00% | ~14,832 |
+| All roads lead to Rome | 34.00% | ~14,833 |
+| You've got red on you | 34.00% | ~14,833 |
 | You're all going to die down here | 32.00% | ~13,960 |
 | He did Nazi that coming | 32.00% | ~13,960 |
-| Kill of the week | 31.00% | ~13,523 |
-| I never liked them anyway | 30.00% | ~13,087 |
+| Kill of the week | 31.00% | ~13,524 |
+| I never liked them anyway | 30.00% | ~13,088 |
 | Is it over? | 28.00% | ~12,215 |
-| Got your back | 27.00% | ~11,778 |
+| Got your back | 27.00% | ~11,779 |
 | Gore soaked | 24.00% | ~10,470 |
 | Shock therapy | 23.00% | ~10,034 |
 | Leave the limbs you've lost | 23.00% | ~10,034 |
 | Everyone's a mad scientist, life is the lab | 19.00% | ~8,289 |
-| Take them down screaming | 18.00% | ~7,852 |
+| Take them down screaming | 18.00% | ~7,853 |
 | Bad Blood | 17.00% | ~7,416 |
 | Weapons expert | 17.00% | ~7,416 |
 | The bigger they are... | 15.00% | ~6,544 |
-| I'm going deeper underground | 14.00% | ~6,107 |
+| I'm going deeper underground | 14.00% | ~6,108 |
 | Well equipped | 13.00% | ~5,671 |
 | Into the deep | 12.00% | ~5,235 |
 | Damnedbusters | 9.00% | ~3,926 |
@@ -56,11 +56,11 @@ Number of Ratings: 743  (23.09.2022)
 | Gotcha, didn't I? | 7.00% | ~3,054 |
 | A gross gross | 7.00% | ~3,054 |
 | Hail to the king, baby! | 7.00% | ~3,054 |
-| Something wicked this way comes | 6.00% | ~2,617 |
-| Take a little bit of Italy with you | 6.00% | ~2,617 |
-| Staring at Shadows | 6.00% | ~2,617 |
-| I told you we should have gone to the beach | 6.00% | ~2,617 |
-| Hoarder | 6.00% | ~2,617 |
+| Something wicked this way comes | 6.00% | ~2,618 |
+| Take a little bit of Italy with you | 6.00% | ~2,618 |
+| Staring at Shadows | 6.00% | ~2,618 |
+| I told you we should have gone to the beach | 6.00% | ~2,618 |
+| Hoarder | 6.00% | ~2,618 |
 | Kali Ma | 5.00% | ~2,181 |
 | Have you tried turning it off and on again? | 5.00% | ~2,181 |
 | They're coming to get you Barbara | 4.00% | ~1,745 |
@@ -69,11 +69,11 @@ Number of Ratings: 743  (23.09.2022)
 | People don't change. We go round in circles | 3.00% | ~1,309 |
 | The blighters got through a second time. | 3.00% | ~1,309 |
 | I'm a survivor! | 3.00% | ~1,309 |
-| That's a lot of them, and only 4 of us | 2.00% | ~872 |
+| That's a lot of them, and only 4 of us | 2.00% | ~873 |
 | Just me and my trusty sidearm | 1.00% | ~436 |
 | None more hard | 0.50% | ~218 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,624 (Ranked 103)  
+Progressed: 43,626 (Ranked 103)  
 Completed: 25 (0.06%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,7 +249,7 @@ Completed: 25 (0.06%) (Ranked 265)
 | 2023-10-10 | 43,601 | 25 |
 | 2023-10-11 | 43,608 | 25 |
 | 2023-10-12 | 43,618 | 25 |
-| 2023-10-13 | 43,624 | 25 |
+| 2023-10-13 | 43,626 | 25 |
 ## Awards
 Max (Great Boss Battles): 833  (Ranked 159)  
 Sum: 2,514 (Ranked 182)  

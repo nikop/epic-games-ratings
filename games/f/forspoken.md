@@ -1,12 +1,12 @@
 # Forspoken
 [Store](https://store.epicgames.com/en-US/p/forspoken)  
 [View Rawdata](../../db/f/forspoken.json)  
-Rating: 4.15 (Ranked 915)  
+Rating: 4.15 (Ranked 914)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Attachments | 10.00% | ~4,208 |
-| Unlocked Potential | 9.00% | ~3,787 |
+| Unlocked Potential | 9.00% | ~3,788 |
 | Tinkerer | 7.00% | ~2,946 |
 | Knock 'Em Dead | 7.00% | ~2,946 |
 | Leapfrogger | 6.00% | ~2,525 |
@@ -18,10 +18,10 @@ Rating: 4.15 (Ranked 915)
 | Through the Eyes of Another: Empath | 4.00% | ~1,683 |
 | Stuck | 4.00% | ~1,683 |
 | Help Me Out Here | 4.00% | ~1,683 |
-| Outdoorsperson | 3.00% | ~1,262 |
-| The Interloper | 3.00% | ~1,262 |
-| Hop, Step, Jump | 3.00% | ~1,262 |
-| Endless Runner | 3.00% | ~1,262 |
+| Outdoorsperson | 3.00% | ~1,263 |
+| The Interloper | 3.00% | ~1,263 |
+| Hop, Step, Jump | 3.00% | ~1,263 |
+| Endless Runner | 3.00% | ~1,263 |
 | What Must Be Done | 2.00% | ~842 |
 | Might and Main | 2.00% | ~842 |
 | Damned If You Do... | 2.00% | ~842 |
@@ -36,8 +36,8 @@ Rating: 4.15 (Ranked 915)
 | Pilgrimage: Novice | 1.00% | ~421 |
 | Wildfire | 0.70% | ~295 |
 | Realized Potential | 0.70% | ~295 |
-| Awakening | 0.60% | ~252 |
-| Explorer: Trailblazer | 0.60% | ~252 |
+| Awakening | 0.60% | ~253 |
+| Explorer: Trailblazer | 0.60% | ~253 |
 | Through the Eyes of Another: Seer | 0.50% | ~210 |
 | Archivist | 0.30% | ~126 |
 | Craftsperson | 0.30% | ~126 |
@@ -59,7 +59,7 @@ Rating: 4.15 (Ranked 915)
 | Remembrance | 0.10% | ~42 |
 | Cat Person | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,083 (Ranked 107)  
+Progressed: 42,085 (Ranked 107)  
 Completed: 3 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,7 +235,7 @@ Completed: 3 (0.01%) (Ranked 296)
 | 2023-10-10 | 42,019 | 3 |
 | 2023-10-11 | 42,044 | 3 |
 | 2023-10-12 | 42,075 | 3 |
-| 2023-10-13 | 42,083 | 3 |
+| 2023-10-13 | 42,085 | 3 |
 ## Awards
 Max (Character Customization): 28  (Ranked 482)  
 Sum: 28 (Ranked 496)  

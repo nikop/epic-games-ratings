@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3506,7 +3506,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73463,
+  "EOS_Progressed": 73464,
   "EOS_Completed": 121,
   "EOS_NewPlayers": 257,
   "EOS_NewCompleters": 1,
@@ -18536,6 +18536,11 @@
       "Time": "2023-10-13T14:04:55.9066525+00:00",
       "NumProgressed": 73463,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-10-13T16:04:53.8043696+00:00",
+      "NumProgressed": 73464,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 61,
@@ -18595,7 +18600,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16896
+      "UsersEstimate": 16897
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -18635,7 +18640,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11019
+      "UsersEstimate": 11020
     },
     {
       "ID": "CHALLENGES_1",
@@ -18659,7 +18664,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13223
+      "UsersEstimate": 13224
     },
     {
       "ID": "CLAYFACE_3",
@@ -18771,7 +18776,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21304
+      "UsersEstimate": 21305
     },
     {
       "ID": "FREEZE_1_5",
@@ -18939,7 +18944,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24977
+      "UsersEstimate": 24978
     },
     {
       "ID": "MYSTERY_02",
@@ -18955,7 +18960,7 @@
       "Name": "Lock and Key",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16896
+      "UsersEstimate": 16897
     },
     {
       "ID": "MYSTERY_04",
@@ -18971,7 +18976,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13223
+      "UsersEstimate": 13224
     },
     {
       "ID": "MYSTERY_06",
@@ -18979,7 +18984,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11019
+      "UsersEstimate": 11020
     },
     {
       "ID": "MYSTERY_07",
@@ -19034,13 +19039,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73463,
+      "Progressed": 73464,
       "Completed": 121
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43743,
+      "Progressed": 43744,
       "Completed": 2667
     }
   ],
@@ -19048,8 +19053,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-13T13:58:03.1576521+00:00",
-  "LastChanged_Achievements": "2023-10-13T15:04:36.2742226+00:00",
+  "LastChanged_Achievements": "2023-10-13T16:04:53.804369+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:31.3761181+00:00",
-  "LastUpdate_Ratings": "2023-10-13T14:57:44.707076+00:00",
-  "LastUpdate_Achievements": "2023-10-13T15:04:36.2743542+00:00"
+  "LastUpdate_Ratings": "2023-10-13T15:58:05.1051978+00:00",
+  "LastUpdate_Achievements": "2023-10-13T16:04:53.8045302+00:00"
 }

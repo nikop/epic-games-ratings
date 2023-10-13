@@ -1845,7 +1845,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14641,
+  "EOS_Progressed": 14644,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 222,
   "EOS_NewCompleters": 0,
@@ -13745,6 +13745,11 @@
       "Time": "2023-10-13T15:07:22.7341028+00:00",
       "NumProgressed": 14641,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-13T16:08:05.1397366+00:00",
+      "NumProgressed": 14644,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -13804,7 +13809,7 @@
       "Name": "Regicide",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ACHIEVEMENT_ASSASSINATED_BY_HEIR",
@@ -14132,7 +14137,7 @@
       "Name": "Drillmaster",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_BRILLIANT",
@@ -14404,7 +14409,7 @@
       "Name": "Valiant",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_VICTORIOUS",
@@ -14460,7 +14465,7 @@
       "Name": "Legendary Cities",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ACHIEVEMENT_CULTURE_STRONG",
@@ -14498,9 +14503,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_GLORIOUS",
       "SetID": "7l38kb8",
       "Name": "Glorious Difficulty",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_GOOD",
@@ -14522,9 +14527,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_JUST",
       "SetID": "7l38kb8",
       "Name": "Just Difficulty",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 103
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_MAGNIFICENT",
@@ -14538,9 +14543,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_NOBLE",
       "SetID": "7l38kb8",
       "Name": "Noble Difficulty",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_STRONG",
@@ -14588,7 +14593,7 @@
       "Name": "Artisans",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_CHAMPIONS",
@@ -15084,7 +15089,7 @@
       "Name": "Apadana",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_CIRCUS_MAXIMUS",
@@ -15100,7 +15105,7 @@
       "Name": "Colossus",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_GREAT_ZIGGURAT",
@@ -15196,7 +15201,7 @@
       "Name": "Necropolis",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_ORACLE",
@@ -15284,7 +15289,7 @@
       "Name": "Learn to Play 2",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_3",
@@ -16491,21 +16496,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14641,
+      "Progressed": 14644,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14641,
+      "Progressed": 14644,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-13T13:09:24.1793459+00:00",
-  "LastChanged_Achievements": "2023-10-13T15:07:22.7341014+00:00",
+  "LastChanged_Achievements": "2023-10-13T16:08:05.139736+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:48.3987129+00:00",
-  "LastUpdate_Ratings": "2023-10-13T15:03:20.4381555+00:00",
-  "LastUpdate_Achievements": "2023-10-13T15:07:22.7351166+00:00"
+  "LastUpdate_Ratings": "2023-10-13T16:03:15.1154485+00:00",
+  "LastUpdate_Achievements": "2023-10-13T16:08:05.1410936+00:00"
 }

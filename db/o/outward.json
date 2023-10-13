@@ -5352,9 +5352,9 @@
       "ID": "ReadyforSummer_41",
       "SetID": "c4hee28",
       "Name": "Ready for Summer",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1860
+      "UsersEstimate": 1895
     },
     {
       "ID": "ReadyforWinter_42",
@@ -5512,8 +5512,8 @@
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-17T17:59:20.5916626+00:00",
-  "LastChanged_Achievements": "2023-10-13T15:06:26.6627226+00:00",
+  "LastChanged_Achievements": "2023-10-13T16:07:00.4291379+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:05.8735773+00:00",
-  "LastUpdate_Ratings": "2023-10-13T15:00:16.8105895+00:00",
-  "LastUpdate_Achievements": "2023-10-13T15:06:26.6627694+00:00"
+  "LastUpdate_Ratings": "2023-10-13T16:00:56.839505+00:00",
+  "LastUpdate_Achievements": "2023-10-13T16:07:00.4292107+00:00"
 }

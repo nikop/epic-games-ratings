@@ -2,7 +2,7 @@
   "ID": "c466c310959a47d9a3d59acdd77a0caa",
   "Name": "Mia and the Dragon Princess",
   "ProductSlug": "mia-and-the-dragon-princess-f4e1d0",
-  "Ranking_EOS_Progress": 414,
+  "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 122,
   "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 113,
@@ -370,9 +370,9 @@
       "ID": "a_box_of_tricks",
       "SetID": "5anb57n",
       "Name": "A Box of Tricks",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 90,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "backstory_buff",
@@ -418,9 +418,9 @@
       "ID": "explosive_end",
       "SetID": "5anb57n",
       "Name": "Explosive End",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 90,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "finger_lickin_bad",
@@ -458,9 +458,9 @@
       "ID": "glass_act",
       "SetID": "5anb57n",
       "Name": "Glass Act",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "key_keepers_curse",
@@ -498,9 +498,9 @@
       "ID": "snitch",
       "SetID": "5anb57n",
       "Name": "Snitch",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "tour_guide_extraordinaire",
@@ -521,8 +521,8 @@
   ],
   "FirstSeen": "2023-05-13T16:58:04.6283661+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:18.2098384+00:00",
-  "LastChanged_Achievements": "2023-10-13T15:09:08.7607817+00:00",
+  "LastChanged_Achievements": "2023-10-13T16:09:31.154017+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:16.5255346+00:00",
-  "LastUpdate_Ratings": "2023-10-13T15:00:39.2201247+00:00",
-  "LastUpdate_Achievements": "2023-10-13T15:09:08.7607924+00:00"
+  "LastUpdate_Ratings": "2023-10-13T16:01:19.6479922+00:00",
+  "LastUpdate_Achievements": "2023-10-13T16:09:31.1540379+00:00"
 }

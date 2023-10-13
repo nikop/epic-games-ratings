@@ -6,9 +6,9 @@
   "Ranking_Popularity": 535,
   "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 135,
-  "Ranking_EOS_Completed": 234,
+  "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 22,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -166,11 +166,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13911,
-  "EOS_Completed": 21,
-  "EOS_NewPlayers": 282,
-  "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 0.15,
+  "EOS_Progressed": 13913,
+  "EOS_Completed": 22,
+  "EOS_NewPlayers": 281,
+  "EOS_NewCompleters": 9,
+  "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
     {
       "Time": "2023-07-26T16:06:14.482825+00:00",
@@ -8521,6 +8521,11 @@
       "Time": "2023-10-13T14:05:48.4183663+00:00",
       "NumProgressed": 13911,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-10-13T16:05:49.5747279+00:00",
+      "NumProgressed": 13913,
+      "NumCompleted": 22
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -8549,7 +8554,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "12",
@@ -8563,9 +8568,9 @@
       "ID": "13",
       "SetID": "458bbdk",
       "Name": "Oyedang, Kopengs",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1669
+      "UsersEstimate": 1809
     },
     {
       "ID": "14",
@@ -8685,7 +8690,7 @@
       "Name": "Bosmang",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "28",
@@ -8772,16 +8777,16 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13911,
-      "Completed": 21
+      "Progressed": 13913,
+      "Completed": 22
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-13T09:00:57.1370573+00:00",
-  "LastChanged_Achievements": "2023-10-13T15:05:25.1629848+00:00",
+  "LastChanged_Achievements": "2023-10-13T16:05:49.5747272+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:56.4622667+00:00",
-  "LastUpdate_Ratings": "2023-10-13T15:00:27.2372004+00:00",
-  "LastUpdate_Achievements": "2023-10-13T15:05:25.1630422+00:00"
+  "LastUpdate_Ratings": "2023-10-13T16:01:06.4918691+00:00",
+  "LastUpdate_Achievements": "2023-10-13T16:05:49.5748026+00:00"
 }

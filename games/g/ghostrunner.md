@@ -7,21 +7,21 @@ Number of Ratings: 1,047  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Longrunner | 76.00% | ~15,151 |
-| Sword Runner | 61.00% | ~12,160 |
+| Sword Runner | 61.00% | ~12,161 |
 | Running out of breath | 54.00% | ~10,765 |
 | Wallrunner | 53.00% | ~10,566 |
 | Homerunner | 45.00% | ~8,971 |
-| Out of order | 44.00% | ~8,771 |
+| Out of order | 44.00% | ~8,772 |
 | I call it luck | 43.00% | ~8,572 |
 | Where are my Keys? | 40.00% | ~7,974 |
 | Back to hell | 37.00% | ~7,376 |
-| Perfection | 32.00% | ~6,379 |
-| Why not both | 30.00% | ~5,980 |
+| Perfection | 32.00% | ~6,380 |
+| Why not both | 30.00% | ~5,981 |
 | Sword to a gunfight | 29.00% | ~5,781 |
 | Upgrades not mandatory | 29.00% | ~5,781 |
 | Artificial selection | 28.00% | ~5,582 |
-| Control freak | 27.00% | ~5,382 |
-| Running Wild | 27.00% | ~5,382 |
+| Control freak | 27.00% | ~5,383 |
+| Running Wild | 27.00% | ~5,383 |
 | Finish line | 26.00% | ~5,183 |
 | Unstoppable force | 22.00% | ~4,386 |
 | Wave of mutilation | 22.00% | ~4,386 |
@@ -33,7 +33,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Strike | 12.00% | ~2,392 |
 | More than human | 11.00% | ~2,193 |
 | Triple A | 9.00% | ~1,794 |
-| One Of Those Days | 7.00% | ~1,395 |
+| One Of Those Days | 7.00% | ~1,396 |
 | Fine addition | 6.00% | ~1,196 |
 | Where He Stood | 5.00% | ~997 |
 | About Adam | 4.00% | ~797 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~80 |
 | Up Close And Personal | 0.40% | ~80 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,935 (Ranked 125)  
+Progressed: 19,936 (Ranked 125)  
 Completed: 74 (0.37%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,11 +228,11 @@ Completed: 74 (0.37%) (Ranked 195)
 | 2023-10-10 | 19,768 | 74 |
 | 2023-10-11 | 19,822 | 74 |
 | 2023-10-12 | 19,893 | 74 |
-| 2023-10-13 | 19,935 | 74 |
+| 2023-10-13 | 19,936 | 74 |
 ## Awards
 Max (Great Boss Battles): 505  (Ranked 203)  
-Sum: 724 (Ranked 281)  
-Diff (max vs sum): -78  
+Sum: 724 (Ranked 282)  
+Diff (max vs sum): -79  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 505 |

@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A path of no return | 99.00% | ~97 |
-| A bottomless pit | 84.00% | ~82 |
-| Pigeon | 80.00% | ~78 |
+| A path of no return | 99.00% | ~98 |
+| A bottomless pit | 84.00% | ~83 |
+| Pigeon | 80.00% | ~79 |
 | Baited | 67.00% | ~66 |
 | "Swoosh" | 60.00% | ~59 |
 | The light at the end of the tunnel | 59.00% | ~58 |
-| Splash! | 54.00% | ~53 |
+| Splash! | 55.00% | ~54 |
 | Masochistic | 53.00% | ~52 |
-| Soft skin | 50.00% | ~49 |
-| Squid game | 44.00% | ~43 |
-| Rock Solid | 35.00% | ~34 |
-| Sensitive soul | 35.00% | ~34 |
-| The beast within | 33.00% | ~32 |
-| It's getting dark | 33.00% | ~32 |
-| Hard Rock | 33.00% | ~32 |
-| Rooftop | 29.00% | ~28 |
-| Homeless | 29.00% | ~28 |
-| Big badaboom! | 27.00% | ~26 |
+| Soft skin | 49.00% | ~49 |
+| Squid game | 43.00% | ~43 |
+| Rock Solid | 34.00% | ~34 |
+| Sensitive soul | 34.00% | ~34 |
+| The beast within | 32.00% | ~32 |
+| It's getting dark | 32.00% | ~32 |
+| Hard Rock | 32.00% | ~32 |
+| Rooftop | 28.00% | ~28 |
+| Homeless | 28.00% | ~28 |
+| Big badaboom! | 26.00% | ~26 |
 | Magnitude 5 | 24.00% | ~24 |
 | Bookworm | 24.00% | ~24 |
 | Payback | 23.00% | ~23 |
@@ -39,7 +39,7 @@
 | Gold digger | 0.00% | ~0 |
 | Speedrunner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 98 (Ranked 388)  
+Progressed: 99 (Ranked 388)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,3 +93,4 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-09-27 | 95 | 0 |
 | 2023-09-30 | 97 | 0 |
 | 2023-10-10 | 98 | 0 |
+| 2023-10-13 | 99 | 0 |

@@ -34,10 +34,10 @@
 | Stellar Haste | 9.00% | ~5 |
 | Wave Bender | 9.00% | ~5 |
 | Anomaly Control | 8.00% | ~4 |
+| Can't touch this | 8.00% | ~4 |
 | Heavy Purger | 8.00% | ~4 |
 | Apian Hero | 8.00% | ~4 |
 | Lacertian Hero | 8.00% | ~4 |
-| Can't touch this | 6.00% | ~3 |
 | Denying Destiny | 6.00% | ~3 |
 | Purification Avatar | 6.00% | ~3 |
 | The Abyssal Terror | 6.00% | ~3 |

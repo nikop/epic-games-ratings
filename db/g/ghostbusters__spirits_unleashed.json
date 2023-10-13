@@ -2376,9 +2376,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26394,
+  "EOS_Progressed": 26396,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -14816,6 +14816,11 @@
       "Time": "2023-10-13T15:05:45.4259971+00:00",
       "NumProgressed": 26394,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-10-13T16:06:12.5607877+00:00",
+      "NumProgressed": 26396,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 51,
@@ -14969,9 +14974,9 @@
       "ID": "GB_In_Training",
       "SetID": "819popo",
       "Name": "Ghostbuster In Training",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 211
     },
     {
       "ID": "Ghost_Expert",
@@ -15234,7 +15239,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26394,
+      "Progressed": 26396,
       "Completed": 58
     }
   ],
@@ -15242,8 +15247,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-12T23:57:52.2890853+00:00",
-  "LastChanged_Achievements": "2023-10-13T15:05:45.4259965+00:00",
+  "LastChanged_Achievements": "2023-10-13T16:06:12.5607872+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:25.2013042+00:00",
-  "LastUpdate_Ratings": "2023-10-13T14:58:08.2798248+00:00",
-  "LastUpdate_Achievements": "2023-10-13T15:05:45.4260977+00:00"
+  "LastUpdate_Ratings": "2023-10-13T15:58:33.1988748+00:00",
+  "LastUpdate_Achievements": "2023-10-13T16:06:12.5609498+00:00"
 }
