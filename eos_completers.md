@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 51.30% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 51.26% |
 | 3 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 47.17% |
 | 5 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.34% |
@@ -26,7 +26,7 @@
 | 23 | [Seven Doors](games/s/seven_doors.md) | 14.29% |
 | 25 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 12.77% |
 | 26 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 12.50% |
-| 27 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.27% |
+| 27 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.26% |
 | 28 | [Remains](games/r/remains.md) | 12.00% |
 | 29 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 11.59% |
 | 30 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 11.48% |
@@ -43,7 +43,7 @@
 | 41 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.67% |
 | 42 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 42 | [Ravenlok](games/r/ravenlok.md) | 7.69% |
-| 44 | [Sonic Origins](games/s/sonic_origins.md) | 7.65% |
+| 44 | [Sonic Origins](games/s/sonic_origins.md) | 7.64% |
 | 45 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.61% |
 | 46 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.54% |
 | 47 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.41% |
@@ -138,8 +138,8 @@
 | 136 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 1.30% |
 | 137 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.18% |
 | 138 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.13% |
-| 139 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.09% |
-| 139 | [Trifox](games/t/trifox.md) | 1.09% |
+| 139 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.10% |
+| 140 | [Trifox](games/t/trifox.md) | 1.09% |
 | 141 | [Adios](games/a/adios.md) | 1.05% |
 | 141 | [Infindustry](games/i/infindustry.md) | 1.05% |
 | 141 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.05% |
@@ -229,11 +229,11 @@
 | 227 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.18% |
 | 228 | [RAILGRADE](games/r/railgrade.md) | 0.17% |
 | 228 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.17% |
-| 230 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
-| 230 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
-| 230 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
-| 230 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.16% |
-| 230 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.16% |
+| 228 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.17% |
+| 231 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
+| 231 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
+| 231 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
+| 231 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.16% |
 | 235 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
 | 236 | [BLACKTAIL](games/b/blacktail.md) | 0.14% |
 | 237 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
