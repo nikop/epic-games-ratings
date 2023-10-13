@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 51.72% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 51.70% |
 | 3 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 47.17% |
 | 5 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.72% |
@@ -49,7 +49,7 @@
 | 47 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.41% |
 | 48 | [Time Loader](games/t/time_loader.md) | 7.20% |
 | 49 | [Scorn](games/s/scorn.md) | 7.02% |
-| 50 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.81% |
+| 50 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.79% |
 | 51 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.59% |
 | 52 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.29% |
 | 53 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -66,8 +66,8 @@
 | 64 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.76% |
 | 65 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.74% |
 | 66 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
-| 67 | [ZZT!](games/z/zzt!.md) | 4.47% |
-| 68 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.46% |
+| 67 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.46% |
+| 67 | [ZZT!](games/z/zzt!.md) | 4.46% |
 | 69 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.11% |
 | 70 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.06% |
 | 71 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 3.95% |
@@ -105,11 +105,11 @@
 | 103 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.41% |
 | 104 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.40% |
 | 105 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.37% |
-| 105 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.37% |
+| 106 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.36% |
 | 107 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.33% |
 | 108 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.22% |
 | 109 | [Bloodshore](games/b/bloodshore.md) | 2.14% |
-| 110 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.10% |
+| 110 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.09% |
 | 111 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.00% |
 | 112 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.98% |
 | 113 | [Night Book](games/n/night_book.md) | 1.86% |
@@ -185,9 +185,9 @@
 | 178 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.46% |
 | 178 | [Them and Us](games/t/them_and_us.md) | 0.46% |
 | 185 | [Tchia](games/t/tchia.md) | 0.44% |
-| 186 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.42% |
-| 186 | [It Takes Two](games/i/it_takes_two.md) | 0.42% |
-| 186 | [Wildermyth](games/w/wildermyth.md) | 0.42% |
+| 186 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.43% |
+| 186 | [It Takes Two](games/i/it_takes_two.md) | 0.43% |
+| 188 | [Wildermyth](games/w/wildermyth.md) | 0.42% |
 | 189 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 190 | [Train Valley](games/t/train_valley.md) | 0.39% |
 | 191 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.38% |
