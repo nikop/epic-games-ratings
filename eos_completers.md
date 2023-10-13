@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 51.62% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 51.59% |
 | 3 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 47.17% |
 | 5 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.72% |
@@ -66,16 +66,16 @@
 | 64 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.76% |
 | 65 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.74% |
 | 66 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
-| 67 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.46% |
-| 67 | [ZZT!](games/z/zzt!.md) | 4.46% |
+| 67 | [ZZT!](games/z/zzt!.md) | 4.49% |
+| 68 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.46% |
 | 69 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.11% |
 | 70 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.06% |
 | 71 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 3.94% |
-| 72 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.89% |
+| 72 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.90% |
 | 73 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.84% |
 | 74 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.82% |
 | 75 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
-| 76 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.70% |
+| 76 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.69% |
 | 77 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
 | 77 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.57% |
 | 79 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
@@ -126,12 +126,12 @@
 | 124 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
 | 125 | [Iron Danger](games/i/iron_danger.md) | 1.44% |
 | 126 | [Late Shift](games/l/late_shift.md) | 1.41% |
-| 127 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 1.39% |
-| 128 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.38% |
-| 128 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.38% |
-| 128 | [Poosh XL](games/p/poosh_xl.md) | 1.38% |
-| 128 | [Ten Dates](games/t/ten_dates.md) | 1.38% |
-| 132 | [Chorus](games/c/chorus.md) | 1.37% |
+| 127 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.38% |
+| 127 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.38% |
+| 127 | [Poosh XL](games/p/poosh_xl.md) | 1.38% |
+| 127 | [Ten Dates](games/t/ten_dates.md) | 1.38% |
+| 131 | [Chorus](games/c/chorus.md) | 1.37% |
+| 131 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 1.37% |
 | 133 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.32% |
 | 133 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.32% |
 | 133 | [Lemon Cake](games/l/lemon_cake.md) | 1.32% |
@@ -223,9 +223,9 @@
 | 220 | [Circus Electrique](games/c/circus_electrique.md) | 0.21% |
 | 222 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.20% |
 | 222 | [Remnant 2](games/r/remnant_2.md) | 0.20% |
-| 224 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.19% |
-| 224 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.19% |
-| 224 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.19% |
+| 222 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.20% |
+| 225 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.19% |
+| 225 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.19% |
 | 227 | [RAILGRADE](games/r/railgrade.md) | 0.18% |
 | 227 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.18% |
 | 229 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.17% |
