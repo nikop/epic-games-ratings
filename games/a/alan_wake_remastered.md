@@ -6,48 +6,48 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 43.00% | ~29,170 |
-| Let There Be Light | 35.00% | ~23,743 |
-| Float Like a Butterfly | 34.00% | ~23,065 |
-| Nordic Walking | 27.00% | ~18,316 |
-| Bright Falls' Finest | 27.00% | ~18,316 |
-| Under a Thin Layer of Skin | 24.00% | ~16,281 |
-| Park Ranger | 20.00% | ~13,567 |
-| Paging Mr. Wake | 20.00% | ~13,567 |
-| Back! Back, I Say! | 19.00% | ~12,889 |
-| Finders Keepers | 18.00% | ~12,211 |
-| Sound and Fury | 17.00% | ~11,532 |
-| Damn Good Cup of Coffee | 17.00% | ~11,532 |
-| Wheels Within Wheels | 16.00% | ~10,854 |
-| They're Heeeeeere! | 16.00% | ~10,854 |
-| Missed by a Mile | 16.00% | ~10,854 |
-| The Six-Gun Scribe | 15.00% | ~10,176 |
-| Collateral Carnage | 15.00% | ~10,176 |
-| Heavy Metal | 14.00% | ~9,497 |
-| Iron Horse | 14.00% | ~9,497 |
-| Perchance to Dream | 14.00% | ~9,497 |
-| Come One, Come All | 14.00% | ~9,497 |
-| It's Not Just a Typewriter Brand | 13.00% | ~8,819 |
-| Thunder and Lightning | 13.00% | ~8,819 |
-| Gatekeeper | 12.00% | ~8,140 |
-| The Lady of the Light | 12.00% | ~8,140 |
-| Two For the Price of One | 12.00% | ~8,140 |
-| Energized! | 12.00% | ~8,140 |
-| What Light Through Yonder Window | 10.00% | ~6,784 |
-| Right of Way | 10.00% | ~6,784 |
-| Tornado Wrangler | 9.00% | ~6,105 |
-| A Friend in Need | 9.00% | ~2,817 |
-| Departure | 8.00% | ~5,427 |
+| Follow the Light | 43.00% | ~29,175 |
+| Let There Be Light | 35.00% | ~23,747 |
+| Float Like a Butterfly | 34.00% | ~23,069 |
+| Nordic Walking | 27.00% | ~18,319 |
+| Bright Falls' Finest | 27.00% | ~18,319 |
+| Under a Thin Layer of Skin | 24.00% | ~16,284 |
+| Park Ranger | 20.00% | ~13,570 |
+| Paging Mr. Wake | 20.00% | ~13,570 |
+| Back! Back, I Say! | 19.00% | ~12,891 |
+| Finders Keepers | 18.00% | ~12,213 |
+| Sound and Fury | 17.00% | ~11,534 |
+| Damn Good Cup of Coffee | 17.00% | ~11,534 |
+| Wheels Within Wheels | 16.00% | ~10,856 |
+| They're Heeeeeere! | 16.00% | ~10,856 |
+| Missed by a Mile | 16.00% | ~10,856 |
+| The Six-Gun Scribe | 15.00% | ~10,177 |
+| Collateral Carnage | 15.00% | ~10,177 |
+| Heavy Metal | 14.00% | ~9,499 |
+| Iron Horse | 14.00% | ~9,499 |
+| Perchance to Dream | 14.00% | ~9,499 |
+| Come One, Come All | 14.00% | ~9,499 |
+| It's Not Just a Typewriter Brand | 13.00% | ~8,820 |
+| Thunder and Lightning | 13.00% | ~8,820 |
+| Gatekeeper | 12.00% | ~8,142 |
+| The Lady of the Light | 12.00% | ~8,142 |
+| Two For the Price of One | 12.00% | ~8,142 |
+| Energized! | 12.00% | ~8,142 |
+| What Light Through Yonder Window | 10.00% | ~6,785 |
+| Right of Way | 10.00% | ~6,785 |
+| Tornado Wrangler | 9.00% | ~6,106 |
+| A Friend in Need | 9.00% | ~2,819 |
+| Departure | 8.00% | ~5,428 |
 | Hardboiled Writer | 7.00% | ~4,749 |
-| A Friend Indeed | 7.00% | ~2,191 |
-| Children of the Elder God | 6.00% | ~4,070 |
-| Drink 'Em Both Up | 6.00% | ~4,070 |
-| Ding! | 6.00% | ~1,878 |
+| A Friend Indeed | 7.00% | ~2,192 |
+| Children of the Elder God | 6.00% | ~4,071 |
+| Drink 'Em Both Up | 6.00% | ~4,071 |
+| Ding! | 6.00% | ~1,879 |
 | Boob Tube | 5.00% | ~3,392 |
 | If It Flies, It Burns | 5.00% | ~3,392 |
 | KBF-FM | 5.00% | ~3,392 |
-| Kill Your Darlings | 4.00% | ~1,252 |
-| Heartbreaker | 4.00% | ~1,252 |
+| Kill Your Darlings | 4.00% | ~1,253 |
+| Heartbreaker | 4.00% | ~1,253 |
 | Carny | 3.00% | ~2,035 |
 | Medical Opinions | 2.00% | ~1,357 |
 | Taken Season | 2.00% | ~1,357 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Licensed Properties | 0.20% | ~63 |
 | Hypercaffeinated | 0.10% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,837 (Ranked 93)  
+Progressed: 67,849 (Ranked 93)  
 Completed: 69 (0.10%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,7 +251,7 @@ Completed: 69 (0.10%) (Ranked 247)
 | 2023-10-11 | 67,631 | 68 |
 | 2023-10-12 | 67,717 | 69 |
 | 2023-10-13 | 67,826 | 69 |
-| 2023-10-14 | 67,837 | 69 |
+| 2023-10-14 | 67,849 | 69 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

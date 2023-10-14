@@ -5,23 +5,23 @@ Rating: 4.76 (Ranked 119)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 15.00% | ~44,739 |
+| The Sort Who Makes an Entrance | 15.00% | ~44,740 |
 | First Class Student | 13.00% | ~38,774 |
 | Troll with the Punches | 13.00% | ~38,774 |
-| A Keen Sense of Spell | 12.00% | ~35,791 |
-| That's a Keeper | 12.00% | ~35,791 |
-| The Hallowed Hero | 11.00% | ~32,808 |
-| The Defender of Dragons | 11.00% | ~32,808 |
-| Loom for Improvement | 11.00% | ~32,808 |
-| A Talent for Spending | 11.00% | ~32,808 |
-| Coasting Along | 11.00% | ~32,808 |
+| A Keen Sense of Spell | 12.00% | ~35,792 |
+| That's a Keeper | 12.00% | ~35,792 |
+| The Hallowed Hero | 11.00% | ~32,809 |
+| The Defender of Dragons | 11.00% | ~32,809 |
+| Loom for Improvement | 11.00% | ~32,809 |
+| A Talent for Spending | 11.00% | ~32,809 |
+| Coasting Along | 11.00% | ~32,809 |
 | Grappling with a Graphorn | 10.00% | ~29,826 |
 | The One Who Mastered Memories | 10.00% | ~29,826 |
 | The Hero of Hogwarts | 10.00% | ~29,826 |
 | Challenge Accepted | 10.00% | ~29,826 |
-| Followed the Butterflies | 9.00% | ~26,843 |
-| The Spell Master | 9.00% | ~26,843 |
-| Rising From the Ashes | 9.00% | ~26,843 |
+| Followed the Butterflies | 9.00% | ~26,844 |
+| The Spell Master | 9.00% | ~26,844 |
+| Rising From the Ashes | 9.00% | ~26,844 |
 | The Avenging Gazelle | 8.00% | ~23,861 |
 | A Sallow Grave | 8.00% | ~23,861 |
 | Flight the Good Flight | 8.00% | ~23,861 |
@@ -32,11 +32,11 @@ Rating: 4.76 (Ranked 119)
 | Raising Expectations | 6.00% | ~17,896 |
 | The Toast of the Town | 5.00% | ~14,913 |
 | The Ends Petrify the Means | 5.00% | ~14,913 |
-| Going Through the Potions | 4.00% | ~11,930 |
-| Room with a View | 4.00% | ~11,930 |
-| The Intrepid Explorer | 4.00% | ~11,930 |
-| The Gryffindor in the Graveyard | 4.00% | ~11,930 |
-| The Wise Owl | 4.00% | ~11,930 |
+| Going Through the Potions | 4.00% | ~11,931 |
+| Room with a View | 4.00% | ~11,931 |
+| The Intrepid Explorer | 4.00% | ~11,931 |
+| The Gryffindor in the Graveyard | 4.00% | ~11,931 |
+| The Wise Owl | 4.00% | ~11,931 |
 | Put Down Roots | 3.00% | ~8,948 |
 | The Auror's Apprentice | 3.00% | ~8,948 |
 | Floo Around the World | 3.00% | ~8,948 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 119)
 | The Nature of the Beast | 0.70% | ~2,088 |
 | Collector's Edition | 0.30% | ~895 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,259 (Ranked 47)  
+Progressed: 298,264 (Ranked 47)  
 Completed: 485 (0.16%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,10 +228,10 @@ Completed: 485 (0.16%) (Ranked 231)
 | 2023-10-11 | 298,177 | 483 |
 | 2023-10-12 | 298,217 | 485 |
 | 2023-10-13 | 298,257 | 485 |
-| 2023-10-14 | 298,259 | 485 |
+| 2023-10-14 | 298,264 | 485 |
 ## Awards
 Max (Character Customization): 23,491  (Ranked 17)  
-Sum: 45,772 (Ranked 30)  
+Sum: 45,777 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -244,7 +244,7 @@ Diff (max vs sum): -13
 | This game is Relaxing | 1,126 |
 | This game has Amazing Characters | 1,090 |
 | This game is Highly Recommended | 1,076 |
-| This game has Quickly Understood Controls | 1,013 |
+| This game has Quickly Understood Controls | 1,018 |
 | This game has Beautiful Visuals | 937 |
 | This game has a Creative Community | 710 |
 ## Ratings History
@@ -454,3 +454,4 @@ Diff (max vs sum): -13
 | 2023-10-11 | 4.76 | 23,447 | 45,619 |
 | 2023-10-12 | 4.76 | 23,469 | 45,698 |
 | 2023-10-13 | 4.76 | 23,491 | 45,772 |
+| 2023-10-14 | 4.76 | 23,491 | 45,777 |

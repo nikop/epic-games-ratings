@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -544,9 +544,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3734,
+  "EOS_Progressed": 3735,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -7224,6 +7224,11 @@
       "Time": "2023-10-13T22:07:10.1067317+00:00",
       "NumProgressed": 3734,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-14T01:48:19.0619621+00:00",
+      "NumProgressed": 3735,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7235,7 +7240,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -7243,7 +7248,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -7275,7 +7280,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -7371,7 +7376,7 @@
       "Name": "Sharpshooter",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -7387,7 +7392,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -7395,7 +7400,7 @@
       "Name": "Precision Is Key",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -7427,7 +7432,7 @@
       "Name": "My Little Friend",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -7435,7 +7440,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -7467,7 +7472,7 @@
       "Name": "Der Geist",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -7491,7 +7496,7 @@
       "Name": "Close Quarters",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -7802,13 +7807,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3685,
+      "Progressed": 3686,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3734,
+      "Progressed": 3735,
       "Completed": 11
     }
   ],
@@ -7816,8 +7821,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-10-13T09:59:46.3659401+00:00",
-  "LastChanged_Achievements": "2023-10-14T00:08:19.6835075+00:00",
+  "LastChanged_Achievements": "2023-10-14T01:48:19.0619615+00:00",
   "LastUpdate_AppInfo": "2023-10-07T09:57:23.5324772+00:00",
-  "LastUpdate_Ratings": "2023-10-14T00:00:27.0832404+00:00",
-  "LastUpdate_Achievements": "2023-10-14T00:08:19.6836661+00:00"
+  "LastUpdate_Ratings": "2023-10-14T01:40:15.5282224+00:00",
+  "LastUpdate_Achievements": "2023-10-14T01:48:19.0620807+00:00"
 }

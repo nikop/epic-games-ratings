@@ -6,44 +6,44 @@ Number of Ratings: 1,919  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Manifestation of the Soul | 97.00% | ~77,381 |
-| No Escape | 86.00% | ~68,606 |
-| Seeker of Power | 85.00% | ~67,808 |
-| Hopes and Dreams | 82.00% | ~65,415 |
-| Lantern Smasher | 78.00% | ~62,224 |
-| The Pirate's Way | 74.00% | ~59,033 |
-| Dark Crystal, Warrior's Heart | 71.00% | ~56,640 |
-| The King of the Dark Elves | 68.00% | ~54,246 |
-| Memories of the Distant Past | 66.00% | ~52,651 |
-| Distortion's Progeny | 63.00% | ~50,258 |
-| Savant | 62.00% | ~49,460 |
-| A Landscape of Memory | 58.00% | ~46,269 |
-| The Wind's Light | 54.00% | ~43,078 |
-| Vague Remembrances | 49.00% | ~39,089 |
-| The Fire's Light | 47.00% | ~37,494 |
-| Phantom Memories | 47.00% | ~37,494 |
-| Imbued Memories | 47.00% | ~37,494 |
-| The Earth's Light | 45.00% | ~35,898 |
-| Shared Recollections | 42.00% | ~33,505 |
+| Manifestation of the Soul | 97.00% | ~77,383 |
+| No Escape | 86.00% | ~68,607 |
+| Seeker of Power | 85.00% | ~67,810 |
+| Hopes and Dreams | 82.00% | ~65,416 |
+| Lantern Smasher | 78.00% | ~62,225 |
+| The Pirate's Way | 74.00% | ~59,034 |
+| Dark Crystal, Warrior's Heart | 71.00% | ~56,641 |
+| The King of the Dark Elves | 68.00% | ~54,248 |
+| Memories of the Distant Past | 66.00% | ~52,652 |
+| Distortion's Progeny | 63.00% | ~50,259 |
+| Savant | 62.00% | ~49,461 |
+| A Landscape of Memory | 58.00% | ~46,270 |
+| The Wind's Light | 54.00% | ~43,079 |
+| Vague Remembrances | 49.00% | ~39,090 |
+| The Fire's Light | 47.00% | ~37,495 |
+| Phantom Memories | 47.00% | ~37,495 |
+| Imbued Memories | 47.00% | ~37,495 |
+| The Earth's Light | 45.00% | ~35,899 |
+| Shared Recollections | 42.00% | ~33,506 |
 | The Water's Light | 40.00% | ~31,910 |
 | Path of the Sage | 40.00% | ~31,910 |
-| Malice Takes Root | 37.00% | ~29,516 |
-| Path of the Dark Knight | 37.00% | ~29,516 |
-| Path of the Paladin | 37.00% | ~29,516 |
-| Path of the Breaker | 37.00% | ~29,516 |
+| Malice Takes Root | 37.00% | ~29,517 |
+| Path of the Dark Knight | 37.00% | ~29,517 |
+| Path of the Paladin | 37.00% | ~29,517 |
+| Path of the Breaker | 37.00% | ~29,517 |
 | Duty's Course | 36.00% | ~28,719 |
-| Path of the Liberator | 35.00% | ~27,921 |
-| Path of the Tyrant | 35.00% | ~27,921 |
-| Led by the Nose | 34.00% | ~27,123 |
-| Path of the Void Knight | 34.00% | ~27,123 |
-| Terminus of Fate | 33.00% | ~26,325 |
-| Path of the Ninja | 33.00% | ~26,325 |
-| His Name Is Garland | 33.00% | ~26,325 |
+| Path of the Liberator | 35.00% | ~27,922 |
+| Path of the Tyrant | 35.00% | ~27,922 |
+| Led by the Nose | 34.00% | ~27,124 |
+| Path of the Void Knight | 34.00% | ~27,124 |
+| Terminus of Fate | 33.00% | ~26,326 |
+| Path of the Ninja | 33.00% | ~26,326 |
+| His Name Is Garland | 33.00% | ~26,326 |
 | Path of the Assassin | 32.00% | ~25,528 |
 | Seeker of Ultimate Power | 24.00% | ~19,146 |
-| Artifact Collector | 22.00% | ~17,550 |
-| True Potential | 22.00% | ~17,550 |
-| Polymath | 22.00% | ~17,550 |
+| Artifact Collector | 22.00% | ~17,551 |
+| True Potential | 22.00% | ~17,551 |
+| Polymath | 22.00% | ~17,551 |
 | Origin of True Chaos | 20.00% | ~15,955 |
 | Master's Awakening | 19.00% | ~15,157 |
 | Jack-of-All-Trades | 19.00% | ~15,157 |
@@ -51,9 +51,9 @@ Number of Ratings: 1,919  (23.09.2022)
 | Job Master | 8.00% | ~6,382 |
 | Crest Bearer | 7.00% | ~5,584 |
 | Strangers' Memories | 3.00% | ~2,393 |
-| A Tale of Origins and Endings | 2.00% | ~1,595 |
+| A Tale of Origins and Endings | 2.00% | ~1,596 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79,774 (Ranked 87)  
+Progressed: 79,776 (Ranked 87)  
 Completed: 2,182 (2.74%) (Ranked 96)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,9 +230,10 @@ Completed: 2,182 (2.74%) (Ranked 96)
 | 2023-10-11 | 79,763 | 2,181 |
 | 2023-10-12 | 79,766 | 2,182 |
 | 2023-10-13 | 79,774 | 2,182 |
+| 2023-10-14 | 79,776 | 2,182 |
 ## Awards
 Max (Great Boss Battles): 768  (Ranked 167)  
-Sum: 1,584 (Ranked 221)  
+Sum: 1,585 (Ranked 221)  
 Diff (max vs sum): -54  
 | Award | Count |
 | ----- | ----- |
@@ -243,7 +244,7 @@ Diff (max vs sum): -54
 | This game has Diverse Characters | 109 |
 | This game has Amazing Storytelling | 106 |
 | This game has Quickly Understood Controls | 106 |
-| This game has Challenging Combat | 95 |
+| This game has Challenging Combat | 96 |
 | This game has Amazing Characters | 90 |
 | This game has Unique Visuals | 83 |
 | This game has a Creative Community | 58 |
@@ -362,3 +363,4 @@ Diff (max vs sum): -54
 | 2023-10-05 | 4.51 | - | 767 | 1,582 |
 | 2023-10-09 | 4.51 | - | 768 | 1,583 |
 | 2023-10-11 | 4.51 | - | 768 | 1,584 |
+| 2023-10-14 | 4.51 | - | 768 | 1,585 |

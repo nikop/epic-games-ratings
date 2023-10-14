@@ -1845,9 +1845,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14652,
+  "EOS_Progressed": 14654,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 209,
+  "EOS_NewPlayers": 207,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13770,6 +13770,11 @@
       "Time": "2023-10-13T22:07:07.0985272+00:00",
       "NumProgressed": 14652,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-14T01:48:16.3659546+00:00",
+      "NumProgressed": 14654,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -14971,9 +14976,9 @@
       "ID": "ACHIEVEMENT_GREECE4_WIN_PERSIA_STORYLINE",
       "SetID": "9201eeb",
       "Name": "Queen of War",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_GREECE5_BUCEPHALUS_10_KILLS",
@@ -16516,21 +16521,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14652,
+      "Progressed": 14654,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14652,
+      "Progressed": 14654,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-13T13:09:24.1793459+00:00",
-  "LastChanged_Achievements": "2023-10-14T00:08:16.7118115+00:00",
+  "LastChanged_Achievements": "2023-10-14T01:48:16.3659541+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:48.3987129+00:00",
-  "LastUpdate_Ratings": "2023-10-14T00:03:33.1651067+00:00",
-  "LastUpdate_Achievements": "2023-10-14T00:08:16.7131488+00:00"
+  "LastUpdate_Ratings": "2023-10-14T01:43:34.1899659+00:00",
+  "LastUpdate_Achievements": "2023-10-14T01:48:16.3669636+00:00"
 }

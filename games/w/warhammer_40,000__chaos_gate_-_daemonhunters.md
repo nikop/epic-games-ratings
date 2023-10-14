@@ -32,10 +32,10 @@ Number of Ratings: 371  (23.09.2022)
 | A Gift Spurned | 1.00% | ~33 |
 | Long Distance Call | 1.00% | ~33 |
 | Execution Force | 1.00% | ~33 |
+| Mind Like a Fortress | 0.90% | ~29 |
 | Tactical Flexibility | 0.90% | ~29 |
 | Tactical Sabotage | 0.90% | ~29 |
 | Fleetmaster | 0.80% | ~26 |
-| Mind Like a Fortress | 0.80% | ~26 |
 | Junk Banishment | 0.80% | ~26 |
 | Patron of Deimos | 0.70% | ~23 |
 | For the Machine God | 0.70% | ~23 |
@@ -56,6 +56,7 @@ Number of Ratings: 371  (23.09.2022)
 | Strategic Command | 0.20% | ~7 |
 | Abomination | 0.20% | ~7 |
 | Killing Rampage | 0.20% | ~7 |
+| Terminal Meltdown | 0.20% | ~7 |
 | Arsenal of Destruction | 0.10% | ~3 |
 | Crisis Management | 0.10% | ~3 |
 | Grand Master | 0.10% | ~3 |
@@ -70,12 +71,11 @@ Number of Ratings: 371  (23.09.2022)
 | Firing Squad | 0.10% | ~3 |
 | Not a Mote of Corruption | 0.10% | ~3 |
 | Deadshot | 0.10% | ~3 |
-| Terminal Meltdown | 0.10% | ~3 |
 | Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,263 (Ranked 188)  
+Progressed: 3,264 (Ranked 188)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,6 +237,7 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-10-10 | 3,258 | 0 |
 | 2023-10-12 | 3,260 | 0 |
 | 2023-10-13 | 3,263 | 0 |
+| 2023-10-14 | 3,264 | 0 |
 ## Awards
 Max (Character Customization): 220  (Ranked 270)  
 Sum: 474 (Ranked 314)  

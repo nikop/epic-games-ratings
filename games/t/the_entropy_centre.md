@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's Rewind Time | 88.00% | ~229 |
+| It's Rewind Time | 89.00% | ~231 |
 | Wake Up | 80.00% | ~208 |
 | Time Gates | 64.00% | ~166 |
 | Command Centre | 51.00% | ~133 |
@@ -19,8 +19,8 @@
 | Running Boots | 19.00% | ~49 |
 | Fashionista | 18.00% | ~47 |
 | Archivist | 17.00% | ~44 |
+| Looper | 16.00% | ~42 |
 | Kaboom! | 15.00% | ~39 |
-| Looper | 15.00% | ~39 |
 | Transformers, cubes in disguise | 13.00% | ~34 |
 | All Alone | 13.00% | ~34 |
 | Reunited | 13.00% | ~34 |

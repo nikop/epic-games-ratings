@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 250298,
+  "EOS_Progressed": 250301,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 251,
+  "EOS_NewPlayers": 252,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16449,6 +16449,11 @@
       "Time": "2023-10-14T00:08:48.6966558+00:00",
       "NumProgressed": 250298,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-14T01:48:48.4491963+00:00",
+      "NumProgressed": 250301,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -16540,7 +16545,7 @@
       "Name": "Clear-Cut",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1251
+      "UsersEstimate": 1252
     },
     {
       "ID": "completionist",
@@ -16636,7 +16641,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 132658
+      "UsersEstimate": 132660
     },
     {
       "ID": "indegestible",
@@ -16660,7 +16665,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 65077
+      "UsersEstimate": 65078
     },
     {
       "ID": "justABit",
@@ -16700,7 +16705,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 125149
+      "UsersEstimate": 125150
     },
     {
       "ID": "notScared",
@@ -16827,7 +16832,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 250298,
+      "Progressed": 250301,
       "Completed": 6
     }
   ],
@@ -16835,8 +16840,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-10-14T00:08:48.6966552+00:00",
+  "LastChanged_Achievements": "2023-10-14T01:48:48.4491958+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:40.5346177+00:00",
-  "LastUpdate_Ratings": "2023-10-13T23:58:27.6973097+00:00",
-  "LastUpdate_Achievements": "2023-10-14T00:08:48.6968739+00:00"
+  "LastUpdate_Ratings": "2023-10-14T01:38:14.5976352+00:00",
+  "LastUpdate_Achievements": "2023-10-14T01:48:48.4493581+00:00"
 }

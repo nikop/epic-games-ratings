@@ -5,33 +5,33 @@ Rating: 4.66 (Ranked 280)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 95.00% | ~3,058 |
-| On the Top Step | 89.00% | ~2,865 |
-| Setting up for Success | 78.00% | ~2,511 |
-| Team Orders | 76.00% | ~2,446 |
+| Getting on the Step | 95.00% | ~3,059 |
+| On the Top Step | 89.00% | ~2,866 |
+| Setting up for Success | 78.00% | ~2,512 |
+| Team Orders | 76.00% | ~2,447 |
 | Engineer | 56.00% | ~1,803 |
 | Familiar Faces | 50.00% | ~1,610 |
-| Going the Extra Mile | 44.00% | ~1,416 |
-| Sharing the Love | 43.00% | ~1,384 |
-| Hitting a Season | 39.00% | ~1,255 |
+| Going the Extra Mile | 44.00% | ~1,417 |
+| Sharing the Love | 43.00% | ~1,385 |
+| Hitting a Season | 39.00% | ~1,256 |
 | Challenge Yourself | 35.00% | ~1,127 |
-| A Dozen Pieces | 33.00% | ~1,062 |
-| Making History | 33.00% | ~1,062 |
+| A Dozen Pieces | 33.00% | ~1,063 |
+| Making History | 33.00% | ~1,063 |
 | Network Success | 26.00% | ~837 |
 | Writing a new Chapter | 26.00% | ~837 |
 | Spring Cleaning | 25.00% | ~805 |
 | Reduce | 20.00% | ~644 |
 | Ups and Downs | 20.00% | ~644 |
 | Crucial Combo | 19.00% | ~612 |
-| Reuse | 18.00% | ~579 |
-| One for the Book | 18.00% | ~579 |
+| Reuse | 18.00% | ~580 |
+| One for the Book | 18.00% | ~580 |
 | Proving Them Wrong | 17.00% | ~547 |
 | Gathering Dust | 16.00% | ~515 |
 | Oil and Water | 16.00% | ~515 |
 | Lightning Round the World | 14.00% | ~451 |
 | Hitting a Bullseye | 14.00% | ~451 |
-| Eagle Eye | 13.00% | ~418 |
-| Recycle | 13.00% | ~418 |
+| Eagle Eye | 13.00% | ~419 |
+| Recycle | 13.00% | ~419 |
 | All in a Weekend's Work | 12.00% | ~386 |
 | Spinning Around | 12.00% | ~386 |
 | Switcheroo | 11.00% | ~354 |
@@ -55,7 +55,7 @@ Rating: 4.66 (Ranked 280)
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,219 (Ranked 190)  
+Progressed: 3,220 (Ranked 190)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,6 +86,7 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-10-11 | 3,166 | 0 |
 | 2023-10-12 | 3,191 | 0 |
 | 2023-10-13 | 3,219 | 0 |
+| 2023-10-14 | 3,220 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

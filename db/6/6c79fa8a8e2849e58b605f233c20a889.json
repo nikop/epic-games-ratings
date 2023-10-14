@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2698,
+  "EOS_Progressed": 2699,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -6546,6 +6546,11 @@
       "Time": "2023-10-13T19:04:22.4697117+00:00",
       "NumProgressed": 2698,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-14T01:44:21.8151725+00:00",
+      "NumProgressed": 2699,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -6589,7 +6594,7 @@
       "Name": "Harold Rex Interfectus Est",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -6637,7 +6642,7 @@
       "Name": "Novice",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 1052
+      "UsersEstimate": 1053
     },
     {
       "ID": "GLOVE_SLAP",
@@ -6683,9 +6688,9 @@
       "ID": "KING_MASTERY",
       "SetID": "8lhbnh7",
       "Name": "Clash of Kings",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 81
+      "UsersEstimate": 108
     },
     {
       "ID": "KNIGHT_MASTERY",
@@ -6732,14 +6737,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2698,
+      "Progressed": 2699,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-10-14T00:04:20.3102083+00:00",
+  "LastChanged_Achievements": "2023-10-14T01:44:21.815172+00:00",
   "LastUpdate_AppInfo": "2023-10-11T02:57:20.2291076+00:00",
-  "LastUpdate_Ratings": "2023-10-13T23:57:52.3424468+00:00",
-  "LastUpdate_Achievements": "2023-10-14T00:04:20.310281+00:00"
+  "LastUpdate_Ratings": "2023-10-14T01:37:36.5839297+00:00",
+  "LastUpdate_Achievements": "2023-10-14T01:44:21.8152742+00:00"
 }

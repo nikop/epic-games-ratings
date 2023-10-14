@@ -7,7 +7,7 @@
 | Distinguished Service Medal | 94.00% | ~637 |
 | Spectre Inductee | 85.00% | ~576 |
 | Medal of Exploration I | 76.00% | ~515 |
-| Recruit | 72.00% | ~488 |
+| Recruit | 73.00% | ~495 |
 | Search and Rescue | 72.00% | ~488 |
 | Quarian Ally | 69.00% | ~468 |
 | Medal of Heroism | 67.00% | ~454 |
@@ -29,8 +29,8 @@
 | Krogan Ally | 45.00% | ~305 |
 | Merciless | 45.00% | ~305 |
 | Sentinel Ally | 44.00% | ~298 |
+| Missing in Action | 43.00% | ~292 |
 | Very Elusive | 43.00% | ~292 |
-| Missing in Action | 42.00% | ~285 |
 | Head Hunter | 42.00% | ~285 |
 | Operative | 42.00% | ~285 |
 | Veteran | 41.00% | ~278 |
@@ -53,12 +53,12 @@
 | The Prodigal | 32.00% | ~217 |
 | Shopaholic | 32.00% | ~217 |
 | Battlemaster | 31.00% | ~210 |
+| Catharsis | 31.00% | ~210 |
 | Ghost of the Father | 31.00% | ~210 |
 | The Cure | 31.00% | ~210 |
 | Big Game Hunter | 31.00% | ~210 |
 | Revenge! | 31.00% | ~210 |
 | Heart of Darkness | 31.00% | ~210 |
-| Catharsis | 30.00% | ~203 |
 | Fade Away | 30.00% | ~203 |
 | Agent | 30.00% | ~203 |
 | Driven | 30.00% | ~203 |
@@ -74,8 +74,8 @@
 | Suicide Mission | 27.00% | ~183 |
 | Against All Odds | 27.00% | ~183 |
 | Mobilizer | 27.00% | ~183 |
+| Untouchable | 26.00% | ~176 |
 | A House Divided | 26.00% | ~176 |
-| Untouchable | 25.00% | ~170 |
 | Eye of the Hurricane | 25.00% | ~170 |
 | Weapon Specialist | 25.00% | ~170 |
 | Giant Killer | 24.00% | ~163 |

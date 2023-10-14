@@ -31,8 +31,8 @@ Rating: 4.50 (Ranked 573)
 | Side Hustle | 0.70% | ~185 |
 | Skilled | 0.70% | ~185 |
 | Summoner | 0.70% | ~185 |
-| Legions | 0.60% | ~158 |
-| Stunner | 0.60% | ~158 |
+| Legions | 0.60% | ~159 |
+| Stunner | 0.60% | ~159 |
 | We have the best insurance | 0.50% | ~132 |
 | Pesky Jerks | 0.50% | ~132 |
 | Seasoned | 0.50% | ~132 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 573)
 | Therapeutic | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,414 (Ranked 117)  
+Progressed: 26,419 (Ranked 117)  
 Completed: 58 (0.22%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,6 +234,7 @@ Completed: 58 (0.22%) (Ranked 219)
 | 2023-10-11 | 26,352 | 58 |
 | 2023-10-12 | 26,379 | 58 |
 | 2023-10-13 | 26,414 | 58 |
+| 2023-10-14 | 26,419 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 261  (Ranked 257)  
 Sum: 2,382 (Ranked 188)  

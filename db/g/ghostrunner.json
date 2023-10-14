@@ -6,9 +6,9 @@
   "Ranking_Popularity": 203,
   "Ranking_PopularitySum": 282,
   "Ranking_EOS_Progress": 125,
-  "Ranking_EOS_Completed": 195,
+  "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1260,7 +1260,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 19957,
+  "EOS_Progressed": 19958,
   "EOS_Completed": 74,
   "EOS_NewPlayers": 437,
   "EOS_NewCompleters": 1,
@@ -20395,6 +20395,11 @@
       "Time": "2023-10-14T00:04:41.1359466+00:00",
       "NumProgressed": 19957,
       "NumCompleted": 74
+    },
+    {
+      "Time": "2023-10-14T01:44:42.3318884+00:00",
+      "NumProgressed": 19958,
+      "NumCompleted": 74
     }
   ],
   "TotalAchievements": 45,
@@ -20510,7 +20515,7 @@
       "Name": "Improvise, adapt, overrun",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 2594
+      "UsersEstimate": 2595
     },
     {
       "ID": "Junkrunner",
@@ -20542,7 +20547,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 15167
+      "UsersEstimate": 15168
     },
     {
       "ID": "MoreThanHuman",
@@ -20558,7 +20563,7 @@
       "Name": "Control freak",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 5388
+      "UsersEstimate": 5389
     },
     {
       "ID": "ObedientMachine",
@@ -20590,7 +20595,7 @@
       "Name": "Out of order",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 8781
+      "UsersEstimate": 8782
     },
     {
       "ID": "Perfection",
@@ -20598,7 +20603,7 @@
       "Name": "Perfection",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 6386
+      "UsersEstimate": 6387
     },
     {
       "ID": "PreempativeStrike",
@@ -20638,7 +20643,7 @@
       "Name": "Running Wild",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 5388
+      "UsersEstimate": 5389
     },
     {
       "ID": "Scrapped",
@@ -20726,7 +20731,7 @@
       "Name": "Wallrunner",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 10577
+      "UsersEstimate": 10578
     },
     {
       "ID": "WaveOfMutilation",
@@ -20765,21 +20770,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 19957,
+      "Progressed": 19958,
       "Completed": 47
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 19957,
+      "Progressed": 19958,
       "Completed": 74
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-10-12T05:59:07.9847642+00:00",
-  "LastChanged_Achievements": "2023-10-14T00:04:41.135946+00:00",
+  "LastChanged_Achievements": "2023-10-14T01:44:42.3318881+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:05.4275599+00:00",
-  "LastUpdate_Ratings": "2023-10-14T00:01:18.2343412+00:00",
-  "LastUpdate_Achievements": "2023-10-14T00:04:41.1361386+00:00"
+  "LastUpdate_Ratings": "2023-10-14T01:41:02.0782209+00:00",
+  "LastUpdate_Achievements": "2023-10-14T01:44:42.3321913+00:00"
 }

@@ -2300,9 +2300,9 @@
       "ID": "DUCHESS_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Greetings from Royalty",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 277
+      "UsersEstimate": 285
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -2492,9 +2492,9 @@
       "ID": "MEAT_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Night Snack",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 225
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -2635,8 +2635,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-10-14T00:07:36.3034095+00:00",
+  "LastChanged_Achievements": "2023-10-14T01:47:36.2802531+00:00",
   "LastUpdate_AppInfo": "2023-10-12T20:57:27.7908021+00:00",
-  "LastUpdate_Ratings": "2023-10-14T00:01:21.6520005+00:00",
-  "LastUpdate_Achievements": "2023-10-14T00:07:36.303484+00:00"
+  "LastUpdate_Ratings": "2023-10-14T01:41:06.1698834+00:00",
+  "LastUpdate_Achievements": "2023-10-14T01:47:36.2803366+00:00"
 }

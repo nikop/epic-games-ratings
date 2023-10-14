@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -166,10 +166,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13926,
+  "EOS_Progressed": 13928,
   "EOS_Completed": 23,
   "EOS_NewPlayers": 272,
-  "EOS_NewCompleters": 9,
+  "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
     {
@@ -8566,6 +8566,11 @@
       "Time": "2023-10-14T00:06:01.4950512+00:00",
       "NumProgressed": 13926,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-10-14T01:46:02.5743763+00:00",
+      "NumProgressed": 13928,
+      "NumCompleted": 23
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -8610,7 +8615,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1810
+      "UsersEstimate": 1811
     },
     {
       "ID": "14",
@@ -8656,9 +8661,9 @@
       "ID": "19",
       "SetID": "458bbdk",
       "Name": "Martian Music",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 279
+      "UsersEstimate": 418
     },
     {
       "ID": "2",
@@ -8817,7 +8822,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13926,
+      "Progressed": 13928,
       "Completed": 23
     }
   ],
@@ -8825,8 +8830,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-13T09:00:57.1370573+00:00",
-  "LastChanged_Achievements": "2023-10-14T00:06:01.4950507+00:00",
+  "LastChanged_Achievements": "2023-10-14T01:46:02.5743756+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:56.4622667+00:00",
-  "LastUpdate_Ratings": "2023-10-14T00:01:28.7425298+00:00",
-  "LastUpdate_Achievements": "2023-10-14T00:06:01.4951243+00:00"
+  "LastUpdate_Ratings": "2023-10-14T01:41:13.449224+00:00",
+  "LastUpdate_Achievements": "2023-10-14T01:46:02.5744594+00:00"
 }

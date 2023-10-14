@@ -1,25 +1,25 @@
 # Insurgency: Sandstorm
 [Store](https://store.epicgames.com/en-US/p/insurgency-sandstorm)  
 [View Rawdata](../../db/i/insurgency__sandstorm.json)  
-Rating: 4.62 (Ranked 353)  
+Rating: 4.62 (Ranked 352)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~23,098 |
-| Wallbanger | 5.00% | ~23,098 |
-| Exploitative | 4.00% | ~18,479 |
-| High Speed Low Drag | 4.00% | ~18,479 |
-| Wet Feet | 4.00% | ~18,479 |
-| Checkpoint Victory | 3.00% | ~13,859 |
-| Lucky | 3.00% | ~13,859 |
-| Stylin' | 3.00% | ~13,859 |
-| Turf War | 3.00% | ~13,859 |
-| Banged | 2.00% | ~9,239 |
-| First Blood | 2.00% | ~9,239 |
-| Flaccid Paralysis | 2.00% | ~9,239 |
-| Push Victory | 2.00% | ~9,239 |
-| Self-destructive | 2.00% | ~9,239 |
+| Point Shooting | 5.00% | ~23,100 |
+| Wallbanger | 5.00% | ~23,100 |
+| Exploitative | 4.00% | ~18,480 |
+| High Speed Low Drag | 4.00% | ~18,480 |
+| Wet Feet | 4.00% | ~18,480 |
+| Checkpoint Victory | 3.00% | ~13,860 |
+| Lucky | 3.00% | ~13,860 |
+| Stylin' | 3.00% | ~13,860 |
+| Turf War | 3.00% | ~13,860 |
+| Banged | 2.00% | ~9,240 |
+| First Blood | 2.00% | ~9,240 |
+| Flaccid Paralysis | 2.00% | ~9,240 |
+| Push Victory | 2.00% | ~9,240 |
+| Self-destructive | 2.00% | ~9,240 |
 | Blindfire | 1.00% | ~4,620 |
 | Efficient | 1.00% | ~4,620 |
 | Ruthless | 1.00% | ~4,620 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~462 |
 | Road Hazard | 0.10% | ~462 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 461,964 (Ranked 38)  
+Progressed: 461,993 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 2 (0.00%) (Ranked 314)
 | 2023-10-11 | 461,311 | 2 |
 | 2023-10-12 | 461,610 | 2 |
 | 2023-10-13 | 461,949 | 2 |
-| 2023-10-14 | 461,964 | 2 |
+| 2023-10-14 | 461,993 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 388  (Ranked 224)  
 Sum: 3,066 (Ranked 169)  

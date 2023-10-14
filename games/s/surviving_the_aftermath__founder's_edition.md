@@ -6,14 +6,14 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 73.00% | ~6,992 |
+| First Step | 73.00% | ~6,993 |
 | Leader | 60.00% | ~5,747 |
-| Explorer | 53.00% | ~5,076 |
+| Explorer | 53.00% | ~5,077 |
 | Healer | 52.00% | ~4,981 |
-| Aspiring Inventor | 44.00% | ~4,214 |
+| Aspiring Inventor | 44.00% | ~4,215 |
 | Adventurer | 42.00% | ~4,023 |
 | Famous Healer | 38.00% | ~3,640 |
-| Local Leader | 35.00% | ~3,352 |
+| Local Leader | 35.00% | ~3,353 |
 | Famous Explorer | 34.00% | ~3,257 |
 | New Opportunities | 34.00% | ~3,257 |
 | Energized | 33.00% | ~3,161 |
@@ -23,8 +23,8 @@ Number of Ratings: 836  (23.09.2022)
 | Legendary Explorer | 28.00% | ~2,682 |
 | Cleaner | 28.00% | ~2,682 |
 | Catastrofan | 28.00% | ~2,682 |
-| Finders, Keepers | 26.00% | ~2,490 |
-| Top Notch | 25.00% | ~2,394 |
+| Finders, Keepers | 26.00% | ~2,491 |
+| Top Notch | 25.00% | ~2,395 |
 | Great Leader | 23.00% | ~2,203 |
 | Mentor | 23.00% | ~2,203 |
 | Merchant | 22.00% | ~2,107 |
@@ -44,8 +44,8 @@ Number of Ratings: 836  (23.09.2022)
 | Sky Burial | 10.00% | ~958 |
 | Trader | 9.00% | ~862 |
 | Bread and Circuses | 8.00% | ~766 |
-| New Eden | 7.00% | ~670 |
-| Tailored to fit | 7.00% | ~670 |
+| New Eden | 7.00% | ~671 |
+| Tailored to fit | 7.00% | ~671 |
 | Really Friendly | 6.00% | ~575 |
 | Amped Up | 6.00% | ~575 |
 | Look, no Hands! | 5.00% | ~479 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~19 |
 | Customized calamities | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,578 (Ranked 149)  
+Progressed: 9,579 (Ranked 150)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-10-11 | 9,530 | 0 |
 | 2023-10-12 | 9,549 | 0 |
 | 2023-10-13 | 9,576 | 0 |
-| 2023-10-14 | 9,578 | 0 |
+| 2023-10-14 | 9,579 | 0 |
 ## Awards
 Max (Extremely Fun): 103  (Ranked 341)  
 Sum: 710 (Ranked 283)  

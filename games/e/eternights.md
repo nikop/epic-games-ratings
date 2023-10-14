@@ -19,9 +19,9 @@
 | Stone Retriever | 29.00% | ~77 |
 | Truebro | 23.00% | ~61 |
 | Min's Promise | 22.00% | ~59 |
-| Sia's Promise | 19.00% | ~51 |
+| Sia's Promise | 20.00% | ~53 |
 | Romantic | 17.00% | ~45 |
-| TentacleMAN | 11.00% | ~29 |
+| TentacleMAN | 12.00% | ~32 |
 | Yohan's Promise | 5.00% | ~13 |
 | Plushyboy | 5.00% | ~13 |
 | Flawless | 5.00% | ~13 |

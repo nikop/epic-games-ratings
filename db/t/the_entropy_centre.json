@@ -1078,9 +1078,9 @@
       "ID": "ACH_LOOPER",
       "SetID": "2310cb1",
       "Name": "Looper",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 39
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_REUINTED",
@@ -1094,9 +1094,9 @@
       "ID": "ACH_REWINDTIME",
       "SetID": "2310cb1",
       "Name": "It\u0027s Rewind Time",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 229
+      "UsersEstimate": 231
     },
     {
       "ID": "ACH_SUMMERLOVE",
@@ -1127,8 +1127,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-10-14T00:04:37.3375195+00:00",
+  "LastChanged_Achievements": "2023-10-14T01:44:38.6897027+00:00",
   "LastUpdate_AppInfo": "2023-10-07T11:57:05.9179872+00:00",
-  "LastUpdate_Ratings": "2023-10-14T00:00:11.4271712+00:00",
-  "LastUpdate_Achievements": "2023-10-14T00:04:37.3375471+00:00"
+  "LastUpdate_Ratings": "2023-10-14T01:40:00.4247056+00:00",
+  "LastUpdate_Achievements": "2023-10-14T01:44:38.6897341+00:00"
 }
