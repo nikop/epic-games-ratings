@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -544,9 +544,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3737,
+  "EOS_Progressed": 3739,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -7239,6 +7239,11 @@
       "Time": "2023-10-14T06:06:18.3857078+00:00",
       "NumProgressed": 3737,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-14T09:08:00.3007969+00:00",
+      "NumProgressed": 3739,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7258,7 +7263,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 822
+      "UsersEstimate": 823
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -7306,7 +7311,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -7322,7 +7327,7 @@
       "Name": "Strategist",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "REWARD_1_MEETING_RESISTANCE",
@@ -7330,7 +7335,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1719
+      "UsersEstimate": 1720
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -7386,7 +7391,7 @@
       "Name": "Sharpshooter",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 822
+      "UsersEstimate": 823
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -7410,7 +7415,7 @@
       "Name": "Precision Is Key",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -7418,7 +7423,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1532
+      "UsersEstimate": 1533
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -7458,7 +7463,7 @@
       "Name": "Lord of War",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1122
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -7474,7 +7479,7 @@
       "Name": "Resourceful",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1009
+      "UsersEstimate": 1010
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -7554,7 +7559,7 @@
       "Name": "Tinkerer",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
@@ -7578,7 +7583,7 @@
       "Name": "Locomotion Commotion",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "REWARD_5_BUNKER_BUSTER",
@@ -7586,7 +7591,7 @@
       "Name": "Change the Channel",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1158
+      "UsersEstimate": 1159
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -7602,7 +7607,7 @@
       "Name": "Road Rage",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "REWARD_67_NO_ASSISTANCE",
@@ -7618,7 +7623,7 @@
       "Name": "Taking it back",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1046
+      "UsersEstimate": 1047
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -7712,9 +7717,9 @@
       "ID": "REWARD_DLC01_06_HERR_TODAY",
       "SetID": "83mdf7p",
       "Name": "Herr Today, Gone Tomorrow",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 258
+      "UsersEstimate": 221
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
@@ -7817,13 +7822,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3688,
+      "Progressed": 3690,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3737,
+      "Progressed": 3739,
       "Completed": 11
     }
   ],
@@ -7831,8 +7836,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-10-13T09:59:46.3659401+00:00",
-  "LastChanged_Achievements": "2023-10-14T08:07:07.9414461+00:00",
+  "LastChanged_Achievements": "2023-10-14T09:08:00.3007965+00:00",
   "LastUpdate_AppInfo": "2023-10-07T09:57:23.5324772+00:00",
-  "LastUpdate_Ratings": "2023-10-14T07:59:40.2102841+00:00",
-  "LastUpdate_Achievements": "2023-10-14T08:07:07.9415451+00:00"
+  "LastUpdate_Ratings": "2023-10-14T09:00:01.8890972+00:00",
+  "LastUpdate_Achievements": "2023-10-14T09:08:00.3009225+00:00"
 }

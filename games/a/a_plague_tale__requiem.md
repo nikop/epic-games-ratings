@@ -21,7 +21,7 @@ Rating: 4.73 (Ranked 163)
 | Night guard | 43.00% | ~5,820 |
 | Nothing Left | 40.00% | ~5,414 |
 | Healing our Wounds | 37.00% | ~5,008 |
-| Dying Sun | 33.00% | ~4,467 |
+| Dying Sun | 34.00% | ~4,602 |
 | Improved crossbow | 27.00% | ~3,655 |
 | King Hugo | 25.00% | ~3,384 |
 | Mercy | 24.00% | ~3,249 |
@@ -30,8 +30,8 @@ Rating: 4.73 (Ranked 163)
 | Perfect throw | 22.00% | ~2,978 |
 | Knights! | 21.00% | ~2,843 |
 | Handful of pockets | 13.00% | ~1,760 |
+| Not a toy anymore | 12.00% | ~1,624 |
 | Pocket laboratory | 12.00% | ~1,624 |
-| Not a toy anymore | 11.00% | ~1,489 |
 | Herbalist | 8.00% | ~1,083 |
 | Fighter | 8.00% | ~1,083 |
 | Ornithologist | 5.00% | ~677 |

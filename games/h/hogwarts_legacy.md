@@ -5,7 +5,7 @@ Rating: 4.76 (Ranked 119)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 15.00% | ~44,742 |
+| The Sort Who Makes an Entrance | 15.00% | ~44,743 |
 | First Class Student | 13.00% | ~38,777 |
 | Troll with the Punches | 13.00% | ~38,777 |
 | A Keen Sense of Spell | 12.00% | ~35,794 |
@@ -19,9 +19,9 @@ Rating: 4.76 (Ranked 119)
 | The One Who Mastered Memories | 10.00% | ~29,828 |
 | The Hero of Hogwarts | 10.00% | ~29,828 |
 | Challenge Accepted | 10.00% | ~29,828 |
-| Followed the Butterflies | 9.00% | ~26,845 |
-| The Spell Master | 9.00% | ~26,845 |
-| Rising From the Ashes | 9.00% | ~26,845 |
+| Followed the Butterflies | 9.00% | ~26,846 |
+| The Spell Master | 9.00% | ~26,846 |
+| Rising From the Ashes | 9.00% | ~26,846 |
 | The Avenging Gazelle | 8.00% | ~23,863 |
 | A Sallow Grave | 8.00% | ~23,863 |
 | Flight the Good Flight | 8.00% | ~23,863 |
@@ -37,9 +37,9 @@ Rating: 4.76 (Ranked 119)
 | The Intrepid Explorer | 4.00% | ~11,931 |
 | The Gryffindor in the Graveyard | 4.00% | ~11,931 |
 | The Wise Owl | 4.00% | ~11,931 |
-| Put Down Roots | 3.00% | ~8,948 |
-| The Auror's Apprentice | 3.00% | ~8,948 |
-| Floo Around the World | 3.00% | ~8,948 |
+| Put Down Roots | 3.00% | ~8,949 |
+| The Auror's Apprentice | 3.00% | ~8,949 |
+| Floo Around the World | 3.00% | ~8,949 |
 | The Good Samaritan | 2.00% | ~5,966 |
 | Rise to the Challenges | 2.00% | ~5,966 |
 | Finishing Touches | 2.00% | ~5,966 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 119)
 | The Nature of the Beast | 0.70% | ~2,088 |
 | Collector's Edition | 0.30% | ~895 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,283 (Ranked 47)  
+Progressed: 298,285 (Ranked 47)  
 Completed: 485 (0.16%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 485 (0.16%) (Ranked 230)
 | 2023-10-11 | 298,177 | 483 |
 | 2023-10-12 | 298,217 | 485 |
 | 2023-10-13 | 298,257 | 485 |
-| 2023-10-14 | 298,283 | 485 |
+| 2023-10-14 | 298,285 | 485 |
 ## Awards
 Max (Character Customization): 23,491  (Ranked 17)  
 Sum: 45,784 (Ranked 30)  

@@ -106,6 +106,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Temple of Solomon | 0.40% | ~59 |
 | Learn to Play 4 | 0.40% | ~59 |
 | Babylonia | 0.40% | ~59 |
+| Assyrian Paganism | 0.40% | ~59 |
 | Economic Reform | 0.40% | ~59 |
 | Military Prestige | 0.40% | ~59 |
 | Dualism | 0.40% | ~59 |
@@ -113,6 +114,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Redemption | 0.40% | ~59 |
 | Revelation | 0.40% | ~59 |
 | Cimmerian Archer | 0.40% | ~59 |
+| Mounted Lancer | 0.40% | ~59 |
 | Phalangite | 0.40% | ~59 |
 | The Clergy | 0.40% | ~59 |
 | Poetic Leader | 0.40% | ~59 |
@@ -129,12 +131,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Rome | 0.30% | ~44 |
 | Old World Order | 0.30% | ~44 |
 | One True Faith | 0.30% | ~44 |
-| Assyrian Paganism | 0.30% | ~44 |
 | Hittite Paganism | 0.30% | ~44 |
 | Industrial Progress | 0.30% | ~44 |
 | Enlightenment | 0.30% | ~44 |
 | Veneration | 0.30% | ~44 |
-| Mounted Lancer | 0.30% | ~44 |
 | Turreted Elephant | 0.30% | ~44 |
 | All Nations | 0.30% | ~44 |
 | Ambition Victory | 0.30% | ~44 |
@@ -262,6 +262,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Ziggurat in Ur | 0.10% | ~15 |
 | Conquest Victory | 0.10% | ~15 |
 | No Characters | 0.10% | ~15 |
+| One City Challenge | 0.10% | ~15 |
 | Randomized Families | 0.10% | ~15 |
 | Randomized Leaders | 0.10% | ~15 |
 | Role-Playing | 0.10% | ~15 |
@@ -342,14 +343,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hardcore | 0.00% | ~0 |
 | Knowledge of the Ancients | 0.00% | ~0 |
 | Merchants of the Levant | 0.00% | ~0 |
-| One City Challenge | 0.00% | ~0 |
 | Win a 1-v-1 Game | 0.00% | ~0 |
 | Deposed Tribe | 0.00% | ~0 |
 | Religious Dissent | 0.00% | ~0 |
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,658 (Ranked 134)  
+Progressed: 14,660 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -526,7 +526,7 @@ Completed: 5 (0.03%) (Ranked 282)
 | 2023-10-11 | 14,606 | 5 |
 | 2023-10-12 | 14,624 | 5 |
 | 2023-10-13 | 14,652 | 5 |
-| 2023-10-14 | 14,658 | 5 |
+| 2023-10-14 | 14,660 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,836 (Ranked 210)  

@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Tough Decision | 94.00% | ~534 |
 | Blast From The Past | 85.00% | ~483 |
-| Kamikaze | 64.00% | ~364 |
+| Kamikaze | 65.00% | ~369 |
 | The Rebel And The Doctor | 58.00% | ~329 |
 | Beat It | 52.00% | ~295 |
 | Free Champagne | 48.00% | ~273 |

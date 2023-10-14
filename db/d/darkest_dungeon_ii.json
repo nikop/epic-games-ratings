@@ -8211,9 +8211,9 @@
       "Count": 949
     }
   ],
-  "EOS_Progressed": 120425,
+  "EOS_Progressed": 120426,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 638,
+  "EOS_NewPlayers": 636,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26456,6 +26456,11 @@
       "Time": "2023-10-14T08:04:39.7508811+00:00",
       "NumProgressed": 120425,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-14T09:05:25.6189274+00:00",
+      "NumProgressed": 120426,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 65,
@@ -26491,7 +26496,7 @@
       "Name": "A Life Well Lived",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2408
+      "UsersEstimate": 2409
     },
     {
       "ID": "altar_of_hope_unlock_hero_flagellant",
@@ -26507,7 +26512,7 @@
       "Name": "Unleash Hell",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 81889
+      "UsersEstimate": 81890
     },
     {
       "ID": "altar_of_hope_unlock_hero_jester",
@@ -26523,7 +26528,7 @@
       "Name": "Long Live the King",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 79480
+      "UsersEstimate": 79481
     },
     {
       "ID": "altar_of_hope_unlock_hero_occultist",
@@ -26539,7 +26544,7 @@
       "Name": "Boxcar Kid",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 72255
+      "UsersEstimate": 72256
     },
     {
       "ID": "altar_of_hope_unlock_hero_vestal",
@@ -26547,7 +26552,7 @@
       "Name": "Unfulfilled Desires",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 81889
+      "UsersEstimate": 81890
     },
     {
       "ID": "altar_of_hope_upgrade_total_full",
@@ -26571,7 +26576,7 @@
       "Name": "Hope Rekindled",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 60212
+      "UsersEstimate": 60213
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -26627,7 +26632,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 39740
+      "UsersEstimate": 39741
     },
     {
       "ID": "combat_kill_fanatics",
@@ -26675,7 +26680,7 @@
       "Name": "Clearing the Ledger",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2408
+      "UsersEstimate": 2409
     },
     {
       "ID": "combat_kill_leviathan",
@@ -26707,7 +26712,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 21676
+      "UsersEstimate": 21677
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -26763,7 +26768,7 @@
       "Name": "Rush Hour",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 72255
+      "UsersEstimate": 72256
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -26787,7 +26792,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 72255
+      "UsersEstimate": 72256
     },
     {
       "ID": "driving_distance_easy",
@@ -26795,7 +26800,7 @@
       "Name": "Ramble On",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 59008
+      "UsersEstimate": 59009
     },
     {
       "ID": "driving_distance_hard",
@@ -26835,7 +26840,7 @@
       "Name": "A Clear Conscience",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 83093
+      "UsersEstimate": 83094
     },
     {
       "ID": "hoarder_buy_epic_trinket",
@@ -26859,7 +26864,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 111995
+      "UsersEstimate": 111996
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -26883,7 +26888,7 @@
       "Name": "Pub Crawl",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2408
+      "UsersEstimate": 2409
     },
     {
       "ID": "relationships_all_negative_mountain",
@@ -26955,7 +26960,7 @@
       "Name": "Body of Work",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 12042
+      "UsersEstimate": 12043
     },
     {
       "ID": "run_victory_all_confessions_back_to_back",
@@ -26986,15 +26991,15 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 120425,
+      "Progressed": 120426,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-10-14T06:57:26.1627384+00:00",
-  "LastChanged_Achievements": "2023-10-14T08:04:39.7508807+00:00",
+  "LastChanged_Achievements": "2023-10-14T09:05:25.6189271+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:37.9819842+00:00",
-  "LastUpdate_Ratings": "2023-10-14T07:57:30.2355571+00:00",
-  "LastUpdate_Achievements": "2023-10-14T08:04:39.7511564+00:00"
+  "LastUpdate_Ratings": "2023-10-14T08:57:45.1621469+00:00",
+  "LastUpdate_Achievements": "2023-10-14T09:05:25.6190947+00:00"
 }

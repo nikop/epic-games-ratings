@@ -7953,9 +7953,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 63220,
+  "EOS_Progressed": 63223,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 395,
+  "EOS_NewPlayers": 397,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26713,6 +26713,11 @@
       "Time": "2023-10-14T08:03:10.1379631+00:00",
       "NumProgressed": 63220,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-14T09:03:41.7424859+00:00",
+      "NumProgressed": 63223,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -26724,7 +26729,7 @@
       "Name": "Against all odds",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7586
+      "UsersEstimate": 7587
     },
     {
       "ID": "Apple of my eye",
@@ -26892,7 +26897,7 @@
       "Name": "I can do it",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10115
+      "UsersEstimate": 10116
     },
     {
       "ID": "I spit on your grave",
@@ -26916,7 +26921,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10747
+      "UsersEstimate": 10748
     },
     {
       "ID": "Kingslayer",
@@ -26932,7 +26937,7 @@
       "Name": "Know your enemy",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 4425
+      "UsersEstimate": 4426
     },
     {
       "ID": "Lance-a-lot",
@@ -26948,7 +26953,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 20863
+      "UsersEstimate": 20864
     },
     {
       "ID": "Lawbringer",
@@ -26956,7 +26961,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 24656
+      "UsersEstimate": 24657
     },
     {
       "ID": "Lawmaker",
@@ -26980,7 +26985,7 @@
       "Name": "Mastery",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 4425
+      "UsersEstimate": 4426
     },
     {
       "ID": "Minor Clan",
@@ -27084,7 +27089,7 @@
       "Name": "This Is Our Land",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7586
+      "UsersEstimate": 7587
     },
     {
       "ID": "This is Sparta",
@@ -27131,15 +27136,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 63220,
+      "Progressed": 63223,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-13T23:00:09.6123922+00:00",
-  "LastChanged_Achievements": "2023-10-14T08:03:10.1379629+00:00",
+  "LastChanged_Achievements": "2023-10-14T09:03:41.7424854+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:27.1626185+00:00",
-  "LastUpdate_Ratings": "2023-10-14T08:00:58.1432286+00:00",
-  "LastUpdate_Achievements": "2023-10-14T08:03:10.1381222+00:00"
+  "LastUpdate_Ratings": "2023-10-14T09:01:23.2548175+00:00",
+  "LastUpdate_Achievements": "2023-10-14T09:03:41.7426755+00:00"
 }

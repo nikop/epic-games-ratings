@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 71,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2022-11-17T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T15:00:00+00:00",
@@ -4322,10 +4322,16 @@
       "Rating": 4.84,
       "NumberOfAwards": 3572,
       "NumberOfAwardsMax": 420
+    },
+    {
+      "Time": "2023-10-14T08:59:59.7008504+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 3573,
+      "NumberOfAwardsMax": 420
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3572,
+  "NumberOfAwards": 3573,
   "NumberOfAwardsMax": 420,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4333,7 +4339,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 338
+      "Count": 339
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4396,9 +4402,9 @@
       "Count": 304
     }
   ],
-  "EOS_Progressed": 247405,
+  "EOS_Progressed": 247406,
   "EOS_Completed": 854,
-  "EOS_NewPlayers": 899,
+  "EOS_NewPlayers": 895,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -23656,6 +23662,11 @@
       "Time": "2023-10-14T08:05:16.8193986+00:00",
       "NumProgressed": 247405,
       "NumCompleted": 854
+    },
+    {
+      "Time": "2023-10-14T09:06:04.3404711+00:00",
+      "NumProgressed": 247406,
+      "NumCompleted": 854
     }
   ],
   "TotalAchievements": 39,
@@ -23667,7 +23678,7 @@
       "Name": "Welcome to Earth",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 61851
+      "UsersEstimate": 61852
     },
     {
       "ID": "AchievementBananaLickerID",
@@ -23699,7 +23710,7 @@
       "Name": "San Angora: Become Human",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 66799
+      "UsersEstimate": 66800
     },
     {
       "ID": "AchievementBigFootID",
@@ -23723,7 +23734,7 @@
       "Name": "Raider of the Lost Parking Garage",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 64325
+      "UsersEstimate": 64326
     },
     {
       "ID": "AchievementCastleRenovationID",
@@ -23755,7 +23766,7 @@
       "Name": "Don\u0027t touch the servers",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 69273
+      "UsersEstimate": 69274
     },
     {
       "ID": "AchievementEggID",
@@ -23827,7 +23838,7 @@
       "Name": "Secret Society",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 111332
+      "UsersEstimate": 111333
     },
     {
       "ID": "AchievementIntroID",
@@ -23915,7 +23926,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 123702
+      "UsersEstimate": 123703
     },
     {
       "ID": "AchievementStreakingID",
@@ -23947,7 +23958,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 116280
+      "UsersEstimate": 116281
     },
     {
       "ID": "AchievementTrinketID",
@@ -23963,7 +23974,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 160813
+      "UsersEstimate": 160814
     },
     {
       "ID": "AchievementWhaleID",
@@ -23971,23 +23982,23 @@
       "Name": "Real Buoy",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 66799
+      "UsersEstimate": 66800
     }
   ],
   "AchievementSets": [
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 247405,
+      "Progressed": 247406,
       "Completed": 854
     }
   ],
   "FirstSeen": "2022-11-17T15:57:34.4341009+00:00",
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
-  "LastChanged": "2023-10-13T19:00:04.7301909+00:00",
-  "LastChanged_Achievements": "2023-10-14T08:05:16.8193982+00:00",
+  "LastChanged": "2023-10-14T08:59:59.7008503+00:00",
+  "LastChanged_Achievements": "2023-10-14T09:06:04.3404706+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:37.6967783+00:00",
-  "LastUpdate_Ratings": "2023-10-14T07:59:38.5428899+00:00",
-  "LastUpdate_Achievements": "2023-10-14T08:05:16.8195361+00:00"
+  "LastUpdate_Ratings": "2023-10-14T08:59:59.7008508+00:00",
+  "LastUpdate_Achievements": "2023-10-14T09:06:04.3406306+00:00"
 }

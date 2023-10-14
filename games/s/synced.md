@@ -5,15 +5,15 @@ Rating: 4.16 (Ranked 907)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 30.00% | ~18,894 |
-| As Far Away As Possible | 16.00% | ~10,077 |
+| Your Lucky Day | 30.00% | ~18,896 |
+| As Far Away As Possible | 16.00% | ~10,078 |
 | A Most Unstable Organism | 12.00% | ~7,558 |
-| No Time to Follow Protocol | 9.00% | ~5,668 |
-| Float Like a Butterfly... | 8.00% | ~5,038 |
+| No Time to Follow Protocol | 9.00% | ~5,669 |
+| Float Like a Butterfly... | 8.00% | ~5,039 |
 | Nano Connoisseur | 6.00% | ~3,779 |
 | In Two Places At Once | 6.00% | ~3,779 |
-| Pulling Your Weight | 3.00% | ~1,889 |
-| Reaping Rivals | 3.00% | ~1,889 |
+| Pulling Your Weight | 3.00% | ~1,890 |
+| Reaping Rivals | 3.00% | ~1,890 |
 | fifteenth Time's the Charm | 1.00% | ~630 |
 | More Power to You | 0.80% | ~504 |
 | Memory Keeper | 0.30% | ~189 |
@@ -22,7 +22,7 @@ Rating: 4.16 (Ranked 907)
 | Runs for Your Money | 0.10% | ~63 |
 | Past Master | 0.10% | ~63 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,981 (Ranked 98)  
+Progressed: 62,987 (Ranked 98)  
 Completed: 17 (0.03%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,14 +70,14 @@ Completed: 17 (0.03%) (Ranked 282)
 | 2023-10-11 | 62,597 | 14 |
 | 2023-10-12 | 62,755 | 15 |
 | 2023-10-13 | 62,918 | 16 |
-| 2023-10-14 | 62,981 | 17 |
+| 2023-10-14 | 62,987 | 17 |
 ## Awards
-Max (Great for Beginners): 66  (Ranked 396)  
-Sum: 261 (Ranked 364)  
-Diff (max vs sum): 32  
+Max (Great for Beginners): 67  (Ranked 395)  
+Sum: 262 (Ranked 364)  
+Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 66 |
+| This game is Great for Beginners | 67 |
 | This game has Diverse Characters | 43 |
 | This game is Highly Recommended | 38 |
 | This game has a Competitive Community | 32 |
@@ -123,3 +123,4 @@ Diff (max vs sum): 32
 | 2023-10-11 | 4.16 | 63 | 187 |
 | 2023-10-12 | 4.16 | 63 | 217 |
 | 2023-10-13 | 4.16 | 66 | 261 |
+| 2023-10-14 | 4.16 | 67 | 262 |

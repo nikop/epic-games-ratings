@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 174,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
     "PcReleaseDate": "2021-05-07T00:00:00+00:00",
@@ -324,9 +324,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 71330,
+  "EOS_Progressed": 71331,
   "EOS_Completed": 377,
-  "EOS_NewPlayers": 568,
+  "EOS_NewPlayers": 567,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -19719,6 +19719,11 @@
       "Time": "2023-10-14T07:07:59.6116719+00:00",
       "NumProgressed": 71330,
       "NumCompleted": 377
+    },
+    {
+      "Time": "2023-10-14T09:08:01.8150728+00:00",
+      "NumProgressed": 71331,
+      "NumCompleted": 377
     }
   ],
   "TotalAchievements": 24,
@@ -19746,7 +19751,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 48504
+      "UsersEstimate": 48505
     },
     {
       "ID": "BEST_FRIENDS",
@@ -19770,7 +19775,7 @@
       "Name": "ERADICATE",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 14979
+      "UsersEstimate": 14980
     },
     {
       "ID": "FETCH",
@@ -19778,7 +19783,7 @@
       "Name": "FETCH",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 19972
+      "UsersEstimate": 19973
     },
     {
       "ID": "FOXIN_AROUND",
@@ -19802,7 +19807,7 @@
       "Name": "GARDEN OF LIGHT",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 12839
+      "UsersEstimate": 12840
     },
     {
       "ID": "INFUSED_WITH_LIGHT",
@@ -19874,7 +19879,7 @@
       "Name": "SPIRIT BARK",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 14979
+      "UsersEstimate": 14980
     },
     {
       "ID": "SPIRIT_DASH",
@@ -19921,7 +19926,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 71330,
+      "Progressed": 71331,
       "Completed": 377
     }
   ],
@@ -19929,8 +19934,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-10-14T08:07:09.4668401+00:00",
+  "LastChanged_Achievements": "2023-10-14T09:08:01.815072+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:52.3980127+00:00",
-  "LastUpdate_Ratings": "2023-10-14T08:01:30.4257258+00:00",
-  "LastUpdate_Achievements": "2023-10-14T08:07:09.466981+00:00"
+  "LastUpdate_Ratings": "2023-10-14T09:02:12.0257111+00:00",
+  "LastUpdate_Achievements": "2023-10-14T09:08:01.815241+00:00"
 }

@@ -712,7 +712,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2509,
+  "EOS_Progressed": 2510,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 362,
   "EOS_NewCompleters": 0,
@@ -3082,6 +3082,11 @@
       "Time": "2023-10-14T08:05:31.8694335+00:00",
       "NumProgressed": 2509,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-14T09:06:20.2579755+00:00",
+      "NumProgressed": 2510,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -3094,7 +3099,7 @@
       "Name": "Primetime",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "achievement_10",
@@ -3102,7 +3107,7 @@
       "Name": "Bragging Rights",
       "Percentage": 56,
       "XP": 90,
-      "UsersEstimate": 1405
+      "UsersEstimate": 1406
     },
     {
       "ID": "achievement_11",
@@ -3158,7 +3163,7 @@
       "Name": "Pocket Ace",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "achievement_18",
@@ -3246,7 +3251,7 @@
       "Name": "Pro Bowler",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "achievement_9",
@@ -3254,14 +3259,14 @@
       "Name": "Head-to-Head",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     }
   ],
   "AchievementSets": [
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 2509,
+      "Progressed": 2510,
       "Completed": 0
     }
   ],
@@ -3269,8 +3274,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-10-13T04:00:09.5787966+00:00",
-  "LastChanged_Achievements": "2023-10-14T08:05:31.869433+00:00",
+  "LastChanged_Achievements": "2023-10-14T09:06:20.2579751+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:58.3611516+00:00",
-  "LastUpdate_Ratings": "2023-10-14T08:02:05.4762589+00:00",
-  "LastUpdate_Achievements": "2023-10-14T08:05:31.8694628+00:00"
+  "LastUpdate_Ratings": "2023-10-14T09:03:05.8809242+00:00",
+  "LastUpdate_Achievements": "2023-10-14T09:06:20.2580155+00:00"
 }

@@ -1,36 +1,36 @@
 # Disney Speedstorm
 [Store](https://store.epicgames.com/en-US/p/disney-speedstorm)  
 [View Rawdata](../../db/d/disney_speedstorm.json)  
-Rating: 4.42 (Ranked 688)  
+Rating: 4.42 (Ranked 689)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 5.00% | ~10,938 |
-| IT MAKES BOOM! | 3.00% | ~6,563 |
-| EXTRA BOOST | 2.00% | ~4,375 |
-| PROTECTED | 1.00% | ~2,188 |
-| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,188 |
-| AGGRESSIVE RACER | 1.00% | ~2,188 |
-| PRO | 1.00% | ~2,188 |
-| A TIGER'S FEAR | 0.80% | ~1,750 |
+| ROOKIE | 5.00% | ~10,945 |
+| IT MAKES BOOM! | 3.00% | ~6,567 |
+| EXTRA BOOST | 2.00% | ~4,378 |
+| PROTECTED | 1.00% | ~2,189 |
+| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,189 |
+| AGGRESSIVE RACER | 1.00% | ~2,189 |
+| PRO | 1.00% | ~2,189 |
+| A TIGER'S FEAR | 0.80% | ~1,751 |
 | ACE SPEEDSTER | 0.50% | ~1,094 |
-| IT'S A LONG WAY TO THE TOP | 0.40% | ~875 |
-| DEFEAT OUR CHAMPION | 0.40% | ~875 |
-| TRAINING HARD | 0.30% | ~656 |
-| RELEASE THE KRAKEN | 0.30% | ~656 |
-| BE OUR GUEST | 0.30% | ~656 |
-| ACE BRAWLER | 0.30% | ~656 |
-| ACE DEFENDER | 0.30% | ~656 |
-| THE EYE OF THE HUNTER | 0.30% | ~656 |
-| FRIENDLY | 0.30% | ~656 |
-| MASTER | 0.30% | ~656 |
-| LEGENDARY HERO | 0.30% | ~656 |
+| IT'S A LONG WAY TO THE TOP | 0.40% | ~876 |
+| DEFEAT OUR CHAMPION | 0.40% | ~876 |
+| TRAINING HARD | 0.30% | ~657 |
+| RELEASE THE KRAKEN | 0.30% | ~657 |
+| BE OUR GUEST | 0.30% | ~657 |
+| ACE BRAWLER | 0.30% | ~657 |
+| ACE DEFENDER | 0.30% | ~657 |
+| THE EYE OF THE HUNTER | 0.30% | ~657 |
+| FRIENDLY | 0.30% | ~657 |
+| MASTER | 0.30% | ~657 |
+| LEGENDARY HERO | 0.30% | ~657 |
 | PERFECTLY POISED | 0.20% | ~438 |
 | EXPERIENCED CREW | 0.20% | ~438 |
 | ACE TRICKSTER | 0.20% | ~438 |
 | FRAMED! | 0.10% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,769 (Ranked 63)  
+Progressed: 218,896 (Ranked 63)  
 Completed: 231 (0.11%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 231 (0.11%) (Ranked 244)
 | 2023-10-11 | 207,182 | 229 |
 | 2023-10-12 | 211,811 | 230 |
 | 2023-10-13 | 216,960 | 230 |
-| 2023-10-14 | 218,769 | 231 |
+| 2023-10-14 | 218,896 | 231 |
 ## Awards
 Max (Diverse Characters): 20  (Ranked 526)  
 Sum: 20 (Ranked 527)  

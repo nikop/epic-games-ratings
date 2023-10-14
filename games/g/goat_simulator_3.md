@@ -7,21 +7,21 @@ Rating: 4.84 (Ranked 49)
 | ---- | ---------- | ----- |
 | Forgotten Sorority | 91.00% | ~225,139 |
 | Private Club | 74.00% | ~183,080 |
-| Rogue Guild | 65.00% | ~160,813 |
+| Rogue Guild | 65.00% | ~160,814 |
 | I Watched the Intro | 57.00% | ~141,021 |
 | Covert Consortium | 55.00% | ~136,073 |
 | Goat Queen | 53.00% | ~131,125 |
-| Reach the Stratosphere | 50.00% | ~123,702 |
-| Synchronization Complete | 47.00% | ~116,280 |
-| Secret Society | 45.00% | ~111,332 |
+| Reach the Stratosphere | 50.00% | ~123,703 |
+| Synchronization Complete | 47.00% | ~116,281 |
+| Secret Society | 45.00% | ~111,333 |
 | Shadow Syndicate | 38.00% | ~94,014 |
 | What a Waste of Money | 33.00% | ~81,644 |
 | New Goat Order | 30.00% | ~74,222 |
-| Don't touch the servers | 28.00% | ~69,273 |
-| San Angora: Become Human | 27.00% | ~66,799 |
-| Real Buoy | 27.00% | ~66,799 |
-| Raider of the Lost Parking Garage | 26.00% | ~64,325 |
-| Welcome to Earth | 25.00% | ~61,851 |
+| Don't touch the servers | 28.00% | ~69,274 |
+| San Angora: Become Human | 27.00% | ~66,800 |
+| Real Buoy | 27.00% | ~66,800 |
+| Raider of the Lost Parking Garage | 26.00% | ~64,326 |
+| Welcome to Earth | 25.00% | ~61,852 |
 | Into the Matrix | 19.00% | ~47,007 |
 | Egg Simulator | 18.00% | ~44,533 |
 | Where is It? | 17.00% | ~42,059 |
@@ -45,7 +45,7 @@ Rating: 4.84 (Ranked 49)
 | Move! That! Bus! | 0.60% | ~1,484 |
 | G.O.A.T | 0.30% | ~742 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 247,405 (Ranked 54)  
+Progressed: 247,406 (Ranked 54)  
 Completed: 854 (0.35%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,10 +222,10 @@ Completed: 854 (0.35%) (Ranked 198)
 | 2023-10-11 | 247,133 | 854 |
 | 2023-10-12 | 247,246 | 854 |
 | 2023-10-13 | 247,365 | 854 |
-| 2023-10-14 | 247,405 | 854 |
+| 2023-10-14 | 247,406 | 854 |
 ## Awards
 Max (Great for Beginners): 420  (Ranked 218)  
-Sum: 3,572 (Ranked 157)  
+Sum: 3,573 (Ranked 157)  
 Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
@@ -235,7 +235,7 @@ Diff (max vs sum): 61
 | This game has Amazing Characters | 357 |
 | This game is Extremely Fun | 351 |
 | This game has Amazing Storytelling | 340 |
-| This game is Relaxing | 338 |
+| This game is Relaxing | 339 |
 | This game has a Silly Community | 338 |
 | This game has Quickly Understood Controls | 335 |
 | This game has Easy Combat | 304 |
@@ -445,3 +445,4 @@ Diff (max vs sum): 61
 | 2023-10-11 | 4.84 | 418 | 3,553 |
 | 2023-10-12 | 4.84 | 420 | 3,563 |
 | 2023-10-13 | 4.84 | 420 | 3,572 |
+| 2023-10-14 | 4.84 | 420 | 3,573 |

@@ -215,7 +215,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4309,
+  "EOS_Progressed": 4310,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
@@ -1355,6 +1355,11 @@
       "Time": "2023-10-11T17:04:45.1102904+00:00",
       "NumProgressed": 4309,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-14T09:05:27.4107877+00:00",
+      "NumProgressed": 4310,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 101,
@@ -1374,7 +1379,7 @@
       "Name": "Not a small trader anymore",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ACHIEVEMENT_AVALANCHE_MINES",
@@ -1446,7 +1451,7 @@
       "Name": "I like to build stuff... III",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ACHIEVEMENT_BUILDINGS4",
@@ -1478,7 +1483,7 @@
       "Name": "The King\u0027s new clothes I",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ACHIEVEMENT_CLOTHES2",
@@ -1606,7 +1611,7 @@
       "Name": "Builder II",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ACHIEVEMENT_POPULATION3",
@@ -2030,7 +2035,7 @@
       "Name": "Tax-man III",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ACHIEVEMENT_TAXES4",
@@ -2094,7 +2099,7 @@
       "Name": "Tools of the trade I",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ACHIEVEMENT_TOOLS2",
@@ -2150,7 +2155,7 @@
       "Name": "Conflicting parties",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION06",
@@ -2173,15 +2178,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4309,
+      "Progressed": 4310,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-10-14T08:04:41.3349377+00:00",
+  "LastChanged_Achievements": "2023-10-14T09:05:27.4107873+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:55.1229801+00:00",
-  "LastUpdate_Ratings": "2023-10-14T07:59:55.5965542+00:00",
-  "LastUpdate_Achievements": "2023-10-14T08:04:41.335105+00:00"
+  "LastUpdate_Ratings": "2023-10-14T09:00:17.7686392+00:00",
+  "LastUpdate_Achievements": "2023-10-14T09:05:27.4109439+00:00"
 }

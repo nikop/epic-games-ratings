@@ -5642,9 +5642,9 @@
       "ID": "ACH_GET_LEZDUIT",
       "SetID": "cdkbb11",
       "Name": "Lezduit!",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH_GET_MAGBOOTS",
@@ -5706,9 +5706,9 @@
       "ID": "ACH_KILL_DOUGLAS",
       "SetID": "cdkbb11",
       "Name": "G3 Graduation",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 194
+      "UsersEstimate": 218
     },
     {
       "ID": "ACH_KILL_GARM",
@@ -5937,8 +5937,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-07T05:03:09.4311759+00:00",
-  "LastChanged_Achievements": "2023-10-14T08:05:00.2095234+00:00",
+  "LastChanged_Achievements": "2023-10-14T09:05:46.8671821+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:51.1168375+00:00",
-  "LastUpdate_Ratings": "2023-10-14T08:00:21.9293222+00:00",
-  "LastUpdate_Achievements": "2023-10-14T08:05:00.2096313+00:00"
+  "LastUpdate_Ratings": "2023-10-14T09:00:45.6404352+00:00",
+  "LastUpdate_Achievements": "2023-10-14T09:05:46.8672558+00:00"
 }

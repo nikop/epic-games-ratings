@@ -12,8 +12,8 @@
 | Risky Rescue | 55.00% | ~18 |
 | Carlos Is Tangled | 52.00% | ~17 |
 | Mandy Family | 45.00% | ~15 |
+| Clear the Road | 36.00% | ~12 |
 | Break Time | 33.00% | ~11 |
-| Clear the Road | 33.00% | ~11 |
 | Paw patrol member | 33.00% | ~11 |
 | Robot Out of Control | 33.00% | ~11 |
 | Master of the Rope | 30.00% | ~10 |
@@ -21,8 +21,8 @@
 | The Fastest | 27.00% | ~9 |
 | Never Miss | 27.00% | ~9 |
 | Adventure Bay’s Citizen | 27.00% | ~9 |
+| In the Air | 24.00% | ~8 |
 | Don’t Miss Any | 24.00% | ~8 |
-| In the Air | 21.00% | ~7 |
 | Animal Sighting | 21.00% | ~7 |
 | Mountain and Ice | 21.00% | ~7 |
 | You Have Been Everywhere | 18.00% | ~6 |

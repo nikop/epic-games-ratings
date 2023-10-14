@@ -1,31 +1,31 @@
 # Q.U.B.E. 2
 [Store](https://store.epicgames.com/en-US/p/q-u-b-e-2)  
 [View Rawdata](../../db/q/q.u.b.e._2.json)  
-Rating: 4.42 (Ranked 688)  
+Rating: 4.43 (Ranked 672)  
 Number of Ratings: 94  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost in Space | 77.00% | ~8,235 |
-| Quick Understanding of Block Extrusion | 69.00% | ~7,380 |
-| Nature or Nurture | 47.00% | ~5,027 |
-| Power Glove | 44.00% | ~4,706 |
-| Forgotten Memories | 36.00% | ~3,850 |
-| Cogs in the Machine | 26.00% | ~2,781 |
-| Mission Success | 10.00% | ~1,070 |
-| There's No Place Like Home | 10.00% | ~1,070 |
-| Green Cube Killer | 9.00% | ~963 |
-| Infinity Loop | 5.00% | ~535 |
-| Path to Salvation | 5.00% | ~535 |
-| Descendants | 4.00% | ~428 |
-| The Flawed Teacher | 3.00% | ~321 |
-| To Infinity and Beyond | 3.00% | ~321 |
-| The Truthful Enemy | 1.00% | ~107 |
-| Laser Sharp | 0.30% | ~32 |
-| Home Stretch | 0.20% | ~21 |
-| Get me out of here | 0.20% | ~21 |
+| Lost in Space | 77.00% | ~8,408 |
+| Quick Understanding of Block Extrusion | 69.00% | ~7,535 |
+| Nature or Nurture | 47.00% | ~5,132 |
+| Power Glove | 44.00% | ~4,805 |
+| Forgotten Memories | 36.00% | ~3,931 |
+| Cogs in the Machine | 26.00% | ~2,839 |
+| Mission Success | 10.00% | ~1,092 |
+| There's No Place Like Home | 10.00% | ~1,092 |
+| Green Cube Killer | 9.00% | ~983 |
+| Infinity Loop | 5.00% | ~546 |
+| Path to Salvation | 5.00% | ~546 |
+| Descendants | 4.00% | ~437 |
+| The Flawed Teacher | 3.00% | ~328 |
+| To Infinity and Beyond | 3.00% | ~328 |
+| The Truthful Enemy | 1.00% | ~109 |
+| Laser Sharp | 0.30% | ~33 |
+| Bronze collector | 0.20% | ~22 |
+| Home Stretch | 0.20% | ~22 |
+| Get me out of here | 0.20% | ~22 |
 | True collector | 0.10% | ~11 |
-| Bronze collector | 0.10% | ~11 |
 | Gold collector | 0.10% | ~11 |
 | Silver collector | 0.10% | ~11 |
 | King of the Collectables | 0.10% | ~11 |
@@ -36,7 +36,7 @@ Number of Ratings: 94  (23.09.2022)
 | QUBE Master | 0.10% | ~11 |
 | Expert Collector | 0.10% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,695 (Ranked 145)  
+Progressed: 10,920 (Ranked 144)  
 Completed: 3 (0.03%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 3 (0.03%) (Ranked 282)
 | 2023-10-11 | 762 | 1 |
 | 2023-10-12 | 3,214 | 1 |
 | 2023-10-13 | 9,184 | 3 |
-| 2023-10-14 | 10,695 | 3 |
+| 2023-10-14 | 10,920 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -161,3 +161,4 @@ Completed: 3 (0.03%) (Ranked 282)
 | 2023-10-03 | 4.42 | - | 0 | 0 |
 | 2023-10-04 | 4.41 | - | 0 | 0 |
 | 2023-10-05 | 4.42 | - | 0 | 0 |
+| 2023-10-14 | 4.43 | - | 0 | 0 |
