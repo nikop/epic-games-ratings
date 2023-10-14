@@ -1,6 +1,6 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
-| 1 | [Fortnite](games/f/fortnite.md) | 1,813,870 | 4.29 | 818 |
+| 1 | [Fortnite](games/f/fortnite.md) | 1,819,231 | 4.29 | 818 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 577,018 | 4.48 | 607 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 310,011 | 4.68 | 240 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 242,360 | 4.68 | 240 |
@@ -16,7 +16,7 @@
 | 14 | [Destiny 2](games/d/destiny_2.md) | 38,317 | 4.49 | 591 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 33,877 | 4.51 | 551 |
 | 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 29,023 | 4.64 | 321 |
-| 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 23,491 | 4.76 | 119 |
+| 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 23,517 | 4.76 | 119 |
 | 18 | [Dauntless](games/d/dauntless.md) | 22,765 | 4.53 | 525 |
 | 19 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 20,261 | 4.26 | 843 |
 | 20 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 19,861 | 4.57 | 454 |
@@ -39,7 +39,7 @@
 | 37 | [SnowRunner](games/s/snowrunner.md) | 11,266 | 4.76 | 119 |
 | 38 | [HITMAN World of Assassination](games/h/hitman_3.md) | 10,314 | 4.78 | 98 |
 | 39 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 10,241 | 4.61 | 374 |
-| 40 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 9,514 | 4.57 | 454 |
+| 40 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 9,523 | 4.57 | 454 |
 | 41 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 8,761 | 4.58 | 437 |
 | 42 | [Control](games/c/control.md) | 8,590 | 4.60 | 398 |
 | 43 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 8,421 | 4.89 | 10 |
@@ -56,8 +56,8 @@
 | 54 | [Sifu](games/s/sifu.md) | 6,675 | 4.82 | 61 |
 | 55 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 6,534 | 4.69 | 221 |
 | 56 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,461 | 4.80 | 82 |
-| 57 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,436 | 4.58 | 437 |
-| 58 | [Dead Island 2](games/d/dead_island_2.md) | 6,420 | 4.54 | 510 |
+| 57 | [Dead Island 2](games/d/dead_island_2.md) | 6,442 | 4.54 | 510 |
+| 58 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,436 | 4.58 | 437 |
 | 59 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 6,213 | 4.75 | 139 |
 | 60 | [Bloons TD 6](games/b/bloons_td_6.md) | 6,182 | 4.77 | 111 |
 | 61 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,043 | 4.79 | 91 |
@@ -66,7 +66,7 @@
 | 64 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,915 | 4.66 | 282 |
 | 65 | [Cities: Skylines](games/c/cities__skylines.md) | 5,755 | 4.66 | 282 |
 | 66 | [Prey](games/p/prey.md) | 5,730 | 4.62 | 352 |
-| 67 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,589 | 4.85 | 42 |
+| 67 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,590 | 4.85 | 42 |
 | 68 | [Rogue Company](games/r/rogue_company.md) | 5,534 | 4.32 | 799 |
 | 69 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,404 | 4.06 | 950 |
 | 70 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 5,165 | 4.69 | 221 |
@@ -87,7 +87,7 @@
 | 85 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,808 | 4.27 | 835 |
 | 86 | [Paladins](games/p/paladins.md) | 3,718 | 4.33 | 790 |
 | 87 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,665 | 4.68 | 240 |
-| 88 | [Trackmania](games/t/trackmania.md) | 3,633 | 4.67 | 261 |
+| 88 | [Trackmania](games/t/trackmania.md) | 3,645 | 4.67 | 261 |
 | 89 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,631 | 4.46 | 628 |
 | 90 | [Gloomhaven](games/g/gloomhaven.md) | 3,552 | 4.47 | 620 |
 | 91 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,371 | 4.68 | 240 |
@@ -260,9 +260,9 @@
 | 258 | [Roller Champions™](games/r/roller_champions™.md) | 259 | 4.34 | 783 |
 | 259 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 254 | 4.45 | 644 |
 | 260 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 253 | 4.67 | 261 |
-| 261 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 250 | 4.83 | 56 |
-| 262 | [Crysis Remastered](games/c/crysis_remastered.md) | 249 | 4.41 | 698 |
-| 263 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 247 | 4.36 | 760 |
+| 261 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 251 | 4.36 | 760 |
+| 262 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 250 | 4.83 | 56 |
+| 263 | [Crysis Remastered](games/c/crysis_remastered.md) | 249 | 4.41 | 698 |
 | 264 | [Overcooked! 2](games/o/overcooked!_2.md) | 242 | 4.72 | 178 |
 | 265 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 238 | 4.43 | 672 |
 | 266 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 225 | 4.58 | 437 |
@@ -283,8 +283,8 @@
 | 281 | [Crashlands](games/c/crashlands.md) | 194 | 4.65 | 300 |
 | 281 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 194 | 4.52 | 538 |
 | 283 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 190 | 4.81 | 76 |
-| 284 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 187 | 4.62 | 352 |
-| 284 | [Predecessor](games/p/predecessor.md) | 187 | 4.43 | 672 |
+| 284 | [Predecessor](games/p/predecessor.md) | 188 | 4.43 | 672 |
+| 285 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 187 | 4.62 | 352 |
 | 286 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 185 | 4.63 | 337 |
 | 287 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 183 | 4.22 | 871 |
 | 288 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 182 | 4.08 | 940 |
