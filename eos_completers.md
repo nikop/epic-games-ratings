@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 50.57% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 50.51% |
 | 3 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.15% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.99% |
@@ -70,7 +70,7 @@
 | 68 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.45% |
 | 69 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.11% |
 | 70 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.02% |
-| 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.93% |
+| 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.94% |
 | 72 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 3.90% |
 | 73 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.83% |
 | 74 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
@@ -163,7 +163,7 @@
 | 161 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
 | 162 | [Potion Permit](games/p/potion_permit.md) | 0.62% |
 | 163 | [Haven](games/h/haven.md) | 0.61% |
-| 164 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.60% |
+| 164 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.59% |
 | 165 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.58% |
 | 165 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.58% |
 | 165 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.58% |
