@@ -6,36 +6,36 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~112,063 |
-| Don't Make Me Turn This Coach Around | 71.00% | ~85,554 |
-| A Clear Conscience | 69.00% | ~83,144 |
-| Unleash Hell | 68.00% | ~81,939 |
-| Unfulfilled Desires | 68.00% | ~81,939 |
-| Funny Guy | 67.00% | ~80,734 |
-| Unshackled | 67.00% | ~80,734 |
-| Long Live the King | 66.00% | ~79,529 |
-| Resurrection | 62.00% | ~74,709 |
-| Wyrdly Reconstructed | 62.00% | ~74,709 |
-| Boxcar Kid | 60.00% | ~72,299 |
-| Rush Hour | 60.00% | ~72,299 |
-| To Grandmother's House | 60.00% | ~72,299 |
-| Serenity Now! | 54.00% | ~65,069 |
-| Hope Rekindled | 50.00% | ~60,249 |
-| Ramble On | 49.00% | ~59,044 |
-| Nope | 49.00% | ~59,044 |
-| This Looks Familiar | 38.00% | ~45,789 |
-| Now Stay Dead | 38.00% | ~45,789 |
-| Merry Time | 36.00% | ~43,379 |
-| Harvest Festival | 36.00% | ~43,379 |
-| Hot Air | 36.00% | ~43,379 |
-| Creep and Sleep | 33.00% | ~39,764 |
-| Overdue Notice | 32.00% | ~38,559 |
-| Banishment | 31.00% | ~37,354 |
-| Whale | 31.00% | ~37,354 |
-| FNG | 30.00% | ~36,149 |
-| Predator | 25.00% | ~30,124 |
-| Reverse Banditry | 25.00% | ~30,124 |
-| Autodidact | 25.00% | ~30,124 |
+| A Place to Lay Your Head | 93.00% | ~112,066 |
+| Don't Make Me Turn This Coach Around | 71.00% | ~85,556 |
+| A Clear Conscience | 69.00% | ~83,146 |
+| Unleash Hell | 68.00% | ~81,941 |
+| Unfulfilled Desires | 68.00% | ~81,941 |
+| Funny Guy | 67.00% | ~80,736 |
+| Unshackled | 67.00% | ~80,736 |
+| Long Live the King | 66.00% | ~79,531 |
+| Resurrection | 62.00% | ~74,711 |
+| Wyrdly Reconstructed | 62.00% | ~74,711 |
+| Boxcar Kid | 60.00% | ~72,301 |
+| Rush Hour | 60.00% | ~72,301 |
+| To Grandmother's House | 60.00% | ~72,301 |
+| Serenity Now! | 54.00% | ~65,071 |
+| Hope Rekindled | 50.00% | ~60,250 |
+| Ramble On | 49.00% | ~59,045 |
+| Nope | 49.00% | ~59,045 |
+| This Looks Familiar | 38.00% | ~45,790 |
+| Now Stay Dead | 38.00% | ~45,790 |
+| Merry Time | 36.00% | ~43,380 |
+| Harvest Festival | 36.00% | ~43,380 |
+| Hot Air | 36.00% | ~43,380 |
+| Creep and Sleep | 33.00% | ~39,765 |
+| Overdue Notice | 32.00% | ~38,560 |
+| Banishment | 31.00% | ~37,355 |
+| Whale | 31.00% | ~37,355 |
+| FNG | 30.00% | ~36,150 |
+| Predator | 25.00% | ~30,125 |
+| Reverse Banditry | 25.00% | ~30,125 |
+| Autodidact | 25.00% | ~30,125 |
 | Meat and Greet | 23.00% | ~27,715 |
 | Road Trip | 22.00% | ~26,510 |
 | Spelunker | 21.00% | ~25,305 |
@@ -65,14 +65,14 @@ Number of Ratings: 7,767  (23.09.2022)
 | Eidetic | 1.00% | ~1,205 |
 | Grand Slam | 1.00% | ~1,205 |
 | Circle of Life | 0.80% | ~964 |
-| Tears in the Rain | 0.70% | ~843 |
+| Tears in the Rain | 0.70% | ~844 |
 | 20,000 Leagues Above the Sea | 0.20% | ~241 |
 | The Clash | 0.20% | ~241 |
 | Hard Mode | 0.20% | ~241 |
-| Loop Year | 0.10% | ~120 |
-| No Gravestone Left Unturned | 0.10% | ~120 |
+| Loop Year | 0.10% | ~121 |
+| No Gravestone Left Unturned | 0.10% | ~121 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 120,498 (Ranked 77)  
+Progressed: 120,501 (Ranked 77)  
 Completed: 1 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,16 +239,16 @@ Completed: 1 (0.00%) (Ranked 314)
 | 2023-10-11 | 120,228 | 1 |
 | 2023-10-12 | 120,307 | 1 |
 | 2023-10-13 | 120,395 | 1 |
-| 2023-10-14 | 120,498 | 1 |
+| 2023-10-14 | 120,501 | 1 |
 ## Awards
 Max (Character Customization): 7,457  (Ranked 51)  
-Sum: 19,528 (Ranked 57)  
+Sum: 19,530 (Ranked 57)  
 Diff (max vs sum): -6  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,457 |
 | This game has Diverse Characters | 1,562 |
-| This game has Challenging Combat | 1,491 |
+| This game has Challenging Combat | 1,493 |
 | This game is Highly Recommended | 1,432 |
 | This game is Extremely Fun | 1,390 |
 | This game has Amazing Characters | 1,384 |
@@ -521,4 +521,4 @@ Diff (max vs sum): -6
 | 2023-10-11 | 4.68 | - | 7,450 | 19,501 |
 | 2023-10-12 | 4.68 | - | 7,452 | 19,507 |
 | 2023-10-13 | 4.68 | - | 7,452 | 19,519 |
-| 2023-10-14 | 4.68 | - | 7,457 | 19,528 |
+| 2023-10-14 | 4.68 | - | 7,457 | 19,530 |

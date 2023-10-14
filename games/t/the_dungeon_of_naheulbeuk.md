@@ -6,31 +6,31 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 33.00% | ~76,169 |
-| Where's that freaking Dwarf? | 6.00% | ~13,849 |
-| Alt+F4 | 6.00% | ~13,849 |
-| Déjà vu | 5.00% | ~11,541 |
+| Sowwy! | 33.00% | ~76,175 |
+| Where's that freaking Dwarf? | 6.00% | ~13,850 |
+| Alt+F4 | 6.00% | ~13,850 |
+| Déjà vu | 5.00% | ~11,542 |
 | Sock! SOCK! | 4.00% | ~9,233 |
 | Speedrun | 4.00% | ~9,233 |
-| A beer, two curses, three companions | 3.00% | ~6,924 |
-| GG EZ | 3.00% | ~6,924 |
-| DM intervention | 3.00% | ~6,924 |
-| Fireproof Wizardess | 3.00% | ~6,924 |
-| Livin' in a dwarven paradise | 2.00% | ~4,616 |
-| Way of the Wimp | 2.00% | ~4,616 |
-| The plot thickens... At the tavern | 2.00% | ~4,616 |
-| The demons' feast | 2.00% | ~4,616 |
-| The Great Library | 2.00% | ~4,616 |
-| Torture and Sensibility | 2.00% | ~4,616 |
-| Urik's Depths | 2.00% | ~4,616 |
-| The Dungeon Master | 2.00% | ~4,616 |
-| The Statuette of Gladeulfeurah | 2.00% | ~4,616 |
-| The Woman in the High Castle | 2.00% | ~4,616 |
-| A tale of adventurers not quite like the others... | 2.00% | ~4,616 |
-| The Ranger of Chaos | 2.00% | ~4,616 |
-| I am the night | 2.00% | ~4,616 |
-| Team Building Exercise | 2.00% | ~4,616 |
-| Oh, when I'll be level 10... | 2.00% | ~4,616 |
+| A beer, two curses, three companions | 3.00% | ~6,925 |
+| GG EZ | 3.00% | ~6,925 |
+| DM intervention | 3.00% | ~6,925 |
+| Fireproof Wizardess | 3.00% | ~6,925 |
+| Livin' in a dwarven paradise | 2.00% | ~4,617 |
+| Way of the Wimp | 2.00% | ~4,617 |
+| The plot thickens... At the tavern | 2.00% | ~4,617 |
+| The demons' feast | 2.00% | ~4,617 |
+| The Great Library | 2.00% | ~4,617 |
+| Torture and Sensibility | 2.00% | ~4,617 |
+| Urik's Depths | 2.00% | ~4,617 |
+| The Dungeon Master | 2.00% | ~4,617 |
+| The Statuette of Gladeulfeurah | 2.00% | ~4,617 |
+| The Woman in the High Castle | 2.00% | ~4,617 |
+| A tale of adventurers not quite like the others... | 2.00% | ~4,617 |
+| The Ranger of Chaos | 2.00% | ~4,617 |
+| I am the night | 2.00% | ~4,617 |
+| Team Building Exercise | 2.00% | ~4,617 |
+| Oh, when I'll be level 10... | 2.00% | ~4,617 |
 | Shiny and Crôm | 1.00% | ~2,308 |
 | Res Judicata | 1.00% | ~2,308 |
 | The Famous Dungeon of Naheulbeuk | 1.00% | ~2,308 |
@@ -40,9 +40,9 @@ Number of Ratings: 118  (23.09.2022)
 | The beards of change | 1.00% | ~2,308 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,308 |
 | Thieves' Guild Accreditation | 1.00% | ~2,308 |
-| Dead for good | 0.90% | ~2,077 |
-| Lust and Debauchery | 0.90% | ~2,077 |
-| Material Girl | 0.90% | ~2,077 |
+| Dead for good | 0.90% | ~2,078 |
+| Lust and Debauchery | 0.90% | ~2,078 |
+| Material Girl | 0.90% | ~2,078 |
 | Gargantua | 0.80% | ~1,847 |
 | In Navalu's footsteps | 0.70% | ~1,616 |
 | We come in peace | 0.60% | ~1,385 |
@@ -51,9 +51,9 @@ Number of Ratings: 118  (23.09.2022)
 | An old poacher makes the best gamekeeper | 0.50% | ~1,154 |
 | Law and Order | 0.50% | ~1,154 |
 | Scholar of the Lands of Fangh | 0.40% | ~923 |
-| Friendly fire | 0.30% | ~692 |
-| I'd rather... Just... Sing! | 0.30% | ~692 |
-| It's been a hard day's night | 0.30% | ~692 |
+| Friendly fire | 0.30% | ~693 |
+| I'd rather... Just... Sing! | 0.30% | ~693 |
+| It's been a hard day's night | 0.30% | ~693 |
 | The number of the counting shalt be 7 | 0.20% | ~462 |
 | 100% satisfaction guarantee | 0.20% | ~462 |
 | Death is for wimps | 0.20% | ~462 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~231 |
 | Dwarf Candy | 0.10% | ~231 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,816 (Ranked 60)  
+Progressed: 230,834 (Ranked 60)  
 Completed: 5 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,14 +231,14 @@ Completed: 5 (0.00%) (Ranked 314)
 | 2023-10-11 | 230,189 | 5 |
 | 2023-10-12 | 230,376 | 5 |
 | 2023-10-13 | 230,591 | 5 |
-| 2023-10-14 | 230,816 | 5 |
+| 2023-10-14 | 230,834 | 5 |
 ## Awards
-Max (Character Customization): 214  (Ranked 275)  
-Sum: 424 (Ranked 325)  
-Diff (max vs sum): -50  
+Max (Character Customization): 216  (Ranked 273)  
+Sum: 426 (Ranked 325)  
+Diff (max vs sum): -52  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 214 |
+| This game has Inclusive Character Customization | 216 |
 | This game is Relaxing | 35 |
 | This game is Great for Beginners | 31 |
 | This game is Highly Recommended | 27 |
@@ -406,4 +406,4 @@ Diff (max vs sum): -50
 | 2023-10-10 | 4.59 | - | 210 | 415 |
 | 2023-10-11 | 4.59 | - | 212 | 419 |
 | 2023-10-13 | 4.59 | - | 214 | 421 |
-| 2023-10-14 | 4.59 | - | 214 | 424 |
+| 2023-10-14 | 4.59 | - | 216 | 426 |

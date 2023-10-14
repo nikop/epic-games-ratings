@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 121,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
     "PcReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -3452,9 +3452,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 51829,
+  "EOS_Progressed": 51830,
   "EOS_Completed": 240,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -12937,6 +12937,11 @@
       "Time": "2023-10-14T20:08:47.133351+00:00",
       "NumProgressed": 51829,
       "NumCompleted": 240
+    },
+    {
+      "Time": "2023-10-14T21:08:21.7270801+00:00",
+      "NumProgressed": 51830,
+      "NumCompleted": 240
     }
   ],
   "TotalAchievements": 45,
@@ -12972,7 +12977,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 40945
+      "UsersEstimate": 40946
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -13060,7 +13065,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 30579
+      "UsersEstimate": 30580
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -13100,7 +13105,7 @@
       "Name": "Return of the Jedi",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 16585
+      "UsersEstimate": 16586
     },
     {
       "ID": "COMPLETE_EPISODE_7",
@@ -13156,7 +13161,7 @@
       "Name": "Rishi Maze",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2591
+      "UsersEstimate": 2592
     },
     {
       "ID": "COMPLETE_KASHYYYK_KIJIMI",
@@ -13204,7 +13209,7 @@
       "Name": "\u0027\u0027Only one business in the Galaxy...\u0027\u0027",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 2591
+      "UsersEstimate": 2592
     },
     {
       "ID": "EARN_17K_STUDS",
@@ -13212,7 +13217,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 50274
+      "UsersEstimate": 50275
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -13284,7 +13289,7 @@
       "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 27469
+      "UsersEstimate": 27470
     },
     {
       "ID": "TRUE_JEDI_ALL_LEVELS",
@@ -13300,22 +13305,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 37317
+      "UsersEstimate": 37318
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 51829,
+      "Progressed": 51830,
       "Completed": 240
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-10-14T16:01:23.5634368+00:00",
-  "LastChanged_Achievements": "2023-10-14T20:08:47.1333506+00:00",
+  "LastChanged_Achievements": "2023-10-14T21:08:21.7270793+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:19.7884008+00:00",
-  "LastUpdate_Ratings": "2023-10-14T20:00:06.1416253+00:00",
-  "LastUpdate_Achievements": "2023-10-14T20:08:47.1334441+00:00"
+  "LastUpdate_Ratings": "2023-10-14T20:59:40.542433+00:00",
+  "LastUpdate_Achievements": "2023-10-14T21:08:21.7271745+00:00"
 }

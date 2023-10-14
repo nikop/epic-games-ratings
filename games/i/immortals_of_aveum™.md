@@ -12,7 +12,7 @@ Rating: 4.05 (Ranked 956)
 | No More Names | 70.00% | ~61 |
 | Initiate | 61.00% | ~53 |
 | Thrada-Kul | 56.00% | ~49 |
-| Gravity-Challenged Rocks | 46.00% | ~40 |
+| Gravity-Challenged Rocks | 47.00% | ~41 |
 | Soldier | 40.00% | ~35 |
 | All the Major Food Groups | 39.00% | ~34 |
 | Socialite | 34.00% | ~30 |
@@ -22,14 +22,14 @@ Rating: 4.05 (Ranked 956)
 | Resilience to Sin | 23.00% | ~20 |
 | A Familiar Nest | 21.00% | ~18 |
 | Periapt Alizarin | 21.00% | ~18 |
+| Geas Aristeya | 20.00% | ~17 |
 | Armsman | 20.00% | ~17 |
-| Geas Aristeya | 18.00% | ~16 |
 | A Perfect Cycle | 16.00% | ~14 |
 | Recruit | 16.00% | ~14 |
 | Good Boy | 13.00% | ~11 |
 | Lights Army | 10.00% | ~9 |
 | Periapt Cerulean | 10.00% | ~9 |
-| Periapt Viridian | 9.00% | ~8 |
+| Periapt Viridian | 10.00% | ~9 |
 | Shroudfane Explorer | 9.00% | ~8 |
 | Armaments Gules | 8.00% | ~7 |
 | Scholar | 7.00% | ~6 |

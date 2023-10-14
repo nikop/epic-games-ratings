@@ -8,11 +8,11 @@ Number of Ratings: 429  (23.09.2022)
 | ---- | ---------- | ----- |
 | Colonize a Planet | 78.00% | ~5,324 |
 | Worker Specialization | 78.00% | ~5,324 |
-| First Contact | 73.00% | ~4,982 |
-| Win a Battle | 66.00% | ~4,504 |
+| First Contact | 73.00% | ~4,983 |
+| Win a Battle | 66.00% | ~4,505 |
 | Anomaly Researcher | 62.00% | ~4,232 |
 | Unleash My Power | 62.00% | ~4,232 |
-| Own 30 Planets | 34.00% | ~2,320 |
+| Own 30 Planets | 34.00% | ~2,321 |
 | Xenocide | 32.00% | ~2,184 |
 | Design a Civilization | 32.00% | ~2,184 |
 | Commodity Trader | 31.00% | ~2,116 |
@@ -30,11 +30,11 @@ Number of Ratings: 429  (23.09.2022)
 | Conquest Victory! | 4.00% | ~273 |
 | Pirate Cleansing | 3.00% | ~205 |
 | Win an Immense Game | 3.00% | ~205 |
-| Artifact Mastery | 2.00% | ~136 |
-| Win as Altarians | 2.00% | ~136 |
-| Win as the Mimot | 2.00% | ~136 |
-| Win as the Yor | 2.00% | ~136 |
-| Influence Victory! | 2.00% | ~136 |
+| Artifact Mastery | 2.00% | ~137 |
+| Win as Altarians | 2.00% | ~137 |
+| Win as the Mimot | 2.00% | ~137 |
+| Win as the Yor | 2.00% | ~137 |
+| Influence Victory! | 2.00% | ~137 |
 | Win as Arceans | 1.00% | ~68 |
 | Win as the Baratak | 1.00% | ~68 |
 | Win as Festron | 1.00% | ~68 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,825 (Ranked 161)  
+Progressed: 6,826 (Ranked 161)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,7 +256,7 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-10-11 | 6,803 | 0 |
 | 2023-10-12 | 6,807 | 0 |
 | 2023-10-13 | 6,816 | 0 |
-| 2023-10-14 | 6,825 | 0 |
+| 2023-10-14 | 6,826 | 0 |
 ## Awards
 Max (Diverse Characters): 94  (Ranked 357)  
 Sum: 681 (Ranked 286)  

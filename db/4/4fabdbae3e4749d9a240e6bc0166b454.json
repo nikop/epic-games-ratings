@@ -4,7 +4,7 @@
   "ProductSlug": "stormshot-1e4cf4",
   "Ranking_EOS_Progress": 669,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 396,
+  "Ranking_EOS_NewPlayers": 392,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-09-04T09:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-04T13:57:06.3952239+00:00",
   "LastUpdate_AppInfo": "2023-10-09T09:57:44.8699365+00:00",
-  "LastUpdate_Ratings": "2023-10-14T20:00:48.836975+00:00",
-  "LastUpdate_Achievements": "2023-10-14T20:08:23.4901336+00:00"
+  "LastUpdate_Ratings": "2023-10-14T21:00:18.2187926+00:00",
+  "LastUpdate_Achievements": "2023-10-14T21:08:00.0382608+00:00"
 }

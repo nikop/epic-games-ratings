@@ -6508,9 +6508,9 @@
       "Count": 3759
     }
   ],
-  "EOS_Progressed": 137611,
+  "EOS_Progressed": 137613,
   "EOS_Completed": 168,
-  "EOS_NewPlayers": 339,
+  "EOS_NewPlayers": 338,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -24658,6 +24658,11 @@
       "Time": "2023-10-14T20:09:35.4191962+00:00",
       "NumProgressed": 137611,
       "NumCompleted": 168
+    },
+    {
+      "Time": "2023-10-14T21:09:13.1888783+00:00",
+      "NumProgressed": 137613,
+      "NumCompleted": 168
     }
   ],
   "TotalAchievements": 112,
@@ -24677,7 +24682,7 @@
       "Name": "On the Path to Greatness",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1238
+      "UsersEstimate": 1239
     },
     {
       "ID": "advlevel03",
@@ -24717,7 +24722,7 @@
       "Name": "Ascended",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1238
+      "UsersEstimate": 1239
     },
     {
       "ID": "ascend02",
@@ -24797,7 +24802,7 @@
       "Name": "Vanity, Verily",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1238
+      "UsersEstimate": 1239
     },
     {
       "ID": "boss01",
@@ -24861,7 +24866,7 @@
       "Name": "Blank Page Syndrome",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1238
+      "UsersEstimate": 1239
     },
     {
       "ID": "collection02",
@@ -25077,7 +25082,7 @@
       "Name": "Efficient Floor Space",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1238
+      "UsersEstimate": 1239
     },
     {
       "ID": "furniture02",
@@ -25133,7 +25138,7 @@
       "Name": "Gem Expert",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1238
+      "UsersEstimate": 1239
     },
     {
       "ID": "gold01",
@@ -25189,7 +25194,7 @@
       "Name": "Helping Hand",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1238
+      "UsersEstimate": 1239
     },
     {
       "ID": "help02",
@@ -25564,15 +25569,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 137611,
+      "Progressed": 137613,
       "Completed": 168
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-13T22:01:35.3873157+00:00",
-  "LastChanged_Achievements": "2023-10-14T20:09:35.4191957+00:00",
+  "LastChanged_Achievements": "2023-10-14T21:09:13.1888778+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:10.2617104+00:00",
-  "LastUpdate_Ratings": "2023-10-14T19:57:29.6103508+00:00",
-  "LastUpdate_Achievements": "2023-10-14T20:09:35.4197066+00:00"
+  "LastUpdate_Ratings": "2023-10-14T20:57:22.3066556+00:00",
+  "LastUpdate_Achievements": "2023-10-14T21:09:13.1892107+00:00"
 }

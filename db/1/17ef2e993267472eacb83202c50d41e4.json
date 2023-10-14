@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7155,
+  "EOS_Progressed": 7159,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 191,
+  "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4113,6 +4113,11 @@
       "Time": "2023-10-14T19:09:42.0939265+00:00",
       "NumProgressed": 7155,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-14T21:09:45.2483055+00:00",
+      "NumProgressed": 7159,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -4181,7 +4186,7 @@
       "Name": "Spent 50000 Credits",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "DHUpgraded1",
@@ -4245,7 +4250,7 @@
       "Name": "Played a Match",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 2290
+      "UsersEstimate": 2291
     },
     {
       "ID": "GamesPlayed10",
@@ -4269,7 +4274,7 @@
       "Name": "Won a Match",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1359
+      "UsersEstimate": 1360
     },
     {
       "ID": "GamesWon10",
@@ -4333,7 +4338,7 @@
       "Name": "Purchased Healing Grenade",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "HSPurchased1",
@@ -4493,7 +4498,7 @@
       "Name": "Destroyed 3 Towers in a single match",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "MaxTowersKilled6",
@@ -4621,7 +4626,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1073
+      "UsersEstimate": 1074
     },
     {
       "ID": "SEUpgraded1",
@@ -4637,7 +4642,7 @@
       "Name": "Upgraded the SMG to Level 3",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "SOVUpgraded1",
@@ -4653,7 +4658,7 @@
       "Name": "Purchased SuperCharge",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "ShotgunUpgraged1",
@@ -4669,7 +4674,7 @@
       "Name": "Upgraded the Sniper to Level 3",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "TGPurchased1",
@@ -4685,7 +4690,7 @@
       "Name": "Purchased Turret",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "TSUPurchased1",
@@ -4716,7 +4721,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 7155,
+      "Progressed": 7159,
       "Completed": 1
     }
   ],
@@ -4724,8 +4729,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-09-28T09:00:22.5097709+00:00",
-  "LastChanged_Achievements": "2023-10-14T20:10:26.3621842+00:00",
+  "LastChanged_Achievements": "2023-10-14T21:09:45.2483048+00:00",
   "LastUpdate_AppInfo": "2023-10-10T10:57:15.6695599+00:00",
-  "LastUpdate_Ratings": "2023-10-14T20:01:28.001197+00:00",
-  "LastUpdate_Achievements": "2023-10-14T20:10:26.3623831+00:00"
+  "LastUpdate_Ratings": "2023-10-14T21:00:53.0359306+00:00",
+  "LastUpdate_Achievements": "2023-10-14T21:09:45.2484233+00:00"
 }

@@ -61,6 +61,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus | 0.80% | ~118 |
 | Musaeum | 0.80% | ~118 |
 | Necropolis | 0.80% | ~118 |
+| Learn to Play 2 | 0.80% | ~118 |
 | Mighty | 0.70% | ~103 |
 | Valiant | 0.70% | ~103 |
 | Just Difficulty | 0.70% | ~103 |
@@ -68,7 +69,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Champions | 0.70% | ~103 |
 | Sages | 0.70% | ~103 |
 | Acropolis | 0.70% | ~103 |
-| Learn to Play 2 | 0.70% | ~103 |
 | Mythology | 0.70% | ~103 |
 | Win a Single Player Game | 0.70% | ~103 |
 | Hanging Gardens in Babylon | 0.60% | ~88 |
@@ -142,6 +142,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Turreted Elephant | 0.30% | ~44 |
 | All Nations | 0.30% | ~44 |
 | Rmt n Kmt Buhen | 0.30% | ~44 |
+| Beja Archer | 0.30% | ~44 |
 | Ishtar Gate in Babylon | 0.20% | ~29 |
 | Carthage - Ox Hide | 0.20% | ~29 |
 | Old | 0.20% | ~29 |
@@ -159,7 +160,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greater Kmt Unified | 0.20% | ~29 |
 | Prosperous Kmt | 0.20% | ~29 |
 | Kush | 0.20% | ~29 |
-| Beja Archer | 0.20% | ~29 |
 | Centenarian | 0.10% | ~15 |
 | Alexander the who? | 0.10% | ~15 |
 | Lighthouse in Alexandria | 0.10% | ~15 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,688 (Ranked 134)  
+Progressed: 14,695 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -526,7 +526,7 @@ Completed: 5 (0.03%) (Ranked 283)
 | 2023-10-11 | 14,606 | 5 |
 | 2023-10-12 | 14,624 | 5 |
 | 2023-10-13 | 14,652 | 5 |
-| 2023-10-14 | 14,688 | 5 |
+| 2023-10-14 | 14,695 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,839 (Ranked 210)  

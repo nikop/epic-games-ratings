@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 649,
+  "EOS_Progressed": 652,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1726,6 +1726,11 @@
       "Time": "2023-10-14T20:05:56.7847652+00:00",
       "NumProgressed": 649,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-14T21:05:37.1564046+00:00",
+      "NumProgressed": 652,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -1738,7 +1743,7 @@
       "Name": "A New Hope",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_10",
@@ -1786,7 +1791,7 @@
       "Name": "The Force is strong with this one",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "achievement_16",
@@ -1810,7 +1815,7 @@
       "Name": "The power of the Force",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "achievement_19",
@@ -1850,7 +1855,7 @@
       "Name": "Distinguished",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "achievement_23",
@@ -1874,7 +1879,7 @@
       "Name": "A tremor in the Force",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "achievement_26",
@@ -1930,7 +1935,7 @@
       "Name": "Scrap collector",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "achievement_32",
@@ -1954,7 +1959,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "achievement_35",
@@ -1962,7 +1967,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 584
+      "UsersEstimate": 587
     },
     {
       "ID": "achievement_36",
@@ -1970,15 +1975,15 @@
       "Name": "Impressive. Most impressive.",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "achievement_37",
       "SetID": "271ol84",
       "Name": "Off to a good start",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 441
+      "UsersEstimate": 437
     },
     {
       "ID": "achievement_38",
@@ -2010,7 +2015,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 344
+      "UsersEstimate": 346
     },
     {
       "ID": "achievement_41",
@@ -2026,7 +2031,7 @@
       "Name": "Not bad for a little furball",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "achievement_43",
@@ -2042,7 +2047,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "achievement_45",
@@ -2050,7 +2055,7 @@
       "Name": "This is a new day, a new beginning",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "achievement_46",
@@ -2058,7 +2063,7 @@
       "Name": "Patience you must have",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "achievement_47",
@@ -2074,7 +2079,7 @@
       "Name": "No such thing as luck",
       "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_49",
@@ -2082,7 +2087,7 @@
       "Name": "Do we take prisoners?",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_5",
@@ -2098,7 +2103,7 @@
       "Name": "City in the Clouds",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "achievement_51",
@@ -2146,7 +2151,7 @@
       "Name": "Support the troops",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "achievement_57",
@@ -2162,7 +2167,7 @@
       "Name": "Alternative solution",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "achievement_59",
@@ -2178,7 +2183,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "achievement_60",
@@ -2186,7 +2191,7 @@
       "Name": "What will you become?",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "achievement_61",
@@ -2210,7 +2215,7 @@
       "Name": "Disturbed tranquility",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "achievement_7",
@@ -2226,7 +2231,7 @@
       "Name": "Don\u0027t underestimate the Force",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "achievement_9",
@@ -2241,13 +2246,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 649,
+      "Progressed": 652,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 649,
+      "Progressed": 652,
       "Completed": 1
     }
   ],
@@ -2255,8 +2260,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-14T20:05:56.7847649+00:00",
+  "LastChanged_Achievements": "2023-10-14T21:05:37.1564039+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:22.846224+00:00",
-  "LastUpdate_Ratings": "2023-10-14T20:03:41.2965475+00:00",
-  "LastUpdate_Achievements": "2023-10-14T20:05:56.7848475+00:00"
+  "LastUpdate_Ratings": "2023-10-14T21:03:25.8689604+00:00",
+  "LastUpdate_Achievements": "2023-10-14T21:05:37.1565101+00:00"
 }

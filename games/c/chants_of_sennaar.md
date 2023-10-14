@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Welcome to the Tower | 12.00% | ~35 |
 | That's the spirit | 11.00% | ~32 |
-| Welcome to the Tower | 11.00% | ~32 |
 | The great escape | 10.00% | ~29 |
 | The Preacher's fate | 9.00% | ~26 |
 | A new dawn | 8.00% | ~23 |

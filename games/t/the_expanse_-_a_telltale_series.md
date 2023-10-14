@@ -7,7 +7,7 @@ Rating: 4.57 (Ranked 454)
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 14.00% | ~1,956 |
 | Drug Gifter | 6.00% | ~838 |
-| Bosmang | 5.00% | ~698 |
+| Bosmang | 5.00% | ~699 |
 | The Pit and the Pirates | 4.00% | ~559 |
 | Drone Dodger | 4.00% | ~559 |
 | Call it Even | 4.00% | ~559 |
@@ -20,23 +20,23 @@ Rating: 4.57 (Ranked 454)
 | Impossible Objects | 3.00% | ~419 |
 | Stogie for Fogey | 2.00% | ~279 |
 | Spore Taste | 2.00% | ~279 |
+| Thorston Mayer | 2.00% | ~279 |
 | Miraculous Maya | 2.00% | ~279 |
 | Doctor Approved | 1.00% | ~140 |
 | Bottoms up! | 1.00% | ~140 |
-| Thorston Mayer | 1.00% | ~140 |
 | No Belter Left Behind | 1.00% | ~140 |
 | Data Logger | 0.80% | ~112 |
 | Brother's Reaper | 0.80% | ~112 |
 | Data Master | 0.70% | ~98 |
 | Debris Spree | 0.50% | ~70 |
 | Data Recoverer | 0.50% | ~70 |
-| Urshanabi Hoarder | 0.30% | ~42 |
+| Urshanabi Hoarder | 0.40% | ~56 |
 | Grave Robber | 0.30% | ~42 |
 | Data Miner | 0.20% | ~28 |
 | Scavenger Star | 0.10% | ~14 |
 | Data Collector | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,969 (Ranked 136)  
+Progressed: 13,974 (Ranked 136)  
 Completed: 23 (0.16%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 23 (0.16%) (Ranked 230)
 | 2023-10-11 | 13,863 | 19 |
 | 2023-10-12 | 13,891 | 20 |
 | 2023-10-13 | 13,925 | 23 |
-| 2023-10-14 | 13,969 | 23 |
+| 2023-10-14 | 13,974 | 23 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

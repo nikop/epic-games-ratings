@@ -4,7 +4,7 @@
   "ProductSlug": "gas-station-simulator-ee93c7",
   "Ranking_EOS_Progress": 386,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -583,9 +583,9 @@
       "ID": "GSS_ACH_05_TIP_03",
       "SetID": "5fn8ia4",
       "Name": "Tip of the Iceberg",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "GSS_ACH_06_FUEL_01",
@@ -663,9 +663,9 @@
       "ID": "GSS_ACH_15_FUEL_SERVE_03",
       "SetID": "5fn8ia4",
       "Name": "Skills to Pay the Bills",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 25,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "GSS_ACH_16_ORDER_FUEL",
@@ -791,9 +791,9 @@
       "ID": "GSS_ACH_32_TRASH_03",
       "SetID": "5fn8ia4",
       "Name": "It has to be clean!",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "GSS_ACH_33_FLY",
@@ -807,9 +807,9 @@
       "ID": "GSS_ACH_34_FLYING_CARS",
       "SetID": "5fn8ia4",
       "Name": "It\u0027s Raining Cars",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "GSS_ACH_35_BROOM_01",
@@ -839,9 +839,9 @@
       "ID": "GSS_ACH_38_GARAGE_01",
       "SetID": "5fn8ia4",
       "Name": "IR Mechanic!",
-      "Percentage": 79,
+      "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 83
     },
     {
       "ID": "GSS_ACH_39_GARAGE_02",
@@ -855,9 +855,9 @@
       "ID": "GSS_ACH_40_GARAGE_03",
       "SetID": "5fn8ia4",
       "Name": "Greasemonkey",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "GSS_ACH_41_PARTY_BUS",
@@ -903,9 +903,9 @@
       "ID": "GSS_ACH_46_ORDER_CARPARTS",
       "SetID": "5fn8ia4",
       "Name": "Need the Car Parts!",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "GSS_ACH_47_UPGRADE_STATION_01",
@@ -943,9 +943,9 @@
       "ID": "GSS_ACH_51_UPGRADE_WORKSHOP_01",
       "SetID": "5fn8ia4",
       "Name": "Workshop Obtained!",
-      "Percentage": 80,
+      "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 84
     },
     {
       "ID": "GSS_ACH_52_UPGRADE_WORKSHOP_02",
@@ -983,9 +983,9 @@
       "ID": "GSS_ACH_56_UPGRADE_WAREHOUSE_01",
       "SetID": "5fn8ia4",
       "Name": "Warehouse Obtained!",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "GSS_ACH_57_UPGRADE_WAREHOUSE_02",
@@ -1023,17 +1023,17 @@
       "ID": "GSS_ACH_61_POPULARITY_01",
       "SetID": "5fn8ia4",
       "Name": "On the Map",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 87
     },
     {
       "ID": "GSS_ACH_62_POPULARITY_02",
       "SetID": "5fn8ia4",
       "Name": "Heard in Whispers",
-      "Percentage": 80,
+      "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 84
     },
     {
       "ID": "GSS_ACH_63_POPULARITY_03",
@@ -1055,9 +1055,9 @@
       "ID": "GSS_ACH_65_POPULARITY_05",
       "SetID": "5fn8ia4",
       "Name": "Talk of the Town",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "GSS_ACH_66_POPULARITY_06",
@@ -1143,9 +1143,9 @@
       "ID": "GSS_ACH_76_EMPLOYEE_LEVEL_02",
       "SetID": "5fn8ia4",
       "Name": "Training the Employees",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "GSS_ACH_77_EMPLOYEE_LEVEL_05",
@@ -1206,8 +1206,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-14T20:09:25.8679684+00:00",
+  "LastChanged_Achievements": "2023-10-14T21:08:54.6393403+00:00",
   "LastUpdate_AppInfo": "2023-10-09T13:09:09.0618232+00:00",
-  "LastUpdate_Ratings": "2023-10-14T20:01:22.2096534+00:00",
-  "LastUpdate_Achievements": "2023-10-14T20:09:25.8681297+00:00"
+  "LastUpdate_Ratings": "2023-10-14T21:00:48.6993691+00:00",
+  "LastUpdate_Achievements": "2023-10-14T21:08:54.6394553+00:00"
 }

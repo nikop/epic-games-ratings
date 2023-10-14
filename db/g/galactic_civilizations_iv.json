@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 286,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -912,9 +912,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 6825,
+  "EOS_Progressed": 6826,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6972,6 +6972,11 @@
       "Time": "2023-10-14T20:05:00.4385554+00:00",
       "NumProgressed": 6825,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-14T21:04:46.6617059+00:00",
+      "NumProgressed": 6826,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -7095,7 +7100,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4982
+      "UsersEstimate": 4983
     },
     {
       "ID": "First_Ship_Designed",
@@ -7199,7 +7204,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2320
+      "UsersEstimate": 2321
     },
     {
       "ID": "Play_1000_Hours",
@@ -7311,7 +7316,7 @@
       "Name": "Artifact Mastery",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "War_With_5_Factions",
@@ -7335,7 +7340,7 @@
       "Name": "Win as Altarians",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "Win_As_Arcean",
@@ -7415,7 +7420,7 @@
       "Name": "Win as the Mimot",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "Win_As_Navigators",
@@ -7463,7 +7468,7 @@
       "Name": "Win as the Yor",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "Win_Battle",
@@ -7471,7 +7476,7 @@
       "Name": "Win a Battle",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 4504
+      "UsersEstimate": 4505
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -7519,7 +7524,7 @@
       "Name": "Influence Victory!",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "Win_Multiplayer",
@@ -7558,15 +7563,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6825,
+      "Progressed": 6826,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-10-14T20:05:00.4385549+00:00",
+  "LastChanged_Achievements": "2023-10-14T21:04:46.6617054+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:21.0832103+00:00",
-  "LastUpdate_Ratings": "2023-10-14T20:02:51.6498505+00:00",
-  "LastUpdate_Achievements": "2023-10-14T20:05:00.4387501+00:00"
+  "LastUpdate_Ratings": "2023-10-14T21:02:12.0508325+00:00",
+  "LastUpdate_Achievements": "2023-10-14T21:04:46.6618221+00:00"
 }

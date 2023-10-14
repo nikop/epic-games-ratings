@@ -166,9 +166,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13969,
+  "EOS_Progressed": 13974,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 271,
+  "EOS_NewPlayers": 275,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -8646,6 +8646,11 @@
       "Time": "2023-10-14T20:06:27.0283919+00:00",
       "NumProgressed": 13969,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-10-14T21:06:15.2955703+00:00",
+      "NumProgressed": 13974,
+      "NumCompleted": 23
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -8656,9 +8661,9 @@
       "ID": "1",
       "SetID": "458bbdk",
       "Name": "Urshanabi Hoarder",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 42
+      "UsersEstimate": 56
     },
     {
       "ID": "10",
@@ -8752,9 +8757,9 @@
       "ID": "20",
       "SetID": "458bbdk",
       "Name": "Thorston Mayer",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 140
+      "UsersEstimate": 279
     },
     {
       "ID": "21",
@@ -8810,7 +8815,7 @@
       "Name": "Bosmang",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "28",
@@ -8897,7 +8902,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13969,
+      "Progressed": 13974,
       "Completed": 23
     }
   ],
@@ -8905,8 +8910,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-13T09:00:57.1370573+00:00",
-  "LastChanged_Achievements": "2023-10-14T20:06:27.0283913+00:00",
+  "LastChanged_Achievements": "2023-10-14T21:06:15.2955695+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:40.5814563+00:00",
-  "LastUpdate_Ratings": "2023-10-14T20:01:56.3250643+00:00",
-  "LastUpdate_Achievements": "2023-10-14T20:06:27.0285162+00:00"
+  "LastUpdate_Ratings": "2023-10-14T21:01:19.8119892+00:00",
+  "LastUpdate_Achievements": "2023-10-14T21:06:15.2956585+00:00"
 }

@@ -8,7 +8,7 @@
 | Spectre Inductee | 84.00% | ~581 |
 | Medal of Exploration I | 75.00% | ~519 |
 | Recruit | 72.00% | ~498 |
-| Search and Rescue | 71.00% | ~491 |
+| Search and Rescue | 72.00% | ~498 |
 | Quarian Ally | 69.00% | ~477 |
 | Medal of Heroism | 67.00% | ~464 |
 | Honorarium of Corporate Service | 66.00% | ~457 |
@@ -25,7 +25,7 @@
 | Soldier Ally | 50.00% | ~346 |
 | Colonial Savior | 49.00% | ~339 |
 | Paramour I | 48.00% | ~332 |
-| Scientist | 46.00% | ~318 |
+| Scientist | 47.00% | ~325 |
 | Krogan Ally | 45.00% | ~311 |
 | Merciless | 45.00% | ~311 |
 | Sentinel Ally | 44.00% | ~304 |
@@ -38,7 +38,7 @@
 | The Professor | 39.00% | ~270 |
 | Power Full | 39.00% | ~270 |
 | Completionist | 37.00% | ~256 |
-| The Archangel | 36.00% | ~249 |
+| The Archangel | 37.00% | ~256 |
 | The Convict | 36.00% | ~249 |
 | The Krogan | 36.00% | ~249 |
 | Colony Defense | 35.00% | ~242 |
@@ -52,13 +52,13 @@
 | The Justicar | 32.00% | ~221 |
 | The Cure | 32.00% | ~221 |
 | The Prodigal | 32.00% | ~221 |
+| Shopaholic | 32.00% | ~221 |
 | Battlemaster | 31.00% | ~215 |
 | Catharsis | 31.00% | ~215 |
 | Ghost of the Father | 31.00% | ~215 |
 | Big Game Hunter | 31.00% | ~215 |
 | Revenge! | 31.00% | ~215 |
 | Heart of Darkness | 31.00% | ~215 |
-| Shopaholic | 31.00% | ~215 |
 | Fade Away | 30.00% | ~208 |
 | Agent | 30.00% | ~208 |
 | Driven | 30.00% | ~208 |
@@ -74,12 +74,12 @@
 | Mission Accomplished | 27.00% | ~187 |
 | Suicide Mission | 27.00% | ~187 |
 | Against All Odds | 27.00% | ~187 |
-| Untouchable | 25.00% | ~173 |
+| Untouchable | 26.00% | ~180 |
+| A House Divided | 26.00% | ~180 |
 | Eye of the Hurricane | 25.00% | ~173 |
-| A House Divided | 25.00% | ~173 |
+| Giant Killer | 25.00% | ~173 |
 | Weapon Specialist | 25.00% | ~173 |
 | Liberator | 25.00% | ~173 |
-| Giant Killer | 24.00% | ~166 |
 | World Shaker | 24.00% | ~166 |
 | Savior | 22.00% | ~152 |
 | Pathfinder | 22.00% | ~152 |
@@ -92,11 +92,11 @@
 | Problem Solver | 20.00% | ~138 |
 | Pyromaniac | 19.00% | ~131 |
 | Hard Target | 19.00% | ~131 |
+| Saboteur | 19.00% | ~131 |
 | Fact Finder | 19.00% | ~131 |
 | Under Pressure | 18.00% | ~125 |
 | Electronics Specialist | 18.00% | ~125 |
 | Sabotage Specialist | 18.00% | ~125 |
-| Saboteur | 18.00% | ~125 |
 | Last Witness | 18.00% | ~125 |
 | Last Resort | 17.00% | ~118 |
 | Well Connected | 17.00% | ~118 |

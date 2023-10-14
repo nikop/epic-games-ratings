@@ -31,13 +31,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Through Repetition, Perfection | 1.00% | ~1,376 |
 | Did we pack lunch? | 1.00% | ~1,376 |
 | Arcane Industries | 1.00% | ~1,376 |
-| On the Path to Greatness | 0.90% | ~1,238 |
-| Ascended | 0.90% | ~1,238 |
-| Vanity, Verily | 0.90% | ~1,238 |
-| Blank Page Syndrome | 0.90% | ~1,238 |
-| Efficient Floor Space | 0.90% | ~1,238 |
-| Gem Expert | 0.90% | ~1,238 |
-| Helping Hand | 0.90% | ~1,238 |
+| On the Path to Greatness | 0.90% | ~1,239 |
+| Ascended | 0.90% | ~1,239 |
+| Vanity, Verily | 0.90% | ~1,239 |
+| Blank Page Syndrome | 0.90% | ~1,239 |
+| Efficient Floor Space | 0.90% | ~1,239 |
+| Gem Expert | 0.90% | ~1,239 |
+| Helping Hand | 0.90% | ~1,239 |
 | Research & Development | 0.80% | ~1,101 |
 | Fated Encounters | 0.80% | ~1,101 |
 | Power of Love | 0.80% | ~1,101 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~138 |
 | Cash Only Please | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,611 (Ranked 73)  
+Progressed: 137,613 (Ranked 73)  
 Completed: 168 (0.12%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 168 (0.12%) (Ranked 240)
 | 2023-10-11 | 137,455 | 168 |
 | 2023-10-12 | 137,496 | 168 |
 | 2023-10-13 | 137,555 | 168 |
-| 2023-10-14 | 137,611 | 168 |
+| 2023-10-14 | 137,613 | 168 |
 ## Awards
 Max (Great for Beginners): 4,785  (Ranked 71)  
 Sum: 27,380 (Ranked 50)  

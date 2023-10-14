@@ -3530,9 +3530,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73509,
+  "EOS_Progressed": 73510,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 250,
+  "EOS_NewPlayers": 249,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -18685,6 +18685,11 @@
       "Time": "2023-10-14T20:05:33.5546122+00:00",
       "NumProgressed": 73509,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-10-14T21:05:16.0053921+00:00",
+      "NumProgressed": 73510,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 61,
@@ -19008,7 +19013,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18377
+      "UsersEstimate": 18378
     },
     {
       "ID": "HARLEY_3",
@@ -19024,7 +19029,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 11761
+      "UsersEstimate": 11762
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -19096,7 +19101,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18377
+      "UsersEstimate": 18378
     },
     {
       "ID": "MYSTERY_03",
@@ -19183,13 +19188,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73509,
+      "Progressed": 73510,
       "Completed": 121
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43789,
+      "Progressed": 43790,
       "Completed": 2667
     }
   ],
@@ -19197,8 +19202,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-14T16:57:59.5053861+00:00",
-  "LastChanged_Achievements": "2023-10-14T20:05:33.5546117+00:00",
+  "LastChanged_Achievements": "2023-10-14T21:05:16.0053913+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:41.7245252+00:00",
-  "LastUpdate_Ratings": "2023-10-14T19:58:34.6172639+00:00",
-  "LastUpdate_Achievements": "2023-10-14T20:05:33.554849+00:00"
+  "LastUpdate_Ratings": "2023-10-14T20:58:24.1552164+00:00",
+  "LastUpdate_Achievements": "2023-10-14T21:05:16.0055481+00:00"
 }
