@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 50.67% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 50.63% |
 | 3 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.15% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.99% |
@@ -45,7 +45,7 @@
 | 42 | [Ravenlok](games/r/ravenlok.md) | 7.69% |
 | 44 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.61% |
 | 44 | [Sonic Origins](games/s/sonic_origins.md) | 7.61% |
-| 46 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.52% |
+| 46 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.51% |
 | 47 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.41% |
 | 48 | [Time Loader](games/t/time_loader.md) | 7.20% |
 | 49 | [Scorn](games/s/scorn.md) | 7.02% |
@@ -123,8 +123,8 @@
 | 121 | [Five Dates](games/f/five_dates.md) | 1.62% |
 | 122 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.49% |
 | 123 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
-| 124 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.45% |
-| 125 | [Iron Danger](games/i/iron_danger.md) | 1.44% |
+| 124 | [Iron Danger](games/i/iron_danger.md) | 1.44% |
+| 125 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.43% |
 | 126 | [Late Shift](games/l/late_shift.md) | 1.40% |
 | 127 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.38% |
 | 127 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.38% |
