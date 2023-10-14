@@ -34,8 +34,8 @@ Rating: 4.45 (Ranked 644)
 | Die Nussknacker Sweet! | 14.00% | ~524 |
 | Enemy at the Gates | 13.00% | ~486 |
 | Set Europe Ablaze | 13.00% | ~486 |
+| Precision Is Key | 10.00% | ~374 |
 | My Little Friend | 10.00% | ~374 |
-| Precision Is Key | 9.00% | ~337 |
 | Rigged to Blow | 9.00% | ~337 |
 | Herr Today, Gone Tomorrow | 7.00% | ~258 |
 | Operation Foxley | 6.00% | ~221 |

@@ -21,7 +21,7 @@ Number of Ratings: 177  (23.09.2022)
 | Amy | 0.90% | ~57 |
 | Inspector | 0.90% | ~57 |
 | Social Butterfly | 0.90% | ~57 |
-| The Muse: Madison | 0.80% | ~51 |
+| The Muse: Madison | 0.90% | ~57 |
 | Smooth Operator: Ashley | 0.70% | ~45 |
 | The Crush | 0.70% | ~45 |
 | Amy: Scavenger Hunt | 0.60% | ~38 |

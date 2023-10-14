@@ -6,8 +6,8 @@
   "Ranking_Popularity": 536,
   "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 84,
-  "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 78,
+  "Ranking_EOS_Completed": 184,
+  "Ranking_EOS_NewPlayers": 79,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
@@ -473,11 +473,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 88782,
+  "EOS_Progressed": 88794,
   "EOS_Completed": 404,
-  "EOS_NewPlayers": 751,
+  "EOS_NewPlayers": 748,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.46,
+  "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:47.7699973+00:00",
@@ -20063,6 +20063,11 @@
       "Time": "2023-10-14T16:07:31.6994273+00:00",
       "NumProgressed": 88782,
       "NumCompleted": 404
+    },
+    {
+      "Time": "2023-10-14T17:05:21.1402389+00:00",
+      "NumProgressed": 88794,
+      "NumCompleted": 404
     }
   ],
   "TotalAchievements": 10,
@@ -20074,7 +20079,7 @@
       "Name": "Baby Mozart",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 4439
+      "UsersEstimate": 4440
     },
     {
       "ID": "Drawings01",
@@ -20098,7 +20103,7 @@
       "Name": "Forest Drawings",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "Drawings04",
@@ -20130,7 +20135,7 @@
       "Name": "Completed Among the Sleep",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 8878
+      "UsersEstimate": 8879
     },
     {
       "ID": "Level00BowlingStrike",
@@ -20138,7 +20143,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 31074
+      "UsersEstimate": 31078
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -20146,22 +20151,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 9766
+      "UsersEstimate": 9767
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 88782,
+      "Progressed": 88794,
       "Completed": 404
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-10-07T14:00:09.8547199+00:00",
-  "LastChanged_Achievements": "2023-10-14T16:07:31.6994267+00:00",
+  "LastChanged_Achievements": "2023-10-14T17:05:21.1402387+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:12.4808914+00:00",
-  "LastUpdate_Ratings": "2023-10-14T16:01:11.665146+00:00",
-  "LastUpdate_Achievements": "2023-10-14T16:07:31.6995526+00:00"
+  "LastUpdate_Ratings": "2023-10-14T16:58:54.6894115+00:00",
+  "LastUpdate_Achievements": "2023-10-14T17:05:21.1403371+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 687,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2002,9 +2002,9 @@
       "ID": "achievement_24",
       "SetID": "b9pe172",
       "Name": "Soldier Ally",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 350
     },
     {
       "ID": "achievement_25",
@@ -2218,9 +2218,9 @@
       "ID": "achievement_49",
       "SetID": "d252ncf",
       "Name": "The Professor",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 268
     },
     {
       "ID": "achievement_5",
@@ -2410,9 +2410,9 @@
       "ID": "achievement_70",
       "SetID": "d252ncf",
       "Name": "Operative",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 282
+      "UsersEstimate": 289
     },
     {
       "ID": "achievement_71",
@@ -2554,9 +2554,9 @@
       "ID": "achievement_87",
       "SetID": "d252ncf",
       "Name": "Saboteur",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 131
     },
     {
       "ID": "achievement_88",
@@ -2678,8 +2678,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-14T16:06:13.7070795+00:00",
+  "LastChanged_Achievements": "2023-10-14T17:04:14.175916+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:30.4071338+00:00",
-  "LastUpdate_Ratings": "2023-10-14T16:02:07.1567042+00:00",
-  "LastUpdate_Achievements": "2023-10-14T16:06:13.7073172+00:00"
+  "LastUpdate_Ratings": "2023-10-14T16:59:50.8383346+00:00",
+  "LastUpdate_Achievements": "2023-10-14T17:04:14.1760879+00:00"
 }

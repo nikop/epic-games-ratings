@@ -22,7 +22,7 @@
 | Principled | 53.00% | ~364 |
 | Medal of Exploration III | 52.00% | ~357 |
 | Asari Ally | 52.00% | ~357 |
-| Soldier Ally | 50.00% | ~344 |
+| Soldier Ally | 51.00% | ~350 |
 | Colonial Savior | 49.00% | ~337 |
 | Paramour I | 48.00% | ~330 |
 | Krogan Ally | 46.00% | ~316 |
@@ -32,11 +32,11 @@
 | Missing in Action | 43.00% | ~295 |
 | Very Elusive | 43.00% | ~295 |
 | Head Hunter | 43.00% | ~295 |
+| Operative | 42.00% | ~289 |
 | Veteran | 41.00% | ~282 |
-| Operative | 41.00% | ~282 |
 | Scholar | 41.00% | ~282 |
 | Power Full | 40.00% | ~275 |
-| The Professor | 38.00% | ~261 |
+| The Professor | 39.00% | ~268 |
 | Completionist | 37.00% | ~254 |
 | The Archangel | 36.00% | ~247 |
 | The Convict | 36.00% | ~247 |
@@ -93,10 +93,10 @@
 | Pyromaniac | 19.00% | ~131 |
 | Under Pressure | 19.00% | ~131 |
 | Hard Target | 19.00% | ~131 |
+| Saboteur | 19.00% | ~131 |
 | Fact Finder | 19.00% | ~131 |
 | Electronics Specialist | 18.00% | ~124 |
 | Sabotage Specialist | 18.00% | ~124 |
-| Saboteur | 18.00% | ~124 |
 | Last Witness | 18.00% | ~124 |
 | Last Resort | 17.00% | ~117 |
 | Well Connected | 17.00% | ~117 |

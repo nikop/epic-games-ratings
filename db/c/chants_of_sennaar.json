@@ -2,9 +2,9 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_EOS_Progress": 315,
+  "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 50,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -17,11 +17,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 285,
+  "EOS_Progressed": 286,
   "EOS_Completed": 19,
   "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 6.67,
+  "EOS_Completed_Percentage": 6.64,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1332,6 +1332,11 @@
       "Time": "2023-10-14T12:03:56.8833259+00:00",
       "NumProgressed": 285,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-10-14T17:04:04.4286829+00:00",
+      "NumProgressed": 286,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 25,
@@ -1429,9 +1434,9 @@
       "ID": "META_RESULT_3-4",
       "SetID": "2gma9an",
       "Name": "A Link to the Past",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -1542,14 +1547,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 285,
+      "Progressed": 286,
       "Completed": 19
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-14T16:06:03.8806503+00:00",
+  "LastChanged_Achievements": "2023-10-14T17:04:04.4286823+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:19.4856723+00:00",
-  "LastUpdate_Ratings": "2023-10-14T15:59:47.5652103+00:00",
-  "LastUpdate_Achievements": "2023-10-14T16:06:03.8806771+00:00"
+  "LastUpdate_Ratings": "2023-10-14T16:57:31.1111132+00:00",
+  "LastUpdate_Achievements": "2023-10-14T17:04:04.4287066+00:00"
 }

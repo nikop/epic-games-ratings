@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8958,9 +8958,9 @@
       "Count": 710
     }
   ],
-  "EOS_Progressed": 298307,
+  "EOS_Progressed": 298311,
   "EOS_Completed": 486,
-  "EOS_NewPlayers": 354,
+  "EOS_NewPlayers": 353,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -27948,6 +27948,11 @@
       "Time": "2023-10-14T16:06:50.1240052+00:00",
       "NumProgressed": 298307,
       "NumCompleted": 486
+    },
+    {
+      "Time": "2023-10-14T17:04:50.1497841+00:00",
+      "NumProgressed": 298311,
+      "NumCompleted": 486
     }
   ],
   "TotalAchievements": 45,
@@ -27959,7 +27964,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 44746
+      "UsersEstimate": 44747
     },
     {
       "ID": "PFA_10",
@@ -27999,7 +28004,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 17898
+      "UsersEstimate": 17899
     },
     {
       "ID": "PFA_15",
@@ -28023,7 +28028,7 @@
       "Name": "Beast Friends",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20881
+      "UsersEstimate": 20882
     },
     {
       "ID": "PFA_18",
@@ -28047,7 +28052,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14915
+      "UsersEstimate": 14916
     },
     {
       "ID": "PFA_20",
@@ -28095,7 +28100,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 17898
+      "UsersEstimate": 17899
     },
     {
       "ID": "PFA_26",
@@ -28127,7 +28132,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 17898
+      "UsersEstimate": 17899
     },
     {
       "ID": "PFA_3",
@@ -28239,7 +28244,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14915
+      "UsersEstimate": 14916
     },
     {
       "ID": "PFA_42",
@@ -28247,7 +28252,7 @@
       "Name": "Raising Expectations",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 17898
+      "UsersEstimate": 17899
     },
     {
       "ID": "PFA_43",
@@ -28318,7 +28323,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298307,
+      "Progressed": 298311,
       "Completed": 486
     }
   ],
@@ -28326,8 +28331,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-14T16:02:56.8085488+00:00",
-  "LastChanged_Achievements": "2023-10-14T16:06:50.1240046+00:00",
+  "LastChanged_Achievements": "2023-10-14T17:04:50.1497837+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:16.623812+00:00",
-  "LastUpdate_Ratings": "2023-10-14T16:02:56.8085495+00:00",
-  "LastUpdate_Achievements": "2023-10-14T16:06:50.1241546+00:00"
+  "LastUpdate_Ratings": "2023-10-14T17:00:36.2879759+00:00",
+  "LastUpdate_Achievements": "2023-10-14T17:04:50.1499043+00:00"
 }

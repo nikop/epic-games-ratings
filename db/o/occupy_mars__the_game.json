@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -268,9 +268,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1664,
+  "EOS_Progressed": 1665,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3953,6 +3953,11 @@
       "Time": "2023-10-12T16:05:10.7013988+00:00",
       "NumProgressed": 1664,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-14T17:05:38.0430819+00:00",
+      "NumProgressed": 1665,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4044,7 +4049,7 @@
       "Name": "Zero Waste",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -4068,7 +4073,7 @@
       "Name": "All Wheel Trouble",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "NEW_ACHIEVEMENT_BAREEL_ROLL",
@@ -4324,7 +4329,7 @@
       "Name": "Bob The Builder",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -4347,7 +4352,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1664,
+      "Progressed": 1665,
       "Completed": 0
     }
   ],
@@ -4355,8 +4360,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-10-07T20:58:51.3818577+00:00",
-  "LastChanged_Achievements": "2023-10-14T16:07:48.146202+00:00",
+  "LastChanged_Achievements": "2023-10-14T17:05:38.0430813+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:10.2990063+00:00",
-  "LastUpdate_Ratings": "2023-10-14T16:00:39.1753911+00:00",
-  "LastUpdate_Achievements": "2023-10-14T16:07:48.1462653+00:00"
+  "LastUpdate_Ratings": "2023-10-14T16:58:20.1835701+00:00",
+  "LastUpdate_Achievements": "2023-10-14T17:05:38.0431279+00:00"
 }

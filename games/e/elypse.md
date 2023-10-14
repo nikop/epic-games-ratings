@@ -12,15 +12,15 @@
 | The light at the end of the tunnel | 60.00% | ~59 |
 | Splash! | 55.00% | ~54 |
 | Masochistic | 54.00% | ~53 |
-| Soft skin | 49.00% | ~49 |
-| Squid game | 43.00% | ~43 |
+| Soft skin | 51.00% | ~50 |
+| Squid game | 44.00% | ~44 |
 | Rock Solid | 34.00% | ~34 |
 | Sensitive soul | 34.00% | ~34 |
 | The beast within | 32.00% | ~32 |
 | It's getting dark | 32.00% | ~32 |
 | Hard Rock | 32.00% | ~32 |
+| Homeless | 29.00% | ~29 |
 | Rooftop | 28.00% | ~28 |
-| Homeless | 28.00% | ~28 |
 | Big badaboom! | 26.00% | ~26 |
 | Magnitude 5 | 24.00% | ~24 |
 | Bookworm | 24.00% | ~24 |

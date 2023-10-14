@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2484,
+  "EOS_Progressed": 2502,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1572,
+  "EOS_NewPlayers": 1577,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1646,6 +1646,11 @@
       "Time": "2023-10-14T16:09:12.6435873+00:00",
       "NumProgressed": 2484,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-14T17:07:12.3617449+00:00",
+      "NumProgressed": 2502,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -1696,9 +1701,9 @@
       "ID": "ACH_MEGLAB",
       "SetID": "1lo1k0a",
       "Name": "MEG",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_RUNFORYOURLIFE",
@@ -1722,7 +1727,7 @@
       "Name": "RED",
       "Percentage": 0.1,
       "XP": 75,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_SUBLEVEL03",
@@ -1730,15 +1735,15 @@
       "Name": "ICY",
       "Percentage": 0.1,
       "XP": 75,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_THEEND",
       "SetID": "1lo1k0a",
       "Name": "End?",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_WINELECTRICALSTATION",
@@ -1746,7 +1751,7 @@
       "Name": "Electric",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACH_WINLEVEL0",
@@ -1754,7 +1759,7 @@
       "Name": "Level 0",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 646
+      "UsersEstimate": 651
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -1762,7 +1767,7 @@
       "Name": "Level 1",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 273
+      "UsersEstimate": 275
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -1770,7 +1775,7 @@
       "Name": "Dreamer!",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 273
+      "UsersEstimate": 275
     },
     {
       "ID": "ACH_WINLEVEL3",
@@ -1786,7 +1791,7 @@
       "Name": "Management",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACH_WINLEVEL404",
@@ -1802,7 +1807,7 @@
       "Name": "Terror",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACH_WINLEVEL69",
@@ -1849,14 +1854,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 2484,
+      "Progressed": 2502,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-10-14T16:09:12.6435867+00:00",
+  "LastChanged_Achievements": "2023-10-14T17:07:12.3617445+00:00",
   "LastUpdate_AppInfo": "2023-10-09T13:09:09.4900137+00:00",
-  "LastUpdate_Ratings": "2023-10-14T16:01:16.8011444+00:00",
-  "LastUpdate_Achievements": "2023-10-14T16:09:12.643614+00:00"
+  "LastUpdate_Ratings": "2023-10-14T16:58:58.8887222+00:00",
+  "LastUpdate_Achievements": "2023-10-14T17:07:12.3617664+00:00"
 }

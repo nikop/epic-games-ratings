@@ -516,9 +516,9 @@
       "ID": "Ach_BossDarkPoulpe",
       "SetID": "4o5gjp0",
       "Name": "Squid game",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "Ach_BossFinal",
@@ -684,17 +684,17 @@
       "ID": "Ach_FirstGolem",
       "SetID": "4o5gjp0",
       "Name": "Soft skin",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "Ach_HutLay",
       "SetID": "4o5gjp0",
       "Name": "Homeless",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "Ach_IslandExplo",
@@ -779,8 +779,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-10-14T16:08:54.0382736+00:00",
+  "LastChanged_Achievements": "2023-10-14T17:06:43.3240815+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:52.8723161+00:00",
-  "LastUpdate_Ratings": "2023-10-14T16:03:15.3479172+00:00",
-  "LastUpdate_Achievements": "2023-10-14T16:08:54.0383014+00:00"
+  "LastUpdate_Ratings": "2023-10-14T17:00:52.0074976+00:00",
+  "LastUpdate_Achievements": "2023-10-14T17:06:43.3241023+00:00"
 }

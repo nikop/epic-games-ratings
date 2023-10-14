@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Missing data | 83.00% | ~69 |
-| Broken jar | 78.00% | ~65 |
-| It fits. IT FITS! | 75.00% | ~62 |
-| The child of the night | 71.00% | ~59 |
-| Uncle will be happy | 69.00% | ~57 |
-| I have an army! | 63.00% | ~52 |
+| Missing data | 84.00% | ~70 |
+| Broken jar | 80.00% | ~66 |
+| It fits. IT FITS! | 76.00% | ~63 |
+| The child of the night | 72.00% | ~60 |
+| Uncle will be happy | 70.00% | ~58 |
+| I have an army! | 64.00% | ~53 |
 | Sticky fingers | 42.00% | ~35 |
 | A horrible thing will happen... | 36.00% | ~30 |
 | Vampires | 30.00% | ~25 |

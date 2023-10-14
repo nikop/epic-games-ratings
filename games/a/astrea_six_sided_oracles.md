@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Noctuan Champion | 31.00% | ~17 |
+| Noctuan Champion | 33.00% | ~18 |
 | Endless Tricks | 27.00% | ~15 |
 | Apian Champion | 27.00% | ~15 |
 | Eridanian Champion | 27.00% | ~15 |
@@ -22,9 +22,9 @@
 | Anomaly Destroyer | 18.00% | ~10 |
 | Shard Spender | 18.00% | ~10 |
 | Aquarian Champion | 18.00% | ~10 |
-| Star Killer | 15.00% | ~8 |
+| Star Killer | 16.00% | ~9 |
+| Astral Adventurer | 13.00% | ~7 |
 | Heart Gate | 13.00% | ~7 |
-| Astral Adventurer | 11.00% | ~6 |
 | Astral Seeker | 11.00% | ~6 |
 | The Corruption Goddess | 11.00% | ~6 |
 | The Goddes Avatar | 11.00% | ~6 |
@@ -37,6 +37,7 @@
 | Apian Hero | 9.00% | ~5 |
 | Can't touch this | 7.00% | ~4 |
 | Heavy Purger | 7.00% | ~4 |
+| Behenian Hero | 7.00% | ~4 |
 | Lacertian Hero | 7.00% | ~4 |
 | Denying Destiny | 5.00% | ~3 |
 | Purification Avatar | 5.00% | ~3 |
@@ -44,7 +45,6 @@
 | The Chaos Artisan | 5.00% | ~3 |
 | The Dark Moon | 5.00% | ~3 |
 | The Distorted Sage | 5.00% | ~3 |
-| Behenian Hero | 5.00% | ~3 |
 | Behenian Mastery | 5.00% | ~3 |
 | Lacertian Mastery | 5.00% | ~3 |
 | Artificer | 4.00% | ~2 |

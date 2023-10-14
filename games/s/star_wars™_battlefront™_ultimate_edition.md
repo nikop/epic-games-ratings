@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~576 |
+| New Recruit | 90.00% | ~577 |
 | Off to a good start | 67.00% | ~429 |
-| Do... or do not. There is no try | 53.00% | ~339 |
-| A good blaster at your side | 33.00% | ~211 |
+| Do... or do not. There is no try | 53.00% | ~340 |
+| A good blaster at your side | 33.00% | ~212 |
 | Scrap collector | 20.00% | ~128 |
 | I suggest a new strategy | 20.00% | ~128 |
 | Great shot, kid! | 19.00% | ~122 |
 | All right, I'll give it a try | 18.00% | ~115 |
-| Shoot first | 18.00% | ~115 |
 | The power of the Force | 17.00% | ~109 |
-| Collector | 16.00% | ~102 |
-| Together we can rule the galaxy | 16.00% | ~102 |
+| Shoot first | 17.00% | ~109 |
+| Collector | 16.00% | ~103 |
+| Together we can rule the galaxy | 16.00% | ~103 |
 | Tell Jabba that I've got his money | 12.00% | ~77 |
 | Survivor | 12.00% | ~77 |
-| Best star-pilot in the galaxy | 11.00% | ~70 |
+| Best star-pilot in the galaxy | 11.00% | ~71 |
 | What's the cargo? | 10.00% | ~64 |
 | Never tell me the odds! | 10.00% | ~64 |
 | A cunning warrior | 10.00% | ~64 |
@@ -39,13 +39,13 @@
 | Precision shot | 4.00% | ~26 |
 | Safety ain't the point of a joyride | 4.00% | ~26 |
 | That's no moon | 4.00% | ~26 |
-| Hold the line! | 3.00% | ~19 |
 | The Force is strong with this one | 3.00% | ~19 |
 | This is a new day, a new beginning | 3.00% | ~19 |
 | City in the Clouds | 3.00% | ~19 |
 | Alternative solution | 3.00% | ~19 |
 | What will you become? | 3.00% | ~19 |
 | Disturbed tranquility | 3.00% | ~19 |
+| Hold the line! | 2.00% | ~13 |
 | Playing the objective | 2.00% | ~13 |
 | Ackbar's Elite | 2.00% | ~13 |
 | You have your moments | 2.00% | ~13 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.30% | ~2 |
 | Crush them with one swift stroke… | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 640 (Ranked 259)  
+Progressed: 641 (Ranked 259)  
 Completed: 1 (0.16%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 1 (0.16%) (Ranked 230)
 | 2023-10-11 | 589 | 1 |
 | 2023-10-12 | 603 | 1 |
 | 2023-10-13 | 620 | 1 |
-| 2023-10-14 | 640 | 1 |
+| 2023-10-14 | 641 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

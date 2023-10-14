@@ -12,11 +12,11 @@ Rating: 3.94 (Ranked 978)
 | Too Old for This | 1.00% | ~891 |
 | Roid Ranger | 0.80% | ~713 |
 | Fancy Pants | 0.80% | ~713 |
-| King of the Hill | 0.70% | ~623 |
-| Off the Rocks | 0.70% | ~623 |
-| Raider’s Ruin | 0.70% | ~623 |
-| Dragonslayer | 0.70% | ~623 |
-| Rockay Rex | 0.70% | ~623 |
+| King of the Hill | 0.70% | ~624 |
+| Off the Rocks | 0.70% | ~624 |
+| Raider’s Ruin | 0.70% | ~624 |
+| Dragonslayer | 0.70% | ~624 |
+| Rockay Rex | 0.70% | ~624 |
 | Hidden Sonata | 0.60% | ~534 |
 | Case Closed | 0.60% | ~534 |
 | Track Star | 0.50% | ~445 |
@@ -47,7 +47,7 @@ Rating: 3.94 (Ranked 978)
 | One for All | 0.10% | ~17 |
 | Now You See Me | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,071 (Ranked 83)  
+Progressed: 89,072 (Ranked 83)  
 Completed: 50 (0.06%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,10 +224,10 @@ Completed: 50 (0.06%) (Ranked 265)
 | 2023-10-11 | 88,994 | 48 |
 | 2023-10-12 | 89,015 | 48 |
 | 2023-10-13 | 89,042 | 49 |
-| 2023-10-14 | 89,071 | 50 |
+| 2023-10-14 | 89,072 | 50 |
 ## Awards
 Max (Diverse Characters): 491  (Ranked 205)  
-Sum: 2,341 (Ranked 192)  
+Sum: 2,344 (Ranked 192)  
 Diff (max vs sum): 13  
 | Award | Count |
 | ----- | ----- |
@@ -235,7 +235,7 @@ Diff (max vs sum): 13
 | This game has Quickly Understood Controls | 475 |
 | This game is Highly Recommended | 465 |
 | This game has Challenging Combat | 459 |
-| This game has Amazing Characters | 451 |
+| This game has Amazing Characters | 454 |
 | This game is Great for Quick Sessions | 70 |
 | This game has Amazing Storytelling | 52 |
 | This game has a Silly Community | 33 |
@@ -437,4 +437,4 @@ Diff (max vs sum): 13
 | 2023-10-10 | 3.94 | 485 | 2,316 |
 | 2023-10-11 | 3.94 | 488 | 2,329 |
 | 2023-10-13 | 3.94 | 490 | 2,337 |
-| 2023-10-14 | 3.94 | 491 | 2,341 |
+| 2023-10-14 | 3.94 | 491 | 2,344 |

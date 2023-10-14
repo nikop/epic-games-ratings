@@ -4,7 +4,7 @@
   "ProductSlug": "the-crackpet-show-0bf5c4",
   "Ranking_EOS_Progress": 503,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 287,
+  "Ranking_EOS_NewPlayers": 288,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-09-27T15:00:00+00:00",
@@ -287,9 +287,9 @@
       "ID": "GET_HIT_N_TIMES",
       "SetID": "dcng643",
       "Name": "Meat Shield",
-      "Percentage": 13,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "GET_KILLED_BY_RAT",
@@ -359,9 +359,9 @@
       "ID": "KILL_BOSS_1",
       "SetID": "dcng643",
       "Name": "Toad Slayer",
-      "Percentage": 40,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "KILL_BOSS_10",
@@ -687,9 +687,9 @@
       "ID": "TAKE_WEAPON_N_TIMES_FIRST",
       "SetID": "dcng643",
       "Name": "Ninja",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "UNLOCK_ALL_PERKS",
@@ -774,8 +774,8 @@
   ],
   "FirstSeen": "2023-09-28T16:00:28.1613796+00:00",
   "FirstSeenAchievements": "2023-09-19T08:09:12.2865196+00:00",
-  "LastChanged_Achievements": "2023-10-14T16:07:53.8007611+00:00",
+  "LastChanged_Achievements": "2023-10-14T17:05:43.3139264+00:00",
   "LastUpdate_AppInfo": "2023-10-12T19:57:11.6358663+00:00",
-  "LastUpdate_Ratings": "2023-10-14T16:01:36.8341329+00:00",
-  "LastUpdate_Achievements": "2023-10-14T16:07:53.8008574+00:00"
+  "LastUpdate_Ratings": "2023-10-14T16:59:18.7632351+00:00",
+  "LastUpdate_Achievements": "2023-10-14T17:05:43.313998+00:00"
 }

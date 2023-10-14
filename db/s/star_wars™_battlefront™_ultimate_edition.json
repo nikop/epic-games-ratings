@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 640,
+  "EOS_Progressed": 641,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1711,6 +1711,11 @@
       "Time": "2023-10-14T16:07:12.8299535+00:00",
       "NumProgressed": 640,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-14T17:05:02.9907551+00:00",
+      "NumProgressed": 641,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -1737,9 +1742,9 @@
       "ID": "achievement_11",
       "SetID": "271ol84",
       "Name": "Hold the line!",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 13
     },
     {
       "ID": "achievement_12",
@@ -1819,7 +1824,7 @@
       "Name": "Collector",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "achievement_21",
@@ -1867,7 +1872,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "achievement_27",
@@ -1939,7 +1944,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "achievement_35",
@@ -1947,7 +1952,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "achievement_36",
@@ -1995,7 +2000,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "achievement_41",
@@ -2027,7 +2032,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "achievement_45",
@@ -2073,9 +2078,9 @@
       "ID": "achievement_5",
       "SetID": "271ol84",
       "Name": "Shoot first",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 115
+      "UsersEstimate": 109
     },
     {
       "ID": "achievement_50",
@@ -2226,13 +2231,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 640,
+      "Progressed": 641,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 640,
+      "Progressed": 641,
       "Completed": 1
     }
   ],
@@ -2240,8 +2245,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-14T16:07:12.8299527+00:00",
+  "LastChanged_Achievements": "2023-10-14T17:05:02.9907546+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:22.846224+00:00",
-  "LastUpdate_Ratings": "2023-10-14T16:05:21.4196229+00:00",
-  "LastUpdate_Achievements": "2023-10-14T16:07:12.8300335+00:00"
+  "LastUpdate_Ratings": "2023-10-14T17:03:31.3931812+00:00",
+  "LastUpdate_Achievements": "2023-10-14T17:05:02.9908149+00:00"
 }

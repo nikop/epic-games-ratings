@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-2-970dc3",
   "Ranking_EOS_Progress": 424,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 396,
+  "Ranking_EOS_NewPlayers": 398,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -426,9 +426,9 @@
       "ID": "CgkInO_K3eIdEAIQDw",
       "SetID": "6bj96in",
       "Name": "TIME THIEF",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 40,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "CgkInO_K3eIdEAIQEA",
@@ -458,9 +458,9 @@
       "ID": "CgkInO_K3eIdEAIQEw",
       "SetID": "6bj96in",
       "Name": "ATTENTIVE SCRIBE",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 40,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "CgkInO_K3eIdEAIQFA",
@@ -529,8 +529,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-10-14T16:09:09.823715+00:00",
+  "LastChanged_Achievements": "2023-10-14T17:07:09.4638974+00:00",
   "LastUpdate_AppInfo": "2023-10-11T21:57:09.2451124+00:00",
-  "LastUpdate_Ratings": "2023-10-14T16:02:25.7972586+00:00",
-  "LastUpdate_Achievements": "2023-10-14T16:09:09.8237342+00:00"
+  "LastUpdate_Ratings": "2023-10-14T17:00:08.4592494+00:00",
+  "LastUpdate_Achievements": "2023-10-14T17:07:09.4639341+00:00"
 }

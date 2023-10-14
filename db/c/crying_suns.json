@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 366,
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
@@ -622,9 +622,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 469044,
+  "EOS_Progressed": 469047,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 387,
+  "EOS_NewPlayers": 382,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19157,6 +19157,11 @@
       "Time": "2023-10-14T16:11:04.1442544+00:00",
       "NumProgressed": 469044,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-10-14T17:09:12.520728+00:00",
+      "NumProgressed": 469047,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 79,
@@ -19208,7 +19213,7 @@
       "Name": "Chapter III: The Man Who Sold the World",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 46904
+      "UsersEstimate": 46905
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -19256,7 +19261,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 309569
+      "UsersEstimate": 309571
     },
     {
       "ID": "achievement_story_landa",
@@ -19288,7 +19293,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 117261
+      "UsersEstimate": 117262
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -19352,7 +19357,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 159475
+      "UsersEstimate": 159476
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -19592,7 +19597,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 206379
+      "UsersEstimate": 206381
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -19600,7 +19605,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 140713
+      "UsersEstimate": 140714
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -19624,7 +19629,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 182927
+      "UsersEstimate": 182928
     },
     {
       "ID": "achievement_win_run_hard",
@@ -19799,21 +19804,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 12978,
+      "Progressed": 12981,
       "Completed": 2358
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 469044,
+      "Progressed": 469047,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-10-10T01:42:39.6470224+00:00",
-  "LastChanged_Achievements": "2023-10-14T16:11:04.1442537+00:00",
+  "LastChanged_Achievements": "2023-10-14T17:09:12.5207276+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:23.4157652+00:00",
-  "LastUpdate_Ratings": "2023-10-14T15:59:53.8178093+00:00",
-  "LastUpdate_Achievements": "2023-10-14T16:11:04.1444548+00:00"
+  "LastUpdate_Ratings": "2023-10-14T16:57:35.5594986+00:00",
+  "LastUpdate_Achievements": "2023-10-14T17:09:12.5208836+00:00"
 }

@@ -3958,10 +3958,16 @@
       "Rating": 3.94,
       "NumberOfAwards": 2341,
       "NumberOfAwardsMax": 491
+    },
+    {
+      "Time": "2023-10-14T16:58:48.0045363+00:00",
+      "Rating": 3.94,
+      "NumberOfAwards": 2344,
+      "NumberOfAwardsMax": 491
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 2341,
+  "NumberOfAwards": 2344,
   "NumberOfAwardsMax": 491,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3981,7 +3987,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 451
+      "Count": 454
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4014,9 +4020,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 89071,
+  "EOS_Progressed": 89072,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 206,
+  "EOS_NewPlayers": 204,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -22154,6 +22160,11 @@
       "Time": "2023-10-14T16:09:16.7331443+00:00",
       "NumProgressed": 89071,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-10-14T17:07:16.3435988+00:00",
+      "NumProgressed": 89072,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 41,
@@ -22389,7 +22400,7 @@
       "Name": "King of the Hill",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "ACH_0430",
@@ -22421,7 +22432,7 @@
       "Name": "Off the Rocks",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "ACH_0451",
@@ -22429,7 +22440,7 @@
       "Name": "Raider\u2019s Ruin",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "ACH_0452",
@@ -22437,7 +22448,7 @@
       "Name": "Dragonslayer",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "ACH_0460",
@@ -22453,7 +22464,7 @@
       "Name": "Rockay Rex",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "ACH_1010",
@@ -22492,22 +22503,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 89071,
+      "Progressed": 89072,
       "Completed": 50
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 17418,
-      "Completed": 15546
+      "Progressed": 17419,
+      "Completed": 15547
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-10-14T13:58:38.0299189+00:00",
-  "LastChanged_Achievements": "2023-10-14T16:09:16.7331435+00:00",
+  "LastChanged": "2023-10-14T16:58:48.004536+00:00",
+  "LastChanged_Achievements": "2023-10-14T17:07:16.3435984+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:09.3878818+00:00",
-  "LastUpdate_Ratings": "2023-10-14T16:01:06.9225279+00:00",
-  "LastUpdate_Achievements": "2023-10-14T16:09:16.7332871+00:00"
+  "LastUpdate_Ratings": "2023-10-14T16:58:48.0045368+00:00",
+  "LastUpdate_Achievements": "2023-10-14T17:07:16.3437079+00:00"
 }
