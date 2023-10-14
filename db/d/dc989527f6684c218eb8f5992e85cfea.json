@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12532,
+  "EOS_Progressed": 12533,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 262,
+  "EOS_NewPlayers": 263,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11991,6 +11991,11 @@
       "Time": "2023-10-14T06:05:44.7689952+00:00",
       "NumProgressed": 12532,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-14T08:06:26.3242591+00:00",
+      "NumProgressed": 12533,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -12074,7 +12079,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 5514
+      "UsersEstimate": 5515
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -12170,7 +12175,7 @@
       "Name": "Art Intern",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2506
+      "UsersEstimate": 2507
     },
     {
       "ID": "ACH_WIN_A_GAME_GUESS_IT",
@@ -12201,14 +12206,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 12532,
+      "Progressed": 12533,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-10-14T07:07:09.95667+00:00",
+  "LastChanged_Achievements": "2023-10-14T08:06:26.3242585+00:00",
   "LastUpdate_AppInfo": "2023-10-14T02:11:04.1756812+00:00",
-  "LastUpdate_Ratings": "2023-10-14T06:58:59.9783829+00:00",
-  "LastUpdate_Achievements": "2023-10-14T07:07:09.9567759+00:00"
+  "LastUpdate_Ratings": "2023-10-14T07:58:51.1308843+00:00",
+  "LastUpdate_Achievements": "2023-10-14T08:06:26.32437+00:00"
 }

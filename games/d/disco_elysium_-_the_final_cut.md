@@ -6,19 +6,19 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~36,307 |
-| Biggest Communism Builder | 24.00% | ~31,120 |
-| The World's Most Laughable Centrist | 21.00% | ~27,230 |
-| Il Coppo Del'Arte! | 18.00% | ~23,340 |
+| Goodest Of The Good Cops | 28.00% | ~36,308 |
+| Biggest Communism Builder | 24.00% | ~31,121 |
+| The World's Most Laughable Centrist | 21.00% | ~27,231 |
+| Il Coppo Del'Arte! | 18.00% | ~23,341 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,747 |
 | Hyperstellar Law Official | 16.00% | ~20,747 |
 | Recruit Detective Kim Kitsuragi | 14.00% | ~18,154 |
 | Gurdi-Ball Is Lit | 14.00% | ~18,154 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~16,857 |
-| Truly Rabid *Traditionalist* | 11.00% | ~14,263 |
+| Truly Rabid *Traditionalist* | 11.00% | ~14,264 |
 | Unbelievably Boring **** | 9.00% | ~11,670 |
 | The Figurines Won't Win Her Back | 9.00% | ~11,670 |
-| Enemy Of The Physical Realm | 8.00% | ~10,373 |
+| Enemy Of The Physical Realm | 8.00% | ~10,374 |
 | Hardie's Heroes | 6.00% | ~7,780 |
 | The Lawbringer | 4.00% | ~5,187 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,187 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~130 |
 | What body? | 0.10% | ~130 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,668 (Ranked 75)  
+Progressed: 129,670 (Ranked 75)  
 Completed: 28 (0.02%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,10 +224,10 @@ Completed: 28 (0.02%) (Ranked 288)
 | 2023-10-11 | 129,584 | 28 |
 | 2023-10-12 | 129,621 | 28 |
 | 2023-10-13 | 129,658 | 28 |
-| 2023-10-14 | 129,668 | 28 |
+| 2023-10-14 | 129,670 | 28 |
 ## Awards
 Max (Character Customization): 733  (Ranked 172)  
-Sum: 1,101 (Ranked 241)  
+Sum: 1,102 (Ranked 241)  
 Diff (max vs sum): -69  
 | Award | Count |
 | ----- | ----- |
@@ -236,7 +236,7 @@ Diff (max vs sum): -69
 | This game is Educational | 44 |
 | This game is Highly Recommended | 43 |
 | This game has Quickly Understood Controls | 42 |
-| This game has Unique Visuals | 36 |
+| This game has Unique Visuals | 37 |
 | This game is Relaxing | 36 |
 | This game has Amazing Characters | 36 |
 | This game has Diverse Characters | 31 |
@@ -382,3 +382,4 @@ Diff (max vs sum): -69
 | 2023-10-06 | 4.87 | - | 728 | 1,096 |
 | 2023-10-11 | 4.87 | - | 732 | 1,100 |
 | 2023-10-13 | 4.87 | - | 733 | 1,101 |
+| 2023-10-14 | 4.87 | - | 733 | 1,102 |

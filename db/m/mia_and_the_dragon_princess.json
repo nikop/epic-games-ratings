@@ -3,9 +3,9 @@
   "Name": "Mia and the Dragon Princess",
   "ProductSlug": "mia-and-the-dragon-princess-f4e1d0",
   "Ranking_EOS_Progress": 412,
-  "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 227,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_Completed": 125,
+  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-05-04T07:00:00+00:00",
     "PcReleaseDate": "2023-05-04T07:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 69,
+  "EOS_Progressed": 70,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.45,
+  "EOS_Completed_Percentage": 1.43,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:47:18.2098376+00:00",
@@ -371,6 +371,11 @@
       "Time": "2023-10-14T06:08:39.738623+00:00",
       "NumProgressed": 69,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-14T08:08:19.2690328+00:00",
+      "NumProgressed": 70,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 18,
@@ -428,7 +433,7 @@
       "ID": "explosive_end",
       "SetID": "5anb57n",
       "Name": "Explosive End",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 90,
       "UsersEstimate": 15
     },
@@ -468,7 +473,7 @@
       "ID": "glass_act",
       "SetID": "5anb57n",
       "Name": "Glass Act",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
       "UsersEstimate": 26
     },
@@ -484,7 +489,7 @@
       "ID": "puzzle_prodigy",
       "SetID": "5anb57n",
       "Name": "Puzzle Prodigy",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 40,
       "UsersEstimate": 17
     },
@@ -492,7 +497,7 @@
       "ID": "relight_my_cannon",
       "SetID": "5anb57n",
       "Name": "Relight my Cannon",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 40,
       "UsersEstimate": 26
     },
@@ -525,14 +530,14 @@
     {
       "ID": "5anb57n",
       "IsBase": true,
-      "Progressed": 69,
+      "Progressed": 70,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-13T16:58:04.6283661+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:18.2098384+00:00",
-  "LastChanged_Achievements": "2023-10-14T07:09:18.5290878+00:00",
+  "LastChanged_Achievements": "2023-10-14T08:08:19.2690323+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:16.5255346+00:00",
-  "LastUpdate_Ratings": "2023-10-14T07:01:05.1728804+00:00",
-  "LastUpdate_Achievements": "2023-10-14T07:09:18.5291046+00:00"
+  "LastUpdate_Ratings": "2023-10-14T08:00:36.0346169+00:00",
+  "LastUpdate_Achievements": "2023-10-14T08:08:19.2690491+00:00"
 }

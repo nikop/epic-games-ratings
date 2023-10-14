@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -2616,9 +2616,9 @@
       "ID": "Achievement_039",
       "SetID": "6b34g18",
       "Name": "Check, Please!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Achievement_040",
@@ -2857,8 +2857,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-10-08T15:57:53.1748386+00:00",
-  "LastChanged_Achievements": "2023-10-14T07:07:40.0764558+00:00",
+  "LastChanged_Achievements": "2023-10-14T08:06:52.7948017+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:24.0553263+00:00",
-  "LastUpdate_Ratings": "2023-10-14T07:01:22.7894156+00:00",
-  "LastUpdate_Achievements": "2023-10-14T07:07:40.0765481+00:00"
+  "LastUpdate_Ratings": "2023-10-14T08:00:50.9785731+00:00",
+  "LastUpdate_Achievements": "2023-10-14T08:06:52.794916+00:00"
 }

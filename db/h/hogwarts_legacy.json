@@ -8952,9 +8952,9 @@
       "Count": 710
     }
   ],
-  "EOS_Progressed": 298280,
+  "EOS_Progressed": 298283,
   "EOS_Completed": 485,
-  "EOS_NewPlayers": 351,
+  "EOS_NewPlayers": 354,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -27902,6 +27902,11 @@
       "Time": "2023-10-14T07:04:53.9541601+00:00",
       "NumProgressed": 298280,
       "NumCompleted": 485
+    },
+    {
+      "Time": "2023-10-14T08:04:28.3020164+00:00",
+      "NumProgressed": 298283,
+      "NumCompleted": 485
     }
   ],
   "TotalAchievements": 45,
@@ -27961,7 +27966,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23862
+      "UsersEstimate": 23863
     },
     {
       "ID": "PFA_16",
@@ -27985,7 +27990,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23862
+      "UsersEstimate": 23863
     },
     {
       "ID": "PFA_19",
@@ -27993,7 +27998,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23862
+      "UsersEstimate": 23863
     },
     {
       "ID": "PFA_2",
@@ -28241,7 +28246,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38776
+      "UsersEstimate": 38777
     },
     {
       "ID": "PFA_7",
@@ -28249,7 +28254,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38776
+      "UsersEstimate": 38777
     },
     {
       "ID": "PFA_8",
@@ -28272,7 +28277,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298280,
+      "Progressed": 298283,
       "Completed": 485
     }
   ],
@@ -28280,8 +28285,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-14T07:01:14.4586647+00:00",
-  "LastChanged_Achievements": "2023-10-14T07:04:53.9541596+00:00",
+  "LastChanged_Achievements": "2023-10-14T08:04:28.3020159+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:01.0338203+00:00",
-  "LastUpdate_Ratings": "2023-10-14T07:01:14.4586658+00:00",
-  "LastUpdate_Achievements": "2023-10-14T07:04:53.9543133+00:00"
+  "LastUpdate_Ratings": "2023-10-14T08:00:43.5249485+00:00",
+  "LastUpdate_Achievements": "2023-10-14T08:04:28.3021694+00:00"
 }

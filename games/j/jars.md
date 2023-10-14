@@ -10,7 +10,7 @@
 | The child of the night | 72.00% | ~59 |
 | Uncle will be happy | 70.00% | ~57 |
 | I have an army! | 63.00% | ~52 |
-| Sticky fingers | 41.00% | ~34 |
+| Sticky fingers | 43.00% | ~35 |
 | A horrible thing will happen... | 37.00% | ~30 |
 | Vampires | 30.00% | ~25 |
 | Bloody stream | 29.00% | ~24 |

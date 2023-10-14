@@ -5328,10 +5328,10 @@
       "Count": 379
     }
   ],
-  "EOS_Progressed": 695334,
+  "EOS_Progressed": 695347,
   "EOS_Completed": 2223,
-  "EOS_NewPlayers": 3458,
-  "EOS_NewCompleters": 29,
+  "EOS_NewPlayers": 3457,
+  "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
     {
@@ -25358,6 +25358,11 @@
       "Time": "2023-10-14T07:04:34.3550414+00:00",
       "NumProgressed": 695334,
       "NumCompleted": 2223
+    },
+    {
+      "Time": "2023-10-14T08:04:11.4892925+00:00",
+      "NumProgressed": 695347,
+      "NumCompleted": 2223
     }
   ],
   "TotalAchievements": 45,
@@ -25529,7 +25534,7 @@
       "Name": "Hotel California",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 27813
+      "UsersEstimate": 27814
     },
     {
       "ID": "ach_impressive_aim",
@@ -25705,7 +25710,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 27813
+      "UsersEstimate": 27814
     },
     {
       "ID": "ach_well_known_survivor",
@@ -25728,22 +25733,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 695334,
+      "Progressed": 695347,
       "Completed": 2223
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 20876,
-      "Completed": 20876
+      "Progressed": 20889,
+      "Completed": 20889
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-10-14T06:02:13.1712268+00:00",
-  "LastChanged_Achievements": "2023-10-14T07:04:34.3550408+00:00",
+  "LastChanged_Achievements": "2023-10-14T08:04:11.489292+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:12.9143544+00:00",
-  "LastUpdate_Ratings": "2023-10-14T07:02:20.6752581+00:00",
-  "LastUpdate_Achievements": "2023-10-14T07:04:34.3553187+00:00"
+  "LastUpdate_Ratings": "2023-10-14T08:02:12.4821934+00:00",
+  "LastUpdate_Achievements": "2023-10-14T08:04:11.4894413+00:00"
 }

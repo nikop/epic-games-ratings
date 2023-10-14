@@ -4,11 +4,11 @@
   "ProductSlug": "aven-colony",
   "Ranking_Rating": 881,
   "Ranking_Popularity": 321,
-  "Ranking_PopularitySum": 279,
+  "Ranking_PopularitySum": 278,
   "Ranking_EOS_Progress": 669,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 393,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-11-04T15:00:00+00:00",
     "PcReleaseDate": "2017-07-25T15:00:00+00:00",
@@ -1570,10 +1570,16 @@
       "Rating": 4.2,
       "NumberOfAwards": 735,
       "NumberOfAwardsMax": 126
+    },
+    {
+      "Time": "2023-10-14T08:00:38.1803228+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 737,
+      "NumberOfAwardsMax": 126
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 735,
+  "NumberOfAwards": 737,
   "NumberOfAwardsMax": 126,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -1611,7 +1617,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 121
+      "Count": 123
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1643,8 +1649,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:59.6890424+00:00",
-  "LastChanged": "2023-10-12T04:00:49.0703327+00:00",
+  "LastChanged": "2023-10-14T08:00:38.1803227+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:58:59.1560442+00:00",
-  "LastUpdate_Ratings": "2023-10-14T07:01:06.4774051+00:00",
-  "LastUpdate_Achievements": "2023-10-14T07:09:27.2237287+00:00"
+  "LastUpdate_Ratings": "2023-10-14T08:00:38.1803232+00:00",
+  "LastUpdate_Achievements": "2023-10-14T08:08:26.8194858+00:00"
 }

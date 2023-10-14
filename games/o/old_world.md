@@ -52,6 +52,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Drillmaster | 0.80% | ~117 |
 | Brilliant | 0.80% | ~117 |
 | Great | 0.80% | ~117 |
+| Colossus | 0.80% | ~117 |
 | Musaeum | 0.80% | ~117 |
 | Learn to Play 1 | 0.80% | ~117 |
 | Manichaeism | 0.80% | ~117 |
@@ -62,7 +63,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just Difficulty | 0.70% | ~103 |
 | Artisans | 0.70% | ~103 |
 | Apadana | 0.70% | ~103 |
-| Colossus | 0.70% | ~103 |
 | Necropolis | 0.70% | ~103 |
 | Learn to Play 2 | 0.70% | ~103 |
 | Hanging Gardens in Babylon | 0.60% | ~88 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,656 (Ranked 134)  
+Progressed: 14,658 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -526,7 +526,7 @@ Completed: 5 (0.03%) (Ranked 282)
 | 2023-10-11 | 14,606 | 5 |
 | 2023-10-12 | 14,624 | 5 |
 | 2023-10-13 | 14,652 | 5 |
-| 2023-10-14 | 14,656 | 5 |
+| 2023-10-14 | 14,658 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,836 (Ranked 210)  

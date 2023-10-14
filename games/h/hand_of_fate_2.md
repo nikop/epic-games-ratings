@@ -7,8 +7,8 @@ Number of Ratings: 780  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Fool | 72.00% | ~477,554 |
-| Apprentice | 58.00% | ~384,696 |
-| Close Shave | 25.00% | ~165,817 |
+| Apprentice | 58.00% | ~384,697 |
+| Close Shave | 25.00% | ~165,818 |
 | Mercenary | 23.00% | ~152,552 |
 | Ninja | 23.00% | ~152,552 |
 | Northern Scourge | 17.00% | ~112,756 |
@@ -26,8 +26,8 @@ Number of Ratings: 780  (23.09.2022)
 | Broken Heart | 7.00% | ~46,429 |
 | Adventurer | 6.00% | ~39,796 |
 | Empire's Bane | 6.00% | ~39,796 |
-| Jack of all Trades | 5.00% | ~33,163 |
-| Smithy | 5.00% | ~33,163 |
+| Jack of all Trades | 5.00% | ~33,164 |
+| Smithy | 5.00% | ~33,164 |
 | Leap of Faith | 3.00% | ~19,898 |
 | Combat Ready | 3.00% | ~19,898 |
 | Stuffed Potato | 3.00% | ~19,898 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~663 |
 | Blood Pact | 0.10% | ~663 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 663,269 (Ranked 25)  
+Progressed: 663,270 (Ranked 25)  
 Completed: 171 (0.03%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,7 +232,7 @@ Completed: 171 (0.03%) (Ranked 282)
 | 2023-10-11 | 663,191 | 170 |
 | 2023-10-12 | 663,232 | 171 |
 | 2023-10-13 | 663,262 | 171 |
-| 2023-10-14 | 663,269 | 171 |
+| 2023-10-14 | 663,270 | 171 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 455)  
 Sum: 186 (Ranked 393)  

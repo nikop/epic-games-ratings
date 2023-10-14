@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-08-11T13:00:00+00:00",
     "PcReleaseDate": "2022-08-11T13:00:00+00:00",
@@ -84,9 +84,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 684,
+  "EOS_Progressed": 685,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -624,6 +624,11 @@
       "Time": "2023-10-11T04:09:26.8827618+00:00",
       "NumProgressed": 684,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-14T08:03:56.1697078+00:00",
+      "NumProgressed": 685,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 54,
@@ -683,7 +688,7 @@
       "Name": "Fetch Quest Complete",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "AhoyTrophy",
@@ -705,9 +710,9 @@
       "ID": "AllGoalTrophy",
       "SetID": "32aeje8",
       "Name": "Goal",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 151
     },
     {
       "ID": "AllUpgrdTrophy",
@@ -779,7 +784,7 @@
       "Name": "Pushing a pull door",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "Ext4Trophy",
@@ -811,7 +816,7 @@
       "Name": "Machine Maxed",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "GoldGuyTrophy",
@@ -915,7 +920,7 @@
       "Name": "I can\u0027t wait!",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "MaxPriceTrophy",
@@ -1035,7 +1040,7 @@
       "Name": "Clean up on Aisle 9",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "WhiteWolfTrophy",
@@ -1066,7 +1071,7 @@
     {
       "ID": "32aeje8",
       "IsBase": true,
-      "Progressed": 684,
+      "Progressed": 685,
       "Completed": 0
     }
   ],
@@ -1074,8 +1079,8 @@
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
   "LastChanged": "2023-09-04T18:59:06.3867769+00:00",
-  "LastChanged_Achievements": "2023-10-14T07:04:16.7115027+00:00",
+  "LastChanged_Achievements": "2023-10-14T08:03:56.1697073+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:57.2197773+00:00",
-  "LastUpdate_Ratings": "2023-10-14T07:00:53.6336547+00:00",
-  "LastUpdate_Achievements": "2023-10-14T07:04:16.7115837+00:00"
+  "LastUpdate_Ratings": "2023-10-14T08:00:26.1666121+00:00",
+  "LastUpdate_Achievements": "2023-10-14T08:03:56.1697603+00:00"
 }

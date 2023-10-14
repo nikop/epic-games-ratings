@@ -6,9 +6,9 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 2.00% | ~18,755 |
-| It wakes | 2.00% | ~18,755 |
-| Skillful | 2.00% | ~18,755 |
+| Zealous | 2.00% | ~18,756 |
+| It wakes | 2.00% | ~18,756 |
+| Skillful | 2.00% | ~18,756 |
 | No one left behind | 1.00% | ~9,378 |
 | Medic | 1.00% | ~9,378 |
 | Handyman | 1.00% | ~9,378 |
@@ -30,11 +30,11 @@ Number of Ratings: 70,340  (23.09.2022)
 | Nerves of steel | 0.80% | ~7,502 |
 | Perfect Escape | 0.80% | ~7,502 |
 | Engineer | 0.80% | ~7,502 |
-| Perfect Killing | 0.70% | ~6,564 |
-| Risk it all | 0.70% | ~6,564 |
-| II | 0.70% | ~6,564 |
-| Wounded Healer | 0.70% | ~6,564 |
-| Close Shave | 0.70% | ~6,564 |
+| Perfect Killing | 0.70% | ~6,565 |
+| Risk it all | 0.70% | ~6,565 |
+| II | 0.70% | ~6,565 |
+| Wounded Healer | 0.70% | ~6,565 |
+| Close Shave | 0.70% | ~6,565 |
 | Apt Killer | 0.60% | ~5,627 |
 | Vulture | 0.60% | ~5,627 |
 | Second Act | 0.60% | ~5,627 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~938 |
 | Adept Ripley | 0.10% | ~938 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 937,753 (Ranked 14)  
+Progressed: 937,808 (Ranked 14)  
 Completed: 50 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -413,7 +413,7 @@ Completed: 50 (0.01%) (Ranked 296)
 | 2023-10-11 | 933,163 | 49 |
 | 2023-10-12 | 934,954 | 50 |
 | 2023-10-13 | 937,037 | 50 |
-| 2023-10-14 | 937,753 | 50 |
+| 2023-10-14 | 937,808 | 50 |
 ## Awards
 Max (Diverse Characters): 33,877  (Ranked 15)  
 Sum: 262,042 (Ranked 13)  

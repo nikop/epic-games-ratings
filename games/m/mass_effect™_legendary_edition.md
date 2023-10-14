@@ -75,9 +75,9 @@
 | Suicide Mission | 27.00% | ~184 |
 | Against All Odds | 27.00% | ~184 |
 | Untouchable | 26.00% | ~177 |
+| A House Divided | 26.00% | ~177 |
 | Eye of the Hurricane | 25.00% | ~170 |
 | Giant Killer | 25.00% | ~170 |
-| A House Divided | 25.00% | ~170 |
 | Weapon Specialist | 25.00% | ~170 |
 | World Shaker | 24.00% | ~163 |
 | Liberator | 24.00% | ~163 |
