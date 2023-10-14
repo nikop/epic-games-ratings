@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | That's the spirit | 10.00% | ~28 |
 | Welcome to the Tower | 10.00% | ~28 |
-| The Preacher's fate | 9.00% | ~25 |
 | The great escape | 9.00% | ~25 |
+| The Preacher's fate | 8.00% | ~23 |
 | In this together | 7.00% | ~20 |
 | Cable guy | 7.00% | ~20 |
 | A new dawn | 7.00% | ~20 |
@@ -30,8 +30,8 @@
 | A great audience | 2.00% | ~6 |
 | Fashion victim | 0.70% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 282 (Ranked 317)  
-Completed: 19 (6.74%) (Ranked 50)  
+Progressed: 283 (Ranked 317)  
+Completed: 19 (6.71%) (Ranked 50)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -116,3 +116,4 @@ Completed: 19 (6.74%) (Ranked 50)
 | 2023-10-11 | 277 | 19 |
 | 2023-10-12 | 279 | 19 |
 | 2023-10-13 | 282 | 19 |
+| 2023-10-14 | 283 | 19 |

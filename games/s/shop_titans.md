@@ -46,8 +46,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | Natural 20 | 0.80% | ~1,100 |
 | Magical Harmony | 0.80% | ~1,100 |
 | Tax not Included | 0.70% | ~963 |
+| Big Game Hunting | 0.70% | ~963 |
 | For the Hoard! | 0.70% | ~963 |
 | Scrapbooker | 0.70% | ~963 |
+| Flying off the Shelves | 0.70% | ~963 |
 | This Power Level...! | 0.70% | ~963 |
 | Hidden Potential | 0.70% | ~963 |
 | Trash to Treasure | 0.70% | ~963 |
@@ -60,10 +62,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Above the Norm | 0.60% | ~825 |
 | A Ronin Reborn | 0.60% | ~825 |
 | The King's Caprice | 0.60% | ~825 |
-| Big Game Hunting | 0.60% | ~825 |
 | Archivist | 0.60% | ~825 |
 | Locally Sourced | 0.60% | ~825 |
-| Flying off the Shelves | 0.60% | ~825 |
 | Master of Transmutation | 0.60% | ~825 |
 | Supercharged | 0.60% | ~825 |
 | Expansion in Session | 0.60% | ~825 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~138 |
 | Cash Only Please | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,555 (Ranked 73)  
+Progressed: 137,556 (Ranked 73)  
 Completed: 168 (0.12%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,6 +296,7 @@ Completed: 168 (0.12%) (Ranked 240)
 | 2023-10-11 | 137,455 | 168 |
 | 2023-10-12 | 137,496 | 168 |
 | 2023-10-13 | 137,555 | 168 |
+| 2023-10-14 | 137,556 | 168 |
 ## Awards
 Max (Great for Beginners): 4,785  (Ranked 71)  
 Sum: 27,380 (Ranked 50)  

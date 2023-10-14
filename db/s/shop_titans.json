@@ -6508,7 +6508,7 @@
       "Count": 3759
     }
   ],
-  "EOS_Progressed": 137555,
+  "EOS_Progressed": 137556,
   "EOS_Completed": 168,
   "EOS_NewPlayers": 336,
   "EOS_NewCompleters": 5,
@@ -24573,6 +24573,11 @@
       "Time": "2023-10-13T23:08:34.3470261+00:00",
       "NumProgressed": 137555,
       "NumCompleted": 168
+    },
+    {
+      "Time": "2023-10-14T00:09:15.6583648+00:00",
+      "NumProgressed": 137556,
+      "NumCompleted": 168
     }
   ],
   "TotalAchievements": 112,
@@ -24726,9 +24731,9 @@
       "ID": "boss02",
       "SetID": "anfd17p",
       "Name": "Big Game Hunting",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 825
+      "UsersEstimate": 963
     },
     {
       "ID": "boss03",
@@ -24862,9 +24867,9 @@
       "ID": "craft03",
       "SetID": "anfd17p",
       "Name": "Flying off the Shelves",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 825
+      "UsersEstimate": 963
     },
     {
       "ID": "craft04",
@@ -25479,15 +25484,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 137555,
+      "Progressed": 137556,
       "Completed": 168
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-13T22:01:35.3873157+00:00",
-  "LastChanged_Achievements": "2023-10-13T23:08:34.3470257+00:00",
+  "LastChanged_Achievements": "2023-10-14T00:09:15.6583643+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:52.7124415+00:00",
-  "LastUpdate_Ratings": "2023-10-13T23:00:41.4720559+00:00",
-  "LastUpdate_Achievements": "2023-10-13T23:08:34.3472276+00:00"
+  "LastUpdate_Ratings": "2023-10-14T00:02:55.2509213+00:00",
+  "LastUpdate_Achievements": "2023-10-14T00:09:15.6586111+00:00"
 }

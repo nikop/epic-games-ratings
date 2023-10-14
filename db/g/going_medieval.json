@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 217,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1322,9 +1322,9 @@
       "Count": 68
     }
   ],
-  "EOS_Progressed": 6192,
+  "EOS_Progressed": 6193,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -10822,6 +10822,11 @@
       "Time": "2023-10-13T20:08:18.2381561+00:00",
       "NumProgressed": 6192,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-10-14T00:08:50.6079238+00:00",
+      "NumProgressed": 6193,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -10833,7 +10838,7 @@
       "Name": "Get A Room",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 4644
+      "UsersEstimate": 4645
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -10849,7 +10854,7 @@
       "Name": "Disassembled",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1300
+      "UsersEstimate": 1301
     },
     {
       "ID": "DISMANTLE_ITEMS_50",
@@ -10873,7 +10878,7 @@
       "Name": "Having A Field Day",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 4644
+      "UsersEstimate": 4645
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -10881,7 +10886,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 4458
+      "UsersEstimate": 4459
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -10889,7 +10894,7 @@
       "Name": "A Party Now",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 1300
+      "UsersEstimate": 1301
     },
     {
       "ID": "HUNT_DEER_20",
@@ -10905,7 +10910,7 @@
       "Name": "Oh Deer!",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1300
+      "UsersEstimate": 1301
     },
     {
       "ID": "HUNT_RABBIT_20",
@@ -10953,7 +10958,7 @@
       "Name": "Home Cooked Meal",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 3653
+      "UsersEstimate": 3654
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -10969,7 +10974,7 @@
       "Name": "Fit For A King",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 2043
+      "UsersEstimate": 2044
     },
     {
       "ID": "STORE_NUTRITION_5000",
@@ -10993,7 +10998,7 @@
       "Name": "The First Day",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 4272
+      "UsersEstimate": 4273
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -11025,7 +11030,7 @@
       "Name": "All Year Round",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 1300
+      "UsersEstimate": 1301
     },
     {
       "ID": "SURVIVE_SEVEN_DAY",
@@ -11049,7 +11054,7 @@
       "Name": "Adept Researcher",
       "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 2786
+      "UsersEstimate": 2787
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -11057,7 +11062,7 @@
       "Name": "Luminary Researcher",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 1981
+      "UsersEstimate": 1982
     },
     {
       "ID": "UNLOCK_RESEARCH_3",
@@ -11065,7 +11070,7 @@
       "Name": "Onward",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 3529
+      "UsersEstimate": 3530
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -11080,15 +11085,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 6192,
+      "Progressed": 6193,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-10-13T10:57:40.89067+00:00",
-  "LastChanged_Achievements": "2023-10-13T23:08:16.942755+00:00",
+  "LastChanged_Achievements": "2023-10-14T00:08:50.6079231+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:33.8053112+00:00",
-  "LastUpdate_Ratings": "2023-10-13T22:57:31.905752+00:00",
-  "LastUpdate_Achievements": "2023-10-13T23:08:16.9428161+00:00"
+  "LastUpdate_Ratings": "2023-10-13T23:58:15.4335962+00:00",
+  "LastUpdate_Achievements": "2023-10-14T00:08:50.6080205+00:00"
 }

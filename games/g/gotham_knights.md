@@ -5,39 +5,39 @@ Rating: 4.18 (Ranked 898)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~38,205 |
-| Har, Har, Har, Very Funny | 35.00% | ~25,715 |
-| Loose Ends | 34.00% | ~24,980 |
-| To the Victor Go the Spoils | 29.00% | ~21,307 |
-| Knighthood | 28.00% | ~20,572 |
-| Get ReQ'd | 25.00% | ~18,368 |
-| Whispered Words | 25.00% | ~18,368 |
+| First Step Into the Knight | 52.00% | ~38,207 |
+| Har, Har, Har, Very Funny | 35.00% | ~25,716 |
+| Loose Ends | 34.00% | ~24,982 |
+| To the Victor Go the Spoils | 29.00% | ~21,308 |
+| Knighthood | 28.00% | ~20,573 |
+| Get ReQ'd | 25.00% | ~18,369 |
+| Whispered Words | 25.00% | ~18,369 |
 | The Batman Family | 23.00% | ~16,899 |
 | Lock and Key | 23.00% | ~16,899 |
-| Something in the Clay | 21.00% | ~15,429 |
-| Quartzer Life Crisis | 21.00% | ~15,429 |
-| Working Hard or Harley Working? | 21.00% | ~15,429 |
-| Unstoppable Force | 20.00% | ~14,694 |
-| Bad Apples in Every Orchard | 20.00% | ~14,694 |
+| Something in the Clay | 21.00% | ~15,430 |
+| Quartzer Life Crisis | 21.00% | ~15,430 |
+| Working Hard or Harley Working? | 21.00% | ~15,430 |
+| Unstoppable Force | 20.00% | ~14,695 |
+| Bad Apples in Every Orchard | 20.00% | ~14,695 |
 | Snow Problem | 19.00% | ~13,960 |
-| The Show Mud Go On | 18.00% | ~13,225 |
-| From Inside Gotham's Walls | 18.00% | ~13,225 |
-| Protector of Gotham | 17.00% | ~12,490 |
+| The Show Mud Go On | 18.00% | ~13,226 |
+| From Inside Gotham's Walls | 18.00% | ~13,226 |
+| Protector of Gotham | 17.00% | ~12,491 |
 | Universal Health Scare | 16.00% | ~11,756 |
 | In Your Element | 15.00% | ~11,021 |
 | Voiceless | 15.00% | ~11,021 |
-| Rock and a Hard Place | 14.00% | ~10,286 |
-| Cooldown | 14.00% | ~10,286 |
-| Seeking Asylum | 14.00% | ~10,286 |
-| Not On My Watch | 13.00% | ~9,551 |
-| Shock Til They Drop | 13.00% | ~9,551 |
+| Rock and a Hard Place | 14.00% | ~10,287 |
+| Cooldown | 14.00% | ~10,287 |
+| Seeking Asylum | 14.00% | ~10,287 |
+| Not On My Watch | 13.00% | ~9,552 |
+| Shock Til They Drop | 13.00% | ~9,552 |
 | End of an Era | 12.00% | ~8,817 |
 | Bulldozed | 12.00% | ~8,817 |
 | Gotham Knight | 12.00% | ~8,817 |
 | Gotham City Confidential | 11.00% | ~8,082 |
-| Drone You Out | 10.00% | ~7,347 |
-| Out of Their League | 9.00% | ~6,612 |
-| Solid Alibi | 9.00% | ~6,612 |
+| Drone You Out | 10.00% | ~7,348 |
+| Out of Their League | 9.00% | ~6,613 |
+| Solid Alibi | 9.00% | ~6,613 |
 | Fusion Expert | 7.00% | ~5,143 |
 | Family Meeting | 7.00% | ~5,143 |
 | Expert Crime Fighter | 6.00% | ~4,408 |
@@ -45,8 +45,8 @@ Rating: 4.18 (Ranked 898)
 | Dressed to Impress | 4.00% | ~2,939 |
 | A Momentum Occasion | 3.00% | ~2,204 |
 | Bat Out of Hell | 3.00% | ~2,204 |
-| Practice Makes Perfect | 2.00% | ~1,469 |
-| He'd Be So Proud of You | 2.00% | ~1,469 |
+| Practice Makes Perfect | 2.00% | ~1,470 |
+| He'd Be So Proud of You | 2.00% | ~1,470 |
 | Talonted | 1.00% | ~735 |
 | The Man-Bat Family | 1.00% | ~735 |
 | Batarang Collector | 1.00% | ~735 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 898)
 | Element of Surprise | 0.20% | ~88 |
 | It's Nice to Be Wanted | 0.20% | ~88 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,472 (Ranked 91)  
+Progressed: 73,475 (Ranked 91)  
 Completed: 121 (0.16%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,9 +244,10 @@ Completed: 121 (0.16%) (Ranked 231)
 | 2023-10-11 | 73,428 | 120 |
 | 2023-10-12 | 73,448 | 121 |
 | 2023-10-13 | 73,472 | 121 |
+| 2023-10-14 | 73,475 | 121 |
 ## Awards
 Max (Great Boss Battles): 2,819  (Ranked 97)  
-Sum: 4,728 (Ranked 139)  
+Sum: 4,729 (Ranked 139)  
 Diff (max vs sum): -42  
 | Award | Count |
 | ----- | ----- |
@@ -256,7 +257,7 @@ Diff (max vs sum): -42
 | This game is Great for Beginners | 241 |
 | This game has Quickly Understood Controls | 239 |
 | This game has Diverse Characters | 238 |
-| This game has Amazing Storytelling | 235 |
+| This game has Amazing Storytelling | 236 |
 | This game has Amazing Characters | 234 |
 | This game is Highly Recommended | 234 |
 | This game is Great for Quick Sessions | 60 |
@@ -493,4 +494,4 @@ Diff (max vs sum): -42
 | 2023-10-10 | 4.18 | 2,802 | 4,703 |
 | 2023-10-11 | 4.18 | 2,811 | 4,713 |
 | 2023-10-12 | 4.18 | 2,811 | 4,717 |
-| 2023-10-13 | 4.18 | 2,819 | 4,728 |
+| 2023-10-13 | 4.18 | 2,819 | 4,729 |

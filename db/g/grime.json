@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1072,9 +1072,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 151932,
+  "EOS_Progressed": 151950,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1188,
+  "EOS_NewPlayers": 1198,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11457,6 +11457,11 @@
       "Time": "2023-10-13T23:03:18.8059985+00:00",
       "NumProgressed": 151932,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-14T00:04:05.7770769+00:00",
+      "NumProgressed": 151950,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -11516,7 +11521,7 @@
       "Name": "The Hunt",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1519
+      "UsersEstimate": 1520
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -11532,7 +11537,7 @@
       "Name": "Taste",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1519
+      "UsersEstimate": 1520
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -11540,15 +11545,15 @@
       "Name": "Weeper",
       "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 1367
+      "UsersEstimate": 1368
     },
     {
       "ID": "DEFEAT_AMAL2",
       "SetID": "ccc0dlh",
       "Name": "Hunt Down",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 304
+      "UsersEstimate": 456
     },
     {
       "ID": "DEFEAT_ARTISAN",
@@ -11684,7 +11689,7 @@
       "Name": "Imprint",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1519
+      "UsersEstimate": 1520
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -11740,7 +11745,7 @@
       "Name": "Ravenous",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1367
+      "UsersEstimate": 1368
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -11835,21 +11840,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 151515,
-      "Completed": 1155
+      "Progressed": 151533,
+      "Completed": 1156
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 151932,
+      "Progressed": 151950,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-13T16:00:31.6680539+00:00",
-  "LastChanged_Achievements": "2023-10-13T23:03:18.8059981+00:00",
+  "LastChanged_Achievements": "2023-10-14T00:04:05.7770763+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:46.4911319+00:00",
-  "LastUpdate_Ratings": "2023-10-13T22:59:18.7143444+00:00",
-  "LastUpdate_Achievements": "2023-10-13T23:03:18.8060956+00:00"
+  "LastUpdate_Ratings": "2023-10-14T00:00:50.6007649+00:00",
+  "LastUpdate_Achievements": "2023-10-14T00:04:05.7772132+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 98,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -499,9 +499,9 @@
       "ID": "ACH_FISH",
       "SetID": "5fn8ia4",
       "Name": "Fishy Business",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_WASHCAR_01",
@@ -779,9 +779,9 @@
       "ID": "GSS_ACH_33_FLY",
       "SetID": "5fn8ia4",
       "Name": "Fly Like an Eagle",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "GSS_ACH_34_FLYING_CARS",
@@ -1163,9 +1163,9 @@
       "ID": "GSS_ACH_88_DECORATION_02",
       "SetID": "5fn8ia4",
       "Name": "Decorating Better",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "GSS_ACH_89_DECORATION_03",
@@ -1186,8 +1186,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-13T23:08:27.2423842+00:00",
+  "LastChanged_Achievements": "2023-10-14T00:09:05.4398562+00:00",
   "LastUpdate_AppInfo": "2023-10-09T13:09:09.0618232+00:00",
-  "LastUpdate_Ratings": "2023-10-13T22:59:20.6978448+00:00",
-  "LastUpdate_Achievements": "2023-10-13T23:08:27.2424715+00:00"
+  "LastUpdate_Ratings": "2023-10-14T00:00:56.5907729+00:00",
+  "LastUpdate_Achievements": "2023-10-14T00:09:05.4399837+00:00"
 }

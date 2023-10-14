@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Everything's Coming Up Gigachu | 89.00% | ~34 |
-| Cyber Bully | 71.00% | ~27 |
-| Loving Commute | 63.00% | ~24 |
+| Everything's Coming Up Gigachu | 92.00% | ~35 |
+| Cyber Bully | 74.00% | ~28 |
+| Loving Commute | 66.00% | ~25 |
+| Love is in Bloom | 42.00% | ~16 |
 | Friendzoned | 39.00% | ~15 |
-| Love is in Bloom | 39.00% | ~15 |
 | Royal Romance | 37.00% | ~14 |
+| Speed Dating | 26.00% | ~10 |
 | A Heated Affair | 24.00% | ~9 |
 | Love is in the Air | 24.00% | ~9 |
-| Speed Dating | 24.00% | ~9 |
 | Spread the Love | 24.00% | ~9 |
 | Short Distance Relationship | 21.00% | ~8 |
 | Long Distance Relationship | 16.00% | ~6 |

@@ -4,11 +4,11 @@
   "ProductSlug": "call-of-the-wild-the-angler",
   "Ranking_Rating": 904,
   "Ranking_Popularity": 452,
-  "Ranking_PopularitySum": 394,
+  "Ranking_PopularitySum": 395,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -814,9 +814,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 6044,
+  "EOS_Progressed": 6046,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8469,6 +8469,11 @@
       "Time": "2023-10-13T22:03:08.4477089+00:00",
       "NumProgressed": 6044,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-14T00:03:47.6384765+00:00",
+      "NumProgressed": 6046,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -8480,7 +8485,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 4775
+      "UsersEstimate": 4776
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -8488,7 +8493,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 3385
+      "UsersEstimate": 3386
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -8496,7 +8501,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 4170
+      "UsersEstimate": 4172
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -8504,7 +8509,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 2841
+      "UsersEstimate": 2842
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -8512,7 +8517,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 2176
+      "UsersEstimate": 2177
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -8520,7 +8525,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 3626
+      "UsersEstimate": 3628
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -8528,7 +8533,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 2962
+      "UsersEstimate": 2963
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -8536,7 +8541,7 @@
       "Name": "Scaling up",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 3385
+      "UsersEstimate": 3386
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -8544,7 +8549,7 @@
       "Name": "Things that go Splash in the Night",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1934
+      "UsersEstimate": 1935
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -8592,7 +8597,7 @@
       "Name": "Going for Gold",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 1571
+      "UsersEstimate": 1572
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -8600,7 +8605,7 @@
       "Name": "School\u0027s Out for Summer",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "ACHIEVEMENT_017",
@@ -8759,13 +8764,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6044,
+      "Progressed": 6046,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5416,
+      "Progressed": 5418,
       "Completed": 112
     }
   ],
@@ -8773,8 +8778,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-10-13T02:58:59.777665+00:00",
-  "LastChanged_Achievements": "2023-10-13T23:03:06.5598771+00:00",
+  "LastChanged_Achievements": "2023-10-14T00:03:47.638476+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:27.5622324+00:00",
-  "LastUpdate_Ratings": "2023-10-13T22:58:27.2786732+00:00",
-  "LastUpdate_Achievements": "2023-10-13T23:03:06.5599408+00:00"
+  "LastUpdate_Ratings": "2023-10-13T23:59:34.3520177+00:00",
+  "LastUpdate_Achievements": "2023-10-14T00:03:47.638596+00:00"
 }

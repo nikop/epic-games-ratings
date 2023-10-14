@@ -23,10 +23,10 @@ Rating: 4.50 (Ranked 573)
 | Back Off | 0.90% | ~238 |
 | Icing on the Cake | 0.90% | ~238 |
 | Daily Dose | 0.80% | ~211 |
+| Ectoplasmic Entity | 0.80% | ~211 |
 | Ghostbuster In Training | 0.80% | ~211 |
 | Terrifying | 0.80% | ~211 |
 | Welcome to the Crew | 0.80% | ~211 |
-| Ectoplasmic Entity | 0.70% | ~185 |
 | Right back at ya | 0.70% | ~185 |
 | Side Hustle | 0.70% | ~185 |
 | Skilled | 0.70% | ~185 |
@@ -236,12 +236,12 @@ Completed: 58 (0.22%) (Ranked 219)
 | 2023-10-13 | 26,414 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 261  (Ranked 257)  
-Sum: 2,381 (Ranked 188)  
+Sum: 2,382 (Ranked 188)  
 Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 261 |
-| This game is Great for Beginners | 259 |
+| This game is Great for Beginners | 260 |
 | This game has Competitive Players | 242 |
 | This game has Amazing Storytelling | 239 |
 | This game is Extremely Fun | 235 |
@@ -434,4 +434,4 @@ Diff (max vs sum): 69
 | 2023-10-10 | 4.50 | 261 | 2,373 |
 | 2023-10-11 | 4.50 | 261 | 2,375 |
 | 2023-10-12 | 4.50 | 261 | 2,380 |
-| 2023-10-13 | 4.50 | 261 | 2,381 |
+| 2023-10-13 | 4.50 | 261 | 2,382 |

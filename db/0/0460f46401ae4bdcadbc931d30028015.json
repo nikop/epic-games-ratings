@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -372,7 +372,7 @@
   "Tags": [],
   "EOS_Progressed": 2448,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 318,
+  "EOS_NewPlayers": 315,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2534,9 +2534,9 @@
       "ID": "achievement_21",
       "SetID": "aiin7da",
       "Name": "Clean The Pile",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 98
+      "UsersEstimate": 122
     },
     {
       "ID": "achievement_3",
@@ -2607,8 +2607,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-10-13T03:59:28.6125347+00:00",
-  "LastChanged_Achievements": "2023-10-13T23:04:16.9028527+00:00",
+  "LastChanged_Achievements": "2023-10-14T00:05:16.0365984+00:00",
   "LastUpdate_AppInfo": "2023-10-12T02:57:10.0786796+00:00",
-  "LastUpdate_Ratings": "2023-10-13T22:59:58.0480771+00:00",
-  "LastUpdate_Achievements": "2023-10-13T23:04:16.9028758+00:00"
+  "LastUpdate_Ratings": "2023-10-14T00:01:50.0029927+00:00",
+  "LastUpdate_Achievements": "2023-10-14T00:05:16.0366257+00:00"
 }
