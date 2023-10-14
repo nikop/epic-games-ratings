@@ -20,7 +20,7 @@ Number of Ratings: 63  (23.09.2022)
 | Jerk-Slayer | 43.00% | ~2,220 |
 | Employee of the Month | 37.00% | ~1,910 |
 | I Believe I Can Fly | 37.00% | ~1,910 |
-| Bone Collector | 35.00% | ~1,807 |
+| Bone Collector | 36.00% | ~1,858 |
 | Fe-Festival | 35.00% | ~1,807 |
 | Top of the Food Chain | 32.00% | ~1,652 |
 | Humerus Achievement | 32.00% | ~1,652 |

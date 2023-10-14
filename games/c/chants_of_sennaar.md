@@ -10,6 +10,7 @@
 | The great escape | 9.00% | ~26 |
 | In this together | 7.00% | ~20 |
 | Cable guy | 7.00% | ~20 |
+| Scholar | 7.00% | ~20 |
 | A new dawn | 7.00% | ~20 |
 | One last step | 7.00% | ~20 |
 | I did it | 6.00% | ~17 |
@@ -19,7 +20,6 @@
 | Feels like springtime | 6.00% | ~17 |
 | True G3M4R | 6.00% | ~17 |
 | Champollion | 6.00% | ~17 |
-| Scholar | 6.00% | ~17 |
 | The darkness | 6.00% | ~17 |
 | Open door | 5.00% | ~14 |
 | Alchemists Express | 5.00% | ~14 |

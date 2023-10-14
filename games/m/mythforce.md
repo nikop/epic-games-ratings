@@ -12,7 +12,7 @@ Number of Ratings: 285  (23.09.2022)
 | Perk Shard Punch Card | 22.00% | ~903 |
 | That'll Leave a Mark | 22.00% | ~903 |
 | Mushroom Madness! | 20.00% | ~821 |
-| First Strike | 17.00% | ~698 |
+| First Strike | 18.00% | ~739 |
 | Spending Spree | 17.00% | ~698 |
 | Horder Better Faster Stronger | 16.00% | ~657 |
 | Everything Must Go! | 14.00% | ~575 |
@@ -124,8 +124,8 @@ Completed: 2 (0.05%) (Ranked 270)
 | 2023-10-14 | 4,105 | 2 |
 ## Awards
 Max (Great for Beginners): 34  (Ranked 462)  
-Sum: 283 (Ranked 356)  
-Diff (max vs sum): 106  
+Sum: 284 (Ranked 355)  
+Diff (max vs sum): 107  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 34 |
@@ -133,9 +133,9 @@ Diff (max vs sum): 106
 | This game has Amazing Characters | 31 |
 | This game has Quickly Understood Controls | 30 |
 | This game has Diverse Characters | 28 |
+| This game has Unique Visuals | 28 |
 | This game has Challenging Combat | 28 |
 | This game has Amazing Storytelling | 27 |
-| This game has Unique Visuals | 27 |
 | This game is Extremely Fun | 24 |
 | This game is Relaxing | 22 |
 ## Ratings History
@@ -233,3 +233,4 @@ Diff (max vs sum): 106
 | 2023-10-05 | 4.48 | - | 34 | 282 |
 | 2023-10-07 | 4.49 | - | 34 | 282 |
 | 2023-10-12 | 4.49 | - | 34 | 283 |
+| 2023-10-14 | 4.49 | - | 34 | 284 |

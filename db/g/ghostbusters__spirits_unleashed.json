@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 219,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2406,9 +2406,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26437,
+  "EOS_Progressed": 26439,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 177,
+  "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -14921,6 +14921,11 @@
       "Time": "2023-10-14T12:05:33.7876303+00:00",
       "NumProgressed": 26437,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-10-14T13:08:14.8039625+00:00",
+      "NumProgressed": 26439,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 51,
@@ -14946,9 +14951,9 @@
       "ID": "Back_Off",
       "SetID": "819popo",
       "Name": "Back Off",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 264
     },
     {
       "ID": "Best_Insurance",
@@ -15004,7 +15009,7 @@
       "Name": "Daily Dose",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "Diabolical",
@@ -15036,7 +15041,7 @@
       "Name": "Ectoplasmic Entity",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "Efficient",
@@ -15076,7 +15081,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "Ghost_Expert",
@@ -15180,7 +15185,7 @@
       "Name": "Right back at ya",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "Rivalry",
@@ -15276,7 +15281,7 @@
       "Name": "Terrifying",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "Therapeutic",
@@ -15324,7 +15329,7 @@
       "Name": "Welcome to the Crew",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "Whoopsie",
@@ -15339,7 +15344,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26437,
+      "Progressed": 26439,
       "Completed": 58
     }
   ],
@@ -15347,8 +15352,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-14T10:58:56.0996721+00:00",
-  "LastChanged_Achievements": "2023-10-14T12:05:33.7876297+00:00",
+  "LastChanged_Achievements": "2023-10-14T13:08:14.8039616+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:25.2013042+00:00",
-  "LastUpdate_Ratings": "2023-10-14T11:58:20.5355757+00:00",
-  "LastUpdate_Achievements": "2023-10-14T12:05:33.7877493+00:00"
+  "LastUpdate_Ratings": "2023-10-14T13:00:48.5504045+00:00",
+  "LastUpdate_Achievements": "2023-10-14T13:08:14.8040829+00:00"
 }

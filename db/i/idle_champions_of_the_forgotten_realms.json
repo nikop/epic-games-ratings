@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 84,
+  "Ranking_EOS_NewPlayers": 85,
   "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -7324,10 +7324,10 @@
       "Count": 3466
     }
   ],
-  "EOS_Progressed": 231801,
-  "EOS_Completed": 2360,
-  "EOS_NewPlayers": 640,
-  "EOS_NewCompleters": 21,
+  "EOS_Progressed": 231807,
+  "EOS_Completed": 2361,
+  "EOS_NewPlayers": 636,
+  "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
     {
@@ -27054,6 +27054,11 @@
       "Time": "2023-10-14T12:05:58.894032+00:00",
       "NumProgressed": 231801,
       "NumCompleted": 2360
+    },
+    {
+      "Time": "2023-10-14T13:08:45.345428+00:00",
+      "NumProgressed": 231807,
+      "NumCompleted": 2361
     }
   ],
   "TotalAchievements": 528,
@@ -31255,9 +31260,9 @@
       "ID": "objective_completed_1415",
       "SetID": "415jc5c",
       "Name": "Foul Play",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 396
+      "UsersEstimate": 594
     },
     {
       "ID": "objective_completed_1416",
@@ -31288,21 +31293,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 198075,
+      "Progressed": 198081,
       "Completed": 3620
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 231801,
-      "Completed": 2360
+      "Progressed": 231807,
+      "Completed": 2361
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-10-14T07:00:45.1289653+00:00",
-  "LastChanged_Achievements": "2023-10-14T12:05:58.8940315+00:00",
+  "LastChanged_Achievements": "2023-10-14T13:08:45.3454276+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:05.8246543+00:00",
-  "LastUpdate_Ratings": "2023-10-14T12:00:05.7888086+00:00",
-  "LastUpdate_Achievements": "2023-10-14T12:05:58.8968159+00:00"
+  "LastUpdate_Ratings": "2023-10-14T13:02:58.6780557+00:00",
+  "LastUpdate_Achievements": "2023-10-14T13:08:45.3482764+00:00"
 }

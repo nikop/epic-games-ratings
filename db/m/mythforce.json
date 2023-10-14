@@ -4,11 +4,11 @@
   "ProductSlug": "mythforce-d2710b",
   "Ranking_Rating": 591,
   "Ranking_Popularity": 462,
-  "Ranking_PopularitySum": 356,
+  "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -681,10 +681,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 283,
       "NumberOfAwardsMax": 34
+    },
+    {
+      "Time": "2023-10-14T13:04:06.5278867+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 284,
+      "NumberOfAwardsMax": 34
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 283,
+  "NumberOfAwards": 284,
   "NumberOfAwardsMax": 34,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -728,7 +734,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game has Challenging Combat",
@@ -751,7 +757,7 @@
   ],
   "EOS_Progressed": 4105,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 266,
+  "EOS_NewPlayers": 259,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7410,9 +7416,9 @@
       "ID": "MF_Ach_FirstStrike",
       "SetID": "9b9n573",
       "Name": "First Strike",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 698
+      "UsersEstimate": 739
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -7545,9 +7551,9 @@
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
-  "LastChanged": "2023-10-12T23:00:50.5530003+00:00",
-  "LastChanged_Achievements": "2023-10-14T12:08:14.1481284+00:00",
+  "LastChanged": "2023-10-14T13:04:06.5278861+00:00",
+  "LastChanged_Achievements": "2023-10-14T13:11:04.9494503+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:44.063019+00:00",
-  "LastUpdate_Ratings": "2023-10-14T12:00:58.2696488+00:00",
-  "LastUpdate_Achievements": "2023-10-14T12:08:14.1481816+00:00"
+  "LastUpdate_Ratings": "2023-10-14T13:04:06.5278872+00:00",
+  "LastUpdate_Achievements": "2023-10-14T13:11:04.9495067+00:00"
 }

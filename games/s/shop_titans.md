@@ -6,10 +6,10 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 3.00% | ~4,127 |
-| Basic in Bulk | 3.00% | ~4,127 |
-| Tinkle of Coins | 3.00% | ~4,127 |
-| Titan's First Steps | 3.00% | ~4,127 |
+| Sponsored by Argon | 3.00% | ~4,128 |
+| Basic in Bulk | 3.00% | ~4,128 |
+| Tinkle of Coins | 3.00% | ~4,128 |
+| Titan's First Steps | 3.00% | ~4,128 |
 | One Easy Payment | 2.00% | ~2,752 |
 | Some Assembly Required | 2.00% | ~2,752 |
 | Disintermediation | 2.00% | ~2,752 |
@@ -58,32 +58,33 @@ Number of Ratings: 12,664  (23.09.2022)
 | Black Friday Special | 0.70% | ~963 |
 | Special Ingredient | 0.70% | ~963 |
 | Complete Monopoly | 0.70% | ~963 |
-| A Notch Above the Rest | 0.60% | ~825 |
-| Cream of the Crop | 0.60% | ~825 |
-| Proud Paladin | 0.60% | ~825 |
-| Above the Norm | 0.60% | ~825 |
-| A Ronin Reborn | 0.60% | ~825 |
-| The King's Caprice | 0.60% | ~825 |
-| Archivist | 0.60% | ~825 |
-| Locally Sourced | 0.60% | ~825 |
-| Master of Transmutation | 0.60% | ~825 |
-| Supercharged | 0.60% | ~825 |
-| Cranked up to 11 | 0.60% | ~825 |
-| Fit for a King | 0.60% | ~825 |
-| Mammonite | 0.60% | ~825 |
-| Wealth Beyond Measure | 0.60% | ~825 |
-| Fat Cat Tag Team | 0.60% | ~825 |
-| Necromancer Queen | 0.60% | ~825 |
-| Item of Renown | 0.60% | ~825 |
-| Master Merchant | 0.60% | ~825 |
-| Miracle Alchemist | 0.60% | ~825 |
-| Laden with Loot | 0.60% | ~825 |
-| Scourge of the Seas | 0.60% | ~825 |
-| Attrition Mission | 0.60% | ~825 |
-| Glittering Collection | 0.60% | ~825 |
-| Moment of Respite | 0.60% | ~825 |
-| Exotic Commodities | 0.60% | ~825 |
-| King's Blade | 0.60% | ~825 |
+| A Notch Above the Rest | 0.60% | ~826 |
+| Cream of the Crop | 0.60% | ~826 |
+| Proud Paladin | 0.60% | ~826 |
+| Above the Norm | 0.60% | ~826 |
+| A Ronin Reborn | 0.60% | ~826 |
+| The King's Caprice | 0.60% | ~826 |
+| Archivist | 0.60% | ~826 |
+| Locally Sourced | 0.60% | ~826 |
+| Master of Transmutation | 0.60% | ~826 |
+| Supercharged | 0.60% | ~826 |
+| Cranked up to 11 | 0.60% | ~826 |
+| Fit for a King | 0.60% | ~826 |
+| Mammonite | 0.60% | ~826 |
+| Wealth Beyond Measure | 0.60% | ~826 |
+| Fat Cat Tag Team | 0.60% | ~826 |
+| Necromancer Queen | 0.60% | ~826 |
+| Item of Renown | 0.60% | ~826 |
+| Master Merchant | 0.60% | ~826 |
+| Miracle Alchemist | 0.60% | ~826 |
+| Laden with Loot | 0.60% | ~826 |
+| Scourge of the Seas | 0.60% | ~826 |
+| Attrition Mission | 0.60% | ~826 |
+| Glittering Collection | 0.60% | ~826 |
+| Treasure Trove | 0.60% | ~826 |
+| Moment of Respite | 0.60% | ~826 |
+| Exotic Commodities | 0.60% | ~826 |
+| King's Blade | 0.60% | ~826 |
 | Top of the World | 0.50% | ~688 |
 | Constellated | 0.50% | ~688 |
 | Thirst for Knowledge | 0.50% | ~688 |
@@ -96,15 +97,14 @@ Number of Ratings: 12,664  (23.09.2022)
 | A Legend is Born | 0.50% | ~688 |
 | Bountiful Harvest | 0.50% | ~688 |
 | Precision Engineering | 0.50% | ~688 |
-| Treasure Trove | 0.50% | ~688 |
 | King's Shadow | 0.50% | ~688 |
 | Master Recycler | 0.50% | ~688 |
 | Economy of Scarce | 0.50% | ~688 |
+| The Free Encyclopedia | 0.40% | ~550 |
 | Thank You Tom Nook | 0.40% | ~550 |
 | Jackpot! | 0.40% | ~550 |
 | Eternal Crusade | 0.40% | ~550 |
 | All Accounted For | 0.40% | ~550 |
-| The Free Encyclopedia | 0.30% | ~413 |
 | All or Nothing! | 0.30% | ~413 |
 | Bane of Legends | 0.20% | ~275 |
 | Ultimate Collector | 0.20% | ~275 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~138 |
 | Cash Only Please | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,583 (Ranked 73)  
+Progressed: 137,588 (Ranked 73)  
 Completed: 168 (0.12%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 168 (0.12%) (Ranked 240)
 | 2023-10-11 | 137,455 | 168 |
 | 2023-10-12 | 137,496 | 168 |
 | 2023-10-13 | 137,555 | 168 |
-| 2023-10-14 | 137,583 | 168 |
+| 2023-10-14 | 137,588 | 168 |
 ## Awards
 Max (Great for Beginners): 4,785  (Ranked 71)  
 Sum: 27,380 (Ranked 50)  

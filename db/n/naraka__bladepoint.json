@@ -2,20 +2,20 @@
   "ID": "0c6aee83b9b64372bf44a043001325f2",
   "Name": "NARAKA: BLADEPOINT",
   "ProductSlug": "naraka-bladepoint",
-  "Ranking_Rating": 897,
+  "Ranking_Rating": 891,
   "Ranking_Popularity": 5,
   "Ranking_PopularitySum": 8,
   "Ranking_EOS_Progress": 669,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 393,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-12-08T16:00:00+00:00",
     "PcReleaseDate": "2021-08-11T12:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.18,
+  "Rating": 4.19,
   "NumberOfRatings": 132339,
   "RatingHistory": [
     {
@@ -7432,10 +7432,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 442428,
       "NumberOfAwardsMax": 206530
+    },
+    {
+      "Time": "2023-10-14T13:03:27.7444276+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 442660,
+      "NumberOfAwardsMax": 206530
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 442428,
+  "NumberOfAwards": 442660,
   "NumberOfAwardsMax": 206530,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -7455,7 +7461,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 83498
+      "Count": 83649
     },
     {
       "Text": "This game is Highly Recommended",
@@ -7479,7 +7485,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 62734
+      "Count": 62815
     }
   ],
   "EOS_Progressed": 0,
@@ -7493,8 +7499,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:04.1152302+00:00",
-  "LastChanged": "2023-10-14T09:01:14.541143+00:00",
+  "LastChanged": "2023-10-14T13:03:27.7444274+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:21.6427063+00:00",
-  "LastUpdate_Ratings": "2023-10-14T12:00:30.5629609+00:00",
-  "LastUpdate_Achievements": "2023-10-14T12:06:14.2741597+00:00"
+  "LastUpdate_Ratings": "2023-10-14T13:03:27.7444281+00:00",
+  "LastUpdate_Achievements": "2023-10-14T13:09:03.7058658+00:00"
 }

@@ -6,25 +6,25 @@ Number of Ratings: 34  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 67.00% | ~363 |
-| Cowardice | 60.00% | ~325 |
-| NO LIFE IS WORTH SAVING... | 51.00% | ~276 |
-| Eat Lead! | 48.00% | ~260 |
-| The Breaking Point | 46.00% | ~249 |
+| Explorer | 67.00% | ~364 |
+| Cowardice | 60.00% | ~326 |
+| NO LIFE IS WORTH SAVING... | 51.00% | ~277 |
+| Eat Lead! | 48.00% | ~261 |
+| The Breaking Point | 46.00% | ~250 |
 | Prospector | 45.00% | ~244 |
-| Here Comes the Boom | 44.00% | ~238 |
-| Treasure Hunter | 41.00% | ~222 |
-| Sniper Wolf | 41.00% | ~222 |
+| Here Comes the Boom | 45.00% | ~244 |
+| Treasure Hunter | 41.00% | ~223 |
+| Sniper Wolf | 41.00% | ~223 |
 | The Motivation | 40.00% | ~217 |
 | Heroism | 37.00% | ~201 |
 | Missing in Action | 37.00% | ~201 |
 | Collectibles of Chapter I | 35.00% | ~190 |
-| Consequences | 34.00% | ~184 |
-| King of Knives | 34.00% | ~184 |
+| Consequences | 34.00% | ~185 |
+| King of Knives | 34.00% | ~185 |
 | Opportunities | 33.00% | ~179 |
 | The Horror | 31.00% | ~168 |
 | The Difference | 28.00% | ~152 |
-| Vengeance | 27.00% | ~146 |
+| Vengeance | 27.00% | ~147 |
 | Collectibles of Chapter II | 24.00% | ~130 |
 | Broken Hopes | 24.00% | ~130 |
 | Bullseye! | 23.00% | ~125 |
@@ -47,9 +47,9 @@ Number of Ratings: 34  (23.09.2022)
 | Collectibles of Chapter XI | 5.00% | ~27 |
 | The Good Samaritan | 5.00% | ~27 |
 | It Will Rain | 5.00% | ~27 |
-| Collectibles of Chapter X | 4.00% | ~22 |
 | Collectibles of Chapter VI | 3.00% | ~16 |
 | Collectibles of Chapter IX | 3.00% | ~16 |
+| Collectibles of Chapter X | 3.00% | ~16 |
 | Hold a Door | 2.00% | ~11 |
 | Daddy Would Be Proud | 2.00% | ~11 |
 | Warm Up | 0.40% | ~2 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 542 (Ranked 269)  
+Progressed: 543 (Ranked 269)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-10-11 | 538 | 0 |
 | 2023-10-12 | 539 | 0 |
 | 2023-10-13 | 540 | 0 |
-| 2023-10-14 | 542 | 0 |
+| 2023-10-14 | 543 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

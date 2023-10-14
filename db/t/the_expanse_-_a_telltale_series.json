@@ -166,9 +166,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13943,
+  "EOS_Progressed": 13945,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 271,
+  "EOS_NewPlayers": 272,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -8606,6 +8606,11 @@
       "Time": "2023-10-14T11:06:01.4005037+00:00",
       "NumProgressed": 13943,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-10-14T13:07:54.6051216+00:00",
+      "NumProgressed": 13945,
+      "NumCompleted": 23
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -8802,7 +8807,7 @@
       "Name": "No Belter Left Behind",
       "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "4",
@@ -8857,7 +8862,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13943,
+      "Progressed": 13945,
       "Completed": 23
     }
   ],
@@ -8865,8 +8870,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-13T09:00:57.1370573+00:00",
-  "LastChanged_Achievements": "2023-10-14T12:05:17.7290858+00:00",
+  "LastChanged_Achievements": "2023-10-14T13:07:54.6051211+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:56.4622667+00:00",
-  "LastUpdate_Ratings": "2023-10-14T12:00:12.4646762+00:00",
-  "LastUpdate_Achievements": "2023-10-14T12:05:17.7291561+00:00"
+  "LastUpdate_Ratings": "2023-10-14T13:03:05.775378+00:00",
+  "LastUpdate_Achievements": "2023-10-14T13:07:54.6051984+00:00"
 }

@@ -7,11 +7,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 0.40% | ~927 |
+| Foul Play | 0.30% | ~594 |
 | Beast Intentions | 0.20% | ~464 |
 | The Cursed Farmer | 0.20% | ~464 |
 | The Jungles of Doomspace | 0.20% | ~396 |
 | The Arena of Blood | 0.20% | ~396 |
-| Foul Play | 0.20% | ~396 |
 | Spelljammers in Training | 0.20% | ~396 |
 | Maddening | 0.10% | ~232 |
 | Pros and CONs | 0.10% | ~232 |
@@ -535,8 +535,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fowl Play | 0.10% | ~198 |
 | Time Out | 0.10% | ~198 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,801 (Ranked 58)  
-Completed: 2,360 (1.02%) (Ranked 144)  
+Progressed: 231,807 (Ranked 58)  
+Completed: 2,361 (1.02%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -712,7 +712,7 @@ Completed: 2,360 (1.02%) (Ranked 144)
 | 2023-10-11 | 231,561 | 2,353 |
 | 2023-10-12 | 231,654 | 2,355 |
 | 2023-10-13 | 231,754 | 2,358 |
-| 2023-10-14 | 231,801 | 2,360 |
+| 2023-10-14 | 231,807 | 2,361 |
 ## Awards
 Max (Diverse Characters): 5,392  (Ranked 69)  
 Sum: 32,023 (Ranked 41)  

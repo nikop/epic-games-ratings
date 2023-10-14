@@ -10,7 +10,7 @@ Rating: 4.48 (Ranked 607)
 | Departure | 73.00% | ~1,473 |
 | From X to Y | 72.00% | ~1,453 |
 | Way of Iron | 70.00% | ~1,413 |
-| Mystery Tour | 68.00% | ~1,372 |
+| Mystery Tour | 69.00% | ~1,392 |
 | We brake for nobody | 67.00% | ~1,352 |
 | Brainstorm | 66.00% | ~1,332 |
 | Mind the Gap | 65.00% | ~1,312 |
@@ -21,7 +21,7 @@ Rating: 4.48 (Ranked 607)
 | Facility Manager | 53.00% | ~1,070 |
 | Producer | 50.00% | ~1,009 |
 | Apprentice | 42.00% | ~848 |
-| Bridge Builder | 41.00% | ~827 |
+| Bridge Builder | 42.00% | ~848 |
 | Access granted | 35.00% | ~706 |
 | Going once, going twice, sold | 35.00% | ~706 |
 | Stoker | 33.00% | ~666 |

@@ -6,23 +6,23 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~370,472 |
-| Now You're Talking | 62.00% | ~328,133 |
-| Steel Yourself | 62.00% | ~328,133 |
-| Window Dressing | 50.00% | ~264,623 |
-| Trigger Happy | 46.00% | ~243,453 |
-| Riverborn | 45.00% | ~238,161 |
-| Starry Eyed | 34.00% | ~179,944 |
-| Poking Around | 34.00% | ~179,944 |
-| Talk of the Town | 24.00% | ~127,019 |
+| First Step | 70.00% | ~370,474 |
+| Now You're Talking | 62.00% | ~328,134 |
+| Steel Yourself | 62.00% | ~328,134 |
+| Window Dressing | 50.00% | ~264,624 |
+| Trigger Happy | 46.00% | ~243,455 |
+| Riverborn | 45.00% | ~238,162 |
+| Starry Eyed | 34.00% | ~179,945 |
+| Poking Around | 34.00% | ~179,945 |
+| Talk of the Town | 24.00% | ~127,020 |
 | AAARR! | 23.00% | ~121,727 |
 | Hello Darkness | 23.00% | ~121,727 |
-| Wind At Our Backs | 22.00% | ~116,434 |
-| To the Beat | 20.00% | ~105,849 |
+| Wind At Our Backs | 22.00% | ~116,435 |
+| To the Beat | 20.00% | ~105,850 |
 | Sunny Shores | 17.00% | ~89,972 |
-| Sunday Best | 16.00% | ~84,679 |
+| Sunday Best | 16.00% | ~84,680 |
 | To Victory! | 15.00% | ~79,387 |
-| Two of a Kind | 14.00% | ~74,094 |
+| Two of a Kind | 14.00% | ~74,095 |
 | Keep On Trucking | 13.00% | ~68,802 |
 | Going on an Adventure | 11.00% | ~58,217 |
 | Make Peace, Not War | 11.00% | ~58,217 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,588 |
 | Point Taken | 0.20% | ~1,058 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 529,246 (Ranked 34)  
+Progressed: 529,249 (Ranked 34)  
 Completed: 485 (0.09%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 485 (0.09%) (Ranked 252)
 | 2023-10-11 | 529,075 | 483 |
 | 2023-10-12 | 529,140 | 484 |
 | 2023-10-13 | 529,214 | 485 |
-| 2023-10-14 | 529,246 | 485 |
+| 2023-10-14 | 529,249 | 485 |
 ## Awards
 Max (Relaxing): 20  (Ranked 526)  
 Sum: 20 (Ranked 527)  

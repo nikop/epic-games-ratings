@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6508,9 +6508,9 @@
       "Count": 3759
     }
   ],
-  "EOS_Progressed": 137583,
+  "EOS_Progressed": 137588,
   "EOS_Completed": 168,
-  "EOS_NewPlayers": 339,
+  "EOS_NewPlayers": 341,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -24623,6 +24623,11 @@
       "Time": "2023-10-14T11:08:51.6361381+00:00",
       "NumProgressed": 137583,
       "NumCompleted": 168
+    },
+    {
+      "Time": "2023-10-14T13:11:26.425681+00:00",
+      "NumProgressed": 137588,
+      "NumCompleted": 168
     }
   ],
   "TotalAchievements": 112,
@@ -24650,7 +24655,7 @@
       "Name": "A Notch Above the Rest",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "advlevel04",
@@ -24658,7 +24663,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "advlevel05",
@@ -24674,7 +24679,7 @@
       "Name": "Proud Paladin",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "ascend01",
@@ -24690,7 +24695,7 @@
       "Name": "Above the Norm",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "ascend03",
@@ -24706,7 +24711,7 @@
       "Name": "A Ronin Reborn",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "bigsale01",
@@ -24730,7 +24735,7 @@
       "Name": "The King\u0027s Caprice",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "blueprint01",
@@ -24802,7 +24807,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4127
+      "UsersEstimate": 4128
     },
     {
       "ID": "chest02",
@@ -24842,15 +24847,15 @@
       "Name": "Archivist",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "collection04",
       "SetID": "anfd17p",
       "Name": "The Free Encyclopedia",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 413
+      "UsersEstimate": 550
     },
     {
       "ID": "collection05",
@@ -24866,7 +24871,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4127
+      "UsersEstimate": 4128
     },
     {
       "ID": "commonres02",
@@ -24882,7 +24887,7 @@
       "Name": "Locally Sourced",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "commonres04",
@@ -24962,7 +24967,7 @@
       "Name": "Master of Transmutation",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "enchant01",
@@ -25002,7 +25007,7 @@
       "Name": "Supercharged",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "expansion01",
@@ -25050,7 +25055,7 @@
       "Name": "Cranked up to 11",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "furniture03",
@@ -25058,7 +25063,7 @@
       "Name": "Fit for a King",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "fuseepic",
@@ -25106,7 +25111,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4127
+      "UsersEstimate": 4128
     },
     {
       "ID": "gold02",
@@ -25138,7 +25143,7 @@
       "Name": "Mammonite",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "gold06",
@@ -25146,7 +25151,7 @@
       "Name": "Wealth Beyond Measure",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "help01",
@@ -25162,7 +25167,7 @@
       "Name": "Fat Cat Tag Team",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "help03",
@@ -25178,7 +25183,7 @@
       "Name": "Necromancer Queen",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "jackslot01",
@@ -25210,7 +25215,7 @@
       "Name": "Item of Renown",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "level01",
@@ -25234,7 +25239,7 @@
       "Name": "Master Merchant",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "level04",
@@ -25250,7 +25255,7 @@
       "Name": "Miracle Alchemist",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "loot01",
@@ -25266,7 +25271,7 @@
       "Name": "Laden with Loot",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "loot03",
@@ -25338,7 +25343,7 @@
       "Name": "Scourge of the Seas",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "quest01",
@@ -25354,7 +25359,7 @@
       "Name": "Attrition Mission",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "quest03",
@@ -25378,15 +25383,15 @@
       "Name": "Glittering Collection",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "rareres02",
       "SetID": "anfd17p",
       "Name": "Treasure Trove",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 688
+      "UsersEstimate": 826
     },
     {
       "ID": "rareres03",
@@ -25402,7 +25407,7 @@
       "Name": "Moment of Respite",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "sell01",
@@ -25450,7 +25455,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4127
+      "UsersEstimate": 4128
     },
     {
       "ID": "twinenchant01",
@@ -25482,7 +25487,7 @@
       "Name": "Exotic Commodities",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "uncommonres03",
@@ -25522,22 +25527,22 @@
       "Name": "King\u0027s Blade",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     }
   ],
   "AchievementSets": [
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 137583,
+      "Progressed": 137588,
       "Completed": 168
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-13T22:01:35.3873157+00:00",
-  "LastChanged_Achievements": "2023-10-14T12:08:31.8986274+00:00",
+  "LastChanged_Achievements": "2023-10-14T13:11:26.4256804+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:52.7124415+00:00",
-  "LastUpdate_Ratings": "2023-10-14T11:57:16.7443949+00:00",
-  "LastUpdate_Achievements": "2023-10-14T12:08:31.8988859+00:00"
+  "LastUpdate_Ratings": "2023-10-14T12:59:30.4833578+00:00",
+  "LastUpdate_Achievements": "2023-10-14T13:11:26.425946+00:00"
 }

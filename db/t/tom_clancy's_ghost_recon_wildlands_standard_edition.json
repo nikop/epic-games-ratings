@@ -2,13 +2,13 @@
   "ID": "hyacinth",
   "Name": "Tom Clancy\u0027s Ghost Recon Wildlands Standard Edition",
   "ProductSlug": "ghost-recon-wildlands",
-  "Ranking_Rating": 397,
+  "Ranking_Rating": 374,
   "Ranking_Popularity": 255,
   "Ranking_PopularitySum": 208,
   "Ranking_EOS_Progress": 669,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 393,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2018-04-10T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.6,
+  "Rating": 4.61,
   "NumberOfRatings": 871,
   "RatingHistory": [
     {
@@ -3780,6 +3780,12 @@
       "Rating": 4.6,
       "NumberOfAwards": 1859,
       "NumberOfAwardsMax": 263
+    },
+    {
+      "Time": "2023-10-14T13:03:01.6668305+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 1859,
+      "NumberOfAwardsMax": 263
     }
   ],
   "ReviewsDisabled": false,
@@ -3859,8 +3865,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:43.6796979+00:00",
-  "LastChanged": "2023-10-14T12:00:08.3034945+00:00",
+  "LastChanged": "2023-10-14T13:03:01.6668303+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:51.3796277+00:00",
-  "LastUpdate_Ratings": "2023-10-14T12:00:08.3034951+00:00",
-  "LastUpdate_Achievements": "2023-10-14T12:04:54.8218403+00:00"
+  "LastUpdate_Ratings": "2023-10-14T13:03:01.6668314+00:00",
+  "LastUpdate_Achievements": "2023-10-14T13:07:27.3042603+00:00"
 }

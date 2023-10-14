@@ -15,8 +15,8 @@
 | I like my life | 2.00% | ~7 |
 | Clean energy | 2.00% | ~7 |
 | Bucolic city | 2.00% | ~7 |
+| I love books! | 1.00% | ~4 |
 | I love parks | 1.00% | ~4 |
-| I love books! | 0.80% | ~3 |
 | King of fish | 0.80% | ~3 |
 | Food producer | 0.50% | ~2 |
 | I am very happy! | 0.50% | ~2 |

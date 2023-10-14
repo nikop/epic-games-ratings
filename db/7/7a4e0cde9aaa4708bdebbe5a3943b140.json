@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 586,
   "Ranking_EOS_Completed": 3,
   "Ranking_EOS_NewPlayers": 393,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-10-11T12:00:00+00:00",
     "PcReleaseDate": "2023-10-11T13:00:00+00:00",
@@ -92,9 +92,9 @@
       "ID": "Upgrade10",
       "SetID": "ag762md",
       "Name": "Tenth Upgrade",
-      "Percentage": 100,
+      "Percentage": 150,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Upgrade2",
@@ -138,8 +138,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-18T15:02:16.3526142+00:00",
-  "LastChanged_Achievements": "2023-10-14T12:04:05.7081474+00:00",
+  "LastChanged_Achievements": "2023-10-14T13:06:29.1191503+00:00",
   "LastUpdate_AppInfo": "2023-10-09T15:57:18.9454099+00:00",
-  "LastUpdate_Ratings": "2023-10-14T11:59:42.1232498+00:00",
-  "LastUpdate_Achievements": "2023-10-14T12:04:05.7081565+00:00"
+  "LastUpdate_Ratings": "2023-10-14T13:02:26.0139849+00:00",
+  "LastUpdate_Achievements": "2023-10-14T13:06:29.119185+00:00"
 }

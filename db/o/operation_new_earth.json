@@ -2,13 +2,13 @@
   "ID": "fa9a00f7f82846b4b820e6152b69aa55",
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
-  "Ranking_Rating": 1011,
+  "Ranking_Rating": 1012,
   "Ranking_Popularity": 535,
   "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -56,9 +56,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1595,
+  "EOS_Progressed": 1596,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5901,6 +5901,11 @@
       "Time": "2023-10-14T12:05:05.0281721+00:00",
       "NumProgressed": 1595,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-14T13:07:39.8230988+00:00",
+      "NumProgressed": 1596,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6032,7 +6037,7 @@
       "Name": "Sergeant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -6040,7 +6045,7 @@
       "Name": "Lieutenant",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -6215,7 +6220,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1595,
+      "Progressed": 1596,
       "Completed": 1
     }
   ],
@@ -6223,8 +6228,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-10-14T12:05:05.0281714+00:00",
+  "LastChanged_Achievements": "2023-10-14T13:07:39.8230983+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:57:03.7604863+00:00",
-  "LastUpdate_Ratings": "2023-10-14T11:59:20.5084707+00:00",
-  "LastUpdate_Achievements": "2023-10-14T12:05:05.0282369+00:00"
+  "LastUpdate_Ratings": "2023-10-14T13:01:58.120906+00:00",
+  "LastUpdate_Achievements": "2023-10-14T13:07:39.8231905+00:00"
 }

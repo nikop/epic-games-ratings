@@ -5,15 +5,15 @@ Rating: 4.56 (Ranked 473)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~10,673 |
-| Pay 'n' Spray | 51.00% | ~6,720 |
+| Getting Started | 81.00% | ~10,674 |
+| Pay 'n' Spray | 51.00% | ~6,721 |
 | All Dressed Up for San Fierro | 26.00% | ~3,426 |
-| The American Dream | 20.00% | ~2,635 |
+| The American Dream | 20.00% | ~2,636 |
 | School's Out | 19.00% | ~2,504 |
 | Smooth Moves | 17.00% | ~2,240 |
 | What happens in Las Venturas... | 15.00% | ~1,977 |
 | Today Was a Good Day | 15.00% | ~1,977 |
-| Horror of the Santa Maria | 11.00% | ~1,449 |
+| Horror of the Santa Maria | 11.00% | ~1,450 |
 | Liberty City State of Mind | 10.00% | ~1,318 |
 | The End of the Line | 8.00% | ~1,054 |
 | Original Gangster | 8.00% | ~1,054 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 473)
 | ...Here we go again | 0.50% | ~66 |
 | I Ain't No Buster | 0.40% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,177 (Ranked 139)  
+Progressed: 13,178 (Ranked 139)  
 Completed: 50 (0.38%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,17 +218,18 @@ Completed: 50 (0.38%) (Ranked 191)
 | 2023-10-11 | 13,158 | 49 |
 | 2023-10-12 | 13,165 | 50 |
 | 2023-10-13 | 13,173 | 50 |
-| 2023-10-14 | 13,177 | 50 |
+| 2023-10-14 | 13,178 | 50 |
 ## Awards
 Max (Great Boss Battles): 350  (Ranked 231)  
-Sum: 532 (Ranked 306)  
-Diff (max vs sum): -75  
+Sum: 560 (Ranked 304)  
+Diff (max vs sum): -73  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 350 |
 | This game is Relaxing | 33 |
 | This game has Amazing Storytelling | 30 |
 | This game has Amazing Characters | 30 |
+| This game is Great for Beginners | 28 |
 | This game is Highly Recommended | 27 |
 | This game is Extremely Fun | 21 |
 | This game has a Creative Community | 21 |
@@ -382,3 +383,4 @@ Diff (max vs sum): -75
 | 2023-10-11 | 4.56 | 343 | 503 |
 | 2023-10-12 | 4.56 | 347 | 508 |
 | 2023-10-13 | 4.56 | 350 | 532 |
+| 2023-10-14 | 4.56 | 350 | 560 |

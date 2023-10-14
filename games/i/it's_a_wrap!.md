@@ -6,10 +6,10 @@
 | ---- | ---------- | ----- |
 | Under the Bridge | 88.00% | ~98 |
 | Treasure Hunter | 9.00% | ~10 |
+| Extra Life | 5.00% | ~6 |
 | Budget Killer | 5.00% | ~6 |
 | Space Invader | 5.00% | ~6 |
 | One Man Army | 5.00% | ~6 |
-| Extra Life | 4.00% | ~4 |
 | In the Can | 4.00% | ~4 |
 | What's my line again? | 3.00% | ~3 |
 | Secret of the Mines | 3.00% | ~3 |

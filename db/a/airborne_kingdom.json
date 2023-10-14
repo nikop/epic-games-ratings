@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7339,
+  "EOS_Progressed": 7340,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -4969,6 +4969,11 @@
       "Time": "2023-10-14T12:05:48.4331895+00:00",
       "NumProgressed": 7339,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-10-14T13:08:31.9659449+00:00",
+      "NumProgressed": 7340,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 27,
@@ -5084,7 +5089,7 @@
       "Name": "A Peaceful Respite",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "AK_PROPHECY_FULFILLED",
@@ -5148,7 +5153,7 @@
       "Name": "It Takes a Village",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 2495
+      "UsersEstimate": 2496
     },
     {
       "ID": "AK_TRAVELERS_RETURNED",
@@ -5188,22 +5193,22 @@
       "Name": "Worthy of the Title",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1394
+      "UsersEstimate": 1395
     }
   ],
   "AchievementSets": [
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7339,
+      "Progressed": 7340,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-08-27T09:59:24.0528306+00:00",
-  "LastChanged_Achievements": "2023-10-14T12:05:48.433189+00:00",
-  "LastUpdate_AppInfo": "2023-10-07T11:57:11.1457517+00:00",
-  "LastUpdate_Ratings": "2023-10-14T11:59:25.3646678+00:00",
-  "LastUpdate_Achievements": "2023-10-14T12:05:48.4332292+00:00"
+  "LastChanged_Achievements": "2023-10-14T13:08:31.9659444+00:00",
+  "LastUpdate_AppInfo": "2023-10-14T12:59:12.3218327+00:00",
+  "LastUpdate_Ratings": "2023-10-14T13:02:04.7545946+00:00",
+  "LastUpdate_Achievements": "2023-10-14T13:08:31.9659972+00:00"
 }

@@ -21,7 +21,7 @@
 | Stellar Dismantler | 20.00% | ~11 |
 | Anomaly Destroyer | 19.00% | ~10 |
 | Shard Spender | 19.00% | ~10 |
-| Aquarian Champion | 17.00% | ~9 |
+| Aquarian Champion | 19.00% | ~10 |
 | Star Killer | 15.00% | ~8 |
 | Heart Gate | 13.00% | ~7 |
 | Astral Adventurer | 11.00% | ~6 |

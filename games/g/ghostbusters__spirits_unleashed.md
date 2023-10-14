@@ -8,6 +8,7 @@ Rating: 4.50 (Ranked 573)
 | Advancement | 2.00% | ~529 |
 | Meticulously Efficient | 2.00% | ~529 |
 | Stylish | 2.00% | ~529 |
+| Back Off | 1.00% | ~264 |
 | Clutch Capture | 1.00% | ~264 |
 | I collect Spores, Molds, and Fungi | 1.00% | ~264 |
 | Cultured | 1.00% | ~264 |
@@ -20,14 +21,13 @@ Rating: 4.50 (Ranked 573)
 | Vaporous Expansion | 1.00% | ~264 |
 | Whoopsie | 1.00% | ~264 |
 | Animated | 0.90% | ~238 |
-| Back Off | 0.90% | ~238 |
 | Icing on the Cake | 0.90% | ~238 |
-| Daily Dose | 0.80% | ~211 |
-| Ectoplasmic Entity | 0.80% | ~211 |
-| Ghostbuster In Training | 0.80% | ~211 |
-| Right back at ya | 0.80% | ~211 |
-| Terrifying | 0.80% | ~211 |
-| Welcome to the Crew | 0.80% | ~211 |
+| Daily Dose | 0.80% | ~212 |
+| Ectoplasmic Entity | 0.80% | ~212 |
+| Ghostbuster In Training | 0.80% | ~212 |
+| Right back at ya | 0.80% | ~212 |
+| Terrifying | 0.80% | ~212 |
+| Welcome to the Crew | 0.80% | ~212 |
 | Side Hustle | 0.70% | ~185 |
 | Skilled | 0.70% | ~185 |
 | Summoner | 0.70% | ~185 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 573)
 | Therapeutic | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,437 (Ranked 117)  
+Progressed: 26,439 (Ranked 117)  
 Completed: 58 (0.22%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,7 +234,7 @@ Completed: 58 (0.22%) (Ranked 219)
 | 2023-10-11 | 26,352 | 58 |
 | 2023-10-12 | 26,379 | 58 |
 | 2023-10-13 | 26,414 | 58 |
-| 2023-10-14 | 26,437 | 58 |
+| 2023-10-14 | 26,439 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 262  (Ranked 256)  
 Sum: 2,386 (Ranked 188)  

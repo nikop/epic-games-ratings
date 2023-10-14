@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 86,
-  "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -2142,9 +2142,9 @@
       "ID": "_04_CollectAllRelics",
       "SetID": "8a1io5d",
       "Name": "This Belongs in a Museum",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 274
+      "UsersEstimate": 281
     },
     {
       "ID": "_05_FinishAct2",
@@ -2182,9 +2182,9 @@
       "ID": "_09_Completion_20",
       "SetID": "8a1io5d",
       "Name": "Powder Monkey",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 223
+      "UsersEstimate": 230
     },
     {
       "ID": "_10_Completion_30",
@@ -2335,8 +2335,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-10-02T00:00:41.2116731+00:00",
-  "LastChanged_Achievements": "2023-10-14T12:08:13.65019+00:00",
+  "LastChanged_Achievements": "2023-10-14T13:11:04.4137152+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:22.4303238+00:00",
-  "LastUpdate_Ratings": "2023-10-14T12:00:30.582984+00:00",
-  "LastUpdate_Achievements": "2023-10-14T12:08:13.650221+00:00"
+  "LastUpdate_Ratings": "2023-10-14T13:03:27.8644507+00:00",
+  "LastUpdate_Achievements": "2023-10-14T13:11:04.4137487+00:00"
 }
