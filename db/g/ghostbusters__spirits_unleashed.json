@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2326,10 +2326,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2386,
       "NumberOfAwardsMax": 262
+    },
+    {
+      "Time": "2023-10-14T22:59:06.5892299+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2389,
+      "NumberOfAwardsMax": 262
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2386,
+  "NumberOfAwards": 2389,
   "NumberOfAwardsMax": 262,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2361,7 +2367,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 235
+      "Count": 237
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2373,7 +2379,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 234
+      "Count": 235
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2406,9 +2412,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26464,
+  "EOS_Progressed": 26466,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 194,
+  "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -14966,6 +14972,11 @@
       "Time": "2023-10-14T22:06:59.288344+00:00",
       "NumProgressed": 26464,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-10-14T23:07:00.3613107+00:00",
+      "NumProgressed": 26466,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 51,
@@ -15367,9 +15378,9 @@
       "ID": "Welcome_Crew",
       "SetID": "819popo",
       "Name": "Welcome to the Crew",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 212
+      "UsersEstimate": 238
     },
     {
       "ID": "Whoopsie",
@@ -15384,16 +15395,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26464,
+      "Progressed": 26466,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-10-14T10:58:56.0996721+00:00",
-  "LastChanged_Achievements": "2023-10-14T22:06:59.2883433+00:00",
+  "LastChanged": "2023-10-14T22:59:06.5892297+00:00",
+  "LastChanged_Achievements": "2023-10-14T23:07:00.3613102+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:17.9420656+00:00",
-  "LastUpdate_Ratings": "2023-10-14T21:59:11.4266747+00:00",
-  "LastUpdate_Achievements": "2023-10-14T22:06:59.28857+00:00"
+  "LastUpdate_Ratings": "2023-10-14T22:59:06.5892304+00:00",
+  "LastUpdate_Achievements": "2023-10-14T23:07:00.3614187+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "gas-station-simulator-ee93c7",
   "Ranking_EOS_Progress": 386,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -1143,9 +1143,9 @@
       "ID": "GSS_ACH_76_EMPLOYEE_LEVEL_02",
       "SetID": "5fn8ia4",
       "Name": "Training the Employees",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "GSS_ACH_77_EMPLOYEE_LEVEL_05",
@@ -1206,8 +1206,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-14T22:09:37.5785949+00:00",
+  "LastChanged_Achievements": "2023-10-14T23:09:30.4363871+00:00",
   "LastUpdate_AppInfo": "2023-10-09T13:09:09.0618232+00:00",
-  "LastUpdate_Ratings": "2023-10-14T22:01:17.3027702+00:00",
-  "LastUpdate_Achievements": "2023-10-14T22:09:37.5787904+00:00"
+  "LastUpdate_Ratings": "2023-10-14T23:01:14.2618586+00:00",
+  "LastUpdate_Achievements": "2023-10-14T23:09:30.4365788+00:00"
 }

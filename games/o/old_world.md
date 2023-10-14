@@ -6,6 +6,7 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Able | 2.00% | ~294 |
 | Explorer | 2.00% | ~294 |
 | Good | 2.00% | ~294 |
 | Intrepid | 2.00% | ~294 |
@@ -13,7 +14,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong | 2.00% | ~294 |
 | Friendly Family | 2.00% | ~294 |
 | Play a Single Player Game | 2.00% | ~294 |
-| Able | 1.00% | ~147 |
 | Ambitious | 1.00% | ~147 |
 | Architect | 1.00% | ~147 |
 | Enlightened | 1.00% | ~147 |
@@ -94,6 +94,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Power to the People | 0.50% | ~73 |
 | Persian Paganism | 0.50% | ~73 |
 | Legalism | 0.50% | ~73 |
+| Redemption | 0.50% | ~73 |
 | Cimmerian Archer | 0.50% | ~73 |
 | Legionary | 0.50% | ~73 |
 | Double Victory | 0.50% | ~73 |
@@ -115,7 +116,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Military Prestige | 0.40% | ~59 |
 | Dualism | 0.40% | ~59 |
 | Gnosticism | 0.40% | ~59 |
-| Redemption | 0.40% | ~59 |
 | Revelation | 0.40% | ~59 |
 | Veneration | 0.40% | ~59 |
 | Mounted Lancer | 0.40% | ~59 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,695 (Ranked 134)  
+Progressed: 14,699 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -526,7 +526,7 @@ Completed: 5 (0.03%) (Ranked 283)
 | 2023-10-11 | 14,606 | 5 |
 | 2023-10-12 | 14,624 | 5 |
 | 2023-10-13 | 14,652 | 5 |
-| 2023-10-14 | 14,695 | 5 |
+| 2023-10-14 | 14,699 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,839 (Ranked 210)  

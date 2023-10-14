@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First success | 167.00% | ~5 |
-| First blood | 67.00% | ~2 |
-| By own strength | 33.00% | ~1 |
-| A solo player | 33.00% | ~1 |
-| Do it yourself | 33.00% | ~1 |
-| Suicide squad | 33.00% | ~1 |
-| Train hard, fight easy | 33.00% | ~1 |
-| Royal blessing | 33.00% | ~1 |
-| Under cover | 33.00% | ~1 |
-| A hidden snake | 33.00% | ~1 |
-| Blood and sand | 33.00% | ~1 |
+| First success | 125.00% | ~5 |
+| First blood | 50.00% | ~2 |
+| By own strength | 25.00% | ~1 |
+| A solo player | 25.00% | ~1 |
+| Do it yourself | 25.00% | ~1 |
+| Suicide squad | 25.00% | ~1 |
+| Train hard, fight easy | 25.00% | ~1 |
+| Royal blessing | 25.00% | ~1 |
+| Under cover | 25.00% | ~1 |
+| A hidden snake | 25.00% | ~1 |
+| Blood and sand | 25.00% | ~1 |
 | Crimson rivers | 0.00% | ~0 |
 | For the greater good | 0.00% | ~0 |
 | Collector | 0.00% | ~0 |
@@ -54,7 +54,7 @@
 | That's the way! | 0.00% | ~0 |
 | She-Wolf | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3 (Ranked 575)  
+Progressed: 4 (Ranked 563)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,6 +63,7 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-10-03 | 2 | 0 |
 | 2023-10-11 | 2 | 1 |
 | 2023-10-12 | 3 | 0 |
+| 2023-10-14 | 4 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

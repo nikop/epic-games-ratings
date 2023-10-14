@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 50,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -17,11 +17,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 288,
+  "EOS_Progressed": 289,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 6.94,
+  "EOS_Completed_Percentage": 6.92,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1352,6 +1352,11 @@
       "Time": "2023-10-14T22:04:47.1750255+00:00",
       "NumProgressed": 288,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-10-14T23:04:35.7342225+00:00",
+      "NumProgressed": 289,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 25,
@@ -1473,9 +1478,9 @@
       "ID": "OPTIONNAL_GAMES",
       "SetID": "2gma9an",
       "Name": "True G3M4R",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 20
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -1505,9 +1510,9 @@
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 35
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -1562,14 +1567,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 288,
+      "Progressed": 289,
       "Completed": 20
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-14T22:04:47.1750248+00:00",
+  "LastChanged_Achievements": "2023-10-14T23:04:35.7342217+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:19.4856723+00:00",
-  "LastUpdate_Ratings": "2023-10-14T21:57:56.9552969+00:00",
-  "LastUpdate_Achievements": "2023-10-14T22:04:47.1750695+00:00"
+  "LastUpdate_Ratings": "2023-10-14T22:57:51.7759218+00:00",
+  "LastUpdate_Achievements": "2023-10-14T23:04:35.7342652+00:00"
 }

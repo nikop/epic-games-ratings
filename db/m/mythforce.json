@@ -755,9 +755,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4126,
+  "EOS_Progressed": 4127,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 248,
+  "EOS_NewPlayers": 246,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7390,6 +7390,11 @@
       "Time": "2023-10-14T21:08:42.1006669+00:00",
       "NumProgressed": 4126,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-14T23:09:16.0325366+00:00",
+      "NumProgressed": 4127,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -7514,7 +7519,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 866
+      "UsersEstimate": 867
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -7522,7 +7527,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -7554,7 +7559,7 @@
       "Name": "Spending Spree",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 701
+      "UsersEstimate": 702
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -7585,15 +7590,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4126,
+      "Progressed": 4127,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-14T13:04:06.5278861+00:00",
-  "LastChanged_Achievements": "2023-10-14T22:09:23.8345315+00:00",
+  "LastChanged_Achievements": "2023-10-14T23:09:16.0325359+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:04.1779972+00:00",
-  "LastUpdate_Ratings": "2023-10-14T21:57:22.9146886+00:00",
-  "LastUpdate_Achievements": "2023-10-14T22:09:23.8346372+00:00"
+  "LastUpdate_Ratings": "2023-10-14T22:57:21.870702+00:00",
+  "LastUpdate_Achievements": "2023-10-14T23:09:16.032625+00:00"
 }

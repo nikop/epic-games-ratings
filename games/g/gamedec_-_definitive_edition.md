@@ -7,10 +7,10 @@ Number of Ratings: 33  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I will finish what you started | 28.00% | ~69,751 |
-| Powergamer | 27.00% | ~67,259 |
-| Barely scratched the surface | 25.00% | ~62,277 |
-| Write that down | 24.00% | ~59,786 |
-| Guns, lots of guns | 13.00% | ~32,384 |
+| Powergamer | 27.00% | ~67,260 |
+| Barely scratched the surface | 25.00% | ~62,278 |
+| Write that down | 24.00% | ~59,787 |
+| Guns, lots of guns | 13.00% | ~32,385 |
 | Collector | 12.00% | ~29,893 |
 | Elementary! | 9.00% | ~22,420 |
 | Griever | 8.00% | ~19,929 |
@@ -19,8 +19,8 @@ Number of Ratings: 33  (23.09.2022)
 | It's honest work | 7.00% | ~17,438 |
 | Me smart | 6.00% | ~14,947 |
 | Trash compactor | 6.00% | ~14,947 |
-| Good listener | 5.00% | ~12,455 |
-| Valedictorian | 5.00% | ~12,455 |
+| Good listener | 5.00% | ~12,456 |
+| Valedictorian | 5.00% | ~12,456 |
 | BOY! | 4.00% | ~9,964 |
 | Ka-ching! | 4.00% | ~9,964 |
 | So you like to read? | 4.00% | ~9,964 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~498 |
 | Memory 5 | 0.10% | ~249 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,109 (Ranked 53)  
+Progressed: 249,112 (Ranked 53)  
 Completed: 7 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 7 (0.00%) (Ranked 314)
 | 2023-10-11 | 248,764 | 7 |
 | 2023-10-12 | 248,866 | 7 |
 | 2023-10-13 | 248,977 | 7 |
-| 2023-10-14 | 249,109 | 7 |
+| 2023-10-14 | 249,112 | 7 |
 ## Awards
 Max (Character Customization): 83  (Ranked 369)  
 Sum: 83 (Ranked 441)  

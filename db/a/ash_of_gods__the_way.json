@@ -2,9 +2,9 @@
   "ID": "c6d8ffe7390d4a8ab74d373d67f0762a",
   "Name": "Ash of Gods: The Way",
   "ProductSlug": "ash-of-gods-the-way-58bd36",
-  "Ranking_EOS_Progress": 575,
+  "Ranking_EOS_Progress": 563,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 3393,
   "Store": {
     "ReleaseDate": "2023-04-27T11:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3,
+  "EOS_Progressed": 4,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -57,6 +57,11 @@
     {
       "Time": "2023-10-12T12:05:36.6085444+00:00",
       "NumProgressed": 3,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-14T23:07:08.377811+00:00",
+      "NumProgressed": 4,
       "NumCompleted": 0
     }
   ],
@@ -227,7 +232,7 @@
       "ID": "special2",
       "SetID": "c64if4d",
       "Name": "By own strength",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -243,7 +248,7 @@
       "ID": "special4",
       "SetID": "c64if4d",
       "Name": "A solo player",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -291,7 +296,7 @@
       "ID": "story1",
       "SetID": "c64if4d",
       "Name": "First success",
-      "Percentage": 167,
+      "Percentage": 125,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -299,7 +304,7 @@
       "ID": "story10",
       "SetID": "c64if4d",
       "Name": "Do it yourself",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -379,7 +384,7 @@
       "ID": "story2",
       "SetID": "c64if4d",
       "Name": "Suicide squad",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -403,7 +408,7 @@
       "ID": "story3",
       "SetID": "c64if4d",
       "Name": "Train hard, fight easy",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -411,7 +416,7 @@
       "ID": "story4",
       "SetID": "c64if4d",
       "Name": "Royal blessing",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -419,7 +424,7 @@
       "ID": "story5",
       "SetID": "c64if4d",
       "Name": "Under cover",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -427,7 +432,7 @@
       "ID": "story6",
       "SetID": "c64if4d",
       "Name": "First blood",
-      "Percentage": 67,
+      "Percentage": 50,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -435,7 +440,7 @@
       "ID": "story7",
       "SetID": "c64if4d",
       "Name": "A hidden snake",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -443,7 +448,7 @@
       "ID": "story8",
       "SetID": "c64if4d",
       "Name": "Blood and sand",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -460,7 +465,7 @@
     {
       "ID": "c64if4d",
       "IsBase": true,
-      "Progressed": 3,
+      "Progressed": 4,
       "Completed": 0
     }
   ],
@@ -468,8 +473,8 @@
   "FirstSeenRating": "2023-04-28T08:58:19.1643049+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:53.2474687+00:00",
   "LastChanged": "2023-04-28T08:58:19.164305+00:00",
-  "LastChanged_Achievements": "2023-10-14T22:07:17.3060597+00:00",
+  "LastChanged_Achievements": "2023-10-14T23:07:08.3778103+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:33.8449509+00:00",
-  "LastUpdate_Ratings": "2023-10-14T22:03:07.1011851+00:00",
-  "LastUpdate_Achievements": "2023-10-14T22:07:17.306133+00:00"
+  "LastUpdate_Ratings": "2023-10-14T23:02:54.1629011+00:00",
+  "LastUpdate_Achievements": "2023-10-14T23:07:08.3778849+00:00"
 }

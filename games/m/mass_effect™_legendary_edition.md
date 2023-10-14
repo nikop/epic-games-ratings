@@ -35,8 +35,8 @@
 | Operative | 42.00% | ~291 |
 | Veteran | 41.00% | ~284 |
 | Scholar | 41.00% | ~284 |
+| Power Full | 40.00% | ~277 |
 | The Professor | 39.00% | ~270 |
-| Power Full | 39.00% | ~270 |
 | Completionist | 37.00% | ~256 |
 | The Archangel | 37.00% | ~256 |
 | The Convict | 36.00% | ~249 |
@@ -51,11 +51,11 @@
 | The Assassin | 32.00% | ~221 |
 | The Justicar | 32.00% | ~221 |
 | Battlemaster | 32.00% | ~221 |
+| Ghost of the Father | 32.00% | ~221 |
 | The Cure | 32.00% | ~221 |
 | The Prodigal | 32.00% | ~221 |
 | Shopaholic | 32.00% | ~221 |
 | Catharsis | 31.00% | ~215 |
-| Ghost of the Father | 31.00% | ~215 |
 | Big Game Hunter | 31.00% | ~215 |
 | Revenge! | 31.00% | ~215 |
 | Heart of Darkness | 31.00% | ~215 |
@@ -88,10 +88,10 @@
 | Paramour II | 21.00% | ~145 |
 | Party Crasher | 21.00% | ~145 |
 | Lost and Found | 21.00% | ~145 |
+| Pyromaniac | 20.00% | ~138 |
 | No One Left Behind | 20.00% | ~138 |
 | Hard Target | 20.00% | ~138 |
 | Problem Solver | 20.00% | ~138 |
-| Pyromaniac | 19.00% | ~131 |
 | Saboteur | 19.00% | ~131 |
 | Fact Finder | 19.00% | ~131 |
 | Under Pressure | 18.00% | ~125 |

@@ -166,9 +166,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13978,
+  "EOS_Progressed": 13979,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 272,
+  "EOS_NewPlayers": 270,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -8656,6 +8656,11 @@
       "Time": "2023-10-14T22:06:36.6397106+00:00",
       "NumProgressed": 13978,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-10-14T23:06:37.155556+00:00",
+      "NumProgressed": 13979,
+      "NumCompleted": 23
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -8778,9 +8783,9 @@
       "ID": "22",
       "SetID": "458bbdk",
       "Name": "Brother\u0027s Reaper",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 112
+      "UsersEstimate": 126
     },
     {
       "ID": "23",
@@ -8907,7 +8912,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13978,
+      "Progressed": 13979,
       "Completed": 23
     }
   ],
@@ -8915,8 +8920,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-13T09:00:57.1370573+00:00",
-  "LastChanged_Achievements": "2023-10-14T22:06:36.6397098+00:00",
+  "LastChanged_Achievements": "2023-10-14T23:06:37.1555552+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:40.5814563+00:00",
-  "LastUpdate_Ratings": "2023-10-14T22:01:56.3105238+00:00",
-  "LastUpdate_Achievements": "2023-10-14T22:06:36.6398099+00:00"
+  "LastUpdate_Ratings": "2023-10-14T23:01:49.5806435+00:00",
+  "LastUpdate_Achievements": "2023-10-14T23:06:37.1556924+00:00"
 }

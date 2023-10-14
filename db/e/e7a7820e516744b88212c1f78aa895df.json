@@ -4,7 +4,7 @@
   "ProductSlug": "overpass-2",
   "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 137,
+  "EOS_Progressed": 138,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -497,6 +497,11 @@
       "Time": "2023-10-14T19:05:57.0727723+00:00",
       "NumProgressed": 137,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-14T23:06:38.5026574+00:00",
+      "NumProgressed": 138,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-28T09:03:06.3221207+00:00",
@@ -547,9 +552,9 @@
       "ID": "achMaxTransmission",
       "SetID": "7ji07dj",
       "Name": "Moving Up a Gear",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "achMaxTransmissionAll",
@@ -565,7 +570,7 @@
       "Name": "You\u0027re Hired!",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "achScoutMaxStar",
@@ -597,7 +602,7 @@
       "Name": "Schmoozer",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achSponsor20",
@@ -605,7 +610,7 @@
       "Name": "Corporate Cooperator",
       "Percentage": 4,
       "XP": 75,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achSponsor5",
@@ -732,14 +737,14 @@
     {
       "ID": "7ji07dj",
       "IsBase": true,
-      "Progressed": 137,
+      "Progressed": 138,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-03T04:00:29.2485771+00:00",
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2023-10-14T22:06:37.8449187+00:00",
+  "LastChanged_Achievements": "2023-10-14T23:06:38.5026568+00:00",
   "LastUpdate_AppInfo": "2023-10-12T09:57:17.4515049+00:00",
-  "LastUpdate_Ratings": "2023-10-14T22:02:31.743401+00:00",
-  "LastUpdate_Achievements": "2023-10-14T22:06:37.8449592+00:00"
+  "LastUpdate_Ratings": "2023-10-14T23:02:21.5474319+00:00",
+  "LastUpdate_Achievements": "2023-10-14T23:06:38.5026832+00:00"
 }

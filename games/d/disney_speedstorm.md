@@ -5,32 +5,32 @@ Rating: 4.41 (Ranked 698)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 5.00% | ~11,101 |
-| IT MAKES BOOM! | 3.00% | ~6,661 |
-| EXTRA BOOST | 2.00% | ~4,440 |
-| PROTECTED | 1.00% | ~2,220 |
-| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,220 |
-| AGGRESSIVE RACER | 1.00% | ~2,220 |
-| PRO | 1.00% | ~2,220 |
-| A TIGER'S FEAR | 0.80% | ~1,776 |
-| ACE SPEEDSTER | 0.50% | ~1,110 |
-| IT'S A LONG WAY TO THE TOP | 0.40% | ~888 |
-| DEFEAT OUR CHAMPION | 0.40% | ~888 |
-| TRAINING HARD | 0.30% | ~666 |
-| RELEASE THE KRAKEN | 0.30% | ~666 |
-| BE OUR GUEST | 0.30% | ~666 |
-| ACE BRAWLER | 0.30% | ~666 |
-| ACE DEFENDER | 0.30% | ~666 |
-| THE EYE OF THE HUNTER | 0.30% | ~666 |
-| FRIENDLY | 0.30% | ~666 |
-| MASTER | 0.30% | ~666 |
-| LEGENDARY HERO | 0.30% | ~666 |
-| PERFECTLY POISED | 0.20% | ~444 |
-| EXPERIENCED CREW | 0.20% | ~444 |
-| ACE TRICKSTER | 0.20% | ~444 |
+| ROOKIE | 5.00% | ~11,113 |
+| IT MAKES BOOM! | 3.00% | ~6,668 |
+| EXTRA BOOST | 2.00% | ~4,445 |
+| PROTECTED | 1.00% | ~2,223 |
+| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,223 |
+| AGGRESSIVE RACER | 1.00% | ~2,223 |
+| PRO | 1.00% | ~2,223 |
+| A TIGER'S FEAR | 0.80% | ~1,778 |
+| ACE SPEEDSTER | 0.50% | ~1,111 |
+| IT'S A LONG WAY TO THE TOP | 0.40% | ~889 |
+| DEFEAT OUR CHAMPION | 0.40% | ~889 |
+| TRAINING HARD | 0.30% | ~667 |
+| RELEASE THE KRAKEN | 0.30% | ~667 |
+| BE OUR GUEST | 0.30% | ~667 |
+| ACE BRAWLER | 0.30% | ~667 |
+| ACE DEFENDER | 0.30% | ~667 |
+| THE EYE OF THE HUNTER | 0.30% | ~667 |
+| FRIENDLY | 0.30% | ~667 |
+| MASTER | 0.30% | ~667 |
+| LEGENDARY HERO | 0.30% | ~667 |
+| PERFECTLY POISED | 0.20% | ~445 |
+| EXPERIENCED CREW | 0.20% | ~445 |
+| ACE TRICKSTER | 0.20% | ~445 |
 | FRAMED! | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 222,017 (Ranked 63)  
+Progressed: 222,259 (Ranked 63)  
 Completed: 232 (0.10%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 232 (0.10%) (Ranked 246)
 | 2023-10-11 | 207,182 | 229 |
 | 2023-10-12 | 211,811 | 230 |
 | 2023-10-13 | 216,960 | 230 |
-| 2023-10-14 | 222,017 | 232 |
+| 2023-10-14 | 222,259 | 232 |
 ## Awards
 Max (Diverse Characters): 20  (Ranked 528)  
 Sum: 20 (Ranked 529)  

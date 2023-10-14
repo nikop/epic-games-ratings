@@ -25,8 +25,8 @@ Rating: 4.57 (Ranked 454)
 | Doctor Approved | 1.00% | ~140 |
 | Bottoms up! | 1.00% | ~140 |
 | No Belter Left Behind | 1.00% | ~140 |
+| Brother's Reaper | 0.90% | ~126 |
 | Data Logger | 0.80% | ~112 |
-| Brother's Reaper | 0.80% | ~112 |
 | Data Master | 0.70% | ~98 |
 | Debris Spree | 0.50% | ~70 |
 | Data Recoverer | 0.50% | ~70 |
@@ -36,7 +36,7 @@ Rating: 4.57 (Ranked 454)
 | Scavenger Star | 0.10% | ~14 |
 | Data Collector | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,978 (Ranked 136)  
+Progressed: 13,979 (Ranked 136)  
 Completed: 23 (0.16%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 23 (0.16%) (Ranked 230)
 | 2023-10-11 | 13,863 | 19 |
 | 2023-10-12 | 13,891 | 20 |
 | 2023-10-13 | 13,925 | 23 |
-| 2023-10-14 | 13,978 | 23 |
+| 2023-10-14 | 13,979 | 23 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

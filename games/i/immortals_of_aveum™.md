@@ -11,7 +11,7 @@ Rating: 4.05 (Ranked 956)
 | Maybe Engage a Little | 84.00% | ~73 |
 | No More Names | 70.00% | ~61 |
 | Initiate | 62.00% | ~54 |
-| Thrada-Kul | 56.00% | ~49 |
+| Thrada-Kul | 57.00% | ~50 |
 | Gravity-Challenged Rocks | 47.00% | ~41 |
 | Soldier | 40.00% | ~35 |
 | All the Major Food Groups | 39.00% | ~34 |
