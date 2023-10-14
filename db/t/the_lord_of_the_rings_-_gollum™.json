@@ -4,7 +4,7 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewPlayers": 337,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 529,
+  "EOS_Progressed": 530,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -1280,6 +1280,11 @@
       "Time": "2023-10-13T22:05:09.5345695+00:00",
       "NumProgressed": 529,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-14T15:06:12.2287404+00:00",
+      "NumProgressed": 530,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1315,7 +1320,7 @@
       "Name": "The Wraith",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "Chapter10",
@@ -1331,7 +1336,7 @@
       "Name": "The Maggot",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "Chapter3",
@@ -1363,7 +1368,7 @@
       "Name": "The Spider",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "Chapter7",
@@ -1371,7 +1376,7 @@
       "Name": "Good as Fish",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "Chapter8",
@@ -1379,7 +1384,7 @@
       "Name": "Her Eyes",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "Chapter9",
@@ -1395,7 +1400,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "Collectibles2",
@@ -1459,7 +1464,7 @@
       "Name": "Wait! Wait! Not yet!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "Memories",
@@ -1571,21 +1576,21 @@
       "Name": "Welcome to Mordor!",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 529,
+      "Progressed": 530,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-10-14T14:04:54.7676048+00:00",
+  "LastChanged_Achievements": "2023-10-14T15:06:12.2287398+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:48.4501514+00:00",
-  "LastUpdate_Ratings": "2023-10-14T13:58:11.9030581+00:00",
-  "LastUpdate_Achievements": "2023-10-14T14:04:54.7676432+00:00"
+  "LastUpdate_Ratings": "2023-10-14T14:59:06.9940936+00:00",
+  "LastUpdate_Achievements": "2023-10-14T15:06:12.2288271+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 252,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -348,9 +348,9 @@
       "Count": 31
     }
   ],
-  "EOS_Progressed": 3471,
+  "EOS_Progressed": 3472,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -5128,6 +5128,11 @@
       "Time": "2023-10-14T14:07:19.0295174+00:00",
       "NumProgressed": 3471,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-14T15:09:14.2606468+00:00",
+      "NumProgressed": 3472,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -5179,7 +5184,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 1770
+      "UsersEstimate": 1771
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -5195,7 +5200,7 @@
       "Name": "Stuff Of Nightmares",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 798
+      "UsersEstimate": 799
     },
     {
       "ID": "ACH_FINISH_HARD",
@@ -5243,7 +5248,7 @@
       "Name": "Regicide",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "ACH_KILL_UNDETECTED",
@@ -5299,7 +5304,7 @@
       "Name": "Bandage Lover",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "ACH_MAX_RECON",
@@ -5331,7 +5336,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 2117
+      "UsersEstimate": 2118
     },
     {
       "ID": "ACH_MISSION_02",
@@ -5355,7 +5360,7 @@
       "Name": "Making a Stand",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1527
+      "UsersEstimate": 1528
     },
     {
       "ID": "ACH_MISSION_05",
@@ -5363,7 +5368,7 @@
       "Name": "Where It All Begun",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1423
+      "UsersEstimate": 1424
     },
     {
       "ID": "ACH_MISSION_06",
@@ -5379,7 +5384,7 @@
       "Name": "The Darwin Era Was Here",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1041
+      "UsersEstimate": 1042
     },
     {
       "ID": "ACH_MISSION_08",
@@ -5403,7 +5408,7 @@
       "Name": "The Spire",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 902
+      "UsersEstimate": 903
     },
     {
       "ID": "ACH_MISSION_11",
@@ -5459,7 +5464,7 @@
       "Name": "People Person",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 1978
+      "UsersEstimate": 1979
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -5491,14 +5496,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 1978
+      "UsersEstimate": 1979
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3471,
+      "Progressed": 3472,
       "Completed": 3
     }
   ],
@@ -5506,8 +5511,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-10-12T17:00:05.6617832+00:00",
-  "LastChanged_Achievements": "2023-10-14T14:07:19.0295166+00:00",
+  "LastChanged_Achievements": "2023-10-14T15:09:14.2606462+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:06.8958078+00:00",
-  "LastUpdate_Ratings": "2023-10-14T13:59:58.8709356+00:00",
-  "LastUpdate_Achievements": "2023-10-14T14:07:19.0296416+00:00"
+  "LastUpdate_Ratings": "2023-10-14T15:01:17.8636891+00:00",
+  "LastUpdate_Achievements": "2023-10-14T15:09:14.2607254+00:00"
 }

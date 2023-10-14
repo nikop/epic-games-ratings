@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First success | 133.00% | ~4 |
+| First success | 167.00% | ~5 |
 | First blood | 67.00% | ~2 |
 | By own strength | 33.00% | ~1 |
 | A solo player | 33.00% | ~1 |
@@ -54,7 +54,7 @@
 | That's the way! | 0.00% | ~0 |
 | She-Wolf | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3 (Ranked 574)  
+Progressed: 3 (Ranked 575)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |

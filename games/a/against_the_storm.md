@@ -14,18 +14,18 @@ Number of Ratings: 1,845  (23.09.2022)
 | Fertile Meadows | 5.00% | ~846 |
 | Coral Forest | 5.00% | ~846 |
 | The Scarlet Orchard | 5.00% | ~846 |
-| Homesick | 4.00% | ~676 |
-| Bandit Camp | 4.00% | ~676 |
-| Barren Lands | 4.00% | ~676 |
-| Ancient Battleground | 4.00% | ~676 |
-| Sparkdew Crystals | 4.00% | ~676 |
-| Royal Outpost | 4.00% | ~676 |
-| Lost Colonies | 4.00% | ~676 |
-| Statue of the Forefathers | 4.00% | ~676 |
-| Watchtower | 4.00% | ~676 |
-| Cursed Lands | 4.00% | ~676 |
-| A Real Challenge | 4.00% | ~676 |
-| Trade Baron | 4.00% | ~676 |
+| Homesick | 4.00% | ~677 |
+| Bandit Camp | 4.00% | ~677 |
+| Barren Lands | 4.00% | ~677 |
+| Ancient Battleground | 4.00% | ~677 |
+| Sparkdew Crystals | 4.00% | ~677 |
+| Royal Outpost | 4.00% | ~677 |
+| Lost Colonies | 4.00% | ~677 |
+| Statue of the Forefathers | 4.00% | ~677 |
+| Watchtower | 4.00% | ~677 |
+| Cursed Lands | 4.00% | ~677 |
+| A Real Challenge | 4.00% | ~677 |
+| Trade Baron | 4.00% | ~677 |
 | Serving Ale | 3.00% | ~507 |
 | Against All Odds | 3.00% | ~507 |
 | Ruined Armory | 3.00% | ~507 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Higher Needs | 0.20% | ~34 |
 | Paradise | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,912 (Ranked 130)  
+Progressed: 16,913 (Ranked 130)  
 Completed: 52 (0.31%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,7 +234,7 @@ Completed: 52 (0.31%) (Ranked 202)
 | 2023-10-11 | 16,887 | 52 |
 | 2023-10-12 | 16,896 | 52 |
 | 2023-10-13 | 16,904 | 52 |
-| 2023-10-14 | 16,912 | 52 |
+| 2023-10-14 | 16,913 | 52 |
 ## Awards
 Max (Quickly Understood Controls): 436  (Ranked 212)  
 Sum: 3,190 (Ranked 168)  

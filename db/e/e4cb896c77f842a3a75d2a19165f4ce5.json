@@ -4,7 +4,7 @@
   "ProductSlug": "dolmenjord-viking-islands-965b06",
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 81,
-  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewPlayers": 274,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 444,
+  "EOS_Progressed": 445,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.38,
+  "EOS_Completed_Percentage": 3.37,
   "EosHistory": [
     {
       "Time": "2023-06-02T12:03:22.0888781+00:00",
@@ -1396,6 +1396,11 @@
       "Time": "2023-10-13T15:05:58.3827054+00:00",
       "NumProgressed": 444,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-10-14T15:06:47.8283249+00:00",
+      "NumProgressed": 445,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 11,
@@ -1407,7 +1412,7 @@
       "Name": "Pit-house",
       "Percentage": 94,
       "XP": 45,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "LEVEL_003",
@@ -1415,7 +1420,7 @@
       "Name": "Smith house",
       "Percentage": 86,
       "XP": 45,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "LEVEL_004",
@@ -1423,7 +1428,7 @@
       "Name": "Two-story house",
       "Percentage": 73,
       "XP": 45,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "LEVEL_006",
@@ -1431,7 +1436,7 @@
       "Name": "Market",
       "Percentage": 60,
       "XP": 95,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "LEVEL_012",
@@ -1455,7 +1460,7 @@
       "Name": "Small block",
       "Percentage": 17,
       "XP": 95,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "LEVEL_023",
@@ -1494,14 +1499,14 @@
     {
       "ID": "7jk5g4e",
       "IsBase": true,
-      "Progressed": 444,
+      "Progressed": 445,
       "Completed": 15
     }
   ],
   "FirstSeen": "2023-06-17T14:57:03.8937157+00:00",
   "FirstSeenAchievements": "2023-05-29T15:00:12.8359596+00:00",
-  "LastChanged_Achievements": "2023-10-14T14:05:23.5260673+00:00",
+  "LastChanged_Achievements": "2023-10-14T15:06:47.8283243+00:00",
   "LastUpdate_AppInfo": "2023-10-10T01:39:22.4320656+00:00",
-  "LastUpdate_Ratings": "2023-10-14T13:59:48.7267429+00:00",
-  "LastUpdate_Achievements": "2023-10-14T14:05:23.5260912+00:00"
+  "LastUpdate_Ratings": "2023-10-14T15:01:06.2337419+00:00",
+  "LastUpdate_Achievements": "2023-10-14T15:06:47.8283494+00:00"
 }

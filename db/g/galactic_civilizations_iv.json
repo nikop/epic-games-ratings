@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 286,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -912,7 +912,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 6820,
+  "EOS_Progressed": 6821,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
@@ -6952,6 +6952,11 @@
       "Time": "2023-10-14T14:03:44.6334813+00:00",
       "NumProgressed": 6820,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-14T15:05:00.4941807+00:00",
+      "NumProgressed": 6821,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -6995,7 +7000,7 @@
       "Name": "Commodity Trader",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2114
+      "UsersEstimate": 2115
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -7003,7 +7008,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 4228
+      "UsersEstimate": 4229
     },
     {
       "ID": "Control_All_Relics",
@@ -7027,7 +7032,7 @@
       "Name": "Xenocide",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2182
+      "UsersEstimate": 2183
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -7043,7 +7048,7 @@
       "Name": "Design a Civilization",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 2182
+      "UsersEstimate": 2183
     },
     {
       "ID": "First_Major_Ally",
@@ -7283,7 +7288,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 4228
+      "UsersEstimate": 4229
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -7451,7 +7456,7 @@
       "Name": "Win a Battle",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 4501
+      "UsersEstimate": 4502
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -7538,15 +7543,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6820,
+      "Progressed": 6821,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-10-14T14:03:44.6334805+00:00",
+  "LastChanged_Achievements": "2023-10-14T15:05:00.4941801+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:21.0832103+00:00",
-  "LastUpdate_Ratings": "2023-10-14T14:00:44.2463346+00:00",
-  "LastUpdate_Achievements": "2023-10-14T14:03:44.6336057+00:00"
+  "LastUpdate_Ratings": "2023-10-14T15:02:17.1879725+00:00",
+  "LastUpdate_Achievements": "2023-10-14T15:05:00.4943702+00:00"
 }

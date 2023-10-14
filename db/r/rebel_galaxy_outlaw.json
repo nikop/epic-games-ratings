@@ -3,11 +3,11 @@
   "Name": "Rebel Galaxy Outlaw",
   "ProductSlug": "rebel-galaxy-outlaw",
   "Ranking_Rating": 672,
-  "Ranking_Popularity": 535,
-  "Ranking_PopularitySum": 535,
+  "Ranking_Popularity": 536,
+  "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 669,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewPlayers": 395,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2019-08-13T15:00:00+00:00",
@@ -407,6 +407,6 @@
   "FirstSeen": "2022-07-22T20:23:57.7523989+00:00",
   "LastChanged": "2023-09-17T11:57:25.8742319+00:00",
   "LastUpdate_AppInfo": "2023-10-14T13:56:57.5791986+00:00",
-  "LastUpdate_Ratings": "2023-10-14T13:59:53.7111463+00:00",
-  "LastUpdate_Achievements": "2023-10-14T14:06:17.7509403+00:00"
+  "LastUpdate_Ratings": "2023-10-14T15:01:13.1075405+00:00",
+  "LastUpdate_Achievements": "2023-10-14T15:08:03.8931501+00:00"
 }

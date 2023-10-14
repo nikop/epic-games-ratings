@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Dash Crash | 73.00% | ~438 |
-| Snake Eyes | 58.00% | ~348 |
+| Snake Eyes | 59.00% | ~354 |
 | Be water, my friend | 57.00% | ~342 |
 | Fireball | 45.00% | ~270 |
 | The King of Flat | 43.00% | ~258 |

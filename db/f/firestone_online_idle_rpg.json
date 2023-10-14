@@ -6,8 +6,8 @@
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 453,
   "Ranking_EOS_Progress": 204,
-  "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_Completed": 246,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -370,9 +370,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 2030,
+  "EOS_Progressed": 2031,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6085,6 +6085,11 @@
       "Time": "2023-10-14T07:09:19.4311447+00:00",
       "NumProgressed": 2030,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-14T15:10:04.7459141+00:00",
+      "NumProgressed": 2031,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -6200,7 +6205,7 @@
       "Name": "Dragon Clicker",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "dragonmaster",
@@ -6344,7 +6349,7 @@
       "Name": "Hero inspection",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "howdoyouturnthison",
@@ -6392,7 +6397,7 @@
       "Name": "Lieutenant",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "lockandload",
@@ -6488,7 +6493,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1096
+      "UsersEstimate": 1097
     },
     {
       "ID": "prestigiousx10",
@@ -6552,15 +6557,15 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1157
+      "UsersEstimate": 1158
     },
     {
       "ID": "thealchemist",
       "SetID": "3nl4bcg",
       "Name": "The Alchemist",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 142
+      "UsersEstimate": 122
     },
     {
       "ID": "theexpeditioner",
@@ -6584,7 +6589,7 @@
       "Name": "The game is on",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "thepowerofawakening",
@@ -6656,7 +6661,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1888
+      "UsersEstimate": 1889
     },
     {
       "ID": "warmachinesarmy",
@@ -6695,7 +6700,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2030,
+      "Progressed": 2031,
       "Completed": 2
     }
   ],
@@ -6703,8 +6708,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-10-12T17:59:57.3603053+00:00",
-  "LastChanged_Achievements": "2023-10-14T14:08:14.7097985+00:00",
+  "LastChanged_Achievements": "2023-10-14T15:10:04.7459138+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:57.0347276+00:00",
-  "LastUpdate_Ratings": "2023-10-14T14:00:06.4247346+00:00",
-  "LastUpdate_Achievements": "2023-10-14T14:08:14.7099018+00:00"
+  "LastUpdate_Ratings": "2023-10-14T15:01:27.7484307+00:00",
+  "LastUpdate_Achievements": "2023-10-14T15:10:04.7460397+00:00"
 }

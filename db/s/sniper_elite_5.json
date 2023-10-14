@@ -3,11 +3,11 @@
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
   "Ranking_Rating": 644,
-  "Ranking_Popularity": 526,
-  "Ranking_PopularitySum": 527,
+  "Ranking_Popularity": 524,
+  "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -530,23 +530,29 @@
       "Rating": 4.45,
       "NumberOfAwards": 20,
       "NumberOfAwardsMax": 20
+    },
+    {
+      "Time": "2023-10-14T15:00:37.7714006+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 21,
+      "NumberOfAwardsMax": 21
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20,
-  "NumberOfAwardsMax": 20,
+  "NumberOfAwards": 21,
+  "NumberOfAwardsMax": 21,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 20
+      "Count": 21
     }
   ],
   "EOS_Progressed": 3740,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -7840,9 +7846,9 @@
   "FirstSeen": "2023-03-07T14:57:33.0234716+00:00",
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
-  "LastChanged": "2023-10-13T09:59:46.3659401+00:00",
-  "LastChanged_Achievements": "2023-10-14T14:06:36.8696923+00:00",
+  "LastChanged": "2023-10-14T15:00:37.7714003+00:00",
+  "LastChanged_Achievements": "2023-10-14T15:08:27.4538322+00:00",
   "LastUpdate_AppInfo": "2023-10-14T10:57:25.01046+00:00",
-  "LastUpdate_Ratings": "2023-10-14T13:59:25.6054263+00:00",
-  "LastUpdate_Achievements": "2023-10-14T14:06:36.8697917+00:00"
+  "LastUpdate_Ratings": "2023-10-14T15:00:37.771401+00:00",
+  "LastUpdate_Achievements": "2023-10-14T15:08:27.4539747+00:00"
 }

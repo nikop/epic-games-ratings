@@ -1298,9 +1298,9 @@
       "ID": "World2Boss",
       "SetID": "d9ekhim",
       "Name": "Snake Eyes",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 348
+      "UsersEstimate": 354
     },
     {
       "ID": "World3Boss",
@@ -1371,8 +1371,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-10-14T14:07:15.3872597+00:00",
+  "LastChanged_Achievements": "2023-10-14T15:09:09.7064477+00:00",
   "LastUpdate_AppInfo": "2023-10-14T13:57:01.5816652+00:00",
-  "LastUpdate_Ratings": "2023-10-14T14:00:12.6471841+00:00",
-  "LastUpdate_Achievements": "2023-10-14T14:07:15.3873683+00:00"
+  "LastUpdate_Ratings": "2023-10-14T15:01:37.0829679+00:00",
+  "LastUpdate_Achievements": "2023-10-14T15:09:09.7065281+00:00"
 }

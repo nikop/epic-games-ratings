@@ -25,8 +25,8 @@
 | Soldier Ally | 50.00% | ~343 |
 | Colonial Savior | 49.00% | ~336 |
 | Paramour I | 48.00% | ~329 |
+| Krogan Ally | 46.00% | ~316 |
 | Scientist | 46.00% | ~316 |
-| Krogan Ally | 45.00% | ~309 |
 | Merciless | 45.00% | ~309 |
 | Sentinel Ally | 44.00% | ~302 |
 | Missing in Action | 43.00% | ~295 |
@@ -52,19 +52,19 @@
 | The Prodigal | 32.00% | ~220 |
 | A Personal Touch | 31.00% | ~213 |
 | Battlemaster | 31.00% | ~213 |
+| Catharsis | 31.00% | ~213 |
 | Ghost of the Father | 31.00% | ~213 |
 | The Cure | 31.00% | ~213 |
 | Big Game Hunter | 31.00% | ~213 |
 | Revenge! | 31.00% | ~213 |
 | Heart of Darkness | 31.00% | ~213 |
 | Shopaholic | 31.00% | ~213 |
-| Catharsis | 30.00% | ~206 |
 | Fade Away | 30.00% | ~206 |
+| Treason | 30.00% | ~206 |
 | Agent | 30.00% | ~206 |
 | Driven | 30.00% | ~206 |
 | Focused | 29.00% | ~199 |
 | Cat's in the Cradle | 29.00% | ~199 |
-| Treason | 29.00% | ~199 |
 | Digital Exorcist | 29.00% | ~199 |
 | Bringer of War | 29.00% | ~199 |
 | Friend or Foe | 28.00% | ~192 |
@@ -81,20 +81,20 @@
 | Giant Killer | 24.00% | ~165 |
 | World Shaker | 24.00% | ~165 |
 | Liberator | 24.00% | ~165 |
+| Savior | 22.00% | ~151 |
 | Pathfinder | 22.00% | ~151 |
 | Tunnel Rat | 22.00% | ~151 |
 | Arbiter | 22.00% | ~151 |
-| Savior | 21.00% | ~144 |
 | Paramour II | 21.00% | ~144 |
 | Party Crasher | 21.00% | ~144 |
 | Lost and Found | 21.00% | ~144 |
 | No One Left Behind | 20.00% | ~137 |
 | Problem Solver | 20.00% | ~137 |
 | Pyromaniac | 19.00% | ~130 |
+| Under Pressure | 19.00% | ~130 |
 | Hard Target | 19.00% | ~130 |
 | Saboteur | 19.00% | ~130 |
 | Fact Finder | 19.00% | ~130 |
-| Under Pressure | 18.00% | ~123 |
 | Electronics Specialist | 18.00% | ~123 |
 | Sabotage Specialist | 18.00% | ~123 |
 | Last Witness | 18.00% | ~123 |

@@ -2,7 +2,7 @@
   "ID": "c6d8ffe7390d4a8ab74d373d67f0762a",
   "Name": "Ash of Gods: The Way",
   "ProductSlug": "ash-of-gods-the-way-58bd36",
-  "Ranking_EOS_Progress": 574,
+  "Ranking_EOS_Progress": 575,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 337,
   "Ranking_EOS_NewCompleters": 3392,
@@ -291,9 +291,9 @@
       "ID": "story1",
       "SetID": "c64if4d",
       "Name": "First success",
-      "Percentage": 133,
+      "Percentage": 167,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "story10",
@@ -468,8 +468,8 @@
   "FirstSeenRating": "2023-04-28T08:58:19.1643049+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:53.2474687+00:00",
   "LastChanged": "2023-04-28T08:58:19.164305+00:00",
-  "LastChanged_Achievements": "2023-10-14T14:05:20.6786746+00:00",
-  "LastUpdate_AppInfo": "2023-10-07T13:57:17.8150799+00:00",
-  "LastUpdate_Ratings": "2023-10-14T14:00:52.5000575+00:00",
-  "LastUpdate_Achievements": "2023-10-14T14:05:20.6787139+00:00"
+  "LastChanged_Achievements": "2023-10-14T15:06:44.3145276+00:00",
+  "LastUpdate_AppInfo": "2023-10-14T14:57:33.8449509+00:00",
+  "LastUpdate_Ratings": "2023-10-14T15:02:27.4282792+00:00",
+  "LastUpdate_Achievements": "2023-10-14T15:06:44.3145761+00:00"
 }

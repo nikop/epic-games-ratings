@@ -5,23 +5,23 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Noctuan Champion | 31.00% | ~17 |
-| Apian Champion | 28.00% | ~15 |
-| Eridanian Champion | 28.00% | ~15 |
-| Lacertian Champion | 28.00% | ~15 |
-| Endless Tricks | 26.00% | ~14 |
+| Apian Champion | 27.00% | ~15 |
+| Eridanian Champion | 27.00% | ~15 |
+| Lacertian Champion | 27.00% | ~15 |
+| Endless Tricks | 25.00% | ~14 |
+| Meissa's Savior | 25.00% | ~14 |
 | Dicesmithing Time! | 24.00% | ~13 |
-| Meissa's Savior | 24.00% | ~13 |
+| Mechanical Buddy | 24.00% | ~13 |
+| Purification Pioneer | 24.00% | ~13 |
 | Sanctuary Guardian | 24.00% | ~13 |
-| Mechanical Buddy | 22.00% | ~12 |
-| Purification Pioneer | 22.00% | ~12 |
 | Wild's Keeper | 22.00% | ~12 |
 | Behenian Champion | 22.00% | ~12 |
 | Loyal Partner | 20.00% | ~11 |
 | Mind Illuminator | 20.00% | ~11 |
 | Stellar Dismantler | 20.00% | ~11 |
-| Anomaly Destroyer | 19.00% | ~10 |
-| Shard Spender | 19.00% | ~10 |
-| Aquarian Champion | 19.00% | ~10 |
+| Anomaly Destroyer | 18.00% | ~10 |
+| Shard Spender | 18.00% | ~10 |
+| Aquarian Champion | 18.00% | ~10 |
 | Star Killer | 15.00% | ~8 |
 | Heart Gate | 13.00% | ~7 |
 | Astral Adventurer | 11.00% | ~6 |
@@ -38,15 +38,15 @@
 | Can't touch this | 7.00% | ~4 |
 | Heavy Purger | 7.00% | ~4 |
 | Lacertian Hero | 7.00% | ~4 |
-| Denying Destiny | 6.00% | ~3 |
-| Purification Avatar | 6.00% | ~3 |
-| The Abyssal Terror | 6.00% | ~3 |
-| The Chaos Artisan | 6.00% | ~3 |
-| The Dark Moon | 6.00% | ~3 |
-| The Distorted Sage | 6.00% | ~3 |
-| Behenian Hero | 6.00% | ~3 |
-| Behenian Mastery | 6.00% | ~3 |
-| Lacertian Mastery | 6.00% | ~3 |
+| Denying Destiny | 5.00% | ~3 |
+| Purification Avatar | 5.00% | ~3 |
+| The Abyssal Terror | 5.00% | ~3 |
+| The Chaos Artisan | 5.00% | ~3 |
+| The Dark Moon | 5.00% | ~3 |
+| The Distorted Sage | 5.00% | ~3 |
+| Behenian Hero | 5.00% | ~3 |
+| Behenian Mastery | 5.00% | ~3 |
+| Lacertian Mastery | 5.00% | ~3 |
 | Artificer | 4.00% | ~2 |
 | Astrarium of Holding | 4.00% | ~2 |
 | If I Had Failed... | 4.00% | ~2 |
@@ -103,7 +103,7 @@
 | Apian Mastery | 0.00% | ~0 |
 | Eridanian Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54 (Ranked 430)  
+Progressed: 55 (Ranked 429)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,4 +125,4 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-10-10 | 51 | 0 |
 | 2023-10-11 | 52 | 0 |
 | 2023-10-13 | 53 | 0 |
-| 2023-10-14 | 54 | 0 |
+| 2023-10-14 | 55 | 0 |

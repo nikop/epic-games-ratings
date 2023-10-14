@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewPlayers": 337,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 431,
+  "EOS_Progressed": 432,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -1434,6 +1434,11 @@
       "Time": "2023-10-08T22:03:26.0060327+00:00",
       "NumProgressed": 431,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-14T15:07:08.5707398+00:00",
+      "NumProgressed": 432,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -1445,7 +1450,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 55,
       "XP": 60,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "completeact2",
@@ -1453,7 +1458,7 @@
       "Name": "Conspiracy Theorist",
       "Percentage": 46,
       "XP": 80,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "completeact3",
@@ -1557,14 +1562,14 @@
       "Name": "Friendzone",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     }
   ],
   "AchievementSets": [
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 431,
+      "Progressed": 432,
       "Completed": 2
     }
   ],
@@ -1572,8 +1577,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-10-14T14:05:40.9380412+00:00",
+  "LastChanged_Achievements": "2023-10-14T15:07:08.5707392+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:02.500141+00:00",
-  "LastUpdate_Ratings": "2023-10-14T13:59:34.499272+00:00",
-  "LastUpdate_Achievements": "2023-10-14T14:05:40.9380621+00:00"
+  "LastUpdate_Ratings": "2023-10-14T15:00:47.737534+00:00",
+  "LastUpdate_Achievements": "2023-10-14T15:07:08.5707612+00:00"
 }

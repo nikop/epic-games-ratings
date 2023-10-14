@@ -2,12 +2,12 @@
   "ID": "a3dd9f3da8ec49c7b25dec42cce2ec46",
   "Name": "Adios",
   "ProductSlug": "adios-b378b4",
-  "Ranking_Rating": 1009,
-  "Ranking_Popularity": 535,
-  "Ranking_PopularitySum": 535,
+  "Ranking_Rating": 1010,
+  "Ranking_Popularity": 536,
+  "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewPlayers": 88,
   "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -114,9 +114,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 75765,
+  "EOS_Progressed": 75768,
   "EOS_Completed": 796,
-  "EOS_NewPlayers": 559,
+  "EOS_NewPlayers": 558,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -19864,6 +19864,11 @@
       "Time": "2023-10-14T14:03:46.9150803+00:00",
       "NumProgressed": 75765,
       "NumCompleted": 796
+    },
+    {
+      "Time": "2023-10-14T15:05:03.2669093+00:00",
+      "NumProgressed": 75768,
+      "NumCompleted": 796
     }
   ],
   "TotalAchievements": 25,
@@ -19907,7 +19912,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 16668
+      "UsersEstimate": 16669
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -19947,7 +19952,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 15153
+      "UsersEstimate": 15154
     },
     {
       "ID": "Hearty",
@@ -19995,7 +20000,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 14395
+      "UsersEstimate": 14396
     },
     {
       "ID": "Nice Try",
@@ -20003,7 +20008,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 12122
+      "UsersEstimate": 12123
     },
     {
       "ID": "Nothing Left to Say",
@@ -20027,7 +20032,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 9849
+      "UsersEstimate": 9850
     },
     {
       "ID": "Sniper",
@@ -20074,7 +20079,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 75765,
+      "Progressed": 75768,
       "Completed": 796
     }
   ],
@@ -20082,8 +20087,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-10-14T14:03:46.9150799+00:00",
+  "LastChanged_Achievements": "2023-10-14T15:05:03.2669086+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:32.9396838+00:00",
-  "LastUpdate_Ratings": "2023-10-14T13:59:04.2551153+00:00",
-  "LastUpdate_Achievements": "2023-10-14T14:03:46.9152574+00:00"
+  "LastUpdate_Ratings": "2023-10-14T15:00:14.2102566+00:00",
+  "LastUpdate_Achievements": "2023-10-14T15:05:03.2671253+00:00"
 }

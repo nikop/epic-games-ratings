@@ -3,11 +3,11 @@
   "Name": "ToeJam \u0026 Earl: Back in the Groove!",
   "ProductSlug": "toejam-and-earl-back-in-the-groove-cddc16",
   "Ranking_Rating": 789,
-  "Ranking_Popularity": 535,
-  "Ranking_PopularitySum": 535,
+  "Ranking_Popularity": 536,
+  "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -223,9 +223,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 57310,
+  "EOS_Progressed": 57313,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10758,6 +10758,11 @@
       "Time": "2023-10-14T14:05:24.0373393+00:00",
       "NumProgressed": 57310,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-14T15:06:48.4595174+00:00",
+      "NumProgressed": 57313,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -10945,7 +10950,7 @@
       "Name": "Level Diver",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "LittleGirl",
@@ -11160,7 +11165,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 57310,
+      "Progressed": 57313,
       "Completed": 6
     }
   ],
@@ -11168,8 +11173,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-10-14T14:05:24.037339+00:00",
+  "LastChanged_Achievements": "2023-10-14T15:06:48.4595166+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:49.0987806+00:00",
-  "LastUpdate_Ratings": "2023-10-14T13:59:54.200441+00:00",
-  "LastUpdate_Achievements": "2023-10-14T14:05:24.0374413+00:00"
+  "LastUpdate_Ratings": "2023-10-14T15:01:13.7300838+00:00",
+  "LastUpdate_Achievements": "2023-10-14T15:06:48.4596437+00:00"
 }

@@ -5,9 +5,9 @@
   "Ranking_Rating": 119,
   "Ranking_Popularity": 119,
   "Ranking_PopularitySum": 116,
-  "Ranking_EOS_Progress": 143,
+  "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3926,9 +3926,9 @@
       "Count": 388
     }
   ],
-  "EOS_Progressed": 11526,
+  "EOS_Progressed": 11527,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13546,6 +13546,11 @@
       "Time": "2023-10-14T14:08:24.9327618+00:00",
       "NumProgressed": 11526,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-14T15:10:17.4388347+00:00",
+      "NumProgressed": 11527,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -13565,7 +13570,7 @@
       "Name": "Burning City",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1959
+      "UsersEstimate": 1960
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -13573,7 +13578,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1498
+      "UsersEstimate": 1499
     },
     {
       "ID": "04_FithCrusade",
@@ -14484,21 +14489,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10308,
+      "Progressed": 10309,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11526,
+      "Progressed": 11527,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-10-14T14:00:26.7172078+00:00",
-  "LastChanged_Achievements": "2023-10-14T14:08:24.9327606+00:00",
+  "LastChanged_Achievements": "2023-10-14T15:10:17.4388339+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:22.9873596+00:00",
-  "LastUpdate_Ratings": "2023-10-14T14:00:26.717209+00:00",
-  "LastUpdate_Achievements": "2023-10-14T14:08:24.9330233+00:00"
+  "LastUpdate_Ratings": "2023-10-14T15:01:54.0729766+00:00",
+  "LastUpdate_Achievements": "2023-10-14T15:10:17.4390645+00:00"
 }

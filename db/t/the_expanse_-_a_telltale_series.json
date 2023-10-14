@@ -3,8 +3,8 @@
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
   "Ranking_Rating": 454,
-  "Ranking_Popularity": 535,
-  "Ranking_PopularitySum": 535,
+  "Ranking_Popularity": 536,
+  "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 116,
@@ -166,9 +166,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13949,
+  "EOS_Progressed": 13954,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 272,
+  "EOS_NewPlayers": 274,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -8616,6 +8616,11 @@
       "Time": "2023-10-14T14:04:58.4703814+00:00",
       "NumProgressed": 13949,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-10-14T15:06:16.7229751+00:00",
+      "NumProgressed": 13954,
+      "NumCompleted": 23
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -8652,7 +8657,7 @@
       "Name": "Data Archivist",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "13",
@@ -8660,7 +8665,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1813
+      "UsersEstimate": 1814
     },
     {
       "ID": "14",
@@ -8668,7 +8673,7 @@
       "Name": "Doctor Approved",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "15",
@@ -8700,7 +8705,7 @@
       "Name": "Bottoms up!",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "19",
@@ -8708,7 +8713,7 @@
       "Name": "Martian Music",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "2",
@@ -8724,7 +8729,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "21",
@@ -8748,7 +8753,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "24",
@@ -8764,7 +8769,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "26",
@@ -8780,7 +8785,7 @@
       "Name": "Bosmang",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "28",
@@ -8804,7 +8809,7 @@
       "Name": "Captain Drummer",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "30",
@@ -8836,7 +8841,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "7",
@@ -8860,14 +8865,14 @@
       "Name": "Impossible Objects",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13949,
+      "Progressed": 13954,
       "Completed": 23
     }
   ],
@@ -8875,8 +8880,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-13T09:00:57.1370573+00:00",
-  "LastChanged_Achievements": "2023-10-14T14:04:58.470381+00:00",
+  "LastChanged_Achievements": "2023-10-14T15:06:16.7229744+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:56.4622667+00:00",
-  "LastUpdate_Ratings": "2023-10-14T14:00:06.2497373+00:00",
-  "LastUpdate_Achievements": "2023-10-14T14:04:58.4704452+00:00"
+  "LastUpdate_Ratings": "2023-10-14T15:01:27.50965+00:00",
+  "LastUpdate_Achievements": "2023-10-14T15:06:16.7230885+00:00"
 }

@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1465,
+  "EOS_Progressed": 1466,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2789,6 +2789,11 @@
       "Time": "2023-10-14T14:06:23.4215247+00:00",
       "NumProgressed": 1465,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-14T15:08:10.8101356+00:00",
+      "NumProgressed": 1466,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -2801,7 +2806,7 @@
       "Name": "First Love",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 615
+      "UsersEstimate": 616
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -2817,7 +2822,7 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -2857,7 +2862,7 @@
       "Name": "I Want One Too!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -3105,7 +3110,7 @@
       "Name": "Champagne Spray",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -3192,14 +3197,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1465,
+      "Progressed": 1466,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-14T14:06:23.4215239+00:00",
+  "LastChanged_Achievements": "2023-10-14T15:08:10.8101347+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:00.8071833+00:00",
-  "LastUpdate_Ratings": "2023-10-14T13:05:07.3265708+00:00",
-  "LastUpdate_Achievements": "2023-10-14T14:06:23.4216156+00:00"
+  "LastUpdate_Ratings": "2023-10-14T14:57:36.5934688+00:00",
+  "LastUpdate_Achievements": "2023-10-14T15:08:10.8102409+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "ghostrunner-2",
   "Ranking_EOS_Progress": 669,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewPlayers": 395,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -35,8 +35,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
-  "LastChanged_Achievements": "2023-10-14T13:11:27.1358242+00:00",
+  "LastChanged_Achievements": "2023-10-14T15:04:03.4508349+00:00",
   "LastUpdate_AppInfo": "2023-10-12T08:57:06.1856774+00:00",
-  "LastUpdate_Ratings": "2023-10-14T14:00:20.5964422+00:00",
-  "LastUpdate_Achievements": "2023-10-14T13:11:27.135829+00:00"
+  "LastUpdate_Ratings": "2023-10-14T15:01:48.2345523+00:00",
+  "LastUpdate_Achievements": "2023-10-14T15:04:03.4508429+00:00"
 }

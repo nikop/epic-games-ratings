@@ -3,11 +3,11 @@
   "Name": "Art of Rally",
   "ProductSlug": "art-of-rally",
   "Ranking_Rating": 28,
-  "Ranking_Popularity": 535,
-  "Ranking_PopularitySum": 535,
+  "Ranking_Popularity": 536,
+  "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 252,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10273,
+  "EOS_Progressed": 10274,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1651,6 +1651,11 @@
       "Time": "2023-10-13T15:04:14.0364341+00:00",
       "NumProgressed": 10273,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-14T15:05:06.7164961+00:00",
+      "NumProgressed": 10274,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -1670,7 +1675,7 @@
       "Name": "to finish first, first you must finish",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 2157
+      "UsersEstimate": 2158
     },
     {
       "ID": "ACH_ABSOLUTE_DRIFT",
@@ -1686,7 +1691,7 @@
       "Name": "autopilot",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 2157
+      "UsersEstimate": 2158
     },
     {
       "ID": "ACH_ALL_BONUSES",
@@ -1718,7 +1723,7 @@
       "Name": "perkele",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 1335
+      "UsersEstimate": 1336
     },
     {
       "ID": "ACH_COLLECTIBLES_GERMANY",
@@ -1766,7 +1771,7 @@
       "Name": "grocery-getter",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 4109
+      "UsersEstimate": 4110
     },
     {
       "ID": "ACH_COMPLETE_GROUP3",
@@ -1822,7 +1827,7 @@
       "Name": "keep it tidy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7910
+      "UsersEstimate": 7911
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -1854,7 +1859,7 @@
       "Name": "where is the stage?",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1335
+      "UsersEstimate": 1336
     },
     {
       "ID": "ACH_FUJIN_ODO",
@@ -1886,7 +1891,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9862
+      "UsersEstimate": 9863
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -1926,7 +1931,7 @@
       "Name": "snorkel",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1335
+      "UsersEstimate": 1336
     },
     {
       "ID": "ACH_ROLL",
@@ -1934,7 +1939,7 @@
       "Name": "you can\u0027t treat a car like a human being. a car requires love",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 2157
+      "UsersEstimate": 2158
     },
     {
       "ID": "ACH_SIMULATOR",
@@ -1950,7 +1955,7 @@
       "Name": "good drivers have dead flies on the side windows",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 4417
+      "UsersEstimate": 4418
     },
     {
       "ID": "ACH_SNOW",
@@ -2005,15 +2010,15 @@
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10273,
+      "Progressed": 10274,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-10-14T14:03:49.6688451+00:00",
+  "LastChanged_Achievements": "2023-10-14T15:05:06.7164955+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:21.4011971+00:00",
-  "LastUpdate_Ratings": "2023-10-14T14:00:48.7636159+00:00",
-  "LastUpdate_Achievements": "2023-10-14T14:03:49.6688876+00:00"
+  "LastUpdate_Ratings": "2023-10-14T15:02:23.4462784+00:00",
+  "LastUpdate_Achievements": "2023-10-14T15:05:06.7165401+00:00"
 }
