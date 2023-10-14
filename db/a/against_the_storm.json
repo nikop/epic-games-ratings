@@ -4,10 +4,10 @@
   "ProductSlug": "against-the-storm",
   "Ranking_Rating": 76,
   "Ranking_Popularity": 212,
-  "Ranking_PopularitySum": 167,
+  "Ranking_PopularitySum": 168,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3100,7 +3100,7 @@
   ],
   "EOS_Progressed": 16908,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -12375,8 +12375,8 @@
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-10-13T23:58:44.8961481+00:00",
-  "LastChanged_Achievements": "2023-10-14T10:06:00.4637014+00:00",
+  "LastChanged_Achievements": "2023-10-14T11:07:14.207866+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:39.9609132+00:00",
-  "LastUpdate_Ratings": "2023-10-14T09:57:59.9968459+00:00",
-  "LastUpdate_Achievements": "2023-10-14T10:06:00.463799+00:00"
+  "LastUpdate_Ratings": "2023-10-14T10:58:53.8665611+00:00",
+  "LastUpdate_Achievements": "2023-10-14T11:07:14.2079627+00:00"
 }

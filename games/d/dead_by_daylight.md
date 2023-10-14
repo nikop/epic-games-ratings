@@ -6,36 +6,36 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 2.00% | ~18,759 |
-| It wakes | 2.00% | ~18,759 |
-| Skillful | 2.00% | ~18,759 |
-| No one left behind | 1.00% | ~9,380 |
-| Medic | 1.00% | ~9,380 |
-| Handyman | 1.00% | ~9,380 |
-| Not half bad | 1.00% | ~9,380 |
-| Apt Survivor | 1.00% | ~9,380 |
-| Survival Treasures | 1.00% | ~9,380 |
-| Sorted | 1.00% | ~9,380 |
-| Healthy Obsession | 1.00% | ~9,380 |
-| Resurgence | 1.00% | ~9,380 |
-| Make Some Noise | 1.00% | ~9,380 |
-| The Grand Sacrifice | 0.90% | ~8,442 |
-| Bloody Millionaire | 0.90% | ~8,442 |
-| I | 0.90% | ~8,442 |
-| Preemptive Strike | 0.90% | ~8,442 |
-| Humanitarian | 0.90% | ~8,442 |
-| Agonizing Escape | 0.80% | ~7,504 |
-| Backdoor Escape | 0.80% | ~7,504 |
-| I've got your back | 0.80% | ~7,504 |
-| Nerves of steel | 0.80% | ~7,504 |
-| Perfect Escape | 0.80% | ~7,504 |
-| Engineer | 0.80% | ~7,504 |
+| Zealous | 2.00% | ~18,761 |
+| It wakes | 2.00% | ~18,761 |
+| Skillful | 2.00% | ~18,761 |
+| No one left behind | 1.00% | ~9,381 |
+| Medic | 1.00% | ~9,381 |
+| Handyman | 1.00% | ~9,381 |
+| Not half bad | 1.00% | ~9,381 |
+| Apt Survivor | 1.00% | ~9,381 |
+| Survival Treasures | 1.00% | ~9,381 |
+| I | 1.00% | ~9,381 |
+| Sorted | 1.00% | ~9,381 |
+| Healthy Obsession | 1.00% | ~9,381 |
+| Resurgence | 1.00% | ~9,381 |
+| Make Some Noise | 1.00% | ~9,381 |
+| The Grand Sacrifice | 0.90% | ~8,443 |
+| Perfect Escape | 0.90% | ~8,443 |
+| Bloody Millionaire | 0.90% | ~8,443 |
+| Preemptive Strike | 0.90% | ~8,443 |
+| Humanitarian | 0.90% | ~8,443 |
+| Agonizing Escape | 0.80% | ~7,505 |
+| Backdoor Escape | 0.80% | ~7,505 |
+| I've got your back | 0.80% | ~7,505 |
+| Nerves of steel | 0.80% | ~7,505 |
+| Engineer | 0.80% | ~7,505 |
 | Perfect Killing | 0.70% | ~6,566 |
+| Apt Killer | 0.70% | ~6,566 |
 | Risk it all | 0.70% | ~6,566 |
 | II | 0.70% | ~6,566 |
 | Wounded Healer | 0.70% | ~6,566 |
 | Close Shave | 0.70% | ~6,566 |
-| Apt Killer | 0.60% | ~5,628 |
 | Vulture | 0.60% | ~5,628 |
 | III | 0.60% | ~5,628 |
 | With Scars to Show | 0.60% | ~5,628 |
@@ -59,6 +59,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Holiday Get-Together | 0.40% | ~3,752 |
 | Near-Death Experience | 0.40% | ~3,752 |
 | Campbell's Chapel Legacy | 0.40% | ~3,752 |
+| Ancestor's Rite | 0.40% | ~3,752 |
 | Unforgettable Getaway | 0.40% | ~3,752 |
 | Cutting Out | 0.40% | ~3,752 |
 | Outrun Evil | 0.40% | ~3,752 |
@@ -79,7 +80,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Serial Killer | 0.30% | ~2,814 |
 | Escaping the Nightmare | 0.30% | ~2,814 |
 | Game Over | 0.30% | ~2,814 |
-| Ancestor's Rite | 0.30% | ~2,814 |
 | Devoted Gatekeeping | 0.30% | ~2,814 |
 | Shrine Apparatus | 0.30% | ~2,814 |
 | Broken Bodies | 0.30% | ~2,814 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~938 |
 | Adept Ripley | 0.10% | ~938 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 937,972 (Ranked 14)  
+Progressed: 938,068 (Ranked 14)  
 Completed: 50 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -413,10 +413,10 @@ Completed: 50 (0.01%) (Ranked 296)
 | 2023-10-11 | 933,163 | 49 |
 | 2023-10-12 | 934,954 | 50 |
 | 2023-10-13 | 937,037 | 50 |
-| 2023-10-14 | 937,972 | 50 |
+| 2023-10-14 | 938,068 | 50 |
 ## Awards
 Max (Diverse Characters): 33,877  (Ranked 15)  
-Sum: 262,042 (Ranked 13)  
+Sum: 262,073 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -426,7 +426,7 @@ Diff (max vs sum): 2
 | This game has Competitive Players | 29,588 |
 | This game is Extremely Fun | 29,264 |
 | This game has Challenging Combat | 28,824 |
-| This game has Quickly Understood Controls | 28,728 |
+| This game has Quickly Understood Controls | 28,759 |
 | This game has Amazing Storytelling | 26,876 |
 | This game has a Competitive Community | 25,360 |
 | This game has Obsessive Gameplay | 16,768 |
@@ -697,4 +697,4 @@ Diff (max vs sum): 2
 | 2023-10-11 | 4.51 | - | 33,734 | 261,382 |
 | 2023-10-12 | 4.51 | - | 33,781 | 261,674 |
 | 2023-10-13 | 4.51 | - | 33,824 | 261,989 |
-| 2023-10-14 | 4.51 | - | 33,877 | 262,042 |
+| 2023-10-14 | 4.51 | - | 33,877 | 262,073 |

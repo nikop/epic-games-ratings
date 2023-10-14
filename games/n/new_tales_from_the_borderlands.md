@@ -14,7 +14,7 @@ Rating: 4.08 (Ranked 940)
 | Tale in the Toilet | 29.00% | ~1,063 |
 | Don't Get Cocky | 27.00% | ~990 |
 | Shard Snatchers | 25.00% | ~917 |
-| You Rich Now! | 22.00% | ~807 |
+| You Rich Now! | 23.00% | ~843 |
 | Our Lucky Winner | 21.00% | ~770 |
 | You Poor Now! | 20.00% | ~733 |
 | You Got the Goods, Kid | 20.00% | ~733 |

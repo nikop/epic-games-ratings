@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3697,
+  "EOS_Progressed": 3698,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -4139,6 +4139,11 @@
       "Time": "2023-10-13T23:06:23.9403925+00:00",
       "NumProgressed": 3697,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-14T11:08:02.2624157+00:00",
+      "NumProgressed": 3698,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -4198,7 +4203,7 @@
       "Name": "You and what Army?",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 3253
+      "UsersEstimate": 3254
     },
     {
       "ID": "campaign10",
@@ -4302,7 +4307,7 @@
       "Name": "Economics 101",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 2255
+      "UsersEstimate": 2256
     },
     {
       "ID": "campaign4",
@@ -4366,7 +4371,7 @@
       "Name": "Full Employment",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "scenario3",
@@ -4413,7 +4418,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3697,
+      "Progressed": 3698,
       "Completed": 11
     }
   ],
@@ -4421,8 +4426,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-10-14T10:06:39.8270322+00:00",
+  "LastChanged_Achievements": "2023-10-14T11:08:02.2624153+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:08.2021033+00:00",
-  "LastUpdate_Ratings": "2023-10-14T09:59:28.762157+00:00",
-  "LastUpdate_Achievements": "2023-10-14T10:06:39.8270834+00:00"
+  "LastUpdate_Ratings": "2023-10-14T11:00:49.9610045+00:00",
+  "LastUpdate_Achievements": "2023-10-14T11:08:02.262472+00:00"
 }

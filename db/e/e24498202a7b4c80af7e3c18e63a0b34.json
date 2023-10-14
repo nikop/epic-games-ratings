@@ -84,7 +84,7 @@
   "Tags": [],
   "EOS_Progressed": 6070,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 340,
+  "EOS_NewPlayers": 338,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -3594,9 +3594,9 @@
       "ID": "achievement_04_06",
       "SetID": "4f1m94d",
       "Name": "Eclectic Driver",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 121
     },
     {
       "ID": "achievement_04_07",
@@ -3635,8 +3635,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-10-14T01:41:24.4458243+00:00",
-  "LastChanged_Achievements": "2023-10-14T10:05:47.1508908+00:00",
+  "LastChanged_Achievements": "2023-10-14T11:06:57.9669556+00:00",
   "LastUpdate_AppInfo": "2023-10-12T18:57:03.8112557+00:00",
-  "LastUpdate_Ratings": "2023-10-14T09:59:59.1566307+00:00",
-  "LastUpdate_Achievements": "2023-10-14T10:05:47.1509411+00:00"
+  "LastUpdate_Ratings": "2023-10-14T11:01:25.2704593+00:00",
+  "LastUpdate_Achievements": "2023-10-14T11:06:57.9670078+00:00"
 }

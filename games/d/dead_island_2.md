@@ -5,20 +5,20 @@ Rating: 4.54 (Ranked 510)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 4.00% | ~27,815 |
-| Welcome To Hell-A | 4.00% | ~27,815 |
-| Dr. Reed, I Presume? | 3.00% | ~20,861 |
-| Git Gutte! | 3.00% | ~20,861 |
-| Bookworm | 3.00% | ~20,861 |
-| Break A Leg | 3.00% | ~20,861 |
-| But Doctor, I am Butcho | 3.00% | ~20,861 |
-| Coup de Grâce | 3.00% | ~20,861 |
-| Hazardous Materials | 3.00% | ~20,861 |
-| Friends Like These | 3.00% | ~20,861 |
-| Apex Predator | 3.00% | ~20,861 |
-| Stacking the Deck | 3.00% | ~20,861 |
-| Personal Assistant Personally Assisted | 3.00% | ~20,861 |
-| This is My Weapon | 3.00% | ~20,861 |
+| Hotel California | 4.00% | ~27,816 |
+| Welcome To Hell-A | 4.00% | ~27,816 |
+| Dr. Reed, I Presume? | 3.00% | ~20,862 |
+| Git Gutte! | 3.00% | ~20,862 |
+| Bookworm | 3.00% | ~20,862 |
+| Break A Leg | 3.00% | ~20,862 |
+| But Doctor, I am Butcho | 3.00% | ~20,862 |
+| Coup de Grâce | 3.00% | ~20,862 |
+| Hazardous Materials | 3.00% | ~20,862 |
+| Friends Like These | 3.00% | ~20,862 |
+| Apex Predator | 3.00% | ~20,862 |
+| Stacking the Deck | 3.00% | ~20,862 |
+| Personal Assistant Personally Assisted | 3.00% | ~20,862 |
+| This is My Weapon | 3.00% | ~20,862 |
 | Making Your Mark | 2.00% | ~13,908 |
 | Anger Management | 2.00% | ~13,908 |
 | Perks of the Job | 2.00% | ~13,908 |
@@ -37,7 +37,7 @@ Rating: 4.54 (Ranked 510)
 | Max Headroom | 1.00% | ~6,954 |
 | Go, Bobcats! | 1.00% | ~6,954 |
 | Rising Star | 1.00% | ~6,954 |
-| Smorgasbord | 0.90% | ~6,258 |
+| Smorgasbord | 0.90% | ~6,259 |
 | Internet Famous | 0.80% | ~5,563 |
 | On Safari | 0.70% | ~4,868 |
 | Not Even My Final Form | 0.70% | ~4,868 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 510)
 | Donk! | 0.20% | ~1,391 |
 | Bucket List | 0.10% | ~695 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 695,380 (Ranked 22)  
+Progressed: 695,401 (Ranked 22)  
 Completed: 2,223 (0.32%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,18 +228,18 @@ Completed: 2,223 (0.32%) (Ranked 200)
 | 2023-10-11 | 694,263 | 2,210 |
 | 2023-10-12 | 694,718 | 2,216 |
 | 2023-10-13 | 695,203 | 2,223 |
-| 2023-10-14 | 695,380 | 2,223 |
+| 2023-10-14 | 695,401 | 2,223 |
 ## Awards
 Max (Great Boss Battles): 6,420  (Ranked 58)  
-Sum: 9,597 (Ranked 91)  
+Sum: 9,601 (Ranked 91)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,420 |
 | This game is Great for Beginners | 454 |
 | This game has Diverse Characters | 448 |
-| This game has Quickly Understood Controls | 420 |
-| This game is Relaxing | 403 |
+| This game has Quickly Understood Controls | 422 |
+| This game is Relaxing | 405 |
 | This game has Amazing Storytelling | 379 |
 | This game is Highly Recommended | 363 |
 | This game is Extremely Fun | 361 |
@@ -423,4 +423,4 @@ Diff (max vs sum): -33
 | 2023-10-11 | 4.54 | 6,398 | 9,555 |
 | 2023-10-12 | 4.54 | 6,407 | 9,574 |
 | 2023-10-13 | 4.54 | 6,420 | 9,594 |
-| 2023-10-14 | 4.54 | 6,420 | 9,597 |
+| 2023-10-14 | 4.54 | 6,420 | 9,601 |

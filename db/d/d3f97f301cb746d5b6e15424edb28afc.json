@@ -456,9 +456,9 @@
       "ID": "ACH_CAR_WASH_01",
       "SetID": "5fn8ia4",
       "Name": "Restored the Car Wash",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_CAR_WASH_02",
@@ -480,9 +480,9 @@
       "ID": "ACH_CAR_WASH_04",
       "SetID": "5fn8ia4",
       "Name": "Car Wash Lvl. 4",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_CAR_WASH_05",
@@ -496,9 +496,9 @@
       "ID": "ACH_FEED_GATOR",
       "SetID": "5fn8ia4",
       "Name": "Feed the Beast",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_FISH",
@@ -912,9 +912,9 @@
       "ID": "GSS_ACH_49_UPGRADE_STATION_03",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 4",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "GSS_ACH_50_UPGRADE_STATION_04",
@@ -1064,9 +1064,9 @@
       "ID": "GSS_ACH_68_POPULARITY_08",
       "SetID": "5fn8ia4",
       "Name": "In the Brochures",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "GSS_ACH_69_POPULARITY_09",
@@ -1112,9 +1112,9 @@
       "ID": "GSS_ACH_74_SANDSTORM",
       "SetID": "5fn8ia4",
       "Name": "Sandstorm!",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "GSS_ACH_75_RACE_02_COMPLETE",
@@ -1191,8 +1191,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-14T10:08:22.1474527+00:00",
+  "LastChanged_Achievements": "2023-10-14T11:08:41.6750482+00:00",
   "LastUpdate_AppInfo": "2023-10-09T13:09:09.0618232+00:00",
-  "LastUpdate_Ratings": "2023-10-14T09:59:26.235336+00:00",
-  "LastUpdate_Achievements": "2023-10-14T10:08:22.1475557+00:00"
+  "LastUpdate_Ratings": "2023-10-14T11:00:47.0762716+00:00",
+  "LastUpdate_Achievements": "2023-10-14T11:08:41.6751542+00:00"
 }

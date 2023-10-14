@@ -2320,10 +2320,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2385,
       "NumberOfAwardsMax": 262
+    },
+    {
+      "Time": "2023-10-14T10:58:56.0996723+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2386,
+      "NumberOfAwardsMax": 262
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2385,
+  "NumberOfAwards": 2386,
   "NumberOfAwardsMax": 262,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2385,7 +2391,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 233
+      "Count": 234
     },
     {
       "Text": "This game has Competitive Players",
@@ -2400,9 +2406,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26434,
+  "EOS_Progressed": 26435,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -14905,6 +14911,11 @@
       "Time": "2023-10-14T10:05:17.8029336+00:00",
       "NumProgressed": 26434,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-10-14T11:06:21.7781862+00:00",
+      "NumProgressed": 26435,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 51,
@@ -15323,16 +15334,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26434,
+      "Progressed": 26435,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-10-14T07:58:19.4048034+00:00",
-  "LastChanged_Achievements": "2023-10-14T10:05:17.8029321+00:00",
+  "LastChanged": "2023-10-14T10:58:56.0996721+00:00",
+  "LastChanged_Achievements": "2023-10-14T11:06:21.7781859+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:25.2013042+00:00",
-  "LastUpdate_Ratings": "2023-10-14T09:58:01.5417763+00:00",
-  "LastUpdate_Achievements": "2023-10-14T10:05:17.8030597+00:00"
+  "LastUpdate_Ratings": "2023-10-14T10:58:56.0996729+00:00",
+  "LastUpdate_Achievements": "2023-10-14T11:06:21.7783122+00:00"
 }

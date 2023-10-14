@@ -626,9 +626,9 @@
       "ID": "ACHIEVEMENT_2",
       "SetID": "7pimpda",
       "Name": "Training Simulation",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -706,9 +706,9 @@
       "ID": "ACHIEVEMENT_3",
       "SetID": "7pimpda",
       "Name": "Kuku Bird Hunter",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 30,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -794,9 +794,9 @@
       "ID": "ACHIEVEMENT_4",
       "SetID": "7pimpda",
       "Name": "Storm Traveller",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -858,9 +858,9 @@
       "ID": "ACHIEVEMENT_5",
       "SetID": "7pimpda",
       "Name": "Wolf King Killer",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -907,8 +907,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-10-14T10:04:27.7095716+00:00",
+  "LastChanged_Achievements": "2023-10-14T11:05:20.8822341+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:09.3139167+00:00",
-  "LastUpdate_Ratings": "2023-10-14T09:58:13.0822009+00:00",
-  "LastUpdate_Achievements": "2023-10-14T10:04:27.7096088+00:00"
+  "LastUpdate_Ratings": "2023-10-14T10:59:07.3814803+00:00",
+  "LastUpdate_Achievements": "2023-10-14T11:05:20.8822774+00:00"
 }

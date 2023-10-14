@@ -4,7 +4,7 @@
   "ProductSlug": "sands-of-aura",
   "Ranking_EOS_Progress": 669,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewPlayers": 394,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-10-21T13:00:00+00:00",
@@ -33,9 +33,475 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-10-14T11:03:32.7947841+00:00",
+  "TotalAchievements": 58,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ALAIRA_DEFEAT",
+      "SetID": "cm0d613",
+      "Name": "Rain Must Fall",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ALAIRA_MASTER",
+      "SetID": "cm0d613",
+      "Name": "No Salvation",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ALCHEMECT_DEFEAT",
+      "SetID": "cm0d613",
+      "Name": "Overboard",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ALCHEMECT_MASTER",
+      "SetID": "cm0d613",
+      "Name": "Unimpaired",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ALL_AURA_MOMENTS",
+      "SetID": "cm0d613",
+      "Name": "A Momentary Reflection",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ATNAEL_DEFEAT",
+      "SetID": "cm0d613",
+      "Name": "Prime Radiance",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ATNAEL_MASTER",
+      "SetID": "cm0d613",
+      "Name": "Barophobia",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AURA_DEFEAT",
+      "SetID": "cm0d613",
+      "Name": "Shattered Illusions",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AURA_MASTER",
+      "SetID": "cm0d613",
+      "Name": "Aura Mastered",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COLLECT_ALL_ARMOR",
+      "SetID": "cm0d613",
+      "Name": "One Size Fits All",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COLLECT_ALL_BREW_RECIPES",
+      "SetID": "cm0d613",
+      "Name": "Sommelier",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COLLECT_ALL_POMMEL_CASTS",
+      "SetID": "cm0d613",
+      "Name": "Pommelsmith",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COLLECT_ALL_TALISMANS",
+      "SetID": "cm0d613",
+      "Name": "The Trinket Tracker",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COLLECT_ALL_WEAPON_HEADS",
+      "SetID": "cm0d613",
+      "Name": "Bladesmith",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPLETE_ALAIRA_STORY",
+      "SetID": "cm0d613",
+      "Name": "Family Heirlooms",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPLETE_BAND",
+      "SetID": "cm0d613",
+      "Name": "Missing Melodies",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPLETE_CALDER_STORY_BAD",
+      "SetID": "cm0d613",
+      "Name": "A Casualty of Truth",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPLETE_CALDER_STORY_GOOD",
+      "SetID": "cm0d613",
+      "Name": "Ignorant Bliss",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPLETE_DANTHEA_STORY",
+      "SetID": "cm0d613",
+      "Name": "A Blunted Blade",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CRAGBOSS_DEFEAT",
+      "SetID": "cm0d613",
+      "Name": "A Small Thirsty Thing",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CRAGBOSS_MASTER",
+      "SetID": "cm0d613",
+      "Name": "A Supreme Kindness",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DANTHEA_DEFEAT",
+      "SetID": "cm0d613",
+      "Name": "Redeemer",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DANTHEA_MASTER",
+      "SetID": "cm0d613",
+      "Name": "Divine Guidance",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DECIDE_CREATURES_FATE",
+      "SetID": "cm0d613",
+      "Name": "Smotherly Love",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DEFEAT_BELFRY_SOLO",
+      "SetID": "cm0d613",
+      "Name": "Let Me Solo Them",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DEFEAT_FERRUM_BOSSES",
+      "SetID": "cm0d613",
+      "Name": "Dousing a Venerable Flame",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DEFEAT_ISHULAR_GIANT",
+      "SetID": "cm0d613",
+      "Name": "Hearld of the Holy Seat",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DISCOVER_ALL_ISLANDS",
+      "SetID": "cm0d613",
+      "Name": "Explorer",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DISCOVER_ONCEMAN_TOWN",
+      "SetID": "cm0d613",
+      "Name": "The River Styx",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DISCOVER_TRUE_LEISIS",
+      "SetID": "cm0d613",
+      "Name": "A Girl From Husker",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EINAR_DEFEAT",
+      "SetID": "cm0d613",
+      "Name": "Frigid Winds",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EINAR_MASTER",
+      "SetID": "cm0d613",
+      "Name": "Child of Ronkurth",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FINISH_GAME",
+      "SetID": "cm0d613",
+      "Name": "Port of Call",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FLARE_KNIGHT_DEFEAT",
+      "SetID": "cm0d613",
+      "Name": "The Guardian of Fire",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FLARE_KNIGHT_MASTER",
+      "SetID": "cm0d613",
+      "Name": "Unbridled Flame",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GRECKKO_DEFEAT",
+      "SetID": "cm0d613",
+      "Name": "Sovereignty of Irons",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GRECKKO_MASTER",
+      "SetID": "cm0d613",
+      "Name": "En Garde",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HASHARI_PRINCESS_DEFEAT",
+      "SetID": "cm0d613",
+      "Name": "Rotted Throne",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HASHARI_PRINCESS_MASTER",
+      "SetID": "cm0d613",
+      "Name": "Before Court and Council",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HOARD_GLINT",
+      "SetID": "cm0d613",
+      "Name": "A Sandwyrm\u0027s Hoard",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MAVETH_DEFEAT",
+      "SetID": "cm0d613",
+      "Name": "The Coming Dawn",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MAVETH_MASTER",
+      "SetID": "cm0d613",
+      "Name": "Maveth Mastered",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MAX_LVL_ITEM",
+      "SetID": "cm0d613",
+      "Name": "Top Tier Gear",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MELGOM_DEFEAT",
+      "SetID": "cm0d613",
+      "Name": "The End of Ancients",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MELGOM_MASTER",
+      "SetID": "cm0d613",
+      "Name": "Melgom Mastered",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "OVUM_TO_FURN",
+      "SetID": "cm0d613",
+      "Name": "Nurture Over Nature",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "OVUM_TO_KAUZZUM",
+      "SetID": "cm0d613",
+      "Name": "Nature Over Nurture",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RETURN_SCRIPTURE",
+      "SetID": "cm0d613",
+      "Name": "Leisis Bless You",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SMITH_UPGRADE_1",
+      "SetID": "cm0d613",
+      "Name": "Advanced Armaments",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SMITH_UPGRADE_2",
+      "SetID": "cm0d613",
+      "Name": "Artisan Armaments",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "START_GAME",
+      "SetID": "cm0d613",
+      "Name": "Setting Sail",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "UBAANI_DEFEAT",
+      "SetID": "cm0d613",
+      "Name": "Spirit Within",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "UBAANI_MASTER",
+      "SetID": "cm0d613",
+      "Name": "Reaching Vines",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "UNLOCK_HOME_ROOM",
+      "SetID": "cm0d613",
+      "Name": "Holding Out",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "USE_FLOWERING_VASCULATURE",
+      "SetID": "cm0d613",
+      "Name": "Transformative Nature",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WILGRAM_TWINS_DEFEAT",
+      "SetID": "cm0d613",
+      "Name": "Twin Thorns",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WILGRAM_TWINS_MASTER",
+      "SetID": "cm0d613",
+      "Name": "Savage Progeny",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WIN_STARSPIRE_TOURNAMENT",
+      "SetID": "cm0d613",
+      "Name": "Champion of Starspire",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "cm0d613",
@@ -48,8 +514,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2023-10-14T10:03:15.5803847+00:00",
+  "LastChanged_Achievements": "2023-10-14T11:03:32.7947771+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:16.9323834+00:00",
-  "LastUpdate_Ratings": "2023-10-14T10:00:00.6972286+00:00",
-  "LastUpdate_Achievements": "2023-10-14T10:03:15.5803928+00:00"
+  "LastUpdate_Ratings": "2023-10-14T11:01:27.8300448+00:00",
+  "LastUpdate_Achievements": "2023-10-14T11:03:32.8356307+00:00"
 }

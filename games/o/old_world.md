@@ -40,6 +40,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Naming Landmarks | 1.00% | ~147 |
 | Trade Caravan | 1.00% | ~147 |
 | Kushite Paganism | 1.00% | ~147 |
+| Brilliant | 0.90% | ~132 |
 | Fountainhead | 0.90% | ~132 |
 | Wise | 0.90% | ~132 |
 | Able Difficulty | 0.90% | ~132 |
@@ -50,7 +51,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Zoroastrianism | 0.90% | ~132 |
 | Kushite Pyramids | 0.90% | ~132 |
 | Drillmaster | 0.80% | ~117 |
-| Brilliant | 0.80% | ~117 |
 | Great | 0.80% | ~117 |
 | Colossus | 0.80% | ~117 |
 | Musaeum | 0.80% | ~117 |
@@ -74,6 +74,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Acropolis | 0.60% | ~88 |
 | Mausoleum | 0.60% | ~88 |
 | Learn to Play 3 | 0.60% | ~88 |
+| Building Wonders | 0.60% | ~88 |
 | Mythology | 0.60% | ~88 |
 | Win a Single Player Game | 0.60% | ~88 |
 | Intercessor | 0.50% | ~73 |
@@ -88,7 +89,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greece | 0.50% | ~73 |
 | Power to the People | 0.50% | ~73 |
 | Persian Paganism | 0.50% | ~73 |
-| Building Wonders | 0.50% | ~73 |
 | Legalism | 0.50% | ~73 |
 | Legionary | 0.50% | ~73 |
 | Double Victory | 0.50% | ~73 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,660 (Ranked 134)  
+Progressed: 14,661 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -526,7 +526,7 @@ Completed: 5 (0.03%) (Ranked 282)
 | 2023-10-11 | 14,606 | 5 |
 | 2023-10-12 | 14,624 | 5 |
 | 2023-10-13 | 14,652 | 5 |
-| 2023-10-14 | 14,660 | 5 |
+| 2023-10-14 | 14,661 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,836 (Ranked 210)  

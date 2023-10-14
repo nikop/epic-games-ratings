@@ -35,7 +35,7 @@
 | Operative | 42.00% | ~286 |
 | Veteran | 41.00% | ~280 |
 | Scholar | 41.00% | ~280 |
-| Power Full | 39.00% | ~266 |
+| Power Full | 40.00% | ~273 |
 | The Professor | 38.00% | ~259 |
 | Completionist | 37.00% | ~252 |
 | The Archangel | 36.00% | ~246 |
@@ -101,8 +101,8 @@
 | Last Witness | 18.00% | ~123 |
 | Well Connected | 17.00% | ~116 |
 | Throw Mastery | 16.00% | ~109 |
+| Executioner | 16.00% | ~109 |
 | Master and Commander | 16.00% | ~109 |
-| Executioner | 15.00% | ~102 |
 | Mail Slot | 14.00% | ~95 |
 | Patriot | 14.00% | ~95 |
 | Legend | 14.00% | ~95 |

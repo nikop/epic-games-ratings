@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -239,9 +239,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1957,
+  "EOS_Progressed": 1958,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -2889,6 +2889,11 @@
       "Time": "2023-10-13T23:06:16.6011597+00:00",
       "NumProgressed": 1957,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-14T11:07:53.8887175+00:00",
+      "NumProgressed": 1958,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -2900,7 +2905,7 @@
       "Name": "Become King",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 1448
+      "UsersEstimate": 1449
     },
     {
       "ID": "Collect20Gold",
@@ -2908,7 +2913,7 @@
       "Name": "Collect Gold",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 900
+      "UsersEstimate": 901
     },
     {
       "ID": "Collect20Iron",
@@ -2932,7 +2937,7 @@
       "Name": "Return the Statues",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "CollectAllWeaponsAndGear",
@@ -2964,7 +2969,7 @@
       "Name": "Complete the Chefs Book",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "CompleteElderFaction",
@@ -2980,7 +2985,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 1585
+      "UsersEstimate": 1586
     },
     {
       "ID": "CompleteHunterFaction",
@@ -3012,7 +3017,7 @@
       "Name": "End of the Mozis",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "DefeatRatnorRodentson",
@@ -3028,7 +3033,7 @@
       "Name": "Defeat Rattus Augustail",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "FixTheTravellersWagon",
@@ -3044,7 +3049,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 1233
+      "UsersEstimate": 1234
     },
     {
       "ID": "GetTHWeapon",
@@ -3052,7 +3057,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1115
+      "UsersEstimate": 1116
     },
     {
       "ID": "Kill25Bugs",
@@ -3068,7 +3073,7 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 1233
+      "UsersEstimate": 1234
     },
     {
       "ID": "Kill25Mozi",
@@ -3076,7 +3081,7 @@
       "Name": "Defeat 25 Mozis",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 939
+      "UsersEstimate": 940
     },
     {
       "ID": "MeetTheMoles",
@@ -3092,7 +3097,7 @@
       "Name": "Discover the mystery of the Kings Chambers",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "RepairChef",
@@ -3100,7 +3105,7 @@
       "Name": "Kitchen Ready To Cook",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 939
+      "UsersEstimate": 940
     },
     {
       "ID": "RepairSmith",
@@ -3108,7 +3113,7 @@
       "Name": "Smithy Ready to Craft",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 900
+      "UsersEstimate": 901
     },
     {
       "ID": "RepairThroneRoom",
@@ -3116,7 +3121,7 @@
       "Name": "Throne Room Fit For A King",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "RescueBrothers",
@@ -3124,7 +3129,7 @@
       "Name": "Rescue Redgi\u0027s Brothers",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1037
+      "UsersEstimate": 1038
     },
     {
       "ID": "ReturnPowerInMines",
@@ -3139,22 +3144,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1957,
+      "Progressed": 1958,
       "Completed": 9
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 598,
-      "Completed": 598
+      "Progressed": 599,
+      "Completed": 599
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-10-09T14:58:48.9405433+00:00",
-  "LastChanged_Achievements": "2023-10-14T10:06:33.0438596+00:00",
+  "LastChanged_Achievements": "2023-10-14T11:07:53.888717+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:43.6337882+00:00",
-  "LastUpdate_Ratings": "2023-10-14T10:00:37.640042+00:00",
-  "LastUpdate_Achievements": "2023-10-14T10:06:33.0438996+00:00"
+  "LastUpdate_Ratings": "2023-10-14T11:02:21.7059587+00:00",
+  "LastUpdate_Achievements": "2023-10-14T11:07:53.8887563+00:00"
 }

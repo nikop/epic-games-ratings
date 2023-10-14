@@ -2,9 +2,9 @@
   "ID": "d602fd70876141ba9bf4d54809c423d1",
   "Name": "The Evil Within",
   "ProductSlug": "the-evil-within",
-  "Ranking_EOS_Progress": 375,
+  "Ranking_EOS_Progress": 373,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 112,
+  "EOS_Progressed": 113,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -564,6 +564,11 @@
       "Time": "2023-10-13T22:07:15.1797626+00:00",
       "NumProgressed": 112,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-14T11:08:09.1027458+00:00",
+      "NumProgressed": 113,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T16:01:32.1694174+00:00",
@@ -574,7 +579,7 @@
       "ID": "ACHIEVEMENT_01",
       "SetID": "ap8553i",
       "Name": "What\u0027s in the Box?",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 20,
       "UsersEstimate": 41
     },
@@ -582,7 +587,7 @@
       "ID": "ACHIEVEMENT_02",
       "SetID": "ap8553i",
       "Name": "Old Flame",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 20,
       "UsersEstimate": 31
     },
@@ -600,7 +605,7 @@
       "Name": "Two on Two",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACHIEVEMENT_05",
@@ -614,9 +619,9 @@
       "ID": "ACHIEVEMENT_06",
       "SetID": "ap8553i",
       "Name": "Arachnophobia",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_07",
@@ -624,7 +629,7 @@
       "Name": "Slither into Oblivion",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -648,7 +653,7 @@
       "Name": "Another Day on the Job",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -712,7 +717,7 @@
       "Name": "Why Can\u0027t I Hold All This Ammo?",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -760,7 +765,7 @@
       "Name": "Krimson PD Fury",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -790,9 +795,9 @@
       "ID": "ACHIEVEMENT_28",
       "SetID": "ap8553i",
       "Name": "Drop It Like It\u0027s Hot",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_29",
@@ -896,7 +901,7 @@
       "Name": "Entry Level Electrician",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -1143,20 +1148,20 @@
     {
       "ID": "8ddjaeg",
       "IsBase": false,
-      "Progressed": 112,
+      "Progressed": 113,
       "Completed": 0
     },
     {
       "ID": "ap8553i",
       "IsBase": true,
-      "Progressed": 112,
+      "Progressed": 113,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-10-14T10:06:45.3521953+00:00",
+  "LastChanged_Achievements": "2023-10-14T11:08:09.1027453+00:00",
   "LastUpdate_AppInfo": "2023-10-11T21:57:06.97719+00:00",
-  "LastUpdate_Ratings": "2023-10-14T09:58:04.255085+00:00",
-  "LastUpdate_Achievements": "2023-10-14T10:06:45.3522816+00:00"
+  "LastUpdate_Ratings": "2023-10-14T10:59:00.1426033+00:00",
+  "LastUpdate_Achievements": "2023-10-14T11:08:09.1028333+00:00"
 }

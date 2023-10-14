@@ -2,12 +2,12 @@
   "ID": "72bdc702b4974024a69a5eb718a7a135",
   "Name": "Assassin\u0027s Creed Unity",
   "ProductSlug": "assassins-creed-unity",
-  "Ranking_Rating": 373,
+  "Ranking_Rating": 374,
   "Ranking_Popularity": 163,
   "Ranking_PopularitySum": 244,
   "Ranking_EOS_Progress": 669,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewPlayers": 394,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2014-11-11T16:00:00+00:00",
@@ -1792,6 +1792,6 @@
   "FirstSeen": "2022-07-22T20:21:14.6538569+00:00",
   "LastChanged": "2023-10-13T13:59:33.2538961+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:57:02.8836084+00:00",
-  "LastUpdate_Ratings": "2023-10-14T09:58:49.3537556+00:00",
-  "LastUpdate_Achievements": "2023-10-14T10:03:38.6461569+00:00"
+  "LastUpdate_Ratings": "2023-10-14T10:59:57.8890744+00:00",
+  "LastUpdate_Achievements": "2023-10-14T11:04:20.5437327+00:00"
 }

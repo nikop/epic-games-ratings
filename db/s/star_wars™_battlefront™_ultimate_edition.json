@@ -2,7 +2,7 @@
   "ID": "fefe1db11f534484987ef50ec1e25225",
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
-  "Ranking_EOS_Progress": 261,
+  "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 109,
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 624,
+  "EOS_Progressed": 627,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1686,6 +1686,11 @@
       "Time": "2023-10-14T10:04:38.0160873+00:00",
       "NumProgressed": 624,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-14T11:05:33.4360483+00:00",
+      "NumProgressed": 627,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -1730,7 +1735,7 @@
       "Name": "What\u0027s the cargo?",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "achievement_14",
@@ -1738,7 +1743,7 @@
       "Name": "Playing the objective",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "achievement_15",
@@ -1770,7 +1775,7 @@
       "Name": "The power of the Force",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "achievement_19",
@@ -1800,9 +1805,9 @@
       "ID": "achievement_21",
       "SetID": "271ol84",
       "Name": "Tell Jabba that I\u0027ve got his money",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 75
+      "UsersEstimate": 69
     },
     {
       "ID": "achievement_22",
@@ -1874,7 +1879,7 @@
       "Name": "Never tell me the odds!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "achievement_30",
@@ -1890,7 +1895,7 @@
       "Name": "Scrap collector",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "achievement_32",
@@ -1898,7 +1903,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "achievement_33",
@@ -1922,7 +1927,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 562
+      "UsersEstimate": 564
     },
     {
       "ID": "achievement_36",
@@ -1938,7 +1943,7 @@
       "Name": "Off to a good start",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 418
+      "UsersEstimate": 420
     },
     {
       "ID": "achievement_38",
@@ -1954,7 +1959,7 @@
       "Name": "Ackbar\u0027s Elite",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "achievement_4",
@@ -1970,7 +1975,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 337
+      "UsersEstimate": 339
     },
     {
       "ID": "achievement_41",
@@ -1986,7 +1991,7 @@
       "Name": "Not bad for a little furball",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "achievement_43",
@@ -2002,7 +2007,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "achievement_45",
@@ -2050,7 +2055,7 @@
       "Name": "Shoot first",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "achievement_50",
@@ -2066,7 +2071,7 @@
       "Name": "You have your moments",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "achievement_52",
@@ -2074,7 +2079,7 @@
       "Name": "When surrounded by war...",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "achievement_53",
@@ -2098,7 +2103,7 @@
       "Name": "Stop that Droid",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "achievement_56",
@@ -2130,7 +2135,7 @@
       "Name": "Onwards!",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "achievement_6",
@@ -2154,7 +2159,7 @@
       "Name": "The circle is now complete",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "achievement_62",
@@ -2178,7 +2183,7 @@
       "Name": "A cunning warrior",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "achievement_8",
@@ -2201,13 +2206,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 624,
+      "Progressed": 627,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 624,
+      "Progressed": 627,
       "Completed": 1
     }
   ],
@@ -2215,8 +2220,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-14T10:04:38.0160868+00:00",
+  "LastChanged_Achievements": "2023-10-14T11:05:33.4360478+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:04.2927905+00:00",
-  "LastUpdate_Ratings": "2023-10-14T10:03:11.2987429+00:00",
-  "LastUpdate_Achievements": "2023-10-14T10:04:38.0161666+00:00"
+  "LastUpdate_Ratings": "2023-10-14T11:03:25.1591004+00:00",
+  "LastUpdate_Achievements": "2023-10-14T11:05:33.4361265+00:00"
 }

@@ -6,21 +6,21 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,209 |
-| Until death do us apart | 4.00% | ~17,209 |
-| That is mine! | 3.00% | ~12,907 |
-| Victorious! | 3.00% | ~12,907 |
-| Brothers in Arms | 2.00% | ~8,604 |
-| Cold War | 2.00% | ~8,604 |
-| For the Glory | 2.00% | ~8,604 |
-| That's a Grand Navy | 2.00% | ~8,604 |
-| Seriously?! | 2.00% | ~8,604 |
-| Defender of the Faith | 1.00% | ~4,302 |
-| It's all about the money | 1.00% | ~4,302 |
-| Respected | 1.00% | ~4,302 |
-| The Princess is in this Castle | 1.00% | ~4,302 |
-| True Catholic | 1.00% | ~4,302 |
-| Truly Divine Ruler | 1.00% | ~4,302 |
+| That's a Grand Army | 4.00% | ~17,211 |
+| Until death do us apart | 4.00% | ~17,211 |
+| That is mine! | 3.00% | ~12,908 |
+| Victorious! | 3.00% | ~12,908 |
+| Brothers in Arms | 2.00% | ~8,605 |
+| Cold War | 2.00% | ~8,605 |
+| For the Glory | 2.00% | ~8,605 |
+| That's a Grand Navy | 2.00% | ~8,605 |
+| Seriously?! | 2.00% | ~8,605 |
+| Defender of the Faith | 1.00% | ~4,303 |
+| It's all about the money | 1.00% | ~4,303 |
+| Respected | 1.00% | ~4,303 |
+| The Princess is in this Castle | 1.00% | ~4,303 |
+| True Catholic | 1.00% | ~4,303 |
+| Truly Divine Ruler | 1.00% | ~4,303 |
 | It's all about luck | 0.90% | ~3,872 |
 | Blockader | 0.80% | ~3,442 |
 | Double the Love | 0.80% | ~3,442 |
@@ -45,23 +45,23 @@ Number of Ratings: 8,414  (23.09.2022)
 | Market Control | 0.30% | ~1,291 |
 | Populists in Government | 0.30% | ~1,291 |
 | Trustworthy | 0.30% | ~1,291 |
-| Absolutely | 0.20% | ~860 |
-| All belongs to Mother Russia | 0.20% | ~860 |
-| At every continent | 0.20% | ~860 |
-| Early-Modern Warfare | 0.20% | ~860 |
-| Electable! | 0.20% | ~860 |
-| Grand Coalition | 0.20% | ~860 |
-| In the Name of the Father | 0.20% | ~860 |
-| Italian Ambition | 0.20% | ~860 |
-| Just a Little Patience | 0.20% | ~860 |
-| One Family to Rule them All | 0.20% | ~860 |
-| Ruina Imperii | 0.20% | ~860 |
-| The pen is mightier than the sword | 0.20% | ~860 |
-| This is My Faith | 0.20% | ~860 |
-| Time Bandit | 0.20% | ~860 |
-| Traditional Player | 0.20% | ~860 |
-| Trophy Hunter | 0.20% | ~860 |
-| Voting Streak | 0.20% | ~860 |
+| Absolutely | 0.20% | ~861 |
+| All belongs to Mother Russia | 0.20% | ~861 |
+| At every continent | 0.20% | ~861 |
+| Early-Modern Warfare | 0.20% | ~861 |
+| Electable! | 0.20% | ~861 |
+| Grand Coalition | 0.20% | ~861 |
+| In the Name of the Father | 0.20% | ~861 |
+| Italian Ambition | 0.20% | ~861 |
+| Just a Little Patience | 0.20% | ~861 |
+| One Family to Rule them All | 0.20% | ~861 |
+| Ruina Imperii | 0.20% | ~861 |
+| The pen is mightier than the sword | 0.20% | ~861 |
+| This is My Faith | 0.20% | ~861 |
+| Time Bandit | 0.20% | ~861 |
+| Traditional Player | 0.20% | ~861 |
+| Trophy Hunter | 0.20% | ~861 |
+| Voting Streak | 0.20% | ~861 |
 | The 52 Garhs | 0.10% | ~430 |
 | I don't like sand | 0.10% | ~430 |
 | A Blessed Nation | 0.10% | ~430 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 430,218 (Ranked 40)  
+Progressed: 430,274 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -538,16 +538,16 @@ Completed: 1 (0.00%) (Ranked 314)
 | 2023-10-11 | 428,261 | 1 |
 | 2023-10-12 | 429,009 | 1 |
 | 2023-10-13 | 429,869 | 1 |
-| 2023-10-14 | 430,218 | 1 |
+| 2023-10-14 | 430,274 | 1 |
 ## Awards
 Max (Educational): 6,514  (Ranked 55)  
-Sum: 53,530 (Ranked 25)  
+Sum: 53,552 (Ranked 25)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 6,514 |
 | This game is Highly Recommended | 6,208 |
-| This game has Diverse Characters | 6,178 |
+| This game has Diverse Characters | 6,200 |
 | This game has Challenging Combat | 6,155 |
 | This game is Extremely Fun | 6,138 |
 | This game is Relaxing | 6,007 |
@@ -828,4 +828,4 @@ Diff (max vs sum): 30
 | 2023-10-11 | 4.69 | - | 6,479 | 53,243 |
 | 2023-10-12 | 4.69 | - | 6,494 | 53,343 |
 | 2023-10-13 | 4.69 | - | 6,514 | 53,477 |
-| 2023-10-14 | 4.69 | - | 6,514 | 53,530 |
+| 2023-10-14 | 4.69 | - | 6,514 | 53,552 |
