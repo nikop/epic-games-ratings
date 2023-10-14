@@ -1,10 +1,10 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 50.79% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 50.76% |
 | 3 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 47.17% |
-| 5 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.15% |
+| 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.15% |
+| 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.99% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 31.86% |
 | 8 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
@@ -39,7 +39,7 @@
 | 36 | [Smelter](games/s/smelter.md) | 10.00% |
 | 36 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.00% |
 | 39 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
-| 40 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.04% |
+| 40 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.03% |
 | 41 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.67% |
 | 42 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 42 | [Ravenlok](games/r/ravenlok.md) | 7.69% |
@@ -66,11 +66,11 @@
 | 64 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.76% |
 | 65 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.73% |
 | 66 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.55% |
-| 67 | [ZZT!](games/z/zzt!.md) | 4.49% |
+| 67 | [ZZT!](games/z/zzt!.md) | 4.48% |
 | 68 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.46% |
 | 69 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.11% |
 | 70 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.02% |
-| 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.92% |
+| 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.93% |
 | 72 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 3.91% |
 | 73 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.83% |
 | 74 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
