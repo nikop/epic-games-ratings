@@ -49,7 +49,7 @@
 | 47 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.41% |
 | 48 | [Time Loader](games/t/time_loader.md) | 7.20% |
 | 49 | [Scorn](games/s/scorn.md) | 7.02% |
-| 50 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.69% |
+| 50 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.67% |
 | 51 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.52% |
 | 52 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.29% |
 | 53 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -75,7 +75,7 @@
 | 73 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.83% |
 | 74 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
 | 75 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.70% |
-| 76 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.63% |
+| 76 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.62% |
 | 77 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
 | 77 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.57% |
 | 79 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
@@ -95,7 +95,7 @@
 | 92 | [FORECLOSED](games/f/foreclosed.md) | 2.86% |
 | 92 | [Mega City Police](games/m/mega_city_police.md) | 2.86% |
 | 95 | [Destiny 2](games/d/destiny_2.md) | 2.80% |
-| 96 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.74% |
+| 96 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 97 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.68% |
 | 98 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.65% |
 | 99 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 2.63% |
@@ -114,9 +114,9 @@
 | 112 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.97% |
 | 113 | [Night Book](games/n/night_book.md) | 1.85% |
 | 113 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.85% |
-| 115 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.82% |
-| 116 | [Sifu](games/s/sifu.md) | 1.81% |
-| 117 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.80% |
+| 115 | [Sifu](games/s/sifu.md) | 1.81% |
+| 116 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.80% |
+| 116 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.80% |
 | 118 | [Frogun](games/f/frogun.md) | 1.79% |
 | 118 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 1.79% |
 | 120 | [Somerville](games/s/somerville.md) | 1.70% |
@@ -138,8 +138,8 @@
 | 136 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 1.27% |
 | 137 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.18% |
 | 138 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.13% |
-| 139 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.09% |
-| 139 | [Trifox](games/t/trifox.md) | 1.09% |
+| 139 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.10% |
+| 140 | [Trifox](games/t/trifox.md) | 1.09% |
 | 141 | [Adios](games/a/adios.md) | 1.05% |
 | 141 | [Infindustry](games/i/infindustry.md) | 1.05% |
 | 141 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.05% |
@@ -239,13 +239,13 @@
 | 237 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
 | 237 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.13% |
 | 237 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
-| 240 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.12% |
 | 240 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
 | 240 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
 | 240 | [Shop Titans](games/s/shop_titans.md) | 0.12% |
-| 244 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.11% |
-| 244 | [Isonzo](games/i/isonzo.md) | 0.11% |
-| 244 | [Outward Definitive Edition](games/o/outward.md) | 0.11% |
+| 243 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.11% |
+| 243 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.11% |
+| 243 | [Isonzo](games/i/isonzo.md) | 0.11% |
+| 243 | [Outward Definitive Edition](games/o/outward.md) | 0.11% |
 | 247 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
 | 247 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.10% |
 | 247 | [House Flipper](games/h/house_flipper.md) | 0.10% |
