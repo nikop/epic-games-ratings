@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 125,
   "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-05-04T07:00:00+00:00",
     "PcReleaseDate": "2023-05-04T07:00:00+00:00",
@@ -401,9 +401,9 @@
       "ID": "bathroom_brawler",
       "SetID": "5anb57n",
       "Name": "Bathroom Brawler",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "breathless_end",
@@ -536,8 +536,8 @@
   ],
   "FirstSeen": "2023-05-13T16:58:04.6283661+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:18.2098384+00:00",
-  "LastChanged_Achievements": "2023-10-14T13:11:39.2273799+00:00",
+  "LastChanged_Achievements": "2023-10-14T14:08:13.9918349+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:16.5255346+00:00",
-  "LastUpdate_Ratings": "2023-10-14T13:03:15.450473+00:00",
-  "LastUpdate_Achievements": "2023-10-14T13:11:39.2273946+00:00"
+  "LastUpdate_Ratings": "2023-10-14T14:00:14.4917856+00:00",
+  "LastUpdate_Achievements": "2023-10-14T14:08:13.9918502+00:00"
 }

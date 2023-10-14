@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1305,9 +1305,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 9588,
+  "EOS_Progressed": 9589,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14760,6 +14760,11 @@
       "Time": "2023-10-14T13:08:51.9648815+00:00",
       "NumProgressed": 9588,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-14T14:05:45.7330833+00:00",
+      "NumProgressed": 9589,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -14867,7 +14872,7 @@
       "Name": "Famous Healer",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 3643
+      "UsersEstimate": 3644
     },
     {
       "ID": "21",
@@ -14875,7 +14880,7 @@
       "Name": "The Great Healer",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 2972
+      "UsersEstimate": 2973
     },
     {
       "ID": "22",
@@ -14883,7 +14888,7 @@
       "Name": "First Step",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 6999
+      "UsersEstimate": 7000
     },
     {
       "ID": "23",
@@ -14931,7 +14936,7 @@
       "Name": "Merchant",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 2109
+      "UsersEstimate": 2110
     },
     {
       "ID": "29",
@@ -14987,7 +14992,7 @@
       "Name": "Ice Lakes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 2109
+      "UsersEstimate": 2110
     },
     {
       "ID": "35",
@@ -15067,7 +15072,7 @@
       "Name": "Prepared for Anything",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1246
+      "UsersEstimate": 1247
     },
     {
       "ID": "44",
@@ -15123,7 +15128,7 @@
       "Name": "Big Catastrofan",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1246
+      "UsersEstimate": 1247
     },
     {
       "ID": "50",
@@ -15227,7 +15232,7 @@
       "Name": "Real Survivor",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 2109
+      "UsersEstimate": 2110
     },
     {
       "ID": "9",
@@ -15242,15 +15247,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 9588,
+      "Progressed": 9589,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-10-13T05:57:40.9154054+00:00",
-  "LastChanged_Achievements": "2023-10-14T13:08:51.9648811+00:00",
+  "LastChanged_Achievements": "2023-10-14T14:05:45.7330826+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:49.8010243+00:00",
-  "LastUpdate_Ratings": "2023-10-14T13:00:45.4952254+00:00",
-  "LastUpdate_Achievements": "2023-10-14T13:08:51.9650202+00:00"
+  "LastUpdate_Ratings": "2023-10-14T13:58:08.8130906+00:00",
+  "LastUpdate_Achievements": "2023-10-14T14:05:45.733203+00:00"
 }

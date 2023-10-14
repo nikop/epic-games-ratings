@@ -37,7 +37,7 @@
 | What Even Are You? | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 172 (Ranked 348)  
-Completed: 1 (0.58%) (Ranked 165)  
+Completed: 2 (1.16%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -105,6 +105,7 @@ Completed: 1 (0.58%) (Ranked 165)
 | 2023-09-24 | 170 | 1 |
 | 2023-09-28 | 171 | 1 |
 | 2023-10-04 | 172 | 1 |
+| 2023-10-14 | 172 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

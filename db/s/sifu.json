@@ -6960,9 +6960,9 @@
       "Count": 400
     }
   ],
-  "EOS_Progressed": 715672,
+  "EOS_Progressed": 715673,
   "EOS_Completed": 12919,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -22780,6 +22780,11 @@
       "Time": "2023-10-14T13:05:44.6355687+00:00",
       "NumProgressed": 715672,
       "NumCompleted": 12919
+    },
+    {
+      "Time": "2023-10-14T14:03:06.2723238+00:00",
+      "NumProgressed": 715673,
+      "NumCompleted": 12919
     }
   ],
   "TotalAchievements": 60,
@@ -23253,9 +23258,9 @@
       "ID": "59_Arena_CustomMode",
       "SetID": "14c2oii",
       "Name": "Fight the way you practice",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 100
     },
     {
       "ID": "60_Arena_Randomizer",
@@ -23270,21 +23275,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 24973,
+      "Progressed": 24974,
       "Completed": 10703
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 715672,
+      "Progressed": 715673,
       "Completed": 12919
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-10-14T08:01:21.0102289+00:00",
-  "LastChanged_Achievements": "2023-10-14T13:05:44.6355682+00:00",
+  "LastChanged_Achievements": "2023-10-14T14:03:06.2723231+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:42.9664628+00:00",
-  "LastUpdate_Ratings": "2023-10-14T13:04:05.4116951+00:00",
-  "LastUpdate_Achievements": "2023-10-14T13:05:44.6359931+00:00"
+  "LastUpdate_Ratings": "2023-10-14T14:00:56.0826781+00:00",
+  "LastUpdate_Achievements": "2023-10-14T14:03:06.2727901+00:00"
 }

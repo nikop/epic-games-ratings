@@ -3,12 +3,12 @@
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 978,
-  "Ranking_Popularity": 206,
+  "Ranking_Popularity": 205,
   "Ranking_PopularitySum": 192,
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -3952,11 +3952,17 @@
       "Rating": 3.94,
       "NumberOfAwards": 2340,
       "NumberOfAwardsMax": 490
+    },
+    {
+      "Time": "2023-10-14T13:58:38.0299191+00:00",
+      "Rating": 3.94,
+      "NumberOfAwards": 2341,
+      "NumberOfAwardsMax": 491
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 2340,
-  "NumberOfAwardsMax": 490,
+  "NumberOfAwards": 2341,
+  "NumberOfAwardsMax": 491,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -3969,7 +3975,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 490
+      "Count": 491
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4008,9 +4014,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 89062,
+  "EOS_Progressed": 89067,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 207,
+  "EOS_NewPlayers": 208,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -22133,6 +22139,11 @@
       "Time": "2023-10-14T13:10:15.9738058+00:00",
       "NumProgressed": 89062,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-14T14:06:39.4662179+00:00",
+      "NumProgressed": 89067,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 41,
@@ -22160,7 +22171,7 @@
       "Name": "Roid Ranger",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 712
+      "UsersEstimate": 713
     },
     {
       "ID": "ACH_0013",
@@ -22318,9 +22329,9 @@
       "ID": "ACH_0300",
       "SetID": "3kam13l",
       "Name": "Olympus Ascended",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 55,
-      "UsersEstimate": 178
+      "UsersEstimate": 267
     },
     {
       "ID": "ACH_0310",
@@ -22376,7 +22387,7 @@
       "Name": "Fancy Pants",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 712
+      "UsersEstimate": 713
     },
     {
       "ID": "ACH_0431",
@@ -22471,22 +22482,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 89062,
+      "Progressed": 89067,
       "Completed": 49
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 17409,
+      "Progressed": 17414,
       "Completed": 15546
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-10-14T04:59:21.5247904+00:00",
-  "LastChanged_Achievements": "2023-10-14T13:10:15.9738049+00:00",
+  "LastChanged": "2023-10-14T13:58:38.0299189+00:00",
+  "LastChanged_Achievements": "2023-10-14T14:06:39.4662172+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:16.9897613+00:00",
-  "LastUpdate_Ratings": "2023-10-14T13:01:17.7261175+00:00",
-  "LastUpdate_Achievements": "2023-10-14T13:10:15.9739504+00:00"
+  "LastUpdate_Ratings": "2023-10-14T13:58:38.0299196+00:00",
+  "LastUpdate_Achievements": "2023-10-14T14:06:39.4663788+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 669,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 393,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2020-03-19T13:51:00+00:00",
     "PcReleaseDate": null,
@@ -9804,18 +9804,24 @@
       "Rating": 4.53,
       "NumberOfAwards": 57530,
       "NumberOfAwardsMax": 22735
+    },
+    {
+      "Time": "2023-10-14T14:02:04.3003369+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 57566,
+      "NumberOfAwardsMax": 22765
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 57530,
-  "NumberOfAwardsMax": 22735,
+  "NumberOfAwards": 57566,
+  "NumberOfAwardsMax": 22765,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 22735
+      "Count": 22765
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -9863,7 +9869,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 3059
+      "Count": 3065
     },
     {
       "Text": "This game is Relaxing",
@@ -9889,8 +9895,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:00.3029746+00:00",
-  "LastChanged": "2023-10-14T05:02:47.6045258+00:00",
+  "LastChanged": "2023-10-14T14:02:04.3003367+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:01.7361327+00:00",
-  "LastUpdate_Ratings": "2023-10-14T13:05:08.1061225+00:00",
-  "LastUpdate_Achievements": "2023-10-14T13:09:03.1962815+00:00"
+  "LastUpdate_Ratings": "2023-10-14T14:02:04.3003375+00:00",
+  "LastUpdate_Achievements": "2023-10-14T14:05:55.2918391+00:00"
 }

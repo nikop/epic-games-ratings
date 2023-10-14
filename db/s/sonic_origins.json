@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 45,
   "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-06-23T04:00:00+00:00",
     "PcReleaseDate": "2022-06-23T04:00:00+00:00",
@@ -2651,9 +2651,9 @@
       "ID": "ID_30_TRANSFORM_SUPER_SONIC",
       "SetID": "7o8nc5m",
       "Name": "Super Sonic",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 237
+      "UsersEstimate": 243
     },
     {
       "ID": "ID_31_SONIC1_CLEAR_ALL_STAGE",
@@ -2707,8 +2707,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-10-04T20:01:39.9838728+00:00",
-  "LastChanged_Achievements": "2023-10-14T13:11:25.659993+00:00",
+  "LastChanged_Achievements": "2023-10-14T14:07:32.3931696+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:14.4441586+00:00",
-  "LastUpdate_Ratings": "2023-10-14T13:03:36.9510016+00:00",
-  "LastUpdate_Achievements": "2023-10-14T13:11:25.6600335+00:00"
+  "LastUpdate_Ratings": "2023-10-14T14:00:33.4144276+00:00",
+  "LastUpdate_Achievements": "2023-10-14T14:07:32.3932142+00:00"
 }

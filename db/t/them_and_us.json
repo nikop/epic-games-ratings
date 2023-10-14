@@ -4,8 +4,8 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 393,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
     "PcReleaseDate": "2021-09-28T16:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 217,
+  "EOS_Progressed": 218,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -933,6 +933,11 @@
       "Time": "2023-10-05T20:03:38.5139713+00:00",
       "NumProgressed": 217,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-14T14:04:40.8044717+00:00",
+      "NumProgressed": 218,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -952,7 +957,7 @@
       "Name": "Alone In The Dark",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ETUA_AlonewithThem",
@@ -1038,9 +1043,9 @@
       "ID": "ETUA_ForcedtoKill",
       "SetID": "65jc0ap",
       "Name": "Forced to Kill",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 153
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -1192,7 +1197,7 @@
       "Name": "The Cultists",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ETUA_TheCurseIsReal",
@@ -1232,7 +1237,7 @@
       "Name": "A Night To Remember",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ETUA_Trapped",
@@ -1263,7 +1268,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 217,
+      "Progressed": 218,
       "Completed": 1
     }
   ],
@@ -1271,8 +1276,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-10-14T13:07:34.9117051+00:00",
-  "LastUpdate_AppInfo": "2023-10-07T12:59:10.2834999+00:00",
-  "LastUpdate_Ratings": "2023-10-14T13:02:53.7853749+00:00",
-  "LastUpdate_Achievements": "2023-10-14T13:07:34.9117457+00:00"
+  "LastChanged_Achievements": "2023-10-14T14:04:40.804471+00:00",
+  "LastUpdate_AppInfo": "2023-10-14T13:56:58.0301725+00:00",
+  "LastUpdate_Ratings": "2023-10-14T13:59:55.1869641+00:00",
+  "LastUpdate_Achievements": "2023-10-14T14:04:40.8045061+00:00"
 }

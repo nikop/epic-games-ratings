@@ -10,6 +10,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | The Old Grandmaster | 0.40% | ~2,863 |
 | Life is your teacher | 0.40% | ~2,863 |
 | Project Arena | 0.40% | ~100 |
+| Fight the way you practice | 0.40% | ~100 |
 | The Assault | 0.30% | ~2,147 |
 | The Hateful Pole Fighter | 0.30% | ~2,147 |
 | A Lady's Blood in the Snow | 0.30% | ~2,147 |
@@ -25,7 +26,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Path of the Prospect | 0.30% | ~2,147 |
 | Rumble in the Hangar | 0.30% | ~2,147 |
 | Martial Hub | 0.30% | ~75 |
-| Fight the way you practice | 0.30% | ~75 |
 | Furious Fists | 0.20% | ~1,431 |
 | Scareless | 0.20% | ~1,431 |
 | Dance of the Praying Mantis | 0.20% | ~1,431 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Beatmaker | 0.10% | ~25 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,672 (Ranked 20)  
+Progressed: 715,673 (Ranked 20)  
 Completed: 12,919 (1.81%) (Ranked 115)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 12,919 (1.81%) (Ranked 115)
 | 2023-10-11 | 715,612 | 12,917 |
 | 2023-10-12 | 715,630 | 12,918 |
 | 2023-10-13 | 715,655 | 12,919 |
-| 2023-10-14 | 715,672 | 12,919 |
+| 2023-10-14 | 715,673 | 12,919 |
 ## Awards
 Max (Great Boss Battles): 6,675  (Ranked 54)  
 Sum: 11,578 (Ranked 83)  

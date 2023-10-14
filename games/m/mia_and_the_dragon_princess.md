@@ -12,10 +12,10 @@
 | Explosive End | 21.00% | ~15 |
 | A Box of Tricks | 20.00% | ~14 |
 | Backstory Buff | 17.00% | ~12 |
+| Bathroom Brawler | 17.00% | ~12 |
 | Codebreaker | 17.00% | ~12 |
 | Finger-Lickin' Bad | 17.00% | ~12 |
 | Set Sail | 17.00% | ~12 |
-| Bathroom Brawler | 16.00% | ~11 |
 | Flying High | 16.00% | ~11 |
 | Breathless End | 14.00% | ~10 |
 | Key Keeper's Curse | 4.00% | ~3 |

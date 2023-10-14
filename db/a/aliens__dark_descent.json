@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 252,
   "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -348,7 +348,7 @@
       "Count": 31
     }
   ],
-  "EOS_Progressed": 3470,
+  "EOS_Progressed": 3471,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
@@ -5123,6 +5123,11 @@
       "Time": "2023-10-14T09:08:30.7684064+00:00",
       "NumProgressed": 3470,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-14T14:07:19.0295174+00:00",
+      "NumProgressed": 3471,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -5166,7 +5171,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 1839
+      "UsersEstimate": 1840
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -5230,7 +5235,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 2568
+      "UsersEstimate": 2569
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -5246,7 +5251,7 @@
       "Name": "Call Me Snake",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 2186
+      "UsersEstimate": 2187
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -5254,7 +5259,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 2325
+      "UsersEstimate": 2326
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -5334,7 +5339,7 @@
       "Name": "First Steps Into Madness",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 1839
+      "UsersEstimate": 1840
     },
     {
       "ID": "ACH_MISSION_03",
@@ -5342,7 +5347,7 @@
       "Name": "Harper\u0027s Hell",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1596
+      "UsersEstimate": 1597
     },
     {
       "ID": "ACH_MISSION_04",
@@ -5382,7 +5387,7 @@
       "Name": "Deep Into Insanity",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1006
+      "UsersEstimate": 1007
     },
     {
       "ID": "ACH_MISSION_09",
@@ -5406,7 +5411,7 @@
       "Name": "Excavating The Truth",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "ACH_MISSION_12",
@@ -5430,7 +5435,7 @@
       "Name": "Snatched Out",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 2568
+      "UsersEstimate": 2569
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -5438,7 +5443,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 2811
+      "UsersEstimate": 2812
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -5446,7 +5451,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 2082
+      "UsersEstimate": 2083
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -5462,7 +5467,7 @@
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1457
+      "UsersEstimate": 1458
     },
     {
       "ID": "ACH_SENTRY_KILLS",
@@ -5470,7 +5475,7 @@
       "Name": "Recouped Investment",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1353
+      "UsersEstimate": 1354
     },
     {
       "ID": "ACH_UNLOCK_APC",
@@ -5493,7 +5498,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3470,
+      "Progressed": 3471,
       "Completed": 3
     }
   ],
@@ -5501,8 +5506,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-10-12T17:00:05.6617832+00:00",
-  "LastChanged_Achievements": "2023-10-14T13:11:09.561823+00:00",
+  "LastChanged_Achievements": "2023-10-14T14:07:19.0295166+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:06.8958078+00:00",
-  "LastUpdate_Ratings": "2023-10-14T13:02:58.042296+00:00",
-  "LastUpdate_Achievements": "2023-10-14T13:11:09.5618889+00:00"
+  "LastUpdate_Ratings": "2023-10-14T13:59:58.8709356+00:00",
+  "LastUpdate_Achievements": "2023-10-14T14:07:19.0296416+00:00"
 }

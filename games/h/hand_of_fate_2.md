@@ -6,16 +6,16 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~477,564 |
-| Apprentice | 58.00% | ~384,705 |
-| Close Shave | 25.00% | ~165,821 |
-| Mercenary | 23.00% | ~152,555 |
-| Ninja | 23.00% | ~152,555 |
-| Northern Scourge | 17.00% | ~112,758 |
+| The Fool | 72.00% | ~477,568 |
+| Apprentice | 58.00% | ~384,708 |
+| Close Shave | 25.00% | ~165,822 |
+| Mercenary | 23.00% | ~152,556 |
+| Ninja | 23.00% | ~152,556 |
+| Northern Scourge | 17.00% | ~112,759 |
 | Thief Bane | 14.00% | ~92,860 |
-| Master of Arms | 12.00% | ~79,594 |
-| Gambler | 10.00% | ~66,328 |
-| Dice Master | 10.00% | ~66,328 |
+| Master of Arms | 12.00% | ~79,595 |
+| Gambler | 10.00% | ~66,329 |
+| Dice Master | 10.00% | ~66,329 |
 | Swordsman | 9.00% | ~59,696 |
 | Knight | 8.00% | ~53,063 |
 | Cure for Corruption | 8.00% | ~53,063 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~663 |
 | Blood Pact | 0.10% | ~663 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 663,284 (Ranked 25)  
+Progressed: 663,289 (Ranked 25)  
 Completed: 171 (0.03%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,7 +232,7 @@ Completed: 171 (0.03%) (Ranked 282)
 | 2023-10-11 | 663,191 | 170 |
 | 2023-10-12 | 663,232 | 171 |
 | 2023-10-13 | 663,262 | 171 |
-| 2023-10-14 | 663,284 | 171 |
+| 2023-10-14 | 663,289 | 171 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 455)  
 Sum: 186 (Ranked 393)  

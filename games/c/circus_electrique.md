@@ -10,7 +10,7 @@ Number of Ratings: 22  (23.09.2022)
 | Grand Opening | 42.00% | ~198 |
 | Circus Electrique Proudly Presents... | 42.00% | ~198 |
 | Path of Learning | 42.00% | ~198 |
-| Built in a Day | 34.00% | ~160 |
+| Built in a Day | 35.00% | ~165 |
 | More Brain Than Brawn | 30.00% | ~141 |
 | Perfect Illusion | 24.00% | ~113 |
 | Hundred Percent First | 24.00% | ~113 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 248,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -361,9 +361,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4723,
+  "EOS_Progressed": 4724,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -2731,6 +2731,11 @@
       "Time": "2023-10-13T08:09:45.8844386+00:00",
       "NumProgressed": 4723,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-10-14T14:08:29.4267193+00:00",
+      "NumProgressed": 4724,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 67,
@@ -2798,7 +2803,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4440
+      "UsersEstimate": 4441
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -2830,7 +2835,7 @@
       "Name": "Gear Up",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 708
+      "UsersEstimate": 709
     },
     {
       "ID": "ID_ACHIEV_13",
@@ -3086,7 +3091,7 @@
       "Name": "OPERATOR",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1700
+      "UsersEstimate": 1701
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -3277,15 +3282,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4723,
+      "Progressed": 4724,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-08-16T19:59:29.2344729+00:00",
-  "LastChanged_Achievements": "2023-10-14T13:12:07.7092911+00:00",
+  "LastChanged_Achievements": "2023-10-14T14:08:29.4267185+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:02.3390771+00:00",
-  "LastUpdate_Ratings": "2023-10-14T13:02:29.397847+00:00",
-  "LastUpdate_Achievements": "2023-10-14T13:12:07.7093828+00:00"
+  "LastUpdate_Ratings": "2023-10-14T13:59:35.4913717+00:00",
+  "LastUpdate_Achievements": "2023-10-14T14:08:29.4268544+00:00"
 }

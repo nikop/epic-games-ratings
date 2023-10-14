@@ -56,7 +56,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great | 0.80% | ~117 |
 | Colossus | 0.80% | ~117 |
 | Musaeum | 0.80% | ~117 |
-| Necropolis | 0.80% | ~117 |
 | Learn to Play 1 | 0.80% | ~117 |
 | Regicide | 0.70% | ~103 |
 | Mighty | 0.70% | ~103 |
@@ -65,7 +64,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just Difficulty | 0.70% | ~103 |
 | Artisans | 0.70% | ~103 |
 | Apadana | 0.70% | ~103 |
+| Necropolis | 0.70% | ~103 |
 | Learn to Play 2 | 0.70% | ~103 |
+| Mythology | 0.70% | ~103 |
 | Hanging Gardens in Babylon | 0.60% | ~88 |
 | Beloved | 0.60% | ~88 |
 | Conqueror | 0.60% | ~88 |
@@ -75,7 +76,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mausoleum | 0.60% | ~88 |
 | Learn to Play 3 | 0.60% | ~88 |
 | Building Wonders | 0.60% | ~88 |
-| Mythology | 0.60% | ~88 |
 | Win a Single Player Game | 0.60% | ~88 |
 | Intercessor | 0.50% | ~73 |
 | Lion | 0.50% | ~73 |
@@ -85,13 +85,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Riders | 0.50% | ~73 |
 | Circus Maximus | 0.50% | ~73 |
 | Hagia Sophia | 0.50% | ~73 |
+| Temple of Solomon | 0.50% | ~73 |
 | Pantheon | 0.50% | ~73 |
 | Via Recta Souk | 0.50% | ~73 |
 | Greece | 0.50% | ~73 |
 | Power to the People | 0.50% | ~73 |
 | Persian Paganism | 0.50% | ~73 |
 | Legalism | 0.50% | ~73 |
-| Cimmerian Archer | 0.50% | ~73 |
 | Legionary | 0.50% | ~73 |
 | Double Victory | 0.50% | ~73 |
 | Points Victory | 0.50% | ~73 |
@@ -104,7 +104,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Traders | 0.40% | ~59 |
 | Hittite Iron | 0.40% | ~59 |
 | Church of the Holy Sepulchre | 0.40% | ~59 |
-| Temple of Solomon | 0.40% | ~59 |
 | Learn to Play 4 | 0.40% | ~59 |
 | Babylonia | 0.40% | ~59 |
 | Assyrian Paganism | 0.40% | ~59 |
@@ -114,6 +113,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Gnosticism | 0.40% | ~59 |
 | Redemption | 0.40% | ~59 |
 | Revelation | 0.40% | ~59 |
+| Cimmerian Archer | 0.40% | ~59 |
 | Mounted Lancer | 0.40% | ~59 |
 | Phalangite | 0.40% | ~59 |
 | The Clergy | 0.40% | ~59 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,664 (Ranked 134)  
+Progressed: 14,668 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -526,7 +526,7 @@ Completed: 5 (0.03%) (Ranked 282)
 | 2023-10-11 | 14,606 | 5 |
 | 2023-10-12 | 14,624 | 5 |
 | 2023-10-13 | 14,652 | 5 |
-| 2023-10-14 | 14,664 | 5 |
+| 2023-10-14 | 14,668 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,836 (Ranked 210)  

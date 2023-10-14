@@ -10,8 +10,8 @@ Rating: 3.94 (Ranked 978)
 | First One’s Free | 1.00% | ~891 |
 | Downed but Not Outed | 1.00% | ~891 |
 | Too Old for This | 1.00% | ~891 |
-| Roid Ranger | 0.80% | ~712 |
-| Fancy Pants | 0.80% | ~712 |
+| Roid Ranger | 0.80% | ~713 |
+| Fancy Pants | 0.80% | ~713 |
 | King of the Hill | 0.70% | ~623 |
 | Off the Rocks | 0.70% | ~623 |
 | Raider’s Ruin | 0.70% | ~623 |
@@ -29,8 +29,8 @@ Rating: 3.94 (Ranked 978)
 | Foo Finder | 0.30% | ~267 |
 | Freebooter | 0.30% | ~267 |
 | Moneybags | 0.30% | ~267 |
+| Olympus Ascended | 0.30% | ~267 |
 | Rockay Raider | 0.20% | ~178 |
-| Olympus Ascended | 0.20% | ~178 |
 | Ding Dong | 0.20% | ~178 |
 | All that Glitters | 0.20% | ~35 |
 | All for One | 0.20% | ~35 |
@@ -47,7 +47,7 @@ Rating: 3.94 (Ranked 978)
 | One for All | 0.10% | ~17 |
 | Now You See Me | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,062 (Ranked 82)  
+Progressed: 89,067 (Ranked 82)  
 Completed: 49 (0.06%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,14 +224,14 @@ Completed: 49 (0.06%) (Ranked 265)
 | 2023-10-11 | 88,994 | 48 |
 | 2023-10-12 | 89,015 | 48 |
 | 2023-10-13 | 89,042 | 49 |
-| 2023-10-14 | 89,062 | 49 |
+| 2023-10-14 | 89,067 | 49 |
 ## Awards
-Max (Diverse Characters): 490  (Ranked 206)  
-Sum: 2,340 (Ranked 192)  
-Diff (max vs sum): 14  
+Max (Diverse Characters): 491  (Ranked 205)  
+Sum: 2,341 (Ranked 192)  
+Diff (max vs sum): 13  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 490 |
+| This game has Diverse Characters | 491 |
 | This game has Quickly Understood Controls | 475 |
 | This game is Highly Recommended | 465 |
 | This game has Challenging Combat | 459 |
@@ -437,4 +437,4 @@ Diff (max vs sum): 14
 | 2023-10-10 | 3.94 | 485 | 2,316 |
 | 2023-10-11 | 3.94 | 488 | 2,329 |
 | 2023-10-13 | 3.94 | 490 | 2,337 |
-| 2023-10-14 | 3.94 | 490 | 2,340 |
+| 2023-10-14 | 3.94 | 491 | 2,341 |

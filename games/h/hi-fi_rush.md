@@ -32,8 +32,8 @@ Rating: 4.85 (Ranked 42)
 | NOW we got a kickass hideout! | 7.00% | ~187 |
 | I have to read these things? | 6.00% | ~249 |
 | Well that was a rush! | 5.00% | ~207 |
+| That's a lot of junk metal… | 5.00% | ~207 |
 | Beat-hit mania | 4.00% | ~166 |
-| That's a lot of junk metal… | 4.00% | ~166 |
 | There's such a thing as TOO helpful | 4.00% | ~166 |
 | Chip-tuned | 3.00% | ~124 |
 | I think I found your calling, Macaron | 2.00% | ~83 |

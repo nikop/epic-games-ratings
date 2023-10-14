@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 395,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -814,9 +814,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 6049,
+  "EOS_Progressed": 6050,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8484,6 +8484,11 @@
       "Time": "2023-10-14T12:03:42.8855682+00:00",
       "NumProgressed": 6049,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-14T14:03:12.1887255+00:00",
+      "NumProgressed": 6050,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -8495,7 +8500,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 4779
+      "UsersEstimate": 4780
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -8503,7 +8508,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 3387
+      "UsersEstimate": 3388
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -8519,7 +8524,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 2843
+      "UsersEstimate": 2844
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -8535,7 +8540,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 3629
+      "UsersEstimate": 3630
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -8551,7 +8556,7 @@
       "Name": "Scaling up",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 3387
+      "UsersEstimate": 3388
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -8575,7 +8580,7 @@
       "Name": "More than a Tourist",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "ACHIEVEMENT_012",
@@ -8631,7 +8636,7 @@
       "Name": "The Beetles",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "ACHIEVEMENT_019",
@@ -8727,7 +8732,7 @@
       "Name": "Gonna Need a Bigger Boat",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "ACHIEVEMENT_032",
@@ -8774,13 +8779,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6049,
+      "Progressed": 6050,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5421,
+      "Progressed": 5422,
       "Completed": 112
     }
   ],
@@ -8788,8 +8793,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-10-13T02:58:59.777665+00:00",
-  "LastChanged_Achievements": "2023-10-14T13:05:51.7254852+00:00",
+  "LastChanged_Achievements": "2023-10-14T14:03:12.1887248+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:27.5622324+00:00",
-  "LastUpdate_Ratings": "2023-10-14T13:01:30.2098115+00:00",
-  "LastUpdate_Achievements": "2023-10-14T13:05:51.7255665+00:00"
+  "LastUpdate_Ratings": "2023-10-14T13:58:47.3565042+00:00",
+  "LastUpdate_Achievements": "2023-10-14T14:03:12.1888078+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
     "PcReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -718,9 +718,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2512,
+  "EOS_Progressed": 2514,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 360,
+  "EOS_NewPlayers": 359,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3103,6 +3103,11 @@
       "Time": "2023-10-14T12:05:35.9826018+00:00",
       "NumProgressed": 2512,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-14T14:05:16.9523887+00:00",
+      "NumProgressed": 2514,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -3123,15 +3128,15 @@
       "Name": "Bragging Rights",
       "Percentage": 56,
       "XP": 90,
-      "UsersEstimate": 1407
+      "UsersEstimate": 1408
     },
     {
       "ID": "achievement_11",
       "SetID": "c8fif6p",
       "Name": "Future of the Franchise",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 502
+      "UsersEstimate": 478
     },
     {
       "ID": "achievement_12",
@@ -3139,7 +3144,7 @@
       "Name": "Stud Finder",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 1055
+      "UsersEstimate": 1056
     },
     {
       "ID": "achievement_13",
@@ -3147,7 +3152,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 1331
+      "UsersEstimate": 1332
     },
     {
       "ID": "achievement_14",
@@ -3155,7 +3160,7 @@
       "Name": "Dealmaker",
       "Percentage": 41,
       "XP": 60,
-      "UsersEstimate": 1030
+      "UsersEstimate": 1031
     },
     {
       "ID": "achievement_15",
@@ -3163,7 +3168,7 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 1356
+      "UsersEstimate": 1358
     },
     {
       "ID": "achievement_16",
@@ -3171,7 +3176,7 @@
       "Name": "ROTY",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 854
+      "UsersEstimate": 855
     },
     {
       "ID": "achievement_17",
@@ -3235,7 +3240,7 @@
       "Name": "Lockdown Corner",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "achievement_5",
@@ -3282,7 +3287,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 2512,
+      "Progressed": 2514,
       "Completed": 0
     }
   ],
@@ -3290,8 +3295,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-10-14T10:02:07.7088348+00:00",
-  "LastChanged_Achievements": "2023-10-14T13:08:17.4007807+00:00",
+  "LastChanged_Achievements": "2023-10-14T14:05:16.9523877+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:58.3611516+00:00",
-  "LastUpdate_Ratings": "2023-10-14T13:05:05.7843648+00:00",
-  "LastUpdate_Achievements": "2023-10-14T13:08:17.4008133+00:00"
+  "LastUpdate_Ratings": "2023-10-14T14:01:02.4802153+00:00",
+  "LastUpdate_Achievements": "2023-10-14T14:05:16.9524258+00:00"
 }

@@ -6,13 +6,13 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 79.00% | ~4,779 |
+| Fish Just Got Reel | 79.00% | ~4,780 |
 | Hey Good Hookin | 69.00% | ~4,174 |
-| I'm on a Boat! | 60.00% | ~3,629 |
-| Can you smell what the Rod is Hooking | 56.00% | ~3,387 |
-| Scaling up | 56.00% | ~3,387 |
+| I'm on a Boat! | 60.00% | ~3,630 |
+| Can you smell what the Rod is Hooking | 56.00% | ~3,388 |
+| Scaling up | 56.00% | ~3,388 |
 | More Fish in the Sea | 49.00% | ~2,964 |
-| Ready to Rod and Roll | 47.00% | ~2,843 |
+| Ready to Rod and Roll | 47.00% | ~2,844 |
 | Fish Out of Water | 36.00% | ~2,178 |
 | License to Gill | 33.00% | ~1,996 |
 | Things that go Splash in the Night | 32.00% | ~1,936 |
@@ -20,14 +20,14 @@ Number of Ratings: 281  (23.09.2022)
 | Going for Gold | 26.00% | ~1,573 |
 | I'm Hooked! | 20.00% | ~1,210 |
 | Diamond in the Rough | 13.00% | ~786 |
-| More than a Tourist | 11.00% | ~665 |
+| More than a Tourist | 11.00% | ~666 |
 | School's Out for Summer | 10.00% | ~605 |
 | Hook, Line and Sinker | 8.00% | ~484 |
 | Marathon | 8.00% | ~484 |
 | I'm the Captain Now | 6.00% | ~363 |
 | Big Fish Small Pond | 5.00% | ~302 |
-| The Beetles | 3.00% | ~181 |
-| Gonna Need a Bigger Boat | 3.00% | ~181 |
+| The Beetles | 3.00% | ~182 |
+| Gonna Need a Bigger Boat | 3.00% | ~182 |
 | No Fin left to give | 2.00% | ~121 |
 | Taylor Made | 2.00% | ~121 |
 | Rod and Troll | 2.00% | ~108 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.10% | ~5 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,049 (Ranked 168)  
+Progressed: 6,050 (Ranked 168)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-10-11 | 6,032 | 0 |
 | 2023-10-12 | 6,035 | 0 |
 | 2023-10-13 | 6,044 | 0 |
-| 2023-10-14 | 6,049 | 0 |
+| 2023-10-14 | 6,050 | 0 |
 ## Awards
 Max (Relaxing): 36  (Ranked 452)  
 Sum: 183 (Ranked 395)  

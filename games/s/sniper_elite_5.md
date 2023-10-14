@@ -36,8 +36,8 @@ Rating: 4.45 (Ranked 644)
 | Set Europe Ablaze | 13.00% | ~486 |
 | My Little Friend | 10.00% | ~374 |
 | Precision Is Key | 9.00% | ~337 |
-| Rigged to Blow | 8.00% | ~299 |
-| Herr Today, Gone Tomorrow | 6.00% | ~221 |
+| Rigged to Blow | 9.00% | ~337 |
+| Herr Today, Gone Tomorrow | 7.00% | ~258 |
 | Operation Foxley | 6.00% | ~221 |
 | The Long Game | 5.00% | ~187 |
 | It'll Buff Right Out | 5.00% | ~187 |

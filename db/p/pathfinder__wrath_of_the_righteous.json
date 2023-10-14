@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 116,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3846,10 +3846,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6986,
       "NumberOfAwardsMax": 1723
+    },
+    {
+      "Time": "2023-10-14T14:00:26.7172083+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6987,
+      "NumberOfAwardsMax": 1723
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6986,
+  "NumberOfAwards": 6987,
   "NumberOfAwardsMax": 1723,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3917,10 +3923,10 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 387
+      "Count": 388
     }
   ],
-  "EOS_Progressed": 11525,
+  "EOS_Progressed": 11526,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
@@ -13535,6 +13541,11 @@
       "Time": "2023-10-14T13:11:52.2353266+00:00",
       "NumProgressed": 11525,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-14T14:08:24.9327618+00:00",
+      "NumProgressed": 11526,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -13546,7 +13557,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2881
+      "UsersEstimate": 2882
     },
     {
       "ID": "02_BurningCity",
@@ -13610,7 +13621,7 @@
       "Name": "Path of the Demon",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "10_PathOfAzata",
@@ -13626,7 +13637,7 @@
       "Name": "Path of the Aeon",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "12_PathOfTrickster",
@@ -13642,7 +13653,7 @@
       "Name": "Path of the Lich",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "14_PathOfSwarm",
@@ -13802,7 +13813,7 @@
       "Name": "Capitulation Is Now Moot",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "35_AbyssalConspiracy",
@@ -13826,7 +13837,7 @@
       "Name": "Your First Big Enemy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "38_PrelatesNemesis",
@@ -13914,7 +13925,7 @@
       "Name": "A Spark",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2074
+      "UsersEstimate": 2075
     },
     {
       "ID": "49_Flame",
@@ -13946,7 +13957,7 @@
       "Name": "Truly Important Deed",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "53_TrulyProfaneGift",
@@ -14473,21 +14484,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10307,
+      "Progressed": 10308,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11525,
+      "Progressed": 11526,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-10-14T01:41:42.6041332+00:00",
-  "LastChanged_Achievements": "2023-10-14T13:11:52.2353261+00:00",
+  "LastChanged": "2023-10-14T14:00:26.7172078+00:00",
+  "LastChanged_Achievements": "2023-10-14T14:08:24.9327606+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:22.9873596+00:00",
-  "LastUpdate_Ratings": "2023-10-14T13:03:29.3008992+00:00",
-  "LastUpdate_Achievements": "2023-10-14T13:11:52.2355553+00:00"
+  "LastUpdate_Ratings": "2023-10-14T14:00:26.717209+00:00",
+  "LastUpdate_Achievements": "2023-10-14T14:08:24.9330233+00:00"
 }

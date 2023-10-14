@@ -4,8 +4,8 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 792,
+  "EOS_Progressed": 793,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2956,6 +2956,11 @@
       "Time": "2023-10-14T06:03:16.8658467+00:00",
       "NumProgressed": 792,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-14T14:03:20.2442718+00:00",
+      "NumProgressed": 793,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2967,7 +2972,7 @@
       "Name": "Great Luck",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ActivePause",
@@ -2999,7 +3004,7 @@
       "Name": "Budget Flight",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "Calculated",
@@ -3007,7 +3012,7 @@
       "Name": "Calculated",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "Close",
@@ -3119,7 +3124,7 @@
       "Name": "Legendary transporter",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "LinearNetwork",
@@ -3191,7 +3196,7 @@
       "Name": "This Wasn\u0027t Part of the Plan...",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "Ownway",
@@ -3215,7 +3220,7 @@
       "Name": "Race Against Time",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Reaction",
@@ -3239,7 +3244,7 @@
       "Name": "Resource Economy",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "Restructuring",
@@ -3279,7 +3284,7 @@
       "Name": "Ten!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "TimeForManagement",
@@ -3302,14 +3307,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 792,
+      "Progressed": 793,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-10-14T13:06:11.8651949+00:00",
+  "LastChanged_Achievements": "2023-10-14T14:03:20.2442709+00:00",
   "LastUpdate_AppInfo": "2023-10-10T13:57:13.1433164+00:00",
-  "LastUpdate_Ratings": "2023-10-14T13:02:26.7867925+00:00",
-  "LastUpdate_Achievements": "2023-10-14T13:06:11.8652501+00:00"
+  "LastUpdate_Ratings": "2023-10-14T13:59:33.2869783+00:00",
+  "LastUpdate_Achievements": "2023-10-14T14:03:20.2443237+00:00"
 }

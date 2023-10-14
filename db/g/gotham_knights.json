@@ -2,13 +2,13 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 898,
+  "Ranking_Rating": 897,
   "Ranking_Popularity": 97,
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3524,9 +3524,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73494,
+  "EOS_Progressed": 73497,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 252,
+  "EOS_NewPlayers": 251,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -18644,6 +18644,11 @@
       "Time": "2023-10-14T13:07:08.4708031+00:00",
       "NumProgressed": 73494,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-10-14T14:04:17.9679556+00:00",
+      "NumProgressed": 73497,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 61,
@@ -18735,7 +18740,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8819
+      "UsersEstimate": 8820
     },
     {
       "ID": "APPLY_STATUS",
@@ -18743,7 +18748,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11024
+      "UsersEstimate": 11025
     },
     {
       "ID": "CHALLENGES_1",
@@ -18775,7 +18780,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10289
+      "UsersEstimate": 10290
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -18815,7 +18820,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 9554
+      "UsersEstimate": 9555
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -18831,7 +18836,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8819
+      "UsersEstimate": 8820
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -18839,7 +18844,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6614
+      "UsersEstimate": 6615
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -18863,7 +18868,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 9554
+      "UsersEstimate": 9555
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -18871,7 +18876,7 @@
       "Name": "Drone You Out",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 7349
+      "UsersEstimate": 7350
     },
     {
       "ID": "FREEZE_1",
@@ -18879,7 +18884,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21313
+      "UsersEstimate": 21314
     },
     {
       "ID": "FREEZE_1_5",
@@ -18903,7 +18908,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10289
+      "UsersEstimate": 10290
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -18959,7 +18964,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25723
+      "UsersEstimate": 25724
     },
     {
       "ID": "HARLEY_2",
@@ -18983,7 +18988,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 11759
+      "UsersEstimate": 11760
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -18999,7 +19004,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 38217
+      "UsersEstimate": 38218
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -19031,7 +19036,7 @@
       "Name": "Knighthood",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20578
+      "UsersEstimate": 20579
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -19047,7 +19052,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24988
+      "UsersEstimate": 24989
     },
     {
       "ID": "MYSTERY_02",
@@ -19087,7 +19092,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11024
+      "UsersEstimate": 11025
     },
     {
       "ID": "MYSTERY_07",
@@ -19095,7 +19100,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10289
+      "UsersEstimate": 10290
     },
     {
       "ID": "MYSTERY_08",
@@ -19103,7 +19108,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8819
+      "UsersEstimate": 8820
     },
     {
       "ID": "SECRET_CACHE",
@@ -19111,7 +19116,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 8084
+      "UsersEstimate": 8085
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -19119,7 +19124,7 @@
       "Name": "Solid Alibi",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6614
+      "UsersEstimate": 6615
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -19142,13 +19147,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73494,
+      "Progressed": 73497,
       "Completed": 121
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43774,
+      "Progressed": 43777,
       "Completed": 2667
     }
   ],
@@ -19156,8 +19161,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-14T05:57:31.3590213+00:00",
-  "LastChanged_Achievements": "2023-10-14T13:07:08.4708026+00:00",
+  "LastChanged_Achievements": "2023-10-14T14:04:17.9679548+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:31.3761181+00:00",
-  "LastUpdate_Ratings": "2023-10-14T13:00:22.7236325+00:00",
-  "LastUpdate_Achievements": "2023-10-14T13:07:08.4709604+00:00"
+  "LastUpdate_Ratings": "2023-10-14T13:57:50.4140533+00:00",
+  "LastUpdate_Achievements": "2023-10-14T14:04:17.9681756+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
     "PcReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -174,9 +174,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3667,
+  "EOS_Progressed": 3668,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1639,6 +1639,11 @@
       "Time": "2023-10-14T05:07:22.2388716+00:00",
       "NumProgressed": 3667,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-14T14:05:42.7730468+00:00",
+      "NumProgressed": 3668,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -1650,7 +1655,7 @@
       "Name": "You\u0027re Not Naked",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1063
+      "UsersEstimate": 1064
     },
     {
       "ID": "BUY_EVERY_COSMETIC_ITEM",
@@ -1682,7 +1687,7 @@
       "Name": "Totally Intentional",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 1650
+      "UsersEstimate": 1651
     },
     {
       "ID": "FIND_FIRST_VAULTLANDER",
@@ -1698,7 +1703,7 @@
       "Name": "From Zeroes...",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 1063
+      "UsersEstimate": 1064
     },
     {
       "ID": "FINISH_EPISODE_2",
@@ -1746,7 +1751,7 @@
       "Name": "Tale in the Toilet",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1063
+      "UsersEstimate": 1064
     },
     {
       "ID": "GET_MONEY_SINK_OR_SWIM",
@@ -1754,7 +1759,7 @@
       "Name": "You Rich Now!",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     },
     {
       "ID": "HACK_YOUR_FIRST_OBJECT",
@@ -1778,7 +1783,7 @@
       "Name": "You Poor Now!",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "NAILED_PERFECT_SEXY_DANCE",
@@ -1786,7 +1791,7 @@
       "Name": "You Got the Goods, Kid",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "PERF_EVRY_BCKGRD_CHECK",
@@ -1826,7 +1831,7 @@
       "Name": "And Still Champion...",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "WIN_FIRST_VAULTLANDER_BATTLE",
@@ -1857,7 +1862,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3667,
+      "Progressed": 3668,
       "Completed": 0
     }
   ],
@@ -1865,8 +1870,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2023-10-14T13:08:47.8115492+00:00",
+  "LastChanged_Achievements": "2023-10-14T14:05:42.7730461+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:54.3101384+00:00",
-  "LastUpdate_Ratings": "2023-10-14T13:03:01.3397982+00:00",
-  "LastUpdate_Achievements": "2023-10-14T13:08:47.811576+00:00"
+  "LastUpdate_Ratings": "2023-10-14T14:00:01.3754532+00:00",
+  "LastUpdate_Achievements": "2023-10-14T14:05:42.7730921+00:00"
 }
