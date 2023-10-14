@@ -529,7 +529,7 @@
 | 525 | [Dauntless](games/d/dauntless.md) | 4.53 | 22,735 | 18 |
 | 525 | [Everything](games/e/everything.md) | 4.53 | 0 | 535 |
 | 525 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.53 | 0 | 535 |
-| 525 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.53 | 1,472 | 129 |
+| 525 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.53 | 1,475 | 129 |
 | 525 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.53 | 0 | 535 |
 | 525 | [RUINER](games/r/ruiner.md) | 4.53 | 24 | 506 |
 | 525 | [Souldiers](games/s/souldiers.md) | 4.53 | 0 | 535 |

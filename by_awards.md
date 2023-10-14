@@ -128,7 +128,7 @@
 | 126 | [Ring of Pain](games/r/ring_of_pain.md) | 1,506 | 4.58 | 437 |
 | 127 | [Conan Exiles](games/c/conan_exiles.md) | 1,498 | 4.54 | 510 |
 | 128 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,485 | 4.86 | 28 |
-| 129 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,472 | 4.53 | 525 |
+| 129 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,475 | 4.53 | 525 |
 | 130 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,460 | 4.87 | 22 |
 | 131 | [World of Warships](games/w/world_of_warships.md) | 1,413 | 4.41 | 699 |
 | 132 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,329 | 4.70 | 203 |
