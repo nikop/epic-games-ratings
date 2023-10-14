@@ -22,7 +22,7 @@
 | 16 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 11,944 | 33 |
 | 16 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 516 |
 | 22 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.87 | 23 | 514 |
-| 22 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 288 | 245 |
+| 22 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 289 | 243 |
 | 22 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,460 | 130 |
 | 22 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 733 | 172 |
 | 22 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 0 | 535 |
@@ -68,7 +68,7 @@
 | 61 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 34 | 462 |
 | 61 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 769 | 166 |
 | 61 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.82 | 273 | 252 |
-| 61 | [Sifu](games/s/sifu.md) | 4.82 | 6,669 | 54 |
+| 61 | [Sifu](games/s/sifu.md) | 4.82 | 6,675 | 54 |
 | 61 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 418 | 220 |
 | 61 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.82 | 49 | 416 |
 | 61 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.82 | 0 | 535 |
@@ -86,7 +86,7 @@
 | 82 | [Huntdown](games/h/huntdown.md) | 4.80 | 0 | 535 |
 | 82 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.80 | 0 | 535 |
 | 82 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,487 | 103 |
-| 82 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 101 | 346 |
+| 82 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 101 | 347 |
 | 82 | [Star Atlas](games/s/star_atlas.md) | 4.80 | 26 | 498 |
 | 82 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 0 | 535 |
 | 90 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,536 | 124 |
@@ -237,7 +237,7 @@
 | 221 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 0 | 535 |
 | 221 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.69 | 92 | 360 |
 | 221 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 42 | 436 |
-| 221 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 994 | 150 |
+| 221 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 996 | 150 |
 | 221 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 834 | 159 |
 | 240 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,371 | 91 |
 | 240 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 3,657 | 87 |
@@ -318,7 +318,7 @@
 | 298 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.65 | 0 | 535 |
 | 298 | [Tennis Manager 2022](games/t/tennis_manager_2022.md) | 4.65 | 0 | 535 |
 | 298 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.65 | 122 | 326 |
-| 298 | [Tropico 6](games/t/tropico_6.md) | 4.65 | 100 | 347 |
+| 298 | [Tropico 6](games/t/tropico_6.md) | 4.65 | 100 | 348 |
 | 320 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.64 | 0 | 535 |
 | 320 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.64 | 0 | 535 |
 | 320 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 5,982 | 62 |
@@ -392,7 +392,7 @@
 | 373 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 529 | 200 |
 | 373 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 10,237 | 39 |
 | 373 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,086 | 140 |
-| 373 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 288 | 245 |
+| 373 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 288 | 246 |
 | 373 | [Supraland](games/s/supraland.md) | 4.61 | 7,697 | 47 |
 | 373 | [Tavern Master](games/t/tavern_master.md) | 4.61 | 0 | 535 |
 | 373 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.61 | 0 | 535 |
@@ -599,7 +599,7 @@
 | 591 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 276 | 250 |
 | 591 | [Knockout City™](games/k/knockout_city™.md) | 4.49 | 0 | 535 |
 | 591 | [Maneater](games/m/maneater.md) | 4.49 | 13,724 | 29 |
-| 591 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 99 | 348 |
+| 591 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 99 | 349 |
 | 591 | [MythForce](games/m/mythforce.md) | 4.49 | 34 | 462 |
 | 591 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.49 | 24 | 506 |
 | 591 | [Paradigm](games/p/paradigm.md) | 4.49 | 0 | 535 |
@@ -667,7 +667,7 @@
 | 656 | [Star Renegades](games/s/star_renegades.md) | 4.44 | 0 | 535 |
 | 656 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 590 | 190 |
 | 656 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 0 | 535 |
-| 656 | [The Captain](games/t/the_captain.md) | 4.44 | 98 | 349 |
+| 656 | [The Captain](games/t/the_captain.md) | 4.44 | 98 | 350 |
 | 656 | [Train Valley 2](games/t/train_valley_2.md) | 4.44 | 761 | 168 |
 | 656 | [Weird West: Definitive Edition](games/w/weird_west.md) | 4.44 | 28 | 482 |
 | 656 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 59 | 402 |
@@ -777,7 +777,7 @@
 | 774 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.35 | 0 | 535 |
 | 774 | [Beyond Blue](games/b/beyond_blue.md) | 4.35 | 0 | 535 |
 | 774 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.35 | 0 | 535 |
-| 774 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 98 | 349 |
+| 774 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 102 | 345 |
 | 774 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.35 | 0 | 535 |
 | 774 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 205 | 277 |
 | 774 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.35 | 0 | 535 |

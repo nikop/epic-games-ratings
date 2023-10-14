@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 50.70% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 50.67% |
 | 3 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.15% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.99% |
@@ -43,8 +43,8 @@
 | 41 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.67% |
 | 42 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 42 | [Ravenlok](games/r/ravenlok.md) | 7.69% |
-| 44 | [Sonic Origins](games/s/sonic_origins.md) | 7.62% |
-| 45 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.61% |
+| 44 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.61% |
+| 44 | [Sonic Origins](games/s/sonic_origins.md) | 7.61% |
 | 46 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.52% |
 | 47 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.41% |
 | 48 | [Time Loader](games/t/time_loader.md) | 7.20% |
@@ -144,7 +144,7 @@
 | 141 | [Infindustry](games/i/infindustry.md) | 1.05% |
 | 141 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.05% |
 | 144 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.02% |
-| 145 | [Sable](games/s/sable.md) | 1.00% |
+| 145 | [Sable](games/s/sable.md) | 1.01% |
 | 146 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.99% |
 | 147 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.97% |
 | 148 | [A Musical Story](games/a/a_musical_story.md) | 0.96% |
@@ -186,8 +186,8 @@
 | 178 | [Them and Us](games/t/them_and_us.md) | 0.46% |
 | 185 | [Tchia](games/t/tchia.md) | 0.44% |
 | 186 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.43% |
-| 187 | [It Takes Two](games/i/it_takes_two.md) | 0.42% |
-| 187 | [Wildermyth](games/w/wildermyth.md) | 0.42% |
+| 186 | [It Takes Two](games/i/it_takes_two.md) | 0.43% |
+| 188 | [Wildermyth](games/w/wildermyth.md) | 0.42% |
 | 189 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 190 | [Train Valley](games/t/train_valley.md) | 0.39% |
 | 191 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.38% |
