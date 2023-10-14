@@ -5,40 +5,40 @@ Rating: 4.54 (Ranked 510)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 4.00% | ~27,812 |
-| Welcome To Hell-A | 4.00% | ~27,812 |
-| Dr. Reed, I Presume? | 3.00% | ~20,859 |
-| Git Gutte! | 3.00% | ~20,859 |
-| Bookworm | 3.00% | ~20,859 |
-| Break A Leg | 3.00% | ~20,859 |
-| Coup de Grâce | 3.00% | ~20,859 |
-| Hazardous Materials | 3.00% | ~20,859 |
-| Friends Like These | 3.00% | ~20,859 |
-| Apex Predator | 3.00% | ~20,859 |
-| Stacking the Deck | 3.00% | ~20,859 |
-| Personal Assistant Personally Assisted | 3.00% | ~20,859 |
-| Making Your Mark | 2.00% | ~13,906 |
-| Anger Management | 2.00% | ~13,906 |
-| Perks of the Job | 2.00% | ~13,906 |
-| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,906 |
-| But Doctor, I am Butcho | 2.00% | ~13,906 |
-| Slayer Squad | 2.00% | ~13,906 |
-| Can't Handle the Truth | 2.00% | ~13,906 |
-| Like Riding a Bike | 2.00% | ~13,906 |
-| Zombologist | 2.00% | ~13,906 |
-| Ooh, Shiny! | 2.00% | ~13,906 |
-| A Patton Emerges | 2.00% | ~13,906 |
-| Humanity Distilled | 2.00% | ~13,906 |
-| I Am the Resurrection | 2.00% | ~13,906 |
-| Our True Nature | 2.00% | ~13,906 |
-| This is My Weapon | 2.00% | ~13,906 |
+| Hotel California | 4.00% | ~27,813 |
+| Welcome To Hell-A | 4.00% | ~27,813 |
+| Dr. Reed, I Presume? | 3.00% | ~20,860 |
+| Git Gutte! | 3.00% | ~20,860 |
+| Bookworm | 3.00% | ~20,860 |
+| Break A Leg | 3.00% | ~20,860 |
+| Coup de Grâce | 3.00% | ~20,860 |
+| Hazardous Materials | 3.00% | ~20,860 |
+| Friends Like These | 3.00% | ~20,860 |
+| Apex Predator | 3.00% | ~20,860 |
+| Stacking the Deck | 3.00% | ~20,860 |
+| Personal Assistant Personally Assisted | 3.00% | ~20,860 |
+| This is My Weapon | 3.00% | ~20,860 |
+| Making Your Mark | 2.00% | ~13,907 |
+| Anger Management | 2.00% | ~13,907 |
+| Perks of the Job | 2.00% | ~13,907 |
+| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,907 |
+| But Doctor, I am Butcho | 2.00% | ~13,907 |
+| Slayer Squad | 2.00% | ~13,907 |
+| Can't Handle the Truth | 2.00% | ~13,907 |
+| Like Riding a Bike | 2.00% | ~13,907 |
+| Zombologist | 2.00% | ~13,907 |
+| Ooh, Shiny! | 2.00% | ~13,907 |
+| A Patton Emerges | 2.00% | ~13,907 |
+| Humanity Distilled | 2.00% | ~13,907 |
+| I Am the Resurrection | 2.00% | ~13,907 |
+| Our True Nature | 2.00% | ~13,907 |
 | Jumbo Keyring | 1.00% | ~6,953 |
 | Down with the Sickness | 1.00% | ~6,953 |
 | Max Headroom | 1.00% | ~6,953 |
 | Go, Bobcats! | 1.00% | ~6,953 |
 | Rising Star | 1.00% | ~6,953 |
 | Smorgasbord | 0.90% | ~6,258 |
-| Internet Famous | 0.80% | ~5,562 |
+| Internet Famous | 0.80% | ~5,563 |
 | On Safari | 0.70% | ~4,867 |
 | Not Even My Final Form | 0.70% | ~4,867 |
 | Make it So | 0.60% | ~4,172 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 510)
 | Donk! | 0.20% | ~1,391 |
 | Bucket List | 0.10% | ~695 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 695,312 (Ranked 22)  
+Progressed: 695,327 (Ranked 22)  
 Completed: 2,223 (0.32%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,10 +228,10 @@ Completed: 2,223 (0.32%) (Ranked 200)
 | 2023-10-11 | 694,263 | 2,210 |
 | 2023-10-12 | 694,718 | 2,216 |
 | 2023-10-13 | 695,203 | 2,223 |
-| 2023-10-14 | 695,312 | 2,223 |
+| 2023-10-14 | 695,327 | 2,223 |
 ## Awards
 Max (Great Boss Battles): 6,420  (Ranked 58)  
-Sum: 9,594 (Ranked 91)  
+Sum: 9,595 (Ranked 91)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
@@ -243,7 +243,7 @@ Diff (max vs sum): -33
 | This game has Amazing Storytelling | 379 |
 | This game is Highly Recommended | 361 |
 | This game is Extremely Fun | 361 |
-| This game has Amazing Characters | 348 |
+| This game has Amazing Characters | 349 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -423,3 +423,4 @@ Diff (max vs sum): -33
 | 2023-10-11 | 4.54 | 6,398 | 9,555 |
 | 2023-10-12 | 4.54 | 6,407 | 9,574 |
 | 2023-10-13 | 4.54 | 6,420 | 9,594 |
+| 2023-10-14 | 4.54 | 6,420 | 9,595 |

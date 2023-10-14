@@ -6,9 +6,9 @@
   "Ranking_Popularity": 535,
   "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 135,
-  "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 22,
+  "Ranking_EOS_Completed": 230,
+  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -166,11 +166,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13937,
+  "EOS_Progressed": 13940,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 279,
+  "EOS_NewPlayers": 281,
   "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 0.17,
+  "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
     {
       "Time": "2023-07-26T16:06:14.482825+00:00",
@@ -8591,6 +8591,11 @@
       "Time": "2023-10-14T05:06:20.8841985+00:00",
       "NumProgressed": 13937,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-10-14T06:04:41.6140873+00:00",
+      "NumProgressed": 13940,
+      "NumCompleted": 23
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -8619,7 +8624,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "12",
@@ -8707,7 +8712,7 @@
       "Name": "Drone Dodger",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "22",
@@ -8715,7 +8720,7 @@
       "Name": "Brother\u0027s Reaper",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "23",
@@ -8842,7 +8847,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13937,
+      "Progressed": 13940,
       "Completed": 23
     }
   ],
@@ -8850,8 +8855,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-13T09:00:57.1370573+00:00",
-  "LastChanged_Achievements": "2023-10-14T05:06:20.8841975+00:00",
+  "LastChanged_Achievements": "2023-10-14T06:04:41.6140868+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:56.4622667+00:00",
-  "LastUpdate_Ratings": "2023-10-14T05:01:20.8179919+00:00",
-  "LastUpdate_Achievements": "2023-10-14T05:06:20.8842717+00:00"
+  "LastUpdate_Ratings": "2023-10-14T05:59:31.0354351+00:00",
+  "LastUpdate_Achievements": "2023-10-14T06:04:41.6141448+00:00"
 }

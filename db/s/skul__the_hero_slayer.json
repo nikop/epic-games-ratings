@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 261,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -1022,9 +1022,9 @@
       "Count": 129
     }
   ],
-  "EOS_Progressed": 8227,
+  "EOS_Progressed": 8228,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -4927,6 +4927,11 @@
       "Time": "2023-10-13T14:08:42.5693493+00:00",
       "NumProgressed": 8227,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-10-14T06:08:14.7669696+00:00",
+      "NumProgressed": 8228,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 24,
@@ -4938,7 +4943,7 @@
       "Name": "Brain at Full Throttle",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1974
+      "UsersEstimate": 1975
     },
     {
       "ID": "Chatterbox",
@@ -4962,7 +4967,7 @@
       "Name": "Focus!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5183
+      "UsersEstimate": 5184
     },
     {
       "ID": "DemonCastleRestoration",
@@ -5058,7 +5063,7 @@
       "Name": "Rookies Welcome",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1645
+      "UsersEstimate": 1646
     },
     {
       "ID": "SavedElderEnt",
@@ -5066,7 +5071,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 5265
+      "UsersEstimate": 5266
     },
     {
       "ID": "SavedElderEnt_2",
@@ -5074,7 +5079,7 @@
       "Name": "Quick Movements",
       "Percentage": 35,
       "XP": 90,
-      "UsersEstimate": 2879
+      "UsersEstimate": 2880
     },
     {
       "ID": "SkeletonKing",
@@ -5090,7 +5095,7 @@
       "Name": "Inventory Management",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 2879
+      "UsersEstimate": 2880
     },
     {
       "ID": "TheLegendBegins",
@@ -5098,7 +5103,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7651
+      "UsersEstimate": 7652
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -5106,7 +5111,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 4031
+      "UsersEstimate": 4032
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -5122,22 +5127,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6911
+      "UsersEstimate": 6912
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8227,
+      "Progressed": 8228,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-10-11T09:01:11.2841956+00:00",
-  "LastChanged_Achievements": "2023-10-14T05:09:15.6245088+00:00",
+  "LastChanged_Achievements": "2023-10-14T06:08:14.7669692+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:10.5338223+00:00",
-  "LastUpdate_Ratings": "2023-10-14T05:02:50.6522881+00:00",
-  "LastUpdate_Achievements": "2023-10-14T05:09:15.6245921+00:00"
+  "LastUpdate_Ratings": "2023-10-14T06:02:11.7194757+00:00",
+  "LastUpdate_Achievements": "2023-10-14T06:08:14.7670006+00:00"
 }

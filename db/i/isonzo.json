@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 359,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -838,9 +838,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 7044,
+  "EOS_Progressed": 7046,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -6093,6 +6093,11 @@
       "Time": "2023-10-13T14:09:21.0208169+00:00",
       "NumProgressed": 7044,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-14T06:08:35.2340421+00:00",
+      "NumProgressed": 7046,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -6120,7 +6125,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 3381
+      "UsersEstimate": 3382
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -6152,7 +6157,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 2536
+      "UsersEstimate": 2537
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -6216,7 +6221,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 2395
+      "UsersEstimate": 2396
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -6240,7 +6245,7 @@
       "Name": "I Have the High Ground",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "ISONZO_ACH_LUIGI_CADORNA",
@@ -6296,7 +6301,7 @@
       "Name": "Peak Performance",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3804
+      "UsersEstimate": 3805
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -6312,7 +6317,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1338
+      "UsersEstimate": 1339
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -6376,7 +6381,7 @@
       "Name": "The Devil\u0027s Paintbrush",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "ISONZO_ACH_THE_ENLIGHTMENT",
@@ -6392,7 +6397,7 @@
       "Name": "The Italian Job",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1479
+      "UsersEstimate": 1480
     },
     {
       "ID": "ISONZO_ACH_THE_LION_OF_THE_ISONZO",
@@ -6432,7 +6437,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3874
+      "UsersEstimate": 3875
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -6456,14 +6461,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3733
+      "UsersEstimate": 3734
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 7044,
+      "Progressed": 7046,
       "Completed": 8
     }
   ],
@@ -6471,8 +6476,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-09-23T14:01:09.047151+00:00",
-  "LastChanged_Achievements": "2023-10-14T05:09:44.9671177+00:00",
+  "LastChanged_Achievements": "2023-10-14T06:08:35.2340416+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:06.1752865+00:00",
-  "LastUpdate_Ratings": "2023-10-14T05:02:27.5554915+00:00",
-  "LastUpdate_Achievements": "2023-10-14T05:09:44.9671868+00:00"
+  "LastUpdate_Ratings": "2023-10-14T06:00:14.7339053+00:00",
+  "LastUpdate_Achievements": "2023-10-14T06:08:35.2340943+00:00"
 }

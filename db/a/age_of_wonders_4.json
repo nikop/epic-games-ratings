@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -354,9 +354,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 5216,
+  "EOS_Progressed": 5217,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -6329,6 +6329,11 @@
       "Time": "2023-10-13T22:08:18.447844+00:00",
       "NumProgressed": 5216,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-14T06:08:25.8889069+00:00",
+      "NumProgressed": 5217,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 50,
@@ -6396,7 +6401,7 @@
       "Name": "God Emperor",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "17",
@@ -6404,7 +6409,7 @@
       "Name": "Lord of Chaos",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "18",
@@ -6412,7 +6417,7 @@
       "Name": "Arch Mage",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "19",
@@ -6420,7 +6425,7 @@
       "Name": "The Creator",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "2",
@@ -6436,7 +6441,7 @@
       "Name": "The Goddess of Nature",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "21",
@@ -6444,7 +6449,7 @@
       "Name": "Eternal Lord",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "22",
@@ -6468,7 +6473,7 @@
       "Name": "Secret Technique",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "25",
@@ -6516,7 +6521,7 @@
       "Name": "Crimson Caldera",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "30",
@@ -6739,13 +6744,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5216,
+      "Progressed": 5217,
       "Completed": 4763
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5216,
+      "Progressed": 5217,
       "Completed": 6
     }
   ],
@@ -6753,8 +6758,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-10-11T08:00:22.3550379+00:00",
-  "LastChanged_Achievements": "2023-10-14T05:09:31.5348935+00:00",
+  "LastChanged_Achievements": "2023-10-14T06:08:25.8889064+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:43.3200894+00:00",
-  "LastUpdate_Ratings": "2023-10-14T04:58:25.0091495+00:00",
-  "LastUpdate_Achievements": "2023-10-14T05:09:31.5349772+00:00"
+  "LastUpdate_Ratings": "2023-10-14T05:57:32.5422961+00:00",
+  "LastUpdate_Achievements": "2023-10-14T06:08:25.8889721+00:00"
 }

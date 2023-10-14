@@ -7,22 +7,22 @@ Number of Ratings: 368  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tattletale | 40.00% | ~6,290 |
-| Man of politics | 35.00% | ~5,503 |
+| Man of politics | 35.00% | ~5,504 |
 | Friends of sorts | 33.00% | ~5,189 |
 | Yet another secret | 33.00% | ~5,189 |
 | Let there be darkness | 32.00% | ~5,032 |
-| End of Book One | 30.00% | ~4,717 |
+| End of Book One | 30.00% | ~4,718 |
 | Wannabe knight | 24.00% | ~3,774 |
 | Garden of Eden | 24.00% | ~3,774 |
 | Full house | 24.00% | ~3,774 |
-| Help an old friend | 22.00% | ~3,459 |
+| Help an old friend | 22.00% | ~3,460 |
 | Two of us | 20.00% | ~3,145 |
 | Negotiation skills | 18.00% | ~2,830 |
 | Workers' union | 18.00% | ~2,830 |
 | End of Book Two | 18.00% | ~2,830 |
 | Everything's in order | 17.00% | ~2,673 |
-| Twist of Fate | 14.00% | ~2,201 |
-| Jack was here! | 14.00% | ~2,201 |
+| Twist of Fate | 14.00% | ~2,202 |
+| Jack was here! | 14.00% | ~2,202 |
 | Exterminator | 13.00% | ~2,044 |
 | Whodunnit | 12.00% | ~1,887 |
 | Good midwife | 11.00% | ~1,730 |
@@ -37,7 +37,7 @@ Number of Ratings: 368  (23.09.2022)
 | The End. | 9.00% | ~1,415 |
 | A cry for help | 8.00% | ~1,258 |
 | Silentium est aureum | 7.00% | ~1,101 |
-| Rebel without a cause | 6.00% | ~943 |
+| Rebel without a cause | 6.00% | ~944 |
 | Staring contest champion | 5.00% | ~786 |
 | Lone wolf | 5.00% | ~786 |
 | Vox Populi | 5.00% | ~786 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~472 |
 | Boy of mystery | 2.00% | ~314 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,724 (Ranked 133)  
+Progressed: 15,725 (Ranked 133)  
 Completed: 113 (0.72%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 113 (0.72%) (Ranked 156)
 | 2023-10-11 | 15,686 | 113 |
 | 2023-10-12 | 15,702 | 113 |
 | 2023-10-13 | 15,720 | 113 |
-| 2023-10-14 | 15,724 | 113 |
+| 2023-10-14 | 15,725 | 113 |
 ## Awards
 Max (Easy Puzzles): 151  (Ranked 307)  
 Sum: 193 (Ranked 390)  

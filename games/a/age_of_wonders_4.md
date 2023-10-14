@@ -5,7 +5,7 @@ Rating: 4.60 (Ranked 397)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 9.00% | ~469 |
+| Secret Technique | 9.00% | ~470 |
 | Realm Estate | 7.00% | ~365 |
 | A Wonderful Discovery | 7.00% | ~365 |
 | Walls Cannot Stop Us | 7.00% | ~365 |
@@ -31,13 +31,13 @@ Rating: 4.60 (Ranked 397)
 | Enchanted Archipelago | 4.00% | ~209 |
 | Digging for Treasure | 4.00% | ~209 |
 | Preparation Is Everything | 4.00% | ~209 |
-| God Emperor | 3.00% | ~156 |
-| Lord of Chaos | 3.00% | ~156 |
-| Arch Mage | 3.00% | ~156 |
-| The Creator | 3.00% | ~156 |
-| The Goddess of Nature | 3.00% | ~156 |
-| Eternal Lord | 3.00% | ~156 |
-| Crimson Caldera | 3.00% | ~156 |
+| God Emperor | 3.00% | ~157 |
+| Lord of Chaos | 3.00% | ~157 |
+| Arch Mage | 3.00% | ~157 |
+| The Creator | 3.00% | ~157 |
+| The Goddess of Nature | 3.00% | ~157 |
+| Eternal Lord | 3.00% | ~157 |
+| Crimson Caldera | 3.00% | ~157 |
 | I've Got Everything I Need Right Here | 2.00% | ~104 |
 | The Magic That Empowers Me! | 2.00% | ~104 |
 | The Eternal Court | 2.00% | ~104 |
@@ -56,7 +56,7 @@ Rating: 4.60 (Ranked 397)
 | Master of Evilness | 0.10% | ~5 |
 | The Grey Wizard | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,216 (Ranked 172)  
+Progressed: 5,217 (Ranked 172)  
 Completed: 6 (0.12%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,6 +205,7 @@ Completed: 6 (0.12%) (Ranked 240)
 | 2023-10-11 | 5,211 | 6 |
 | 2023-10-12 | 5,213 | 6 |
 | 2023-10-13 | 5,216 | 6 |
+| 2023-10-14 | 5,217 | 6 |
 ## Awards
 Max (Great for Beginners): 26  (Ranked 498)  
 Sum: 26 (Ranked 507)  

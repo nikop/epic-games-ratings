@@ -52,6 +52,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Flying off the Shelves | 0.70% | ~963 |
 | This Power Level...! | 0.70% | ~963 |
 | Hidden Potential | 0.70% | ~963 |
+| Expansion in Session | 0.70% | ~963 |
 | Trash to Treasure | 0.70% | ~963 |
 | Seasoned Journeyman | 0.70% | ~963 |
 | Black Friday Special | 0.70% | ~963 |
@@ -67,7 +68,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Locally Sourced | 0.60% | ~825 |
 | Master of Transmutation | 0.60% | ~825 |
 | Supercharged | 0.60% | ~825 |
-| Expansion in Session | 0.60% | ~825 |
 | Cranked up to 11 | 0.60% | ~825 |
 | Fit for a King | 0.60% | ~825 |
 | Mammonite | 0.60% | ~825 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~138 |
 | Cash Only Please | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,567 (Ranked 73)  
+Progressed: 137,570 (Ranked 73)  
 Completed: 168 (0.12%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 168 (0.12%) (Ranked 240)
 | 2023-10-11 | 137,455 | 168 |
 | 2023-10-12 | 137,496 | 168 |
 | 2023-10-13 | 137,555 | 168 |
-| 2023-10-14 | 137,567 | 168 |
+| 2023-10-14 | 137,570 | 168 |
 ## Awards
 Max (Great for Beginners): 4,785  (Ranked 71)  
 Sum: 27,380 (Ranked 50)  

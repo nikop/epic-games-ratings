@@ -1748,9 +1748,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 60678,
+  "EOS_Progressed": 60679,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 567,
+  "EOS_NewPlayers": 565,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -21108,6 +21108,11 @@
       "Time": "2023-10-14T01:48:09.6243444+00:00",
       "NumProgressed": 60678,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-14T06:06:11.3763536+00:00",
+      "NumProgressed": 60679,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -21351,7 +21356,7 @@
       "Name": "Headhunter I",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 15776
+      "UsersEstimate": 15777
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS2",
@@ -21383,7 +21388,7 @@
       "Name": "Corpseman I",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 24271
+      "UsersEstimate": 24272
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -21407,7 +21412,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 38227
+      "UsersEstimate": 38228
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -21455,7 +21460,7 @@
       "Name": "Semper Fidelis!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4247
+      "UsersEstimate": 4248
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS1",
@@ -21487,7 +21492,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 47329
+      "UsersEstimate": 47330
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -21503,7 +21508,7 @@
       "Name": "Honneur et Patrie",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4247
+      "UsersEstimate": 4248
     },
     {
       "ID": "VERDUN_ACH_SAMEFRIEND1",
@@ -21590,15 +21595,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 60678,
+      "Progressed": 60679,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-09-19T10:59:28.3016701+00:00",
-  "LastChanged_Achievements": "2023-10-14T05:08:28.0742361+00:00",
+  "LastChanged_Achievements": "2023-10-14T06:06:11.3763531+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:23.9532506+00:00",
-  "LastUpdate_Ratings": "2023-10-14T04:58:04.6313675+00:00",
-  "LastUpdate_Achievements": "2023-10-14T05:08:28.0744073+00:00"
+  "LastUpdate_Ratings": "2023-10-14T05:57:17.0528016+00:00",
+  "LastUpdate_Achievements": "2023-10-14T06:06:11.3764849+00:00"
 }

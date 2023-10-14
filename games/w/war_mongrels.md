@@ -6,28 +6,28 @@ Number of Ratings: 34  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 67.00% | ~362 |
+| Explorer | 67.00% | ~363 |
 | Cowardice | 60.00% | ~325 |
-| NO LIFE IS WORTH SAVING... | 50.00% | ~270 |
+| NO LIFE IS WORTH SAVING... | 51.00% | ~276 |
 | Eat Lead! | 48.00% | ~260 |
 | The Breaking Point | 46.00% | ~249 |
-| Prospector | 45.00% | ~243 |
+| Prospector | 45.00% | ~244 |
 | Here Comes the Boom | 44.00% | ~238 |
 | Treasure Hunter | 41.00% | ~222 |
 | Sniper Wolf | 41.00% | ~222 |
-| The Motivation | 40.00% | ~216 |
-| Heroism | 37.00% | ~200 |
-| Missing in Action | 37.00% | ~200 |
-| Collectibles of Chapter I | 35.00% | ~189 |
+| The Motivation | 40.00% | ~217 |
+| Heroism | 37.00% | ~201 |
+| Missing in Action | 37.00% | ~201 |
+| Collectibles of Chapter I | 35.00% | ~190 |
 | Consequences | 34.00% | ~184 |
 | King of Knives | 34.00% | ~184 |
 | Opportunities | 33.00% | ~179 |
 | The Horror | 31.00% | ~168 |
-| The Difference | 28.00% | ~151 |
+| The Difference | 28.00% | ~152 |
 | Vengeance | 27.00% | ~146 |
 | Collectibles of Chapter II | 24.00% | ~130 |
 | Broken Hopes | 24.00% | ~130 |
-| Bullseye! | 23.00% | ~124 |
+| Bullseye! | 23.00% | ~125 |
 | It's Just an Accident | 22.00% | ~119 |
 | Sorrow | 21.00% | ~114 |
 | Atonement | 19.00% | ~103 |
@@ -41,8 +41,8 @@ Number of Ratings: 34  (23.09.2022)
 | Tiptoe Around | 9.00% | ~49 |
 | Collectibles of Chapter XII | 7.00% | ~38 |
 | Piece of Cake | 7.00% | ~38 |
-| Collectibles of Chapter VII | 6.00% | ~32 |
-| Not Spill a Drop | 6.00% | ~32 |
+| Collectibles of Chapter VII | 6.00% | ~33 |
+| Not Spill a Drop | 6.00% | ~33 |
 | Collectibles of Chapter VIII | 5.00% | ~27 |
 | Collectibles of Chapter XI | 5.00% | ~27 |
 | The Good Samaritan | 5.00% | ~27 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 541 (Ranked 269)  
+Progressed: 542 (Ranked 269)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-10-11 | 538 | 0 |
 | 2023-10-12 | 539 | 0 |
 | 2023-10-13 | 540 | 0 |
-| 2023-10-14 | 541 | 0 |
+| 2023-10-14 | 542 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

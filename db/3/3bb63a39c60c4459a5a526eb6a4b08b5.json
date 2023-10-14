@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 791,
+  "EOS_Progressed": 792,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
@@ -2951,6 +2951,11 @@
       "Time": "2023-10-13T20:03:35.5631173+00:00",
       "NumProgressed": 791,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-14T06:03:16.8658467+00:00",
+      "NumProgressed": 792,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2978,7 +2983,7 @@
       "Name": "Basic Controls",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "BigPlane",
@@ -3010,7 +3015,7 @@
       "Name": "That Was Close!",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "Creator",
@@ -3130,7 +3135,7 @@
       "Name": "Long Distances",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ManagementMaster",
@@ -3160,9 +3165,9 @@
       "ID": "NewRecord",
       "SetID": "1e89b4i",
       "Name": "New Record",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 308
+      "UsersEstimate": 317
     },
     {
       "ID": "NoTimeForModernization",
@@ -3178,7 +3183,7 @@
       "Name": "No Way Back",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "NotPlanned",
@@ -3290,21 +3295,21 @@
       "Name": "Transport Hub",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 791,
+      "Progressed": 792,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-10-14T05:04:11.2422149+00:00",
+  "LastChanged_Achievements": "2023-10-14T06:03:16.8658462+00:00",
   "LastUpdate_AppInfo": "2023-10-10T13:57:13.1433164+00:00",
-  "LastUpdate_Ratings": "2023-10-14T05:00:36.4036923+00:00",
-  "LastUpdate_Achievements": "2023-10-14T05:04:11.2422737+00:00"
+  "LastUpdate_Ratings": "2023-10-14T05:59:02.8937308+00:00",
+  "LastUpdate_Achievements": "2023-10-14T06:03:16.8658876+00:00"
 }

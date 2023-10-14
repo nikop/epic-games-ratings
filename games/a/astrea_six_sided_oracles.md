@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Noctuan Champion | 32.00% | ~17 |
+| Noctuan Champion | 31.00% | ~17 |
 | Apian Champion | 28.00% | ~15 |
 | Eridanian Champion | 28.00% | ~15 |
 | Lacertian Champion | 28.00% | ~15 |
-| Endless Tricks | 25.00% | ~13 |
-| Dicesmithing Time! | 23.00% | ~12 |
-| Meissa's Savior | 23.00% | ~12 |
-| Sanctuary Guardian | 23.00% | ~12 |
-| Wild's Keeper | 23.00% | ~12 |
-| Behenian Champion | 23.00% | ~12 |
-| Loyal Partner | 21.00% | ~11 |
-| Mechanical Buddy | 21.00% | ~11 |
-| Mind Illuminator | 21.00% | ~11 |
-| Purification Pioneer | 21.00% | ~11 |
-| Stellar Dismantler | 21.00% | ~11 |
+| Endless Tricks | 24.00% | ~13 |
+| Meissa's Savior | 24.00% | ~13 |
+| Dicesmithing Time! | 22.00% | ~12 |
+| Purification Pioneer | 22.00% | ~12 |
+| Sanctuary Guardian | 22.00% | ~12 |
+| Wild's Keeper | 22.00% | ~12 |
+| Behenian Champion | 22.00% | ~12 |
+| Loyal Partner | 20.00% | ~11 |
+| Mechanical Buddy | 20.00% | ~11 |
+| Mind Illuminator | 20.00% | ~11 |
+| Stellar Dismantler | 20.00% | ~11 |
 | Anomaly Destroyer | 19.00% | ~10 |
 | Shard Spender | 19.00% | ~10 |
 | Aquarian Champion | 17.00% | ~9 |
@@ -35,9 +35,9 @@
 | Stellar Haste | 9.00% | ~5 |
 | Wave Bender | 9.00% | ~5 |
 | Apian Hero | 9.00% | ~5 |
-| Can't touch this | 8.00% | ~4 |
-| Heavy Purger | 8.00% | ~4 |
-| Lacertian Hero | 8.00% | ~4 |
+| Can't touch this | 7.00% | ~4 |
+| Heavy Purger | 7.00% | ~4 |
+| Lacertian Hero | 7.00% | ~4 |
 | Denying Destiny | 6.00% | ~3 |
 | Purification Avatar | 6.00% | ~3 |
 | The Abyssal Terror | 6.00% | ~3 |
@@ -103,7 +103,7 @@
 | Apian Mastery | 0.00% | ~0 |
 | Eridanian Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53 (Ranked 433)  
+Progressed: 54 (Ranked 430)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,3 +125,4 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-10-10 | 51 | 0 |
 | 2023-10-11 | 52 | 0 |
 | 2023-10-13 | 53 | 0 |
+| 2023-10-14 | 54 | 0 |

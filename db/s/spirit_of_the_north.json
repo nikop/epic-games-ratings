@@ -324,9 +324,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 71328,
+  "EOS_Progressed": 71329,
   "EOS_Completed": 377,
-  "EOS_NewPlayers": 579,
+  "EOS_NewPlayers": 575,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -19709,6 +19709,11 @@
       "Time": "2023-10-14T05:08:39.8143889+00:00",
       "NumProgressed": 71328,
       "NumCompleted": 377
+    },
+    {
+      "Time": "2023-10-14T06:06:19.775892+00:00",
+      "NumProgressed": 71329,
+      "NumCompleted": 377
     }
   ],
   "TotalAchievements": 24,
@@ -19736,7 +19741,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 48503
+      "UsersEstimate": 48504
     },
     {
       "ID": "BEST_FRIENDS",
@@ -19752,7 +19757,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 18545
+      "UsersEstimate": 18546
     },
     {
       "ID": "ERADICATE",
@@ -19880,7 +19885,7 @@
       "Name": "SPIRIT FORM",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 11412
+      "UsersEstimate": 11413
     },
     {
       "ID": "UPROOTING_DARKNESS",
@@ -19904,14 +19909,14 @@
       "Name": "WRITTEN IN STONE",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 11412
+      "UsersEstimate": 11413
     }
   ],
   "AchievementSets": [
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 71328,
+      "Progressed": 71329,
       "Completed": 377
     }
   ],
@@ -19919,8 +19924,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-10-14T05:08:39.8143883+00:00",
+  "LastChanged_Achievements": "2023-10-14T06:06:19.7758915+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:52.3980127+00:00",
-  "LastUpdate_Ratings": "2023-10-14T05:02:37.1764938+00:00",
-  "LastUpdate_Achievements": "2023-10-14T05:08:39.8145494+00:00"
+  "LastUpdate_Ratings": "2023-10-14T06:00:21.1997583+00:00",
+  "LastUpdate_Achievements": "2023-10-14T06:06:19.7759978+00:00"
 }

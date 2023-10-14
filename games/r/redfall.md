@@ -12,12 +12,12 @@ Rating: 3.51 (Ranked 1,010)
 | Fly Fisher | 1.00% | ~18 |
 | Throw The First Stone | 1.00% | ~18 |
 | Sucks To Be You | 1.00% | ~18 |
+| Wounded Whispers | 1.00% | ~18 |
 | Catch and Release | 1.00% | ~18 |
 | Enter of Your Own Free Will | 0.90% | ~16 |
 | Welcome to the Neighborhood | 0.90% | ~16 |
 | Peek-a-boo | 0.90% | ~16 |
 | ICU | 0.90% | ~16 |
-| Wounded Whispers | 0.90% | ~16 |
 | Heart Attack | 0.90% | ~16 |
 | Skin of Their Teeth | 0.90% | ~16 |
 | Home Is Where the Heart Is | 0.80% | ~14 |
@@ -37,6 +37,7 @@ Rating: 3.51 (Ranked 1,010)
 | You Clean It Up | 0.30% | ~5 |
 | Sisterhood | 0.30% | ~5 |
 | Nice Try | 0.30% | ~5 |
+| Dexterity Save | 0.30% | ~5 |
 | I Spit On Your Grave | 0.30% | ~5 |
 | What Lies Below | 0.20% | ~4 |
 | Check, Please! | 0.20% | ~4 |
@@ -44,7 +45,6 @@ Rating: 3.51 (Ranked 1,010)
 | So Anyway I Started Blasting | 0.20% | ~4 |
 | Blacklight Down | 0.20% | ~4 |
 | Enemy of My Enemy | 0.20% | ~4 |
-| Dexterity Save | 0.20% | ~4 |
 | Bob’s Final Hour | 0.20% | ~4 |
 | Curious Finch | 0.20% | ~4 |
 | Revelations | 0.10% | ~2 |

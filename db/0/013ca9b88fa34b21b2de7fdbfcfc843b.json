@@ -118,9 +118,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6594,
+  "EOS_Progressed": 6595,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 430,
+  "EOS_NewPlayers": 431,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4198,6 +4198,11 @@
       "Time": "2023-10-14T05:04:45.8667974+00:00",
       "NumProgressed": 6594,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-14T06:03:41.4537612+00:00",
+      "NumProgressed": 6595,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -4298,7 +4303,7 @@
       "Name": "Lumberjack",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 1714
+      "UsersEstimate": 1715
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -4306,7 +4311,7 @@
       "Name": "Miner 49er",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 2769
+      "UsersEstimate": 2770
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -4314,7 +4319,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 3165
+      "UsersEstimate": 3166
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -4362,7 +4367,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 3956
+      "UsersEstimate": 3957
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -4386,7 +4391,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 3033
+      "UsersEstimate": 3034
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -4489,7 +4494,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 6594,
+      "Progressed": 6595,
       "Completed": 0
     }
   ],
@@ -4497,8 +4502,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-12T12:03:13.8462755+00:00",
-  "LastChanged_Achievements": "2023-10-14T05:04:45.8667965+00:00",
+  "LastChanged_Achievements": "2023-10-14T06:03:41.4537608+00:00",
   "LastUpdate_AppInfo": "2023-10-13T06:57:01.9287951+00:00",
-  "LastUpdate_Ratings": "2023-10-14T04:58:19.8616985+00:00",
-  "LastUpdate_Achievements": "2023-10-14T05:04:45.8668544+00:00"
+  "LastUpdate_Ratings": "2023-10-14T05:57:29.2208518+00:00",
+  "LastUpdate_Achievements": "2023-10-14T06:03:41.4538017+00:00"
 }

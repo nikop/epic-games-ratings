@@ -15,7 +15,7 @@ Number of Ratings: 281  (23.09.2022)
 | Ready to Rod and Roll | 47.00% | ~2,843 |
 | Fish Out of Water | 36.00% | ~2,177 |
 | License to Gill | 33.00% | ~1,996 |
-| Things that go Splash in the Night | 31.00% | ~1,875 |
+| Things that go Splash in the Night | 32.00% | ~1,935 |
 | Goldfish? | 29.00% | ~1,754 |
 | Going for Gold | 26.00% | ~1,572 |
 | I'm Hooked! | 20.00% | ~1,210 |

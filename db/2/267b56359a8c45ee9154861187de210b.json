@@ -4,7 +4,7 @@
   "ProductSlug": "marble-it-up-ultra-7b5692",
   "Ranking_EOS_Progress": 444,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 45,
+  "EOS_Progressed": 46,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -216,6 +216,11 @@
       "Time": "2023-10-13T20:07:41.4842614+00:00",
       "NumProgressed": 45,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-14T06:06:27.2219069+00:00",
+      "NumProgressed": 46,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T22:03:23.4161887+00:00",
@@ -322,7 +327,7 @@
       "ID": "airtime_short",
       "SetID": "3448go",
       "Name": "Glider",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 5,
       "UsersEstimate": 13
     },
@@ -346,7 +351,7 @@
       "ID": "beat_c1_gold",
       "SetID": "3448go",
       "Name": "Venture Time",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
       "UsersEstimate": 17
     },
@@ -354,7 +359,7 @@
       "ID": "beat_c1_silver",
       "SetID": "3448go",
       "Name": "Treasured Momentum",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 10,
       "UsersEstimate": 26
     },
@@ -418,7 +423,7 @@
       "ID": "beat_c2_silver",
       "SetID": "3448go",
       "Name": "Gone for a Whirl",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
       "UsersEstimate": 13
     },
@@ -810,7 +815,7 @@
       "ID": "rolldist_short",
       "SetID": "3448go",
       "Name": "Rolling the Competition",
-      "Percentage": 69,
+      "Percentage": 67,
       "XP": 5,
       "UsersEstimate": 31
     },
@@ -850,7 +855,7 @@
       "ID": "trophies_10",
       "SetID": "3448go",
       "Name": "Look What I Found!",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -915,14 +920,14 @@
     {
       "ID": "3448go",
       "IsBase": true,
-      "Progressed": 45,
+      "Progressed": 46,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2023-10-14T05:08:50.4427306+00:00",
+  "LastChanged_Achievements": "2023-10-14T06:06:27.2219064+00:00",
   "LastUpdate_AppInfo": "2023-10-11T21:57:10.1271769+00:00",
-  "LastUpdate_Ratings": "2023-10-14T04:58:08.7930594+00:00",
-  "LastUpdate_Achievements": "2023-10-14T05:08:50.4428336+00:00"
+  "LastUpdate_Ratings": "2023-10-14T05:57:20.6430398+00:00",
+  "LastUpdate_Achievements": "2023-10-14T06:06:27.2219858+00:00"
 }

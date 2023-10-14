@@ -1,32 +1,32 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.45 (Ranked 643)  
+Rating: 4.45 (Ranked 644)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 46.00% | ~1,719 |
 | Confirming Suspicions | 41.00% | ~1,532 |
-| The Kraken Wakes | 37.00% | ~1,382 |
-| It's Starting to Crack | 34.00% | ~1,270 |
+| The Kraken Wakes | 37.00% | ~1,383 |
+| It's Starting to Crack | 34.00% | ~1,271 |
 | Change the Channel | 31.00% | ~1,158 |
 | Lord of War | 30.00% | ~1,121 |
 | Taking it back | 28.00% | ~1,046 |
 | Resourceful | 27.00% | ~1,009 |
-| Target America | 26.00% | ~971 |
+| Target America | 26.00% | ~972 |
 | The Kraken Sleeps | 24.00% | ~897 |
-| Organ Grinder | 23.00% | ~859 |
-| As Quiet as a Mouse | 23.00% | ~859 |
+| Organ Grinder | 23.00% | ~860 |
+| As Quiet as a Mouse | 23.00% | ~860 |
 | Liberté | 22.00% | ~822 |
 | Sharpshooter | 22.00% | ~822 |
 | Explosive Efficiency | 19.00% | ~710 |
-| Gunslinger | 18.00% | ~672 |
+| Gunslinger | 18.00% | ~673 |
 | Just a Flesh Wound | 17.00% | ~635 |
 | Climbing the Ladder | 16.00% | ~598 |
 | Der Geist | 16.00% | ~598 |
 | Close Quarters | 16.00% | ~598 |
-| Snake in the Grass | 15.00% | ~560 |
-| Brains of the Operation | 15.00% | ~560 |
+| Snake in the Grass | 15.00% | ~561 |
+| Brains of the Operation | 15.00% | ~561 |
 | No Stone Unturned | 14.00% | ~523 |
 | Opposing Force | 14.00% | ~523 |
 | Fields of Glory | 14.00% | ~523 |
@@ -34,8 +34,8 @@ Rating: 4.45 (Ranked 643)
 | Die Nussknacker Sweet! | 14.00% | ~523 |
 | Enemy at the Gates | 13.00% | ~486 |
 | Set Europe Ablaze | 13.00% | ~486 |
-| Precision Is Key | 10.00% | ~374 |
 | My Little Friend | 10.00% | ~374 |
+| Precision Is Key | 9.00% | ~336 |
 | Rigged to Blow | 8.00% | ~299 |
 | Herr Today, Gone Tomorrow | 7.00% | ~258 |
 | Operation Foxley | 6.00% | ~221 |
@@ -46,9 +46,9 @@ Rating: 4.45 (Ranked 643)
 | Tinkerer | 4.00% | ~149 |
 | Locomotion Commotion | 4.00% | ~149 |
 | Road Rage | 4.00% | ~149 |
-| Last Resort | 4.00% | ~147 |
-| Siegebreaker | 4.00% | ~147 |
-| Ghost of Falaise | 4.00% | ~147 |
+| Last Resort | 4.00% | ~148 |
+| Siegebreaker | 4.00% | ~148 |
+| Ghost of Falaise | 4.00% | ~148 |
 | From Paris with Love | 3.00% | ~112 |
 | Burn after reading | 3.00% | ~112 |
 | Souvenir hunter | 3.00% | ~112 |
@@ -71,13 +71,13 @@ Rating: 4.45 (Ranked 643)
 | Das Familienjuwel | 1.00% | ~37 |
 | Master of Secondaries | 0.90% | ~34 |
 | Master of Rifles | 0.90% | ~34 |
-| Operation Overlord | 0.80% | ~29 |
+| Operation Overlord | 0.80% | ~30 |
 | Master of Pistols | 0.70% | ~26 |
 | Master-at-arms | 0.60% | ~22 |
 | Stroll in the Woods | 0.60% | ~22 |
 | Going Overboard | 0.60% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,736 (Ranked 179)  
+Progressed: 3,737 (Ranked 179)  
 Completed: 11 (0.29%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,7 +252,7 @@ Completed: 11 (0.29%) (Ranked 209)
 | 2023-10-11 | 3,726 | 11 |
 | 2023-10-12 | 3,727 | 11 |
 | 2023-10-13 | 3,734 | 11 |
-| 2023-10-14 | 3,736 | 11 |
+| 2023-10-14 | 3,737 | 11 |
 ## Awards
 Max (Great for Beginners): 20  (Ranked 526)  
 Sum: 20 (Ranked 527)  

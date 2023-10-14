@@ -6,9 +6,9 @@
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 47,
-  "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_Completed": 230,
+  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8946,9 +8946,9 @@
       "Count": 710
     }
   ],
-  "EOS_Progressed": 298275,
+  "EOS_Progressed": 298279,
   "EOS_Completed": 485,
-  "EOS_NewPlayers": 347,
+  "EOS_NewPlayers": 351,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -27886,6 +27886,11 @@
       "Time": "2023-10-14T05:05:23.2421463+00:00",
       "NumProgressed": 298275,
       "NumCompleted": 485
+    },
+    {
+      "Time": "2023-10-14T06:04:07.6469809+00:00",
+      "NumProgressed": 298279,
+      "NumCompleted": 485
     }
   ],
   "TotalAchievements": 45,
@@ -27897,7 +27902,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 44741
+      "UsersEstimate": 44742
     },
     {
       "ID": "PFA_10",
@@ -27921,7 +27926,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 32810
+      "UsersEstimate": 32811
     },
     {
       "ID": "PFA_13",
@@ -27937,7 +27942,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 17896
+      "UsersEstimate": 17897
     },
     {
       "ID": "PFA_15",
@@ -27953,7 +27958,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32810
+      "UsersEstimate": 32811
     },
     {
       "ID": "PFA_17",
@@ -27961,7 +27966,7 @@
       "Name": "Beast Friends",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20879
+      "UsersEstimate": 20880
     },
     {
       "ID": "PFA_18",
@@ -28025,7 +28030,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32810
+      "UsersEstimate": 32811
     },
     {
       "ID": "PFA_25",
@@ -28033,7 +28038,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 17896
+      "UsersEstimate": 17897
     },
     {
       "ID": "PFA_26",
@@ -28065,7 +28070,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 17896
+      "UsersEstimate": 17897
     },
     {
       "ID": "PFA_3",
@@ -28081,7 +28086,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32810
+      "UsersEstimate": 32811
     },
     {
       "ID": "PFA_31",
@@ -28105,7 +28110,7 @@
       "Name": "Spilled Milk",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2684
+      "UsersEstimate": 2685
     },
     {
       "ID": "PFA_34",
@@ -28153,7 +28158,7 @@
       "Name": "Coasting Along",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32810
+      "UsersEstimate": 32811
     },
     {
       "ID": "PFA_4",
@@ -28185,7 +28190,7 @@
       "Name": "Raising Expectations",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 17896
+      "UsersEstimate": 17897
     },
     {
       "ID": "PFA_43",
@@ -28256,7 +28261,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298275,
+      "Progressed": 298279,
       "Completed": 485
     }
   ],
@@ -28264,8 +28269,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-14T01:41:34.4806498+00:00",
-  "LastChanged_Achievements": "2023-10-14T05:05:23.2421458+00:00",
+  "LastChanged_Achievements": "2023-10-14T06:04:07.6469804+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:01.0338203+00:00",
-  "LastUpdate_Ratings": "2023-10-14T05:01:40.3590853+00:00",
-  "LastUpdate_Achievements": "2023-10-14T05:05:23.2422965+00:00"
+  "LastUpdate_Ratings": "2023-10-14T05:59:45.4859313+00:00",
+  "LastUpdate_Achievements": "2023-10-14T06:04:07.647096+00:00"
 }

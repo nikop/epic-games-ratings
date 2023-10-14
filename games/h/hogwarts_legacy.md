@@ -5,16 +5,16 @@ Rating: 4.76 (Ranked 119)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 15.00% | ~44,741 |
+| The Sort Who Makes an Entrance | 15.00% | ~44,742 |
 | First Class Student | 13.00% | ~38,776 |
 | Troll with the Punches | 13.00% | ~38,776 |
 | A Keen Sense of Spell | 12.00% | ~35,793 |
 | That's a Keeper | 12.00% | ~35,793 |
-| The Hallowed Hero | 11.00% | ~32,810 |
-| The Defender of Dragons | 11.00% | ~32,810 |
-| Loom for Improvement | 11.00% | ~32,810 |
-| A Talent for Spending | 11.00% | ~32,810 |
-| Coasting Along | 11.00% | ~32,810 |
+| The Hallowed Hero | 11.00% | ~32,811 |
+| The Defender of Dragons | 11.00% | ~32,811 |
+| Loom for Improvement | 11.00% | ~32,811 |
+| A Talent for Spending | 11.00% | ~32,811 |
+| Coasting Along | 11.00% | ~32,811 |
 | Grappling with a Graphorn | 10.00% | ~29,828 |
 | The One Who Mastered Memories | 10.00% | ~29,828 |
 | The Hero of Hogwarts | 10.00% | ~29,828 |
@@ -25,11 +25,11 @@ Rating: 4.76 (Ranked 119)
 | The Avenging Gazelle | 8.00% | ~23,862 |
 | A Sallow Grave | 8.00% | ~23,862 |
 | Flight the Good Flight | 8.00% | ~23,862 |
-| Beast Friends | 7.00% | ~20,879 |
-| The Seeker of Knowledge | 6.00% | ~17,896 |
-| The Root of the Problem | 6.00% | ~17,896 |
-| Third Time's a Charm | 6.00% | ~17,896 |
-| Raising Expectations | 6.00% | ~17,896 |
+| Beast Friends | 7.00% | ~20,880 |
+| The Seeker of Knowledge | 6.00% | ~17,897 |
+| The Root of the Problem | 6.00% | ~17,897 |
+| Third Time's a Charm | 6.00% | ~17,897 |
+| Raising Expectations | 6.00% | ~17,897 |
 | The Toast of the Town | 5.00% | ~14,914 |
 | The Ends Petrify the Means | 5.00% | ~14,914 |
 | Going Through the Potions | 4.00% | ~11,931 |
@@ -47,12 +47,12 @@ Rating: 4.76 (Ranked 119)
 | Merlin's Beard! | 1.00% | ~2,983 |
 | Demiguise Dread | 1.00% | ~2,983 |
 | A Forte for Achievement | 1.00% | ~2,983 |
-| Spilled Milk | 0.90% | ~2,684 |
+| Spilled Milk | 0.90% | ~2,685 |
 | The Nature of the Beast | 0.70% | ~2,088 |
 | Collector's Edition | 0.30% | ~895 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,275 (Ranked 47)  
-Completed: 485 (0.16%) (Ranked 231)  
+Progressed: 298,279 (Ranked 47)  
+Completed: 485 (0.16%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -228,7 +228,7 @@ Completed: 485 (0.16%) (Ranked 231)
 | 2023-10-11 | 298,177 | 483 |
 | 2023-10-12 | 298,217 | 485 |
 | 2023-10-13 | 298,257 | 485 |
-| 2023-10-14 | 298,275 | 485 |
+| 2023-10-14 | 298,279 | 485 |
 ## Awards
 Max (Character Customization): 23,491  (Ranked 17)  
 Sum: 45,777 (Ranked 30)  

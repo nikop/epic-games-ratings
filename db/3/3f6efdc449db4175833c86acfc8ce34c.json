@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 903,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.65,
   "EosHistory": [
@@ -2137,9 +2137,9 @@
       "ID": "Mission3",
       "SetID": "6igjng7",
       "Name": "Mission 2 clear",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 200,
-      "UsersEstimate": 253
+      "UsersEstimate": 262
     },
     {
       "ID": "Mission4",
@@ -2168,8 +2168,8 @@
   ],
   "FirstSeen": "2023-08-19T18:58:05.6794692+00:00",
   "FirstSeenAchievements": "2023-08-08T21:02:12.6548497+00:00",
-  "LastChanged_Achievements": "2023-10-14T05:09:49.3944756+00:00",
+  "LastChanged_Achievements": "2023-10-14T06:08:38.254993+00:00",
   "LastUpdate_AppInfo": "2023-10-09T13:09:08.8929434+00:00",
-  "LastUpdate_Ratings": "2023-10-14T05:00:37.158085+00:00",
-  "LastUpdate_Achievements": "2023-10-14T05:09:49.3945649+00:00"
+  "LastUpdate_Ratings": "2023-10-14T05:59:03.4075134+00:00",
+  "LastUpdate_Achievements": "2023-10-14T06:08:38.2550089+00:00"
 }

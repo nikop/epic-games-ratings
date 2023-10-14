@@ -2,9 +2,9 @@
   "ID": "c466c310959a47d9a3d59acdd77a0caa",
   "Name": "Mia and the Dragon Princess",
   "ProductSlug": "mia-and-the-dragon-princess-f4e1d0",
-  "Ranking_EOS_Progress": 414,
+  "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-05-04T07:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 68,
+  "EOS_Progressed": 69,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.47,
+  "EOS_Completed_Percentage": 1.45,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:47:18.2098376+00:00",
@@ -366,6 +366,11 @@
       "Time": "2023-10-14T00:09:34.2968372+00:00",
       "NumProgressed": 68,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-14T06:08:39.738623+00:00",
+      "NumProgressed": 69,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 18,
@@ -375,7 +380,7 @@
       "ID": "a_box_of_tricks",
       "SetID": "5anb57n",
       "Name": "A Box of Tricks",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 90,
       "UsersEstimate": 14
     },
@@ -383,7 +388,7 @@
       "ID": "backstory_buff",
       "SetID": "5anb57n",
       "Name": "Backstory Buff",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 40,
       "UsersEstimate": 12
     },
@@ -399,7 +404,7 @@
       "ID": "breathless_end",
       "SetID": "5anb57n",
       "Name": "Breathless End",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 90,
       "UsersEstimate": 10
     },
@@ -407,7 +412,7 @@
       "ID": "codebreaker",
       "SetID": "5anb57n",
       "Name": "Codebreaker",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 40,
       "UsersEstimate": 12
     },
@@ -423,7 +428,7 @@
       "ID": "explosive_end",
       "SetID": "5anb57n",
       "Name": "Explosive End",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 90,
       "UsersEstimate": 14
     },
@@ -431,7 +436,7 @@
       "ID": "finger_lickin_bad",
       "SetID": "5anb57n",
       "Name": "Finger-Lickin\u0027 Bad",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 12
     },
@@ -463,7 +468,7 @@
       "ID": "glass_act",
       "SetID": "5anb57n",
       "Name": "Glass Act",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
       "UsersEstimate": 25
     },
@@ -479,7 +484,7 @@
       "ID": "puzzle_prodigy",
       "SetID": "5anb57n",
       "Name": "Puzzle Prodigy",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 40,
       "UsersEstimate": 16
     },
@@ -487,7 +492,7 @@
       "ID": "relight_my_cannon",
       "SetID": "5anb57n",
       "Name": "Relight my Cannon",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 40,
       "UsersEstimate": 25
     },
@@ -495,7 +500,7 @@
       "ID": "set_sail",
       "SetID": "5anb57n",
       "Name": "Set Sail",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 90,
       "UsersEstimate": 12
     },
@@ -503,7 +508,7 @@
       "ID": "snitch",
       "SetID": "5anb57n",
       "Name": "Snitch",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
       "UsersEstimate": 16
     },
@@ -511,7 +516,7 @@
       "ID": "tour_guide_extraordinaire",
       "SetID": "5anb57n",
       "Name": "Tour Guide Extraordinaire",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
       "UsersEstimate": 25
     }
@@ -520,14 +525,14 @@
     {
       "ID": "5anb57n",
       "IsBase": true,
-      "Progressed": 68,
+      "Progressed": 69,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-13T16:58:04.6283661+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:18.2098384+00:00",
-  "LastChanged_Achievements": "2023-10-14T05:09:51.5911443+00:00",
+  "LastChanged_Achievements": "2023-10-14T06:08:39.7386224+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:16.5255346+00:00",
-  "LastUpdate_Ratings": "2023-10-14T05:01:32.8274256+00:00",
-  "LastUpdate_Achievements": "2023-10-14T05:09:51.5911619+00:00"
+  "LastUpdate_Ratings": "2023-10-14T05:59:40.2615771+00:00",
+  "LastUpdate_Achievements": "2023-10-14T06:08:39.7386348+00:00"
 }
