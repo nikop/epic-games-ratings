@@ -9,15 +9,15 @@
 | Triple Kill | 60.00% | ~187 |
 | Aspairagus | 60.00% | ~157 |
 | No Asperascope | 57.00% | ~178 |
-| Survivor | 55.00% | ~144 |
+| Survivor | 56.00% | ~147 |
 | Cornivore | 52.00% | ~162 |
 | I Believe I Can Fly | 49.00% | ~153 |
 | No Diggity | 44.00% | ~115 |
-| Early Survivor | 39.00% | ~102 |
+| Early Survivor | 40.00% | ~105 |
 | Bouncemato | 31.00% | ~81 |
 | 10K | 29.00% | ~90 |
 | Amateur Survivor | 29.00% | ~76 |
-| 15K | 27.00% | ~84 |
+| 15K | 28.00% | ~87 |
 | Quick-Draw Pod | 24.00% | ~63 |
 | Drinking Problem | 22.00% | ~69 |
 | Grave Digger | 22.00% | ~58 |

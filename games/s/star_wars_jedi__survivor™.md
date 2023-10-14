@@ -5,21 +5,21 @@ Rating: 4.49 (Ranked 591)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rooftop Duel | 99.00% | ~5,044 |
-| For Saw Gerrera | 98.00% | ~4,993 |
-| Grab Some Seat | 91.00% | ~4,636 |
-| Can You Pet the Bogling? | 87.00% | ~4,433 |
-| The Past Made Present | 83.00% | ~4,229 |
-| Survivors, We Adapt | 79.00% | ~4,025 |
-| They Never Saw It Coming | 77.00% | ~3,923 |
-| Among the Masters | 77.00% | ~3,923 |
-| Who Gives a Puck | 72.00% | ~3,668 |
+| Rooftop Duel | 99.00% | ~5,045 |
+| For Saw Gerrera | 98.00% | ~4,994 |
+| Grab Some Seat | 91.00% | ~4,637 |
+| Can You Pet the Bogling? | 87.00% | ~4,434 |
+| The Past Made Present | 83.00% | ~4,230 |
+| Survivors, We Adapt | 79.00% | ~4,026 |
+| They Never Saw It Coming | 77.00% | ~3,924 |
+| Among the Masters | 77.00% | ~3,924 |
+| Who Gives a Puck | 72.00% | ~3,669 |
 | Mirror Match | 64.00% | ~3,261 |
 | Now, This Isn't Podracing | 64.00% | ~3,261 |
 | For the Path | 64.00% | ~3,261 |
-| Skywalker | 60.00% | ~3,057 |
-| Out of Bedlam | 58.00% | ~2,955 |
-| Cleaning Up | 53.00% | ~2,700 |
+| Skywalker | 60.00% | ~3,058 |
+| Out of Bedlam | 58.00% | ~2,956 |
+| Cleaning Up | 53.00% | ~2,701 |
 | Kitted Out | 50.00% | ~2,548 |
 | Hey, Luke At Us | 49.00% | ~2,497 |
 | Tanalorr Bound | 49.00% | ~2,497 |
@@ -31,9 +31,9 @@ Rating: 4.49 (Ranked 591)
 | A Place You Could Call Home | 41.00% | ~2,089 |
 | Catch! | 39.00% | ~1,987 |
 | They're Probably Fine | 38.00% | ~1,936 |
-| Han Slowlo | 35.00% | ~1,783 |
-| There Is No Try | 35.00% | ~1,783 |
-| The Jedi Path | 30.00% | ~1,528 |
+| Han Slowlo | 35.00% | ~1,784 |
+| There Is No Try | 35.00% | ~1,784 |
+| The Jedi Path | 30.00% | ~1,529 |
 | This Is Canon | 27.00% | ~1,376 |
 | It's a Trap | 25.00% | ~1,274 |
 | You've Got A Friend | 21.00% | ~1,070 |
@@ -41,7 +41,7 @@ Rating: 4.49 (Ranked 591)
 | Reconnaissance | 15.00% | ~764 |
 | A Presence I've Not Felt Since... | 14.00% | ~713 |
 | Max Capacity | 13.00% | ~662 |
-| Slam Dunk | 11.00% | ~560 |
+| Slam Dunk | 11.00% | ~561 |
 | Star Tours | 10.00% | ~510 |
 | Caij Match | 9.00% | ~459 |
 | Gambler | 9.00% | ~459 |
@@ -59,7 +59,7 @@ Rating: 4.49 (Ranked 591)
 | Pinpoint | 2.00% | ~102 |
 | Splurgle | 2.00% | ~102 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,095 (Ranked 174)  
+Progressed: 5,096 (Ranked 174)  
 Completed: 19 (0.37%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 19 (0.37%) (Ranked 194)
 | 2023-10-11 | 4,919 | 19 |
 | 2023-10-12 | 4,985 | 19 |
 | 2023-10-13 | 5,055 | 19 |
-| 2023-10-14 | 5,095 | 19 |
+| 2023-10-14 | 5,096 | 19 |
 ## Awards
 Max (Great Boss Battles): 2,964  (Ranked 95)  
 Sum: 4,377 (Ranked 143)  

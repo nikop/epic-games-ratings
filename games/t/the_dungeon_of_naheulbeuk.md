@@ -6,9 +6,9 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 33.00% | ~76,116 |
-| Where's that freaking Dwarf? | 6.00% | ~13,839 |
-| Alt+F4 | 6.00% | ~13,839 |
+| Sowwy! | 33.00% | ~76,118 |
+| Where's that freaking Dwarf? | 6.00% | ~13,840 |
+| Alt+F4 | 6.00% | ~13,840 |
 | Déjà vu | 5.00% | ~11,533 |
 | Sock! SOCK! | 4.00% | ~9,226 |
 | A beer, two curses, three companions | 3.00% | ~6,920 |
@@ -27,6 +27,7 @@ Number of Ratings: 118  (23.09.2022)
 | The Statuette of Gladeulfeurah | 2.00% | ~4,613 |
 | The Woman in the High Castle | 2.00% | ~4,613 |
 | A tale of adventurers not quite like the others... | 2.00% | ~4,613 |
+| The Ranger of Chaos | 2.00% | ~4,613 |
 | I am the night | 2.00% | ~4,613 |
 | Team Building Exercise | 2.00% | ~4,613 |
 | Oh, when I'll be level 10... | 2.00% | ~4,613 |
@@ -38,7 +39,6 @@ Number of Ratings: 118  (23.09.2022)
 | Look but don't touch | 1.00% | ~2,307 |
 | The beards of change | 1.00% | ~2,307 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,307 |
-| The Ranger of Chaos | 1.00% | ~2,307 |
 | Thieves' Guild Accreditation | 1.00% | ~2,307 |
 | Dead for good | 0.90% | ~2,076 |
 | Lust and Debauchery | 0.90% | ~2,076 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~231 |
 | Dwarf Candy | 0.10% | ~231 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,655 (Ranked 60)  
+Progressed: 230,662 (Ranked 60)  
 Completed: 5 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 5 (0.00%) (Ranked 314)
 | 2023-10-11 | 230,189 | 5 |
 | 2023-10-12 | 230,376 | 5 |
 | 2023-10-13 | 230,591 | 5 |
-| 2023-10-14 | 230,655 | 5 |
+| 2023-10-14 | 230,662 | 5 |
 ## Awards
 Max (Character Customization): 214  (Ranked 275)  
 Sum: 421 (Ranked 324)  

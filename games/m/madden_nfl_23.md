@@ -1,7 +1,7 @@
 # Madden NFL 23
 [Store](https://store.epicgames.com/en-US/p/madden-nfl-23)  
 [View Rawdata](../../db/m/madden_nfl_23.json)  
-Rating: 4.28 (Ranked 828)  
+Rating: 4.27 (Ranked 835)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -185,3 +185,4 @@ Diff (max vs sum): 41
 | 2023-10-10 | 4.27 | 27 | 73 |
 | 2023-10-11 | 4.27 | 27 | 74 |
 | 2023-10-13 | 4.28 | 27 | 74 |
+| 2023-10-14 | 4.27 | 27 | 74 |

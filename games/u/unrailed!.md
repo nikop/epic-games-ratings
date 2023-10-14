@@ -6,23 +6,23 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 18.00% | ~117,715 |
-| Incurious | 17.00% | ~111,175 |
-| Climate Change | 16.00% | ~104,635 |
-| Stroller | 15.00% | ~98,096 |
-| Advanced Hiker | 13.00% | ~85,016 |
-| Toy Train | 13.00% | ~85,016 |
-| Hiker | 11.00% | ~71,937 |
-| Mojave Courier | 6.00% | ~39,238 |
+| Advanced Stroller | 18.00% | ~117,718 |
+| Incurious | 17.00% | ~111,178 |
+| Climate Change | 16.00% | ~104,638 |
+| Stroller | 15.00% | ~98,098 |
+| Advanced Hiker | 13.00% | ~85,018 |
+| Toy Train | 13.00% | ~85,018 |
+| Hiker | 11.00% | ~71,939 |
+| Mojave Courier | 6.00% | ~39,239 |
 | Saved by Nausicaä | 5.00% | ~32,699 |
-| Voyager | 3.00% | ~19,619 |
-| Advanced Voyager | 3.00% | ~19,619 |
-| Expert Stroller | 3.00% | ~19,619 |
-| Orient Express | 3.00% | ~19,619 |
-| Marathon | 3.00% | ~19,619 |
-| Destructionist | 3.00% | ~19,619 |
-| Expert Hiker | 2.00% | ~13,079 |
-| Lost | 2.00% | ~13,079 |
+| Voyager | 3.00% | ~19,620 |
+| Advanced Voyager | 3.00% | ~19,620 |
+| Expert Stroller | 3.00% | ~19,620 |
+| Orient Express | 3.00% | ~19,620 |
+| Marathon | 3.00% | ~19,620 |
+| Destructionist | 3.00% | ~19,620 |
+| Expert Hiker | 2.00% | ~13,080 |
+| Lost | 2.00% | ~13,080 |
 | Rocketman | 0.80% | ~5,232 |
 | Expert Voyager | 0.70% | ~4,578 |
 | Shopaholic | 0.70% | ~4,578 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~654 |
 | 20 Miles under the Sea | 0.10% | ~654 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 653,971 (Ranked 26)  
+Progressed: 653,987 (Ranked 26)  
 Completed: 12 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 12 (0.00%) (Ranked 314)
 | 2023-10-11 | 653,257 | 12 |
 | 2023-10-12 | 653,539 | 12 |
 | 2023-10-13 | 653,855 | 12 |
-| 2023-10-14 | 653,971 | 12 |
+| 2023-10-14 | 653,987 | 12 |
 ## Awards
 Max (Great for Beginners): 198  (Ranked 279)  
 Sum: 1,580 (Ranked 222)  

@@ -1322,9 +1322,9 @@
       "Count": 68
     }
   ],
-  "EOS_Progressed": 6194,
+  "EOS_Progressed": 6195,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -10832,6 +10832,11 @@
       "Time": "2023-10-14T09:08:24.9222519+00:00",
       "NumProgressed": 6194,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-10-14T10:08:11.0645814+00:00",
+      "NumProgressed": 6195,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -10875,7 +10880,7 @@
       "Name": "Green Thumb",
       "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 4150
+      "UsersEstimate": 4151
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -10955,7 +10960,7 @@
       "Name": "Retribution",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 2601
+      "UsersEstimate": 2602
     },
     {
       "ID": "PRODUCE_AT_CAMPFIRE",
@@ -10963,7 +10968,7 @@
       "Name": "Home Cooked Meal",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 3654
+      "UsersEstimate": 3655
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -10971,7 +10976,7 @@
       "Name": "Feast or Famine",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 2663
+      "UsersEstimate": 2664
     },
     {
       "ID": "STORE_NUTRITION_20000",
@@ -10995,7 +11000,7 @@
       "Name": "Winter Is Coming",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1734
+      "UsersEstimate": 1735
     },
     {
       "ID": "SURVIVE_FIRST_DAY",
@@ -11003,7 +11008,7 @@
       "Name": "The First Day",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 4274
+      "UsersEstimate": 4275
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -11011,7 +11016,7 @@
       "Name": "...And Don\u2019t Come Back!",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 2601
+      "UsersEstimate": 2602
     },
     {
       "ID": "SURVIVE_FIRST_SUMMER",
@@ -11051,7 +11056,7 @@
       "Name": "Novice Researcher",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 4150
+      "UsersEstimate": 4151
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -11059,7 +11064,7 @@
       "Name": "Adept Researcher",
       "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 2787
+      "UsersEstimate": 2788
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -11090,15 +11095,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 6194,
+      "Progressed": 6195,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-10-13T10:57:40.89067+00:00",
-  "LastChanged_Achievements": "2023-10-14T09:08:24.9222516+00:00",
+  "LastChanged_Achievements": "2023-10-14T10:08:11.0645809+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:33.8053112+00:00",
-  "LastUpdate_Ratings": "2023-10-14T08:58:08.9302396+00:00",
-  "LastUpdate_Achievements": "2023-10-14T09:08:24.9223533+00:00"
+  "LastUpdate_Ratings": "2023-10-14T09:57:41.0813734+00:00",
+  "LastUpdate_Achievements": "2023-10-14T10:08:11.0646618+00:00"
 }

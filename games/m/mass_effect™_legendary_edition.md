@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Distinguished Service Medal | 94.00% | ~641 |
-| Spectre Inductee | 84.00% | ~573 |
+| Spectre Inductee | 85.00% | ~580 |
 | Medal of Exploration I | 76.00% | ~518 |
 | Recruit | 72.00% | ~491 |
 | Search and Rescue | 71.00% | ~484 |
@@ -31,7 +31,7 @@
 | Sentinel Ally | 44.00% | ~300 |
 | Missing in Action | 43.00% | ~293 |
 | Very Elusive | 43.00% | ~293 |
-| Head Hunter | 42.00% | ~286 |
+| Head Hunter | 43.00% | ~293 |
 | Operative | 42.00% | ~286 |
 | Veteran | 41.00% | ~280 |
 | Scholar | 41.00% | ~280 |
@@ -77,8 +77,8 @@
 | Untouchable | 26.00% | ~177 |
 | A House Divided | 26.00% | ~177 |
 | Eye of the Hurricane | 25.00% | ~170 |
+| Giant Killer | 25.00% | ~170 |
 | Weapon Specialist | 25.00% | ~170 |
-| Giant Killer | 24.00% | ~164 |
 | World Shaker | 24.00% | ~164 |
 | Liberator | 24.00% | ~164 |
 | Paramour II | 22.00% | ~150 |

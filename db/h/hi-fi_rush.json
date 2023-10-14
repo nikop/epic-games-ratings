@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -130,9 +130,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4143,
+  "EOS_Progressed": 4144,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -6980,6 +6980,11 @@
       "Time": "2023-10-13T18:08:09.2728705+00:00",
       "NumProgressed": 4143,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-14T10:08:22.9436753+00:00",
+      "NumProgressed": 4144,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -6991,7 +6996,7 @@
       "Name": "Start with a bang!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "Ach002",
@@ -7015,7 +7020,7 @@
       "Name": "The Negotiator",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "Ach005",
@@ -7127,7 +7132,7 @@
       "Name": "Whoa! There\u0027s ANOTHER health bar!?",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "Ach019",
@@ -7167,7 +7172,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "Ach024",
@@ -7215,7 +7220,7 @@
       "Name": "Out in a puff of smoke",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "Ach030",
@@ -7319,7 +7324,7 @@
       "Name": "I look cool. But I can look COOLER.",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "Ach043",
@@ -7479,7 +7484,7 @@
       "Name": "NOW we got a kickass hideout!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "Ach063",
@@ -7558,13 +7563,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4143,
+      "Progressed": 4144,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2664,
+      "Progressed": 2665,
       "Completed": 1930
     }
   ],
@@ -7572,8 +7577,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-09-20T21:58:46.0382146+00:00",
-  "LastChanged_Achievements": "2023-10-14T09:08:39.4833076+00:00",
+  "LastChanged_Achievements": "2023-10-14T10:08:22.9436748+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:32.6690541+00:00",
-  "LastUpdate_Ratings": "2023-10-14T09:01:32.0097261+00:00",
-  "LastUpdate_Achievements": "2023-10-14T09:08:39.483449+00:00"
+  "LastUpdate_Ratings": "2023-10-14T10:00:23.7648889+00:00",
+  "LastUpdate_Achievements": "2023-10-14T10:08:22.9437944+00:00"
 }

@@ -1847,7 +1847,7 @@
   ],
   "EOS_Progressed": 14660,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 199,
+  "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14172,9 +14172,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_BELOVED",
       "SetID": "9201eeb",
       "Name": "Beloved",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 88
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_BRAVE",
@@ -16554,8 +16554,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-13T13:09:24.1793459+00:00",
-  "LastChanged_Achievements": "2023-10-14T09:07:59.0818758+00:00",
+  "LastChanged_Achievements": "2023-10-14T10:06:40.7669118+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:48.3987129+00:00",
-  "LastUpdate_Ratings": "2023-10-14T09:03:30.5979417+00:00",
-  "LastUpdate_Achievements": "2023-10-14T09:07:59.0832011+00:00"
+  "LastUpdate_Ratings": "2023-10-14T10:03:08.9031054+00:00",
+  "LastUpdate_Achievements": "2023-10-14T10:06:40.7680455+00:00"
 }

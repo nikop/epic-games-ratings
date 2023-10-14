@@ -5,8 +5,8 @@ Rating: 4.54 (Ranked 510)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 4.00% | ~27,814 |
-| Welcome To Hell-A | 4.00% | ~27,814 |
+| Hotel California | 4.00% | ~27,815 |
+| Welcome To Hell-A | 4.00% | ~27,815 |
 | Dr. Reed, I Presume? | 3.00% | ~20,861 |
 | Git Gutte! | 3.00% | ~20,861 |
 | Bookworm | 3.00% | ~20,861 |
@@ -19,19 +19,19 @@ Rating: 4.54 (Ranked 510)
 | Stacking the Deck | 3.00% | ~20,861 |
 | Personal Assistant Personally Assisted | 3.00% | ~20,861 |
 | This is My Weapon | 3.00% | ~20,861 |
-| Making Your Mark | 2.00% | ~13,907 |
-| Anger Management | 2.00% | ~13,907 |
-| Perks of the Job | 2.00% | ~13,907 |
-| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,907 |
-| Slayer Squad | 2.00% | ~13,907 |
-| Can't Handle the Truth | 2.00% | ~13,907 |
-| Like Riding a Bike | 2.00% | ~13,907 |
-| Zombologist | 2.00% | ~13,907 |
-| Ooh, Shiny! | 2.00% | ~13,907 |
-| A Patton Emerges | 2.00% | ~13,907 |
-| Humanity Distilled | 2.00% | ~13,907 |
-| I Am the Resurrection | 2.00% | ~13,907 |
-| Our True Nature | 2.00% | ~13,907 |
+| Making Your Mark | 2.00% | ~13,908 |
+| Anger Management | 2.00% | ~13,908 |
+| Perks of the Job | 2.00% | ~13,908 |
+| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,908 |
+| Slayer Squad | 2.00% | ~13,908 |
+| Can't Handle the Truth | 2.00% | ~13,908 |
+| Like Riding a Bike | 2.00% | ~13,908 |
+| Zombologist | 2.00% | ~13,908 |
+| Ooh, Shiny! | 2.00% | ~13,908 |
+| A Patton Emerges | 2.00% | ~13,908 |
+| Humanity Distilled | 2.00% | ~13,908 |
+| I Am the Resurrection | 2.00% | ~13,908 |
+| Our True Nature | 2.00% | ~13,908 |
 | Jumbo Keyring | 1.00% | ~6,954 |
 | Down with the Sickness | 1.00% | ~6,954 |
 | Max Headroom | 1.00% | ~6,954 |
@@ -45,13 +45,13 @@ Rating: 4.54 (Ranked 510)
 | Make it So | 0.60% | ~4,172 |
 | LA Influential | 0.50% | ~3,477 |
 | Gore Horse | 0.50% | ~3,477 |
-| Sole Survivor | 0.40% | ~2,781 |
-| Sharpest Tool in the Box | 0.40% | ~2,781 |
-| Survival Skills | 0.40% | ~2,781 |
+| Sole Survivor | 0.40% | ~2,782 |
+| Sharpest Tool in the Box | 0.40% | ~2,782 |
+| Survival Skills | 0.40% | ~2,782 |
 | Donk! | 0.20% | ~1,391 |
 | Bucket List | 0.10% | ~695 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 695,358 (Ranked 22)  
+Progressed: 695,380 (Ranked 22)  
 Completed: 2,223 (0.32%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,10 +228,10 @@ Completed: 2,223 (0.32%) (Ranked 200)
 | 2023-10-11 | 694,263 | 2,210 |
 | 2023-10-12 | 694,718 | 2,216 |
 | 2023-10-13 | 695,203 | 2,223 |
-| 2023-10-14 | 695,358 | 2,223 |
+| 2023-10-14 | 695,380 | 2,223 |
 ## Awards
 Max (Great Boss Battles): 6,420  (Ranked 58)  
-Sum: 9,595 (Ranked 91)  
+Sum: 9,597 (Ranked 91)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
@@ -241,7 +241,7 @@ Diff (max vs sum): -33
 | This game has Quickly Understood Controls | 420 |
 | This game is Relaxing | 403 |
 | This game has Amazing Storytelling | 379 |
-| This game is Highly Recommended | 361 |
+| This game is Highly Recommended | 363 |
 | This game is Extremely Fun | 361 |
 | This game has Amazing Characters | 349 |
 ## Ratings History
@@ -423,4 +423,4 @@ Diff (max vs sum): -33
 | 2023-10-11 | 4.54 | 6,398 | 9,555 |
 | 2023-10-12 | 4.54 | 6,407 | 9,574 |
 | 2023-10-13 | 4.54 | 6,420 | 9,594 |
-| 2023-10-14 | 4.54 | 6,420 | 9,595 |
+| 2023-10-14 | 4.54 | 6,420 | 9,597 |

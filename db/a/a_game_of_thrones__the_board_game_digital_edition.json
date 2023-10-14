@@ -1275,9 +1275,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 26015,
+  "EOS_Progressed": 26017,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 482,
+  "EOS_NewPlayers": 478,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -20265,6 +20265,11 @@
       "Time": "2023-10-14T09:04:35.8671139+00:00",
       "NumProgressed": 26015,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-10-14T10:03:53.7041247+00:00",
+      "NumProgressed": 26017,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 22,
@@ -20340,7 +20345,7 @@
       "Name": "What is Dead may Never Die",
       "Percentage": 3,
       "XP": 65,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     },
     {
       "ID": "1024",
@@ -20372,7 +20377,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2341
+      "UsersEstimate": 2342
     },
     {
       "ID": "1028",
@@ -20412,7 +20417,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 10406
+      "UsersEstimate": 10407
     },
     {
       "ID": "1033",
@@ -20420,7 +20425,7 @@
       "Name": "The Swift",
       "Percentage": 3,
       "XP": 120,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     },
     {
       "ID": "1034",
@@ -20451,15 +20456,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 26015,
+      "Progressed": 26017,
       "Completed": 66
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-09-03T23:00:19.1993338+00:00",
-  "LastChanged_Achievements": "2023-10-14T09:04:35.8671132+00:00",
+  "LastChanged_Achievements": "2023-10-14T10:03:53.7041243+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:37.0739283+00:00",
-  "LastUpdate_Ratings": "2023-10-14T08:59:33.4752713+00:00",
-  "LastUpdate_Achievements": "2023-10-14T09:04:35.8672834+00:00"
+  "LastUpdate_Ratings": "2023-10-14T09:58:46.5705869+00:00",
+  "LastUpdate_Achievements": "2023-10-14T10:03:53.7042523+00:00"
 }

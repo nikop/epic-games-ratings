@@ -7,10 +7,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 0.40% | ~927 |
+| Beast Intentions | 0.20% | ~464 |
 | The Cursed Farmer | 0.20% | ~464 |
 | The Jungles of Doomspace | 0.20% | ~396 |
 | The Arena of Blood | 0.20% | ~396 |
 | Foul Play | 0.20% | ~396 |
+| Spelljammers in Training | 0.20% | ~396 |
 | Maddening | 0.10% | ~232 |
 | Pros and CONs | 0.10% | ~232 |
 | Upholding the Law | 0.10% | ~232 |
@@ -56,7 +58,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Fairy Rings of Thither | 0.10% | ~198 |
 | Zarak's Revenge | 0.10% | ~198 |
 | Bully for You! | 0.10% | ~198 |
-| Beast Intentions | 0.10% | ~232 |
 | Wet Feet | 0.10% | ~232 |
 | The Dark Heart | 0.10% | ~198 |
 | Undergeared | 0.10% | ~198 |
@@ -532,10 +533,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Slow Down Showdown | 0.10% | ~198 |
 | Entrance of the Gladiators | 0.10% | ~198 |
 | Fowl Play | 0.10% | ~198 |
-| Spelljammers in Training | 0.10% | ~198 |
 | Time Out | 0.10% | ~198 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,781 (Ranked 58)  
+Progressed: 231,786 (Ranked 58)  
 Completed: 2,360 (1.02%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -712,7 +712,7 @@ Completed: 2,360 (1.02%) (Ranked 144)
 | 2023-10-11 | 231,561 | 2,353 |
 | 2023-10-12 | 231,654 | 2,355 |
 | 2023-10-13 | 231,754 | 2,358 |
-| 2023-10-14 | 231,781 | 2,360 |
+| 2023-10-14 | 231,786 | 2,360 |
 ## Awards
 Max (Diverse Characters): 5,392  (Ranked 69)  
 Sum: 32,023 (Ranked 41)  

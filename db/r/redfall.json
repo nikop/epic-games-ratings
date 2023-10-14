@@ -2480,9 +2480,9 @@
       "ID": "Achievement_022",
       "SetID": "6b34g18",
       "Name": "Bell-ringer",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "Achievement_023",
@@ -2857,8 +2857,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-10-08T15:57:53.1748386+00:00",
-  "LastChanged_Achievements": "2023-10-14T09:07:44.6555809+00:00",
+  "LastChanged_Achievements": "2023-10-14T10:06:28.7333159+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:24.0553263+00:00",
-  "LastUpdate_Ratings": "2023-10-14T09:01:17.3681665+00:00",
-  "LastUpdate_Achievements": "2023-10-14T09:07:44.6556657+00:00"
+  "LastUpdate_Ratings": "2023-10-14T10:00:11.7963552+00:00",
+  "LastUpdate_Achievements": "2023-10-14T10:06:28.7334012+00:00"
 }

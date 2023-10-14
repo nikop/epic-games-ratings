@@ -813,33 +813,33 @@
       "ID": "PORTRAIT_5",
       "SetID": "g10jki",
       "Name": "Portrait 5",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 40,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "PORTRAIT_6",
       "SetID": "g10jki",
       "Name": "Portrait 6",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 40,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "PORTRAIT_7",
       "SetID": "g10jki",
       "Name": "Portrait 7",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 40,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "PORTRAIT_8",
       "SetID": "g10jki",
       "Name": "Portrait 8",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "PORTRAIT_9",
@@ -860,8 +860,8 @@
   ],
   "FirstSeen": "2023-08-14T14:57:42.6237278+00:00",
   "FirstSeenAchievements": "2023-07-26T08:01:59.9805604+00:00",
-  "LastChanged_Achievements": "2023-10-14T09:08:35.890886+00:00",
+  "LastChanged_Achievements": "2023-10-14T10:08:19.9270213+00:00",
   "LastUpdate_AppInfo": "2023-10-11T15:57:06.0413265+00:00",
-  "LastUpdate_Ratings": "2023-10-14T09:00:13.9202572+00:00",
-  "LastUpdate_Achievements": "2023-10-14T09:08:35.8909051+00:00"
+  "LastUpdate_Ratings": "2023-10-14T09:59:19.4920672+00:00",
+  "LastUpdate_Achievements": "2023-10-14T10:08:19.9270436+00:00"
 }

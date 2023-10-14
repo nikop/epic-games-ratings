@@ -3,16 +3,16 @@
 [View Rawdata](../../db/k/kerbal_space_program.json)  
 Rating: 4.79 (Ranked 90)  
 ## Awards
-Max (Educational): 1,010  (Ranked 147)  
-Sum: 5,950 (Ranked 126)  
+Max (Educational): 1,018  (Ranked 147)  
+Sum: 5,962 (Ranked 126)  
 Diff (max vs sum): 21  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 1,010 |
+| This game is Educational | 1,018 |
 | This game is Extremely Fun | 879 |
 | This game is Highly Recommended | 877 |
 | This game is Relaxing | 860 |
-| This game has Amazing Characters | 807 |
+| This game has Amazing Characters | 811 |
 | This game has a Creative Community | 779 |
 | This game has Amazing Storytelling | 738 |
 | This game has Challenging Combat | 447 |
@@ -225,4 +225,4 @@ Diff (max vs sum): 21
 | 2023-10-11 | 4.79 | 1,006 | 5,884 |
 | 2023-10-12 | 4.79 | 1,006 | 5,898 |
 | 2023-10-13 | 4.79 | 1,010 | 5,931 |
-| 2023-10-14 | 4.79 | 1,010 | 5,950 |
+| 2023-10-14 | 4.79 | 1,018 | 5,962 |

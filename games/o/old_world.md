@@ -66,6 +66,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Necropolis | 0.70% | ~103 |
 | Learn to Play 2 | 0.70% | ~103 |
 | Hanging Gardens in Babylon | 0.60% | ~88 |
+| Beloved | 0.60% | ~88 |
 | Conqueror | 0.60% | ~88 |
 | Mighty | 0.60% | ~88 |
 | Champions | 0.60% | ~88 |
@@ -75,7 +76,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 3 | 0.60% | ~88 |
 | Mythology | 0.60% | ~88 |
 | Win a Single Player Game | 0.60% | ~88 |
-| Beloved | 0.50% | ~73 |
 | Intercessor | 0.50% | ~73 |
 | Lion | 0.50% | ~73 |
 | Victorious | 0.50% | ~73 |

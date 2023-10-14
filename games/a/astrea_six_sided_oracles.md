@@ -8,12 +8,12 @@
 | Apian Champion | 28.00% | ~15 |
 | Eridanian Champion | 28.00% | ~15 |
 | Lacertian Champion | 28.00% | ~15 |
-| Endless Tricks | 24.00% | ~13 |
+| Endless Tricks | 26.00% | ~14 |
+| Dicesmithing Time! | 24.00% | ~13 |
 | Meissa's Savior | 24.00% | ~13 |
-| Dicesmithing Time! | 22.00% | ~12 |
+| Sanctuary Guardian | 24.00% | ~13 |
 | Mechanical Buddy | 22.00% | ~12 |
 | Purification Pioneer | 22.00% | ~12 |
-| Sanctuary Guardian | 22.00% | ~12 |
 | Wild's Keeper | 22.00% | ~12 |
 | Behenian Champion | 22.00% | ~12 |
 | Loyal Partner | 20.00% | ~11 |

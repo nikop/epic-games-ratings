@@ -5266,10 +5266,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 9595,
       "NumberOfAwardsMax": 6420
+    },
+    {
+      "Time": "2023-10-14T10:02:13.1406858+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 9597,
+      "NumberOfAwardsMax": 6420
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9595,
+  "NumberOfAwards": 9597,
   "NumberOfAwardsMax": 6420,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5301,7 +5307,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 361
+      "Count": 363
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5328,9 +5334,9 @@
       "Count": 379
     }
   ],
-  "EOS_Progressed": 695358,
+  "EOS_Progressed": 695380,
   "EOS_Completed": 2223,
-  "EOS_NewPlayers": 3446,
+  "EOS_NewPlayers": 3442,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -25368,6 +25374,11 @@
       "Time": "2023-10-14T09:04:56.1709537+00:00",
       "NumProgressed": 695358,
       "NumCompleted": 2223
+    },
+    {
+      "Time": "2023-10-14T10:04:10.6123326+00:00",
+      "NumProgressed": 695380,
+      "NumCompleted": 2223
     }
   ],
   "TotalAchievements": 45,
@@ -25387,7 +25398,7 @@
       "Name": "Making Your Mark",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13907
+      "UsersEstimate": 13908
     },
     {
       "ID": "ach_ammo_ran",
@@ -25403,7 +25414,7 @@
       "Name": "Anger Management",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13907
+      "UsersEstimate": 13908
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
@@ -25427,7 +25438,7 @@
       "Name": "Perks of the Job",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13907
+      "UsersEstimate": 13908
     },
     {
       "ID": "ach_bookworm",
@@ -25459,7 +25470,7 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13907
+      "UsersEstimate": 13908
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -25475,7 +25486,7 @@
       "Name": "Slayer Squad",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13907
+      "UsersEstimate": 13908
     },
     {
       "ID": "ach_explorer",
@@ -25491,7 +25502,7 @@
       "Name": "Can\u0027t Handle the Truth",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13907
+      "UsersEstimate": 13908
     },
     {
       "ID": "ach_finisher",
@@ -25507,7 +25518,7 @@
       "Name": "Like Riding a Bike",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13907
+      "UsersEstimate": 13908
     },
     {
       "ID": "ach_good_eyesight",
@@ -25539,7 +25550,7 @@
       "Name": "Hotel California",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 27814
+      "UsersEstimate": 27815
     },
     {
       "ID": "ach_impressive_aim",
@@ -25563,7 +25574,7 @@
       "Name": "Sole Survivor",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2781
+      "UsersEstimate": 2782
     },
     {
       "ID": "ach_jumbo_keyring",
@@ -25587,7 +25598,7 @@
       "Name": "Zombologist",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13907
+      "UsersEstimate": 13908
     },
     {
       "ID": "ach_legendary",
@@ -25595,7 +25606,7 @@
       "Name": "Ooh, Shiny!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13907
+      "UsersEstimate": 13908
     },
     {
       "ID": "ach_magnum_opus",
@@ -25611,7 +25622,7 @@
       "Name": "A Patton Emerges",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13907
+      "UsersEstimate": 13908
     },
     {
       "ID": "ach_mind_over_monster",
@@ -25619,7 +25630,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13907
+      "UsersEstimate": 13908
     },
     {
       "ID": "ach_revival_tour",
@@ -25627,7 +25638,7 @@
       "Name": "I Am the Resurrection",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13907
+      "UsersEstimate": 13908
     },
     {
       "ID": "ach_salvation",
@@ -25643,7 +25654,7 @@
       "Name": "Sharpest Tool in the Box",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2781
+      "UsersEstimate": 2782
     },
     {
       "ID": "ach_skilled_up",
@@ -25667,7 +25678,7 @@
       "Name": "Survival Skills",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2781
+      "UsersEstimate": 2782
     },
     {
       "ID": "ach_survival_of_the_fittest",
@@ -25691,7 +25702,7 @@
       "Name": "Our True Nature",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 13907
+      "UsersEstimate": 13908
     },
     {
       "ID": "ach_this_is_my_weapon",
@@ -25715,7 +25726,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 27814
+      "UsersEstimate": 27815
     },
     {
       "ID": "ach_well_known_survivor",
@@ -25738,22 +25749,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 695358,
+      "Progressed": 695380,
       "Completed": 2223
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 20900,
-      "Completed": 20900
+      "Progressed": 20922,
+      "Completed": 20922
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-10-14T06:02:13.1712268+00:00",
-  "LastChanged_Achievements": "2023-10-14T09:04:56.1709533+00:00",
+  "LastChanged": "2023-10-14T10:02:13.1406857+00:00",
+  "LastChanged_Achievements": "2023-10-14T10:04:10.6123319+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:12.9143544+00:00",
-  "LastUpdate_Ratings": "2023-10-14T09:03:12.8298756+00:00",
-  "LastUpdate_Achievements": "2023-10-14T09:04:56.1711254+00:00"
+  "LastUpdate_Ratings": "2023-10-14T10:02:13.1406864+00:00",
+  "LastUpdate_Achievements": "2023-10-14T10:04:10.6125143+00:00"
 }

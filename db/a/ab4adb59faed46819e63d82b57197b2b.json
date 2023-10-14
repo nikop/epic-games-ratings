@@ -4,7 +4,7 @@
   "ProductSlug": "the-crackpet-show-0bf5c4",
   "Ranking_EOS_Progress": 503,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_NewPlayers": 286,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-09-27T15:00:00+00:00",
@@ -167,9 +167,9 @@
       "ID": "DESTROY_N_BARRELS",
       "SetID": "dcng643",
       "Name": "Uselessness",
-      "Percentage": 33,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "DIE_N_TIMES_IN_ROOM",
@@ -774,8 +774,8 @@
   ],
   "FirstSeen": "2023-09-28T16:00:28.1613796+00:00",
   "FirstSeenAchievements": "2023-09-19T08:09:12.2865196+00:00",
-  "LastChanged_Achievements": "2023-10-14T09:06:19.4283339+00:00",
+  "LastChanged_Achievements": "2023-10-14T10:05:19.4274319+00:00",
   "LastUpdate_AppInfo": "2023-10-12T19:57:11.6358663+00:00",
-  "LastUpdate_Ratings": "2023-10-14T08:59:40.7059616+00:00",
-  "LastUpdate_Achievements": "2023-10-14T09:06:19.4284219+00:00"
+  "LastUpdate_Ratings": "2023-10-14T09:58:53.5861107+00:00",
+  "LastUpdate_Achievements": "2023-10-14T10:05:19.4275374+00:00"
 }

@@ -38,7 +38,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7131,
+  "EOS_Progressed": 7132,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 0,
@@ -4068,6 +4068,11 @@
       "Time": "2023-10-14T09:09:44.6517458+00:00",
       "NumProgressed": 7131,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-14T10:09:19.2759832+00:00",
+      "NumProgressed": 7132,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -4136,7 +4141,7 @@
       "Name": "Spent 50000 Credits",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "DHUpgraded1",
@@ -4192,7 +4197,7 @@
       "Name": "Purchased Grenade",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "GamesPlayed1",
@@ -4288,7 +4293,7 @@
       "Name": "Purchased Healing Grenade",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "HSPurchased1",
@@ -4448,7 +4453,7 @@
       "Name": "Destroyed 3 Towers in a single match",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "MaxTowersKilled6",
@@ -4592,7 +4597,7 @@
       "Name": "Upgraded the SMG to Level 3",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "SOVUpgraded1",
@@ -4640,7 +4645,7 @@
       "Name": "Purchased Turret",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "TSUPurchased1",
@@ -4671,7 +4676,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 7131,
+      "Progressed": 7132,
       "Completed": 1
     }
   ],
@@ -4679,8 +4684,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-09-28T09:00:22.5097709+00:00",
-  "LastChanged_Achievements": "2023-10-14T09:09:44.6517454+00:00",
+  "LastChanged_Achievements": "2023-10-14T10:09:19.2759825+00:00",
   "LastUpdate_AppInfo": "2023-10-10T10:57:15.6695599+00:00",
-  "LastUpdate_Ratings": "2023-10-14T09:00:27.8623093+00:00",
-  "LastUpdate_Achievements": "2023-10-14T09:09:44.651859+00:00"
+  "LastUpdate_Ratings": "2023-10-14T09:59:29.9253041+00:00",
+  "LastUpdate_Achievements": "2023-10-14T10:09:19.2760894+00:00"
 }
