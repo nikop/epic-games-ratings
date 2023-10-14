@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 452,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -370,9 +370,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 2029,
+  "EOS_Progressed": 2030,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6080,6 +6080,11 @@
       "Time": "2023-10-14T01:49:44.2016217+00:00",
       "NumProgressed": 2029,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-14T07:09:19.4311447+00:00",
+      "NumProgressed": 2030,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -6115,7 +6120,7 @@
       "Name": "Arena Challenger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "backgroundstory",
@@ -6123,7 +6128,7 @@
       "Name": "Background Story",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "beastwarmachines",
@@ -6219,7 +6224,7 @@
       "Name": "Ebony Jungle Liberator",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "enchantingskill",
@@ -6275,7 +6280,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 852
+      "UsersEstimate": 853
     },
     {
       "ID": "fourleafclover",
@@ -6417,9 +6422,9 @@
       "ID": "milestonecollector",
       "SetID": "3nl4bcg",
       "Name": "Milestone collector",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 284
+      "UsersEstimate": 264
     },
     {
       "ID": "minerclicker",
@@ -6587,7 +6592,7 @@
       "Name": "The power of Awakening",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "theunstoppable",
@@ -6651,7 +6656,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1887
+      "UsersEstimate": 1888
     },
     {
       "ID": "warmachinesarmy",
@@ -6683,14 +6688,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1603
+      "UsersEstimate": 1604
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2029,
+      "Progressed": 2030,
       "Completed": 2
     }
   ],
@@ -6698,8 +6703,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-10-12T17:59:57.3603053+00:00",
-  "LastChanged_Achievements": "2023-10-14T06:08:40.3120571+00:00",
+  "LastChanged_Achievements": "2023-10-14T07:09:19.431144+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:57.0347276+00:00",
-  "LastUpdate_Ratings": "2023-10-14T05:59:31.222285+00:00",
-  "LastUpdate_Achievements": "2023-10-14T06:08:40.312146+00:00"
+  "LastUpdate_Ratings": "2023-10-14T07:00:53.9639074+00:00",
+  "LastUpdate_Achievements": "2023-10-14T07:09:19.4313467+00:00"
 }

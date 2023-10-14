@@ -11,6 +11,7 @@ Rating: 4.54 (Ranked 510)
 | Git Gutte! | 3.00% | ~20,860 |
 | Bookworm | 3.00% | ~20,860 |
 | Break A Leg | 3.00% | ~20,860 |
+| But Doctor, I am Butcho | 3.00% | ~20,860 |
 | Coup de Grâce | 3.00% | ~20,860 |
 | Hazardous Materials | 3.00% | ~20,860 |
 | Friends Like These | 3.00% | ~20,860 |
@@ -22,7 +23,6 @@ Rating: 4.54 (Ranked 510)
 | Anger Management | 2.00% | ~13,907 |
 | Perks of the Job | 2.00% | ~13,907 |
 | I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,907 |
-| But Doctor, I am Butcho | 2.00% | ~13,907 |
 | Slayer Squad | 2.00% | ~13,907 |
 | Can't Handle the Truth | 2.00% | ~13,907 |
 | Like Riding a Bike | 2.00% | ~13,907 |
@@ -41,8 +41,8 @@ Rating: 4.54 (Ranked 510)
 | Internet Famous | 0.80% | ~5,563 |
 | On Safari | 0.70% | ~4,867 |
 | Not Even My Final Form | 0.70% | ~4,867 |
+| Variety is the Spice of Death | 0.70% | ~4,867 |
 | Make it So | 0.60% | ~4,172 |
-| Variety is the Spice of Death | 0.60% | ~4,172 |
 | LA Influential | 0.50% | ~3,477 |
 | Gore Horse | 0.50% | ~3,477 |
 | Sole Survivor | 0.40% | ~2,781 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 510)
 | Donk! | 0.20% | ~1,391 |
 | Bucket List | 0.10% | ~695 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 695,327 (Ranked 22)  
+Progressed: 695,334 (Ranked 22)  
 Completed: 2,223 (0.32%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 2,223 (0.32%) (Ranked 200)
 | 2023-10-11 | 694,263 | 2,210 |
 | 2023-10-12 | 694,718 | 2,216 |
 | 2023-10-13 | 695,203 | 2,223 |
-| 2023-10-14 | 695,327 | 2,223 |
+| 2023-10-14 | 695,334 | 2,223 |
 ## Awards
 Max (Great Boss Battles): 6,420  (Ranked 58)  
 Sum: 9,595 (Ranked 91)  

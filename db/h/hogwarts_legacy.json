@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8866,10 +8866,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 45777,
       "NumberOfAwardsMax": 23491
+    },
+    {
+      "Time": "2023-10-14T07:01:14.458665+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 45784,
+      "NumberOfAwardsMax": 23491
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 45777,
+  "NumberOfAwards": 45784,
   "NumberOfAwardsMax": 23491,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8919,7 +8925,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1126
+      "Count": 1133
     },
     {
       "Text": "This game is Highly Recommended",
@@ -8946,7 +8952,7 @@
       "Count": 710
     }
   ],
-  "EOS_Progressed": 298279,
+  "EOS_Progressed": 298280,
   "EOS_Completed": 485,
   "EOS_NewPlayers": 351,
   "EOS_NewCompleters": 3,
@@ -27891,6 +27897,11 @@
       "Time": "2023-10-14T06:04:07.6469809+00:00",
       "NumProgressed": 298279,
       "NumCompleted": 485
+    },
+    {
+      "Time": "2023-10-14T07:04:53.9541601+00:00",
+      "NumProgressed": 298280,
+      "NumCompleted": 485
     }
   ],
   "TotalAchievements": 45,
@@ -28022,7 +28033,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35793
+      "UsersEstimate": 35794
     },
     {
       "ID": "PFA_24",
@@ -28246,7 +28257,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 35793
+      "UsersEstimate": 35794
     },
     {
       "ID": "PFA_9",
@@ -28261,16 +28272,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298279,
+      "Progressed": 298280,
       "Completed": 485
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-10-14T01:41:34.4806498+00:00",
-  "LastChanged_Achievements": "2023-10-14T06:04:07.6469804+00:00",
+  "LastChanged": "2023-10-14T07:01:14.4586647+00:00",
+  "LastChanged_Achievements": "2023-10-14T07:04:53.9541596+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:01.0338203+00:00",
-  "LastUpdate_Ratings": "2023-10-14T05:59:45.4859313+00:00",
-  "LastUpdate_Achievements": "2023-10-14T06:04:07.647096+00:00"
+  "LastUpdate_Ratings": "2023-10-14T07:01:14.4586658+00:00",
+  "LastUpdate_Achievements": "2023-10-14T07:04:53.9543133+00:00"
 }

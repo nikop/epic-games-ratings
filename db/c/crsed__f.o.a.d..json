@@ -3,7 +3,7 @@
   "Name": "CRSED: F.O.A.D.",
   "ProductSlug": "crsed-f-o-a-d",
   "Ranking_Rating": 774,
-  "Ranking_Popularity": 349,
+  "Ranking_Popularity": 345,
   "Ranking_PopularitySum": 296,
   "Ranking_EOS_Progress": 669,
   "Ranking_EOS_Completed": 314,
@@ -1183,11 +1183,17 @@
       "Rating": 4.35,
       "NumberOfAwards": 645,
       "NumberOfAwardsMax": 98
+    },
+    {
+      "Time": "2023-10-14T06:58:05.8383496+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 652,
+      "NumberOfAwardsMax": 102
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 645,
-  "NumberOfAwardsMax": 98,
+  "NumberOfAwards": 652,
+  "NumberOfAwardsMax": 102,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
@@ -1200,19 +1206,19 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 86
+      "Count": 87
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 98
+      "Count": 102
     },
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 79
+      "Count": 80
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1230,7 +1236,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 64
+      "Count": 65
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1280,8 +1286,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:35.4348464+00:00",
-  "LastChanged": "2023-09-24T14:59:07.2656524+00:00",
+  "LastChanged": "2023-10-14T06:58:05.8383494+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:57:00.1211528+00:00",
-  "LastUpdate_Ratings": "2023-10-14T05:57:37.2606017+00:00",
-  "LastUpdate_Achievements": "2023-10-14T06:03:03.942969+00:00"
+  "LastUpdate_Ratings": "2023-10-14T06:58:05.8383505+00:00",
+  "LastUpdate_Achievements": "2023-10-14T07:03:24.7259625+00:00"
 }

@@ -5658,9 +5658,9 @@
       "ID": "ACH_GET_SWEEZY",
       "SetID": "cdkbb11",
       "Name": "Sweezy Like Sunday Morning",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 194
+      "UsersEstimate": 218
     },
     {
       "ID": "ACH_GLOBO_STAR",
@@ -5874,9 +5874,9 @@
       "ID": "ACH_KNIFEY_EXECUTE_BLOAT",
       "SetID": "7fgbhpb",
       "Name": "We Came, We Chainsaw, We Conquered",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_MAKE_A_WISH",
@@ -5937,8 +5937,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-07T05:03:09.4311759+00:00",
-  "LastChanged_Achievements": "2023-10-14T06:04:33.9349262+00:00",
+  "LastChanged_Achievements": "2023-10-14T07:05:30.7534846+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:51.1168375+00:00",
-  "LastUpdate_Ratings": "2023-10-14T05:59:27.8884389+00:00",
-  "LastUpdate_Achievements": "2023-10-14T06:04:33.9349807+00:00"
+  "LastUpdate_Ratings": "2023-10-14T07:00:49.0735414+00:00",
+  "LastUpdate_Achievements": "2023-10-14T07:05:30.7535662+00:00"
 }

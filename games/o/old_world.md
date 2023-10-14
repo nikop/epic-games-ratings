@@ -122,6 +122,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ready | 0.30% | ~44 |
 | Noble Difficulty | 0.30% | ~44 |
 | Clerics | 0.30% | ~44 |
+| Adur Burzen-Mihr | 0.30% | ~44 |
 | Learn to Play 5 | 0.30% | ~44 |
 | Carthage | 0.30% | ~44 |
 | Egypt | 0.30% | ~44 |
@@ -145,7 +146,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Peacemaker | 0.20% | ~29 |
 | Glorious Difficulty | 0.20% | ~29 |
 | Cao'an | 0.20% | ~29 |
-| Adur Burzen-Mihr | 0.20% | ~29 |
 | Assyria | 0.20% | ~29 |
 | Pantheon of Gods | 0.20% | ~29 |
 | Ten Crowns | 0.20% | ~29 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,655 (Ranked 134)  
+Progressed: 14,656 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -526,7 +526,7 @@ Completed: 5 (0.03%) (Ranked 282)
 | 2023-10-11 | 14,606 | 5 |
 | 2023-10-12 | 14,624 | 5 |
 | 2023-10-13 | 14,652 | 5 |
-| 2023-10-14 | 14,655 | 5 |
+| 2023-10-14 | 14,656 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,836 (Ranked 210)  

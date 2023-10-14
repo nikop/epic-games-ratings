@@ -37,7 +37,7 @@
 | Unrivaled in Arms | 30.00% | ~40 |
 | Karakuri Minato | 30.00% | ~40 |
 | Human Believer | 29.00% | ~39 |
-| Style Seeker | 27.00% | ~36 |
+| Style Seeker | 28.00% | ~38 |
 | Jack of All Trades | 27.00% | ~36 |
 | Threaded Harmony | 27.00% | ~36 |
 | Canyon of Karakuri | 26.00% | ~35 |

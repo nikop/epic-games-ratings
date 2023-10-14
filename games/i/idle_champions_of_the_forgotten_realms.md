@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 0.30% | ~695 |
+| A Brief Tour of the Realms | 0.40% | ~927 |
 | The Cursed Farmer | 0.20% | ~464 |
 | The Jungles of Doomspace | 0.20% | ~396 |
 | The Arena of Blood | 0.20% | ~396 |
@@ -535,8 +535,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Spelljammers in Training | 0.10% | ~198 |
 | Time Out | 0.10% | ~198 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,774 (Ranked 58)  
-Completed: 2,359 (1.02%) (Ranked 144)  
+Progressed: 231,775 (Ranked 58)  
+Completed: 2,360 (1.02%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -712,16 +712,16 @@ Completed: 2,359 (1.02%) (Ranked 144)
 | 2023-10-11 | 231,561 | 2,353 |
 | 2023-10-12 | 231,654 | 2,355 |
 | 2023-10-13 | 231,754 | 2,358 |
-| 2023-10-14 | 231,774 | 2,359 |
+| 2023-10-14 | 231,775 | 2,360 |
 ## Awards
 Max (Diverse Characters): 5,392  (Ranked 69)  
-Sum: 32,021 (Ranked 41)  
+Sum: 32,023 (Ranked 41)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,392 |
 | This game has Diverse Characters | 5,392 |
-| This game has Quickly Understood Controls | 4,786 |
+| This game has Quickly Understood Controls | 4,788 |
 | This game is Relaxing | 4,677 |
 | This game is Highly Recommended | 4,154 |
 | This game has Amazing Characters | 4,154 |
@@ -990,3 +990,4 @@ Diff (max vs sum): 28
 | 2023-10-11 | 4.06 | - | 5,385 | 31,990 |
 | 2023-10-12 | 4.06 | - | 5,387 | 32,002 |
 | 2023-10-13 | 4.06 | - | 5,392 | 32,021 |
+| 2023-10-14 | 4.06 | - | 5,392 | 32,023 |

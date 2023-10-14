@@ -236,7 +236,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 43480,
+  "EOS_Progressed": 43481,
   "EOS_Completed": 238,
   "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
@@ -16276,6 +16276,11 @@
       "Time": "2023-10-14T05:05:06.8087726+00:00",
       "NumProgressed": 43480,
       "NumCompleted": 238
+    },
+    {
+      "Time": "2023-10-14T07:04:37.9912117+00:00",
+      "NumProgressed": 43481,
+      "NumCompleted": 238
     }
   ],
   "TotalAchievements": 44,
@@ -16407,7 +16412,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 34784
+      "UsersEstimate": 34785
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -16487,7 +16492,7 @@
       "Name": "Clinging to Life",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 7826
+      "UsersEstimate": 7827
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -16511,7 +16516,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 23914
+      "UsersEstimate": 23915
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -16527,7 +16532,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 27392
+      "UsersEstimate": 27393
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -16551,7 +16556,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 26088
+      "UsersEstimate": 26089
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -16623,7 +16628,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 40436
+      "UsersEstimate": 40437
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -16638,7 +16643,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 43480,
+      "Progressed": 43481,
       "Completed": 238
     }
   ],
@@ -16646,8 +16651,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-08-30T04:00:16.1693203+00:00",
-  "LastChanged_Achievements": "2023-10-14T06:03:56.3086796+00:00",
+  "LastChanged_Achievements": "2023-10-14T07:04:37.9912113+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:42.6279901+00:00",
-  "LastUpdate_Ratings": "2023-10-14T06:00:13.7744625+00:00",
-  "LastUpdate_Achievements": "2023-10-14T06:03:56.308783+00:00"
+  "LastUpdate_Ratings": "2023-10-14T07:01:56.7297395+00:00",
+  "LastUpdate_Achievements": "2023-10-14T07:04:37.9913503+00:00"
 }

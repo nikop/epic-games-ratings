@@ -1355,9 +1355,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 129666,
+  "EOS_Progressed": 129668,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 257,
+  "EOS_NewPlayers": 258,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -19010,6 +19010,11 @@
       "Time": "2023-10-14T06:06:22.3534986+00:00",
       "NumProgressed": 129666,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-10-14T07:08:03.3556115+00:00",
+      "NumProgressed": 129668,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -19101,7 +19106,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36306
+      "UsersEstimate": 36307
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -19237,7 +19242,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 18153
+      "UsersEstimate": 18154
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -19301,7 +19306,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 18153
+      "UsersEstimate": 18154
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -19340,15 +19345,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 129666,
+      "Progressed": 129668,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-10-13T11:02:30.7777293+00:00",
-  "LastChanged_Achievements": "2023-10-14T06:06:22.3534983+00:00",
+  "LastChanged_Achievements": "2023-10-14T07:08:03.355611+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:36.8908498+00:00",
-  "LastUpdate_Ratings": "2023-10-14T06:02:21.1083675+00:00",
-  "LastUpdate_Achievements": "2023-10-14T06:06:22.3536061+00:00"
+  "LastUpdate_Ratings": "2023-10-14T07:02:32.999912+00:00",
+  "LastUpdate_Achievements": "2023-10-14T07:08:03.3557771+00:00"
 }

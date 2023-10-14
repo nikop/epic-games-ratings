@@ -6,10 +6,10 @@ Rating: 4.64 (Ranked 320)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Satisfied Gus-tomer | 0.90% | ~218 |
+| Sweezy Like Sunday Morning | 0.90% | ~218 |
 | First Bounty Down | 0.90% | ~218 |
 | Cold-Blooded Driller | 0.90% | ~218 |
 | Are You Packin'? | 0.80% | ~194 |
-| Sweezy Like Sunday Morning | 0.80% | ~194 |
 | G3 Graduation | 0.80% | ~194 |
 | Don't Knife The Hand That Feeds | 0.80% | ~194 |
 | Creature Feature | 0.70% | ~170 |
@@ -25,9 +25,9 @@ Rating: 4.64 (Ranked 320)
 | Legendary Bounty Hunter | 0.50% | ~121 |
 | Fallout Doesn't Let You Do This | 0.50% | ~121 |
 | Series Wrap on Suit-O | 0.50% | ~121 |
+| We Came, We Chainsaw, We Conquered | 0.50% | ~8 |
 | Eatin' Good in the Neighborhood | 0.40% | ~97 |
 | Eye Scream, You Scream | 0.40% | ~97 |
-| We Came, We Chainsaw, We Conquered | 0.40% | ~6 |
 | Mux Ado About Shipping | 0.30% | ~5 |
 | Sequel-Bait | 0.20% | ~48 |
 | Gunning For Your Job | 0.20% | ~48 |

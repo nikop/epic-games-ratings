@@ -370,9 +370,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2466,
+  "EOS_Progressed": 2467,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 306,
+  "EOS_NewPlayers": 305,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2445,6 +2445,11 @@
       "Time": "2023-10-14T05:05:25.4122954+00:00",
       "NumProgressed": 2466,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-14T07:04:56.1805347+00:00",
+      "NumProgressed": 2467,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -2487,9 +2492,9 @@
       "ID": "achievement_13",
       "SetID": "aiin7da",
       "Name": "MVP",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 90,
-      "UsersEstimate": 715
+      "UsersEstimate": 740
     },
     {
       "ID": "achievement_14",
@@ -2553,7 +2558,7 @@
       "Name": "Saw It Coming",
       "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 1356
+      "UsersEstimate": 1357
     },
     {
       "ID": "achievement_21",
@@ -2593,7 +2598,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "achievement_7",
@@ -2615,16 +2620,16 @@
       "ID": "achievement_9",
       "SetID": "aiin7da",
       "Name": "Future of the Franchise",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 345
+      "UsersEstimate": 321
     }
   ],
   "AchievementSets": [
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 2466,
+      "Progressed": 2467,
       "Completed": 0
     }
   ],
@@ -2632,8 +2637,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-10-13T03:59:28.6125347+00:00",
-  "LastChanged_Achievements": "2023-10-14T06:04:09.1914113+00:00",
+  "LastChanged_Achievements": "2023-10-14T07:04:56.1805343+00:00",
   "LastUpdate_AppInfo": "2023-10-12T02:57:10.0786796+00:00",
-  "LastUpdate_Ratings": "2023-10-14T05:59:46.3520539+00:00",
-  "LastUpdate_Achievements": "2023-10-14T06:04:09.1914343+00:00"
+  "LastUpdate_Ratings": "2023-10-14T07:01:15.6522712+00:00",
+  "LastUpdate_Achievements": "2023-10-14T07:04:56.180562+00:00"
 }

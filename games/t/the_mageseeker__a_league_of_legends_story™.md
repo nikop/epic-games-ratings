@@ -49,9 +49,9 @@ Rating: 4.82 (Ranked 61)
 | The end of the experiments | 13.00% | ~338 |
 | The Great City of Demacia | 12.00% | ~312 |
 | Truth is a dark mirror | 12.00% | ~312 |
+| Back to sleep, then... | 12.00% | ~312 |
 | Call it 'redistribution of magic | 12.00% | ~312 |
 | Do you trust me? | 11.00% | ~286 |
-| Back to sleep, then... | 11.00% | ~286 |
 | Chains master | 10.00% | ~260 |
 | The great mage rebellion starts now | 10.00% | ~260 |
 | You can pet the... horse | 10.00% | ~260 |
