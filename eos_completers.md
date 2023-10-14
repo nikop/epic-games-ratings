@@ -2,7 +2,7 @@
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 1 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 100.00% |
-| 3 | [The Riflemen](games/t/the_riflemen.md) | 50.28% |
+| 3 | [The Riflemen](games/t/the_riflemen.md) | 50.21% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.15% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.99% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
@@ -54,14 +54,14 @@
 | 52 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.29% |
 | 53 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 54 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
-| 54 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.88% |
 | 54 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.88% |
 | 54 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.88% |
 | 54 | [Time on Frog Island](games/t/time_on_frog_island.md) | 5.88% |
+| 58 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.80% |
 | 59 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.77% |
 | 59 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 5.77% |
 | 61 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.92% |
-| 62 | [JARS](games/j/jars.md) | 4.88% |
+| 62 | [JARS](games/j/jars.md) | 4.82% |
 | 63 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
 | 64 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.76% |
 | 65 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.73% |
@@ -133,8 +133,8 @@
 | 131 | [Chorus](games/c/chorus.md) | 1.37% |
 | 132 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.32% |
 | 132 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.32% |
-| 132 | [Lemon Cake](games/l/lemon_cake.md) | 1.32% |
-| 135 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.31% |
+| 134 | [Lemon Cake](games/l/lemon_cake.md) | 1.31% |
+| 134 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.31% |
 | 136 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 1.20% |
 | 137 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.18% |
 | 138 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.16% |
@@ -155,7 +155,7 @@
 | 153 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.84% |
 | 154 | [Dungeons 3](games/d/dungeons_3.md) | 0.80% |
 | 155 | [Eternights](games/e/eternights.md) | 0.75% |
-| 156 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.74% |
+| 156 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.73% |
 | 157 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.72% |
 | 157 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.72% |
 | 159 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.66% |
@@ -206,10 +206,10 @@
 | 202 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 205 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
 | 205 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.30% |
-| 205 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.30% |
 | 205 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.30% |
-| 209 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
-| 209 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.29% |
+| 208 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.29% |
+| 208 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
+| 208 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.29% |
 | 211 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.28% |
 | 212 | [The Devil's Face](games/t/the_devil's_face.md) | 0.27% |
 | 213 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.26% |
