@@ -16,12 +16,12 @@
 | Artist Assistant | 16.00% | ~205 |
 | Tour de Tieng | 15.00% | ~192 |
 | Shrine Arriver | 14.00% | ~179 |
-| Goodbye Tieng Valley | 13.00% | ~166 |
-| The End | 13.00% | ~166 |
+| Goodbye Tieng Valley | 13.00% | ~167 |
+| The End | 13.00% | ~167 |
 | Love Uncoverer | 11.00% | ~141 |
 | Graffiti Artist | 9.00% | ~115 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,280 (Ranked 223)  
+Progressed: 1,281 (Ranked 223)  
 Completed: 57 (4.45%) (Ranked 68)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 57 (4.45%) (Ranked 68)
 | 2023-10-11 | 1,277 | 56 |
 | 2023-10-12 | 1,278 | 57 |
 | 2023-10-13 | 1,279 | 57 |
-| 2023-10-14 | 1,280 | 57 |
+| 2023-10-14 | 1,281 | 57 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

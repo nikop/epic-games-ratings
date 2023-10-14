@@ -1,21 +1,21 @@
 # Disney Speedstorm
 [Store](https://store.epicgames.com/en-US/p/disney-speedstorm)  
 [View Rawdata](../../db/d/disney_speedstorm.json)  
-Rating: 4.42 (Ranked 689)  
+Rating: 4.41 (Ranked 698)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 5.00% | ~10,961 |
-| IT MAKES BOOM! | 3.00% | ~6,577 |
-| EXTRA BOOST | 2.00% | ~4,384 |
-| PROTECTED | 1.00% | ~2,192 |
-| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,192 |
-| AGGRESSIVE RACER | 1.00% | ~2,192 |
-| PRO | 1.00% | ~2,192 |
-| A TIGER'S FEAR | 0.80% | ~1,754 |
-| ACE SPEEDSTER | 0.50% | ~1,096 |
-| IT'S A LONG WAY TO THE TOP | 0.40% | ~877 |
-| DEFEAT OUR CHAMPION | 0.40% | ~877 |
+| ROOKIE | 5.00% | ~10,971 |
+| IT MAKES BOOM! | 3.00% | ~6,583 |
+| EXTRA BOOST | 2.00% | ~4,388 |
+| PROTECTED | 1.00% | ~2,194 |
+| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,194 |
+| AGGRESSIVE RACER | 1.00% | ~2,194 |
+| PRO | 1.00% | ~2,194 |
+| A TIGER'S FEAR | 0.80% | ~1,755 |
+| ACE SPEEDSTER | 0.50% | ~1,097 |
+| IT'S A LONG WAY TO THE TOP | 0.40% | ~878 |
+| DEFEAT OUR CHAMPION | 0.40% | ~878 |
 | TRAINING HARD | 0.30% | ~658 |
 | RELEASE THE KRAKEN | 0.30% | ~658 |
 | BE OUR GUEST | 0.30% | ~658 |
@@ -25,13 +25,13 @@ Rating: 4.42 (Ranked 689)
 | FRIENDLY | 0.30% | ~658 |
 | MASTER | 0.30% | ~658 |
 | LEGENDARY HERO | 0.30% | ~658 |
-| PERFECTLY POISED | 0.20% | ~438 |
-| EXPERIENCED CREW | 0.20% | ~438 |
-| ACE TRICKSTER | 0.20% | ~438 |
+| PERFECTLY POISED | 0.20% | ~439 |
+| EXPERIENCED CREW | 0.20% | ~439 |
+| ACE TRICKSTER | 0.20% | ~439 |
 | FRAMED! | 0.10% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,225 (Ranked 63)  
-Completed: 231 (0.11%) (Ranked 244)  
+Progressed: 219,420 (Ranked 63)  
+Completed: 231 (0.11%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -203,7 +203,7 @@ Completed: 231 (0.11%) (Ranked 244)
 | 2023-10-11 | 207,182 | 229 |
 | 2023-10-12 | 211,811 | 230 |
 | 2023-10-13 | 216,960 | 230 |
-| 2023-10-14 | 219,225 | 231 |
+| 2023-10-14 | 219,420 | 231 |
 ## Awards
 Max (Diverse Characters): 20  (Ranked 526)  
 Sum: 20 (Ranked 527)  
@@ -227,3 +227,4 @@ Diff (max vs sum): -1
 | 2023-10-10 | 4.43 | 0 | 0 |
 | 2023-10-12 | 4.42 | 20 | 20 |
 | 2023-10-13 | 4.42 | 20 | 20 |
+| 2023-10-14 | 4.41 | 20 | 20 |

@@ -4,8 +4,8 @@
   "ProductSlug": "ebola-2-b61221",
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 394,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-05-09T17:00:00+00:00",
     "PcReleaseDate": "2020-12-20T03:00:00+00:00",
@@ -1162,9 +1162,9 @@
       "ID": "achCrow",
       "SetID": "1al1mjg",
       "Name": "Exterminate pests \u2714",
-      "Percentage": 0.4,
+      "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achExplosion",
@@ -1210,9 +1210,9 @@
       "ID": "achHelp",
       "SetID": "1al1mjg",
       "Name": "Guardian angel \u2714",
-      "Percentage": 0.4,
+      "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achIce",
@@ -1281,8 +1281,8 @@
   ],
   "FirstSeen": "2023-05-09T21:58:44.2938175+00:00",
   "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00",
-  "LastChanged_Achievements": "2023-10-14T11:04:32.1827933+00:00",
+  "LastChanged_Achievements": "2023-10-14T12:04:06.6774179+00:00",
   "LastUpdate_AppInfo": "2023-10-07T11:57:13.7521868+00:00",
-  "LastUpdate_Ratings": "2023-10-14T11:00:13.5293641+00:00",
-  "LastUpdate_Achievements": "2023-10-14T11:04:32.182817+00:00"
+  "LastUpdate_Ratings": "2023-10-14T11:59:26.124478+00:00",
+  "LastUpdate_Achievements": "2023-10-14T12:04:06.6774385+00:00"
 }

@@ -6,31 +6,31 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 33.00% | ~76,122 |
-| Where's that freaking Dwarf? | 6.00% | ~13,840 |
-| Alt+F4 | 6.00% | ~13,840 |
-| Déjà vu | 5.00% | ~11,534 |
-| Sock! SOCK! | 4.00% | ~9,227 |
-| Speedrun | 4.00% | ~9,227 |
-| A beer, two curses, three companions | 3.00% | ~6,920 |
-| GG EZ | 3.00% | ~6,920 |
-| DM intervention | 3.00% | ~6,920 |
-| Fireproof Wizardess | 3.00% | ~6,920 |
-| Livin' in a dwarven paradise | 2.00% | ~4,613 |
-| Way of the Wimp | 2.00% | ~4,613 |
-| The plot thickens... At the tavern | 2.00% | ~4,613 |
-| The demons' feast | 2.00% | ~4,613 |
-| The Great Library | 2.00% | ~4,613 |
-| Torture and Sensibility | 2.00% | ~4,613 |
-| Urik's Depths | 2.00% | ~4,613 |
-| The Dungeon Master | 2.00% | ~4,613 |
-| The Statuette of Gladeulfeurah | 2.00% | ~4,613 |
-| The Woman in the High Castle | 2.00% | ~4,613 |
-| A tale of adventurers not quite like the others... | 2.00% | ~4,613 |
-| The Ranger of Chaos | 2.00% | ~4,613 |
-| I am the night | 2.00% | ~4,613 |
-| Team Building Exercise | 2.00% | ~4,613 |
-| Oh, when I'll be level 10... | 2.00% | ~4,613 |
+| Sowwy! | 33.00% | ~76,128 |
+| Where's that freaking Dwarf? | 6.00% | ~13,841 |
+| Alt+F4 | 6.00% | ~13,841 |
+| Déjà vu | 5.00% | ~11,535 |
+| Sock! SOCK! | 4.00% | ~9,228 |
+| Speedrun | 4.00% | ~9,228 |
+| A beer, two curses, three companions | 3.00% | ~6,921 |
+| GG EZ | 3.00% | ~6,921 |
+| DM intervention | 3.00% | ~6,921 |
+| Fireproof Wizardess | 3.00% | ~6,921 |
+| Livin' in a dwarven paradise | 2.00% | ~4,614 |
+| Way of the Wimp | 2.00% | ~4,614 |
+| The plot thickens... At the tavern | 2.00% | ~4,614 |
+| The demons' feast | 2.00% | ~4,614 |
+| The Great Library | 2.00% | ~4,614 |
+| Torture and Sensibility | 2.00% | ~4,614 |
+| Urik's Depths | 2.00% | ~4,614 |
+| The Dungeon Master | 2.00% | ~4,614 |
+| The Statuette of Gladeulfeurah | 2.00% | ~4,614 |
+| The Woman in the High Castle | 2.00% | ~4,614 |
+| A tale of adventurers not quite like the others... | 2.00% | ~4,614 |
+| The Ranger of Chaos | 2.00% | ~4,614 |
+| I am the night | 2.00% | ~4,614 |
+| Team Building Exercise | 2.00% | ~4,614 |
+| Oh, when I'll be level 10... | 2.00% | ~4,614 |
 | Shiny and Crôm | 1.00% | ~2,307 |
 | Res Judicata | 1.00% | ~2,307 |
 | The Famous Dungeon of Naheulbeuk | 1.00% | ~2,307 |
@@ -43,7 +43,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dead for good | 0.90% | ~2,076 |
 | Lust and Debauchery | 0.90% | ~2,076 |
 | Material Girl | 0.90% | ~2,076 |
-| Gargantua | 0.80% | ~1,845 |
+| Gargantua | 0.80% | ~1,846 |
 | In Navalu's footsteps | 0.70% | ~1,615 |
 | We come in peace | 0.60% | ~1,384 |
 | Lëgal Legend | 0.60% | ~1,384 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~231 |
 | Dwarf Candy | 0.10% | ~231 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,673 (Ranked 60)  
+Progressed: 230,691 (Ranked 60)  
 Completed: 5 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 5 (0.00%) (Ranked 314)
 | 2023-10-11 | 230,189 | 5 |
 | 2023-10-12 | 230,376 | 5 |
 | 2023-10-13 | 230,591 | 5 |
-| 2023-10-14 | 230,673 | 5 |
+| 2023-10-14 | 230,691 | 5 |
 ## Awards
 Max (Character Customization): 214  (Ranked 275)  
 Sum: 421 (Ranked 324)  

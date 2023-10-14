@@ -4,8 +4,8 @@
   "ProductSlug": "ad-infinitum",
   "Ranking_EOS_Progress": 435,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 260,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
     "PcReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -285,9 +285,9 @@
       "ID": "ACH_ACTOFCOURAGE",
       "SetID": "88d7anj",
       "Name": "An act of courage",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_ACTOFMERCY",
@@ -461,9 +461,9 @@
       "ID": "ACH_PATHOFPAIN",
       "SetID": "88d7anj",
       "Name": "Path of Pain",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_PEACE",
@@ -516,8 +516,8 @@
   ],
   "FirstSeen": "2023-09-16T22:59:49.7725195+00:00",
   "FirstSeenAchievements": "2023-07-25T11:06:40.9201069+00:00",
-  "LastChanged_Achievements": "2023-10-14T11:05:01.7818033+00:00",
+  "LastChanged_Achievements": "2023-10-14T12:04:29.9764661+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:17.5744783+00:00",
-  "LastUpdate_Ratings": "2023-10-14T11:03:05.220615+00:00",
-  "LastUpdate_Achievements": "2023-10-14T11:05:01.7818269+00:00"
+  "LastUpdate_Ratings": "2023-10-14T12:03:13.8620931+00:00",
+  "LastUpdate_Achievements": "2023-10-14T12:04:29.976489+00:00"
 }

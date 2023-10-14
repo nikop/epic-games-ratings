@@ -4,8 +4,8 @@
   "ProductSlug": "the-house-of-da-vinci-2-970dc3",
   "Ranking_EOS_Progress": 424,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 394,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2019-12-04T00:00:00+00:00",
@@ -506,9 +506,9 @@
       "ID": "CgkInO_K3eIdEAIQGQ",
       "SetID": "6bj96in",
       "Name": "BLINDED BY THE LIGHT",
-      "Percentage": 43,
+      "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "CgkInO_K3eIdEAIQGg",
@@ -529,8 +529,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-10-14T11:07:58.9285022+00:00",
+  "LastChanged_Achievements": "2023-10-14T12:06:50.8884396+00:00",
   "LastUpdate_AppInfo": "2023-10-11T21:57:09.2451124+00:00",
-  "LastUpdate_Ratings": "2023-10-14T11:00:58.7286551+00:00",
-  "LastUpdate_Achievements": "2023-10-14T11:07:58.9285234+00:00"
+  "LastUpdate_Ratings": "2023-10-14T11:59:59.6303716+00:00",
+  "LastUpdate_Achievements": "2023-10-14T12:06:50.8884585+00:00"
 }

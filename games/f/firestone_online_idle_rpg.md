@@ -74,8 +74,8 @@ Rating: 4.06 (Ranked 950)
 | Training makes a Pro player | 1.00% | ~20 |
 | Transmute | 1.00% | ~20 |
 | Tree of Life | 1.00% | ~20 |
+| Angel Power | 0.90% | ~18 |
 | Beast War Machines | 0.90% | ~18 |
-| Angel Power | 0.80% | ~16 |
 | Silverwood liberator | 0.60% | ~12 |
 | Ultimate War Machines | 0.50% | ~10 |
 | War Machines Army | 0.20% | ~4 |

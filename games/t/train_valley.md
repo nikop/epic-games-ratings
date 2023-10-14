@@ -26,7 +26,7 @@ Number of Ratings: 28  (23.09.2022)
 | Russia | 20.00% | ~102 |
 | Missed it! | 19.00% | ~97 |
 | America | 18.00% | ~92 |
-| Sabotage | 16.00% | ~82 |
+| Sabotage | 17.00% | ~87 |
 | Achtung! | 12.00% | ~61 |
 | Japan | 11.00% | ~56 |
 | Woodcutter | 11.00% | ~56 |

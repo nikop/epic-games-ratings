@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -2973,9 +2973,9 @@
       "ID": "ActivePause",
       "SetID": "1e89b4i",
       "Name": "Active Pause",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 40
     },
     {
       "ID": "BasicControls",
@@ -3308,8 +3308,8 @@
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-10-14T11:04:12.7409522+00:00",
+  "LastChanged_Achievements": "2023-10-14T12:03:51.3200711+00:00",
   "LastUpdate_AppInfo": "2023-10-10T13:57:13.1433164+00:00",
-  "LastUpdate_Ratings": "2023-10-14T11:00:34.7610032+00:00",
-  "LastUpdate_Achievements": "2023-10-14T11:04:12.7410051+00:00"
+  "LastUpdate_Ratings": "2023-10-14T11:59:42.8045189+00:00",
+  "LastUpdate_Achievements": "2023-10-14T12:03:51.3201221+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 68,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 241,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1280,
+  "EOS_Progressed": 1281,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 4.45,
   "EosHistory": [
@@ -2541,6 +2541,11 @@
       "Time": "2023-10-14T10:03:55.2441699+00:00",
       "NumProgressed": 1280,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-10-14T12:04:13.4960463+00:00",
+      "NumProgressed": 1281,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 16,
@@ -2584,7 +2589,7 @@
       "Name": "Goodbye Tieng Valley",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ACH_GRAFFITIARTIST",
@@ -2664,7 +2669,7 @@
       "Name": "The End",
       "Percentage": 13,
       "XP": 200,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ACH_TOURDETIENG",
@@ -2679,7 +2684,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1280,
+      "Progressed": 1281,
       "Completed": 57
     }
   ],
@@ -2687,8 +2692,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-10-14T11:04:40.9455631+00:00",
+  "LastChanged_Achievements": "2023-10-14T12:04:13.4960454+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:59.2420233+00:00",
-  "LastUpdate_Ratings": "2023-10-14T11:02:37.6527097+00:00",
-  "LastUpdate_Achievements": "2023-10-14T11:04:40.9455941+00:00"
+  "LastUpdate_Ratings": "2023-10-14T12:03:07.9527897+00:00",
+  "LastUpdate_Achievements": "2023-10-14T12:04:13.4960728+00:00"
 }

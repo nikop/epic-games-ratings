@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
     "PcReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -210,9 +210,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5161,
+  "EOS_Progressed": 5162,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -805,6 +805,11 @@
       "Time": "2023-10-13T19:03:32.7224035+00:00",
       "NumProgressed": 5161,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-10-14T12:03:30.5189573+00:00",
+      "NumProgressed": 5162,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 49,
@@ -840,7 +845,7 @@
       "Name": "Bone Collector",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1806
+      "UsersEstimate": 1807
     },
     {
       "ID": "ACHIEVE_50_CROWNS",
@@ -872,7 +877,7 @@
       "Name": "Jerk-Slayer",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2219
+      "UsersEstimate": 2220
     },
     {
       "ID": "ACHIEVE_50_ICE",
@@ -888,7 +893,7 @@
       "Name": "Fe-Festival",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1806
+      "UsersEstimate": 1807
     },
     {
       "ID": "ACHIEVE_50_MAGMA",
@@ -944,7 +949,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5058
+      "UsersEstimate": 5059
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -952,7 +957,7 @@
       "Name": "Fun, Flirty, and Thirty",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 3251
+      "UsersEstimate": 3252
     },
     {
       "ID": "ACHIEVE_CREATE_45_GRINDSTONE",
@@ -992,7 +997,7 @@
       "Name": "Fortunate Soul",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 2580
+      "UsersEstimate": 2581
     },
     {
       "ID": "ACHIEVE_GREED_GRIND_WIN",
@@ -1088,7 +1093,7 @@
       "Name": "Survive the Bombsequences",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 3045
+      "UsersEstimate": 3046
     },
     {
       "ID": "ACHIEVE_LVL_180_COMPLETE",
@@ -1104,7 +1109,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5058
+      "UsersEstimate": 5059
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -1128,7 +1133,7 @@
       "Name": "It\u0027s Been a Blast",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "ACHIEVE_MIDAS",
@@ -1144,7 +1149,7 @@
       "Name": "For Rock and Stone!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "ACHIEVE_OKBOOMER_LAVA",
@@ -1200,22 +1205,22 @@
       "Name": "There is No Escape",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 3664
+      "UsersEstimate": 3665
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5161,
+      "Progressed": 5162,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-05-23T15:00:45.785735+00:00",
-  "LastChanged_Achievements": "2023-10-14T10:03:24.2953648+00:00",
+  "LastChanged_Achievements": "2023-10-14T12:03:30.5189555+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:18.5420801+00:00",
-  "LastUpdate_Ratings": "2023-10-14T10:59:10.7284896+00:00",
-  "LastUpdate_Achievements": "2023-10-14T10:03:24.2954277+00:00"
+  "LastUpdate_Ratings": "2023-10-14T11:58:33.4028963+00:00",
+  "LastUpdate_Achievements": "2023-10-14T12:03:30.5210865+00:00"
 }

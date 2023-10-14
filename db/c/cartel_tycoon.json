@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -2092,9 +2092,9 @@
       "ID": "sell-variety",
       "SetID": "bed33dd",
       "Name": "Spread",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 256
+      "UsersEstimate": 262
     },
     {
       "ID": "send-smuggling",
@@ -2140,8 +2140,8 @@
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-09-23T20:57:48.080138+00:00",
-  "LastChanged_Achievements": "2023-10-14T11:08:20.503333+00:00",
+  "LastChanged_Achievements": "2023-10-14T12:08:07.7348704+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:54.7554745+00:00",
-  "LastUpdate_Ratings": "2023-10-14T10:58:37.4096744+00:00",
-  "LastUpdate_Achievements": "2023-10-14T11:08:20.5033605+00:00"
+  "LastUpdate_Ratings": "2023-10-14T11:58:10.1263056+00:00",
+  "LastUpdate_Achievements": "2023-10-14T12:08:07.7348959+00:00"
 }

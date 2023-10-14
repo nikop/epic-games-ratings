@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Seeds of War | 80.00% | ~250 |
-| First Blood | 61.00% | ~190 |
+| First Blood | 62.00% | ~193 |
 | Triple Kill | 60.00% | ~187 |
 | Aspairagus | 60.00% | ~157 |
 | No Asperascope | 57.00% | ~178 |
@@ -29,13 +29,13 @@
 | Skin Of Your Teeth | 16.00% | ~50 |
 | Eggtraordinary | 15.00% | ~47 |
 | Oh My Gourd | 15.00% | ~39 |
+| Summers Here | 13.00% | ~34 |
 | Quit Horsin' Around | 12.00% | ~37 |
-| Summers Here | 12.00% | ~31 |
 | Perfect | 11.00% | ~29 |
 | Fresh Pancake | 10.00% | ~31 |
 | Quadsparagus | 10.00% | ~26 |
+| Bring Home The Bacon | 9.00% | ~28 |
 | Expert Survivor | 9.00% | ~24 |
-| Bring Home The Bacon | 8.00% | ~25 |
 | Early Bird | 6.00% | ~19 |
 | Pyromaniac | 6.00% | ~16 |
 | Chick Magnet | 5.00% | ~16 |

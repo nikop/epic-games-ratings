@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 308,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 286,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -1362,9 +1362,9 @@
       "ID": "ach_all_ctf_points",
       "SetID": "cmg602e",
       "Name": "Bring Home The Bacon",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 28
     },
     {
       "ID": "ach_all_points_in_chicken_run",
@@ -1410,9 +1410,9 @@
       "ID": "ach_first_first_blood",
       "SetID": "cmg602e",
       "Name": "First Blood",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 193
     },
     {
       "ID": "ach_first_harvest",
@@ -1922,9 +1922,9 @@
       "ID": "ach_x_victims_using_lmg",
       "SetID": "bf10c8p",
       "Name": "Summers Here",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 34
     },
     {
       "ID": "ach_x_victims_using_pistol",
@@ -1969,8 +1969,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-10-14T11:06:15.2563049+00:00",
+  "LastChanged_Achievements": "2023-10-14T12:05:28.6602627+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:21.0832936+00:00",
-  "LastUpdate_Ratings": "2023-10-14T10:57:39.7640698+00:00",
-  "LastUpdate_Achievements": "2023-10-14T11:06:15.2563923+00:00"
+  "LastUpdate_Ratings": "2023-10-14T11:57:23.7712027+00:00",
+  "LastUpdate_Achievements": "2023-10-14T12:05:28.6603448+00:00"
 }

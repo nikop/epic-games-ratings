@@ -6,11 +6,11 @@
 | ---- | ---------- | ----- |
 | Black Cat's Warning | 107.00% | ~105 |
 | Break no Sweat | 102.00% | ~100 |
-| Every little bit counts | 99.00% | ~97 |
+| Every little bit counts | 100.00% | ~98 |
 | Growth | 87.00% | ~85 |
-| Targeting the Enemy | 69.00% | ~68 |
+| Targeting the Enemy | 70.00% | ~69 |
 | Unavoidable | 65.00% | ~64 |
-| Revenge | 63.00% | ~62 |
+| Revenge | 64.00% | ~63 |
 | Reunion | 42.00% | ~41 |
 | Fluke | 35.00% | ~34 |
 | Elimination | 34.00% | ~33 |
@@ -18,8 +18,8 @@
 | Excellent Driving Skills | 32.00% | ~31 |
 | Once Bitten, Twice Shy | 31.00% | ~30 |
 | Memento | 31.00% | ~30 |
+| Fleet-footed | 29.00% | ~28 |
 | Defeat the AI | 28.00% | ~27 |
-| Fleet-footed | 28.00% | ~27 |
 | Invincible | 27.00% | ~26 |
 | Unsalvageable | 24.00% | ~24 |
 | Best in Dragon City | 23.00% | ~23 |

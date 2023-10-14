@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 282,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1845,9 +1845,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14661,
+  "EOS_Progressed": 14663,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 196,
+  "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13800,6 +13800,11 @@
       "Time": "2023-10-14T11:08:03.5277702+00:00",
       "NumProgressed": 14661,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-14T12:07:04.7011999+00:00",
+      "NumProgressed": 14663,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -14689,9 +14694,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_RIDERS",
       "SetID": "7l38kb8",
       "Name": "Riders",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 73
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_SAGES",
@@ -15625,17 +15630,17 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_CARTHAGE",
       "SetID": "7l38kb8",
       "Name": "Carthaginian Paganism",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 147
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_EGYPT",
       "SetID": "7l38kb8",
       "Name": "Egyptian Paganism",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 132
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_GREECE",
@@ -16546,21 +16551,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14661,
+      "Progressed": 14663,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14661,
+      "Progressed": 14663,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-13T13:09:24.1793459+00:00",
-  "LastChanged_Achievements": "2023-10-14T11:08:03.5277694+00:00",
+  "LastChanged_Achievements": "2023-10-14T12:07:04.7011993+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:48.3987129+00:00",
-  "LastUpdate_Ratings": "2023-10-14T11:03:21.556095+00:00",
-  "LastUpdate_Achievements": "2023-10-14T11:08:03.5290761+00:00"
+  "LastUpdate_Ratings": "2023-10-14T12:03:26.7161488+00:00",
+  "LastUpdate_Achievements": "2023-10-14T12:07:04.7023201+00:00"
 }

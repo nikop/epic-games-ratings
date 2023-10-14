@@ -6,14 +6,14 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~47,338 |
-| Worth it | 63.00% | ~38,235 |
-| Eagle Eye | 55.00% | ~33,380 |
-| Corpseman I | 40.00% | ~24,276 |
-| Blast fishing | 37.00% | ~22,455 |
-| Not alone | 32.00% | ~19,421 |
-| Headhunter I | 26.00% | ~15,779 |
-| Manual Labour I | 25.00% | ~15,172 |
+| Setting an example | 78.00% | ~47,341 |
+| Worth it | 63.00% | ~38,237 |
+| Eagle Eye | 55.00% | ~33,381 |
+| Corpseman I | 40.00% | ~24,277 |
+| Blast fishing | 37.00% | ~22,456 |
+| Not alone | 32.00% | ~19,422 |
+| Headhunter I | 26.00% | ~15,780 |
+| Manual Labour I | 25.00% | ~15,173 |
 | Developers, Developers, Developers | 24.00% | ~14,566 |
 | Basic Training | 24.00% | ~14,566 |
 | Furchtlos und Treu | 13.00% | ~7,890 |
@@ -23,11 +23,11 @@ Number of Ratings: 1,999  (23.09.2022)
 | Providentiea Memor | 9.00% | ~5,462 |
 | For King and Country | 9.00% | ~5,462 |
 | Battle hardened | 8.00% | ~4,855 |
-| Semper Fidelis! | 7.00% | ~4,248 |
-| Honneur et Patrie | 7.00% | ~4,248 |
-| In Treue Fest | 5.00% | ~3,034 |
-| Voor De Koning | 5.00% | ~3,034 |
-| Extreme Headhunter | 5.00% | ~3,034 |
+| Semper Fidelis! | 7.00% | ~4,249 |
+| Honneur et Patrie | 7.00% | ~4,249 |
+| In Treue Fest | 5.00% | ~3,035 |
+| Voor De Koning | 5.00% | ~3,035 |
+| Extreme Headhunter | 5.00% | ~3,035 |
 | Advance Australia | 4.00% | ~2,428 |
 | We Stand on Guard | 4.00% | ~2,428 |
 | Sidi Brahim | 4.00% | ~2,428 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~61 |
 | Blood Brother | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,690 (Ranked 99)  
+Progressed: 60,693 (Ranked 99)  
 Completed: 4 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 4 (0.01%) (Ranked 296)
 | 2023-10-11 | 60,502 | 4 |
 | 2023-10-12 | 60,590 | 4 |
 | 2023-10-13 | 60,668 | 4 |
-| 2023-10-14 | 60,690 | 4 |
+| 2023-10-14 | 60,693 | 4 |
 ## Awards
 Max (Highly Recommended): 97  (Ranked 351)  
 Sum: 777 (Ranked 273)  

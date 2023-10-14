@@ -4,8 +4,8 @@
   "ProductSlug": "perish-390141",
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
     "PcReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3558,
+  "EOS_Progressed": 3559,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3308,6 +3308,11 @@
       "Time": "2023-10-13T18:05:35.9028278+00:00",
       "NumProgressed": 3558,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-14T12:05:40.0273622+00:00",
+      "NumProgressed": 3559,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -3447,7 +3452,7 @@
       "Name": "To Suffer is to Learn",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "ACH_M_D1",
@@ -3695,7 +3700,7 @@
       "Name": "Initiate\u0027s Resolve",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "ACH_R_A",
@@ -3822,7 +3827,7 @@
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 3558,
+      "Progressed": 3559,
       "Completed": 0
     }
   ],
@@ -3830,8 +3835,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-10-14T11:06:29.580475+00:00",
+  "LastChanged_Achievements": "2023-10-14T12:05:40.0273617+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:18.6235407+00:00",
-  "LastUpdate_Ratings": "2023-10-14T10:59:18.7532697+00:00",
-  "LastUpdate_Achievements": "2023-10-14T11:06:29.5805578+00:00"
+  "LastUpdate_Ratings": "2023-10-14T11:58:41.3191147+00:00",
+  "LastUpdate_Achievements": "2023-10-14T12:05:40.0274437+00:00"
 }

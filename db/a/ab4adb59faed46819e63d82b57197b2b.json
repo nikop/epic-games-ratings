@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 503,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 286,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-09-27T15:00:00+00:00",
     "PcReleaseDate": "2023-09-27T15:00:00+00:00",
@@ -183,9 +183,9 @@
       "ID": "DIE_WHILE_TRYING_TO_REVIVE",
       "SetID": "dcng643",
       "Name": "At least you tried",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DONT_KILL_AUDIENCE",
@@ -774,8 +774,8 @@
   ],
   "FirstSeen": "2023-09-28T16:00:28.1613796+00:00",
   "FirstSeenAchievements": "2023-09-19T08:09:12.2865196+00:00",
-  "LastChanged_Achievements": "2023-10-14T11:06:23.8011454+00:00",
+  "LastChanged_Achievements": "2023-10-14T12:05:35.4633524+00:00",
   "LastUpdate_AppInfo": "2023-10-12T19:57:11.6358663+00:00",
-  "LastUpdate_Ratings": "2023-10-14T11:00:02.3921954+00:00",
-  "LastUpdate_Achievements": "2023-10-14T11:06:23.8012386+00:00"
+  "LastUpdate_Ratings": "2023-10-14T11:59:17.5489374+00:00",
+  "LastUpdate_Achievements": "2023-10-14T12:05:35.4634356+00:00"
 }

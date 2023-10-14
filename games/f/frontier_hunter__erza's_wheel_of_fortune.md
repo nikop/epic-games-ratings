@@ -11,7 +11,7 @@
 | Wolf King Killer | 68.00% | ~70 |
 | Fashion Connoisseur | 67.00% | ~69 |
 | Arms Mechanic | 60.00% | ~62 |
-| Flower Thief | 57.00% | ~59 |
+| Flower Thief | 58.00% | ~60 |
 | Apostle of Flame | 55.00% | ~57 |
 | Beginner Cook | 54.00% | ~56 |
 | Beginner Artificer | 53.00% | ~55 |
@@ -20,7 +20,7 @@
 | Giant Lizard Killer | 46.00% | ~47 |
 | Nosebleeder | 45.00% | ~46 |
 | Guardian | 44.00% | ~45 |
-| Trader | 41.00% | ~42 |
+| Trader | 42.00% | ~43 |
 | Weapon Boost | 40.00% | ~41 |
 | Flying Kobold Killer | 34.00% | ~35 |
 | Youth Magnet | 34.00% | ~35 |
