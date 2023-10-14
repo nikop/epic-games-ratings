@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 314,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -732,9 +732,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3264,
+  "EOS_Progressed": 3265,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3647,6 +3647,11 @@
       "Time": "2023-10-14T01:47:10.6733231+00:00",
       "NumProgressed": 3264,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-14T05:07:29.2116729+00:00",
+      "NumProgressed": 3265,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -3850,7 +3855,7 @@
       "Name": "Executioner",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "Kills_Exterminator",
@@ -4201,21 +4206,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3264,
+      "Progressed": 3265,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3264,
+      "Progressed": 3265,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-09-24T17:03:05.3976488+00:00",
-  "LastChanged_Achievements": "2023-10-14T04:06:30.094279+00:00",
+  "LastChanged_Achievements": "2023-10-14T05:07:29.2116718+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:01.1215159+00:00",
-  "LastUpdate_Ratings": "2023-10-14T04:02:19.963813+00:00",
-  "LastUpdate_Achievements": "2023-10-14T04:06:30.0943706+00:00"
+  "LastUpdate_Ratings": "2023-10-14T05:02:47.9016999+00:00",
+  "LastUpdate_Achievements": "2023-10-14T05:07:29.2117724+00:00"
 }

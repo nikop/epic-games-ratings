@@ -376,9 +376,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3220,
+  "EOS_Progressed": 3221,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 229,
+  "EOS_NewPlayers": 230,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2801,6 +2801,11 @@
       "Time": "2023-10-14T01:48:05.96825+00:00",
       "NumProgressed": 3220,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-14T05:08:24.4863206+00:00",
+      "NumProgressed": 3221,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -2861,7 +2866,7 @@
       "Name": "Getting on the Step",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 3059
+      "UsersEstimate": 3060
     },
     {
       "ID": "achievement_0008",
@@ -2869,7 +2874,7 @@
       "Name": "On the Top Step",
       "Percentage": 89,
       "XP": 20,
-      "UsersEstimate": 2866
+      "UsersEstimate": 2867
     },
     {
       "ID": "achievement_0009",
@@ -2893,7 +2898,7 @@
       "Name": "All in a Weekend\u0027s Work",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "achievement_0012",
@@ -2931,9 +2936,9 @@
       "ID": "achievement_0016",
       "SetID": "9123ogc",
       "Name": "Hitting a Season",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 1288
+      "UsersEstimate": 1256
     },
     {
       "ID": "achievement_0017",
@@ -2973,7 +2978,7 @@
       "Name": "Team Orders",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2447
+      "UsersEstimate": 2448
     },
     {
       "ID": "achievement_0022",
@@ -3029,7 +3034,7 @@
       "Name": "Spinning Around",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "achievement_0029",
@@ -3069,7 +3074,7 @@
       "Name": "Engineer",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 1803
+      "UsersEstimate": 1804
     },
     {
       "ID": "achievement_0034",
@@ -3197,14 +3202,14 @@
       "Name": "Proving Them Wrong",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     }
   ],
   "AchievementSets": [
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 3220,
+      "Progressed": 3221,
       "Completed": 0
     }
   ],
@@ -3212,8 +3217,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-10-12T23:59:48.9336928+00:00",
-  "LastChanged_Achievements": "2023-10-14T04:07:18.2576459+00:00",
+  "LastChanged_Achievements": "2023-10-14T05:08:24.4863199+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:10.4381265+00:00",
-  "LastUpdate_Ratings": "2023-10-14T04:00:28.2074301+00:00",
-  "LastUpdate_Achievements": "2023-10-14T04:07:18.2577077+00:00"
+  "LastUpdate_Ratings": "2023-10-14T05:00:57.5046426+00:00",
+  "LastUpdate_Achievements": "2023-10-14T05:08:24.4863855+00:00"
 }

@@ -1,25 +1,25 @@
 # Hell is Others
 [Store](https://store.epicgames.com/en-US/p/hell-is-others-789262)  
 [View Rawdata](../../db/h/hell_is_others.json)  
-Rating: 4.40 (Ranked 721)  
+Rating: 4.40 (Ranked 722)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~79,747 |
+| Survivor | 31.00% | ~79,748 |
 | Predator I | 22.00% | ~56,595 |
 | Fixer I | 10.00% | ~25,725 |
 | A week in Century City | 10.00% | ~25,725 |
-| The Wait | 7.00% | ~18,007 |
+| The Wait | 7.00% | ~18,008 |
 | Green thumb I | 6.00% | ~15,435 |
 | Cleaning Company | 6.00% | ~15,435 |
-| Well-oiled machine | 5.00% | ~12,862 |
-| Saver I | 5.00% | ~12,862 |
+| Well-oiled machine | 5.00% | ~12,863 |
+| Saver I | 5.00% | ~12,863 |
 | The Ascent | 4.00% | ~10,290 |
 | Pacifist | 4.00% | ~10,290 |
 | Vandalism | 4.00% | ~10,290 |
 | Capitalist I | 4.00% | ~10,290 |
-| Fixer II | 3.00% | ~7,717 |
-| Adrenaline | 3.00% | ~7,717 |
+| Fixer II | 3.00% | ~7,718 |
+| Adrenaline | 3.00% | ~7,718 |
 | By a hair | 2.00% | ~5,145 |
 | It took a while | 2.00% | ~5,145 |
 | Samurai | 2.00% | ~5,145 |
@@ -27,17 +27,17 @@ Rating: 4.40 (Ranked 721)
 | Predator II | 2.00% | ~5,145 |
 | Truffle Dog | 2.00% | ~5,145 |
 | A month in Century City | 2.00% | ~5,145 |
-| The Strengthening | 1.00% | ~2,572 |
-| Saver II | 1.00% | ~2,572 |
-| It's the last one, I swear | 1.00% | ~2,572 |
-| Botanist | 1.00% | ~2,572 |
-| Green thumb II | 1.00% | ~2,572 |
-| Don't try this at home | 1.00% | ~2,572 |
-| Bricklayer | 1.00% | ~2,572 |
-| Run the Economy | 1.00% | ~2,572 |
+| The Strengthening | 1.00% | ~2,573 |
+| Saver II | 1.00% | ~2,573 |
+| It's the last one, I swear | 1.00% | ~2,573 |
+| Botanist | 1.00% | ~2,573 |
+| Green thumb II | 1.00% | ~2,573 |
+| Don't try this at home | 1.00% | ~2,573 |
+| Bricklayer | 1.00% | ~2,573 |
+| Run the Economy | 1.00% | ~2,573 |
 | Committed Relationship | 0.80% | ~2,058 |
 | Number 1 | 0.80% | ~2,058 |
-| Interior designer | 0.60% | ~1,543 |
+| Interior designer | 0.60% | ~1,544 |
 | The Gamble | 0.50% | ~1,286 |
 | The Descent | 0.50% | ~1,286 |
 | A major purchase | 0.50% | ~1,286 |
@@ -48,9 +48,9 @@ Rating: 4.40 (Ranked 721)
 | Fixer III | 0.30% | ~772 |
 | AML questionnaire | 0.30% | ~772 |
 | Heartbreaker | 0.30% | ~772 |
-| Workhorse | 0.20% | ~514 |
-| Homerun | 0.20% | ~514 |
-| A season in Century City | 0.20% | ~514 |
+| Workhorse | 0.20% | ~515 |
+| Homerun | 0.20% | ~515 |
+| A season in Century City | 0.20% | ~515 |
 | Saver III | 0.10% | ~257 |
 | Collector | 0.10% | ~257 |
 | Mansion | 0.10% | ~257 |
@@ -62,7 +62,7 @@ Rating: 4.40 (Ranked 721)
 | Capitalist III | 0.10% | ~257 |
 | Hell Is You | 0.10% | ~257 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 257,249 (Ranked 51)  
+Progressed: 257,252 (Ranked 51)  
 Completed: 3 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 3 (0.00%) (Ranked 314)
 | 2023-10-11 | 257,176 | 3 |
 | 2023-10-12 | 257,203 | 3 |
 | 2023-10-13 | 257,244 | 3 |
-| 2023-10-14 | 257,249 | 3 |
+| 2023-10-14 | 257,252 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 45  (Ranked 426)  
 Sum: 290 (Ranked 351)  

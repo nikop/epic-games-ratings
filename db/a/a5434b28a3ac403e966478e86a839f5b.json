@@ -4,7 +4,7 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 404,
+  "EOS_Progressed": 405,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -1057,6 +1057,11 @@
       "Time": "2023-10-14T01:44:50.0747998+00:00",
       "NumProgressed": 404,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-14T05:04:58.1609646+00:00",
+      "NumProgressed": 405,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -1077,7 +1082,7 @@
       "Name": "Establish Communications",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "ACH_eou2",
@@ -1123,9 +1128,9 @@
       "ID": "ACH_eou7",
       "SetID": "51of0eo",
       "Name": "Destroy the Big Gun",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 101
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_eou8",
@@ -1172,14 +1177,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 404,
+      "Progressed": 405,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-10-14T04:04:18.0446314+00:00",
+  "LastChanged_Achievements": "2023-10-14T05:04:58.1609638+00:00",
   "LastUpdate_AppInfo": "2023-10-12T22:57:11.8537053+00:00",
-  "LastUpdate_Ratings": "2023-10-14T03:59:14.7252373+00:00",
-  "LastUpdate_Achievements": "2023-10-14T04:04:18.0446538+00:00"
+  "LastUpdate_Ratings": "2023-10-14T04:59:38.351429+00:00",
+  "LastUpdate_Achievements": "2023-10-14T05:04:58.1609828+00:00"
 }

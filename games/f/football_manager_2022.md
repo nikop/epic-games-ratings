@@ -6,12 +6,12 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sheet | 50.00% | ~237,243 |
-| He's Signed! | 50.00% | ~237,243 |
-| First Victory | 50.00% | ~237,243 |
-| He's Sold! | 48.00% | ~227,753 |
-| I'm The Boss! | 42.00% | ~199,284 |
-| Hat-trick | 41.00% | ~194,539 |
+| Clean Sheet | 50.00% | ~237,244 |
+| He's Signed! | 50.00% | ~237,244 |
+| First Victory | 50.00% | ~237,244 |
+| He's Sold! | 48.00% | ~227,754 |
+| I'm The Boss! | 42.00% | ~199,285 |
+| Hat-trick | 41.00% | ~194,540 |
 | Scoring Streak | 38.00% | ~180,305 |
 | Unbeatable! | 37.00% | ~175,560 |
 | Thumping | 37.00% | ~175,560 |
@@ -28,8 +28,8 @@ Number of Ratings: 19,160  (23.09.2022)
 | You're On Fire | 27.00% | ~128,111 |
 | Tremendous Trio | 27.00% | ~128,111 |
 | Record Sale | 27.00% | ~128,111 |
-| On A Roll | 26.00% | ~123,366 |
-| Unstoppable Force | 26.00% | ~123,366 |
+| On A Roll | 26.00% | ~123,367 |
+| Unstoppable Force | 26.00% | ~123,367 |
 | Armchair Expert | 25.00% | ~118,622 |
 | Fantastic Five | 24.00% | ~113,877 |
 | Full Faith | 24.00% | ~113,877 |
@@ -43,7 +43,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Cup Glory! | 22.00% | ~104,387 |
 | Irresistible Force | 20.00% | ~94,897 |
 | Excellent Match Cohesion | 20.00% | ~94,897 |
-| Do The Double | 19.00% | ~90,152 |
+| Do The Double | 19.00% | ~90,153 |
 | Top Form | 17.00% | ~80,663 |
 | Cash To Burn | 17.00% | ~80,663 |
 | Overachiever! | 16.00% | ~75,918 |
@@ -54,7 +54,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Comeback King! | 14.00% | ~66,428 |
 | You're Up! | 13.00% | ~61,683 |
 | Money, Money, Money | 12.00% | ~56,938 |
-| Invincible! | 11.00% | ~52,193 |
+| Invincible! | 11.00% | ~52,194 |
 | Superb Strike | 10.00% | ~47,449 |
 | International Superstar | 10.00% | ~47,449 |
 | Best In The World | 10.00% | ~47,449 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~474 |
 | Shoestring Budget | 0.10% | ~474 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 474,486 (Ranked 36)  
+Progressed: 474,487 (Ranked 36)  
 Completed: 22 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 22 (0.00%) (Ranked 314)
 | 2023-10-11 | 474,405 | 22 |
 | 2023-10-12 | 474,440 | 22 |
 | 2023-10-13 | 474,480 | 22 |
-| 2023-10-14 | 474,486 | 22 |
+| 2023-10-14 | 474,487 | 22 |
 ## Awards
 Max (Relaxing): 6,461  (Ranked 56)  
 Sum: 50,860 (Ranked 27)  

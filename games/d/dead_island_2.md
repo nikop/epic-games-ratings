@@ -43,15 +43,15 @@ Rating: 4.54 (Ranked 510)
 | Not Even My Final Form | 0.70% | ~4,867 |
 | Make it So | 0.60% | ~4,172 |
 | Variety is the Spice of Death | 0.60% | ~4,172 |
-| LA Influential | 0.50% | ~3,476 |
-| Gore Horse | 0.50% | ~3,476 |
+| LA Influential | 0.50% | ~3,477 |
+| Gore Horse | 0.50% | ~3,477 |
 | Sole Survivor | 0.40% | ~2,781 |
 | Sharpest Tool in the Box | 0.40% | ~2,781 |
 | Survival Skills | 0.40% | ~2,781 |
 | Donk! | 0.20% | ~1,391 |
 | Bucket List | 0.10% | ~695 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 695,294 (Ranked 22)  
+Progressed: 695,312 (Ranked 22)  
 Completed: 2,223 (0.32%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 2,223 (0.32%) (Ranked 200)
 | 2023-10-11 | 694,263 | 2,210 |
 | 2023-10-12 | 694,718 | 2,216 |
 | 2023-10-13 | 695,203 | 2,223 |
-| 2023-10-14 | 695,294 | 2,223 |
+| 2023-10-14 | 695,312 | 2,223 |
 ## Awards
 Max (Great Boss Battles): 6,420  (Ranked 58)  
 Sum: 9,594 (Ranked 91)  

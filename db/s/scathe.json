@@ -4,7 +4,7 @@
   "ProductSlug": "scathe-ca258f",
   "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-06-06T15:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 345,
+  "EOS_Progressed": 346,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1543,6 +1543,11 @@
       "Time": "2023-10-13T14:05:47.6088007+00:00",
       "NumProgressed": 345,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-14T05:06:19.4530355+00:00",
+      "NumProgressed": 346,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -1608,9 +1613,9 @@
       "ID": "ACHIEVEMENT_FIRST_BLOOD",
       "SetID": "2ff85j2",
       "Name": "First Blood",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 28
     },
     {
       "ID": "ACHIEVEMENT_GEARS_OF_DOOR",
@@ -1793,7 +1798,7 @@
     {
       "ID": "2ff85j2",
       "IsBase": true,
-      "Progressed": 345,
+      "Progressed": 346,
       "Completed": 0
     }
   ],
@@ -1801,8 +1806,8 @@
   "FirstSeenRating": "2023-04-24T10:58:16.802842+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.6712735+00:00",
   "LastChanged": "2023-04-24T10:58:16.8028421+00:00",
-  "LastChanged_Achievements": "2023-10-14T04:05:29.6666789+00:00",
+  "LastChanged_Achievements": "2023-10-14T05:06:19.4530349+00:00",
   "LastUpdate_AppInfo": "2023-10-07T11:57:08.2761264+00:00",
-  "LastUpdate_Ratings": "2023-10-14T03:59:38.244644+00:00",
-  "LastUpdate_Achievements": "2023-10-14T04:05:29.6667097+00:00"
+  "LastUpdate_Ratings": "2023-10-14T05:00:04.7574064+00:00",
+  "LastUpdate_Achievements": "2023-10-14T05:06:19.4530701+00:00"
 }

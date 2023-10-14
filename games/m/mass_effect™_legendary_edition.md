@@ -53,12 +53,12 @@
 | The Prodigal | 32.00% | ~218 |
 | Shopaholic | 32.00% | ~218 |
 | Battlemaster | 31.00% | ~211 |
+| Catharsis | 31.00% | ~211 |
 | Ghost of the Father | 31.00% | ~211 |
 | The Cure | 31.00% | ~211 |
 | Big Game Hunter | 31.00% | ~211 |
 | Revenge! | 31.00% | ~211 |
 | Heart of Darkness | 31.00% | ~211 |
-| Catharsis | 30.00% | ~204 |
 | Fade Away | 30.00% | ~204 |
 | Agent | 30.00% | ~204 |
 | Driven | 30.00% | ~204 |
@@ -74,7 +74,7 @@
 | Mission Accomplished | 27.00% | ~184 |
 | Suicide Mission | 27.00% | ~184 |
 | Against All Odds | 27.00% | ~184 |
-| Untouchable | 25.00% | ~170 |
+| Untouchable | 26.00% | ~177 |
 | Eye of the Hurricane | 25.00% | ~170 |
 | A House Divided | 25.00% | ~170 |
 | Weapon Specialist | 25.00% | ~170 |

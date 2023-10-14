@@ -370,7 +370,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2464,
+  "EOS_Progressed": 2466,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 307,
   "EOS_NewCompleters": 0,
@@ -2440,6 +2440,11 @@
       "Time": "2023-10-14T04:04:41.2876219+00:00",
       "NumProgressed": 2464,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-14T05:05:25.4122954+00:00",
+      "NumProgressed": 2466,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -2460,7 +2465,7 @@
       "Name": "Stud Finder",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 813
+      "UsersEstimate": 814
     },
     {
       "ID": "achievement_11",
@@ -2482,9 +2487,9 @@
       "ID": "achievement_13",
       "SetID": "aiin7da",
       "Name": "MVP",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 739
+      "UsersEstimate": 715
     },
     {
       "ID": "achievement_14",
@@ -2492,7 +2497,7 @@
       "Name": "ROTY",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 887
+      "UsersEstimate": 888
     },
     {
       "ID": "achievement_15",
@@ -2548,7 +2553,7 @@
       "Name": "Saw It Coming",
       "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 1355
+      "UsersEstimate": 1356
     },
     {
       "ID": "achievement_21",
@@ -2580,7 +2585,7 @@
       "Name": "Change of Scenery",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "achievement_6",
@@ -2604,22 +2609,22 @@
       "Name": "Bragging Rights",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "achievement_9",
       "SetID": "aiin7da",
       "Name": "Future of the Franchise",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 320
+      "UsersEstimate": 345
     }
   ],
   "AchievementSets": [
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 2464,
+      "Progressed": 2466,
       "Completed": 0
     }
   ],
@@ -2627,8 +2632,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-10-13T03:59:28.6125347+00:00",
-  "LastChanged_Achievements": "2023-10-14T04:04:41.2876214+00:00",
+  "LastChanged_Achievements": "2023-10-14T05:05:25.4122949+00:00",
   "LastUpdate_AppInfo": "2023-10-12T02:57:10.0786796+00:00",
-  "LastUpdate_Ratings": "2023-10-14T04:01:13.1372911+00:00",
-  "LastUpdate_Achievements": "2023-10-14T04:04:41.2876499+00:00"
+  "LastUpdate_Ratings": "2023-10-14T05:01:41.6380525+00:00",
+  "LastUpdate_Achievements": "2023-10-14T05:05:25.4123228+00:00"
 }

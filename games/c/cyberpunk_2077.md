@@ -6,43 +6,43 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 71.00% | ~632,987 |
-| Right Back At Ya | 44.00% | ~392,274 |
-| The Lovers | 39.00% | ~347,697 |
-| Stanislavski's Method | 33.00% | ~294,205 |
-| The Wheel of Fortune | 33.00% | ~294,205 |
-| The Hermit | 30.00% | ~267,459 |
-| The High Priestess | 29.00% | ~258,544 |
-| True Soldier | 29.00% | ~258,544 |
-| Christmas Tree Attack | 26.00% | ~231,798 |
-| Full Body Conversion | 24.00% | ~213,967 |
-| Life of the Road | 23.00% | ~205,052 |
-| The World | 22.00% | ~196,137 |
-| Ten out of Ten | 21.00% | ~187,222 |
-| Master Crafter | 20.00% | ~178,306 |
-| True Warrior | 19.00% | ~169,391 |
-| Bushido and Chill | 18.00% | ~160,476 |
-| Gun Fu | 18.00% | ~160,476 |
-| I Am The Law | 16.00% | ~142,645 |
-| To Protect and Serve | 15.00% | ~133,730 |
-| The Quick and the Dead | 13.00% | ~115,899 |
-| Breathtaking | 13.00% | ~115,899 |
-| Rough Landing | 13.00% | ~115,899 |
-| To Bad Decisions! | 11.00% | ~98,068 |
-| The Wandering Fool | 11.00% | ~98,068 |
-| The Jungle | 11.00% | ~98,068 |
-| Gunslinger | 10.00% | ~89,153 |
-| Mean Streets | 9.00% | ~80,238 |
-| Temperance | 9.00% | ~80,238 |
-| The Star | 8.00% | ~71,322 |
-| The Sun | 8.00% | ~71,322 |
-| City Lights | 6.00% | ~53,492 |
+| The Fool | 71.00% | ~632,996 |
+| Right Back At Ya | 44.00% | ~392,279 |
+| The Lovers | 39.00% | ~347,702 |
+| Stanislavski's Method | 33.00% | ~294,210 |
+| The Wheel of Fortune | 33.00% | ~294,210 |
+| The Hermit | 30.00% | ~267,463 |
+| The High Priestess | 29.00% | ~258,548 |
+| True Soldier | 29.00% | ~258,548 |
+| Christmas Tree Attack | 26.00% | ~231,801 |
+| Full Body Conversion | 24.00% | ~213,971 |
+| Life of the Road | 23.00% | ~205,055 |
+| The World | 22.00% | ~196,140 |
+| Ten out of Ten | 21.00% | ~187,224 |
+| Master Crafter | 20.00% | ~178,309 |
+| True Warrior | 19.00% | ~169,393 |
+| Bushido and Chill | 18.00% | ~160,478 |
+| Gun Fu | 18.00% | ~160,478 |
+| I Am The Law | 16.00% | ~142,647 |
+| To Protect and Serve | 15.00% | ~133,732 |
+| The Quick and the Dead | 13.00% | ~115,901 |
+| Breathtaking | 13.00% | ~115,901 |
+| Rough Landing | 13.00% | ~115,901 |
+| To Bad Decisions! | 11.00% | ~98,070 |
+| The Wandering Fool | 11.00% | ~98,070 |
+| The Jungle | 11.00% | ~98,070 |
+| Gunslinger | 10.00% | ~89,154 |
+| Mean Streets | 9.00% | ~80,239 |
+| Temperance | 9.00% | ~80,239 |
+| The Star | 8.00% | ~71,324 |
+| The Sun | 8.00% | ~71,324 |
+| City Lights | 6.00% | ~53,493 |
 | Must Be Rats | 5.00% | ~44,577 |
 | The Devil | 5.00% | ~44,577 |
 | Greetings from Pacifica! | 5.00% | ~44,577 |
-| Little Tokyo | 4.00% | ~35,661 |
-| Two Heads, One Bullet | 4.00% | ~35,661 |
-| V for Vendetta | 4.00% | ~35,661 |
+| Little Tokyo | 4.00% | ~35,662 |
+| Two Heads, One Bullet | 4.00% | ~35,662 |
+| V for Vendetta | 4.00% | ~35,662 |
 | Autojock | 3.00% | ~26,746 |
 | Frequent Flyer | 3.00% | ~26,746 |
 | The Wasteland | 3.00% | ~26,746 |
@@ -64,7 +64,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 891,531 (Ranked 15)  
+Progressed: 891,544 (Ranked 15)  
 Completed: 2,656 (0.30%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,16 +241,16 @@ Completed: 2,656 (0.30%) (Ranked 205)
 | 2023-10-11 | 891,024 | 2,641 |
 | 2023-10-12 | 891,256 | 2,648 |
 | 2023-10-13 | 891,483 | 2,655 |
-| 2023-10-14 | 891,531 | 2,656 |
+| 2023-10-14 | 891,544 | 2,656 |
 ## Awards
 Max (Character Customization): 97,173  (Ranked 9)  
-Sum: 298,440 (Ranked 11)  
+Sum: 298,695 (Ranked 11)  
 Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 97,173 |
 | This game has Great Boss Battles | 68,205 |
-| This game is Great for Beginners | 16,148 |
+| This game is Great for Beginners | 16,403 |
 | This game has Diverse Characters | 16,065 |
 | This game is Highly Recommended | 15,550 |
 | This game has Amazing Storytelling | 15,479 |
@@ -530,4 +530,4 @@ Diff (max vs sum): -2
 | 2023-10-11 | 4.64 | - | 96,295 | 291,847 |
 | 2023-10-12 | 4.64 | - | 96,724 | 294,426 |
 | 2023-10-13 | 4.64 | - | 97,173 | 297,296 |
-| 2023-10-14 | 4.64 | - | 97,173 | 298,440 |
+| 2023-10-14 | 4.64 | - | 97,173 | 298,695 |

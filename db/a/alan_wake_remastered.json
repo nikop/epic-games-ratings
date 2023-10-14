@@ -524,9 +524,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 67863,
+  "EOS_Progressed": 67865,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 700,
+  "EOS_NewPlayers": 696,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -17939,6 +17939,11 @@
       "Time": "2023-10-14T04:08:43.8826367+00:00",
       "NumProgressed": 67863,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-10-14T05:09:51.4636317+00:00",
+      "NumProgressed": 67865,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 67,
@@ -17950,7 +17955,7 @@
       "Name": "Follow the Light",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 29181
+      "UsersEstimate": 29182
     },
     {
       "ID": "02",
@@ -17958,7 +17963,7 @@
       "Name": "Nordic Walking",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 18323
+      "UsersEstimate": 18324
     },
     {
       "ID": "03",
@@ -17966,7 +17971,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 18323
+      "UsersEstimate": 18324
     },
     {
       "ID": "04",
@@ -17982,7 +17987,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 16287
+      "UsersEstimate": 16288
     },
     {
       "ID": "06",
@@ -18086,7 +18091,7 @@
       "Name": "Hardboiled Writer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4750
+      "UsersEstimate": 4751
     },
     {
       "ID": "19",
@@ -18118,7 +18123,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 10179
+      "UsersEstimate": 10180
     },
     {
       "ID": "23",
@@ -18158,7 +18163,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 10179
+      "UsersEstimate": 10180
     },
     {
       "ID": "28",
@@ -18198,7 +18203,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 23073
+      "UsersEstimate": 23074
     },
     {
       "ID": "33",
@@ -18222,7 +18227,7 @@
       "Name": "Let There Be Light",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 23752
+      "UsersEstimate": 23753
     },
     {
       "ID": "36",
@@ -18270,7 +18275,7 @@
       "Name": "Finders Keepers",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 12215
+      "UsersEstimate": 12216
     },
     {
       "ID": "42",
@@ -18485,21 +18490,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 67863,
+      "Progressed": 67865,
       "Completed": 69
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 31331,
+      "Progressed": 31333,
       "Completed": 56
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-09-26T11:01:48.1926095+00:00",
-  "LastChanged_Achievements": "2023-10-14T04:08:43.8826361+00:00",
+  "LastChanged_Achievements": "2023-10-14T05:09:51.4636309+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:13.3553682+00:00",
-  "LastUpdate_Ratings": "2023-10-14T04:01:20.4470694+00:00",
-  "LastUpdate_Achievements": "2023-10-14T04:08:43.8828271+00:00"
+  "LastUpdate_Ratings": "2023-10-14T05:01:49.468561+00:00",
+  "LastUpdate_Achievements": "2023-10-14T05:09:51.4638057+00:00"
 }

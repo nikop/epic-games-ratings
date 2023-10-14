@@ -13,9 +13,9 @@ Rating: 4.28 (Ranked 828)
 | ROTY | 34.00% | ~852 |
 | Roster Reshuffle | 32.00% | ~802 |
 | Future of the Franchise | 20.00% | ~501 |
+| Change of Scenery | 18.00% | ~451 |
 | Throwin’ Dots | 17.00% | ~426 |
 | Already in Progress | 17.00% | ~426 |
-| Change of Scenery | 17.00% | ~426 |
 | Primetime | 16.00% | ~401 |
 | Pro Bowler | 16.00% | ~401 |
 | Unblockable | 9.00% | ~226 |

@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 622,
+  "EOS_Progressed": 623,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 151,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1676,6 +1676,11 @@
       "Time": "2023-10-14T02:18:57.0996921+00:00",
       "NumProgressed": 622,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-14T05:05:39.8359508+00:00",
+      "NumProgressed": 623,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -1904,7 +1909,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "achievement_35",
@@ -1912,7 +1917,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "achievement_36",
@@ -1952,7 +1957,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "achievement_40",
@@ -1992,7 +1997,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "achievement_45",
@@ -2191,13 +2196,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 622,
+      "Progressed": 623,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 622,
+      "Progressed": 623,
       "Completed": 1
     }
   ],
@@ -2205,8 +2210,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-14T04:05:03.9790335+00:00",
+  "LastChanged_Achievements": "2023-10-14T05:05:39.8359504+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:04.2927905+00:00",
-  "LastUpdate_Ratings": "2023-10-14T04:03:06.5539179+00:00",
-  "LastUpdate_Achievements": "2023-10-14T04:05:03.979109+00:00"
+  "LastUpdate_Ratings": "2023-10-14T05:03:27.1497993+00:00",
+  "LastUpdate_Achievements": "2023-10-14T05:05:39.8360295+00:00"
 }

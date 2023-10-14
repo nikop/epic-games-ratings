@@ -12,7 +12,7 @@ Rating: 4.73 (Ranked 163)
 | Alchemist | 69.00% | ~9,338 |
 | In our Wake | 68.00% | ~9,203 |
 | Leaving all Behind | 65.00% | ~8,797 |
-| Felons | 62.00% | ~8,391 |
+| Felons | 63.00% | ~8,526 |
 | A Sea of Promises | 61.00% | ~8,256 |
 | Tales and Revelations | 58.00% | ~7,850 |
 | Bloodline | 53.00% | ~7,173 |
@@ -41,7 +41,7 @@ Rating: 4.73 (Ranked 163)
 | Old protector | 2.00% | ~271 |
 | Malignant | 1.00% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,534 (Ranked 136)  
+Progressed: 13,534 (Ranked 137)  
 Completed: 49 (0.36%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |

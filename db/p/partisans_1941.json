@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -3070,9 +3070,9 @@
       "ID": "Barrel_roll",
       "SetID": "85nb4h3",
       "Name": "Do a Barrel Roll!",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 30
     },
     {
       "ID": "Big_Bertha",
@@ -3302,8 +3302,8 @@
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-10-14T04:07:14.8279002+00:00",
+  "LastChanged_Achievements": "2023-10-14T05:08:20.6517057+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:37.6923731+00:00",
-  "LastUpdate_Ratings": "2023-10-14T03:57:57.5839861+00:00",
-  "LastUpdate_Achievements": "2023-10-14T04:07:14.8279439+00:00"
+  "LastUpdate_Ratings": "2023-10-14T04:58:20.9973189+00:00",
+  "LastUpdate_Achievements": "2023-10-14T05:08:20.6517444+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8946,9 +8946,9 @@
       "Count": 710
     }
   ],
-  "EOS_Progressed": 298271,
+  "EOS_Progressed": 298275,
   "EOS_Completed": 485,
-  "EOS_NewPlayers": 346,
+  "EOS_NewPlayers": 347,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -27881,6 +27881,11 @@
       "Time": "2023-10-14T04:04:39.4559093+00:00",
       "NumProgressed": 298271,
       "NumCompleted": 485
+    },
+    {
+      "Time": "2023-10-14T05:05:23.2421463+00:00",
+      "NumProgressed": 298275,
+      "NumCompleted": 485
     }
   ],
   "TotalAchievements": 45,
@@ -27900,7 +27905,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29827
+      "UsersEstimate": 29828
     },
     {
       "ID": "PFA_11",
@@ -27908,7 +27913,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 29827
+      "UsersEstimate": 29828
     },
     {
       "ID": "PFA_12",
@@ -27924,7 +27929,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 29827
+      "UsersEstimate": 29828
     },
     {
       "ID": "PFA_14",
@@ -27988,7 +27993,7 @@
       "Name": "The Good Samaritan",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 5965
+      "UsersEstimate": 5966
     },
     {
       "ID": "PFA_21",
@@ -27996,7 +28001,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29827
+      "UsersEstimate": 29828
     },
     {
       "ID": "PFA_22",
@@ -28116,7 +28121,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26844
+      "UsersEstimate": 26845
     },
     {
       "ID": "PFA_36",
@@ -28124,7 +28129,7 @@
       "Name": "Rise to the Challenges",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 5965
+      "UsersEstimate": 5966
     },
     {
       "ID": "PFA_37",
@@ -28188,7 +28193,7 @@
       "Name": "Finishing Touches",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 5965
+      "UsersEstimate": 5966
     },
     {
       "ID": "PFA_44",
@@ -28196,7 +28201,7 @@
       "Name": "The Spell Master",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 26844
+      "UsersEstimate": 26845
     },
     {
       "ID": "PFA_45",
@@ -28220,7 +28225,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38775
+      "UsersEstimate": 38776
     },
     {
       "ID": "PFA_7",
@@ -28228,7 +28233,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38775
+      "UsersEstimate": 38776
     },
     {
       "ID": "PFA_8",
@@ -28244,14 +28249,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26844
+      "UsersEstimate": 26845
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298271,
+      "Progressed": 298275,
       "Completed": 485
     }
   ],
@@ -28259,8 +28264,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-14T01:41:34.4806498+00:00",
-  "LastChanged_Achievements": "2023-10-14T04:04:39.4559086+00:00",
+  "LastChanged_Achievements": "2023-10-14T05:05:23.2421458+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:01.0338203+00:00",
-  "LastUpdate_Ratings": "2023-10-14T04:01:12.0161769+00:00",
-  "LastUpdate_Achievements": "2023-10-14T04:04:39.456087+00:00"
+  "LastUpdate_Ratings": "2023-10-14T05:01:40.3590853+00:00",
+  "LastUpdate_Achievements": "2023-10-14T05:05:23.2422965+00:00"
 }

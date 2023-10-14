@@ -6,17 +6,17 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 89.00% | ~627,706 |
-| Escaped Asphodel | 80.00% | ~564,230 |
-| Arms Collector | 71.00% | ~500,754 |
-| Friends in High Places | 68.00% | ~479,596 |
-| Escaped Elysium | 66.00% | ~465,490 |
-| Chthonic Colleagues | 63.00% | ~444,331 |
+| Escaped Tartarus | 89.00% | ~627,707 |
+| Escaped Asphodel | 80.00% | ~564,231 |
+| Arms Collector | 71.00% | ~500,755 |
+| Friends in High Places | 68.00% | ~479,597 |
+| Escaped Elysium | 66.00% | ~465,491 |
+| Chthonic Colleagues | 63.00% | ~444,332 |
 | Is There No Escape? | 52.00% | ~366,750 |
 | Death Dealer | 45.00% | ~317,380 |
 | Skelly Slayer | 42.00% | ~296,221 |
-| Well Stocked | 40.00% | ~282,115 |
-| Back to Work | 38.00% | ~268,009 |
+| Well Stocked | 40.00% | ~282,116 |
+| Back to Work | 38.00% | ~268,010 |
 | Day-or-Night Trader | 37.00% | ~260,957 |
 | Blessed by the Gods | 37.00% | ~260,957 |
 | Urge to Sing | 36.00% | ~253,904 |
@@ -30,15 +30,15 @@ Number of Ratings: 6,336  (23.09.2022)
 | To Charon's Credit | 23.00% | ~162,216 |
 | Tools of the Architect | 23.00% | ~162,216 |
 | Master of Arms | 23.00% | ~162,216 |
-| Rare Collectible | 22.00% | ~155,163 |
-| Weapon of Fate | 21.00% | ~148,110 |
+| Rare Collectible | 22.00% | ~155,164 |
+| Weapon of Fate | 21.00% | ~148,111 |
 | Something From Everyone | 19.00% | ~134,005 |
 | Hold the Onions | 18.00% | ~126,952 |
 | Well Versed | 17.00% | ~119,899 |
 | War-God's Bloodlust | 15.00% | ~105,793 |
 | Musician and Muse | 14.00% | ~98,740 |
-| The Useless Trinket | 13.00% | ~91,687 |
-| Champion of Elysium | 13.00% | ~91,687 |
+| The Useless Trinket | 13.00% | ~91,688 |
+| Champion of Elysium | 13.00% | ~91,688 |
 | Slashed Benefits | 12.00% | ~84,635 |
 | Haste of Hermes | 11.00% | ~77,582 |
 | Bad Call | 10.00% | ~70,529 |
@@ -56,7 +56,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Thorn of Thanatos | 4.00% | ~28,212 |
 | Friends Forever | 4.00% | ~28,212 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 705,288 (Ranked 21)  
+Progressed: 705,289 (Ranked 21)  
 Completed: 6,409 (0.91%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,7 +233,7 @@ Completed: 6,409 (0.91%) (Ranked 150)
 | 2023-10-11 | 705,165 | 6,406 |
 | 2023-10-12 | 705,225 | 6,406 |
 | 2023-10-13 | 705,283 | 6,409 |
-| 2023-10-14 | 705,288 | 6,409 |
+| 2023-10-14 | 705,289 | 6,409 |
 ## Awards
 Max (Character Customization): 3,308  (Ranked 94)  
 Sum: 8,036 (Ranked 102)  
