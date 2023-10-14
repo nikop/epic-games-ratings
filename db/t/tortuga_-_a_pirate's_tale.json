@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16825,
+  "EOS_Progressed": 16826,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5668,6 +5668,11 @@
       "Time": "2023-10-13T23:04:15.1670905+00:00",
       "NumProgressed": 16825,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-14T02:18:42.3458595+00:00",
+      "NumProgressed": 16826,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -5679,7 +5684,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 15984
+      "UsersEstimate": 15985
     },
     {
       "ID": "ACH001",
@@ -5711,7 +5716,7 @@
       "Name": "Pimp My Glide",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 8244
+      "UsersEstimate": 8245
     },
     {
       "ID": "ACH0013",
@@ -5727,7 +5732,7 @@
       "Name": "Sharing Is Caring",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1682
+      "UsersEstimate": 1683
     },
     {
       "ID": "ACH0015",
@@ -5775,7 +5780,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 12114
+      "UsersEstimate": 12115
     },
     {
       "ID": "ACH0020",
@@ -5791,7 +5796,7 @@
       "Name": "A True Dandy",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "ACH0022",
@@ -5839,7 +5844,7 @@
       "Name": "No Half Measures",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 14638
+      "UsersEstimate": 14639
     },
     {
       "ID": "ACH005",
@@ -5855,7 +5860,7 @@
       "Name": "... And Where Do the Stories Come From?",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 6898
+      "UsersEstimate": 6899
     },
     {
       "ID": "ACH007",
@@ -5886,7 +5891,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 16825,
+      "Progressed": 16826,
       "Completed": 0
     }
   ],
@@ -5894,8 +5899,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-10-04T01:42:23.3161505+00:00",
-  "LastChanged_Achievements": "2023-10-14T01:45:14.6977623+00:00",
+  "LastChanged_Achievements": "2023-10-14T02:18:42.3458592+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:31.092943+00:00",
-  "LastUpdate_Ratings": "2023-10-14T01:43:34.5349194+00:00",
-  "LastUpdate_Achievements": "2023-10-14T01:45:14.6978245+00:00"
+  "LastUpdate_Ratings": "2023-10-14T02:16:27.4913119+00:00",
+  "LastUpdate_Achievements": "2023-10-14T02:18:42.3459001+00:00"
 }

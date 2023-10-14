@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 620,
+  "EOS_Progressed": 622,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1671,6 +1671,11 @@
       "Time": "2023-10-13T23:04:27.1125368+00:00",
       "NumProgressed": 620,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-14T02:18:57.0996921+00:00",
+      "NumProgressed": 622,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -1745,9 +1750,9 @@
       "ID": "achievement_17",
       "SetID": "271ol84",
       "Name": "\u0022Gonk? Gonk!\u0022",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 56
     },
     {
       "ID": "achievement_18",
@@ -1755,7 +1760,7 @@
       "Name": "The power of the Force",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "achievement_19",
@@ -1779,15 +1784,15 @@
       "Name": "Collector",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "achievement_21",
       "SetID": "271ol84",
       "Name": "Tell Jabba that I\u0027ve got his money",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 68
+      "UsersEstimate": 75
     },
     {
       "ID": "achievement_22",
@@ -1795,7 +1800,7 @@
       "Name": "Distinguished",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "achievement_23",
@@ -1819,7 +1824,7 @@
       "Name": "A tremor in the Force",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "achievement_26",
@@ -1827,7 +1832,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "achievement_27",
@@ -1875,7 +1880,7 @@
       "Name": "Scrap collector",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "achievement_32",
@@ -1907,7 +1912,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 558
+      "UsersEstimate": 560
     },
     {
       "ID": "achievement_36",
@@ -1923,7 +1928,7 @@
       "Name": "Off to a good start",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 415
+      "UsersEstimate": 417
     },
     {
       "ID": "achievement_38",
@@ -1931,7 +1936,7 @@
       "Name": "Survivor",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "achievement_39",
@@ -1955,7 +1960,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "achievement_41",
@@ -2091,7 +2096,7 @@
       "Name": "Support the troops",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "achievement_57",
@@ -2186,13 +2191,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 620,
+      "Progressed": 622,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 620,
+      "Progressed": 622,
       "Completed": 1
     }
   ],
@@ -2200,8 +2205,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-14T01:45:31.8838297+00:00",
+  "LastChanged_Achievements": "2023-10-14T02:18:57.0996918+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:04.2927905+00:00",
-  "LastUpdate_Ratings": "2023-10-14T01:43:41.5769466+00:00",
-  "LastUpdate_Achievements": "2023-10-14T01:45:31.8838984+00:00"
+  "LastUpdate_Ratings": "2023-10-14T02:16:30.7384646+00:00",
+  "LastUpdate_Achievements": "2023-10-14T02:18:57.0997578+00:00"
 }

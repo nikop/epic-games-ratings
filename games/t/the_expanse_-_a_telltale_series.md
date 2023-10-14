@@ -26,8 +26,8 @@ Rating: 4.57 (Ranked 454)
 | Thorston Mayer | 1.00% | ~139 |
 | No Belter Left Behind | 0.90% | ~125 |
 | Brother's Reaper | 0.80% | ~111 |
-| Data Logger | 0.70% | ~97 |
-| Data Master | 0.70% | ~97 |
+| Data Logger | 0.70% | ~98 |
+| Data Master | 0.70% | ~98 |
 | Debris Spree | 0.50% | ~70 |
 | Data Recoverer | 0.40% | ~56 |
 | Urshanabi Hoarder | 0.30% | ~42 |
@@ -36,7 +36,7 @@ Rating: 4.57 (Ranked 454)
 | Scavenger Star | 0.10% | ~14 |
 | Data Collector | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,928 (Ranked 135)  
+Progressed: 13,930 (Ranked 135)  
 Completed: 23 (0.17%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 23 (0.17%) (Ranked 228)
 | 2023-10-11 | 13,863 | 19 |
 | 2023-10-12 | 13,891 | 20 |
 | 2023-10-13 | 13,925 | 23 |
-| 2023-10-14 | 13,928 | 23 |
+| 2023-10-14 | 13,930 | 23 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

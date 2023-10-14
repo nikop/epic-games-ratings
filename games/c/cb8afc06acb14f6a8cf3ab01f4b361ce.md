@@ -5,26 +5,26 @@ Rating: 4.16 (Ranked 907)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The touch of Chaos | 37.00% | ~99,130 |
-| May the Torchbearer light our way | 35.00% | ~93,771 |
-| A powerful aura was here | 23.00% | ~61,621 |
-| Let's raise the stakes!! | 10.00% | ~26,792 |
-| Rumors are true | 5.00% | ~13,396 |
-| Pride is a sin, young Knight | 5.00% | ~13,396 |
-| Your wounds… They are healing so fast! | 5.00% | ~13,396 |
-| We'll be careful | 4.00% | ~10,717 |
-| Bring it on! | 4.00% | ~10,717 |
-| Back to your senses | 3.00% | ~8,038 |
-| They tricked me | 2.00% | ~5,358 |
-| We need to talk | 2.00% | ~5,358 |
-| They won't last long | 2.00% | ~5,358 |
-| I feel drawn to it | 1.00% | ~2,679 |
-| I took a risk | 1.00% | ~2,679 |
-| Here to stay | 0.90% | ~2,411 |
-| Their fate is sealed | 0.90% | ~2,411 |
-| Counting on you | 0.80% | ~2,143 |
-| This is the end | 0.80% | ~2,143 |
-| We can choose to fight | 0.80% | ~2,143 |
+| The touch of Chaos | 37.00% | ~99,150 |
+| May the Torchbearer light our way | 35.00% | ~93,791 |
+| A powerful aura was here | 23.00% | ~61,634 |
+| Let's raise the stakes!! | 10.00% | ~26,797 |
+| Rumors are true | 5.00% | ~13,399 |
+| Pride is a sin, young Knight | 5.00% | ~13,399 |
+| Your wounds… They are healing so fast! | 5.00% | ~13,399 |
+| We'll be careful | 4.00% | ~10,719 |
+| Bring it on! | 4.00% | ~10,719 |
+| Back to your senses | 3.00% | ~8,039 |
+| They tricked me | 2.00% | ~5,359 |
+| We need to talk | 2.00% | ~5,359 |
+| They won't last long | 2.00% | ~5,359 |
+| I feel drawn to it | 1.00% | ~2,680 |
+| I took a risk | 1.00% | ~2,680 |
+| Here to stay | 0.90% | ~2,412 |
+| Their fate is sealed | 0.90% | ~2,412 |
+| Counting on you | 0.80% | ~2,144 |
+| This is the end | 0.80% | ~2,144 |
+| We can choose to fight | 0.80% | ~2,144 |
 | Not even from this world | 0.50% | ~1,340 |
 | You want more? I've got more! | 0.50% | ~1,340 |
 | No damsels in distress | 0.20% | ~536 |
@@ -46,7 +46,7 @@ Rating: 4.16 (Ranked 907)
 | We strike as one | 0.10% | ~268 |
 | Chaos be damned! | 0.10% | ~268 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 267,918 (Ranked 50)  
+Progressed: 267,974 (Ranked 50)  
 Completed: 1 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,7 +67,7 @@ Completed: 1 (0.00%) (Ranked 314)
 | 2023-10-11 | 261,607 | 1 |
 | 2023-10-12 | 264,434 | 1 |
 | 2023-10-13 | 267,602 | 1 |
-| 2023-10-14 | 267,918 | 1 |
+| 2023-10-14 | 267,974 | 1 |
 ## Awards
 Max (Great Boss Battles): 27  (Ranked 490)  
 Sum: 27 (Ranked 503)  
