@@ -6,21 +6,21 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,230 |
-| Until death do us apart | 4.00% | ~17,230 |
-| That is mine! | 3.00% | ~12,922 |
-| Victorious! | 3.00% | ~12,922 |
-| Brothers in Arms | 2.00% | ~8,615 |
-| Cold War | 2.00% | ~8,615 |
-| For the Glory | 2.00% | ~8,615 |
-| That's a Grand Navy | 2.00% | ~8,615 |
-| Seriously?! | 2.00% | ~8,615 |
-| Defender of the Faith | 1.00% | ~4,307 |
-| It's all about the money | 1.00% | ~4,307 |
-| Respected | 1.00% | ~4,307 |
-| The Princess is in this Castle | 1.00% | ~4,307 |
-| True Catholic | 1.00% | ~4,307 |
-| Truly Divine Ruler | 1.00% | ~4,307 |
+| That's a Grand Army | 4.00% | ~17,231 |
+| Until death do us apart | 4.00% | ~17,231 |
+| That is mine! | 3.00% | ~12,924 |
+| Victorious! | 3.00% | ~12,924 |
+| Brothers in Arms | 2.00% | ~8,616 |
+| Cold War | 2.00% | ~8,616 |
+| For the Glory | 2.00% | ~8,616 |
+| That's a Grand Navy | 2.00% | ~8,616 |
+| Seriously?! | 2.00% | ~8,616 |
+| Defender of the Faith | 1.00% | ~4,308 |
+| It's all about the money | 1.00% | ~4,308 |
+| Respected | 1.00% | ~4,308 |
+| The Princess is in this Castle | 1.00% | ~4,308 |
+| True Catholic | 1.00% | ~4,308 |
+| Truly Divine Ruler | 1.00% | ~4,308 |
 | It's all about luck | 0.90% | ~3,877 |
 | Blockader | 0.80% | ~3,446 |
 | Double the Love | 0.80% | ~3,446 |
@@ -45,23 +45,23 @@ Number of Ratings: 8,414  (23.09.2022)
 | Market Control | 0.30% | ~1,292 |
 | Populists in Government | 0.30% | ~1,292 |
 | Trustworthy | 0.30% | ~1,292 |
-| Absolutely | 0.20% | ~861 |
-| All belongs to Mother Russia | 0.20% | ~861 |
-| At every continent | 0.20% | ~861 |
-| Early-Modern Warfare | 0.20% | ~861 |
-| Electable! | 0.20% | ~861 |
-| Grand Coalition | 0.20% | ~861 |
-| In the Name of the Father | 0.20% | ~861 |
-| Italian Ambition | 0.20% | ~861 |
-| Just a Little Patience | 0.20% | ~861 |
-| One Family to Rule them All | 0.20% | ~861 |
-| Ruina Imperii | 0.20% | ~861 |
-| The pen is mightier than the sword | 0.20% | ~861 |
-| This is My Faith | 0.20% | ~861 |
-| Time Bandit | 0.20% | ~861 |
-| Traditional Player | 0.20% | ~861 |
-| Trophy Hunter | 0.20% | ~861 |
-| Voting Streak | 0.20% | ~861 |
+| Absolutely | 0.20% | ~862 |
+| All belongs to Mother Russia | 0.20% | ~862 |
+| At every continent | 0.20% | ~862 |
+| Early-Modern Warfare | 0.20% | ~862 |
+| Electable! | 0.20% | ~862 |
+| Grand Coalition | 0.20% | ~862 |
+| In the Name of the Father | 0.20% | ~862 |
+| Italian Ambition | 0.20% | ~862 |
+| Just a Little Patience | 0.20% | ~862 |
+| One Family to Rule them All | 0.20% | ~862 |
+| Ruina Imperii | 0.20% | ~862 |
+| The pen is mightier than the sword | 0.20% | ~862 |
+| This is My Faith | 0.20% | ~862 |
+| Time Bandit | 0.20% | ~862 |
+| Traditional Player | 0.20% | ~862 |
+| Trophy Hunter | 0.20% | ~862 |
+| Voting Streak | 0.20% | ~862 |
 | The 52 Garhs | 0.10% | ~431 |
 | I don't like sand | 0.10% | ~431 |
 | A Blessed Nation | 0.10% | ~431 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 430,743 (Ranked 40)  
+Progressed: 430,784 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -538,17 +538,17 @@ Completed: 1 (0.00%) (Ranked 314)
 | 2023-10-11 | 428,261 | 1 |
 | 2023-10-12 | 429,009 | 1 |
 | 2023-10-13 | 429,869 | 1 |
-| 2023-10-14 | 430,743 | 1 |
+| 2023-10-14 | 430,784 | 1 |
 ## Awards
 Max (Educational): 6,514  (Ranked 55)  
-Sum: 53,599 (Ranked 25)  
+Sum: 53,619 (Ranked 25)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 6,514 |
 | This game is Highly Recommended | 6,208 |
 | This game has Diverse Characters | 6,200 |
-| This game has Challenging Combat | 6,155 |
+| This game has Challenging Combat | 6,175 |
 | This game is Extremely Fun | 6,155 |
 | This game is Relaxing | 6,023 |
 | This game has Competitive Players | 5,838 |
@@ -828,4 +828,4 @@ Diff (max vs sum): 30
 | 2023-10-11 | 4.69 | - | 6,479 | 53,243 |
 | 2023-10-12 | 4.69 | - | 6,494 | 53,343 |
 | 2023-10-13 | 4.69 | - | 6,514 | 53,477 |
-| 2023-10-14 | 4.69 | - | 6,514 | 53,599 |
+| 2023-10-14 | 4.69 | - | 6,514 | 53,619 |

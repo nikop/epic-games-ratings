@@ -2,7 +2,7 @@
   "ID": "07f4a7dd3c884e5d87e9a209716962ca",
   "Name": "Old World",
   "ProductSlug": "old-world",
-  "Ranking_Rating": 298,
+  "Ranking_Rating": 299,
   "Ranking_Popularity": 267,
   "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 134,
@@ -1851,9 +1851,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14678,
+  "EOS_Progressed": 14681,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 195,
+  "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13836,6 +13836,11 @@
       "Time": "2023-10-14T17:07:13.9720348+00:00",
       "NumProgressed": 14678,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-14T18:07:15.9730347+00:00",
+      "NumProgressed": 14681,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -14285,9 +14290,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD",
       "SetID": "9201eeb",
       "Name": "Fountainhead",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 147
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_GLORIOUS",
@@ -14733,9 +14738,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_SAGES",
       "SetID": "7l38kb8",
       "Name": "Sages",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 103
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_STATESMEN",
@@ -15029,9 +15034,9 @@
       "ID": "ACHIEVEMENT_GREECE4_WIN_PAUSANIAS_STORYLINE",
       "SetID": "9201eeb",
       "Name": "Queen of Opportunity",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_GREECE4_WIN_PERSIA_STORYLINE",
@@ -15173,9 +15178,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_APADANA",
       "SetID": "9201eeb",
       "Name": "Apadana",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 117
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_CIRCUS_MAXIMUS",
@@ -15285,9 +15290,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_NECROPOLIS",
       "SetID": "9201eeb",
       "Name": "Necropolis",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 117
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_ORACLE",
@@ -15461,9 +15466,9 @@
       "ID": "ACHIEVEMENT_NATION_CARTHAGE",
       "SetID": "7l38kb8",
       "Name": "Carthage",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 59
     },
     {
       "ID": "ACHIEVEMENT_NATION_EGYPT",
@@ -15861,9 +15866,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_VENERATION",
       "SetID": "7l38kb8",
       "Name": "Veneration",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 59
     },
     {
       "ID": "ACHIEVEMENT_THE_WORD_OF_GOD",
@@ -15893,9 +15898,9 @@
       "ID": "ACHIEVEMENT_UNIT_CIMMERIAN_ARCHER",
       "SetID": "9201eeb",
       "Name": "Cimmerian Archer",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 73
     },
     {
       "ID": "ACHIEVEMENT_UNIT_HITTITE_CHARIOT",
@@ -16582,21 +16587,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14678,
+      "Progressed": 14681,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14678,
+      "Progressed": 14681,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-14T15:03:34.4964614+00:00",
-  "LastChanged_Achievements": "2023-10-14T17:07:13.9720344+00:00",
+  "LastChanged_Achievements": "2023-10-14T18:07:15.973034+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:21.7880328+00:00",
-  "LastUpdate_Ratings": "2023-10-14T17:03:28.857172+00:00",
-  "LastUpdate_Achievements": "2023-10-14T17:07:13.9729969+00:00"
+  "LastUpdate_Ratings": "2023-10-14T18:03:21.5811272+00:00",
+  "LastUpdate_Achievements": "2023-10-14T18:07:15.9741569+00:00"
 }

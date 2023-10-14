@@ -1018,9 +1018,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 7994,
+  "EOS_Progressed": 8006,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1115,
+  "EOS_NewPlayers": 1111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -6373,6 +6373,11 @@
       "Time": "2023-10-14T17:05:26.7291469+00:00",
       "NumProgressed": 7994,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-14T18:05:30.6941035+00:00",
+      "NumProgressed": 8006,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -6385,7 +6390,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 719
+      "UsersEstimate": 721
     },
     {
       "ID": "a_10",
@@ -6433,7 +6438,7 @@
       "Name": "Bye Bye",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 3038
+      "UsersEstimate": 3042
     },
     {
       "ID": "a_19",
@@ -6511,9 +6516,9 @@
       "ID": "a_28",
       "SetID": "daiie3o",
       "Name": "Pastry Chef",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 160
+      "UsersEstimate": 80
     },
     {
       "ID": "a_3",
@@ -6632,7 +6637,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 7994,
+      "Progressed": 8006,
       "Completed": 7
     }
   ],
@@ -6640,8 +6645,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-10-10T16:59:22.7446864+00:00",
-  "LastChanged_Achievements": "2023-10-14T17:05:26.7291465+00:00",
+  "LastChanged_Achievements": "2023-10-14T18:05:30.6941025+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:27.1391374+00:00",
-  "LastUpdate_Ratings": "2023-10-14T17:00:26.015785+00:00",
-  "LastUpdate_Achievements": "2023-10-14T17:05:26.7291891+00:00"
+  "LastUpdate_Ratings": "2023-10-14T18:00:22.6627077+00:00",
+  "LastUpdate_Achievements": "2023-10-14T18:05:30.6941655+00:00"
 }

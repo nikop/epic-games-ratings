@@ -2,12 +2,12 @@
   "ID": "36336ee97ec543bbae85abaca618182b",
   "Name": "Diabotical",
   "ProductSlug": "diabotical",
-  "Ranking_Rating": 140,
+  "Ranking_Rating": 139,
   "Ranking_Popularity": 248,
   "Ranking_PopularitySum": 178,
   "Ranking_EOS_Progress": 669,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewPlayers": 395,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2020-09-03T13:00:00+00:00",
@@ -1476,10 +1476,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 2658,
       "NumberOfAwardsMax": 284
+    },
+    {
+      "Time": "2023-10-14T17:57:52.9507736+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 2660,
+      "NumberOfAwardsMax": 284
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2658,
+  "NumberOfAwards": 2660,
   "NumberOfAwardsMax": 284,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1541,7 +1547,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 246
+      "Count": 248
     },
     {
       "Text": "This game has Playful Visuals",
@@ -1567,8 +1573,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:10.7191906+00:00",
-  "LastChanged": "2023-10-11T17:02:53.8371912+00:00",
+  "LastChanged": "2023-10-14T17:57:52.9507735+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:32.1926073+00:00",
-  "LastUpdate_Ratings": "2023-10-14T16:57:45.3248089+00:00",
-  "LastUpdate_Achievements": "2023-10-14T17:06:00.164966+00:00"
+  "LastUpdate_Ratings": "2023-10-14T17:57:52.9507741+00:00",
+  "LastUpdate_Achievements": "2023-10-14T18:06:03.8216102+00:00"
 }

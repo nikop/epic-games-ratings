@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 298)  
+Rating: 4.65 (Ranked 299)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -15,6 +15,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambitious | 1.00% | ~147 |
 | Architect | 1.00% | ~147 |
 | Enlightened | 1.00% | ~147 |
+| Fountainhead | 1.00% | ~147 |
 | Glorious | 1.00% | ~147 |
 | Good | 1.00% | ~147 |
 | Just | 1.00% | ~147 |
@@ -44,7 +45,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Pyramids | 1.00% | ~147 |
 | Kushite Paganism | 1.00% | ~147 |
 | Brilliant | 0.90% | ~132 |
-| Fountainhead | 0.90% | ~132 |
 | Wise | 0.90% | ~132 |
 | Able Difficulty | 0.90% | ~132 |
 | Furious Family | 0.90% | ~132 |
@@ -57,23 +57,23 @@ Number of Ratings: 1,307  (23.09.2022)
 | Drillmaster | 0.80% | ~117 |
 | Great | 0.80% | ~117 |
 | Legendary Cities | 0.80% | ~117 |
+| Apadana | 0.80% | ~117 |
 | Colossus | 0.80% | ~117 |
 | Musaeum | 0.80% | ~117 |
+| Necropolis | 0.80% | ~117 |
 | Mighty | 0.70% | ~103 |
 | Valiant | 0.70% | ~103 |
 | Just Difficulty | 0.70% | ~103 |
 | Artisans | 0.70% | ~103 |
 | Champions | 0.70% | ~103 |
+| Sages | 0.70% | ~103 |
 | Acropolis | 0.70% | ~103 |
-| Apadana | 0.70% | ~103 |
-| Necropolis | 0.70% | ~103 |
 | Learn to Play 2 | 0.70% | ~103 |
 | Mythology | 0.70% | ~103 |
 | Win a Single Player Game | 0.70% | ~103 |
 | Hanging Gardens in Babylon | 0.60% | ~88 |
 | Beloved | 0.60% | ~88 |
 | Conqueror | 0.60% | ~88 |
-| Sages | 0.60% | ~88 |
 | Mausoleum | 0.60% | ~88 |
 | Learn to Play 3 | 0.60% | ~88 |
 | Building Wonders | 0.60% | ~88 |
@@ -93,6 +93,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Power to the People | 0.50% | ~73 |
 | Persian Paganism | 0.50% | ~73 |
 | Legalism | 0.50% | ~73 |
+| Cimmerian Archer | 0.50% | ~73 |
 | Legionary | 0.50% | ~73 |
 | Double Victory | 0.50% | ~73 |
 | Points Victory | 0.50% | ~73 |
@@ -106,6 +107,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Iron | 0.40% | ~59 |
 | Church of the Holy Sepulchre | 0.40% | ~59 |
 | Babylonia | 0.40% | ~59 |
+| Carthage | 0.40% | ~59 |
 | Assyrian Paganism | 0.40% | ~59 |
 | Economic Reform | 0.40% | ~59 |
 | Military Prestige | 0.40% | ~59 |
@@ -113,7 +115,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Gnosticism | 0.40% | ~59 |
 | Redemption | 0.40% | ~59 |
 | Revelation | 0.40% | ~59 |
-| Cimmerian Archer | 0.40% | ~59 |
+| Veneration | 0.40% | ~59 |
 | Mounted Lancer | 0.40% | ~59 |
 | Phalangite | 0.40% | ~59 |
 | Ambition Victory | 0.40% | ~59 |
@@ -128,7 +130,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Clerics | 0.30% | ~44 |
 | Adur Burzen-Mihr | 0.30% | ~44 |
 | Learn to Play 5 | 0.30% | ~44 |
-| Carthage | 0.30% | ~44 |
 | Egypt | 0.30% | ~44 |
 | Rome | 0.30% | ~44 |
 | Old World Order | 0.30% | ~44 |
@@ -136,7 +137,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Paganism | 0.30% | ~44 |
 | Industrial Progress | 0.30% | ~44 |
 | Enlightenment | 0.30% | ~44 |
-| Veneration | 0.30% | ~44 |
 | Cataphract Archer | 0.30% | ~44 |
 | Turreted Elephant | 0.30% | ~44 |
 | All Nations | 0.30% | ~44 |
@@ -230,6 +230,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Queen of Politics | 0.10% | ~15 |
 | Queen of Intrigue | 0.10% | ~15 |
 | Queen of Lies | 0.10% | ~15 |
+| Queen of Opportunity | 0.10% | ~15 |
 | Queen of War | 0.10% | ~15 |
 | Mighty Bucephalus | 0.10% | ~15 |
 | Knot So Hard | 0.10% | ~15 |
@@ -330,7 +331,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Elephant in Elephantine | 0.00% | ~0 |
 | That Also Works | 0.00% | ~0 |
 | Not a Scratch | 0.00% | ~0 |
-| Queen of Opportunity | 0.00% | ~0 |
 | Gate to Victory | 0.00% | ~0 |
 | Alexander the Mediocre | 0.00% | ~0 |
 | Alexander the Great | 0.00% | ~0 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,678 (Ranked 134)  
+Progressed: 14,681 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -526,7 +526,7 @@ Completed: 5 (0.03%) (Ranked 283)
 | 2023-10-11 | 14,606 | 5 |
 | 2023-10-12 | 14,624 | 5 |
 | 2023-10-13 | 14,652 | 5 |
-| 2023-10-14 | 14,678 | 5 |
+| 2023-10-14 | 14,681 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,837 (Ranked 210)  

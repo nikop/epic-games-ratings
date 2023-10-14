@@ -8,29 +8,29 @@ Rating: 4.50 (Ranked 573)
 | Advancement | 2.00% | ~529 |
 | Meticulously Efficient | 2.00% | ~529 |
 | Stylish | 2.00% | ~529 |
-| Back Off | 1.00% | ~264 |
-| Clutch Capture | 1.00% | ~264 |
-| I collect Spores, Molds, and Fungi | 1.00% | ~264 |
-| Cultured | 1.00% | ~264 |
-| Discovery | 1.00% | ~264 |
-| Fully Upgraded | 1.00% | ~264 |
-| Solo Capture | 1.00% | ~264 |
-| Swift Rift Removers | 1.00% | ~264 |
-| Teamwork | 1.00% | ~264 |
-| There you are! | 1.00% | ~264 |
-| Vaporous Expansion | 1.00% | ~264 |
-| Whoopsie | 1.00% | ~264 |
+| Back Off | 1.00% | ~265 |
+| Clutch Capture | 1.00% | ~265 |
+| I collect Spores, Molds, and Fungi | 1.00% | ~265 |
+| Cultured | 1.00% | ~265 |
+| Discovery | 1.00% | ~265 |
+| Fully Upgraded | 1.00% | ~265 |
+| Solo Capture | 1.00% | ~265 |
+| Swift Rift Removers | 1.00% | ~265 |
+| Teamwork | 1.00% | ~265 |
+| There you are! | 1.00% | ~265 |
+| Vaporous Expansion | 1.00% | ~265 |
+| Whoopsie | 1.00% | ~265 |
 | Animated | 0.90% | ~238 |
 | Icing on the Cake | 0.90% | ~238 |
 | Daily Dose | 0.80% | ~212 |
 | Ectoplasmic Entity | 0.80% | ~212 |
 | Ghostbuster In Training | 0.80% | ~212 |
 | Right back at ya | 0.80% | ~212 |
+| Summoner | 0.80% | ~212 |
 | Terrifying | 0.80% | ~212 |
 | Welcome to the Crew | 0.80% | ~212 |
 | Side Hustle | 0.70% | ~185 |
 | Skilled | 0.70% | ~185 |
-| Summoner | 0.70% | ~185 |
 | Legions | 0.60% | ~159 |
 | Stunner | 0.60% | ~159 |
 | We have the best insurance | 0.50% | ~132 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 573)
 | Therapeutic | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,445 (Ranked 117)  
+Progressed: 26,451 (Ranked 117)  
 Completed: 58 (0.22%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,7 +234,7 @@ Completed: 58 (0.22%) (Ranked 219)
 | 2023-10-11 | 26,352 | 58 |
 | 2023-10-12 | 26,379 | 58 |
 | 2023-10-13 | 26,414 | 58 |
-| 2023-10-14 | 26,445 | 58 |
+| 2023-10-14 | 26,451 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 262  (Ranked 256)  
 Sum: 2,386 (Ranked 188)  

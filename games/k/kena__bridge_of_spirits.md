@@ -6,10 +6,10 @@ Number of Ratings: 3,313  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Found a Friend | 95.00% | ~407,052 |
-| Haikyo | 80.00% | ~342,781 |
+| Found a Friend | 95.00% | ~407,053 |
+| Haikyo | 80.00% | ~342,782 |
 | Good as New | 72.00% | ~308,503 |
-| Into the Woods | 70.00% | ~299,933 |
+| Into the Woods | 70.00% | ~299,934 |
 | Hunter in the Forest | 60.00% | ~257,086 |
 | Rot Commander | 60.00% | ~257,086 |
 | Taro's Fear | 56.00% | ~239,947 |
@@ -26,7 +26,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | A Heavy Hammer | 30.00% | ~128,543 |
 | Crossing Over | 29.00% | ~124,258 |
 | Quick Draw | 29.00% | ~124,258 |
-| Toshi's Fear | 28.00% | ~119,973 |
+| Toshi's Fear | 28.00% | ~119,974 |
 | Toshi's Regret | 27.00% | ~115,689 |
 | Toshi's Love | 27.00% | ~115,689 |
 | A Leader Walks Alone | 26.00% | ~111,404 |
@@ -34,7 +34,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | The Lonely Path | 26.00% | ~111,404 |
 | Restore Balance | 25.00% | ~107,119 |
 | Say Cheese | 16.00% | ~68,556 |
-| Skillful Spirit Guide | 15.00% | ~64,271 |
+| Skillful Spirit Guide | 15.00% | ~64,272 |
 | Piercing Blow | 14.00% | ~59,987 |
 | Zen Master | 8.00% | ~34,278 |
 | Curse Collector | 7.00% | ~29,993 |
@@ -48,7 +48,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | Triple Threat | 0.90% | ~3,856 |
 | Master Spirit Guide | 0.30% | ~1,285 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 428,476 (Ranked 41)  
+Progressed: 428,477 (Ranked 41)  
 Completed: 539 (0.13%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 539 (0.13%) (Ranked 237)
 | 2023-10-11 | 428,439 | 538 |
 | 2023-10-12 | 428,449 | 539 |
 | 2023-10-13 | 428,464 | 539 |
-| 2023-10-14 | 428,476 | 539 |
+| 2023-10-14 | 428,477 | 539 |
 ## Awards
 Max (Great Boss Battles): 1,329  (Ranked 132)  
 Sum: 1,684 (Ranked 214)  

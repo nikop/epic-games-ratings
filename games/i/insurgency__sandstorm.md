@@ -6,8 +6,8 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~23,111 |
-| Wallbanger | 5.00% | ~23,111 |
+| Point Shooting | 5.00% | ~23,112 |
+| Wallbanger | 5.00% | ~23,112 |
 | Exploitative | 4.00% | ~18,489 |
 | High Speed Low Drag | 4.00% | ~18,489 |
 | Wet Feet | 4.00% | ~18,489 |
@@ -15,11 +15,11 @@ Number of Ratings: 1,316  (23.09.2022)
 | Lucky | 3.00% | ~13,867 |
 | Stylin' | 3.00% | ~13,867 |
 | Turf War | 3.00% | ~13,867 |
-| Banged | 2.00% | ~9,244 |
-| First Blood | 2.00% | ~9,244 |
-| Flaccid Paralysis | 2.00% | ~9,244 |
-| Push Victory | 2.00% | ~9,244 |
-| Self-destructive | 2.00% | ~9,244 |
+| Banged | 2.00% | ~9,245 |
+| First Blood | 2.00% | ~9,245 |
+| Flaccid Paralysis | 2.00% | ~9,245 |
+| Push Victory | 2.00% | ~9,245 |
+| Self-destructive | 2.00% | ~9,245 |
 | Blindfire | 1.00% | ~4,622 |
 | Efficient | 1.00% | ~4,622 |
 | Ruthless | 1.00% | ~4,622 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~462 |
 | Road Hazard | 0.10% | ~462 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 462,224 (Ranked 38)  
+Progressed: 462,236 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,17 +219,17 @@ Completed: 2 (0.00%) (Ranked 314)
 | 2023-10-11 | 461,311 | 2 |
 | 2023-10-12 | 461,610 | 2 |
 | 2023-10-13 | 461,949 | 2 |
-| 2023-10-14 | 462,224 | 2 |
+| 2023-10-14 | 462,236 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 388  (Ranked 224)  
-Sum: 3,066 (Ranked 170)  
+Sum: 3,068 (Ranked 170)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 388 |
 | This game has Challenging Combat | 373 |
 | This game is Extremely Fun | 356 |
-| This game has Competitive Players | 349 |
+| This game has Competitive Players | 351 |
 | This game is Highly Recommended | 337 |
 | This game has Realistic Visuals | 326 |
 | This game has Amazing Storytelling | 323 |
@@ -494,4 +494,4 @@ Diff (max vs sum): 54
 | 2023-10-11 | 4.62 | - | 387 | 3,056 |
 | 2023-10-12 | 4.62 | - | 388 | 3,062 |
 | 2023-10-13 | 4.62 | - | 388 | 3,065 |
-| 2023-10-14 | 4.62 | - | 388 | 3,066 |
+| 2023-10-14 | 4.62 | - | 388 | 3,068 |

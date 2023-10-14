@@ -1084,9 +1084,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 257279,
+  "EOS_Progressed": 257283,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 246,
+  "EOS_NewPlayers": 247,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18589,6 +18589,11 @@
       "Time": "2023-10-14T17:05:31.6718924+00:00",
       "NumProgressed": 257279,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-14T18:05:36.0421246+00:00",
+      "NumProgressed": 257283,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -18648,7 +18653,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 79756
+      "UsersEstimate": 79758
     },
     {
       "ID": "BackHomeNTimes",
@@ -18888,7 +18893,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 56601
+      "UsersEstimate": 56602
     },
     {
       "ID": "KillOthers2",
@@ -19047,7 +19052,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 257279,
+      "Progressed": 257283,
       "Completed": 3
     }
   ],
@@ -19055,8 +19060,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-10-13T22:00:36.4761355+00:00",
-  "LastChanged_Achievements": "2023-10-14T17:05:31.6718919+00:00",
+  "LastChanged_Achievements": "2023-10-14T18:05:36.0421237+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:45.0933759+00:00",
-  "LastUpdate_Ratings": "2023-10-14T17:00:32.7450049+00:00",
-  "LastUpdate_Achievements": "2023-10-14T17:05:31.6720159+00:00"
+  "LastUpdate_Ratings": "2023-10-14T18:00:30.794699+00:00",
+  "LastUpdate_Achievements": "2023-10-14T18:05:36.0423002+00:00"
 }

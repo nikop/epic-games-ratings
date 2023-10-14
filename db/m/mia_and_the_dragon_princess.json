@@ -3,8 +3,8 @@
   "Name": "Mia and the Dragon Princess",
   "ProductSlug": "mia-and-the-dragon-princess-f4e1d0",
   "Ranking_EOS_Progress": 411,
-  "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_Completed": 126,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-05-04T07:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 71,
+  "EOS_Progressed": 72,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.41,
+  "EOS_Completed_Percentage": 1.39,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:47:18.2098376+00:00",
@@ -381,6 +381,11 @@
       "Time": "2023-10-14T15:10:03.9877465+00:00",
       "NumProgressed": 71,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-14T18:09:17.2460812+00:00",
+      "NumProgressed": 72,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 18,
@@ -390,7 +395,7 @@
       "ID": "a_box_of_tricks",
       "SetID": "5anb57n",
       "Name": "A Box of Tricks",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 90,
       "UsersEstimate": 14
     },
@@ -502,7 +507,7 @@
       "ID": "relight_my_cannon",
       "SetID": "5anb57n",
       "Name": "Relight my Cannon",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 40,
       "UsersEstimate": 26
     },
@@ -518,7 +523,7 @@
       "ID": "snitch",
       "SetID": "5anb57n",
       "Name": "Snitch",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
       "UsersEstimate": 16
     },
@@ -526,7 +531,7 @@
       "ID": "tour_guide_extraordinaire",
       "SetID": "5anb57n",
       "Name": "Tour Guide Extraordinaire",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
       "UsersEstimate": 26
     }
@@ -535,14 +540,14 @@
     {
       "ID": "5anb57n",
       "IsBase": true,
-      "Progressed": 71,
+      "Progressed": 72,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-13T16:58:04.6283661+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:18.2098384+00:00",
-  "LastChanged_Achievements": "2023-10-14T17:09:17.8235086+00:00",
+  "LastChanged_Achievements": "2023-10-14T18:09:17.2460806+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:44.1296427+00:00",
-  "LastUpdate_Ratings": "2023-10-14T17:00:30.8105489+00:00",
-  "LastUpdate_Achievements": "2023-10-14T17:09:17.8235207+00:00"
+  "LastUpdate_Ratings": "2023-10-14T18:00:29.1017612+00:00",
+  "LastUpdate_Achievements": "2023-10-14T18:09:17.2460994+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "paw-patrol-mighty-pups-save-adventure-bay-aaad37",
   "Ranking_EOS_Progress": 467,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 338,
+  "Ranking_EOS_NewPlayers": 339,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-12-13T19:30:00+00:00",
@@ -266,9 +266,9 @@
       "ID": "16",
       "SetID": "38ide56",
       "Name": "Break Time",
-      "Percentage": 33,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "17",
@@ -282,9 +282,9 @@
       "ID": "18",
       "SetID": "38ide56",
       "Name": "Training Day",
-      "Percentage": 27,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "19",
@@ -306,9 +306,9 @@
       "ID": "20",
       "SetID": "38ide56",
       "Name": "In the Air",
-      "Percentage": 24,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "21",
@@ -330,9 +330,9 @@
       "ID": "23",
       "SetID": "38ide56",
       "Name": "Never Miss",
-      "Percentage": 27,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "24",
@@ -354,9 +354,9 @@
       "ID": "26",
       "SetID": "38ide56",
       "Name": "Animal Sighting",
-      "Percentage": 21,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "27",
@@ -378,9 +378,9 @@
       "ID": "29",
       "SetID": "38ide56",
       "Name": "Paw patrol member",
-      "Percentage": 33,
+      "Percentage": 36,
       "XP": 200,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "3",
@@ -410,9 +410,9 @@
       "ID": "6",
       "SetID": "38ide56",
       "Name": "Robot Out of Control",
-      "Percentage": 33,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "7",
@@ -451,8 +451,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2023-10-14T17:07:10.0737194+00:00",
+  "LastChanged_Achievements": "2023-10-14T18:07:12.169381+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:15.9762635+00:00",
-  "LastUpdate_Ratings": "2023-10-14T17:03:18.2359225+00:00",
-  "LastUpdate_Achievements": "2023-10-14T17:07:10.0737384+00:00"
+  "LastUpdate_Ratings": "2023-10-14T18:03:13.2511513+00:00",
+  "LastUpdate_Achievements": "2023-10-14T18:07:12.1694055+00:00"
 }

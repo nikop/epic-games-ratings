@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7150,
+  "EOS_Progressed": 7153,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 193,
+  "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4103,6 +4103,11 @@
       "Time": "2023-10-14T17:09:35.1643831+00:00",
       "NumProgressed": 7150,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-14T18:09:34.2594459+00:00",
+      "NumProgressed": 7153,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -4187,7 +4192,7 @@
       "Name": "Upgraded Enhanced Armor to Level 3",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "EAUpgraded1",
@@ -4227,7 +4232,7 @@
       "Name": "Purchased Grenade",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "GamesPlayed1",
@@ -4235,7 +4240,7 @@
       "Name": "Played a Match",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 2288
+      "UsersEstimate": 2289
     },
     {
       "ID": "GamesPlayed10",
@@ -4259,7 +4264,7 @@
       "Name": "Won a Match",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1358
+      "UsersEstimate": 1359
     },
     {
       "ID": "GamesWon10",
@@ -4291,7 +4296,7 @@
       "Name": "Upgraded the Grenade Launcher to Level 3",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "HAPurchased1",
@@ -4307,7 +4312,7 @@
       "Name": "Purchased Heal and Shield",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "HAUpgraded1",
@@ -4611,7 +4616,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1072
+      "UsersEstimate": 1073
     },
     {
       "ID": "SEUpgraded1",
@@ -4667,7 +4672,7 @@
       "Name": "Purchased Toxic Grenade",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "TPurchased1",
@@ -4691,7 +4696,7 @@
       "Name": "Destroyed 11 Towers",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "WCUpgraded1",
@@ -4706,7 +4711,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 7150,
+      "Progressed": 7153,
       "Completed": 1
     }
   ],
@@ -4714,8 +4719,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-09-28T09:00:22.5097709+00:00",
-  "LastChanged_Achievements": "2023-10-14T17:09:35.1643825+00:00",
+  "LastChanged_Achievements": "2023-10-14T18:09:34.2594452+00:00",
   "LastUpdate_AppInfo": "2023-10-10T10:57:15.6695599+00:00",
-  "LastUpdate_Ratings": "2023-10-14T17:00:03.0449198+00:00",
-  "LastUpdate_Achievements": "2023-10-14T17:09:35.1644657+00:00"
+  "LastUpdate_Ratings": "2023-10-14T17:59:59.7343877+00:00",
+  "LastUpdate_Achievements": "2023-10-14T18:09:34.2596811+00:00"
 }

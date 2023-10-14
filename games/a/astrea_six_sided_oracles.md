@@ -5,9 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Noctuan Champion | 33.00% | ~18 |
+| Eridanian Champion | 29.00% | ~16 |
 | Endless Tricks | 27.00% | ~15 |
 | Apian Champion | 27.00% | ~15 |
-| Eridanian Champion | 27.00% | ~15 |
 | Lacertian Champion | 27.00% | ~15 |
 | Dicesmithing Time! | 25.00% | ~14 |
 | Meissa's Savior | 25.00% | ~14 |
@@ -25,10 +25,10 @@
 | Star Killer | 16.00% | ~9 |
 | Astral Adventurer | 13.00% | ~7 |
 | Heart Gate | 13.00% | ~7 |
+| Unbeatable | 13.00% | ~7 |
 | Astral Seeker | 11.00% | ~6 |
 | The Corruption Goddess | 11.00% | ~6 |
 | The Goddes Avatar | 11.00% | ~6 |
-| Unbeatable | 11.00% | ~6 |
 | Anomaly Control | 9.00% | ~5 |
 | Favored by the Cosmos | 9.00% | ~5 |
 | Sadistic Plan | 9.00% | ~5 |

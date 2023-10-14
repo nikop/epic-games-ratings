@@ -5,8 +5,8 @@ Rating: 4.06 (Ranked 950)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,889 |
-| World Map | 79.00% | ~1,604 |
+| Victor | 93.00% | ~1,890 |
+| World Map | 79.00% | ~1,605 |
 | Temple of Eternals | 57.00% | ~1,158 |
 | Prestigious | 54.00% | ~1,097 |
 | Fellowship Power | 42.00% | ~853 |
@@ -29,27 +29,27 @@ Rating: 4.06 (Ranked 950)
 | Milestone collector | 13.00% | ~264 |
 | Scientist | 13.00% | ~264 |
 | The power of Awakening | 12.00% | ~244 |
-| Challenger | 11.00% | ~223 |
-| Daily Quest Completionist | 11.00% | ~223 |
-| Doing My Part | 11.00% | ~223 |
-| Four Leaf Clover | 11.00% | ~223 |
-| Frostfire Liberator | 11.00% | ~223 |
-| Hunter | 11.00% | ~223 |
-| Mastery | 11.00% | ~223 |
-| Moving Up The Ladder | 11.00% | ~223 |
-| Relic Of The Past | 11.00% | ~223 |
-| Scroll Master | 11.00% | ~223 |
+| Challenger | 11.00% | ~224 |
+| Daily Quest Completionist | 11.00% | ~224 |
+| Doing My Part | 11.00% | ~224 |
+| Four Leaf Clover | 11.00% | ~224 |
+| Frostfire Liberator | 11.00% | ~224 |
+| Hunter | 11.00% | ~224 |
+| Mastery | 11.00% | ~224 |
+| Moving Up The Ladder | 11.00% | ~224 |
+| Relic Of The Past | 11.00% | ~224 |
+| Scroll Master | 11.00% | ~224 |
 | Master Enchanter | 10.00% | ~203 |
 | The father of Dragons | 10.00% | ~203 |
 | Here We Go Again | 9.00% | ~183 |
 | Trader | 9.00% | ~183 |
-| Blueprint Upgrades | 8.00% | ~162 |
-| Crystal Mining | 8.00% | ~162 |
-| Dragon Slayer | 8.00% | ~162 |
-| Enchanting skill | 8.00% | ~162 |
-| Engineer Mastery | 8.00% | ~162 |
-| The Expeditioner | 8.00% | ~162 |
-| Weekly Quest Completionist | 8.00% | ~162 |
+| Blueprint Upgrades | 8.00% | ~163 |
+| Crystal Mining | 8.00% | ~163 |
+| Dragon Slayer | 8.00% | ~163 |
+| Enchanting skill | 8.00% | ~163 |
+| Engineer Mastery | 8.00% | ~163 |
+| The Expeditioner | 8.00% | ~163 |
+| Weekly Quest Completionist | 8.00% | ~163 |
 | How Do You Turn This On? | 7.00% | ~142 |
 | Lock And Load | 7.00% | ~142 |
 | Missions Dedication | 7.00% | ~142 |
@@ -81,7 +81,7 @@ Rating: 4.06 (Ranked 950)
 | War Machines Army | 0.20% | ~4 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,031 (Ranked 204)  
+Progressed: 2,032 (Ranked 204)  
 Completed: 2 (0.10%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 2 (0.10%) (Ranked 247)
 | 2023-10-11 | 2,016 | 2 |
 | 2023-10-12 | 2,018 | 2 |
 | 2023-10-13 | 2,027 | 2 |
-| 2023-10-14 | 2,031 | 2 |
+| 2023-10-14 | 2,032 | 2 |
 ## Awards
 Max (Great for Beginners): 27  (Ranked 490)  
 Sum: 71 (Ranked 453)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -56,7 +56,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1598,
+  "EOS_Progressed": 1599,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
@@ -5916,6 +5916,11 @@
       "Time": "2023-10-14T17:05:12.6217238+00:00",
       "NumProgressed": 1598,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-14T18:05:17.0339085+00:00",
+      "NumProgressed": 1599,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6103,7 +6108,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -6183,7 +6188,7 @@
       "Name": "Defenses Online",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -6230,7 +6235,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1598,
+      "Progressed": 1599,
       "Completed": 1
     }
   ],
@@ -6238,8 +6243,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-10-14T17:05:12.6217231+00:00",
+  "LastChanged_Achievements": "2023-10-14T18:05:17.0339079+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:23.525424+00:00",
-  "LastUpdate_Ratings": "2023-10-14T16:59:23.9526987+00:00",
-  "LastUpdate_Achievements": "2023-10-14T17:05:12.6217728+00:00"
+  "LastUpdate_Ratings": "2023-10-14T17:59:26.6323651+00:00",
+  "LastUpdate_Achievements": "2023-10-14T18:05:17.034021+00:00"
 }
