@@ -4,7 +4,7 @@
   "ProductSlug": "the-evil-within",
   "Ranking_EOS_Progress": 373,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 114,
+  "EOS_Progressed": 115,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -574,6 +574,11 @@
       "Time": "2023-10-14T13:10:17.5476216+00:00",
       "NumProgressed": 114,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-14T16:09:18.0954563+00:00",
+      "NumProgressed": 115,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T16:01:32.1694174+00:00",
@@ -602,7 +607,7 @@
       "Name": "Weapon of Choice",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -640,25 +645,25 @@
       "ID": "ACHIEVEMENT_08",
       "SetID": "ap8553i",
       "Name": "One of the Many",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 45,
-      "UsersEstimate": 13
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_09",
       "SetID": "ap8553i",
       "Name": "First Step into Darkness",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_10",
       "SetID": "ap8553i",
       "Name": "Another Day on the Job",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -720,9 +725,9 @@
       "ID": "ACHIEVEMENT_18",
       "SetID": "ap8553i",
       "Name": "Why Can\u0027t I Hold All This Ammo?",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -850,7 +855,7 @@
       "Name": "Home is Where the Hospice is",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -1153,20 +1158,20 @@
     {
       "ID": "8ddjaeg",
       "IsBase": false,
-      "Progressed": 114,
+      "Progressed": 115,
       "Completed": 0
     },
     {
       "ID": "ap8553i",
       "IsBase": true,
-      "Progressed": 114,
+      "Progressed": 115,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-10-14T15:08:32.3660495+00:00",
+  "LastChanged_Achievements": "2023-10-14T16:09:18.0954557+00:00",
   "LastUpdate_AppInfo": "2023-10-11T21:57:06.97719+00:00",
-  "LastUpdate_Ratings": "2023-10-14T14:59:11.2087311+00:00",
-  "LastUpdate_Achievements": "2023-10-14T15:08:32.3661276+00:00"
+  "LastUpdate_Ratings": "2023-10-14T16:00:44.8486805+00:00",
+  "LastUpdate_Achievements": "2023-10-14T16:09:18.0955472+00:00"
 }

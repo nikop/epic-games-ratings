@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewPlayers": 241,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 865,
+  "EOS_Progressed": 866,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2091,6 +2091,11 @@
       "Time": "2023-10-14T00:07:36.30341+00:00",
       "NumProgressed": 865,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-14T16:08:44.2873914+00:00",
+      "NumProgressed": 866,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2118,7 +2123,7 @@
       "Name": "FULLCLIP",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "AMMO_ACHIEVEMENT_4",
@@ -2142,7 +2147,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -2150,7 +2155,7 @@
       "Name": "Goat Whisperer",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "ATK_ACHIEVEMENT_3",
@@ -2174,7 +2179,7 @@
       "Name": "Capraphobia",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -2230,7 +2235,7 @@
       "Name": "Where There\u0027s Smoke There\u0027s Fire",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "BURN_ACHIEVEMENT_3",
@@ -2302,7 +2307,7 @@
       "Name": "Greetings from Royalty",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -2342,7 +2347,7 @@
       "Name": "Where Is Houdini?",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "FREE_ACHIEVEMENT_1",
@@ -2350,7 +2355,7 @@
       "Name": "I\u0027ll Save You!",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "FREE_ACHIEVEMENT_2",
@@ -2358,7 +2363,7 @@
       "Name": "Free Like Birds",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "FREE_ACHIEVEMENT_3",
@@ -2550,7 +2555,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -2629,14 +2634,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 865,
+      "Progressed": 866,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-10-14T15:07:40.6851994+00:00",
+  "LastChanged_Achievements": "2023-10-14T16:08:44.2873908+00:00",
   "LastUpdate_AppInfo": "2023-10-12T20:57:27.7908021+00:00",
-  "LastUpdate_Ratings": "2023-10-14T15:01:20.2953129+00:00",
-  "LastUpdate_Achievements": "2023-10-14T15:07:40.6852955+00:00"
+  "LastUpdate_Ratings": "2023-10-14T16:02:36.5927942+00:00",
+  "LastUpdate_Achievements": "2023-10-14T16:08:44.2874731+00:00"
 }

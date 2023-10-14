@@ -7,7 +7,7 @@ Number of Ratings: 34  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Explorer | 67.00% | ~364 |
-| Cowardice | 60.00% | ~326 |
+| Cowardice | 61.00% | ~331 |
 | NO LIFE IS WORTH SAVING... | 51.00% | ~277 |
 | Eat Lead! | 48.00% | ~261 |
 | The Breaking Point | 46.00% | ~250 |
@@ -23,7 +23,7 @@ Number of Ratings: 34  (23.09.2022)
 | King of Knives | 34.00% | ~185 |
 | Opportunities | 33.00% | ~179 |
 | The Horror | 31.00% | ~168 |
-| The Difference | 28.00% | ~152 |
+| The Difference | 29.00% | ~157 |
 | Vengeance | 27.00% | ~147 |
 | Collectibles of Chapter II | 24.00% | ~130 |
 | Broken Hopes | 24.00% | ~130 |

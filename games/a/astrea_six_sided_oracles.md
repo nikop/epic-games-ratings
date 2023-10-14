@@ -5,19 +5,19 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Noctuan Champion | 31.00% | ~17 |
+| Endless Tricks | 27.00% | ~15 |
 | Apian Champion | 27.00% | ~15 |
 | Eridanian Champion | 27.00% | ~15 |
 | Lacertian Champion | 27.00% | ~15 |
-| Endless Tricks | 25.00% | ~14 |
+| Dicesmithing Time! | 25.00% | ~14 |
 | Meissa's Savior | 25.00% | ~14 |
-| Dicesmithing Time! | 24.00% | ~13 |
 | Mechanical Buddy | 24.00% | ~13 |
 | Purification Pioneer | 24.00% | ~13 |
 | Sanctuary Guardian | 24.00% | ~13 |
-| Wild's Keeper | 22.00% | ~12 |
+| Wild's Keeper | 24.00% | ~13 |
+| Mind Illuminator | 22.00% | ~12 |
 | Behenian Champion | 22.00% | ~12 |
 | Loyal Partner | 20.00% | ~11 |
-| Mind Illuminator | 20.00% | ~11 |
 | Stellar Dismantler | 20.00% | ~11 |
 | Anomaly Destroyer | 18.00% | ~10 |
 | Shard Spender | 18.00% | ~10 |

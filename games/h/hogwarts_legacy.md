@@ -10,21 +10,21 @@ Rating: 4.76 (Ranked 119)
 | Troll with the Punches | 13.00% | ~38,780 |
 | A Keen Sense of Spell | 12.00% | ~35,797 |
 | That's a Keeper | 12.00% | ~35,797 |
+| The One Who Mastered Memories | 11.00% | ~32,814 |
 | The Hallowed Hero | 11.00% | ~32,814 |
 | The Defender of Dragons | 11.00% | ~32,814 |
 | Loom for Improvement | 11.00% | ~32,814 |
 | A Talent for Spending | 11.00% | ~32,814 |
 | Coasting Along | 11.00% | ~32,814 |
 | Grappling with a Graphorn | 10.00% | ~29,831 |
-| The One Who Mastered Memories | 10.00% | ~29,831 |
 | The Hero of Hogwarts | 10.00% | ~29,831 |
 | Challenge Accepted | 10.00% | ~29,831 |
 | Followed the Butterflies | 9.00% | ~26,848 |
 | The Spell Master | 9.00% | ~26,848 |
 | Rising From the Ashes | 9.00% | ~26,848 |
-| The Avenging Gazelle | 8.00% | ~23,864 |
-| A Sallow Grave | 8.00% | ~23,864 |
-| Flight the Good Flight | 8.00% | ~23,864 |
+| The Avenging Gazelle | 8.00% | ~23,865 |
+| A Sallow Grave | 8.00% | ~23,865 |
+| Flight the Good Flight | 8.00% | ~23,865 |
 | Beast Friends | 7.00% | ~20,881 |
 | The Seeker of Knowledge | 6.00% | ~17,898 |
 | The Root of the Problem | 6.00% | ~17,898 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 119)
 | The Nature of the Beast | 0.70% | ~2,088 |
 | Collector's Edition | 0.30% | ~895 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,306 (Ranked 47)  
+Progressed: 298,307 (Ranked 47)  
 Completed: 486 (0.16%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,10 +228,10 @@ Completed: 486 (0.16%) (Ranked 230)
 | 2023-10-11 | 298,177 | 483 |
 | 2023-10-12 | 298,217 | 485 |
 | 2023-10-13 | 298,257 | 485 |
-| 2023-10-14 | 298,306 | 486 |
+| 2023-10-14 | 298,307 | 486 |
 ## Awards
 Max (Character Customization): 23,491  (Ranked 17)  
-Sum: 45,784 (Ranked 30)  
+Sum: 45,790 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -245,7 +245,7 @@ Diff (max vs sum): -13
 | This game has Amazing Characters | 1,090 |
 | This game is Highly Recommended | 1,076 |
 | This game has Quickly Understood Controls | 1,018 |
-| This game has Beautiful Visuals | 937 |
+| This game has Beautiful Visuals | 943 |
 | This game has a Creative Community | 710 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -454,4 +454,4 @@ Diff (max vs sum): -13
 | 2023-10-11 | 4.76 | 23,447 | 45,619 |
 | 2023-10-12 | 4.76 | 23,469 | 45,698 |
 | 2023-10-13 | 4.76 | 23,491 | 45,772 |
-| 2023-10-14 | 4.76 | 23,491 | 45,784 |
+| 2023-10-14 | 4.76 | 23,491 | 45,790 |

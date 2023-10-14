@@ -14,9 +14,9 @@ Number of Ratings: 46  (23.09.2022)
 | Devourer | 0.70% | ~1,065 |
 | Harmless | 0.60% | ~913 |
 | Silenced Whispers | 0.60% | ~913 |
-| Feast | 0.50% | ~760 |
-| Yank | 0.50% | ~760 |
-| Sharpened Vessel | 0.50% | ~760 |
+| Feast | 0.50% | ~761 |
+| Yank | 0.50% | ~761 |
+| Sharpened Vessel | 0.50% | ~761 |
 | Shapely | 0.40% | ~608 |
 | Scion | 0.40% | ~607 |
 | Glare | 0.40% | ~607 |
@@ -34,6 +34,7 @@ Number of Ratings: 46  (23.09.2022)
 | Inevitable | 0.20% | ~304 |
 | All-Seeing | 0.20% | ~304 |
 | Breathsmith | 0.20% | ~304 |
+| Passage | 0.20% | ~304 |
 | Dream | 0.20% | ~303 |
 | Spiral Heart | 0.10% | ~152 |
 | Bloodhunter | 0.10% | ~152 |
@@ -43,7 +44,6 @@ Number of Ratings: 46  (23.09.2022)
 | Kinship | 0.10% | ~152 |
 | Weakness | 0.10% | ~152 |
 | Unwrap the Gift | 0.10% | ~152 |
-| Passage | 0.10% | ~152 |
 | Generous | 0.10% | ~152 |
 | Kin | 0.10% | ~152 |
 | Listen | 0.10% | ~152 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~152 |
 | Intensify | 0.10% | ~152 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 152,097 (Ranked 71)  
+Progressed: 152,113 (Ranked 71)  
 Completed: 1 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,10 +207,10 @@ Completed: 1 (0.00%) (Ranked 314)
 | 2023-10-11 | 151,477 | 1 |
 | 2023-10-12 | 151,679 | 1 |
 | 2023-10-13 | 151,932 | 1 |
-| 2023-10-14 | 152,097 | 1 |
+| 2023-10-14 | 152,113 | 1 |
 ## Awards
 Max (Highly Recommended): 44  (Ranked 433)  
-Sum: 284 (Ranked 355)  
+Sum: 285 (Ranked 355)  
 Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
@@ -219,7 +219,7 @@ Diff (max vs sum): 78
 | This game has Unique Visuals | 40 |
 | This game has Challenging Combat | 38 |
 | This game is Extremely Fun | 34 |
-| This game has Amazing Storytelling | 31 |
+| This game has Amazing Storytelling | 32 |
 | This game has a Creative Community | 30 |
 | This game has Amazing Characters | 26 |
 | This game has Diverse Characters | 20 |
@@ -338,4 +338,4 @@ Diff (max vs sum): 78
 | 2023-10-11 | 4.59 | - | 42 | 276 |
 | 2023-10-12 | 4.59 | - | 42 | 280 |
 | 2023-10-13 | 4.59 | - | 44 | 283 |
-| 2023-10-14 | 4.59 | - | 44 | 284 |
+| 2023-10-14 | 4.59 | - | 44 | 285 |

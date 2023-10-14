@@ -2,7 +2,7 @@
   "ID": "fefe1db11f534484987ef50ec1e25225",
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
-  "Ranking_EOS_Progress": 260,
+  "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 105,
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 635,
+  "EOS_Progressed": 640,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 149,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1706,6 +1706,11 @@
       "Time": "2023-10-14T15:05:49.6832473+00:00",
       "NumProgressed": 635,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-14T16:07:12.8299535+00:00",
+      "NumProgressed": 640,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -1774,7 +1779,7 @@
       "Name": "I\u0027ve been waiting for you",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "achievement_17",
@@ -1790,7 +1795,7 @@
       "Name": "The power of the Force",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "achievement_19",
@@ -1798,7 +1803,7 @@
       "Name": "When 900 years old you reach...",
       "Percentage": 4,
       "XP": 55,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "achievement_2",
@@ -1820,9 +1825,9 @@
       "ID": "achievement_21",
       "SetID": "271ol84",
       "Name": "Tell Jabba that I\u0027ve got his money",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 70
+      "UsersEstimate": 77
     },
     {
       "ID": "achievement_22",
@@ -1830,7 +1835,7 @@
       "Name": "Distinguished",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "achievement_23",
@@ -1838,7 +1843,7 @@
       "Name": "Determined",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "achievement_24",
@@ -1854,7 +1859,7 @@
       "Name": "A tremor in the Force",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "achievement_26",
@@ -1870,7 +1875,7 @@
       "Name": "Your journey has only started",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "achievement_28",
@@ -1900,17 +1905,17 @@
       "ID": "achievement_30",
       "SetID": "271ol84",
       "Name": "Precision shot",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 26
     },
     {
       "ID": "achievement_31",
       "SetID": "271ol84",
       "Name": "Scrap collector",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 133
+      "UsersEstimate": 128
     },
     {
       "ID": "achievement_32",
@@ -1918,7 +1923,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "achievement_33",
@@ -1926,7 +1931,7 @@
       "Name": "Safety ain\u0027t the point of a joyride",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "achievement_34",
@@ -1942,7 +1947,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 572
+      "UsersEstimate": 576
     },
     {
       "ID": "achievement_36",
@@ -1950,7 +1955,7 @@
       "Name": "Impressive. Most impressive.",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "achievement_37",
@@ -1958,7 +1963,7 @@
       "Name": "Off to a good start",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 425
+      "UsersEstimate": 429
     },
     {
       "ID": "achievement_38",
@@ -1966,7 +1971,7 @@
       "Name": "Survivor",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "achievement_39",
@@ -1982,7 +1987,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "achievement_40",
@@ -1990,7 +1995,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 337
+      "UsersEstimate": 339
     },
     {
       "ID": "achievement_41",
@@ -2004,9 +2009,9 @@
       "ID": "achievement_42",
       "SetID": "271ol84",
       "Name": "Not bad for a little furball",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 32
     },
     {
       "ID": "achievement_43",
@@ -2020,9 +2025,9 @@
       "ID": "achievement_44",
       "SetID": "cemm4l8",
       "Name": "A good blaster at your side",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 216
+      "UsersEstimate": 211
     },
     {
       "ID": "achievement_45",
@@ -2068,9 +2073,9 @@
       "ID": "achievement_5",
       "SetID": "271ol84",
       "Name": "Shoot first",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 108
+      "UsersEstimate": 115
     },
     {
       "ID": "achievement_50",
@@ -2110,7 +2115,7 @@
       "Name": "That\u0027s no moon",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "achievement_55",
@@ -2126,7 +2131,7 @@
       "Name": "Support the troops",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "achievement_57",
@@ -2158,7 +2163,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "achievement_60",
@@ -2221,13 +2226,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 635,
+      "Progressed": 640,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 635,
+      "Progressed": 640,
       "Completed": 1
     }
   ],
@@ -2235,8 +2240,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-14T15:05:49.6832467+00:00",
-  "LastUpdate_AppInfo": "2023-10-07T15:00:04.2927905+00:00",
-  "LastUpdate_Ratings": "2023-10-14T15:03:38.4371302+00:00",
-  "LastUpdate_Achievements": "2023-10-14T15:05:49.6833266+00:00"
+  "LastChanged_Achievements": "2023-10-14T16:07:12.8299527+00:00",
+  "LastUpdate_AppInfo": "2023-10-14T15:59:22.846224+00:00",
+  "LastUpdate_Ratings": "2023-10-14T16:05:21.4196229+00:00",
+  "LastUpdate_Achievements": "2023-10-14T16:07:12.8300335+00:00"
 }

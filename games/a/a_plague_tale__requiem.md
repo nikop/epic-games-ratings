@@ -18,7 +18,7 @@ Rating: 4.73 (Ranked 163)
 | Bloodline | 53.00% | ~7,175 |
 | The Cradle of Centuries | 49.00% | ~6,633 |
 | The Life We Deserve | 46.00% | ~6,227 |
-| Night guard | 43.00% | ~5,821 |
+| Night guard | 44.00% | ~5,956 |
 | Nothing Left | 40.00% | ~5,415 |
 | Healing our Wounds | 38.00% | ~5,144 |
 | Dying Sun | 34.00% | ~4,603 |

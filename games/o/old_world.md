@@ -6,11 +6,11 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 2.00% | ~293 |
-| Intrepid | 2.00% | ~293 |
-| Settler | 2.00% | ~293 |
-| Friendly Family | 2.00% | ~293 |
-| Play a Single Player Game | 2.00% | ~293 |
+| Explorer | 2.00% | ~294 |
+| Intrepid | 2.00% | ~294 |
+| Settler | 2.00% | ~294 |
+| Friendly Family | 2.00% | ~294 |
+| Play a Single Player Game | 2.00% | ~294 |
 | Able | 1.00% | ~147 |
 | Ambitious | 1.00% | ~147 |
 | Architect | 1.00% | ~147 |
@@ -38,6 +38,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonian Paganism | 1.00% | ~147 |
 | Carthaginian Paganism | 1.00% | ~147 |
 | Greek Paganism | 1.00% | ~147 |
+| Zoroastrianism | 1.00% | ~147 |
 | Naming Landmarks | 1.00% | ~147 |
 | Trade Caravan | 1.00% | ~147 |
 | Kushite Pyramids | 1.00% | ~147 |
@@ -52,7 +53,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Manichaeism | 0.90% | ~132 |
 | Egyptian Paganism | 0.90% | ~132 |
 | Roman Paganism | 0.90% | ~132 |
-| Zoroastrianism | 0.90% | ~132 |
 | Drillmaster | 0.80% | ~117 |
 | Great | 0.80% | ~117 |
 | Legendary Cities | 0.80% | ~117 |
@@ -64,6 +64,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just Difficulty | 0.70% | ~103 |
 | Artisans | 0.70% | ~103 |
 | Champions | 0.70% | ~103 |
+| Acropolis | 0.70% | ~103 |
 | Apadana | 0.70% | ~103 |
 | Necropolis | 0.70% | ~103 |
 | Learn to Play 2 | 0.70% | ~103 |
@@ -72,7 +73,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Beloved | 0.60% | ~88 |
 | Conqueror | 0.60% | ~88 |
 | Sages | 0.60% | ~88 |
-| Acropolis | 0.60% | ~88 |
 | Mausoleum | 0.60% | ~88 |
 | Learn to Play 3 | 0.60% | ~88 |
 | Building Wonders | 0.60% | ~88 |
@@ -149,6 +149,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cao'an | 0.20% | ~29 |
 | Assyria | 0.20% | ~29 |
 | Pantheon of Gods | 0.20% | ~29 |
+| Play a Network Game | 0.20% | ~29 |
 | Ten Crowns | 0.20% | ~29 |
 | Three Man Chariot | 0.20% | ~29 |
 | Siege Tower | 0.20% | ~29 |
@@ -250,7 +251,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Hotseat Game | 0.10% | ~15 |
 | Play a LAN Game | 0.10% | ~15 |
 | Play a MP Teams Game | 0.10% | ~15 |
-| Play a Network Game | 0.10% | ~15 |
 | Play a Play-By-Cloud Game | 0.10% | ~15 |
 | Punic Wars | 0.10% | ~15 |
 | Colossus in Rhodes | 0.10% | ~15 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,674 (Ranked 134)  
+Progressed: 14,675 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -526,7 +526,7 @@ Completed: 5 (0.03%) (Ranked 283)
 | 2023-10-11 | 14,606 | 5 |
 | 2023-10-12 | 14,624 | 5 |
 | 2023-10-13 | 14,652 | 5 |
-| 2023-10-14 | 14,674 | 5 |
+| 2023-10-14 | 14,675 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,837 (Ranked 210)  

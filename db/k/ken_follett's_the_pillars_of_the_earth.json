@@ -525,9 +525,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 15736,
+  "EOS_Progressed": 15737,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -12030,6 +12030,11 @@
       "Time": "2023-10-14T15:04:19.116604+00:00",
       "NumProgressed": 15736,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-10-14T16:05:38.0672958+00:00",
+      "NumProgressed": 15737,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 41,
@@ -12121,7 +12126,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2832
+      "UsersEstimate": 2833
     },
     {
       "ID": "tpote_achievement_2",
@@ -12193,7 +12198,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2832
+      "UsersEstimate": 2833
     },
     {
       "ID": "tpote_achievement_28",
@@ -12233,7 +12238,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2832
+      "UsersEstimate": 2833
     },
     {
       "ID": "tpote_achievement_32",
@@ -12305,7 +12310,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6294
+      "UsersEstimate": 6295
     },
     {
       "ID": "tpote_achievement_40",
@@ -12368,15 +12373,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15736,
+      "Progressed": 15737,
       "Completed": 113
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-26T12:00:19.7408959+00:00",
-  "LastChanged_Achievements": "2023-10-14T15:04:19.1166034+00:00",
-  "LastUpdate_AppInfo": "2023-10-07T14:59:27.8730623+00:00",
-  "LastUpdate_Ratings": "2023-10-14T14:59:59.3533536+00:00",
-  "LastUpdate_Achievements": "2023-10-14T15:04:19.116732+00:00"
+  "LastChanged_Achievements": "2023-10-14T16:05:38.0672954+00:00",
+  "LastUpdate_AppInfo": "2023-10-14T15:58:18.9172053+00:00",
+  "LastUpdate_Ratings": "2023-10-14T16:01:25.0416856+00:00",
+  "LastUpdate_Achievements": "2023-10-14T16:05:38.0673832+00:00"
 }

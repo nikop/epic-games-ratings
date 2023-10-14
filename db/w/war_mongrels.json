@@ -1955,9 +1955,9 @@
       "ID": "ACH_FIN_CH01",
       "SetID": "1j25agn",
       "Name": "Cowardice",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 326
+      "UsersEstimate": 331
     },
     {
       "ID": "ACH_FIN_CH02",
@@ -2011,9 +2011,9 @@
       "ID": "ACH_FIN_CH08",
       "SetID": "1j25agn",
       "Name": "The Difference",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 157
     },
     {
       "ID": "ACH_FIN_CH09",
@@ -2211,8 +2211,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-09-12T15:00:16.2158477+00:00",
-  "LastChanged_Achievements": "2023-10-14T15:07:20.7227023+00:00",
+  "LastChanged_Achievements": "2023-10-14T16:08:27.9530787+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:17.404444+00:00",
-  "LastUpdate_Ratings": "2023-10-14T15:01:50.1487031+00:00",
-  "LastUpdate_Achievements": "2023-10-14T15:07:20.7227695+00:00"
+  "LastUpdate_Ratings": "2023-10-14T16:02:59.7670787+00:00",
+  "LastUpdate_Achievements": "2023-10-14T16:08:27.9531434+00:00"
 }

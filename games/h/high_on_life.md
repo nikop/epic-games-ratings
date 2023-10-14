@@ -19,18 +19,19 @@ Rating: 4.64 (Ranked 321)
 | Hardest Battle In The Game | 0.70% | ~170 |
 | Who's The Boss? | 0.70% | ~170 |
 | Lezduit! | 0.60% | ~145 |
+| Legendary Bounty Hunter | 0.60% | ~145 |
 | Self-Actualization | 0.60% | ~145 |
 | Spent 15 Hours At The Alien Strip Club | 0.60% | ~145 |
 | Bathe With A Giant Nude Alien | 0.60% | ~9 |
-| Legendary Bounty Hunter | 0.50% | ~121 |
+| Eatin' Good in the Neighborhood | 0.50% | ~121 |
 | Fallout Doesn't Let You Do This | 0.50% | ~121 |
 | Series Wrap on Suit-O | 0.50% | ~121 |
 | We Came, We Chainsaw, We Conquered | 0.50% | ~8 |
-| Eatin' Good in the Neighborhood | 0.40% | ~97 |
 | Eye Scream, You Scream | 0.40% | ~97 |
 | Mux Ado About Shipping | 0.30% | ~5 |
 | Sequel-Bait | 0.20% | ~48 |
 | Gunning For Your Job | 0.20% | ~48 |
+| We Paid For The Rights To Put A Whole Movie In Here | 0.20% | ~48 |
 | Playing Favorites | 0.20% | ~48 |
 | Fall In Love With A Parasite | 0.20% | ~3 |
 | Epic Legendary Prize | 0.10% | ~24 |
@@ -38,7 +39,6 @@ Rating: 4.64 (Ranked 321)
 | Mods Please Ban | 0.10% | ~24 |
 | Luglox Genocide | 0.10% | ~24 |
 | A Starfish Is Born | 0.10% | ~24 |
-| We Paid For The Rights To Put A Whole Movie In Here | 0.10% | ~24 |
 | Seeing All The Sights | 0.10% | ~24 |
 | Carried Stan's Load To Completion | 0.10% | ~24 |
 | Cardbored | 0.10% | ~2 |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 321)
 | It's Like The Santa Clause | 0.10% | ~2 |
 | That's B.A.L.L., Folks | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,218 (Ranked 119)  
+Progressed: 24,222 (Ranked 119)  
 Completed: 13 (0.05%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 13 (0.05%) (Ranked 270)
 | 2023-10-11 | 24,192 | 13 |
 | 2023-10-12 | 24,200 | 13 |
 | 2023-10-13 | 24,212 | 13 |
-| 2023-10-14 | 24,218 | 13 |
+| 2023-10-14 | 24,222 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
