@@ -8,14 +8,14 @@
 | Ouch, that hurt! | 29.00% | ~6 |
 | Remembering of the past | 29.00% | ~6 |
 | Slam-KABAM | 24.00% | ~5 |
+| A heavy thinker | 24.00% | ~5 |
 | Repair the Mind Validation Machine | 24.00% | ~5 |
-| A heavy thinker | 19.00% | ~4 |
 | Fight like an idiot | 19.00% | ~4 |
 | Heavy Thoughts | 14.00% | ~3 |
 | Dance like an idiot | 14.00% | ~3 |
 | Flee like an idiot | 14.00% | ~3 |
+| Elementary, My Dear Dusty | 14.00% | ~3 |
 | I'm Back at the Surface now | 10.00% | ~2 |
-| Elementary, My Dear Dusty | 10.00% | ~2 |
 | Come full circle | 5.00% | ~1 |
 | Patient Listener | 0.00% | ~0 |
 | Whac-a-worker | 0.00% | ~0 |

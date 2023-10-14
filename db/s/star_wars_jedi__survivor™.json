@@ -4222,10 +4222,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 4382,
       "NumberOfAwardsMax": 2964
+    },
+    {
+      "Time": "2023-10-14T21:57:42.7926743+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 4385,
+      "NumberOfAwardsMax": 2964
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4382,
+  "NumberOfAwards": 4385,
   "NumberOfAwardsMax": 2964,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4269,7 +4275,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 165
+      "Count": 168
     },
     {
       "Text": "This game has Challenging Combat",
@@ -4290,9 +4296,9 @@
       "Count": 108
     }
   ],
-  "EOS_Progressed": 5167,
+  "EOS_Progressed": 5168,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 676,
+  "EOS_NewPlayers": 667,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -7010,6 +7016,11 @@
       "Time": "2023-10-14T21:05:02.2256384+00:00",
       "NumProgressed": 5167,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-10-14T22:05:29.7747131+00:00",
+      "NumProgressed": 5168,
+      "NumCompleted": 19
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:45.8400368+00:00",
@@ -7022,7 +7033,7 @@
       "Name": "Rooftop Duel",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 5115
+      "UsersEstimate": 5116
     },
     {
       "ID": "achievement_a10",
@@ -7030,7 +7041,7 @@
       "Name": "Tragedy",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2428
+      "UsersEstimate": 2429
     },
     {
       "ID": "achievement_a11",
@@ -7038,7 +7049,7 @@
       "Name": "At the Precipice",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2325
+      "UsersEstimate": 2326
     },
     {
       "ID": "achievement_a12",
@@ -7054,7 +7065,7 @@
       "Name": "A Place You Could Call Home",
       "Percentage": 41,
       "XP": 70,
-      "UsersEstimate": 2118
+      "UsersEstimate": 2119
     },
     {
       "ID": "achievement_a14",
@@ -7110,7 +7121,7 @@
       "Name": "For Saw Gerrera",
       "Percentage": 98,
       "XP": 15,
-      "UsersEstimate": 5064
+      "UsersEstimate": 5065
     },
     {
       "ID": "achievement_a20",
@@ -7142,7 +7153,7 @@
       "Name": "Mirror Match",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 3307
+      "UsersEstimate": 3308
     },
     {
       "ID": "achievement_a24",
@@ -7164,9 +7175,9 @@
       "ID": "achievement_a26",
       "SetID": "3m4b0pk",
       "Name": "Riposte",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2377
+      "UsersEstimate": 2326
     },
     {
       "ID": "achievement_a27",
@@ -7198,7 +7209,7 @@
       "Name": "Grab Some Seat",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 4702
+      "UsersEstimate": 4703
     },
     {
       "ID": "achievement_a30",
@@ -7206,7 +7217,7 @@
       "Name": "Now, This Isn\u0027t Podracing",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 3307
+      "UsersEstimate": 3308
     },
     {
       "ID": "achievement_a31",
@@ -7222,7 +7233,7 @@
       "Name": "They\u0027re Probably Fine",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2015
+      "UsersEstimate": 2016
     },
     {
       "ID": "achievement_a33",
@@ -7230,7 +7241,7 @@
       "Name": "Skywalker",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 3100
+      "UsersEstimate": 3101
     },
     {
       "ID": "achievement_a34",
@@ -7254,7 +7265,7 @@
       "Name": "Can You Pet the Bogling?",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 4495
+      "UsersEstimate": 4496
     },
     {
       "ID": "achievement_a37",
@@ -7270,7 +7281,7 @@
       "Name": "Who Gives a Puck",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 3772
+      "UsersEstimate": 3773
     },
     {
       "ID": "achievement_a39",
@@ -7310,7 +7321,7 @@
       "Name": "A Presence I\u0027ve Not Felt Since...",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "achievement_a43",
@@ -7374,7 +7385,7 @@
       "Name": "Survivors, We Adapt",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 4082
+      "UsersEstimate": 4083
     },
     {
       "ID": "achievement_a50",
@@ -7382,7 +7393,7 @@
       "Name": "Reconnaissance",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "achievement_a51",
@@ -7445,16 +7456,16 @@
     {
       "ID": "3m4b0pk",
       "IsBase": true,
-      "Progressed": 5167,
+      "Progressed": 5168,
       "Completed": 19
     }
   ],
   "FirstSeen": "2023-04-28T17:02:09.2169534+00:00",
   "FirstSeenRating": "2023-04-28T17:02:09.2169574+00:00",
   "FirstSeenAchievements": "2023-07-31T22:07:03.059823+00:00",
-  "LastChanged": "2023-10-14T20:57:26.3212492+00:00",
-  "LastChanged_Achievements": "2023-10-14T21:05:02.2256378+00:00",
+  "LastChanged": "2023-10-14T21:57:42.7926741+00:00",
+  "LastChanged_Achievements": "2023-10-14T22:05:29.7747127+00:00",
   "LastUpdate_AppInfo": "2023-10-14T10:57:21.9143507+00:00",
-  "LastUpdate_Ratings": "2023-10-14T20:57:26.3212499+00:00",
-  "LastUpdate_Achievements": "2023-10-14T21:05:02.2257113+00:00"
+  "LastUpdate_Ratings": "2023-10-14T21:57:42.792675+00:00",
+  "LastUpdate_Achievements": "2023-10-14T22:05:29.7748338+00:00"
 }

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 320,
   "Ranking_PopularitySum": 418,
   "Ranking_EOS_Progress": 112,
-  "Ranking_EOS_Completed": 260,
+  "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
@@ -235,11 +235,11 @@
       "Count": 127
     }
   ],
-  "EOS_Progressed": 38459,
+  "EOS_Progressed": 38463,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 444,
+  "EOS_NewPlayers": 446,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.07,
+  "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:35.4373052+00:00",
@@ -19695,6 +19695,11 @@
       "Time": "2023-10-14T21:07:39.5283759+00:00",
       "NumProgressed": 38459,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-10-14T22:08:17.135073+00:00",
+      "NumProgressed": 38463,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 29,
@@ -19714,7 +19719,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 8076
+      "UsersEstimate": 8077
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -19850,7 +19855,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1538
+      "UsersEstimate": 1539
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -19937,7 +19942,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 38459,
+      "Progressed": 38463,
       "Completed": 25
     }
   ],
@@ -19945,8 +19950,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-10-07T11:01:04.3409147+00:00",
-  "LastChanged_Achievements": "2023-10-14T21:07:39.5283753+00:00",
+  "LastChanged_Achievements": "2023-10-14T22:08:17.1350724+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:52.991476+00:00",
-  "LastUpdate_Ratings": "2023-10-14T20:58:46.113329+00:00",
-  "LastUpdate_Achievements": "2023-10-14T21:07:39.5285409+00:00"
+  "LastUpdate_Ratings": "2023-10-14T21:59:07.0956898+00:00",
+  "LastUpdate_Achievements": "2023-10-14T22:08:17.1353788+00:00"
 }

@@ -12,17 +12,17 @@ Rating: 4.64 (Ranked 321)
 | Cold-Blooded Driller | 0.90% | ~218 |
 | Don't Knife The Hand That Feeds | 0.90% | ~218 |
 | Are You Packin'? | 0.80% | ~194 |
+| Who's The Boss? | 0.80% | ~194 |
 | Creature Feature | 0.70% | ~170 |
 | Bring A Knife to a Gun Fight | 0.70% | ~170 |
 | RIP Davey Glutes | 0.70% | ~170 |
 | We're All Very Impressed, Trust Me | 0.70% | ~170 |
 | Hardest Battle In The Game | 0.70% | ~170 |
-| Who's The Boss? | 0.70% | ~170 |
+| Bathe With A Giant Nude Alien | 0.70% | ~11 |
 | Lezduit! | 0.60% | ~145 |
 | Legendary Bounty Hunter | 0.60% | ~145 |
 | Self-Actualization | 0.60% | ~145 |
 | Spent 15 Hours At The Alien Strip Club | 0.60% | ~145 |
-| Bathe With A Giant Nude Alien | 0.60% | ~9 |
 | Eatin' Good in the Neighborhood | 0.50% | ~121 |
 | Fallout Doesn't Let You Do This | 0.50% | ~121 |
 | Series Wrap on Suit-O | 0.50% | ~121 |

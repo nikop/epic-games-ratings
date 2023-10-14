@@ -4,8 +4,8 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 50,
-  "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -18,10 +18,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 288,
-  "EOS_Completed": 19,
-  "EOS_NewPlayers": 31,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 6.6,
+  "EOS_Completed": 20,
+  "EOS_NewPlayers": 29,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 6.94,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1347,6 +1347,11 @@
       "Time": "2023-10-14T20:04:34.1336236+00:00",
       "NumProgressed": 288,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-10-14T22:04:47.1750255+00:00",
+      "NumProgressed": 288,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 25,
@@ -1476,17 +1481,17 @@
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 29
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
       "SetID": "2gma9an",
       "Name": "Fashion victim",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "PROGRESS_ALL_RUNES",
@@ -1558,13 +1563,13 @@
       "ID": "2gma9an",
       "IsBase": true,
       "Progressed": 288,
-      "Completed": 19
+      "Completed": 20
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-14T21:04:22.8247004+00:00",
+  "LastChanged_Achievements": "2023-10-14T22:04:47.1750248+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:19.4856723+00:00",
-  "LastUpdate_Ratings": "2023-10-14T20:57:41.1492566+00:00",
-  "LastUpdate_Achievements": "2023-10-14T21:04:22.82473+00:00"
+  "LastUpdate_Ratings": "2023-10-14T21:57:56.9552969+00:00",
+  "LastUpdate_Achievements": "2023-10-14T22:04:47.1750695+00:00"
 }

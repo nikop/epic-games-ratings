@@ -8896,18 +8896,24 @@
       "Rating": 4.76,
       "NumberOfAwards": 45812,
       "NumberOfAwardsMax": 23491
+    },
+    {
+      "Time": "2023-10-14T22:02:19.5419459+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 45838,
+      "NumberOfAwardsMax": 23517
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 45812,
-  "NumberOfAwardsMax": 23491,
+  "NumberOfAwards": 45838,
+  "NumberOfAwardsMax": 23517,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 23491
+      "Count": 23517
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -8976,9 +8982,9 @@
       "Count": 714
     }
   ],
-  "EOS_Progressed": 298333,
+  "EOS_Progressed": 298336,
   "EOS_Completed": 487,
-  "EOS_NewPlayers": 364,
+  "EOS_NewPlayers": 366,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -27991,6 +27997,11 @@
       "Time": "2023-10-14T21:05:20.9126042+00:00",
       "NumProgressed": 298333,
       "NumCompleted": 487
+    },
+    {
+      "Time": "2023-10-14T22:05:49.9312728+00:00",
+      "NumProgressed": 298336,
+      "NumCompleted": 487
     }
   ],
   "TotalAchievements": 45,
@@ -28010,7 +28021,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29833
+      "UsersEstimate": 29834
     },
     {
       "ID": "PFA_11",
@@ -28034,7 +28045,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 29833
+      "UsersEstimate": 29834
     },
     {
       "ID": "PFA_14",
@@ -28066,7 +28077,7 @@
       "Name": "Beast Friends",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20883
+      "UsersEstimate": 20884
     },
     {
       "ID": "PFA_18",
@@ -28106,7 +28117,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29833
+      "UsersEstimate": 29834
     },
     {
       "ID": "PFA_22",
@@ -28330,7 +28341,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38783
+      "UsersEstimate": 38784
     },
     {
       "ID": "PFA_7",
@@ -28338,7 +28349,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38783
+      "UsersEstimate": 38784
     },
     {
       "ID": "PFA_8",
@@ -28361,16 +28372,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298333,
+      "Progressed": 298336,
       "Completed": 487
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-10-14T21:01:41.5408249+00:00",
-  "LastChanged_Achievements": "2023-10-14T21:05:20.9126036+00:00",
+  "LastChanged": "2023-10-14T22:02:19.5419456+00:00",
+  "LastChanged_Achievements": "2023-10-14T22:05:49.9312719+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:16.623812+00:00",
-  "LastUpdate_Ratings": "2023-10-14T21:01:41.5408256+00:00",
-  "LastUpdate_Achievements": "2023-10-14T21:05:20.9127873+00:00"
+  "LastUpdate_Ratings": "2023-10-14T22:02:19.5419464+00:00",
+  "LastUpdate_Achievements": "2023-10-14T22:05:49.9315765+00:00"
 }

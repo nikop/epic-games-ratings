@@ -5,7 +5,7 @@
   "Ranking_Rating": 934,
   "Ranking_Popularity": 361,
   "Ranking_PopularitySum": 289,
-  "Ranking_EOS_Progress": 669,
+  "Ranking_EOS_Progress": 670,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 392,
   "Ranking_EOS_NewCompleters": 104,
@@ -1518,10 +1518,16 @@
       "Rating": 4.1,
       "NumberOfAwards": 676,
       "NumberOfAwardsMax": 91
+    },
+    {
+      "Time": "2023-10-14T21:59:20.052787+00:00",
+      "Rating": 4.1,
+      "NumberOfAwards": 677,
+      "NumberOfAwardsMax": 91
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 676,
+  "NumberOfAwards": 677,
   "NumberOfAwardsMax": 91,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1547,7 +1553,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 71
+      "Count": 72
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1597,8 +1603,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:52.6557809+00:00",
-  "LastChanged": "2023-10-13T19:58:17.268825+00:00",
+  "LastChanged": "2023-10-14T21:59:20.0527868+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:57.1710644+00:00",
-  "LastUpdate_Ratings": "2023-10-14T20:58:56.1511285+00:00",
-  "LastUpdate_Achievements": "2023-10-14T21:08:48.8373188+00:00"
+  "LastUpdate_Ratings": "2023-10-14T21:59:20.0527874+00:00",
+  "LastUpdate_Achievements": "2023-10-14T22:09:31.1990344+00:00"
 }

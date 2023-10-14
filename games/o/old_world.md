@@ -56,6 +56,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Regicide | 0.80% | ~118 |
 | Drillmaster | 0.80% | ~118 |
 | Great | 0.80% | ~118 |
+| Valiant | 0.80% | ~118 |
 | Legendary Cities | 0.80% | ~118 |
 | Apadana | 0.80% | ~118 |
 | Colossus | 0.80% | ~118 |
@@ -63,7 +64,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Necropolis | 0.80% | ~118 |
 | Learn to Play 2 | 0.80% | ~118 |
 | Mighty | 0.70% | ~103 |
-| Valiant | 0.70% | ~103 |
 | Just Difficulty | 0.70% | ~103 |
 | Artisans | 0.70% | ~103 |
 | Champions | 0.70% | ~103 |
@@ -98,6 +98,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legionary | 0.50% | ~73 |
 | Double Victory | 0.50% | ~73 |
 | Points Victory | 0.50% | ~73 |
+| Capable | 0.40% | ~59 |
 | Invincible | 0.40% | ~59 |
 | Subjugator | 0.40% | ~59 |
 | Strong Difficulty | 0.40% | ~59 |
@@ -125,7 +126,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Poetic Leader | 0.40% | ~59 |
 | Kmt Unified | 0.40% | ~59 |
 | Bad Heir Day | 0.30% | ~44 |
-| Capable | 0.30% | ~44 |
 | Devout | 0.30% | ~44 |
 | Ready | 0.30% | ~44 |
 | Noble Difficulty | 0.30% | ~44 |

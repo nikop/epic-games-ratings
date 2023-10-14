@@ -26,8 +26,8 @@
 | Colonial Savior | 49.00% | ~339 |
 | Paramour I | 48.00% | ~332 |
 | Scientist | 47.00% | ~325 |
+| Merciless | 46.00% | ~318 |
 | Krogan Ally | 45.00% | ~311 |
-| Merciless | 45.00% | ~311 |
 | Sentinel Ally | 44.00% | ~304 |
 | Missing in Action | 43.00% | ~298 |
 | Very Elusive | 43.00% | ~298 |
@@ -50,10 +50,10 @@
 | Ghost Ship | 32.00% | ~221 |
 | The Assassin | 32.00% | ~221 |
 | The Justicar | 32.00% | ~221 |
+| Battlemaster | 32.00% | ~221 |
 | The Cure | 32.00% | ~221 |
 | The Prodigal | 32.00% | ~221 |
 | Shopaholic | 32.00% | ~221 |
-| Battlemaster | 31.00% | ~215 |
 | Catharsis | 31.00% | ~215 |
 | Ghost of the Father | 31.00% | ~215 |
 | Big Game Hunter | 31.00% | ~215 |
@@ -89,9 +89,9 @@
 | Party Crasher | 21.00% | ~145 |
 | Lost and Found | 21.00% | ~145 |
 | No One Left Behind | 20.00% | ~138 |
+| Hard Target | 20.00% | ~138 |
 | Problem Solver | 20.00% | ~138 |
 | Pyromaniac | 19.00% | ~131 |
-| Hard Target | 19.00% | ~131 |
 | Saboteur | 19.00% | ~131 |
 | Fact Finder | 19.00% | ~131 |
 | Under Pressure | 18.00% | ~125 |

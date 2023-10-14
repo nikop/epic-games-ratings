@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~112,066 |
+| A Place to Lay Your Head | 93.00% | ~112,067 |
 | Don't Make Me Turn This Coach Around | 71.00% | ~85,556 |
 | A Clear Conscience | 69.00% | ~83,146 |
 | Unleash Hell | 68.00% | ~81,941 |
@@ -20,22 +20,22 @@ Number of Ratings: 7,767  (23.09.2022)
 | Rush Hour | 60.00% | ~72,301 |
 | To Grandmother's House | 60.00% | ~72,301 |
 | Serenity Now! | 54.00% | ~65,071 |
-| Hope Rekindled | 50.00% | ~60,250 |
-| Ramble On | 49.00% | ~59,045 |
-| Nope | 49.00% | ~59,045 |
-| This Looks Familiar | 38.00% | ~45,790 |
-| Now Stay Dead | 38.00% | ~45,790 |
-| Merry Time | 36.00% | ~43,380 |
-| Harvest Festival | 36.00% | ~43,380 |
-| Hot Air | 36.00% | ~43,380 |
-| Creep and Sleep | 33.00% | ~39,765 |
-| Overdue Notice | 32.00% | ~38,560 |
-| Banishment | 31.00% | ~37,355 |
-| Whale | 31.00% | ~37,355 |
-| FNG | 30.00% | ~36,150 |
-| Predator | 25.00% | ~30,125 |
-| Reverse Banditry | 25.00% | ~30,125 |
-| Autodidact | 25.00% | ~30,125 |
+| Hope Rekindled | 50.00% | ~60,251 |
+| Ramble On | 49.00% | ~59,046 |
+| Nope | 49.00% | ~59,046 |
+| This Looks Familiar | 38.00% | ~45,791 |
+| Now Stay Dead | 38.00% | ~45,791 |
+| Merry Time | 36.00% | ~43,381 |
+| Harvest Festival | 36.00% | ~43,381 |
+| Hot Air | 36.00% | ~43,381 |
+| Creep and Sleep | 33.00% | ~39,766 |
+| Overdue Notice | 32.00% | ~38,561 |
+| Banishment | 31.00% | ~37,356 |
+| Whale | 31.00% | ~37,356 |
+| FNG | 30.00% | ~36,151 |
+| Predator | 25.00% | ~30,126 |
+| Reverse Banditry | 25.00% | ~30,126 |
+| Autodidact | 25.00% | ~30,126 |
 | Meat and Greet | 23.00% | ~27,715 |
 | Road Trip | 22.00% | ~26,510 |
 | Spelunker | 21.00% | ~25,305 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Loop Year | 0.10% | ~121 |
 | No Gravestone Left Unturned | 0.10% | ~121 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 120,501 (Ranked 77)  
+Progressed: 120,502 (Ranked 77)  
 Completed: 1 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 1 (0.00%) (Ranked 314)
 | 2023-10-11 | 120,228 | 1 |
 | 2023-10-12 | 120,307 | 1 |
 | 2023-10-13 | 120,395 | 1 |
-| 2023-10-14 | 120,501 | 1 |
+| 2023-10-14 | 120,502 | 1 |
 ## Awards
 Max (Character Customization): 7,457  (Ranked 51)  
 Sum: 19,530 (Ranked 57)  

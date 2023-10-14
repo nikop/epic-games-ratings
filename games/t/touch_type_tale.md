@@ -22,8 +22,8 @@
 | Would be a Shame if Someone Would Waste Those Units | 7.00% | ~259 |
 | Damage Control | 7.00% | ~259 |
 | Master of the Brawl | 7.00% | ~259 |
+| Your Biggest Fans | 6.00% | ~222 |
 | A Secret Recipe | 6.00% | ~222 |
-| Your Biggest Fans | 5.00% | ~185 |
 | An Ally in Need | 5.00% | ~185 |
 | For the Queen | 5.00% | ~185 |
 | Not a Drop Wasted | 5.00% | ~185 |

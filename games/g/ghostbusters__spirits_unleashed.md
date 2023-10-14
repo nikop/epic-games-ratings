@@ -37,15 +37,16 @@ Rating: 4.50 (Ranked 573)
 | We have the best insurance | 0.50% | ~132 |
 | Diabolical | 0.50% | ~132 |
 | Seasoned | 0.50% | ~132 |
+| Tobin's Prodigy | 0.50% | ~132 |
 | Collector | 0.40% | ~106 |
 | Escape Artist | 0.40% | ~106 |
 | Reckless | 0.40% | ~106 |
 | Rift Destroyer | 0.40% | ~106 |
 | Rivalry | 0.40% | ~106 |
-| Tobin's Prodigy | 0.40% | ~106 |
 | Fragile Panes | 0.30% | ~79 |
+| Liability | 0.30% | ~79 |
 | Surprise! | 0.30% | ~79 |
-| Liability | 0.20% | ~53 |
+| Therapeutic | 0.20% | ~53 |
 | Catostrophic Destroyer | 0.10% | ~26 |
 | I don't need these | 0.10% | ~26 |
 | Ghost Expert | 0.10% | ~26 |
@@ -54,10 +55,9 @@ Rating: 4.50 (Ranked 573)
 | Master Collector | 0.10% | ~26 |
 | Mycophile | 0.10% | ~26 |
 | Rift Seeker | 0.10% | ~26 |
-| Therapeutic | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,459 (Ranked 117)  
+Progressed: 26,464 (Ranked 117)  
 Completed: 58 (0.22%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,7 +234,7 @@ Completed: 58 (0.22%) (Ranked 219)
 | 2023-10-11 | 26,352 | 58 |
 | 2023-10-12 | 26,379 | 58 |
 | 2023-10-13 | 26,414 | 58 |
-| 2023-10-14 | 26,459 | 58 |
+| 2023-10-14 | 26,464 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 262  (Ranked 256)  
 Sum: 2,386 (Ranked 188)  

@@ -2,7 +2,7 @@
   "ID": "90f53a7187d7472598d25f765f7cba82",
   "Name": "Beyond CAD",
   "ProductSlug": "beyond-cad",
-  "Ranking_EOS_Progress": 669,
+  "Ranking_EOS_Progress": 670,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 392,
   "Ranking_EOS_NewCompleters": 104,
@@ -38,6 +38,6 @@
   "FirstSeenRating": "2023-03-31T05:57:47.7614544+00:00",
   "LastChanged": "2023-03-31T05:57:47.7614545+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:12.2850491+00:00",
-  "LastUpdate_Ratings": "2023-10-14T20:57:17.1973047+00:00",
-  "LastUpdate_Achievements": "2023-10-14T21:06:30.9708868+00:00"
+  "LastUpdate_Ratings": "2023-10-14T21:57:29.6220027+00:00",
+  "LastUpdate_Achievements": "2023-10-14T22:06:53.3852939+00:00"
 }

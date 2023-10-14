@@ -4,6 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Setting Sail | 100.00% | ~1 |
 | Rain Must Fall | 0.00% | ~0 |
 | No Salvation | 0.00% | ~0 |
 | Overboard | 0.00% | ~0 |
@@ -54,7 +55,6 @@
 | Leisis Bless You | 0.00% | ~0 |
 | Advanced Armaments | 0.00% | ~0 |
 | Artisan Armaments | 0.00% | ~0 |
-| Setting Sail | 0.00% | ~0 |
 | Spirit Within | 0.00% | ~0 |
 | Reaching Vines | 0.00% | ~0 |
 | Holding Out | 0.00% | ~0 |
@@ -62,6 +62,13 @@
 | Twin Thorns | 0.00% | ~0 |
 | Savage Progeny | 0.00% | ~0 |
 | Champion of Starspire | 0.00% | ~0 |
+## Popularity (Based on EOS Achievements)
+Progressed: 1 (Ranked 616)  
+Completed: 0 (0.00%) (Ranked 314)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2023-10-14 | 1 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

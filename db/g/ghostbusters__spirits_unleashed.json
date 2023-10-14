@@ -2406,9 +2406,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26459,
+  "EOS_Progressed": 26464,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 189,
+  "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -14961,6 +14961,11 @@
       "Time": "2023-10-14T21:06:36.7007951+00:00",
       "NumProgressed": 26459,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-10-14T22:06:59.288344+00:00",
+      "NumProgressed": 26464,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 51,
@@ -15146,9 +15151,9 @@
       "ID": "Liability",
       "SetID": "819popo",
       "Name": "Liability",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 53
+      "UsersEstimate": 79
     },
     {
       "ID": "Line_Em_Up",
@@ -15322,9 +15327,9 @@
       "ID": "Therapeutic",
       "SetID": "819popo",
       "Name": "Therapeutic",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 53
     },
     {
       "ID": "There_You_Are",
@@ -15338,9 +15343,9 @@
       "ID": "Tobins_Prodigy",
       "SetID": "819popo",
       "Name": "Tobin\u0027s Prodigy",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 132
     },
     {
       "ID": "Ultimate_Defense",
@@ -15379,7 +15384,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26459,
+      "Progressed": 26464,
       "Completed": 58
     }
   ],
@@ -15387,8 +15392,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-14T10:58:56.0996721+00:00",
-  "LastChanged_Achievements": "2023-10-14T21:06:36.7007945+00:00",
+  "LastChanged_Achievements": "2023-10-14T22:06:59.2883433+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:17.9420656+00:00",
-  "LastUpdate_Ratings": "2023-10-14T20:58:49.9292728+00:00",
-  "LastUpdate_Achievements": "2023-10-14T21:06:36.7009606+00:00"
+  "LastUpdate_Ratings": "2023-10-14T21:59:11.4266747+00:00",
+  "LastUpdate_Achievements": "2023-10-14T22:06:59.28857+00:00"
 }

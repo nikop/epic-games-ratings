@@ -2,7 +2,7 @@
   "ID": "showmaker",
   "Name": "Showmaker",
   "ProductSlug": "showmaker",
-  "Ranking_EOS_Progress": 669,
+  "Ranking_EOS_Progress": 670,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 392,
   "Ranking_EOS_NewCompleters": 104,
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-14T15:58:03.8287891+00:00",
-  "LastUpdate_Ratings": "2023-10-14T20:59:07.6254555+00:00",
-  "LastUpdate_Achievements": "2023-10-14T21:09:24.6840551+00:00"
+  "LastUpdate_Ratings": "2023-10-14T21:59:32.4456484+00:00",
+  "LastUpdate_Achievements": "2023-10-14T22:09:58.9956678+00:00"
 }

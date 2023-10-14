@@ -810,9 +810,9 @@
       "ID": "ACHIEVEMENT_28",
       "SetID": "ap8553i",
       "Name": "Drop It Like It\u0027s Hot",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_29",
@@ -1175,8 +1175,8 @@
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-10-14T21:08:26.6852047+00:00",
+  "LastChanged_Achievements": "2023-10-14T22:09:07.0303568+00:00",
   "LastUpdate_AppInfo": "2023-10-11T21:57:06.97719+00:00",
-  "LastUpdate_Ratings": "2023-10-14T20:58:54.4643643+00:00",
-  "LastUpdate_Achievements": "2023-10-14T21:08:26.6853135+00:00"
+  "LastUpdate_Ratings": "2023-10-14T21:59:17.8996003+00:00",
+  "LastUpdate_Achievements": "2023-10-14T22:09:07.0305173+00:00"
 }

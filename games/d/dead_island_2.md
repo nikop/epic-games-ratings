@@ -5,33 +5,33 @@ Rating: 4.54 (Ranked 510)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 4.00% | ~27,831 |
-| Welcome To Hell-A | 4.00% | ~27,831 |
-| Dr. Reed, I Presume? | 3.00% | ~20,873 |
-| Git Gutte! | 3.00% | ~20,873 |
-| Bookworm | 3.00% | ~20,873 |
-| Break A Leg | 3.00% | ~20,873 |
-| But Doctor, I am Butcho | 3.00% | ~20,873 |
-| Coup de Grâce | 3.00% | ~20,873 |
-| Hazardous Materials | 3.00% | ~20,873 |
-| Friends Like These | 3.00% | ~20,873 |
-| Apex Predator | 3.00% | ~20,873 |
-| Stacking the Deck | 3.00% | ~20,873 |
-| Personal Assistant Personally Assisted | 3.00% | ~20,873 |
-| This is My Weapon | 3.00% | ~20,873 |
-| Making Your Mark | 2.00% | ~13,915 |
-| Anger Management | 2.00% | ~13,915 |
-| Perks of the Job | 2.00% | ~13,915 |
-| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,915 |
-| Slayer Squad | 2.00% | ~13,915 |
-| Can't Handle the Truth | 2.00% | ~13,915 |
-| Like Riding a Bike | 2.00% | ~13,915 |
-| Zombologist | 2.00% | ~13,915 |
-| Ooh, Shiny! | 2.00% | ~13,915 |
-| A Patton Emerges | 2.00% | ~13,915 |
-| Humanity Distilled | 2.00% | ~13,915 |
-| I Am the Resurrection | 2.00% | ~13,915 |
-| Our True Nature | 2.00% | ~13,915 |
+| Hotel California | 4.00% | ~27,832 |
+| Welcome To Hell-A | 4.00% | ~27,832 |
+| Dr. Reed, I Presume? | 3.00% | ~20,874 |
+| Git Gutte! | 3.00% | ~20,874 |
+| Bookworm | 3.00% | ~20,874 |
+| Break A Leg | 3.00% | ~20,874 |
+| But Doctor, I am Butcho | 3.00% | ~20,874 |
+| Coup de Grâce | 3.00% | ~20,874 |
+| Hazardous Materials | 3.00% | ~20,874 |
+| Friends Like These | 3.00% | ~20,874 |
+| Apex Predator | 3.00% | ~20,874 |
+| Stacking the Deck | 3.00% | ~20,874 |
+| Personal Assistant Personally Assisted | 3.00% | ~20,874 |
+| This is My Weapon | 3.00% | ~20,874 |
+| Making Your Mark | 2.00% | ~13,916 |
+| Anger Management | 2.00% | ~13,916 |
+| Perks of the Job | 2.00% | ~13,916 |
+| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,916 |
+| Slayer Squad | 2.00% | ~13,916 |
+| Can't Handle the Truth | 2.00% | ~13,916 |
+| Like Riding a Bike | 2.00% | ~13,916 |
+| Zombologist | 2.00% | ~13,916 |
+| Ooh, Shiny! | 2.00% | ~13,916 |
+| A Patton Emerges | 2.00% | ~13,916 |
+| Humanity Distilled | 2.00% | ~13,916 |
+| I Am the Resurrection | 2.00% | ~13,916 |
+| Our True Nature | 2.00% | ~13,916 |
 | Jumbo Keyring | 1.00% | ~6,958 |
 | Down with the Sickness | 1.00% | ~6,958 |
 | Max Headroom | 1.00% | ~6,958 |
@@ -39,19 +39,19 @@ Rating: 4.54 (Ranked 510)
 | Rising Star | 1.00% | ~6,958 |
 | Smorgasbord | 0.90% | ~6,262 |
 | Internet Famous | 0.80% | ~5,566 |
-| On Safari | 0.70% | ~4,870 |
-| Not Even My Final Form | 0.70% | ~4,870 |
-| Variety is the Spice of Death | 0.70% | ~4,870 |
+| On Safari | 0.70% | ~4,871 |
+| Not Even My Final Form | 0.70% | ~4,871 |
+| Variety is the Spice of Death | 0.70% | ~4,871 |
 | Make it So | 0.60% | ~4,175 |
 | LA Influential | 0.50% | ~3,479 |
 | Gore Horse | 0.50% | ~3,479 |
+| Sharpest Tool in the Box | 0.50% | ~3,479 |
 | Sole Survivor | 0.40% | ~2,783 |
-| Sharpest Tool in the Box | 0.40% | ~2,783 |
 | Survival Skills | 0.40% | ~2,783 |
 | Donk! | 0.20% | ~1,392 |
 | Bucket List | 0.10% | ~696 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 695,774 (Ranked 22)  
+Progressed: 695,801 (Ranked 22)  
 Completed: 2,225 (0.32%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,14 +228,14 @@ Completed: 2,225 (0.32%) (Ranked 200)
 | 2023-10-11 | 694,263 | 2,210 |
 | 2023-10-12 | 694,718 | 2,216 |
 | 2023-10-13 | 695,203 | 2,223 |
-| 2023-10-14 | 695,774 | 2,225 |
+| 2023-10-14 | 695,801 | 2,225 |
 ## Awards
-Max (Great Boss Battles): 6,420  (Ranked 58)  
-Sum: 9,605 (Ranked 91)  
-Diff (max vs sum): -33  
+Max (Great Boss Battles): 6,442  (Ranked 57)  
+Sum: 9,627 (Ranked 91)  
+Diff (max vs sum): -34  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,420 |
+| This game has Great Boss Battles | 6,442 |
 | This game is Great for Beginners | 454 |
 | This game has Diverse Characters | 448 |
 | This game has Quickly Understood Controls | 422 |
@@ -423,4 +423,4 @@ Diff (max vs sum): -33
 | 2023-10-11 | 4.54 | 6,398 | 9,555 |
 | 2023-10-12 | 4.54 | 6,407 | 9,574 |
 | 2023-10-13 | 4.54 | 6,420 | 9,594 |
-| 2023-10-14 | 4.54 | 6,420 | 9,605 |
+| 2023-10-14 | 4.54 | 6,442 | 9,627 |

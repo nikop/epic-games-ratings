@@ -6,8 +6,8 @@ Rating: 4.76 (Ranked 119)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 15.00% | ~44,750 |
-| First Class Student | 13.00% | ~38,783 |
-| Troll with the Punches | 13.00% | ~38,783 |
+| First Class Student | 13.00% | ~38,784 |
+| Troll with the Punches | 13.00% | ~38,784 |
 | A Keen Sense of Spell | 12.00% | ~35,800 |
 | That's a Keeper | 12.00% | ~35,800 |
 | The One Who Mastered Memories | 11.00% | ~32,817 |
@@ -16,16 +16,16 @@ Rating: 4.76 (Ranked 119)
 | Loom for Improvement | 11.00% | ~32,817 |
 | A Talent for Spending | 11.00% | ~32,817 |
 | Coasting Along | 11.00% | ~32,817 |
-| Grappling with a Graphorn | 10.00% | ~29,833 |
-| The Hero of Hogwarts | 10.00% | ~29,833 |
-| Challenge Accepted | 10.00% | ~29,833 |
+| Grappling with a Graphorn | 10.00% | ~29,834 |
+| The Hero of Hogwarts | 10.00% | ~29,834 |
+| Challenge Accepted | 10.00% | ~29,834 |
 | Followed the Butterflies | 9.00% | ~26,850 |
 | The Spell Master | 9.00% | ~26,850 |
 | Rising From the Ashes | 9.00% | ~26,850 |
 | The Avenging Gazelle | 8.00% | ~23,867 |
 | A Sallow Grave | 8.00% | ~23,867 |
 | Flight the Good Flight | 8.00% | ~23,867 |
-| Beast Friends | 7.00% | ~20,883 |
+| Beast Friends | 7.00% | ~20,884 |
 | The Seeker of Knowledge | 6.00% | ~17,900 |
 | The Root of the Problem | 6.00% | ~17,900 |
 | Third Time's a Charm | 6.00% | ~17,900 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 119)
 | The Nature of the Beast | 0.70% | ~2,088 |
 | Collector's Edition | 0.30% | ~895 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,333 (Ranked 47)  
+Progressed: 298,336 (Ranked 47)  
 Completed: 487 (0.16%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,14 +228,14 @@ Completed: 487 (0.16%) (Ranked 230)
 | 2023-10-11 | 298,177 | 483 |
 | 2023-10-12 | 298,217 | 485 |
 | 2023-10-13 | 298,257 | 485 |
-| 2023-10-14 | 298,333 | 487 |
+| 2023-10-14 | 298,336 | 487 |
 ## Awards
-Max (Character Customization): 23,491  (Ranked 17)  
-Sum: 45,812 (Ranked 30)  
+Max (Character Customization): 23,517  (Ranked 17)  
+Sum: 45,838 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 23,491 |
+| This game has Inclusive Character Customization | 23,517 |
 | This game has Great Boss Battles | 11,739 |
 | This game is Great for Beginners | 1,181 |
 | This game has Amazing Storytelling | 1,150 |
@@ -454,4 +454,4 @@ Diff (max vs sum): -13
 | 2023-10-11 | 4.76 | 23,447 | 45,619 |
 | 2023-10-12 | 4.76 | 23,469 | 45,698 |
 | 2023-10-13 | 4.76 | 23,491 | 45,772 |
-| 2023-10-14 | 4.76 | 23,491 | 45,812 |
+| 2023-10-14 | 4.76 | 23,517 | 45,838 |

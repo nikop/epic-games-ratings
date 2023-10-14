@@ -1859,7 +1859,7 @@
   ],
   "EOS_Progressed": 14695,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 205,
+  "EOS_NewPlayers": 203,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14263,9 +14263,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_CAPABLE",
       "SetID": "9201eeb",
       "Name": "Capable",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 59
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_CONQUEROR",
@@ -14519,9 +14519,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_VALIANT",
       "SetID": "9201eeb",
       "Name": "Valiant",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 118
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_VICTORIOUS",
@@ -16621,8 +16621,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-14T19:03:24.424824+00:00",
-  "LastChanged_Achievements": "2023-10-14T21:08:22.5507709+00:00",
+  "LastChanged_Achievements": "2023-10-14T22:09:02.8761911+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:21.7880328+00:00",
-  "LastUpdate_Ratings": "2023-10-14T21:03:20.9650625+00:00",
-  "LastUpdate_Achievements": "2023-10-14T21:08:22.5522107+00:00"
+  "LastUpdate_Ratings": "2023-10-14T22:03:39.9687153+00:00",
+  "LastUpdate_Achievements": "2023-10-14T22:09:02.8775593+00:00"
 }

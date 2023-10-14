@@ -6,22 +6,22 @@ Rating: 4.24 (Ranked 856)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rigged And Ready | 80.00% | ~1,670 |
-| Don't I Know You...? | 77.00% | ~1,607 |
-| Jailbreak | 66.00% | ~1,377 |
+| Don't I Know You...? | 77.00% | ~1,608 |
+| Jailbreak | 66.00% | ~1,378 |
 | Suited and Booted | 39.00% | ~814 |
 | HEADSHOT! | 38.00% | ~793 |
-| Sleeping With The Fishes | 36.00% | ~751 |
+| Sleeping With The Fishes | 36.00% | ~752 |
 | Overheated | 30.00% | ~626 |
 | High Performance | 30.00% | ~626 |
-| Powered Up | 28.00% | ~584 |
+| Powered Up | 28.00% | ~585 |
 | Studied The Blade | 25.00% | ~522 |
 | Home Invasion | 23.00% | ~480 |
 | Luminary | 23.00% | ~480 |
 | It's a Trap | 22.00% | ~459 |
 | True Survivor | 21.00% | ~438 |
-| Offensive Defense | 20.00% | ~417 |
-| Shocking | 20.00% | ~417 |
-| Unforeseeable Consequences | 20.00% | ~417 |
+| Offensive Defense | 20.00% | ~418 |
+| Shocking | 20.00% | ~418 |
+| Unforeseeable Consequences | 20.00% | ~418 |
 | Court Martial | 19.00% | ~397 |
 | Clean Cut | 19.00% | ~397 |
 | Dead Again | 18.00% | ~376 |
@@ -32,9 +32,9 @@ Rating: 4.24 (Ranked 856)
 | Where It All Began | 13.00% | ~271 |
 | Risk Tolerant | 13.00% | ~271 |
 | What A Catchy Song | 13.00% | ~271 |
-| Corrupted Beauty | 12.00% | ~250 |
-| Marked For Success | 12.00% | ~250 |
-| Sorry, Didn't See You There | 12.00% | ~250 |
+| Corrupted Beauty | 12.00% | ~251 |
+| Marked For Success | 12.00% | ~251 |
+| Sorry, Didn't See You There | 12.00% | ~251 |
 | Triplets | 10.00% | ~209 |
 | Denying Prophecy | 9.00% | ~188 |
 | Defense in Depth | 9.00% | ~188 |
@@ -50,9 +50,9 @@ Rating: 4.24 (Ranked 856)
 | Hello Darkness My Old Friend | 5.00% | ~104 |
 | Counter-Sniper | 5.00% | ~104 |
 | Shrimp Cocktail | 5.00% | ~104 |
-| Geronimo! | 4.00% | ~83 |
-| Homewrecker | 4.00% | ~83 |
-| Plank of Wood | 4.00% | ~83 |
+| Geronimo! | 4.00% | ~84 |
+| Homewrecker | 4.00% | ~84 |
+| Plank of Wood | 4.00% | ~84 |
 | Gotta Craft 'em All | 3.00% | ~63 |
 | Own Medicine | 2.00% | ~42 |
 | It Lives! It Sniffs! It Conquers! | 2.00% | ~42 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 856)
 | Swiss Army Drone | 1.00% | ~21 |
 | The Easy Way Out | 1.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,087 (Ranked 203)  
+Progressed: 2,088 (Ranked 203)  
 Completed: 12 (0.57%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,6 +201,7 @@ Completed: 12 (0.57%) (Ranked 170)
 | 2023-10-09 | 2,082 | 12 |
 | 2023-10-11 | 2,085 | 12 |
 | 2023-10-13 | 2,087 | 12 |
+| 2023-10-14 | 2,088 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

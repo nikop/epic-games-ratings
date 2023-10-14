@@ -166,9 +166,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13974,
+  "EOS_Progressed": 13978,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 275,
+  "EOS_NewPlayers": 272,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -8651,6 +8651,11 @@
       "Time": "2023-10-14T21:06:15.2955703+00:00",
       "NumProgressed": 13974,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-10-14T22:06:36.6397106+00:00",
+      "NumProgressed": 13978,
+      "NumCompleted": 23
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -8695,7 +8700,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1956
+      "UsersEstimate": 1957
     },
     {
       "ID": "14",
@@ -8711,7 +8716,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "16",
@@ -8719,7 +8724,7 @@
       "Name": "Drug Gifter",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "17",
@@ -8727,7 +8732,7 @@
       "Name": "Spore Taste",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "18",
@@ -8759,7 +8764,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "21",
@@ -8791,7 +8796,7 @@
       "Name": "Miraculous Maya",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "25",
@@ -8902,7 +8907,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13974,
+      "Progressed": 13978,
       "Completed": 23
     }
   ],
@@ -8910,8 +8915,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-13T09:00:57.1370573+00:00",
-  "LastChanged_Achievements": "2023-10-14T21:06:15.2955695+00:00",
+  "LastChanged_Achievements": "2023-10-14T22:06:36.6397098+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:40.5814563+00:00",
-  "LastUpdate_Ratings": "2023-10-14T21:01:19.8119892+00:00",
-  "LastUpdate_Achievements": "2023-10-14T21:06:15.2956585+00:00"
+  "LastUpdate_Ratings": "2023-10-14T22:01:56.3105238+00:00",
+  "LastUpdate_Achievements": "2023-10-14T22:06:36.6398099+00:00"
 }

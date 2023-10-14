@@ -3,7 +3,7 @@
   "Name": "Electrician Simulator",
   "ProductSlug": "electrician-simulator-164e9f",
   "Ranking_EOS_Progress": 300,
-  "Ranking_EOS_Completed": 208,
+  "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 349,
+  "EOS_Progressed": 351,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.29,
+  "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
     {
       "Time": "2023-08-04T13:10:46.6045516+00:00",
@@ -1136,6 +1136,11 @@
       "Time": "2023-10-14T21:05:24.2241749+00:00",
       "NumProgressed": 349,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-14T22:05:53.4652312+00:00",
+      "NumProgressed": 351,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-04T13:10:46.6045542+00:00",
@@ -1148,7 +1153,7 @@
       "Name": "Cables in Paris",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_CONNECT_19_LAMPS_TO_SWITCH",
@@ -1170,9 +1175,9 @@
       "ID": "ACH_END_ALL_MAIL_MISSIONS",
       "SetID": "al4k4nh",
       "Name": "I hate customers",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_END_ALL_TUTORIALS",
@@ -1188,7 +1193,7 @@
       "Name": "Enough workbench",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_END_FIRST_MAIL_MISSION",
@@ -1196,7 +1201,7 @@
       "Name": "I love customers",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 279
+      "UsersEstimate": 281
     },
     {
       "ID": "ACH_END_FIRST_TUTORIAL",
@@ -1204,23 +1209,23 @@
       "Name": "Ready to go",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "ACH_END_FIRST_WORKBENCH_MISSION",
       "SetID": "al4k4nh",
       "Name": "I can fix that",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 258
+      "UsersEstimate": 263
     },
     {
       "ID": "ACH_END_MAIL_MISSION_FAST",
       "SetID": "al4k4nh",
       "Name": "Gotta go fast",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 87
+      "UsersEstimate": 91
     },
     {
       "ID": "ACH_FIRST_SHOCK",
@@ -1228,7 +1233,7 @@
       "Name": "First shock",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "ACH_FIX_LIGHT_SWITCHES",
@@ -1236,7 +1241,7 @@
       "Name": "Illuminator",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_FIX_OUTLETS",
@@ -1244,7 +1249,7 @@
       "Name": "Here comes electricity",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_GET_ALL_MAILS",
@@ -1292,7 +1297,7 @@
       "Name": "Home sweet home",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "ACH_PLACE_MANY_ITEMS_IN_OFFICE",
@@ -1316,7 +1321,7 @@
       "Name": "Unpacked",
       "Percentage": 98,
       "XP": 15,
-      "UsersEstimate": 342
+      "UsersEstimate": 344
     },
     {
       "ID": "ACH_SHOCK_ON_MISSION",
@@ -1324,7 +1329,7 @@
       "Name": "Shocker",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_START_CAR",
@@ -1340,7 +1345,7 @@
       "Name": "Unscrew you",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_WATCH_ALL_TV_CHANNELS",
@@ -1355,14 +1360,14 @@
     {
       "ID": "al4k4nh",
       "IsBase": true,
-      "Progressed": 349,
+      "Progressed": 351,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-10-14T21:05:24.2241739+00:00",
+  "LastChanged_Achievements": "2023-10-14T22:05:53.4652304+00:00",
   "LastUpdate_AppInfo": "2023-10-11T21:57:08.1110883+00:00",
-  "LastUpdate_Ratings": "2023-10-14T21:00:12.1294812+00:00",
-  "LastUpdate_Achievements": "2023-10-14T21:05:24.2242055+00:00"
+  "LastUpdate_Ratings": "2023-10-14T22:00:38.7160487+00:00",
+  "LastUpdate_Achievements": "2023-10-14T22:05:53.4652763+00:00"
 }

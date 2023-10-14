@@ -55,8 +55,8 @@
 | Undercover robot | 37.00% | ~124 |
 | Your own way | 37.00% | ~124 |
 | Problems of cyborgs | 36.00% | ~120 |
+| Not little hacker | 36.00% | ~120 |
 | Absolute Champion! | 36.00% | ~120 |
-| Not little hacker | 35.00% | ~117 |
 | Anyone can resist | 35.00% | ~117 |
 | Trap disarmed | 34.00% | ~114 |
 | Another world | 34.00% | ~114 |

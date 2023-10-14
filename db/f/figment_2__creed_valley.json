@@ -4,7 +4,7 @@
   "ProductSlug": "figment2-creed-valley",
   "Ranking_EOS_Progress": 482,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -167,9 +167,9 @@
       "ID": "fluff_cerebrum_cider_priciple_square",
       "SetID": "7e96e7l",
       "Name": "A heavy thinker",
-      "Percentage": 19,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "fluff_hit_by_coco_bulb",
@@ -279,9 +279,9 @@
       "ID": "story_principle_square",
       "SetID": "7e96e7l",
       "Name": "Elementary, My Dear Dusty",
-      "Percentage": 10,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
@@ -296,8 +296,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4324402+00:00",
   "FirstSeenAchievements": "2023-05-30T08:03:39.2504029+00:00",
   "LastChanged": "2023-03-31T05:57:26.4324404+00:00",
-  "LastChanged_Achievements": "2023-10-14T21:09:16.730147+00:00",
+  "LastChanged_Achievements": "2023-10-14T22:09:50.4558464+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:34.3788729+00:00",
-  "LastUpdate_Ratings": "2023-10-14T20:58:08.4190883+00:00",
-  "LastUpdate_Achievements": "2023-10-14T21:09:16.7301646+00:00"
+  "LastUpdate_Ratings": "2023-10-14T21:58:22.4104239+00:00",
+  "LastUpdate_Achievements": "2023-10-14T22:09:50.4558614+00:00"
 }
