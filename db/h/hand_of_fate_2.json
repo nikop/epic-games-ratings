@@ -898,7 +898,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 663263,
+  "EOS_Progressed": 663264,
   "EOS_Completed": 171,
   "EOS_NewPlayers": 268,
   "EOS_NewCompleters": 1,
@@ -17633,6 +17633,11 @@
       "Time": "2023-10-14T01:44:16.2255401+00:00",
       "NumProgressed": 663263,
       "NumCompleted": 171
+    },
+    {
+      "Time": "2023-10-14T03:04:16.2876782+00:00",
+      "NumProgressed": 663264,
+      "NumCompleted": 171
     }
   ],
   "TotalAchievements": 48,
@@ -17644,7 +17649,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 477549
+      "UsersEstimate": 477550
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -17660,7 +17665,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 152550
+      "UsersEstimate": 152551
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -17780,7 +17785,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 152550
+      "UsersEstimate": 152551
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -18027,15 +18032,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 663263,
+      "Progressed": 663264,
       "Completed": 171
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-09-17T14:00:02.1778642+00:00",
-  "LastChanged_Achievements": "2023-10-14T02:17:32.0624299+00:00",
+  "LastChanged_Achievements": "2023-10-14T03:04:16.2876771+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:13.7193737+00:00",
-  "LastUpdate_Ratings": "2023-10-14T02:15:06.6868819+00:00",
-  "LastUpdate_Achievements": "2023-10-14T02:17:32.0625403+00:00"
+  "LastUpdate_Ratings": "2023-10-14T03:01:52.2884001+00:00",
+  "LastUpdate_Achievements": "2023-10-14T03:04:16.2878548+00:00"
 }

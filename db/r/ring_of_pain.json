@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3079,9 +3079,9 @@
       "Count": 738
     }
   ],
-  "EOS_Progressed": 237851,
+  "EOS_Progressed": 237852,
   "EOS_Completed": 281,
-  "EOS_NewPlayers": 416,
+  "EOS_NewPlayers": 415,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -21334,6 +21334,11 @@
       "Time": "2023-10-14T01:48:17.6400897+00:00",
       "NumProgressed": 237851,
       "NumCompleted": 281
+    },
+    {
+      "Time": "2023-10-14T03:08:16.2836176+00:00",
+      "NumProgressed": 237852,
+      "NumCompleted": 281
     }
   ],
   "TotalAchievements": 122,
@@ -21361,7 +21366,7 @@
       "Name": "Ambitious Intent",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 99897
+      "UsersEstimate": 99898
     },
     {
       "ID": "BOSSPIT",
@@ -21377,7 +21382,7 @@
       "Name": "First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 228337
+      "UsersEstimate": 228338
     },
     {
       "ID": "CURSE1HP",
@@ -21385,7 +21390,7 @@
       "Name": "Nothing To Lose",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 95140
+      "UsersEstimate": 95141
     },
     {
       "ID": "CURSEDPOTIONS",
@@ -21425,7 +21430,7 @@
       "Name": "Heavy Hitter",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 126061
+      "UsersEstimate": 126062
     },
     {
       "ID": "DEAL99DAMAGE",
@@ -21441,7 +21446,7 @@
       "Name": "Delving Deeper",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 99897
+      "UsersEstimate": 99898
     },
     {
       "ID": "DEPTH12HARD",
@@ -21465,7 +21470,7 @@
       "Name": "Getting A Glimpse",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 173631
+      "UsersEstimate": 173632
     },
     {
       "ID": "DEPTH6NOPOTIONS",
@@ -21521,7 +21526,7 @@
       "Name": "That Was Quick",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 135575
+      "UsersEstimate": 135576
     },
     {
       "ID": "DIERAINBOWSOCKS",
@@ -21561,7 +21566,7 @@
       "Name": "Who To Trust?",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 76112
+      "UsersEstimate": 76113
     },
     {
       "ID": "ENDWOUNDED",
@@ -21577,7 +21582,7 @@
       "Name": "Walk It Off",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 66598
+      "UsersEstimate": 66599
     },
     {
       "ID": "FIREBEAD20EXPLOSIONS",
@@ -21609,7 +21614,7 @@
       "Name": "Cold Hearted",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 80869
+      "UsersEstimate": 80870
     },
     {
       "ID": "FULLINVENTORY",
@@ -21745,7 +21750,7 @@
       "Name": "Defeat The Dark",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 145089
+      "UsersEstimate": 145090
     },
     {
       "ID": "KILL1000",
@@ -21753,7 +21758,7 @@
       "Name": "Destroy Your Fears",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 61841
+      "UsersEstimate": 61842
     },
     {
       "ID": "KILL10000",
@@ -21777,7 +21782,7 @@
       "Name": "The Bestiary",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 95140
+      "UsersEstimate": 95141
     },
     {
       "ID": "KILLABOMINATIONHIGHDEF",
@@ -21841,7 +21846,7 @@
       "Name": "Heartless",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 109411
+      "UsersEstimate": 109412
     },
     {
       "ID": "KILLPARANOIA",
@@ -21873,7 +21878,7 @@
       "Name": "Spine Breaker",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 109411
+      "UsersEstimate": 109412
     },
     {
       "ID": "KILLSPITTER",
@@ -21881,7 +21886,7 @@
       "Name": "Shootout",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 85626
+      "UsersEstimate": 85627
     },
     {
       "ID": "KILLSTONESHIFTERHARD",
@@ -21929,7 +21934,7 @@
       "Name": "A Donation",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 135575
+      "UsersEstimate": 135576
     },
     {
       "ID": "MULTEXPLOSIONS",
@@ -21945,7 +21950,7 @@
       "Name": "C-C-Combo",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 99897
+      "UsersEstimate": 99898
     },
     {
       "ID": "NOEPIC",
@@ -21993,7 +21998,7 @@
       "Name": "A Quick Escape",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 154603
+      "UsersEstimate": 154604
     },
     {
       "ID": "PETRIFY50",
@@ -22001,7 +22006,7 @@
       "Name": "Stone Touch",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 66598
+      "UsersEstimate": 66599
     },
     {
       "ID": "PLAY10HOURS",
@@ -22089,7 +22094,7 @@
       "Name": "Uncharted Territory",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 211687
+      "UsersEstimate": 211688
     },
     {
       "ID": "SPECIALROOMS10",
@@ -22121,7 +22126,7 @@
       "Name": "Shadow Walker",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 66598
+      "UsersEstimate": 66599
     },
     {
       "ID": "SURVIVEON1",
@@ -22320,7 +22325,7 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 237851,
+      "Progressed": 237852,
       "Completed": 281
     }
   ],
@@ -22328,8 +22333,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-10-13T09:58:04.1793125+00:00",
-  "LastChanged_Achievements": "2023-10-14T02:21:31.4368665+00:00",
+  "LastChanged_Achievements": "2023-10-14T03:08:16.2836169+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:51.5450628+00:00",
-  "LastUpdate_Ratings": "2023-10-14T02:12:03.4384225+00:00",
-  "LastUpdate_Achievements": "2023-10-14T02:21:31.4370876+00:00"
+  "LastUpdate_Ratings": "2023-10-14T02:58:21.1029019+00:00",
+  "LastUpdate_Achievements": "2023-10-14T03:08:16.2839311+00:00"
 }

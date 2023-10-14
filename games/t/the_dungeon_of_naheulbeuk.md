@@ -6,11 +6,11 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 33.00% | ~76,101 |
+| Sowwy! | 33.00% | ~76,103 |
 | Where's that freaking Dwarf? | 6.00% | ~13,837 |
 | Alt+F4 | 6.00% | ~13,837 |
-| Déjà vu | 5.00% | ~11,530 |
-| Sock! SOCK! | 4.00% | ~9,224 |
+| Déjà vu | 5.00% | ~11,531 |
+| Sock! SOCK! | 4.00% | ~9,225 |
 | A beer, two curses, three companions | 3.00% | ~6,918 |
 | GG EZ | 3.00% | ~6,918 |
 | DM intervention | 3.00% | ~6,918 |
@@ -40,9 +40,9 @@ Number of Ratings: 118  (23.09.2022)
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,306 |
 | The Ranger of Chaos | 1.00% | ~2,306 |
 | Thieves' Guild Accreditation | 1.00% | ~2,306 |
-| Dead for good | 0.90% | ~2,075 |
-| Lust and Debauchery | 0.90% | ~2,075 |
-| Material Girl | 0.90% | ~2,075 |
+| Dead for good | 0.90% | ~2,076 |
+| Lust and Debauchery | 0.90% | ~2,076 |
+| Material Girl | 0.90% | ~2,076 |
 | Gargantua | 0.80% | ~1,845 |
 | In Navalu's footsteps | 0.70% | ~1,614 |
 | We come in peace | 0.60% | ~1,384 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~231 |
 | Dwarf Candy | 0.10% | ~231 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,609 (Ranked 60)  
+Progressed: 230,614 (Ranked 60)  
 Completed: 5 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 5 (0.00%) (Ranked 314)
 | 2023-10-11 | 230,189 | 5 |
 | 2023-10-12 | 230,376 | 5 |
 | 2023-10-13 | 230,591 | 5 |
-| 2023-10-14 | 230,609 | 5 |
+| 2023-10-14 | 230,614 | 5 |
 ## Awards
 Max (Character Customization): 214  (Ranked 275)  
 Sum: 421 (Ranked 324)  

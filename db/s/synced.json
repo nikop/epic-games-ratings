@@ -654,9 +654,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 62946,
+  "EOS_Progressed": 62950,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 1408,
+  "EOS_NewPlayers": 1402,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5059,6 +5059,11 @@
       "Time": "2023-10-14T02:23:16.4693709+00:00",
       "NumProgressed": 62946,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-10-14T03:10:03.8540423+00:00",
+      "NumProgressed": 62950,
+      "NumCompleted": 17
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -5071,7 +5076,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 18884
+      "UsersEstimate": 18885
     },
     {
       "ID": "10",
@@ -5079,7 +5084,7 @@
       "Name": "fifteenth Time\u0027s the Charm",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "11",
@@ -5135,7 +5140,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 10071
+      "UsersEstimate": 10072
     },
     {
       "ID": "3",
@@ -5151,7 +5156,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 5665
+      "UsersEstimate": 5666
     },
     {
       "ID": "5",
@@ -5198,7 +5203,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 62946,
+      "Progressed": 62950,
       "Completed": 17
     }
   ],
@@ -5206,8 +5211,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-10-13T20:01:29.7819779+00:00",
-  "LastChanged_Achievements": "2023-10-14T02:23:16.4693706+00:00",
+  "LastChanged_Achievements": "2023-10-14T03:10:03.8540417+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:18.5160199+00:00",
-  "LastUpdate_Ratings": "2023-10-14T02:15:43.9908625+00:00",
-  "LastUpdate_Achievements": "2023-10-14T02:23:16.4694013+00:00"
+  "LastUpdate_Ratings": "2023-10-14T03:02:32.4742604+00:00",
+  "LastUpdate_Achievements": "2023-10-14T03:10:03.8540848+00:00"
 }

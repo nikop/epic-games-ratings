@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 252,
   "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1018,9 +1018,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 7868,
+  "EOS_Progressed": 7871,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1103,
+  "EOS_NewPlayers": 1106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -6298,6 +6298,11 @@
       "Time": "2023-10-14T02:19:26.2910745+00:00",
       "NumProgressed": 7868,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-14T03:06:04.0255232+00:00",
+      "NumProgressed": 7871,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -6358,7 +6363,7 @@
       "Name": "Bye Bye",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 2990
+      "UsersEstimate": 2991
     },
     {
       "ID": "a_19",
@@ -6374,7 +6379,7 @@
       "Name": "Ostinata",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "a_20",
@@ -6557,7 +6562,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 7868,
+      "Progressed": 7871,
       "Completed": 7
     }
   ],
@@ -6565,8 +6570,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-10-10T16:59:22.7446864+00:00",
-  "LastChanged_Achievements": "2023-10-14T02:19:26.2910741+00:00",
+  "LastChanged_Achievements": "2023-10-14T03:06:04.0255225+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:33.0848409+00:00",
-  "LastUpdate_Ratings": "2023-10-14T02:14:42.333837+00:00",
-  "LastUpdate_Achievements": "2023-10-14T02:19:26.2911214+00:00"
+  "LastUpdate_Ratings": "2023-10-14T03:01:26.7104672+00:00",
+  "LastUpdate_Achievements": "2023-10-14T03:06:04.0255923+00:00"
 }

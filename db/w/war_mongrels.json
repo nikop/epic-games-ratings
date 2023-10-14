@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
     "PcReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -262,9 +262,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 540,
+  "EOS_Progressed": 541,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1707,6 +1707,11 @@
       "Time": "2023-10-13T13:11:50.9995283+00:00",
       "NumProgressed": 540,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-14T03:07:13.1628647+00:00",
+      "NumProgressed": 541,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1838,7 +1843,7 @@
       "Name": "Treasure Hunter",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "ACH_COLL_CH01",
@@ -1862,7 +1867,7 @@
       "Name": "Collectibles of Chapter III",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ACH_COLL_CH04",
@@ -1878,7 +1883,7 @@
       "Name": "Collectibles of Chapter V",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ACH_COLL_CH06",
@@ -1942,7 +1947,7 @@
       "Name": "Cowardice",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "ACH_FIN_CH02",
@@ -1950,7 +1955,7 @@
       "Name": "The Breaking Point",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "ACH_FIN_CH03",
@@ -1982,7 +1987,7 @@
       "Name": "Opportunities",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ACH_FIN_CH07",
@@ -1990,15 +1995,15 @@
       "Name": "The Horror",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "ACH_FIN_CH08",
       "SetID": "1j25agn",
       "Name": "The Difference",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_FIN_CH09",
@@ -2022,7 +2027,7 @@
       "Name": "Sorrow",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ACH_FIN_CH12",
@@ -2054,7 +2059,7 @@
       "Name": "Helping Hand",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ACH_HIDE_BODIES",
@@ -2078,7 +2083,7 @@
       "Name": "Without a Second Thought",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ACH_KILL_BRAWL",
@@ -2100,9 +2105,9 @@
       "ID": "ACH_KILL_ENEMY",
       "SetID": "1j25agn",
       "Name": "NO LIFE IS WORTH SAVING...",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 275
+      "UsersEstimate": 270
     },
     {
       "ID": "ACH_KILL_ENV",
@@ -2126,7 +2131,7 @@
       "Name": "Eat Lead!",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "ACH_KILL_SAUSAGE",
@@ -2142,7 +2147,7 @@
       "Name": "Sniper Wolf",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "ACH_KILL_THROW",
@@ -2156,9 +2161,9 @@
       "ID": "ACH_NEST1",
       "SetID": "1j25agn",
       "Name": "Bullseye!",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_NEST2",
@@ -2189,15 +2194,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 540,
+      "Progressed": 541,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-09-12T15:00:16.2158477+00:00",
-  "LastChanged_Achievements": "2023-10-14T02:20:26.3032752+00:00",
+  "LastChanged_Achievements": "2023-10-14T03:07:13.162864+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:01.9487079+00:00",
-  "LastUpdate_Ratings": "2023-10-14T02:15:02.0851842+00:00",
-  "LastUpdate_Achievements": "2023-10-14T02:20:26.303325+00:00"
+  "LastUpdate_Ratings": "2023-10-14T03:01:48.4120049+00:00",
+  "LastUpdate_Achievements": "2023-10-14T03:07:13.1629736+00:00"
 }

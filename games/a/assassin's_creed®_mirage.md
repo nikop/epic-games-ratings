@@ -4,8 +4,8 @@
 Rating: 4.45 (Ranked 643)  
 ## Awards
 Max (Relaxing): 37  (Ranked 449)  
-Sum: 194 (Ranked 385)  
-Diff (max vs sum): 64  
+Sum: 215 (Ranked 378)  
+Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 37 |
@@ -14,6 +14,7 @@ Diff (max vs sum): 64
 | This game has Quickly Understood Controls | 26 |
 | This game has Diverse Characters | 23 |
 | This game is Highly Recommended | 23 |
+| This game has Amazing Storytelling | 21 |
 | This game has Amazing Characters | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -25,4 +26,4 @@ Diff (max vs sum): 64
 | 2023-10-11 | 4.46 | 24 | 24 |
 | 2023-10-12 | 4.46 | 24 | 88 |
 | 2023-10-13 | 4.45 | 37 | 162 |
-| 2023-10-14 | 4.45 | 37 | 194 |
+| 2023-10-14 | 4.45 | 37 | 215 |

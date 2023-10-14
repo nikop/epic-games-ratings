@@ -50,9 +50,9 @@
 | Ghost Ship | 32.00% | ~217 |
 | The Assassin | 32.00% | ~217 |
 | The Justicar | 32.00% | ~217 |
+| Battlemaster | 32.00% | ~217 |
 | The Prodigal | 32.00% | ~217 |
 | Shopaholic | 32.00% | ~217 |
-| Battlemaster | 31.00% | ~210 |
 | Catharsis | 31.00% | ~210 |
 | Ghost of the Father | 31.00% | ~210 |
 | The Cure | 31.00% | ~210 |
@@ -69,11 +69,11 @@
 | Digital Exorcist | 29.00% | ~197 |
 | Bringer of War | 29.00% | ~197 |
 | Friend or Foe | 28.00% | ~190 |
+| Mobilizer | 28.00% | ~190 |
 | First Aid Specialist | 27.00% | ~183 |
 | Mission Accomplished | 27.00% | ~183 |
 | Suicide Mission | 27.00% | ~183 |
 | Against All Odds | 27.00% | ~183 |
-| Mobilizer | 27.00% | ~183 |
 | Untouchable | 26.00% | ~176 |
 | A House Divided | 26.00% | ~176 |
 | Eye of the Hurricane | 25.00% | ~170 |

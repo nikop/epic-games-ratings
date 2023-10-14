@@ -5,7 +5,7 @@ Rating: 4.18 (Ranked 897)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~38,209 |
+| First Step Into the Knight | 52.00% | ~38,210 |
 | Har, Har, Har, Very Funny | 35.00% | ~25,718 |
 | Loose Ends | 34.00% | ~24,983 |
 | To the Victor Go the Spoils | 29.00% | ~21,309 |
@@ -22,7 +22,7 @@ Rating: 4.18 (Ranked 897)
 | Snow Problem | 19.00% | ~13,961 |
 | The Show Mud Go On | 18.00% | ~13,226 |
 | From Inside Gotham's Walls | 18.00% | ~13,226 |
-| Protector of Gotham | 17.00% | ~12,491 |
+| Protector of Gotham | 17.00% | ~12,492 |
 | Universal Health Scare | 16.00% | ~11,757 |
 | In Your Element | 15.00% | ~11,022 |
 | Voiceless | 15.00% | ~11,022 |
@@ -31,9 +31,9 @@ Rating: 4.18 (Ranked 897)
 | Seeking Asylum | 14.00% | ~10,287 |
 | Not On My Watch | 13.00% | ~9,552 |
 | Shock Til They Drop | 13.00% | ~9,552 |
-| End of an Era | 12.00% | ~8,817 |
-| Bulldozed | 12.00% | ~8,817 |
-| Gotham Knight | 12.00% | ~8,817 |
+| End of an Era | 12.00% | ~8,818 |
+| Bulldozed | 12.00% | ~8,818 |
+| Gotham Knight | 12.00% | ~8,818 |
 | Gotham City Confidential | 11.00% | ~8,083 |
 | Drone You Out | 10.00% | ~7,348 |
 | Out of Their League | 9.00% | ~6,613 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 897)
 | Element of Surprise | 0.20% | ~88 |
 | It's Nice to Be Wanted | 0.20% | ~88 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,479 (Ranked 91)  
+Progressed: 73,480 (Ranked 91)  
 Completed: 121 (0.16%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 121 (0.16%) (Ranked 231)
 | 2023-10-11 | 73,428 | 120 |
 | 2023-10-12 | 73,448 | 121 |
 | 2023-10-13 | 73,472 | 121 |
-| 2023-10-14 | 73,479 | 121 |
+| 2023-10-14 | 73,480 | 121 |
 ## Awards
 Max (Great Boss Battles): 2,819  (Ranked 97)  
 Sum: 4,729 (Ranked 139)  

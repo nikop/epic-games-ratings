@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -286,9 +286,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24214,
+  "EOS_Progressed": 24215,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5556,6 +5556,11 @@
       "Time": "2023-10-14T02:19:14.5666799+00:00",
       "NumProgressed": 24214,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-10-14T03:05:50.7665616+00:00",
+      "NumProgressed": 24215,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 44,
@@ -5607,7 +5612,7 @@
       "Name": "Creature Feature",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACH_GET_GUS",
@@ -5631,7 +5636,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -5647,7 +5652,7 @@
       "Name": "RIP Davey Glutes",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACH_GET_SWEEZY",
@@ -5687,7 +5692,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -5719,7 +5724,7 @@
       "Name": "Hardest Battle In The Game",
       "Percentage": 0.7,
       "XP": 45,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACH_KILL_KRUBIS",
@@ -5743,7 +5748,7 @@
       "Name": "Who\u0027s The Boss?",
       "Percentage": 0.7,
       "XP": 45,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACH_KILL_SLUMSLEY",
@@ -5918,13 +5923,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24214,
+      "Progressed": 24215,
       "Completed": 13
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1507,
+      "Progressed": 1508,
       "Completed": 1373
     }
   ],
@@ -5932,8 +5937,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-07T05:03:09.4311759+00:00",
-  "LastChanged_Achievements": "2023-10-14T02:19:14.5666795+00:00",
+  "LastChanged_Achievements": "2023-10-14T03:05:50.766561+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:51.1168375+00:00",
-  "LastUpdate_Ratings": "2023-10-14T02:14:33.1767361+00:00",
-  "LastUpdate_Achievements": "2023-10-14T02:19:14.5667318+00:00"
+  "LastUpdate_Ratings": "2023-10-14T03:01:14.5425696+00:00",
+  "LastUpdate_Achievements": "2023-10-14T03:05:50.7666463+00:00"
 }

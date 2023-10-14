@@ -4,11 +4,11 @@
   "ProductSlug": "the-crew-2",
   "Ranking_Rating": 262,
   "Ranking_Popularity": 185,
-  "Ranking_PopularitySum": 142,
+  "Ranking_PopularitySum": 141,
   "Ranking_EOS_Progress": 669,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 394,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 395,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2019-12-04T11:00:00+00:00",
     "PcReleaseDate": "2018-05-31T15:00:00+00:00",
@@ -6577,10 +6577,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 4553,
       "NumberOfAwardsMax": 671
+    },
+    {
+      "Time": "2023-10-14T02:59:33.0411644+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 4558,
+      "NumberOfAwardsMax": 671
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4553,
+  "NumberOfAwards": 4558,
   "NumberOfAwardsMax": 671,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6624,7 +6630,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 546
+      "Count": 551
     },
     {
       "Text": "This game has Amazing Characters",
@@ -6656,8 +6662,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:02.2131047+00:00",
-  "LastChanged": "2023-10-13T18:59:18.8004892+00:00",
+  "LastChanged": "2023-10-14T02:59:33.0411642+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:57:02.4393556+00:00",
-  "LastUpdate_Ratings": "2023-10-14T02:13:05.3596135+00:00",
-  "LastUpdate_Achievements": "2023-10-14T02:19:44.6462842+00:00"
+  "LastUpdate_Ratings": "2023-10-14T02:59:33.0411651+00:00",
+  "LastUpdate_Achievements": "2023-10-14T03:06:24.6500458+00:00"
 }

@@ -38,13 +38,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Efficient Floor Space | 0.90% | ~1,238 |
 | Gem Expert | 0.90% | ~1,238 |
 | Helping Hand | 0.90% | ~1,238 |
-| Research & Development | 0.80% | ~1,100 |
-| Fated Encounters | 0.80% | ~1,100 |
-| Power of Love | 0.80% | ~1,100 |
-| Flawless Fusion | 0.80% | ~1,100 |
-| Royal Ransom | 0.80% | ~1,100 |
-| Natural 20 | 0.80% | ~1,100 |
-| Magical Harmony | 0.80% | ~1,100 |
+| Research & Development | 0.80% | ~1,101 |
+| Fated Encounters | 0.80% | ~1,101 |
+| Power of Love | 0.80% | ~1,101 |
+| Flawless Fusion | 0.80% | ~1,101 |
+| Royal Ransom | 0.80% | ~1,101 |
+| Natural 20 | 0.80% | ~1,101 |
+| Magical Harmony | 0.80% | ~1,101 |
 | Tax not Included | 0.70% | ~963 |
 | Big Game Hunting | 0.70% | ~963 |
 | For the Hoard! | 0.70% | ~963 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~138 |
 | Cash Only Please | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,560 (Ranked 73)  
+Progressed: 137,563 (Ranked 73)  
 Completed: 168 (0.12%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 168 (0.12%) (Ranked 240)
 | 2023-10-11 | 137,455 | 168 |
 | 2023-10-12 | 137,496 | 168 |
 | 2023-10-13 | 137,555 | 168 |
-| 2023-10-14 | 137,560 | 168 |
+| 2023-10-14 | 137,563 | 168 |
 ## Awards
 Max (Great for Beginners): 4,785  (Ranked 71)  
 Sum: 27,380 (Ranked 50)  
