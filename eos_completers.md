@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 50.73% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 50.70% |
 | 3 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.15% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.99% |
@@ -71,7 +71,7 @@
 | 69 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.11% |
 | 70 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.02% |
 | 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.93% |
-| 72 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 3.91% |
+| 72 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 3.90% |
 | 73 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.83% |
 | 74 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
 | 75 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.70% |
@@ -123,7 +123,7 @@
 | 121 | [Five Dates](games/f/five_dates.md) | 1.62% |
 | 122 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.49% |
 | 123 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
-| 124 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.47% |
+| 124 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.45% |
 | 125 | [Iron Danger](games/i/iron_danger.md) | 1.44% |
 | 126 | [Late Shift](games/l/late_shift.md) | 1.40% |
 | 127 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.38% |
@@ -229,11 +229,11 @@
 | 227 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.18% |
 | 228 | [RAILGRADE](games/r/railgrade.md) | 0.17% |
 | 228 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.17% |
-| 228 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.17% |
-| 231 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
-| 231 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
-| 231 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
-| 231 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.16% |
+| 230 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
+| 230 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
+| 230 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
+| 230 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.16% |
+| 230 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.16% |
 | 235 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
 | 236 | [BLACKTAIL](games/b/blacktail.md) | 0.14% |
 | 237 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
