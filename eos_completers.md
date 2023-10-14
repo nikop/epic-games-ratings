@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 50.51% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 50.40% |
 | 3 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.15% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.99% |
@@ -43,8 +43,8 @@
 | 41 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.67% |
 | 42 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 42 | [Ravenlok](games/r/ravenlok.md) | 7.69% |
-| 44 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.61% |
-| 44 | [Sonic Origins](games/s/sonic_origins.md) | 7.61% |
+| 44 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.65% |
+| 45 | [Sonic Origins](games/s/sonic_origins.md) | 7.61% |
 | 46 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.51% |
 | 47 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.41% |
 | 48 | [Time Loader](games/t/time_loader.md) | 7.20% |
@@ -68,14 +68,14 @@
 | 66 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.55% |
 | 67 | [ZZT!](games/z/zzt!.md) | 4.48% |
 | 68 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.45% |
-| 69 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.11% |
+| 69 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.10% |
 | 70 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.02% |
 | 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.94% |
 | 72 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 3.90% |
 | 73 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.83% |
 | 74 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
 | 75 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.70% |
-| 76 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.62% |
+| 76 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.59% |
 | 77 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
 | 77 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.57% |
 | 79 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
@@ -135,19 +135,19 @@
 | 132 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.32% |
 | 132 | [Lemon Cake](games/l/lemon_cake.md) | 1.32% |
 | 135 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.31% |
-| 136 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 1.27% |
+| 136 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 1.25% |
 | 137 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.18% |
 | 138 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.13% |
-| 139 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.10% |
-| 140 | [Trifox](games/t/trifox.md) | 1.09% |
+| 139 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.09% |
+| 139 | [Trifox](games/t/trifox.md) | 1.09% |
 | 141 | [Adios](games/a/adios.md) | 1.05% |
 | 141 | [Infindustry](games/i/infindustry.md) | 1.05% |
 | 141 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.05% |
 | 144 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.02% |
 | 145 | [Sable](games/s/sable.md) | 1.01% |
 | 146 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.99% |
-| 147 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.97% |
-| 148 | [A Musical Story](games/a/a_musical_story.md) | 0.96% |
+| 147 | [A Musical Story](games/a/a_musical_story.md) | 0.96% |
+| 147 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.96% |
 | 149 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.92% |
 | 150 | [Hades](games/h/hades.md) | 0.91% |
 | 151 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
@@ -212,9 +212,9 @@
 | 209 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.29% |
 | 211 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.28% |
 | 212 | [The Devil's Face](games/t/the_devil's_face.md) | 0.27% |
-| 213 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.25% |
-| 213 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
-| 213 | [Filament](games/f/filament.md) | 0.25% |
+| 213 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.26% |
+| 214 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
+| 214 | [Filament](games/f/filament.md) | 0.25% |
 | 216 | [Scrapnaut](games/s/scrapnaut.md) | 0.24% |
 | 217 | [Despot's Game](games/d/despot's_game.md) | 0.23% |
 | 217 | [Going Medieval](games/g/going_medieval.md) | 0.23% |
