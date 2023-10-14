@@ -4,8 +4,8 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 40,
-  "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2523,
+  "EOS_Progressed": 2524,
   "EOS_Completed": 228,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 9.04,
+  "EOS_Completed_Percentage": 9.03,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -6613,6 +6613,11 @@
       "Time": "2023-10-14T02:19:48.7900743+00:00",
       "NumProgressed": 2523,
       "NumCompleted": 228
+    },
+    {
+      "Time": "2023-10-14T04:05:55.3910133+00:00",
+      "NumProgressed": 2524,
+      "NumCompleted": 228
     }
   ],
   "TotalAchievements": 12,
@@ -6624,7 +6629,7 @@
       "Name": "Arranging Boxes",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "Bernard",
@@ -6648,7 +6653,7 @@
       "Name": "Green Ticket Roundup",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "Jacques a Dit",
@@ -6719,7 +6724,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2523,
+      "Progressed": 2524,
       "Completed": 228
     }
   ],
@@ -6727,8 +6732,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-10-14T03:06:29.7683302+00:00",
+  "LastChanged_Achievements": "2023-10-14T04:05:55.3910127+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:41.6994669+00:00",
-  "LastUpdate_Ratings": "2023-10-14T03:02:28.2720759+00:00",
-  "LastUpdate_Achievements": "2023-10-14T03:06:29.7684156+00:00"
+  "LastUpdate_Ratings": "2023-10-14T04:01:56.2812573+00:00",
+  "LastUpdate_Achievements": "2023-10-14T04:05:55.3910626+00:00"
 }

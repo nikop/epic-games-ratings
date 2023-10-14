@@ -8946,7 +8946,7 @@
       "Count": 710
     }
   ],
-  "EOS_Progressed": 298268,
+  "EOS_Progressed": 298271,
   "EOS_Completed": 485,
   "EOS_NewPlayers": 346,
   "EOS_NewCompleters": 3,
@@ -27876,6 +27876,11 @@
       "Time": "2023-10-14T03:05:13.820424+00:00",
       "NumProgressed": 298268,
       "NumCompleted": 485
+    },
+    {
+      "Time": "2023-10-14T04:04:39.4559093+00:00",
+      "NumProgressed": 298271,
+      "NumCompleted": 485
     }
   ],
   "TotalAchievements": 45,
@@ -27887,7 +27892,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 44740
+      "UsersEstimate": 44741
     },
     {
       "ID": "PFA_10",
@@ -27911,7 +27916,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 32809
+      "UsersEstimate": 32810
     },
     {
       "ID": "PFA_13",
@@ -27935,7 +27940,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23861
+      "UsersEstimate": 23862
     },
     {
       "ID": "PFA_16",
@@ -27943,7 +27948,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32809
+      "UsersEstimate": 32810
     },
     {
       "ID": "PFA_17",
@@ -27959,7 +27964,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23861
+      "UsersEstimate": 23862
     },
     {
       "ID": "PFA_19",
@@ -27967,7 +27972,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23861
+      "UsersEstimate": 23862
     },
     {
       "ID": "PFA_2",
@@ -27975,7 +27980,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14913
+      "UsersEstimate": 14914
     },
     {
       "ID": "PFA_20",
@@ -28007,7 +28012,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35792
+      "UsersEstimate": 35793
     },
     {
       "ID": "PFA_24",
@@ -28015,7 +28020,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32809
+      "UsersEstimate": 32810
     },
     {
       "ID": "PFA_25",
@@ -28071,7 +28076,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32809
+      "UsersEstimate": 32810
     },
     {
       "ID": "PFA_31",
@@ -28143,7 +28148,7 @@
       "Name": "Coasting Along",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32809
+      "UsersEstimate": 32810
     },
     {
       "ID": "PFA_4",
@@ -28167,7 +28172,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14913
+      "UsersEstimate": 14914
     },
     {
       "ID": "PFA_42",
@@ -28231,7 +28236,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 35792
+      "UsersEstimate": 35793
     },
     {
       "ID": "PFA_9",
@@ -28246,7 +28251,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298268,
+      "Progressed": 298271,
       "Completed": 485
     }
   ],
@@ -28254,8 +28259,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-14T01:41:34.4806498+00:00",
-  "LastChanged_Achievements": "2023-10-14T03:05:13.8204234+00:00",
+  "LastChanged_Achievements": "2023-10-14T04:04:39.4559086+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:01.0338203+00:00",
-  "LastUpdate_Ratings": "2023-10-14T03:01:43.9325789+00:00",
-  "LastUpdate_Achievements": "2023-10-14T03:05:13.8205756+00:00"
+  "LastUpdate_Ratings": "2023-10-14T04:01:12.0161769+00:00",
+  "LastUpdate_Achievements": "2023-10-14T04:04:39.456087+00:00"
 }

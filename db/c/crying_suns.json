@@ -622,7 +622,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 469019,
+  "EOS_Progressed": 469021,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 397,
   "EOS_NewCompleters": 0,
@@ -19097,6 +19097,11 @@
       "Time": "2023-10-14T03:09:22.3990166+00:00",
       "NumProgressed": 469019,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-10-14T04:08:36.5516677+00:00",
+      "NumProgressed": 469021,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 79,
@@ -19132,7 +19137,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 103184
+      "UsersEstimate": 103185
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -19196,7 +19201,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 309553
+      "UsersEstimate": 309554
     },
     {
       "ID": "achievement_story_landa",
@@ -19292,7 +19297,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 159466
+      "UsersEstimate": 159467
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -19532,7 +19537,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 206368
+      "UsersEstimate": 206369
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -19564,7 +19569,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 182917
+      "UsersEstimate": 182918
     },
     {
       "ID": "achievement_win_run_hard",
@@ -19620,7 +19625,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 103184
+      "UsersEstimate": 103185
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -19739,21 +19744,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 12953,
+      "Progressed": 12955,
       "Completed": 2358
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 469019,
+      "Progressed": 469021,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-10-10T01:42:39.6470224+00:00",
-  "LastChanged_Achievements": "2023-10-14T03:09:22.399016+00:00",
+  "LastChanged_Achievements": "2023-10-14T04:08:36.5516671+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:12.2439016+00:00",
-  "LastUpdate_Ratings": "2023-10-14T02:57:36.026798+00:00",
-  "LastUpdate_Achievements": "2023-10-14T03:09:22.3992159+00:00"
+  "LastUpdate_Ratings": "2023-10-14T03:57:25.878703+00:00",
+  "LastUpdate_Achievements": "2023-10-14T04:08:36.5519031+00:00"
 }

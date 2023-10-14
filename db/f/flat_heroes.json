@@ -1338,9 +1338,9 @@
       "ID": "World7Boss",
       "SetID": "d9ekhim",
       "Name": "Bomberman",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 60
     },
     {
       "ID": "World8Boss",
@@ -1371,8 +1371,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-10-14T03:08:48.6973313+00:00",
+  "LastChanged_Achievements": "2023-10-14T04:08:07.2774207+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:13.7361934+00:00",
-  "LastUpdate_Ratings": "2023-10-14T03:01:32.1525427+00:00",
-  "LastUpdate_Achievements": "2023-10-14T03:08:48.697376+00:00"
+  "LastUpdate_Ratings": "2023-10-14T04:00:59.0031731+00:00",
+  "LastUpdate_Achievements": "2023-10-14T04:08:07.2774624+00:00"
 }

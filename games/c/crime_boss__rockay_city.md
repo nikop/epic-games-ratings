@@ -10,8 +10,8 @@ Rating: 3.94 (Ranked 978)
 | First One’s Free | 1.00% | ~890 |
 | Downed but Not Outed | 1.00% | ~890 |
 | Too Old for This | 1.00% | ~890 |
+| Roid Ranger | 0.80% | ~712 |
 | Fancy Pants | 0.80% | ~712 |
-| Roid Ranger | 0.70% | ~623 |
 | King of the Hill | 0.70% | ~623 |
 | Off the Rocks | 0.70% | ~623 |
 | Raider’s Ruin | 0.70% | ~623 |
@@ -24,12 +24,12 @@ Rating: 3.94 (Ranked 978)
 | Headhunter | 0.40% | ~356 |
 | Legend Looter | 0.30% | ~267 |
 | Imports and Exports | 0.30% | ~267 |
+| Savvy Seeker | 0.30% | ~267 |
 | I Like Trains | 0.30% | ~267 |
 | Foo Finder | 0.30% | ~267 |
 | Freebooter | 0.30% | ~267 |
 | Moneybags | 0.30% | ~267 |
 | Rockay Raider | 0.20% | ~178 |
-| Savvy Seeker | 0.20% | ~178 |
 | Olympus Ascended | 0.20% | ~178 |
 | Ding Dong | 0.20% | ~178 |
 | All that Glitters | 0.20% | ~35 |
@@ -47,7 +47,7 @@ Rating: 3.94 (Ranked 978)
 | One for All | 0.10% | ~17 |
 | Now You See Me | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,046 (Ranked 82)  
+Progressed: 89,047 (Ranked 82)  
 Completed: 49 (0.06%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 49 (0.06%) (Ranked 265)
 | 2023-10-11 | 88,994 | 48 |
 | 2023-10-12 | 89,015 | 48 |
 | 2023-10-13 | 89,042 | 49 |
-| 2023-10-14 | 89,046 | 49 |
+| 2023-10-14 | 89,047 | 49 |
 ## Awards
 Max (Diverse Characters): 490  (Ranked 206)  
 Sum: 2,337 (Ranked 192)  

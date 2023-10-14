@@ -11,7 +11,7 @@ Number of Ratings: 285  (23.09.2022)
 | Hit 'Em Where It Hurts | 22.00% | ~900 |
 | Perk Shard Punch Card | 22.00% | ~900 |
 | That'll Leave a Mark | 22.00% | ~900 |
-| Mushroom Madness! | 20.00% | ~818 |
+| Mushroom Madness! | 20.00% | ~819 |
 | First Strike | 18.00% | ~737 |
 | Spending Spree | 17.00% | ~696 |
 | Horder Better Faster Stronger | 16.00% | ~655 |
@@ -26,11 +26,11 @@ Number of Ratings: 285  (23.09.2022)
 | Deadication | 4.00% | ~164 |
 | We've Got a Kaiju on the Field | 3.00% | ~123 |
 | Season Finale | 3.00% | ~123 |
-| The Fourth Gate | 1.00% | ~41 |
+| The Fourth Gate | 2.00% | ~82 |
 | Vexed Her | 0.40% | ~16 |
 | Deadalus and Loving It | 0.20% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,092 (Ranked 178)  
+Progressed: 4,093 (Ranked 178)  
 Completed: 2 (0.05%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 2 (0.05%) (Ranked 270)
 | 2023-10-11 | 4,028 | 2 |
 | 2023-10-12 | 4,056 | 2 |
 | 2023-10-13 | 4,087 | 2 |
-| 2023-10-14 | 4,092 | 2 |
+| 2023-10-14 | 4,093 | 2 |
 ## Awards
 Max (Great for Beginners): 34  (Ranked 462)  
 Sum: 283 (Ranked 355)  

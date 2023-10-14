@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -483,9 +483,9 @@
       "ID": "achievement_1",
       "SetID": "18al4io",
       "Name": "Unforeseen",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "achievement_10",
@@ -571,9 +571,9 @@
       "ID": "achievement_2",
       "SetID": "18al4io",
       "Name": "Battlefields Have Memories",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "achievement_20",
@@ -868,8 +868,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-10-13T20:00:44.8425195+00:00",
-  "LastChanged_Achievements": "2023-10-14T03:08:47.6720311+00:00",
+  "LastChanged_Achievements": "2023-10-14T04:08:06.2970493+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:18.0204012+00:00",
-  "LastUpdate_Ratings": "2023-10-14T03:01:42.4613174+00:00",
-  "LastUpdate_Achievements": "2023-10-14T03:08:47.6720889+00:00"
+  "LastUpdate_Ratings": "2023-10-14T04:01:08.224447+00:00",
+  "LastUpdate_Achievements": "2023-10-14T04:08:06.2970951+00:00"
 }

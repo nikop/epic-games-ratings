@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -78,9 +78,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 706,
+  "EOS_Progressed": 707,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1983,6 +1983,11 @@
       "Time": "2023-10-10T20:10:03.5216637+00:00",
       "NumProgressed": 706,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-14T04:03:34.8675974+00:00",
+      "NumProgressed": 707,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -2106,7 +2111,7 @@
       "Name": "Spirit animal",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "LiarLiar",
@@ -2210,7 +2215,7 @@
       "Name": "Tooth fairy",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "Toxic",
@@ -2249,7 +2254,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 706,
+      "Progressed": 707,
       "Completed": 1
     }
   ],
@@ -2257,8 +2262,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-10-13T20:57:47.9412245+00:00",
-  "LastChanged_Achievements": "2023-10-14T03:04:11.0240055+00:00",
+  "LastChanged_Achievements": "2023-10-14T04:03:34.8675968+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:57.4837603+00:00",
-  "LastUpdate_Ratings": "2023-10-14T02:58:16.6883357+00:00",
-  "LastUpdate_Achievements": "2023-10-14T03:04:11.0240531+00:00"
+  "LastUpdate_Ratings": "2023-10-14T03:58:02.8197225+00:00",
+  "LastUpdate_Achievements": "2023-10-14T04:03:34.8676378+00:00"
 }

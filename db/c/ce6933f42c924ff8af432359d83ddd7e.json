@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 72,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-09-28T17:00:00+00:00",
     "PcReleaseDate": "2023-04-26T16:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 384,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.91,
   "EosHistory": [
@@ -939,9 +939,9 @@
       "ID": "ACH_CUBES",
       "SetID": "6f5dahd",
       "Name": "Brain-teaser",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 85,
-      "UsersEstimate": 180
+      "UsersEstimate": 184
     },
     {
       "ID": "ACH_DONUTS",
@@ -955,9 +955,9 @@
       "ID": "ACH_FRUIT_BOWLS",
       "SetID": "6f5dahd",
       "Name": "An apple a day",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 75,
-      "UsersEstimate": 211
+      "UsersEstimate": 215
     },
     {
       "ID": "ACH_GET_BACK_TO_WORK",
@@ -971,9 +971,9 @@
       "ID": "ACH_PENTAGRAM",
       "SetID": "6f5dahd",
       "Name": "Evil plan",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 85,
-      "UsersEstimate": 177
+      "UsersEstimate": 180
     },
     {
       "ID": "ACH_RADIO_TAPES",
@@ -1003,9 +1003,9 @@
       "ID": "ACH_THE_END",
       "SetID": "6f5dahd",
       "Name": "Exit",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 65,
-      "UsersEstimate": 207
+      "UsersEstimate": 211
     }
   ],
   "AchievementSets": [
@@ -1018,8 +1018,8 @@
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-10-14T03:09:47.6738346+00:00",
+  "LastChanged_Achievements": "2023-10-14T04:09:08.4746949+00:00",
   "LastUpdate_AppInfo": "2023-10-13T13:03:11.5956346+00:00",
-  "LastUpdate_Ratings": "2023-10-14T03:00:20.1536873+00:00",
-  "LastUpdate_Achievements": "2023-10-14T03:09:47.6738532+00:00"
+  "LastUpdate_Ratings": "2023-10-14T03:59:54.8296555+00:00",
+  "LastUpdate_Achievements": "2023-10-14T04:09:08.4747099+00:00"
 }

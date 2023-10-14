@@ -2,7 +2,7 @@
   "ID": "aeac94c7a11048758064b82f8f8d20ed",
   "Name": "Mount \u0026 Blade II: Bannerlord",
   "ProductSlug": "mount-and-blade-2",
-  "Ranking_Rating": 148,
+  "Ranking_Rating": 149,
   "Ranking_Popularity": 52,
   "Ranking_PopularitySum": 66,
   "Ranking_EOS_Progress": 97,
@@ -7953,7 +7953,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 63208,
+  "EOS_Progressed": 63210,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 390,
   "EOS_NewCompleters": 0,
@@ -26693,6 +26693,11 @@
       "Time": "2023-10-14T03:03:32.5688821+00:00",
       "NumProgressed": 63208,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-14T04:03:09.5324925+00:00",
+      "NumProgressed": 63210,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -26712,7 +26717,7 @@
       "Name": "Apple of my eye",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 9481
+      "UsersEstimate": 9482
     },
     {
       "ID": "Bannerlord",
@@ -26872,7 +26877,7 @@
       "Name": "I can do it",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10113
+      "UsersEstimate": 10114
     },
     {
       "ID": "I spit on your grave",
@@ -26896,7 +26901,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10745
+      "UsersEstimate": 10746
     },
     {
       "ID": "Kingslayer",
@@ -26936,7 +26941,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 24651
+      "UsersEstimate": 24652
     },
     {
       "ID": "Lawmaker",
@@ -27111,15 +27116,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 63208,
+      "Progressed": 63210,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-13T23:00:09.6123922+00:00",
-  "LastChanged_Achievements": "2023-10-14T03:03:32.5688814+00:00",
+  "LastChanged_Achievements": "2023-10-14T04:03:09.532492+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:27.1626185+00:00",
-  "LastUpdate_Ratings": "2023-10-14T03:02:01.860188+00:00",
-  "LastUpdate_Achievements": "2023-10-14T03:03:32.5690589+00:00"
+  "LastUpdate_Ratings": "2023-10-14T04:01:27.2153242+00:00",
+  "LastUpdate_Achievements": "2023-10-14T04:03:09.5330451+00:00"
 }

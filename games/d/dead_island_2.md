@@ -5,21 +5,21 @@ Rating: 4.54 (Ranked 510)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 4.00% | ~27,811 |
-| Welcome To Hell-A | 4.00% | ~27,811 |
-| Dr. Reed, I Presume? | 3.00% | ~20,858 |
-| Git Gutte! | 3.00% | ~20,858 |
-| Break A Leg | 3.00% | ~20,858 |
-| Coup de Grâce | 3.00% | ~20,858 |
-| Hazardous Materials | 3.00% | ~20,858 |
-| Friends Like These | 3.00% | ~20,858 |
-| Apex Predator | 3.00% | ~20,858 |
-| Stacking the Deck | 3.00% | ~20,858 |
-| Personal Assistant Personally Assisted | 3.00% | ~20,858 |
+| Hotel California | 4.00% | ~27,812 |
+| Welcome To Hell-A | 4.00% | ~27,812 |
+| Dr. Reed, I Presume? | 3.00% | ~20,859 |
+| Git Gutte! | 3.00% | ~20,859 |
+| Bookworm | 3.00% | ~20,859 |
+| Break A Leg | 3.00% | ~20,859 |
+| Coup de Grâce | 3.00% | ~20,859 |
+| Hazardous Materials | 3.00% | ~20,859 |
+| Friends Like These | 3.00% | ~20,859 |
+| Apex Predator | 3.00% | ~20,859 |
+| Stacking the Deck | 3.00% | ~20,859 |
+| Personal Assistant Personally Assisted | 3.00% | ~20,859 |
 | Making Your Mark | 2.00% | ~13,906 |
 | Anger Management | 2.00% | ~13,906 |
 | Perks of the Job | 2.00% | ~13,906 |
-| Bookworm | 2.00% | ~13,906 |
 | I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,906 |
 | But Doctor, I am Butcho | 2.00% | ~13,906 |
 | Slayer Squad | 2.00% | ~13,906 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 510)
 | Donk! | 0.20% | ~1,391 |
 | Bucket List | 0.10% | ~695 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 695,279 (Ranked 22)  
+Progressed: 695,294 (Ranked 22)  
 Completed: 2,223 (0.32%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 2,223 (0.32%) (Ranked 200)
 | 2023-10-11 | 694,263 | 2,210 |
 | 2023-10-12 | 694,718 | 2,216 |
 | 2023-10-13 | 695,203 | 2,223 |
-| 2023-10-14 | 695,279 | 2,223 |
+| 2023-10-14 | 695,294 | 2,223 |
 ## Awards
 Max (Great Boss Battles): 6,420  (Ranked 58)  
 Sum: 9,594 (Ranked 91)  

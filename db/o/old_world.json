@@ -1847,7 +1847,7 @@
   ],
   "EOS_Progressed": 14654,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 202,
+  "EOS_NewPlayers": 201,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16120,9 +16120,9 @@
       "ID": "ACHIEVEMENT_SACRED_PROFANE_POET_LEADER",
       "SetID": "9201eeb",
       "Name": "Poetic Leader",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 59
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_ST_PAUL",
@@ -16534,8 +16534,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-13T13:09:24.1793459+00:00",
-  "LastChanged_Achievements": "2023-10-14T03:08:15.3740084+00:00",
+  "LastChanged_Achievements": "2023-10-14T04:07:28.0330867+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:48.3987129+00:00",
-  "LastUpdate_Ratings": "2023-10-14T03:03:25.0504905+00:00",
-  "LastUpdate_Achievements": "2023-10-14T03:08:15.3753183+00:00"
+  "LastUpdate_Ratings": "2023-10-14T04:02:40.2602057+00:00",
+  "LastUpdate_Achievements": "2023-10-14T04:07:28.0343469+00:00"
 }

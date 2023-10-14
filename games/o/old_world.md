@@ -115,6 +115,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cimmerian Archer | 0.40% | ~59 |
 | Phalangite | 0.40% | ~59 |
 | The Clergy | 0.40% | ~59 |
+| Poetic Leader | 0.40% | ~59 |
 | Kmt Unified | 0.40% | ~59 |
 | Capable | 0.30% | ~44 |
 | Devout | 0.30% | ~44 |
@@ -137,7 +138,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | All Nations | 0.30% | ~44 |
 | Ambition Victory | 0.30% | ~44 |
 | The Great Mage | 0.30% | ~44 |
-| Poetic Leader | 0.30% | ~44 |
 | Bad Heir Day | 0.20% | ~29 |
 | Ishtar Gate in Babylon | 0.20% | ~29 |
 | Carthage - Ox Hide | 0.20% | ~29 |

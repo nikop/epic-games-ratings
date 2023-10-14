@@ -1,7 +1,7 @@
 # Honkai: Star Rail
 [Store](https://store.epicgames.com/en-US/p/honkai-star-rail)  
 [View Rawdata](../../db/h/honkai__star_rail.json)  
-Rating: 4.74 (Ranked 148)  
+Rating: 4.74 (Ranked 149)  
 ## Awards
 Max (Character Customization): 15,797  (Ranked 24)  
 Sum: 54,183 (Ranked 23)  

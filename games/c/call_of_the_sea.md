@@ -5,31 +5,31 @@ Rating: 4.40 (Ranked 721)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 80.00% | ~99,646 |
-| 74 miles East of Otaheité | 56.00% | ~69,752 |
-| Interesting... | 42.00% | ~52,314 |
-| The Everhart Expedition | 39.00% | ~48,577 |
-| The Vanishing of the Lady Shannon | 30.00% | ~37,367 |
-| Seaside Serenade | 30.00% | ~37,367 |
-| Halfway there | 29.00% | ~36,122 |
-| A brigantine, a brig and a barque | 28.00% | ~34,876 |
-| 506 East Hampden Avenue | 28.00% | ~34,876 |
-| Weekend at Walakea's | 27.00% | ~33,630 |
-| Quite a Show | 27.00% | ~33,630 |
-| Dark Water Ride | 24.00% | ~29,894 |
-| Sunken | 24.00% | ~29,894 |
-| Deep Cut | 24.00% | ~29,894 |
-| FHALGOF'N' | 23.00% | ~28,648 |
-| Marsh Cannery | 21.00% | ~26,157 |
+| A Family Heirloom | 80.00% | ~99,649 |
+| 74 miles East of Otaheité | 56.00% | ~69,754 |
+| Interesting... | 42.00% | ~52,316 |
+| The Everhart Expedition | 39.00% | ~48,579 |
+| The Vanishing of the Lady Shannon | 30.00% | ~37,368 |
+| Seaside Serenade | 30.00% | ~37,368 |
+| Halfway there | 29.00% | ~36,123 |
+| A brigantine, a brig and a barque | 28.00% | ~34,877 |
+| 506 East Hampden Avenue | 28.00% | ~34,877 |
+| Weekend at Walakea's | 27.00% | ~33,631 |
+| Quite a Show | 27.00% | ~33,631 |
+| Dark Water Ride | 24.00% | ~29,895 |
+| Sunken | 24.00% | ~29,895 |
+| Deep Cut | 24.00% | ~29,895 |
+| FHALGOF'N' | 23.00% | ~28,649 |
+| Marsh Cannery | 21.00% | ~26,158 |
 | Greetings from Y'ha-nthlei! | 17.00% | ~21,175 |
-| The only thing I have now | 16.00% | ~19,929 |
+| The only thing I have now | 16.00% | ~19,930 |
 | Not Another Boring Slideshow! | 15.00% | ~18,684 |
 | Naacalvision | 15.00% | ~18,684 |
 | I'll make a note of that... | 9.00% | ~11,210 |
 | The Norahnomicon | 9.00% | ~11,210 |
 | Play it again, Norah | 7.00% | ~8,719 |
 | Underwater Royalty | 7.00% | ~8,719 |
-| Written in Stone | 6.00% | ~7,473 |
+| Written in Stone | 6.00% | ~7,474 |
 | Fawning Developers | 5.00% | ~6,228 |
 | The Amazing Adventures of Norah Everhart | 4.00% | ~4,982 |
 | Candid Photo | 4.00% | ~4,982 |
@@ -40,7 +40,7 @@ Rating: 4.40 (Ranked 721)
 | Gently down the stream... | 1.00% | ~1,246 |
 | Meta-reference | 1.00% | ~1,246 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 124,557 (Ranked 76)  
+Progressed: 124,561 (Ranked 76)  
 Completed: 1,051 (0.84%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 1,051 (0.84%) (Ranked 152)
 | 2023-10-11 | 124,177 | 1,044 |
 | 2023-10-12 | 124,344 | 1,048 |
 | 2023-10-13 | 124,526 | 1,051 |
-| 2023-10-14 | 124,557 | 1,051 |
+| 2023-10-14 | 124,561 | 1,051 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

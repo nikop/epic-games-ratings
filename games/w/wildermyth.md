@@ -13,7 +13,7 @@ Number of Ratings: 45  (23.09.2022)
 | Cutthroat Competitors | 31.00% | ~439 |
 | How Romantic! | 29.00% | ~411 |
 | Daybreak | 29.00% | ~411 |
-| Gotta Ca... Must Collect All of Them | 26.00% | ~368 |
+| Gotta Ca... Must Collect All of Them | 27.00% | ~383 |
 | Completing the Look | 15.00% | ~213 |
 | War Endured | 15.00% | ~213 |
 | A Mythic Menagerie | 14.00% | ~198 |

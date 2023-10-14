@@ -36,7 +36,7 @@ Rating: 4.57 (Ranked 454)
 | Scavenger Star | 0.10% | ~14 |
 | Data Collector | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,932 (Ranked 135)  
+Progressed: 13,934 (Ranked 135)  
 Completed: 23 (0.17%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 23 (0.17%) (Ranked 228)
 | 2023-10-11 | 13,863 | 19 |
 | 2023-10-12 | 13,891 | 20 |
 | 2023-10-13 | 13,925 | 23 |
-| 2023-10-14 | 13,932 | 23 |
+| 2023-10-14 | 13,934 | 23 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -54,6 +54,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Hidden Potential | 0.70% | ~963 |
 | Trash to Treasure | 0.70% | ~963 |
 | Seasoned Journeyman | 0.70% | ~963 |
+| Black Friday Special | 0.70% | ~963 |
 | Special Ingredient | 0.70% | ~963 |
 | Complete Monopoly | 0.70% | ~963 |
 | A Notch Above the Rest | 0.60% | ~825 |
@@ -81,7 +82,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Attrition Mission | 0.60% | ~825 |
 | Glittering Collection | 0.60% | ~825 |
 | Moment of Respite | 0.60% | ~825 |
-| Black Friday Special | 0.60% | ~825 |
 | Exotic Commodities | 0.60% | ~825 |
 | King's Blade | 0.60% | ~825 |
 | Top of the World | 0.50% | ~688 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~138 |
 | Cash Only Please | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,563 (Ranked 73)  
+Progressed: 137,567 (Ranked 73)  
 Completed: 168 (0.12%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 168 (0.12%) (Ranked 240)
 | 2023-10-11 | 137,455 | 168 |
 | 2023-10-12 | 137,496 | 168 |
 | 2023-10-13 | 137,555 | 168 |
-| 2023-10-14 | 137,563 | 168 |
+| 2023-10-14 | 137,567 | 168 |
 ## Awards
 Max (Great for Beginners): 4,785  (Ranked 71)  
 Sum: 27,380 (Ranked 50)  

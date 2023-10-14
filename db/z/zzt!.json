@@ -4,8 +4,8 @@
   "ProductSlug": "zzt",
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 67,
-  "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-03-31T15:00:00+00:00",
     "PcReleaseDate": "1991-01-15T12:31:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3299,
+  "EOS_Progressed": 3300,
   "EOS_Completed": 148,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4.49,
+  "EOS_Completed_Percentage": 4.48,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:54.6096492+00:00",
@@ -5126,6 +5126,11 @@
       "Time": "2023-10-14T00:08:55.6159369+00:00",
       "NumProgressed": 3299,
       "NumCompleted": 148
+    },
+    {
+      "Time": "2023-10-14T04:08:10.5719592+00:00",
+      "NumProgressed": 3300,
+      "NumCompleted": 148
     }
   ],
   "TotalAchievements": 5,
@@ -5137,7 +5142,7 @@
       "Name": "Potomac Computer Systems",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 3299
+      "UsersEstimate": 3300
     },
     {
       "ID": "2",
@@ -5176,7 +5181,7 @@
     {
       "ID": "dm385hd",
       "IsBase": true,
-      "Progressed": 3299,
+      "Progressed": 3300,
       "Completed": 148
     }
   ],
@@ -5184,8 +5189,8 @@
   "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
   "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
-  "LastChanged_Achievements": "2023-10-14T03:08:52.887095+00:00",
+  "LastChanged_Achievements": "2023-10-14T04:08:10.5719585+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:30.5536969+00:00",
-  "LastUpdate_Ratings": "2023-10-14T03:02:08.9707748+00:00",
-  "LastUpdate_Achievements": "2023-10-14T03:08:52.8871599+00:00"
+  "LastUpdate_Ratings": "2023-10-14T04:01:33.6269325+00:00",
+  "LastUpdate_Achievements": "2023-10-14T04:08:10.5720074+00:00"
 }
