@@ -1,14 +1,16 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 299)  
+Rating: 4.65 (Ranked 300)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Explorer | 2.00% | ~294 |
+| Good | 2.00% | ~294 |
 | Intrepid | 2.00% | ~294 |
 | Settler | 2.00% | ~294 |
+| Strong | 2.00% | ~294 |
 | Friendly Family | 2.00% | ~294 |
 | Play a Single Player Game | 2.00% | ~294 |
 | Able | 1.00% | ~147 |
@@ -17,7 +19,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightened | 1.00% | ~147 |
 | Fountainhead | 1.00% | ~147 |
 | Glorious | 1.00% | ~147 |
-| Good | 1.00% | ~147 |
 | Just | 1.00% | ~147 |
 | Keystone | 1.00% | ~147 |
 | Learned | 1.00% | ~147 |
@@ -25,7 +26,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mason | 1.00% | ~147 |
 | Noble | 1.00% | ~147 |
 | Pioneer | 1.00% | ~147 |
-| Strong | 1.00% | ~147 |
 | Warrior | 1.00% | ~147 |
 | Developing Cities | 1.00% | ~147 |
 | Strong Cities | 1.00% | ~147 |
@@ -74,12 +74,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens in Babylon | 0.60% | ~88 |
 | Beloved | 0.60% | ~88 |
 | Conqueror | 0.60% | ~88 |
+| Intercessor | 0.60% | ~88 |
+| Victorious | 0.60% | ~88 |
 | Mausoleum | 0.60% | ~88 |
 | Learn to Play 3 | 0.60% | ~88 |
 | Building Wonders | 0.60% | ~88 |
-| Intercessor | 0.50% | ~73 |
 | Lion | 0.50% | ~73 |
-| Victorious | 0.50% | ~73 |
 | Good Difficulty | 0.50% | ~73 |
 | Patrons | 0.50% | ~73 |
 | Riders | 0.50% | ~73 |
@@ -148,6 +148,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Glorious Difficulty | 0.20% | ~29 |
 | Cao'an | 0.20% | ~29 |
 | Assyria | 0.20% | ~29 |
+| Hatti | 0.20% | ~29 |
 | Pantheon of Gods | 0.20% | ~29 |
 | Play a Network Game | 0.20% | ~29 |
 | Ten Crowns | 0.20% | ~29 |
@@ -234,8 +235,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Queen of War | 0.10% | ~15 |
 | Mighty Bucephalus | 0.10% | ~15 |
 | Knot So Hard | 0.10% | ~15 |
+| Gate to Victory | 0.10% | ~15 |
 | Pharaoh | 0.10% | ~15 |
 | A Tyresome Siege | 0.10% | ~15 |
+| Alexander the Mediocre | 0.10% | ~15 |
+| Alexander the Great | 0.10% | ~15 |
+| Alexander the Alright | 0.10% | ~15 |
 | Learn By Playing 1 - Able | 0.10% | ~15 |
 | Learn By Playing 2 - Just | 0.10% | ~15 |
 | Learn By Playing 3 - Good | 0.10% | ~15 |
@@ -244,7 +249,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Medo-Babylonian Conquest | 0.10% | ~15 |
 | Pyramids in Menefer | 0.10% | ~15 |
 | Realistic Mortality | 0.10% | ~15 |
-| Hatti | 0.10% | ~15 |
 | Persia | 0.10% | ~15 |
 | Apadana in Parsa | 0.10% | ~15 |
 | Play a 1-v-1 Game | 0.10% | ~15 |
@@ -331,10 +335,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Elephant in Elephantine | 0.00% | ~0 |
 | That Also Works | 0.00% | ~0 |
 | Not a Scratch | 0.00% | ~0 |
-| Gate to Victory | 0.00% | ~0 |
-| Alexander the Mediocre | 0.00% | ~0 |
-| Alexander the Great | 0.00% | ~0 |
-| Alexander the Alright | 0.00% | ~0 |
 | Youth Prevails | 0.00% | ~0 |
 | Toppling the Giants | 0.00% | ~0 |
 | Rule of Pharaohs | 0.00% | ~0 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,681 (Ranked 134)  
+Progressed: 14,684 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -526,18 +526,18 @@ Completed: 5 (0.03%) (Ranked 283)
 | 2023-10-11 | 14,606 | 5 |
 | 2023-10-12 | 14,624 | 5 |
 | 2023-10-13 | 14,652 | 5 |
-| 2023-10-14 | 14,681 | 5 |
+| 2023-10-14 | 14,684 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
-Sum: 1,837 (Ranked 210)  
+Sum: 1,839 (Ranked 210)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 224 |
 | This game has Diverse Characters | 214 |
-| This game is Highly Recommended | 212 |
+| This game is Highly Recommended | 213 |
 | This game is Extremely Fun | 211 |
-| This game is Educational | 209 |
+| This game is Educational | 210 |
 | This game has Challenging Combat | 198 |
 | This game has Quickly Understood Controls | 192 |
 | This game has Amazing Characters | 191 |
@@ -691,4 +691,4 @@ Diff (max vs sum): 57
 | 2023-10-11 | 4.65 | - | 224 | 1,833 |
 | 2023-10-12 | 4.65 | - | 224 | 1,835 |
 | 2023-10-13 | 4.65 | - | 224 | 1,836 |
-| 2023-10-14 | 4.65 | - | 224 | 1,837 |
+| 2023-10-14 | 4.65 | - | 224 | 1,839 |

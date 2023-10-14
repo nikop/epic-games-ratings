@@ -2,7 +2,7 @@
   "ID": "ce6933f42c924ff8af432359d83ddd7e",
   "Name": "Mystery in the Office",
   "ProductSlug": "mystery-in-the-office-f629ad",
-  "Ranking_EOS_Progress": 293,
+  "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 72,
   "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 70,
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 387,
+  "EOS_Progressed": 388,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.88,
+  "EOS_Completed_Percentage": 3.87,
   "EosHistory": [
     {
       "Time": "2023-09-09T22:06:11.6454215+00:00",
@@ -936,6 +936,11 @@
       "Time": "2023-10-14T17:03:41.9689631+00:00",
       "NumProgressed": 387,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-10-14T19:03:44.3589729+00:00",
+      "NumProgressed": 388,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -954,9 +959,9 @@
       "ID": "ACH_CUBES",
       "SetID": "6f5dahd",
       "Name": "Brain-teaser",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 85,
-      "UsersEstimate": 182
+      "UsersEstimate": 186
     },
     {
       "ID": "ACH_DONUTS",
@@ -970,9 +975,9 @@
       "ID": "ACH_FRUIT_BOWLS",
       "SetID": "6f5dahd",
       "Name": "An apple a day",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 75,
-      "UsersEstimate": 213
+      "UsersEstimate": 217
     },
     {
       "ID": "ACH_GET_BACK_TO_WORK",
@@ -986,9 +991,9 @@
       "ID": "ACH_PENTAGRAM",
       "SetID": "6f5dahd",
       "Name": "Evil plan",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 85,
-      "UsersEstimate": 178
+      "UsersEstimate": 182
     },
     {
       "ID": "ACH_RADIO_TAPES",
@@ -996,7 +1001,7 @@
       "Name": "Good listener",
       "Percentage": 59,
       "XP": 85,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "ACH_SANDWICHES",
@@ -1018,23 +1023,23 @@
       "ID": "ACH_THE_END",
       "SetID": "6f5dahd",
       "Name": "Exit",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 65,
-      "UsersEstimate": 209
+      "UsersEstimate": 213
     }
   ],
   "AchievementSets": [
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 387,
+      "Progressed": 388,
       "Completed": 15
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-10-14T18:03:39.0762256+00:00",
+  "LastChanged_Achievements": "2023-10-14T19:03:44.3589724+00:00",
   "LastUpdate_AppInfo": "2023-10-13T13:03:11.5956346+00:00",
-  "LastUpdate_Ratings": "2023-10-14T17:59:38.0401168+00:00",
-  "LastUpdate_Achievements": "2023-10-14T18:03:39.0762445+00:00"
+  "LastUpdate_Ratings": "2023-10-14T19:00:07.1969146+00:00",
+  "LastUpdate_Achievements": "2023-10-14T19:03:44.3589846+00:00"
 }

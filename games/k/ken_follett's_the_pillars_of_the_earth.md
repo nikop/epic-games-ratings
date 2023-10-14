@@ -8,15 +8,15 @@ Number of Ratings: 368  (23.09.2022)
 | ---- | ---------- | ----- |
 | Tattletale | 40.00% | ~6,295 |
 | Man of politics | 35.00% | ~5,508 |
-| Friends of sorts | 33.00% | ~5,193 |
-| Yet another secret | 33.00% | ~5,193 |
+| Friends of sorts | 33.00% | ~5,194 |
+| Yet another secret | 33.00% | ~5,194 |
 | Let there be darkness | 32.00% | ~5,036 |
 | End of Book One | 30.00% | ~4,721 |
 | Wannabe knight | 24.00% | ~3,777 |
 | Garden of Eden | 24.00% | ~3,777 |
 | Full house | 24.00% | ~3,777 |
 | Help an old friend | 22.00% | ~3,462 |
-| Two of us | 20.00% | ~3,147 |
+| Two of us | 20.00% | ~3,148 |
 | Negotiation skills | 18.00% | ~2,833 |
 | Workers' union | 18.00% | ~2,833 |
 | End of Book Two | 18.00% | ~2,833 |
@@ -24,7 +24,7 @@ Number of Ratings: 368  (23.09.2022)
 | Twist of Fate | 14.00% | ~2,203 |
 | Jack was here! | 14.00% | ~2,203 |
 | Exterminator | 13.00% | ~2,046 |
-| Whodunnit | 12.00% | ~1,888 |
+| Whodunnit | 12.00% | ~1,889 |
 | Good midwife | 11.00% | ~1,731 |
 | Friar Tuck | 11.00% | ~1,731 |
 | First profit | 11.00% | ~1,731 |
@@ -41,14 +41,14 @@ Number of Ratings: 368  (23.09.2022)
 | Staring contest champion | 5.00% | ~787 |
 | Lone wolf | 5.00% | ~787 |
 | Vox Populi | 5.00% | ~787 |
-| Revenge | 4.00% | ~629 |
-| Self-defense | 4.00% | ~629 |
-| Countess Aliena | 4.00% | ~629 |
+| Revenge | 4.00% | ~630 |
+| Self-defense | 4.00% | ~630 |
+| Countess Aliena | 4.00% | ~630 |
 | Care, like a brother cares | 3.00% | ~472 |
 | A brush with death | 3.00% | ~472 |
 | Boy of mystery | 2.00% | ~315 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,737 (Ranked 133)  
+Progressed: 15,738 (Ranked 133)  
 Completed: 113 (0.72%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 113 (0.72%) (Ranked 157)
 | 2023-10-11 | 15,686 | 113 |
 | 2023-10-12 | 15,702 | 113 |
 | 2023-10-13 | 15,720 | 113 |
-| 2023-10-14 | 15,737 | 113 |
+| 2023-10-14 | 15,738 | 113 |
 ## Awards
 Max (Easy Puzzles): 152  (Ranked 306)  
 Sum: 194 (Ranked 386)  

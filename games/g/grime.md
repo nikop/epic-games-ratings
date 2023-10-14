@@ -6,21 +6,21 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Hunt | 1.00% | ~1,521 |
-| Taste | 1.00% | ~1,521 |
-| Weeper | 1.00% | ~1,521 |
-| Imprint | 1.00% | ~1,521 |
-| Ravenous | 1.00% | ~1,521 |
+| The Hunt | 1.00% | ~1,522 |
+| Taste | 1.00% | ~1,522 |
+| Weeper | 1.00% | ~1,522 |
+| Imprint | 1.00% | ~1,522 |
+| Ravenous | 1.00% | ~1,522 |
 | Devourer | 0.70% | ~1,065 |
 | Harmless | 0.60% | ~913 |
 | Silenced Whispers | 0.60% | ~913 |
 | Scion | 0.50% | ~759 |
+| Jawcrab | 0.50% | ~761 |
 | Feast | 0.50% | ~761 |
 | Yank | 0.50% | ~761 |
 | Sharpened Vessel | 0.50% | ~761 |
 | Shapely | 0.40% | ~609 |
 | Glare | 0.40% | ~607 |
-| Jawcrab | 0.40% | ~609 |
 | Jawstag | 0.40% | ~609 |
 | Watcher | 0.40% | ~609 |
 | Assimilation | 0.30% | ~456 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~152 |
 | Intensify | 0.10% | ~152 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 152,146 (Ranked 71)  
+Progressed: 152,157 (Ranked 71)  
 Completed: 1 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,11 +207,11 @@ Completed: 1 (0.00%) (Ranked 314)
 | 2023-10-11 | 151,477 | 1 |
 | 2023-10-12 | 151,679 | 1 |
 | 2023-10-13 | 151,932 | 1 |
-| 2023-10-14 | 152,146 | 1 |
+| 2023-10-14 | 152,157 | 1 |
 ## Awards
 Max (Highly Recommended): 44  (Ranked 433)  
-Sum: 285 (Ranked 355)  
-Diff (max vs sum): 78  
+Sum: 286 (Ranked 354)  
+Diff (max vs sum): 79  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 44 |
@@ -220,7 +220,7 @@ Diff (max vs sum): 78
 | This game has Challenging Combat | 38 |
 | This game is Extremely Fun | 34 |
 | This game has Amazing Storytelling | 32 |
-| This game has a Creative Community | 30 |
+| This game has a Creative Community | 31 |
 | This game has Amazing Characters | 26 |
 | This game has Diverse Characters | 20 |
 ## Ratings History
@@ -338,4 +338,4 @@ Diff (max vs sum): 78
 | 2023-10-11 | 4.59 | - | 42 | 276 |
 | 2023-10-12 | 4.59 | - | 42 | 280 |
 | 2023-10-13 | 4.59 | - | 44 | 283 |
-| 2023-10-14 | 4.59 | - | 44 | 285 |
+| 2023-10-14 | 4.59 | - | 44 | 286 |

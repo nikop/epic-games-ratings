@@ -2,20 +2,20 @@
   "ID": "db16361187bb41c4b96ff020c34bdd0c",
   "Name": "We Were Here Forever",
   "ProductSlug": "we-were-here-forever",
-  "Ranking_Rating": 240,
+  "Ranking_Rating": 261,
   "Ranking_Popularity": 516,
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 669,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 395,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-05-10T11:00:00+00:00",
     "PcReleaseDate": "2022-05-10T11:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.68,
+  "Rating": 4.67,
   "NumberOfRatings": 113,
   "RatingHistory": [
     {
@@ -287,6 +287,12 @@
       "Rating": 4.68,
       "NumberOfAwards": 22,
       "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2023-10-14T18:57:37.4589917+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 22,
+      "NumberOfAwardsMax": 22
     }
   ],
   "ReviewsDisabled": false,
@@ -312,8 +318,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:15.5524229+00:00",
-  "LastChanged": "2023-10-12T19:00:30.8218751+00:00",
+  "LastChanged": "2023-10-14T18:57:37.4589915+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:23.1992254+00:00",
-  "LastUpdate_Ratings": "2023-10-14T17:57:41.5306021+00:00",
-  "LastUpdate_Achievements": "2023-10-14T18:03:28.3663371+00:00"
+  "LastUpdate_Ratings": "2023-10-14T18:57:37.4589919+00:00",
+  "LastUpdate_Achievements": "2023-10-14T19:03:31.2340992+00:00"
 }

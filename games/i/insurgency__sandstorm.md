@@ -6,24 +6,24 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~23,112 |
-| Wallbanger | 5.00% | ~23,112 |
-| Exploitative | 4.00% | ~18,489 |
-| High Speed Low Drag | 4.00% | ~18,489 |
-| Wet Feet | 4.00% | ~18,489 |
-| Checkpoint Victory | 3.00% | ~13,867 |
-| Lucky | 3.00% | ~13,867 |
-| Stylin' | 3.00% | ~13,867 |
-| Turf War | 3.00% | ~13,867 |
+| Point Shooting | 5.00% | ~23,113 |
+| Wallbanger | 5.00% | ~23,113 |
+| Exploitative | 4.00% | ~18,490 |
+| High Speed Low Drag | 4.00% | ~18,490 |
+| Wet Feet | 4.00% | ~18,490 |
+| Checkpoint Victory | 3.00% | ~13,868 |
+| Lucky | 3.00% | ~13,868 |
+| Stylin' | 3.00% | ~13,868 |
+| Turf War | 3.00% | ~13,868 |
 | Banged | 2.00% | ~9,245 |
 | First Blood | 2.00% | ~9,245 |
 | Flaccid Paralysis | 2.00% | ~9,245 |
 | Push Victory | 2.00% | ~9,245 |
 | Self-destructive | 2.00% | ~9,245 |
-| Blindfire | 1.00% | ~4,622 |
-| Efficient | 1.00% | ~4,622 |
-| Ruthless | 1.00% | ~4,622 |
-| Semper Paratus | 1.00% | ~4,622 |
+| Blindfire | 1.00% | ~4,623 |
+| Efficient | 1.00% | ~4,623 |
+| Ruthless | 1.00% | ~4,623 |
+| Semper Paratus | 1.00% | ~4,623 |
 | Carrying | 0.90% | ~4,160 |
 | Mount & Gun | 0.90% | ~4,160 |
 | Personal | 0.90% | ~4,160 |
@@ -31,18 +31,18 @@ Number of Ratings: 1,316  (23.09.2022)
 | Play to Win | 0.80% | ~3,698 |
 | #1 | 0.70% | ~3,236 |
 | Special Delivery | 0.70% | ~3,236 |
-| Firefight Victory | 0.60% | ~2,773 |
+| Firefight Victory | 0.60% | ~2,774 |
 | Cinematic | 0.50% | ~2,311 |
 | Thanks Station! | 0.40% | ~1,849 |
 | Knock Knock | 0.30% | ~1,387 |
 | There For You | 0.30% | ~1,387 |
-| Hit and Run | 0.20% | ~924 |
+| Hit and Run | 0.20% | ~925 |
 | Designated Driver | 0.10% | ~462 |
 | J.R. .50 | 0.10% | ~462 |
 | It's All in the Reflexes | 0.10% | ~462 |
 | Road Hazard | 0.10% | ~462 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 462,236 (Ranked 38)  
+Progressed: 462,254 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 2 (0.00%) (Ranked 314)
 | 2023-10-11 | 461,311 | 2 |
 | 2023-10-12 | 461,610 | 2 |
 | 2023-10-13 | 461,949 | 2 |
-| 2023-10-14 | 462,236 | 2 |
+| 2023-10-14 | 462,254 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 388  (Ranked 224)  
 Sum: 3,068 (Ranked 170)  

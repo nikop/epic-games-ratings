@@ -2,13 +2,13 @@
   "ID": "07f4a7dd3c884e5d87e9a209716962ca",
   "Name": "Old World",
   "ProductSlug": "old-world",
-  "Ranking_Rating": 299,
+  "Ranking_Rating": 300,
   "Ranking_Popularity": 267,
   "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 283,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1771,10 +1771,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 1837,
       "NumberOfAwardsMax": 224
+    },
+    {
+      "Time": "2023-10-14T19:03:24.4248242+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1839,
+      "NumberOfAwardsMax": 224
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1837,
+  "NumberOfAwards": 1839,
   "NumberOfAwardsMax": 224,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -1800,7 +1806,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 209
+      "Count": 210
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1812,7 +1818,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 212
+      "Count": 213
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1851,7 +1857,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14681,
+  "EOS_Progressed": 14684,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 0,
@@ -13841,6 +13847,11 @@
       "Time": "2023-10-14T18:07:15.9730347+00:00",
       "NumProgressed": 14681,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-14T19:07:52.6502096+00:00",
+      "NumProgressed": 14684,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -14306,9 +14317,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_GOOD",
       "SetID": "7l38kb8",
       "Name": "Good",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 294
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_GREAT",
@@ -14330,9 +14341,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_INTERCESSOR",
       "SetID": "9201eeb",
       "Name": "Intercessor",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 88
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INTREPID",
@@ -14482,9 +14493,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
       "SetID": "7l38kb8",
       "Name": "Strong",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 147
+      "UsersEstimate": 294
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_SUBJUGATOR",
@@ -14506,9 +14517,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_VICTORIOUS",
       "SetID": "9201eeb",
       "Name": "Victorious",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 88
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_WARRIOR",
@@ -15066,9 +15077,9 @@
       "ID": "ACHIEVEMENT_GREECE5_PERSIAN_GATE",
       "SetID": "9201eeb",
       "Name": "Gate to Victory",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_GREECE5_PHARAOH",
@@ -15090,25 +15101,25 @@
       "ID": "ACHIEVEMENT_GREECE5_VICTORY",
       "SetID": "9201eeb",
       "Name": "Alexander the Mediocre",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_GREECE5_VICTORY_BEST",
       "SetID": "9201eeb",
       "Name": "Alexander the Great",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_GREECE5_VICTORY_BETTER",
       "SetID": "9201eeb",
       "Name": "Alexander the Alright",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_GREECE6_ANTIGONID",
@@ -15490,9 +15501,9 @@
       "ID": "ACHIEVEMENT_NATION_HITTITE",
       "SetID": "9201eeb",
       "Name": "Hatti",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_NATION_PERSIA",
@@ -16587,21 +16598,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14681,
+      "Progressed": 14684,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14681,
+      "Progressed": 14684,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
-  "LastChanged": "2023-10-14T15:03:34.4964614+00:00",
-  "LastChanged_Achievements": "2023-10-14T18:07:15.973034+00:00",
+  "LastChanged": "2023-10-14T19:03:24.424824+00:00",
+  "LastChanged_Achievements": "2023-10-14T19:07:52.6502091+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:21.7880328+00:00",
-  "LastUpdate_Ratings": "2023-10-14T18:03:21.5811272+00:00",
-  "LastUpdate_Achievements": "2023-10-14T18:07:15.9741569+00:00"
+  "LastUpdate_Ratings": "2023-10-14T19:03:24.4248244+00:00",
+  "LastUpdate_Achievements": "2023-10-14T19:07:52.6512251+00:00"
 }

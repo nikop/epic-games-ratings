@@ -4,8 +4,8 @@
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 289,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2016-03-24T11:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 92,
+  "EOS_Progressed": 93,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.52,
+  "EOS_Completed_Percentage": 6.45,
   "EosHistory": [
     {
       "Time": "2023-07-02T13:13:21.8292114+00:00",
@@ -496,6 +496,11 @@
       "Time": "2023-10-13T14:05:33.0548073+00:00",
       "NumProgressed": 92,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-14T19:05:41.6019854+00:00",
+      "NumProgressed": 93,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.2091186+00:00",
@@ -586,7 +591,7 @@
       "ID": "Kudla",
       "SetID": "ag48e8e",
       "Name": "Knife",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 30,
       "UsersEstimate": 54
     },
@@ -674,7 +679,7 @@
       "ID": "SpiciPapouch",
       "SetID": "ag48e8e",
       "Name": "Sleeping Parrot",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 30,
       "UsersEstimate": 30
     },
@@ -690,7 +695,7 @@
       "ID": "Stonozka",
       "SetID": "ag48e8e",
       "Name": "Centipede",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 30,
       "UsersEstimate": 19
     },
@@ -747,14 +752,14 @@
     {
       "ID": "ag48e8e",
       "IsBase": true,
-      "Progressed": 92,
+      "Progressed": 93,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-10-14T18:05:17.2416809+00:00",
+  "LastChanged_Achievements": "2023-10-14T19:05:41.601985+00:00",
   "LastUpdate_AppInfo": "2023-10-13T23:57:20.3362451+00:00",
-  "LastUpdate_Ratings": "2023-10-14T17:59:17.4836341+00:00",
-  "LastUpdate_Achievements": "2023-10-14T18:05:17.2417062+00:00"
+  "LastUpdate_Ratings": "2023-10-14T18:59:35.0372092+00:00",
+  "LastUpdate_Achievements": "2023-10-14T19:05:41.602006+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 240,
   "Ranking_PopularitySum": 196,
   "Ranking_EOS_Progress": 123,
-  "Ranking_EOS_Completed": 247,
+  "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -9247,9 +9247,9 @@
       "ID": "Negotiator",
       "SetID": "d0jo315",
       "Name": "Negotiator",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 167
+      "UsersEstimate": 188
     },
     {
       "ID": "Perfectionist",
@@ -9319,8 +9319,8 @@
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-10-11T18:00:29.5286227+00:00",
-  "LastChanged_Achievements": "2023-10-14T18:08:23.8033236+00:00",
+  "LastChanged_Achievements": "2023-10-14T19:08:36.0266545+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:53.7092922+00:00",
-  "LastUpdate_Ratings": "2023-10-14T18:00:52.9572608+00:00",
-  "LastUpdate_Achievements": "2023-10-14T18:08:23.8034676+00:00"
+  "LastUpdate_Ratings": "2023-10-14T19:01:39.0297152+00:00",
+  "LastUpdate_Achievements": "2023-10-14T19:08:36.0267013+00:00"
 }

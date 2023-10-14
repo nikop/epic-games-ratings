@@ -2,10 +2,10 @@
   "ID": "cd8a253549eb42ce8ce491e09ca49690",
   "Name": "Iron Danger",
   "ProductSlug": "iron-danger-b4320c",
-  "Ranking_EOS_Progress": 319,
+  "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 261,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-01-18T18:00:00+00:00",
     "PcReleaseDate": "2020-03-25T00:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 277,
+  "EOS_Progressed": 278,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.44,
   "EosHistory": [
@@ -606,6 +606,11 @@
       "Time": "2023-10-12T21:07:12.2562898+00:00",
       "NumProgressed": 277,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-14T19:03:57.8688829+00:00",
+      "NumProgressed": 278,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 23,
@@ -737,7 +742,7 @@
       "Name": "First Shard",
       "Percentage": 81,
       "XP": 40,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "ACH_SHARD_2",
@@ -800,7 +805,7 @@
     {
       "ID": "ao59f0i",
       "IsBase": true,
-      "Progressed": 277,
+      "Progressed": 278,
       "Completed": 4
     }
   ],
@@ -808,8 +813,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5649613+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.5378421+00:00",
   "LastChanged": "2023-03-31T05:58:48.5649614+00:00",
-  "LastChanged_Achievements": "2023-10-14T18:03:50.2503378+00:00",
+  "LastChanged_Achievements": "2023-10-14T19:03:57.8688823+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:08.1615179+00:00",
-  "LastUpdate_Ratings": "2023-10-14T17:58:50.5214319+00:00",
-  "LastUpdate_Achievements": "2023-10-14T18:03:50.2503603+00:00"
+  "LastUpdate_Ratings": "2023-10-14T18:59:04.6084459+00:00",
+  "LastUpdate_Achievements": "2023-10-14T19:03:57.8688988+00:00"
 }
