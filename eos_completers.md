@@ -1,10 +1,10 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 50.91% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 50.88% |
 | 3 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 47.17% |
-| 5 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.34% |
+| 5 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.15% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
 | 7 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 33.33% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 31.86% |
@@ -43,13 +43,13 @@
 | 41 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.67% |
 | 42 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 42 | [Ravenlok](games/r/ravenlok.md) | 7.69% |
-| 44 | [Sonic Origins](games/s/sonic_origins.md) | 7.64% |
+| 44 | [Sonic Origins](games/s/sonic_origins.md) | 7.62% |
 | 45 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.61% |
 | 46 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.52% |
 | 47 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.41% |
 | 48 | [Time Loader](games/t/time_loader.md) | 7.20% |
 | 49 | [Scorn](games/s/scorn.md) | 7.02% |
-| 50 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.74% |
+| 50 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.71% |
 | 51 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.52% |
 | 52 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.29% |
 | 53 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -74,7 +74,7 @@
 | 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.92% |
 | 73 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.83% |
 | 74 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
-| 75 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.79% |
+| 75 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.76% |
 | 76 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.66% |
 | 77 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
 | 77 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.57% |
@@ -122,8 +122,8 @@
 | 120 | [Somerville](games/s/somerville.md) | 1.70% |
 | 121 | [Five Dates](games/f/five_dates.md) | 1.62% |
 | 122 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.49% |
-| 122 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.49% |
-| 124 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
+| 123 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
+| 124 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.47% |
 | 125 | [Iron Danger](games/i/iron_danger.md) | 1.44% |
 | 126 | [Late Shift](games/l/late_shift.md) | 1.40% |
 | 127 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.38% |

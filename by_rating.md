@@ -612,7 +612,7 @@
 | 607 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.48 | 38 | 444 |
 | 607 | [Railway Empire 2](games/r/railway_empire_2.md) | 4.48 | 0 | 535 |
 | 607 | [Redout 2](games/r/redout_2.md) | 4.48 | 0 | 535 |
-| 607 | [Rocket League®](games/r/rocket_league®.md) | 4.48 | 574,617 | 2 |
+| 607 | [Rocket League®](games/r/rocket_league®.md) | 4.48 | 576,091 | 2 |
 | 607 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.48 | 0 | 535 |
 | 607 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.48 | 0 | 535 |
 | 607 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.48 | 103 | 341 |
@@ -682,7 +682,7 @@
 | 672 | [Predecessor](games/p/predecessor.md) | 4.43 | 187 | 284 |
 | 672 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 0 | 535 |
 | 672 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 0 | 535 |
-| 672 | [SMITE](games/s/smite.md) | 4.43 | 4,434 | 79 |
+| 672 | [SMITE](games/s/smite.md) | 4.43 | 4,441 | 79 |
 | 672 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.43 | 0 | 535 |
 | 672 | [STG Football](games/s/stg_football.md) | 4.43 | 45 | 426 |
 | 672 | [The Surge](games/t/the_surge.md) | 4.43 | 29 | 477 |
@@ -922,19 +922,19 @@
 | 914 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 0 | 535 |
 | 921 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 4.14 | 0 | 535 |
 | 921 | [God's Trigger](games/g/god's_trigger.md) | 4.14 | 27 | 490 |
+| 921 | [Model Builder](games/m/model_builder.md) | 4.14 | 0 | 535 |
 | 921 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 4.14 | 0 | 535 |
 | 921 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.14 | 0 | 535 |
 | 921 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.14 | 0 | 535 |
-| 926 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 0 | 535 |
-| 926 | [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 4.13 | 20 | 526 |
-| 926 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.13 | 0 | 535 |
-| 929 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 4.12 | 0 | 535 |
-| 929 | [Model Builder](games/m/model_builder.md) | 4.12 | 0 | 535 |
+| 927 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 0 | 535 |
+| 927 | [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 4.13 | 20 | 526 |
+| 927 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.13 | 0 | 535 |
+| 930 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 4.12 | 0 | 535 |
+| 931 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 4.11 | 0 | 535 |
 | 931 | [Train Sim World® 4: Standard Edition](games/c/c2e18b972be9485bbc408c021e620cff.md) | 4.11 | 20 | 526 |
-| 932 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 91 | 360 |
-| 932 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.10 | 0 | 535 |
-| 932 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 4.10 | 0 | 535 |
-| 932 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,519 | 102 |
+| 933 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 91 | 360 |
+| 933 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.10 | 0 | 535 |
+| 933 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,519 | 102 |
 | 936 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.09 | 0 | 535 |
 | 936 | [Fangs](games/f/fangs.md) | 4.09 | 0 | 535 |
 | 936 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.09 | 0 | 535 |
@@ -984,11 +984,11 @@
 | 981 | [Conarium](games/c/conarium.md) | 3.93 | 0 | 535 |
 | 983 | [Starsiege: Deadzone](games/c/c295bb538708462cb6bd764eabf6b80f.md) | 3.92 | 0 | 535 |
 | 983 | [The Great War: Western Front™](games/t/the_great_war__western_front™.md) | 3.92 | 0 | 535 |
+| 985 | [BLOCKLORDS](games/8/869be603dee2405197126408e11eb41c.md) | 3.91 | 0 | 535 |
 | 985 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 3.91 | 0 | 535 |
 | 985 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 341 |
-| 987 | [Chimeraland](games/c/chimeraland.md) | 3.90 | 28 | 482 |
-| 987 | [Warface](games/w/warface.md) | 3.90 | 427 | 215 |
-| 989 | [BLOCKLORDS](games/8/869be603dee2405197126408e11eb41c.md) | 3.88 | 0 | 535 |
+| 988 | [Chimeraland](games/c/chimeraland.md) | 3.90 | 28 | 482 |
+| 988 | [Warface](games/w/warface.md) | 3.90 | 427 | 215 |
 | 990 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 3.86 | 0 | 535 |
 | 990 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 0 | 535 |
 | 992 | [Stygian: Reign of the Old Ones](games/s/stygian__reign_of_the_old_ones.md) | 3.85 | 0 | 535 |

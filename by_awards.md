@@ -1,7 +1,7 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
 | 1 | [Fortnite](games/f/fortnite.md) | 1,813,870 | 4.29 | 818 |
-| 2 | [Rocket League®](games/r/rocket_league®.md) | 574,617 | 4.48 | 607 |
+| 2 | [Rocket League®](games/r/rocket_league®.md) | 576,091 | 4.48 | 607 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 310,011 | 4.68 | 241 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 241,745 | 4.68 | 241 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 206,530 | 4.19 | 891 |
@@ -78,7 +78,7 @@
 | 76 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,631 | 4.56 | 473 |
 | 77 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,604 | 4.70 | 203 |
 | 78 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,586 | 4.70 | 203 |
-| 79 | [SMITE](games/s/smite.md) | 4,434 | 4.43 | 672 |
+| 79 | [SMITE](games/s/smite.md) | 4,441 | 4.43 | 672 |
 | 80 | [God of War](games/g/god_of_war.md) | 4,276 | 4.88 | 16 |
 | 81 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,137 | 4.51 | 551 |
 | 82 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4,077 | 4.57 | 454 |
@@ -101,7 +101,7 @@
 | 99 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 2,720 | 4.34 | 782 |
 | 100 | [Path of Exile](games/p/path_of_exile.md) | 2,657 | 4.62 | 353 |
 | 101 | [RAGE 2](games/r/rage_2.md) | 2,599 | 4.27 | 836 |
-| 102 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,519 | 4.10 | 932 |
+| 102 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,519 | 4.10 | 933 |
 | 103 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,487 | 4.80 | 82 |
 | 104 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,431 | 4.78 | 99 |
 | 105 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,261 | 4.67 | 262 |
@@ -214,7 +214,7 @@
 | 212 | [Against the Storm](games/a/against_the_storm.md) | 436 | 4.81 | 76 |
 | 213 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 435 | 4.70 | 203 |
 | 214 | [Into the Breach](games/i/into_the_breach.md) | 429 | 4.84 | 49 |
-| 215 | [Warface](games/w/warface.md) | 427 | 3.90 | 987 |
+| 215 | [Warface](games/w/warface.md) | 427 | 3.90 | 988 |
 | 216 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 426 | 4.73 | 163 |
 | 217 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 424 | 4.70 | 203 |
 | 218 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 420 | 4.50 | 573 |
@@ -359,7 +359,7 @@
 | 357 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 94 | 4.17 | 904 |
 | 357 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 94 | 4.83 | 56 |
 | 359 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 93 | 4.55 | 492 |
-| 360 | [Armored Warfare](games/a/armored_warfare.md) | 91 | 4.10 | 932 |
+| 360 | [Armored Warfare](games/a/armored_warfare.md) | 91 | 4.10 | 933 |
 | 360 | [Darksiders III](games/d/darksiders_iii.md) | 91 | 4.50 | 573 |
 | 360 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 91 | 4.69 | 221 |
 | 363 | [RAILGRADE](games/r/railgrade.md) | 90 | 4.55 | 492 |
@@ -481,7 +481,7 @@
 | 477 | [Speed Brawl](games/s/speed_brawl.md) | 29 | 4.32 | 799 |
 | 477 | [The Surge](games/t/the_surge.md) | 29 | 4.43 | 672 |
 | 477 | [Warpips](games/w/warpips.md) | 29 | 4.42 | 688 |
-| 482 | [Chimeraland](games/c/chimeraland.md) | 28 | 3.90 | 987 |
+| 482 | [Chimeraland](games/c/chimeraland.md) | 28 | 3.90 | 988 |
 | 482 | [Far Cry](games/f/far_cry.md) | 28 | 4.51 | 551 |
 | 482 | [Forspoken](games/f/forspoken.md) | 28 | 4.15 | 914 |
 | 482 | [Rayman Origins](games/r/rayman_origins.md) | 28 | 4.86 | 28 |
@@ -525,7 +525,7 @@
 | 516 | [We Were Here Forever](games/w/we_were_here_forever.md) | 22 | 4.68 | 241 |
 | 524 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 21 | 4.63 | 337 |
 | 524 | [Moving Out](games/m/moving_out.md) | 21 | 4.58 | 437 |
-| 526 | [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 20 | 4.13 | 926 |
+| 526 | [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 20 | 4.13 | 927 |
 | 526 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 20 | 4.42 | 688 |
 | 526 | [Figment](games/f/figment.md) | 20 | 4.46 | 628 |
 | 526 | [Mortal Shell](games/m/mortal_shell.md) | 20 | 4.28 | 828 |
