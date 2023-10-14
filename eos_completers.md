@@ -2,7 +2,7 @@
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 1 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 100.00% |
-| 3 | [The Riflemen](games/t/the_riflemen.md) | 50.00% |
+| 3 | [The Riflemen](games/t/the_riflemen.md) | 49.91% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.15% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.99% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
@@ -31,7 +31,7 @@
 | 29 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 11.59% |
 | 30 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 11.29% |
 | 31 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
-| 32 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.08% |
+| 32 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.07% |
 | 33 | [Anna's Quest](games/a/anna's_quest.md) | 10.91% |
 | 34 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.85% |
 | 35 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.53% |
@@ -71,7 +71,7 @@
 | 69 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.10% |
 | 69 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.10% |
 | 71 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.00% |
-| 72 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.97% |
+| 72 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.98% |
 | 73 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.83% |
 | 74 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
 | 75 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.65% |
@@ -158,8 +158,8 @@
 | 156 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.73% |
 | 157 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.72% |
 | 157 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.72% |
-| 159 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.66% |
-| 159 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.66% |
+| 159 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.69% |
+| 160 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.66% |
 | 161 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.64% |
 | 162 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
 | 163 | [Potion Permit](games/p/potion_permit.md) | 0.62% |
@@ -186,8 +186,8 @@
 | 184 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.45% |
 | 185 | [Tchia](games/t/tchia.md) | 0.44% |
 | 186 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.43% |
-| 187 | [It Takes Two](games/i/it_takes_two.md) | 0.42% |
-| 187 | [Wildermyth](games/w/wildermyth.md) | 0.42% |
+| 186 | [It Takes Two](games/i/it_takes_two.md) | 0.43% |
+| 188 | [Wildermyth](games/w/wildermyth.md) | 0.42% |
 | 189 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 190 | [Train Valley](games/t/train_valley.md) | 0.39% |
 | 191 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.38% |
@@ -275,13 +275,13 @@
 | 270 | [House Party](games/h/house_party.md) | 0.05% |
 | 270 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.05% |
 | 270 | [MythForce](games/m/mythforce.md) | 0.05% |
-| 276 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.04% |
-| 276 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 0.04% |
-| 276 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.04% |
-| 276 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 0.04% |
-| 276 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.04% |
-| 276 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.04% |
-| 276 | [Tropico 6](games/t/tropico_6.md) | 0.04% |
+| 270 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.05% |
+| 277 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.04% |
+| 277 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 0.04% |
+| 277 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.04% |
+| 277 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 0.04% |
+| 277 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.04% |
+| 277 | [Tropico 6](games/t/tropico_6.md) | 0.04% |
 | 283 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
 | 283 | [Old World](games/o/old_world.md) | 0.03% |
 | 283 | [Session: Skate Sim](games/s/session__skate_sim.md) | 0.03% |
