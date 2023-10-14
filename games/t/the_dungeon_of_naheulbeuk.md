@@ -6,12 +6,12 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 33.00% | ~76,166 |
-| Where's that freaking Dwarf? | 6.00% | ~13,848 |
-| Alt+F4 | 6.00% | ~13,848 |
-| Déjà vu | 5.00% | ~11,540 |
-| Sock! SOCK! | 4.00% | ~9,232 |
-| Speedrun | 4.00% | ~9,232 |
+| Sowwy! | 33.00% | ~76,169 |
+| Where's that freaking Dwarf? | 6.00% | ~13,849 |
+| Alt+F4 | 6.00% | ~13,849 |
+| Déjà vu | 5.00% | ~11,541 |
+| Sock! SOCK! | 4.00% | ~9,233 |
+| Speedrun | 4.00% | ~9,233 |
 | A beer, two curses, three companions | 3.00% | ~6,924 |
 | GG EZ | 3.00% | ~6,924 |
 | DM intervention | 3.00% | ~6,924 |
@@ -43,7 +43,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dead for good | 0.90% | ~2,077 |
 | Lust and Debauchery | 0.90% | ~2,077 |
 | Material Girl | 0.90% | ~2,077 |
-| Gargantua | 0.80% | ~1,846 |
+| Gargantua | 0.80% | ~1,847 |
 | In Navalu's footsteps | 0.70% | ~1,616 |
 | We come in peace | 0.60% | ~1,385 |
 | Lëgal Legend | 0.60% | ~1,385 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~231 |
 | Dwarf Candy | 0.10% | ~231 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,805 (Ranked 60)  
+Progressed: 230,816 (Ranked 60)  
 Completed: 5 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,19 +231,19 @@ Completed: 5 (0.00%) (Ranked 314)
 | 2023-10-11 | 230,189 | 5 |
 | 2023-10-12 | 230,376 | 5 |
 | 2023-10-13 | 230,591 | 5 |
-| 2023-10-14 | 230,805 | 5 |
+| 2023-10-14 | 230,816 | 5 |
 ## Awards
 Max (Character Customization): 214  (Ranked 275)  
-Sum: 422 (Ranked 325)  
+Sum: 424 (Ranked 325)  
 Diff (max vs sum): -50  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 214 |
 | This game is Relaxing | 35 |
 | This game is Great for Beginners | 31 |
-| This game is Highly Recommended | 26 |
+| This game is Highly Recommended | 27 |
 | This game has Amazing Characters | 25 |
-| This game has Amazing Storytelling | 23 |
+| This game has Amazing Storytelling | 24 |
 | This game has Quickly Understood Controls | 23 |
 | This game is Extremely Fun | 23 |
 | This game has Diverse Characters | 22 |
@@ -406,4 +406,4 @@ Diff (max vs sum): -50
 | 2023-10-10 | 4.59 | - | 210 | 415 |
 | 2023-10-11 | 4.59 | - | 212 | 419 |
 | 2023-10-13 | 4.59 | - | 214 | 421 |
-| 2023-10-14 | 4.59 | - | 214 | 422 |
+| 2023-10-14 | 4.59 | - | 214 | 424 |

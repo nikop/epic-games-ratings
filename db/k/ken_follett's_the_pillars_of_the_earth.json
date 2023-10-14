@@ -531,9 +531,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 15738,
+  "EOS_Progressed": 15740,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -12046,6 +12046,11 @@
       "Time": "2023-10-14T19:03:52.4104792+00:00",
       "NumProgressed": 15738,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-10-14T20:04:12.0192106+00:00",
+      "NumProgressed": 15740,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 41,
@@ -12073,7 +12078,7 @@
       "Name": "Wannabe knight",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3777
+      "UsersEstimate": 3778
     },
     {
       "ID": "tpote_achievement_12",
@@ -12113,7 +12118,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2203
+      "UsersEstimate": 2204
     },
     {
       "ID": "tpote_achievement_17",
@@ -12121,7 +12126,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2675
+      "UsersEstimate": 2676
     },
     {
       "ID": "tpote_achievement_18",
@@ -12161,7 +12166,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4721
+      "UsersEstimate": 4722
     },
     {
       "ID": "tpote_achievement_22",
@@ -12225,7 +12230,7 @@
       "Name": "Skilled merchant",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1416
+      "UsersEstimate": 1417
     },
     {
       "ID": "tpote_achievement_3",
@@ -12233,7 +12238,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5036
+      "UsersEstimate": 5037
     },
     {
       "ID": "tpote_achievement_30",
@@ -12257,7 +12262,7 @@
       "Name": "Jack was here!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2203
+      "UsersEstimate": 2204
     },
     {
       "ID": "tpote_achievement_33",
@@ -12265,7 +12270,7 @@
       "Name": "Nothing but make-believe",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1416
+      "UsersEstimate": 1417
     },
     {
       "ID": "tpote_achievement_34",
@@ -12289,7 +12294,7 @@
       "Name": "Brother Marcus",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1416
+      "UsersEstimate": 1417
     },
     {
       "ID": "tpote_achievement_37",
@@ -12313,7 +12318,7 @@
       "Name": "The oath",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1416
+      "UsersEstimate": 1417
     },
     {
       "ID": "tpote_achievement_4",
@@ -12321,7 +12326,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6295
+      "UsersEstimate": 6296
     },
     {
       "ID": "tpote_achievement_40",
@@ -12329,7 +12334,7 @@
       "Name": "The truth revealed",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1416
+      "UsersEstimate": 1417
     },
     {
       "ID": "tpote_achievement_41",
@@ -12337,7 +12342,7 @@
       "Name": "The End.",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 1416
+      "UsersEstimate": 1417
     },
     {
       "ID": "tpote_achievement_5",
@@ -12345,7 +12350,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 3777
+      "UsersEstimate": 3778
     },
     {
       "ID": "tpote_achievement_6",
@@ -12353,7 +12358,7 @@
       "Name": "Full house",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3777
+      "UsersEstimate": 3778
     },
     {
       "ID": "tpote_achievement_7",
@@ -12369,7 +12374,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3462
+      "UsersEstimate": 3463
     },
     {
       "ID": "tpote_achievement_9",
@@ -12377,22 +12382,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 5508
+      "UsersEstimate": 5509
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15738,
+      "Progressed": 15740,
       "Completed": 113
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-10-14T16:59:08.0001807+00:00",
-  "LastChanged_Achievements": "2023-10-14T19:03:52.4104788+00:00",
+  "LastChanged_Achievements": "2023-10-14T20:04:12.01921+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:18.9172053+00:00",
-  "LastUpdate_Ratings": "2023-10-14T18:59:28.8155361+00:00",
-  "LastUpdate_Achievements": "2023-10-14T19:03:52.4105572+00:00"
+  "LastUpdate_Ratings": "2023-10-14T20:00:08.2639981+00:00",
+  "LastUpdate_Achievements": "2023-10-14T20:04:12.0193882+00:00"
 }

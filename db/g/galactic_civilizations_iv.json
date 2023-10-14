@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 286,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -912,7 +912,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 6824,
+  "EOS_Progressed": 6825,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
@@ -6967,6 +6967,11 @@
       "Time": "2023-10-14T18:04:29.1946411+00:00",
       "NumProgressed": 6824,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-14T20:05:00.4385554+00:00",
+      "NumProgressed": 6825,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -7010,7 +7015,7 @@
       "Name": "Commodity Trader",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2115
+      "UsersEstimate": 2116
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -7018,7 +7023,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 4231
+      "UsersEstimate": 4232
     },
     {
       "ID": "Control_All_Relics",
@@ -7066,7 +7071,7 @@
       "Name": "Gain an Ally",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "First_Nebula_Anomaly",
@@ -7082,7 +7087,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5323
+      "UsersEstimate": 5324
     },
     {
       "ID": "First_Race_Met",
@@ -7114,7 +7119,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5323
+      "UsersEstimate": 5324
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -7298,7 +7303,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 4231
+      "UsersEstimate": 4232
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -7322,7 +7327,7 @@
       "Name": "War with the Unknown",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "Win_As_Altarian",
@@ -7490,7 +7495,7 @@
       "Name": "Win with a Custom Faction",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "Win_Diplomacy",
@@ -7530,7 +7535,7 @@
       "Name": "Prestige Victory!",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 955
+      "UsersEstimate": 956
     },
     {
       "ID": "Win_Quickly",
@@ -7553,15 +7558,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6824,
+      "Progressed": 6825,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-10-14T19:04:32.8508794+00:00",
+  "LastChanged_Achievements": "2023-10-14T20:05:00.4385549+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:21.0832103+00:00",
-  "LastUpdate_Ratings": "2023-10-14T19:01:45.74588+00:00",
-  "LastUpdate_Achievements": "2023-10-14T19:04:32.8509665+00:00"
+  "LastUpdate_Ratings": "2023-10-14T20:02:51.6498505+00:00",
+  "LastUpdate_Achievements": "2023-10-14T20:05:00.4387501+00:00"
 }

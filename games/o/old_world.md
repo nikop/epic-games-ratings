@@ -27,6 +27,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble | 1.00% | ~147 |
 | Pioneer | 1.00% | ~147 |
 | Warrior | 1.00% | ~147 |
+| Wise | 1.00% | ~147 |
 | Developing Cities | 1.00% | ~147 |
 | Strong Cities | 1.00% | ~147 |
 | Hanging Gardens | 1.00% | ~147 |
@@ -45,7 +46,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Pyramids | 1.00% | ~147 |
 | Kushite Paganism | 1.00% | ~147 |
 | Brilliant | 0.90% | ~132 |
-| Wise | 0.90% | ~132 |
 | Able Difficulty | 0.90% | ~132 |
 | Furious Family | 0.90% | ~132 |
 | Great Ziggurat | 0.90% | ~132 |
@@ -53,14 +53,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | Manichaeism | 0.90% | ~132 |
 | Egyptian Paganism | 0.90% | ~132 |
 | Roman Paganism | 0.90% | ~132 |
-| Regicide | 0.80% | ~117 |
-| Drillmaster | 0.80% | ~117 |
-| Great | 0.80% | ~117 |
-| Legendary Cities | 0.80% | ~117 |
-| Apadana | 0.80% | ~117 |
-| Colossus | 0.80% | ~117 |
-| Musaeum | 0.80% | ~117 |
-| Necropolis | 0.80% | ~117 |
+| Regicide | 0.80% | ~118 |
+| Drillmaster | 0.80% | ~118 |
+| Great | 0.80% | ~118 |
+| Legendary Cities | 0.80% | ~118 |
+| Apadana | 0.80% | ~118 |
+| Colossus | 0.80% | ~118 |
+| Musaeum | 0.80% | ~118 |
+| Necropolis | 0.80% | ~118 |
 | Mighty | 0.70% | ~103 |
 | Valiant | 0.70% | ~103 |
 | Just Difficulty | 0.70% | ~103 |
@@ -83,6 +83,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Good Difficulty | 0.50% | ~73 |
 | Patrons | 0.50% | ~73 |
 | Riders | 0.50% | ~73 |
+| Hittite Iron | 0.50% | ~73 |
 | Circus Maximus | 0.50% | ~73 |
 | Hagia Sophia | 0.50% | ~73 |
 | Temple of Solomon | 0.50% | ~73 |
@@ -104,11 +105,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Landowners | 0.40% | ~59 |
 | Statesmen | 0.40% | ~59 |
 | Traders | 0.40% | ~59 |
-| Hittite Iron | 0.40% | ~59 |
 | Church of the Holy Sepulchre | 0.40% | ~59 |
 | Babylonia | 0.40% | ~59 |
 | Carthage | 0.40% | ~59 |
 | Assyrian Paganism | 0.40% | ~59 |
+| Hittite Paganism | 0.40% | ~59 |
 | Economic Reform | 0.40% | ~59 |
 | Military Prestige | 0.40% | ~59 |
 | Dualism | 0.40% | ~59 |
@@ -120,6 +121,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Phalangite | 0.40% | ~59 |
 | Ambition Victory | 0.40% | ~59 |
 | The Clergy | 0.40% | ~59 |
+| The Great Mage | 0.40% | ~59 |
 | Poetic Leader | 0.40% | ~59 |
 | Kmt Unified | 0.40% | ~59 |
 | Bad Heir Day | 0.30% | ~44 |
@@ -134,13 +136,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Rome | 0.30% | ~44 |
 | Old World Order | 0.30% | ~44 |
 | One True Faith | 0.30% | ~44 |
-| Hittite Paganism | 0.30% | ~44 |
 | Industrial Progress | 0.30% | ~44 |
 | Enlightenment | 0.30% | ~44 |
 | Cataphract Archer | 0.30% | ~44 |
 | Turreted Elephant | 0.30% | ~44 |
 | All Nations | 0.30% | ~44 |
-| The Great Mage | 0.30% | ~44 |
+| Rmt n Kmt Buhen | 0.30% | ~44 |
 | Ishtar Gate in Babylon | 0.20% | ~29 |
 | Carthage - Ox Hide | 0.20% | ~29 |
 | Old | 0.20% | ~29 |
@@ -155,7 +156,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Three Man Chariot | 0.20% | ~29 |
 | Siege Tower | 0.20% | ~29 |
 | No Undo | 0.20% | ~29 |
-| Rmt n Kmt Buhen | 0.20% | ~29 |
 | Greater Kmt Unified | 0.20% | ~29 |
 | Prosperous Kmt | 0.20% | ~29 |
 | Kush | 0.20% | ~29 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,684 (Ranked 134)  
+Progressed: 14,688 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -526,7 +526,7 @@ Completed: 5 (0.03%) (Ranked 283)
 | 2023-10-11 | 14,606 | 5 |
 | 2023-10-12 | 14,624 | 5 |
 | 2023-10-13 | 14,652 | 5 |
-| 2023-10-14 | 14,684 | 5 |
+| 2023-10-14 | 14,688 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,839 (Ranked 210)  

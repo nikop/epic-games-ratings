@@ -5,16 +5,16 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Glass Act | 39.00% | ~28 |
+| Relight my Cannon | 38.00% | ~27 |
 | Tour Guide Extraordinaire | 38.00% | ~27 |
-| Relight my Cannon | 36.00% | ~26 |
 | Puzzle Prodigy | 25.00% | ~18 |
 | Snitch | 24.00% | ~17 |
 | Explosive End | 22.00% | ~16 |
 | A Box of Tricks | 19.00% | ~14 |
+| Finger-Lickin' Bad | 18.00% | ~13 |
 | Backstory Buff | 17.00% | ~12 |
 | Bathroom Brawler | 17.00% | ~12 |
 | Codebreaker | 17.00% | ~12 |
-| Finger-Lickin' Bad | 17.00% | ~12 |
 | Set Sail | 17.00% | ~12 |
 | Flying High | 15.00% | ~11 |
 | Breathless End | 14.00% | ~10 |

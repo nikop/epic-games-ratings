@@ -1,7 +1,7 @@
 # Isonzo
 [Store](https://store.epicgames.com/en-US/p/isonzo)  
 [View Rawdata](../../db/i/isonzo.json)  
-Rating: 4.56 (Ranked 473)  
+Rating: 4.56 (Ranked 472)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -23,9 +23,9 @@ Number of Ratings: 98  (23.09.2022)
 | Ragazzi del '99 | 19.00% | ~1,339 |
 | The Lion of the Isonzo | 18.00% | ~1,268 |
 | Luigi Cadorna | 15.00% | ~1,057 |
+| Uomo Universale | 15.00% | ~1,057 |
 | Dirty Dozen | 14.00% | ~986 |
 | Shaken, Not Stirred | 14.00% | ~986 |
-| Uomo Universale | 14.00% | ~986 |
 | Die Bosniaken Kommen! | 13.00% | ~916 |
 | Machiavelli | 13.00% | ~916 |
 | Thus With A Kiss | 13.00% | ~916 |

@@ -26,17 +26,17 @@ Number of Ratings: 1,845  (23.09.2022)
 | Cursed Lands | 4.00% | ~677 |
 | A Real Challenge | 4.00% | ~677 |
 | Trade Baron | 4.00% | ~677 |
-| Serving Ale | 3.00% | ~507 |
-| Against All Odds | 3.00% | ~507 |
-| Ruined Armory | 3.00% | ~507 |
-| Haunted Forest | 3.00% | ~507 |
-| Levitating Monument | 3.00% | ~507 |
-| Flooded Mines | 3.00% | ~507 |
-| Monastery of the Holy Flame | 3.00% | ~507 |
-| Corrosive Torrent | 3.00% | ~507 |
-| Like a Machine | 3.00% | ~507 |
-| Defying the Crown | 3.00% | ~507 |
-| Into the Forest | 3.00% | ~507 |
+| Serving Ale | 3.00% | ~508 |
+| Against All Odds | 3.00% | ~508 |
+| Ruined Armory | 3.00% | ~508 |
+| Haunted Forest | 3.00% | ~508 |
+| Levitating Monument | 3.00% | ~508 |
+| Flooded Mines | 3.00% | ~508 |
+| Monastery of the Holy Flame | 3.00% | ~508 |
+| Corrosive Torrent | 3.00% | ~508 |
+| Like a Machine | 3.00% | ~508 |
+| Defying the Crown | 3.00% | ~508 |
+| Into the Forest | 3.00% | ~508 |
 | Refinery | 2.00% | ~338 |
 | Dangerous Lands | 2.00% | ~338 |
 | Fishmen Ritual Site | 2.00% | ~338 |
@@ -50,14 +50,14 @@ Number of Ratings: 1,845  (23.09.2022)
 | Lizard Utopia | 0.80% | ~135 |
 | Beaver Utopia | 0.70% | ~118 |
 | Human Utopia | 0.70% | ~118 |
-| The Queen's Chosen | 0.60% | ~101 |
+| The Queen's Chosen | 0.60% | ~102 |
 | Harpy Utopia | 0.40% | ~68 |
 | Ruins | 0.40% | ~68 |
 | Treasure | 0.30% | ~51 |
 | Higher Needs | 0.20% | ~34 |
 | Paradise | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,916 (Ranked 130)  
+Progressed: 16,917 (Ranked 130)  
 Completed: 52 (0.31%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,7 +234,7 @@ Completed: 52 (0.31%) (Ranked 202)
 | 2023-10-11 | 16,887 | 52 |
 | 2023-10-12 | 16,896 | 52 |
 | 2023-10-13 | 16,904 | 52 |
-| 2023-10-14 | 16,916 | 52 |
+| 2023-10-14 | 16,917 | 52 |
 ## Awards
 Max (Quickly Understood Controls): 436  (Ranked 212)  
 Sum: 3,190 (Ranked 168)  

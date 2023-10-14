@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 64,
+  "Ranking_EOS_NewPlayers": 65,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1028,10 +1028,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 286,
       "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2023-10-14T20:01:19.9023534+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 287,
+      "NumberOfAwardsMax": 44
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 286,
+  "NumberOfAwards": 287,
   "NumberOfAwardsMax": 44,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1063,7 +1069,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 34
+      "Count": 35
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1090,9 +1096,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 152157,
+  "EOS_Progressed": 152167,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1145,
+  "EOS_NewPlayers": 1143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11575,6 +11581,11 @@
       "Time": "2023-10-14T19:04:08.9132029+00:00",
       "NumProgressed": 152157,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-14T20:04:31.9355922+00:00",
+      "NumProgressed": 152167,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -11610,7 +11621,7 @@
       "Name": "Assimilation",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "ACQUIRE_ALLWEAPONS",
@@ -11666,7 +11677,7 @@
       "Name": "Hunt Down",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "DEFEAT_ARTISAN",
@@ -11746,7 +11757,7 @@
       "Name": "Celebration",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "DEFEAT_SHIDRA",
@@ -11810,7 +11821,7 @@
       "Name": "Predator",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "MISC_ENDING_PROPER",
@@ -11882,7 +11893,7 @@
       "Name": "Dream",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "QUEST_CODA",
@@ -11953,21 +11964,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 151740,
+      "Progressed": 151750,
       "Completed": 1158
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 152157,
+      "Progressed": 152167,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2023-10-14T19:00:29.1782348+00:00",
-  "LastChanged_Achievements": "2023-10-14T19:04:08.9132024+00:00",
+  "LastChanged": "2023-10-14T20:01:19.9023533+00:00",
+  "LastChanged_Achievements": "2023-10-14T20:04:31.9355916+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:33.8479674+00:00",
-  "LastUpdate_Ratings": "2023-10-14T19:00:29.1782352+00:00",
-  "LastUpdate_Achievements": "2023-10-14T19:04:08.9132835+00:00"
+  "LastUpdate_Ratings": "2023-10-14T20:01:19.9023539+00:00",
+  "LastUpdate_Achievements": "2023-10-14T20:04:31.9358183+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "mia-and-the-dragon-princess-f4e1d0",
   "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-05-04T07:00:00+00:00",
@@ -451,9 +451,9 @@
       "ID": "finger_lickin_bad",
       "SetID": "5anb57n",
       "Name": "Finger-Lickin\u0027 Bad",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "flying_high",
@@ -507,9 +507,9 @@
       "ID": "relight_my_cannon",
       "SetID": "5anb57n",
       "Name": "Relight my Cannon",
-      "Percentage": 36,
+      "Percentage": 38,
       "XP": 40,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "set_sail",
@@ -546,8 +546,8 @@
   ],
   "FirstSeen": "2023-05-13T16:58:04.6283661+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:18.2098384+00:00",
-  "LastChanged_Achievements": "2023-10-14T19:09:21.7508948+00:00",
+  "LastChanged_Achievements": "2023-10-14T20:09:47.2958397+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:44.1296427+00:00",
-  "LastUpdate_Ratings": "2023-10-14T19:01:08.9793849+00:00",
-  "LastUpdate_Achievements": "2023-10-14T19:09:21.750908+00:00"
+  "LastUpdate_Ratings": "2023-10-14T20:02:10.3658415+00:00",
+  "LastUpdate_Achievements": "2023-10-14T20:09:47.295865+00:00"
 }

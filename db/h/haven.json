@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -180,9 +180,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1485,
+  "EOS_Progressed": 1486,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -1935,6 +1935,11 @@
       "Time": "2023-10-13T22:09:04.4027957+00:00",
       "NumProgressed": 1485,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-14T20:03:53.3935478+00:00",
+      "NumProgressed": 1486,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -1978,7 +1983,7 @@
       "Name": "Unstoppable",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "14",
@@ -2010,7 +2015,7 @@
       "Name": "Balding bloot!",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 1158
+      "UsersEstimate": 1159
     },
     {
       "ID": "18",
@@ -2074,7 +2079,7 @@
       "Name": "In my shoes",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "25",
@@ -2106,7 +2111,7 @@
       "Name": "Hug therapy",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "30",
@@ -2154,7 +2159,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "7",
@@ -2185,15 +2190,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1485,
+      "Progressed": 1486,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-10-14T19:03:36.5727514+00:00",
+  "LastChanged_Achievements": "2023-10-14T20:03:53.3935473+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:47.4556768+00:00",
-  "LastUpdate_Ratings": "2023-10-14T18:58:21.9706245+00:00",
-  "LastUpdate_Achievements": "2023-10-14T19:03:36.5727853+00:00"
+  "LastUpdate_Ratings": "2023-10-14T19:58:44.1206433+00:00",
+  "LastUpdate_Achievements": "2023-10-14T20:03:53.393593+00:00"
 }

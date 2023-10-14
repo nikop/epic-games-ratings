@@ -2,7 +2,7 @@
   "ID": "4311a0ee99724086b1a4f261b827d038",
   "Name": "Homeworld Remastered Collection",
   "ProductSlug": "homeworld-remastered-collection",
-  "Ranking_Rating": 492,
+  "Ranking_Rating": 491,
   "Ranking_Popularity": 498,
   "Ranking_PopularitySum": 426,
   "Ranking_EOS_Progress": 61,
@@ -392,9 +392,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 226200,
+  "EOS_Progressed": 226220,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1626,
+  "EOS_NewPlayers": 1620,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9842,6 +9842,11 @@
       "Time": "2023-10-14T19:05:28.3979318+00:00",
       "NumProgressed": 226200,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-14T20:05:54.6320739+00:00",
+      "NumProgressed": 226220,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -9910,7 +9915,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 47502
+      "UsersEstimate": 47506
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -9918,7 +9923,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20358
+      "UsersEstimate": 20360
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -9926,7 +9931,7 @@
       "Name": "Return to Kharak",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 11310
+      "UsersEstimate": 11311
     },
     {
       "ID": "HW1_MISSION4_COMPLETE",
@@ -9934,7 +9939,7 @@
       "Name": "Great Wastelands Completed",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9048
+      "UsersEstimate": 9049
     },
     {
       "ID": "HW1_MISSION5_COMPLETE",
@@ -9950,7 +9955,7 @@
       "Name": "Diamond Shoals Completed",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 6786
+      "UsersEstimate": 6787
     },
     {
       "ID": "HW1_MISSION7_COMPLETE",
@@ -9990,7 +9995,7 @@
       "Name": "Keepers of Sajuuk Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1583
+      "UsersEstimate": 1584
     },
     {
       "ID": "HW2_MISSION11_COMPLETE",
@@ -9998,7 +10003,7 @@
       "Name": "Sacrifice Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1583
+      "UsersEstimate": 1584
     },
     {
       "ID": "HW2_MISSION12_COMPLETE",
@@ -10038,7 +10043,7 @@
       "Name": "Tanis Completed",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 29406
+      "UsersEstimate": 29409
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -10046,7 +10051,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 15834
+      "UsersEstimate": 15835
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -10094,7 +10099,7 @@
       "Name": "Dreadnaught Berth Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1583
+      "UsersEstimate": 1584
     },
     {
       "ID": "HW2_MISSION9_COMPLETE",
@@ -10110,7 +10115,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 56550
+      "UsersEstimate": 56555
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -10125,7 +10130,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 226200,
+      "Progressed": 226220,
       "Completed": 0
     }
   ],
@@ -10133,8 +10138,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-10-13T17:00:37.1431663+00:00",
-  "LastChanged_Achievements": "2023-10-14T19:05:28.3979315+00:00",
+  "LastChanged_Achievements": "2023-10-14T20:05:54.6320735+00:00",
   "LastUpdate_AppInfo": "2023-10-12T22:57:12.5355858+00:00",
-  "LastUpdate_Ratings": "2023-10-14T19:00:01.140971+00:00",
-  "LastUpdate_Achievements": "2023-10-14T19:05:28.3979975+00:00"
+  "LastUpdate_Ratings": "2023-10-14T20:00:42.4228737+00:00",
+  "LastUpdate_Achievements": "2023-10-14T20:05:54.632159+00:00"
 }

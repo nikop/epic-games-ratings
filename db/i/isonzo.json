@@ -2,12 +2,12 @@
   "ID": "30de69013f3b41b0ba594a8ef3b693ba",
   "Name": "Isonzo",
   "ProductSlug": "isonzo",
-  "Ranking_Rating": 473,
+  "Ranking_Rating": 472,
   "Ranking_Popularity": 452,
   "Ranking_PopularitySum": 359,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -6443,9 +6443,9 @@
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
       "SetID": "akchbl3",
       "Name": "Uomo Universale",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 986
+      "UsersEstimate": 1057
     },
     {
       "ID": "ISONZO_ACH_VENI_VIDI_VICI",
@@ -6476,8 +6476,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-09-23T14:01:09.047151+00:00",
-  "LastChanged_Achievements": "2023-10-14T19:09:17.0547985+00:00",
+  "LastChanged_Achievements": "2023-10-14T20:09:41.6720892+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:22.0219629+00:00",
-  "LastUpdate_Ratings": "2023-10-14T18:56:58.8110143+00:00",
-  "LastUpdate_Achievements": "2023-10-14T19:09:17.0548518+00:00"
+  "LastUpdate_Ratings": "2023-10-14T19:57:15.0842588+00:00",
+  "LastUpdate_Achievements": "2023-10-14T20:09:41.6721585+00:00"
 }

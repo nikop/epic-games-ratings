@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3530,9 +3530,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73508,
+  "EOS_Progressed": 73509,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 251,
+  "EOS_NewPlayers": 250,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -18680,6 +18680,11 @@
       "Time": "2023-10-14T19:05:10.2426496+00:00",
       "NumProgressed": 73508,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-10-14T20:05:33.5546122+00:00",
+      "NumProgressed": 73509,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 61,
@@ -18787,7 +18792,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 12496
+      "UsersEstimate": 12497
     },
     {
       "ID": "CLAYFACE_1",
@@ -18803,7 +18808,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13231
+      "UsersEstimate": 13232
     },
     {
       "ID": "CLAYFACE_3",
@@ -18843,7 +18848,7 @@
       "Name": "Expert Crime Fighter",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 4410
+      "UsersEstimate": 4411
     },
     {
       "ID": "CRIME_FIGHTER_2",
@@ -18915,7 +18920,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21317
+      "UsersEstimate": 21318
     },
     {
       "ID": "FREEZE_1_5",
@@ -19035,7 +19040,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 38224
+      "UsersEstimate": 38225
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -19067,7 +19072,7 @@
       "Name": "Knighthood",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20582
+      "UsersEstimate": 20583
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -19075,7 +19080,7 @@
       "Name": "A Worthy Successor",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 4410
+      "UsersEstimate": 4411
     },
     {
       "ID": "MYSTERY_01",
@@ -19115,7 +19120,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13231
+      "UsersEstimate": 13232
     },
     {
       "ID": "MYSTERY_06",
@@ -19178,13 +19183,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73508,
+      "Progressed": 73509,
       "Completed": 121
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43788,
+      "Progressed": 43789,
       "Completed": 2667
     }
   ],
@@ -19192,8 +19197,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-14T16:57:59.5053861+00:00",
-  "LastChanged_Achievements": "2023-10-14T19:05:10.242649+00:00",
+  "LastChanged_Achievements": "2023-10-14T20:05:33.5546117+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:41.7245252+00:00",
-  "LastUpdate_Ratings": "2023-10-14T18:58:11.3915876+00:00",
-  "LastUpdate_Achievements": "2023-10-14T19:05:10.242796+00:00"
+  "LastUpdate_Ratings": "2023-10-14T19:58:34.6172639+00:00",
+  "LastUpdate_Achievements": "2023-10-14T20:05:33.554849+00:00"
 }

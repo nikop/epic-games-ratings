@@ -4,7 +4,7 @@
   "ProductSlug": "its-a-wrap-f392ae",
   "Ranking_EOS_Progress": 376,
   "Ranking_EOS_Completed": 116,
-  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-08-23T17:30:00+00:00",
@@ -630,8 +630,8 @@
   ],
   "FirstSeen": "2023-08-25T08:57:40.9970991+00:00",
   "FirstSeenAchievements": "2023-08-01T21:04:35.2343064+00:00",
-  "LastChanged_Achievements": "2023-10-14T19:04:24.5318124+00:00",
+  "LastChanged_Achievements": "2023-10-14T20:04:50.6314633+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:13.8217954+00:00",
-  "LastUpdate_Ratings": "2023-10-14T18:57:30.4782286+00:00",
-  "LastUpdate_Achievements": "2023-10-14T19:04:24.5318237+00:00"
+  "LastUpdate_Ratings": "2023-10-14T19:57:45.1144737+00:00",
+  "LastUpdate_Achievements": "2023-10-14T20:04:50.6315191+00:00"
 }

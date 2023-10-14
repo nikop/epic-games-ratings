@@ -5241,9 +5241,9 @@
       "ID": "A00",
       "SetID": "9b7p7eo",
       "Name": "Apprentice",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 829
+      "UsersEstimate": 849
     },
     {
       "ID": "A01",
@@ -5690,8 +5690,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-10-13T21:01:21.7054072+00:00",
-  "LastChanged_Achievements": "2023-10-14T19:07:09.6447476+00:00",
+  "LastChanged_Achievements": "2023-10-14T20:07:55.8430843+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:04.7958216+00:00",
-  "LastUpdate_Ratings": "2023-10-14T18:56:59.2764014+00:00",
-  "LastUpdate_Achievements": "2023-10-14T19:07:09.644808+00:00"
+  "LastUpdate_Ratings": "2023-10-14T19:57:15.4353783+00:00",
+  "LastUpdate_Achievements": "2023-10-14T20:07:55.8432267+00:00"
 }

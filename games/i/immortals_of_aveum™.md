@@ -20,10 +20,10 @@ Rating: 4.05 (Ranked 956)
 | Control is an Illusion | 33.00% | ~29 |
 | The Means to Save It | 28.00% | ~24 |
 | Resilience to Sin | 23.00% | ~20 |
-| A Familiar Nest | 20.00% | ~17 |
-| Periapt Alizarin | 20.00% | ~17 |
+| A Familiar Nest | 21.00% | ~18 |
+| Periapt Alizarin | 21.00% | ~18 |
+| Armsman | 20.00% | ~17 |
 | Geas Aristeya | 18.00% | ~16 |
-| Armsman | 18.00% | ~16 |
 | A Perfect Cycle | 16.00% | ~14 |
 | Recruit | 16.00% | ~14 |
 | Good Boy | 13.00% | ~11 |
@@ -35,8 +35,8 @@ Rating: 4.05 (Ranked 956)
 | Scholar | 7.00% | ~6 |
 | Armaments Azure | 7.00% | ~6 |
 | Veteran | 7.00% | ~6 |
+| Best Dressed | 6.00% | ~5 |
 | Kitted Out | 5.00% | ~4 |
-| Best Dressed | 5.00% | ~4 |
 | Armaments Vert | 5.00% | ~4 |
 | Shroudfane Surveyor | 5.00% | ~4 |
 | Treasure Hunter | 5.00% | ~4 |

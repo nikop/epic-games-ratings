@@ -4,7 +4,7 @@
   "ProductSlug": "one-hand-clapping",
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-12-14T14:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 816,
+  "EOS_Progressed": 817,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -431,6 +431,11 @@
       "Time": "2023-10-13T23:08:24.9917992+00:00",
       "NumProgressed": 816,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-14T20:09:21.5191599+00:00",
+      "NumProgressed": 817,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 28,
@@ -650,7 +655,7 @@
       "Name": "Fermata",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "9",
@@ -665,7 +670,7 @@
     {
       "ID": "7l2nmpm",
       "IsBase": true,
-      "Progressed": 816,
+      "Progressed": 817,
       "Completed": 0
     }
   ],
@@ -673,8 +678,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3848838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.9622538+00:00",
   "LastChanged": "2023-03-31T05:58:38.3848839+00:00",
-  "LastChanged_Achievements": "2023-10-14T19:08:29.7398185+00:00",
+  "LastChanged_Achievements": "2023-10-14T20:09:21.5191594+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:13.1212729+00:00",
-  "LastUpdate_Ratings": "2023-10-14T18:57:14.4504822+00:00",
-  "LastUpdate_Achievements": "2023-10-14T19:08:29.739836+00:00"
+  "LastUpdate_Ratings": "2023-10-14T19:57:32.7209661+00:00",
+  "LastUpdate_Achievements": "2023-10-14T20:09:21.5191957+00:00"
 }

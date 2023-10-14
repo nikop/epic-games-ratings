@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 453,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -370,9 +370,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 2033,
+  "EOS_Progressed": 2035,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6100,6 +6100,11 @@
       "Time": "2023-10-14T19:09:22.4923639+00:00",
       "NumProgressed": 2033,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-14T20:09:48.1787536+00:00",
+      "NumProgressed": 2035,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -6223,7 +6228,7 @@
       "Name": "Dragon Master",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "dragonslayer",
@@ -6279,7 +6284,7 @@
       "Name": "Enlightenment",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "exoticmerchant",
@@ -6295,7 +6300,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 854
+      "UsersEstimate": 855
     },
     {
       "ID": "fourleafclover",
@@ -6423,7 +6428,7 @@
       "Name": "Master Enchanter",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "mastery",
@@ -6439,7 +6444,7 @@
       "Name": "Milestone collector",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "minerclicker",
@@ -6503,7 +6508,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1098
+      "UsersEstimate": 1099
     },
     {
       "ID": "prestigiousx10",
@@ -6567,7 +6572,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1159
+      "UsersEstimate": 1160
     },
     {
       "ID": "thealchemist",
@@ -6591,7 +6596,7 @@
       "Name": "The father of Dragons",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "thegameison",
@@ -6671,7 +6676,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1891
+      "UsersEstimate": 1893
     },
     {
       "ID": "warmachinesarmy",
@@ -6703,14 +6708,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1606
+      "UsersEstimate": 1608
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2033,
+      "Progressed": 2035,
       "Completed": 2
     }
   ],
@@ -6718,8 +6723,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-10-12T17:59:57.3603053+00:00",
-  "LastChanged_Achievements": "2023-10-14T19:09:22.4923635+00:00",
+  "LastChanged_Achievements": "2023-10-14T20:09:48.1787532+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:40.7167186+00:00",
-  "LastUpdate_Ratings": "2023-10-14T19:01:00.0144885+00:00",
-  "LastUpdate_Achievements": "2023-10-14T19:09:22.4924507+00:00"
+  "LastUpdate_Ratings": "2023-10-14T20:01:56.2367867+00:00",
+  "LastUpdate_Achievements": "2023-10-14T20:09:48.1789547+00:00"
 }

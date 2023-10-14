@@ -5,17 +5,17 @@ Rating: 4.41 (Ranked 698)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 5.00% | ~11,059 |
-| IT MAKES BOOM! | 3.00% | ~6,635 |
-| EXTRA BOOST | 2.00% | ~4,424 |
-| PROTECTED | 1.00% | ~2,212 |
-| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,212 |
-| AGGRESSIVE RACER | 1.00% | ~2,212 |
-| PRO | 1.00% | ~2,212 |
-| A TIGER'S FEAR | 0.80% | ~1,769 |
-| ACE SPEEDSTER | 0.50% | ~1,106 |
-| IT'S A LONG WAY TO THE TOP | 0.40% | ~885 |
-| DEFEAT OUR CHAMPION | 0.40% | ~885 |
+| ROOKIE | 5.00% | ~11,074 |
+| IT MAKES BOOM! | 3.00% | ~6,644 |
+| EXTRA BOOST | 2.00% | ~4,430 |
+| PROTECTED | 1.00% | ~2,215 |
+| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,215 |
+| AGGRESSIVE RACER | 1.00% | ~2,215 |
+| PRO | 1.00% | ~2,215 |
+| A TIGER'S FEAR | 0.80% | ~1,772 |
+| ACE SPEEDSTER | 0.50% | ~1,107 |
+| IT'S A LONG WAY TO THE TOP | 0.40% | ~886 |
+| DEFEAT OUR CHAMPION | 0.40% | ~886 |
 | TRAINING HARD | 0.30% | ~664 |
 | RELEASE THE KRAKEN | 0.30% | ~664 |
 | BE OUR GUEST | 0.30% | ~664 |
@@ -25,12 +25,12 @@ Rating: 4.41 (Ranked 698)
 | FRIENDLY | 0.30% | ~664 |
 | MASTER | 0.30% | ~664 |
 | LEGENDARY HERO | 0.30% | ~664 |
-| PERFECTLY POISED | 0.20% | ~442 |
-| EXPERIENCED CREW | 0.20% | ~442 |
-| ACE TRICKSTER | 0.20% | ~442 |
+| PERFECTLY POISED | 0.20% | ~443 |
+| EXPERIENCED CREW | 0.20% | ~443 |
+| ACE TRICKSTER | 0.20% | ~443 |
 | FRAMED! | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 221,177 (Ranked 63)  
+Progressed: 221,476 (Ranked 63)  
 Completed: 232 (0.10%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,10 +203,10 @@ Completed: 232 (0.10%) (Ranked 246)
 | 2023-10-11 | 207,182 | 229 |
 | 2023-10-12 | 211,811 | 230 |
 | 2023-10-13 | 216,960 | 230 |
-| 2023-10-14 | 221,177 | 232 |
+| 2023-10-14 | 221,476 | 232 |
 ## Awards
-Max (Diverse Characters): 20  (Ranked 527)  
-Sum: 20 (Ranked 528)  
+Max (Diverse Characters): 20  (Ranked 528)  
+Sum: 20 (Ranked 529)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
