@@ -1,7 +1,7 @@
 # The Mageseeker: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/the-mageseeker-a-league-of-legends-story)  
 [View Rawdata](../../db/t/the_mageseeker__a_league_of_legends_story™.json)  
-Rating: 4.82 (Ranked 62)  
+Rating: 4.82 (Ranked 63)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -34,8 +34,8 @@ Rating: 4.82 (Ranked 62)
 | Full equipped | 22.00% | ~573 |
 | Whispers in the Woods II | 18.00% | ~469 |
 | No more holding back | 18.00% | ~469 |
+| Terbisia | 18.00% | ~469 |
 | Quickmoore Headquarters | 18.00% | ~469 |
-| Terbisia | 17.00% | ~443 |
 | Whispers in the Woods III | 16.00% | ~417 |
 | My heart and sword always for Demacia | 16.00% | ~417 |
 | Friendly fire | 16.00% | ~417 |

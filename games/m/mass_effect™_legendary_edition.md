@@ -44,10 +44,10 @@
 | Galactic Explorer | 36.00% | ~252 |
 | Colony Defense | 35.00% | ~245 |
 | Archivist | 34.00% | ~238 |
+| The Quarian | 34.00% | ~238 |
 | Broke, Blind, and Bedlam | 34.00% | ~238 |
 | A Personal Touch | 33.00% | ~231 |
 | Ghost Ship | 33.00% | ~231 |
-| The Quarian | 33.00% | ~231 |
 | The Assassin | 32.00% | ~224 |
 | The Justicar | 32.00% | ~224 |
 | Battlemaster | 32.00% | ~224 |
@@ -61,12 +61,12 @@
 | Heart of Darkness | 31.00% | ~217 |
 | Driven | 31.00% | ~217 |
 | Focused | 30.00% | ~210 |
+| Cat's in the Cradle | 30.00% | ~210 |
 | Fade Away | 30.00% | ~210 |
 | Treason | 30.00% | ~210 |
 | Agent | 30.00% | ~210 |
 | Digital Exorcist | 30.00% | ~210 |
 | Bringer of War | 30.00% | ~210 |
-| Cat's in the Cradle | 29.00% | ~203 |
 | Doppelganger | 29.00% | ~203 |
 | Mobilizer | 29.00% | ~203 |
 | Friend or Foe | 28.00% | ~196 |

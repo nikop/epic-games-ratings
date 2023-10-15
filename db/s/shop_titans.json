@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 241,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6520,9 +6520,9 @@
       "Count": 3759
     }
   ],
-  "EOS_Progressed": 137665,
+  "EOS_Progressed": 137666,
   "EOS_Completed": 168,
-  "EOS_NewPlayers": 337,
+  "EOS_NewPlayers": 335,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -24780,6 +24780,11 @@
       "Time": "2023-10-15T19:03:09.3409584+00:00",
       "NumProgressed": 137665,
       "NumCompleted": 168
+    },
+    {
+      "Time": "2023-10-15T20:03:48.0992757+00:00",
+      "NumProgressed": 137666,
+      "NumCompleted": 168
     }
   ],
   "TotalAchievements": 112,
@@ -25221,9 +25226,9 @@
       "ID": "fuseepic",
       "SetID": "anfd17p",
       "Name": "By Your Powers Combined...",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 688
+      "UsersEstimate": 826
     },
     {
       "ID": "fuseflawless",
@@ -25686,15 +25691,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 137665,
+      "Progressed": 137666,
       "Completed": 168
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-15T13:00:06.5567238+00:00",
-  "LastChanged_Achievements": "2023-10-15T19:03:09.340958+00:00",
+  "LastChanged_Achievements": "2023-10-15T20:03:48.0992753+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:10.2617104+00:00",
-  "LastUpdate_Ratings": "2023-10-15T18:57:24.1680423+00:00",
-  "LastUpdate_Achievements": "2023-10-15T19:03:09.3411763+00:00"
+  "LastUpdate_Ratings": "2023-10-15T19:57:47.4814036+00:00",
+  "LastUpdate_Achievements": "2023-10-15T20:03:48.0995015+00:00"
 }

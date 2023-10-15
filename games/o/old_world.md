@@ -7,20 +7,20 @@ Number of Ratings: 1,307  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Play a Single Player Game | 3.00% | ~442 |
-| Able | 2.00% | ~294 |
-| Architect | 2.00% | ~294 |
-| Explorer | 2.00% | ~294 |
-| Good | 2.00% | ~294 |
-| Intrepid | 2.00% | ~294 |
-| Learned | 2.00% | ~294 |
-| Mason | 2.00% | ~294 |
-| Pioneer | 2.00% | ~294 |
-| Settler | 2.00% | ~294 |
-| Strong | 2.00% | ~294 |
-| Friendly Family | 2.00% | ~294 |
-| Hanging Gardens | 2.00% | ~294 |
-| Oracle | 2.00% | ~294 |
-| Kushite Paganism | 2.00% | ~294 |
+| Able | 2.00% | ~295 |
+| Architect | 2.00% | ~295 |
+| Explorer | 2.00% | ~295 |
+| Good | 2.00% | ~295 |
+| Intrepid | 2.00% | ~295 |
+| Learned | 2.00% | ~295 |
+| Mason | 2.00% | ~295 |
+| Pioneer | 2.00% | ~295 |
+| Settler | 2.00% | ~295 |
+| Strong | 2.00% | ~295 |
+| Friendly Family | 2.00% | ~295 |
+| Hanging Gardens | 2.00% | ~295 |
+| Oracle | 2.00% | ~295 |
+| Kushite Paganism | 2.00% | ~295 |
 | Ambitious | 1.00% | ~147 |
 | Brilliant | 1.00% | ~147 |
 | Enlightened | 1.00% | ~147 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,725 (Ranked 135)  
+Progressed: 14,727 (Ranked 135)  
 Completed: 5 (0.03%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -527,7 +527,7 @@ Completed: 5 (0.03%) (Ranked 283)
 | 2023-10-12 | 14,624 | 5 |
 | 2023-10-13 | 14,652 | 5 |
 | 2023-10-14 | 14,699 | 5 |
-| 2023-10-15 | 14,725 | 5 |
+| 2023-10-15 | 14,727 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,840 (Ranked 210)  

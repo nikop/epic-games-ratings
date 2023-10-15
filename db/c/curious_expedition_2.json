@@ -3,12 +3,12 @@
   "Name": "Curious Expedition 2",
   "ProductSlug": "curious-expedition-2-8cb901",
   "Ranking_Rating": 163,
-  "Ranking_Popularity": 536,
-  "Ranking_PopularitySum": 536,
+  "Ranking_Popularity": 537,
+  "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 347,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
     "PcReleaseDate": "2021-01-28T00:00:00+00:00",
@@ -447,9 +447,9 @@
       "ID": "ach-discover-locations",
       "SetID": "17ih7ma",
       "Name": "Cartographer",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 179
     },
     {
       "ID": "ach-discover-locations-high",
@@ -760,8 +760,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-10-15T19:04:54.2694643+00:00",
+  "LastChanged_Achievements": "2023-10-15T20:05:29.9713558+00:00",
   "LastUpdate_AppInfo": "2023-10-14T08:57:19.6770267+00:00",
-  "LastUpdate_Ratings": "2023-10-15T18:58:37.1955196+00:00",
-  "LastUpdate_Achievements": "2023-10-15T19:04:54.2695077+00:00"
+  "LastUpdate_Ratings": "2023-10-15T19:58:55.0625963+00:00",
+  "LastUpdate_Achievements": "2023-10-15T20:05:29.9714123+00:00"
 }

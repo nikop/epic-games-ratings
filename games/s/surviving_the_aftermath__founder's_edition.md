@@ -38,7 +38,7 @@ Number of Ratings: 836  (23.09.2022)
 | Spreading Influence | 17.00% | ~1,636 |
 | Bookworm | 15.00% | ~1,443 |
 | Famous Adventurer | 14.00% | ~1,347 |
-| Prepared for Anything | 13.00% | ~1,251 |
+| Prepared for Anything | 14.00% | ~1,347 |
 | Big Catastrofan | 13.00% | ~1,251 |
 | It's a Finnish Thing | 10.00% | ~962 |
 | Sky Burial | 10.00% | ~962 |

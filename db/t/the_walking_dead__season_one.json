@@ -2,13 +2,13 @@
   "ID": "bloodroot",
   "Name": "The Walking Dead: Season One",
   "ProductSlug": "walking-dead-season-one",
-  "Ranking_Rating": 62,
+  "Ranking_Rating": 56,
   "Ranking_Popularity": 483,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 670,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 399,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2012-04-24T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.82,
+  "Rating": 4.83,
   "NumberOfRatings": 70,
   "RatingHistory": [
     {
@@ -251,6 +251,12 @@
       "Rating": 4.82,
       "NumberOfAwards": 28,
       "NumberOfAwardsMax": 28
+    },
+    {
+      "Time": "2023-10-15T19:58:44.2419028+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 28,
+      "NumberOfAwardsMax": 28
     }
   ],
   "ReviewsDisabled": false,
@@ -276,8 +282,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:47.8231949+00:00",
-  "LastChanged": "2023-10-10T20:01:58.3469552+00:00",
+  "LastChanged": "2023-10-15T19:58:44.2419025+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:51.1375369+00:00",
-  "LastUpdate_Ratings": "2023-10-15T18:58:26.9598261+00:00",
-  "LastUpdate_Achievements": "2023-10-15T19:05:28.9842463+00:00"
+  "LastUpdate_Ratings": "2023-10-15T19:58:44.2419032+00:00",
+  "LastUpdate_Achievements": "2023-10-15T20:06:03.7518784+00:00"
 }

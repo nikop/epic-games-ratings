@@ -6,26 +6,26 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~32,062 |
-| Just The Two of Us | 32.00% | ~30,176 |
-| Up On High | 25.00% | ~23,575 |
-| Under The Hood | 25.00% | ~23,575 |
-| Got Your Nose | 24.00% | ~22,632 |
-| The Gift of Gab | 24.00% | ~22,632 |
-| Wrapping Up | 22.00% | ~20,746 |
-| More Than A Box Of Sand | 18.00% | ~16,974 |
-| The Dunboyne | 17.00% | ~16,031 |
-| Badge Hobbyist | 17.00% | ~16,031 |
-| Chum Novice | 16.00% | ~15,088 |
-| Silver-Tongued Sable | 16.00% | ~15,088 |
-| Sticky Paws | 16.00% | ~15,088 |
-| Bubble Up | 16.00% | ~15,088 |
-| Thread The Needle | 15.00% | ~14,145 |
-| Power to the People | 14.00% | ~13,202 |
-| Take That! | 13.00% | ~12,259 |
-| Nesting Giant | 13.00% | ~12,259 |
-| Treasure Tracker | 13.00% | ~12,259 |
-| Big Spender | 13.00% | ~12,259 |
+| Simoon | 34.00% | ~32,063 |
+| Just The Two of Us | 32.00% | ~30,177 |
+| Up On High | 25.00% | ~23,576 |
+| Under The Hood | 25.00% | ~23,576 |
+| Got Your Nose | 24.00% | ~22,633 |
+| The Gift of Gab | 24.00% | ~22,633 |
+| Wrapping Up | 22.00% | ~20,747 |
+| More Than A Box Of Sand | 18.00% | ~16,975 |
+| The Dunboyne | 17.00% | ~16,032 |
+| Badge Hobbyist | 17.00% | ~16,032 |
+| Chum Novice | 16.00% | ~15,089 |
+| Silver-Tongued Sable | 16.00% | ~15,089 |
+| Sticky Paws | 16.00% | ~15,089 |
+| Bubble Up | 16.00% | ~15,089 |
+| Thread The Needle | 15.00% | ~14,146 |
+| Power to the People | 14.00% | ~13,203 |
+| Take That! | 13.00% | ~12,260 |
+| Nesting Giant | 13.00% | ~12,260 |
+| Treasure Tracker | 13.00% | ~12,260 |
+| Big Spender | 13.00% | ~12,260 |
 | Badge Collector | 12.00% | ~11,316 |
 | Quite The Catch | 12.00% | ~11,316 |
 | Rowleys Way | 11.00% | ~10,373 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~2,829 |
 | Vivacious Vivarium | 2.00% | ~1,886 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 94,300 (Ranked 81)  
+Progressed: 94,304 (Ranked 81)  
 Completed: 950 (1.01%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 950 (1.01%) (Ranked 146)
 | 2023-10-12 | 93,785 | 943 |
 | 2023-10-13 | 93,920 | 944 |
 | 2023-10-14 | 94,125 | 946 |
-| 2023-10-15 | 94,300 | 950 |
+| 2023-10-15 | 94,304 | 950 |
 ## Awards
 Max (Quickly Understood Controls): 24  (Ranked 508)  
 Sum: 88 (Ranked 438)  

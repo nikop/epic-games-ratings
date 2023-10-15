@@ -3,12 +3,12 @@
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_Rating": 398,
-  "Ranking_Popularity": 536,
-  "Ranking_PopularitySum": 536,
+  "Ranking_Popularity": 537,
+  "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 347,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -2464,9 +2464,9 @@
       "ID": "FutureEkko1Defeated",
       "SetID": "a9e499d",
       "Name": "The Mysterious Stranger",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 217
+      "UsersEstimate": 226
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -2777,8 +2777,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-10-15T19:08:28.091207+00:00",
+  "LastChanged_Achievements": "2023-10-15T20:09:48.8009671+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:58.9588664+00:00",
-  "LastUpdate_Ratings": "2023-10-15T18:58:41.0132494+00:00",
-  "LastUpdate_Achievements": "2023-10-15T19:08:28.0912524+00:00"
+  "LastUpdate_Ratings": "2023-10-15T19:59:00.2151102+00:00",
+  "LastUpdate_Achievements": "2023-10-15T20:09:48.8010247+00:00"
 }

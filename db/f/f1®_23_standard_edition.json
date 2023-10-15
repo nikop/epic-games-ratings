@@ -2,13 +2,13 @@
   "ID": "b7773a08a6fa41e3a0fbc4c1e51c95a4",
   "Name": "F1\u00AE 23",
   "ProductSlug": "f1-23",
-  "Ranking_Rating": 262,
-  "Ranking_Popularity": 536,
-  "Ranking_PopularitySum": 536,
+  "Ranking_Rating": 261,
+  "Ranking_Popularity": 537,
+  "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -382,9 +382,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3275,
+  "EOS_Progressed": 3277,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 197,
+  "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2957,6 +2957,11 @@
       "Time": "2023-10-15T19:06:42.2232592+00:00",
       "NumProgressed": 3275,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-15T20:08:25.5226262+00:00",
+      "NumProgressed": 3277,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -3009,7 +3014,7 @@
       "Name": "Setting up for Success",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 2587
+      "UsersEstimate": 2589
     },
     {
       "ID": "achievement_0007",
@@ -3017,7 +3022,7 @@
       "Name": "Getting on the Step",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 3111
+      "UsersEstimate": 3113
     },
     {
       "ID": "achievement_0008",
@@ -3025,7 +3030,7 @@
       "Name": "On the Top Step",
       "Percentage": 89,
       "XP": 20,
-      "UsersEstimate": 2915
+      "UsersEstimate": 2917
     },
     {
       "ID": "achievement_0009",
@@ -3089,7 +3094,7 @@
       "Name": "Hitting a Season",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 1310
+      "UsersEstimate": 1311
     },
     {
       "ID": "achievement_0017",
@@ -3097,7 +3102,7 @@
       "Name": "Hitting a Bullseye",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "achievement_0018",
@@ -3121,7 +3126,7 @@
       "Name": "For all Those Back at the Factory",
       "Percentage": 6,
       "XP": 75,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "achievement_0021",
@@ -3129,7 +3134,7 @@
       "Name": "Team Orders",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2489
+      "UsersEstimate": 2491
     },
     {
       "ID": "achievement_0022",
@@ -3145,7 +3150,7 @@
       "Name": "Sharing the Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1408
+      "UsersEstimate": 1409
     },
     {
       "ID": "achievement_0024",
@@ -3225,7 +3230,7 @@
       "Name": "Engineer",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 1867
+      "UsersEstimate": 1868
     },
     {
       "ID": "achievement_0034",
@@ -3233,7 +3238,7 @@
       "Name": "Challenge Yourself",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1179
+      "UsersEstimate": 1180
     },
     {
       "ID": "achievement_0035",
@@ -3311,9 +3316,9 @@
       "ID": "achievement_0044",
       "SetID": "9123ogc",
       "Name": "Going the Extra Mile",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 1441
+      "UsersEstimate": 1475
     },
     {
       "ID": "achievement_0045",
@@ -3329,7 +3334,7 @@
       "Name": "Writing a new Chapter",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "achievement_0047",
@@ -3360,7 +3365,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 3275,
+      "Progressed": 3277,
       "Completed": 0
     }
   ],
@@ -3368,8 +3373,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-10-14T15:01:06.7997095+00:00",
-  "LastChanged_Achievements": "2023-10-15T19:06:42.2232589+00:00",
+  "LastChanged_Achievements": "2023-10-15T20:08:25.5226257+00:00",
   "LastUpdate_AppInfo": "2023-10-14T13:56:56.8221835+00:00",
-  "LastUpdate_Ratings": "2023-10-15T19:00:10.5484266+00:00",
-  "LastUpdate_Achievements": "2023-10-15T19:06:42.2233045+00:00"
+  "LastUpdate_Ratings": "2023-10-15T20:00:28.686943+00:00",
+  "LastUpdate_Achievements": "2023-10-15T20:08:25.522685+00:00"
 }

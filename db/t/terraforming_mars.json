@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
     "PcReleaseDate": "2018-10-16T00:00:00+00:00",
@@ -2896,10 +2896,10 @@
       "Count": 245
     }
   ],
-  "EOS_Progressed": 79168,
-  "EOS_Completed": 142,
-  "EOS_NewPlayers": 741,
-  "EOS_NewCompleters": 0,
+  "EOS_Progressed": 79172,
+  "EOS_Completed": 143,
+  "EOS_NewPlayers": 736,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
     {
@@ -22631,6 +22631,11 @@
       "Time": "2023-10-15T19:04:30.6202709+00:00",
       "NumProgressed": 79168,
       "NumCompleted": 142
+    },
+    {
+      "Time": "2023-10-15T20:05:07.3811045+00:00",
+      "NumProgressed": 79172,
+      "NumCompleted": 143
     }
   ],
   "TotalAchievements": 30,
@@ -22666,7 +22671,7 @@
       "Name": "New Home",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 18209
+      "UsersEstimate": 18210
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -22674,7 +22679,7 @@
       "Name": "No Longer Red",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 14250
+      "UsersEstimate": 14251
     },
     {
       "ID": "ACHIEVEMENT_05",
@@ -22682,7 +22687,7 @@
       "Name": "Landlord",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 8708
+      "UsersEstimate": 8709
     },
     {
       "ID": "ACHIEVEMENT_06",
@@ -22698,7 +22703,7 @@
       "Name": "Most Achievements",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 8708
+      "UsersEstimate": 8709
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -22714,7 +22719,7 @@
       "Name": "Project Manager",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 15042
+      "UsersEstimate": 15043
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -22722,7 +22727,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 29292
+      "UsersEstimate": 29294
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -22730,7 +22735,7 @@
       "Name": "Changing the Planet",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 22167
+      "UsersEstimate": 22168
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -22738,7 +22743,7 @@
       "Name": "Prop-M Rover",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 25334
+      "UsersEstimate": 25335
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -22762,7 +22767,7 @@
       "Name": "Curiosity",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 15042
+      "UsersEstimate": 15043
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -22770,7 +22775,7 @@
       "Name": "Beagle 2",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 19000
+      "UsersEstimate": 19001
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -22778,7 +22783,7 @@
       "Name": "Sojourner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 20584
+      "UsersEstimate": 20585
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -22786,7 +22791,7 @@
       "Name": "Collector",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 15042
+      "UsersEstimate": 15043
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -22794,7 +22799,7 @@
       "Name": "Winner Winner Terraformer",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 16625
+      "UsersEstimate": 16626
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -22802,7 +22807,7 @@
       "Name": "Acquired knowledge",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 9500
+      "UsersEstimate": 9501
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -22810,7 +22815,7 @@
       "Name": "Money money",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 11875
+      "UsersEstimate": 11876
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -22818,7 +22823,7 @@
       "Name": "Final touch",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 28500
+      "UsersEstimate": 28502
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -22826,7 +22831,7 @@
       "Name": "Self-sufficient",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 14250
+      "UsersEstimate": 14251
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -22834,7 +22839,7 @@
       "Name": "Frequent tester",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 6333
+      "UsersEstimate": 6334
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -22842,7 +22847,7 @@
       "Name": "Hellenic Elysium",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 9500
+      "UsersEstimate": 9501
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -22858,7 +22863,7 @@
       "Name": "Grand champion",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 9500
+      "UsersEstimate": 9501
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -22866,7 +22871,7 @@
       "Name": "Master",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 15042
+      "UsersEstimate": 15043
     },
     {
       "ID": "ACHIEVEMENT_29",
@@ -22874,22 +22879,22 @@
       "Name": "Determined",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 6333
+      "UsersEstimate": 6334
     }
   ],
   "AchievementSets": [
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 79168,
-      "Completed": 142
+      "Progressed": 79172,
+      "Completed": 143
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-10-14T01:40:12.477578+00:00",
-  "LastChanged_Achievements": "2023-10-15T19:04:30.6202703+00:00",
+  "LastChanged_Achievements": "2023-10-15T20:05:07.381104+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:27.1789239+00:00",
-  "LastUpdate_Ratings": "2023-10-15T18:59:48.0875616+00:00",
-  "LastUpdate_Achievements": "2023-10-15T19:04:30.6203848+00:00"
+  "LastUpdate_Ratings": "2023-10-15T20:00:03.713065+00:00",
+  "LastUpdate_Achievements": "2023-10-15T20:05:07.3812513+00:00"
 }

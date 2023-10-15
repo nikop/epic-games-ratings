@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 701,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2284,9 +2284,9 @@
       "ID": "achievement_50",
       "SetID": "d252ncf",
       "Name": "The Quarian",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 231
+      "UsersEstimate": 238
     },
     {
       "ID": "achievement_51",
@@ -2308,9 +2308,9 @@
       "ID": "achievement_53",
       "SetID": "d252ncf",
       "Name": "Cat\u0027s in the Cradle",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 210
     },
     {
       "ID": "achievement_54",
@@ -2728,8 +2728,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-15T19:04:11.5852909+00:00",
+  "LastChanged_Achievements": "2023-10-15T20:04:48.7947509+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:30.4071338+00:00",
-  "LastUpdate_Ratings": "2023-10-15T18:59:57.5720226+00:00",
-  "LastUpdate_Achievements": "2023-10-15T19:04:11.5854715+00:00"
+  "LastUpdate_Ratings": "2023-10-15T20:00:14.5657701+00:00",
+  "LastUpdate_Achievements": "2023-10-15T20:04:48.7949795+00:00"
 }

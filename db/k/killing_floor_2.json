@@ -4,11 +4,11 @@
   "ProductSlug": "killing-floor-2",
   "Ranking_Rating": 674,
   "Ranking_Popularity": 30,
-  "Ranking_PopularitySum": 45,
+  "Ranking_PopularitySum": 44,
   "Ranking_EOS_Progress": 670,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 399,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2020-07-09T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -9832,10 +9832,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 29674,
       "NumberOfAwardsMax": 13247
+    },
+    {
+      "Time": "2023-10-15T19:58:18.9108741+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 29680,
+      "NumberOfAwardsMax": 13247
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29674,
+  "NumberOfAwards": 29680,
   "NumberOfAwardsMax": 13247,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -9885,7 +9891,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1913
+      "Count": 1919
     },
     {
       "Text": "This game has Challenging Combat",
@@ -9911,8 +9917,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:46.1518671+00:00",
-  "LastChanged": "2023-10-15T18:57:55.4933185+00:00",
+  "LastChanged": "2023-10-15T19:58:18.9108738+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:33.1258215+00:00",
-  "LastUpdate_Ratings": "2023-10-15T18:57:55.493319+00:00",
-  "LastUpdate_Achievements": "2023-10-15T19:06:40.8646386+00:00"
+  "LastUpdate_Ratings": "2023-10-15T19:58:18.9108747+00:00",
+  "LastUpdate_Achievements": "2023-10-15T20:08:24.2088196+00:00"
 }

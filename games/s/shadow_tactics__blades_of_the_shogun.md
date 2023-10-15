@@ -1,47 +1,47 @@
 # Shadow Tactics: Blades of the Shogun
 [Store](https://store.epicgames.com/en-US/p/shadow-tactics)  
 [View Rawdata](../../db/s/shadow_tactics__blades_of_the_shogun.json)  
-Rating: 4.67 (Ranked 262)  
+Rating: 4.67 (Ranked 261)  
 Number of Ratings: 495  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~24,967 |
-| A thief's beginning | 10.00% | ~20,806 |
-| Thorough | 10.00% | ~20,806 |
-| Rollin' | 9.00% | ~18,726 |
-| Disguised | 8.00% | ~16,645 |
-| Rescue Takuma | 8.00% | ~16,645 |
-| Tanuki Time | 8.00% | ~16,645 |
-| Happy Planning | 7.00% | ~14,564 |
-| Ice Ice Yuki | 7.00% | ~14,564 |
-| Jonin | 7.00% | ~14,564 |
-| Stoned Ox | 7.00% | ~14,564 |
-| Yabu | 7.00% | ~14,564 |
-| Chunin | 6.00% | ~12,484 |
-| Flying Rocks | 6.00% | ~12,484 |
-| Mugen Unchained | 6.00% | ~12,484 |
-| Warzone | 6.00% | ~12,484 |
-| Okkoto | 5.00% | ~10,403 |
-| Prisoners | 5.00% | ~10,403 |
-| Too Early | 5.00% | ~10,403 |
-| Gear up | 4.00% | ~8,322 |
-| Happy little accidents | 4.00% | ~8,322 |
-| Still Rollin' | 4.00% | ~8,322 |
+| Genin | 12.00% | ~24,969 |
+| A thief's beginning | 10.00% | ~20,808 |
+| Thorough | 10.00% | ~20,808 |
+| Rollin' | 9.00% | ~18,727 |
+| Disguised | 8.00% | ~16,646 |
+| Rescue Takuma | 8.00% | ~16,646 |
+| Tanuki Time | 8.00% | ~16,646 |
+| Happy Planning | 7.00% | ~14,566 |
+| Ice Ice Yuki | 7.00% | ~14,566 |
+| Jonin | 7.00% | ~14,566 |
+| Stoned Ox | 7.00% | ~14,566 |
+| Yabu | 7.00% | ~14,566 |
+| Chunin | 6.00% | ~12,485 |
+| Flying Rocks | 6.00% | ~12,485 |
+| Mugen Unchained | 6.00% | ~12,485 |
+| Warzone | 6.00% | ~12,485 |
+| Okkoto | 5.00% | ~10,404 |
+| Prisoners | 5.00% | ~10,404 |
+| Too Early | 5.00% | ~10,404 |
+| Gear up | 4.00% | ~8,323 |
+| Happy little accidents | 4.00% | ~8,323 |
+| Still Rollin' | 4.00% | ~8,323 |
 | Noboru | 3.00% | ~6,242 |
 | Stoned | 3.00% | ~6,242 |
 | The Old Way | 3.00% | ~6,242 |
-| Atheist Ox | 2.00% | ~4,161 |
-| It's raining men | 2.00% | ~4,161 |
-| No Gimmicks | 2.00% | ~4,161 |
-| Old Man | 2.00% | ~4,161 |
-| Winner Winner | 2.00% | ~4,161 |
+| Atheist Ox | 2.00% | ~4,162 |
+| It's raining men | 2.00% | ~4,162 |
+| No Gimmicks | 2.00% | ~4,162 |
+| Old Man | 2.00% | ~4,162 |
+| Winner Winner | 2.00% | ~4,162 |
 | Meticulous | 1.00% | ~2,081 |
 | The End | 1.00% | ~2,081 |
 | Undeserved Honor | 1.00% | ~2,081 |
 | When Cut Across the Neck | 0.90% | ~1,873 |
-| High Five the Moon | 0.80% | ~1,664 |
-| The Cave | 0.80% | ~1,664 |
+| High Five the Moon | 0.80% | ~1,665 |
+| The Cave | 0.80% | ~1,665 |
 | Merciful | 0.50% | ~1,040 |
 | Time Paradox | 0.50% | ~1,040 |
 | Five Shadows | 0.30% | ~624 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~208 |
 | Release the Kraken | 0.10% | ~208 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 208,062 (Ranked 65)  
+Progressed: 208,079 (Ranked 65)  
 Completed: 91 (0.04%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,7 +229,7 @@ Completed: 91 (0.04%) (Ranked 277)
 | 2023-10-12 | 207,509 | 90 |
 | 2023-10-13 | 207,685 | 90 |
 | 2023-10-14 | 207,886 | 90 |
-| 2023-10-15 | 208,062 | 91 |
+| 2023-10-15 | 208,079 | 91 |
 ## Awards
 Max (Great for Beginners): 567  (Ranked 196)  
 Sum: 4,790 (Ranked 138)  

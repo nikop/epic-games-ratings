@@ -6,16 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 33.00% | ~76,257 |
-| Where's that freaking Dwarf? | 6.00% | ~13,865 |
-| Alt+F4 | 6.00% | ~13,865 |
-| Déjà vu | 5.00% | ~11,554 |
-| Sock! SOCK! | 4.00% | ~9,243 |
-| Speedrun | 4.00% | ~9,243 |
-| A beer, two curses, three companions | 3.00% | ~6,932 |
-| GG EZ | 3.00% | ~6,932 |
-| DM intervention | 3.00% | ~6,932 |
-| Fireproof Wizardess | 3.00% | ~6,932 |
+| Sowwy! | 33.00% | ~76,266 |
+| Where's that freaking Dwarf? | 6.00% | ~13,867 |
+| Alt+F4 | 6.00% | ~13,867 |
+| Déjà vu | 5.00% | ~11,555 |
+| Sock! SOCK! | 4.00% | ~9,244 |
+| Speedrun | 4.00% | ~9,244 |
+| A beer, two curses, three companions | 3.00% | ~6,933 |
+| GG EZ | 3.00% | ~6,933 |
+| DM intervention | 3.00% | ~6,933 |
+| Fireproof Wizardess | 3.00% | ~6,933 |
 | Livin' in a dwarven paradise | 2.00% | ~4,622 |
 | Shiny and Crôm | 2.00% | ~4,622 |
 | Way of the Wimp | 2.00% | ~4,622 |
@@ -45,11 +45,11 @@ Number of Ratings: 118  (23.09.2022)
 | Material Girl | 0.90% | ~2,080 |
 | Gargantua | 0.80% | ~1,849 |
 | In Navalu's footsteps | 0.70% | ~1,618 |
-| We come in peace | 0.60% | ~1,386 |
-| Lëgal Legend | 0.60% | ~1,386 |
-| Holistic Adventuring Party | 0.50% | ~1,155 |
-| An old poacher makes the best gamekeeper | 0.50% | ~1,155 |
-| Law and Order | 0.50% | ~1,155 |
+| We come in peace | 0.60% | ~1,387 |
+| Lëgal Legend | 0.60% | ~1,387 |
+| Holistic Adventuring Party | 0.50% | ~1,156 |
+| An old poacher makes the best gamekeeper | 0.50% | ~1,156 |
+| Law and Order | 0.50% | ~1,156 |
 | Scholar of the Lands of Fangh | 0.40% | ~924 |
 | Friendly fire | 0.30% | ~693 |
 | I'd rather... Just... Sing! | 0.30% | ~693 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~231 |
 | Dwarf Candy | 0.10% | ~231 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,082 (Ranked 59)  
+Progressed: 231,109 (Ranked 59)  
 Completed: 5 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,7 +232,7 @@ Completed: 5 (0.00%) (Ranked 314)
 | 2023-10-12 | 230,376 | 5 |
 | 2023-10-13 | 230,591 | 5 |
 | 2023-10-14 | 230,860 | 5 |
-| 2023-10-15 | 231,082 | 5 |
+| 2023-10-15 | 231,109 | 5 |
 ## Awards
 Max (Character Customization): 216  (Ranked 273)  
 Sum: 426 (Ranked 325)  

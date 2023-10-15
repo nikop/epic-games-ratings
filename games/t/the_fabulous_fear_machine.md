@@ -14,16 +14,16 @@
 | The happy farmer girl | 48.00% | ~14 |
 | A rival with no options | 45.00% | ~13 |
 | Pulp! Terror Tales in the Night | 41.00% | ~12 |
+| Kirlian's best disciple | 41.00% | ~12 |
 | Pulp! Out of this World | 38.00% | ~11 |
 | Pulp! Adventures into the Unknown | 38.00% | ~11 |
-| Kirlian's best disciple | 38.00% | ~11 |
 | Diagnosis: fear | 34.00% | ~10 |
 | Ambition is... blind | 34.00% | ~10 |
 | You have two wishes left | 34.00% | ~10 |
 | The artist | 31.00% | ~9 |
 | The seer | 31.00% | ~9 |
 | Et in arcadia ego | 28.00% | ~8 |
-| Welcome to Hellville | 24.00% | ~7 |
+| Welcome to Hellville | 28.00% | ~8 |
 | You had one wish left | 21.00% | ~6 |
 | You've awakened the beast | 17.00% | ~5 |
 | Hate is... addictive | 17.00% | ~5 |

@@ -3,12 +3,12 @@
   "Name": "Roller Champions\u2122",
   "ProductSlug": "roller-champions",
   "Ranking_Rating": 783,
-  "Ranking_Popularity": 258,
+  "Ranking_Popularity": 259,
   "Ranking_PopularitySum": 195,
   "Ranking_EOS_Progress": 670,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 399,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-06-23T13:40:00+00:00",
     "PcReleaseDate": "2022-05-25T14:00:00+00:00",
@@ -2888,10 +2888,16 @@
       "Rating": 4.34,
       "NumberOfAwards": 2244,
       "NumberOfAwardsMax": 259
+    },
+    {
+      "Time": "2023-10-15T19:58:22.7048818+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 2245,
+      "NumberOfAwardsMax": 259
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2244,
+  "NumberOfAwards": 2245,
   "NumberOfAwardsMax": 259,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2947,7 +2953,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 194
+      "Count": 195
     },
     {
       "Text": "This game has a Competitive Community",
@@ -2973,8 +2979,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:37.6973739+00:00",
-  "LastChanged": "2023-10-15T11:58:39.8886264+00:00",
+  "LastChanged": "2023-10-15T19:58:22.7048815+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:35.5540824+00:00",
-  "LastUpdate_Ratings": "2023-10-15T18:57:59.6313537+00:00",
-  "LastUpdate_Achievements": "2023-10-15T19:04:55.1474325+00:00"
+  "LastUpdate_Ratings": "2023-10-15T19:58:22.7048826+00:00",
+  "LastUpdate_Achievements": "2023-10-15T20:05:30.7084112+00:00"
 }

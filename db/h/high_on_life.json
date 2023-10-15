@@ -3,12 +3,12 @@
   "Name": "High On Life",
   "ProductSlug": "high-on-life-3a855b",
   "Ranking_Rating": 321,
-  "Ranking_Popularity": 536,
-  "Ranking_PopularitySum": 536,
+  "Ranking_Popularity": 537,
+  "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -5718,9 +5718,9 @@
       "ID": "ACH_GET_SWEEZY",
       "SetID": "cdkbb11",
       "Name": "Sweezy Like Sunday Morning",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 218
+      "UsersEstimate": 242
     },
     {
       "ID": "ACH_GLOBO_STAR",
@@ -5997,8 +5997,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-07T05:03:09.4311759+00:00",
-  "LastChanged_Achievements": "2023-10-15T19:05:11.2889477+00:00",
+  "LastChanged_Achievements": "2023-10-15T20:05:46.5225486+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:39.0375133+00:00",
-  "LastUpdate_Ratings": "2023-10-15T19:00:23.5578465+00:00",
-  "LastUpdate_Achievements": "2023-10-15T19:05:11.289002+00:00"
+  "LastUpdate_Ratings": "2023-10-15T20:00:41.7430272+00:00",
+  "LastUpdate_Achievements": "2023-10-15T20:05:46.5226191+00:00"
 }

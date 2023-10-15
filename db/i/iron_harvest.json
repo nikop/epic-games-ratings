@@ -3,12 +3,12 @@
   "Name": "Iron Harvest",
   "ProductSlug": "iron-harvest",
   "Ranking_Rating": 698,
-  "Ranking_Popularity": 536,
-  "Ranking_PopularitySum": 536,
+  "Ranking_Popularity": 537,
+  "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 670,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 399,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2020-11-19T18:00:00+00:00",
     "PcReleaseDate": "2020-11-19T18:00:00+00:00",
@@ -402,6 +402,6 @@
   "FirstSeen": "2022-07-22T20:22:43.0842749+00:00",
   "LastChanged": "2023-10-03T23:58:27.9564982+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:50.5660956+00:00",
-  "LastUpdate_Ratings": "2023-10-15T18:58:25.442366+00:00",
-  "LastUpdate_Achievements": "2023-10-15T19:05:15.5992153+00:00"
+  "LastUpdate_Ratings": "2023-10-15T19:58:41.8461298+00:00",
+  "LastUpdate_Achievements": "2023-10-15T20:05:50.8355441+00:00"
 }

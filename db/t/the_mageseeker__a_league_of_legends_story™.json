@@ -2,13 +2,13 @@
   "ID": "1e1d639f7fa045f08a1378885ec7080c",
   "Name": "The Mageseeker: A League of Legends Story\u2122",
   "ProductSlug": "the-mageseeker-a-league-of-legends-story",
-  "Ranking_Rating": 62,
-  "Ranking_Popularity": 536,
-  "Ranking_PopularitySum": 536,
+  "Ranking_Rating": 63,
+  "Ranking_Popularity": 537,
+  "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 178,
   "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -4106,9 +4106,9 @@
       "ID": "STB_MISSION6_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Terbisia",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 443
+      "UsersEstimate": 469
     },
     {
       "ID": "STB_MISSION7_COMPLETED",
@@ -4267,8 +4267,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-08-06T02:15:52.3932671+00:00",
-  "LastChanged_Achievements": "2023-10-15T19:05:28.5216871+00:00",
+  "LastChanged_Achievements": "2023-10-15T20:06:03.3359316+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:28.6584473+00:00",
-  "LastUpdate_Ratings": "2023-10-15T19:00:47.8603507+00:00",
-  "LastUpdate_Achievements": "2023-10-15T19:05:28.5217395+00:00"
+  "LastUpdate_Ratings": "2023-10-15T20:01:03.5713658+00:00",
+  "LastUpdate_Achievements": "2023-10-15T20:06:03.3359925+00:00"
 }

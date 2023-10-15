@@ -31,9 +31,9 @@ Rating: 4.50 (Ranked 574)
 | Summoner | 0.80% | ~212 |
 | Side Hustle | 0.70% | ~185 |
 | Skilled | 0.70% | ~185 |
+| Stunner | 0.70% | ~185 |
 | Legions | 0.60% | ~159 |
 | Pesky Jerks | 0.60% | ~159 |
-| Stunner | 0.60% | ~159 |
 | We have the best insurance | 0.50% | ~132 |
 | Diabolical | 0.50% | ~132 |
 | Rift Destroyer | 0.50% | ~132 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 574)
 | Rift Seeker | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,493 (Ranked 117)  
+Progressed: 26,496 (Ranked 117)  
 Completed: 58 (0.22%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,7 +235,7 @@ Completed: 58 (0.22%) (Ranked 219)
 | 2023-10-12 | 26,379 | 58 |
 | 2023-10-13 | 26,414 | 58 |
 | 2023-10-14 | 26,466 | 58 |
-| 2023-10-15 | 26,493 | 58 |
+| 2023-10-15 | 26,496 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 262  (Ranked 256)  
 Sum: 2,389 (Ranked 188)  

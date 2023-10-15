@@ -3,12 +3,12 @@
   "Name": "House Party",
   "ProductSlug": "house-party-ae8b27",
   "Ranking_Rating": 799,
-  "Ranking_Popularity": 536,
-  "Ranking_PopularitySum": 536,
+  "Ranking_Popularity": 537,
+  "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -368,9 +368,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6373,
+  "EOS_Progressed": 6374,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5788,6 +5788,11 @@
       "Time": "2023-10-15T18:08:37.0278182+00:00",
       "NumProgressed": 6373,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-15T20:09:41.8538914+00:00",
+      "NumProgressed": 6374,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -6350,21 +6355,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 3412,
+      "Progressed": 3413,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 6373,
+      "Progressed": 6374,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-08-31T08:00:08.7899457+00:00",
-  "LastChanged_Achievements": "2023-10-15T19:08:20.5735523+00:00",
+  "LastChanged_Achievements": "2023-10-15T20:09:41.8538909+00:00",
   "LastUpdate_AppInfo": "2023-10-14T11:57:10.8821896+00:00",
-  "LastUpdate_Ratings": "2023-10-15T18:57:32.1976648+00:00",
-  "LastUpdate_Achievements": "2023-10-15T19:08:20.5736301+00:00"
+  "LastUpdate_Ratings": "2023-10-15T19:57:57.2881093+00:00",
+  "LastUpdate_Achievements": "2023-10-15T20:09:41.8539831+00:00"
 }
