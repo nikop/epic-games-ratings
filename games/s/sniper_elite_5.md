@@ -38,10 +38,10 @@ Rating: 4.45 (Ranked 645)
 | My Little Friend | 10.00% | ~375 |
 | Rigged to Blow | 9.00% | ~337 |
 | Herr Today, Gone Tomorrow | 7.00% | ~259 |
+| Operation Foxley | 6.00% | ~222 |
 | The Long Game | 5.00% | ~187 |
 | It'll Buff Right Out | 5.00% | ~187 |
 | Don't hold your breath | 5.00% | ~187 |
-| Operation Foxley | 5.00% | ~185 |
 | Strategist | 4.00% | ~150 |
 | Tinkerer | 4.00% | ~150 |
 | Locomotion Commotion | 4.00% | ~150 |

@@ -4,7 +4,7 @@
   "ProductSlug": "skeletal-avengers-af85a4",
   "Ranking_EOS_Progress": 448,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewPlayers": 314,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-05-24T10:00:00+00:00",
@@ -254,9 +254,9 @@
       "ID": "COLLECTOR_TRINKETS",
       "SetID": "63n2m0e",
       "Name": "Jeweller",
-      "Percentage": 16,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "DASHER",
@@ -405,8 +405,8 @@
   ],
   "FirstSeen": "2023-05-26T16:57:16.6095793+00:00",
   "FirstSeenAchievements": "2023-05-16T19:59:50.0064107+00:00",
-  "LastChanged_Achievements": "2023-10-15T18:04:36.3450039+00:00",
+  "LastChanged_Achievements": "2023-10-15T19:04:28.6022272+00:00",
   "LastUpdate_AppInfo": "2023-10-11T09:57:29.382808+00:00",
-  "LastUpdate_Ratings": "2023-10-15T17:57:52.6982486+00:00",
-  "LastUpdate_Achievements": "2023-10-15T18:04:36.3450225+00:00"
+  "LastUpdate_Ratings": "2023-10-15T18:57:45.5058217+00:00",
+  "LastUpdate_Achievements": "2023-10-15T19:04:28.6022404+00:00"
 }

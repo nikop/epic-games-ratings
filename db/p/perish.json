@@ -4,7 +4,7 @@
   "ProductSlug": "perish-390141",
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3562,
+  "EOS_Progressed": 3564,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3328,6 +3328,11 @@
       "Time": "2023-10-15T01:52:10.8662365+00:00",
       "NumProgressed": 3562,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-15T19:05:40.4674343+00:00",
+      "NumProgressed": 3564,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -3387,7 +3392,7 @@
       "Name": "Immolator",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_FH",
@@ -3419,7 +3424,7 @@
       "Name": "Go For the Head",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_K_A2",
@@ -3427,7 +3432,7 @@
       "Name": "Spartan Sandal",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_K_A3",
@@ -3555,7 +3560,7 @@
       "Name": "Symbols of Heresy",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_OB_BR",
@@ -3587,7 +3592,7 @@
       "Name": "The Sons of Minos",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_OB_CS",
@@ -3635,7 +3640,7 @@
       "Name": "Eidola",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_OB_LI",
@@ -3787,7 +3792,7 @@
       "Name": "Invicta",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "KBK",
@@ -3842,7 +3847,7 @@
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 3562,
+      "Progressed": 3564,
       "Completed": 0
     }
   ],
@@ -3850,8 +3855,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-10-15T18:05:47.0209808+00:00",
+  "LastChanged_Achievements": "2023-10-15T19:05:40.4674336+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:05.7421142+00:00",
-  "LastUpdate_Ratings": "2023-10-15T17:58:53.7507694+00:00",
-  "LastUpdate_Achievements": "2023-10-15T18:05:47.021063+00:00"
+  "LastUpdate_Ratings": "2023-10-15T18:58:50.9300833+00:00",
+  "LastUpdate_Achievements": "2023-10-15T19:05:40.4675032+00:00"
 }

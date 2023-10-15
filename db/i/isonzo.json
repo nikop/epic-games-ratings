@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 361,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -838,9 +838,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 7049,
+  "EOS_Progressed": 7050,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -6118,6 +6118,11 @@
       "Time": "2023-10-15T18:08:25.8796737+00:00",
       "NumProgressed": 7049,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-15T19:08:09.1714688+00:00",
+      "NumProgressed": 7050,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 45,
@@ -6129,7 +6134,7 @@
       "Name": "12th Bottle of the Isonzo",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "ISONZO_ACH_AURELIO_BARUZZI",
@@ -6185,7 +6190,7 @@
       "Name": "Dante\u0027s Inferno",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 775
+      "UsersEstimate": 776
     },
     {
       "ID": "ISONZO_ACH_DECIMATION",
@@ -6233,7 +6238,7 @@
       "Name": "Farewell to Arms",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "ISONZO_ACH_GABRIELE_DANNUNZIO",
@@ -6273,7 +6278,7 @@
       "Name": "Luigi Cadorna",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1057
+      "UsersEstimate": 1058
     },
     {
       "ID": "ISONZO_ACH_MACHIAVELLI",
@@ -6305,7 +6310,7 @@
       "Name": "Millenial",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 775
+      "UsersEstimate": 776
     },
     {
       "ID": "ISONZO_ACH_O_LA_VITTORIA_O_TUTTI_ACCOPPATI",
@@ -6321,7 +6326,7 @@
       "Name": "Peak Performance",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3806
+      "UsersEstimate": 3807
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -6329,7 +6334,7 @@
       "Name": "Ponte of No Return",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "ISONZO_ACH_RAGAZZI_DEL_99",
@@ -6337,7 +6342,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1339
+      "UsersEstimate": 1340
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -6377,7 +6382,7 @@
       "Name": "Silver Lining",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 2185
+      "UsersEstimate": 2186
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -6385,7 +6390,7 @@
       "Name": "So\u010Da Drag",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "ISONZO_ACH_SUPER_MARIO",
@@ -6457,7 +6462,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3877
+      "UsersEstimate": 3878
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -6488,7 +6493,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 7049,
+      "Progressed": 7050,
       "Completed": 9
     }
   ],
@@ -6496,8 +6501,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-09-23T14:01:09.047151+00:00",
-  "LastChanged_Achievements": "2023-10-15T18:08:25.8796732+00:00",
+  "LastChanged_Achievements": "2023-10-15T19:08:09.1714683+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:22.0219629+00:00",
-  "LastUpdate_Ratings": "2023-10-15T17:57:25.7332992+00:00",
-  "LastUpdate_Achievements": "2023-10-15T18:08:25.8797452+00:00"
+  "LastUpdate_Ratings": "2023-10-15T18:57:15.9763528+00:00",
+  "LastUpdate_Achievements": "2023-10-15T19:08:09.1715197+00:00"
 }

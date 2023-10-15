@@ -6,23 +6,23 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tutti Eroi! | 55.00% | ~3,877 |
-| Peak Performance | 54.00% | ~3,806 |
+| Tutti Eroi! | 55.00% | ~3,878 |
+| Peak Performance | 54.00% | ~3,807 |
 | You Shall Not Pass | 53.00% | ~3,736 |
 | Avanti Savoia! | 48.00% | ~3,384 |
 | Mamma Mia! | 38.00% | ~2,679 |
 | Conrad von Hotzensocks | 36.00% | ~2,538 |
 | Gabriele D'Annunzio | 34.00% | ~2,397 |
-| Silver Lining | 31.00% | ~2,185 |
+| Silver Lining | 31.00% | ~2,186 |
 | Aurelio Baruzzi | 24.00% | ~1,692 |
 | Decimation | 22.00% | ~1,551 |
 | Donatello | 22.00% | ~1,551 |
 | The Italian Job | 22.00% | ~1,551 |
 | Veni Vidi Vici | 22.00% | ~1,551 |
 | Insubordination | 20.00% | ~1,410 |
-| Ragazzi del '99 | 19.00% | ~1,339 |
+| Ragazzi del '99 | 19.00% | ~1,340 |
 | The Lion of the Isonzo | 18.00% | ~1,269 |
-| Luigi Cadorna | 15.00% | ~1,057 |
+| Luigi Cadorna | 15.00% | ~1,058 |
 | Dirty Dozen | 14.00% | ~987 |
 | Shaken, Not Stirred | 14.00% | ~987 |
 | Uomo Universale | 14.00% | ~987 |
@@ -30,20 +30,20 @@ Number of Ratings: 98  (23.09.2022)
 | Machiavelli | 13.00% | ~916 |
 | Thus With A Kiss | 13.00% | ~916 |
 | The Devil's Paintbrush | 12.00% | ~846 |
-| Dante's Inferno | 11.00% | ~775 |
-| Millenial | 11.00% | ~775 |
+| Dante's Inferno | 11.00% | ~776 |
+| Millenial | 11.00% | ~776 |
 | I Have the High Ground | 10.00% | ~705 |
 | The Show Must Go On | 9.00% | ~634 |
 | Tosca | 9.00% | ~634 |
-| 12th Bottle of the Isonzo | 7.00% | ~493 |
+| 12th Bottle of the Isonzo | 7.00% | ~494 |
 | Cercatore d'Oro | 6.00% | ~423 |
 | The Enlightment | 6.00% | ~423 |
 | Generalissimo | 5.00% | ~352 |
 | "O La Vittoria, O Tutti Accoppati" | 4.00% | ~282 |
 | Seeing Red | 4.00% | ~282 |
-| Farewell to Arms | 3.00% | ~211 |
-| Ponte of No Return | 3.00% | ~211 |
-| Soča Drag | 3.00% | ~211 |
+| Farewell to Arms | 3.00% | ~212 |
+| Ponte of No Return | 3.00% | ~212 |
+| Soča Drag | 3.00% | ~212 |
 | Saboteur | 2.00% | ~141 |
 | Compagnia della Morte | 1.00% | ~70 |
 | Drop and Give Me 20 | 1.00% | ~70 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~28 |
 | Can I Go Home Now? | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,049 (Ranked 160)  
+Progressed: 7,050 (Ranked 160)  
 Completed: 9 (0.13%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 9 (0.13%) (Ranked 237)
 | 2023-10-12 | 7,042 | 8 |
 | 2023-10-13 | 7,044 | 8 |
 | 2023-10-14 | 7,046 | 8 |
-| 2023-10-15 | 7,049 | 9 |
+| 2023-10-15 | 7,050 | 9 |
 ## Awards
 Max (Highly Recommended): 36  (Ranked 452)  
 Sum: 274 (Ranked 361)  

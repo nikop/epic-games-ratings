@@ -7,10 +7,10 @@
 | Brace for impact! | 31.00% | ~122 |
 | Baby's First Car | 29.00% | ~114 |
 | Pushover | 29.00% | ~114 |
-| A Forest Walk | 29.00% | ~114 |
 | Amateur Mechanic | 28.00% | ~110 |
-| Multiply that! | 27.00% | ~106 |
+| A Forest Walk | 28.00% | ~110 |
 | C-C-C-Combo! | 26.00% | ~102 |
+| Multiply that! | 26.00% | ~102 |
 | Fore! | 24.00% | ~94 |
 | Insurance fraud | 24.00% | ~94 |
 | Snow Fun! | 24.00% | ~94 |
@@ -22,14 +22,14 @@
 | Bag of Tricks | 22.00% | ~86 |
 | I see the light! | 22.00% | ~86 |
 | In the Bag! | 22.00% | ~86 |
-| First Come, First Serve | 21.00% | ~82 |
-| Disoriented | 21.00% | ~82 |
-| Take that Frosty! | 21.00% | ~82 |
-| Beach Party! | 21.00% | ~82 |
-| Car-Tapult | 20.00% | ~78 |
-| Anger Issues | 20.00% | ~78 |
-| Your Highness | 20.00% | ~78 |
-| Event Amateur | 19.00% | ~74 |
+| First Come, First Serve | 21.00% | ~83 |
+| Disoriented | 21.00% | ~83 |
+| Take that Frosty! | 21.00% | ~83 |
+| Beach Party! | 21.00% | ~83 |
+| Car-Tapult | 20.00% | ~79 |
+| Anger Issues | 20.00% | ~79 |
+| Your Highness | 20.00% | ~79 |
+| Event Amateur | 19.00% | ~75 |
 | Feeling Dizzy? | 18.00% | ~71 |
 | Drift King! | 17.00% | ~67 |
 | Feeling Hot Hot Hot! | 17.00% | ~67 |
@@ -44,7 +44,7 @@
 | Earth Defense Force | 11.00% | ~43 |
 | Rocketman | 11.00% | ~43 |
 | Event Pro | 10.00% | ~39 |
-| Space Crash | 7.00% | ~27 |
+| Space Crash | 7.00% | ~28 |
 | To war! | 6.00% | ~24 |
 | Hoarder | 6.00% | ~24 |
 | Event Master | 5.00% | ~20 |
@@ -60,7 +60,7 @@
 | Master Mechanic | 1.00% | ~4 |
 | Crashed and Driven | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 392 (Ranked 292)  
+Progressed: 393 (Ranked 292)  
 Completed: 2 (0.51%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,6 +138,7 @@ Completed: 2 (0.51%) (Ranked 176)
 | 2023-10-11 | 390 | 2 |
 | 2023-10-13 | 391 | 2 |
 | 2023-10-14 | 392 | 2 |
+| 2023-10-15 | 393 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

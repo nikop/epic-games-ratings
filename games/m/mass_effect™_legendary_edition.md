@@ -28,10 +28,10 @@
 | Scientist | 47.00% | ~329 |
 | Merciless | 46.00% | ~322 |
 | Krogan Ally | 45.00% | ~315 |
+| Head Hunter | 44.00% | ~308 |
 | Sentinel Ally | 43.00% | ~301 |
 | Missing in Action | 43.00% | ~301 |
 | Very Elusive | 43.00% | ~301 |
-| Head Hunter | 43.00% | ~301 |
 | Operative | 42.00% | ~294 |
 | Scholar | 42.00% | ~294 |
 | Veteran | 41.00% | ~287 |
@@ -64,10 +64,10 @@
 | Fade Away | 30.00% | ~210 |
 | Treason | 30.00% | ~210 |
 | Agent | 30.00% | ~210 |
+| Digital Exorcist | 30.00% | ~210 |
 | Bringer of War | 30.00% | ~210 |
 | Cat's in the Cradle | 29.00% | ~203 |
 | Doppelganger | 29.00% | ~203 |
-| Digital Exorcist | 29.00% | ~203 |
 | Mobilizer | 29.00% | ~203 |
 | Friend or Foe | 28.00% | ~196 |
 | First Aid Specialist | 27.00% | ~189 |

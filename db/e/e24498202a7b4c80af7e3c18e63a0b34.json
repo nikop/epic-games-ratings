@@ -90,7 +90,7 @@
   "Tags": [],
   "EOS_Progressed": 6153,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 324,
+  "EOS_NewPlayers": 317,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -3463,9 +3463,9 @@
       "ID": "achievement_01_01_arcadeFTUX",
       "SetID": "4f1m94d",
       "Name": "First of Many",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 5230
+      "UsersEstimate": 5292
     },
     {
       "ID": "achievement_01_02",
@@ -3751,9 +3751,9 @@
       "ID": "achievement_04_08",
       "SetID": "4f1m94d",
       "Name": "Trigger-Happy",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 5169
+      "UsersEstimate": 5230
     },
     {
       "ID": "achievement_04_09",
@@ -3776,8 +3776,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-10-15T01:47:00.4126107+00:00",
-  "LastChanged_Achievements": "2023-10-15T18:06:09.074786+00:00",
+  "LastChanged_Achievements": "2023-10-15T19:06:02.6470941+00:00",
   "LastUpdate_AppInfo": "2023-10-12T18:57:03.8112557+00:00",
-  "LastUpdate_Ratings": "2023-10-15T18:00:41.2925639+00:00",
-  "LastUpdate_Achievements": "2023-10-15T18:06:09.0748322+00:00"
+  "LastUpdate_Ratings": "2023-10-15T19:00:37.4008181+00:00",
+  "LastUpdate_Achievements": "2023-10-15T19:06:02.6471327+00:00"
 }

@@ -5,12 +5,12 @@ Rating: 4.54 (Ranked 511)
 Number of Ratings: 874  (23.09.2022)  
 ## Awards
 Max (Unique Visuals): 35  (Ranked 456)  
-Sum: 213 (Ranked 379)  
+Sum: 214 (Ranked 379)  
 Diff (max vs sum): 77  
 | Award | Count |
 | ----- | ----- |
 | This game has Unique Visuals | 35 |
-| This game has Amazing Characters | 33 |
+| This game has Amazing Characters | 34 |
 | This game is Highly Recommended | 32 |
 | This game has Amazing Storytelling | 31 |
 | This game has Diverse Characters | 30 |
@@ -120,3 +120,4 @@ Diff (max vs sum): 77
 | 2023-09-30 | 4.54 | - | 35 | 211 |
 | 2023-10-12 | 4.54 | - | 35 | 212 |
 | 2023-10-14 | 4.54 | - | 35 | 213 |
+| 2023-10-15 | 4.54 | - | 35 | 214 |

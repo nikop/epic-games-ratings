@@ -3,7 +3,7 @@
   "Name": "Torchlight II",
   "ProductSlug": "torchlight-2",
   "Ranking_Rating": 419,
-  "Ranking_Popularity": 145,
+  "Ranking_Popularity": 144,
   "Ranking_PopularitySum": 204,
   "Ranking_EOS_Progress": 670,
   "Ranking_EOS_Completed": 314,
@@ -2095,18 +2095,24 @@
       "Rating": 4.59,
       "NumberOfAwards": 2044,
       "NumberOfAwardsMax": 1040
+    },
+    {
+      "Time": "2023-10-15T18:59:14.7897298+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 2045,
+      "NumberOfAwardsMax": 1041
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2044,
-  "NumberOfAwardsMax": 1040,
+  "NumberOfAwards": 2045,
+  "NumberOfAwardsMax": 1041,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1040
+      "Count": 1041
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -2180,8 +2186,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:22.1423084+00:00",
-  "LastChanged": "2023-10-14T13:01:37.7636178+00:00",
+  "LastChanged": "2023-10-15T18:59:14.7897297+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:18.030111+00:00",
-  "LastUpdate_Ratings": "2023-10-15T17:59:16.9421694+00:00",
-  "LastUpdate_Achievements": "2023-10-15T18:04:09.89329+00:00"
+  "LastUpdate_Ratings": "2023-10-15T18:59:14.78973+00:00",
+  "LastUpdate_Achievements": "2023-10-15T19:03:51.1804352+00:00"
 }

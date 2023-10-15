@@ -54,12 +54,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Pyramids | 1.00% | ~147 |
 | Drillmaster | 0.90% | ~133 |
 | Great | 0.90% | ~133 |
+| Legendary Cities | 0.90% | ~133 |
 | Colossus | 0.90% | ~133 |
 | Musaeum | 0.90% | ~133 |
 | Manichaeism | 0.90% | ~133 |
 | Regicide | 0.80% | ~118 |
 | Valiant | 0.80% | ~118 |
-| Legendary Cities | 0.80% | ~118 |
 | Just Difficulty | 0.80% | ~118 |
 | Artisans | 0.80% | ~118 |
 | Apadana | 0.80% | ~118 |
@@ -80,6 +80,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Victorious | 0.60% | ~88 |
 | Good Difficulty | 0.60% | ~88 |
 | Patrons | 0.60% | ~88 |
+| Circus Maximus | 0.60% | ~88 |
 | Learn to Play 3 | 0.60% | ~88 |
 | Greece | 0.60% | ~88 |
 | Power to the People | 0.60% | ~88 |
@@ -91,12 +92,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Landowners | 0.50% | ~74 |
 | Riders | 0.50% | ~74 |
 | Hittite Iron | 0.50% | ~74 |
-| Circus Maximus | 0.50% | ~74 |
 | Hagia Sophia | 0.50% | ~74 |
 | Temple of Solomon | 0.50% | ~74 |
 | Pantheon | 0.50% | ~74 |
 | Via Recta Souk | 0.50% | ~74 |
 | Learn to Play 4 | 0.50% | ~74 |
+| Economic Reform | 0.50% | ~74 |
 | Legalism | 0.50% | ~74 |
 | Redemption | 0.50% | ~74 |
 | Cimmerian Archer | 0.50% | ~74 |
@@ -115,7 +116,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | One True Faith | 0.40% | ~59 |
 | Assyrian Paganism | 0.40% | ~59 |
 | Hittite Paganism | 0.40% | ~59 |
-| Economic Reform | 0.40% | ~59 |
 | Military Prestige | 0.40% | ~59 |
 | Dualism | 0.40% | ~59 |
 | Gnosticism | 0.40% | ~59 |
@@ -198,6 +198,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Destroyer | 0.10% | ~15 |
 | Holy | 0.10% | ~15 |
 | White Death | 0.10% | ~15 |
+| Oracle in Delphi | 0.10% | ~15 |
 | Great Difficulty | 0.10% | ~15 |
 | Magnificent Difficulty | 0.10% | ~15 |
 | Ethnic Diversity | 0.10% | ~15 |
@@ -331,7 +332,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Restorer | 0.00% | ~0 |
 | Council of Madness | 0.00% | ~0 |
 | Via Recta Souk in Damascus | 0.00% | ~0 |
-| Oracle in Delphi | 0.00% | ~0 |
 | Elephant in Elephantine | 0.00% | ~0 |
 | That Also Works | 0.00% | ~0 |
 | Not a Scratch | 0.00% | ~0 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,724 (Ranked 135)  
+Progressed: 14,725 (Ranked 135)  
 Completed: 5 (0.03%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -527,15 +527,15 @@ Completed: 5 (0.03%) (Ranked 283)
 | 2023-10-12 | 14,624 | 5 |
 | 2023-10-13 | 14,652 | 5 |
 | 2023-10-14 | 14,699 | 5 |
-| 2023-10-15 | 14,724 | 5 |
+| 2023-10-15 | 14,725 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
-Sum: 1,839 (Ranked 210)  
+Sum: 1,840 (Ranked 210)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 224 |
-| This game has Diverse Characters | 214 |
+| This game has Diverse Characters | 215 |
 | This game is Highly Recommended | 213 |
 | This game is Extremely Fun | 211 |
 | This game is Educational | 210 |
@@ -693,3 +693,4 @@ Diff (max vs sum): 57
 | 2023-10-12 | 4.65 | - | 224 | 1,835 |
 | 2023-10-13 | 4.65 | - | 224 | 1,836 |
 | 2023-10-14 | 4.65 | - | 224 | 1,839 |
+| 2023-10-15 | 4.65 | - | 224 | 1,840 |

@@ -13,7 +13,7 @@
 | The Frenzy | 34.00% | ~170 |
 | Good Karma | 32.00% | ~160 |
 | Office Clerk | 31.00% | ~155 |
-| Protector | 29.00% | ~145 |
+| Protector | 30.00% | ~150 |
 | The Bribe | 28.00% | ~140 |
 | The Ploy | 16.00% | ~80 |
 | Interrogation | 16.00% | ~80 |
@@ -23,7 +23,7 @@
 | The Fool | 6.00% | ~30 |
 | Proficient Storyteller | 5.00% | ~25 |
 | The Coward | 3.00% | ~15 |
-| Expert Storyteller | 1.00% | ~5 |
+| Expert Storyteller | 2.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 500 (Ranked 274)  
 Completed: 7 (1.40%) (Ranked 125)  

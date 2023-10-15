@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -1670,9 +1670,9 @@
       "ID": "ACHIEVEMENT_QUESTS1",
       "SetID": "9eacipp",
       "Name": "Completionist I",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 259
+      "UsersEstimate": 302
     },
     {
       "ID": "ACHIEVEMENT_QUESTS2",
@@ -2190,8 +2190,8 @@
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-10-15T18:05:05.2458897+00:00",
+  "LastChanged_Achievements": "2023-10-15T19:04:58.0376111+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:32.6400673+00:00",
-  "LastUpdate_Ratings": "2023-10-15T18:00:01.0009273+00:00",
-  "LastUpdate_Achievements": "2023-10-15T18:05:05.2460268+00:00"
+  "LastUpdate_Ratings": "2023-10-15T19:00:00.9717998+00:00",
+  "LastUpdate_Achievements": "2023-10-15T19:04:58.0377103+00:00"
 }

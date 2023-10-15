@@ -6,14 +6,14 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~11,559 |
-| Finding Your Footing | 26.00% | ~11,131 |
-| Nomad | 17.00% | ~7,278 |
-| Picking Up Speed | 16.00% | ~6,850 |
+| Rookie | 27.00% | ~11,560 |
+| Finding Your Footing | 26.00% | ~11,132 |
+| Nomad | 17.00% | ~7,279 |
+| Picking Up Speed | 16.00% | ~6,851 |
 | Welcome Maya | 15.00% | ~6,422 |
-| Scout | 11.00% | ~4,709 |
-| Sightseer | 11.00% | ~4,709 |
-| Amateur | 10.00% | ~4,281 |
+| Scout | 11.00% | ~4,710 |
+| Sightseer | 11.00% | ~4,710 |
+| Amateur | 10.00% | ~4,282 |
 | Unlock Maya | 8.00% | ~3,425 |
 | Enter Paz | 8.00% | ~3,425 |
 | Wanderer | 8.00% | ~3,425 |
@@ -21,7 +21,7 @@ Number of Ratings: 332  (23.09.2022)
 | My Little Friend | 5.00% | ~2,141 |
 | One With The Board | 5.00% | ~2,141 |
 | Voyager | 5.00% | ~2,141 |
-| Izel Has Arrived | 4.00% | ~1,712 |
+| Izel Has Arrived | 4.00% | ~1,713 |
 | Junkie | 3.00% | ~1,284 |
 | Traveler | 3.00% | ~1,284 |
 | Journeyer | 3.00% | ~1,284 |
@@ -36,8 +36,8 @@ Number of Ratings: 332  (23.09.2022)
 | Daredevil | 1.00% | ~428 |
 | Introducing Sumara | 1.00% | ~428 |
 | Vandal | 1.00% | ~428 |
-| Adventurer | 0.80% | ~342 |
-| Unlock Felipe | 0.80% | ~342 |
+| Adventurer | 0.80% | ~343 |
+| Unlock Felipe | 0.80% | ~343 |
 | Unlock Tupa | 0.50% | ~214 |
 | Master Of The Sands | 0.30% | ~128 |
 | Master | 0.20% | ~86 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~43 |
 | Windswept | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,812 (Ranked 107)  
+Progressed: 42,816 (Ranked 107)  
 Completed: 5 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 5 (0.01%) (Ranked 296)
 | 2023-10-12 | 42,459 | 5 |
 | 2023-10-13 | 42,578 | 5 |
 | 2023-10-14 | 42,719 | 5 |
-| 2023-10-15 | 42,812 | 5 |
+| 2023-10-15 | 42,816 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 48  (Ranked 420)  
 Sum: 366 (Ranked 334)  

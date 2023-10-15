@@ -22,7 +22,7 @@
 | You have two wishes left | 34.00% | ~10 |
 | The artist | 31.00% | ~9 |
 | The seer | 31.00% | ~9 |
-| Et in arcadia ego | 24.00% | ~7 |
+| Et in arcadia ego | 28.00% | ~8 |
 | Welcome to Hellville | 24.00% | ~7 |
 | You had one wish left | 21.00% | ~6 |
 | You've awakened the beast | 17.00% | ~5 |

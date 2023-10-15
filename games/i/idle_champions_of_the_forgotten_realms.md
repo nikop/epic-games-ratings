@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fowl Play | 0.10% | ~198 |
 | Time Out | 0.10% | ~198 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,944 (Ranked 58)  
+Progressed: 231,945 (Ranked 58)  
 Completed: 2,363 (1.02%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -713,7 +713,7 @@ Completed: 2,363 (1.02%) (Ranked 145)
 | 2023-10-12 | 231,654 | 2,355 |
 | 2023-10-13 | 231,754 | 2,358 |
 | 2023-10-14 | 231,864 | 2,361 |
-| 2023-10-15 | 231,944 | 2,363 |
+| 2023-10-15 | 231,945 | 2,363 |
 ## Awards
 Max (Great for Beginners): 5,404  (Ranked 69)  
 Sum: 32,048 (Ranked 41)  

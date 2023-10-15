@@ -13,13 +13,13 @@
 | Cable guy | 8.00% | ~24 |
 | True G3M4R | 8.00% | ~24 |
 | The darkness | 8.00% | ~24 |
+| One last step | 8.00% | ~24 |
 | I did it | 7.00% | ~21 |
 | In this together | 7.00% | ~21 |
 | Peace walker | 7.00% | ~21 |
 | A good beginning | 7.00% | ~21 |
 | Half the way | 7.00% | ~21 |
 | Champollion | 7.00% | ~21 |
-| One last step | 7.00% | ~21 |
 | Feels like springtime | 6.00% | ~18 |
 | Alchemists Express | 6.00% | ~18 |
 | Open door | 5.00% | ~15 |

@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chapter I | 51.00% | ~68 |
-| Fire in the... nevermind | 50.00% | ~66 |
+| Chapter I | 52.00% | ~69 |
+| Fire in the... nevermind | 51.00% | ~68 |
 | Haute cuisine | 47.00% | ~63 |
+| Demolition expert | 39.00% | ~52 |
 | I didn't do it! | 39.00% | ~52 |
-| Demolition expert | 38.00% | ~51 |
 | Wooooooow! | 38.00% | ~51 |
 | Keep away from children | 35.00% | ~47 |
 | Artistic fool | 34.00% | ~45 |
+| Open up wide | 33.00% | ~44 |
 | Let the boot talk | 32.00% | ~43 |
-| Open up wide | 32.00% | ~43 |
 | Chapter II | 28.00% | ~37 |
 | Achoo!! | 25.00% | ~33 |
 | Shadow on the wall | 24.00% | ~32 |
@@ -30,7 +30,7 @@
 | Death is a part of life | 16.00% | ~21 |
 | Master of Thermodynamics | 14.00% | ~19 |
 | Unfullfilled dreams | 13.00% | ~17 |
-| To err is human... | 11.00% | ~15 |
+| To err is human... | 12.00% | ~16 |
 | Useless but beautiful | 10.00% | ~13 |
 | Nothing can stop me | 10.00% | ~13 |
 | Mumbo Jumbo | 10.00% | ~13 |
