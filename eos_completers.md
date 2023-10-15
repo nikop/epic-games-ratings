@@ -2,7 +2,7 @@
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 1 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 100.00% |
-| 3 | [The Riflemen](games/t/the_riflemen.md) | 49.57% |
+| 3 | [The Riflemen](games/t/the_riflemen.md) | 49.53% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.15% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.99% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
@@ -24,12 +24,12 @@
 | 22 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.12% |
 | 23 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 14.29% |
 | 23 | [Seven Doors](games/s/seven_doors.md) | 14.29% |
-| 25 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 12.77% |
-| 26 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 12.50% |
-| 27 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.30% |
-| 28 | [Remains](games/r/remains.md) | 11.76% |
-| 29 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 11.59% |
-| 30 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 11.29% |
+| 25 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 12.90% |
+| 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 12.77% |
+| 27 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 12.50% |
+| 28 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.30% |
+| 29 | [Remains](games/r/remains.md) | 11.76% |
+| 30 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 11.59% |
 | 31 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 32 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.05% |
 | 33 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.80% |
@@ -49,7 +49,7 @@
 | 47 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.41% |
 | 48 | [Time Loader](games/t/time_loader.md) | 7.20% |
 | 49 | [Scorn](games/s/scorn.md) | 7.02% |
-| 50 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.85% |
+| 50 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.83% |
 | 51 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.38% |
 | 52 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.29% |
 | 53 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -69,7 +69,7 @@
 | 67 | [ZZT!](games/z/zzt!.md) | 4.48% |
 | 68 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.45% |
 | 69 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.10% |
-| 70 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.07% |
+| 70 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.05% |
 | 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.01% |
 | 72 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.00% |
 | 73 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.82% |
@@ -130,7 +130,7 @@
 | 126 | [Ten Dates](games/t/ten_dates.md) | 1.38% |
 | 129 | [Chorus](games/c/chorus.md) | 1.37% |
 | 129 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.37% |
-| 129 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.37% |
+| 131 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.35% |
 | 132 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.32% |
 | 132 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.32% |
 | 134 | [Lemon Cake](games/l/lemon_cake.md) | 1.31% |
@@ -210,8 +210,8 @@
 | 208 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.29% |
 | 208 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
 | 208 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.29% |
-| 211 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.28% |
-| 212 | [The Devil's Face](games/t/the_devil's_face.md) | 0.27% |
+| 211 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.27% |
+| 211 | [The Devil's Face](games/t/the_devil's_face.md) | 0.27% |
 | 213 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.26% |
 | 214 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
 | 214 | [Filament](games/f/filament.md) | 0.25% |
