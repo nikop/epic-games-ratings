@@ -2,7 +2,7 @@
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 1 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 100.00% |
-| 3 | [The Riflemen](games/t/the_riflemen.md) | 49.40% |
+| 3 | [The Riflemen](games/t/the_riflemen.md) | 49.37% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.15% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.99% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
@@ -27,7 +27,7 @@
 | 25 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 12.90% |
 | 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 12.77% |
 | 27 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 12.50% |
-| 28 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.30% |
+| 28 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.29% |
 | 29 | [Remains](games/r/remains.md) | 11.76% |
 | 30 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 11.59% |
 | 31 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
@@ -70,11 +70,11 @@
 | 68 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.45% |
 | 69 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.10% |
 | 70 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.04% |
-| 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.01% |
+| 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.02% |
 | 72 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.00% |
 | 73 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.82% |
 | 74 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
-| 75 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.74% |
+| 75 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.73% |
 | 76 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.60% |
 | 77 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
 | 77 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.57% |
@@ -138,9 +138,9 @@
 | 136 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.16% |
 | 137 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.15% |
 | 138 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.13% |
-| 139 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 1.11% |
-| 140 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.09% |
+| 139 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 1.10% |
 | 140 | [Trifox](games/t/trifox.md) | 1.09% |
+| 141 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.08% |
 | 142 | [Adios](games/a/adios.md) | 1.05% |
 | 142 | [Infindustry](games/i/infindustry.md) | 1.05% |
 | 142 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.05% |
@@ -249,15 +249,15 @@
 | 246 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.10% |
 | 246 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.10% |
 | 246 | [House Flipper](games/h/house_flipper.md) | 0.10% |
+| 246 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.10% |
 | 246 | [Port Royale 4](games/p/port_royale_4.md) | 0.10% |
 | 246 | [Supraland](games/s/supraland.md) | 0.10% |
-| 252 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.09% |
-| 252 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
-| 252 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.09% |
-| 252 | [Lost Eidolons](games/l/lost_eidolons.md) | 0.09% |
-| 252 | [Riverbond](games/r/riverbond.md) | 0.09% |
-| 252 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
-| 252 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
+| 253 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.09% |
+| 253 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
+| 253 | [Lost Eidolons](games/l/lost_eidolons.md) | 0.09% |
+| 253 | [Riverbond](games/r/riverbond.md) | 0.09% |
+| 253 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
+| 253 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
 | 259 | [ATOM RPG](games/a/atom_rpg.md) | 0.08% |
 | 260 | [Black Book](games/b/black_book.md) | 0.07% |
 | 260 | [Partisans 1941](games/p/partisans_1941.md) | 0.07% |
@@ -668,4 +668,4 @@
 | 314 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 314 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 314 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,395 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,396 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
