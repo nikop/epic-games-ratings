@@ -155,7 +155,7 @@
 | 148 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.74 | 0 | 536 |
 | 148 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 7,233 | 52 |
 | 148 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.74 | 0 | 536 |
-| 148 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 39,734 | 13 |
+| 148 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 39,811 | 13 |
 | 148 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.74 | 0 | 536 |
 | 148 | [Tchia](games/t/tchia.md) | 4.74 | 0 | 536 |
 | 148 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 0 | 536 |
@@ -231,7 +231,7 @@
 | 221 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 536 |
 | 221 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 0 | 536 |
 | 221 | [Revita](games/r/revita.md) | 4.69 | 0 | 536 |
-| 221 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,508 | 36 |
+| 221 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,511 | 36 |
 | 221 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 343 | 233 |
 | 221 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 27 | 490 |
 | 221 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 0 | 536 |
@@ -556,7 +556,7 @@
 | 552 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,138 | 81 |
 | 552 | [CryoFall](games/c/cryofall.md) | 4.51 | 0 | 536 |
 | 552 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 0 | 536 |
-| 552 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.51 | 33,877 | 15 |
+| 552 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.51 | 33,934 | 15 |
 | 552 | [Duskers](games/d/duskers.md) | 4.51 | 0 | 536 |
 | 552 | [Fall Guys](games/f/fall_guys.md) | 4.51 | 150,059 | 7 |
 | 552 | [Far Cry](games/f/far_cry.md) | 4.51 | 28 | 482 |
@@ -812,21 +812,21 @@
 | 807 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 972 | 151 |
 | 807 | [Scrapnaut](games/s/scrapnaut.md) | 4.31 | 0 | 536 |
 | 812 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.30 | 0 | 536 |
+| 812 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.30 | 0 | 536 |
 | 812 | [Hammerting](games/h/hammerting.md) | 4.30 | 0 | 536 |
 | 812 | [Hellpoint](games/h/hellpoint.md) | 4.30 | 0 | 536 |
 | 812 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 0 | 536 |
 | 812 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 45 | 426 |
 | 812 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 4.30 | 0 | 536 |
-| 818 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.29 | 0 | 536 |
-| 818 | [ELEX II](games/e/elex_ii.md) | 4.29 | 0 | 536 |
-| 818 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.29 | 0 | 536 |
-| 818 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,819,693 | 1 |
-| 818 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.29 | 83 | 369 |
-| 818 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 744 | 171 |
-| 818 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.29 | 0 | 536 |
-| 818 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 151 | 308 |
-| 818 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 127 | 320 |
-| 818 | [Steelrising](games/s/steelrising.md) | 4.29 | 37 | 450 |
+| 819 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.29 | 0 | 536 |
+| 819 | [ELEX II](games/e/elex_ii.md) | 4.29 | 0 | 536 |
+| 819 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,819,693 | 1 |
+| 819 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.29 | 83 | 369 |
+| 819 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 744 | 171 |
+| 819 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.29 | 0 | 536 |
+| 819 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 151 | 308 |
+| 819 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 127 | 320 |
+| 819 | [Steelrising](games/s/steelrising.md) | 4.29 | 37 | 450 |
 | 828 | [Against All Odds](games/a/against_all_odds.md) | 4.28 | 0 | 536 |
 | 828 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.28 | 0 | 536 |
 | 828 | [Chess Ultra](games/c/chess_ultra.md) | 4.28 | 0 | 536 |

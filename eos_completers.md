@@ -2,7 +2,7 @@
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 1 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 100.00% |
-| 3 | [The Riflemen](games/t/the_riflemen.md) | 49.70% |
+| 3 | [The Riflemen](games/t/the_riflemen.md) | 49.67% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.15% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.99% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
@@ -49,7 +49,7 @@
 | 47 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.41% |
 | 48 | [Time Loader](games/t/time_loader.md) | 7.20% |
 | 49 | [Scorn](games/s/scorn.md) | 7.02% |
-| 50 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.90% |
+| 50 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.85% |
 | 51 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.45% |
 | 52 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.29% |
 | 53 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -82,7 +82,7 @@
 | 80 | [The Bunker](games/t/the_bunker.md) | 3.39% |
 | 81 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.37% |
 | 82 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
-| 82 | [The Complex](games/t/the_complex.md) | 3.34% |
+| 83 | [The Complex](games/t/the_complex.md) | 3.33% |
 | 84 | [Doodle God](games/d/doodle_god.md) | 3.27% |
 | 84 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.27% |
 | 86 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.18% |
@@ -105,7 +105,7 @@
 | 103 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.41% |
 | 104 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.40% |
 | 105 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.38% |
-| 106 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.33% |
+| 106 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.32% |
 | 107 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.31% |
 | 108 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.22% |
 | 109 | [Bloodshore](games/b/bloodshore.md) | 2.14% |
@@ -136,7 +136,7 @@
 | 134 | [Lemon Cake](games/l/lemon_cake.md) | 1.31% |
 | 134 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.31% |
 | 136 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.16% |
-| 136 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.16% |
+| 137 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.15% |
 | 138 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 1.14% |
 | 139 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.13% |
 | 140 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.09% |
@@ -176,7 +176,7 @@
 | 174 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
 | 174 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.53% |
 | 176 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.51% |
-| 177 | [Dead Space](games/d/dead_space.md) | 0.50% |
+| 177 | [Dead Space](games/d/dead_space.md) | 0.49% |
 | 178 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.46% |
 | 178 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.46% |
 | 178 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |

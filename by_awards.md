@@ -1,6 +1,6 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
-| 1 | [Fortnite](games/f/fortnite.md) | 1,819,693 | 4.29 | 818 |
+| 1 | [Fortnite](games/f/fortnite.md) | 1,819,693 | 4.29 | 819 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 577,198 | 4.48 | 607 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 310,140 | 4.68 | 240 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 242,360 | 4.68 | 240 |
@@ -12,9 +12,9 @@
 | 10 | [VALORANT](games/v/valorant.md) | 75,339 | 4.53 | 525 |
 | 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 62,184 | 4.58 | 437 |
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 46,734 | 4.61 | 374 |
-| 13 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 39,734 | 4.74 | 148 |
+| 13 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 39,811 | 4.74 | 148 |
 | 14 | [Destiny 2](games/d/destiny_2.md) | 38,317 | 4.49 | 591 |
-| 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 33,877 | 4.51 | 552 |
+| 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 33,934 | 4.51 | 552 |
 | 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 29,023 | 4.64 | 321 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 23,517 | 4.76 | 118 |
 | 18 | [Dauntless](games/d/dauntless.md) | 22,765 | 4.53 | 525 |
@@ -35,7 +35,7 @@
 | 33 | [Satisfactory](games/s/satisfactory.md) | 11,968 | 4.88 | 16 |
 | 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 11,888 | 4.45 | 645 |
 | 35 | [NBA 2K21](games/n/nba_2k21.md) | 11,771 | 4.39 | 730 |
-| 36 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,508 | 4.69 | 221 |
+| 36 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,511 | 4.69 | 221 |
 | 37 | [SnowRunner](games/s/snowrunner.md) | 11,266 | 4.76 | 118 |
 | 38 | [HITMAN World of Assassination](games/h/hitman_3.md) | 10,314 | 4.78 | 98 |
 | 39 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 10,241 | 4.61 | 374 |
@@ -170,7 +170,7 @@
 | 167 | [Train Valley 2](games/t/train_valley_2.md) | 768 | 4.44 | 656 |
 | 169 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 764 | 4.75 | 138 |
 | 170 | [Core](games/c/core.md) | 757 | 4.36 | 760 |
-| 171 | [Neverwinter](games/n/neverwinter.md) | 744 | 4.29 | 818 |
+| 171 | [Neverwinter](games/n/neverwinter.md) | 744 | 4.29 | 819 |
 | 172 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 733 | 4.87 | 22 |
 | 173 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 728 | 4.52 | 538 |
 | 174 | [Subnautica](games/s/subnautica.md) | 717 | 4.85 | 42 |
@@ -307,7 +307,7 @@
 | 304 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 157 | 4.86 | 28 |
 | 306 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 152 | 4.51 | 552 |
 | 306 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 152 | 4.85 | 42 |
-| 308 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 151 | 4.29 | 818 |
+| 308 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 151 | 4.29 | 819 |
 | 309 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 149 | 4.77 | 111 |
 | 310 | [Encased](games/e/encased.md) | 146 | 4.34 | 783 |
 | 311 | [Night in the Woods](games/n/night_in_the_woods.md) | 145 | 4.73 | 163 |
@@ -319,7 +319,7 @@
 | 317 | [Alien: Isolation](games/a/alien__isolation.md) | 133 | 4.61 | 374 |
 | 318 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 129 | 4.72 | 178 |
 | 319 | [Sonic Origins](games/s/sonic_origins.md) | 128 | 4.59 | 419 |
-| 320 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 127 | 4.29 | 818 |
+| 320 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 127 | 4.29 | 819 |
 | 321 | [Aven Colony](games/a/aven_colony.md) | 126 | 4.20 | 881 |
 | 321 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 126 | 4.52 | 538 |
 | 323 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 125 | 4.36 | 760 |
@@ -368,7 +368,7 @@
 | 364 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 86 | 4.59 | 419 |
 | 367 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 85 | 3.81 | 1,000 |
 | 368 | [Solitairica](games/s/solitairica.md) | 84 | 4.50 | 573 |
-| 369 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 83 | 4.29 | 818 |
+| 369 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 83 | 4.29 | 819 |
 | 369 | [Returnal™](games/r/returnal™.md) | 83 | 4.62 | 352 |
 | 369 | [This War of Mine](games/t/this_war_of_mine.md) | 83 | 4.74 | 148 |
 | 372 | [Super Meat Boy](games/s/super_meat_boy.md) | 81 | 4.71 | 187 |
@@ -450,7 +450,7 @@
 | 445 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 38 | 4.41 | 698 |
 | 445 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 38 | 4.49 | 591 |
 | 450 | [20XX](games/2/20xx.md) | 37 | 4.61 | 374 |
-| 450 | [Steelrising](games/s/steelrising.md) | 37 | 4.29 | 818 |
+| 450 | [Steelrising](games/s/steelrising.md) | 37 | 4.29 | 819 |
 | 452 | [Aimlabs](games/a/aimlabs.md) | 36 | 4.61 | 374 |
 | 452 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 36 | 4.17 | 904 |
 | 452 | [Isonzo](games/i/isonzo.md) | 36 | 4.56 | 472 |
