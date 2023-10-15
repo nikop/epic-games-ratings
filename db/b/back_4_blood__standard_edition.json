@@ -2,13 +2,13 @@
   "ID": "57dfd95548214a138218e56cd9e5b9d8",
   "Name": "Back 4 Blood: Standard Edition",
   "ProductSlug": "back-4-blood",
-  "Ranking_Rating": 628,
+  "Ranking_Rating": 627,
   "Ranking_Popularity": 89,
   "Ranking_PopularitySum": 101,
   "Ranking_EOS_Progress": 670,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 394,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-10-12T15:00:00+00:00",
     "PcReleaseDate": "2021-10-12T15:00:00+00:00",
@@ -5367,10 +5367,16 @@
       "Rating": 4.46,
       "NumberOfAwards": 8061,
       "NumberOfAwardsMax": 3631
+    },
+    {
+      "Time": "2023-10-15T10:02:20.3676472+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 8066,
+      "NumberOfAwardsMax": 3631
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8061,
+  "NumberOfAwards": 8066,
   "NumberOfAwardsMax": 3631,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5384,7 +5390,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 629
+      "Count": 631
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5402,7 +5408,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 619
+      "Count": 620
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5414,7 +5420,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 627
+      "Count": 629
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5434,8 +5440,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:46.310125+00:00",
-  "LastChanged": "2023-10-15T06:02:52.9236255+00:00",
+  "LastChanged": "2023-10-15T10:02:20.367647+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:49.3018252+00:00",
-  "LastUpdate_Ratings": "2023-10-15T09:00:23.1993818+00:00",
-  "LastUpdate_Achievements": "2023-10-15T09:05:14.5826935+00:00"
+  "LastUpdate_Ratings": "2023-10-15T10:02:20.3676476+00:00",
+  "LastUpdate_Achievements": "2023-10-15T10:06:21.6228104+00:00"
 }

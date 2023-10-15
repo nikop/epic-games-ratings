@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 192,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -4026,9 +4026,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 89089,
+  "EOS_Progressed": 89090,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 198,
+  "EOS_NewPlayers": 197,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -22216,6 +22216,11 @@
       "Time": "2023-10-15T09:08:16.094832+00:00",
       "NumProgressed": 89089,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-10-15T10:08:59.5165198+00:00",
+      "NumProgressed": 89090,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 41,
@@ -22481,9 +22486,9 @@
       "ID": "ACH_0450",
       "SetID": "3kam13l",
       "Name": "Off the Rocks",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 624
+      "UsersEstimate": 713
     },
     {
       "ID": "ACH_0451",
@@ -22554,13 +22559,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 89089,
+      "Progressed": 89090,
       "Completed": 50
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 17436,
+      "Progressed": 17437,
       "Completed": 15547
     }
   ],
@@ -22568,8 +22573,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-10-15T05:59:56.2754869+00:00",
-  "LastChanged_Achievements": "2023-10-15T09:08:16.0948314+00:00",
+  "LastChanged_Achievements": "2023-10-15T10:08:59.5165191+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:09.3878818+00:00",
-  "LastUpdate_Ratings": "2023-10-15T08:58:42.867957+00:00",
-  "LastUpdate_Achievements": "2023-10-15T09:08:16.0949824+00:00"
+  "LastUpdate_Ratings": "2023-10-15T09:59:49.3101875+00:00",
+  "LastUpdate_Achievements": "2023-10-15T10:08:59.5167923+00:00"
 }

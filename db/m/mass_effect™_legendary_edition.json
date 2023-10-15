@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -1691,9 +1691,9 @@
       "ID": "achievement_100",
       "SetID": "d252ncf",
       "Name": "A Personal Touch",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 222
+      "UsersEstimate": 229
     },
     {
       "ID": "achievement_101",
@@ -2155,9 +2155,9 @@
       "ID": "achievement_39",
       "SetID": "b9pe172",
       "Name": "Ghost Ship",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 222
+      "UsersEstimate": 229
     },
     {
       "ID": "achievement_4",
@@ -2595,9 +2595,9 @@
       "ID": "achievement_89",
       "SetID": "d252ncf",
       "Name": "Last Witness",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 125
+      "UsersEstimate": 132
     },
     {
       "ID": "achievement_9",
@@ -2703,8 +2703,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-15T09:04:24.7863127+00:00",
+  "LastChanged_Achievements": "2023-10-15T10:05:09.9076343+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:30.4071338+00:00",
-  "LastUpdate_Ratings": "2023-10-15T08:59:36.0196105+00:00",
-  "LastUpdate_Achievements": "2023-10-15T09:04:24.7865526+00:00"
+  "LastUpdate_Ratings": "2023-10-15T10:01:10.9049689+00:00",
+  "LastUpdate_Achievements": "2023-10-15T10:05:09.907903+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "93eeeab14a3d45b8bf5586a900137733",
   "Name": "Against the Storm",
   "ProductSlug": "against-the-storm",
-  "Ranking_Rating": 76,
+  "Ranking_Rating": 61,
   "Ranking_Popularity": 212,
   "Ranking_PopularitySum": 168,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.81,
+  "Rating": 4.82,
   "NumberOfRatings": 1845,
   "RatingHistory": [
     {
@@ -3030,10 +3030,16 @@
       "Rating": 4.81,
       "NumberOfAwards": 3190,
       "NumberOfAwardsMax": 436
+    },
+    {
+      "Time": "2023-10-15T09:59:16.348996+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3191,
+      "NumberOfAwardsMax": 436
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3190,
+  "NumberOfAwards": 3191,
   "NumberOfAwardsMax": 436,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3095,12 +3101,12 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 321
+      "Count": 322
     }
   ],
-  "EOS_Progressed": 16924,
+  "EOS_Progressed": 16925,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -12018,6 +12024,11 @@
       "Time": "2023-10-15T09:06:27.0553579+00:00",
       "NumProgressed": 16924,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-10-15T10:08:05.3552746+00:00",
+      "NumProgressed": 16925,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 50,
@@ -12117,7 +12128,7 @@
       "Name": "First Real Expedition",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1015
+      "UsersEstimate": 1016
     },
     {
       "ID": "WinHard",
@@ -12309,7 +12320,7 @@
       "Name": "The Marshlands",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1015
+      "UsersEstimate": 1016
     },
     {
       "ID": "WinOnMoorlands",
@@ -12365,7 +12376,7 @@
       "Name": "Taking Action",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1015
+      "UsersEstimate": 1016
     },
     {
       "ID": "WinWithResolve",
@@ -12405,7 +12416,7 @@
       "Name": "No Deaths",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1015
+      "UsersEstimate": 1016
     },
     {
       "ID": "WinWithoutOrders",
@@ -12428,15 +12439,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 16924,
+      "Progressed": 16925,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-10-13T23:58:44.8961481+00:00",
-  "LastChanged_Achievements": "2023-10-15T09:06:27.0553574+00:00",
+  "LastChanged": "2023-10-15T09:59:16.3489959+00:00",
+  "LastChanged_Achievements": "2023-10-15T10:08:05.3552742+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:53.7787195+00:00",
-  "LastUpdate_Ratings": "2023-10-15T08:58:20.7204162+00:00",
-  "LastUpdate_Achievements": "2023-10-15T09:06:27.0554592+00:00"
+  "LastUpdate_Ratings": "2023-10-15T09:59:16.3489966+00:00",
+  "LastUpdate_Achievements": "2023-10-15T10:08:05.3553822+00:00"
 }

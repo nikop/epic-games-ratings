@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1096,7 +1096,7 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 152308,
+  "EOS_Progressed": 152318,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 1127,
   "EOS_NewCompleters": 0,
@@ -11651,6 +11651,11 @@
       "Time": "2023-10-15T09:04:12.0686231+00:00",
       "NumProgressed": 152308,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-15T10:04:51.9165868+00:00",
+      "NumProgressed": 152318,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -11766,7 +11771,7 @@
       "Name": "Scion",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "DEFEAT_FLOWERROCKGIANT",
@@ -11868,9 +11873,9 @@
       "ID": "MISC_ACTIVATEALLBEACONS",
       "SetID": "ccc0dlh",
       "Name": "All-Seeing",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 305
+      "UsersEstimate": 457
     },
     {
       "ID": "MISC_ACTIVATESURROGATE",
@@ -12029,21 +12034,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 151891,
+      "Progressed": 151901,
       "Completed": 1160
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 152308,
+      "Progressed": 152318,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-14T20:01:19.9023533+00:00",
-  "LastChanged_Achievements": "2023-10-15T09:04:12.0686224+00:00",
+  "LastChanged_Achievements": "2023-10-15T10:04:51.9165865+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:33.8479674+00:00",
-  "LastUpdate_Ratings": "2023-10-15T08:59:41.4763249+00:00",
-  "LastUpdate_Achievements": "2023-10-15T09:04:12.0687305+00:00"
+  "LastUpdate_Ratings": "2023-10-15T10:01:18.2742855+00:00",
+  "LastUpdate_Achievements": "2023-10-15T10:04:51.9166985+00:00"
 }

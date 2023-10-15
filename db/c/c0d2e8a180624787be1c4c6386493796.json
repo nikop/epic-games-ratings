@@ -4,8 +4,8 @@
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 487,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
     "PcReleaseDate": "2020-10-15T04:00:00+00:00",
@@ -222,9 +222,9 @@
       "ID": "KR4_ACHIEVEMENT_DARK_SIDE",
       "SetID": "caeik3h",
       "Name": "Join The Dark Side",
-      "Percentage": 16,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "KR4_ACHIEVEMENT_DEFEAT_DWARF_KING",
@@ -718,9 +718,9 @@
       "ID": "KR4_ACHIEVEMENT_VERUK_MAX",
       "SetID": "caeik3h",
       "Name": "Champion Of The Arena",
-      "Percentage": 11,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "KR4_ACHIEVEMENT_WINTERLORD",
@@ -749,8 +749,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-10-15T09:03:45.0247685+00:00",
+  "LastChanged_Achievements": "2023-10-15T10:04:13.358046+00:00",
   "LastUpdate_AppInfo": "2023-10-12T15:57:01.5965856+00:00",
-  "LastUpdate_Ratings": "2023-10-15T08:58:34.0365158+00:00",
-  "LastUpdate_Achievements": "2023-10-15T09:03:45.0248697+00:00"
+  "LastUpdate_Ratings": "2023-10-15T09:59:36.3744192+00:00",
+  "LastUpdate_Achievements": "2023-10-15T10:04:13.358131+00:00"
 }

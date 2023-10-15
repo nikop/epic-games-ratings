@@ -11,7 +11,7 @@
 | Coin collector | 74.00% | ~166 |
 | Floater | 59.00% | ~132 |
 | Speedrunner | 45.00% | ~101 |
-| On foot racer | 41.00% | ~92 |
+| On foot racer | 42.00% | ~94 |
 | Prickly situation handler | 35.00% | ~78 |
 | Hat lover | 33.00% | ~74 |
 | Perfectionist | 31.00% | ~69 |

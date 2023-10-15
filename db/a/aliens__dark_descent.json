@@ -3,12 +3,12 @@
   "Name": "Aliens: Dark Descent",
   "ProductSlug": "aliens-dark-descent",
   "Ranking_Rating": 607,
-  "Ranking_Popularity": 472,
+  "Ranking_Popularity": 473,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 252,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -348,9 +348,9 @@
       "Count": 31
     }
   ],
-  "EOS_Progressed": 3476,
+  "EOS_Progressed": 3477,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -5148,6 +5148,11 @@
       "Time": "2023-10-15T08:08:08.058388+00:00",
       "NumProgressed": 3476,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-15T10:09:19.8621034+00:00",
+      "NumProgressed": 3477,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -5191,7 +5196,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 1842
+      "UsersEstimate": 1843
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -5215,7 +5220,7 @@
       "Name": "Stuff Of Nightmares",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 799
+      "UsersEstimate": 800
     },
     {
       "ID": "ACH_FINISH_HARD",
@@ -5255,7 +5260,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 2572
+      "UsersEstimate": 2573
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -5271,7 +5276,7 @@
       "Name": "Call Me Snake",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 2190
+      "UsersEstimate": 2191
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -5279,7 +5284,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 2329
+      "UsersEstimate": 2330
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -5319,7 +5324,7 @@
       "Name": "Bandage Lover",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "ACH_MAX_RECON",
@@ -5351,7 +5356,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 2120
+      "UsersEstimate": 2121
     },
     {
       "ID": "ACH_MISSION_02",
@@ -5359,7 +5364,7 @@
       "Name": "First Steps Into Madness",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 1842
+      "UsersEstimate": 1843
     },
     {
       "ID": "ACH_MISSION_03",
@@ -5375,7 +5380,7 @@
       "Name": "Making a Stand",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1529
+      "UsersEstimate": 1530
     },
     {
       "ID": "ACH_MISSION_05",
@@ -5383,7 +5388,7 @@
       "Name": "Where It All Begun",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1425
+      "UsersEstimate": 1426
     },
     {
       "ID": "ACH_MISSION_06",
@@ -5415,7 +5420,7 @@
       "Name": "The Passenger",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 973
+      "UsersEstimate": 974
     },
     {
       "ID": "ACH_MISSION_10",
@@ -5455,7 +5460,7 @@
       "Name": "Snatched Out",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 2572
+      "UsersEstimate": 2573
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -5479,7 +5484,7 @@
       "Name": "People Person",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 1981
+      "UsersEstimate": 1982
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -5511,14 +5516,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 1981
+      "UsersEstimate": 1982
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3476,
+      "Progressed": 3477,
       "Completed": 3
     }
   ],
@@ -5526,8 +5531,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-10-12T17:00:05.6617832+00:00",
-  "LastChanged_Achievements": "2023-10-15T09:08:30.2698648+00:00",
+  "LastChanged_Achievements": "2023-10-15T10:09:19.8621027+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:37.7365418+00:00",
-  "LastUpdate_Ratings": "2023-10-15T08:59:58.4366305+00:00",
-  "LastUpdate_Achievements": "2023-10-15T09:08:30.2699329+00:00"
+  "LastUpdate_Ratings": "2023-10-15T10:01:41.2915513+00:00",
+  "LastUpdate_Achievements": "2023-10-15T10:09:19.8622228+00:00"
 }

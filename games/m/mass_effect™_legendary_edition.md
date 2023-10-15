@@ -45,9 +45,9 @@
 | Galactic Explorer | 35.00% | ~243 |
 | Archivist | 34.00% | ~236 |
 | Broke, Blind, and Bedlam | 34.00% | ~236 |
+| A Personal Touch | 33.00% | ~229 |
+| Ghost Ship | 33.00% | ~229 |
 | The Quarian | 33.00% | ~229 |
-| A Personal Touch | 32.00% | ~222 |
-| Ghost Ship | 32.00% | ~222 |
 | The Assassin | 32.00% | ~222 |
 | The Justicar | 32.00% | ~222 |
 | Battlemaster | 32.00% | ~222 |
@@ -94,10 +94,10 @@
 | Under Pressure | 19.00% | ~132 |
 | Hard Target | 19.00% | ~132 |
 | Saboteur | 19.00% | ~132 |
+| Last Witness | 19.00% | ~132 |
 | Fact Finder | 19.00% | ~132 |
 | Electronics Specialist | 18.00% | ~125 |
 | Sabotage Specialist | 18.00% | ~125 |
-| Last Witness | 18.00% | ~125 |
 | Well Connected | 18.00% | ~125 |
 | Last Resort | 17.00% | ~118 |
 | Throw Mastery | 16.00% | ~111 |

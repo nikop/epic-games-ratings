@@ -68,8 +68,8 @@ Number of Ratings: 62  (23.09.2022)
 | Gramophone Enthusiast | 2.00% | ~95 |
 | Bling-Bling | 1.00% | ~47 |
 | Sniffing Around | 0.80% | ~38 |
+| Suited and Booted | 0.80% | ~38 |
 | Modus Operandi | 0.70% | ~33 |
-| Suited and Booted | 0.70% | ~33 |
 | Tools of War | 0.70% | ~33 |
 | Brave New World | 0.60% | ~28 |
 | The Surge | 0.40% | ~19 |

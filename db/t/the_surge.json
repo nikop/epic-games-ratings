@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -3235,9 +3235,9 @@
       "ID": "ID_ACHIEV_62",
       "SetID": "98bke8c",
       "Name": "Suited and Booted",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 38
     },
     {
       "ID": "ID_ACHIEV_63",
@@ -3299,8 +3299,8 @@
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-08-16T19:59:29.2344729+00:00",
-  "LastChanged_Achievements": "2023-10-15T09:09:33.4857613+00:00",
+  "LastChanged_Achievements": "2023-10-15T10:10:06.4839686+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:31.5409418+00:00",
-  "LastUpdate_Ratings": "2023-10-15T08:59:37.2624077+00:00",
-  "LastUpdate_Achievements": "2023-10-15T09:09:33.4858531+00:00"
+  "LastUpdate_Ratings": "2023-10-15T10:01:12.6379558+00:00",
+  "LastUpdate_Achievements": "2023-10-15T10:10:06.4840653+00:00"
 }

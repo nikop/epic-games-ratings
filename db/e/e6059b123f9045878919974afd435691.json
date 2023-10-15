@@ -4,8 +4,8 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 868,
+  "EOS_Progressed": 869,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2101,6 +2101,11 @@
       "Time": "2023-10-14T18:06:36.5736375+00:00",
       "NumProgressed": 868,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-15T10:08:19.4474489+00:00",
+      "NumProgressed": 869,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2120,7 +2125,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -2344,7 +2349,7 @@
       "Name": "End of Rest",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "FREEM_ACHIEVEMENT_1",
@@ -2392,7 +2397,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -2408,7 +2413,7 @@
       "Name": "Decakill!",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -2440,7 +2445,7 @@
       "Name": "End the Infestation",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_3",
@@ -2472,7 +2477,7 @@
       "Name": "Don\u0027t Turn Your Back",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -2552,15 +2557,15 @@
       "Name": "Beep Beep Boop",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "The Clairvoyant Who Doesn\u0027t See",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 399
+      "UsersEstimate": 391
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -2639,14 +2644,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 868,
+      "Progressed": 869,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-10-15T09:06:36.7190638+00:00",
+  "LastChanged_Achievements": "2023-10-15T10:08:19.4474482+00:00",
   "LastUpdate_AppInfo": "2023-10-12T20:57:27.7908021+00:00",
-  "LastUpdate_Ratings": "2023-10-15T09:00:00.7277132+00:00",
-  "LastUpdate_Achievements": "2023-10-15T09:06:36.7191513+00:00"
+  "LastUpdate_Ratings": "2023-10-15T10:01:45.0483571+00:00",
+  "LastUpdate_Achievements": "2023-10-15T10:08:19.4476331+00:00"
 }

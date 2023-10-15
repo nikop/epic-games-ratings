@@ -6,29 +6,29 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 75.00% | ~37,466 |
-| I read Shakespeare and stuff | 64.00% | ~31,971 |
-| Just a sprinkle | 63.00% | ~31,472 |
-| I'm stumped | 61.00% | ~30,473 |
-| Plant get enough | 60.00% | ~29,973 |
-| This is just my weekend vehicle | 58.00% | ~28,974 |
-| It's just the beginning | 58.00% | ~28,974 |
-| Hard work pays off | 53.00% | ~26,476 |
+| Own use | 75.00% | ~37,468 |
+| I read Shakespeare and stuff | 64.00% | ~31,972 |
+| Just a sprinkle | 63.00% | ~31,473 |
+| I'm stumped | 61.00% | ~30,474 |
+| Plant get enough | 60.00% | ~29,974 |
+| This is just my weekend vehicle | 58.00% | ~28,975 |
+| It's just the beginning | 58.00% | ~28,975 |
+| Hard work pays off | 53.00% | ~26,477 |
 | It's never too late to farm | 50.00% | ~24,978 |
-| All out of Land | 44.00% | ~21,980 |
-| Field Trip | 43.00% | ~21,481 |
-| I like to switch it up | 40.00% | ~19,982 |
-| Help me to help you | 38.00% | ~18,983 |
-| Ultimutt Pawesomeness | 28.00% | ~13,987 |
-| Van Gogh | 26.00% | ~12,988 |
-| You wood not believe it | 22.00% | ~10,990 |
-| Vehicle fleet | 22.00% | ~10,990 |
+| All out of Land | 44.00% | ~21,981 |
+| Field Trip | 43.00% | ~21,482 |
+| I like to switch it up | 40.00% | ~19,983 |
+| Help me to help you | 38.00% | ~18,984 |
+| Ultimutt Pawesomeness | 28.00% | ~13,988 |
+| Van Gogh | 26.00% | ~12,989 |
+| You wood not believe it | 22.00% | ~10,991 |
+| Vehicle fleet | 22.00% | ~10,991 |
 | The plot thickens | 16.00% | ~7,993 |
 | Large-scale supplier | 16.00% | ~7,993 |
 | Well-Oiled Machine | 16.00% | ~7,993 |
 | Long haul | 16.00% | ~7,993 |
-| Clucky Streak | 15.00% | ~7,493 |
-| That's a wrap | 15.00% | ~7,493 |
+| Clucky Streak | 15.00% | ~7,494 |
+| That's a wrap | 15.00% | ~7,494 |
 | Fix me up | 13.00% | ~6,494 |
 | Rock on | 12.00% | ~5,995 |
 | Highly cultivated | 11.00% | ~5,495 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~200 |
 | Raisin the stakes | 0.30% | ~150 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,955 (Ranked 102)  
+Progressed: 49,957 (Ranked 102)  
 Completed: 6 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,14 +228,14 @@ Completed: 6 (0.01%) (Ranked 296)
 | 2023-10-12 | 49,819 | 6 |
 | 2023-10-13 | 49,867 | 6 |
 | 2023-10-14 | 49,945 | 6 |
-| 2023-10-15 | 49,955 | 6 |
+| 2023-10-15 | 49,957 | 6 |
 ## Awards
-Max (Great for Beginners): 5,165  (Ranked 70)  
-Sum: 41,219 (Ranked 33)  
+Max (Great for Beginners): 5,177  (Ranked 70)  
+Sum: 41,231 (Ranked 33)  
 Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 5,165 |
+| This game is Great for Beginners | 5,177 |
 | This game has Diverse Characters | 4,283 |
 | This game is Educational | 4,236 |
 | This game is Relaxing | 4,196 |
@@ -521,4 +521,4 @@ Diff (max vs sum): 37
 | 2023-10-12 | 4.69 | - | 5,153 | 41,122 |
 | 2023-10-13 | 4.69 | - | 5,158 | 41,162 |
 | 2023-10-14 | 4.69 | - | 5,165 | 41,186 |
-| 2023-10-15 | 4.69 | - | 5,165 | 41,219 |
+| 2023-10-15 | 4.69 | - | 5,177 | 41,231 |

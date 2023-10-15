@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 77,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -8235,9 +8235,9 @@
       "Count": 949
     }
   ],
-  "EOS_Progressed": 120563,
+  "EOS_Progressed": 120564,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 663,
+  "EOS_NewPlayers": 660,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26605,6 +26605,11 @@
       "Time": "2023-10-15T09:05:06.4942882+00:00",
       "NumProgressed": 120563,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-15T10:06:10.0515071+00:00",
+      "NumProgressed": 120564,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 65,
@@ -26624,7 +26629,7 @@
       "Name": "Serenity Now!",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 65104
+      "UsersEstimate": 65105
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -26648,7 +26653,7 @@
       "Name": "Resurrection",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 74749
+      "UsersEstimate": 74750
     },
     {
       "ID": "altar_of_hope_unlock_hero_hellion",
@@ -26656,7 +26661,7 @@
       "Name": "Unleash Hell",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 81983
+      "UsersEstimate": 81984
     },
     {
       "ID": "altar_of_hope_unlock_hero_jester",
@@ -26664,7 +26669,7 @@
       "Name": "Funny Guy",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 80777
+      "UsersEstimate": 80778
     },
     {
       "ID": "altar_of_hope_unlock_hero_leper",
@@ -26680,7 +26685,7 @@
       "Name": "Wyrdly Reconstructed",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 74749
+      "UsersEstimate": 74750
     },
     {
       "ID": "altar_of_hope_unlock_hero_runaway",
@@ -26696,7 +26701,7 @@
       "Name": "Unfulfilled Desires",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 81983
+      "UsersEstimate": 81984
     },
     {
       "ID": "altar_of_hope_upgrade_total_full",
@@ -26816,7 +26821,7 @@
       "Name": "Meat and Greet",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 27729
+      "UsersEstimate": 27730
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -26856,7 +26861,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 21701
+      "UsersEstimate": 21702
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -26984,7 +26989,7 @@
       "Name": "A Clear Conscience",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 83188
+      "UsersEstimate": 83189
     },
     {
       "ID": "hoarder_buy_epic_trinket",
@@ -27008,7 +27013,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 112124
+      "UsersEstimate": 112125
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -27072,7 +27077,7 @@
       "Name": "Unshackled",
       "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 80777
+      "UsersEstimate": 80778
     },
     {
       "ID": "run_victory_act02",
@@ -27135,15 +27140,15 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 120563,
+      "Progressed": 120564,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-10-15T01:44:12.2778523+00:00",
-  "LastChanged_Achievements": "2023-10-15T09:05:06.4942876+00:00",
+  "LastChanged_Achievements": "2023-10-15T10:06:10.0515066+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:26.2566116+00:00",
-  "LastUpdate_Ratings": "2023-10-15T08:57:46.0766976+00:00",
-  "LastUpdate_Achievements": "2023-10-15T09:05:06.4944668+00:00"
+  "LastUpdate_Ratings": "2023-10-15T09:58:23.2649478+00:00",
+  "LastUpdate_Achievements": "2023-10-15T10:06:10.0516966+00:00"
 }

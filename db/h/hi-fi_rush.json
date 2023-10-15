@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -7127,9 +7127,9 @@
       "ID": "Ach017",
       "SetID": "12n4k20",
       "Name": "I play my own way!",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 373
+      "UsersEstimate": 414
     },
     {
       "ID": "Ach018",
@@ -7582,8 +7582,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-09-20T21:58:46.0382146+00:00",
-  "LastChanged_Achievements": "2023-10-15T09:09:06.7948399+00:00",
+  "LastChanged_Achievements": "2023-10-15T10:09:28.4467384+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:56.0502704+00:00",
-  "LastUpdate_Ratings": "2023-10-15T08:01:34.1303438+00:00",
-  "LastUpdate_Achievements": "2023-10-15T09:09:06.7949645+00:00"
+  "LastUpdate_Ratings": "2023-10-15T09:57:28.0414209+00:00",
+  "LastUpdate_Achievements": "2023-10-15T10:09:28.44688+00:00"
 }

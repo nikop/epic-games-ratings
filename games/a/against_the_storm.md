@@ -1,15 +1,15 @@
 # Against the Storm
 [Store](https://store.epicgames.com/en-US/p/against-the-storm)  
 [View Rawdata](../../db/a/against_the_storm.json)  
-Rating: 4.81 (Ranked 76)  
+Rating: 4.82 (Ranked 61)  
 Number of Ratings: 1,845  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Real Expedition | 6.00% | ~1,015 |
-| The Marshlands | 6.00% | ~1,015 |
-| Taking Action | 6.00% | ~1,015 |
-| No Deaths | 6.00% | ~1,015 |
+| First Real Expedition | 6.00% | ~1,016 |
+| The Marshlands | 6.00% | ~1,016 |
+| Taking Action | 6.00% | ~1,016 |
+| No Deaths | 6.00% | ~1,016 |
 | Overcoming Difficulty | 5.00% | ~846 |
 | Fertile Meadows | 5.00% | ~846 |
 | Coral Forest | 5.00% | ~846 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Higher Needs | 0.20% | ~34 |
 | Paradise | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,924 (Ranked 130)  
+Progressed: 16,925 (Ranked 130)  
 Completed: 52 (0.31%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,10 +235,10 @@ Completed: 52 (0.31%) (Ranked 202)
 | 2023-10-12 | 16,896 | 52 |
 | 2023-10-13 | 16,904 | 52 |
 | 2023-10-14 | 16,920 | 52 |
-| 2023-10-15 | 16,924 | 52 |
+| 2023-10-15 | 16,925 | 52 |
 ## Awards
 Max (Quickly Understood Controls): 436  (Ranked 212)  
-Sum: 3,190 (Ranked 168)  
+Sum: 3,191 (Ranked 168)  
 Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
@@ -247,7 +247,7 @@ Diff (max vs sum): 44
 | This game is Great for Beginners | 407 |
 | This game is Extremely Fun | 403 |
 | This game is Highly Recommended | 388 |
-| This game has Unique Visuals | 321 |
+| This game has Unique Visuals | 322 |
 | This game has Amazing Storytelling | 315 |
 | This game has Amazing Characters | 284 |
 | This game has Obsessive Gameplay | 254 |
@@ -468,3 +468,4 @@ Diff (max vs sum): 44
 | 2023-10-11 | 4.81 | - | 436 | 3,187 |
 | 2023-10-12 | 4.81 | - | 436 | 3,188 |
 | 2023-10-13 | 4.81 | - | 436 | 3,190 |
+| 2023-10-15 | 4.82 | - | 436 | 3,191 |

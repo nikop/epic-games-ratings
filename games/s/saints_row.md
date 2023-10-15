@@ -6,19 +6,19 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 46.00% | ~34,523 |
-| To The Nines | 42.00% | ~31,521 |
-| Optimized | 37.00% | ~27,768 |
-| Performance Review | 36.00% | ~27,018 |
+| First F#@!ing Day | 46.00% | ~34,524 |
+| To The Nines | 42.00% | ~31,522 |
+| Optimized | 37.00% | ~27,769 |
+| Performance Review | 36.00% | ~27,019 |
 | Making a Name | 35.00% | ~26,268 |
-| Tune Up | 33.00% | ~24,766 |
-| Wet Work | 32.00% | ~24,016 |
-| Landlord | 32.00% | ~24,016 |
+| Tune Up | 33.00% | ~24,767 |
+| Wet Work | 32.00% | ~24,017 |
+| Landlord | 32.00% | ~24,017 |
 | The Side Job | 31.00% | ~23,266 |
-| Wrecking Ball | 28.00% | ~21,014 |
+| Wrecking Ball | 28.00% | ~21,015 |
 | Food for Thought | 27.00% | ~20,264 |
-| Finders Keepers | 25.00% | ~18,762 |
-| A Young Empire | 25.00% | ~18,762 |
+| Finders Keepers | 25.00% | ~18,763 |
+| A Young Empire | 25.00% | ~18,763 |
 | Work Ethic | 23.00% | ~17,262 |
 | Picking Fights | 20.00% | ~15,010 |
 | Power Players | 19.00% | ~14,260 |
@@ -38,10 +38,10 @@ Number of Ratings: 22,103  (23.09.2022)
 | Producer Credit | 7.00% | ~3,268 |
 | Chaos Tamer | 6.00% | ~4,503 |
 | Face Off | 6.00% | ~2,801 |
-| The Professional | 5.00% | ~3,752 |
-| Untouchable | 5.00% | ~3,752 |
-| Free Refills | 5.00% | ~3,752 |
-| Smooth Moves | 5.00% | ~3,752 |
+| The Professional | 5.00% | ~3,753 |
+| Untouchable | 5.00% | ~3,753 |
+| Free Refills | 5.00% | ~3,753 |
+| Smooth Moves | 5.00% | ~3,753 |
 | Hazardous Heist | 5.00% | ~2,334 |
 | Neighborly | 4.00% | ~3,002 |
 | Prankster | 4.00% | ~3,002 |
@@ -50,9 +50,9 @@ Number of Ratings: 22,103  (23.09.2022)
 | Always Be Hustling | 3.00% | ~2,252 |
 | Community Outreach | 3.00% | ~2,252 |
 | Bonus Round | 2.00% | ~1,501 |
-| It's a Bird! | 1.00% | ~750 |
-| The Collector | 1.00% | ~750 |
-| All Mine | 1.00% | ~750 |
+| It's a Bird! | 1.00% | ~751 |
+| The Collector | 1.00% | ~751 |
+| All Mine | 1.00% | ~751 |
 | Jack of All Trades | 0.70% | ~525 |
 | Armor Piercing | 0.70% | ~525 |
 | Heard You Like Wheels | 0.70% | ~525 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~150 |
 | Fiesta Time | 0.20% | ~150 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 75,050 (Ranked 90)  
+Progressed: 75,052 (Ranked 90)  
 Completed: 51 (0.07%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 51 (0.07%) (Ranked 260)
 | 2023-10-12 | 74,754 | 51 |
 | 2023-10-13 | 74,849 | 51 |
 | 2023-10-14 | 74,998 | 51 |
-| 2023-10-15 | 75,050 | 51 |
+| 2023-10-15 | 75,052 | 51 |
 ## Awards
 Max (Extremely Fun): 1,069  (Ranked 143)  
 Sum: 8,681 (Ranked 97)  

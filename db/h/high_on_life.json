@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -288,7 +288,7 @@
   "Tags": [],
   "EOS_Progressed": 24227,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5767,9 +5767,9 @@
       "ID": "ACH_KILL_GIBLETS",
       "SetID": "cdkbb11",
       "Name": "Hardest Battle In The Game",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 45,
-      "UsersEstimate": 170
+      "UsersEstimate": 194
     },
     {
       "ID": "ACH_KILL_KRUBIS",
@@ -5982,8 +5982,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-07T05:03:09.4311759+00:00",
-  "LastChanged_Achievements": "2023-10-15T09:05:23.3852205+00:00",
+  "LastChanged_Achievements": "2023-10-15T10:06:34.6171373+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:39.0375133+00:00",
-  "LastUpdate_Ratings": "2023-10-15T09:00:00.9171266+00:00",
-  "LastUpdate_Achievements": "2023-10-15T09:05:23.3852844+00:00"
+  "LastUpdate_Ratings": "2023-10-15T10:01:45.2706988+00:00",
+  "LastUpdate_Achievements": "2023-10-15T10:06:34.6172133+00:00"
 }

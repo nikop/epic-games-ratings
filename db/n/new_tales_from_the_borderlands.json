@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
     "PcReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -174,9 +174,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3671,
+  "EOS_Progressed": 3672,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1654,6 +1654,11 @@
       "Time": "2023-10-14T22:07:46.774683+00:00",
       "NumProgressed": 3671,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-15T10:07:44.1566966+00:00",
+      "NumProgressed": 3672,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -1705,7 +1710,7 @@
       "Name": "Each Sold Separately",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1358
+      "UsersEstimate": 1359
     },
     {
       "ID": "FINISH_EPISODE_1",
@@ -1737,7 +1742,7 @@
       "Name": "The Shardmenstration",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "FINISH_EPISODE_5",
@@ -1769,7 +1774,7 @@
       "Name": "You Rich Now!",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 844
+      "UsersEstimate": 845
     },
     {
       "ID": "HACK_YOUR_FIRST_OBJECT",
@@ -1777,7 +1782,7 @@
       "Name": "We\u0027re In",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1211
+      "UsersEstimate": 1212
     },
     {
       "ID": "HOTWIRE_FIRST_OBJECT",
@@ -1791,9 +1796,9 @@
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
       "SetID": "kakdpn",
       "Name": "You Poor Now!",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 734
+      "UsersEstimate": 771
     },
     {
       "ID": "NAILED_PERFECT_SEXY_DANCE",
@@ -1833,7 +1838,7 @@
       "Name": "Those Were the Days...",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "WIN_EVERY_VAULTLANDER_IN_MAIN",
@@ -1872,7 +1877,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3671,
+      "Progressed": 3672,
       "Completed": 0
     }
   ],
@@ -1880,8 +1885,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2023-10-15T09:06:12.3222642+00:00",
+  "LastChanged_Achievements": "2023-10-15T10:07:44.1566959+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:39.2129033+00:00",
-  "LastUpdate_Ratings": "2023-10-15T09:00:01.2190157+00:00",
-  "LastUpdate_Achievements": "2023-10-15T09:06:12.3222902+00:00"
+  "LastUpdate_Ratings": "2023-10-15T10:01:45.6570616+00:00",
+  "LastUpdate_Achievements": "2023-10-15T10:07:44.1567353+00:00"
 }

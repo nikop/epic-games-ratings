@@ -9,24 +9,24 @@ Rating: 4.45 (Ranked 644)
 | Confirming Suspicions | 41.00% | ~1,535 |
 | The Kraken Wakes | 37.00% | ~1,385 |
 | It's Starting to Crack | 34.00% | ~1,273 |
-| Change the Channel | 31.00% | ~1,160 |
+| Change the Channel | 31.00% | ~1,161 |
 | Lord of War | 30.00% | ~1,123 |
 | Taking it back | 28.00% | ~1,048 |
 | Resourceful | 27.00% | ~1,011 |
 | Target America | 26.00% | ~973 |
-| The Kraken Sleeps | 24.00% | ~898 |
+| The Kraken Sleeps | 24.00% | ~899 |
 | Organ Grinder | 23.00% | ~861 |
 | As Quiet as a Mouse | 23.00% | ~861 |
-| Liberté | 22.00% | ~823 |
-| Sharpshooter | 22.00% | ~823 |
+| Liberté | 22.00% | ~824 |
+| Sharpshooter | 22.00% | ~824 |
 | Explosive Efficiency | 19.00% | ~711 |
 | Gunslinger | 18.00% | ~674 |
 | Just a Flesh Wound | 17.00% | ~636 |
 | Climbing the Ladder | 16.00% | ~599 |
 | Der Geist | 16.00% | ~599 |
 | Close Quarters | 16.00% | ~599 |
-| Snake in the Grass | 15.00% | ~561 |
-| Brains of the Operation | 15.00% | ~561 |
+| Snake in the Grass | 15.00% | ~562 |
+| Brains of the Operation | 15.00% | ~562 |
 | No Stone Unturned | 14.00% | ~524 |
 | Opposing Force | 14.00% | ~524 |
 | Fields of Glory | 14.00% | ~524 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 644)
 | Stroll in the Woods | 0.60% | ~22 |
 | Going Overboard | 0.60% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,743 (Ranked 179)  
+Progressed: 3,744 (Ranked 179)  
 Completed: 11 (0.29%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,7 +253,7 @@ Completed: 11 (0.29%) (Ranked 208)
 | 2023-10-12 | 3,727 | 11 |
 | 2023-10-13 | 3,734 | 11 |
 | 2023-10-14 | 3,741 | 11 |
-| 2023-10-15 | 3,743 | 11 |
+| 2023-10-15 | 3,744 | 11 |
 ## Awards
 Max (Great for Beginners): 21  (Ranked 525)  
 Sum: 21 (Ranked 526)  

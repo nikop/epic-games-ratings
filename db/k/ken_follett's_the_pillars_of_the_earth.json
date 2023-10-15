@@ -4,11 +4,11 @@
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
   "Ranking_Rating": 553,
   "Ranking_Popularity": 306,
-  "Ranking_PopularitySum": 386,
+  "Ranking_PopularitySum": 387,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 156,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -531,9 +531,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 15749,
+  "EOS_Progressed": 15751,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -12066,6 +12066,11 @@
       "Time": "2023-10-15T01:50:14.5086877+00:00",
       "NumProgressed": 15749,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-10-15T10:04:33.2763818+00:00",
+      "NumProgressed": 15751,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 41,
@@ -12077,7 +12082,7 @@
       "Name": "Good midwife",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1732
+      "UsersEstimate": 1733
     },
     {
       "ID": "tpote_achievement_10",
@@ -12093,7 +12098,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3622
+      "UsersEstimate": 3623
     },
     {
       "ID": "tpote_achievement_12",
@@ -12101,7 +12106,7 @@
       "Name": "Staring contest champion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "tpote_achievement_13",
@@ -12109,7 +12114,7 @@
       "Name": "Lone wolf",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "tpote_achievement_14",
@@ -12117,7 +12122,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5197
+      "UsersEstimate": 5198
     },
     {
       "ID": "tpote_achievement_15",
@@ -12125,7 +12130,7 @@
       "Name": "Care, like a brother cares",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "tpote_achievement_16",
@@ -12141,7 +12146,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2677
+      "UsersEstimate": 2678
     },
     {
       "ID": "tpote_achievement_18",
@@ -12149,7 +12154,7 @@
       "Name": "Friar Tuck",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 1732
+      "UsersEstimate": 1733
     },
     {
       "ID": "tpote_achievement_19",
@@ -12165,7 +12170,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5197
+      "UsersEstimate": 5198
     },
     {
       "ID": "tpote_achievement_20",
@@ -12197,7 +12202,7 @@
       "Name": "A brush with death",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "tpote_achievement_24",
@@ -12205,7 +12210,7 @@
       "Name": "First profit",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1732
+      "UsersEstimate": 1733
     },
     {
       "ID": "tpote_achievement_25",
@@ -12221,7 +12226,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2047
+      "UsersEstimate": 2048
     },
     {
       "ID": "tpote_achievement_27",
@@ -12245,7 +12250,7 @@
       "Name": "Skilled merchant",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1417
+      "UsersEstimate": 1418
     },
     {
       "ID": "tpote_achievement_3",
@@ -12285,7 +12290,7 @@
       "Name": "Nothing but make-believe",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1417
+      "UsersEstimate": 1418
     },
     {
       "ID": "tpote_achievement_34",
@@ -12309,7 +12314,7 @@
       "Name": "Brother Marcus",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1417
+      "UsersEstimate": 1418
     },
     {
       "ID": "tpote_achievement_37",
@@ -12317,7 +12322,7 @@
       "Name": "Vox Populi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "tpote_achievement_38",
@@ -12333,7 +12338,7 @@
       "Name": "The oath",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1417
+      "UsersEstimate": 1418
     },
     {
       "ID": "tpote_achievement_4",
@@ -12349,7 +12354,7 @@
       "Name": "The truth revealed",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1417
+      "UsersEstimate": 1418
     },
     {
       "ID": "tpote_achievement_41",
@@ -12357,7 +12362,7 @@
       "Name": "The End.",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 1417
+      "UsersEstimate": 1418
     },
     {
       "ID": "tpote_achievement_5",
@@ -12381,7 +12386,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1102
+      "UsersEstimate": 1103
     },
     {
       "ID": "tpote_achievement_8",
@@ -12397,22 +12402,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 5512
+      "UsersEstimate": 5513
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15749,
+      "Progressed": 15751,
       "Completed": 113
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-10-14T16:59:08.0001807+00:00",
-  "LastChanged_Achievements": "2023-10-15T09:03:58.7673831+00:00",
+  "LastChanged_Achievements": "2023-10-15T10:04:33.2763813+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:18.9172053+00:00",
-  "LastUpdate_Ratings": "2023-10-15T08:59:00.8952586+00:00",
-  "LastUpdate_Achievements": "2023-10-15T09:03:58.7674894+00:00"
+  "LastUpdate_Ratings": "2023-10-15T10:00:15.8988691+00:00",
+  "LastUpdate_Achievements": "2023-10-15T10:04:33.2764987+00:00"
 }

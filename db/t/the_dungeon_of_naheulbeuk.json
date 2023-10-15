@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1164,9 +1164,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 230933,
+  "EOS_Progressed": 230947,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1487,
+  "EOS_NewPlayers": 1489,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14769,6 +14769,11 @@
       "Time": "2023-10-15T09:08:29.1847125+00:00",
       "NumProgressed": 230933,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-15T10:09:18.2737178+00:00",
+      "NumProgressed": 230947,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 88,
@@ -15180,7 +15185,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 13856
+      "UsersEstimate": 13857
     },
     {
       "ID": "DwarfElf15Support",
@@ -15212,7 +15217,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9237
+      "UsersEstimate": 9238
     },
     {
       "ID": "ElfEpic",
@@ -15228,7 +15233,7 @@
       "Name": "Sowwy!",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 76208
+      "UsersEstimate": 76213
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -15276,7 +15281,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 13856
+      "UsersEstimate": 13857
     },
     {
       "ID": "FollowBraztok",
@@ -15308,7 +15313,7 @@
       "Name": "Dead for good",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2078
+      "UsersEstimate": 2079
     },
     {
       "ID": "KillGolbargh",
@@ -15332,7 +15337,7 @@
       "Name": "Gargantua",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1847
+      "UsersEstimate": 1848
     },
     {
       "ID": "Orktobearfest",
@@ -15428,7 +15433,7 @@
       "Name": "Speedrun",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9237
+      "UsersEstimate": 9238
     },
     {
       "ID": "SupportCount4",
@@ -15468,7 +15473,7 @@
       "Name": "Material Girl",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2078
+      "UsersEstimate": 2079
     },
     {
       "ID": "WizardResistBurn",
@@ -15483,21 +15488,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 230933,
+      "Progressed": 230947,
       "Completed": 5
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 230933,
+      "Progressed": 230947,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-10-14T21:02:26.6505379+00:00",
-  "LastChanged_Achievements": "2023-10-15T09:08:29.1847119+00:00",
+  "LastChanged_Achievements": "2023-10-15T10:09:18.2737172+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:06.1366459+00:00",
-  "LastUpdate_Ratings": "2023-10-15T08:57:12.7370447+00:00",
-  "LastUpdate_Achievements": "2023-10-15T09:08:29.1849028+00:00"
+  "LastUpdate_Ratings": "2023-10-15T09:57:36.5813987+00:00",
+  "LastUpdate_Achievements": "2023-10-15T10:09:18.274003+00:00"
 }

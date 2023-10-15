@@ -14,6 +14,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intrepid | 2.00% | ~294 |
 | Learned | 2.00% | ~294 |
 | Mason | 2.00% | ~294 |
+| Pioneer | 2.00% | ~294 |
 | Settler | 2.00% | ~294 |
 | Strong | 2.00% | ~294 |
 | Friendly Family | 2.00% | ~294 |
@@ -27,7 +28,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Keystone | 1.00% | ~147 |
 | Magnificent | 1.00% | ~147 |
 | Noble | 1.00% | ~147 |
-| Pioneer | 1.00% | ~147 |
 | Warrior | 1.00% | ~147 |
 | Wise | 1.00% | ~147 |
 | Developing Cities | 1.00% | ~147 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,714 (Ranked 135)  
+Progressed: 14,715 (Ranked 135)  
 Completed: 5 (0.03%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -527,7 +527,7 @@ Completed: 5 (0.03%) (Ranked 283)
 | 2023-10-12 | 14,624 | 5 |
 | 2023-10-13 | 14,652 | 5 |
 | 2023-10-14 | 14,699 | 5 |
-| 2023-10-15 | 14,714 | 5 |
+| 2023-10-15 | 14,715 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,839 (Ranked 210)  
