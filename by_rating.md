@@ -150,7 +150,7 @@
 | 148 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 0 | 536 |
 | 148 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.74 | 0 | 536 |
 | 148 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 824 | 160 |
-| 148 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 15,797 | 24 |
+| 148 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 15,951 | 24 |
 | 148 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 716 | 175 |
 | 148 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.74 | 0 | 536 |
 | 148 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 7,233 | 52 |
@@ -342,7 +342,7 @@
 | 337 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.63 | 2,248 | 106 |
 | 337 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.63 | 0 | 536 |
 | 337 | [GigaBash](games/g/gigabash.md) | 4.63 | 0 | 536 |
-| 337 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.63 | 614 | 189 |
+| 337 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.63 | 615 | 189 |
 | 337 | [Mutazione](games/m/mutazione.md) | 4.63 | 0 | 536 |
 | 337 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.63 | 0 | 536 |
 | 337 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 185 | 286 |
@@ -362,7 +362,7 @@
 | 352 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 29 | 477 |
 | 352 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.62 | 38 | 445 |
 | 352 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.62 | 388 | 224 |
-| 352 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 582 | 192 |
+| 352 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 583 | 192 |
 | 352 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.62 | 187 | 285 |
 | 352 | [Limbo](games/l/limbo.md) | 4.62 | 0 | 536 |
 | 352 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 0 | 536 |
@@ -793,7 +793,7 @@
 | 790 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 122 | 326 |
 | 790 | [Filament](games/f/filament.md) | 4.33 | 564 | 197 |
 | 790 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 0 | 536 |
-| 790 | [Paladins](games/p/paladins.md) | 4.33 | 3,718 | 86 |
+| 790 | [Paladins](games/p/paladins.md) | 4.33 | 3,720 | 86 |
 | 790 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 0 | 536 |
 | 790 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 0 | 536 |
 | 790 | [Torchlight](games/t/torchlight.md) | 4.33 | 22 | 516 |
@@ -948,13 +948,13 @@
 | 940 | [Obduction](games/o/obduction.md) | 4.08 | 54 | 405 |
 | 947 | [Godfall Ultimate Edition](games/g/godfall.md) | 4.07 | 549 | 199 |
 | 947 | [Gravewood High](games/g/gravewood_high.md) | 4.07 | 0 | 536 |
-| 947 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.07 | 0 | 536 |
-| 950 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.06 | 0 | 536 |
-| 950 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 4.06 | 27 | 490 |
-| 950 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 5,404 | 69 |
-| 950 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.06 | 0 | 536 |
-| 950 | [Pinball FX](games/p/pinball_fx.md) | 4.06 | 196 | 280 |
-| 950 | [The World Next Door](games/t/the_world_next_door.md) | 4.06 | 0 | 536 |
+| 949 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.06 | 0 | 536 |
+| 949 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 4.06 | 27 | 490 |
+| 949 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 5,404 | 69 |
+| 949 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.06 | 0 | 536 |
+| 949 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.06 | 0 | 536 |
+| 949 | [Pinball FX](games/p/pinball_fx.md) | 4.06 | 196 | 280 |
+| 949 | [The World Next Door](games/t/the_world_next_door.md) | 4.06 | 0 | 536 |
 | 956 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 4.05 | 0 | 536 |
 | 956 | [Second Extinction™](games/s/second_extinction™.md) | 4.05 | 473 | 207 |
 | 956 | [Tharsis](games/t/tharsis.md) | 4.05 | 0 | 536 |
