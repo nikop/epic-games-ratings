@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3536,9 +3536,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73521,
+  "EOS_Progressed": 73522,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 245,
+  "EOS_NewPlayers": 244,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -18716,6 +18716,11 @@
       "Time": "2023-10-15T02:24:46.293531+00:00",
       "NumProgressed": 73521,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-10-15T04:04:46.7343294+00:00",
+      "NumProgressed": 73522,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 61,
@@ -18815,7 +18820,7 @@
       "Name": "In Your Element",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 11763
+      "UsersEstimate": 11764
     },
     {
       "ID": "CHALLENGES_1",
@@ -18831,7 +18836,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15439
+      "UsersEstimate": 15440
     },
     {
       "ID": "CLAYFACE_2",
@@ -18871,7 +18876,7 @@
       "Name": "Fusion Expert",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 5146
+      "UsersEstimate": 5147
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -18927,7 +18932,7 @@
       "Name": "Family Meeting",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 5146
+      "UsersEstimate": 5147
     },
     {
       "ID": "DEFEAT_OC_2",
@@ -18959,7 +18964,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15439
+      "UsersEstimate": 15440
     },
     {
       "ID": "FREEZE_2",
@@ -19031,7 +19036,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25732
+      "UsersEstimate": 25733
     },
     {
       "ID": "HARLEY_2",
@@ -19047,7 +19052,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15439
+      "UsersEstimate": 15440
     },
     {
       "ID": "HARLEY_4",
@@ -19055,7 +19060,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 11763
+      "UsersEstimate": 11764
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -19214,13 +19219,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73521,
+      "Progressed": 73522,
       "Completed": 121
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43801,
+      "Progressed": 43802,
       "Completed": 2667
     }
   ],
@@ -19228,8 +19233,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-15T02:58:24.1647564+00:00",
-  "LastChanged_Achievements": "2023-10-15T03:05:10.2625899+00:00",
+  "LastChanged_Achievements": "2023-10-15T04:04:46.7343289+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:41.7245252+00:00",
-  "LastUpdate_Ratings": "2023-10-15T02:58:24.1647572+00:00",
-  "LastUpdate_Achievements": "2023-10-15T03:05:10.2627415+00:00"
+  "LastUpdate_Ratings": "2023-10-15T03:58:04.0927047+00:00",
+  "LastUpdate_Achievements": "2023-10-15T04:04:46.7344752+00:00"
 }

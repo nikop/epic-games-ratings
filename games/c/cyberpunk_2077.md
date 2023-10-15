@@ -6,43 +6,43 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 71.00% | ~633,201 |
-| Right Back At Ya | 45.00% | ~401,325 |
-| The Lovers | 39.00% | ~347,815 |
-| Stanislavski's Method | 33.00% | ~294,305 |
-| The Wheel of Fortune | 33.00% | ~294,305 |
-| The Hermit | 30.00% | ~267,550 |
-| The High Priestess | 29.00% | ~258,632 |
-| True Soldier | 29.00% | ~258,632 |
-| Christmas Tree Attack | 26.00% | ~231,877 |
-| Full Body Conversion | 24.00% | ~214,040 |
-| Life of the Road | 23.00% | ~205,122 |
-| The World | 22.00% | ~196,203 |
-| Ten out of Ten | 21.00% | ~187,285 |
-| Master Crafter | 20.00% | ~178,367 |
-| True Warrior | 20.00% | ~178,367 |
-| Bushido and Chill | 19.00% | ~169,448 |
-| Gun Fu | 18.00% | ~160,530 |
-| I Am The Law | 16.00% | ~142,693 |
-| To Protect and Serve | 15.00% | ~133,775 |
-| Breathtaking | 14.00% | ~124,857 |
-| The Quick and the Dead | 13.00% | ~115,938 |
-| Rough Landing | 13.00% | ~115,938 |
-| The Jungle | 12.00% | ~107,020 |
-| To Bad Decisions! | 11.00% | ~98,102 |
-| The Wandering Fool | 11.00% | ~98,102 |
-| Gunslinger | 10.00% | ~89,183 |
-| Mean Streets | 10.00% | ~89,183 |
-| Temperance | 9.00% | ~80,265 |
+| The Fool | 71.00% | ~633,209 |
+| Right Back At Ya | 45.00% | ~401,329 |
+| The Lovers | 39.00% | ~347,819 |
+| Stanislavski's Method | 33.00% | ~294,308 |
+| The Wheel of Fortune | 33.00% | ~294,308 |
+| The Hermit | 30.00% | ~267,553 |
+| The High Priestess | 29.00% | ~258,634 |
+| True Soldier | 29.00% | ~258,634 |
+| Christmas Tree Attack | 26.00% | ~231,879 |
+| Full Body Conversion | 24.00% | ~214,042 |
+| Life of the Road | 23.00% | ~205,124 |
+| The World | 22.00% | ~196,205 |
+| Ten out of Ten | 21.00% | ~187,287 |
+| Master Crafter | 20.00% | ~178,369 |
+| True Warrior | 20.00% | ~178,369 |
+| Bushido and Chill | 19.00% | ~169,450 |
+| Gun Fu | 18.00% | ~160,532 |
+| I Am The Law | 16.00% | ~142,695 |
+| To Protect and Serve | 15.00% | ~133,776 |
+| Breathtaking | 14.00% | ~124,858 |
+| The Quick and the Dead | 13.00% | ~115,940 |
+| Rough Landing | 13.00% | ~115,940 |
+| The Jungle | 12.00% | ~107,021 |
+| To Bad Decisions! | 11.00% | ~98,103 |
+| The Wandering Fool | 11.00% | ~98,103 |
+| Gunslinger | 10.00% | ~89,184 |
+| Mean Streets | 10.00% | ~89,184 |
+| Temperance | 9.00% | ~80,266 |
 | The Star | 8.00% | ~71,347 |
 | The Sun | 8.00% | ~71,347 |
-| City Lights | 6.00% | ~53,510 |
+| City Lights | 6.00% | ~53,511 |
 | Must Be Rats | 5.00% | ~44,592 |
 | The Devil | 5.00% | ~44,592 |
 | Greetings from Pacifica! | 5.00% | ~44,592 |
-| Little Tokyo | 4.00% | ~35,673 |
-| Two Heads, One Bullet | 4.00% | ~35,673 |
-| V for Vendetta | 4.00% | ~35,673 |
+| Little Tokyo | 4.00% | ~35,674 |
+| Two Heads, One Bullet | 4.00% | ~35,674 |
+| V for Vendetta | 4.00% | ~35,674 |
 | Autojock | 3.00% | ~26,755 |
 | Frequent Flyer | 3.00% | ~26,755 |
 | The Wasteland | 3.00% | ~26,755 |
@@ -64,7 +64,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 891,833 (Ranked 15)  
+Progressed: 891,843 (Ranked 15)  
 Completed: 2,663 (0.30%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,10 +242,10 @@ Completed: 2,663 (0.30%) (Ranked 205)
 | 2023-10-12 | 891,256 | 2,648 |
 | 2023-10-13 | 891,483 | 2,655 |
 | 2023-10-14 | 891,800 | 2,661 |
-| 2023-10-15 | 891,833 | 2,663 |
+| 2023-10-15 | 891,843 | 2,663 |
 ## Awards
 Max (Character Customization): 97,710  (Ranked 9)  
-Sum: 301,535 (Ranked 11)  
+Sum: 301,766 (Ranked 11)  
 Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |
@@ -257,8 +257,8 @@ Diff (max vs sum): -2
 | This game has Amazing Storytelling | 15,733 |
 | This game is Extremely Fun | 15,484 |
 | This game has Amazing Characters | 15,448 |
+| This game is Relaxing | 15,022 |
 | This game has Quickly Understood Controls | 14,905 |
-| This game is Relaxing | 14,791 |
 | This game has a Creative Community | 10,144 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -532,4 +532,4 @@ Diff (max vs sum): -2
 | 2023-10-12 | 4.64 | - | 96,724 | 294,426 |
 | 2023-10-13 | 4.64 | - | 97,173 | 297,296 |
 | 2023-10-14 | 4.64 | - | 97,710 | 300,719 |
-| 2023-10-15 | 4.64 | - | 97,710 | 301,535 |
+| 2023-10-15 | 4.64 | - | 97,710 | 301,766 |

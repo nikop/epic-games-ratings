@@ -324,7 +324,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 71429,
+  "EOS_Progressed": 71430,
   "EOS_Completed": 378,
   "EOS_NewPlayers": 577,
   "EOS_NewCompleters": 2,
@@ -19809,6 +19809,11 @@
       "Time": "2023-10-15T03:08:08.2300781+00:00",
       "NumProgressed": 71429,
       "NumCompleted": 378
+    },
+    {
+      "Time": "2023-10-15T04:08:09.4640873+00:00",
+      "NumProgressed": 71430,
+      "NumCompleted": 378
     }
   ],
   "TotalAchievements": 24,
@@ -19828,7 +19833,7 @@
       "Name": "AWAKEN",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 15714
+      "UsersEstimate": 15715
     },
     {
       "ID": "A_GUARDIAN_FORGOTTEN",
@@ -19844,7 +19849,7 @@
       "Name": "BEST FRIENDS",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 15714
+      "UsersEstimate": 15715
     },
     {
       "ID": "BLOOMS_OF_LIGHT",
@@ -19876,7 +19881,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 20714
+      "UsersEstimate": 20715
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -19900,7 +19905,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 37857
+      "UsersEstimate": 37858
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -19996,7 +20001,7 @@
       "Name": "WEIGHTLESS",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 8571
+      "UsersEstimate": 8572
     },
     {
       "ID": "WRITTEN_IN_STONE",
@@ -20011,7 +20016,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 71429,
+      "Progressed": 71430,
       "Completed": 378
     }
   ],
@@ -20019,8 +20024,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-10-15T03:08:08.2300774+00:00",
+  "LastChanged_Achievements": "2023-10-15T04:08:09.4640866+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:07.1643616+00:00",
-  "LastUpdate_Ratings": "2023-10-15T02:57:27.0886531+00:00",
-  "LastUpdate_Achievements": "2023-10-15T03:08:08.230212+00:00"
+  "LastUpdate_Ratings": "2023-10-15T03:57:10.6737522+00:00",
+  "LastUpdate_Achievements": "2023-10-15T04:08:09.464359+00:00"
 }

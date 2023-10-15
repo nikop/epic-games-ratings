@@ -1164,9 +1164,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 230889,
+  "EOS_Progressed": 230896,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1483,
+  "EOS_NewPlayers": 1482,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14739,6 +14739,11 @@
       "Time": "2023-10-15T03:08:26.0985904+00:00",
       "NumProgressed": 230889,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-15T04:08:24.9041895+00:00",
+      "NumProgressed": 230896,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 88,
@@ -14798,7 +14803,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11544
+      "UsersEstimate": 11545
     },
     {
       "ID": "Chapter2",
@@ -15150,7 +15155,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 13853
+      "UsersEstimate": 13854
     },
     {
       "ID": "DwarfElf15Support",
@@ -15198,7 +15203,7 @@
       "Name": "Sowwy!",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 76193
+      "UsersEstimate": 76196
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -15246,7 +15251,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 13853
+      "UsersEstimate": 13854
     },
     {
       "ID": "FollowBraztok",
@@ -15453,21 +15458,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 230889,
+      "Progressed": 230896,
       "Completed": 5
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 230889,
+      "Progressed": 230896,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-10-14T21:02:26.6505379+00:00",
-  "LastChanged_Achievements": "2023-10-15T03:08:26.0985898+00:00",
+  "LastChanged_Achievements": "2023-10-15T04:08:24.9041889+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:06.1366459+00:00",
-  "LastUpdate_Ratings": "2023-10-15T02:57:11.794962+00:00",
-  "LastUpdate_Achievements": "2023-10-15T03:08:26.0987806+00:00"
+  "LastUpdate_Ratings": "2023-10-15T03:56:59.1963304+00:00",
+  "LastUpdate_Achievements": "2023-10-15T04:08:24.9043793+00:00"
 }

@@ -17,21 +17,21 @@
 | True G3M4R | 7.00% | ~20 |
 | Scholar | 7.00% | ~20 |
 | One last step | 7.00% | ~20 |
-| A good beginning | 6.00% | ~17 |
-| Feels like springtime | 6.00% | ~17 |
-| Alchemists Express | 6.00% | ~17 |
-| Champollion | 6.00% | ~17 |
-| The darkness | 6.00% | ~17 |
-| Open door | 5.00% | ~14 |
-| Rascal | 5.00% | ~14 |
+| A good beginning | 6.00% | ~18 |
+| Champollion | 6.00% | ~18 |
+| The darkness | 6.00% | ~18 |
+| Open door | 5.00% | ~15 |
+| Feels like springtime | 5.00% | ~15 |
+| Alchemists Express | 5.00% | ~15 |
+| Rascal | 5.00% | ~15 |
 | Free at last | 4.00% | ~12 |
 | A Link to the Past | 4.00% | ~12 |
 | For its own good | 3.00% | ~9 |
 | A great audience | 2.00% | ~6 |
 | Fashion victim | 1.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290 (Ranked 313)  
-Completed: 20 (6.90%) (Ranked 50)  
+Progressed: 292 (Ranked 313)  
+Completed: 20 (6.85%) (Ranked 50)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -117,4 +117,4 @@ Completed: 20 (6.90%) (Ranked 50)
 | 2023-10-12 | 279 | 19 |
 | 2023-10-13 | 282 | 19 |
 | 2023-10-14 | 289 | 20 |
-| 2023-10-15 | 290 | 20 |
+| 2023-10-15 | 292 | 20 |

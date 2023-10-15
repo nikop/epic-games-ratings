@@ -5,23 +5,23 @@ Rating: 4.65 (Ranked 300)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 73.00% | ~4,856 |
-| A Thorny Situation | 70.00% | ~4,656 |
-| ... And Spit Back Out | 60.00% | ~3,991 |
-| Break-Net Speed | 48.00% | ~3,193 |
-| Bramble Breaker | 46.00% | ~3,060 |
-| Miner 49er | 42.00% | ~2,794 |
-| Humble Collector | 42.00% | ~2,794 |
-| Calm Sailing | 36.00% | ~2,395 |
-| Open the Gate! | 33.00% | ~2,195 |
-| Mist Walker | 30.00% | ~1,996 |
+| Azoria Beckons | 73.00% | ~4,858 |
+| A Thorny Situation | 70.00% | ~4,658 |
+| ... And Spit Back Out | 60.00% | ~3,993 |
+| Break-Net Speed | 48.00% | ~3,194 |
+| Bramble Breaker | 46.00% | ~3,061 |
+| Miner 49er | 42.00% | ~2,795 |
+| Humble Collector | 42.00% | ~2,795 |
+| Calm Sailing | 36.00% | ~2,396 |
+| Open the Gate! | 33.00% | ~2,196 |
+| Mist Walker | 31.00% | ~2,063 |
 | Lumberjack | 26.00% | ~1,730 |
-| Oui, Chef! | 22.00% | ~1,463 |
+| Oui, Chef! | 22.00% | ~1,464 |
 | Clear the Air | 17.00% | ~1,131 |
-| Botanical Breakthrough | 16.00% | ~1,064 |
+| Botanical Breakthrough | 16.00% | ~1,065 |
 | Beach Comber | 13.00% | ~865 |
-| Search for the Hairy Grell | 12.00% | ~798 |
-| Higher Tax Bracket | 12.00% | ~798 |
+| Search for the Hairy Grell | 12.00% | ~799 |
+| Higher Tax Bracket | 12.00% | ~799 |
 | Skilled | 8.00% | ~532 |
 | Flaming Hot Completos | 7.00% | ~466 |
 | Got to Catch Them All | 7.00% | ~466 |
@@ -41,7 +41,7 @@ Rating: 4.65 (Ranked 300)
 | Giving the People What They Want | 0.10% | ~7 |
 | Very Skilled | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,652 (Ranked 162)  
+Progressed: 6,655 (Ranked 162)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-10-12 | 6,534 | 0 |
 | 2023-10-13 | 6,581 | 0 |
 | 2023-10-14 | 6,647 | 0 |
-| 2023-10-15 | 6,652 | 0 |
+| 2023-10-15 | 6,655 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

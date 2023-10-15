@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 50,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -17,11 +17,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 290,
+  "EOS_Progressed": 292,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 6.9,
+  "EOS_Completed_Percentage": 6.85,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1362,6 +1362,11 @@
       "Time": "2023-10-15T03:04:21.7710623+00:00",
       "NumProgressed": 290,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-10-15T04:04:05.9339408+00:00",
+      "NumProgressed": 292,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 25,
@@ -1405,7 +1410,7 @@
       "Name": "A good beginning",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "META_HALF_LINK",
@@ -1421,7 +1426,7 @@
       "Name": "Open door",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "META_RESULT_1-3",
@@ -1435,9 +1440,9 @@
       "ID": "META_RESULT_1-4",
       "SetID": "2gma9an",
       "Name": "Feels like springtime",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 15
     },
     {
       "ID": "META_RESULT_2-3",
@@ -1467,9 +1472,9 @@
       "ID": "OPTIONNAL_AIRLINES",
       "SetID": "2gma9an",
       "Name": "Alchemists Express",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 15
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -1477,7 +1482,7 @@
       "Name": "Rascal",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -1509,7 +1514,7 @@
       "Name": "Champollion",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -1557,7 +1562,7 @@
       "Name": "The darkness",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "PROGRESS_N5",
@@ -1572,14 +1577,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 290,
+      "Progressed": 292,
       "Completed": 20
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-15T03:04:21.7710618+00:00",
+  "LastChanged_Achievements": "2023-10-15T04:04:05.9339403+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:19.4856723+00:00",
-  "LastUpdate_Ratings": "2023-10-15T02:57:48.23058+00:00",
-  "LastUpdate_Achievements": "2023-10-15T03:04:21.7711058+00:00"
+  "LastUpdate_Ratings": "2023-10-15T03:57:31.9264786+00:00",
+  "LastUpdate_Achievements": "2023-10-15T04:04:05.9340612+00:00"
 }

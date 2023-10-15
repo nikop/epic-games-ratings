@@ -1096,9 +1096,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 152253,
+  "EOS_Progressed": 152263,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1137,
+  "EOS_NewPlayers": 1136,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11621,6 +11621,11 @@
       "Time": "2023-10-15T03:04:19.9805007+00:00",
       "NumProgressed": 152253,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-15T04:04:04.4813879+00:00",
+      "NumProgressed": 152263,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -11822,9 +11827,9 @@
       "ID": "DEFEAT_WHISPERERS",
       "SetID": "ccc0dlh",
       "Name": "Silenced Whispers",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 914
+      "UsersEstimate": 1066
     },
     {
       "ID": "MISC_ABSORBMANY",
@@ -11999,21 +12004,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 151836,
+      "Progressed": 151846,
       "Completed": 1160
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 152253,
+      "Progressed": 152263,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-14T20:01:19.9023533+00:00",
-  "LastChanged_Achievements": "2023-10-15T03:04:19.9805002+00:00",
+  "LastChanged_Achievements": "2023-10-15T04:04:04.4813876+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:33.8479674+00:00",
-  "LastUpdate_Ratings": "2023-10-15T03:00:47.9665634+00:00",
-  "LastUpdate_Achievements": "2023-10-15T03:04:19.9806066+00:00"
+  "LastUpdate_Ratings": "2023-10-15T04:00:03.1039676+00:00",
+  "LastUpdate_Achievements": "2023-10-15T04:04:04.4815556+00:00"
 }

@@ -410,9 +410,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22141,
+  "EOS_Progressed": 22142,
   "EOS_Completed": 436,
-  "EOS_NewPlayers": 469,
+  "EOS_NewPlayers": 467,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.97,
   "EosHistory": [
@@ -19500,6 +19500,11 @@
       "Time": "2023-10-15T02:28:00.8788353+00:00",
       "NumProgressed": 22141,
       "NumCompleted": 436
+    },
+    {
+      "Time": "2023-10-15T04:08:13.547099+00:00",
+      "NumProgressed": 22142,
+      "NumCompleted": 436
     }
   ],
   "TotalAchievements": 20,
@@ -19519,7 +19524,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1328
+      "UsersEstimate": 1329
     },
     {
       "ID": "EAST_FINISHED",
@@ -19591,7 +19596,7 @@
       "Name": "Tails of Stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1328
+      "UsersEstimate": 1329
     },
     {
       "ID": "FOUND_MAMBA",
@@ -19599,7 +19604,7 @@
       "Name": "Baa from the past",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1328
+      "UsersEstimate": 1329
     },
     {
       "ID": "FOUND_RIFT_CAVE",
@@ -19615,7 +19620,7 @@
       "Name": "Written in stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1328
+      "UsersEstimate": 1329
     },
     {
       "ID": "GAME_FINISHED",
@@ -19655,7 +19660,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1328
+      "UsersEstimate": 1329
     },
     {
       "ID": "WEST_FINISHED",
@@ -19663,22 +19668,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 3985
+      "UsersEstimate": 3986
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 22141,
+      "Progressed": 22142,
       "Completed": 436
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-15T03:08:12.8775825+00:00",
+  "LastChanged_Achievements": "2023-10-15T04:08:13.5470985+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:17.0806119+00:00",
-  "LastUpdate_Ratings": "2023-10-15T02:57:44.7587425+00:00",
-  "LastUpdate_Achievements": "2023-10-15T03:08:12.8777159+00:00"
+  "LastUpdate_Ratings": "2023-10-15T03:57:29.2881201+00:00",
+  "LastUpdate_Achievements": "2023-10-15T04:08:13.5473187+00:00"
 }

@@ -1857,7 +1857,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14706,
+  "EOS_Progressed": 14707,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 210,
   "EOS_NewCompleters": 0,
@@ -13882,6 +13882,11 @@
       "Time": "2023-10-15T02:27:56.8002864+00:00",
       "NumProgressed": 14706,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-15T04:08:10.9284425+00:00",
+      "NumProgressed": 14707,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -14643,9 +14648,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_GOOD",
       "SetID": "7l38kb8",
       "Name": "Good Difficulty",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 88
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_GREAT",
@@ -15259,9 +15264,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HANGING_GARDENS",
       "SetID": "9201eeb",
       "Name": "Hanging Gardens",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 294
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_CHRISTIANITY",
@@ -16628,21 +16633,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14706,
+      "Progressed": 14707,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14706,
+      "Progressed": 14707,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-14T19:03:24.424824+00:00",
-  "LastChanged_Achievements": "2023-10-15T03:08:09.6598557+00:00",
+  "LastChanged_Achievements": "2023-10-15T04:08:10.9284422+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:21.7880328+00:00",
-  "LastUpdate_Ratings": "2023-10-15T03:03:20.7521437+00:00",
-  "LastUpdate_Achievements": "2023-10-15T03:08:09.661206+00:00"
+  "LastUpdate_Ratings": "2023-10-15T04:03:21.2746627+00:00",
+  "LastUpdate_Achievements": "2023-10-15T04:08:10.9296198+00:00"
 }

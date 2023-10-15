@@ -15,9 +15,9 @@
 | Mechanical Buddy | 24.00% | ~13 |
 | Purification Pioneer | 24.00% | ~13 |
 | Wild's Keeper | 24.00% | ~13 |
+| Loyal Partner | 22.00% | ~12 |
 | Mind Illuminator | 22.00% | ~12 |
 | Behenian Champion | 22.00% | ~12 |
-| Loyal Partner | 20.00% | ~11 |
 | Stellar Dismantler | 20.00% | ~11 |
 | Anomaly Destroyer | 18.00% | ~10 |
 | Shard Spender | 18.00% | ~10 |

@@ -6,29 +6,29 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~13,985 |
-| Sweet Sorrow | 18.00% | ~6,992 |
-| Rules the Waves | 17.00% | ~6,604 |
-| Thou, All-Shaking Thunder | 15.00% | ~5,827 |
+| Sink Beneath the Waves | 36.00% | ~13,986 |
+| Sweet Sorrow | 18.00% | ~6,993 |
+| Rules the Waves | 17.00% | ~6,605 |
+| Thou, All-Shaking Thunder | 15.00% | ~5,828 |
 | Rival | 14.00% | ~5,439 |
 | Correspondent | 12.00% | ~4,662 |
 | Lose Your Mind | 12.00% | ~4,662 |
 | Sound Mind? | 12.00% | ~4,662 |
-| Salt's Curse | 11.00% | ~4,273 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~4,273 |
-| The Fall of the House | 11.00% | ~4,273 |
-| Shipmate | 11.00% | ~4,273 |
+| Salt's Curse | 11.00% | ~4,274 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~4,274 |
+| The Fall of the House | 11.00% | ~4,274 |
+| Shipmate | 11.00% | ~4,274 |
 | One Year at Zee | 8.00% | ~3,108 |
-| Pupil | 7.00% | ~2,719 |
-| Salvager | 7.00% | ~2,719 |
-| Open Your Ears | 7.00% | ~2,719 |
-| The Ascent of Man | 7.00% | ~2,719 |
+| Pupil | 7.00% | ~2,720 |
+| Salvager | 7.00% | ~2,720 |
+| Open Your Ears | 7.00% | ~2,720 |
+| The Ascent of Man | 7.00% | ~2,720 |
 | Zee Fever | 5.00% | ~1,942 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,554 |
 | Sink Beneath the Waves. Again. | 4.00% | ~1,554 |
-| Storm's Curse | 3.00% | ~1,165 |
-| We're Gonna Need a Bigger Boat | 3.00% | ~1,165 |
-| Come Closer | 3.00% | ~1,165 |
+| Storm's Curse | 3.00% | ~1,166 |
+| We're Gonna Need a Bigger Boat | 3.00% | ~1,166 |
+| Come Closer | 3.00% | ~1,166 |
 | Roaring Rise | 2.00% | ~777 |
 | I am the Captain of my Soul | 2.00% | ~777 |
 | A buoyant escape | 1.00% | ~388 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~39 |
 | Ten Years at Zee | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,847 (Ranked 111)  
+Progressed: 38,850 (Ranked 111)  
 Completed: 4 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 4 (0.01%) (Ranked 296)
 | 2023-10-12 | 38,728 | 4 |
 | 2023-10-13 | 38,784 | 4 |
 | 2023-10-14 | 38,839 | 4 |
-| 2023-10-15 | 38,847 | 4 |
+| 2023-10-15 | 38,850 | 4 |
 ## Awards
 Max (Character Customization): 215  (Ranked 274)  
 Sum: 288 (Ranked 353)  

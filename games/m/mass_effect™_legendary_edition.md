@@ -33,8 +33,8 @@
 | Very Elusive | 43.00% | ~298 |
 | Head Hunter | 43.00% | ~298 |
 | Operative | 42.00% | ~291 |
+| Scholar | 42.00% | ~291 |
 | Veteran | 41.00% | ~284 |
-| Scholar | 41.00% | ~284 |
 | Power Full | 40.00% | ~277 |
 | The Professor | 39.00% | ~270 |
 | Completionist | 37.00% | ~256 |

@@ -14,6 +14,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Settler | 2.00% | ~294 |
 | Strong | 2.00% | ~294 |
 | Friendly Family | 2.00% | ~294 |
+| Hanging Gardens | 2.00% | ~294 |
 | Play a Single Player Game | 2.00% | ~294 |
 | Ambitious | 1.00% | ~147 |
 | Enlightened | 1.00% | ~147 |
@@ -30,7 +31,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Wise | 1.00% | ~147 |
 | Developing Cities | 1.00% | ~147 |
 | Strong Cities | 1.00% | ~147 |
-| Hanging Gardens | 1.00% | ~147 |
 | Ishtar Gate | 1.00% | ~147 |
 | Lighthouse | 1.00% | ~147 |
 | Oracle | 1.00% | ~147 |
@@ -76,12 +76,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Conqueror | 0.60% | ~88 |
 | Intercessor | 0.60% | ~88 |
 | Victorious | 0.60% | ~88 |
+| Good Difficulty | 0.60% | ~88 |
 | Mausoleum | 0.60% | ~88 |
 | Learn to Play 3 | 0.60% | ~88 |
 | Building Wonders | 0.60% | ~88 |
 | Invincible | 0.50% | ~74 |
 | Lion | 0.50% | ~74 |
-| Good Difficulty | 0.50% | ~74 |
 | Patrons | 0.50% | ~74 |
 | Riders | 0.50% | ~74 |
 | Hittite Iron | 0.50% | ~74 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,706 (Ranked 135)  
+Progressed: 14,707 (Ranked 135)  
 Completed: 5 (0.03%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -527,7 +527,7 @@ Completed: 5 (0.03%) (Ranked 283)
 | 2023-10-12 | 14,624 | 5 |
 | 2023-10-13 | 14,652 | 5 |
 | 2023-10-14 | 14,699 | 5 |
-| 2023-10-15 | 14,706 | 5 |
+| 2023-10-15 | 14,707 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,839 (Ranked 210)  

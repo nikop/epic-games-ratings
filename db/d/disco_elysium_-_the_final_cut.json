@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 241,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
@@ -1361,9 +1361,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 129712,
+  "EOS_Progressed": 129713,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 256,
+  "EOS_NewPlayers": 257,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -19101,6 +19101,11 @@
       "Time": "2023-10-15T01:53:28.3832639+00:00",
       "NumProgressed": 129712,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-10-15T04:08:12.7428349+00:00",
+      "NumProgressed": 129713,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -19192,7 +19197,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36319
+      "UsersEstimate": 36320
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -19208,7 +19213,7 @@
       "Name": "The Lawbringer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5188
+      "UsersEstimate": 5189
     },
     {
       "ID": "ACH_COP_LIBERAL",
@@ -19408,7 +19413,7 @@
       "Name": "Fairweather t-500 Vitreous Enamel",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 5188
+      "UsersEstimate": 5189
     },
     {
       "ID": "ACH_REAL_MUSOR",
@@ -19431,15 +19436,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 129712,
+      "Progressed": 129713,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-10-14T08:02:22.2123051+00:00",
-  "LastChanged_Achievements": "2023-10-15T03:08:12.0975961+00:00",
+  "LastChanged_Achievements": "2023-10-15T04:08:12.7428343+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:18.5281336+00:00",
-  "LastUpdate_Ratings": "2023-10-15T03:03:14.79476+00:00",
-  "LastUpdate_Achievements": "2023-10-15T03:08:12.0978401+00:00"
+  "LastUpdate_Ratings": "2023-10-15T04:03:13.5537998+00:00",
+  "LastUpdate_Achievements": "2023-10-15T04:08:12.7430387+00:00"
 }
