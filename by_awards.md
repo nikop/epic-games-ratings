@@ -15,7 +15,7 @@
 | 13 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 39,811 | 4.74 | 148 |
 | 14 | [Destiny 2](games/d/destiny_2.md) | 38,317 | 4.49 | 591 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 33,934 | 4.51 | 552 |
-| 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 29,023 | 4.64 | 321 |
+| 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 29,028 | 4.64 | 321 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 23,517 | 4.76 | 118 |
 | 18 | [Dauntless](games/d/dauntless.md) | 22,765 | 4.53 | 525 |
 | 19 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 20,261 | 4.26 | 843 |
@@ -53,14 +53,14 @@
 | 51 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 7,457 | 4.68 | 240 |
 | 52 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 7,233 | 4.74 | 148 |
 | 53 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 689 |
-| 54 | [Sifu](games/s/sifu.md) | 6,675 | 4.82 | 61 |
+| 54 | [Sifu](games/s/sifu.md) | 6,684 | 4.82 | 61 |
 | 55 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 6,534 | 4.69 | 222 |
 | 56 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,461 | 4.80 | 82 |
 | 57 | [Dead Island 2](games/d/dead_island_2.md) | 6,442 | 4.54 | 510 |
 | 58 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,436 | 4.58 | 437 |
 | 59 | [Bloons TD 6](games/b/bloons_td_6.md) | 6,232 | 4.77 | 111 |
 | 60 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 6,213 | 4.75 | 138 |
-| 61 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,043 | 4.79 | 91 |
+| 61 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,046 | 4.79 | 91 |
 | 62 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,982 | 4.64 | 321 |
 | 63 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,922 | 4.82 | 61 |
 | 64 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,915 | 4.66 | 282 |
@@ -156,7 +156,7 @@
 | 154 | [Football Manager 2023](games/f/football_manager_2023.md) | 908 | 4.76 | 118 |
 | 155 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 885 | 4.45 | 644 |
 | 156 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 881 | 4.45 | 644 |
-| 157 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 876 | 4.56 | 473 |
+| 157 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 877 | 4.56 | 473 |
 | 158 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 838 | 4.49 | 591 |
 | 159 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 835 | 4.69 | 222 |
 | 160 | [Frostpunk](games/f/frostpunk.md) | 824 | 4.74 | 148 |
@@ -246,7 +246,7 @@
 | 244 | [Dead Cells](games/d/dead_cells.md) | 289 | 4.87 | 22 |
 | 244 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 289 | 4.61 | 374 |
 | 244 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 289 | 4.46 | 628 |
-| 247 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 286 | 4.43 | 674 |
+| 247 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 287 | 4.43 | 674 |
 | 248 | [Diabotical](games/d/diabotical.md) | 284 | 4.75 | 138 |
 | 249 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 282 | 4.62 | 353 |
 | 250 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 276 | 4.49 | 591 |

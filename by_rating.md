@@ -68,7 +68,7 @@
 | 61 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 34 | 462 |
 | 61 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 773 | 166 |
 | 61 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.82 | 273 | 252 |
-| 61 | [Sifu](games/s/sifu.md) | 4.82 | 6,675 | 54 |
+| 61 | [Sifu](games/s/sifu.md) | 4.82 | 6,684 | 54 |
 | 61 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 418 | 220 |
 | 61 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.82 | 50 | 413 |
 | 61 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.82 | 0 | 536 |
@@ -95,7 +95,7 @@
 | 91 | [Griftlands](games/g/griftlands.md) | 4.79 | 0 | 536 |
 | 91 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 1,018 | 147 |
 | 91 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 779 | 165 |
-| 91 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 6,043 | 61 |
+| 91 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 6,046 | 61 |
 | 91 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 391 | 223 |
 | 98 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.78 | 0 | 536 |
 | 98 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.78 | 51 | 410 |
@@ -329,7 +329,7 @@
 | 321 | [HITMAN](games/h/hitman.md) | 4.64 | 208 | 276 |
 | 321 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.64 | 0 | 536 |
 | 321 | [Road 96](games/r/road_96.md) | 4.64 | 0 | 536 |
-| 321 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.64 | 29,023 | 16 |
+| 321 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.64 | 29,028 | 16 |
 | 321 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 67 | 395 |
 | 321 | [System Shock](games/s/system_shock.md) | 4.64 | 0 | 536 |
 | 321 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.64 | 0 | 536 |
@@ -477,7 +477,7 @@
 | 473 | [Aztez](games/a/aztez.md) | 4.56 | 0 | 536 |
 | 473 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 51 | 410 |
 | 473 | [Deceive Inc.](games/d/deceive_inc..md) | 4.56 | 0 | 536 |
-| 473 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 876 | 157 |
+| 473 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 877 | 157 |
 | 473 | [F1® Manager 2023](games/3/38b4b40752b142e5a503acbb241a8b3c.md) | 4.56 | 0 | 536 |
 | 473 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 27 | 490 |
 | 473 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.56 | 350 | 232 |
@@ -687,7 +687,7 @@
 | 674 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.43 | 0 | 536 |
 | 674 | [STG Football](games/s/stg_football.md) | 4.43 | 45 | 426 |
 | 674 | [The Surge](games/t/the_surge.md) | 4.43 | 29 | 477 |
-| 674 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 286 | 247 |
+| 674 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 287 | 247 |
 | 689 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.42 | 0 | 536 |
 | 689 | [Othercide](games/o/othercide.md) | 4.42 | 0 | 536 |
 | 689 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,231 | 137 |
