@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 50,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -1498,17 +1498,17 @@
       "ID": "OPTIONNAL_GAMES",
       "SetID": "2gma9an",
       "Name": "True G3M4R",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 24
     },
     {
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 32
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -1554,17 +1554,17 @@
       "ID": "PROGRESS_N2",
       "SetID": "2gma9an",
       "Name": "The great escape",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 35
     },
     {
       "ID": "PROGRESS_N3",
       "SetID": "2gma9an",
       "Name": "A new dawn",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 29
     },
     {
       "ID": "PROGRESS_N4",
@@ -1593,8 +1593,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-15T13:07:13.9080178+00:00",
+  "LastChanged_Achievements": "2023-10-15T14:04:24.3951157+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:19.4856723+00:00",
-  "LastUpdate_Ratings": "2023-10-15T13:00:26.5291748+00:00",
-  "LastUpdate_Achievements": "2023-10-15T13:07:13.9080549+00:00"
+  "LastUpdate_Ratings": "2023-10-15T13:57:46.0722394+00:00",
+  "LastUpdate_Achievements": "2023-10-15T14:04:24.3951402+00:00"
 }

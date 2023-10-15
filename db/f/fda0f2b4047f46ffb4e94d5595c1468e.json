@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -1272,7 +1272,7 @@
       "Count": 215
     }
   ],
-  "EOS_Progressed": 7623,
+  "EOS_Progressed": 7624,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 434,
   "EOS_NewCompleters": 0,
@@ -4367,6 +4367,11 @@
       "Time": "2023-10-15T13:11:42.2341316+00:00",
       "NumProgressed": 7623,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-15T14:08:27.7525897+00:00",
+      "NumProgressed": 7624,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -4387,7 +4392,7 @@
       "Name": "Eye Of The TaiGore",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1753
+      "UsersEstimate": 1754
     },
     {
       "ID": "ach03",
@@ -4395,7 +4400,7 @@
       "Name": "A New Timeline",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 3354
+      "UsersEstimate": 3355
     },
     {
       "ID": "ach04",
@@ -4403,7 +4408,7 @@
       "Name": "What Just Happened??",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1448
+      "UsersEstimate": 1449
     },
     {
       "ID": "ach05",
@@ -4419,7 +4424,7 @@
       "Name": "Titan",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 5641
+      "UsersEstimate": 5642
     },
     {
       "ID": "ach07",
@@ -4427,7 +4432,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 4040
+      "UsersEstimate": 4041
     },
     {
       "ID": "ach08",
@@ -4475,7 +4480,7 @@
       "Name": "Making Friends Is Easy",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 1143
+      "UsersEstimate": 1144
     },
     {
       "ID": "ach14",
@@ -4499,7 +4504,7 @@
       "Name": "Test Your Might",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 1143
+      "UsersEstimate": 1144
     },
     {
       "ID": "ach17",
@@ -4595,7 +4600,7 @@
       "Name": "Feeling Stronger",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2439
+      "UsersEstimate": 2440
     },
     {
       "ID": "ach29",
@@ -4699,7 +4704,7 @@
       "Name": "Stop Hiding",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2744
+      "UsersEstimate": 2745
     },
     {
       "ID": "ach42",
@@ -4755,7 +4760,7 @@
       "Name": "Total Disrespect",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 1448
+      "UsersEstimate": 1449
     },
     {
       "ID": "ach49",
@@ -4778,7 +4783,7 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 7623,
+      "Progressed": 7624,
       "Completed": 0
     }
   ],
@@ -4786,8 +4791,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-10-15T12:00:19.9431094+00:00",
-  "LastChanged_Achievements": "2023-10-15T13:11:42.2341309+00:00",
+  "LastChanged_Achievements": "2023-10-15T14:08:27.7525889+00:00",
   "LastUpdate_AppInfo": "2023-10-14T07:57:06.3888504+00:00",
-  "LastUpdate_Ratings": "2023-10-15T13:02:38.1993818+00:00",
-  "LastUpdate_Achievements": "2023-10-15T13:11:42.2342063+00:00"
+  "LastUpdate_Ratings": "2023-10-15T13:59:37.7111888+00:00",
+  "LastUpdate_Achievements": "2023-10-15T14:08:27.7526551+00:00"
 }

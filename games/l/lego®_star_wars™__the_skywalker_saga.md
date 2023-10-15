@@ -17,7 +17,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | A New Hope | 48.00% | ~24,880 |
 | Attack of the Clones | 47.00% | ~24,362 |
 | Revenge of the Sith | 40.00% | ~20,733 |
-| The Empire Strikes Back | 37.00% | ~19,178 |
+| The Empire Strikes Back | 38.00% | ~19,697 |
 | ''A fine addition to my collection'' | 37.00% | ~19,178 |
 | Return of the Jedi | 32.00% | ~16,587 |
 | The Force Awakens | 27.00% | ~13,995 |

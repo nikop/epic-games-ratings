@@ -1,52 +1,52 @@
 # Train Valley 2
 [Store](https://store.epicgames.com/en-US/p/train-valley-2-3606da)  
 [View Rawdata](../../db/t/train_valley_2.json)  
-Rating: 4.44 (Ranked 656)  
+Rating: 4.44 (Ranked 657)  
 Number of Ratings: 87  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~296,704 |
-| Full garage | 60.00% | ~243,866 |
-| To the eyeballs! | 51.00% | ~207,286 |
-| Individual delivery | 46.00% | ~186,964 |
-| Non-Stop | 44.00% | ~178,835 |
-| Juggler | 36.00% | ~146,320 |
-| Forgot something | 35.00% | ~142,255 |
-| Close call! | 30.00% | ~121,933 |
-| Get out my way | 28.00% | ~113,804 |
-| Common cause | 26.00% | ~105,675 |
-| Critical care | 26.00% | ~105,675 |
-| Mega-railroad | 23.00% | ~93,482 |
-| Upgrade complete | 23.00% | ~93,482 |
-| Just in time! | 18.00% | ~73,160 |
-| Builder | 17.00% | ~69,095 |
-| Long Haul | 17.00% | ~68,983 |
-| Steam Age | 16.00% | ~65,031 |
-| Multilevel road | 15.00% | ~60,967 |
-| Bridgemania | 14.00% | ~56,902 |
-| Need to think | 14.00% | ~56,902 |
-| The Tortoise | 12.00% | ~48,773 |
-| Without a lunch break | 11.00% | ~44,709 |
-| Beginner | 10.00% | ~40,644 |
-| One way | 10.00% | ~40,644 |
-| Relocation | 10.00% | ~40,644 |
-| Industrial Age | 9.00% | ~36,580 |
-| Just One More Valley | 9.00% | ~36,521 |
-| Prick of conscience | 8.00% | ~32,516 |
-| Missed it! | 7.00% | ~28,451 |
-| At the last moment! | 6.00% | ~24,387 |
-| Overseer | 6.00% | ~24,387 |
-| Jewelry accuracy | 5.00% | ~20,322 |
-| Stargazer | 5.00% | ~20,322 |
-| Bridge builder | 4.00% | ~16,258 |
-| Electrical Age | 4.00% | ~16,258 |
-| Highlander | 4.00% | ~16,258 |
-| Large construction | 4.00% | ~16,258 |
-| Squander | 4.00% | ~16,258 |
-| Engineer | 3.00% | ~12,193 |
-| Living it large | 3.00% | ~12,193 |
-| Sabotage | 3.00% | ~12,193 |
+| Dealmaker | 73.00% | ~296,722 |
+| Full garage | 60.00% | ~243,881 |
+| To the eyeballs! | 51.00% | ~207,299 |
+| Individual delivery | 46.00% | ~186,975 |
+| Non-Stop | 44.00% | ~178,846 |
+| Juggler | 36.00% | ~146,328 |
+| Forgot something | 35.00% | ~142,264 |
+| Close call! | 30.00% | ~121,940 |
+| Get out my way | 28.00% | ~113,811 |
+| Common cause | 26.00% | ~105,682 |
+| Critical care | 26.00% | ~105,682 |
+| Mega-railroad | 23.00% | ~93,488 |
+| Upgrade complete | 23.00% | ~93,488 |
+| Just in time! | 18.00% | ~73,164 |
+| Builder | 17.00% | ~69,100 |
+| Long Haul | 17.00% | ~68,988 |
+| Steam Age | 16.00% | ~65,035 |
+| Multilevel road | 15.00% | ~60,970 |
+| Bridgemania | 14.00% | ~56,906 |
+| Need to think | 14.00% | ~56,906 |
+| The Tortoise | 12.00% | ~48,776 |
+| Without a lunch break | 11.00% | ~44,711 |
+| Beginner | 10.00% | ~40,647 |
+| One way | 10.00% | ~40,647 |
+| Relocation | 10.00% | ~40,647 |
+| Industrial Age | 9.00% | ~36,582 |
+| Just One More Valley | 9.00% | ~36,523 |
+| Prick of conscience | 8.00% | ~32,517 |
+| Missed it! | 7.00% | ~28,453 |
+| At the last moment! | 6.00% | ~24,388 |
+| Overseer | 6.00% | ~24,388 |
+| Jewelry accuracy | 5.00% | ~20,323 |
+| Stargazer | 5.00% | ~20,323 |
+| Bridge builder | 4.00% | ~16,259 |
+| Electrical Age | 4.00% | ~16,259 |
+| Highlander | 4.00% | ~16,259 |
+| Large construction | 4.00% | ~16,259 |
+| Squander | 4.00% | ~16,259 |
+| Engineer | 3.00% | ~12,194 |
+| Living it large | 3.00% | ~12,194 |
+| Sabotage | 3.00% | ~12,194 |
 | Test Batch | 3.00% | ~12,174 |
 | Astronomer | 2.00% | ~8,129 |
 | Globalisation Age | 2.00% | ~8,129 |
@@ -57,10 +57,10 @@ Number of Ratings: 87  (23.09.2022)
 | Will work | 2.00% | ~8,129 |
 | Woodcutter | 2.00% | ~8,129 |
 | Occupied! | 2.00% | ~8,116 |
-| Achiever | 1.00% | ~4,064 |
-| Metro builder | 1.00% | ~4,064 |
-| Ouroboros | 1.00% | ~4,064 |
-| Space Age | 1.00% | ~4,064 |
+| Achiever | 1.00% | ~4,065 |
+| Metro builder | 1.00% | ~4,065 |
+| Ouroboros | 1.00% | ~4,065 |
+| Space Age | 1.00% | ~4,065 |
 | Environmental activist | 0.90% | ~3,658 |
 | BBQ | 0.70% | ~2,845 |
 | Miscalculation | 0.70% | ~2,845 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~406 |
 | World Zapper | 0.10% | ~406 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 406,444 (Ranked 42)  
+Progressed: 406,468 (Ranked 42)  
 Completed: 19 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 19 (0.00%) (Ranked 314)
 | 2023-10-12 | 405,367 | 19 |
 | 2023-10-13 | 405,727 | 19 |
 | 2023-10-14 | 406,219 | 19 |
-| 2023-10-15 | 406,444 | 19 |
+| 2023-10-15 | 406,468 | 19 |
 ## Awards
 Max (Challenging Puzzles): 768  (Ranked 167)  
 Sum: 1,558 (Ranked 225)  

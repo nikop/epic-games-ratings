@@ -36,12 +36,12 @@ Rating: 4.50 (Ranked 573)
 | Stunner | 0.60% | ~159 |
 | We have the best insurance | 0.50% | ~132 |
 | Diabolical | 0.50% | ~132 |
+| Rift Destroyer | 0.50% | ~132 |
 | Seasoned | 0.50% | ~132 |
 | Tobin's Prodigy | 0.50% | ~132 |
 | Collector | 0.40% | ~106 |
 | Escape Artist | 0.40% | ~106 |
 | Reckless | 0.40% | ~106 |
-| Rift Destroyer | 0.40% | ~106 |
 | Rivalry | 0.40% | ~106 |
 | Fragile Panes | 0.30% | ~79 |
 | Liability | 0.30% | ~79 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 573)
 | Rift Seeker | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,487 (Ranked 117)  
+Progressed: 26,488 (Ranked 117)  
 Completed: 58 (0.22%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,7 +235,7 @@ Completed: 58 (0.22%) (Ranked 219)
 | 2023-10-12 | 26,379 | 58 |
 | 2023-10-13 | 26,414 | 58 |
 | 2023-10-14 | 26,466 | 58 |
-| 2023-10-15 | 26,487 | 58 |
+| 2023-10-15 | 26,488 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 262  (Ranked 256)  
 Sum: 2,389 (Ranked 188)  

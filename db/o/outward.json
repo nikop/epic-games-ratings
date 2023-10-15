@@ -4,11 +4,11 @@
   "ProductSlug": "outward",
   "Ranking_Rating": 492,
   "Ranking_Popularity": 456,
-  "Ranking_PopularitySum": 367,
+  "Ranking_PopularitySum": 368,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -5527,8 +5527,8 @@
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-17T17:59:20.5916626+00:00",
-  "LastChanged_Achievements": "2023-10-15T13:10:14.5270496+00:00",
+  "LastChanged_Achievements": "2023-10-15T14:07:02.1364574+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:37.8294259+00:00",
-  "LastUpdate_Ratings": "2023-10-15T13:04:03.0833106+00:00",
-  "LastUpdate_Achievements": "2023-10-15T13:10:14.5271157+00:00"
+  "LastUpdate_Ratings": "2023-10-15T14:00:52.5123371+00:00",
+  "LastUpdate_Achievements": "2023-10-15T14:07:02.1365142+00:00"
 }

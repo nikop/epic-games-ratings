@@ -4,11 +4,11 @@
   "ProductSlug": "borderlands-the-pre-sequel",
   "Ranking_Rating": 573,
   "Ranking_Popularity": 218,
-  "Ranking_PopularitySum": 173,
+  "Ranking_PopularitySum": 172,
   "Ranking_EOS_Progress": 670,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 398,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2014-10-14T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -3558,10 +3558,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2976,
       "NumberOfAwardsMax": 421
+    },
+    {
+      "Time": "2023-10-15T14:00:57.881221+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2977,
+      "NumberOfAwardsMax": 421
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2976,
+  "NumberOfAwards": 2977,
   "NumberOfAwardsMax": 421,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3617,7 +3623,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 350
+      "Count": 351
     },
     {
       "Text": "This game has Unique Visuals",
@@ -3637,8 +3643,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:28.453834+00:00",
-  "LastChanged": "2023-10-15T11:01:53.4469143+00:00",
+  "LastChanged": "2023-10-15T14:00:57.8812208+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:39.5985633+00:00",
-  "LastUpdate_Ratings": "2023-10-15T13:04:10.6093371+00:00",
-  "LastUpdate_Achievements": "2023-10-15T13:10:59.0895465+00:00"
+  "LastUpdate_Ratings": "2023-10-15T14:00:57.8812215+00:00",
+  "LastUpdate_Achievements": "2023-10-15T14:07:40.7968402+00:00"
 }

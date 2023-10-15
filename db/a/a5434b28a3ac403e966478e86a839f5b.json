@@ -2,7 +2,7 @@
   "ID": "a5434b28a3ac403e966478e86a839f5b",
   "Name": "Quake II",
   "ProductSlug": "quake-ii",
-  "Ranking_EOS_Progress": 289,
+  "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 156,
   "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 56,
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 415,
+  "EOS_Progressed": 416,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -1107,6 +1107,11 @@
       "Time": "2023-10-15T13:07:51.9850422+00:00",
       "NumProgressed": 415,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-15T14:04:57.3916755+00:00",
+      "NumProgressed": 416,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -1119,15 +1124,15 @@
       "Name": "Assassinate the Makron",
       "Percentage": 16,
       "XP": 120,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ACH_eou1",
       "SetID": "51of0eo",
       "Name": "Establish Communications",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 249
+      "UsersEstimate": 245
     },
     {
       "ID": "ACH_eou2",
@@ -1165,9 +1170,9 @@
       "ID": "ACH_eou6",
       "SetID": "51of0eo",
       "Name": "Destroy Strogg Main Reactor",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 91
+      "UsersEstimate": 96
     },
     {
       "ID": "ACH_eou7",
@@ -1222,14 +1227,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 415,
+      "Progressed": 416,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-10-15T13:07:51.9850413+00:00",
+  "LastChanged_Achievements": "2023-10-15T14:04:57.3916748+00:00",
   "LastUpdate_AppInfo": "2023-10-12T22:57:11.8537053+00:00",
-  "LastUpdate_Ratings": "2023-10-15T13:02:27.6893435+00:00",
-  "LastUpdate_Achievements": "2023-10-15T13:07:51.985072+00:00"
+  "LastUpdate_Ratings": "2023-10-15T13:59:28.3494472+00:00",
+  "LastUpdate_Achievements": "2023-10-15T14:04:57.3916924+00:00"
 }

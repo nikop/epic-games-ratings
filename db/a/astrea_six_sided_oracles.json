@@ -4,8 +4,8 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 430,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -800,9 +800,9 @@
       "ID": "StellarDismantler",
       "SetID": "1jeo1g7",
       "Name": "Stellar Dismantler",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "StellarHaste",
@@ -1087,8 +1087,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-10-15T13:08:36.6378424+00:00",
+  "LastChanged_Achievements": "2023-10-15T14:05:36.6927676+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:31.1237479+00:00",
-  "LastUpdate_Ratings": "2023-10-15T13:03:31.3857547+00:00",
-  "LastUpdate_Achievements": "2023-10-15T13:08:36.6380218+00:00"
+  "LastUpdate_Ratings": "2023-10-15T14:00:22.6274911+00:00",
+  "LastUpdate_Achievements": "2023-10-15T14:05:36.6928741+00:00"
 }

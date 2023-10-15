@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1102,9 +1102,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 152365,
+  "EOS_Progressed": 152388,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1126,
+  "EOS_NewPlayers": 1136,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11677,6 +11677,11 @@
       "Time": "2023-10-15T13:07:11.6214707+00:00",
       "NumProgressed": 152365,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-15T14:04:22.4840904+00:00",
+      "NumProgressed": 152388,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -11750,9 +11755,9 @@
       "ID": "ACQUIRE_TRAIT",
       "SetID": "ccc0dlh",
       "Name": "Taste",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1524
+      "UsersEstimate": 3048
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -11784,7 +11789,7 @@
       "Name": "Shapely",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "DEFEAT_FLOWERHEART",
@@ -11872,7 +11877,7 @@
       "Name": "Watcher",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "DEFEAT_WHISPERERS",
@@ -12055,21 +12060,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 151948,
+      "Progressed": 151971,
       "Completed": 1160
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 152365,
+      "Progressed": 152388,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-15T13:03:38.6219185+00:00",
-  "LastChanged_Achievements": "2023-10-15T13:07:11.6214699+00:00",
+  "LastChanged_Achievements": "2023-10-15T14:04:22.4840899+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:33.8479674+00:00",
-  "LastUpdate_Ratings": "2023-10-15T13:03:38.6219193+00:00",
-  "LastUpdate_Achievements": "2023-10-15T13:07:11.6215796+00:00"
+  "LastUpdate_Ratings": "2023-10-15T14:00:31.4179408+00:00",
+  "LastUpdate_Achievements": "2023-10-15T14:04:22.4841948+00:00"
 }

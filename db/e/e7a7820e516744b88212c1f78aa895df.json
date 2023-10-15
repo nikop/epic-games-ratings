@@ -4,8 +4,8 @@
   "ProductSlug": "overpass-2",
   "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
     "PcReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -537,9 +537,9 @@
       "ID": "achFire1",
       "SetID": "7ji07dj",
       "Name": "You\u0027re Fired!",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "achMaxCage",
@@ -625,17 +625,17 @@
       "ID": "achSponsor10",
       "SetID": "7ji07dj",
       "Name": "Schmoozer",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "achSponsor20",
       "SetID": "7ji07dj",
       "Name": "Corporate Cooperator",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 75,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "achSponsor5",
@@ -768,8 +768,8 @@
   ],
   "FirstSeen": "2023-10-03T04:00:29.2485771+00:00",
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2023-10-15T13:06:17.1962768+00:00",
+  "LastChanged_Achievements": "2023-10-15T14:03:26.870397+00:00",
   "LastUpdate_AppInfo": "2023-10-12T09:57:17.4515049+00:00",
-  "LastUpdate_Ratings": "2023-10-15T13:04:45.7776093+00:00",
-  "LastUpdate_Achievements": "2023-10-15T13:06:17.1963077+00:00"
+  "LastUpdate_Ratings": "2023-10-15T14:01:26.3083467+00:00",
+  "LastUpdate_Achievements": "2023-10-15T14:03:26.8704264+00:00"
 }

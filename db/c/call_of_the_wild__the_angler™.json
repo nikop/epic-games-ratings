@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -814,7 +814,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 6053,
+  "EOS_Progressed": 6054,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
@@ -8504,6 +8504,11 @@
       "Time": "2023-10-15T11:04:30.0236498+00:00",
       "NumProgressed": 6053,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-15T14:04:08.5616218+00:00",
+      "NumProgressed": 6054,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -8515,7 +8520,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 4782
+      "UsersEstimate": 4783
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -8587,7 +8592,7 @@
       "Name": "License to Gill",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 1997
+      "UsersEstimate": 1998
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -8619,7 +8624,7 @@
       "Name": "Goldfish?",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 1755
+      "UsersEstimate": 1756
     },
     {
       "ID": "ACHIEVEMENT_015",
@@ -8755,7 +8760,7 @@
       "Name": "Rod and Troll",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACHIEVEMENT_033",
@@ -8794,13 +8799,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6053,
+      "Progressed": 6054,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5425,
+      "Progressed": 5426,
       "Completed": 112
     }
   ],
@@ -8808,8 +8813,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-10-13T02:58:59.777665+00:00",
-  "LastChanged_Achievements": "2023-10-15T13:06:55.0071023+00:00",
+  "LastChanged_Achievements": "2023-10-15T14:04:08.5616213+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:14.7785025+00:00",
-  "LastUpdate_Ratings": "2023-10-15T13:02:25.5856645+00:00",
-  "LastUpdate_Achievements": "2023-10-15T13:06:55.0072095+00:00"
+  "LastUpdate_Ratings": "2023-10-15T13:59:26.5732822+00:00",
+  "LastUpdate_Achievements": "2023-10-15T14:04:08.5617009+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2016-03-01T17:00:00+00:00",
@@ -77,9 +77,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 437,
+  "EOS_Progressed": 438,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.37,
   "EosHistory": [
@@ -477,6 +477,11 @@
       "Time": "2023-10-15T02:25:52.7007009+00:00",
       "NumProgressed": 437,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-15T14:06:14.1175783+00:00",
+      "NumProgressed": 438,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 36,
@@ -488,7 +493,7 @@
       "Name": "Huzza, he\u0027s back.",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "dep4_achievement_10",
@@ -526,9 +531,9 @@
       "ID": "dep4_achievement_14",
       "SetID": "5d32b60",
       "Name": "Shall we play a game?",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 210
+      "UsersEstimate": 206
     },
     {
       "ID": "dep4_achievement_15",
@@ -560,7 +565,7 @@
       "Name": "Chunky",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "dep4_achievement_19",
@@ -568,15 +573,15 @@
       "Name": "FunScore",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "dep4_achievement_2",
       "SetID": "5d32b60",
       "Name": "And again, and again, and...",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 280
+      "UsersEstimate": 276
     },
     {
       "ID": "dep4_achievement_20",
@@ -598,9 +603,9 @@
       "ID": "dep4_achievement_22",
       "SetID": "5d32b60",
       "Name": "No man left behind!",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 131
+      "UsersEstimate": 127
     },
     {
       "ID": "dep4_achievement_23",
@@ -664,15 +669,15 @@
       "Name": "Burn, Elysium, burn!",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "dep4_achievement_30",
       "SetID": "5d32b60",
       "Name": "Elysian Minigame-Master",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 166
+      "UsersEstimate": 162
     },
     {
       "ID": "dep4_achievement_31",
@@ -736,7 +741,7 @@
       "Name": "Boat of love, boat of love",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "dep4_achievement_6",
@@ -760,7 +765,7 @@
       "Name": "And everything comes full circle.",
       "Percentage": 20,
       "XP": 60,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "dep4_achievement_9",
@@ -775,7 +780,7 @@
     {
       "ID": "5d32b60",
       "IsBase": true,
-      "Progressed": 437,
+      "Progressed": 438,
       "Completed": 6
     }
   ],
@@ -783,8 +788,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-09-28T09:59:33.6365228+00:00",
-  "LastChanged_Achievements": "2023-10-15T13:09:18.9835328+00:00",
+  "LastChanged_Achievements": "2023-10-15T14:06:14.1175778+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:23.1936076+00:00",
-  "LastUpdate_Ratings": "2023-10-15T13:02:57.8082258+00:00",
-  "LastUpdate_Achievements": "2023-10-15T13:09:18.9835659+00:00"
+  "LastUpdate_Ratings": "2023-10-15T13:59:55.4101709+00:00",
+  "LastUpdate_Achievements": "2023-10-15T14:06:14.1176127+00:00"
 }

@@ -22,9 +22,9 @@
 | Sia's Promise | 20.00% | ~54 |
 | Romantic | 17.00% | ~46 |
 | TentacleMAN | 12.00% | ~32 |
+| Flawless | 6.00% | ~16 |
 | Yohan's Promise | 5.00% | ~13 |
 | Plushyboy | 5.00% | ~13 |
-| Flawless | 5.00% | ~13 |
 | LOVEassistant | 4.00% | ~11 |
 | True Player | 1.00% | ~3 |
 | Dreamboat | 1.00% | ~3 |

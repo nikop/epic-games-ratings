@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 430,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 398,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-05-04T13:30:00+00:00",
     "PcReleaseDate": "2023-03-16T00:00:00+00:00",
@@ -359,17 +359,17 @@
       "ID": "COMPLETED_BLAZE_2",
       "SetID": "d91enl3",
       "Name": "Do a barrel roll!",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "COMPLETED_BLAZE_3",
       "SetID": "d91enl3",
       "Name": "Huh? What was that?",
-      "Percentage": 51,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "COMPLETED_BLAZE_4",
@@ -501,8 +501,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:50:54.8735108+00:00",
-  "LastChanged_Achievements": "2023-10-15T13:09:22.8892199+00:00",
+  "LastChanged_Achievements": "2023-10-15T14:06:17.3752643+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:07.7897935+00:00",
-  "LastUpdate_Ratings": "2023-10-15T13:00:01.8971637+00:00",
-  "LastUpdate_Achievements": "2023-10-15T13:09:22.8892399+00:00"
+  "LastUpdate_Ratings": "2023-10-15T13:57:27.2242881+00:00",
+  "LastUpdate_Achievements": "2023-10-15T14:06:17.3752839+00:00"
 }

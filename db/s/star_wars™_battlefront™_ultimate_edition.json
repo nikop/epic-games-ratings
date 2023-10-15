@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 662,
+  "EOS_Progressed": 664,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1766,6 +1766,11 @@
       "Time": "2023-10-15T13:08:35.590945+00:00",
       "NumProgressed": 662,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-15T14:05:35.6684695+00:00",
+      "NumProgressed": 664,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -1808,9 +1813,9 @@
       "ID": "achievement_13",
       "SetID": "271ol84",
       "Name": "What\u0027s the cargo?",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 60
     },
     {
       "ID": "achievement_14",
@@ -1834,7 +1839,7 @@
       "Name": "I\u0027ve been waiting for you",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "achievement_17",
@@ -1858,7 +1863,7 @@
       "Name": "When 900 years old you reach...",
       "Percentage": 4,
       "XP": 55,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "achievement_2",
@@ -1882,7 +1887,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "achievement_22",
@@ -1930,7 +1935,7 @@
       "Name": "Your journey has only started",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "achievement_28",
@@ -1946,7 +1951,7 @@
       "Name": "On the ball",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "achievement_3",
@@ -1968,9 +1973,9 @@
       "ID": "achievement_31",
       "SetID": "271ol84",
       "Name": "Scrap collector",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 139
+      "UsersEstimate": 133
     },
     {
       "ID": "achievement_32",
@@ -1978,7 +1983,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "achievement_33",
@@ -1986,7 +1991,7 @@
       "Name": "Safety ain\u0027t the point of a joyride",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "achievement_34",
@@ -2000,9 +2005,9 @@
       "ID": "achievement_35",
       "SetID": "271ol84",
       "Name": "New Recruit",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 596
+      "UsersEstimate": 604
     },
     {
       "ID": "achievement_36",
@@ -2018,7 +2023,7 @@
       "Name": "Off to a good start",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 450
+      "UsersEstimate": 452
     },
     {
       "ID": "achievement_38",
@@ -2026,7 +2031,7 @@
       "Name": "Survivor",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "achievement_39",
@@ -2042,7 +2047,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "achievement_40",
@@ -2050,7 +2055,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "achievement_41",
@@ -2082,7 +2087,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "achievement_45",
@@ -2130,7 +2135,7 @@
       "Name": "Shoot first",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "achievement_50",
@@ -2170,7 +2175,7 @@
       "Name": "That\u0027s no moon",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "achievement_55",
@@ -2281,13 +2286,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 662,
+      "Progressed": 664,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 662,
+      "Progressed": 664,
       "Completed": 1
     }
   ],
@@ -2295,8 +2300,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-15T13:08:35.5909439+00:00",
+  "LastChanged_Achievements": "2023-10-15T14:05:35.6684691+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:22.846224+00:00",
-  "LastUpdate_Ratings": "2023-10-15T13:06:06.3875037+00:00",
-  "LastUpdate_Achievements": "2023-10-15T13:08:35.5910422+00:00"
+  "LastUpdate_Ratings": "2023-10-15T14:03:18.1786176+00:00",
+  "LastUpdate_Achievements": "2023-10-15T14:05:35.6685415+00:00"
 }

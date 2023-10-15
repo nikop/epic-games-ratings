@@ -2,13 +2,13 @@
   "ID": "d0545b136bb042fb9014e72b6af748f6",
   "Name": "Ghostbusters: The Video Game Remastered",
   "ProductSlug": "ghostbusters-the-video-game-remastered",
-  "Ranking_Rating": 656,
+  "Ranking_Rating": 657,
   "Ranking_Popularity": 335,
   "Ranking_PopularitySum": 424,
   "Ranking_EOS_Progress": 670,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 398,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2019-10-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -504,6 +504,6 @@
   "FirstSeen": "2022-07-22T20:21:54.5305968+00:00",
   "LastChanged": "2023-10-11T20:03:09.0334947+00:00",
   "LastUpdate_AppInfo": "2023-10-14T13:56:53.9767654+00:00",
-  "LastUpdate_Ratings": "2023-10-15T13:00:10.7768792+00:00",
-  "LastUpdate_Achievements": "2023-10-15T13:06:55.5455053+00:00"
+  "LastUpdate_Ratings": "2023-10-15T13:57:33.8704497+00:00",
+  "LastUpdate_Achievements": "2023-10-15T14:04:08.9519483+00:00"
 }
