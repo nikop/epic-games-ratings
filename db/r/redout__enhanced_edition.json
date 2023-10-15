@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
@@ -334,9 +334,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 233676,
+  "EOS_Progressed": 233677,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 412,
+  "EOS_NewPlayers": 410,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -19059,6 +19059,11 @@
       "Time": "2023-10-15T05:08:02.1482016+00:00",
       "NumProgressed": 233676,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-10-15T07:08:22.7777648+00:00",
+      "NumProgressed": 233677,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 34,
@@ -19086,7 +19091,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 65429
+      "UsersEstimate": 65430
     },
     {
       "ID": "CENTAUR",
@@ -19334,22 +19339,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 95807
+      "UsersEstimate": 95808
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 233676,
+      "Progressed": 233677,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-10-15T06:07:41.1972275+00:00",
+  "LastChanged_Achievements": "2023-10-15T07:08:22.7777643+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:10.7010053+00:00",
-  "LastUpdate_Ratings": "2023-10-15T05:57:21.2868565+00:00",
-  "LastUpdate_Achievements": "2023-10-15T06:07:41.1973318+00:00"
+  "LastUpdate_Ratings": "2023-10-15T06:57:26.89831+00:00",
+  "LastUpdate_Achievements": "2023-10-15T07:08:22.7778936+00:00"
 }

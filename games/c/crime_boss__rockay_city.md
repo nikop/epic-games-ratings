@@ -20,9 +20,9 @@ Rating: 3.94 (Ranked 978)
 | Hidden Sonata | 0.60% | ~535 |
 | Case Closed | 0.60% | ~535 |
 | Track Star | 0.50% | ~445 |
+| Headhunter | 0.50% | ~445 |
 | True Player | 0.50% | ~445 |
 | I Like Trains | 0.40% | ~356 |
-| Headhunter | 0.40% | ~356 |
 | Legend Looter | 0.30% | ~267 |
 | Imports and Exports | 0.30% | ~267 |
 | Savvy Seeker | 0.30% | ~267 |

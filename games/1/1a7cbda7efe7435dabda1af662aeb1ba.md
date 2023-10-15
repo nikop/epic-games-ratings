@@ -15,14 +15,14 @@
 | Bye-Bye, Butcher | 4.00% | ~1 |
 | Equivalent Exchange | 4.00% | ~1 |
 | Setting Off | 4.00% | ~1 |
+| A Twist of Fate | 4.00% | ~1 |
+| Strength | 4.00% | ~1 |
 | Rabbit Hunter | 4.00% | ~1 |
 | Breach of Contract | 4.00% | ~1 |
 | My Turn | 0.00% | ~0 |
 | Armor Annihilator | 0.00% | ~0 |
 | Rejected Parasite | 0.00% | ~0 |
 | Rebellious Servant | 0.00% | ~0 |
-| A Twist of Fate | 0.00% | ~0 |
-| Strength | 0.00% | ~0 |
 | Hermit | 0.00% | ~0 |
 | Tower | 0.00% | ~0 |
 | No Mercy | 0.00% | ~0 |

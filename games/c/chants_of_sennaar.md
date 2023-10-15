@@ -18,10 +18,10 @@
 | Scholar | 7.00% | ~20 |
 | One last step | 7.00% | ~20 |
 | A good beginning | 6.00% | ~18 |
+| Feels like springtime | 6.00% | ~18 |
 | Champollion | 6.00% | ~18 |
 | The darkness | 6.00% | ~18 |
 | Open door | 5.00% | ~15 |
-| Feels like springtime | 5.00% | ~15 |
 | Alchemists Express | 5.00% | ~15 |
 | Rascal | 5.00% | ~15 |
 | Free at last | 4.00% | ~12 |

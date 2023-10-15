@@ -68,11 +68,11 @@
 | Cat's in the Cradle | 29.00% | ~201 |
 | Doppelganger | 29.00% | ~201 |
 | Digital Exorcist | 29.00% | ~201 |
+| Suicide Mission | 28.00% | ~194 |
 | Friend or Foe | 28.00% | ~194 |
 | Mobilizer | 28.00% | ~194 |
 | First Aid Specialist | 27.00% | ~187 |
 | Mission Accomplished | 27.00% | ~187 |
-| Suicide Mission | 27.00% | ~187 |
 | Against All Odds | 27.00% | ~187 |
 | Untouchable | 26.00% | ~180 |
 | Eye of the Hurricane | 26.00% | ~180 |

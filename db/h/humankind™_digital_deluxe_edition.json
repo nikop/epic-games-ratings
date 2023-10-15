@@ -4,10 +4,10 @@
   "ProductSlug": "humankind",
   "Ranking_Rating": 573,
   "Ranking_Popularity": 335,
-  "Ranking_PopularitySum": 256,
+  "Ranking_PopularitySum": 257,
   "Ranking_EOS_Progress": 670,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 391,
+  "Ranking_EOS_NewPlayers": 392,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-08-17T14:00:00+00:00",
@@ -1425,6 +1425,6 @@
   "FirstSeen": "2022-07-22T20:18:22.8287391+00:00",
   "LastChanged": "2023-10-14T13:03:43.7457579+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:30.8572809+00:00",
-  "LastUpdate_Ratings": "2023-10-15T06:03:07.7910389+00:00",
-  "LastUpdate_Achievements": "2023-10-15T06:08:11.3798091+00:00"
+  "LastUpdate_Ratings": "2023-10-15T07:03:39.4319841+00:00",
+  "LastUpdate_Achievements": "2023-10-15T07:08:44.2459327+00:00"
 }

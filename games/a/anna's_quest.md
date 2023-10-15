@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escape artist | 78.00% | ~43 |
-| Book Worm | 60.00% | ~33 |
-| Ooh, it's shiny! | 60.00% | ~33 |
-| My lost nightingale | 51.00% | ~28 |
-| Through the woods | 47.00% | ~26 |
-| Back to the anvil | 42.00% | ~23 |
-| Fussy eater | 40.00% | ~22 |
-| So soothing... | 40.00% | ~22 |
-| Kekekeke... | 40.00% | ~22 |
+| Escape artist | 77.00% | ~43 |
+| Book Worm | 59.00% | ~33 |
+| Ooh, it's shiny! | 59.00% | ~33 |
+| My lost nightingale | 50.00% | ~28 |
+| Through the woods | 46.00% | ~26 |
+| Back to the anvil | 41.00% | ~23 |
+| Fussy eater | 39.00% | ~22 |
+| So soothing... | 39.00% | ~22 |
+| Kekekeke... | 39.00% | ~22 |
 | Mystery solved | 38.00% | ~21 |
 | Honey, honey, honey… | 38.00% | ~21 |
 | Far away from home | 38.00% | ~21 |
@@ -21,13 +21,13 @@
 | Game Over! | 36.00% | ~20 |
 | A very special drink | 36.00% | ~20 |
 | NOW GO AWAY! | 36.00% | ~20 |
-| Show me your true self | 35.00% | ~19 |
-| No posters allowed | 35.00% | ~19 |
-| Little genius | 35.00% | ~19 |
-| Shattered | 33.00% | ~18 |
-| GG | 33.00% | ~18 |
-| You've got mail! | 33.00% | ~18 |
-| Mischief maker | 31.00% | ~17 |
+| Show me your true self | 34.00% | ~19 |
+| No posters allowed | 34.00% | ~19 |
+| Little genius | 34.00% | ~19 |
+| Shattered | 32.00% | ~18 |
+| GG | 32.00% | ~18 |
+| You've got mail! | 32.00% | ~18 |
+| Mischief maker | 30.00% | ~17 |
 | Close the deal | 29.00% | ~16 |
 | Memories | 29.00% | ~16 |
 | Beekeeper | 29.00% | ~16 |
@@ -35,17 +35,17 @@
 | Pain in the hands | 29.00% | ~16 |
 | Turn the last page | 25.00% | ~14 |
 | Singstar | 25.00% | ~14 |
-| Makeover | 24.00% | ~13 |
-| Bahahahaha... | 24.00% | ~13 |
-| Kill it! KILL IT! | 24.00% | ~13 |
+| Makeover | 23.00% | ~13 |
+| Bahahahaha... | 23.00% | ~13 |
+| Kill it! KILL IT! | 23.00% | ~13 |
 | Guilty conscience | 20.00% | ~11 |
 | Cameodalic | 18.00% | ~10 |
 | Clever reference #451 | 16.00% | ~9 |
-| What a mess | 15.00% | ~8 |
+| What a mess | 14.00% | ~8 |
 | Posterboy! | 13.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55 (Ranked 429)  
-Completed: 6 (10.91%) (Ranked 33)  
+Progressed: 56 (Ranked 427)  
+Completed: 6 (10.71%) (Ranked 34)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -75,6 +75,7 @@ Completed: 6 (10.91%) (Ranked 33)
 | 2023-10-07 | 52 | 6 |
 | 2023-10-12 | 54 | 6 |
 | 2023-10-14 | 55 | 6 |
+| 2023-10-15 | 56 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

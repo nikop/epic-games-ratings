@@ -77,7 +77,7 @@ Rating: 4.06 (Ranked 949)
 | Angel Power | 0.90% | ~18 |
 | Beast War Machines | 0.90% | ~18 |
 | Silverwood liberator | 0.60% | ~12 |
-| Ultimate War Machines | 0.50% | ~10 |
+| Ultimate War Machines | 0.60% | ~12 |
 | War Machines Army | 0.20% | ~4 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)

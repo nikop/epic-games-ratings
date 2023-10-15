@@ -15,11 +15,11 @@
 | Mechanical Buddy | 24.00% | ~13 |
 | Purification Pioneer | 24.00% | ~13 |
 | Wild's Keeper | 24.00% | ~13 |
+| Behenian Champion | 24.00% | ~13 |
 | Loyal Partner | 22.00% | ~12 |
 | Mind Illuminator | 22.00% | ~12 |
-| Behenian Champion | 22.00% | ~12 |
+| Anomaly Destroyer | 20.00% | ~11 |
 | Stellar Dismantler | 20.00% | ~11 |
-| Anomaly Destroyer | 18.00% | ~10 |
 | Shard Spender | 18.00% | ~10 |
 | Aquarian Champion | 18.00% | ~10 |
 | Star Killer | 16.00% | ~9 |
@@ -30,12 +30,12 @@
 | The Corruption Goddess | 11.00% | ~6 |
 | The Goddes Avatar | 11.00% | ~6 |
 | Anomaly Control | 9.00% | ~5 |
+| Can't touch this | 9.00% | ~5 |
 | Favored by the Cosmos | 9.00% | ~5 |
 | Sadistic Plan | 9.00% | ~5 |
 | Stellar Haste | 9.00% | ~5 |
 | Wave Bender | 9.00% | ~5 |
 | Apian Hero | 9.00% | ~5 |
-| Can't touch this | 7.00% | ~4 |
 | Denying Destiny | 7.00% | ~4 |
 | Heavy Purger | 7.00% | ~4 |
 | Behenian Hero | 7.00% | ~4 |
@@ -103,7 +103,7 @@
 | Apian Mastery | 0.00% | ~0 |
 | Eridanian Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55 (Ranked 429)  
+Progressed: 55 (Ranked 430)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |

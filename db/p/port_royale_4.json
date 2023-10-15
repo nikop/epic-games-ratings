@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 959,
+  "EOS_Progressed": 960,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2355,6 +2355,11 @@
       "Time": "2023-10-14T16:08:24.226623+00:00",
       "NumProgressed": 959,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-15T07:08:34.6616801+00:00",
+      "NumProgressed": 960,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -2366,7 +2371,7 @@
       "Name": "Cabin boy",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "ACH001",
@@ -2462,15 +2467,15 @@
       "Name": "3, 2, 1, mine",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "ACH013",
       "SetID": "69nfp41",
       "Name": "In a mint condition",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 355
+      "UsersEstimate": 365
     },
     {
       "ID": "ACH014",
@@ -2486,7 +2491,7 @@
       "Name": "Groundskeeper",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "ACH016",
@@ -2596,9 +2601,9 @@
       "ID": "ACH029",
       "SetID": "69nfp41",
       "Name": "Licence to Kill",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 345
+      "UsersEstimate": 355
     },
     {
       "ID": "ACH030",
@@ -2606,7 +2611,7 @@
       "Name": "Walk the plank",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "ACH031",
@@ -2638,7 +2643,7 @@
       "Name": "Panic buying",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ACH035",
@@ -2654,7 +2659,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "ACH037",
@@ -2718,7 +2723,7 @@
       "Name": "Greed for gold",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "ACH045",
@@ -2765,15 +2770,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 959,
+      "Progressed": 960,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-07-02T02:29:11.8786643+00:00",
-  "LastChanged_Achievements": "2023-10-15T06:07:52.1740823+00:00",
+  "LastChanged_Achievements": "2023-10-15T07:08:34.6616794+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:54.3716671+00:00",
-  "LastUpdate_Ratings": "2023-10-15T06:03:10.9845964+00:00",
-  "LastUpdate_Achievements": "2023-10-15T06:07:52.1741322+00:00"
+  "LastUpdate_Ratings": "2023-10-15T07:03:43.0980368+00:00",
+  "LastUpdate_Achievements": "2023-10-15T07:08:34.6617798+00:00"
 }

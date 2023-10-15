@@ -490,9 +490,9 @@
       "Count": 134
     }
   ],
-  "EOS_Progressed": 606923,
+  "EOS_Progressed": 606926,
   "EOS_Completed": 532,
-  "EOS_NewPlayers": 744,
+  "EOS_NewPlayers": 745,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -20290,6 +20290,11 @@
       "Time": "2023-10-15T06:04:20.0717155+00:00",
       "NumProgressed": 606923,
       "NumCompleted": 532
+    },
+    {
+      "Time": "2023-10-15T07:04:48.1793377+00:00",
+      "NumProgressed": 606926,
+      "NumCompleted": 532
     }
   ],
   "TotalAchievements": 28,
@@ -20325,7 +20330,7 @@
       "Name": "To see it all, to learn it all",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 12138
+      "UsersEstimate": 12139
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -20333,7 +20338,7 @@
       "Name": "Evolution complete",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 12138
+      "UsersEstimate": 12139
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -20365,7 +20370,7 @@
       "Name": "We need more gold",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 370223
+      "UsersEstimate": 370225
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -20373,7 +20378,7 @@
       "Name": "Best deal on the market",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 12138
+      "UsersEstimate": 12139
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -20381,7 +20386,7 @@
       "Name": "One more!",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 267046
+      "UsersEstimate": 267047
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -20413,7 +20418,7 @@
       "Name": "Beauty and harmony",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 291323
+      "UsersEstimate": 291324
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -20421,7 +20426,7 @@
       "Name": "More FPS for the FPS god!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 303462
+      "UsersEstimate": 303463
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -20429,7 +20434,7 @@
       "Name": "First.. Bit?",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 564438
+      "UsersEstimate": 564441
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -20461,7 +20466,7 @@
       "Name": "Error: Stack Overflow",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 400569
+      "UsersEstimate": 400571
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -20469,7 +20474,7 @@
       "Name": "RNG is my best friend now",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 109246
+      "UsersEstimate": 109247
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -20477,7 +20482,7 @@
       "Name": "The dawn of civilization",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 321669
+      "UsersEstimate": 321671
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -20501,7 +20506,7 @@
       "Name": "Is this Skynet?",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 12138
+      "UsersEstimate": 12139
     },
     {
       "ID": "ACHIEVEMENT_8",
@@ -20509,7 +20514,7 @@
       "Name": "Cybergeek 2047",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 12138
+      "UsersEstimate": 12139
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -20524,15 +20529,15 @@
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 606923,
+      "Progressed": 606926,
       "Completed": 532
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
   "LastChanged": "2023-07-16T08:00:08.7749167+00:00",
-  "LastChanged_Achievements": "2023-10-15T06:04:20.0717151+00:00",
+  "LastChanged_Achievements": "2023-10-15T07:04:48.1793371+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:09.2930104+00:00",
-  "LastUpdate_Ratings": "2023-10-15T05:57:08.491039+00:00",
-  "LastUpdate_Achievements": "2023-10-15T06:04:20.0718311+00:00"
+  "LastUpdate_Ratings": "2023-10-15T06:57:06.8887676+00:00",
+  "LastUpdate_Achievements": "2023-10-15T07:04:48.1796053+00:00"
 }

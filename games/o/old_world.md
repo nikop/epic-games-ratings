@@ -50,13 +50,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Paganism | 1.00% | ~147 |
 | Drillmaster | 0.90% | ~132 |
 | Brilliant | 0.90% | ~132 |
+| Great | 0.90% | ~132 |
 | Able Difficulty | 0.90% | ~132 |
 | Great Ziggurat | 0.90% | ~132 |
 | Musaeum | 0.90% | ~132 |
 | Manichaeism | 0.90% | ~132 |
 | Egyptian Paganism | 0.90% | ~132 |
 | Regicide | 0.80% | ~118 |
-| Great | 0.80% | ~118 |
 | Valiant | 0.80% | ~118 |
 | Legendary Cities | 0.80% | ~118 |
 | Apadana | 0.80% | ~118 |

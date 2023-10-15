@@ -687,9 +687,9 @@
       "ID": "GSS_ACH_18_ALIENS",
       "SetID": "5fn8ia4",
       "Name": "ALIENS!",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "GSS_ACH_19_RUDY",
@@ -1055,9 +1055,9 @@
       "ID": "GSS_ACH_65_POPULARITY_05",
       "SetID": "5fn8ia4",
       "Name": "Talk of the Town",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "GSS_ACH_66_POPULARITY_06",
@@ -1206,8 +1206,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-15T06:09:47.4662613+00:00",
+  "LastChanged_Achievements": "2023-10-15T07:10:25.4016943+00:00",
   "LastUpdate_AppInfo": "2023-10-09T13:09:09.0618232+00:00",
-  "LastUpdate_Ratings": "2023-10-15T06:01:41.1069615+00:00",
-  "LastUpdate_Achievements": "2023-10-15T06:09:47.4663499+00:00"
+  "LastUpdate_Ratings": "2023-10-15T07:02:15.8845036+00:00",
+  "LastUpdate_Achievements": "2023-10-15T07:10:25.4017984+00:00"
 }

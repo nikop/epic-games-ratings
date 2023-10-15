@@ -8,19 +8,19 @@
 | Master trainee | 79.00% | ~23 |
 | Jung's dream | 69.00% | ~20 |
 | The battle of Great Britain | 62.00% | ~18 |
-| Giant | 48.00% | ~14 |
+| Giant | 52.00% | ~15 |
 | Pulp! Where Monsters Dwell | 48.00% | ~14 |
-| A continent with chemistry | 45.00% | ~13 |
+| A continent with chemistry | 48.00% | ~14 |
+| The happy farmer girl | 45.00% | ~13 |
 | A rival with no options | 41.00% | ~12 |
 | Pulp! Terror Tales in the Night | 41.00% | ~12 |
-| The happy farmer girl | 41.00% | ~12 |
+| Pulp! Out of this World | 38.00% | ~11 |
 | Kirlian's best disciple | 38.00% | ~11 |
-| Pulp! Out of this World | 34.00% | ~10 |
 | Diagnosis: fear | 34.00% | ~10 |
 | Ambition is... blind | 34.00% | ~10 |
 | You have two wishes left | 34.00% | ~10 |
+| The artist | 31.00% | ~9 |
 | Pulp! Adventures into the Unknown | 31.00% | ~9 |
-| The artist | 28.00% | ~8 |
 | The seer | 28.00% | ~8 |
 | Et in arcadia ego | 24.00% | ~7 |
 | Welcome to Hellville | 24.00% | ~7 |

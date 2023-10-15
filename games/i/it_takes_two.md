@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Struck A Pose | 88.00% | ~11,983 |
-| Fried Friendship | 87.00% | ~11,847 |
-| Look At Him Go | 78.00% | ~10,621 |
-| On Rails Experience | 56.00% | ~7,626 |
-| A Daring Devil | 52.00% | ~7,081 |
-| Break the Bank | 43.00% | ~5,855 |
-| It Took Two | 40.00% | ~5,447 |
-| Bug Sized Relaxation | 20.00% | ~2,723 |
-| Plastic Prison Breakers | 17.00% | ~2,315 |
-| Terror Of The Seven Seas | 15.00% | ~2,043 |
-| Realize Your Art | 12.00% | ~1,634 |
-| Force Triangulated | 12.00% | ~1,634 |
-| Meditation Maestro | 11.00% | ~1,498 |
-| Lost And Found | 10.00% | ~1,362 |
-| Something Fishy | 10.00% | ~1,362 |
-| Platforming Prodigy | 9.00% | ~1,226 |
-| Snackosaurus | 8.00% | ~1,089 |
-| Mood Swing | 7.00% | ~953 |
+| Struck A Pose | 88.00% | ~11,996 |
+| Fried Friendship | 87.00% | ~11,860 |
+| Look At Him Go | 78.00% | ~10,633 |
+| On Rails Experience | 56.00% | ~7,634 |
+| A Daring Devil | 52.00% | ~7,089 |
+| Break the Bank | 43.00% | ~5,862 |
+| It Took Two | 40.00% | ~5,453 |
+| Bug Sized Relaxation | 20.00% | ~2,726 |
+| Plastic Prison Breakers | 17.00% | ~2,317 |
+| Terror Of The Seven Seas | 15.00% | ~2,045 |
+| Realize Your Art | 12.00% | ~1,636 |
+| Force Triangulated | 12.00% | ~1,636 |
+| Meditation Maestro | 11.00% | ~1,500 |
+| Lost And Found | 10.00% | ~1,363 |
+| Something Fishy | 10.00% | ~1,363 |
+| Platforming Prodigy | 9.00% | ~1,227 |
+| Snackosaurus | 8.00% | ~1,091 |
+| Mood Swing | 7.00% | ~954 |
+| Minigame Megalomania | 4.00% | ~545 |
 | Faraway Frequencies | 4.00% | ~545 |
-| Minigame Megalomania | 3.00% | ~409 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,617 (Ranked 138)  
+Progressed: 13,632 (Ranked 138)  
 Completed: 58 (0.43%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -55,4 +55,4 @@ Completed: 58 (0.43%) (Ranked 186)
 | 2023-10-12 | 12,797 | 54 |
 | 2023-10-13 | 13,090 | 55 |
 | 2023-10-14 | 13,531 | 58 |
-| 2023-10-15 | 13,617 | 58 |
+| 2023-10-15 | 13,632 | 58 |

@@ -6,9 +6,9 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 2.00% | ~18,807 |
-| It wakes | 2.00% | ~18,807 |
-| Skillful | 2.00% | ~18,807 |
+| Zealous | 2.00% | ~18,808 |
+| It wakes | 2.00% | ~18,808 |
+| Skillful | 2.00% | ~18,808 |
 | The Grand Sacrifice | 1.00% | ~9,404 |
 | No one left behind | 1.00% | ~9,404 |
 | Medic | 1.00% | ~9,404 |
@@ -24,11 +24,11 @@ Number of Ratings: 70,340  (23.09.2022)
 | Preemptive Strike | 1.00% | ~9,404 |
 | Humanitarian | 1.00% | ~9,404 |
 | Make Some Noise | 1.00% | ~9,404 |
-| Agonizing Escape | 0.90% | ~8,463 |
-| Backdoor Escape | 0.90% | ~8,463 |
-| Nerves of steel | 0.90% | ~8,463 |
-| Perfect Escape | 0.90% | ~8,463 |
-| Engineer | 0.90% | ~8,463 |
+| Agonizing Escape | 0.90% | ~8,464 |
+| Backdoor Escape | 0.90% | ~8,464 |
+| Nerves of steel | 0.90% | ~8,464 |
+| Perfect Escape | 0.90% | ~8,464 |
+| Engineer | 0.90% | ~8,464 |
 | I've got your back | 0.80% | ~7,523 |
 | Perfect Killing | 0.80% | ~7,523 |
 | Risk it all | 0.80% | ~7,523 |
@@ -38,10 +38,10 @@ Number of Ratings: 70,340  (23.09.2022)
 | Vulture | 0.70% | ~6,583 |
 | II | 0.70% | ~6,583 |
 | Second Act | 0.70% | ~6,583 |
-| III | 0.60% | ~5,642 |
-| First to the Punch | 0.60% | ~5,642 |
-| With Scars to Show | 0.60% | ~5,642 |
-| Rebuilding The Borgo | 0.60% | ~5,642 |
+| III | 0.60% | ~5,643 |
+| First to the Punch | 0.60% | ~5,643 |
+| With Scars to Show | 0.60% | ~5,643 |
+| Rebuilding The Borgo | 0.60% | ~5,643 |
 | Blood on your hands | 0.50% | ~4,702 |
 | Escape Artist | 0.50% | ~4,702 |
 | Made it out alive! | 0.50% | ~4,702 |
@@ -59,22 +59,22 @@ Number of Ratings: 70,340  (23.09.2022)
 | A Fast Death | 0.50% | ~4,702 |
 | Chorus of Chaos | 0.50% | ~4,702 |
 | One More Step | 0.50% | ~4,702 |
-| A bite for the Entity | 0.40% | ~3,761 |
-| Gifts for the Fog | 0.40% | ~3,761 |
-| Shock Therapy | 0.40% | ~3,761 |
-| All Aboard | 0.40% | ~3,761 |
-| Leapfrog | 0.40% | ~3,761 |
-| House of Pain | 0.40% | ~3,761 |
-| Cottage Owner | 0.40% | ~3,761 |
-| Escaping the Nightmare | 0.40% | ~3,761 |
-| Campbell's Chapel Legacy | 0.40% | ~3,761 |
-| Ancestor's Rite | 0.40% | ~3,761 |
-| Cutting Out | 0.40% | ~3,761 |
-| Outrun Evil | 0.40% | ~3,761 |
-| Grim Pilgrimage | 0.40% | ~3,761 |
-| Classy Act | 0.40% | ~3,761 |
-| Lifting The Fog | 0.40% | ~3,761 |
-| MU/TH/UR Dearest | 0.40% | ~3,761 |
+| A bite for the Entity | 0.40% | ~3,762 |
+| Gifts for the Fog | 0.40% | ~3,762 |
+| Shock Therapy | 0.40% | ~3,762 |
+| All Aboard | 0.40% | ~3,762 |
+| Leapfrog | 0.40% | ~3,762 |
+| House of Pain | 0.40% | ~3,762 |
+| Cottage Owner | 0.40% | ~3,762 |
+| Escaping the Nightmare | 0.40% | ~3,762 |
+| Campbell's Chapel Legacy | 0.40% | ~3,762 |
+| Ancestor's Rite | 0.40% | ~3,762 |
+| Cutting Out | 0.40% | ~3,762 |
+| Outrun Evil | 0.40% | ~3,762 |
+| Grim Pilgrimage | 0.40% | ~3,762 |
+| Classy Act | 0.40% | ~3,762 |
+| Lifting The Fog | 0.40% | ~3,762 |
+| MU/TH/UR Dearest | 0.40% | ~3,762 |
 | Blood on your face | 0.30% | ~2,821 |
 | Jump Scares | 0.30% | ~2,821 |
 | Hemophobia | 0.30% | ~2,821 |
@@ -89,6 +89,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | End of Days | 0.30% | ~2,821 |
 | Insult and Injury | 0.30% | ~2,821 |
 | Outrun the Overlap | 0.30% | ~2,821 |
+| Complete the Evolution | 0.30% | ~2,821 |
 | Extraterrestrial | 0.30% | ~2,821 |
 | Kitted Out | 0.30% | ~2,821 |
 | Blood in your mouth | 0.20% | ~1,881 |
@@ -104,7 +105,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Triage | 0.20% | ~1,881 |
 | High Speed Pursuit | 0.20% | ~1,881 |
 | Hack the Mainframe | 0.20% | ~1,881 |
-| Complete the Evolution | 0.20% | ~1,881 |
 | A feast for the Entity | 0.10% | ~940 |
 | Cripple them all | 0.10% | ~940 |
 | The Grind | 0.10% | ~940 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~940 |
 | Adept Ripley | 0.10% | ~940 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 940,365 (Ranked 14)  
+Progressed: 940,424 (Ranked 14)  
 Completed: 50 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -414,7 +414,7 @@ Completed: 50 (0.01%) (Ranked 296)
 | 2023-10-12 | 934,954 | 50 |
 | 2023-10-13 | 937,037 | 50 |
 | 2023-10-14 | 939,759 | 50 |
-| 2023-10-15 | 940,365 | 50 |
+| 2023-10-15 | 940,424 | 50 |
 ## Awards
 Max (Diverse Characters): 33,934  (Ranked 15)  
 Sum: 262,398 (Ranked 13)  

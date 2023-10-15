@@ -4,7 +4,7 @@
   "ProductSlug": "the-crackpet-show-0bf5c4",
   "Ranking_EOS_Progress": 505,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 293,
+  "Ranking_EOS_NewPlayers": 294,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-09-27T15:00:00+00:00",
@@ -303,9 +303,9 @@
       "ID": "GET_KILLED_BY_SPIKE",
       "SetID": "dcng643",
       "Name": "Trapper!",
-      "Percentage": 13,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "GET_N_LIKES_0",
@@ -774,8 +774,8 @@
   ],
   "FirstSeen": "2023-09-28T16:00:28.1613796+00:00",
   "FirstSeenAchievements": "2023-09-19T08:09:12.2865196+00:00",
-  "LastChanged_Achievements": "2023-10-15T06:07:14.2465242+00:00",
+  "LastChanged_Achievements": "2023-10-15T07:07:53.9852308+00:00",
   "LastUpdate_AppInfo": "2023-10-12T19:57:11.6358663+00:00",
-  "LastUpdate_Ratings": "2023-10-15T06:00:41.5906737+00:00",
-  "LastUpdate_Achievements": "2023-10-15T06:07:14.2465995+00:00"
+  "LastUpdate_Ratings": "2023-10-15T07:01:10.8231341+00:00",
+  "LastUpdate_Achievements": "2023-10-15T07:07:53.9853923+00:00"
 }

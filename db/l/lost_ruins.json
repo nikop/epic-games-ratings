@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 391,
+  "Ranking_EOS_NewPlayers": 342,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 440,
+  "EOS_Progressed": 441,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -796,6 +796,11 @@
       "Time": "2023-10-08T10:07:40.887401+00:00",
       "NumProgressed": 440,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-15T07:10:43.7265391+00:00",
+      "NumProgressed": 441,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -871,7 +876,7 @@
       "Name": "Ghost Buster",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "Gladiator",
@@ -887,7 +892,7 @@
       "Name": "Goblin Tales",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "Hardboiled",
@@ -909,9 +914,9 @@
       "ID": "Horder",
       "SetID": "82505mn",
       "Name": "Hoarder",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 9
     },
     {
       "ID": "Iconoclasm",
@@ -919,7 +924,7 @@
       "Name": "Iconoclasm",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "Inquisitor",
@@ -949,9 +954,9 @@
       "ID": "Marksman",
       "SetID": "82505mn",
       "Name": "Marksman",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 9
     },
     {
       "ID": "MeatLover",
@@ -1007,7 +1012,7 @@
       "Name": "Reincarnation",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "Roughneck",
@@ -1103,7 +1108,7 @@
       "Name": "Troubleshooter",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "WeaponMaster",
@@ -1126,7 +1131,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 440,
+      "Progressed": 441,
       "Completed": 0
     }
   ],
@@ -1134,8 +1139,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-10-15T06:10:14.7167591+00:00",
+  "LastChanged_Achievements": "2023-10-15T07:10:43.7265386+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:36.2898004+00:00",
-  "LastUpdate_Ratings": "2023-10-15T05:58:30.9192546+00:00",
-  "LastUpdate_Achievements": "2023-10-15T06:10:14.7167881+00:00"
+  "LastUpdate_Ratings": "2023-10-15T06:58:46.9673192+00:00",
+  "LastUpdate_Achievements": "2023-10-15T07:10:43.7266012+00:00"
 }

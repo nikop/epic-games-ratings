@@ -6,21 +6,21 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,249 |
-| Until death do us apart | 4.00% | ~17,249 |
-| That is mine! | 3.00% | ~12,937 |
-| Victorious! | 3.00% | ~12,937 |
+| That's a Grand Army | 4.00% | ~17,251 |
+| Until death do us apart | 4.00% | ~17,251 |
+| That is mine! | 3.00% | ~12,938 |
+| Victorious! | 3.00% | ~12,938 |
 | Brothers in Arms | 2.00% | ~8,625 |
 | Cold War | 2.00% | ~8,625 |
 | For the Glory | 2.00% | ~8,625 |
 | That's a Grand Navy | 2.00% | ~8,625 |
 | Seriously?! | 2.00% | ~8,625 |
-| Defender of the Faith | 1.00% | ~4,312 |
-| It's all about the money | 1.00% | ~4,312 |
-| Respected | 1.00% | ~4,312 |
-| The Princess is in this Castle | 1.00% | ~4,312 |
-| True Catholic | 1.00% | ~4,312 |
-| Truly Divine Ruler | 1.00% | ~4,312 |
+| Defender of the Faith | 1.00% | ~4,313 |
+| It's all about the money | 1.00% | ~4,313 |
+| Respected | 1.00% | ~4,313 |
+| The Princess is in this Castle | 1.00% | ~4,313 |
+| True Catholic | 1.00% | ~4,313 |
+| Truly Divine Ruler | 1.00% | ~4,313 |
 | It's all about luck | 0.90% | ~3,881 |
 | Blockader | 0.80% | ~3,450 |
 | Double the Love | 0.80% | ~3,450 |
@@ -45,23 +45,23 @@ Number of Ratings: 8,414  (23.09.2022)
 | Market Control | 0.30% | ~1,294 |
 | Populists in Government | 0.30% | ~1,294 |
 | Trustworthy | 0.30% | ~1,294 |
-| Absolutely | 0.20% | ~862 |
-| All belongs to Mother Russia | 0.20% | ~862 |
-| At every continent | 0.20% | ~862 |
-| Early-Modern Warfare | 0.20% | ~862 |
-| Electable! | 0.20% | ~862 |
-| Grand Coalition | 0.20% | ~862 |
-| In the Name of the Father | 0.20% | ~862 |
-| Italian Ambition | 0.20% | ~862 |
-| Just a Little Patience | 0.20% | ~862 |
-| One Family to Rule them All | 0.20% | ~862 |
-| Ruina Imperii | 0.20% | ~862 |
-| The pen is mightier than the sword | 0.20% | ~862 |
-| This is My Faith | 0.20% | ~862 |
-| Time Bandit | 0.20% | ~862 |
-| Traditional Player | 0.20% | ~862 |
-| Trophy Hunter | 0.20% | ~862 |
-| Voting Streak | 0.20% | ~862 |
+| Absolutely | 0.20% | ~863 |
+| All belongs to Mother Russia | 0.20% | ~863 |
+| At every continent | 0.20% | ~863 |
+| Early-Modern Warfare | 0.20% | ~863 |
+| Electable! | 0.20% | ~863 |
+| Grand Coalition | 0.20% | ~863 |
+| In the Name of the Father | 0.20% | ~863 |
+| Italian Ambition | 0.20% | ~863 |
+| Just a Little Patience | 0.20% | ~863 |
+| One Family to Rule them All | 0.20% | ~863 |
+| Ruina Imperii | 0.20% | ~863 |
+| The pen is mightier than the sword | 0.20% | ~863 |
+| This is My Faith | 0.20% | ~863 |
+| Time Bandit | 0.20% | ~863 |
+| Traditional Player | 0.20% | ~863 |
+| Trophy Hunter | 0.20% | ~863 |
+| Voting Streak | 0.20% | ~863 |
 | The 52 Garhs | 0.10% | ~431 |
 | I don't like sand | 0.10% | ~431 |
 | A Blessed Nation | 0.10% | ~431 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 431,234 (Ranked 40)  
+Progressed: 431,273 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -539,20 +539,20 @@ Completed: 1 (0.00%) (Ranked 314)
 | 2023-10-12 | 429,009 | 1 |
 | 2023-10-13 | 429,869 | 1 |
 | 2023-10-14 | 431,056 | 1 |
-| 2023-10-15 | 431,234 | 1 |
+| 2023-10-15 | 431,273 | 1 |
 ## Awards
 Max (Educational): 6,534  (Ranked 55)  
-Sum: 53,639 (Ranked 25)  
+Sum: 53,680 (Ranked 25)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 6,534 |
-| This game is Highly Recommended | 6,208 |
+| This game is Highly Recommended | 6,228 |
 | This game has Diverse Characters | 6,200 |
 | This game has Challenging Combat | 6,175 |
 | This game is Extremely Fun | 6,155 |
 | This game is Relaxing | 6,023 |
-| This game has Competitive Players | 5,838 |
+| This game has Competitive Players | 5,859 |
 | This game has Amazing Storytelling | 5,454 |
 | This game has Amazing Characters | 5,052 |
 | This game has Obsessive Gameplay | 3,351 |
@@ -830,3 +830,4 @@ Diff (max vs sum): 30
 | 2023-10-12 | 4.69 | - | 6,494 | 53,343 |
 | 2023-10-13 | 4.69 | - | 6,514 | 53,477 |
 | 2023-10-14 | 4.69 | - | 6,534 | 53,639 |
+| 2023-10-15 | 4.69 | - | 6,534 | 53,680 |
