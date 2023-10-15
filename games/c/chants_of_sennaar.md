@@ -9,18 +9,18 @@
 | The great escape | 11.00% | ~32 |
 | The Preacher's fate | 10.00% | ~29 |
 | A new dawn | 9.00% | ~26 |
+| Scholar | 8.00% | ~23 |
 | I did it | 7.00% | ~20 |
 | In this together | 7.00% | ~20 |
 | Peace walker | 7.00% | ~20 |
 | Cable guy | 7.00% | ~20 |
 | Half the way | 7.00% | ~20 |
 | True G3M4R | 7.00% | ~20 |
-| Scholar | 7.00% | ~20 |
+| The darkness | 7.00% | ~20 |
 | One last step | 7.00% | ~20 |
 | A good beginning | 6.00% | ~18 |
 | Feels like springtime | 6.00% | ~18 |
 | Champollion | 6.00% | ~18 |
-| The darkness | 6.00% | ~18 |
 | Open door | 5.00% | ~15 |
 | Alchemists Express | 5.00% | ~15 |
 | Rascal | 5.00% | ~15 |

@@ -1584,9 +1584,9 @@
       "ID": "WelcomeToMordor",
       "SetID": "70l3651",
       "Name": "Welcome to Mordor!",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 287
     }
   ],
   "AchievementSets": [
@@ -1599,8 +1599,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-10-15T07:07:23.4286028+00:00",
+  "LastChanged_Achievements": "2023-10-15T08:05:50.0349362+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:54.5145948+00:00",
-  "LastUpdate_Ratings": "2023-10-15T06:59:32.6712334+00:00",
-  "LastUpdate_Achievements": "2023-10-15T07:07:23.4286631+00:00"
+  "LastUpdate_Ratings": "2023-10-15T07:58:49.4923599+00:00",
+  "LastUpdate_Achievements": "2023-10-15T08:05:50.0349658+00:00"
 }

@@ -376,9 +376,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2530,
+  "EOS_Progressed": 2531,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 300,
+  "EOS_NewPlayers": 301,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2561,6 +2561,11 @@
       "Time": "2023-10-15T06:06:08.3316574+00:00",
       "NumProgressed": 2530,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-15T08:05:16.4163259+00:00",
+      "NumProgressed": 2531,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -2677,7 +2682,7 @@
       "Name": "Clean The Pile",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "achievement_3",
@@ -2709,7 +2714,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "achievement_7",
@@ -2740,7 +2745,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 2530,
+      "Progressed": 2531,
       "Completed": 0
     }
   ],
@@ -2748,8 +2753,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-10-15T03:01:40.7168533+00:00",
-  "LastChanged_Achievements": "2023-10-15T07:06:43.8661685+00:00",
+  "LastChanged_Achievements": "2023-10-15T08:05:16.4163255+00:00",
   "LastUpdate_AppInfo": "2023-10-12T02:57:10.0786796+00:00",
-  "LastUpdate_Ratings": "2023-10-15T07:03:15.6773459+00:00",
-  "LastUpdate_Achievements": "2023-10-15T07:06:43.8662084+00:00"
+  "LastUpdate_Ratings": "2023-10-15T08:01:12.8452503+00:00",
+  "LastUpdate_Achievements": "2023-10-15T08:05:16.4163496+00:00"
 }

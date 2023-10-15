@@ -2,7 +2,7 @@
   "ID": "b4e95103463b491ab34b29e616404325",
   "Name": "The Alto Collection",
   "ProductSlug": "the-alto-collection",
-  "Ranking_Rating": 203,
+  "Ranking_Rating": 204,
   "Ranking_Popularity": 419,
   "Ranking_PopularitySum": 334,
   "Ranking_EOS_Progress": 106,
@@ -781,9 +781,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 42747,
+  "EOS_Progressed": 42750,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 816,
+  "EOS_NewPlayers": 815,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -20741,6 +20741,11 @@
       "Time": "2023-10-15T07:06:04.7480996+00:00",
       "NumProgressed": 42747,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-15T08:04:41.8842694+00:00",
+      "NumProgressed": 42750,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -20800,7 +20805,7 @@
       "Name": "Master",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "goals25",
@@ -20824,7 +20829,7 @@
       "Name": "Hoist the Mainsail",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "humanflight",
@@ -20864,7 +20869,7 @@
       "Name": "My Little Friend",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2137
+      "UsersEstimate": 2138
     },
     {
       "ID": "nomad",
@@ -20872,7 +20877,7 @@
       "Name": "Nomad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7267
+      "UsersEstimate": 7268
     },
     {
       "ID": "novice",
@@ -20920,7 +20925,7 @@
       "Name": "Survivalist",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "playerTupa",
@@ -20944,7 +20949,7 @@
       "Name": "One With The Board",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 2137
+      "UsersEstimate": 2138
     },
     {
       "ID": "proximityFly1000",
@@ -20952,7 +20957,7 @@
       "Name": "Daredevil",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "rookie",
@@ -20960,7 +20965,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 11114
+      "UsersEstimate": 11115
     },
     {
       "ID": "sandboarder",
@@ -21000,7 +21005,7 @@
       "Name": "Introducing Sumara",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "unlockizel",
@@ -21032,7 +21037,7 @@
       "Name": "Vandal",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "voyager",
@@ -21040,7 +21045,7 @@
       "Name": "Voyager",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 2137
+      "UsersEstimate": 2138
     },
     {
       "ID": "wanderer",
@@ -21063,15 +21068,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 42747,
+      "Progressed": 42750,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-10-12T08:00:34.9108004+00:00",
-  "LastChanged_Achievements": "2023-10-15T07:06:04.7480994+00:00",
+  "LastChanged_Achievements": "2023-10-15T08:04:41.8842686+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:17.6286578+00:00",
-  "LastUpdate_Ratings": "2023-10-15T07:04:21.0360162+00:00",
-  "LastUpdate_Achievements": "2023-10-15T07:06:04.7482557+00:00"
+  "LastUpdate_Ratings": "2023-10-15T08:03:16.9976485+00:00",
+  "LastUpdate_Achievements": "2023-10-15T08:04:41.8843985+00:00"
 }

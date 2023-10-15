@@ -16,8 +16,8 @@ Rating: 4.28 (Ranked 828)
 | Room in the Back | 12.00% | ~41,739 |
 | Beating the Heat | 11.00% | ~38,261 |
 | Booze Baron | 11.00% | ~38,261 |
-| Friends on the Force | 10.00% | ~34,782 |
-| Neighborhood Watch | 10.00% | ~34,782 |
+| Friends on the Force | 10.00% | ~34,783 |
+| Neighborhood Watch | 10.00% | ~34,783 |
 | Core Corps | 8.00% | ~27,826 |
 | Sizeable Stash | 8.00% | ~27,826 |
 | Street Fighter | 7.00% | ~24,348 |
@@ -48,11 +48,11 @@ Rating: 4.28 (Ranked 828)
 | Still Stalwart | 3.00% | ~10,435 |
 | Bees Knees Bootlegger | 3.00% | ~10,435 |
 | Tighten the Screws | 3.00% | ~10,435 |
-| One of Us | 2.00% | ~6,956 |
-| Baker’s Dozen | 2.00% | ~6,956 |
-| Dropping the Dime | 2.00% | ~6,956 |
-| Spiffy Speakeasies | 2.00% | ~6,956 |
-| Keeping Your Word | 2.00% | ~6,956 |
+| One of Us | 2.00% | ~6,957 |
+| Baker’s Dozen | 2.00% | ~6,957 |
+| Dropping the Dime | 2.00% | ~6,957 |
+| Spiffy Speakeasies | 2.00% | ~6,957 |
+| Keeping Your Word | 2.00% | ~6,957 |
 | Boxing Them In | 1.00% | ~3,478 |
 | Backroom Empire | 1.00% | ~3,478 |
 | Corner Control | 1.00% | ~3,478 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 828)
 | High Pillow | 0.10% | ~348 |
 | Station Master | 0.10% | ~348 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 347,825 (Ranked 43)  
+Progressed: 347,826 (Ranked 43)  
 Completed: 7 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 7 (0.00%) (Ranked 314)
 | 2023-10-12 | 347,462 | 7 |
 | 2023-10-13 | 347,589 | 7 |
 | 2023-10-14 | 347,785 | 7 |
-| 2023-10-15 | 347,825 | 7 |
+| 2023-10-15 | 347,826 | 7 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 445)  
 Sum: 177 (Ranked 397)  

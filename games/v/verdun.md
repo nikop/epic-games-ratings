@@ -6,16 +6,16 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~47,395 |
-| Worth it | 63.00% | ~38,281 |
-| Eagle Eye | 55.00% | ~33,420 |
-| Corpseman I | 40.00% | ~24,305 |
-| Blast fishing | 37.00% | ~22,482 |
-| Not alone | 32.00% | ~19,444 |
-| Headhunter I | 26.00% | ~15,798 |
+| Setting an example | 78.00% | ~47,397 |
+| Worth it | 63.00% | ~38,282 |
+| Eagle Eye | 55.00% | ~33,421 |
+| Corpseman I | 40.00% | ~24,306 |
+| Blast fishing | 37.00% | ~22,483 |
+| Not alone | 32.00% | ~19,445 |
+| Headhunter I | 26.00% | ~15,799 |
 | Manual Labour I | 25.00% | ~15,191 |
-| Developers, Developers, Developers | 24.00% | ~14,583 |
-| Basic Training | 24.00% | ~14,583 |
+| Developers, Developers, Developers | 24.00% | ~14,584 |
+| Basic Training | 24.00% | ~14,584 |
 | Furchtlos und Treu | 13.00% | ~7,899 |
 | Gott Mit Uns | 12.00% | ~7,292 |
 | This We'll Defend! | 9.00% | ~5,469 |
@@ -23,8 +23,8 @@ Number of Ratings: 1,999  (23.09.2022)
 | Providentiea Memor | 9.00% | ~5,469 |
 | For King and Country | 9.00% | ~5,469 |
 | Battle hardened | 8.00% | ~4,861 |
-| Semper Fidelis! | 7.00% | ~4,253 |
-| Honneur et Patrie | 7.00% | ~4,253 |
+| Semper Fidelis! | 7.00% | ~4,254 |
+| Honneur et Patrie | 7.00% | ~4,254 |
 | In Treue Fest | 5.00% | ~3,038 |
 | Voor De Koning | 5.00% | ~3,038 |
 | Extreme Headhunter | 5.00% | ~3,038 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~61 |
 | Blood Brother | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,763 (Ranked 99)  
+Progressed: 60,765 (Ranked 99)  
 Completed: 4 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 4 (0.01%) (Ranked 296)
 | 2023-10-12 | 60,590 | 4 |
 | 2023-10-13 | 60,668 | 4 |
 | 2023-10-14 | 60,746 | 4 |
-| 2023-10-15 | 60,763 | 4 |
+| 2023-10-15 | 60,765 | 4 |
 ## Awards
 Max (Highly Recommended): 97  (Ranked 351)  
 Sum: 777 (Ranked 273)  

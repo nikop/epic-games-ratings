@@ -33,8 +33,8 @@
 | Very Elusive | 43.00% | ~298 |
 | Head Hunter | 43.00% | ~298 |
 | Operative | 42.00% | ~291 |
+| Scholar | 42.00% | ~291 |
 | Veteran | 41.00% | ~285 |
-| Scholar | 41.00% | ~285 |
 | Power Full | 40.00% | ~278 |
 | The Professor | 39.00% | ~271 |
 | Completionist | 37.00% | ~257 |
@@ -59,11 +59,11 @@
 | Big Game Hunter | 31.00% | ~215 |
 | Revenge! | 31.00% | ~215 |
 | Heart of Darkness | 31.00% | ~215 |
+| Driven | 31.00% | ~215 |
 | Focused | 30.00% | ~208 |
 | Fade Away | 30.00% | ~208 |
 | Treason | 30.00% | ~208 |
 | Agent | 30.00% | ~208 |
-| Driven | 30.00% | ~208 |
 | Bringer of War | 30.00% | ~208 |
 | Cat's in the Cradle | 29.00% | ~201 |
 | Doppelganger | 29.00% | ~201 |

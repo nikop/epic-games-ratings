@@ -19,12 +19,12 @@
 | Sam | 55.00% | ~65 |
 | Commissioner | 53.00% | ~63 |
 | Churchill | 52.00% | ~61 |
-| Engineer | 51.00% | ~60 |
+| Engineer | 52.00% | ~61 |
 | Leave | 50.00% | ~59 |
 | Soldier | 49.00% | ~58 |
 | Doctor | 47.00% | ~55 |
-| Press Play | 36.00% | ~42 |
-| General | 27.00% | ~32 |
+| Press Play | 37.00% | ~44 |
+| General | 28.00% | ~33 |
 | Bookworm | 23.00% | ~27 |
 | Stay | 15.00% | ~18 |
 | Floppy Disk Finder | 14.00% | ~17 |

@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Glass Act | 39.00% | ~28 |
-| Relight my Cannon | 38.00% | ~27 |
-| Tour Guide Extraordinaire | 38.00% | ~27 |
+| Glass Act | 38.00% | ~28 |
+| Relight my Cannon | 37.00% | ~27 |
+| Tour Guide Extraordinaire | 37.00% | ~27 |
 | Puzzle Prodigy | 25.00% | ~18 |
-| Snitch | 24.00% | ~17 |
+| Snitch | 23.00% | ~17 |
 | Explosive End | 22.00% | ~16 |
 | A Box of Tricks | 19.00% | ~14 |
 | Finger-Lickin' Bad | 18.00% | ~13 |
-| Backstory Buff | 17.00% | ~12 |
-| Bathroom Brawler | 17.00% | ~12 |
-| Codebreaker | 17.00% | ~12 |
-| Set Sail | 17.00% | ~12 |
+| Backstory Buff | 16.00% | ~12 |
+| Bathroom Brawler | 16.00% | ~12 |
+| Codebreaker | 16.00% | ~12 |
+| Set Sail | 16.00% | ~12 |
 | Flying High | 15.00% | ~11 |
 | Breathless End | 14.00% | ~10 |
 | Key Keeper's Curse | 4.00% | ~3 |
@@ -23,8 +23,8 @@
 | Freedum Fighter | 3.00% | ~2 |
 | Escape Artist | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72 (Ranked 411)  
-Completed: 1 (1.39%) (Ranked 126)  
+Progressed: 73 (Ranked 411)  
+Completed: 1 (1.37%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -64,3 +64,4 @@ Completed: 1 (1.39%) (Ranked 126)
 | 2023-10-12 | 65 | 1 |
 | 2023-10-13 | 67 | 1 |
 | 2023-10-14 | 72 | 1 |
+| 2023-10-15 | 73 | 1 |

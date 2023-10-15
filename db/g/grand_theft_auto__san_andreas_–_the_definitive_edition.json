@@ -1240,9 +1240,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 13186,
+  "EOS_Progressed": 13187,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -12785,6 +12785,11 @@
       "Time": "2023-10-15T07:07:22.2045897+00:00",
       "NumProgressed": 13186,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-10-15T08:05:48.9672174+00:00",
+      "NumProgressed": 13187,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 35,
@@ -12892,7 +12897,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 2505
+      "UsersEstimate": 2506
     },
     {
       "ID": "ACH14",
@@ -12900,7 +12905,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1450
+      "UsersEstimate": 1451
     },
     {
       "ID": "ACH15",
@@ -12972,7 +12977,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3428
+      "UsersEstimate": 3429
     },
     {
       "ID": "ACH24",
@@ -13075,7 +13080,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13186,
+      "Progressed": 13187,
       "Completed": 50
     }
   ],
@@ -13083,8 +13088,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-10-14T13:00:23.8773079+00:00",
-  "LastChanged_Achievements": "2023-10-15T07:07:22.2045891+00:00",
+  "LastChanged_Achievements": "2023-10-15T08:05:48.9672169+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:42.8574604+00:00",
-  "LastUpdate_Ratings": "2023-10-15T06:58:58.8730799+00:00",
-  "LastUpdate_Achievements": "2023-10-15T07:07:22.2047235+00:00"
+  "LastUpdate_Ratings": "2023-10-15T07:58:28.1311511+00:00",
+  "LastUpdate_Achievements": "2023-10-15T08:05:48.9672936+00:00"
 }

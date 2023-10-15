@@ -679,9 +679,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 347825,
+  "EOS_Progressed": 347826,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1006,
+  "EOS_NewPlayers": 995,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20719,6 +20719,11 @@
       "Time": "2023-10-15T07:05:05.6333363+00:00",
       "NumProgressed": 347825,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-15T08:03:51.9873917+00:00",
+      "NumProgressed": 347826,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -20754,7 +20759,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6956
+      "UsersEstimate": 6957
     },
     {
       "ID": "ach005",
@@ -20826,7 +20831,7 @@
       "Name": "Baker\u2019s Dozen",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6956
+      "UsersEstimate": 6957
     },
     {
       "ID": "ach014",
@@ -20962,7 +20967,7 @@
       "Name": "Dropping the Dime",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6956
+      "UsersEstimate": 6957
     },
     {
       "ID": "ach031",
@@ -21034,7 +21039,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 34782
+      "UsersEstimate": 34783
     },
     {
       "ID": "ach040",
@@ -21162,7 +21167,7 @@
       "Name": "Spiffy Speakeasies",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6956
+      "UsersEstimate": 6957
     },
     {
       "ID": "ach056",
@@ -21194,7 +21199,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 34782
+      "UsersEstimate": 34783
     },
     {
       "ID": "ach060",
@@ -21210,7 +21215,7 @@
       "Name": "Keeping Your Word",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6956
+      "UsersEstimate": 6957
     },
     {
       "ID": "ach062",
@@ -21369,7 +21374,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 347825,
+      "Progressed": 347826,
       "Completed": 7
     }
   ],
@@ -21377,8 +21382,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-10-13T18:00:33.8427425+00:00",
-  "LastChanged_Achievements": "2023-10-15T07:05:05.6333358+00:00",
+  "LastChanged_Achievements": "2023-10-15T08:03:51.9873911+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:45.8070686+00:00",
-  "LastUpdate_Ratings": "2023-10-15T07:03:12.9222168+00:00",
-  "LastUpdate_Achievements": "2023-10-15T07:05:05.6336043+00:00"
+  "LastUpdate_Ratings": "2023-10-15T08:01:10.6254085+00:00",
+  "LastUpdate_Achievements": "2023-10-15T08:03:51.9875677+00:00"
 }

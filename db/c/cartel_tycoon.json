@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -286,9 +286,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 627,
+  "EOS_Progressed": 628,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -1981,6 +1981,11 @@
       "Time": "2023-10-14T19:08:15.5194146+00:00",
       "NumProgressed": 627,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-15T08:08:00.4365055+00:00",
+      "NumProgressed": 628,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 19,
@@ -2016,7 +2021,7 @@
       "Name": "Didn\u0027t Miss A Single One",
       "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "female-conqueror",
@@ -2040,7 +2045,7 @@
       "Name": "Our Man",
       "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "kill-lieutenants",
@@ -2048,7 +2053,7 @@
       "Name": "Spreading Fear",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "pack-and-sell",
@@ -2056,7 +2061,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "play-at-night",
@@ -2064,7 +2069,7 @@
       "Name": "Don\u0027t Let Mom Know You\u0027re A Druglord",
       "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "product-profit",
@@ -2080,7 +2085,7 @@
       "Name": "Bad Trip",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "rename-lieutenant",
@@ -2104,7 +2109,7 @@
       "Name": "Spread",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "send-smuggling",
@@ -2112,7 +2117,7 @@
       "Name": "Camellos",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "unlock-residences",
@@ -2120,7 +2125,7 @@
       "Name": "Pampered Life",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "upgrade-building",
@@ -2143,15 +2148,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 627,
+      "Progressed": 628,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-09-23T20:57:48.080138+00:00",
-  "LastChanged_Achievements": "2023-10-15T07:10:07.1253963+00:00",
+  "LastChanged_Achievements": "2023-10-15T08:08:00.4365047+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:47.5072549+00:00",
-  "LastUpdate_Ratings": "2023-10-15T06:59:12.080147+00:00",
-  "LastUpdate_Achievements": "2023-10-15T07:10:07.1254375+00:00"
+  "LastUpdate_Ratings": "2023-10-15T07:58:36.663848+00:00",
+  "LastUpdate_Achievements": "2023-10-15T08:08:00.4365253+00:00"
 }

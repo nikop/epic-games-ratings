@@ -3,7 +3,7 @@
   "Name": "Surviving the Aftermath",
   "ProductSlug": "surviving-the-aftermath",
   "Ranking_Rating": 607,
-  "Ranking_Popularity": 341,
+  "Ranking_Popularity": 342,
   "Ranking_PopularitySum": 283,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 314,
@@ -1307,7 +1307,7 @@
   ],
   "EOS_Progressed": 9603,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15304,8 +15304,8 @@
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-10-13T05:57:40.9154054+00:00",
-  "LastChanged_Achievements": "2023-10-15T07:08:33.9380345+00:00",
+  "LastChanged_Achievements": "2023-10-15T08:06:49.1480221+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:53.3436738+00:00",
-  "LastUpdate_Ratings": "2023-10-15T06:59:28.4382497+00:00",
-  "LastUpdate_Achievements": "2023-10-15T07:08:33.938282+00:00"
+  "LastUpdate_Ratings": "2023-10-15T07:58:46.950936+00:00",
+  "LastUpdate_Achievements": "2023-10-15T08:06:49.1481338+00:00"
 }

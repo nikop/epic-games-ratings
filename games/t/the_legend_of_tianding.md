@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Eat the Rich | 75.00% | ~3 |
 | Hero Arrives | 75.00% | ~3 |
 | Death Battle | 50.00% | ~2 |
 | Phantom Kunoichi | 50.00% | ~2 |
 | Killing Machine | 50.00% | ~2 |
 | Final Showdown | 50.00% | ~2 |
 | Divine Retribution | 50.00% | ~2 |
-| Eat the Rich | 50.00% | ~2 |
 | Big Eater | 50.00% | ~2 |
 | Dispel Rumors | 50.00% | ~2 |
 | Tour Guide | 50.00% | ~2 |

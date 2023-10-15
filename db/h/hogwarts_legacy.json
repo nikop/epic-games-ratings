@@ -9000,9 +9000,9 @@
       "Count": 714
     }
   ],
-  "EOS_Progressed": 298356,
+  "EOS_Progressed": 298359,
   "EOS_Completed": 487,
-  "EOS_NewPlayers": 361,
+  "EOS_NewPlayers": 360,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -28060,6 +28060,11 @@
       "Time": "2023-10-15T07:06:41.0155731+00:00",
       "NumProgressed": 298356,
       "NumCompleted": 487
+    },
+    {
+      "Time": "2023-10-15T08:05:14.0262849+00:00",
+      "NumProgressed": 298359,
+      "NumCompleted": 487
     }
   ],
   "TotalAchievements": 45,
@@ -28071,7 +28076,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 44753
+      "UsersEstimate": 44754
     },
     {
       "ID": "PFA_10",
@@ -28111,7 +28116,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 17901
+      "UsersEstimate": 17902
     },
     {
       "ID": "PFA_15",
@@ -28119,7 +28124,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23868
+      "UsersEstimate": 23869
     },
     {
       "ID": "PFA_16",
@@ -28143,7 +28148,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23868
+      "UsersEstimate": 23869
     },
     {
       "ID": "PFA_19",
@@ -28151,7 +28156,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23868
+      "UsersEstimate": 23869
     },
     {
       "ID": "PFA_2",
@@ -28207,7 +28212,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 17901
+      "UsersEstimate": 17902
     },
     {
       "ID": "PFA_26",
@@ -28215,7 +28220,7 @@
       "Name": "The Nature of the Beast",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 2088
+      "UsersEstimate": 2089
     },
     {
       "ID": "PFA_27",
@@ -28239,7 +28244,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 17901
+      "UsersEstimate": 17902
     },
     {
       "ID": "PFA_3",
@@ -28359,7 +28364,7 @@
       "Name": "Raising Expectations",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 17901
+      "UsersEstimate": 17902
     },
     {
       "ID": "PFA_43",
@@ -28399,7 +28404,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38786
+      "UsersEstimate": 38787
     },
     {
       "ID": "PFA_7",
@@ -28407,7 +28412,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38786
+      "UsersEstimate": 38787
     },
     {
       "ID": "PFA_8",
@@ -28430,7 +28435,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298356,
+      "Progressed": 298359,
       "Completed": 487
     }
   ],
@@ -28438,8 +28443,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-15T01:47:09.3124337+00:00",
-  "LastChanged_Achievements": "2023-10-15T07:06:41.0155727+00:00",
+  "LastChanged_Achievements": "2023-10-15T08:05:14.0262845+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:16.623812+00:00",
-  "LastUpdate_Ratings": "2023-10-15T07:03:15.1085057+00:00",
-  "LastUpdate_Achievements": "2023-10-15T07:06:41.0157249+00:00"
+  "LastUpdate_Ratings": "2023-10-15T08:01:12.3548066+00:00",
+  "LastUpdate_Achievements": "2023-10-15T08:05:14.0264039+00:00"
 }

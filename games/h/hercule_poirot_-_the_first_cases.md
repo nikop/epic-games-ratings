@@ -35,12 +35,12 @@ Rating: 4.35 (Ranked 775)
 | Inge Frank | 31.00% | ~135 |
 | The Search | 30.00% | ~130 |
 | Hugo Beckers | 29.00% | ~126 |
-| The Family | 27.00% | ~117 |
+| The Family | 28.00% | ~122 |
 | Well-travelled | 26.00% | ~113 |
 | Thinking of Everything | 26.00% | ~113 |
 | Exquisite Artwork | 26.00% | ~113 |
+| Viscount Edwin Van den Bosch | 26.00% | ~113 |
 | Archibald Sterling | 25.00% | ~109 |
-| Viscount Edwin Van den Bosch | 25.00% | ~109 |
 | Well-prepared | 21.00% | ~91 |
 | The Truth | 20.00% | ~87 |
 | Sunken Secrets | 18.00% | ~78 |
@@ -53,7 +53,7 @@ Rating: 4.35 (Ranked 775)
 | Work-life Balance | 2.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 435 (Ranked 282)  
-Completed: 6 (1.38%) (Ranked 127)  
+Completed: 6 (1.38%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

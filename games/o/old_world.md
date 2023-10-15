@@ -11,6 +11,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Explorer | 2.00% | ~294 |
 | Good | 2.00% | ~294 |
 | Intrepid | 2.00% | ~294 |
+| Learned | 2.00% | ~294 |
 | Mason | 2.00% | ~294 |
 | Settler | 2.00% | ~294 |
 | Strong | 2.00% | ~294 |
@@ -23,7 +24,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Glorious | 1.00% | ~147 |
 | Just | 1.00% | ~147 |
 | Keystone | 1.00% | ~147 |
-| Learned | 1.00% | ~147 |
 | Magnificent | 1.00% | ~147 |
 | Noble | 1.00% | ~147 |
 | Pioneer | 1.00% | ~147 |
@@ -31,7 +31,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Wise | 1.00% | ~147 |
 | Developing Cities | 1.00% | ~147 |
 | Strong Cities | 1.00% | ~147 |
+| Able Difficulty | 1.00% | ~147 |
 | Furious Family | 1.00% | ~147 |
+| Great Ziggurat | 1.00% | ~147 |
 | Ishtar Gate | 1.00% | ~147 |
 | Lighthouse | 1.00% | ~147 |
 | Oracle | 1.00% | ~147 |
@@ -51,8 +53,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Drillmaster | 0.90% | ~132 |
 | Brilliant | 0.90% | ~132 |
 | Great | 0.90% | ~132 |
-| Able Difficulty | 0.90% | ~132 |
-| Great Ziggurat | 0.90% | ~132 |
 | Musaeum | 0.90% | ~132 |
 | Manichaeism | 0.90% | ~132 |
 | Egyptian Paganism | 0.90% | ~132 |
@@ -69,6 +69,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Champions | 0.70% | ~103 |
 | Sages | 0.70% | ~103 |
 | Acropolis | 0.70% | ~103 |
+| Mausoleum | 0.70% | ~103 |
 | Mythology | 0.70% | ~103 |
 | Win a Single Player Game | 0.70% | ~103 |
 | Hanging Gardens in Babylon | 0.60% | ~88 |
@@ -77,11 +78,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intercessor | 0.60% | ~88 |
 | Victorious | 0.60% | ~88 |
 | Good Difficulty | 0.60% | ~88 |
-| Mausoleum | 0.60% | ~88 |
 | Learn to Play 3 | 0.60% | ~88 |
 | Building Wonders | 0.60% | ~88 |
+| Points Victory | 0.60% | ~88 |
 | Invincible | 0.50% | ~74 |
 | Lion | 0.50% | ~74 |
+| Subjugator | 0.50% | ~74 |
 | Landowners | 0.50% | ~74 |
 | Patrons | 0.50% | ~74 |
 | Riders | 0.50% | ~74 |
@@ -101,9 +103,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legionary | 0.50% | ~74 |
 | Phalangite | 0.50% | ~74 |
 | Double Victory | 0.50% | ~74 |
-| Points Victory | 0.50% | ~74 |
 | Capable | 0.40% | ~59 |
-| Subjugator | 0.40% | ~59 |
 | Strong Difficulty | 0.40% | ~59 |
 | Hunters | 0.40% | ~59 |
 | Statesmen | 0.40% | ~59 |
@@ -156,6 +156,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ten Crowns | 0.20% | ~29 |
 | Three Man Chariot | 0.20% | ~29 |
 | Siege Tower | 0.20% | ~29 |
+| Conquest Victory | 0.20% | ~29 |
 | No Undo | 0.20% | ~29 |
 | Greater Kmt Unified | 0.20% | ~29 |
 | Prosperous Kmt | 0.20% | ~29 |
@@ -265,7 +266,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Capturing Cities | 0.10% | ~15 |
 | Word of God | 0.10% | ~15 |
 | Great Ziggurat in Ur | 0.10% | ~15 |
-| Conquest Victory | 0.10% | ~15 |
 | No Characters | 0.10% | ~15 |
 | One City Challenge | 0.10% | ~15 |
 | Randomized Families | 0.10% | ~15 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,709 (Ranked 135)  
+Progressed: 14,712 (Ranked 135)  
 Completed: 5 (0.03%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -527,7 +527,7 @@ Completed: 5 (0.03%) (Ranked 283)
 | 2023-10-12 | 14,624 | 5 |
 | 2023-10-13 | 14,652 | 5 |
 | 2023-10-14 | 14,699 | 5 |
-| 2023-10-15 | 14,709 | 5 |
+| 2023-10-15 | 14,712 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,839 (Ranked 210)  
