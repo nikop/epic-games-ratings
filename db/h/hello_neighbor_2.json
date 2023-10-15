@@ -3724,9 +3724,9 @@
       "ID": "ACH_HIDDEN_SECRETS",
       "SetID": "4kfb9pd",
       "Name": "Hidden Secrets",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 80,
-      "UsersEstimate": 738
+      "UsersEstimate": 767
     },
     {
       "ID": "ACH_IMPRISONMENT",
@@ -3789,8 +3789,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-10-06T14:00:50.47481+00:00",
-  "LastChanged_Achievements": "2023-10-15T10:06:21.2158823+00:00",
+  "LastChanged_Achievements": "2023-10-15T11:06:17.4436658+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:11.4944348+00:00",
-  "LastUpdate_Ratings": "2023-10-15T09:59:54.2329422+00:00",
-  "LastUpdate_Achievements": "2023-10-15T10:06:21.2159399+00:00"
+  "LastUpdate_Ratings": "2023-10-15T10:59:58.3761857+00:00",
+  "LastUpdate_Achievements": "2023-10-15T11:06:17.4436957+00:00"
 }

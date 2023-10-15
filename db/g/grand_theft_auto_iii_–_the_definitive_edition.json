@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -508,9 +508,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8291,
+  "EOS_Progressed": 8292,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
@@ -10028,6 +10028,11 @@
       "Time": "2023-10-15T08:07:50.3988844+00:00",
       "NumProgressed": 8291,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-10-15T11:09:07.3446389+00:00",
+      "NumProgressed": 8292,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 29,
@@ -10079,7 +10084,7 @@
       "Name": "Street Sweeper",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1492
+      "UsersEstimate": 1493
     },
     {
       "ID": "ACH07",
@@ -10111,7 +10116,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2321
+      "UsersEstimate": 2322
     },
     {
       "ID": "ACH11",
@@ -10143,7 +10148,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1409
+      "UsersEstimate": 1410
     },
     {
       "ID": "ACH15",
@@ -10270,7 +10275,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8291,
+      "Progressed": 8292,
       "Completed": 55
     }
   ],
@@ -10278,8 +10283,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-10-06T23:02:27.8926786+00:00",
-  "LastChanged_Achievements": "2023-10-15T10:08:59.1492875+00:00",
+  "LastChanged_Achievements": "2023-10-15T11:09:07.3446382+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:08.879613+00:00",
-  "LastUpdate_Ratings": "2023-10-15T09:59:48.657142+00:00",
-  "LastUpdate_Achievements": "2023-10-15T10:08:59.1493763+00:00"
+  "LastUpdate_Ratings": "2023-10-15T10:59:52.4791493+00:00",
+  "LastUpdate_Achievements": "2023-10-15T11:09:07.3447721+00:00"
 }

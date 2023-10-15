@@ -49,6 +49,7 @@ Number of Ratings: 177  (23.09.2022)
 | Good Ol' Days | 0.30% | ~19 |
 | Beyond the Call of Dude-y | 0.20% | ~13 |
 | Doja's Dope-Ass Dinolicious Danceapalooza | 0.20% | ~7 |
+| Good Riddance! | 0.20% | ~13 |
 | The Harder They Fall...Dood | 0.20% | ~13 |
 | Ronin | 0.20% | ~13 |
 | A Striking Resemblance | 0.20% | ~13 |
@@ -60,7 +61,6 @@ Number of Ratings: 177  (23.09.2022)
 | Congrats, A Celebrity Hates You | 0.10% | ~3 |
 | D-Club Certified | 0.10% | ~6 |
 | Duck n' Weave | 0.10% | ~6 |
-| Good Riddance! | 0.10% | ~6 |
 | I Know Grump-Fu | 0.10% | ~6 |
 | Hijinks Averted | 0.10% | ~6 |
 | Host Hijinks | 0.10% | ~6 |

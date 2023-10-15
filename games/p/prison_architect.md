@@ -6,24 +6,24 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 25.00% | ~45,966 |
-| Get Busy Living | 16.00% | ~29,418 |
-| Samuel Norton | 9.00% | ~16,548 |
-| Spare The Rod | 5.00% | ~9,193 |
+| Stone Walls | 25.00% | ~45,969 |
+| Get Busy Living | 16.00% | ~29,420 |
+| Samuel Norton | 9.00% | ~16,549 |
+| Spare The Rod | 5.00% | ~9,194 |
 | Don't Put Me In The Dark | 3.00% | ~5,516 |
 | Wait and Hope | 3.00% | ~5,516 |
 | I May Have Found A Way Out Of Here | 3.00% | ~5,516 |
-| Throw The Book At Them | 2.00% | ~3,677 |
-| Iron Bars | 2.00% | ~3,677 |
+| Throw The Book At Them | 2.00% | ~3,678 |
+| Iron Bars | 2.00% | ~3,678 |
 | D.B. Cooper | 1.00% | ~1,839 |
 | Reformation | 0.60% | ~1,103 |
 | Crowd Control | 0.50% | ~919 |
-| Freedom | 0.40% | ~735 |
+| Freedom | 0.40% | ~736 |
 | Confined | 0.30% | ~552 |
 | It's Not What You Know... | 0.10% | ~184 |
 | ... It's What You Can Prove | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 183,862 (Ranked 69)  
+Progressed: 183,877 (Ranked 69)  
 Completed: 8 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,10 +201,10 @@ Completed: 8 (0.00%) (Ranked 314)
 | 2023-10-12 | 183,068 | 8 |
 | 2023-10-13 | 183,340 | 8 |
 | 2023-10-14 | 183,734 | 8 |
-| 2023-10-15 | 183,862 | 8 |
+| 2023-10-15 | 183,877 | 8 |
 ## Awards
 Max (Extremely Fun): 529  (Ranked 200)  
-Sum: 4,557 (Ranked 142)  
+Sum: 4,559 (Ranked 142)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
@@ -215,8 +215,8 @@ Diff (max vs sum): 58
 | This game is Relaxing | 475 |
 | This game has Amazing Storytelling | 451 |
 | This game has Diverse Characters | 440 |
-| This game is Educational | 431 |
-| This game has Amazing Characters | 400 |
+| This game is Educational | 432 |
+| This game has Amazing Characters | 401 |
 | This game has a Creative Community | 315 |
 | This game has Obsessive Gameplay | 234 |
 ## Ratings History
@@ -487,3 +487,4 @@ Diff (max vs sum): 58
 | 2023-10-12 | 4.61 | - | 527 | 4,544 |
 | 2023-10-13 | 4.61 | - | 529 | 4,555 |
 | 2023-10-14 | 4.61 | - | 529 | 4,557 |
+| 2023-10-15 | 4.61 | - | 529 | 4,559 |

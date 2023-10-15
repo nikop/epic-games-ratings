@@ -4,7 +4,7 @@
   "ProductSlug": "scribble-it-c61a6f",
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12589,
+  "EOS_Progressed": 12590,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 262,
   "EOS_NewCompleters": 0,
@@ -12101,6 +12101,11 @@
       "Time": "2023-10-15T10:08:11.8343452+00:00",
       "NumProgressed": 12589,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-15T11:08:19.3600853+00:00",
+      "NumProgressed": 12590,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -12136,7 +12141,7 @@
       "Name": "Rainbow!",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "ACH_EVERYONE_GUESSED_CORRECTLY_ONLY_SHAPES_4_PLAYERS",
@@ -12184,7 +12189,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 5539
+      "UsersEstimate": 5540
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -12311,14 +12316,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 12589,
+      "Progressed": 12590,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-10-15T10:08:11.8343445+00:00",
+  "LastChanged_Achievements": "2023-10-15T11:08:19.3600847+00:00",
   "LastUpdate_AppInfo": "2023-10-14T02:11:04.1756812+00:00",
-  "LastUpdate_Ratings": "2023-10-15T09:59:53.1656922+00:00",
-  "LastUpdate_Achievements": "2023-10-15T10:08:11.8345184+00:00"
+  "LastUpdate_Ratings": "2023-10-15T10:59:57.2777208+00:00",
+  "LastUpdate_Achievements": "2023-10-15T11:08:19.3602075+00:00"
 }

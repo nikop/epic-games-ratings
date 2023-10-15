@@ -164,9 +164,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1075,
+  "EOS_Progressed": 1076,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.49,
   "EosHistory": [
@@ -1949,6 +1949,11 @@
       "Time": "2023-10-14T23:09:25.4068915+00:00",
       "NumProgressed": 1075,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-10-15T11:09:32.7097908+00:00",
+      "NumProgressed": 1076,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 27,
@@ -1976,7 +1981,7 @@
       "Name": "Soulmate?",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "ACH_DICE_WIN",
@@ -1984,7 +1989,7 @@
       "Name": "Roll with it",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "ACH_DYNAMITE_USED",
@@ -1992,7 +1997,7 @@
       "Name": "Kaboom",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "ACH_ELEVATOR_FIXED",
@@ -2000,7 +2005,7 @@
       "Name": "Fine, I\u0027ll do it myself",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "ACH_ELIZA_PHOTO",
@@ -2048,15 +2053,15 @@
       "Name": "Memento",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
       "SetID": "7k95e4n",
       "Name": "No pressure",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 763
+      "UsersEstimate": 753
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -2088,7 +2093,7 @@
       "Name": "Island boy",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "ACH_POWER_OUTRAGE_FIXED",
@@ -2096,7 +2101,7 @@
       "Name": "Let there be light",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "ACH_SKILLS_ALL",
@@ -2112,7 +2117,7 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "ACH_STAR_2",
@@ -2128,7 +2133,7 @@
       "Name": "Still more work ahead",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "ACH_STAR_4",
@@ -2168,14 +2173,14 @@
       "Name": "I think you dropped this",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     }
   ],
   "AchievementSets": [
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 1075,
+      "Progressed": 1076,
       "Completed": 16
     }
   ],
@@ -2183,8 +2188,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-10-08T18:57:13.8694552+00:00",
-  "LastChanged_Achievements": "2023-10-15T10:09:23.9271766+00:00",
+  "LastChanged_Achievements": "2023-10-15T11:09:32.7097903+00:00",
   "LastUpdate_AppInfo": "2023-10-14T13:56:56.9692928+00:00",
-  "LastUpdate_Ratings": "2023-10-15T10:01:30.245209+00:00",
-  "LastUpdate_Achievements": "2023-10-15T10:09:23.9272105+00:00"
+  "LastUpdate_Ratings": "2023-10-15T11:01:35.7362113+00:00",
+  "LastUpdate_Achievements": "2023-10-15T11:09:32.7098216+00:00"
 }

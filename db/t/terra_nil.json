@@ -4,7 +4,7 @@
   "ProductSlug": "terra-nil-508d16",
   "Ranking_EOS_Progress": 670,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewPlayers": 396,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:57:11.3616788+00:00",
   "LastChanged": "2023-03-31T05:57:11.3616789+00:00",
   "LastUpdate_AppInfo": "2023-10-14T11:57:11.9759236+00:00",
-  "LastUpdate_Ratings": "2023-10-15T10:00:28.1240364+00:00",
-  "LastUpdate_Achievements": "2023-10-15T10:07:02.8307262+00:00"
+  "LastUpdate_Ratings": "2023-10-15T11:00:27.512431+00:00",
+  "LastUpdate_Achievements": "2023-10-15T11:06:59.6057431+00:00"
 }

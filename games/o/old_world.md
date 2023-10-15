@@ -76,6 +76,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Beloved | 0.60% | ~88 |
 | Conqueror | 0.60% | ~88 |
 | Intercessor | 0.60% | ~88 |
+| Lion | 0.60% | ~88 |
 | Victorious | 0.60% | ~88 |
 | Good Difficulty | 0.60% | ~88 |
 | Learn to Play 3 | 0.60% | ~88 |
@@ -84,7 +85,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Building Wonders | 0.60% | ~88 |
 | Points Victory | 0.60% | ~88 |
 | Invincible | 0.50% | ~74 |
-| Lion | 0.50% | ~74 |
 | Subjugator | 0.50% | ~74 |
 | Landowners | 0.50% | ~74 |
 | Patrons | 0.50% | ~74 |
@@ -143,6 +143,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Turreted Elephant | 0.30% | ~44 |
 | All Nations | 0.30% | ~44 |
 | Rmt n Kmt Buhen | 0.30% | ~44 |
+| Greater Kmt Unified | 0.30% | ~44 |
 | Beja Archer | 0.30% | ~44 |
 | Ishtar Gate in Babylon | 0.20% | ~29 |
 | Carthage - Ox Hide | 0.20% | ~29 |
@@ -158,7 +159,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Siege Tower | 0.20% | ~29 |
 | Conquest Victory | 0.20% | ~29 |
 | No Undo | 0.20% | ~29 |
-| Greater Kmt Unified | 0.20% | ~29 |
 | Prosperous Kmt | 0.20% | ~29 |
 | Kush | 0.20% | ~29 |
 | Centenarian | 0.10% | ~15 |

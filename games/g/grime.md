@@ -34,6 +34,7 @@ Number of Ratings: 46  (23.09.2022)
 | Hush | 0.20% | ~305 |
 | Inevitable | 0.20% | ~305 |
 | Breathsmith | 0.20% | ~305 |
+| Unwrap the Gift | 0.20% | ~305 |
 | Passage | 0.20% | ~305 |
 | Dream | 0.20% | ~304 |
 | Spiral Heart | 0.10% | ~152 |
@@ -43,7 +44,6 @@ Number of Ratings: 46  (23.09.2022)
 | Zygote | 0.10% | ~152 |
 | Kinship | 0.10% | ~152 |
 | Weakness | 0.10% | ~152 |
-| Unwrap the Gift | 0.10% | ~152 |
 | Generous | 0.10% | ~152 |
 | Kin | 0.10% | ~152 |
 | Listen | 0.10% | ~152 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~152 |
 | Intensify | 0.10% | ~152 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 152,318 (Ranked 71)  
+Progressed: 152,333 (Ranked 71)  
 Completed: 1 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,11 +208,11 @@ Completed: 1 (0.00%) (Ranked 314)
 | 2023-10-12 | 151,679 | 1 |
 | 2023-10-13 | 151,932 | 1 |
 | 2023-10-14 | 152,214 | 1 |
-| 2023-10-15 | 152,318 | 1 |
+| 2023-10-15 | 152,333 | 1 |
 ## Awards
-Max (Highly Recommended): 44  (Ranked 433)  
+Max (Highly Recommended): 44  (Ranked 434)  
 Sum: 287 (Ranked 354)  
-Diff (max vs sum): 79  
+Diff (max vs sum): 80  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 44 |

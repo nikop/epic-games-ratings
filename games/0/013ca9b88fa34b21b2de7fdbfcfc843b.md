@@ -5,13 +5,13 @@ Rating: 4.65 (Ranked 300)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 73.00% | ~4,860 |
+| Azoria Beckons | 73.00% | ~4,861 |
 | A Thorny Situation | 70.00% | ~4,661 |
 | ... And Spit Back Out | 60.00% | ~3,995 |
 | Break-Net Speed | 48.00% | ~3,196 |
 | Bramble Breaker | 46.00% | ~3,063 |
-| Miner 49er | 42.00% | ~2,796 |
-| Humble Collector | 42.00% | ~2,796 |
+| Miner 49er | 42.00% | ~2,797 |
+| Humble Collector | 42.00% | ~2,797 |
 | Calm Sailing | 36.00% | ~2,397 |
 | Open the Gate! | 33.00% | ~2,197 |
 | Mist Walker | 31.00% | ~2,064 |
@@ -27,8 +27,8 @@ Rating: 4.65 (Ranked 300)
 | Got to Catch Them All | 7.00% | ~466 |
 | Rumble in the Jumble | 7.00% | ~466 |
 | Fanatical Farmer | 7.00% | ~466 |
-| Fae Farmer | 6.00% | ~399 |
-| Azorian Anniversary | 6.00% | ~399 |
+| Fae Farmer | 6.00% | ~400 |
+| Azorian Anniversary | 6.00% | ~400 |
 | Scattered Scroll Scrounger | 5.00% | ~333 |
 | I Now Pronounce You... | 4.00% | ~266 |
 | Chatty Neighbor | 3.00% | ~200 |
@@ -41,7 +41,7 @@ Rating: 4.65 (Ranked 300)
 | Giving the People What They Want | 0.10% | ~7 |
 | Very Skilled | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,658 (Ranked 162)  
+Progressed: 6,659 (Ranked 162)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-10-12 | 6,534 | 0 |
 | 2023-10-13 | 6,581 | 0 |
 | 2023-10-14 | 6,647 | 0 |
-| 2023-10-15 | 6,658 | 0 |
+| 2023-10-15 | 6,659 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

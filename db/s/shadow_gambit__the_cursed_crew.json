@@ -6,9 +6,9 @@
   "Ranking_Popularity": 536,
   "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 250,
-  "Ranking_EOS_Completed": 86,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_Completed": 84,
+  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -99,10 +99,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 725,
-  "EOS_Completed": 23,
+  "EOS_Completed": 24,
   "EOS_NewPlayers": 16,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.17,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 3.31,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -2128,6 +2128,11 @@
       "Time": "2023-10-15T06:09:33.4395437+00:00",
       "NumProgressed": 725,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-10-15T11:09:22.3612716+00:00",
+      "NumProgressed": 725,
+      "NumCompleted": 24
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2154,9 +2159,9 @@
       "ID": "_03_FinishAct1",
       "SetID": "8a1io5d",
       "Name": "The Adventure Begins",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 384
+      "UsersEstimate": 392
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -2348,15 +2353,15 @@
       "ID": "8a1io5d",
       "IsBase": true,
       "Progressed": 725,
-      "Completed": 23
+      "Completed": 24
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-10-02T00:00:41.2116731+00:00",
-  "LastChanged_Achievements": "2023-10-15T10:09:13.9420659+00:00",
+  "LastChanged_Achievements": "2023-10-15T11:09:22.3612709+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:48.0426096+00:00",
-  "LastUpdate_Ratings": "2023-10-15T10:02:17.5453297+00:00",
-  "LastUpdate_Achievements": "2023-10-15T10:09:13.9420978+00:00"
+  "LastUpdate_Ratings": "2023-10-15T11:02:23.6998702+00:00",
+  "LastUpdate_Achievements": "2023-10-15T11:09:22.3613079+00:00"
 }

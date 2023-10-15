@@ -4,7 +4,7 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 348,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 174,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.15,
   "EosHistory": [
@@ -826,9 +826,9 @@
       "ID": "CATCH_30_FISH",
       "SetID": "aniflfk",
       "Name": "Fisherman",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -938,9 +938,9 @@
       "ID": "UPGRADE_SMART_TOWER",
       "SetID": "aniflfk",
       "Name": "Strong Signal",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 92
+      "UsersEstimate": 94
     }
   ],
   "AchievementSets": [
@@ -953,8 +953,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-10-15T10:09:08.0339824+00:00",
+  "LastChanged_Achievements": "2023-10-15T11:09:16.5254315+00:00",
   "LastUpdate_AppInfo": "2023-10-11T15:57:05.2435729+00:00",
-  "LastUpdate_Ratings": "2023-10-15T09:59:23.5751592+00:00",
-  "LastUpdate_Achievements": "2023-10-15T10:09:08.0340058+00:00"
+  "LastUpdate_Ratings": "2023-10-15T10:59:24.2156177+00:00",
+  "LastUpdate_Achievements": "2023-10-15T11:09:16.5254635+00:00"
 }

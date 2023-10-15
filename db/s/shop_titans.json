@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 241,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6452,10 +6452,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27380,
       "NumberOfAwardsMax": 4785
+    },
+    {
+      "Time": "2023-10-15T10:57:51.8711318+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27381,
+      "NumberOfAwardsMax": 4785
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27380,
+  "NumberOfAwards": 27381,
   "NumberOfAwardsMax": 4785,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6487,7 +6493,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4012
+      "Count": 4013
     },
     {
       "Text": "This game is Relaxing",
@@ -6508,9 +6514,9 @@
       "Count": 3759
     }
   ],
-  "EOS_Progressed": 137642,
+  "EOS_Progressed": 137644,
   "EOS_Completed": 168,
-  "EOS_NewPlayers": 343,
+  "EOS_NewPlayers": 341,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -24723,6 +24729,11 @@
       "Time": "2023-10-15T10:03:45.3619253+00:00",
       "NumProgressed": 137642,
       "NumCompleted": 168
+    },
+    {
+      "Time": "2023-10-15T11:03:39.2438005+00:00",
+      "NumProgressed": 137644,
+      "NumCompleted": 168
     }
   ],
   "TotalAchievements": 112,
@@ -24822,7 +24833,7 @@
       "Name": "Tax not Included",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 963
+      "UsersEstimate": 964
     },
     {
       "ID": "bigsale03",
@@ -24878,7 +24889,7 @@
       "Name": "Big Game Hunting",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 963
+      "UsersEstimate": 964
     },
     {
       "ID": "boss03",
@@ -24910,7 +24921,7 @@
       "Name": "For the Hoard!",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 963
+      "UsersEstimate": 964
     },
     {
       "ID": "chest03",
@@ -24934,7 +24945,7 @@
       "Name": "Scrapbooker",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 963
+      "UsersEstimate": 964
     },
     {
       "ID": "collection03",
@@ -25014,7 +25025,7 @@
       "Name": "Flying off the Shelves",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 963
+      "UsersEstimate": 964
     },
     {
       "ID": "craft04",
@@ -25046,7 +25057,7 @@
       "Name": "This Power Level...!",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 963
+      "UsersEstimate": 964
     },
     {
       "ID": "damage03",
@@ -25070,7 +25081,7 @@
       "Name": "Hidden Potential",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 963
+      "UsersEstimate": 964
     },
     {
       "ID": "enchant02",
@@ -25118,7 +25129,7 @@
       "Name": "Expansion in Session",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 963
+      "UsersEstimate": 964
     },
     {
       "ID": "expansion03",
@@ -25190,7 +25201,7 @@
       "Name": "Trash to Treasure",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 963
+      "UsersEstimate": 964
     },
     {
       "ID": "gemsspent",
@@ -25406,7 +25417,7 @@
       "Name": "Seasoned Journeyman",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 963
+      "UsersEstimate": 964
     },
     {
       "ID": "master04",
@@ -25518,15 +25529,15 @@
       "Name": "Black Friday Special",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 963
+      "UsersEstimate": 964
     },
     {
       "ID": "sell03",
       "SetID": "anfd17p",
       "Name": "Cash Only Please",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 275
     },
     {
       "ID": "sia_a",
@@ -25574,7 +25585,7 @@
       "Name": "Special Ingredient",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 963
+      "UsersEstimate": 964
     },
     {
       "ID": "uncommonres02",
@@ -25614,7 +25625,7 @@
       "Name": "Complete Monopoly",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 963
+      "UsersEstimate": 964
     },
     {
       "ID": "yami_a",
@@ -25629,15 +25640,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 137642,
+      "Progressed": 137644,
       "Completed": 168
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-10-13T22:01:35.3873157+00:00",
-  "LastChanged_Achievements": "2023-10-15T10:03:45.3619249+00:00",
+  "LastChanged": "2023-10-15T10:57:51.8711316+00:00",
+  "LastChanged_Achievements": "2023-10-15T11:03:39.2437997+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:10.2617104+00:00",
-  "LastUpdate_Ratings": "2023-10-15T09:57:54.2417243+00:00",
-  "LastUpdate_Achievements": "2023-10-15T10:03:45.3622185+00:00"
+  "LastUpdate_Ratings": "2023-10-15T10:57:51.8711323+00:00",
+  "LastUpdate_Achievements": "2023-10-15T11:03:39.244334+00:00"
 }

@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6658,
+  "EOS_Progressed": 6659,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 370,
+  "EOS_NewPlayers": 366,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4304,6 +4304,11 @@
       "Time": "2023-10-15T09:04:32.3281901+00:00",
       "NumProgressed": 6658,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-15T11:05:15.7185732+00:00",
+      "NumProgressed": 6659,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -4316,7 +4321,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 4860
+      "UsersEstimate": 4861
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -4372,7 +4377,7 @@
       "Name": "Fae Farmer",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "COLLECT_CLOVER",
@@ -4412,7 +4417,7 @@
       "Name": "Miner 49er",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 2796
+      "UsersEstimate": 2797
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -4452,7 +4457,7 @@
       "Name": "Humble Collector",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 2796
+      "UsersEstimate": 2797
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -4548,7 +4553,7 @@
       "Name": "Azorian Anniversary",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "UPGRADE_ALLSKILLSMAX",
@@ -4595,7 +4600,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 6658,
+      "Progressed": 6659,
       "Completed": 0
     }
   ],
@@ -4603,8 +4608,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-14T10:58:26.1451757+00:00",
-  "LastChanged_Achievements": "2023-10-15T10:05:20.8235118+00:00",
+  "LastChanged_Achievements": "2023-10-15T11:05:15.7185726+00:00",
   "LastUpdate_AppInfo": "2023-10-13T06:57:01.9287951+00:00",
-  "LastUpdate_Ratings": "2023-10-15T09:58:47.986314+00:00",
-  "LastUpdate_Achievements": "2023-10-15T10:05:20.8235694+00:00"
+  "LastUpdate_Ratings": "2023-10-15T10:58:49.2659478+00:00",
+  "LastUpdate_Achievements": "2023-10-15T11:05:15.7186619+00:00"
 }

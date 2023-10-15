@@ -379,9 +379,9 @@
       "ID": "A_STRANGE_SPRING",
       "SetID": "e4de54",
       "Name": "A strange spring",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "BAD_MUSICIAN",
@@ -403,9 +403,9 @@
       "ID": "BEVERAGE_OF_THE_GODS",
       "SetID": "e4de54",
       "Name": "Beverage of the gods",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "CAREFULNESS",
@@ -539,9 +539,9 @@
       "ID": "MINOTAUR_CULT",
       "SetID": "e4de54",
       "Name": "Minotaur cult",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "MINOTAUR_MENACE",
@@ -571,9 +571,9 @@
       "ID": "RED_HERRING",
       "SetID": "e4de54",
       "Name": "Red herring",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SELF_CONFIDENCE",
@@ -587,9 +587,9 @@
       "ID": "SPIDER",
       "SetID": "e4de54",
       "Name": "Spider",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "STEALTH_MASTER",
@@ -626,8 +626,8 @@
   ],
   "FirstSeen": "2023-07-24T20:59:19.8931718+00:00",
   "FirstSeenAchievements": "2023-07-14T20:01:12.8113065+00:00",
-  "LastChanged_Achievements": "2023-10-15T10:07:16.7912978+00:00",
+  "LastChanged_Achievements": "2023-10-15T11:07:13.8665454+00:00",
   "LastUpdate_AppInfo": "2023-10-14T02:57:13.3124151+00:00",
-  "LastUpdate_Ratings": "2023-10-15T10:00:19.8684968+00:00",
-  "LastUpdate_Achievements": "2023-10-15T10:07:16.7913328+00:00"
+  "LastUpdate_Ratings": "2023-10-15T11:00:19.7475912+00:00",
+  "LastUpdate_Achievements": "2023-10-15T11:07:13.8666011+00:00"
 }

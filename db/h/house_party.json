@@ -5971,9 +5971,9 @@
       "ID": "GoodRiddance",
       "SetID": "bmkn7o4",
       "Name": "Good Riddance!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 13
     },
     {
       "ID": "GrumpFu",
@@ -6353,8 +6353,8 @@
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-08-31T08:00:08.7899457+00:00",
-  "LastChanged_Achievements": "2023-10-15T10:09:57.1022703+00:00",
+  "LastChanged_Achievements": "2023-10-15T11:10:06.7263685+00:00",
   "LastUpdate_AppInfo": "2023-10-14T11:57:10.8821896+00:00",
-  "LastUpdate_Ratings": "2023-10-15T09:58:05.374468+00:00",
-  "LastUpdate_Achievements": "2023-10-15T10:09:57.1023825+00:00"
+  "LastUpdate_Ratings": "2023-10-15T10:58:03.0558725+00:00",
+  "LastUpdate_Achievements": "2023-10-15T11:10:06.7265174+00:00"
 }

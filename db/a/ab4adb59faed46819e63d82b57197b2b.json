@@ -455,9 +455,9 @@
       "ID": "KILL_BOSS_5",
       "SetID": "dcng643",
       "Name": "Fitless",
-      "Percentage": 13,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "KILL_BOSS_6",
@@ -774,8 +774,8 @@
   ],
   "FirstSeen": "2023-09-28T16:00:28.1613796+00:00",
   "FirstSeenAchievements": "2023-09-19T08:09:12.2865196+00:00",
-  "LastChanged_Achievements": "2023-10-15T10:07:09.9624939+00:00",
+  "LastChanged_Achievements": "2023-10-15T11:07:06.9784086+00:00",
   "LastUpdate_AppInfo": "2023-10-12T19:57:11.6358663+00:00",
-  "LastUpdate_Ratings": "2023-10-15T10:00:33.3584085+00:00",
-  "LastUpdate_Achievements": "2023-10-15T10:07:09.9625959+00:00"
+  "LastUpdate_Ratings": "2023-10-15T11:00:34.6788371+00:00",
+  "LastUpdate_Achievements": "2023-10-15T11:07:06.978495+00:00"
 }

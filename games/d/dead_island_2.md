@@ -5,20 +5,20 @@ Rating: 4.54 (Ranked 510)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 4.00% | ~27,841 |
-| Welcome To Hell-A | 4.00% | ~27,841 |
-| Dr. Reed, I Presume? | 3.00% | ~20,881 |
-| Git Gutte! | 3.00% | ~20,881 |
-| Bookworm | 3.00% | ~20,881 |
-| Break A Leg | 3.00% | ~20,881 |
-| But Doctor, I am Butcho | 3.00% | ~20,881 |
-| Coup de Grâce | 3.00% | ~20,881 |
-| Hazardous Materials | 3.00% | ~20,881 |
-| Friends Like These | 3.00% | ~20,881 |
-| Apex Predator | 3.00% | ~20,881 |
-| Stacking the Deck | 3.00% | ~20,881 |
-| Personal Assistant Personally Assisted | 3.00% | ~20,881 |
-| This is My Weapon | 3.00% | ~20,881 |
+| Hotel California | 4.00% | ~27,843 |
+| Welcome To Hell-A | 4.00% | ~27,843 |
+| Dr. Reed, I Presume? | 3.00% | ~20,882 |
+| Git Gutte! | 3.00% | ~20,882 |
+| Bookworm | 3.00% | ~20,882 |
+| Break A Leg | 3.00% | ~20,882 |
+| But Doctor, I am Butcho | 3.00% | ~20,882 |
+| Coup de Grâce | 3.00% | ~20,882 |
+| Hazardous Materials | 3.00% | ~20,882 |
+| Friends Like These | 3.00% | ~20,882 |
+| Apex Predator | 3.00% | ~20,882 |
+| Stacking the Deck | 3.00% | ~20,882 |
+| Personal Assistant Personally Assisted | 3.00% | ~20,882 |
+| This is My Weapon | 3.00% | ~20,882 |
 | Making Your Mark | 2.00% | ~13,921 |
 | Anger Management | 2.00% | ~13,921 |
 | Perks of the Job | 2.00% | ~13,921 |
@@ -32,13 +32,13 @@ Rating: 4.54 (Ranked 510)
 | Humanity Distilled | 2.00% | ~13,921 |
 | I Am the Resurrection | 2.00% | ~13,921 |
 | Our True Nature | 2.00% | ~13,921 |
-| Jumbo Keyring | 1.00% | ~6,960 |
-| Down with the Sickness | 1.00% | ~6,960 |
-| Max Headroom | 1.00% | ~6,960 |
-| Go, Bobcats! | 1.00% | ~6,960 |
-| Rising Star | 1.00% | ~6,960 |
-| Smorgasbord | 0.90% | ~6,264 |
-| Internet Famous | 0.80% | ~5,568 |
+| Jumbo Keyring | 1.00% | ~6,961 |
+| Down with the Sickness | 1.00% | ~6,961 |
+| Max Headroom | 1.00% | ~6,961 |
+| Go, Bobcats! | 1.00% | ~6,961 |
+| Rising Star | 1.00% | ~6,961 |
+| Smorgasbord | 0.90% | ~6,265 |
+| Internet Famous | 0.80% | ~5,569 |
 | On Safari | 0.70% | ~4,872 |
 | Not Even My Final Form | 0.70% | ~4,872 |
 | Variety is the Spice of Death | 0.70% | ~4,872 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 510)
 | Donk! | 0.20% | ~1,392 |
 | Bucket List | 0.10% | ~696 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 696,028 (Ranked 22)  
+Progressed: 696,063 (Ranked 22)  
 Completed: 2,225 (0.32%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,7 +229,7 @@ Completed: 2,225 (0.32%) (Ranked 200)
 | 2023-10-12 | 694,718 | 2,216 |
 | 2023-10-13 | 695,203 | 2,223 |
 | 2023-10-14 | 695,832 | 2,225 |
-| 2023-10-15 | 696,028 | 2,225 |
+| 2023-10-15 | 696,063 | 2,225 |
 ## Awards
 Max (Great Boss Battles): 6,442  (Ranked 57)  
 Sum: 9,630 (Ranked 91)  

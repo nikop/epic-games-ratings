@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 102,
-  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewPlayers": 344,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-05-12T16:00:00+00:00",
@@ -63,11 +63,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 324,
+  "EOS_Progressed": 325,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.47,
+  "EOS_Completed_Percentage": 2.46,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:34.4947976+00:00",
@@ -358,6 +358,11 @@
       "Time": "2023-10-02T12:05:34.5398509+00:00",
       "NumProgressed": 324,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-15T11:07:33.1024812+00:00",
+      "NumProgressed": 325,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 19,
@@ -401,7 +406,7 @@
       "Name": "The moth and the flame",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "achievement_05",
@@ -425,7 +430,7 @@
       "Name": "True magic doesn\u0027t exist",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "achievement_08",
@@ -441,7 +446,7 @@
       "Name": "Grau Hill",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "achievement_10",
@@ -449,7 +454,7 @@
       "Name": "The creature",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "achievement_11",
@@ -465,7 +470,7 @@
       "Name": "Lord Wesley",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "achievement_13",
@@ -473,15 +478,15 @@
       "Name": "One step down",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "achievement_14",
       "SetID": "7881h0d",
       "Name": "Lord Clayton",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 72
     },
     {
       "ID": "achievement_15",
@@ -489,7 +494,7 @@
       "Name": "My dear Magda",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "achievement_16",
@@ -503,9 +508,9 @@
       "ID": "achievement_17",
       "SetID": "7881h0d",
       "Name": "Little Mary",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 46
     },
     {
       "ID": "achievement_18",
@@ -520,7 +525,7 @@
     {
       "ID": "7881h0d",
       "IsBase": true,
-      "Progressed": 324,
+      "Progressed": 325,
       "Completed": 8
     }
   ],
@@ -528,8 +533,8 @@
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00",
   "LastChanged": "2023-03-31T05:57:59.5947046+00:00",
-  "LastChanged_Achievements": "2023-10-15T10:07:35.8696068+00:00",
+  "LastChanged_Achievements": "2023-10-15T11:07:33.1024804+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:31.9227805+00:00",
-  "LastUpdate_Ratings": "2023-10-15T09:57:32.7603461+00:00",
-  "LastUpdate_Achievements": "2023-10-15T10:07:35.869634+00:00"
+  "LastUpdate_Ratings": "2023-10-15T10:57:27.793378+00:00",
+  "LastUpdate_Achievements": "2023-10-15T11:07:33.1024982+00:00"
 }
