@@ -2,7 +2,7 @@
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 1 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 100.00% |
-| 3 | [The Riflemen](games/t/the_riflemen.md) | 49.49% |
+| 3 | [The Riflemen](games/t/the_riflemen.md) | 49.44% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.15% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.99% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
@@ -49,7 +49,7 @@
 | 47 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.41% |
 | 48 | [Time Loader](games/t/time_loader.md) | 7.20% |
 | 49 | [Scorn](games/s/scorn.md) | 7.02% |
-| 50 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.83% |
+| 50 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.80% |
 | 51 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.38% |
 | 52 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.29% |
 | 53 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -69,7 +69,7 @@
 | 67 | [ZZT!](games/z/zzt!.md) | 4.48% |
 | 68 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.45% |
 | 69 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.10% |
-| 70 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.05% |
+| 70 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.04% |
 | 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.01% |
 | 72 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.00% |
 | 73 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.82% |
@@ -120,7 +120,7 @@
 | 118 | [Frogun](games/f/frogun.md) | 1.79% |
 | 118 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 1.79% |
 | 120 | [Somerville](games/s/somerville.md) | 1.70% |
-| 121 | [Five Dates](games/f/five_dates.md) | 1.61% |
+| 121 | [Five Dates](games/f/five_dates.md) | 1.60% |
 | 122 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.49% |
 | 123 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
 | 124 | [Iron Danger](games/i/iron_danger.md) | 1.44% |
@@ -153,7 +153,7 @@
 | 151 | [Hades](games/h/hades.md) | 0.91% |
 | 152 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.85% |
 | 152 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
-| 154 | [Dungeons 3](games/d/dungeons_3.md) | 0.80% |
+| 154 | [Dungeons 3](games/d/dungeons_3.md) | 0.79% |
 | 155 | [Eternights](games/e/eternights.md) | 0.74% |
 | 156 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.72% |
 | 156 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.72% |
@@ -164,7 +164,7 @@
 | 162 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
 | 163 | [Potion Permit](games/p/potion_permit.md) | 0.62% |
 | 164 | [Haven](games/h/haven.md) | 0.61% |
-| 165 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.60% |
+| 165 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.59% |
 | 166 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.58% |
 | 166 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.58% |
 | 166 | [Grindstone](games/g/grindstone.md) | 0.58% |
