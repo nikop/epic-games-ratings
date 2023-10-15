@@ -1857,7 +1857,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14722,
+  "EOS_Progressed": 14723,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 0,
@@ -13927,6 +13927,11 @@
       "Time": "2023-10-15T16:08:31.4595634+00:00",
       "NumProgressed": 14722,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-15T17:07:15.6856639+00:00",
+      "NumProgressed": 14723,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -14314,7 +14319,7 @@
       "Name": "Drillmaster",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_BRILLIANT",
@@ -14402,7 +14407,7 @@
       "Name": "Great",
       "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_HOLY",
@@ -15282,7 +15287,7 @@
       "Name": "Colossus",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_GREAT_ZIGGURAT",
@@ -15370,7 +15375,7 @@
       "Name": "Musaeum",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_NECROPOLIS",
@@ -15384,9 +15389,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_ORACLE",
       "SetID": "9201eeb",
       "Name": "Oracle",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 294
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_PANTHEON",
@@ -15730,7 +15735,7 @@
       "Name": "Manichaeism",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_ASSYRIA",
@@ -16216,9 +16221,9 @@
       "ID": "ACHIEVEMENT_SACRED_PROFANE_CLERGY_COURT",
       "SetID": "9201eeb",
       "Name": "The Clergy",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 74
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_DEPOSE_TRIBE",
@@ -16673,21 +16678,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14722,
+      "Progressed": 14723,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14722,
+      "Progressed": 14723,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-14T19:03:24.424824+00:00",
-  "LastChanged_Achievements": "2023-10-15T16:08:31.459563+00:00",
+  "LastChanged_Achievements": "2023-10-15T17:07:15.6856629+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:21.7880328+00:00",
-  "LastUpdate_Ratings": "2023-10-15T16:03:15.1497359+00:00",
-  "LastUpdate_Achievements": "2023-10-15T16:08:31.4606037+00:00"
+  "LastUpdate_Ratings": "2023-10-15T17:03:06.6156117+00:00",
+  "LastUpdate_Achievements": "2023-10-15T17:07:15.6871567+00:00"
 }

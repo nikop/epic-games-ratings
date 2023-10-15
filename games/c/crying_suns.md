@@ -1,17 +1,17 @@
 # Crying Suns
 [Store](https://store.epicgames.com/en-US/p/crying-suns)  
 [View Rawdata](../../db/c/crying_suns.json)  
-Rating: 4.50 (Ranked 573)  
+Rating: 4.50 (Ranked 574)  
 Number of Ratings: 1,003  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~309,611 |
+| The Shutdown | 66.00% | ~309,613 |
 | Jeef Skeejj | 44.00% | ~206,408 |
-| Careful planning | 39.00% | ~182,952 |
+| Careful planning | 39.00% | ~182,953 |
 | Second Coming | 34.00% | ~159,497 |
-| Jeef Skagg | 30.00% | ~140,732 |
-| Mother | 25.00% | ~117,277 |
+| Jeef Skagg | 30.00% | ~140,733 |
+| Mother | 25.00% | ~117,278 |
 | In space, no one can hear you scream | 24.00% | ~112,586 |
 | Chapter I: Echoes | 22.00% | ~103,204 |
 | Excelsior Rule | 22.00% | ~103,204 |
@@ -31,24 +31,24 @@ Number of Ratings: 1,003  (23.09.2022)
 | Admiral Okonkwo | 7.00% | ~32,838 |
 | The Survivalists | 7.00% | ~32,838 |
 | The Tech Specialist | 7.00% | ~32,838 |
-| Chapter V: Memories of None | 6.00% | ~28,146 |
-| Meet your maker | 6.00% | ~28,146 |
-| The Impersonator | 6.00% | ~28,146 |
-| The Kid | 6.00% | ~28,146 |
-| The Evangelist | 6.00% | ~28,146 |
-| The Inquisitor | 6.00% | ~28,146 |
-| The Ace Pilot | 6.00% | ~28,146 |
-| The Tech Med | 6.00% | ~28,146 |
-| The Mech Soldier | 6.00% | ~28,146 |
-| The lucky charm | 6.00% | ~28,146 |
-| The Anonymous | 6.00% | ~28,146 |
-| The Smuggler | 6.00% | ~28,146 |
-| The Crazy Repairman | 6.00% | ~28,146 |
-| The Weasel | 6.00% | ~28,146 |
-| Kill the Doctor | 5.00% | ~23,455 |
-| Forsaken | 5.00% | ~23,455 |
-| Mercy | 5.00% | ~23,455 |
-| Jericho Rule | 5.00% | ~23,455 |
+| Chapter V: Memories of None | 6.00% | ~28,147 |
+| Meet your maker | 6.00% | ~28,147 |
+| The Impersonator | 6.00% | ~28,147 |
+| The Kid | 6.00% | ~28,147 |
+| The Evangelist | 6.00% | ~28,147 |
+| The Inquisitor | 6.00% | ~28,147 |
+| The Ace Pilot | 6.00% | ~28,147 |
+| The Tech Med | 6.00% | ~28,147 |
+| The Mech Soldier | 6.00% | ~28,147 |
+| The lucky charm | 6.00% | ~28,147 |
+| The Anonymous | 6.00% | ~28,147 |
+| The Smuggler | 6.00% | ~28,147 |
+| The Crazy Repairman | 6.00% | ~28,147 |
+| The Weasel | 6.00% | ~28,147 |
+| Kill the Doctor | 5.00% | ~23,456 |
+| Forsaken | 5.00% | ~23,456 |
+| Mercy | 5.00% | ~23,456 |
+| Jericho Rule | 5.00% | ~23,456 |
 | Geno Rule | 3.00% | ~14,073 |
 | Hammer Rule | 3.00% | ~14,073 |
 | Survivor | 2.00% | ~9,382 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~13 |
 | Kronos Rule | 0.10% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 469,108 (Ranked 37)  
+Progressed: 469,110 (Ranked 37)  
 Completed: 18 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 18 (0.00%) (Ranked 314)
 | 2023-10-12 | 468,947 | 18 |
 | 2023-10-13 | 469,009 | 18 |
 | 2023-10-14 | 469,067 | 18 |
-| 2023-10-15 | 469,108 | 18 |
+| 2023-10-15 | 469,110 | 18 |
 ## Awards
 Max (Character Customization): 221  (Ranked 269)  
 Sum: 242 (Ranked 369)  

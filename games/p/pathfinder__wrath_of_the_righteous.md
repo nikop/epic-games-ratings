@@ -13,7 +13,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Mythic Choices | 14.00% | ~1,614 |
 | Banner over the Citadel | 13.00% | ~1,499 |
 | Queen's Gratitude | 12.00% | ~1,384 |
-| Fifth Crusade | 8.00% | ~922 |
+| Fifth Crusade | 8.00% | ~923 |
 | Embrace of the Abyss | 6.00% | ~692 |
 | Path of the Angel | 6.00% | ~692 |
 | Demonic and Divine | 6.00% | ~692 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,531 (Ranked 144)  
+Progressed: 11,532 (Ranked 144)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,10 +301,10 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-10-12 | 11,516 | 0 |
 | 2023-10-13 | 11,521 | 0 |
 | 2023-10-14 | 11,529 | 0 |
-| 2023-10-15 | 11,531 | 0 |
+| 2023-10-15 | 11,532 | 0 |
 ## Awards
 Max (Character Customization): 1,723  (Ranked 119)  
-Sum: 6,988 (Ranked 116)  
+Sum: 6,989 (Ranked 116)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -315,7 +315,7 @@ Diff (max vs sum): 3
 | This game has Diverse Characters | 629 |
 | This game has Amazing Storytelling | 614 |
 | This game has Challenging Combat | 581 |
-| This game has Quickly Understood Controls | 573 |
+| This game has Quickly Understood Controls | 574 |
 | This game is Relaxing | 551 |
 | This game has a Creative Community | 388 |
 | This game has Obsessive Gameplay | 364 |
@@ -558,4 +558,4 @@ Diff (max vs sum): 3
 | 2023-10-11 | 4.76 | - | 1,721 | 6,982 |
 | 2023-10-12 | 4.76 | - | 1,723 | 6,984 |
 | 2023-10-14 | 4.76 | - | 1,723 | 6,987 |
-| 2023-10-15 | 4.76 | - | 1,723 | 6,988 |
+| 2023-10-15 | 4.76 | - | 1,723 | 6,989 |

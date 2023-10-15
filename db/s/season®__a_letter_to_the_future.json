@@ -4,8 +4,8 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 68,
-  "Ranking_EOS_NewPlayers": 250,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1282,
+  "EOS_Progressed": 1283,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 4.45,
+  "EOS_Completed_Percentage": 4.44,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:27.3083538+00:00",
@@ -2551,6 +2551,11 @@
       "Time": "2023-10-14T14:03:43.0710269+00:00",
       "NumProgressed": 1282,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-10-15T17:04:25.9512785+00:00",
+      "NumProgressed": 1283,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 16,
@@ -2584,9 +2589,9 @@
       "ID": "ACH_EMOTIONALBAGGAGEHANDLER",
       "SetID": "7pam6gn",
       "Name": "Emotional Baggage Handler",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 256
+      "UsersEstimate": 244
     },
     {
       "ID": "ACH_GOODBYETIENGVALLEY",
@@ -2610,7 +2615,7 @@
       "Name": "Grey Hands Praxis 101",
       "Percentage": 31,
       "XP": 90,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "ACH_HOMELEAVER",
@@ -2618,7 +2623,7 @@
       "Name": "Home Leaver",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 1051
+      "UsersEstimate": 1052
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -2626,7 +2631,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 1051
+      "UsersEstimate": 1052
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -2650,7 +2655,7 @@
       "Name": "Outside World Seer",
       "Percentage": 66,
       "XP": 40,
-      "UsersEstimate": 846
+      "UsersEstimate": 847
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -2658,7 +2663,7 @@
       "Name": "Shrine Arriver",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "ACH_STRANGERENCOUNTERER",
@@ -2689,7 +2694,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1282,
+      "Progressed": 1283,
       "Completed": 57
     }
   ],
@@ -2697,8 +2702,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-10-15T16:04:22.0176368+00:00",
+  "LastChanged_Achievements": "2023-10-15T17:04:25.9512778+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:05.0474751+00:00",
-  "LastUpdate_Ratings": "2023-10-15T15:57:21.0227251+00:00",
-  "LastUpdate_Achievements": "2023-10-15T16:04:22.0176571+00:00"
+  "LastUpdate_Ratings": "2023-10-15T16:57:26.6297309+00:00",
+  "LastUpdate_Achievements": "2023-10-15T17:04:25.9513149+00:00"
 }

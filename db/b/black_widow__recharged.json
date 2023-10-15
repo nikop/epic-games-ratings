@@ -2,7 +2,7 @@
   "ID": "a25444fc25e9498781983b58ceba30c5",
   "Name": "Black Widow: Recharged",
   "ProductSlug": "black-widow-recharged",
-  "Ranking_Rating": 871,
+  "Ranking_Rating": 872,
   "Ranking_Popularity": 536,
   "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 127,
@@ -160,7 +160,7 @@
   "Tags": [],
   "EOS_Progressed": 18828,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -14677,8 +14677,8 @@
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-10-11T19:57:53.043932+00:00",
-  "LastChanged_Achievements": "2023-10-15T16:05:03.6236673+00:00",
+  "LastChanged_Achievements": "2023-10-15T17:05:07.6877415+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:14.5085638+00:00",
-  "LastUpdate_Ratings": "2023-10-15T15:59:06.3187873+00:00",
-  "LastUpdate_Achievements": "2023-10-15T16:05:03.6237433+00:00"
+  "LastUpdate_Ratings": "2023-10-15T16:59:12.6948969+00:00",
+  "LastUpdate_Achievements": "2023-10-15T17:05:07.6878516+00:00"
 }

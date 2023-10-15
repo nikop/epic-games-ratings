@@ -19,21 +19,21 @@ Rating: 4.64 (Ranked 321)
 | Hardest Battle In The Game | 0.80% | ~194 |
 | Who's The Boss? | 0.80% | ~194 |
 | Self-Actualization | 0.70% | ~170 |
+| Spent 15 Hours At The Alien Strip Club | 0.70% | ~170 |
 | Bathe With A Giant Nude Alien | 0.70% | ~11 |
 | Lezduit! | 0.60% | ~145 |
 | Legendary Bounty Hunter | 0.60% | ~145 |
 | Fallout Doesn't Let You Do This | 0.60% | ~145 |
-| Spent 15 Hours At The Alien Strip Club | 0.60% | ~145 |
 | Series Wrap on Suit-O | 0.60% | ~145 |
 | Eatin' Good in the Neighborhood | 0.50% | ~121 |
 | We Came, We Chainsaw, We Conquered | 0.50% | ~8 |
 | Eye Scream, You Scream | 0.40% | ~97 |
 | Mux Ado About Shipping | 0.40% | ~6 |
+| Fall In Love With A Parasite | 0.30% | ~5 |
 | Sequel-Bait | 0.20% | ~48 |
 | Gunning For Your Job | 0.20% | ~48 |
 | We Paid For The Rights To Put A Whole Movie In Here | 0.20% | ~48 |
 | Playing Favorites | 0.20% | ~48 |
-| Fall In Love With A Parasite | 0.20% | ~3 |
 | Epic Legendary Prize | 0.10% | ~24 |
 | Playing Card To Get | 0.10% | ~24 |
 | Mods Please Ban | 0.10% | ~24 |

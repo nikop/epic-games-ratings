@@ -26,7 +26,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 667,
+  "EOS_Progressed": 669,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
@@ -1781,6 +1781,11 @@
       "Time": "2023-10-15T16:05:03.3038187+00:00",
       "NumProgressed": 667,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-15T17:05:07.3929109+00:00",
+      "NumProgressed": 669,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -1857,7 +1862,7 @@
       "Name": "\u0022Gonk? Gonk!\u0022",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "achievement_18",
@@ -1865,7 +1870,7 @@
       "Name": "The power of the Force",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "achievement_19",
@@ -1985,7 +1990,7 @@
       "Name": "Scrap collector",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "achievement_32",
@@ -2009,7 +2014,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "achievement_35",
@@ -2017,7 +2022,7 @@
       "Name": "New Recruit",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 607
+      "UsersEstimate": 609
     },
     {
       "ID": "achievement_36",
@@ -2033,7 +2038,7 @@
       "Name": "Off to a good start",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_38",
@@ -2057,15 +2062,15 @@
       "Name": "I suggest a new strategy",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "achievement_40",
       "SetID": "271ol84",
       "Name": "Do... or do not. There is no try",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 354
+      "UsersEstimate": 348
     },
     {
       "ID": "achievement_41",
@@ -2073,7 +2078,7 @@
       "Name": "Judge me by my size, do you?",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "achievement_42",
@@ -2095,9 +2100,9 @@
       "ID": "achievement_44",
       "SetID": "cemm4l8",
       "Name": "A good blaster at your side",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 227
+      "UsersEstimate": 221
     },
     {
       "ID": "achievement_45",
@@ -2143,9 +2148,9 @@
       "ID": "achievement_5",
       "SetID": "271ol84",
       "Name": "Shoot first",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 120
+      "UsersEstimate": 114
     },
     {
       "ID": "achievement_50",
@@ -2296,13 +2301,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 667,
+      "Progressed": 669,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 667,
+      "Progressed": 669,
       "Completed": 1
     }
   ],
@@ -2310,8 +2315,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-15T16:05:03.3038183+00:00",
+  "LastChanged_Achievements": "2023-10-15T17:05:07.3929104+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:22.846224+00:00",
-  "LastUpdate_Ratings": "2023-10-15T16:03:18.1558729+00:00",
-  "LastUpdate_Achievements": "2023-10-15T16:05:03.3038809+00:00"
+  "LastUpdate_Ratings": "2023-10-15T17:03:09.6148959+00:00",
+  "LastUpdate_Achievements": "2023-10-15T17:05:07.3930302+00:00"
 }

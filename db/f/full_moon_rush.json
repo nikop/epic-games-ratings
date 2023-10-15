@@ -4,7 +4,7 @@
   "ProductSlug": "full-moon-rush-15f674",
   "Ranking_EOS_Progress": 616,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewPlayers": 400,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-07-25T17:00:00+00:00",
@@ -187,8 +187,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-12T15:07:27.1076682+00:00",
-  "LastChanged_Achievements": "2023-10-15T16:04:51.1867456+00:00",
+  "LastChanged_Achievements": "2023-10-15T17:04:54.956326+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:17.1296399+00:00",
-  "LastUpdate_Ratings": "2023-10-15T15:59:11.6769403+00:00",
-  "LastUpdate_Achievements": "2023-10-15T16:04:51.1867573+00:00"
+  "LastUpdate_Ratings": "2023-10-15T16:59:17.2033532+00:00",
+  "LastUpdate_Achievements": "2023-10-15T17:04:54.9563413+00:00"
 }

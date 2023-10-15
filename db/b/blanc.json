@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2805,
+  "EOS_Progressed": 2806,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -3708,6 +3708,11 @@
       "Time": "2023-10-15T16:03:39.0950959+00:00",
       "NumProgressed": 2805,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-15T17:03:32.2456745+00:00",
+      "NumProgressed": 2806,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -3751,7 +3756,7 @@
       "Name": "The will to move on",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "REUNION",
@@ -3807,7 +3812,7 @@
       "Name": "Transmission",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "UNEXPECTED_ENCOUNTER",
@@ -3822,7 +3827,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2805,
+      "Progressed": 2806,
       "Completed": 6
     }
   ],
@@ -3830,8 +3835,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-10-15T16:03:39.0950956+00:00",
+  "LastChanged_Achievements": "2023-10-15T17:03:32.2456731+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:51.2813216+00:00",
-  "LastUpdate_Ratings": "2023-10-15T15:58:24.8390087+00:00",
-  "LastUpdate_Achievements": "2023-10-15T16:03:39.0951204+00:00"
+  "LastUpdate_Ratings": "2023-10-15T16:58:32.4344726+00:00",
+  "LastUpdate_Achievements": "2023-10-15T17:03:32.2457286+00:00"
 }

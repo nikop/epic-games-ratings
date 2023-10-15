@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 50,
   "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -17,11 +17,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 295,
+  "EOS_Progressed": 296,
   "EOS_Completed": 20,
   "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 6.78,
+  "EOS_Completed_Percentage": 6.76,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1382,6 +1382,11 @@
       "Time": "2023-10-15T15:04:11.3322208+00:00",
       "NumProgressed": 295,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-10-15T17:04:08.7752024+00:00",
+      "NumProgressed": 296,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 25,
@@ -1511,9 +1516,9 @@
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 30
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -1543,9 +1548,9 @@
       "ID": "PROGRESS_HALF_RUNES",
       "SetID": "2gma9an",
       "Name": "Scholar",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 27
     },
     {
       "ID": "PROGRESS_N1",
@@ -1559,9 +1564,9 @@
       "ID": "PROGRESS_N2",
       "SetID": "2gma9an",
       "Name": "The great escape",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 33
     },
     {
       "ID": "PROGRESS_N3",
@@ -1575,9 +1580,9 @@
       "ID": "PROGRESS_N4",
       "SetID": "2gma9an",
       "Name": "The darkness",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 60,
-      "UsersEstimate": 21
+      "UsersEstimate": 24
     },
     {
       "ID": "PROGRESS_N5",
@@ -1592,14 +1597,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 295,
+      "Progressed": 296,
       "Completed": 20
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-15T16:04:05.5522379+00:00",
+  "LastChanged_Achievements": "2023-10-15T17:04:08.7752018+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:19.4856723+00:00",
-  "LastUpdate_Ratings": "2023-10-15T15:57:42.5791361+00:00",
-  "LastUpdate_Achievements": "2023-10-15T16:04:05.5522596+00:00"
+  "LastUpdate_Ratings": "2023-10-15T16:57:45.8680811+00:00",
+  "LastUpdate_Achievements": "2023-10-15T17:04:08.775232+00:00"
 }

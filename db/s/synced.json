@@ -666,9 +666,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 63240,
+  "EOS_Progressed": 63253,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 1212,
+  "EOS_NewPlayers": 1210,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5261,6 +5261,11 @@
       "Time": "2023-10-15T16:09:37.2484038+00:00",
       "NumProgressed": 63240,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-10-15T17:09:10.2043781+00:00",
+      "NumProgressed": 63253,
+      "NumCompleted": 17
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -5273,7 +5278,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 18972
+      "UsersEstimate": 18976
     },
     {
       "ID": "10",
@@ -5281,7 +5286,7 @@
       "Name": "fifteenth Time\u0027s the Charm",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "11",
@@ -5289,7 +5294,7 @@
       "Name": "Pulling Your Weight",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1897
+      "UsersEstimate": 1898
     },
     {
       "ID": "12",
@@ -5297,7 +5302,7 @@
       "Name": "Reaping Rivals",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1897
+      "UsersEstimate": 1898
     },
     {
       "ID": "13",
@@ -5313,7 +5318,7 @@
       "Name": "Nano Connoisseur",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 3794
+      "UsersEstimate": 3795
     },
     {
       "ID": "15",
@@ -5337,7 +5342,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 10118
+      "UsersEstimate": 10120
     },
     {
       "ID": "3",
@@ -5345,7 +5350,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 7589
+      "UsersEstimate": 7590
     },
     {
       "ID": "4",
@@ -5353,7 +5358,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6324
+      "UsersEstimate": 6325
     },
     {
       "ID": "5",
@@ -5361,7 +5366,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 5059
+      "UsersEstimate": 5060
     },
     {
       "ID": "6",
@@ -5369,7 +5374,7 @@
       "Name": "In Two Places At Once",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 3794
+      "UsersEstimate": 3795
     },
     {
       "ID": "7",
@@ -5385,7 +5390,7 @@
       "Name": "Runs for Your Money",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "9",
@@ -5393,14 +5398,14 @@
       "Name": "Past Master",
       "Percentage": 0.2,
       "XP": 200,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     }
   ],
   "AchievementSets": [
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 63240,
+      "Progressed": 63253,
       "Completed": 17
     }
   ],
@@ -5408,8 +5413,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-10-15T12:02:59.1559644+00:00",
-  "LastChanged_Achievements": "2023-10-15T16:09:37.2484035+00:00",
+  "LastChanged_Achievements": "2023-10-15T17:09:10.2043749+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:34.3906075+00:00",
-  "LastUpdate_Ratings": "2023-10-15T16:02:51.5313286+00:00",
-  "LastUpdate_Achievements": "2023-10-15T16:09:37.248432+00:00"
+  "LastUpdate_Ratings": "2023-10-15T17:02:10.2388278+00:00",
+  "LastUpdate_Achievements": "2023-10-15T17:09:10.2044377+00:00"
 }
