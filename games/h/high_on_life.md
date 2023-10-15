@@ -18,10 +18,10 @@ Rating: 4.64 (Ranked 321)
 | We're All Very Impressed, Trust Me | 0.80% | ~194 |
 | Hardest Battle In The Game | 0.80% | ~194 |
 | Who's The Boss? | 0.80% | ~194 |
+| Self-Actualization | 0.70% | ~170 |
 | Bathe With A Giant Nude Alien | 0.70% | ~11 |
 | Lezduit! | 0.60% | ~145 |
 | Legendary Bounty Hunter | 0.60% | ~145 |
-| Self-Actualization | 0.60% | ~145 |
 | Fallout Doesn't Let You Do This | 0.60% | ~145 |
 | Spent 15 Hours At The Alien Strip Club | 0.60% | ~145 |
 | Series Wrap on Suit-O | 0.60% | ~145 |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 321)
 | It's Like The Santa Clause | 0.10% | ~2 |
 | That's B.A.L.L., Folks | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,228 (Ranked 119)  
+Progressed: 24,229 (Ranked 119)  
 Completed: 13 (0.05%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 13 (0.05%) (Ranked 271)
 | 2023-10-12 | 24,200 | 13 |
 | 2023-10-13 | 24,212 | 13 |
 | 2023-10-14 | 24,225 | 13 |
-| 2023-10-15 | 24,228 | 13 |
+| 2023-10-15 | 24,229 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

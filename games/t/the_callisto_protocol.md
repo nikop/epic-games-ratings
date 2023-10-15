@@ -24,7 +24,7 @@ Rating: 4.19 (Ranked 891)
 | Crash Site | 4.00% | ~640 |
 | Full Circle | 4.00% | ~640 |
 | Power Up | 4.00% | ~640 |
-| It's Time | 4.00% | ~157 |
+| It's Time | 4.00% | ~158 |
 | Giving Back | 3.00% | ~480 |
 | Terminated | 3.00% | ~480 |
 | Desperate Times | 3.00% | ~480 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 891)
 | Hoard Mode | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,011 (Ranked 133)  
+Progressed: 16,012 (Ranked 133)  
 Completed: 74 (0.46%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 74 (0.46%) (Ranked 178)
 | 2023-10-12 | 16,004 | 74 |
 | 2023-10-13 | 16,009 | 74 |
 | 2023-10-14 | 16,010 | 74 |
-| 2023-10-15 | 16,011 | 74 |
+| 2023-10-15 | 16,012 | 74 |
 ## Awards
 Max (Amazing Storytelling): 76  (Ranked 380)  
 Sum: 445 (Ranked 323)  

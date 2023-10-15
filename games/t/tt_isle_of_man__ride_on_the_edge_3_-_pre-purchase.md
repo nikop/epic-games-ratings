@@ -13,7 +13,7 @@
 | Highly Qualified | 10.00% | ~15 |
 | Start Your Engines | 10.00% | ~15 |
 | No Room for Improvement | 9.00% | ~14 |
-| Lone Wolf | 8.00% | ~12 |
+| Lone Wolf | 9.00% | ~14 |
 | Nerd | 6.00% | ~9 |
 | Playing God | 6.00% | ~9 |
 | First and Foremost | 5.00% | ~8 |

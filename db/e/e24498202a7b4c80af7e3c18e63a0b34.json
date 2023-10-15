@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
     "PcReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -90,7 +90,7 @@
   "Tags": [],
   "EOS_Progressed": 6144,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 330,
+  "EOS_NewPlayers": 323,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -3453,9 +3453,9 @@
       "ID": "achievement_01_01_arcadeFTUX",
       "SetID": "4f1m94d",
       "Name": "First of Many",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 5222
+      "UsersEstimate": 5284
     },
     {
       "ID": "achievement_01_02",
@@ -3469,9 +3469,9 @@
       "ID": "achievement_01_03",
       "SetID": "4f1m94d",
       "Name": "Brand New Ride",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3748
+      "UsersEstimate": 3809
     },
     {
       "ID": "achievement_01_04",
@@ -3701,9 +3701,9 @@
       "ID": "achievement_04_03",
       "SetID": "4f1m94d",
       "Name": "Consolation Trophy",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 3011
+      "UsersEstimate": 3072
     },
     {
       "ID": "achievement_04_04",
@@ -3766,8 +3766,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-10-15T01:47:00.4126107+00:00",
-  "LastChanged_Achievements": "2023-10-15T15:06:41.4658416+00:00",
+  "LastChanged_Achievements": "2023-10-15T16:06:18.5009342+00:00",
   "LastUpdate_AppInfo": "2023-10-12T18:57:03.8112557+00:00",
-  "LastUpdate_Ratings": "2023-10-15T15:01:18.8921269+00:00",
-  "LastUpdate_Achievements": "2023-10-15T15:06:41.465893+00:00"
+  "LastUpdate_Ratings": "2023-10-15T16:00:37.9343259+00:00",
+  "LastUpdate_Achievements": "2023-10-15T16:06:18.5009728+00:00"
 }

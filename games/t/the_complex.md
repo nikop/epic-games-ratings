@@ -18,7 +18,7 @@
 | Kindar Surprise | 19.00% | ~108 |
 | MVP - Most Vanishing Person | 15.00% | ~86 |
 | Deadly Secret | 14.00% | ~80 |
-| Get Out Of This Alive | 10.00% | ~57 |
+| Get Out Of This Alive | 11.00% | ~63 |
 | The Promise | 10.00% | ~57 |
 | People Pleaser | 9.00% | ~51 |
 | The Nano Glitches And The Martyr | 8.00% | ~46 |

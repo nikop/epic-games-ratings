@@ -6,31 +6,31 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 39.00% | ~24,701 |
-| Landlord | 33.00% | ~20,901 |
-| Bannerlord | 23.00% | ~14,567 |
-| Horde breaker | 23.00% | ~14,567 |
-| Lawmaker | 23.00% | ~14,567 |
-| Trained | 23.00% | ~14,567 |
-| The king is pleased | 19.00% | ~12,034 |
-| King Solomon | 17.00% | ~10,767 |
+| Lawbringer | 39.00% | ~24,703 |
+| Landlord | 33.00% | ~20,902 |
+| Bannerlord | 23.00% | ~14,568 |
+| Horde breaker | 23.00% | ~14,568 |
+| Lawmaker | 23.00% | ~14,568 |
+| Trained | 23.00% | ~14,568 |
+| The king is pleased | 19.00% | ~12,035 |
+| King Solomon | 17.00% | ~10,768 |
 | I can do it | 16.00% | ~10,134 |
-| Apple of my eye | 15.00% | ~9,500 |
+| Apple of my eye | 15.00% | ~9,501 |
 | God of the Arena | 13.00% | ~8,234 |
-| Against all odds | 12.00% | ~7,600 |
-| This Is Our Land | 12.00% | ~7,600 |
+| Against all odds | 12.00% | ~7,601 |
+| This Is Our Land | 12.00% | ~7,601 |
 | Duelist | 10.00% | ~6,334 |
 | Dynasty | 10.00% | ~6,334 |
 | Swordbearer | 10.00% | ~6,334 |
 | What have the Romans ever done for us? | 10.00% | ~6,334 |
-| I spit on your grave | 9.00% | ~5,700 |
+| I spit on your grave | 9.00% | ~5,701 |
 | Butterlord | 8.00% | ~5,067 |
-| Know your enemy | 7.00% | ~4,433 |
-| Mastery | 7.00% | ~4,433 |
+| Know your enemy | 7.00% | ~4,434 |
+| Mastery | 7.00% | ~4,434 |
 | Crowdfunded | 5.00% | ~3,167 |
 | Crush your enemies | 5.00% | ~3,167 |
 | My way | 5.00% | ~3,167 |
-| Veni vidi vici | 4.00% | ~2,533 |
+| Veni vidi vici | 4.00% | ~2,534 |
 | Freedom! | 3.00% | ~1,900 |
 | Long live the Empire! | 3.00% | ~1,900 |
 | Real Estate | 3.00% | ~1,900 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,335 (Ranked 97)  
+Progressed: 63,340 (Ranked 97)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-10-12 | 63,156 | 0 |
 | 2023-10-13 | 63,204 | 0 |
 | 2023-10-14 | 63,287 | 0 |
-| 2023-10-15 | 63,335 | 0 |
+| 2023-10-15 | 63,340 | 0 |
 ## Awards
 Max (Character Customization): 7,233  (Ranked 52)  
 Sum: 14,877 (Ranked 66)  

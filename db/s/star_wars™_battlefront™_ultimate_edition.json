@@ -4,8 +4,8 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 665,
+  "EOS_Progressed": 667,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1776,6 +1776,11 @@
       "Time": "2023-10-15T15:05:21.5819483+00:00",
       "NumProgressed": 665,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-15T16:05:03.3038187+00:00",
+      "NumProgressed": 667,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -1794,7 +1799,7 @@
       "ID": "achievement_10",
       "SetID": "271ol84",
       "Name": "That got him!",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 40,
       "UsersEstimate": 3
     },
@@ -1810,7 +1815,7 @@
       "ID": "achievement_12",
       "SetID": "271ol84",
       "Name": "Stay on target",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -1884,7 +1889,7 @@
       "Name": "Collector",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "achievement_21",
@@ -1914,7 +1919,7 @@
       "ID": "achievement_24",
       "SetID": "271ol84",
       "Name": "Don\u0027t get cocky",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -1932,7 +1937,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "achievement_27",
@@ -1946,7 +1951,7 @@
       "ID": "achievement_28",
       "SetID": "271ol84",
       "Name": "Master",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 55,
       "UsersEstimate": 3
     },
@@ -1964,7 +1969,7 @@
       "Name": "Never tell me the odds!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "achievement_30",
@@ -2012,7 +2017,7 @@
       "Name": "New Recruit",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 605
+      "UsersEstimate": 607
     },
     {
       "ID": "achievement_36",
@@ -2028,7 +2033,7 @@
       "Name": "Off to a good start",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 452
+      "UsersEstimate": 454
     },
     {
       "ID": "achievement_38",
@@ -2060,7 +2065,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 352
+      "UsersEstimate": 354
     },
     {
       "ID": "achievement_41",
@@ -2092,7 +2097,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "achievement_45",
@@ -2114,7 +2119,7 @@
       "ID": "achievement_47",
       "SetID": "cemm4l8",
       "Name": "Greed can be a very powerful ally",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 60,
       "UsersEstimate": 3
     },
@@ -2228,7 +2233,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "achievement_60",
@@ -2268,7 +2273,7 @@
       "Name": "A cunning warrior",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "achievement_8",
@@ -2282,7 +2287,7 @@
       "ID": "achievement_9",
       "SetID": "271ol84",
       "Name": "Crush them with one swift stroke\u2026",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 15,
       "UsersEstimate": 1
     }
@@ -2291,13 +2296,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 665,
+      "Progressed": 667,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 665,
+      "Progressed": 667,
       "Completed": 1
     }
   ],
@@ -2305,8 +2310,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-15T15:05:21.5819479+00:00",
+  "LastChanged_Achievements": "2023-10-15T16:05:03.3038183+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:22.846224+00:00",
-  "LastUpdate_Ratings": "2023-10-15T15:03:13.9143818+00:00",
-  "LastUpdate_Achievements": "2023-10-15T15:05:21.582031+00:00"
+  "LastUpdate_Ratings": "2023-10-15T16:03:18.1558729+00:00",
+  "LastUpdate_Achievements": "2023-10-15T16:05:03.3038809+00:00"
 }

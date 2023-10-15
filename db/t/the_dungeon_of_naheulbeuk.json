@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1164,9 +1164,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 231029,
+  "EOS_Progressed": 231039,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1487,
+  "EOS_NewPlayers": 1476,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14799,6 +14799,11 @@
       "Time": "2023-10-15T15:08:21.6941939+00:00",
       "NumProgressed": 231029,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-15T16:08:44.3677716+00:00",
+      "NumProgressed": 231039,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 88,
@@ -14832,9 +14837,9 @@
       "ID": "BarbarianEpic",
       "SetID": "50chcgj",
       "Name": "Shiny and Cr\u00F4m",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2310
+      "UsersEstimate": 4621
     },
     {
       "ID": "BarbarianKillUsingBow",
@@ -14858,7 +14863,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11551
+      "UsersEstimate": 11552
     },
     {
       "ID": "Chapter2",
@@ -15242,7 +15247,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9241
+      "UsersEstimate": 9242
     },
     {
       "ID": "ElfEpic",
@@ -15258,7 +15263,7 @@
       "Name": "Sowwy!",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 76240
+      "UsersEstimate": 76243
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -15458,7 +15463,7 @@
       "Name": "Speedrun",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9241
+      "UsersEstimate": 9242
     },
     {
       "ID": "SupportCount4",
@@ -15513,21 +15518,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 231029,
+      "Progressed": 231039,
       "Completed": 5
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 231029,
+      "Progressed": 231039,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-10-14T21:02:26.6505379+00:00",
-  "LastChanged_Achievements": "2023-10-15T15:08:21.6941934+00:00",
+  "LastChanged_Achievements": "2023-10-15T16:08:44.3677711+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:06.1366459+00:00",
-  "LastUpdate_Ratings": "2023-10-15T14:57:11.004439+00:00",
-  "LastUpdate_Achievements": "2023-10-15T15:08:21.694356+00:00"
+  "LastUpdate_Ratings": "2023-10-15T15:57:13.5558971+00:00",
+  "LastUpdate_Achievements": "2023-10-15T16:08:44.3679159+00:00"
 }

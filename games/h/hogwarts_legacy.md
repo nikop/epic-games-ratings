@@ -5,7 +5,7 @@ Rating: 4.76 (Ranked 118)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 15.00% | ~44,758 |
+| The Sort Who Makes an Entrance | 15.00% | ~44,759 |
 | First Class Student | 13.00% | ~38,791 |
 | Troll with the Punches | 13.00% | ~38,791 |
 | A Keen Sense of Spell | 12.00% | ~35,807 |
@@ -26,12 +26,12 @@ Rating: 4.76 (Ranked 118)
 | Beast Friends | 8.00% | ~23,871 |
 | A Sallow Grave | 8.00% | ~23,871 |
 | Flight the Good Flight | 8.00% | ~23,871 |
-| The Seeker of Knowledge | 6.00% | ~17,903 |
-| The Root of the Problem | 6.00% | ~17,903 |
-| Third Time's a Charm | 6.00% | ~17,903 |
-| Raising Expectations | 6.00% | ~17,903 |
-| The Toast of the Town | 5.00% | ~14,919 |
-| The Ends Petrify the Means | 5.00% | ~14,919 |
+| The Seeker of Knowledge | 6.00% | ~17,904 |
+| The Root of the Problem | 6.00% | ~17,904 |
+| Third Time's a Charm | 6.00% | ~17,904 |
+| Raising Expectations | 6.00% | ~17,904 |
+| The Toast of the Town | 5.00% | ~14,920 |
+| The Ends Petrify the Means | 5.00% | ~14,920 |
 | Going Through the Potions | 4.00% | ~11,936 |
 | Room with a View | 4.00% | ~11,936 |
 | The Intrepid Explorer | 4.00% | ~11,936 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 118)
 | The Nature of the Beast | 0.70% | ~2,089 |
 | Collector's Edition | 0.30% | ~895 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,389 (Ranked 47)  
+Progressed: 298,393 (Ranked 47)  
 Completed: 487 (0.16%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,7 +229,7 @@ Completed: 487 (0.16%) (Ranked 230)
 | 2023-10-12 | 298,217 | 485 |
 | 2023-10-13 | 298,257 | 485 |
 | 2023-10-14 | 298,337 | 487 |
-| 2023-10-15 | 298,389 | 487 |
+| 2023-10-15 | 298,393 | 487 |
 ## Awards
 Max (Character Customization): 23,517  (Ranked 17)  
 Sum: 45,887 (Ranked 30)  

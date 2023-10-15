@@ -6,17 +6,18 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 33.00% | ~76,240 |
+| Sowwy! | 33.00% | ~76,243 |
 | Where's that freaking Dwarf? | 6.00% | ~13,862 |
 | Alt+F4 | 6.00% | ~13,862 |
-| Déjà vu | 5.00% | ~11,551 |
-| Sock! SOCK! | 4.00% | ~9,241 |
-| Speedrun | 4.00% | ~9,241 |
+| Déjà vu | 5.00% | ~11,552 |
+| Sock! SOCK! | 4.00% | ~9,242 |
+| Speedrun | 4.00% | ~9,242 |
 | A beer, two curses, three companions | 3.00% | ~6,931 |
 | GG EZ | 3.00% | ~6,931 |
 | DM intervention | 3.00% | ~6,931 |
 | Fireproof Wizardess | 3.00% | ~6,931 |
 | Livin' in a dwarven paradise | 2.00% | ~4,621 |
+| Shiny and Crôm | 2.00% | ~4,621 |
 | Way of the Wimp | 2.00% | ~4,621 |
 | The plot thickens... At the tavern | 2.00% | ~4,621 |
 | The demons' feast | 2.00% | ~4,621 |
@@ -31,7 +32,6 @@ Number of Ratings: 118  (23.09.2022)
 | I am the night | 2.00% | ~4,621 |
 | Team Building Exercise | 2.00% | ~4,621 |
 | Oh, when I'll be level 10... | 2.00% | ~4,621 |
-| Shiny and Crôm | 1.00% | ~2,310 |
 | Res Judicata | 1.00% | ~2,310 |
 | The Famous Dungeon of Naheulbeuk | 1.00% | ~2,310 |
 | Dwarf Fortress | 1.00% | ~2,310 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~231 |
 | Dwarf Candy | 0.10% | ~231 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,029 (Ranked 60)  
+Progressed: 231,039 (Ranked 60)  
 Completed: 5 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,7 +232,7 @@ Completed: 5 (0.00%) (Ranked 314)
 | 2023-10-12 | 230,376 | 5 |
 | 2023-10-13 | 230,591 | 5 |
 | 2023-10-14 | 230,860 | 5 |
-| 2023-10-15 | 231,029 | 5 |
+| 2023-10-15 | 231,039 | 5 |
 ## Awards
 Max (Character Customization): 216  (Ranked 273)  
 Sum: 426 (Ranked 325)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -38,7 +38,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7182,
+  "EOS_Progressed": 7183,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 189,
   "EOS_NewCompleters": 0,
@@ -4183,6 +4183,11 @@
       "Time": "2023-10-15T14:09:40.2699528+00:00",
       "NumProgressed": 7182,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-15T16:09:39.4804354+00:00",
+      "NumProgressed": 7183,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -4315,7 +4320,7 @@
       "Name": "Played a Match",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 2298
+      "UsersEstimate": 2299
     },
     {
       "ID": "GamesPlayed10",
@@ -4603,7 +4608,7 @@
       "Name": "Purchased Nuke Ultimate",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1006
     },
     {
       "ID": "NeutralKills200",
@@ -4786,7 +4791,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 7182,
+      "Progressed": 7183,
       "Completed": 1
     }
   ],
@@ -4794,8 +4799,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-09-28T09:00:22.5097709+00:00",
-  "LastChanged_Achievements": "2023-10-15T15:09:25.2434141+00:00",
+  "LastChanged_Achievements": "2023-10-15T16:09:39.4804349+00:00",
   "LastUpdate_AppInfo": "2023-10-10T10:57:15.6695599+00:00",
-  "LastUpdate_Ratings": "2023-10-15T15:00:44.7154564+00:00",
-  "LastUpdate_Achievements": "2023-10-15T15:09:25.2435202+00:00"
+  "LastUpdate_Ratings": "2023-10-15T16:00:08.7751427+00:00",
+  "LastUpdate_Achievements": "2023-10-15T16:09:39.4805199+00:00"
 }

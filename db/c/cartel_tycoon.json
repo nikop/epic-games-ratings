@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -288,7 +288,7 @@
   "Tags": [],
   "EOS_Progressed": 628,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -2051,9 +2051,9 @@
       "ID": "kill-lieutenants",
       "SetID": "bed33dd",
       "Name": "Spreading Fear",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 63
     },
     {
       "ID": "pack-and-sell",
@@ -2155,8 +2155,8 @@
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-09-23T20:57:48.080138+00:00",
-  "LastChanged_Achievements": "2023-10-15T15:08:14.9230839+00:00",
+  "LastChanged_Achievements": "2023-10-15T16:08:37.97661+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:47.5072549+00:00",
-  "LastUpdate_Ratings": "2023-10-15T14:58:33.0809298+00:00",
-  "LastUpdate_Achievements": "2023-10-15T15:08:14.923111+00:00"
+  "LastUpdate_Ratings": "2023-10-15T15:58:20.1604048+00:00",
+  "LastUpdate_Achievements": "2023-10-15T16:08:37.9766355+00:00"
 }

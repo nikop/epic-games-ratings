@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 460,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 296,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-09-01T10:00:00+00:00",
     "PcReleaseDate": "2021-03-04T18:00:00+00:00",
@@ -405,9 +405,9 @@
       "ID": "SmallAirfield",
       "SetID": "d11cl5p",
       "Name": "Small airfield",
-      "Percentage": 62,
+      "Percentage": 65,
       "XP": 25,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "TakeMeToYourHeaven",
@@ -421,9 +421,9 @@
       "ID": "TakingOff",
       "SetID": "d11cl5p",
       "Name": "Taking off",
-      "Percentage": 78,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "TheAirportCEO",
@@ -500,8 +500,8 @@
   ],
   "FirstSeen": "2023-09-02T13:02:28.4911547+00:00",
   "FirstSeenAchievements": "2023-07-27T10:02:52.8790419+00:00",
-  "LastChanged_Achievements": "2023-10-15T15:03:24.1706988+00:00",
+  "LastChanged_Achievements": "2023-10-15T16:03:26.7986516+00:00",
   "LastUpdate_AppInfo": "2023-10-11T15:57:05.906412+00:00",
-  "LastUpdate_Ratings": "2023-10-15T14:59:57.3388752+00:00",
-  "LastUpdate_Achievements": "2023-10-15T15:03:24.1707281+00:00"
+  "LastUpdate_Ratings": "2023-10-15T15:59:28.793985+00:00",
+  "LastUpdate_Achievements": "2023-10-15T16:03:26.7986905+00:00"
 }

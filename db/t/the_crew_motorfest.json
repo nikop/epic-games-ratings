@@ -2,13 +2,13 @@
   "ID": "9533b9db84274b15886caa464445a975",
   "Name": "The Crew\u2122 Motorfest Standard Edition",
   "ProductSlug": "the-crew-motorfest",
-  "Ranking_Rating": 262,
+  "Ranking_Rating": 281,
   "Ranking_Popularity": 260,
   "Ranking_PopularitySum": 212,
   "Ranking_EOS_Progress": 670,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 398,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-09-14T08:00:00+00:00",
     "PcReleaseDate": "2023-09-14T08:00:00+00:00",
@@ -17,7 +17,7 @@
       "isPrepurchase": "true"
     }
   },
-  "Rating": 4.67,
+  "Rating": 4.66,
   "RatingHistory": [
     {
       "Time": "2023-09-15T10:57:58.1384791+00:00",
@@ -1146,6 +1146,12 @@
       "Rating": 4.67,
       "NumberOfAwards": 1718,
       "NumberOfAwardsMax": 253
+    },
+    {
+      "Time": "2023-10-15T16:00:26.1437624+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 1718,
+      "NumberOfAwardsMax": 253
     }
   ],
   "ReviewsDisabled": false,
@@ -1232,8 +1238,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-14T08:57:08.1529881+00:00",
   "FirstSeenRating": "2023-09-15T10:57:58.1384789+00:00",
-  "LastChanged": "2023-10-15T13:04:15.2310696+00:00",
+  "LastChanged": "2023-10-15T16:00:26.1437622+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:40.8631424+00:00",
-  "LastUpdate_Ratings": "2023-10-15T15:01:09.5844594+00:00",
-  "LastUpdate_Achievements": "2023-10-15T15:04:41.3861953+00:00"
+  "LastUpdate_Ratings": "2023-10-15T16:00:26.1437627+00:00",
+  "LastUpdate_Achievements": "2023-10-15T16:04:29.910845+00:00"
 }

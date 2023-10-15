@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 168,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3110,9 +3110,9 @@
       "Count": 322
     }
   ],
-  "EOS_Progressed": 16928,
+  "EOS_Progressed": 16929,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -12045,6 +12045,11 @@
       "Time": "2023-10-15T15:06:57.5916181+00:00",
       "NumProgressed": 16928,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-10-15T16:06:31.5850482+00:00",
+      "NumProgressed": 16929,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 50,
@@ -12088,7 +12093,7 @@
       "Name": "Beaver Utopia",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "HarpyUtopia",
@@ -12104,7 +12109,7 @@
       "Name": "Human Utopia",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "LizardUtopia",
@@ -12455,15 +12460,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 16928,
+      "Progressed": 16929,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-10-15T11:59:20.8404524+00:00",
-  "LastChanged_Achievements": "2023-10-15T15:06:57.5916177+00:00",
+  "LastChanged_Achievements": "2023-10-15T16:06:31.5850477+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:53.7787195+00:00",
-  "LastUpdate_Ratings": "2023-10-15T14:58:44.8090264+00:00",
-  "LastUpdate_Achievements": "2023-10-15T15:06:57.591717+00:00"
+  "LastUpdate_Ratings": "2023-10-15T15:58:28.1903941+00:00",
+  "LastUpdate_Achievements": "2023-10-15T16:06:31.5851154+00:00"
 }

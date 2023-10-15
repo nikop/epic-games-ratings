@@ -3,12 +3,12 @@
   "Name": "Aliens: Dark Descent",
   "ProductSlug": "aliens-dark-descent",
   "Ranking_Rating": 607,
-  "Ranking_Popularity": 473,
+  "Ranking_Popularity": 470,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -334,23 +334,29 @@
       "Rating": 4.48,
       "NumberOfAwards": 31,
       "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2023-10-15T16:00:18.7159648+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 32,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31,
-  "NumberOfAwardsMax": 31,
+  "NumberOfAwards": 32,
+  "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 31
+      "Count": 32
     }
   ],
   "EOS_Progressed": 3479,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -5540,9 +5546,9 @@
   "FirstSeen": "2023-06-20T02:04:43.7723421+00:00",
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
-  "LastChanged": "2023-10-12T17:00:05.6617832+00:00",
-  "LastChanged_Achievements": "2023-10-15T15:08:22.9439955+00:00",
+  "LastChanged": "2023-10-15T16:00:18.7159647+00:00",
+  "LastChanged_Achievements": "2023-10-15T16:08:45.2502821+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:37.7365418+00:00",
-  "LastUpdate_Ratings": "2023-10-15T15:01:00.9811642+00:00",
-  "LastUpdate_Achievements": "2023-10-15T15:08:22.9440628+00:00"
+  "LastUpdate_Ratings": "2023-10-15T16:00:18.7159651+00:00",
+  "LastUpdate_Achievements": "2023-10-15T16:08:45.250336+00:00"
 }
