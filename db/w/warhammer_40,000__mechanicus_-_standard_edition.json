@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -703,10 +703,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 2167,
       "NumberOfAwardsMax": 286
+    },
+    {
+      "Time": "2023-10-15T03:02:20.0713533+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 2168,
+      "NumberOfAwardsMax": 286
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2167,
+  "NumberOfAwards": 2168,
   "NumberOfAwardsMax": 286,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -744,7 +750,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 266
+      "Count": 267
     },
     {
       "Text": "This game has Unique Visuals",
@@ -771,9 +777,9 @@
       "Count": 98
     }
   ],
-  "EOS_Progressed": 224773,
+  "EOS_Progressed": 224776,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 557,
+  "EOS_NewPlayers": 559,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20121,6 +20127,11 @@
       "Time": "2023-10-15T02:25:29.3456971+00:00",
       "NumProgressed": 224773,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-15T03:05:46.2235737+00:00",
+      "NumProgressed": 224776,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -20140,7 +20151,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 58441
+      "UsersEstimate": 58442
     },
     {
       "ID": "ACH_BASE_11",
@@ -20180,7 +20191,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 22477
+      "UsersEstimate": 22478
     },
     {
       "ID": "ACH_BASE_17",
@@ -20204,7 +20215,7 @@
       "Name": "Battle Servitor",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4495
+      "UsersEstimate": 4496
     },
     {
       "ID": "ACH_BASE_2",
@@ -20212,7 +20223,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13486
+      "UsersEstimate": 13487
     },
     {
       "ID": "ACH_BASE_20",
@@ -20228,7 +20239,7 @@
       "Name": "Ding Dong Szaregon\u0027s Gone",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4495
+      "UsersEstimate": 4496
     },
     {
       "ID": "ACH_BASE_22",
@@ -20236,7 +20247,7 @@
       "Name": "Impatient destruction",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 4495
+      "UsersEstimate": 4496
     },
     {
       "ID": "ACH_BASE_23",
@@ -20364,7 +20375,7 @@
       "Name": "Vivisected Vizier",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4495
+      "UsersEstimate": 4496
     },
     {
       "ID": "ACH_BASE_6",
@@ -20372,7 +20383,7 @@
       "Name": "Architect Abortion",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4495
+      "UsersEstimate": 4496
     },
     {
       "ID": "ACH_BASE_7",
@@ -20403,16 +20414,16 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 224773,
+      "Progressed": 224776,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-08-11T20:31:05.9094892+00:00",
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
-  "LastChanged": "2023-10-14T08:01:17.5187128+00:00",
-  "LastChanged_Achievements": "2023-10-15T02:25:29.3456964+00:00",
+  "LastChanged": "2023-10-15T03:02:20.0713531+00:00",
+  "LastChanged_Achievements": "2023-10-15T03:05:46.2235724+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:01.3902355+00:00",
-  "LastUpdate_Ratings": "2023-10-15T02:22:09.0398599+00:00",
-  "LastUpdate_Achievements": "2023-10-15T02:25:29.3459458+00:00"
+  "LastUpdate_Ratings": "2023-10-15T03:02:20.0713564+00:00",
+  "LastUpdate_Achievements": "2023-10-15T03:05:46.2238274+00:00"
 }

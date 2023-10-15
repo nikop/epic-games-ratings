@@ -5,25 +5,25 @@ Rating: 4.43 (Ranked 673)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~58,441 |
+| No aid from the Omnissiah | 26.00% | ~58,442 |
 | This is only the beginning | 19.00% | ~42,707 |
 | Knowledge is power | 12.00% | ~26,973 |
-| Galvanic Rifle | 10.00% | ~22,477 |
+| Galvanic Rifle | 10.00% | ~22,478 |
 | Power Ranger | 9.00% | ~20,230 |
 | Taser Goad | 9.00% | ~20,230 |
 | Radium Ready | 9.00% | ~20,230 |
 | Half a cog | 9.00% | ~20,230 |
-| Watch them crumble | 6.00% | ~13,486 |
+| Watch them crumble | 6.00% | ~13,487 |
 | Competent Cohort | 4.00% | ~8,991 |
 | Celestial Cartography Catastrophe | 4.00% | ~8,991 |
 | One with the Machine | 4.00% | ~8,991 |
 | Legio Cybernetica | 3.00% | ~6,743 |
 | Fleshy Disposal | 3.00% | ~6,743 |
-| Battle Servitor | 2.00% | ~4,495 |
-| Ding Dong Szaregon's Gone | 2.00% | ~4,495 |
-| Impatient destruction | 2.00% | ~4,495 |
-| Vivisected Vizier | 2.00% | ~4,495 |
-| Architect Abortion | 2.00% | ~4,495 |
+| Battle Servitor | 2.00% | ~4,496 |
+| Ding Dong Szaregon's Gone | 2.00% | ~4,496 |
+| Impatient destruction | 2.00% | ~4,496 |
+| Vivisected Vizier | 2.00% | ~4,496 |
+| Architect Abortion | 2.00% | ~4,496 |
 | Cohortus Maximus | 0.80% | ~1,798 |
 | Mother of Xenarites | 0.40% | ~899 |
 | False God | 0.30% | ~674 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 673)
 | Perma-live | 0.10% | ~225 |
 | Purge the Heretek | 0.10% | ~225 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,773 (Ranked 62)  
+Progressed: 224,776 (Ranked 62)  
 Completed: 5 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,17 +218,17 @@ Completed: 5 (0.00%) (Ranked 314)
 | 2023-10-12 | 224,582 | 5 |
 | 2023-10-13 | 224,666 | 5 |
 | 2023-10-14 | 224,760 | 5 |
-| 2023-10-15 | 224,773 | 5 |
+| 2023-10-15 | 224,776 | 5 |
 ## Awards
 Max (Highly Recommended): 286  (Ranked 247)  
-Sum: 2,167 (Ranked 198)  
+Sum: 2,168 (Ranked 198)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 286 |
 | This game has Quickly Understood Controls | 279 |
 | This game is Extremely Fun | 276 |
-| This game has Diverse Characters | 266 |
+| This game has Diverse Characters | 267 |
 | This game has Amazing Characters | 263 |
 | This game has Amazing Storytelling | 246 |
 | This game is Relaxing | 242 |
@@ -314,3 +314,4 @@ Diff (max vs sum): 49
 | 2023-10-12 | 4.43 | 286 | 2,165 |
 | 2023-10-13 | 4.43 | 286 | 2,166 |
 | 2023-10-14 | 4.43 | 286 | 2,167 |
+| 2023-10-15 | 4.43 | 286 | 2,168 |

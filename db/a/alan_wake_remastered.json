@@ -524,9 +524,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 67996,
+  "EOS_Progressed": 67997,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 712,
+  "EOS_NewPlayers": 711,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -18049,6 +18049,11 @@
       "Time": "2023-10-15T02:28:48.6385771+00:00",
       "NumProgressed": 67996,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-10-15T03:09:13.0118992+00:00",
+      "NumProgressed": 67997,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 67,
@@ -18060,7 +18065,7 @@
       "Name": "Follow the Light",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 29238
+      "UsersEstimate": 29239
     },
     {
       "ID": "02",
@@ -18108,7 +18113,7 @@
       "Name": "Heavy Metal",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9519
+      "UsersEstimate": 9520
     },
     {
       "ID": "08",
@@ -18116,7 +18121,7 @@
       "Name": "Iron Horse",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9519
+      "UsersEstimate": 9520
     },
     {
       "ID": "09",
@@ -18124,7 +18129,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10879
+      "UsersEstimate": 10880
     },
     {
       "ID": "10",
@@ -18148,7 +18153,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9519
+      "UsersEstimate": 9520
     },
     {
       "ID": "13",
@@ -18220,7 +18225,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10879
+      "UsersEstimate": 10880
     },
     {
       "ID": "22",
@@ -18228,7 +18233,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 10199
+      "UsersEstimate": 10200
     },
     {
       "ID": "23",
@@ -18244,7 +18249,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8839
+      "UsersEstimate": 8840
     },
     {
       "ID": "25",
@@ -18260,7 +18265,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8839
+      "UsersEstimate": 8840
     },
     {
       "ID": "27",
@@ -18268,7 +18273,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 10199
+      "UsersEstimate": 10200
     },
     {
       "ID": "28",
@@ -18276,7 +18281,7 @@
       "Name": "Come One, Come All",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9519
+      "UsersEstimate": 9520
     },
     {
       "ID": "29",
@@ -18468,7 +18473,7 @@
       "Name": "A Friend Indeed",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2202
+      "UsersEstimate": 2203
     },
     {
       "ID": "53",
@@ -18595,21 +18600,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 67996,
+      "Progressed": 67997,
       "Completed": 69
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 31464,
+      "Progressed": 31465,
       "Completed": 56
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-09-26T11:01:48.1926095+00:00",
-  "LastChanged_Achievements": "2023-10-15T02:28:48.6385763+00:00",
+  "LastChanged_Achievements": "2023-10-15T03:09:13.0118985+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:29.5404552+00:00",
-  "LastUpdate_Ratings": "2023-10-15T02:21:24.504652+00:00",
-  "LastUpdate_Achievements": "2023-10-15T02:28:48.6389216+00:00"
+  "LastUpdate_Ratings": "2023-10-15T03:01:47.9928772+00:00",
+  "LastUpdate_Achievements": "2023-10-15T03:09:13.0122046+00:00"
 }

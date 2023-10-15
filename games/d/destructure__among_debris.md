@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Graduation | 79.00% | ~137 |
-| You Have Been Deaded | 75.00% | ~130 |
+| You Have Been Deaded | 76.00% | ~131 |
 | Rookie | 68.00% | ~118 |
 | Apprentice Destructor | 29.00% | ~50 |
 | I Prefer Jazz Fusion | 12.00% | ~21 |

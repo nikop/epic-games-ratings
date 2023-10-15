@@ -75,8 +75,8 @@
 | Suicide Mission | 27.00% | ~187 |
 | Against All Odds | 27.00% | ~187 |
 | Untouchable | 26.00% | ~180 |
+| Eye of the Hurricane | 26.00% | ~180 |
 | A House Divided | 26.00% | ~180 |
-| Eye of the Hurricane | 25.00% | ~173 |
 | Giant Killer | 25.00% | ~173 |
 | Weapon Specialist | 25.00% | ~173 |
 | Liberator | 25.00% | ~173 |
@@ -88,9 +88,9 @@
 | Lost and Found | 22.00% | ~152 |
 | Paramour II | 21.00% | ~146 |
 | Party Crasher | 21.00% | ~146 |
+| Pyromaniac | 20.00% | ~139 |
 | No One Left Behind | 20.00% | ~139 |
 | Problem Solver | 20.00% | ~139 |
-| Pyromaniac | 19.00% | ~132 |
 | Under Pressure | 19.00% | ~132 |
 | Hard Target | 19.00% | ~132 |
 | Saboteur | 19.00% | ~132 |
@@ -98,8 +98,8 @@
 | Electronics Specialist | 18.00% | ~125 |
 | Sabotage Specialist | 18.00% | ~125 |
 | Last Witness | 18.00% | ~125 |
+| Well Connected | 18.00% | ~125 |
 | Last Resort | 17.00% | ~118 |
-| Well Connected | 17.00% | ~118 |
 | Throw Mastery | 16.00% | ~111 |
 | Master and Commander | 16.00% | ~111 |
 | Executioner | 15.00% | ~104 |

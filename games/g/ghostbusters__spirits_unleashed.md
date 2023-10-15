@@ -6,6 +6,7 @@ Rating: 4.50 (Ranked 573)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Advancement | 2.00% | ~529 |
+| Discovery | 2.00% | ~529 |
 | Meticulously Efficient | 2.00% | ~529 |
 | Stylish | 2.00% | ~529 |
 | Animated | 1.00% | ~265 |
@@ -13,7 +14,6 @@ Rating: 4.50 (Ranked 573)
 | Clutch Capture | 1.00% | ~265 |
 | I collect Spores, Molds, and Fungi | 1.00% | ~265 |
 | Cultured | 1.00% | ~265 |
-| Discovery | 1.00% | ~265 |
 | Fully Upgraded | 1.00% | ~265 |
 | Icing on the Cake | 1.00% | ~265 |
 | Solo Capture | 1.00% | ~265 |

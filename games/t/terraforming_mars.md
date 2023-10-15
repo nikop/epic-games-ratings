@@ -30,14 +30,14 @@ Number of Ratings: 2,731  (23.09.2022)
 | Most Achievements | 11.00% | ~8,697 |
 | Spirit | 10.00% | ~7,906 |
 | Ultimate success | 10.00% | ~7,906 |
-| Variety Expert | 9.00% | ~7,115 |
+| Variety Expert | 9.00% | ~7,116 |
 | Frequent tester | 8.00% | ~6,325 |
 | Determined | 8.00% | ~6,325 |
 | Terraformer | 4.00% | ~3,162 |
 | Team Effort | 3.00% | ~2,372 |
 | Opportunity | 3.00% | ~2,372 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79,061 (Ranked 88)  
+Progressed: 79,062 (Ranked 88)  
 Completed: 142 (0.18%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,7 +215,7 @@ Completed: 142 (0.18%) (Ranked 227)
 | 2023-10-12 | 78,822 | 142 |
 | 2023-10-13 | 78,921 | 142 |
 | 2023-10-14 | 79,049 | 142 |
-| 2023-10-15 | 79,061 | 142 |
+| 2023-10-15 | 79,062 | 142 |
 ## Awards
 Max (Relaxing): 520  (Ranked 201)  
 Sum: 3,195 (Ranked 167)  

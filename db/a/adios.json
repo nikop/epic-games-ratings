@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 86,
+  "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -114,9 +114,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 75837,
+  "EOS_Progressed": 75838,
   "EOS_Completed": 797,
-  "EOS_NewPlayers": 574,
+  "EOS_NewPlayers": 571,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -19924,6 +19924,11 @@
       "Time": "2023-10-15T02:24:17.7888693+00:00",
       "NumProgressed": 75837,
       "NumCompleted": 797
+    },
+    {
+      "Time": "2023-10-15T03:04:45.9411478+00:00",
+      "NumProgressed": 75838,
+      "NumCompleted": 797
     }
   ],
   "TotalAchievements": 25,
@@ -19983,7 +19988,7 @@
       "Name": "Butcher",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 3033
+      "UsersEstimate": 3034
     },
     {
       "ID": "Cut Call",
@@ -20007,7 +20012,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 15167
+      "UsersEstimate": 15168
     },
     {
       "ID": "Hearty",
@@ -20103,7 +20108,7 @@
       "Name": "Spicy",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 3033
+      "UsersEstimate": 3034
     },
     {
       "ID": "Taco Toto",
@@ -20134,7 +20139,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 75837,
+      "Progressed": 75838,
       "Completed": 797
     }
   ],
@@ -20142,8 +20147,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-10-15T02:24:17.7888683+00:00",
+  "LastChanged_Achievements": "2023-10-15T03:04:45.9411472+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:21.8706974+00:00",
-  "LastUpdate_Ratings": "2023-10-15T02:19:23.7239599+00:00",
-  "LastUpdate_Achievements": "2023-10-15T02:24:17.7890934+00:00"
+  "LastUpdate_Ratings": "2023-10-15T03:00:01.7770693+00:00",
+  "LastUpdate_Achievements": "2023-10-15T03:04:45.9413883+00:00"
 }

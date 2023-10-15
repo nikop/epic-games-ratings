@@ -6,9 +6,9 @@
 | ---- | ---------- | ----- |
 | Noctuan Champion | 33.00% | ~18 |
 | Eridanian Champion | 29.00% | ~16 |
+| Lacertian Champion | 29.00% | ~16 |
 | Endless Tricks | 27.00% | ~15 |
 | Apian Champion | 27.00% | ~15 |
-| Lacertian Champion | 27.00% | ~15 |
 | Dicesmithing Time! | 25.00% | ~14 |
 | Meissa's Savior | 25.00% | ~14 |
 | Sanctuary Guardian | 25.00% | ~14 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2414,7 +2414,7 @@
   ],
   "EOS_Progressed": 26471,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 195,
+  "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -15089,9 +15089,9 @@
       "ID": "Discovery",
       "SetID": "819popo",
       "Name": "Discovery",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 265
+      "UsersEstimate": 529
     },
     {
       "ID": "Dont_Need_These",
@@ -15418,8 +15418,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-14T22:59:06.5892297+00:00",
-  "LastChanged_Achievements": "2023-10-15T02:26:01.8431358+00:00",
+  "LastChanged_Achievements": "2023-10-15T03:06:23.7301646+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:17.9420656+00:00",
-  "LastUpdate_Ratings": "2023-10-15T02:18:08.827873+00:00",
-  "LastUpdate_Achievements": "2023-10-15T02:26:01.8432804+00:00"
+  "LastUpdate_Ratings": "2023-10-15T02:58:49.0020361+00:00",
+  "LastUpdate_Achievements": "2023-10-15T03:06:23.7303731+00:00"
 }

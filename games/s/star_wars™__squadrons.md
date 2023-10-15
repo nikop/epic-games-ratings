@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~10,157 |
-| A Better Idea | 25.00% | ~2,673 |
-| Safety in the Storm | 24.00% | ~2,566 |
-| Begin the Ceremony | 20.00% | ~2,138 |
-| Mission Accomplished | 20.00% | ~2,138 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~1,604 |
-| A Starfighter of Your Own | 14.00% | ~1,497 |
-| Asset Secured | 13.00% | ~1,390 |
-| Unkillable | 8.00% | ~855 |
-| The Galaxy's Finest (Pilot) | 7.00% | ~748 |
-| Sound Strategy | 7.00% | ~748 |
-| Together, Vanguard | 7.00% | ~748 |
+| Fracture at Fostar Haven | 95.00% | ~10,172 |
+| A Better Idea | 25.00% | ~2,677 |
+| Safety in the Storm | 24.00% | ~2,570 |
+| Begin the Ceremony | 20.00% | ~2,141 |
+| Mission Accomplished | 20.00% | ~2,141 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~1,606 |
+| A Starfighter of Your Own | 14.00% | ~1,499 |
+| Asset Secured | 13.00% | ~1,392 |
+| Unkillable | 8.00% | ~857 |
+| The Galaxy's Finest (Pilot) | 7.00% | ~749 |
+| Sound Strategy | 7.00% | ~749 |
+| Together, Vanguard | 7.00% | ~749 |
 | Stomped | 6.00% | ~642 |
 | Fearless | 5.00% | ~535 |
 | Flames Over Mon Cala | 5.00% | ~535 |
@@ -35,8 +35,8 @@
 | Denied | 0.90% | ~96 |
 | Found Your Place | 0.80% | ~86 |
 | Unstoppable Ace | 0.60% | ~64 |
-| Seasoned Star Pilot | 0.50% | ~53 |
-| Special Modifications | 0.50% | ~53 |
+| Seasoned Star Pilot | 0.50% | ~54 |
+| Special Modifications | 0.50% | ~54 |
 | Victory for the New Republic | 0.40% | ~43 |
 | Victory for the Empire | 0.40% | ~43 |
 | Heavy Hitter | 0.40% | ~43 |
@@ -52,7 +52,7 @@
 | Fully Decorated | 0.10% | ~11 |
 | The Galaxy's Finest (Ace) | 0.10% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,692 (Ranked 146)  
+Progressed: 10,707 (Ranked 146)  
 Completed: 1 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 1 (0.01%) (Ranked 296)
 | 2023-10-12 | 9,727 | 1 |
 | 2023-10-13 | 10,105 | 1 |
 | 2023-10-14 | 10,633 | 1 |
-| 2023-10-15 | 10,692 | 1 |
+| 2023-10-15 | 10,707 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

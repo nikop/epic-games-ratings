@@ -6,14 +6,14 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Hunt | 1.00% | ~1,522 |
-| Taste | 1.00% | ~1,522 |
-| Weeper | 1.00% | ~1,522 |
-| Imprint | 1.00% | ~1,522 |
-| Ravenous | 1.00% | ~1,522 |
+| The Hunt | 1.00% | ~1,523 |
+| Taste | 1.00% | ~1,523 |
+| Weeper | 1.00% | ~1,523 |
+| Imprint | 1.00% | ~1,523 |
+| Ravenous | 1.00% | ~1,523 |
 | Devourer | 0.70% | ~1,066 |
-| Harmless | 0.60% | ~913 |
-| Silenced Whispers | 0.60% | ~913 |
+| Harmless | 0.60% | ~914 |
+| Silenced Whispers | 0.60% | ~914 |
 | Scion | 0.50% | ~759 |
 | Jawcrab | 0.50% | ~761 |
 | Jawstag | 0.50% | ~761 |
@@ -25,16 +25,16 @@ Number of Ratings: 46  (23.09.2022)
 | Watcher | 0.40% | ~609 |
 | Assimilation | 0.30% | ~457 |
 | Hunt Down | 0.30% | ~457 |
-| Host | 0.30% | ~455 |
+| Host | 0.30% | ~456 |
 | Celebration | 0.30% | ~457 |
 | Predator | 0.30% | ~457 |
-| Breath | 0.20% | ~304 |
-| Artisan | 0.20% | ~304 |
-| Hush | 0.20% | ~304 |
-| Inevitable | 0.20% | ~304 |
-| All-Seeing | 0.20% | ~304 |
-| Breathsmith | 0.20% | ~304 |
-| Passage | 0.20% | ~304 |
+| Breath | 0.20% | ~305 |
+| Artisan | 0.20% | ~305 |
+| Hush | 0.20% | ~305 |
+| Inevitable | 0.20% | ~305 |
+| All-Seeing | 0.20% | ~305 |
+| Breathsmith | 0.20% | ~305 |
+| Passage | 0.20% | ~305 |
 | Dream | 0.20% | ~304 |
 | Spiral Heart | 0.10% | ~152 |
 | Bloodhunter | 0.10% | ~152 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~152 |
 | Intensify | 0.10% | ~152 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 152,245 (Ranked 71)  
+Progressed: 152,253 (Ranked 71)  
 Completed: 1 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,7 +208,7 @@ Completed: 1 (0.00%) (Ranked 314)
 | 2023-10-12 | 151,679 | 1 |
 | 2023-10-13 | 151,932 | 1 |
 | 2023-10-14 | 152,214 | 1 |
-| 2023-10-15 | 152,245 | 1 |
+| 2023-10-15 | 152,253 | 1 |
 ## Awards
 Max (Highly Recommended): 44  (Ranked 433)  
 Sum: 287 (Ranked 354)  

@@ -632,7 +632,7 @@
       "Count": 343
     }
   ],
-  "EOS_Progressed": 674234,
+  "EOS_Progressed": 674247,
   "EOS_Completed": 73,
   "EOS_NewPlayers": 2778,
   "EOS_NewCompleters": 2,
@@ -20747,6 +20747,11 @@
       "Time": "2023-10-15T02:28:31.237467+00:00",
       "NumProgressed": 674234,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-10-15T03:08:38.6093666+00:00",
+      "NumProgressed": 674247,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 52,
@@ -20758,7 +20763,7 @@
       "Name": "1000 KILLS",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 53939
+      "UsersEstimate": 53940
     },
     {
       "ID": "100_KILLS KILLS (0-100)",
@@ -20766,7 +20771,7 @@
       "Name": "100 KILLS",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 202270
+      "UsersEstimate": 202274
     },
     {
       "ID": "200_HEADSHOTS HEADSHOTS (0-200)",
@@ -20774,7 +20779,7 @@
       "Name": "200 HEADSHOTS",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 114620
+      "UsersEstimate": 114622
     },
     {
       "ID": "50_HEADSHOTS HEADSHOTS (0-50)",
@@ -20782,7 +20787,7 @@
       "Name": "50 HEADSHOTS",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 188786
+      "UsersEstimate": 188789
     },
     {
       "ID": "BIGUPS",
@@ -20822,7 +20827,7 @@
       "Name": "FINISHED CHAPTER 1",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 175301
+      "UsersEstimate": 175304
     },
     {
       "ID": "CHAPTER2",
@@ -20830,7 +20835,7 @@
       "Name": "FINISHED CHAPTER 2",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 128104
+      "UsersEstimate": 128107
     },
     {
       "ID": "CHAPTER3",
@@ -20838,7 +20843,7 @@
       "Name": "FINISHED CHAPTER 3",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 107877
+      "UsersEstimate": 107880
     },
     {
       "ID": "CHAPTER4",
@@ -20846,7 +20851,7 @@
       "Name": "FINISHED CHAPTER 4",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 94393
+      "UsersEstimate": 94395
     },
     {
       "ID": "CHAPTER5",
@@ -20854,7 +20859,7 @@
       "Name": "FINISH CHAPTER 5",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 74166
+      "UsersEstimate": 74167
     },
     {
       "ID": "CHAPTER6",
@@ -20862,7 +20867,7 @@
       "Name": "FINISH CHAPTER 6",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 67423
+      "UsersEstimate": 67425
     },
     {
       "ID": "CHURCH",
@@ -20886,7 +20891,7 @@
       "Name": "CATHARTIC ESCAPISM",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 67423
+      "UsersEstimate": 67425
     },
     {
       "ID": "FIREFIGHT10 LEVEL (0-10)",
@@ -20894,7 +20899,7 @@
       "Name": "FIREFIGHT LEVEL 10",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 26969
+      "UsersEstimate": 26970
     },
     {
       "ID": "FIREFIGHT20 LEVEL (0-20)",
@@ -21134,7 +21139,7 @@
       "Name": "SCIENCE AND INDUSTRY",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 182043
+      "UsersEstimate": 182047
     },
     {
       "ID": "SOUL",
@@ -21173,7 +21178,7 @@
     {
       "ID": "1pi2inm",
       "IsBase": true,
-      "Progressed": 674234,
+      "Progressed": 674247,
       "Completed": 73
     }
   ],
@@ -21181,8 +21186,8 @@
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
   "LastChanged": "2023-10-15T01:43:32.5726838+00:00",
-  "LastChanged_Achievements": "2023-10-15T02:28:31.2374663+00:00",
+  "LastChanged_Achievements": "2023-10-15T03:08:38.6093659+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:06.4803296+00:00",
-  "LastUpdate_Ratings": "2023-10-15T02:16:11.6638579+00:00",
-  "LastUpdate_Achievements": "2023-10-15T02:28:31.2377546+00:00"
+  "LastUpdate_Ratings": "2023-10-15T02:57:12.7654047+00:00",
+  "LastUpdate_Achievements": "2023-10-15T03:08:38.6096561+00:00"
 }

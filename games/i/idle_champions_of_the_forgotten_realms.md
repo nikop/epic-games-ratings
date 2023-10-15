@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 950)  
+Rating: 4.06 (Ranked 949)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,6 +10,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Foul Play | 0.30% | ~594 |
 | Beast Intentions | 0.20% | ~464 |
 | The Cursed Farmer | 0.20% | ~464 |
+| The Mad Wizard | 0.20% | ~464 |
 | The Jungles of Doomspace | 0.20% | ~396 |
 | The Arena of Blood | 0.20% | ~396 |
 | Spelljammers in Training | 0.20% | ~396 |
@@ -403,7 +404,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Enemy Summit | 0.10% | ~198 |
 | Mirage Arcane | 0.10% | ~198 |
 | Only Human | 0.10% | ~198 |
-| The Mad Wizard | 0.10% | ~232 |
 | Close Escort | 0.10% | ~232 |
 | Constant Banditry | 0.10% | ~232 |
 | The Long Haul | 0.10% | ~232 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fowl Play | 0.10% | ~198 |
 | Time Out | 0.10% | ~198 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,872 (Ranked 58)  
+Progressed: 231,873 (Ranked 58)  
 Completed: 2,361 (1.02%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -713,7 +713,7 @@ Completed: 2,361 (1.02%) (Ranked 145)
 | 2023-10-12 | 231,654 | 2,355 |
 | 2023-10-13 | 231,754 | 2,358 |
 | 2023-10-14 | 231,864 | 2,361 |
-| 2023-10-15 | 231,872 | 2,361 |
+| 2023-10-15 | 231,873 | 2,361 |
 ## Awards
 Max (Great for Beginners): 5,404  (Ranked 69)  
 Sum: 32,045 (Ranked 41)  

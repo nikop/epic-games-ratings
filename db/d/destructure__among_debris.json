@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 348,
   "Ranking_EOS_Completed": 136,
   "Ranking_EOS_NewPlayers": 342,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
     "PcReleaseDate": "2023-04-27T13:00:00+00:00",
@@ -909,9 +909,9 @@
       "ID": "die",
       "SetID": "jig50d",
       "Name": "You Have Been Deaded",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "easy_victory",
@@ -1094,8 +1094,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-10-15T02:25:45.0732271+00:00",
+  "LastChanged_Achievements": "2023-10-15T03:06:09.5207067+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:00.8919611+00:00",
-  "LastUpdate_Ratings": "2023-10-15T02:18:23.3636309+00:00",
-  "LastUpdate_Achievements": "2023-10-15T02:25:45.0732539+00:00"
+  "LastUpdate_Ratings": "2023-10-15T02:59:05.0105187+00:00",
+  "LastUpdate_Achievements": "2023-10-15T03:06:09.5207351+00:00"
 }

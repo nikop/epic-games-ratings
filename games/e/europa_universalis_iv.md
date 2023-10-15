@@ -8,19 +8,19 @@ Number of Ratings: 8,414  (23.09.2022)
 | ---- | ---------- | ----- |
 | That's a Grand Army | 4.00% | ~17,246 |
 | Until death do us apart | 4.00% | ~17,246 |
-| That is mine! | 3.00% | ~12,934 |
-| Victorious! | 3.00% | ~12,934 |
+| That is mine! | 3.00% | ~12,935 |
+| Victorious! | 3.00% | ~12,935 |
 | Brothers in Arms | 2.00% | ~8,623 |
 | Cold War | 2.00% | ~8,623 |
 | For the Glory | 2.00% | ~8,623 |
 | That's a Grand Navy | 2.00% | ~8,623 |
 | Seriously?! | 2.00% | ~8,623 |
-| Defender of the Faith | 1.00% | ~4,311 |
-| It's all about the money | 1.00% | ~4,311 |
-| Respected | 1.00% | ~4,311 |
-| The Princess is in this Castle | 1.00% | ~4,311 |
-| True Catholic | 1.00% | ~4,311 |
-| Truly Divine Ruler | 1.00% | ~4,311 |
+| Defender of the Faith | 1.00% | ~4,312 |
+| It's all about the money | 1.00% | ~4,312 |
+| Respected | 1.00% | ~4,312 |
+| The Princess is in this Castle | 1.00% | ~4,312 |
+| True Catholic | 1.00% | ~4,312 |
+| Truly Divine Ruler | 1.00% | ~4,312 |
 | It's all about luck | 0.90% | ~3,880 |
 | Blockader | 0.80% | ~3,449 |
 | Double the Love | 0.80% | ~3,449 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 431,139 (Ranked 40)  
+Progressed: 431,157 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -539,7 +539,7 @@ Completed: 1 (0.00%) (Ranked 314)
 | 2023-10-12 | 429,009 | 1 |
 | 2023-10-13 | 429,869 | 1 |
 | 2023-10-14 | 431,056 | 1 |
-| 2023-10-15 | 431,139 | 1 |
+| 2023-10-15 | 431,157 | 1 |
 ## Awards
 Max (Educational): 6,534  (Ranked 55)  
 Sum: 53,639 (Ranked 25)  

@@ -10,15 +10,15 @@ Number of Ratings: 12,664  (23.09.2022)
 | Basic in Bulk | 3.00% | ~4,129 |
 | Tinkle of Coins | 3.00% | ~4,129 |
 | Titan's First Steps | 3.00% | ~4,129 |
-| One Easy Payment | 2.00% | ~2,752 |
-| Some Assembly Required | 2.00% | ~2,752 |
-| Disintermediation | 2.00% | ~2,752 |
-| Another Satisfied Customer | 2.00% | ~2,752 |
-| It's Free Real Estate | 2.00% | ~2,752 |
-| Pretty Penny | 2.00% | ~2,752 |
-| Budding Merchant | 2.00% | ~2,752 |
-| Capitalism Ho! | 2.00% | ~2,752 |
-| Own the Means of Production | 2.00% | ~2,752 |
+| One Easy Payment | 2.00% | ~2,753 |
+| Some Assembly Required | 2.00% | ~2,753 |
+| Disintermediation | 2.00% | ~2,753 |
+| Another Satisfied Customer | 2.00% | ~2,753 |
+| It's Free Real Estate | 2.00% | ~2,753 |
+| Pretty Penny | 2.00% | ~2,753 |
+| Budding Merchant | 2.00% | ~2,753 |
+| Capitalism Ho! | 2.00% | ~2,753 |
+| Own the Means of Production | 2.00% | ~2,753 |
 | The Daily Grind | 1.00% | ~1,376 |
 | Bounty Hunters | 1.00% | ~1,376 |
 | Demand for Supplies | 1.00% | ~1,376 |
@@ -100,11 +100,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | Precision Engineering | 0.50% | ~688 |
 | King's Shadow | 0.50% | ~688 |
 | Economy of Scarce | 0.50% | ~688 |
-| The Free Encyclopedia | 0.40% | ~550 |
-| Thank You Tom Nook | 0.40% | ~550 |
-| Jackpot! | 0.40% | ~550 |
-| Eternal Crusade | 0.40% | ~550 |
-| All Accounted For | 0.40% | ~550 |
+| The Free Encyclopedia | 0.40% | ~551 |
+| Thank You Tom Nook | 0.40% | ~551 |
+| Jackpot! | 0.40% | ~551 |
+| Eternal Crusade | 0.40% | ~551 |
+| All Accounted For | 0.40% | ~551 |
 | All or Nothing! | 0.30% | ~413 |
 | Bane of Legends | 0.20% | ~275 |
 | Ultimate Collector | 0.20% | ~275 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~138 |
 | Cash Only Please | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,625 (Ranked 73)  
+Progressed: 137,626 (Ranked 73)  
 Completed: 168 (0.12%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,7 +297,7 @@ Completed: 168 (0.12%) (Ranked 241)
 | 2023-10-12 | 137,496 | 168 |
 | 2023-10-13 | 137,555 | 168 |
 | 2023-10-14 | 137,618 | 168 |
-| 2023-10-15 | 137,625 | 168 |
+| 2023-10-15 | 137,626 | 168 |
 ## Awards
 Max (Great for Beginners): 4,785  (Ranked 71)  
 Sum: 27,380 (Ranked 50)  

@@ -166,9 +166,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13985,
+  "EOS_Progressed": 13988,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 268,
+  "EOS_NewPlayers": 271,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -8676,6 +8676,11 @@
       "Time": "2023-10-15T02:25:38.5760156+00:00",
       "NumProgressed": 13985,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-10-15T03:05:54.0313049+00:00",
+      "NumProgressed": 13988,
+      "NumCompleted": 23
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -8704,7 +8709,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "12",
@@ -8792,7 +8797,7 @@
       "Name": "Drone Dodger",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "22",
@@ -8832,7 +8837,7 @@
       "Name": "Call it Even",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "27",
@@ -8927,7 +8932,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13985,
+      "Progressed": 13988,
       "Completed": 23
     }
   ],
@@ -8935,8 +8940,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-13T09:00:57.1370573+00:00",
-  "LastChanged_Achievements": "2023-10-15T02:25:38.5760149+00:00",
+  "LastChanged_Achievements": "2023-10-15T03:05:54.0313037+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:40.5814563+00:00",
-  "LastUpdate_Ratings": "2023-10-15T02:20:52.3696645+00:00",
-  "LastUpdate_Achievements": "2023-10-15T02:25:38.5761428+00:00"
+  "LastUpdate_Ratings": "2023-10-15T03:01:20.8625448+00:00",
+  "LastUpdate_Achievements": "2023-10-15T03:05:54.0314424+00:00"
 }
