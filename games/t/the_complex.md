@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tough Decision | 93.00% | ~530 |
+| Tough Decision | 94.00% | ~536 |
 | Blast From The Past | 85.00% | ~484 |
 | Kamikaze | 64.00% | ~365 |
 | The Rebel And The Doctor | 58.00% | ~331 |

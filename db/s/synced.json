@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 364,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewPlayers": 57,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
     "PcReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -660,9 +660,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 63165,
+  "EOS_Progressed": 63169,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 1276,
+  "EOS_NewPlayers": 1275,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5195,6 +5195,11 @@
       "Time": "2023-10-15T04:09:31.2133284+00:00",
       "NumProgressed": 63165,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-10-15T05:10:35.3074163+00:00",
+      "NumProgressed": 63169,
+      "NumCompleted": 17
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -5207,7 +5212,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 18950
+      "UsersEstimate": 18951
     },
     {
       "ID": "10",
@@ -5239,7 +5244,7 @@
       "Name": "Memory Keeper",
       "Percentage": 0.3,
       "XP": 150,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "14",
@@ -5255,7 +5260,7 @@
       "Name": "Gone Rogue",
       "Percentage": 0.3,
       "XP": 80,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "16",
@@ -5263,7 +5268,7 @@
       "Name": "Completely Customizable",
       "Percentage": 0.3,
       "XP": 80,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "2",
@@ -5271,7 +5276,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 10106
+      "UsersEstimate": 10107
     },
     {
       "ID": "3",
@@ -5295,7 +5300,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 5053
+      "UsersEstimate": 5054
     },
     {
       "ID": "6",
@@ -5334,7 +5339,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 63165,
+      "Progressed": 63169,
       "Completed": 17
     }
   ],
@@ -5342,8 +5347,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-10-14T09:01:51.329206+00:00",
-  "LastChanged_Achievements": "2023-10-15T04:09:31.213328+00:00",
+  "LastChanged_Achievements": "2023-10-15T05:10:35.3074157+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:34.3906075+00:00",
-  "LastUpdate_Ratings": "2023-10-15T04:02:20.3483535+00:00",
-  "LastUpdate_Achievements": "2023-10-15T04:09:31.2133834+00:00"
+  "LastUpdate_Ratings": "2023-10-15T05:03:39.5712945+00:00",
+  "LastUpdate_Achievements": "2023-10-15T05:10:35.3075251+00:00"
 }

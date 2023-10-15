@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 288,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -258,9 +258,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 67215,
+  "EOS_Progressed": 67219,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 199,
+  "EOS_NewPlayers": 203,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12448,6 +12448,11 @@
       "Time": "2023-10-15T04:03:48.9063927+00:00",
       "NumProgressed": 67215,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-10-15T05:04:43.220328+00:00",
+      "NumProgressed": 67219,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 20,
@@ -12467,7 +12472,7 @@
       "Name": "Bonfire Lit",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 2016
+      "UsersEstimate": 2017
     },
     {
       "ID": "ACH_CHURCHCANDLES",
@@ -12611,14 +12616,14 @@
       "Name": "Survival Expert",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 2016
+      "UsersEstimate": 2017
     }
   ],
   "AchievementSets": [
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 67215,
+      "Progressed": 67219,
       "Completed": 16
     }
   ],
@@ -12626,8 +12631,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-09-16T23:57:09.4113576+00:00",
-  "LastChanged_Achievements": "2023-10-15T04:03:48.9063924+00:00",
+  "LastChanged_Achievements": "2023-10-15T05:04:43.2203276+00:00",
   "LastUpdate_AppInfo": "2023-10-14T13:57:00.9595943+00:00",
-  "LastUpdate_Ratings": "2023-10-15T04:00:40.3588349+00:00",
-  "LastUpdate_Achievements": "2023-10-15T04:03:48.9065381+00:00"
+  "LastUpdate_Ratings": "2023-10-15T05:02:32.9041404+00:00",
+  "LastUpdate_Achievements": "2023-10-15T05:04:43.2204889+00:00"
 }

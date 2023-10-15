@@ -1,36 +1,36 @@
 # Disney Speedstorm
 [Store](https://store.epicgames.com/en-US/p/disney-speedstorm)  
 [View Rawdata](../../db/d/disney_speedstorm.json)  
-Rating: 4.41 (Ranked 698)  
+Rating: 4.40 (Ranked 719)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 5.00% | ~11,165 |
-| IT MAKES BOOM! | 3.00% | ~6,699 |
-| EXTRA BOOST | 2.00% | ~4,466 |
-| PROTECTED | 1.00% | ~2,233 |
-| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,233 |
-| AGGRESSIVE RACER | 1.00% | ~2,233 |
-| PRO | 1.00% | ~2,233 |
-| A TIGER'S FEAR | 0.80% | ~1,786 |
-| IT'S A LONG WAY TO THE TOP | 0.40% | ~893 |
-| DEFEAT OUR CHAMPION | 0.40% | ~893 |
-| ACE SPEEDSTER | 0.40% | ~893 |
-| TRAINING HARD | 0.30% | ~670 |
-| RELEASE THE KRAKEN | 0.30% | ~670 |
-| BE OUR GUEST | 0.30% | ~670 |
-| ACE BRAWLER | 0.30% | ~670 |
-| ACE DEFENDER | 0.30% | ~670 |
-| THE EYE OF THE HUNTER | 0.30% | ~670 |
-| FRIENDLY | 0.30% | ~670 |
-| MASTER | 0.30% | ~670 |
-| LEGENDARY HERO | 0.30% | ~670 |
+| ROOKIE | 5.00% | ~11,175 |
+| IT MAKES BOOM! | 3.00% | ~6,705 |
+| EXTRA BOOST | 2.00% | ~4,470 |
+| PROTECTED | 1.00% | ~2,235 |
+| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,235 |
+| AGGRESSIVE RACER | 1.00% | ~2,235 |
+| PRO | 1.00% | ~2,235 |
+| A TIGER'S FEAR | 0.80% | ~1,788 |
+| ACE SPEEDSTER | 0.50% | ~1,118 |
+| IT'S A LONG WAY TO THE TOP | 0.40% | ~894 |
+| DEFEAT OUR CHAMPION | 0.40% | ~894 |
+| TRAINING HARD | 0.30% | ~671 |
+| RELEASE THE KRAKEN | 0.30% | ~671 |
+| BE OUR GUEST | 0.30% | ~671 |
+| ACE BRAWLER | 0.30% | ~671 |
+| ACE DEFENDER | 0.30% | ~671 |
+| THE EYE OF THE HUNTER | 0.30% | ~671 |
+| FRIENDLY | 0.30% | ~671 |
+| MASTER | 0.30% | ~671 |
+| LEGENDARY HERO | 0.30% | ~671 |
 | PERFECTLY POISED | 0.20% | ~447 |
 | EXPERIENCED CREW | 0.20% | ~447 |
 | ACE TRICKSTER | 0.20% | ~447 |
-| FRAMED! | 0.10% | ~223 |
+| FRAMED! | 0.10% | ~224 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,300 (Ranked 63)  
+Progressed: 223,507 (Ranked 63)  
 Completed: 232 (0.10%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 232 (0.10%) (Ranked 246)
 | 2023-10-12 | 211,811 | 230 |
 | 2023-10-13 | 216,960 | 230 |
 | 2023-10-14 | 222,259 | 232 |
-| 2023-10-15 | 223,300 | 232 |
+| 2023-10-15 | 223,507 | 232 |
 ## Awards
 Max (Diverse Characters): 20  (Ranked 528)  
 Sum: 20 (Ranked 529)  
@@ -229,3 +229,4 @@ Diff (max vs sum): -1
 | 2023-10-12 | 4.42 | 20 | 20 |
 | 2023-10-13 | 4.42 | 20 | 20 |
 | 2023-10-14 | 4.41 | 20 | 20 |
+| 2023-10-15 | 4.40 | 20 | 20 |

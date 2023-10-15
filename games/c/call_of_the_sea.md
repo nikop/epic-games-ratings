@@ -1,28 +1,28 @@
 # Call of the Sea
 [Store](https://store.epicgames.com/en-US/p/call-of-the-sea)  
 [View Rawdata](../../db/c/call_of_the_sea.json)  
-Rating: 4.40 (Ranked 720)  
+Rating: 4.40 (Ranked 719)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 80.00% | ~99,827 |
-| 74 miles East of Otaheité | 56.00% | ~69,879 |
-| Interesting... | 42.00% | ~52,409 |
-| The Everhart Expedition | 39.00% | ~48,666 |
-| The Vanishing of the Lady Shannon | 30.00% | ~37,435 |
-| Seaside Serenade | 30.00% | ~37,435 |
-| Halfway there | 29.00% | ~36,187 |
-| A brigantine, a brig and a barque | 28.00% | ~34,940 |
-| 506 East Hampden Avenue | 28.00% | ~34,940 |
-| Weekend at Walakea's | 27.00% | ~33,692 |
-| Quite a Show | 27.00% | ~33,692 |
-| Dark Water Ride | 24.00% | ~29,948 |
-| Sunken | 24.00% | ~29,948 |
-| Deep Cut | 24.00% | ~29,948 |
-| FHALGOF'N' | 23.00% | ~28,700 |
-| Marsh Cannery | 21.00% | ~26,205 |
-| Greetings from Y'ha-nthlei! | 17.00% | ~21,213 |
-| The only thing I have now | 16.00% | ~19,965 |
+| A Family Heirloom | 80.00% | ~99,831 |
+| 74 miles East of Otaheité | 56.00% | ~69,882 |
+| Interesting... | 42.00% | ~52,411 |
+| The Everhart Expedition | 39.00% | ~48,668 |
+| The Vanishing of the Lady Shannon | 30.00% | ~37,437 |
+| Seaside Serenade | 30.00% | ~37,437 |
+| Halfway there | 29.00% | ~36,189 |
+| A brigantine, a brig and a barque | 28.00% | ~34,941 |
+| 506 East Hampden Avenue | 28.00% | ~34,941 |
+| Weekend at Walakea's | 27.00% | ~33,693 |
+| Quite a Show | 27.00% | ~33,693 |
+| Dark Water Ride | 24.00% | ~29,949 |
+| Sunken | 24.00% | ~29,949 |
+| Deep Cut | 24.00% | ~29,949 |
+| FHALGOF'N' | 23.00% | ~28,701 |
+| Marsh Cannery | 21.00% | ~26,206 |
+| Greetings from Y'ha-nthlei! | 17.00% | ~21,214 |
+| The only thing I have now | 16.00% | ~19,966 |
 | Not Another Boring Slideshow! | 15.00% | ~18,718 |
 | Naacalvision | 15.00% | ~18,718 |
 | I'll make a note of that... | 9.00% | ~11,231 |
@@ -31,8 +31,8 @@ Rating: 4.40 (Ranked 720)
 | Underwater Royalty | 7.00% | ~8,735 |
 | Written in Stone | 6.00% | ~7,487 |
 | Fawning Developers | 5.00% | ~6,239 |
-| The Amazing Adventures of Norah Everhart | 4.00% | ~4,991 |
-| Candid Photo | 4.00% | ~4,991 |
+| The Amazing Adventures of Norah Everhart | 4.00% | ~4,992 |
+| Candid Photo | 4.00% | ~4,992 |
 | You looked that up in a guide! | 3.00% | ~3,744 |
 | The Lady Shannon Recording | 3.00% | ~3,744 |
 | Otherwordly Portal | 3.00% | ~3,744 |
@@ -40,7 +40,7 @@ Rating: 4.40 (Ranked 720)
 | Gently down the stream... | 1.00% | ~1,248 |
 | Meta-reference | 1.00% | ~1,248 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 124,784 (Ranked 76)  
+Progressed: 124,789 (Ranked 76)  
 Completed: 1,055 (0.85%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,7 +218,7 @@ Completed: 1,055 (0.85%) (Ranked 152)
 | 2023-10-12 | 124,344 | 1,048 |
 | 2023-10-13 | 124,526 | 1,051 |
 | 2023-10-14 | 124,745 | 1,053 |
-| 2023-10-15 | 124,784 | 1,055 |
+| 2023-10-15 | 124,789 | 1,055 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

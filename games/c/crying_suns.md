@@ -6,23 +6,23 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~309,596 |
-| Jeef Skeejj | 44.00% | ~206,397 |
-| Careful planning | 39.00% | ~182,943 |
-| Second Coming | 34.00% | ~159,489 |
+| The Shutdown | 66.00% | ~309,598 |
+| Jeef Skeejj | 44.00% | ~206,399 |
+| Careful planning | 39.00% | ~182,944 |
+| Second Coming | 34.00% | ~159,490 |
 | Jeef Skagg | 30.00% | ~140,726 |
-| Mother | 25.00% | ~117,271 |
-| In space, no one can hear you scream | 24.00% | ~112,580 |
+| Mother | 25.00% | ~117,272 |
+| In space, no one can hear you scream | 24.00% | ~112,581 |
 | Chapter I: Echoes | 22.00% | ~103,199 |
 | Excelsior Rule | 22.00% | ~103,199 |
-| Things persisted in not being what they seemed | 20.00% | ~93,817 |
+| Things persisted in not being what they seemed | 20.00% | ~93,818 |
 | Knightmare Frames | 15.00% | ~70,363 |
 | May His passing cleanse the world | 15.00% | ~70,363 |
 | Chapter II: Fallible Flesh | 15.00% | ~70,363 |
 | Pope Zenon | 15.00% | ~70,363 |
-| Tetsuo | 11.00% | ~51,599 |
-| Plan for the worst | 11.00% | ~51,599 |
-| Chapter III: The Man Who Sold the World | 10.00% | ~46,908 |
+| Tetsuo | 11.00% | ~51,600 |
+| Plan for the worst | 11.00% | ~51,600 |
+| Chapter III: The Man Who Sold the World | 10.00% | ~46,909 |
 | Chapter IV: Through the Looking Glass | 8.00% | ~37,527 |
 | Through the mirror | 8.00% | ~37,527 |
 | General Vivar | 8.00% | ~37,527 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~13 |
 | Kronos Rule | 0.10% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 469,085 (Ranked 37)  
+Progressed: 469,088 (Ranked 37)  
 Completed: 18 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,11 +264,11 @@ Completed: 18 (0.00%) (Ranked 314)
 | 2023-10-12 | 468,947 | 18 |
 | 2023-10-13 | 469,009 | 18 |
 | 2023-10-14 | 469,067 | 18 |
-| 2023-10-15 | 469,085 | 18 |
+| 2023-10-15 | 469,088 | 18 |
 ## Awards
 Max (Character Customization): 221  (Ranked 269)  
-Sum: 242 (Ranked 367)  
-Diff (max vs sum): -98  
+Sum: 242 (Ranked 368)  
+Diff (max vs sum): -99  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 221 |

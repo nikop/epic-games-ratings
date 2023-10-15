@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_NewPlayers": 255,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-01-26T06:00:00+00:00",
     "PcReleaseDate": "2023-01-26T06:00:00+00:00",
@@ -1829,9 +1829,9 @@
       "ID": "reach_heat",
       "SetID": "236b9eg",
       "Name": "Turn Up The HEAT",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 907
+      "UsersEstimate": 930
     },
     {
       "ID": "reach_high_heat",
@@ -1902,8 +1902,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-06-30T03:59:49.3890269+00:00",
-  "LastChanged_Achievements": "2023-10-15T04:06:40.1669698+00:00",
+  "LastChanged_Achievements": "2023-10-15T05:08:42.779922+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:56.9833817+00:00",
-  "LastUpdate_Ratings": "2023-10-15T03:58:30.1594189+00:00",
-  "LastUpdate_Achievements": "2023-10-15T04:06:40.1670119+00:00"
+  "LastUpdate_Ratings": "2023-10-15T04:59:31.161631+00:00",
+  "LastUpdate_Achievements": "2023-10-15T05:08:42.7799468+00:00"
 }

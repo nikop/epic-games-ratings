@@ -4,11 +4,11 @@
   "ProductSlug": "crying-suns",
   "Ranking_Rating": 573,
   "Ranking_Popularity": 269,
-  "Ranking_PopularitySum": 367,
+  "Ranking_PopularitySum": 368,
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -622,9 +622,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 469085,
+  "EOS_Progressed": 469088,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 392,
+  "EOS_NewPlayers": 394,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19217,6 +19217,11 @@
       "Time": "2023-10-15T04:09:12.1610157+00:00",
       "NumProgressed": 469085,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-10-15T05:10:08.387532+00:00",
+      "NumProgressed": 469088,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 79,
@@ -19244,7 +19249,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 112580
+      "UsersEstimate": 112581
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -19268,7 +19273,7 @@
       "Name": "Chapter III: The Man Who Sold the World",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 46908
+      "UsersEstimate": 46909
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -19316,7 +19321,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 309596
+      "UsersEstimate": 309598
     },
     {
       "ID": "achievement_story_landa",
@@ -19348,7 +19353,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 117271
+      "UsersEstimate": 117272
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -19380,7 +19385,7 @@
       "Name": "Tetsuo",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51599
+      "UsersEstimate": 51600
     },
     {
       "ID": "achievement_story_meet_vivar",
@@ -19404,7 +19409,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 93817
+      "UsersEstimate": 93818
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -19412,7 +19417,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 159489
+      "UsersEstimate": 159490
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -19652,7 +19657,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 206397
+      "UsersEstimate": 206399
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -19676,7 +19681,7 @@
       "Name": "Plan for the worst",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51599
+      "UsersEstimate": 51600
     },
     {
       "ID": "achievement_win_expedition_without_monster_noloss",
@@ -19684,7 +19689,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 182943
+      "UsersEstimate": 182944
     },
     {
       "ID": "achievement_win_run_hard",
@@ -19859,21 +19864,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 13019,
+      "Progressed": 13022,
       "Completed": 2358
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 469085,
+      "Progressed": 469088,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-10-10T01:42:39.6470224+00:00",
-  "LastChanged_Achievements": "2023-10-15T04:09:12.1610149+00:00",
+  "LastChanged_Achievements": "2023-10-15T05:10:08.3875315+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:23.4157652+00:00",
-  "LastUpdate_Ratings": "2023-10-15T03:57:35.9634726+00:00",
-  "LastUpdate_Achievements": "2023-10-15T04:09:12.1613363+00:00"
+  "LastUpdate_Ratings": "2023-10-15T04:58:08.0300036+00:00",
+  "LastUpdate_Achievements": "2023-10-15T05:10:08.3877413+00:00"
 }

@@ -13,7 +13,7 @@ Rating: 4.37 (Ranked 751)
 | Fun in the Stun | 53.00% | ~1,202 |
 | The Interdimensional Power of Friendship | 44.00% | ~998 |
 | Do you feel like a tough guy? | 43.00% | ~975 |
-| Turn Up The HEAT | 40.00% | ~907 |
+| Turn Up The HEAT | 41.00% | ~930 |
 | Stop Hitting Yourself! | 34.00% | ~771 |
 | Nothing to Wear | 30.00% | ~680 |
 | The First Law of Thermodynamics | 28.00% | ~635 |

@@ -2,13 +2,13 @@
   "ID": "94cec4802e954a6c9579e29e8b817f3a",
   "Name": "Insurgency: Sandstorm",
   "ProductSlug": "insurgency-sandstorm",
-  "Ranking_Rating": 352,
+  "Ranking_Rating": 353,
   "Ranking_Popularity": 224,
   "Ranking_PopularitySum": 170,
   "Ranking_EOS_Progress": 38,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 40,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-02-10T17:00:00+00:00",
     "PcReleaseDate": "2018-12-12T12:21:00+00:00",
@@ -3685,9 +3685,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 462432,
+  "EOS_Progressed": 462443,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2348,
+  "EOS_NewPlayers": 2334,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23785,6 +23785,11 @@
       "Time": "2023-10-15T04:08:13.8985465+00:00",
       "NumProgressed": 462432,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-15T05:09:29.1743411+00:00",
+      "NumProgressed": 462443,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -23852,7 +23857,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 18497
+      "UsersEstimate": 18498
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -23884,7 +23889,7 @@
       "Name": "Grounded",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 3699
+      "UsersEstimate": 3700
     },
     {
       "ID": "ACH_HIT_RUN",
@@ -23900,7 +23905,7 @@
       "Name": "High Speed Low Drag",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 18497
+      "UsersEstimate": 18498
     },
     {
       "ID": "ACH_JR_50",
@@ -23956,7 +23961,7 @@
       "Name": "Play to Win",
       "Percentage": 0.8,
       "XP": 80,
-      "UsersEstimate": 3699
+      "UsersEstimate": 3700
     },
     {
       "ID": "ACH_POINT_SHOOTING",
@@ -24068,22 +24073,22 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 18497
+      "UsersEstimate": 18498
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 462432,
+      "Progressed": 462443,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-10-14T17:57:25.6625132+00:00",
-  "LastChanged_Achievements": "2023-10-15T04:08:13.8985461+00:00",
+  "LastChanged_Achievements": "2023-10-15T05:09:29.1743407+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:10.7771003+00:00",
-  "LastUpdate_Ratings": "2023-10-15T03:57:17.1787955+00:00",
-  "LastUpdate_Achievements": "2023-10-15T04:08:13.8987611+00:00"
+  "LastUpdate_Ratings": "2023-10-15T04:57:43.0707364+00:00",
+  "LastUpdate_Achievements": "2023-10-15T05:09:29.1744967+00:00"
 }

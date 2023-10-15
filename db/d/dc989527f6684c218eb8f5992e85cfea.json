@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12581,
+  "EOS_Progressed": 12583,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 261,
+  "EOS_NewPlayers": 262,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12076,6 +12076,11 @@
       "Time": "2023-10-15T04:06:35.8780885+00:00",
       "NumProgressed": 12581,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-15T05:08:36.8243883+00:00",
+      "NumProgressed": 12583,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -12159,7 +12164,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 5536
+      "UsersEstimate": 5537
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -12255,7 +12260,7 @@
       "Name": "Art Intern",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2516
+      "UsersEstimate": 2517
     },
     {
       "ID": "ACH_WIN_A_GAME_GUESS_IT",
@@ -12286,14 +12291,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 12581,
+      "Progressed": 12583,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-10-15T04:06:35.8780882+00:00",
+  "LastChanged_Achievements": "2023-10-15T05:08:36.8243877+00:00",
   "LastUpdate_AppInfo": "2023-10-14T02:11:04.1756812+00:00",
-  "LastUpdate_Ratings": "2023-10-15T03:58:54.945054+00:00",
-  "LastUpdate_Achievements": "2023-10-15T04:06:35.8782089+00:00"
+  "LastUpdate_Ratings": "2023-10-15T05:00:06.8414308+00:00",
+  "LastUpdate_Achievements": "2023-10-15T05:08:36.824535+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "menace-005d41",
   "Ranking_EOS_Progress": 670,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 393,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 391,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-09T17:57:11.462898+00:00",
-  "LastUpdate_Ratings": "2023-10-15T03:58:17.8980753+00:00",
-  "LastUpdate_Achievements": "2023-10-15T04:04:11.8590623+00:00"
+  "LastUpdate_Ratings": "2023-10-15T04:59:12.7286905+00:00",
+  "LastUpdate_Achievements": "2023-10-15T05:05:15.829371+00:00"
 }

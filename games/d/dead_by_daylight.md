@@ -6,41 +6,41 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 2.00% | ~18,804 |
-| It wakes | 2.00% | ~18,804 |
-| Skillful | 2.00% | ~18,804 |
-| The Grand Sacrifice | 1.00% | ~9,402 |
-| No one left behind | 1.00% | ~9,402 |
-| Medic | 1.00% | ~9,402 |
-| Handyman | 1.00% | ~9,402 |
-| Not half bad | 1.00% | ~9,402 |
-| Bloody Millionaire | 1.00% | ~9,402 |
-| Apt Survivor | 1.00% | ~9,402 |
-| Survival Treasures | 1.00% | ~9,402 |
-| I | 1.00% | ~9,402 |
-| Sorted | 1.00% | ~9,402 |
-| Healthy Obsession | 1.00% | ~9,402 |
-| Resurgence | 1.00% | ~9,402 |
-| Preemptive Strike | 1.00% | ~9,402 |
-| Humanitarian | 1.00% | ~9,402 |
-| Make Some Noise | 1.00% | ~9,402 |
-| Agonizing Escape | 0.90% | ~8,462 |
-| Backdoor Escape | 0.90% | ~8,462 |
-| Perfect Escape | 0.90% | ~8,462 |
-| Engineer | 0.90% | ~8,462 |
+| Zealous | 2.00% | ~18,806 |
+| It wakes | 2.00% | ~18,806 |
+| Skillful | 2.00% | ~18,806 |
+| The Grand Sacrifice | 1.00% | ~9,403 |
+| No one left behind | 1.00% | ~9,403 |
+| Medic | 1.00% | ~9,403 |
+| Handyman | 1.00% | ~9,403 |
+| Not half bad | 1.00% | ~9,403 |
+| Bloody Millionaire | 1.00% | ~9,403 |
+| Apt Survivor | 1.00% | ~9,403 |
+| Survival Treasures | 1.00% | ~9,403 |
+| I | 1.00% | ~9,403 |
+| Sorted | 1.00% | ~9,403 |
+| Healthy Obsession | 1.00% | ~9,403 |
+| Resurgence | 1.00% | ~9,403 |
+| Preemptive Strike | 1.00% | ~9,403 |
+| Humanitarian | 1.00% | ~9,403 |
+| Make Some Noise | 1.00% | ~9,403 |
+| Agonizing Escape | 0.90% | ~8,463 |
+| Backdoor Escape | 0.90% | ~8,463 |
+| Nerves of steel | 0.90% | ~8,463 |
+| Perfect Escape | 0.90% | ~8,463 |
+| Engineer | 0.90% | ~8,463 |
 | I've got your back | 0.80% | ~7,522 |
-| Nerves of steel | 0.80% | ~7,522 |
 | Perfect Killing | 0.80% | ~7,522 |
 | Risk it all | 0.80% | ~7,522 |
 | Wounded Healer | 0.80% | ~7,522 |
 | Close Shave | 0.80% | ~7,522 |
-| Apt Killer | 0.70% | ~6,581 |
-| Vulture | 0.70% | ~6,581 |
-| II | 0.70% | ~6,581 |
-| Second Act | 0.70% | ~6,581 |
-| III | 0.60% | ~5,641 |
-| With Scars to Show | 0.60% | ~5,641 |
-| Rebuilding The Borgo | 0.60% | ~5,641 |
+| Apt Killer | 0.70% | ~6,582 |
+| Vulture | 0.70% | ~6,582 |
+| II | 0.70% | ~6,582 |
+| Second Act | 0.70% | ~6,582 |
+| III | 0.60% | ~5,642 |
+| With Scars to Show | 0.60% | ~5,642 |
+| Rebuilding The Borgo | 0.60% | ~5,642 |
 | Blood on your hands | 0.50% | ~4,701 |
 | Escape Artist | 0.50% | ~4,701 |
 | Made it out alive! | 0.50% | ~4,701 |
@@ -91,20 +91,20 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outrun the Overlap | 0.30% | ~2,821 |
 | Extraterrestrial | 0.30% | ~2,821 |
 | Kitted Out | 0.30% | ~2,821 |
-| Blood in your mouth | 0.20% | ~1,880 |
-| Looter | 0.20% | ~1,880 |
-| Party Crasher | 0.20% | ~1,880 |
-| Whiffing to Success | 0.20% | ~1,880 |
-| Outrage | 0.20% | ~1,880 |
-| Heavy Burden | 0.20% | ~1,880 |
-| I See You | 0.20% | ~1,880 |
-| Power Moves | 0.20% | ~1,880 |
-| Punch Drunk | 0.20% | ~1,880 |
-| Prowler | 0.20% | ~1,880 |
-| Triage | 0.20% | ~1,880 |
-| High Speed Pursuit | 0.20% | ~1,880 |
-| Hack the Mainframe | 0.20% | ~1,880 |
-| Complete the Evolution | 0.20% | ~1,880 |
+| Blood in your mouth | 0.20% | ~1,881 |
+| Looter | 0.20% | ~1,881 |
+| Party Crasher | 0.20% | ~1,881 |
+| Whiffing to Success | 0.20% | ~1,881 |
+| Outrage | 0.20% | ~1,881 |
+| Heavy Burden | 0.20% | ~1,881 |
+| I See You | 0.20% | ~1,881 |
+| Power Moves | 0.20% | ~1,881 |
+| Punch Drunk | 0.20% | ~1,881 |
+| Prowler | 0.20% | ~1,881 |
+| Triage | 0.20% | ~1,881 |
+| High Speed Pursuit | 0.20% | ~1,881 |
+| Hack the Mainframe | 0.20% | ~1,881 |
+| Complete the Evolution | 0.20% | ~1,881 |
 | A feast for the Entity | 0.10% | ~940 |
 | Cripple them all | 0.10% | ~940 |
 | The Grind | 0.10% | ~940 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~940 |
 | Adept Ripley | 0.10% | ~940 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 940,203 (Ranked 14)  
+Progressed: 940,292 (Ranked 14)  
 Completed: 50 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -414,7 +414,7 @@ Completed: 50 (0.01%) (Ranked 296)
 | 2023-10-12 | 934,954 | 50 |
 | 2023-10-13 | 937,037 | 50 |
 | 2023-10-14 | 939,759 | 50 |
-| 2023-10-15 | 940,203 | 50 |
+| 2023-10-15 | 940,292 | 50 |
 ## Awards
 Max (Diverse Characters): 33,934  (Ranked 15)  
 Sum: 262,398 (Ranked 13)  

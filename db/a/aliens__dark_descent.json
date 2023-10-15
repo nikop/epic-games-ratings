@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 252,
-  "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -348,9 +348,9 @@
       "Count": 31
     }
   ],
-  "EOS_Progressed": 3473,
+  "EOS_Progressed": 3474,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -5138,6 +5138,11 @@
       "Time": "2023-10-14T23:09:21.1076856+00:00",
       "NumProgressed": 3473,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-15T05:09:46.4670234+00:00",
+      "NumProgressed": 3474,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -5157,7 +5162,7 @@
       "Name": "Flawless Victory",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "ACH_ALL_WEAPONS",
@@ -5165,7 +5170,7 @@
       "Name": "One For Every Occasion",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     },
     {
       "ID": "ACH_ALL_XENO_TECHS",
@@ -5189,7 +5194,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 1771
+      "UsersEstimate": 1772
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -5219,9 +5224,9 @@
       "ID": "ACH_FINISH_IRONMAN",
       "SetID": "816efe",
       "Name": "Perfect Organism",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_FINISH_MEDIUM",
@@ -5245,7 +5250,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 2570
+      "UsersEstimate": 2571
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -5261,7 +5266,7 @@
       "Name": "Call Me Snake",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 2188
+      "UsersEstimate": 2189
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -5269,7 +5274,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 2327
+      "UsersEstimate": 2328
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -5277,7 +5282,7 @@
       "Name": "Heavy Steps",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "ACH_MARINE_PROSTHESIS",
@@ -5317,7 +5322,7 @@
       "Name": "Frontliner",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     },
     {
       "ID": "ACH_MAX_SERGEANT",
@@ -5365,7 +5370,7 @@
       "Name": "Making a Stand",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1528
+      "UsersEstimate": 1529
     },
     {
       "ID": "ACH_MISSION_05",
@@ -5405,7 +5410,7 @@
       "Name": "The Passenger",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 972
+      "UsersEstimate": 973
     },
     {
       "ID": "ACH_MISSION_10",
@@ -5429,7 +5434,7 @@
       "Name": "Abysmal Horrors",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     },
     {
       "ID": "ACH_OBJECTIVE_MARINE",
@@ -5445,7 +5450,7 @@
       "Name": "Snatched Out",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 2570
+      "UsersEstimate": 2571
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -5453,7 +5458,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 2813
+      "UsersEstimate": 2814
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -5485,7 +5490,7 @@
       "Name": "Recouped Investment",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1354
+      "UsersEstimate": 1355
     },
     {
       "ID": "ACH_UNLOCK_APC",
@@ -5508,7 +5513,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3473,
+      "Progressed": 3474,
       "Completed": 3
     }
   ],
@@ -5516,8 +5521,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-10-12T17:00:05.6617832+00:00",
-  "LastChanged_Achievements": "2023-10-15T04:08:26.111268+00:00",
+  "LastChanged_Achievements": "2023-10-15T05:09:46.4670231+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:37.7365418+00:00",
-  "LastUpdate_Ratings": "2023-10-15T04:00:25.6882766+00:00",
-  "LastUpdate_Achievements": "2023-10-15T04:08:26.1113322+00:00"
+  "LastUpdate_Ratings": "2023-10-15T05:02:13.1766163+00:00",
+  "LastUpdate_Achievements": "2023-10-15T05:09:46.4670871+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 156,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -1107,9 +1107,9 @@
       "ID": "ACH_end",
       "SetID": "51of0eo",
       "Name": "Assassinate the Makron",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 120,
-      "UsersEstimate": 62
+      "UsersEstimate": 66
     },
     {
       "ID": "ACH_eou1",
@@ -1155,9 +1155,9 @@
       "ID": "ACH_eou6",
       "SetID": "51of0eo",
       "Name": "Destroy Strogg Main Reactor",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 91
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH_eou7",
@@ -1218,8 +1218,8 @@
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-10-15T04:04:32.7828385+00:00",
+  "LastChanged_Achievements": "2023-10-15T05:05:45.7485971+00:00",
   "LastUpdate_AppInfo": "2023-10-12T22:57:11.8537053+00:00",
-  "LastUpdate_Ratings": "2023-10-15T03:59:03.3678902+00:00",
-  "LastUpdate_Achievements": "2023-10-15T04:04:32.7828574+00:00"
+  "LastUpdate_Ratings": "2023-10-15T05:00:19.5366363+00:00",
+  "LastUpdate_Achievements": "2023-10-15T05:05:45.7486166+00:00"
 }

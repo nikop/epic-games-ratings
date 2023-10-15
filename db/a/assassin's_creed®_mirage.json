@@ -2,20 +2,20 @@
   "ID": "9bcf5a4dc1d54cb6ab1a42f3a70c5cf4",
   "Name": "Assassin\u0027s Creed\u00AE Mirage",
   "ProductSlug": "assassins-creed-mirage",
-  "Ranking_Rating": 628,
+  "Ranking_Rating": 644,
   "Ranking_Popularity": 433,
-  "Ranking_PopularitySum": 368,
+  "Ranking_PopularitySum": 365,
   "Ranking_EOS_Progress": 670,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 393,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 391,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-10-05T16:00:00+00:00",
     "PcReleaseDate": "2023-10-05T16:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.46,
+  "Rating": 4.45,
   "RatingHistory": [
     {
       "Time": "2023-10-06T05:58:23.6709701+00:00",
@@ -202,10 +202,16 @@
       "Rating": 4.46,
       "NumberOfAwards": 241,
       "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2023-10-15T04:57:10.3252166+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 253,
+      "NumberOfAwardsMax": 44
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 241,
+  "NumberOfAwards": 253,
   "NumberOfAwardsMax": 44,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -231,7 +237,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 35
+      "Count": 42
     },
     {
       "Text": "This game has Diverse Characters",
@@ -249,7 +255,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 20
+      "Count": 25
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -276,8 +282,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-05T18:58:30.4202319+00:00",
   "FirstSeenRating": "2023-10-06T05:58:23.6709697+00:00",
-  "LastChanged": "2023-10-15T01:49:13.5387136+00:00",
+  "LastChanged": "2023-10-15T04:57:10.3252152+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:14.6654197+00:00",
-  "LastUpdate_Ratings": "2023-10-15T03:03:09.4501347+00:00",
-  "LastUpdate_Achievements": "2023-10-15T04:04:32.286992+00:00"
+  "LastUpdate_Ratings": "2023-10-15T04:57:10.325217+00:00",
+  "LastUpdate_Achievements": "2023-10-15T05:05:44.8701912+00:00"
 }
