@@ -7,8 +7,8 @@
 | A Second Chance | 57.00% | ~90 |
 | Press-ganged | 42.00% | ~66 |
 | The Package | 27.00% | ~43 |
+| Randomized | 17.00% | ~27 |
 | Conquered | 17.00% | ~27 |
-| Randomized | 16.00% | ~25 |
 | Scribe | 9.00% | ~14 |
 | Tactician | 9.00% | ~14 |
 | Breached | 8.00% | ~13 |

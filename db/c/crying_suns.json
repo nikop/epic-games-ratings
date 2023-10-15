@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -622,9 +622,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 469090,
+  "EOS_Progressed": 469091,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 393,
+  "EOS_NewPlayers": 391,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19227,6 +19227,11 @@
       "Time": "2023-10-15T07:10:37.8314559+00:00",
       "NumProgressed": 469090,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-10-15T09:09:14.3772563+00:00",
+      "NumProgressed": 469091,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 79,
@@ -19326,7 +19331,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 309599
+      "UsersEstimate": 309600
     },
     {
       "ID": "achievement_story_landa",
@@ -19334,7 +19339,7 @@
       "Name": "Kill the Doctor",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23454
+      "UsersEstimate": 23455
     },
     {
       "ID": "achievement_story_meet_cryo_rebecca",
@@ -19342,7 +19347,7 @@
       "Name": "Forsaken",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23454
+      "UsersEstimate": 23455
     },
     {
       "ID": "achievement_story_meet_idaho_b",
@@ -19358,7 +19363,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 117272
+      "UsersEstimate": 117273
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -19438,7 +19443,7 @@
       "Name": "Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23454
+      "UsersEstimate": 23455
     },
     {
       "ID": "achievement_unlock_officer_as_1",
@@ -19718,7 +19723,7 @@
       "Name": "Jericho Rule",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23454
+      "UsersEstimate": 23455
     },
     {
       "ID": "achievement_win_run_with_kb",
@@ -19869,21 +19874,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 13024,
+      "Progressed": 13025,
       "Completed": 2358
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 469090,
+      "Progressed": 469091,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-10-10T01:42:39.6470224+00:00",
-  "LastChanged_Achievements": "2023-10-15T08:09:16.1525646+00:00",
+  "LastChanged_Achievements": "2023-10-15T09:09:14.3772558+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:23.4157652+00:00",
-  "LastUpdate_Ratings": "2023-10-15T07:57:53.0704461+00:00",
-  "LastUpdate_Achievements": "2023-10-15T08:09:16.1527218+00:00"
+  "LastUpdate_Ratings": "2023-10-15T08:57:42.9478459+00:00",
+  "LastUpdate_Achievements": "2023-10-15T09:09:14.3774613+00:00"
 }

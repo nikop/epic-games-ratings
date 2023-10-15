@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -268,9 +268,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1665,
+  "EOS_Progressed": 1666,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3958,6 +3958,11 @@
       "Time": "2023-10-14T17:05:38.0430819+00:00",
       "NumProgressed": 1665,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-15T09:05:43.4306313+00:00",
+      "NumProgressed": 1666,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4089,7 +4094,7 @@
       "Name": "Fear my botany powers, Mars",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -4121,7 +4126,7 @@
       "Name": "Detective",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "NEW_ACHIEVEMENT_DE_DUST",
@@ -4169,7 +4174,7 @@
       "Name": "Get your hands dirty",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "NEW_ACHIEVEMENT_GOOD_MARTIAN",
@@ -4193,7 +4198,7 @@
       "Name": "Houston we have a problem",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "NEW_ACHIEVEMENT_ITS",
@@ -4223,9 +4228,9 @@
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
       "SetID": "l546gc",
       "Name": "I don\u0027t feel so good",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 699
+      "UsersEstimate": 683
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -4352,7 +4357,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1665,
+      "Progressed": 1666,
       "Completed": 0
     }
   ],
@@ -4360,8 +4365,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-10-07T20:58:51.3818577+00:00",
-  "LastChanged_Achievements": "2023-10-15T08:06:09.9271388+00:00",
+  "LastChanged_Achievements": "2023-10-15T09:05:43.4306305+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:10.2990063+00:00",
-  "LastUpdate_Ratings": "2023-10-15T07:58:48.4199851+00:00",
-  "LastUpdate_Achievements": "2023-10-15T08:06:09.927192+00:00"
+  "LastUpdate_Ratings": "2023-10-15T08:58:21.4720986+00:00",
+  "LastUpdate_Achievements": "2023-10-15T09:05:43.4306978+00:00"
 }

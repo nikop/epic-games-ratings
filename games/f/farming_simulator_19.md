@@ -1,11 +1,11 @@
 # Farming Simulator 19
 [Store](https://store.epicgames.com/en-US/p/farming-simulator-19)  
 [View Rawdata](../../db/f/farming_simulator_19.json)  
-Rating: 4.70 (Ranked 204)  
+Rating: 4.70 (Ranked 203)  
 Number of Ratings: 16,706  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 7,554  (Ranked 48)  
-Sum: 51,875 (Ranked 26)  
+Sum: 51,888 (Ranked 26)  
 Diff (max vs sum): 22  
 | Award | Count |
 | ----- | ----- |
@@ -16,8 +16,8 @@ Diff (max vs sum): 22
 | This game is Highly Recommended | 5,597 |
 | This game is Extremely Fun | 5,587 |
 | This game has Amazing Storytelling | 5,519 |
-| This game has Amazing Characters | 5,075 |
-| This game has a Creative Community | 4,356 |
+| This game has Amazing Characters | 5,081 |
+| This game has a Creative Community | 4,363 |
 | This game has Obsessive Gameplay | 3,740 |
 | This game has Easy Combat | 3,347 |
 ## Ratings History
@@ -296,4 +296,4 @@ Diff (max vs sum): 22
 | 2023-10-12 | 4.70 | - | 7,526 | 51,788 |
 | 2023-10-13 | 4.70 | - | 7,540 | 51,834 |
 | 2023-10-14 | 4.70 | - | 7,540 | 51,852 |
-| 2023-10-15 | 4.70 | - | 7,554 | 51,875 |
+| 2023-10-15 | 4.70 | - | 7,554 | 51,888 |

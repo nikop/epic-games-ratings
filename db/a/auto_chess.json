@@ -2,13 +2,13 @@
   "ID": "37baf50c268d47779020d73143bb02b0",
   "Name": "Auto Chess",
   "ProductSlug": "auto-chess",
-  "Ranking_Rating": 552,
-  "Ranking_Popularity": 162,
+  "Ranking_Rating": 538,
+  "Ranking_Popularity": 161,
   "Ranking_PopularitySum": 124,
   "Ranking_EOS_Progress": 670,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 393,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2019-08-23T15:00:00+00:00",
     "PcReleaseDate": "2019-04-18T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.51,
+  "Rating": 4.52,
   "NumberOfRatings": 2249,
   "RatingHistory": [
     {
@@ -4372,11 +4372,17 @@
       "Rating": 4.51,
       "NumberOfAwards": 6249,
       "NumberOfAwardsMax": 817
+    },
+    {
+      "Time": "2023-10-15T09:03:17.9097966+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 6252,
+      "NumberOfAwardsMax": 820
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6249,
-  "NumberOfAwardsMax": 817,
+  "NumberOfAwards": 6252,
+  "NumberOfAwardsMax": 820,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -4395,7 +4401,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 817
+      "Count": 820
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4457,8 +4463,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:31.7729603+00:00",
-  "LastChanged": "2023-10-14T15:03:15.6653763+00:00",
+  "LastChanged": "2023-10-15T09:03:17.9097965+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:11.9150702+00:00",
-  "LastUpdate_Ratings": "2023-10-15T08:03:11.287439+00:00",
-  "LastUpdate_Achievements": "2023-10-15T08:04:14.0330662+00:00"
+  "LastUpdate_Ratings": "2023-10-15T09:03:17.9097971+00:00",
+  "LastUpdate_Achievements": "2023-10-15T09:04:08.7246828+00:00"
 }

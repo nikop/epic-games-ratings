@@ -81,9 +81,9 @@
 | Weapon Specialist | 25.00% | ~174 |
 | Liberator | 25.00% | ~174 |
 | World Shaker | 24.00% | ~167 |
+| Tunnel Rat | 23.00% | ~160 |
 | Savior | 22.00% | ~153 |
 | Pathfinder | 22.00% | ~153 |
-| Tunnel Rat | 22.00% | ~153 |
 | Arbiter | 22.00% | ~153 |
 | Lost and Found | 22.00% | ~153 |
 | Paramour II | 21.00% | ~146 |
@@ -103,8 +103,8 @@
 | Throw Mastery | 16.00% | ~111 |
 | Executioner | 16.00% | ~111 |
 | Master and Commander | 16.00% | ~111 |
+| Patriot | 15.00% | ~104 |
 | Mail Slot | 14.00% | ~97 |
-| Patriot | 14.00% | ~97 |
 | Legend | 14.00% | ~97 |
 | Long Service Medal | 13.00% | ~90 |
 | Combined Arms | 12.00% | ~83 |

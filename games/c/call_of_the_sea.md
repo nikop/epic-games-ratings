@@ -5,30 +5,30 @@ Rating: 4.40 (Ranked 719)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 80.00% | ~99,841 |
-| 74 miles East of Otaheité | 56.00% | ~69,889 |
-| Interesting... | 42.00% | ~52,416 |
-| The Everhart Expedition | 39.00% | ~48,672 |
-| The Vanishing of the Lady Shannon | 30.00% | ~37,440 |
-| Seaside Serenade | 30.00% | ~37,440 |
-| Halfway there | 29.00% | ~36,192 |
-| A brigantine, a brig and a barque | 28.00% | ~34,944 |
-| 506 East Hampden Avenue | 28.00% | ~34,944 |
-| Weekend at Walakea's | 27.00% | ~33,696 |
-| Quite a Show | 27.00% | ~33,696 |
-| Dark Water Ride | 24.00% | ~29,952 |
-| Sunken | 24.00% | ~29,952 |
-| Deep Cut | 24.00% | ~29,952 |
-| FHALGOF'N' | 23.00% | ~28,704 |
-| Marsh Cannery | 21.00% | ~26,208 |
-| Greetings from Y'ha-nthlei! | 17.00% | ~21,216 |
-| The only thing I have now | 16.00% | ~19,968 |
-| Not Another Boring Slideshow! | 15.00% | ~18,720 |
-| Naacalvision | 15.00% | ~18,720 |
-| I'll make a note of that... | 9.00% | ~11,232 |
-| The Norahnomicon | 9.00% | ~11,232 |
-| Play it again, Norah | 7.00% | ~8,736 |
-| Underwater Royalty | 7.00% | ~8,736 |
+| A Family Heirloom | 80.00% | ~99,846 |
+| 74 miles East of Otaheité | 56.00% | ~69,892 |
+| Interesting... | 42.00% | ~52,419 |
+| The Everhart Expedition | 39.00% | ~48,675 |
+| The Vanishing of the Lady Shannon | 30.00% | ~37,442 |
+| Seaside Serenade | 30.00% | ~37,442 |
+| Halfway there | 29.00% | ~36,194 |
+| A brigantine, a brig and a barque | 28.00% | ~34,946 |
+| 506 East Hampden Avenue | 28.00% | ~34,946 |
+| Weekend at Walakea's | 27.00% | ~33,698 |
+| Quite a Show | 27.00% | ~33,698 |
+| Dark Water Ride | 24.00% | ~29,954 |
+| Sunken | 24.00% | ~29,954 |
+| Deep Cut | 24.00% | ~29,954 |
+| FHALGOF'N' | 23.00% | ~28,706 |
+| Marsh Cannery | 21.00% | ~26,210 |
+| Greetings from Y'ha-nthlei! | 17.00% | ~21,217 |
+| The only thing I have now | 16.00% | ~19,969 |
+| Not Another Boring Slideshow! | 15.00% | ~18,721 |
+| Naacalvision | 15.00% | ~18,721 |
+| I'll make a note of that... | 9.00% | ~11,233 |
+| The Norahnomicon | 9.00% | ~11,233 |
+| Play it again, Norah | 7.00% | ~8,737 |
+| Underwater Royalty | 7.00% | ~8,737 |
 | Written in Stone | 6.00% | ~7,488 |
 | Fawning Developers | 5.00% | ~6,240 |
 | The Amazing Adventures of Norah Everhart | 4.00% | ~4,992 |
@@ -40,7 +40,7 @@ Rating: 4.40 (Ranked 719)
 | Gently down the stream... | 1.00% | ~1,248 |
 | Meta-reference | 1.00% | ~1,248 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 124,801 (Ranked 76)  
+Progressed: 124,808 (Ranked 76)  
 Completed: 1,055 (0.85%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,7 +218,7 @@ Completed: 1,055 (0.85%) (Ranked 152)
 | 2023-10-12 | 124,344 | 1,048 |
 | 2023-10-13 | 124,526 | 1,051 |
 | 2023-10-14 | 124,745 | 1,053 |
-| 2023-10-15 | 124,801 | 1,055 |
+| 2023-10-15 | 124,808 | 1,055 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

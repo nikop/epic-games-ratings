@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-08-04T16:00:00+00:00",
     "PcReleaseDate": "2022-09-21T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 362,
+  "EOS_Progressed": 363,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -1176,6 +1176,11 @@
       "Time": "2023-10-15T06:06:09.2426206+00:00",
       "NumProgressed": 362,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-15T09:04:59.9921515+00:00",
+      "NumProgressed": 363,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-04T13:10:46.6045542+00:00",
@@ -1204,7 +1209,7 @@
       "Name": "Electuum Mobile",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_END_ALL_MAIL_MISSIONS",
@@ -1244,7 +1249,7 @@
       "Name": "Ready to go",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "ACH_END_FIRST_WORKBENCH_MISSION",
@@ -1316,7 +1321,7 @@
       "Name": "I like the risk",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ACH_LISTEN_ALL_MUSIC",
@@ -1332,7 +1337,7 @@
       "Name": "Home sweet home",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "ACH_PLACE_MANY_ITEMS_IN_OFFICE",
@@ -1356,7 +1361,7 @@
       "Name": "Unpacked",
       "Percentage": 98,
       "XP": 15,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "ACH_SHOCK_ON_MISSION",
@@ -1395,14 +1400,14 @@
     {
       "ID": "al4k4nh",
       "IsBase": true,
-      "Progressed": 362,
+      "Progressed": 363,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-10-15T08:05:17.3899768+00:00",
+  "LastChanged_Achievements": "2023-10-15T09:04:59.9921509+00:00",
   "LastUpdate_AppInfo": "2023-10-11T21:57:08.1110883+00:00",
-  "LastUpdate_Ratings": "2023-10-15T08:00:00.2890786+00:00",
-  "LastUpdate_Achievements": "2023-10-15T08:05:17.389998+00:00"
+  "LastUpdate_Ratings": "2023-10-15T08:59:20.5638718+00:00",
+  "LastUpdate_Achievements": "2023-10-15T09:04:59.9921785+00:00"
 }
