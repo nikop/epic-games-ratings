@@ -2,7 +2,7 @@
   "ID": "a3dd9f3da8ec49c7b25dec42cce2ec46",
   "Name": "Adios",
   "ProductSlug": "adios-b378b4",
-  "Ranking_Rating": 1010,
+  "Ranking_Rating": 1011,
   "Ranking_Popularity": 536,
   "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 89,
@@ -114,9 +114,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 75860,
+  "EOS_Progressed": 75864,
   "EOS_Completed": 797,
-  "EOS_NewPlayers": 563,
+  "EOS_NewPlayers": 561,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -19969,6 +19969,11 @@
       "Time": "2023-10-15T11:05:18.2019089+00:00",
       "NumProgressed": 75860,
       "NumCompleted": 797
+    },
+    {
+      "Time": "2023-10-15T12:05:26.2064636+00:00",
+      "NumProgressed": 75864,
+      "NumCompleted": 797
     }
   ],
   "TotalAchievements": 25,
@@ -19996,7 +20001,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 13655
+      "UsersEstimate": 13656
     },
     {
       "ID": "Audiophile",
@@ -20012,7 +20017,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 16689
+      "UsersEstimate": 16690
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -20020,7 +20025,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 13655
+      "UsersEstimate": 13656
     },
     {
       "ID": "Butcher",
@@ -20028,7 +20033,7 @@
       "Name": "Butcher",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 3034
+      "UsersEstimate": 3035
     },
     {
       "ID": "Cut Call",
@@ -20052,7 +20057,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 15172
+      "UsersEstimate": 15173
     },
     {
       "ID": "Hearty",
@@ -20068,7 +20073,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 6827
+      "UsersEstimate": 6828
     },
     {
       "ID": "Magnetic Miracles",
@@ -20100,7 +20105,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 14413
+      "UsersEstimate": 14414
     },
     {
       "ID": "Nice Try",
@@ -20148,7 +20153,7 @@
       "Name": "Spicy",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 3034
+      "UsersEstimate": 3035
     },
     {
       "ID": "Taco Toto",
@@ -20179,7 +20184,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 75860,
+      "Progressed": 75864,
       "Completed": 797
     }
   ],
@@ -20187,8 +20192,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-10-15T11:05:18.2019082+00:00",
+  "LastChanged_Achievements": "2023-10-15T12:05:26.2064629+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:21.8706974+00:00",
-  "LastUpdate_Ratings": "2023-10-15T11:00:33.1078383+00:00",
-  "LastUpdate_Achievements": "2023-10-15T11:05:18.2020346+00:00"
+  "LastUpdate_Ratings": "2023-10-15T12:00:35.3785777+00:00",
+  "LastUpdate_Achievements": "2023-10-15T12:05:26.2066168+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 84,
-  "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -100,7 +100,7 @@
   "Tags": [],
   "EOS_Progressed": 725,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.31,
   "EosHistory": [
@@ -2215,9 +2215,9 @@
       "ID": "_10_Completion_30",
       "SetID": "8a1io5d",
       "Name": "Buccaneer",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 174
+      "UsersEstimate": 181
     },
     {
       "ID": "_11_Completion_40",
@@ -2360,8 +2360,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-10-02T00:00:41.2116731+00:00",
-  "LastChanged_Achievements": "2023-10-15T11:09:22.3612709+00:00",
+  "LastChanged_Achievements": "2023-10-15T12:09:22.4230792+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:48.0426096+00:00",
-  "LastUpdate_Ratings": "2023-10-15T11:02:23.6998702+00:00",
-  "LastUpdate_Achievements": "2023-10-15T11:09:22.3613079+00:00"
+  "LastUpdate_Ratings": "2023-10-15T12:02:25.1272387+00:00",
+  "LastUpdate_Achievements": "2023-10-15T12:09:22.4231145+00:00"
 }

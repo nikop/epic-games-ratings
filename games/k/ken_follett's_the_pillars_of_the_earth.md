@@ -6,23 +6,23 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 40.00% | ~6,300 |
-| Man of politics | 35.00% | ~5,513 |
-| Friends of sorts | 33.00% | ~5,198 |
-| Yet another secret | 33.00% | ~5,198 |
-| Let there be darkness | 32.00% | ~5,040 |
-| End of Book One | 30.00% | ~4,725 |
-| Garden of Eden | 24.00% | ~3,780 |
-| Full house | 24.00% | ~3,780 |
+| Tattletale | 40.00% | ~6,302 |
+| Man of politics | 35.00% | ~5,514 |
+| Friends of sorts | 33.00% | ~5,199 |
+| Yet another secret | 33.00% | ~5,199 |
+| Let there be darkness | 32.00% | ~5,041 |
+| End of Book One | 30.00% | ~4,726 |
+| Garden of Eden | 24.00% | ~3,781 |
+| Full house | 24.00% | ~3,781 |
 | Wannabe knight | 23.00% | ~3,623 |
-| Help an old friend | 22.00% | ~3,465 |
-| Two of us | 20.00% | ~3,150 |
-| Negotiation skills | 18.00% | ~2,835 |
-| Workers' union | 18.00% | ~2,835 |
-| End of Book Two | 18.00% | ~2,835 |
+| Help an old friend | 22.00% | ~3,466 |
+| Two of us | 20.00% | ~3,151 |
+| Negotiation skills | 18.00% | ~2,836 |
+| Workers' union | 18.00% | ~2,836 |
+| End of Book Two | 18.00% | ~2,836 |
 | Everything's in order | 17.00% | ~2,678 |
-| Twist of Fate | 14.00% | ~2,205 |
-| Jack was here! | 14.00% | ~2,205 |
+| Twist of Fate | 14.00% | ~2,206 |
+| Jack was here! | 14.00% | ~2,206 |
 | Exterminator | 13.00% | ~2,048 |
 | Whodunnit | 12.00% | ~1,890 |
 | Good midwife | 11.00% | ~1,733 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~473 |
 | Boy of mystery | 2.00% | ~315 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,751 (Ranked 134)  
+Progressed: 15,754 (Ranked 134)  
 Completed: 113 (0.72%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 113 (0.72%) (Ranked 156)
 | 2023-10-12 | 15,702 | 113 |
 | 2023-10-13 | 15,720 | 113 |
 | 2023-10-14 | 15,748 | 113 |
-| 2023-10-15 | 15,751 | 113 |
+| 2023-10-15 | 15,754 | 113 |
 ## Awards
 Max (Easy Puzzles): 152  (Ranked 306)  
 Sum: 194 (Ranked 387)  

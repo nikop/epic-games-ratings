@@ -1,7 +1,7 @@
 # Port Royale 4
 [Store](https://store.epicgames.com/en-US/p/port-royale-4)  
 [View Rawdata](../../db/p/port_royale_4.json)  
-Rating: 4.03 (Ranked 961)  
+Rating: 4.03 (Ranked 962)  
 Number of Ratings: 53  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -16,7 +16,7 @@ Number of Ratings: 53  (23.09.2022)
 | Greed for gold | 43.00% | ~413 |
 | Intangible | 42.00% | ~404 |
 | I'm out of here for a while | 42.00% | ~404 |
-| In a mint condition | 37.00% | ~356 |
+| In a mint condition | 38.00% | ~365 |
 | Licence to Kill | 37.00% | ~356 |
 | Pirates! | 34.00% | ~327 |
 | Collectionitis | 29.00% | ~279 |

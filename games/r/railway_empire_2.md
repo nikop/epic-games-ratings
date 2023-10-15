@@ -10,9 +10,9 @@ Rating: 4.48 (Ranked 607)
 | Departure | 73.00% | ~1,478 |
 | From X to Y | 72.00% | ~1,457 |
 | Way of Iron | 70.00% | ~1,417 |
-| Mystery Tour | 68.00% | ~1,376 |
+| Mystery Tour | 69.00% | ~1,397 |
 | We brake for nobody | 67.00% | ~1,356 |
-| Brainstorm | 65.00% | ~1,316 |
+| Brainstorm | 66.00% | ~1,336 |
 | Mind the Gap | 65.00% | ~1,316 |
 | Travel Company | 65.00% | ~1,316 |
 | All around the World | 62.00% | ~1,255 |

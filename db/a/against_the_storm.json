@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 168,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3036,10 +3036,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3191,
       "NumberOfAwardsMax": 436
+    },
+    {
+      "Time": "2023-10-15T11:59:20.8404525+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3192,
+      "NumberOfAwardsMax": 436
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3191,
+  "NumberOfAwards": 3192,
   "NumberOfAwardsMax": 436,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3065,7 +3071,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 403
+      "Count": 404
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3104,9 +3110,9 @@
       "Count": 322
     }
   ],
-  "EOS_Progressed": 16925,
+  "EOS_Progressed": 16927,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -12029,6 +12035,11 @@
       "Time": "2023-10-15T10:08:05.3552746+00:00",
       "NumProgressed": 16925,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-10-15T12:08:12.6545044+00:00",
+      "NumProgressed": 16927,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 50,
@@ -12112,7 +12123,7 @@
       "Name": "Refinery",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "Win5Years",
@@ -12192,7 +12203,7 @@
       "Name": "Dangerous Lands",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "WinNearFertile",
@@ -12208,7 +12219,7 @@
       "Name": "Fishmen Ritual Site",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "WinNearForbidden",
@@ -12216,7 +12227,7 @@
       "Name": "Forbidden Lands",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "WinNearHaunted",
@@ -12280,7 +12291,7 @@
       "Name": "Forsaken Gods Temple",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "WinNearTorrent",
@@ -12384,7 +12395,7 @@
       "Name": "Victory through Prosperity",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "WinWithRuins",
@@ -12439,15 +12450,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 16925,
+      "Progressed": 16927,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-10-15T09:59:16.3489959+00:00",
-  "LastChanged_Achievements": "2023-10-15T11:08:12.8671666+00:00",
+  "LastChanged": "2023-10-15T11:59:20.8404524+00:00",
+  "LastChanged_Achievements": "2023-10-15T12:08:12.6545038+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:53.7787195+00:00",
-  "LastUpdate_Ratings": "2023-10-15T10:59:16.3089026+00:00",
-  "LastUpdate_Achievements": "2023-10-15T11:08:12.8673336+00:00"
+  "LastUpdate_Ratings": "2023-10-15T11:59:20.840453+00:00",
+  "LastUpdate_Achievements": "2023-10-15T12:08:12.6546289+00:00"
 }

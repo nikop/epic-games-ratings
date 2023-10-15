@@ -4,8 +4,8 @@
   "ProductSlug": "elypse-b177a8",
   "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 344,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 343,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-05-17T15:00:00+00:00",
     "PcReleaseDate": "2023-05-17T15:00:00+00:00",
@@ -532,9 +532,9 @@
       "ID": "Ach_BossGolem",
       "SetID": "4o5gjp0",
       "Name": "Rock Solid",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "Ach_BossSlug",
@@ -580,9 +580,9 @@
       "ID": "Ach_DarkPoulpeConstellation",
       "SetID": "4o5gjp0",
       "Name": "The beast within",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "Ach_DeathXTime",
@@ -628,9 +628,9 @@
       "ID": "Ach_DiscoveryTemple",
       "SetID": "4o5gjp0",
       "Name": "It\u0027s getting dark",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "Ach_DiscoveryTuto",
@@ -644,9 +644,9 @@
       "ID": "Ach_DiveDeath",
       "SetID": "4o5gjp0",
       "Name": "MayDay! MayDay!",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Ach_DiveKillEnnemis",
@@ -779,8 +779,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-10-15T11:08:39.5181639+00:00",
+  "LastChanged_Achievements": "2023-10-15T12:08:39.5602903+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:52.8723161+00:00",
-  "LastUpdate_Ratings": "2023-10-15T11:02:38.0878686+00:00",
-  "LastUpdate_Achievements": "2023-10-15T11:08:39.5182101+00:00"
+  "LastUpdate_Ratings": "2023-10-15T12:02:40.2863927+00:00",
+  "LastUpdate_Achievements": "2023-10-15T12:08:39.5603257+00:00"
 }

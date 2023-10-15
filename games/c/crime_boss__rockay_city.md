@@ -1,7 +1,7 @@
 # Crime Boss: Rockay City
 [Store](https://store.epicgames.com/en-US/p/crime-boss)  
 [View Rawdata](../../db/c/crime_boss__rockay_city.json)  
-Rating: 3.94 (Ranked 978)  
+Rating: 3.94 (Ranked 979)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -228,14 +228,14 @@ Completed: 50 (0.06%) (Ranked 264)
 | 2023-10-15 | 89,092 | 50 |
 ## Awards
 Max (Diverse Characters): 491  (Ranked 205)  
-Sum: 2,346 (Ranked 192)  
+Sum: 2,348 (Ranked 192)  
 Diff (max vs sum): 13  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 491 |
 | This game has Quickly Understood Controls | 475 |
 | This game is Highly Recommended | 467 |
-| This game has Challenging Combat | 459 |
+| This game has Challenging Combat | 461 |
 | This game has Amazing Characters | 454 |
 | This game is Great for Quick Sessions | 70 |
 | This game has Amazing Storytelling | 52 |
@@ -439,4 +439,4 @@ Diff (max vs sum): 13
 | 2023-10-11 | 3.94 | 488 | 2,329 |
 | 2023-10-13 | 3.94 | 490 | 2,337 |
 | 2023-10-14 | 3.94 | 491 | 2,344 |
-| 2023-10-15 | 3.94 | 491 | 2,346 |
+| 2023-10-15 | 3.94 | 491 | 2,348 |

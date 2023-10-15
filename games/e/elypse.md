@@ -14,10 +14,10 @@
 | Masochistic | 54.00% | ~53 |
 | Soft skin | 51.00% | ~50 |
 | Squid game | 44.00% | ~44 |
-| Rock Solid | 34.00% | ~34 |
+| Rock Solid | 35.00% | ~35 |
 | Sensitive soul | 34.00% | ~34 |
-| The beast within | 32.00% | ~32 |
-| It's getting dark | 32.00% | ~32 |
+| The beast within | 33.00% | ~33 |
+| It's getting dark | 33.00% | ~33 |
 | Hard Rock | 32.00% | ~32 |
 | Homeless | 29.00% | ~29 |
 | Rooftop | 28.00% | ~28 |
@@ -31,7 +31,7 @@
 | Compulsive hoarder | 20.00% | ~20 |
 | GG EZ | 15.00% | ~15 |
 | Comeback | 15.00% | ~15 |
-| MayDay! MayDay! | 11.00% | ~11 |
+| MayDay! MayDay! | 12.00% | ~12 |
 | Gooooooaaaaal!!! | 8.00% | ~8 |
 | Sadistic | 2.00% | ~2 |
 | Abyssal God | 0.00% | ~0 |

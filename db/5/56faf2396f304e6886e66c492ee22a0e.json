@@ -4,8 +4,8 @@
   "ProductSlug": "hush-hush-5c1fa0",
   "Ranking_EOS_Progress": 475,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 312,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-07-27T17:00:00+00:00",
     "PcReleaseDate": "2022-08-22T16:00:00+00:00",
@@ -169,9 +169,9 @@
       "ID": "ACHIEVEMENT_Ach_MioIntro_Cleavage",
       "SetID": "70j9o42",
       "Name": "A Load Of The Goods",
-      "Percentage": 36,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_Ach_MioScene4_Flex",
@@ -480,8 +480,8 @@
   ],
   "FirstSeen": "2023-07-28T15:57:49.6060029+00:00",
   "FirstSeenAchievements": "2023-07-12T17:04:29.8033729+00:00",
-  "LastChanged_Achievements": "2023-10-15T11:08:28.1910431+00:00",
+  "LastChanged_Achievements": "2023-10-15T12:08:27.9355083+00:00",
   "LastUpdate_AppInfo": "2023-10-10T13:57:13.6528159+00:00",
-  "LastUpdate_Ratings": "2023-10-15T11:01:33.931832+00:00",
-  "LastUpdate_Achievements": "2023-10-15T11:08:28.1910756+00:00"
+  "LastUpdate_Ratings": "2023-10-15T12:01:32.7897953+00:00",
+  "LastUpdate_Achievements": "2023-10-15T12:08:27.9355468+00:00"
 }

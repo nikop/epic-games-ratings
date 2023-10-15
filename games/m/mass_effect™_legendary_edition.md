@@ -10,7 +10,7 @@
 | Recruit | 72.00% | ~500 |
 | Search and Rescue | 71.00% | ~493 |
 | Quarian Ally | 69.00% | ~479 |
-| Medal of Heroism | 66.00% | ~458 |
+| Medal of Heroism | 67.00% | ~465 |
 | Honorarium of Corporate Service | 66.00% | ~458 |
 | Council Legion of Merit | 60.00% | ~416 |
 | Medal of Exploration II | 59.00% | ~409 |
@@ -79,8 +79,8 @@
 | A House Divided | 26.00% | ~180 |
 | Giant Killer | 25.00% | ~174 |
 | Weapon Specialist | 25.00% | ~174 |
+| World Shaker | 25.00% | ~174 |
 | Liberator | 25.00% | ~174 |
-| World Shaker | 24.00% | ~167 |
 | Tunnel Rat | 23.00% | ~160 |
 | Savior | 22.00% | ~153 |
 | Pathfinder | 22.00% | ~153 |

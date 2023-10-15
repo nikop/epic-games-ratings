@@ -37,12 +37,12 @@ Number of Ratings: 1,845  (23.09.2022)
 | Like a Machine | 3.00% | ~508 |
 | Defying the Crown | 3.00% | ~508 |
 | Into the Forest | 3.00% | ~508 |
-| Refinery | 2.00% | ~338 |
-| Dangerous Lands | 2.00% | ~338 |
-| Fishmen Ritual Site | 2.00% | ~338 |
-| Forbidden Lands | 2.00% | ~338 |
-| Forsaken Gods Temple | 2.00% | ~338 |
-| Victory through Prosperity | 2.00% | ~338 |
+| Refinery | 2.00% | ~339 |
+| Dangerous Lands | 2.00% | ~339 |
+| Fishmen Ritual Site | 2.00% | ~339 |
+| Forbidden Lands | 2.00% | ~339 |
+| Forsaken Gods Temple | 2.00% | ~339 |
+| Victory through Prosperity | 2.00% | ~339 |
 | Feeding The People | 1.00% | ~169 |
 | Efficient Explorer | 1.00% | ~169 |
 | Prestigious Expedition | 1.00% | ~169 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Higher Needs | 0.20% | ~34 |
 | Paradise | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,925 (Ranked 130)  
+Progressed: 16,927 (Ranked 130)  
 Completed: 52 (0.31%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,17 +235,17 @@ Completed: 52 (0.31%) (Ranked 202)
 | 2023-10-12 | 16,896 | 52 |
 | 2023-10-13 | 16,904 | 52 |
 | 2023-10-14 | 16,920 | 52 |
-| 2023-10-15 | 16,925 | 52 |
+| 2023-10-15 | 16,927 | 52 |
 ## Awards
 Max (Quickly Understood Controls): 436  (Ranked 212)  
-Sum: 3,191 (Ranked 168)  
+Sum: 3,192 (Ranked 168)  
 Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 436 |
 | This game is Relaxing | 428 |
 | This game is Great for Beginners | 407 |
-| This game is Extremely Fun | 403 |
+| This game is Extremely Fun | 404 |
 | This game is Highly Recommended | 388 |
 | This game has Unique Visuals | 322 |
 | This game has Amazing Storytelling | 315 |
@@ -468,4 +468,4 @@ Diff (max vs sum): 44
 | 2023-10-11 | 4.81 | - | 436 | 3,187 |
 | 2023-10-12 | 4.81 | - | 436 | 3,188 |
 | 2023-10-13 | 4.81 | - | 436 | 3,190 |
-| 2023-10-15 | 4.82 | - | 436 | 3,191 |
+| 2023-10-15 | 4.82 | - | 436 | 3,192 |

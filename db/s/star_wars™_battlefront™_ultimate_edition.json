@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -26,7 +26,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 659,
+  "EOS_Progressed": 660,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
@@ -1756,6 +1756,11 @@
       "Time": "2023-10-15T09:05:10.2540366+00:00",
       "NumProgressed": 659,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-15T12:06:19.7965408+00:00",
+      "NumProgressed": 660,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -1864,7 +1869,7 @@
       "Name": "Collector",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "achievement_21",
@@ -1912,7 +1917,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "achievement_27",
@@ -1960,7 +1965,7 @@
       "Name": "Scrap collector",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "achievement_32",
@@ -1984,15 +1989,15 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "achievement_35",
       "SetID": "271ol84",
       "Name": "New Recruit",
-      "Percentage": 91,
+      "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 600
+      "UsersEstimate": 594
     },
     {
       "ID": "achievement_36",
@@ -2008,7 +2013,7 @@
       "Name": "Off to a good start",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "achievement_38",
@@ -2040,7 +2045,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "achievement_41",
@@ -2271,13 +2276,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 659,
+      "Progressed": 660,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 659,
+      "Progressed": 660,
       "Completed": 1
     }
   ],
@@ -2285,8 +2290,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-15T11:06:11.4608085+00:00",
+  "LastChanged_Achievements": "2023-10-15T12:06:19.7965401+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:22.846224+00:00",
-  "LastUpdate_Ratings": "2023-10-15T11:03:32.5319032+00:00",
-  "LastUpdate_Achievements": "2023-10-15T11:06:11.4608902+00:00"
+  "LastUpdate_Ratings": "2023-10-15T12:03:29.8668879+00:00",
+  "LastUpdate_Achievements": "2023-10-15T12:06:19.7966267+00:00"
 }

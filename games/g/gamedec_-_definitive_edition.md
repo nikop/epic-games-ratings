@@ -6,17 +6,17 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~69,766 |
-| Powergamer | 27.00% | ~67,274 |
-| Barely scratched the surface | 25.00% | ~62,291 |
-| Write that down | 24.00% | ~59,799 |
-| Guns, lots of guns | 13.00% | ~32,391 |
+| I will finish what you started | 28.00% | ~69,767 |
+| Powergamer | 27.00% | ~67,276 |
+| Barely scratched the surface | 25.00% | ~62,292 |
+| Write that down | 24.00% | ~59,801 |
+| Guns, lots of guns | 13.00% | ~32,392 |
 | Collector | 12.00% | ~29,900 |
 | Elementary! | 9.00% | ~22,425 |
-| Griever | 8.00% | ~19,933 |
-| Pumpkin Jack | 8.00% | ~19,933 |
-| Wake up! | 8.00% | ~19,933 |
-| It's honest work | 7.00% | ~17,441 |
+| Griever | 8.00% | ~19,934 |
+| Pumpkin Jack | 8.00% | ~19,934 |
+| Wake up! | 8.00% | ~19,934 |
+| It's honest work | 7.00% | ~17,442 |
 | Me smart | 6.00% | ~14,950 |
 | Trash compactor | 6.00% | ~14,950 |
 | Good listener | 5.00% | ~12,458 |
@@ -52,14 +52,14 @@ Number of Ratings: 33  (23.09.2022)
 | Irondec | 0.40% | ~997 |
 | LET ME OUT! | 0.40% | ~997 |
 | Un-bear-able | 0.40% | ~997 |
-| Well-deserved reunion | 0.30% | ~747 |
+| Well-deserved reunion | 0.30% | ~748 |
 | Breaking the chains | 0.20% | ~498 |
 | Aren't you overthinking? | 0.20% | ~498 |
 | Take the red pill | 0.20% | ~498 |
 | This is the way | 0.20% | ~498 |
 | Memory 5 | 0.10% | ~249 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,164 (Ranked 53)  
+Progressed: 249,169 (Ranked 53)  
 Completed: 7 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,14 +237,14 @@ Completed: 7 (0.00%) (Ranked 314)
 | 2023-10-12 | 248,866 | 7 |
 | 2023-10-13 | 248,977 | 7 |
 | 2023-10-14 | 249,112 | 7 |
-| 2023-10-15 | 249,164 | 7 |
+| 2023-10-15 | 249,169 | 7 |
 ## Awards
-Max (Character Customization): 83  (Ranked 369)  
-Sum: 83 (Ranked 441)  
-Diff (max vs sum): -72  
+Max (Character Customization): 84  (Ranked 368)  
+Sum: 84 (Ranked 441)  
+Diff (max vs sum): -73  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 83 |
+| This game has Inclusive Character Customization | 84 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -320,3 +320,4 @@ Diff (max vs sum): -72
 | 2023-09-29 | 4.30 | - | 82 | 82 |
 | 2023-10-08 | 4.29 | - | 82 | 82 |
 | 2023-10-12 | 4.29 | - | 83 | 83 |
+| 2023-10-15 | 4.29 | - | 84 | 84 |

@@ -2,13 +2,13 @@
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
-  "Ranking_Rating": 915,
+  "Ranking_Rating": 916,
   "Ranking_Popularity": 482,
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -11144,8 +11144,8 @@
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-10-06T21:58:13.2562711+00:00",
-  "LastChanged_Achievements": "2023-10-15T11:06:59.9138232+00:00",
+  "LastChanged_Achievements": "2023-10-15T12:07:09.6239328+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:05.4941436+00:00",
-  "LastUpdate_Ratings": "2023-10-15T10:57:30.1006446+00:00",
-  "LastUpdate_Achievements": "2023-10-15T11:06:59.9139712+00:00"
+  "LastUpdate_Ratings": "2023-10-15T11:57:27.72815+00:00",
+  "LastUpdate_Achievements": "2023-10-15T12:07:09.6240729+00:00"
 }

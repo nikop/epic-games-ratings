@@ -2,13 +2,13 @@
   "ID": "fa9a00f7f82846b4b820e6152b69aa55",
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
-  "Ranking_Rating": 1012,
+  "Ranking_Rating": 1013,
   "Ranking_Popularity": 536,
   "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -56,9 +56,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1601,
+  "EOS_Progressed": 1603,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5931,6 +5931,11 @@
       "Time": "2023-10-15T06:06:34.8302136+00:00",
       "NumProgressed": 1601,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-15T12:06:33.0512726+00:00",
+      "NumProgressed": 1603,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6046,7 +6051,7 @@
       "Name": "Facility Online",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -6118,7 +6123,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -6198,7 +6203,7 @@
       "Name": "Defenses Online",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -6245,7 +6250,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1601,
+      "Progressed": 1603,
       "Completed": 1
     }
   ],
@@ -6253,8 +6258,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-10-15T11:06:24.0645515+00:00",
+  "LastChanged_Achievements": "2023-10-15T12:06:33.051272+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:23.525424+00:00",
-  "LastUpdate_Ratings": "2023-10-15T11:00:39.139167+00:00",
-  "LastUpdate_Achievements": "2023-10-15T11:06:24.0646162+00:00"
+  "LastUpdate_Ratings": "2023-10-15T12:00:41.3192953+00:00",
+  "LastUpdate_Achievements": "2023-10-15T12:06:33.051356+00:00"
 }

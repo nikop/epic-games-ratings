@@ -2,13 +2,13 @@
   "ID": "291e87e34f2742d1a246630a2208abaf",
   "Name": "Dragonheir: Silent Gods",
   "ProductSlug": "dragonheir-silent-gods-559a4c",
-  "Ranking_Rating": 930,
+  "Ranking_Rating": 931,
   "Ranking_Popularity": 536,
   "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 670,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 396,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 397,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-09-18T00:00:00+00:00",
     "PcReleaseDate": "2023-09-18T00:00:00+00:00",
@@ -316,6 +316,6 @@
   "FirstSeenRating": "2023-09-23T08:59:11.6504531+00:00",
   "LastChanged": "2023-10-14T17:59:35.1427755+00:00",
   "LastUpdate_AppInfo": "2023-10-09T03:57:37.7255999+00:00",
-  "LastUpdate_Ratings": "2023-10-15T11:00:49.6360897+00:00",
-  "LastUpdate_Achievements": "2023-10-15T11:08:44.5323184+00:00"
+  "LastUpdate_Ratings": "2023-10-15T12:00:53.051309+00:00",
+  "LastUpdate_Achievements": "2023-10-15T12:08:44.8947256+00:00"
 }

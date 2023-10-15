@@ -2,7 +2,7 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 897,
+  "Ranking_Rating": 898,
   "Ranking_Popularity": 97,
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 91,
@@ -3542,7 +3542,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73528,
+  "EOS_Progressed": 73529,
   "EOS_Completed": 121,
   "EOS_NewPlayers": 239,
   "EOS_NewCompleters": 1,
@@ -18742,6 +18742,11 @@
       "Time": "2023-10-15T11:05:48.3051011+00:00",
       "NumProgressed": 73528,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-10-15T12:05:56.353063+00:00",
+      "NumProgressed": 73529,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 61,
@@ -18801,7 +18806,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16911
+      "UsersEstimate": 16912
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -18841,7 +18846,7 @@
       "Name": "In Your Element",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 11764
+      "UsersEstimate": 11765
     },
     {
       "ID": "CHALLENGES_1",
@@ -18993,7 +18998,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 13970
+      "UsersEstimate": 13971
     },
     {
       "ID": "FREEZE_3",
@@ -19081,7 +19086,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 11764
+      "UsersEstimate": 11765
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -19161,7 +19166,7 @@
       "Name": "Lock and Key",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16911
+      "UsersEstimate": 16912
     },
     {
       "ID": "MYSTERY_04",
@@ -19240,13 +19245,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73528,
+      "Progressed": 73529,
       "Completed": 121
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43808,
+      "Progressed": 43809,
       "Completed": 2667
     }
   ],
@@ -19254,8 +19259,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-15T05:58:45.1021931+00:00",
-  "LastChanged_Achievements": "2023-10-15T11:05:48.3051006+00:00",
+  "LastChanged_Achievements": "2023-10-15T12:05:56.3530622+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:41.7245252+00:00",
-  "LastUpdate_Ratings": "2023-10-15T10:58:52.7475864+00:00",
-  "LastUpdate_Achievements": "2023-10-15T11:05:48.3053064+00:00"
+  "LastUpdate_Ratings": "2023-10-15T11:58:52.641098+00:00",
+  "LastUpdate_Achievements": "2023-10-15T12:05:56.3532276+00:00"
 }

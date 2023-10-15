@@ -1,12 +1,12 @@
 # SYNCED
 [Store](https://store.epicgames.com/en-US/p/synced)  
 [View Rawdata](../../db/s/synced.json)  
-Rating: 4.16 (Ranked 908)  
+Rating: 4.17 (Ranked 905)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 30.00% | ~18,959 |
-| As Far Away As Possible | 16.00% | ~10,112 |
+| Your Lucky Day | 30.00% | ~18,961 |
+| As Far Away As Possible | 16.00% | ~10,113 |
 | A Most Unstable Organism | 12.00% | ~7,584 |
 | No Time to Follow Protocol | 10.00% | ~6,320 |
 | Float Like a Butterfly... | 8.00% | ~5,056 |
@@ -22,7 +22,7 @@ Rating: 4.16 (Ranked 908)
 | Runs for Your Money | 0.20% | ~126 |
 | Past Master | 0.20% | ~126 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,197 (Ranked 98)  
+Progressed: 63,204 (Ranked 98)  
 Completed: 17 (0.03%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,15 +71,15 @@ Completed: 17 (0.03%) (Ranked 283)
 | 2023-10-12 | 62,755 | 15 |
 | 2023-10-13 | 62,918 | 16 |
 | 2023-10-14 | 63,129 | 17 |
-| 2023-10-15 | 63,197 | 17 |
+| 2023-10-15 | 63,204 | 17 |
 ## Awards
 Max (Great for Beginners): 67  (Ranked 395)  
-Sum: 262 (Ranked 365)  
+Sum: 264 (Ranked 365)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 67 |
-| This game has Diverse Characters | 43 |
+| This game has Diverse Characters | 45 |
 | This game is Highly Recommended | 38 |
 | This game has a Competitive Community | 32 |
 | This game is Extremely Fun | 32 |
@@ -125,3 +125,4 @@ Diff (max vs sum): 30
 | 2023-10-12 | 4.16 | 63 | 217 |
 | 2023-10-13 | 4.16 | 66 | 261 |
 | 2023-10-14 | 4.16 | 67 | 262 |
+| 2023-10-15 | 4.17 | 67 | 264 |

@@ -5,9 +5,9 @@ Rating: 4.64 (Ranked 321)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Satisfied Gus-tomer | 1.00% | ~242 |
 | First Bounty Down | 1.00% | ~242 |
 | Cold-Blooded Driller | 1.00% | ~242 |
-| Satisfied Gus-tomer | 0.90% | ~218 |
 | Are You Packin'? | 0.90% | ~218 |
 | Sweezy Like Sunday Morning | 0.90% | ~218 |
 | G3 Graduation | 0.90% | ~218 |
