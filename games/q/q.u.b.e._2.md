@@ -6,21 +6,21 @@ Number of Ratings: 94  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost in Space | 77.00% | ~11,200 |
-| Quick Understanding of Block Extrusion | 69.00% | ~10,037 |
-| Nature or Nurture | 49.00% | ~7,128 |
-| Power Glove | 46.00% | ~6,691 |
-| Forgotten Memories | 37.00% | ~5,382 |
-| Cogs in the Machine | 28.00% | ~4,073 |
-| Mission Success | 12.00% | ~1,746 |
-| There's No Place Like Home | 12.00% | ~1,746 |
-| Green Cube Killer | 10.00% | ~1,455 |
-| Infinity Loop | 6.00% | ~873 |
-| Path to Salvation | 6.00% | ~873 |
-| Descendants | 4.00% | ~582 |
-| The Flawed Teacher | 3.00% | ~436 |
-| To Infinity and Beyond | 3.00% | ~436 |
-| The Truthful Enemy | 1.00% | ~145 |
+| Lost in Space | 77.00% | ~11,284 |
+| Quick Understanding of Block Extrusion | 69.00% | ~10,112 |
+| Nature or Nurture | 49.00% | ~7,181 |
+| Power Glove | 46.00% | ~6,741 |
+| Forgotten Memories | 37.00% | ~5,422 |
+| Cogs in the Machine | 28.00% | ~4,103 |
+| Mission Success | 12.00% | ~1,759 |
+| There's No Place Like Home | 12.00% | ~1,759 |
+| Green Cube Killer | 11.00% | ~1,612 |
+| Infinity Loop | 6.00% | ~879 |
+| Path to Salvation | 6.00% | ~879 |
+| Descendants | 5.00% | ~733 |
+| The Flawed Teacher | 4.00% | ~586 |
+| To Infinity and Beyond | 3.00% | ~440 |
+| The Truthful Enemy | 1.00% | ~147 |
 | Laser Sharp | 0.50% | ~73 |
 | Home Stretch | 0.30% | ~44 |
 | True collector | 0.20% | ~29 |
@@ -36,7 +36,7 @@ Number of Ratings: 94  (23.09.2022)
 | QUBE Master | 0.10% | ~15 |
 | Expert Collector | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,546 (Ranked 135)  
+Progressed: 14,655 (Ranked 135)  
 Completed: 7 (0.05%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,6 +91,7 @@ Completed: 7 (0.05%) (Ranked 270)
 | 2023-10-12 | 3,214 | 1 |
 | 2023-10-13 | 9,184 | 3 |
 | 2023-10-14 | 14,546 | 7 |
+| 2023-10-15 | 14,655 | 7 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

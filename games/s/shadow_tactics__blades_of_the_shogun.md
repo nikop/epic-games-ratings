@@ -6,28 +6,28 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~24,946 |
+| Genin | 12.00% | ~24,947 |
 | A thief's beginning | 10.00% | ~20,789 |
 | Thorough | 10.00% | ~20,789 |
 | Rollin' | 9.00% | ~18,710 |
-| Disguised | 8.00% | ~16,631 |
-| Rescue Takuma | 8.00% | ~16,631 |
-| Tanuki Time | 8.00% | ~16,631 |
-| Happy Planning | 7.00% | ~14,552 |
-| Ice Ice Yuki | 7.00% | ~14,552 |
-| Jonin | 7.00% | ~14,552 |
-| Stoned Ox | 7.00% | ~14,552 |
-| Yabu | 7.00% | ~14,552 |
-| Chunin | 6.00% | ~12,473 |
-| Flying Rocks | 6.00% | ~12,473 |
-| Mugen Unchained | 6.00% | ~12,473 |
-| Warzone | 6.00% | ~12,473 |
-| Okkoto | 5.00% | ~10,394 |
-| Prisoners | 5.00% | ~10,394 |
-| Too Early | 5.00% | ~10,394 |
-| Gear up | 4.00% | ~8,315 |
-| Happy little accidents | 4.00% | ~8,315 |
-| Still Rollin' | 4.00% | ~8,315 |
+| Disguised | 8.00% | ~16,632 |
+| Rescue Takuma | 8.00% | ~16,632 |
+| Tanuki Time | 8.00% | ~16,632 |
+| Happy Planning | 7.00% | ~14,553 |
+| Ice Ice Yuki | 7.00% | ~14,553 |
+| Jonin | 7.00% | ~14,553 |
+| Stoned Ox | 7.00% | ~14,553 |
+| Yabu | 7.00% | ~14,553 |
+| Chunin | 6.00% | ~12,474 |
+| Flying Rocks | 6.00% | ~12,474 |
+| Mugen Unchained | 6.00% | ~12,474 |
+| Warzone | 6.00% | ~12,474 |
+| Okkoto | 5.00% | ~10,395 |
+| Prisoners | 5.00% | ~10,395 |
+| Too Early | 5.00% | ~10,395 |
+| Gear up | 4.00% | ~8,316 |
+| Happy little accidents | 4.00% | ~8,316 |
+| Still Rollin' | 4.00% | ~8,316 |
 | Noboru | 3.00% | ~6,237 |
 | Stoned | 3.00% | ~6,237 |
 | The Old Way | 3.00% | ~6,237 |
@@ -51,8 +51,8 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~208 |
 | Release the Kraken | 0.10% | ~208 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 207,886 (Ranked 65)  
-Completed: 90 (0.04%) (Ranked 277)  
+Progressed: 207,894 (Ranked 65)  
+Completed: 91 (0.04%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -229,6 +229,7 @@ Completed: 90 (0.04%) (Ranked 277)
 | 2023-10-12 | 207,509 | 90 |
 | 2023-10-13 | 207,685 | 90 |
 | 2023-10-14 | 207,886 | 90 |
+| 2023-10-15 | 207,894 | 91 |
 ## Awards
 Max (Great for Beginners): 567  (Ranked 196)  
 Sum: 4,790 (Ranked 138)  

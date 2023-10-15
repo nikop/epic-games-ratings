@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 283,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1857,7 +1857,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14699,
+  "EOS_Progressed": 14701,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 207,
   "EOS_NewCompleters": 0,
@@ -13867,6 +13867,11 @@
       "Time": "2023-10-14T23:08:55.0829995+00:00",
       "NumProgressed": 14699,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-15T00:06:35.2170117+00:00",
+      "NumProgressed": 14701,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -14414,7 +14419,7 @@
       "Name": "Lion",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MAGNIFICENT",
@@ -14630,7 +14635,7 @@
       "Name": "Good Difficulty",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_GREAT",
@@ -14750,7 +14755,7 @@
       "Name": "Patrons",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_RIDERS",
@@ -14758,7 +14763,7 @@
       "Name": "Riders",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_SAGES",
@@ -15190,7 +15195,7 @@
       "Name": "Hittite Iron",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_ACROPOLIS",
@@ -15214,7 +15219,7 @@
       "Name": "Circus Maximus",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_COLOSSUS",
@@ -15238,7 +15243,7 @@
       "Name": "Hagia Sophia",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HANGING_GARDENS",
@@ -15262,7 +15267,7 @@
       "Name": "Temple of Solomon",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_MANICHAEISM",
@@ -15334,7 +15339,7 @@
       "Name": "Pantheon",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_PYRAMIDS",
@@ -15350,7 +15355,7 @@
       "Name": "Via Recta Souk",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACHIEVEMENT_KNOWLEDGE_ANCIENTS",
@@ -15422,7 +15427,7 @@
       "Name": "Learn to Play 4",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_5",
@@ -15510,7 +15515,7 @@
       "Name": "Greece",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACHIEVEMENT_NATION_HITTITE",
@@ -15638,7 +15643,7 @@
       "Name": "Power to the People",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACHIEVEMENT_PUNIC_WARS",
@@ -15726,7 +15731,7 @@
       "Name": "Persian Paganism",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_ROME",
@@ -15862,7 +15867,7 @@
       "Name": "Legalism",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_MYTHOLOGY",
@@ -15878,7 +15883,7 @@
       "Name": "Redemption",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_REVELATION",
@@ -15926,7 +15931,7 @@
       "Name": "Cimmerian Archer",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACHIEVEMENT_UNIT_HITTITE_CHARIOT",
@@ -15950,7 +15955,7 @@
       "Name": "Legionary",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACHIEVEMENT_UNIT_PHALANGITE",
@@ -16014,7 +16019,7 @@
       "Name": "Double Victory",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_NO_CHARACTERS",
@@ -16046,7 +16051,7 @@
       "Name": "Points Victory",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_RANDOMIZE_FAMILIES",
@@ -16613,21 +16618,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14699,
+      "Progressed": 14701,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14699,
+      "Progressed": 14701,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-14T19:03:24.424824+00:00",
-  "LastChanged_Achievements": "2023-10-14T23:08:55.0829987+00:00",
+  "LastChanged_Achievements": "2023-10-15T00:06:35.2170113+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:21.7880328+00:00",
-  "LastUpdate_Ratings": "2023-10-14T23:03:29.3804586+00:00",
-  "LastUpdate_Achievements": "2023-10-14T23:08:55.0855559+00:00"
+  "LastUpdate_Ratings": "2023-10-15T00:02:24.2641933+00:00",
+  "LastUpdate_Achievements": "2023-10-15T00:06:35.2181673+00:00"
 }

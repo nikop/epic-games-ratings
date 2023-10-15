@@ -6,7 +6,7 @@ Rating: 4.27 (Ranked 835)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | We made it | 39.00% | ~439 |
-| The City | 10.00% | ~112 |
+| The City | 10.00% | ~113 |
 | Manipulating Fate | 9.00% | ~101 |
 | Full house | 6.00% | ~68 |
 | Burn and Pillage | 6.00% | ~68 |
@@ -21,9 +21,9 @@ Rating: 4.27 (Ranked 835)
 | Greedy | 4.00% | ~45 |
 | The Stranded King | 4.00% | ~45 |
 | Prophecy Fulfilled | 4.00% | ~45 |
-| The First King | 2.00% | ~22 |
-| The Greedy Ones | 2.00% | ~22 |
-| The Unruly Ones | 2.00% | ~22 |
+| The First King | 2.00% | ~23 |
+| The Greedy Ones | 2.00% | ~23 |
+| The Unruly Ones | 2.00% | ~23 |
 | The great fire | 1.00% | ~11 |
 | The Council | 1.00% | ~11 |
 | The Mad | 1.00% | ~11 |
@@ -32,8 +32,8 @@ Rating: 4.27 (Ranked 835)
 | Metropolis | 0.60% | ~7 |
 | Six Faces | 0.50% | ~6 |
 | Knowledge is Power | 0.50% | ~6 |
-| The Great Winter | 0.40% | ~4 |
-| Red Tape | 0.40% | ~4 |
+| The Great Winter | 0.40% | ~5 |
+| Red Tape | 0.40% | ~5 |
 | The Incarnate | 0.30% | ~3 |
 | Ice and Fire | 0.20% | ~2 |
 | Mad Engineers | 0.20% | ~2 |
@@ -51,7 +51,7 @@ Rating: 4.27 (Ranked 835)
 | Fate is against us | 0.00% | ~0 |
 | Despite everything | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,125 (Ranked 229)  
+Progressed: 1,126 (Ranked 229)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,6 +200,7 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-10-11 | 1,121 | 0 |
 | 2023-10-13 | 1,122 | 0 |
 | 2023-10-14 | 1,125 | 0 |
+| 2023-10-15 | 1,126 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
     "PcReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -718,7 +718,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2549,
+  "EOS_Progressed": 2554,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 350,
   "EOS_NewCompleters": 0,
@@ -3148,6 +3148,11 @@
       "Time": "2023-10-14T23:07:03.2407031+00:00",
       "NumProgressed": 2549,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-15T00:05:17.6593441+00:00",
+      "NumProgressed": 2554,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -3160,7 +3165,7 @@
       "Name": "Primetime",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "achievement_10",
@@ -3168,7 +3173,7 @@
       "Name": "Bragging Rights",
       "Percentage": 56,
       "XP": 90,
-      "UsersEstimate": 1427
+      "UsersEstimate": 1430
     },
     {
       "ID": "achievement_11",
@@ -3176,7 +3181,7 @@
       "Name": "Future of the Franchise",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "achievement_12",
@@ -3184,7 +3189,7 @@
       "Name": "Stud Finder",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 1071
+      "UsersEstimate": 1073
     },
     {
       "ID": "achievement_13",
@@ -3192,7 +3197,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 1351
+      "UsersEstimate": 1354
     },
     {
       "ID": "achievement_14",
@@ -3200,7 +3205,7 @@
       "Name": "Dealmaker",
       "Percentage": 41,
       "XP": 60,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1047
     },
     {
       "ID": "achievement_15",
@@ -3208,15 +3213,15 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 1376
+      "UsersEstimate": 1379
     },
     {
       "ID": "achievement_16",
       "SetID": "c8fif6p",
       "Name": "ROTY",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 867
+      "UsersEstimate": 843
     },
     {
       "ID": "achievement_17",
@@ -3224,7 +3229,7 @@
       "Name": "Pocket Ace",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "achievement_18",
@@ -3232,7 +3237,7 @@
       "Name": "Gain Train",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "achievement_19",
@@ -3248,7 +3253,7 @@
       "Name": "Unblockable",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "achievement_20",
@@ -3272,7 +3277,7 @@
       "Name": "Throwin\u2019 Dots",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "achievement_4",
@@ -3288,7 +3293,7 @@
       "Name": "Already in Progress",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "achievement_6",
@@ -3296,7 +3301,7 @@
       "Name": "Change of Scenery",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "achievement_7",
@@ -3304,7 +3309,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "achievement_8",
@@ -3312,7 +3317,7 @@
       "Name": "Pro Bowler",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "achievement_9",
@@ -3320,14 +3325,14 @@
       "Name": "Head-to-Head",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     }
   ],
   "AchievementSets": [
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 2549,
+      "Progressed": 2554,
       "Completed": 0
     }
   ],
@@ -3335,8 +3340,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-10-14T10:02:07.7088348+00:00",
-  "LastChanged_Achievements": "2023-10-14T23:07:03.2407028+00:00",
+  "LastChanged_Achievements": "2023-10-15T00:05:17.6593436+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:08.8110287+00:00",
-  "LastUpdate_Ratings": "2023-10-14T23:03:05.6719794+00:00",
-  "LastUpdate_Achievements": "2023-10-14T23:07:03.2407314+00:00"
+  "LastUpdate_Ratings": "2023-10-15T00:02:08.0130603+00:00",
+  "LastUpdate_Achievements": "2023-10-15T00:05:17.6593738+00:00"
 }

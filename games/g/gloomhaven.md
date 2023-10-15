@@ -6,21 +6,21 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 43.00% | ~5,717 |
-| Overkill | 34.00% | ~4,521 |
-| A normal day in Gloomhaven | 34.00% | ~4,521 |
-| Vaccine Incoming | 33.00% | ~4,388 |
-| Spread the plague | 31.00% | ~4,122 |
-| Get over here! | 24.00% | ~3,191 |
-| Just when I thought I was out... | 19.00% | ~2,526 |
-| Mine... All Mine... | 17.00% | ~2,260 |
-| Precious! | 16.00% | ~2,127 |
-| Light of my life | 15.00% | ~1,994 |
-| Anatomy Lesson | 15.00% | ~1,994 |
-| Grizzled veteran | 13.00% | ~1,728 |
-| You activated my trap card! | 13.00% | ~1,728 |
-| Augmented rat | 13.00% | ~1,728 |
-| Obstacle race | 13.00% | ~1,728 |
+| I'm not dead yet | 43.00% | ~5,720 |
+| Overkill | 34.00% | ~4,523 |
+| A normal day in Gloomhaven | 34.00% | ~4,523 |
+| Vaccine Incoming | 33.00% | ~4,390 |
+| Spread the plague | 31.00% | ~4,124 |
+| Get over here! | 24.00% | ~3,193 |
+| Just when I thought I was out... | 19.00% | ~2,528 |
+| Mine... All Mine... | 17.00% | ~2,262 |
+| Precious! | 16.00% | ~2,128 |
+| Light of my life | 15.00% | ~1,995 |
+| Anatomy Lesson | 15.00% | ~1,995 |
+| Grizzled veteran | 13.00% | ~1,729 |
+| You activated my trap card! | 13.00% | ~1,729 |
+| Augmented rat | 13.00% | ~1,729 |
+| Obstacle race | 13.00% | ~1,729 |
 | Doom and gloom | 11.00% | ~1,463 |
 | Who's the Boss? | 8.00% | ~1,064 |
 | Pack leader | 8.00% | ~1,064 |
@@ -51,7 +51,7 @@ Number of Ratings: 68  (23.09.2022)
 | Captain hooked | 0.80% | ~106 |
 | Betray this | 0.70% | ~93 |
 | Spoiler police! | 0.60% | ~80 |
-| Born Support | 0.50% | ~66 |
+| Born Support | 0.50% | ~67 |
 | A tough job | 0.40% | ~53 |
 | The Pacifist | 0.40% | ~53 |
 | The evil that men do | 0.30% | ~40 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~13 |
 | Murder Death Kill | 0.10% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,296 (Ranked 140)  
+Progressed: 13,303 (Ranked 140)  
 Completed: 1 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,9 +100,10 @@ Completed: 1 (0.01%) (Ranked 296)
 | 2023-10-12 | 12,652 | 1 |
 | 2023-10-13 | 12,946 | 1 |
 | 2023-10-14 | 13,296 | 1 |
+| 2023-10-15 | 13,303 | 1 |
 ## Awards
 Max (Character Customization): 3,552  (Ranked 90)  
-Sum: 8,287 (Ranked 98)  
+Sum: 8,288 (Ranked 98)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -115,7 +116,7 @@ Diff (max vs sum): -8
 | This game has Amazing Characters | 486 |
 | This game has Quickly Understood Controls | 482 |
 | This game has Amazing Storytelling | 481 |
-| This game has Unique Visuals | 376 |
+| This game has Unique Visuals | 377 |
 | This game has a Creative Community | 211 |
 | This game has Obsessive Gameplay | 152 |
 ## Ratings History
@@ -311,4 +312,4 @@ Diff (max vs sum): -8
 | 2023-10-11 | 4.47 | - | 3,551 | 8,279 |
 | 2023-10-12 | 4.47 | - | 3,551 | 8,282 |
 | 2023-10-13 | 4.47 | - | 3,551 | 8,284 |
-| 2023-10-14 | 4.47 | - | 3,552 | 8,287 |
+| 2023-10-14 | 4.47 | - | 3,552 | 8,288 |

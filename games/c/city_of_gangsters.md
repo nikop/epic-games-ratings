@@ -5,19 +5,19 @@ Rating: 4.28 (Ranked 828)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~159,981 |
+| Corner Clout | 46.00% | ~159,982 |
 | Copacetic Coordination | 16.00% | ~55,646 |
 | Fronting the Money | 15.00% | ~52,168 |
 | The Dawn of Automation | 14.00% | ~48,690 |
 | Extraordinary Logistics | 14.00% | ~48,690 |
 | Dirty Money | 13.00% | ~45,212 |
 | Family First | 13.00% | ~45,212 |
-| Cleaning House | 12.00% | ~41,734 |
-| Room in the Back | 12.00% | ~41,734 |
-| Beating the Heat | 11.00% | ~38,256 |
-| Booze Baron | 11.00% | ~38,256 |
-| Friends on the Force | 10.00% | ~34,778 |
-| Neighborhood Watch | 10.00% | ~34,778 |
+| Cleaning House | 12.00% | ~41,735 |
+| Room in the Back | 12.00% | ~41,735 |
+| Beating the Heat | 11.00% | ~38,257 |
+| Booze Baron | 11.00% | ~38,257 |
+| Friends on the Force | 10.00% | ~34,779 |
+| Neighborhood Watch | 10.00% | ~34,779 |
 | Core Corps | 8.00% | ~27,823 |
 | Sizeable Stash | 8.00% | ~27,823 |
 | Street Fighter | 7.00% | ~24,345 |
@@ -36,11 +36,11 @@ Rating: 4.28 (Ranked 828)
 | Opportunity Knocked | 5.00% | ~17,389 |
 | City of Big Shoulders | 5.00% | ~17,389 |
 | Mission Mastery | 5.00% | ~17,389 |
-| Considerable Clams | 4.00% | ~13,911 |
-| Gin Joint | 4.00% | ~13,911 |
-| An Affront to the Enemy | 4.00% | ~13,911 |
-| Friends from Back Home | 4.00% | ~13,911 |
-| Half Century Mark | 4.00% | ~13,911 |
+| Considerable Clams | 4.00% | ~13,912 |
+| Gin Joint | 4.00% | ~13,912 |
+| An Affront to the Enemy | 4.00% | ~13,912 |
+| Friends from Back Home | 4.00% | ~13,912 |
+| Half Century Mark | 4.00% | ~13,912 |
 | Corner Opportunities | 3.00% | ~10,434 |
 | 2122 North Clark Street | 3.00% | ~10,434 |
 | Copious Cabbage | 3.00% | ~10,434 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 828)
 | High Pillow | 0.10% | ~348 |
 | Station Master | 0.10% | ~348 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 347,785 (Ranked 43)  
+Progressed: 347,788 (Ranked 43)  
 Completed: 7 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,6 +264,7 @@ Completed: 7 (0.00%) (Ranked 314)
 | 2023-10-12 | 347,462 | 7 |
 | 2023-10-13 | 347,589 | 7 |
 | 2023-10-14 | 347,785 | 7 |
+| 2023-10-15 | 347,788 | 7 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 445)  
 Sum: 177 (Ranked 397)  

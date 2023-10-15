@@ -21,8 +21,8 @@ Rating: 4.30 (Ranked 812)
 | Kill-streak | 30.00% | ~52 |
 | Topped up | 28.00% | ~48 |
 | The Bird | 28.00% | ~48 |
+| The Ninja | 27.00% | ~46 |
 | The Idol | 26.00% | ~45 |
-| The Ninja | 26.00% | ~45 |
 | Inferno Ruins | 25.00% | ~43 |
 | I'm Rich | 23.00% | ~40 |
 | 1 is all I need | 22.00% | ~38 |

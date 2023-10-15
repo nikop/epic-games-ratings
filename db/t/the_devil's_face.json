@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
     "PcReleaseDate": "2023-08-26T16:00:00+00:00",
@@ -1656,17 +1656,17 @@
       "ID": "NEW_ACHIEVEMENT_1_10",
       "SetID": "296pn27",
       "Name": "The crucifixion",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 15
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
       "SetID": "296pn27",
       "Name": "The choice",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 11
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
@@ -1744,9 +1744,9 @@
       "ID": "NEW_ACHIEVEMENT_1_9",
       "SetID": "296pn27",
       "Name": "Flagellation",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 15
     }
   ],
   "AchievementSets": [
@@ -1759,8 +1759,8 @@
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-10-14T23:05:59.9714905+00:00",
+  "LastChanged_Achievements": "2023-10-15T00:04:34.5943536+00:00",
   "LastUpdate_AppInfo": "2023-10-14T11:57:11.021684+00:00",
-  "LastUpdate_Ratings": "2023-10-14T22:59:04.4805027+00:00",
-  "LastUpdate_Achievements": "2023-10-14T23:05:59.9715183+00:00"
+  "LastUpdate_Ratings": "2023-10-14T23:58:14.0997321+00:00",
+  "LastUpdate_Achievements": "2023-10-15T00:04:34.5943753+00:00"
 }

@@ -5,20 +5,20 @@ Rating: 4.54 (Ranked 510)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 4.00% | ~27,833 |
-| Welcome To Hell-A | 4.00% | ~27,833 |
-| Dr. Reed, I Presume? | 3.00% | ~20,875 |
-| Git Gutte! | 3.00% | ~20,875 |
-| Bookworm | 3.00% | ~20,875 |
-| Break A Leg | 3.00% | ~20,875 |
-| But Doctor, I am Butcho | 3.00% | ~20,875 |
-| Coup de Grâce | 3.00% | ~20,875 |
-| Hazardous Materials | 3.00% | ~20,875 |
-| Friends Like These | 3.00% | ~20,875 |
-| Apex Predator | 3.00% | ~20,875 |
-| Stacking the Deck | 3.00% | ~20,875 |
-| Personal Assistant Personally Assisted | 3.00% | ~20,875 |
-| This is My Weapon | 3.00% | ~20,875 |
+| Hotel California | 4.00% | ~27,834 |
+| Welcome To Hell-A | 4.00% | ~27,834 |
+| Dr. Reed, I Presume? | 3.00% | ~20,876 |
+| Git Gutte! | 3.00% | ~20,876 |
+| Bookworm | 3.00% | ~20,876 |
+| Break A Leg | 3.00% | ~20,876 |
+| But Doctor, I am Butcho | 3.00% | ~20,876 |
+| Coup de Grâce | 3.00% | ~20,876 |
+| Hazardous Materials | 3.00% | ~20,876 |
+| Friends Like These | 3.00% | ~20,876 |
+| Apex Predator | 3.00% | ~20,876 |
+| Stacking the Deck | 3.00% | ~20,876 |
+| Personal Assistant Personally Assisted | 3.00% | ~20,876 |
+| This is My Weapon | 3.00% | ~20,876 |
 | Making Your Mark | 2.00% | ~13,917 |
 | Anger Management | 2.00% | ~13,917 |
 | Perks of the Job | 2.00% | ~13,917 |
@@ -32,12 +32,12 @@ Rating: 4.54 (Ranked 510)
 | Humanity Distilled | 2.00% | ~13,917 |
 | I Am the Resurrection | 2.00% | ~13,917 |
 | Our True Nature | 2.00% | ~13,917 |
-| Jumbo Keyring | 1.00% | ~6,958 |
-| Down with the Sickness | 1.00% | ~6,958 |
-| Max Headroom | 1.00% | ~6,958 |
-| Go, Bobcats! | 1.00% | ~6,958 |
-| Rising Star | 1.00% | ~6,958 |
-| Smorgasbord | 0.90% | ~6,262 |
+| Jumbo Keyring | 1.00% | ~6,959 |
+| Down with the Sickness | 1.00% | ~6,959 |
+| Max Headroom | 1.00% | ~6,959 |
+| Go, Bobcats! | 1.00% | ~6,959 |
+| Rising Star | 1.00% | ~6,959 |
+| Smorgasbord | 0.90% | ~6,263 |
 | Internet Famous | 0.80% | ~5,567 |
 | On Safari | 0.70% | ~4,871 |
 | Not Even My Final Form | 0.70% | ~4,871 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 510)
 | Donk! | 0.20% | ~1,392 |
 | Bucket List | 0.10% | ~696 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 695,832 (Ranked 22)  
+Progressed: 695,859 (Ranked 22)  
 Completed: 2,225 (0.32%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,14 +229,15 @@ Completed: 2,225 (0.32%) (Ranked 200)
 | 2023-10-12 | 694,718 | 2,216 |
 | 2023-10-13 | 695,203 | 2,223 |
 | 2023-10-14 | 695,832 | 2,225 |
+| 2023-10-15 | 695,859 | 2,225 |
 ## Awards
 Max (Great Boss Battles): 6,442  (Ranked 57)  
-Sum: 9,627 (Ranked 91)  
+Sum: 9,630 (Ranked 91)  
 Diff (max vs sum): -34  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,442 |
-| This game is Great for Beginners | 454 |
+| This game is Great for Beginners | 457 |
 | This game has Diverse Characters | 448 |
 | This game has Quickly Understood Controls | 422 |
 | This game is Relaxing | 405 |
@@ -424,3 +425,4 @@ Diff (max vs sum): -34
 | 2023-10-12 | 4.54 | 6,407 | 9,574 |
 | 2023-10-13 | 4.54 | 6,420 | 9,594 |
 | 2023-10-14 | 4.54 | 6,442 | 9,627 |
+| 2023-10-15 | 4.54 | 6,442 | 9,630 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1096,9 +1096,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 152214,
+  "EOS_Progressed": 152222,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1148,
+  "EOS_NewPlayers": 1146,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11601,6 +11601,11 @@
       "Time": "2023-10-14T23:04:33.7008007+00:00",
       "NumProgressed": 152214,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-15T00:03:42.4890425+00:00",
+      "NumProgressed": 152222,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -11812,7 +11817,7 @@
       "Name": "Devourer",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1065
+      "UsersEstimate": 1066
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -11979,21 +11984,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 151797,
+      "Progressed": 151805,
       "Completed": 1158
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 152214,
+      "Progressed": 152222,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-14T20:01:19.9023533+00:00",
-  "LastChanged_Achievements": "2023-10-14T23:04:33.7008001+00:00",
+  "LastChanged_Achievements": "2023-10-15T00:03:42.489042+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:33.8479674+00:00",
-  "LastUpdate_Ratings": "2023-10-14T23:01:11.5951234+00:00",
-  "LastUpdate_Achievements": "2023-10-14T23:04:33.7009557+00:00"
+  "LastUpdate_Ratings": "2023-10-14T23:59:50.3687345+00:00",
+  "LastUpdate_Achievements": "2023-10-15T00:03:42.4891411+00:00"
 }

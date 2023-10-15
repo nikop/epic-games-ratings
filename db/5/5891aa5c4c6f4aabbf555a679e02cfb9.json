@@ -4,8 +4,8 @@
   "ProductSlug": "the-evil-within-2",
   "Ranking_EOS_Progress": 413,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 343,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
     "PcReleaseDate": "2017-10-12T00:00:00+00:00",
@@ -772,8 +772,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-10-14T23:08:16.8843012+00:00",
+  "LastChanged_Achievements": "2023-10-15T00:06:08.2322239+00:00",
   "LastUpdate_AppInfo": "2023-10-11T21:57:07.8576472+00:00",
-  "LastUpdate_Ratings": "2023-10-14T23:00:31.2641981+00:00",
-  "LastUpdate_Achievements": "2023-10-14T23:08:16.8843699+00:00"
+  "LastUpdate_Ratings": "2023-10-14T23:59:18.5620647+00:00",
+  "LastUpdate_Achievements": "2023-10-15T00:06:08.2322657+00:00"
 }

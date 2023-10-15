@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 434,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -760,9 +760,9 @@
       "Count": 95
     }
   ],
-  "EOS_Progressed": 10604,
+  "EOS_Progressed": 10605,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -11395,6 +11395,11 @@
       "Time": "2023-10-14T23:08:58.3088291+00:00",
       "NumProgressed": 10604,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-10-15T00:06:37.2870663+00:00",
+      "NumProgressed": 10605,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 34,
@@ -11486,7 +11491,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1166
+      "UsersEstimate": 1167
     },
     {
       "ID": "ACH12",
@@ -11677,7 +11682,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10604,
+      "Progressed": 10605,
       "Completed": 60
     }
   ],
@@ -11685,8 +11690,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-10-10T09:59:23.5158922+00:00",
-  "LastChanged_Achievements": "2023-10-14T23:08:58.3088285+00:00",
+  "LastChanged_Achievements": "2023-10-15T00:06:37.2870657+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:56.7423853+00:00",
-  "LastUpdate_Ratings": "2023-10-14T23:02:40.2138384+00:00",
-  "LastUpdate_Achievements": "2023-10-14T23:08:58.3089861+00:00"
+  "LastUpdate_Ratings": "2023-10-15T00:00:50.5217356+00:00",
+  "LastUpdate_Achievements": "2023-10-15T00:06:37.2871517+00:00"
 }

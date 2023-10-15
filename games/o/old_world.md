@@ -79,26 +79,26 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mausoleum | 0.60% | ~88 |
 | Learn to Play 3 | 0.60% | ~88 |
 | Building Wonders | 0.60% | ~88 |
-| Lion | 0.50% | ~73 |
-| Good Difficulty | 0.50% | ~73 |
-| Patrons | 0.50% | ~73 |
-| Riders | 0.50% | ~73 |
-| Hittite Iron | 0.50% | ~73 |
-| Circus Maximus | 0.50% | ~73 |
-| Hagia Sophia | 0.50% | ~73 |
-| Temple of Solomon | 0.50% | ~73 |
-| Pantheon | 0.50% | ~73 |
-| Via Recta Souk | 0.50% | ~73 |
-| Learn to Play 4 | 0.50% | ~73 |
-| Greece | 0.50% | ~73 |
-| Power to the People | 0.50% | ~73 |
-| Persian Paganism | 0.50% | ~73 |
-| Legalism | 0.50% | ~73 |
-| Redemption | 0.50% | ~73 |
-| Cimmerian Archer | 0.50% | ~73 |
-| Legionary | 0.50% | ~73 |
-| Double Victory | 0.50% | ~73 |
-| Points Victory | 0.50% | ~73 |
+| Lion | 0.50% | ~74 |
+| Good Difficulty | 0.50% | ~74 |
+| Patrons | 0.50% | ~74 |
+| Riders | 0.50% | ~74 |
+| Hittite Iron | 0.50% | ~74 |
+| Circus Maximus | 0.50% | ~74 |
+| Hagia Sophia | 0.50% | ~74 |
+| Temple of Solomon | 0.50% | ~74 |
+| Pantheon | 0.50% | ~74 |
+| Via Recta Souk | 0.50% | ~74 |
+| Learn to Play 4 | 0.50% | ~74 |
+| Greece | 0.50% | ~74 |
+| Power to the People | 0.50% | ~74 |
+| Persian Paganism | 0.50% | ~74 |
+| Legalism | 0.50% | ~74 |
+| Redemption | 0.50% | ~74 |
+| Cimmerian Archer | 0.50% | ~74 |
+| Legionary | 0.50% | ~74 |
+| Double Victory | 0.50% | ~74 |
+| Points Victory | 0.50% | ~74 |
 | Capable | 0.40% | ~59 |
 | Invincible | 0.40% | ~59 |
 | Subjugator | 0.40% | ~59 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,699 (Ranked 134)  
+Progressed: 14,701 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -527,6 +527,7 @@ Completed: 5 (0.03%) (Ranked 283)
 | 2023-10-12 | 14,624 | 5 |
 | 2023-10-13 | 14,652 | 5 |
 | 2023-10-14 | 14,699 | 5 |
+| 2023-10-15 | 14,701 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,839 (Ranked 210)  

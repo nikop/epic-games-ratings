@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 692,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2337,9 +2337,9 @@
       "ID": "achievement_60",
       "SetID": "d252ncf",
       "Name": "Treason",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 201
+      "UsersEstimate": 208
     },
     {
       "ID": "achievement_61",
@@ -2545,9 +2545,9 @@
       "ID": "achievement_84",
       "SetID": "d252ncf",
       "Name": "Tunnel Rat",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 159
     },
     {
       "ID": "achievement_85",
@@ -2693,8 +2693,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-14T23:04:50.4570486+00:00",
+  "LastChanged_Achievements": "2023-10-15T00:03:53.9274227+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:30.4071338+00:00",
-  "LastUpdate_Ratings": "2023-10-14T23:01:03.9807227+00:00",
-  "LastUpdate_Achievements": "2023-10-14T23:04:50.457374+00:00"
+  "LastUpdate_Ratings": "2023-10-14T23:59:44.2917766+00:00",
+  "LastUpdate_Achievements": "2023-10-15T00:03:53.9276682+00:00"
 }

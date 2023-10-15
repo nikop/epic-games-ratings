@@ -6,9 +6,9 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 2.00% | ~18,795 |
-| It wakes | 2.00% | ~18,795 |
-| Skillful | 2.00% | ~18,795 |
+| Zealous | 2.00% | ~18,797 |
+| It wakes | 2.00% | ~18,797 |
+| Skillful | 2.00% | ~18,797 |
 | The Grand Sacrifice | 1.00% | ~9,398 |
 | No one left behind | 1.00% | ~9,398 |
 | Medic | 1.00% | ~9,398 |
@@ -28,15 +28,15 @@ Number of Ratings: 70,340  (23.09.2022)
 | Perfect Escape | 0.90% | ~8,458 |
 | Engineer | 0.90% | ~8,458 |
 | Humanitarian | 0.90% | ~8,458 |
-| I've got your back | 0.80% | ~7,518 |
-| Nerves of steel | 0.80% | ~7,518 |
-| Perfect Killing | 0.80% | ~7,518 |
-| Risk it all | 0.80% | ~7,518 |
-| Close Shave | 0.80% | ~7,518 |
-| Apt Killer | 0.70% | ~6,578 |
-| II | 0.70% | ~6,578 |
-| Wounded Healer | 0.70% | ~6,578 |
-| Second Act | 0.70% | ~6,578 |
+| I've got your back | 0.80% | ~7,519 |
+| Nerves of steel | 0.80% | ~7,519 |
+| Perfect Killing | 0.80% | ~7,519 |
+| Risk it all | 0.80% | ~7,519 |
+| Wounded Healer | 0.80% | ~7,519 |
+| Close Shave | 0.80% | ~7,519 |
+| Apt Killer | 0.70% | ~6,579 |
+| II | 0.70% | ~6,579 |
+| Second Act | 0.70% | ~6,579 |
 | Vulture | 0.60% | ~5,639 |
 | III | 0.60% | ~5,639 |
 | With Scars to Show | 0.60% | ~5,639 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~940 |
 | Adept Ripley | 0.10% | ~940 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 939,759 (Ranked 14)  
+Progressed: 939,827 (Ranked 14)  
 Completed: 50 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -414,6 +414,7 @@ Completed: 50 (0.01%) (Ranked 296)
 | 2023-10-12 | 934,954 | 50 |
 | 2023-10-13 | 937,037 | 50 |
 | 2023-10-14 | 939,759 | 50 |
+| 2023-10-15 | 939,827 | 50 |
 ## Awards
 Max (Diverse Characters): 33,877  (Ranked 15)  
 Sum: 262,341 (Ranked 13)  

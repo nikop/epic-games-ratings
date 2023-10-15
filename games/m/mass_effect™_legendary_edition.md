@@ -60,11 +60,11 @@
 | Revenge! | 31.00% | ~215 |
 | Heart of Darkness | 31.00% | ~215 |
 | Fade Away | 30.00% | ~208 |
+| Treason | 30.00% | ~208 |
 | Agent | 30.00% | ~208 |
 | Driven | 30.00% | ~208 |
 | Focused | 29.00% | ~201 |
 | Cat's in the Cradle | 29.00% | ~201 |
-| Treason | 29.00% | ~201 |
 | Digital Exorcist | 29.00% | ~201 |
 | Bringer of War | 29.00% | ~201 |
 | Friend or Foe | 28.00% | ~194 |
@@ -81,9 +81,9 @@
 | Weapon Specialist | 25.00% | ~173 |
 | Liberator | 25.00% | ~173 |
 | World Shaker | 24.00% | ~166 |
+| Tunnel Rat | 23.00% | ~159 |
 | Savior | 22.00% | ~152 |
 | Pathfinder | 22.00% | ~152 |
-| Tunnel Rat | 22.00% | ~152 |
 | Arbiter | 22.00% | ~152 |
 | Paramour II | 21.00% | ~145 |
 | Party Crasher | 21.00% | ~145 |

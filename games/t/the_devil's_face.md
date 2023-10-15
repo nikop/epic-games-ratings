@@ -12,10 +12,10 @@
 | Unholy lands | 10.00% | ~37 |
 | Unveiling the Magnitude of Sin | 6.00% | ~22 |
 | The court | 5.00% | ~18 |
+| The crucifixion | 4.00% | ~15 |
 | Holy Nails | 4.00% | ~15 |
-| The crucifixion | 3.00% | ~11 |
-| Flagellation | 3.00% | ~11 |
-| The choice | 2.00% | ~7 |
+| Flagellation | 4.00% | ~15 |
+| The choice | 3.00% | ~11 |
 | Hubris | 2.00% | ~7 |
 | Humility | 0.80% | ~3 |
 ## Popularity (Based on EOS Achievements)
