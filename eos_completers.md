@@ -2,7 +2,7 @@
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 1 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 100.00% |
-| 3 | [The Riflemen](games/t/the_riflemen.md) | 49.04% |
+| 3 | [The Riflemen](games/t/the_riflemen.md) | 49.01% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.15% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.99% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
@@ -39,10 +39,10 @@
 | 37 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 10.00% |
 | 37 | [Smelter](games/s/smelter.md) | 10.00% |
 | 39 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
-| 40 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.02% |
+| 40 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.01% |
 | 41 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.67% |
-| 42 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
-| 42 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.69% |
+| 42 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.75% |
+| 43 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 44 | [Ravenlok](games/r/ravenlok.md) | 7.66% |
 | 45 | [Sonic Origins](games/s/sonic_origins.md) | 7.54% |
 | 46 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.51% |
@@ -69,14 +69,14 @@
 | 67 | [ZZT!](games/z/zzt!.md) | 4.48% |
 | 68 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.44% |
 | 69 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.10% |
-| 70 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.04% |
-| 71 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.02% |
+| 70 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.05% |
+| 71 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.01% |
 | 72 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.00% |
 | 73 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.82% |
 | 74 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
 | 75 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.69% |
 | 76 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
-| 77 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.55% |
+| 77 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.52% |
 | 78 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.51% |
 | 79 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 80 | [The Bunker](games/t/the_bunker.md) | 3.39% |
@@ -149,8 +149,8 @@
 | 147 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.99% |
 | 148 | [A Musical Story](games/a/a_musical_story.md) | 0.96% |
 | 148 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.96% |
-| 150 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.92% |
-| 151 | [Hades](games/h/hades.md) | 0.91% |
+| 150 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.91% |
+| 150 | [Hades](games/h/hades.md) | 0.91% |
 | 152 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.85% |
 | 152 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 154 | [Dungeons 3](games/d/dungeons_3.md) | 0.80% |
@@ -229,10 +229,10 @@
 | 227 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.18% |
 | 228 | [RAILGRADE](games/r/railgrade.md) | 0.17% |
 | 228 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.17% |
-| 230 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
-| 230 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
-| 230 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
-| 230 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.16% |
+| 228 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.17% |
+| 231 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
+| 231 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
+| 231 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
 | 234 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
 | 234 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.15% |
 | 236 | [BLACKTAIL](games/b/blacktail.md) | 0.14% |
