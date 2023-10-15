@@ -4,8 +4,8 @@
   "ProductSlug": "effie-f06e3c",
   "Ranking_EOS_Progress": 670,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 399,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-01-20T15:00:00+00:00",
     "PcReleaseDate": "2020-01-28T00:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:58:33.350726+00:00",
   "LastChanged": "2023-03-31T05:58:33.3507261+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:24.8513678+00:00",
-  "LastUpdate_Ratings": "2023-10-15T20:58:05.2998184+00:00",
-  "LastUpdate_Achievements": "2023-10-15T21:04:27.2548496+00:00"
+  "LastUpdate_Ratings": "2023-10-15T21:58:37.5026801+00:00",
+  "LastUpdate_Achievements": "2023-10-15T22:05:17.2381035+00:00"
 }

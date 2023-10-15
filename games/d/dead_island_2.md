@@ -19,20 +19,20 @@ Rating: 4.54 (Ranked 511)
 | Stacking the Deck | 3.00% | ~20,893 |
 | Personal Assistant Personally Assisted | 3.00% | ~20,893 |
 | This is My Weapon | 3.00% | ~20,893 |
-| Making Your Mark | 2.00% | ~13,928 |
-| Anger Management | 2.00% | ~13,928 |
-| Perks of the Job | 2.00% | ~13,928 |
-| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,928 |
-| Slayer Squad | 2.00% | ~13,928 |
-| Can't Handle the Truth | 2.00% | ~13,928 |
-| Like Riding a Bike | 2.00% | ~13,928 |
-| Zombologist | 2.00% | ~13,928 |
-| Ooh, Shiny! | 2.00% | ~13,928 |
-| A Patton Emerges | 2.00% | ~13,928 |
-| Humanity Distilled | 2.00% | ~13,928 |
-| I Am the Resurrection | 2.00% | ~13,928 |
-| Down with the Sickness | 2.00% | ~13,928 |
-| Our True Nature | 2.00% | ~13,928 |
+| Making Your Mark | 2.00% | ~13,929 |
+| Anger Management | 2.00% | ~13,929 |
+| Perks of the Job | 2.00% | ~13,929 |
+| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,929 |
+| Slayer Squad | 2.00% | ~13,929 |
+| Can't Handle the Truth | 2.00% | ~13,929 |
+| Like Riding a Bike | 2.00% | ~13,929 |
+| Zombologist | 2.00% | ~13,929 |
+| Ooh, Shiny! | 2.00% | ~13,929 |
+| A Patton Emerges | 2.00% | ~13,929 |
+| Humanity Distilled | 2.00% | ~13,929 |
+| I Am the Resurrection | 2.00% | ~13,929 |
+| Down with the Sickness | 2.00% | ~13,929 |
+| Our True Nature | 2.00% | ~13,929 |
 | Jumbo Keyring | 1.00% | ~6,964 |
 | Max Headroom | 1.00% | ~6,964 |
 | Go, Bobcats! | 1.00% | ~6,964 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 511)
 | Donk! | 0.20% | ~1,393 |
 | Bucket List | 0.10% | ~696 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 696,420 (Ranked 22)  
+Progressed: 696,434 (Ranked 22)  
 Completed: 2,227 (0.32%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,7 +229,7 @@ Completed: 2,227 (0.32%) (Ranked 200)
 | 2023-10-12 | 694,718 | 2,216 |
 | 2023-10-13 | 695,203 | 2,223 |
 | 2023-10-14 | 695,832 | 2,225 |
-| 2023-10-15 | 696,420 | 2,227 |
+| 2023-10-15 | 696,434 | 2,227 |
 ## Awards
 Max (Great Boss Battles): 6,442  (Ranked 57)  
 Sum: 9,637 (Ranked 91)  

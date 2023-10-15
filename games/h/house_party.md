@@ -10,11 +10,11 @@ Number of Ratings: 177  (23.09.2022)
 | Smooth Operator: Madison | 4.00% | ~255 |
 | Caught in the Act | 3.00% | ~191 |
 | Katherine | 3.00% | ~191 |
-| The Brahdyssey | 2.00% | ~127 |
-| Drunk and Disorderly: Stephanie | 2.00% | ~127 |
+| The Brahdyssey | 2.00% | ~128 |
+| Drunk and Disorderly: Stephanie | 2.00% | ~128 |
 | Life Found a Way | 2.00% | ~68 |
-| Relentless | 2.00% | ~127 |
-| If at First You Don't Succeed... | 2.00% | ~127 |
+| Relentless | 2.00% | ~128 |
+| If at First You Don't Succeed... | 2.00% | ~128 |
 | Drunk and Disorderly: Ashley | 1.00% | ~64 |
 | IRL Let's Player | 1.00% | ~64 |
 | Newcomer: Vickie | 1.00% | ~64 |
@@ -35,7 +35,7 @@ Number of Ratings: 177  (23.09.2022)
 | I'll Be Back | 0.50% | ~32 |
 | Casanova | 0.50% | ~32 |
 | Love Conquers All | 0.50% | ~32 |
-| Ashley | 0.40% | ~25 |
+| Ashley | 0.40% | ~26 |
 | Deck the Balls | 0.40% | ~14 |
 | The Bride | 0.30% | ~19 |
 | Drunk and Disorderly: Madison | 0.30% | ~19 |
@@ -76,8 +76,8 @@ Number of Ratings: 177  (23.09.2022)
 | La Coochadora | 0.10% | ~6 |
 | Simple Geometry | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,374 (Ranked 165)  
-Completed: 3 (0.05%) (Ranked 271)  
+Progressed: 6,375 (Ranked 165)  
+Completed: 3 (0.05%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -250,7 +250,7 @@ Completed: 3 (0.05%) (Ranked 271)
 | 2023-10-11 | 6,363 | 3 |
 | 2023-10-13 | 6,367 | 3 |
 | 2023-10-14 | 6,371 | 3 |
-| 2023-10-15 | 6,374 | 3 |
+| 2023-10-15 | 6,375 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

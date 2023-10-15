@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 36,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-06-08T14:00:00+00:00",
     "PcReleaseDate": "2019-04-15T00:00:00+00:00",
@@ -2666,9 +2666,9 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 406636,
+  "EOS_Progressed": 406651,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 2629,
+  "EOS_NewPlayers": 2625,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14166,6 +14166,11 @@
       "Time": "2023-10-15T21:05:19.7582445+00:00",
       "NumProgressed": 406636,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-10-15T22:06:33.7113657+00:00",
+      "NumProgressed": 406651,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 89,
@@ -14177,7 +14182,7 @@
       "Name": "Achiever",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 4066
+      "UsersEstimate": 4067
     },
     {
       "ID": "AchievementAlchemist",
@@ -14225,7 +14230,7 @@
       "Name": "At the last moment!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 24398
+      "UsersEstimate": 24399
     },
     {
       "ID": "AchievementAtomicAge_NAME",
@@ -14241,7 +14246,7 @@
       "Name": "BBQ",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 2846
+      "UsersEstimate": 2847
     },
     {
       "ID": "AchievementBeginner",
@@ -14249,7 +14254,7 @@
       "Name": "Beginner",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 40664
+      "UsersEstimate": 40665
     },
     {
       "ID": "AchievementBridgeBuilder",
@@ -14257,7 +14262,7 @@
       "Name": "Bridge builder",
       "Percentage": 4,
       "XP": 45,
-      "UsersEstimate": 16265
+      "UsersEstimate": 16266
     },
     {
       "ID": "AchievementBridgemania",
@@ -14265,7 +14270,7 @@
       "Name": "Bridgemania",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 56929
+      "UsersEstimate": 56931
     },
     {
       "ID": "AchievementBuilder",
@@ -14273,7 +14278,7 @@
       "Name": "Builder",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 69128
+      "UsersEstimate": 69131
     },
     {
       "ID": "AchievementCloseCall",
@@ -14281,7 +14286,7 @@
       "Name": "Close call!",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 121991
+      "UsersEstimate": 121995
     },
     {
       "ID": "AchievementCommonCause",
@@ -14289,7 +14294,7 @@
       "Name": "Common cause",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 105725
+      "UsersEstimate": 105729
     },
     {
       "ID": "AchievementCriticalCare",
@@ -14297,7 +14302,7 @@
       "Name": "Critical care",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 105725
+      "UsersEstimate": 105729
     },
     {
       "ID": "AchievementDealmaker",
@@ -14305,7 +14310,7 @@
       "Name": "Dealmaker",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 296844
+      "UsersEstimate": 296855
     },
     {
       "ID": "AchievementDigitalAge_NAME",
@@ -14321,7 +14326,7 @@
       "Name": "Electrical Age",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 16265
+      "UsersEstimate": 16266
     },
     {
       "ID": "AchievementEngineer",
@@ -14329,7 +14334,7 @@
       "Name": "Engineer",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 12199
+      "UsersEstimate": 12200
     },
     {
       "ID": "AchievementEnvironmentalActivist",
@@ -14345,7 +14350,7 @@
       "Name": "Forgot something",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 142323
+      "UsersEstimate": 142328
     },
     {
       "ID": "AchievementForgotten",
@@ -14361,7 +14366,7 @@
       "Name": "Full garage",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 243982
+      "UsersEstimate": 243991
     },
     {
       "ID": "AchievementGemologist_NAME",
@@ -14377,7 +14382,7 @@
       "Name": "Get out my way",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 113858
+      "UsersEstimate": 113862
     },
     {
       "ID": "AchievementGlobalisationAge",
@@ -14393,7 +14398,7 @@
       "Name": "Highlander",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 16265
+      "UsersEstimate": 16266
     },
     {
       "ID": "AchievementIndividualDelivery",
@@ -14401,7 +14406,7 @@
       "Name": "Individual delivery",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 187053
+      "UsersEstimate": 187059
     },
     {
       "ID": "AchievementIndustrialAge",
@@ -14409,7 +14414,7 @@
       "Name": "Industrial Age",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 36597
+      "UsersEstimate": 36599
     },
     {
       "ID": "AchievementInformationAge_NAME",
@@ -14449,7 +14454,7 @@
       "Name": "Jewelry accuracy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 20332
+      "UsersEstimate": 20333
     },
     {
       "ID": "AchievementJuggler",
@@ -14457,7 +14462,7 @@
       "Name": "Juggler",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 146389
+      "UsersEstimate": 146394
     },
     {
       "ID": "AchievementJustInTime",
@@ -14465,7 +14470,7 @@
       "Name": "Just in time!",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 73194
+      "UsersEstimate": 73197
     },
     {
       "ID": "AchievementLargeConstruction",
@@ -14473,7 +14478,7 @@
       "Name": "Large construction",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 16265
+      "UsersEstimate": 16266
     },
     {
       "ID": "AchievementLivingItLarge",
@@ -14481,7 +14486,7 @@
       "Name": "Living it large",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 12199
+      "UsersEstimate": 12200
     },
     {
       "ID": "AchievementLuckyVandal",
@@ -14497,7 +14502,7 @@
       "Name": "Mega-railroad",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 93526
+      "UsersEstimate": 93530
     },
     {
       "ID": "AchievementMetroBuilder",
@@ -14505,7 +14510,7 @@
       "Name": "Metro builder",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4066
+      "UsersEstimate": 4067
     },
     {
       "ID": "AchievementMiner_NAME",
@@ -14521,7 +14526,7 @@
       "Name": "Miscalculation",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 2846
+      "UsersEstimate": 2847
     },
     {
       "ID": "AchievementMissedIt",
@@ -14529,7 +14534,7 @@
       "Name": "Missed it!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 28465
+      "UsersEstimate": 28466
     },
     {
       "ID": "AchievementMultilevelRoad",
@@ -14537,7 +14542,7 @@
       "Name": "Multilevel road",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 60995
+      "UsersEstimate": 60998
     },
     {
       "ID": "AchievementNeedToThink",
@@ -14545,7 +14550,7 @@
       "Name": "Need to think",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 56929
+      "UsersEstimate": 56931
     },
     {
       "ID": "AchievementNonStop",
@@ -14553,7 +14558,7 @@
       "Name": "Non-Stop",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 178920
+      "UsersEstimate": 178926
     },
     {
       "ID": "AchievementOneWay",
@@ -14561,7 +14566,7 @@
       "Name": "One way",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 40664
+      "UsersEstimate": 40665
     },
     {
       "ID": "AchievementOuroboros",
@@ -14569,7 +14574,7 @@
       "Name": "Ouroboros",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4066
+      "UsersEstimate": 4067
     },
     {
       "ID": "AchievementOverseer",
@@ -14577,7 +14582,7 @@
       "Name": "Overseer",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 24398
+      "UsersEstimate": 24399
     },
     {
       "ID": "AchievementPinkRuby_NAME",
@@ -14593,7 +14598,7 @@
       "Name": "Prick of conscience",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 32531
+      "UsersEstimate": 32532
     },
     {
       "ID": "AchievementRailroadTycoon",
@@ -14609,7 +14614,7 @@
       "Name": "Relocation",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 40664
+      "UsersEstimate": 40665
     },
     {
       "ID": "AchievementSabotage",
@@ -14617,7 +14622,7 @@
       "Name": "Sabotage",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 12199
+      "UsersEstimate": 12200
     },
     {
       "ID": "AchievementSpaceAge",
@@ -14625,7 +14630,7 @@
       "Name": "Space Age",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 4066
+      "UsersEstimate": 4067
     },
     {
       "ID": "AchievementSquander",
@@ -14633,7 +14638,7 @@
       "Name": "Squander",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 16265
+      "UsersEstimate": 16266
     },
     {
       "ID": "AchievementStarSapphire_NAME",
@@ -14649,7 +14654,7 @@
       "Name": "Stargazer",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 20332
+      "UsersEstimate": 20333
     },
     {
       "ID": "AchievementSteamAge",
@@ -14657,7 +14662,7 @@
       "Name": "Steam Age",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 65062
+      "UsersEstimate": 65064
     },
     {
       "ID": "AchievementTheHare",
@@ -14681,7 +14686,7 @@
       "Name": "The Tortoise",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 48796
+      "UsersEstimate": 48798
     },
     {
       "ID": "AchievementToTheEyeballs",
@@ -14689,7 +14694,7 @@
       "Name": "To the eyeballs!",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 207384
+      "UsersEstimate": 207392
     },
     {
       "ID": "AchievementTourismAge",
@@ -14713,7 +14718,7 @@
       "Name": "Upgrade complete",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 93526
+      "UsersEstimate": 93530
     },
     {
       "ID": "AchievementUrbanizationAge",
@@ -14761,7 +14766,7 @@
       "Name": "Without a lunch break",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 44730
+      "UsersEstimate": 44732
     },
     {
       "ID": "AchievementWoodcutter",
@@ -14785,7 +14790,7 @@
       "Name": "Just One More Valley",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 36538
+      "UsersEstimate": 36539
     },
     {
       "ID": "AchievementKnowingtheropes",
@@ -14801,7 +14806,7 @@
       "Name": "Long Haul",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 69016
+      "UsersEstimate": 69019
     },
     {
       "ID": "AchievementMaidenvoyage",
@@ -14857,7 +14862,7 @@
       "Name": "Test Batch",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 12179
+      "UsersEstimate": 12180
     },
     {
       "ID": "AchievementTheexplorer",
@@ -14888,21 +14893,21 @@
     {
       "ID": "55bbbe2",
       "IsBase": false,
-      "Progressed": 405977,
+      "Progressed": 405992,
       "Completed": 10
     },
     {
       "ID": "76o014g",
       "IsBase": true,
-      "Progressed": 406636,
+      "Progressed": 406651,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-10-15T12:01:42.8243002+00:00",
-  "LastChanged_Achievements": "2023-10-15T21:05:19.7582439+00:00",
+  "LastChanged_Achievements": "2023-10-15T22:06:33.7113652+00:00",
   "LastUpdate_AppInfo": "2023-10-14T13:56:58.168269+00:00",
-  "LastUpdate_Ratings": "2023-10-15T21:00:36.7912625+00:00",
-  "LastUpdate_Achievements": "2023-10-15T21:05:19.7584203+00:00"
+  "LastUpdate_Ratings": "2023-10-15T22:02:10.2983466+00:00",
+  "LastUpdate_Achievements": "2023-10-15T22:06:33.7116894+00:00"
 }

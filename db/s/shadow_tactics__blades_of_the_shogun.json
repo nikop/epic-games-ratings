@@ -1753,9 +1753,9 @@
       "Count": 250
     }
   ],
-  "EOS_Progressed": 208086,
+  "EOS_Progressed": 208088,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 1261,
+  "EOS_NewPlayers": 1256,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -22008,6 +22008,11 @@
       "Time": "2023-10-15T21:06:17.1500741+00:00",
       "NumProgressed": 208086,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-10-15T22:07:57.0942255+00:00",
+      "NumProgressed": 208088,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 44,
@@ -22083,7 +22088,7 @@
       "Name": "Gear up",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8323
+      "UsersEstimate": 8324
     },
     {
       "ID": "Genin",
@@ -22091,7 +22096,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 24970
+      "UsersEstimate": 24971
     },
     {
       "ID": "HappyLittleAccidents",
@@ -22099,7 +22104,7 @@
       "Name": "Happy little accidents",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8323
+      "UsersEstimate": 8324
     },
     {
       "ID": "HappyPlanning",
@@ -22251,7 +22256,7 @@
       "Name": "Still Rollin\u0027",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8323
+      "UsersEstimate": 8324
     },
     {
       "ID": "Stoned",
@@ -22370,15 +22375,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 208086,
+      "Progressed": 208088,
       "Completed": 91
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-10-14T05:59:35.4391888+00:00",
-  "LastChanged_Achievements": "2023-10-15T21:06:17.1500734+00:00",
+  "LastChanged_Achievements": "2023-10-15T22:07:57.0942251+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:42.5631083+00:00",
-  "LastUpdate_Ratings": "2023-10-15T21:00:48.9880482+00:00",
-  "LastUpdate_Achievements": "2023-10-15T21:06:17.150229+00:00"
+  "LastUpdate_Ratings": "2023-10-15T22:02:30.0597174+00:00",
+  "LastUpdate_Achievements": "2023-10-15T22:07:57.0944417+00:00"
 }

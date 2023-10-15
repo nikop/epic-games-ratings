@@ -5,15 +5,15 @@ Rating: 4.56 (Ranked 473)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 29.00% | ~5,333 |
-| The Spy who eliminated me | 23.00% | ~4,230 |
-| Mainframe Hacker | 22.00% | ~4,046 |
-| Tomorrow Never Dyes | 21.00% | ~3,862 |
-| From the Vault with Love | 18.00% | ~3,310 |
-| Never Say Loser Again | 18.00% | ~3,310 |
-| For your Eyes only | 18.00% | ~3,310 |
-| Assistant Accountant | 17.00% | ~3,126 |
-| Tailor-Made | 17.00% | ~3,126 |
+| On Deceive Inc.'s Secret Service | 29.00% | ~5,334 |
+| The Spy who eliminated me | 23.00% | ~4,231 |
+| Mainframe Hacker | 22.00% | ~4,047 |
+| Tomorrow Never Dyes | 22.00% | ~4,047 |
+| From the Vault with Love | 18.00% | ~3,311 |
+| Never Say Loser Again | 18.00% | ~3,311 |
+| For your Eyes only | 18.00% | ~3,311 |
+| Assistant Accountant | 17.00% | ~3,127 |
+| Tailor-Made | 17.00% | ~3,127 |
 | You Only Live Twice | 16.00% | ~2,943 |
 | Fully Decked Out | 16.00% | ~2,943 |
 | A view to Win | 13.00% | ~2,391 |
@@ -26,7 +26,7 @@ Rating: 4.56 (Ranked 473)
 | Keycards Royale | 10.00% | ~1,839 |
 | Dr. No Kill | 10.00% | ~1,839 |
 | In It to Win It | 9.00% | ~1,655 |
-| Security Supervisor | 6.00% | ~1,103 |
+| Security Supervisor | 6.00% | ~1,104 |
 | License to Thrill | 5.00% | ~920 |
 | Social of Solace | 3.00% | ~552 |
 | Live and let lie | 3.00% | ~552 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 473)
 | Extraction Confusion | 0.20% | ~37 |
 | Spyfall | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,391 (Ranked 128)  
+Progressed: 18,394 (Ranked 129)  
 Completed: 4 (0.02%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,7 +220,7 @@ Completed: 4 (0.02%) (Ranked 288)
 | 2023-10-12 | 18,354 | 4 |
 | 2023-10-13 | 18,366 | 4 |
 | 2023-10-14 | 18,377 | 4 |
-| 2023-10-15 | 18,391 | 4 |
+| 2023-10-15 | 18,394 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

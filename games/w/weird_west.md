@@ -47,7 +47,7 @@ Number of Ratings: 125  (23.09.2022)
 | Who You Gonna Call? | 6.00% | ~111 |
 | This Is Sparta | 5.00% | ~93 |
 | What’s in the Box? | 5.00% | ~93 |
-| Ghost Town | 3.00% | ~56 |
+| Ghost Town | 4.00% | ~74 |
 | Lord Inut Sends His Regards | 3.00% | ~56 |
 | Moondrunk | 3.00% | ~56 |
 | 'Ma Barker | 2.00% | ~37 |

@@ -2,10 +2,10 @@
   "ID": "bc00696af836471cbacfd496e9e5f877",
   "Name": "Unspottable",
   "ProductSlug": "unspottable",
-  "Ranking_EOS_Progress": 525,
+  "Ranking_EOS_Progress": 519,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 399,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-12-14T19:00:00+00:00",
     "PcReleaseDate": "2020-10-22T12:00:00+00:00",
@@ -26,7 +26,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11,
+  "EOS_Progressed": 12,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -86,6 +86,11 @@
       "Time": "2023-10-01T18:04:19.1432989+00:00",
       "NumProgressed": 11,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-15T22:09:47.7254636+00:00",
+      "NumProgressed": 12,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-12T16:07:15.5883282+00:00",
@@ -96,7 +101,7 @@
       "ID": "UNS_AIRSTRIKE",
       "SetID": "322abb1",
       "Name": "Airstrike",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 40,
       "UsersEstimate": 2
     },
@@ -104,25 +109,25 @@
       "ID": "UNS_BIG_BANG",
       "SetID": "322abb1",
       "Name": "Big Bang",
-      "Percentage": 9,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "UNS_BIG_WIN",
       "SetID": "322abb1",
       "Name": "Big Win",
-      "Percentage": 18,
+      "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "UNS_CATCH_ME",
       "SetID": "322abb1",
       "Name": "Catch me if you can",
-      "Percentage": 73,
+      "Percentage": 75,
       "XP": 40,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "UNS_CLUTCH",
@@ -152,7 +157,7 @@
       "ID": "UNS_FLAT_MEN",
       "SetID": "322abb1",
       "Name": "Flat Men",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -160,7 +165,7 @@
       "ID": "UNS_HA_HA",
       "SetID": "322abb1",
       "Name": "Ha-Ha!",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 40,
       "UsersEstimate": 2
     },
@@ -192,25 +197,25 @@
       "ID": "UNS_MISSION_IMPOSSIBLE",
       "SetID": "322abb1",
       "Name": "Mission Impossible",
-      "Percentage": 9,
+      "Percentage": 17,
       "XP": 70,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "UNS_NIGHT_VISION",
       "SetID": "322abb1",
       "Name": "Night vision",
-      "Percentage": 9,
+      "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "UNS_NO_ORDERS",
       "SetID": "322abb1",
       "Name": "Don\u0027t give me orders",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "UNS_NO_REAL_WINNER",
@@ -224,47 +229,47 @@
       "ID": "UNS_OUT_AREA",
       "SetID": "322abb1",
       "Name": "Out of my area",
-      "Percentage": 45,
+      "Percentage": 50,
       "XP": 40,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "UNS_ROBOT_CLEANER",
       "SetID": "322abb1",
       "Name": "Robot cleaner",
-      "Percentage": 45,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "UNS_SHORT_AND_SWEET",
       "SetID": "322abb1",
       "Name": "Short and Sweet",
-      "Percentage": 9,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "UNS_SHORT_CIRCUIT",
       "SetID": "322abb1",
       "Name": "Short Circuit",
-      "Percentage": 18,
+      "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "UNS_SKYNET_WINS",
       "SetID": "322abb1",
       "Name": "Skynet Wins",
-      "Percentage": 27,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "UNS_SNEAKY_WINS",
       "SetID": "322abb1",
       "Name": "Sneaky Exit",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 40,
       "UsersEstimate": 2
     },
@@ -272,9 +277,9 @@
       "ID": "UNS_TEACHER_PET",
       "SetID": "322abb1",
       "Name": "Teacher\u0027s pet",
-      "Percentage": 45,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "UNS_TRIPLE_PUNCH",
@@ -288,16 +293,16 @@
       "ID": "UNS_UNDER_THE_SPOT",
       "SetID": "322abb1",
       "Name": "Under the spotlights",
-      "Percentage": 64,
+      "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     }
   ],
   "AchievementSets": [
     {
       "ID": "322abb1",
       "IsBase": true,
-      "Progressed": 11,
+      "Progressed": 12,
       "Completed": 0
     }
   ],
@@ -305,8 +310,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.2382786+00:00",
   "FirstSeenAchievements": "2023-07-03T15:05:05.5856649+00:00",
   "LastChanged": "2023-03-31T05:58:41.2382787+00:00",
-  "LastChanged_Achievements": "2023-10-15T21:09:24.0009158+00:00",
+  "LastChanged_Achievements": "2023-10-15T22:09:47.7254632+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:17.7401153+00:00",
-  "LastUpdate_Ratings": "2023-10-15T21:01:02.0026007+00:00",
-  "LastUpdate_Achievements": "2023-10-15T21:09:24.0009346+00:00"
+  "LastUpdate_Ratings": "2023-10-15T22:02:50.7272012+00:00",
+  "LastUpdate_Achievements": "2023-10-15T22:09:47.7254818+00:00"
 }

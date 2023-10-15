@@ -5,32 +5,32 @@ Rating: 4.40 (Ranked 719)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 5.00% | ~11,321 |
-| IT MAKES BOOM! | 3.00% | ~6,793 |
-| EXTRA BOOST | 2.00% | ~4,528 |
-| PROTECTED | 1.00% | ~2,264 |
-| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,264 |
-| AGGRESSIVE RACER | 1.00% | ~2,264 |
-| PRO | 1.00% | ~2,264 |
-| A TIGER'S FEAR | 0.80% | ~1,811 |
-| IT'S A LONG WAY TO THE TOP | 0.40% | ~906 |
-| DEFEAT OUR CHAMPION | 0.40% | ~906 |
-| ACE SPEEDSTER | 0.40% | ~906 |
-| TRAINING HARD | 0.30% | ~679 |
-| RELEASE THE KRAKEN | 0.30% | ~679 |
-| BE OUR GUEST | 0.30% | ~679 |
-| ACE BRAWLER | 0.30% | ~679 |
-| ACE DEFENDER | 0.30% | ~679 |
-| THE EYE OF THE HUNTER | 0.30% | ~679 |
-| FRIENDLY | 0.30% | ~679 |
-| MASTER | 0.30% | ~679 |
-| LEGENDARY HERO | 0.30% | ~679 |
+| ROOKIE | 5.00% | ~11,335 |
+| IT MAKES BOOM! | 3.00% | ~6,801 |
+| EXTRA BOOST | 2.00% | ~4,534 |
+| PROTECTED | 1.00% | ~2,267 |
+| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,267 |
+| AGGRESSIVE RACER | 1.00% | ~2,267 |
+| PRO | 1.00% | ~2,267 |
+| A TIGER'S FEAR | 0.80% | ~1,814 |
+| IT'S A LONG WAY TO THE TOP | 0.40% | ~907 |
+| DEFEAT OUR CHAMPION | 0.40% | ~907 |
+| ACE SPEEDSTER | 0.40% | ~907 |
+| TRAINING HARD | 0.30% | ~680 |
+| RELEASE THE KRAKEN | 0.30% | ~680 |
+| BE OUR GUEST | 0.30% | ~680 |
+| ACE BRAWLER | 0.30% | ~680 |
+| ACE DEFENDER | 0.30% | ~680 |
+| THE EYE OF THE HUNTER | 0.30% | ~680 |
+| FRIENDLY | 0.30% | ~680 |
+| MASTER | 0.30% | ~680 |
+| LEGENDARY HERO | 0.30% | ~680 |
 | PERFECTLY POISED | 0.20% | ~453 |
 | EXPERIENCED CREW | 0.20% | ~453 |
 | ACE TRICKSTER | 0.20% | ~453 |
-| FRAMED! | 0.10% | ~226 |
+| FRAMED! | 0.10% | ~227 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226,425 (Ranked 62)  
+Progressed: 226,691 (Ranked 61)  
 Completed: 233 (0.10%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 233 (0.10%) (Ranked 246)
 | 2023-10-12 | 211,811 | 230 |
 | 2023-10-13 | 216,960 | 230 |
 | 2023-10-14 | 222,259 | 232 |
-| 2023-10-15 | 226,425 | 233 |
+| 2023-10-15 | 226,691 | 233 |
 ## Awards
 Max (Diverse Characters): 25  (Ranked 502)  
 Sum: 25 (Ranked 509)  

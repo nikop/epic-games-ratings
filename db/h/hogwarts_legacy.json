@@ -8950,10 +8950,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 45898,
       "NumberOfAwardsMax": 23517
+    },
+    {
+      "Time": "2023-10-15T22:02:44.0591205+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 45902,
+      "NumberOfAwardsMax": 23517
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 45898,
+  "NumberOfAwards": 45902,
   "NumberOfAwardsMax": 23517,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9003,7 +9009,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1133
+      "Count": 1137
     },
     {
       "Text": "This game is Highly Recommended",
@@ -9030,9 +9036,9 @@
       "Count": 716
     }
   ],
-  "EOS_Progressed": 298421,
+  "EOS_Progressed": 298425,
   "EOS_Completed": 488,
-  "EOS_NewPlayers": 371,
+  "EOS_NewPlayers": 374,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -28160,6 +28166,11 @@
       "Time": "2023-10-15T21:05:07.7297828+00:00",
       "NumProgressed": 298421,
       "NumCompleted": 488
+    },
+    {
+      "Time": "2023-10-15T22:06:16.0338159+00:00",
+      "NumProgressed": 298425,
+      "NumCompleted": 488
     }
   ],
   "TotalAchievements": 45,
@@ -28171,7 +28182,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 44763
+      "UsersEstimate": 44764
     },
     {
       "ID": "PFA_10",
@@ -28187,7 +28198,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 32826
+      "UsersEstimate": 32827
     },
     {
       "ID": "PFA_12",
@@ -28195,7 +28206,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 32826
+      "UsersEstimate": 32827
     },
     {
       "ID": "PFA_13",
@@ -28211,7 +28222,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 17905
+      "UsersEstimate": 17906
     },
     {
       "ID": "PFA_15",
@@ -28227,7 +28238,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32826
+      "UsersEstimate": 32827
     },
     {
       "ID": "PFA_17",
@@ -28299,7 +28310,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32826
+      "UsersEstimate": 32827
     },
     {
       "ID": "PFA_25",
@@ -28307,7 +28318,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 17905
+      "UsersEstimate": 17906
     },
     {
       "ID": "PFA_26",
@@ -28339,7 +28350,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 17905
+      "UsersEstimate": 17906
     },
     {
       "ID": "PFA_3",
@@ -28355,7 +28366,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32826
+      "UsersEstimate": 32827
     },
     {
       "ID": "PFA_31",
@@ -28427,7 +28438,7 @@
       "Name": "Coasting Along",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32826
+      "UsersEstimate": 32827
     },
     {
       "ID": "PFA_4",
@@ -28459,7 +28470,7 @@
       "Name": "Raising Expectations",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 17905
+      "UsersEstimate": 17906
     },
     {
       "ID": "PFA_43",
@@ -28530,16 +28541,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298421,
+      "Progressed": 298425,
       "Completed": 488
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-10-15T21:00:58.0473813+00:00",
-  "LastChanged_Achievements": "2023-10-15T21:05:07.7297821+00:00",
+  "LastChanged": "2023-10-15T22:02:44.0591203+00:00",
+  "LastChanged_Achievements": "2023-10-15T22:06:16.0338155+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:16.623812+00:00",
-  "LastUpdate_Ratings": "2023-10-15T21:00:58.047382+00:00",
-  "LastUpdate_Achievements": "2023-10-15T21:05:07.7299173+00:00"
+  "LastUpdate_Ratings": "2023-10-15T22:02:44.059121+00:00",
+  "LastUpdate_Achievements": "2023-10-15T22:06:16.0340844+00:00"
 }

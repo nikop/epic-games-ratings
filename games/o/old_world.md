@@ -54,12 +54,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Pyramids | 1.00% | ~147 |
 | Drillmaster | 0.90% | ~133 |
 | Great | 0.90% | ~133 |
+| Valiant | 0.90% | ~133 |
 | Legendary Cities | 0.90% | ~133 |
 | Colossus | 0.90% | ~133 |
 | Musaeum | 0.90% | ~133 |
 | Manichaeism | 0.90% | ~133 |
 | Regicide | 0.80% | ~118 |
-| Valiant | 0.80% | ~118 |
 | Just Difficulty | 0.80% | ~118 |
 | Artisans | 0.80% | ~118 |
 | Apadana | 0.80% | ~118 |
@@ -93,6 +93,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Iron | 0.50% | ~74 |
 | Circus Maximus | 0.50% | ~74 |
 | Hagia Sophia | 0.50% | ~74 |
+| Church of the Holy Sepulchre | 0.50% | ~74 |
 | Temple of Solomon | 0.50% | ~74 |
 | Pantheon | 0.50% | ~74 |
 | Via Recta Souk | 0.50% | ~74 |
@@ -111,12 +112,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hunters | 0.40% | ~59 |
 | Statesmen | 0.40% | ~59 |
 | Traders | 0.40% | ~59 |
-| Church of the Holy Sepulchre | 0.40% | ~59 |
 | Babylonia | 0.40% | ~59 |
 | Carthage | 0.40% | ~59 |
 | One True Faith | 0.40% | ~59 |
 | Assyrian Paganism | 0.40% | ~59 |
 | Hittite Paganism | 0.40% | ~59 |
+| Industrial Progress | 0.40% | ~59 |
 | Military Prestige | 0.40% | ~59 |
 | Dualism | 0.40% | ~59 |
 | Gnosticism | 0.40% | ~59 |
@@ -137,7 +138,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egypt | 0.30% | ~44 |
 | Rome | 0.30% | ~44 |
 | Old World Order | 0.30% | ~44 |
-| Industrial Progress | 0.30% | ~44 |
 | Enlightenment | 0.30% | ~44 |
 | Cataphract Archer | 0.30% | ~44 |
 | Turreted Elephant | 0.30% | ~44 |
@@ -150,6 +150,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Old | 0.20% | ~29 |
 | Peacemaker | 0.20% | ~29 |
 | Glorious Difficulty | 0.20% | ~29 |
+| Magnificent Difficulty | 0.20% | ~29 |
 | The Eternal Treaty | 0.20% | ~29 |
 | Assyria | 0.20% | ~29 |
 | Hatti | 0.20% | ~29 |
@@ -201,7 +202,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | White Death | 0.10% | ~15 |
 | Oracle in Delphi | 0.10% | ~15 |
 | Great Difficulty | 0.10% | ~15 |
-| Magnificent Difficulty | 0.10% | ~15 |
 | Ethnic Diversity | 0.10% | ~15 |
 | Et tu Brutus? | 0.10% | ~15 |
 | Event Level High | 0.10% | ~15 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,728 (Ranked 135)  
+Progressed: 14,730 (Ranked 135)  
 Completed: 5 (0.03%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -527,7 +527,7 @@ Completed: 5 (0.03%) (Ranked 283)
 | 2023-10-12 | 14,624 | 5 |
 | 2023-10-13 | 14,652 | 5 |
 | 2023-10-14 | 14,699 | 5 |
-| 2023-10-15 | 14,728 | 5 |
+| 2023-10-15 | 14,730 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,840 (Ranked 210)  

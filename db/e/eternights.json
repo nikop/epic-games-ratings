@@ -4,8 +4,8 @@
   "ProductSlug": "eternights-c2fbca",
   "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -1092,9 +1092,9 @@
       "ID": "ACHIEVEMENT_7_SecondWall",
       "SetID": "9bke6f1",
       "Name": "Second wall",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 108
+      "UsersEstimate": 110
     },
     {
       "ID": "ACHIEVEMENT_8_StoneRetriever",
@@ -1123,8 +1123,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-10-15T21:06:24.1784732+00:00",
+  "LastChanged_Achievements": "2023-10-15T22:08:07.2365388+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:15.7402428+00:00",
-  "LastUpdate_Ratings": "2023-10-15T20:58:18.6829532+00:00",
-  "LastUpdate_Achievements": "2023-10-15T21:06:24.1784968+00:00"
+  "LastUpdate_Ratings": "2023-10-15T21:58:56.9669981+00:00",
+  "LastUpdate_Achievements": "2023-10-15T22:08:07.2365663+00:00"
 }

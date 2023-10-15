@@ -6,22 +6,22 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 81.00% | ~779 |
+| Cabin boy | 81.00% | ~780 |
 | My little farm | 64.00% | ~616 |
-| Every beginning is difficult | 63.00% | ~606 |
-| Gofer | 57.00% | ~548 |
-| 3, 2, 1, mine | 56.00% | ~539 |
-| O Captain! My Captain! | 54.00% | ~519 |
-| Seafarer | 52.00% | ~500 |
+| Every beginning is difficult | 63.00% | ~607 |
+| Gofer | 57.00% | ~549 |
+| 3, 2, 1, mine | 55.00% | ~530 |
+| O Captain! My Captain! | 54.00% | ~520 |
+| Seafarer | 52.00% | ~501 |
 | Greed for gold | 43.00% | ~414 |
 | Intangible | 42.00% | ~404 |
 | I'm out of here for a while | 42.00% | ~404 |
-| In a mint condition | 38.00% | ~366 |
+| In a mint condition | 37.00% | ~356 |
 | Licence to Kill | 37.00% | ~356 |
 | Pirates! | 34.00% | ~327 |
 | Collectionitis | 29.00% | ~279 |
-| Christening | 28.00% | ~269 |
-| Megalomania | 28.00% | ~269 |
+| Christening | 28.00% | ~270 |
+| Megalomania | 28.00% | ~270 |
 | Groundskeeper | 26.00% | ~250 |
 | Wholesale | 22.00% | ~212 |
 | Walk the plank | 21.00% | ~202 |
@@ -39,7 +39,7 @@ Number of Ratings: 53  (23.09.2022)
 | The Grande Bouffe | 6.00% | ~58 |
 | Buccaneer | 5.00% | ~48 |
 | Flying Dutchman | 5.00% | ~48 |
-| Overpopulation | 4.00% | ~38 |
+| Overpopulation | 4.00% | ~39 |
 | Premier Maître | 3.00% | ~29 |
 | Supreme conqueror | 3.00% | ~29 |
 | A true pirate! | 3.00% | ~29 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Traffic chaos | 0.70% | ~7 |
 | Davy Jones' locker | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 962 (Ranked 237)  
+Progressed: 963 (Ranked 237)  
 Completed: 1 (0.10%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,7 +216,7 @@ Completed: 1 (0.10%) (Ranked 246)
 | 2023-10-12 | 956 | 1 |
 | 2023-10-13 | 957 | 1 |
 | 2023-10-14 | 959 | 1 |
-| 2023-10-15 | 962 | 1 |
+| 2023-10-15 | 963 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

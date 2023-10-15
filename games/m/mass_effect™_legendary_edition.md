@@ -4,36 +4,36 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Distinguished Service Medal | 94.00% | ~663 |
-| Spectre Inductee | 84.00% | ~592 |
-| Medal of Exploration I | 75.00% | ~529 |
+| Distinguished Service Medal | 94.00% | ~664 |
+| Spectre Inductee | 84.00% | ~593 |
+| Medal of Exploration I | 75.00% | ~530 |
 | Recruit | 72.00% | ~508 |
 | Search and Rescue | 71.00% | ~501 |
-| Quarian Ally | 69.00% | ~486 |
-| Medal of Heroism | 66.00% | ~465 |
-| Honorarium of Corporate Service | 66.00% | ~465 |
-| Council Legion of Merit | 60.00% | ~423 |
+| Quarian Ally | 69.00% | ~487 |
+| Medal of Heroism | 66.00% | ~466 |
+| Honorarium of Corporate Service | 66.00% | ~466 |
+| Council Legion of Merit | 60.00% | ~424 |
 | Medal of Honor | 58.00% | ~409 |
 | Meritorious Service Medal | 58.00% | ~409 |
 | Medal of Exploration II | 58.00% | ~409 |
 | Turian Ally | 57.00% | ~402 |
 | Charismatic | 57.00% | ~402 |
 | Soldier | 55.00% | ~388 |
+| Medal of Exploration III | 52.00% | ~367 |
 | Asari Ally | 52.00% | ~367 |
 | Principled | 52.00% | ~367 |
-| Medal of Exploration III | 51.00% | ~360 |
-| Soldier Ally | 50.00% | ~352 |
-| Colonial Savior | 49.00% | ~345 |
-| Paramour I | 48.00% | ~338 |
-| Scientist | 47.00% | ~331 |
-| Merciless | 46.00% | ~324 |
-| Krogan Ally | 45.00% | ~317 |
-| Sentinel Ally | 44.00% | ~310 |
-| Missing in Action | 43.00% | ~303 |
-| Very Elusive | 43.00% | ~303 |
-| Head Hunter | 43.00% | ~303 |
-| Operative | 42.00% | ~296 |
-| Scholar | 42.00% | ~296 |
+| Soldier Ally | 50.00% | ~353 |
+| Colonial Savior | 49.00% | ~346 |
+| Paramour I | 48.00% | ~339 |
+| Scientist | 47.00% | ~332 |
+| Merciless | 46.00% | ~325 |
+| Krogan Ally | 45.00% | ~318 |
+| Sentinel Ally | 43.00% | ~304 |
+| Missing in Action | 43.00% | ~304 |
+| Very Elusive | 43.00% | ~304 |
+| Head Hunter | 43.00% | ~304 |
+| Operative | 42.00% | ~297 |
+| Scholar | 42.00% | ~297 |
 | Veteran | 41.00% | ~289 |
 | Power Full | 40.00% | ~282 |
 | The Professor | 39.00% | ~275 |
@@ -61,22 +61,22 @@
 | Heart of Darkness | 31.00% | ~219 |
 | Driven | 31.00% | ~219 |
 | Focused | 30.00% | ~212 |
-| Cat's in the Cradle | 30.00% | ~212 |
 | Fade Away | 30.00% | ~212 |
 | Treason | 30.00% | ~212 |
 | Agent | 30.00% | ~212 |
 | Digital Exorcist | 30.00% | ~212 |
 | Bringer of War | 30.00% | ~212 |
-| Doppelganger | 29.00% | ~204 |
-| Mobilizer | 29.00% | ~204 |
-| Friend or Foe | 28.00% | ~197 |
-| First Aid Specialist | 27.00% | ~190 |
-| Mission Accomplished | 27.00% | ~190 |
-| Suicide Mission | 27.00% | ~190 |
-| Against All Odds | 27.00% | ~190 |
-| Untouchable | 26.00% | ~183 |
-| Eye of the Hurricane | 26.00% | ~183 |
-| A House Divided | 26.00% | ~183 |
+| Cat's in the Cradle | 29.00% | ~205 |
+| Doppelganger | 29.00% | ~205 |
+| Mobilizer | 29.00% | ~205 |
+| Friend or Foe | 28.00% | ~198 |
+| First Aid Specialist | 27.00% | ~191 |
+| Mission Accomplished | 27.00% | ~191 |
+| Suicide Mission | 27.00% | ~191 |
+| Against All Odds | 27.00% | ~191 |
+| Untouchable | 26.00% | ~184 |
+| Eye of the Hurricane | 26.00% | ~184 |
+| A House Divided | 26.00% | ~184 |
 | Giant Killer | 25.00% | ~176 |
 | Weapon Specialist | 25.00% | ~176 |
 | World Shaker | 25.00% | ~176 |
@@ -112,10 +112,10 @@
 | Paramour III | 11.00% | ~78 |
 | Overload Specialist | 11.00% | ~78 |
 | Warp Mastery | 11.00% | ~78 |
-| Barrier Mastery | 10.00% | ~70 |
-| Always Prepared | 10.00% | ~70 |
-| Lift Mastery | 10.00% | ~70 |
-| Hijacker | 9.00% | ~63 |
+| Barrier Mastery | 10.00% | ~71 |
+| Lift Mastery | 10.00% | ~71 |
+| Hijacker | 9.00% | ~64 |
+| Always Prepared | 9.00% | ~64 |
 | Sky High | 8.00% | ~56 |
 | Damping Specialist | 7.00% | ~49 |
 | Singularity Mastery | 7.00% | ~49 |
@@ -132,7 +132,7 @@
 | Neural Shock Specialist | 2.00% | ~14 |
 | The One and Only | 0.70% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 705 (Ranked 253)  
+Progressed: 706 (Ranked 253)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,4 +162,4 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-10-12 | 664 | 0 |
 | 2023-10-13 | 676 | 0 |
 | 2023-10-14 | 692 | 0 |
-| 2023-10-15 | 705 | 0 |
+| 2023-10-15 | 706 | 0 |

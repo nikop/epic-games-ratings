@@ -18,20 +18,20 @@
 | Everything matters | 33.00% | ~6 |
 | Order and method | 33.00% | ~6 |
 | An expert mediator | 28.00% | ~5 |
+| Betty Allen | 28.00% | ~5 |
 | DI Hardwicke | 28.00% | ~5 |
-| Betty Allen | 22.00% | ~4 |
-| The Investigation Begins | 22.00% | ~4 |
+| The Investigation Begins | 28.00% | ~5 |
+| An odd series of events | 17.00% | ~3 |
+| Ms. Camilla B. Culsham | 17.00% | ~3 |
+| Irene Court-Smyth | 17.00% | ~3 |
+| The Apartment | 17.00% | ~3 |
 | Well-acquainted | 11.00% | ~2 |
 | Truth from within | 11.00% | ~2 |
-| An odd series of events | 11.00% | ~2 |
 | A rude awakening | 11.00% | ~2 |
 | Anastasia Babanin | 11.00% | ~2 |
-| Ms. Camilla B. Culsham | 11.00% | ~2 |
-| Irene Court-Smyth | 11.00% | ~2 |
 | Nathaniel Dryden | 11.00% | ~2 |
 | Zakariya Demir | 11.00% | ~2 |
 | Bartholomew | 11.00% | ~2 |
-| The Apartment | 11.00% | ~2 |
 | The Scheme | 11.00% | ~2 |
 | A curious phrase | 6.00% | ~1 |
 | The Denouement | 0.00% | ~0 |

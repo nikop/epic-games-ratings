@@ -22,42 +22,42 @@ Rating: 4.50 (Ranked 574)
 | There you are! | 1.00% | ~265 |
 | Vaporous Expansion | 1.00% | ~265 |
 | Whoopsie | 1.00% | ~265 |
-| Daily Dose | 0.90% | ~238 |
-| Ectoplasmic Entity | 0.90% | ~238 |
-| Terrifying | 0.90% | ~238 |
-| Welcome to the Crew | 0.90% | ~238 |
+| Daily Dose | 0.90% | ~239 |
+| Ectoplasmic Entity | 0.90% | ~239 |
+| Terrifying | 0.90% | ~239 |
+| Welcome to the Crew | 0.90% | ~239 |
 | Ghostbuster In Training | 0.80% | ~212 |
 | Right back at ya | 0.80% | ~212 |
+| Side Hustle | 0.80% | ~212 |
 | Summoner | 0.80% | ~212 |
-| Legions | 0.70% | ~185 |
-| Side Hustle | 0.70% | ~185 |
-| Skilled | 0.70% | ~185 |
-| Stunner | 0.70% | ~185 |
+| Legions | 0.70% | ~186 |
+| Skilled | 0.70% | ~186 |
+| Stunner | 0.70% | ~186 |
 | Pesky Jerks | 0.60% | ~159 |
-| We have the best insurance | 0.50% | ~132 |
-| Collector | 0.50% | ~132 |
-| Diabolical | 0.50% | ~132 |
-| Rift Destroyer | 0.50% | ~132 |
-| Seasoned | 0.50% | ~132 |
-| Tobin's Prodigy | 0.50% | ~132 |
+| We have the best insurance | 0.50% | ~133 |
+| Collector | 0.50% | ~133 |
+| Diabolical | 0.50% | ~133 |
+| Reckless | 0.50% | ~133 |
+| Rift Destroyer | 0.50% | ~133 |
+| Seasoned | 0.50% | ~133 |
+| Tobin's Prodigy | 0.50% | ~133 |
 | Escape Artist | 0.40% | ~106 |
-| Reckless | 0.40% | ~106 |
 | Rivalry | 0.40% | ~106 |
-| Fragile Panes | 0.30% | ~79 |
-| Liability | 0.30% | ~79 |
-| Surprise! | 0.30% | ~79 |
+| Fragile Panes | 0.30% | ~80 |
+| Liability | 0.30% | ~80 |
+| Surprise! | 0.30% | ~80 |
 | Therapeutic | 0.20% | ~53 |
-| Catostrophic Destroyer | 0.10% | ~26 |
-| I don't need these | 0.10% | ~26 |
-| Ghost Expert | 0.10% | ~26 |
-| Line em' up | 0.10% | ~26 |
-| Little Help Here | 0.10% | ~26 |
-| Master Collector | 0.10% | ~26 |
-| Mycophile | 0.10% | ~26 |
-| Rift Seeker | 0.10% | ~26 |
-| Ultimate Defense | 0.10% | ~26 |
+| Catostrophic Destroyer | 0.10% | ~27 |
+| I don't need these | 0.10% | ~27 |
+| Ghost Expert | 0.10% | ~27 |
+| Line em' up | 0.10% | ~27 |
+| Little Help Here | 0.10% | ~27 |
+| Master Collector | 0.10% | ~27 |
+| Mycophile | 0.10% | ~27 |
+| Rift Seeker | 0.10% | ~27 |
+| Ultimate Defense | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,497 (Ranked 117)  
+Progressed: 26,501 (Ranked 117)  
 Completed: 58 (0.22%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,7 +235,7 @@ Completed: 58 (0.22%) (Ranked 219)
 | 2023-10-12 | 26,379 | 58 |
 | 2023-10-13 | 26,414 | 58 |
 | 2023-10-14 | 26,466 | 58 |
-| 2023-10-15 | 26,497 | 58 |
+| 2023-10-15 | 26,501 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 262  (Ranked 256)  
 Sum: 2,392 (Ranked 188)  
