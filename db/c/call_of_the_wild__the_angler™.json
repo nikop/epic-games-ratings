@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 396,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -814,9 +814,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 6054,
+  "EOS_Progressed": 6056,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8509,6 +8509,11 @@
       "Time": "2023-10-15T14:04:08.5616218+00:00",
       "NumProgressed": 6054,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-15T15:03:55.2556131+00:00",
+      "NumProgressed": 6056,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -8520,7 +8525,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 4783
+      "UsersEstimate": 4784
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -8528,7 +8533,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 3390
+      "UsersEstimate": 3391
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -8536,7 +8541,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 4177
+      "UsersEstimate": 4179
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -8544,7 +8549,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 2845
+      "UsersEstimate": 2846
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -8552,7 +8557,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 2179
+      "UsersEstimate": 2180
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -8560,7 +8565,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 3632
+      "UsersEstimate": 3634
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -8568,7 +8573,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 2966
+      "UsersEstimate": 2967
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -8576,7 +8581,7 @@
       "Name": "Scaling up",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 3390
+      "UsersEstimate": 3391
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -8584,7 +8589,7 @@
       "Name": "Things that go Splash in the Night",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1937
+      "UsersEstimate": 1938
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -8632,7 +8637,7 @@
       "Name": "Going for Gold",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 1574
+      "UsersEstimate": 1575
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -8640,7 +8645,7 @@
       "Name": "School\u0027s Out for Summer",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "ACHIEVEMENT_017",
@@ -8799,13 +8804,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6054,
+      "Progressed": 6056,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5426,
+      "Progressed": 5428,
       "Completed": 112
     }
   ],
@@ -8813,8 +8818,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-10-13T02:58:59.777665+00:00",
-  "LastChanged_Achievements": "2023-10-15T14:04:08.5616213+00:00",
+  "LastChanged_Achievements": "2023-10-15T15:03:55.2556126+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:14.7785025+00:00",
-  "LastUpdate_Ratings": "2023-10-15T13:59:26.5732822+00:00",
-  "LastUpdate_Achievements": "2023-10-15T14:04:08.5617009+00:00"
+  "LastUpdate_Ratings": "2023-10-15T14:59:28.2666179+00:00",
+  "LastUpdate_Achievements": "2023-10-15T15:03:55.2556959+00:00"
 }

@@ -6,8 +6,8 @@
   "Ranking_Popularity": 536,
   "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 119,
-  "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_Completed": 271,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -288,7 +288,7 @@
   "Tags": [],
   "EOS_Progressed": 24228,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5660,9 +5660,9 @@
       "ID": "ACH_GET_CREATURE",
       "SetID": "cdkbb11",
       "Name": "Creature Feature",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 170
+      "UsersEstimate": 194
     },
     {
       "ID": "ACH_GET_GUS",
@@ -5700,9 +5700,9 @@
       "ID": "ACH_GET_MAGBOOTS",
       "SetID": "cdkbb11",
       "Name": "RIP Davey Glutes",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 170
+      "UsersEstimate": 194
     },
     {
       "ID": "ACH_GET_SWEEZY",
@@ -5868,9 +5868,9 @@
       "ID": "ACH_SUITO_SUICIDE",
       "SetID": "cdkbb11",
       "Name": "Series Wrap on Suit-O",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH_CHARGED_BALL_KILLS",
@@ -5987,8 +5987,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-07T05:03:09.4311759+00:00",
-  "LastChanged_Achievements": "2023-10-15T14:05:52.7978199+00:00",
+  "LastChanged_Achievements": "2023-10-15T15:05:38.2750311+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:39.0375133+00:00",
-  "LastUpdate_Ratings": "2023-10-15T14:00:56.0673714+00:00",
-  "LastUpdate_Achievements": "2023-10-15T14:05:52.7978914+00:00"
+  "LastUpdate_Ratings": "2023-10-15T15:01:04.4249945+00:00",
+  "LastUpdate_Achievements": "2023-10-15T15:05:38.2751044+00:00"
 }

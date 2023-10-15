@@ -17,7 +17,7 @@ Number of Ratings: 285  (23.09.2022)
 | Horder Better Faster Stronger | 16.00% | ~663 |
 | Everything Must Go! | 14.00% | ~580 |
 | Ten Steps from the Grave | 14.00% | ~580 |
-| Next Time on MythForce... | 13.00% | ~538 |
+| Next Time on MythForce... | 13.00% | ~539 |
 | Cold-Blooded Critters | 10.00% | ~414 |
 | Death Becomes You | 8.00% | ~331 |
 | Flawless Victory | 6.00% | ~249 |
@@ -30,8 +30,8 @@ Number of Ratings: 285  (23.09.2022)
 | Vexed Her | 0.40% | ~17 |
 | Deadalus and Loving It | 0.20% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,142 (Ranked 178)  
-Completed: 2 (0.05%) (Ranked 270)  
+Progressed: 4,143 (Ranked 178)  
+Completed: 2 (0.05%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -122,11 +122,11 @@ Completed: 2 (0.05%) (Ranked 270)
 | 2023-10-12 | 4,056 | 2 |
 | 2023-10-13 | 4,087 | 2 |
 | 2023-10-14 | 4,127 | 2 |
-| 2023-10-15 | 4,142 | 2 |
+| 2023-10-15 | 4,143 | 2 |
 ## Awards
 Max (Great for Beginners): 34  (Ranked 463)  
-Sum: 284 (Ranked 356)  
-Diff (max vs sum): 107  
+Sum: 284 (Ranked 357)  
+Diff (max vs sum): 106  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 34 |

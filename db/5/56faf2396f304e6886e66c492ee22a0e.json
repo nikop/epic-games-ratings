@@ -289,9 +289,9 @@
       "ID": "ACHIEVEMENT_Helped_Lotus_1",
       "SetID": "70j9o42",
       "Name": "Lotus Bud",
-      "Percentage": 28,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_Iro_BestEnding",
@@ -480,8 +480,8 @@
   ],
   "FirstSeen": "2023-07-28T15:57:49.6060029+00:00",
   "FirstSeenAchievements": "2023-07-12T17:04:29.8033729+00:00",
-  "LastChanged_Achievements": "2023-10-15T14:07:26.1946656+00:00",
+  "LastChanged_Achievements": "2023-10-15T15:07:10.7731583+00:00",
   "LastUpdate_AppInfo": "2023-10-10T13:57:13.6528159+00:00",
-  "LastUpdate_Ratings": "2023-10-15T14:00:41.4853036+00:00",
-  "LastUpdate_Achievements": "2023-10-15T14:07:26.1946959+00:00"
+  "LastUpdate_Ratings": "2023-10-15T15:00:48.3515706+00:00",
+  "LastUpdate_Achievements": "2023-10-15T15:07:10.77319+00:00"
 }

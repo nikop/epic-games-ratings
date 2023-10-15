@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 664,
+  "EOS_Progressed": 665,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1771,6 +1771,11 @@
       "Time": "2023-10-15T14:05:35.6684695+00:00",
       "NumProgressed": 664,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-15T15:05:21.5819483+00:00",
+      "NumProgressed": 665,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -1895,7 +1900,7 @@
       "Name": "Distinguished",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "achievement_23",
@@ -1919,7 +1924,7 @@
       "Name": "A tremor in the Force",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "achievement_26",
@@ -2007,7 +2012,7 @@
       "Name": "New Recruit",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "achievement_36",
@@ -2191,7 +2196,7 @@
       "Name": "Support the troops",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "achievement_57",
@@ -2286,13 +2291,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 664,
+      "Progressed": 665,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 664,
+      "Progressed": 665,
       "Completed": 1
     }
   ],
@@ -2300,8 +2305,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-15T14:05:35.6684691+00:00",
+  "LastChanged_Achievements": "2023-10-15T15:05:21.5819479+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:22.846224+00:00",
-  "LastUpdate_Ratings": "2023-10-15T14:03:18.1786176+00:00",
-  "LastUpdate_Achievements": "2023-10-15T14:05:35.6685415+00:00"
+  "LastUpdate_Ratings": "2023-10-15T15:03:13.9143818+00:00",
+  "LastUpdate_Achievements": "2023-10-15T15:05:21.582031+00:00"
 }

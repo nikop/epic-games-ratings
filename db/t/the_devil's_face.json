@@ -1693,25 +1693,25 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "296pn27",
       "Name": "The path to enlightenment",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 48
+      "UsersEstimate": 52
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "296pn27",
       "Name": "Our efforts are finally yielding progress",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 48
+      "UsersEstimate": 52
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "296pn27",
       "Name": "This looks really bad",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 44
+      "UsersEstimate": 48
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -1725,9 +1725,9 @@
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "296pn27",
       "Name": "Unveiling the Magnitude of Sin",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 26
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -1764,8 +1764,8 @@
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-10-15T14:05:29.2684285+00:00",
+  "LastChanged_Achievements": "2023-10-15T15:05:15.4443242+00:00",
   "LastUpdate_AppInfo": "2023-10-14T11:57:11.021684+00:00",
-  "LastUpdate_Ratings": "2023-10-15T13:58:46.4714217+00:00",
-  "LastUpdate_Achievements": "2023-10-15T14:05:29.2684495+00:00"
+  "LastUpdate_Ratings": "2023-10-15T14:58:45.6410658+00:00",
+  "LastUpdate_Achievements": "2023-10-15T15:05:15.4443461+00:00"
 }

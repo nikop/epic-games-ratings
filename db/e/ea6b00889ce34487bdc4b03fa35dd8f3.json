@@ -59,9 +59,9 @@
       "ID": "AirDash",
       "SetID": "dab3ahb",
       "Name": "Air Dash Unlocked",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 75,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BeatTheGame",
@@ -107,9 +107,9 @@
       "ID": "World1",
       "SetID": "dab3ahb",
       "Name": "World 1 Completed",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 80,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "World2",
@@ -153,8 +153,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-16T19:01:22.6123387+00:00",
-  "LastChanged_Achievements": "2023-10-15T14:09:20.4240371+00:00",
+  "LastChanged_Achievements": "2023-10-15T15:08:44.8945196+00:00",
   "LastUpdate_AppInfo": "2023-10-11T15:57:06.3580313+00:00",
-  "LastUpdate_Ratings": "2023-10-15T13:57:03.6990943+00:00",
-  "LastUpdate_Achievements": "2023-10-15T14:09:20.4240464+00:00"
+  "LastUpdate_Ratings": "2023-10-15T14:57:02.7383081+00:00",
+  "LastUpdate_Achievements": "2023-10-15T15:08:44.8945309+00:00"
 }

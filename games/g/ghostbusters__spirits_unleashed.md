@@ -23,9 +23,9 @@ Rating: 4.50 (Ranked 573)
 | Vaporous Expansion | 1.00% | ~265 |
 | Whoopsie | 1.00% | ~265 |
 | Daily Dose | 0.90% | ~238 |
+| Ectoplasmic Entity | 0.90% | ~238 |
 | Terrifying | 0.90% | ~238 |
 | Welcome to the Crew | 0.90% | ~238 |
-| Ectoplasmic Entity | 0.80% | ~212 |
 | Ghostbuster In Training | 0.80% | ~212 |
 | Right back at ya | 0.80% | ~212 |
 | Summoner | 0.80% | ~212 |

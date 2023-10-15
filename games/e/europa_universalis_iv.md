@@ -6,32 +6,32 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,266 |
-| Until death do us apart | 4.00% | ~17,266 |
-| That is mine! | 3.00% | ~12,949 |
-| Victorious! | 3.00% | ~12,949 |
-| Brothers in Arms | 2.00% | ~8,633 |
-| Cold War | 2.00% | ~8,633 |
-| For the Glory | 2.00% | ~8,633 |
-| That's a Grand Navy | 2.00% | ~8,633 |
-| Seriously?! | 2.00% | ~8,633 |
-| Defender of the Faith | 1.00% | ~4,316 |
-| It's all about the money | 1.00% | ~4,316 |
-| Respected | 1.00% | ~4,316 |
-| The Princess is in this Castle | 1.00% | ~4,316 |
-| True Catholic | 1.00% | ~4,316 |
-| Truly Divine Ruler | 1.00% | ~4,316 |
-| It's all about luck | 0.90% | ~3,885 |
-| Blockader | 0.80% | ~3,453 |
-| Double the Love | 0.80% | ~3,453 |
-| Royal Authority | 0.80% | ~3,453 |
-| Total Control | 0.80% | ~3,453 |
-| My armies are invincible! | 0.70% | ~3,021 |
-| Agressive Expander | 0.50% | ~2,158 |
-| Azur semé de lis or | 0.50% | ~2,158 |
-| City of Cities | 0.50% | ~2,158 |
-| Combined Arms | 0.50% | ~2,158 |
-| This navy can take it all | 0.50% | ~2,158 |
+| That's a Grand Army | 4.00% | ~17,269 |
+| Until death do us apart | 4.00% | ~17,269 |
+| That is mine! | 3.00% | ~12,952 |
+| Victorious! | 3.00% | ~12,952 |
+| Brothers in Arms | 2.00% | ~8,634 |
+| Cold War | 2.00% | ~8,634 |
+| For the Glory | 2.00% | ~8,634 |
+| That's a Grand Navy | 2.00% | ~8,634 |
+| Seriously?! | 2.00% | ~8,634 |
+| Defender of the Faith | 1.00% | ~4,317 |
+| It's all about the money | 1.00% | ~4,317 |
+| Respected | 1.00% | ~4,317 |
+| The Princess is in this Castle | 1.00% | ~4,317 |
+| True Catholic | 1.00% | ~4,317 |
+| Truly Divine Ruler | 1.00% | ~4,317 |
+| It's all about luck | 0.90% | ~3,886 |
+| Blockader | 0.80% | ~3,454 |
+| Double the Love | 0.80% | ~3,454 |
+| Royal Authority | 0.80% | ~3,454 |
+| Total Control | 0.80% | ~3,454 |
+| My armies are invincible! | 0.70% | ~3,022 |
+| Agressive Expander | 0.50% | ~2,159 |
+| Azur semé de lis or | 0.50% | ~2,159 |
+| City of Cities | 0.50% | ~2,159 |
+| Combined Arms | 0.50% | ~2,159 |
+| This navy can take it all | 0.50% | ~2,159 |
 | Bright Spark | 0.40% | ~1,727 |
 | Factionalism | 0.40% | ~1,727 |
 | Gentle Persuasion | 0.40% | ~1,727 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 431,641 (Ranked 40)  
+Progressed: 431,724 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -539,10 +539,10 @@ Completed: 1 (0.00%) (Ranked 314)
 | 2023-10-12 | 429,009 | 1 |
 | 2023-10-13 | 429,869 | 1 |
 | 2023-10-14 | 431,056 | 1 |
-| 2023-10-15 | 431,641 | 1 |
+| 2023-10-15 | 431,724 | 1 |
 ## Awards
 Max (Educational): 6,534  (Ranked 55)  
-Sum: 53,731 (Ranked 25)  
+Sum: 53,744 (Ranked 25)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -551,7 +551,7 @@ Diff (max vs sum): 30
 | This game has Diverse Characters | 6,219 |
 | This game has Challenging Combat | 6,175 |
 | This game is Extremely Fun | 6,155 |
-| This game is Relaxing | 6,023 |
+| This game is Relaxing | 6,036 |
 | This game has Competitive Players | 5,859 |
 | This game has Amazing Storytelling | 5,467 |
 | This game has Amazing Characters | 5,071 |
@@ -830,4 +830,4 @@ Diff (max vs sum): 30
 | 2023-10-12 | 4.69 | - | 6,494 | 53,343 |
 | 2023-10-13 | 4.69 | - | 6,514 | 53,477 |
 | 2023-10-14 | 4.69 | - | 6,534 | 53,639 |
-| 2023-10-15 | 4.69 | - | 6,534 | 53,731 |
+| 2023-10-15 | 4.69 | - | 6,534 | 53,744 |

@@ -2,7 +2,7 @@
   "ID": "8f8bddb3ff464536984ce8e945cb5f8c",
   "Name": "South Park\u2122: The Stick of Truth\u2122",
   "ProductSlug": "south-park-the-stick-of-truth",
-  "Ranking_Rating": 61,
+  "Ranking_Rating": 62,
   "Ranking_Popularity": 414,
   "Ranking_PopularitySum": 467,
   "Ranking_EOS_Progress": 670,
@@ -445,6 +445,6 @@
   "FirstSeen": "2022-07-22T20:25:01.6762384+00:00",
   "LastChanged": "2023-10-14T18:59:46.0014563+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:21.13103+00:00",
-  "LastUpdate_Ratings": "2023-10-15T13:59:52.0228477+00:00",
-  "LastUpdate_Achievements": "2023-10-15T14:04:59.9451961+00:00"
+  "LastUpdate_Ratings": "2023-10-15T14:59:56.3680646+00:00",
+  "LastUpdate_Achievements": "2023-10-15T15:04:46.5095967+00:00"
 }

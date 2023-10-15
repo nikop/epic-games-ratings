@@ -8,11 +8,11 @@
 | Master trainee | 79.00% | ~23 |
 | Jung's dream | 69.00% | ~20 |
 | The battle of Great Britain | 62.00% | ~18 |
-| Giant | 52.00% | ~15 |
+| Giant | 55.00% | ~16 |
 | Pulp! Where Monsters Dwell | 48.00% | ~14 |
 | A continent with chemistry | 48.00% | ~14 |
-| The happy farmer girl | 45.00% | ~13 |
-| A rival with no options | 41.00% | ~12 |
+| The happy farmer girl | 48.00% | ~14 |
+| A rival with no options | 45.00% | ~13 |
 | Pulp! Terror Tales in the Night | 41.00% | ~12 |
 | Pulp! Out of this World | 38.00% | ~11 |
 | Pulp! Adventures into the Unknown | 38.00% | ~11 |

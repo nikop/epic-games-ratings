@@ -531,9 +531,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 15757,
+  "EOS_Progressed": 15760,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -12086,6 +12086,11 @@
       "Time": "2023-10-15T14:04:06.1419125+00:00",
       "NumProgressed": 15757,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-10-15T15:03:52.9764257+00:00",
+      "NumProgressed": 15760,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 41,
@@ -12097,7 +12102,7 @@
       "Name": "Good midwife",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1733
+      "UsersEstimate": 1734
     },
     {
       "ID": "tpote_achievement_10",
@@ -12105,7 +12110,7 @@
       "Name": "Rebel without a cause",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "tpote_achievement_11",
@@ -12113,7 +12118,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3624
+      "UsersEstimate": 3625
     },
     {
       "ID": "tpote_achievement_12",
@@ -12137,7 +12142,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5200
+      "UsersEstimate": 5201
     },
     {
       "ID": "tpote_achievement_15",
@@ -12169,7 +12174,7 @@
       "Name": "Friar Tuck",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 1733
+      "UsersEstimate": 1734
     },
     {
       "ID": "tpote_achievement_19",
@@ -12177,7 +12182,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2836
+      "UsersEstimate": 2837
     },
     {
       "ID": "tpote_achievement_2",
@@ -12185,7 +12190,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5200
+      "UsersEstimate": 5201
     },
     {
       "ID": "tpote_achievement_20",
@@ -12201,7 +12206,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4727
+      "UsersEstimate": 4728
     },
     {
       "ID": "tpote_achievement_22",
@@ -12209,7 +12214,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3151
+      "UsersEstimate": 3152
     },
     {
       "ID": "tpote_achievement_23",
@@ -12225,7 +12230,7 @@
       "Name": "First profit",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1733
+      "UsersEstimate": 1734
     },
     {
       "ID": "tpote_achievement_25",
@@ -12241,7 +12246,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2048
+      "UsersEstimate": 2049
     },
     {
       "ID": "tpote_achievement_27",
@@ -12249,7 +12254,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2836
+      "UsersEstimate": 2837
     },
     {
       "ID": "tpote_achievement_28",
@@ -12273,7 +12278,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5042
+      "UsersEstimate": 5043
     },
     {
       "ID": "tpote_achievement_30",
@@ -12289,7 +12294,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2836
+      "UsersEstimate": 2837
     },
     {
       "ID": "tpote_achievement_32",
@@ -12361,7 +12366,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6303
+      "UsersEstimate": 6304
     },
     {
       "ID": "tpote_achievement_40",
@@ -12417,22 +12422,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 5515
+      "UsersEstimate": 5516
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15757,
+      "Progressed": 15760,
       "Completed": 113
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-10-14T16:59:08.0001807+00:00",
-  "LastChanged_Achievements": "2023-10-15T14:04:06.1419119+00:00",
+  "LastChanged_Achievements": "2023-10-15T15:03:52.9764252+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:18.9172053+00:00",
-  "LastUpdate_Ratings": "2023-10-15T13:59:37.8658052+00:00",
-  "LastUpdate_Achievements": "2023-10-15T14:04:06.1420175+00:00"
+  "LastUpdate_Ratings": "2023-10-15T14:59:42.4303352+00:00",
+  "LastUpdate_Achievements": "2023-10-15T15:03:52.9765344+00:00"
 }

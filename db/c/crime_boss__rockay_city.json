@@ -3,11 +3,11 @@
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 979,
-  "Ranking_Popularity": 205,
-  "Ranking_PopularitySum": 192,
+  "Ranking_Popularity": 204,
+  "Ranking_PopularitySum": 191,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -3976,11 +3976,17 @@
       "Rating": 3.94,
       "NumberOfAwards": 2348,
       "NumberOfAwardsMax": 491
+    },
+    {
+      "Time": "2023-10-15T14:59:17.1481878+00:00",
+      "Rating": 3.94,
+      "NumberOfAwards": 2353,
+      "NumberOfAwardsMax": 495
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 2348,
-  "NumberOfAwardsMax": 491,
+  "NumberOfAwards": 2353,
+  "NumberOfAwardsMax": 495,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -3993,7 +3999,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 491
+      "Count": 495
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4005,7 +4011,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 475
+      "Count": 476
     },
     {
       "Text": "This game has Challenging Combat",
@@ -22593,9 +22599,9 @@
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-10-15T11:59:55.806551+00:00",
+  "LastChanged": "2023-10-15T14:59:17.1481876+00:00",
   "LastChanged_Achievements": "2023-10-15T14:08:10.5308165+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:09.3878818+00:00",
-  "LastUpdate_Ratings": "2023-10-15T13:59:14.4988285+00:00",
+  "LastUpdate_Ratings": "2023-10-15T14:59:17.1481881+00:00",
   "LastUpdate_Achievements": "2023-10-15T14:08:10.530966+00:00"
 }

@@ -5,23 +5,23 @@ Rating: 4.67 (Ranked 262)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 95.00% | ~3,101 |
-| On the Top Step | 89.00% | ~2,905 |
+| Getting on the Step | 95.00% | ~3,102 |
+| On the Top Step | 89.00% | ~2,906 |
 | Setting up for Success | 79.00% | ~2,579 |
 | Team Orders | 76.00% | ~2,481 |
-| Engineer | 56.00% | ~1,828 |
+| Engineer | 57.00% | ~1,861 |
 | Familiar Faces | 50.00% | ~1,632 |
-| Going the Extra Mile | 44.00% | ~1,436 |
+| Going the Extra Mile | 44.00% | ~1,437 |
 | Sharing the Love | 43.00% | ~1,404 |
 | Hitting a Season | 40.00% | ~1,306 |
 | Challenge Yourself | 36.00% | ~1,175 |
 | A Dozen Pieces | 34.00% | ~1,110 |
 | Making History | 33.00% | ~1,077 |
-| Writing a new Chapter | 27.00% | ~881 |
+| Writing a new Chapter | 27.00% | ~882 |
 | Network Success | 26.00% | ~849 |
 | Spring Cleaning | 25.00% | ~816 |
-| Reduce | 21.00% | ~685 |
-| Ups and Downs | 21.00% | ~685 |
+| Reduce | 21.00% | ~686 |
+| Ups and Downs | 21.00% | ~686 |
 | Crucial Combo | 20.00% | ~653 |
 | Reuse | 18.00% | ~588 |
 | One for the Book | 18.00% | ~588 |
@@ -38,7 +38,7 @@ Rating: 4.67 (Ranked 262)
 | Tinkerer | 11.00% | ~359 |
 | Friendly Competition | 10.00% | ~326 |
 | Undisputed Winner | 9.00% | ~294 |
-| Living up to Expectations | 7.00% | ~228 |
+| Living up to Expectations | 7.00% | ~229 |
 | For all Those Back at the Factory | 6.00% | ~196 |
 | Smooth Operator | 6.00% | ~196 |
 | Loyal Bond | 5.00% | ~163 |
@@ -55,7 +55,7 @@ Rating: 4.67 (Ranked 262)
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,264 (Ranked 189)  
+Progressed: 3,265 (Ranked 188)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-10-12 | 3,191 | 0 |
 | 2023-10-13 | 3,219 | 0 |
 | 2023-10-14 | 3,247 | 0 |
-| 2023-10-15 | 3,264 | 0 |
+| 2023-10-15 | 3,265 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

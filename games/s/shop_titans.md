@@ -54,6 +54,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Hidden Potential | 0.70% | ~964 |
 | Expansion in Session | 0.70% | ~964 |
 | Trash to Treasure | 0.70% | ~964 |
+| Miracle Alchemist | 0.70% | ~964 |
 | Seasoned Journeyman | 0.70% | ~964 |
 | Black Friday Special | 0.70% | ~964 |
 | Special Ingredient | 0.70% | ~964 |
@@ -77,7 +78,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Necromancer Queen | 0.60% | ~826 |
 | Item of Renown | 0.60% | ~826 |
 | Master Merchant | 0.60% | ~826 |
-| Miracle Alchemist | 0.60% | ~826 |
 | Laden with Loot | 0.60% | ~826 |
 | Precision Engineering | 0.60% | ~826 |
 | Scourge of the Seas | 0.60% | ~826 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,653 (Ranked 73)  
+Progressed: 137,656 (Ranked 73)  
 Completed: 168 (0.12%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,7 +297,7 @@ Completed: 168 (0.12%) (Ranked 241)
 | 2023-10-12 | 137,496 | 168 |
 | 2023-10-13 | 137,555 | 168 |
 | 2023-10-14 | 137,618 | 168 |
-| 2023-10-15 | 137,653 | 168 |
+| 2023-10-15 | 137,656 | 168 |
 ## Awards
 Max (Great for Beginners): 4,787  (Ranked 72)  
 Sum: 27,383 (Ranked 50)  

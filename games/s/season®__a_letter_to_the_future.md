@@ -19,7 +19,7 @@
 | Goodbye Tieng Valley | 13.00% | ~167 |
 | The End | 13.00% | ~167 |
 | Love Uncoverer | 11.00% | ~141 |
-| Graffiti Artist | 9.00% | ~115 |
+| Graffiti Artist | 10.00% | ~128 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,282 (Ranked 223)  
 Completed: 57 (4.45%) (Ranked 68)  

@@ -12,20 +12,20 @@ Rating: 4.64 (Ranked 321)
 | Sweezy Like Sunday Morning | 0.90% | ~218 |
 | G3 Graduation | 0.90% | ~218 |
 | Don't Knife The Hand That Feeds | 0.90% | ~218 |
+| Creature Feature | 0.80% | ~194 |
 | Bring A Knife to a Gun Fight | 0.80% | ~194 |
+| RIP Davey Glutes | 0.80% | ~194 |
 | We're All Very Impressed, Trust Me | 0.80% | ~194 |
 | Hardest Battle In The Game | 0.80% | ~194 |
 | Who's The Boss? | 0.80% | ~194 |
-| Creature Feature | 0.70% | ~170 |
-| RIP Davey Glutes | 0.70% | ~170 |
 | Bathe With A Giant Nude Alien | 0.70% | ~11 |
 | Lezduit! | 0.60% | ~145 |
 | Legendary Bounty Hunter | 0.60% | ~145 |
 | Self-Actualization | 0.60% | ~145 |
 | Fallout Doesn't Let You Do This | 0.60% | ~145 |
 | Spent 15 Hours At The Alien Strip Club | 0.60% | ~145 |
+| Series Wrap on Suit-O | 0.60% | ~145 |
 | Eatin' Good in the Neighborhood | 0.50% | ~121 |
-| Series Wrap on Suit-O | 0.50% | ~121 |
 | We Came, We Chainsaw, We Conquered | 0.50% | ~8 |
 | Eye Scream, You Scream | 0.40% | ~97 |
 | Mux Ado About Shipping | 0.40% | ~6 |
@@ -51,7 +51,7 @@ Rating: 4.64 (Ranked 321)
 | That's B.A.L.L., Folks | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 24,228 (Ranked 119)  
-Completed: 13 (0.05%) (Ranked 270)  
+Completed: 13 (0.05%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

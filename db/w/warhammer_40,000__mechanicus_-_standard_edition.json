@@ -5,7 +5,7 @@
   "Ranking_Rating": 674,
   "Ranking_Popularity": 247,
   "Ranking_PopularitySum": 198,
-  "Ranking_EOS_Progress": 62,
+  "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 88,
   "Ranking_EOS_NewCompleters": 105,
@@ -783,9 +783,9 @@
       "Count": 98
     }
   ],
-  "EOS_Progressed": 224808,
+  "EOS_Progressed": 224810,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 553,
+  "EOS_NewPlayers": 546,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20183,6 +20183,11 @@
       "Time": "2023-10-15T14:05:53.3657295+00:00",
       "NumProgressed": 224808,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-15T15:05:38.4920245+00:00",
+      "NumProgressed": 224810,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -20202,7 +20207,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 58450
+      "UsersEstimate": 58451
     },
     {
       "ID": "ACH_BASE_11",
@@ -20274,7 +20279,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13488
+      "UsersEstimate": 13489
     },
     {
       "ID": "ACH_BASE_20",
@@ -20465,7 +20470,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 224808,
+      "Progressed": 224810,
       "Completed": 5
     }
   ],
@@ -20473,8 +20478,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-10-15T07:04:04.0148832+00:00",
-  "LastChanged_Achievements": "2023-10-15T14:05:53.365729+00:00",
+  "LastChanged_Achievements": "2023-10-15T15:05:38.492024+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:01.3902355+00:00",
-  "LastUpdate_Ratings": "2023-10-15T14:02:13.5765955+00:00",
-  "LastUpdate_Achievements": "2023-10-15T14:05:53.3658732+00:00"
+  "LastUpdate_Ratings": "2023-10-15T15:02:11.0120031+00:00",
+  "LastUpdate_Achievements": "2023-10-15T15:05:38.4921678+00:00"
 }

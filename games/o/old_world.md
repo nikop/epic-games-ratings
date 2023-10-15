@@ -19,6 +19,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong | 2.00% | ~294 |
 | Friendly Family | 2.00% | ~294 |
 | Hanging Gardens | 2.00% | ~294 |
+| Kushite Paganism | 2.00% | ~294 |
 | Ambitious | 1.00% | ~147 |
 | Brilliant | 1.00% | ~147 |
 | Enlightened | 1.00% | ~147 |
@@ -51,7 +52,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Naming Landmarks | 1.00% | ~147 |
 | Trade Caravan | 1.00% | ~147 |
 | Kushite Pyramids | 1.00% | ~147 |
-| Kushite Paganism | 1.00% | ~147 |
 | Drillmaster | 0.90% | ~132 |
 | Great | 0.90% | ~132 |
 | Musaeum | 0.90% | ~132 |
@@ -60,12 +60,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Valiant | 0.80% | ~118 |
 | Legendary Cities | 0.80% | ~118 |
 | Just Difficulty | 0.80% | ~118 |
+| Artisans | 0.80% | ~118 |
 | Apadana | 0.80% | ~118 |
 | Colossus | 0.80% | ~118 |
 | Necropolis | 0.80% | ~118 |
 | Learn to Play 2 | 0.80% | ~118 |
 | Mighty | 0.70% | ~103 |
-| Artisans | 0.70% | ~103 |
 | Champions | 0.70% | ~103 |
 | Sages | 0.70% | ~103 |
 | Acropolis | 0.70% | ~103 |
@@ -79,6 +79,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lion | 0.60% | ~88 |
 | Victorious | 0.60% | ~88 |
 | Good Difficulty | 0.60% | ~88 |
+| Patrons | 0.60% | ~88 |
 | Learn to Play 3 | 0.60% | ~88 |
 | Greece | 0.60% | ~88 |
 | Power to the People | 0.60% | ~88 |
@@ -87,7 +88,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Invincible | 0.50% | ~74 |
 | Subjugator | 0.50% | ~74 |
 | Landowners | 0.50% | ~74 |
-| Patrons | 0.50% | ~74 |
 | Riders | 0.50% | ~74 |
 | Hittite Iron | 0.50% | ~74 |
 | Circus Maximus | 0.50% | ~74 |
@@ -111,6 +111,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Church of the Holy Sepulchre | 0.40% | ~59 |
 | Babylonia | 0.40% | ~59 |
 | Carthage | 0.40% | ~59 |
+| One True Faith | 0.40% | ~59 |
 | Assyrian Paganism | 0.40% | ~59 |
 | Hittite Paganism | 0.40% | ~59 |
 | Economic Reform | 0.40% | ~59 |
@@ -136,7 +137,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egypt | 0.30% | ~44 |
 | Rome | 0.30% | ~44 |
 | Old World Order | 0.30% | ~44 |
-| One True Faith | 0.30% | ~44 |
 | Industrial Progress | 0.30% | ~44 |
 | Enlightenment | 0.30% | ~44 |
 | Cataphract Archer | 0.30% | ~44 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,720 (Ranked 135)  
+Progressed: 14,721 (Ranked 135)  
 Completed: 5 (0.03%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -527,7 +527,7 @@ Completed: 5 (0.03%) (Ranked 283)
 | 2023-10-12 | 14,624 | 5 |
 | 2023-10-13 | 14,652 | 5 |
 | 2023-10-14 | 14,699 | 5 |
-| 2023-10-15 | 14,720 | 5 |
+| 2023-10-15 | 14,721 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,839 (Ranked 210)  
