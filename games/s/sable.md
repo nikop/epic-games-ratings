@@ -6,16 +6,16 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~32,063 |
-| Just The Two of Us | 32.00% | ~30,177 |
-| Up On High | 25.00% | ~23,576 |
-| Under The Hood | 25.00% | ~23,576 |
-| Got Your Nose | 24.00% | ~22,633 |
-| The Gift of Gab | 24.00% | ~22,633 |
-| Wrapping Up | 22.00% | ~20,747 |
-| More Than A Box Of Sand | 18.00% | ~16,975 |
-| The Dunboyne | 17.00% | ~16,032 |
-| Badge Hobbyist | 17.00% | ~16,032 |
+| Simoon | 34.00% | ~32,065 |
+| Just The Two of Us | 32.00% | ~30,179 |
+| Up On High | 25.00% | ~23,577 |
+| Under The Hood | 25.00% | ~23,577 |
+| Got Your Nose | 24.00% | ~22,634 |
+| The Gift of Gab | 24.00% | ~22,634 |
+| Wrapping Up | 22.00% | ~20,748 |
+| More Than A Box Of Sand | 18.00% | ~16,976 |
+| The Dunboyne | 17.00% | ~16,033 |
+| Badge Hobbyist | 17.00% | ~16,033 |
 | Chum Novice | 16.00% | ~15,089 |
 | Silver-Tongued Sable | 16.00% | ~15,089 |
 | Sticky Paws | 16.00% | ~15,089 |
@@ -26,34 +26,34 @@ Number of Ratings: 43  (23.09.2022)
 | Nesting Giant | 13.00% | ~12,260 |
 | Treasure Tracker | 13.00% | ~12,260 |
 | Big Spender | 13.00% | ~12,260 |
-| Badge Collector | 12.00% | ~11,316 |
-| Quite The Catch | 12.00% | ~11,316 |
-| Rowleys Way | 11.00% | ~10,373 |
-| The Machinist Mask | 10.00% | ~9,430 |
-| The Cartographer Mask | 10.00% | ~9,430 |
-| Balfron Connection | 10.00% | ~9,430 |
-| Ceiling Of Stars | 10.00% | ~9,430 |
-| Playing Dress Up | 10.00% | ~9,430 |
-| Many Different Faces | 9.00% | ~8,487 |
-| Trellick's Pillar | 9.00% | ~8,487 |
-| Centre Of Brunswick | 9.00% | ~8,487 |
-| Bike Collector | 9.00% | ~8,487 |
-| Not That Kind Of Gliding | 9.00% | ~8,487 |
-| The Scrapper Mask | 8.00% | ~7,544 |
-| Shadow Of Neave | 8.00% | ~7,544 |
-| Fragile Goods | 8.00% | ~7,544 |
-| Glider on the Storm | 8.00% | ~7,544 |
-| Squeeze One Out | 8.00% | ~7,544 |
-| Dune Rider | 8.00% | ~7,544 |
-| Amateur Historian | 7.00% | ~6,601 |
-| The Beetle Mask | 7.00% | ~6,601 |
-| The Guard Mask | 7.00% | ~6,601 |
-| Smoked Out | 7.00% | ~6,601 |
-| A Hard Place | 7.00% | ~6,601 |
-| The Climber Mask | 6.00% | ~5,658 |
-| The Merchant Mask | 6.00% | ~5,658 |
-| Honorary Chum | 6.00% | ~5,658 |
-| Bikes Don't Fly | 6.00% | ~5,658 |
+| Badge Collector | 12.00% | ~11,317 |
+| Quite The Catch | 12.00% | ~11,317 |
+| Rowleys Way | 11.00% | ~10,374 |
+| The Machinist Mask | 10.00% | ~9,431 |
+| The Cartographer Mask | 10.00% | ~9,431 |
+| Balfron Connection | 10.00% | ~9,431 |
+| Ceiling Of Stars | 10.00% | ~9,431 |
+| Playing Dress Up | 10.00% | ~9,431 |
+| Many Different Faces | 9.00% | ~8,488 |
+| Trellick's Pillar | 9.00% | ~8,488 |
+| Centre Of Brunswick | 9.00% | ~8,488 |
+| Bike Collector | 9.00% | ~8,488 |
+| Not That Kind Of Gliding | 9.00% | ~8,488 |
+| The Scrapper Mask | 8.00% | ~7,545 |
+| Shadow Of Neave | 8.00% | ~7,545 |
+| Fragile Goods | 8.00% | ~7,545 |
+| Glider on the Storm | 8.00% | ~7,545 |
+| Squeeze One Out | 8.00% | ~7,545 |
+| Dune Rider | 8.00% | ~7,545 |
+| Amateur Historian | 7.00% | ~6,602 |
+| The Beetle Mask | 7.00% | ~6,602 |
+| The Guard Mask | 7.00% | ~6,602 |
+| Smoked Out | 7.00% | ~6,602 |
+| A Hard Place | 7.00% | ~6,602 |
+| The Climber Mask | 6.00% | ~5,659 |
+| The Merchant Mask | 6.00% | ~5,659 |
+| Honorary Chum | 6.00% | ~5,659 |
+| Bikes Don't Fly | 6.00% | ~5,659 |
 | The Gliding | 5.00% | ~4,715 |
 | The Entertainer Mask | 5.00% | ~4,715 |
 | The Quick and the Curious | 4.00% | ~3,772 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~2,829 |
 | Vivacious Vivarium | 2.00% | ~1,886 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 94,304 (Ranked 81)  
+Progressed: 94,309 (Ranked 81)  
 Completed: 950 (1.01%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 950 (1.01%) (Ranked 146)
 | 2023-10-12 | 93,785 | 943 |
 | 2023-10-13 | 93,920 | 944 |
 | 2023-10-14 | 94,125 | 946 |
-| 2023-10-15 | 94,304 | 950 |
+| 2023-10-15 | 94,309 | 950 |
 ## Awards
 Max (Quickly Understood Controls): 24  (Ranked 508)  
 Sum: 88 (Ranked 438)  

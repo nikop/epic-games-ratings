@@ -311,9 +311,9 @@
       "ID": "BUY_FUSION_BOMB_LEVEL_1",
       "SetID": "14g34pl",
       "Name": "Kaboom!",
-      "Percentage": 47,
+      "Percentage": 49,
       "XP": 60,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "BUY_LASER_BEAM_LEVEL_1",
@@ -454,8 +454,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-10-15T20:05:48.910531+00:00",
+  "LastChanged_Achievements": "2023-10-15T21:05:35.9067676+00:00",
   "LastUpdate_AppInfo": "2023-10-10T17:57:11.5504269+00:00",
-  "LastUpdate_Ratings": "2023-10-15T19:59:17.8238471+00:00",
-  "LastUpdate_Achievements": "2023-10-15T20:05:48.9105464+00:00"
+  "LastUpdate_Ratings": "2023-10-15T20:59:15.0205698+00:00",
+  "LastUpdate_Achievements": "2023-10-15T21:05:35.9067837+00:00"
 }

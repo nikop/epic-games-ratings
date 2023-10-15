@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -6520,7 +6520,7 @@
       "Count": 3759
     }
   ],
-  "EOS_Progressed": 137666,
+  "EOS_Progressed": 137667,
   "EOS_Completed": 168,
   "EOS_NewPlayers": 335,
   "EOS_NewCompleters": 1,
@@ -24785,6 +24785,11 @@
       "Time": "2023-10-15T20:03:48.0992757+00:00",
       "NumProgressed": 137666,
       "NumCompleted": 168
+    },
+    {
+      "Time": "2023-10-15T21:03:46.4920849+00:00",
+      "NumProgressed": 137667,
+      "NumCompleted": 168
     }
   ],
   "TotalAchievements": 112,
@@ -25594,9 +25599,9 @@
       "ID": "sia_a",
       "SetID": "anfd17p",
       "Name": "King\u0027s Shadow",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 688
+      "UsersEstimate": 826
     },
     {
       "ID": "transmuter",
@@ -25691,15 +25696,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 137666,
+      "Progressed": 137667,
       "Completed": 168
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-15T13:00:06.5567238+00:00",
-  "LastChanged_Achievements": "2023-10-15T20:03:48.0992753+00:00",
+  "LastChanged_Achievements": "2023-10-15T21:03:46.4920843+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:10.2617104+00:00",
-  "LastUpdate_Ratings": "2023-10-15T19:57:47.4814036+00:00",
-  "LastUpdate_Achievements": "2023-10-15T20:03:48.0995015+00:00"
+  "LastUpdate_Ratings": "2023-10-15T20:57:42.5806563+00:00",
+  "LastUpdate_Achievements": "2023-10-15T21:03:46.4923759+00:00"
 }

@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2529,
+  "EOS_Progressed": 2530,
   "EOS_Completed": 228,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 9.02,
+  "EOS_Completed_Percentage": 9.01,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -6643,6 +6643,11 @@
       "Time": "2023-10-15T14:06:24.8332418+00:00",
       "NumProgressed": 2529,
       "NumCompleted": 228
+    },
+    {
+      "Time": "2023-10-15T21:05:58.8650107+00:00",
+      "NumProgressed": 2530,
+      "NumCompleted": 228
     }
   ],
   "TotalAchievements": 12,
@@ -6654,7 +6659,7 @@
       "Name": "Arranging Boxes",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "Bernard",
@@ -6662,7 +6667,7 @@
       "Name": "Bernard",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "Building the Fox",
@@ -6742,14 +6747,14 @@
       "Name": "Nuremberg Laws",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     }
   ],
   "AchievementSets": [
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2529,
+      "Progressed": 2530,
       "Completed": 228
     }
   ],
@@ -6757,8 +6762,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-10-15T20:06:11.367395+00:00",
+  "LastChanged_Achievements": "2023-10-15T21:05:58.86501+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:02.4862405+00:00",
-  "LastUpdate_Ratings": "2023-10-15T19:57:29.0622652+00:00",
-  "LastUpdate_Achievements": "2023-10-15T20:06:11.3674349+00:00"
+  "LastUpdate_Ratings": "2023-10-15T20:57:23.2702503+00:00",
+  "LastUpdate_Achievements": "2023-10-15T21:05:58.8650615+00:00"
 }

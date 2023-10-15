@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~152 |
 | Intensify | 0.10% | ~152 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 152,462 (Ranked 71)  
+Progressed: 152,474 (Ranked 71)  
 Completed: 1 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,11 +208,11 @@ Completed: 1 (0.00%) (Ranked 314)
 | 2023-10-12 | 151,679 | 1 |
 | 2023-10-13 | 151,932 | 1 |
 | 2023-10-14 | 152,214 | 1 |
-| 2023-10-15 | 152,462 | 1 |
+| 2023-10-15 | 152,474 | 1 |
 ## Awards
 Max (Highly Recommended): 44  (Ranked 435)  
-Sum: 288 (Ranked 354)  
-Diff (max vs sum): 81  
+Sum: 290 (Ranked 352)  
+Diff (max vs sum): 83  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 44 |
@@ -222,7 +222,7 @@ Diff (max vs sum): 81
 | This game is Extremely Fun | 35 |
 | This game has Amazing Storytelling | 32 |
 | This game has a Creative Community | 31 |
-| This game has Amazing Characters | 26 |
+| This game has Amazing Characters | 28 |
 | This game has Diverse Characters | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -340,4 +340,4 @@ Diff (max vs sum): 81
 | 2023-10-12 | 4.59 | - | 42 | 280 |
 | 2023-10-13 | 4.59 | - | 44 | 283 |
 | 2023-10-14 | 4.59 | - | 44 | 287 |
-| 2023-10-15 | 4.59 | - | 44 | 288 |
+| 2023-10-15 | 4.59 | - | 44 | 290 |

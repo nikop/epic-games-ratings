@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2840,
+  "EOS_Progressed": 2858,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1547,
+  "EOS_NewPlayers": 1551,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1781,6 +1781,11 @@
       "Time": "2023-10-15T20:03:49.3900538+00:00",
       "NumProgressed": 2840,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-15T21:03:47.6724513+00:00",
+      "NumProgressed": 2858,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -1817,7 +1822,7 @@
       "Name": "Liminal Hotel",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_LEVEL974",
@@ -1825,7 +1830,7 @@
       "Name": "KITTY",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_MEGLAB",
@@ -1841,7 +1846,7 @@
       "Name": "RUN",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_SECRETENDING",
@@ -1879,9 +1884,9 @@
       "ID": "ACH_WINELECTRICALSTATION",
       "SetID": "1lo1k0a",
       "Name": "Electric",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 142
+      "UsersEstimate": 114
     },
     {
       "ID": "ACH_WINLEVEL0",
@@ -1889,7 +1894,7 @@
       "Name": "Level 0",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 738
+      "UsersEstimate": 743
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -1897,7 +1902,7 @@
       "Name": "Level 1",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 341
+      "UsersEstimate": 343
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -1905,7 +1910,7 @@
       "Name": "Dreamer!",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 312
+      "UsersEstimate": 314
     },
     {
       "ID": "ACH_WINLEVEL3",
@@ -1913,7 +1918,7 @@
       "Name": "Poolrooms",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH_WINLEVEL4",
@@ -1945,7 +1950,7 @@
       "Name": "The Dark Road",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_WINLEVEL94",
@@ -1969,7 +1974,7 @@
       "Name": "FUN",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_WINLEVELLIGHTOUT",
@@ -1984,14 +1989,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 2840,
+      "Progressed": 2858,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-10-15T20:03:49.3900533+00:00",
+  "LastChanged_Achievements": "2023-10-15T21:03:47.6724505+00:00",
   "LastUpdate_AppInfo": "2023-10-09T13:09:09.4900137+00:00",
-  "LastUpdate_Ratings": "2023-10-15T19:59:20.754914+00:00",
-  "LastUpdate_Achievements": "2023-10-15T20:03:49.3900865+00:00"
+  "LastUpdate_Ratings": "2023-10-15T20:59:18.314091+00:00",
+  "LastUpdate_Achievements": "2023-10-15T21:03:47.6724797+00:00"
 }

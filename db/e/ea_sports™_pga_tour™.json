@@ -2,9 +2,9 @@
   "ID": "19d5458aa3c849a1b0fff69da4c9ed9d",
   "Name": "EA SPORTS\u2122 PGA TOUR\u2122",
   "ProductSlug": "ea-sports-pga-tour",
-  "Ranking_EOS_Progress": 293,
+  "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 110,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -17,9 +17,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 392,
+  "EOS_Progressed": 393,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.04,
   "EosHistory": [
@@ -1202,6 +1202,11 @@
       "Time": "2023-10-15T20:03:48.2567734+00:00",
       "NumProgressed": 392,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-15T21:03:46.4204651+00:00",
+      "NumProgressed": 393,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -1214,7 +1219,7 @@
       "Name": "The Ultimate Prize",
       "Percentage": 20,
       "XP": 90,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "achievement_10",
@@ -1222,7 +1227,7 @@
       "Name": "Holey Moley",
       "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "achievement_11",
@@ -1244,9 +1249,9 @@
       "ID": "achievement_13",
       "SetID": "7ldgi7j",
       "Name": "Competitor\u0027s Spirit",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 161
     },
     {
       "ID": "achievement_14",
@@ -1268,9 +1273,9 @@
       "ID": "achievement_16",
       "SetID": "7ldgi7j",
       "Name": "Star Power",
-      "Percentage": 86,
+      "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 337
+      "UsersEstimate": 334
     },
     {
       "ID": "achievement_17",
@@ -1334,7 +1339,7 @@
       "Name": "Makin\u0027 the Cut",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "achievement_8",
@@ -1342,7 +1347,7 @@
       "Name": "Winner\u0027s Circle",
       "Percentage": 61,
       "XP": 35,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "achievement_9",
@@ -1350,20 +1355,20 @@
       "Name": "Ace in the Hole",
       "Percentage": 33,
       "XP": 90,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     }
   ],
   "AchievementSets": [
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 392,
+      "Progressed": 393,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-10-15T20:03:48.2567729+00:00",
+  "LastChanged_Achievements": "2023-10-15T21:03:46.4204643+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:08.0015832+00:00",
-  "LastUpdate_Ratings": "2023-10-15T19:59:12.0109109+00:00",
-  "LastUpdate_Achievements": "2023-10-15T20:03:48.2568111+00:00"
+  "LastUpdate_Ratings": "2023-10-15T20:59:09.6964615+00:00",
+  "LastUpdate_Achievements": "2023-10-15T21:03:46.4204855+00:00"
 }

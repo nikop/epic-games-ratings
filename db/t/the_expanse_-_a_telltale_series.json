@@ -6,9 +6,9 @@
   "Ranking_Popularity": 537,
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 137,
-  "Ranking_EOS_Completed": 230,
+  "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -166,11 +166,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14012,
-  "EOS_Completed": 23,
-  "EOS_NewPlayers": 250,
-  "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 0.16,
+  "EOS_Progressed": 14016,
+  "EOS_Completed": 24,
+  "EOS_NewPlayers": 248,
+  "EOS_NewCompleters": 6,
+  "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
     {
       "Time": "2023-07-26T16:06:14.482825+00:00",
@@ -8741,6 +8741,11 @@
       "Time": "2023-10-15T20:05:52.4611024+00:00",
       "NumProgressed": 14012,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-10-15T21:05:39.759892+00:00",
+      "NumProgressed": 14016,
+      "NumCompleted": 24
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -8769,7 +8774,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "12",
@@ -8839,9 +8844,9 @@
       "ID": "2",
       "SetID": "458bbdk",
       "Name": "Data Logger",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 112
+      "UsersEstimate": 126
     },
     {
       "ID": "20",
@@ -8857,7 +8862,7 @@
       "Name": "Drone Dodger",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "22",
@@ -8897,7 +8902,7 @@
       "Name": "Call it Even",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "27",
@@ -8985,23 +8990,23 @@
       "Name": "Impossible Objects",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14012,
-      "Completed": 23
+      "Progressed": 14016,
+      "Completed": 24
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-13T09:00:57.1370573+00:00",
-  "LastChanged_Achievements": "2023-10-15T20:05:52.4611019+00:00",
+  "LastChanged_Achievements": "2023-10-15T21:05:39.7598913+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:40.5814563+00:00",
-  "LastUpdate_Ratings": "2023-10-15T20:00:46.061666+00:00",
-  "LastUpdate_Achievements": "2023-10-15T20:05:52.4611707+00:00"
+  "LastUpdate_Ratings": "2023-10-15T21:00:44.2157262+00:00",
+  "LastUpdate_Achievements": "2023-10-15T21:05:39.759965+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -206,7 +206,7 @@
   "Tags": [],
   "EOS_Progressed": 5412,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -6623,9 +6623,9 @@
       "ID": "ACH_SURVIVE_40_DAYS",
       "SetID": "5nj1ea3",
       "Name": "Last man standing",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 4275
+      "UsersEstimate": 4330
     },
     {
       "ID": "ACH_SURVIVE_5_DAYS",
@@ -6672,8 +6672,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-10-07T15:59:26.0001833+00:00",
-  "LastChanged_Achievements": "2023-10-15T20:05:59.1685543+00:00",
+  "LastChanged_Achievements": "2023-10-15T21:05:46.4840039+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:13.9945802+00:00",
-  "LastUpdate_Ratings": "2023-10-15T19:59:20.8738422+00:00",
-  "LastUpdate_Achievements": "2023-10-15T20:05:59.168643+00:00"
+  "LastUpdate_Ratings": "2023-10-15T20:59:18.4295064+00:00",
+  "LastUpdate_Achievements": "2023-10-15T21:05:46.4840865+00:00"
 }

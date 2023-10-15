@@ -21,9 +21,9 @@ Number of Ratings: 5,603  (23.09.2022)
 | This Is Our Land | 12.00% | ~7,603 |
 | Duelist | 10.00% | ~6,336 |
 | Dynasty | 10.00% | ~6,336 |
+| I spit on your grave | 10.00% | ~6,336 |
 | Swordbearer | 10.00% | ~6,336 |
 | What have the Romans ever done for us? | 10.00% | ~6,336 |
-| I spit on your grave | 9.00% | ~5,702 |
 | Butterlord | 8.00% | ~5,068 |
 | Know your enemy | 7.00% | ~4,435 |
 | Mastery | 7.00% | ~4,435 |

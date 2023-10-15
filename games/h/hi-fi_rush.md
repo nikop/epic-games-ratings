@@ -9,14 +9,14 @@ Rating: 4.85 (Ranked 42)
 | Feeling the beat! | 15.00% | ~622 |
 | You can pet the cat! | 14.00% | ~580 |
 | Who put gears in there? | 13.00% | ~539 |
-| Cream of the Crop | 12.00% | ~497 |
-| Thanks for the free chip, Peppermint! | 12.00% | ~497 |
-| You got this, Peppermint? | 12.00% | ~497 |
+| Cream of the Crop | 12.00% | ~498 |
+| Thanks for the free chip, Peppermint! | 12.00% | ~498 |
+| You got this, Peppermint? | 12.00% | ~498 |
 | Perfect Parry | 11.00% | ~456 |
 | Alright, that felt AWESOME! | 11.00% | ~456 |
-| This will cost you big time | 10.00% | ~414 |
-| I play my own way! | 10.00% | ~414 |
-| Uh, they were broken when I got here | 10.00% | ~414 |
+| This will cost you big time | 10.00% | ~415 |
+| I play my own way! | 10.00% | ~415 |
+| Uh, they were broken when I got here | 10.00% | ~415 |
 | Z-shielding's got nothing on us! | 9.00% | ~373 |
 | Kissing the sky! | 9.00% | ~373 |
 | The Negotiator | 8.00% | ~332 |
@@ -47,7 +47,7 @@ Rating: 4.85 (Ranked 42)
 | This is a breeze! | 1.00% | ~41 |
 | I'm not done with you yet | 1.00% | ~41 |
 | First we parry, then we counter | 1.00% | ~41 |
-| You ever parry a volcano? | 0.90% | ~37 |
+| You ever parry a volcano? | 1.00% | ~41 |
 | New bad guys? No problem! | 0.90% | ~24 |
 | OK, well THEY came after ME! | 0.70% | ~29 |
 | Choose your own adventure | 0.60% | ~16 |
@@ -77,7 +77,7 @@ Rating: 4.85 (Ranked 42)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,145 (Ranked 178)  
+Progressed: 4,146 (Ranked 178)  
 Completed: 8 (0.19%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,7 +251,7 @@ Completed: 8 (0.19%) (Ranked 225)
 | 2023-10-12 | 4,140 | 8 |
 | 2023-10-13 | 4,143 | 8 |
 | 2023-10-14 | 4,144 | 8 |
-| 2023-10-15 | 4,145 | 8 |
+| 2023-10-15 | 4,146 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

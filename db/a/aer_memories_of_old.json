@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 111,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -410,7 +410,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22192,
+  "EOS_Progressed": 22194,
   "EOS_Completed": 437,
   "EOS_NewPlayers": 465,
   "EOS_NewCompleters": 5,
@@ -19575,6 +19575,11 @@
       "Time": "2023-10-15T20:03:39.8640221+00:00",
       "NumProgressed": 22192,
       "NumCompleted": 437
+    },
+    {
+      "Time": "2023-10-15T21:03:38.1757406+00:00",
+      "NumProgressed": 22194,
+      "NumCompleted": 437
     }
   ],
   "TotalAchievements": 20,
@@ -19634,7 +19639,7 @@
       "Name": "An uninvited guest",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1775
+      "UsersEstimate": 1776
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -19706,7 +19711,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 17088
+      "UsersEstimate": 17089
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -19728,9 +19733,9 @@
       "ID": "TALK_TO_SPIRIT_ANIMALS",
       "SetID": "b6m2mm5",
       "Name": "Talk to all the spirit animals",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1332
+      "UsersEstimate": 1554
     },
     {
       "ID": "WEST_FINISHED",
@@ -19745,15 +19750,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 22192,
+      "Progressed": 22194,
       "Completed": 437
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-15T20:03:39.8640215+00:00",
+  "LastChanged_Achievements": "2023-10-15T21:03:38.1757398+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:17.0806119+00:00",
-  "LastUpdate_Ratings": "2023-10-15T19:57:58.6990029+00:00",
-  "LastUpdate_Achievements": "2023-10-15T20:03:39.8641451+00:00"
+  "LastUpdate_Ratings": "2023-10-15T20:57:54.7842834+00:00",
+  "LastUpdate_Achievements": "2023-10-15T21:03:38.1758797+00:00"
 }

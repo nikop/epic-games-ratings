@@ -6,10 +6,10 @@ Rating: 4.76 (Ranked 118)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 15.00% | ~44,763 |
-| First Class Student | 13.00% | ~38,794 |
-| Troll with the Punches | 13.00% | ~38,794 |
-| A Keen Sense of Spell | 12.00% | ~35,810 |
-| That's a Keeper | 12.00% | ~35,810 |
+| First Class Student | 13.00% | ~38,795 |
+| Troll with the Punches | 13.00% | ~38,795 |
+| A Keen Sense of Spell | 12.00% | ~35,811 |
+| That's a Keeper | 12.00% | ~35,811 |
 | The One Who Mastered Memories | 11.00% | ~32,826 |
 | The Hallowed Hero | 11.00% | ~32,826 |
 | The Defender of Dragons | 11.00% | ~32,826 |
@@ -22,10 +22,10 @@ Rating: 4.76 (Ranked 118)
 | Followed the Butterflies | 9.00% | ~26,858 |
 | The Spell Master | 9.00% | ~26,858 |
 | Rising From the Ashes | 9.00% | ~26,858 |
-| The Avenging Gazelle | 8.00% | ~23,873 |
-| Beast Friends | 8.00% | ~23,873 |
-| A Sallow Grave | 8.00% | ~23,873 |
-| Flight the Good Flight | 8.00% | ~23,873 |
+| The Avenging Gazelle | 8.00% | ~23,874 |
+| Beast Friends | 8.00% | ~23,874 |
+| A Sallow Grave | 8.00% | ~23,874 |
+| Flight the Good Flight | 8.00% | ~23,874 |
 | The Seeker of Knowledge | 6.00% | ~17,905 |
 | The Root of the Problem | 6.00% | ~17,905 |
 | Third Time's a Charm | 6.00% | ~17,905 |
@@ -51,8 +51,8 @@ Rating: 4.76 (Ranked 118)
 | The Nature of the Beast | 0.70% | ~2,089 |
 | Collector's Edition | 0.30% | ~895 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,417 (Ranked 47)  
-Completed: 487 (0.16%) (Ranked 230)  
+Progressed: 298,421 (Ranked 47)  
+Completed: 488 (0.16%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -229,16 +229,16 @@ Completed: 487 (0.16%) (Ranked 230)
 | 2023-10-12 | 298,217 | 485 |
 | 2023-10-13 | 298,257 | 485 |
 | 2023-10-14 | 298,337 | 487 |
-| 2023-10-15 | 298,417 | 487 |
+| 2023-10-15 | 298,421 | 488 |
 ## Awards
 Max (Character Customization): 23,517  (Ranked 17)  
-Sum: 45,894 (Ranked 30)  
+Sum: 45,898 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 23,517 |
 | This game has Great Boss Battles | 11,769 |
-| This game is Great for Beginners | 1,181 |
+| This game is Great for Beginners | 1,185 |
 | This game has Amazing Storytelling | 1,156 |
 | This game has Diverse Characters | 1,144 |
 | This game is Extremely Fun | 1,134 |
@@ -456,4 +456,4 @@ Diff (max vs sum): -13
 | 2023-10-12 | 4.76 | 23,469 | 45,698 |
 | 2023-10-13 | 4.76 | 23,491 | 45,772 |
 | 2023-10-14 | 4.76 | 23,517 | 45,868 |
-| 2023-10-15 | 4.76 | 23,517 | 45,894 |
+| 2023-10-15 | 4.76 | 23,517 | 45,898 |

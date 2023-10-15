@@ -86,6 +86,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Glittering Collection | 0.60% | ~826 |
 | Treasure Trove | 0.60% | ~826 |
 | Moment of Respite | 0.60% | ~826 |
+| King's Shadow | 0.60% | ~826 |
 | Master Recycler | 0.60% | ~826 |
 | Exotic Commodities | 0.60% | ~826 |
 | King's Blade | 0.60% | ~826 |
@@ -98,7 +99,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ritualist | 0.50% | ~688 |
 | A Legend is Born | 0.50% | ~688 |
 | Bountiful Harvest | 0.50% | ~688 |
-| King's Shadow | 0.50% | ~688 |
 | Economy of Scarce | 0.50% | ~688 |
 | The Free Encyclopedia | 0.40% | ~551 |
 | Thank You Tom Nook | 0.40% | ~551 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,666 (Ranked 73)  
+Progressed: 137,667 (Ranked 73)  
 Completed: 168 (0.12%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,7 +297,7 @@ Completed: 168 (0.12%) (Ranked 241)
 | 2023-10-12 | 137,496 | 168 |
 | 2023-10-13 | 137,555 | 168 |
 | 2023-10-14 | 137,618 | 168 |
-| 2023-10-15 | 137,666 | 168 |
+| 2023-10-15 | 137,667 | 168 |
 ## Awards
 Max (Great for Beginners): 4,787  (Ranked 72)  
 Sum: 27,383 (Ranked 50)  

@@ -2332,10 +2332,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2389,
       "NumberOfAwardsMax": 262
+    },
+    {
+      "Time": "2023-10-15T20:58:48.6284538+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2392,
+      "NumberOfAwardsMax": 262
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2389,
+  "NumberOfAwards": 2392,
   "NumberOfAwardsMax": 262,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2373,7 +2379,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 221
+      "Count": 222
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2397,7 +2403,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 234
+      "Count": 236
     },
     {
       "Text": "This game has Competitive Players",
@@ -2412,9 +2418,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26496,
+  "EOS_Progressed": 26497,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 204,
+  "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -15052,6 +15058,11 @@
       "Time": "2023-10-15T20:06:09.2766028+00:00",
       "NumProgressed": 26496,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-10-15T21:05:56.6330493+00:00",
+      "NumProgressed": 26497,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 51,
@@ -15117,9 +15128,9 @@
       "ID": "Collector",
       "SetID": "819popo",
       "Name": "Collector",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 132
     },
     {
       "ID": "Cultured",
@@ -15229,9 +15240,9 @@
       "ID": "Legions",
       "SetID": "819popo",
       "Name": "Legions",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 159
+      "UsersEstimate": 185
     },
     {
       "ID": "Liability",
@@ -15470,16 +15481,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26496,
+      "Progressed": 26497,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-10-14T22:59:06.5892297+00:00",
-  "LastChanged_Achievements": "2023-10-15T20:06:09.2766023+00:00",
+  "LastChanged": "2023-10-15T20:58:48.6284536+00:00",
+  "LastChanged_Achievements": "2023-10-15T21:05:56.6330487+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:17.9420656+00:00",
-  "LastUpdate_Ratings": "2023-10-15T19:58:52.2748768+00:00",
-  "LastUpdate_Achievements": "2023-10-15T20:06:09.2767087+00:00"
+  "LastUpdate_Ratings": "2023-10-15T20:58:48.6284544+00:00",
+  "LastUpdate_Achievements": "2023-10-15T21:05:56.63317+00:00"
 }

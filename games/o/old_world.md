@@ -14,6 +14,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intrepid | 2.00% | ~295 |
 | Learned | 2.00% | ~295 |
 | Mason | 2.00% | ~295 |
+| Noble | 2.00% | ~295 |
 | Pioneer | 2.00% | ~295 |
 | Settler | 2.00% | ~295 |
 | Strong | 2.00% | ~295 |
@@ -29,7 +30,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just | 1.00% | ~147 |
 | Keystone | 1.00% | ~147 |
 | Magnificent | 1.00% | ~147 |
-| Noble | 1.00% | ~147 |
 | Warrior | 1.00% | ~147 |
 | Wise | 1.00% | ~147 |
 | Developing Cities | 1.00% | ~147 |
@@ -80,7 +80,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Victorious | 0.60% | ~88 |
 | Good Difficulty | 0.60% | ~88 |
 | Patrons | 0.60% | ~88 |
-| Circus Maximus | 0.60% | ~88 |
 | Learn to Play 3 | 0.60% | ~88 |
 | Greece | 0.60% | ~88 |
 | Power to the People | 0.60% | ~88 |
@@ -92,6 +91,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Landowners | 0.50% | ~74 |
 | Riders | 0.50% | ~74 |
 | Hittite Iron | 0.50% | ~74 |
+| Circus Maximus | 0.50% | ~74 |
 | Hagia Sophia | 0.50% | ~74 |
 | Temple of Solomon | 0.50% | ~74 |
 | Pantheon | 0.50% | ~74 |
@@ -100,6 +100,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Economic Reform | 0.50% | ~74 |
 | Legalism | 0.50% | ~74 |
 | Redemption | 0.50% | ~74 |
+| Revelation | 0.50% | ~74 |
 | Cimmerian Archer | 0.50% | ~74 |
 | Legionary | 0.50% | ~74 |
 | Phalangite | 0.50% | ~74 |
@@ -119,7 +120,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Military Prestige | 0.40% | ~59 |
 | Dualism | 0.40% | ~59 |
 | Gnosticism | 0.40% | ~59 |
-| Revelation | 0.40% | ~59 |
 | Veneration | 0.40% | ~59 |
 | Mounted Lancer | 0.40% | ~59 |
 | Ambition Victory | 0.40% | ~59 |
@@ -174,6 +174,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Battle of Opis | 0.10% | ~15 |
 | Before the Mongol Horde | 0.10% | ~15 |
 | Blade of the Monkey | 0.10% | ~15 |
+| Hagia Sophia in Byzantion | 0.10% | ~15 |
 | Bronze Victory (Carthage 1) | 0.10% | ~15 |
 | Epic Victory (Carthage 1) | 0.10% | ~15 |
 | Gold Victory (Carthage 1) | 0.10% | ~15 |
@@ -324,7 +325,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Hekau Khasut Slaves | 0.10% | ~15 |
 | Alexander the Great | 0.00% | ~0 |
 | The Great Raging Horde | 0.00% | ~0 |
-| Hagia Sophia in Byzantion | 0.00% | ~0 |
 | Epic Victory (Carthage 4) | 0.00% | ~0 |
 | Gold Victory (Carthage 4) | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,727 (Ranked 135)  
+Progressed: 14,728 (Ranked 135)  
 Completed: 5 (0.03%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -527,7 +527,7 @@ Completed: 5 (0.03%) (Ranked 283)
 | 2023-10-12 | 14,624 | 5 |
 | 2023-10-13 | 14,652 | 5 |
 | 2023-10-14 | 14,699 | 5 |
-| 2023-10-15 | 14,727 | 5 |
+| 2023-10-15 | 14,728 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,840 (Ranked 210)  
