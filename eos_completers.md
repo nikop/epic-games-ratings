@@ -2,7 +2,7 @@
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 1 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 100.00% |
-| 3 | [The Riflemen](games/t/the_riflemen.md) | 49.67% |
+| 3 | [The Riflemen](games/t/the_riflemen.md) | 49.65% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.15% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.99% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
@@ -75,12 +75,12 @@
 | 73 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.82% |
 | 74 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
 | 75 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.62% |
-| 76 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.60% |
+| 76 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.59% |
 | 77 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
 | 77 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.57% |
 | 79 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 80 | [The Bunker](games/t/the_bunker.md) | 3.39% |
-| 81 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.37% |
+| 81 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.36% |
 | 82 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
 | 83 | [The Complex](games/t/the_complex.md) | 3.33% |
 | 84 | [Doodle God](games/d/doodle_god.md) | 3.27% |
@@ -112,8 +112,8 @@
 | 110 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.05% |
 | 111 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.97% |
 | 112 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.96% |
-| 113 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.85% |
-| 114 | [Night Book](games/n/night_book.md) | 1.84% |
+| 113 | [Night Book](games/n/night_book.md) | 1.84% |
+| 113 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 115 | [Sifu](games/s/sifu.md) | 1.81% |
 | 116 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.80% |
 | 116 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.80% |
@@ -139,8 +139,8 @@
 | 137 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.15% |
 | 138 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 1.14% |
 | 139 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.13% |
-| 140 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.09% |
 | 140 | [Trifox](games/t/trifox.md) | 1.09% |
+| 141 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.08% |
 | 142 | [Adios](games/a/adios.md) | 1.05% |
 | 142 | [Infindustry](games/i/infindustry.md) | 1.05% |
 | 142 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.05% |
