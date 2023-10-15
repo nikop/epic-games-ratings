@@ -2,7 +2,7 @@
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 1 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 100.00% |
-| 3 | [The Riflemen](games/t/the_riflemen.md) | 49.61% |
+| 3 | [The Riflemen](games/t/the_riflemen.md) | 49.58% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.15% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.99% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
@@ -125,12 +125,12 @@
 | 123 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
 | 124 | [Iron Danger](games/i/iron_danger.md) | 1.44% |
 | 125 | [Late Shift](games/l/late_shift.md) | 1.40% |
-| 126 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.39% |
-| 127 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.38% |
-| 127 | [Poosh XL](games/p/poosh_xl.md) | 1.38% |
-| 127 | [Ten Dates](games/t/ten_dates.md) | 1.38% |
-| 130 | [Chorus](games/c/chorus.md) | 1.37% |
-| 130 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.37% |
+| 126 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.38% |
+| 126 | [Poosh XL](games/p/poosh_xl.md) | 1.38% |
+| 126 | [Ten Dates](games/t/ten_dates.md) | 1.38% |
+| 129 | [Chorus](games/c/chorus.md) | 1.37% |
+| 129 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.37% |
+| 129 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.37% |
 | 132 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.32% |
 | 132 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.32% |
 | 134 | [Lemon Cake](games/l/lemon_cake.md) | 1.31% |
@@ -185,9 +185,9 @@
 | 178 | [Them and Us](games/t/them_and_us.md) | 0.46% |
 | 184 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.45% |
 | 185 | [Tchia](games/t/tchia.md) | 0.44% |
-| 186 | [It Takes Two](games/i/it_takes_two.md) | 0.43% |
-| 187 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.42% |
-| 187 | [Wildermyth](games/w/wildermyth.md) | 0.42% |
+| 186 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.42% |
+| 186 | [It Takes Two](games/i/it_takes_two.md) | 0.42% |
+| 186 | [Wildermyth](games/w/wildermyth.md) | 0.42% |
 | 189 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 190 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.39% |
 | 190 | [Train Valley](games/t/train_valley.md) | 0.39% |
