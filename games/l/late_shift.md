@@ -11,7 +11,7 @@
 | The Delivery | 46.00% | ~230 |
 | Shill Bidder | 44.00% | ~220 |
 | The Frenzy | 34.00% | ~170 |
-| Good Karma | 31.00% | ~155 |
+| Good Karma | 32.00% | ~160 |
 | Office Clerk | 31.00% | ~155 |
 | Protector | 29.00% | ~145 |
 | The Bribe | 28.00% | ~140 |
@@ -19,9 +19,9 @@
 | Interrogation | 16.00% | ~80 |
 | Sabotage | 13.00% | ~65 |
 | Choices Matter | 8.00% | ~40 |
+| The Lion's Den | 6.00% | ~30 |
 | The Fool | 6.00% | ~30 |
-| The Lion's Den | 5.00% | ~25 |
-| Proficient Storyteller | 4.00% | ~20 |
+| Proficient Storyteller | 5.00% | ~25 |
 | The Coward | 3.00% | ~15 |
 | Expert Storyteller | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)

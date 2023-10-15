@@ -814,7 +814,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 6057,
+  "EOS_Progressed": 6058,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
@@ -8519,6 +8519,11 @@
       "Time": "2023-10-15T16:03:52.3496562+00:00",
       "NumProgressed": 6057,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-15T18:03:45.8936301+00:00",
+      "NumProgressed": 6058,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -8530,7 +8535,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 4785
+      "UsersEstimate": 4786
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -8546,7 +8551,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 4179
+      "UsersEstimate": 4180
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -8570,7 +8575,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 3634
+      "UsersEstimate": 3635
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -8594,7 +8599,7 @@
       "Name": "Things that go Splash in the Night",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1938
+      "UsersEstimate": 1939
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -8690,7 +8695,7 @@
       "Name": "I\u0027m Hooked!",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 1211
+      "UsersEstimate": 1212
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -8698,7 +8703,7 @@
       "Name": "Diamond in the Rough",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "ACHIEVEMENT_023",
@@ -8809,13 +8814,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6057,
+      "Progressed": 6058,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5429,
+      "Progressed": 5430,
       "Completed": 112
     }
   ],
@@ -8823,8 +8828,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-10-13T02:58:59.777665+00:00",
-  "LastChanged_Achievements": "2023-10-15T17:03:45.5600301+00:00",
+  "LastChanged_Achievements": "2023-10-15T18:03:45.8936296+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:14.7785025+00:00",
-  "LastUpdate_Ratings": "2023-10-15T16:59:13.0124299+00:00",
-  "LastUpdate_Achievements": "2023-10-15T17:03:45.5601291+00:00"
+  "LastUpdate_Ratings": "2023-10-15T17:59:10.8359277+00:00",
+  "LastUpdate_Achievements": "2023-10-15T18:03:45.893713+00:00"
 }

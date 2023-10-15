@@ -4,7 +4,7 @@
   "ProductSlug": "zero-conflict-td-3e5c49",
   "Ranking_EOS_Progress": 670,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-10-09T11:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-10T20:57:17.2683496+00:00",
-  "LastUpdate_Ratings": "2023-10-15T16:58:03.8448914+00:00",
-  "LastUpdate_Achievements": "2023-10-15T17:03:41.5542376+00:00"
+  "LastUpdate_Ratings": "2023-10-15T17:58:03.0842373+00:00",
+  "LastUpdate_Achievements": "2023-10-15T18:03:41.6533109+00:00"
 }

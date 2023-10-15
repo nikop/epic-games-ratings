@@ -5,13 +5,13 @@ Rating: 4.17 (Ranked 905)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 30.00% | ~18,976 |
-| As Far Away As Possible | 16.00% | ~10,120 |
-| A Most Unstable Organism | 12.00% | ~7,590 |
-| No Time to Follow Protocol | 10.00% | ~6,325 |
-| Float Like a Butterfly... | 8.00% | ~5,060 |
-| Nano Connoisseur | 6.00% | ~3,795 |
-| In Two Places At Once | 6.00% | ~3,795 |
+| Your Lucky Day | 30.00% | ~18,980 |
+| As Far Away As Possible | 16.00% | ~10,123 |
+| A Most Unstable Organism | 12.00% | ~7,592 |
+| No Time to Follow Protocol | 10.00% | ~6,327 |
+| Float Like a Butterfly... | 8.00% | ~5,061 |
+| Nano Connoisseur | 6.00% | ~3,796 |
+| In Two Places At Once | 6.00% | ~3,796 |
 | Pulling Your Weight | 3.00% | ~1,898 |
 | Reaping Rivals | 3.00% | ~1,898 |
 | fifteenth Time's the Charm | 1.00% | ~633 |
@@ -22,7 +22,7 @@ Rating: 4.17 (Ranked 905)
 | Runs for Your Money | 0.20% | ~127 |
 | Past Master | 0.20% | ~127 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,253 (Ranked 98)  
+Progressed: 63,267 (Ranked 98)  
 Completed: 17 (0.03%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,14 +71,14 @@ Completed: 17 (0.03%) (Ranked 283)
 | 2023-10-12 | 62,755 | 15 |
 | 2023-10-13 | 62,918 | 16 |
 | 2023-10-14 | 63,129 | 17 |
-| 2023-10-15 | 63,253 | 17 |
+| 2023-10-15 | 63,267 | 17 |
 ## Awards
-Max (Great for Beginners): 67  (Ranked 395)  
-Sum: 264 (Ranked 365)  
-Diff (max vs sum): 30  
+Max (Great for Beginners): 69  (Ranked 391)  
+Sum: 266 (Ranked 364)  
+Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 67 |
+| This game is Great for Beginners | 69 |
 | This game has Diverse Characters | 45 |
 | This game is Highly Recommended | 38 |
 | This game has a Competitive Community | 32 |
@@ -125,4 +125,4 @@ Diff (max vs sum): 30
 | 2023-10-12 | 4.16 | 63 | 217 |
 | 2023-10-13 | 4.16 | 66 | 261 |
 | 2023-10-14 | 4.16 | 67 | 262 |
-| 2023-10-15 | 4.17 | 67 | 264 |
+| 2023-10-15 | 4.17 | 69 | 266 |

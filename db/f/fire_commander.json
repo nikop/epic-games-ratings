@@ -4,7 +4,7 @@
   "ProductSlug": "fire-commander-df24ad",
   "Ranking_EOS_Progress": 670,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-11-15T18:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:58:30.1330184+00:00",
   "LastChanged": "2023-03-31T05:58:30.1330185+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:13.8126822+00:00",
-  "LastUpdate_Ratings": "2023-10-15T16:57:38.3050127+00:00",
-  "LastUpdate_Achievements": "2023-10-15T17:08:37.543133+00:00"
+  "LastUpdate_Ratings": "2023-10-15T17:57:37.2741559+00:00",
+  "LastUpdate_Achievements": "2023-10-15T18:08:29.9836104+00:00"
 }

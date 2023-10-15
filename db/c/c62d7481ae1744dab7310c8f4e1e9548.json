@@ -4,7 +4,7 @@
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 394,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewPlayers": 278,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -540,17 +540,17 @@
       "ID": "Dusici",
       "SetID": "ag48e8e",
       "Name": "Young Spirits",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Fletny",
       "SetID": "ag48e8e",
       "Name": "Four Flutes",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Houby",
@@ -660,9 +660,9 @@
       "ID": "Prstenec",
       "SetID": "ag48e8e",
       "Name": "Cosmic Ring",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Rybka",
@@ -676,9 +676,9 @@
       "ID": "Sova",
       "SetID": "ag48e8e",
       "Name": "Owl",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SpiciPapouch",
@@ -763,8 +763,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-10-15T17:05:16.2496843+00:00",
+  "LastChanged_Achievements": "2023-10-15T18:05:13.6068135+00:00",
   "LastUpdate_AppInfo": "2023-10-13T23:57:20.3362451+00:00",
-  "LastUpdate_Ratings": "2023-10-15T16:59:24.1220264+00:00",
-  "LastUpdate_Achievements": "2023-10-15T17:05:16.2497125+00:00"
+  "LastUpdate_Ratings": "2023-10-15T17:59:22.7278756+00:00",
+  "LastUpdate_Achievements": "2023-10-15T18:05:13.6068405+00:00"
 }

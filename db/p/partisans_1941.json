@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1492,
+  "EOS_Progressed": 1493,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3065,6 +3065,11 @@
       "Time": "2023-10-15T12:08:49.8306106+00:00",
       "NumProgressed": 1492,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-15T18:07:06.2227935+00:00",
+      "NumProgressed": 1493,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -3124,7 +3129,7 @@
       "Name": "Death to the Oppressor!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "Defense_Common",
@@ -3212,7 +3217,7 @@
       "Name": "Payback Time",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "How",
@@ -3268,7 +3273,7 @@
       "Name": "Mosquito bite",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "Scout",
@@ -3315,15 +3320,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1492,
+      "Progressed": 1493,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-10-15T17:06:51.3750346+00:00",
+  "LastChanged_Achievements": "2023-10-15T18:07:06.2227928+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:40.4893349+00:00",
-  "LastUpdate_Ratings": "2023-10-15T16:58:18.3244255+00:00",
-  "LastUpdate_Achievements": "2023-10-15T17:06:51.3750825+00:00"
+  "LastUpdate_Ratings": "2023-10-15T17:58:15.3995331+00:00",
+  "LastUpdate_Achievements": "2023-10-15T18:07:06.2228344+00:00"
 }

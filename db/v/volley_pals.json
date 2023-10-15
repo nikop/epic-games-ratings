@@ -3,9 +3,9 @@
   "Name": "Volley Pals",
   "ProductSlug": "volley-pals-0120b4",
   "Ranking_EOS_Progress": 368,
-  "Ranking_EOS_Completed": 9,
-  "Ranking_EOS_NewPlayers": 349,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_Completed": 8,
+  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-05-19T01:00:00+00:00",
     "PcReleaseDate": "2023-05-19T01:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 124,
-  "EOS_Completed": 35,
+  "EOS_Completed": 36,
   "EOS_NewPlayers": 1,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 28.23,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 29.03,
   "EosHistory": [
     {
       "Time": "2023-05-19T19:23:39.9762126+00:00",
@@ -671,6 +671,11 @@
       "Time": "2023-10-10T22:07:28.6338396+00:00",
       "NumProgressed": 124,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-10-15T18:04:20.6364044+00:00",
+      "NumProgressed": 124,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 10,
@@ -744,17 +749,17 @@
       "ID": "LEVEL_8",
       "SetID": "1fnbp5h",
       "Name": "Arcade",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "LEVEL_9",
       "SetID": "1fnbp5h",
       "Name": "Custom Court",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     }
   ],
   "AchievementSets": [
@@ -762,13 +767,13 @@
       "ID": "1fnbp5h",
       "IsBase": true,
       "Progressed": 124,
-      "Completed": 35
+      "Completed": 36
     }
   ],
   "FirstSeen": "2023-09-02T02:13:34.6238392+00:00",
   "FirstSeenAchievements": "2023-05-02T15:59:43.451096+00:00",
-  "LastChanged_Achievements": "2023-10-15T17:04:21.953589+00:00",
+  "LastChanged_Achievements": "2023-10-15T18:04:20.6364039+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:15.8178244+00:00",
-  "LastUpdate_Ratings": "2023-10-15T17:00:36.6966976+00:00",
-  "LastUpdate_Achievements": "2023-10-15T17:04:21.9536061+00:00"
+  "LastUpdate_Ratings": "2023-10-15T18:00:43.7963044+00:00",
+  "LastUpdate_Achievements": "2023-10-15T18:04:20.6364182+00:00"
 }

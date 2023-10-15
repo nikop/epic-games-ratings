@@ -1,24 +1,24 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 510)  
+Rating: 4.54 (Ranked 511)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 4.00% | ~27,851 |
-| Welcome To Hell-A | 4.00% | ~27,851 |
-| Dr. Reed, I Presume? | 3.00% | ~20,889 |
-| Git Gutte! | 3.00% | ~20,889 |
-| Bookworm | 3.00% | ~20,889 |
-| Break A Leg | 3.00% | ~20,889 |
-| But Doctor, I am Butcho | 3.00% | ~20,889 |
-| Coup de Grâce | 3.00% | ~20,889 |
-| Hazardous Materials | 3.00% | ~20,889 |
-| Friends Like These | 3.00% | ~20,889 |
-| Apex Predator | 3.00% | ~20,889 |
-| Stacking the Deck | 3.00% | ~20,889 |
-| Personal Assistant Personally Assisted | 3.00% | ~20,889 |
-| This is My Weapon | 3.00% | ~20,889 |
+| Hotel California | 4.00% | ~27,853 |
+| Welcome To Hell-A | 4.00% | ~27,853 |
+| Dr. Reed, I Presume? | 3.00% | ~20,890 |
+| Git Gutte! | 3.00% | ~20,890 |
+| Bookworm | 3.00% | ~20,890 |
+| Break A Leg | 3.00% | ~20,890 |
+| But Doctor, I am Butcho | 3.00% | ~20,890 |
+| Coup de Grâce | 3.00% | ~20,890 |
+| Hazardous Materials | 3.00% | ~20,890 |
+| Friends Like These | 3.00% | ~20,890 |
+| Apex Predator | 3.00% | ~20,890 |
+| Stacking the Deck | 3.00% | ~20,890 |
+| Personal Assistant Personally Assisted | 3.00% | ~20,890 |
+| This is My Weapon | 3.00% | ~20,890 |
 | Making Your Mark | 2.00% | ~13,926 |
 | Anger Management | 2.00% | ~13,926 |
 | Perks of the Job | 2.00% | ~13,926 |
@@ -38,20 +38,20 @@ Rating: 4.54 (Ranked 510)
 | Go, Bobcats! | 1.00% | ~6,963 |
 | Rising Star | 1.00% | ~6,963 |
 | Smorgasbord | 0.90% | ~6,267 |
-| Internet Famous | 0.80% | ~5,570 |
+| Internet Famous | 0.80% | ~5,571 |
 | On Safari | 0.70% | ~4,874 |
 | Not Even My Final Form | 0.70% | ~4,874 |
 | Variety is the Spice of Death | 0.70% | ~4,874 |
 | Make it So | 0.60% | ~4,178 |
-| LA Influential | 0.50% | ~3,481 |
-| Gore Horse | 0.50% | ~3,481 |
-| Sharpest Tool in the Box | 0.50% | ~3,481 |
+| LA Influential | 0.50% | ~3,482 |
+| Gore Horse | 0.50% | ~3,482 |
+| Sharpest Tool in the Box | 0.50% | ~3,482 |
 | Sole Survivor | 0.40% | ~2,785 |
 | Survival Skills | 0.40% | ~2,785 |
 | Donk! | 0.20% | ~1,393 |
 | Bucket List | 0.10% | ~696 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 696,284 (Ranked 22)  
+Progressed: 696,325 (Ranked 22)  
 Completed: 2,225 (0.32%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,10 +229,10 @@ Completed: 2,225 (0.32%) (Ranked 200)
 | 2023-10-12 | 694,718 | 2,216 |
 | 2023-10-13 | 695,203 | 2,223 |
 | 2023-10-14 | 695,832 | 2,225 |
-| 2023-10-15 | 696,284 | 2,225 |
+| 2023-10-15 | 696,325 | 2,225 |
 ## Awards
 Max (Great Boss Battles): 6,442  (Ranked 57)  
-Sum: 9,635 (Ranked 91)  
+Sum: 9,637 (Ranked 91)  
 Diff (max vs sum): -34  
 | Award | Count |
 | ----- | ----- |
@@ -241,7 +241,7 @@ Diff (max vs sum): -34
 | This game has Diverse Characters | 448 |
 | This game has Quickly Understood Controls | 422 |
 | This game is Relaxing | 405 |
-| This game has Amazing Storytelling | 381 |
+| This game has Amazing Storytelling | 383 |
 | This game is Highly Recommended | 365 |
 | This game is Extremely Fun | 363 |
 | This game has Amazing Characters | 352 |
@@ -425,4 +425,4 @@ Diff (max vs sum): -34
 | 2023-10-12 | 4.54 | 6,407 | 9,574 |
 | 2023-10-13 | 4.54 | 6,420 | 9,594 |
 | 2023-10-14 | 4.54 | 6,442 | 9,627 |
-| 2023-10-15 | 4.54 | 6,442 | 9,635 |
+| 2023-10-15 | 4.54 | 6,442 | 9,637 |

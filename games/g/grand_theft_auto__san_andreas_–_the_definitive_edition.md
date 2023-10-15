@@ -8,8 +8,8 @@ Rating: 4.56 (Ranked 473)
 | Getting Started | 81.00% | ~10,686 |
 | Pay 'n' Spray | 51.00% | ~6,728 |
 | All Dressed Up for San Fierro | 26.00% | ~3,430 |
-| The American Dream | 20.00% | ~2,638 |
-| School's Out | 19.00% | ~2,506 |
+| The American Dream | 20.00% | ~2,639 |
+| School's Out | 19.00% | ~2,507 |
 | Smooth Moves | 17.00% | ~2,243 |
 | What happens in Las Venturas... | 15.00% | ~1,979 |
 | Today Was a Good Day | 15.00% | ~1,979 |
@@ -17,7 +17,7 @@ Rating: 4.56 (Ranked 473)
 | Liberty City State of Mind | 10.00% | ~1,319 |
 | The End of the Line | 8.00% | ~1,055 |
 | Original Gangster | 8.00% | ~1,055 |
-| With Extra Dip | 7.00% | ~923 |
+| With Extra Dip | 7.00% | ~924 |
 | Saviour | 6.00% | ~792 |
 | They Can’t Stop All of Us | 5.00% | ~660 |
 | Rescue a Kitten Too? | 5.00% | ~660 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 473)
 | ...Here we go again | 0.50% | ~66 |
 | I Ain't No Buster | 0.40% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,192 (Ranked 141)  
+Progressed: 13,193 (Ranked 141)  
 Completed: 50 (0.38%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 50 (0.38%) (Ranked 191)
 | 2023-10-12 | 13,165 | 50 |
 | 2023-10-13 | 13,173 | 50 |
 | 2023-10-14 | 13,181 | 50 |
-| 2023-10-15 | 13,192 | 50 |
+| 2023-10-15 | 13,193 | 50 |
 ## Awards
 Max (Great Boss Battles): 350  (Ranked 232)  
 Sum: 560 (Ranked 304)  

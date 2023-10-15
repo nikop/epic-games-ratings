@@ -3,8 +3,8 @@
   "Name": "Mystery in the Office",
   "ProductSlug": "mystery-in-the-office-f629ad",
   "Ranking_EOS_Progress": 291,
-  "Ranking_EOS_Completed": 70,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_Completed": 71,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-09-28T17:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 397,
+  "EOS_Progressed": 398,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4.03,
+  "EOS_Completed_Percentage": 4.02,
   "EosHistory": [
     {
       "Time": "2023-09-09T22:06:11.6454215+00:00",
@@ -976,6 +976,11 @@
       "Time": "2023-10-15T15:03:44.8349536+00:00",
       "NumProgressed": 397,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-10-15T18:03:37.1690499+00:00",
+      "NumProgressed": 398,
+      "NumCompleted": 16
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -988,7 +993,7 @@
       "Name": "Time traveller",
       "Percentage": 24,
       "XP": 140,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACH_CUBES",
@@ -1004,7 +1009,7 @@
       "Name": "Sweet tooth",
       "Percentage": 72,
       "XP": 45,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "ACH_FRUIT_BOWLS",
@@ -1012,7 +1017,7 @@
       "Name": "An apple a day",
       "Percentage": 55,
       "XP": 75,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "ACH_GET_BACK_TO_WORK",
@@ -1036,7 +1041,7 @@
       "Name": "Good listener",
       "Percentage": 59,
       "XP": 85,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "ACH_SANDWICHES",
@@ -1044,7 +1049,7 @@
       "Name": "Food lover",
       "Percentage": 63,
       "XP": 55,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ACH_SPEEDRUN",
@@ -1060,21 +1065,21 @@
       "Name": "Exit",
       "Percentage": 54,
       "XP": 65,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     }
   ],
   "AchievementSets": [
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 397,
+      "Progressed": 398,
       "Completed": 16
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-10-15T17:03:36.9215647+00:00",
+  "LastChanged_Achievements": "2023-10-15T18:03:37.1690494+00:00",
   "LastUpdate_AppInfo": "2023-10-13T13:03:11.5956346+00:00",
-  "LastUpdate_Ratings": "2023-10-15T16:59:45.0033792+00:00",
-  "LastUpdate_Achievements": "2023-10-15T17:03:36.9215868+00:00"
+  "LastUpdate_Ratings": "2023-10-15T17:59:43.961143+00:00",
+  "LastUpdate_Achievements": "2023-10-15T18:03:37.1690648+00:00"
 }

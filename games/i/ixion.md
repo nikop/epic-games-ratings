@@ -34,9 +34,9 @@ Rating: 4.56 (Ranked 473)
 | All in Good Health | 5.00% | ~161 |
 | What They Hide From Us | 4.00% | ~129 |
 | ...  in a finite world | 4.00% | ~129 |
+| Sustainable Energy | 4.00% | ~129 |
 | In Dolos We Trust | 4.00% | ~129 |
 | What the Ruins Teach Us | 4.00% | ~129 |
-| Sustainable Energy | 3.00% | ~97 |
 | Delivery! | 3.00% | ~97 |
 | Pedal to the Metal | 3.00% | ~97 |
 | Pulsar Disciple | 3.00% | ~97 |

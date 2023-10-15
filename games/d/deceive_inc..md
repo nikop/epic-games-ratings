@@ -7,8 +7,8 @@ Rating: 4.56 (Ranked 473)
 | ---- | ---------- | ----- |
 | On Deceive Inc.'s Secret Service | 29.00% | ~5,333 |
 | The Spy who eliminated me | 23.00% | ~4,229 |
-| Mainframe Hacker | 22.00% | ~4,045 |
-| Tomorrow Never Dyes | 21.00% | ~3,861 |
+| Mainframe Hacker | 22.00% | ~4,046 |
+| Tomorrow Never Dyes | 21.00% | ~3,862 |
 | From the Vault with Love | 18.00% | ~3,310 |
 | Never Say Loser Again | 18.00% | ~3,310 |
 | For your Eyes only | 18.00% | ~3,310 |
@@ -16,7 +16,7 @@ Rating: 4.56 (Ranked 473)
 | Tailor-Made | 17.00% | ~3,126 |
 | You Only Live Twice | 16.00% | ~2,942 |
 | Fully Decked Out | 16.00% | ~2,942 |
-| A view to Win | 13.00% | ~2,390 |
+| A view to Win | 13.00% | ~2,391 |
 | Smells Like Trouble | 12.00% | ~2,207 |
 | The Living Portrait | 11.00% | ~2,023 |
 | My Motto, My Creed | 11.00% | ~2,023 |
@@ -36,13 +36,13 @@ Rating: 4.56 (Ranked 473)
 | PHD in VIP | 2.00% | ~368 |
 | The terminals are not enough | 1.00% | ~184 |
 | Lose Another Day | 1.00% | ~184 |
-| Chairman of Deceive Inc. | 0.90% | ~165 |
+| Chairman of Deceive Inc. | 0.90% | ~166 |
 | Chief Information Officer | 0.80% | ~147 |
 | Masteries Are Forever | 0.40% | ~74 |
 | Extraction Confusion | 0.20% | ~37 |
 | Spyfall | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,388 (Ranked 128)  
+Progressed: 18,389 (Ranked 128)  
 Completed: 4 (0.02%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,7 +220,7 @@ Completed: 4 (0.02%) (Ranked 288)
 | 2023-10-12 | 18,354 | 4 |
 | 2023-10-13 | 18,366 | 4 |
 | 2023-10-14 | 18,377 | 4 |
-| 2023-10-15 | 18,388 | 4 |
+| 2023-10-15 | 18,389 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

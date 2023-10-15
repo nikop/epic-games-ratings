@@ -2,7 +2,7 @@
   "ID": "82aa77fde0b14916a86b66b1e6345c30",
   "Name": "RIDE 5",
   "ProductSlug": "ride-5",
-  "Ranking_EOS_Progress": 218,
+  "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 106,
@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 1492,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2964,9 +2964,9 @@
       "ID": "ML_ACHIEVEMENT_11",
       "SetID": "c7hf6a4",
       "Name": "Spoilt for Choice",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 45
     },
     {
       "ID": "ML_ACHIEVEMENT_12",
@@ -3283,8 +3283,8 @@
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-15T17:06:50.8917502+00:00",
+  "LastChanged_Achievements": "2023-10-15T18:07:05.7355348+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:05.5662527+00:00",
-  "LastUpdate_Ratings": "2023-10-15T16:57:27.885043+00:00",
-  "LastUpdate_Achievements": "2023-10-15T17:06:50.8918259+00:00"
+  "LastUpdate_Ratings": "2023-10-15T17:57:28.0314788+00:00",
+  "LastUpdate_Achievements": "2023-10-15T18:07:05.7355968+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -550,9 +550,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3745,
+  "EOS_Progressed": 3746,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -7280,6 +7280,11 @@
       "Time": "2023-10-15T13:11:17.733371+00:00",
       "NumProgressed": 3745,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-15T18:07:15.5497776+00:00",
+      "NumProgressed": 3746,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7355,7 +7360,7 @@
       "Name": "Organ Grinder",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -7451,7 +7456,7 @@
       "Name": "Precision Is Key",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -7459,7 +7464,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1535
+      "UsersEstimate": 1536
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -7483,7 +7488,7 @@
       "Name": "My Little Friend",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -7531,7 +7536,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -7603,7 +7608,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1273
+      "UsersEstimate": 1274
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -7761,9 +7766,9 @@
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
       "SetID": "83mdf7p",
       "Name": "Operation Foxley",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 222
+      "UsersEstimate": 185
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -7858,13 +7863,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3696,
+      "Progressed": 3697,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3745,
+      "Progressed": 3746,
       "Completed": 11
     }
   ],
@@ -7872,8 +7877,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-10-14T15:00:37.7714003+00:00",
-  "LastChanged_Achievements": "2023-10-15T17:07:11.2910327+00:00",
+  "LastChanged_Achievements": "2023-10-15T18:07:15.5497771+00:00",
   "LastUpdate_AppInfo": "2023-10-14T10:57:25.01046+00:00",
-  "LastUpdate_Ratings": "2023-10-15T16:59:48.3650237+00:00",
-  "LastUpdate_Achievements": "2023-10-15T17:07:11.2911502+00:00"
+  "LastUpdate_Ratings": "2023-10-15T17:59:46.8773416+00:00",
+  "LastUpdate_Achievements": "2023-10-15T18:07:15.5498958+00:00"
 }

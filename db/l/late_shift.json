@@ -4,7 +4,7 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -895,9 +895,9 @@
       "ID": "ENDING_2",
       "SetID": "8eejhlh",
       "Name": "The Lion\u0027s Den",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 25
+      "UsersEstimate": 30
     },
     {
       "ID": "ENDING_3",
@@ -967,9 +967,9 @@
       "ID": "GOOD_KARMA",
       "SetID": "8eejhlh",
       "Name": "Good Karma",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 155
+      "UsersEstimate": 160
     },
     {
       "ID": "INTERROGATION",
@@ -991,9 +991,9 @@
       "ID": "PROFICIENT_STORYTELLER",
       "SetID": "8eejhlh",
       "Name": "Proficient Storyteller",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 25
     },
     {
       "ID": "PROTECTOR",
@@ -1040,8 +1040,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-10-15T17:08:29.010434+00:00",
+  "LastChanged_Achievements": "2023-10-15T18:08:21.9856794+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:20.5549393+00:00",
-  "LastUpdate_Ratings": "2023-10-15T16:57:47.9197303+00:00",
-  "LastUpdate_Achievements": "2023-10-15T17:08:29.0104534+00:00"
+  "LastUpdate_Ratings": "2023-10-15T17:57:45.4569378+00:00",
+  "LastUpdate_Achievements": "2023-10-15T18:08:21.9856986+00:00"
 }

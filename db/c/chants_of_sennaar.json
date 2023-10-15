@@ -17,11 +17,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 296,
+  "EOS_Progressed": 297,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 6.76,
+  "EOS_Completed_Percentage": 6.73,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1387,6 +1387,11 @@
       "Time": "2023-10-15T17:04:08.7752024+00:00",
       "NumProgressed": 296,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-10-15T18:04:08.2874942+00:00",
+      "NumProgressed": 297,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 25,
@@ -1420,17 +1425,17 @@
       "ID": "META_ALL_TERMINAL",
       "SetID": "2gma9an",
       "Name": "Cable guy",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 24
     },
     {
       "ID": "META_FIRST_LINK",
       "SetID": "2gma9an",
       "Name": "A good beginning",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 21
     },
     {
       "ID": "META_HALF_LINK",
@@ -1516,9 +1521,9 @@
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 33
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -1532,9 +1537,9 @@
       "ID": "PROGRESS_ALL_RUNES",
       "SetID": "2gma9an",
       "Name": "Champollion",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 18
+      "UsersEstimate": 21
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -1542,7 +1547,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -1558,15 +1563,15 @@
       "Name": "Welcome to the Tower",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "PROGRESS_N2",
       "SetID": "2gma9an",
       "Name": "The great escape",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 36
     },
     {
       "ID": "PROGRESS_N3",
@@ -1597,14 +1602,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 296,
+      "Progressed": 297,
       "Completed": 20
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-15T17:04:08.7752018+00:00",
+  "LastChanged_Achievements": "2023-10-15T18:04:08.2874935+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:19.4856723+00:00",
-  "LastUpdate_Ratings": "2023-10-15T16:57:45.8680811+00:00",
-  "LastUpdate_Achievements": "2023-10-15T17:04:08.775232+00:00"
+  "LastUpdate_Ratings": "2023-10-15T17:57:43.4036729+00:00",
+  "LastUpdate_Achievements": "2023-10-15T18:04:08.2875226+00:00"
 }

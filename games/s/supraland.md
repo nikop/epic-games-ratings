@@ -6,32 +6,32 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~722,095 |
-| The Blues | 85.00% | ~619,981 |
-| Fast | 66.00% | ~481,397 |
-| Healthbar | 55.00% | ~401,164 |
-| Force Cube | 53.00% | ~386,576 |
-| Double Jump | 48.00% | ~350,107 |
-| Regeneration | 47.00% | ~342,813 |
-| Triple Jump | 43.00% | ~313,637 |
-| Climb the hill | 42.00% | ~306,343 |
-| Through the fire pipe | 39.00% | ~284,462 |
-| MacGuffin | 38.00% | ~277,168 |
-| Just once | 37.00% | ~269,874 |
-| Armor | 30.00% | ~218,817 |
-| True holy spirit | 28.00% | ~204,229 |
-| That's how electronics work obviously | 27.00% | ~196,935 |
-| Force Cube Catapult | 25.00% | ~182,347 |
-| Holy Sword | 23.00% | ~167,759 |
-| Telefrag | 23.00% | ~167,759 |
-| Freed from prison | 21.00% | ~153,172 |
-| Stomp | 21.00% | ~153,172 |
-| Double Health | 18.00% | ~131,290 |
-| Buckle | 17.00% | ~123,996 |
-| Green Keycard | 17.00% | ~123,996 |
-| Rattle Hag | 16.00% | ~116,702 |
-| All Shells | 15.00% | ~109,408 |
-| Beam | 14.00% | ~102,114 |
+| Out of bed | 99.00% | ~722,101 |
+| The Blues | 85.00% | ~619,986 |
+| Fast | 66.00% | ~481,401 |
+| Healthbar | 55.00% | ~401,167 |
+| Force Cube | 53.00% | ~386,579 |
+| Double Jump | 48.00% | ~350,110 |
+| Regeneration | 47.00% | ~342,816 |
+| Triple Jump | 43.00% | ~313,640 |
+| Climb the hill | 42.00% | ~306,346 |
+| Through the fire pipe | 39.00% | ~284,464 |
+| MacGuffin | 38.00% | ~277,170 |
+| Just once | 37.00% | ~269,876 |
+| Armor | 30.00% | ~218,818 |
+| True holy spirit | 28.00% | ~204,231 |
+| That's how electronics work obviously | 27.00% | ~196,937 |
+| Force Cube Catapult | 25.00% | ~182,349 |
+| Holy Sword | 23.00% | ~167,761 |
+| Telefrag | 23.00% | ~167,761 |
+| Freed from prison | 21.00% | ~153,173 |
+| Stomp | 21.00% | ~153,173 |
+| Double Health | 18.00% | ~131,291 |
+| Buckle | 17.00% | ~123,997 |
+| Green Keycard | 17.00% | ~123,997 |
+| Rattle Hag | 16.00% | ~116,703 |
+| All Shells | 15.00% | ~109,409 |
+| Beam | 14.00% | ~102,115 |
 | Health Drink | 13.00% | ~94,821 |
 | Helped a star | 13.00% | ~94,821 |
 | 9 | 13.00% | ~94,821 |
@@ -44,19 +44,19 @@ Number of Ratings: 25,175  (23.09.2022)
 | Got the gun back | 11.00% | ~80,233 |
 | Infiltrated | 11.00% | ~80,233 |
 | Robbed | 11.00% | ~80,233 |
-| Fire Flies | 10.00% | ~72,939 |
-| Cave Flies | 10.00% | ~72,939 |
-| Gold Scam | 10.00% | ~72,939 |
-| Gold Scam Uncovered | 10.00% | ~72,939 |
-| Panic Lights | 10.00% | ~72,939 |
-| Translocator | 10.00% | ~72,939 |
-| Yellow Shot Button | 10.00% | ~72,939 |
-| Moon Door | 9.00% | ~65,645 |
-| Momentum | 9.00% | ~65,645 |
-| Through the tiny pipe | 9.00% | ~65,645 |
-| Win! | 9.00% | ~65,645 |
-| The real real teleported man | 8.00% | ~58,351 |
-| Well deserved | 6.00% | ~43,763 |
+| Fire Flies | 10.00% | ~72,940 |
+| Cave Flies | 10.00% | ~72,940 |
+| Gold Scam | 10.00% | ~72,940 |
+| Gold Scam Uncovered | 10.00% | ~72,940 |
+| Panic Lights | 10.00% | ~72,940 |
+| Translocator | 10.00% | ~72,940 |
+| Yellow Shot Button | 10.00% | ~72,940 |
+| Moon Door | 9.00% | ~65,646 |
+| Momentum | 9.00% | ~65,646 |
+| Through the tiny pipe | 9.00% | ~65,646 |
+| Win! | 9.00% | ~65,646 |
+| The real real teleported man | 8.00% | ~58,352 |
+| Well deserved | 6.00% | ~43,764 |
 | Happiness | 3.00% | ~21,882 |
 | Super Sword | 3.00% | ~21,882 |
 | All Chests | 2.00% | ~14,588 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~729 |
 | DLC: Top of the world | 0.10% | ~729 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 729,389 (Ranked 19)  
+Progressed: 729,395 (Ranked 19)  
 Completed: 747 (0.10%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 747 (0.10%) (Ranked 246)
 | 2023-10-12 | 729,012 | 746 |
 | 2023-10-13 | 729,153 | 747 |
 | 2023-10-14 | 729,285 | 747 |
-| 2023-10-15 | 729,389 | 747 |
+| 2023-10-15 | 729,395 | 747 |
 ## Awards
 Max (Challenging Puzzles): 7,699  (Ranked 47)  
 Sum: 10,038 (Ranked 90)  

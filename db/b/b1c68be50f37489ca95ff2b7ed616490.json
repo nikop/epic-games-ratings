@@ -4,7 +4,7 @@
   "ProductSlug": "agatha-christie-murder-on-the-orient-express-a53833",
   "Ranking_EOS_Progress": 616,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-10-31T00:00:00+00:00",
@@ -261,8 +261,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2023-10-15T17:08:30.6455935+00:00",
+  "LastChanged_Achievements": "2023-10-15T18:08:23.6867724+00:00",
   "LastUpdate_AppInfo": "2023-10-11T21:57:09.0997639+00:00",
-  "LastUpdate_Ratings": "2023-10-15T17:00:12.273332+00:00",
-  "LastUpdate_Achievements": "2023-10-15T17:08:30.6456137+00:00"
+  "LastUpdate_Ratings": "2023-10-15T18:00:12.2825626+00:00",
+  "LastUpdate_Achievements": "2023-10-15T18:08:23.6867941+00:00"
 }
