@@ -43,7 +43,7 @@
 | 28 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.86 | 0 | 537 |
 | 42 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 4.85 | 0 | 537 |
 | 42 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,935 | 46 |
-| 42 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,590 | 67 |
+| 42 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,591 | 67 |
 | 42 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.85 | 0 | 537 |
 | 42 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 222 | 268 |
 | 42 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.85 | 152 | 306 |
@@ -82,7 +82,7 @@
 | 77 | [The Messenger](games/t/the_messenger.md) | 4.81 | 339 | 235 |
 | 77 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 0 | 537 |
 | 82 | [Aground](games/a/aground.md) | 4.80 | 0 | 537 |
-| 82 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,461 | 56 |
+| 82 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,461 | 57 |
 | 82 | [Huntdown](games/h/huntdown.md) | 4.80 | 0 | 537 |
 | 82 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.80 | 0 | 537 |
 | 82 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,488 | 103 |
@@ -123,7 +123,7 @@
 | 118 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,357 | 92 |
 | 118 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 1,010 | 148 |
 | 118 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 915 | 154 |
-| 118 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.76 | 23,517 | 17 |
+| 118 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.76 | 23,559 | 17 |
 | 118 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,727 | 75 |
 | 118 | [Journey](games/j/journey.md) | 4.76 | 0 | 537 |
 | 118 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 537 |
@@ -248,7 +248,7 @@
 | 240 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,457 | 51 |
 | 240 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,985 | 84 |
 | 240 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 4,789 | 71 |
-| 240 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 310,140 | 3 |
+| 240 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 310,252 | 3 |
 | 240 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 243,073 | 4 |
 | 240 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 537 |
 | 240 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.68 | 0 | 537 |
@@ -450,7 +450,7 @@
 | 437 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 215 | 274 |
 | 437 | [The Colonists](games/t/the_colonists.md) | 4.58 | 0 | 537 |
 | 437 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 54 | 405 |
-| 437 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,442 | 57 |
+| 437 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,442 | 58 |
 | 437 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.58 | 0 | 537 |
 | 437 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 220 | 270 |
 | 437 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,534 | 26 |
@@ -513,7 +513,7 @@
 | 511 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.54 | 0 | 537 |
 | 511 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,501 | 126 |
 | 511 | [Costume Quest](games/c/costume_quest.md) | 4.54 | 0 | 537 |
-| 511 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 6,442 | 57 |
+| 511 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 6,462 | 56 |
 | 511 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 35 | 456 |
 | 511 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.54 | 95 | 355 |
 | 511 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 22 | 518 |
@@ -598,7 +598,7 @@
 | 591 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.49 | 0 | 537 |
 | 591 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 276 | 250 |
 | 591 | [Knockout City™](games/k/knockout_city™.md) | 4.49 | 0 | 537 |
-| 591 | [Maneater](games/m/maneater.md) | 4.49 | 13,727 | 29 |
+| 591 | [Maneater](games/m/maneater.md) | 4.49 | 13,733 | 29 |
 | 591 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 99 | 349 |
 | 591 | [MythForce](games/m/mythforce.md) | 4.49 | 34 | 463 |
 | 591 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.49 | 25 | 502 |
@@ -772,7 +772,7 @@
 | 760 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.36 | 20 | 530 |
 | 760 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 50 | 415 |
 | 760 | [The Silent Age](games/t/the_silent_age.md) | 4.36 | 0 | 537 |
-| 760 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.36 | 251 | 261 |
+| 760 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.36 | 254 | 260 |
 | 760 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 125 | 323 |
 | 775 | [Among Trees](games/a/among_trees.md) | 4.35 | 0 | 537 |
 | 775 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.35 | 0 | 537 |
@@ -975,8 +975,8 @@
 | 972 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.98 | 0 | 537 |
 | 972 | [Martha Is Dead](games/m/martha_is_dead.md) | 3.98 | 0 | 537 |
 | 972 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 3.98 | 0 | 537 |
-| 976 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.97 | 0 | 537 |
-| 976 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.97 | 4,103 | 83 |
+| 972 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 4,103 | 83 |
+| 977 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.97 | 0 | 537 |
 | 978 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 428 |
 | 979 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.94 | 495 | 205 |
 | 979 | [Ironcast](games/i/ironcast.md) | 3.94 | 0 | 537 |

@@ -2,14 +2,14 @@
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 1 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 100.00% |
-| 3 | [The Riflemen](games/t/the_riflemen.md) | 48.98% |
+| 3 | [The Riflemen](games/t/the_riflemen.md) | 48.96% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.15% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.99% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 31.86% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
 | 9 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
-| 10 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.26% |
+| 10 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.17% |
 | 11 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 11 | [Overloop](games/o/overloop.md) | 25.00% |
 | 13 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
@@ -44,7 +44,7 @@
 | 42 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.75% |
 | 43 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 44 | [Ravenlok](games/r/ravenlok.md) | 7.66% |
-| 45 | [Sonic Origins](games/s/sonic_origins.md) | 7.54% |
+| 45 | [Sonic Origins](games/s/sonic_origins.md) | 7.53% |
 | 46 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.51% |
 | 47 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.41% |
 | 48 | [Time Loader](games/t/time_loader.md) | 7.20% |
@@ -58,7 +58,7 @@
 | 54 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.88% |
 | 57 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.80% |
 | 58 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.77% |
-| 58 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 5.77% |
+| 59 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 5.66% |
 | 60 | [Time on Frog Island](games/t/time_on_frog_island.md) | 5.56% |
 | 61 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.92% |
 | 62 | [JARS](games/j/jars.md) | 4.82% |
@@ -74,7 +74,7 @@
 | 72 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.00% |
 | 73 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.82% |
 | 74 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
-| 75 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.68% |
+| 75 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.67% |
 | 76 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
 | 77 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.51% |
 | 78 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.50% |
@@ -140,7 +140,7 @@
 | 138 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.13% |
 | 139 | [Trifox](games/t/trifox.md) | 1.09% |
 | 140 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 1.08% |
-| 141 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.07% |
+| 140 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.08% |
 | 142 | [Adios](games/a/adios.md) | 1.05% |
 | 142 | [Infindustry](games/i/infindustry.md) | 1.05% |
 | 142 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.05% |
@@ -155,9 +155,9 @@
 | 152 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 154 | [Dungeons 3](games/d/dungeons_3.md) | 0.79% |
 | 155 | [Eternights](games/e/eternights.md) | 0.74% |
-| 156 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.72% |
-| 156 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.72% |
-| 156 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.72% |
+| 155 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.74% |
+| 157 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.72% |
+| 157 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.72% |
 | 159 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.71% |
 | 160 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.66% |
 | 161 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.64% |
