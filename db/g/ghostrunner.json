@@ -6,9 +6,9 @@
   "Ranking_Popularity": 203,
   "Ranking_PopularitySum": 282,
   "Ranking_EOS_Progress": 125,
-  "Ranking_EOS_Completed": 194,
+  "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1266,10 +1266,10 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 20033,
-  "EOS_Completed": 74,
-  "EOS_NewPlayers": 436,
-  "EOS_NewCompleters": 1,
+  "EOS_Progressed": 20034,
+  "EOS_Completed": 75,
+  "EOS_NewPlayers": 431,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
     {
@@ -20536,6 +20536,11 @@
       "Time": "2023-10-15T05:05:38.2993047+00:00",
       "NumProgressed": 20033,
       "NumCompleted": 74
+    },
+    {
+      "Time": "2023-10-15T06:05:35.488483+00:00",
+      "NumProgressed": 20034,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 45,
@@ -20563,7 +20568,7 @@
       "Name": "Artificial selection",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 5609
+      "UsersEstimate": 5610
     },
     {
       "ID": "BackToHell",
@@ -20571,7 +20576,7 @@
       "Name": "Back to hell",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 7412
+      "UsersEstimate": 7413
     },
     {
       "ID": "CantRunCantHide",
@@ -20683,15 +20688,15 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 15225
+      "UsersEstimate": 15226
     },
     {
       "ID": "MoreThanHuman",
       "SetID": "6ce5bmd",
       "Name": "More than human",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 2204
+      "UsersEstimate": 2404
     },
     {
       "ID": "Neuromancer",
@@ -20819,7 +20824,7 @@
       "Name": "Sword Runner",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 12220
+      "UsersEstimate": 12221
     },
     {
       "ID": "SwordToAGunfight",
@@ -20883,7 +20888,7 @@
       "Name": "Where are my Keys?",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 8013
+      "UsersEstimate": 8014
     },
     {
       "ID": "WhereHeStood",
@@ -20906,21 +20911,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 20033,
+      "Progressed": 20034,
       "Completed": 47
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 20033,
-      "Completed": 74
+      "Progressed": 20034,
+      "Completed": 75
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-10-14T05:01:11.8507145+00:00",
-  "LastChanged_Achievements": "2023-10-15T05:05:38.2993043+00:00",
+  "LastChanged_Achievements": "2023-10-15T06:05:35.4884827+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:38.0192871+00:00",
-  "LastUpdate_Ratings": "2023-10-15T05:02:13.3692574+00:00",
-  "LastUpdate_Achievements": "2023-10-15T05:05:38.2994984+00:00"
+  "LastUpdate_Ratings": "2023-10-15T06:02:03.865518+00:00",
+  "LastUpdate_Achievements": "2023-10-15T06:05:35.4886003+00:00"
 }

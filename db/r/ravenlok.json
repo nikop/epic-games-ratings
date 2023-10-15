@@ -3,9 +3,9 @@
   "Name": "Ravenlok",
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 231,
-  "Ranking_EOS_Completed": 43,
-  "Ranking_EOS_NewPlayers": 281,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_Completed": 44,
+  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
     "PcReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -3335,9 +3335,9 @@
       "ID": "49",
       "SetID": "d0g98p",
       "Name": "Final Showdown",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 377
+      "UsersEstimate": 388
     },
     {
       "ID": "5",
@@ -3400,8 +3400,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-10-15T05:06:06.2988678+00:00",
+  "LastChanged_Achievements": "2023-10-15T06:06:01.6188169+00:00",
   "LastUpdate_AppInfo": "2023-10-14T13:56:58.1601258+00:00",
-  "LastUpdate_Ratings": "2023-10-15T05:02:11.1826577+00:00",
-  "LastUpdate_Achievements": "2023-10-15T05:06:06.2989684+00:00"
+  "LastUpdate_Ratings": "2023-10-15T06:02:01.7285794+00:00",
+  "LastUpdate_Achievements": "2023-10-15T06:06:01.6188676+00:00"
 }

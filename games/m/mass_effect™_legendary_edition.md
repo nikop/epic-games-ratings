@@ -64,10 +64,10 @@
 | Treason | 30.00% | ~208 |
 | Agent | 30.00% | ~208 |
 | Driven | 30.00% | ~208 |
+| Bringer of War | 30.00% | ~208 |
 | Cat's in the Cradle | 29.00% | ~201 |
 | Doppelganger | 29.00% | ~201 |
 | Digital Exorcist | 29.00% | ~201 |
-| Bringer of War | 29.00% | ~201 |
 | Friend or Foe | 28.00% | ~194 |
 | Mobilizer | 28.00% | ~194 |
 | First Aid Specialist | 27.00% | ~187 |
@@ -101,8 +101,8 @@
 | Well Connected | 18.00% | ~125 |
 | Last Resort | 17.00% | ~118 |
 | Throw Mastery | 16.00% | ~111 |
+| Executioner | 16.00% | ~111 |
 | Master and Commander | 16.00% | ~111 |
-| Executioner | 15.00% | ~104 |
 | Mail Slot | 14.00% | ~97 |
 | Patriot | 14.00% | ~97 |
 | Legend | 14.00% | ~97 |

@@ -2,13 +2,13 @@
   "ID": "d5cbd232ad304c91aacc20f31849435c",
   "Name": "House Flipper",
   "ProductSlug": "house-flipper",
-  "Ranking_Rating": 221,
+  "Ranking_Rating": 222,
   "Ranking_Popularity": 239,
   "Ranking_PopularitySum": 196,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -1950,9 +1950,9 @@
       "Count": 216
     }
   ],
-  "EOS_Progressed": 20931,
+  "EOS_Progressed": 20932,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -9135,6 +9135,11 @@
       "Time": "2023-10-15T01:55:20.8920476+00:00",
       "NumProgressed": 20931,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-10-15T06:09:49.7910667+00:00",
+      "NumProgressed": 20932,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -9194,7 +9199,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 19884
+      "UsersEstimate": 19885
     },
     {
       "ID": "GameOver",
@@ -9329,15 +9334,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 20931,
+      "Progressed": 20932,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-10-15T04:01:12.0081926+00:00",
-  "LastChanged_Achievements": "2023-10-15T05:09:58.1955045+00:00",
+  "LastChanged_Achievements": "2023-10-15T06:09:49.7910663+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:53.7092922+00:00",
-  "LastUpdate_Ratings": "2023-10-15T05:03:15.7136012+00:00",
-  "LastUpdate_Achievements": "2023-10-15T05:09:58.1955805+00:00"
+  "LastUpdate_Ratings": "2023-10-15T06:03:09.5865098+00:00",
+  "LastUpdate_Achievements": "2023-10-15T06:09:49.791112+00:00"
 }

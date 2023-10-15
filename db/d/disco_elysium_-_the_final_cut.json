@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 288,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1275,10 +1275,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 1102,
       "NumberOfAwardsMax": 733
+    },
+    {
+      "Time": "2023-10-15T06:03:52.9459583+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1104,
+      "NumberOfAwardsMax": 733
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1102,
+  "NumberOfAwards": 1104,
   "NumberOfAwardsMax": 733,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1334,7 +1340,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 47
+      "Count": 49
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1361,7 +1367,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 129715,
+  "EOS_Progressed": 129718,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 259,
   "EOS_NewCompleters": 0,
@@ -19111,6 +19117,11 @@
       "Time": "2023-10-15T05:09:27.6113938+00:00",
       "NumProgressed": 129715,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-10-15T06:09:21.2257897+00:00",
+      "NumProgressed": 129718,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -19146,7 +19157,7 @@
       "Name": "The Opener Of The Eighth Seal",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3891
+      "UsersEstimate": 3892
     },
     {
       "ID": "ACH_COP_ART",
@@ -19170,7 +19181,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 11674
+      "UsersEstimate": 11675
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -19202,7 +19213,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36320
+      "UsersEstimate": 36321
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -19226,7 +19237,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20754
+      "UsersEstimate": 20755
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -19234,7 +19245,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 27240
+      "UsersEstimate": 27241
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -19258,7 +19269,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20754
+      "UsersEstimate": 20755
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -19282,7 +19293,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 11674
+      "UsersEstimate": 11675
     },
     {
       "ID": "ACH_GLUTEN",
@@ -19338,7 +19349,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 18160
+      "UsersEstimate": 18161
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -19346,7 +19357,7 @@
       "Name": "Bother Kim After Hours",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3891
+      "UsersEstimate": 3892
     },
     {
       "ID": "ACH_KIM_JACKET",
@@ -19402,7 +19413,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 18160
+      "UsersEstimate": 18161
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -19441,15 +19452,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 129715,
+      "Progressed": 129718,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
-  "LastChanged": "2023-10-14T08:02:22.2123051+00:00",
-  "LastChanged_Achievements": "2023-10-15T05:09:27.6113933+00:00",
+  "LastChanged": "2023-10-15T06:03:52.9459582+00:00",
+  "LastChanged_Achievements": "2023-10-15T06:09:21.2257892+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:18.5281336+00:00",
-  "LastUpdate_Ratings": "2023-10-15T05:03:52.2215958+00:00",
-  "LastUpdate_Achievements": "2023-10-15T05:09:27.611542+00:00"
+  "LastUpdate_Ratings": "2023-10-15T06:03:52.9459588+00:00",
+  "LastUpdate_Achievements": "2023-10-15T06:09:21.2258986+00:00"
 }

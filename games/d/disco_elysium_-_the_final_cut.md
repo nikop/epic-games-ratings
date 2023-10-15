@@ -6,24 +6,24 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~36,320 |
+| Goodest Of The Good Cops | 28.00% | ~36,321 |
 | Biggest Communism Builder | 24.00% | ~31,132 |
-| The World's Most Laughable Centrist | 21.00% | ~27,240 |
+| The World's Most Laughable Centrist | 21.00% | ~27,241 |
 | Il Coppo Del'Arte! | 18.00% | ~23,349 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,754 |
-| Hyperstellar Law Official | 16.00% | ~20,754 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~18,160 |
-| Gurdi-Ball Is Lit | 14.00% | ~18,160 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,755 |
+| Hyperstellar Law Official | 16.00% | ~20,755 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~18,161 |
+| Gurdi-Ball Is Lit | 14.00% | ~18,161 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~16,863 |
 | Truly Rabid *Traditionalist* | 11.00% | ~14,269 |
-| Unbelievably Boring **** | 9.00% | ~11,674 |
-| The Figurines Won't Win Her Back | 9.00% | ~11,674 |
+| Unbelievably Boring **** | 9.00% | ~11,675 |
+| The Figurines Won't Win Her Back | 9.00% | ~11,675 |
 | Enemy Of The Physical Realm | 8.00% | ~10,377 |
 | Hardie's Heroes | 6.00% | ~7,783 |
 | The Lawbringer | 4.00% | ~5,189 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,189 |
-| The Opener Of The Eighth Seal | 3.00% | ~3,891 |
-| Bother Kim After Hours | 3.00% | ~3,891 |
+| The Opener Of The Eighth Seal | 3.00% | ~3,892 |
+| Bother Kim After Hours | 3.00% | ~3,892 |
 | Baddest Of the Bad Cops | 2.00% | ~2,594 |
 | Expert Advanced Remote Viewer | 2.00% | ~2,594 |
 | Recruit Detective Kuuno de Ruyter | 2.00% | ~2,594 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~130 |
 | What body? | 0.10% | ~130 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,715 (Ranked 75)  
+Progressed: 129,718 (Ranked 75)  
 Completed: 28 (0.02%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,15 +225,15 @@ Completed: 28 (0.02%) (Ranked 288)
 | 2023-10-12 | 129,621 | 28 |
 | 2023-10-13 | 129,658 | 28 |
 | 2023-10-14 | 129,707 | 28 |
-| 2023-10-15 | 129,715 | 28 |
+| 2023-10-15 | 129,718 | 28 |
 ## Awards
 Max (Character Customization): 733  (Ranked 172)  
-Sum: 1,102 (Ranked 241)  
+Sum: 1,104 (Ranked 241)  
 Diff (max vs sum): -69  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 733 |
-| This game has Amazing Storytelling | 47 |
+| This game has Amazing Storytelling | 49 |
 | This game is Educational | 44 |
 | This game is Highly Recommended | 43 |
 | This game has Quickly Understood Controls | 42 |
@@ -384,3 +384,4 @@ Diff (max vs sum): -69
 | 2023-10-11 | 4.87 | - | 732 | 1,100 |
 | 2023-10-13 | 4.87 | - | 733 | 1,101 |
 | 2023-10-14 | 4.87 | - | 733 | 1,102 |
+| 2023-10-15 | 4.87 | - | 733 | 1,104 |

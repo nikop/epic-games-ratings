@@ -1,24 +1,24 @@
 # Alan Wake Remastered
 [Store](https://store.epicgames.com/en-US/p/alan-wake-remastered)  
 [View Rawdata](../../db/a/alan_wake_remastered.json)  
-Rating: 4.55 (Ranked 491)  
+Rating: 4.55 (Ranked 492)  
 Number of Ratings: 524  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Follow the Light | 43.00% | ~29,246 |
 | Let There Be Light | 35.00% | ~23,805 |
-| Float Like a Butterfly | 34.00% | ~23,124 |
+| Float Like a Butterfly | 34.00% | ~23,125 |
 | Nordic Walking | 28.00% | ~19,044 |
 | Bright Falls' Finest | 27.00% | ~18,364 |
-| Under a Thin Layer of Skin | 24.00% | ~16,323 |
+| Under a Thin Layer of Skin | 24.00% | ~16,324 |
 | Park Ranger | 20.00% | ~13,603 |
 | Paging Mr. Wake | 20.00% | ~13,603 |
-| Back! Back, I Say! | 19.00% | ~12,922 |
-| Finders Keepers | 19.00% | ~12,922 |
-| Sound and Fury | 17.00% | ~11,562 |
-| Missed by a Mile | 17.00% | ~11,562 |
-| Damn Good Cup of Coffee | 17.00% | ~11,562 |
+| Back! Back, I Say! | 19.00% | ~12,923 |
+| Finders Keepers | 19.00% | ~12,923 |
+| Sound and Fury | 17.00% | ~11,563 |
+| Missed by a Mile | 17.00% | ~11,563 |
+| Damn Good Cup of Coffee | 17.00% | ~11,563 |
 | Wheels Within Wheels | 16.00% | ~10,882 |
 | They're Heeeeeere! | 16.00% | ~10,882 |
 | The Six-Gun Scribe | 15.00% | ~10,202 |
@@ -33,8 +33,8 @@ Number of Ratings: 524  (23.09.2022)
 | The Lady of the Light | 12.00% | ~8,162 |
 | Two For the Price of One | 12.00% | ~8,162 |
 | Energized! | 12.00% | ~8,162 |
-| Right of Way | 11.00% | ~7,481 |
-| What Light Through Yonder Window | 10.00% | ~6,801 |
+| Right of Way | 11.00% | ~7,482 |
+| What Light Through Yonder Window | 10.00% | ~6,802 |
 | Tornado Wrangler | 9.00% | ~6,121 |
 | A Friend in Need | 9.00% | ~2,833 |
 | Departure | 8.00% | ~5,441 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~68 |
 | No Punctuation | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,013 (Ranked 93)  
+Progressed: 68,015 (Ranked 93)  
 Completed: 69 (0.10%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,7 +252,7 @@ Completed: 69 (0.10%) (Ranked 246)
 | 2023-10-12 | 67,717 | 69 |
 | 2023-10-13 | 67,826 | 69 |
 | 2023-10-14 | 67,971 | 69 |
-| 2023-10-15 | 68,013 | 69 |
+| 2023-10-15 | 68,015 | 69 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

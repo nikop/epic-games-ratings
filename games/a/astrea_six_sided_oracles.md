@@ -36,10 +36,10 @@
 | Wave Bender | 9.00% | ~5 |
 | Apian Hero | 9.00% | ~5 |
 | Can't touch this | 7.00% | ~4 |
+| Denying Destiny | 7.00% | ~4 |
 | Heavy Purger | 7.00% | ~4 |
 | Behenian Hero | 7.00% | ~4 |
 | Lacertian Hero | 7.00% | ~4 |
-| Denying Destiny | 5.00% | ~3 |
 | Purification Avatar | 5.00% | ~3 |
 | The Abyssal Terror | 5.00% | ~3 |
 | The Chaos Artisan | 5.00% | ~3 |

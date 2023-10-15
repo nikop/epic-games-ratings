@@ -7,11 +7,11 @@ Number of Ratings: 617  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 70.00% | ~370,525 |
-| Now You're Talking | 62.00% | ~328,179 |
-| Steel Yourself | 62.00% | ~328,179 |
-| Window Dressing | 50.00% | ~264,660 |
+| Now You're Talking | 62.00% | ~328,180 |
+| Steel Yourself | 62.00% | ~328,180 |
+| Window Dressing | 50.00% | ~264,661 |
 | Trigger Happy | 46.00% | ~243,488 |
-| Riverborn | 45.00% | ~238,194 |
+| Riverborn | 45.00% | ~238,195 |
 | Starry Eyed | 34.00% | ~179,969 |
 | Poking Around | 34.00% | ~179,969 |
 | Talk of the Town | 24.00% | ~127,037 |
@@ -20,7 +20,7 @@ Number of Ratings: 617  (23.09.2022)
 | Wind At Our Backs | 22.00% | ~116,451 |
 | To the Beat | 20.00% | ~105,864 |
 | Sunny Shores | 17.00% | ~89,985 |
-| Sunday Best | 16.00% | ~84,691 |
+| Sunday Best | 16.00% | ~84,692 |
 | To Victory! | 15.00% | ~79,398 |
 | Two of a Kind | 14.00% | ~74,105 |
 | Keep On Trucking | 13.00% | ~68,812 |
@@ -31,8 +31,8 @@ Number of Ratings: 617  (23.09.2022)
 | Road Less Travelled | 9.00% | ~47,639 |
 | Lost and Found | 9.00% | ~47,639 |
 | Under the Radar | 8.00% | ~42,346 |
-| Partner in Crime | 7.00% | ~37,052 |
-| Hard to Hear | 7.00% | ~37,052 |
+| Partner in Crime | 7.00% | ~37,053 |
+| Hard to Hear | 7.00% | ~37,053 |
 | Moving On Up | 6.00% | ~31,759 |
 | Owl Knows Best | 6.00% | ~31,759 |
 | Mind the Moose | 6.00% | ~31,759 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,588 |
 | Point Taken | 0.20% | ~1,059 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 529,321 (Ranked 34)  
+Progressed: 529,322 (Ranked 34)  
 Completed: 485 (0.09%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,10 +242,10 @@ Completed: 485 (0.09%) (Ranked 252)
 | 2023-10-12 | 529,140 | 484 |
 | 2023-10-13 | 529,214 | 485 |
 | 2023-10-14 | 529,297 | 485 |
-| 2023-10-15 | 529,321 | 485 |
+| 2023-10-15 | 529,322 | 485 |
 ## Awards
-Max (Relaxing): 20  (Ranked 528)  
-Sum: 20 (Ranked 529)  
+Max (Relaxing): 20  (Ranked 529)  
+Sum: 20 (Ranked 530)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |

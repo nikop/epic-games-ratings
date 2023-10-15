@@ -11,6 +11,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Explorer | 2.00% | ~294 |
 | Good | 2.00% | ~294 |
 | Intrepid | 2.00% | ~294 |
+| Mason | 2.00% | ~294 |
 | Settler | 2.00% | ~294 |
 | Strong | 2.00% | ~294 |
 | Friendly Family | 2.00% | ~294 |
@@ -24,13 +25,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Keystone | 1.00% | ~147 |
 | Learned | 1.00% | ~147 |
 | Magnificent | 1.00% | ~147 |
-| Mason | 1.00% | ~147 |
 | Noble | 1.00% | ~147 |
 | Pioneer | 1.00% | ~147 |
 | Warrior | 1.00% | ~147 |
 | Wise | 1.00% | ~147 |
 | Developing Cities | 1.00% | ~147 |
 | Strong Cities | 1.00% | ~147 |
+| Furious Family | 1.00% | ~147 |
 | Ishtar Gate | 1.00% | ~147 |
 | Lighthouse | 1.00% | ~147 |
 | Oracle | 1.00% | ~147 |
@@ -47,20 +48,19 @@ Number of Ratings: 1,307  (23.09.2022)
 | Trade Caravan | 1.00% | ~147 |
 | Kushite Pyramids | 1.00% | ~147 |
 | Kushite Paganism | 1.00% | ~147 |
+| Drillmaster | 0.90% | ~132 |
 | Brilliant | 0.90% | ~132 |
 | Able Difficulty | 0.90% | ~132 |
-| Furious Family | 0.90% | ~132 |
 | Great Ziggurat | 0.90% | ~132 |
+| Musaeum | 0.90% | ~132 |
 | Manichaeism | 0.90% | ~132 |
 | Egyptian Paganism | 0.90% | ~132 |
 | Regicide | 0.80% | ~118 |
-| Drillmaster | 0.80% | ~118 |
 | Great | 0.80% | ~118 |
 | Valiant | 0.80% | ~118 |
 | Legendary Cities | 0.80% | ~118 |
 | Apadana | 0.80% | ~118 |
 | Colossus | 0.80% | ~118 |
-| Musaeum | 0.80% | ~118 |
 | Necropolis | 0.80% | ~118 |
 | Learn to Play 2 | 0.80% | ~118 |
 | Mighty | 0.70% | ~103 |
@@ -82,6 +82,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Building Wonders | 0.60% | ~88 |
 | Invincible | 0.50% | ~74 |
 | Lion | 0.50% | ~74 |
+| Landowners | 0.50% | ~74 |
 | Patrons | 0.50% | ~74 |
 | Riders | 0.50% | ~74 |
 | Hittite Iron | 0.50% | ~74 |
@@ -98,13 +99,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Redemption | 0.50% | ~74 |
 | Cimmerian Archer | 0.50% | ~74 |
 | Legionary | 0.50% | ~74 |
+| Phalangite | 0.50% | ~74 |
 | Double Victory | 0.50% | ~74 |
 | Points Victory | 0.50% | ~74 |
 | Capable | 0.40% | ~59 |
 | Subjugator | 0.40% | ~59 |
 | Strong Difficulty | 0.40% | ~59 |
 | Hunters | 0.40% | ~59 |
-| Landowners | 0.40% | ~59 |
 | Statesmen | 0.40% | ~59 |
 | Traders | 0.40% | ~59 |
 | Church of the Holy Sepulchre | 0.40% | ~59 |
@@ -119,7 +120,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Revelation | 0.40% | ~59 |
 | Veneration | 0.40% | ~59 |
 | Mounted Lancer | 0.40% | ~59 |
-| Phalangite | 0.40% | ~59 |
 | Ambition Victory | 0.40% | ~59 |
 | The Clergy | 0.40% | ~59 |
 | The Great Mage | 0.40% | ~59 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,707 (Ranked 135)  
+Progressed: 14,709 (Ranked 135)  
 Completed: 5 (0.03%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -527,7 +527,7 @@ Completed: 5 (0.03%) (Ranked 283)
 | 2023-10-12 | 14,624 | 5 |
 | 2023-10-13 | 14,652 | 5 |
 | 2023-10-14 | 14,699 | 5 |
-| 2023-10-15 | 14,707 | 5 |
+| 2023-10-15 | 14,709 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,839 (Ranked 210)  

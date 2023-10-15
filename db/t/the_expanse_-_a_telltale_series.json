@@ -2,7 +2,7 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 454,
+  "Ranking_Rating": 455,
   "Ranking_Popularity": 536,
   "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 136,
@@ -166,9 +166,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13991,
+  "EOS_Progressed": 13992,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 270,
+  "EOS_NewPlayers": 269,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -8686,6 +8686,11 @@
       "Time": "2023-10-15T04:05:33.3096738+00:00",
       "NumProgressed": 13991,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-10-15T06:06:49.8869914+00:00",
+      "NumProgressed": 13992,
+      "NumCompleted": 23
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -8754,7 +8759,7 @@
       "Name": "Drug Gifter",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 839
+      "UsersEstimate": 840
     },
     {
       "ID": "17",
@@ -8937,7 +8942,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13991,
+      "Progressed": 13992,
       "Completed": 23
     }
   ],
@@ -8945,8 +8950,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-13T09:00:57.1370573+00:00",
-  "LastChanged_Achievements": "2023-10-15T05:07:07.4003542+00:00",
+  "LastChanged_Achievements": "2023-10-15T06:06:49.886991+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:40.5814563+00:00",
-  "LastUpdate_Ratings": "2023-10-15T05:02:24.6046803+00:00",
-  "LastUpdate_Achievements": "2023-10-15T05:07:07.4004256+00:00"
+  "LastUpdate_Ratings": "2023-10-15T06:02:16.9331884+00:00",
+  "LastUpdate_Achievements": "2023-10-15T06:06:49.8870473+00:00"
 }

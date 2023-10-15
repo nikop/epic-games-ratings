@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 162,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -302,7 +302,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17816,
+  "EOS_Progressed": 17817,
   "EOS_Completed": 112,
   "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 2,
@@ -13832,6 +13832,11 @@
       "Time": "2023-10-15T05:04:52.6539575+00:00",
       "NumProgressed": 17816,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2023-10-15T06:04:53.3531221+00:00",
+      "NumProgressed": 17817,
+      "NumCompleted": 112
     }
   ],
   "TotalAchievements": 16,
@@ -13843,7 +13848,7 @@
       "Name": "Beat \u0027em Up",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 4810
+      "UsersEstimate": 4811
     },
     {
       "ID": "Burning_For_You",
@@ -13851,7 +13856,7 @@
       "Name": "Burning For You",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 4988
+      "UsersEstimate": 4989
     },
     {
       "ID": "Deadline",
@@ -13891,7 +13896,7 @@
       "Name": "Fireworks",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 5879
+      "UsersEstimate": 5880
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -13970,15 +13975,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 17816,
+      "Progressed": 17817,
       "Completed": 112
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-07-21T02:04:12.2963456+00:00",
-  "LastChanged_Achievements": "2023-10-15T05:04:52.6539553+00:00",
+  "LastChanged_Achievements": "2023-10-15T06:04:53.3531217+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:27.7450235+00:00",
-  "LastUpdate_Ratings": "2023-10-15T04:58:17.5561947+00:00",
-  "LastUpdate_Achievements": "2023-10-15T05:04:52.6540619+00:00"
+  "LastUpdate_Ratings": "2023-10-15T05:58:13.120811+00:00",
+  "LastUpdate_Achievements": "2023-10-15T06:04:53.3531952+00:00"
 }

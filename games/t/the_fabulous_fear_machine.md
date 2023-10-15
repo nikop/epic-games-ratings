@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You have three wishes left | 79.00% | ~23 |
-| Master trainee | 76.00% | ~22 |
-| Jung's dream | 66.00% | ~19 |
-| The battle of Great Britain | 59.00% | ~17 |
+| You have three wishes left | 83.00% | ~24 |
+| Master trainee | 79.00% | ~23 |
+| Jung's dream | 69.00% | ~20 |
+| The battle of Great Britain | 62.00% | ~18 |
 | Giant | 48.00% | ~14 |
-| Pulp! Where Monsters Dwell | 45.00% | ~13 |
+| Pulp! Where Monsters Dwell | 48.00% | ~14 |
 | A continent with chemistry | 45.00% | ~13 |
 | A rival with no options | 41.00% | ~12 |
+| Pulp! Terror Tales in the Night | 41.00% | ~12 |
 | The happy farmer girl | 41.00% | ~12 |
-| Pulp! Terror Tales in the Night | 38.00% | ~11 |
 | Kirlian's best disciple | 38.00% | ~11 |
 | Pulp! Out of this World | 34.00% | ~10 |
 | Diagnosis: fear | 34.00% | ~10 |

@@ -2,13 +2,13 @@
   "ID": "308cbcb523ad4937a8c509d10e9b688a",
   "Name": "Farming Simulator 22",
   "ProductSlug": "farming-simulator-22",
-  "Ranking_Rating": 221,
+  "Ranking_Rating": 222,
   "Ranking_Popularity": 70,
   "Ranking_PopularitySum": 33,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -10063,10 +10063,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 41211,
       "NumberOfAwardsMax": 5165
+    },
+    {
+      "Time": "2023-10-15T05:59:17.1575679+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 41212,
+      "NumberOfAwardsMax": 5165
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 41211,
+  "NumberOfAwards": 41212,
   "NumberOfAwardsMax": 5165,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -10122,7 +10128,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 3584
+      "Count": 3585
     },
     {
       "Text": "This game has Diverse Characters",
@@ -10143,9 +10149,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 49949,
+  "EOS_Progressed": 49950,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 381,
+  "EOS_NewPlayers": 382,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -26053,6 +26059,11 @@
       "Time": "2023-10-15T01:52:43.5170845+00:00",
       "NumProgressed": 49949,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-15T06:08:13.2369748+00:00",
+      "NumProgressed": 49950,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -26072,7 +26083,7 @@
       "Name": "Cowherd",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 3496
+      "UsersEstimate": 3497
     },
     {
       "ID": "BreedPigs",
@@ -26144,7 +26155,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 31967
+      "UsersEstimate": 31968
     },
     {
       "ID": "CutTree",
@@ -26160,7 +26171,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 30469
+      "UsersEstimate": 30470
     },
     {
       "ID": "DeliveryGrapes",
@@ -26200,7 +26211,7 @@
       "Name": "Plant get enough",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 29969
+      "UsersEstimate": 29970
     },
     {
       "ID": "Harvested",
@@ -26248,7 +26259,7 @@
       "Name": "It\u0027s never too late to farm",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 24974
+      "UsersEstimate": 24975
     },
     {
       "ID": "Mission",
@@ -26272,7 +26283,7 @@
       "Name": "Hard work pays off",
       "Percentage": 53,
       "XP": 55,
-      "UsersEstimate": 26473
+      "UsersEstimate": 26474
     },
     {
       "ID": "NumBeehives",
@@ -26320,7 +26331,7 @@
       "Name": "This is just my weekend vehicle",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 28970
+      "UsersEstimate": 28971
     },
     {
       "ID": "PetDog",
@@ -26336,7 +26347,7 @@
       "Name": "It\u0027s just the beginning",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 28970
+      "UsersEstimate": 28971
     },
     {
       "ID": "Sow",
@@ -26392,7 +26403,7 @@
       "Name": "Fix me up",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 6493
+      "UsersEstimate": 6494
     },
     {
       "ID": "WrappedBales",
@@ -26407,15 +26418,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 49949,
+      "Progressed": 49950,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
-  "LastChanged": "2023-10-15T03:58:23.8523873+00:00",
-  "LastChanged_Achievements": "2023-10-15T05:08:26.1711309+00:00",
+  "LastChanged": "2023-10-15T05:59:17.1575677+00:00",
+  "LastChanged_Achievements": "2023-10-15T06:08:13.2369743+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:17.6227562+00:00",
-  "LastUpdate_Ratings": "2023-10-15T04:59:21.9809351+00:00",
-  "LastUpdate_Achievements": "2023-10-15T05:08:26.1712738+00:00"
+  "LastUpdate_Ratings": "2023-10-15T05:59:17.1575687+00:00",
+  "LastUpdate_Achievements": "2023-10-15T06:08:13.2370758+00:00"
 }

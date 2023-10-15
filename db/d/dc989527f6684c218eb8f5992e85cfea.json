@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12583,
+  "EOS_Progressed": 12584,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 262,
+  "EOS_NewPlayers": 261,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12081,6 +12081,11 @@
       "Time": "2023-10-15T05:08:36.8243883+00:00",
       "NumProgressed": 12583,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-15T06:08:23.1349798+00:00",
+      "NumProgressed": 12584,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -12132,7 +12137,7 @@
       "Name": "Dal\u00ED",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ACH_EVERYONE_GUESSED_CORRECTLY_WITHIN_20_SECONDS_4_PLAYERS",
@@ -12172,7 +12177,7 @@
       "Name": "First words",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ACH_ONLY_ONE_TO_NOT_GUESS_CORRECTLY",
@@ -12291,14 +12296,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 12583,
+      "Progressed": 12584,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-10-15T05:08:36.8243877+00:00",
+  "LastChanged_Achievements": "2023-10-15T06:08:23.1349792+00:00",
   "LastUpdate_AppInfo": "2023-10-14T02:11:04.1756812+00:00",
-  "LastUpdate_Ratings": "2023-10-15T05:00:06.8414308+00:00",
-  "LastUpdate_Achievements": "2023-10-15T05:08:36.824535+00:00"
+  "LastUpdate_Ratings": "2023-10-15T06:00:02.9546088+00:00",
+  "LastUpdate_Achievements": "2023-10-15T06:08:23.1350488+00:00"
 }

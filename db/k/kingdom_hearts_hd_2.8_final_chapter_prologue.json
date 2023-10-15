@@ -2,13 +2,13 @@
   "ID": "c8ff067c1c984cd7ab1998e8a9afc8b6",
   "Name": "KINGDOM HEARTS HD 2.8 Final Chapter Prologue",
   "ProductSlug": "kingdom-hearts-hd-2-8-final-chapter-prologue",
-  "Ranking_Rating": 221,
-  "Ranking_Popularity": 314,
+  "Ranking_Rating": 203,
+  "Ranking_Popularity": 313,
   "Ranking_PopularitySum": 380,
   "Ranking_EOS_Progress": 670,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 391,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-03-30T13:00:00+00:00",
     "PcReleaseDate": "2021-03-30T13:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "TW"
     }
   },
-  "Rating": 4.69,
+  "Rating": 4.7,
   "NumberOfRatings": 213,
   "RatingHistory": [
     {
@@ -868,18 +868,24 @@
       "Rating": 4.69,
       "NumberOfAwards": 206,
       "NumberOfAwardsMax": 136
+    },
+    {
+      "Time": "2023-10-15T06:02:52.3571283+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 208,
+      "NumberOfAwardsMax": 138
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 206,
-  "NumberOfAwardsMax": 136,
+  "NumberOfAwards": 208,
+  "NumberOfAwardsMax": 138,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 136
+      "Count": 138
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -899,8 +905,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:38.0851075+00:00",
-  "LastChanged": "2023-10-14T05:59:49.5753313+00:00",
+  "LastChanged": "2023-10-15T06:02:52.3571281+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:48.3400578+00:00",
-  "LastUpdate_Ratings": "2023-10-15T05:03:00.1769894+00:00",
-  "LastUpdate_Achievements": "2023-10-15T05:06:00.6116635+00:00"
+  "LastUpdate_Ratings": "2023-10-15T06:02:52.3571286+00:00",
+  "LastUpdate_Achievements": "2023-10-15T06:05:56.2539952+00:00"
 }

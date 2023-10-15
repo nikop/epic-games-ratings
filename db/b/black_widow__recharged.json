@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
     "PcReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -158,7 +158,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18810,
+  "EOS_Progressed": 18812,
   "EOS_Completed": 56,
   "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 1,
@@ -14498,6 +14498,11 @@
       "Time": "2023-10-15T05:06:29.1254113+00:00",
       "NumProgressed": 18810,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-10-15T06:06:23.3480591+00:00",
+      "NumProgressed": 18812,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 14,
@@ -14509,7 +14514,7 @@
       "Name": "Across The Border",
       "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 14672
+      "UsersEstimate": 14673
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -14565,7 +14570,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 9969
+      "UsersEstimate": 9970
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -14581,7 +14586,7 @@
       "Name": "In My Own Time",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 2445
+      "UsersEstimate": 2446
     },
     {
       "ID": "ACH_LOOK_AT_ME_NOW",
@@ -14613,22 +14618,22 @@
       "Name": "Wild West Hero",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 2633
+      "UsersEstimate": 2634
     }
   ],
   "AchievementSets": [
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 18810,
+      "Progressed": 18812,
       "Completed": 56
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-10-11T19:57:53.043932+00:00",
-  "LastChanged_Achievements": "2023-10-15T05:06:29.1254108+00:00",
+  "LastChanged_Achievements": "2023-10-15T06:06:23.3480587+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:14.5085638+00:00",
-  "LastUpdate_Ratings": "2023-10-15T05:00:16.142629+00:00",
-  "LastUpdate_Achievements": "2023-10-15T05:06:29.1255065+00:00"
+  "LastUpdate_Ratings": "2023-10-15T06:00:11.8973144+00:00",
+  "LastUpdate_Achievements": "2023-10-15T06:06:23.3481316+00:00"
 }

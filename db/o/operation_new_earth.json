@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -56,7 +56,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1600,
+  "EOS_Progressed": 1601,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
@@ -5926,6 +5926,11 @@
       "Time": "2023-10-14T22:06:20.4009948+00:00",
       "NumProgressed": 1600,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-15T06:06:34.8302136+00:00",
+      "NumProgressed": 1601,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6063,9 +6068,9 @@
       "ID": "objective_hero_level_up_3",
       "SetID": "bm61c2p",
       "Name": "Lieutenant",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 160
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -6199,9 +6204,9 @@
       "ID": "objective_research_unlock_air_vehicle_tier_4",
       "SetID": "bm61c2p",
       "Name": "Advanced Interceptors",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "objective_research_unlock_ground_vehicle_tier_4",
@@ -6231,16 +6236,16 @@
       "ID": "objective_upgrade_dropships_2",
       "SetID": "bm61c2p",
       "Name": "Control the Skies",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 32
     }
   ],
   "AchievementSets": [
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1600,
+      "Progressed": 1601,
       "Completed": 1
     }
   ],
@@ -6248,8 +6253,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-10-15T05:06:41.2488538+00:00",
+  "LastChanged_Achievements": "2023-10-15T06:06:34.8302133+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:23.525424+00:00",
-  "LastUpdate_Ratings": "2023-10-15T05:00:53.9267991+00:00",
-  "LastUpdate_Achievements": "2023-10-15T05:06:41.2489365+00:00"
+  "LastUpdate_Ratings": "2023-10-15T06:00:47.2399077+00:00",
+  "LastUpdate_Achievements": "2023-10-15T06:06:34.8302631+00:00"
 }

@@ -254,8 +254,8 @@ Completed: 11 (0.29%) (Ranked 208)
 | 2023-10-13 | 3,734 | 11 |
 | 2023-10-14 | 3,741 | 11 |
 ## Awards
-Max (Great for Beginners): 21  (Ranked 524)  
-Sum: 21 (Ranked 525)  
+Max (Great for Beginners): 21  (Ranked 525)  
+Sum: 21 (Ranked 526)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |

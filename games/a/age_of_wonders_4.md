@@ -10,12 +10,12 @@ Rating: 4.60 (Ranked 398)
 | A Wonderful Discovery | 7.00% | ~365 |
 | Walls Cannot Stop Us | 7.00% | ~365 |
 | From Friends to Family | 7.00% | ~365 |
+| Magical Synergy | 7.00% | ~365 |
 | Tipping the Scales | 7.00% | ~365 |
 | There Can Only Be One! | 6.00% | ~313 |
 | Full Ascension | 6.00% | ~313 |
 | Bone Peddler | 6.00% | ~313 |
 | Stronger Together | 6.00% | ~313 |
-| Magical Synergy | 6.00% | ~313 |
 | My Final Form | 6.00% | ~313 |
 | Seat of Power | 6.00% | ~313 |
 | Intimidation Tactics | 6.00% | ~313 |

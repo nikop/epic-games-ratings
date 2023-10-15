@@ -1,20 +1,20 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.69 (Ranked 221)  
+Rating: 4.69 (Ranked 222)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,248 |
-| Until death do us apart | 4.00% | ~17,248 |
-| That is mine! | 3.00% | ~12,936 |
-| Victorious! | 3.00% | ~12,936 |
-| Brothers in Arms | 2.00% | ~8,624 |
-| Cold War | 2.00% | ~8,624 |
-| For the Glory | 2.00% | ~8,624 |
-| That's a Grand Navy | 2.00% | ~8,624 |
-| Seriously?! | 2.00% | ~8,624 |
+| That's a Grand Army | 4.00% | ~17,249 |
+| Until death do us apart | 4.00% | ~17,249 |
+| That is mine! | 3.00% | ~12,937 |
+| Victorious! | 3.00% | ~12,937 |
+| Brothers in Arms | 2.00% | ~8,625 |
+| Cold War | 2.00% | ~8,625 |
+| For the Glory | 2.00% | ~8,625 |
+| That's a Grand Navy | 2.00% | ~8,625 |
+| Seriously?! | 2.00% | ~8,625 |
 | Defender of the Faith | 1.00% | ~4,312 |
 | It's all about the money | 1.00% | ~4,312 |
 | Respected | 1.00% | ~4,312 |
@@ -26,7 +26,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Double the Love | 0.80% | ~3,450 |
 | Royal Authority | 0.80% | ~3,450 |
 | Total Control | 0.80% | ~3,450 |
-| My armies are invincible! | 0.70% | ~3,018 |
+| My armies are invincible! | 0.70% | ~3,019 |
 | Agressive Expander | 0.50% | ~2,156 |
 | Azur semé de lis or | 0.50% | ~2,156 |
 | City of Cities | 0.50% | ~2,156 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 431,210 (Ranked 40)  
+Progressed: 431,234 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -539,7 +539,7 @@ Completed: 1 (0.00%) (Ranked 314)
 | 2023-10-12 | 429,009 | 1 |
 | 2023-10-13 | 429,869 | 1 |
 | 2023-10-14 | 431,056 | 1 |
-| 2023-10-15 | 431,210 | 1 |
+| 2023-10-15 | 431,234 | 1 |
 ## Awards
 Max (Educational): 6,534  (Ranked 55)  
 Sum: 53,639 (Ranked 25)  

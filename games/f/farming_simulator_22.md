@@ -1,20 +1,20 @@
 # Farming Simulator 22
 [Store](https://store.epicgames.com/en-US/p/farming-simulator-22)  
 [View Rawdata](../../db/f/farming_simulator_22.json)  
-Rating: 4.69 (Ranked 221)  
+Rating: 4.69 (Ranked 222)  
 Number of Ratings: 7,683  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Own use | 75.00% | ~37,462 |
-| I read Shakespeare and stuff | 64.00% | ~31,967 |
+| I read Shakespeare and stuff | 64.00% | ~31,968 |
 | Just a sprinkle | 63.00% | ~31,468 |
-| I'm stumped | 61.00% | ~30,469 |
-| Plant get enough | 60.00% | ~29,969 |
-| This is just my weekend vehicle | 58.00% | ~28,970 |
-| It's just the beginning | 58.00% | ~28,970 |
-| Hard work pays off | 53.00% | ~26,473 |
-| It's never too late to farm | 50.00% | ~24,974 |
+| I'm stumped | 61.00% | ~30,470 |
+| Plant get enough | 60.00% | ~29,970 |
+| This is just my weekend vehicle | 58.00% | ~28,971 |
+| It's just the beginning | 58.00% | ~28,971 |
+| Hard work pays off | 53.00% | ~26,474 |
+| It's never too late to farm | 50.00% | ~24,975 |
 | All out of Land | 44.00% | ~21,978 |
 | Field Trip | 43.00% | ~21,478 |
 | I like to switch it up | 40.00% | ~19,980 |
@@ -29,12 +29,12 @@ Number of Ratings: 7,683  (23.09.2022)
 | Long haul | 16.00% | ~7,992 |
 | Clucky Streak | 15.00% | ~7,492 |
 | That's a wrap | 15.00% | ~7,492 |
-| Fix me up | 13.00% | ~6,493 |
+| Fix me up | 13.00% | ~6,494 |
 | Rock on | 12.00% | ~5,994 |
 | Highly cultivated | 11.00% | ~5,494 |
 | It's sow easy | 11.00% | ~5,494 |
 | Giddy-up! | 10.00% | ~4,995 |
-| Cowherd | 7.00% | ~3,496 |
+| Cowherd | 7.00% | ~3,497 |
 | Fluffyness | 6.00% | ~2,997 |
 | Road Trip | 6.00% | ~2,997 |
 | Helper A does not stop … ever | 6.00% | ~2,997 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~200 |
 | Raisin the stakes | 0.30% | ~150 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,949 (Ranked 102)  
+Progressed: 49,950 (Ranked 102)  
 Completed: 6 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,10 +228,10 @@ Completed: 6 (0.01%) (Ranked 296)
 | 2023-10-12 | 49,819 | 6 |
 | 2023-10-13 | 49,867 | 6 |
 | 2023-10-14 | 49,945 | 6 |
-| 2023-10-15 | 49,949 | 6 |
+| 2023-10-15 | 49,950 | 6 |
 ## Awards
 Max (Great for Beginners): 5,165  (Ranked 70)  
-Sum: 41,211 (Ranked 33)  
+Sum: 41,212 (Ranked 33)  
 Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
@@ -243,7 +243,7 @@ Diff (max vs sum): 37
 | This game is Highly Recommended | 4,094 |
 | This game is Extremely Fun | 4,056 |
 | This game has Amazing Storytelling | 3,954 |
-| This game has Amazing Characters | 3,584 |
+| This game has Amazing Characters | 3,585 |
 | This game has a Creative Community | 3,483 |
 | This game has Obsessive Gameplay | 2,386 |
 | This game has Easy Combat | 1,816 |
@@ -521,4 +521,4 @@ Diff (max vs sum): 37
 | 2023-10-12 | 4.69 | - | 5,153 | 41,122 |
 | 2023-10-13 | 4.69 | - | 5,158 | 41,162 |
 | 2023-10-14 | 4.69 | - | 5,165 | 41,186 |
-| 2023-10-15 | 4.69 | - | 5,165 | 41,211 |
+| 2023-10-15 | 4.69 | - | 5,165 | 41,212 |

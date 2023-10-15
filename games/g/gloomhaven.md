@@ -6,28 +6,28 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 44.00% | ~5,886 |
-| Overkill | 34.00% | ~4,548 |
-| A normal day in Gloomhaven | 34.00% | ~4,548 |
-| Vaccine Incoming | 33.00% | ~4,414 |
+| I'm not dead yet | 44.00% | ~5,887 |
+| Overkill | 34.00% | ~4,549 |
+| A normal day in Gloomhaven | 34.00% | ~4,549 |
+| Vaccine Incoming | 33.00% | ~4,415 |
 | Spread the plague | 31.00% | ~4,147 |
-| Get over here! | 24.00% | ~3,210 |
+| Get over here! | 24.00% | ~3,211 |
 | Just when I thought I was out... | 19.00% | ~2,542 |
 | Mine... All Mine... | 17.00% | ~2,274 |
-| Precious! | 16.00% | ~2,140 |
+| Precious! | 16.00% | ~2,141 |
 | Light of my life | 15.00% | ~2,007 |
 | Anatomy Lesson | 15.00% | ~2,007 |
 | Grizzled veteran | 13.00% | ~1,739 |
 | You activated my trap card! | 13.00% | ~1,739 |
 | Augmented rat | 13.00% | ~1,739 |
 | Obstacle race | 13.00% | ~1,739 |
-| Doom and gloom | 11.00% | ~1,471 |
+| Doom and gloom | 11.00% | ~1,472 |
 | Who's the Boss? | 8.00% | ~1,070 |
 | Pack leader | 8.00% | ~1,070 |
 | Pain is your friend | 8.00% | ~1,070 |
 | Black death | 8.00% | ~1,070 |
 | Play it again, Sam | 8.00% | ~1,070 |
-| Dungeon Veteran | 7.00% | ~936 |
+| Dungeon Veteran | 7.00% | ~937 |
 | Quad damage | 6.00% | ~803 |
 | Power Up! | 5.00% | ~669 |
 | Pretty lights! | 5.00% | ~669 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~13 |
 | Murder Death Kill | 0.10% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,377 (Ranked 140)  
+Progressed: 13,379 (Ranked 140)  
 Completed: 1 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 1 (0.01%) (Ranked 296)
 | 2023-10-12 | 12,652 | 1 |
 | 2023-10-13 | 12,946 | 1 |
 | 2023-10-14 | 13,296 | 1 |
-| 2023-10-15 | 13,377 | 1 |
+| 2023-10-15 | 13,379 | 1 |
 ## Awards
 Max (Character Customization): 3,552  (Ranked 90)  
 Sum: 8,289 (Ranked 98)  

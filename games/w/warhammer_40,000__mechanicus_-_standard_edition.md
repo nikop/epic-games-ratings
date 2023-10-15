@@ -1,24 +1,24 @@
 # Warhammer 40,000: Mechanicus - Standard Edition
 [Store](https://store.epicgames.com/en-US/p/warhammer-mechanicus-0e4b71)  
 [View Rawdata](../../db/w/warhammer_40,000__mechanicus_-_standard_edition.json)  
-Rating: 4.43 (Ranked 673)  
+Rating: 4.43 (Ranked 674)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~58,443 |
-| This is only the beginning | 19.00% | ~42,708 |
-| Knowledge is power | 12.00% | ~26,973 |
+| No aid from the Omnissiah | 26.00% | ~58,444 |
+| This is only the beginning | 19.00% | ~42,709 |
+| Knowledge is power | 12.00% | ~26,974 |
 | Galvanic Rifle | 10.00% | ~22,478 |
-| Power Ranger | 9.00% | ~20,230 |
-| Taser Goad | 9.00% | ~20,230 |
-| Radium Ready | 9.00% | ~20,230 |
-| Half a cog | 9.00% | ~20,230 |
+| Power Ranger | 9.00% | ~20,231 |
+| Taser Goad | 9.00% | ~20,231 |
+| Radium Ready | 9.00% | ~20,231 |
+| Half a cog | 9.00% | ~20,231 |
 | Watch them crumble | 6.00% | ~13,487 |
 | Competent Cohort | 4.00% | ~8,991 |
 | Celestial Cartography Catastrophe | 4.00% | ~8,991 |
 | One with the Machine | 4.00% | ~8,991 |
-| Legio Cybernetica | 3.00% | ~6,743 |
-| Fleshy Disposal | 3.00% | ~6,743 |
+| Legio Cybernetica | 3.00% | ~6,744 |
+| Fleshy Disposal | 3.00% | ~6,744 |
 | Battle Servitor | 2.00% | ~4,496 |
 | Ding Dong Szaregon's Gone | 2.00% | ~4,496 |
 | Impatient destruction | 2.00% | ~4,496 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 673)
 | Perma-live | 0.10% | ~225 |
 | Purge the Heretek | 0.10% | ~225 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,779 (Ranked 62)  
+Progressed: 224,784 (Ranked 62)  
 Completed: 5 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,7 +218,7 @@ Completed: 5 (0.00%) (Ranked 314)
 | 2023-10-12 | 224,582 | 5 |
 | 2023-10-13 | 224,666 | 5 |
 | 2023-10-14 | 224,760 | 5 |
-| 2023-10-15 | 224,779 | 5 |
+| 2023-10-15 | 224,784 | 5 |
 ## Awards
 Max (Highly Recommended): 286  (Ranked 247)  
 Sum: 2,168 (Ranked 198)  
