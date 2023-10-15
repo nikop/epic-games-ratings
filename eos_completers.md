@@ -2,7 +2,7 @@
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 1 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 100.00% |
-| 3 | [The Riflemen](games/t/the_riflemen.md) | 49.08% |
+| 3 | [The Riflemen](games/t/the_riflemen.md) | 49.04% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.15% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.99% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
@@ -76,8 +76,8 @@
 | 74 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
 | 75 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.69% |
 | 76 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
-| 76 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.57% |
-| 78 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.55% |
+| 77 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.55% |
+| 78 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.51% |
 | 79 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 80 | [The Bunker](games/t/the_bunker.md) | 3.39% |
 | 81 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.36% |
@@ -109,7 +109,7 @@
 | 107 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.31% |
 | 108 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.22% |
 | 109 | [Bloodshore](games/b/bloodshore.md) | 2.14% |
-| 110 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.05% |
+| 110 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.04% |
 | 111 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.97% |
 | 112 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.96% |
 | 113 | [Night Book](games/n/night_book.md) | 1.84% |
@@ -121,10 +121,10 @@
 | 118 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 1.79% |
 | 120 | [Somerville](games/s/somerville.md) | 1.70% |
 | 121 | [Five Dates](games/f/five_dates.md) | 1.60% |
-| 122 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.49% |
-| 123 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
-| 124 | [Iron Danger](games/i/iron_danger.md) | 1.44% |
-| 125 | [Late Shift](games/l/late_shift.md) | 1.40% |
+| 121 | [Late Shift](games/l/late_shift.md) | 1.60% |
+| 123 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.49% |
+| 124 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
+| 125 | [Iron Danger](games/i/iron_danger.md) | 1.44% |
 | 126 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.38% |
 | 126 | [Poosh XL](games/p/poosh_xl.md) | 1.38% |
 | 126 | [Ten Dates](games/t/ten_dates.md) | 1.38% |
@@ -140,7 +140,7 @@
 | 138 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.13% |
 | 139 | [Trifox](games/t/trifox.md) | 1.09% |
 | 140 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 1.08% |
-| 140 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.08% |
+| 141 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.07% |
 | 142 | [Adios](games/a/adios.md) | 1.05% |
 | 142 | [Infindustry](games/i/infindustry.md) | 1.05% |
 | 142 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.05% |
@@ -157,8 +157,8 @@
 | 155 | [Eternights](games/e/eternights.md) | 0.74% |
 | 156 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.72% |
 | 156 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.72% |
-| 158 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.71% |
-| 159 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.69% |
+| 156 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.72% |
+| 159 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.71% |
 | 160 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.66% |
 | 161 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.64% |
 | 162 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
@@ -260,10 +260,10 @@
 | 253 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
 | 259 | [ATOM RPG](games/a/atom_rpg.md) | 0.08% |
 | 259 | [Black Book](games/b/black_book.md) | 0.08% |
-| 261 | [Partisans 1941](games/p/partisans_1941.md) | 0.07% |
-| 261 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.07% |
-| 261 | [Saints Row](games/s/saints_row.md) | 0.07% |
-| 261 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
+| 259 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.08% |
+| 262 | [Partisans 1941](games/p/partisans_1941.md) | 0.07% |
+| 262 | [Saints Row](games/s/saints_row.md) | 0.07% |
+| 262 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
 | 265 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.06% |
 | 265 | [Operation New Earth](games/o/operation_new_earth.md) | 0.06% |
 | 265 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
