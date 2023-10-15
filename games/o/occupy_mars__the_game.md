@@ -5,7 +5,7 @@ Rating: 3.98 (Ranked 972)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I don't feel so good | 41.00% | ~683 |
+| I don't feel so good | 42.00% | ~700 |
 | Electrician | 34.00% | ~566 |
 | Fear my botany powers, Mars | 33.00% | ~550 |
 | Zero Waste | 30.00% | ~500 |

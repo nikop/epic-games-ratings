@@ -6,35 +6,35 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 2.00% | ~18,819 |
-| It wakes | 2.00% | ~18,819 |
-| Skillful | 2.00% | ~18,819 |
-| The Grand Sacrifice | 1.00% | ~9,409 |
-| No one left behind | 1.00% | ~9,409 |
-| Medic | 1.00% | ~9,409 |
-| Handyman | 1.00% | ~9,409 |
-| Perfect Escape | 1.00% | ~9,409 |
-| Not half bad | 1.00% | ~9,409 |
-| Bloody Millionaire | 1.00% | ~9,409 |
-| Apt Survivor | 1.00% | ~9,409 |
-| Survival Treasures | 1.00% | ~9,409 |
-| I | 1.00% | ~9,409 |
-| Sorted | 1.00% | ~9,409 |
-| Healthy Obsession | 1.00% | ~9,409 |
-| Resurgence | 1.00% | ~9,409 |
-| Preemptive Strike | 1.00% | ~9,409 |
-| Humanitarian | 1.00% | ~9,409 |
-| Make Some Noise | 1.00% | ~9,409 |
-| Agonizing Escape | 0.90% | ~8,468 |
-| Backdoor Escape | 0.90% | ~8,468 |
-| I've got your back | 0.90% | ~8,468 |
-| Nerves of steel | 0.90% | ~8,468 |
-| Engineer | 0.90% | ~8,468 |
-| Perfect Killing | 0.80% | ~7,527 |
-| Risk it all | 0.80% | ~7,527 |
-| II | 0.80% | ~7,527 |
-| Wounded Healer | 0.80% | ~7,527 |
-| Close Shave | 0.80% | ~7,527 |
+| Zealous | 2.00% | ~18,821 |
+| It wakes | 2.00% | ~18,821 |
+| Skillful | 2.00% | ~18,821 |
+| The Grand Sacrifice | 1.00% | ~9,411 |
+| No one left behind | 1.00% | ~9,411 |
+| Medic | 1.00% | ~9,411 |
+| Handyman | 1.00% | ~9,411 |
+| Perfect Escape | 1.00% | ~9,411 |
+| Not half bad | 1.00% | ~9,411 |
+| Bloody Millionaire | 1.00% | ~9,411 |
+| Apt Survivor | 1.00% | ~9,411 |
+| Survival Treasures | 1.00% | ~9,411 |
+| I | 1.00% | ~9,411 |
+| Sorted | 1.00% | ~9,411 |
+| Healthy Obsession | 1.00% | ~9,411 |
+| Resurgence | 1.00% | ~9,411 |
+| Preemptive Strike | 1.00% | ~9,411 |
+| Humanitarian | 1.00% | ~9,411 |
+| Make Some Noise | 1.00% | ~9,411 |
+| Agonizing Escape | 0.90% | ~8,470 |
+| Backdoor Escape | 0.90% | ~8,470 |
+| I've got your back | 0.90% | ~8,470 |
+| Nerves of steel | 0.90% | ~8,470 |
+| Engineer | 0.90% | ~8,470 |
+| Perfect Killing | 0.80% | ~7,529 |
+| Risk it all | 0.80% | ~7,529 |
+| II | 0.80% | ~7,529 |
+| Wounded Healer | 0.80% | ~7,529 |
+| Close Shave | 0.80% | ~7,529 |
 | Apt Killer | 0.70% | ~6,587 |
 | Vulture | 0.70% | ~6,587 |
 | Second Act | 0.70% | ~6,587 |
@@ -47,6 +47,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Escape Artist | 0.50% | ~4,705 |
 | Made it out alive! | 0.50% | ~4,705 |
 | III-50 | 0.50% | ~4,705 |
+| All Aboard | 0.50% | ~4,705 |
 | Item of Obsession | 0.50% | ~4,705 |
 | Holiday Get-Together | 0.50% | ~4,705 |
 | Near-Death Experience | 0.50% | ~4,705 |
@@ -64,7 +65,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | A bite for the Entity | 0.40% | ~3,764 |
 | Gifts for the Fog | 0.40% | ~3,764 |
 | Shock Therapy | 0.40% | ~3,764 |
-| All Aboard | 0.40% | ~3,764 |
 | Leapfrog | 0.40% | ~3,764 |
 | House of Pain | 0.40% | ~3,764 |
 | Cottage Owner | 0.40% | ~3,764 |
@@ -73,7 +73,9 @@ Number of Ratings: 70,340  (23.09.2022)
 | Ancestor's Rite | 0.40% | ~3,764 |
 | Outrun Evil | 0.40% | ~3,764 |
 | Grim Pilgrimage | 0.40% | ~3,764 |
+| Selfless Survival | 0.40% | ~3,764 |
 | Lifting The Fog | 0.40% | ~3,764 |
+| Extraterrestrial | 0.40% | ~3,764 |
 | MU/TH/UR Dearest | 0.40% | ~3,764 |
 | Blood on your face | 0.30% | ~2,823 |
 | Jump Scares | 0.30% | ~2,823 |
@@ -86,12 +88,10 @@ Number of Ratings: 70,340  (23.09.2022)
 | Devoted Gatekeeping | 0.30% | ~2,823 |
 | Shrine Apparatus | 0.30% | ~2,823 |
 | Broken Bodies | 0.30% | ~2,823 |
-| Selfless Survival | 0.30% | ~2,823 |
 | End of Days | 0.30% | ~2,823 |
 | Insult and Injury | 0.30% | ~2,823 |
 | Outrun the Overlap | 0.30% | ~2,823 |
 | Complete the Evolution | 0.30% | ~2,823 |
-| Extraterrestrial | 0.30% | ~2,823 |
 | Kitted Out | 0.30% | ~2,823 |
 | Blood in your mouth | 0.20% | ~1,882 |
 | Looter | 0.20% | ~1,882 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~941 |
 | Adept Ripley | 0.10% | ~941 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 940,933 (Ranked 14)  
+Progressed: 941,071 (Ranked 14)  
 Completed: 50 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -414,7 +414,7 @@ Completed: 50 (0.01%) (Ranked 296)
 | 2023-10-12 | 934,954 | 50 |
 | 2023-10-13 | 937,037 | 50 |
 | 2023-10-14 | 939,759 | 50 |
-| 2023-10-15 | 940,933 | 50 |
+| 2023-10-15 | 941,071 | 50 |
 ## Awards
 Max (Diverse Characters): 33,934  (Ranked 15)  
 Sum: 262,427 (Ranked 13)  

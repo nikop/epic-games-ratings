@@ -46,12 +46,12 @@ Rating: 4.05 (Ranked 957)
 | Master of Malachite | 2.00% | ~2 |
 | Tip of the Spear | 2.00% | ~2 |
 | Backtracker | 2.00% | ~2 |
+| Family Business | 1.00% | ~1 |
+| Diplomat | 1.00% | ~1 |
+| Petite Bourgeoisie | 1.00% | ~1 |
 | Witch-Taker | 1.00% | ~1 |
+| Out of Time | 1.00% | ~1 |
 | Fowl Play | 1.00% | ~1 |
-| Family Business | 0.00% | ~0 |
-| Diplomat | 0.00% | ~0 |
-| Petite Bourgeoisie | 0.00% | ~0 |
-| Out of Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 87 (Ranked 401)  
 Completed: 0 (0.00%) (Ranked 314)  

@@ -5,10 +5,10 @@ Rating: 4.06 (Ranked 950)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,894 |
-| World Map | 79.00% | ~1,609 |
-| Temple of Eternals | 57.00% | ~1,161 |
-| Prestigious | 54.00% | ~1,100 |
+| Victor | 93.00% | ~1,895 |
+| World Map | 79.00% | ~1,610 |
+| Temple of Eternals | 57.00% | ~1,162 |
+| Prestigious | 54.00% | ~1,101 |
 | Fellowship Power | 42.00% | ~856 |
 | Guild Power | 26.00% | ~530 |
 | Prestigious x10 | 23.00% | ~469 |
@@ -27,8 +27,8 @@ Rating: 4.06 (Ranked 950)
 | Superior | 14.00% | ~285 |
 | The Unstoppable | 14.00% | ~285 |
 | Milestone collector | 13.00% | ~265 |
-| Scientist | 12.00% | ~244 |
-| The power of Awakening | 12.00% | ~244 |
+| Scientist | 13.00% | ~265 |
+| The power of Awakening | 12.00% | ~245 |
 | Challenger | 11.00% | ~224 |
 | Daily Quest Completionist | 11.00% | ~224 |
 | Doing My Part | 11.00% | ~224 |
@@ -61,7 +61,7 @@ Rating: 4.06 (Ranked 950)
 | Arena Challenger | 5.00% | ~102 |
 | Background Story | 5.00% | ~102 |
 | Ebony Jungle Liberator | 5.00% | ~102 |
-| What lies behind the bush | 4.00% | ~81 |
+| What lies behind the bush | 4.00% | ~82 |
 | Gear Enchanting | 3.00% | ~61 |
 | Mythic Power | 3.00% | ~61 |
 | Cauldron Liberator | 2.00% | ~41 |
@@ -81,7 +81,7 @@ Rating: 4.06 (Ranked 950)
 | War Machines Army | 0.20% | ~4 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,037 (Ranked 204)  
+Progressed: 2,038 (Ranked 204)  
 Completed: 2 (0.10%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,11 +255,11 @@ Completed: 2 (0.10%) (Ranked 246)
 | 2023-10-12 | 2,018 | 2 |
 | 2023-10-13 | 2,027 | 2 |
 | 2023-10-14 | 2,035 | 2 |
-| 2023-10-15 | 2,037 | 2 |
+| 2023-10-15 | 2,038 | 2 |
 ## Awards
-Max (Great for Beginners): 27  (Ranked 490)  
+Max (Great for Beginners): 27  (Ranked 491)  
 Sum: 71 (Ranked 453)  
-Diff (max vs sum): 37  
+Diff (max vs sum): 38  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 27 |

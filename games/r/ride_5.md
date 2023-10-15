@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Love | 42.00% | ~623 |
-| Eat My Dust | 41.00% | ~608 |
-| Clean Race | 40.00% | ~593 |
+| First Love | 42.00% | ~624 |
+| Eat My Dust | 41.00% | ~609 |
+| Clean Race | 40.00% | ~594 |
 | Hear That Roar! | 38.00% | ~564 |
-| Rivals to the End | 28.00% | ~415 |
+| Rivals to the End | 28.00% | ~416 |
 | Bitter Rivalry | 25.00% | ~371 |
 | We're Going to Need a Bigger Garage | 24.00% | ~356 |
-| Champagne Spray | 22.00% | ~326 |
+| Champagne Spray | 22.00% | ~327 |
 | I Want One Too! | 19.00% | ~282 |
 | Restored and Ready | 18.00% | ~267 |
 | Legendary!!! | 18.00% | ~267 |
 | Quick Pit Stop | 18.00% | ~267 |
 | I'm Here Too! | 18.00% | ~267 |
-| Go-Faster Stripes | 16.00% | ~237 |
-| We've Just Begun | 9.00% | ~133 |
+| Go-Faster Stripes | 16.00% | ~238 |
+| We've Just Begun | 9.00% | ~134 |
 | Stamina Star | 8.00% | ~119 |
 | Is It the Right Size? | 7.00% | ~104 |
 | Evangelist | 6.00% | ~89 |
 | Make It Your Own! | 5.00% | ~74 |
 | The Road to Liberty | 4.00% | ~59 |
 | I Make the Rules! | 4.00% | ~59 |
-| Cherry Blossom and Temples | 3.00% | ~44 |
-| La Dolce Vita | 3.00% | ~44 |
-| Romantic Races | 3.00% | ~44 |
+| Cherry Blossom and Temples | 3.00% | ~45 |
+| La Dolce Vita | 3.00% | ~45 |
+| Romantic Races | 3.00% | ~45 |
 | Iconic! | 2.00% | ~30 |
 | Spoilt for Choice | 2.00% | ~30 |
 | Back in Blighty | 2.00% | ~30 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,483 (Ranked 220)  
+Progressed: 1,485 (Ranked 220)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,4 +98,4 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-10-12 | 1,444 | 0 |
 | 2023-10-13 | 1,457 | 0 |
 | 2023-10-14 | 1,475 | 0 |
-| 2023-10-15 | 1,483 | 0 |
+| 2023-10-15 | 1,485 | 0 |

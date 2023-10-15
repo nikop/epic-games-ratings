@@ -37,8 +37,8 @@
 | Brilliant: Tanglewood | 54.00% | ~93 |
 | Starry: Holy Mountain | 53.00% | ~91 |
 | It's a Trap | 53.00% | ~91 |
+| Deposition | 50.00% | ~86 |
 | Brilliant: Arcania | 50.00% | ~86 |
-| Deposition | 49.00% | ~84 |
 | Starry: Tanglewood | 47.00% | ~81 |
 | Starry: Arcania | 44.00% | ~76 |
 | Sing, My Angel | 42.00% | ~72 |
@@ -49,9 +49,9 @@
 | Father of Nation | 34.00% | ~58 |
 | Dwarven Countdown | 30.00% | ~52 |
 | Starry: Wasteland | 29.00% | ~50 |
+| Monument Keeper | 28.00% | ~48 |
 | Brilliant: Free Coast | 27.00% | ~46 |
 | Deadman's Chest | 27.00% | ~46 |
-| Monument Keeper | 27.00% | ~46 |
 | Brilliant: The Deep | 24.00% | ~41 |
 | Starry: Free Coast | 24.00% | ~41 |
 | Starry: The Deep | 22.00% | ~38 |

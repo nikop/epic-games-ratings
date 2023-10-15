@@ -6,13 +6,13 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Hunt | 1.00% | ~1,523 |
-| Taste | 1.00% | ~1,523 |
-| Weeper | 1.00% | ~1,523 |
-| Imprint | 1.00% | ~1,523 |
-| Ravenous | 1.00% | ~1,523 |
-| Silenced Whispers | 0.70% | ~1,066 |
-| Devourer | 0.70% | ~1,066 |
+| The Hunt | 1.00% | ~1,524 |
+| Taste | 1.00% | ~1,524 |
+| Weeper | 1.00% | ~1,524 |
+| Imprint | 1.00% | ~1,524 |
+| Ravenous | 1.00% | ~1,524 |
+| Silenced Whispers | 0.70% | ~1,067 |
+| Devourer | 0.70% | ~1,067 |
 | Harmless | 0.60% | ~914 |
 | Scion | 0.50% | ~760 |
 | Jawcrab | 0.50% | ~762 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~152 |
 | Intensify | 0.10% | ~152 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 152,344 (Ranked 71)  
+Progressed: 152,365 (Ranked 71)  
 Completed: 1 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,15 +208,15 @@ Completed: 1 (0.00%) (Ranked 314)
 | 2023-10-12 | 151,679 | 1 |
 | 2023-10-13 | 151,932 | 1 |
 | 2023-10-14 | 152,214 | 1 |
-| 2023-10-15 | 152,344 | 1 |
+| 2023-10-15 | 152,365 | 1 |
 ## Awards
 Max (Highly Recommended): 44  (Ranked 434)  
-Sum: 287 (Ranked 354)  
-Diff (max vs sum): 80  
+Sum: 288 (Ranked 353)  
+Diff (max vs sum): 81  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 44 |
-| This game has Quickly Understood Controls | 41 |
+| This game has Quickly Understood Controls | 42 |
 | This game has Unique Visuals | 40 |
 | This game has Challenging Combat | 38 |
 | This game is Extremely Fun | 35 |
@@ -340,3 +340,4 @@ Diff (max vs sum): 80
 | 2023-10-12 | 4.59 | - | 42 | 280 |
 | 2023-10-13 | 4.59 | - | 44 | 283 |
 | 2023-10-14 | 4.59 | - | 44 | 287 |
+| 2023-10-15 | 4.59 | - | 44 | 288 |

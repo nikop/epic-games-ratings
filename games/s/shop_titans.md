@@ -6,10 +6,10 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 3.00% | ~4,129 |
-| Basic in Bulk | 3.00% | ~4,129 |
-| Tinkle of Coins | 3.00% | ~4,129 |
-| Titan's First Steps | 3.00% | ~4,129 |
+| Sponsored by Argon | 3.00% | ~4,130 |
+| Basic in Bulk | 3.00% | ~4,130 |
+| Tinkle of Coins | 3.00% | ~4,130 |
+| Titan's First Steps | 3.00% | ~4,130 |
 | One Easy Payment | 2.00% | ~2,753 |
 | Some Assembly Required | 2.00% | ~2,753 |
 | Disintermediation | 2.00% | ~2,753 |
@@ -19,18 +19,18 @@ Number of Ratings: 12,664  (23.09.2022)
 | Budding Merchant | 2.00% | ~2,753 |
 | Capitalism Ho! | 2.00% | ~2,753 |
 | Own the Means of Production | 2.00% | ~2,753 |
-| The Daily Grind | 1.00% | ~1,376 |
-| Bounty Hunters | 1.00% | ~1,376 |
-| Demand for Supplies | 1.00% | ~1,376 |
-| Flooding the Market | 1.00% | ~1,376 |
-| Where it Hurts | 1.00% | ~1,376 |
-| Gild-Gotten Goods | 1.00% | ~1,376 |
-| One-Armed Bandit | 1.00% | ~1,376 |
-| Accomplished Merchant | 1.00% | ~1,376 |
-| Dungeon Imports | 1.00% | ~1,376 |
-| Through Repetition, Perfection | 1.00% | ~1,376 |
-| Did we pack lunch? | 1.00% | ~1,376 |
-| Arcane Industries | 1.00% | ~1,376 |
+| The Daily Grind | 1.00% | ~1,377 |
+| Bounty Hunters | 1.00% | ~1,377 |
+| Demand for Supplies | 1.00% | ~1,377 |
+| Flooding the Market | 1.00% | ~1,377 |
+| Where it Hurts | 1.00% | ~1,377 |
+| Gild-Gotten Goods | 1.00% | ~1,377 |
+| One-Armed Bandit | 1.00% | ~1,377 |
+| Accomplished Merchant | 1.00% | ~1,377 |
+| Dungeon Imports | 1.00% | ~1,377 |
+| Through Repetition, Perfection | 1.00% | ~1,377 |
+| Did we pack lunch? | 1.00% | ~1,377 |
+| Arcane Industries | 1.00% | ~1,377 |
 | On the Path to Greatness | 0.90% | ~1,239 |
 | Ascended | 0.90% | ~1,239 |
 | Vanity, Verily | 0.90% | ~1,239 |
@@ -79,6 +79,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Master Merchant | 0.60% | ~826 |
 | Miracle Alchemist | 0.60% | ~826 |
 | Laden with Loot | 0.60% | ~826 |
+| Precision Engineering | 0.60% | ~826 |
 | Scourge of the Seas | 0.60% | ~826 |
 | Attrition Mission | 0.60% | ~826 |
 | Glittering Collection | 0.60% | ~826 |
@@ -97,7 +98,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | By Your Powers Combined... | 0.50% | ~688 |
 | A Legend is Born | 0.50% | ~688 |
 | Bountiful Harvest | 0.50% | ~688 |
-| Precision Engineering | 0.50% | ~688 |
 | King's Shadow | 0.50% | ~688 |
 | Economy of Scarce | 0.50% | ~688 |
 | The Free Encyclopedia | 0.40% | ~551 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,647 (Ranked 73)  
+Progressed: 137,651 (Ranked 73)  
 Completed: 168 (0.12%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,14 +297,14 @@ Completed: 168 (0.12%) (Ranked 241)
 | 2023-10-12 | 137,496 | 168 |
 | 2023-10-13 | 137,555 | 168 |
 | 2023-10-14 | 137,618 | 168 |
-| 2023-10-15 | 137,647 | 168 |
+| 2023-10-15 | 137,651 | 168 |
 ## Awards
-Max (Great for Beginners): 4,785  (Ranked 72)  
-Sum: 27,381 (Ranked 50)  
+Max (Great for Beginners): 4,787  (Ranked 72)  
+Sum: 27,383 (Ranked 50)  
 Diff (max vs sum): 22  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,785 |
+| This game is Great for Beginners | 4,787 |
 | This game is Relaxing | 4,024 |
 | This game has Quickly Understood Controls | 4,013 |
 | This game has Diverse Characters | 3,912 |
@@ -574,4 +574,4 @@ Diff (max vs sum): 22
 | 2023-10-11 | 3.99 | - | 4,779 | 27,370 |
 | 2023-10-12 | 3.99 | - | 4,782 | 27,374 |
 | 2023-10-13 | 3.99 | - | 4,785 | 27,380 |
-| 2023-10-15 | 3.99 | - | 4,785 | 27,381 |
+| 2023-10-15 | 3.99 | - | 4,787 | 27,383 |

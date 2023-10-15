@@ -22,14 +22,14 @@
 | A very special drink | 36.00% | ~20 |
 | NOW GO AWAY! | 36.00% | ~20 |
 | Show me your true self | 34.00% | ~19 |
+| Shattered | 34.00% | ~19 |
 | No posters allowed | 34.00% | ~19 |
 | Little genius | 34.00% | ~19 |
-| Shattered | 32.00% | ~18 |
 | GG | 32.00% | ~18 |
 | You've got mail! | 32.00% | ~18 |
+| Memories | 30.00% | ~17 |
 | Mischief maker | 30.00% | ~17 |
 | Close the deal | 29.00% | ~16 |
-| Memories | 29.00% | ~16 |
 | Beekeeper | 29.00% | ~16 |
 | Ring-a-ding-ding | 29.00% | ~16 |
 | Pain in the hands | 29.00% | ~16 |

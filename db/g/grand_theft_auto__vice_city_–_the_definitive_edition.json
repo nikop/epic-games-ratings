@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 434,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -760,9 +760,9 @@
       "Count": 95
     }
   ],
-  "EOS_Progressed": 10608,
+  "EOS_Progressed": 10609,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -11415,6 +11415,11 @@
       "Time": "2023-10-15T08:07:51.8746938+00:00",
       "NumProgressed": 10608,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-10-15T13:11:23.3399677+00:00",
+      "NumProgressed": 10609,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 34,
@@ -11514,7 +11519,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "ACH13",
@@ -11530,7 +11535,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4455
+      "UsersEstimate": 4456
     },
     {
       "ID": "ACH15",
@@ -11697,7 +11702,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10608,
+      "Progressed": 10609,
       "Completed": 60
     }
   ],
@@ -11705,8 +11710,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-10-10T09:59:23.5158922+00:00",
-  "LastChanged_Achievements": "2023-10-15T12:09:09.1933768+00:00",
+  "LastChanged_Achievements": "2023-10-15T13:11:23.3399669+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:56.7423853+00:00",
-  "LastUpdate_Ratings": "2023-10-15T11:57:25.3741023+00:00",
-  "LastUpdate_Achievements": "2023-10-15T12:09:09.1934922+00:00"
+  "LastUpdate_Ratings": "2023-10-15T12:59:38.8985223+00:00",
+  "LastUpdate_Achievements": "2023-10-15T13:11:23.3400764+00:00"
 }

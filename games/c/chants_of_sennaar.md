@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Welcome to the Tower | 13.00% | ~38 |
 | That's the spirit | 12.00% | ~35 |
-| Welcome to the Tower | 12.00% | ~35 |
 | The great escape | 11.00% | ~32 |
 | The Preacher's fate | 10.00% | ~29 |
 | A new dawn | 9.00% | ~26 |
@@ -20,14 +20,14 @@
 | One last step | 7.00% | ~21 |
 | A good beginning | 6.00% | ~18 |
 | Feels like springtime | 6.00% | ~18 |
+| Alchemists Express | 6.00% | ~18 |
 | Champollion | 6.00% | ~18 |
 | Open door | 5.00% | ~15 |
-| Alchemists Express | 5.00% | ~15 |
 | Rascal | 5.00% | ~15 |
 | Free at last | 4.00% | ~12 |
 | For its own good | 4.00% | ~12 |
 | A Link to the Past | 4.00% | ~12 |
-| A great audience | 2.00% | ~6 |
+| A great audience | 3.00% | ~9 |
 | Fashion victim | 1.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 294 (Ranked 313)  

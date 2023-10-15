@@ -781,7 +781,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 42771,
+  "EOS_Progressed": 42776,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 809,
   "EOS_NewCompleters": 0,
@@ -20766,6 +20766,11 @@
       "Time": "2023-10-15T12:05:23.4954015+00:00",
       "NumProgressed": 42771,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-15T13:07:40.1745257+00:00",
+      "NumProgressed": 42776,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -20809,7 +20814,7 @@
       "Name": "Explorer",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 855
+      "UsersEstimate": 856
     },
     {
       "ID": "goals10",
@@ -20817,7 +20822,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 11548
+      "UsersEstimate": 11550
     },
     {
       "ID": "goals180",
@@ -20833,7 +20838,7 @@
       "Name": "Amateur",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4277
+      "UsersEstimate": 4278
     },
     {
       "ID": "goals75",
@@ -20841,7 +20846,7 @@
       "Name": "Pro",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 855
+      "UsersEstimate": 856
     },
     {
       "ID": "hoistthemainsail",
@@ -20857,7 +20862,7 @@
       "Name": "Aviator",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2566
+      "UsersEstimate": 2567
     },
     {
       "ID": "journeyer",
@@ -20897,7 +20902,7 @@
       "Name": "Nomad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7271
+      "UsersEstimate": 7272
     },
     {
       "ID": "novice",
@@ -20905,7 +20910,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 6843
+      "UsersEstimate": 6844
     },
     {
       "ID": "playerFelipe",
@@ -20921,7 +20926,7 @@
       "Name": "Unlock Izel",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 855
+      "UsersEstimate": 856
     },
     {
       "ID": "playerMaya",
@@ -20985,7 +20990,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 11120
+      "UsersEstimate": 11122
     },
     {
       "ID": "sandboarder",
@@ -21017,7 +21022,7 @@
       "Name": "Here Comes Felipe",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 855
+      "UsersEstimate": 856
     },
     {
       "ID": "unlockfinal",
@@ -21088,15 +21093,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 42771,
+      "Progressed": 42776,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-10-12T08:00:34.9108004+00:00",
-  "LastChanged_Achievements": "2023-10-15T12:05:23.4954008+00:00",
+  "LastChanged_Achievements": "2023-10-15T13:07:40.174525+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:17.6286578+00:00",
-  "LastUpdate_Ratings": "2023-10-15T12:03:12.7722717+00:00",
-  "LastUpdate_Achievements": "2023-10-15T12:05:23.495663+00:00"
+  "LastUpdate_Ratings": "2023-10-15T13:05:31.9906275+00:00",
+  "LastUpdate_Achievements": "2023-10-15T13:07:40.174688+00:00"
 }

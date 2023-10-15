@@ -755,9 +755,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4136,
+  "EOS_Progressed": 4137,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 227,
+  "EOS_NewPlayers": 225,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7420,6 +7420,11 @@
       "Time": "2023-10-15T10:09:14.8566369+00:00",
       "NumProgressed": 4136,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-15T13:11:37.4385884+00:00",
+      "NumProgressed": 4137,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -7488,7 +7493,7 @@
       "Name": "First Strike",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -7615,15 +7620,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4136,
+      "Progressed": 4137,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-14T13:04:06.5278861+00:00",
-  "LastChanged_Achievements": "2023-10-15T12:09:23.3923405+00:00",
+  "LastChanged_Achievements": "2023-10-15T13:11:37.4385876+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:04.1779972+00:00",
-  "LastUpdate_Ratings": "2023-10-15T11:57:35.6341754+00:00",
-  "LastUpdate_Achievements": "2023-10-15T12:09:23.3924026+00:00"
+  "LastUpdate_Ratings": "2023-10-15T12:59:51.3202579+00:00",
+  "LastUpdate_Achievements": "2023-10-15T13:11:37.4386633+00:00"
 }

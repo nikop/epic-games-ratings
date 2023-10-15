@@ -6,65 +6,65 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~370,544 |
-| Now You're Talking | 62.00% | ~328,196 |
-| Steel Yourself | 62.00% | ~328,196 |
-| Window Dressing | 50.00% | ~264,674 |
-| Trigger Happy | 46.00% | ~243,501 |
-| Riverborn | 45.00% | ~238,207 |
-| Starry Eyed | 34.00% | ~179,979 |
-| Poking Around | 34.00% | ~179,979 |
-| Talk of the Town | 24.00% | ~127,044 |
-| AAARR! | 23.00% | ~121,750 |
-| Hello Darkness | 23.00% | ~121,750 |
-| Wind At Our Backs | 22.00% | ~116,457 |
-| To the Beat | 20.00% | ~105,870 |
-| Sunny Shores | 17.00% | ~89,989 |
+| First Step | 70.00% | ~370,547 |
+| Now You're Talking | 62.00% | ~328,199 |
+| Steel Yourself | 62.00% | ~328,199 |
+| Window Dressing | 50.00% | ~264,676 |
+| Trigger Happy | 46.00% | ~243,502 |
+| Riverborn | 45.00% | ~238,209 |
+| Starry Eyed | 34.00% | ~179,980 |
+| Poking Around | 34.00% | ~179,980 |
+| Talk of the Town | 24.00% | ~127,045 |
+| AAARR! | 23.00% | ~121,751 |
+| Hello Darkness | 23.00% | ~121,751 |
+| Wind At Our Backs | 22.00% | ~116,458 |
+| To the Beat | 20.00% | ~105,871 |
+| Sunny Shores | 17.00% | ~89,990 |
 | Sunday Best | 16.00% | ~84,696 |
-| To Victory! | 15.00% | ~79,402 |
+| To Victory! | 15.00% | ~79,403 |
 | Two of a Kind | 14.00% | ~74,109 |
-| Keep On Trucking | 13.00% | ~68,815 |
-| Going on an Adventure | 11.00% | ~58,228 |
-| Make Peace, Not War | 11.00% | ~58,228 |
+| Keep On Trucking | 13.00% | ~68,816 |
+| Going on an Adventure | 11.00% | ~58,229 |
+| Make Peace, Not War | 11.00% | ~58,229 |
 | Walking The Line | 10.00% | ~52,935 |
 | Not So Cute Anymore | 10.00% | ~52,935 |
-| Road Less Travelled | 9.00% | ~47,641 |
-| Lost and Found | 9.00% | ~47,641 |
+| Road Less Travelled | 9.00% | ~47,642 |
+| Lost and Found | 9.00% | ~47,642 |
 | Under the Radar | 8.00% | ~42,348 |
-| Partner in Crime | 7.00% | ~37,054 |
-| Hard to Hear | 7.00% | ~37,054 |
+| Partner in Crime | 7.00% | ~37,055 |
+| Hard to Hear | 7.00% | ~37,055 |
 | Moving On Up | 6.00% | ~31,761 |
 | Owl Knows Best | 6.00% | ~31,761 |
 | Mind the Moose | 6.00% | ~31,761 |
 | Oh, Romeo! | 6.00% | ~31,761 |
 | Dressed to Kill | 6.00% | ~31,761 |
 | Beast Mode | 6.00% | ~31,761 |
-| Noble Intentions | 5.00% | ~26,467 |
-| Rising Star | 5.00% | ~26,467 |
-| Slime Slayer | 5.00% | ~26,467 |
+| Noble Intentions | 5.00% | ~26,468 |
+| Rising Star | 5.00% | ~26,468 |
+| Slime Slayer | 5.00% | ~26,468 |
 | Privacy, Please! | 4.00% | ~21,174 |
 | Silky Smooth | 4.00% | ~21,174 |
 | Hash It Over | 4.00% | ~21,174 |
 | Biting Tongue | 4.00% | ~21,174 |
 | What a Catch! | 4.00% | ~21,174 |
 | Hit the Spot | 4.00% | ~21,174 |
-| Talk the Talk | 3.00% | ~15,880 |
-| Skin in the Game | 3.00% | ~15,880 |
-| Caving In | 3.00% | ~15,880 |
-| Page Turner | 3.00% | ~15,880 |
-| Spinal Adjustment | 3.00% | ~15,880 |
-| The Knowledge | 3.00% | ~15,880 |
+| Talk the Talk | 3.00% | ~15,881 |
+| Skin in the Game | 3.00% | ~15,881 |
+| Caving In | 3.00% | ~15,881 |
+| Page Turner | 3.00% | ~15,881 |
+| Spinal Adjustment | 3.00% | ~15,881 |
+| The Knowledge | 3.00% | ~15,881 |
 | Seek the Rainbow | 2.00% | ~10,587 |
 | Words of Truth | 2.00% | ~10,587 |
 | Star Power | 2.00% | ~10,587 |
 | Justice Served | 2.00% | ~10,587 |
-| Written in the Stars | 1.00% | ~5,293 |
-| Don't Care | 1.00% | ~5,293 |
-| Don’t Get Crabby | 1.00% | ~5,293 |
+| Written in the Stars | 1.00% | ~5,294 |
+| Don't Care | 1.00% | ~5,294 |
+| Don’t Get Crabby | 1.00% | ~5,294 |
 | Boss of All Bosses | 0.30% | ~1,588 |
 | Point Taken | 0.20% | ~1,059 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 529,349 (Ranked 34)  
+Progressed: 529,353 (Ranked 34)  
 Completed: 485 (0.09%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,7 +242,7 @@ Completed: 485 (0.09%) (Ranked 252)
 | 2023-10-12 | 529,140 | 484 |
 | 2023-10-13 | 529,214 | 485 |
 | 2023-10-14 | 529,297 | 485 |
-| 2023-10-15 | 529,349 | 485 |
+| 2023-10-15 | 529,353 | 485 |
 ## Awards
 Max (Relaxing): 20  (Ranked 529)  
 Sum: 20 (Ranked 530)  

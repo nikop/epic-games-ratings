@@ -6,7 +6,7 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Play a Single Player Game | 3.00% | ~441 |
+| Play a Single Player Game | 3.00% | ~442 |
 | Able | 2.00% | ~294 |
 | Architect | 2.00% | ~294 |
 | Explorer | 2.00% | ~294 |
@@ -150,6 +150,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Old | 0.20% | ~29 |
 | Peacemaker | 0.20% | ~29 |
 | Glorious Difficulty | 0.20% | ~29 |
+| The Eternal Treaty | 0.20% | ~29 |
 | Assyria | 0.20% | ~29 |
 | Hatti | 0.20% | ~29 |
 | Pantheon of Gods | 0.20% | ~29 |
@@ -203,7 +204,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Et tu Brutus? | 0.10% | ~15 |
 | Event Level High | 0.10% | ~15 |
 | Battle of the Fertile Crescent | 0.10% | ~15 |
-| The Eternal Treaty | 0.10% | ~15 |
 | Five Routs | 0.10% | ~15 |
 | Game of the Week | 0.10% | ~15 |
 | Defend Where? | 0.10% | ~15 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,715 (Ranked 135)  
+Progressed: 14,717 (Ranked 135)  
 Completed: 5 (0.03%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -527,7 +527,7 @@ Completed: 5 (0.03%) (Ranked 283)
 | 2023-10-12 | 14,624 | 5 |
 | 2023-10-13 | 14,652 | 5 |
 | 2023-10-14 | 14,699 | 5 |
-| 2023-10-15 | 14,715 | 5 |
+| 2023-10-15 | 14,717 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,839 (Ranked 210)  

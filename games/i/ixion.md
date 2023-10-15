@@ -20,7 +20,7 @@ Rating: 4.56 (Ranked 473)
 | Hope Seeker | 12.00% | ~387 |
 | Exceeding Capacity | 11.00% | ~355 |
 | Breaking Protocol | 11.00% | ~355 |
-| A Hunk of Junk | 10.00% | ~322 |
+| A Hunk of Junk | 10.00% | ~323 |
 | Man's Best Friend | 8.00% | ~258 |
 | Power Outage | 8.00% | ~258 |
 | Please Make it Stop! | 8.00% | ~258 |
@@ -40,14 +40,14 @@ Rating: 4.56 (Ranked 473)
 | Delivery! | 3.00% | ~97 |
 | Pedal to the Metal | 3.00% | ~97 |
 | Pulsar Disciple | 3.00% | ~97 |
-| Mutual Loyalty | 2.00% | ~64 |
-| Tiqqun Contender | 2.00% | ~64 |
-| Catastrophe Avoided | 2.00% | ~64 |
-| Praise the Hull! | 2.00% | ~64 |
-| Space Greenhouse | 2.00% | ~64 |
-| Tiqqun Unchained | 2.00% | ~64 |
-| Drill-dozer | 2.00% | ~64 |
-| Help of the Forgotten Member | 2.00% | ~64 |
+| Mutual Loyalty | 2.00% | ~65 |
+| Tiqqun Contender | 2.00% | ~65 |
+| Catastrophe Avoided | 2.00% | ~65 |
+| Praise the Hull! | 2.00% | ~65 |
+| Space Greenhouse | 2.00% | ~65 |
+| Tiqqun Unchained | 2.00% | ~65 |
+| Drill-dozer | 2.00% | ~65 |
+| Help of the Forgotten Member | 2.00% | ~65 |
 | Better Him Than Me | 1.00% | ~32 |
 | Remember the Dead | 1.00% | ~32 |
 | You Had One Job... | 1.00% | ~32 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 473)
 | I Give You the Stars | 0.10% | ~1 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,225 (Ranked 190)  
+Progressed: 3,226 (Ranked 190)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,7 +235,7 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-10-11 | 3,220 | 0 |
 | 2023-10-13 | 3,222 | 0 |
 | 2023-10-14 | 3,224 | 0 |
-| 2023-10-15 | 3,225 | 0 |
+| 2023-10-15 | 3,226 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

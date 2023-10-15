@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Panic! | 97.00% | ~739 |
+| Don't Panic! | 97.00% | ~740 |
 | Friendzone | 80.00% | ~610 |
 | Space Colonization | 80.00% | ~610 |
-| Hello World | 75.00% | ~572 |
+| Hello World | 74.00% | ~565 |
 | Space Engineer | 64.00% | ~488 |
-| Tinkerer | 62.00% | ~472 |
-| Dust to Dust | 58.00% | ~442 |
+| Tinkerer | 62.00% | ~473 |
+| Dust to Dust | 58.00% | ~443 |
 | Across The Stars | 48.00% | ~366 |
 | Crafty | 48.00% | ~366 |
-| All Seats Taken | 39.00% | ~297 |
+| All Seats Taken | 39.00% | ~298 |
 | For Science! | 35.00% | ~267 |
 | Meet the Petersons | 32.00% | ~244 |
 | Stay Cool | 29.00% | ~221 |
@@ -23,9 +23,9 @@
 | Et tu, Astrocitizen? | 19.00% | ~145 |
 | Space Explorer | 16.00% | ~122 |
 | Hands Full | 13.00% | ~99 |
-| Gold Medalist | 12.00% | ~91 |
-| Non-Fiction | 12.00% | ~91 |
-| No Man Left Behind | 9.00% | ~69 |
+| Gold Medalist | 12.00% | ~92 |
+| Non-Fiction | 12.00% | ~92 |
+| No Man Left Behind | 10.00% | ~76 |
 | Fix-It Felix | 8.00% | ~61 |
 | Intergalactic Breakup | 8.00% | ~61 |
 | Second Life | 8.00% | ~61 |
@@ -33,7 +33,7 @@
 | First of April | 7.00% | ~53 |
 | Flawless Maegangement | 7.00% | ~53 |
 | Extreme Makeover | 5.00% | ~38 |
-| The Improvinator | 4.00% | ~30 |
+| The Improvinator | 4.00% | ~31 |
 | The Last Supper | 3.00% | ~23 |
 | 2018: A Soup Odyssey | 3.00% | ~23 |
 | Bovine Domain | 2.00% | ~15 |
@@ -49,7 +49,7 @@
 | Liberté, Égalité, Félinité | 0.10% | ~1 |
 | Man's best comrade | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 762 (Ranked 248)  
+Progressed: 763 (Ranked 248)  
 Completed: 1 (0.13%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,6 +161,7 @@ Completed: 1 (0.13%) (Ranked 237)
 | 2023-10-02 | 759 | 1 |
 | 2023-10-09 | 760 | 1 |
 | 2023-10-14 | 762 | 1 |
+| 2023-10-15 | 763 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
