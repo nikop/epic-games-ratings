@@ -6,25 +6,25 @@ Number of Ratings: 154  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Sonic the Hedgehog | 94.00% | ~521 |
-| Newbie Hero | 82.00% | ~454 |
-| Welcome to Sonic CD | 72.00% | ~399 |
-| Welcome to Sonic 3 & Knuckles | 71.00% | ~393 |
+| Welcome to Sonic the Hedgehog | 94.00% | ~522 |
+| Newbie Hero | 82.00% | ~455 |
+| Welcome to Sonic CD | 72.00% | ~400 |
+| Welcome to Sonic 3 & Knuckles | 71.00% | ~394 |
 | Welcome to Sonic the Hedgehog 2 | 70.00% | ~388 |
-| Ring Collector | 67.00% | ~371 |
 | Time Traveler | 66.00% | ~366 |
-| Everyone's Hero | 63.00% | ~349 |
+| Ring Collector | 66.00% | ~366 |
+| Everyone's Hero | 63.00% | ~350 |
 | Easy Peasy with Shields | 59.00% | ~327 |
-| Gallant Spin Dash | 58.00% | ~321 |
-| Miles "Tails" Prower | 58.00% | ~321 |
+| Gallant Spin Dash | 58.00% | ~322 |
 | Bubbly Breath | 57.00% | ~316 |
 | Knuckles the Echidna | 57.00% | ~316 |
-| Boss Rush Attempt | 51.00% | ~283 |
+| Miles "Tails" Prower | 57.00% | ~316 |
+| Boss Rush Attempt | 50.00% | ~278 |
 | Cleared Sonic the Hedgehog | 48.00% | ~266 |
-| Super Sonic | 44.00% | ~244 |
+| Super Sonic | 43.00% | ~239 |
 | Beware Stingers! | 42.00% | ~233 |
-| Shut Down Metal Sonic | 41.00% | ~227 |
-| Museum Time | 41.00% | ~227 |
+| Shut Down Metal Sonic | 41.00% | ~228 |
+| Museum Time | 41.00% | ~228 |
 | Very First Mission Clear! | 40.00% | ~222 |
 | Cleared Sonic the Hedgehog 2 | 40.00% | ~222 |
 | Beware Moto Bugs! | 38.00% | ~211 |
@@ -40,10 +40,10 @@ Number of Ratings: 154  (23.09.2022)
 | Art Appreciator | 15.00% | ~83 |
 | Sonic CD Mission Master | 14.00% | ~78 |
 | S3 & K Mission Master | 13.00% | ~72 |
-| Sonic the Hedgehog 2 Mission Master | 12.00% | ~66 |
+| Sonic the Hedgehog 2 Mission Master | 12.00% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 554 (Ranked 267)  
-Completed: 42 (7.58%) (Ranked 45)  
+Progressed: 555 (Ranked 267)  
+Completed: 42 (7.57%) (Ranked 45)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -153,6 +153,7 @@ Completed: 42 (7.58%) (Ranked 45)
 | 2023-10-12 | 546 | 42 |
 | 2023-10-13 | 550 | 42 |
 | 2023-10-14 | 554 | 42 |
+| 2023-10-15 | 555 | 42 |
 ## Awards
 Max (Great Boss Battles): 128  (Ranked 319)  
 Sum: 128 (Ranked 416)  

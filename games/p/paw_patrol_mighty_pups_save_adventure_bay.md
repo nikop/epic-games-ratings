@@ -18,8 +18,8 @@
 | Robot Out of Control | 36.00% | ~12 |
 | Master of the Rope | 30.00% | ~10 |
 | Training Day | 30.00% | ~10 |
+| The Fastest | 30.00% | ~10 |
 | Never Miss | 30.00% | ~10 |
-| The Fastest | 27.00% | ~9 |
 | In the Air | 27.00% | ~9 |
 | Adventure Bay’s Citizen | 27.00% | ~9 |
 | Animal Sighting | 24.00% | ~8 |

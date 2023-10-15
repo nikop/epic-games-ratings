@@ -6,19 +6,19 @@ Number of Ratings: 1,023  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First money | 95.00% | ~19,882 |
-| Strongman | 31.00% | ~6,488 |
+| First money | 95.00% | ~19,884 |
+| Strongman | 31.00% | ~6,489 |
 | Alpha Male | 20.00% | ~4,186 |
-| Just Enough | 19.00% | ~3,976 |
-| Pro-creative | 18.00% | ~3,767 |
-| Worth Every Penny | 15.00% | ~3,139 |
+| Just Enough | 19.00% | ~3,977 |
+| Pro-creative | 18.00% | ~3,768 |
+| Worth Every Penny | 15.00% | ~3,140 |
 | Family man | 13.00% | ~2,721 |
 | Junior Estate Agent | 13.00% | ~2,721 |
 | Mystery | 10.00% | ~2,093 |
 | Artistic soul | 10.00% | ~2,093 |
-| Estate Agent | 5.00% | ~1,046 |
-| Millionaire | 5.00% | ~1,046 |
-| Perfectionist | 5.00% | ~1,046 |
+| Estate Agent | 5.00% | ~1,047 |
+| Millionaire | 5.00% | ~1,047 |
+| Perfectionist | 5.00% | ~1,047 |
 | I'm Belieber | 2.00% | ~419 |
 | Knock, knock | 1.00% | ~209 |
 | You do it wrong | 1.00% | ~209 |
@@ -30,7 +30,7 @@ Number of Ratings: 1,023  (23.09.2022)
 | Do it ASAP | 0.60% | ~126 |
 | Senior Estate Agent | 0.60% | ~126 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,928 (Ranked 123)  
+Progressed: 20,931 (Ranked 123)  
 Completed: 21 (0.10%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,13 +207,14 @@ Completed: 21 (0.10%) (Ranked 246)
 | 2023-10-12 | 20,922 | 21 |
 | 2023-10-13 | 20,926 | 21 |
 | 2023-10-14 | 20,928 | 21 |
+| 2023-10-15 | 20,931 | 21 |
 ## Awards
-Max (Great for Beginners): 312  (Ranked 240)  
-Sum: 2,223 (Ranked 196)  
-Diff (max vs sum): 44  
+Max (Great for Beginners): 313  (Ranked 239)  
+Sum: 2,224 (Ranked 196)  
+Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 312 |
+| This game is Great for Beginners | 313 |
 | This game is Educational | 240 |
 | This game is Relaxing | 229 |
 | This game is Extremely Fun | 226 |
@@ -386,3 +387,4 @@ Diff (max vs sum): 44
 | 2023-10-03 | 4.69 | - | 312 | 2,220 |
 | 2023-10-06 | 4.69 | - | 312 | 2,222 |
 | 2023-10-11 | 4.69 | - | 312 | 2,223 |
+| 2023-10-15 | 4.69 | - | 313 | 2,224 |

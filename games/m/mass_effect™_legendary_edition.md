@@ -85,16 +85,16 @@
 | Savior | 22.00% | ~152 |
 | Pathfinder | 22.00% | ~152 |
 | Arbiter | 22.00% | ~152 |
+| Lost and Found | 22.00% | ~152 |
 | Paramour II | 21.00% | ~145 |
 | Party Crasher | 21.00% | ~145 |
-| Lost and Found | 21.00% | ~145 |
 | Pyromaniac | 20.00% | ~138 |
 | No One Left Behind | 20.00% | ~138 |
 | Hard Target | 20.00% | ~138 |
 | Problem Solver | 20.00% | ~138 |
+| Under Pressure | 19.00% | ~131 |
 | Saboteur | 19.00% | ~131 |
 | Fact Finder | 19.00% | ~131 |
-| Under Pressure | 18.00% | ~125 |
 | Electronics Specialist | 18.00% | ~125 |
 | Sabotage Specialist | 18.00% | ~125 |
 | Last Witness | 18.00% | ~125 |

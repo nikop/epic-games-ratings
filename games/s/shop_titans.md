@@ -66,6 +66,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | The King's Caprice | 0.60% | ~826 |
 | Archivist | 0.60% | ~826 |
 | Locally Sourced | 0.60% | ~826 |
+| Omae wa Mou Shindeiru | 0.60% | ~826 |
 | Master of Transmutation | 0.60% | ~826 |
 | Supercharged | 0.60% | ~826 |
 | Cranked up to 11 | 0.60% | ~826 |
@@ -83,6 +84,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Glittering Collection | 0.60% | ~826 |
 | Treasure Trove | 0.60% | ~826 |
 | Moment of Respite | 0.60% | ~826 |
+| Master Recycler | 0.60% | ~826 |
 | Exotic Commodities | 0.60% | ~826 |
 | King's Blade | 0.60% | ~826 |
 | Top of the World | 0.50% | ~688 |
@@ -91,14 +93,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | Booty by the Boatload | 0.50% | ~688 |
 | Fillin' the Bin | 0.50% | ~688 |
 | Industrial Evolution | 0.50% | ~688 |
-| Omae wa Mou Shindeiru | 0.50% | ~688 |
 | Ritualist | 0.50% | ~688 |
 | By Your Powers Combined... | 0.50% | ~688 |
 | A Legend is Born | 0.50% | ~688 |
 | Bountiful Harvest | 0.50% | ~688 |
 | Precision Engineering | 0.50% | ~688 |
 | King's Shadow | 0.50% | ~688 |
-| Master Recycler | 0.50% | ~688 |
 | Economy of Scarce | 0.50% | ~688 |
 | The Free Encyclopedia | 0.40% | ~550 |
 | Thank You Tom Nook | 0.40% | ~550 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~138 |
 | Cash Only Please | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,622 (Ranked 73)  
+Progressed: 137,624 (Ranked 73)  
 Completed: 168 (0.12%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,7 +297,7 @@ Completed: 168 (0.12%) (Ranked 240)
 | 2023-10-12 | 137,496 | 168 |
 | 2023-10-13 | 137,555 | 168 |
 | 2023-10-14 | 137,618 | 168 |
-| 2023-10-15 | 137,622 | 168 |
+| 2023-10-15 | 137,624 | 168 |
 ## Awards
 Max (Great for Beginners): 4,785  (Ranked 71)  
 Sum: 27,380 (Ranked 50)  

@@ -1,11 +1,11 @@
 # Hogwarts Legacy
 [Store](https://store.epicgames.com/en-US/p/hogwarts-legacy)  
 [View Rawdata](../../db/h/hogwarts_legacy.json)  
-Rating: 4.76 (Ranked 119)  
+Rating: 4.76 (Ranked 118)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 15.00% | ~44,751 |
+| The Sort Who Makes an Entrance | 15.00% | ~44,752 |
 | First Class Student | 13.00% | ~38,785 |
 | Troll with the Punches | 13.00% | ~38,785 |
 | A Keen Sense of Spell | 12.00% | ~35,801 |
@@ -22,9 +22,9 @@ Rating: 4.76 (Ranked 119)
 | Followed the Butterflies | 9.00% | ~26,851 |
 | The Spell Master | 9.00% | ~26,851 |
 | Rising From the Ashes | 9.00% | ~26,851 |
-| The Avenging Gazelle | 8.00% | ~23,867 |
-| A Sallow Grave | 8.00% | ~23,867 |
-| Flight the Good Flight | 8.00% | ~23,867 |
+| The Avenging Gazelle | 8.00% | ~23,868 |
+| A Sallow Grave | 8.00% | ~23,868 |
+| Flight the Good Flight | 8.00% | ~23,868 |
 | Beast Friends | 7.00% | ~20,884 |
 | The Seeker of Knowledge | 6.00% | ~17,901 |
 | The Root of the Problem | 6.00% | ~17,901 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 119)
 | The Nature of the Beast | 0.70% | ~2,088 |
 | Collector's Edition | 0.30% | ~895 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,343 (Ranked 47)  
+Progressed: 298,345 (Ranked 47)  
 Completed: 487 (0.16%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,10 +229,10 @@ Completed: 487 (0.16%) (Ranked 230)
 | 2023-10-12 | 298,217 | 485 |
 | 2023-10-13 | 298,257 | 485 |
 | 2023-10-14 | 298,337 | 487 |
-| 2023-10-15 | 298,343 | 487 |
+| 2023-10-15 | 298,345 | 487 |
 ## Awards
 Max (Character Customization): 23,517  (Ranked 17)  
-Sum: 45,873 (Ranked 30)  
+Sum: 45,875 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -244,7 +244,7 @@ Diff (max vs sum): -13
 | This game is Extremely Fun | 1,134 |
 | This game is Relaxing | 1,133 |
 | This game has Amazing Characters | 1,094 |
-| This game is Highly Recommended | 1,076 |
+| This game is Highly Recommended | 1,078 |
 | This game has Quickly Understood Controls | 1,018 |
 | This game has Beautiful Visuals | 943 |
 | This game has a Creative Community | 714 |
@@ -456,4 +456,4 @@ Diff (max vs sum): -13
 | 2023-10-12 | 4.76 | 23,469 | 45,698 |
 | 2023-10-13 | 4.76 | 23,491 | 45,772 |
 | 2023-10-14 | 4.76 | 23,517 | 45,868 |
-| 2023-10-15 | 4.76 | 23,517 | 45,873 |
+| 2023-10-15 | 4.76 | 23,517 | 45,875 |

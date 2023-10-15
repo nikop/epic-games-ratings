@@ -3,11 +3,11 @@
   "Name": "House Flipper",
   "ProductSlug": "house-flipper",
   "Ranking_Rating": 221,
-  "Ranking_Popularity": 240,
+  "Ranking_Popularity": 239,
   "Ranking_PopularitySum": 196,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
@@ -1864,18 +1864,24 @@
       "Rating": 4.69,
       "NumberOfAwards": 2223,
       "NumberOfAwardsMax": 312
+    },
+    {
+      "Time": "2023-10-15T01:47:27.3502656+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 2224,
+      "NumberOfAwardsMax": 313
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2223,
-  "NumberOfAwardsMax": 312,
+  "NumberOfAwards": 2224,
+  "NumberOfAwardsMax": 313,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 312
+      "Count": 313
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1938,9 +1944,9 @@
       "Count": 215
     }
   ],
-  "EOS_Progressed": 20928,
+  "EOS_Progressed": 20931,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -9118,6 +9124,11 @@
       "Time": "2023-10-14T08:07:47.9767814+00:00",
       "NumProgressed": 20928,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-10-15T01:55:20.8920476+00:00",
+      "NumProgressed": 20931,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -9161,7 +9172,7 @@
       "Name": "Worth Every Penny",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 3139
+      "UsersEstimate": 3140
     },
     {
       "ID": "EstateAgent",
@@ -9169,7 +9180,7 @@
       "Name": "Estate Agent",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1046
+      "UsersEstimate": 1047
     },
     {
       "ID": "FirstMoney",
@@ -9177,7 +9188,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 19882
+      "UsersEstimate": 19884
     },
     {
       "ID": "GameOver",
@@ -9233,7 +9244,7 @@
       "Name": "Millionaire",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1046
+      "UsersEstimate": 1047
     },
     {
       "ID": "MrAndMrsJantart",
@@ -9241,7 +9252,7 @@
       "Name": "Just Enough",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3976
+      "UsersEstimate": 3977
     },
     {
       "ID": "Negotiator",
@@ -9257,7 +9268,7 @@
       "Name": "Perfectionist",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1046
+      "UsersEstimate": 1047
     },
     {
       "ID": "RafaelErko",
@@ -9281,7 +9292,7 @@
       "Name": "Pro-creative",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3767
+      "UsersEstimate": 3768
     },
     {
       "ID": "Strongman",
@@ -9289,7 +9300,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6488
+      "UsersEstimate": 6489
     },
     {
       "ID": "VeronicaLiptson",
@@ -9312,15 +9323,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 20928,
+      "Progressed": 20931,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
-  "LastChanged": "2023-10-11T18:00:29.5286227+00:00",
-  "LastChanged_Achievements": "2023-10-15T00:08:21.4618537+00:00",
+  "LastChanged": "2023-10-15T01:47:27.3502652+00:00",
+  "LastChanged_Achievements": "2023-10-15T01:55:20.8920469+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:53.7092922+00:00",
-  "LastUpdate_Ratings": "2023-10-15T00:00:46.6075742+00:00",
-  "LastUpdate_Achievements": "2023-10-15T00:08:21.4619114+00:00"
+  "LastUpdate_Ratings": "2023-10-15T01:47:27.3502664+00:00",
+  "LastUpdate_Achievements": "2023-10-15T01:55:20.8921064+00:00"
 }

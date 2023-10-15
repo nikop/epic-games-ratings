@@ -22,9 +22,9 @@ Rating: 4.64 (Ranked 321)
 | Lezduit! | 0.60% | ~145 |
 | Legendary Bounty Hunter | 0.60% | ~145 |
 | Self-Actualization | 0.60% | ~145 |
+| Fallout Doesn't Let You Do This | 0.60% | ~145 |
 | Spent 15 Hours At The Alien Strip Club | 0.60% | ~145 |
 | Eatin' Good in the Neighborhood | 0.50% | ~121 |
-| Fallout Doesn't Let You Do This | 0.50% | ~121 |
 | Series Wrap on Suit-O | 0.50% | ~121 |
 | We Came, We Chainsaw, We Conquered | 0.50% | ~8 |
 | Eye Scream, You Scream | 0.40% | ~97 |

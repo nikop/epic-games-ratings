@@ -414,9 +414,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2950,
+  "EOS_Progressed": 2951,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.1,
   "EosHistory": [
@@ -3654,6 +3654,11 @@
       "Time": "2023-10-14T21:05:43.1420216+00:00",
       "NumProgressed": 2950,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-10-15T01:51:31.9757334+00:00",
+      "NumProgressed": 2951,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 14,
@@ -3665,7 +3670,7 @@
       "Name": "Ancient Curse",
       "Percentage": 29,
       "XP": 80,
-      "UsersEstimate": 855
+      "UsersEstimate": 856
     },
     {
       "ID": "ACH_CASE_CLOSED",
@@ -3681,7 +3686,7 @@
       "Name": "Cat Person",
       "Percentage": 27,
       "XP": 80,
-      "UsersEstimate": 796
+      "UsersEstimate": 797
     },
     {
       "ID": "ACH_CLIMBER",
@@ -3761,7 +3766,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     },
     {
       "ID": "ACH_WELCOME_TO_RAVEN_BROOKS",
@@ -3776,7 +3781,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2950,
+      "Progressed": 2951,
       "Completed": 121
     }
   ],
@@ -3784,8 +3789,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-10-06T14:00:50.47481+00:00",
-  "LastChanged_Achievements": "2023-10-15T00:04:43.5048048+00:00",
+  "LastChanged_Achievements": "2023-10-15T01:51:31.9757327+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:11.4944348+00:00",
-  "LastUpdate_Ratings": "2023-10-14T23:58:49.7311077+00:00",
-  "LastUpdate_Achievements": "2023-10-15T00:04:43.5048346+00:00"
+  "LastUpdate_Ratings": "2023-10-15T01:45:21.8839719+00:00",
+  "LastUpdate_Achievements": "2023-10-15T01:51:31.9757627+00:00"
 }

@@ -5,9 +5,9 @@
   "Ranking_Rating": 300,
   "Ranking_Popularity": 267,
   "Ranking_PopularitySum": 210,
-  "Ranking_EOS_Progress": 134,
+  "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -1857,9 +1857,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14701,
+  "EOS_Progressed": 14705,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 207,
+  "EOS_NewPlayers": 210,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13872,6 +13872,11 @@
       "Time": "2023-10-15T00:06:35.2170117+00:00",
       "NumProgressed": 14701,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-15T01:53:25.9877065+00:00",
+      "NumProgressed": 14705,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -14233,9 +14238,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_ARCHITECT",
       "SetID": "9201eeb",
       "Name": "Architect",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 294
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AVENGER",
@@ -14377,9 +14382,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_INVINCIBLE",
       "SetID": "9201eeb",
       "Name": "Invincible",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 74
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_JUST",
@@ -15313,9 +15318,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_MUSAEUM",
       "SetID": "9201eeb",
       "Name": "Musaeum",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 132
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_NECROPOLIS",
@@ -15401,9 +15406,9 @@
       "ID": "ACHIEVEMENT_LEARNTOPLAY_1",
       "SetID": "7l38kb8",
       "Name": "Learn to Play 1",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 147
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_2",
@@ -15737,9 +15742,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_ROME",
       "SetID": "7l38kb8",
       "Name": "Roman Paganism",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 147
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_ZOROASTRIANISM",
@@ -16618,21 +16623,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14701,
+      "Progressed": 14705,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14701,
+      "Progressed": 14705,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-14T19:03:24.424824+00:00",
-  "LastChanged_Achievements": "2023-10-15T00:06:35.2170113+00:00",
+  "LastChanged_Achievements": "2023-10-15T01:53:25.9877058+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:21.7880328+00:00",
-  "LastUpdate_Ratings": "2023-10-15T00:02:24.2641933+00:00",
-  "LastUpdate_Achievements": "2023-10-15T00:06:35.2181673+00:00"
+  "LastUpdate_Ratings": "2023-10-15T01:49:25.865855+00:00",
+  "LastUpdate_Achievements": "2023-10-15T01:53:25.9888142+00:00"
 }

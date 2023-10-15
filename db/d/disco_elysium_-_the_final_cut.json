@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 241,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
@@ -1361,9 +1361,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 129711,
+  "EOS_Progressed": 129712,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 259,
+  "EOS_NewPlayers": 258,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -19096,6 +19096,11 @@
       "Time": "2023-10-15T00:06:37.7485269+00:00",
       "NumProgressed": 129711,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-10-15T01:53:28.3832639+00:00",
+      "NumProgressed": 129712,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -19219,7 +19224,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 27239
+      "UsersEstimate": 27240
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -19235,7 +19240,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 16862
+      "UsersEstimate": 16863
     },
     {
       "ID": "ACH_COP_STAR",
@@ -19426,15 +19431,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 129711,
+      "Progressed": 129712,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-10-14T08:02:22.2123051+00:00",
-  "LastChanged_Achievements": "2023-10-15T00:06:37.7485265+00:00",
+  "LastChanged_Achievements": "2023-10-15T01:53:28.3832632+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:18.5281336+00:00",
-  "LastUpdate_Ratings": "2023-10-15T00:02:17.811968+00:00",
-  "LastUpdate_Achievements": "2023-10-15T00:06:37.7486623+00:00"
+  "LastUpdate_Ratings": "2023-10-15T01:49:18.5484839+00:00",
+  "LastUpdate_Achievements": "2023-10-15T01:53:28.3833959+00:00"
 }

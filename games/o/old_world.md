@@ -7,6 +7,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Able | 2.00% | ~294 |
+| Architect | 2.00% | ~294 |
 | Explorer | 2.00% | ~294 |
 | Good | 2.00% | ~294 |
 | Intrepid | 2.00% | ~294 |
@@ -15,7 +16,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Friendly Family | 2.00% | ~294 |
 | Play a Single Player Game | 2.00% | ~294 |
 | Ambitious | 1.00% | ~147 |
-| Architect | 1.00% | ~147 |
 | Enlightened | 1.00% | ~147 |
 | Fountainhead | 1.00% | ~147 |
 | Glorious | 1.00% | ~147 |
@@ -35,11 +35,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lighthouse | 1.00% | ~147 |
 | Oracle | 1.00% | ~147 |
 | Pyramids | 1.00% | ~147 |
+| Learn to Play 1 | 1.00% | ~147 |
 | Christianity | 1.00% | ~147 |
 | Judaism | 1.00% | ~147 |
 | Babylonian Paganism | 1.00% | ~147 |
 | Carthaginian Paganism | 1.00% | ~147 |
 | Greek Paganism | 1.00% | ~147 |
+| Roman Paganism | 1.00% | ~147 |
 | Zoroastrianism | 1.00% | ~147 |
 | Naming Landmarks | 1.00% | ~147 |
 | Trade Caravan | 1.00% | ~147 |
@@ -49,10 +51,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able Difficulty | 0.90% | ~132 |
 | Furious Family | 0.90% | ~132 |
 | Great Ziggurat | 0.90% | ~132 |
-| Learn to Play 1 | 0.90% | ~132 |
+| Musaeum | 0.90% | ~132 |
 | Manichaeism | 0.90% | ~132 |
 | Egyptian Paganism | 0.90% | ~132 |
-| Roman Paganism | 0.90% | ~132 |
 | Regicide | 0.80% | ~118 |
 | Drillmaster | 0.80% | ~118 |
 | Great | 0.80% | ~118 |
@@ -60,7 +61,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legendary Cities | 0.80% | ~118 |
 | Apadana | 0.80% | ~118 |
 | Colossus | 0.80% | ~118 |
-| Musaeum | 0.80% | ~118 |
 | Necropolis | 0.80% | ~118 |
 | Learn to Play 2 | 0.80% | ~118 |
 | Mighty | 0.70% | ~103 |
@@ -79,6 +79,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mausoleum | 0.60% | ~88 |
 | Learn to Play 3 | 0.60% | ~88 |
 | Building Wonders | 0.60% | ~88 |
+| Invincible | 0.50% | ~74 |
 | Lion | 0.50% | ~74 |
 | Good Difficulty | 0.50% | ~74 |
 | Patrons | 0.50% | ~74 |
@@ -100,7 +101,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Double Victory | 0.50% | ~74 |
 | Points Victory | 0.50% | ~74 |
 | Capable | 0.40% | ~59 |
-| Invincible | 0.40% | ~59 |
 | Subjugator | 0.40% | ~59 |
 | Strong Difficulty | 0.40% | ~59 |
 | Hunters | 0.40% | ~59 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,701 (Ranked 134)  
+Progressed: 14,705 (Ranked 135)  
 Completed: 5 (0.03%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -527,7 +527,7 @@ Completed: 5 (0.03%) (Ranked 283)
 | 2023-10-12 | 14,624 | 5 |
 | 2023-10-13 | 14,652 | 5 |
 | 2023-10-14 | 14,699 | 5 |
-| 2023-10-15 | 14,701 | 5 |
+| 2023-10-15 | 14,705 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,839 (Ranked 210)  

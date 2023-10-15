@@ -37,8 +37,8 @@ Rating: 4.19 (Ranked 891)
 | Big Spender | 0.70% | ~28 |
 | Information Overload | 0.70% | ~28 |
 | Grim Reaper | 0.60% | ~96 |
+| Mugshot | 0.50% | ~80 |
 | Quick Pick | 0.50% | ~20 |
-| Mugshot | 0.40% | ~64 |
 | Instigator | 0.40% | ~16 |
 | Subject Alpha | 0.30% | ~12 |
 | The Protocol is About Life | 0.20% | ~32 |

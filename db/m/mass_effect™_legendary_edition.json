@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 692,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1793,9 +1793,9 @@
       "ID": "achievement_113",
       "SetID": "d252ncf",
       "Name": "Under Pressure",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 125
+      "UsersEstimate": 131
     },
     {
       "ID": "achievement_114",
@@ -2673,9 +2673,9 @@
       "ID": "achievement_99",
       "SetID": "d252ncf",
       "Name": "Lost and Found",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 145
+      "UsersEstimate": 152
     }
   ],
   "AchievementSets": [
@@ -2693,8 +2693,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-15T00:03:53.9274227+00:00",
+  "LastChanged_Achievements": "2023-10-15T01:50:40.072135+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:30.4071338+00:00",
-  "LastUpdate_Ratings": "2023-10-14T23:59:44.2917766+00:00",
-  "LastUpdate_Achievements": "2023-10-15T00:03:53.9276682+00:00"
+  "LastUpdate_Ratings": "2023-10-15T01:46:21.1496466+00:00",
+  "LastUpdate_Achievements": "2023-10-15T01:50:40.0723552+00:00"
 }
