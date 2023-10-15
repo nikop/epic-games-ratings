@@ -2,7 +2,7 @@
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 1 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 100.00% |
-| 3 | [The Riflemen](games/t/the_riflemen.md) | 49.74% |
+| 3 | [The Riflemen](games/t/the_riflemen.md) | 49.73% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.15% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.99% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
@@ -42,7 +42,7 @@
 | 40 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.03% |
 | 41 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.67% |
 | 42 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
-| 43 | [Ravenlok](games/r/ravenlok.md) | 7.68% |
+| 43 | [Ravenlok](games/r/ravenlok.md) | 7.67% |
 | 44 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.65% |
 | 45 | [Sonic Origins](games/s/sonic_origins.md) | 7.57% |
 | 46 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.51% |
@@ -126,11 +126,11 @@
 | 124 | [Iron Danger](games/i/iron_danger.md) | 1.44% |
 | 125 | [Late Shift](games/l/late_shift.md) | 1.40% |
 | 126 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.39% |
-| 127 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.38% |
 | 127 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.38% |
 | 127 | [Poosh XL](games/p/poosh_xl.md) | 1.38% |
 | 127 | [Ten Dates](games/t/ten_dates.md) | 1.38% |
-| 131 | [Chorus](games/c/chorus.md) | 1.37% |
+| 130 | [Chorus](games/c/chorus.md) | 1.37% |
+| 130 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.37% |
 | 132 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.32% |
 | 132 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.32% |
 | 134 | [Lemon Cake](games/l/lemon_cake.md) | 1.31% |
@@ -151,8 +151,8 @@
 | 148 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.96% |
 | 150 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.92% |
 | 151 | [Hades](games/h/hades.md) | 0.91% |
+| 152 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.85% |
 | 152 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
-| 153 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.84% |
 | 154 | [Dungeons 3](games/d/dungeons_3.md) | 0.80% |
 | 155 | [Eternights](games/e/eternights.md) | 0.74% |
 | 156 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.73% |
@@ -238,13 +238,13 @@
 | 236 | [BLACKTAIL](games/b/blacktail.md) | 0.14% |
 | 237 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
 | 237 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.13% |
+| 237 | [Isonzo](games/i/isonzo.md) | 0.13% |
 | 237 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
-| 240 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
-| 240 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
-| 240 | [Shop Titans](games/s/shop_titans.md) | 0.12% |
-| 243 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.11% |
-| 243 | [Isonzo](games/i/isonzo.md) | 0.11% |
-| 243 | [Outward Definitive Edition](games/o/outward.md) | 0.11% |
+| 241 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
+| 241 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
+| 241 | [Shop Titans](games/s/shop_titans.md) | 0.12% |
+| 244 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.11% |
+| 244 | [Outward Definitive Edition](games/o/outward.md) | 0.11% |
 | 246 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
 | 246 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.10% |
 | 246 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.10% |

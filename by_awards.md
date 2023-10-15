@@ -11,7 +11,7 @@
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 97,710 | 4.64 | 321 |
 | 10 | [VALORANT](games/v/valorant.md) | 75,339 | 4.53 | 525 |
 | 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 62,184 | 4.58 | 437 |
-| 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 46,642 | 4.61 | 374 |
+| 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 46,734 | 4.61 | 374 |
 | 13 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 39,734 | 4.74 | 148 |
 | 14 | [Destiny 2](games/d/destiny_2.md) | 38,317 | 4.49 | 591 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 33,877 | 4.51 | 552 |
@@ -58,8 +58,8 @@
 | 56 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,461 | 4.80 | 82 |
 | 57 | [Dead Island 2](games/d/dead_island_2.md) | 6,442 | 4.54 | 510 |
 | 58 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,436 | 4.58 | 437 |
-| 59 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 6,213 | 4.75 | 138 |
-| 60 | [Bloons TD 6](games/b/bloons_td_6.md) | 6,182 | 4.77 | 111 |
+| 59 | [Bloons TD 6](games/b/bloons_td_6.md) | 6,232 | 4.77 | 111 |
+| 60 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 6,213 | 4.75 | 138 |
 | 61 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,043 | 4.79 | 91 |
 | 62 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,982 | 4.64 | 321 |
 | 63 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,918 | 4.82 | 61 |
@@ -151,7 +151,7 @@
 | 148 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 1,010 | 4.23 | 865 |
 | 150 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 996 | 4.69 | 221 |
 | 151 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 972 | 4.31 | 807 |
-| 152 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 956 | 4.55 | 491 |
+| 152 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 957 | 4.55 | 491 |
 | 153 | [Sonic Mania](games/s/sonic_mania.md) | 953 | 4.78 | 98 |
 | 154 | [Football Manager 2023](games/f/football_manager_2023.md) | 908 | 4.76 | 118 |
 | 155 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 885 | 4.45 | 645 |
@@ -314,8 +314,8 @@
 | 312 | [Timberborn](games/t/timberborn.md) | 141 | 4.72 | 178 |
 | 313 | [Atomicrops](games/a/atomicrops.md) | 137 | 4.86 | 28 |
 | 314 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 136 | 4.69 | 221 |
-| 315 | [First Class Trouble](games/f/first_class_trouble.md) | 134 | 4.48 | 607 |
-| 315 | [while True: learn()](games/w/while_true__learn().md) | 134 | 4.51 | 552 |
+| 315 | [First Class Trouble](games/f/first_class_trouble.md) | 135 | 4.48 | 607 |
+| 316 | [while True: learn()](games/w/while_true__learn().md) | 134 | 4.51 | 552 |
 | 317 | [Alien: Isolation](games/a/alien__isolation.md) | 133 | 4.61 | 374 |
 | 318 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 129 | 4.72 | 178 |
 | 319 | [Sonic Origins](games/s/sonic_origins.md) | 128 | 4.59 | 419 |

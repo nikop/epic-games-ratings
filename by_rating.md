@@ -110,7 +110,7 @@
 | 98 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 953 | 153 |
 | 98 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 536 |
 | 98 | [Wildermyth](games/w/wildermyth.md) | 4.78 | 28 | 482 |
-| 111 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 6,182 | 60 |
+| 111 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 6,232 | 59 |
 | 111 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 7,485 | 50 |
 | 111 | [Outlast](games/o/outlast.md) | 4.77 | 0 | 536 |
 | 111 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 0 | 536 |
@@ -137,7 +137,7 @@
 | 118 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 41 | 440 |
 | 118 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 0 | 536 |
 | 118 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.76 | 385 | 226 |
-| 138 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 6,213 | 59 |
+| 138 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 6,213 | 60 |
 | 138 | [Diabotical](games/d/diabotical.md) | 4.75 | 284 | 248 |
 | 138 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 764 | 169 |
 | 138 | [Haven](games/h/haven.md) | 4.75 | 0 | 536 |
@@ -381,7 +381,7 @@
 | 374 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.61 | 804 | 163 |
 | 374 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 0 | 536 |
 | 374 | [Darkwood](games/d/darkwood.md) | 4.61 | 325 | 238 |
-| 374 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 46,642 | 12 |
+| 374 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 46,734 | 12 |
 | 374 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 4.61 | 0 | 536 |
 | 374 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 0 | 536 |
 | 374 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,261 | 136 |
@@ -501,7 +501,7 @@
 | 491 | [Observation](games/o/observation.md) | 4.55 | 0 | 536 |
 | 491 | [Outward Definitive Edition](games/o/outward.md) | 4.55 | 35 | 455 |
 | 491 | [Oxenfree](games/o/oxenfree.md) | 4.55 | 0 | 536 |
-| 491 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 956 | 152 |
+| 491 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 957 | 152 |
 | 491 | [RAILGRADE](games/r/railgrade.md) | 4.55 | 90 | 363 |
 | 491 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 93 | 359 |
 | 491 | [Tails of Iron](games/t/tails_of_iron.md) | 4.55 | 0 | 536 |
@@ -570,7 +570,7 @@
 | 552 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 66 | 397 |
 | 552 | [Tom Clancy's Rainbow Six Extraction](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.51 | 172 | 295 |
 | 552 | [UnMetal](games/u/unmetal.md) | 4.51 | 0 | 536 |
-| 552 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 134 | 315 |
+| 552 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 134 | 316 |
 | 552 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.51 | 28 | 482 |
 | 573 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 1,779 | 118 |
 | 573 | [Anno 2070](games/a/anno_2070.md) | 4.50 | 0 | 536 |
@@ -608,7 +608,7 @@
 | 591 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.49 | 38 | 445 |
 | 607 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 4.48 | 31 | 472 |
 | 607 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.48 | 0 | 536 |
-| 607 | [First Class Trouble](games/f/first_class_trouble.md) | 4.48 | 134 | 315 |
+| 607 | [First Class Trouble](games/f/first_class_trouble.md) | 4.48 | 135 | 315 |
 | 607 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.48 | 38 | 445 |
 | 607 | [Railway Empire 2](games/r/railway_empire_2.md) | 4.48 | 0 | 536 |
 | 607 | [Redout 2](games/r/redout_2.md) | 4.48 | 0 | 536 |
