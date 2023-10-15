@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -1863,9 +1863,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14730,
+  "EOS_Progressed": 14732,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 196,
+  "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13963,6 +13963,11 @@
       "Time": "2023-10-15T22:09:15.0365943+00:00",
       "NumProgressed": 14730,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-15T23:08:43.9213185+00:00",
+      "NumProgressed": 14732,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -16108,9 +16113,9 @@
       "ID": "ACHIEVEMENT_VICTORY_DOUBLE",
       "SetID": "7l38kb8",
       "Name": "Double Victory",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 88
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_NO_CHARACTERS",
@@ -16244,9 +16249,9 @@
       "ID": "ACHIEVEMENT_WIN_SINGLEPLAYER",
       "SetID": "9201eeb",
       "Name": "Win a Single Player Game",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 118
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_CLERGY_COURT",
@@ -16709,21 +16714,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14730,
+      "Progressed": 14732,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14730,
+      "Progressed": 14732,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-15T18:56:55.5250291+00:00",
-  "LastChanged_Achievements": "2023-10-15T22:09:15.0365938+00:00",
+  "LastChanged_Achievements": "2023-10-15T23:08:43.921318+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:21.7880328+00:00",
-  "LastUpdate_Ratings": "2023-10-15T21:57:28.6913696+00:00",
-  "LastUpdate_Achievements": "2023-10-15T22:09:15.0382539+00:00"
+  "LastUpdate_Ratings": "2023-10-15T22:57:30.30176+00:00",
+  "LastUpdate_Achievements": "2023-10-15T23:08:43.9223566+00:00"
 }

@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fowl Play | 0.10% | ~198 |
 | Time Out | 0.10% | ~198 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,951 (Ranked 58)  
+Progressed: 231,955 (Ranked 58)  
 Completed: 2,364 (1.02%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -713,15 +713,15 @@ Completed: 2,364 (1.02%) (Ranked 145)
 | 2023-10-12 | 231,654 | 2,355 |
 | 2023-10-13 | 231,754 | 2,358 |
 | 2023-10-14 | 231,864 | 2,361 |
-| 2023-10-15 | 231,951 | 2,364 |
+| 2023-10-15 | 231,955 | 2,364 |
 ## Awards
 Max (Great for Beginners): 5,404  (Ranked 69)  
-Sum: 32,048 (Ranked 41)  
+Sum: 32,054 (Ranked 41)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,404 |
-| This game has Diverse Characters | 5,395 |
+| This game has Diverse Characters | 5,401 |
 | This game has Quickly Understood Controls | 4,788 |
 | This game is Relaxing | 4,677 |
 | This game is Highly Recommended | 4,158 |
@@ -992,4 +992,4 @@ Diff (max vs sum): 28
 | 2023-10-12 | 4.06 | - | 5,387 | 32,002 |
 | 2023-10-13 | 4.06 | - | 5,392 | 32,021 |
 | 2023-10-14 | 4.06 | - | 5,404 | 32,038 |
-| 2023-10-15 | 4.06 | - | 5,404 | 32,048 |
+| 2023-10-15 | 4.06 | - | 5,404 | 32,054 |

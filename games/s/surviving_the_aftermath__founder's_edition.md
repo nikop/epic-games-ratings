@@ -6,67 +6,67 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 73.00% | ~7,026 |
-| Leader | 60.00% | ~5,774 |
-| Explorer | 53.00% | ~5,101 |
-| Healer | 52.00% | ~5,004 |
-| Aspiring Inventor | 44.00% | ~4,235 |
-| Adventurer | 42.00% | ~4,042 |
-| Famous Healer | 38.00% | ~3,657 |
-| Local Leader | 35.00% | ~3,368 |
-| Famous Explorer | 34.00% | ~3,272 |
-| New Opportunities | 34.00% | ~3,272 |
-| Energized | 33.00% | ~3,176 |
-| The Long Haul | 33.00% | ~3,176 |
-| Survivor | 32.00% | ~3,080 |
-| The Great Healer | 31.00% | ~2,983 |
-| Legendary Explorer | 28.00% | ~2,695 |
-| Cleaner | 28.00% | ~2,695 |
-| Catastrofan | 28.00% | ~2,695 |
-| Finders, Keepers | 26.00% | ~2,502 |
-| Top Notch | 25.00% | ~2,406 |
+| First Step | 73.00% | ~7,028 |
+| Leader | 60.00% | ~5,776 |
+| Explorer | 53.00% | ~5,102 |
+| Healer | 52.00% | ~5,006 |
+| Aspiring Inventor | 44.00% | ~4,236 |
+| Adventurer | 42.00% | ~4,043 |
+| Famous Healer | 38.00% | ~3,658 |
+| Local Leader | 35.00% | ~3,369 |
+| Famous Explorer | 34.00% | ~3,273 |
+| New Opportunities | 34.00% | ~3,273 |
+| Energized | 33.00% | ~3,177 |
+| The Long Haul | 33.00% | ~3,177 |
+| Survivor | 32.00% | ~3,081 |
+| The Great Healer | 31.00% | ~2,984 |
+| Legendary Explorer | 28.00% | ~2,696 |
+| Cleaner | 28.00% | ~2,696 |
+| Catastrofan | 28.00% | ~2,696 |
+| Finders, Keepers | 26.00% | ~2,503 |
+| Top Notch | 25.00% | ~2,407 |
 | Great Leader | 23.00% | ~2,214 |
 | Mentor | 23.00% | ~2,214 |
-| Merchant | 22.00% | ~2,117 |
-| Ice Lakes | 22.00% | ~2,117 |
-| Real Survivor | 22.00% | ~2,117 |
+| Merchant | 22.00% | ~2,118 |
+| Ice Lakes | 22.00% | ~2,118 |
+| Real Survivor | 22.00% | ~2,118 |
 | Rocket Surgeon | 20.00% | ~1,925 |
 | War Never Changes | 19.00% | ~1,829 |
-| Friendly | 17.00% | ~1,636 |
-| Big Game Hunter | 17.00% | ~1,636 |
-| Around the World | 17.00% | ~1,636 |
-| Spreading Influence | 17.00% | ~1,636 |
+| Friendly | 17.00% | ~1,637 |
+| Big Game Hunter | 17.00% | ~1,637 |
+| Around the World | 17.00% | ~1,637 |
+| Spreading Influence | 17.00% | ~1,637 |
 | Bookworm | 15.00% | ~1,444 |
-| Famous Adventurer | 14.00% | ~1,347 |
-| Prepared for Anything | 14.00% | ~1,347 |
-| Big Catastrofan | 13.00% | ~1,251 |
-| It's a Finnish Thing | 10.00% | ~962 |
-| Sky Burial | 10.00% | ~962 |
+| Famous Adventurer | 14.00% | ~1,348 |
+| Prepared for Anything | 14.00% | ~1,348 |
+| Big Catastrofan | 13.00% | ~1,252 |
+| It's a Finnish Thing | 10.00% | ~963 |
+| Sky Burial | 10.00% | ~963 |
 | Trader | 9.00% | ~866 |
 | Bread and Circuses | 8.00% | ~770 |
 | New Eden | 7.00% | ~674 |
 | Tailored to fit | 7.00% | ~674 |
-| Really Friendly | 6.00% | ~577 |
-| Amped Up | 6.00% | ~577 |
+| Really Friendly | 6.00% | ~578 |
+| Amped Up | 6.00% | ~578 |
 | Look, no Hands! | 5.00% | ~481 |
 | Luxurious Living | 4.00% | ~385 |
 | Mogul | 3.00% | ~289 |
 | Ranch Hand | 3.00% | ~289 |
-| The Friendliest | 2.00% | ~192 |
-| Diplomat | 2.00% | ~192 |
-| Doomsday is canceled | 2.00% | ~192 |
-| Biggest Catastrofan | 2.00% | ~192 |
-| True Survivor | 2.00% | ~192 |
+| The Friendliest | 2.00% | ~193 |
+| Diplomat | 2.00% | ~193 |
+| Doomsday is canceled | 2.00% | ~193 |
+| Biggest Catastrofan | 2.00% | ~193 |
+| True Survivor | 2.00% | ~193 |
 | Legendary Adventurer | 1.00% | ~96 |
 | Slimy yet Satisfying | 1.00% | ~96 |
 | Feng Shui | 1.00% | ~96 |
 | A Closer Look | 1.00% | ~96 |
-| Finnished | 0.40% | ~38 |
+| Finnished | 0.40% | ~39 |
 | Fun and Games | 0.20% | ~19 |
 | Choo-choo! | 0.20% | ~19 |
 | Customized calamities | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,624 (Ranked 150)  
+Progressed: 9,627 (Ranked 150)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-10-12 | 9,549 | 0 |
 | 2023-10-13 | 9,576 | 0 |
 | 2023-10-14 | 9,599 | 0 |
-| 2023-10-15 | 9,624 | 0 |
+| 2023-10-15 | 9,627 | 0 |
 ## Awards
 Max (Extremely Fun): 103  (Ranked 342)  
 Sum: 710 (Ranked 283)  

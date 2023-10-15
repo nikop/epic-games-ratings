@@ -20,10 +20,10 @@ Rating: 4.57 (Ranked 455)
 | Captain Drummer | 3.00% | ~421 |
 | Celebrations are in Order | 3.00% | ~421 |
 | Stogie for Fogey | 2.00% | ~280 |
+| Bottoms up! | 2.00% | ~280 |
 | Thorston Mayer | 2.00% | ~280 |
 | Miraculous Maya | 2.00% | ~280 |
 | Doctor Approved | 1.00% | ~140 |
-| Bottoms up! | 1.00% | ~140 |
 | No Belter Left Behind | 1.00% | ~140 |
 | Data Logger | 0.90% | ~126 |
 | Brother's Reaper | 0.90% | ~126 |
@@ -31,12 +31,12 @@ Rating: 4.57 (Ranked 455)
 | Debris Spree | 0.60% | ~84 |
 | Data Recoverer | 0.50% | ~70 |
 | Urshanabi Hoarder | 0.40% | ~56 |
+| Data Miner | 0.30% | ~42 |
 | Grave Robber | 0.30% | ~42 |
-| Data Miner | 0.20% | ~28 |
 | Scavenger Star | 0.10% | ~14 |
 | Data Collector | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,019 (Ranked 137)  
+Progressed: 14,020 (Ranked 137)  
 Completed: 24 (0.17%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 24 (0.17%) (Ranked 228)
 | 2023-10-12 | 13,891 | 20 |
 | 2023-10-13 | 13,925 | 23 |
 | 2023-10-14 | 13,979 | 23 |
-| 2023-10-15 | 14,019 | 24 |
+| 2023-10-15 | 14,020 | 24 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

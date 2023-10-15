@@ -12,8 +12,8 @@
 | Fashion Connoisseur | 67.00% | ~69 |
 | Arms Mechanic | 60.00% | ~62 |
 | Flower Thief | 58.00% | ~60 |
-| Apostle of Flame | 55.00% | ~57 |
-| Beginner Cook | 54.00% | ~56 |
+| Apostle of Flame | 56.00% | ~58 |
+| Beginner Cook | 55.00% | ~57 |
 | Beginner Artificer | 53.00% | ~55 |
 | Seal Breaker | 49.00% | ~50 |
 | Handyman | 47.00% | ~48 |

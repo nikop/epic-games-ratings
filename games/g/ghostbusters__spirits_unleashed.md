@@ -24,17 +24,17 @@ Rating: 4.50 (Ranked 574)
 | Whoopsie | 1.00% | ~265 |
 | Daily Dose | 0.90% | ~239 |
 | Ectoplasmic Entity | 0.90% | ~239 |
+| Right back at ya | 0.90% | ~239 |
 | Terrifying | 0.90% | ~239 |
 | Welcome to the Crew | 0.90% | ~239 |
 | Ghostbuster In Training | 0.80% | ~212 |
-| Right back at ya | 0.80% | ~212 |
 | Side Hustle | 0.80% | ~212 |
 | Summoner | 0.80% | ~212 |
 | Legions | 0.70% | ~186 |
 | Skilled | 0.70% | ~186 |
 | Stunner | 0.70% | ~186 |
+| We have the best insurance | 0.60% | ~159 |
 | Pesky Jerks | 0.60% | ~159 |
-| We have the best insurance | 0.50% | ~133 |
 | Collector | 0.50% | ~133 |
 | Diabolical | 0.50% | ~133 |
 | Reckless | 0.50% | ~133 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 574)
 | Rift Seeker | 0.10% | ~27 |
 | Ultimate Defense | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,501 (Ranked 117)  
+Progressed: 26,505 (Ranked 117)  
 Completed: 58 (0.22%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,7 +235,7 @@ Completed: 58 (0.22%) (Ranked 219)
 | 2023-10-12 | 26,379 | 58 |
 | 2023-10-13 | 26,414 | 58 |
 | 2023-10-14 | 26,466 | 58 |
-| 2023-10-15 | 26,501 | 58 |
+| 2023-10-15 | 26,505 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 262  (Ranked 256)  
 Sum: 2,392 (Ranked 188)  

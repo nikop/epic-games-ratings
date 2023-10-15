@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1272,9 +1272,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 20094,
+  "EOS_Progressed": 20095,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 437,
+  "EOS_NewPlayers": 435,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -20627,6 +20627,11 @@
       "Time": "2023-10-15T22:05:43.711275+00:00",
       "NumProgressed": 20094,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2023-10-15T23:05:24.0662802+00:00",
+      "NumProgressed": 20095,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 45,
@@ -20654,7 +20659,7 @@
       "Name": "Artificial selection",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 5626
+      "UsersEstimate": 5627
     },
     {
       "ID": "BackToHell",
@@ -20702,7 +20707,7 @@
       "Name": "Finish line",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 5224
+      "UsersEstimate": 5225
     },
     {
       "ID": "GRProjectComplete",
@@ -20726,7 +20731,7 @@
       "Name": "Homerunner",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 9042
+      "UsersEstimate": 9043
     },
     {
       "ID": "ICallItLuck",
@@ -20734,7 +20739,7 @@
       "Name": "I call it luck",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 8841
+      "UsersEstimate": 8842
     },
     {
       "ID": "ImproviseAdaptOverrun",
@@ -20774,7 +20779,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 15271
+      "UsersEstimate": 15272
     },
     {
       "ID": "MoreThanHuman",
@@ -20790,7 +20795,7 @@
       "Name": "Control freak",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 5425
+      "UsersEstimate": 5426
     },
     {
       "ID": "ObedientMachine",
@@ -20822,7 +20827,7 @@
       "Name": "Out of order",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 8841
+      "UsersEstimate": 8842
     },
     {
       "ID": "Perfection",
@@ -20870,7 +20875,7 @@
       "Name": "Running Wild",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 5425
+      "UsersEstimate": 5426
     },
     {
       "ID": "Scrapped",
@@ -20910,7 +20915,7 @@
       "Name": "Sword Runner",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 12257
+      "UsersEstimate": 12258
     },
     {
       "ID": "SwordToAGunfight",
@@ -20918,7 +20923,7 @@
       "Name": "Sword to a gunfight",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 5827
+      "UsersEstimate": 5828
     },
     {
       "ID": "TripleA",
@@ -20926,7 +20931,7 @@
       "Name": "Triple A",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1808
+      "UsersEstimate": 1809
     },
     {
       "ID": "UnstoppableForce",
@@ -20950,7 +20955,7 @@
       "Name": "Upgrades not mandatory",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 5827
+      "UsersEstimate": 5828
     },
     {
       "ID": "Wallrunner",
@@ -20997,21 +21002,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 20094,
+      "Progressed": 20095,
       "Completed": 47
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 20094,
+      "Progressed": 20095,
       "Completed": 75
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-10-15T12:01:46.9350549+00:00",
-  "LastChanged_Achievements": "2023-10-15T22:05:43.7112744+00:00",
+  "LastChanged_Achievements": "2023-10-15T23:05:24.0662797+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:38.0192871+00:00",
-  "LastUpdate_Ratings": "2023-10-15T22:02:12.6062621+00:00",
-  "LastUpdate_Achievements": "2023-10-15T22:05:43.7114713+00:00"
+  "LastUpdate_Ratings": "2023-10-15T23:01:56.1758111+00:00",
+  "LastUpdate_Achievements": "2023-10-15T23:05:24.0664026+00:00"
 }

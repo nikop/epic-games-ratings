@@ -65,13 +65,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Apadana | 0.80% | ~118 |
 | Necropolis | 0.80% | ~118 |
 | Learn to Play 2 | 0.80% | ~118 |
+| Win a Single Player Game | 0.80% | ~118 |
 | Mighty | 0.70% | ~103 |
 | Champions | 0.70% | ~103 |
 | Sages | 0.70% | ~103 |
 | Acropolis | 0.70% | ~103 |
 | Mausoleum | 0.70% | ~103 |
 | Mythology | 0.70% | ~103 |
-| Win a Single Player Game | 0.70% | ~103 |
 | Hanging Gardens in Babylon | 0.60% | ~88 |
 | Beloved | 0.60% | ~88 |
 | Conqueror | 0.60% | ~88 |
@@ -85,6 +85,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Power to the People | 0.60% | ~88 |
 | Persian Paganism | 0.60% | ~88 |
 | Building Wonders | 0.60% | ~88 |
+| Double Victory | 0.60% | ~88 |
 | Points Victory | 0.60% | ~88 |
 | Invincible | 0.50% | ~74 |
 | Subjugator | 0.50% | ~74 |
@@ -105,7 +106,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cimmerian Archer | 0.50% | ~74 |
 | Legionary | 0.50% | ~74 |
 | Phalangite | 0.50% | ~74 |
-| Double Victory | 0.50% | ~74 |
 | The Clergy | 0.50% | ~74 |
 | Capable | 0.40% | ~59 |
 | Strong Difficulty | 0.40% | ~59 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,730 (Ranked 135)  
+Progressed: 14,732 (Ranked 135)  
 Completed: 5 (0.03%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -527,7 +527,7 @@ Completed: 5 (0.03%) (Ranked 283)
 | 2023-10-12 | 14,624 | 5 |
 | 2023-10-13 | 14,652 | 5 |
 | 2023-10-14 | 14,699 | 5 |
-| 2023-10-15 | 14,730 | 5 |
+| 2023-10-15 | 14,732 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,840 (Ranked 210)  

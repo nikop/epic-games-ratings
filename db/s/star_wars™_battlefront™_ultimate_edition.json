@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 671,
+  "EOS_Progressed": 672,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1796,6 +1796,11 @@
       "Time": "2023-10-15T22:06:34.0196946+00:00",
       "NumProgressed": 671,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-15T23:06:11.8497807+00:00",
+      "NumProgressed": 672,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -1904,7 +1909,7 @@
       "Name": "Collector",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "achievement_21",
@@ -1952,7 +1957,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "achievement_27",
@@ -2032,7 +2037,7 @@
       "Name": "New Recruit",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "achievement_36",
@@ -2048,7 +2053,7 @@
       "Name": "Off to a good start",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "achievement_38",
@@ -2248,7 +2253,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "achievement_60",
@@ -2311,13 +2316,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 671,
+      "Progressed": 672,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 671,
+      "Progressed": 672,
       "Completed": 1
     }
   ],
@@ -2325,8 +2330,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-15T22:06:34.0196942+00:00",
+  "LastChanged_Achievements": "2023-10-15T23:06:11.8497802+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:22.846224+00:00",
-  "LastUpdate_Ratings": "2023-10-15T22:03:35.6014098+00:00",
-  "LastUpdate_Achievements": "2023-10-15T22:06:34.0197763+00:00"
+  "LastUpdate_Ratings": "2023-10-15T23:03:21.8380998+00:00",
+  "LastUpdate_Achievements": "2023-10-15T23:06:11.8498436+00:00"
 }

@@ -6,8 +6,8 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,283 |
-| Until death do us apart | 4.00% | ~17,283 |
+| That's a Grand Army | 4.00% | ~17,284 |
+| Until death do us apart | 4.00% | ~17,284 |
 | That is mine! | 3.00% | ~12,963 |
 | Victorious! | 3.00% | ~12,963 |
 | Brothers in Arms | 2.00% | ~8,642 |
@@ -27,11 +27,11 @@ Number of Ratings: 8,414  (23.09.2022)
 | Royal Authority | 0.80% | ~3,457 |
 | Total Control | 0.80% | ~3,457 |
 | My armies are invincible! | 0.70% | ~3,025 |
-| Agressive Expander | 0.50% | ~2,160 |
-| Azur semé de lis or | 0.50% | ~2,160 |
-| City of Cities | 0.50% | ~2,160 |
-| Combined Arms | 0.50% | ~2,160 |
-| This navy can take it all | 0.50% | ~2,160 |
+| Agressive Expander | 0.50% | ~2,161 |
+| Azur semé de lis or | 0.50% | ~2,161 |
+| City of Cities | 0.50% | ~2,161 |
+| Combined Arms | 0.50% | ~2,161 |
+| This navy can take it all | 0.50% | ~2,161 |
 | Bright Spark | 0.40% | ~1,728 |
 | Factionalism | 0.40% | ~1,728 |
 | Gentle Persuasion | 0.40% | ~1,728 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 432,086 (Ranked 40)  
+Progressed: 432,104 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -539,7 +539,7 @@ Completed: 1 (0.00%) (Ranked 314)
 | 2023-10-12 | 429,009 | 1 |
 | 2023-10-13 | 429,869 | 1 |
 | 2023-10-14 | 431,056 | 1 |
-| 2023-10-15 | 432,086 | 1 |
+| 2023-10-15 | 432,104 | 1 |
 ## Awards
 Max (Educational): 6,551  (Ranked 55)  
 Sum: 53,801 (Ranked 25)  

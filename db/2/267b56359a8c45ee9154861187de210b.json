@@ -415,17 +415,17 @@
       "ID": "beat_c2_gold",
       "SetID": "3448go",
       "Name": "In Good Company",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "beat_c2_silver",
       "SetID": "3448go",
       "Name": "Gone for a Whirl",
-      "Percentage": 28,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "beat_c2a_bronze",
@@ -926,8 +926,8 @@
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2023-10-15T22:03:38.6348757+00:00",
+  "LastChanged_Achievements": "2023-10-15T23:03:25.6073507+00:00",
   "LastUpdate_AppInfo": "2023-10-11T21:57:10.1271769+00:00",
-  "LastUpdate_Ratings": "2023-10-15T21:58:54.07325+00:00",
-  "LastUpdate_Achievements": "2023-10-15T22:03:38.6349737+00:00"
+  "LastUpdate_Ratings": "2023-10-15T22:58:53.2995581+00:00",
+  "LastUpdate_Achievements": "2023-10-15T23:03:25.6074465+00:00"
 }

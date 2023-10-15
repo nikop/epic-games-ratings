@@ -622,10 +622,16 @@
       "Rating": 4.17,
       "NumberOfAwards": 267,
       "NumberOfAwardsMax": 69
+    },
+    {
+      "Time": "2023-10-15T23:02:51.061294+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 268,
+      "NumberOfAwardsMax": 69
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 267,
+  "NumberOfAwards": 268,
   "NumberOfAwardsMax": 69,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -675,12 +681,12 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 32
+      "Count": 33
     }
   ],
-  "EOS_Progressed": 63310,
+  "EOS_Progressed": 63315,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 1189,
+  "EOS_NewPlayers": 1180,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5303,6 +5309,11 @@
       "Time": "2023-10-15T22:10:13.1618323+00:00",
       "NumProgressed": 63310,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-10-15T23:09:38.4857933+00:00",
+      "NumProgressed": 63315,
+      "NumCompleted": 17
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -5315,7 +5326,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 18993
+      "UsersEstimate": 18994
     },
     {
       "ID": "10",
@@ -5387,7 +5398,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 7597
+      "UsersEstimate": 7598
     },
     {
       "ID": "4",
@@ -5395,7 +5406,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6331
+      "UsersEstimate": 6332
     },
     {
       "ID": "5",
@@ -5419,7 +5430,7 @@
       "Name": "More Power to You",
       "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "8",
@@ -5442,16 +5453,16 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 63310,
+      "Progressed": 63315,
       "Completed": 17
     }
   ],
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged": "2023-10-15T20:03:20.7346493+00:00",
-  "LastChanged_Achievements": "2023-10-15T22:10:13.161832+00:00",
+  "LastChanged": "2023-10-15T23:02:51.0612938+00:00",
+  "LastChanged_Achievements": "2023-10-15T23:09:38.485793+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:34.3906075+00:00",
-  "LastUpdate_Ratings": "2023-10-15T22:03:14.5533574+00:00",
-  "LastUpdate_Achievements": "2023-10-15T22:10:13.1618767+00:00"
+  "LastUpdate_Ratings": "2023-10-15T23:02:51.0612943+00:00",
+  "LastUpdate_Achievements": "2023-10-15T23:09:38.4858248+00:00"
 }

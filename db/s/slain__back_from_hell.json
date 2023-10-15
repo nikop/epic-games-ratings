@@ -235,9 +235,9 @@
       "Count": 127
     }
   ],
-  "EOS_Progressed": 38534,
+  "EOS_Progressed": 38537,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 438,
+  "EOS_NewPlayers": 437,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -19810,6 +19810,11 @@
       "Time": "2023-10-15T22:03:39.6829822+00:00",
       "NumProgressed": 38534,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-10-15T23:03:26.429808+00:00",
+      "NumProgressed": 38537,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 29,
@@ -19821,7 +19826,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 5780
+      "UsersEstimate": 5781
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -19829,15 +19834,15 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 8092
+      "UsersEstimate": 8093
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
       "SetID": "443p4o4",
       "Name": "Start As You Mean To Go On",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 231
+      "UsersEstimate": 270
     },
     {
       "ID": "ACH_05_DEFEATED_THORN_BEAST",
@@ -19899,9 +19904,9 @@
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
       "SetID": "443p4o4",
       "Name": "Four Legged Friend",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 154
+      "UsersEstimate": 193
     },
     {
       "ID": "ACH_13_DEFEATED_WEREBEAST",
@@ -20052,7 +20057,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 38534,
+      "Progressed": 38537,
       "Completed": 25
     }
   ],
@@ -20060,8 +20065,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-10-07T11:01:04.3409147+00:00",
-  "LastChanged_Achievements": "2023-10-15T22:03:39.6829819+00:00",
+  "LastChanged_Achievements": "2023-10-15T23:03:26.4298077+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:52.991476+00:00",
-  "LastUpdate_Ratings": "2023-10-15T21:59:35.8774337+00:00",
-  "LastUpdate_Achievements": "2023-10-15T22:03:39.6831465+00:00"
+  "LastUpdate_Ratings": "2023-10-15T22:59:30.1229631+00:00",
+  "LastUpdate_Achievements": "2023-10-15T23:03:26.4299239+00:00"
 }

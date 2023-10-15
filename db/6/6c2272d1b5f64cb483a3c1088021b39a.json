@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1129,
+  "EOS_Progressed": 1130,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3836,6 +3836,11 @@
       "Time": "2023-10-15T22:09:37.5066785+00:00",
       "NumProgressed": 1129,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-15T23:09:04.5269571+00:00",
+      "NumProgressed": 1130,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4261,9 +4266,9 @@
       "ID": "sophisticated_alchemist_2",
       "SetID": "53c1p3k",
       "Name": "Sophisticated Alchemist 2",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 23
     },
     {
       "ID": "sophisticated_alchemist_3",
@@ -4374,14 +4379,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 1129,
+      "Progressed": 1130,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-10-15T22:09:37.5066781+00:00",
+  "LastChanged_Achievements": "2023-10-15T23:09:04.5269568+00:00",
   "LastUpdate_AppInfo": "2023-10-10T10:57:16.25747+00:00",
-  "LastUpdate_Ratings": "2023-10-15T21:58:08.3972191+00:00",
-  "LastUpdate_Achievements": "2023-10-15T22:09:37.5067767+00:00"
+  "LastUpdate_Ratings": "2023-10-15T22:58:10.774615+00:00",
+  "LastUpdate_Achievements": "2023-10-15T23:09:04.527028+00:00"
 }
