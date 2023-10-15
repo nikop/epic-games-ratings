@@ -2,7 +2,7 @@
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 1 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 100.00% |
-| 3 | [The Riflemen](games/t/the_riflemen.md) | 49.83% |
+| 3 | [The Riflemen](games/t/the_riflemen.md) | 49.79% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.15% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.99% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
@@ -26,7 +26,7 @@
 | 23 | [Seven Doors](games/s/seven_doors.md) | 14.29% |
 | 25 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 12.77% |
 | 26 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 12.50% |
-| 27 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.26% |
+| 27 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.30% |
 | 28 | [Remains](games/r/remains.md) | 11.76% |
 | 29 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 11.59% |
 | 30 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 11.29% |
@@ -137,7 +137,7 @@
 | 134 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.31% |
 | 136 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.16% |
 | 136 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.16% |
-| 136 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 1.16% |
+| 138 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 1.15% |
 | 139 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.13% |
 | 140 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.09% |
 | 140 | [Trifox](games/t/trifox.md) | 1.09% |
@@ -145,7 +145,7 @@
 | 142 | [Infindustry](games/i/infindustry.md) | 1.05% |
 | 142 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.05% |
 | 145 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.02% |
-| 146 | [Sable](games/s/sable.md) | 1.01% |
+| 146 | [Sable](games/s/sable.md) | 1.00% |
 | 147 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.99% |
 | 148 | [A Musical Story](games/a/a_musical_story.md) | 0.96% |
 | 148 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.96% |
@@ -185,9 +185,9 @@
 | 178 | [Them and Us](games/t/them_and_us.md) | 0.46% |
 | 184 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.45% |
 | 185 | [Tchia](games/t/tchia.md) | 0.44% |
-| 186 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.43% |
 | 186 | [It Takes Two](games/i/it_takes_two.md) | 0.43% |
-| 188 | [Wildermyth](games/w/wildermyth.md) | 0.42% |
+| 187 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.42% |
+| 187 | [Wildermyth](games/w/wildermyth.md) | 0.42% |
 | 189 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 190 | [Train Valley](games/t/train_valley.md) | 0.39% |
 | 191 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.38% |
