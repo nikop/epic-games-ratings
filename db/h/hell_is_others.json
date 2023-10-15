@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 51,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -1084,9 +1084,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 257297,
+  "EOS_Progressed": 257300,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 246,
+  "EOS_NewPlayers": 249,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18624,6 +18624,11 @@
       "Time": "2023-10-15T01:51:55.0314271+00:00",
       "NumProgressed": 257297,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-15T02:25:47.8701737+00:00",
+      "NumProgressed": 257300,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -18683,7 +18688,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 79762
+      "UsersEstimate": 79763
     },
     {
       "ID": "BackHomeNTimes",
@@ -18923,7 +18928,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 56605
+      "UsersEstimate": 56606
     },
     {
       "ID": "KillOthers2",
@@ -19082,7 +19087,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 257297,
+      "Progressed": 257300,
       "Completed": 3
     }
   ],
@@ -19090,8 +19095,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-10-13T22:00:36.4761355+00:00",
-  "LastChanged_Achievements": "2023-10-15T01:51:55.0314264+00:00",
+  "LastChanged_Achievements": "2023-10-15T02:25:47.870173+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:45.0933759+00:00",
-  "LastUpdate_Ratings": "2023-10-15T01:47:02.0066349+00:00",
-  "LastUpdate_Achievements": "2023-10-15T01:51:55.0316111+00:00"
+  "LastUpdate_Ratings": "2023-10-15T02:21:07.7261718+00:00",
+  "LastUpdate_Achievements": "2023-10-15T02:25:47.8704403+00:00"
 }

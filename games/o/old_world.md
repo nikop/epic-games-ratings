@@ -51,7 +51,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able Difficulty | 0.90% | ~132 |
 | Furious Family | 0.90% | ~132 |
 | Great Ziggurat | 0.90% | ~132 |
-| Musaeum | 0.90% | ~132 |
 | Manichaeism | 0.90% | ~132 |
 | Egyptian Paganism | 0.90% | ~132 |
 | Regicide | 0.80% | ~118 |
@@ -61,6 +60,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legendary Cities | 0.80% | ~118 |
 | Apadana | 0.80% | ~118 |
 | Colossus | 0.80% | ~118 |
+| Musaeum | 0.80% | ~118 |
 | Necropolis | 0.80% | ~118 |
 | Learn to Play 2 | 0.80% | ~118 |
 | Mighty | 0.70% | ~103 |
@@ -130,6 +130,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ready | 0.30% | ~44 |
 | Noble Difficulty | 0.30% | ~44 |
 | Clerics | 0.30% | ~44 |
+| Cao'an | 0.30% | ~44 |
 | Adur Burzen-Mihr | 0.30% | ~44 |
 | Learn to Play 5 | 0.30% | ~44 |
 | Egypt | 0.30% | ~44 |
@@ -148,7 +149,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Old | 0.20% | ~29 |
 | Peacemaker | 0.20% | ~29 |
 | Glorious Difficulty | 0.20% | ~29 |
-| Cao'an | 0.20% | ~29 |
 | Assyria | 0.20% | ~29 |
 | Hatti | 0.20% | ~29 |
 | Pantheon of Gods | 0.20% | ~29 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,705 (Ranked 135)  
+Progressed: 14,706 (Ranked 135)  
 Completed: 5 (0.03%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -527,7 +527,7 @@ Completed: 5 (0.03%) (Ranked 283)
 | 2023-10-12 | 14,624 | 5 |
 | 2023-10-13 | 14,652 | 5 |
 | 2023-10-14 | 14,699 | 5 |
-| 2023-10-15 | 14,705 | 5 |
+| 2023-10-15 | 14,706 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,839 (Ranked 210)  

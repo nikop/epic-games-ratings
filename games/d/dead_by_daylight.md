@@ -6,9 +6,9 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 2.00% | ~18,800 |
-| It wakes | 2.00% | ~18,800 |
-| Skillful | 2.00% | ~18,800 |
+| Zealous | 2.00% | ~18,801 |
+| It wakes | 2.00% | ~18,801 |
+| Skillful | 2.00% | ~18,801 |
 | The Grand Sacrifice | 1.00% | ~9,400 |
 | No one left behind | 1.00% | ~9,400 |
 | Medic | 1.00% | ~9,400 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~940 |
 | Adept Ripley | 0.10% | ~940 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 939,988 (Ranked 14)  
+Progressed: 940,043 (Ranked 14)  
 Completed: 50 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -414,7 +414,7 @@ Completed: 50 (0.01%) (Ranked 296)
 | 2023-10-12 | 934,954 | 50 |
 | 2023-10-13 | 937,037 | 50 |
 | 2023-10-14 | 939,759 | 50 |
-| 2023-10-15 | 939,988 | 50 |
+| 2023-10-15 | 940,043 | 50 |
 ## Awards
 Max (Diverse Characters): 33,877  (Ranked 15)  
 Sum: 262,341 (Ranked 13)  

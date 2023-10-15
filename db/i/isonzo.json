@@ -6,9 +6,9 @@
   "Ranking_Popularity": 452,
   "Ranking_PopularitySum": 359,
   "Ranking_EOS_Progress": 160,
-  "Ranking_EOS_Completed": 243,
+  "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -839,10 +839,10 @@
     }
   ],
   "EOS_Progressed": 7047,
-  "EOS_Completed": 8,
+  "EOS_Completed": 9,
   "EOS_NewPlayers": 13,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.11,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:36:46.6696258+00:00",
@@ -6103,6 +6103,11 @@
       "Time": "2023-10-15T00:08:30.2741355+00:00",
       "NumProgressed": 7047,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-15T02:28:42.6297527+00:00",
+      "NumProgressed": 7047,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 45,
@@ -6474,15 +6479,15 @@
       "ID": "akchbl3",
       "IsBase": true,
       "Progressed": 7047,
-      "Completed": 8
+      "Completed": 9
     }
   ],
   "FirstSeen": "2022-09-13T17:01:45.3760457+00:00",
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-09-23T14:01:09.047151+00:00",
-  "LastChanged_Achievements": "2023-10-15T01:55:30.7129578+00:00",
+  "LastChanged_Achievements": "2023-10-15T02:28:42.6297515+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:22.0219629+00:00",
-  "LastUpdate_Ratings": "2023-10-15T01:43:37.2491748+00:00",
-  "LastUpdate_Achievements": "2023-10-15T01:55:30.7130252+00:00"
+  "LastUpdate_Ratings": "2023-10-15T02:16:20.0072428+00:00",
+  "LastUpdate_Achievements": "2023-10-15T02:28:42.6298713+00:00"
 }

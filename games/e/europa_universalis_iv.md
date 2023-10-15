@@ -6,15 +6,15 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,245 |
-| Until death do us apart | 4.00% | ~17,245 |
+| That's a Grand Army | 4.00% | ~17,246 |
+| Until death do us apart | 4.00% | ~17,246 |
 | That is mine! | 3.00% | ~12,934 |
 | Victorious! | 3.00% | ~12,934 |
-| Brothers in Arms | 2.00% | ~8,622 |
-| Cold War | 2.00% | ~8,622 |
-| For the Glory | 2.00% | ~8,622 |
-| That's a Grand Navy | 2.00% | ~8,622 |
-| Seriously?! | 2.00% | ~8,622 |
+| Brothers in Arms | 2.00% | ~8,623 |
+| Cold War | 2.00% | ~8,623 |
+| For the Glory | 2.00% | ~8,623 |
+| That's a Grand Navy | 2.00% | ~8,623 |
+| Seriously?! | 2.00% | ~8,623 |
 | Defender of the Faith | 1.00% | ~4,311 |
 | It's all about the money | 1.00% | ~4,311 |
 | Respected | 1.00% | ~4,311 |
@@ -32,12 +32,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | City of Cities | 0.50% | ~2,156 |
 | Combined Arms | 0.50% | ~2,156 |
 | This navy can take it all | 0.50% | ~2,156 |
-| Bright Spark | 0.40% | ~1,724 |
-| Factionalism | 0.40% | ~1,724 |
-| Gentle Persuasion | 0.40% | ~1,724 |
-| Isn't this the way to India? | 0.40% | ~1,724 |
-| Queen of Conquest | 0.40% | ~1,724 |
-| The Five Colonies | 0.40% | ~1,724 |
+| Bright Spark | 0.40% | ~1,725 |
+| Factionalism | 0.40% | ~1,725 |
+| Gentle Persuasion | 0.40% | ~1,725 |
+| Isn't this the way to India? | 0.40% | ~1,725 |
+| Queen of Conquest | 0.40% | ~1,725 |
+| The Five Colonies | 0.40% | ~1,725 |
 | All That's Thine Shall Be Mine | 0.30% | ~1,293 |
 | Down Under | 0.30% | ~1,293 |
 | The Emperors new clothes | 0.30% | ~1,293 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 431,123 (Ranked 40)  
+Progressed: 431,139 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -539,7 +539,7 @@ Completed: 1 (0.00%) (Ranked 314)
 | 2023-10-12 | 429,009 | 1 |
 | 2023-10-13 | 429,869 | 1 |
 | 2023-10-14 | 431,056 | 1 |
-| 2023-10-15 | 431,123 | 1 |
+| 2023-10-15 | 431,139 | 1 |
 ## Awards
 Max (Educational): 6,534  (Ranked 55)  
 Sum: 53,639 (Ranked 25)  
