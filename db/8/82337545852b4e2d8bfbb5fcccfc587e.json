@@ -4,8 +4,8 @@
   "ProductSlug": "deeeer-simulator-9bfc4a",
   "Ranking_EOS_Progress": 420,
   "Ranking_EOS_Completed": 25,
-  "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-09-04T07:00:00+00:00",
     "PcReleaseDate": "2021-11-23T23:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 64,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 12.5,
   "EosHistory": [
@@ -374,9 +374,9 @@
       "ID": "EpicACHV_10",
       "SetID": "acn799d",
       "Name": "Counting Sheep",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 70,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "EpicACHV_11",
@@ -438,9 +438,9 @@
       "ID": "EpicACHV_2",
       "SetID": "acn799d",
       "Name": "Self-sacrifice",
-      "Percentage": 97,
+      "Percentage": 98,
       "XP": 30,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "EpicACHV_3",
@@ -494,9 +494,9 @@
       "ID": "EpicACHV_9",
       "SetID": "acn799d",
       "Name": "Deer-hunting",
-      "Percentage": 81,
+      "Percentage": 83,
       "XP": 30,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     }
   ],
   "AchievementSets": [
@@ -509,8 +509,8 @@
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2023-10-16T13:19:09.1304228+00:00",
+  "LastChanged_Achievements": "2023-10-16T14:09:12.9901589+00:00",
   "LastUpdate_AppInfo": "2023-10-11T08:57:13.9823134+00:00",
-  "LastUpdate_Ratings": "2023-10-16T13:09:13.6520517+00:00",
-  "LastUpdate_Achievements": "2023-10-16T13:19:09.1304416+00:00"
+  "LastUpdate_Ratings": "2023-10-16T14:00:00.7521377+00:00",
+  "LastUpdate_Achievements": "2023-10-16T14:09:12.9901717+00:00"
 }

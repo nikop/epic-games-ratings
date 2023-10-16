@@ -734,9 +734,9 @@
       "ID": "ach_boss_zone",
       "SetID": "5a4225j",
       "Name": "Won Mega Boss",
-      "Percentage": 0,
+      "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_bosses_complete",
@@ -846,9 +846,9 @@
       "ID": "ach_lotsokills",
       "SetID": "5a4225j",
       "Name": "Lots o\u0027 Kills",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_pacifist",
@@ -925,8 +925,8 @@
   ],
   "FirstSeen": "2023-09-27T14:59:58.9719434+00:00",
   "FirstSeenAchievements": "2023-06-02T21:05:45.273905+00:00",
-  "LastChanged_Achievements": "2023-10-16T13:15:51.9714713+00:00",
+  "LastChanged_Achievements": "2023-10-16T14:06:25.193091+00:00",
   "LastUpdate_AppInfo": "2023-10-14T07:57:06.8682552+00:00",
-  "LastUpdate_Ratings": "2023-10-16T13:12:17.8340519+00:00",
-  "LastUpdate_Achievements": "2023-10-16T13:15:51.9714986+00:00"
+  "LastUpdate_Ratings": "2023-10-16T14:02:14.5313162+00:00",
+  "LastUpdate_Achievements": "2023-10-16T14:06:25.1931099+00:00"
 }

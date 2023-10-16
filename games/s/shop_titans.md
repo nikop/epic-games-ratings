@@ -6,10 +6,10 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 3.00% | ~4,130 |
-| Basic in Bulk | 3.00% | ~4,130 |
-| Tinkle of Coins | 3.00% | ~4,130 |
-| Titan's First Steps | 3.00% | ~4,130 |
+| Sponsored by Argon | 3.00% | ~4,131 |
+| Basic in Bulk | 3.00% | ~4,131 |
+| Tinkle of Coins | 3.00% | ~4,131 |
+| Titan's First Steps | 3.00% | ~4,131 |
 | One Easy Payment | 2.00% | ~2,754 |
 | Some Assembly Required | 2.00% | ~2,754 |
 | Disintermediation | 2.00% | ~2,754 |
@@ -39,12 +39,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | Gem Expert | 0.90% | ~1,239 |
 | Helping Hand | 0.90% | ~1,239 |
 | Natural 20 | 0.90% | ~1,239 |
-| Research & Development | 0.80% | ~1,101 |
-| Fated Encounters | 0.80% | ~1,101 |
-| Power of Love | 0.80% | ~1,101 |
-| Flawless Fusion | 0.80% | ~1,101 |
-| Royal Ransom | 0.80% | ~1,101 |
-| Magical Harmony | 0.80% | ~1,101 |
+| Research & Development | 0.80% | ~1,102 |
+| Fated Encounters | 0.80% | ~1,102 |
+| Power of Love | 0.80% | ~1,102 |
+| Flawless Fusion | 0.80% | ~1,102 |
+| Royal Ransom | 0.80% | ~1,102 |
+| Magical Harmony | 0.80% | ~1,102 |
 | A Notch Above the Rest | 0.70% | ~964 |
 | Tax not Included | 0.70% | ~964 |
 | Big Game Hunting | 0.70% | ~964 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,683 (Ranked 73)  
+Progressed: 137,689 (Ranked 73)  
 Completed: 168 (0.12%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 168 (0.12%) (Ranked 241)
 | 2023-10-13 | 137,555 | 168 |
 | 2023-10-14 | 137,618 | 168 |
 | 2023-10-15 | 137,669 | 168 |
-| 2023-10-16 | 137,683 | 168 |
+| 2023-10-16 | 137,689 | 168 |
 ## Awards
 Max (Great for Beginners): 4,787  (Ranked 72)  
 Sum: 27,383 (Ranked 50)  

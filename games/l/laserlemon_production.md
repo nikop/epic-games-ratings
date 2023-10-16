@@ -9,6 +9,7 @@
 | Six's Song | 18.00% | ~2 |
 | Highly Sprung | 18.00% | ~2 |
 | Kitchen Hand | 18.00% | ~2 |
+| Light Up Your life | 18.00% | ~2 |
 | So Close | 18.00% | ~2 |
 | The Lair | 18.00% | ~2 |
 | We'll Meet Again | 18.00% | ~2 |
@@ -18,13 +19,12 @@
 | End in Sight | 9.00% | ~1 |
 | I'm Losing You | 9.00% | ~1 |
 | Is Anybody Out There? | 9.00% | ~1 |
-| Light Up Your life | 9.00% | ~1 |
 | Not Alone | 9.00% | ~1 |
+| Rascal | 9.00% | ~1 |
 | The Guest Area | 9.00% | ~1 |
 | The Lady's Quarters | 9.00% | ~1 |
 | Hard to the Core | 0.00% | ~0 |
 | Little Lost Things | 0.00% | ~0 |
-| Rascal | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 11 (Ranked 526)  
 Completed: 0 (0.00%) (Ranked 314)  

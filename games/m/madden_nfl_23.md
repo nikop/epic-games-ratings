@@ -1,33 +1,33 @@
 # Madden NFL 23
 [Store](https://store.epicgames.com/en-US/p/madden-nfl-23)  
 [View Rawdata](../../db/m/madden_nfl_23.json)  
-Rating: 4.27 (Ranked 835)  
+Rating: 4.28 (Ranked 828)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bragging Rights | 56.00% | ~1,469 |
-| MVP | 54.00% | ~1,417 |
-| Big Spender | 53.00% | ~1,391 |
-| Stud Finder | 42.00% | ~1,102 |
-| Dealmaker | 41.00% | ~1,076 |
-| ROTY | 33.00% | ~866 |
-| Roster Reshuffle | 31.00% | ~813 |
+| Bragging Rights | 56.00% | ~1,471 |
+| MVP | 54.00% | ~1,419 |
+| Big Spender | 53.00% | ~1,392 |
+| Stud Finder | 42.00% | ~1,103 |
+| Dealmaker | 41.00% | ~1,077 |
+| ROTY | 33.00% | ~867 |
+| Roster Reshuffle | 31.00% | ~814 |
 | Future of the Franchise | 19.00% | ~499 |
-| Throwin’ Dots | 17.00% | ~446 |
-| Already in Progress | 17.00% | ~446 |
-| Change of Scenery | 17.00% | ~446 |
+| Throwin’ Dots | 17.00% | ~447 |
+| Already in Progress | 17.00% | ~447 |
+| Change of Scenery | 17.00% | ~447 |
 | Primetime | 16.00% | ~420 |
 | Pro Bowler | 16.00% | ~420 |
-| Unblockable | 10.00% | ~262 |
+| Unblockable | 10.00% | ~263 |
 | Pocket Ace | 5.00% | ~131 |
 | Head-to-Head | 5.00% | ~131 |
 | Lockdown Corner | 4.00% | ~105 |
 | Gain Train | 1.00% | ~26 |
 | Ol' Reliable | 0.80% | ~21 |
 | Lockdown Leader | 0.50% | ~13 |
-| The Fortress | 0.40% | ~10 |
+| The Fortress | 0.40% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,624 (Ranked 196)  
+Progressed: 2,627 (Ranked 196)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -58,14 +58,14 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-10-13 | 2,491 | 0 |
 | 2023-10-14 | 2,549 | 0 |
 | 2023-10-15 | 2,602 | 0 |
-| 2023-10-16 | 2,624 | 0 |
+| 2023-10-16 | 2,627 | 0 |
 ## Awards
-Max (Diverse Characters): 27  (Ranked 491)  
-Sum: 74 (Ranked 449)  
-Diff (max vs sum): 42  
+Max (Diverse Characters): 28  (Ranked 483)  
+Sum: 75 (Ranked 449)  
+Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 27 |
+| This game has Diverse Characters | 28 |
 | This game has a Competitive Community | 25 |
 | This game is Highly Recommended | 22 |
 ## Ratings History
@@ -188,3 +188,4 @@ Diff (max vs sum): 42
 | 2023-10-11 | 4.27 | 27 | 74 |
 | 2023-10-13 | 4.28 | 27 | 74 |
 | 2023-10-14 | 4.27 | 27 | 74 |
+| 2023-10-16 | 4.28 | 28 | 75 |

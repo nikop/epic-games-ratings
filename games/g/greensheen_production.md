@@ -18,6 +18,7 @@
 | Mono Tones | 44.00% | ~4 |
 | True Colours | 44.00% | ~4 |
 | Bully of Bullies | 33.00% | ~3 |
+| Twenty-Six | 33.00% | ~3 |
 | Hospitalised | 33.00% | ~3 |
 | Merciful feat | 33.00% | ~3 |
 | Far Ahead | 33.00% | ~3 |
@@ -34,7 +35,6 @@
 | First do no harm | 33.00% | ~3 |
 | How Do I Look? | 33.00% | ~3 |
 | X Best Friends | 33.00% | ~3 |
-| Twenty-Six | 22.00% | ~2 |
 | No More Remains | 22.00% | ~2 |
 | School Kids | 22.00% | ~2 |
 | Primetime Content Consumer | 0.00% | ~0 |

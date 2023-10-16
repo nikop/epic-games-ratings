@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 241,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6520,9 +6520,9 @@
       "Count": 3759
     }
   ],
-  "EOS_Progressed": 137683,
+  "EOS_Progressed": 137689,
   "EOS_Completed": 168,
-  "EOS_NewPlayers": 321,
+  "EOS_NewPlayers": 325,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -24840,6 +24840,11 @@
       "Time": "2023-10-16T13:13:27.9925321+00:00",
       "NumProgressed": 137683,
       "NumCompleted": 168
+    },
+    {
+      "Time": "2023-10-16T14:03:51.2062054+00:00",
+      "NumProgressed": 137689,
+      "NumCompleted": 168
     }
   ],
   "TotalAchievements": 112,
@@ -24963,7 +24968,7 @@
       "Name": "Research \u0026 Development",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1101
+      "UsersEstimate": 1102
     },
     {
       "ID": "blueprint03",
@@ -25011,7 +25016,7 @@
       "Name": "Fated Encounters",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1101
+      "UsersEstimate": 1102
     },
     {
       "ID": "chest01",
@@ -25019,7 +25024,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4130
+      "UsersEstimate": 4131
     },
     {
       "ID": "chest02",
@@ -25083,7 +25088,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4130
+      "UsersEstimate": 4131
     },
     {
       "ID": "commonres02",
@@ -25211,7 +25216,7 @@
       "Name": "Power of Love",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1101
+      "UsersEstimate": 1102
     },
     {
       "ID": "energy03",
@@ -25291,7 +25296,7 @@
       "Name": "Flawless Fusion",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1101
+      "UsersEstimate": 1102
     },
     {
       "ID": "fuselegendary",
@@ -25323,7 +25328,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4130
+      "UsersEstimate": 4131
     },
     {
       "ID": "gold02",
@@ -25347,7 +25352,7 @@
       "Name": "Royal Ransom",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1101
+      "UsersEstimate": 1102
     },
     {
       "ID": "gold05",
@@ -25667,7 +25672,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4130
+      "UsersEstimate": 4131
     },
     {
       "ID": "twinenchant01",
@@ -25675,7 +25680,7 @@
       "Name": "Magical Harmony",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1101
+      "UsersEstimate": 1102
     },
     {
       "ID": "typeunlock01",
@@ -25746,15 +25751,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 137683,
+      "Progressed": 137689,
       "Completed": 168
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-15T13:00:06.5567238+00:00",
-  "LastChanged_Achievements": "2023-10-16T13:13:27.9925315+00:00",
+  "LastChanged_Achievements": "2023-10-16T14:03:51.206205+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:10.2617104+00:00",
-  "LastUpdate_Ratings": "2023-10-16T13:06:47.8271409+00:00",
-  "LastUpdate_Achievements": "2023-10-16T13:13:27.9928478+00:00"
+  "LastUpdate_Ratings": "2023-10-16T13:58:01.3456195+00:00",
+  "LastUpdate_Achievements": "2023-10-16T14:03:51.2064155+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "b8abdf9f9bc64ed6b4128a71fd47607f",
   "Name": "Gamedec - Definitive Edition",
   "ProductSlug": "gamedec",
-  "Ranking_Rating": 819,
+  "Ranking_Rating": 820,
   "Ranking_Popularity": 369,
   "Ranking_PopularitySum": 441,
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 249272,
+  "EOS_Progressed": 249274,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 727,
+  "EOS_NewPlayers": 725,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20428,6 +20428,11 @@
       "Time": "2023-10-16T13:19:22.3655471+00:00",
       "NumProgressed": 249272,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-16T14:09:22.2360359+00:00",
+      "NumProgressed": 249274,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -20439,7 +20444,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 67303
+      "UsersEstimate": 67304
     },
     {
       "ID": "ACH_AON",
@@ -20503,7 +20508,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 32405
+      "UsersEstimate": 32406
     },
     {
       "ID": "ACH_HATTRICK",
@@ -20519,7 +20524,7 @@
       "Name": "Elementary!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 22434
+      "UsersEstimate": 22435
     },
     {
       "ID": "ACH_HIDEANDSEEK",
@@ -20583,7 +20588,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 69796
+      "UsersEstimate": 69797
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -20655,7 +20660,7 @@
       "Name": "Write that down",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 59825
+      "UsersEstimate": 59826
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -20854,7 +20859,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 249272,
+      "Progressed": 249274,
       "Completed": 7
     }
   ],
@@ -20862,8 +20867,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-10-15T11:58:28.2667382+00:00",
-  "LastChanged_Achievements": "2023-10-16T13:19:22.3655466+00:00",
+  "LastChanged_Achievements": "2023-10-16T14:09:22.2360352+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:29.8544864+00:00",
-  "LastUpdate_Ratings": "2023-10-16T13:07:33.7806618+00:00",
-  "LastUpdate_Achievements": "2023-10-16T13:19:22.3657461+00:00"
+  "LastUpdate_Ratings": "2023-10-16T13:58:37.9214894+00:00",
+  "LastUpdate_Achievements": "2023-10-16T14:09:22.2361706+00:00"
 }

@@ -33,8 +33,8 @@
 | Very Elusive | 43.00% | ~307 |
 | Head Hunter | 43.00% | ~307 |
 | Operative | 42.00% | ~300 |
+| Scholar | 42.00% | ~300 |
 | Veteran | 41.00% | ~293 |
-| Scholar | 41.00% | ~293 |
 | Power Full | 40.00% | ~286 |
 | The Professor | 39.00% | ~279 |
 | The Archangel | 37.00% | ~265 |
@@ -64,10 +64,10 @@
 | Fade Away | 30.00% | ~214 |
 | Treason | 30.00% | ~214 |
 | Agent | 30.00% | ~214 |
+| Digital Exorcist | 30.00% | ~214 |
 | Bringer of War | 30.00% | ~214 |
 | Cat's in the Cradle | 29.00% | ~207 |
 | Doppelganger | 29.00% | ~207 |
-| Digital Exorcist | 29.00% | ~207 |
 | Mobilizer | 29.00% | ~207 |
 | Friend or Foe | 28.00% | ~200 |
 | First Aid Specialist | 27.00% | ~193 |
@@ -94,9 +94,9 @@
 | Under Pressure | 19.00% | ~136 |
 | Hard Target | 19.00% | ~136 |
 | Saboteur | 19.00% | ~136 |
+| Last Witness | 19.00% | ~136 |
 | Fact Finder | 19.00% | ~136 |
 | Last Resort | 18.00% | ~129 |
-| Last Witness | 18.00% | ~129 |
 | Well Connected | 18.00% | ~129 |
 | Electronics Specialist | 17.00% | ~122 |
 | Sabotage Specialist | 17.00% | ~122 |

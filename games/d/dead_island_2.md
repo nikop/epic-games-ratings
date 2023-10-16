@@ -5,8 +5,8 @@ Rating: 4.54 (Ranked 511)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 4.00% | ~27,865 |
-| Welcome To Hell-A | 4.00% | ~27,865 |
+| Hotel California | 4.00% | ~27,866 |
+| Welcome To Hell-A | 4.00% | ~27,866 |
 | Dr. Reed, I Presume? | 3.00% | ~20,899 |
 | Git Gutte! | 3.00% | ~20,899 |
 | Bookworm | 3.00% | ~20,899 |
@@ -20,19 +20,19 @@ Rating: 4.54 (Ranked 511)
 | Stacking the Deck | 3.00% | ~20,899 |
 | Personal Assistant Personally Assisted | 3.00% | ~20,899 |
 | This is My Weapon | 3.00% | ~20,899 |
-| Making Your Mark | 2.00% | ~13,932 |
-| Anger Management | 2.00% | ~13,932 |
-| Perks of the Job | 2.00% | ~13,932 |
-| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,932 |
-| Slayer Squad | 2.00% | ~13,932 |
-| Like Riding a Bike | 2.00% | ~13,932 |
-| Zombologist | 2.00% | ~13,932 |
-| Ooh, Shiny! | 2.00% | ~13,932 |
-| A Patton Emerges | 2.00% | ~13,932 |
-| Humanity Distilled | 2.00% | ~13,932 |
-| I Am the Resurrection | 2.00% | ~13,932 |
-| Down with the Sickness | 2.00% | ~13,932 |
-| Our True Nature | 2.00% | ~13,932 |
+| Making Your Mark | 2.00% | ~13,933 |
+| Anger Management | 2.00% | ~13,933 |
+| Perks of the Job | 2.00% | ~13,933 |
+| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,933 |
+| Slayer Squad | 2.00% | ~13,933 |
+| Like Riding a Bike | 2.00% | ~13,933 |
+| Zombologist | 2.00% | ~13,933 |
+| Ooh, Shiny! | 2.00% | ~13,933 |
+| A Patton Emerges | 2.00% | ~13,933 |
+| Humanity Distilled | 2.00% | ~13,933 |
+| I Am the Resurrection | 2.00% | ~13,933 |
+| Down with the Sickness | 2.00% | ~13,933 |
+| Our True Nature | 2.00% | ~13,933 |
 | Jumbo Keyring | 1.00% | ~6,966 |
 | Max Headroom | 1.00% | ~6,966 |
 | Go, Bobcats! | 1.00% | ~6,966 |
@@ -40,18 +40,18 @@ Rating: 4.54 (Ranked 511)
 | Smorgasbord | 0.90% | ~6,270 |
 | Not Even My Final Form | 0.80% | ~5,573 |
 | Internet Famous | 0.80% | ~5,573 |
-| On Safari | 0.70% | ~4,876 |
-| Variety is the Spice of Death | 0.70% | ~4,876 |
+| On Safari | 0.70% | ~4,877 |
+| Variety is the Spice of Death | 0.70% | ~4,877 |
 | Make it So | 0.60% | ~4,180 |
 | LA Influential | 0.50% | ~3,483 |
 | Gore Horse | 0.50% | ~3,483 |
 | Sharpest Tool in the Box | 0.50% | ~3,483 |
-| Sole Survivor | 0.40% | ~2,786 |
-| Survival Skills | 0.40% | ~2,786 |
+| Sole Survivor | 0.40% | ~2,787 |
+| Survival Skills | 0.40% | ~2,787 |
 | Donk! | 0.20% | ~1,393 |
 | Bucket List | 0.10% | ~697 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 696,623 (Ranked 22)  
+Progressed: 696,644 (Ranked 22)  
 Completed: 2,232 (0.32%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,10 +230,10 @@ Completed: 2,232 (0.32%) (Ranked 199)
 | 2023-10-13 | 695,203 | 2,223 |
 | 2023-10-14 | 695,832 | 2,225 |
 | 2023-10-15 | 696,452 | 2,227 |
-| 2023-10-16 | 696,623 | 2,232 |
+| 2023-10-16 | 696,644 | 2,232 |
 ## Awards
 Max (Great Boss Battles): 6,462  (Ranked 56)  
-Sum: 9,664 (Ranked 91)  
+Sum: 9,665 (Ranked 91)  
 Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
@@ -245,7 +245,7 @@ Diff (max vs sum): -35
 | This game has Amazing Storytelling | 383 |
 | This game is Highly Recommended | 365 |
 | This game is Extremely Fun | 364 |
-| This game has Amazing Characters | 352 |
+| This game has Amazing Characters | 353 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -427,4 +427,4 @@ Diff (max vs sum): -35
 | 2023-10-13 | 4.54 | 6,420 | 9,594 |
 | 2023-10-14 | 4.54 | 6,442 | 9,627 |
 | 2023-10-15 | 4.54 | 6,462 | 9,657 |
-| 2023-10-16 | 4.54 | 6,462 | 9,664 |
+| 2023-10-16 | 4.54 | 6,462 | 9,665 |

@@ -37,11 +37,11 @@ Number of Ratings: 62  (23.09.2022)
 | No More Marching | 9.00% | ~426 |
 | Is This Real Life? | 9.00% | ~426 |
 | Pusher Man | 8.00% | ~378 |
+| Liberation | 8.00% | ~378 |
 | Squad Chief Helvig | 8.00% | ~378 |
 | Sunglasses at Night | 7.00% | ~331 |
 | Duty-Bound | 7.00% | ~331 |
 | Follow the White Rabbit | 7.00% | ~331 |
-| Liberation | 7.00% | ~331 |
 | Risk Assessment | 7.00% | ~331 |
 | Carbon Cat | 6.00% | ~284 |
 | It Lives! It Sniffs! It Conquers! | 5.00% | ~236 |

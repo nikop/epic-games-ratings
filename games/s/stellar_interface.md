@@ -92,6 +92,7 @@
 | Rambo VI | 2.00% | ~1 |
 | Space Odysseus | 2.00% | ~1 |
 | Freedom Fighter | 2.00% | ~1 |
+| Omicron Gamma | 2.00% | ~1 |
 | Unbalanced | 2.00% | ~1 |
 | Golden Tovarish | 2.00% | ~1 |
 | Archer's Golden Fate | 2.00% | ~1 |
@@ -119,7 +120,6 @@
 | Articulated Exoskeleton | 0.00% | ~0 |
 | Wrath of the Stars | 0.00% | ~0 |
 | Omicron Major | 0.00% | ~0 |
-| Omicron Gamma | 0.00% | ~0 |
 | U.N. Squadron I | 0.00% | ~0 |
 | U.N. Squadron II | 0.00% | ~0 |
 | U.N. Squadron III | 0.00% | ~0 |

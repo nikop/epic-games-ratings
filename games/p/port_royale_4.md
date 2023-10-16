@@ -6,26 +6,26 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 81.00% | ~780 |
-| My little farm | 64.00% | ~616 |
+| Cabin boy | 81.00% | ~781 |
+| My little farm | 64.00% | ~617 |
 | Every beginning is difficult | 63.00% | ~607 |
 | Gofer | 57.00% | ~549 |
 | 3, 2, 1, mine | 55.00% | ~530 |
-| O Captain! My Captain! | 54.00% | ~520 |
+| O Captain! My Captain! | 54.00% | ~521 |
 | Seafarer | 52.00% | ~501 |
-| Greed for gold | 43.00% | ~414 |
-| Intangible | 42.00% | ~404 |
-| I'm out of here for a while | 42.00% | ~404 |
-| In a mint condition | 37.00% | ~356 |
-| Licence to Kill | 37.00% | ~356 |
-| Pirates! | 34.00% | ~327 |
-| Collectionitis | 29.00% | ~279 |
+| Greed for gold | 43.00% | ~415 |
+| Intangible | 42.00% | ~405 |
+| I'm out of here for a while | 42.00% | ~405 |
+| In a mint condition | 37.00% | ~357 |
+| Licence to Kill | 37.00% | ~357 |
+| Pirates! | 34.00% | ~328 |
+| Collectionitis | 29.00% | ~280 |
 | Christening | 28.00% | ~270 |
 | Megalomania | 28.00% | ~270 |
-| Groundskeeper | 26.00% | ~250 |
+| Groundskeeper | 26.00% | ~251 |
 | Wholesale | 22.00% | ~212 |
 | Walk the plank | 21.00% | ~202 |
-| Pearly gates | 18.00% | ~173 |
+| Pearly gates | 18.00% | ~174 |
 | My precious! | 17.00% | ~164 |
 | Conquistador | 14.00% | ~135 |
 | Panic buying | 11.00% | ~106 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Traffic chaos | 0.70% | ~7 |
 | Davy Jones' locker | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 963 (Ranked 237)  
+Progressed: 964 (Ranked 237)  
 Completed: 1 (0.10%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,6 +217,7 @@ Completed: 1 (0.10%) (Ranked 246)
 | 2023-10-13 | 957 | 1 |
 | 2023-10-14 | 959 | 1 |
 | 2023-10-15 | 963 | 1 |
+| 2023-10-16 | 964 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

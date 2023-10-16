@@ -410,9 +410,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22230,
+  "EOS_Progressed": 22232,
   "EOS_Completed": 439,
-  "EOS_NewPlayers": 461,
+  "EOS_NewPlayers": 462,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.97,
   "EosHistory": [
@@ -19655,6 +19655,11 @@
       "Time": "2023-10-16T13:13:13.8067853+00:00",
       "NumProgressed": 22230,
       "NumCompleted": 439
+    },
+    {
+      "Time": "2023-10-16T14:03:41.4424994+00:00",
+      "NumProgressed": 22232,
+      "NumCompleted": 439
     }
   ],
   "TotalAchievements": 20,
@@ -19698,7 +19703,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2445
+      "UsersEstimate": 2446
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -19714,7 +19719,7 @@
       "Name": "An uninvited guest",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1778
+      "UsersEstimate": 1779
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -19730,7 +19735,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 3334
+      "UsersEstimate": 3335
     },
     {
       "ID": "FOUND_ERIN",
@@ -19786,7 +19791,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 17117
+      "UsersEstimate": 17119
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -19794,7 +19799,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 6002
+      "UsersEstimate": 6003
     },
     {
       "ID": "NORTH_FINISHED",
@@ -19818,22 +19823,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 4001
+      "UsersEstimate": 4002
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 22230,
+      "Progressed": 22232,
       "Completed": 439
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-16T13:13:13.8067848+00:00",
+  "LastChanged_Achievements": "2023-10-16T14:03:41.442499+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:17.0806119+00:00",
-  "LastUpdate_Ratings": "2023-10-16T13:07:06.8107612+00:00",
-  "LastUpdate_Achievements": "2023-10-16T13:13:13.8069383+00:00"
+  "LastUpdate_Ratings": "2023-10-16T13:58:17.4169738+00:00",
+  "LastUpdate_Achievements": "2023-10-16T14:03:41.4426032+00:00"
 }

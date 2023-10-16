@@ -10720,10 +10720,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 53847,
       "NumberOfAwardsMax": 6551
+    },
+    {
+      "Time": "2023-10-16T14:02:07.3101548+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 53868,
+      "NumberOfAwardsMax": 6551
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 53847,
+  "NumberOfAwards": 53868,
   "NumberOfAwardsMax": 6551,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -10743,7 +10749,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 6219
+      "Count": 6232
     },
     {
       "Text": "This game is Extremely Fun",
@@ -10785,7 +10791,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 5071
+      "Count": 5079
     },
     {
       "Text": "This game has Unique Visuals",
@@ -10794,9 +10800,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 432381,
+  "EOS_Progressed": 432407,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5869,
+  "EOS_NewPlayers": 5856,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31144,6 +31150,11 @@
       "Time": "2023-10-16T13:19:25.5349779+00:00",
       "NumProgressed": 432381,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-16T14:09:25.1172185+00:00",
+      "NumProgressed": 432407,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -32155,7 +32166,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17295
+      "UsersEstimate": 17296
     },
     {
       "ID": "achievement_grand_coalition",
@@ -32363,7 +32374,7 @@
       "Name": "It\u0027s all about luck",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 3891
+      "UsersEstimate": 3892
     },
     {
       "ID": "achievement_its_all_about_the_money",
@@ -33435,7 +33446,7 @@
       "Name": "That is mine!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12971
+      "UsersEstimate": 12972
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -33819,7 +33830,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17295
+      "UsersEstimate": 17296
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -33851,7 +33862,7 @@
       "Name": "Victorious!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12971
+      "UsersEstimate": 12972
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -33986,21 +33997,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 432381,
+      "Progressed": 432407,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 432381,
+      "Progressed": 432407,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-10-16T12:02:40.4281609+00:00",
-  "LastChanged_Achievements": "2023-10-16T13:19:25.5349773+00:00",
+  "LastChanged": "2023-10-16T14:02:07.3101545+00:00",
+  "LastChanged_Achievements": "2023-10-16T14:09:25.1172182+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:17.3086374+00:00",
-  "LastUpdate_Ratings": "2023-10-16T13:12:08.7004263+00:00",
-  "LastUpdate_Achievements": "2023-10-16T13:19:25.5366479+00:00"
+  "LastUpdate_Ratings": "2023-10-16T14:02:07.3101553+00:00",
+  "LastUpdate_Achievements": "2023-10-16T14:09:25.1184754+00:00"
 }
