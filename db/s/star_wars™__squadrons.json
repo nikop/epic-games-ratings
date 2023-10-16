@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11420,
+  "EOS_Progressed": 11429,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2604,
+  "EOS_NewPlayers": 2601,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3136,6 +3136,11 @@
       "Time": "2023-10-16T22:12:15.9741517+00:00",
       "NumProgressed": 11420,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-16T23:09:15.6707973+00:00",
+      "NumProgressed": 11429,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -3148,7 +3153,7 @@
       "Name": "The Galaxy\u0027s Finest (Story Mode)",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 1713
+      "UsersEstimate": 1714
     },
     {
       "ID": "achievement_10",
@@ -3196,7 +3201,7 @@
       "Name": "Begin the Ceremony",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 2284
+      "UsersEstimate": 2286
     },
     {
       "ID": "achievement_16",
@@ -3236,7 +3241,7 @@
       "Name": "The Galaxy\u0027s Finest (Pilot)",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 799
+      "UsersEstimate": 800
     },
     {
       "ID": "achievement_20",
@@ -3244,7 +3249,7 @@
       "Name": "Stun \u0027Em",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "achievement_21",
@@ -3252,7 +3257,7 @@
       "Name": "Sound Strategy",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "achievement_22",
@@ -3356,7 +3361,7 @@
       "Name": "Mission Accomplished",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 2170
+      "UsersEstimate": 2172
     },
     {
       "ID": "achievement_34",
@@ -3372,7 +3377,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 10849
+      "UsersEstimate": 10858
     },
     {
       "ID": "achievement_36",
@@ -3380,7 +3385,7 @@
       "Name": "Together, Vanguard",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 799
+      "UsersEstimate": 800
     },
     {
       "ID": "achievement_37",
@@ -3388,7 +3393,7 @@
       "Name": "Asset Secured",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1485
+      "UsersEstimate": 1486
     },
     {
       "ID": "achievement_38",
@@ -3404,7 +3409,7 @@
       "Name": "Safety in the Storm",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 2741
+      "UsersEstimate": 2743
     },
     {
       "ID": "achievement_4",
@@ -3484,7 +3489,7 @@
       "Name": "Dressed for the Job You Want",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "achievement_6",
@@ -3492,7 +3497,7 @@
       "Name": "A Starfighter of Your Own",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1599
+      "UsersEstimate": 1600
     },
     {
       "ID": "achievement_7",
@@ -3508,7 +3513,7 @@
       "Name": "A Better Idea",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 2855
+      "UsersEstimate": 2857
     },
     {
       "ID": "achievement_9",
@@ -3523,7 +3528,7 @@
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 11420,
+      "Progressed": 11429,
       "Completed": 1
     }
   ],
@@ -3531,8 +3536,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2023-10-16T22:12:15.9741511+00:00",
+  "LastChanged_Achievements": "2023-10-16T23:09:15.6707969+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:10.1416155+00:00",
-  "LastUpdate_Ratings": "2023-10-16T22:00:20.6570002+00:00",
-  "LastUpdate_Achievements": "2023-10-16T22:12:15.9742288+00:00"
+  "LastUpdate_Ratings": "2023-10-16T22:59:12.5586479+00:00",
+  "LastUpdate_Achievements": "2023-10-16T23:09:15.6708583+00:00"
 }

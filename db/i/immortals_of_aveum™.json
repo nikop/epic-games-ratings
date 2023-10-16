@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -829,9 +829,9 @@
       "ID": "achievement_66",
       "SetID": "18al4io",
       "Name": "Backtracker",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "achievement_67",
@@ -878,8 +878,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-10-13T20:00:44.8425195+00:00",
-  "LastChanged_Achievements": "2023-10-16T22:11:42.7006677+00:00",
+  "LastChanged_Achievements": "2023-10-16T23:08:49.629403+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:46.0785415+00:00",
-  "LastUpdate_Ratings": "2023-10-16T22:05:15.1892354+00:00",
-  "LastUpdate_Achievements": "2023-10-16T22:11:42.7007105+00:00"
+  "LastUpdate_Ratings": "2023-10-16T23:02:50.7705407+00:00",
+  "LastUpdate_Achievements": "2023-10-16T23:08:49.6294477+00:00"
 }

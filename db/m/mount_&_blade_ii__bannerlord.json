@@ -8037,9 +8037,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 63407,
+  "EOS_Progressed": 63408,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 417,
+  "EOS_NewPlayers": 414,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27077,6 +27077,11 @@
       "Time": "2023-10-16T22:07:36.7523314+00:00",
       "NumProgressed": 63407,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-16T23:05:07.8476499+00:00",
+      "NumProgressed": 63408,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -27190,9 +27195,9 @@
       "ID": "Explorer",
       "SetID": "den0lp1",
       "Name": "Explorer",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 127
     },
     {
       "ID": "Fat Cat",
@@ -27296,7 +27301,7 @@
       "Name": "Know your enemy",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 4438
+      "UsersEstimate": 4439
     },
     {
       "ID": "Lance-a-lot",
@@ -27312,7 +27317,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 20924
+      "UsersEstimate": 20925
     },
     {
       "ID": "Lawbringer",
@@ -27344,7 +27349,7 @@
       "Name": "Mastery",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 4438
+      "UsersEstimate": 4439
     },
     {
       "ID": "Minor Clan",
@@ -27440,7 +27445,7 @@
       "Name": "The king is pleased",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12047
+      "UsersEstimate": 12048
     },
     {
       "ID": "This Is Our Land",
@@ -27495,15 +27500,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 63407,
+      "Progressed": 63408,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-16T20:57:34.7428906+00:00",
-  "LastChanged_Achievements": "2023-10-16T22:07:36.7523308+00:00",
+  "LastChanged_Achievements": "2023-10-16T23:05:07.8476495+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:51.8810296+00:00",
-  "LastUpdate_Ratings": "2023-10-16T21:57:47.9761153+00:00",
-  "LastUpdate_Achievements": "2023-10-16T22:07:36.7525403+00:00"
+  "LastUpdate_Ratings": "2023-10-16T22:57:28.1720711+00:00",
+  "LastUpdate_Achievements": "2023-10-16T23:05:07.8477951+00:00"
 }

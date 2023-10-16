@@ -479,9 +479,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 89070,
+  "EOS_Progressed": 89073,
   "EOS_Completed": 404,
-  "EOS_NewPlayers": 756,
+  "EOS_NewPlayers": 754,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -20329,6 +20329,11 @@
       "Time": "2023-10-16T22:09:35.6851522+00:00",
       "NumProgressed": 89070,
       "NumCompleted": 404
+    },
+    {
+      "Time": "2023-10-16T23:06:41.7819275+00:00",
+      "NumProgressed": 89073,
+      "NumCompleted": 404
     }
   ],
   "TotalAchievements": 10,
@@ -20364,7 +20369,7 @@
       "Name": "Forest Drawings",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "Drawings04",
@@ -20404,7 +20409,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 31174
+      "UsersEstimate": 31176
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -20419,15 +20424,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 89070,
+      "Progressed": 89073,
       "Completed": 404
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-10-16T14:00:05.3174253+00:00",
-  "LastChanged_Achievements": "2023-10-16T22:09:35.6851513+00:00",
+  "LastChanged_Achievements": "2023-10-16T23:06:41.7819271+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:12.4808914+00:00",
-  "LastUpdate_Ratings": "2023-10-16T22:02:04.1169174+00:00",
-  "LastUpdate_Achievements": "2023-10-16T22:09:35.6853111+00:00"
+  "LastUpdate_Ratings": "2023-10-16T23:00:25.6235049+00:00",
+  "LastUpdate_Achievements": "2023-10-16T23:06:41.7820552+00:00"
 }

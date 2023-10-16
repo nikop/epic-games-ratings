@@ -4,7 +4,7 @@
   "ProductSlug": "foregone",
   "Ranking_EOS_Progress": 671,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 391,
+  "Ranking_EOS_NewPlayers": 392,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2020-02-26T16:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:53.3098683+00:00",
   "LastChanged": "2023-03-31T05:57:53.3098684+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:00.6054665+00:00",
-  "LastUpdate_Ratings": "2023-10-16T22:01:26.3931327+00:00",
-  "LastUpdate_Achievements": "2023-10-16T22:07:39.9160515+00:00"
+  "LastUpdate_Ratings": "2023-10-16T22:59:57.1323955+00:00",
+  "LastUpdate_Achievements": "2023-10-16T23:05:10.0365803+00:00"
 }

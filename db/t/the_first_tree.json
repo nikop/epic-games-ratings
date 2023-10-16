@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -250,9 +250,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 36814,
+  "EOS_Progressed": 36815,
   "EOS_Completed": 115,
-  "EOS_NewPlayers": 241,
+  "EOS_NewPlayers": 242,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -15810,6 +15810,11 @@
       "Time": "2023-10-16T22:11:27.8381859+00:00",
       "NumProgressed": 36814,
       "NumCompleted": 115
+    },
+    {
+      "Time": "2023-10-16T23:08:39.265245+00:00",
+      "NumProgressed": 36815,
+      "NumCompleted": 115
     }
   ],
   "TotalAchievements": 14,
@@ -15909,7 +15914,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 28347
+      "UsersEstimate": 28348
     },
     {
       "ID": "roots",
@@ -15917,7 +15922,7 @@
       "Name": "The Way Forward",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 6258
+      "UsersEstimate": 6259
     },
     {
       "ID": "secretItem",
@@ -15932,15 +15937,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 36814,
+      "Progressed": 36815,
       "Completed": 115
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-10-14T11:57:58.6551569+00:00",
-  "LastChanged_Achievements": "2023-10-16T22:11:27.8381856+00:00",
+  "LastChanged_Achievements": "2023-10-16T23:08:39.2652447+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:38.5341026+00:00",
-  "LastUpdate_Ratings": "2023-10-16T22:00:18.3982592+00:00",
-  "LastUpdate_Achievements": "2023-10-16T22:11:27.8383031+00:00"
+  "LastUpdate_Ratings": "2023-10-16T22:59:11.4098542+00:00",
+  "LastUpdate_Achievements": "2023-10-16T23:08:39.2653348+00:00"
 }

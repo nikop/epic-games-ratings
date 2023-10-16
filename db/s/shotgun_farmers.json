@@ -1726,9 +1726,9 @@
       "ID": "ach_x_victims_using_shotgun",
       "SetID": "cmg602e",
       "Name": "Cornivore",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 164
+      "UsersEstimate": 167
     },
     {
       "ID": "ach_all_koth_points",
@@ -1989,8 +1989,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-10-16T22:10:01.5114532+00:00",
+  "LastChanged_Achievements": "2023-10-16T23:07:19.3715912+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:15.578541+00:00",
-  "LastUpdate_Ratings": "2023-10-16T21:59:15.4710472+00:00",
-  "LastUpdate_Achievements": "2023-10-16T22:10:01.5115287+00:00"
+  "LastUpdate_Ratings": "2023-10-16T22:58:27.6723287+00:00",
+  "LastUpdate_Achievements": "2023-10-16T23:07:19.3717973+00:00"
 }

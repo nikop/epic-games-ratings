@@ -410,9 +410,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22245,
+  "EOS_Progressed": 22246,
   "EOS_Completed": 439,
-  "EOS_NewPlayers": 447,
+  "EOS_NewPlayers": 445,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.97,
   "EosHistory": [
@@ -19700,6 +19700,11 @@
       "Time": "2023-10-16T22:06:53.4126609+00:00",
       "NumProgressed": 22245,
       "NumCompleted": 439
+    },
+    {
+      "Time": "2023-10-16T23:04:17.5414069+00:00",
+      "NumProgressed": 22246,
+      "NumCompleted": 439
     }
   ],
   "TotalAchievements": 20,
@@ -19751,7 +19756,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 2224
+      "UsersEstimate": 2225
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -19767,7 +19772,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2669
+      "UsersEstimate": 2670
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -19823,7 +19828,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2669
+      "UsersEstimate": 2670
     },
     {
       "ID": "INTRO_FINISHED",
@@ -19870,15 +19875,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 22245,
+      "Progressed": 22246,
       "Completed": 439
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-16T22:06:53.4126602+00:00",
+  "LastChanged_Achievements": "2023-10-16T23:04:17.5414066+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:17.0806119+00:00",
-  "LastUpdate_Ratings": "2023-10-16T21:59:23.7576293+00:00",
-  "LastUpdate_Achievements": "2023-10-16T22:06:53.4128942+00:00"
+  "LastUpdate_Ratings": "2023-10-16T22:58:33.2849783+00:00",
+  "LastUpdate_Achievements": "2023-10-16T23:04:17.5415599+00:00"
 }

@@ -20,8 +20,8 @@ Number of Ratings: 36  (23.09.2022)
 | No Niños | 27.00% | ~251 |
 | I ain’t afraid of no Ghost | 25.00% | ~232 |
 | Act II Complete | 21.00% | ~195 |
+| Bing Bang BOOM | 20.00% | ~186 |
 | A successful procedure! | 19.00% | ~176 |
-| Bing Bang BOOM | 19.00% | ~176 |
 | Breaking the Ice | 18.00% | ~167 |
 | Solidarity Forever | 12.00% | ~111 |
 | A Tucked Tale | 10.00% | ~93 |

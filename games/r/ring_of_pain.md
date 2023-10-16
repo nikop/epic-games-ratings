@@ -6,34 +6,34 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~228,513 |
-| Uncharted Territory | 89.00% | ~211,850 |
-| Getting A Glimpse | 73.00% | ~173,765 |
-| A Quick Escape | 65.00% | ~154,722 |
-| Explorer | 62.00% | ~147,581 |
-| An Offering | 62.00% | ~147,581 |
+| First Steps | 96.00% | ~228,514 |
+| Uncharted Territory | 89.00% | ~211,851 |
+| Getting A Glimpse | 73.00% | ~173,766 |
+| A Quick Escape | 65.00% | ~154,723 |
+| Explorer | 62.00% | ~147,582 |
+| An Offering | 62.00% | ~147,582 |
 | Defeat The Dark | 61.00% | ~145,201 |
 | Colorful Corpse | 58.00% | ~138,060 |
-| That Was Quick | 57.00% | ~135,679 |
-| A Donation | 57.00% | ~135,679 |
-| Goodbye, Frog Friend | 54.00% | ~128,538 |
-| Heavy Hitter | 53.00% | ~126,158 |
+| That Was Quick | 57.00% | ~135,680 |
+| A Donation | 57.00% | ~135,680 |
+| Goodbye, Frog Friend | 54.00% | ~128,539 |
+| Heavy Hitter | 53.00% | ~126,159 |
 | Heartless | 46.00% | ~109,496 |
 | Spine Breaker | 46.00% | ~109,496 |
-| Deflection | 45.00% | ~107,115 |
+| Deflection | 45.00% | ~107,116 |
 | Sneaky | 43.00% | ~102,355 |
-| Ambitious Intent | 42.00% | ~99,974 |
-| Delving Deeper | 42.00% | ~99,974 |
-| C-C-Combo | 42.00% | ~99,974 |
+| Ambitious Intent | 42.00% | ~99,975 |
+| Delving Deeper | 42.00% | ~99,975 |
+| C-C-Combo | 42.00% | ~99,975 |
 | Nothing To Lose | 40.00% | ~95,214 |
 | The Bestiary | 40.00% | ~95,214 |
-| What's Yours Is Mine | 39.00% | ~92,833 |
+| What's Yours Is Mine | 39.00% | ~92,834 |
 | R.I.P | 37.00% | ~88,073 |
-| Shootout | 36.00% | ~85,692 |
+| Shootout | 36.00% | ~85,693 |
 | I Am Overburdened | 35.00% | ~83,312 |
 | Cold Hearted | 34.00% | ~80,932 |
-| Dig Your Own Grave | 33.00% | ~78,551 |
-| Toxic | 33.00% | ~78,551 |
+| Dig Your Own Grave | 33.00% | ~78,552 |
+| Toxic | 33.00% | ~78,552 |
 | Who To Trust? | 32.00% | ~76,171 |
 | Flesh Wound | 29.00% | ~69,030 |
 | Walk It Off | 28.00% | ~66,650 |
@@ -44,26 +44,26 @@ Number of Ratings: 15,086  (23.09.2022)
 | New Perspectives | 27.00% | ~64,269 |
 | Shapeshifting | 27.00% | ~64,269 |
 | Destroy Your Fears | 26.00% | ~61,889 |
-| Save Our Souls | 25.00% | ~59,508 |
+| Save Our Souls | 25.00% | ~59,509 |
 | To The Death! | 20.00% | ~47,607 |
 | Well Prepared | 20.00% | ~47,607 |
 | Just Chilling | 20.00% | ~47,607 |
-| All Consuming | 19.00% | ~45,226 |
-| Stop Hitting Yourself | 19.00% | ~45,226 |
+| All Consuming | 19.00% | ~45,227 |
+| Stop Hitting Yourself | 19.00% | ~45,227 |
 | Shadow Spreads | 17.00% | ~40,466 |
 | Max Damage! | 17.00% | ~40,466 |
 | Don't Ignore Me! | 17.00% | ~40,466 |
 | Illuminate, Eliminate | 17.00% | ~40,466 |
-| Doing Time | 16.00% | ~38,085 |
+| Doing Time | 16.00% | ~38,086 |
 | Spreading Plague | 15.00% | ~35,705 |
 | The Long Run | 15.00% | ~35,705 |
-| A Rough Road | 13.00% | ~30,944 |
-| Chain Reaction | 13.00% | ~30,944 |
+| A Rough Road | 13.00% | ~30,945 |
+| Chain Reaction | 13.00% | ~30,945 |
 | Berzerker | 12.00% | ~28,564 |
 | Antivenom | 12.00% | ~28,564 |
 | Thank You, Friend | 11.00% | ~26,184 |
-| Barbecue | 10.00% | ~23,803 |
-| Snake Sneak | 10.00% | ~23,803 |
+| Barbecue | 10.00% | ~23,804 |
+| Snake Sneak | 10.00% | ~23,804 |
 | Precious | 9.00% | ~21,423 |
 | Challenge Increases | 8.00% | ~19,043 |
 | New Game+ | 8.00% | ~19,043 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Down Under | 0.50% | ~1,190 |
 | Near Death Experience | 0.30% | ~714 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,034 (Ranked 56)  
+Progressed: 238,035 (Ranked 56)  
 Completed: 281 (0.12%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 281 (0.12%) (Ranked 242)
 | 2023-10-13 | 237,844 | 281 |
 | 2023-10-14 | 237,914 | 281 |
 | 2023-10-15 | 237,982 | 281 |
-| 2023-10-16 | 238,034 | 281 |
+| 2023-10-16 | 238,035 | 281 |
 ## Awards
 Max (Quickly Understood Controls): 1,498  (Ranked 127)  
 Sum: 11,612 (Ranked 82)  

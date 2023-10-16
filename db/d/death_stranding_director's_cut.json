@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 71,
   "Ranking_EOS_Progress": 31,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 61,
+  "Ranking_EOS_NewPlayers": 62,
   "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2022-03-30T14:30:00+00:00",
@@ -7276,9 +7276,9 @@
       "Count": 614
     }
   ],
-  "EOS_Progressed": 537631,
+  "EOS_Progressed": 537635,
   "EOS_Completed": 2061,
-  "EOS_NewPlayers": 1165,
+  "EOS_NewPlayers": 1164,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -27586,6 +27586,11 @@
       "Time": "2023-10-16T22:08:58.3198745+00:00",
       "NumProgressed": 537631,
       "NumCompleted": 2061
+    },
+    {
+      "Time": "2023-10-16T23:06:15.2917911+00:00",
+      "NumProgressed": 537635,
+      "NumCompleted": 2061
     }
   ],
   "TotalAchievements": 63,
@@ -27605,7 +27610,7 @@
       "Name": "Delivering Is What I Do",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 494621
+      "UsersEstimate": 494624
     },
     {
       "ID": "10",
@@ -27645,7 +27650,7 @@
       "Name": "Thank You, Sam",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 107526
+      "UsersEstimate": 107527
     },
     {
       "ID": "15",
@@ -27653,7 +27658,7 @@
       "Name": "Thanks for Everything",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 107526
+      "UsersEstimate": 107527
     },
     {
       "ID": "16",
@@ -27661,7 +27666,7 @@
       "Name": "Everyday Delivery",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 279568
+      "UsersEstimate": 279570
     },
     {
       "ID": "17",
@@ -27669,7 +27674,7 @@
       "Name": "Deliveries Done",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 129031
+      "UsersEstimate": 129032
     },
     {
       "ID": "18",
@@ -27693,7 +27698,7 @@
       "Name": "Rebuilding America",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 430105
+      "UsersEstimate": 430108
     },
     {
       "ID": "20",
@@ -27709,7 +27714,7 @@
       "Name": "The Automation Revolution",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 193547
+      "UsersEstimate": 193549
     },
     {
       "ID": "22",
@@ -27717,7 +27722,7 @@
       "Name": "Apprentice Builder",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 387094
+      "UsersEstimate": 387097
     },
     {
       "ID": "23",
@@ -27733,7 +27738,7 @@
       "Name": "A New Day for the UCA",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 381718
+      "UsersEstimate": 381721
     },
     {
       "ID": "25",
@@ -27749,7 +27754,7 @@
       "Name": "Well Connected",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 333331
+      "UsersEstimate": 333334
     },
     {
       "ID": "27",
@@ -27765,7 +27770,7 @@
       "Name": "Like and Be Liked",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 413976
+      "UsersEstimate": 413979
     },
     {
       "ID": "29",
@@ -27773,7 +27778,7 @@
       "Name": "The People\u0027s Porter",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 301073
+      "UsersEstimate": 301076
     },
     {
       "ID": "3",
@@ -27781,7 +27786,7 @@
       "Name": "We Need You",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 241934
+      "UsersEstimate": 241936
     },
     {
       "ID": "30",
@@ -27789,7 +27794,7 @@
       "Name": "The World\u0027s Most Popular Porter",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 155913
+      "UsersEstimate": 155914
     },
     {
       "ID": "31",
@@ -27797,7 +27802,7 @@
       "Name": "Good Samaritan",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 483868
+      "UsersEstimate": 483872
     },
     {
       "ID": "32",
@@ -27805,7 +27810,7 @@
       "Name": "Giver of Gifts",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 209676
+      "UsersEstimate": 209678
     },
     {
       "ID": "33",
@@ -27813,7 +27818,7 @@
       "Name": "Chiral Crafter",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 317202
+      "UsersEstimate": 317205
     },
     {
       "ID": "34",
@@ -27821,7 +27826,7 @@
       "Name": "A Thirst for Knowledge",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 258063
+      "UsersEstimate": 258065
     },
     {
       "ID": "35",
@@ -27837,7 +27842,7 @@
       "Name": "The Custom Kid",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 327955
+      "UsersEstimate": 327957
     },
     {
       "ID": "37",
@@ -27845,7 +27850,7 @@
       "Name": "Soak and Sigh",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 134408
+      "UsersEstimate": 134409
     },
     {
       "ID": "38",
@@ -27853,7 +27858,7 @@
       "Name": "The Post Guides the Present",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 91397
+      "UsersEstimate": 91398
     },
     {
       "ID": "39",
@@ -27869,7 +27874,7 @@
       "Name": "I Won\u0027t Break",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 172042
+      "UsersEstimate": 172043
     },
     {
       "ID": "40",
@@ -27877,7 +27882,7 @@
       "Name": "Pathfinder",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 193547
+      "UsersEstimate": 193549
     },
     {
       "ID": "41",
@@ -27885,7 +27890,7 @@
       "Name": "Childminder",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 75268
+      "UsersEstimate": 75269
     },
     {
       "ID": "42",
@@ -27893,7 +27898,7 @@
       "Name": "A Baby Blessing",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 344084
+      "UsersEstimate": 344086
     },
     {
       "ID": "43",
@@ -27901,7 +27906,7 @@
       "Name": "Prominent Porter",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 349460
+      "UsersEstimate": 349463
     },
     {
       "ID": "44",
@@ -27917,7 +27922,7 @@
       "Name": "Catcher Crusher",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 241934
+      "UsersEstimate": 241936
     },
     {
       "ID": "46",
@@ -27925,7 +27930,7 @@
       "Name": "Snooze \u0027n\u0027 Soothe",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 258063
+      "UsersEstimate": 258065
     },
     {
       "ID": "47",
@@ -27933,7 +27938,7 @@
       "Name": "Boots Are a Porter\u0027s Best Friend",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 317202
+      "UsersEstimate": 317205
     },
     {
       "ID": "48",
@@ -27949,7 +27954,7 @@
       "Name": "Pumped Porter",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 150537
+      "UsersEstimate": 150538
     },
     {
       "ID": "5",
@@ -27957,7 +27962,7 @@
       "Name": "BB...",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 172042
+      "UsersEstimate": 172043
     },
     {
       "ID": "50",
@@ -27965,7 +27970,7 @@
       "Name": "Well-Traveled",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 198923
+      "UsersEstimate": 198925
     },
     {
       "ID": "51",
@@ -27981,7 +27986,7 @@
       "Name": "Rest In Pieces",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 86021
+      "UsersEstimate": 86022
     },
     {
       "ID": "53",
@@ -27997,7 +28002,7 @@
       "Name": "Sleep Tight, Little BB",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 236558
+      "UsersEstimate": 236559
     },
     {
       "ID": "55",
@@ -28005,7 +28010,7 @@
       "Name": "A Shout in the Dark",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 268816
+      "UsersEstimate": 268818
     },
     {
       "ID": "56",
@@ -28029,7 +28034,7 @@
       "Name": "I Couldn\u0027t Hold it In!",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 301073
+      "UsersEstimate": 301076
     },
     {
       "ID": "59",
@@ -28037,7 +28042,7 @@
       "Name": "All Roads Lead to the UCA",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 209676
+      "UsersEstimate": 209678
     },
     {
       "ID": "6",
@@ -28045,7 +28050,7 @@
       "Name": "We\u0027re Whole Again",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 150537
+      "UsersEstimate": 150538
     },
     {
       "ID": "60",
@@ -28053,7 +28058,7 @@
       "Name": "Soothing Sounds",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 247310
+      "UsersEstimate": 247312
     },
     {
       "ID": "61",
@@ -28061,7 +28066,7 @@
       "Name": "Building Bridges",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 344084
+      "UsersEstimate": 344086
     },
     {
       "ID": "62",
@@ -28077,7 +28082,7 @@
       "Name": "BBs: A Bridge Between This World and the One Beyond",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 139784
+      "UsersEstimate": 139785
     },
     {
       "ID": "8",
@@ -28085,7 +28090,7 @@
       "Name": "\u0022BB\u0022",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 139784
+      "UsersEstimate": 139785
     },
     {
       "ID": "9",
@@ -28093,22 +28098,22 @@
       "Name": "Sixty Deaths and Sixty Births in a Day",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 118279
+      "UsersEstimate": 118280
     }
   ],
   "AchievementSets": [
     {
       "ID": "aho6p5h",
       "IsBase": true,
-      "Progressed": 537631,
+      "Progressed": 537635,
       "Completed": 2061
     }
   ],
   "FirstSeen": "2022-07-22T20:27:07.1002044+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.0381621+00:00",
   "LastChanged": "2023-10-16T22:03:18.5912566+00:00",
-  "LastChanged_Achievements": "2023-10-16T22:08:58.3198739+00:00",
+  "LastChanged_Achievements": "2023-10-16T23:06:15.2917907+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:25.821678+00:00",
-  "LastUpdate_Ratings": "2023-10-16T22:03:18.5912573+00:00",
-  "LastUpdate_Achievements": "2023-10-16T22:08:58.3200987+00:00"
+  "LastUpdate_Ratings": "2023-10-16T23:01:23.7590899+00:00",
+  "LastUpdate_Achievements": "2023-10-16T23:06:15.2919756+00:00"
 }

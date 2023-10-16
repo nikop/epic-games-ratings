@@ -6,34 +6,34 @@ Rating: 4.43 (Ranked 673)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Country Bumpkin | 75.00% | ~1,522 |
-| A new Journey | 74.00% | ~1,501 |
-| Departure | 73.00% | ~1,481 |
-| From X to Y | 72.00% | ~1,461 |
-| Way of Iron | 70.00% | ~1,420 |
-| Mystery Tour | 69.00% | ~1,400 |
-| We brake for nobody | 67.00% | ~1,359 |
-| Brainstorm | 65.00% | ~1,319 |
-| Mind the Gap | 65.00% | ~1,319 |
-| Travel Company | 65.00% | ~1,319 |
-| All around the World | 62.00% | ~1,258 |
+| A new Journey | 74.00% | ~1,502 |
+| Departure | 73.00% | ~1,482 |
+| From X to Y | 72.00% | ~1,462 |
+| Way of Iron | 70.00% | ~1,421 |
+| Mystery Tour | 69.00% | ~1,401 |
+| We brake for nobody | 67.00% | ~1,360 |
+| Brainstorm | 65.00% | ~1,320 |
+| Mind the Gap | 65.00% | ~1,320 |
+| Travel Company | 65.00% | ~1,320 |
+| All around the World | 62.00% | ~1,259 |
 | Right through the middle | 58.00% | ~1,177 |
-| Facility Manager | 53.00% | ~1,075 |
-| Poor Devil | 53.00% | ~1,075 |
-| Producer | 50.00% | ~1,014 |
-| Apprentice | 42.00% | ~852 |
+| Facility Manager | 53.00% | ~1,076 |
+| Poor Devil | 53.00% | ~1,076 |
+| Producer | 50.00% | ~1,015 |
+| Apprentice | 42.00% | ~853 |
 | Bridge Builder | 41.00% | ~832 |
 | Access granted | 35.00% | ~710 |
 | Going once, going twice, sold | 35.00% | ~710 |
 | Stoker | 33.00% | ~670 |
 | Bull and bear | 33.00% | ~670 |
-| Full Steam ahead | 32.00% | ~649 |
-| Financial Shark | 31.00% | ~629 |
+| Full Steam ahead | 32.00% | ~650 |
 | All mine | 30.00% | ~609 |
 | Mole | 30.00% | ~609 |
+| Financial Shark | 30.00% | ~609 |
 | Socializer | 30.00% | ~609 |
-| Country Life | 28.00% | ~568 |
 | General Manager | 27.00% | ~548 |
-| Hostile Takeover | 25.00% | ~507 |
+| Country Life | 27.00% | ~548 |
+| Hostile Takeover | 25.00% | ~508 |
 | Seven at one stroke | 24.00% | ~487 |
 | Trailblazer | 21.00% | ~426 |
 | Traffic Junction | 21.00% | ~426 |
@@ -61,7 +61,7 @@ Rating: 4.43 (Ranked 673)
 | United States | 0.60% | ~12 |
 | Together we stand | 0.60% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,029 (Ranked 205)  
+Progressed: 2,030 (Ranked 205)  
 Completed: 0 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 0 (0.00%) (Ranked 315)
 | 2023-10-13 | 2,016 | 0 |
 | 2023-10-14 | 2,022 | 0 |
 | 2023-10-15 | 2,027 | 0 |
-| 2023-10-16 | 2,029 | 0 |
+| 2023-10-16 | 2,030 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

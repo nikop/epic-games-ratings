@@ -394,9 +394,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2573,
+  "EOS_Progressed": 2575,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 260,
+  "EOS_NewPlayers": 257,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2689,6 +2689,11 @@
       "Time": "2023-10-16T22:09:01.5405565+00:00",
       "NumProgressed": 2573,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-16T23:06:17.5469413+00:00",
+      "NumProgressed": 2575,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -2709,7 +2714,7 @@
       "Name": "Stud Finder",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "achievement_11",
@@ -2725,7 +2730,7 @@
       "Name": "Dealmaker",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "achievement_13",
@@ -2741,7 +2746,7 @@
       "Name": "ROTY",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "achievement_15",
@@ -2797,7 +2802,7 @@
       "Name": "Saw It Coming",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 1441
+      "UsersEstimate": 1442
     },
     {
       "ID": "achievement_21",
@@ -2837,7 +2842,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "achievement_7",
@@ -2861,14 +2866,14 @@
       "Name": "Future of the Franchise",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     }
   ],
   "AchievementSets": [
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 2573,
+      "Progressed": 2575,
       "Completed": 0
     }
   ],
@@ -2876,8 +2881,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-10-16T17:05:43.4260697+00:00",
-  "LastChanged_Achievements": "2023-10-16T22:09:01.5405558+00:00",
+  "LastChanged_Achievements": "2023-10-16T23:06:17.5469409+00:00",
   "LastUpdate_AppInfo": "2023-10-12T02:57:10.0786796+00:00",
-  "LastUpdate_Ratings": "2023-10-16T22:05:19.6727376+00:00",
-  "LastUpdate_Achievements": "2023-10-16T22:09:01.5406017+00:00"
+  "LastUpdate_Ratings": "2023-10-16T23:02:54.644858+00:00",
+  "LastUpdate_Achievements": "2023-10-16T23:06:17.5469722+00:00"
 }

@@ -5,21 +5,21 @@ Rating: 4.33 (Ranked 790)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Food Taster | 9.00% | ~5,161 |
-| Fall Fest | 7.00% | ~4,014 |
+| Food Taster | 9.00% | ~5,162 |
+| Fall Fest | 7.00% | ~4,015 |
 | HFZ Goober | 6.00% | ~3,441 |
 | Thrill Seeker | 6.00% | ~3,441 |
-| Flying Present Catcher | 5.00% | ~2,867 |
-| Sunflower Master | 5.00% | ~2,867 |
-| Hi Fiver | 3.00% | ~1,720 |
-| A Timely Splash | 3.00% | ~1,720 |
+| Flying Present Catcher | 5.00% | ~2,868 |
+| Sunflower Master | 5.00% | ~2,868 |
+| Hi Fiver | 3.00% | ~1,721 |
+| A Timely Splash | 3.00% | ~1,721 |
 | Backer Visitor | 2.00% | ~1,147 |
 | Hate That Randomizer | 2.00% | ~1,147 |
 | Feet on Funkotron | 2.00% | ~1,147 |
-| Elf Chaser | 1.00% | ~573 |
-| Fool Me Twice | 1.00% | ~573 |
-| Old School Jammin' | 1.00% | ~573 |
-| Wakey Wakey | 1.00% | ~573 |
+| Elf Chaser | 1.00% | ~574 |
+| Fool Me Twice | 1.00% | ~574 |
+| Old School Jammin' | 1.00% | ~574 |
+| Wakey Wakey | 1.00% | ~574 |
 | Level Diver | 0.80% | ~459 |
 | Gimme My Presents Back! | 0.70% | ~401 |
 | Cleaning Out Santa's Sack | 0.70% | ~401 |
@@ -55,7 +55,7 @@ Rating: 4.33 (Ranked 790)
 | Why Do I Keep Doing That? | 0.10% | ~57 |
 | Hey, You Did It! | 0.10% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,349 (Ranked 100)  
+Progressed: 57,351 (Ranked 100)  
 Completed: 6 (0.01%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,7 +234,7 @@ Completed: 6 (0.01%) (Ranked 297)
 | 2023-10-13 | 57,302 | 6 |
 | 2023-10-14 | 57,316 | 6 |
 | 2023-10-15 | 57,335 | 6 |
-| 2023-10-16 | 57,349 | 6 |
+| 2023-10-16 | 57,351 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

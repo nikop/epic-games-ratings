@@ -24,9 +24,9 @@
 | Reunited | 14.00% | ~36 |
 | Transformers, cubes in disguise | 13.00% | ~34 |
 | All Alone | 13.00% | ~34 |
+| Cataclysm | 13.00% | ~34 |
 | So Close | 12.00% | ~31 |
 | Final Charge | 12.00% | ~31 |
-| Cataclysm | 12.00% | ~31 |
 | Summer Luvin' | 5.00% | ~13 |
 | You Are Terminated | 2.00% | ~5 |
 | Data Research | 0.40% | ~1 |
