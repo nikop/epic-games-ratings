@@ -653,6 +653,7 @@
 | [The Suicide of Rachel Foster](../games/t/the_suicide_of_rachel_foster.md) | 11 | 1,000 |
 | [The Surge](../games/t/the_surge.md) | 67 | 1,000 |
 | [The Surge 2](../games/t/the_surge_2.md) | 57 | 1,000 |
+| [The Swine](../games/t/the_swine.md) | 5 | 1,000 |
 | [The Tale of Bistun](../games/t/the_tale_of_bistun.md) | 38 | 1,000 |
 | [The Unbeatable Path](../games/t/the_unbeatable_path.md) | 23 | 1,000 |
 | [The Uncertain: Last Quiet Day](../games/t/the_uncertain__last_quiet_day.md) | 32 | 1,000 |
