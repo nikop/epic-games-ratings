@@ -2,7 +2,7 @@
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 1 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 100.00% |
-| 3 | [The Riflemen](games/t/the_riflemen.md) | 48.88% |
+| 3 | [The Riflemen](games/t/the_riflemen.md) | 48.86% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.15% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.99% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
@@ -27,7 +27,7 @@
 | 25 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 12.50% |
 | 25 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 12.50% |
 | 25 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 12.50% |
-| 28 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.29% |
+| 28 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.28% |
 | 29 | [Remains](games/r/remains.md) | 11.76% |
 | 30 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 11.59% |
 | 31 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
@@ -127,8 +127,8 @@
 | 125 | [Iron Danger](games/i/iron_danger.md) | 1.44% |
 | 126 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.38% |
 | 126 | [Poosh XL](games/p/poosh_xl.md) | 1.38% |
-| 126 | [Ten Dates](games/t/ten_dates.md) | 1.38% |
-| 129 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.37% |
+| 128 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.37% |
+| 128 | [Ten Dates](games/t/ten_dates.md) | 1.37% |
 | 130 | [Chorus](games/c/chorus.md) | 1.36% |
 | 131 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.33% |
 | 132 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.32% |
@@ -137,10 +137,10 @@
 | 135 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.30% |
 | 136 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.16% |
 | 137 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.15% |
-| 138 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.13% |
-| 139 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.09% |
+| 138 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.12% |
 | 139 | [Trifox](games/t/trifox.md) | 1.09% |
-| 141 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 1.08% |
+| 140 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 1.08% |
+| 140 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.08% |
 | 142 | [Adios](games/a/adios.md) | 1.05% |
 | 142 | [Infindustry](games/i/infindustry.md) | 1.05% |
 | 142 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.05% |

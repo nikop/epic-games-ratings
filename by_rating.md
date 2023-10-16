@@ -110,7 +110,7 @@
 | 98 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 955 | 153 |
 | 98 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 537 |
 | 98 | [Wildermyth](games/w/wildermyth.md) | 4.78 | 28 | 483 |
-| 111 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 6,232 | 59 |
+| 111 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 6,270 | 59 |
 | 111 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 7,503 | 50 |
 | 111 | [Outlast](games/o/outlast.md) | 4.77 | 0 | 537 |
 | 111 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 0 | 537 |
@@ -143,7 +143,7 @@
 | 138 | [Haven](games/h/haven.md) | 4.75 | 0 | 537 |
 | 138 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 4.75 | 0 | 537 |
 | 138 | [Hypnospace Outlaw](games/h/hypnospace_outlaw.md) | 4.75 | 0 | 537 |
-| 138 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 713 | 177 |
+| 138 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 717 | 174 |
 | 138 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.75 | 0 | 537 |
 | 138 | [The Machines Arena](games/t/the_machines_arena.md) | 4.75 | 0 | 537 |
 | 138 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 0 | 537 |
@@ -151,7 +151,7 @@
 | 148 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.74 | 0 | 537 |
 | 148 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 824 | 160 |
 | 148 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 15,951 | 24 |
-| 148 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 716 | 176 |
+| 148 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 716 | 177 |
 | 148 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.74 | 0 | 537 |
 | 148 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 7,233 | 52 |
 | 148 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.74 | 0 | 537 |
@@ -322,7 +322,7 @@
 | 300 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.65 | 122 | 326 |
 | 321 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.64 | 0 | 537 |
 | 321 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.64 | 0 | 537 |
-| 321 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 5,982 | 62 |
+| 321 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 5,983 | 62 |
 | 321 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 118 | 330 |
 | 321 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.64 | 98,252 | 9 |
 | 321 | [High On Life](games/h/high_on_life.md) | 4.64 | 0 | 537 |
@@ -566,7 +566,7 @@
 | 552 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.51 | 0 | 537 |
 | 552 | [Ratchet & Clank: Rift Apart](games/0/046aeb7098b94ac3961dad6c5dbe68c0.md) | 4.51 | 0 | 537 |
 | 552 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 0 | 537 |
-| 552 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.51 | 768 | 168 |
+| 552 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.51 | 769 | 167 |
 | 552 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 66 | 397 |
 | 552 | [Tom Clancy's Rainbow Six Extraction](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.51 | 172 | 296 |
 | 552 | [UnMetal](games/u/unmetal.md) | 4.51 | 0 | 537 |
@@ -670,7 +670,7 @@
 | 657 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 591 | 190 |
 | 657 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 0 | 537 |
 | 657 | [The Captain](games/t/the_captain.md) | 4.44 | 98 | 350 |
-| 657 | [Train Valley 2](games/t/train_valley_2.md) | 4.44 | 768 | 168 |
+| 657 | [Train Valley 2](games/t/train_valley_2.md) | 4.44 | 768 | 169 |
 | 657 | [Weird West: Definitive Edition](games/w/weird_west.md) | 4.44 | 28 | 483 |
 | 657 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 59 | 402 |
 | 674 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 46 | 425 |
@@ -1008,8 +1008,8 @@
 | 1,006 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.72 | 0 | 537 |
 | 1,007 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.71 | 0 | 537 |
 | 1,007 | [Blood of Steel](games/b/blood_of_steel.md) | 3.71 | 0 | 537 |
-| 1,009 | [Blazing Sails](games/b/blazing_sails.md) | 3.69 | 0 | 537 |
-| 1,010 | [Chainmonsters](games/c/chainmonsters.md) | 3.68 | 0 | 537 |
+| 1,009 | [Blazing Sails](games/b/blazing_sails.md) | 3.68 | 0 | 537 |
+| 1,009 | [Chainmonsters](games/c/chainmonsters.md) | 3.68 | 0 | 537 |
 | 1,011 | [Adios](games/a/adios.md) | 3.55 | 0 | 537 |
 | 1,012 | [Redfall](games/r/redfall.md) | 3.51 | 0 | 537 |
 | 1,013 | [Operation New Earth](games/o/operation_new_earth.md) | 3.38 | 0 | 537 |
