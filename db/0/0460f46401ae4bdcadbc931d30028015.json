@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -388,9 +388,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2566,
+  "EOS_Progressed": 2568,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 284,
+  "EOS_NewPlayers": 282,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2658,6 +2658,11 @@
       "Time": "2023-10-16T04:05:20.4068713+00:00",
       "NumProgressed": 2566,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-16T05:05:47.3668121+00:00",
+      "NumProgressed": 2568,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -2686,7 +2691,7 @@
       "Name": "Big Spender",
       "Percentage": 23,
       "XP": 60,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "achievement_12",
@@ -2694,7 +2699,7 @@
       "Name": "Dealmaker",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "achievement_13",
@@ -2766,7 +2771,7 @@
       "Name": "Saw It Coming",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 1437
+      "UsersEstimate": 1438
     },
     {
       "ID": "achievement_21",
@@ -2830,14 +2835,14 @@
       "Name": "Future of the Franchise",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     }
   ],
   "AchievementSets": [
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 2566,
+      "Progressed": 2568,
       "Completed": 0
     }
   ],
@@ -2845,8 +2850,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-10-16T01:46:25.1874726+00:00",
-  "LastChanged_Achievements": "2023-10-16T04:05:20.4068707+00:00",
+  "LastChanged_Achievements": "2023-10-16T05:05:47.3668115+00:00",
   "LastUpdate_AppInfo": "2023-10-12T02:57:10.0786796+00:00",
-  "LastUpdate_Ratings": "2023-10-16T04:00:55.0058633+00:00",
-  "LastUpdate_Achievements": "2023-10-16T04:05:20.4069106+00:00"
+  "LastUpdate_Ratings": "2023-10-16T05:01:52.3837628+00:00",
+  "LastUpdate_Achievements": "2023-10-16T05:05:47.3668435+00:00"
 }

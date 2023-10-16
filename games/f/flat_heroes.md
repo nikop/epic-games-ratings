@@ -8,7 +8,7 @@
 | Snake Eyes | 59.00% | ~355 |
 | Be water, my friend | 57.00% | ~343 |
 | Fireball | 45.00% | ~270 |
-| The King of Flat | 43.00% | ~258 |
+| The King of Flat | 44.00% | ~264 |
 | Hit That Ball | 34.00% | ~204 |
 | Air Slash | 33.00% | ~198 |
 | Eat That Apple | 25.00% | ~150 |
@@ -18,9 +18,9 @@
 | The Colossus | 7.00% | ~42 |
 | Floor is Lava | 6.00% | ~36 |
 | Pim Pam Pum | 5.00% | ~30 |
+| Black Belt | 4.00% | ~24 |
 | Dash Crash - Hero Edition | 4.00% | ~24 |
 | Ambush | 4.00% | ~24 |
-| Black Belt | 3.00% | ~18 |
 | Snake Eyes - Hero Edition | 2.00% | ~12 |
 | The King of Flat - Hero Edition | 2.00% | ~12 |
 | Quite The Hero | 2.00% | ~12 |

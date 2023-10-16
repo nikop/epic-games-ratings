@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6706,
+  "EOS_Progressed": 6707,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 343,
+  "EOS_NewPlayers": 342,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4384,6 +4384,11 @@
       "Time": "2023-10-16T04:04:47.4888204+00:00",
       "NumProgressed": 6706,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-16T05:05:14.2641716+00:00",
+      "NumProgressed": 6707,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -4396,7 +4401,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 4895
+      "UsersEstimate": 4896
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -4404,7 +4409,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 4694
+      "UsersEstimate": 4695
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -4412,7 +4417,7 @@
       "Name": "Calm Sailing",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2414
+      "UsersEstimate": 2415
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -4612,7 +4617,7 @@
       "Name": "Oui, Chef!",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 1475
+      "UsersEstimate": 1476
     },
     {
       "ID": "PRODUCE_HYBRIDFLOWER",
@@ -4668,14 +4673,14 @@
       "Name": "Skilled",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     }
   ],
   "AchievementSets": [
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 6706,
+      "Progressed": 6707,
       "Completed": 0
     }
   ],
@@ -4683,8 +4688,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-14T10:58:26.1451757+00:00",
-  "LastChanged_Achievements": "2023-10-16T04:04:47.4888197+00:00",
+  "LastChanged_Achievements": "2023-10-16T05:05:14.2641707+00:00",
   "LastUpdate_AppInfo": "2023-10-13T06:57:01.9287951+00:00",
-  "LastUpdate_Ratings": "2023-10-16T03:58:29.2649093+00:00",
-  "LastUpdate_Achievements": "2023-10-16T04:04:47.4889109+00:00"
+  "LastUpdate_Ratings": "2023-10-16T04:58:55.1634279+00:00",
+  "LastUpdate_Achievements": "2023-10-16T05:05:14.2642432+00:00"
 }

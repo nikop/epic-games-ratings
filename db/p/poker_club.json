@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 33,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 52,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-04-27T15:00:00+00:00",
     "PcReleaseDate": "2020-11-20T00:00:00+00:00",
@@ -838,9 +838,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 531341,
+  "EOS_Progressed": 531345,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1617,
+  "EOS_NewPlayers": 1612,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20878,6 +20878,11 @@
       "Time": "2023-10-16T04:06:01.5487372+00:00",
       "NumProgressed": 531341,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-16T05:06:37.0672507+00:00",
+      "NumProgressed": 531345,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -20889,7 +20894,7 @@
       "Name": "A Bit On The Side",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 143462
+      "UsersEstimate": 143463
     },
     {
       "ID": "Backdoor",
@@ -20897,7 +20902,7 @@
       "Name": "Backdoor",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 132835
+      "UsersEstimate": 132836
     },
     {
       "ID": "BeforeYouWreckYourself",
@@ -20985,7 +20990,7 @@
       "Name": "Cold Caller",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 207223
+      "UsersEstimate": 207225
     },
     {
       "ID": "DeadlyAssassin",
@@ -20993,7 +20998,7 @@
       "Name": "Deadly Assassin",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 79701
+      "UsersEstimate": 79702
     },
     {
       "ID": "DogEatDog",
@@ -21017,7 +21022,7 @@
       "Name": "Give Your Regards To Broadway",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 31880
+      "UsersEstimate": 31881
     },
     {
       "ID": "GoForIt",
@@ -21041,7 +21046,7 @@
       "Name": "Handy",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 217850
+      "UsersEstimate": 217851
     },
     {
       "ID": "HoldingYourOwn",
@@ -21089,7 +21094,7 @@
       "Name": "Never Give Up",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 42507
+      "UsersEstimate": 42508
     },
     {
       "ID": "OnTheButton",
@@ -21137,7 +21142,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 403819
+      "UsersEstimate": 403822
     },
     {
       "ID": "ProPlayer",
@@ -21201,7 +21206,7 @@
       "Name": "Showoff",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 69074
+      "UsersEstimate": 69075
     },
     {
       "ID": "TheBiggerTheyAre",
@@ -21209,7 +21214,7 @@
       "Name": "The Bigger They Are",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 42507
+      "UsersEstimate": 42508
     },
     {
       "ID": "ThreeWay",
@@ -21217,7 +21222,7 @@
       "Name": "Three Way",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 95641
+      "UsersEstimate": 95642
     },
     {
       "ID": "TopDog",
@@ -21233,7 +21238,7 @@
       "Name": "Total Knock Out",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 42507
+      "UsersEstimate": 42508
     },
     {
       "ID": "WHIP",
@@ -21248,7 +21253,7 @@
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 531341,
+      "Progressed": 531345,
       "Completed": 2
     }
   ],
@@ -21256,8 +21261,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2023-10-14T07:57:51.3057891+00:00",
-  "LastChanged_Achievements": "2023-10-16T04:06:01.5487367+00:00",
+  "LastChanged_Achievements": "2023-10-16T05:06:37.06725+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:39.863967+00:00",
-  "LastUpdate_Ratings": "2023-10-16T03:58:28.7439726+00:00",
-  "LastUpdate_Achievements": "2023-10-16T04:06:01.5489018+00:00"
+  "LastUpdate_Ratings": "2023-10-16T04:58:54.7466334+00:00",
+  "LastUpdate_Achievements": "2023-10-16T05:06:37.0675276+00:00"
 }

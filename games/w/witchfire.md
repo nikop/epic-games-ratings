@@ -3,9 +3,9 @@
 [View Rawdata](../../db/w/witchfire.json)  
 Rating: 4.63 (Ranked 337)  
 ## Awards
-Max (Great for Quick Sessions): 36  (Ranked 452)  
+Max (Great for Quick Sessions): 36  (Ranked 453)  
 Sum: 204 (Ranked 382)  
-Diff (max vs sum): 70  
+Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 36 |

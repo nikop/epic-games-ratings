@@ -5,11 +5,11 @@ Rating: 4.76 (Ranked 118)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 15.00% | ~44,765 |
+| The Sort Who Makes an Entrance | 15.00% | ~44,766 |
 | First Class Student | 13.00% | ~38,797 |
 | Troll with the Punches | 13.00% | ~38,797 |
-| A Keen Sense of Spell | 12.00% | ~35,812 |
-| That's a Keeper | 12.00% | ~35,812 |
+| A Keen Sense of Spell | 12.00% | ~35,813 |
+| That's a Keeper | 12.00% | ~35,813 |
 | The One Who Mastered Memories | 11.00% | ~32,828 |
 | The Hallowed Hero | 11.00% | ~32,828 |
 | The Defender of Dragons | 11.00% | ~32,828 |
@@ -32,11 +32,11 @@ Rating: 4.76 (Ranked 118)
 | Raising Expectations | 6.00% | ~17,906 |
 | The Toast of the Town | 5.00% | ~14,922 |
 | The Ends Petrify the Means | 5.00% | ~14,922 |
-| Going Through the Potions | 4.00% | ~11,937 |
-| Room with a View | 4.00% | ~11,937 |
-| The Intrepid Explorer | 4.00% | ~11,937 |
-| The Gryffindor in the Graveyard | 4.00% | ~11,937 |
-| The Wise Owl | 4.00% | ~11,937 |
+| Going Through the Potions | 4.00% | ~11,938 |
+| Room with a View | 4.00% | ~11,938 |
+| The Intrepid Explorer | 4.00% | ~11,938 |
+| The Gryffindor in the Graveyard | 4.00% | ~11,938 |
+| The Wise Owl | 4.00% | ~11,938 |
 | Put Down Roots | 3.00% | ~8,953 |
 | The Auror's Apprentice | 3.00% | ~8,953 |
 | Floo Around the World | 3.00% | ~8,953 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 118)
 | The Nature of the Beast | 0.70% | ~2,089 |
 | Collector's Edition | 0.30% | ~895 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,436 (Ranked 47)  
+Progressed: 298,438 (Ranked 47)  
 Completed: 488 (0.16%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 488 (0.16%) (Ranked 231)
 | 2023-10-13 | 298,257 | 485 |
 | 2023-10-14 | 298,337 | 487 |
 | 2023-10-15 | 298,425 | 488 |
-| 2023-10-16 | 298,436 | 488 |
+| 2023-10-16 | 298,438 | 488 |
 ## Awards
 Max (Character Customization): 23,559  (Ranked 17)  
 Sum: 45,989 (Ranked 30)  

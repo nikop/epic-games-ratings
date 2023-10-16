@@ -68,13 +68,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Necropolis | 0.80% | ~118 |
 | Learn to Play 2 | 0.80% | ~118 |
 | Win a Single Player Game | 0.80% | ~118 |
+| Conqueror | 0.70% | ~103 |
 | Champions | 0.70% | ~103 |
 | Sages | 0.70% | ~103 |
 | Mausoleum | 0.70% | ~103 |
 | Mythology | 0.70% | ~103 |
 | Hanging Gardens in Babylon | 0.60% | ~88 |
 | Beloved | 0.60% | ~88 |
-| Conqueror | 0.60% | ~88 |
 | Intercessor | 0.60% | ~88 |
 | Lion | 0.60% | ~88 |
 | Victorious | 0.60% | ~88 |

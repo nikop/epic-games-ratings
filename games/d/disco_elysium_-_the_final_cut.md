@@ -7,7 +7,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Goodest Of The Good Cops | 28.00% | ~36,332 |
-| Biggest Communism Builder | 24.00% | ~31,141 |
+| Biggest Communism Builder | 24.00% | ~31,142 |
 | The World's Most Laughable Centrist | 21.00% | ~27,249 |
 | Il Coppo Del'Arte! | 18.00% | ~23,356 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,761 |
@@ -18,7 +18,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Truly Rabid *Traditionalist* | 11.00% | ~14,273 |
 | Unbelievably Boring **** | 9.00% | ~11,678 |
 | The Figurines Won't Win Her Back | 9.00% | ~11,678 |
-| Enemy Of The Physical Realm | 8.00% | ~10,380 |
+| Enemy Of The Physical Realm | 8.00% | ~10,381 |
 | Hardie's Heroes | 6.00% | ~7,785 |
 | The Lawbringer | 4.00% | ~5,190 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,190 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~130 |
 | What body? | 0.10% | ~130 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,756 (Ranked 75)  
+Progressed: 129,757 (Ranked 75)  
 Completed: 28 (0.02%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 28 (0.02%) (Ranked 288)
 | 2023-10-13 | 129,658 | 28 |
 | 2023-10-14 | 129,707 | 28 |
 | 2023-10-15 | 129,755 | 28 |
-| 2023-10-16 | 129,756 | 28 |
+| 2023-10-16 | 129,757 | 28 |
 ## Awards
 Max (Character Customization): 733  (Ranked 173)  
 Sum: 1,104 (Ranked 241)  

@@ -530,9 +530,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 68155,
+  "EOS_Progressed": 68156,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 768,
+  "EOS_NewPlayers": 769,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -18185,6 +18185,11 @@
       "Time": "2023-10-16T04:09:28.3962659+00:00",
       "NumProgressed": 68155,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-10-16T05:09:34.9053994+00:00",
+      "NumProgressed": 68156,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 67,
@@ -18204,7 +18209,7 @@
       "Name": "Nordic Walking",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 19083
+      "UsersEstimate": 19084
     },
     {
       "ID": "03",
@@ -18420,7 +18425,7 @@
       "Name": "Sound and Fury",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11586
+      "UsersEstimate": 11587
     },
     {
       "ID": "30",
@@ -18436,7 +18441,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 12949
+      "UsersEstimate": 12950
     },
     {
       "ID": "32",
@@ -18452,7 +18457,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11586
+      "UsersEstimate": 11587
     },
     {
       "ID": "34",
@@ -18468,7 +18473,7 @@
       "Name": "Let There Be Light",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 23854
+      "UsersEstimate": 23855
     },
     {
       "ID": "36",
@@ -18516,7 +18521,7 @@
       "Name": "Finders Keepers",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 12949
+      "UsersEstimate": 12950
     },
     {
       "ID": "42",
@@ -18556,7 +18561,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 11586
+      "UsersEstimate": 11587
     },
     {
       "ID": "47",
@@ -18731,21 +18736,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 68155,
+      "Progressed": 68156,
       "Completed": 69
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 31623,
+      "Progressed": 31624,
       "Completed": 56
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-10-15T17:00:51.0495821+00:00",
-  "LastChanged_Achievements": "2023-10-16T04:09:28.3962653+00:00",
+  "LastChanged_Achievements": "2023-10-16T05:09:34.9053987+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:29.5404552+00:00",
-  "LastUpdate_Ratings": "2023-10-16T03:57:10.1310331+00:00",
-  "LastUpdate_Achievements": "2023-10-16T04:09:28.3965461+00:00"
+  "LastUpdate_Ratings": "2023-10-16T04:57:17.1253574+00:00",
+  "LastUpdate_Achievements": "2023-10-16T05:09:34.905657+00:00"
 }

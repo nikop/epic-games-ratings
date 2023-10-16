@@ -5,21 +5,21 @@ Rating: 4.28 (Ranked 829)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~160,064 |
-| Copacetic Coordination | 16.00% | ~55,674 |
-| Fronting the Money | 15.00% | ~52,195 |
-| The Dawn of Automation | 14.00% | ~48,715 |
-| Extraordinary Logistics | 14.00% | ~48,715 |
-| Dirty Money | 13.00% | ~45,235 |
-| Family First | 13.00% | ~45,235 |
+| Corner Clout | 46.00% | ~160,066 |
+| Copacetic Coordination | 16.00% | ~55,675 |
+| Fronting the Money | 15.00% | ~52,196 |
+| The Dawn of Automation | 14.00% | ~48,716 |
+| Extraordinary Logistics | 14.00% | ~48,716 |
+| Dirty Money | 13.00% | ~45,236 |
+| Family First | 13.00% | ~45,236 |
 | Cleaning House | 12.00% | ~41,756 |
 | Room in the Back | 12.00% | ~41,756 |
-| Beating the Heat | 11.00% | ~38,276 |
-| Booze Baron | 11.00% | ~38,276 |
-| Friends on the Force | 10.00% | ~34,796 |
-| Neighborhood Watch | 10.00% | ~34,796 |
-| Core Corps | 8.00% | ~27,837 |
-| Sizeable Stash | 8.00% | ~27,837 |
+| Beating the Heat | 11.00% | ~38,277 |
+| Booze Baron | 11.00% | ~38,277 |
+| Friends on the Force | 10.00% | ~34,797 |
+| Neighborhood Watch | 10.00% | ~34,797 |
+| Core Corps | 8.00% | ~27,838 |
+| Sizeable Stash | 8.00% | ~27,838 |
 | Street Fighter | 7.00% | ~24,358 |
 | Friendly Gestures | 7.00% | ~24,358 |
 | People Person | 7.00% | ~24,358 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 829)
 | High Pillow | 0.10% | ~348 |
 | Station Master | 0.10% | ~348 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 347,965 (Ranked 43)  
+Progressed: 347,970 (Ranked 43)  
 Completed: 7 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,11 +265,11 @@ Completed: 7 (0.00%) (Ranked 314)
 | 2023-10-13 | 347,589 | 7 |
 | 2023-10-14 | 347,785 | 7 |
 | 2023-10-15 | 347,944 | 7 |
-| 2023-10-16 | 347,965 | 7 |
+| 2023-10-16 | 347,970 | 7 |
 ## Awards
-Max (Great for Beginners): 38  (Ranked 445)  
+Max (Great for Beginners): 38  (Ranked 446)  
 Sum: 177 (Ranked 398)  
-Diff (max vs sum): 47  
+Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 38 |

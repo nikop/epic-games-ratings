@@ -898,9 +898,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 663378,
+  "EOS_Progressed": 663380,
   "EOS_Completed": 171,
-  "EOS_NewPlayers": 284,
+  "EOS_NewPlayers": 286,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -17853,6 +17853,11 @@
       "Time": "2023-10-16T04:04:33.9293014+00:00",
       "NumProgressed": 663378,
       "NumCompleted": 171
+    },
+    {
+      "Time": "2023-10-16T05:04:58.0154658+00:00",
+      "NumProgressed": 663380,
+      "NumCompleted": 171
     }
   ],
   "TotalAchievements": 48,
@@ -17864,7 +17869,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 477632
+      "UsersEstimate": 477634
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -17872,7 +17877,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 384759
+      "UsersEstimate": 384760
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -17936,7 +17941,7 @@
       "Name": "Long Shot",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46436
+      "UsersEstimate": 46437
     },
     {
       "ID": "Achievement_11_Grifter",
@@ -18016,7 +18021,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 112774
+      "UsersEstimate": 112775
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -18096,7 +18101,7 @@
       "Name": "Devil Dice",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46436
+      "UsersEstimate": 46437
     },
     {
       "ID": "Achievement_31_Master_of_Arms",
@@ -18104,7 +18109,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 79605
+      "UsersEstimate": 79606
     },
     {
       "ID": "Achievement_32_Karma",
@@ -18128,7 +18133,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 165844
+      "UsersEstimate": 165845
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -18176,7 +18181,7 @@
       "Name": "Broken Heart",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46436
+      "UsersEstimate": 46437
     },
     {
       "ID": "Achievement_41_Draknars_Bane",
@@ -18247,15 +18252,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 663378,
+      "Progressed": 663380,
       "Completed": 171
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-09-17T14:00:02.1778642+00:00",
-  "LastChanged_Achievements": "2023-10-16T04:04:33.9293006+00:00",
+  "LastChanged_Achievements": "2023-10-16T05:04:58.0154652+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:29.0869646+00:00",
-  "LastUpdate_Ratings": "2023-10-16T03:57:10.6430556+00:00",
-  "LastUpdate_Achievements": "2023-10-16T04:04:33.9295524+00:00"
+  "LastUpdate_Ratings": "2023-10-16T04:57:17.7878508+00:00",
+  "LastUpdate_Achievements": "2023-10-16T05:04:58.0156313+00:00"
 }

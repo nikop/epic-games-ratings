@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 308,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 255,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -1526,9 +1526,9 @@
       "ID": "ach_kill_with_1_hp",
       "SetID": "cmg602e",
       "Name": "Skin Of Your Teeth",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 51
+      "UsersEstimate": 54
     },
     {
       "ID": "ach_kill_with_horse_kick",
@@ -1670,9 +1670,9 @@
       "ID": "ach_sniperKillNoScope",
       "SetID": "cmg602e",
       "Name": "No Asperascope",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 177
+      "UsersEstimate": 180
     },
     {
       "ID": "ach_steal_x_gnomes",
@@ -1694,9 +1694,9 @@
       "ID": "ach_tripleKill",
       "SetID": "cmg602e",
       "Name": "Triple Kill",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 193
     },
     {
       "ID": "ach_win_with_no_deaths",
@@ -1886,9 +1886,9 @@
       "ID": "ach_x_farmers_same_sniper",
       "SetID": "bf10c8p",
       "Name": "Aspairagus",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 157
+      "UsersEstimate": 160
     },
     {
       "ID": "ach_x_peastol_healing_done",
@@ -1989,8 +1989,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-10-16T04:06:03.9865646+00:00",
+  "LastChanged_Achievements": "2023-10-16T05:06:40.0777924+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:15.578541+00:00",
-  "LastUpdate_Ratings": "2023-10-16T03:57:54.6426769+00:00",
-  "LastUpdate_Achievements": "2023-10-16T04:06:03.9866597+00:00"
+  "LastUpdate_Ratings": "2023-10-16T04:58:10.0233774+00:00",
+  "LastUpdate_Achievements": "2023-10-16T05:06:40.0779411+00:00"
 }

@@ -6,43 +6,43 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 71.00% | ~633,414 |
-| Right Back At Ya | 45.00% | ~401,459 |
-| The Lovers | 39.00% | ~347,931 |
-| Stanislavski's Method | 33.00% | ~294,404 |
-| The Wheel of Fortune | 33.00% | ~294,404 |
-| The Hermit | 30.00% | ~267,640 |
-| The High Priestess | 29.00% | ~258,718 |
-| True Soldier | 29.00% | ~258,718 |
-| Christmas Tree Attack | 26.00% | ~231,954 |
-| Full Body Conversion | 24.00% | ~214,112 |
-| Life of the Road | 23.00% | ~205,190 |
-| Ten out of Ten | 22.00% | ~196,269 |
-| The World | 22.00% | ~196,269 |
-| Master Crafter | 20.00% | ~178,426 |
-| True Warrior | 20.00% | ~178,426 |
-| Bushido and Chill | 19.00% | ~169,505 |
-| Gun Fu | 18.00% | ~160,584 |
-| I Am The Law | 16.00% | ~142,741 |
-| To Protect and Serve | 15.00% | ~133,820 |
-| Breathtaking | 14.00% | ~124,898 |
-| The Quick and the Dead | 13.00% | ~115,977 |
-| Rough Landing | 13.00% | ~115,977 |
-| The Jungle | 12.00% | ~107,056 |
+| The Fool | 71.00% | ~633,419 |
+| Right Back At Ya | 45.00% | ~401,463 |
+| The Lovers | 39.00% | ~347,935 |
+| Stanislavski's Method | 33.00% | ~294,406 |
+| The Wheel of Fortune | 33.00% | ~294,406 |
+| The Hermit | 30.00% | ~267,642 |
+| The High Priestess | 29.00% | ~258,721 |
+| True Soldier | 29.00% | ~258,721 |
+| Christmas Tree Attack | 26.00% | ~231,956 |
+| Full Body Conversion | 24.00% | ~214,114 |
+| Life of the Road | 23.00% | ~205,192 |
+| Ten out of Ten | 22.00% | ~196,271 |
+| The World | 22.00% | ~196,271 |
+| Master Crafter | 20.00% | ~178,428 |
+| True Warrior | 20.00% | ~178,428 |
+| Bushido and Chill | 19.00% | ~169,507 |
+| Gun Fu | 18.00% | ~160,585 |
+| I Am The Law | 16.00% | ~142,742 |
+| To Protect and Serve | 15.00% | ~133,821 |
+| Breathtaking | 14.00% | ~124,900 |
+| The Quick and the Dead | 13.00% | ~115,978 |
+| Rough Landing | 13.00% | ~115,978 |
+| The Jungle | 12.00% | ~107,057 |
 | To Bad Decisions! | 11.00% | ~98,135 |
 | The Wandering Fool | 11.00% | ~98,135 |
-| Gunslinger | 10.00% | ~89,213 |
-| Mean Streets | 10.00% | ~89,213 |
-| Temperance | 9.00% | ~80,292 |
+| Gunslinger | 10.00% | ~89,214 |
+| Mean Streets | 10.00% | ~89,214 |
+| Temperance | 9.00% | ~80,293 |
 | The Star | 8.00% | ~71,371 |
 | The Sun | 8.00% | ~71,371 |
 | City Lights | 6.00% | ~53,528 |
 | Must Be Rats | 5.00% | ~44,607 |
 | The Devil | 5.00% | ~44,607 |
 | Greetings from Pacifica! | 5.00% | ~44,607 |
-| Little Tokyo | 4.00% | ~35,685 |
-| Two Heads, One Bullet | 4.00% | ~35,685 |
-| V for Vendetta | 4.00% | ~35,685 |
+| Little Tokyo | 4.00% | ~35,686 |
+| Two Heads, One Bullet | 4.00% | ~35,686 |
+| V for Vendetta | 4.00% | ~35,686 |
 | Autojock | 3.00% | ~26,764 |
 | Frequent Flyer | 3.00% | ~26,764 |
 | The Wasteland | 3.00% | ~26,764 |
@@ -64,7 +64,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 892,132 (Ranked 15)  
+Progressed: 892,140 (Ranked 15)  
 Completed: 2,672 (0.30%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,16 +243,16 @@ Completed: 2,672 (0.30%) (Ranked 205)
 | 2023-10-13 | 891,483 | 2,655 |
 | 2023-10-14 | 891,800 | 2,661 |
 | 2023-10-15 | 892,108 | 2,671 |
-| 2023-10-16 | 892,132 | 2,672 |
+| 2023-10-16 | 892,140 | 2,672 |
 ## Awards
 Max (Character Customization): 98,252  (Ranked 9)  
-Sum: 305,062 (Ranked 11)  
+Sum: 305,320 (Ranked 11)  
 Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 98,252 |
 | This game has Great Boss Battles | 69,272 |
-| This game is Great for Beginners | 16,674 |
+| This game is Great for Beginners | 16,932 |
 | This game has Diverse Characters | 16,587 |
 | This game is Highly Recommended | 16,075 |
 | This game has Amazing Storytelling | 16,002 |
@@ -534,4 +534,4 @@ Diff (max vs sum): -2
 | 2023-10-13 | 4.64 | - | 97,173 | 297,296 |
 | 2023-10-14 | 4.64 | - | 97,710 | 300,719 |
 | 2023-10-15 | 4.64 | - | 98,252 | 303,777 |
-| 2023-10-16 | 4.64 | - | 98,252 | 305,062 |
+| 2023-10-16 | 4.64 | - | 98,252 | 305,320 |

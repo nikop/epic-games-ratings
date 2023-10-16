@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 467,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 350,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-12-13T19:30:00+00:00",
     "PcReleaseDate": "2020-11-06T07:30:00+00:00",
@@ -402,9 +402,9 @@
       "ID": "5",
       "SetID": "38ide56",
       "Name": "Mandy Family",
-      "Percentage": 45,
+      "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "6",
@@ -451,8 +451,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2023-10-16T04:03:48.6655879+00:00",
+  "LastChanged_Achievements": "2023-10-16T05:04:03.2478974+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:15.9762635+00:00",
-  "LastUpdate_Ratings": "2023-10-16T04:03:19.4111788+00:00",
-  "LastUpdate_Achievements": "2023-10-16T04:03:48.6656135+00:00"
+  "LastUpdate_Ratings": "2023-10-16T05:03:27.7803587+00:00",
+  "LastUpdate_Achievements": "2023-10-16T05:04:03.2479379+00:00"
 }

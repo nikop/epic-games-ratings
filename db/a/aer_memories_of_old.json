@@ -410,9 +410,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22213,
+  "EOS_Progressed": 22215,
   "EOS_Completed": 438,
-  "EOS_NewPlayers": 462,
+  "EOS_NewPlayers": 461,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.97,
   "EosHistory": [
@@ -19615,6 +19615,11 @@
       "Time": "2023-10-16T04:03:41.0079765+00:00",
       "NumProgressed": 22213,
       "NumCompleted": 438
+    },
+    {
+      "Time": "2023-10-16T05:03:54.0262304+00:00",
+      "NumProgressed": 22215,
+      "NumCompleted": 438
     }
   ],
   "TotalAchievements": 20,
@@ -19626,7 +19631,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 3776
+      "UsersEstimate": 3777
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -19658,7 +19663,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2443
+      "UsersEstimate": 2444
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -19666,7 +19671,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 2221
+      "UsersEstimate": 2222
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -19746,7 +19751,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 17104
+      "UsersEstimate": 17106
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -19778,22 +19783,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 3998
+      "UsersEstimate": 3999
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 22213,
+      "Progressed": 22215,
       "Completed": 438
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-16T04:03:41.0079758+00:00",
+  "LastChanged_Achievements": "2023-10-16T05:03:54.0262297+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:17.0806119+00:00",
-  "LastUpdate_Ratings": "2023-10-16T03:57:56.6111356+00:00",
-  "LastUpdate_Achievements": "2023-10-16T04:03:41.0082148+00:00"
+  "LastUpdate_Ratings": "2023-10-16T04:58:15.3439593+00:00",
+  "LastUpdate_Achievements": "2023-10-16T05:03:54.0264619+00:00"
 }
