@@ -2,7 +2,7 @@
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 1 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 100.00% |
-| 3 | [The Riflemen](games/t/the_riflemen.md) | 48.81% |
+| 3 | [The Riflemen](games/t/the_riflemen.md) | 48.80% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.15% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.99% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
@@ -74,7 +74,7 @@
 | 72 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.00% |
 | 73 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.82% |
 | 74 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
-| 75 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.63% |
+| 75 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.62% |
 | 76 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
 | 77 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.51% |
 | 78 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
@@ -110,7 +110,7 @@
 | 108 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.22% |
 | 109 | [Bloodshore](games/b/bloodshore.md) | 2.14% |
 | 110 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.02% |
-| 111 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.97% |
+| 111 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.98% |
 | 112 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.96% |
 | 113 | [Night Book](games/n/night_book.md) | 1.84% |
 | 113 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
@@ -130,9 +130,9 @@
 | 128 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.37% |
 | 128 | [Ten Dates](games/t/ten_dates.md) | 1.37% |
 | 130 | [Chorus](games/c/chorus.md) | 1.36% |
-| 131 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.33% |
-| 132 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.32% |
-| 132 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.32% |
+| 131 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.32% |
+| 131 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.32% |
+| 131 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.32% |
 | 134 | [Lemon Cake](games/l/lemon_cake.md) | 1.31% |
 | 135 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.30% |
 | 136 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.16% |
