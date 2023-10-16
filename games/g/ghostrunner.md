@@ -6,14 +6,14 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 76.00% | ~15,278 |
+| Longrunner | 76.00% | ~15,279 |
 | Sword Runner | 61.00% | ~12,263 |
 | Running out of breath | 54.00% | ~10,856 |
 | Wallrunner | 53.00% | ~10,655 |
-| Homerunner | 45.00% | ~9,046 |
-| I call it luck | 44.00% | ~8,845 |
-| Out of order | 44.00% | ~8,845 |
-| Where are my Keys? | 40.00% | ~8,041 |
+| Homerunner | 45.00% | ~9,047 |
+| I call it luck | 44.00% | ~8,846 |
+| Out of order | 44.00% | ~8,846 |
+| Where are my Keys? | 40.00% | ~8,042 |
 | Back to hell | 37.00% | ~7,438 |
 | Perfection | 32.00% | ~6,433 |
 | Why not both | 30.00% | ~6,031 |
@@ -25,10 +25,10 @@ Number of Ratings: 1,047  (23.09.2022)
 | Finish line | 26.00% | ~5,227 |
 | Unstoppable force | 22.00% | ~4,423 |
 | Wave of mutilation | 22.00% | ~4,423 |
-| Can't Run Can't Hide | 16.00% | ~3,216 |
-| R is for Running | 16.00% | ~3,216 |
-| Dead in the air | 15.00% | ~3,015 |
-| Improvise, adapt, overrun | 13.00% | ~2,613 |
+| Can't Run Can't Hide | 16.00% | ~3,217 |
+| R is for Running | 16.00% | ~3,217 |
+| Dead in the air | 15.00% | ~3,016 |
+| Improvise, adapt, overrun | 13.00% | ~2,614 |
 | More than human | 12.00% | ~2,412 |
 | Pre-empative strike | 12.00% | ~2,412 |
 | Strike | 12.00% | ~2,412 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~80 |
 | Up Close And Personal | 0.40% | ~80 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,103 (Ranked 125)  
+Progressed: 20,104 (Ranked 125)  
 Completed: 75 (0.37%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 75 (0.37%) (Ranked 195)
 | 2023-10-13 | 19,953 | 74 |
 | 2023-10-14 | 20,022 | 74 |
 | 2023-10-15 | 20,095 | 75 |
-| 2023-10-16 | 20,103 | 75 |
+| 2023-10-16 | 20,104 | 75 |
 ## Awards
 Max (Great Boss Battles): 508  (Ranked 203)  
 Sum: 727 (Ranked 282)  

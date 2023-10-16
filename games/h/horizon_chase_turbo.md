@@ -6,12 +6,12 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~955,685 |
-| I Need a Bigger Garage | 63.00% | ~668,979 |
-| Pump my Ride | 47.00% | ~499,080 |
-| Ghostbuster | 33.00% | ~350,418 |
-| Call Roadside Assistance | 18.00% | ~191,137 |
-| That Was Close | 18.00% | ~191,137 |
+| The First of Many | 90.00% | ~955,688 |
+| I Need a Bigger Garage | 63.00% | ~668,982 |
+| Pump my Ride | 47.00% | ~499,082 |
+| Ghostbuster | 33.00% | ~350,419 |
+| Call Roadside Assistance | 18.00% | ~191,138 |
+| That Was Close | 18.00% | ~191,138 |
 | Quickie | 11.00% | ~116,806 |
 | California Dreamer | 7.00% | ~74,331 |
 | Can't Touch This | 5.00% | ~53,094 |
@@ -21,11 +21,11 @@ Number of Ratings: 1,343  (23.09.2022)
 | Supersonic | 3.00% | ~31,856 |
 | Marathonist | 3.00% | ~31,856 |
 | Living Legend | 3.00% | ~31,856 |
-| God of Roads | 2.00% | ~21,237 |
-| Pathfinder | 2.00% | ~21,237 |
-| Go-Kart Champion | 2.00% | ~21,237 |
-| Completionist | 2.00% | ~21,237 |
-| Harder, Better, Faster, Stronger | 2.00% | ~21,237 |
+| God of Roads | 2.00% | ~21,238 |
+| Pathfinder | 2.00% | ~21,238 |
+| Go-Kart Champion | 2.00% | ~21,238 |
+| Completionist | 2.00% | ~21,238 |
+| Harder, Better, Faster, Stronger | 2.00% | ~21,238 |
 | The Iceman | 1.00% | ~10,619 |
 | Bollywood Star | 1.00% | ~10,619 |
 | Oil Tycoon | 1.00% | ~10,619 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~1,062 |
 | Look Mom, No Hands! | 0.10% | ~1,062 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,061,872 (Ranked 13)  
+Progressed: 1,061,876 (Ranked 13)  
 Completed: 456 (0.04%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 456 (0.04%) (Ranked 277)
 | 2023-10-13 | 1,060,529 | 456 |
 | 2023-10-14 | 1,061,204 | 456 |
 | 2023-10-15 | 1,061,785 | 456 |
-| 2023-10-16 | 1,061,872 | 456 |
+| 2023-10-16 | 1,061,876 | 456 |
 ## Awards
 Max (Great for Beginners): 158  (Ranked 303)  
 Sum: 1,326 (Ranked 232)  

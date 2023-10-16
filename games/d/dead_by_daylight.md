@@ -6,11 +6,12 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 2.00% | ~18,858 |
-| It wakes | 2.00% | ~18,858 |
-| Not half bad | 2.00% | ~18,858 |
-| Skillful | 2.00% | ~18,858 |
-| Make Some Noise | 2.00% | ~18,858 |
+| Zealous | 2.00% | ~18,859 |
+| It wakes | 2.00% | ~18,859 |
+| Not half bad | 2.00% | ~18,859 |
+| Survival Treasures | 2.00% | ~18,859 |
+| Skillful | 2.00% | ~18,859 |
+| Make Some Noise | 2.00% | ~18,859 |
 | The Grand Sacrifice | 1.00% | ~9,429 |
 | Agonizing Escape | 1.00% | ~9,429 |
 | Backdoor Escape | 1.00% | ~9,429 |
@@ -20,7 +21,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Perfect Escape | 1.00% | ~9,429 |
 | Bloody Millionaire | 1.00% | ~9,429 |
 | Apt Survivor | 1.00% | ~9,429 |
-| Survival Treasures | 1.00% | ~9,429 |
 | I | 1.00% | ~9,429 |
 | Engineer | 1.00% | ~9,429 |
 | Sorted | 1.00% | ~9,429 |
@@ -36,37 +36,37 @@ Number of Ratings: 70,340  (23.09.2022)
 | Apt Killer | 0.80% | ~7,543 |
 | II | 0.80% | ~7,543 |
 | Wounded Healer | 0.80% | ~7,543 |
-| Vulture | 0.70% | ~6,600 |
-| III | 0.70% | ~6,600 |
-| With Scars to Show | 0.70% | ~6,600 |
-| Rebuilding The Borgo | 0.70% | ~6,600 |
-| Second Act | 0.70% | ~6,600 |
-| Escape Artist | 0.60% | ~5,657 |
-| First to the Punch | 0.60% | ~5,657 |
-| Every Last Drop | 0.60% | ~5,657 |
-| Flight to Freedom | 0.60% | ~5,657 |
-| Blood on your hands | 0.50% | ~4,714 |
-| Made it out alive! | 0.50% | ~4,714 |
-| Gifts for the Fog | 0.50% | ~4,714 |
-| III-50 | 0.50% | ~4,714 |
-| All Aboard | 0.50% | ~4,714 |
-| Item of Obsession | 0.50% | ~4,714 |
-| House of Pain | 0.50% | ~4,714 |
-| Holiday Get-Together | 0.50% | ~4,714 |
-| Near-Death Experience | 0.50% | ~4,714 |
-| Cherish your Life | 0.50% | ~4,714 |
-| Unforgettable Getaway | 0.50% | ~4,714 |
-| Cutting Out | 0.50% | ~4,714 |
-| Outrun Evil | 0.50% | ~4,714 |
-| Operation: Survival | 0.50% | ~4,714 |
-| Old West Oasis | 0.50% | ~4,714 |
-| Classy Act | 0.50% | ~4,714 |
-| Raccoon City Recruit | 0.50% | ~4,714 |
-| A Fast Death | 0.50% | ~4,714 |
-| Lifting The Fog | 0.50% | ~4,714 |
-| Chorus of Chaos | 0.50% | ~4,714 |
-| One More Step | 0.50% | ~4,714 |
-| MU/TH/UR Dearest | 0.50% | ~4,714 |
+| Vulture | 0.70% | ~6,601 |
+| III | 0.70% | ~6,601 |
+| With Scars to Show | 0.70% | ~6,601 |
+| Rebuilding The Borgo | 0.70% | ~6,601 |
+| Second Act | 0.70% | ~6,601 |
+| Escape Artist | 0.60% | ~5,658 |
+| First to the Punch | 0.60% | ~5,658 |
+| Every Last Drop | 0.60% | ~5,658 |
+| Flight to Freedom | 0.60% | ~5,658 |
+| Blood on your hands | 0.50% | ~4,715 |
+| Made it out alive! | 0.50% | ~4,715 |
+| Gifts for the Fog | 0.50% | ~4,715 |
+| III-50 | 0.50% | ~4,715 |
+| All Aboard | 0.50% | ~4,715 |
+| Item of Obsession | 0.50% | ~4,715 |
+| House of Pain | 0.50% | ~4,715 |
+| Holiday Get-Together | 0.50% | ~4,715 |
+| Near-Death Experience | 0.50% | ~4,715 |
+| Cherish your Life | 0.50% | ~4,715 |
+| Unforgettable Getaway | 0.50% | ~4,715 |
+| Cutting Out | 0.50% | ~4,715 |
+| Outrun Evil | 0.50% | ~4,715 |
+| Operation: Survival | 0.50% | ~4,715 |
+| Old West Oasis | 0.50% | ~4,715 |
+| Classy Act | 0.50% | ~4,715 |
+| Raccoon City Recruit | 0.50% | ~4,715 |
+| A Fast Death | 0.50% | ~4,715 |
+| Lifting The Fog | 0.50% | ~4,715 |
+| Chorus of Chaos | 0.50% | ~4,715 |
+| One More Step | 0.50% | ~4,715 |
+| MU/TH/UR Dearest | 0.50% | ~4,715 |
 | A bite for the Entity | 0.40% | ~3,772 |
 | Blood on your face | 0.40% | ~3,772 |
 | Shock Therapy | 0.40% | ~3,772 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~943 |
 | Adept Ripley | 0.10% | ~943 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 942,879 (Ranked 14)  
+Progressed: 942,930 (Ranked 14)  
 Completed: 51 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -415,7 +415,7 @@ Completed: 51 (0.01%) (Ranked 296)
 | 2023-10-13 | 937,037 | 50 |
 | 2023-10-14 | 939,759 | 50 |
 | 2023-10-15 | 942,498 | 51 |
-| 2023-10-16 | 942,879 | 51 |
+| 2023-10-16 | 942,930 | 51 |
 ## Awards
 Max (Diverse Characters): 33,980  (Ranked 15)  
 Sum: 262,716 (Ranked 13)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 162,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -302,7 +302,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17851,
+  "EOS_Progressed": 17852,
   "EOS_Completed": 112,
   "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 2,
@@ -13932,6 +13932,11 @@
       "Time": "2023-10-16T04:04:17.7288625+00:00",
       "NumProgressed": 17851,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2023-10-16T06:04:27.3049872+00:00",
+      "NumProgressed": 17852,
+      "NumCompleted": 112
     }
   ],
   "TotalAchievements": 16,
@@ -13951,7 +13956,7 @@
       "Name": "Burning For You",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 4998
+      "UsersEstimate": 4999
     },
     {
       "ID": "Deadline",
@@ -14015,7 +14020,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 7497
+      "UsersEstimate": 7498
     },
     {
       "ID": "Mirrors",
@@ -14070,15 +14075,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 17851,
+      "Progressed": 17852,
       "Completed": 112
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-07-21T02:04:12.2963456+00:00",
-  "LastChanged_Achievements": "2023-10-16T05:04:38.5021378+00:00",
+  "LastChanged_Achievements": "2023-10-16T06:04:27.3049867+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:27.7450235+00:00",
-  "LastUpdate_Ratings": "2023-10-16T04:58:33.5552569+00:00",
-  "LastUpdate_Achievements": "2023-10-16T05:04:38.5023032+00:00"
+  "LastUpdate_Ratings": "2023-10-16T05:58:33.1018929+00:00",
+  "LastUpdate_Achievements": "2023-10-16T06:04:27.3050782+00:00"
 }

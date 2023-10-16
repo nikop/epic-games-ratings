@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 97,
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 73,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
     "PcReleaseDate": "2022-08-23T07:00:00+00:00",
@@ -3822,9 +3822,9 @@
       "Count": 1069
     }
   ],
-  "EOS_Progressed": 75166,
+  "EOS_Progressed": 75167,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 836,
+  "EOS_NewPlayers": 833,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -23927,6 +23927,11 @@
       "Time": "2023-10-16T05:03:42.2194077+00:00",
       "NumProgressed": 75166,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-16T06:03:31.5008812+00:00",
+      "NumProgressed": 75167,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -24034,7 +24039,7 @@
       "Name": "The Side Job",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 23301
+      "UsersEstimate": 23302
     },
     {
       "ID": "complete_first_wanted_mission",
@@ -24050,7 +24055,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 34576
+      "UsersEstimate": 34577
     },
     {
       "ID": "customize_a_vehicle",
@@ -24066,7 +24071,7 @@
       "Name": "Optimized",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 27811
+      "UsersEstimate": 27812
     },
     {
       "ID": "cutting_edge_materials",
@@ -24218,7 +24223,7 @@
       "Name": "Wrecking Ball",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 21046
+      "UsersEstimate": 21047
     },
     {
       "ID": "kill_tank_driver_with_rail",
@@ -24361,13 +24366,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 75166,
+      "Progressed": 75167,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 46803,
+      "Progressed": 46804,
       "Completed": 4125
     }
   ],
@@ -24375,8 +24380,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-10-15T11:58:13.1376947+00:00",
-  "LastChanged_Achievements": "2023-10-16T05:03:42.2194068+00:00",
+  "LastChanged_Achievements": "2023-10-16T06:03:31.5008808+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:20.7071116+00:00",
-  "LastUpdate_Ratings": "2023-10-16T04:58:21.6066747+00:00",
-  "LastUpdate_Achievements": "2023-10-16T05:03:42.219719+00:00"
+  "LastUpdate_Ratings": "2023-10-16T05:58:23.2171963+00:00",
+  "LastUpdate_Achievements": "2023-10-16T06:03:31.5010337+00:00"
 }

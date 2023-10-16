@@ -324,9 +324,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 71535,
+  "EOS_Progressed": 71536,
   "EOS_Completed": 378,
-  "EOS_NewPlayers": 572,
+  "EOS_NewPlayers": 571,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -19929,6 +19929,11 @@
       "Time": "2023-10-16T05:03:42.3654821+00:00",
       "NumProgressed": 71535,
       "NumCompleted": 378
+    },
+    {
+      "Time": "2023-10-16T06:03:31.5285272+00:00",
+      "NumProgressed": 71536,
+      "NumCompleted": 378
     }
   ],
   "TotalAchievements": 24,
@@ -19980,7 +19985,7 @@
       "Name": "ERADICATE",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15022
+      "UsersEstimate": 15023
     },
     {
       "ID": "FETCH",
@@ -20052,7 +20057,7 @@
       "Name": "NORTHERN LIGHTS",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 5007
+      "UsersEstimate": 5008
     },
     {
       "ID": "OLD_COMPANION",
@@ -20084,7 +20089,7 @@
       "Name": "SPIRIT BARK",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 15022
+      "UsersEstimate": 15023
     },
     {
       "ID": "SPIRIT_DASH",
@@ -20131,7 +20136,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 71535,
+      "Progressed": 71536,
       "Completed": 378
     }
   ],
@@ -20139,8 +20144,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-10-16T05:03:42.3654815+00:00",
+  "LastChanged_Achievements": "2023-10-16T06:03:31.528527+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:07.1643616+00:00",
-  "LastUpdate_Ratings": "2023-10-16T04:57:57.9031942+00:00",
-  "LastUpdate_Achievements": "2023-10-16T05:03:42.365635+00:00"
+  "LastUpdate_Ratings": "2023-10-16T05:58:01.4823117+00:00",
+  "LastUpdate_Achievements": "2023-10-16T06:03:31.528634+00:00"
 }

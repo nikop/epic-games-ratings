@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 283,
   "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 24,
+  "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
     "PcReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -684,7 +684,7 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 63348,
+  "EOS_Progressed": 63352,
   "EOS_Completed": 17,
   "EOS_NewPlayers": 1158,
   "EOS_NewCompleters": 8,
@@ -5344,6 +5344,11 @@
       "Time": "2023-10-16T05:09:49.3644289+00:00",
       "NumProgressed": 63348,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-10-16T06:09:34.2878755+00:00",
+      "NumProgressed": 63352,
+      "NumCompleted": 17
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -5356,7 +5361,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 19004
+      "UsersEstimate": 19006
     },
     {
       "ID": "10",
@@ -5364,7 +5369,7 @@
       "Name": "fifteenth Time\u0027s the Charm",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "11",
@@ -5372,7 +5377,7 @@
       "Name": "Pulling Your Weight",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1900
+      "UsersEstimate": 1901
     },
     {
       "ID": "12",
@@ -5380,7 +5385,7 @@
       "Name": "Reaping Rivals",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1900
+      "UsersEstimate": 1901
     },
     {
       "ID": "13",
@@ -5483,7 +5488,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 63348,
+      "Progressed": 63352,
       "Completed": 17
     }
   ],
@@ -5491,8 +5496,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-10-15T23:02:51.0612938+00:00",
-  "LastChanged_Achievements": "2023-10-16T05:09:49.3644281+00:00",
+  "LastChanged_Achievements": "2023-10-16T06:09:34.2878748+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:34.3906075+00:00",
   "LastUpdate_Ratings": "2023-10-16T05:03:18.3110438+00:00",
-  "LastUpdate_Achievements": "2023-10-16T05:09:49.3644968+00:00"
+  "LastUpdate_Achievements": "2023-10-16T06:09:34.287905+00:00"
 }

@@ -13,8 +13,8 @@ Number of Ratings: 1,175  (23.09.2022)
 | BLOOMS OF LIGHT | 26.00% | ~18,599 |
 | AWAKEN | 22.00% | ~15,738 |
 | BEST FRIENDS | 22.00% | ~15,738 |
-| ERADICATE | 21.00% | ~15,022 |
-| SPIRIT BARK | 21.00% | ~15,022 |
+| ERADICATE | 21.00% | ~15,023 |
+| SPIRIT BARK | 21.00% | ~15,023 |
 | GARDEN OF LIGHT | 18.00% | ~12,876 |
 | SPIRIT FORM | 16.00% | ~11,446 |
 | WRITTEN IN STONE | 16.00% | ~11,446 |
@@ -25,13 +25,13 @@ Number of Ratings: 1,175  (23.09.2022)
 | MATCH MAKER | 8.00% | ~5,723 |
 | PLAGUE DOCTOR | 8.00% | ~5,723 |
 | SPIRITED AWAY | 8.00% | ~5,723 |
-| NORTHERN LIGHTS | 7.00% | ~5,007 |
+| NORTHERN LIGHTS | 7.00% | ~5,008 |
 | FOX? OR FLYING SQUIRREL? | 4.00% | ~2,861 |
 | ANCIENT HISTORY | 3.00% | ~2,146 |
 | NONE FORGOTTEN | 2.00% | ~1,431 |
 | KINDRED SPIRITS | 0.60% | ~429 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 71,535 (Ranked 92)  
+Progressed: 71,536 (Ranked 92)  
 Completed: 378 (0.53%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 378 (0.53%) (Ranked 174)
 | 2023-10-13 | 71,307 | 377 |
 | 2023-10-14 | 71,420 | 378 |
 | 2023-10-15 | 71,520 | 378 |
-| 2023-10-16 | 71,535 | 378 |
+| 2023-10-16 | 71,536 | 378 |
 ## Awards
 Max (Extremely Fun): 26  (Ranked 498)  
 Sum: 114 (Ranked 423)  

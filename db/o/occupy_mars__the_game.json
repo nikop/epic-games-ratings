@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -268,9 +268,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1666,
+  "EOS_Progressed": 1667,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3963,6 +3963,11 @@
       "Time": "2023-10-15T09:05:43.4306313+00:00",
       "NumProgressed": 1666,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-16T06:06:28.9067007+00:00",
+      "NumProgressed": 1667,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4150,7 +4155,7 @@
       "Name": "Electrician",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -4220,9 +4225,9 @@
       "ID": "NEW_ACHIEVEMENT_MINER",
       "SetID": "l546gc",
       "Name": "Miner",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 433
+      "UsersEstimate": 417
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -4246,7 +4251,7 @@
       "Name": "Occupy Mars!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
@@ -4357,7 +4362,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1666,
+      "Progressed": 1667,
       "Completed": 0
     }
   ],
@@ -4365,8 +4370,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-10-07T20:58:51.3818577+00:00",
-  "LastChanged_Achievements": "2023-10-16T05:06:41.2527819+00:00",
+  "LastChanged_Achievements": "2023-10-16T06:06:28.9067002+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:10.2990063+00:00",
-  "LastUpdate_Ratings": "2023-10-16T04:59:18.6334317+00:00",
-  "LastUpdate_Achievements": "2023-10-16T05:06:41.2528454+00:00"
+  "LastUpdate_Ratings": "2023-10-16T05:59:17.1612916+00:00",
+  "LastUpdate_Achievements": "2023-10-16T06:06:28.9067494+00:00"
 }

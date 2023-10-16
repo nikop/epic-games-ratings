@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 20,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -10782,9 +10782,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 432203,
+  "EOS_Progressed": 432216,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5885,
+  "EOS_NewPlayers": 5886,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31092,6 +31092,11 @@
       "Time": "2023-10-16T05:09:52.2357976+00:00",
       "NumProgressed": 432203,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-16T06:09:37.5438881+00:00",
+      "NumProgressed": 432216,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -32103,7 +32108,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17288
+      "UsersEstimate": 17289
     },
     {
       "ID": "achievement_grand_coalition",
@@ -32671,7 +32676,7 @@
       "Name": "My armies are invincible!",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 3025
+      "UsersEstimate": 3026
     },
     {
       "ID": "achievement_my_true_friend",
@@ -33767,7 +33772,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17288
+      "UsersEstimate": 17289
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -33934,21 +33939,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 432203,
+      "Progressed": 432216,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 432203,
+      "Progressed": 432216,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-10-15T22:02:47.6088241+00:00",
-  "LastChanged_Achievements": "2023-10-16T05:09:52.2357969+00:00",
+  "LastChanged_Achievements": "2023-10-16T06:09:37.5438876+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:17.3086374+00:00",
-  "LastUpdate_Ratings": "2023-10-16T05:01:54.6605266+00:00",
-  "LastUpdate_Achievements": "2023-10-16T05:09:52.2373787+00:00"
+  "LastUpdate_Ratings": "2023-10-16T06:01:52.2045276+00:00",
+  "LastUpdate_Achievements": "2023-10-16T06:09:37.5450334+00:00"
 }

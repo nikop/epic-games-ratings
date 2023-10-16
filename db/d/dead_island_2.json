@@ -5338,10 +5338,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 9661,
       "NumberOfAwardsMax": 6462
+    },
+    {
+      "Time": "2023-10-16T06:03:10.4581322+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 9662,
+      "NumberOfAwardsMax": 6462
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9661,
+  "NumberOfAwards": 9662,
   "NumberOfAwardsMax": 6462,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5385,7 +5391,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 363
+      "Count": 364
     },
     {
       "Text": "This game is Relaxing",
@@ -5400,9 +5406,9 @@
       "Count": 383
     }
   ],
-  "EOS_Progressed": 696531,
+  "EOS_Progressed": 696536,
   "EOS_Completed": 2230,
-  "EOS_NewPlayers": 3411,
+  "EOS_NewPlayers": 3409,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -25660,6 +25666,11 @@
       "Time": "2023-10-16T05:05:29.39237+00:00",
       "NumProgressed": 696531,
       "NumCompleted": 2230
+    },
+    {
+      "Time": "2023-10-16T06:05:17.5676026+00:00",
+      "NumProgressed": 696536,
+      "NumCompleted": 2230
     }
   ],
   "TotalAchievements": 45,
@@ -25781,9 +25792,9 @@
       "ID": "ach_fetch_me_a_tisha",
       "SetID": "7km39fm",
       "Name": "Can\u0027t Handle the Truth",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 13931
+      "UsersEstimate": 20896
     },
     {
       "ID": "ach_finisher",
@@ -26030,22 +26041,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 696531,
+      "Progressed": 696536,
       "Completed": 2230
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 22073,
-      "Completed": 22073
+      "Progressed": 22078,
+      "Completed": 22078
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-10-16T03:02:20.2504159+00:00",
-  "LastChanged_Achievements": "2023-10-16T05:05:29.3923688+00:00",
+  "LastChanged": "2023-10-16T06:03:10.458132+00:00",
+  "LastChanged_Achievements": "2023-10-16T06:05:17.5676022+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:12.5060368+00:00",
-  "LastUpdate_Ratings": "2023-10-16T05:03:22.5588353+00:00",
-  "LastUpdate_Achievements": "2023-10-16T05:05:29.3925288+00:00"
+  "LastUpdate_Ratings": "2023-10-16T06:03:10.4581326+00:00",
+  "LastUpdate_Achievements": "2023-10-16T06:05:17.5677239+00:00"
 }

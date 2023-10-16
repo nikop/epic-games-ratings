@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 157,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7350,
+  "EOS_Progressed": 7351,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -5019,6 +5019,11 @@
       "Time": "2023-10-16T02:24:49.5009561+00:00",
       "NumProgressed": 7350,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-10-16T06:06:50.2485525+00:00",
+      "NumProgressed": 7351,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 27,
@@ -5030,7 +5035,7 @@
       "Name": "The Cycle Continues",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "AK_DAYLIGHT_FOUND",
@@ -5070,7 +5075,7 @@
       "Name": "Harp Tuned",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1690
+      "UsersEstimate": 1691
     },
     {
       "ID": "AK_HOPES_HOISTED",
@@ -5150,7 +5155,7 @@
       "Name": "Pyre Ignited",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1690
+      "UsersEstimate": 1691
     },
     {
       "ID": "AK_RELIC_FINDER",
@@ -5182,7 +5187,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4116
+      "UsersEstimate": 4117
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -5206,7 +5211,7 @@
       "Name": "Travelers Returned",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1690
+      "UsersEstimate": 1691
     },
     {
       "ID": "AK_TRUE_CHALLENGE",
@@ -5222,7 +5227,7 @@
       "Name": "A Wanderer\u2019s Guide",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 808
+      "UsersEstimate": 809
     },
     {
       "ID": "AK_WIND_POWERED",
@@ -5238,22 +5243,22 @@
       "Name": "Worthy of the Title",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1396
+      "UsersEstimate": 1397
     }
   ],
   "AchievementSets": [
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7350,
+      "Progressed": 7351,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-08-27T09:59:24.0528306+00:00",
-  "LastChanged_Achievements": "2023-10-16T05:07:02.8688312+00:00",
+  "LastChanged_Achievements": "2023-10-16T06:06:50.248552+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:12.3218327+00:00",
-  "LastUpdate_Ratings": "2023-10-16T05:00:35.6097165+00:00",
-  "LastUpdate_Achievements": "2023-10-16T05:07:02.868946+00:00"
+  "LastUpdate_Ratings": "2023-10-16T06:00:33.7839964+00:00",
+  "LastUpdate_Achievements": "2023-10-16T06:06:50.2485904+00:00"
 }
