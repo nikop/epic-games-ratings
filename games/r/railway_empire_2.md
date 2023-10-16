@@ -31,8 +31,8 @@ Rating: 4.49 (Ranked 591)
 | All mine | 30.00% | ~609 |
 | Mole | 30.00% | ~609 |
 | Socializer | 30.00% | ~609 |
+| Country Life | 28.00% | ~568 |
 | General Manager | 27.00% | ~548 |
-| Country Life | 27.00% | ~548 |
 | Hostile Takeover | 25.00% | ~507 |
 | Seven at one stroke | 24.00% | ~487 |
 | Trailblazer | 21.00% | ~426 |
@@ -43,10 +43,10 @@ Rating: 4.49 (Ranked 591)
 | Networker | 17.00% | ~345 |
 | Assimilated | 16.00% | ~325 |
 | Locusts | 15.00% | ~304 |
+| Bold and beautiful | 15.00% | ~304 |
 | Settler | 15.00% | ~304 |
 | Go West | 14.00% | ~284 |
 | Max Power | 14.00% | ~284 |
-| Bold and beautiful | 14.00% | ~284 |
 | A new Hope | 11.00% | ~223 |
 | Tycoon | 11.00% | ~223 |
 | Unstoppable | 9.00% | ~183 |

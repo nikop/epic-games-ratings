@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -5445,9 +5445,9 @@
       "ID": "A21",
       "SetID": "9b7p7eo",
       "Name": "Country Life",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 548
+      "UsersEstimate": 568
     },
     {
       "ID": "A22",
@@ -5589,9 +5589,9 @@
       "ID": "A39",
       "SetID": "9b7p7eo",
       "Name": "Bold and beautiful",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 284
+      "UsersEstimate": 304
     },
     {
       "ID": "A40",
@@ -5726,8 +5726,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-10-15T20:57:34.6846336+00:00",
-  "LastChanged_Achievements": "2023-10-16T18:09:43.899442+00:00",
+  "LastChanged_Achievements": "2023-10-16T19:09:43.3009967+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:04.7958216+00:00",
-  "LastUpdate_Ratings": "2023-10-16T17:58:17.281343+00:00",
-  "LastUpdate_Achievements": "2023-10-16T18:09:43.8995203+00:00"
+  "LastUpdate_Ratings": "2023-10-16T18:57:59.441748+00:00",
+  "LastUpdate_Achievements": "2023-10-16T19:09:43.3010761+00:00"
 }

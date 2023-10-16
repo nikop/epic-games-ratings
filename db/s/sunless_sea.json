@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -727,9 +727,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 38947,
+  "EOS_Progressed": 38948,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 369,
+  "EOS_NewPlayers": 365,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18997,6 +18997,11 @@
       "Time": "2023-10-16T18:06:05.901382+00:00",
       "NumProgressed": 38947,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-16T19:06:00.9381706+00:00",
+      "NumProgressed": 38948,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -19262,9 +19267,9 @@
       "ID": "ach_portdeep",
       "SetID": "ammcm",
       "Name": "The beauty of the deep",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 389
+      "UsersEstimate": 351
     },
     {
       "ID": "ach_portdragon",
@@ -19326,9 +19331,9 @@
       "ID": "ach_portunder",
       "SetID": "ammcm",
       "Name": "Under the zee",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 389
+      "UsersEstimate": 351
     },
     {
       "ID": "ach_scion",
@@ -19360,7 +19365,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 7010
+      "UsersEstimate": 7011
     },
     {
       "ID": "ach_terror100",
@@ -19439,15 +19444,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 38947,
+      "Progressed": 38948,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-10-14T19:58:49.9428019+00:00",
-  "LastChanged_Achievements": "2023-10-16T18:06:05.9013814+00:00",
+  "LastChanged_Achievements": "2023-10-16T19:06:00.9381701+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:49.4242639+00:00",
-  "LastUpdate_Ratings": "2023-10-16T18:00:33.112792+00:00",
-  "LastUpdate_Achievements": "2023-10-16T18:06:05.9015344+00:00"
+  "LastUpdate_Ratings": "2023-10-16T19:00:14.7059955+00:00",
+  "LastUpdate_Achievements": "2023-10-16T19:06:00.9383242+00:00"
 }

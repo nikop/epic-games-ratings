@@ -6,9 +6,9 @@
   "Ranking_Popularity": 463,
   "Ranking_PopularitySum": 358,
   "Ranking_EOS_Progress": 177,
-  "Ranking_EOS_Completed": 272,
+  "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -755,11 +755,11 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4174,
-  "EOS_Completed": 2,
-  "EOS_NewPlayers": 211,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.05,
+  "EOS_Progressed": 4175,
+  "EOS_Completed": 3,
+  "EOS_NewPlayers": 209,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
     {
       "Time": "2023-07-20T18:03:29.3468825+00:00",
@@ -7510,6 +7510,11 @@
       "Time": "2023-10-16T18:10:33.7265654+00:00",
       "NumProgressed": 4174,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-16T19:10:33.2077051+00:00",
+      "NumProgressed": 4175,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -7522,7 +7527,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -7578,7 +7583,7 @@
       "Name": "First Strike",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -7594,7 +7599,7 @@
       "Name": "The Fourth Gate",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "MF_Ach_HarderTheyFall",
@@ -7705,15 +7710,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4174,
-      "Completed": 2
+      "Progressed": 4175,
+      "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-14T13:04:06.5278861+00:00",
-  "LastChanged_Achievements": "2023-10-16T18:10:33.7265649+00:00",
+  "LastChanged_Achievements": "2023-10-16T19:10:33.2077046+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:04.1779972+00:00",
-  "LastUpdate_Ratings": "2023-10-16T17:58:16.729523+00:00",
-  "LastUpdate_Achievements": "2023-10-16T18:10:33.7266185+00:00"
+  "LastUpdate_Ratings": "2023-10-16T18:57:58.1148572+00:00",
+  "LastUpdate_Achievements": "2023-10-16T19:10:33.2077537+00:00"
 }

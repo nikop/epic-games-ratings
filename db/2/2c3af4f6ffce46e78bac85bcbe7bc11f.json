@@ -2,10 +2,10 @@
   "ID": "2c3af4f6ffce46e78bac85bcbe7bc11f",
   "Name": "Recollection",
   "ProductSlug": "recollection-71f3a4",
-  "Ranking_EOS_Progress": 414,
-  "Ranking_EOS_Completed": 58,
-  "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_Progress": 412,
+  "Ranking_EOS_Completed": 59,
+  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-06-14T14:00:00+00:00",
     "PcReleaseDate": "2023-04-17T15:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 70,
+  "EOS_Progressed": 71,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5.71,
+  "EOS_Completed_Percentage": 5.63,
   "EosHistory": [
     {
       "Time": "2023-06-14T15:00:16.7509072+00:00",
@@ -386,6 +386,11 @@
       "Time": "2023-10-16T01:52:44.3621391+00:00",
       "NumProgressed": 70,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-16T19:10:23.2191186+00:00",
+      "NumProgressed": 71,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 26,
@@ -443,7 +448,7 @@
       "ID": "Cloud",
       "SetID": "6j29jep",
       "Name": "Something ever-changing...",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
       "UsersEstimate": 11
     },
@@ -483,7 +488,7 @@
       "ID": "Grass",
       "SetID": "6j29jep",
       "Name": "Something foundational...",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
       "UsersEstimate": 11
     },
@@ -515,7 +520,7 @@
       "ID": "Moon",
       "SetID": "6j29jep",
       "Name": "Something to make you dream...",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
       "UsersEstimate": 11
     },
@@ -555,7 +560,7 @@
       "ID": "Star",
       "SetID": "6j29jep",
       "Name": "Something to long for...",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
       "UsersEstimate": 11
     },
@@ -604,14 +609,14 @@
     {
       "ID": "6j29jep",
       "IsBase": true,
-      "Progressed": 70,
+      "Progressed": 71,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-09-01T05:01:10.2908706+00:00",
   "FirstSeenAchievements": "2023-05-31T12:00:38.8856808+00:00",
-  "LastChanged_Achievements": "2023-10-16T18:10:24.0621686+00:00",
+  "LastChanged_Achievements": "2023-10-16T19:10:23.2191177+00:00",
   "LastUpdate_AppInfo": "2023-10-11T21:57:09.4340746+00:00",
-  "LastUpdate_Ratings": "2023-10-16T18:03:49.6912186+00:00",
-  "LastUpdate_Achievements": "2023-10-16T18:10:24.0621909+00:00"
+  "LastUpdate_Ratings": "2023-10-16T19:03:39.9974965+00:00",
+  "LastUpdate_Achievements": "2023-10-16T19:10:23.2191396+00:00"
 }

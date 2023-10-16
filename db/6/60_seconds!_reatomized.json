@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 288,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2019-07-25T08:00:00+00:00",
@@ -6486,9 +6486,9 @@
       "ID": "ACH_LUMBERSEXUAL",
       "SetID": "5nj1ea3",
       "Name": "Lumbersexual",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 325
     },
     {
       "ID": "ACH_MADE_IT",
@@ -6687,8 +6687,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-10-07T15:59:26.0001833+00:00",
-  "LastChanged_Achievements": "2023-10-16T18:08:22.727689+00:00",
+  "LastChanged_Achievements": "2023-10-16T19:08:20.5731281+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:13.9945802+00:00",
-  "LastUpdate_Ratings": "2023-10-16T18:01:43.8690177+00:00",
-  "LastUpdate_Achievements": "2023-10-16T18:08:22.7277786+00:00"
+  "LastUpdate_Ratings": "2023-10-16T19:01:32.2825084+00:00",
+  "LastUpdate_Achievements": "2023-10-16T19:08:20.5732194+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 241,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1367,7 +1367,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 129777,
+  "EOS_Progressed": 129778,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 265,
   "EOS_NewCompleters": 0,
@@ -19257,6 +19257,11 @@
       "Time": "2023-10-16T17:12:07.6795247+00:00",
       "NumProgressed": 129777,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-10-16T19:10:26.2193838+00:00",
+      "NumProgressed": 129778,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -19324,7 +19329,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31146
+      "UsersEstimate": 31147
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -19412,7 +19417,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 14275
+      "UsersEstimate": 14276
     },
     {
       "ID": "ACH_CUNO",
@@ -19587,15 +19592,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 129777,
+      "Progressed": 129778,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-10-15T06:03:52.9459582+00:00",
-  "LastChanged_Achievements": "2023-10-16T18:10:27.0025205+00:00",
+  "LastChanged_Achievements": "2023-10-16T19:10:26.2193832+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:18.5281336+00:00",
-  "LastUpdate_Ratings": "2023-10-16T18:05:08.6413232+00:00",
-  "LastUpdate_Achievements": "2023-10-16T18:10:27.0026554+00:00"
+  "LastUpdate_Ratings": "2023-10-16T19:04:58.4069869+00:00",
+  "LastUpdate_Achievements": "2023-10-16T19:10:26.2195193+00:00"
 }

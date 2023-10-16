@@ -1019,9 +1019,9 @@
       "ID": "ACH_CUBES",
       "SetID": "6f5dahd",
       "Name": "Brain-teaser",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 85,
-      "UsersEstimate": 190
+      "UsersEstimate": 194
     },
     {
       "ID": "ACH_DONUTS",
@@ -1067,9 +1067,9 @@
       "ID": "ACH_SANDWICHES",
       "SetID": "6f5dahd",
       "Name": "Food lover",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 55,
-      "UsersEstimate": 250
+      "UsersEstimate": 255
     },
     {
       "ID": "ACH_SPEEDRUN",
@@ -1098,8 +1098,8 @@
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-10-16T18:06:10.4001795+00:00",
+  "LastChanged_Achievements": "2023-10-16T19:06:05.6971337+00:00",
   "LastUpdate_AppInfo": "2023-10-13T13:03:11.5956346+00:00",
-  "LastUpdate_Ratings": "2023-10-16T18:02:53.4390559+00:00",
-  "LastUpdate_Achievements": "2023-10-16T18:06:10.4001939+00:00"
+  "LastUpdate_Ratings": "2023-10-16T19:02:42.2856188+00:00",
+  "LastUpdate_Achievements": "2023-10-16T19:06:05.6971479+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -157,9 +157,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1421,
+  "EOS_Progressed": 1422,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -1607,6 +1607,11 @@
       "Time": "2023-10-16T18:06:04.5520872+00:00",
       "NumProgressed": 1421,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-16T19:05:59.287634+00:00",
+      "NumProgressed": 1422,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 56,
@@ -1666,7 +1671,7 @@
       "Name": "Let Me Get My Chisel",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "achievement_beatGameOnWalkingLunch",
@@ -2065,15 +2070,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1421,
+      "Progressed": 1422,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-09-16T17:00:08.5779719+00:00",
-  "LastChanged_Achievements": "2023-10-16T18:06:04.5520868+00:00",
+  "LastChanged_Achievements": "2023-10-16T19:05:59.2876335+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:14.4249097+00:00",
-  "LastUpdate_Ratings": "2023-10-16T17:59:23.9423253+00:00",
-  "LastUpdate_Achievements": "2023-10-16T18:06:04.5521444+00:00"
+  "LastUpdate_Ratings": "2023-10-16T18:59:10.389203+00:00",
+  "LastUpdate_Achievements": "2023-10-16T19:05:59.287692+00:00"
 }

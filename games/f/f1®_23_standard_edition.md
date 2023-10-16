@@ -5,15 +5,15 @@ Rating: 4.67 (Ranked 262)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 95.00% | ~3,126 |
-| On the Top Step | 89.00% | ~2,929 |
-| Setting up for Success | 79.00% | ~2,600 |
-| Team Orders | 76.00% | ~2,501 |
+| Getting on the Step | 95.00% | ~3,127 |
+| On the Top Step | 89.00% | ~2,930 |
+| Setting up for Success | 79.00% | ~2,601 |
+| Team Orders | 76.00% | ~2,502 |
 | Engineer | 57.00% | ~1,876 |
-| Familiar Faces | 51.00% | ~1,678 |
+| Familiar Faces | 51.00% | ~1,679 |
 | Going the Extra Mile | 45.00% | ~1,481 |
-| Sharing the Love | 43.00% | ~1,415 |
-| Hitting a Season | 40.00% | ~1,316 |
+| Sharing the Love | 43.00% | ~1,416 |
+| Hitting a Season | 41.00% | ~1,350 |
 | Challenge Yourself | 36.00% | ~1,185 |
 | A Dozen Pieces | 34.00% | ~1,119 |
 | Making History | 33.00% | ~1,086 |
@@ -23,9 +23,9 @@ Rating: 4.67 (Ranked 262)
 | Reduce | 21.00% | ~691 |
 | Ups and Downs | 21.00% | ~691 |
 | Crucial Combo | 20.00% | ~658 |
-| Reuse | 18.00% | ~592 |
-| One for the Book | 18.00% | ~592 |
-| Proving Them Wrong | 17.00% | ~559 |
+| Reuse | 18.00% | ~593 |
+| One for the Book | 18.00% | ~593 |
+| Proving Them Wrong | 17.00% | ~560 |
 | Gathering Dust | 16.00% | ~527 |
 | Oil and Water | 16.00% | ~527 |
 | Hitting a Bullseye | 15.00% | ~494 |
@@ -40,7 +40,7 @@ Rating: 4.67 (Ranked 262)
 | Undisputed Winner | 9.00% | ~296 |
 | Living up to Expectations | 7.00% | ~230 |
 | Smooth Operator | 7.00% | ~230 |
-| For all Those Back at the Factory | 6.00% | ~197 |
+| For all Those Back at the Factory | 6.00% | ~198 |
 | Loyal Bond | 5.00% | ~165 |
 | Peak Performance | 5.00% | ~165 |
 | Seasoned Rookie | 3.00% | ~99 |
@@ -55,7 +55,7 @@ Rating: 4.67 (Ranked 262)
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,291 (Ranked 188)  
+Progressed: 3,292 (Ranked 188)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-10-13 | 3,219 | 0 |
 | 2023-10-14 | 3,247 | 0 |
 | 2023-10-15 | 3,279 | 0 |
-| 2023-10-16 | 3,291 | 0 |
+| 2023-10-16 | 3,292 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

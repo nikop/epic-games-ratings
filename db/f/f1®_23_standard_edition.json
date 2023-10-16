@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -382,7 +382,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3291,
+  "EOS_Progressed": 3292,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 0,
@@ -3012,6 +3012,11 @@
       "Time": "2023-10-16T18:10:20.2838419+00:00",
       "NumProgressed": 3291,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-16T19:10:19.3593512+00:00",
+      "NumProgressed": 3292,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -3064,7 +3069,7 @@
       "Name": "Setting up for Success",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 2600
+      "UsersEstimate": 2601
     },
     {
       "ID": "achievement_0007",
@@ -3072,7 +3077,7 @@
       "Name": "Getting on the Step",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 3126
+      "UsersEstimate": 3127
     },
     {
       "ID": "achievement_0008",
@@ -3080,7 +3085,7 @@
       "Name": "On the Top Step",
       "Percentage": 89,
       "XP": 20,
-      "UsersEstimate": 2929
+      "UsersEstimate": 2930
     },
     {
       "ID": "achievement_0009",
@@ -3142,9 +3147,9 @@
       "ID": "achievement_0016",
       "SetID": "9123ogc",
       "Name": "Hitting a Season",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1350
     },
     {
       "ID": "achievement_0017",
@@ -3176,7 +3181,7 @@
       "Name": "For all Those Back at the Factory",
       "Percentage": 6,
       "XP": 75,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "achievement_0021",
@@ -3184,7 +3189,7 @@
       "Name": "Team Orders",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2501
+      "UsersEstimate": 2502
     },
     {
       "ID": "achievement_0022",
@@ -3200,7 +3205,7 @@
       "Name": "Sharing the Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1415
+      "UsersEstimate": 1416
     },
     {
       "ID": "achievement_0024",
@@ -3256,7 +3261,7 @@
       "Name": "Reuse",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "achievement_0031",
@@ -3336,7 +3341,7 @@
       "Name": "One for the Book",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "achievement_0041",
@@ -3360,7 +3365,7 @@
       "Name": "Familiar Faces",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1678
+      "UsersEstimate": 1679
     },
     {
       "ID": "achievement_0044",
@@ -3408,14 +3413,14 @@
       "Name": "Proving Them Wrong",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     }
   ],
   "AchievementSets": [
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 3291,
+      "Progressed": 3292,
       "Completed": 0
     }
   ],
@@ -3423,8 +3428,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-10-14T15:01:06.7997095+00:00",
-  "LastChanged_Achievements": "2023-10-16T18:10:20.283841+00:00",
+  "LastChanged_Achievements": "2023-10-16T19:10:19.3593506+00:00",
   "LastUpdate_AppInfo": "2023-10-14T13:56:56.8221835+00:00",
-  "LastUpdate_Ratings": "2023-10-16T18:03:43.5659887+00:00",
-  "LastUpdate_Achievements": "2023-10-16T18:10:20.283892+00:00"
+  "LastUpdate_Ratings": "2023-10-16T19:03:33.9434207+00:00",
+  "LastUpdate_Achievements": "2023-10-16T19:10:19.3594084+00:00"
 }

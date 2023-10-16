@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 283,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1871,7 +1871,7 @@
   ],
   "EOS_Progressed": 14744,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14434,9 +14434,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_DEVOUT",
       "SetID": "9201eeb",
       "Name": "Devout",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 59
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_ENLIGHTENED",
@@ -14674,9 +14674,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_VICTORIOUS",
       "SetID": "9201eeb",
       "Name": "Victorious",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 103
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_WARRIOR",
@@ -15346,9 +15346,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_APADANA",
       "SetID": "9201eeb",
       "Name": "Apadana",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 133
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_CIRCUS_MAXIMUS",
@@ -16730,9 +16730,9 @@
       "ID": "ACHIEVEMENT_NATION_KUSH",
       "SetID": "9201eeb",
       "Name": "Kush",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_KUSH",
@@ -16768,8 +16768,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-16T14:58:00.080294+00:00",
-  "LastChanged_Achievements": "2023-10-16T18:10:31.5055109+00:00",
+  "LastChanged_Achievements": "2023-10-16T19:10:31.1263687+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:21.7880328+00:00",
-  "LastUpdate_Ratings": "2023-10-16T17:57:47.7509646+00:00",
-  "LastUpdate_Achievements": "2023-10-16T18:10:31.506757+00:00"
+  "LastUpdate_Ratings": "2023-10-16T18:57:30.1991221+00:00",
+  "LastUpdate_Achievements": "2023-10-16T19:10:31.1274794+00:00"
 }

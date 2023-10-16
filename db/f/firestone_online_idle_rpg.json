@@ -3,12 +3,12 @@
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
   "Ranking_Rating": 953,
-  "Ranking_Popularity": 492,
+  "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 453,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -370,9 +370,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 2042,
+  "EOS_Progressed": 2043,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6140,6 +6140,11 @@
       "Time": "2023-10-16T15:11:50.9445633+00:00",
       "NumProgressed": 2042,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-16T19:11:12.6180629+00:00",
+      "NumProgressed": 2043,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -6327,7 +6332,7 @@
       "Name": "Exotic Merchant",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "fellowshippower",
@@ -6575,7 +6580,7 @@
       "Name": "Scientist",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "scrollmaster",
@@ -6607,7 +6612,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1164
+      "UsersEstimate": 1165
     },
     {
       "ID": "thealchemist",
@@ -6711,7 +6716,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1899
+      "UsersEstimate": 1900
     },
     {
       "ID": "warmachinesarmy",
@@ -6743,14 +6748,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1613
+      "UsersEstimate": 1614
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2042,
+      "Progressed": 2043,
       "Completed": 2
     }
   ],
@@ -6758,8 +6763,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-10-12T17:59:57.3603053+00:00",
-  "LastChanged_Achievements": "2023-10-16T18:11:12.3613841+00:00",
+  "LastChanged_Achievements": "2023-10-16T19:11:12.6180624+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:40.7167186+00:00",
-  "LastUpdate_Ratings": "2023-10-16T18:04:08.8375928+00:00",
-  "LastUpdate_Achievements": "2023-10-16T18:11:12.361494+00:00"
+  "LastUpdate_Ratings": "2023-10-16T19:04:03.200757+00:00",
+  "LastUpdate_Achievements": "2023-10-16T19:11:12.6181726+00:00"
 }

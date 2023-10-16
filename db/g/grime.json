@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1108,9 +1108,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 152652,
+  "EOS_Progressed": 152658,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1206,
+  "EOS_NewPlayers": 1212,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11828,6 +11828,11 @@
       "Time": "2023-10-16T18:06:30.8812488+00:00",
       "NumProgressed": 152652,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-16T19:06:26.3970857+00:00",
+      "NumProgressed": 152658,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -11965,9 +11970,9 @@
       "ID": "DEFEAT_GRIEVINGROCKGIANT",
       "SetID": "ccc0dlh",
       "Name": "Hush",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 305
+      "UsersEstimate": 458
     },
     {
       "ID": "DEFEAT_HARMLESSROCKGIANT",
@@ -12206,21 +12211,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 152235,
+      "Progressed": 152241,
       "Completed": 1161
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 152652,
+      "Progressed": 152658,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-15T21:00:21.3078905+00:00",
-  "LastChanged_Achievements": "2023-10-16T18:06:30.8812482+00:00",
+  "LastChanged_Achievements": "2023-10-16T19:06:26.3970852+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:33.8479674+00:00",
-  "LastUpdate_Ratings": "2023-10-16T18:03:26.5014609+00:00",
-  "LastUpdate_Achievements": "2023-10-16T18:06:30.8813484+00:00"
+  "LastUpdate_Ratings": "2023-10-16T19:03:14.6948757+00:00",
+  "LastUpdate_Achievements": "2023-10-16T19:06:26.3971755+00:00"
 }

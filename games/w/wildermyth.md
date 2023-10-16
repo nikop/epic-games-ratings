@@ -27,7 +27,7 @@ Number of Ratings: 45  (23.09.2022)
 | Everfading | 8.00% | ~114 |
 | Another Tale to Tell | 8.00% | ~114 |
 | A Story of Heroes | 8.00% | ~114 |
-| Let Me Get My Chisel | 7.00% | ~99 |
+| Let Me Get My Chisel | 7.00% | ~100 |
 | Legends Never Die | 6.00% | ~85 |
 | Wingknight's Prowess | 6.00% | ~85 |
 | All My Birds, Safely Home | 6.00% | ~85 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Overwhelming Monstrosity | 0.80% | ~11 |
 | Peacemaker | 0.70% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,421 (Ranked 222)  
+Progressed: 1,422 (Ranked 222)  
 Completed: 6 (0.42%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 6 (0.42%) (Ranked 187)
 | 2023-10-13 | 1,417 | 6 |
 | 2023-10-14 | 1,418 | 6 |
 | 2023-10-15 | 1,420 | 6 |
-| 2023-10-16 | 1,421 | 6 |
+| 2023-10-16 | 1,422 | 6 |
 ## Awards
 Max (Character Customization): 28  (Ranked 483)  
 Sum: 28 (Ranked 498)  

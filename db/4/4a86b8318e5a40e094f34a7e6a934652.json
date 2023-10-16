@@ -4,8 +4,8 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 348,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -876,9 +876,9 @@
       "ID": "LUNCH_LEECH",
       "SetID": "aniflfk",
       "Name": "Leech Lunch",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 88
+      "UsersEstimate": 90
     },
     {
       "ID": "NOT_EAT_BIOMASS_HOUSEWARMING",
@@ -963,8 +963,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-10-16T18:05:32.0077178+00:00",
+  "LastChanged_Achievements": "2023-10-16T19:05:25.8757627+00:00",
   "LastUpdate_AppInfo": "2023-10-11T15:57:05.2435729+00:00",
-  "LastUpdate_Ratings": "2023-10-16T18:00:51.154195+00:00",
-  "LastUpdate_Achievements": "2023-10-16T18:05:32.0077384+00:00"
+  "LastUpdate_Ratings": "2023-10-16T19:00:31.8221968+00:00",
+  "LastUpdate_Achievements": "2023-10-16T19:05:25.8757908+00:00"
 }

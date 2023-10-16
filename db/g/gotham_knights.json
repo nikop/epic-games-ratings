@@ -3578,9 +3578,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73576,
+  "EOS_Progressed": 73577,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 221,
+  "EOS_NewPlayers": 219,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -18903,6 +18903,11 @@
       "Time": "2023-10-16T18:07:11.7746514+00:00",
       "NumProgressed": 73576,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-10-16T19:07:09.0745796+00:00",
+      "NumProgressed": 73577,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 61,
@@ -18962,7 +18967,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16922
+      "UsersEstimate": 16923
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -19154,7 +19159,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 13979
+      "UsersEstimate": 13980
     },
     {
       "ID": "FREEZE_3",
@@ -19290,7 +19295,7 @@
       "Name": "Knighthood",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20601
+      "UsersEstimate": 20602
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -19322,7 +19327,7 @@
       "Name": "Lock and Key",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16922
+      "UsersEstimate": 16923
     },
     {
       "ID": "MYSTERY_04",
@@ -19346,7 +19351,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11036
+      "UsersEstimate": 11037
     },
     {
       "ID": "MYSTERY_07",
@@ -19401,13 +19406,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73576,
+      "Progressed": 73577,
       "Completed": 121
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43856,
+      "Progressed": 43857,
       "Completed": 2667
     }
   ],
@@ -19415,8 +19420,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-16T13:59:05.1339063+00:00",
-  "LastChanged_Achievements": "2023-10-16T18:07:11.7746506+00:00",
+  "LastChanged_Achievements": "2023-10-16T19:07:09.0745791+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:41.7245252+00:00",
-  "LastUpdate_Ratings": "2023-10-16T18:00:09.3637594+00:00",
-  "LastUpdate_Achievements": "2023-10-16T18:07:11.7747947+00:00"
+  "LastUpdate_Ratings": "2023-10-16T18:59:46.933722+00:00",
+  "LastUpdate_Achievements": "2023-10-16T19:07:09.0747279+00:00"
 }

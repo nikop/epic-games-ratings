@@ -33,9 +33,9 @@ Rating: 4.62 (Ranked 353)
 | Cartographer | 15.00% | ~136 |
 | Treasure Trove | 14.00% | ~127 |
 | Whiz Kid | 14.00% | ~127 |
+| Good Neighbor | 13.00% | ~118 |
 | Chaincrawler Explorer | 12.00% | ~109 |
 | Family Memories | 12.00% | ~109 |
-| Good Neighbor | 12.00% | ~109 |
 | Syron for Hope | 11.00% | ~100 |
 | Ask Questions Later | 11.00% | ~100 |
 | Fairgrounds Explorer | 10.00% | ~90 |

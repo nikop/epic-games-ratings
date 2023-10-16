@@ -57,6 +57,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great | 0.90% | ~133 |
 | Valiant | 0.90% | ~133 |
 | Legendary Cities | 0.90% | ~133 |
+| Apadana | 0.90% | ~133 |
 | Colossus | 0.90% | ~133 |
 | Musaeum | 0.90% | ~133 |
 | Necropolis | 0.90% | ~133 |
@@ -65,19 +66,18 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just Difficulty | 0.80% | ~118 |
 | Artisans | 0.80% | ~118 |
 | Acropolis | 0.80% | ~118 |
-| Apadana | 0.80% | ~118 |
 | Learn to Play 2 | 0.80% | ~118 |
 | Mythology | 0.80% | ~118 |
 | Win a Single Player Game | 0.80% | ~118 |
 | Hanging Gardens in Babylon | 0.70% | ~103 |
 | Beloved | 0.70% | ~103 |
 | Conqueror | 0.70% | ~103 |
+| Victorious | 0.70% | ~103 |
 | Champions | 0.70% | ~103 |
 | Sages | 0.70% | ~103 |
 | Mausoleum | 0.70% | ~103 |
 | Intercessor | 0.60% | ~88 |
 | Lion | 0.60% | ~88 |
-| Victorious | 0.60% | ~88 |
 | Good Difficulty | 0.60% | ~88 |
 | Patrons | 0.60% | ~88 |
 | Circus Maximus | 0.60% | ~88 |
@@ -111,6 +111,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Phalangite | 0.50% | ~74 |
 | The Clergy | 0.50% | ~74 |
 | Capable | 0.40% | ~59 |
+| Devout | 0.40% | ~59 |
 | Ready | 0.40% | ~59 |
 | Strong Difficulty | 0.40% | ~59 |
 | Hunters | 0.40% | ~59 |
@@ -131,7 +132,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Bad Heir Day | 0.30% | ~44 |
 | Ishtar Gate in Babylon | 0.30% | ~44 |
 | Carthage - Ox Hide | 0.30% | ~44 |
-| Devout | 0.30% | ~44 |
 | Noble Difficulty | 0.30% | ~44 |
 | Clerics | 0.30% | ~44 |
 | Cao'an | 0.30% | ~44 |
@@ -146,6 +146,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | All Nations | 0.30% | ~44 |
 | Rmt n Kmt Buhen | 0.30% | ~44 |
 | Greater Kmt Unified | 0.30% | ~44 |
+| Kush | 0.30% | ~44 |
 | Beja Archer | 0.30% | ~44 |
 | Ancient | 0.20% | ~29 |
 | Old | 0.20% | ~29 |
@@ -165,7 +166,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | No Undo | 0.20% | ~29 |
 | Necropolis in Waset | 0.20% | ~29 |
 | Prosperous Kmt | 0.20% | ~29 |
-| Kush | 0.20% | ~29 |
 | Centenarian | 0.10% | ~15 |
 | Alexander the who? | 0.10% | ~15 |
 | Lighthouse in Alexandria | 0.10% | ~15 |

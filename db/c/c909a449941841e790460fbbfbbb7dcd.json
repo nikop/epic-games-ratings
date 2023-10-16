@@ -4,8 +4,8 @@
   "ProductSlug": "road-defense-outsiders-22e4ba",
   "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 77,
-  "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-09-22T19:00:00+00:00",
     "PcReleaseDate": "2023-05-28T19:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 57,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.51,
   "EosHistory": [
@@ -327,9 +327,9 @@
       "ID": "DEFEATED_10000_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Slayer",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 60,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "DEFEATED_1000_ENEMIES",
@@ -383,17 +383,17 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "14g34pl",
       "Name": "Fairfort is safe!",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 60,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "14g34pl",
       "Name": "Northbarrow is safe!",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 60,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -454,8 +454,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-10-16T18:08:11.7953002+00:00",
+  "LastChanged_Achievements": "2023-10-16T19:08:09.1041656+00:00",
   "LastUpdate_AppInfo": "2023-10-10T17:57:11.5504269+00:00",
-  "LastUpdate_Ratings": "2023-10-16T18:01:36.6973621+00:00",
-  "LastUpdate_Achievements": "2023-10-16T18:08:11.7953135+00:00"
+  "LastUpdate_Ratings": "2023-10-16T19:01:20.7314319+00:00",
+  "LastUpdate_Achievements": "2023-10-16T19:08:09.1041794+00:00"
 }

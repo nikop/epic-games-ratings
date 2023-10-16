@@ -3,12 +3,12 @@
   "Name": "Homeworld Remastered Collection",
   "ProductSlug": "homeworld-remastered-collection",
   "Ranking_Rating": 493,
-  "Ranking_Popularity": 498,
+  "Ranking_Popularity": 499,
   "Ranking_PopularitySum": 424,
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -398,9 +398,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 226639,
+  "EOS_Progressed": 226650,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1531,
+  "EOS_NewPlayers": 1542,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10083,6 +10083,11 @@
       "Time": "2023-10-16T18:07:24.9925825+00:00",
       "NumProgressed": 226639,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-16T19:07:22.3910988+00:00",
+      "NumProgressed": 226650,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -10151,7 +10156,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 47594
+      "UsersEstimate": 47596
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -10191,7 +10196,7 @@
       "Name": "Diamond Shoals Completed",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 6799
+      "UsersEstimate": 6800
     },
     {
       "ID": "HW1_MISSION7_COMPLETE",
@@ -10231,7 +10236,7 @@
       "Name": "Keepers of Sajuuk Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1586
+      "UsersEstimate": 1587
     },
     {
       "ID": "HW2_MISSION11_COMPLETE",
@@ -10239,7 +10244,7 @@
       "Name": "Sacrifice Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1586
+      "UsersEstimate": 1587
     },
     {
       "ID": "HW2_MISSION12_COMPLETE",
@@ -10279,7 +10284,7 @@
       "Name": "Tanis Completed",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 29463
+      "UsersEstimate": 29464
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -10287,7 +10292,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 15865
+      "UsersEstimate": 15866
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -10335,7 +10340,7 @@
       "Name": "Dreadnaught Berth Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1586
+      "UsersEstimate": 1587
     },
     {
       "ID": "HW2_MISSION9_COMPLETE",
@@ -10351,7 +10356,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 56660
+      "UsersEstimate": 56662
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -10366,7 +10371,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 226639,
+      "Progressed": 226650,
       "Completed": 0
     }
   ],
@@ -10374,8 +10379,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-10-15T10:00:50.8952056+00:00",
-  "LastChanged_Achievements": "2023-10-16T18:07:24.9925822+00:00",
+  "LastChanged_Achievements": "2023-10-16T19:07:22.3910982+00:00",
   "LastUpdate_AppInfo": "2023-10-12T22:57:12.5355858+00:00",
-  "LastUpdate_Ratings": "2023-10-16T18:02:44.9043856+00:00",
-  "LastUpdate_Achievements": "2023-10-16T18:07:24.9926683+00:00"
+  "LastUpdate_Ratings": "2023-10-16T19:02:36.2226816+00:00",
+  "LastUpdate_Achievements": "2023-10-16T19:07:22.3911818+00:00"
 }
