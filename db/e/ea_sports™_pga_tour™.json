@@ -17,9 +17,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 396,
+  "EOS_Progressed": 397,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.02,
   "EosHistory": [
@@ -1222,6 +1222,11 @@
       "Time": "2023-10-16T02:22:22.6766953+00:00",
       "NumProgressed": 396,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-16T04:03:49.1300769+00:00",
+      "NumProgressed": 397,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -1258,7 +1263,7 @@
       "Name": "From Way Downtown",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "achievement_13",
@@ -1266,7 +1271,7 @@
       "Name": "Competitor\u0027s Spirit",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "achievement_14",
@@ -1298,7 +1303,7 @@
       "Name": "Clean Sheet",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "achievement_18",
@@ -1312,9 +1317,9 @@
       "ID": "achievement_2",
       "SetID": "7ldgi7j",
       "Name": "A Tradition Unlike Any Other",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 103
+      "UsersEstimate": 99
     },
     {
       "ID": "achievement_3",
@@ -1352,17 +1357,17 @@
       "ID": "achievement_7",
       "SetID": "7ldgi7j",
       "Name": "Makin\u0027 the Cut",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 281
+      "UsersEstimate": 286
     },
     {
       "ID": "achievement_8",
       "SetID": "7ldgi7j",
       "Name": "Winner\u0027s Circle",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 35,
-      "UsersEstimate": 246
+      "UsersEstimate": 242
     },
     {
       "ID": "achievement_9",
@@ -1377,13 +1382,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 396,
+      "Progressed": 397,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-10-16T03:03:18.9419925+00:00",
+  "LastChanged_Achievements": "2023-10-16T04:03:49.1300762+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:08.0015832+00:00",
-  "LastUpdate_Ratings": "2023-10-16T02:59:00.1196616+00:00",
-  "LastUpdate_Achievements": "2023-10-16T03:03:18.9420169+00:00"
+  "LastUpdate_Ratings": "2023-10-16T03:59:11.0049668+00:00",
+  "LastUpdate_Achievements": "2023-10-16T04:03:49.1301125+00:00"
 }

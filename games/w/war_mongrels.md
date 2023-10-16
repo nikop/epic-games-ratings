@@ -1,7 +1,7 @@
 # War Mongrels
 [Store](https://store.epicgames.com/en-US/p/war-mongrels)  
 [View Rawdata](../../db/w/war_mongrels.json)  
-Rating: 4.32 (Ranked 799)  
+Rating: 4.32 (Ranked 800)  
 Number of Ratings: 34  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -27,7 +27,7 @@ Number of Ratings: 34  (23.09.2022)
 | Vengeance | 27.00% | ~147 |
 | Collectibles of Chapter II | 24.00% | ~131 |
 | Broken Hopes | 24.00% | ~131 |
-| Bullseye! | 23.00% | ~126 |
+| Bullseye! | 24.00% | ~131 |
 | It's Just an Accident | 22.00% | ~120 |
 | Sorrow | 21.00% | ~115 |
 | Atonement | 19.00% | ~104 |
@@ -47,9 +47,9 @@ Number of Ratings: 34  (23.09.2022)
 | Collectibles of Chapter XI | 5.00% | ~27 |
 | The Good Samaritan | 5.00% | ~27 |
 | It Will Rain | 5.00% | ~27 |
+| Collectibles of Chapter X | 4.00% | ~22 |
 | Collectibles of Chapter VI | 3.00% | ~16 |
 | Collectibles of Chapter IX | 3.00% | ~16 |
-| Collectibles of Chapter X | 3.00% | ~16 |
 | Hold a Door | 2.00% | ~11 |
 | Daddy Would Be Proud | 2.00% | ~11 |
 | Warm Up | 0.40% | ~2 |

@@ -5,42 +5,42 @@ Rating: 4.49 (Ranked 591)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rooftop Duel | 99.00% | ~5,226 |
-| For Saw Gerrera | 98.00% | ~5,173 |
-| Grab Some Seat | 91.00% | ~4,804 |
-| Can You Pet the Bogling? | 87.00% | ~4,593 |
-| The Past Made Present | 83.00% | ~4,382 |
-| Survivors, We Adapt | 79.00% | ~4,170 |
-| Among the Masters | 78.00% | ~4,118 |
-| They Never Saw It Coming | 77.00% | ~4,065 |
-| Who Gives a Puck | 73.00% | ~3,854 |
-| For the Path | 65.00% | ~3,431 |
-| Mirror Match | 64.00% | ~3,379 |
-| Now, This Isn't Podracing | 64.00% | ~3,379 |
-| Skywalker | 61.00% | ~3,220 |
-| Out of Bedlam | 60.00% | ~3,167 |
-| Cleaning Up | 54.00% | ~2,851 |
-| Kitted Out | 51.00% | ~2,692 |
+| Rooftop Duel | 99.00% | ~5,228 |
+| For Saw Gerrera | 98.00% | ~5,175 |
+| Grab Some Seat | 91.00% | ~4,806 |
+| Can You Pet the Bogling? | 87.00% | ~4,594 |
+| The Past Made Present | 83.00% | ~4,383 |
+| Survivors, We Adapt | 79.00% | ~4,172 |
+| Among the Masters | 78.00% | ~4,119 |
+| They Never Saw It Coming | 77.00% | ~4,066 |
+| Who Gives a Puck | 73.00% | ~3,855 |
+| For the Path | 65.00% | ~3,433 |
+| Mirror Match | 64.00% | ~3,380 |
+| Now, This Isn't Podracing | 64.00% | ~3,380 |
+| Skywalker | 61.00% | ~3,221 |
+| Out of Bedlam | 60.00% | ~3,169 |
+| Cleaning Up | 54.00% | ~2,852 |
+| Kitted Out | 51.00% | ~2,693 |
 | Hey, Luke At Us | 50.00% | ~2,640 |
 | Tanalorr Bound | 50.00% | ~2,640 |
-| Tragedy | 48.00% | ~2,534 |
-| At the Precipice | 46.00% | ~2,428 |
-| Riposte | 46.00% | ~2,428 |
-| Into the Abyss | 44.00% | ~2,323 |
-| Greezy Money | 43.00% | ~2,270 |
-| A Place You Could Call Home | 42.00% | ~2,217 |
+| Tragedy | 48.00% | ~2,535 |
+| At the Precipice | 46.00% | ~2,429 |
+| Riposte | 46.00% | ~2,429 |
+| Into the Abyss | 44.00% | ~2,324 |
+| Greezy Money | 43.00% | ~2,271 |
+| A Place You Could Call Home | 42.00% | ~2,218 |
 | Catch! | 40.00% | ~2,112 |
-| They're Probably Fine | 39.00% | ~2,059 |
-| Han Slowlo | 36.00% | ~1,900 |
-| There Is No Try | 36.00% | ~1,900 |
+| They're Probably Fine | 39.00% | ~2,060 |
+| Han Slowlo | 36.00% | ~1,901 |
+| There Is No Try | 36.00% | ~1,901 |
 | The Jedi Path | 30.00% | ~1,584 |
-| This Is Canon | 28.00% | ~1,478 |
+| This Is Canon | 28.00% | ~1,479 |
 | It's a Trap | 25.00% | ~1,320 |
-| You've Got A Friend | 22.00% | ~1,161 |
+| You've Got A Friend | 22.00% | ~1,162 |
 | King of the World | 16.00% | ~845 |
 | Reconnaissance | 15.00% | ~792 |
 | A Presence I've Not Felt Since... | 14.00% | ~739 |
-| Max Capacity | 13.00% | ~686 |
+| Max Capacity | 13.00% | ~687 |
 | Slam Dunk | 11.00% | ~581 |
 | Star Tours | 10.00% | ~528 |
 | Gambler | 10.00% | ~528 |
@@ -48,9 +48,9 @@ Rating: 4.49 (Ranked 591)
 | Growth Spurt | 8.00% | ~422 |
 | I'm a Living Legend | 6.00% | ~317 |
 | Perk of the Job | 6.00% | ~317 |
+| Road House | 6.00% | ~317 |
 | Skoova Diving | 6.00% | ~317 |
 | Get Down From There | 5.00% | ~264 |
-| Road House | 5.00% | ~264 |
 | Intergalactic Geographic | 5.00% | ~264 |
 | So Uncivilized | 3.00% | ~158 |
 | One With the Force | 3.00% | ~158 |
@@ -59,7 +59,7 @@ Rating: 4.49 (Ranked 591)
 | Pinpoint | 2.00% | ~106 |
 | Splurgle | 2.00% | ~106 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,279 (Ranked 172)  
+Progressed: 5,281 (Ranked 172)  
 Completed: 20 (0.38%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,10 +89,10 @@ Completed: 20 (0.38%) (Ranked 191)
 | 2023-10-13 | 5,055 | 19 |
 | 2023-10-14 | 5,171 | 19 |
 | 2023-10-15 | 5,272 | 20 |
-| 2023-10-16 | 5,279 | 20 |
+| 2023-10-16 | 5,281 | 20 |
 ## Awards
 Max (Great Boss Battles): 2,974  (Ranked 95)  
-Sum: 4,410 (Ranked 143)  
+Sum: 4,412 (Ranked 143)  
 Diff (max vs sum): -48  
 | Award | Count |
 | ----- | ----- |
@@ -105,7 +105,7 @@ Diff (max vs sum): -48
 | This game is Highly Recommended | 161 |
 | This game is Extremely Fun | 155 |
 | This game has Challenging Combat | 144 |
-| This game has a Creative Community | 108 |
+| This game has a Creative Community | 110 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -278,3 +278,4 @@ Diff (max vs sum): -48
 | 2023-10-13 | 4.49 | 2,953 | 4,363 |
 | 2023-10-14 | 4.49 | 2,964 | 4,388 |
 | 2023-10-15 | 4.49 | 2,974 | 4,410 |
+| 2023-10-16 | 4.49 | 2,974 | 4,412 |

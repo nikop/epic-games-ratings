@@ -2,7 +2,7 @@
   "ID": "b8abdf9f9bc64ed6b4128a71fd47607f",
   "Name": "Gamedec - Definitive Edition",
   "ProductSlug": "gamedec",
-  "Ranking_Rating": 819,
+  "Ranking_Rating": 820,
   "Ranking_Popularity": 369,
   "Ranking_PopularitySum": 441,
   "Ranking_EOS_Progress": 53,
@@ -438,9 +438,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 249252,
+  "EOS_Progressed": 249253,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 742,
+  "EOS_NewPlayers": 739,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20378,6 +20378,11 @@
       "Time": "2023-10-16T03:09:08.9436814+00:00",
       "NumProgressed": 249252,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-16T04:09:40.2364097+00:00",
+      "NumProgressed": 249253,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -20605,7 +20610,7 @@
       "Name": "Write that down",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 59820
+      "UsersEstimate": 59821
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -20804,7 +20809,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 249252,
+      "Progressed": 249253,
       "Completed": 7
     }
   ],
@@ -20812,8 +20817,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-10-15T11:58:28.2667382+00:00",
-  "LastChanged_Achievements": "2023-10-16T03:09:08.9436809+00:00",
+  "LastChanged_Achievements": "2023-10-16T04:09:40.2364092+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:29.8544864+00:00",
-  "LastUpdate_Ratings": "2023-10-16T02:58:02.1086388+00:00",
-  "LastUpdate_Achievements": "2023-10-16T03:09:08.9438326+00:00"
+  "LastUpdate_Ratings": "2023-10-16T03:58:11.7709298+00:00",
+  "LastUpdate_Achievements": "2023-10-16T04:09:40.2365854+00:00"
 }

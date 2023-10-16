@@ -29,6 +29,7 @@ Number of Ratings: 46  (23.09.2022)
 | Celebration | 0.30% | ~458 |
 | All-Seeing | 0.30% | ~458 |
 | Predator | 0.30% | ~458 |
+| Bloodhunter | 0.20% | ~305 |
 | Breath | 0.20% | ~305 |
 | Artisan | 0.20% | ~305 |
 | Hush | 0.20% | ~305 |
@@ -38,7 +39,6 @@ Number of Ratings: 46  (23.09.2022)
 | Passage | 0.20% | ~305 |
 | Dream | 0.20% | ~304 |
 | Spiral Heart | 0.10% | ~153 |
-| Bloodhunter | 0.10% | ~153 |
 | Skinmaker | 0.10% | ~153 |
 | Instruments | 0.10% | ~153 |
 | Zygote | 0.10% | ~152 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~152 |
 | Intensify | 0.10% | ~152 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 152,528 (Ranked 71)  
+Progressed: 152,537 (Ranked 71)  
 Completed: 1 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,11 +209,11 @@ Completed: 1 (0.00%) (Ranked 314)
 | 2023-10-13 | 151,932 | 1 |
 | 2023-10-14 | 152,214 | 1 |
 | 2023-10-15 | 152,491 | 1 |
-| 2023-10-16 | 152,528 | 1 |
+| 2023-10-16 | 152,537 | 1 |
 ## Awards
 Max (Highly Recommended): 44  (Ranked 435)  
-Sum: 290 (Ranked 352)  
-Diff (max vs sum): 83  
+Sum: 290 (Ranked 353)  
+Diff (max vs sum): 82  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 44 |

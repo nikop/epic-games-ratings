@@ -2,7 +2,7 @@
   "ID": "fbab831cc1c94385b4e311f47f6fdc4f",
   "Name": "Galactic Civilizations IV",
   "ProductSlug": "galactic-civilizations-iv",
-  "Ranking_Rating": 905,
+  "Ranking_Rating": 906,
   "Ranking_Popularity": 357,
   "Ranking_PopularitySum": 286,
   "Ranking_EOS_Progress": 161,
@@ -7346,9 +7346,9 @@
       "ID": "Use_Artifact_Power",
       "SetID": "4h07amh",
       "Name": "Unleash My Power",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 4172
+      "UsersEstimate": 4240
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -7610,8 +7610,8 @@
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-10-16T03:04:15.11166+00:00",
+  "LastChanged_Achievements": "2023-10-16T04:04:47.2271188+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:21.0832103+00:00",
-  "LastUpdate_Ratings": "2023-10-16T02:57:09.6628292+00:00",
-  "LastUpdate_Achievements": "2023-10-16T03:04:15.1117701+00:00"
+  "LastUpdate_Ratings": "2023-10-16T03:57:17.7325079+00:00",
+  "LastUpdate_Achievements": "2023-10-16T04:04:47.2272582+00:00"
 }

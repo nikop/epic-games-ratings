@@ -6,11 +6,11 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 2.00% | ~18,855 |
-| It wakes | 2.00% | ~18,855 |
-| Not half bad | 2.00% | ~18,855 |
-| Skillful | 2.00% | ~18,855 |
-| Make Some Noise | 2.00% | ~18,855 |
+| Zealous | 2.00% | ~18,856 |
+| It wakes | 2.00% | ~18,856 |
+| Not half bad | 2.00% | ~18,856 |
+| Skillful | 2.00% | ~18,856 |
+| Make Some Noise | 2.00% | ~18,856 |
 | The Grand Sacrifice | 1.00% | ~9,428 |
 | Agonizing Escape | 1.00% | ~9,428 |
 | Backdoor Escape | 1.00% | ~9,428 |
@@ -33,14 +33,14 @@ Number of Ratings: 70,340  (23.09.2022)
 | Perfect Killing | 0.90% | ~8,485 |
 | Risk it all | 0.90% | ~8,485 |
 | Close Shave | 0.90% | ~8,485 |
-| Apt Killer | 0.80% | ~7,542 |
-| II | 0.80% | ~7,542 |
-| Wounded Healer | 0.80% | ~7,542 |
-| Vulture | 0.70% | ~6,599 |
-| III | 0.70% | ~6,599 |
-| With Scars to Show | 0.70% | ~6,599 |
-| Rebuilding The Borgo | 0.70% | ~6,599 |
-| Second Act | 0.70% | ~6,599 |
+| Apt Killer | 0.80% | ~7,543 |
+| II | 0.80% | ~7,543 |
+| Wounded Healer | 0.80% | ~7,543 |
+| Vulture | 0.70% | ~6,600 |
+| III | 0.70% | ~6,600 |
+| With Scars to Show | 0.70% | ~6,600 |
+| Rebuilding The Borgo | 0.70% | ~6,600 |
+| Second Act | 0.70% | ~6,600 |
 | Escape Artist | 0.60% | ~5,657 |
 | First to the Punch | 0.60% | ~5,657 |
 | Every Last Drop | 0.60% | ~5,657 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~943 |
 | Adept Ripley | 0.10% | ~943 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 942,757 (Ranked 14)  
+Progressed: 942,817 (Ranked 14)  
 Completed: 51 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -415,7 +415,7 @@ Completed: 51 (0.01%) (Ranked 296)
 | 2023-10-13 | 937,037 | 50 |
 | 2023-10-14 | 939,759 | 50 |
 | 2023-10-15 | 942,498 | 51 |
-| 2023-10-16 | 942,757 | 51 |
+| 2023-10-16 | 942,817 | 51 |
 ## Awards
 Max (Diverse Characters): 33,934  (Ranked 15)  
 Sum: 262,670 (Ranked 13)  

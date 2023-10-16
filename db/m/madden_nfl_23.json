@@ -2,7 +2,7 @@
   "ID": "5f4daf40211246acaddd707f7b4e8f56",
   "Name": "Madden NFL 23",
   "ProductSlug": "madden-nfl-23",
-  "Ranking_Rating": 835,
+  "Ranking_Rating": 836,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 449,
   "Ranking_EOS_Progress": 196,
@@ -718,9 +718,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2616,
+  "EOS_Progressed": 2617,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 327,
+  "EOS_NewPlayers": 325,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3243,6 +3243,11 @@
       "Time": "2023-10-16T03:05:30.2547025+00:00",
       "NumProgressed": 2616,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-16T04:06:10.0032126+00:00",
+      "NumProgressed": 2617,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -3263,7 +3268,7 @@
       "Name": "Bragging Rights",
       "Percentage": 56,
       "XP": 90,
-      "UsersEstimate": 1465
+      "UsersEstimate": 1466
     },
     {
       "ID": "achievement_11",
@@ -3287,7 +3292,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "achievement_14",
@@ -3311,7 +3316,7 @@
       "Name": "ROTY",
       "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "achievement_17",
@@ -3422,7 +3427,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 2616,
+      "Progressed": 2617,
       "Completed": 0
     }
   ],
@@ -3430,8 +3435,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-10-14T10:02:07.7088348+00:00",
-  "LastChanged_Achievements": "2023-10-16T03:05:30.254702+00:00",
+  "LastChanged_Achievements": "2023-10-16T04:06:10.0032117+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:08.8110287+00:00",
-  "LastUpdate_Ratings": "2023-10-16T03:02:17.5265487+00:00",
-  "LastUpdate_Achievements": "2023-10-16T03:05:30.2547312+00:00"
+  "LastUpdate_Ratings": "2023-10-16T04:03:13.7494496+00:00",
+  "LastUpdate_Achievements": "2023-10-16T04:06:10.0032481+00:00"
 }

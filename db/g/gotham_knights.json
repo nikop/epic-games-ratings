@@ -2,7 +2,7 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 899,
+  "Ranking_Rating": 900,
   "Ranking_Popularity": 97,
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 91,
@@ -3560,9 +3560,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73560,
+  "EOS_Progressed": 73561,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 226,
+  "EOS_NewPlayers": 224,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -18835,6 +18835,11 @@
       "Time": "2023-10-16T03:04:36.9092105+00:00",
       "NumProgressed": 73560,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-10-16T04:05:14.9625367+00:00",
+      "NumProgressed": 73561,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 61,
@@ -18966,7 +18971,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10298
+      "UsersEstimate": 10299
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -19070,7 +19075,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21332
+      "UsersEstimate": 21333
     },
     {
       "ID": "FREEZE_1_5",
@@ -19086,7 +19091,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 13976
+      "UsersEstimate": 13977
     },
     {
       "ID": "FREEZE_3",
@@ -19094,7 +19099,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10298
+      "UsersEstimate": 10299
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -19190,7 +19195,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 38251
+      "UsersEstimate": 38252
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -19238,7 +19243,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 25010
+      "UsersEstimate": 25011
     },
     {
       "ID": "MYSTERY_02",
@@ -19286,7 +19291,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10298
+      "UsersEstimate": 10299
     },
     {
       "ID": "MYSTERY_08",
@@ -19333,13 +19338,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73560,
+      "Progressed": 73561,
       "Completed": 121
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43840,
+      "Progressed": 43841,
       "Completed": 2667
     }
   ],
@@ -19347,8 +19352,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-15T22:59:07.6416458+00:00",
-  "LastChanged_Achievements": "2023-10-16T03:04:36.9092101+00:00",
+  "LastChanged_Achievements": "2023-10-16T04:05:14.9625359+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:41.7245252+00:00",
-  "LastUpdate_Ratings": "2023-10-16T02:58:17.7211034+00:00",
-  "LastUpdate_Achievements": "2023-10-16T03:04:36.9093635+00:00"
+  "LastUpdate_Ratings": "2023-10-16T03:58:31.3799624+00:00",
+  "LastUpdate_Achievements": "2023-10-16T04:05:14.9626945+00:00"
 }

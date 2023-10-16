@@ -2,13 +2,13 @@
   "ID": "a3dd9f3da8ec49c7b25dec42cce2ec46",
   "Name": "Adios",
   "ProductSlug": "adios-b378b4",
-  "Ranking_Rating": 1011,
+  "Ranking_Rating": 1012,
   "Ranking_Popularity": 537,
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 142,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -114,10 +114,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 75945,
-  "EOS_Completed": 798,
+  "EOS_Progressed": 75946,
+  "EOS_Completed": 799,
   "EOS_NewPlayers": 585,
-  "EOS_NewCompleters": 11,
+  "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
     {
@@ -20044,6 +20044,11 @@
       "Time": "2023-10-16T03:04:16.3149631+00:00",
       "NumProgressed": 75945,
       "NumCompleted": 798
+    },
+    {
+      "Time": "2023-10-16T04:04:48.4870009+00:00",
+      "NumProgressed": 75946,
+      "NumCompleted": 799
     }
   ],
   "TotalAchievements": 25,
@@ -20159,7 +20164,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 15948
+      "UsersEstimate": 15949
     },
     {
       "ID": "Meaty",
@@ -20199,7 +20204,7 @@
       "Name": "Piano Man",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 7594
+      "UsersEstimate": 7595
     },
     {
       "ID": "Right On Target",
@@ -20254,16 +20259,16 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 75945,
-      "Completed": 798
+      "Progressed": 75946,
+      "Completed": 799
     }
   ],
   "FirstSeen": "2022-07-22T20:27:11.1683553+00:00",
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-10-16T03:04:16.3149624+00:00",
+  "LastChanged_Achievements": "2023-10-16T04:04:48.4870002+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:21.8706974+00:00",
-  "LastUpdate_Ratings": "2023-10-16T02:59:29.1042397+00:00",
-  "LastUpdate_Achievements": "2023-10-16T03:04:16.3151029+00:00"
+  "LastUpdate_Ratings": "2023-10-16T03:59:44.9780575+00:00",
+  "LastUpdate_Achievements": "2023-10-16T04:04:48.4872504+00:00"
 }

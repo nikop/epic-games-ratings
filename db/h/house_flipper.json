@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 196,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
@@ -1950,9 +1950,9 @@
       "Count": 216
     }
   ],
-  "EOS_Progressed": 20936,
+  "EOS_Progressed": 20937,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -9160,6 +9160,11 @@
       "Time": "2023-10-16T02:27:26.2656001+00:00",
       "NumProgressed": 20936,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-10-16T04:09:16.7050098+00:00",
+      "NumProgressed": 20937,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -9203,7 +9208,7 @@
       "Name": "Worth Every Penny",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 3140
+      "UsersEstimate": 3141
     },
     {
       "ID": "EstateAgent",
@@ -9219,7 +9224,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 19889
+      "UsersEstimate": 19890
     },
     {
       "ID": "GameOver",
@@ -9323,7 +9328,7 @@
       "Name": "Pro-creative",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3768
+      "UsersEstimate": 3769
     },
     {
       "ID": "Strongman",
@@ -9354,15 +9359,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 20936,
+      "Progressed": 20937,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-10-15T04:01:12.0081926+00:00",
-  "LastChanged_Achievements": "2023-10-16T03:08:46.6159429+00:00",
+  "LastChanged_Achievements": "2023-10-16T04:09:16.7050089+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:53.7092922+00:00",
   "LastUpdate_Ratings": "2023-10-16T03:02:10.6360668+00:00",
-  "LastUpdate_Achievements": "2023-10-16T03:08:46.6160032+00:00"
+  "LastUpdate_Achievements": "2023-10-16T04:09:16.7050749+00:00"
 }

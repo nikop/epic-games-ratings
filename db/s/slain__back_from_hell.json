@@ -2,12 +2,12 @@
   "ID": "5a85738bd9e74940ad8409ed8a2c680a",
   "Name": "Slain: Back From Hell",
   "ProductSlug": "slain-aea303",
-  "Ranking_Rating": 819,
+  "Ranking_Rating": 820,
   "Ranking_Popularity": 320,
   "Ranking_PopularitySum": 418,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 95,
+  "Ranking_EOS_NewPlayers": 96,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -235,9 +235,9 @@
       "Count": 127
     }
   ],
-  "EOS_Progressed": 38550,
+  "EOS_Progressed": 38551,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 444,
+  "EOS_NewPlayers": 443,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -19835,6 +19835,11 @@
       "Time": "2023-10-16T03:03:06.383709+00:00",
       "NumProgressed": 38550,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-10-16T04:03:36.4873049+00:00",
+      "NumProgressed": 38551,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 29,
@@ -19846,7 +19851,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 5782
+      "UsersEstimate": 5783
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -20077,7 +20082,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 38550,
+      "Progressed": 38551,
       "Completed": 25
     }
   ],
@@ -20085,8 +20090,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-10-07T11:01:04.3409147+00:00",
-  "LastChanged_Achievements": "2023-10-16T03:03:06.3837079+00:00",
+  "LastChanged_Achievements": "2023-10-16T04:03:36.4873041+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:52.991476+00:00",
-  "LastUpdate_Ratings": "2023-10-16T02:58:35.2812923+00:00",
-  "LastUpdate_Achievements": "2023-10-16T03:03:06.3838536+00:00"
+  "LastUpdate_Ratings": "2023-10-16T03:58:47.0663496+00:00",
+  "LastUpdate_Achievements": "2023-10-16T04:03:36.4875255+00:00"
 }

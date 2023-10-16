@@ -11411,9 +11411,9 @@
       "Count": 25439
     }
   ],
-  "EOS_Progressed": 942757,
+  "EOS_Progressed": 942817,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 14460,
+  "EOS_NewPlayers": 14468,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -31716,6 +31716,11 @@
       "Time": "2023-10-16T03:02:31.3069099+00:00",
       "NumProgressed": 942757,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-16T04:03:31.6427606+00:00",
+      "NumProgressed": 942817,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 229,
@@ -31895,7 +31900,7 @@
       "Name": "Zealous",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 18855
+      "UsersEstimate": 18856
     },
     {
       "ID": "ACH_023",
@@ -31903,7 +31908,7 @@
       "Name": "It wakes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 18855
+      "UsersEstimate": 18856
     },
     {
       "ID": "ACH_024",
@@ -31911,7 +31916,7 @@
       "Name": "Not half bad",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 18855
+      "UsersEstimate": 18856
     },
     {
       "ID": "ACH_025",
@@ -31943,7 +31948,7 @@
       "Name": "Apt Killer",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 7542
+      "UsersEstimate": 7543
     },
     {
       "ID": "ACH_029",
@@ -31967,7 +31972,7 @@
       "Name": "Vulture",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 6599
+      "UsersEstimate": 6600
     },
     {
       "ID": "ACH_032",
@@ -32031,7 +32036,7 @@
       "Name": "Skillful",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 18855
+      "UsersEstimate": 18856
     },
     {
       "ID": "ACH_040",
@@ -32047,7 +32052,7 @@
       "Name": "II",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 7542
+      "UsersEstimate": 7543
     },
     {
       "ID": "ACH_042",
@@ -32055,7 +32060,7 @@
       "Name": "III",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 6599
+      "UsersEstimate": 6600
     },
     {
       "ID": "ACH_043",
@@ -32623,7 +32628,7 @@
       "Name": "Wounded Healer",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 7542
+      "UsersEstimate": 7543
     },
     {
       "ID": "ACH_114",
@@ -33175,7 +33180,7 @@
       "Name": "With Scars to Show",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 6599
+      "UsersEstimate": 6600
     },
     {
       "ID": "ACH_186",
@@ -33367,7 +33372,7 @@
       "Name": "Rebuilding The Borgo",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 6599
+      "UsersEstimate": 6600
     },
     {
       "ID": "ACH_210",
@@ -33487,7 +33492,7 @@
       "Name": "Second Act",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 6599
+      "UsersEstimate": 6600
     },
     {
       "ID": "ACH_225",
@@ -33495,7 +33500,7 @@
       "Name": "Make Some Noise",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 18855
+      "UsersEstimate": 18856
     },
     {
       "ID": "ACH_226",
@@ -33558,21 +33563,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 942757,
+      "Progressed": 942817,
       "Completed": 52
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 942757,
+      "Progressed": 942817,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-10-15T20:58:41.8219663+00:00",
-  "LastChanged_Achievements": "2023-10-16T03:02:31.3069093+00:00",
+  "LastChanged_Achievements": "2023-10-16T04:03:31.6427598+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:50.4132277+00:00",
-  "LastUpdate_Ratings": "2023-10-16T02:58:30.8323861+00:00",
-  "LastUpdate_Achievements": "2023-10-16T03:02:31.3075999+00:00"
+  "LastUpdate_Ratings": "2023-10-16T03:58:42.8760583+00:00",
+  "LastUpdate_Achievements": "2023-10-16T04:03:31.6436866+00:00"
 }

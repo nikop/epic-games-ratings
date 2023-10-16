@@ -454,9 +454,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1545357,
+  "EOS_Progressed": 1545360,
   "EOS_Completed": 705,
-  "EOS_NewPlayers": 1121,
+  "EOS_NewPlayers": 1118,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -20644,6 +20644,11 @@
       "Time": "2023-10-16T03:03:09.9446797+00:00",
       "NumProgressed": 1545357,
       "NumCompleted": 705
+    },
+    {
+      "Time": "2023-10-16T04:03:40.2274693+00:00",
+      "NumProgressed": 1545360,
+      "NumCompleted": 705
     }
   ],
   "TotalAchievements": 20,
@@ -20695,7 +20700,7 @@
       "Name": "Drift Line Master",
       "Percentage": 0.7,
       "XP": 90,
-      "UsersEstimate": 10817
+      "UsersEstimate": 10818
     },
     {
       "ID": "ACH_GOOD_SKILLS",
@@ -20719,7 +20724,7 @@
       "Name": "Insane Skills",
       "Percentage": 0.7,
       "XP": 95,
-      "UsersEstimate": 10817
+      "UsersEstimate": 10818
     },
     {
       "ID": "ACH_JELLY_FILLED_DONUTS",
@@ -20814,15 +20819,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1545357,
+      "Progressed": 1545360,
       "Completed": 705
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-09-25T13:05:51.0685533+00:00",
-  "LastChanged_Achievements": "2023-10-16T03:03:09.9446794+00:00",
+  "LastChanged_Achievements": "2023-10-16T04:03:40.2274687+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:37.6128187+00:00",
-  "LastUpdate_Ratings": "2023-10-16T02:58:12.0173889+00:00",
-  "LastUpdate_Achievements": "2023-10-16T03:03:09.944817+00:00"
+  "LastUpdate_Ratings": "2023-10-16T03:58:23.7385606+00:00",
+  "LastUpdate_Achievements": "2023-10-16T04:03:40.2276172+00:00"
 }

@@ -1016,10 +1016,16 @@
       "Rating": 4.4,
       "NumberOfAwards": 290,
       "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2023-10-16T04:00:51.178138+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 291,
+      "NumberOfAwardsMax": 45
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 290,
+  "NumberOfAwards": 291,
   "NumberOfAwardsMax": 45,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1057,7 +1063,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1084,9 +1090,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 257350,
+  "EOS_Progressed": 257351,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 249,
+  "EOS_NewPlayers": 248,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18724,6 +18730,11 @@
       "Time": "2023-10-16T01:51:00.1574732+00:00",
       "NumProgressed": 257350,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-16T04:05:57.8878945+00:00",
+      "NumProgressed": 257351,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -18735,7 +18746,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 18014
+      "UsersEstimate": 18015
     },
     {
       "ID": "Act2",
@@ -18783,7 +18794,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 79778
+      "UsersEstimate": 79779
     },
     {
       "ID": "BackHomeNTimes",
@@ -18847,7 +18858,7 @@
       "Name": "Fixer II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7720
+      "UsersEstimate": 7721
     },
     {
       "ID": "CreditLevel3",
@@ -19007,7 +19018,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7720
+      "UsersEstimate": 7721
     },
     {
       "ID": "KillOtherWithMine",
@@ -19182,16 +19193,16 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 257350,
+      "Progressed": 257351,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2023-10-13T22:00:36.4761355+00:00",
-  "LastChanged_Achievements": "2023-10-16T03:05:18.3899248+00:00",
+  "LastChanged": "2023-10-16T04:00:51.1781377+00:00",
+  "LastChanged_Achievements": "2023-10-16T04:05:57.8878939+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:45.0933759+00:00",
-  "LastUpdate_Ratings": "2023-10-16T03:00:34.8871564+00:00",
-  "LastUpdate_Achievements": "2023-10-16T03:05:18.3900807+00:00"
+  "LastUpdate_Ratings": "2023-10-16T04:00:51.1781385+00:00",
+  "LastUpdate_Achievements": "2023-10-16T04:05:57.8880649+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "7b57136ac766477eb1e687dcd0310da5",
   "Name": "War Mongrels",
   "ProductSlug": "war-mongrels",
-  "Ranking_Rating": 799,
+  "Ranking_Rating": 800,
   "Ranking_Popularity": 537,
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -264,7 +264,7 @@
   "Tags": [],
   "EOS_Progressed": 546,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1946,9 +1946,9 @@
       "ID": "ACH_COLL_CH10",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter X",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_COLL_CH11",
@@ -2186,9 +2186,9 @@
       "ID": "ACH_NEST1",
       "SetID": "1j25agn",
       "Name": "Bullseye!",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH_NEST2",
@@ -2226,8 +2226,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-09-12T15:00:16.2158477+00:00",
-  "LastChanged_Achievements": "2023-10-16T03:06:02.2908666+00:00",
+  "LastChanged_Achievements": "2023-10-16T04:06:42.6741001+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:17.404444+00:00",
-  "LastUpdate_Ratings": "2023-10-16T02:57:03.5952929+00:00",
-  "LastUpdate_Achievements": "2023-10-16T03:06:02.2909292+00:00"
+  "LastUpdate_Ratings": "2023-10-16T03:57:13.0495718+00:00",
+  "LastUpdate_Achievements": "2023-10-16T04:06:42.674214+00:00"
 }

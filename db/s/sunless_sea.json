@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
@@ -727,9 +727,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 38923,
+  "EOS_Progressed": 38924,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 377,
+  "EOS_NewPlayers": 376,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18937,6 +18937,11 @@
       "Time": "2023-10-16T03:03:30.8339145+00:00",
       "NumProgressed": 38923,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-16T04:04:01.4327371+00:00",
+      "NumProgressed": 38924,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -19068,7 +19073,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 14012
+      "UsersEstimate": 14013
     },
     {
       "ID": "ach_die10",
@@ -19316,7 +19321,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 5838
+      "UsersEstimate": 5839
     },
     {
       "ID": "ach_undercurrent",
@@ -19379,15 +19384,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 38923,
+      "Progressed": 38924,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-10-14T19:58:49.9428019+00:00",
-  "LastChanged_Achievements": "2023-10-16T03:03:30.8339134+00:00",
+  "LastChanged_Achievements": "2023-10-16T04:04:01.4327363+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:49.4242639+00:00",
-  "LastUpdate_Ratings": "2023-10-16T02:58:30.4503408+00:00",
-  "LastUpdate_Achievements": "2023-10-16T03:03:30.8340731+00:00"
+  "LastUpdate_Ratings": "2023-10-16T03:58:42.3554263+00:00",
+  "LastUpdate_Achievements": "2023-10-16T04:04:01.432995+00:00"
 }

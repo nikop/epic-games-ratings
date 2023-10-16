@@ -63,13 +63,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mighty | 0.80% | ~118 |
 | Just Difficulty | 0.80% | ~118 |
 | Artisans | 0.80% | ~118 |
+| Acropolis | 0.80% | ~118 |
 | Apadana | 0.80% | ~118 |
 | Necropolis | 0.80% | ~118 |
 | Learn to Play 2 | 0.80% | ~118 |
 | Win a Single Player Game | 0.80% | ~118 |
 | Champions | 0.70% | ~103 |
 | Sages | 0.70% | ~103 |
-| Acropolis | 0.70% | ~103 |
 | Mausoleum | 0.70% | ~103 |
 | Mythology | 0.70% | ~103 |
 | Hanging Gardens in Babylon | 0.60% | ~88 |
@@ -108,6 +108,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Phalangite | 0.50% | ~74 |
 | The Clergy | 0.50% | ~74 |
 | Capable | 0.40% | ~59 |
+| Ready | 0.40% | ~59 |
 | Strong Difficulty | 0.40% | ~59 |
 | Hunters | 0.40% | ~59 |
 | Statesmen | 0.40% | ~59 |
@@ -129,7 +130,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kmt Unified | 0.40% | ~59 |
 | Bad Heir Day | 0.30% | ~44 |
 | Devout | 0.30% | ~44 |
-| Ready | 0.30% | ~44 |
 | Noble Difficulty | 0.30% | ~44 |
 | Clerics | 0.30% | ~44 |
 | Cao'an | 0.30% | ~44 |

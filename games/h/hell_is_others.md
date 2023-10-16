@@ -5,11 +5,11 @@ Rating: 4.40 (Ranked 719)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~79,778 |
+| Survivor | 31.00% | ~79,779 |
 | Predator I | 22.00% | ~56,617 |
 | Fixer I | 10.00% | ~25,735 |
 | A week in Century City | 10.00% | ~25,735 |
-| The Wait | 7.00% | ~18,014 |
+| The Wait | 7.00% | ~18,015 |
 | Green thumb I | 6.00% | ~15,441 |
 | Cleaning Company | 6.00% | ~15,441 |
 | Well-oiled machine | 5.00% | ~12,868 |
@@ -18,8 +18,8 @@ Rating: 4.40 (Ranked 719)
 | Pacifist | 4.00% | ~10,294 |
 | Vandalism | 4.00% | ~10,294 |
 | Capitalist I | 4.00% | ~10,294 |
-| Fixer II | 3.00% | ~7,720 |
-| Adrenaline | 3.00% | ~7,720 |
+| Fixer II | 3.00% | ~7,721 |
+| Adrenaline | 3.00% | ~7,721 |
 | By a hair | 2.00% | ~5,147 |
 | It took a while | 2.00% | ~5,147 |
 | Samurai | 2.00% | ~5,147 |
@@ -62,7 +62,7 @@ Rating: 4.40 (Ranked 719)
 | Capitalist III | 0.10% | ~257 |
 | Hell Is You | 0.10% | ~257 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 257,350 (Ranked 51)  
+Progressed: 257,351 (Ranked 51)  
 Completed: 3 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,10 +241,10 @@ Completed: 3 (0.00%) (Ranked 314)
 | 2023-10-13 | 257,244 | 3 |
 | 2023-10-14 | 257,294 | 3 |
 | 2023-10-15 | 257,347 | 3 |
-| 2023-10-16 | 257,350 | 3 |
+| 2023-10-16 | 257,351 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 45  (Ranked 428)  
-Sum: 290 (Ranked 352)  
+Sum: 291 (Ranked 352)  
 Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |
@@ -254,7 +254,7 @@ Diff (max vs sum): 76
 | This game has Amazing Storytelling | 33 |
 | This game has Amazing Characters | 32 |
 | This game is Highly Recommended | 32 |
-| This game has a Competitive Community | 28 |
+| This game has a Competitive Community | 29 |
 | This game has Quickly Understood Controls | 25 |
 | This game has Competitive Players | 25 |
 | This game is Extremely Fun | 22 |
@@ -407,3 +407,4 @@ Diff (max vs sum): 76
 | 2023-10-09 | 4.41 | 45 | 288 |
 | 2023-10-10 | 4.40 | 45 | 289 |
 | 2023-10-13 | 4.40 | 45 | 290 |
+| 2023-10-16 | 4.40 | 45 | 291 |

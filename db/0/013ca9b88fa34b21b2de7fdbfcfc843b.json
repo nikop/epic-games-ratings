@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6705,
+  "EOS_Progressed": 6706,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 344,
+  "EOS_NewPlayers": 343,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4379,6 +4379,11 @@
       "Time": "2023-10-16T02:23:20.4923459+00:00",
       "NumProgressed": 6705,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-16T04:04:47.4888204+00:00",
+      "NumProgressed": 6706,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -4479,7 +4484,7 @@
       "Name": "Lumberjack",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 1743
+      "UsersEstimate": 1744
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -4487,7 +4492,7 @@
       "Name": "Miner 49er",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 2883
+      "UsersEstimate": 2884
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -4495,7 +4500,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 3218
+      "UsersEstimate": 3219
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -4527,7 +4532,7 @@
       "Name": "Humble Collector",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 2816
+      "UsersEstimate": 2817
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -4543,7 +4548,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 4023
+      "UsersEstimate": 4024
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -4567,7 +4572,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 3084
+      "UsersEstimate": 3085
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -4670,7 +4675,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 6705,
+      "Progressed": 6706,
       "Completed": 0
     }
   ],
@@ -4678,8 +4683,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-14T10:58:26.1451757+00:00",
-  "LastChanged_Achievements": "2023-10-16T03:04:15.3259056+00:00",
+  "LastChanged_Achievements": "2023-10-16T04:04:47.4888197+00:00",
   "LastUpdate_AppInfo": "2023-10-13T06:57:01.9287951+00:00",
-  "LastUpdate_Ratings": "2023-10-16T02:58:15.9407638+00:00",
-  "LastUpdate_Achievements": "2023-10-16T03:04:15.3259597+00:00"
+  "LastUpdate_Ratings": "2023-10-16T03:58:29.2649093+00:00",
+  "LastUpdate_Achievements": "2023-10-16T04:04:47.4889109+00:00"
 }

@@ -1,7 +1,7 @@
 # Lake
 [Store](https://store.epicgames.com/en-US/p/lake)  
 [View Rawdata](../../db/l/lake.json)  
-Rating: 4.03 (Ranked 962)  
+Rating: 4.03 (Ranked 963)  
 Number of Ratings: 22  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
