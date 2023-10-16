@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3938,9 +3938,9 @@
       "Count": 388
     }
   ],
-  "EOS_Progressed": 11534,
+  "EOS_Progressed": 11535,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13593,6 +13593,11 @@
       "Time": "2023-10-16T01:54:09.1836691+00:00",
       "NumProgressed": 11534,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-16T10:08:34.8999973+00:00",
+      "NumProgressed": 11535,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -13620,7 +13625,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1499
+      "UsersEstimate": 1500
     },
     {
       "ID": "04_FithCrusade",
@@ -14484,7 +14489,7 @@
       "Name": "Hanged Man\u0027s Notes",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "DLC4_25_Sarkoris Will Be Green",
@@ -14516,7 +14521,7 @@
       "Name": "The Lady of the Forest",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "DLC4_34_Beware of Still Water",
@@ -14524,28 +14529,28 @@
       "Name": "Beware Still Water",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     }
   ],
   "AchievementSets": [
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10316,
+      "Progressed": 10317,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11534,
+      "Progressed": 11535,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-10-15T17:00:49.1745348+00:00",
-  "LastChanged_Achievements": "2023-10-16T09:10:00.2926426+00:00",
+  "LastChanged_Achievements": "2023-10-16T10:08:34.8999969+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:48.4782392+00:00",
-  "LastUpdate_Ratings": "2023-10-16T09:03:02.0710794+00:00",
-  "LastUpdate_Achievements": "2023-10-16T09:10:00.2928941+00:00"
+  "LastUpdate_Ratings": "2023-10-16T10:02:07.6351628+00:00",
+  "LastUpdate_Achievements": "2023-10-16T10:08:34.900193+00:00"
 }

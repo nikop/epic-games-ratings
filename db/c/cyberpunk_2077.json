@@ -13593,10 +13593,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 305320,
       "NumberOfAwardsMax": 98252
+    },
+    {
+      "Time": "2023-10-16T10:01:02.8461594+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 305527,
+      "NumberOfAwardsMax": 98252
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 305320,
+  "NumberOfAwards": 305527,
   "NumberOfAwardsMax": 98252,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -13664,7 +13670,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 15731
+      "Count": 15938
     },
     {
       "Text": "This game has a Creative Community",
@@ -13673,9 +13679,9 @@
       "Count": 10351
     }
   ],
-  "EOS_Progressed": 892168,
+  "EOS_Progressed": 892170,
   "EOS_Completed": 2673,
-  "EOS_NewPlayers": 1824,
+  "EOS_NewPlayers": 1817,
   "EOS_NewCompleters": 48,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -33898,6 +33904,11 @@
       "Time": "2023-10-16T09:08:34.4790991+00:00",
       "NumProgressed": 892168,
       "NumCompleted": 2673
+    },
+    {
+      "Time": "2023-10-16T10:07:06.1078763+00:00",
+      "NumProgressed": 892170,
+      "NumCompleted": 2673
     }
   ],
   "TotalAchievements": 57,
@@ -33917,7 +33928,7 @@
       "Name": "To Bad Decisions!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 98138
+      "UsersEstimate": 98139
     },
     {
       "ID": "BushidoAndChill",
@@ -33933,7 +33944,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 214120
+      "UsersEstimate": 214121
     },
     {
       "ID": "Denied",
@@ -33949,7 +33960,7 @@
       "Name": "To Protect and Serve",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 133825
+      "UsersEstimate": 133826
     },
     {
       "ID": "Fortuneteller",
@@ -33957,7 +33968,7 @@
       "Name": "The Wandering Fool",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 98138
+      "UsersEstimate": 98139
     },
     {
       "ID": "Gearhead",
@@ -33981,7 +33992,7 @@
       "Name": "Gun Fu",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 160590
+      "UsersEstimate": 160591
     },
     {
       "ID": "Gunslinger",
@@ -34085,7 +34096,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 294415
+      "UsersEstimate": 294416
     },
     {
       "ID": "Specialist",
@@ -34125,7 +34136,7 @@
       "Name": "The Fool",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 633439
+      "UsersEstimate": 633441
     },
     {
       "ID": "TheHermit",
@@ -34133,7 +34144,7 @@
       "Name": "The Hermit",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 267650
+      "UsersEstimate": 267651
     },
     {
       "ID": "TheHightPriestess",
@@ -34157,7 +34168,7 @@
       "Name": "The Star",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 71373
+      "UsersEstimate": 71374
     },
     {
       "ID": "TheSun",
@@ -34165,7 +34176,7 @@
       "Name": "The Sun",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 71373
+      "UsersEstimate": 71374
     },
     {
       "ID": "TheWheelOfFortune",
@@ -34173,7 +34184,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 294415
+      "UsersEstimate": 294416
     },
     {
       "ID": "TheWorld",
@@ -34364,21 +34375,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 892168,
+      "Progressed": 892170,
       "Completed": 2673
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 20791,
+      "Progressed": 20793,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-10-16T05:01:24.8376512+00:00",
-  "LastChanged_Achievements": "2023-10-16T09:08:34.4790985+00:00",
+  "LastChanged": "2023-10-16T10:01:02.8461592+00:00",
+  "LastChanged_Achievements": "2023-10-16T10:07:06.1078759+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:37.5483976+00:00",
-  "LastUpdate_Ratings": "2023-10-16T09:02:27.054627+00:00",
-  "LastUpdate_Achievements": "2023-10-16T09:08:34.4793154+00:00"
+  "LastUpdate_Ratings": "2023-10-16T10:01:02.84616+00:00",
+  "LastUpdate_Achievements": "2023-10-16T10:07:06.108028+00:00"
 }

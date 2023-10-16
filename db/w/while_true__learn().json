@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 415,
   "Ranking_EOS_Progress": 29,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2021-12-02T16:00:00+00:00",
@@ -490,9 +490,9 @@
       "Count": 134
     }
   ],
-  "EOS_Progressed": 607039,
+  "EOS_Progressed": 607040,
   "EOS_Completed": 532,
-  "EOS_NewPlayers": 731,
+  "EOS_NewPlayers": 728,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -20425,6 +20425,11 @@
       "Time": "2023-10-16T09:04:25.0392058+00:00",
       "NumProgressed": 607039,
       "NumCompleted": 532
+    },
+    {
+      "Time": "2023-10-16T10:03:44.5344008+00:00",
+      "NumProgressed": 607040,
+      "NumCompleted": 532
     }
   ],
   "TotalAchievements": 28,
@@ -20516,7 +20521,7 @@
       "Name": "One more!",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 267097
+      "UsersEstimate": 267098
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -20564,7 +20569,7 @@
       "Name": "First.. Bit?",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 564546
+      "UsersEstimate": 564547
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -20572,7 +20577,7 @@
       "Name": "Overmind",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 145689
+      "UsersEstimate": 145690
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -20659,15 +20664,15 @@
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 607039,
+      "Progressed": 607040,
       "Completed": 532
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
   "LastChanged": "2023-07-16T08:00:08.7749167+00:00",
-  "LastChanged_Achievements": "2023-10-16T09:04:25.039205+00:00",
+  "LastChanged_Achievements": "2023-10-16T10:03:44.5344005+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:09.2930104+00:00",
-  "LastUpdate_Ratings": "2023-10-16T08:57:51.3481078+00:00",
-  "LastUpdate_Achievements": "2023-10-16T09:04:25.0393941+00:00"
+  "LastUpdate_Ratings": "2023-10-16T09:57:39.7710341+00:00",
+  "LastUpdate_Achievements": "2023-10-16T10:03:44.5345442+00:00"
 }

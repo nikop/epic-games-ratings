@@ -3566,7 +3566,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73565,
+  "EOS_Progressed": 73566,
   "EOS_Completed": 121,
   "EOS_NewPlayers": 220,
   "EOS_NewCompleters": 1,
@@ -18861,6 +18861,11 @@
       "Time": "2023-10-16T09:06:12.6894081+00:00",
       "NumProgressed": 73565,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-10-16T10:05:18.4371859+00:00",
+      "NumProgressed": 73566,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 61,
@@ -18960,7 +18965,7 @@
       "Name": "In Your Element",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 11770
+      "UsersEstimate": 11771
     },
     {
       "ID": "CHALLENGES_1",
@@ -19032,7 +19037,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 9563
+      "UsersEstimate": 9564
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -19080,7 +19085,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 9563
+      "UsersEstimate": 9564
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -19088,7 +19093,7 @@
       "Name": "Drone You Out",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 7356
+      "UsersEstimate": 7357
     },
     {
       "ID": "FREEZE_1",
@@ -19112,7 +19117,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 13977
+      "UsersEstimate": 13978
     },
     {
       "ID": "FREEZE_3",
@@ -19184,7 +19189,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18391
+      "UsersEstimate": 18392
     },
     {
       "ID": "HARLEY_3",
@@ -19200,7 +19205,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 11770
+      "UsersEstimate": 11771
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -19272,7 +19277,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18391
+      "UsersEstimate": 18392
     },
     {
       "ID": "MYSTERY_03",
@@ -19359,13 +19364,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73565,
+      "Progressed": 73566,
       "Completed": 121
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43845,
+      "Progressed": 43846,
       "Completed": 2667
     }
   ],
@@ -19373,8 +19378,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-16T07:58:37.6832182+00:00",
-  "LastChanged_Achievements": "2023-10-16T09:06:12.6894074+00:00",
+  "LastChanged_Achievements": "2023-10-16T10:05:18.4371855+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:41.7245252+00:00",
-  "LastUpdate_Ratings": "2023-10-16T08:59:16.999332+00:00",
-  "LastUpdate_Achievements": "2023-10-16T09:06:12.6895604+00:00"
+  "LastUpdate_Ratings": "2023-10-16T09:58:48.4425009+00:00",
+  "LastUpdate_Achievements": "2023-10-16T10:05:18.4373367+00:00"
 }

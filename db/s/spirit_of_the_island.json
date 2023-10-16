@@ -2,13 +2,13 @@
   "ID": "8043f063b6b34cbb94af0882052ebd80",
   "Name": "Spirit of the Island",
   "ProductSlug": "spirit-of-the-island",
-  "Ranking_Rating": 760,
+  "Ranking_Rating": 759,
   "Ranking_Popularity": 537,
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 670,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 393,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 391,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-03-16T16:00:00+00:00",
     "PcReleaseDate": "2022-03-16T16:00:00+00:00",
@@ -101,9 +101,403 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-10-16T10:08:13.5131353+00:00",
+  "TotalAchievements": 49,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "Abandoned_house",
+      "SetID": "67kdidl",
+      "Name": "Two is Better than One",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Alina_map",
+      "SetID": "67kdidl",
+      "Name": "So it Was There!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "All_Island",
+      "SetID": "67kdidl",
+      "Name": "A Journey Around the World",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "All_NPC",
+      "SetID": "67kdidl",
+      "Name": "Everyone is Here!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "All_crops",
+      "SetID": "67kdidl",
+      "Name": "A Farm to Rule Them All",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "All_done",
+      "SetID": "67kdidl",
+      "Name": "You Did It!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Bigger_is_better",
+      "SetID": "67kdidl",
+      "Name": "Sometimes Bigger is Better",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Blue_Shell",
+      "SetID": "67kdidl",
+      "Name": "Blue Shell beach",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Busy_life",
+      "SetID": "67kdidl",
+      "Name": "Busy Life",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CEO",
+      "SetID": "67kdidl",
+      "Name": "CEO",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Combat_top",
+      "SetID": "67kdidl",
+      "Name": "The Combatant",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Cooking_top",
+      "SetID": "67kdidl",
+      "Name": "Best Chef",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Crafting_top",
+      "SetID": "67kdidl",
+      "Name": "Master Craftsmen",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Creator",
+      "SetID": "67kdidl",
+      "Name": "The Creator",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Dungeon_crawler",
+      "SetID": "67kdidl",
+      "Name": "Dungeon Crawler",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Elder_talk",
+      "SetID": "67kdidl",
+      "Name": "Respect Your Elders",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Electronics_top",
+      "SetID": "67kdidl",
+      "Name": "The Engineer",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Entomologist",
+      "SetID": "67kdidl",
+      "Name": "Entomologist",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Exploration_top",
+      "SetID": "67kdidl",
+      "Name": "Pathfinder",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Farming_top",
+      "SetID": "67kdidl",
+      "Name": "The Workhorse",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Fishing_top",
+      "SetID": "67kdidl",
+      "Name": "Master Fisher",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Foraging_top",
+      "SetID": "67kdidl",
+      "Name": "Survivalist",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Forever_Ruins",
+      "SetID": "67kdidl",
+      "Name": "Forever Ruins island",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Full_story",
+      "SetID": "67kdidl",
+      "Name": "To Know Your Past",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Golden_Swamp",
+      "SetID": "67kdidl",
+      "Name": "The Golden Swamp island",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Golem_Eye",
+      "SetID": "67kdidl",
+      "Name": "Golem Eye island",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Green_Valley",
+      "SetID": "67kdidl",
+      "Name": "Green Valley island",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Grey_Rocks",
+      "SetID": "67kdidl",
+      "Name": "Grey Rocks island",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Ichthyologist",
+      "SetID": "67kdidl",
+      "Name": "Ichthyologist",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Island_Six",
+      "SetID": "67kdidl",
+      "Name": "The Island of Six",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Key_of_elements",
+      "SetID": "67kdidl",
+      "Name": "The Key to Your Past",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Live_island",
+      "SetID": "67kdidl",
+      "Name": "Time Sure Flies!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Megapolis",
+      "SetID": "67kdidl",
+      "Name": "Megapolis",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Millionaire",
+      "SetID": "67kdidl",
+      "Name": "Millionaire",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Mining_top",
+      "SetID": "67kdidl",
+      "Name": "Rocks, Stones and Hard Work",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Monster_hunter",
+      "SetID": "67kdidl",
+      "Name": "Monster Hunter",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Mountain_Island",
+      "SetID": "67kdidl",
+      "Name": "Boar Mountain island",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Pirate_Boss",
+      "SetID": "67kdidl",
+      "Name": "Long Live The King",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Sand_Cliffs",
+      "SetID": "67kdidl",
+      "Name": "Sand Cliffs island",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Shard_Cliffs",
+      "SetID": "67kdidl",
+      "Name": "Sharp Cliffs island",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Skills_top",
+      "SetID": "67kdidl",
+      "Name": "Jack of All Trades",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Smooth_talker",
+      "SetID": "67kdidl",
+      "Name": "Smooth Talker",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Social_top",
+      "SetID": "67kdidl",
+      "Name": "The Persuader",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Sweet_Home",
+      "SetID": "67kdidl",
+      "Name": "Home, Sweet Home",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "The_Herbalist",
+      "SetID": "67kdidl",
+      "Name": "The Herbalist",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "The_historian",
+      "SetID": "67kdidl",
+      "Name": "The Historian",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Treasure_hunter",
+      "SetID": "67kdidl",
+      "Name": "Treasure Hunter",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Vehicles",
+      "SetID": "67kdidl",
+      "Name": "Why Walk?",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Wood_Alley",
+      "SetID": "67kdidl",
+      "Name": "Wood Alley island",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "67kdidl",
@@ -116,8 +510,8 @@
   "FirstSeenRating": "2022-08-30T22:04:07.0610643+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:27.0098069+00:00",
   "LastChanged": "2023-10-09T02:14:35.7238714+00:00",
-  "LastChanged_Achievements": "2023-10-16T09:09:29.4567264+00:00",
+  "LastChanged_Achievements": "2023-10-16T10:08:13.5131328+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:27.469601+00:00",
-  "LastUpdate_Ratings": "2023-10-16T09:02:49.7545182+00:00",
-  "LastUpdate_Achievements": "2023-10-16T09:09:29.4567314+00:00"
+  "LastUpdate_Ratings": "2023-10-16T10:01:19.2640641+00:00",
+  "LastUpdate_Achievements": "2023-10-16T10:08:13.5166809+00:00"
 }

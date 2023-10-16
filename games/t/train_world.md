@@ -4,20 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| City Link | 29.00% | ~2 |
-| Billionaire Club | 14.00% | ~1 |
-| Full House | 14.00% | ~1 |
-| Speed Demon | 14.00% | ~1 |
-| Regional Express | 14.00% | ~1 |
-| Industrial Giant | 14.00% | ~1 |
-| Task Apprentice | 14.00% | ~1 |
-| Urban Network | 14.00% | ~1 |
-| Supply Chain | 14.00% | ~1 |
-| Mega Train | 14.00% | ~1 |
-| Heavy Load | 14.00% | ~1 |
-| Line Master | 14.00% | ~1 |
-| Industrial Revolution | 14.00% | ~1 |
-| Double Trouble | 14.00% | ~1 |
+| Task Apprentice | 25.00% | ~2 |
+| City Link | 25.00% | ~2 |
+| Billionaire Club | 13.00% | ~1 |
+| Line Up | 13.00% | ~1 |
+| Full House | 13.00% | ~1 |
+| Speed Demon | 13.00% | ~1 |
+| Regional Express | 13.00% | ~1 |
+| Industrial Giant | 13.00% | ~1 |
+| Steam Power | 13.00% | ~1 |
+| Urban Network | 13.00% | ~1 |
+| Supply Chain | 13.00% | ~1 |
+| Mega Train | 13.00% | ~1 |
+| Heavy Load | 13.00% | ~1 |
+| Line Master | 13.00% | ~1 |
+| Industrial Revolution | 13.00% | ~1 |
+| Double Trouble | 13.00% | ~1 |
 | Capital Connection | 0.00% | ~0 |
 | World Explorer | 0.00% | ~0 |
 | Mass Upgrade | 0.00% | ~0 |
@@ -25,7 +27,6 @@
 | Diesel Dream | 0.00% | ~0 |
 | Electric Avenue | 0.00% | ~0 |
 | Super Long Train | 0.00% | ~0 |
-| Line Up | 0.00% | ~0 |
 | Cross Country | 0.00% | ~0 |
 | Busy Station | 0.00% | ~0 |
 | Five Alive | 0.00% | ~0 |
@@ -47,7 +48,6 @@
 | People Mover | 0.00% | ~0 |
 | Mixed Bag | 0.00% | ~0 |
 | Green Energy | 0.00% | ~0 |
-| Steam Power | 0.00% | ~0 |
 | Task Master | 0.00% | ~0 |
 | Train Spotter | 0.00% | ~0 |
 | Crowd Pleaser | 0.00% | ~0 |
@@ -55,7 +55,7 @@
 | Money Matters | 0.00% | ~0 |
 | Long Train | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7 (Ranked 543)  
+Progressed: 8 (Ranked 536)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,3 +66,4 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-10-12 | 5 | 0 |
 | 2023-10-13 | 6 | 0 |
 | 2023-10-14 | 7 | 0 |
+| 2023-10-16 | 8 | 0 |

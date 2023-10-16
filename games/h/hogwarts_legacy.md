@@ -5,9 +5,9 @@ Rating: 4.76 (Ranked 118)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 15.00% | ~44,766 |
-| First Class Student | 13.00% | ~38,797 |
-| Troll with the Punches | 13.00% | ~38,797 |
+| The Sort Who Makes an Entrance | 15.00% | ~44,767 |
+| First Class Student | 13.00% | ~38,798 |
+| Troll with the Punches | 13.00% | ~38,798 |
 | A Keen Sense of Spell | 12.00% | ~35,813 |
 | That's a Keeper | 12.00% | ~35,813 |
 | The One Who Mastered Memories | 11.00% | ~32,829 |
@@ -22,10 +22,10 @@ Rating: 4.76 (Ranked 118)
 | Followed the Butterflies | 9.00% | ~26,860 |
 | The Spell Master | 9.00% | ~26,860 |
 | Rising From the Ashes | 9.00% | ~26,860 |
-| The Avenging Gazelle | 8.00% | ~23,875 |
-| Beast Friends | 8.00% | ~23,875 |
-| A Sallow Grave | 8.00% | ~23,875 |
-| Flight the Good Flight | 8.00% | ~23,875 |
+| The Avenging Gazelle | 8.00% | ~23,876 |
+| Beast Friends | 8.00% | ~23,876 |
+| A Sallow Grave | 8.00% | ~23,876 |
+| Flight the Good Flight | 8.00% | ~23,876 |
 | The Seeker of Knowledge | 6.00% | ~17,907 |
 | The Root of the Problem | 6.00% | ~17,907 |
 | Third Time's a Charm | 6.00% | ~17,907 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 118)
 | The Nature of the Beast | 0.70% | ~2,089 |
 | Collector's Edition | 0.30% | ~895 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,442 (Ranked 47)  
+Progressed: 298,444 (Ranked 47)  
 Completed: 488 (0.16%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 488 (0.16%) (Ranked 231)
 | 2023-10-13 | 298,257 | 485 |
 | 2023-10-14 | 298,337 | 487 |
 | 2023-10-15 | 298,425 | 488 |
-| 2023-10-16 | 298,442 | 488 |
+| 2023-10-16 | 298,444 | 488 |
 ## Awards
 Max (Character Customization): 23,559  (Ranked 17)  
 Sum: 45,989 (Ranked 30)  

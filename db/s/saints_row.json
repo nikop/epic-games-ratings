@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
     "PcReleaseDate": "2022-08-23T07:00:00+00:00",
@@ -3822,9 +3822,9 @@
       "Count": 1069
     }
   ],
-  "EOS_Progressed": 75175,
+  "EOS_Progressed": 75176,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 826,
+  "EOS_NewPlayers": 821,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -23947,6 +23947,11 @@
       "Time": "2023-10-16T09:03:52.0717312+00:00",
       "NumProgressed": 75175,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-16T10:03:22.0029066+00:00",
+      "NumProgressed": 75176,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -24054,7 +24059,7 @@
       "Name": "The Side Job",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 23304
+      "UsersEstimate": 23305
     },
     {
       "ID": "complete_first_wanted_mission",
@@ -24070,7 +24075,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 34580
+      "UsersEstimate": 34581
     },
     {
       "ID": "customize_a_vehicle",
@@ -24102,7 +24107,7 @@
       "Name": "Chaos Tamer",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 4510
+      "UsersEstimate": 4511
     },
     {
       "ID": "destroy_car_with_fist_cannon",
@@ -24254,7 +24259,7 @@
       "Name": "Making a Name",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 26311
+      "UsersEstimate": 26312
     },
     {
       "ID": "one_third_purple",
@@ -24310,7 +24315,7 @@
       "Name": "Food for Thought",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 20297
+      "UsersEstimate": 20298
     },
     {
       "ID": "two_thirds_purple",
@@ -24381,13 +24386,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 75175,
+      "Progressed": 75176,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 46812,
+      "Progressed": 46813,
       "Completed": 4125
     }
   ],
@@ -24395,8 +24400,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-10-15T11:58:13.1376947+00:00",
-  "LastChanged_Achievements": "2023-10-16T09:03:52.0717306+00:00",
+  "LastChanged_Achievements": "2023-10-16T10:03:22.0029062+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:20.7071116+00:00",
-  "LastUpdate_Ratings": "2023-10-16T08:58:35.7595797+00:00",
-  "LastUpdate_Achievements": "2023-10-16T09:03:52.0719757+00:00"
+  "LastUpdate_Ratings": "2023-10-16T09:58:14.0756502+00:00",
+  "LastUpdate_Achievements": "2023-10-16T10:03:22.0030858+00:00"
 }

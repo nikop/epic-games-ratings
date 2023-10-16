@@ -6520,7 +6520,7 @@
       "Count": 3759
     }
   ],
-  "EOS_Progressed": 137680,
+  "EOS_Progressed": 137681,
   "EOS_Completed": 168,
   "EOS_NewPlayers": 326,
   "EOS_NewCompleters": 1,
@@ -24825,6 +24825,11 @@
       "Time": "2023-10-16T09:04:19.3583487+00:00",
       "NumProgressed": 137680,
       "NumCompleted": 168
+    },
+    {
+      "Time": "2023-10-16T10:03:40.8316898+00:00",
+      "NumProgressed": 137681,
+      "NumCompleted": 168
     }
   ],
   "TotalAchievements": 112,
@@ -25026,9 +25031,9 @@
       "ID": "collection01",
       "SetID": "anfd17p",
       "Name": "Blank Page Syndrome",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1239
+      "UsersEstimate": 1377
     },
     {
       "ID": "collection02",
@@ -25731,15 +25736,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 137680,
+      "Progressed": 137681,
       "Completed": 168
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-15T13:00:06.5567238+00:00",
-  "LastChanged_Achievements": "2023-10-16T09:04:19.3583482+00:00",
+  "LastChanged_Achievements": "2023-10-16T10:03:40.8316893+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:10.2617104+00:00",
-  "LastUpdate_Ratings": "2023-10-16T08:58:14.4300446+00:00",
-  "LastUpdate_Achievements": "2023-10-16T09:04:19.3586341+00:00"
+  "LastUpdate_Ratings": "2023-10-16T09:57:58.7608524+00:00",
+  "LastUpdate_Achievements": "2023-10-16T10:03:40.8319555+00:00"
 }

@@ -24,9 +24,9 @@
 | The seer | 31.00% | ~9 |
 | Et in arcadia ego | 28.00% | ~8 |
 | Welcome to Hellville | 28.00% | ~8 |
+| You had one wish left | 24.00% | ~7 |
 | You've awakened the beast | 21.00% | ~6 |
 | Hate is... addictive | 21.00% | ~6 |
-| You had one wish left | 21.00% | ~6 |
 | Blessed antennas | 17.00% | ~5 |
 | The beast in the Oval Office | 17.00% | ~5 |
 | Blood Red Island | 17.00% | ~5 |

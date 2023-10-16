@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -438,9 +438,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 249263,
+  "EOS_Progressed": 249265,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 737,
+  "EOS_NewPlayers": 738,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20408,6 +20408,11 @@
       "Time": "2023-10-16T09:10:00.5158004+00:00",
       "NumProgressed": 249263,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-16T10:08:35.01925+00:00",
+      "NumProgressed": 249265,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -20419,7 +20424,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 67301
+      "UsersEstimate": 67302
     },
     {
       "ID": "ACH_AON",
@@ -20635,7 +20640,7 @@
       "Name": "Write that down",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 59823
+      "UsersEstimate": 59824
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -20691,7 +20696,7 @@
       "Name": "It\u0027s honest work",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 17448
+      "UsersEstimate": 17449
     },
     {
       "ID": "ACH_MEMESMART",
@@ -20834,7 +20839,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 249263,
+      "Progressed": 249265,
       "Completed": 7
     }
   ],
@@ -20842,8 +20847,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-10-15T11:58:28.2667382+00:00",
-  "LastChanged_Achievements": "2023-10-16T09:10:00.5157999+00:00",
+  "LastChanged_Achievements": "2023-10-16T10:08:35.0192496+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:29.8544864+00:00",
-  "LastUpdate_Ratings": "2023-10-16T08:58:51.5367225+00:00",
-  "LastUpdate_Achievements": "2023-10-16T09:10:00.5160007+00:00"
+  "LastUpdate_Ratings": "2023-10-16T09:58:27.3893524+00:00",
+  "LastUpdate_Achievements": "2023-10-16T10:08:35.0194188+00:00"
 }

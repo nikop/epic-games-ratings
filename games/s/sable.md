@@ -12,10 +12,10 @@ Number of Ratings: 43  (23.09.2022)
 | Under The Hood | 25.00% | ~23,590 |
 | Got Your Nose | 24.00% | ~22,647 |
 | The Gift of Gab | 24.00% | ~22,647 |
-| Wrapping Up | 22.00% | ~20,759 |
+| Wrapping Up | 22.00% | ~20,760 |
 | More Than A Box Of Sand | 18.00% | ~16,985 |
-| The Dunboyne | 17.00% | ~16,041 |
-| Badge Hobbyist | 17.00% | ~16,041 |
+| The Dunboyne | 17.00% | ~16,042 |
+| Badge Hobbyist | 17.00% | ~16,042 |
 | Chum Novice | 16.00% | ~15,098 |
 | Silver-Tongued Sable | 16.00% | ~15,098 |
 | Sticky Paws | 16.00% | ~15,098 |
@@ -34,11 +34,11 @@ Number of Ratings: 43  (23.09.2022)
 | Balfron Connection | 10.00% | ~9,436 |
 | Ceiling Of Stars | 10.00% | ~9,436 |
 | Playing Dress Up | 10.00% | ~9,436 |
-| Many Different Faces | 9.00% | ~8,492 |
-| Trellick's Pillar | 9.00% | ~8,492 |
-| Centre Of Brunswick | 9.00% | ~8,492 |
-| Bike Collector | 9.00% | ~8,492 |
-| Not That Kind Of Gliding | 9.00% | ~8,492 |
+| Many Different Faces | 9.00% | ~8,493 |
+| Trellick's Pillar | 9.00% | ~8,493 |
+| Centre Of Brunswick | 9.00% | ~8,493 |
+| Bike Collector | 9.00% | ~8,493 |
+| Not That Kind Of Gliding | 9.00% | ~8,493 |
 | The Scrapper Mask | 8.00% | ~7,549 |
 | Shadow Of Neave | 8.00% | ~7,549 |
 | Fragile Goods | 8.00% | ~7,549 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~2,831 |
 | Vivacious Vivarium | 2.00% | ~1,887 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 94,361 (Ranked 82)  
+Progressed: 94,362 (Ranked 82)  
 Completed: 950 (1.01%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,7 +242,7 @@ Completed: 950 (1.01%) (Ranked 146)
 | 2023-10-13 | 93,920 | 944 |
 | 2023-10-14 | 94,125 | 946 |
 | 2023-10-15 | 94,319 | 950 |
-| 2023-10-16 | 94,361 | 950 |
+| 2023-10-16 | 94,362 | 950 |
 ## Awards
 Max (Quickly Understood Controls): 24  (Ranked 509)  
 Sum: 88 (Ranked 438)  

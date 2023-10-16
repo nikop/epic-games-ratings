@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2020-03-31T12:00:00+00:00",
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5493,
+  "EOS_Progressed": 5494,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -3865,6 +3865,11 @@
       "Time": "2023-10-15T16:05:28.0056127+00:00",
       "NumProgressed": 5493,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-16T10:05:59.0313802+00:00",
+      "NumProgressed": 5494,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -3932,7 +3937,7 @@
       "Name": "Level: Charlie\u0027s Circuits",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1208
+      "UsersEstimate": 1209
     },
     {
       "ID": "ach_campaign_progress10",
@@ -4260,7 +4265,7 @@
       "Name": "Peddler",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "ach_frp_many_products2",
@@ -4483,15 +4488,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5493,
+      "Progressed": 5494,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-10-16T09:07:11.3912103+00:00",
+  "LastChanged_Achievements": "2023-10-16T10:05:59.0313798+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:07.8058138+00:00",
-  "LastUpdate_Ratings": "2023-10-16T08:57:16.0428366+00:00",
-  "LastUpdate_Achievements": "2023-10-16T09:07:11.3913214+00:00"
+  "LastUpdate_Ratings": "2023-10-16T09:57:15.2184213+00:00",
+  "LastUpdate_Achievements": "2023-10-16T10:05:59.0314863+00:00"
 }

@@ -21,6 +21,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Own the Means of Production | 2.00% | ~2,754 |
 | The Daily Grind | 1.00% | ~1,377 |
 | Bounty Hunters | 1.00% | ~1,377 |
+| Blank Page Syndrome | 1.00% | ~1,377 |
 | Demand for Supplies | 1.00% | ~1,377 |
 | Flooding the Market | 1.00% | ~1,377 |
 | Where it Hurts | 1.00% | ~1,377 |
@@ -34,7 +35,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | On the Path to Greatness | 0.90% | ~1,239 |
 | Ascended | 0.90% | ~1,239 |
 | Vanity, Verily | 0.90% | ~1,239 |
-| Blank Page Syndrome | 0.90% | ~1,239 |
 | Efficient Floor Space | 0.90% | ~1,239 |
 | Gem Expert | 0.90% | ~1,239 |
 | Helping Hand | 0.90% | ~1,239 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,680 (Ranked 73)  
+Progressed: 137,681 (Ranked 73)  
 Completed: 168 (0.12%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 168 (0.12%) (Ranked 241)
 | 2023-10-13 | 137,555 | 168 |
 | 2023-10-14 | 137,618 | 168 |
 | 2023-10-15 | 137,669 | 168 |
-| 2023-10-16 | 137,680 | 168 |
+| 2023-10-16 | 137,681 | 168 |
 ## Awards
 Max (Great for Beginners): 4,787  (Ranked 72)  
 Sum: 27,383 (Ranked 50)  

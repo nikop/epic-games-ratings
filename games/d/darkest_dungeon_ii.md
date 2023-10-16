@@ -6,13 +6,13 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~112,205 |
-| Don't Make Me Turn This Coach Around | 71.00% | ~85,662 |
-| A Clear Conscience | 69.00% | ~83,249 |
+| A Place to Lay Your Head | 93.00% | ~112,206 |
+| Don't Make Me Turn This Coach Around | 71.00% | ~85,663 |
+| A Clear Conscience | 69.00% | ~83,250 |
 | Unleash Hell | 68.00% | ~82,043 |
 | Unfulfilled Desires | 68.00% | ~82,043 |
-| Funny Guy | 67.00% | ~80,836 |
-| Unshackled | 67.00% | ~80,836 |
+| Funny Guy | 67.00% | ~80,837 |
+| Unshackled | 67.00% | ~80,837 |
 | Long Live the King | 66.00% | ~79,630 |
 | Resurrection | 62.00% | ~74,804 |
 | Wyrdly Reconstructed | 62.00% | ~74,804 |
@@ -23,16 +23,16 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hope Rekindled | 50.00% | ~60,326 |
 | Ramble On | 49.00% | ~59,119 |
 | Nope | 49.00% | ~59,119 |
-| This Looks Familiar | 38.00% | ~45,847 |
-| Now Stay Dead | 38.00% | ~45,847 |
-| Merry Time | 36.00% | ~43,434 |
-| Harvest Festival | 36.00% | ~43,434 |
-| Hot Air | 36.00% | ~43,434 |
+| This Looks Familiar | 38.00% | ~45,848 |
+| Now Stay Dead | 38.00% | ~45,848 |
+| Merry Time | 36.00% | ~43,435 |
+| Harvest Festival | 36.00% | ~43,435 |
+| Hot Air | 36.00% | ~43,435 |
 | Creep and Sleep | 33.00% | ~39,815 |
-| Overdue Notice | 32.00% | ~38,608 |
+| Overdue Notice | 32.00% | ~38,609 |
 | Banishment | 31.00% | ~37,402 |
 | Whale | 31.00% | ~37,402 |
-| FNG | 30.00% | ~36,195 |
+| FNG | 30.00% | ~36,196 |
 | Predator | 25.00% | ~30,163 |
 | Reverse Banditry | 25.00% | ~30,163 |
 | Autodidact | 25.00% | ~30,163 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Loop Year | 0.10% | ~121 |
 | No Gravestone Left Unturned | 0.10% | ~121 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 120,651 (Ranked 77)  
+Progressed: 120,652 (Ranked 77)  
 Completed: 1 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 1 (0.00%) (Ranked 314)
 | 2023-10-13 | 120,395 | 1 |
 | 2023-10-14 | 120,504 | 1 |
 | 2023-10-15 | 120,627 | 1 |
-| 2023-10-16 | 120,651 | 1 |
+| 2023-10-16 | 120,652 | 1 |
 ## Awards
 Max (Character Customization): 7,462  (Ranked 51)  
 Sum: 19,541 (Ranked 57)  

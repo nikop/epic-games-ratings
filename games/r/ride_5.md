@@ -40,21 +40,21 @@
 | I Don't Stop | 1.00% | ~15 |
 | Exhausted but Happy | 0.80% | ~12 |
 | In Search of Perfection | 0.60% | ~9 |
-| Globe-trotter | 0.50% | ~7 |
+| Globe-trotter | 0.50% | ~8 |
 | Maximum Endurance | 0.20% | ~3 |
-| Beyond the Limiter | 0.10% | ~1 |
-| All My Own Toys | 0.10% | ~1 |
-| Endless | 0.10% | ~1 |
-| Full Power | 0.10% | ~1 |
-| At the Top | 0.10% | ~1 |
-| There's a Great View up Here | 0.10% | ~1 |
-| Absolute Champion | 0.10% | ~1 |
+| Beyond the Limiter | 0.10% | ~2 |
+| All My Own Toys | 0.10% | ~2 |
+| Endless | 0.10% | ~2 |
+| Full Power | 0.10% | ~2 |
+| At the Top | 0.10% | ~2 |
+| There's a Great View up Here | 0.10% | ~2 |
+| Absolute Champion | 0.10% | ~2 |
 | Dream Chaser | 0.00% | ~0 |
 | Breathtaking Views | 0.00% | ~0 |
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,499 (Ranked 218)  
+Progressed: 1,500 (Ranked 218)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,4 +99,4 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-10-13 | 1,457 | 0 |
 | 2023-10-14 | 1,475 | 0 |
 | 2023-10-15 | 1,497 | 0 |
-| 2023-10-16 | 1,499 | 0 |
+| 2023-10-16 | 1,500 | 0 |
