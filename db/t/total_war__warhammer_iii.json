@@ -3,12 +3,12 @@
   "Name": "Total War: WARHAMMER III",
   "ProductSlug": "total-war-warhammer-3",
   "Ranking_Rating": 187,
-  "Ranking_Popularity": 110,
+  "Ranking_Popularity": 109,
   "Ranking_PopularitySum": 108,
   "Ranking_EOS_Progress": 671,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 393,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-02-17T06:00:00+00:00",
     "PcReleaseDate": "2022-02-17T06:00:00+00:00",
@@ -7259,18 +7259,24 @@
       "Rating": 4.71,
       "NumberOfAwards": 7334,
       "NumberOfAwardsMax": 1999
+    },
+    {
+      "Time": "2023-10-16T17:06:33.5293485+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 7343,
+      "NumberOfAwardsMax": 2007
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7334,
-  "NumberOfAwardsMax": 1999,
+  "NumberOfAwards": 7343,
+  "NumberOfAwardsMax": 2007,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1999
+      "Count": 2007
     },
     {
       "Text": "This game has Diverse Characters",
@@ -7336,7 +7342,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 473
+      "Count": 474
     },
     {
       "Text": "This game has Challenging Combat",
@@ -7356,8 +7362,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:31.8340221+00:00",
-  "LastChanged": "2023-10-16T09:03:37.8877086+00:00",
+  "LastChanged": "2023-10-16T17:06:33.5293483+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:23.1175252+00:00",
-  "LastUpdate_Ratings": "2023-10-16T16:04:03.6982112+00:00",
-  "LastUpdate_Achievements": "2023-10-16T16:04:57.3576253+00:00"
+  "LastUpdate_Ratings": "2023-10-16T17:06:33.5293489+00:00",
+  "LastUpdate_Achievements": "2023-10-16T17:07:38.5564097+00:00"
 }

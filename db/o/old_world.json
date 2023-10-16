@@ -2,13 +2,13 @@
   "ID": "07f4a7dd3c884e5d87e9a209716962ca",
   "Name": "Old World",
   "ProductSlug": "old-world",
-  "Ranking_Rating": 300,
+  "Ranking_Rating": 301,
   "Ranking_Popularity": 267,
   "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1869,9 +1869,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14740,
+  "EOS_Progressed": 14741,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 189,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13999,6 +13999,11 @@
       "Time": "2023-10-16T16:09:25.9092639+00:00",
       "NumProgressed": 14740,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-16T17:12:12.9946753+00:00",
+      "NumProgressed": 14741,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -14056,9 +14061,9 @@
       "ID": "ACHIEVEMENT_ASSASSINATED_ANOTHER_LEADER",
       "SetID": "9201eeb",
       "Name": "Regicide",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 118
+      "UsersEstimate": 133
     },
     {
       "ID": "ACHIEVEMENT_ASSASSINATED_BY_HEIR",
@@ -14352,9 +14357,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_ANCIENT",
       "SetID": "9201eeb",
       "Name": "Ancient",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_ARCHITECT",
@@ -15920,9 +15925,9 @@
       "ID": "ACHIEVEMENT_STAT_TEN_CITIES_CAPTURED",
       "SetID": "9201eeb",
       "Name": "Capturing Cities",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_STAT_TEN_LANDMARKS_NAME",
@@ -16216,9 +16221,9 @@
       "ID": "ACHIEVEMENT_WASET_NECROPOLIS",
       "SetID": "9201eeb",
       "Name": "Necropolis in Waset",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_WIN_1V1",
@@ -16745,21 +16750,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14740,
+      "Progressed": 14741,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14740,
+      "Progressed": 14741,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-16T14:58:00.080294+00:00",
-  "LastChanged_Achievements": "2023-10-16T16:09:25.9092629+00:00",
+  "LastChanged_Achievements": "2023-10-16T17:12:12.9946744+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:21.7880328+00:00",
-  "LastUpdate_Ratings": "2023-10-16T15:57:41.3022638+00:00",
-  "LastUpdate_Achievements": "2023-10-16T16:09:25.9105755+00:00"
+  "LastUpdate_Ratings": "2023-10-16T16:57:48.7283497+00:00",
+  "LastUpdate_Achievements": "2023-10-16T17:12:12.9957821+00:00"
 }

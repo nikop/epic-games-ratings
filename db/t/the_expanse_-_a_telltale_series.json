@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 25,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -166,9 +166,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14035,
+  "EOS_Progressed": 14038,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 234,
+  "EOS_NewPlayers": 237,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -8816,6 +8816,11 @@
       "Time": "2023-10-16T16:07:11.5274648+00:00",
       "NumProgressed": 14035,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-10-16T17:09:26.9825395+00:00",
+      "NumProgressed": 14038,
+      "NumCompleted": 25
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -8860,7 +8865,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2105
+      "UsersEstimate": 2106
     },
     {
       "ID": "14",
@@ -8932,7 +8937,7 @@
       "Name": "Drone Dodger",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "22",
@@ -8948,7 +8953,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "24",
@@ -8972,7 +8977,7 @@
       "Name": "Call it Even",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "27",
@@ -9060,14 +9065,14 @@
       "Name": "Impossible Objects",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14035,
+      "Progressed": 14038,
       "Completed": 25
     }
   ],
@@ -9075,8 +9080,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-13T09:00:57.1370573+00:00",
-  "LastChanged_Achievements": "2023-10-16T16:07:11.527464+00:00",
+  "LastChanged_Achievements": "2023-10-16T17:09:26.982539+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:40.5814563+00:00",
-  "LastUpdate_Ratings": "2023-10-16T16:03:05.6713758+00:00",
-  "LastUpdate_Achievements": "2023-10-16T16:07:11.5275443+00:00"
+  "LastUpdate_Ratings": "2023-10-16T17:05:17.5287052+00:00",
+  "LastUpdate_Achievements": "2023-10-16T17:09:26.9825969+00:00"
 }

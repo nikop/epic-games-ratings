@@ -21,7 +21,7 @@
 | Hard Rock | 32.00% | ~32 |
 | Rooftop | 29.00% | ~29 |
 | Homeless | 29.00% | ~29 |
-| Big badaboom! | 26.00% | ~26 |
+| Big badaboom! | 27.00% | ~27 |
 | Magnitude 5 | 24.00% | ~24 |
 | Bookworm | 24.00% | ~24 |
 | Payback | 23.00% | ~23 |

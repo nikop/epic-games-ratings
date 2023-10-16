@@ -4,42 +4,43 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Noctuan Champion | 32.00% | ~18 |
-| Apian Champion | 28.00% | ~16 |
-| Eridanian Champion | 28.00% | ~16 |
-| Lacertian Champion | 28.00% | ~16 |
-| Endless Tricks | 26.00% | ~15 |
-| Meissa's Savior | 26.00% | ~15 |
-| Dicesmithing Time! | 25.00% | ~14 |
-| Sanctuary Guardian | 25.00% | ~14 |
-| Mechanical Buddy | 23.00% | ~13 |
-| Purification Pioneer | 23.00% | ~13 |
-| Wild's Keeper | 23.00% | ~13 |
-| Behenian Champion | 23.00% | ~13 |
-| Loyal Partner | 21.00% | ~12 |
-| Mind Illuminator | 21.00% | ~12 |
-| Stellar Dismantler | 21.00% | ~12 |
-| Anomaly Destroyer | 19.00% | ~11 |
-| Aquarian Champion | 19.00% | ~11 |
-| Shard Spender | 18.00% | ~10 |
-| Star Killer | 16.00% | ~9 |
-| Astral Adventurer | 12.00% | ~7 |
-| Heart Gate | 12.00% | ~7 |
-| Unbeatable | 12.00% | ~7 |
-| Astral Seeker | 11.00% | ~6 |
-| The Corruption Goddess | 11.00% | ~6 |
-| The Goddes Avatar | 11.00% | ~6 |
+| Noctuan Champion | 33.00% | ~19 |
+| Apian Champion | 29.00% | ~17 |
+| Eridanian Champion | 29.00% | ~17 |
+| Lacertian Champion | 29.00% | ~17 |
+| Endless Tricks | 28.00% | ~16 |
+| Meissa's Savior | 28.00% | ~16 |
+| Dicesmithing Time! | 26.00% | ~15 |
+| Sanctuary Guardian | 26.00% | ~15 |
+| Mechanical Buddy | 24.00% | ~14 |
+| Purification Pioneer | 24.00% | ~14 |
+| Wild's Keeper | 24.00% | ~14 |
+| Behenian Champion | 24.00% | ~14 |
+| Loyal Partner | 22.00% | ~13 |
+| Mind Illuminator | 22.00% | ~13 |
+| Stellar Dismantler | 22.00% | ~13 |
+| Anomaly Destroyer | 21.00% | ~12 |
+| Aquarian Champion | 21.00% | ~12 |
+| Shard Spender | 17.00% | ~10 |
+| Star Killer | 17.00% | ~10 |
+| Astral Adventurer | 14.00% | ~8 |
+| Heart Gate | 14.00% | ~8 |
+| Unbeatable | 14.00% | ~8 |
+| Astral Seeker | 10.00% | ~6 |
+| The Corruption Goddess | 10.00% | ~6 |
+| The Goddes Avatar | 10.00% | ~6 |
+| Wave Bender | 10.00% | ~6 |
 | Anomaly Control | 9.00% | ~5 |
 | Can't touch this | 9.00% | ~5 |
 | Favored by the Cosmos | 9.00% | ~5 |
 | Sadistic Plan | 9.00% | ~5 |
 | Stellar Haste | 9.00% | ~5 |
-| Wave Bender | 9.00% | ~5 |
 | Apian Hero | 9.00% | ~5 |
 | Denying Destiny | 7.00% | ~4 |
 | Heavy Purger | 7.00% | ~4 |
 | Behenian Hero | 7.00% | ~4 |
 | Lacertian Hero | 7.00% | ~4 |
+| Artificer | 5.00% | ~3 |
 | Purification Avatar | 5.00% | ~3 |
 | The Abyssal Terror | 5.00% | ~3 |
 | The Chaos Artisan | 5.00% | ~3 |
@@ -47,15 +48,14 @@
 | The Distorted Sage | 5.00% | ~3 |
 | Behenian Mastery | 5.00% | ~3 |
 | Lacertian Mastery | 5.00% | ~3 |
-| Artificer | 4.00% | ~2 |
-| Astrarium of Holding | 4.00% | ~2 |
-| If I Had Failed... | 4.00% | ~2 |
-| Reflexive Mind | 4.00% | ~2 |
-| Sentinelphobic | 4.00% | ~2 |
-| Aquarian Mastery | 4.00% | ~2 |
-| Eridanian Mastery | 4.00% | ~2 |
-| Noctuan Hero | 4.00% | ~2 |
-| Noctuan Mastery | 4.00% | ~2 |
+| Astrarium of Holding | 3.00% | ~2 |
+| If I Had Failed... | 3.00% | ~2 |
+| Reflexive Mind | 3.00% | ~2 |
+| Sentinelphobic | 3.00% | ~2 |
+| Aquarian Mastery | 3.00% | ~2 |
+| Eridanian Mastery | 3.00% | ~2 |
+| Noctuan Hero | 3.00% | ~2 |
+| Noctuan Mastery | 3.00% | ~2 |
 | Anomaly Master | 2.00% | ~1 |
 | Arch-Oracle | 2.00% | ~1 |
 | Critical Twist | 2.00% | ~1 |
@@ -63,6 +63,7 @@
 | Plague Doctor | 2.00% | ~1 |
 | Pocket Astrarium | 2.00% | ~1 |
 | Prestidigitation | 2.00% | ~1 |
+| The Ardent Prince | 2.00% | ~1 |
 | The Raging Skies | 2.00% | ~1 |
 | This is Fine | 2.00% | ~1 |
 | Aquarian Hero | 2.00% | ~1 |
@@ -96,14 +97,13 @@
 | Royal Choir | 0.00% | ~0 |
 | Six-Sided Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
-| The Ardent Prince | 0.00% | ~0 |
 | The world goes round... | 0.00% | ~0 |
 | Unepic Hero | 0.00% | ~0 |
 | Virtuous Warrior | 0.00% | ~0 |
 | Apian Mastery | 0.00% | ~0 |
 | Eridanian Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57 (Ranked 426)  
+Progressed: 58 (Ranked 426)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,4 +127,4 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-10-13 | 53 | 0 |
 | 2023-10-14 | 55 | 0 |
 | 2023-10-15 | 56 | 0 |
-| 2023-10-16 | 57 | 0 |
+| 2023-10-16 | 58 | 0 |

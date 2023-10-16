@@ -15,7 +15,7 @@ Number of Ratings: 180  (23.09.2022)
 | First bus arrived | 66.00% | ~1,152 |
 | First train station | 63.00% | ~1,100 |
 | First steam train arrived | 60.00% | ~1,048 |
-| First industry upgraded | 56.00% | ~978 |
+| First industry upgraded | 57.00% | ~995 |
 | Transport millionaire | 55.00% | ~960 |
 | Transport master | 53.00% | ~925 |
 | Cadet | 53.00% | ~925 |
@@ -23,8 +23,8 @@ Number of Ratings: 180  (23.09.2022)
 | Settled down | 49.00% | ~856 |
 | Sculpturer | 49.00% | ~856 |
 | First electric train arrived | 47.00% | ~821 |
+| First ship arrived | 46.00% | ~803 |
 | Now what? | 46.00% | ~803 |
-| First ship arrived | 45.00% | ~786 |
 | High speed | 43.00% | ~751 |
 | Exemplary student | 42.00% | ~733 |
 | Transport shark | 41.00% | ~716 |

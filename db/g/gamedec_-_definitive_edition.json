@@ -2,13 +2,13 @@
   "ID": "b8abdf9f9bc64ed6b4128a71fd47607f",
   "Name": "Gamedec - Definitive Edition",
   "ProductSlug": "gamedec",
-  "Ranking_Rating": 820,
+  "Ranking_Rating": 821,
   "Ranking_Popularity": 369,
   "Ranking_PopularitySum": 441,
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -438,9 +438,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 249282,
+  "EOS_Progressed": 249288,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 728,
+  "EOS_NewPlayers": 729,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20443,6 +20443,11 @@
       "Time": "2023-10-16T16:10:09.7438507+00:00",
       "NumProgressed": 249282,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-16T17:12:51.5998153+00:00",
+      "NumProgressed": 249288,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -20454,7 +20459,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 67306
+      "UsersEstimate": 67308
     },
     {
       "ID": "ACH_AON",
@@ -20478,7 +20483,7 @@
       "Name": "BOY!",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9971
+      "UsersEstimate": 9972
     },
     {
       "ID": "ACH_CATNIPCATNIP",
@@ -20494,7 +20499,7 @@
       "Name": "Collector",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 29914
+      "UsersEstimate": 29915
     },
     {
       "ID": "ACH_ENJOY",
@@ -20526,7 +20531,7 @@
       "Name": "Hoarder",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7478
+      "UsersEstimate": 7479
     },
     {
       "ID": "ACH_HERCULESBEPROUD",
@@ -20534,7 +20539,7 @@
       "Name": "Elementary!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 22435
+      "UsersEstimate": 22436
     },
     {
       "ID": "ACH_HIDEANDSEEK",
@@ -20574,7 +20579,7 @@
       "Name": "I like to sniff around",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7478
+      "UsersEstimate": 7479
     },
     {
       "ID": "ACH_IRONDEC",
@@ -20598,7 +20603,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 69799
+      "UsersEstimate": 69801
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -20622,7 +20627,7 @@
       "Name": "Ka-ching!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 9971
+      "UsersEstimate": 9972
     },
     {
       "ID": "ACH_LETMEOUT",
@@ -20670,7 +20675,7 @@
       "Name": "Write that down",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 59828
+      "UsersEstimate": 59829
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -20750,7 +20755,7 @@
       "Name": "Mind reader",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 7478
+      "UsersEstimate": 7479
     },
     {
       "ID": "ACH_NOSTRINGS",
@@ -20774,7 +20779,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 62320
+      "UsersEstimate": 62322
     },
     {
       "ID": "ACH_SOREAD",
@@ -20782,7 +20787,7 @@
       "Name": "So you like to read?",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 9971
+      "UsersEstimate": 9972
     },
     {
       "ID": "ACH_TAKEBLUEPILL",
@@ -20869,7 +20874,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 249282,
+      "Progressed": 249288,
       "Completed": 7
     }
   ],
@@ -20877,8 +20882,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-10-15T11:58:28.2667382+00:00",
-  "LastChanged_Achievements": "2023-10-16T16:10:09.7438504+00:00",
+  "LastChanged_Achievements": "2023-10-16T17:12:51.5998148+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:29.8544864+00:00",
-  "LastUpdate_Ratings": "2023-10-16T15:59:01.2113581+00:00",
-  "LastUpdate_Achievements": "2023-10-16T16:10:09.7440185+00:00"
+  "LastUpdate_Ratings": "2023-10-16T16:59:49.1586356+00:00",
+  "LastUpdate_Achievements": "2023-10-16T17:12:51.5999431+00:00"
 }

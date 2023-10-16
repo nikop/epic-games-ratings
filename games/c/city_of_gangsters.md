@@ -1,34 +1,34 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.28 (Ranked 828)  
+Rating: 4.28 (Ranked 829)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~160,088 |
-| Copacetic Coordination | 16.00% | ~55,683 |
-| Fronting the Money | 15.00% | ~52,203 |
-| The Dawn of Automation | 14.00% | ~48,722 |
-| Extraordinary Logistics | 14.00% | ~48,722 |
-| Dirty Money | 13.00% | ~45,242 |
-| Family First | 13.00% | ~45,242 |
-| Cleaning House | 12.00% | ~41,762 |
-| Room in the Back | 12.00% | ~41,762 |
-| Beating the Heat | 11.00% | ~38,282 |
-| Booze Baron | 11.00% | ~38,282 |
-| Friends on the Force | 10.00% | ~34,802 |
-| Neighborhood Watch | 10.00% | ~34,802 |
-| Core Corps | 8.00% | ~27,841 |
-| Sizeable Stash | 8.00% | ~27,841 |
-| Street Fighter | 7.00% | ~24,361 |
-| Friendly Gestures | 7.00% | ~24,361 |
-| People Person | 7.00% | ~24,361 |
-| Liquor Lord | 6.00% | ~20,881 |
-| Safety in Numbers | 6.00% | ~20,881 |
-| Moving Experiences | 6.00% | ~20,881 |
-| Wise Head | 6.00% | ~20,881 |
-| Show ‘em the Sugar | 6.00% | ~20,881 |
-| Killing Them Softly | 6.00% | ~20,881 |
+| Corner Clout | 46.00% | ~160,092 |
+| Copacetic Coordination | 16.00% | ~55,684 |
+| Fronting the Money | 15.00% | ~52,204 |
+| The Dawn of Automation | 14.00% | ~48,724 |
+| Extraordinary Logistics | 14.00% | ~48,724 |
+| Dirty Money | 13.00% | ~45,243 |
+| Family First | 13.00% | ~45,243 |
+| Cleaning House | 12.00% | ~41,763 |
+| Room in the Back | 12.00% | ~41,763 |
+| Beating the Heat | 11.00% | ~38,283 |
+| Booze Baron | 11.00% | ~38,283 |
+| Friends on the Force | 10.00% | ~34,803 |
+| Neighborhood Watch | 10.00% | ~34,803 |
+| Core Corps | 8.00% | ~27,842 |
+| Sizeable Stash | 8.00% | ~27,842 |
+| Street Fighter | 7.00% | ~24,362 |
+| Friendly Gestures | 7.00% | ~24,362 |
+| People Person | 7.00% | ~24,362 |
+| Liquor Lord | 6.00% | ~20,882 |
+| Safety in Numbers | 6.00% | ~20,882 |
+| Moving Experiences | 6.00% | ~20,882 |
+| Wise Head | 6.00% | ~20,882 |
+| Show ‘em the Sugar | 6.00% | ~20,882 |
+| Killing Them Softly | 6.00% | ~20,882 |
 | Street Knowledge | 5.00% | ~17,401 |
 | Oh Captain | 5.00% | ~17,401 |
 | Branching Out | 5.00% | ~17,401 |
@@ -48,11 +48,11 @@ Rating: 4.28 (Ranked 828)
 | Still Stalwart | 3.00% | ~10,441 |
 | Bees Knees Bootlegger | 3.00% | ~10,441 |
 | Tighten the Screws | 3.00% | ~10,441 |
-| One of Us | 2.00% | ~6,960 |
-| Baker’s Dozen | 2.00% | ~6,960 |
-| Dropping the Dime | 2.00% | ~6,960 |
-| Spiffy Speakeasies | 2.00% | ~6,960 |
-| Keeping Your Word | 2.00% | ~6,960 |
+| One of Us | 2.00% | ~6,961 |
+| Baker’s Dozen | 2.00% | ~6,961 |
+| Dropping the Dime | 2.00% | ~6,961 |
+| Spiffy Speakeasies | 2.00% | ~6,961 |
+| Keeping Your Word | 2.00% | ~6,961 |
 | Boxing Them In | 1.00% | ~3,480 |
 | Backroom Empire | 1.00% | ~3,480 |
 | Corner Control | 1.00% | ~3,480 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 828)
 | High Pillow | 0.10% | ~348 |
 | Station Master | 0.10% | ~348 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 348,017 (Ranked 43)  
+Progressed: 348,026 (Ranked 43)  
 Completed: 7 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,7 +265,7 @@ Completed: 7 (0.00%) (Ranked 314)
 | 2023-10-13 | 347,589 | 7 |
 | 2023-10-14 | 347,785 | 7 |
 | 2023-10-15 | 347,944 | 7 |
-| 2023-10-16 | 348,017 | 7 |
+| 2023-10-16 | 348,026 | 7 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 446)  
 Sum: 177 (Ranked 399)  

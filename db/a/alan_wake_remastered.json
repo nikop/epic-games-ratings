@@ -2,7 +2,7 @@
   "ID": "2e92a78949e2474aa89271b8b893f3b0",
   "Name": "Alan Wake Remastered",
   "ProductSlug": "alan-wake-remastered",
-  "Ranking_Rating": 511,
+  "Ranking_Rating": 512,
   "Ranking_Popularity": 537,
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 94,
@@ -530,7 +530,7 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 68201,
+  "EOS_Progressed": 68203,
   "EOS_Completed": 69,
   "EOS_NewPlayers": 796,
   "EOS_NewCompleters": 2,
@@ -18240,6 +18240,11 @@
       "Time": "2023-10-16T15:11:51.2542273+00:00",
       "NumProgressed": 68201,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-10-16T17:12:39.1911557+00:00",
+      "NumProgressed": 68203,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 67,
@@ -18251,7 +18256,7 @@
       "Name": "Follow the Light",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 29326
+      "UsersEstimate": 29327
     },
     {
       "ID": "02",
@@ -18259,7 +18264,7 @@
       "Name": "Nordic Walking",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 19096
+      "UsersEstimate": 19097
     },
     {
       "ID": "03",
@@ -18267,7 +18272,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 18414
+      "UsersEstimate": 18415
     },
     {
       "ID": "04",
@@ -18283,7 +18288,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 16368
+      "UsersEstimate": 16369
     },
     {
       "ID": "06",
@@ -18291,7 +18296,7 @@
       "Name": "Park Ranger",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 13640
+      "UsersEstimate": 13641
     },
     {
       "ID": "07",
@@ -18475,7 +18480,7 @@
       "Name": "Sound and Fury",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11594
+      "UsersEstimate": 11595
     },
     {
       "ID": "30",
@@ -18491,7 +18496,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 12958
+      "UsersEstimate": 12959
     },
     {
       "ID": "32",
@@ -18499,7 +18504,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 23188
+      "UsersEstimate": 23189
     },
     {
       "ID": "33",
@@ -18507,7 +18512,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11594
+      "UsersEstimate": 11595
     },
     {
       "ID": "34",
@@ -18523,7 +18528,7 @@
       "Name": "Let There Be Light",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 24552
+      "UsersEstimate": 24553
     },
     {
       "ID": "36",
@@ -18571,7 +18576,7 @@
       "Name": "Finders Keepers",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 12958
+      "UsersEstimate": 12959
     },
     {
       "ID": "42",
@@ -18587,7 +18592,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 13640
+      "UsersEstimate": 13641
     },
     {
       "ID": "44",
@@ -18611,7 +18616,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 11594
+      "UsersEstimate": 11595
     },
     {
       "ID": "47",
@@ -18786,21 +18791,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 68201,
+      "Progressed": 68203,
       "Completed": 69
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 31669,
+      "Progressed": 31671,
       "Completed": 56
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-10-15T17:00:51.0495821+00:00",
-  "LastChanged_Achievements": "2023-10-16T16:09:48.2915611+00:00",
+  "LastChanged_Achievements": "2023-10-16T17:12:39.1911552+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:29.5404552+00:00",
-  "LastUpdate_Ratings": "2023-10-16T15:57:21.1867428+00:00",
-  "LastUpdate_Achievements": "2023-10-16T16:09:48.2917432+00:00"
+  "LastUpdate_Ratings": "2023-10-16T16:57:29.6738947+00:00",
+  "LastUpdate_Achievements": "2023-10-16T17:12:39.1912902+00:00"
 }

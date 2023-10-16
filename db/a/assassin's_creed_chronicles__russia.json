@@ -2,13 +2,13 @@
   "ID": "3422379633b9432c892e10c11ff9f25d",
   "Name": "Assassin\u0027s Creed Chronicles: Russia",
   "ProductSlug": "assassins-creed-chronicles-russia",
-  "Ranking_Rating": 375,
+  "Ranking_Rating": 376,
   "Ranking_Popularity": 537,
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 671,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 393,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-10-26T15:00:00+00:00",
     "PcReleaseDate": "2016-02-25T15:00:00+00:00",
@@ -68,6 +68,6 @@
   "FirstSeenRating": "2023-03-31T05:57:34.1126442+00:00",
   "LastChanged": "2023-09-27T21:58:45.6554805+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:20.1397649+00:00",
-  "LastUpdate_Ratings": "2023-10-16T15:58:43.7177606+00:00",
-  "LastUpdate_Achievements": "2023-10-16T16:04:50.2255247+00:00"
+  "LastUpdate_Ratings": "2023-10-16T16:59:22.9406448+00:00",
+  "LastUpdate_Achievements": "2023-10-16T17:07:30.3369288+00:00"
 }

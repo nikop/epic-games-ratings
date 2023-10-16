@@ -1,15 +1,15 @@
 # Second Extinction™
 [Store](https://store.epicgames.com/en-US/p/second-extinction)  
 [View Rawdata](../../db/s/second_extinction™.json)  
-Rating: 4.05 (Ranked 958)  
+Rating: 4.05 (Ranked 959)  
 Number of Ratings: 617  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 473  (Ranked 207)  
-Sum: 572 (Ranked 303)  
+Max (Great Boss Battles): 474  (Ranked 207)  
+Sum: 573 (Ranked 303)  
 Diff (max vs sum): -96  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 473 |
+| This game has Great Boss Battles | 474 |
 | This game has Diverse Characters | 29 |
 | This game is Highly Recommended | 27 |
 | This game has Quickly Understood Controls | 23 |
@@ -182,3 +182,4 @@ Diff (max vs sum): -96
 | 2023-10-06 | 4.05 | - | 471 | 569 |
 | 2023-10-09 | 4.05 | - | 473 | 571 |
 | 2023-10-14 | 4.05 | - | 473 | 572 |
+| 2023-10-16 | 4.05 | - | 474 | 573 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 480,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-08-30T04:00:00+00:00",
     "PcReleaseDate": "2022-08-24T16:00:00+00:00",
@@ -232,9 +232,9 @@
       "ID": "MortuaryMarkup",
       "SetID": "7m88n8p",
       "Name": "Mortuary Makeup Artist",
-      "Percentage": 27,
+      "Percentage": 32,
       "XP": 65,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "NoOneLeft",
@@ -296,9 +296,9 @@
       "ID": "WaitingForSalvation",
       "SetID": "7m88n8p",
       "Name": "Waiting for Salvation",
-      "Percentage": 27,
+      "Percentage": 32,
       "XP": 65,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "WhoseChild",
@@ -319,8 +319,8 @@
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2023-10-16T16:05:17.921407+00:00",
+  "LastChanged_Achievements": "2023-10-16T17:08:02.9517476+00:00",
   "LastUpdate_AppInfo": "2023-10-16T07:57:10.6124995+00:00",
-  "LastUpdate_Ratings": "2023-10-16T15:58:09.7533025+00:00",
-  "LastUpdate_Achievements": "2023-10-16T16:05:17.921424+00:00"
+  "LastUpdate_Ratings": "2023-10-16T16:58:28.5550875+00:00",
+  "LastUpdate_Achievements": "2023-10-16T17:08:02.9517611+00:00"
 }

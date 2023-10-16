@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2350,11 +2350,17 @@
       "Rating": 4.5,
       "NumberOfAwards": 2395,
       "NumberOfAwardsMax": 262
+    },
+    {
+      "Time": "2023-10-16T17:01:08.7359855+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2397,
+      "NumberOfAwardsMax": 264
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2395,
-  "NumberOfAwardsMax": 262,
+  "NumberOfAwards": 2397,
+  "NumberOfAwardsMax": 264,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
@@ -2379,7 +2385,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 262
+      "Count": 264
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2430,9 +2436,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26524,
+  "EOS_Progressed": 26526,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 212,
+  "EOS_NewPlayers": 214,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -15120,6 +15126,11 @@
       "Time": "2023-10-16T16:04:05.5507462+00:00",
       "NumProgressed": 26524,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-10-16T17:06:37.5930258+00:00",
+      "NumProgressed": 26526,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 51,
@@ -15131,7 +15142,7 @@
       "Name": "Advancement",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "Animated",
@@ -15219,7 +15230,7 @@
       "Name": "Discovery",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "Dont_Need_These",
@@ -15243,7 +15254,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "Escape_Artist",
@@ -15267,7 +15278,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "GB_In_Training",
@@ -15538,16 +15549,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26524,
+      "Progressed": 26526,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-10-16T08:59:42.5960544+00:00",
-  "LastChanged_Achievements": "2023-10-16T16:04:05.5507457+00:00",
+  "LastChanged": "2023-10-16T17:01:08.7359854+00:00",
+  "LastChanged_Achievements": "2023-10-16T17:06:37.5930253+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:17.9420656+00:00",
-  "LastUpdate_Ratings": "2023-10-16T15:59:56.1454573+00:00",
-  "LastUpdate_Achievements": "2023-10-16T16:04:05.5509257+00:00"
+  "LastUpdate_Ratings": "2023-10-16T17:01:08.7359859+00:00",
+  "LastUpdate_Achievements": "2023-10-16T17:06:37.5931305+00:00"
 }

@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 952)  
+Rating: 4.06 (Ranked 953)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fowl Play | 0.10% | ~198 |
 | Time Out | 0.10% | ~198 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,009 (Ranked 58)  
+Progressed: 232,010 (Ranked 58)  
 Completed: 2,365 (1.02%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -714,7 +714,7 @@ Completed: 2,365 (1.02%) (Ranked 145)
 | 2023-10-13 | 231,754 | 2,358 |
 | 2023-10-14 | 231,864 | 2,361 |
 | 2023-10-15 | 231,955 | 2,364 |
-| 2023-10-16 | 232,009 | 2,365 |
+| 2023-10-16 | 232,010 | 2,365 |
 ## Awards
 Max (Great for Beginners): 5,406  (Ranked 69)  
 Sum: 32,057 (Ranked 41)  

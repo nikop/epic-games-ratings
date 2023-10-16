@@ -25,10 +25,10 @@ Rating: 4.37 (Ranked 751)
 | Hotel sleuthing | 28.00% | ~302 |
 | Kaboom | 27.00% | ~291 |
 | Nearly there | 26.00% | ~281 |
-| Broken heart | 23.00% | ~248 |
+| Broken heart | 24.00% | ~259 |
 | Island boy | 22.00% | ~237 |
 | You're a star | 20.00% | ~216 |
-| Unstoppable | 18.00% | ~194 |
+| Unstoppable | 19.00% | ~205 |
 | Reunited | 18.00% | ~194 |
 | King of hospitality | 11.00% | ~119 |
 | Top spot in town | 2.00% | ~22 |

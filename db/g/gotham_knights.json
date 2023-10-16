@@ -2,13 +2,13 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 899,
+  "Ranking_Rating": 900,
   "Ranking_Popularity": 97,
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3578,7 +3578,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73573,
+  "EOS_Progressed": 73574,
   "EOS_Completed": 121,
   "EOS_NewPlayers": 220,
   "EOS_NewCompleters": 1,
@@ -18893,6 +18893,11 @@
       "Time": "2023-10-16T15:08:23.9791941+00:00",
       "NumProgressed": 73573,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-10-16T17:08:47.2604689+00:00",
+      "NumProgressed": 73574,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 61,
@@ -19000,7 +19005,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 12507
+      "UsersEstimate": 12508
     },
     {
       "ID": "CLAYFACE_1",
@@ -19008,7 +19013,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15450
+      "UsersEstimate": 15451
     },
     {
       "ID": "CLAYFACE_2",
@@ -19064,7 +19069,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 9564
+      "UsersEstimate": 9565
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -19112,7 +19117,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 9564
+      "UsersEstimate": 9565
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -19136,7 +19141,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15450
+      "UsersEstimate": 15451
     },
     {
       "ID": "FREEZE_2",
@@ -19216,7 +19221,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18393
+      "UsersEstimate": 18394
     },
     {
       "ID": "HARLEY_3",
@@ -19224,7 +19229,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15450
+      "UsersEstimate": 15451
     },
     {
       "ID": "HARLEY_4",
@@ -19280,7 +19285,7 @@
       "Name": "Knighthood",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20600
+      "UsersEstimate": 20601
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -19304,7 +19309,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18393
+      "UsersEstimate": 18394
     },
     {
       "ID": "MYSTERY_03",
@@ -19391,13 +19396,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73573,
+      "Progressed": 73574,
       "Completed": 121
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43853,
+      "Progressed": 43854,
       "Completed": 2667
     }
   ],
@@ -19405,8 +19410,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-16T13:59:05.1339063+00:00",
-  "LastChanged_Achievements": "2023-10-16T16:06:06.6363941+00:00",
+  "LastChanged_Achievements": "2023-10-16T17:08:47.2604682+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:41.7245252+00:00",
-  "LastUpdate_Ratings": "2023-10-16T15:59:24.8420838+00:00",
-  "LastUpdate_Achievements": "2023-10-16T16:06:06.6365524+00:00"
+  "LastUpdate_Ratings": "2023-10-16T17:00:23.2012447+00:00",
+  "LastUpdate_Achievements": "2023-10-16T17:08:47.2605905+00:00"
 }

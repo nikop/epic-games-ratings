@@ -1,18 +1,18 @@
 # Gamedec - Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/gamedec)  
 [View Rawdata](../../db/g/gamedec_-_definitive_edition.json)  
-Rating: 4.29 (Ranked 820)  
+Rating: 4.29 (Ranked 821)  
 Number of Ratings: 33  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~69,799 |
-| Powergamer | 27.00% | ~67,306 |
-| Barely scratched the surface | 25.00% | ~62,320 |
-| Write that down | 24.00% | ~59,828 |
+| I will finish what you started | 28.00% | ~69,801 |
+| Powergamer | 27.00% | ~67,308 |
+| Barely scratched the surface | 25.00% | ~62,322 |
+| Write that down | 24.00% | ~59,829 |
 | Guns, lots of guns | 13.00% | ~32,407 |
-| Collector | 12.00% | ~29,914 |
-| Elementary! | 9.00% | ~22,435 |
+| Collector | 12.00% | ~29,915 |
+| Elementary! | 9.00% | ~22,436 |
 | Griever | 8.00% | ~19,943 |
 | Pumpkin Jack | 8.00% | ~19,943 |
 | Wake up! | 8.00% | ~19,943 |
@@ -21,12 +21,12 @@ Number of Ratings: 33  (23.09.2022)
 | Trash compactor | 6.00% | ~14,957 |
 | Good listener | 5.00% | ~12,464 |
 | Valedictorian | 5.00% | ~12,464 |
-| BOY! | 4.00% | ~9,971 |
-| Ka-ching! | 4.00% | ~9,971 |
-| So you like to read? | 4.00% | ~9,971 |
-| Hoarder | 3.00% | ~7,478 |
-| I like to sniff around | 3.00% | ~7,478 |
-| Mind reader | 3.00% | ~7,478 |
+| BOY! | 4.00% | ~9,972 |
+| Ka-ching! | 4.00% | ~9,972 |
+| So you like to read? | 4.00% | ~9,972 |
+| Hoarder | 3.00% | ~7,479 |
+| I like to sniff around | 3.00% | ~7,479 |
+| Mind reader | 3.00% | ~7,479 |
 | Catnip | 2.00% | ~4,986 |
 | Gentleman's classic | 2.00% | ~4,986 |
 | Is that a rift? | 2.00% | ~4,986 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~499 |
 | Memory 5 | 0.10% | ~249 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,282 (Ranked 53)  
+Progressed: 249,288 (Ranked 53)  
 Completed: 7 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 7 (0.00%) (Ranked 314)
 | 2023-10-13 | 248,977 | 7 |
 | 2023-10-14 | 249,112 | 7 |
 | 2023-10-15 | 249,235 | 7 |
-| 2023-10-16 | 249,282 | 7 |
+| 2023-10-16 | 249,288 | 7 |
 ## Awards
 Max (Character Customization): 84  (Ranked 369)  
 Sum: 84 (Ranked 441)  

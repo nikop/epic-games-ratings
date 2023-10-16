@@ -33,6 +33,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Levitating Monument | 3.00% | ~508 |
 | Flooded Mines | 3.00% | ~508 |
 | Monastery of the Holy Flame | 3.00% | ~508 |
+| Forsaken Gods Temple | 3.00% | ~508 |
 | Corrosive Torrent | 3.00% | ~508 |
 | Like a Machine | 3.00% | ~508 |
 | Defying the Crown | 3.00% | ~508 |
@@ -41,7 +42,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Dangerous Lands | 2.00% | ~339 |
 | Fishmen Ritual Site | 2.00% | ~339 |
 | Forbidden Lands | 2.00% | ~339 |
-| Forsaken Gods Temple | 2.00% | ~339 |
 | Victory through Prosperity | 2.00% | ~339 |
 | Feeding The People | 1.00% | ~169 |
 | Efficient Explorer | 1.00% | ~169 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Higher Needs | 0.20% | ~34 |
 | Paradise | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,943 (Ranked 131)  
+Progressed: 16,944 (Ranked 131)  
 Completed: 52 (0.31%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 52 (0.31%) (Ranked 201)
 | 2023-10-13 | 16,904 | 52 |
 | 2023-10-14 | 16,920 | 52 |
 | 2023-10-15 | 16,935 | 52 |
-| 2023-10-16 | 16,943 | 52 |
+| 2023-10-16 | 16,944 | 52 |
 ## Awards
 Max (Quickly Understood Controls): 436  (Ranked 213)  
 Sum: 3,192 (Ranked 168)  

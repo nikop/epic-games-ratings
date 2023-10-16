@@ -6,12 +6,12 @@
 | ---- | ---------- | ----- |
 | Shipwrecked! | 78.00% | ~14 |
 | Sea Legs | 72.00% | ~13 |
-| What?! | 39.00% | ~7 |
+| What?! | 44.00% | ~8 |
 | Frogs Legs | 33.00% | ~6 |
 | Mad Scientist | 28.00% | ~5 |
+| Socialite | 22.00% | ~4 |
 | Hoist the Sails | 22.00% | ~4 |
 | Secure the Sheets | 22.00% | ~4 |
-| Socialite | 17.00% | ~3 |
 | Who Even Needs Keys | 17.00% | ~3 |
 | Shrub-Seeing: Silly Birbs | 17.00% | ~3 |
 | Couch-surfing | 17.00% | ~3 |

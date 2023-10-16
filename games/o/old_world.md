@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 300)  
+Rating: 4.65 (Ranked 301)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -52,6 +52,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Zoroastrianism | 1.00% | ~147 |
 | Naming Landmarks | 1.00% | ~147 |
 | Kushite Pyramids | 1.00% | ~147 |
+| Regicide | 0.90% | ~133 |
 | Drillmaster | 0.90% | ~133 |
 | Great | 0.90% | ~133 |
 | Valiant | 0.90% | ~133 |
@@ -59,7 +60,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus | 0.90% | ~133 |
 | Musaeum | 0.90% | ~133 |
 | Manichaeism | 0.90% | ~133 |
-| Regicide | 0.80% | ~118 |
 | Mighty | 0.80% | ~118 |
 | Just Difficulty | 0.80% | ~118 |
 | Artisans | 0.80% | ~118 |
@@ -147,6 +147,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Rmt n Kmt Buhen | 0.30% | ~44 |
 | Greater Kmt Unified | 0.30% | ~44 |
 | Beja Archer | 0.30% | ~44 |
+| Ancient | 0.20% | ~29 |
 | Old | 0.20% | ~29 |
 | Peacemaker | 0.20% | ~29 |
 | Glorious Difficulty | 0.20% | ~29 |
@@ -156,11 +157,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hatti | 0.20% | ~29 |
 | Pantheon of Gods | 0.20% | ~29 |
 | Play a Network Game | 0.20% | ~29 |
+| Capturing Cities | 0.20% | ~29 |
 | Ten Crowns | 0.20% | ~29 |
 | Three Man Chariot | 0.20% | ~29 |
 | Siege Tower | 0.20% | ~29 |
 | Conquest Victory | 0.20% | ~29 |
 | No Undo | 0.20% | ~29 |
+| Necropolis in Waset | 0.20% | ~29 |
 | Prosperous Kmt | 0.20% | ~29 |
 | Kush | 0.20% | ~29 |
 | Centenarian | 0.10% | ~15 |
@@ -195,7 +198,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Silver Victory (Carthage 4) | 0.10% | ~15 |
 | Carthage Campaign | 0.10% | ~15 |
 | Cleopatra's Love | 0.10% | ~15 |
-| Ancient | 0.10% | ~15 |
 | Avenger | 0.10% | ~15 |
 | Destroyer | 0.10% | ~15 |
 | Holy | 0.10% | ~15 |
@@ -265,7 +267,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Roman Papacy | 0.10% | ~15 |
 | Circus Maximus in Roma | 0.10% | ~15 |
 | Pantheon in Roma | 0.10% | ~15 |
-| Capturing Cities | 0.10% | ~15 |
 | Word of God | 0.10% | ~15 |
 | Great Ziggurat in Ur | 0.10% | ~15 |
 | No Characters | 0.10% | ~15 |
@@ -274,7 +275,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Randomized Leaders | 0.10% | ~15 |
 | Role-Playing | 0.10% | ~15 |
 | Time Victory | 0.10% | ~15 |
-| Necropolis in Waset | 0.10% | ~15 |
 | Win a Free-For-All Game (>2 Players) | 0.10% | ~15 |
 | Win a Hotseat Game | 0.10% | ~15 |
 | Win a LAN Game | 0.10% | ~15 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,740 (Ranked 135)  
+Progressed: 14,741 (Ranked 135)  
 Completed: 5 (0.03%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -528,7 +528,7 @@ Completed: 5 (0.03%) (Ranked 283)
 | 2023-10-13 | 14,652 | 5 |
 | 2023-10-14 | 14,699 | 5 |
 | 2023-10-15 | 14,732 | 5 |
-| 2023-10-16 | 14,740 | 5 |
+| 2023-10-16 | 14,741 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,841 (Ranked 210)  

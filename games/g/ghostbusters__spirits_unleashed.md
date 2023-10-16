@@ -6,10 +6,10 @@ Rating: 4.50 (Ranked 574)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 3.00% | ~796 |
-| Advancement | 2.00% | ~530 |
-| Discovery | 2.00% | ~530 |
-| Meticulously Efficient | 2.00% | ~530 |
-| Fully Upgraded | 2.00% | ~530 |
+| Advancement | 2.00% | ~531 |
+| Discovery | 2.00% | ~531 |
+| Meticulously Efficient | 2.00% | ~531 |
+| Fully Upgraded | 2.00% | ~531 |
 | Animated | 1.00% | ~265 |
 | Back Off | 1.00% | ~265 |
 | Clutch Capture | 1.00% | ~265 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 574)
 | Rift Seeker | 0.10% | ~27 |
 | Ultimate Defense | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,524 (Ranked 117)  
+Progressed: 26,526 (Ranked 117)  
 Completed: 58 (0.22%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,14 +236,14 @@ Completed: 58 (0.22%) (Ranked 218)
 | 2023-10-13 | 26,414 | 58 |
 | 2023-10-14 | 26,466 | 58 |
 | 2023-10-15 | 26,505 | 58 |
-| 2023-10-16 | 26,524 | 58 |
+| 2023-10-16 | 26,526 | 58 |
 ## Awards
-Max (Great for Quick Sessions): 262  (Ranked 256)  
-Sum: 2,395 (Ranked 188)  
+Max (Great for Quick Sessions): 264  (Ranked 256)  
+Sum: 2,397 (Ranked 188)  
 Diff (max vs sum): 68  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Quick Sessions | 262 |
+| This game is Great for Quick Sessions | 264 |
 | This game is Great for Beginners | 261 |
 | This game has Competitive Players | 242 |
 | This game is Extremely Fun | 239 |
@@ -440,4 +440,4 @@ Diff (max vs sum): 68
 | 2023-10-13 | 4.50 | 261 | 2,382 |
 | 2023-10-14 | 4.50 | 262 | 2,389 |
 | 2023-10-15 | 4.50 | 262 | 2,392 |
-| 2023-10-16 | 4.50 | 262 | 2,395 |
+| 2023-10-16 | 4.50 | 264 | 2,397 |
