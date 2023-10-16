@@ -231,7 +231,7 @@
 | 222 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 537 |
 | 222 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 0 | 537 |
 | 222 | [Revita](games/r/revita.md) | 4.69 | 0 | 537 |
-| 222 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,511 | 36 |
+| 222 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,517 | 36 |
 | 222 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 343 | 233 |
 | 222 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 27 | 493 |
 | 222 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 0 | 537 |
@@ -280,7 +280,7 @@
 | 262 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 22 | 518 |
 | 262 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 0 | 537 |
 | 280 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 79 | 374 |
-| 280 | [Cities: Skylines](games/c/cities__skylines.md) | 4.66 | 5,774 | 65 |
+| 280 | [Cities: Skylines](games/c/cities__skylines.md) | 4.66 | 5,787 | 65 |
 | 280 | [Coromon](games/c/coromon.md) | 4.66 | 42 | 437 |
 | 280 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1,296 | 135 |
 | 280 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 359 | 230 |
@@ -364,7 +364,7 @@
 | 353 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 29 | 478 |
 | 353 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.62 | 38 | 446 |
 | 353 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.62 | 389 | 224 |
-| 353 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 583 | 192 |
+| 353 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 586 | 192 |
 | 353 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.62 | 187 | 285 |
 | 353 | [Limbo](games/l/limbo.md) | 4.62 | 0 | 537 |
 | 353 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 0 | 537 |
@@ -391,8 +391,8 @@
 | 376 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 0 | 537 |
 | 376 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 707 | 178 |
 | 376 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 107 | 339 |
-| 376 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 529 | 200 |
-| 376 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 10,250 | 39 |
+| 376 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 531 | 200 |
+| 376 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 10,261 | 39 |
 | 376 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,088 | 140 |
 | 376 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 289 | 244 |
 | 376 | [Supraland](games/s/supraland.md) | 4.61 | 7,702 | 47 |
@@ -497,7 +497,7 @@
 | 493 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.55 | 1,550 | 123 |
 | 493 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.55 | 96 | 354 |
 | 493 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 35 | 456 |
-| 493 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.55 | 290 | 243 |
+| 493 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.55 | 292 | 243 |
 | 493 | [Homeworld Remastered Collection](games/4/4311a0ee99724086b1a4f261b827d038.md) | 4.55 | 26 | 499 |
 | 493 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.55 | 158 | 303 |
 | 493 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.55 | 73 | 385 |
