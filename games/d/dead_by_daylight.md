@@ -6,49 +6,49 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 2.00% | ~18,884 |
-| It wakes | 2.00% | ~18,884 |
-| Not half bad | 2.00% | ~18,884 |
-| Apt Survivor | 2.00% | ~18,884 |
-| Survival Treasures | 2.00% | ~18,884 |
-| Skillful | 2.00% | ~18,884 |
-| Make Some Noise | 2.00% | ~18,884 |
-| The Grand Sacrifice | 1.00% | ~9,442 |
-| Agonizing Escape | 1.00% | ~9,442 |
-| Backdoor Escape | 1.00% | ~9,442 |
-| I've got your back | 1.00% | ~9,442 |
-| No one left behind | 1.00% | ~9,442 |
-| Medic | 1.00% | ~9,442 |
-| Handyman | 1.00% | ~9,442 |
-| Perfect Escape | 1.00% | ~9,442 |
-| Bloody Millionaire | 1.00% | ~9,442 |
-| I | 1.00% | ~9,442 |
-| Engineer | 1.00% | ~9,442 |
-| Sorted | 1.00% | ~9,442 |
-| Healthy Obsession | 1.00% | ~9,442 |
-| Resurgence | 1.00% | ~9,442 |
-| Preemptive Strike | 1.00% | ~9,442 |
-| Humanitarian | 1.00% | ~9,442 |
-| Nerves of steel | 0.90% | ~8,498 |
-| Perfect Killing | 0.90% | ~8,498 |
-| Risk it all | 0.90% | ~8,498 |
-| II | 0.90% | ~8,498 |
-| Wounded Healer | 0.90% | ~8,498 |
-| Close Shave | 0.90% | ~8,498 |
+| Zealous | 2.00% | ~18,886 |
+| It wakes | 2.00% | ~18,886 |
+| Not half bad | 2.00% | ~18,886 |
+| Apt Survivor | 2.00% | ~18,886 |
+| Survival Treasures | 2.00% | ~18,886 |
+| Skillful | 2.00% | ~18,886 |
+| Make Some Noise | 2.00% | ~18,886 |
+| The Grand Sacrifice | 1.00% | ~9,443 |
+| Agonizing Escape | 1.00% | ~9,443 |
+| Backdoor Escape | 1.00% | ~9,443 |
+| I've got your back | 1.00% | ~9,443 |
+| No one left behind | 1.00% | ~9,443 |
+| Medic | 1.00% | ~9,443 |
+| Handyman | 1.00% | ~9,443 |
+| Perfect Escape | 1.00% | ~9,443 |
+| Bloody Millionaire | 1.00% | ~9,443 |
+| I | 1.00% | ~9,443 |
+| Engineer | 1.00% | ~9,443 |
+| Sorted | 1.00% | ~9,443 |
+| Healthy Obsession | 1.00% | ~9,443 |
+| Resurgence | 1.00% | ~9,443 |
+| Preemptive Strike | 1.00% | ~9,443 |
+| Humanitarian | 1.00% | ~9,443 |
+| Nerves of steel | 0.90% | ~8,499 |
+| Perfect Killing | 0.90% | ~8,499 |
+| Risk it all | 0.90% | ~8,499 |
+| II | 0.90% | ~8,499 |
+| Wounded Healer | 0.90% | ~8,499 |
+| Close Shave | 0.90% | ~8,499 |
 | Apt Killer | 0.80% | ~7,554 |
 | Vulture | 0.80% | ~7,554 |
 | Second Act | 0.80% | ~7,554 |
-| III | 0.70% | ~6,609 |
-| With Scars to Show | 0.70% | ~6,609 |
-| Rebuilding The Borgo | 0.70% | ~6,609 |
-| Escape Artist | 0.60% | ~5,665 |
-| Made it out alive! | 0.60% | ~5,665 |
-| Cherish your Life | 0.60% | ~5,665 |
-| First to the Punch | 0.60% | ~5,665 |
-| Every Last Drop | 0.60% | ~5,665 |
-| Raccoon City Recruit | 0.60% | ~5,665 |
-| Flight to Freedom | 0.60% | ~5,665 |
-| A Fast Death | 0.60% | ~5,665 |
+| III | 0.70% | ~6,610 |
+| With Scars to Show | 0.70% | ~6,610 |
+| Rebuilding The Borgo | 0.70% | ~6,610 |
+| Escape Artist | 0.60% | ~5,666 |
+| Made it out alive! | 0.60% | ~5,666 |
+| Cherish your Life | 0.60% | ~5,666 |
+| First to the Punch | 0.60% | ~5,666 |
+| Every Last Drop | 0.60% | ~5,666 |
+| Raccoon City Recruit | 0.60% | ~5,666 |
+| Flight to Freedom | 0.60% | ~5,666 |
+| A Fast Death | 0.60% | ~5,666 |
 | Blood on your hands | 0.50% | ~4,721 |
 | Gifts for the Fog | 0.50% | ~4,721 |
 | III-50 | 0.50% | ~4,721 |
@@ -78,6 +78,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Escaping the Nightmare | 0.40% | ~3,777 |
 | Ancestor's Rite | 0.40% | ~3,777 |
 | Devoted Gatekeeping | 0.40% | ~3,777 |
+| Shrine Apparatus | 0.40% | ~3,777 |
 | Grim Pilgrimage | 0.40% | ~3,777 |
 | Selfless Survival | 0.40% | ~3,777 |
 | End of Days | 0.40% | ~3,777 |
@@ -90,23 +91,22 @@ Number of Ratings: 70,340  (23.09.2022)
 | Party Crasher | 0.30% | ~2,833 |
 | Outrage | 0.30% | ~2,833 |
 | Heavy Burden | 0.30% | ~2,833 |
-| Shrine Apparatus | 0.30% | ~2,833 |
 | Broken Bodies | 0.30% | ~2,833 |
 | Insult and Injury | 0.30% | ~2,833 |
 | Triage | 0.30% | ~2,833 |
 | High Speed Pursuit | 0.30% | ~2,833 |
 | Complete the Evolution | 0.30% | ~2,833 |
 | Kitted Out | 0.30% | ~2,833 |
-| Blood in your mouth | 0.20% | ~1,888 |
-| Looter | 0.20% | ~1,888 |
-| Whiffing to Success | 0.20% | ~1,888 |
-| Death of Ignorance | 0.20% | ~1,888 |
-| I See You | 0.20% | ~1,888 |
-| Power Moves | 0.20% | ~1,888 |
-| Punch Drunk | 0.20% | ~1,888 |
-| Prowler | 0.20% | ~1,888 |
-| Hack the Mainframe | 0.20% | ~1,888 |
-| Disarm and Dismember | 0.20% | ~1,888 |
+| Blood in your mouth | 0.20% | ~1,889 |
+| Looter | 0.20% | ~1,889 |
+| Whiffing to Success | 0.20% | ~1,889 |
+| Death of Ignorance | 0.20% | ~1,889 |
+| I See You | 0.20% | ~1,889 |
+| Power Moves | 0.20% | ~1,889 |
+| Punch Drunk | 0.20% | ~1,889 |
+| Prowler | 0.20% | ~1,889 |
+| Hack the Mainframe | 0.20% | ~1,889 |
+| Disarm and Dismember | 0.20% | ~1,889 |
 | A feast for the Entity | 0.10% | ~944 |
 | Cripple them all | 0.10% | ~944 |
 | The Grind | 0.10% | ~944 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~944 |
 | Adept Ripley | 0.10% | ~944 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 944,207 (Ranked 14)  
+Progressed: 944,292 (Ranked 14)  
 Completed: 51 (0.01%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -415,21 +415,21 @@ Completed: 51 (0.01%) (Ranked 297)
 | 2023-10-13 | 937,037 | 50 |
 | 2023-10-14 | 939,759 | 50 |
 | 2023-10-15 | 942,498 | 51 |
-| 2023-10-16 | 944,207 | 51 |
+| 2023-10-16 | 944,292 | 51 |
 ## Awards
 Max (Diverse Characters): 33,980  (Ranked 15)  
-Sum: 262,907 (Ranked 13)  
+Sum: 262,969 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 33,980 |
 | This game is Highly Recommended | 30,037 |
+| This game has Amazing Characters | 29,696 |
 | This game has Competitive Players | 29,679 |
-| This game has Amazing Characters | 29,668 |
 | This game is Extremely Fun | 29,364 |
 | This game has Challenging Combat | 28,953 |
 | This game has Quickly Understood Controls | 28,822 |
-| This game has Amazing Storytelling | 26,941 |
+| This game has Amazing Storytelling | 26,975 |
 | This game has a Competitive Community | 25,463 |
 | This game has Obsessive Gameplay | 16,768 |
 | This game is Great for Quick Sessions | 4,888 |
@@ -701,4 +701,4 @@ Diff (max vs sum): 2
 | 2023-10-13 | 4.51 | - | 33,824 | 261,989 |
 | 2023-10-14 | 4.51 | - | 33,877 | 262,341 |
 | 2023-10-15 | 4.51 | - | 33,934 | 262,670 |
-| 2023-10-16 | 4.51 | - | 33,980 | 262,907 |
+| 2023-10-16 | 4.51 | - | 33,980 | 262,969 |

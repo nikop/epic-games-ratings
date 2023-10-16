@@ -90,16 +90,16 @@ Number of Ratings: 12,664  (23.09.2022)
 | Master Recycler | 0.60% | ~826 |
 | Exotic Commodities | 0.60% | ~826 |
 | King's Blade | 0.60% | ~826 |
-| Top of the World | 0.50% | ~688 |
-| Constellated | 0.50% | ~688 |
-| Thirst for Knowledge | 0.50% | ~688 |
-| Booty by the Boatload | 0.50% | ~688 |
-| Fillin' the Bin | 0.50% | ~688 |
-| Industrial Evolution | 0.50% | ~688 |
-| Ritualist | 0.50% | ~688 |
-| A Legend is Born | 0.50% | ~688 |
-| Bountiful Harvest | 0.50% | ~688 |
-| Economy of Scarce | 0.50% | ~688 |
+| Top of the World | 0.50% | ~689 |
+| Constellated | 0.50% | ~689 |
+| Thirst for Knowledge | 0.50% | ~689 |
+| Booty by the Boatload | 0.50% | ~689 |
+| Fillin' the Bin | 0.50% | ~689 |
+| Industrial Evolution | 0.50% | ~689 |
+| Ritualist | 0.50% | ~689 |
+| A Legend is Born | 0.50% | ~689 |
+| Bountiful Harvest | 0.50% | ~689 |
+| Economy of Scarce | 0.50% | ~689 |
 | The Free Encyclopedia | 0.40% | ~551 |
 | Thank You Tom Nook | 0.40% | ~551 |
 | Jackpot! | 0.40% | ~551 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,700 (Ranked 73)  
+Progressed: 137,701 (Ranked 73)  
 Completed: 168 (0.12%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 168 (0.12%) (Ranked 242)
 | 2023-10-13 | 137,555 | 168 |
 | 2023-10-14 | 137,618 | 168 |
 | 2023-10-15 | 137,669 | 168 |
-| 2023-10-16 | 137,700 | 168 |
+| 2023-10-16 | 137,701 | 168 |
 ## Awards
 Max (Great for Beginners): 4,790  (Ranked 72)  
 Sum: 27,390 (Ranked 50)  

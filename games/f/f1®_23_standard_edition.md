@@ -5,20 +5,20 @@ Rating: 4.67 (Ranked 262)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 95.00% | ~3,129 |
-| On the Top Step | 89.00% | ~2,932 |
-| Setting up for Success | 79.00% | ~2,602 |
-| Team Orders | 76.00% | ~2,503 |
+| Getting on the Step | 95.00% | ~3,130 |
+| On the Top Step | 89.00% | ~2,933 |
+| Setting up for Success | 79.00% | ~2,603 |
+| Team Orders | 76.00% | ~2,504 |
 | Engineer | 57.00% | ~1,878 |
 | Familiar Faces | 51.00% | ~1,680 |
-| Going the Extra Mile | 45.00% | ~1,482 |
-| Sharing the Love | 43.00% | ~1,416 |
+| Going the Extra Mile | 45.00% | ~1,483 |
+| Sharing the Love | 43.00% | ~1,417 |
 | Hitting a Season | 41.00% | ~1,351 |
 | Challenge Yourself | 36.00% | ~1,186 |
 | A Dozen Pieces | 34.00% | ~1,120 |
 | Making History | 33.00% | ~1,087 |
-| Network Success | 27.00% | ~889 |
-| Writing a new Chapter | 27.00% | ~889 |
+| Network Success | 27.00% | ~890 |
+| Writing a new Chapter | 27.00% | ~890 |
 | Spring Cleaning | 25.00% | ~824 |
 | Reduce | 21.00% | ~692 |
 | Ups and Downs | 21.00% | ~692 |
@@ -36,8 +36,8 @@ Rating: 4.67 (Ranked 262)
 | Recycle | 13.00% | ~428 |
 | Switcheroo | 11.00% | ~362 |
 | Tinkerer | 11.00% | ~362 |
-| Friendly Competition | 10.00% | ~329 |
-| Undisputed Winner | 9.00% | ~296 |
+| Friendly Competition | 10.00% | ~330 |
+| Undisputed Winner | 9.00% | ~297 |
 | Living up to Expectations | 7.00% | ~231 |
 | Smooth Operator | 7.00% | ~231 |
 | For all Those Back at the Factory | 6.00% | ~198 |
@@ -55,7 +55,7 @@ Rating: 4.67 (Ranked 262)
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,294 (Ranked 188)  
+Progressed: 3,295 (Ranked 188)  
 Completed: 0 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 0 (0.00%) (Ranked 315)
 | 2023-10-13 | 3,219 | 0 |
 | 2023-10-14 | 3,247 | 0 |
 | 2023-10-15 | 3,279 | 0 |
-| 2023-10-16 | 3,294 | 0 |
+| 2023-10-16 | 3,295 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

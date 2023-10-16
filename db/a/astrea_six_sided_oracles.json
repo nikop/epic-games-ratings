@@ -655,9 +655,9 @@
       "ID": "MechanicalBuddy",
       "SetID": "1jeo1g7",
       "Name": "Mechanical Buddy",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "MeissasSavior",
@@ -943,9 +943,9 @@
       "ID": "WildsKeeper",
       "SetID": "1jeo1g7",
       "Name": "Wild\u0027s Keeper",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ApianChampion",
@@ -1102,8 +1102,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-10-16T21:09:01.5903221+00:00",
+  "LastChanged_Achievements": "2023-10-16T22:09:19.6711177+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:31.1237479+00:00",
-  "LastUpdate_Ratings": "2023-10-16T21:03:54.8804088+00:00",
-  "LastUpdate_Achievements": "2023-10-16T21:09:01.5904214+00:00"
+  "LastUpdate_Ratings": "2023-10-16T22:03:53.6403869+00:00",
+  "LastUpdate_Achievements": "2023-10-16T22:09:19.6713144+00:00"
 }

@@ -679,7 +679,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 348057,
+  "EOS_Progressed": 348061,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 982,
   "EOS_NewCompleters": 0,
@@ -20909,6 +20909,11 @@
       "Time": "2023-10-16T21:07:24.8964457+00:00",
       "NumProgressed": 348057,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-16T22:07:29.2030947+00:00",
+      "NumProgressed": 348061,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -21048,7 +21053,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 45247
+      "UsersEstimate": 45248
     },
     {
       "ID": "ach018",
@@ -21128,7 +21133,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 160106
+      "UsersEstimate": 160108
     },
     {
       "ID": "ach028",
@@ -21144,7 +21149,7 @@
       "Name": "Beating the Heat",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 38286
+      "UsersEstimate": 38287
     },
     {
       "ID": "ach030",
@@ -21272,7 +21277,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 45247
+      "UsersEstimate": 45248
     },
     {
       "ID": "ach046",
@@ -21320,7 +21325,7 @@
       "Name": "Booze Baron",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 38286
+      "UsersEstimate": 38287
     },
     {
       "ID": "ach052",
@@ -21328,7 +21333,7 @@
       "Name": "Liquor Lord",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20883
+      "UsersEstimate": 20884
     },
     {
       "ID": "ach053",
@@ -21392,7 +21397,7 @@
       "Name": "Safety in Numbers",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20883
+      "UsersEstimate": 20884
     },
     {
       "ID": "ach061",
@@ -21416,7 +21421,7 @@
       "Name": "Moving Experiences",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20883
+      "UsersEstimate": 20884
     },
     {
       "ID": "ach065",
@@ -21432,7 +21437,7 @@
       "Name": "The Dawn of Automation",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 48728
+      "UsersEstimate": 48729
     },
     {
       "ID": "ach067",
@@ -21448,7 +21453,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 55689
+      "UsersEstimate": 55690
     },
     {
       "ID": "ach069",
@@ -21456,7 +21461,7 @@
       "Name": "Extraordinary Logistics",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 48728
+      "UsersEstimate": 48729
     },
     {
       "ID": "ach070",
@@ -21480,7 +21485,7 @@
       "Name": "Wise Head",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20883
+      "UsersEstimate": 20884
     },
     {
       "ID": "ach073",
@@ -21488,7 +21493,7 @@
       "Name": "Show \u2018em the Sugar",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20883
+      "UsersEstimate": 20884
     },
     {
       "ID": "ach074",
@@ -21504,7 +21509,7 @@
       "Name": "Killing Them Softly",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20883
+      "UsersEstimate": 20884
     },
     {
       "ID": "ach076",
@@ -21559,7 +21564,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 348057,
+      "Progressed": 348061,
       "Completed": 7
     }
   ],
@@ -21567,8 +21572,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-10-13T18:00:33.8427425+00:00",
-  "LastChanged_Achievements": "2023-10-16T21:07:24.8964453+00:00",
+  "LastChanged_Achievements": "2023-10-16T22:07:29.203094+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:45.8070686+00:00",
-  "LastUpdate_Ratings": "2023-10-16T21:05:26.1611357+00:00",
-  "LastUpdate_Achievements": "2023-10-16T21:07:24.8966086+00:00"
+  "LastUpdate_Ratings": "2023-10-16T22:05:15.7936264+00:00",
+  "LastUpdate_Achievements": "2023-10-16T22:07:29.2033519+00:00"
 }

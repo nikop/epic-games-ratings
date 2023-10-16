@@ -4,7 +4,7 @@
   "ProductSlug": "overpass-2",
   "Ranking_EOS_Progress": 359,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 150,
+  "EOS_Progressed": 151,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -562,6 +562,11 @@
       "Time": "2023-10-16T20:05:41.7534138+00:00",
       "NumProgressed": 150,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-16T22:07:05.8672556+00:00",
+      "NumProgressed": 151,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-28T09:03:06.3221207+00:00",
@@ -598,7 +603,7 @@
       "Name": "Firing on All Cylinders",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "achMaxEngineAll",
@@ -630,7 +635,7 @@
       "Name": "You\u0027re Hired!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "achScoutMaxStar",
@@ -797,14 +802,14 @@
     {
       "ID": "7ji07dj",
       "IsBase": true,
-      "Progressed": 150,
+      "Progressed": 151,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-03T04:00:29.2485771+00:00",
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2023-10-16T21:07:04.9763092+00:00",
+  "LastChanged_Achievements": "2023-10-16T22:07:05.8672549+00:00",
   "LastUpdate_AppInfo": "2023-10-12T09:57:17.4515049+00:00",
-  "LastUpdate_Ratings": "2023-10-16T20:57:27.4752715+00:00",
-  "LastUpdate_Achievements": "2023-10-16T21:07:04.9763286+00:00"
+  "LastUpdate_Ratings": "2023-10-16T21:57:38.9340976+00:00",
+  "LastUpdate_Achievements": "2023-10-16T22:07:05.867295+00:00"
 }

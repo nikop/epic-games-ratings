@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 91.00% | ~630 |
+| New Recruit | 91.00% | ~631 |
 | Off to a good start | 68.00% | ~471 |
-| Do... or do not. There is no try | 52.00% | ~360 |
-| A good blaster at your side | 34.00% | ~235 |
-| Scrap collector | 21.00% | ~145 |
-| I suggest a new strategy | 20.00% | ~138 |
-| Great shot, kid! | 19.00% | ~131 |
+| Do... or do not. There is no try | 53.00% | ~367 |
+| A good blaster at your side | 34.00% | ~236 |
+| Scrap collector | 20.00% | ~139 |
+| I suggest a new strategy | 20.00% | ~139 |
+| Great shot, kid! | 19.00% | ~132 |
 | The power of the Force | 17.00% | ~118 |
 | All right, I'll give it a try | 17.00% | ~118 |
 | Shoot first | 17.00% | ~118 |
@@ -25,9 +25,9 @@
 | Impressive. Most impressive. | 9.00% | ~62 |
 | "Gonk? Gonk!" | 8.00% | ~55 |
 | Judge me by my size, do you? | 8.00% | ~55 |
-| Distinguished | 7.00% | ~48 |
-| A tremor in the Force | 7.00% | ~48 |
-| Support the troops | 7.00% | ~48 |
+| Distinguished | 7.00% | ~49 |
+| A tremor in the Force | 7.00% | ~49 |
+| Support the troops | 7.00% | ~49 |
 | Not bad for a little furball | 5.00% | ~35 |
 | Patience you must have | 5.00% | ~35 |
 | Don't underestimate the Force | 5.00% | ~35 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.30% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 692 (Ranked 254)  
+Progressed: 693 (Ranked 254)  
 Completed: 1 (0.14%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 1 (0.14%) (Ranked 236)
 | 2023-10-13 | 620 | 1 |
 | 2023-10-14 | 652 | 1 |
 | 2023-10-15 | 672 | 1 |
-| 2023-10-16 | 692 | 1 |
+| 2023-10-16 | 693 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

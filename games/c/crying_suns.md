@@ -6,20 +6,20 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~309,652 |
-| Jeef Skeejj | 44.00% | ~206,434 |
-| Careful planning | 39.00% | ~182,976 |
-| Second Coming | 34.00% | ~159,517 |
+| The Shutdown | 66.00% | ~309,653 |
+| Jeef Skeejj | 44.00% | ~206,435 |
+| Careful planning | 39.00% | ~182,977 |
+| Second Coming | 34.00% | ~159,518 |
 | Jeef Skagg | 30.00% | ~140,751 |
-| Mother | 25.00% | ~117,292 |
+| Mother | 25.00% | ~117,293 |
 | In space, no one can hear you scream | 24.00% | ~112,601 |
-| Chapter I: Echoes | 22.00% | ~103,217 |
-| Excelsior Rule | 22.00% | ~103,217 |
+| Chapter I: Echoes | 22.00% | ~103,218 |
+| Excelsior Rule | 22.00% | ~103,218 |
 | Things persisted in not being what they seemed | 20.00% | ~93,834 |
-| Knightmare Frames | 15.00% | ~70,375 |
-| May His passing cleanse the world | 15.00% | ~70,375 |
-| Chapter II: Fallible Flesh | 15.00% | ~70,375 |
-| Pope Zenon | 15.00% | ~70,375 |
+| Knightmare Frames | 15.00% | ~70,376 |
+| May His passing cleanse the world | 15.00% | ~70,376 |
+| Chapter II: Fallible Flesh | 15.00% | ~70,376 |
+| Pope Zenon | 15.00% | ~70,376 |
 | Tetsuo | 11.00% | ~51,609 |
 | Plan for the worst | 11.00% | ~51,609 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~46,917 |
@@ -45,10 +45,10 @@ Number of Ratings: 1,003  (23.09.2022)
 | The Smuggler | 6.00% | ~28,150 |
 | The Crazy Repairman | 6.00% | ~28,150 |
 | The Weasel | 6.00% | ~28,150 |
-| Kill the Doctor | 5.00% | ~23,458 |
-| Forsaken | 5.00% | ~23,458 |
-| Mercy | 5.00% | ~23,458 |
-| Jericho Rule | 5.00% | ~23,458 |
+| Kill the Doctor | 5.00% | ~23,459 |
+| Forsaken | 5.00% | ~23,459 |
+| Mercy | 5.00% | ~23,459 |
+| Jericho Rule | 5.00% | ~23,459 |
 | Geno Rule | 3.00% | ~14,075 |
 | Hammer Rule | 3.00% | ~14,075 |
 | Survivor | 2.00% | ~9,383 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~13 |
 | Kronos Rule | 0.10% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 469,169 (Ranked 37)  
+Progressed: 469,171 (Ranked 37)  
 Completed: 18 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,7 +265,7 @@ Completed: 18 (0.00%) (Ranked 315)
 | 2023-10-13 | 469,009 | 18 |
 | 2023-10-14 | 469,067 | 18 |
 | 2023-10-15 | 469,127 | 18 |
-| 2023-10-16 | 469,169 | 18 |
+| 2023-10-16 | 469,171 | 18 |
 ## Awards
 Max (Character Customization): 221  (Ranked 269)  
 Sum: 242 (Ranked 369)  

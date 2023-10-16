@@ -6,8 +6,8 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taste | 2.00% | ~3,053 |
-| Imprint | 2.00% | ~3,053 |
+| Taste | 2.00% | ~3,054 |
+| Imprint | 2.00% | ~3,054 |
 | The Hunt | 1.00% | ~1,527 |
 | Weeper | 1.00% | ~1,527 |
 | Ravenous | 1.00% | ~1,527 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~152 |
 | Intensify | 0.10% | ~152 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 152,674 (Ranked 71)  
+Progressed: 152,682 (Ranked 71)  
 Completed: 1 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,14 +209,14 @@ Completed: 1 (0.00%) (Ranked 315)
 | 2023-10-13 | 151,932 | 1 |
 | 2023-10-14 | 152,214 | 1 |
 | 2023-10-15 | 152,491 | 1 |
-| 2023-10-16 | 152,674 | 1 |
+| 2023-10-16 | 152,682 | 1 |
 ## Awards
-Max (Highly Recommended): 44  (Ranked 435)  
-Sum: 291 (Ranked 352)  
-Diff (max vs sum): 83  
+Max (Highly Recommended): 45  (Ranked 428)  
+Sum: 292 (Ranked 352)  
+Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |
-| This game is Highly Recommended | 44 |
+| This game is Highly Recommended | 45 |
 | This game has Quickly Understood Controls | 42 |
 | This game has Unique Visuals | 40 |
 | This game has Challenging Combat | 38 |
@@ -342,4 +342,4 @@ Diff (max vs sum): 83
 | 2023-10-13 | 4.59 | - | 44 | 283 |
 | 2023-10-14 | 4.59 | - | 44 | 287 |
 | 2023-10-15 | 4.59 | - | 44 | 290 |
-| 2023-10-16 | 4.59 | - | 44 | 291 |
+| 2023-10-16 | 4.59 | - | 45 | 292 |

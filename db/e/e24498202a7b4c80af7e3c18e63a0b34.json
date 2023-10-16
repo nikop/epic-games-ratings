@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 188,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
     "PcReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -90,7 +90,7 @@
   "Tags": [],
   "EOS_Progressed": 6193,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 283,
+  "EOS_NewPlayers": 279,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -3684,9 +3684,9 @@
       "ID": "achievement_02_08",
       "SetID": "4f1m94d",
       "Name": "Car Specialist",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 805
+      "UsersEstimate": 867
     },
     {
       "ID": "achievement_03_01",
@@ -3861,8 +3861,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-10-15T01:47:00.4126107+00:00",
-  "LastChanged_Achievements": "2023-10-16T21:10:23.9949215+00:00",
+  "LastChanged_Achievements": "2023-10-16T22:10:43.0797441+00:00",
   "LastUpdate_AppInfo": "2023-10-12T18:57:03.8112557+00:00",
-  "LastUpdate_Ratings": "2023-10-16T21:05:17.5940774+00:00",
-  "LastUpdate_Achievements": "2023-10-16T21:10:23.9949631+00:00"
+  "LastUpdate_Ratings": "2023-10-16T22:05:04.8863369+00:00",
+  "LastUpdate_Achievements": "2023-10-16T22:10:43.0798006+00:00"
 }

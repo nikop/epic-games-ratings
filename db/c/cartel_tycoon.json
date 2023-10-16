@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -286,9 +286,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 630,
+  "EOS_Progressed": 631,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -1996,6 +1996,11 @@
       "Time": "2023-10-15T20:03:38.3007539+00:00",
       "NumProgressed": 630,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-16T22:06:51.3738417+00:00",
+      "NumProgressed": 631,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 19,
@@ -2055,7 +2060,7 @@
       "Name": "Our Man",
       "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "kill-lieutenants",
@@ -2079,7 +2084,7 @@
       "Name": "Don\u0027t Let Mom Know You\u0027re A Druglord",
       "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "product-profit",
@@ -2127,7 +2132,7 @@
       "Name": "Camellos",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "unlock-residences",
@@ -2143,7 +2148,7 @@
       "Name": "Take-Off",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "use-submarine",
@@ -2158,15 +2163,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 630,
+      "Progressed": 631,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-09-23T20:57:48.080138+00:00",
-  "LastChanged_Achievements": "2023-10-16T21:06:52.1633491+00:00",
+  "LastChanged_Achievements": "2023-10-16T22:06:51.3738411+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:47.5072549+00:00",
-  "LastUpdate_Ratings": "2023-10-16T21:00:40.294105+00:00",
-  "LastUpdate_Achievements": "2023-10-16T21:06:52.1633689+00:00"
+  "LastUpdate_Ratings": "2023-10-16T22:00:45.9669191+00:00",
+  "LastUpdate_Achievements": "2023-10-16T22:06:51.3738725+00:00"
 }

@@ -6,32 +6,32 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 68.00% | ~48,683 |
-| INFUSED WITH LIGHT | 53.00% | ~37,944 |
-| FOXIN' AROUND | 29.00% | ~20,762 |
-| FETCH | 28.00% | ~20,046 |
-| BLOOMS OF LIGHT | 26.00% | ~18,614 |
-| AWAKEN | 22.00% | ~15,750 |
-| BEST FRIENDS | 22.00% | ~15,750 |
-| ERADICATE | 21.00% | ~15,034 |
-| SPIRIT BARK | 21.00% | ~15,034 |
+| A GUARDIAN FORGOTTEN | 68.00% | ~48,685 |
+| INFUSED WITH LIGHT | 53.00% | ~37,946 |
+| FOXIN' AROUND | 29.00% | ~20,763 |
+| FETCH | 28.00% | ~20,047 |
+| BLOOMS OF LIGHT | 26.00% | ~18,615 |
+| AWAKEN | 22.00% | ~15,751 |
+| BEST FRIENDS | 22.00% | ~15,751 |
+| ERADICATE | 21.00% | ~15,035 |
+| SPIRIT BARK | 21.00% | ~15,035 |
 | GARDEN OF LIGHT | 18.00% | ~12,887 |
 | SPIRIT FORM | 16.00% | ~11,455 |
 | WRITTEN IN STONE | 16.00% | ~11,455 |
 | UPROOTING DARKNESS | 15.00% | ~10,739 |
-| WEIGHTLESS | 12.00% | ~8,591 |
-| SPIRIT DASH | 11.00% | ~7,875 |
-| OLD COMPANION | 9.00% | ~6,443 |
-| MATCH MAKER | 8.00% | ~5,727 |
-| PLAGUE DOCTOR | 8.00% | ~5,727 |
-| SPIRITED AWAY | 8.00% | ~5,727 |
-| NORTHERN LIGHTS | 7.00% | ~5,011 |
+| WEIGHTLESS | 12.00% | ~8,592 |
+| SPIRIT DASH | 11.00% | ~7,876 |
+| OLD COMPANION | 9.00% | ~6,444 |
+| MATCH MAKER | 8.00% | ~5,728 |
+| PLAGUE DOCTOR | 8.00% | ~5,728 |
+| SPIRITED AWAY | 8.00% | ~5,728 |
+| NORTHERN LIGHTS | 7.00% | ~5,012 |
 | FOX? OR FLYING SQUIRREL? | 4.00% | ~2,864 |
 | ANCIENT HISTORY | 3.00% | ~2,148 |
 | NONE FORGOTTEN | 2.00% | ~1,432 |
 | KINDRED SPIRITS | 0.60% | ~430 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 71,592 (Ranked 92)  
+Progressed: 71,596 (Ranked 92)  
 Completed: 379 (0.53%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 379 (0.53%) (Ranked 175)
 | 2023-10-13 | 71,307 | 377 |
 | 2023-10-14 | 71,420 | 378 |
 | 2023-10-15 | 71,520 | 378 |
-| 2023-10-16 | 71,592 | 379 |
+| 2023-10-16 | 71,596 | 379 |
 ## Awards
 Max (Extremely Fun): 26  (Ranked 499)  
 Sum: 114 (Ranked 423)  

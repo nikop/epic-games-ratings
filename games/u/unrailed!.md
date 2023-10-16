@@ -6,15 +6,15 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 18.00% | ~117,869 |
-| Incurious | 17.00% | ~111,321 |
-| Climate Change | 16.00% | ~104,772 |
-| Stroller | 15.00% | ~98,224 |
-| Advanced Hiker | 13.00% | ~85,128 |
-| Toy Train | 13.00% | ~85,128 |
-| Hiker | 11.00% | ~72,031 |
+| Advanced Stroller | 18.00% | ~117,871 |
+| Incurious | 17.00% | ~111,323 |
+| Climate Change | 16.00% | ~104,774 |
+| Stroller | 15.00% | ~98,226 |
+| Advanced Hiker | 13.00% | ~85,129 |
+| Toy Train | 13.00% | ~85,129 |
+| Hiker | 11.00% | ~72,032 |
 | Mojave Courier | 6.00% | ~39,290 |
-| Saved by Nausicaä | 5.00% | ~32,741 |
+| Saved by Nausicaä | 5.00% | ~32,742 |
 | Voyager | 3.00% | ~19,645 |
 | Advanced Voyager | 3.00% | ~19,645 |
 | Expert Stroller | 3.00% | ~19,645 |
@@ -33,10 +33,10 @@ Number of Ratings: 21,990  (23.09.2022)
 | Advanced Wayfarer | 0.40% | ~2,619 |
 | Scrooge | 0.40% | ~2,619 |
 | Tough Nut! | 0.40% | ~2,619 |
-| Trans-Siberian Railway | 0.30% | ~1,964 |
-| Engineer | 0.30% | ~1,964 |
-| Satan's Minion | 0.30% | ~1,964 |
-| Snowman's Land | 0.30% | ~1,964 |
+| Trans-Siberian Railway | 0.30% | ~1,965 |
+| Engineer | 0.30% | ~1,965 |
+| Satan's Minion | 0.30% | ~1,965 |
+| Snowman's Land | 0.30% | ~1,965 |
 | Expert Wayfarer | 0.20% | ~1,310 |
 | Explorer | 0.10% | ~655 |
 | Advanced Explorer | 0.10% | ~655 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~655 |
 | 20 Miles under the Sea | 0.10% | ~655 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 654,828 (Ranked 26)  
+Progressed: 654,840 (Ranked 26)  
 Completed: 12 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 12 (0.00%) (Ranked 315)
 | 2023-10-13 | 653,855 | 12 |
 | 2023-10-14 | 654,311 | 12 |
 | 2023-10-15 | 654,655 | 12 |
-| 2023-10-16 | 654,828 | 12 |
+| 2023-10-16 | 654,840 | 12 |
 ## Awards
 Max (Great for Beginners): 198  (Ranked 279)  
 Sum: 1,581 (Ranked 222)  

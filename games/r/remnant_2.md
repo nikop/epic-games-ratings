@@ -5,16 +5,16 @@ Rating: 4.76 (Ranked 118)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~17,684 |
-| The Killing Jar | 8.00% | ~15,719 |
-| Expanding Horizons | 7.00% | ~13,754 |
-| Quest for Survival | 7.00% | ~13,754 |
-| Not Your Average Trait | 7.00% | ~13,754 |
-| Gleaming the Cube | 6.00% | ~11,789 |
-| Familiar Face | 6.00% | ~11,789 |
-| Duality | 6.00% | ~11,789 |
-| Boss'n Up | 6.00% | ~11,789 |
-| Trait Chaser | 6.00% | ~11,789 |
+| First of Many | 9.00% | ~17,686 |
+| The Killing Jar | 8.00% | ~15,721 |
+| Expanding Horizons | 7.00% | ~13,756 |
+| Quest for Survival | 7.00% | ~13,756 |
+| Not Your Average Trait | 7.00% | ~13,756 |
+| Gleaming the Cube | 6.00% | ~11,790 |
+| Familiar Face | 6.00% | ~11,790 |
+| Duality | 6.00% | ~11,790 |
+| Boss'n Up | 6.00% | ~11,790 |
+| Trait Chaser | 6.00% | ~11,790 |
 | Not So Special Now | 5.00% | ~9,825 |
 | Not a Janitor | 5.00% | ~9,825 |
 | Equal Measures | 5.00% | ~9,825 |
@@ -56,7 +56,7 @@ Rating: 4.76 (Ranked 118)
 | Cutting Edge | 1.00% | ~1,965 |
 | Proving Grounds | 1.00% | ~1,965 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 196,491 (Ranked 68)  
+Progressed: 196,508 (Ranked 68)  
 Completed: 393 (0.20%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,10 +148,10 @@ Completed: 393 (0.20%) (Ranked 224)
 | 2023-10-13 | 194,939 | 389 |
 | 2023-10-14 | 195,565 | 391 |
 | 2023-10-15 | 196,107 | 393 |
-| 2023-10-16 | 196,491 | 393 |
+| 2023-10-16 | 196,508 | 393 |
 ## Awards
 Max (Great Boss Battles): 1,839  (Ranked 114)  
-Sum: 3,998 (Ranked 149)  
+Sum: 4,000 (Ranked 149)  
 Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
@@ -164,7 +164,7 @@ Diff (max vs sum): -35
 | This game has Amazing Storytelling | 216 |
 | This game has Amazing Characters | 213 |
 | This game has Quickly Understood Controls | 212 |
-| This game has Unique Visuals | 181 |
+| This game has Unique Visuals | 183 |
 | This game has a Creative Community | 163 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -251,4 +251,4 @@ Diff (max vs sum): -35
 | 2023-10-13 | 4.76 | 1,828 | 3,945 |
 | 2023-10-14 | 4.76 | 1,835 | 3,972 |
 | 2023-10-15 | 4.76 | 1,839 | 3,986 |
-| 2023-10-16 | 4.76 | 1,839 | 3,998 |
+| 2023-10-16 | 4.76 | 1,839 | 4,000 |

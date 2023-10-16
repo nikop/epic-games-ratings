@@ -2,7 +2,7 @@
   "ID": "7c53d7dc86494d5abcdc974b0ef0a843",
   "Name": "Kena: Bridge of Spirits",
   "ProductSlug": "kena-bridge-of-spirits",
-  "Ranking_Rating": 203,
+  "Ranking_Rating": 204,
   "Ranking_Popularity": 132,
   "Ranking_PopularitySum": 215,
   "Ranking_EOS_Progress": 41,
@@ -1290,18 +1290,24 @@
       "Rating": 4.7,
       "NumberOfAwards": 1686,
       "NumberOfAwardsMax": 1330
+    },
+    {
+      "Time": "2023-10-16T22:00:18.0202719+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 1687,
+      "NumberOfAwardsMax": 1331
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1686,
-  "NumberOfAwardsMax": 1330,
+  "NumberOfAwards": 1687,
+  "NumberOfAwardsMax": 1331,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1330
+      "Count": 1331
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1382,9 +1388,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 428512,
+  "EOS_Progressed": 428513,
   "EOS_Completed": 540,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -13337,6 +13343,11 @@
       "Time": "2023-10-16T18:08:06.2386251+00:00",
       "NumProgressed": 428512,
       "NumCompleted": 540
+    },
+    {
+      "Time": "2023-10-16T22:09:29.3759258+00:00",
+      "NumProgressed": 428513,
+      "NumCompleted": 540
     }
   ],
   "TotalAchievements": 41,
@@ -13364,7 +13375,7 @@
       "Name": "Hunter in the Forest",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 257107
+      "UsersEstimate": 257108
     },
     {
       "ID": "ACH_ABILITY_DASH",
@@ -13372,7 +13383,7 @@
       "Name": "Crossing Over",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 124268
+      "UsersEstimate": 124269
     },
     {
       "ID": "ACH_BOSS_ROT_GOD",
@@ -13428,7 +13439,7 @@
       "Name": "Rot Commander",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 257107
+      "UsersEstimate": 257108
     },
     {
       "ID": "ACH_CHALLENGE_CRIT",
@@ -13436,7 +13447,7 @@
       "Name": "Quick Draw",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 124268
+      "UsersEstimate": 124269
     },
     {
       "ID": "ACH_CHALLENGE_DASH_KILL",
@@ -13508,7 +13519,7 @@
       "Name": "Hat Collector",
       "Percentage": 4,
       "XP": 60,
-      "UsersEstimate": 17140
+      "UsersEstimate": 17141
     },
     {
       "ID": "ACH_HERO_ROT",
@@ -13516,7 +13527,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 407086
+      "UsersEstimate": 407087
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -13524,7 +13535,7 @@
       "Name": "Restoration Master",
       "Percentage": 4,
       "XP": 60,
-      "UsersEstimate": 17140
+      "UsersEstimate": 17141
     },
     {
       "ID": "ACH_JIZO_FIRST",
@@ -13540,7 +13551,7 @@
       "Name": "The Open Range",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 158549
+      "UsersEstimate": 158550
     },
     {
       "ID": "ACH_LOCATION_FOREST",
@@ -13548,7 +13559,7 @@
       "Name": "Into the Woods",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 299958
+      "UsersEstimate": 299959
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -13612,7 +13623,7 @@
       "Name": "Toshi\u0027s Regret",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 115698
+      "UsersEstimate": 115699
     },
     {
       "ID": "ACH_RELIC_INCENSE",
@@ -13620,7 +13631,7 @@
       "Name": "Toshi\u0027s Fear",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 119983
+      "UsersEstimate": 119984
     },
     {
       "ID": "ACH_RELIC_KNIFE",
@@ -13636,7 +13647,7 @@
       "Name": "Taro\u0027s Regret",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 184260
+      "UsersEstimate": 184261
     },
     {
       "ID": "ACH_RELIC_OX",
@@ -13652,7 +13663,7 @@
       "Name": "Toshi\u0027s Love",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 115698
+      "UsersEstimate": 115699
     },
     {
       "ID": "ACH_RELIC_VILLAGE_HEART",
@@ -13668,22 +13679,22 @@
       "Name": "No Stone Unturned",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 17140
+      "UsersEstimate": 17141
     }
   ],
   "AchievementSets": [
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 428512,
+      "Progressed": 428513,
       "Completed": 540
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
-  "LastChanged": "2023-10-16T19:59:46.5339982+00:00",
-  "LastChanged_Achievements": "2023-10-16T21:09:10.0595591+00:00",
+  "LastChanged": "2023-10-16T22:00:18.0202717+00:00",
+  "LastChanged_Achievements": "2023-10-16T22:09:29.3759252+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:39.3077646+00:00",
-  "LastUpdate_Ratings": "2023-10-16T21:00:08.5762387+00:00",
-  "LastUpdate_Achievements": "2023-10-16T21:09:10.0596424+00:00"
+  "LastUpdate_Ratings": "2023-10-16T22:00:18.0202723+00:00",
+  "LastUpdate_Achievements": "2023-10-16T22:09:29.3761042+00:00"
 }

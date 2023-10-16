@@ -81,6 +81,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Good Difficulty | 0.60% | ~88 |
 | Patrons | 0.60% | ~88 |
 | Circus Maximus | 0.60% | ~88 |
+| Pantheon | 0.60% | ~88 |
 | Learn to Play 3 | 0.60% | ~88 |
 | Greece | 0.60% | ~88 |
 | Power to the People | 0.60% | ~88 |
@@ -99,7 +100,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hagia Sophia | 0.50% | ~74 |
 | Church of the Holy Sepulchre | 0.50% | ~74 |
 | Temple of Solomon | 0.50% | ~74 |
-| Pantheon | 0.50% | ~74 |
 | Via Recta Souk | 0.50% | ~74 |
 | Learn to Play 4 | 0.50% | ~74 |
 | Economic Reform | 0.50% | ~74 |
@@ -123,6 +123,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Paganism | 0.40% | ~59 |
 | Industrial Progress | 0.40% | ~59 |
 | Dualism | 0.40% | ~59 |
+| Enlightenment | 0.40% | ~59 |
 | Gnosticism | 0.40% | ~59 |
 | Veneration | 0.40% | ~59 |
 | Mounted Lancer | 0.40% | ~59 |
@@ -140,7 +141,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egypt | 0.30% | ~44 |
 | Rome | 0.30% | ~44 |
 | Old World Order | 0.30% | ~44 |
-| Enlightenment | 0.30% | ~44 |
 | Cataphract Archer | 0.30% | ~44 |
 | Turreted Elephant | 0.30% | ~44 |
 | All Nations | 0.30% | ~44 |
@@ -195,6 +195,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Silver Victory (Carthage 3) | 0.10% | ~15 |
 | Carthage - Seizing Destiny | 0.10% | ~15 |
 | Bronze Victory (Carthage 4) | 0.10% | ~15 |
+| Gold Victory (Carthage 4) | 0.10% | ~15 |
 | Silver Victory (Carthage 4) | 0.10% | ~15 |
 | Carthage Campaign | 0.10% | ~15 |
 | Cleopatra's Love | 0.10% | ~15 |
@@ -326,7 +327,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Alexander the Great | 0.00% | ~0 |
 | The Great Raging Horde | 0.00% | ~0 |
 | Epic Victory (Carthage 4) | 0.00% | ~0 |
-| Gold Victory (Carthage 4) | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |
 | Rebuilder | 0.00% | ~0 |
 | Restorer | 0.00% | ~0 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,746 (Ranked 135)  
+Progressed: 14,747 (Ranked 135)  
 Completed: 5 (0.03%) (Ranked 284)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -528,7 +528,7 @@ Completed: 5 (0.03%) (Ranked 284)
 | 2023-10-13 | 14,652 | 5 |
 | 2023-10-14 | 14,699 | 5 |
 | 2023-10-15 | 14,732 | 5 |
-| 2023-10-16 | 14,746 | 5 |
+| 2023-10-16 | 14,747 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,841 (Ranked 210)  

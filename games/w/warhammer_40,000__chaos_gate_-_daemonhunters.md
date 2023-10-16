@@ -33,10 +33,10 @@ Number of Ratings: 371  (23.09.2022)
 | Long Distance Call | 1.00% | ~33 |
 | Execution Force | 1.00% | ~33 |
 | Mind Like a Fortress | 0.90% | ~29 |
+| Junk Banishment | 0.90% | ~29 |
 | Tactical Flexibility | 0.90% | ~29 |
 | Tactical Sabotage | 0.90% | ~29 |
 | Fleetmaster | 0.80% | ~26 |
-| Junk Banishment | 0.80% | ~26 |
 | Patron of Deimos | 0.70% | ~23 |
 | For the Machine God | 0.70% | ~23 |
 | Preservationist | 0.70% | ~23 |

@@ -6,12 +6,12 @@ Rating: 4.64 (Ranked 321)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Satisfied Gus-tomer | 1.00% | ~242 |
+| Are You Packin'? | 1.00% | ~242 |
 | Sweezy Like Sunday Morning | 1.00% | ~242 |
 | First Bounty Down | 1.00% | ~242 |
 | G3 Graduation | 1.00% | ~242 |
 | Cold-Blooded Driller | 1.00% | ~242 |
 | Don't Knife The Hand That Feeds | 1.00% | ~242 |
-| Are You Packin'? | 0.90% | ~218 |
 | Who's The Boss? | 0.90% | ~218 |
 | Creature Feature | 0.80% | ~194 |
 | Bring A Knife to a Gun Fight | 0.80% | ~194 |

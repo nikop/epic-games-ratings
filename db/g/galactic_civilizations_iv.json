@@ -912,9 +912,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 6846,
+  "EOS_Progressed": 6847,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7047,6 +7047,11 @@
       "Time": "2023-10-16T20:06:38.1426798+00:00",
       "NumProgressed": 6846,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-16T22:08:24.1158343+00:00",
+      "NumProgressed": 6847,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -7162,7 +7167,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5340
+      "UsersEstimate": 5341
     },
     {
       "ID": "First_Race_Met",
@@ -7194,7 +7199,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5340
+      "UsersEstimate": 5341
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -7378,7 +7383,7 @@
       "Name": "Unleash My Power",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4176
+      "UsersEstimate": 4177
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -7546,7 +7551,7 @@
       "Name": "Win a Battle",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 4518
+      "UsersEstimate": 4519
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -7610,7 +7615,7 @@
       "Name": "Prestige Victory!",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "Win_Quickly",
@@ -7633,15 +7638,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6846,
+      "Progressed": 6847,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-10-16T21:08:13.0840162+00:00",
+  "LastChanged_Achievements": "2023-10-16T22:08:24.1158337+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:21.0832103+00:00",
-  "LastUpdate_Ratings": "2023-10-16T20:57:43.5774104+00:00",
-  "LastUpdate_Achievements": "2023-10-16T21:08:13.0841047+00:00"
+  "LastUpdate_Ratings": "2023-10-16T21:58:00.8958433+00:00",
+  "LastUpdate_Achievements": "2023-10-16T22:08:24.1159783+00:00"
 }

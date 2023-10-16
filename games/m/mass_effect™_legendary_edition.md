@@ -35,16 +35,16 @@
 | Operative | 42.00% | ~302 |
 | Veteran | 41.00% | ~295 |
 | Scholar | 41.00% | ~295 |
+| Power Full | 40.00% | ~288 |
 | The Professor | 39.00% | ~280 |
-| Power Full | 39.00% | ~280 |
 | The Archangel | 38.00% | ~273 |
 | The Convict | 37.00% | ~266 |
 | Completionist | 36.00% | ~259 |
 | The Krogan | 36.00% | ~259 |
 | Colony Defense | 35.00% | ~252 |
 | Galactic Explorer | 35.00% | ~252 |
+| Broke, Blind, and Bedlam | 35.00% | ~252 |
 | Archivist | 34.00% | ~244 |
-| Broke, Blind, and Bedlam | 34.00% | ~244 |
 | Ghost Ship | 33.00% | ~237 |
 | The Quarian | 33.00% | ~237 |
 | A Personal Touch | 32.00% | ~230 |
@@ -77,9 +77,9 @@
 | Against All Odds | 27.00% | ~194 |
 | Eye of the Hurricane | 26.00% | ~187 |
 | A House Divided | 26.00% | ~187 |
+| World Shaker | 26.00% | ~187 |
 | Giant Killer | 25.00% | ~180 |
 | Weapon Specialist | 25.00% | ~180 |
-| World Shaker | 25.00% | ~180 |
 | Liberator | 25.00% | ~180 |
 | Pathfinder | 23.00% | ~165 |
 | Tunnel Rat | 23.00% | ~165 |

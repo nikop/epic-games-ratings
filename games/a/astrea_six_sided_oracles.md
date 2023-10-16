@@ -11,10 +11,10 @@
 | Endless Tricks | 28.00% | ~16 |
 | Meissa's Savior | 28.00% | ~16 |
 | Dicesmithing Time! | 26.00% | ~15 |
+| Mechanical Buddy | 26.00% | ~15 |
 | Purification Pioneer | 26.00% | ~15 |
 | Sanctuary Guardian | 26.00% | ~15 |
-| Mechanical Buddy | 24.00% | ~14 |
-| Wild's Keeper | 24.00% | ~14 |
+| Wild's Keeper | 26.00% | ~15 |
 | Behenian Champion | 24.00% | ~14 |
 | Loyal Partner | 22.00% | ~13 |
 | Mind Illuminator | 22.00% | ~13 |

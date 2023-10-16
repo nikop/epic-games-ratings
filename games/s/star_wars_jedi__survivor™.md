@@ -5,52 +5,52 @@ Rating: 4.49 (Ranked 591)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rooftop Duel | 99.00% | ~5,281 |
-| For Saw Gerrera | 98.00% | ~5,227 |
-| Grab Some Seat | 91.00% | ~4,854 |
-| Can You Pet the Bogling? | 87.00% | ~4,641 |
-| The Past Made Present | 83.00% | ~4,427 |
-| Survivors, We Adapt | 79.00% | ~4,214 |
-| Among the Masters | 78.00% | ~4,161 |
-| They Never Saw It Coming | 77.00% | ~4,107 |
-| Who Gives a Puck | 73.00% | ~3,894 |
-| For the Path | 65.00% | ~3,467 |
-| Mirror Match | 64.00% | ~3,414 |
-| Now, This Isn't Podracing | 64.00% | ~3,414 |
-| Skywalker | 61.00% | ~3,254 |
-| Out of Bedlam | 60.00% | ~3,200 |
-| Cleaning Up | 54.00% | ~2,880 |
-| Kitted Out | 51.00% | ~2,720 |
-| Hey, Luke At Us | 50.00% | ~2,667 |
-| Tanalorr Bound | 50.00% | ~2,667 |
-| Tragedy | 48.00% | ~2,560 |
-| At the Precipice | 46.00% | ~2,454 |
-| Riposte | 46.00% | ~2,454 |
-| Into the Abyss | 44.00% | ~2,347 |
-| Greezy Money | 43.00% | ~2,294 |
-| A Place You Could Call Home | 42.00% | ~2,240 |
-| Catch! | 40.00% | ~2,134 |
-| They're Probably Fine | 39.00% | ~2,080 |
-| Han Slowlo | 36.00% | ~1,920 |
-| There Is No Try | 36.00% | ~1,920 |
-| The Jedi Path | 31.00% | ~1,654 |
-| This Is Canon | 28.00% | ~1,494 |
-| It's a Trap | 25.00% | ~1,334 |
-| You've Got A Friend | 22.00% | ~1,173 |
-| King of the World | 16.00% | ~853 |
-| Reconnaissance | 15.00% | ~800 |
-| A Presence I've Not Felt Since... | 14.00% | ~747 |
-| Max Capacity | 13.00% | ~693 |
+| Rooftop Duel | 99.00% | ~5,287 |
+| For Saw Gerrera | 98.00% | ~5,233 |
+| Grab Some Seat | 91.00% | ~4,859 |
+| Can You Pet the Bogling? | 87.00% | ~4,646 |
+| The Past Made Present | 83.00% | ~4,432 |
+| Survivors, We Adapt | 79.00% | ~4,219 |
+| Among the Masters | 78.00% | ~4,165 |
+| They Never Saw It Coming | 77.00% | ~4,112 |
+| Who Gives a Puck | 73.00% | ~3,898 |
+| For the Path | 65.00% | ~3,471 |
+| Mirror Match | 64.00% | ~3,418 |
+| Now, This Isn't Podracing | 64.00% | ~3,418 |
+| Skywalker | 61.00% | ~3,257 |
+| Out of Bedlam | 60.00% | ~3,204 |
+| Cleaning Up | 54.00% | ~2,884 |
+| Kitted Out | 51.00% | ~2,723 |
+| Hey, Luke At Us | 50.00% | ~2,670 |
+| Tanalorr Bound | 50.00% | ~2,670 |
+| Tragedy | 48.00% | ~2,563 |
+| At the Precipice | 46.00% | ~2,456 |
+| Riposte | 46.00% | ~2,456 |
+| Into the Abyss | 44.00% | ~2,350 |
+| Greezy Money | 43.00% | ~2,296 |
+| A Place You Could Call Home | 42.00% | ~2,243 |
+| Catch! | 40.00% | ~2,136 |
+| They're Probably Fine | 39.00% | ~2,083 |
+| Han Slowlo | 36.00% | ~1,922 |
+| There Is No Try | 36.00% | ~1,922 |
+| The Jedi Path | 31.00% | ~1,655 |
+| This Is Canon | 28.00% | ~1,495 |
+| It's a Trap | 25.00% | ~1,335 |
+| You've Got A Friend | 22.00% | ~1,175 |
+| King of the World | 16.00% | ~854 |
+| Reconnaissance | 15.00% | ~801 |
+| A Presence I've Not Felt Since... | 14.00% | ~748 |
+| Max Capacity | 13.00% | ~694 |
 | Slam Dunk | 11.00% | ~587 |
-| Star Tours | 10.00% | ~533 |
-| Gambler | 10.00% | ~533 |
-| Caij Match | 9.00% | ~480 |
+| Star Tours | 10.00% | ~534 |
+| Gambler | 10.00% | ~534 |
+| Caij Match | 9.00% | ~481 |
 | Growth Spurt | 8.00% | ~427 |
 | I'm a Living Legend | 6.00% | ~320 |
 | Perk of the Job | 6.00% | ~320 |
+| Road House | 6.00% | ~320 |
 | Skoova Diving | 6.00% | ~320 |
 | Get Down From There | 5.00% | ~267 |
-| Road House | 5.00% | ~267 |
 | Intergalactic Geographic | 5.00% | ~267 |
 | So Uncivilized | 3.00% | ~160 |
 | One With the Force | 3.00% | ~160 |
@@ -59,7 +59,7 @@ Rating: 4.49 (Ranked 591)
 | Pinpoint | 2.00% | ~107 |
 | Splurgle | 2.00% | ~107 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,334 (Ranked 172)  
+Progressed: 5,340 (Ranked 172)  
 Completed: 20 (0.37%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 20 (0.37%) (Ranked 195)
 | 2023-10-13 | 5,055 | 19 |
 | 2023-10-14 | 5,171 | 19 |
 | 2023-10-15 | 5,272 | 20 |
-| 2023-10-16 | 5,334 | 20 |
+| 2023-10-16 | 5,340 | 20 |
 ## Awards
 Max (Great Boss Battles): 2,988  (Ranked 95)  
 Sum: 4,434 (Ranked 143)  

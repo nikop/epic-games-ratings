@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -254,9 +254,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16839,
+  "EOS_Progressed": 16840,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5724,6 +5724,11 @@
       "Time": "2023-10-16T20:07:13.6193994+00:00",
       "NumProgressed": 16839,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-16T22:08:58.9164094+00:00",
+      "NumProgressed": 16840,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -5735,7 +5740,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 15997
+      "UsersEstimate": 15998
     },
     {
       "ID": "ACH001",
@@ -5767,7 +5772,7 @@
       "Name": "Pimp My Glide",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 8251
+      "UsersEstimate": 8252
     },
     {
       "ID": "ACH0013",
@@ -5831,7 +5836,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 12124
+      "UsersEstimate": 12125
     },
     {
       "ID": "ACH0020",
@@ -5887,7 +5892,7 @@
       "Name": "Double the Barrels, double the Fun",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 9261
+      "UsersEstimate": 9262
     },
     {
       "ID": "ACH004",
@@ -5895,7 +5900,7 @@
       "Name": "No Half Measures",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 14650
+      "UsersEstimate": 14651
     },
     {
       "ID": "ACH005",
@@ -5942,7 +5947,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 16839,
+      "Progressed": 16840,
       "Completed": 0
     }
   ],
@@ -5950,8 +5955,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-10-16T02:21:33.0705222+00:00",
-  "LastChanged_Achievements": "2023-10-16T21:08:43.5665504+00:00",
+  "LastChanged_Achievements": "2023-10-16T22:08:58.9164087+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:22.1521414+00:00",
-  "LastUpdate_Ratings": "2023-10-16T21:06:13.0550913+00:00",
-  "LastUpdate_Achievements": "2023-10-16T21:08:43.5665947+00:00"
+  "LastUpdate_Ratings": "2023-10-16T22:06:05.504093+00:00",
+  "LastUpdate_Achievements": "2023-10-16T22:08:58.9165302+00:00"
 }

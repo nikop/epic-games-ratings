@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 198,
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewPlayers": 89,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -783,9 +783,9 @@
       "Count": 98
     }
   ],
-  "EOS_Progressed": 224920,
+  "EOS_Progressed": 224923,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 552,
+  "EOS_NewPlayers": 550,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20333,6 +20333,11 @@
       "Time": "2023-10-16T21:09:14.0478186+00:00",
       "NumProgressed": 224920,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-16T22:09:33.9645422+00:00",
+      "NumProgressed": 224923,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -20352,7 +20357,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 58479
+      "UsersEstimate": 58480
     },
     {
       "ID": "ACH_BASE_11",
@@ -20592,7 +20597,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 26990
+      "UsersEstimate": 26991
     },
     {
       "ID": "ACH_BASE_8",
@@ -20615,7 +20620,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 224920,
+      "Progressed": 224923,
       "Completed": 5
     }
   ],
@@ -20623,8 +20628,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-10-15T07:04:04.0148832+00:00",
-  "LastChanged_Achievements": "2023-10-16T21:09:14.0478182+00:00",
+  "LastChanged_Achievements": "2023-10-16T22:09:33.9645418+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:01.3902355+00:00",
-  "LastUpdate_Ratings": "2023-10-16T21:05:52.7454949+00:00",
-  "LastUpdate_Achievements": "2023-10-16T21:09:14.0479306+00:00"
+  "LastUpdate_Ratings": "2023-10-16T22:05:41.3861166+00:00",
+  "LastUpdate_Achievements": "2023-10-16T22:09:33.9647036+00:00"
 }

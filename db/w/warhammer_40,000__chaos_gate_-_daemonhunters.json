@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 316,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -4087,9 +4087,9 @@
       "ID": "ReaperDefeated_Necrosus",
       "SetID": "3jha1np",
       "Name": "Junk Banishment",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 29
     },
     {
       "ID": "ReaperDefeated_Poxus",
@@ -4229,8 +4229,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-09-24T17:03:05.3976488+00:00",
-  "LastChanged_Achievements": "2023-10-16T21:07:04.7331625+00:00",
+  "LastChanged_Achievements": "2023-10-16T22:07:05.9058983+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:10.7881084+00:00",
-  "LastUpdate_Ratings": "2023-10-16T20:58:29.6552031+00:00",
-  "LastUpdate_Achievements": "2023-10-16T21:07:04.7332303+00:00"
+  "LastUpdate_Ratings": "2023-10-16T21:58:45.222215+00:00",
+  "LastUpdate_Achievements": "2023-10-16T22:07:05.9059967+00:00"
 }

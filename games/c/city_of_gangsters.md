@@ -5,17 +5,17 @@ Rating: 4.28 (Ranked 829)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~160,106 |
-| Copacetic Coordination | 16.00% | ~55,689 |
+| Corner Clout | 46.00% | ~160,108 |
+| Copacetic Coordination | 16.00% | ~55,690 |
 | Fronting the Money | 15.00% | ~52,209 |
-| The Dawn of Automation | 14.00% | ~48,728 |
-| Extraordinary Logistics | 14.00% | ~48,728 |
-| Dirty Money | 13.00% | ~45,247 |
-| Family First | 13.00% | ~45,247 |
+| The Dawn of Automation | 14.00% | ~48,729 |
+| Extraordinary Logistics | 14.00% | ~48,729 |
+| Dirty Money | 13.00% | ~45,248 |
+| Family First | 13.00% | ~45,248 |
 | Cleaning House | 12.00% | ~41,767 |
 | Room in the Back | 12.00% | ~41,767 |
-| Beating the Heat | 11.00% | ~38,286 |
-| Booze Baron | 11.00% | ~38,286 |
+| Beating the Heat | 11.00% | ~38,287 |
+| Booze Baron | 11.00% | ~38,287 |
 | Friends on the Force | 10.00% | ~34,806 |
 | Neighborhood Watch | 10.00% | ~34,806 |
 | Core Corps | 8.00% | ~27,845 |
@@ -23,12 +23,12 @@ Rating: 4.28 (Ranked 829)
 | Street Fighter | 7.00% | ~24,364 |
 | Friendly Gestures | 7.00% | ~24,364 |
 | People Person | 7.00% | ~24,364 |
-| Liquor Lord | 6.00% | ~20,883 |
-| Safety in Numbers | 6.00% | ~20,883 |
-| Moving Experiences | 6.00% | ~20,883 |
-| Wise Head | 6.00% | ~20,883 |
-| Show ‘em the Sugar | 6.00% | ~20,883 |
-| Killing Them Softly | 6.00% | ~20,883 |
+| Liquor Lord | 6.00% | ~20,884 |
+| Safety in Numbers | 6.00% | ~20,884 |
+| Moving Experiences | 6.00% | ~20,884 |
+| Wise Head | 6.00% | ~20,884 |
+| Show ‘em the Sugar | 6.00% | ~20,884 |
+| Killing Them Softly | 6.00% | ~20,884 |
 | Street Knowledge | 5.00% | ~17,403 |
 | Oh Captain | 5.00% | ~17,403 |
 | Branching Out | 5.00% | ~17,403 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 829)
 | High Pillow | 0.10% | ~348 |
 | Station Master | 0.10% | ~348 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 348,057 (Ranked 43)  
+Progressed: 348,061 (Ranked 43)  
 Completed: 7 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,7 +265,7 @@ Completed: 7 (0.00%) (Ranked 315)
 | 2023-10-13 | 347,589 | 7 |
 | 2023-10-14 | 347,785 | 7 |
 | 2023-10-15 | 347,944 | 7 |
-| 2023-10-16 | 348,057 | 7 |
+| 2023-10-16 | 348,061 | 7 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 446)  
 Sum: 177 (Ranked 399)  
