@@ -2,7 +2,7 @@
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 1 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 100.00% |
-| 3 | [The Riflemen](games/t/the_riflemen.md) | 48.76% |
+| 3 | [The Riflemen](games/t/the_riflemen.md) | 48.74% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.15% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.99% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
@@ -74,7 +74,7 @@
 | 72 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.00% |
 | 73 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.81% |
 | 74 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
-| 75 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.61% |
+| 75 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.60% |
 | 76 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
 | 77 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.51% |
 | 78 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
@@ -105,12 +105,12 @@
 | 103 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.41% |
 | 104 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.40% |
 | 105 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.37% |
-| 106 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.31% |
 | 106 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.31% |
+| 107 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.30% |
 | 108 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.22% |
 | 109 | [Bloodshore](games/b/bloodshore.md) | 2.14% |
 | 110 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.02% |
-| 111 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.98% |
+| 111 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.97% |
 | 112 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.96% |
 | 113 | [Night Book](games/n/night_book.md) | 1.84% |
 | 113 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
@@ -140,10 +140,10 @@
 | 138 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.12% |
 | 139 | [Trifox](games/t/trifox.md) | 1.09% |
 | 140 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.08% |
-| 141 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 1.06% |
-| 142 | [Adios](games/a/adios.md) | 1.05% |
-| 142 | [Infindustry](games/i/infindustry.md) | 1.05% |
-| 142 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.05% |
+| 141 | [Adios](games/a/adios.md) | 1.05% |
+| 141 | [Infindustry](games/i/infindustry.md) | 1.05% |
+| 141 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.05% |
+| 144 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 1.04% |
 | 145 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.02% |
 | 146 | [Sable](games/s/sable.md) | 1.01% |
 | 147 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.99% |
@@ -184,7 +184,7 @@
 | 178 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.46% |
 | 178 | [Them and Us](games/t/them_and_us.md) | 0.46% |
 | 184 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.45% |
-| 185 | [It Takes Two](games/i/it_takes_two.md) | 0.44% |
+| 184 | [It Takes Two](games/i/it_takes_two.md) | 0.45% |
 | 186 | [Tchia](games/t/tchia.md) | 0.43% |
 | 187 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.42% |
 | 187 | [Wildermyth](games/w/wildermyth.md) | 0.42% |
@@ -221,9 +221,9 @@
 | 218 | [Going Medieval](games/g/going_medieval.md) | 0.22% |
 | 220 | [Blanc](games/b/blanc.md) | 0.21% |
 | 220 | [Circus Electrique](games/c/circus_electrique.md) | 0.21% |
-| 220 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.21% |
-| 223 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.20% |
-| 223 | [Remnant 2](games/r/remnant_2.md) | 0.20% |
+| 222 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.20% |
+| 222 | [Remnant 2](games/r/remnant_2.md) | 0.20% |
+| 222 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.20% |
 | 225 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.19% |
 | 225 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.19% |
 | 227 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.18% |
