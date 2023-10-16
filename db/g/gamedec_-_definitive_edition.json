@@ -438,7 +438,7 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 249260,
+  "EOS_Progressed": 249261,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 740,
   "EOS_NewCompleters": 0,
@@ -20398,6 +20398,11 @@
       "Time": "2023-10-16T07:09:58.8494739+00:00",
       "NumProgressed": 249260,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-16T08:09:23.2862354+00:00",
+      "NumProgressed": 249261,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -20625,7 +20630,7 @@
       "Name": "Write that down",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 59822
+      "UsersEstimate": 59823
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -20824,7 +20829,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 249260,
+      "Progressed": 249261,
       "Completed": 7
     }
   ],
@@ -20832,8 +20837,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-10-15T11:58:28.2667382+00:00",
-  "LastChanged_Achievements": "2023-10-16T07:09:58.8494731+00:00",
+  "LastChanged_Achievements": "2023-10-16T08:09:23.2862348+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:29.8544864+00:00",
-  "LastUpdate_Ratings": "2023-10-16T06:58:40.2012572+00:00",
-  "LastUpdate_Achievements": "2023-10-16T07:09:58.8497315+00:00"
+  "LastUpdate_Ratings": "2023-10-16T07:58:18.309604+00:00",
+  "LastUpdate_Achievements": "2023-10-16T08:09:23.286397+00:00"
 }

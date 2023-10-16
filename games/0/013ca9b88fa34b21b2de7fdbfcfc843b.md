@@ -24,10 +24,10 @@ Rating: 4.65 (Ranked 300)
 | Search for the Hairy Grell | 12.00% | ~805 |
 | Skilled | 8.00% | ~537 |
 | Flaming Hot Completos | 7.00% | ~469 |
+| Fae Farmer | 7.00% | ~469 |
 | Got to Catch Them All | 7.00% | ~469 |
 | Rumble in the Jumble | 7.00% | ~469 |
 | Fanatical Farmer | 7.00% | ~469 |
-| Fae Farmer | 6.00% | ~402 |
 | Azorian Anniversary | 6.00% | ~402 |
 | Scattered Scroll Scrounger | 5.00% | ~335 |
 | I Now Pronounce You... | 4.00% | ~268 |

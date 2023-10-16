@@ -1,40 +1,40 @@
 # Godlike Burger
 [Store](https://store.epicgames.com/en-US/p/godlike-burger-4150a0)  
 [View Rawdata](../../db/g/godlike_burger.json)  
-Rating: 4.46 (Ranked 628)  
+Rating: 4.45 (Ranked 645)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~144,067 |
-| FIRST BLOOD | 40.00% | ~128,060 |
-| KEVIN! | 30.00% | ~96,045 |
-| JACK OF ALL TRADES | 23.00% | ~73,634 |
-| CRIMINAL | 19.00% | ~60,828 |
-| GRANDMA WOULD BE PROUD | 11.00% | ~35,216 |
-| WITHOUT BREAKING A SWEAT | 9.00% | ~28,813 |
-| HONORS STUDENT | 7.00% | ~22,410 |
-| BUTCHER | 5.00% | ~16,007 |
-| RAMBO | 5.00% | ~16,007 |
-| INDIVIDUAL APPROACH | 4.00% | ~12,806 |
-| HELL'S KITCHEN | 3.00% | ~9,604 |
-| CELEBRITY | 2.00% | ~6,403 |
-| MARTYR | 2.00% | ~6,403 |
-| GRATITUDE | 1.00% | ~3,201 |
-| PATTY-KILLER | 0.90% | ~2,881 |
-| PRUDENT | 0.90% | ~2,881 |
-| GOURMET | 0.70% | ~2,241 |
-| LAW-ABIDING CITIZEN | 0.70% | ~2,241 |
+| MASTER CHEF | 45.00% | ~144,106 |
+| FIRST BLOOD | 40.00% | ~128,094 |
+| KEVIN! | 30.00% | ~96,071 |
+| JACK OF ALL TRADES | 23.00% | ~73,654 |
+| CRIMINAL | 19.00% | ~60,845 |
+| GRANDMA WOULD BE PROUD | 11.00% | ~35,226 |
+| WITHOUT BREAKING A SWEAT | 9.00% | ~28,821 |
+| HONORS STUDENT | 7.00% | ~22,417 |
+| BUTCHER | 5.00% | ~16,012 |
+| RAMBO | 5.00% | ~16,012 |
+| INDIVIDUAL APPROACH | 4.00% | ~12,809 |
+| HELL'S KITCHEN | 3.00% | ~9,607 |
+| CELEBRITY | 2.00% | ~6,405 |
+| MARTYR | 2.00% | ~6,405 |
+| GRATITUDE | 1.00% | ~3,202 |
+| PATTY-KILLER | 0.90% | ~2,882 |
+| PRUDENT | 0.90% | ~2,882 |
+| GOURMET | 0.70% | ~2,242 |
+| LAW-ABIDING CITIZEN | 0.70% | ~2,242 |
 | EXPERIMENTALIST | 0.60% | ~1,921 |
 | SCATTERBRAIN | 0.40% | ~1,281 |
-| HIGH TECHNOLOGIES | 0.30% | ~960 |
-| TASTE UNTASTY | 0.30% | ~960 |
+| HIGH TECHNOLOGIES | 0.30% | ~961 |
+| TASTE UNTASTY | 0.30% | ~961 |
 | CORRUPTIONIST | 0.10% | ~320 |
 | DEBTOR | 0.10% | ~320 |
 | I'VE SEEN SOME… | 0.10% | ~320 |
 | MISTER ALL THUMBS | 0.10% | ~320 |
 | TRAVELER | 0.10% | ~320 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 320,149 (Ranked 45)  
+Progressed: 320,236 (Ranked 45)  
 Completed: 12 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 12 (0.00%) (Ranked 314)
 | 2023-10-13 | 307,072 | 10 |
 | 2023-10-14 | 314,021 | 12 |
 | 2023-10-15 | 319,249 | 12 |
-| 2023-10-16 | 320,149 | 12 |
+| 2023-10-16 | 320,236 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

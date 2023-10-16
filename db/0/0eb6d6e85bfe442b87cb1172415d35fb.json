@@ -373,9 +373,9 @@
       "ID": "RegionalAirport",
       "SetID": "d11cl5p",
       "Name": "Regional airport",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Scan750MBags",
@@ -477,9 +477,9 @@
       "ID": "WhenIsTheNextDevBlog",
       "SetID": "d11cl5p",
       "Name": "\u0022When is the next dev blog?\u0022",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "YoungSuccessfullEntrepreneur",
@@ -500,8 +500,8 @@
   ],
   "FirstSeen": "2023-09-02T13:02:28.4911547+00:00",
   "FirstSeenAchievements": "2023-07-27T10:02:52.8790419+00:00",
-  "LastChanged_Achievements": "2023-10-16T07:04:10.2935859+00:00",
+  "LastChanged_Achievements": "2023-10-16T08:03:41.6487187+00:00",
   "LastUpdate_AppInfo": "2023-10-11T15:57:05.906412+00:00",
-  "LastUpdate_Ratings": "2023-10-16T07:00:54.2591641+00:00",
-  "LastUpdate_Achievements": "2023-10-16T07:04:10.2936251+00:00"
+  "LastUpdate_Ratings": "2023-10-16T07:59:53.8259293+00:00",
+  "LastUpdate_Achievements": "2023-10-16T08:03:41.648747+00:00"
 }

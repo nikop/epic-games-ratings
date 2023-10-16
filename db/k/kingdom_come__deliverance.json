@@ -7872,9 +7872,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 804993,
+  "EOS_Progressed": 804994,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 805,
+  "EOS_NewPlayers": 804,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -27857,6 +27857,11 @@
       "Time": "2023-10-16T07:04:06.4752351+00:00",
       "NumProgressed": 804993,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-16T08:03:38.9339749+00:00",
+      "NumProgressed": 804994,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -28068,7 +28073,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 185148
+      "UsersEstimate": 185149
     },
     {
       "ID": "Fighter",
@@ -28523,15 +28528,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 804993,
+      "Progressed": 804994,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-10-15T23:57:14.3360837+00:00",
-  "LastChanged_Achievements": "2023-10-16T07:04:06.4752344+00:00",
+  "LastChanged_Achievements": "2023-10-16T08:03:38.9339745+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:13.6850555+00:00",
-  "LastUpdate_Ratings": "2023-10-16T06:57:41.6396535+00:00",
-  "LastUpdate_Achievements": "2023-10-16T07:04:06.4756375+00:00"
+  "LastUpdate_Ratings": "2023-10-16T07:57:39.8236711+00:00",
+  "LastUpdate_Achievements": "2023-10-16T08:03:38.9342025+00:00"
 }

@@ -6,34 +6,34 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~32,079 |
-| Just The Two of Us | 32.00% | ~30,192 |
-| Up On High | 25.00% | ~23,588 |
-| Under The Hood | 25.00% | ~23,588 |
-| Got Your Nose | 24.00% | ~22,644 |
-| The Gift of Gab | 24.00% | ~22,644 |
-| Wrapping Up | 22.00% | ~20,757 |
-| More Than A Box Of Sand | 18.00% | ~16,983 |
-| The Dunboyne | 17.00% | ~16,040 |
-| Badge Hobbyist | 17.00% | ~16,040 |
-| Chum Novice | 16.00% | ~15,096 |
-| Silver-Tongued Sable | 16.00% | ~15,096 |
-| Sticky Paws | 16.00% | ~15,096 |
-| Bubble Up | 16.00% | ~15,096 |
+| Simoon | 34.00% | ~32,081 |
+| Just The Two of Us | 32.00% | ~30,194 |
+| Up On High | 25.00% | ~23,589 |
+| Under The Hood | 25.00% | ~23,589 |
+| Got Your Nose | 24.00% | ~22,645 |
+| The Gift of Gab | 24.00% | ~22,645 |
+| Wrapping Up | 22.00% | ~20,758 |
+| More Than A Box Of Sand | 18.00% | ~16,984 |
+| The Dunboyne | 17.00% | ~16,041 |
+| Badge Hobbyist | 17.00% | ~16,041 |
+| Chum Novice | 16.00% | ~15,097 |
+| Silver-Tongued Sable | 16.00% | ~15,097 |
+| Sticky Paws | 16.00% | ~15,097 |
+| Bubble Up | 16.00% | ~15,097 |
 | Thread The Needle | 15.00% | ~14,153 |
-| Power to the People | 14.00% | ~13,209 |
+| Power to the People | 14.00% | ~13,210 |
 | Take That! | 13.00% | ~12,266 |
 | Nesting Giant | 13.00% | ~12,266 |
 | Treasure Tracker | 13.00% | ~12,266 |
 | Big Spender | 13.00% | ~12,266 |
-| Badge Collector | 12.00% | ~11,322 |
-| Quite The Catch | 12.00% | ~11,322 |
+| Badge Collector | 12.00% | ~11,323 |
+| Quite The Catch | 12.00% | ~11,323 |
 | Rowleys Way | 11.00% | ~10,379 |
-| The Machinist Mask | 10.00% | ~9,435 |
-| The Cartographer Mask | 10.00% | ~9,435 |
-| Balfron Connection | 10.00% | ~9,435 |
-| Ceiling Of Stars | 10.00% | ~9,435 |
-| Playing Dress Up | 10.00% | ~9,435 |
+| The Machinist Mask | 10.00% | ~9,436 |
+| The Cartographer Mask | 10.00% | ~9,436 |
+| Balfron Connection | 10.00% | ~9,436 |
+| Ceiling Of Stars | 10.00% | ~9,436 |
+| Playing Dress Up | 10.00% | ~9,436 |
 | Many Different Faces | 9.00% | ~8,492 |
 | Trellick's Pillar | 9.00% | ~8,492 |
 | Centre Of Brunswick | 9.00% | ~8,492 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~2,831 |
 | Vivacious Vivarium | 2.00% | ~1,887 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 94,351 (Ranked 82)  
+Progressed: 94,356 (Ranked 82)  
 Completed: 950 (1.01%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,7 +242,7 @@ Completed: 950 (1.01%) (Ranked 146)
 | 2023-10-13 | 93,920 | 944 |
 | 2023-10-14 | 94,125 | 946 |
 | 2023-10-15 | 94,319 | 950 |
-| 2023-10-16 | 94,351 | 950 |
+| 2023-10-16 | 94,356 | 950 |
 ## Awards
 Max (Quickly Understood Controls): 24  (Ranked 509)  
 Sum: 88 (Ranked 438)  

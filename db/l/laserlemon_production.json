@@ -236,9 +236,9 @@
       "ID": "TheLair",
       "SetID": "c36hpcf",
       "Name": "The Lair",
-      "Percentage": 9,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ThePrison",
@@ -266,8 +266,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-15T10:05:55.6712787+00:00",
-  "LastChanged_Achievements": "2023-10-16T07:06:47.3863209+00:00",
+  "LastChanged_Achievements": "2023-10-16T08:05:43.7827912+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:33:12.9758527+00:00",
-  "LastUpdate_Ratings": "2023-10-16T07:00:45.1565084+00:00",
-  "LastUpdate_Achievements": "2023-10-16T07:06:47.3863389+00:00"
+  "LastUpdate_Ratings": "2023-10-16T07:59:46.2958246+00:00",
+  "LastUpdate_Achievements": "2023-10-16T08:05:43.7828164+00:00"
 }

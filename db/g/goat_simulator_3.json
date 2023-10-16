@@ -4444,9 +4444,9 @@
       "Count": 304
     }
   ],
-  "EOS_Progressed": 247705,
+  "EOS_Progressed": 247706,
   "EOS_Completed": 858,
-  "EOS_NewPlayers": 851,
+  "EOS_NewPlayers": 852,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -23934,6 +23934,11 @@
       "Time": "2023-10-16T07:07:00.4724789+00:00",
       "NumProgressed": 247705,
       "NumCompleted": 858
+    },
+    {
+      "Time": "2023-10-16T08:05:53.1479547+00:00",
+      "NumProgressed": 247706,
+      "NumCompleted": 858
     }
   ],
   "TotalAchievements": 39,
@@ -23977,7 +23982,7 @@
       "Name": "San Angora: Become Human",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 66880
+      "UsersEstimate": 66881
     },
     {
       "ID": "AchievementBigFootID",
@@ -24001,7 +24006,7 @@
       "Name": "Raider of the Lost Parking Garage",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 64403
+      "UsersEstimate": 64404
     },
     {
       "ID": "AchievementCastleRenovationID",
@@ -24033,7 +24038,7 @@
       "Name": "Don\u0027t touch the servers",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 69357
+      "UsersEstimate": 69358
     },
     {
       "ID": "AchievementEggID",
@@ -24105,7 +24110,7 @@
       "Name": "Secret Society",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 111467
+      "UsersEstimate": 111468
     },
     {
       "ID": "AchievementIntroID",
@@ -24193,7 +24198,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 123852
+      "UsersEstimate": 123853
     },
     {
       "ID": "AchievementStreakingID",
@@ -24225,7 +24230,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 116421
+      "UsersEstimate": 116422
     },
     {
       "ID": "AchievementTrinketID",
@@ -24241,7 +24246,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 161008
+      "UsersEstimate": 161009
     },
     {
       "ID": "AchievementWhaleID",
@@ -24249,14 +24254,14 @@
       "Name": "Real Buoy",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 66880
+      "UsersEstimate": 66881
     }
   ],
   "AchievementSets": [
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 247705,
+      "Progressed": 247706,
       "Completed": 858
     }
   ],
@@ -24264,8 +24269,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-10-15T23:01:11.2408734+00:00",
-  "LastChanged_Achievements": "2023-10-16T07:07:00.472478+00:00",
+  "LastChanged_Achievements": "2023-10-16T08:05:53.1479541+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:27.2965539+00:00",
-  "LastUpdate_Ratings": "2023-10-16T07:01:15.6056022+00:00",
-  "LastUpdate_Achievements": "2023-10-16T07:07:00.4727027+00:00"
+  "LastUpdate_Ratings": "2023-10-16T08:00:10.842304+00:00",
+  "LastUpdate_Achievements": "2023-10-16T08:05:53.1482236+00:00"
 }

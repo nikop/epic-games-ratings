@@ -7,11 +7,11 @@ Number of Ratings: 68  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I'm not dead yet | 44.00% | ~6,040 |
-| Overkill | 34.00% | ~4,667 |
-| A normal day in Gloomhaven | 34.00% | ~4,667 |
+| Overkill | 34.00% | ~4,668 |
+| A normal day in Gloomhaven | 34.00% | ~4,668 |
 | Vaccine Incoming | 33.00% | ~4,530 |
-| Spread the plague | 31.00% | ~4,255 |
-| Get over here! | 24.00% | ~3,294 |
+| Spread the plague | 31.00% | ~4,256 |
+| Get over here! | 24.00% | ~3,295 |
 | Just when I thought I was out... | 19.00% | ~2,608 |
 | Mine... All Mine... | 17.00% | ~2,334 |
 | Precious! | 16.00% | ~2,196 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~14 |
 | Murder Death Kill | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,727 (Ranked 139)  
+Progressed: 13,728 (Ranked 139)  
 Completed: 1 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 1 (0.01%) (Ranked 296)
 | 2023-10-13 | 12,946 | 1 |
 | 2023-10-14 | 13,296 | 1 |
 | 2023-10-15 | 13,656 | 1 |
-| 2023-10-16 | 13,727 | 1 |
+| 2023-10-16 | 13,728 | 1 |
 ## Awards
 Max (Character Customization): 3,554  (Ranked 90)  
 Sum: 8,293 (Ranked 98)  

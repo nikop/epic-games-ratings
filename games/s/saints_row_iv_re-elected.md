@@ -5,17 +5,17 @@ Rating: 4.41 (Ranked 698)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zero Saints Thirty | 63.00% | ~179,862 |
-| Destroyer-In-Chief | 57.00% | ~162,733 |
-| There Is No Pancakes | 54.00% | ~154,168 |
-| First of Many | 42.00% | ~119,908 |
-| Woah. | 37.00% | ~105,634 |
-| Don't Look Down | 29.00% | ~82,794 |
-| Don't Panic | 28.00% | ~79,939 |
-| Ooo A Piece of Candy! | 23.00% | ~65,664 |
-| Ghost in the Machine | 18.00% | ~51,389 |
-| All Too Easy | 15.00% | ~42,824 |
-| Didn't Need to See Him Naked | 14.00% | ~39,969 |
+| Zero Saints Thirty | 63.00% | ~179,868 |
+| Destroyer-In-Chief | 57.00% | ~162,737 |
+| There Is No Pancakes | 54.00% | ~154,172 |
+| First of Many | 42.00% | ~119,912 |
+| Woah. | 37.00% | ~105,636 |
+| Don't Look Down | 29.00% | ~82,796 |
+| Don't Panic | 28.00% | ~79,941 |
+| Ooo A Piece of Candy! | 23.00% | ~65,666 |
+| Ghost in the Machine | 18.00% | ~51,391 |
+| All Too Easy | 15.00% | ~42,826 |
+| Didn't Need to See Him Naked | 14.00% | ~39,971 |
 | Indomitable | 10.00% | ~28,550 |
 | Blast from the Past | 9.00% | ~25,695 |
 | Bow to the Boss! | 9.00% | ~25,695 |
@@ -56,29 +56,29 @@ Rating: 4.41 (Ranked 698)
 | Switch Hitter | 1.00% | ~2,855 |
 | The Whole Story | 1.00% | ~2,855 |
 | Zoo Keeper | 1.00% | ~2,855 |
-| Make a List, Check it Twice | 0.90% | ~2,569 |
-| Back in the Day | 0.70% | ~1,998 |
-| Dear Santa | 0.70% | ~1,998 |
-| Rigging the Race | 0.70% | ~1,998 |
-| Health Inspector | 0.50% | ~1,427 |
+| Make a List, Check it Twice | 0.90% | ~2,570 |
+| Back in the Day | 0.70% | ~1,999 |
+| Dear Santa | 0.70% | ~1,999 |
+| Rigging the Race | 0.70% | ~1,999 |
+| Health Inspector | 0.50% | ~1,428 |
 | Bringin' the Heat | 0.40% | ~1,142 |
 | Walking the Dinosaur | 0.40% | ~1,142 |
-| Experimental Tech | 0.30% | ~856 |
-| Fist Meet Ground | 0.30% | ~856 |
-| Fourth and Forty | 0.30% | ~856 |
-| The Challenge King | 0.30% | ~856 |
-| A World Without Christmas | 0.10% | ~285 |
-| Epic Jump Quest | 0.10% | ~285 |
-| Get that Kid to a Psychologist | 0.10% | ~285 |
-| He's Still on the Naughty List | 0.10% | ~285 |
-| Hello Little Friend | 0.10% | ~285 |
-| I Am Become Death | 0.10% | ~285 |
-| OMGWTFBBQ | 0.10% | ~285 |
-| Pounding the Pavement | 0.10% | ~285 |
-| Super Power Team Up! | 0.10% | ~285 |
-| Ultimate Hot Potato | 0.10% | ~285 |
+| Experimental Tech | 0.30% | ~857 |
+| Fist Meet Ground | 0.30% | ~857 |
+| Fourth and Forty | 0.30% | ~857 |
+| The Challenge King | 0.30% | ~857 |
+| A World Without Christmas | 0.10% | ~286 |
+| Epic Jump Quest | 0.10% | ~286 |
+| Get that Kid to a Psychologist | 0.10% | ~286 |
+| He's Still on the Naughty List | 0.10% | ~286 |
+| Hello Little Friend | 0.10% | ~286 |
+| I Am Become Death | 0.10% | ~286 |
+| OMGWTFBBQ | 0.10% | ~286 |
+| Pounding the Pavement | 0.10% | ~286 |
+| Super Power Team Up! | 0.10% | ~286 |
+| Ultimate Hot Potato | 0.10% | ~286 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 285,496 (Ranked 48)  
+Progressed: 285,504 (Ranked 48)  
 Completed: 15 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 15 (0.01%) (Ranked 296)
 | 2023-10-13 | 283,895 | 15 |
 | 2023-10-14 | 284,609 | 15 |
 | 2023-10-15 | 285,343 | 15 |
-| 2023-10-16 | 285,496 | 15 |
+| 2023-10-16 | 285,504 | 15 |
 ## Awards
 Max (Great Boss Battles): 471  (Ranked 208)  
 Sum: 471 (Ranked 317)  

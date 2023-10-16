@@ -2150,9 +2150,9 @@
       "Count": 211
     }
   ],
-  "EOS_Progressed": 13727,
+  "EOS_Progressed": 13728,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2020,
+  "EOS_NewPlayers": 2016,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5485,6 +5485,11 @@
       "Time": "2023-10-16T07:04:01.1453751+00:00",
       "NumProgressed": 13727,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-16T08:03:34.7616873+00:00",
+      "NumProgressed": 13728,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -5697,7 +5702,7 @@
       "Name": "Overkill",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 4667
+      "UsersEstimate": 4668
     },
     {
       "ID": "Achievement_Trophy27",
@@ -5729,7 +5734,7 @@
       "Name": "Spread the plague",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 4255
+      "UsersEstimate": 4256
     },
     {
       "ID": "Achievement_Trophy31",
@@ -5737,7 +5742,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 4667
+      "UsersEstimate": 4668
     },
     {
       "ID": "Achievement_Trophy32",
@@ -5785,7 +5790,7 @@
       "Name": "Get over here!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 3294
+      "UsersEstimate": 3295
     },
     {
       "ID": "Achievement_Trophy38",
@@ -5984,7 +5989,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 13727,
+      "Progressed": 13728,
       "Completed": 1
     }
   ],
@@ -5992,8 +5997,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-10-15T22:00:58.8917219+00:00",
-  "LastChanged_Achievements": "2023-10-16T07:04:01.1453744+00:00",
+  "LastChanged_Achievements": "2023-10-16T08:03:34.7616867+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:22.010482+00:00",
-  "LastUpdate_Ratings": "2023-10-16T07:00:52.0908882+00:00",
-  "LastUpdate_Achievements": "2023-10-16T07:04:01.145485+00:00"
+  "LastUpdate_Ratings": "2023-10-16T07:59:52.5623175+00:00",
+  "LastUpdate_Achievements": "2023-10-16T08:03:34.7617898+00:00"
 }

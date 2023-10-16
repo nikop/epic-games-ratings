@@ -21,6 +21,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Friendly Family | 2.00% | ~295 |
 | Hanging Gardens | 2.00% | ~295 |
 | Oracle | 2.00% | ~295 |
+| Trade Caravan | 2.00% | ~295 |
 | Kushite Paganism | 2.00% | ~295 |
 | Ambitious | 1.00% | ~147 |
 | Brilliant | 1.00% | ~147 |
@@ -50,7 +51,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Roman Paganism | 1.00% | ~147 |
 | Zoroastrianism | 1.00% | ~147 |
 | Naming Landmarks | 1.00% | ~147 |
-| Trade Caravan | 1.00% | ~147 |
 | Kushite Pyramids | 1.00% | ~147 |
 | Drillmaster | 0.90% | ~133 |
 | Great | 0.90% | ~133 |

@@ -1,17 +1,18 @@
 # Dead by Daylight
 [Store](https://store.epicgames.com/en-US/p/dead-by-daylight)  
 [View Rawdata](../../db/d/dead_by_daylight.json)  
-Rating: 4.51 (Ranked 552)  
+Rating: 4.51 (Ranked 551)  
 Number of Ratings: 70,340  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 2.00% | ~18,859 |
-| It wakes | 2.00% | ~18,859 |
-| Not half bad | 2.00% | ~18,859 |
-| Survival Treasures | 2.00% | ~18,859 |
-| Skillful | 2.00% | ~18,859 |
-| Make Some Noise | 2.00% | ~18,859 |
+| Zealous | 2.00% | ~18,860 |
+| It wakes | 2.00% | ~18,860 |
+| Not half bad | 2.00% | ~18,860 |
+| Apt Survivor | 2.00% | ~18,860 |
+| Survival Treasures | 2.00% | ~18,860 |
+| Skillful | 2.00% | ~18,860 |
+| Make Some Noise | 2.00% | ~18,860 |
 | The Grand Sacrifice | 1.00% | ~9,430 |
 | Agonizing Escape | 1.00% | ~9,430 |
 | Backdoor Escape | 1.00% | ~9,430 |
@@ -20,7 +21,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Handyman | 1.00% | ~9,430 |
 | Perfect Escape | 1.00% | ~9,430 |
 | Bloody Millionaire | 1.00% | ~9,430 |
-| Apt Survivor | 1.00% | ~9,430 |
 | I | 1.00% | ~9,430 |
 | Engineer | 1.00% | ~9,430 |
 | Sorted | 1.00% | ~9,430 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~943 |
 | Adept Ripley | 0.10% | ~943 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 942,967 (Ranked 14)  
+Progressed: 943,014 (Ranked 14)  
 Completed: 51 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -415,7 +415,7 @@ Completed: 51 (0.01%) (Ranked 296)
 | 2023-10-13 | 937,037 | 50 |
 | 2023-10-14 | 939,759 | 50 |
 | 2023-10-15 | 942,498 | 51 |
-| 2023-10-16 | 942,967 | 51 |
+| 2023-10-16 | 943,014 | 51 |
 ## Awards
 Max (Diverse Characters): 33,980  (Ranked 15)  
 Sum: 262,716 (Ranked 13)  

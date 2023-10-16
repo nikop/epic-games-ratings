@@ -4455,9 +4455,9 @@
       "ID": "CHAPTER_8_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Fae Farmer",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 402
+      "UsersEstimate": 469
     },
     {
       "ID": "COLLECT_CLOVER",
@@ -4688,8 +4688,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-14T10:58:26.1451757+00:00",
-  "LastChanged_Achievements": "2023-10-16T07:05:29.0079714+00:00",
+  "LastChanged_Achievements": "2023-10-16T08:04:47.5545986+00:00",
   "LastUpdate_AppInfo": "2023-10-13T06:57:01.9287951+00:00",
-  "LastUpdate_Ratings": "2023-10-16T06:59:03.3732759+00:00",
-  "LastUpdate_Achievements": "2023-10-16T07:05:29.0080665+00:00"
+  "LastUpdate_Ratings": "2023-10-16T07:58:34.9446219+00:00",
+  "LastUpdate_Achievements": "2023-10-16T08:04:47.5546917+00:00"
 }
