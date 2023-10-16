@@ -6,7 +6,7 @@
   "Ranking_Popularity": 537,
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 89,
-  "Ranking_EOS_Completed": 141,
+  "Ranking_EOS_Completed": 142,
   "Ranking_EOS_NewPlayers": 85,
   "Ranking_EOS_NewCompleters": 15,
   "Store": {
@@ -114,9 +114,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 75989,
+  "EOS_Progressed": 75992,
   "EOS_Completed": 799,
-  "EOS_NewPlayers": 587,
+  "EOS_NewPlayers": 586,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -20124,6 +20124,11 @@
       "Time": "2023-10-16T20:06:39.0631099+00:00",
       "NumProgressed": 75989,
       "NumCompleted": 799
+    },
+    {
+      "Time": "2023-10-16T21:08:14.0899596+00:00",
+      "NumProgressed": 75992,
+      "NumCompleted": 799
     }
   ],
   "TotalAchievements": 25,
@@ -20151,7 +20156,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 13678
+      "UsersEstimate": 13679
     },
     {
       "ID": "Audiophile",
@@ -20175,7 +20180,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 13678
+      "UsersEstimate": 13679
     },
     {
       "ID": "Butcher",
@@ -20191,7 +20196,7 @@
       "Name": "Cut Call",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 4559
+      "UsersEstimate": 4560
     },
     {
       "ID": "Fair\u0027sFair",
@@ -20231,7 +20236,7 @@
       "Name": "Magnetic Miracles",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 3799
+      "UsersEstimate": 3800
     },
     {
       "ID": "Master, Commander",
@@ -20263,7 +20268,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 12158
+      "UsersEstimate": 12159
     },
     {
       "ID": "Nothing Left to Say",
@@ -20334,7 +20339,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 75989,
+      "Progressed": 75992,
       "Completed": 799
     }
   ],
@@ -20342,8 +20347,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-10-16T20:06:39.0631094+00:00",
+  "LastChanged_Achievements": "2023-10-16T21:08:14.0899594+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:21.8706974+00:00",
-  "LastUpdate_Ratings": "2023-10-16T20:02:16.447748+00:00",
-  "LastUpdate_Achievements": "2023-10-16T20:06:39.0632369+00:00"
+  "LastUpdate_Ratings": "2023-10-16T21:02:59.422618+00:00",
+  "LastUpdate_Achievements": "2023-10-16T21:08:14.0900666+00:00"
 }

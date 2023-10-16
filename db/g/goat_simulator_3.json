@@ -6,7 +6,7 @@
   "Ranking_Popularity": 218,
   "Ranking_PopularitySum": 158,
   "Ranking_EOS_Progress": 54,
-  "Ranking_EOS_Completed": 198,
+  "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 71,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
@@ -4444,9 +4444,9 @@
       "Count": 304
     }
   ],
-  "EOS_Progressed": 247759,
+  "EOS_Progressed": 247761,
   "EOS_Completed": 858,
-  "EOS_NewPlayers": 842,
+  "EOS_NewPlayers": 829,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -23999,6 +23999,11 @@
       "Time": "2023-10-16T20:08:22.4511208+00:00",
       "NumProgressed": 247759,
       "NumCompleted": 858
+    },
+    {
+      "Time": "2023-10-16T21:09:28.7349319+00:00",
+      "NumProgressed": 247761,
+      "NumCompleted": 858
     }
   ],
   "TotalAchievements": 39,
@@ -24066,7 +24071,7 @@
       "Name": "Raider of the Lost Parking Garage",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 64417
+      "UsersEstimate": 64418
     },
     {
       "ID": "AchievementCastleRenovationID",
@@ -24074,7 +24079,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 225461
+      "UsersEstimate": 225463
     },
     {
       "ID": "AchievementClownID",
@@ -24122,7 +24127,7 @@
       "Name": "What a Waste of Money",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 81760
+      "UsersEstimate": 81761
     },
     {
       "ID": "AchievementGoatID",
@@ -24138,7 +24143,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 131312
+      "UsersEstimate": 131313
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -24146,7 +24151,7 @@
       "Name": "Into the Matrix",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 47074
+      "UsersEstimate": 47075
     },
     {
       "ID": "AchievementINirvanaID",
@@ -24178,7 +24183,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 141223
+      "UsersEstimate": 141224
     },
     {
       "ID": "AchievementLootBoxID",
@@ -24186,7 +24191,7 @@
       "Name": "Black Market",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 34686
+      "UsersEstimate": 34687
     },
     {
       "ID": "AchievementMascotPoopID",
@@ -24210,7 +24215,7 @@
       "Name": "Shadow Syndicate",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 94148
+      "UsersEstimate": 94149
     },
     {
       "ID": "AchievementRampID",
@@ -24242,7 +24247,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 183342
+      "UsersEstimate": 183343
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -24274,7 +24279,7 @@
       "Name": "401(K.O.)",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 34686
+      "UsersEstimate": 34687
     },
     {
       "ID": "AchievementThroneID",
@@ -24282,7 +24287,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 136267
+      "UsersEstimate": 136269
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -24290,7 +24295,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 116447
+      "UsersEstimate": 116448
     },
     {
       "ID": "AchievementTrinketID",
@@ -24306,7 +24311,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 161043
+      "UsersEstimate": 161045
     },
     {
       "ID": "AchievementWhaleID",
@@ -24321,7 +24326,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 247759,
+      "Progressed": 247761,
       "Completed": 858
     }
   ],
@@ -24329,8 +24334,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-10-15T23:01:11.2408734+00:00",
-  "LastChanged_Achievements": "2023-10-16T20:08:22.4511202+00:00",
+  "LastChanged_Achievements": "2023-10-16T21:09:28.734931+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:27.2965539+00:00",
-  "LastUpdate_Ratings": "2023-10-16T20:02:49.070064+00:00",
-  "LastUpdate_Achievements": "2023-10-16T20:08:22.4512593+00:00"
+  "LastUpdate_Ratings": "2023-10-16T21:03:35.8714772+00:00",
+  "LastUpdate_Achievements": "2023-10-16T21:09:28.7350469+00:00"
 }

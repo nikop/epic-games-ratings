@@ -64,7 +64,7 @@ Number of Ratings: 45  (23.09.2022)
 | Peacemaker | 0.70% | ~10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,424 (Ranked 222)  
-Completed: 6 (0.42%) (Ranked 187)  
+Completed: 6 (0.42%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

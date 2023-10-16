@@ -8,7 +8,7 @@
 | Off to a good start | 68.00% | ~471 |
 | Do... or do not. There is no try | 52.00% | ~360 |
 | A good blaster at your side | 34.00% | ~235 |
-| Scrap collector | 20.00% | ~138 |
+| Scrap collector | 21.00% | ~145 |
 | I suggest a new strategy | 20.00% | ~138 |
 | Great shot, kid! | 19.00% | ~131 |
 | The power of the Force | 17.00% | ~118 |
@@ -69,7 +69,7 @@
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 692 (Ranked 254)  
-Completed: 1 (0.14%) (Ranked 235)  
+Completed: 1 (0.14%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -3,9 +3,9 @@
   "Name": "A Musical Story",
   "ProductSlug": "a-musical-story-973128",
   "Ranking_EOS_Progress": 385,
-  "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 392,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_Completed": 149,
+  "Ranking_EOS_NewPlayers": 391,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-03-04T18:00:00+00:00",
     "PcReleaseDate": "2022-03-04T18:00:00+00:00",
@@ -347,9 +347,9 @@
       "ID": "L10_5_PERFECT",
       "SetID": "6finf64",
       "Name": "Gasoline",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "L10_FINISH",
@@ -363,9 +363,9 @@
       "ID": "L10_PERFECT",
       "SetID": "6finf64",
       "Name": "On the Road Again",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "L11_FINISH",
@@ -651,9 +651,9 @@
       "ID": "L5_PERFECT",
       "SetID": "6finf64",
       "Name": "The Fix",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "L6_FINISH",
@@ -667,9 +667,9 @@
       "ID": "L6_PERFECT",
       "SetID": "6finf64",
       "Name": "The Mountains, The Valleys",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "L7_5_FINISH",
@@ -683,9 +683,9 @@
       "ID": "L7_5_PERFECT",
       "SetID": "6finf64",
       "Name": "As the Crow Flies",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "L7_FINISH",
@@ -699,9 +699,9 @@
       "ID": "L7_PERFECT",
       "SetID": "6finf64",
       "Name": "Flight of the Bumblebee",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "L8_FINISH",
@@ -715,9 +715,9 @@
       "ID": "L8_PERFECT",
       "SetID": "6finf64",
       "Name": "Milk and Alcohol",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "L9_FINISH",
@@ -731,9 +731,9 @@
       "ID": "L9_PERFECT",
       "SetID": "6finf64",
       "Name": "Unintended",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "UNLOCK_L21",
@@ -756,8 +756,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.0267676+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.5327196+00:00",
   "LastChanged": "2023-03-31T05:57:21.0267677+00:00",
-  "LastChanged_Achievements": "2023-10-16T20:09:18.6011891+00:00",
+  "LastChanged_Achievements": "2023-10-16T21:10:20.5432354+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:46.2213492+00:00",
-  "LastUpdate_Ratings": "2023-10-16T20:04:17.9041367+00:00",
-  "LastUpdate_Achievements": "2023-10-16T20:09:18.6012371+00:00"
+  "LastUpdate_Ratings": "2023-10-16T21:05:28.6882641+00:00",
+  "LastUpdate_Achievements": "2023-10-16T21:10:20.5432767+00:00"
 }

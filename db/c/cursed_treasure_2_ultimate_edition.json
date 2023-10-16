@@ -4,8 +4,8 @@
   "ProductSlug": "cursed-treasure-2-ultimate-edition-2ebbb4",
   "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 22,
-  "Ranking_EOS_NewPlayers": 392,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 391,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
     "PcReleaseDate": "2022-07-14T11:30:00+00:00",
@@ -274,9 +274,9 @@
       "ID": "BADGE_BOSS_6_KILL",
       "SetID": "ak6pfjk",
       "Name": "Sing, My Angel",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 74
+      "UsersEstimate": 76
     },
     {
       "ID": "BADGE_BOSS_7_KILL",
@@ -659,8 +659,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-10-16T20:05:15.0307813+00:00",
+  "LastChanged_Achievements": "2023-10-16T21:06:33.2100347+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:15.719291+00:00",
-  "LastUpdate_Ratings": "2023-10-16T19:58:49.1940918+00:00",
-  "LastUpdate_Achievements": "2023-10-16T20:05:15.030828+00:00"
+  "LastUpdate_Ratings": "2023-10-16T20:59:03.7572424+00:00",
+  "LastUpdate_Achievements": "2023-10-16T21:06:33.2100723+00:00"
 }

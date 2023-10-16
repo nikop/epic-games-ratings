@@ -6,9 +6,9 @@
   "Ranking_Popularity": 537,
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 190,
-  "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_Completed": 315,
+  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -284,9 +284,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3233,
+  "EOS_Progressed": 3234,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5314,6 +5314,11 @@
       "Time": "2023-10-16T18:10:29.9113193+00:00",
       "NumProgressed": 3233,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-16T21:11:33.3164025+00:00",
+      "NumProgressed": 3234,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -5413,7 +5418,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 905
+      "UsersEstimate": 906
     },
     {
       "ID": "ACH_BASE_22",
@@ -5780,13 +5785,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1415,
+      "Progressed": 1416,
       "Completed": 7
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3233,
+      "Progressed": 3234,
       "Completed": 0
     }
   ],
@@ -5794,8 +5799,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-09-17T17:59:23.8865698+00:00",
-  "LastChanged_Achievements": "2023-10-16T20:10:22.7701356+00:00",
+  "LastChanged_Achievements": "2023-10-16T21:11:33.3164021+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:38.5119493+00:00",
-  "LastUpdate_Ratings": "2023-10-16T20:03:41.8286186+00:00",
-  "LastUpdate_Achievements": "2023-10-16T20:10:22.7702166+00:00"
+  "LastUpdate_Ratings": "2023-10-16T21:04:47.8747302+00:00",
+  "LastUpdate_Achievements": "2023-10-16T21:11:33.3164706+00:00"
 }

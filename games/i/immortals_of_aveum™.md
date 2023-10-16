@@ -38,10 +38,10 @@ Rating: 4.05 (Ranked 959)
 | Best Dressed | 6.00% | ~5 |
 | Kitted Out | 5.00% | ~4 |
 | Armaments Vert | 5.00% | ~4 |
+| Master of Carmine | 5.00% | ~4 |
 | Shroudfane Surveyor | 5.00% | ~4 |
 | Treasure Hunter | 5.00% | ~4 |
 | Master of Ultramarine | 3.00% | ~3 |
-| Master of Carmine | 3.00% | ~3 |
 | Master of Malachite | 3.00% | ~3 |
 | Grand Magnus | 2.00% | ~2 |
 | Tip of the Spear | 2.00% | ~2 |
@@ -54,7 +54,7 @@ Rating: 4.05 (Ranked 959)
 | Fowl Play | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 88 (Ranked 401)  
-Completed: 0 (0.00%) (Ranked 314)  
+Completed: 1 (1.14%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -81,6 +81,7 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-10-13 | 86 | 0 |
 | 2023-10-14 | 87 | 0 |
 | 2023-10-15 | 88 | 0 |
+| 2023-10-16 | 88 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

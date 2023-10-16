@@ -5,29 +5,29 @@ Rating: 4.65 (Ranked 301)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 73.00% | ~4,905 |
-| A Thorny Situation | 70.00% | ~4,703 |
-| ... And Spit Back Out | 60.00% | ~4,031 |
-| Break-Net Speed | 48.00% | ~3,225 |
-| Bramble Breaker | 46.00% | ~3,091 |
-| Miner 49er | 43.00% | ~2,889 |
-| Humble Collector | 42.00% | ~2,822 |
-| Calm Sailing | 36.00% | ~2,419 |
-| Open the Gate! | 33.00% | ~2,217 |
-| Mist Walker | 31.00% | ~2,083 |
-| Lumberjack | 26.00% | ~1,747 |
-| Oui, Chef! | 22.00% | ~1,478 |
-| Clear the Air | 17.00% | ~1,142 |
-| Botanical Breakthrough | 16.00% | ~1,075 |
-| Search for the Hairy Grell | 13.00% | ~873 |
-| Beach Comber | 13.00% | ~873 |
-| Higher Tax Bracket | 13.00% | ~873 |
+| Azoria Beckons | 73.00% | ~4,908 |
+| A Thorny Situation | 70.00% | ~4,706 |
+| ... And Spit Back Out | 60.00% | ~4,034 |
+| Break-Net Speed | 48.00% | ~3,227 |
+| Bramble Breaker | 46.00% | ~3,093 |
+| Miner 49er | 43.00% | ~2,891 |
+| Humble Collector | 42.00% | ~2,824 |
+| Calm Sailing | 36.00% | ~2,420 |
+| Open the Gate! | 33.00% | ~2,219 |
+| Mist Walker | 31.00% | ~2,084 |
+| Lumberjack | 26.00% | ~1,748 |
+| Oui, Chef! | 22.00% | ~1,479 |
+| Clear the Air | 17.00% | ~1,143 |
+| Botanical Breakthrough | 16.00% | ~1,076 |
+| Search for the Hairy Grell | 13.00% | ~874 |
+| Beach Comber | 13.00% | ~874 |
+| Higher Tax Bracket | 13.00% | ~874 |
 | Skilled | 8.00% | ~538 |
-| Flaming Hot Completos | 7.00% | ~470 |
-| Fae Farmer | 7.00% | ~470 |
-| Got to Catch Them All | 7.00% | ~470 |
-| Rumble in the Jumble | 7.00% | ~470 |
-| Fanatical Farmer | 7.00% | ~470 |
+| Flaming Hot Completos | 7.00% | ~471 |
+| Fae Farmer | 7.00% | ~471 |
+| Got to Catch Them All | 7.00% | ~471 |
+| Rumble in the Jumble | 7.00% | ~471 |
+| Fanatical Farmer | 7.00% | ~471 |
 | Azorian Anniversary | 6.00% | ~403 |
 | Scattered Scroll Scrounger | 5.00% | ~336 |
 | I Now Pronounce You... | 4.00% | ~269 |
@@ -41,8 +41,8 @@ Rating: 4.65 (Ranked 301)
 | Giving the People What They Want | 0.10% | ~7 |
 | Very Skilled | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,719 (Ranked 163)  
-Completed: 0 (0.00%) (Ranked 314)  
+Progressed: 6,723 (Ranked 163)  
+Completed: 0 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -94,7 +94,7 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-10-13 | 6,581 | 0 |
 | 2023-10-14 | 6,647 | 0 |
 | 2023-10-15 | 6,698 | 0 |
-| 2023-10-16 | 6,719 | 0 |
+| 2023-10-16 | 6,723 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 324,
   "Ranking_PopularitySum": 272,
   "Ranking_EOS_Progress": 118,
-  "Ranking_EOS_Completed": 212,
+  "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 91,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
@@ -1275,9 +1275,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 26232,
+  "EOS_Progressed": 26234,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 510,
+  "EOS_NewPlayers": 509,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -20545,6 +20545,11 @@
       "Time": "2023-10-16T20:06:34.1167012+00:00",
       "NumProgressed": 26232,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-10-16T21:08:08.2784069+00:00",
+      "NumProgressed": 26234,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 22,
@@ -20676,7 +20681,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5246
+      "UsersEstimate": 5247
     },
     {
       "ID": "1031",
@@ -20684,7 +20689,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3672
+      "UsersEstimate": 3673
     },
     {
       "ID": "1032",
@@ -20692,7 +20697,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 10493
+      "UsersEstimate": 10494
     },
     {
       "ID": "1033",
@@ -20731,15 +20736,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 26232,
+      "Progressed": 26234,
       "Completed": 69
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-09-03T23:00:19.1993338+00:00",
-  "LastChanged_Achievements": "2023-10-16T20:06:34.1167005+00:00",
+  "LastChanged_Achievements": "2023-10-16T21:08:08.2784064+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:20.5941656+00:00",
-  "LastUpdate_Ratings": "2023-10-16T20:02:06.0549047+00:00",
-  "LastUpdate_Achievements": "2023-10-16T20:06:34.116845+00:00"
+  "LastUpdate_Ratings": "2023-10-16T21:02:46.7023818+00:00",
+  "LastUpdate_Achievements": "2023-10-16T21:08:08.2785097+00:00"
 }

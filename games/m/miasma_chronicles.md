@@ -1,7 +1,7 @@
 # Miasma Chronicles
 [Store](https://store.epicgames.com/en-US/p/miasma-chronicles)  
 [View Rawdata](../../db/m/miasma_chronicles.json)  
-Rating: 4.43 (Ranked 674)  
+Rating: 4.43 (Ranked 673)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -23,8 +23,8 @@ Rating: 4.43 (Ranked 674)
 | Technophobe | 41.00% | ~606 |
 | Recycler | 40.00% | ~591 |
 | Are you not entertained? | 36.00% | ~532 |
+| Ganglord | 36.00% | ~532 |
 | Jarhead | 36.00% | ~532 |
-| Ganglord | 35.00% | ~517 |
 | Infiltrator | 35.00% | ~517 |
 | Experienced | 33.00% | ~487 |
 | Pushing Daisy | 33.00% | ~487 |
@@ -58,7 +58,7 @@ Rating: 4.43 (Ranked 674)
 | Goaaaaal! | 0.70% | ~10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,477 (Ranked 221)  
-Completed: 0 (0.00%) (Ranked 314)  
+Completed: 0 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

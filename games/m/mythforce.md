@@ -13,8 +13,8 @@ Number of Ratings: 285  (23.09.2022)
 | That'll Leave a Mark | 22.00% | ~919 |
 | Mushroom Madness! | 21.00% | ~877 |
 | First Strike | 18.00% | ~752 |
-| Spending Spree | 17.00% | ~710 |
-| Horder Better Faster Stronger | 16.00% | ~668 |
+| Spending Spree | 18.00% | ~752 |
+| Horder Better Faster Stronger | 17.00% | ~710 |
 | Everything Must Go! | 14.00% | ~585 |
 | Ten Steps from the Grave | 14.00% | ~585 |
 | Next Time on MythForce... | 13.00% | ~543 |
@@ -31,7 +31,7 @@ Number of Ratings: 285  (23.09.2022)
 | Deadalus and Loving It | 0.20% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,177 (Ranked 177)  
-Completed: 3 (0.07%) (Ranked 261)  
+Completed: 3 (0.07%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

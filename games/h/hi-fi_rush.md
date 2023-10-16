@@ -17,11 +17,11 @@ Rating: 4.85 (Ranked 42)
 | This will cost you big time | 10.00% | ~415 |
 | I play my own way! | 10.00% | ~415 |
 | Uh, they were broken when I got here | 10.00% | ~415 |
+| Whoa! There's ANOTHER health bar!? | 9.00% | ~373 |
 | Z-shielding's got nothing on us! | 9.00% | ~373 |
 | Kissing the sky! | 9.00% | ~373 |
 | The Negotiator | 8.00% | ~332 |
 | Headliner | 8.00% | ~332 |
-| Whoa! There's ANOTHER health bar!? | 8.00% | ~332 |
 | Out in a puff of smoke | 8.00% | ~332 |
 | I look cool. But I can look COOLER. | 8.00% | ~332 |
 | Time to pay up! | 7.00% | ~290 |
@@ -55,11 +55,11 @@ Rating: 4.85 (Ranked 42)
 | Problem solved... wait, what? | 0.40% | ~17 |
 | Now this is how you fight like a team! | 0.40% | ~17 |
 | And the crowd goes wild! | 0.30% | ~12 |
+| I am a good person who likes to help | 0.30% | ~12 |
 | With our powers combined…and to the rhythm… | 0.30% | ~12 |
 | It'll do, CNMN | 0.30% | ~8 |
 | I can't see this ever being a problem again | 0.20% | ~8 |
 | Fully Powered Up! | 0.20% | ~8 |
-| I am a good person who likes to help | 0.20% | ~8 |
 | That was just EVIL | 0.20% | ~5 |
 | Didn't skip a beat! | 0.10% | ~4 |
 | I think that's enough health for now | 0.10% | ~4 |
@@ -78,7 +78,7 @@ Rating: 4.85 (Ranked 42)
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,146 (Ranked 178)  
-Completed: 8 (0.19%) (Ranked 225)  
+Completed: 8 (0.19%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

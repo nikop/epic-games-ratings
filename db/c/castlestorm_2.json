@@ -3,9 +3,9 @@
   "Name": "CastleStorm 2",
   "ProductSlug": "castlestorm2",
   "Ranking_EOS_Progress": 671,
-  "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 392,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_Completed": 315,
+  "Ranking_EOS_NewPlayers": 391,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
     "PcReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:48.4221752+00:00",
   "LastChanged": "2023-03-31T05:57:48.4221753+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:02.6666668+00:00",
-  "LastUpdate_Ratings": "2023-10-16T19:58:17.1604055+00:00",
-  "LastUpdate_Achievements": "2023-10-16T20:06:04.8993872+00:00"
+  "LastUpdate_Ratings": "2023-10-16T20:58:23.1447402+00:00",
+  "LastUpdate_Achievements": "2023-10-16T21:07:32.5056523+00:00"
 }

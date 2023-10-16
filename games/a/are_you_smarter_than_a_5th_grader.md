@@ -25,7 +25,7 @@
 | Librarian | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 365 (Ranked 298)  
-Completed: 0 (0.00%) (Ranked 314)  
+Completed: 0 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

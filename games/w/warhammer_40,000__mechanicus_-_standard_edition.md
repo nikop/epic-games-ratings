@@ -1,24 +1,24 @@
 # Warhammer 40,000: Mechanicus - Standard Edition
 [Store](https://store.epicgames.com/en-US/p/warhammer-mechanicus-0e4b71)  
 [View Rawdata](../../db/w/warhammer_40,000__mechanicus_-_standard_edition.json)  
-Rating: 4.43 (Ranked 674)  
+Rating: 4.43 (Ranked 673)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~58,478 |
-| This is only the beginning | 19.00% | ~42,734 |
+| No aid from the Omnissiah | 26.00% | ~58,479 |
+| This is only the beginning | 19.00% | ~42,735 |
 | Knowledge is power | 12.00% | ~26,990 |
 | Galvanic Rifle | 10.00% | ~22,492 |
-| Power Ranger | 9.00% | ~20,242 |
-| Taser Goad | 9.00% | ~20,242 |
-| Radium Ready | 9.00% | ~20,242 |
-| Half a cog | 9.00% | ~20,242 |
+| Power Ranger | 9.00% | ~20,243 |
+| Taser Goad | 9.00% | ~20,243 |
+| Radium Ready | 9.00% | ~20,243 |
+| Half a cog | 9.00% | ~20,243 |
 | Watch them crumble | 6.00% | ~13,495 |
 | Competent Cohort | 4.00% | ~8,997 |
 | Celestial Cartography Catastrophe | 4.00% | ~8,997 |
 | One with the Machine | 4.00% | ~8,997 |
-| Legio Cybernetica | 3.00% | ~6,747 |
-| Fleshy Disposal | 3.00% | ~6,747 |
+| Legio Cybernetica | 3.00% | ~6,748 |
+| Fleshy Disposal | 3.00% | ~6,748 |
 | Battle Servitor | 2.00% | ~4,498 |
 | Ding Dong Szaregon's Gone | 2.00% | ~4,498 |
 | Impatient destruction | 2.00% | ~4,498 |
@@ -40,8 +40,8 @@ Rating: 4.43 (Ranked 674)
 | Perma-live | 0.10% | ~225 |
 | Purge the Heretek | 0.10% | ~225 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,915 (Ranked 63)  
-Completed: 5 (0.00%) (Ranked 314)  
+Progressed: 224,920 (Ranked 63)  
+Completed: 5 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -219,7 +219,7 @@ Completed: 5 (0.00%) (Ranked 314)
 | 2023-10-13 | 224,666 | 5 |
 | 2023-10-14 | 224,760 | 5 |
 | 2023-10-15 | 224,844 | 5 |
-| 2023-10-16 | 224,915 | 5 |
+| 2023-10-16 | 224,920 | 5 |
 ## Awards
 Max (Highly Recommended): 287  (Ranked 247)  
 Sum: 2,169 (Ranked 198)  

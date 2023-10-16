@@ -11,9 +11,9 @@
 | Endless Tricks | 28.00% | ~16 |
 | Meissa's Savior | 28.00% | ~16 |
 | Dicesmithing Time! | 26.00% | ~15 |
+| Purification Pioneer | 26.00% | ~15 |
 | Sanctuary Guardian | 26.00% | ~15 |
 | Mechanical Buddy | 24.00% | ~14 |
-| Purification Pioneer | 24.00% | ~14 |
 | Wild's Keeper | 24.00% | ~14 |
 | Behenian Champion | 24.00% | ~14 |
 | Loyal Partner | 22.00% | ~13 |
@@ -104,7 +104,7 @@
 | Eridanian Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 58 (Ranked 426)  
-Completed: 0 (0.00%) (Ranked 314)  
+Completed: 0 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

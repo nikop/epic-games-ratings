@@ -6,7 +6,7 @@
   "Ranking_Popularity": 537,
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 138,
-  "Ranking_EOS_Completed": 225,
+  "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 24,
   "Store": {
@@ -166,9 +166,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14046,
+  "EOS_Progressed": 14048,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 237,
+  "EOS_NewPlayers": 238,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -8836,6 +8836,11 @@
       "Time": "2023-10-16T20:08:15.1637173+00:00",
       "NumProgressed": 14046,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-10-16T21:09:19.9600652+00:00",
+      "NumProgressed": 14048,
+      "NumCompleted": 26
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -9070,9 +9075,9 @@
       "ID": "8",
       "SetID": "458bbdk",
       "Name": "Data Recoverer",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 70
+      "UsersEstimate": 84
     },
     {
       "ID": "9",
@@ -9087,16 +9092,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14046,
+      "Progressed": 14048,
       "Completed": 26
+    },
+    {
+      "ID": "9nnpo9n",
+      "IsBase": false,
+      "Progressed": 2,
+      "Completed": 2
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-13T09:00:57.1370573+00:00",
-  "LastChanged_Achievements": "2023-10-16T20:08:15.1637162+00:00",
+  "LastChanged_Achievements": "2023-10-16T21:09:19.9600646+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:40.5814563+00:00",
-  "LastUpdate_Ratings": "2023-10-16T20:03:53.4552418+00:00",
-  "LastUpdate_Achievements": "2023-10-16T20:08:15.1637939+00:00"
+  "LastUpdate_Ratings": "2023-10-16T21:05:01.9147087+00:00",
+  "LastUpdate_Achievements": "2023-10-16T21:09:19.9601207+00:00"
 }

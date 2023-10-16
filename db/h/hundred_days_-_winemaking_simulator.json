@@ -5,8 +5,8 @@
   "Ranking_Rating": 775,
   "Ranking_Popularity": 277,
   "Ranking_PopularitySum": 220,
-  "Ranking_EOS_Progress": 153,
-  "Ranking_EOS_Completed": 246,
+  "Ranking_EOS_Progress": 152,
+  "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 68,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
@@ -1018,9 +1018,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 8330,
+  "EOS_Progressed": 8334,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1021,
+  "EOS_NewPlayers": 1018,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6628,6 +6628,11 @@
       "Time": "2023-10-16T20:08:17.8410701+00:00",
       "NumProgressed": 8330,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-16T21:09:23.1724821+00:00",
+      "NumProgressed": 8334,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -6688,7 +6693,7 @@
       "Name": "Bye Bye",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 3249
+      "UsersEstimate": 3250
     },
     {
       "ID": "a_19",
@@ -6704,7 +6709,7 @@
       "Name": "Ostinata",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "a_20",
@@ -6744,7 +6749,7 @@
       "Name": "Better than nothing?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "a_26",
@@ -6887,7 +6892,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 8330,
+      "Progressed": 8334,
       "Completed": 8
     }
   ],
@@ -6895,8 +6900,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-10-10T16:59:22.7446864+00:00",
-  "LastChanged_Achievements": "2023-10-16T20:08:17.8410695+00:00",
+  "LastChanged_Achievements": "2023-10-16T21:09:23.1724816+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:27.1391374+00:00",
-  "LastUpdate_Ratings": "2023-10-16T20:03:57.6972882+00:00",
-  "LastUpdate_Achievements": "2023-10-16T20:08:17.8411356+00:00"
+  "LastUpdate_Ratings": "2023-10-16T21:05:06.0952485+00:00",
+  "LastUpdate_Achievements": "2023-10-16T21:09:23.1725331+00:00"
 }

@@ -38,8 +38,8 @@
 | The Professor | 39.00% | ~280 |
 | Power Full | 39.00% | ~280 |
 | The Archangel | 38.00% | ~273 |
+| The Convict | 37.00% | ~266 |
 | Completionist | 36.00% | ~259 |
-| The Convict | 36.00% | ~259 |
 | The Krogan | 36.00% | ~259 |
 | Colony Defense | 35.00% | ~252 |
 | Galactic Explorer | 35.00% | ~252 |
@@ -94,9 +94,9 @@
 | Under Pressure | 19.00% | ~137 |
 | Hard Target | 19.00% | ~137 |
 | Saboteur | 19.00% | ~137 |
+| Last Witness | 19.00% | ~137 |
 | Fact Finder | 19.00% | ~137 |
 | Last Resort | 18.00% | ~129 |
-| Last Witness | 18.00% | ~129 |
 | Well Connected | 18.00% | ~129 |
 | Electronics Specialist | 17.00% | ~122 |
 | Sabotage Specialist | 17.00% | ~122 |
@@ -133,7 +133,7 @@
 | The One and Only | 0.70% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 719 (Ranked 252)  
-Completed: 0 (0.00%) (Ranked 314)  
+Completed: 0 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

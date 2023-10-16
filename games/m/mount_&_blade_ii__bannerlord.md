@@ -6,19 +6,19 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 39.00% | ~24,727 |
-| Landlord | 33.00% | ~20,923 |
+| Lawbringer | 39.00% | ~24,728 |
+| Landlord | 33.00% | ~20,924 |
 | Bannerlord | 23.00% | ~14,583 |
 | Horde breaker | 23.00% | ~14,583 |
 | Lawmaker | 23.00% | ~14,583 |
 | Trained | 23.00% | ~14,583 |
 | The king is pleased | 19.00% | ~12,047 |
 | King Solomon | 17.00% | ~10,779 |
-| I can do it | 16.00% | ~10,144 |
-| Apple of my eye | 15.00% | ~9,510 |
-| God of the Arena | 13.00% | ~8,242 |
-| Against all odds | 12.00% | ~7,608 |
-| This Is Our Land | 12.00% | ~7,608 |
+| I can do it | 16.00% | ~10,145 |
+| Apple of my eye | 15.00% | ~9,511 |
+| God of the Arena | 13.00% | ~8,243 |
+| Against all odds | 12.00% | ~7,609 |
+| This Is Our Land | 12.00% | ~7,609 |
 | Duelist | 10.00% | ~6,340 |
 | Dynasty | 10.00% | ~6,340 |
 | I spit on your grave | 10.00% | ~6,340 |
@@ -58,8 +58,8 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,403 (Ranked 98)  
-Completed: 0 (0.00%) (Ranked 314)  
+Progressed: 63,405 (Ranked 98)  
+Completed: 0 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -237,10 +237,10 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-10-13 | 63,204 | 0 |
 | 2023-10-14 | 63,287 | 0 |
 | 2023-10-15 | 63,356 | 0 |
-| 2023-10-16 | 63,403 | 0 |
+| 2023-10-16 | 63,405 | 0 |
 ## Awards
 Max (Character Customization): 7,238  (Ranked 52)  
-Sum: 14,896 (Ranked 66)  
+Sum: 14,898 (Ranked 66)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -250,7 +250,7 @@ Diff (max vs sum): -14
 | This game is Highly Recommended | 897 |
 | This game is Extremely Fun | 852 |
 | This game has Amazing Storytelling | 841 |
-| This game has Amazing Characters | 836 |
+| This game has Amazing Characters | 838 |
 | This game is Relaxing | 833 |
 | This game has Quickly Understood Controls | 814 |
 | This game has a Creative Community | 611 |
@@ -533,4 +533,4 @@ Diff (max vs sum): -14
 | 2023-10-13 | 4.74 | - | 7,228 | 14,858 |
 | 2023-10-14 | 4.74 | - | 7,233 | 14,873 |
 | 2023-10-15 | 4.74 | - | 7,233 | 14,881 |
-| 2023-10-16 | 4.74 | - | 7,238 | 14,896 |
+| 2023-10-16 | 4.74 | - | 7,238 | 14,898 |

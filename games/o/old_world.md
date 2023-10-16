@@ -349,8 +349,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,745 (Ranked 135)  
-Completed: 5 (0.03%) (Ranked 283)  
+Progressed: 14,746 (Ranked 135)  
+Completed: 5 (0.03%) (Ranked 284)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -528,7 +528,7 @@ Completed: 5 (0.03%) (Ranked 283)
 | 2023-10-13 | 14,652 | 5 |
 | 2023-10-14 | 14,699 | 5 |
 | 2023-10-15 | 14,732 | 5 |
-| 2023-10-16 | 14,745 | 5 |
+| 2023-10-16 | 14,746 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,841 (Ranked 210)  

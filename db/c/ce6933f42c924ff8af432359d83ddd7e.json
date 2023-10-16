@@ -4,7 +4,7 @@
   "ProductSlug": "mystery-in-the-office-f629ad",
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 72,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-09-28T17:00:00+00:00",
@@ -1040,9 +1040,9 @@
       "ID": "ACH_FRUIT_BOWLS",
       "SetID": "6f5dahd",
       "Name": "An apple a day",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 75,
-      "UsersEstimate": 223
+      "UsersEstimate": 227
     },
     {
       "ID": "ACH_GET_BACK_TO_WORK",
@@ -1056,9 +1056,9 @@
       "ID": "ACH_PENTAGRAM",
       "SetID": "6f5dahd",
       "Name": "Evil plan",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 85,
-      "UsersEstimate": 186
+      "UsersEstimate": 190
     },
     {
       "ID": "ACH_RADIO_TAPES",
@@ -1088,9 +1088,9 @@
       "ID": "ACH_THE_END",
       "SetID": "6f5dahd",
       "Name": "Exit",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 65,
-      "UsersEstimate": 219
+      "UsersEstimate": 223
     }
   ],
   "AchievementSets": [
@@ -1103,8 +1103,8 @@
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-10-16T20:05:57.795386+00:00",
+  "LastChanged_Achievements": "2023-10-16T21:07:24.1519505+00:00",
   "LastUpdate_AppInfo": "2023-10-13T13:03:11.5956346+00:00",
-  "LastUpdate_Ratings": "2023-10-16T20:02:47.2382243+00:00",
-  "LastUpdate_Achievements": "2023-10-16T20:05:57.7954021+00:00"
+  "LastUpdate_Ratings": "2023-10-16T21:03:33.5755156+00:00",
+  "LastUpdate_Achievements": "2023-10-16T21:07:24.1519641+00:00"
 }

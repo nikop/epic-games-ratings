@@ -6,7 +6,7 @@
   "Ranking_Popularity": 196,
   "Ranking_PopularitySum": 138,
   "Ranking_EOS_Progress": 65,
-  "Ranking_EOS_Completed": 277,
+  "Ranking_EOS_Completed": 278,
   "Ranking_EOS_NewPlayers": 57,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
@@ -1753,9 +1753,9 @@
       "Count": 250
     }
   ],
-  "EOS_Progressed": 208232,
+  "EOS_Progressed": 208235,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 1229,
+  "EOS_NewPlayers": 1227,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -22123,6 +22123,11 @@
       "Time": "2023-10-16T20:09:14.4074718+00:00",
       "NumProgressed": 208232,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-10-16T21:10:15.9044764+00:00",
+      "NumProgressed": 208235,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 44,
@@ -22134,7 +22139,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20823
+      "UsersEstimate": 20824
     },
     {
       "ID": "AtheistOx",
@@ -22422,7 +22427,7 @@
       "Name": "Thorough",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 20823
+      "UsersEstimate": 20824
     },
     {
       "ID": "TimeParadox",
@@ -22485,15 +22490,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 208232,
+      "Progressed": 208235,
       "Completed": 91
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-10-14T05:59:35.4391888+00:00",
-  "LastChanged_Achievements": "2023-10-16T20:09:14.4074707+00:00",
+  "LastChanged_Achievements": "2023-10-16T21:10:15.9044758+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:42.5631083+00:00",
-  "LastUpdate_Ratings": "2023-10-16T20:04:01.2986467+00:00",
-  "LastUpdate_Achievements": "2023-10-16T20:09:14.4076246+00:00"
+  "LastUpdate_Ratings": "2023-10-16T21:05:08.0153708+00:00",
+  "LastUpdate_Achievements": "2023-10-16T21:10:15.9046028+00:00"
 }

@@ -26,8 +26,8 @@ Rating: 4.64 (Ranked 321)
 | Fallout Doesn't Let You Do This | 0.60% | ~145 |
 | Series Wrap on Suit-O | 0.60% | ~145 |
 | Eatin' Good in the Neighborhood | 0.50% | ~121 |
+| Eye Scream, You Scream | 0.50% | ~121 |
 | We Came, We Chainsaw, We Conquered | 0.50% | ~8 |
-| Eye Scream, You Scream | 0.40% | ~97 |
 | Mux Ado About Shipping | 0.40% | ~6 |
 | Fall In Love With A Parasite | 0.30% | ~5 |
 | Sequel-Bait | 0.20% | ~48 |
@@ -51,7 +51,7 @@ Rating: 4.64 (Ranked 321)
 | That's B.A.L.L., Folks | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 24,235 (Ranked 120)  
-Completed: 13 (0.05%) (Ranked 273)  
+Completed: 13 (0.05%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
