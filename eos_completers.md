@@ -2,7 +2,7 @@
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 1 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 100.00% |
-| 3 | [The Riflemen](games/t/the_riflemen.md) | 48.80% |
+| 3 | [The Riflemen](games/t/the_riflemen.md) | 48.79% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.15% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.99% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
@@ -94,7 +94,7 @@
 | 92 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 2.86% |
 | 92 | [FORECLOSED](games/f/foreclosed.md) | 2.86% |
 | 92 | [Mega City Police](games/m/mega_city_police.md) | 2.86% |
-| 95 | [Destiny 2](games/d/destiny_2.md) | 2.80% |
+| 95 | [Destiny 2](games/d/destiny_2.md) | 2.81% |
 | 96 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 97 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.68% |
 | 98 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 2.63% |
@@ -156,8 +156,8 @@
 | 154 | [Dungeons 3](games/d/dungeons_3.md) | 0.80% |
 | 155 | [Eternights](games/e/eternights.md) | 0.74% |
 | 155 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.74% |
-| 157 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.72% |
-| 157 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.72% |
+| 157 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.73% |
+| 158 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.72% |
 | 159 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.71% |
 | 160 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.66% |
 | 161 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.64% |
@@ -217,8 +217,8 @@
 | 213 | [Filament](games/f/filament.md) | 0.25% |
 | 216 | [Scrapnaut](games/s/scrapnaut.md) | 0.24% |
 | 217 | [Despot's Game](games/d/despot's_game.md) | 0.23% |
-| 217 | [Going Medieval](games/g/going_medieval.md) | 0.23% |
-| 219 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.22% |
+| 218 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.22% |
+| 218 | [Going Medieval](games/g/going_medieval.md) | 0.22% |
 | 220 | [Blanc](games/b/blanc.md) | 0.21% |
 | 220 | [Circus Electrique](games/c/circus_electrique.md) | 0.21% |
 | 222 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.20% |
@@ -668,4 +668,4 @@
 | 314 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 314 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 314 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,398 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,400 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
