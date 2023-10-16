@@ -95,7 +95,7 @@
 | 91 | [Griftlands](games/g/griftlands.md) | 4.79 | 0 | 537 |
 | 91 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 1,024 | 147 |
 | 91 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 779 | 166 |
-| 91 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 6,046 | 61 |
+| 91 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 6,048 | 61 |
 | 91 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 391 | 223 |
 | 98 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.78 | 0 | 537 |
 | 98 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.78 | 51 | 411 |
@@ -224,7 +224,7 @@
 | 222 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 118,824 | 8 |
 | 222 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 537 |
 | 222 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 6,551 | 55 |
-| 222 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.69 | 5,177 | 70 |
+| 222 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.69 | 5,194 | 70 |
 | 222 | [House Flipper](games/h/house_flipper.md) | 4.69 | 313 | 239 |
 | 222 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.69 | 0 | 537 |
 | 222 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,205 | 138 |
@@ -240,7 +240,7 @@
 | 222 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 997 | 150 |
 | 222 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 835 | 159 |
 | 240 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,371 | 91 |
-| 240 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 3,674 | 87 |
+| 240 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 3,679 | 87 |
 | 240 | [Bad North](games/b/bad_north.md) | 4.68 | 0 | 537 |
 | 240 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 71 | 389 |
 | 240 | [BLACKTAIL](games/b/blacktail.md) | 4.68 | 0 | 537 |
@@ -275,7 +275,7 @@
 | 262 | [Overcooked](games/o/overcooked.md) | 4.67 | 118 | 330 |
 | 262 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.67 | 567 | 196 |
 | 262 | [Suzerain](games/s/suzerain.md) | 4.67 | 0 | 537 |
-| 262 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 671 | 185 |
+| 262 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 675 | 184 |
 | 262 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.67 | 261 | 258 |
 | 262 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.67 | 0 | 537 |
 | 262 | [Trackmania](games/t/trackmania.md) | 4.67 | 3,657 | 88 |
@@ -735,6 +735,7 @@
 | 730 | [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 4.39 | 0 | 537 |
 | 730 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 589 | 191 |
 | 730 | [MORDHAU](games/m/mordhau.md) | 4.39 | 784 | 164 |
+| 730 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 174 | 292 |
 | 730 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,771 | 35 |
 | 730 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.39 | 74 | 382 |
 | 730 | [Startup Panic](games/s/startup_panic.md) | 4.39 | 0 | 537 |
@@ -743,13 +744,12 @@
 | 730 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.39 | 0 | 537 |
 | 730 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.39 | 0 | 537 |
 | 730 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.39 | 0 | 537 |
-| 744 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 0 | 537 |
-| 744 | [Beholder 3](games/b/beholder_3.md) | 4.38 | 0 | 537 |
-| 744 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 164 | 301 |
-| 744 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 174 | 292 |
-| 744 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.38 | 47 | 423 |
-| 744 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 537 |
-| 744 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.38 | 0 | 537 |
+| 745 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 0 | 537 |
+| 745 | [Beholder 3](games/b/beholder_3.md) | 4.38 | 0 | 537 |
+| 745 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 164 | 301 |
+| 745 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.38 | 47 | 423 |
+| 745 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 537 |
+| 745 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.38 | 0 | 537 |
 | 751 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 0 | 537 |
 | 751 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.37 | 0 | 537 |
 | 751 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,152 | 108 |
@@ -993,8 +993,8 @@
 | 990 | [Warface](games/w/warface.md) | 3.90 | 427 | 215 |
 | 992 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 3.86 | 0 | 537 |
 | 992 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 0 | 537 |
+| 994 | [Spelldrifter](games/s/spelldrifter.md) | 3.85 | 0 | 537 |
 | 994 | [Stygian: Reign of the Old Ones](games/s/stygian__reign_of_the_old_ones.md) | 3.85 | 0 | 537 |
-| 995 | [Spelldrifter](games/s/spelldrifter.md) | 3.84 | 0 | 537 |
 | 996 | [To The Rescue](games/t/to_the_rescue.md) | 3.83 | 0 | 537 |
 | 996 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.83 | 0 | 537 |
 | 998 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.82 | 0 | 537 |

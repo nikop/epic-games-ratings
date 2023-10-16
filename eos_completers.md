@@ -2,7 +2,7 @@
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 1 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 100.00% |
-| 3 | [The Riflemen](games/t/the_riflemen.md) | 48.77% |
+| 3 | [The Riflemen](games/t/the_riflemen.md) | 48.76% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.15% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.99% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
@@ -44,8 +44,8 @@
 | 42 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.75% |
 | 43 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 44 | [Ravenlok](games/r/ravenlok.md) | 7.66% |
-| 45 | [Sonic Origins](games/s/sonic_origins.md) | 7.53% |
-| 46 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.51% |
+| 45 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.51% |
+| 45 | [Sonic Origins](games/s/sonic_origins.md) | 7.51% |
 | 47 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.41% |
 | 48 | [Time Loader](games/t/time_loader.md) | 7.20% |
 | 49 | [Scorn](games/s/scorn.md) | 7.01% |
@@ -72,9 +72,9 @@
 | 70 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.07% |
 | 71 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.01% |
 | 72 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.00% |
-| 73 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.82% |
+| 73 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.81% |
 | 74 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
-| 75 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.62% |
+| 75 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.61% |
 | 76 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
 | 77 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.51% |
 | 78 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
@@ -260,11 +260,11 @@
 | 253 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
 | 259 | [ATOM RPG](games/a/atom_rpg.md) | 0.08% |
 | 259 | [Black Book](games/b/black_book.md) | 0.08% |
-| 261 | [Partisans 1941](games/p/partisans_1941.md) | 0.07% |
-| 261 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.07% |
-| 261 | [Saints Row](games/s/saints_row.md) | 0.07% |
-| 261 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
-| 261 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
+| 259 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.08% |
+| 262 | [Partisans 1941](games/p/partisans_1941.md) | 0.07% |
+| 262 | [Saints Row](games/s/saints_row.md) | 0.07% |
+| 262 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
+| 262 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
 | 266 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.06% |
 | 266 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.06% |
 | 266 | [Operation New Earth](games/o/operation_new_earth.md) | 0.06% |
@@ -668,4 +668,4 @@
 | 314 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 314 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 314 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,401 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,402 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
