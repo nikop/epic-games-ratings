@@ -1170,9 +1170,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 231179,
+  "EOS_Progressed": 231186,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1489,
+  "EOS_NewPlayers": 1488,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14880,6 +14880,11 @@
       "Time": "2023-10-16T06:08:27.846909+00:00",
       "NumProgressed": 231179,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-16T07:09:17.7284743+00:00",
+      "NumProgressed": 231186,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 88,
@@ -14947,7 +14952,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6935
+      "UsersEstimate": 6936
     },
     {
       "ID": "Chapter3",
@@ -15339,7 +15344,7 @@
       "Name": "Sowwy!",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 76289
+      "UsersEstimate": 76291
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -15355,7 +15360,7 @@
       "Name": "GG EZ",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 6935
+      "UsersEstimate": 6936
     },
     {
       "ID": "EndCombatOneHp",
@@ -15363,7 +15368,7 @@
       "Name": "DM intervention",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6935
+      "UsersEstimate": 6936
     },
     {
       "ID": "EndGameCursed",
@@ -15587,28 +15592,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6935
+      "UsersEstimate": 6936
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 231179,
+      "Progressed": 231186,
       "Completed": 5
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 231179,
+      "Progressed": 231186,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-10-15T22:57:47.2240798+00:00",
-  "LastChanged_Achievements": "2023-10-16T06:08:27.8469084+00:00",
+  "LastChanged_Achievements": "2023-10-16T07:09:17.7284734+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:06.1366459+00:00",
-  "LastUpdate_Ratings": "2023-10-16T05:57:47.6833949+00:00",
-  "LastUpdate_Achievements": "2023-10-16T06:08:27.8470516+00:00"
+  "LastUpdate_Ratings": "2023-10-16T06:57:46.1521212+00:00",
+  "LastUpdate_Achievements": "2023-10-16T07:09:17.7286799+00:00"
 }

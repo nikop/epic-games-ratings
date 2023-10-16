@@ -727,9 +727,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 38927,
+  "EOS_Progressed": 38928,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 375,
+  "EOS_NewPlayers": 376,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18952,6 +18952,11 @@
       "Time": "2023-10-16T06:04:08.0067008+00:00",
       "NumProgressed": 38927,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-16T07:04:24.8446703+00:00",
+      "NumProgressed": 38928,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -19217,9 +19222,9 @@
       "ID": "ach_portdeep",
       "SetID": "ammcm",
       "Name": "The beauty of the deep",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 350
+      "UsersEstimate": 389
     },
     {
       "ID": "ach_portdragon",
@@ -19394,15 +19399,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 38927,
+      "Progressed": 38928,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-10-14T19:58:49.9428019+00:00",
-  "LastChanged_Achievements": "2023-10-16T06:04:08.0067001+00:00",
+  "LastChanged_Achievements": "2023-10-16T07:04:24.8446695+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:49.4242639+00:00",
-  "LastUpdate_Ratings": "2023-10-16T05:59:08.4184253+00:00",
-  "LastUpdate_Achievements": "2023-10-16T06:04:08.0068217+00:00"
+  "LastUpdate_Ratings": "2023-10-16T06:59:22.6961375+00:00",
+  "LastUpdate_Achievements": "2023-10-16T07:04:24.84488+00:00"
 }

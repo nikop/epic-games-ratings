@@ -4,7 +4,7 @@
   "ProductSlug": "jars-e39063",
   "Ranking_EOS_Progress": 403,
   "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_NewPlayers": 312,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-10-20T16:00:00+00:00",
@@ -373,9 +373,9 @@
       "ID": "ACH_FIND_SECRET",
       "SetID": "3jfhgga",
       "Name": "A horrible thing will happen...",
-      "Percentage": 37,
+      "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_GET10K_ESSENCE",
@@ -454,8 +454,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.991429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:38.9338539+00:00",
   "LastChanged": "2023-03-31T05:58:01.9914291+00:00",
-  "LastChanged_Achievements": "2023-10-16T06:05:26.2595403+00:00",
+  "LastChanged_Achievements": "2023-10-16T07:05:57.1726826+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:20.0136413+00:00",
-  "LastUpdate_Ratings": "2023-10-16T06:00:13.0317128+00:00",
-  "LastUpdate_Achievements": "2023-10-16T06:05:26.2595521+00:00"
+  "LastUpdate_Ratings": "2023-10-16T07:00:43.4973332+00:00",
+  "LastUpdate_Achievements": "2023-10-16T07:05:57.1727024+00:00"
 }

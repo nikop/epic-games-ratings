@@ -664,7 +664,7 @@
   ],
   "EOS_Progressed": 1047,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 175,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -3421,9 +3421,9 @@
       "ID": "achievement_44",
       "SetID": "222fo9l",
       "Name": "Get Off My Ship!",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 450
+      "UsersEstimate": 461
     },
     {
       "ID": "achievement_45",
@@ -3502,8 +3502,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-15T07:59:51.3823595+00:00",
-  "LastChanged_Achievements": "2023-10-16T06:08:08.4883035+00:00",
+  "LastChanged_Achievements": "2023-10-16T07:08:44.8534843+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:22.2856721+00:00",
-  "LastUpdate_Ratings": "2023-10-16T06:00:22.2109567+00:00",
-  "LastUpdate_Achievements": "2023-10-16T06:08:08.488347+00:00"
+  "LastUpdate_Ratings": "2023-10-16T07:00:55.6646905+00:00",
+  "LastUpdate_Achievements": "2023-10-16T07:08:44.8535539+00:00"
 }

@@ -5826,9 +5826,9 @@
       "ID": "ACH_KILL_SKRENDELS",
       "SetID": "cdkbb11",
       "Name": "Who\u0027s The Boss?",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 45,
-      "UsersEstimate": 194
+      "UsersEstimate": 218
     },
     {
       "ID": "ACH_KILL_SLUMSLEY",
@@ -6017,8 +6017,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-07T05:03:09.4311759+00:00",
-  "LastChanged_Achievements": "2023-10-16T06:06:05.2959709+00:00",
+  "LastChanged_Achievements": "2023-10-16T07:06:42.9265135+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:39.0375133+00:00",
-  "LastUpdate_Ratings": "2023-10-16T06:01:29.0871739+00:00",
-  "LastUpdate_Achievements": "2023-10-16T06:06:05.2960248+00:00"
+  "LastUpdate_Ratings": "2023-10-16T07:02:07.705521+00:00",
+  "LastUpdate_Achievements": "2023-10-16T07:06:42.9265918+00:00"
 }

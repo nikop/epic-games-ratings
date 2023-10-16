@@ -1,32 +1,32 @@
 # Call of the Sea
 [Store](https://store.epicgames.com/en-US/p/call-of-the-sea)  
 [View Rawdata](../../db/c/call_of_the_sea.json)  
-Rating: 4.40 (Ranked 719)  
+Rating: 4.40 (Ranked 720)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 80.00% | ~99,995 |
-| 74 miles East of Otaheité | 56.00% | ~69,997 |
-| Interesting... | 42.00% | ~52,497 |
-| The Everhart Expedition | 39.00% | ~48,748 |
-| The Vanishing of the Lady Shannon | 30.00% | ~37,498 |
-| Seaside Serenade | 30.00% | ~37,498 |
-| Halfway there | 29.00% | ~36,248 |
-| A brigantine, a brig and a barque | 28.00% | ~34,998 |
-| 506 East Hampden Avenue | 28.00% | ~34,998 |
-| Weekend at Walakea's | 27.00% | ~33,748 |
-| Quite a Show | 27.00% | ~33,748 |
+| A Family Heirloom | 80.00% | ~99,998 |
+| 74 miles East of Otaheité | 56.00% | ~69,998 |
+| Interesting... | 42.00% | ~52,499 |
+| The Everhart Expedition | 39.00% | ~48,749 |
+| The Vanishing of the Lady Shannon | 30.00% | ~37,499 |
+| Seaside Serenade | 30.00% | ~37,499 |
+| Halfway there | 29.00% | ~36,249 |
+| A brigantine, a brig and a barque | 28.00% | ~34,999 |
+| 506 East Hampden Avenue | 28.00% | ~34,999 |
+| Weekend at Walakea's | 27.00% | ~33,749 |
+| Quite a Show | 27.00% | ~33,749 |
 | Dark Water Ride | 24.00% | ~29,999 |
 | Sunken | 24.00% | ~29,999 |
 | Deep Cut | 24.00% | ~29,999 |
 | FHALGOF'N' | 23.00% | ~28,749 |
 | Marsh Cannery | 21.00% | ~26,249 |
 | Greetings from Y'ha-nthlei! | 17.00% | ~21,249 |
-| The only thing I have now | 16.00% | ~19,999 |
-| Not Another Boring Slideshow! | 15.00% | ~18,749 |
-| Naacalvision | 15.00% | ~18,749 |
-| I'll make a note of that... | 9.00% | ~11,249 |
-| The Norahnomicon | 9.00% | ~11,249 |
+| The only thing I have now | 16.00% | ~20,000 |
+| Not Another Boring Slideshow! | 15.00% | ~18,750 |
+| Naacalvision | 15.00% | ~18,750 |
+| I'll make a note of that... | 9.00% | ~11,250 |
+| The Norahnomicon | 9.00% | ~11,250 |
 | Play it again, Norah | 7.00% | ~8,750 |
 | Underwater Royalty | 7.00% | ~8,750 |
 | Written in Stone | 6.00% | ~7,500 |
@@ -40,7 +40,7 @@ Rating: 4.40 (Ranked 719)
 | Gently down the stream... | 1.00% | ~1,250 |
 | Meta-reference | 1.00% | ~1,250 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 124,994 (Ranked 76)  
+Progressed: 124,997 (Ranked 76)  
 Completed: 1,059 (0.85%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 1,059 (0.85%) (Ranked 152)
 | 2023-10-13 | 124,526 | 1,051 |
 | 2023-10-14 | 124,745 | 1,053 |
 | 2023-10-15 | 124,959 | 1,058 |
-| 2023-10-16 | 124,994 | 1,059 |
+| 2023-10-16 | 124,997 | 1,059 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

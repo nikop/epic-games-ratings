@@ -6,42 +6,42 @@ Number of Ratings: 274  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| VANGUARD | 41.00% | ~95,837 |
-| NATURAL BORN WINNER | 33.00% | ~77,137 |
-| CALLING HOUSTON | 28.00% | ~65,449 |
+| VANGUARD | 41.00% | ~95,838 |
+| NATURAL BORN WINNER | 33.00% | ~77,138 |
+| CALLING HOUSTON | 28.00% | ~65,450 |
 | SNEAKY SNEAKY | 22.00% | ~51,425 |
 | TRICK UP YOUR SLEEVE | 22.00% | ~51,425 |
 | GT9STRADALE | 20.00% | ~46,750 |
-| CHALLENGER | 11.00% | ~25,712 |
-| ON A ROLL | 9.00% | ~21,037 |
+| CHALLENGER | 11.00% | ~25,713 |
+| ON A ROLL | 9.00% | ~21,038 |
 | CENTAUR | 8.00% | ~18,700 |
 | FASTER THAN EVER | 8.00% | ~18,700 |
-| CHALLENGE THE WORLD | 7.00% | ~16,362 |
-| PHOTOFINISH | 7.00% | ~16,362 |
-| QAREEN | 5.00% | ~11,687 |
+| CHALLENGE THE WORLD | 7.00% | ~16,363 |
+| PHOTOFINISH | 7.00% | ~16,363 |
+| QAREEN | 5.00% | ~11,688 |
 | SHOWOFF | 4.00% | ~9,350 |
 | TAKATORA | 4.00% | ~9,350 |
-| GILA | 3.00% | ~7,012 |
+| GILA | 3.00% | ~7,013 |
 | PRO | 2.00% | ~4,675 |
 | RESPWND | 2.00% | ~4,675 |
 | SHINY SHINY GOLD | 2.00% | ~4,675 |
-| HARDCORE | 1.00% | ~2,337 |
+| HARDCORE | 1.00% | ~2,338 |
 | ACE | 0.80% | ~1,870 |
-| TACTICIAN | 0.60% | ~1,402 |
+| TACTICIAN | 0.60% | ~1,403 |
 | GTX COMPETIZIONE | 0.50% | ~1,169 |
 | HIDDEN POWER | 0.50% | ~1,169 |
 | TUNING MANIAC | 0.50% | ~1,169 |
 | DRAGOON | 0.40% | ~935 |
 | FLAWLESS | 0.40% | ~935 |
-| BETTER THAN EVER | 0.20% | ~467 |
-| IINI | 0.20% | ~467 |
-| MARID | 0.20% | ~467 |
-| NOBUNAGA | 0.20% | ~467 |
-| ODIN | 0.20% | ~467 |
-| PILE UP TROPHIES | 0.20% | ~467 |
+| BETTER THAN EVER | 0.20% | ~468 |
+| IINI | 0.20% | ~468 |
+| MARID | 0.20% | ~468 |
+| NOBUNAGA | 0.20% | ~468 |
+| ODIN | 0.20% | ~468 |
+| PILE UP TROPHIES | 0.20% | ~468 |
 | ENLIGHTENED | 0.10% | ~234 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,748 (Ranked 57)  
+Progressed: 233,751 (Ranked 57)  
 Completed: 47 (0.02%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,7 +220,7 @@ Completed: 47 (0.02%) (Ranked 288)
 | 2023-10-13 | 233,577 | 47 |
 | 2023-10-14 | 233,660 | 47 |
 | 2023-10-15 | 233,733 | 47 |
-| 2023-10-16 | 233,748 | 47 |
+| 2023-10-16 | 233,751 | 47 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

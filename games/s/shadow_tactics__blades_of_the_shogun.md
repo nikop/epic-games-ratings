@@ -1,14 +1,14 @@
 # Shadow Tactics: Blades of the Shogun
 [Store](https://store.epicgames.com/en-US/p/shadow-tactics)  
 [View Rawdata](../../db/s/shadow_tactics__blades_of_the_shogun.json)  
-Rating: 4.67 (Ranked 261)  
+Rating: 4.67 (Ranked 262)  
 Number of Ratings: 495  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Genin | 12.00% | ~24,975 |
-| A thief's beginning | 10.00% | ~20,812 |
-| Thorough | 10.00% | ~20,812 |
+| A thief's beginning | 10.00% | ~20,813 |
+| Thorough | 10.00% | ~20,813 |
 | Rollin' | 9.00% | ~18,731 |
 | Disguised | 8.00% | ~16,650 |
 | Rescue Takuma | 8.00% | ~16,650 |
@@ -18,10 +18,10 @@ Number of Ratings: 495  (23.09.2022)
 | Jonin | 7.00% | ~14,569 |
 | Stoned Ox | 7.00% | ~14,569 |
 | Yabu | 7.00% | ~14,569 |
-| Chunin | 6.00% | ~12,487 |
-| Flying Rocks | 6.00% | ~12,487 |
-| Mugen Unchained | 6.00% | ~12,487 |
-| Warzone | 6.00% | ~12,487 |
+| Chunin | 6.00% | ~12,488 |
+| Flying Rocks | 6.00% | ~12,488 |
+| Mugen Unchained | 6.00% | ~12,488 |
+| Warzone | 6.00% | ~12,488 |
 | Okkoto | 5.00% | ~10,406 |
 | Prisoners | 5.00% | ~10,406 |
 | Too Early | 5.00% | ~10,406 |
@@ -31,11 +31,11 @@ Number of Ratings: 495  (23.09.2022)
 | Noboru | 3.00% | ~6,244 |
 | Stoned | 3.00% | ~6,244 |
 | The Old Way | 3.00% | ~6,244 |
-| Atheist Ox | 2.00% | ~4,162 |
-| It's raining men | 2.00% | ~4,162 |
-| No Gimmicks | 2.00% | ~4,162 |
-| Old Man | 2.00% | ~4,162 |
-| Winner Winner | 2.00% | ~4,162 |
+| Atheist Ox | 2.00% | ~4,163 |
+| It's raining men | 2.00% | ~4,163 |
+| No Gimmicks | 2.00% | ~4,163 |
+| Old Man | 2.00% | ~4,163 |
+| Winner Winner | 2.00% | ~4,163 |
 | Meticulous | 1.00% | ~2,081 |
 | The End | 1.00% | ~2,081 |
 | Undeserved Honor | 1.00% | ~2,081 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~208 |
 | Release the Kraken | 0.10% | ~208 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 208,124 (Ranked 65)  
+Progressed: 208,127 (Ranked 65)  
 Completed: 91 (0.04%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 91 (0.04%) (Ranked 277)
 | 2023-10-13 | 207,685 | 90 |
 | 2023-10-14 | 207,886 | 90 |
 | 2023-10-15 | 208,093 | 91 |
-| 2023-10-16 | 208,124 | 91 |
+| 2023-10-16 | 208,127 | 91 |
 ## Awards
 Max (Great for Beginners): 567  (Ranked 196)  
 Sum: 4,790 (Ranked 138)  

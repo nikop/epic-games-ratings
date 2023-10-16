@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Distinguished Service Medal | 94.00% | ~667 |
-| Spectre Inductee | 84.00% | ~596 |
-| Medal of Exploration I | 75.00% | ~532 |
-| Recruit | 72.00% | ~511 |
-| Search and Rescue | 71.00% | ~504 |
-| Quarian Ally | 69.00% | ~490 |
+| Distinguished Service Medal | 94.00% | ~668 |
+| Spectre Inductee | 84.00% | ~597 |
+| Medal of Exploration I | 75.00% | ~533 |
+| Recruit | 72.00% | ~512 |
+| Search and Rescue | 71.00% | ~505 |
+| Quarian Ally | 69.00% | ~491 |
 | Medal of Heroism | 66.00% | ~469 |
 | Honorarium of Corporate Service | 66.00% | ~469 |
-| Council Legion of Merit | 60.00% | ~426 |
+| Council Legion of Merit | 60.00% | ~427 |
 | Medal of Honor | 58.00% | ~412 |
 | Meritorious Service Medal | 58.00% | ~412 |
 | Medal of Exploration II | 58.00% | ~412 |
 | Turian Ally | 57.00% | ~405 |
 | Charismatic | 57.00% | ~405 |
 | Soldier | 55.00% | ~391 |
-| Asari Ally | 52.00% | ~369 |
-| Principled | 52.00% | ~369 |
-| Medal of Exploration III | 51.00% | ~362 |
-| Soldier Ally | 50.00% | ~355 |
+| Principled | 52.00% | ~370 |
+| Medal of Exploration III | 51.00% | ~363 |
+| Asari Ally | 51.00% | ~363 |
+| Soldier Ally | 50.00% | ~356 |
 | Colonial Savior | 49.00% | ~348 |
 | Paramour I | 48.00% | ~341 |
 | Scientist | 47.00% | ~334 |
 | Merciless | 46.00% | ~327 |
 | Krogan Ally | 45.00% | ~320 |
-| Sentinel Ally | 43.00% | ~305 |
-| Missing in Action | 43.00% | ~305 |
-| Very Elusive | 43.00% | ~305 |
-| Head Hunter | 43.00% | ~305 |
-| Operative | 42.00% | ~298 |
-| Scholar | 42.00% | ~298 |
-| Veteran | 41.00% | ~291 |
+| Sentinel Ally | 43.00% | ~306 |
+| Missing in Action | 43.00% | ~306 |
+| Very Elusive | 43.00% | ~306 |
+| Head Hunter | 43.00% | ~306 |
+| Operative | 42.00% | ~299 |
+| Veteran | 41.00% | ~292 |
+| Scholar | 41.00% | ~292 |
 | Power Full | 40.00% | ~284 |
 | The Professor | 39.00% | ~277 |
 | The Archangel | 37.00% | ~263 |
@@ -42,18 +42,18 @@
 | Completionist | 36.00% | ~256 |
 | The Krogan | 36.00% | ~256 |
 | Galactic Explorer | 36.00% | ~256 |
-| Colony Defense | 35.00% | ~248 |
-| Broke, Blind, and Bedlam | 35.00% | ~248 |
-| Archivist | 34.00% | ~241 |
-| A Personal Touch | 33.00% | ~234 |
-| Ghost Ship | 33.00% | ~234 |
-| The Quarian | 33.00% | ~234 |
-| The Assassin | 32.00% | ~227 |
-| The Justicar | 32.00% | ~227 |
-| Battlemaster | 32.00% | ~227 |
-| The Cure | 32.00% | ~227 |
-| The Prodigal | 32.00% | ~227 |
-| Shopaholic | 32.00% | ~227 |
+| Colony Defense | 35.00% | ~249 |
+| Archivist | 34.00% | ~242 |
+| Broke, Blind, and Bedlam | 34.00% | ~242 |
+| A Personal Touch | 33.00% | ~235 |
+| Ghost Ship | 33.00% | ~235 |
+| The Quarian | 33.00% | ~235 |
+| The Assassin | 32.00% | ~228 |
+| The Justicar | 32.00% | ~228 |
+| Battlemaster | 32.00% | ~228 |
+| The Cure | 32.00% | ~228 |
+| The Prodigal | 32.00% | ~228 |
+| Shopaholic | 32.00% | ~228 |
 | Catharsis | 31.00% | ~220 |
 | Ghost of the Father | 31.00% | ~220 |
 | Big Game Hunter | 31.00% | ~220 |
@@ -81,7 +81,7 @@
 | Giant Killer | 25.00% | ~178 |
 | Weapon Specialist | 25.00% | ~178 |
 | Liberator | 25.00% | ~178 |
-| Tunnel Rat | 24.00% | ~170 |
+| Tunnel Rat | 23.00% | ~164 |
 | Savior | 22.00% | ~156 |
 | Pathfinder | 22.00% | ~156 |
 | Arbiter | 22.00% | ~156 |
@@ -103,9 +103,9 @@
 | Throw Mastery | 16.00% | ~114 |
 | Executioner | 16.00% | ~114 |
 | Master and Commander | 16.00% | ~114 |
-| Patriot | 15.00% | ~106 |
-| Mail Slot | 14.00% | ~99 |
-| Legend | 14.00% | ~99 |
+| Patriot | 15.00% | ~107 |
+| Mail Slot | 14.00% | ~100 |
+| Legend | 14.00% | ~100 |
 | Combined Arms | 13.00% | ~92 |
 | Long Service Medal | 13.00% | ~92 |
 | Bruiser | 12.00% | ~85 |
@@ -132,7 +132,7 @@
 | Neural Shock Specialist | 2.00% | ~14 |
 | The One and Only | 0.70% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 710 (Ranked 252)  
+Progressed: 711 (Ranked 252)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,4 +163,4 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-10-13 | 676 | 0 |
 | 2023-10-14 | 692 | 0 |
 | 2023-10-15 | 707 | 0 |
-| 2023-10-16 | 710 | 0 |
+| 2023-10-16 | 711 | 0 |

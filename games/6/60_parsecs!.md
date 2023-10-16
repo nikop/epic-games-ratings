@@ -9,7 +9,7 @@
 | Space Colonization | 80.00% | ~610 |
 | Hello World | 75.00% | ~572 |
 | Space Engineer | 64.00% | ~488 |
-| Tinkerer | 62.00% | ~473 |
+| Tinkerer | 63.00% | ~481 |
 | Dust to Dust | 58.00% | ~443 |
 | Across The Stars | 48.00% | ~366 |
 | Crafty | 48.00% | ~366 |

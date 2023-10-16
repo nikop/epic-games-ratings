@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 362,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -838,9 +838,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 7050,
+  "EOS_Progressed": 7051,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -6123,6 +6123,11 @@
       "Time": "2023-10-15T19:08:09.1714688+00:00",
       "NumProgressed": 7050,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-16T07:09:37.8505518+00:00",
+      "NumProgressed": 7051,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 45,
@@ -6174,7 +6179,7 @@
       "Name": "Compagnia della Morte",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ISONZO_ACH_CONRAD_VON_HOTZENSOCKS",
@@ -6206,7 +6211,7 @@
       "Name": "Die Bosniaken Kommen!",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "ISONZO_ACH_DIRTY_DOZEN",
@@ -6230,7 +6235,7 @@
       "Name": "Drop and Give Me 20",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ISONZO_ACH_FAREWELL_TO_ARMS",
@@ -6254,7 +6259,7 @@
       "Name": "Generalissimo",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "ISONZO_ACH_INSUBORDINATION",
@@ -6286,7 +6291,7 @@
       "Name": "Machiavelli",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "ISONZO_ACH_MALPRACTICE",
@@ -6294,7 +6299,7 @@
       "Name": "Malpractice",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ISONZO_ACH_MAMMA_MIA",
@@ -6326,7 +6331,7 @@
       "Name": "Peak Performance",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3807
+      "UsersEstimate": 3808
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -6350,7 +6355,7 @@
       "Name": "Rome Wasn\u0027t Built In A Day",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ISONZO_ACH_SACRO_EGOISMO",
@@ -6438,7 +6443,7 @@
       "Name": "The Show Must Go On",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "ISONZO_ACH_THUS_WITH_A_KISS",
@@ -6446,7 +6451,7 @@
       "Name": "Thus With A Kiss",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "ISONZO_ACH_TOSCA",
@@ -6454,7 +6459,7 @@
       "Name": "Tosca",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "ISONZO_ACH_TUTTI_EROI",
@@ -6484,16 +6489,16 @@
       "ID": "ISONZO_ACH_YOU_SHALL_NOT_PASS",
       "SetID": "akchbl3",
       "Name": "You Shall Not Pass",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3807
+      "UsersEstimate": 3737
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 7050,
+      "Progressed": 7051,
       "Completed": 9
     }
   ],
@@ -6501,8 +6506,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-09-23T14:01:09.047151+00:00",
-  "LastChanged_Achievements": "2023-10-16T06:09:15.421148+00:00",
+  "LastChanged_Achievements": "2023-10-16T07:09:37.8505512+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:22.0219629+00:00",
-  "LastUpdate_Ratings": "2023-10-16T05:57:55.337075+00:00",
-  "LastUpdate_Achievements": "2023-10-16T06:09:15.4212007+00:00"
+  "LastUpdate_Ratings": "2023-10-16T06:57:56.2849213+00:00",
+  "LastUpdate_Achievements": "2023-10-16T07:09:37.8506283+00:00"
 }

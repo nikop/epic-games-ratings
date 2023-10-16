@@ -12,30 +12,30 @@ Number of Ratings: 70,340  (23.09.2022)
 | Survival Treasures | 2.00% | ~18,859 |
 | Skillful | 2.00% | ~18,859 |
 | Make Some Noise | 2.00% | ~18,859 |
-| The Grand Sacrifice | 1.00% | ~9,429 |
-| Agonizing Escape | 1.00% | ~9,429 |
-| Backdoor Escape | 1.00% | ~9,429 |
-| No one left behind | 1.00% | ~9,429 |
-| Medic | 1.00% | ~9,429 |
-| Handyman | 1.00% | ~9,429 |
-| Perfect Escape | 1.00% | ~9,429 |
-| Bloody Millionaire | 1.00% | ~9,429 |
-| Apt Survivor | 1.00% | ~9,429 |
-| I | 1.00% | ~9,429 |
-| Engineer | 1.00% | ~9,429 |
-| Sorted | 1.00% | ~9,429 |
-| Healthy Obsession | 1.00% | ~9,429 |
-| Resurgence | 1.00% | ~9,429 |
-| Preemptive Strike | 1.00% | ~9,429 |
-| Humanitarian | 1.00% | ~9,429 |
-| I've got your back | 0.90% | ~8,486 |
-| Nerves of steel | 0.90% | ~8,486 |
-| Perfect Killing | 0.90% | ~8,486 |
-| Risk it all | 0.90% | ~8,486 |
-| Close Shave | 0.90% | ~8,486 |
-| Apt Killer | 0.80% | ~7,543 |
-| II | 0.80% | ~7,543 |
-| Wounded Healer | 0.80% | ~7,543 |
+| The Grand Sacrifice | 1.00% | ~9,430 |
+| Agonizing Escape | 1.00% | ~9,430 |
+| Backdoor Escape | 1.00% | ~9,430 |
+| No one left behind | 1.00% | ~9,430 |
+| Medic | 1.00% | ~9,430 |
+| Handyman | 1.00% | ~9,430 |
+| Perfect Escape | 1.00% | ~9,430 |
+| Bloody Millionaire | 1.00% | ~9,430 |
+| Apt Survivor | 1.00% | ~9,430 |
+| I | 1.00% | ~9,430 |
+| Engineer | 1.00% | ~9,430 |
+| Sorted | 1.00% | ~9,430 |
+| Healthy Obsession | 1.00% | ~9,430 |
+| Resurgence | 1.00% | ~9,430 |
+| Preemptive Strike | 1.00% | ~9,430 |
+| Humanitarian | 1.00% | ~9,430 |
+| I've got your back | 0.90% | ~8,487 |
+| Nerves of steel | 0.90% | ~8,487 |
+| Perfect Killing | 0.90% | ~8,487 |
+| Risk it all | 0.90% | ~8,487 |
+| Close Shave | 0.90% | ~8,487 |
+| Apt Killer | 0.80% | ~7,544 |
+| II | 0.80% | ~7,544 |
+| Wounded Healer | 0.80% | ~7,544 |
 | Vulture | 0.70% | ~6,601 |
 | III | 0.70% | ~6,601 |
 | With Scars to Show | 0.70% | ~6,601 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~943 |
 | Adept Ripley | 0.10% | ~943 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 942,930 (Ranked 14)  
+Progressed: 942,967 (Ranked 14)  
 Completed: 51 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -415,7 +415,7 @@ Completed: 51 (0.01%) (Ranked 296)
 | 2023-10-13 | 937,037 | 50 |
 | 2023-10-14 | 939,759 | 50 |
 | 2023-10-15 | 942,498 | 51 |
-| 2023-10-16 | 942,930 | 51 |
+| 2023-10-16 | 942,967 | 51 |
 ## Awards
 Max (Diverse Characters): 33,980  (Ranked 15)  
 Sum: 262,716 (Ranked 13)  

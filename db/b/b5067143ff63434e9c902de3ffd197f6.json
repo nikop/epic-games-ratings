@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2925,
+  "EOS_Progressed": 2927,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1549,
+  "EOS_NewPlayers": 1542,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1831,6 +1831,11 @@
       "Time": "2023-10-16T06:03:54.6515844+00:00",
       "NumProgressed": 2925,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-16T07:04:09.3010697+00:00",
+      "NumProgressed": 2927,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -1979,7 +1984,7 @@
       "Name": "Glitchy",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH_WINLEVEL5",
@@ -2003,7 +2008,7 @@
       "Name": "Motion",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH_WINLEVEL9999999",
@@ -2011,7 +2016,7 @@
       "Name": "Endless",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH_WINLEVELFUN",
@@ -2027,21 +2032,21 @@
       "Name": "Lights Out",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     }
   ],
   "AchievementSets": [
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 2925,
+      "Progressed": 2927,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-10-16T06:03:54.651584+00:00",
+  "LastChanged_Achievements": "2023-10-16T07:04:09.3010691+00:00",
   "LastUpdate_AppInfo": "2023-10-09T13:09:09.4900137+00:00",
-  "LastUpdate_Ratings": "2023-10-16T05:59:56.5269085+00:00",
-  "LastUpdate_Achievements": "2023-10-16T06:03:54.6516056+00:00"
+  "LastUpdate_Ratings": "2023-10-16T07:00:18.8160621+00:00",
+  "LastUpdate_Achievements": "2023-10-16T07:04:09.3011064+00:00"
 }

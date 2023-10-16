@@ -8013,9 +8013,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 63368,
+  "EOS_Progressed": 63370,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 429,
+  "EOS_NewPlayers": 430,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26973,6 +26973,11 @@
       "Time": "2023-10-16T06:04:20.608057+00:00",
       "NumProgressed": 63368,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-16T07:04:39.6158365+00:00",
+      "NumProgressed": 63370,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -26992,7 +26997,7 @@
       "Name": "Apple of my eye",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 9505
+      "UsersEstimate": 9506
     },
     {
       "ID": "Bannerlord",
@@ -27024,7 +27029,7 @@
       "Name": "Butterlord",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 5069
+      "UsersEstimate": 5070
     },
     {
       "ID": "Catch",
@@ -27208,7 +27213,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 20911
+      "UsersEstimate": 20912
     },
     {
       "ID": "Lawbringer",
@@ -27391,15 +27396,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 63368,
+      "Progressed": 63370,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-16T04:57:22.0940718+00:00",
-  "LastChanged_Achievements": "2023-10-16T06:04:20.6080565+00:00",
+  "LastChanged_Achievements": "2023-10-16T07:04:39.6158359+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:51.8810296+00:00",
-  "LastUpdate_Ratings": "2023-10-16T05:57:26.1807141+00:00",
-  "LastUpdate_Achievements": "2023-10-16T06:04:20.6081744+00:00"
+  "LastUpdate_Ratings": "2023-10-16T06:57:20.5842945+00:00",
+  "LastUpdate_Achievements": "2023-10-16T07:04:39.616014+00:00"
 }

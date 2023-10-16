@@ -11,13 +11,13 @@ Rating: 4.64 (Ranked 321)
 | G3 Graduation | 1.00% | ~242 |
 | Cold-Blooded Driller | 1.00% | ~242 |
 | Are You Packin'? | 0.90% | ~218 |
+| Who's The Boss? | 0.90% | ~218 |
 | Don't Knife The Hand That Feeds | 0.90% | ~218 |
 | Creature Feature | 0.80% | ~194 |
 | Bring A Knife to a Gun Fight | 0.80% | ~194 |
 | RIP Davey Glutes | 0.80% | ~194 |
 | We're All Very Impressed, Trust Me | 0.80% | ~194 |
 | Hardest Battle In The Game | 0.80% | ~194 |
-| Who's The Boss? | 0.80% | ~194 |
 | Self-Actualization | 0.70% | ~170 |
 | Spent 15 Hours At The Alien Strip Club | 0.70% | ~170 |
 | Bathe With A Giant Nude Alien | 0.70% | ~11 |

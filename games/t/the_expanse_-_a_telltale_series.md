@@ -10,16 +10,16 @@ Rating: 4.57 (Ranked 455)
 | Bosmang | 5.00% | ~701 |
 | The Pit and the Pirates | 4.00% | ~561 |
 | Drone Dodger | 4.00% | ~561 |
+| Heal Thy Medic | 4.00% | ~561 |
 | Call it Even | 4.00% | ~561 |
 | Impossible Objects | 4.00% | ~561 |
 | Data Archivist | 3.00% | ~421 |
+| Stogie for Fogey | 3.00% | ~421 |
 | Spore Taste | 3.00% | ~421 |
 | Martian Music | 3.00% | ~421 |
-| Heal Thy Medic | 3.00% | ~421 |
 | Khan's Revenge | 3.00% | ~421 |
 | Captain Drummer | 3.00% | ~421 |
 | Celebrations are in Order | 3.00% | ~421 |
-| Stogie for Fogey | 2.00% | ~281 |
 | Bottoms up! | 2.00% | ~281 |
 | Thorston Mayer | 2.00% | ~281 |
 | Miraculous Maya | 2.00% | ~281 |

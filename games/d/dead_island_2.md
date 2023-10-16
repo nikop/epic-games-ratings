@@ -5,8 +5,8 @@ Rating: 4.54 (Ranked 511)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 4.00% | ~27,861 |
-| Welcome To Hell-A | 4.00% | ~27,861 |
+| Hotel California | 4.00% | ~27,862 |
+| Welcome To Hell-A | 4.00% | ~27,862 |
 | Dr. Reed, I Presume? | 3.00% | ~20,896 |
 | Git Gutte! | 3.00% | ~20,896 |
 | Bookworm | 3.00% | ~20,896 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 511)
 | Donk! | 0.20% | ~1,393 |
 | Bucket List | 0.10% | ~697 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 696,536 (Ranked 22)  
+Progressed: 696,542 (Ranked 22)  
 Completed: 2,230 (0.32%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,10 +230,10 @@ Completed: 2,230 (0.32%) (Ranked 200)
 | 2023-10-13 | 695,203 | 2,223 |
 | 2023-10-14 | 695,832 | 2,225 |
 | 2023-10-15 | 696,452 | 2,227 |
-| 2023-10-16 | 696,536 | 2,230 |
+| 2023-10-16 | 696,542 | 2,230 |
 ## Awards
 Max (Great Boss Battles): 6,462  (Ranked 56)  
-Sum: 9,662 (Ranked 91)  
+Sum: 9,664 (Ranked 91)  
 Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
@@ -241,7 +241,7 @@ Diff (max vs sum): -35
 | This game is Great for Beginners | 457 |
 | This game has Diverse Characters | 449 |
 | This game has Quickly Understood Controls | 425 |
-| This game is Relaxing | 405 |
+| This game is Relaxing | 407 |
 | This game has Amazing Storytelling | 383 |
 | This game is Highly Recommended | 365 |
 | This game is Extremely Fun | 364 |
@@ -427,4 +427,4 @@ Diff (max vs sum): -35
 | 2023-10-13 | 4.54 | 6,420 | 9,594 |
 | 2023-10-14 | 4.54 | 6,442 | 9,627 |
 | 2023-10-15 | 4.54 | 6,462 | 9,657 |
-| 2023-10-16 | 4.54 | 6,462 | 9,662 |
+| 2023-10-16 | 4.54 | 6,462 | 9,664 |

@@ -410,9 +410,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22215,
+  "EOS_Progressed": 22217,
   "EOS_Completed": 438,
-  "EOS_NewPlayers": 460,
+  "EOS_NewPlayers": 459,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.97,
   "EosHistory": [
@@ -19620,6 +19620,11 @@
       "Time": "2023-10-16T05:03:54.0262304+00:00",
       "NumProgressed": 22215,
       "NumCompleted": 438
+    },
+    {
+      "Time": "2023-10-16T07:03:56.0059425+00:00",
+      "NumProgressed": 22217,
+      "NumCompleted": 438
     }
   ],
   "TotalAchievements": 20,
@@ -19655,7 +19660,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1999
+      "UsersEstimate": 2000
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -19695,7 +19700,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 3332
+      "UsersEstimate": 3333
     },
     {
       "ID": "FOUND_ERIN",
@@ -19751,7 +19756,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 17106
+      "UsersEstimate": 17107
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -19759,7 +19764,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 5998
+      "UsersEstimate": 5999
     },
     {
       "ID": "NORTH_FINISHED",
@@ -19790,15 +19795,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 22215,
+      "Progressed": 22217,
       "Completed": 438
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-16T06:03:43.302178+00:00",
+  "LastChanged_Achievements": "2023-10-16T07:03:56.0059419+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:17.0806119+00:00",
-  "LastUpdate_Ratings": "2023-10-16T05:58:17.9591997+00:00",
-  "LastUpdate_Achievements": "2023-10-16T06:03:43.3022774+00:00"
+  "LastUpdate_Ratings": "2023-10-16T06:58:19.1106574+00:00",
+  "LastUpdate_Achievements": "2023-10-16T07:03:56.0060908+00:00"
 }
