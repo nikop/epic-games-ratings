@@ -2,7 +2,7 @@
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 1 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 100.00% |
-| 3 | [The Riflemen](games/t/the_riflemen.md) | 48.96% |
+| 3 | [The Riflemen](games/t/the_riflemen.md) | 48.93% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.15% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.99% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
@@ -22,11 +22,11 @@
 | 20 | [Island Cities](games/i/island_cities.md) | 16.55% |
 | 21 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 15.38% |
 | 22 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.12% |
-| 23 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 14.29% |
 | 23 | [Seven Doors](games/s/seven_doors.md) | 14.29% |
-| 25 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 12.77% |
-| 26 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 12.50% |
-| 26 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 12.50% |
+| 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 12.77% |
+| 25 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 12.50% |
+| 25 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 12.50% |
+| 25 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 12.50% |
 | 28 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.29% |
 | 29 | [Remains](games/r/remains.md) | 11.76% |
 | 30 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 11.59% |
@@ -109,7 +109,7 @@
 | 107 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.31% |
 | 108 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.22% |
 | 109 | [Bloodshore](games/b/bloodshore.md) | 2.14% |
-| 110 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.04% |
+| 110 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.03% |
 | 111 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.97% |
 | 112 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.96% |
 | 113 | [Night Book](games/n/night_book.md) | 1.84% |
@@ -164,11 +164,11 @@
 | 162 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
 | 163 | [Potion Permit](games/p/potion_permit.md) | 0.62% |
 | 164 | [Haven](games/h/haven.md) | 0.61% |
-| 165 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.59% |
-| 166 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.58% |
-| 166 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.58% |
-| 166 | [Grindstone](games/g/grindstone.md) | 0.58% |
-| 166 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.58% |
+| 165 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.58% |
+| 165 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.58% |
+| 165 | [Grindstone](games/g/grindstone.md) | 0.58% |
+| 165 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.58% |
+| 165 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.58% |
 | 170 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.57% |
 | 170 | [The Surge 2](games/t/the_surge_2.md) | 0.57% |
 | 172 | [Aragami 2](games/a/aragami_2.md) | 0.55% |

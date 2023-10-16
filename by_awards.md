@@ -1,7 +1,7 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
 | 1 | [Fortnite](games/f/fortnite.md) | 1,824,804 | 4.29 | 819 |
-| 2 | [Rocket League®](games/r/rocket_league®.md) | 577,198 | 4.48 | 608 |
+| 2 | [Rocket League®](games/r/rocket_league®.md) | 578,292 | 4.48 | 608 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 310,252 | 4.68 | 240 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 243,073 | 4.68 | 240 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 206,752 | 4.19 | 892 |
@@ -31,7 +31,7 @@
 | 29 | [Maneater](games/m/maneater.md) | 13,733 | 4.49 | 591 |
 | 30 | [Killing Floor 2](games/k/killing_floor_2.md) | 13,247 | 4.43 | 674 |
 | 31 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,709 | 4.36 | 760 |
-| 32 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 12,637 | 4.86 | 28 |
+| 32 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 12,647 | 4.86 | 28 |
 | 33 | [Satisfactory](games/s/satisfactory.md) | 12,000 | 4.88 | 16 |
 | 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 11,902 | 4.45 | 645 |
 | 35 | [NBA 2K21](games/n/nba_2k21.md) | 11,771 | 4.39 | 730 |
@@ -135,7 +135,7 @@
 | 133 | [XCOM® 2](games/x/xcom®_2.md) | 1,310 | 4.55 | 493 |
 | 134 | [DOOM 64](games/d/doom_64.md) | 1,296 | 4.66 | 282 |
 | 135 | [The Sims™ 4](games/t/the_sims™_4.md) | 1,289 | 4.63 | 337 |
-| 136 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,261 | 4.61 | 374 |
+| 136 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,262 | 4.61 | 374 |
 | 137 | [OUTRIDERS](games/o/outriders.md) | 1,231 | 4.42 | 689 |
 | 138 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,205 | 4.69 | 222 |
 | 139 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 1,143 | 4.46 | 628 |
@@ -145,7 +145,7 @@
 | 143 | [Saints Row](games/s/saints_row.md) | 1,069 | 3.79 | 1,002 |
 | 144 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 1,041 | 4.40 | 719 |
 | 144 | [Torchlight II](games/t/torchlight_ii.md) | 1,041 | 4.59 | 419 |
-| 146 | [Ooblets](games/o/ooblets.md) | 1,030 | 4.88 | 16 |
+| 146 | [Ooblets](games/o/ooblets.md) | 1,031 | 4.88 | 16 |
 | 147 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 1,024 | 4.79 | 91 |
 | 148 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 1,010 | 4.76 | 118 |
 | 148 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 1,010 | 4.23 | 866 |
@@ -174,8 +174,8 @@
 | 172 | [Neverwinter](games/n/neverwinter.md) | 745 | 4.29 | 819 |
 | 173 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 733 | 4.87 | 22 |
 | 174 | [Subnautica](games/s/subnautica.md) | 717 | 4.85 | 42 |
-| 175 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 716 | 4.74 | 148 |
-| 175 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 716 | 4.59 | 419 |
+| 174 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 717 | 4.59 | 419 |
+| 176 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 716 | 4.74 | 148 |
 | 177 | [Riders Republic](games/r/riders_republic.md) | 713 | 4.75 | 138 |
 | 178 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 707 | 4.61 | 374 |
 | 179 | [Neon Abyss](games/n/neon_abyss.md) | 695 | 4.68 | 240 |
@@ -207,7 +207,7 @@
 | 205 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 495 | 3.94 | 979 |
 | 206 | [Surviving Mars](games/s/surviving_mars.md) | 492 | 4.60 | 398 |
 | 207 | [Second Extinction™](games/s/second_extinction™.md) | 473 | 4.05 | 957 |
-| 208 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 470 | 4.41 | 698 |
+| 208 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 471 | 4.41 | 698 |
 | 209 | [Loop Hero](games/l/loop_hero.md) | 469 | 4.67 | 261 |
 | 210 | [Unreal Tournament](games/u/unreal_tournament.md) | 460 | 4.66 | 282 |
 | 211 | [RimWorld](games/r/rimworld.md) | 441 | 4.89 | 10 |
@@ -254,7 +254,7 @@
 | 252 | [Sheltered](games/s/sheltered.md) | 274 | 4.41 | 698 |
 | 253 | [MudRunner](games/m/mudrunner.md) | 269 | 4.61 | 374 |
 | 253 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 269 | 4.84 | 49 |
-| 255 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 264 | 4.61 | 374 |
+| 255 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 267 | 4.61 | 374 |
 | 256 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 262 | 4.58 | 437 |
 | 256 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 262 | 4.50 | 574 |
 | 258 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 261 | 4.67 | 261 |

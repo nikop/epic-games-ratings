@@ -16,7 +16,7 @@
 | 10 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.89 | 0 | 537 |
 | 10 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 19,208 | 21 |
 | 16 | [God of War](games/g/god_of_war.md) | 4.88 | 4,276 | 80 |
-| 16 | [Ooblets](games/o/ooblets.md) | 4.88 | 1,030 | 146 |
+| 16 | [Ooblets](games/o/ooblets.md) | 4.88 | 1,031 | 146 |
 | 16 | [Rain World](games/r/rain_world.md) | 4.88 | 0 | 537 |
 | 16 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 187,366 | 6 |
 | 16 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 12,000 | 33 |
@@ -32,7 +32,7 @@
 | 28 | [Blasphemous](games/b/blasphemous.md) | 4.86 | 157 | 304 |
 | 28 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 39 | 442 |
 | 28 | [Inscryption](games/i/inscryption.md) | 4.86 | 340 | 234 |
-| 28 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.86 | 12,637 | 32 |
+| 28 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.86 | 12,647 | 32 |
 | 28 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 97 | 351 |
 | 28 | [Rayman Origins](games/r/rayman_origins.md) | 4.86 | 28 | 483 |
 | 28 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 157 | 304 |
@@ -151,7 +151,7 @@
 | 148 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.74 | 0 | 537 |
 | 148 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 824 | 160 |
 | 148 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 15,951 | 24 |
-| 148 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 716 | 175 |
+| 148 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 716 | 176 |
 | 148 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.74 | 0 | 537 |
 | 148 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 7,233 | 52 |
 | 148 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.74 | 0 | 537 |
@@ -384,7 +384,7 @@
 | 374 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 46,734 | 12 |
 | 374 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 4.61 | 0 | 537 |
 | 374 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 0 | 537 |
-| 374 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,261 | 136 |
+| 374 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,262 | 136 |
 | 374 | [MudRunner](games/m/mudrunner.md) | 4.61 | 269 | 253 |
 | 374 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 0 | 537 |
 | 374 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 707 | 178 |
@@ -395,7 +395,7 @@
 | 374 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 289 | 244 |
 | 374 | [Supraland](games/s/supraland.md) | 4.61 | 7,699 | 47 |
 | 374 | [Tavern Master](games/t/tavern_master.md) | 4.61 | 0 | 537 |
-| 374 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.61 | 264 | 255 |
+| 374 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.61 | 267 | 255 |
 | 374 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.61 | 0 | 537 |
 | 398 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.60 | 0 | 537 |
 | 398 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.60 | 26 | 498 |
@@ -434,7 +434,7 @@
 | 419 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 351 | 232 |
 | 419 | [Torchlight II](games/t/torchlight_ii.md) | 4.59 | 1,041 | 144 |
 | 419 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.59 | 0 | 537 |
-| 419 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 716 | 175 |
+| 419 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 717 | 174 |
 | 419 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.59 | 86 | 364 |
 | 437 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.58 | 45 | 428 |
 | 437 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.58 | 0 | 537 |
@@ -613,7 +613,7 @@
 | 608 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.48 | 38 | 445 |
 | 608 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.48 | 0 | 537 |
 | 608 | [Redout 2](games/r/redout_2.md) | 4.48 | 0 | 537 |
-| 608 | [Rocket League®](games/r/rocket_league®.md) | 4.48 | 577,198 | 2 |
+| 608 | [Rocket League®](games/r/rocket_league®.md) | 4.48 | 578,292 | 2 |
 | 608 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.48 | 0 | 537 |
 | 608 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.48 | 0 | 537 |
 | 608 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.48 | 103 | 342 |
@@ -713,7 +713,7 @@
 | 698 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 0 | 537 |
 | 698 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 38 | 445 |
 | 698 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 74 | 382 |
-| 698 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.41 | 470 | 208 |
+| 698 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.41 | 471 | 208 |
 | 698 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,216 | 107 |
 | 698 | [Sheltered](games/s/sheltered.md) | 4.41 | 274 | 252 |
 | 698 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.41 | 0 | 537 |
