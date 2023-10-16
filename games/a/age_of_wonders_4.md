@@ -38,9 +38,9 @@ Rating: 4.60 (Ranked 399)
 | The Goddess of Nature | 3.00% | ~157 |
 | Eternal Lord | 3.00% | ~157 |
 | Crimson Caldera | 3.00% | ~157 |
+| The Eternal Court | 3.00% | ~157 |
 | I've Got Everything I Need Right Here | 2.00% | ~104 |
 | The Magic That Empowers Me! | 2.00% | ~104 |
-| The Eternal Court | 2.00% | ~104 |
 | Jack of All Tomes | 2.00% | ~104 |
 | Pruning for Progress | 2.00% | ~104 |
 | Grexolis | 2.00% | ~104 |

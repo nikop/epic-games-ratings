@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -284,9 +284,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3231,
+  "EOS_Progressed": 3232,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5304,6 +5304,11 @@
       "Time": "2023-10-16T13:18:23.7615619+00:00",
       "NumProgressed": 3231,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-16T16:09:24.8057209+00:00",
+      "NumProgressed": 3232,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -5323,7 +5328,7 @@
       "Name": "Man\u0027s Best Friend",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "ACH_BASE_11",
@@ -5483,7 +5488,7 @@
       "Name": "Exceeding Capacity",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "ACH_BASE_31",
@@ -5491,7 +5496,7 @@
       "Name": "Power Outage",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "ACH_BASE_32",
@@ -5523,7 +5528,7 @@
       "Name": "Breaking Protocol",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "ACH_BASE_36",
@@ -5667,7 +5672,7 @@
       "Name": "Please Make it Stop!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "ACH_BASE_57",
@@ -5699,7 +5704,7 @@
       "Name": "Hope Seeker",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "ACH_BASE_60",
@@ -5770,13 +5775,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1413,
+      "Progressed": 1414,
       "Completed": 7
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3231,
+      "Progressed": 3232,
       "Completed": 0
     }
   ],
@@ -5784,8 +5789,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-09-17T17:59:23.8865698+00:00",
-  "LastChanged_Achievements": "2023-10-16T15:11:18.6857989+00:00",
+  "LastChanged_Achievements": "2023-10-16T16:09:24.8057197+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:38.5119493+00:00",
-  "LastUpdate_Ratings": "2023-10-16T15:04:18.6899683+00:00",
-  "LastUpdate_Achievements": "2023-10-16T15:11:18.685908+00:00"
+  "LastUpdate_Ratings": "2023-10-16T16:02:58.6090574+00:00",
+  "LastUpdate_Achievements": "2023-10-16T16:09:24.8058137+00:00"
 }

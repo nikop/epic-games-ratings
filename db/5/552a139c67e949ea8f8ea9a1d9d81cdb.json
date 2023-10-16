@@ -185,9 +185,9 @@
       "ID": "ML_ACHIEVEMENT_11",
       "SetID": "5k00jcd",
       "Name": "It\u0027s me you have to beat",
-      "Percentage": 6,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ML_ACHIEVEMENT_12",
@@ -455,8 +455,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-10-16T15:08:11.0019688+00:00",
+  "LastChanged_Achievements": "2023-10-16T16:05:47.4710365+00:00",
   "LastUpdate_AppInfo": "2023-10-11T23:57:08.5579782+00:00",
-  "LastUpdate_Ratings": "2023-10-16T15:04:17.352206+00:00",
-  "LastUpdate_Achievements": "2023-10-16T15:08:11.0031227+00:00"
+  "LastUpdate_Ratings": "2023-10-16T16:02:57.8380329+00:00",
+  "LastUpdate_Achievements": "2023-10-16T16:05:47.4710737+00:00"
 }

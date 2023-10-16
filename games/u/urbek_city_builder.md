@@ -31,6 +31,7 @@
 | What would we do if we can't go out with friends? | 0.30% | ~1 |
 | Metropolurbek | 0.30% | ~1 |
 | Rebel city | 0.30% | ~1 |
+| Temperate builder | 0.30% | ~1 |
 | Anarchist Utopia | 0.00% | ~0 |
 | Anarchist paradise | 0.00% | ~0 |
 | Full archipelago | 0.00% | ~0 |
@@ -75,7 +76,6 @@
 | Sport is the best thing | 0.00% | ~0 |
 | Everyone should always do sport! | 0.00% | ~0 |
 | Full temperate | 0.00% | ~0 |
-| Temperate builder | 0.00% | ~0 |
 | Temperate urban planner | 0.00% | ~0 |
 | Temperate master | 0.00% | ~0 |
 | Full rainforest | 0.00% | ~0 |

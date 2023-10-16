@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Powerful Allies | 17.00% | ~6 |
+| Powerful Allies | 20.00% | ~7 |
 | Adventurer | 14.00% | ~5 |
 | Essence Blow | 14.00% | ~5 |
 | Scholar | 14.00% | ~5 |

@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 400,
+  "EOS_Progressed": 401,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -1281,6 +1281,11 @@
       "Time": "2023-10-16T13:15:26.8325683+00:00",
       "NumProgressed": 400,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-16T16:06:11.6127078+00:00",
+      "NumProgressed": 401,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-04T13:10:46.6045542+00:00",
@@ -1291,15 +1296,15 @@
       "ID": "ACH_CABLES_LENGTH",
       "SetID": "al4k4nh",
       "Name": "Cables in Paris",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_CONNECT_19_LAMPS_TO_SWITCH",
       "SetID": "al4k4nh",
       "Name": "One to rule them all",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -1341,7 +1346,7 @@
       "Name": "I love customers",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "ACH_END_FIRST_TUTORIAL",
@@ -1349,15 +1354,15 @@
       "Name": "Ready to go",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "ACH_END_FIRST_WORKBENCH_MISSION",
       "SetID": "al4k4nh",
       "Name": "I can fix that",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 296
+      "UsersEstimate": 301
     },
     {
       "ID": "ACH_END_MAIL_MISSION_FAST",
@@ -1373,15 +1378,15 @@
       "Name": "First shock",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ACH_FIX_LIGHT_SWITCHES",
       "SetID": "al4k4nh",
       "Name": "Illuminator",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_FIX_OUTLETS",
@@ -1403,15 +1408,15 @@
       "ID": "ACH_GET_MONEY",
       "SetID": "al4k4nh",
       "Name": "Wealthy electrician",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 8
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_GET_POINTS_IN_ELETRIS",
       "SetID": "al4k4nh",
       "Name": "Retro feeling",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -1427,7 +1432,7 @@
       "ID": "ACH_LISTEN_ALL_MUSIC",
       "SetID": "al4k4nh",
       "Name": "Audiophile",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -1437,7 +1442,7 @@
       "Name": "Home sweet home",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "ACH_PLACE_MANY_ITEMS_IN_OFFICE",
@@ -1461,7 +1466,7 @@
       "Name": "Unpacked",
       "Percentage": 98,
       "XP": 15,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "ACH_SHOCK_ON_MISSION",
@@ -1491,23 +1496,23 @@
       "ID": "ACH_WATCH_ALL_TV_CHANNELS",
       "SetID": "al4k4nh",
       "Name": "Watch me",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
     {
       "ID": "al4k4nh",
       "IsBase": true,
-      "Progressed": 400,
+      "Progressed": 401,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-10-16T15:08:31.0677685+00:00",
+  "LastChanged_Achievements": "2023-10-16T16:06:11.6127075+00:00",
   "LastUpdate_AppInfo": "2023-10-11T21:57:08.1110883+00:00",
-  "LastUpdate_Ratings": "2023-10-16T15:03:10.9515546+00:00",
-  "LastUpdate_Achievements": "2023-10-16T15:08:31.0678+00:00"
+  "LastUpdate_Ratings": "2023-10-16T16:01:47.7969211+00:00",
+  "LastUpdate_Achievements": "2023-10-16T16:06:11.6127332+00:00"
 }

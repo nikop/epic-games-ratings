@@ -449,9 +449,9 @@
       "ID": "ACHIEVEMENT_TechSavvy",
       "SetID": "70j9o42",
       "Name": "Brainiac",
-      "Percentage": 16,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_Thelima_Ending",
@@ -480,8 +480,8 @@
   ],
   "FirstSeen": "2023-07-28T15:57:49.6060029+00:00",
   "FirstSeenAchievements": "2023-07-12T17:04:29.8033729+00:00",
-  "LastChanged_Achievements": "2023-10-16T15:06:11.0018783+00:00",
+  "LastChanged_Achievements": "2023-10-16T16:04:21.3510656+00:00",
   "LastUpdate_AppInfo": "2023-10-10T13:57:13.6528159+00:00",
-  "LastUpdate_Ratings": "2023-10-16T15:03:58.6922185+00:00",
-  "LastUpdate_Achievements": "2023-10-16T15:06:11.0019134+00:00"
+  "LastUpdate_Ratings": "2023-10-16T16:02:42.2466858+00:00",
+  "LastUpdate_Achievements": "2023-10-16T16:04:21.3510961+00:00"
 }

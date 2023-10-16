@@ -283,9 +283,9 @@
       "ID": "KR4_ACHIEVEMENT_FEELS_GOOD_TO_BE_BACK",
       "SetID": "caeik3h",
       "Name": "Feels Good To Be Back",
-      "Percentage": 115,
+      "Percentage": 120,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "KR4_ACHIEVEMENT_FIND_THE_CAPT",
@@ -754,8 +754,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-10-16T15:06:25.2834724+00:00",
+  "LastChanged_Achievements": "2023-10-16T16:04:31.6481472+00:00",
   "LastUpdate_AppInfo": "2023-10-12T15:57:01.5965856+00:00",
-  "LastUpdate_Ratings": "2023-10-16T15:01:27.8818645+00:00",
-  "LastUpdate_Achievements": "2023-10-16T15:06:25.2835502+00:00"
+  "LastUpdate_Ratings": "2023-10-16T16:00:14.4584258+00:00",
+  "LastUpdate_Achievements": "2023-10-16T16:04:31.6482328+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "5c56ef1316244bc693e30007d5bd4092",
   "Name": "Dread X Collection",
   "ProductSlug": "dread-x-collection-0a878f",
-  "Ranking_EOS_Progress": 670,
+  "Ranking_EOS_Progress": 671,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 390,
+  "Ranking_EOS_NewPlayers": 393,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-05-12T08:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:38.9507626+00:00",
   "LastChanged": "2023-03-31T05:58:38.9507627+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:20.3727588+00:00",
-  "LastUpdate_Ratings": "2023-10-16T14:57:39.6163298+00:00",
-  "LastUpdate_Achievements": "2023-10-16T15:08:49.715984+00:00"
+  "LastUpdate_Ratings": "2023-10-16T15:57:25.491659+00:00",
+  "LastUpdate_Achievements": "2023-10-16T16:06:25.2968064+00:00"
 }

@@ -6,6 +6,7 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Settler | 3.00% | ~442 |
 | Play a Single Player Game | 3.00% | ~442 |
 | Able | 2.00% | ~295 |
 | Architect | 2.00% | ~295 |
@@ -16,7 +17,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mason | 2.00% | ~295 |
 | Noble | 2.00% | ~295 |
 | Pioneer | 2.00% | ~295 |
-| Settler | 2.00% | ~295 |
 | Strong | 2.00% | ~295 |
 | Friendly Family | 2.00% | ~295 |
 | Hanging Gardens | 2.00% | ~295 |
@@ -93,6 +93,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Subjugator | 0.50% | ~74 |
 | Landowners | 0.50% | ~74 |
 | Riders | 0.50% | ~74 |
+| Statesmen | 0.50% | ~74 |
 | Traders | 0.50% | ~74 |
 | Hittite Iron | 0.50% | ~74 |
 | Hagia Sophia | 0.50% | ~74 |
@@ -113,7 +114,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ready | 0.40% | ~59 |
 | Strong Difficulty | 0.40% | ~59 |
 | Hunters | 0.40% | ~59 |
-| Statesmen | 0.40% | ~59 |
 | Babylonia | 0.40% | ~59 |
 | Carthage | 0.40% | ~59 |
 | One True Faith | 0.40% | ~59 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,736 (Ranked 135)  
+Progressed: 14,740 (Ranked 135)  
 Completed: 5 (0.03%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -528,7 +528,7 @@ Completed: 5 (0.03%) (Ranked 283)
 | 2023-10-13 | 14,652 | 5 |
 | 2023-10-14 | 14,699 | 5 |
 | 2023-10-15 | 14,732 | 5 |
-| 2023-10-16 | 14,736 | 5 |
+| 2023-10-16 | 14,740 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,841 (Ranked 210)  

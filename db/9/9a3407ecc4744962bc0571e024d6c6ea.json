@@ -4,7 +4,7 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 864,
+  "EOS_Progressed": 865,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -2031,6 +2031,11 @@
       "Time": "2023-10-15T16:03:54.976914+00:00",
       "NumProgressed": 864,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-16T16:05:03.6264443+00:00",
+      "NumProgressed": 865,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -2043,7 +2048,7 @@
       "Name": "A Better Tomorrow",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "BostonHayDay",
@@ -2059,7 +2064,7 @@
       "Name": "Boxing Clever",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "Cartographer",
@@ -2067,7 +2072,7 @@
       "Name": "Cartographer",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "Causality",
@@ -2139,7 +2144,7 @@
       "Name": "Once more into the Breach",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "Outpatient",
@@ -2147,7 +2152,7 @@
       "Name": "Outpatient",
       "Percentage": 61,
       "XP": 50,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "Relic",
@@ -2155,7 +2160,7 @@
       "Name": "Relic",
       "Percentage": 78,
       "XP": 20,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "SkeletonCrew",
@@ -2163,7 +2168,7 @@
       "Name": "Skeleton Crew",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "TerraTourGuide",
@@ -2195,21 +2200,21 @@
       "Name": "Welcome to Fort Solis",
       "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 864,
+      "Progressed": 865,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-10-16T15:07:10.0875804+00:00",
+  "LastChanged_Achievements": "2023-10-16T16:05:03.6264429+00:00",
   "LastUpdate_AppInfo": "2023-10-11T15:57:05.4111665+00:00",
-  "LastUpdate_Ratings": "2023-10-16T15:01:18.1816939+00:00",
-  "LastUpdate_Achievements": "2023-10-16T15:07:10.0876106+00:00"
+  "LastUpdate_Ratings": "2023-10-16T16:00:07.6485351+00:00",
+  "LastUpdate_Achievements": "2023-10-16T16:05:03.6264718+00:00"
 }

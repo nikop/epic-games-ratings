@@ -1040,9 +1040,9 @@
       "ID": "achievement_7",
       "SetID": "2cpn27e",
       "Name": "Budding Conjuror",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "achievement_8",
@@ -1070,8 +1070,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-10-16T15:11:12.8665951+00:00",
+  "LastChanged_Achievements": "2023-10-16T16:09:20.6942577+00:00",
   "LastUpdate_AppInfo": "2023-10-14T13:56:56.586235+00:00",
-  "LastUpdate_Ratings": "2023-10-16T15:03:52.3580508+00:00",
-  "LastUpdate_Achievements": "2023-10-16T15:11:12.8666465+00:00"
+  "LastUpdate_Ratings": "2023-10-16T16:02:34.4511124+00:00",
+  "LastUpdate_Achievements": "2023-10-16T16:09:20.6943086+00:00"
 }

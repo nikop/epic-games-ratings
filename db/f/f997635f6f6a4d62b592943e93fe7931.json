@@ -2,9 +2,9 @@
   "ID": "f997635f6f6a4d62b592943e93fe7931",
   "Name": "Uncontained",
   "ProductSlug": "uncontained-65dbe2",
-  "Ranking_EOS_Progress": 670,
+  "Ranking_EOS_Progress": 671,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 390,
+  "Ranking_EOS_NewPlayers": 393,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-14T04:57:30.4203484+00:00",
-  "LastUpdate_Ratings": "2023-10-16T15:03:15.5739401+00:00",
-  "LastUpdate_Achievements": "2023-10-16T15:06:44.005426+00:00"
+  "LastUpdate_Ratings": "2023-10-16T16:01:51.9721316+00:00",
+  "LastUpdate_Achievements": "2023-10-16T16:04:44.9703108+00:00"
 }
