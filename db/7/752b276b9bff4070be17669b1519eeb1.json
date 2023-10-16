@@ -2,9 +2,9 @@
   "ID": "752b276b9bff4070be17669b1519eeb1",
   "Name": "Snowbreak Containment Zone",
   "ProductSlug": "snowbreak-containment-zone-abc820",
-  "Ranking_Rating": 744,
+  "Ranking_Rating": 745,
   "Ranking_Popularity": 423,
-  "Ranking_PopularitySum": 357,
+  "Ranking_PopularitySum": 356,
   "Ranking_EOS_Progress": 670,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 390,
@@ -722,10 +722,16 @@
       "Rating": 4.38,
       "NumberOfAwards": 284,
       "NumberOfAwardsMax": 47
+    },
+    {
+      "Time": "2023-10-16T12:02:19.3788626+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 287,
+      "NumberOfAwardsMax": 47
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 284,
+  "NumberOfAwards": 287,
   "NumberOfAwardsMax": 47,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -775,7 +781,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 26
+      "Count": 29
     },
     {
       "Text": "This game has Diverse Characters",
@@ -802,8 +808,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-25T06:57:36.7654235+00:00",
   "FirstSeenRating": "2023-07-29T23:57:57.5620258+00:00",
-  "LastChanged": "2023-10-16T05:01:32.2404938+00:00",
+  "LastChanged": "2023-10-16T12:02:19.3788622+00:00",
   "LastUpdate_AppInfo": "2023-10-12T15:57:03.8228327+00:00",
-  "LastUpdate_Ratings": "2023-10-16T11:01:52.6385021+00:00",
-  "LastUpdate_Achievements": "2023-10-16T11:04:16.6457284+00:00"
+  "LastUpdate_Ratings": "2023-10-16T12:02:19.3788628+00:00",
+  "LastUpdate_Achievements": "2023-10-16T12:04:21.2400545+00:00"
 }

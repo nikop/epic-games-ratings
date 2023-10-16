@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 73,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -76,11 +76,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 681,
+  "EOS_Progressed": 682,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.82,
+  "EOS_Completed_Percentage": 3.81,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -2526,6 +2526,11 @@
       "Time": "2023-10-15T00:05:34.6578968+00:00",
       "NumProgressed": 681,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-10-16T12:07:51.2218185+00:00",
+      "NumProgressed": 682,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 28,
@@ -2545,7 +2550,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 66,
       "XP": 40,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "MQ02_1",
@@ -2577,7 +2582,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 57,
       "XP": 40,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "MQ03_1",
@@ -2593,7 +2598,7 @@
       "Name": "Lock, Stock, And Barrel",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "MQ03_3",
@@ -2625,7 +2630,7 @@
       "Name": "Going Once...",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "MQ04_2",
@@ -2641,7 +2646,7 @@
       "Name": "The New World",
       "Percentage": 50,
       "XP": 40,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "MQ05_1",
@@ -2657,7 +2662,7 @@
       "Name": "Back In The Saddle",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "MQ05_3",
@@ -2721,7 +2726,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "MQ08_1",
@@ -2745,7 +2750,7 @@
       "Name": "Fhtagn!",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "PLTN",
@@ -2760,7 +2765,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 681,
+      "Progressed": 682,
       "Completed": 26
     }
   ],
@@ -2768,8 +2773,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-09-29T08:03:08.864479+00:00",
-  "LastChanged_Achievements": "2023-10-16T11:07:27.2706747+00:00",
+  "LastChanged_Achievements": "2023-10-16T12:07:51.2218177+00:00",
   "LastUpdate_AppInfo": "2023-10-14T11:57:11.1901804+00:00",
-  "LastUpdate_Ratings": "2023-10-16T11:00:25.9647027+00:00",
-  "LastUpdate_Achievements": "2023-10-16T11:07:27.2707033+00:00"
+  "LastUpdate_Ratings": "2023-10-16T12:00:47.4603941+00:00",
+  "LastUpdate_Achievements": "2023-10-16T12:07:51.221855+00:00"
 }

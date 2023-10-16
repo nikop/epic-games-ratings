@@ -1248,9 +1248,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5582,
+  "EOS_Progressed": 5583,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -11388,6 +11388,11 @@
       "Time": "2023-10-16T08:06:22.409077+00:00",
       "NumProgressed": 5582,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-16T12:07:49.0284567+00:00",
+      "NumProgressed": 5583,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -11559,7 +11564,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4186
+      "UsersEstimate": 4187
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -11671,7 +11676,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2065
+      "UsersEstimate": 2066
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -11718,15 +11723,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5582,
+      "Progressed": 5583,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-10-14T18:59:33.6395452+00:00",
-  "LastChanged_Achievements": "2023-10-16T11:07:25.0738606+00:00",
+  "LastChanged_Achievements": "2023-10-16T12:07:49.0284561+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:19.8725489+00:00",
-  "LastUpdate_Ratings": "2023-10-16T11:00:27.6437739+00:00",
-  "LastUpdate_Achievements": "2023-10-16T11:07:25.0739355+00:00"
+  "LastUpdate_Ratings": "2023-10-16T12:00:49.1229756+00:00",
+  "LastUpdate_Achievements": "2023-10-16T12:07:49.0285539+00:00"
 }

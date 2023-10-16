@@ -130,6 +130,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kmt Unified | 0.40% | ~59 |
 | Bad Heir Day | 0.30% | ~44 |
 | Ishtar Gate in Babylon | 0.30% | ~44 |
+| Carthage - Ox Hide | 0.30% | ~44 |
 | Devout | 0.30% | ~44 |
 | Noble Difficulty | 0.30% | ~44 |
 | Clerics | 0.30% | ~44 |
@@ -146,7 +147,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Rmt n Kmt Buhen | 0.30% | ~44 |
 | Greater Kmt Unified | 0.30% | ~44 |
 | Beja Archer | 0.30% | ~44 |
-| Carthage - Ox Hide | 0.20% | ~29 |
 | Old | 0.20% | ~29 |
 | Peacemaker | 0.20% | ~29 |
 | Glorious Difficulty | 0.20% | ~29 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,735 (Ranked 135)  
+Progressed: 14,736 (Ranked 135)  
 Completed: 5 (0.03%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -528,7 +528,7 @@ Completed: 5 (0.03%) (Ranked 283)
 | 2023-10-13 | 14,652 | 5 |
 | 2023-10-14 | 14,699 | 5 |
 | 2023-10-15 | 14,732 | 5 |
-| 2023-10-16 | 14,735 | 5 |
+| 2023-10-16 | 14,736 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,840 (Ranked 210)  

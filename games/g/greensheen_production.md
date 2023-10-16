@@ -8,22 +8,22 @@
 | Toys Are For Kids | 44.00% | ~4 |
 | Paled | 44.00% | ~4 |
 | Schooled | 44.00% | ~4 |
+| Foraged | 44.00% | ~4 |
 | Hunger | 44.00% | ~4 |
 | Signal interruption | 44.00% | ~4 |
 | ...And Stay Dead! | 44.00% | ~4 |
+| Fair Prey | 44.00% | ~4 |
 | Mono Tones | 44.00% | ~4 |
 | True Colours | 44.00% | ~4 |
 | In The Palm Of My Hand | 33.00% | ~3 |
 | Bully of Bullies | 33.00% | ~3 |
 | Hospitalised | 33.00% | ~3 |
-| Foraged | 33.00% | ~3 |
 | Merciful feat | 33.00% | ~3 |
 | Far Ahead | 33.00% | ~3 |
 | Referee! | 33.00% | ~3 |
 | Unladylike | 33.00% | ~3 |
 | Half hat | 33.00% | ~3 |
 | Objection | 33.00% | ~3 |
-| Fair Prey | 33.00% | ~3 |
 | Sick Kids | 33.00% | ~3 |
 | Pale Kids | 33.00% | ~3 |
 | Wild Kids | 33.00% | ~3 |

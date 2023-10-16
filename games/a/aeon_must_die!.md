@@ -33,15 +33,15 @@
 | Respect Earned | 0.30% | ~11 |
 | You're Trapped Here With Me | 0.30% | ~11 |
 | Out Of My Way | 0.30% | ~11 |
+| A Path Scarred by Choice | 0.30% | ~11 |
 | Rush Of Flames | 0.20% | ~7 |
 | Cold Blooded | 0.20% | ~7 |
-| A Path Scarred by Choice | 0.20% | ~7 |
 | Don't Need Your Help | 0.10% | ~4 |
 | Full Might Of The Armada | 0.10% | ~4 |
 | The Many Fates Of The Many | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,566 (Ranked 184)  
-Completed: -28 (-0.79%) (Ranked 3,401)  
+Completed: -28 (-0.79%) (Ranked 3,402)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

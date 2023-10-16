@@ -174,9 +174,9 @@
       "ID": "Chapter07_Reunion",
       "SetID": "c8fdd59",
       "Name": "Reunion",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Chapter08_UntimelyAdversity",
@@ -445,8 +445,8 @@
   ],
   "FirstSeen": "2023-09-08T10:00:07.3821883+00:00",
   "FirstSeenAchievements": "2023-08-28T07:03:21.9021387+00:00",
-  "LastChanged_Achievements": "2023-10-16T11:05:41.4695961+00:00",
-  "LastUpdate_AppInfo": "2023-10-09T10:57:20.738043+00:00",
-  "LastUpdate_Ratings": "2023-10-16T10:57:16.6485667+00:00",
-  "LastUpdate_Achievements": "2023-10-16T11:05:41.4696411+00:00"
+  "LastChanged_Achievements": "2023-10-16T12:06:06.2500528+00:00",
+  "LastUpdate_AppInfo": "2023-10-16T11:57:12.0063097+00:00",
+  "LastUpdate_Ratings": "2023-10-16T11:57:17.6912082+00:00",
+  "LastUpdate_Achievements": "2023-10-16T12:06:06.2500902+00:00"
 }

@@ -51,7 +51,7 @@ Rating: 4.67 (Ranked 262)
 | Under the Microscope | 1.00% | ~33 |
 | Saturday Night Drama | 1.00% | ~33 |
 | Ultimate Collector | 0.50% | ~16 |
-| Golden Touch | 0.30% | ~10 |
+| Golden Touch | 0.40% | ~13 |
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

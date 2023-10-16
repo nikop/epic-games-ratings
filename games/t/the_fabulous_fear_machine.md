@@ -17,11 +17,11 @@
 | Pulp! Out of this World | 41.00% | ~12 |
 | Pulp! Adventures into the Unknown | 41.00% | ~12 |
 | Kirlian's best disciple | 41.00% | ~12 |
+| The artist | 34.00% | ~10 |
+| The seer | 34.00% | ~10 |
 | Diagnosis: fear | 34.00% | ~10 |
 | Ambition is... blind | 34.00% | ~10 |
 | You have two wishes left | 34.00% | ~10 |
-| The artist | 31.00% | ~9 |
-| The seer | 31.00% | ~9 |
 | Et in arcadia ego | 28.00% | ~8 |
 | Welcome to Hellville | 28.00% | ~8 |
 | You had one wish left | 24.00% | ~7 |

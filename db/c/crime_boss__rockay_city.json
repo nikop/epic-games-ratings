@@ -3988,10 +3988,16 @@
       "Rating": 3.94,
       "NumberOfAwards": 2355,
       "NumberOfAwardsMax": 495
+    },
+    {
+      "Time": "2023-10-16T12:00:23.0623163+00:00",
+      "Rating": 3.94,
+      "NumberOfAwards": 2357,
+      "NumberOfAwardsMax": 495
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 2355,
+  "NumberOfAwards": 2357,
   "NumberOfAwardsMax": 495,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4035,7 +4041,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 467
+      "Count": 469
     },
     {
       "Text": "This game has a Silly Community",
@@ -4044,7 +4050,7 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 89120,
+  "EOS_Progressed": 89122,
   "EOS_Completed": 50,
   "EOS_NewPlayers": 187,
   "EOS_NewCompleters": 2,
@@ -22304,6 +22310,11 @@
       "Time": "2023-10-16T11:04:05.8761908+00:00",
       "NumProgressed": 89120,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-10-16T12:04:10.6524851+00:00",
+      "NumProgressed": 89122,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 41,
@@ -22642,22 +22653,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 89120,
+      "Progressed": 89122,
       "Completed": 50
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 17467,
+      "Progressed": 17469,
       "Completed": 15547
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-10-15T18:58:57.0056981+00:00",
-  "LastChanged_Achievements": "2023-10-16T11:04:05.8761903+00:00",
+  "LastChanged": "2023-10-16T12:00:23.0623161+00:00",
+  "LastChanged_Achievements": "2023-10-16T12:04:10.6524847+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:09.3878818+00:00",
-  "LastUpdate_Ratings": "2023-10-16T11:00:00.2738615+00:00",
-  "LastUpdate_Achievements": "2023-10-16T11:04:05.8762998+00:00"
+  "LastUpdate_Ratings": "2023-10-16T12:00:23.0623168+00:00",
+  "LastUpdate_Achievements": "2023-10-16T12:04:10.6526319+00:00"
 }

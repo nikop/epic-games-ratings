@@ -4,7 +4,7 @@
   "ProductSlug": "silence-57bc4e",
   "Ranking_EOS_Progress": 364,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 133,
+  "EOS_Progressed": 134,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -257,6 +257,11 @@
       "Time": "2023-10-13T19:06:20.0474593+00:00",
       "NumProgressed": 133,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-16T12:07:29.3845092+00:00",
+      "NumProgressed": 134,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 46,
@@ -274,17 +279,17 @@
       "ID": "0000_achv_failbalance",
       "SetID": "dhn82m5",
       "Name": "Artistic fool",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 47
+      "UsersEstimate": 46
     },
     {
       "ID": "0000_achv_fallspot",
       "SetID": "dhn82m5",
       "Name": "Summit attempt",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "0000_achv_findbugs",
@@ -306,9 +311,9 @@
       "ID": "0000_achv_kickEverything",
       "SetID": "dhn82m5",
       "Name": "Let the boot talk",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 42
     },
     {
       "ID": "0000_achv_noskip",
@@ -322,7 +327,7 @@
       "ID": "0000_achv_nosnoop",
       "SetID": "dhn82m5",
       "Name": "Sherlock Holmes",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -338,7 +343,7 @@
       "ID": "0000_achv_skip_puzzle",
       "SetID": "dhn82m5",
       "Name": "Done. First!",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -378,9 +383,9 @@
       "ID": "1001_achv_shadowplay",
       "SetID": "dhn82m5",
       "Name": "Shadow on the wall",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "1004_achv_farts",
@@ -394,9 +399,9 @@
       "ID": "1004_achv_wormtooth",
       "SetID": "dhn82m5",
       "Name": "Open up wide",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 46
     },
     {
       "ID": "1006_achv_chapter1",
@@ -404,7 +409,7 @@
       "Name": "Chapter I",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "1006_achv_demoliton",
@@ -452,13 +457,13 @@
       "Name": "I didn\u0027t do it!",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "2002_achv_feedfish",
       "SetID": "dhn82m5",
       "Name": "Do not feed the fish!",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -474,9 +479,9 @@
       "ID": "2004_achv_abyss",
       "SetID": "dhn82m5",
       "Name": "Wooooooow!",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 50
     },
     {
       "ID": "2004_achv_hitkyra",
@@ -492,7 +497,7 @@
       "Name": "Chapter II",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "2008_achv_bubble",
@@ -530,9 +535,9 @@
       "ID": "2009_achv_lifewheel",
       "SetID": "dhn82m5",
       "Name": "Where there is life, there is hope",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "3002_achv_checkmate",
@@ -546,17 +551,17 @@
       "ID": "3003_achv_allKyraTexts",
       "SetID": "dhn82m5",
       "Name": "Shut up clown!",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "3003_achv_useAllCandlesWithAllObjects",
       "SetID": "dhn82m5",
       "Name": "Fastidious Clown",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 25
     },
     {
       "ID": "3004_achv_sneeze",
@@ -564,7 +569,7 @@
       "Name": "Achoo!!",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "3005_achv_getting_rich",
@@ -635,7 +640,7 @@
     {
       "ID": "dhn82m5",
       "IsBase": true,
-      "Progressed": 133,
+      "Progressed": 134,
       "Completed": 0
     }
   ],
@@ -643,8 +648,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-10-16T11:07:05.8595078+00:00",
+  "LastChanged_Achievements": "2023-10-16T12:07:29.3845083+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:18.7785976+00:00",
-  "LastUpdate_Ratings": "2023-10-16T10:57:41.9533473+00:00",
-  "LastUpdate_Achievements": "2023-10-16T11:07:05.8595387+00:00"
+  "LastUpdate_Ratings": "2023-10-16T11:57:43.9476851+00:00",
+  "LastUpdate_Achievements": "2023-10-16T12:07:29.3845527+00:00"
 }

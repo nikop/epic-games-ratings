@@ -6,7 +6,7 @@
   "Ranking_Popularity": 143,
   "Ranking_PopularitySum": 97,
   "Ranking_EOS_Progress": 90,
-  "Ranking_EOS_Completed": 261,
+  "Ranking_EOS_Completed": 262,
   "Ranking_EOS_NewPlayers": 73,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
@@ -3754,10 +3754,16 @@
       "Rating": 3.79,
       "NumberOfAwards": 8682,
       "NumberOfAwardsMax": 1069
+    },
+    {
+      "Time": "2023-10-16T11:58:40.4232372+00:00",
+      "Rating": 3.79,
+      "NumberOfAwards": 8683,
+      "NumberOfAwardsMax": 1069
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8682,
+  "NumberOfAwards": 8683,
   "NumberOfAwardsMax": 1069,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -3765,7 +3771,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 999
+      "Count": 1000
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3822,9 +3828,9 @@
       "Count": 1069
     }
   ],
-  "EOS_Progressed": 75178,
+  "EOS_Progressed": 75179,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 818,
+  "EOS_NewPlayers": 812,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -23957,6 +23963,11 @@
       "Time": "2023-10-16T11:03:50.510619+00:00",
       "NumProgressed": 75178,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-16T12:03:35.7794829+00:00",
+      "NumProgressed": 75179,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -24016,7 +24027,7 @@
       "Name": "Finders Keepers",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 18794
+      "UsersEstimate": 18795
     },
     {
       "ID": "complet_epilogue_mission",
@@ -24024,7 +24035,7 @@
       "Name": "We could go home, or\u2026",
       "Percentage": 7,
       "XP": 75,
-      "UsersEstimate": 5262
+      "UsersEstimate": 5263
     },
     {
       "ID": "complete_all_of_wanted",
@@ -24048,7 +24059,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 5262
+      "UsersEstimate": 5263
     },
     {
       "ID": "complete_final_mission",
@@ -24056,7 +24067,7 @@
       "Name": "Showdown",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 12028
+      "UsersEstimate": 12029
     },
     {
       "ID": "complete_first_side_hustle",
@@ -24144,7 +24155,7 @@
       "Name": "A Young Empire",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18794
+      "UsersEstimate": 18795
     },
     {
       "ID": "empire_tier_3",
@@ -24168,7 +24179,7 @@
       "Name": "A Golden Age",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 5262
+      "UsersEstimate": 5263
     },
     {
       "ID": "first_building_placed",
@@ -24224,7 +24235,7 @@
       "Name": "Took It to The Limit",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 12028
+      "UsersEstimate": 12029
     },
     {
       "ID": "infinite_boost_refill",
@@ -24264,7 +24275,7 @@
       "Name": "Making a Name",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 26312
+      "UsersEstimate": 26313
     },
     {
       "ID": "one_third_purple",
@@ -24391,22 +24402,22 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 75178,
+      "Progressed": 75179,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 46815,
+      "Progressed": 46816,
       "Completed": 4125
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
-  "LastChanged": "2023-10-15T11:58:13.1376947+00:00",
-  "LastChanged_Achievements": "2023-10-16T11:03:50.5106182+00:00",
+  "LastChanged": "2023-10-16T11:58:40.423237+00:00",
+  "LastChanged_Achievements": "2023-10-16T12:03:35.7794814+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:20.7071116+00:00",
-  "LastUpdate_Ratings": "2023-10-16T10:58:28.4588542+00:00",
-  "LastUpdate_Achievements": "2023-10-16T11:03:50.5107849+00:00"
+  "LastUpdate_Ratings": "2023-10-16T11:58:40.4232376+00:00",
+  "LastUpdate_Achievements": "2023-10-16T12:03:35.7796534+00:00"
 }

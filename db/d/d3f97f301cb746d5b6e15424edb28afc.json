@@ -4,7 +4,7 @@
   "ProductSlug": "gas-station-simulator-ee93c7",
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 109,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1236,8 +1236,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-16T11:04:11.5748339+00:00",
+  "LastChanged_Achievements": "2023-10-16T12:04:16.2943776+00:00",
   "LastUpdate_AppInfo": "2023-10-09T13:09:09.0618232+00:00",
-  "LastUpdate_Ratings": "2023-10-16T11:01:24.910223+00:00",
-  "LastUpdate_Achievements": "2023-10-16T11:04:11.5749281+00:00"
+  "LastUpdate_Ratings": "2023-10-16T12:01:53.3938379+00:00",
+  "LastUpdate_Achievements": "2023-10-16T12:04:16.2944894+00:00"
 }

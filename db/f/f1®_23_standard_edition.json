@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
@@ -384,7 +384,7 @@
   "Tags": [],
   "EOS_Progressed": 3282,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 189,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3280,9 +3280,9 @@
       "ID": "achievement_0037",
       "SetID": "9123ogc",
       "Name": "Golden Touch",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 13
     },
     {
       "ID": "achievement_0038",
@@ -3393,8 +3393,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-10-14T15:01:06.7997095+00:00",
-  "LastChanged_Achievements": "2023-10-16T11:08:27.0594103+00:00",
+  "LastChanged_Achievements": "2023-10-16T12:08:41.0143989+00:00",
   "LastUpdate_AppInfo": "2023-10-14T13:56:56.8221835+00:00",
-  "LastUpdate_Ratings": "2023-10-16T11:01:31.4693783+00:00",
-  "LastUpdate_Achievements": "2023-10-16T11:08:27.0594557+00:00"
+  "LastUpdate_Ratings": "2023-10-16T12:02:01.3056696+00:00",
+  "LastUpdate_Achievements": "2023-10-16T12:08:41.0144582+00:00"
 }

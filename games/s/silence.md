@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chapter I | 52.00% | ~69 |
+| Chapter I | 52.00% | ~70 |
 | Fire in the... nevermind | 51.00% | ~68 |
 | Haute cuisine | 47.00% | ~63 |
-| I didn't do it! | 40.00% | ~53 |
+| I didn't do it! | 40.00% | ~54 |
 | Demolition expert | 39.00% | ~52 |
-| Wooooooow! | 38.00% | ~51 |
-| Artistic fool | 35.00% | ~47 |
+| Wooooooow! | 37.00% | ~50 |
 | Keep away from children | 35.00% | ~47 |
-| Open up wide | 33.00% | ~44 |
-| Let the boot talk | 32.00% | ~43 |
-| Chapter II | 28.00% | ~37 |
-| Achoo!! | 25.00% | ~33 |
-| Shadow on the wall | 24.00% | ~32 |
+| Artistic fool | 34.00% | ~46 |
+| Open up wide | 34.00% | ~46 |
+| Let the boot talk | 31.00% | ~42 |
+| Chapter II | 28.00% | ~38 |
+| Shadow on the wall | 25.00% | ~34 |
+| Achoo!! | 25.00% | ~34 |
 | Handyman | 24.00% | ~32 |
 | Chapter III | 24.00% | ~32 |
 | Like a moth in the Wind | 24.00% | ~32 |
 | Bubblekillerfamily | 23.00% | ~31 |
 | Quite a buggy game | 22.00% | ~29 |
-| Fastidious Clown | 20.00% | ~27 |
 | Mirror mirror on the wall... | 20.00% | ~27 |
 | Pacifist | 19.00% | ~25 |
+| Fastidious Clown | 19.00% | ~25 |
 | Home is where the heart is | 19.00% | ~25 |
 | It's not easy being green! | 18.00% | ~24 |
 | Death is a part of life | 16.00% | ~21 |
@@ -35,23 +35,23 @@
 | Nothing can stop me | 10.00% | ~13 |
 | Mumbo Jumbo | 10.00% | ~13 |
 | Lollipop | 8.00% | ~11 |
-| Where there is life, there is hope | 8.00% | ~11 |
 | It's nothing personal | 8.00% | ~11 |
+| Where there is life, there is hope | 7.00% | ~9 |
 | Artistic master | 6.00% | ~8 |
 | Sadist | 6.00% | ~8 |
 | The hands of a healer | 6.00% | ~8 |
 | Fartjokes! | 5.00% | ~7 |
-| Shut up clown! | 5.00% | ~7 |
+| Shut up clown! | 4.00% | ~5 |
 | The Green, the Fat, the Ugly | 3.00% | ~4 |
 | Life is but a dream | 3.00% | ~4 |
-| Summit attempt | 2.00% | ~3 |
 | Fine Listener | 2.00% | ~3 |
 | Checkmate in 8 moves | 2.00% | ~3 |
-| Sherlock Holmes | 0.80% | ~1 |
-| Done. First! | 0.80% | ~1 |
-| Do not feed the fish! | 0.80% | ~1 |
+| Summit attempt | 1.00% | ~1 |
+| Sherlock Holmes | 0.70% | ~1 |
+| Done. First! | 0.70% | ~1 |
+| Do not feed the fish! | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133 (Ranked 364)  
+Progressed: 134 (Ranked 364)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,6 +91,7 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-10-11 | 131 | 0 |
 | 2023-10-12 | 132 | 0 |
 | 2023-10-13 | 133 | 0 |
+| 2023-10-16 | 134 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

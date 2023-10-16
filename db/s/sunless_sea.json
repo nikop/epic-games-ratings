@@ -727,9 +727,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 38935,
+  "EOS_Progressed": 38936,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 374,
+  "EOS_NewPlayers": 373,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18972,6 +18972,11 @@
       "Time": "2023-10-16T11:04:27.6453531+00:00",
       "NumProgressed": 38935,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-16T12:04:32.2054072+00:00",
+      "NumProgressed": 38936,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -19183,7 +19188,7 @@
       "Name": "Pupil",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2725
+      "UsersEstimate": 2726
     },
     {
       "ID": "ach_legacyrival",
@@ -19199,7 +19204,7 @@
       "Name": "Salvager",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2725
+      "UsersEstimate": 2726
     },
     {
       "ID": "ach_legacyshipmate",
@@ -19215,7 +19220,7 @@
       "Name": "Open Your Ears",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2725
+      "UsersEstimate": 2726
     },
     {
       "ID": "ach_portbell",
@@ -19327,7 +19332,7 @@
       "Name": "The Ascent of Man",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2725
+      "UsersEstimate": 2726
     },
     {
       "ID": "ach_sweetheart",
@@ -19414,15 +19419,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 38935,
+      "Progressed": 38936,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-10-14T19:58:49.9428019+00:00",
-  "LastChanged_Achievements": "2023-10-16T11:04:27.6453525+00:00",
+  "LastChanged_Achievements": "2023-10-16T12:04:32.2054066+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:49.4242639+00:00",
-  "LastUpdate_Ratings": "2023-10-16T10:59:20.1353986+00:00",
-  "LastUpdate_Achievements": "2023-10-16T11:04:27.645473+00:00"
+  "LastUpdate_Ratings": "2023-10-16T11:59:36.4470578+00:00",
+  "LastUpdate_Achievements": "2023-10-16T12:04:32.2055801+00:00"
 }

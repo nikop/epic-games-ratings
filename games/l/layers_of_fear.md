@@ -6,7 +6,10 @@
 | ---- | ---------- | ----- |
 | It's covered up for a reason | 50.00% | ~2 |
 | Something important | 50.00% | ~2 |
+| Refuse to look | 25.00% | ~1 |
 | Scraps of love | 25.00% | ~1 |
+| The artist’s impression | 25.00% | ~1 |
+| First steps | 25.00% | ~1 |
 | A piece of the story | 25.00% | ~1 |
 | Wanderer | 25.00% | ~1 |
 | A new way | 0.00% | ~0 |
@@ -21,7 +24,6 @@
 | Dark correspondence | 0.00% | ~0 |
 | You Can’t Handle the Truth | 0.00% | ~0 |
 | It was worth a try | 0.00% | ~0 |
-| Refuse to look | 0.00% | ~0 |
 | Do what you have to | 0.00% | ~0 |
 | The whole story | 0.00% | ~0 |
 | Face your fears | 0.00% | ~0 |
@@ -29,9 +31,7 @@
 | You might have a problem | 0.00% | ~0 |
 | A Slice of Life | 0.00% | ~0 |
 | Debut | 0.00% | ~0 |
-| The artist’s impression | 0.00% | ~0 |
 | Finished it | 0.00% | ~0 |
-| First steps | 0.00% | ~0 |
 | Full Scoop | 0.00% | ~0 |
 | Sound Bite | 0.00% | ~0 |
 | Heavy Burden | 0.00% | ~0 |

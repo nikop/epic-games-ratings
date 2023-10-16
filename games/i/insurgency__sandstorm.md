@@ -6,8 +6,8 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~23,146 |
-| Wallbanger | 5.00% | ~23,146 |
+| Point Shooting | 5.00% | ~23,147 |
+| Wallbanger | 5.00% | ~23,147 |
 | Exploitative | 4.00% | ~18,517 |
 | High Speed Low Drag | 4.00% | ~18,517 |
 | Wet Feet | 4.00% | ~18,517 |
@@ -15,11 +15,11 @@ Number of Ratings: 1,316  (23.09.2022)
 | Lucky | 3.00% | ~13,888 |
 | Stylin' | 3.00% | ~13,888 |
 | Turf War | 3.00% | ~13,888 |
-| Banged | 2.00% | ~9,258 |
-| First Blood | 2.00% | ~9,258 |
-| Flaccid Paralysis | 2.00% | ~9,258 |
-| Push Victory | 2.00% | ~9,258 |
-| Self-destructive | 2.00% | ~9,258 |
+| Banged | 2.00% | ~9,259 |
+| First Blood | 2.00% | ~9,259 |
+| Flaccid Paralysis | 2.00% | ~9,259 |
+| Push Victory | 2.00% | ~9,259 |
+| Self-destructive | 2.00% | ~9,259 |
 | Blindfire | 1.00% | ~4,629 |
 | Efficient | 1.00% | ~4,629 |
 | Ruthless | 1.00% | ~4,629 |
@@ -29,8 +29,8 @@ Number of Ratings: 1,316  (23.09.2022)
 | Personal | 0.90% | ~4,166 |
 | Grounded | 0.80% | ~3,703 |
 | Play to Win | 0.80% | ~3,703 |
-| #1 | 0.70% | ~3,240 |
-| Special Delivery | 0.70% | ~3,240 |
+| #1 | 0.70% | ~3,241 |
+| Special Delivery | 0.70% | ~3,241 |
 | Firefight Victory | 0.60% | ~2,778 |
 | Cinematic | 0.50% | ~2,315 |
 | Thanks Station! | 0.40% | ~1,852 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~463 |
 | Road Hazard | 0.10% | ~463 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 462,919 (Ranked 38)  
+Progressed: 462,932 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,11 +221,11 @@ Completed: 2 (0.00%) (Ranked 314)
 | 2023-10-13 | 461,949 | 2 |
 | 2023-10-14 | 462,338 | 2 |
 | 2023-10-15 | 462,754 | 2 |
-| 2023-10-16 | 462,919 | 2 |
+| 2023-10-16 | 462,932 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 389  (Ranked 224)  
-Sum: 3,073 (Ranked 170)  
-Diff (max vs sum): 54  
+Sum: 3,073 (Ranked 171)  
+Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 389 |

@@ -130,9 +130,9 @@
       "ID": "CompleteWilderness",
       "SetID": "aph8hbk",
       "Name": "Foraged",
-      "Percentage": 33,
+      "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Detention",
@@ -226,9 +226,9 @@
       "ID": "HunterHunted",
       "SetID": "aph8hbk",
       "Name": "Fair Prey",
-      "Percentage": 33,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "KidsHospital",
@@ -360,8 +360,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-31T13:15:39.9572089+00:00",
-  "LastChanged_Achievements": "2023-10-16T11:07:16.3501098+00:00",
+  "LastChanged_Achievements": "2023-10-16T12:07:39.970743+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:13.194983+00:00",
-  "LastUpdate_Ratings": "2023-10-16T11:01:31.3191926+00:00",
-  "LastUpdate_Achievements": "2023-10-16T11:07:16.3501314+00:00"
+  "LastUpdate_Ratings": "2023-10-16T12:02:01.275844+00:00",
+  "LastUpdate_Achievements": "2023-10-16T12:07:39.9707677+00:00"
 }

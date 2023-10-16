@@ -81,6 +81,7 @@
 | The Healer | 3.00% | ~2 |
 | Usurper III | 3.00% | ~2 |
 | You've drone good! | 3.00% | ~2 |
+| Surrounded | 3.00% | ~2 |
 | Silver Tovarish | 3.00% | ~2 |
 | Archer's Silver Fate | 3.00% | ~2 |
 | Silver Alchemist | 3.00% | ~2 |
@@ -90,6 +91,7 @@
 | Magic Bronze mirror; on the wall | 2.00% | ~1 |
 | Rambo VI | 2.00% | ~1 |
 | Space Odysseus | 2.00% | ~1 |
+| Freedom Fighter | 2.00% | ~1 |
 | Unbalanced | 2.00% | ~1 |
 | Golden Tovarish | 2.00% | ~1 |
 | Archer's Golden Fate | 2.00% | ~1 |
@@ -99,7 +101,6 @@
 | Rampage | 2.00% | ~1 |
 | Galactic Colonel | 2.00% | ~1 |
 | Galactic Major | 2.00% | ~1 |
-| Surrounded | 2.00% | ~1 |
 | Magic Silver mirror; on the wall | 2.00% | ~1 |
 | Galactic Captain | 2.00% | ~1 |
 | Collateral Damage IV | 2.00% | ~1 |
@@ -110,7 +111,6 @@
 | Voyager 3 | 0.00% | ~0 |
 | Pedal to the Metal | 0.00% | ~0 |
 | No Peace No Love | 0.00% | ~0 |
-| Freedom Fighter | 0.00% | ~0 |
 | Goodbye Terror | 0.00% | ~0 |
 | Charlie Doesn't Surf | 0.00% | ~0 |
 | Plower Flower | 0.00% | ~0 |

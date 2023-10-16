@@ -1632,9 +1632,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 1278375,
+  "EOS_Progressed": 1278383,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2306,
+  "EOS_NewPlayers": 2305,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17542,6 +17542,11 @@
       "Time": "2023-10-16T11:06:03.4945277+00:00",
       "NumProgressed": 1278375,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-16T12:06:28.3200402+00:00",
+      "NumProgressed": 1278383,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -17665,7 +17670,7 @@
       "Name": "10 Kills as a Ghost!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 140621
+      "UsersEstimate": 140622
     },
     {
       "ID": "10_ghost_wins",
@@ -17673,7 +17678,7 @@
       "Name": "10 Ghost Wins!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 102270
+      "UsersEstimate": 102271
     },
     {
       "ID": "10_hero_prop_kills",
@@ -17689,7 +17694,7 @@
       "Name": "10 Kills as a Hunter!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 204540
+      "UsersEstimate": 204541
     },
     {
       "ID": "10_hunter_wins",
@@ -17697,7 +17702,7 @@
       "Name": "10 Hunter Wins!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 76702
+      "UsersEstimate": 76703
     },
     {
       "ID": "10_prop_headshots",
@@ -17849,7 +17854,7 @@
       "Name": "Ghost Victory!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 767025
+      "UsersEstimate": 767030
     },
     {
       "ID": "hunter_win",
@@ -17857,7 +17862,7 @@
       "Name": "Hunter Victory!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 690322
+      "UsersEstimate": 690327
     },
     {
       "ID": "master_of_loadouts",
@@ -17881,14 +17886,14 @@
       "Name": "Unlock Any Cosmetic",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 294026
+      "UsersEstimate": 294028
     }
   ],
   "AchievementSets": [
     {
       "ID": "aa92n6g",
       "IsBase": true,
-      "Progressed": 1278375,
+      "Progressed": 1278383,
       "Completed": 0
     }
   ],
@@ -17896,8 +17901,8 @@
   "FirstSeenRating": "2023-06-02T07:56:53.1160177+00:00",
   "FirstSeenAchievements": "2023-06-01T15:01:01.0187435+00:00",
   "LastChanged": "2023-10-16T02:59:20.5222143+00:00",
-  "LastChanged_Achievements": "2023-10-16T11:06:03.494527+00:00",
+  "LastChanged_Achievements": "2023-10-16T12:06:28.3200396+00:00",
   "LastUpdate_AppInfo": "2023-10-13T04:56:58.0408321+00:00",
-  "LastUpdate_Ratings": "2023-10-16T11:00:27.0666125+00:00",
-  "LastUpdate_Achievements": "2023-10-16T11:06:03.494633+00:00"
+  "LastUpdate_Ratings": "2023-10-16T12:00:48.2383914+00:00",
+  "LastUpdate_Achievements": "2023-10-16T12:06:28.3201747+00:00"
 }

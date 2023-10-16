@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
     "PcReleaseDate": "2018-10-16T00:00:00+00:00",
@@ -2902,9 +2902,9 @@
       "Count": 245
     }
   ],
-  "EOS_Progressed": 79218,
+  "EOS_Progressed": 79220,
   "EOS_Completed": 143,
-  "EOS_NewPlayers": 716,
+  "EOS_NewPlayers": 711,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -22702,6 +22702,11 @@
       "Time": "2023-10-16T11:05:35.9155898+00:00",
       "NumProgressed": 79218,
       "NumCompleted": 143
+    },
+    {
+      "Time": "2023-10-16T12:06:00.5517921+00:00",
+      "NumProgressed": 79220,
+      "NumCompleted": 143
     }
   ],
   "TotalAchievements": 30,
@@ -22713,7 +22718,7 @@
       "Name": "First Journey",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 10298
+      "UsersEstimate": 10299
     },
     {
       "ID": "ACHIEVEMENT_01",
@@ -22737,7 +22742,7 @@
       "Name": "New Home",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 18220
+      "UsersEstimate": 18221
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -22745,7 +22750,7 @@
       "Name": "No Longer Red",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 14259
+      "UsersEstimate": 14260
     },
     {
       "ID": "ACHIEVEMENT_05",
@@ -22785,7 +22790,7 @@
       "Name": "Project Manager",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 15051
+      "UsersEstimate": 15052
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -22801,7 +22806,7 @@
       "Name": "Changing the Planet",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 22181
+      "UsersEstimate": 22182
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -22833,7 +22838,7 @@
       "Name": "Curiosity",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 15051
+      "UsersEstimate": 15052
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -22841,7 +22846,7 @@
       "Name": "Beagle 2",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 19012
+      "UsersEstimate": 19013
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -22857,7 +22862,7 @@
       "Name": "Collector",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 15051
+      "UsersEstimate": 15052
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -22889,7 +22894,7 @@
       "Name": "Final touch",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 28518
+      "UsersEstimate": 28519
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -22897,7 +22902,7 @@
       "Name": "Self-sufficient",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 14259
+      "UsersEstimate": 14260
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -22905,7 +22910,7 @@
       "Name": "Frequent tester",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 6337
+      "UsersEstimate": 6338
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -22937,7 +22942,7 @@
       "Name": "Master",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 15051
+      "UsersEstimate": 15052
     },
     {
       "ID": "ACHIEVEMENT_29",
@@ -22945,22 +22950,22 @@
       "Name": "Determined",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 6337
+      "UsersEstimate": 6338
     }
   ],
   "AchievementSets": [
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 79218,
+      "Progressed": 79220,
       "Completed": 143
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-10-16T11:00:58.8416687+00:00",
-  "LastChanged_Achievements": "2023-10-16T11:05:35.9155894+00:00",
+  "LastChanged_Achievements": "2023-10-16T12:06:00.5517907+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:27.1789239+00:00",
-  "LastUpdate_Ratings": "2023-10-16T11:00:58.8416692+00:00",
-  "LastUpdate_Achievements": "2023-10-16T11:05:35.9156998+00:00"
+  "LastUpdate_Ratings": "2023-10-16T12:01:25.5401209+00:00",
+  "LastUpdate_Achievements": "2023-10-16T12:06:00.5519366+00:00"
 }

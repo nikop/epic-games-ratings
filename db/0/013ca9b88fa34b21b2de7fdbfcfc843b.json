@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6707,
+  "EOS_Progressed": 6708,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 335,
+  "EOS_NewPlayers": 330,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4389,6 +4389,11 @@
       "Time": "2023-10-16T05:05:14.2641716+00:00",
       "NumProgressed": 6707,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-16T12:05:45.9143468+00:00",
+      "NumProgressed": 6708,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -4401,7 +4406,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 4896
+      "UsersEstimate": 4897
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -4409,7 +4414,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 4695
+      "UsersEstimate": 4696
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -4425,7 +4430,7 @@
       "Name": "Open the Gate!",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2213
+      "UsersEstimate": 2214
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -4439,9 +4444,9 @@
       "ID": "CHAPTER_6_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Search for the Hairy Grell",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 805
+      "UsersEstimate": 872
     },
     {
       "ID": "CHAPTER_7_COMPLETE",
@@ -4449,7 +4454,7 @@
       "Name": "Flaming Hot Completos",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "CHAPTER_8_COMPLETE",
@@ -4457,7 +4462,7 @@
       "Name": "Fae Farmer",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "COLLECT_CLOVER",
@@ -4473,7 +4478,7 @@
       "Name": "Got to Catch Them All",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "COLLECT_FISH",
@@ -4505,7 +4510,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 3219
+      "UsersEstimate": 3220
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -4553,7 +4558,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 4024
+      "UsersEstimate": 4025
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -4569,7 +4574,7 @@
       "Name": "Rumble in the Jumble",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "DISPATCH_THORNS",
@@ -4577,7 +4582,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 3085
+      "UsersEstimate": 3086
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -4593,7 +4598,7 @@
       "Name": "Fanatical Farmer",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "HAVE_WEDDING",
@@ -4680,7 +4685,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 6707,
+      "Progressed": 6708,
       "Completed": 0
     }
   ],
@@ -4688,8 +4693,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-14T10:58:26.1451757+00:00",
-  "LastChanged_Achievements": "2023-10-16T11:05:21.5803845+00:00",
+  "LastChanged_Achievements": "2023-10-16T12:05:45.9143458+00:00",
   "LastUpdate_AppInfo": "2023-10-13T06:57:01.9287951+00:00",
-  "LastUpdate_Ratings": "2023-10-16T10:59:02.4214293+00:00",
-  "LastUpdate_Achievements": "2023-10-16T11:05:21.5804217+00:00"
+  "LastUpdate_Ratings": "2023-10-16T11:59:14.5724452+00:00",
+  "LastUpdate_Achievements": "2023-10-16T12:05:45.9144042+00:00"
 }

@@ -1367,9 +1367,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 129765,
+  "EOS_Progressed": 129767,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 260,
+  "EOS_NewPlayers": 262,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -19227,6 +19227,11 @@
       "Time": "2023-10-16T11:09:06.1715658+00:00",
       "NumProgressed": 129765,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-10-16T12:08:49.6520323+00:00",
+      "NumProgressed": 129767,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -19318,7 +19323,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36334
+      "UsersEstimate": 36335
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -19342,7 +19347,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20762
+      "UsersEstimate": 20763
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -19366,7 +19371,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 16869
+      "UsersEstimate": 16870
     },
     {
       "ID": "ACH_COP_STAR",
@@ -19374,7 +19379,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20762
+      "UsersEstimate": 20763
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -19557,15 +19562,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 129765,
+      "Progressed": 129767,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-10-15T06:03:52.9459582+00:00",
-  "LastChanged_Achievements": "2023-10-16T11:09:06.1715653+00:00",
+  "LastChanged_Achievements": "2023-10-16T12:08:49.6520317+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:18.5281336+00:00",
-  "LastUpdate_Ratings": "2023-10-16T11:03:31.232874+00:00",
-  "LastUpdate_Achievements": "2023-10-16T11:09:06.1716742+00:00"
+  "LastUpdate_Ratings": "2023-10-16T12:03:16.3126948+00:00",
+  "LastUpdate_Achievements": "2023-10-16T12:08:49.6521766+00:00"
 }

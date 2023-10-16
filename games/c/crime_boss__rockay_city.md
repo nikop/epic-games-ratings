@@ -47,7 +47,7 @@ Rating: 3.94 (Ranked 980)
 | One for All | 0.10% | ~17 |
 | Now You See Me | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,120 (Ranked 83)  
+Progressed: 89,122 (Ranked 83)  
 Completed: 50 (0.06%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,16 +226,16 @@ Completed: 50 (0.06%) (Ranked 266)
 | 2023-10-13 | 89,042 | 49 |
 | 2023-10-14 | 89,078 | 50 |
 | 2023-10-15 | 89,106 | 50 |
-| 2023-10-16 | 89,120 | 50 |
+| 2023-10-16 | 89,122 | 50 |
 ## Awards
 Max (Diverse Characters): 495  (Ranked 205)  
-Sum: 2,355 (Ranked 191)  
+Sum: 2,357 (Ranked 191)  
 Diff (max vs sum): 14  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 495 |
 | This game has Quickly Understood Controls | 476 |
-| This game is Highly Recommended | 467 |
+| This game is Highly Recommended | 469 |
 | This game has Challenging Combat | 461 |
 | This game has Amazing Characters | 456 |
 | This game is Great for Quick Sessions | 70 |
@@ -441,3 +441,4 @@ Diff (max vs sum): 14
 | 2023-10-13 | 3.94 | 490 | 2,337 |
 | 2023-10-14 | 3.94 | 491 | 2,344 |
 | 2023-10-15 | 3.94 | 495 | 2,355 |
+| 2023-10-16 | 3.94 | 495 | 2,357 |
