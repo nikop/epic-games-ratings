@@ -2,7 +2,7 @@
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 1 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 100.00% |
-| 3 | [The Riflemen](games/t/the_riflemen.md) | 48.86% |
+| 3 | [The Riflemen](games/t/the_riflemen.md) | 48.85% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.15% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.99% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
@@ -74,7 +74,7 @@
 | 72 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.00% |
 | 73 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.82% |
 | 74 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
-| 75 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.65% |
+| 75 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.64% |
 | 76 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
 | 77 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.51% |
 | 78 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.50% |
