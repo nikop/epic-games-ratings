@@ -2,7 +2,7 @@
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 1 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 100.00% |
-| 3 | [The Riflemen](games/t/the_riflemen.md) | 48.79% |
+| 3 | [The Riflemen](games/t/the_riflemen.md) | 48.77% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.15% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.99% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
@@ -139,8 +139,8 @@
 | 137 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.15% |
 | 138 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.12% |
 | 139 | [Trifox](games/t/trifox.md) | 1.09% |
-| 140 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 1.08% |
 | 140 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.08% |
+| 141 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 1.06% |
 | 142 | [Adios](games/a/adios.md) | 1.05% |
 | 142 | [Infindustry](games/i/infindustry.md) | 1.05% |
 | 142 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.05% |
@@ -196,21 +196,21 @@
 | 191 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.38% |
 | 195 | [Ghostrunner](games/g/ghostrunner.md) | 0.37% |
 | 196 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.36% |
-| 196 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.36% |
 | 196 | [The Surge](games/t/the_surge.md) | 0.36% |
-| 199 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
-| 200 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.32% |
-| 200 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
-| 202 | [Against the Storm](games/a/against_the_storm.md) | 0.31% |
-| 202 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
-| 202 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
-| 205 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
-| 205 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.30% |
-| 205 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.30% |
-| 208 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.29% |
-| 208 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
-| 208 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.29% |
-| 211 | [The Devil's Face](games/t/the_devil's_face.md) | 0.27% |
+| 198 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
+| 199 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.32% |
+| 199 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
+| 201 | [Against the Storm](games/a/against_the_storm.md) | 0.31% |
+| 201 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
+| 201 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
+| 204 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
+| 204 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.30% |
+| 204 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.30% |
+| 207 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.29% |
+| 207 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
+| 207 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.29% |
+| 210 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.27% |
+| 210 | [The Devil's Face](games/t/the_devil's_face.md) | 0.27% |
 | 212 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.26% |
 | 213 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
 | 213 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.25% |
@@ -221,15 +221,15 @@
 | 218 | [Going Medieval](games/g/going_medieval.md) | 0.22% |
 | 220 | [Blanc](games/b/blanc.md) | 0.21% |
 | 220 | [Circus Electrique](games/c/circus_electrique.md) | 0.21% |
-| 222 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.20% |
-| 222 | [Remnant 2](games/r/remnant_2.md) | 0.20% |
-| 222 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.20% |
+| 220 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.21% |
+| 223 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.20% |
+| 223 | [Remnant 2](games/r/remnant_2.md) | 0.20% |
 | 225 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.19% |
 | 225 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.19% |
 | 227 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.18% |
-| 228 | [RAILGRADE](games/r/railgrade.md) | 0.17% |
-| 228 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.17% |
-| 228 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.17% |
+| 227 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.18% |
+| 229 | [RAILGRADE](games/r/railgrade.md) | 0.17% |
+| 229 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.17% |
 | 231 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
 | 231 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 231 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
@@ -668,4 +668,4 @@
 | 314 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 314 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 314 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,400 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,401 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
