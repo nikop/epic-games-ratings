@@ -5,22 +5,22 @@ Rating: 4.46 (Ranked 628)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~132,700 |
-| My First Runbow | 50.00% | ~125,188 |
-| It's The Fall | 26.00% | ~65,098 |
-| The Stunner | 22.00% | ~55,083 |
-| Be Aggressive | 21.00% | ~52,579 |
-| Curator | 20.00% | ~50,075 |
-| Crowning Around | 18.00% | ~45,068 |
-| Can You Dig It? | 17.00% | ~42,564 |
-| You Juan-A-Go? | 16.00% | ~40,060 |
+| In The Zone | 53.00% | ~132,702 |
+| My First Runbow | 50.00% | ~125,190 |
+| It's The Fall | 26.00% | ~65,099 |
+| The Stunner | 22.00% | ~55,084 |
+| Be Aggressive | 21.00% | ~52,580 |
+| Curator | 20.00% | ~50,076 |
+| Crowning Around | 18.00% | ~45,069 |
+| Can You Dig It? | 17.00% | ~42,565 |
+| You Juan-A-Go? | 16.00% | ~40,061 |
 | Chan-tastic | 15.00% | ~37,557 |
-| Muddy Waters | 15.00% | ~37,557 |
-| Toasty! | 13.00% | ~32,549 |
+| Muddy Waters | 14.00% | ~35,053 |
+| Toasty! | 13.00% | ~32,550 |
 | Lazy Laser | 8.00% | ~20,030 |
-| Just A Phaze | 7.00% | ~17,526 |
-| Into The Drift | 7.00% | ~17,526 |
-| Ready? Fight! | 7.00% | ~17,526 |
+| Just A Phaze | 7.00% | ~17,527 |
+| Into The Drift | 7.00% | ~17,527 |
+| Ready? Fight! | 7.00% | ~17,527 |
 | Butt Butt | 6.00% | ~15,023 |
 | He Who Laughs Last | 3.00% | ~7,511 |
 | Shoo, Cat! | 3.00% | ~7,511 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 628)
 | Talent Scout | 0.10% | ~250 |
 | True Completionist | 0.10% | ~250 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250,377 (Ranked 52)  
+Progressed: 250,381 (Ranked 52)  
 Completed: 6 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 6 (0.00%) (Ranked 314)
 | 2023-10-13 | 250,297 | 6 |
 | 2023-10-14 | 250,344 | 6 |
 | 2023-10-15 | 250,376 | 6 |
-| 2023-10-16 | 250,377 | 6 |
+| 2023-10-16 | 250,381 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

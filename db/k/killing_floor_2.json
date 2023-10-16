@@ -4,11 +4,11 @@
   "ProductSlug": "killing-floor-2",
   "Ranking_Rating": 674,
   "Ranking_Popularity": 30,
-  "Ranking_PopularitySum": 45,
+  "Ranking_PopularitySum": 44,
   "Ranking_EOS_Progress": 670,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 397,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 395,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2020-07-09T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -9838,10 +9838,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 29680,
       "NumberOfAwardsMax": 13247
+    },
+    {
+      "Time": "2023-10-16T01:43:13.7383583+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 29689,
+      "NumberOfAwardsMax": 13247
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29680,
+  "NumberOfAwards": 29689,
   "NumberOfAwardsMax": 13247,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -9867,7 +9873,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1792
+      "Count": 1795
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -9879,7 +9885,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 2012
+      "Count": 2018
     },
     {
       "Text": "This game has Amazing Characters",
@@ -9917,8 +9923,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:46.1518671+00:00",
-  "LastChanged": "2023-10-15T19:58:18.9108738+00:00",
+  "LastChanged": "2023-10-16T01:43:13.7383582+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:33.1258215+00:00",
-  "LastUpdate_Ratings": "2023-10-15T23:58:11.5791707+00:00",
-  "LastUpdate_Achievements": "2023-10-16T00:08:09.2130718+00:00"
+  "LastUpdate_Ratings": "2023-10-16T01:43:13.7383589+00:00",
+  "LastUpdate_Achievements": "2023-10-16T01:52:37.6300217+00:00"
 }

@@ -5,48 +5,48 @@ Rating: 4.16 (Ranked 910)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The touch of Chaos | 38.00% | ~104,309 |
-| May the Torchbearer light our way | 36.00% | ~98,819 |
-| A powerful aura was here | 23.00% | ~63,134 |
-| Let's raise the stakes!! | 10.00% | ~27,450 |
-| Your wounds… They are healing so fast! | 6.00% | ~16,470 |
-| Rumors are true | 5.00% | ~13,725 |
-| Pride is a sin, young Knight | 5.00% | ~13,725 |
-| Bring it on! | 5.00% | ~13,725 |
-| We'll be careful | 4.00% | ~10,980 |
-| Back to your senses | 3.00% | ~8,235 |
-| They tricked me | 2.00% | ~5,490 |
-| We need to talk | 2.00% | ~5,490 |
-| They won't last long | 2.00% | ~5,490 |
-| I feel drawn to it | 1.00% | ~2,745 |
-| Here to stay | 1.00% | ~2,745 |
-| Their fate is sealed | 1.00% | ~2,745 |
-| I took a risk | 1.00% | ~2,745 |
-| Counting on you | 0.90% | ~2,470 |
-| This is the end | 0.90% | ~2,470 |
-| We can choose to fight | 0.90% | ~2,470 |
-| Not even from this world | 0.50% | ~1,372 |
-| You want more? I've got more! | 0.50% | ~1,372 |
+| The touch of Chaos | 38.00% | ~104,364 |
+| May the Torchbearer light our way | 36.00% | ~98,871 |
+| A powerful aura was here | 23.00% | ~63,168 |
+| Let's raise the stakes!! | 10.00% | ~27,464 |
+| Your wounds… They are healing so fast! | 6.00% | ~16,479 |
+| Rumors are true | 5.00% | ~13,732 |
+| Pride is a sin, young Knight | 5.00% | ~13,732 |
+| Bring it on! | 5.00% | ~13,732 |
+| We'll be careful | 4.00% | ~10,986 |
+| Back to your senses | 3.00% | ~8,239 |
+| They tricked me | 2.00% | ~5,493 |
+| We need to talk | 2.00% | ~5,493 |
+| They won't last long | 2.00% | ~5,493 |
+| I feel drawn to it | 1.00% | ~2,746 |
+| Here to stay | 1.00% | ~2,746 |
+| Their fate is sealed | 1.00% | ~2,746 |
+| I took a risk | 1.00% | ~2,746 |
+| Counting on you | 0.90% | ~2,472 |
+| This is the end | 0.90% | ~2,472 |
+| We can choose to fight | 0.90% | ~2,472 |
+| Not even from this world | 0.50% | ~1,373 |
+| You want more? I've got more! | 0.50% | ~1,373 |
 | No damsels in distress | 0.20% | ~549 |
 | The Ashen Knight | 0.20% | ~549 |
 | Through the Veil | 0.20% | ~549 |
-| The immortal is bound to reborn | 0.10% | ~274 |
-| A legend among Chimeras | 0.10% | ~274 |
-| It's only pain | 0.10% | ~274 |
-| I know how to handle it | 0.10% | ~274 |
-| Settle this once and for all | 0.10% | ~274 |
-| The Shade | 0.10% | ~274 |
-| Call this the Judge's mercy | 0.10% | ~274 |
-| There's too many of them! | 0.10% | ~274 |
-| I've been waiting for this! | 0.10% | ~274 |
-| I'm just warming up | 0.10% | ~274 |
-| We learned it the hard way | 0.10% | ~274 |
-| They wanted yet another monster… | 0.10% | ~274 |
-| Something... unnatural | 0.10% | ~274 |
-| We strike as one | 0.10% | ~274 |
-| Chaos be damned! | 0.10% | ~274 |
+| The immortal is bound to reborn | 0.10% | ~275 |
+| A legend among Chimeras | 0.10% | ~275 |
+| It's only pain | 0.10% | ~275 |
+| I know how to handle it | 0.10% | ~275 |
+| Settle this once and for all | 0.10% | ~275 |
+| The Shade | 0.10% | ~275 |
+| Call this the Judge's mercy | 0.10% | ~275 |
+| There's too many of them! | 0.10% | ~275 |
+| I've been waiting for this! | 0.10% | ~275 |
+| I'm just warming up | 0.10% | ~275 |
+| We learned it the hard way | 0.10% | ~275 |
+| They wanted yet another monster… | 0.10% | ~275 |
+| Something... unnatural | 0.10% | ~275 |
+| We strike as one | 0.10% | ~275 |
+| Chaos be damned! | 0.10% | ~275 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 274,497 (Ranked 49)  
+Progressed: 274,643 (Ranked 49)  
 Completed: 1 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,11 +69,11 @@ Completed: 1 (0.00%) (Ranked 314)
 | 2023-10-13 | 267,602 | 1 |
 | 2023-10-14 | 271,171 | 1 |
 | 2023-10-15 | 274,418 | 1 |
-| 2023-10-16 | 274,497 | 1 |
+| 2023-10-16 | 274,643 | 1 |
 ## Awards
 Max (Great Boss Battles): 31  (Ranked 474)  
-Sum: 31 (Ranked 492)  
-Diff (max vs sum): -18  
+Sum: 31 (Ranked 493)  
+Diff (max vs sum): -19  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 41 |

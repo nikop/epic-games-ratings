@@ -6,16 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 33.00% | ~76,278 |
+| Sowwy! | 33.00% | ~76,282 |
 | Where's that freaking Dwarf? | 6.00% | ~13,869 |
 | Alt+F4 | 6.00% | ~13,869 |
-| Déjà vu | 5.00% | ~11,557 |
+| Déjà vu | 5.00% | ~11,558 |
 | Sock! SOCK! | 4.00% | ~9,246 |
 | Speedrun | 4.00% | ~9,246 |
-| A beer, two curses, three companions | 3.00% | ~6,934 |
-| GG EZ | 3.00% | ~6,934 |
-| DM intervention | 3.00% | ~6,934 |
-| Fireproof Wizardess | 3.00% | ~6,934 |
+| A beer, two curses, three companions | 3.00% | ~6,935 |
+| GG EZ | 3.00% | ~6,935 |
+| DM intervention | 3.00% | ~6,935 |
+| Fireproof Wizardess | 3.00% | ~6,935 |
 | Livin' in a dwarven paradise | 2.00% | ~4,623 |
 | Shiny and Crôm | 2.00% | ~4,623 |
 | Way of the Wimp | 2.00% | ~4,623 |
@@ -32,15 +32,15 @@ Number of Ratings: 118  (23.09.2022)
 | I am the night | 2.00% | ~4,623 |
 | Team Building Exercise | 2.00% | ~4,623 |
 | Oh, when I'll be level 10... | 2.00% | ~4,623 |
-| Res Judicata | 1.00% | ~2,311 |
-| The Famous Dungeon of Naheulbeuk | 1.00% | ~2,311 |
-| Dwarf Fortress | 1.00% | ~2,311 |
-| %#*!$*! | 1.00% | ~2,311 |
-| Look but don't touch | 1.00% | ~2,311 |
-| The beards of change | 1.00% | ~2,311 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,311 |
-| Lust and Debauchery | 1.00% | ~2,311 |
-| Thieves' Guild Accreditation | 1.00% | ~2,311 |
+| Res Judicata | 1.00% | ~2,312 |
+| The Famous Dungeon of Naheulbeuk | 1.00% | ~2,312 |
+| Dwarf Fortress | 1.00% | ~2,312 |
+| %#*!$*! | 1.00% | ~2,312 |
+| Look but don't touch | 1.00% | ~2,312 |
+| The beards of change | 1.00% | ~2,312 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,312 |
+| Lust and Debauchery | 1.00% | ~2,312 |
+| Thieves' Guild Accreditation | 1.00% | ~2,312 |
 | Dead for good | 0.90% | ~2,080 |
 | Material Girl | 0.90% | ~2,080 |
 | Gargantua | 0.80% | ~1,849 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~231 |
 | Dwarf Candy | 0.10% | ~231 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,146 (Ranked 59)  
+Progressed: 231,158 (Ranked 59)  
 Completed: 5 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,7 +233,7 @@ Completed: 5 (0.00%) (Ranked 314)
 | 2023-10-13 | 230,591 | 5 |
 | 2023-10-14 | 230,860 | 5 |
 | 2023-10-15 | 231,139 | 5 |
-| 2023-10-16 | 231,146 | 5 |
+| 2023-10-16 | 231,158 | 5 |
 ## Awards
 Max (Character Customization): 216  (Ranked 273)  
 Sum: 427 (Ranked 325)  

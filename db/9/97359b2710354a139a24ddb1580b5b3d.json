@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 536,
   "Ranking_EOS_Completed": 25,
   "Ranking_EOS_NewPlayers": 313,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-09-29T04:00:00+00:00",
     "PcReleaseDate": "2023-04-13T03:00:00+00:00",
@@ -164,17 +164,17 @@
       "ID": "ACHIndifferent",
       "SetID": "bjbioka",
       "Name": "Indifferent",
-      "Percentage": 38,
+      "Percentage": 50,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIronMemory",
       "SetID": "bjbioka",
       "Name": "Iron Memory",
-      "Percentage": 63,
+      "Percentage": 75,
       "XP": 40,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHLostTraveler",
@@ -204,17 +204,17 @@
       "ID": "ACHMirror2",
       "SetID": "bjbioka",
       "Name": "Second Look",
-      "Percentage": 63,
+      "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHMirror3",
       "SetID": "bjbioka",
       "Name": "Third Look",
-      "Percentage": 50,
+      "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHMirror4",
@@ -228,9 +228,9 @@
       "ID": "ACHMomsBack",
       "SetID": "bjbioka",
       "Name": "Mom\u0027s Back",
-      "Percentage": 38,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHMourner",
@@ -323,8 +323,8 @@
   ],
   "FirstSeen": "2023-10-07T02:12:50.0812742+00:00",
   "FirstSeenAchievements": "2023-08-28T18:02:58.8007193+00:00",
-  "LastChanged_Achievements": "2023-10-16T00:09:32.4988165+00:00",
+  "LastChanged_Achievements": "2023-10-16T01:54:10.5939963+00:00",
   "LastUpdate_AppInfo": "2023-10-09T19:57:23.5917183+00:00",
-  "LastUpdate_Ratings": "2023-10-16T00:02:16.5434681+00:00",
-  "LastUpdate_Achievements": "2023-10-16T00:09:32.4988413+00:00"
+  "LastUpdate_Ratings": "2023-10-16T01:47:13.6597184+00:00",
+  "LastUpdate_Achievements": "2023-10-16T01:54:10.5940191+00:00"
 }

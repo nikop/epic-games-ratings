@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -760,9 +760,9 @@
       "Count": 95
     }
   ],
-  "EOS_Progressed": 10611,
+  "EOS_Progressed": 10612,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -11430,6 +11430,11 @@
       "Time": "2023-10-16T00:08:22.2543822+00:00",
       "NumProgressed": 10611,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-10-16T01:52:50.7254002+00:00",
+      "NumProgressed": 10612,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 34,
@@ -11601,7 +11606,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4881
+      "UsersEstimate": 4882
     },
     {
       "ID": "ACH22",
@@ -11697,7 +11702,7 @@
       "Name": "Done it All",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACH34",
@@ -11712,7 +11717,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10611,
+      "Progressed": 10612,
       "Completed": 60
     }
   ],
@@ -11720,8 +11725,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-10-10T09:59:23.5158922+00:00",
-  "LastChanged_Achievements": "2023-10-16T00:08:22.2543816+00:00",
+  "LastChanged_Achievements": "2023-10-16T01:52:50.7253999+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:56.7423853+00:00",
-  "LastUpdate_Ratings": "2023-10-15T23:57:14.2692026+00:00",
-  "LastUpdate_Achievements": "2023-10-16T00:08:22.254477+00:00"
+  "LastUpdate_Ratings": "2023-10-16T01:42:11.1259557+00:00",
+  "LastUpdate_Achievements": "2023-10-16T01:52:50.7254886+00:00"
 }

@@ -27,7 +27,7 @@ Rating: 4.48 (Ranked 608)
 | Living Nightmare | 34.00% | ~1,183 |
 | The Darwin Era Was Here | 30.00% | ~1,044 |
 | Deep Into Insanity | 29.00% | ~1,009 |
-| The Passenger | 28.00% | ~974 |
+| The Passenger | 29.00% | ~1,009 |
 | Come on, You Wanna Live Forever? | 27.00% | ~940 |
 | The Spire | 26.00% | ~905 |
 | El Riesgo Siempre Vive | 25.00% | ~870 |
@@ -171,8 +171,8 @@ Completed: 3 (0.09%) (Ranked 253)
 | 2023-10-15 | 3,480 | 3 |
 ## Awards
 Max (Great Boss Battles): 32  (Ranked 470)  
-Sum: 32 (Ranked 491)  
-Diff (max vs sum): -21  
+Sum: 32 (Ranked 492)  
+Diff (max vs sum): -22  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 32 |

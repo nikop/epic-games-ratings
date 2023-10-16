@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7193,
+  "EOS_Progressed": 7196,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 187,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4218,6 +4218,11 @@
       "Time": "2023-10-16T00:09:34.9882572+00:00",
       "NumProgressed": 7193,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-16T01:54:13.1182532+00:00",
+      "NumProgressed": 7196,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -4278,7 +4283,7 @@
       "Name": "Earned 50000 Credits",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "CreditsSpent50000",
@@ -4286,7 +4291,7 @@
       "Name": "Spent 50000 Credits",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "DHUpgraded1",
@@ -4342,7 +4347,7 @@
       "Name": "Purchased Grenade",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 791
+      "UsersEstimate": 792
     },
     {
       "ID": "GamesPlayed1",
@@ -4350,7 +4355,7 @@
       "Name": "Played a Match",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 2302
+      "UsersEstimate": 2303
     },
     {
       "ID": "GamesPlayed10",
@@ -4422,7 +4427,7 @@
       "Name": "Purchased Heal and Shield",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 791
+      "UsersEstimate": 792
     },
     {
       "ID": "HAUpgraded1",
@@ -4438,7 +4443,7 @@
       "Name": "Purchased Healing Grenade",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "HSPurchased1",
@@ -4446,7 +4451,7 @@
       "Name": "Purchased Healing Sphere",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "HSUPurchased1",
@@ -4494,7 +4499,7 @@
       "Name": "Purchased Incendiary Rounds",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "InhibitorKills3",
@@ -4598,7 +4603,7 @@
       "Name": "Destroyed 3 Towers in a single match",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "MaxTowersKilled6",
@@ -4662,7 +4667,7 @@
       "Name": "10 Eliminations",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "PlayerKills100",
@@ -4790,7 +4795,7 @@
       "Name": "Purchased Turret",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "TSUPurchased1",
@@ -4814,14 +4819,14 @@
       "Name": "Upgraded Weaponized Capacitor to Level 3",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     }
   ],
   "AchievementSets": [
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 7193,
+      "Progressed": 7196,
       "Completed": 1
     }
   ],
@@ -4829,8 +4834,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-09-28T09:00:22.5097709+00:00",
-  "LastChanged_Achievements": "2023-10-16T00:09:34.9882567+00:00",
+  "LastChanged_Achievements": "2023-10-16T01:54:13.1182527+00:00",
   "LastUpdate_AppInfo": "2023-10-10T10:57:15.6695599+00:00",
-  "LastUpdate_Ratings": "2023-10-16T00:00:39.0451569+00:00",
-  "LastUpdate_Achievements": "2023-10-16T00:09:34.9883658+00:00"
+  "LastUpdate_Ratings": "2023-10-16T01:45:44.3726218+00:00",
+  "LastUpdate_Achievements": "2023-10-16T01:54:13.1183598+00:00"
 }

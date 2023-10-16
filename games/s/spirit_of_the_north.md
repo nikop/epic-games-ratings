@@ -6,32 +6,32 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 68.00% | ~48,636 |
-| INFUSED WITH LIGHT | 53.00% | ~37,908 |
-| FOXIN' AROUND | 29.00% | ~20,742 |
-| FETCH | 28.00% | ~20,027 |
-| BLOOMS OF LIGHT | 26.00% | ~18,596 |
-| AWAKEN | 22.00% | ~15,735 |
-| BEST FRIENDS | 22.00% | ~15,735 |
-| ERADICATE | 21.00% | ~15,020 |
-| SPIRIT BARK | 21.00% | ~15,020 |
-| GARDEN OF LIGHT | 18.00% | ~12,874 |
-| SPIRIT FORM | 16.00% | ~11,444 |
-| WRITTEN IN STONE | 16.00% | ~11,444 |
+| A GUARDIAN FORGOTTEN | 68.00% | ~48,640 |
+| INFUSED WITH LIGHT | 53.00% | ~37,910 |
+| FOXIN' AROUND | 29.00% | ~20,743 |
+| FETCH | 28.00% | ~20,028 |
+| BLOOMS OF LIGHT | 26.00% | ~18,598 |
+| AWAKEN | 22.00% | ~15,736 |
+| BEST FRIENDS | 22.00% | ~15,736 |
+| ERADICATE | 21.00% | ~15,021 |
+| SPIRIT BARK | 21.00% | ~15,021 |
+| GARDEN OF LIGHT | 18.00% | ~12,875 |
+| SPIRIT FORM | 16.00% | ~11,445 |
+| WRITTEN IN STONE | 16.00% | ~11,445 |
 | UPROOTING DARKNESS | 15.00% | ~10,729 |
 | WEIGHTLESS | 12.00% | ~8,583 |
 | SPIRIT DASH | 11.00% | ~7,868 |
-| OLD COMPANION | 9.00% | ~6,437 |
+| OLD COMPANION | 9.00% | ~6,438 |
 | MATCH MAKER | 8.00% | ~5,722 |
 | PLAGUE DOCTOR | 8.00% | ~5,722 |
 | SPIRITED AWAY | 8.00% | ~5,722 |
 | NORTHERN LIGHTS | 7.00% | ~5,007 |
 | FOX? OR FLYING SQUIRREL? | 4.00% | ~2,861 |
 | ANCIENT HISTORY | 3.00% | ~2,146 |
-| NONE FORGOTTEN | 2.00% | ~1,430 |
+| NONE FORGOTTEN | 2.00% | ~1,431 |
 | KINDRED SPIRITS | 0.60% | ~429 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 71,524 (Ranked 92)  
+Progressed: 71,529 (Ranked 92)  
 Completed: 378 (0.53%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 378 (0.53%) (Ranked 174)
 | 2023-10-13 | 71,307 | 377 |
 | 2023-10-14 | 71,420 | 378 |
 | 2023-10-15 | 71,520 | 378 |
-| 2023-10-16 | 71,524 | 378 |
+| 2023-10-16 | 71,529 | 378 |
 ## Awards
 Max (Extremely Fun): 26  (Ranked 498)  
 Sum: 114 (Ranked 423)  

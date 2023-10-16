@@ -5,27 +5,27 @@ Rating: 3.82 (Ranked 997)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~403,803 |
-| Handy | 41.00% | ~217,841 |
-| Cold Caller | 39.00% | ~207,215 |
-| A Bit On The Side | 27.00% | ~143,456 |
-| Backdoor | 25.00% | ~132,830 |
-| Rank Amateur | 21.00% | ~111,577 |
+| Pro Creation | 76.00% | ~403,807 |
+| Handy | 41.00% | ~217,843 |
+| Cold Caller | 39.00% | ~207,217 |
+| A Bit On The Side | 27.00% | ~143,458 |
+| Backdoor | 25.00% | ~132,831 |
+| Rank Amateur | 21.00% | ~111,578 |
 | Three Way | 18.00% | ~95,638 |
-| Deadly Assassin | 15.00% | ~79,698 |
-| Gutshot | 14.00% | ~74,385 |
-| Risk It For A Biscuit | 14.00% | ~74,385 |
+| Deadly Assassin | 15.00% | ~79,699 |
+| Gutshot | 14.00% | ~74,386 |
+| Risk It For A Biscuit | 14.00% | ~74,386 |
 | Showoff | 13.00% | ~69,072 |
-| W.H.I.P. | 11.00% | ~58,445 |
+| W.H.I.P. | 11.00% | ~58,446 |
 | Bet Bet Bet | 10.00% | ~53,132 |
 | Blindman's Bluff | 9.00% | ~47,819 |
 | Poker Joker | 9.00% | ~47,819 |
 | Never Give Up | 8.00% | ~42,506 |
 | The Bigger They Are | 8.00% | ~42,506 |
 | Total Knock Out | 8.00% | ~42,506 |
-| Dog Eat Dog | 7.00% | ~37,192 |
-| Quack Quack | 7.00% | ~37,192 |
-| Give Your Regards To Broadway | 6.00% | ~31,879 |
+| Dog Eat Dog | 7.00% | ~37,193 |
+| Quack Quack | 7.00% | ~37,193 |
+| Give Your Regards To Broadway | 6.00% | ~31,880 |
 | Check Yourself | 4.00% | ~21,253 |
 | Moneymaker | 4.00% | ~21,253 |
 | In The Gang | 3.00% | ~15,940 |
@@ -51,7 +51,7 @@ Rating: 3.82 (Ranked 997)
 | Rounder | 0.10% | ~531 |
 | Top Dog | 0.10% | ~531 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 531,320 (Ranked 33)  
+Progressed: 531,325 (Ranked 33)  
 Completed: 2 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,7 +229,7 @@ Completed: 2 (0.00%) (Ranked 314)
 | 2023-10-13 | 530,728 | 2 |
 | 2023-10-14 | 531,023 | 2 |
 | 2023-10-15 | 531,311 | 2 |
-| 2023-10-16 | 531,320 | 2 |
+| 2023-10-16 | 531,325 | 2 |
 ## Awards
 Max (Great for Beginners): 51  (Ranked 411)  
 Sum: 128 (Ranked 416)  

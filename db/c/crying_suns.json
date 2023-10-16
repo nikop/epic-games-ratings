@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 369,
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -622,9 +622,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 469128,
+  "EOS_Progressed": 469130,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 383,
+  "EOS_NewPlayers": 377,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19297,6 +19297,11 @@
       "Time": "2023-10-16T00:09:11.8103886+00:00",
       "NumProgressed": 469128,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-10-16T01:53:29.7699685+00:00",
+      "NumProgressed": 469130,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 79,
@@ -19308,7 +19313,7 @@
       "Name": "Knightmare Frames",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70369
+      "UsersEstimate": 70370
     },
     {
       "ID": "achievement_expedition_overcome_sandworm",
@@ -19316,7 +19321,7 @@
       "Name": "May His passing cleanse the world",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70369
+      "UsersEstimate": 70370
     },
     {
       "ID": "achievement_first_death",
@@ -19332,7 +19337,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 103208
+      "UsersEstimate": 103209
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -19340,7 +19345,7 @@
       "Name": "Chapter II: Fallible Flesh",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 70369
+      "UsersEstimate": 70370
     },
     {
       "ID": "achievement_story_complete_chapter_3",
@@ -19396,7 +19401,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 309624
+      "UsersEstimate": 309626
     },
     {
       "ID": "achievement_story_landa",
@@ -19476,7 +19481,7 @@
       "Name": "Pope Zenon",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70369
+      "UsersEstimate": 70370
     },
     {
       "ID": "achievement_story_neon_child",
@@ -19732,7 +19737,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 206416
+      "UsersEstimate": 206417
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -19740,7 +19745,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 140738
+      "UsersEstimate": 140739
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -19764,7 +19769,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 182960
+      "UsersEstimate": 182961
     },
     {
       "ID": "achievement_win_run_hard",
@@ -19820,7 +19825,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 103208
+      "UsersEstimate": 103209
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -19939,21 +19944,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 13062,
+      "Progressed": 13064,
       "Completed": 2358
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 469128,
+      "Progressed": 469130,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-10-10T01:42:39.6470224+00:00",
-  "LastChanged_Achievements": "2023-10-16T00:09:11.8103881+00:00",
+  "LastChanged_Achievements": "2023-10-16T01:53:29.7699681+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:23.4157652+00:00",
-  "LastUpdate_Ratings": "2023-10-15T23:57:56.719309+00:00",
-  "LastUpdate_Achievements": "2023-10-16T00:09:11.8105799+00:00"
+  "LastUpdate_Ratings": "2023-10-16T01:42:58.7672267+00:00",
+  "LastUpdate_Achievements": "2023-10-16T01:53:29.7701703+00:00"
 }

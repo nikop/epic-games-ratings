@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-09-12T08:00:00+00:00",
     "PcReleaseDate": "2023-07-11T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2896,
+  "EOS_Progressed": 2909,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1565,
+  "EOS_NewPlayers": 1564,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1801,6 +1801,11 @@
       "Time": "2023-10-16T00:03:33.3516332+00:00",
       "NumProgressed": 2896,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-16T01:48:34.3436125+00:00",
+      "NumProgressed": 2909,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -1907,17 +1912,17 @@
       "ID": "ACH_WINLEVEL0",
       "SetID": "1lo1k0a",
       "Name": "Level 0",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 782
+      "UsersEstimate": 756
     },
     {
       "ID": "ACH_WINLEVEL1",
       "SetID": "1lo1k0a",
       "Name": "Level 1",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 348
+      "UsersEstimate": 320
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -1925,7 +1930,7 @@
       "Name": "Dreamer!",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "ACH_WINLEVEL3",
@@ -2004,14 +2009,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 2896,
+      "Progressed": 2909,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-10-16T00:03:33.3516329+00:00",
+  "LastChanged_Achievements": "2023-10-16T01:48:34.3436121+00:00",
   "LastUpdate_AppInfo": "2023-10-09T13:09:09.4900137+00:00",
-  "LastUpdate_Ratings": "2023-10-15T23:59:28.4712577+00:00",
-  "LastUpdate_Achievements": "2023-10-16T00:03:33.3516548+00:00"
+  "LastUpdate_Ratings": "2023-10-16T01:44:32.1313123+00:00",
+  "LastUpdate_Achievements": "2023-10-16T01:48:34.3436397+00:00"
 }

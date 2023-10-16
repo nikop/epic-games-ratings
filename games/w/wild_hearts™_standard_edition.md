@@ -30,7 +30,7 @@
 | Karakuri Trail | 38.00% | ~54 |
 | Kemono at Heart | 37.00% | ~53 |
 | Team Hunter | 36.00% | ~51 |
-| Reincarnation Cycle Stopper | 35.00% | ~50 |
+| Reincarnation Cycle Stopper | 36.00% | ~51 |
 | Artful Assister | 33.00% | ~47 |
 | Karakuri Isle | 31.00% | ~44 |
 | Left Arm Leverager | 29.00% | ~41 |
@@ -44,9 +44,9 @@
 | Karakuri Fortress | 23.00% | ~33 |
 | Quintessence of Form | 23.00% | ~33 |
 | Tender Touch | 22.00% | ~31 |
+| Haven Hunter | 22.00% | ~31 |
 | Volatile Vocation | 21.00% | ~30 |
 | Superlative View | 21.00% | ~30 |
-| Haven Hunter | 21.00% | ~30 |
 | Relentless Kemono Hunter | 17.00% | ~24 |
 | Vanquisher of the Volatile | 15.00% | ~21 |
 | Bewitched by Bathing | 13.00% | ~19 |

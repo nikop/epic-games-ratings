@@ -20,7 +20,7 @@
 | Go-Faster Stripes | 16.00% | ~240 |
 | We've Just Begun | 9.00% | ~135 |
 | Stamina Star | 8.00% | ~120 |
-| Is It the Right Size? | 7.00% | ~105 |
+| Is It the Right Size? | 8.00% | ~120 |
 | Evangelist | 6.00% | ~90 |
 | Make It Your Own! | 4.00% | ~60 |
 | The Road to Liberty | 4.00% | ~60 |

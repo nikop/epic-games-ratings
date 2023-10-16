@@ -6522,7 +6522,7 @@
   ],
   "EOS_Progressed": 137670,
   "EOS_Completed": 168,
-  "EOS_NewPlayers": 333,
+  "EOS_NewPlayers": 332,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -25057,9 +25057,9 @@
       "ID": "commonres03",
       "SetID": "anfd17p",
       "Name": "Locally Sourced",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 826
+      "UsersEstimate": 964
     },
     {
       "ID": "commonres04",
@@ -25713,8 +25713,8 @@
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-15T13:00:06.5567238+00:00",
-  "LastChanged_Achievements": "2023-10-16T00:03:32.2230268+00:00",
+  "LastChanged_Achievements": "2023-10-16T01:48:33.2411594+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:10.2617104+00:00",
-  "LastUpdate_Ratings": "2023-10-15T23:57:36.1831836+00:00",
-  "LastUpdate_Achievements": "2023-10-16T00:03:32.2232719+00:00"
+  "LastUpdate_Ratings": "2023-10-16T01:42:31.459737+00:00",
+  "LastUpdate_Achievements": "2023-10-16T01:48:33.2414323+00:00"
 }

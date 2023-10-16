@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 227,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -2555,9 +2555,9 @@
       "ID": "PASS_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Beep Beep Boop",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 104
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_1",
@@ -2650,8 +2650,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-10-16T00:07:22.7439021+00:00",
+  "LastChanged_Achievements": "2023-10-16T01:52:22.1211303+00:00",
   "LastUpdate_AppInfo": "2023-10-12T20:57:27.7908021+00:00",
-  "LastUpdate_Ratings": "2023-10-16T00:00:57.8977006+00:00",
-  "LastUpdate_Achievements": "2023-10-16T00:07:22.7439856+00:00"
+  "LastUpdate_Ratings": "2023-10-16T01:45:59.7610579+00:00",
+  "LastUpdate_Achievements": "2023-10-16T01:52:22.1212117+00:00"
 }

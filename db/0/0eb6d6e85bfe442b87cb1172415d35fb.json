@@ -4,8 +4,8 @@
   "ProductSlug": "airport-ceo-442ecc",
   "Ranking_EOS_Progress": 460,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 298,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-09-01T10:00:00+00:00",
     "PcReleaseDate": "2021-03-04T18:00:00+00:00",
@@ -469,9 +469,9 @@
       "ID": "TravelToExecutiveBathroomIsland",
       "SetID": "d11cl5p",
       "Name": "Travel to executive bathroom island",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "WhenIsTheNextDevBlog",
@@ -500,8 +500,8 @@
   ],
   "FirstSeen": "2023-09-02T13:02:28.4911547+00:00",
   "FirstSeenAchievements": "2023-07-27T10:02:52.8790419+00:00",
-  "LastChanged_Achievements": "2023-10-16T00:03:33.7420861+00:00",
+  "LastChanged_Achievements": "2023-10-16T01:48:34.7924713+00:00",
   "LastUpdate_AppInfo": "2023-10-11T15:57:05.906412+00:00",
-  "LastUpdate_Ratings": "2023-10-15T23:59:53.8236498+00:00",
-  "LastUpdate_Achievements": "2023-10-16T00:03:33.7421113+00:00"
+  "LastUpdate_Ratings": "2023-10-16T01:44:58.1468829+00:00",
+  "LastUpdate_Achievements": "2023-10-16T01:48:34.7924978+00:00"
 }

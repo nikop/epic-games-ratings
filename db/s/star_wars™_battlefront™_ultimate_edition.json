@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -26,7 +26,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 673,
+  "EOS_Progressed": 675,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
@@ -1806,6 +1806,11 @@
       "Time": "2023-10-16T00:05:27.4967473+00:00",
       "NumProgressed": 673,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-16T01:50:28.0778916+00:00",
+      "NumProgressed": 675,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -1834,7 +1839,7 @@
       "Name": "Hold the line!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "achievement_12",
@@ -1858,7 +1863,7 @@
       "Name": "Playing the objective",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "achievement_15",
@@ -1890,7 +1895,7 @@
       "Name": "The power of the Force",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "achievement_19",
@@ -1994,7 +1999,7 @@
       "Name": "Never tell me the odds!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "achievement_30",
@@ -2018,7 +2023,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "achievement_33",
@@ -2042,7 +2047,7 @@
       "Name": "New Recruit",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 612
+      "UsersEstimate": 614
     },
     {
       "ID": "achievement_36",
@@ -2058,7 +2063,7 @@
       "Name": "Off to a good start",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "achievement_38",
@@ -2074,7 +2079,7 @@
       "Name": "Ackbar\u0027s Elite",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "achievement_4",
@@ -2090,7 +2095,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "achievement_41",
@@ -2122,7 +2127,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "achievement_45",
@@ -2168,9 +2173,9 @@
       "ID": "achievement_5",
       "SetID": "271ol84",
       "Name": "Shoot first",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 121
+      "UsersEstimate": 115
     },
     {
       "ID": "achievement_50",
@@ -2186,7 +2191,7 @@
       "Name": "You have your moments",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "achievement_52",
@@ -2194,7 +2199,7 @@
       "Name": "When surrounded by war...",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "achievement_53",
@@ -2218,7 +2223,7 @@
       "Name": "Stop that Droid",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "achievement_56",
@@ -2250,7 +2255,7 @@
       "Name": "Onwards!",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "achievement_6",
@@ -2274,7 +2279,7 @@
       "Name": "The circle is now complete",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "achievement_62",
@@ -2298,7 +2303,7 @@
       "Name": "A cunning warrior",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "achievement_8",
@@ -2321,13 +2326,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 673,
+      "Progressed": 675,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 673,
+      "Progressed": 675,
       "Completed": 1
     }
   ],
@@ -2335,8 +2340,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-16T00:05:27.4967467+00:00",
+  "LastChanged_Achievements": "2023-10-16T01:50:28.0778912+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:22.846224+00:00",
-  "LastUpdate_Ratings": "2023-10-16T00:03:12.6372481+00:00",
-  "LastUpdate_Achievements": "2023-10-16T00:05:27.4968294+00:00"
+  "LastUpdate_Ratings": "2023-10-16T01:48:09.8094842+00:00",
+  "LastUpdate_Achievements": "2023-10-16T01:50:28.0779746+00:00"
 }

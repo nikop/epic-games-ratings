@@ -3,12 +3,12 @@
   "Name": "Against the Storm",
   "ProductSlug": "against-the-storm",
   "Ranking_Rating": 64,
-  "Ranking_Popularity": 212,
+  "Ranking_Popularity": 213,
   "Ranking_PopularitySum": 168,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3110,9 +3110,9 @@
       "Count": 322
     }
   ],
-  "EOS_Progressed": 16936,
+  "EOS_Progressed": 16938,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -12070,6 +12070,11 @@
       "Time": "2023-10-16T00:07:11.5904457+00:00",
       "NumProgressed": 16936,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-10-16T01:52:11.0097408+00:00",
+      "NumProgressed": 16938,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 50,
@@ -12137,7 +12142,7 @@
       "Name": "Lizard Utopia",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ManyEvents",
@@ -12161,7 +12166,7 @@
       "Name": "Homesick",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "WinFirstGame",
@@ -12201,7 +12206,7 @@
       "Name": "Bandit Camp",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "WinNearBarren",
@@ -12209,7 +12214,7 @@
       "Name": "Barren Lands",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "WinNearBattleground",
@@ -12217,7 +12222,7 @@
       "Name": "Ancient Battleground",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "WinNearCrystals",
@@ -12225,7 +12230,7 @@
       "Name": "Sparkdew Crystals",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "WinNearDangerous",
@@ -12297,7 +12302,7 @@
       "Name": "Royal Outpost",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "WinNearRuins",
@@ -12305,7 +12310,7 @@
       "Name": "Lost Colonies",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "WinNearStatue",
@@ -12313,7 +12318,7 @@
       "Name": "Statue of the Forefathers",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "WinNearTemple",
@@ -12337,7 +12342,7 @@
       "Name": "Watchtower",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "WinOnCoral",
@@ -12353,7 +12358,7 @@
       "Name": "Cursed Lands",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "WinOnMarshlands",
@@ -12393,7 +12398,7 @@
       "Name": "A Real Challenge",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "WinWIthCaches",
@@ -12449,7 +12454,7 @@
       "Name": "Trade Baron",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "WinWithoutDeath",
@@ -12480,15 +12485,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 16936,
+      "Progressed": 16938,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-10-15T11:59:20.8404524+00:00",
-  "LastChanged_Achievements": "2023-10-16T00:07:11.5904451+00:00",
+  "LastChanged_Achievements": "2023-10-16T01:52:11.0097404+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:53.7787195+00:00",
-  "LastUpdate_Ratings": "2023-10-15T23:58:47.437285+00:00",
-  "LastUpdate_Achievements": "2023-10-16T00:07:11.5905359+00:00"
+  "LastUpdate_Ratings": "2023-10-16T01:43:49.092398+00:00",
+  "LastUpdate_Achievements": "2023-10-16T01:52:11.0098381+00:00"
 }

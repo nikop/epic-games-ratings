@@ -18,8 +18,8 @@ Rating: 4.48 (Ranked 608)
 | Running at the speed of sound | 14.00% | ~162 |
 | Rookie No-No More | 13.00% | ~150 |
 | Martian explorer | 11.00% | ~127 |
-| To the core | 8.00% | ~92 |
-| Blurred photofinish | 8.00% | ~92 |
+| To the core | 9.00% | ~104 |
+| Blurred photofinish | 9.00% | ~104 |
 | EZ game EZ life | 7.00% | ~81 |
 | First step into a larger world | 7.00% | ~81 |
 | Over the clouds | 6.00% | ~69 |

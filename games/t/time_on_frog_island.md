@@ -9,12 +9,12 @@
 | What?! | 39.00% | ~7 |
 | Frogs Legs | 33.00% | ~6 |
 | Mad Scientist | 28.00% | ~5 |
+| Hoist the Sails | 22.00% | ~4 |
+| Secure the Sheets | 22.00% | ~4 |
 | Socialite | 17.00% | ~3 |
 | Who Even Needs Keys | 17.00% | ~3 |
 | Shrub-Seeing: Silly Birbs | 17.00% | ~3 |
 | Couch-surfing | 17.00% | ~3 |
-| Hoist the Sails | 17.00% | ~3 |
-| Secure the Sheets | 17.00% | ~3 |
 | Replace the Rudder | 17.00% | ~3 |
 | Shrub-Seeing: Townlife | 11.00% | ~2 |
 | Shrub-Seeing: Ruins of old | 11.00% | ~2 |

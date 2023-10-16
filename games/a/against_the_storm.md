@@ -14,18 +14,18 @@ Number of Ratings: 1,845  (23.09.2022)
 | Fertile Meadows | 5.00% | ~847 |
 | Coral Forest | 5.00% | ~847 |
 | The Scarlet Orchard | 5.00% | ~847 |
-| Homesick | 4.00% | ~677 |
-| Bandit Camp | 4.00% | ~677 |
-| Barren Lands | 4.00% | ~677 |
-| Ancient Battleground | 4.00% | ~677 |
-| Sparkdew Crystals | 4.00% | ~677 |
-| Royal Outpost | 4.00% | ~677 |
-| Lost Colonies | 4.00% | ~677 |
-| Statue of the Forefathers | 4.00% | ~677 |
-| Watchtower | 4.00% | ~677 |
-| Cursed Lands | 4.00% | ~677 |
-| A Real Challenge | 4.00% | ~677 |
-| Trade Baron | 4.00% | ~677 |
+| Homesick | 4.00% | ~678 |
+| Bandit Camp | 4.00% | ~678 |
+| Barren Lands | 4.00% | ~678 |
+| Ancient Battleground | 4.00% | ~678 |
+| Sparkdew Crystals | 4.00% | ~678 |
+| Royal Outpost | 4.00% | ~678 |
+| Lost Colonies | 4.00% | ~678 |
+| Statue of the Forefathers | 4.00% | ~678 |
+| Watchtower | 4.00% | ~678 |
+| Cursed Lands | 4.00% | ~678 |
+| A Real Challenge | 4.00% | ~678 |
+| Trade Baron | 4.00% | ~678 |
 | Serving Ale | 3.00% | ~508 |
 | Against All Odds | 3.00% | ~508 |
 | Ruined Armory | 3.00% | ~508 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Efficient Explorer | 1.00% | ~169 |
 | Prestigious Expedition | 1.00% | ~169 |
 | Blood Flower Farmer | 1.00% | ~169 |
-| Lizard Utopia | 0.80% | ~135 |
+| Lizard Utopia | 0.80% | ~136 |
 | Beaver Utopia | 0.70% | ~119 |
 | Human Utopia | 0.70% | ~119 |
 | The Queen's Chosen | 0.60% | ~102 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Higher Needs | 0.20% | ~34 |
 | Paradise | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,936 (Ranked 131)  
+Progressed: 16,938 (Ranked 131)  
 Completed: 52 (0.31%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,11 +236,11 @@ Completed: 52 (0.31%) (Ranked 202)
 | 2023-10-13 | 16,904 | 52 |
 | 2023-10-14 | 16,920 | 52 |
 | 2023-10-15 | 16,935 | 52 |
-| 2023-10-16 | 16,936 | 52 |
+| 2023-10-16 | 16,938 | 52 |
 ## Awards
-Max (Quickly Understood Controls): 436  (Ranked 212)  
+Max (Quickly Understood Controls): 436  (Ranked 213)  
 Sum: 3,192 (Ranked 168)  
-Diff (max vs sum): 44  
+Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 436 |

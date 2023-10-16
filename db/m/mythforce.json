@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -755,9 +755,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4162,
+  "EOS_Progressed": 4163,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 215,
+  "EOS_NewPlayers": 216,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7460,6 +7460,11 @@
       "Time": "2023-10-15T21:09:08.2187652+00:00",
       "NumProgressed": 4162,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-16T01:53:10.5036068+00:00",
+      "NumProgressed": 4163,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -7488,7 +7493,7 @@
       "Name": "Deadication",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "MF_Ach_DeathBecomesYou",
@@ -7655,15 +7660,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4162,
+      "Progressed": 4163,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-14T13:04:06.5278861+00:00",
-  "LastChanged_Achievements": "2023-10-16T00:08:32.2502646+00:00",
+  "LastChanged_Achievements": "2023-10-16T01:53:10.5036063+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:04.1779972+00:00",
-  "LastUpdate_Ratings": "2023-10-15T23:57:25.2510613+00:00",
-  "LastUpdate_Achievements": "2023-10-16T00:08:32.2503292+00:00"
+  "LastUpdate_Ratings": "2023-10-16T01:42:21.9260453+00:00",
+  "LastUpdate_Achievements": "2023-10-16T01:53:10.5036621+00:00"
 }

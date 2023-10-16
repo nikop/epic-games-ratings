@@ -6,18 +6,18 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~24,972 |
-| A thief's beginning | 10.00% | ~20,810 |
-| Thorough | 10.00% | ~20,810 |
-| Rollin' | 9.00% | ~18,729 |
-| Disguised | 8.00% | ~16,648 |
-| Rescue Takuma | 8.00% | ~16,648 |
-| Tanuki Time | 8.00% | ~16,648 |
-| Happy Planning | 7.00% | ~14,567 |
-| Ice Ice Yuki | 7.00% | ~14,567 |
-| Jonin | 7.00% | ~14,567 |
-| Stoned Ox | 7.00% | ~14,567 |
-| Yabu | 7.00% | ~14,567 |
+| Genin | 12.00% | ~24,973 |
+| A thief's beginning | 10.00% | ~20,811 |
+| Thorough | 10.00% | ~20,811 |
+| Rollin' | 9.00% | ~18,730 |
+| Disguised | 8.00% | ~16,649 |
+| Rescue Takuma | 8.00% | ~16,649 |
+| Tanuki Time | 8.00% | ~16,649 |
+| Happy Planning | 7.00% | ~14,568 |
+| Ice Ice Yuki | 7.00% | ~14,568 |
+| Jonin | 7.00% | ~14,568 |
+| Stoned Ox | 7.00% | ~14,568 |
+| Yabu | 7.00% | ~14,568 |
 | Chunin | 6.00% | ~12,486 |
 | Flying Rocks | 6.00% | ~12,486 |
 | Mugen Unchained | 6.00% | ~12,486 |
@@ -42,8 +42,8 @@ Number of Ratings: 495  (23.09.2022)
 | When Cut Across the Neck | 0.90% | ~1,873 |
 | High Five the Moon | 0.80% | ~1,665 |
 | The Cave | 0.80% | ~1,665 |
-| Merciful | 0.50% | ~1,040 |
-| Time Paradox | 0.50% | ~1,040 |
+| Merciful | 0.50% | ~1,041 |
+| Time Paradox | 0.50% | ~1,041 |
 | Five Shadows | 0.30% | ~624 |
 | Complete Mastery | 0.20% | ~416 |
 | Praise the Shogun | 0.20% | ~416 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~208 |
 | Release the Kraken | 0.10% | ~208 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 208,098 (Ranked 65)  
+Progressed: 208,108 (Ranked 65)  
 Completed: 91 (0.04%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 91 (0.04%) (Ranked 277)
 | 2023-10-13 | 207,685 | 90 |
 | 2023-10-14 | 207,886 | 90 |
 | 2023-10-15 | 208,093 | 91 |
-| 2023-10-16 | 208,098 | 91 |
+| 2023-10-16 | 208,108 | 91 |
 ## Awards
 Max (Great for Beginners): 567  (Ranked 196)  
 Sum: 4,790 (Ranked 138)  

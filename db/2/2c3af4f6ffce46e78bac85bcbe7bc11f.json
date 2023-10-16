@@ -3,9 +3,9 @@
   "Name": "Recollection",
   "ProductSlug": "recollection-71f3a4",
   "Ranking_EOS_Progress": 414,
-  "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 254,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_Completed": 58,
+  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-06-14T14:00:00+00:00",
     "PcReleaseDate": "2023-04-17T15:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 69,
+  "EOS_Progressed": 70,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5.8,
+  "EOS_Completed_Percentage": 5.71,
   "EosHistory": [
     {
       "Time": "2023-06-14T15:00:16.7509072+00:00",
@@ -381,6 +381,11 @@
       "Time": "2023-10-14T16:09:11.3513255+00:00",
       "NumProgressed": 69,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-16T01:52:44.3621391+00:00",
+      "NumProgressed": 70,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 26,
@@ -390,7 +395,7 @@
       "ID": "Bird",
       "SetID": "6j29jep",
       "Name": "Something free...",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
       "UsersEstimate": 8
     },
@@ -518,7 +523,7 @@
       "ID": "Moon_Fragile",
       "SetID": "6j29jep",
       "Name": "Something to make you dream... (fragile)",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 30,
       "UsersEstimate": 8
     },
@@ -599,14 +604,14 @@
     {
       "ID": "6j29jep",
       "IsBase": true,
-      "Progressed": 69,
+      "Progressed": 70,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-09-01T05:01:10.2908706+00:00",
   "FirstSeenAchievements": "2023-05-31T12:00:38.8856808+00:00",
-  "LastChanged_Achievements": "2023-10-16T00:08:15.8909709+00:00",
+  "LastChanged_Achievements": "2023-10-16T01:52:44.3621386+00:00",
   "LastUpdate_AppInfo": "2023-10-11T21:57:09.4340746+00:00",
-  "LastUpdate_Ratings": "2023-10-16T00:00:49.29496+00:00",
-  "LastUpdate_Achievements": "2023-10-16T00:08:15.8909943+00:00"
+  "LastUpdate_Ratings": "2023-10-16T01:45:52.6663015+00:00",
+  "LastUpdate_Achievements": "2023-10-16T01:52:44.362159+00:00"
 }

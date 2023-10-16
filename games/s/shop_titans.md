@@ -50,6 +50,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Big Game Hunting | 0.70% | ~964 |
 | For the Hoard! | 0.70% | ~964 |
 | Scrapbooker | 0.70% | ~964 |
+| Locally Sourced | 0.70% | ~964 |
 | Flying off the Shelves | 0.70% | ~964 |
 | This Power Level...! | 0.70% | ~964 |
 | Hidden Potential | 0.70% | ~964 |
@@ -66,7 +67,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | A Ronin Reborn | 0.60% | ~826 |
 | The King's Caprice | 0.60% | ~826 |
 | Archivist | 0.60% | ~826 |
-| Locally Sourced | 0.60% | ~826 |
 | Omae wa Mou Shindeiru | 0.60% | ~826 |
 | Master of Transmutation | 0.60% | ~826 |
 | Supercharged | 0.60% | ~826 |
