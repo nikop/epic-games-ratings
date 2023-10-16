@@ -2596,9 +2596,9 @@
       "Count": 83
     }
   ],
-  "EOS_Progressed": 1061831,
+  "EOS_Progressed": 1061841,
   "EOS_Completed": 456,
-  "EOS_NewPlayers": 3562,
+  "EOS_NewPlayers": 3565,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -22776,6 +22776,11 @@
       "Time": "2023-10-16T01:48:55.8427131+00:00",
       "NumProgressed": 1061831,
       "NumCompleted": 456
+    },
+    {
+      "Time": "2023-10-16T02:22:42.0655089+00:00",
+      "NumProgressed": 1061841,
+      "NumCompleted": 456
     }
   ],
   "TotalAchievements": 37,
@@ -22787,7 +22792,7 @@
       "Name": "Ghostbuster",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 350404
+      "UsersEstimate": 350408
     },
     {
       "ID": "CompleteAustralia",
@@ -22795,7 +22800,7 @@
       "Name": "Crocodile Hunter",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 9556
+      "UsersEstimate": 9557
     },
     {
       "ID": "CompleteBrazil",
@@ -22811,7 +22816,7 @@
       "Name": "California Dreamer",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 74328
+      "UsersEstimate": 74329
     },
     {
       "ID": "CompleteChile",
@@ -22819,7 +22824,7 @@
       "Name": "Carm\u00E9n\u00E8re Taster",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 42473
+      "UsersEstimate": 42474
     },
     {
       "ID": "CompleteChina",
@@ -22827,7 +22832,7 @@
       "Name": "Old Master",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 9556
+      "UsersEstimate": 9557
     },
     {
       "ID": "CompleteGreece",
@@ -22939,7 +22944,7 @@
       "Name": "Now Go Play Outside",
       "Percentage": 0.3,
       "XP": 75,
-      "UsersEstimate": 3185
+      "UsersEstimate": 3186
     },
     {
       "ID": "FinishWorldTour",
@@ -22979,7 +22984,7 @@
       "Name": "Quickie",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 116801
+      "UsersEstimate": 116803
     },
     {
       "ID": "FirstRaceWorldTour",
@@ -22987,7 +22992,7 @@
       "Name": "The First of Many",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 955648
+      "UsersEstimate": 955657
     },
     {
       "ID": "GetLotsOfScore",
@@ -23019,7 +23024,7 @@
       "Name": "Pump my Ride",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 499061
+      "UsersEstimate": 499065
     },
     {
       "ID": "OutOfFuelLoseRace",
@@ -23027,7 +23032,7 @@
       "Name": "Call Roadside Assistance",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 191130
+      "UsersEstimate": 191131
     },
     {
       "ID": "OutOfFuelWinRace",
@@ -23035,7 +23040,7 @@
       "Name": "Comeback",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 42473
+      "UsersEstimate": 42474
     },
     {
       "ID": "RunLotsOfMiles",
@@ -23051,7 +23056,7 @@
       "Name": "I Need a Bigger Garage",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 668954
+      "UsersEstimate": 668960
     },
     {
       "ID": "WinBySmallDifference",
@@ -23059,7 +23064,7 @@
       "Name": "That Was Close",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 191130
+      "UsersEstimate": 191131
     },
     {
       "ID": "WinLotsOfConsecutiveRaces",
@@ -23082,15 +23087,15 @@
     {
       "ID": "77fdf3o",
       "IsBase": true,
-      "Progressed": 1061831,
+      "Progressed": 1061841,
       "Completed": 456
     }
   ],
   "FirstSeen": "2022-07-22T20:19:20.5347351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.6843682+00:00",
   "LastChanged": "2023-10-15T19:00:00.849047+00:00",
-  "LastChanged_Achievements": "2023-10-16T01:48:55.8427126+00:00",
+  "LastChanged_Achievements": "2023-10-16T02:22:42.0655085+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:24.0789156+00:00",
-  "LastUpdate_Ratings": "2023-10-16T01:45:35.421531+00:00",
-  "LastUpdate_Achievements": "2023-10-16T01:48:55.8428598+00:00"
+  "LastUpdate_Ratings": "2023-10-16T02:18:55.0467009+00:00",
+  "LastUpdate_Achievements": "2023-10-16T02:22:42.0656263+00:00"
 }

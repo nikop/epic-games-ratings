@@ -4,7 +4,7 @@
   "ProductSlug": "battle-chess-83c4f8",
   "Ranking_EOS_Progress": 670,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 395,
+  "Ranking_EOS_NewPlayers": 396,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-07-01T16:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:11.9697296+00:00",
   "LastChanged": "2023-03-31T05:57:11.9697298+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:45.9058648+00:00",
-  "LastUpdate_Ratings": "2023-10-16T01:43:32.873097+00:00",
-  "LastUpdate_Achievements": "2023-10-16T01:49:15.7405589+00:00"
+  "LastUpdate_Ratings": "2023-10-16T02:17:16.0849156+00:00",
+  "LastUpdate_Achievements": "2023-10-16T02:22:58.4729866+00:00"
 }

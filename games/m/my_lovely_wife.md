@@ -20,7 +20,7 @@ Number of Ratings: 25  (23.09.2022)
 | A Forked Tongue | 56.00% | ~342 |
 | The Admirer | 53.00% | ~324 |
 | Between Two Fires | 52.00% | ~318 |
-| Precious | 45.00% | ~275 |
+| Precious | 46.00% | ~281 |
 | Devoted | 42.00% | ~257 |
 | The Farmer | 40.00% | ~244 |
 | Ever After | 37.00% | ~226 |

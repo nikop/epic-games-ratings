@@ -4334,7 +4334,7 @@
   ],
   "EOS_Progressed": 5279,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 602,
+  "EOS_NewPlayers": 594,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -7589,9 +7589,9 @@
       "ID": "achievement_a6",
       "SetID": "3m4b0pk",
       "Name": "Among the Masters",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 4065
+      "UsersEstimate": 4118
     },
     {
       "ID": "achievement_a7",
@@ -7630,8 +7630,8 @@
   "FirstSeenRating": "2023-04-28T17:02:09.2169574+00:00",
   "FirstSeenAchievements": "2023-07-31T22:07:03.059823+00:00",
   "LastChanged": "2023-10-15T22:58:12.7346523+00:00",
-  "LastChanged_Achievements": "2023-10-16T01:49:55.964292+00:00",
+  "LastChanged_Achievements": "2023-10-16T02:23:32.2141124+00:00",
   "LastUpdate_AppInfo": "2023-10-14T10:57:21.9143507+00:00",
-  "LastUpdate_Ratings": "2023-10-16T01:42:35.1231131+00:00",
-  "LastUpdate_Achievements": "2023-10-16T01:49:55.9643609+00:00"
+  "LastUpdate_Ratings": "2023-10-16T02:16:29.2999784+00:00",
+  "LastUpdate_Achievements": "2023-10-16T02:23:32.2141642+00:00"
 }

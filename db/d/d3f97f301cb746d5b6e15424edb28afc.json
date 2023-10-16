@@ -872,9 +872,9 @@
       "ID": "GSS_ACH_39_GARAGE_02",
       "SetID": "5fn8ia4",
       "Name": "Machine Head",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "GSS_ACH_40_GARAGE_03",
@@ -1064,9 +1064,9 @@
       "ID": "GSS_ACH_63_POPULARITY_03",
       "SetID": "5fn8ia4",
       "Name": "In the Desert There Is a ...",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "GSS_ACH_64_POPULARITY_04",
@@ -1231,8 +1231,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-16T01:48:31.0658857+00:00",
+  "LastChanged_Achievements": "2023-10-16T02:22:21.2042446+00:00",
   "LastUpdate_AppInfo": "2023-10-09T13:09:09.0618232+00:00",
-  "LastUpdate_Ratings": "2023-10-16T01:45:41.4773443+00:00",
-  "LastUpdate_Achievements": "2023-10-16T01:48:31.06601+00:00"
+  "LastUpdate_Ratings": "2023-10-16T02:19:00.7005283+00:00",
+  "LastUpdate_Achievements": "2023-10-16T02:22:21.2043326+00:00"
 }

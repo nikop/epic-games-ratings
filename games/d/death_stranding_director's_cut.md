@@ -6,22 +6,22 @@ Number of Ratings: 3,099  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Delivering Is What I Do | 92.00% | ~494,499 |
-| Good Samaritan | 90.00% | ~483,749 |
-| Rebuilding America | 80.00% | ~429,999 |
-| Like and Be Liked | 77.00% | ~413,874 |
-| Apprentice Builder | 72.00% | ~386,999 |
-| A New Day for the UCA | 71.00% | ~381,624 |
-| Prominent Porter | 65.00% | ~349,374 |
-| A Baby Blessing | 64.00% | ~343,999 |
-| Building Bridges | 64.00% | ~343,999 |
-| Well Connected | 62.00% | ~333,249 |
-| The Custom Kid | 61.00% | ~327,874 |
-| Chiral Crafter | 59.00% | ~317,124 |
-| Boots Are a Porter's Best Friend | 59.00% | ~317,124 |
-| The People's Porter | 56.00% | ~300,999 |
-| I Couldn't Hold it In! | 56.00% | ~300,999 |
-| Everyday Delivery | 52.00% | ~279,499 |
+| Delivering Is What I Do | 92.00% | ~494,500 |
+| Good Samaritan | 90.00% | ~483,750 |
+| Rebuilding America | 80.00% | ~430,000 |
+| Like and Be Liked | 77.00% | ~413,875 |
+| Apprentice Builder | 72.00% | ~387,000 |
+| A New Day for the UCA | 71.00% | ~381,625 |
+| Prominent Porter | 65.00% | ~349,375 |
+| A Baby Blessing | 64.00% | ~344,000 |
+| Building Bridges | 64.00% | ~344,000 |
+| Well Connected | 62.00% | ~333,250 |
+| The Custom Kid | 61.00% | ~327,875 |
+| Chiral Crafter | 59.00% | ~317,125 |
+| Boots Are a Porter's Best Friend | 59.00% | ~317,125 |
+| The People's Porter | 56.00% | ~301,000 |
+| I Couldn't Hold it In! | 56.00% | ~301,000 |
+| Everyday Delivery | 52.00% | ~279,500 |
 | A Shout in the Dark | 50.00% | ~268,750 |
 | A Thirst for Knowledge | 48.00% | ~258,000 |
 | Snooze 'n' Soothe | 48.00% | ~258,000 |
@@ -63,14 +63,14 @@ Number of Ratings: 3,099  (23.09.2022)
 | In Sam We Trust | 2.00% | ~10,750 |
 | Best Beloved | 2.00% | ~10,750 |
 | Great Deliverer | 2.00% | ~10,750 |
-| Master Builder | 0.90% | ~4,837 |
+| Master Builder | 0.90% | ~4,838 |
 | Growth of a Legend | 0.80% | ~4,300 |
 | Fount of Knowledge | 0.70% | ~3,762 |
 | Trail-Blazer | 0.70% | ~3,762 |
 | Greatest of Great Deliverers | 0.40% | ~2,150 |
 | Homo Faber | 0.40% | ~2,150 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 537,499 (Ranked 31)  
+Progressed: 537,500 (Ranked 31)  
 Completed: 2,058 (0.38%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,7 +249,7 @@ Completed: 2,058 (0.38%) (Ranked 191)
 | 2023-10-13 | 537,058 | 2,056 |
 | 2023-10-14 | 537,289 | 2,057 |
 | 2023-10-15 | 537,490 | 2,058 |
-| 2023-10-16 | 537,499 | 2,058 |
+| 2023-10-16 | 537,500 | 2,058 |
 ## Awards
 Max (Great Boss Battles): 8,427  (Ranked 43)  
 Sum: 14,415 (Ranked 71)  

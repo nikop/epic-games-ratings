@@ -2338,10 +2338,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2392,
       "NumberOfAwardsMax": 262
+    },
+    {
+      "Time": "2023-10-16T02:17:28.7638288+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2394,
+      "NumberOfAwardsMax": 262
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2392,
+  "NumberOfAwards": 2394,
   "NumberOfAwardsMax": 262,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2373,7 +2379,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 237
+      "Count": 239
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -15236,9 +15242,9 @@
       "ID": "GB_In_Training",
       "SetID": "819popo",
       "Name": "Ghostbuster In Training",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 239
     },
     {
       "ID": "Ghost_Expert",
@@ -15508,9 +15514,9 @@
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-10-15T20:58:48.6284536+00:00",
-  "LastChanged_Achievements": "2023-10-16T01:51:12.5393238+00:00",
+  "LastChanged": "2023-10-16T02:17:28.7638286+00:00",
+  "LastChanged_Achievements": "2023-10-16T02:24:35.4027763+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:17.9420656+00:00",
-  "LastUpdate_Ratings": "2023-10-16T01:43:51.4064256+00:00",
-  "LastUpdate_Achievements": "2023-10-16T01:51:12.5394465+00:00"
+  "LastUpdate_Ratings": "2023-10-16T02:17:28.7638292+00:00",
+  "LastUpdate_Achievements": "2023-10-16T02:24:35.4028805+00:00"
 }

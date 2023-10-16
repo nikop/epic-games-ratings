@@ -6,35 +6,35 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~228,466 |
-| Uncharted Territory | 89.00% | ~211,807 |
-| Getting A Glimpse | 73.00% | ~173,729 |
-| A Quick Escape | 65.00% | ~154,690 |
+| First Steps | 96.00% | ~228,467 |
+| Uncharted Territory | 89.00% | ~211,808 |
+| Getting A Glimpse | 73.00% | ~173,730 |
+| A Quick Escape | 65.00% | ~154,691 |
 | Explorer | 62.00% | ~147,551 |
 | An Offering | 62.00% | ~147,551 |
 | Defeat The Dark | 61.00% | ~145,171 |
-| Colorful Corpse | 58.00% | ~138,031 |
-| That Was Quick | 57.00% | ~135,651 |
-| A Donation | 57.00% | ~135,651 |
+| Colorful Corpse | 58.00% | ~138,032 |
+| That Was Quick | 57.00% | ~135,652 |
+| A Donation | 57.00% | ~135,652 |
 | Goodbye, Frog Friend | 54.00% | ~128,512 |
-| Heavy Hitter | 53.00% | ~126,132 |
-| Heartless | 46.00% | ~109,473 |
-| Spine Breaker | 46.00% | ~109,473 |
-| Deflection | 45.00% | ~107,093 |
+| Heavy Hitter | 53.00% | ~126,133 |
+| Heartless | 46.00% | ~109,474 |
+| Spine Breaker | 46.00% | ~109,474 |
+| Deflection | 45.00% | ~107,094 |
 | Sneaky | 43.00% | ~102,334 |
 | Ambitious Intent | 42.00% | ~99,954 |
 | Delving Deeper | 42.00% | ~99,954 |
 | C-C-Combo | 42.00% | ~99,954 |
 | Nothing To Lose | 40.00% | ~95,194 |
 | The Bestiary | 40.00% | ~95,194 |
-| What's Yours Is Mine | 39.00% | ~92,814 |
-| R.I.P | 37.00% | ~88,054 |
+| What's Yours Is Mine | 39.00% | ~92,815 |
+| R.I.P | 37.00% | ~88,055 |
 | Shootout | 36.00% | ~85,675 |
 | I Am Overburdened | 35.00% | ~83,295 |
 | Cold Hearted | 34.00% | ~80,915 |
 | Dig Your Own Grave | 33.00% | ~78,535 |
 | Toxic | 33.00% | ~78,535 |
-| Who To Trust? | 32.00% | ~76,155 |
+| Who To Trust? | 32.00% | ~76,156 |
 | Flesh Wound | 29.00% | ~69,016 |
 | Walk It Off | 28.00% | ~66,636 |
 | Stone Touch | 28.00% | ~66,636 |
@@ -50,10 +50,10 @@ Number of Ratings: 15,086  (23.09.2022)
 | Just Chilling | 20.00% | ~47,597 |
 | All Consuming | 19.00% | ~45,217 |
 | Stop Hitting Yourself | 19.00% | ~45,217 |
-| Shadow Spreads | 17.00% | ~40,457 |
-| Max Damage! | 17.00% | ~40,457 |
-| Don't Ignore Me! | 17.00% | ~40,457 |
-| Illuminate, Eliminate | 17.00% | ~40,457 |
+| Shadow Spreads | 17.00% | ~40,458 |
+| Max Damage! | 17.00% | ~40,458 |
+| Don't Ignore Me! | 17.00% | ~40,458 |
+| Illuminate, Eliminate | 17.00% | ~40,458 |
 | Doing Time | 16.00% | ~38,078 |
 | Spreading Plague | 15.00% | ~35,698 |
 | The Long Run | 15.00% | ~35,698 |
@@ -62,8 +62,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Berzerker | 12.00% | ~28,558 |
 | Antivenom | 12.00% | ~28,558 |
 | Thank You, Friend | 11.00% | ~26,178 |
-| Barbecue | 10.00% | ~23,798 |
-| Snake Sneak | 10.00% | ~23,798 |
+| Barbecue | 10.00% | ~23,799 |
+| Snake Sneak | 10.00% | ~23,799 |
 | Precious | 9.00% | ~21,419 |
 | Challenge Increases | 8.00% | ~19,039 |
 | New Game+ | 8.00% | ~19,039 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Down Under | 0.50% | ~1,190 |
 | Near Death Experience | 0.30% | ~714 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 237,985 (Ranked 56)  
+Progressed: 237,986 (Ranked 56)  
 Completed: 281 (0.12%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,17 +308,17 @@ Completed: 281 (0.12%) (Ranked 241)
 | 2023-10-13 | 237,844 | 281 |
 | 2023-10-14 | 237,914 | 281 |
 | 2023-10-15 | 237,982 | 281 |
-| 2023-10-16 | 237,985 | 281 |
+| 2023-10-16 | 237,986 | 281 |
 ## Awards
 Max (Quickly Understood Controls): 1,498  (Ranked 127)  
-Sum: 11,611 (Ranked 82)  
+Sum: 11,612 (Ranked 82)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,506 |
 | This game has Quickly Understood Controls | 1,498 |
 | This game is Relaxing | 1,429 |
-| This game has Challenging Combat | 1,425 |
+| This game has Challenging Combat | 1,426 |
 | This game is Extremely Fun | 1,406 |
 | This game is Highly Recommended | 1,372 |
 | This game has Amazing Storytelling | 1,315 |
@@ -511,3 +511,4 @@ Diff (max vs sum): 45
 | 2023-10-13 | 4.58 | - | 1,506 | 13,109 |
 | 2023-10-14 | 4.58 | - | 1,506 | 13,116 |
 | 2023-10-15 | 4.58 | - | 1,506 | 13,117 |
+| 2023-10-16 | 4.58 | - | 1,498 | 11,612 |

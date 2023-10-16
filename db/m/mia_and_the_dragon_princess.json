@@ -4,7 +4,7 @@
   "ProductSlug": "mia-and-the-dragon-princess-f4e1d0",
   "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-05-04T07:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 74,
+  "EOS_Progressed": 75,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.35,
+  "EOS_Completed_Percentage": 1.33,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:47:18.2098376+00:00",
@@ -396,6 +396,11 @@
       "Time": "2023-10-15T10:09:45.6668284+00:00",
       "NumProgressed": 74,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-16T02:27:37.1225791+00:00",
+      "NumProgressed": 75,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 18,
@@ -421,7 +426,7 @@
       "ID": "bathroom_brawler",
       "SetID": "5anb57n",
       "Name": "Bathroom Brawler",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 40,
       "UsersEstimate": 13
     },
@@ -453,7 +458,7 @@
       "ID": "explosive_end",
       "SetID": "5anb57n",
       "Name": "Explosive End",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 90,
       "UsersEstimate": 16
     },
@@ -461,7 +466,7 @@
       "ID": "finger_lickin_bad",
       "SetID": "5anb57n",
       "Name": "Finger-Lickin\u0027 Bad",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 13
     },
@@ -493,7 +498,7 @@
       "ID": "glass_act",
       "SetID": "5anb57n",
       "Name": "Glass Act",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
       "UsersEstimate": 28
     },
@@ -517,7 +522,7 @@
       "ID": "relight_my_cannon",
       "SetID": "5anb57n",
       "Name": "Relight my Cannon",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 40,
       "UsersEstimate": 28
     },
@@ -533,9 +538,9 @@
       "ID": "snitch",
       "SetID": "5anb57n",
       "Name": "Snitch",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "tour_guide_extraordinaire",
@@ -550,14 +555,14 @@
     {
       "ID": "5anb57n",
       "IsBase": true,
-      "Progressed": 74,
+      "Progressed": 75,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-13T16:58:04.6283661+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:18.2098384+00:00",
-  "LastChanged_Achievements": "2023-10-16T01:53:34.9131907+00:00",
+  "LastChanged_Achievements": "2023-10-16T02:27:37.1225787+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:44.1296427+00:00",
-  "LastUpdate_Ratings": "2023-10-16T01:46:17.7754401+00:00",
-  "LastUpdate_Achievements": "2023-10-16T01:53:34.9132052+00:00"
+  "LastUpdate_Ratings": "2023-10-16T02:19:28.4812309+00:00",
+  "LastUpdate_Achievements": "2023-10-16T02:27:37.1225916+00:00"
 }

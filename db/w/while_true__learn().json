@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 415,
   "Ranking_EOS_Progress": 29,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2021-12-02T16:00:00+00:00",
@@ -490,7 +490,7 @@
       "Count": 134
     }
   ],
-  "EOS_Progressed": 607018,
+  "EOS_Progressed": 607019,
   "EOS_Completed": 532,
   "EOS_NewPlayers": 726,
   "EOS_NewCompleters": 1,
@@ -20385,6 +20385,11 @@
       "Time": "2023-10-16T01:48:38.6100789+00:00",
       "NumProgressed": 607018,
       "NumCompleted": 532
+    },
+    {
+      "Time": "2023-10-16T02:22:27.7453595+00:00",
+      "NumProgressed": 607019,
+      "NumCompleted": 532
     }
   ],
   "TotalAchievements": 28,
@@ -20460,7 +20465,7 @@
       "Name": "We need more gold",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 370281
+      "UsersEstimate": 370282
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -20516,7 +20521,7 @@
       "Name": "More FPS for the FPS god!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 303509
+      "UsersEstimate": 303510
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -20524,7 +20529,7 @@
       "Name": "First.. Bit?",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 564527
+      "UsersEstimate": 564528
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -20532,7 +20537,7 @@
       "Name": "Overmind",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 145684
+      "UsersEstimate": 145685
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -20556,7 +20561,7 @@
       "Name": "Error: Stack Overflow",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 400632
+      "UsersEstimate": 400633
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -20580,7 +20585,7 @@
       "Name": "Step by step",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 48561
+      "UsersEstimate": 48562
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -20619,15 +20624,15 @@
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 607018,
+      "Progressed": 607019,
       "Completed": 532
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
   "LastChanged": "2023-07-16T08:00:08.7749167+00:00",
-  "LastChanged_Achievements": "2023-10-16T01:48:38.6100785+00:00",
+  "LastChanged_Achievements": "2023-10-16T02:22:27.745359+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:09.2930104+00:00",
-  "LastUpdate_Ratings": "2023-10-16T01:42:12.3373538+00:00",
-  "LastUpdate_Achievements": "2023-10-16T01:48:38.6102186+00:00"
+  "LastUpdate_Ratings": "2023-10-16T02:16:09.7364265+00:00",
+  "LastUpdate_Achievements": "2023-10-16T02:22:27.7454672+00:00"
 }

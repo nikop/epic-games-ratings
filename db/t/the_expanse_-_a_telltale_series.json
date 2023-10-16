@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -166,9 +166,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14023,
+  "EOS_Progressed": 14025,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 246,
+  "EOS_NewPlayers": 245,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -8766,6 +8766,11 @@
       "Time": "2023-10-16T01:50:51.6923432+00:00",
       "NumProgressed": 14023,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-10-16T02:24:18.0266188+00:00",
+      "NumProgressed": 14025,
+      "NumCompleted": 24
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -8810,7 +8815,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1963
+      "UsersEstimate": 1964
     },
     {
       "ID": "14",
@@ -8834,7 +8839,7 @@
       "Name": "Drug Gifter",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "17",
@@ -9017,7 +9022,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14023,
+      "Progressed": 14025,
       "Completed": 24
     }
   ],
@@ -9025,8 +9030,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-13T09:00:57.1370573+00:00",
-  "LastChanged_Achievements": "2023-10-16T01:50:51.6923429+00:00",
+  "LastChanged_Achievements": "2023-10-16T02:24:18.0266185+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:40.5814563+00:00",
-  "LastUpdate_Ratings": "2023-10-16T01:46:05.2450086+00:00",
-  "LastUpdate_Achievements": "2023-10-16T01:50:51.6924148+00:00"
+  "LastUpdate_Ratings": "2023-10-16T02:19:19.7222157+00:00",
+  "LastUpdate_Achievements": "2023-10-16T02:24:18.0266792+00:00"
 }

@@ -5,17 +5,17 @@ Rating: 4.40 (Ranked 719)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 80.00% | ~99,980 |
-| 74 miles East of Otaheité | 56.00% | ~69,986 |
+| A Family Heirloom | 80.00% | ~99,981 |
+| 74 miles East of Otaheité | 56.00% | ~69,987 |
 | Interesting... | 42.00% | ~52,490 |
-| The Everhart Expedition | 39.00% | ~48,740 |
-| The Vanishing of the Lady Shannon | 30.00% | ~37,492 |
-| Seaside Serenade | 30.00% | ~37,492 |
+| The Everhart Expedition | 39.00% | ~48,741 |
+| The Vanishing of the Lady Shannon | 30.00% | ~37,493 |
+| Seaside Serenade | 30.00% | ~37,493 |
 | Halfway there | 29.00% | ~36,243 |
 | A brigantine, a brig and a barque | 28.00% | ~34,993 |
 | 506 East Hampden Avenue | 28.00% | ~34,993 |
-| Weekend at Walakea's | 27.00% | ~33,743 |
-| Quite a Show | 27.00% | ~33,743 |
+| Weekend at Walakea's | 27.00% | ~33,744 |
+| Quite a Show | 27.00% | ~33,744 |
 | Dark Water Ride | 24.00% | ~29,994 |
 | Sunken | 24.00% | ~29,994 |
 | Deep Cut | 24.00% | ~29,994 |
@@ -29,7 +29,7 @@ Rating: 4.40 (Ranked 719)
 | The Norahnomicon | 9.00% | ~11,248 |
 | Play it again, Norah | 7.00% | ~8,748 |
 | Underwater Royalty | 7.00% | ~8,748 |
-| Written in Stone | 6.00% | ~7,498 |
+| Written in Stone | 6.00% | ~7,499 |
 | Fawning Developers | 5.00% | ~6,249 |
 | The Amazing Adventures of Norah Everhart | 4.00% | ~4,999 |
 | Candid Photo | 4.00% | ~4,999 |
@@ -40,7 +40,7 @@ Rating: 4.40 (Ranked 719)
 | Gently down the stream... | 1.00% | ~1,250 |
 | Meta-reference | 1.00% | ~1,250 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 124,975 (Ranked 76)  
+Progressed: 124,976 (Ranked 76)  
 Completed: 1,058 (0.85%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 1,058 (0.85%) (Ranked 152)
 | 2023-10-13 | 124,526 | 1,051 |
 | 2023-10-14 | 124,745 | 1,053 |
 | 2023-10-15 | 124,959 | 1,058 |
-| 2023-10-16 | 124,975 | 1,058 |
+| 2023-10-16 | 124,976 | 1,058 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

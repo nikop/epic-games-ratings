@@ -7234,9 +7234,9 @@
       "Count": 614
     }
   ],
-  "EOS_Progressed": 537499,
+  "EOS_Progressed": 537500,
   "EOS_Completed": 2058,
-  "EOS_NewPlayers": 1195,
+  "EOS_NewPlayers": 1193,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -27439,6 +27439,11 @@
       "Time": "2023-10-16T01:50:10.9156129+00:00",
       "NumProgressed": 537499,
       "NumCompleted": 2058
+    },
+    {
+      "Time": "2023-10-16T02:23:44.5249115+00:00",
+      "NumProgressed": 537500,
+      "NumCompleted": 2058
     }
   ],
   "TotalAchievements": 63,
@@ -27458,7 +27463,7 @@
       "Name": "Delivering Is What I Do",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 494499
+      "UsersEstimate": 494500
     },
     {
       "ID": "10",
@@ -27514,7 +27519,7 @@
       "Name": "Everyday Delivery",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 279499
+      "UsersEstimate": 279500
     },
     {
       "ID": "17",
@@ -27546,7 +27551,7 @@
       "Name": "Rebuilding America",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 429999
+      "UsersEstimate": 430000
     },
     {
       "ID": "20",
@@ -27570,7 +27575,7 @@
       "Name": "Apprentice Builder",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 386999
+      "UsersEstimate": 387000
     },
     {
       "ID": "23",
@@ -27578,7 +27583,7 @@
       "Name": "Master Builder",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 4837
+      "UsersEstimate": 4838
     },
     {
       "ID": "24",
@@ -27586,7 +27591,7 @@
       "Name": "A New Day for the UCA",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 381624
+      "UsersEstimate": 381625
     },
     {
       "ID": "25",
@@ -27602,7 +27607,7 @@
       "Name": "Well Connected",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 333249
+      "UsersEstimate": 333250
     },
     {
       "ID": "27",
@@ -27618,7 +27623,7 @@
       "Name": "Like and Be Liked",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 413874
+      "UsersEstimate": 413875
     },
     {
       "ID": "29",
@@ -27626,7 +27631,7 @@
       "Name": "The People\u0027s Porter",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 300999
+      "UsersEstimate": 301000
     },
     {
       "ID": "3",
@@ -27650,7 +27655,7 @@
       "Name": "Good Samaritan",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 483749
+      "UsersEstimate": 483750
     },
     {
       "ID": "32",
@@ -27666,7 +27671,7 @@
       "Name": "Chiral Crafter",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 317124
+      "UsersEstimate": 317125
     },
     {
       "ID": "34",
@@ -27690,7 +27695,7 @@
       "Name": "The Custom Kid",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 327874
+      "UsersEstimate": 327875
     },
     {
       "ID": "37",
@@ -27746,7 +27751,7 @@
       "Name": "A Baby Blessing",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 343999
+      "UsersEstimate": 344000
     },
     {
       "ID": "43",
@@ -27754,7 +27759,7 @@
       "Name": "Prominent Porter",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 349374
+      "UsersEstimate": 349375
     },
     {
       "ID": "44",
@@ -27786,7 +27791,7 @@
       "Name": "Boots Are a Porter\u0027s Best Friend",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 317124
+      "UsersEstimate": 317125
     },
     {
       "ID": "48",
@@ -27882,7 +27887,7 @@
       "Name": "I Couldn\u0027t Hold it In!",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 300999
+      "UsersEstimate": 301000
     },
     {
       "ID": "59",
@@ -27914,7 +27919,7 @@
       "Name": "Building Bridges",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 343999
+      "UsersEstimate": 344000
     },
     {
       "ID": "62",
@@ -27953,15 +27958,15 @@
     {
       "ID": "aho6p5h",
       "IsBase": true,
-      "Progressed": 537499,
+      "Progressed": 537500,
       "Completed": 2058
     }
   ],
   "FirstSeen": "2022-07-22T20:27:07.1002044+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.0381621+00:00",
   "LastChanged": "2023-10-16T01:45:10.7609753+00:00",
-  "LastChanged_Achievements": "2023-10-16T01:50:10.9156125+00:00",
+  "LastChanged_Achievements": "2023-10-16T02:23:44.5249111+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:25.821678+00:00",
-  "LastUpdate_Ratings": "2023-10-16T01:45:10.760976+00:00",
-  "LastUpdate_Achievements": "2023-10-16T01:50:10.9157982+00:00"
+  "LastUpdate_Ratings": "2023-10-16T02:18:34.3364564+00:00",
+  "LastUpdate_Achievements": "2023-10-16T02:23:44.5250544+00:00"
 }

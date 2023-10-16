@@ -26,13 +26,13 @@ Number of Ratings: 9,492  (23.09.2022)
 | Old Child | 0.30% | ~2,147 |
 | Path of the Prospect | 0.30% | ~2,147 |
 | Rumble in the Hangar | 0.30% | ~2,147 |
+| Take damage to save time | 0.30% | ~2,147 |
 | Martial Hub | 0.30% | ~75 |
 | Scareless | 0.20% | ~1,431 |
 | Dance of the Praying Mantis | 0.20% | ~1,431 |
 | Qi Gong: Mind | 0.20% | ~1,431 |
 | I know Kung-Fu | 0.20% | ~1,431 |
 | Kung-Fu Tussle | 0.20% | ~1,431 |
-| Take damage to save time | 0.20% | ~1,431 |
 | Bloody Sport | 0.20% | ~50 |
 | Muk Yan Master | 0.10% | ~716 |
 | Tiger on Fire | 0.10% | ~716 |

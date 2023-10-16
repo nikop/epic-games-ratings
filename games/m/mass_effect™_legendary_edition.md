@@ -77,10 +77,10 @@
 | Against All Odds | 27.00% | ~191 |
 | Eye of the Hurricane | 26.00% | ~184 |
 | A House Divided | 26.00% | ~184 |
+| World Shaker | 26.00% | ~184 |
 | Liberator | 26.00% | ~184 |
 | Giant Killer | 25.00% | ~177 |
 | Weapon Specialist | 25.00% | ~177 |
-| World Shaker | 25.00% | ~177 |
 | Tunnel Rat | 24.00% | ~170 |
 | Savior | 22.00% | ~156 |
 | Pathfinder | 22.00% | ~156 |

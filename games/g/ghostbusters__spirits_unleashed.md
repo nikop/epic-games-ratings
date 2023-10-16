@@ -24,10 +24,10 @@ Rating: 4.50 (Ranked 574)
 | Whoopsie | 1.00% | ~265 |
 | Daily Dose | 0.90% | ~239 |
 | Ectoplasmic Entity | 0.90% | ~239 |
+| Ghostbuster In Training | 0.90% | ~239 |
 | Right back at ya | 0.90% | ~239 |
 | Terrifying | 0.90% | ~239 |
 | Welcome to the Crew | 0.90% | ~239 |
-| Ghostbuster In Training | 0.80% | ~212 |
 | Side Hustle | 0.80% | ~212 |
 | Summoner | 0.80% | ~212 |
 | Legions | 0.70% | ~186 |
@@ -239,15 +239,15 @@ Completed: 58 (0.22%) (Ranked 219)
 | 2023-10-16 | 26,511 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 262  (Ranked 256)  
-Sum: 2,392 (Ranked 188)  
+Sum: 2,394 (Ranked 188)  
 Diff (max vs sum): 68  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 262 |
 | This game is Great for Beginners | 260 |
 | This game has Competitive Players | 242 |
+| This game is Extremely Fun | 239 |
 | This game has Amazing Storytelling | 239 |
-| This game is Extremely Fun | 237 |
 | This game is Relaxing | 236 |
 | This game has Diverse Characters | 235 |
 | This game is Highly Recommended | 235 |
@@ -440,3 +440,4 @@ Diff (max vs sum): 68
 | 2023-10-13 | 4.50 | 261 | 2,382 |
 | 2023-10-14 | 4.50 | 262 | 2,389 |
 | 2023-10-15 | 4.50 | 262 | 2,392 |
+| 2023-10-16 | 4.50 | 262 | 2,394 |

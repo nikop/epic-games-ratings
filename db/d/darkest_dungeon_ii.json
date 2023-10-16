@@ -8247,9 +8247,9 @@
       "Count": 950
     }
   ],
-  "EOS_Progressed": 120636,
+  "EOS_Progressed": 120637,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 650,
+  "EOS_NewPlayers": 645,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26697,6 +26697,11 @@
       "Time": "2023-10-16T01:50:23.6997622+00:00",
       "NumProgressed": 120636,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-16T02:23:54.8988002+00:00",
+      "NumProgressed": 120637,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 65,
@@ -26716,7 +26721,7 @@
       "Name": "Serenity Now!",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 65143
+      "UsersEstimate": 65144
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -26740,7 +26745,7 @@
       "Name": "Resurrection",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 74794
+      "UsersEstimate": 74795
     },
     {
       "ID": "altar_of_hope_unlock_hero_hellion",
@@ -26748,7 +26753,7 @@
       "Name": "Unleash Hell",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 82032
+      "UsersEstimate": 82033
     },
     {
       "ID": "altar_of_hope_unlock_hero_jester",
@@ -26756,7 +26761,7 @@
       "Name": "Funny Guy",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 80826
+      "UsersEstimate": 80827
     },
     {
       "ID": "altar_of_hope_unlock_hero_leper",
@@ -26772,7 +26777,7 @@
       "Name": "Wyrdly Reconstructed",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 74794
+      "UsersEstimate": 74795
     },
     {
       "ID": "altar_of_hope_unlock_hero_runaway",
@@ -26788,7 +26793,7 @@
       "Name": "Unfulfilled Desires",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 82032
+      "UsersEstimate": 82033
     },
     {
       "ID": "altar_of_hope_upgrade_total_full",
@@ -26908,7 +26913,7 @@
       "Name": "Meat and Greet",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 27746
+      "UsersEstimate": 27747
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -26948,7 +26953,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 21714
+      "UsersEstimate": 21715
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -27076,7 +27081,7 @@
       "Name": "A Clear Conscience",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 83239
+      "UsersEstimate": 83240
     },
     {
       "ID": "hoarder_buy_epic_trinket",
@@ -27100,7 +27105,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 112191
+      "UsersEstimate": 112192
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -27164,7 +27169,7 @@
       "Name": "Unshackled",
       "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 80826
+      "UsersEstimate": 80827
     },
     {
       "ID": "run_victory_act02",
@@ -27227,15 +27232,15 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 120636,
+      "Progressed": 120637,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-10-15T11:58:22.7443445+00:00",
-  "LastChanged_Achievements": "2023-10-16T01:50:23.6997619+00:00",
+  "LastChanged_Achievements": "2023-10-16T02:23:54.8987999+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:26.2566116+00:00",
-  "LastUpdate_Ratings": "2023-10-16T01:43:04.0171648+00:00",
-  "LastUpdate_Achievements": "2023-10-16T01:50:23.6999114+00:00"
+  "LastUpdate_Ratings": "2023-10-16T02:16:50.7514267+00:00",
+  "LastUpdate_Achievements": "2023-10-16T02:23:54.8989328+00:00"
 }

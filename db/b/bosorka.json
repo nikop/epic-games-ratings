@@ -4,7 +4,7 @@
   "ProductSlug": "bosorka-c0e6b6",
   "Ranking_EOS_Progress": 373,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 395,
+  "Ranking_EOS_NewPlayers": 350,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-04-14T16:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 116,
+  "EOS_Progressed": 117,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -368,6 +368,11 @@
       "Time": "2023-10-08T16:04:26.816839+00:00",
       "NumProgressed": 116,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-16T02:25:31.2866977+00:00",
+      "NumProgressed": 117,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -411,7 +416,7 @@
       "Name": "Time is on my side",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "RUNE_CURSEDCOINS",
@@ -425,7 +430,7 @@
       "ID": "RUNE_CURSEDCOMPANIONSHIELD",
       "SetID": "9433p49",
       "Name": "Runes collector",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 100,
       "UsersEstimate": 53
     },
@@ -441,7 +446,7 @@
       "ID": "RUNE_DROPEXTRAHEART",
       "SetID": "9433p49",
       "Name": "First time, yes?",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 55,
       "UsersEstimate": 67
     },
@@ -451,15 +456,15 @@
       "Name": "Witch\u0027s duty",
       "Percentage": 57,
       "XP": 55,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "RUNE_DROPRESETSPELL",
       "SetID": "9433p49",
       "Name": "Devil\u0027s dozen",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 55,
-      "UsersEstimate": 31
+      "UsersEstimate": 30
     },
     {
       "ID": "RUNE_LIGHTNINGSTUN",
@@ -481,7 +486,7 @@
       "ID": "RUNE_STORM",
       "SetID": "9433p49",
       "Name": "Path of purity",
-      "Percentage": 84,
+      "Percentage": 83,
       "XP": 55,
       "UsersEstimate": 97
     },
@@ -489,16 +494,16 @@
       "ID": "RUNE_STUNHIT",
       "SetID": "9433p49",
       "Name": "Kind heart",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 52
+      "UsersEstimate": 51
     }
   ],
   "AchievementSets": [
     {
       "ID": "9433p49",
       "IsBase": true,
-      "Progressed": 116,
+      "Progressed": 117,
       "Completed": 0
     }
   ],
@@ -506,8 +511,8 @@
   "FirstSeenRating": "2023-04-21T21:58:16.6767727+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.939072+00:00",
   "LastChanged": "2023-04-21T21:58:16.6767728+00:00",
-  "LastChanged_Achievements": "2023-10-16T01:52:29.385034+00:00",
+  "LastChanged_Achievements": "2023-10-16T02:25:31.2866973+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:57.0312769+00:00",
-  "LastUpdate_Ratings": "2023-10-16T01:42:08.7669699+00:00",
-  "LastUpdate_Achievements": "2023-10-16T01:52:29.3850479+00:00"
+  "LastUpdate_Ratings": "2023-10-16T02:16:06.876173+00:00",
+  "LastUpdate_Achievements": "2023-10-16T02:25:31.2867088+00:00"
 }

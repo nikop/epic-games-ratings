@@ -755,9 +755,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4163,
+  "EOS_Progressed": 4165,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 216,
+  "EOS_NewPlayers": 214,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7465,6 +7465,11 @@
       "Time": "2023-10-16T01:53:10.5036068+00:00",
       "NumProgressed": 4163,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-16T02:27:16.750447+00:00",
+      "NumProgressed": 4165,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -7525,7 +7530,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 999
+      "UsersEstimate": 1000
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -7533,7 +7538,7 @@
       "Name": "First Strike",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -7565,15 +7570,15 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 957
+      "UsersEstimate": 958
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
       "SetID": "9b9n573",
       "Name": "Horder Better Faster Stronger",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 666
+      "UsersEstimate": 708
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -7589,7 +7594,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 874
+      "UsersEstimate": 875
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -7660,15 +7665,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4163,
+      "Progressed": 4165,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-14T13:04:06.5278861+00:00",
-  "LastChanged_Achievements": "2023-10-16T01:53:10.5036063+00:00",
+  "LastChanged_Achievements": "2023-10-16T02:27:16.7504466+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:04.1779972+00:00",
-  "LastUpdate_Ratings": "2023-10-16T01:42:21.9260453+00:00",
-  "LastUpdate_Achievements": "2023-10-16T01:53:10.5036621+00:00"
+  "LastUpdate_Ratings": "2023-10-16T02:16:15.578157+00:00",
+  "LastUpdate_Achievements": "2023-10-16T02:27:16.7504921+00:00"
 }
