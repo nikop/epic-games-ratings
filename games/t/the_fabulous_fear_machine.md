@@ -14,9 +14,9 @@
 | The happy farmer girl | 48.00% | ~14 |
 | A rival with no options | 45.00% | ~13 |
 | Pulp! Terror Tales in the Night | 41.00% | ~12 |
+| Pulp! Out of this World | 41.00% | ~12 |
+| Pulp! Adventures into the Unknown | 41.00% | ~12 |
 | Kirlian's best disciple | 41.00% | ~12 |
-| Pulp! Out of this World | 38.00% | ~11 |
-| Pulp! Adventures into the Unknown | 38.00% | ~11 |
 | Diagnosis: fear | 34.00% | ~10 |
 | Ambition is... blind | 34.00% | ~10 |
 | You have two wishes left | 34.00% | ~10 |

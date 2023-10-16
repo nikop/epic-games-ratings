@@ -5,10 +5,10 @@ Rating: 4.50 (Ranked 574)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Stylish | 3.00% | ~795 |
 | Advancement | 2.00% | ~530 |
 | Discovery | 2.00% | ~530 |
 | Meticulously Efficient | 2.00% | ~530 |
-| Stylish | 2.00% | ~530 |
 | Animated | 1.00% | ~265 |
 | Back Off | 1.00% | ~265 |
 | Clutch Capture | 1.00% | ~265 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 574)
 | Rift Seeker | 0.10% | ~27 |
 | Ultimate Defense | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,513 (Ranked 117)  
+Progressed: 26,515 (Ranked 117)  
 Completed: 58 (0.22%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 58 (0.22%) (Ranked 218)
 | 2023-10-13 | 26,414 | 58 |
 | 2023-10-14 | 26,466 | 58 |
 | 2023-10-15 | 26,505 | 58 |
-| 2023-10-16 | 26,513 | 58 |
+| 2023-10-16 | 26,515 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 262  (Ranked 256)  
 Sum: 2,395 (Ranked 188)  

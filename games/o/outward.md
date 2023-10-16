@@ -6,20 +6,20 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 76.00% | ~2,723 |
-| Ready for Winter | 65.00% | ~2,329 |
-| Ready for Summer | 52.00% | ~1,863 |
+| Venture Outward | 76.00% | ~2,725 |
+| Ready for Winter | 65.00% | ~2,330 |
+| Ready for Summer | 52.00% | ~1,864 |
 | Cordon Bleu | 44.00% | ~1,577 |
 | Tapped! | 38.00% | ~1,362 |
-| Eureka | 33.00% | ~1,182 |
+| Eureka | 33.00% | ~1,183 |
 | Scourge Slayer | 26.00% | ~932 |
 | Science, Troglodyte! | 24.00% | ~860 |
-| Exceptional Skill | 23.00% | ~824 |
-| Home Sweet Home | 22.00% | ~788 |
+| Exceptional Skill | 23.00% | ~825 |
+| Home Sweet Home | 22.00% | ~789 |
 | Encyclopedic! | 20.00% | ~717 |
 | The Power of Family | 17.00% | ~609 |
-| A Fortress Toppled! | 16.00% | ~573 |
-| Apex Predator | 16.00% | ~573 |
+| A Fortress Toppled! | 16.00% | ~574 |
+| Apex Predator | 16.00% | ~574 |
 | The Power of Faith | 13.00% | ~466 |
 | Strange amalgams | 12.00% | ~430 |
 | The Power of Freedom | 10.00% | ~358 |
@@ -35,8 +35,8 @@ Number of Ratings: 266  (23.09.2022)
 | Ancestor's Pride | 4.00% | ~143 |
 | For All Aurai | 4.00% | ~143 |
 | Memory of a legend | 4.00% | ~143 |
-| Light of Levant | 3.00% | ~107 |
-| This was a mistake... | 3.00% | ~107 |
+| Light of Levant | 3.00% | ~108 |
+| This was a mistake... | 3.00% | ~108 |
 | Crowd Pleaser. | 2.00% | ~72 |
 | Perfect Defense | 2.00% | ~72 |
 | Power! To! The People! | 2.00% | ~72 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~11 |
 | The Absolute Pinnacle. | 0.30% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,583 (Ranked 182)  
+Progressed: 3,585 (Ranked 182)  
 Completed: 4 (0.11%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,7 +218,7 @@ Completed: 4 (0.11%) (Ranked 244)
 | 2023-10-13 | 3,576 | 4 |
 | 2023-10-14 | 3,578 | 4 |
 | 2023-10-15 | 3,581 | 4 |
-| 2023-10-16 | 3,583 | 4 |
+| 2023-10-16 | 3,585 | 4 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 456)  
 Sum: 244 (Ranked 368)  

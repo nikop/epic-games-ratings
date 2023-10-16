@@ -4,7 +4,7 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 567,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 391,
+  "Ranking_EOS_NewPlayers": 390,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -136,9 +136,9 @@
       "ID": "covered_up_for_a_reason",
       "SetID": "f2im8d",
       "Name": "It\u0027s covered up for a reason",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "decrypt_one_myth",
@@ -208,9 +208,9 @@
       "ID": "find_one_memento",
       "SetID": "f2im8d",
       "Name": "Scraps of love",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "find_one_photo",
@@ -328,9 +328,9 @@
       "ID": "piece_of_story",
       "SetID": "f2im8d",
       "Name": "A piece of the story",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "playtime",
@@ -392,9 +392,9 @@
       "ID": "something_important",
       "SetID": "f2im8d",
       "Name": "Something important",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "spy_one_item",
@@ -456,9 +456,9 @@
       "ID": "wanderer",
       "SetID": "f2im8d",
       "Name": "Wanderer",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "whispers_long_forgotten",
@@ -479,8 +479,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-10-16T10:05:48.5782463+00:00",
+  "LastChanged_Achievements": "2023-10-16T11:06:26.1466272+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:31.8135172+00:00",
-  "LastUpdate_Ratings": "2023-10-16T10:00:38.552188+00:00",
-  "LastUpdate_Achievements": "2023-10-16T10:05:48.5782917+00:00"
+  "LastUpdate_Ratings": "2023-10-16T11:01:14.4158+00:00",
+  "LastUpdate_Achievements": "2023-10-16T11:06:26.1466665+00:00"
 }

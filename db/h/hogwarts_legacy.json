@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -9054,9 +9054,9 @@
       "Count": 716
     }
   ],
-  "EOS_Progressed": 298444,
+  "EOS_Progressed": 298447,
   "EOS_Completed": 488,
-  "EOS_NewPlayers": 371,
+  "EOS_NewPlayers": 373,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -28234,6 +28234,11 @@
       "Time": "2023-10-16T10:05:21.7789872+00:00",
       "NumProgressed": 298444,
       "NumCompleted": 488
+    },
+    {
+      "Time": "2023-10-16T11:05:53.2002157+00:00",
+      "NumProgressed": 298447,
+      "NumCompleted": 488
     }
   ],
   "TotalAchievements": 45,
@@ -28253,7 +28258,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29844
+      "UsersEstimate": 29845
     },
     {
       "ID": "PFA_11",
@@ -28277,7 +28282,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 29844
+      "UsersEstimate": 29845
     },
     {
       "ID": "PFA_14",
@@ -28349,7 +28354,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29844
+      "UsersEstimate": 29845
     },
     {
       "ID": "PFA_22",
@@ -28365,7 +28370,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35813
+      "UsersEstimate": 35814
     },
     {
       "ID": "PFA_24",
@@ -28589,7 +28594,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 35813
+      "UsersEstimate": 35814
     },
     {
       "ID": "PFA_9",
@@ -28604,7 +28609,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298444,
+      "Progressed": 298447,
       "Completed": 488
     }
   ],
@@ -28612,8 +28617,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-16T01:46:24.6842636+00:00",
-  "LastChanged_Achievements": "2023-10-16T10:05:21.7789868+00:00",
+  "LastChanged_Achievements": "2023-10-16T11:05:53.2002151+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:16.623812+00:00",
-  "LastUpdate_Ratings": "2023-10-16T09:57:13.4484134+00:00",
-  "LastUpdate_Achievements": "2023-10-16T10:05:21.7791214+00:00"
+  "LastUpdate_Ratings": "2023-10-16T10:57:15.0520262+00:00",
+  "LastUpdate_Achievements": "2023-10-16T11:05:53.2003338+00:00"
 }

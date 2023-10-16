@@ -118,9 +118,9 @@
       "ID": "Catcha",
       "SetID": "c8fdd59",
       "Name": "Catcha",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Chapter01_TheDesperado",
@@ -374,9 +374,9 @@
       "ID": "SlayerOfMonsters",
       "SetID": "c8fdd59",
       "Name": "Slayer of Monsters",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SuperBestFriends",
@@ -414,9 +414,9 @@
       "ID": "UnexpectedSurprise",
       "SetID": "c8fdd59",
       "Name": "Unexpected Surprise",
-      "Percentage": 10,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "WeWasHere",
@@ -445,8 +445,8 @@
   ],
   "FirstSeen": "2023-09-08T10:00:07.3821883+00:00",
   "FirstSeenAchievements": "2023-08-28T07:03:21.9021387+00:00",
-  "LastChanged_Achievements": "2023-10-16T10:05:12.1254124+00:00",
+  "LastChanged_Achievements": "2023-10-16T11:05:41.4695961+00:00",
   "LastUpdate_AppInfo": "2023-10-09T10:57:20.738043+00:00",
-  "LastUpdate_Ratings": "2023-10-16T09:57:14.7260372+00:00",
-  "LastUpdate_Achievements": "2023-10-16T10:05:12.125448+00:00"
+  "LastUpdate_Ratings": "2023-10-16T10:57:16.6485667+00:00",
+  "LastUpdate_Achievements": "2023-10-16T11:05:41.4696411+00:00"
 }

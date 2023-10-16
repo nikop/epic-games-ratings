@@ -6,28 +6,28 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 2.00% | ~18,862 |
-| It wakes | 2.00% | ~18,862 |
-| Not half bad | 2.00% | ~18,862 |
-| Apt Survivor | 2.00% | ~18,862 |
-| Survival Treasures | 2.00% | ~18,862 |
-| Skillful | 2.00% | ~18,862 |
-| Make Some Noise | 2.00% | ~18,862 |
-| The Grand Sacrifice | 1.00% | ~9,431 |
-| Agonizing Escape | 1.00% | ~9,431 |
-| Backdoor Escape | 1.00% | ~9,431 |
-| No one left behind | 1.00% | ~9,431 |
-| Medic | 1.00% | ~9,431 |
-| Handyman | 1.00% | ~9,431 |
-| Perfect Escape | 1.00% | ~9,431 |
-| Bloody Millionaire | 1.00% | ~9,431 |
-| I | 1.00% | ~9,431 |
-| Engineer | 1.00% | ~9,431 |
-| Sorted | 1.00% | ~9,431 |
-| Healthy Obsession | 1.00% | ~9,431 |
-| Resurgence | 1.00% | ~9,431 |
-| Preemptive Strike | 1.00% | ~9,431 |
-| Humanitarian | 1.00% | ~9,431 |
+| Zealous | 2.00% | ~18,863 |
+| It wakes | 2.00% | ~18,863 |
+| Not half bad | 2.00% | ~18,863 |
+| Apt Survivor | 2.00% | ~18,863 |
+| Survival Treasures | 2.00% | ~18,863 |
+| Skillful | 2.00% | ~18,863 |
+| Make Some Noise | 2.00% | ~18,863 |
+| The Grand Sacrifice | 1.00% | ~9,432 |
+| Agonizing Escape | 1.00% | ~9,432 |
+| Backdoor Escape | 1.00% | ~9,432 |
+| No one left behind | 1.00% | ~9,432 |
+| Medic | 1.00% | ~9,432 |
+| Handyman | 1.00% | ~9,432 |
+| Perfect Escape | 1.00% | ~9,432 |
+| Bloody Millionaire | 1.00% | ~9,432 |
+| I | 1.00% | ~9,432 |
+| Engineer | 1.00% | ~9,432 |
+| Sorted | 1.00% | ~9,432 |
+| Healthy Obsession | 1.00% | ~9,432 |
+| Resurgence | 1.00% | ~9,432 |
+| Preemptive Strike | 1.00% | ~9,432 |
+| Humanitarian | 1.00% | ~9,432 |
 | I've got your back | 0.90% | ~8,488 |
 | Nerves of steel | 0.90% | ~8,488 |
 | Perfect Killing | 0.90% | ~8,488 |
@@ -67,20 +67,20 @@ Number of Ratings: 70,340  (23.09.2022)
 | Chorus of Chaos | 0.50% | ~4,716 |
 | One More Step | 0.50% | ~4,716 |
 | MU/TH/UR Dearest | 0.50% | ~4,716 |
-| A bite for the Entity | 0.40% | ~3,772 |
-| Blood on your face | 0.40% | ~3,772 |
-| Shock Therapy | 0.40% | ~3,772 |
-| Leapfrog | 0.40% | ~3,772 |
-| Cottage Owner | 0.40% | ~3,772 |
-| Serial Killer | 0.40% | ~3,772 |
-| Escaping the Nightmare | 0.40% | ~3,772 |
-| Campbell's Chapel Legacy | 0.40% | ~3,772 |
-| Ancestor's Rite | 0.40% | ~3,772 |
-| Grim Pilgrimage | 0.40% | ~3,772 |
-| Selfless Survival | 0.40% | ~3,772 |
-| End of Days | 0.40% | ~3,772 |
-| Outrun the Overlap | 0.40% | ~3,772 |
-| Extraterrestrial | 0.40% | ~3,772 |
+| A bite for the Entity | 0.40% | ~3,773 |
+| Blood on your face | 0.40% | ~3,773 |
+| Shock Therapy | 0.40% | ~3,773 |
+| Leapfrog | 0.40% | ~3,773 |
+| Cottage Owner | 0.40% | ~3,773 |
+| Serial Killer | 0.40% | ~3,773 |
+| Escaping the Nightmare | 0.40% | ~3,773 |
+| Campbell's Chapel Legacy | 0.40% | ~3,773 |
+| Ancestor's Rite | 0.40% | ~3,773 |
+| Grim Pilgrimage | 0.40% | ~3,773 |
+| Selfless Survival | 0.40% | ~3,773 |
+| End of Days | 0.40% | ~3,773 |
+| Outrun the Overlap | 0.40% | ~3,773 |
+| Extraterrestrial | 0.40% | ~3,773 |
 | Jump Scares | 0.30% | ~2,829 |
 | Hemophobia | 0.30% | ~2,829 |
 | Deep Cleansing | 0.30% | ~2,829 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~943 |
 | Adept Ripley | 0.10% | ~943 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 943,101 (Ranked 14)  
+Progressed: 943,162 (Ranked 14)  
 Completed: 51 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -415,10 +415,10 @@ Completed: 51 (0.01%) (Ranked 296)
 | 2023-10-13 | 937,037 | 50 |
 | 2023-10-14 | 939,759 | 50 |
 | 2023-10-15 | 942,498 | 51 |
-| 2023-10-16 | 943,101 | 51 |
+| 2023-10-16 | 943,162 | 51 |
 ## Awards
 Max (Diverse Characters): 33,980  (Ranked 15)  
-Sum: 262,716 (Ranked 13)  
+Sum: 262,750 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -428,7 +428,7 @@ Diff (max vs sum): 2
 | This game has Competitive Players | 29,649 |
 | This game is Extremely Fun | 29,339 |
 | This game has Challenging Combat | 28,909 |
-| This game has Quickly Understood Controls | 28,788 |
+| This game has Quickly Understood Controls | 28,822 |
 | This game has Amazing Storytelling | 26,941 |
 | This game has a Competitive Community | 25,439 |
 | This game has Obsessive Gameplay | 16,768 |
@@ -701,4 +701,4 @@ Diff (max vs sum): 2
 | 2023-10-13 | 4.51 | - | 33,824 | 261,989 |
 | 2023-10-14 | 4.51 | - | 33,877 | 262,341 |
 | 2023-10-15 | 4.51 | - | 33,934 | 262,670 |
-| 2023-10-16 | 4.51 | - | 33,980 | 262,716 |
+| 2023-10-16 | 4.51 | - | 33,980 | 262,750 |

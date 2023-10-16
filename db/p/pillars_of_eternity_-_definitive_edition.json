@@ -6,8 +6,8 @@
   "Ranking_Popularity": 111,
   "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 232,
-  "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 391,
+  "Ranking_EOS_Completed": 210,
+  "Ranking_EOS_NewPlayers": 390,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2020-12-10T16:00:00+00:00",
@@ -3126,11 +3126,11 @@
       "Count": 187
     }
   ],
-  "EOS_Progressed": 1099,
-  "EOS_Completed": 4,
+  "EOS_Progressed": 1098,
+  "EOS_Completed": 3,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.36,
+  "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:37.752475+00:00",
@@ -3261,6 +3261,11 @@
       "Time": "2023-09-27T14:07:21.2259171+00:00",
       "NumProgressed": 1099,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-16T11:04:53.1728302+00:00",
+      "NumProgressed": 1098,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 48,
@@ -3272,7 +3277,7 @@
       "Name": "Completed Act I",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 330
+      "UsersEstimate": 329
     },
     {
       "ID": "achievement_02",
@@ -3360,7 +3365,7 @@
       "Name": "5 Upgrades in Stronghold",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 286
+      "UsersEstimate": 285
     },
     {
       "ID": "achievement_13",
@@ -3552,7 +3557,7 @@
       "Name": "Kickstarter Backer",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 901
+      "UsersEstimate": 900
     },
     {
       "ID": "achievement_37",
@@ -3655,15 +3660,15 @@
     {
       "ID": "70p237j",
       "IsBase": true,
-      "Progressed": 1099,
-      "Completed": 4
+      "Progressed": 1098,
+      "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:26:19.0250263+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.7524763+00:00",
   "LastChanged": "2023-10-15T22:01:20.5861376+00:00",
-  "LastChanged_Achievements": "2023-10-16T10:04:32.6380634+00:00",
+  "LastChanged_Achievements": "2023-10-16T11:04:53.1728293+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:22.7624991+00:00",
-  "LastUpdate_Ratings": "2023-10-16T10:00:26.6164676+00:00",
-  "LastUpdate_Achievements": "2023-10-16T10:04:32.638113+00:00"
+  "LastUpdate_Ratings": "2023-10-16T11:00:58.8088799+00:00",
+  "LastUpdate_Achievements": "2023-10-16T11:04:53.1728645+00:00"
 }

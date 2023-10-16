@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2027,
+  "EOS_Progressed": 2028,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5258,6 +5258,11 @@
       "Time": "2023-10-15T19:06:19.0761284+00:00",
       "NumProgressed": 2027,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-16T11:08:07.2332493+00:00",
+      "NumProgressed": 2028,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -5269,7 +5274,7 @@
       "Name": "Apprentice",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "A01",
@@ -5317,7 +5322,7 @@
       "Name": "Unstoppable",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "A07",
@@ -5325,7 +5330,7 @@
       "Name": "Track to the Future",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "A08",
@@ -5349,7 +5354,7 @@
       "Name": "From X to Y",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 1459
+      "UsersEstimate": 1460
     },
     {
       "ID": "A11",
@@ -5373,7 +5378,7 @@
       "Name": "Seven at one stroke",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "A14",
@@ -5381,7 +5386,7 @@
       "Name": "A new Journey",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1500
+      "UsersEstimate": 1501
     },
     {
       "ID": "A15",
@@ -5405,7 +5410,7 @@
       "Name": "Facility Manager",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1075
     },
     {
       "ID": "A18",
@@ -5413,7 +5418,7 @@
       "Name": "General Manager",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "A19",
@@ -5429,7 +5434,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 1520
+      "UsersEstimate": 1521
     },
     {
       "ID": "A21",
@@ -5437,7 +5442,7 @@
       "Name": "Country Life",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "A22",
@@ -5461,7 +5466,7 @@
       "Name": "Access granted",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "A25",
@@ -5493,7 +5498,7 @@
       "Name": "We brake for nobody",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1358
+      "UsersEstimate": 1359
     },
     {
       "ID": "A29",
@@ -5501,7 +5506,7 @@
       "Name": "Going once, going twice, sold",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "A30",
@@ -5557,7 +5562,7 @@
       "Name": "Way of Iron",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1419
+      "UsersEstimate": 1420
     },
     {
       "ID": "A37",
@@ -5661,7 +5666,7 @@
       "Name": "Financial Shark",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "A50",
@@ -5708,7 +5713,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 2027,
+      "Progressed": 2028,
       "Completed": 0
     }
   ],
@@ -5716,8 +5721,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-10-15T20:57:34.6846336+00:00",
-  "LastChanged_Achievements": "2023-10-16T10:06:54.1558332+00:00",
+  "LastChanged_Achievements": "2023-10-16T11:08:07.2332486+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:04.7958216+00:00",
-  "LastUpdate_Ratings": "2023-10-16T09:57:49.3177137+00:00",
-  "LastUpdate_Achievements": "2023-10-16T10:06:54.1559114+00:00"
+  "LastUpdate_Ratings": "2023-10-16T10:57:57.6541761+00:00",
+  "LastUpdate_Achievements": "2023-10-16T11:08:07.2333111+00:00"
 }

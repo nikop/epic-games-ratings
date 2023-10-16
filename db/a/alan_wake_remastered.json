@@ -530,7 +530,7 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 68168,
+  "EOS_Progressed": 68169,
   "EOS_Completed": 69,
   "EOS_NewPlayers": 774,
   "EOS_NewCompleters": 2,
@@ -18215,6 +18215,11 @@
       "Time": "2023-10-16T10:08:24.2552222+00:00",
       "NumProgressed": 68168,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-10-16T11:09:38.0587768+00:00",
+      "NumProgressed": 68169,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 67,
@@ -18226,7 +18231,7 @@
       "Name": "Follow the Light",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 29312
+      "UsersEstimate": 29313
     },
     {
       "ID": "02",
@@ -18242,7 +18247,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 18405
+      "UsersEstimate": 18406
     },
     {
       "ID": "04",
@@ -18258,7 +18263,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 16360
+      "UsersEstimate": 16361
     },
     {
       "ID": "06",
@@ -18354,7 +18359,7 @@
       "Name": "Departure",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5453
+      "UsersEstimate": 5454
     },
     {
       "ID": "18",
@@ -18498,7 +18503,7 @@
       "Name": "Let There Be Light",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 24540
+      "UsersEstimate": 24541
     },
     {
       "ID": "36",
@@ -18538,7 +18543,7 @@
       "Name": "Right of Way",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 7498
+      "UsersEstimate": 7499
     },
     {
       "ID": "41",
@@ -18761,21 +18766,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 68168,
+      "Progressed": 68169,
       "Completed": 69
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 31636,
+      "Progressed": 31637,
       "Completed": 56
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-10-15T17:00:51.0495821+00:00",
-  "LastChanged_Achievements": "2023-10-16T10:08:24.2552219+00:00",
+  "LastChanged_Achievements": "2023-10-16T11:09:38.058776+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:29.5404552+00:00",
-  "LastUpdate_Ratings": "2023-10-16T09:57:19.9509331+00:00",
-  "LastUpdate_Achievements": "2023-10-16T10:08:24.2553933+00:00"
+  "LastUpdate_Ratings": "2023-10-16T10:57:21.3034214+00:00",
+  "LastUpdate_Achievements": "2023-10-16T11:09:38.058912+00:00"
 }

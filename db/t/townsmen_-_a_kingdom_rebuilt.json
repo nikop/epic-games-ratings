@@ -1910,9 +1910,9 @@
       "ID": "ACHIEVEMENT_SCENARIO_LATEFALL",
       "SetID": "9eacipp",
       "Name": "I\u0027ve been everywhere II",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 43
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_LEGACY",
@@ -2190,8 +2190,8 @@
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-10-16T10:05:35.8231585+00:00",
+  "LastChanged_Achievements": "2023-10-16T11:06:10.782344+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:32.6400673+00:00",
-  "LastUpdate_Ratings": "2023-10-16T10:00:41.7166199+00:00",
-  "LastUpdate_Achievements": "2023-10-16T10:05:35.8233079+00:00"
+  "LastUpdate_Ratings": "2023-10-16T11:01:18.9595822+00:00",
+  "LastUpdate_Achievements": "2023-10-16T11:06:10.7824507+00:00"
 }

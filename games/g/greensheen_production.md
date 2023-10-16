@@ -3,43 +3,43 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Toys Are For Kids | 50.00% | ~4 |
-| Paled | 50.00% | ~4 |
-| Schooled | 50.00% | ~4 |
-| Hunger | 50.00% | ~4 |
-| What's in the box?! | 50.00% | ~4 |
-| Signal interruption | 50.00% | ~4 |
-| ...And Stay Dead! | 50.00% | ~4 |
-| Mono Tones | 50.00% | ~4 |
-| True Colours | 50.00% | ~4 |
-| Evasive prey | 50.00% | ~4 |
-| In The Palm Of My Hand | 38.00% | ~3 |
-| Bully of Bullies | 38.00% | ~3 |
-| Hospitalised | 38.00% | ~3 |
-| Foraged | 38.00% | ~3 |
-| Merciful feat | 38.00% | ~3 |
-| Far Ahead | 38.00% | ~3 |
-| Referee! | 38.00% | ~3 |
-| Unladylike | 38.00% | ~3 |
-| Half hat | 38.00% | ~3 |
-| Objection | 38.00% | ~3 |
-| Fair Prey | 38.00% | ~3 |
-| Sick Kids | 38.00% | ~3 |
-| Pale Kids | 38.00% | ~3 |
-| Wild Kids | 38.00% | ~3 |
-| Post Industrial | 38.00% | ~3 |
-| Fly Free | 38.00% | ~3 |
-| Medicine ball | 38.00% | ~3 |
-| Popcorn | 38.00% | ~3 |
-| First do no harm | 38.00% | ~3 |
-| How Do I Look? | 38.00% | ~3 |
-| X Best Friends | 38.00% | ~3 |
-| No More Remains | 25.00% | ~2 |
-| School Kids | 25.00% | ~2 |
-| Twenty-Six | 13.00% | ~1 |
+| What's in the box?! | 67.00% | ~6 |
+| Evasive prey | 67.00% | ~6 |
+| Toys Are For Kids | 44.00% | ~4 |
+| Paled | 44.00% | ~4 |
+| Schooled | 44.00% | ~4 |
+| Hunger | 44.00% | ~4 |
+| Signal interruption | 44.00% | ~4 |
+| ...And Stay Dead! | 44.00% | ~4 |
+| Mono Tones | 44.00% | ~4 |
+| True Colours | 44.00% | ~4 |
+| In The Palm Of My Hand | 33.00% | ~3 |
+| Bully of Bullies | 33.00% | ~3 |
+| Hospitalised | 33.00% | ~3 |
+| Foraged | 33.00% | ~3 |
+| Merciful feat | 33.00% | ~3 |
+| Far Ahead | 33.00% | ~3 |
+| Referee! | 33.00% | ~3 |
+| Unladylike | 33.00% | ~3 |
+| Half hat | 33.00% | ~3 |
+| Objection | 33.00% | ~3 |
+| Fair Prey | 33.00% | ~3 |
+| Sick Kids | 33.00% | ~3 |
+| Pale Kids | 33.00% | ~3 |
+| Wild Kids | 33.00% | ~3 |
+| Post Industrial | 33.00% | ~3 |
+| Fly Free | 33.00% | ~3 |
+| Medicine ball | 33.00% | ~3 |
+| Popcorn | 33.00% | ~3 |
+| First do no harm | 33.00% | ~3 |
+| How Do I Look? | 33.00% | ~3 |
+| X Best Friends | 33.00% | ~3 |
+| Twenty-Six | 22.00% | ~2 |
+| No More Remains | 22.00% | ~2 |
+| School Kids | 22.00% | ~2 |
 | Primetime Content Consumer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8 (Ranked 536)  
+Progressed: 9 (Ranked 532)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -50,3 +50,4 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-09-07 | 5 | 0 |
 | 2023-09-22 | 6 | 0 |
 | 2023-09-25 | 8 | 0 |
+| 2023-10-16 | 9 | 0 |

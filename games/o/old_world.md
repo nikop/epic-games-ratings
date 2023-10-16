@@ -68,13 +68,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Necropolis | 0.80% | ~118 |
 | Learn to Play 2 | 0.80% | ~118 |
 | Win a Single Player Game | 0.80% | ~118 |
+| Beloved | 0.70% | ~103 |
 | Conqueror | 0.70% | ~103 |
 | Champions | 0.70% | ~103 |
 | Sages | 0.70% | ~103 |
 | Mausoleum | 0.70% | ~103 |
 | Mythology | 0.70% | ~103 |
 | Hanging Gardens in Babylon | 0.60% | ~88 |
-| Beloved | 0.60% | ~88 |
 | Intercessor | 0.60% | ~88 |
 | Lion | 0.60% | ~88 |
 | Victorious | 0.60% | ~88 |
@@ -92,6 +92,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Subjugator | 0.50% | ~74 |
 | Landowners | 0.50% | ~74 |
 | Riders | 0.50% | ~74 |
+| Traders | 0.50% | ~74 |
 | Hittite Iron | 0.50% | ~74 |
 | Hagia Sophia | 0.50% | ~74 |
 | Church of the Holy Sepulchre | 0.50% | ~74 |
@@ -100,6 +101,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Via Recta Souk | 0.50% | ~74 |
 | Learn to Play 4 | 0.50% | ~74 |
 | Economic Reform | 0.50% | ~74 |
+| Military Prestige | 0.50% | ~74 |
 | Legalism | 0.50% | ~74 |
 | Redemption | 0.50% | ~74 |
 | Revelation | 0.50% | ~74 |
@@ -112,14 +114,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong Difficulty | 0.40% | ~59 |
 | Hunters | 0.40% | ~59 |
 | Statesmen | 0.40% | ~59 |
-| Traders | 0.40% | ~59 |
 | Babylonia | 0.40% | ~59 |
 | Carthage | 0.40% | ~59 |
 | One True Faith | 0.40% | ~59 |
 | Assyrian Paganism | 0.40% | ~59 |
 | Hittite Paganism | 0.40% | ~59 |
 | Industrial Progress | 0.40% | ~59 |
-| Military Prestige | 0.40% | ~59 |
 | Dualism | 0.40% | ~59 |
 | Gnosticism | 0.40% | ~59 |
 | Veneration | 0.40% | ~59 |

@@ -4,7 +4,7 @@
   "ProductSlug": "flower",
   "Ranking_EOS_Progress": 670,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 391,
+  "Ranking_EOS_NewPlayers": 390,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2019-02-14T15:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:52.5928881+00:00",
   "LastChanged": "2023-03-31T05:57:52.5928882+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:56.5804896+00:00",
-  "LastUpdate_Ratings": "2023-10-16T09:57:39.0847178+00:00",
-  "LastUpdate_Achievements": "2023-10-16T10:07:25.0523704+00:00"
+  "LastUpdate_Ratings": "2023-10-16T10:57:49.0730156+00:00",
+  "LastUpdate_Achievements": "2023-10-16T11:08:32.7608723+00:00"
 }

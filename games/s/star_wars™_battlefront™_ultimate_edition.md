@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 91.00% | ~619 |
-| Off to a good start | 68.00% | ~462 |
+| New Recruit | 91.00% | ~620 |
+| Off to a good start | 68.00% | ~463 |
 | Do... or do not. There is no try | 52.00% | ~354 |
-| A good blaster at your side | 34.00% | ~231 |
+| A good blaster at your side | 34.00% | ~232 |
 | Scrap collector | 20.00% | ~136 |
 | I suggest a new strategy | 20.00% | ~136 |
 | Great shot, kid! | 19.00% | ~129 |
-| All right, I'll give it a try | 18.00% | ~122 |
+| All right, I'll give it a try | 17.00% | ~116 |
 | Shoot first | 17.00% | ~116 |
 | The power of the Force | 16.00% | ~109 |
 | Collector | 16.00% | ~109 |
@@ -42,7 +42,6 @@
 | Precision shot | 3.00% | ~20 |
 | This is a new day, a new beginning | 3.00% | ~20 |
 | City in the Clouds | 3.00% | ~20 |
-| Alternative solution | 3.00% | ~20 |
 | What will you become? | 3.00% | ~20 |
 | Disturbed tranquility | 3.00% | ~20 |
 | Hold the line! | 2.00% | ~14 |
@@ -51,6 +50,7 @@
 | You have your moments | 2.00% | ~14 |
 | When surrounded by war... | 2.00% | ~14 |
 | Stop that Droid | 2.00% | ~14 |
+| Alternative solution | 2.00% | ~14 |
 | Onwards! | 2.00% | ~14 |
 | The circle is now complete | 2.00% | ~14 |
 | A New Hope | 1.00% | ~7 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.30% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 680 (Ranked 258)  
+Progressed: 681 (Ranked 257)  
 Completed: 1 (0.15%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 1 (0.15%) (Ranked 234)
 | 2023-10-13 | 620 | 1 |
 | 2023-10-14 | 652 | 1 |
 | 2023-10-15 | 672 | 1 |
-| 2023-10-16 | 680 | 1 |
+| 2023-10-16 | 681 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

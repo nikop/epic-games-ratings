@@ -582,9 +582,9 @@
       "ID": "KR4_ACHIEVEMENT_POLYX",
       "SetID": "caeik3h",
       "Name": "Much To Learn",
-      "Percentage": 32,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "KR4_ACHIEVEMENT_PUMPKIN",
@@ -749,8 +749,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-10-16T10:03:36.0095687+00:00",
+  "LastChanged_Achievements": "2023-10-16T11:04:08.3075993+00:00",
   "LastUpdate_AppInfo": "2023-10-12T15:57:01.5965856+00:00",
-  "LastUpdate_Ratings": "2023-10-16T09:59:27.5297548+00:00",
-  "LastUpdate_Achievements": "2023-10-16T10:03:36.0096449+00:00"
+  "LastUpdate_Ratings": "2023-10-16T10:59:47.815524+00:00",
+  "LastUpdate_Achievements": "2023-10-16T11:04:08.3076614+00:00"
 }

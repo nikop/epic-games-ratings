@@ -68,10 +68,10 @@ Number of Ratings: 37  (23.09.2022)
 | Only the sausage has two ends. | 1.00% | ~43 |
 | Reunification | 1.00% | ~43 |
 | Treat her well… | 1.00% | ~43 |
+| I've been everywhere II | 1.00% | ~43 |
 | I've been everywhere I | 1.00% | ~43 |
 | Tax-man V | 1.00% | ~43 |
 | A time consuming game V | 1.00% | ~43 |
-| I've been everywhere II | 0.90% | ~39 |
 | Last man standing | 0.80% | ~34 |
 | I've been everywhere VI | 0.80% | ~34 |
 | Builder V | 0.70% | ~30 |

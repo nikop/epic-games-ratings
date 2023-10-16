@@ -4,8 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's covered up for a reason | 25.00% | ~1 |
-| Something important | 25.00% | ~1 |
+| It's covered up for a reason | 50.00% | ~2 |
+| Something important | 50.00% | ~2 |
+| Scraps of love | 25.00% | ~1 |
+| A piece of the story | 25.00% | ~1 |
+| Wanderer | 25.00% | ~1 |
 | A new way | 0.00% | ~0 |
 | Another perspective | 0.00% | ~0 |
 | The Big Picture | 0.00% | ~0 |
@@ -24,7 +27,6 @@
 | Face your fears | 0.00% | ~0 |
 | Immortalized in my heart | 0.00% | ~0 |
 | You might have a problem | 0.00% | ~0 |
-| Scraps of love | 0.00% | ~0 |
 | A Slice of Life | 0.00% | ~0 |
 | Debut | 0.00% | ~0 |
 | The artist’s impression | 0.00% | ~0 |
@@ -39,7 +41,6 @@
 | Lights! Camera! Action! | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 | The Perfect Storm | 0.00% | ~0 |
-| A piece of the story | 0.00% | ~0 |
 | Playtime | 0.00% | ~0 |
 | Preferred Parent | 0.00% | ~0 |
 | Rocket Science | 0.00% | ~0 |
@@ -54,7 +55,6 @@
 | Tough conversation | 0.00% | ~0 |
 | True Reflection | 0.00% | ~0 |
 | A Mosaic of Misery | 0.00% | ~0 |
-| Wanderer | 0.00% | ~0 |
 | Whispers long forgotten | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4 (Ranked 567)  
