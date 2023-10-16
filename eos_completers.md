@@ -2,7 +2,7 @@
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 1 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 100.00% |
-| 3 | [The Riflemen](games/t/the_riflemen.md) | 48.42% |
+| 3 | [The Riflemen](games/t/the_riflemen.md) | 48.39% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.15% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.99% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
@@ -136,8 +136,8 @@
 | 134 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.30% |
 | 134 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.30% |
 | 136 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.16% |
-| 137 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.14% |
 | 137 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 1.14% |
+| 138 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.13% |
 | 139 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.12% |
 | 140 | [Trifox](games/t/trifox.md) | 1.09% |
 | 141 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.07% |
@@ -213,10 +213,10 @@
 | 211 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.27% |
 | 211 | [The Devil's Face](games/t/the_devil's_face.md) | 0.27% |
 | 213 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.26% |
-| 214 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
 | 214 | [Filament](games/f/filament.md) | 0.25% |
-| 216 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.24% |
-| 216 | [Scrapnaut](games/s/scrapnaut.md) | 0.24% |
+| 215 | [Aegis Descent](games/a/aegis_descent.md) | 0.24% |
+| 215 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.24% |
+| 215 | [Scrapnaut](games/s/scrapnaut.md) | 0.24% |
 | 218 | [Despot's Game](games/d/despot's_game.md) | 0.23% |
 | 219 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.22% |
 | 219 | [Going Medieval](games/g/going_medieval.md) | 0.22% |

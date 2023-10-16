@@ -356,15 +356,15 @@
 | [Blast Brigade vs. the Evil Legion of Dr. Cread](games/b/blast_brigade_vs._the_evil_legion_of_dr._cread.md) | - | - | 0 | - |
 | [Blaster Master Zero 3](games/b/blaster_master_zero_3.md) | - | - | 0 | - |
 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.46 | 627 | 0 | 537 |
-| [Blazing Sails](games/b/blazing_sails.md) | 3.70 | 1,011 | 0 | 537 |
+| [Blazing Sails](games/b/blazing_sails.md) | 3.72 | 1,008 | 0 | 537 |
 | [Bleak Sword DX](games/b/bleak_sword_dx.md) | - | - | 0 | - |
 | [Blind Fate: Edo no Yami](games/b/blind_fate__edo_no_yami.md) | - | - | 0 | - |
 | [Blipz](games/b/blipz.md) | - | - | - | - |
 | [BLOCKLORDS](games/8/869be603dee2405197126408e11eb41c.md) | 3.92 | 986 | 0 | 537 |
 | [Blood and Zombies](games/b/blood_and_zombies.md) | - | - | 0 | - |
-| [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.71 | 1,009 | 0 | 537 |
+| [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.71 | 1,010 | 0 | 537 |
 | [Blood Hunting](games/8/88aebfec9a96482d99f442a9535e2963.md) | - | - | - | - |
-| [Blood of Steel](games/b/blood_of_steel.md) | 3.71 | 1,009 | 0 | 537 |
+| [Blood of Steel](games/b/blood_of_steel.md) | 3.71 | 1,010 | 0 | 537 |
 | [Blood of Titans](games/6/6c2272d1b5f64cb483a3c1088021b39a.md) | - | - | 0 | - |
 | [BloodRayne 2: Terminal Cut](games/b/bloodrayne_2__terminal_cut.md) | - | - | 0 | - |
 | [BloodRayne Betrayal Fresh Bites](games/b/bloodrayne_betrayal_fresh_bites.md) | - | - | 0 | - |
@@ -510,7 +510,7 @@
 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.81 | 77 | 0 | 537 |
 | [Children of Silentown](games/c/children_of_silentown.md) | - | - | 0 | - |
 | [Chimeraland](games/c/chimeraland.md) | 3.90 | 991 | 28 | 483 |
-| [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 399 | 4,751 | 73 |
+| [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 399 | 4,755 | 73 |
 | [Choo-Choo Charles](games/7/7f849b4158ca4264a43f71d4306a4199.md) | - | - | 0 | - |
 | [Chorus](games/c/chorus.md) | 4.46 | 627 | 34 | 463 |
 | [ChromaGun](games/c/chromagun.md) | - | - | 0 | - |
@@ -731,7 +731,7 @@
 | [DESERTED](games/0/0ee52c80fe5e48a48f5c0d80fa9436cc.md) | - | - | - | - |
 | [Desktop Girlfriend NEO](games/e/e9e51dd0d086464a9a794d9cfa7da123.md) | - | - | - | - |
 | [Despelote](games/e/ebe9c4222dc7428b955c31dc8131616d.md) | - | - | - | - |
-| [Desperados III](games/d/desperados_iii.md) | 4.84 | 49 | 47 | 423 |
+| [Desperados III](games/d/desperados_iii.md) | 4.84 | 49 | 47 | 424 |
 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 574 | 0 | 537 |
 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 591 | 38,375 | 14 |
 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 353 | 34 | 463 |
@@ -1130,7 +1130,7 @@
 | [Generative Quest](games/b/bf62490d4c7d476980a52286c5554f6e.md) | - | - | 0 | - |
 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.41 | 698 | 0 | 537 |
 | [Genesis Noir](games/g/genesis_noir.md) | - | - | 0 | - |
-| [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 240 | 310,252 | 3 |
+| [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 240 | 310,359 | 3 |
 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | - | - | 0 | - |
 | [Geometric Sniper - Z](games/7/706577b22cbb4ab38611e2c97e03a800.md) | - | - | 0 | - |
 | [Georifters](games/g/georifters.md) | - | - | - | - |
@@ -1311,7 +1311,7 @@
 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | - | - | - | - |
 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.37 | 751 | 0 | 537 |
 | [Hotel: A Resort Simulator](games/b/b6a1a2bc8ab94b7fab473216aee35a3e.md) | - | - | - | - |
-| [House Flipper](games/h/house_flipper.md) | 4.69 | 222 | 313 | 239 |
+| [House Flipper](games/h/house_flipper.md) | 4.69 | 222 | 313 | 240 |
 | [House In The Hollow](games/h/house_in_the_hollow.md) | - | - | - | - |
 | [House Party](games/h/house_party.md) | 4.32 | 799 | 0 | 537 |
 | [Houseparty](games/h/houseparty.md) | - | - | - | - |
@@ -2126,7 +2126,7 @@
 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 4.17 | 907 | 20 | 530 |
 | [Railbreak](games/b/b8877a4db3f04eec83b7410484e80473.md) | - | - | - | - |
 | [RAILGRADE](games/r/railgrade.md) | 4.55 | 493 | 90 | 363 |
-| [Railway Empire](games/r/railway_empire.md) | 4.52 | 538 | 313 | 239 |
+| [Railway Empire](games/r/railway_empire.md) | 4.52 | 538 | 314 | 239 |
 | [Railway Empire 2](games/r/railway_empire_2.md) | 4.43 | 673 | 0 | 537 |
 | [Rain World](games/r/rain_world.md) | 4.88 | 16 | 0 | 537 |
 | [Rainbow Billy: The Curse of the Leviathan](games/r/rainbow_billy__the_curse_of_the_leviathan.md) | - | - | 0 | - |
@@ -2228,7 +2228,7 @@
 | [Risen](games/r/risen.md) | 4.57 | 455 | 0 | 537 |
 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 698 | 74 | 382 |
 | [Rising Mist](games/1/18b76f5ff8004856a2d1e2e206b01445.md) | - | - | 0 | - |
-| [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.49 | 591 | 842 | 158 |
+| [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.49 | 591 | 845 | 158 |
 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.83 | 56 | 250 | 262 |
 | [Riverbond](games/r/riverbond.md) | 4.47 | 621 | 20 | 530 |
 | [Road 96](games/r/road_96.md) | 4.64 | 321 | 0 | 537 |
@@ -2374,8 +2374,8 @@
 | [shapez](games/s/shapez.md) | 4.71 | 187 | 0 | 537 |
 | [Shattered Steel](games/s/shattered_steel.md) | - | - | 0 | - |
 | [Shattered: Tale of the Forgotten King](games/s/shattered__tale_of_the_forgotten_king.md) | - | - | 0 | - |
-| [shaveta12 Production](games/s/shaveta12_production.md) | - | - | - | - |
 | [shaveta12 Production](games/s/shaveta12_production_1.md) | - | - | - | - |
+| [shaveta12 Production](games/s/shaveta12_production.md) | - | - | - | - |
 | [shaveta32internal Production](games/s/shaveta32internal_production.md) | - | - | - | - |
 | [Sheepo](games/s/sheepo.md) | - | - | 0 | - |
 | [Sheltered](games/s/sheltered.md) | 4.41 | 698 | 274 | 252 |
@@ -2440,7 +2440,7 @@
 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.45 | 644 | 21 | 526 |
 | [Sniper Hunter Shooter](games/d/d0188c3e62b342afbb71fd62e59b1d5c.md) | - | - | - | - |
 | [Sniper Wild West Shooting Simulator](games/a/a4368659166c4e53aed26aa64f86f9d7.md) | - | - | - | - |
-| [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.38 | 745 | 47 | 423 |
+| [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.38 | 745 | 48 | 420 |
 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | - | - | - | - |
 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 118 | 11,330 | 37 |
 | [Snowtopia - Ski Resort Builder](games/s/snowtopia_-_ski_resort_builder.md) | - | - | 0 | - |
@@ -3040,15 +3040,15 @@
 | [Tour de France 2022](games/t/tour_de_france_2022.md) | - | - | - | - |
 | [Tour de France 2023](games/c/c20377f30dfa44eb929b0081c1182381.md) | - | - | - | - |
 | [Tower Defense 3D Fusion](games/d/d668f571588d42a4906a583e4149c32a.md) | - | - | - | - |
-| [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.37 | 751 | 254 | 260 |
 | [Tower of Fantasy](games/t/tower_of_fantasy_1.md) | - | - | - | - |
+| [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.37 | 751 | 254 | 260 |
 | [Tower of Guns](games/t/tower_of_guns.md) | - | - | 0 | - |
 | [Tower Princess](games/t/tower_princess.md) | - | - | 0 | - |
 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.70 | 204 | 0 | 537 |
 | [Towerful](games/5/5b453822aeeb42a2a7472eeaadda459a.md) | - | - | 0 | - |
 | [Townscaper](games/t/townscaper.md) | 4.73 | 163 | 0 | 537 |
 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.21 | 876 | 0 | 537 |
-| [Trackmania](games/t/trackmania.md) | 4.67 | 262 | 3,657 | 88 |
+| [Trackmania](games/t/trackmania.md) | 4.67 | 262 | 3,665 | 88 |
 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.86 | 28 | 0 | 537 |
 | [Tracks of Thought](games/t/tracks_of_thought.md) | - | - | - | - |
 | [Tracks of Triumph](games/9/974517e397b144c6a5b58a81b5bc1e73.md) | - | - | 0 | - |
