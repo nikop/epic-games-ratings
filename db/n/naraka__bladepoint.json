@@ -2,12 +2,12 @@
   "ID": "0c6aee83b9b64372bf44a043001325f2",
   "Name": "NARAKA: BLADEPOINT",
   "ProductSlug": "naraka-bladepoint",
-  "Ranking_Rating": 893,
+  "Ranking_Rating": 899,
   "Ranking_Popularity": 5,
   "Ranking_PopularitySum": 8,
   "Ranking_EOS_Progress": 670,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 389,
+  "Ranking_EOS_NewPlayers": 390,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-12-08T16:00:00+00:00",
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.19,
+  "Rating": 4.18,
   "NumberOfRatings": 132339,
   "RatingHistory": [
     {
@@ -7486,6 +7486,12 @@
       "Rating": 4.19,
       "NumberOfAwards": 443824,
       "NumberOfAwardsMax": 206956
+    },
+    {
+      "Time": "2023-10-16T14:57:40.5231068+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 443824,
+      "NumberOfAwardsMax": 206956
     }
   ],
   "ReviewsDisabled": false,
@@ -7547,8 +7553,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:04.1152302+00:00",
-  "LastChanged": "2023-10-16T13:05:55.8714814+00:00",
+  "LastChanged": "2023-10-16T14:57:40.5231067+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:47.9158817+00:00",
-  "LastUpdate_Ratings": "2023-10-16T13:57:16.8262836+00:00",
-  "LastUpdate_Achievements": "2023-10-16T14:07:42.3596137+00:00"
+  "LastUpdate_Ratings": "2023-10-16T14:57:40.5231073+00:00",
+  "LastUpdate_Achievements": "2023-10-16T15:10:30.2072932+00:00"
 }

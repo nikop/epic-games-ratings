@@ -4,7 +4,7 @@
   "ProductSlug": "flat-heroes-fec628",
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-09-15T22:00:00+00:00",
@@ -1343,9 +1343,9 @@
       "ID": "World7Boss",
       "SetID": "d9ekhim",
       "Name": "Bomberman",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 60
     },
     {
       "ID": "World8Boss",
@@ -1376,8 +1376,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-10-16T14:03:22.8063469+00:00",
+  "LastChanged_Achievements": "2023-10-16T15:05:53.319084+00:00",
   "LastUpdate_AppInfo": "2023-10-14T13:57:01.5816652+00:00",
-  "LastUpdate_Ratings": "2023-10-16T14:01:56.5166735+00:00",
-  "LastUpdate_Achievements": "2023-10-16T14:03:22.8063836+00:00"
+  "LastUpdate_Ratings": "2023-10-16T15:04:42.2932034+00:00",
+  "LastUpdate_Achievements": "2023-10-16T15:05:53.3191297+00:00"
 }

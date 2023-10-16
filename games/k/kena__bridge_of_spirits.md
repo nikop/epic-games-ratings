@@ -7,18 +7,18 @@ Number of Ratings: 3,313  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Found a Friend | 95.00% | ~407,084 |
-| Haikyo | 80.00% | ~342,807 |
-| Good as New | 72.00% | ~308,526 |
-| Into the Woods | 70.00% | ~299,956 |
-| Hunter in the Forest | 60.00% | ~257,105 |
-| Rot Commander | 60.00% | ~257,105 |
-| Taro's Fear | 56.00% | ~239,965 |
-| Between the Eyes | 47.00% | ~201,399 |
-| Taro's Love | 46.00% | ~197,114 |
+| Haikyo | 80.00% | ~342,808 |
+| Good as New | 72.00% | ~308,527 |
+| Into the Woods | 70.00% | ~299,957 |
+| Hunter in the Forest | 60.00% | ~257,106 |
+| Rot Commander | 60.00% | ~257,106 |
+| Taro's Fear | 56.00% | ~239,966 |
+| Between the Eyes | 47.00% | ~201,400 |
+| Taro's Love | 46.00% | ~197,115 |
 | Taro's Regret | 43.00% | ~184,259 |
 | Spirit Guide | 42.00% | ~179,974 |
 | Harness Your Power | 39.00% | ~167,119 |
-| The Open Range | 37.00% | ~158,548 |
+| The Open Range | 37.00% | ~158,549 |
 | Adira's Love | 34.00% | ~145,693 |
 | Adira's Fear | 33.00% | ~141,408 |
 | Weigh Them Down | 31.00% | ~132,838 |
@@ -27,13 +27,13 @@ Number of Ratings: 3,313  (23.09.2022)
 | Crossing Over | 29.00% | ~124,268 |
 | Quick Draw | 29.00% | ~124,268 |
 | Toshi's Fear | 28.00% | ~119,983 |
-| Toshi's Regret | 27.00% | ~115,697 |
-| Toshi's Love | 27.00% | ~115,697 |
-| A Leader Walks Alone | 26.00% | ~111,412 |
-| Bow Master | 26.00% | ~111,412 |
-| The Lonely Path | 26.00% | ~111,412 |
-| Restore Balance | 25.00% | ~107,127 |
-| Say Cheese | 16.00% | ~68,561 |
+| Toshi's Regret | 27.00% | ~115,698 |
+| Toshi's Love | 27.00% | ~115,698 |
+| A Leader Walks Alone | 26.00% | ~111,413 |
+| Bow Master | 26.00% | ~111,413 |
+| The Lonely Path | 26.00% | ~111,413 |
+| Restore Balance | 25.00% | ~107,128 |
+| Say Cheese | 16.00% | ~68,562 |
 | Skillful Spirit Guide | 15.00% | ~64,276 |
 | Piercing Blow | 14.00% | ~59,991 |
 | Zen Master | 8.00% | ~34,281 |
@@ -48,7 +48,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | Triple Threat | 0.90% | ~3,857 |
 | Master Spirit Guide | 0.30% | ~1,286 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 428,509 (Ranked 41)  
+Progressed: 428,510 (Ranked 41)  
 Completed: 540 (0.13%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 540 (0.13%) (Ranked 237)
 | 2023-10-13 | 428,464 | 539 |
 | 2023-10-14 | 428,482 | 540 |
 | 2023-10-15 | 428,503 | 540 |
-| 2023-10-16 | 428,509 | 540 |
+| 2023-10-16 | 428,510 | 540 |
 ## Awards
 Max (Great Boss Battles): 1,330  (Ranked 132)  
 Sum: 1,685 (Ranked 215)  

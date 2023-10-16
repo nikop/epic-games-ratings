@@ -2,7 +2,7 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 900,
+  "Ranking_Rating": 899,
   "Ranking_Popularity": 97,
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 91,
@@ -3578,7 +3578,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73571,
+  "EOS_Progressed": 73573,
   "EOS_Completed": 121,
   "EOS_NewPlayers": 220,
   "EOS_NewCompleters": 1,
@@ -18888,6 +18888,11 @@
       "Time": "2023-10-16T13:15:19.0594799+00:00",
       "NumProgressed": 73571,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-10-16T15:08:23.9791941+00:00",
+      "NumProgressed": 73573,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 61,
@@ -18947,7 +18952,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16921
+      "UsersEstimate": 16922
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -18987,7 +18992,7 @@
       "Name": "In Your Element",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 11771
+      "UsersEstimate": 11772
     },
     {
       "ID": "CHALLENGES_1",
@@ -19083,7 +19088,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6621
+      "UsersEstimate": 6622
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -19139,7 +19144,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 13978
+      "UsersEstimate": 13979
     },
     {
       "ID": "FREEZE_3",
@@ -19203,7 +19208,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25750
+      "UsersEstimate": 25751
     },
     {
       "ID": "HARLEY_2",
@@ -19227,7 +19232,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 11771
+      "UsersEstimate": 11772
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -19243,7 +19248,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 38257
+      "UsersEstimate": 38258
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -19267,7 +19272,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14714
+      "UsersEstimate": 14715
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -19291,7 +19296,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 25014
+      "UsersEstimate": 25015
     },
     {
       "ID": "MYSTERY_02",
@@ -19307,7 +19312,7 @@
       "Name": "Lock and Key",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16921
+      "UsersEstimate": 16922
     },
     {
       "ID": "MYSTERY_04",
@@ -19315,7 +19320,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14714
+      "UsersEstimate": 14715
     },
     {
       "ID": "MYSTERY_05",
@@ -19363,7 +19368,7 @@
       "Name": "Solid Alibi",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6621
+      "UsersEstimate": 6622
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -19386,13 +19391,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73571,
+      "Progressed": 73573,
       "Completed": 121
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43851,
+      "Progressed": 43853,
       "Completed": 2667
     }
   ],
@@ -19400,8 +19405,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-16T13:59:05.1339063+00:00",
-  "LastChanged_Achievements": "2023-10-16T14:05:41.4866494+00:00",
+  "LastChanged_Achievements": "2023-10-16T15:08:23.9791935+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:41.7245252+00:00",
-  "LastUpdate_Ratings": "2023-10-16T13:59:05.1339071+00:00",
-  "LastUpdate_Achievements": "2023-10-16T14:05:41.4867697+00:00"
+  "LastUpdate_Ratings": "2023-10-16T15:00:19.9120804+00:00",
+  "LastUpdate_Achievements": "2023-10-16T15:08:23.9793746+00:00"
 }

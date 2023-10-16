@@ -1347,9 +1347,9 @@
       "ID": "ACH_END_FIRST_TUTORIAL",
       "SetID": "al4k4nh",
       "Name": "Ready to go",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 352
+      "UsersEstimate": 356
     },
     {
       "ID": "ACH_END_FIRST_WORKBENCH_MISSION",
@@ -1483,9 +1483,9 @@
       "ID": "ACH_UNSCREW",
       "SetID": "al4k4nh",
       "Name": "Unscrew you",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 176
+      "UsersEstimate": 180
     },
     {
       "ID": "ACH_WATCH_ALL_TV_CHANNELS",
@@ -1506,8 +1506,8 @@
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-10-16T14:06:06.9381469+00:00",
+  "LastChanged_Achievements": "2023-10-16T15:08:31.0677685+00:00",
   "LastUpdate_AppInfo": "2023-10-11T21:57:08.1110883+00:00",
-  "LastUpdate_Ratings": "2023-10-16T14:00:50.9864673+00:00",
-  "LastUpdate_Achievements": "2023-10-16T14:06:06.9381683+00:00"
+  "LastUpdate_Ratings": "2023-10-16T15:03:10.9515546+00:00",
+  "LastUpdate_Achievements": "2023-10-16T15:08:31.0678+00:00"
 }

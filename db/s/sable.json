@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 146,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 15,
+  "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2021-09-23T13:00:00+00:00",
     "PcReleaseDate": "2021-09-23T13:00:00+00:00",
@@ -476,9 +476,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 94383,
+  "EOS_Progressed": 94385,
   "EOS_Completed": 950,
-  "EOS_NewPlayers": 1046,
+  "EOS_NewPlayers": 1037,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
@@ -20756,6 +20756,11 @@
       "Time": "2023-10-16T14:03:40.9326917+00:00",
       "NumProgressed": 94383,
       "NumCompleted": 950
+    },
+    {
+      "Time": "2023-10-16T15:06:18.2458864+00:00",
+      "NumProgressed": 94385,
+      "NumCompleted": 950
     }
   ],
   "TotalAchievements": 56,
@@ -20783,7 +20788,7 @@
       "Name": "Chum Expert",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2831
+      "UsersEstimate": 2832
     },
     {
       "ID": "ach_003_complete_ancient_race",
@@ -20871,7 +20876,7 @@
       "Name": "Many Different Faces",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 8494
+      "UsersEstimate": 8495
     },
     {
       "ID": "ach_014_first_chum_egg",
@@ -20879,7 +20884,7 @@
       "Name": "Chum Novice",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 15101
+      "UsersEstimate": 15102
     },
     {
       "ID": "ach_015_all_chum_eggs",
@@ -20903,7 +20908,7 @@
       "Name": "Trellick\u0027s Pillar",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 8494
+      "UsersEstimate": 8495
     },
     {
       "ID": "ach_018_door_shadow_of_neave",
@@ -20927,7 +20932,7 @@
       "Name": "Centre Of Brunswick",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 8494
+      "UsersEstimate": 8495
     },
     {
       "ID": "ach_021_door_balfron_connection",
@@ -20943,7 +20948,7 @@
       "Name": "Thread The Needle",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 14157
+      "UsersEstimate": 14158
     },
     {
       "ID": "ach_023_open_sandwyrm",
@@ -20951,7 +20956,7 @@
       "Name": "Gastric Bypass",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2831
+      "UsersEstimate": 2832
     },
     {
       "ID": "ach_024_destroy_nimoor_plant",
@@ -21047,7 +21052,7 @@
       "Name": "Bike Collector",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 8494
+      "UsersEstimate": 8495
     },
     {
       "ID": "ach_036_collect_bike_parts_2",
@@ -21079,7 +21084,7 @@
       "Name": "Simoon",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 32090
+      "UsersEstimate": 32091
     },
     {
       "ID": "ach_040_customise_hoverbike",
@@ -21103,7 +21108,7 @@
       "Name": "Silver-Tongued Sable",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 15101
+      "UsersEstimate": 15102
     },
     {
       "ID": "ach_043_climb_large_distance",
@@ -21111,7 +21116,7 @@
       "Name": "Sticky Paws",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 15101
+      "UsersEstimate": 15102
     },
     {
       "ID": "ach_044_open_chests_1",
@@ -21151,7 +21156,7 @@
       "Name": "Bubble Up",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 15101
+      "UsersEstimate": 15102
     },
     {
       "ID": "ach_049_fall_from_large_height",
@@ -21159,7 +21164,7 @@
       "Name": "Not That Kind Of Gliding",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 8494
+      "UsersEstimate": 8495
     },
     {
       "ID": "ach_050_collect_clothing_items_1",
@@ -21167,7 +21172,7 @@
       "Name": "Wrapping Up",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 20764
+      "UsersEstimate": 20765
     },
     {
       "ID": "ach_051_collect_clothing_items_2",
@@ -21191,7 +21196,7 @@
       "Name": "The Angler Mask",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2831
+      "UsersEstimate": 2832
     },
     {
       "ID": "ach_054_first_fish_caught",
@@ -21214,15 +21219,15 @@
     {
       "ID": "585ckk9",
       "IsBase": true,
-      "Progressed": 94383,
+      "Progressed": 94385,
       "Completed": 950
     }
   ],
   "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:25.3097347+00:00",
   "LastChanged": "2023-09-28T23:58:44.8728569+00:00",
-  "LastChanged_Achievements": "2023-10-16T14:03:40.9326914+00:00",
+  "LastChanged_Achievements": "2023-10-16T15:06:18.2458853+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:20.1339637+00:00",
-  "LastUpdate_Ratings": "2023-10-16T13:58:22.2922944+00:00",
-  "LastUpdate_Achievements": "2023-10-16T14:03:40.9328258+00:00"
+  "LastUpdate_Ratings": "2023-10-16T14:59:21.5991829+00:00",
+  "LastUpdate_Achievements": "2023-10-16T15:06:18.2460579+00:00"
 }

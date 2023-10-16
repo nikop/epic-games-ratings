@@ -550,9 +550,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3747,
+  "EOS_Progressed": 3748,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -7290,6 +7290,11 @@
       "Time": "2023-10-15T22:09:09.0667178+00:00",
       "NumProgressed": 3747,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-16T15:06:06.4690367+00:00",
+      "NumProgressed": 3748,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7309,7 +7314,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -7421,7 +7426,7 @@
       "Name": "Gunslinger",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -7437,7 +7442,7 @@
       "Name": "Sharpshooter",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -7469,7 +7474,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1536
+      "UsersEstimate": 1537
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -7549,7 +7554,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -7709,7 +7714,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 899
+      "UsersEstimate": 900
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -7868,13 +7873,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3698,
+      "Progressed": 3699,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3747,
+      "Progressed": 3748,
       "Completed": 11
     }
   ],
@@ -7882,8 +7887,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-10-14T15:00:37.7714003+00:00",
-  "LastChanged_Achievements": "2023-10-16T14:03:32.2140988+00:00",
+  "LastChanged_Achievements": "2023-10-16T15:06:06.469036+00:00",
   "LastUpdate_AppInfo": "2023-10-14T10:57:25.01046+00:00",
-  "LastUpdate_Ratings": "2023-10-16T14:01:01.6143623+00:00",
-  "LastUpdate_Achievements": "2023-10-16T14:03:32.2141901+00:00"
+  "LastUpdate_Ratings": "2023-10-16T15:03:21.2620249+00:00",
+  "LastUpdate_Achievements": "2023-10-16T15:06:06.4691523+00:00"
 }

@@ -26,8 +26,8 @@
 | Colonial Savior | 49.00% | ~350 |
 | Paramour I | 48.00% | ~343 |
 | Scientist | 47.00% | ~336 |
+| Merciless | 46.00% | ~329 |
 | Krogan Ally | 45.00% | ~322 |
-| Merciless | 45.00% | ~322 |
 | Sentinel Ally | 43.00% | ~307 |
 | Missing in Action | 43.00% | ~307 |
 | Very Elusive | 43.00% | ~307 |
@@ -61,25 +61,25 @@
 | Heart of Darkness | 31.00% | ~222 |
 | Driven | 31.00% | ~222 |
 | Focused | 30.00% | ~214 |
+| Cat's in the Cradle | 30.00% | ~214 |
 | Fade Away | 30.00% | ~214 |
 | Treason | 30.00% | ~214 |
 | Agent | 30.00% | ~214 |
 | Digital Exorcist | 30.00% | ~214 |
 | Bringer of War | 30.00% | ~214 |
-| Cat's in the Cradle | 29.00% | ~207 |
 | Doppelganger | 29.00% | ~207 |
 | Mobilizer | 29.00% | ~207 |
 | Friend or Foe | 28.00% | ~200 |
+| Untouchable | 27.00% | ~193 |
 | First Aid Specialist | 27.00% | ~193 |
 | Mission Accomplished | 27.00% | ~193 |
 | Suicide Mission | 27.00% | ~193 |
 | Against All Odds | 27.00% | ~193 |
-| Untouchable | 26.00% | ~186 |
 | Eye of the Hurricane | 26.00% | ~186 |
 | A House Divided | 26.00% | ~186 |
+| World Shaker | 26.00% | ~186 |
 | Giant Killer | 25.00% | ~179 |
 | Weapon Specialist | 25.00% | ~179 |
-| World Shaker | 25.00% | ~179 |
 | Liberator | 25.00% | ~179 |
 | Pathfinder | 23.00% | ~164 |
 | Tunnel Rat | 23.00% | ~164 |

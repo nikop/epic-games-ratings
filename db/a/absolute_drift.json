@@ -454,9 +454,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1545394,
+  "EOS_Progressed": 1545396,
   "EOS_Completed": 705,
-  "EOS_NewPlayers": 1103,
+  "EOS_NewPlayers": 1096,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -20699,6 +20699,11 @@
       "Time": "2023-10-16T14:03:40.5287852+00:00",
       "NumProgressed": 1545394,
       "NumCompleted": 705
+    },
+    {
+      "Time": "2023-10-16T15:06:17.581466+00:00",
+      "NumProgressed": 1545396,
+      "NumCompleted": 705
     }
   ],
   "TotalAchievements": 20,
@@ -20758,7 +20763,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 139085
+      "UsersEstimate": 139086
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -20806,7 +20811,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 154539
+      "UsersEstimate": 154540
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -20822,7 +20827,7 @@
       "Name": "Multiplier Master",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 139085
+      "UsersEstimate": 139086
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -20869,15 +20874,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1545394,
+      "Progressed": 1545396,
       "Completed": 705
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-09-25T13:05:51.0685533+00:00",
-  "LastChanged_Achievements": "2023-10-16T14:03:40.5287849+00:00",
+  "LastChanged_Achievements": "2023-10-16T15:06:17.5814654+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:37.6128187+00:00",
-  "LastUpdate_Ratings": "2023-10-16T13:58:54.9457431+00:00",
-  "LastUpdate_Achievements": "2023-10-16T14:03:40.5288882+00:00"
+  "LastUpdate_Ratings": "2023-10-16T15:00:05.9085584+00:00",
+  "LastUpdate_Achievements": "2023-10-16T15:06:17.5816357+00:00"
 }

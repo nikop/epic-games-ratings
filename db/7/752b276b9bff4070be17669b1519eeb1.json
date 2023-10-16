@@ -4,10 +4,10 @@
   "ProductSlug": "snowbreak-containment-zone-abc820",
   "Ranking_Rating": 745,
   "Ranking_Popularity": 423,
-  "Ranking_PopularitySum": 355,
+  "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 670,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 389,
+  "Ranking_EOS_NewPlayers": 390,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-07-20T02:00:00+00:00",
@@ -734,10 +734,16 @@
       "Rating": 4.38,
       "NumberOfAwards": 288,
       "NumberOfAwardsMax": 47
+    },
+    {
+      "Time": "2023-10-16T15:04:28.9921124+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 289,
+      "NumberOfAwardsMax": 47
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 288,
+  "NumberOfAwards": 289,
   "NumberOfAwardsMax": 47,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -799,7 +805,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 28
+      "Count": 29
     }
   ],
   "EOS_Progressed": 0,
@@ -814,8 +820,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-25T06:57:36.7654235+00:00",
   "FirstSeenRating": "2023-07-29T23:57:57.5620258+00:00",
-  "LastChanged": "2023-10-16T14:01:47.3807458+00:00",
+  "LastChanged": "2023-10-16T15:04:28.9921123+00:00",
   "LastUpdate_AppInfo": "2023-10-12T15:57:03.8228327+00:00",
-  "LastUpdate_Ratings": "2023-10-16T14:01:47.3807463+00:00",
-  "LastUpdate_Achievements": "2023-10-16T14:03:52.7840114+00:00"
+  "LastUpdate_Ratings": "2023-10-16T15:04:28.9921129+00:00",
+  "LastUpdate_Achievements": "2023-10-16T15:06:34.8093314+00:00"
 }

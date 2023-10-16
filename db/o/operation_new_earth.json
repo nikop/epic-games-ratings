@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -56,7 +56,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1610,
+  "EOS_Progressed": 1611,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
@@ -5966,6 +5966,11 @@
       "Time": "2023-10-16T13:15:53.3140867+00:00",
       "NumProgressed": 1610,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-16T15:08:57.5714105+00:00",
+      "NumProgressed": 1611,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -5977,7 +5982,7 @@
       "Name": "Know The Enemy",
       "Percentage": 5,
       "XP": 75,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -6049,7 +6054,7 @@
       "Name": "Silver Achiever",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "objective_headquarters_10",
@@ -6065,7 +6070,7 @@
       "Name": "Moving On Up",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "objective_headquarters_20",
@@ -6280,7 +6285,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1610,
+      "Progressed": 1611,
       "Completed": 1
     }
   ],
@@ -6288,8 +6293,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-10-16T14:06:26.1481048+00:00",
+  "LastChanged_Achievements": "2023-10-16T15:08:57.5714095+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:23.525424+00:00",
-  "LastUpdate_Ratings": "2023-10-16T14:00:44.0410609+00:00",
-  "LastUpdate_Achievements": "2023-10-16T14:06:26.1481805+00:00"
+  "LastUpdate_Ratings": "2023-10-16T15:02:58.0399984+00:00",
+  "LastUpdate_Achievements": "2023-10-16T15:08:57.5715241+00:00"
 }

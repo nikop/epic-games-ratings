@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 0.40% | ~928 |
+| A Brief Tour of the Realms | 0.50% | ~1,160 |
 | Foul Play | 0.30% | ~595 |
 | Beast Intentions | 0.20% | ~464 |
 | The Cursed Farmer | 0.20% | ~464 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fowl Play | 0.10% | ~198 |
 | Time Out | 0.10% | ~198 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,004 (Ranked 58)  
+Progressed: 232,007 (Ranked 58)  
 Completed: 2,365 (1.02%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -714,7 +714,7 @@ Completed: 2,365 (1.02%) (Ranked 145)
 | 2023-10-13 | 231,754 | 2,358 |
 | 2023-10-14 | 231,864 | 2,361 |
 | 2023-10-15 | 231,955 | 2,364 |
-| 2023-10-16 | 232,004 | 2,365 |
+| 2023-10-16 | 232,007 | 2,365 |
 ## Awards
 Max (Great for Beginners): 5,406  (Ranked 69)  
 Sum: 32,057 (Ranked 41)  

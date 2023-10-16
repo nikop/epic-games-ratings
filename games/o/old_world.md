@@ -86,6 +86,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Power to the People | 0.60% | ~88 |
 | Persian Paganism | 0.60% | ~88 |
 | Building Wonders | 0.60% | ~88 |
+| Legalism | 0.60% | ~88 |
 | Double Victory | 0.60% | ~88 |
 | Points Victory | 0.60% | ~88 |
 | Invincible | 0.50% | ~74 |
@@ -102,7 +103,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 4 | 0.50% | ~74 |
 | Economic Reform | 0.50% | ~74 |
 | Military Prestige | 0.50% | ~74 |
-| Legalism | 0.50% | ~74 |
 | Redemption | 0.50% | ~74 |
 | Revelation | 0.50% | ~74 |
 | Cimmerian Archer | 0.50% | ~74 |
@@ -531,14 +531,14 @@ Completed: 5 (0.03%) (Ranked 283)
 | 2023-10-16 | 14,736 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
-Sum: 1,840 (Ranked 210)  
+Sum: 1,841 (Ranked 210)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 224 |
 | This game has Diverse Characters | 215 |
 | This game is Highly Recommended | 213 |
-| This game is Extremely Fun | 211 |
+| This game is Extremely Fun | 212 |
 | This game is Educational | 210 |
 | This game has Challenging Combat | 198 |
 | This game has Quickly Understood Controls | 192 |
@@ -695,3 +695,4 @@ Diff (max vs sum): 57
 | 2023-10-13 | 4.65 | - | 224 | 1,836 |
 | 2023-10-14 | 4.65 | - | 224 | 1,839 |
 | 2023-10-15 | 4.65 | - | 224 | 1,840 |
+| 2023-10-16 | 4.65 | - | 224 | 1,841 |

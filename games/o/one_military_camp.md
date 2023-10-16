@@ -8,9 +8,9 @@
 | The 4 Pillars | 50.00% | ~90 |
 | Capitalism | 20.00% | ~36 |
 | Great Producer | 12.00% | ~22 |
+| Green Energy | 12.00% | ~22 |
 | There's something in those trees | 11.00% | ~20 |
 | Indebted | 11.00% | ~20 |
-| Green Energy | 11.00% | ~20 |
 | Desert Power | 10.00% | ~18 |
 | Desert Rat | 9.00% | ~16 |
 | Perfect Soldier | 8.00% | ~14 |

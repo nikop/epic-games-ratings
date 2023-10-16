@@ -1,21 +1,21 @@
 # Tropico 6
 [Store](https://store.epicgames.com/en-US/p/tropico-6)  
 [View Rawdata](../../db/t/tropico_6.json)  
-Rating: 4.66 (Ranked 282)  
+Rating: 4.66 (Ranked 281)  
 Number of Ratings: 398  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~4,187 |
+| Just One...More...Term... | 75.00% | ~4,188 |
 | Un-Lonely Island | 47.00% | ~2,624 |
-| The Beginning of a Servantship | 45.00% | ~2,512 |
+| The Beginning of a Servantship | 45.00% | ~2,513 |
 | Trade Is My Trait | 37.00% | ~2,066 |
 | Number 18 | 24.00% | ~1,340 |
 | We Don't Have Time For That | 19.00% | ~1,061 |
+| The Legend of Langostino | 17.00% | ~949 |
 | The Governator | 17.00% | ~949 |
 | Caribbean Comrade | 16.00% | ~893 |
-| The Legend of Langostino | 16.00% | ~893 |
-| The Dreamer of Dreams | 15.00% | ~837 |
+| The Dreamer of Dreams | 15.00% | ~838 |
 | Go Sovereigns! | 11.00% | ~614 |
 | For Science! | 11.00% | ~614 |
 | Happy Ending? | 10.00% | ~558 |
@@ -32,11 +32,11 @@ Number of Ratings: 398  (23.09.2022)
 | Viva Tropico! | 5.00% | ~279 |
 | Watch The World Burn | 5.00% | ~279 |
 | Fairy Tale Come True | 5.00% | ~279 |
-| Been there, Done That | 3.00% | ~167 |
-| Apocalypso | 3.00% | ~167 |
-| Narcissist | 3.00% | ~167 |
-| Promising Endeavors | 3.00% | ~167 |
-| The Time For Wonders | 3.00% | ~167 |
+| Been there, Done That | 3.00% | ~168 |
+| Apocalypso | 3.00% | ~168 |
+| Narcissist | 3.00% | ~168 |
+| Promising Endeavors | 3.00% | ~168 |
+| The Time For Wonders | 3.00% | ~168 |
 | Chain Gang | 2.00% | ~112 |
 | One Does Not Simply Stage A Coup | 2.00% | ~112 |
 | Sublime Subliminal Supreme | 2.00% | ~112 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~50 |
 | My Ways | 0.30% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,583 (Ranked 169)  
+Progressed: 5,584 (Ranked 169)  
 Completed: 2 (0.04%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,16 +226,16 @@ Completed: 2 (0.04%) (Ranked 277)
 | 2023-10-13 | 5,548 | 2 |
 | 2023-10-14 | 5,568 | 2 |
 | 2023-10-15 | 5,580 | 2 |
-| 2023-10-16 | 5,583 | 2 |
+| 2023-10-16 | 5,584 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 100  (Ranked 348)  
-Sum: 709 (Ranked 284)  
-Diff (max vs sum): 64  
+Sum: 711 (Ranked 283)  
+Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 106 |
 | This game has Quickly Understood Controls | 100 |
-| This game is Highly Recommended | 97 |
+| This game is Highly Recommended | 99 |
 | This game is Relaxing | 93 |
 | This game has Amazing Storytelling | 92 |
 | This game is Extremely Fun | 87 |
@@ -394,3 +394,4 @@ Diff (max vs sum): 64
 | 2023-10-12 | 4.65 | - | 100 | 706 |
 | 2023-10-13 | 4.65 | - | 100 | 709 |
 | 2023-10-14 | 4.66 | - | 100 | 709 |
+| 2023-10-16 | 4.66 | - | 100 | 711 |

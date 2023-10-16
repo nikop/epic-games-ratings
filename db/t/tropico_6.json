@@ -2,9 +2,9 @@
   "ID": "e1055bf1e5654b93a27e19e6bb86cb2a",
   "Name": "Tropico 6",
   "ProductSlug": "tropico-6",
-  "Ranking_Rating": 282,
+  "Ranking_Rating": 281,
   "Ranking_Popularity": 348,
-  "Ranking_PopularitySum": 284,
+  "Ranking_PopularitySum": 283,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 146,
@@ -1174,10 +1174,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 709,
       "NumberOfAwardsMax": 100
+    },
+    {
+      "Time": "2023-10-16T15:02:29.2837467+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 711,
+      "NumberOfAwardsMax": 100
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 709,
+  "NumberOfAwards": 711,
   "NumberOfAwardsMax": 100,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -1203,7 +1209,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 97
+      "Count": 99
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1248,9 +1254,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5583,
+  "EOS_Progressed": 5584,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -11393,6 +11399,11 @@
       "Time": "2023-10-16T12:07:49.0284567+00:00",
       "NumProgressed": 5583,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-16T15:10:02.7163595+00:00",
+      "NumProgressed": 5584,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -11436,7 +11447,7 @@
       "Name": "Been there, Done That",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "ACH_EP_BALLGAME",
@@ -11476,7 +11487,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 837
+      "UsersEstimate": 838
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -11500,15 +11511,15 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2512
+      "UsersEstimate": 2513
     },
     {
       "ID": "ACH_EP_PIRATEKING",
       "SetID": "1p8ab95",
       "Name": "The Legend of Langostino",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 893
+      "UsersEstimate": 949
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -11540,7 +11551,7 @@
       "Name": "Apocalypso",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "ACH_EP_TROPICOLAND",
@@ -11564,7 +11575,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4187
+      "UsersEstimate": 4188
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -11612,7 +11623,7 @@
       "Name": "Narcissist",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "ACH_PROMISINGENDEAVORS",
@@ -11620,7 +11631,7 @@
       "Name": "Promising Endeavors",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "ACH_SUBLIMESUBLIMINALSUPREME",
@@ -11668,7 +11679,7 @@
       "Name": "The Time For Wonders",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "ACH_TRADEISMYTRAIT",
@@ -11723,15 +11734,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5583,
+      "Progressed": 5584,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
-  "LastChanged": "2023-10-14T18:59:33.6395452+00:00",
-  "LastChanged_Achievements": "2023-10-16T14:07:23.1283708+00:00",
+  "LastChanged": "2023-10-16T15:02:29.2837465+00:00",
+  "LastChanged_Achievements": "2023-10-16T15:10:02.7163585+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:19.8725489+00:00",
-  "LastUpdate_Ratings": "2023-10-16T14:00:29.1692548+00:00",
-  "LastUpdate_Achievements": "2023-10-16T14:07:23.1284454+00:00"
+  "LastUpdate_Ratings": "2023-10-16T15:02:29.2837472+00:00",
+  "LastUpdate_Achievements": "2023-10-16T15:10:02.7164458+00:00"
 }

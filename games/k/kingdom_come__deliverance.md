@@ -6,24 +6,24 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~257,606 |
-| Cavalier | 25.00% | ~201,254 |
-| Fatso | 23.00% | ~185,154 |
-| Awakening | 21.00% | ~169,054 |
-| Ranger | 20.00% | ~161,004 |
-| Scrooge | 20.00% | ~161,004 |
-| Anorectic | 16.00% | ~128,803 |
+| Blacksmith's Son | 32.00% | ~257,607 |
+| Cavalier | 25.00% | ~201,256 |
+| Fatso | 23.00% | ~185,155 |
+| Awakening | 21.00% | ~169,055 |
+| Ranger | 20.00% | ~161,005 |
+| Scrooge | 20.00% | ~161,005 |
+| Anorectic | 16.00% | ~128,804 |
 | Bookworm | 15.00% | ~120,753 |
 | Firestarter | 15.00% | ~120,753 |
-| Insomniac | 13.00% | ~104,652 |
-| Buddy | 12.00% | ~96,602 |
-| Thief | 12.00% | ~96,602 |
-| Sinner | 11.00% | ~88,552 |
-| Traveller | 11.00% | ~88,552 |
+| Insomniac | 13.00% | ~104,653 |
+| Buddy | 12.00% | ~96,603 |
+| Thief | 12.00% | ~96,603 |
+| Sinner | 11.00% | ~88,553 |
+| Traveller | 11.00% | ~88,553 |
 | Convict | 10.00% | ~80,502 |
 | Haggler | 9.00% | ~72,452 |
-| McLovin | 7.00% | ~56,351 |
-| Runt | 7.00% | ~56,351 |
+| McLovin | 7.00% | ~56,352 |
+| Runt | 7.00% | ~56,352 |
 | Casanova | 6.00% | ~48,301 |
 | Bad Trip | 5.00% | ~40,251 |
 | Monk | 5.00% | ~40,251 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~805 |
 | Wingman | 0.10% | ~805 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 805,018 (Ranked 17)  
+Progressed: 805,023 (Ranked 17)  
 Completed: 51 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,14 +268,14 @@ Completed: 51 (0.01%) (Ranked 296)
 | 2023-10-13 | 804,701 | 50 |
 | 2023-10-14 | 804,842 | 50 |
 | 2023-10-15 | 804,980 | 51 |
-| 2023-10-16 | 805,018 | 51 |
+| 2023-10-16 | 805,023 | 51 |
 ## Awards
-Max (Character Customization): 7,518  (Ranked 49)  
-Sum: 27,989 (Ranked 48)  
+Max (Character Customization): 7,522  (Ranked 49)  
+Sum: 27,993 (Ranked 48)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,518 |
+| This game has Inclusive Character Customization | 7,522 |
 | This game has Great Boss Battles | 5,526 |
 | This game has Challenging Combat | 1,756 |
 | This game has Diverse Characters | 1,709 |
@@ -552,4 +552,4 @@ Diff (max vs sum): 1
 | 2023-10-13 | 4.71 | - | 7,512 | 27,969 |
 | 2023-10-14 | 4.71 | - | 7,514 | 27,977 |
 | 2023-10-15 | 4.71 | - | 7,518 | 27,985 |
-| 2023-10-16 | 4.71 | - | 7,518 | 27,989 |
+| 2023-10-16 | 4.71 | - | 7,522 | 27,993 |

@@ -13,7 +13,7 @@
 | Air Slash | 33.00% | ~198 |
 | Eat That Apple | 25.00% | ~150 |
 | Tornado Chaser | 14.00% | ~84 |
-| Bomberman | 9.00% | ~54 |
+| Bomberman | 10.00% | ~60 |
 | Bubble Party | 7.00% | ~42 |
 | The Colossus | 7.00% | ~42 |
 | Floor is Lava | 6.00% | ~36 |

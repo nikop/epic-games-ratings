@@ -41,7 +41,7 @@ Number of Ratings: 94  (23.09.2022)
 | Featured Gamer - Silver | 0.10% | ~110 |
 | Featured Gamer - Gold | 0.10% | ~110 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 109,727 (Ranked 79)  
+Progressed: 109,728 (Ranked 79)  
 Completed: 5 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,6 +211,7 @@ Completed: 5 (0.00%) (Ranked 314)
 | 2023-10-12 | 109,720 | 5 |
 | 2023-10-13 | 109,722 | 5 |
 | 2023-10-15 | 109,727 | 5 |
+| 2023-10-16 | 109,728 | 5 |
 ## Awards
 Max (Diverse Characters): 50  (Ranked 415)  
 Sum: 370 (Ranked 334)  
