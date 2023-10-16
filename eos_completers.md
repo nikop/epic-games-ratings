@@ -2,7 +2,7 @@
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 1 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 100.00% |
-| 3 | [The Riflemen](games/t/the_riflemen.md) | 48.46% |
+| 3 | [The Riflemen](games/t/the_riflemen.md) | 48.42% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.15% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.99% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
@@ -49,7 +49,7 @@
 | 47 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.33% |
 | 48 | [Time Loader](games/t/time_loader.md) | 7.20% |
 | 49 | [Scorn](games/s/scorn.md) | 7.01% |
-| 50 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.69% |
+| 50 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.67% |
 | 51 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.38% |
 | 52 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.29% |
 | 53 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -140,7 +140,7 @@
 | 137 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 1.14% |
 | 139 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.12% |
 | 140 | [Trifox](games/t/trifox.md) | 1.09% |
-| 141 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.08% |
+| 141 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.07% |
 | 142 | [Adios](games/a/adios.md) | 1.05% |
 | 142 | [Infindustry](games/i/infindustry.md) | 1.05% |
 | 142 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.05% |
@@ -154,7 +154,7 @@
 | 151 | [Hades](games/h/hades.md) | 0.91% |
 | 153 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.85% |
 | 153 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
-| 155 | [Dungeons 3](games/d/dungeons_3.md) | 0.79% |
+| 155 | [Dungeons 3](games/d/dungeons_3.md) | 0.80% |
 | 156 | [Eternights](games/e/eternights.md) | 0.74% |
 | 156 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.74% |
 | 158 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.73% |
