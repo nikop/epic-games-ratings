@@ -121,7 +121,7 @@
 | 118 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 15,609 | 25 |
 | 118 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.76 | 0 | 537 |
 | 118 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,357 | 92 |
-| 118 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 1,010 | 148 |
+| 118 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 1,012 | 148 |
 | 118 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 915 | 154 |
 | 118 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.76 | 23,559 | 17 |
 | 118 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,727 | 75 |
@@ -717,7 +717,7 @@
 | 698 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,216 | 107 |
 | 698 | [Sheltered](games/s/sheltered.md) | 4.41 | 274 | 252 |
 | 698 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.41 | 0 | 537 |
-| 698 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 1,417 | 131 |
+| 698 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 1,423 | 131 |
 | 719 | [Breathedge](games/b/breathedge.md) | 4.40 | 0 | 537 |
 | 719 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.40 | 0 | 537 |
 | 719 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 1,041 | 144 |
@@ -866,7 +866,7 @@
 | 857 | [The Surge 2](games/t/the_surge_2.md) | 4.24 | 0 | 537 |
 | 857 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 24 | 509 |
 | 866 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 0 | 537 |
-| 866 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,010 | 148 |
+| 866 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,010 | 149 |
 | 866 | [Men of War](games/m/men_of_war.md) | 4.23 | 0 | 537 |
 | 866 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.23 | 0 | 537 |
 | 866 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 0 | 537 |
@@ -1003,7 +1003,7 @@
 | 1,001 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.81 | 85 | 368 |
 | 1,002 | [Saints Row](games/s/saints_row.md) | 3.79 | 1,069 | 143 |
 | 1,002 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.79 | 0 | 537 |
-| 1,004 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.77 | 0 | 537 |
+| 1,004 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.78 | 0 | 537 |
 | 1,005 | [Sengoku Dynasty](games/6/696f412c815b40089807922419188f43.md) | 3.76 | 0 | 537 |
 | 1,006 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.72 | 0 | 537 |
 | 1,007 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.71 | 0 | 537 |

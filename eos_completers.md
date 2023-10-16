@@ -2,7 +2,7 @@
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 1 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 100.00% |
-| 3 | [The Riflemen](games/t/the_riflemen.md) | 48.89% |
+| 3 | [The Riflemen](games/t/the_riflemen.md) | 48.88% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.15% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.99% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
@@ -109,7 +109,7 @@
 | 107 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.31% |
 | 108 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.22% |
 | 109 | [Bloodshore](games/b/bloodshore.md) | 2.14% |
-| 110 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.03% |
+| 110 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.02% |
 | 111 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.97% |
 | 112 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.96% |
 | 113 | [Night Book](games/n/night_book.md) | 1.84% |
@@ -130,7 +130,7 @@
 | 126 | [Ten Dates](games/t/ten_dates.md) | 1.38% |
 | 129 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.37% |
 | 130 | [Chorus](games/c/chorus.md) | 1.36% |
-| 131 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.35% |
+| 131 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.33% |
 | 132 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.32% |
 | 132 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.32% |
 | 134 | [Lemon Cake](games/l/lemon_cake.md) | 1.31% |
