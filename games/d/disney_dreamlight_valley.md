@@ -14,7 +14,7 @@ Number of Ratings: 1,396  (23.09.2022)
 | Bestest Friend | 47.00% | ~5,107 |
 | Banker | 39.00% | ~4,238 |
 | Gardener | 31.00% | ~3,368 |
-| Generous | 24.00% | ~2,608 |
+| Generous | 25.00% | ~2,716 |
 | Chef Cook | 18.00% | ~1,956 |
 | Miner | 9.00% | ~978 |
 | Duty Bound | 7.00% | ~761 |

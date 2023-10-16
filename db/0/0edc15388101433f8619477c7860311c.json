@@ -4,8 +4,8 @@
   "ProductSlug": "the-bridge-curse-road-to-salvation-c29320",
   "Ranking_EOS_Progress": 483,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-08-30T04:00:00+00:00",
     "PcReleaseDate": "2022-08-24T16:00:00+00:00",
@@ -139,9 +139,9 @@
       "ID": "DatingAttraction",
       "SetID": "7m88n8p",
       "Name": "Dating Attraction",
-      "Percentage": 48,
+      "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "FirstTry",
@@ -219,9 +219,9 @@
       "ID": "MoneyCamouflage",
       "SetID": "7m88n8p",
       "Name": "Money Camouflage",
-      "Percentage": 48,
+      "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "MortuaryMarkup",
@@ -314,8 +314,8 @@
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2023-10-16T12:05:27.9589942+00:00",
+  "LastChanged_Achievements": "2023-10-16T13:14:25.4627981+00:00",
   "LastUpdate_AppInfo": "2023-10-16T07:57:10.6124995+00:00",
-  "LastUpdate_Ratings": "2023-10-16T11:58:03.1668304+00:00",
-  "LastUpdate_Achievements": "2023-10-16T12:05:27.959013+00:00"
+  "LastUpdate_Ratings": "2023-10-16T13:06:30.5108716+00:00",
+  "LastUpdate_Achievements": "2023-10-16T13:14:25.4628192+00:00"
 }

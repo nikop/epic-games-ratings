@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 248,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -261,9 +261,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2089,
+  "EOS_Progressed": 2090,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -2721,6 +2721,11 @@
       "Time": "2023-10-15T16:03:48.6939225+00:00",
       "NumProgressed": 2089,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-10-16T13:13:58.3812632+00:00",
+      "NumProgressed": 2090,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 57,
@@ -2772,7 +2777,7 @@
       "Name": "Home Invasion",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "ACHV_07",
@@ -2788,7 +2793,7 @@
       "Name": "Mommy Dearest",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "ACHV_09",
@@ -2932,7 +2937,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1671
+      "UsersEstimate": 1672
     },
     {
       "ID": "ACHV_27",
@@ -3012,7 +3017,7 @@
       "Name": "Can\u0027t Trust Banks",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "ACHV_37",
@@ -3020,7 +3025,7 @@
       "Name": "Luminary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "ACHV_38",
@@ -3187,7 +3192,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2089,
+      "Progressed": 2090,
       "Completed": 12
     }
   ],
@@ -3195,8 +3200,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-09-02T12:01:51.7744509+00:00",
-  "LastChanged_Achievements": "2023-10-16T12:04:45.0320573+00:00",
+  "LastChanged_Achievements": "2023-10-16T13:13:58.3812626+00:00",
   "LastUpdate_AppInfo": "2023-10-14T10:57:23.4388633+00:00",
-  "LastUpdate_Ratings": "2023-10-16T12:00:39.4772281+00:00",
-  "LastUpdate_Achievements": "2023-10-16T12:04:45.0321249+00:00"
+  "LastUpdate_Ratings": "2023-10-16T13:09:35.955644+00:00",
+  "LastUpdate_Achievements": "2023-10-16T13:13:58.3813354+00:00"
 }

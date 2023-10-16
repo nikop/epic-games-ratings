@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -56,9 +56,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1608,
+  "EOS_Progressed": 1610,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5961,6 +5961,11 @@
       "Time": "2023-10-16T12:06:43.3084226+00:00",
       "NumProgressed": 1608,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-16T13:15:53.3140867+00:00",
+      "NumProgressed": 1610,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6084,7 +6089,7 @@
       "Name": "Corporal",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -6140,7 +6145,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "objective_key_alliance_join_1",
@@ -6148,7 +6153,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -6228,7 +6233,7 @@
       "Name": "Defenses Online",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -6275,7 +6280,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1608,
+      "Progressed": 1610,
       "Completed": 1
     }
   ],
@@ -6283,8 +6288,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-10-16T12:06:43.3084218+00:00",
+  "LastChanged_Achievements": "2023-10-16T13:15:53.3140861+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:23.525424+00:00",
-  "LastUpdate_Ratings": "2023-10-16T12:01:12.4280609+00:00",
-  "LastUpdate_Achievements": "2023-10-16T12:06:43.308488+00:00"
+  "LastUpdate_Ratings": "2023-10-16T13:10:11.5510608+00:00",
+  "LastUpdate_Achievements": "2023-10-16T13:15:53.314165+00:00"
 }

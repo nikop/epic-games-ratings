@@ -7,21 +7,21 @@
 | Brace for impact! | 31.00% | ~122 |
 | Baby's First Car | 29.00% | ~114 |
 | Pushover | 29.00% | ~114 |
+| A Forest Walk | 29.00% | ~114 |
 | Amateur Mechanic | 28.00% | ~110 |
-| A Forest Walk | 28.00% | ~110 |
 | C-C-C-Combo! | 26.00% | ~102 |
 | Multiply that! | 26.00% | ~102 |
-| Fore! | 24.00% | ~94 |
-| Insurance fraud | 24.00% | ~94 |
-| Snow Fun! | 24.00% | ~94 |
-| The Collector | 23.00% | ~90 |
-| The Wild West | 23.00% | ~90 |
-| You're it | 23.00% | ~90 |
-| To and Fro | 22.00% | ~86 |
-| Goodbye cruel world | 22.00% | ~86 |
-| Bag of Tricks | 22.00% | ~86 |
-| I see the light! | 22.00% | ~86 |
-| In the Bag! | 22.00% | ~86 |
+| Fore! | 24.00% | ~95 |
+| Insurance fraud | 24.00% | ~95 |
+| Snow Fun! | 24.00% | ~95 |
+| The Collector | 23.00% | ~91 |
+| The Wild West | 23.00% | ~91 |
+| You're it | 23.00% | ~91 |
+| To and Fro | 22.00% | ~87 |
+| Goodbye cruel world | 22.00% | ~87 |
+| Bag of Tricks | 22.00% | ~87 |
+| I see the light! | 22.00% | ~87 |
+| In the Bag! | 22.00% | ~87 |
 | First Come, First Serve | 21.00% | ~83 |
 | Disoriented | 21.00% | ~83 |
 | Take that Frosty! | 21.00% | ~83 |
@@ -33,9 +33,9 @@
 | Feeling Dizzy? | 18.00% | ~71 |
 | Drift King! | 17.00% | ~67 |
 | Feeling Hot Hot Hot! | 17.00% | ~67 |
-| Ferry Good! | 17.00% | ~67 |
 | Assert Dominance | 17.00% | ~67 |
 | Speed of light | 17.00% | ~67 |
+| Ferry Good! | 16.00% | ~63 |
 | Out of this League | 14.00% | ~55 |
 | Special Forces | 13.00% | ~51 |
 | Toot Toot! | 12.00% | ~47 |
@@ -60,7 +60,7 @@
 | Master Mechanic | 1.00% | ~4 |
 | Crashed and Driven | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 393 (Ranked 294)  
+Progressed: 394 (Ranked 294)  
 Completed: 2 (0.51%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,6 +139,7 @@ Completed: 2 (0.51%) (Ranked 176)
 | 2023-10-13 | 391 | 2 |
 | 2023-10-14 | 392 | 2 |
 | 2023-10-15 | 393 | 2 |
+| 2023-10-16 | 394 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 105,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
     "PcReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -4184,8 +4184,8 @@
   ],
   "EOS_Progressed": 10866,
   "EOS_Completed": 257,
-  "EOS_NewPlayers": 196,
-  "EOS_NewCompleters": 5,
+  "EOS_NewPlayers": 194,
+  "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 2.37,
   "EosHistory": [
     {
@@ -16145,9 +16145,9 @@
       "ID": "Generous",
       "SetID": "chapdi4",
       "Name": "Generous",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 2608
+      "UsersEstimate": 2716
     },
     {
       "ID": "Goofys_Investor",
@@ -16210,8 +16210,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-10-16T02:16:08.109576+00:00",
-  "LastChanged_Achievements": "2023-10-16T12:07:22.2577438+00:00",
+  "LastChanged_Achievements": "2023-10-16T13:16:27.1939781+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:03.0185965+00:00",
-  "LastUpdate_Ratings": "2023-10-16T11:57:50.6921538+00:00",
-  "LastUpdate_Achievements": "2023-10-16T12:07:22.2578477+00:00"
+  "LastUpdate_Ratings": "2023-10-16T13:06:18.4899969+00:00",
+  "LastUpdate_Achievements": "2023-10-16T13:16:27.1940779+00:00"
 }

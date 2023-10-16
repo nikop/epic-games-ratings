@@ -43,15 +43,15 @@
 | Starry: Arcania | 44.00% | ~76 |
 | Sing, My Angel | 43.00% | ~74 |
 | The Coreland | 40.00% | ~69 |
-| Feed the Fishes | 38.00% | ~65 |
+| Feed the Fishes | 39.00% | ~67 |
 | Starry: The Coreland | 38.00% | ~65 |
 | Brilliant: Wasteland | 34.00% | ~58 |
 | Father of Nation | 34.00% | ~58 |
 | Dwarven Countdown | 30.00% | ~52 |
 | Starry: Wasteland | 29.00% | ~50 |
+| Deadman's Chest | 28.00% | ~48 |
 | Monument Keeper | 28.00% | ~48 |
 | Brilliant: Free Coast | 27.00% | ~46 |
-| Deadman's Chest | 27.00% | ~46 |
 | Brilliant: The Deep | 24.00% | ~41 |
 | Starry: Free Coast | 24.00% | ~41 |
 | Starry: The Deep | 22.00% | ~38 |

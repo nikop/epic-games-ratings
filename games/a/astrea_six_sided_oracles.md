@@ -5,12 +5,12 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Noctuan Champion | 32.00% | ~18 |
-| Apian Champion | 29.00% | ~16 |
-| Eridanian Champion | 29.00% | ~16 |
-| Lacertian Champion | 29.00% | ~16 |
-| Endless Tricks | 27.00% | ~15 |
+| Apian Champion | 28.00% | ~16 |
+| Eridanian Champion | 28.00% | ~16 |
+| Lacertian Champion | 28.00% | ~16 |
+| Endless Tricks | 26.00% | ~15 |
+| Meissa's Savior | 26.00% | ~15 |
 | Dicesmithing Time! | 25.00% | ~14 |
-| Meissa's Savior | 25.00% | ~14 |
 | Sanctuary Guardian | 25.00% | ~14 |
 | Mechanical Buddy | 23.00% | ~13 |
 | Purification Pioneer | 23.00% | ~13 |
@@ -19,13 +19,13 @@
 | Loyal Partner | 21.00% | ~12 |
 | Mind Illuminator | 21.00% | ~12 |
 | Stellar Dismantler | 21.00% | ~12 |
-| Anomaly Destroyer | 20.00% | ~11 |
+| Anomaly Destroyer | 19.00% | ~11 |
 | Shard Spender | 18.00% | ~10 |
 | Aquarian Champion | 18.00% | ~10 |
 | Star Killer | 16.00% | ~9 |
-| Astral Adventurer | 13.00% | ~7 |
-| Heart Gate | 13.00% | ~7 |
-| Unbeatable | 13.00% | ~7 |
+| Astral Adventurer | 12.00% | ~7 |
+| Heart Gate | 12.00% | ~7 |
+| Unbeatable | 12.00% | ~7 |
 | Astral Seeker | 11.00% | ~6 |
 | The Corruption Goddess | 11.00% | ~6 |
 | The Goddes Avatar | 11.00% | ~6 |
@@ -103,7 +103,7 @@
 | Apian Mastery | 0.00% | ~0 |
 | Eridanian Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56 (Ranked 428)  
+Progressed: 57 (Ranked 426)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,3 +127,4 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-10-13 | 53 | 0 |
 | 2023-10-14 | 55 | 0 |
 | 2023-10-15 | 56 | 0 |
+| 2023-10-16 | 57 | 0 |

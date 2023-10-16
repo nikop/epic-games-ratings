@@ -6,28 +6,28 @@ Number of Ratings: 2,731  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 37.00% | ~29,311 |
-| Final touch | 36.00% | ~28,519 |
-| Prop-M Rover | 32.00% | ~25,350 |
-| Changing the Planet | 28.00% | ~22,182 |
-| Sojourner | 26.00% | ~20,597 |
-| Beagle 2 | 24.00% | ~19,013 |
-| New Home | 23.00% | ~18,221 |
-| Winner Winner Terraformer | 21.00% | ~16,636 |
-| Project Manager | 19.00% | ~15,052 |
-| Curiosity | 19.00% | ~15,052 |
-| Collector | 19.00% | ~15,052 |
-| Master | 19.00% | ~15,052 |
+| It's a steal! | 37.00% | ~29,313 |
+| Final touch | 36.00% | ~28,521 |
+| Prop-M Rover | 32.00% | ~25,352 |
+| Changing the Planet | 28.00% | ~22,183 |
+| Sojourner | 26.00% | ~20,598 |
+| Beagle 2 | 24.00% | ~19,014 |
+| New Home | 23.00% | ~18,222 |
+| Winner Winner Terraformer | 21.00% | ~16,637 |
+| Project Manager | 19.00% | ~15,053 |
+| Curiosity | 19.00% | ~15,053 |
+| Collector | 19.00% | ~15,053 |
+| Master | 19.00% | ~15,053 |
 | No Longer Red | 18.00% | ~14,260 |
 | Self-sufficient | 18.00% | ~14,260 |
-| Money money | 15.00% | ~11,883 |
+| Money money | 15.00% | ~11,884 |
 | Biggest Reward | 14.00% | ~11,091 |
 | First Journey | 13.00% | ~10,299 |
-| Acquired knowledge | 12.00% | ~9,506 |
-| Hellenic Elysium | 12.00% | ~9,506 |
-| Grand champion | 12.00% | ~9,506 |
-| Landlord | 11.00% | ~8,714 |
-| Most Achievements | 11.00% | ~8,714 |
+| Acquired knowledge | 12.00% | ~9,507 |
+| Hellenic Elysium | 12.00% | ~9,507 |
+| Grand champion | 12.00% | ~9,507 |
+| Landlord | 11.00% | ~8,715 |
+| Most Achievements | 11.00% | ~8,715 |
 | Spirit | 10.00% | ~7,922 |
 | Ultimate success | 10.00% | ~7,922 |
 | Variety Expert | 9.00% | ~7,130 |
@@ -37,7 +37,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | Team Effort | 3.00% | ~2,377 |
 | Opportunity | 3.00% | ~2,377 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79,220 (Ranked 88)  
+Progressed: 79,224 (Ranked 88)  
 Completed: 143 (0.18%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,7 +216,7 @@ Completed: 143 (0.18%) (Ranked 227)
 | 2023-10-13 | 78,921 | 142 |
 | 2023-10-14 | 79,049 | 142 |
 | 2023-10-15 | 79,187 | 143 |
-| 2023-10-16 | 79,220 | 143 |
+| 2023-10-16 | 79,224 | 143 |
 ## Awards
 Max (Relaxing): 520  (Ranked 201)  
 Sum: 3,196 (Ranked 167)  

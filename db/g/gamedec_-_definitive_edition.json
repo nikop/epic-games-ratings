@@ -2,13 +2,13 @@
   "ID": "b8abdf9f9bc64ed6b4128a71fd47607f",
   "Name": "Gamedec - Definitive Edition",
   "ProductSlug": "gamedec",
-  "Ranking_Rating": 820,
+  "Ranking_Rating": 819,
   "Ranking_Popularity": 369,
   "Ranking_PopularitySum": 441,
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -438,9 +438,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 249270,
+  "EOS_Progressed": 249272,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 737,
+  "EOS_NewPlayers": 727,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20423,6 +20423,11 @@
       "Time": "2023-10-16T12:09:34.86754+00:00",
       "NumProgressed": 249270,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-16T13:19:22.3655471+00:00",
+      "NumProgressed": 249272,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -20474,7 +20479,7 @@
       "Name": "Collector",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 29912
+      "UsersEstimate": 29913
     },
     {
       "ID": "ACH_ENJOY",
@@ -20849,7 +20854,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 249270,
+      "Progressed": 249272,
       "Completed": 7
     }
   ],
@@ -20857,8 +20862,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-10-15T11:58:28.2667382+00:00",
-  "LastChanged_Achievements": "2023-10-16T12:09:34.8675397+00:00",
+  "LastChanged_Achievements": "2023-10-16T13:19:22.3655466+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:29.8544864+00:00",
-  "LastUpdate_Ratings": "2023-10-16T11:58:54.6054643+00:00",
-  "LastUpdate_Achievements": "2023-10-16T12:09:34.8676872+00:00"
+  "LastUpdate_Ratings": "2023-10-16T13:07:33.7806618+00:00",
+  "LastUpdate_Achievements": "2023-10-16T13:19:22.3657461+00:00"
 }

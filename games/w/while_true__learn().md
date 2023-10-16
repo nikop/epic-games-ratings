@@ -6,36 +6,36 @@ Number of Ratings: 896  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 93.00% | ~564,555 |
-| Error: Stack Overflow | 66.00% | ~400,652 |
-| We need more gold | 61.00% | ~370,299 |
-| The dawn of civilization | 53.00% | ~321,735 |
-| More FPS for the FPS god! | 50.00% | ~303,524 |
-| Beauty and harmony | 48.00% | ~291,383 |
-| One more! | 44.00% | ~267,101 |
+| First.. Bit? | 93.00% | ~564,557 |
+| Error: Stack Overflow | 66.00% | ~400,654 |
+| We need more gold | 61.00% | ~370,301 |
+| The dawn of civilization | 53.00% | ~321,737 |
+| More FPS for the FPS god! | 50.00% | ~303,526 |
+| Beauty and harmony | 48.00% | ~291,384 |
+| One more! | 44.00% | ~267,102 |
 | Overmind | 24.00% | ~145,692 |
 | RNG is my best friend now | 18.00% | ~109,269 |
-| Cosplay | 13.00% | ~78,916 |
-| Evolution in progress... | 13.00% | ~78,916 |
+| Cosplay | 13.00% | ~78,917 |
+| Evolution in progress... | 13.00% | ~78,917 |
 | Step by step | 8.00% | ~48,564 |
-| README reader | 3.00% | ~18,211 |
-| Data scientist | 3.00% | ~18,211 |
-| One small step for a man... | 3.00% | ~18,211 |
+| README reader | 3.00% | ~18,212 |
+| Data scientist | 3.00% | ~18,212 |
+| One small step for a man... | 3.00% | ~18,212 |
 | To see it all, to learn it all | 2.00% | ~12,141 |
 | Evolution complete | 2.00% | ~12,141 |
 | Best deal on the market | 2.00% | ~12,141 |
 | Is this Skynet? | 2.00% | ~12,141 |
 | Cybergeek 2047 | 2.00% | ~12,141 |
-| The hoarder | 1.00% | ~6,070 |
-| Ping | 1.00% | ~6,070 |
-| Magna cum laude | 1.00% | ~6,070 |
+| The hoarder | 1.00% | ~6,071 |
+| Ping | 1.00% | ~6,071 |
+| Magna cum laude | 1.00% | ~6,071 |
 | Deal with it! | 0.50% | ~3,035 |
 | Gold rush | 0.40% | ~2,428 |
 | Cat-o-holic | 0.40% | ~2,428 |
 | Elements will destroy you! | 0.30% | ~1,821 |
 | The Scrooge | 0.10% | ~607 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 607,048 (Ranked 29)  
+Progressed: 607,051 (Ranked 29)  
 Completed: 532 (0.09%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 532 (0.09%) (Ranked 253)
 | 2023-10-13 | 606,777 | 532 |
 | 2023-10-14 | 606,901 | 532 |
 | 2023-10-15 | 607,015 | 532 |
-| 2023-10-16 | 607,048 | 532 |
+| 2023-10-16 | 607,051 | 532 |
 ## Awards
 Max (Challenging Puzzles): 134  (Ranked 316)  
 Sum: 134 (Ranked 415)  

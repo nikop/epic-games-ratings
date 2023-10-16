@@ -166,9 +166,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14029,
+  "EOS_Progressed": 14030,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 234,
+  "EOS_NewPlayers": 235,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -8796,6 +8796,11 @@
       "Time": "2023-10-16T11:06:31.9056669+00:00",
       "NumProgressed": 14029,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-10-16T13:16:07.9610393+00:00",
+      "NumProgressed": 14030,
+      "NumCompleted": 25
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -8958,9 +8963,9 @@
       "ID": "27",
       "SetID": "458bbdk",
       "Name": "Bosmang",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 701
+      "UsersEstimate": 842
     },
     {
       "ID": "28",
@@ -9047,7 +9052,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14029,
+      "Progressed": 14030,
       "Completed": 25
     }
   ],
@@ -9055,8 +9060,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-13T09:00:57.1370573+00:00",
-  "LastChanged_Achievements": "2023-10-16T12:07:06.1925142+00:00",
+  "LastChanged_Achievements": "2023-10-16T13:16:07.9610388+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:40.5814563+00:00",
-  "LastUpdate_Ratings": "2023-10-16T12:02:20.6837655+00:00",
-  "LastUpdate_Achievements": "2023-10-16T12:07:06.1925932+00:00"
+  "LastUpdate_Ratings": "2023-10-16T13:11:43.7134718+00:00",
+  "LastUpdate_Achievements": "2023-10-16T13:16:07.9611303+00:00"
 }

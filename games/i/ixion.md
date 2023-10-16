@@ -5,18 +5,18 @@ Rating: 4.56 (Ranked 473)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 28.00% | ~904 |
-| Sputnik 2049 | 25.00% | ~807 |
+| Wakey Wakey | 28.00% | ~905 |
+| Sputnik 2049 | 25.00% | ~808 |
 | Without Breaking Some Eggs... | 23.00% | ~743 |
 | Infinite Growth... | 23.00% | ~743 |
 | Ready for a New World | 17.00% | ~549 |
 | Space Society | 16.00% | ~517 |
 | A Thousand Strong | 16.00% | ~517 |
-| Permanent Redesigns | 15.00% | ~484 |
+| Permanent Redesigns | 15.00% | ~485 |
 | Fully Recycled | 13.00% | ~420 |
 | Ain't Nobody Got Time for That | 13.00% | ~420 |
 | The Ship of Theseus | 13.00% | ~420 |
-| Guy de Borderlands | 12.00% | ~387 |
+| Guy de Borderlands | 12.00% | ~388 |
 | Exceeding Capacity | 11.00% | ~355 |
 | Breaking Protocol | 11.00% | ~355 |
 | Hope Seeker | 11.00% | ~355 |
@@ -29,9 +29,9 @@ Rating: 4.56 (Ranked 473)
 | Access Granted | 6.00% | ~194 |
 | Necessary Enhancement | 6.00% | ~194 |
 | From the Past | 6.00% | ~194 |
-| Oats | 5.00% | ~161 |
-| BRAWL! | 5.00% | ~161 |
-| All in Good Health | 5.00% | ~161 |
+| Oats | 5.00% | ~162 |
+| BRAWL! | 5.00% | ~162 |
+| All in Good Health | 5.00% | ~162 |
 | What They Hide From Us | 4.00% | ~129 |
 | ...  in a finite world | 4.00% | ~129 |
 | In Dolos We Trust | 4.00% | ~129 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 473)
 | I Give You the Stars | 0.10% | ~1 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,229 (Ranked 190)  
+Progressed: 3,231 (Ranked 190)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,6 +236,7 @@ Completed: 0 (0.00%) (Ranked 314)
 | 2023-10-13 | 3,222 | 0 |
 | 2023-10-14 | 3,224 | 0 |
 | 2023-10-15 | 3,229 | 0 |
+| 2023-10-16 | 3,231 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

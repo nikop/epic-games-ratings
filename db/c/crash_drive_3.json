@@ -4,8 +4,8 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 277,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
     "PcReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 393,
+  "EOS_Progressed": 394,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -526,6 +526,11 @@
       "Time": "2023-10-15T19:06:41.951026+00:00",
       "NumProgressed": 393,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-16T13:18:09.0955961+00:00",
+      "NumProgressed": 394,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -553,7 +558,7 @@
       "Name": "Fore!",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "CATAPULT_THROW",
@@ -569,7 +574,7 @@
       "Name": "The Collector",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "COLLECT_1_CAR",
@@ -657,7 +662,7 @@
       "Name": "To and Fro",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "FRONT_OR_BACKFLIP",
@@ -745,7 +750,7 @@
       "Name": "Insurance fraud",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "HIT_FLYING_UFO",
@@ -785,7 +790,7 @@
       "Name": "Goodbye cruel world",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "LOADED_LVL_DESERT",
@@ -793,15 +798,15 @@
       "Name": "The Wild West",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "LOADED_LVL_FOREST",
       "SetID": "20koof9",
       "Name": "A Forest Walk",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 110
+      "UsersEstimate": 114
     },
     {
       "ID": "LOADED_LVL_SNOW",
@@ -809,7 +814,7 @@
       "Name": "Snow Fun!",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "LOADED_LVL_TANK",
@@ -857,7 +862,7 @@
       "Name": "Bag of Tricks",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "STUNT_SCORE_DOUBLE",
@@ -879,9 +884,9 @@
       "ID": "USE_FERRY",
       "SetID": "20koof9",
       "Name": "Ferry Good!",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 63
     },
     {
       "ID": "USE_ROCKET",
@@ -897,7 +902,7 @@
       "Name": "I see the light!",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "WIN_100_EVENTS",
@@ -953,7 +958,7 @@
       "Name": "In the Bag!",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "WIN_TAG_EVENT",
@@ -961,7 +966,7 @@
       "Name": "You\u0027re it",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "WIN_TANK_BATTLES",
@@ -976,7 +981,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 393,
+      "Progressed": 394,
       "Completed": 2
     }
   ],
@@ -984,8 +989,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-10-16T12:08:40.7371484+00:00",
+  "LastChanged_Achievements": "2023-10-16T13:18:09.0955956+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:24.2620735+00:00",
-  "LastUpdate_Ratings": "2023-10-16T11:58:45.8302774+00:00",
-  "LastUpdate_Achievements": "2023-10-16T12:08:40.7372031+00:00"
+  "LastUpdate_Ratings": "2023-10-16T13:07:20.9332859+00:00",
+  "LastUpdate_Achievements": "2023-10-16T13:18:09.0956603+00:00"
 }

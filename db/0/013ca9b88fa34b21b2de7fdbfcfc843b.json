@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6708,
+  "EOS_Progressed": 6709,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 330,
+  "EOS_NewPlayers": 326,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4394,6 +4394,11 @@
       "Time": "2023-10-16T12:05:45.9143468+00:00",
       "NumProgressed": 6708,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-16T13:14:46.6412879+00:00",
+      "NumProgressed": 6709,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -4406,7 +4411,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 4897
+      "UsersEstimate": 4898
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -4438,7 +4443,7 @@
       "Name": "Clear the Air",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1141
     },
     {
       "ID": "CHAPTER_6_COMPLETE",
@@ -4502,7 +4507,7 @@
       "Name": "Miner 49er",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 2884
+      "UsersEstimate": 2885
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -4542,7 +4547,7 @@
       "Name": "Humble Collector",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 2817
+      "UsersEstimate": 2818
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -4566,7 +4571,7 @@
       "Name": "Mist Walker",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 2079
+      "UsersEstimate": 2080
     },
     {
       "ID": "DISPATCH_JUMBLES",
@@ -4638,7 +4643,7 @@
       "Name": "Azorian Anniversary",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "UPGRADE_ALLSKILLSMAX",
@@ -4685,7 +4690,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 6708,
+      "Progressed": 6709,
       "Completed": 0
     }
   ],
@@ -4693,8 +4698,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-14T10:58:26.1451757+00:00",
-  "LastChanged_Achievements": "2023-10-16T12:05:45.9143458+00:00",
+  "LastChanged_Achievements": "2023-10-16T13:14:46.6412875+00:00",
   "LastUpdate_AppInfo": "2023-10-13T06:57:01.9287951+00:00",
-  "LastUpdate_Ratings": "2023-10-16T11:59:14.5724452+00:00",
-  "LastUpdate_Achievements": "2023-10-16T12:05:45.9144042+00:00"
+  "LastUpdate_Ratings": "2023-10-16T13:07:57.7490301+00:00",
+  "LastUpdate_Achievements": "2023-10-16T13:14:46.6413476+00:00"
 }

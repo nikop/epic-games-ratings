@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 250388,
+  "EOS_Progressed": 250389,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 227,
+  "EOS_NewPlayers": 228,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16649,6 +16649,11 @@
       "Time": "2023-10-16T11:04:22.4788538+00:00",
       "NumProgressed": 250388,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-16T13:13:37.0821398+00:00",
+      "NumProgressed": 250389,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -16684,7 +16689,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 52581
+      "UsersEstimate": 52582
     },
     {
       "ID": "blotbuster",
@@ -16924,7 +16929,7 @@
       "Name": "Please The King",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2253
+      "UsersEstimate": 2254
     },
     {
       "ID": "readyFight",
@@ -16964,7 +16969,7 @@
       "Name": "The Stunner",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55085
+      "UsersEstimate": 55086
     },
     {
       "ID": "thunderstruck",
@@ -16980,7 +16985,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32550
+      "UsersEstimate": 32551
     },
     {
       "ID": "treeMedalist",
@@ -17027,7 +17032,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 250388,
+      "Progressed": 250389,
       "Completed": 6
     }
   ],
@@ -17035,8 +17040,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-10-16T12:04:27.0805335+00:00",
+  "LastChanged_Achievements": "2023-10-16T13:13:37.0821393+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:46.1902995+00:00",
-  "LastUpdate_Ratings": "2023-10-16T11:59:27.5199338+00:00",
-  "LastUpdate_Achievements": "2023-10-16T12:04:27.0806863+00:00"
+  "LastUpdate_Ratings": "2023-10-16T13:08:12.2198923+00:00",
+  "LastUpdate_Achievements": "2023-10-16T13:13:37.0823038+00:00"
 }
