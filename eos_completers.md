@@ -2,7 +2,7 @@
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 1 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 100.00% |
-| 3 | [The Riflemen](games/t/the_riflemen.md) | 48.62% |
+| 3 | [The Riflemen](games/t/the_riflemen.md) | 48.58% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.15% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.99% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
@@ -68,14 +68,14 @@
 | 66 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.55% |
 | 67 | [ZZT!](games/z/zzt!.md) | 4.48% |
 | 68 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.44% |
-| 69 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.10% |
+| 69 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.09% |
 | 70 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.08% |
 | 71 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.00% |
-| 72 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 3.99% |
+| 72 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 3.96% |
 | 73 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.81% |
 | 74 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
-| 75 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.57% |
 | 75 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
+| 76 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.56% |
 | 77 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.51% |
 | 78 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 79 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.45% |
@@ -225,17 +225,17 @@
 | 223 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.20% |
 | 223 | [Remnant 2](games/r/remnant_2.md) | 0.20% |
 | 225 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.19% |
+| 225 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.19% |
 | 225 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.19% |
-| 227 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.18% |
-| 227 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.18% |
+| 228 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.18% |
 | 229 | [RAILGRADE](games/r/railgrade.md) | 0.17% |
 | 229 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.17% |
 | 231 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
 | 231 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 231 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
 | 234 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
-| 234 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.15% |
-| 236 | [BLACKTAIL](games/b/blacktail.md) | 0.14% |
+| 235 | [BLACKTAIL](games/b/blacktail.md) | 0.14% |
+| 235 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.14% |
 | 237 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
 | 237 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.13% |
 | 237 | [Isonzo](games/i/isonzo.md) | 0.13% |
