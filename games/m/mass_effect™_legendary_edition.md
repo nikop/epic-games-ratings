@@ -8,7 +8,7 @@
 | Spectre Inductee | 84.00% | ~597 |
 | Medal of Exploration I | 75.00% | ~533 |
 | Recruit | 72.00% | ~512 |
-| Search and Rescue | 71.00% | ~505 |
+| Search and Rescue | 72.00% | ~512 |
 | Quarian Ally | 69.00% | ~491 |
 | Medal of Heroism | 66.00% | ~469 |
 | Honorarium of Corporate Service | 66.00% | ~469 |
@@ -33,8 +33,8 @@
 | Very Elusive | 43.00% | ~306 |
 | Head Hunter | 43.00% | ~306 |
 | Operative | 42.00% | ~299 |
+| Scholar | 42.00% | ~299 |
 | Veteran | 41.00% | ~292 |
-| Scholar | 41.00% | ~292 |
 | Power Full | 40.00% | ~284 |
 | The Professor | 39.00% | ~277 |
 | The Archangel | 37.00% | ~263 |
@@ -51,11 +51,11 @@
 | The Assassin | 32.00% | ~228 |
 | The Justicar | 32.00% | ~228 |
 | Battlemaster | 32.00% | ~228 |
+| Ghost of the Father | 32.00% | ~228 |
 | The Cure | 32.00% | ~228 |
 | The Prodigal | 32.00% | ~228 |
 | Shopaholic | 32.00% | ~228 |
 | Catharsis | 31.00% | ~220 |
-| Ghost of the Father | 31.00% | ~220 |
 | Big Game Hunter | 31.00% | ~220 |
 | Revenge! | 31.00% | ~220 |
 | Heart of Darkness | 31.00% | ~220 |

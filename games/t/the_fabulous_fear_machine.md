@@ -24,19 +24,19 @@
 | The seer | 31.00% | ~9 |
 | Et in arcadia ego | 28.00% | ~8 |
 | Welcome to Hellville | 28.00% | ~8 |
+| You've awakened the beast | 21.00% | ~6 |
+| Hate is... addictive | 21.00% | ~6 |
 | You had one wish left | 21.00% | ~6 |
-| You've awakened the beast | 17.00% | ~5 |
-| Hate is... addictive | 17.00% | ~5 |
 | Blessed antennas | 17.00% | ~5 |
 | The beast in the Oval Office | 17.00% | ~5 |
 | Blood Red Island | 17.00% | ~5 |
 | Bread and bocaua | 17.00% | ~5 |
 | Fanatacism is... poisonous | 17.00% | ~5 |
+| The bully | 17.00% | ~5 |
 | The adventurer | 17.00% | ~5 |
 | Pulp! The Beyond | 17.00% | ~5 |
 | The barbarian invasions | 17.00% | ~5 |
 | America had no Faith | 17.00% | ~5 |
-| The bully | 14.00% | ~4 |
 | The scholar | 14.00% | ~4 |
 | Pulp! Tales from the Crypt | 10.00% | ~3 |
 | Pulp! True Adventures | 10.00% | ~3 |

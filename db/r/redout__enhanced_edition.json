@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewPlayers": 100,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
@@ -334,9 +334,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 233753,
+  "EOS_Progressed": 233755,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 423,
+  "EOS_NewPlayers": 422,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -19179,6 +19179,11 @@
       "Time": "2023-10-16T08:06:25.6983712+00:00",
       "NumProgressed": 233753,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-10-16T09:07:58.4609229+00:00",
+      "NumProgressed": 233755,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 34,
@@ -19326,7 +19331,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 77138
+      "UsersEstimate": 77139
     },
     {
       "ID": "NOBUNAGA",
@@ -19454,22 +19459,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 95839
+      "UsersEstimate": 95840
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 233753,
+      "Progressed": 233755,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-10-16T08:06:25.6983704+00:00",
+  "LastChanged_Achievements": "2023-10-16T09:07:58.4609224+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:10.7010053+00:00",
-  "LastUpdate_Ratings": "2023-10-16T07:57:47.7278021+00:00",
-  "LastUpdate_Achievements": "2023-10-16T08:06:25.6985138+00:00"
+  "LastUpdate_Ratings": "2023-10-16T08:58:03.1990807+00:00",
+  "LastUpdate_Achievements": "2023-10-16T09:07:58.4611236+00:00"
 }

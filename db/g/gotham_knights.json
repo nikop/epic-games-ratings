@@ -3566,9 +3566,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73564,
+  "EOS_Progressed": 73565,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 221,
+  "EOS_NewPlayers": 220,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -18856,6 +18856,11 @@
       "Time": "2023-10-16T06:05:29.234857+00:00",
       "NumProgressed": 73564,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-10-16T09:06:12.6894081+00:00",
+      "NumProgressed": 73565,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 61,
@@ -18971,7 +18976,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15448
+      "UsersEstimate": 15449
     },
     {
       "ID": "CLAYFACE_2",
@@ -19011,7 +19016,7 @@
       "Name": "Fusion Expert",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 5149
+      "UsersEstimate": 5150
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -19067,7 +19072,7 @@
       "Name": "Family Meeting",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 5149
+      "UsersEstimate": 5150
     },
     {
       "ID": "DEFEAT_OC_2",
@@ -19099,7 +19104,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15448
+      "UsersEstimate": 15449
     },
     {
       "ID": "FREEZE_2",
@@ -19171,7 +19176,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25747
+      "UsersEstimate": 25748
     },
     {
       "ID": "HARLEY_2",
@@ -19187,7 +19192,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15448
+      "UsersEstimate": 15449
     },
     {
       "ID": "HARLEY_4",
@@ -19211,7 +19216,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 38253
+      "UsersEstimate": 38254
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -19354,13 +19359,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73564,
+      "Progressed": 73565,
       "Completed": 121
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43844,
+      "Progressed": 43845,
       "Completed": 2667
     }
   ],
@@ -19368,8 +19373,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-16T07:58:37.6832182+00:00",
-  "LastChanged_Achievements": "2023-10-16T08:05:10.4286079+00:00",
+  "LastChanged_Achievements": "2023-10-16T09:06:12.6894074+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:41.7245252+00:00",
-  "LastUpdate_Ratings": "2023-10-16T07:58:37.683219+00:00",
-  "LastUpdate_Achievements": "2023-10-16T08:05:10.4287677+00:00"
+  "LastUpdate_Ratings": "2023-10-16T08:59:16.999332+00:00",
+  "LastUpdate_Achievements": "2023-10-16T09:06:12.6895604+00:00"
 }

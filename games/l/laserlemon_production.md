@@ -3,10 +3,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| The Kitchen | 27.00% | ~3 |
 | The Prison | 27.00% | ~3 |
 | Six's Song | 18.00% | ~2 |
 | Highly Sprung | 18.00% | ~2 |
-| The Kitchen | 18.00% | ~2 |
+| Kitchen Hand | 18.00% | ~2 |
 | The Lair | 18.00% | ~2 |
 | Ashes in The Maw | 9.00% | ~1 |
 | Ashes to Ashes | 9.00% | ~1 |
@@ -15,7 +16,6 @@
 | Fun and Games Ahead | 9.00% | ~1 |
 | I'm Losing You | 9.00% | ~1 |
 | Is Anybody Out There? | 9.00% | ~1 |
-| Kitchen Hand | 9.00% | ~1 |
 | Light Up Your life | 9.00% | ~1 |
 | Not Alone | 9.00% | ~1 |
 | So Close | 9.00% | ~1 |

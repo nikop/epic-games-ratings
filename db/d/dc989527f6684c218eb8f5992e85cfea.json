@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12625,
+  "EOS_Progressed": 12626,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 257,
+  "EOS_NewPlayers": 258,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12186,6 +12186,11 @@
       "Time": "2023-10-16T06:07:26.228707+00:00",
       "NumProgressed": 12625,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-16T09:08:31.1762439+00:00",
+      "NumProgressed": 12626,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -12285,7 +12290,7 @@
       "Name": "Facepalm",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 2272
+      "UsersEstimate": 2273
     },
     {
       "ID": "ACH_TEN_WORD_PACKAGES",
@@ -12381,7 +12386,7 @@
       "Name": "First Prize!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "ACH_WIN_A_GAME_SCRIBBLE_IT",
@@ -12389,21 +12394,21 @@
       "Name": "First Sketch",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 2272
+      "UsersEstimate": 2273
     }
   ],
   "AchievementSets": [
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 12625,
+      "Progressed": 12626,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-10-16T08:07:08.8589953+00:00",
+  "LastChanged_Achievements": "2023-10-16T09:08:31.1762434+00:00",
   "LastUpdate_AppInfo": "2023-10-14T02:11:04.1756812+00:00",
-  "LastUpdate_Ratings": "2023-10-16T07:59:26.2166945+00:00",
-  "LastUpdate_Achievements": "2023-10-16T08:07:08.8590887+00:00"
+  "LastUpdate_Ratings": "2023-10-16T09:00:23.7255902+00:00",
+  "LastUpdate_Achievements": "2023-10-16T09:08:31.1763346+00:00"
 }

@@ -129,6 +129,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Poetic Leader | 0.40% | ~59 |
 | Kmt Unified | 0.40% | ~59 |
 | Bad Heir Day | 0.30% | ~44 |
+| Ishtar Gate in Babylon | 0.30% | ~44 |
 | Devout | 0.30% | ~44 |
 | Noble Difficulty | 0.30% | ~44 |
 | Clerics | 0.30% | ~44 |
@@ -145,7 +146,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Rmt n Kmt Buhen | 0.30% | ~44 |
 | Greater Kmt Unified | 0.30% | ~44 |
 | Beja Archer | 0.30% | ~44 |
-| Ishtar Gate in Babylon | 0.20% | ~29 |
 | Carthage - Ox Hide | 0.20% | ~29 |
 | Old | 0.20% | ~29 |
 | Peacemaker | 0.20% | ~29 |

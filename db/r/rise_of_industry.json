@@ -279,9 +279,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 743613,
+  "EOS_Progressed": 743616,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 2175,
+  "EOS_NewPlayers": 2169,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20584,6 +20584,11 @@
       "Time": "2023-10-16T08:04:13.1036418+00:00",
       "NumProgressed": 743613,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-16T09:04:50.7211221+00:00",
+      "NumProgressed": 743616,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 27,
@@ -20659,7 +20664,7 @@
       "Name": "Well educated",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 275137
+      "UsersEstimate": 275138
     },
     {
       "ID": "ach_demolish_trees",
@@ -20667,7 +20672,7 @@
       "Name": "Deforester",
       "Percentage": 17,
       "XP": 35,
-      "UsersEstimate": 126414
+      "UsersEstimate": 126415
     },
     {
       "ID": "ach_free_cam_mode",
@@ -20723,7 +20728,7 @@
       "Name": "Entrepreneur",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 356934
+      "UsersEstimate": 356936
     },
     {
       "ID": "ach_produced",
@@ -20739,7 +20744,7 @@
       "Name": "Big Hauling",
       "Percentage": 16,
       "XP": 35,
-      "UsersEstimate": 118978
+      "UsersEstimate": 118979
     },
     {
       "ID": "ach_raise_money",
@@ -20803,14 +20808,14 @@
       "Name": "City Planner",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 141286
+      "UsersEstimate": 141287
     }
   ],
   "AchievementSets": [
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 743613,
+      "Progressed": 743616,
       "Completed": 4
     }
   ],
@@ -20818,8 +20823,8 @@
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
   "LastChanged": "2023-10-02T11:00:31.1907722+00:00",
-  "LastChanged_Achievements": "2023-10-16T08:04:13.103641+00:00",
+  "LastChanged_Achievements": "2023-10-16T09:04:50.7211215+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:20.277946+00:00",
-  "LastUpdate_Ratings": "2023-10-16T07:58:10.2159506+00:00",
-  "LastUpdate_Achievements": "2023-10-16T08:04:13.1038918+00:00"
+  "LastUpdate_Ratings": "2023-10-16T08:58:38.0141827+00:00",
+  "LastUpdate_Achievements": "2023-10-16T09:04:50.7212718+00:00"
 }

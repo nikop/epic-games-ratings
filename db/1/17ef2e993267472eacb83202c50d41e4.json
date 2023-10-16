@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7199,
+  "EOS_Progressed": 7201,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 184,
+  "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4238,6 +4238,11 @@
       "Time": "2023-10-16T08:09:25.842863+00:00",
       "NumProgressed": 7199,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-16T09:10:03.7903243+00:00",
+      "NumProgressed": 7201,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -4384,9 +4389,9 @@
       "ID": "GamesPlayed100",
       "SetID": "12d07c7",
       "Name": "Played 100 Matches",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 22
+      "UsersEstimate": 14
     },
     {
       "ID": "GamesWon1",
@@ -4752,9 +4757,9 @@
       "ID": "SEUpgraded1",
       "SetID": "12d07c7",
       "Name": "Upgraded Shield Enhancements to Level 3",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 50
     },
     {
       "ID": "SMGUpgraded1",
@@ -4824,9 +4829,9 @@
       "ID": "TowerKills11",
       "SetID": "12d07c7",
       "Name": "Destroyed 11 Towers",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 144
     },
     {
       "ID": "WCUpgraded1",
@@ -4841,7 +4846,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 7199,
+      "Progressed": 7201,
       "Completed": 1
     }
   ],
@@ -4849,8 +4854,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-09-28T09:00:22.5097709+00:00",
-  "LastChanged_Achievements": "2023-10-16T08:09:25.842862+00:00",
+  "LastChanged_Achievements": "2023-10-16T09:10:03.7903238+00:00",
   "LastUpdate_AppInfo": "2023-10-10T10:57:15.6695599+00:00",
-  "LastUpdate_Ratings": "2023-10-16T08:00:35.0888789+00:00",
-  "LastUpdate_Achievements": "2023-10-16T08:09:25.8430536+00:00"
+  "LastUpdate_Ratings": "2023-10-16T09:02:05.3258997+00:00",
+  "LastUpdate_Achievements": "2023-10-16T09:10:03.7904629+00:00"
 }

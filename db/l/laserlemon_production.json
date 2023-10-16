@@ -3,7 +3,7 @@
   "Name": "laserlemon Production",
   "Ranking_EOS_Progress": 526,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewPlayers": 393,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": null,
@@ -164,9 +164,9 @@
       "ID": "KitchenHand",
       "SetID": "c36hpcf",
       "Name": "Kitchen Hand",
-      "Percentage": 9,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "LightUpYourLife",
@@ -220,9 +220,9 @@
       "ID": "TheKitchen",
       "SetID": "c36hpcf",
       "Name": "The Kitchen",
-      "Percentage": 18,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "TheLadysQuarters",
@@ -266,8 +266,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-15T10:05:55.6712787+00:00",
-  "LastChanged_Achievements": "2023-10-16T08:05:43.7827912+00:00",
+  "LastChanged_Achievements": "2023-10-16T09:06:59.8583733+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:33:12.9758527+00:00",
-  "LastUpdate_Ratings": "2023-10-16T07:59:46.2958246+00:00",
-  "LastUpdate_Achievements": "2023-10-16T08:05:43.7828164+00:00"
+  "LastUpdate_Ratings": "2023-10-16T09:00:54.1674035+00:00",
+  "LastUpdate_Achievements": "2023-10-16T09:06:59.8583927+00:00"
 }

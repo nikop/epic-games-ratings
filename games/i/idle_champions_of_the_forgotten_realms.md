@@ -11,9 +11,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beast Intentions | 0.20% | ~464 |
 | The Cursed Farmer | 0.20% | ~464 |
 | The Mad Wizard | 0.20% | ~464 |
-| The Jungles of Doomspace | 0.20% | ~396 |
-| The Arena of Blood | 0.20% | ~396 |
-| Spelljammers in Training | 0.20% | ~396 |
+| The Jungles of Doomspace | 0.20% | ~397 |
+| The Arena of Blood | 0.20% | ~397 |
+| Spelljammers in Training | 0.20% | ~397 |
 | Maddening | 0.10% | ~232 |
 | Pros and CONs | 0.10% | ~232 |
 | Upholding the Law | 0.10% | ~232 |
@@ -535,8 +535,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fowl Play | 0.10% | ~198 |
 | Time Out | 0.10% | ~198 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,975 (Ranked 58)  
-Completed: 2,364 (1.02%) (Ranked 145)  
+Progressed: 231,979 (Ranked 58)  
+Completed: 2,365 (1.02%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -714,7 +714,7 @@ Completed: 2,364 (1.02%) (Ranked 145)
 | 2023-10-13 | 231,754 | 2,358 |
 | 2023-10-14 | 231,864 | 2,361 |
 | 2023-10-15 | 231,955 | 2,364 |
-| 2023-10-16 | 231,975 | 2,364 |
+| 2023-10-16 | 231,979 | 2,365 |
 ## Awards
 Max (Great for Beginners): 5,404  (Ranked 69)  
 Sum: 32,055 (Ranked 41)  

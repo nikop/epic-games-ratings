@@ -530,9 +530,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 68164,
+  "EOS_Progressed": 68165,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 773,
+  "EOS_NewPlayers": 771,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -18205,6 +18205,11 @@
       "Time": "2023-10-16T08:09:12.1504197+00:00",
       "NumProgressed": 68164,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-10-16T09:09:44.8357515+00:00",
+      "NumProgressed": 68165,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 67,
@@ -18232,7 +18237,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 18404
+      "UsersEstimate": 18405
     },
     {
       "ID": "04",
@@ -18248,7 +18253,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 16359
+      "UsersEstimate": 16360
     },
     {
       "ID": "06",
@@ -18312,7 +18317,7 @@
       "Name": "Drink \u0027Em Both Up",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4771
+      "UsersEstimate": 4772
     },
     {
       "ID": "14",
@@ -18352,7 +18357,7 @@
       "Name": "Hardboiled Writer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4771
+      "UsersEstimate": 4772
     },
     {
       "ID": "19",
@@ -18486,9 +18491,9 @@
       "ID": "35",
       "SetID": "212770e",
       "Name": "Let There Be Light",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 23857
+      "UsersEstimate": 24539
     },
     {
       "ID": "36",
@@ -18751,21 +18756,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 68164,
+      "Progressed": 68165,
       "Completed": 69
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 31632,
+      "Progressed": 31633,
       "Completed": 56
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-10-15T17:00:51.0495821+00:00",
-  "LastChanged_Achievements": "2023-10-16T08:09:12.1504181+00:00",
+  "LastChanged_Achievements": "2023-10-16T09:09:44.835751+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:29.5404552+00:00",
-  "LastUpdate_Ratings": "2023-10-16T07:57:16.7425271+00:00",
-  "LastUpdate_Achievements": "2023-10-16T08:09:12.1507378+00:00"
+  "LastUpdate_Ratings": "2023-10-16T08:57:21.9325611+00:00",
+  "LastUpdate_Achievements": "2023-10-16T09:09:44.8359771+00:00"
 }

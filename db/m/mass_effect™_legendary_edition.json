@@ -2162,9 +2162,9 @@
       "ID": "achievement_33",
       "SetID": "b9pe172",
       "Name": "Search and Rescue",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 505
+      "UsersEstimate": 512
     },
     {
       "ID": "achievement_34",
@@ -2370,9 +2370,9 @@
       "ID": "achievement_57",
       "SetID": "d252ncf",
       "Name": "Ghost of the Father",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 220
+      "UsersEstimate": 228
     },
     {
       "ID": "achievement_58",
@@ -2514,9 +2514,9 @@
       "ID": "achievement_73",
       "SetID": "d252ncf",
       "Name": "Scholar",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 292
+      "UsersEstimate": 299
     },
     {
       "ID": "achievement_74",
@@ -2758,8 +2758,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-16T08:04:41.6023302+00:00",
+  "LastChanged_Achievements": "2023-10-16T09:05:31.7035174+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:30.4071338+00:00",
-  "LastUpdate_Ratings": "2023-10-16T08:00:22.7156505+00:00",
-  "LastUpdate_Achievements": "2023-10-16T08:04:41.6026201+00:00"
+  "LastUpdate_Ratings": "2023-10-16T09:01:47.563575+00:00",
+  "LastUpdate_Achievements": "2023-10-16T09:05:31.7037313+00:00"
 }

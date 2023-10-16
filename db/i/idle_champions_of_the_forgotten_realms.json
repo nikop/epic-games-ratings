@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 145,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 12,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -7354,10 +7354,10 @@
       "Count": 3469
     }
   ],
-  "EOS_Progressed": 231975,
-  "EOS_Completed": 2364,
-  "EOS_NewPlayers": 623,
-  "EOS_NewCompleters": 17,
+  "EOS_Progressed": 231979,
+  "EOS_Completed": 2365,
+  "EOS_NewPlayers": 625,
+  "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
     {
@@ -27289,6 +27289,11 @@
       "Time": "2023-10-16T07:08:14.1821467+00:00",
       "NumProgressed": 231975,
       "NumCompleted": 2364
+    },
+    {
+      "Time": "2023-10-16T09:08:27.4124489+00:00",
+      "NumProgressed": 231979,
+      "NumCompleted": 2365
     }
   ],
   "TotalAchievements": 528,
@@ -31460,7 +31465,7 @@
       "Name": "The Jungles of Doomspace",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "objective_completed_1406",
@@ -31476,7 +31481,7 @@
       "Name": "The Arena of Blood",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "objective_completed_1411",
@@ -31508,7 +31513,7 @@
       "Name": "Spelljammers in Training",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "objective_completed_1421",
@@ -31523,21 +31528,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 198249,
+      "Progressed": 198253,
       "Completed": 3639
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 231975,
-      "Completed": 2364
+      "Progressed": 231979,
+      "Completed": 2365
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-10-16T01:45:58.0192131+00:00",
-  "LastChanged_Achievements": "2023-10-16T08:06:46.1120909+00:00",
+  "LastChanged_Achievements": "2023-10-16T09:08:27.4124465+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:38.1045135+00:00",
-  "LastUpdate_Ratings": "2023-10-16T08:00:48.2041915+00:00",
-  "LastUpdate_Achievements": "2023-10-16T08:06:46.1155655+00:00"
+  "LastUpdate_Ratings": "2023-10-16T09:02:29.3052253+00:00",
+  "LastUpdate_Achievements": "2023-10-16T09:08:27.4158985+00:00"
 }

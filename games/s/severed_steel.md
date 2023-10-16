@@ -5,24 +5,24 @@ Rating: 4.69 (Ranked 222)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 30.00% | ~202,414 |
-| 50 HEADSHOTS | 28.00% | ~188,920 |
-| SCIENCE AND INDUSTRY | 27.00% | ~182,173 |
-| FINISHED CHAPTER 1 | 26.00% | ~175,426 |
-| FINISHED CHAPTER 2 | 19.00% | ~128,196 |
-| 200 HEADSHOTS | 17.00% | ~114,701 |
-| FINISHED CHAPTER 3 | 16.00% | ~107,954 |
-| FINISHED CHAPTER 4 | 14.00% | ~94,460 |
-| FINISH CHAPTER 5 | 11.00% | ~74,219 |
-| FINISH CHAPTER 6 | 10.00% | ~67,471 |
-| CATHARTIC ESCAPISM | 10.00% | ~67,471 |
-| 1000 KILLS | 8.00% | ~53,977 |
+| 100 KILLS | 30.00% | ~202,417 |
+| 50 HEADSHOTS | 28.00% | ~188,922 |
+| SCIENCE AND INDUSTRY | 27.00% | ~182,175 |
+| FINISHED CHAPTER 1 | 26.00% | ~175,428 |
+| FINISHED CHAPTER 2 | 19.00% | ~128,197 |
+| 200 HEADSHOTS | 17.00% | ~114,703 |
+| FINISHED CHAPTER 3 | 16.00% | ~107,956 |
+| FINISHED CHAPTER 4 | 14.00% | ~94,461 |
+| FINISH CHAPTER 5 | 11.00% | ~74,220 |
+| FINISH CHAPTER 6 | 10.00% | ~67,472 |
+| CATHARTIC ESCAPISM | 10.00% | ~67,472 |
+| 1000 KILLS | 8.00% | ~53,978 |
 | FIREFIGHT LEVEL 10 | 4.00% | ~26,989 |
 | FIREFIGHT LEVEL 20 | 2.00% | ~13,494 |
 | FIRST BLOOD | 2.00% | ~13,494 |
 | PACEMAKER | 1.00% | ~6,747 |
-| OUT OF ORDER | 0.90% | ~6,072 |
-| TIME PARADOX | 0.90% | ~6,072 |
+| OUT OF ORDER | 0.90% | ~6,073 |
+| TIME PARADOX | 0.90% | ~6,073 |
 | FIREFIGHT LEVEL 30 | 0.80% | ~5,398 |
 | PARTYHARD | 0.70% | ~4,723 |
 | NEW GAME PLUS | 0.60% | ~4,048 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 222)
 | THE GAMBLER | 0.10% | ~675 |
 | WARRIOR IN A GARDEN | 0.10% | ~675 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 674,714 (Ranked 23)  
+Progressed: 674,723 (Ranked 23)  
 Completed: 74 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,7 +237,7 @@ Completed: 74 (0.01%) (Ranked 296)
 | 2023-10-13 | 673,704 | 73 |
 | 2023-10-14 | 674,192 | 73 |
 | 2023-10-15 | 674,632 | 74 |
-| 2023-10-16 | 674,714 | 74 |
+| 2023-10-16 | 674,723 | 74 |
 ## Awards
 Max (Great Boss Battles): 343  (Ranked 233)  
 Sum: 343 (Ranked 340)  

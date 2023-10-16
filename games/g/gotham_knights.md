@@ -5,8 +5,8 @@ Rating: 4.18 (Ranked 900)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~38,253 |
-| Har, Har, Har, Very Funny | 35.00% | ~25,747 |
+| First Step Into the Knight | 52.00% | ~38,254 |
+| Har, Har, Har, Very Funny | 35.00% | ~25,748 |
 | Loose Ends | 34.00% | ~25,012 |
 | To the Victor Go the Spoils | 29.00% | ~21,334 |
 | Knighthood | 28.00% | ~20,598 |
@@ -14,9 +14,9 @@ Rating: 4.18 (Ranked 900)
 | Whispered Words | 25.00% | ~18,391 |
 | The Batman Family | 23.00% | ~16,920 |
 | Lock and Key | 23.00% | ~16,920 |
-| Something in the Clay | 21.00% | ~15,448 |
-| Quartzer Life Crisis | 21.00% | ~15,448 |
-| Working Hard or Harley Working? | 21.00% | ~15,448 |
+| Something in the Clay | 21.00% | ~15,449 |
+| Quartzer Life Crisis | 21.00% | ~15,449 |
+| Working Hard or Harley Working? | 21.00% | ~15,449 |
 | Unstoppable Force | 20.00% | ~14,713 |
 | Bad Apples in Every Orchard | 20.00% | ~14,713 |
 | Snow Problem | 19.00% | ~13,977 |
@@ -38,8 +38,8 @@ Rating: 4.18 (Ranked 900)
 | Drone You Out | 10.00% | ~7,356 |
 | Out of Their League | 9.00% | ~6,621 |
 | Solid Alibi | 9.00% | ~6,621 |
-| Fusion Expert | 7.00% | ~5,149 |
-| Family Meeting | 7.00% | ~5,149 |
+| Fusion Expert | 7.00% | ~5,150 |
+| Family Meeting | 7.00% | ~5,150 |
 | Expert Crime Fighter | 6.00% | ~4,414 |
 | A Worthy Successor | 6.00% | ~4,414 |
 | Dressed to Impress | 4.00% | ~2,943 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 900)
 | Element of Surprise | 0.20% | ~88 |
 | It's Nice to Be Wanted | 0.20% | ~88 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,564 (Ranked 91)  
+Progressed: 73,565 (Ranked 91)  
 Completed: 121 (0.16%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +246,7 @@ Completed: 121 (0.16%) (Ranked 231)
 | 2023-10-13 | 73,472 | 121 |
 | 2023-10-14 | 73,512 | 121 |
 | 2023-10-15 | 73,552 | 121 |
-| 2023-10-16 | 73,564 | 121 |
+| 2023-10-16 | 73,565 | 121 |
 ## Awards
 Max (Great Boss Battles): 2,828  (Ranked 97)  
 Sum: 4,749 (Ranked 139)  

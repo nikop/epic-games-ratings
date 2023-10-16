@@ -2344,10 +2344,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2394,
       "NumberOfAwardsMax": 262
+    },
+    {
+      "Time": "2023-10-16T08:59:42.5960545+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2395,
+      "NumberOfAwardsMax": 262
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2394,
+  "NumberOfAwards": 2395,
   "NumberOfAwardsMax": 262,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2355,7 +2361,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 260
+      "Count": 261
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2426,7 +2432,7 @@
   ],
   "EOS_Progressed": 26513,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 205,
+  "EOS_NewPlayers": 204,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -15519,9 +15525,9 @@
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-10-16T02:17:28.7638286+00:00",
-  "LastChanged_Achievements": "2023-10-16T08:06:04.3069334+00:00",
+  "LastChanged": "2023-10-16T08:59:42.5960544+00:00",
+  "LastChanged_Achievements": "2023-10-16T09:07:28.6649732+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:17.9420656+00:00",
-  "LastUpdate_Ratings": "2023-10-16T07:58:58.0486666+00:00",
-  "LastUpdate_Achievements": "2023-10-16T08:06:04.3071508+00:00"
+  "LastUpdate_Ratings": "2023-10-16T08:59:42.5960552+00:00",
+  "LastUpdate_Achievements": "2023-10-16T09:07:28.6651+00:00"
 }

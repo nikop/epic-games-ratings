@@ -2830,7 +2830,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 34009,
+  "EOS_Progressed": 34011,
   "EOS_Completed": 271,
   "EOS_NewPlayers": 1144,
   "EOS_NewCompleters": 8,
@@ -22430,6 +22430,11 @@
       "Time": "2023-10-16T08:07:14.5141267+00:00",
       "NumProgressed": 34009,
       "NumCompleted": 271
+    },
+    {
+      "Time": "2023-10-16T09:08:39.069369+00:00",
+      "NumProgressed": 34011,
+      "NumCompleted": 271
     }
   ],
   "TotalAchievements": 60,
@@ -22441,7 +22446,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 19725
+      "UsersEstimate": 19726
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -22449,7 +22454,7 @@
       "Name": "No one has to die today!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 15644
+      "UsersEstimate": 15645
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -22457,7 +22462,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 19385
+      "UsersEstimate": 19386
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -22505,7 +22510,7 @@
       "Name": "Difficult family relationships",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 8502
+      "UsersEstimate": 8503
     },
     {
       "ID": "ACH_D3_Campaign_DayNight_1",
@@ -22529,7 +22534,7 @@
       "Name": "A trip on sea, what fun it can be",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 11563
+      "UsersEstimate": 11564
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_1",
@@ -22553,7 +22558,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 16664
+      "UsersEstimate": 16665
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -22585,7 +22590,7 @@
       "Name": "MASS-O-BOT",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 8162
+      "UsersEstimate": 8163
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_2",
@@ -22601,7 +22606,7 @@
       "Name": "The last burger",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 12583
+      "UsersEstimate": 12584
     },
     {
       "ID": "ACH_D3_Campaign_Fire_1",
@@ -22609,7 +22614,7 @@
       "Name": "Prepare the grave",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 8162
+      "UsersEstimate": 8163
     },
     {
       "ID": "ACH_D3_Campaign_Fire_2",
@@ -22625,7 +22630,7 @@
       "Name": "Angel of Fire",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 8162
+      "UsersEstimate": 8163
     },
     {
       "ID": "ACH_D3_Campaign_Graves_1",
@@ -22633,7 +22638,7 @@
       "Name": "Braiiiiins!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 12583
+      "UsersEstimate": 12584
     },
     {
       "ID": "ACH_D3_Campaign_Graves_2",
@@ -22649,7 +22654,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 14624
+      "UsersEstimate": 14625
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -22665,7 +22670,7 @@
       "Name": "Hands off the Dungeonheart!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 12243
+      "UsersEstimate": 12244
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_Completed",
@@ -22673,7 +22678,7 @@
       "Name": "Rusty Steel",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 13944
+      "UsersEstimate": 13945
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_1",
@@ -22681,7 +22686,7 @@
       "Name": "Thirst quencher",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 9182
+      "UsersEstimate": 9183
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_2",
@@ -22697,7 +22702,7 @@
       "Name": "Ogre Solo!",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 9182
+      "UsersEstimate": 9183
     },
     {
       "ID": "ACH_D3_Campaign_Infested_1",
@@ -22721,7 +22726,7 @@
       "Name": "Destroy the thing",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 8842
+      "UsersEstimate": 8843
     },
     {
       "ID": "ACH_D3_Campaign_Pain_1",
@@ -22745,7 +22750,7 @@
       "Name": "Where there is Light, there is Shadow",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 7822
+      "UsersEstimate": 7823
     },
     {
       "ID": "ACH_D3_Campaign_Renegade_1",
@@ -22777,7 +22782,7 @@
       "Name": "Can\u2019t stand the sight of Dark Elf blood",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 5101
+      "UsersEstimate": 5102
     },
     {
       "ID": "ACH_D3_Campaign_Ritual_2",
@@ -22817,7 +22822,7 @@
       "Name": "Damned good",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 11223
+      "UsersEstimate": 11224
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_1",
@@ -22825,7 +22830,7 @@
       "Name": "Death and destruction!",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 15304
+      "UsersEstimate": 15305
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_2",
@@ -22841,7 +22846,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 23806
+      "UsersEstimate": 23808
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -22849,7 +22854,7 @@
       "Name": "The Benevolent Evil",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1700
+      "UsersEstimate": 1701
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_2",
@@ -22857,7 +22862,7 @@
       "Name": "Band of Brothers",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1700
+      "UsersEstimate": 1701
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_Completed",
@@ -22913,22 +22918,22 @@
       "Name": "Tide Master",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 8842
+      "UsersEstimate": 8843
     }
   ],
   "AchievementSets": [
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 34009,
+      "Progressed": 34011,
       "Completed": 271
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-10-15T17:57:42.670831+00:00",
-  "LastChanged_Achievements": "2023-10-16T08:07:14.5141261+00:00",
+  "LastChanged_Achievements": "2023-10-16T09:08:39.0693685+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:18.1090786+00:00",
-  "LastUpdate_Ratings": "2023-10-16T07:58:05.8066336+00:00",
-  "LastUpdate_Achievements": "2023-10-16T08:07:14.5144376+00:00"
+  "LastUpdate_Ratings": "2023-10-16T08:58:31.0318379+00:00",
+  "LastUpdate_Achievements": "2023-10-16T09:08:39.0696+00:00"
 }

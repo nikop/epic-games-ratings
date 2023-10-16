@@ -6,22 +6,22 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~36,333 |
-| Biggest Communism Builder | 24.00% | ~31,142 |
+| Goodest Of The Good Cops | 28.00% | ~36,334 |
+| Biggest Communism Builder | 24.00% | ~31,143 |
 | The World's Most Laughable Centrist | 21.00% | ~27,250 |
 | Il Coppo Del'Arte! | 18.00% | ~23,357 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,762 |
 | Hyperstellar Law Official | 16.00% | ~20,762 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~18,166 |
-| Gurdi-Ball Is Lit | 14.00% | ~18,166 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~18,167 |
+| Gurdi-Ball Is Lit | 14.00% | ~18,167 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~16,869 |
 | Truly Rabid *Traditionalist* | 11.00% | ~14,274 |
-| Unbelievably Boring **** | 9.00% | ~11,678 |
-| The Figurines Won't Win Her Back | 9.00% | ~11,678 |
+| Unbelievably Boring **** | 9.00% | ~11,679 |
+| The Figurines Won't Win Her Back | 9.00% | ~11,679 |
 | Enemy Of The Physical Realm | 8.00% | ~10,381 |
 | Hardie's Heroes | 6.00% | ~7,786 |
-| The Lawbringer | 4.00% | ~5,190 |
-| Fairweather t-500 Vitreous Enamel | 4.00% | ~5,190 |
+| The Lawbringer | 4.00% | ~5,191 |
+| Fairweather t-500 Vitreous Enamel | 4.00% | ~5,191 |
 | The Opener Of The Eighth Seal | 3.00% | ~3,893 |
 | Bother Kim After Hours | 3.00% | ~3,893 |
 | Baddest Of the Bad Cops | 2.00% | ~2,595 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~130 |
 | What body? | 0.10% | ~130 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,760 (Ranked 75)  
+Progressed: 129,763 (Ranked 75)  
 Completed: 28 (0.02%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 28 (0.02%) (Ranked 288)
 | 2023-10-13 | 129,658 | 28 |
 | 2023-10-14 | 129,707 | 28 |
 | 2023-10-15 | 129,755 | 28 |
-| 2023-10-16 | 129,760 | 28 |
+| 2023-10-16 | 129,763 | 28 |
 ## Awards
 Max (Character Customization): 733  (Ranked 173)  
 Sum: 1,104 (Ranked 241)  

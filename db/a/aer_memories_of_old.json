@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 111,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -410,11 +410,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22218,
-  "EOS_Completed": 438,
+  "EOS_Progressed": 22219,
+  "EOS_Completed": 439,
   "EOS_NewPlayers": 459,
-  "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 1.97,
+  "EOS_NewCompleters": 7,
+  "EOS_Completed_Percentage": 1.98,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:31.7860479+00:00",
@@ -19630,6 +19630,11 @@
       "Time": "2023-10-16T08:03:31.1145377+00:00",
       "NumProgressed": 22218,
       "NumCompleted": 438
+    },
+    {
+      "Time": "2023-10-16T09:04:05.8608856+00:00",
+      "NumProgressed": 22219,
+      "NumCompleted": 439
     }
   ],
   "TotalAchievements": 20,
@@ -19689,7 +19694,7 @@
       "Name": "An uninvited guest",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1777
+      "UsersEstimate": 1778
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -19761,7 +19766,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 17108
+      "UsersEstimate": 17109
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -19800,15 +19805,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 22218,
-      "Completed": 438
+      "Progressed": 22219,
+      "Completed": 439
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-16T08:03:31.1145371+00:00",
+  "LastChanged_Achievements": "2023-10-16T09:04:05.8608848+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:17.0806119+00:00",
-  "LastUpdate_Ratings": "2023-10-16T07:58:04.5645273+00:00",
-  "LastUpdate_Achievements": "2023-10-16T08:03:31.1146998+00:00"
+  "LastUpdate_Ratings": "2023-10-16T08:58:29.0988623+00:00",
+  "LastUpdate_Achievements": "2023-10-16T09:04:05.8610131+00:00"
 }
