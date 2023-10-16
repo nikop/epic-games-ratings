@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -9060,7 +9060,7 @@
       "Count": 716
     }
   ],
-  "EOS_Progressed": 298460,
+  "EOS_Progressed": 298465,
   "EOS_Completed": 488,
   "EOS_NewPlayers": 369,
   "EOS_NewCompleters": 6,
@@ -28280,6 +28280,11 @@
       "Time": "2023-10-16T19:07:12.4042088+00:00",
       "NumProgressed": 298460,
       "NumCompleted": 488
+    },
+    {
+      "Time": "2023-10-16T20:07:14.7697892+00:00",
+      "NumProgressed": 298465,
+      "NumCompleted": 488
     }
   ],
   "TotalAchievements": 45,
@@ -28291,7 +28296,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 44769
+      "UsersEstimate": 44770
     },
     {
       "ID": "PFA_10",
@@ -28411,7 +28416,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35815
+      "UsersEstimate": 35816
     },
     {
       "ID": "PFA_24",
@@ -28443,7 +28448,7 @@
       "Name": "Going Through the Potions",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11938
+      "UsersEstimate": 11939
     },
     {
       "ID": "PFA_28",
@@ -28491,7 +28496,7 @@
       "Name": "Room with a View",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11938
+      "UsersEstimate": 11939
     },
     {
       "ID": "PFA_33",
@@ -28515,7 +28520,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26861
+      "UsersEstimate": 26862
     },
     {
       "ID": "PFA_36",
@@ -28539,7 +28544,7 @@
       "Name": "The Intrepid Explorer",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 11938
+      "UsersEstimate": 11939
     },
     {
       "ID": "PFA_39",
@@ -28555,7 +28560,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11938
+      "UsersEstimate": 11939
     },
     {
       "ID": "PFA_40",
@@ -28595,7 +28600,7 @@
       "Name": "The Spell Master",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 26861
+      "UsersEstimate": 26862
     },
     {
       "ID": "PFA_45",
@@ -28611,7 +28616,7 @@
       "Name": "The Wise Owl",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11938
+      "UsersEstimate": 11939
     },
     {
       "ID": "PFA_6",
@@ -28635,7 +28640,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 35815
+      "UsersEstimate": 35816
     },
     {
       "ID": "PFA_9",
@@ -28643,14 +28648,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26861
+      "UsersEstimate": 26862
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298460,
+      "Progressed": 298465,
       "Completed": 488
     }
   ],
@@ -28658,8 +28663,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-16T15:57:15.0732445+00:00",
-  "LastChanged_Achievements": "2023-10-16T19:07:12.4042082+00:00",
+  "LastChanged_Achievements": "2023-10-16T20:07:14.7697887+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:16.623812+00:00",
-  "LastUpdate_Ratings": "2023-10-16T18:57:00.9511356+00:00",
-  "LastUpdate_Achievements": "2023-10-16T19:07:12.4043615+00:00"
+  "LastUpdate_Ratings": "2023-10-16T19:57:15.7928879+00:00",
+  "LastUpdate_Achievements": "2023-10-16T20:07:14.7699332+00:00"
 }

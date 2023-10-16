@@ -43,10 +43,10 @@ Rating: 4.18 (Ranked 900)
 | Expert Crime Fighter | 6.00% | ~4,415 |
 | A Worthy Successor | 6.00% | ~4,415 |
 | Dressed to Impress | 4.00% | ~2,943 |
+| He'd Be So Proud of You | 3.00% | ~2,207 |
 | A Momentum Occasion | 3.00% | ~2,207 |
 | Bat Out of Hell | 3.00% | ~2,207 |
 | Practice Makes Perfect | 2.00% | ~1,472 |
-| He'd Be So Proud of You | 2.00% | ~1,472 |
 | Talonted | 1.00% | ~736 |
 | The Man-Bat Family | 1.00% | ~736 |
 | Batarang Collector | 1.00% | ~736 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -1869,9 +1869,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14744,
+  "EOS_Progressed": 14745,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 188,
+  "EOS_NewPlayers": 184,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14009,6 +14009,11 @@
       "Time": "2023-10-16T18:10:31.5055129+00:00",
       "NumProgressed": 14744,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-16T20:10:24.8048592+00:00",
+      "NumProgressed": 14745,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -16418,9 +16423,9 @@
       "ID": "ACHIEVEMENT_EGYPT1_MINOR_VICTORY",
       "SetID": "9201eeb",
       "Name": "Kmt Unified",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 74
     },
     {
       "ID": "ACHIEVEMENT_EGYPT1_PHARAOH_MAJOR_VICTORY",
@@ -16755,21 +16760,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14744,
+      "Progressed": 14745,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14744,
+      "Progressed": 14745,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-16T14:58:00.080294+00:00",
-  "LastChanged_Achievements": "2023-10-16T19:10:31.1263687+00:00",
+  "LastChanged_Achievements": "2023-10-16T20:10:24.8048579+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:21.7880328+00:00",
-  "LastUpdate_Ratings": "2023-10-16T18:57:30.1991221+00:00",
-  "LastUpdate_Achievements": "2023-10-16T19:10:31.1274794+00:00"
+  "LastUpdate_Ratings": "2023-10-16T19:57:47.0869197+00:00",
+  "LastUpdate_Achievements": "2023-10-16T20:10:24.8061133+00:00"
 }

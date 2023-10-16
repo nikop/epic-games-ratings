@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -3520,9 +3520,9 @@
       "ID": "ENDGAME",
       "SetID": "9a4jnji",
       "Name": "Endgame",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 399
+      "UsersEstimate": 414
     },
     {
       "ID": "EXORCIST",
@@ -3785,8 +3785,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-10-07T23:58:40.5277412+00:00",
-  "LastChanged_Achievements": "2023-10-16T19:06:34.9927829+00:00",
+  "LastChanged_Achievements": "2023-10-16T20:06:27.105862+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:10.5073273+00:00",
-  "LastUpdate_Ratings": "2023-10-16T18:58:06.2869603+00:00",
-  "LastUpdate_Achievements": "2023-10-16T19:06:34.992837+00:00"
+  "LastUpdate_Ratings": "2023-10-16T19:58:21.4661165+00:00",
+  "LastUpdate_Achievements": "2023-10-16T20:06:27.1059185+00:00"
 }

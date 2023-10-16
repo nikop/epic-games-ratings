@@ -110,6 +110,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legionary | 0.50% | ~74 |
 | Phalangite | 0.50% | ~74 |
 | The Clergy | 0.50% | ~74 |
+| Kmt Unified | 0.50% | ~74 |
 | Capable | 0.40% | ~59 |
 | Devout | 0.40% | ~59 |
 | Ready | 0.40% | ~59 |
@@ -128,7 +129,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambition Victory | 0.40% | ~59 |
 | The Great Mage | 0.40% | ~59 |
 | Poetic Leader | 0.40% | ~59 |
-| Kmt Unified | 0.40% | ~59 |
 | Bad Heir Day | 0.30% | ~44 |
 | Ishtar Gate in Babylon | 0.30% | ~44 |
 | Carthage - Ox Hide | 0.30% | ~44 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,744 (Ranked 135)  
+Progressed: 14,745 (Ranked 135)  
 Completed: 5 (0.03%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -528,7 +528,7 @@ Completed: 5 (0.03%) (Ranked 283)
 | 2023-10-13 | 14,652 | 5 |
 | 2023-10-14 | 14,699 | 5 |
 | 2023-10-15 | 14,732 | 5 |
-| 2023-10-16 | 14,744 | 5 |
+| 2023-10-16 | 14,745 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,841 (Ranked 210)  

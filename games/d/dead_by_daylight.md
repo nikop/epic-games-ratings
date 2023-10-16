@@ -6,49 +6,49 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 2.00% | ~18,879 |
-| It wakes | 2.00% | ~18,879 |
-| Not half bad | 2.00% | ~18,879 |
-| Apt Survivor | 2.00% | ~18,879 |
-| Survival Treasures | 2.00% | ~18,879 |
-| Skillful | 2.00% | ~18,879 |
-| Make Some Noise | 2.00% | ~18,879 |
-| The Grand Sacrifice | 1.00% | ~9,440 |
-| Agonizing Escape | 1.00% | ~9,440 |
-| Backdoor Escape | 1.00% | ~9,440 |
-| No one left behind | 1.00% | ~9,440 |
-| Medic | 1.00% | ~9,440 |
-| Handyman | 1.00% | ~9,440 |
-| Perfect Escape | 1.00% | ~9,440 |
-| Bloody Millionaire | 1.00% | ~9,440 |
-| I | 1.00% | ~9,440 |
-| Engineer | 1.00% | ~9,440 |
-| Sorted | 1.00% | ~9,440 |
-| Healthy Obsession | 1.00% | ~9,440 |
-| Resurgence | 1.00% | ~9,440 |
-| Preemptive Strike | 1.00% | ~9,440 |
-| Humanitarian | 1.00% | ~9,440 |
-| I've got your back | 0.90% | ~8,496 |
-| Nerves of steel | 0.90% | ~8,496 |
-| Perfect Killing | 0.90% | ~8,496 |
-| Risk it all | 0.90% | ~8,496 |
-| Wounded Healer | 0.90% | ~8,496 |
-| Close Shave | 0.90% | ~8,496 |
-| Apt Killer | 0.80% | ~7,552 |
-| II | 0.80% | ~7,552 |
-| Second Act | 0.80% | ~7,552 |
-| Vulture | 0.70% | ~6,608 |
-| III | 0.70% | ~6,608 |
-| With Scars to Show | 0.70% | ~6,608 |
-| Rebuilding The Borgo | 0.70% | ~6,608 |
-| Escape Artist | 0.60% | ~5,664 |
-| Made it out alive! | 0.60% | ~5,664 |
-| Cherish your Life | 0.60% | ~5,664 |
-| First to the Punch | 0.60% | ~5,664 |
-| Every Last Drop | 0.60% | ~5,664 |
-| Raccoon City Recruit | 0.60% | ~5,664 |
-| Flight to Freedom | 0.60% | ~5,664 |
-| A Fast Death | 0.60% | ~5,664 |
+| Zealous | 2.00% | ~18,882 |
+| It wakes | 2.00% | ~18,882 |
+| Not half bad | 2.00% | ~18,882 |
+| Apt Survivor | 2.00% | ~18,882 |
+| Survival Treasures | 2.00% | ~18,882 |
+| Skillful | 2.00% | ~18,882 |
+| Make Some Noise | 2.00% | ~18,882 |
+| The Grand Sacrifice | 1.00% | ~9,441 |
+| Agonizing Escape | 1.00% | ~9,441 |
+| Backdoor Escape | 1.00% | ~9,441 |
+| No one left behind | 1.00% | ~9,441 |
+| Medic | 1.00% | ~9,441 |
+| Handyman | 1.00% | ~9,441 |
+| Perfect Escape | 1.00% | ~9,441 |
+| Bloody Millionaire | 1.00% | ~9,441 |
+| I | 1.00% | ~9,441 |
+| Engineer | 1.00% | ~9,441 |
+| Sorted | 1.00% | ~9,441 |
+| Healthy Obsession | 1.00% | ~9,441 |
+| Resurgence | 1.00% | ~9,441 |
+| Preemptive Strike | 1.00% | ~9,441 |
+| Humanitarian | 1.00% | ~9,441 |
+| I've got your back | 0.90% | ~8,497 |
+| Nerves of steel | 0.90% | ~8,497 |
+| Perfect Killing | 0.90% | ~8,497 |
+| Risk it all | 0.90% | ~8,497 |
+| Wounded Healer | 0.90% | ~8,497 |
+| Close Shave | 0.90% | ~8,497 |
+| Apt Killer | 0.80% | ~7,553 |
+| Vulture | 0.80% | ~7,553 |
+| II | 0.80% | ~7,553 |
+| Second Act | 0.80% | ~7,553 |
+| III | 0.70% | ~6,609 |
+| With Scars to Show | 0.70% | ~6,609 |
+| Rebuilding The Borgo | 0.70% | ~6,609 |
+| Escape Artist | 0.60% | ~5,665 |
+| Made it out alive! | 0.60% | ~5,665 |
+| Cherish your Life | 0.60% | ~5,665 |
+| First to the Punch | 0.60% | ~5,665 |
+| Every Last Drop | 0.60% | ~5,665 |
+| Raccoon City Recruit | 0.60% | ~5,665 |
+| Flight to Freedom | 0.60% | ~5,665 |
+| A Fast Death | 0.60% | ~5,665 |
 | Blood on your hands | 0.50% | ~4,720 |
 | Gifts for the Fog | 0.50% | ~4,720 |
 | III-50 | 0.50% | ~4,720 |
@@ -89,6 +89,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Game Over | 0.30% | ~2,832 |
 | Party Crasher | 0.30% | ~2,832 |
 | Outrage | 0.30% | ~2,832 |
+| Heavy Burden | 0.30% | ~2,832 |
 | Shrine Apparatus | 0.30% | ~2,832 |
 | Broken Bodies | 0.30% | ~2,832 |
 | Insult and Injury | 0.30% | ~2,832 |
@@ -99,7 +100,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Blood in your mouth | 0.20% | ~1,888 |
 | Looter | 0.20% | ~1,888 |
 | Whiffing to Success | 0.20% | ~1,888 |
-| Heavy Burden | 0.20% | ~1,888 |
+| Death of Ignorance | 0.20% | ~1,888 |
 | I See You | 0.20% | ~1,888 |
 | Power Moves | 0.20% | ~1,888 |
 | Punch Drunk | 0.20% | ~1,888 |
@@ -181,7 +182,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Deathslinger | 0.10% | ~944 |
 | Adept Zarina | 0.10% | ~944 |
 | Cleansed in Agony | 0.10% | ~944 |
-| Death of Ignorance | 0.10% | ~944 |
 | Adept Executioner | 0.10% | ~944 |
 | Adept Cheryl | 0.10% | ~944 |
 | Speed Kills | 0.10% | ~944 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~944 |
 | Adept Ripley | 0.10% | ~944 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 943,953 (Ranked 14)  
+Progressed: 944,089 (Ranked 14)  
 Completed: 51 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -415,10 +415,10 @@ Completed: 51 (0.01%) (Ranked 296)
 | 2023-10-13 | 937,037 | 50 |
 | 2023-10-14 | 939,759 | 50 |
 | 2023-10-15 | 942,498 | 51 |
-| 2023-10-16 | 943,953 | 51 |
+| 2023-10-16 | 944,089 | 51 |
 ## Awards
 Max (Diverse Characters): 33,980  (Ranked 15)  
-Sum: 262,849 (Ranked 13)  
+Sum: 262,873 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -430,7 +430,7 @@ Diff (max vs sum): 2
 | This game has Challenging Combat | 28,953 |
 | This game has Quickly Understood Controls | 28,822 |
 | This game has Amazing Storytelling | 26,941 |
-| This game has a Competitive Community | 25,439 |
+| This game has a Competitive Community | 25,463 |
 | This game has Obsessive Gameplay | 16,768 |
 | This game is Great for Quick Sessions | 4,888 |
 ## Ratings History
@@ -701,4 +701,4 @@ Diff (max vs sum): 2
 | 2023-10-13 | 4.51 | - | 33,824 | 261,989 |
 | 2023-10-14 | 4.51 | - | 33,877 | 262,341 |
 | 2023-10-15 | 4.51 | - | 33,934 | 262,670 |
-| 2023-10-16 | 4.51 | - | 33,980 | 262,849 |
+| 2023-10-16 | 4.51 | - | 33,980 | 262,873 |

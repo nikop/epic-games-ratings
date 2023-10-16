@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1014,
+  "EOS_Progressed": 1017,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 3.55,
+  "EOS_Completed_Percentage": 3.54,
   "EosHistory": [
     {
       "Time": "2023-08-08T23:02:04.1783243+00:00",
@@ -2361,6 +2361,11 @@
       "Time": "2023-10-16T19:11:09.1129443+00:00",
       "NumProgressed": 1014,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-10-16T20:10:41.8859393+00:00",
+      "NumProgressed": 1017,
+      "NumCompleted": 36
     }
   ],
   "AchievementsAdded": "2023-08-08T22:02:18.1743145+00:00",
@@ -2373,23 +2378,23 @@
       "Name": "Played!",
       "Percentage": 83,
       "XP": 200,
-      "UsersEstimate": 842
+      "UsersEstimate": 844
     },
     {
       "ID": "Mission2",
       "SetID": "6igjng7",
       "Name": "Mission 1 clear",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 200,
-      "UsersEstimate": 395
+      "UsersEstimate": 407
     },
     {
       "ID": "Mission3",
       "SetID": "6igjng7",
       "Name": "Mission 2 clear",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 200,
-      "UsersEstimate": 284
+      "UsersEstimate": 295
     },
     {
       "ID": "Mission4",
@@ -2412,14 +2417,14 @@
     {
       "ID": "6igjng7",
       "IsBase": true,
-      "Progressed": 1014,
+      "Progressed": 1017,
       "Completed": 36
     }
   ],
   "FirstSeen": "2023-08-19T18:58:05.6794692+00:00",
   "FirstSeenAchievements": "2023-08-08T21:02:12.6548497+00:00",
-  "LastChanged_Achievements": "2023-10-16T19:11:09.1129438+00:00",
+  "LastChanged_Achievements": "2023-10-16T20:10:41.8859381+00:00",
   "LastUpdate_AppInfo": "2023-10-16T13:57:00.9824525+00:00",
-  "LastUpdate_Ratings": "2023-10-16T19:03:01.8236583+00:00",
-  "LastUpdate_Achievements": "2023-10-16T19:11:09.1129675+00:00"
+  "LastUpdate_Ratings": "2023-10-16T20:03:05.7369453+00:00",
+  "LastUpdate_Achievements": "2023-10-16T20:10:41.885962+00:00"
 }

@@ -3580,7 +3580,7 @@
   ],
   "EOS_Progressed": 73577,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 219,
+  "EOS_NewPlayers": 217,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -19269,9 +19269,9 @@
       "ID": "HERO_PROGRESSION_2",
       "SetID": "4eo5ebm",
       "Name": "He\u0027d Be So Proud of You",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 1472
+      "UsersEstimate": 2207
     },
     {
       "ID": "HERO_PROGRESSION_3",
@@ -19420,8 +19420,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-16T13:59:05.1339063+00:00",
-  "LastChanged_Achievements": "2023-10-16T19:07:09.0745791+00:00",
+  "LastChanged_Achievements": "2023-10-16T20:07:11.3948786+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:41.7245252+00:00",
-  "LastUpdate_Ratings": "2023-10-16T18:59:46.933722+00:00",
-  "LastUpdate_Achievements": "2023-10-16T19:07:09.0747279+00:00"
+  "LastUpdate_Ratings": "2023-10-16T19:59:53.6935714+00:00",
+  "LastUpdate_Achievements": "2023-10-16T20:07:11.3950122+00:00"
 }

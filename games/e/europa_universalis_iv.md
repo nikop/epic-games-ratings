@@ -6,15 +6,15 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,307 |
-| Until death do us apart | 4.00% | ~17,307 |
-| That is mine! | 3.00% | ~12,980 |
-| Victorious! | 3.00% | ~12,980 |
-| Brothers in Arms | 2.00% | ~8,653 |
-| Cold War | 2.00% | ~8,653 |
-| For the Glory | 2.00% | ~8,653 |
-| That's a Grand Navy | 2.00% | ~8,653 |
-| Seriously?! | 2.00% | ~8,653 |
+| That's a Grand Army | 4.00% | ~17,308 |
+| Until death do us apart | 4.00% | ~17,308 |
+| That is mine! | 3.00% | ~12,981 |
+| Victorious! | 3.00% | ~12,981 |
+| Brothers in Arms | 2.00% | ~8,654 |
+| Cold War | 2.00% | ~8,654 |
+| For the Glory | 2.00% | ~8,654 |
+| That's a Grand Navy | 2.00% | ~8,654 |
+| Seriously?! | 2.00% | ~8,654 |
 | Defender of the Faith | 1.00% | ~4,327 |
 | It's all about the money | 1.00% | ~4,327 |
 | Respected | 1.00% | ~4,327 |
@@ -22,16 +22,16 @@ Number of Ratings: 8,414  (23.09.2022)
 | True Catholic | 1.00% | ~4,327 |
 | Truly Divine Ruler | 1.00% | ~4,327 |
 | It's all about luck | 0.90% | ~3,894 |
-| Blockader | 0.80% | ~3,461 |
-| Double the Love | 0.80% | ~3,461 |
-| Royal Authority | 0.80% | ~3,461 |
-| Total Control | 0.80% | ~3,461 |
+| Blockader | 0.80% | ~3,462 |
+| Double the Love | 0.80% | ~3,462 |
+| Royal Authority | 0.80% | ~3,462 |
+| Total Control | 0.80% | ~3,462 |
 | My armies are invincible! | 0.70% | ~3,029 |
-| Agressive Expander | 0.50% | ~2,163 |
-| Azur semé de lis or | 0.50% | ~2,163 |
-| City of Cities | 0.50% | ~2,163 |
-| Combined Arms | 0.50% | ~2,163 |
-| This navy can take it all | 0.50% | ~2,163 |
+| Agressive Expander | 0.50% | ~2,164 |
+| Azur semé de lis or | 0.50% | ~2,164 |
+| City of Cities | 0.50% | ~2,164 |
+| Combined Arms | 0.50% | ~2,164 |
+| This navy can take it all | 0.50% | ~2,164 |
 | Bright Spark | 0.40% | ~1,731 |
 | Factionalism | 0.40% | ~1,731 |
 | Gentle Persuasion | 0.40% | ~1,731 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 432,668 (Ranked 40)  
+Progressed: 432,710 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -540,7 +540,7 @@ Completed: 1 (0.00%) (Ranked 314)
 | 2023-10-13 | 429,869 | 1 |
 | 2023-10-14 | 431,056 | 1 |
 | 2023-10-15 | 432,104 | 1 |
-| 2023-10-16 | 432,668 | 1 |
+| 2023-10-16 | 432,710 | 1 |
 ## Awards
 Max (Educational): 6,551  (Ranked 55)  
 Sum: 53,875 (Ranked 25)  

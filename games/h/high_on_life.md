@@ -18,10 +18,10 @@ Rating: 4.64 (Ranked 321)
 | RIP Davey Glutes | 0.80% | ~194 |
 | We're All Very Impressed, Trust Me | 0.80% | ~194 |
 | Hardest Battle In The Game | 0.80% | ~194 |
+| Lezduit! | 0.70% | ~170 |
 | Self-Actualization | 0.70% | ~170 |
 | Spent 15 Hours At The Alien Strip Club | 0.70% | ~170 |
 | Bathe With A Giant Nude Alien | 0.70% | ~11 |
-| Lezduit! | 0.60% | ~145 |
 | Legendary Bounty Hunter | 0.60% | ~145 |
 | Fallout Doesn't Let You Do This | 0.60% | ~145 |
 | Series Wrap on Suit-O | 0.60% | ~145 |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 321)
 | It's Like The Santa Clause | 0.10% | ~2 |
 | That's B.A.L.L., Folks | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,235 (Ranked 119)  
+Progressed: 24,235 (Ranked 120)  
 Completed: 13 (0.05%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |

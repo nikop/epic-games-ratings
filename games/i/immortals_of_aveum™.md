@@ -42,8 +42,8 @@ Rating: 4.05 (Ranked 959)
 | Treasure Hunter | 5.00% | ~4 |
 | Master of Ultramarine | 3.00% | ~3 |
 | Master of Carmine | 3.00% | ~3 |
+| Master of Malachite | 3.00% | ~3 |
 | Grand Magnus | 2.00% | ~2 |
-| Master of Malachite | 2.00% | ~2 |
 | Tip of the Spear | 2.00% | ~2 |
 | Backtracker | 2.00% | ~2 |
 | Family Business | 1.00% | ~1 |
