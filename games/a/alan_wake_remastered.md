@@ -6,7 +6,7 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 43.00% | ~29,300 |
+| Follow the Light | 43.00% | ~29,301 |
 | Let There Be Light | 35.00% | ~23,849 |
 | Float Like a Butterfly | 34.00% | ~23,168 |
 | Nordic Walking | 28.00% | ~19,079 |
@@ -19,8 +19,8 @@ Number of Ratings: 524  (23.09.2022)
 | Sound and Fury | 17.00% | ~11,584 |
 | Missed by a Mile | 17.00% | ~11,584 |
 | Damn Good Cup of Coffee | 17.00% | ~11,584 |
-| Wheels Within Wheels | 16.00% | ~10,902 |
-| They're Heeeeeere! | 16.00% | ~10,902 |
+| Wheels Within Wheels | 16.00% | ~10,903 |
+| They're Heeeeeere! | 16.00% | ~10,903 |
 | Iron Horse | 15.00% | ~10,221 |
 | The Six-Gun Scribe | 15.00% | ~10,221 |
 | Collateral Carnage | 15.00% | ~10,221 |
@@ -33,7 +33,7 @@ Number of Ratings: 524  (23.09.2022)
 | Gatekeeper | 12.00% | ~8,177 |
 | The Lady of the Light | 12.00% | ~8,177 |
 | Energized! | 12.00% | ~8,177 |
-| Right of Way | 11.00% | ~7,495 |
+| Right of Way | 11.00% | ~7,496 |
 | What Light Through Yonder Window | 10.00% | ~6,814 |
 | Tornado Wrangler | 9.00% | ~6,133 |
 | A Friend in Need | 9.00% | ~2,845 |
@@ -42,7 +42,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hardboiled Writer | 7.00% | ~4,770 |
 | A Friend Indeed | 7.00% | ~2,213 |
 | Children of the Elder God | 6.00% | ~4,088 |
-| Ding! | 6.00% | ~1,896 |
+| Ding! | 6.00% | ~1,897 |
 | Boob Tube | 5.00% | ~3,407 |
 | If It Flies, It Burns | 5.00% | ~3,407 |
 | KBF-FM | 5.00% | ~3,407 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~68 |
 | No Punctuation | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,140 (Ranked 93)  
+Progressed: 68,141 (Ranked 93)  
 Completed: 69 (0.10%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,6 +253,7 @@ Completed: 69 (0.10%) (Ranked 246)
 | 2023-10-13 | 67,826 | 69 |
 | 2023-10-14 | 67,971 | 69 |
 | 2023-10-15 | 68,140 | 69 |
+| 2023-10-16 | 68,141 | 69 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

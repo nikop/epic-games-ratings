@@ -514,7 +514,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3581,
+  "EOS_Progressed": 3582,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
@@ -5184,6 +5184,11 @@
       "Time": "2023-10-15T20:06:40.8901645+00:00",
       "NumProgressed": 3581,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-16T00:06:51.0222769+00:00",
+      "NumProgressed": 3582,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -5203,7 +5208,7 @@
       "Name": "Ace Detective",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "AncestorsPride_13",
@@ -5283,7 +5288,7 @@
       "Name": "Gift from the Ancestors",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "HoldmyMeadandWatchThis_43",
@@ -5339,7 +5344,7 @@
       "Name": "Magic is a science",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "MasterofAurai_20",
@@ -5379,7 +5384,7 @@
       "Name": "Ready for Summer",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1862
+      "UsersEstimate": 1863
     },
     {
       "ID": "ReadyforWinter_42",
@@ -5395,7 +5400,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 859
+      "UsersEstimate": 860
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -5530,15 +5535,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3581,
+      "Progressed": 3582,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-17T17:59:20.5916626+00:00",
-  "LastChanged_Achievements": "2023-10-15T23:07:44.5480684+00:00",
+  "LastChanged_Achievements": "2023-10-16T00:06:51.0222761+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:37.8294259+00:00",
-  "LastUpdate_Ratings": "2023-10-15T23:01:54.5042632+00:00",
-  "LastUpdate_Achievements": "2023-10-15T23:07:44.5481192+00:00"
+  "LastUpdate_Ratings": "2023-10-16T00:00:54.5839253+00:00",
+  "LastUpdate_Achievements": "2023-10-16T00:06:51.0223476+00:00"
 }

@@ -1272,9 +1272,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 20095,
+  "EOS_Progressed": 20096,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 435,
+  "EOS_NewPlayers": 433,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -20632,6 +20632,11 @@
       "Time": "2023-10-15T23:05:24.0662802+00:00",
       "NumProgressed": 20095,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2023-10-16T00:04:44.8800619+00:00",
+      "NumProgressed": 20096,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 45,
@@ -20667,7 +20672,7 @@
       "Name": "Back to hell",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 7435
+      "UsersEstimate": 7436
     },
     {
       "ID": "CantRunCantHide",
@@ -20779,7 +20784,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 15272
+      "UsersEstimate": 15273
     },
     {
       "ID": "MoreThanHuman",
@@ -20787,7 +20792,7 @@
       "Name": "More than human",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 2411
+      "UsersEstimate": 2412
     },
     {
       "ID": "Neuromancer",
@@ -20835,7 +20840,7 @@
       "Name": "Perfection",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 6430
+      "UsersEstimate": 6431
     },
     {
       "ID": "PreempativeStrike",
@@ -20843,7 +20848,7 @@
       "Name": "Pre-empative strike",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2411
+      "UsersEstimate": 2412
     },
     {
       "ID": "PushItToTheLimit",
@@ -20867,7 +20872,7 @@
       "Name": "Running out of breath",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 10851
+      "UsersEstimate": 10852
     },
     {
       "ID": "RunningWild",
@@ -20907,7 +20912,7 @@
       "Name": "Strike",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2411
+      "UsersEstimate": 2412
     },
     {
       "ID": "SwordRunner",
@@ -20915,7 +20920,7 @@
       "Name": "Sword Runner",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 12258
+      "UsersEstimate": 12259
     },
     {
       "ID": "SwordToAGunfight",
@@ -20963,7 +20968,7 @@
       "Name": "Wallrunner",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 10650
+      "UsersEstimate": 10651
     },
     {
       "ID": "WaveOfMutilation",
@@ -20995,28 +21000,28 @@
       "Name": "Why not both",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 6028
+      "UsersEstimate": 6029
     }
   ],
   "AchievementSets": [
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 20095,
+      "Progressed": 20096,
       "Completed": 47
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 20095,
+      "Progressed": 20096,
       "Completed": 75
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-10-15T12:01:46.9350549+00:00",
-  "LastChanged_Achievements": "2023-10-15T23:05:24.0662797+00:00",
+  "LastChanged_Achievements": "2023-10-16T00:04:44.8800613+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:38.0192871+00:00",
-  "LastUpdate_Ratings": "2023-10-15T23:01:56.1758111+00:00",
-  "LastUpdate_Achievements": "2023-10-15T23:05:24.0664026+00:00"
+  "LastUpdate_Ratings": "2023-10-16T00:00:55.3700474+00:00",
+  "LastUpdate_Achievements": "2023-10-16T00:04:44.8802267+00:00"
 }

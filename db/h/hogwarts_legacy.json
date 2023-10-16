@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 27,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8962,10 +8962,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 45955,
       "NumberOfAwardsMax": 23559
+    },
+    {
+      "Time": "2023-10-16T00:01:21.4973845+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 45984,
+      "NumberOfAwardsMax": 23559
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 45955,
+  "NumberOfAwards": 45984,
   "NumberOfAwardsMax": 23559,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8979,7 +8985,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 11769
+      "Count": 11793
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -9003,7 +9009,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1134
+      "Count": 1139
     },
     {
       "Text": "This game has Diverse Characters",
@@ -9042,9 +9048,9 @@
       "Count": 716
     }
   ],
-  "EOS_Progressed": 298425,
+  "EOS_Progressed": 298428,
   "EOS_Completed": 488,
-  "EOS_NewPlayers": 370,
+  "EOS_NewPlayers": 372,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -28177,6 +28183,11 @@
       "Time": "2023-10-15T22:06:16.0338159+00:00",
       "NumProgressed": 298425,
       "NumCompleted": 488
+    },
+    {
+      "Time": "2023-10-16T00:05:12.1782194+00:00",
+      "NumProgressed": 298428,
+      "NumCompleted": 488
     }
   ],
   "TotalAchievements": 45,
@@ -28196,7 +28207,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29842
+      "UsersEstimate": 29843
     },
     {
       "ID": "PFA_11",
@@ -28220,7 +28231,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 29842
+      "UsersEstimate": 29843
     },
     {
       "ID": "PFA_14",
@@ -28284,7 +28295,7 @@
       "Name": "The Good Samaritan",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 5968
+      "UsersEstimate": 5969
     },
     {
       "ID": "PFA_21",
@@ -28292,7 +28303,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29842
+      "UsersEstimate": 29843
     },
     {
       "ID": "PFA_22",
@@ -28412,7 +28423,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26858
+      "UsersEstimate": 26859
     },
     {
       "ID": "PFA_36",
@@ -28420,7 +28431,7 @@
       "Name": "Rise to the Challenges",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 5968
+      "UsersEstimate": 5969
     },
     {
       "ID": "PFA_37",
@@ -28484,7 +28495,7 @@
       "Name": "Finishing Touches",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 5968
+      "UsersEstimate": 5969
     },
     {
       "ID": "PFA_44",
@@ -28492,7 +28503,7 @@
       "Name": "The Spell Master",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 26858
+      "UsersEstimate": 26859
     },
     {
       "ID": "PFA_45",
@@ -28516,7 +28527,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38795
+      "UsersEstimate": 38796
     },
     {
       "ID": "PFA_7",
@@ -28524,7 +28535,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38795
+      "UsersEstimate": 38796
     },
     {
       "ID": "PFA_8",
@@ -28540,23 +28551,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26858
+      "UsersEstimate": 26859
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298425,
+      "Progressed": 298428,
       "Completed": 488
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-10-15T23:02:26.3992225+00:00",
-  "LastChanged_Achievements": "2023-10-15T23:05:54.9407194+00:00",
+  "LastChanged": "2023-10-16T00:01:21.4973844+00:00",
+  "LastChanged_Achievements": "2023-10-16T00:05:12.1782188+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:16.623812+00:00",
-  "LastUpdate_Ratings": "2023-10-15T23:02:26.3992231+00:00",
-  "LastUpdate_Achievements": "2023-10-15T23:05:54.9408787+00:00"
+  "LastUpdate_Ratings": "2023-10-16T00:01:21.4973851+00:00",
+  "LastUpdate_Achievements": "2023-10-16T00:05:12.1783813+00:00"
 }

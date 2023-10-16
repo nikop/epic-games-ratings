@@ -4,7 +4,7 @@
   "ProductSlug": "enchanted-portals-65ca68",
   "Ranking_EOS_Progress": 485,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-09-26T11:00:00+00:00",
@@ -152,9 +152,9 @@
       "ID": "forest",
       "SetID": "40o2ndb",
       "Name": "Welcome to the whoOoOoOoOotel",
-      "Percentage": 75,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "hotel",
@@ -319,8 +319,8 @@
   ],
   "FirstSeen": "2023-09-28T10:00:15.1472211+00:00",
   "FirstSeenAchievements": "2023-09-13T08:04:00.4811231+00:00",
-  "LastChanged_Achievements": "2023-10-15T23:06:55.9368306+00:00",
+  "LastChanged_Achievements": "2023-10-16T00:06:07.2622494+00:00",
   "LastUpdate_AppInfo": "2023-10-15T19:57:18.3357437+00:00",
-  "LastUpdate_Ratings": "2023-10-15T23:02:02.0766241+00:00",
-  "LastUpdate_Achievements": "2023-10-15T23:06:55.9368656+00:00"
+  "LastUpdate_Ratings": "2023-10-16T00:00:59.7404241+00:00",
+  "LastUpdate_Achievements": "2023-10-16T00:06:07.2623272+00:00"
 }

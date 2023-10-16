@@ -26,7 +26,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 672,
+  "EOS_Progressed": 673,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
@@ -1801,6 +1801,11 @@
       "Time": "2023-10-15T23:06:11.8497807+00:00",
       "NumProgressed": 672,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-16T00:05:27.4967473+00:00",
+      "NumProgressed": 673,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -1845,7 +1850,7 @@
       "Name": "What\u0027s the cargo?",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "achievement_14",
@@ -2005,7 +2010,7 @@
       "Name": "Scrap collector",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "achievement_32",
@@ -2045,7 +2050,7 @@
       "Name": "Impressive. Most impressive.",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "achievement_37",
@@ -2053,7 +2058,7 @@
       "Name": "Off to a good start",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_38",
@@ -2077,7 +2082,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "achievement_40",
@@ -2085,7 +2090,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "achievement_41",
@@ -2117,7 +2122,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "achievement_45",
@@ -2163,9 +2168,9 @@
       "ID": "achievement_5",
       "SetID": "271ol84",
       "Name": "Shoot first",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 114
+      "UsersEstimate": 121
     },
     {
       "ID": "achievement_50",
@@ -2316,13 +2321,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 672,
+      "Progressed": 673,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 672,
+      "Progressed": 673,
       "Completed": 1
     }
   ],
@@ -2330,8 +2335,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-15T23:06:11.8497802+00:00",
+  "LastChanged_Achievements": "2023-10-16T00:05:27.4967467+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:22.846224+00:00",
-  "LastUpdate_Ratings": "2023-10-15T23:03:21.8380998+00:00",
-  "LastUpdate_Achievements": "2023-10-15T23:06:11.8498436+00:00"
+  "LastUpdate_Ratings": "2023-10-16T00:03:12.6372481+00:00",
+  "LastUpdate_Achievements": "2023-10-16T00:05:27.4968294+00:00"
 }

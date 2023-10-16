@@ -4,7 +4,7 @@
   "ProductSlug": "forest-grove-6b05cf",
   "Ranking_EOS_Progress": 528,
   "Ranking_EOS_Completed": 37,
-  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewPlayers": 397,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-11-28T13:00:00+00:00",
@@ -39,9 +39,9 @@
       "ID": "1",
       "SetID": "36pe9e2",
       "Name": "Entered the Nanodeck",
-      "Percentage": 50,
+      "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "10",
@@ -141,8 +141,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-10T13:09:13.1022391+00:00",
-  "LastChanged_Achievements": "2023-10-15T23:06:08.2451625+00:00",
+  "LastChanged_Achievements": "2023-10-16T00:05:24.135375+00:00",
   "LastUpdate_AppInfo": "2023-10-10T13:02:57.6865084+00:00",
-  "LastUpdate_Ratings": "2023-10-15T23:00:12.9503853+00:00",
-  "LastUpdate_Achievements": "2023-10-15T23:06:08.2451706+00:00"
+  "LastUpdate_Ratings": "2023-10-15T23:59:23.0787367+00:00",
+  "LastUpdate_Achievements": "2023-10-16T00:05:24.1353938+00:00"
 }

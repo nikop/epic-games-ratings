@@ -4,7 +4,7 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 218,
+  "EOS_Progressed": 219,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -938,6 +938,11 @@
       "Time": "2023-10-14T14:04:40.8044717+00:00",
       "NumProgressed": 218,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-16T00:05:33.8683004+00:00",
+      "NumProgressed": 219,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -965,7 +970,7 @@
       "Name": "Alone with Them",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -1043,9 +1048,9 @@
       "ID": "ETUA_ForcedtoKill",
       "SetID": "65jc0ap",
       "Name": "Forced to Kill",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 155
+      "UsersEstimate": 153
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -1101,7 +1106,7 @@
       "Name": "Open Sesame",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ETUA_OutRage",
@@ -1157,7 +1162,7 @@
       "Name": "Safe...For now?",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ETUA_StayDead",
@@ -1253,7 +1258,7 @@
       "Name": "What A Mansion",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ETUA_WhatHaveIDone",
@@ -1261,14 +1266,14 @@
       "Name": "What have I done!?",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     }
   ],
   "AchievementSets": [
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 218,
+      "Progressed": 219,
       "Completed": 1
     }
   ],
@@ -1276,8 +1281,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-10-15T23:06:18.9646334+00:00",
+  "LastChanged_Achievements": "2023-10-16T00:05:33.8682998+00:00",
   "LastUpdate_AppInfo": "2023-10-14T13:56:58.0301725+00:00",
-  "LastUpdate_Ratings": "2023-10-15T23:01:51.5263669+00:00",
-  "LastUpdate_Achievements": "2023-10-15T23:06:18.9646659+00:00"
+  "LastUpdate_Ratings": "2023-10-16T00:00:50.9238597+00:00",
+  "LastUpdate_Achievements": "2023-10-16T00:05:33.8683317+00:00"
 }

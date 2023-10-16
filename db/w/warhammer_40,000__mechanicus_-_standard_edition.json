@@ -783,7 +783,7 @@
       "Count": 98
     }
   ],
-  "EOS_Progressed": 224844,
+  "EOS_Progressed": 224846,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 534,
   "EOS_NewCompleters": 0,
@@ -20228,6 +20228,11 @@
       "Time": "2023-10-15T23:06:30.4934707+00:00",
       "NumProgressed": 224844,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-16T00:05:44.2908473+00:00",
+      "NumProgressed": 224846,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -20239,7 +20244,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 42720
+      "UsersEstimate": 42721
     },
     {
       "ID": "ACH_BASE_10",
@@ -20247,7 +20252,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 58459
+      "UsersEstimate": 58460
     },
     {
       "ID": "ACH_BASE_11",
@@ -20287,7 +20292,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 22484
+      "UsersEstimate": 22485
     },
     {
       "ID": "ACH_BASE_17",
@@ -20487,7 +20492,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 26981
+      "UsersEstimate": 26982
     },
     {
       "ID": "ACH_BASE_8",
@@ -20510,7 +20515,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 224844,
+      "Progressed": 224846,
       "Completed": 5
     }
   ],
@@ -20518,8 +20523,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-10-15T07:04:04.0148832+00:00",
-  "LastChanged_Achievements": "2023-10-15T23:06:30.4934704+00:00",
+  "LastChanged_Achievements": "2023-10-16T00:05:44.2908468+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:01.3902355+00:00",
-  "LastUpdate_Ratings": "2023-10-15T23:02:49.0807983+00:00",
-  "LastUpdate_Achievements": "2023-10-15T23:06:30.4935829+00:00"
+  "LastUpdate_Ratings": "2023-10-16T00:02:21.1357438+00:00",
+  "LastUpdate_Achievements": "2023-10-16T00:05:44.290983+00:00"
 }

@@ -10,7 +10,7 @@ Rating: 4.29 (Ranked 819)
 | Guard! Turn! Parry! Dodge! Spin! Ha! | 6.00% | ~2,312 |
 | Right Back Atcha | 6.00% | ~2,312 |
 | Killed by Death | 5.00% | ~1,927 |
-| Kill 'Em All | 4.00% | ~1,541 |
+| Kill 'Em All | 4.00% | ~1,542 |
 | Down Boy! | 2.00% | ~771 |
 | A Snowball's Chance in Hell | 2.00% | ~771 |
 | Enjoy The Silence | 1.00% | ~385 |
@@ -35,7 +35,7 @@ Rating: 4.29 (Ranked 819)
 | Heart Of Steel | 0.10% | ~39 |
 | Death or Glory | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,537 (Ranked 113)  
+Progressed: 38,539 (Ranked 113)  
 Completed: 25 (0.06%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,6 +214,7 @@ Completed: 25 (0.06%) (Ranked 265)
 | 2023-10-13 | 38,383 | 25 |
 | 2023-10-14 | 38,466 | 25 |
 | 2023-10-15 | 38,537 | 25 |
+| 2023-10-16 | 38,539 | 25 |
 ## Awards
 Max (Great Boss Battles): 127  (Ranked 320)  
 Sum: 127 (Ranked 418)  

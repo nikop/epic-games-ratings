@@ -5,19 +5,19 @@ Rating: 4.28 (Ranked 828)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~160,054 |
-| Copacetic Coordination | 16.00% | ~55,671 |
+| Corner Clout | 46.00% | ~160,057 |
+| Copacetic Coordination | 16.00% | ~55,672 |
 | Fronting the Money | 15.00% | ~52,192 |
-| The Dawn of Automation | 14.00% | ~48,712 |
-| Extraordinary Logistics | 14.00% | ~48,712 |
+| The Dawn of Automation | 14.00% | ~48,713 |
+| Extraordinary Logistics | 14.00% | ~48,713 |
 | Dirty Money | 13.00% | ~45,233 |
 | Family First | 13.00% | ~45,233 |
-| Cleaning House | 12.00% | ~41,753 |
-| Room in the Back | 12.00% | ~41,753 |
+| Cleaning House | 12.00% | ~41,754 |
+| Room in the Back | 12.00% | ~41,754 |
 | Beating the Heat | 11.00% | ~38,274 |
 | Booze Baron | 11.00% | ~38,274 |
-| Friends on the Force | 10.00% | ~34,794 |
-| Neighborhood Watch | 10.00% | ~34,794 |
+| Friends on the Force | 10.00% | ~34,795 |
+| Neighborhood Watch | 10.00% | ~34,795 |
 | Core Corps | 8.00% | ~27,836 |
 | Sizeable Stash | 8.00% | ~27,836 |
 | Street Fighter | 7.00% | ~24,356 |
@@ -60,7 +60,7 @@ Rating: 4.28 (Ranked 828)
 | The Rubber Meets the Road | 1.00% | ~3,479 |
 | Cat’s Meow Clubs | 1.00% | ~3,479 |
 | Stepping It Up | 1.00% | ~3,479 |
-| Determined Deliveries | 0.90% | ~3,131 |
+| Determined Deliveries | 0.90% | ~3,132 |
 | Boots in the Ground | 0.80% | ~2,784 |
 | Getting Fancy | 0.80% | ~2,784 |
 | Crossing Over | 0.80% | ~2,784 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 828)
 | High Pillow | 0.10% | ~348 |
 | Station Master | 0.10% | ~348 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 347,944 (Ranked 43)  
+Progressed: 347,949 (Ranked 43)  
 Completed: 7 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,6 +265,7 @@ Completed: 7 (0.00%) (Ranked 314)
 | 2023-10-13 | 347,589 | 7 |
 | 2023-10-14 | 347,785 | 7 |
 | 2023-10-15 | 347,944 | 7 |
+| 2023-10-16 | 347,949 | 7 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 445)  
 Sum: 177 (Ranked 398)  

@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 250376,
+  "EOS_Progressed": 250377,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 234,
+  "EOS_NewPlayers": 229,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16619,6 +16619,11 @@
       "Time": "2023-10-15T21:03:54.2652098+00:00",
       "NumProgressed": 250376,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-16T00:03:41.4850328+00:00",
+      "NumProgressed": 250377,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -16702,7 +16707,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37556
+      "UsersEstimate": 37557
     },
     {
       "ID": "clearCut",
@@ -16806,7 +16811,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 132699
+      "UsersEstimate": 132700
     },
     {
       "ID": "indegestible",
@@ -16862,7 +16867,7 @@
       "Name": "Muddy Waters",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37556
+      "UsersEstimate": 37557
     },
     {
       "ID": "myFirstRunbow",
@@ -16997,7 +17002,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 250376,
+      "Progressed": 250377,
       "Completed": 6
     }
   ],
@@ -17005,8 +17010,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-10-15T23:04:13.8088803+00:00",
+  "LastChanged_Achievements": "2023-10-16T00:03:41.4850322+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:46.1902995+00:00",
-  "LastUpdate_Ratings": "2023-10-15T22:59:15.1701366+00:00",
-  "LastUpdate_Achievements": "2023-10-15T23:04:13.8089905+00:00"
+  "LastUpdate_Ratings": "2023-10-15T23:58:34.1729469+00:00",
+  "LastUpdate_Achievements": "2023-10-16T00:03:41.4851829+00:00"
 }

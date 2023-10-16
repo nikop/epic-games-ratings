@@ -530,9 +530,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 68140,
+  "EOS_Progressed": 68141,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 772,
+  "EOS_NewPlayers": 769,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -18160,6 +18160,11 @@
       "Time": "2023-10-15T23:09:21.1774319+00:00",
       "NumProgressed": 68140,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-10-16T00:09:17.6211027+00:00",
+      "NumProgressed": 68141,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 67,
@@ -18171,7 +18176,7 @@
       "Name": "Follow the Light",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 29300
+      "UsersEstimate": 29301
     },
     {
       "ID": "02",
@@ -18235,7 +18240,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10902
+      "UsersEstimate": 10903
     },
     {
       "ID": "10",
@@ -18331,7 +18336,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10902
+      "UsersEstimate": 10903
     },
     {
       "ID": "22",
@@ -18483,7 +18488,7 @@
       "Name": "Right of Way",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 7495
+      "UsersEstimate": 7496
     },
     {
       "ID": "41",
@@ -18635,7 +18640,7 @@
       "Name": "Ding!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 1896
+      "UsersEstimate": 1897
     },
     {
       "ID": "60",
@@ -18706,21 +18711,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 68140,
+      "Progressed": 68141,
       "Completed": 69
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 31608,
+      "Progressed": 31609,
       "Completed": 56
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-10-15T17:00:51.0495821+00:00",
-  "LastChanged_Achievements": "2023-10-15T23:09:21.1774313+00:00",
+  "LastChanged_Achievements": "2023-10-16T00:09:17.6211022+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:29.5404552+00:00",
-  "LastUpdate_Ratings": "2023-10-15T23:02:34.3929448+00:00",
-  "LastUpdate_Achievements": "2023-10-15T23:09:21.177572+00:00"
+  "LastUpdate_Ratings": "2023-10-16T00:02:08.471726+00:00",
+  "LastUpdate_Achievements": "2023-10-16T00:09:17.6212688+00:00"
 }
