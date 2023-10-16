@@ -56,7 +56,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1611,
+  "EOS_Progressed": 1612,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
@@ -5971,6 +5971,11 @@
       "Time": "2023-10-16T15:08:57.5714105+00:00",
       "NumProgressed": 1611,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-16T18:07:35.1419319+00:00",
+      "NumProgressed": 1612,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6086,7 +6091,7 @@
       "Name": "Facility Online",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -6166,7 +6171,7 @@
       "Name": "Covert Operative",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -6244,9 +6249,9 @@
       "ID": "objective_research_unlock_air_vehicle_tier_4",
       "SetID": "bm61c2p",
       "Name": "Advanced Interceptors",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "objective_research_unlock_ground_vehicle_tier_4",
@@ -6260,32 +6265,32 @@
       "ID": "objective_research_unlock_heavy_infantry_tier_4",
       "SetID": "bm61c2p",
       "Name": "Shock Troops",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "objective_research_unlock_light_infantry_tier_4",
       "SetID": "bm61c2p",
       "Name": "Jet Troops",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "objective_upgrade_dropships_2",
       "SetID": "bm61c2p",
       "Name": "Control the Skies",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 48
     }
   ],
   "AchievementSets": [
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1611,
+      "Progressed": 1612,
       "Completed": 1
     }
   ],
@@ -6293,8 +6298,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-10-16T17:09:15.1739283+00:00",
+  "LastChanged_Achievements": "2023-10-16T18:07:35.1419315+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:23.525424+00:00",
-  "LastUpdate_Ratings": "2023-10-16T17:03:24.8490396+00:00",
-  "LastUpdate_Achievements": "2023-10-16T17:09:15.1739799+00:00"
+  "LastUpdate_Ratings": "2023-10-16T18:02:36.1177786+00:00",
+  "LastUpdate_Achievements": "2023-10-16T18:07:35.1419927+00:00"
 }

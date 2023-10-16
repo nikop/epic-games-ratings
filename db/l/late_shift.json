@@ -4,8 +4,8 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 311,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2017-04-18T17:00:00+00:00",
@@ -1047,6 +1047,6 @@
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
   "LastChanged_Achievements": "2023-10-16T17:12:30.4797734+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:20.5549393+00:00",
-  "LastUpdate_Ratings": "2023-10-16T16:59:29.5247798+00:00",
+  "LastUpdate_Ratings": "2023-10-16T17:59:07.2208217+00:00",
   "LastUpdate_Achievements": "2023-10-16T17:12:30.4797886+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -157,9 +157,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1420,
+  "EOS_Progressed": 1421,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -1602,6 +1602,11 @@
       "Time": "2023-10-15T00:03:14.5661557+00:00",
       "NumProgressed": 1420,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-16T18:06:04.5520872+00:00",
+      "NumProgressed": 1421,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 56,
@@ -1677,7 +1682,7 @@
       "Name": "Gotta Ca... Must Collect All of Them",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "achievement_endTurnInGrayplane5Times",
@@ -1685,7 +1690,7 @@
       "Name": "Passing Shadow",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "achievement_friendsBlock20Times",
@@ -1773,7 +1778,7 @@
       "Name": "This Too Shall Pass",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_loversVengeance10Kills",
@@ -1789,7 +1794,7 @@
       "Name": "The Cost of Heroism",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "achievement_mythwalker",
@@ -1805,7 +1810,7 @@
       "Name": "Cutthroat Competitors",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -1829,7 +1834,7 @@
       "Name": "Pyrrhic Victory",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "completedStory_cvawn",
@@ -2060,15 +2065,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1420,
+      "Progressed": 1421,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-09-16T17:00:08.5779719+00:00",
-  "LastChanged_Achievements": "2023-10-16T17:07:25.5223942+00:00",
+  "LastChanged_Achievements": "2023-10-16T18:06:04.5520868+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:14.4249097+00:00",
-  "LastUpdate_Ratings": "2023-10-16T16:59:43.9795241+00:00",
-  "LastUpdate_Achievements": "2023-10-16T17:07:25.5224426+00:00"
+  "LastUpdate_Ratings": "2023-10-16T17:59:23.9423253+00:00",
+  "LastUpdate_Achievements": "2023-10-16T18:06:04.5521444+00:00"
 }

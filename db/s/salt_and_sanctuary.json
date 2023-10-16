@@ -2703,7 +2703,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 535579,
+  "EOS_Progressed": 535580,
   "EOS_Completed": 1578,
   "EOS_NewPlayers": 536,
   "EOS_NewCompleters": 11,
@@ -22288,6 +22288,11 @@
       "Time": "2023-10-16T17:09:13.0412906+00:00",
       "NumProgressed": 535579,
       "NumCompleted": 1578
+    },
+    {
+      "Time": "2023-10-16T18:07:33.3656104+00:00",
+      "NumProgressed": 535580,
+      "NumCompleted": 1578
     }
   ],
   "TotalAchievements": 37,
@@ -22315,7 +22320,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 166029
+      "UsersEstimate": 166030
     },
     {
       "ID": "DEVOTED",
@@ -22571,7 +22576,7 @@
       "Name": "The Village",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 91048
+      "UsersEstimate": 91049
     },
     {
       "ID": "THE_ZIGGURAT",
@@ -22594,15 +22599,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 535579,
+      "Progressed": 535580,
       "Completed": 1578
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-10-16T15:59:05.91541+00:00",
-  "LastChanged_Achievements": "2023-10-16T17:09:13.0412902+00:00",
+  "LastChanged_Achievements": "2023-10-16T18:07:33.3656099+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:31.6704285+00:00",
-  "LastUpdate_Ratings": "2023-10-16T16:59:57.2818702+00:00",
-  "LastUpdate_Achievements": "2023-10-16T17:09:13.0414035+00:00"
+  "LastUpdate_Ratings": "2023-10-16T17:59:37.7243216+00:00",
+  "LastUpdate_Achievements": "2023-10-16T18:07:33.3657494+00:00"
 }

@@ -30,7 +30,7 @@
 | Not what it seems | 16.00% | ~88 |
 | That's much better! | 15.00% | ~83 |
 | Not as clumsy or random | 13.00% | ~72 |
-| Blade Runner | 10.00% | ~55 |
+| Blade Runner | 11.00% | ~61 |
 | Perfect hearing | 9.00% | ~50 |
 | Meticulous | 8.00% | ~44 |
 | Lucky dog | 5.00% | ~28 |

@@ -4,7 +4,7 @@
   "ProductSlug": "riders-republic",
   "Ranking_Rating": 138,
   "Ranking_Popularity": 174,
-  "Ranking_PopularitySum": 112,
+  "Ranking_PopularitySum": 122,
   "Ranking_EOS_Progress": 671,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 393,
@@ -8308,10 +8308,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 7228,
       "NumberOfAwardsMax": 717
+    },
+    {
+      "Time": "2023-10-16T17:59:29.4097051+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 6638,
+      "NumberOfAwardsMax": 717
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7228,
+  "NumberOfAwards": 6638,
   "NumberOfAwardsMax": 717,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -8379,7 +8385,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 687
+      "Count": 694
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -8405,8 +8411,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:50.8722129+00:00",
-  "LastChanged": "2023-10-16T13:07:35.3288059+00:00",
+  "LastChanged": "2023-10-16T17:59:29.409705+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:30.6654638+00:00",
-  "LastUpdate_Ratings": "2023-10-16T16:59:53.1794206+00:00",
-  "LastUpdate_Achievements": "2023-10-16T17:08:28.6659605+00:00"
+  "LastUpdate_Ratings": "2023-10-16T17:59:29.4097059+00:00",
+  "LastUpdate_Achievements": "2023-10-16T18:06:56.5774051+00:00"
 }

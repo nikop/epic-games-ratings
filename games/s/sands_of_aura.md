@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting Sail | 100.00% | ~1 |
+| Setting Sail | 50.00% | ~1 |
 | Rain Must Fall | 0.00% | ~0 |
 | No Salvation | 0.00% | ~0 |
 | Overboard | 0.00% | ~0 |
@@ -63,12 +63,13 @@
 | Savage Progeny | 0.00% | ~0 |
 | Champion of Starspire | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 616)  
+Progressed: 2 (Ranked 588)  
 Completed: 0 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-10-14 | 1 | 0 |
+| 2023-10-16 | 2 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

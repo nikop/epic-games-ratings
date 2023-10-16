@@ -6,37 +6,37 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 71.00% | ~633,490 |
-| Right Back At Ya | 45.00% | ~401,508 |
-| The Lovers | 39.00% | ~347,973 |
-| Stanislavski's Method | 33.00% | ~294,439 |
-| The Wheel of Fortune | 33.00% | ~294,439 |
-| The Hermit | 30.00% | ~267,672 |
-| The High Priestess | 29.00% | ~258,749 |
-| True Soldier | 29.00% | ~258,749 |
-| Christmas Tree Attack | 26.00% | ~231,982 |
-| Full Body Conversion | 24.00% | ~214,137 |
-| Life of the Road | 23.00% | ~205,215 |
-| Ten out of Ten | 22.00% | ~196,293 |
-| The World | 22.00% | ~196,293 |
-| Master Crafter | 20.00% | ~178,448 |
-| True Warrior | 20.00% | ~178,448 |
-| Bushido and Chill | 19.00% | ~169,525 |
-| Gun Fu | 18.00% | ~160,603 |
-| I Am The Law | 16.00% | ~142,758 |
-| To Protect and Serve | 15.00% | ~133,836 |
-| Breathtaking | 14.00% | ~124,913 |
-| The Quick and the Dead | 13.00% | ~115,991 |
-| Rough Landing | 13.00% | ~115,991 |
-| The Jungle | 12.00% | ~107,069 |
-| To Bad Decisions! | 11.00% | ~98,146 |
-| The Wandering Fool | 11.00% | ~98,146 |
-| Gunslinger | 10.00% | ~89,224 |
-| Mean Streets | 10.00% | ~89,224 |
+| The Fool | 71.00% | ~633,495 |
+| Right Back At Ya | 45.00% | ~401,511 |
+| The Lovers | 39.00% | ~347,976 |
+| Stanislavski's Method | 33.00% | ~294,442 |
+| The Wheel of Fortune | 33.00% | ~294,442 |
+| The Hermit | 30.00% | ~267,674 |
+| The High Priestess | 29.00% | ~258,752 |
+| True Soldier | 29.00% | ~258,752 |
+| Christmas Tree Attack | 26.00% | ~231,984 |
+| Full Body Conversion | 24.00% | ~214,139 |
+| Life of the Road | 23.00% | ~205,217 |
+| Ten out of Ten | 22.00% | ~196,294 |
+| The World | 22.00% | ~196,294 |
+| Master Crafter | 20.00% | ~178,449 |
+| True Warrior | 20.00% | ~178,449 |
+| Bushido and Chill | 19.00% | ~169,527 |
+| Gun Fu | 18.00% | ~160,604 |
+| I Am The Law | 16.00% | ~142,760 |
+| To Protect and Serve | 15.00% | ~133,837 |
+| Breathtaking | 14.00% | ~124,915 |
+| The Quick and the Dead | 13.00% | ~115,992 |
+| Rough Landing | 13.00% | ~115,992 |
+| The Jungle | 12.00% | ~107,070 |
+| To Bad Decisions! | 11.00% | ~98,147 |
+| The Wandering Fool | 11.00% | ~98,147 |
+| Gunslinger | 10.00% | ~89,225 |
+| Mean Streets | 10.00% | ~89,225 |
 | Temperance | 9.00% | ~80,302 |
-| The Star | 8.00% | ~71,379 |
-| The Sun | 8.00% | ~71,379 |
-| City Lights | 6.00% | ~53,534 |
+| The Star | 8.00% | ~71,380 |
+| The Sun | 8.00% | ~71,380 |
+| City Lights | 6.00% | ~53,535 |
 | Must Be Rats | 5.00% | ~44,612 |
 | The Devil | 5.00% | ~44,612 |
 | Greetings from Pacifica! | 5.00% | ~44,612 |
@@ -64,7 +64,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 892,239 (Ranked 15)  
+Progressed: 892,247 (Ranked 15)  
 Completed: 2,673 (0.30%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,10 +243,10 @@ Completed: 2,673 (0.30%) (Ranked 204)
 | 2023-10-13 | 891,483 | 2,655 |
 | 2023-10-14 | 891,800 | 2,661 |
 | 2023-10-15 | 892,108 | 2,671 |
-| 2023-10-16 | 892,239 | 2,673 |
+| 2023-10-16 | 892,247 | 2,673 |
 ## Awards
 Max (Character Customization): 98,623  (Ranked 9)  
-Sum: 306,131 (Ranked 11)  
+Sum: 306,265 (Ranked 11)  
 Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |
@@ -260,7 +260,7 @@ Diff (max vs sum): -2
 | This game has Amazing Characters | 15,721 |
 | This game is Relaxing | 15,255 |
 | This game has Quickly Understood Controls | 15,142 |
-| This game has a Creative Community | 10,351 |
+| This game has a Creative Community | 10,485 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -534,4 +534,4 @@ Diff (max vs sum): -2
 | 2023-10-13 | 4.64 | - | 97,173 | 297,296 |
 | 2023-10-14 | 4.64 | - | 97,710 | 300,719 |
 | 2023-10-15 | 4.64 | - | 98,252 | 303,777 |
-| 2023-10-16 | 4.64 | - | 98,623 | 306,131 |
+| 2023-10-16 | 4.64 | - | 98,623 | 306,265 |

@@ -228,7 +228,7 @@ Completed: 75 (0.47%) (Ranked 177)
 | 2023-10-16 | 16,014 | 75 |
 ## Awards
 Max (Highly Recommended): 76  (Ranked 380)  
-Sum: 446 (Ranked 323)  
+Sum: 447 (Ranked 323)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
@@ -236,7 +236,7 @@ Diff (max vs sum): 57
 | This game has Amazing Storytelling | 76 |
 | This game has Amazing Characters | 73 |
 | This game has Quickly Understood Controls | 72 |
-| This game is Extremely Fun | 66 |
+| This game is Extremely Fun | 67 |
 | This game has Challenging Combat | 57 |
 | This game has a Creative Community | 26 |
 ## Ratings History
@@ -379,4 +379,4 @@ Diff (max vs sum): 57
 | 2023-10-11 | 4.19 | 76 | 442 |
 | 2023-10-12 | 4.19 | 76 | 443 |
 | 2023-10-13 | 4.19 | 76 | 445 |
-| 2023-10-16 | 4.19 | 76 | 446 |
+| 2023-10-16 | 4.19 | 76 | 447 |

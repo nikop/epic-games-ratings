@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 453,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -6413,9 +6413,9 @@
       "ID": "hunter",
       "SetID": "3nl4bcg",
       "Name": "Hunter",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 225
+      "UsersEstimate": 245
     },
     {
       "ID": "inspection",
@@ -6758,8 +6758,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-10-12T17:59:57.3603053+00:00",
-  "LastChanged_Achievements": "2023-10-16T17:12:38.9256448+00:00",
+  "LastChanged_Achievements": "2023-10-16T18:11:12.3613841+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:40.7167186+00:00",
-  "LastUpdate_Ratings": "2023-10-16T17:05:17.3640006+00:00",
-  "LastUpdate_Achievements": "2023-10-16T17:12:38.9257368+00:00"
+  "LastUpdate_Ratings": "2023-10-16T18:04:08.8375928+00:00",
+  "LastUpdate_Achievements": "2023-10-16T18:11:12.361494+00:00"
 }

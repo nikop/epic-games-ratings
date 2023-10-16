@@ -2,7 +2,7 @@
   "ID": "e1055bf1e5654b93a27e19e6bb86cb2a",
   "Name": "Tropico 6",
   "ProductSlug": "tropico-6",
-  "Ranking_Rating": 281,
+  "Ranking_Rating": 280,
   "Ranking_Popularity": 348,
   "Ranking_PopularitySum": 283,
   "Ranking_EOS_Progress": 169,
@@ -1254,9 +1254,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5584,
+  "EOS_Progressed": 5585,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -11404,6 +11404,11 @@
       "Time": "2023-10-16T15:10:02.7163595+00:00",
       "NumProgressed": 5584,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-16T18:09:18.79584+00:00",
+      "NumProgressed": 5585,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -11471,7 +11476,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -11575,7 +11580,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4188
+      "UsersEstimate": 4189
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -11671,7 +11676,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2624
+      "UsersEstimate": 2625
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -11734,15 +11739,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5584,
+      "Progressed": 5585,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-10-16T15:02:29.2837465+00:00",
-  "LastChanged_Achievements": "2023-10-16T17:10:19.0371604+00:00",
+  "LastChanged_Achievements": "2023-10-16T18:09:18.7958394+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:19.8725489+00:00",
-  "LastUpdate_Ratings": "2023-10-16T17:02:55.636129+00:00",
-  "LastUpdate_Achievements": "2023-10-16T17:10:19.0372359+00:00"
+  "LastUpdate_Ratings": "2023-10-16T18:02:09.7830141+00:00",
+  "LastUpdate_Achievements": "2023-10-16T18:09:18.7959307+00:00"
 }
