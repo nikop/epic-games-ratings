@@ -2,7 +2,7 @@
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 1 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 100.00% |
-| 3 | [The Riflemen](games/t/the_riflemen.md) | 48.83% |
+| 3 | [The Riflemen](games/t/the_riflemen.md) | 48.82% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.15% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.99% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
@@ -153,7 +153,7 @@
 | 150 | [Hades](games/h/hades.md) | 0.91% |
 | 152 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.85% |
 | 152 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
-| 154 | [Dungeons 3](games/d/dungeons_3.md) | 0.79% |
+| 154 | [Dungeons 3](games/d/dungeons_3.md) | 0.80% |
 | 155 | [Eternights](games/e/eternights.md) | 0.74% |
 | 155 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.74% |
 | 157 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.72% |
@@ -212,9 +212,9 @@
 | 208 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.29% |
 | 211 | [The Devil's Face](games/t/the_devil's_face.md) | 0.27% |
 | 212 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.26% |
-| 212 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.26% |
-| 214 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
-| 214 | [Filament](games/f/filament.md) | 0.25% |
+| 213 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
+| 213 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.25% |
+| 213 | [Filament](games/f/filament.md) | 0.25% |
 | 216 | [Scrapnaut](games/s/scrapnaut.md) | 0.24% |
 | 217 | [Despot's Game](games/d/despot's_game.md) | 0.23% |
 | 217 | [Going Medieval](games/g/going_medieval.md) | 0.23% |
@@ -263,14 +263,14 @@
 | 261 | [Partisans 1941](games/p/partisans_1941.md) | 0.07% |
 | 261 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.07% |
 | 261 | [Saints Row](games/s/saints_row.md) | 0.07% |
+| 261 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
 | 261 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
-| 265 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.06% |
-| 265 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.06% |
-| 265 | [Operation New Earth](games/o/operation_new_earth.md) | 0.06% |
-| 265 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
-| 265 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.06% |
-| 265 | [Transport Fever 2](games/t/transport_fever_2.md) | 0.06% |
-| 265 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
+| 266 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.06% |
+| 266 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.06% |
+| 266 | [Operation New Earth](games/o/operation_new_earth.md) | 0.06% |
+| 266 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
+| 266 | [Transport Fever 2](games/t/transport_fever_2.md) | 0.06% |
+| 266 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
 | 272 | [Absolute Drift](games/a/absolute_drift.md) | 0.05% |
 | 272 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
 | 272 | [High On Life](games/h/high_on_life.md) | 0.05% |

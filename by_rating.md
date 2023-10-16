@@ -491,7 +491,7 @@
 | 473 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.56 | 0 | 537 |
 | 473 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.56 | 31 | 474 |
 | 473 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.56 | 0 | 537 |
-| 473 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 4,638 | 76 |
+| 473 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 4,644 | 76 |
 | 493 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 537 |
 | 493 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.55 | 0 | 537 |
 | 493 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.55 | 1,542 | 124 |
@@ -586,7 +586,7 @@
 | 574 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,875 | 96 |
 | 574 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 113 | 334 |
 | 574 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 0 | 537 |
-| 574 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 647 | 186 |
+| 574 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 648 | 186 |
 | 574 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 0 | 537 |
 | 574 | [Solitairica](games/s/solitairica.md) | 4.50 | 84 | 369 |
 | 574 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.50 | 0 | 537 |
@@ -615,18 +615,18 @@
 | 609 | [Redout 2](games/r/redout_2.md) | 4.48 | 0 | 537 |
 | 609 | [Rocket League®](games/r/rocket_league®.md) | 4.48 | 578,292 | 2 |
 | 609 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.48 | 0 | 537 |
+| 609 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.48 | 0 | 537 |
 | 609 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.48 | 0 | 537 |
 | 609 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.48 | 103 | 342 |
 | 609 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.48 | 8,243 | 44 |
 | 609 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 0 | 537 |
 | 609 | [Train Valley](games/t/train_valley.md) | 4.48 | 0 | 537 |
-| 621 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 0 | 537 |
-| 621 | [Faeria](games/f/faeria.md) | 4.47 | 113 | 334 |
-| 621 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.47 | 0 | 537 |
-| 621 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,554 | 90 |
-| 621 | [Riverbond](games/r/riverbond.md) | 4.47 | 20 | 530 |
-| 621 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.47 | 0 | 537 |
-| 621 | [The Escapists](games/t/the_escapists.md) | 4.47 | 0 | 537 |
+| 622 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 0 | 537 |
+| 622 | [Faeria](games/f/faeria.md) | 4.47 | 113 | 334 |
+| 622 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.47 | 0 | 537 |
+| 622 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,554 | 90 |
+| 622 | [Riverbond](games/r/riverbond.md) | 4.47 | 20 | 530 |
+| 622 | [The Escapists](games/t/the_escapists.md) | 4.47 | 0 | 537 |
 | 628 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 0 | 537 |
 | 628 | [ATOM RPG](games/a/atom_rpg.md) | 4.46 | 50 | 415 |
 | 628 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,631 | 89 |
@@ -733,6 +733,7 @@
 | 730 | [Dungeon Fighter Online](games/b/b567cb36ae39435792fe40d2e913cd92.md) | 4.39 | 0 | 537 |
 | 730 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | 0 | 537 |
 | 730 | [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 4.39 | 0 | 537 |
+| 730 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 589 | 191 |
 | 730 | [MORDHAU](games/m/mordhau.md) | 4.39 | 784 | 164 |
 | 730 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,771 | 35 |
 | 730 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.39 | 74 | 382 |
@@ -742,14 +743,13 @@
 | 730 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.39 | 0 | 537 |
 | 730 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.39 | 0 | 537 |
 | 730 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.39 | 0 | 537 |
-| 743 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 0 | 537 |
-| 743 | [Beholder 3](games/b/beholder_3.md) | 4.38 | 0 | 537 |
-| 743 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 589 | 191 |
-| 743 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 164 | 301 |
-| 743 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 174 | 292 |
-| 743 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.38 | 47 | 423 |
-| 743 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 537 |
-| 743 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.38 | 0 | 537 |
+| 744 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 0 | 537 |
+| 744 | [Beholder 3](games/b/beholder_3.md) | 4.38 | 0 | 537 |
+| 744 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 164 | 301 |
+| 744 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 174 | 292 |
+| 744 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.38 | 47 | 423 |
+| 744 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 537 |
+| 744 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.38 | 0 | 537 |
 | 751 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 0 | 537 |
 | 751 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 4.37 | 86 | 364 |
 | 751 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.37 | 0 | 537 |
@@ -1009,8 +1009,8 @@
 | 1,007 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.72 | 0 | 537 |
 | 1,008 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.71 | 0 | 537 |
 | 1,008 | [Blood of Steel](games/b/blood_of_steel.md) | 3.71 | 0 | 537 |
-| 1,010 | [Blazing Sails](games/b/blazing_sails.md) | 3.68 | 0 | 537 |
-| 1,010 | [Chainmonsters](games/c/chainmonsters.md) | 3.68 | 0 | 537 |
+| 1,010 | [Blazing Sails](games/b/blazing_sails.md) | 3.69 | 0 | 537 |
+| 1,011 | [Chainmonsters](games/c/chainmonsters.md) | 3.68 | 0 | 537 |
 | 1,012 | [Adios](games/a/adios.md) | 3.55 | 0 | 537 |
 | 1,013 | [Redfall](games/r/redfall.md) | 3.51 | 0 | 537 |
 | 1,014 | [Operation New Earth](games/o/operation_new_earth.md) | 3.38 | 0 | 537 |
