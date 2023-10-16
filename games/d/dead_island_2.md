@@ -37,21 +37,21 @@ Rating: 4.54 (Ranked 511)
 | Max Headroom | 1.00% | ~6,965 |
 | Go, Bobcats! | 1.00% | ~6,965 |
 | Rising Star | 1.00% | ~6,965 |
-| Smorgasbord | 0.90% | ~6,268 |
+| Smorgasbord | 0.90% | ~6,269 |
 | Not Even My Final Form | 0.80% | ~5,572 |
 | Internet Famous | 0.80% | ~5,572 |
-| On Safari | 0.70% | ~4,875 |
-| Variety is the Spice of Death | 0.70% | ~4,875 |
+| On Safari | 0.70% | ~4,876 |
+| Variety is the Spice of Death | 0.70% | ~4,876 |
 | Make it So | 0.60% | ~4,179 |
-| LA Influential | 0.50% | ~3,482 |
-| Gore Horse | 0.50% | ~3,482 |
-| Sharpest Tool in the Box | 0.50% | ~3,482 |
+| LA Influential | 0.50% | ~3,483 |
+| Gore Horse | 0.50% | ~3,483 |
+| Sharpest Tool in the Box | 0.50% | ~3,483 |
 | Sole Survivor | 0.40% | ~2,786 |
 | Survival Skills | 0.40% | ~2,786 |
 | Donk! | 0.20% | ~1,393 |
-| Bucket List | 0.10% | ~696 |
+| Bucket List | 0.10% | ~697 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 696,496 (Ranked 22)  
+Progressed: 696,505 (Ranked 22)  
 Completed: 2,230 (0.32%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,17 +230,17 @@ Completed: 2,230 (0.32%) (Ranked 200)
 | 2023-10-13 | 695,203 | 2,223 |
 | 2023-10-14 | 695,832 | 2,225 |
 | 2023-10-15 | 696,452 | 2,227 |
-| 2023-10-16 | 696,496 | 2,230 |
+| 2023-10-16 | 696,505 | 2,230 |
 ## Awards
 Max (Great Boss Battles): 6,462  (Ranked 56)  
-Sum: 9,658 (Ranked 91)  
+Sum: 9,661 (Ranked 91)  
 Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,462 |
 | This game is Great for Beginners | 457 |
 | This game has Diverse Characters | 449 |
-| This game has Quickly Understood Controls | 422 |
+| This game has Quickly Understood Controls | 425 |
 | This game is Relaxing | 405 |
 | This game has Amazing Storytelling | 383 |
 | This game is Highly Recommended | 365 |
@@ -427,4 +427,4 @@ Diff (max vs sum): -35
 | 2023-10-13 | 4.54 | 6,420 | 9,594 |
 | 2023-10-14 | 4.54 | 6,442 | 9,627 |
 | 2023-10-15 | 4.54 | 6,462 | 9,657 |
-| 2023-10-16 | 4.54 | 6,462 | 9,658 |
+| 2023-10-16 | 4.54 | 6,462 | 9,661 |

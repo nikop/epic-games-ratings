@@ -326,9 +326,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 111382,
+  "EOS_Progressed": 111383,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 729,
+  "EOS_NewPlayers": 728,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -14531,6 +14531,11 @@
       "Time": "2023-10-16T02:23:28.5419255+00:00",
       "NumProgressed": 111382,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-10-16T03:04:23.1863807+00:00",
+      "NumProgressed": 111383,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 49,
@@ -14550,7 +14555,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 85764
+      "UsersEstimate": 85765
     },
     {
       "ID": "EAwards_10",
@@ -14566,7 +14571,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 28959
+      "UsersEstimate": 28960
     },
     {
       "ID": "EAwards_12",
@@ -14638,7 +14643,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 53463
+      "UsersEstimate": 53464
     },
     {
       "ID": "EAwards_20",
@@ -14933,7 +14938,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 111382,
+      "Progressed": 111383,
       "Completed": 47
     }
   ],
@@ -14941,8 +14946,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-25T16:00:07.3978241+00:00",
-  "LastChanged_Achievements": "2023-10-16T02:23:28.5419251+00:00",
+  "LastChanged_Achievements": "2023-10-16T03:04:23.1863801+00:00",
   "LastUpdate_AppInfo": "2023-10-13T01:42:07.6726517+00:00",
-  "LastUpdate_Ratings": "2023-10-16T02:18:20.2198279+00:00",
-  "LastUpdate_Achievements": "2023-10-16T02:23:28.5420321+00:00"
+  "LastUpdate_Ratings": "2023-10-16T02:59:23.8244179+00:00",
+  "LastUpdate_Achievements": "2023-10-16T03:04:23.1865151+00:00"
 }

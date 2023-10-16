@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 250383,
+  "EOS_Progressed": 250385,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 227,
+  "EOS_NewPlayers": 229,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16634,6 +16634,11 @@
       "Time": "2023-10-16T02:22:30.7670102+00:00",
       "NumProgressed": 250383,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-16T03:03:26.7334+00:00",
+      "NumProgressed": 250385,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -16669,7 +16674,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 52580
+      "UsersEstimate": 52581
     },
     {
       "ID": "blotbuster",
@@ -16717,7 +16722,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37557
+      "UsersEstimate": 37558
     },
     {
       "ID": "clearCut",
@@ -16797,7 +16802,7 @@
       "Name": "He Who Laughs Last",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7511
+      "UsersEstimate": 7512
     },
     {
       "ID": "hereWeGo",
@@ -16821,7 +16826,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 132703
+      "UsersEstimate": 132704
     },
     {
       "ID": "indegestible",
@@ -16933,7 +16938,7 @@
       "Name": "Shoo, Cat!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7511
+      "UsersEstimate": 7512
     },
     {
       "ID": "talentScout",
@@ -16949,7 +16954,7 @@
       "Name": "The Stunner",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55084
+      "UsersEstimate": 55085
     },
     {
       "ID": "thunderstruck",
@@ -17005,14 +17010,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 40061
+      "UsersEstimate": 40062
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 250383,
+      "Progressed": 250385,
       "Completed": 6
     }
   ],
@@ -17020,8 +17025,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-10-16T02:22:30.7670097+00:00",
+  "LastChanged_Achievements": "2023-10-16T03:03:26.7333994+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:46.1902995+00:00",
-  "LastUpdate_Ratings": "2023-10-16T02:17:16.3883+00:00",
-  "LastUpdate_Achievements": "2023-10-16T02:22:30.7671257+00:00"
+  "LastUpdate_Ratings": "2023-10-16T02:58:24.8741906+00:00",
+  "LastUpdate_Achievements": "2023-10-16T03:03:26.7335389+00:00"
 }

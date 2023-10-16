@@ -7,11 +7,11 @@ Number of Ratings: 7,305  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You Never Forget Your First... | 38.00% | ~241,775 |
-| Into the Unknown | 35.00% | ~222,687 |
-| First Shot | 35.00% | ~222,687 |
+| Into the Unknown | 35.00% | ~222,688 |
+| First Shot | 35.00% | ~222,688 |
 | Herzlich Wilkommen! | 33.00% | ~209,962 |
 | Good Night & Good Luck | 32.00% | ~203,600 |
-| Sancho Panza | 31.00% | ~197,237 |
+| Sancho Panza | 31.00% | ~197,238 |
 | Oh, So This Is How It Works! | 29.00% | ~184,512 |
 | Flag Burning | 26.00% | ~165,425 |
 | Under Pressure | 24.00% | ~152,700 |
@@ -19,22 +19,22 @@ Number of Ratings: 7,305  (23.09.2022)
 | Light in the Darkness | 24.00% | ~152,700 |
 | It Wasn't That Hard, Was It? | 24.00% | ~152,700 |
 | Can't Touch This! | 24.00% | ~152,700 |
-| Get Outta My House! | 23.00% | ~146,337 |
+| Get Outta My House! | 23.00% | ~146,338 |
 | Night Hunter | 22.00% | ~139,975 |
 | Being All Social | 22.00% | ~139,975 |
-| After the Fall | 19.00% | ~120,887 |
+| After the Fall | 19.00% | ~120,888 |
 | We Will Be Heard! | 18.00% | ~114,525 |
-| Tunnel Entrance | 17.00% | ~108,162 |
+| Tunnel Entrance | 17.00% | ~108,163 |
 | Known Associate | 16.00% | ~101,800 |
 | Brush with Death | 16.00% | ~101,800 |
-| Debris and Ashes | 15.00% | ~95,437 |
-| Going Down | 15.00% | ~95,437 |
-| Family First | 15.00% | ~95,437 |
+| Debris and Ashes | 15.00% | ~95,438 |
+| Going Down | 15.00% | ~95,438 |
+| Family First | 15.00% | ~95,438 |
 | Your World, Your Rules | 14.00% | ~89,075 |
 | Death From Afar | 14.00% | ~89,075 |
 | Terminal Headache | 14.00% | ~89,075 |
 | Slowpoke! | 12.00% | ~76,350 |
-| Tickets, Please! | 7.00% | ~44,537 |
+| Tickets, Please! | 7.00% | ~44,538 |
 | Parkour Master | 6.00% | ~38,175 |
 | Combat Master | 6.00% | ~38,175 |
 | Municipal Services | 5.00% | ~31,812 |
@@ -44,10 +44,10 @@ Number of Ratings: 7,305  (23.09.2022)
 | Don Quixote | 4.00% | ~25,450 |
 | Can't You Read the Signs? | 4.00% | ~25,450 |
 | Boot Licker | 4.00% | ~25,450 |
-| Tanning Salon | 3.00% | ~19,087 |
-| That's Teamwork! | 3.00% | ~19,087 |
-| Ironheart | 3.00% | ~19,087 |
-| You're Going Down! | 3.00% | ~19,087 |
+| Tanning Salon | 3.00% | ~19,088 |
+| That's Teamwork! | 3.00% | ~19,088 |
+| Ironheart | 3.00% | ~19,088 |
+| You're Going Down! | 3.00% | ~19,088 |
 | Find Anything Interesting? | 2.00% | ~12,725 |
 | Revenants | 2.00% | ~12,725 |
 | Who Wants To Be a... | 2.00% | ~12,725 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~282 |
 | Connoisseur | 0.10% | ~282 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 636,249 (Ranked 28)  
+Progressed: 636,250 (Ranked 28)  
 Completed: 65 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,7 +251,7 @@ Completed: 65 (0.01%) (Ranked 296)
 | 2023-10-13 | 635,262 | 64 |
 | 2023-10-14 | 635,714 | 64 |
 | 2023-10-15 | 636,221 | 65 |
-| 2023-10-16 | 636,249 | 65 |
+| 2023-10-16 | 636,250 | 65 |
 ## Awards
 Max (Character Customization): 9,523  (Ranked 40)  
 Sum: 23,481 (Ranked 54)  

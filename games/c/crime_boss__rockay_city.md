@@ -47,7 +47,7 @@ Rating: 3.94 (Ranked 979)
 | One for All | 0.10% | ~17 |
 | Now You See Me | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,109 (Ranked 83)  
+Progressed: 89,110 (Ranked 83)  
 Completed: 50 (0.06%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 50 (0.06%) (Ranked 265)
 | 2023-10-13 | 89,042 | 49 |
 | 2023-10-14 | 89,078 | 50 |
 | 2023-10-15 | 89,106 | 50 |
-| 2023-10-16 | 89,109 | 50 |
+| 2023-10-16 | 89,110 | 50 |
 ## Awards
 Max (Diverse Characters): 495  (Ranked 205)  
 Sum: 2,355 (Ranked 191)  

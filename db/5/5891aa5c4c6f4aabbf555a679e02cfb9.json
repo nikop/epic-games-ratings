@@ -4,8 +4,8 @@
   "ProductSlug": "the-evil-within-2",
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 313,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
     "PcReleaseDate": "2017-10-12T00:00:00+00:00",
@@ -514,9 +514,9 @@
       "ID": "ACHIEVEMENT_20",
       "SetID": "b36c5kb",
       "Name": "You Got Red in You",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -666,9 +666,9 @@
       "ID": "ACHIEVEMENT_39",
       "SetID": "b36c5kb",
       "Name": "Clearing a Path",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -682,9 +682,9 @@
       "ID": "ACHIEVEMENT_41",
       "SetID": "b36c5kb",
       "Name": "Shock Therapy",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -777,8 +777,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-10-16T02:25:26.2252343+00:00",
+  "LastChanged_Achievements": "2023-10-16T03:06:18.9961655+00:00",
   "LastUpdate_AppInfo": "2023-10-11T21:57:07.8576472+00:00",
-  "LastUpdate_Ratings": "2023-10-16T02:18:27.1924816+00:00",
-  "LastUpdate_Achievements": "2023-10-16T02:25:26.2252718+00:00"
+  "LastUpdate_Ratings": "2023-10-16T02:59:31.344628+00:00",
+  "LastUpdate_Achievements": "2023-10-16T03:06:18.9962186+00:00"
 }

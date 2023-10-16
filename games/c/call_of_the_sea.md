@@ -5,30 +5,30 @@ Rating: 4.40 (Ranked 719)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 80.00% | ~99,981 |
-| 74 miles East of Otaheité | 56.00% | ~69,987 |
-| Interesting... | 42.00% | ~52,490 |
-| The Everhart Expedition | 39.00% | ~48,741 |
-| The Vanishing of the Lady Shannon | 30.00% | ~37,493 |
-| Seaside Serenade | 30.00% | ~37,493 |
-| Halfway there | 29.00% | ~36,243 |
-| A brigantine, a brig and a barque | 28.00% | ~34,993 |
-| 506 East Hampden Avenue | 28.00% | ~34,993 |
+| A Family Heirloom | 80.00% | ~99,983 |
+| 74 miles East of Otaheité | 56.00% | ~69,988 |
+| Interesting... | 42.00% | ~52,491 |
+| The Everhart Expedition | 39.00% | ~48,742 |
+| The Vanishing of the Lady Shannon | 30.00% | ~37,494 |
+| Seaside Serenade | 30.00% | ~37,494 |
+| Halfway there | 29.00% | ~36,244 |
+| A brigantine, a brig and a barque | 28.00% | ~34,994 |
+| 506 East Hampden Avenue | 28.00% | ~34,994 |
 | Weekend at Walakea's | 27.00% | ~33,744 |
 | Quite a Show | 27.00% | ~33,744 |
-| Dark Water Ride | 24.00% | ~29,994 |
-| Sunken | 24.00% | ~29,994 |
-| Deep Cut | 24.00% | ~29,994 |
-| FHALGOF'N' | 23.00% | ~28,744 |
-| Marsh Cannery | 21.00% | ~26,245 |
+| Dark Water Ride | 24.00% | ~29,995 |
+| Sunken | 24.00% | ~29,995 |
+| Deep Cut | 24.00% | ~29,995 |
+| FHALGOF'N' | 23.00% | ~28,745 |
+| Marsh Cannery | 21.00% | ~26,246 |
 | Greetings from Y'ha-nthlei! | 17.00% | ~21,246 |
-| The only thing I have now | 16.00% | ~19,996 |
-| Not Another Boring Slideshow! | 15.00% | ~18,746 |
-| Naacalvision | 15.00% | ~18,746 |
+| The only thing I have now | 16.00% | ~19,997 |
+| Not Another Boring Slideshow! | 15.00% | ~18,747 |
+| Naacalvision | 15.00% | ~18,747 |
 | I'll make a note of that... | 9.00% | ~11,248 |
 | The Norahnomicon | 9.00% | ~11,248 |
-| Play it again, Norah | 7.00% | ~8,748 |
-| Underwater Royalty | 7.00% | ~8,748 |
+| Play it again, Norah | 7.00% | ~8,749 |
+| Underwater Royalty | 7.00% | ~8,749 |
 | Written in Stone | 6.00% | ~7,499 |
 | Fawning Developers | 5.00% | ~6,249 |
 | The Amazing Adventures of Norah Everhart | 4.00% | ~4,999 |
@@ -40,8 +40,8 @@ Rating: 4.40 (Ranked 719)
 | Gently down the stream... | 1.00% | ~1,250 |
 | Meta-reference | 1.00% | ~1,250 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 124,976 (Ranked 76)  
-Completed: 1,058 (0.85%) (Ranked 152)  
+Progressed: 124,979 (Ranked 76)  
+Completed: 1,059 (0.85%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -219,7 +219,7 @@ Completed: 1,058 (0.85%) (Ranked 152)
 | 2023-10-13 | 124,526 | 1,051 |
 | 2023-10-14 | 124,745 | 1,053 |
 | 2023-10-15 | 124,959 | 1,058 |
-| 2023-10-16 | 124,976 | 1,058 |
+| 2023-10-16 | 124,979 | 1,059 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

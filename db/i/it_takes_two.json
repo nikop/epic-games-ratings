@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 13915,
+  "EOS_Progressed": 13916,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 2104,
+  "EOS_NewPlayers": 2099,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -3025,6 +3025,11 @@
       "Time": "2023-10-16T02:25:22.2712946+00:00",
       "NumProgressed": 13915,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-10-16T03:06:15.1193453+00:00",
+      "NumProgressed": 13916,
+      "NumCompleted": 61
     }
   ],
   "AchievementsAdded": "2023-09-20T21:06:26.7864758+00:00",
@@ -3037,7 +3042,7 @@
       "Name": "It Took Two",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 5705
+      "UsersEstimate": 5706
     },
     {
       "ID": "achievement_10",
@@ -3061,7 +3066,7 @@
       "Name": "On Rails Experience",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 7792
+      "UsersEstimate": 7793
     },
     {
       "ID": "achievement_13",
@@ -3141,7 +3146,7 @@
       "Name": "Fried Friendship",
       "Percentage": 87,
       "XP": 50,
-      "UsersEstimate": 12106
+      "UsersEstimate": 12107
     },
     {
       "ID": "achievement_4",
@@ -3149,7 +3154,7 @@
       "Name": "Struck A Pose",
       "Percentage": 88,
       "XP": 50,
-      "UsersEstimate": 12245
+      "UsersEstimate": 12246
     },
     {
       "ID": "achievement_5",
@@ -3181,7 +3186,7 @@
       "Name": "Break the Bank",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 5983
+      "UsersEstimate": 5984
     },
     {
       "ID": "achievement_9",
@@ -3196,13 +3201,13 @@
     {
       "ID": "2bk7oji",
       "IsBase": true,
-      "Progressed": 13915,
+      "Progressed": 13916,
       "Completed": 61
     }
   ],
   "FirstSeenAchievements": "2023-07-27T23:04:38.3880568+00:00",
-  "LastChanged_Achievements": "2023-10-16T02:25:22.2712941+00:00",
+  "LastChanged_Achievements": "2023-10-16T03:06:15.1193448+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:21.7081643+00:00",
-  "LastUpdate_Ratings": "2023-10-16T02:18:30.462027+00:00",
-  "LastUpdate_Achievements": "2023-10-16T02:25:22.2713204+00:00"
+  "LastUpdate_Ratings": "2023-10-16T02:59:34.4715856+00:00",
+  "LastUpdate_Achievements": "2023-10-16T03:06:15.1193801+00:00"
 }

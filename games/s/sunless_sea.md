@@ -14,10 +14,10 @@ Number of Ratings: 401  (23.09.2022)
 | Correspondent | 12.00% | ~4,671 |
 | Lose Your Mind | 12.00% | ~4,671 |
 | Sound Mind? | 12.00% | ~4,671 |
-| Salt's Curse | 11.00% | ~4,281 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~4,281 |
-| The Fall of the House | 11.00% | ~4,281 |
-| Shipmate | 11.00% | ~4,281 |
+| Salt's Curse | 11.00% | ~4,282 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~4,282 |
+| The Fall of the House | 11.00% | ~4,282 |
+| Shipmate | 11.00% | ~4,282 |
 | One Year at Zee | 8.00% | ~3,114 |
 | Pupil | 7.00% | ~2,725 |
 | Salvager | 7.00% | ~2,725 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~39 |
 | Ten Years at Zee | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,922 (Ranked 112)  
+Progressed: 38,923 (Ranked 112)  
 Completed: 4 (0.01%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,7 +240,7 @@ Completed: 4 (0.01%) (Ranked 296)
 | 2023-10-13 | 38,784 | 4 |
 | 2023-10-14 | 38,839 | 4 |
 | 2023-10-15 | 38,916 | 4 |
-| 2023-10-16 | 38,922 | 4 |
+| 2023-10-16 | 38,923 | 4 |
 ## Awards
 Max (Character Customization): 215  (Ranked 274)  
 Sum: 288 (Ranked 355)  

@@ -57,6 +57,7 @@
 | Catharsis | 31.00% | ~219 |
 | Ghost of the Father | 31.00% | ~219 |
 | Big Game Hunter | 31.00% | ~219 |
+| Agent | 31.00% | ~219 |
 | Revenge! | 31.00% | ~219 |
 | Heart of Darkness | 31.00% | ~219 |
 | Driven | 31.00% | ~219 |
@@ -64,7 +65,6 @@
 | Cat's in the Cradle | 30.00% | ~212 |
 | Fade Away | 30.00% | ~212 |
 | Treason | 30.00% | ~212 |
-| Agent | 30.00% | ~212 |
 | Digital Exorcist | 30.00% | ~212 |
 | Bringer of War | 30.00% | ~212 |
 | Doppelganger | 29.00% | ~205 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 20,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -10782,9 +10782,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 432166,
+  "EOS_Progressed": 432181,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5903,
+  "EOS_NewPlayers": 5902,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31077,6 +31077,11 @@
       "Time": "2023-10-16T02:28:12.8685253+00:00",
       "NumProgressed": 432166,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-16T03:09:12.5780031+00:00",
+      "NumProgressed": 432181,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -31248,7 +31253,7 @@
       "Name": "All That\u0027s Thine Shall Be Mine",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1296
+      "UsersEstimate": 1297
     },
     {
       "ID": "achievement_all_your_trade_are_belong_to_us",
@@ -31528,7 +31533,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8643
+      "UsersEstimate": 8644
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -31608,7 +31613,7 @@
       "Name": "Cold War",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8643
+      "UsersEstimate": 8644
     },
     {
       "ID": "achievement_colonial_management",
@@ -31760,7 +31765,7 @@
       "Name": "Down Under",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1296
+      "UsersEstimate": 1297
     },
     {
       "ID": "achievement_draculas_revenge",
@@ -31816,7 +31821,7 @@
       "Name": "The Emperors new clothes",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1296
+      "UsersEstimate": 1297
     },
     {
       "ID": "achievement_empire_of_mann",
@@ -31920,7 +31925,7 @@
       "Name": "For the Glory",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8643
+      "UsersEstimate": 8644
     },
     {
       "ID": "achievement_forever_golden",
@@ -32048,7 +32053,7 @@
       "Name": "A Golden Empire",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1296
+      "UsersEstimate": 1297
     },
     {
       "ID": "achievement_golden_horn",
@@ -32112,7 +32117,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8643
+      "UsersEstimate": 8644
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -32296,7 +32301,7 @@
       "Name": "It\u0027s all about luck",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 3889
+      "UsersEstimate": 3890
     },
     {
       "ID": "achievement_its_all_about_the_money",
@@ -32584,7 +32589,7 @@
       "Name": "Market Control",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1296
+      "UsersEstimate": 1297
     },
     {
       "ID": "achievement_marshy_march",
@@ -32896,7 +32901,7 @@
       "Name": "Populists in Government",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1296
+      "UsersEstimate": 1297
     },
     {
       "ID": "achievement_prester_john",
@@ -33088,7 +33093,7 @@
       "Name": "Seriously?!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8643
+      "UsersEstimate": 8644
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -33704,7 +33709,7 @@
       "Name": "Trustworthy",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1296
+      "UsersEstimate": 1297
     },
     {
       "ID": "achievement_turkish_delight",
@@ -33919,21 +33924,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 432166,
+      "Progressed": 432181,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 432166,
+      "Progressed": 432181,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-10-15T22:02:47.6088241+00:00",
-  "LastChanged_Achievements": "2023-10-16T02:28:12.8685245+00:00",
+  "LastChanged_Achievements": "2023-10-16T03:09:12.5780025+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:17.3086374+00:00",
-  "LastUpdate_Ratings": "2023-10-16T02:19:40.9970869+00:00",
-  "LastUpdate_Achievements": "2023-10-16T02:28:12.8696063+00:00"
+  "LastUpdate_Ratings": "2023-10-16T03:00:40.733106+00:00",
+  "LastUpdate_Achievements": "2023-10-16T03:09:12.5792194+00:00"
 }

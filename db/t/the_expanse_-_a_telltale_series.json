@@ -166,9 +166,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14025,
+  "EOS_Progressed": 14026,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 245,
+  "EOS_NewPlayers": 243,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -8771,6 +8771,11 @@
       "Time": "2023-10-16T02:24:18.0266188+00:00",
       "NumProgressed": 14025,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-10-16T03:05:11.5940412+00:00",
+      "NumProgressed": 14026,
+      "NumCompleted": 24
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -8831,7 +8836,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "16",
@@ -8855,7 +8860,7 @@
       "Name": "Bottoms up!",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "19",
@@ -8879,7 +8884,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "21",
@@ -8911,7 +8916,7 @@
       "Name": "Miraculous Maya",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "25",
@@ -9022,7 +9027,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14025,
+      "Progressed": 14026,
       "Completed": 24
     }
   ],
@@ -9030,8 +9035,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-13T09:00:57.1370573+00:00",
-  "LastChanged_Achievements": "2023-10-16T02:24:18.0266185+00:00",
+  "LastChanged_Achievements": "2023-10-16T03:05:11.5940408+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:40.5814563+00:00",
-  "LastUpdate_Ratings": "2023-10-16T02:19:19.7222157+00:00",
-  "LastUpdate_Achievements": "2023-10-16T02:24:18.0266792+00:00"
+  "LastUpdate_Ratings": "2023-10-16T03:00:23.2738845+00:00",
+  "LastUpdate_Achievements": "2023-10-16T03:05:11.5941187+00:00"
 }

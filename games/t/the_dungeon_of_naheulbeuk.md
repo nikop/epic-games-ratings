@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 33.00% | ~76,284 |
+| Sowwy! | 33.00% | ~76,286 |
 | Where's that freaking Dwarf? | 6.00% | ~13,870 |
 | Alt+F4 | 6.00% | ~13,870 |
 | Déjà vu | 5.00% | ~11,558 |
@@ -41,8 +41,8 @@ Number of Ratings: 118  (23.09.2022)
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,312 |
 | Lust and Debauchery | 1.00% | ~2,312 |
 | Thieves' Guild Accreditation | 1.00% | ~2,312 |
-| Dead for good | 0.90% | ~2,080 |
-| Material Girl | 0.90% | ~2,080 |
+| Dead for good | 0.90% | ~2,081 |
+| Material Girl | 0.90% | ~2,081 |
 | Gargantua | 0.80% | ~1,849 |
 | In Navalu's footsteps | 0.70% | ~1,618 |
 | We come in peace | 0.60% | ~1,387 |
@@ -51,10 +51,10 @@ Number of Ratings: 118  (23.09.2022)
 | An old poacher makes the best gamekeeper | 0.50% | ~1,156 |
 | Law and Order | 0.50% | ~1,156 |
 | Scholar of the Lands of Fangh | 0.40% | ~925 |
-| Friendly fire | 0.30% | ~693 |
-| I'd rather... Just... Sing! | 0.30% | ~693 |
-| Inception | 0.30% | ~693 |
-| It's been a hard day's night | 0.30% | ~693 |
+| Friendly fire | 0.30% | ~694 |
+| I'd rather... Just... Sing! | 0.30% | ~694 |
+| Inception | 0.30% | ~694 |
+| It's been a hard day's night | 0.30% | ~694 |
 | The number of the counting shalt be 7 | 0.20% | ~462 |
 | 100% satisfaction guarantee | 0.20% | ~462 |
 | Death is for wimps | 0.20% | ~462 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~231 |
 | Dwarf Candy | 0.10% | ~231 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,164 (Ranked 59)  
+Progressed: 231,169 (Ranked 59)  
 Completed: 5 (0.00%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,7 +233,7 @@ Completed: 5 (0.00%) (Ranked 314)
 | 2023-10-13 | 230,591 | 5 |
 | 2023-10-14 | 230,860 | 5 |
 | 2023-10-15 | 231,139 | 5 |
-| 2023-10-16 | 231,164 | 5 |
+| 2023-10-16 | 231,169 | 5 |
 ## Awards
 Max (Character Customization): 216  (Ranked 273)  
 Sum: 427 (Ranked 325)  

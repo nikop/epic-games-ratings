@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 110,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
     "PcReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -1360,9 +1360,9 @@
       "ID": "achievement_8",
       "SetID": "7ldgi7j",
       "Name": "Winner\u0027s Circle",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 35,
-      "UsersEstimate": 242
+      "UsersEstimate": 246
     },
     {
       "ID": "achievement_9",
@@ -1382,8 +1382,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-10-16T02:22:22.6766948+00:00",
+  "LastChanged_Achievements": "2023-10-16T03:03:18.9419925+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:08.0015832+00:00",
-  "LastUpdate_Ratings": "2023-10-16T02:17:56.4474238+00:00",
-  "LastUpdate_Achievements": "2023-10-16T02:22:22.6767122+00:00"
+  "LastUpdate_Ratings": "2023-10-16T02:59:00.1196616+00:00",
+  "LastUpdate_Achievements": "2023-10-16T03:03:18.9420169+00:00"
 }

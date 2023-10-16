@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 54,
   "Ranking_EOS_Progress": 28,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 36,
+  "Ranking_EOS_NewPlayers": 37,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2022-02-04T00:00:00+00:00",
@@ -10717,9 +10717,9 @@
       "Count": 758
     }
   ],
-  "EOS_Progressed": 636249,
+  "EOS_Progressed": 636250,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 2608,
+  "EOS_NewPlayers": 2604,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -30972,6 +30972,11 @@
       "Time": "2023-10-16T02:23:49.4890981+00:00",
       "NumProgressed": 636249,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-10-16T03:04:43.8114357+00:00",
+      "NumProgressed": 636250,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 65,
@@ -30983,7 +30988,7 @@
       "Name": "Into the Unknown",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 222687
+      "UsersEstimate": 222688
     },
     {
       "ID": "achievement_02",
@@ -30991,7 +30996,7 @@
       "Name": "First Shot",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 222687
+      "UsersEstimate": 222688
     },
     {
       "ID": "achievement_03",
@@ -31031,7 +31036,7 @@
       "Name": "Get Outta My House!",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 146337
+      "UsersEstimate": 146338
     },
     {
       "ID": "achievement_08",
@@ -31039,7 +31044,7 @@
       "Name": "Debris and Ashes",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 95437
+      "UsersEstimate": 95438
     },
     {
       "ID": "achievement_09",
@@ -31071,7 +31076,7 @@
       "Name": "Going Down",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 95437
+      "UsersEstimate": 95438
     },
     {
       "ID": "achievement_13",
@@ -31079,7 +31084,7 @@
       "Name": "Family First",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 95437
+      "UsersEstimate": 95438
     },
     {
       "ID": "achievement_14",
@@ -31103,7 +31108,7 @@
       "Name": "Tunnel Entrance",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 108162
+      "UsersEstimate": 108163
     },
     {
       "ID": "achievement_17",
@@ -31119,7 +31124,7 @@
       "Name": "Sancho Panza",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 197237
+      "UsersEstimate": 197238
     },
     {
       "ID": "achievement_19",
@@ -31127,7 +31132,7 @@
       "Name": "Tickets, Please!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 44537
+      "UsersEstimate": 44538
     },
     {
       "ID": "achievement_20",
@@ -31263,7 +31268,7 @@
       "Name": "After the Fall",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 120887
+      "UsersEstimate": 120888
     },
     {
       "ID": "achievement_37",
@@ -31303,7 +31308,7 @@
       "Name": "Tanning Salon",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 19087
+      "UsersEstimate": 19088
     },
     {
       "ID": "achievement_42",
@@ -31335,7 +31340,7 @@
       "Name": "That\u0027s Teamwork!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 19087
+      "UsersEstimate": 19088
     },
     {
       "ID": "achievement_46",
@@ -31367,7 +31372,7 @@
       "Name": "Ironheart",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 19087
+      "UsersEstimate": 19088
     },
     {
       "ID": "achievement_50",
@@ -31375,7 +31380,7 @@
       "Name": "You\u0027re Going Down!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 19087
+      "UsersEstimate": 19088
     },
     {
       "ID": "achievement_51",
@@ -31502,21 +31507,21 @@
     {
       "ID": "3cbf5jh",
       "IsBase": true,
-      "Progressed": 636249,
+      "Progressed": 636250,
       "Completed": 65
     },
     {
       "ID": "likk62",
       "IsBase": false,
-      "Progressed": 281693,
+      "Progressed": 281694,
       "Completed": 1433
     }
   ],
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
   "LastChanged": "2023-10-16T01:44:20.9689449+00:00",
-  "LastChanged_Achievements": "2023-10-16T02:23:49.4890978+00:00",
+  "LastChanged_Achievements": "2023-10-16T03:04:43.8114353+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:08.9566799+00:00",
-  "LastUpdate_Ratings": "2023-10-16T02:17:56.8247932+00:00",
-  "LastUpdate_Achievements": "2023-10-16T02:23:49.4892504+00:00"
+  "LastUpdate_Ratings": "2023-10-16T02:59:00.8633106+00:00",
+  "LastUpdate_Achievements": "2023-10-16T03:04:43.8116371+00:00"
 }

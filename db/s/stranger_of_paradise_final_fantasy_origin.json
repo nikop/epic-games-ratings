@@ -3,7 +3,7 @@
   "Name": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
   "ProductSlug": "stranger-of-paradise-final-fantasy-origin",
   "Ranking_Rating": 552,
-  "Ranking_Popularity": 168,
+  "Ranking_Popularity": 167,
   "Ranking_PopularitySum": 221,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 96,
@@ -1640,18 +1640,24 @@
       "Rating": 4.51,
       "NumberOfAwards": 1585,
       "NumberOfAwardsMax": 768
+    },
+    {
+      "Time": "2023-10-16T02:58:11.6624127+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 1586,
+      "NumberOfAwardsMax": 769
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1585,
-  "NumberOfAwardsMax": 768,
+  "NumberOfAwards": 1586,
+  "NumberOfAwardsMax": 769,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 768
+      "Count": 769
     },
     {
       "Text": "This game has Challenging Combat",
@@ -9274,9 +9280,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:02.4554088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.9238722+00:00",
-  "LastChanged": "2023-10-14T01:37:55.3819208+00:00",
-  "LastChanged_Achievements": "2023-10-16T02:23:25.8210049+00:00",
+  "LastChanged": "2023-10-16T02:58:11.6624125+00:00",
+  "LastChanged_Achievements": "2023-10-16T03:04:20.7333148+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:36.9110985+00:00",
-  "LastUpdate_Ratings": "2023-10-16T02:17:04.8433508+00:00",
-  "LastUpdate_Achievements": "2023-10-16T02:23:25.8210726+00:00"
+  "LastUpdate_Ratings": "2023-10-16T02:58:11.6624141+00:00",
+  "LastUpdate_Achievements": "2023-10-16T03:04:20.7333987+00:00"
 }

@@ -6,8 +6,8 @@ Rating: 3.82 (Ranked 997)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Bundle of Joy | 51.00% | ~272 |
-| A Friend in Need... | 46.00% | ~245 |
-| Bosom Buddies | 31.00% | ~165 |
+| A Friend in Need... | 46.00% | ~246 |
+| Bosom Buddies | 31.00% | ~166 |
 | Beat the Heat | 24.00% | ~128 |
 | A Familiar Face | 16.00% | ~85 |
 | Unexpected Consequences | 14.00% | ~75 |
@@ -24,8 +24,8 @@ Rating: 3.82 (Ranked 997)
 | Between the Covers | 5.00% | ~27 |
 | Antisocial Club | 5.00% | ~27 |
 | You Had One Job... | 5.00% | ~27 |
-| Smart cookie | 5.00% | ~27 |
 | Everything Must Go! | 4.00% | ~21 |
+| Smart cookie | 4.00% | ~21 |
 | Paparazzi | 3.00% | ~16 |
 | Life of the Party | 3.00% | ~16 |
 | The Butterfly Effect | 2.00% | ~11 |
@@ -35,8 +35,8 @@ Rating: 3.82 (Ranked 997)
 | Marvellous Toys | 2.00% | ~11 |
 | Hardcore Gamer | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 533 (Ranked 270)  
-Completed: 6 (1.13%) (Ranked 138)  
+Progressed: 534 (Ranked 270)  
+Completed: 6 (1.12%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -125,6 +125,7 @@ Completed: 6 (1.13%) (Ranked 138)
 | 2023-10-08 | 531 | 6 |
 | 2023-10-13 | 532 | 6 |
 | 2023-10-15 | 533 | 6 |
+| 2023-10-16 | 534 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

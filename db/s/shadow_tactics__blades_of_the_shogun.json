@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -1753,9 +1753,9 @@
       "Count": 250
     }
   ],
-  "EOS_Progressed": 208109,
+  "EOS_Progressed": 208111,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 1255,
+  "EOS_NewPlayers": 1251,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -22033,6 +22033,11 @@
       "Time": "2023-10-16T02:24:56.1295188+00:00",
       "NumProgressed": 208109,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-10-16T03:05:49.6736273+00:00",
+      "NumProgressed": 208111,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 44,
@@ -22220,7 +22225,7 @@
       "Name": "Okkoto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 10405
+      "UsersEstimate": 10406
     },
     {
       "ID": "OldMan",
@@ -22244,7 +22249,7 @@
       "Name": "Prisoners",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 10405
+      "UsersEstimate": 10406
     },
     {
       "ID": "ReleaseTheKraken",
@@ -22356,7 +22361,7 @@
       "Name": "Too Early",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 10405
+      "UsersEstimate": 10406
     },
     {
       "ID": "Warzone",
@@ -22395,15 +22400,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 208109,
+      "Progressed": 208111,
       "Completed": 91
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-10-14T05:59:35.4391888+00:00",
-  "LastChanged_Achievements": "2023-10-16T02:24:56.1295184+00:00",
+  "LastChanged_Achievements": "2023-10-16T03:05:49.6736268+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:42.5631083+00:00",
-  "LastUpdate_Ratings": "2023-10-16T02:19:25.3472866+00:00",
-  "LastUpdate_Achievements": "2023-10-16T02:24:56.1296414+00:00"
+  "LastUpdate_Ratings": "2023-10-16T03:00:28.252669+00:00",
+  "LastUpdate_Achievements": "2023-10-16T03:05:49.6737897+00:00"
 }

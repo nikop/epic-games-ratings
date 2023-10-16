@@ -39,6 +39,7 @@ Rating: 4.56 (Ranked 473)
 | Sustainable Energy | 3.00% | ~97 |
 | Delivery! | 3.00% | ~97 |
 | Pedal to the Metal | 3.00% | ~97 |
+| Drill-dozer | 3.00% | ~97 |
 | Pulsar Disciple | 3.00% | ~97 |
 | Mutual Loyalty | 2.00% | ~65 |
 | Tiqqun Contender | 2.00% | ~65 |
@@ -46,7 +47,6 @@ Rating: 4.56 (Ranked 473)
 | Praise the Hull! | 2.00% | ~65 |
 | Space Greenhouse | 2.00% | ~65 |
 | Tiqqun Unchained | 2.00% | ~65 |
-| Drill-dozer | 2.00% | ~65 |
 | Help of the Forgotten Member | 2.00% | ~65 |
 | Better Him Than Me | 1.00% | ~32 |
 | Remember the Dead | 1.00% | ~32 |

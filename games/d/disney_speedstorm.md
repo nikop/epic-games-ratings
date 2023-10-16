@@ -5,32 +5,32 @@ Rating: 4.40 (Ranked 719)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 5.00% | ~11,375 |
-| IT MAKES BOOM! | 3.00% | ~6,825 |
-| EXTRA BOOST | 2.00% | ~4,550 |
-| PROTECTED | 1.00% | ~2,275 |
-| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,275 |
-| AGGRESSIVE RACER | 1.00% | ~2,275 |
-| PRO | 1.00% | ~2,275 |
-| A TIGER'S FEAR | 0.80% | ~1,820 |
+| ROOKIE | 5.00% | ~11,381 |
+| IT MAKES BOOM! | 3.00% | ~6,829 |
+| EXTRA BOOST | 2.00% | ~4,552 |
+| PROTECTED | 2.00% | ~4,552 |
+| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,276 |
+| AGGRESSIVE RACER | 1.00% | ~2,276 |
+| PRO | 1.00% | ~2,276 |
+| A TIGER'S FEAR | 0.80% | ~1,821 |
 | IT'S A LONG WAY TO THE TOP | 0.40% | ~910 |
 | DEFEAT OUR CHAMPION | 0.40% | ~910 |
 | ACE SPEEDSTER | 0.40% | ~910 |
-| TRAINING HARD | 0.30% | ~682 |
-| RELEASE THE KRAKEN | 0.30% | ~682 |
-| BE OUR GUEST | 0.30% | ~682 |
-| ACE BRAWLER | 0.30% | ~682 |
-| ACE DEFENDER | 0.30% | ~682 |
-| THE EYE OF THE HUNTER | 0.30% | ~682 |
-| FRIENDLY | 0.30% | ~682 |
-| MASTER | 0.30% | ~682 |
-| LEGENDARY HERO | 0.30% | ~682 |
+| TRAINING HARD | 0.30% | ~683 |
+| RELEASE THE KRAKEN | 0.30% | ~683 |
+| BE OUR GUEST | 0.30% | ~683 |
+| ACE BRAWLER | 0.30% | ~683 |
+| ACE DEFENDER | 0.30% | ~683 |
+| THE EYE OF THE HUNTER | 0.30% | ~683 |
+| FRIENDLY | 0.30% | ~683 |
+| MASTER | 0.30% | ~683 |
+| LEGENDARY HERO | 0.30% | ~683 |
 | PERFECTLY POISED | 0.20% | ~455 |
 | EXPERIENCED CREW | 0.20% | ~455 |
 | ACE TRICKSTER | 0.20% | ~455 |
-| FRAMED! | 0.10% | ~227 |
+| FRAMED! | 0.10% | ~228 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,498 (Ranked 61)  
+Progressed: 227,618 (Ranked 61)  
 Completed: 233 (0.10%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 233 (0.10%) (Ranked 246)
 | 2023-10-13 | 216,960 | 230 |
 | 2023-10-14 | 222,259 | 232 |
 | 2023-10-15 | 226,884 | 233 |
-| 2023-10-16 | 227,498 | 233 |
+| 2023-10-16 | 227,618 | 233 |
 ## Awards
 Max (Diverse Characters): 25  (Ranked 502)  
 Sum: 45 (Ranked 473)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -1296,9 +1296,9 @@
       "Count": 215
     }
   ],
-  "EOS_Progressed": 7662,
+  "EOS_Progressed": 7663,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 416,
+  "EOS_NewPlayers": 414,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4456,6 +4456,11 @@
       "Time": "2023-10-16T02:27:19.9762937+00:00",
       "NumProgressed": 7662,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-16T03:08:40.4038681+00:00",
+      "NumProgressed": 7663,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -4484,7 +4489,7 @@
       "Name": "A New Timeline",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 3371
+      "UsersEstimate": 3372
     },
     {
       "ID": "ach04",
@@ -4508,7 +4513,7 @@
       "Name": "Titan",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 5670
+      "UsersEstimate": 5671
     },
     {
       "ID": "ach07",
@@ -4516,7 +4521,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 4137
+      "UsersEstimate": 4138
     },
     {
       "ID": "ach08",
@@ -4540,7 +4545,7 @@
       "Name": "Deadly Assassin",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "ach11",
@@ -4604,7 +4609,7 @@
       "Name": "Adventure Time",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2758
+      "UsersEstimate": 2759
     },
     {
       "ID": "ach19",
@@ -4676,7 +4681,7 @@
       "Name": "So Krafty",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 2375
+      "UsersEstimate": 2376
     },
     {
       "ID": "ach28",
@@ -4730,9 +4735,9 @@
       "ID": "ach34",
       "SetID": "47in8n6",
       "Name": "Always Accessorize",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2375
+      "UsersEstimate": 2452
     },
     {
       "ID": "ach35",
@@ -4772,7 +4777,7 @@
       "Name": "Make Way, I\u0027m Koming Through",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2988
+      "UsersEstimate": 2989
     },
     {
       "ID": "ach40",
@@ -4844,7 +4849,7 @@
       "Name": "Total Disrespect",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 1532
+      "UsersEstimate": 1533
     },
     {
       "ID": "ach49",
@@ -4867,7 +4872,7 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 7662,
+      "Progressed": 7663,
       "Completed": 0
     }
   ],
@@ -4875,8 +4880,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-10-16T02:18:13.9313351+00:00",
-  "LastChanged_Achievements": "2023-10-16T02:27:19.9762933+00:00",
+  "LastChanged_Achievements": "2023-10-16T03:08:40.4038676+00:00",
   "LastUpdate_AppInfo": "2023-10-14T07:57:06.3888504+00:00",
-  "LastUpdate_Ratings": "2023-10-16T02:18:13.9313356+00:00",
-  "LastUpdate_Achievements": "2023-10-16T02:27:19.9763402+00:00"
+  "LastUpdate_Ratings": "2023-10-16T02:59:17.233143+00:00",
+  "LastUpdate_Achievements": "2023-10-16T03:08:40.4039297+00:00"
 }
