@@ -2,7 +2,7 @@
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 66.67% |
-| 3 | [The Riflemen](games/t/the_riflemen.md) | 48.09% |
+| 3 | [The Riflemen](games/t/the_riflemen.md) | 48.08% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.15% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.99% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
@@ -19,7 +19,7 @@
 | 16 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 20.00% |
 | 18 | [Doodle Devil](games/d/doodle_devil.md) | 19.51% |
 | 19 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.39% |
-| 20 | [Island Cities](games/i/island_cities.md) | 16.55% |
+| 20 | [Island Cities](games/i/island_cities.md) | 16.51% |
 | 21 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.12% |
 | 22 | [Seven Doors](games/s/seven_doors.md) | 14.29% |
 | 22 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 14.29% |
@@ -30,8 +30,8 @@
 | 28 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 12.12% |
 | 29 | [Remains](games/r/remains.md) | 11.76% |
 | 30 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 11.43% |
-| 31 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
-| 32 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.05% |
+| 31 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.19% |
+| 32 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 33 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.80% |
 | 34 | [Anna's Quest](games/a/anna's_quest.md) | 10.71% |
 | 35 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.53% |
@@ -41,7 +41,7 @@
 | 39 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
 | 40 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.99% |
 | 41 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.67% |
-| 42 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.74% |
+| 42 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.73% |
 | 43 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 44 | [Ravenlok](games/r/ravenlok.md) | 7.66% |
 | 45 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.51% |
@@ -79,7 +79,7 @@
 | 77 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
 | 78 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 79 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.45% |
-| 80 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.42% |
+| 80 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.40% |
 | 81 | [The Bunker](games/t/the_bunker.md) | 3.39% |
 | 82 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
 | 83 | [The Complex](games/t/the_complex.md) | 3.33% |
@@ -100,8 +100,8 @@
 | 98 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 2.63% |
 | 99 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.61% |
 | 100 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.56% |
-| 101 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.50% |
 | 101 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 102 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.47% |
 | 103 | [Lamentum](games/l/lamentum.md) | 2.46% |
 | 104 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.41% |
 | 105 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.40% |
@@ -110,7 +110,7 @@
 | 108 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.30% |
 | 109 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.22% |
 | 110 | [Bloodshore](games/b/bloodshore.md) | 2.13% |
-| 111 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.00% |
+| 111 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.99% |
 | 112 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.98% |
 | 113 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.96% |
 | 114 | [Night Book](games/n/night_book.md) | 1.84% |
@@ -185,7 +185,7 @@
 | 180 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.46% |
 | 180 | [Them and Us](games/t/them_and_us.md) | 0.46% |
 | 185 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.45% |
-| 186 | [It Takes Two](games/i/it_takes_two.md) | 0.44% |
+| 185 | [It Takes Two](games/i/it_takes_two.md) | 0.45% |
 | 187 | [Tchia](games/t/tchia.md) | 0.43% |
 | 188 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.42% |
 | 188 | [Wildermyth](games/w/wildermyth.md) | 0.42% |
@@ -435,6 +435,7 @@
 | 315 | [Gas Station Simulator](games/d/d3f97f301cb746d5b6e15424edb28afc.md) | 0.00% |
 | 315 | [Geometric Sniper - Z](games/7/706577b22cbb4ab38611e2c97e03a800.md) | 0.00% |
 | 315 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 0.00% |
+| 315 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 0.00% |
 | 315 | [GINSHA](games/f/f63608bdb9234e0cbfb6d7f81e96d33c.md) | 0.00% |
 | 315 | [Godlike Burger](games/g/godlike_burger.md) | 0.00% |
 | 315 | [Golfing in Aether](games/4/40f6e4beb45a4bbfb77fdb6774331e83.md) | 0.00% |
@@ -670,4 +671,4 @@
 | 315 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 315 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 315 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,405 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,406 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
