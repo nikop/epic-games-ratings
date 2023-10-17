@@ -4,6 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Are You Alright? | 50.00% | ~4 |
 | Last Night...Did We... | 38.00% | ~3 |
 | I Challenge You To Save More Money! | 38.00% | ~3 |
 | Doesn't Matter I'll Handle It | 38.00% | ~3 |
@@ -14,7 +15,6 @@
 | What I Want Is You | 38.00% | ~3 |
 | To Be Or Not To Be | 38.00% | ~3 |
 | FIRST LOVE | 38.00% | ~3 |
-| Are You Alright? | 38.00% | ~3 |
 | You're Really Something Else | 38.00% | ~3 |
 | Boys Need To Protect Themselves | 25.00% | ~2 |
 | Days Of Innocence | 25.00% | ~2 |

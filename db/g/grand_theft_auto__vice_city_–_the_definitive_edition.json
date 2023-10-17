@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 434,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -766,9 +766,9 @@
       "Count": 96
     }
   ],
-  "EOS_Progressed": 10614,
+  "EOS_Progressed": 10615,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -11451,6 +11451,11 @@
       "Time": "2023-10-16T16:04:07.9503131+00:00",
       "NumProgressed": 10614,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-10-17T14:04:11.2278435+00:00",
+      "NumProgressed": 10615,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 34,
@@ -11478,7 +11483,7 @@
       "Name": "Iron-y",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 1061
+      "UsersEstimate": 1062
     },
     {
       "ID": "ACH04",
@@ -11622,7 +11627,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4882
+      "UsersEstimate": 4883
     },
     {
       "ID": "ACH22",
@@ -11733,7 +11738,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10614,
+      "Progressed": 10615,
       "Completed": 60
     }
   ],
@@ -11741,8 +11746,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-10-16T16:58:12.2568782+00:00",
-  "LastChanged_Achievements": "2023-10-17T13:10:16.6396083+00:00",
+  "LastChanged_Achievements": "2023-10-17T14:04:11.2278432+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:56.7423853+00:00",
-  "LastUpdate_Ratings": "2023-10-17T13:04:32.2537021+00:00",
-  "LastUpdate_Achievements": "2023-10-17T13:10:16.6397015+00:00"
+  "LastUpdate_Ratings": "2023-10-17T13:58:09.1567256+00:00",
+  "LastUpdate_Achievements": "2023-10-17T14:04:11.2279324+00:00"
 }

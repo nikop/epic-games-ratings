@@ -37,12 +37,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | Research & Development | 0.90% | ~1,240 |
 | Vanity, Verily | 0.90% | ~1,240 |
 | Efficient Floor Space | 0.90% | ~1,240 |
+| Flawless Fusion | 0.90% | ~1,240 |
 | Gem Expert | 0.90% | ~1,240 |
 | Helping Hand | 0.90% | ~1,240 |
 | Natural 20 | 0.90% | ~1,240 |
 | Fated Encounters | 0.80% | ~1,102 |
 | Power of Love | 0.80% | ~1,102 |
-| Flawless Fusion | 0.80% | ~1,102 |
 | Royal Ransom | 0.80% | ~1,102 |
 | Magical Harmony | 0.80% | ~1,102 |
 | A Notch Above the Rest | 0.70% | ~964 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,732 (Ranked 73)  
+Progressed: 137,736 (Ranked 73)  
 Completed: 169 (0.12%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 169 (0.12%) (Ranked 242)
 | 2023-10-14 | 137,618 | 168 |
 | 2023-10-15 | 137,669 | 168 |
 | 2023-10-16 | 137,703 | 168 |
-| 2023-10-17 | 137,732 | 169 |
+| 2023-10-17 | 137,736 | 169 |
 ## Awards
 Max (Great for Beginners): 4,790  (Ranked 72)  
 Sum: 27,392 (Ranked 50)  

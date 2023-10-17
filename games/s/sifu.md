@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Beatmaker | 0.10% | ~25 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,728 (Ranked 20)  
+Progressed: 715,729 (Ranked 20)  
 Completed: 12,922 (1.81%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,14 +247,14 @@ Completed: 12,922 (1.81%) (Ranked 116)
 | 2023-10-14 | 715,681 | 12,920 |
 | 2023-10-15 | 715,704 | 12,921 |
 | 2023-10-16 | 715,718 | 12,922 |
-| 2023-10-17 | 715,728 | 12,922 |
+| 2023-10-17 | 715,729 | 12,922 |
 ## Awards
-Max (Great Boss Battles): 6,690  (Ranked 53)  
-Sum: 11,610 (Ranked 83)  
-Diff (max vs sum): -30  
+Max (Great Boss Battles): 6,694  (Ranked 53)  
+Sum: 11,614 (Ranked 82)  
+Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,690 |
+| This game has Great Boss Battles | 6,694 |
 | This game has Diverse Characters | 624 |
 | This game has Challenging Combat | 584 |
 | This game has Amazing Storytelling | 566 |
@@ -542,4 +542,4 @@ Diff (max vs sum): -30
 | 2023-10-14 | 4.82 | - | 6,675 | 11,578 |
 | 2023-10-15 | 4.82 | - | 6,684 | 11,593 |
 | 2023-10-16 | 4.82 | - | 6,690 | 11,605 |
-| 2023-10-17 | 4.82 | - | 6,690 | 11,610 |
+| 2023-10-17 | 4.82 | - | 6,694 | 11,614 |

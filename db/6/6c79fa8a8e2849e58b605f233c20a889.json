@@ -4,7 +4,7 @@
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2720,
+  "EOS_Progressed": 2721,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -6646,6 +6646,11 @@
       "Time": "2023-10-16T20:06:26.7215354+00:00",
       "NumProgressed": 2720,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-17T14:05:36.2015517+00:00",
+      "NumProgressed": 2721,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -6687,9 +6692,9 @@
       "ID": "CONQUEROR",
       "SetID": "8lhbnh7",
       "Name": "Harold Rex Interfectus Est",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 762
+      "UsersEstimate": 735
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -6761,7 +6766,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1632
+      "UsersEstimate": 1633
     },
     {
       "ID": "GUARD_MAKER",
@@ -6832,14 +6837,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2720,
+      "Progressed": 2721,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-10-17T13:11:28.7745735+00:00",
+  "LastChanged_Achievements": "2023-10-17T14:05:36.201551+00:00",
   "LastUpdate_AppInfo": "2023-10-11T02:57:20.2291076+00:00",
-  "LastUpdate_Ratings": "2023-10-17T13:05:09.0623051+00:00",
-  "LastUpdate_Achievements": "2023-10-17T13:11:28.7746335+00:00"
+  "LastUpdate_Ratings": "2023-10-17T13:58:58.6020416+00:00",
+  "LastUpdate_Achievements": "2023-10-17T14:05:36.2016075+00:00"
 }

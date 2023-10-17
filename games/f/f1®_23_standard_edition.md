@@ -5,18 +5,18 @@ Rating: 4.67 (Ranked 263)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 95.00% | ~3,139 |
+| Getting on the Step | 95.00% | ~3,140 |
 | On the Top Step | 89.00% | ~2,941 |
-| Setting up for Success | 79.00% | ~2,610 |
-| Team Orders | 76.00% | ~2,511 |
-| Engineer | 57.00% | ~1,883 |
-| Familiar Faces | 51.00% | ~1,685 |
+| Setting up for Success | 79.00% | ~2,611 |
+| Team Orders | 76.00% | ~2,512 |
+| Engineer | 57.00% | ~1,884 |
+| Familiar Faces | 51.00% | ~1,686 |
 | Going the Extra Mile | 45.00% | ~1,487 |
-| Sharing the Love | 43.00% | ~1,421 |
+| Sharing the Love | 44.00% | ~1,454 |
 | Hitting a Season | 41.00% | ~1,355 |
-| Challenge Yourself | 36.00% | ~1,189 |
-| A Dozen Pieces | 34.00% | ~1,123 |
-| Making History | 33.00% | ~1,090 |
+| Challenge Yourself | 36.00% | ~1,190 |
+| A Dozen Pieces | 34.00% | ~1,124 |
+| Making History | 33.00% | ~1,091 |
 | Network Success | 27.00% | ~892 |
 | Writing a new Chapter | 27.00% | ~892 |
 | Spring Cleaning | 25.00% | ~826 |
@@ -34,8 +34,8 @@ Rating: 4.67 (Ranked 263)
 | All in a Weekend's Work | 13.00% | ~430 |
 | Spinning Around | 13.00% | ~430 |
 | Recycle | 13.00% | ~430 |
-| Switcheroo | 12.00% | ~396 |
-| Tinkerer | 11.00% | ~363 |
+| Switcheroo | 11.00% | ~364 |
+| Tinkerer | 11.00% | ~364 |
 | Friendly Competition | 10.00% | ~330 |
 | Undisputed Winner | 9.00% | ~297 |
 | Living up to Expectations | 7.00% | ~231 |
@@ -55,7 +55,7 @@ Rating: 4.67 (Ranked 263)
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,304 (Ranked 188)  
+Progressed: 3,305 (Ranked 188)  
 Completed: 0 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 0 (0.00%) (Ranked 315)
 | 2023-10-14 | 3,247 | 0 |
 | 2023-10-15 | 3,279 | 0 |
 | 2023-10-16 | 3,296 | 0 |
-| 2023-10-17 | 3,304 | 0 |
+| 2023-10-17 | 3,305 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

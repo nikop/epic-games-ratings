@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Throwing up Tags | 93.00% | ~6,305 |
-| Cool Whip | 90.00% | ~6,102 |
-| Fashion Killa | 89.00% | ~6,034 |
-| Drop the Beat | 86.00% | ~5,831 |
-| Hey Lakeshore | 85.00% | ~5,763 |
-| 100 Miles and Runnin' | 84.00% | ~5,695 |
-| Public Enemy | 83.00% | ~5,627 |
-| Rebel Without a Pause | 68.00% | ~4,610 |
-| Hey Speedie! | 68.00% | ~4,610 |
-| Most Wanted | 65.00% | ~4,407 |
-| New Crew | 63.00% | ~4,271 |
-| Style it Out | 54.00% | ~3,661 |
-| Escape Artist | 54.00% | ~3,661 |
-| Untouchable | 54.00% | ~3,661 |
-| Serious Guap | 53.00% | ~3,593 |
+| Throwing up Tags | 93.00% | ~6,306 |
+| Cool Whip | 90.00% | ~6,103 |
+| Fashion Killa | 89.00% | ~6,035 |
+| Drop the Beat | 86.00% | ~5,832 |
+| Hey Lakeshore | 85.00% | ~5,764 |
+| 100 Miles and Runnin' | 84.00% | ~5,696 |
+| Public Enemy | 83.00% | ~5,628 |
+| Rebel Without a Pause | 68.00% | ~4,611 |
+| Hey Speedie! | 68.00% | ~4,611 |
+| Most Wanted | 65.00% | ~4,408 |
+| New Crew | 63.00% | ~4,272 |
+| Style it Out | 54.00% | ~3,662 |
+| Escape Artist | 54.00% | ~3,662 |
+| Untouchable | 54.00% | ~3,662 |
+| Serious Guap | 53.00% | ~3,594 |
 | Oh, It's On | 51.00% | ~3,458 |
-| Rydell's Rydes | 49.00% | ~3,322 |
+| Rydell's Rydes | 49.00% | ~3,323 |
 | Cash Money Millionaire | 46.00% | ~3,119 |
 | Lake Better Watch Out | 40.00% | ~2,712 |
 | Access All Areas | 35.00% | ~2,373 |
-| #Blessed | 34.00% | ~2,305 |
+| #Blessed | 34.00% | ~2,306 |
 | Kick it | 32.00% | ~2,170 |
 | Found Family | 31.00% | ~2,102 |
 | The Collector | 30.00% | ~2,034 |
@@ -46,7 +46,7 @@
 | Catch My Drift | 3.00% | ~203 |
 | Cleaning Up | 2.00% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,780 (Ranked 162)  
+Progressed: 6,781 (Ranked 162)  
 Completed: 40 (0.59%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,4 +78,4 @@ Completed: 40 (0.59%) (Ranked 166)
 | 2023-10-14 | 6,492 | 39 |
 | 2023-10-15 | 6,659 | 39 |
 | 2023-10-16 | 6,742 | 40 |
-| 2023-10-17 | 6,780 | 40 |
+| 2023-10-17 | 6,781 | 40 |

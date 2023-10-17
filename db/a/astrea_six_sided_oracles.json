@@ -599,9 +599,9 @@
       "ID": "HeavyPurger",
       "SetID": "1jeo1g7",
       "Name": "Heavy Purger",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "IfIHadFailed",
@@ -975,9 +975,9 @@
       "ID": "AquarianChampion",
       "SetID": "1jeo1g7",
       "Name": "Aquarian Champion",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "AquarianHero",
@@ -1102,8 +1102,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-10-17T13:12:22.2665255+00:00",
+  "LastChanged_Achievements": "2023-10-17T14:06:39.1332765+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:31.1237479+00:00",
-  "LastUpdate_Ratings": "2023-10-17T13:06:53.0825277+00:00",
-  "LastUpdate_Achievements": "2023-10-17T13:12:22.2666378+00:00"
+  "LastUpdate_Ratings": "2023-10-17T14:01:11.9519299+00:00",
+  "LastUpdate_Achievements": "2023-10-17T14:06:39.1333982+00:00"
 }

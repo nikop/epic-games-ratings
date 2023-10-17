@@ -6,44 +6,44 @@ Number of Ratings: 25,248  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~785,442 |
-| Green Energy | 60.00% | ~663,754 |
-| Foggy Weather | 59.00% | ~652,691 |
-| Singing In The- | 59.00% | ~652,691 |
-| Unpopular Mayor | 40.00% | ~442,502 |
-| Power at Your Fingertips | 33.00% | ~365,064 |
-| City Planner | 23.00% | ~254,439 |
-| Rolling in Dough | 20.00% | ~221,251 |
-| Does My Bum Look Big In This? | 17.00% | ~188,064 |
-| Climbing the Social Ladder | 16.00% | ~177,001 |
-| Safe City | 14.00% | ~154,876 |
-| Quay-King | 11.00% | ~121,688 |
-| Lawmaker | 10.00% | ~110,626 |
-| With Canals You Can! | 10.00% | ~110,626 |
-| Nomen Est Omen | 7.00% | ~77,438 |
-| Well Informed | 6.00% | ~66,375 |
-| Fire Watch | 5.00% | ~55,313 |
-| Greenest City | 4.00% | ~44,250 |
-| Heavenly City | 3.00% | ~33,188 |
-| Reporting! | 3.00% | ~33,188 |
-| SIMulated City | 3.00% | ~33,188 |
-| The Safest Town | 3.00% | ~33,188 |
-| Professional Dumper | 2.00% | ~22,125 |
+| Pioneer | 71.00% | ~785,504 |
+| Green Energy | 60.00% | ~663,806 |
+| Foggy Weather | 59.00% | ~652,743 |
+| Singing In The- | 59.00% | ~652,743 |
+| Unpopular Mayor | 40.00% | ~442,538 |
+| Power at Your Fingertips | 33.00% | ~365,094 |
+| City Planner | 23.00% | ~254,459 |
+| Rolling in Dough | 20.00% | ~221,269 |
+| Does My Bum Look Big In This? | 17.00% | ~188,078 |
+| Climbing the Social Ladder | 16.00% | ~177,015 |
+| Safe City | 14.00% | ~154,888 |
+| Quay-King | 11.00% | ~121,698 |
+| Lawmaker | 10.00% | ~110,634 |
+| With Canals You Can! | 10.00% | ~110,634 |
+| Nomen Est Omen | 7.00% | ~77,444 |
+| Well Informed | 6.00% | ~66,381 |
+| Fire Watch | 5.00% | ~55,317 |
+| Greenest City | 4.00% | ~44,254 |
+| Heavenly City | 3.00% | ~33,190 |
+| Reporting! | 3.00% | ~33,190 |
+| SIMulated City | 3.00% | ~33,190 |
+| The Safest Town | 3.00% | ~33,190 |
+| Professional Dumper | 2.00% | ~22,127 |
 | City in Motion | 1.00% | ~11,063 |
 | Earthloving City | 1.00% | ~11,063 |
 | Metropolis | 1.00% | ~11,063 |
-| Higher Education | 0.80% | ~8,850 |
+| Higher Education | 0.80% | ~8,851 |
 | Beam Me Up | 0.70% | ~7,744 |
 | Full Capacity | 0.60% | ~6,638 |
 | Terraformer | 0.60% | ~6,638 |
-| Decorator | 0.50% | ~5,531 |
-| Drop the Base | 0.50% | ~5,531 |
-| It's heading right for us! | 0.50% | ~5,531 |
-| Postman | 0.50% | ~5,531 |
-| Shake It Up! | 0.50% | ~5,531 |
-| Speed up! | 0.50% | ~5,531 |
-| The Waters of Our Lives | 0.50% | ~5,531 |
-| Twist and shout | 0.50% | ~5,531 |
+| Decorator | 0.50% | ~5,532 |
+| Drop the Base | 0.50% | ~5,532 |
+| It's heading right for us! | 0.50% | ~5,532 |
+| Postman | 0.50% | ~5,532 |
+| Shake It Up! | 0.50% | ~5,532 |
+| Speed up! | 0.50% | ~5,532 |
+| The Waters of Our Lives | 0.50% | ~5,532 |
+| Twist and shout | 0.50% | ~5,532 |
 | Airfield Expertise | 0.40% | ~4,425 |
 | Airlifter | 0.40% | ~4,425 |
 | Get Your Snowshoes Ready! | 0.40% | ~4,425 |
@@ -126,7 +126,7 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~1,106 |
 | Z00 | 0.10% | ~1,106 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,106,256 (Ranked 11)  
+Progressed: 1,106,344 (Ranked 11)  
 Completed: 10 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,10 +306,10 @@ Completed: 10 (0.00%) (Ranked 315)
 | 2023-10-14 | 1,102,419 | 10 |
 | 2023-10-15 | 1,104,362 | 10 |
 | 2023-10-16 | 1,105,691 | 10 |
-| 2023-10-17 | 1,106,256 | 10 |
+| 2023-10-17 | 1,106,344 | 10 |
 ## Awards
 Max (Great for Beginners): 5,787  (Ranked 65)  
-Sum: 43,531 (Ranked 32)  
+Sum: 43,536 (Ranked 32)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
@@ -318,7 +318,7 @@ Diff (max vs sum): 33
 | This game is Educational | 5,432 |
 | This game has Quickly Understood Controls | 5,337 |
 | This game is Extremely Fun | 5,008 |
-| This game is Highly Recommended | 4,866 |
+| This game is Highly Recommended | 4,871 |
 | This game has Amazing Storytelling | 4,021 |
 | This game has a Creative Community | 3,883 |
 | This game has Amazing Characters | 3,430 |
@@ -590,4 +590,4 @@ Diff (max vs sum): 33
 | 2023-10-14 | 4.66 | - | 5,755 | 43,289 |
 | 2023-10-15 | 4.66 | - | 5,774 | 43,427 |
 | 2023-10-16 | 4.66 | - | 5,787 | 43,503 |
-| 2023-10-17 | 4.66 | - | 5,787 | 43,531 |
+| 2023-10-17 | 4.66 | - | 5,787 | 43,536 |

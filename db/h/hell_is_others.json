@@ -4,7 +4,7 @@
   "ProductSlug": "hell-is-others-789262",
   "Ranking_Rating": 723,
   "Ranking_Popularity": 428,
-  "Ranking_PopularitySum": 352,
+  "Ranking_PopularitySum": 350,
   "Ranking_EOS_Progress": 51,
   "Ranking_EOS_Completed": 315,
   "Ranking_EOS_NewPlayers": 119,
@@ -1028,10 +1028,16 @@
       "Rating": 4.4,
       "NumberOfAwards": 293,
       "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2023-10-17T14:03:11.2839035+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 295,
+      "NumberOfAwardsMax": 45
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 293,
+  "NumberOfAwards": 295,
   "NumberOfAwardsMax": 45,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1045,7 +1051,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 37
+      "Count": 39
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1096,9 +1102,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 257391,
+  "EOS_Progressed": 257393,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 245,
+  "EOS_NewPlayers": 247,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18851,6 +18857,11 @@
       "Time": "2023-10-17T13:12:44.2148026+00:00",
       "NumProgressed": 257391,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-17T14:07:05.2913043+00:00",
+      "NumProgressed": 257393,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -18862,7 +18873,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 18017
+      "UsersEstimate": 18018
     },
     {
       "ID": "Act2",
@@ -18910,7 +18921,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 79791
+      "UsersEstimate": 79792
     },
     {
       "ID": "BackHomeNTimes",
@@ -19062,7 +19073,7 @@
       "Name": "Green thumb I",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15443
+      "UsersEstimate": 15444
     },
     {
       "ID": "GrowPlants2",
@@ -19118,7 +19129,7 @@
       "Name": "Cleaning Company",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15443
+      "UsersEstimate": 15444
     },
     {
       "ID": "KillOtherWithKatana",
@@ -19309,16 +19320,16 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 257391,
+      "Progressed": 257393,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2023-10-17T08:03:10.2239862+00:00",
-  "LastChanged_Achievements": "2023-10-17T13:12:44.2148012+00:00",
+  "LastChanged": "2023-10-17T14:03:11.2839006+00:00",
+  "LastChanged_Achievements": "2023-10-17T14:07:05.2913036+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:45.0933759+00:00",
-  "LastUpdate_Ratings": "2023-10-17T13:09:06.4690445+00:00",
-  "LastUpdate_Achievements": "2023-10-17T13:12:44.2149474+00:00"
+  "LastUpdate_Ratings": "2023-10-17T14:03:11.283904+00:00",
+  "LastUpdate_Achievements": "2023-10-17T14:07:05.2914604+00:00"
 }

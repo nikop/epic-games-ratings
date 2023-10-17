@@ -4,7 +4,7 @@
   "ProductSlug": "love-is-all-around-3a8046",
   "Ranking_EOS_Progress": 537,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 390,
+  "Ranking_EOS_NewPlayers": 389,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-10-18T04:00:00+00:00",
@@ -330,9 +330,9 @@
       "ID": "NEW_ACHIEVEMENT_2_0",
       "SetID": "7opfcp",
       "Name": "Are You Alright?",
-      "Percentage": 38,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_1",
@@ -416,8 +416,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
-  "LastChanged_Achievements": "2023-10-17T13:11:01.5816488+00:00",
+  "LastChanged_Achievements": "2023-10-17T14:05:04.1572369+00:00",
   "LastUpdate_AppInfo": "2023-10-13T20:56:58.7836502+00:00",
-  "LastUpdate_Ratings": "2023-10-17T13:05:47.0946653+00:00",
-  "LastUpdate_Achievements": "2023-10-17T13:11:01.5816857+00:00"
+  "LastUpdate_Ratings": "2023-10-17T13:59:48.1516662+00:00",
+  "LastUpdate_Achievements": "2023-10-17T14:05:04.1572677+00:00"
 }

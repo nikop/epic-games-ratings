@@ -302,9 +302,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17871,
+  "EOS_Progressed": 17872,
   "EOS_Completed": 112,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -14017,6 +14017,11 @@
       "Time": "2023-10-17T12:05:26.3962546+00:00",
       "NumProgressed": 17871,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2023-10-17T14:05:14.4009287+00:00",
+      "NumProgressed": 17872,
+      "NumCompleted": 112
     }
   ],
   "TotalAchievements": 16,
@@ -14076,7 +14081,7 @@
       "Name": "Fireworks",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 5897
+      "UsersEstimate": 5898
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -14132,7 +14137,7 @@
       "Name": "Sole Survivor",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 6612
+      "UsersEstimate": 6613
     },
     {
       "ID": "Still_Burning",
@@ -14155,15 +14160,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 17871,
+      "Progressed": 17872,
       "Completed": 112
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-07-21T02:04:12.2963456+00:00",
-  "LastChanged_Achievements": "2023-10-17T13:11:10.6221446+00:00",
+  "LastChanged_Achievements": "2023-10-17T14:05:14.4009281+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:27.7450235+00:00",
-  "LastUpdate_Ratings": "2023-10-17T13:05:08.0421916+00:00",
-  "LastUpdate_Achievements": "2023-10-17T13:11:10.6222474+00:00"
+  "LastUpdate_Ratings": "2023-10-17T13:58:57.4006057+00:00",
+  "LastUpdate_Achievements": "2023-10-17T14:05:14.4010215+00:00"
 }

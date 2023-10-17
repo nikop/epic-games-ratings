@@ -19,8 +19,8 @@
 | Behenian Champion | 24.00% | ~14 |
 | Loyal Partner | 22.00% | ~13 |
 | Stellar Dismantler | 22.00% | ~13 |
+| Aquarian Champion | 22.00% | ~13 |
 | Anomaly Destroyer | 21.00% | ~12 |
-| Aquarian Champion | 21.00% | ~12 |
 | Shard Spender | 19.00% | ~11 |
 | Heart Gate | 17.00% | ~10 |
 | Star Killer | 17.00% | ~10 |
@@ -34,11 +34,11 @@
 | Lacertian Hero | 10.00% | ~6 |
 | Anomaly Control | 9.00% | ~5 |
 | Can't touch this | 9.00% | ~5 |
+| Heavy Purger | 9.00% | ~5 |
 | Sadistic Plan | 9.00% | ~5 |
 | Stellar Haste | 9.00% | ~5 |
 | Apian Hero | 9.00% | ~5 |
 | Denying Destiny | 7.00% | ~4 |
-| Heavy Purger | 7.00% | ~4 |
 | The Chaos Artisan | 7.00% | ~4 |
 | The Dark Moon | 7.00% | ~4 |
 | The Distorted Sage | 7.00% | ~4 |

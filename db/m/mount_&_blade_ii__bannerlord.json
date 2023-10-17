@@ -8049,9 +8049,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 63424,
+  "EOS_Progressed": 63427,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 402,
+  "EOS_NewPlayers": 400,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27149,6 +27149,11 @@
       "Time": "2023-10-17T13:11:06.4963317+00:00",
       "NumProgressed": 63424,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-17T14:05:09.5987975+00:00",
+      "NumProgressed": 63427,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -27240,7 +27245,7 @@
       "Name": "Duelist",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6342
+      "UsersEstimate": 6343
     },
     {
       "ID": "Dynasty",
@@ -27248,7 +27253,7 @@
       "Name": "Dynasty",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 6342
+      "UsersEstimate": 6343
     },
     {
       "ID": "Entrepreneur",
@@ -27288,7 +27293,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8245
+      "UsersEstimate": 8246
     },
     {
       "ID": "Great Granny",
@@ -27336,7 +27341,7 @@
       "Name": "I spit on your grave",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6342
+      "UsersEstimate": 6343
     },
     {
       "ID": "Jack of All Trades",
@@ -27352,7 +27357,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10782
+      "UsersEstimate": 10783
     },
     {
       "ID": "Kingslayer",
@@ -27384,7 +27389,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 20930
+      "UsersEstimate": 20931
     },
     {
       "ID": "Lawbringer",
@@ -27392,7 +27397,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 24735
+      "UsersEstimate": 24737
     },
     {
       "ID": "Lawmaker",
@@ -27504,7 +27509,7 @@
       "Name": "Swordbearer",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6342
+      "UsersEstimate": 6343
     },
     {
       "ID": "The king is pleased",
@@ -27560,22 +27565,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6342
+      "UsersEstimate": 6343
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 63424,
+      "Progressed": 63427,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-17T10:57:38.0631451+00:00",
-  "LastChanged_Achievements": "2023-10-17T13:11:06.4963312+00:00",
+  "LastChanged_Achievements": "2023-10-17T14:05:09.598797+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:51.8810296+00:00",
-  "LastUpdate_Ratings": "2023-10-17T13:04:18.9347724+00:00",
-  "LastUpdate_Achievements": "2023-10-17T13:11:06.496477+00:00"
+  "LastUpdate_Ratings": "2023-10-17T13:57:51.2699846+00:00",
+  "LastUpdate_Achievements": "2023-10-17T14:05:09.5989535+00:00"
 }

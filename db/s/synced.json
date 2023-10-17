@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 365,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 284,
-  "Ranking_EOS_NewPlayers": 64,
+  "Ranking_EOS_NewPlayers": 63,
   "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -696,9 +696,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 63505,
+  "EOS_Progressed": 63507,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 1121,
+  "EOS_NewPlayers": 1119,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5516,6 +5516,11 @@
       "Time": "2023-10-17T13:16:07.2681699+00:00",
       "NumProgressed": 63505,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-10-17T14:09:35.5173+00:00",
+      "NumProgressed": 63507,
+      "NumCompleted": 18
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -5608,7 +5613,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6350
+      "UsersEstimate": 6351
     },
     {
       "ID": "5",
@@ -5616,7 +5621,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 5080
+      "UsersEstimate": 5081
     },
     {
       "ID": "6",
@@ -5655,7 +5660,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 63505,
+      "Progressed": 63507,
       "Completed": 18
     }
   ],
@@ -5663,8 +5668,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-10-17T11:57:36.2978852+00:00",
-  "LastChanged_Achievements": "2023-10-17T13:16:07.2681694+00:00",
+  "LastChanged_Achievements": "2023-10-17T14:09:35.5172995+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:34.3906075+00:00",
-  "LastUpdate_Ratings": "2023-10-17T13:04:11.0521849+00:00",
-  "LastUpdate_Achievements": "2023-10-17T13:16:07.2682137+00:00"
+  "LastUpdate_Ratings": "2023-10-17T13:57:41.8185956+00:00",
+  "LastUpdate_Achievements": "2023-10-17T14:09:35.5173547+00:00"
 }

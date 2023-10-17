@@ -6,32 +6,32 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cost of Heroism | 41.00% | ~584 |
-| Me and My Familiar | 38.00% | ~541 |
+| The Cost of Heroism | 41.00% | ~585 |
+| Me and My Familiar | 38.00% | ~542 |
 | This Too Shall Pass | 32.00% | ~456 |
-| Passing Shadow | 31.00% | ~441 |
-| Cutthroat Competitors | 31.00% | ~441 |
-| How Romantic! | 29.00% | ~413 |
-| Daybreak | 29.00% | ~413 |
-| Gotta Ca... Must Collect All of Them | 26.00% | ~370 |
+| Passing Shadow | 31.00% | ~442 |
+| Cutthroat Competitors | 31.00% | ~442 |
+| How Romantic! | 29.00% | ~414 |
+| Daybreak | 29.00% | ~414 |
+| Gotta Ca... Must Collect All of Them | 26.00% | ~371 |
 | Completing the Look | 15.00% | ~214 |
 | War Endured | 15.00% | ~214 |
-| A Mythic Menagerie | 14.00% | ~199 |
-| Who's Counting? | 14.00% | ~199 |
-| Core Failure | 14.00% | ~199 |
+| A Mythic Menagerie | 14.00% | ~200 |
+| Who's Counting? | 14.00% | ~200 |
+| Core Failure | 14.00% | ~200 |
 | Pyrrhic Victory | 12.00% | ~171 |
-| Thematic Divergence | 10.00% | ~142 |
-| Echoes Die | 10.00% | ~142 |
+| Thematic Divergence | 10.00% | ~143 |
+| Echoes Die | 10.00% | ~143 |
 | Chain Reaction | 9.00% | ~128 |
 | Plague Doctor | 8.00% | ~114 |
 | Everfading | 8.00% | ~114 |
 | Another Tale to Tell | 8.00% | ~114 |
 | A Story of Heroes | 8.00% | ~114 |
 | Let Me Get My Chisel | 7.00% | ~100 |
-| Legends Never Die | 6.00% | ~85 |
-| Wingknight's Prowess | 6.00% | ~85 |
-| All My Birds, Safely Home | 6.00% | ~85 |
-| Turncoat | 6.00% | ~85 |
+| Legends Never Die | 6.00% | ~86 |
+| Wingknight's Prowess | 6.00% | ~86 |
+| All My Birds, Safely Home | 6.00% | ~86 |
+| Turncoat | 6.00% | ~86 |
 | In Soil, In Smoke | 5.00% | ~71 |
 | A Hunger, Sated | 5.00% | ~71 |
 | We Emerge Changed | 4.00% | ~57 |
@@ -49,21 +49,21 @@ Number of Ratings: 45  (23.09.2022)
 | Into Mulch | 3.00% | ~43 |
 | Astrology | 3.00% | ~43 |
 | Tempest | 3.00% | ~43 |
-| Drauvenslayers | 2.00% | ~28 |
-| Back into the Sea | 2.00% | ~28 |
-| War-Ender | 2.00% | ~28 |
-| Fight Like a Bird | 2.00% | ~28 |
-| Solid as the Hills | 2.00% | ~28 |
-| Symbiosis | 2.00% | ~28 |
-| I'm Not Smiling | 2.00% | ~28 |
-| Thwack! | 2.00% | ~28 |
-| A Temperamental Shrub | 2.00% | ~28 |
+| Drauvenslayers | 2.00% | ~29 |
+| Back into the Sea | 2.00% | ~29 |
+| War-Ender | 2.00% | ~29 |
+| Fight Like a Bird | 2.00% | ~29 |
+| Solid as the Hills | 2.00% | ~29 |
+| Symbiosis | 2.00% | ~29 |
+| I'm Not Smiling | 2.00% | ~29 |
+| Thwack! | 2.00% | ~29 |
+| A Temperamental Shrub | 2.00% | ~29 |
 | A Lowly Crust of Beef | 1.00% | ~14 |
 | We Call That Mortificient! | 0.90% | ~13 |
 | Overwhelming Monstrosity | 0.80% | ~11 |
 | Peacemaker | 0.70% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,424 (Ranked 222)  
+Progressed: 1,426 (Ranked 222)  
 Completed: 6 (0.42%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,6 +200,7 @@ Completed: 6 (0.42%) (Ranked 188)
 | 2023-10-14 | 1,418 | 6 |
 | 2023-10-15 | 1,420 | 6 |
 | 2023-10-16 | 1,424 | 6 |
+| 2023-10-17 | 1,426 | 6 |
 ## Awards
 Max (Character Customization): 28  (Ranked 483)  
 Sum: 28 (Ranked 498)  

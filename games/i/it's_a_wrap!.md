@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under the Bridge | 88.00% | ~98 |
+| Under the Bridge | 89.00% | ~99 |
 | Treasure Hunter | 9.00% | ~10 |
 | Extra Life | 5.00% | ~6 |
 | Budget Killer | 5.00% | ~6 |
