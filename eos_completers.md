@@ -2,7 +2,7 @@
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 66.67% |
-| 3 | [The Riflemen](games/t/the_riflemen.md) | 48.21% |
+| 3 | [The Riflemen](games/t/the_riflemen.md) | 48.20% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.15% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.99% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
@@ -49,7 +49,7 @@
 | 47 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.33% |
 | 48 | [Time Loader](games/t/time_loader.md) | 7.20% |
 | 49 | [Scorn](games/s/scorn.md) | 7.01% |
-| 50 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.67% |
+| 50 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.64% |
 | 51 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.38% |
 | 52 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.29% |
 | 53 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -100,8 +100,8 @@
 | 98 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 2.63% |
 | 99 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.61% |
 | 100 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.56% |
-| 101 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.53% |
-| 102 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 101 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.50% |
+| 101 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 103 | [Lamentum](games/l/lamentum.md) | 2.46% |
 | 104 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.41% |
 | 105 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.40% |
@@ -131,9 +131,9 @@
 | 129 | [Ten Dates](games/t/ten_dates.md) | 1.37% |
 | 130 | [Chorus](games/c/chorus.md) | 1.36% |
 | 130 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.36% |
-| 132 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.32% |
 | 132 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.32% |
-| 134 | [Lemon Cake](games/l/lemon_cake.md) | 1.31% |
+| 133 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.31% |
+| 133 | [Lemon Cake](games/l/lemon_cake.md) | 1.31% |
 | 135 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.30% |
 | 136 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.16% |
 | 137 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.13% |
@@ -172,20 +172,20 @@
 | 167 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.58% |
 | 171 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.57% |
 | 171 | [The Surge 2](games/t/the_surge_2.md) | 0.57% |
-| 173 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
-| 173 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.55% |
-| 175 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
-| 175 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.53% |
-| 177 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.51% |
-| 178 | [Dead Space](games/d/dead_space.md) | 0.47% |
-| 178 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.47% |
+| 173 | [Dead Space](games/d/dead_space.md) | 0.56% |
+| 174 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
+| 174 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.55% |
+| 176 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
+| 176 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.53% |
+| 178 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.51% |
+| 179 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.47% |
 | 180 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.46% |
 | 180 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.46% |
 | 180 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
 | 180 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.46% |
 | 180 | [Them and Us](games/t/them_and_us.md) | 0.46% |
 | 185 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.45% |
-| 185 | [It Takes Two](games/i/it_takes_two.md) | 0.45% |
+| 186 | [It Takes Two](games/i/it_takes_two.md) | 0.44% |
 | 187 | [Tchia](games/t/tchia.md) | 0.43% |
 | 188 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.42% |
 | 188 | [Wildermyth](games/w/wildermyth.md) | 0.42% |
