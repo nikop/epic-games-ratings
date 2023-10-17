@@ -166,9 +166,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14069,
+  "EOS_Progressed": 14071,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 233,
+  "EOS_NewPlayers": 235,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -8901,6 +8901,11 @@
       "Time": "2023-10-17T16:03:53.8225193+00:00",
       "NumProgressed": 14069,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-10-17T19:03:38.580798+00:00",
+      "NumProgressed": 14071,
+      "NumCompleted": 26
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -8929,7 +8934,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 703
+      "UsersEstimate": 704
     },
     {
       "ID": "12",
@@ -8945,7 +8950,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2110
+      "UsersEstimate": 2111
     },
     {
       "ID": "14",
@@ -9152,22 +9157,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14069,
+      "Progressed": 14071,
       "Completed": 26
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 23,
-      "Completed": 23
+      "Progressed": 25,
+      "Completed": 25
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-13T09:00:57.1370573+00:00",
-  "LastChanged_Achievements": "2023-10-17T18:03:44.8412698+00:00",
+  "LastChanged_Achievements": "2023-10-17T19:03:38.5807974+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:40.5814563+00:00",
-  "LastUpdate_Ratings": "2023-10-17T17:57:13.4387118+00:00",
-  "LastUpdate_Achievements": "2023-10-17T18:03:44.8413879+00:00"
+  "LastUpdate_Ratings": "2023-10-17T18:57:11.6272396+00:00",
+  "LastUpdate_Achievements": "2023-10-17T19:03:38.5808896+00:00"
 }

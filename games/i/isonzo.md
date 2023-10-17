@@ -10,7 +10,7 @@ Number of Ratings: 98  (23.09.2022)
 | Peak Performance | 54.00% | ~3,808 |
 | You Shall Not Pass | 54.00% | ~3,808 |
 | Avanti Savoia! | 48.00% | ~3,385 |
-| Mamma Mia! | 38.00% | ~2,680 |
+| Mamma Mia! | 39.00% | ~2,750 |
 | Conrad von Hotzensocks | 36.00% | ~2,539 |
 | Gabriele D'Annunzio | 34.00% | ~2,398 |
 | Silver Lining | 31.00% | ~2,186 |

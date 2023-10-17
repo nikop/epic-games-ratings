@@ -1,7 +1,7 @@
 # Breathedge
 [Store](https://store.epicgames.com/en-US/p/breathedge)  
 [View Rawdata](../../db/b/breathedge.json)  
-Rating: 4.40 (Ranked 723)  
+Rating: 4.41 (Ranked 699)  
 Number of Ratings: 61  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -83,3 +83,4 @@ Number of Ratings: 61  (23.09.2022)
 | 2023-09-29 | 4.40 | - | 0 | 0 |
 | 2023-10-07 | 4.41 | - | 0 | 0 |
 | 2023-10-12 | 4.40 | - | 0 | 0 |
+| 2023-10-17 | 4.41 | - | 0 | 0 |

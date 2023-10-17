@@ -53,9 +53,9 @@ Rating: 4.24 (Ranked 859)
 | Geronimo! | 4.00% | ~84 |
 | Homewrecker | 4.00% | ~84 |
 | Plank of Wood | 4.00% | ~84 |
+| It Lives! It Sniffs! It Conquers! | 3.00% | ~63 |
 | Gotta Craft 'em All | 3.00% | ~63 |
 | Own Medicine | 2.00% | ~42 |
-| It Lives! It Sniffs! It Conquers! | 2.00% | ~42 |
 | Three Birds With One Stone | 2.00% | ~42 |
 | Box Office Smash | 2.00% | ~42 |
 | Going Postal | 2.00% | ~42 |

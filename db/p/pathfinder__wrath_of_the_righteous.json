@@ -3950,9 +3950,9 @@
       "Count": 389
     }
   ],
-  "EOS_Progressed": 11543,
+  "EOS_Progressed": 11544,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13650,6 +13650,11 @@
       "Time": "2023-10-17T18:10:15.8806258+00:00",
       "NumProgressed": 11543,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-17T19:09:25.5397134+00:00",
+      "NumProgressed": 11544,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -13685,7 +13690,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -13909,7 +13914,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1731
+      "UsersEstimate": 1732
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -14533,7 +14538,7 @@
       "Name": "Stay Underground",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "DLC4_24_Hanged Man\u0027s Notes",
@@ -14549,7 +14554,7 @@
       "Name": "Sarkoris Will Be Green",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "DLC4_26_This Wall Won\u0027t Fall",
@@ -14588,21 +14593,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10325,
+      "Progressed": 10326,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11543,
+      "Progressed": 11544,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-10-17T14:57:09.968869+00:00",
-  "LastChanged_Achievements": "2023-10-17T18:10:15.880625+00:00",
+  "LastChanged_Achievements": "2023-10-17T19:09:25.539713+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:48.4782392+00:00",
-  "LastUpdate_Ratings": "2023-10-17T17:57:16.0794992+00:00",
-  "LastUpdate_Achievements": "2023-10-17T18:10:15.8808557+00:00"
+  "LastUpdate_Ratings": "2023-10-17T18:57:13.3935877+00:00",
+  "LastUpdate_Achievements": "2023-10-17T19:09:25.5398893+00:00"
 }

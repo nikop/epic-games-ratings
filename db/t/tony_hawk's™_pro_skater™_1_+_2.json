@@ -3,7 +3,7 @@
   "Name": "Tony Hawk\u0027s\u2122 Pro Skater\u2122 1 \u002B 2",
   "ProductSlug": "tony-hawks-pro-skater-1-and-2",
   "Ranking_Rating": 63,
-  "Ranking_Popularity": 357,
+  "Ranking_Popularity": 356,
   "Ranking_PopularitySum": 280,
   "Ranking_EOS_Progress": 673,
   "Ranking_EOS_Completed": 315,
@@ -1685,18 +1685,24 @@
       "Rating": 4.82,
       "NumberOfAwards": 729,
       "NumberOfAwardsMax": 94
+    },
+    {
+      "Time": "2023-10-17T19:03:19.4136914+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 730,
+      "NumberOfAwardsMax": 95
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 729,
-  "NumberOfAwardsMax": 94,
+  "NumberOfAwards": 730,
+  "NumberOfAwardsMax": 95,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 94
+      "Count": 95
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1782,8 +1788,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:55.4170175+00:00",
-  "LastChanged": "2023-10-17T16:03:30.3427291+00:00",
+  "LastChanged": "2023-10-17T19:03:19.4136913+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:20.1155472+00:00",
-  "LastUpdate_Ratings": "2023-10-17T18:03:19.1838266+00:00",
-  "LastUpdate_Achievements": "2023-10-17T18:05:22.5693579+00:00"
+  "LastUpdate_Ratings": "2023-10-17T19:03:19.4136917+00:00",
+  "LastUpdate_Achievements": "2023-10-17T19:04:41.0436556+00:00"
 }

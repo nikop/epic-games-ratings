@@ -6,19 +6,19 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~69,829 |
-| Powergamer | 27.00% | ~67,336 |
-| Barely scratched the surface | 25.00% | ~62,348 |
-| Write that down | 24.00% | ~59,854 |
-| Guns, lots of guns | 13.00% | ~32,421 |
-| Collector | 12.00% | ~29,927 |
-| Elementary! | 9.00% | ~22,445 |
-| Griever | 8.00% | ~19,951 |
-| Pumpkin Jack | 8.00% | ~19,951 |
-| Wake up! | 8.00% | ~19,951 |
-| It's honest work | 7.00% | ~17,457 |
-| Me smart | 6.00% | ~14,963 |
-| Trash compactor | 6.00% | ~14,963 |
+| I will finish what you started | 28.00% | ~69,831 |
+| Powergamer | 27.00% | ~67,337 |
+| Barely scratched the surface | 25.00% | ~62,349 |
+| Write that down | 24.00% | ~59,855 |
+| Guns, lots of guns | 13.00% | ~32,422 |
+| Collector | 12.00% | ~29,928 |
+| Elementary! | 9.00% | ~22,446 |
+| Griever | 8.00% | ~19,952 |
+| Pumpkin Jack | 8.00% | ~19,952 |
+| Wake up! | 8.00% | ~19,952 |
+| It's honest work | 7.00% | ~17,458 |
+| Me smart | 6.00% | ~14,964 |
+| Trash compactor | 6.00% | ~14,964 |
 | Good listener | 5.00% | ~12,470 |
 | Valedictorian | 5.00% | ~12,470 |
 | BOY! | 4.00% | ~9,976 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~499 |
 | Memory 5 | 0.10% | ~249 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,391 (Ranked 53)  
+Progressed: 249,397 (Ranked 53)  
 Completed: 7 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,14 +239,14 @@ Completed: 7 (0.00%) (Ranked 315)
 | 2023-10-14 | 249,112 | 7 |
 | 2023-10-15 | 249,235 | 7 |
 | 2023-10-16 | 249,321 | 7 |
-| 2023-10-17 | 249,391 | 7 |
+| 2023-10-17 | 249,397 | 7 |
 ## Awards
-Max (Character Customization): 84  (Ranked 370)  
-Sum: 84 (Ranked 442)  
-Diff (max vs sum): -72  
+Max (Character Customization): 85  (Ranked 369)  
+Sum: 85 (Ranked 442)  
+Diff (max vs sum): -73  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 84 |
+| This game has Inclusive Character Customization | 85 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -323,3 +323,4 @@ Diff (max vs sum): -72
 | 2023-10-08 | 4.29 | - | 82 | 82 |
 | 2023-10-12 | 4.29 | - | 83 | 83 |
 | 2023-10-15 | 4.29 | - | 84 | 84 |
+| 2023-10-17 | 4.29 | - | 85 | 85 |

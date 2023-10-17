@@ -7,15 +7,15 @@ Rating: 4.28 (Ranked 830)
 | ---- | ---------- | ----- |
 | Corner Clout | 46.00% | ~160,149 |
 | Copacetic Coordination | 16.00% | ~55,704 |
-| Fronting the Money | 15.00% | ~52,222 |
+| Fronting the Money | 15.00% | ~52,223 |
 | The Dawn of Automation | 14.00% | ~48,741 |
 | Extraordinary Logistics | 14.00% | ~48,741 |
 | Dirty Money | 13.00% | ~45,260 |
 | Family First | 13.00% | ~45,260 |
 | Cleaning House | 12.00% | ~41,778 |
 | Room in the Back | 12.00% | ~41,778 |
-| Beating the Heat | 11.00% | ~38,296 |
-| Booze Baron | 11.00% | ~38,296 |
+| Beating the Heat | 11.00% | ~38,297 |
+| Booze Baron | 11.00% | ~38,297 |
 | Friends on the Force | 10.00% | ~34,815 |
 | Neighborhood Watch | 10.00% | ~34,815 |
 | Core Corps | 8.00% | ~27,852 |
@@ -41,13 +41,13 @@ Rating: 4.28 (Ranked 830)
 | An Affront to the Enemy | 4.00% | ~13,926 |
 | Friends from Back Home | 4.00% | ~13,926 |
 | Half Century Mark | 4.00% | ~13,926 |
-| Corner Opportunities | 3.00% | ~10,444 |
-| 2122 North Clark Street | 3.00% | ~10,444 |
-| Copious Cabbage | 3.00% | ~10,444 |
-| Sockdolager | 3.00% | ~10,444 |
-| Still Stalwart | 3.00% | ~10,444 |
-| Bees Knees Bootlegger | 3.00% | ~10,444 |
-| Tighten the Screws | 3.00% | ~10,444 |
+| Corner Opportunities | 3.00% | ~10,445 |
+| 2122 North Clark Street | 3.00% | ~10,445 |
+| Copious Cabbage | 3.00% | ~10,445 |
+| Sockdolager | 3.00% | ~10,445 |
+| Still Stalwart | 3.00% | ~10,445 |
+| Bees Knees Bootlegger | 3.00% | ~10,445 |
+| Tighten the Screws | 3.00% | ~10,445 |
 | One of Us | 2.00% | ~6,963 |
 | Baker’s Dozen | 2.00% | ~6,963 |
 | Dropping the Dime | 2.00% | ~6,963 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 830)
 | High Pillow | 0.10% | ~348 |
 | Station Master | 0.10% | ~348 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 348,150 (Ranked 43)  
+Progressed: 348,151 (Ranked 43)  
 Completed: 7 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 7 (0.00%) (Ranked 315)
 | 2023-10-14 | 347,785 | 7 |
 | 2023-10-15 | 347,944 | 7 |
 | 2023-10-16 | 348,061 | 7 |
-| 2023-10-17 | 348,150 | 7 |
+| 2023-10-17 | 348,151 | 7 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 446)  
 Sum: 177 (Ranked 399)  

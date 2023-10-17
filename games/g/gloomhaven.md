@@ -6,36 +6,36 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 43.00% | ~6,036 |
-| Overkill | 34.00% | ~4,773 |
-| A normal day in Gloomhaven | 34.00% | ~4,773 |
-| Vaccine Incoming | 33.00% | ~4,632 |
-| Spread the plague | 31.00% | ~4,351 |
-| Get over here! | 24.00% | ~3,369 |
-| Just when I thought I was out... | 19.00% | ~2,667 |
-| Mine... All Mine... | 17.00% | ~2,386 |
-| Precious! | 16.00% | ~2,246 |
-| Light of my life | 15.00% | ~2,106 |
-| Anatomy Lesson | 15.00% | ~2,106 |
-| Grizzled veteran | 13.00% | ~1,825 |
-| You activated my trap card! | 13.00% | ~1,825 |
-| Augmented rat | 13.00% | ~1,825 |
-| Obstacle race | 13.00% | ~1,825 |
-| Doom and gloom | 11.00% | ~1,544 |
-| Who's the Boss? | 9.00% | ~1,263 |
-| Pack leader | 8.00% | ~1,123 |
-| Pain is your friend | 8.00% | ~1,123 |
-| Black death | 8.00% | ~1,123 |
-| Play it again, Sam | 8.00% | ~1,123 |
-| Dungeon Veteran | 7.00% | ~983 |
-| Quad damage | 6.00% | ~842 |
-| Power Up! | 5.00% | ~702 |
-| Pretty lights! | 5.00% | ~702 |
-| Now you see me... | 5.00% | ~702 |
-| Caught off guard | 4.00% | ~561 |
-| The Pro from Dover | 4.00% | ~561 |
-| Merchant of doom | 3.00% | ~421 |
-| Grin and bear it | 3.00% | ~421 |
+| I'm not dead yet | 43.00% | ~6,045 |
+| Overkill | 34.00% | ~4,780 |
+| A normal day in Gloomhaven | 34.00% | ~4,780 |
+| Vaccine Incoming | 33.00% | ~4,639 |
+| Spread the plague | 31.00% | ~4,358 |
+| Get over here! | 24.00% | ~3,374 |
+| Just when I thought I was out... | 19.00% | ~2,671 |
+| Mine... All Mine... | 17.00% | ~2,390 |
+| Precious! | 16.00% | ~2,249 |
+| Light of my life | 15.00% | ~2,109 |
+| Anatomy Lesson | 15.00% | ~2,109 |
+| Grizzled veteran | 13.00% | ~1,828 |
+| You activated my trap card! | 13.00% | ~1,828 |
+| Augmented rat | 13.00% | ~1,828 |
+| Obstacle race | 13.00% | ~1,828 |
+| Doom and gloom | 11.00% | ~1,546 |
+| Who's the Boss? | 9.00% | ~1,265 |
+| Pack leader | 8.00% | ~1,125 |
+| Pain is your friend | 8.00% | ~1,125 |
+| Black death | 8.00% | ~1,125 |
+| Play it again, Sam | 8.00% | ~1,125 |
+| Dungeon Veteran | 7.00% | ~984 |
+| Quad damage | 6.00% | ~844 |
+| Power Up! | 5.00% | ~703 |
+| Pretty lights! | 5.00% | ~703 |
+| Now you see me... | 5.00% | ~703 |
+| Caught off guard | 4.00% | ~562 |
+| The Pro from Dover | 4.00% | ~562 |
+| Merchant of doom | 3.00% | ~422 |
+| Grin and bear it | 3.00% | ~422 |
 | I hate portals | 2.00% | ~281 |
 | The Rat King | 2.00% | ~281 |
 | Down the hatch | 2.00% | ~281 |
@@ -44,10 +44,10 @@ Number of Ratings: 68  (23.09.2022)
 | Master Assassin | 2.00% | ~281 |
 | The Sniper | 2.00% | ~281 |
 | An axe to grind | 2.00% | ~281 |
-| From Gloom, only greed and death emerges | 1.00% | ~140 |
-| Add a bit of colour | 1.00% | ~140 |
-| How to train your Drake | 1.00% | ~140 |
-| New Blood | 1.00% | ~140 |
+| From Gloom, only greed and death emerges | 1.00% | ~141 |
+| Add a bit of colour | 1.00% | ~141 |
+| How to train your Drake | 1.00% | ~141 |
+| New Blood | 1.00% | ~141 |
 | Captain hooked | 0.80% | ~112 |
 | Betray this | 0.70% | ~98 |
 | Spoiler police! | 0.70% | ~98 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~14 |
 | Murder Death Kill | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,037 (Ranked 139)  
+Progressed: 14,059 (Ranked 139)  
 Completed: 1 (0.01%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,10 +102,10 @@ Completed: 1 (0.01%) (Ranked 297)
 | 2023-10-14 | 13,296 | 1 |
 | 2023-10-15 | 13,656 | 1 |
 | 2023-10-16 | 13,884 | 1 |
-| 2023-10-17 | 14,037 | 1 |
+| 2023-10-17 | 14,059 | 1 |
 ## Awards
 Max (Character Customization): 3,554  (Ranked 90)  
-Sum: 8,295 (Ranked 98)  
+Sum: 8,296 (Ranked 98)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -119,7 +119,7 @@ Diff (max vs sum): -8
 | This game has Quickly Understood Controls | 482 |
 | This game has Amazing Storytelling | 481 |
 | This game has Unique Visuals | 377 |
-| This game has a Creative Community | 211 |
+| This game has a Creative Community | 212 |
 | This game has Obsessive Gameplay | 152 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -317,3 +317,4 @@ Diff (max vs sum): -8
 | 2023-10-14 | 4.47 | - | 3,552 | 8,288 |
 | 2023-10-15 | 4.47 | - | 3,554 | 8,293 |
 | 2023-10-16 | 4.47 | - | 3,554 | 8,295 |
+| 2023-10-17 | 4.47 | - | 3,554 | 8,296 |

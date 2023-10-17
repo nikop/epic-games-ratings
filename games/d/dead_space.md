@@ -25,7 +25,7 @@ Rating: 4.62 (Ranked 354)
 | Strange Transmissions | 44.00% | ~473 |
 | Wreckage | 43.00% | ~462 |
 | Live with the Hot Ones | 42.00% | ~452 |
-| Keeper of the Faith | 40.00% | ~430 |
+| Keeper of the Faith | 41.00% | ~441 |
 | Betrayed | 39.00% | ~419 |
 | Legend Teller | 38.00% | ~408 |
 | There's Always Peng! | 38.00% | ~408 |
@@ -54,7 +54,7 @@ Rating: 4.62 (Ranked 354)
 | Untouchable | 2.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,075 (Ranked 234)  
-Completed: 6 (0.56%) (Ranked 173)  
+Completed: 6 (0.56%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

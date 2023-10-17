@@ -1276,10 +1276,16 @@
       "Rating": 4.46,
       "NumberOfAwards": 3181,
       "NumberOfAwardsMax": 1184
+    },
+    {
+      "Time": "2023-10-17T18:59:34.125353+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 3191,
+      "NumberOfAwardsMax": 1184
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3181,
+  "NumberOfAwards": 3191,
   "NumberOfAwardsMax": 1184,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1299,7 +1305,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 186
+      "Count": 196
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1356,9 +1362,9 @@
       "Count": 225
     }
   ],
-  "EOS_Progressed": 7727,
+  "EOS_Progressed": 7728,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 393,
+  "EOS_NewPlayers": 391,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4646,6 +4652,11 @@
       "Time": "2023-10-17T18:09:21.4086158+00:00",
       "NumProgressed": 7727,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-17T19:08:20.7538958+00:00",
+      "NumProgressed": 7728,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -4658,7 +4669,7 @@
       "Name": "Become A Ninja In No Time",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2627
+      "UsersEstimate": 2628
     },
     {
       "ID": "ach02",
@@ -4698,7 +4709,7 @@
       "Name": "Titan",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 5718
+      "UsersEstimate": 5719
     },
     {
       "ID": "ach07",
@@ -4770,7 +4781,7 @@
       "Name": "Give A Koin",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 1854
+      "UsersEstimate": 1855
     },
     {
       "ID": "ach16",
@@ -4834,7 +4845,7 @@
       "Name": "Take And Deny",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 2086
+      "UsersEstimate": 2087
     },
     {
       "ID": "ach24",
@@ -4842,7 +4853,7 @@
       "Name": "Ultimate Power",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 3554
+      "UsersEstimate": 3555
     },
     {
       "ID": "ach25",
@@ -4866,7 +4877,7 @@
       "Name": "So Krafty",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 2395
+      "UsersEstimate": 2396
     },
     {
       "ID": "ach28",
@@ -4946,7 +4957,7 @@
       "Name": "ABACABB",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 4327
+      "UsersEstimate": 4328
     },
     {
       "ID": "ach38",
@@ -4986,7 +4997,7 @@
       "Name": "Quest Master",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 3245
+      "UsersEstimate": 3246
     },
     {
       "ID": "ach43",
@@ -5010,7 +5021,7 @@
       "Name": "There Is No Knowledge That Is Not Power",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "ach46",
@@ -5034,7 +5045,7 @@
       "Name": "Total Disrespect",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 1545
+      "UsersEstimate": 1546
     },
     {
       "ID": "ach49",
@@ -5057,16 +5068,16 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 7727,
+      "Progressed": 7728,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2023-10-17T18:00:48.8286159+00:00",
-  "LastChanged_Achievements": "2023-10-17T18:09:21.4086148+00:00",
+  "LastChanged": "2023-10-17T18:59:34.1253529+00:00",
+  "LastChanged_Achievements": "2023-10-17T19:08:20.7538951+00:00",
   "LastUpdate_AppInfo": "2023-10-14T07:57:06.3888504+00:00",
-  "LastUpdate_Ratings": "2023-10-17T18:00:48.8286165+00:00",
-  "LastUpdate_Achievements": "2023-10-17T18:09:21.4086915+00:00"
+  "LastUpdate_Ratings": "2023-10-17T18:59:34.1253534+00:00",
+  "LastUpdate_Achievements": "2023-10-17T19:08:20.753944+00:00"
 }

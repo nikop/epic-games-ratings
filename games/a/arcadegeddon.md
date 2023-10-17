@@ -8,8 +8,8 @@ Number of Ratings: 801  (23.09.2022)
 | ---- | ---------- | ----- |
 | Let's Get This Party Started | 89.00% | ~8,306 |
 | Photogenic | 86.00% | ~8,026 |
+| Surge Gauntlet Jockey | 83.00% | ~7,746 |
 | Plug It In | 82.00% | ~7,653 |
-| Surge Gauntlet Jockey | 82.00% | ~7,653 |
 | Adventure Time | 78.00% | ~7,280 |
 | Playing With Power | 75.00% | ~7,000 |
 | Coup d'Etat | 58.00% | ~5,413 |
@@ -240,8 +240,8 @@ Completed: 1 (0.01%) (Ranked 297)
 | 2023-10-17 | 9,333 | 1 |
 ## Awards
 Max (Relaxing): 64  (Ranked 398)  
-Sum: 463 (Ranked 320)  
-Diff (max vs sum): 78  
+Sum: 463 (Ranked 321)  
+Diff (max vs sum): 77  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 64 |

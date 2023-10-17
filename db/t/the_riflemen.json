@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24488,
+  "EOS_Progressed": 24501,
   "EOS_Completed": 11759,
-  "EOS_NewPlayers": 2532,
+  "EOS_NewPlayers": 2527,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 48.02,
+  "EOS_Completed_Percentage": 47.99,
   "EosHistory": [
     {
       "Time": "2023-08-15T10:06:43.8267441+00:00",
@@ -5816,6 +5816,11 @@
       "Time": "2023-10-17T18:04:54.3100439+00:00",
       "NumProgressed": 24488,
       "NumCompleted": 11759
+    },
+    {
+      "Time": "2023-10-17T19:04:20.9139337+00:00",
+      "NumProgressed": 24501,
+      "NumCompleted": 11759
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -5828,7 +5833,7 @@
       "Name": "Bazooka Master",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "firstMatch",
@@ -5836,7 +5841,7 @@
       "Name": "First blood",
       "Percentage": 62,
       "XP": 25,
-      "UsersEstimate": 15183
+      "UsersEstimate": 15191
     },
     {
       "ID": "grenadeKills",
@@ -5860,7 +5865,7 @@
       "Name": "Head popping III",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "headshots500",
@@ -5876,7 +5881,7 @@
       "Name": "Knife Master",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "matchesLost",
@@ -5900,7 +5905,7 @@
       "Name": "He who laughs last laughs best",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "rifleKills",
@@ -5916,7 +5921,7 @@
       "Name": "Shotgun Master",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "sniperKills",
@@ -5924,7 +5929,7 @@
       "Name": "Sniper Master",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "swordKills",
@@ -5939,14 +5944,14 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 24488,
+      "Progressed": 24501,
       "Completed": 11759
     }
   ],
   "FirstSeen": "2023-09-28T12:00:24.9112474+00:00",
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
-  "LastChanged_Achievements": "2023-10-17T18:04:54.3100432+00:00",
+  "LastChanged_Achievements": "2023-10-17T19:04:20.9139333+00:00",
   "LastUpdate_AppInfo": "2023-10-14T10:57:22.1358598+00:00",
-  "LastUpdate_Ratings": "2023-10-17T17:58:47.584061+00:00",
-  "LastUpdate_Achievements": "2023-10-17T18:04:54.310139+00:00"
+  "LastUpdate_Ratings": "2023-10-17T18:58:13.4446376+00:00",
+  "LastUpdate_Achievements": "2023-10-17T19:04:20.9139697+00:00"
 }
