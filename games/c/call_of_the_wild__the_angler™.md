@@ -21,7 +21,7 @@ Number of Ratings: 281  (23.09.2022)
 | I'm Hooked! | 20.00% | ~1,214 |
 | Diamond in the Rough | 13.00% | ~789 |
 | More than a Tourist | 11.00% | ~668 |
-| School's Out for Summer | 10.00% | ~607 |
+| School's Out for Summer | 11.00% | ~668 |
 | Hook, Line and Sinker | 8.00% | ~486 |
 | Marathon | 8.00% | ~486 |
 | I'm the Captain Now | 6.00% | ~364 |

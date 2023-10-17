@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 309,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 284,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -1054,9 +1054,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 3014,
+  "EOS_Progressed": 3015,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5344,6 +5344,11 @@
       "Time": "2023-10-15T18:06:41.8896029+00:00",
       "NumProgressed": 3014,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-17T18:04:22.9180773+00:00",
+      "NumProgressed": 3015,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 48,
@@ -5377,9 +5382,9 @@
       "ID": "ACH_COMMENCE-THE-HIJINX",
       "SetID": "72olkc5",
       "Name": "Commence the Hijinx!",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 181
     },
     {
       "ID": "ACH_COPS-CALLED",
@@ -5571,7 +5576,7 @@
       "Name": "Plastic Surgeon",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "ACH_PRINCE-OF-PHILLY",
@@ -5667,7 +5672,7 @@
       "Name": "The flip trick crown jewel",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "ACH_THE-HARD-WAY",
@@ -5675,7 +5680,7 @@
       "Name": "The hard way",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "ACH_TIGHT-LIPSLIDES",
@@ -5738,15 +5743,15 @@
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 3014,
+      "Progressed": 3015,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-10-15T18:58:02.0721635+00:00",
-  "LastChanged_Achievements": "2023-10-17T17:04:19.2930699+00:00",
+  "LastChanged_Achievements": "2023-10-17T18:04:22.9180766+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:15.9585572+00:00",
-  "LastUpdate_Ratings": "2023-10-17T16:59:11.7602235+00:00",
-  "LastUpdate_Achievements": "2023-10-17T17:04:19.2931232+00:00"
+  "LastUpdate_Ratings": "2023-10-17T17:59:19.8563938+00:00",
+  "LastUpdate_Achievements": "2023-10-17T18:04:22.9181452+00:00"
 }

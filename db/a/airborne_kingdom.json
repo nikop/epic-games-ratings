@@ -321,7 +321,7 @@
   "Tags": [],
   "EOS_Progressed": 7356,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.73,
   "EosHistory": [
@@ -5103,9 +5103,9 @@
       "ID": "AK_HARP_TUNED",
       "SetID": "dfmb89",
       "Name": "Harp Tuned",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 1692
+      "UsersEstimate": 1765
     },
     {
       "ID": "AK_HOPES_HOISTED",
@@ -5287,8 +5287,8 @@
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-08-27T09:59:24.0528306+00:00",
-  "LastChanged_Achievements": "2023-10-17T17:07:33.653071+00:00",
+  "LastChanged_Achievements": "2023-10-17T18:08:08.1516108+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:12.3218327+00:00",
-  "LastUpdate_Ratings": "2023-10-17T17:00:49.4139577+00:00",
-  "LastUpdate_Achievements": "2023-10-17T17:07:33.6531203+00:00"
+  "LastUpdate_Ratings": "2023-10-17T18:01:13.8681049+00:00",
+  "LastUpdate_Achievements": "2023-10-17T18:08:08.1516722+00:00"
 }

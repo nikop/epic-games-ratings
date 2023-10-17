@@ -12,9 +12,9 @@ Number of Ratings: 111  (23.09.2022)
 | The finer things in life | 19.00% | ~573 |
 | Backpacker | 14.00% | ~422 |
 | Go with the Flow | 13.00% | ~392 |
-| Plastic Surgeon | 10.00% | ~301 |
-| The flip trick crown jewel | 10.00% | ~301 |
-| The hard way | 10.00% | ~301 |
+| Plastic Surgeon | 10.00% | ~302 |
+| The flip trick crown jewel | 10.00% | ~302 |
+| The hard way | 10.00% | ~302 |
 | Good vibes | 9.00% | ~271 |
 | Keep the dream alive | 9.00% | ~271 |
 | Upfront shredder | 9.00% | ~271 |
@@ -23,13 +23,13 @@ Number of Ratings: 111  (23.09.2022)
 | Finally he zips it | 7.00% | ~211 |
 | That pinch! | 7.00% | ~211 |
 | Tight lipslides | 7.00% | ~211 |
+| Commence the Hijinx! | 6.00% | ~181 |
 | Fulfilled the dream | 6.00% | ~181 |
 | G'Day Mate! | 6.00% | ~181 |
 | NAHELL! | 6.00% | ~181 |
 | Purple passion | 6.00% | ~181 |
 | Squad goals | 6.00% | ~181 |
 | Sup widdit big dog! | 6.00% | ~181 |
-| Commence the Hijinx! | 5.00% | ~151 |
 | DIY Boss | 5.00% | ~151 |
 | Globetrotter | 5.00% | ~151 |
 | Laid back | 5.00% | ~151 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,014 (Ranked 192)  
+Progressed: 3,015 (Ranked 192)  
 Completed: 1 (0.03%) (Ranked 284)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,6 +223,7 @@ Completed: 1 (0.03%) (Ranked 284)
 | 2023-10-13 | 3,010 | 1 |
 | 2023-10-14 | 3,011 | 1 |
 | 2023-10-15 | 3,014 | 1 |
+| 2023-10-17 | 3,015 | 1 |
 ## Awards
 Max (Highly Recommended): 54  (Ranked 406)  
 Sum: 520 (Ranked 309)  

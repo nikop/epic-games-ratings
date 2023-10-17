@@ -30,6 +30,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Serving Ale | 3.00% | ~509 |
 | Against All Odds | 3.00% | ~509 |
 | Ruined Armory | 3.00% | ~509 |
+| Forbidden Lands | 3.00% | ~509 |
 | Haunted Forest | 3.00% | ~509 |
 | Flooded Mines | 3.00% | ~509 |
 | Monastery of the Holy Flame | 3.00% | ~509 |
@@ -41,7 +42,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Refinery | 2.00% | ~339 |
 | Dangerous Lands | 2.00% | ~339 |
 | Fishmen Ritual Site | 2.00% | ~339 |
-| Forbidden Lands | 2.00% | ~339 |
 | Victory through Prosperity | 2.00% | ~339 |
 | Feeding The People | 1.00% | ~170 |
 | Efficient Explorer | 1.00% | ~170 |

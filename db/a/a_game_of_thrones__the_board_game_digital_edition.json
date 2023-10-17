@@ -1275,9 +1275,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 26278,
+  "EOS_Progressed": 26281,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 506,
+  "EOS_NewPlayers": 505,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -20625,6 +20625,11 @@
       "Time": "2023-10-17T17:05:44.5739399+00:00",
       "NumProgressed": 26278,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-10-17T18:06:01.6063688+00:00",
+      "NumProgressed": 26281,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 22,
@@ -20644,7 +20649,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 1839
+      "UsersEstimate": 1840
     },
     {
       "ID": "1017",
@@ -20668,7 +20673,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1839
+      "UsersEstimate": 1840
     },
     {
       "ID": "1020",
@@ -20724,7 +20729,7 @@
       "Name": "Oathkeeper",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1839
+      "UsersEstimate": 1840
     },
     {
       "ID": "1027",
@@ -20740,7 +20745,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4730
+      "UsersEstimate": 4731
     },
     {
       "ID": "1029",
@@ -20772,7 +20777,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 10511
+      "UsersEstimate": 10512
     },
     {
       "ID": "1033",
@@ -20788,7 +20793,7 @@
       "Name": "Influential",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1839
+      "UsersEstimate": 1840
     },
     {
       "ID": "1035",
@@ -20796,7 +20801,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3416
+      "UsersEstimate": 3417
     },
     {
       "ID": "1036",
@@ -20811,15 +20816,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 26278,
+      "Progressed": 26281,
       "Completed": 69
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-09-03T23:00:19.1993338+00:00",
-  "LastChanged_Achievements": "2023-10-17T17:05:44.5739393+00:00",
+  "LastChanged_Achievements": "2023-10-17T18:06:01.6063681+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:20.5941656+00:00",
-  "LastUpdate_Ratings": "2023-10-17T17:00:33.645061+00:00",
-  "LastUpdate_Achievements": "2023-10-17T17:05:44.5740561+00:00"
+  "LastUpdate_Ratings": "2023-10-17T18:00:57.2977468+00:00",
+  "LastUpdate_Achievements": "2023-10-17T18:06:01.6065213+00:00"
 }

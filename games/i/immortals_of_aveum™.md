@@ -5,27 +5,27 @@ Rating: 4.05 (Ranked 960)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 91.00% | ~82 |
-| Battlefields Have Memories | 90.00% | ~81 |
-| Enlisted | 89.00% | ~80 |
-| Maybe Engage a Little | 84.00% | ~76 |
-| No More Names | 70.00% | ~63 |
+| Unforeseen | 91.00% | ~83 |
+| Battlefields Have Memories | 90.00% | ~82 |
+| Enlisted | 89.00% | ~81 |
+| Maybe Engage a Little | 85.00% | ~77 |
+| No More Names | 70.00% | ~64 |
 | Initiate | 62.00% | ~56 |
-| Thrada-Kul | 58.00% | ~52 |
-| Gravity-Challenged Rocks | 48.00% | ~43 |
+| Thrada-Kul | 57.00% | ~52 |
+| Gravity-Challenged Rocks | 47.00% | ~43 |
 | Soldier | 41.00% | ~37 |
 | All the Major Food Groups | 41.00% | ~37 |
-| Beggars Would Ride | 36.00% | ~32 |
+| Beggars Would Ride | 35.00% | ~32 |
 | Control is an Illusion | 34.00% | ~31 |
-| Socialite | 33.00% | ~30 |
-| The Means to Save It | 27.00% | ~24 |
+| Socialite | 34.00% | ~31 |
+| The Means to Save It | 26.00% | ~24 |
 | Resilience to Sin | 22.00% | ~20 |
-| A Familiar Nest | 20.00% | ~18 |
-| Periapt Alizarin | 20.00% | ~18 |
+| A Familiar Nest | 21.00% | ~19 |
+| Periapt Alizarin | 21.00% | ~19 |
 | Geas Aristeya | 19.00% | ~17 |
 | Armsman | 19.00% | ~17 |
-| A Perfect Cycle | 16.00% | ~14 |
-| Recruit | 16.00% | ~14 |
+| A Perfect Cycle | 15.00% | ~14 |
+| Recruit | 15.00% | ~14 |
 | Good Boy | 12.00% | ~11 |
 | Lights Army | 10.00% | ~9 |
 | Periapt Cerulean | 10.00% | ~9 |
@@ -35,7 +35,7 @@ Rating: 4.05 (Ranked 960)
 | Scholar | 7.00% | ~6 |
 | Armaments Azure | 7.00% | ~6 |
 | Veteran | 7.00% | ~6 |
-| Best Dressed | 6.00% | ~5 |
+| Best Dressed | 5.00% | ~5 |
 | Kitted Out | 4.00% | ~4 |
 | Armaments Vert | 4.00% | ~4 |
 | Master of Carmine | 4.00% | ~4 |
@@ -53,8 +53,8 @@ Rating: 4.05 (Ranked 960)
 | Out of Time | 1.00% | ~1 |
 | Fowl Play | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90 (Ranked 401)  
-Completed: 1 (1.11%) (Ranked 139)  
+Progressed: 91 (Ranked 400)  
+Completed: 1 (1.10%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -82,7 +82,7 @@ Completed: 1 (1.11%) (Ranked 139)
 | 2023-10-14 | 87 | 0 |
 | 2023-10-15 | 88 | 0 |
 | 2023-10-16 | 88 | 1 |
-| 2023-10-17 | 90 | 1 |
+| 2023-10-17 | 91 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -12,12 +12,12 @@ Rating: 4.64 (Ranked 323)
 | G3 Graduation | 1.00% | ~242 |
 | Cold-Blooded Driller | 1.00% | ~242 |
 | Don't Knife The Hand That Feeds | 1.00% | ~242 |
+| RIP Davey Glutes | 0.90% | ~218 |
 | We're All Very Impressed, Trust Me | 0.90% | ~218 |
 | Hardest Battle In The Game | 0.90% | ~218 |
 | Who's The Boss? | 0.90% | ~218 |
 | Creature Feature | 0.80% | ~194 |
 | Bring A Knife to a Gun Fight | 0.80% | ~194 |
-| RIP Davey Glutes | 0.80% | ~194 |
 | Lezduit! | 0.70% | ~170 |
 | Legendary Bounty Hunter | 0.70% | ~170 |
 | Self-Actualization | 0.70% | ~170 |

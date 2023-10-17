@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 196,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
@@ -1950,9 +1950,9 @@
       "Count": 216
     }
   ],
-  "EOS_Progressed": 20941,
+  "EOS_Progressed": 20942,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -9180,6 +9180,11 @@
       "Time": "2023-10-17T17:09:35.1998532+00:00",
       "NumProgressed": 20941,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-10-17T18:09:28.1785538+00:00",
+      "NumProgressed": 20942,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -9239,7 +9244,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 19894
+      "UsersEstimate": 19895
     },
     {
       "ID": "GameOver",
@@ -9309,9 +9314,9 @@
       "ID": "Negotiator",
       "SetID": "d0jo315",
       "Name": "Negotiator",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 188
+      "UsersEstimate": 168
     },
     {
       "ID": "Perfectionist",
@@ -9343,7 +9348,7 @@
       "Name": "Pro-creative",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3769
+      "UsersEstimate": 3770
     },
     {
       "ID": "Strongman",
@@ -9374,15 +9379,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 20941,
+      "Progressed": 20942,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-10-15T04:01:12.0081926+00:00",
-  "LastChanged_Achievements": "2023-10-17T17:09:35.1998528+00:00",
+  "LastChanged_Achievements": "2023-10-17T18:09:28.1785531+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:53.7092922+00:00",
-  "LastUpdate_Ratings": "2023-10-17T16:57:50.0615086+00:00",
-  "LastUpdate_Achievements": "2023-10-17T17:09:35.1999139+00:00"
+  "LastUpdate_Ratings": "2023-10-17T17:57:41.2524936+00:00",
+  "LastUpdate_Achievements": "2023-10-17T18:09:28.1786237+00:00"
 }

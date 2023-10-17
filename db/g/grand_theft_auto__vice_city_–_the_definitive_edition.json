@@ -4,10 +4,10 @@
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
   "Ranking_Rating": 494,
   "Ranking_Popularity": 351,
-  "Ranking_PopularitySum": 433,
+  "Ranking_PopularitySum": 434,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -772,9 +772,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 10617,
+  "EOS_Progressed": 10618,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -11472,6 +11472,11 @@
       "Time": "2023-10-17T16:04:19.977176+00:00",
       "NumProgressed": 10617,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-10-17T18:04:10.8889051+00:00",
+      "NumProgressed": 10618,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 34,
@@ -11587,7 +11592,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4459
+      "UsersEstimate": 4460
     },
     {
       "ID": "ACH15",
@@ -11651,7 +11656,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2123
+      "UsersEstimate": 2124
     },
     {
       "ID": "ACH23",
@@ -11659,7 +11664,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2760
+      "UsersEstimate": 2761
     },
     {
       "ID": "ACH24",
@@ -11754,7 +11759,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10617,
+      "Progressed": 10618,
       "Completed": 60
     }
   ],
@@ -11762,8 +11767,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-10-17T16:58:14.7372277+00:00",
-  "LastChanged_Achievements": "2023-10-17T17:04:08.8424754+00:00",
+  "LastChanged_Achievements": "2023-10-17T18:04:10.8889046+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:56.7423853+00:00",
-  "LastUpdate_Ratings": "2023-10-17T16:58:14.7372286+00:00",
-  "LastUpdate_Achievements": "2023-10-17T17:04:08.8425586+00:00"
+  "LastUpdate_Ratings": "2023-10-17T17:58:11.6480953+00:00",
+  "LastUpdate_Achievements": "2023-10-17T18:04:10.8890147+00:00"
 }

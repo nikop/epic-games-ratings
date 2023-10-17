@@ -22,10 +22,10 @@
 | Rooftop | 29.00% | ~29 |
 | Homeless | 29.00% | ~29 |
 | Big badaboom! | 27.00% | ~27 |
+| Bookworm | 25.00% | ~25 |
 | Magnitude 5 | 24.00% | ~24 |
-| Bookworm | 24.00% | ~24 |
 | Payback | 24.00% | ~24 |
-| Nokron tower | 22.00% | ~22 |
+| Nokron tower | 23.00% | ~23 |
 | Full power | 21.00% | ~21 |
 | "Ah sh*t... Here we go again!" | 21.00% | ~21 |
 | Compulsive hoarder | 21.00% | ~21 |
@@ -39,7 +39,7 @@
 | Gold digger | 0.00% | ~0 |
 | Speedrunner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 99 (Ranked 389)  
+Progressed: 99 (Ranked 390)  
 Completed: 0 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |

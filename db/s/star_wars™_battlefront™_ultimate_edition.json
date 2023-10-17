@@ -2,9 +2,9 @@
   "ID": "fefe1db11f534484987ef50ec1e25225",
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
-  "Ranking_EOS_Progress": 254,
+  "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 707,
+  "EOS_Progressed": 712,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1911,6 +1911,11 @@
       "Time": "2023-10-17T16:07:14.4369734+00:00",
       "NumProgressed": 707,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-17T18:07:03.269704+00:00",
+      "NumProgressed": 712,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -1995,7 +2000,7 @@
       "Name": "The power of the Force",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "achievement_19",
@@ -2019,7 +2024,7 @@
       "Name": "Collector",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "achievement_21",
@@ -2035,7 +2040,7 @@
       "Name": "Distinguished",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "achievement_23",
@@ -2059,7 +2064,7 @@
       "Name": "A tremor in the Force",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "achievement_26",
@@ -2067,7 +2072,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "achievement_27",
@@ -2115,7 +2120,7 @@
       "Name": "Scrap collector",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 148
+      "UsersEstimate": 150
     },
     {
       "ID": "achievement_32",
@@ -2123,7 +2128,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "achievement_33",
@@ -2145,9 +2150,9 @@
       "ID": "achievement_35",
       "SetID": "271ol84",
       "Name": "New Recruit",
-      "Percentage": 91,
+      "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 643
+      "UsersEstimate": 641
     },
     {
       "ID": "achievement_36",
@@ -2163,7 +2168,7 @@
       "Name": "Off to a good start",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 481
+      "UsersEstimate": 484
     },
     {
       "ID": "achievement_38",
@@ -2187,7 +2192,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "achievement_40",
@@ -2195,7 +2200,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 375
+      "UsersEstimate": 377
     },
     {
       "ID": "achievement_41",
@@ -2211,15 +2216,15 @@
       "Name": "Not bad for a little furball",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "achievement_43",
       "SetID": "271ol84",
       "Name": "Walker defender",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achievement_44",
@@ -2227,7 +2232,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 240
+      "UsersEstimate": 242
     },
     {
       "ID": "achievement_45",
@@ -2243,7 +2248,7 @@
       "Name": "Patience you must have",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "achievement_47",
@@ -2275,7 +2280,7 @@
       "Name": "Shoot first",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "achievement_50",
@@ -2331,7 +2336,7 @@
       "Name": "Support the troops",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "achievement_57",
@@ -2363,7 +2368,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "achievement_60",
@@ -2411,7 +2416,7 @@
       "Name": "Don\u0027t underestimate the Force",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "achievement_9",
@@ -2426,13 +2431,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 707,
+      "Progressed": 712,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 707,
+      "Progressed": 712,
       "Completed": 1
     }
   ],
@@ -2440,8 +2445,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-17T17:06:38.2077963+00:00",
+  "LastChanged_Achievements": "2023-10-17T18:07:03.2697033+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:22.846224+00:00",
-  "LastUpdate_Ratings": "2023-10-17T16:57:53.6240285+00:00",
-  "LastUpdate_Achievements": "2023-10-17T17:06:38.207879+00:00"
+  "LastUpdate_Ratings": "2023-10-17T17:57:45.8596954+00:00",
+  "LastUpdate_Achievements": "2023-10-17T18:07:03.2697917+00:00"
 }

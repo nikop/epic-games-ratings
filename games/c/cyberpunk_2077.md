@@ -6,36 +6,36 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 71.00% | ~633,602 |
-| Right Back At Ya | 45.00% | ~401,579 |
-| The Lovers | 39.00% | ~348,035 |
-| Stanislavski's Method | 33.00% | ~294,491 |
-| The Wheel of Fortune | 33.00% | ~294,491 |
-| The Hermit | 30.00% | ~267,719 |
-| The High Priestess | 30.00% | ~267,719 |
-| True Soldier | 29.00% | ~258,795 |
-| Christmas Tree Attack | 26.00% | ~232,023 |
-| Full Body Conversion | 24.00% | ~214,175 |
-| Life of the Road | 23.00% | ~205,251 |
-| Ten out of Ten | 22.00% | ~196,327 |
-| The World | 22.00% | ~196,327 |
-| Master Crafter | 20.00% | ~178,479 |
-| True Warrior | 20.00% | ~178,479 |
-| Bushido and Chill | 19.00% | ~169,555 |
-| Gun Fu | 18.00% | ~160,631 |
-| I Am The Law | 16.00% | ~142,784 |
-| To Protect and Serve | 15.00% | ~133,860 |
-| Breathtaking | 14.00% | ~124,936 |
-| The Quick and the Dead | 13.00% | ~116,012 |
-| Rough Landing | 13.00% | ~116,012 |
-| The Jungle | 12.00% | ~107,088 |
-| To Bad Decisions! | 11.00% | ~98,164 |
-| The Wandering Fool | 11.00% | ~98,164 |
-| Gunslinger | 10.00% | ~89,240 |
-| Mean Streets | 10.00% | ~89,240 |
-| Temperance | 9.00% | ~80,316 |
-| The Star | 8.00% | ~71,392 |
-| The Sun | 8.00% | ~71,392 |
+| The Fool | 71.00% | ~633,609 |
+| Right Back At Ya | 45.00% | ~401,583 |
+| The Lovers | 39.00% | ~348,039 |
+| Stanislavski's Method | 33.00% | ~294,494 |
+| The Wheel of Fortune | 33.00% | ~294,494 |
+| The Hermit | 30.00% | ~267,722 |
+| The High Priestess | 30.00% | ~267,722 |
+| True Soldier | 29.00% | ~258,798 |
+| Christmas Tree Attack | 26.00% | ~232,026 |
+| Full Body Conversion | 24.00% | ~214,178 |
+| Life of the Road | 23.00% | ~205,254 |
+| Ten out of Ten | 22.00% | ~196,330 |
+| The World | 22.00% | ~196,330 |
+| Master Crafter | 20.00% | ~178,481 |
+| True Warrior | 20.00% | ~178,481 |
+| Bushido and Chill | 19.00% | ~169,557 |
+| Gun Fu | 18.00% | ~160,633 |
+| I Am The Law | 16.00% | ~142,785 |
+| To Protect and Serve | 15.00% | ~133,861 |
+| Breathtaking | 14.00% | ~124,937 |
+| The Quick and the Dead | 13.00% | ~116,013 |
+| Rough Landing | 13.00% | ~116,013 |
+| The Jungle | 12.00% | ~107,089 |
+| To Bad Decisions! | 11.00% | ~98,165 |
+| The Wandering Fool | 11.00% | ~98,165 |
+| Gunslinger | 10.00% | ~89,241 |
+| Mean Streets | 10.00% | ~89,241 |
+| Temperance | 9.00% | ~80,317 |
+| The Star | 8.00% | ~71,393 |
+| The Sun | 8.00% | ~71,393 |
 | City Lights | 6.00% | ~53,544 |
 | Must Be Rats | 5.00% | ~44,620 |
 | The Devil | 5.00% | ~44,620 |
@@ -50,7 +50,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Legend of The Afterlife | 3.00% | ~26,772 |
 | Judy vs Night City | 2.00% | ~17,848 |
 | It's Elementary | 2.00% | ~17,848 |
-| Spin Doctor | 2.00% | ~420 |
+| Spin Doctor | 2.00% | ~421 |
 | The APB is Not Enough | 0.70% | ~147 |
 | Relic Ruler | 0.60% | ~126 |
 | All the President's Men | 0.00% | ~0 |
@@ -64,7 +64,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 892,397 (Ranked 15)  
+Progressed: 892,407 (Ranked 15)  
 Completed: 2,676 (0.30%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,10 +244,10 @@ Completed: 2,676 (0.30%) (Ranked 205)
 | 2023-10-14 | 891,800 | 2,661 |
 | 2023-10-15 | 892,108 | 2,671 |
 | 2023-10-16 | 892,285 | 2,674 |
-| 2023-10-17 | 892,397 | 2,676 |
+| 2023-10-17 | 892,407 | 2,676 |
 ## Awards
 Max (Character Customization): 98,980  (Ranked 9)  
-Sum: 308,379 (Ranked 11)  
+Sum: 308,508 (Ranked 11)  
 Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |
@@ -261,7 +261,7 @@ Diff (max vs sum): -2
 | This game has Amazing Characters | 15,899 |
 | This game is Relaxing | 15,407 |
 | This game has Quickly Understood Controls | 15,305 |
-| This game has a Creative Community | 10,485 |
+| This game has a Creative Community | 10,614 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -536,4 +536,4 @@ Diff (max vs sum): -2
 | 2023-10-14 | 4.64 | - | 97,710 | 300,719 |
 | 2023-10-15 | 4.64 | - | 98,252 | 303,777 |
 | 2023-10-16 | 4.64 | - | 98,623 | 306,605 |
-| 2023-10-17 | 4.64 | - | 98,980 | 308,379 |
+| 2023-10-17 | 4.64 | - | 98,980 | 308,508 |

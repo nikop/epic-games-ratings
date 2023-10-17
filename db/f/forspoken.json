@@ -3,11 +3,11 @@
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
   "Ranking_Rating": 919,
-  "Ranking_Popularity": 483,
-  "Ranking_PopularitySum": 498,
+  "Ranking_Popularity": 484,
+  "Ranking_PopularitySum": 499,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 297,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -406,7 +406,7 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 42157,
+  "EOS_Progressed": 42159,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
@@ -10821,6 +10821,11 @@
       "Time": "2023-10-17T16:08:00.0650806+00:00",
       "NumProgressed": 42157,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-17T18:07:47.7390993+00:00",
+      "NumProgressed": 42159,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -11024,7 +11029,7 @@
       "Name": "Leapfrogger",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2529
+      "UsersEstimate": 2530
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -11120,7 +11125,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2529
+      "UsersEstimate": 2530
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -11144,7 +11149,7 @@
       "Name": "Hell of a Run",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2529
+      "UsersEstimate": 2530
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -11184,7 +11189,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2529
+      "UsersEstimate": 2530
     },
     {
       "ID": "STAYING_AIR",
@@ -11255,22 +11260,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 42157,
+      "Progressed": 42159,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 6994,
-      "Completed": 6994
+      "Progressed": 6996,
+      "Completed": 6996
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-10-06T21:58:13.2562711+00:00",
-  "LastChanged_Achievements": "2023-10-17T17:07:16.3424307+00:00",
+  "LastChanged_Achievements": "2023-10-17T18:07:47.7390986+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:05.4941436+00:00",
-  "LastUpdate_Ratings": "2023-10-17T16:58:16.4146253+00:00",
-  "LastUpdate_Achievements": "2023-10-17T17:07:16.3425394+00:00"
+  "LastUpdate_Ratings": "2023-10-17T17:58:13.6025496+00:00",
+  "LastUpdate_Achievements": "2023-10-17T18:07:47.739218+00:00"
 }

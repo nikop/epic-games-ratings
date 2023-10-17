@@ -4,7 +4,7 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 158,
+  "EOS_Progressed": 159,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -563,6 +563,11 @@
       "Time": "2023-10-11T22:09:27.5507558+00:00",
       "NumProgressed": 158,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-17T18:10:15.4781789+00:00",
+      "NumProgressed": 159,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 99,
@@ -702,7 +707,7 @@
       "Name": "Scholar",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Vanilla_CodexTier3",
@@ -806,7 +811,7 @@
       "Name": "Conquered",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "Vanilla_DeputiesMaxedOut",
@@ -910,7 +915,7 @@
       "Name": "Acquaintance",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Vanilla_FirstFactionTier5Neg",
@@ -1126,7 +1131,7 @@
       "Name": "Press-ganged",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "Vanilla_Ratharnak",
@@ -1190,7 +1195,7 @@
       "Name": "A Second Chance",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "Vanilla_SecretsBelow",
@@ -1230,7 +1235,7 @@
       "Name": "Taskmaster",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Vanilla_TaxEvasion",
@@ -1252,9 +1257,9 @@
       "ID": "Vanilla_ThePackage",
       "SetID": "27kik8p",
       "Name": "The Package",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 41
     },
     {
       "ID": "Vanilla_ThePilgrimageEnds",
@@ -1365,7 +1370,7 @@
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 158,
+      "Progressed": 159,
       "Completed": 0
     }
   ],
@@ -1373,8 +1378,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-10-17T17:09:59.8266349+00:00",
+  "LastChanged_Achievements": "2023-10-17T18:10:15.4781781+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:26.7271562+00:00",
-  "LastUpdate_Ratings": "2023-10-17T16:58:57.6672315+00:00",
-  "LastUpdate_Achievements": "2023-10-17T17:09:59.8367082+00:00"
+  "LastUpdate_Ratings": "2023-10-17T17:59:02.7808229+00:00",
+  "LastUpdate_Achievements": "2023-10-17T18:10:15.4784053+00:00"
 }
