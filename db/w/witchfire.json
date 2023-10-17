@@ -4,10 +4,10 @@
   "ProductSlug": "witchfire-db273e",
   "Ranking_Rating": 337,
   "Ranking_Popularity": 453,
-  "Ranking_PopularitySum": 381,
+  "Ranking_PopularitySum": 377,
   "Ranking_EOS_Progress": 671,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 391,
+  "Ranking_EOS_NewPlayers": 389,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-09-20T14:00:00+00:00",
@@ -374,10 +374,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 206,
       "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2023-10-17T06:57:08.6153342+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 226,
+      "NumberOfAwardsMax": 36
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 206,
+  "NumberOfAwards": 226,
   "NumberOfAwardsMax": 36,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -434,6 +440,12 @@
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
       "Count": 36
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -448,8 +460,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-20T14:59:38.0794771+00:00",
   "FirstSeenRating": "2023-09-21T14:59:00.914233+00:00",
-  "LastChanged": "2023-10-16T21:57:26.1618441+00:00",
+  "LastChanged": "2023-10-17T06:57:08.6153341+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:16.9385318+00:00",
-  "LastUpdate_Ratings": "2023-10-17T05:57:11.1279653+00:00",
-  "LastUpdate_Achievements": "2023-10-17T06:09:26.723594+00:00"
+  "LastUpdate_Ratings": "2023-10-17T06:57:08.6153345+00:00",
+  "LastUpdate_Achievements": "2023-10-17T07:08:14.0609351+00:00"
 }

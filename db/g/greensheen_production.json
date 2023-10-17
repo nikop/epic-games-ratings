@@ -3,7 +3,7 @@
   "Name": "greensheen Production",
   "Ranking_EOS_Progress": 532,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 391,
+  "Ranking_EOS_NewPlayers": 389,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": null,
@@ -170,9 +170,9 @@
       "ID": "FootballGoal",
       "SetID": "aph8hbk",
       "Name": "Referee!",
-      "Percentage": 33,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Fridge",
@@ -360,8 +360,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-31T13:15:39.9572089+00:00",
-  "LastChanged_Achievements": "2023-10-17T06:07:06.0628674+00:00",
+  "LastChanged_Achievements": "2023-10-17T07:06:16.4594689+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:13.194983+00:00",
-  "LastUpdate_Ratings": "2023-10-17T06:00:48.7777144+00:00",
-  "LastUpdate_Achievements": "2023-10-17T06:07:06.0628888+00:00"
+  "LastUpdate_Ratings": "2023-10-17T06:59:58.680696+00:00",
+  "LastUpdate_Achievements": "2023-10-17T07:06:16.4594938+00:00"
 }

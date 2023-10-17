@@ -10,11 +10,11 @@ Number of Ratings: 8,414  (23.09.2022)
 | Until death do us apart | 4.00% | ~17,315 |
 | Victorious! | 4.00% | ~17,315 |
 | That is mine! | 3.00% | ~12,986 |
-| Brothers in Arms | 2.00% | ~8,657 |
-| Cold War | 2.00% | ~8,657 |
-| For the Glory | 2.00% | ~8,657 |
-| That's a Grand Navy | 2.00% | ~8,657 |
-| Seriously?! | 2.00% | ~8,657 |
+| Brothers in Arms | 2.00% | ~8,658 |
+| Cold War | 2.00% | ~8,658 |
+| For the Glory | 2.00% | ~8,658 |
+| That's a Grand Navy | 2.00% | ~8,658 |
+| Seriously?! | 2.00% | ~8,658 |
 | Defender of the Faith | 1.00% | ~4,329 |
 | It's all about the money | 1.00% | ~4,329 |
 | Respected | 1.00% | ~4,329 |
@@ -32,12 +32,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | City of Cities | 0.50% | ~2,164 |
 | Combined Arms | 0.50% | ~2,164 |
 | This navy can take it all | 0.50% | ~2,164 |
-| Bright Spark | 0.40% | ~1,731 |
-| Factionalism | 0.40% | ~1,731 |
-| Gentle Persuasion | 0.40% | ~1,731 |
-| Isn't this the way to India? | 0.40% | ~1,731 |
-| Queen of Conquest | 0.40% | ~1,731 |
-| The Five Colonies | 0.40% | ~1,731 |
+| Bright Spark | 0.40% | ~1,732 |
+| Factionalism | 0.40% | ~1,732 |
+| Gentle Persuasion | 0.40% | ~1,732 |
+| Isn't this the way to India? | 0.40% | ~1,732 |
+| Queen of Conquest | 0.40% | ~1,732 |
+| The Five Colonies | 0.40% | ~1,732 |
 | All That's Thine Shall Be Mine | 0.30% | ~1,299 |
 | Down Under | 0.30% | ~1,299 |
 | The Emperors new clothes | 0.30% | ~1,299 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 432,871 (Ranked 40)  
+Progressed: 432,881 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -541,7 +541,7 @@ Completed: 1 (0.00%) (Ranked 315)
 | 2023-10-14 | 431,056 | 1 |
 | 2023-10-15 | 432,104 | 1 |
 | 2023-10-16 | 432,768 | 1 |
-| 2023-10-17 | 432,871 | 1 |
+| 2023-10-17 | 432,881 | 1 |
 ## Awards
 Max (Educational): 6,561  (Ranked 55)  
 Sum: 53,905 (Ranked 25)  

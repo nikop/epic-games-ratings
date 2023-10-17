@@ -6,8 +6,8 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~36,342 |
-| Biggest Communism Builder | 24.00% | ~31,150 |
+| Goodest Of The Good Cops | 28.00% | ~36,343 |
+| Biggest Communism Builder | 24.00% | ~31,151 |
 | The World's Most Laughable Centrist | 21.00% | ~27,257 |
 | Il Coppo Del'Arte! | 18.00% | ~23,363 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,767 |
@@ -16,9 +16,9 @@ Number of Ratings: 1,611  (23.09.2022)
 | Gurdi-Ball Is Lit | 14.00% | ~18,171 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~16,873 |
 | Truly Rabid *Traditionalist* | 11.00% | ~14,277 |
-| Unbelievably Boring **** | 9.00% | ~11,681 |
-| The Figurines Won't Win Her Back | 9.00% | ~11,681 |
-| Enemy Of The Physical Realm | 8.00% | ~10,383 |
+| Unbelievably Boring **** | 9.00% | ~11,682 |
+| The Figurines Won't Win Her Back | 9.00% | ~11,682 |
+| Enemy Of The Physical Realm | 8.00% | ~10,384 |
 | Hardie's Heroes | 6.00% | ~7,788 |
 | The Lawbringer | 4.00% | ~5,192 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,192 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~130 |
 | What body? | 0.10% | ~130 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,793 (Ranked 75)  
+Progressed: 129,795 (Ranked 75)  
 Completed: 28 (0.02%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 28 (0.02%) (Ranked 289)
 | 2023-10-14 | 129,707 | 28 |
 | 2023-10-15 | 129,755 | 28 |
 | 2023-10-16 | 129,782 | 28 |
-| 2023-10-17 | 129,793 | 28 |
+| 2023-10-17 | 129,795 | 28 |
 ## Awards
 Max (Character Customization): 733  (Ranked 173)  
 Sum: 1,104 (Ranked 241)  

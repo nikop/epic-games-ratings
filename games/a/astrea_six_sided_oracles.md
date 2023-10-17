@@ -25,10 +25,10 @@
 | Star Killer | 17.00% | ~10 |
 | Heart Gate | 16.00% | ~9 |
 | Astral Adventurer | 14.00% | ~8 |
+| Astral Seeker | 14.00% | ~8 |
+| The Corruption Goddess | 14.00% | ~8 |
+| The Goddes Avatar | 14.00% | ~8 |
 | Unbeatable | 14.00% | ~8 |
-| Astral Seeker | 12.00% | ~7 |
-| The Corruption Goddess | 12.00% | ~7 |
-| The Goddes Avatar | 12.00% | ~7 |
 | Wave Bender | 10.00% | ~6 |
 | Anomaly Control | 9.00% | ~5 |
 | Can't touch this | 9.00% | ~5 |
@@ -39,12 +39,12 @@
 | Lacertian Hero | 9.00% | ~5 |
 | Denying Destiny | 7.00% | ~4 |
 | Heavy Purger | 7.00% | ~4 |
+| The Chaos Artisan | 7.00% | ~4 |
 | The Dark Moon | 7.00% | ~4 |
 | Behenian Hero | 7.00% | ~4 |
 | Artificer | 5.00% | ~3 |
 | Purification Avatar | 5.00% | ~3 |
 | The Abyssal Terror | 5.00% | ~3 |
-| The Chaos Artisan | 5.00% | ~3 |
 | The Distorted Sage | 5.00% | ~3 |
 | Behenian Mastery | 5.00% | ~3 |
 | Lacertian Mastery | 5.00% | ~3 |
@@ -67,6 +67,7 @@
 | The Raging Skies | 2.00% | ~1 |
 | This is Fine | 2.00% | ~1 |
 | Aquarian Hero | 2.00% | ~1 |
+| Eridanian Hero | 2.00% | ~1 |
 | Apian Champion | 0.00% | ~0 |
 | Apian Hero | 0.00% | ~0 |
 | Apian Mastery | 0.00% | ~0 |
@@ -101,7 +102,6 @@
 | Unepic Hero | 0.00% | ~0 |
 | Virtuous Warrior | 0.00% | ~0 |
 | Apian Mastery | 0.00% | ~0 |
-| Eridanian Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 58 (Ranked 426)  
 Completed: 0 (0.00%) (Ranked 315)  

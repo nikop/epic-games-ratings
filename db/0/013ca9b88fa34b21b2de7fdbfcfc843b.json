@@ -124,7 +124,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6742,
+  "EOS_Progressed": 6743,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 314,
   "EOS_NewCompleters": 0,
@@ -4469,6 +4469,11 @@
       "Time": "2023-10-17T05:05:47.0542799+00:00",
       "NumProgressed": 6742,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-17T07:04:56.6257406+00:00",
+      "NumProgressed": 6743,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -4489,7 +4494,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 4719
+      "UsersEstimate": 4720
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -4521,7 +4526,7 @@
       "Name": "Search for the Hairy Grell",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "CHAPTER_7_COMPLETE",
@@ -4585,7 +4590,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 3236
+      "UsersEstimate": 3237
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -4593,7 +4598,7 @@
       "Name": "Beach Comber",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "COMPLETE_ALLJOBQUESTS",
@@ -4633,7 +4638,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 4045
+      "UsersEstimate": 4046
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -4657,7 +4662,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 3101
+      "UsersEstimate": 3102
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -4665,7 +4670,7 @@
       "Name": "Higher Tax Bracket",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "HARVEST_VEGETABLES_1",
@@ -4760,7 +4765,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 6742,
+      "Progressed": 6743,
       "Completed": 0
     }
   ],
@@ -4768,8 +4773,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-14T10:58:26.1451757+00:00",
-  "LastChanged_Achievements": "2023-10-17T06:05:29.5804485+00:00",
+  "LastChanged_Achievements": "2023-10-17T07:04:56.6257398+00:00",
   "LastUpdate_AppInfo": "2023-10-13T06:57:01.9287951+00:00",
-  "LastUpdate_Ratings": "2023-10-17T05:58:42.4325732+00:00",
-  "LastUpdate_Achievements": "2023-10-17T06:05:29.5804915+00:00"
+  "LastUpdate_Ratings": "2023-10-17T06:58:20.8917221+00:00",
+  "LastUpdate_Achievements": "2023-10-17T07:04:56.6257933+00:00"
 }

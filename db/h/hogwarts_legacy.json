@@ -9072,7 +9072,7 @@
       "Count": 716
     }
   ],
-  "EOS_Progressed": 298485,
+  "EOS_Progressed": 298486,
   "EOS_Completed": 488,
   "EOS_NewPlayers": 355,
   "EOS_NewCompleters": 5,
@@ -28332,6 +28332,11 @@
       "Time": "2023-10-17T06:06:00.7730254+00:00",
       "NumProgressed": 298485,
       "NumCompleted": 488
+    },
+    {
+      "Time": "2023-10-17T07:05:22.4455167+00:00",
+      "NumProgressed": 298486,
+      "NumCompleted": 488
     }
   ],
   "TotalAchievements": 45,
@@ -28351,7 +28356,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29848
+      "UsersEstimate": 29849
     },
     {
       "ID": "PFA_11",
@@ -28375,7 +28380,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 29848
+      "UsersEstimate": 29849
     },
     {
       "ID": "PFA_14",
@@ -28447,7 +28452,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29848
+      "UsersEstimate": 29849
     },
     {
       "ID": "PFA_22",
@@ -28702,7 +28707,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298485,
+      "Progressed": 298486,
       "Completed": 488
     }
   ],
@@ -28710,8 +28715,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-17T01:40:48.241389+00:00",
-  "LastChanged_Achievements": "2023-10-17T06:06:00.7730249+00:00",
+  "LastChanged_Achievements": "2023-10-17T07:05:22.4455161+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:16.623812+00:00",
-  "LastUpdate_Ratings": "2023-10-17T05:57:13.4220965+00:00",
-  "LastUpdate_Achievements": "2023-10-17T06:06:00.7731414+00:00"
+  "LastUpdate_Ratings": "2023-10-17T06:57:10.6027622+00:00",
+  "LastUpdate_Achievements": "2023-10-17T07:05:22.4456731+00:00"
 }

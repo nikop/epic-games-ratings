@@ -7957,18 +7957,24 @@
       "Rating": 4.74,
       "NumberOfAwards": 14898,
       "NumberOfAwardsMax": 7238
+    },
+    {
+      "Time": "2023-10-17T06:57:18.9989977+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 14902,
+      "NumberOfAwardsMax": 7242
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14898,
-  "NumberOfAwardsMax": 7238,
+  "NumberOfAwards": 14902,
+  "NumberOfAwardsMax": 7242,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 7238
+      "Count": 7242
     },
     {
       "Text": "This game is Highly Recommended",
@@ -8037,7 +8043,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 63413,
+  "EOS_Progressed": 63415,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 412,
   "EOS_NewCompleters": 0,
@@ -27107,6 +27113,11 @@
       "Time": "2023-10-17T05:04:59.9188888+00:00",
       "NumProgressed": 63413,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-17T07:04:23.8969115+00:00",
+      "NumProgressed": 63415,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -27198,7 +27209,7 @@
       "Name": "Duelist",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6341
+      "UsersEstimate": 6342
     },
     {
       "ID": "Dynasty",
@@ -27206,7 +27217,7 @@
       "Name": "Dynasty",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 6341
+      "UsersEstimate": 6342
     },
     {
       "ID": "Entrepreneur",
@@ -27294,7 +27305,7 @@
       "Name": "I spit on your grave",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6341
+      "UsersEstimate": 6342
     },
     {
       "ID": "Jack of All Trades",
@@ -27310,7 +27321,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10780
+      "UsersEstimate": 10781
     },
     {
       "ID": "Kingslayer",
@@ -27342,7 +27353,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 20926
+      "UsersEstimate": 20927
     },
     {
       "ID": "Lawbringer",
@@ -27350,7 +27361,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 24731
+      "UsersEstimate": 24732
     },
     {
       "ID": "Lawmaker",
@@ -27462,7 +27473,7 @@
       "Name": "Swordbearer",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6341
+      "UsersEstimate": 6342
     },
     {
       "ID": "The king is pleased",
@@ -27470,7 +27481,7 @@
       "Name": "The king is pleased",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12048
+      "UsersEstimate": 12049
     },
     {
       "ID": "This Is Our Land",
@@ -27518,22 +27529,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6341
+      "UsersEstimate": 6342
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 63413,
+      "Progressed": 63415,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-10-16T20:57:34.7428906+00:00",
-  "LastChanged_Achievements": "2023-10-17T06:04:49.863517+00:00",
+  "LastChanged": "2023-10-17T06:57:18.9989976+00:00",
+  "LastChanged_Achievements": "2023-10-17T07:04:23.896911+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:51.8810296+00:00",
-  "LastUpdate_Ratings": "2023-10-17T05:57:24.7247879+00:00",
-  "LastUpdate_Achievements": "2023-10-17T06:04:49.8636725+00:00"
+  "LastUpdate_Ratings": "2023-10-17T06:57:18.9989982+00:00",
+  "LastUpdate_Achievements": "2023-10-17T07:04:23.897068+00:00"
 }

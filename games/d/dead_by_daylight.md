@@ -6,31 +6,31 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Handyman | 2.00% | ~18,895 |
-| Zealous | 2.00% | ~18,895 |
-| It wakes | 2.00% | ~18,895 |
-| Not half bad | 2.00% | ~18,895 |
-| Apt Survivor | 2.00% | ~18,895 |
-| Survival Treasures | 2.00% | ~18,895 |
-| Skillful | 2.00% | ~18,895 |
-| Make Some Noise | 2.00% | ~18,895 |
-| The Grand Sacrifice | 1.00% | ~9,447 |
-| Agonizing Escape | 1.00% | ~9,447 |
-| Backdoor Escape | 1.00% | ~9,447 |
-| I've got your back | 1.00% | ~9,447 |
-| No one left behind | 1.00% | ~9,447 |
-| Medic | 1.00% | ~9,447 |
-| Perfect Escape | 1.00% | ~9,447 |
-| Bloody Millionaire | 1.00% | ~9,447 |
-| I | 1.00% | ~9,447 |
-| Engineer | 1.00% | ~9,447 |
-| Sorted | 1.00% | ~9,447 |
-| Healthy Obsession | 1.00% | ~9,447 |
-| Resurgence | 1.00% | ~9,447 |
-| Preemptive Strike | 1.00% | ~9,447 |
-| Humanitarian | 1.00% | ~9,447 |
+| Handyman | 2.00% | ~18,896 |
+| Zealous | 2.00% | ~18,896 |
+| It wakes | 2.00% | ~18,896 |
+| Not half bad | 2.00% | ~18,896 |
+| Apt Survivor | 2.00% | ~18,896 |
+| Survival Treasures | 2.00% | ~18,896 |
+| Skillful | 2.00% | ~18,896 |
+| Make Some Noise | 2.00% | ~18,896 |
+| The Grand Sacrifice | 1.00% | ~9,448 |
+| Agonizing Escape | 1.00% | ~9,448 |
+| Backdoor Escape | 1.00% | ~9,448 |
+| I've got your back | 1.00% | ~9,448 |
+| No one left behind | 1.00% | ~9,448 |
+| Medic | 1.00% | ~9,448 |
+| Perfect Escape | 1.00% | ~9,448 |
+| Perfect Killing | 1.00% | ~9,448 |
+| Bloody Millionaire | 1.00% | ~9,448 |
+| I | 1.00% | ~9,448 |
+| Engineer | 1.00% | ~9,448 |
+| Sorted | 1.00% | ~9,448 |
+| Healthy Obsession | 1.00% | ~9,448 |
+| Resurgence | 1.00% | ~9,448 |
+| Preemptive Strike | 1.00% | ~9,448 |
+| Humanitarian | 1.00% | ~9,448 |
 | Nerves of steel | 0.90% | ~8,503 |
-| Perfect Killing | 0.90% | ~8,503 |
 | Risk it all | 0.90% | ~8,503 |
 | II | 0.90% | ~8,503 |
 | Wounded Healer | 0.90% | ~8,503 |
@@ -38,19 +38,19 @@ Number of Ratings: 70,340  (23.09.2022)
 | Apt Killer | 0.80% | ~7,558 |
 | Vulture | 0.80% | ~7,558 |
 | Second Act | 0.80% | ~7,558 |
-| III | 0.70% | ~6,613 |
-| With Scars to Show | 0.70% | ~6,613 |
-| Rebuilding The Borgo | 0.70% | ~6,613 |
-| Blood on your hands | 0.60% | ~5,668 |
-| Escape Artist | 0.60% | ~5,668 |
-| Made it out alive! | 0.60% | ~5,668 |
-| Near-Death Experience | 0.60% | ~5,668 |
-| Cherish your Life | 0.60% | ~5,668 |
-| First to the Punch | 0.60% | ~5,668 |
-| Every Last Drop | 0.60% | ~5,668 |
-| Raccoon City Recruit | 0.60% | ~5,668 |
-| Flight to Freedom | 0.60% | ~5,668 |
-| A Fast Death | 0.60% | ~5,668 |
+| III | 0.70% | ~6,614 |
+| With Scars to Show | 0.70% | ~6,614 |
+| Rebuilding The Borgo | 0.70% | ~6,614 |
+| Blood on your hands | 0.60% | ~5,669 |
+| Escape Artist | 0.60% | ~5,669 |
+| Made it out alive! | 0.60% | ~5,669 |
+| Near-Death Experience | 0.60% | ~5,669 |
+| Cherish your Life | 0.60% | ~5,669 |
+| First to the Punch | 0.60% | ~5,669 |
+| Every Last Drop | 0.60% | ~5,669 |
+| Raccoon City Recruit | 0.60% | ~5,669 |
+| Flight to Freedom | 0.60% | ~5,669 |
+| A Fast Death | 0.60% | ~5,669 |
 | Gifts for the Fog | 0.50% | ~4,724 |
 | III-50 | 0.50% | ~4,724 |
 | Shock Therapy | 0.50% | ~4,724 |
@@ -76,6 +76,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Cottage Owner | 0.40% | ~3,779 |
 | Serial Killer | 0.40% | ~3,779 |
 | Escaping the Nightmare | 0.40% | ~3,779 |
+| Game Over | 0.40% | ~3,779 |
 | Ancestor's Rite | 0.40% | ~3,779 |
 | Devoted Gatekeeping | 0.40% | ~3,779 |
 | Shrine Apparatus | 0.40% | ~3,779 |
@@ -88,7 +89,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Jump Scares | 0.30% | ~2,834 |
 | Deep Cleansing | 0.30% | ~2,834 |
 | Texas BBQ | 0.30% | ~2,834 |
-| Game Over | 0.30% | ~2,834 |
 | Party Crasher | 0.30% | ~2,834 |
 | Outrage | 0.30% | ~2,834 |
 | Heavy Burden | 0.30% | ~2,834 |
@@ -97,16 +97,16 @@ Number of Ratings: 70,340  (23.09.2022)
 | High Speed Pursuit | 0.30% | ~2,834 |
 | Complete the Evolution | 0.30% | ~2,834 |
 | Kitted Out | 0.30% | ~2,834 |
-| Blood in your mouth | 0.20% | ~1,889 |
-| Looter | 0.20% | ~1,889 |
-| Whiffing to Success | 0.20% | ~1,889 |
-| Death of Ignorance | 0.20% | ~1,889 |
-| I See You | 0.20% | ~1,889 |
-| Power Moves | 0.20% | ~1,889 |
-| Punch Drunk | 0.20% | ~1,889 |
-| Prowler | 0.20% | ~1,889 |
-| Hack the Mainframe | 0.20% | ~1,889 |
-| Disarm and Dismember | 0.20% | ~1,889 |
+| Blood in your mouth | 0.20% | ~1,890 |
+| Looter | 0.20% | ~1,890 |
+| Whiffing to Success | 0.20% | ~1,890 |
+| Death of Ignorance | 0.20% | ~1,890 |
+| I See You | 0.20% | ~1,890 |
+| Power Moves | 0.20% | ~1,890 |
+| Punch Drunk | 0.20% | ~1,890 |
+| Prowler | 0.20% | ~1,890 |
+| Hack the Mainframe | 0.20% | ~1,890 |
+| Disarm and Dismember | 0.20% | ~1,890 |
 | A feast for the Entity | 0.10% | ~945 |
 | Cripple them all | 0.10% | ~945 |
 | The Grind | 0.10% | ~945 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~945 |
 | Adept Ripley | 0.10% | ~945 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 944,747 (Ranked 14)  
+Progressed: 944,787 (Ranked 14)  
 Completed: 51 (0.01%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -416,7 +416,7 @@ Completed: 51 (0.01%) (Ranked 297)
 | 2023-10-14 | 939,759 | 50 |
 | 2023-10-15 | 942,498 | 51 |
 | 2023-10-16 | 944,360 | 51 |
-| 2023-10-17 | 944,747 | 51 |
+| 2023-10-17 | 944,787 | 51 |
 ## Awards
 Max (Diverse Characters): 34,006  (Ranked 15)  
 Sum: 262,995 (Ranked 13)  

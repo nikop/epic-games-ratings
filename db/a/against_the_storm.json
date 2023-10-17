@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 168,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3110,9 +3110,9 @@
       "Count": 322
     }
   ],
-  "EOS_Progressed": 16949,
+  "EOS_Progressed": 16950,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -12125,6 +12125,11 @@
       "Time": "2023-10-17T06:08:09.7381864+00:00",
       "NumProgressed": 16949,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-10-17T07:06:44.0591567+00:00",
+      "NumProgressed": 16950,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 50,
@@ -12144,7 +12149,7 @@
       "Name": "Feeding The People",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "AllNeeds",
@@ -12200,7 +12205,7 @@
       "Name": "Efficient Explorer",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "MetalChain",
@@ -12232,7 +12237,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 847
+      "UsersEstimate": 848
     },
     {
       "ID": "WinImpossible",
@@ -12296,7 +12301,7 @@
       "Name": "Fertile Meadows",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 847
+      "UsersEstimate": 848
     },
     {
       "ID": "WinNearFishmen",
@@ -12326,9 +12331,9 @@
       "ID": "WinNearLevitating",
       "SetID": "cfbk359",
       "Name": "Levitating Monument",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 508
+      "UsersEstimate": 678
     },
     {
       "ID": "WinNearMines",
@@ -12400,7 +12405,7 @@
       "Name": "Coral Forest",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 847
+      "UsersEstimate": 848
     },
     {
       "ID": "WinOnCursed",
@@ -12424,7 +12429,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 847
+      "UsersEstimate": 848
     },
     {
       "ID": "WinPrestige10",
@@ -12432,7 +12437,7 @@
       "Name": "Prestigious Expedition",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "WinPrestige20",
@@ -12464,7 +12469,7 @@
       "Name": "Blood Flower Farmer",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "WinWithEvents",
@@ -12535,15 +12540,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 16949,
+      "Progressed": 16950,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-10-15T11:59:20.8404524+00:00",
-  "LastChanged_Achievements": "2023-10-17T06:08:09.7381859+00:00",
+  "LastChanged_Achievements": "2023-10-17T07:06:44.059156+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:53.7787195+00:00",
-  "LastUpdate_Ratings": "2023-10-17T05:59:04.0574505+00:00",
-  "LastUpdate_Achievements": "2023-10-17T06:08:09.7382722+00:00"
+  "LastUpdate_Ratings": "2023-10-17T06:58:38.5306771+00:00",
+  "LastUpdate_Achievements": "2023-10-17T07:06:44.0592574+00:00"
 }

@@ -817,9 +817,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 9329,
+  "EOS_Progressed": 9330,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10427,6 +10427,11 @@
       "Time": "2023-10-17T05:04:20.3048096+00:00",
       "NumProgressed": 9329,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-17T07:03:55.970094+00:00",
+      "NumProgressed": 9330,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -10454,7 +10459,7 @@
       "Name": "Boss of Bosses",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1399
+      "UsersEstimate": 1400
     },
     {
       "ID": "ACH_CLIPS_AND_CRITS",
@@ -10502,7 +10507,7 @@
       "Name": "Get Furious",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 5131
+      "UsersEstimate": 5132
     },
     {
       "ID": "ACH_GET_IN_THE_RING",
@@ -10582,7 +10587,7 @@
       "Name": "Let\u0027s Get This Party Started",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 8303
+      "UsersEstimate": 8304
     },
     {
       "ID": "ACH_LIGHT_MY_FIRE",
@@ -10638,7 +10643,7 @@
       "Name": "Photogenic",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 8023
+      "UsersEstimate": 8024
     },
     {
       "ID": "ACH_PLAYING_WITH_POWER",
@@ -10646,7 +10651,7 @@
       "Name": "Playing With Power",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 6997
+      "UsersEstimate": 6998
     },
     {
       "ID": "ACH_PLUG_IT_IN",
@@ -10654,7 +10659,7 @@
       "Name": "Plug It In",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 7650
+      "UsersEstimate": 7651
     },
     {
       "ID": "ACH_POPPIN_NOGGINS",
@@ -10742,7 +10747,7 @@
       "Name": "Surge Gauntlet Jockey",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 7743
+      "UsersEstimate": 7744
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_SCHOLAR",
@@ -10806,7 +10811,7 @@
       "Name": "Ticket Toddler",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 4011
+      "UsersEstimate": 4012
     },
     {
       "ID": "ACH_TO_BE_CONTINUED",
@@ -10830,22 +10835,22 @@
       "Name": "You\u0027re Fired",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 5224
+      "UsersEstimate": 5225
     }
   ],
   "AchievementSets": [
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 9329,
+      "Progressed": 9330,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-10-11T06:59:53.9186259+00:00",
-  "LastChanged_Achievements": "2023-10-17T06:04:16.2051676+00:00",
+  "LastChanged_Achievements": "2023-10-17T07:03:55.9700934+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:12.7858251+00:00",
-  "LastUpdate_Ratings": "2023-10-17T05:57:48.5631263+00:00",
-  "LastUpdate_Achievements": "2023-10-17T06:04:16.205247+00:00"
+  "LastUpdate_Ratings": "2023-10-17T06:57:37.2317706+00:00",
+  "LastUpdate_Achievements": "2023-10-17T07:03:55.9701985+00:00"
 }

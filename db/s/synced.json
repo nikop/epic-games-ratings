@@ -690,9 +690,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 63475,
+  "EOS_Progressed": 63477,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 1129,
+  "EOS_NewPlayers": 1130,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5475,6 +5475,11 @@
       "Time": "2023-10-17T06:10:08.2645691+00:00",
       "NumProgressed": 63475,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-10-17T07:09:09.9615704+00:00",
+      "NumProgressed": 63477,
+      "NumCompleted": 18
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -5487,7 +5492,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 19042
+      "UsersEstimate": 19043
     },
     {
       "ID": "10",
@@ -5527,7 +5532,7 @@
       "Name": "Nano Connoisseur",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 3808
+      "UsersEstimate": 3809
     },
     {
       "ID": "15",
@@ -5583,7 +5588,7 @@
       "Name": "In Two Places At Once",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 3808
+      "UsersEstimate": 3809
     },
     {
       "ID": "7",
@@ -5614,7 +5619,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 63475,
+      "Progressed": 63477,
       "Completed": 18
     }
   ],
@@ -5622,8 +5627,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-10-16T23:57:19.3330565+00:00",
-  "LastChanged_Achievements": "2023-10-17T06:10:08.2645687+00:00",
+  "LastChanged_Achievements": "2023-10-17T07:09:09.9615694+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:34.3906075+00:00",
-  "LastUpdate_Ratings": "2023-10-17T05:57:14.6253091+00:00",
-  "LastUpdate_Achievements": "2023-10-17T06:10:08.2646126+00:00"
+  "LastUpdate_Ratings": "2023-10-17T06:57:11.6333464+00:00",
+  "LastUpdate_Achievements": "2023-10-17T07:09:09.9616067+00:00"
 }

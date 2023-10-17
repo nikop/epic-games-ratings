@@ -4,7 +4,7 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 394,
+  "EOS_Progressed": 395,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -531,6 +531,11 @@
       "Time": "2023-10-16T13:18:09.0955961+00:00",
       "NumProgressed": 394,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-17T07:07:00.2158056+00:00",
+      "NumProgressed": 395,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -582,7 +587,7 @@
       "Name": "Baby\u0027s First Car",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "COLLECT_20_CARS",
@@ -694,7 +699,7 @@
       "Name": "Amateur Mechanic",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "HIGHEST_ASTEROID",
@@ -710,7 +715,7 @@
       "Name": "C-C-C-Combo!",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "HIT_10_PLAYERS",
@@ -726,7 +731,7 @@
       "Name": "Pushover",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "HIT_ALIEN",
@@ -806,7 +811,7 @@
       "Name": "A Forest Walk",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "LOADED_LVL_SNOW",
@@ -830,7 +835,7 @@
       "Name": "Multiply that!",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ONE_MILLION_CASH",
@@ -852,9 +857,9 @@
       "ID": "SPIN_1080",
       "SetID": "20koof9",
       "Name": "Feeling Dizzy?",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 67
     },
     {
       "ID": "STUNT_EVENT",
@@ -926,7 +931,7 @@
       "Name": "Event Pro",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "WIN_BALL",
@@ -981,7 +986,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 394,
+      "Progressed": 395,
       "Completed": 2
     }
   ],
@@ -989,8 +994,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-10-17T06:09:09.7096146+00:00",
+  "LastChanged_Achievements": "2023-10-17T07:07:00.2158051+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:24.2620735+00:00",
-  "LastUpdate_Ratings": "2023-10-17T05:58:19.9624145+00:00",
-  "LastUpdate_Achievements": "2023-10-17T06:09:09.7096594+00:00"
+  "LastUpdate_Ratings": "2023-10-17T06:58:02.7355602+00:00",
+  "LastUpdate_Achievements": "2023-10-17T07:07:00.2158621+00:00"
 }

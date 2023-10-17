@@ -5,12 +5,12 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Brace for impact! | 31.00% | ~122 |
-| Baby's First Car | 29.00% | ~114 |
-| Pushover | 29.00% | ~114 |
-| A Forest Walk | 29.00% | ~114 |
-| Amateur Mechanic | 28.00% | ~110 |
-| C-C-C-Combo! | 26.00% | ~102 |
-| Multiply that! | 26.00% | ~102 |
+| Baby's First Car | 29.00% | ~115 |
+| Pushover | 29.00% | ~115 |
+| A Forest Walk | 29.00% | ~115 |
+| Amateur Mechanic | 28.00% | ~111 |
+| C-C-C-Combo! | 26.00% | ~103 |
+| Multiply that! | 26.00% | ~103 |
 | Fore! | 24.00% | ~95 |
 | Insurance fraud | 24.00% | ~95 |
 | Snow Fun! | 24.00% | ~95 |
@@ -30,9 +30,9 @@
 | Anger Issues | 20.00% | ~79 |
 | Your Highness | 20.00% | ~79 |
 | Event Amateur | 19.00% | ~75 |
-| Feeling Dizzy? | 18.00% | ~71 |
 | Drift King! | 17.00% | ~67 |
 | Feeling Hot Hot Hot! | 17.00% | ~67 |
+| Feeling Dizzy? | 17.00% | ~67 |
 | Assert Dominance | 17.00% | ~67 |
 | Speed of light | 17.00% | ~67 |
 | Ferry Good! | 16.00% | ~63 |
@@ -43,7 +43,7 @@
 | High Roller | 11.00% | ~43 |
 | Earth Defense Force | 11.00% | ~43 |
 | Rocketman | 11.00% | ~43 |
-| Event Pro | 10.00% | ~39 |
+| Event Pro | 10.00% | ~40 |
 | Space Crash | 7.00% | ~28 |
 | To war! | 6.00% | ~24 |
 | Hoarder | 6.00% | ~24 |
@@ -60,7 +60,7 @@
 | Master Mechanic | 1.00% | ~4 |
 | Crashed and Driven | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 394 (Ranked 294)  
+Progressed: 395 (Ranked 294)  
 Completed: 2 (0.51%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,6 +140,7 @@ Completed: 2 (0.51%) (Ranked 177)
 | 2023-10-14 | 392 | 2 |
 | 2023-10-15 | 393 | 2 |
 | 2023-10-16 | 394 | 2 |
+| 2023-10-17 | 395 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -635,9 +635,9 @@
       "ID": "KR4_ACHIEVEMENT_SKIYETI",
       "SetID": "caeik3h",
       "Name": "Ski Free",
-      "Percentage": 30,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "KR4_ACHIEVEMENT_SLENDERMAN",
@@ -739,9 +739,9 @@
       "ID": "KR4_ACHIEVEMENT_WINTER_QUEEN",
       "SetID": "caeik3h",
       "Name": "More Than A Legend",
-      "Percentage": 35,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     }
   ],
   "AchievementSets": [
@@ -754,8 +754,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-10-17T06:04:18.6560873+00:00",
+  "LastChanged_Achievements": "2023-10-17T07:03:58.2437215+00:00",
   "LastUpdate_AppInfo": "2023-10-12T15:57:01.5965856+00:00",
-  "LastUpdate_Ratings": "2023-10-17T05:59:20.7445845+00:00",
-  "LastUpdate_Achievements": "2023-10-17T06:04:18.6561715+00:00"
+  "LastUpdate_Ratings": "2023-10-17T06:58:51.2068626+00:00",
+  "LastUpdate_Achievements": "2023-10-17T07:03:58.243806+00:00"
 }

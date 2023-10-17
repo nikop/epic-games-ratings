@@ -6,27 +6,27 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 44.00% | ~6,134 |
-| Overkill | 34.00% | ~4,740 |
-| A normal day in Gloomhaven | 34.00% | ~4,740 |
-| Vaccine Incoming | 33.00% | ~4,601 |
-| Spread the plague | 31.00% | ~4,322 |
-| Get over here! | 24.00% | ~3,346 |
+| I'm not dead yet | 44.00% | ~6,135 |
+| Overkill | 34.00% | ~4,741 |
+| A normal day in Gloomhaven | 34.00% | ~4,741 |
+| Vaccine Incoming | 33.00% | ~4,602 |
+| Spread the plague | 31.00% | ~4,323 |
+| Get over here! | 24.00% | ~3,347 |
 | Just when I thought I was out... | 19.00% | ~2,649 |
 | Mine... All Mine... | 17.00% | ~2,370 |
 | Precious! | 16.00% | ~2,231 |
-| Light of my life | 15.00% | ~2,091 |
-| Anatomy Lesson | 15.00% | ~2,091 |
-| Grizzled veteran | 13.00% | ~1,812 |
-| You activated my trap card! | 13.00% | ~1,812 |
-| Augmented rat | 13.00% | ~1,812 |
-| Obstacle race | 13.00% | ~1,812 |
+| Light of my life | 15.00% | ~2,092 |
+| Anatomy Lesson | 15.00% | ~2,092 |
+| Grizzled veteran | 13.00% | ~1,813 |
+| You activated my trap card! | 13.00% | ~1,813 |
+| Augmented rat | 13.00% | ~1,813 |
+| Obstacle race | 13.00% | ~1,813 |
 | Doom and gloom | 11.00% | ~1,534 |
-| Who's the Boss? | 8.00% | ~1,115 |
-| Pack leader | 8.00% | ~1,115 |
-| Pain is your friend | 8.00% | ~1,115 |
-| Black death | 8.00% | ~1,115 |
-| Play it again, Sam | 8.00% | ~1,115 |
+| Who's the Boss? | 8.00% | ~1,116 |
+| Pack leader | 8.00% | ~1,116 |
+| Pain is your friend | 8.00% | ~1,116 |
+| Black death | 8.00% | ~1,116 |
+| Play it again, Sam | 8.00% | ~1,116 |
 | Dungeon Veteran | 7.00% | ~976 |
 | Quad damage | 6.00% | ~837 |
 | Power Up! | 5.00% | ~697 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~14 |
 | Murder Death Kill | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,942 (Ranked 139)  
+Progressed: 13,944 (Ranked 139)  
 Completed: 1 (0.01%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 1 (0.01%) (Ranked 297)
 | 2023-10-14 | 13,296 | 1 |
 | 2023-10-15 | 13,656 | 1 |
 | 2023-10-16 | 13,884 | 1 |
-| 2023-10-17 | 13,942 | 1 |
+| 2023-10-17 | 13,944 | 1 |
 ## Awards
 Max (Character Customization): 3,554  (Ranked 90)  
 Sum: 8,295 (Ranked 98)  

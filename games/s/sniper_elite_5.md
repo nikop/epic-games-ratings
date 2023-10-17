@@ -9,24 +9,24 @@ Rating: 4.45 (Ranked 644)
 | Confirming Suspicions | 41.00% | ~1,538 |
 | The Kraken Wakes | 37.00% | ~1,388 |
 | It's Starting to Crack | 34.00% | ~1,275 |
-| Change the Channel | 31.00% | ~1,162 |
+| Change the Channel | 31.00% | ~1,163 |
 | Lord of War | 30.00% | ~1,125 |
 | Taking it back | 28.00% | ~1,050 |
 | Resourceful | 27.00% | ~1,013 |
 | Target America | 26.00% | ~975 |
 | The Kraken Sleeps | 24.00% | ~900 |
-| Organ Grinder | 23.00% | ~862 |
-| As Quiet as a Mouse | 23.00% | ~862 |
+| Organ Grinder | 23.00% | ~863 |
+| As Quiet as a Mouse | 23.00% | ~863 |
 | Liberté | 22.00% | ~825 |
 | Sharpshooter | 22.00% | ~825 |
-| Explosive Efficiency | 19.00% | ~712 |
+| Explosive Efficiency | 19.00% | ~713 |
 | Gunslinger | 18.00% | ~675 |
 | Just a Flesh Wound | 17.00% | ~638 |
 | Climbing the Ladder | 16.00% | ~600 |
 | Der Geist | 16.00% | ~600 |
 | Close Quarters | 16.00% | ~600 |
-| Snake in the Grass | 15.00% | ~562 |
-| Brains of the Operation | 15.00% | ~562 |
+| Snake in the Grass | 15.00% | ~563 |
+| Brains of the Operation | 15.00% | ~563 |
 | No Stone Unturned | 14.00% | ~525 |
 | Opposing Force | 14.00% | ~525 |
 | Fields of Glory | 14.00% | ~525 |
@@ -49,10 +49,10 @@ Rating: 4.45 (Ranked 644)
 | Last Resort | 4.00% | ~148 |
 | Siegebreaker | 4.00% | ~148 |
 | Ghost of Falaise | 4.00% | ~148 |
-| From Paris with Love | 3.00% | ~112 |
-| Burn after reading | 3.00% | ~112 |
-| Souvenir hunter | 3.00% | ~112 |
-| Shoot for the Moon | 3.00% | ~112 |
+| From Paris with Love | 3.00% | ~113 |
+| Burn after reading | 3.00% | ~113 |
+| Souvenir hunter | 3.00% | ~113 |
+| Shoot for the Moon | 3.00% | ~113 |
 | If You Go Down To The Woods Today | 3.00% | ~111 |
 | Fight Another Day | 3.00% | ~111 |
 | Out of Scope | 2.00% | ~75 |
@@ -73,11 +73,11 @@ Rating: 4.45 (Ranked 644)
 | Master of Rifles | 0.90% | ~34 |
 | Operation Overlord | 0.80% | ~30 |
 | Master of Pistols | 0.70% | ~26 |
-| Master-at-arms | 0.60% | ~22 |
+| Master-at-arms | 0.60% | ~23 |
 | Stroll in the Woods | 0.60% | ~22 |
 | Going Overboard | 0.60% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,750 (Ranked 179)  
+Progressed: 3,751 (Ranked 179)  
 Completed: 11 (0.29%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 11 (0.29%) (Ranked 208)
 | 2023-10-14 | 3,741 | 11 |
 | 2023-10-15 | 3,747 | 11 |
 | 2023-10-16 | 3,749 | 11 |
-| 2023-10-17 | 3,750 | 11 |
+| 2023-10-17 | 3,751 | 11 |
 ## Awards
 Max (Great for Beginners): 21  (Ranked 526)  
 Sum: 21 (Ranked 527)  

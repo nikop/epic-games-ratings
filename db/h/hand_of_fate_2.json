@@ -898,9 +898,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 663409,
+  "EOS_Progressed": 663410,
   "EOS_Completed": 171,
-  "EOS_NewPlayers": 269,
+  "EOS_NewPlayers": 267,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -17943,6 +17943,11 @@
       "Time": "2023-10-17T05:05:29.8098571+00:00",
       "NumProgressed": 663409,
       "NumCompleted": 171
+    },
+    {
+      "Time": "2023-10-17T07:04:44.6590543+00:00",
+      "NumProgressed": 663410,
+      "NumCompleted": 171
     }
   ],
   "TotalAchievements": 48,
@@ -17954,7 +17959,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 477654
+      "UsersEstimate": 477655
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -17962,7 +17967,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 384777
+      "UsersEstimate": 384778
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -18337,15 +18342,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 663409,
+      "Progressed": 663410,
       "Completed": 171
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-09-17T14:00:02.1778642+00:00",
-  "LastChanged_Achievements": "2023-10-17T06:05:15.1233449+00:00",
+  "LastChanged_Achievements": "2023-10-17T07:04:44.6590536+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:29.0869646+00:00",
-  "LastUpdate_Ratings": "2023-10-17T05:57:19.402687+00:00",
-  "LastUpdate_Achievements": "2023-10-17T06:05:15.1234538+00:00"
+  "LastUpdate_Ratings": "2023-10-17T06:57:15.4803926+00:00",
+  "LastUpdate_Achievements": "2023-10-17T07:04:44.6591978+00:00"
 }

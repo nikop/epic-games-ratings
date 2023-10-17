@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewPlayers": 290,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -2146,9 +2146,9 @@
       "ID": "MuhsroomTruth",
       "SetID": "2aagp3d",
       "Name": "The cycle acknowledged",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 35
+      "UsersEstimate": 42
     },
     {
       "ID": "NoMoreWards",
@@ -2267,8 +2267,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-10-13T20:57:47.9412245+00:00",
-  "LastChanged_Achievements": "2023-10-17T06:05:08.3805072+00:00",
+  "LastChanged_Achievements": "2023-10-17T07:04:39.0631611+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:44.2099257+00:00",
-  "LastUpdate_Ratings": "2023-10-17T05:58:49.2981512+00:00",
-  "LastUpdate_Achievements": "2023-10-17T06:05:08.3805361+00:00"
+  "LastUpdate_Ratings": "2023-10-17T06:58:26.4709774+00:00",
+  "LastUpdate_Achievements": "2023-10-17T07:04:39.0631971+00:00"
 }
