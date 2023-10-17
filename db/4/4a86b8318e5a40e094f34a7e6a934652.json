@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 348,
   "Ranking_EOS_Completed": 138,
   "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -945,9 +945,9 @@
       "ID": "TAKE_LEECH",
       "SetID": "aniflfk",
       "Name": "Uppies!",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 50,
-      "UsersEstimate": 138
+      "UsersEstimate": 140
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -968,8 +968,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-10-16T23:03:53.7495317+00:00",
+  "LastChanged_Achievements": "2023-10-17T00:05:33.9051522+00:00",
   "LastUpdate_AppInfo": "2023-10-11T15:57:05.2435729+00:00",
-  "LastUpdate_Ratings": "2023-10-16T22:59:49.8385334+00:00",
-  "LastUpdate_Achievements": "2023-10-16T23:03:53.7495502+00:00"
+  "LastUpdate_Ratings": "2023-10-17T00:00:50.6254971+00:00",
+  "LastUpdate_Achievements": "2023-10-17T00:05:33.905191+00:00"
 }

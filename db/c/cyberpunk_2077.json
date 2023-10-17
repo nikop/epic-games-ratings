@@ -13703,9 +13703,9 @@
       "Count": 10485
     }
   ],
-  "EOS_Progressed": 892285,
+  "EOS_Progressed": 892287,
   "EOS_Completed": 2674,
-  "EOS_NewPlayers": 1752,
+  "EOS_NewPlayers": 1747,
   "EOS_NewCompleters": 41,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -33993,6 +33993,11 @@
       "Time": "2023-10-16T23:03:41.6914439+00:00",
       "NumProgressed": 892285,
       "NumCompleted": 2674
+    },
+    {
+      "Time": "2023-10-17T00:05:16.4366489+00:00",
+      "NumProgressed": 892287,
+      "NumCompleted": 2674
     }
   ],
   "TotalAchievements": 57,
@@ -34012,7 +34017,7 @@
       "Name": "To Bad Decisions!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 98151
+      "UsersEstimate": 98152
     },
     {
       "ID": "BushidoAndChill",
@@ -34020,7 +34025,7 @@
       "Name": "Bushido and Chill",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 169534
+      "UsersEstimate": 169535
     },
     {
       "ID": "Cyberjunkie",
@@ -34028,7 +34033,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 214148
+      "UsersEstimate": 214149
     },
     {
       "ID": "Denied",
@@ -34036,7 +34041,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 401528
+      "UsersEstimate": 401529
     },
     {
       "ID": "FollowingTheRiver",
@@ -34052,7 +34057,7 @@
       "Name": "The Wandering Fool",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 98151
+      "UsersEstimate": 98152
     },
     {
       "ID": "Gearhead",
@@ -34076,7 +34081,7 @@
       "Name": "Gun Fu",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 160611
+      "UsersEstimate": 160612
     },
     {
       "ID": "Gunslinger",
@@ -34084,7 +34089,7 @@
       "Name": "Gunslinger",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 89228
+      "UsersEstimate": 89229
     },
     {
       "ID": "HandyMan",
@@ -34108,7 +34113,7 @@
       "Name": "Mean Streets",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 89228
+      "UsersEstimate": 89229
     },
     {
       "ID": "LittleTokyo",
@@ -34124,7 +34129,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 231994
+      "UsersEstimate": 231995
     },
     {
       "ID": "MaxPain",
@@ -34180,7 +34185,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 294454
+      "UsersEstimate": 294455
     },
     {
       "ID": "Specialist",
@@ -34220,7 +34225,7 @@
       "Name": "The Fool",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 633522
+      "UsersEstimate": 633524
     },
     {
       "ID": "TheHermit",
@@ -34244,7 +34249,7 @@
       "Name": "The Lovers",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 347991
+      "UsersEstimate": 347992
     },
     {
       "ID": "TheStar",
@@ -34268,7 +34273,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 294454
+      "UsersEstimate": 294455
     },
     {
       "ID": "TheWorld",
@@ -34459,21 +34464,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 892285,
+      "Progressed": 892287,
       "Completed": 2674
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 20908,
+      "Progressed": 20910,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-16T23:02:17.7358097+00:00",
-  "LastChanged_Achievements": "2023-10-16T23:03:41.6914435+00:00",
+  "LastChanged_Achievements": "2023-10-17T00:05:16.4366479+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:37.5483976+00:00",
-  "LastUpdate_Ratings": "2023-10-16T23:02:17.7358106+00:00",
-  "LastUpdate_Achievements": "2023-10-16T23:03:41.6916399+00:00"
+  "LastUpdate_Ratings": "2023-10-17T00:03:47.8825322+00:00",
+  "LastUpdate_Achievements": "2023-10-17T00:05:16.4369656+00:00"
 }

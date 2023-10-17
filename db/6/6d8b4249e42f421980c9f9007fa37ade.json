@@ -2,10 +2,10 @@
   "ID": "6d8b4249e42f421980c9f9007fa37ade",
   "Name": "Return to Abyss \u91CD\u8FD4\u6DF1\u6E0A",
   "ProductSlug": "return-to-abyss-226301",
-  "Ranking_EOS_Progress": 388,
+  "Ranking_EOS_Progress": 387,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 392,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
     "PcReleaseDate": "2023-01-06T16:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 102,
+  "EOS_Progressed": 103,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -441,6 +441,11 @@
       "Time": "2023-09-22T01:46:03.3634148+00:00",
       "NumProgressed": 102,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-17T00:09:27.0713681+00:00",
+      "NumProgressed": 103,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -452,7 +457,7 @@
       "Name": "10,000-Volt Electric Field",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "Epic_AsteroidBase_1",
@@ -554,7 +559,7 @@
       "ID": "Epic_Firefly_1",
       "SetID": "ba1m2fc",
       "Name": "Stars\u0027 Shimmer",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 10,
       "UsersEstimate": 64
     },
@@ -612,7 +617,7 @@
       "Name": "Exorcism",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "Epic_HomeRun_1",
@@ -626,7 +631,7 @@
       "ID": "Epic_Hunter_c0190900-91ca-4012-b070-e45fedf5cf41_1",
       "SetID": "ba1m2fc",
       "Name": "Wrecking Ball",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 20,
       "UsersEstimate": 60
     },
@@ -634,7 +639,7 @@
       "ID": "Epic_InnerWorld_1",
       "SetID": "ba1m2fc",
       "Name": "Pseudo-redemption",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
       "UsersEstimate": 19
     },
@@ -682,9 +687,9 @@
       "ID": "Epic_NinjaSword_1",
       "SetID": "ba1m2fc",
       "Name": "Knife Out",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 25
     },
     {
       "ID": "Epic_Parasitic_1",
@@ -716,7 +721,7 @@
       "Name": "Paradise Lost",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "Epic_Revenge_1",
@@ -756,7 +761,7 @@
       "Name": "Deadly Twin Cracks",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "Epic_SmallBell_1",
@@ -804,7 +809,7 @@
       "Name": "Winds of Destruction",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Epic_Treasure_1000",
@@ -818,7 +823,7 @@
       "ID": "Epic_WildFire_1",
       "SetID": "ba1m2fc",
       "Name": "Spark Starts Prairie Fire",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 10,
       "UsersEstimate": 56
     },
@@ -835,14 +840,14 @@
     {
       "ID": "ba1m2fc",
       "IsBase": true,
-      "Progressed": 102,
+      "Progressed": 103,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-10-16T23:07:37.5102973+00:00",
+  "LastChanged_Achievements": "2023-10-17T00:09:27.0713673+00:00",
   "LastUpdate_AppInfo": "2023-10-12T13:02:56.3837944+00:00",
-  "LastUpdate_Ratings": "2023-10-16T23:01:28.637329+00:00",
-  "LastUpdate_Achievements": "2023-10-16T23:07:37.5103426+00:00"
+  "LastUpdate_Ratings": "2023-10-17T00:02:52.9539782+00:00",
+  "LastUpdate_Achievements": "2023-10-17T00:09:27.0714145+00:00"
 }

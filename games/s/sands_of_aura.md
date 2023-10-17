@@ -4,7 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting Sail | 33.00% | ~1 |
+| Setting Sail | 75.00% | ~3 |
+| A Small Thirsty Thing | 25.00% | ~1 |
 | Rain Must Fall | 0.00% | ~0 |
 | No Salvation | 0.00% | ~0 |
 | Overboard | 0.00% | ~0 |
@@ -24,7 +25,6 @@
 | A Casualty of Truth | 0.00% | ~0 |
 | Ignorant Bliss | 0.00% | ~0 |
 | A Blunted Blade | 0.00% | ~0 |
-| A Small Thirsty Thing | 0.00% | ~0 |
 | A Supreme Kindness | 0.00% | ~0 |
 | Redeemer | 0.00% | ~0 |
 | Divine Guidance | 0.00% | ~0 |
@@ -63,13 +63,14 @@
 | Savage Progeny | 0.00% | ~0 |
 | Champion of Starspire | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3 (Ranked 576)  
+Progressed: 4 (Ranked 567)  
 Completed: 0 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-10-14 | 1 | 0 |
 | 2023-10-16 | 3 | 0 |
+| 2023-10-17 | 4 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

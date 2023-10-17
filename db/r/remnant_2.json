@@ -3132,9 +3132,9 @@
       "Count": 235
     }
   ],
-  "EOS_Progressed": 196519,
+  "EOS_Progressed": 196529,
   "EOS_Completed": 393,
-  "EOS_NewPlayers": 3529,
+  "EOS_NewPlayers": 3525,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -13527,6 +13527,11 @@
       "Time": "2023-10-16T23:07:15.7975846+00:00",
       "NumProgressed": 196519,
       "NumCompleted": 393
+    },
+    {
+      "Time": "2023-10-17T00:08:55.5978023+00:00",
+      "NumProgressed": 196529,
+      "NumCompleted": 393
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -13539,7 +13544,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 13756
+      "UsersEstimate": 13757
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -13547,7 +13552,7 @@
       "Name": "Crafty",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 3930
+      "UsersEstimate": 3931
     },
     {
       "ID": "Defeat_Abberations_A",
@@ -13571,7 +13576,7 @@
       "Name": "Only Human",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3930
+      "UsersEstimate": 3931
     },
     {
       "ID": "Defeat_Corrupted_Ravager",
@@ -13587,7 +13592,7 @@
       "Name": "Gleaming the Cube",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 11791
+      "UsersEstimate": 11792
     },
     {
       "ID": "Defeat_Faelin_Faerin",
@@ -13659,7 +13664,7 @@
       "Name": "Quest for Survival",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 13756
+      "UsersEstimate": 13757
     },
     {
       "ID": "Discover_Blood_Moon_Room",
@@ -13667,7 +13672,7 @@
       "Name": "Red Room",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3930
+      "UsersEstimate": 3931
     },
     {
       "ID": "Discover_Letos_Lab",
@@ -13691,7 +13696,7 @@
       "Name": "Familiar Face",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 11791
+      "UsersEstimate": 11792
     },
     {
       "ID": "Meet_Meidra",
@@ -13723,7 +13728,7 @@
       "Name": "First of Many",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 17687
+      "UsersEstimate": 17688
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -13731,7 +13736,7 @@
       "Name": "Duality",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 11791
+      "UsersEstimate": 11792
     },
     {
       "ID": "Obtain_Archetype_Level",
@@ -13771,7 +13776,7 @@
       "Name": "Boss\u0027n Up",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 11791
+      "UsersEstimate": 11792
     },
     {
       "ID": "Obtain_Guns_A",
@@ -13819,7 +13824,7 @@
       "Name": "The Collector",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 3930
+      "UsersEstimate": 3931
     },
     {
       "ID": "Obtain_Scrap_A",
@@ -13835,7 +13840,7 @@
       "Name": "Scrap Hoarder",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 3930
+      "UsersEstimate": 3931
     },
     {
       "ID": "Obtain_Traits_A",
@@ -13843,7 +13848,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 13756
+      "UsersEstimate": 13757
     },
     {
       "ID": "Obtain_Traits_B",
@@ -13867,7 +13872,7 @@
       "Name": "Carnage in C-Minor",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3930
+      "UsersEstimate": 3931
     },
     {
       "ID": "Upgrade_Boss_Weapon_A",
@@ -13915,7 +13920,7 @@
       "Name": "Trait Chaser",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 11791
+      "UsersEstimate": 11792
     },
     {
       "ID": "Upgrade_Traits_B",
@@ -13923,7 +13928,7 @@
       "Name": "Maxed Out!",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 3930
+      "UsersEstimate": 3931
     },
     {
       "ID": "Upgrade_Weapon_Mutator",
@@ -13931,14 +13936,14 @@
       "Name": "Transmutate",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3930
+      "UsersEstimate": 3931
     }
   ],
   "AchievementSets": [
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 196519,
+      "Progressed": 196529,
       "Completed": 393
     }
   ],
@@ -13946,8 +13951,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-10-16T23:01:26.3076149+00:00",
-  "LastChanged_Achievements": "2023-10-16T23:07:15.7975841+00:00",
+  "LastChanged_Achievements": "2023-10-17T00:08:55.5978018+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:26.6923427+00:00",
-  "LastUpdate_Ratings": "2023-10-16T23:01:26.3076154+00:00",
-  "LastUpdate_Achievements": "2023-10-16T23:07:15.7976895+00:00"
+  "LastUpdate_Ratings": "2023-10-17T00:02:49.1481331+00:00",
+  "LastUpdate_Achievements": "2023-10-17T00:08:55.5979158+00:00"
 }

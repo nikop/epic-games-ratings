@@ -156,6 +156,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Eternal Treaty | 0.20% | ~29 |
 | Assyria | 0.20% | ~29 |
 | Hatti | 0.20% | ~29 |
+| Persia | 0.20% | ~29 |
 | Pantheon of Gods | 0.20% | ~29 |
 | Play a Network Game | 0.20% | ~29 |
 | Capturing Cities | 0.20% | ~29 |
@@ -255,7 +256,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Medo-Babylonian Conquest | 0.10% | ~15 |
 | Pyramids in Menefer | 0.10% | ~15 |
 | Realistic Mortality | 0.10% | ~15 |
-| Persia | 0.10% | ~15 |
 | Apadana in Parsa | 0.10% | ~15 |
 | Play a 1-v-1 Game | 0.10% | ~15 |
 | Play a Free-For-All Game (>2 Players) | 0.10% | ~15 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,747 (Ranked 135)  
+Progressed: 14,748 (Ranked 135)  
 Completed: 5 (0.03%) (Ranked 284)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -529,6 +529,7 @@ Completed: 5 (0.03%) (Ranked 284)
 | 2023-10-14 | 14,699 | 5 |
 | 2023-10-15 | 14,732 | 5 |
 | 2023-10-16 | 14,747 | 5 |
+| 2023-10-17 | 14,748 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,842 (Ranked 210)  

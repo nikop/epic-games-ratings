@@ -1018,9 +1018,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 8345,
+  "EOS_Progressed": 8350,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1019,
+  "EOS_NewPlayers": 1021,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6643,6 +6643,11 @@
       "Time": "2023-10-16T23:07:07.8512204+00:00",
       "NumProgressed": 8345,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-17T00:08:44.3599073+00:00",
+      "NumProgressed": 8350,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -6655,7 +6660,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "a_10",
@@ -6703,7 +6708,7 @@
       "Name": "Bye Bye",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 3255
+      "UsersEstimate": 3256
     },
     {
       "ID": "a_19",
@@ -6719,7 +6724,7 @@
       "Name": "Ostinata",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "a_20",
@@ -6759,7 +6764,7 @@
       "Name": "Better than nothing?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "a_26",
@@ -6783,7 +6788,7 @@
       "Name": "Pastry Chef",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "a_3",
@@ -6855,7 +6860,7 @@
       "Name": "King of Langhe",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "a_5",
@@ -6871,7 +6876,7 @@
       "Name": "Gem of Monferrato",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "a_7",
@@ -6902,7 +6907,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 8345,
+      "Progressed": 8350,
       "Completed": 8
     }
   ],
@@ -6910,8 +6915,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-10-10T16:59:22.7446864+00:00",
-  "LastChanged_Achievements": "2023-10-16T23:07:07.8512198+00:00",
+  "LastChanged_Achievements": "2023-10-17T00:08:44.3599067+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:27.1391374+00:00",
-  "LastUpdate_Ratings": "2023-10-16T23:02:36.2794169+00:00",
-  "LastUpdate_Achievements": "2023-10-16T23:07:07.8512774+00:00"
+  "LastUpdate_Ratings": "2023-10-17T00:04:07.3960579+00:00",
+  "LastUpdate_Achievements": "2023-10-17T00:08:44.3600126+00:00"
 }

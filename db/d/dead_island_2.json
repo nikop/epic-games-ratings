@@ -5436,9 +5436,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 696890,
+  "EOS_Progressed": 696901,
   "EOS_Completed": 2235,
-  "EOS_NewPlayers": 3420,
+  "EOS_NewPlayers": 3415,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -25786,6 +25786,11 @@
       "Time": "2023-10-16T23:05:53.7422721+00:00",
       "NumProgressed": 696890,
       "NumCompleted": 2235
+    },
+    {
+      "Time": "2023-10-17T00:07:42.5068148+00:00",
+      "NumProgressed": 696901,
+      "NumCompleted": 2235
     }
   ],
   "TotalAchievements": 45,
@@ -25837,7 +25842,7 @@
       "Name": "LA Influential",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 3484
+      "UsersEstimate": 3485
     },
     {
       "ID": "ach_blueprinted",
@@ -26021,7 +26026,7 @@
       "Name": "Gore Horse",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3484
+      "UsersEstimate": 3485
     },
     {
       "ID": "ach_metropolitan",
@@ -26061,7 +26066,7 @@
       "Name": "Sharpest Tool in the Box",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3484
+      "UsersEstimate": 3485
     },
     {
       "ID": "ach_skilled_up",
@@ -26156,22 +26161,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 696890,
+      "Progressed": 696901,
       "Completed": 2235
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 22432,
-      "Completed": 22432
+      "Progressed": 22443,
+      "Completed": 22443
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-10-16T19:04:54.6609838+00:00",
-  "LastChanged_Achievements": "2023-10-16T23:05:53.7422717+00:00",
+  "LastChanged_Achievements": "2023-10-17T00:07:42.5068141+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:12.5060368+00:00",
-  "LastUpdate_Ratings": "2023-10-16T23:03:24.0866286+00:00",
-  "LastUpdate_Achievements": "2023-10-16T23:05:53.7424327+00:00"
+  "LastUpdate_Ratings": "2023-10-17T00:04:51.6806838+00:00",
+  "LastUpdate_Achievements": "2023-10-17T00:07:42.5071128+00:00"
 }

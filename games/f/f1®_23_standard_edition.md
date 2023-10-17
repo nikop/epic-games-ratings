@@ -5,15 +5,15 @@ Rating: 4.67 (Ranked 262)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 95.00% | ~3,131 |
-| On the Top Step | 90.00% | ~2,966 |
-| Setting up for Success | 79.00% | ~2,604 |
-| Team Orders | 76.00% | ~2,505 |
+| Getting on the Step | 95.00% | ~3,132 |
+| On the Top Step | 90.00% | ~2,967 |
+| Setting up for Success | 79.00% | ~2,605 |
+| Team Orders | 76.00% | ~2,506 |
 | Engineer | 57.00% | ~1,879 |
 | Familiar Faces | 51.00% | ~1,681 |
-| Going the Extra Mile | 45.00% | ~1,483 |
-| Sharing the Love | 43.00% | ~1,417 |
-| Hitting a Season | 41.00% | ~1,351 |
+| Going the Extra Mile | 45.00% | ~1,484 |
+| Sharing the Love | 43.00% | ~1,418 |
+| Hitting a Season | 41.00% | ~1,352 |
 | Challenge Yourself | 36.00% | ~1,187 |
 | A Dozen Pieces | 34.00% | ~1,121 |
 | Making History | 33.00% | ~1,088 |
@@ -26,14 +26,14 @@ Rating: 4.67 (Ranked 262)
 | Reuse | 18.00% | ~593 |
 | One for the Book | 18.00% | ~593 |
 | Proving Them Wrong | 17.00% | ~560 |
-| Gathering Dust | 16.00% | ~527 |
-| Oil and Water | 16.00% | ~527 |
-| Hitting a Bullseye | 15.00% | ~494 |
-| Lightning Round the World | 14.00% | ~461 |
-| Eagle Eye | 13.00% | ~428 |
-| All in a Weekend's Work | 13.00% | ~428 |
-| Spinning Around | 13.00% | ~428 |
-| Recycle | 13.00% | ~428 |
+| Gathering Dust | 16.00% | ~528 |
+| Oil and Water | 16.00% | ~528 |
+| Hitting a Bullseye | 15.00% | ~495 |
+| Lightning Round the World | 14.00% | ~462 |
+| Eagle Eye | 13.00% | ~429 |
+| All in a Weekend's Work | 13.00% | ~429 |
+| Spinning Around | 13.00% | ~429 |
+| Recycle | 13.00% | ~429 |
 | Switcheroo | 11.00% | ~363 |
 | Tinkerer | 11.00% | ~363 |
 | Friendly Competition | 10.00% | ~330 |
@@ -55,7 +55,7 @@ Rating: 4.67 (Ranked 262)
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,296 (Ranked 188)  
+Progressed: 3,297 (Ranked 188)  
 Completed: 0 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,6 +89,7 @@ Completed: 0 (0.00%) (Ranked 315)
 | 2023-10-14 | 3,247 | 0 |
 | 2023-10-15 | 3,279 | 0 |
 | 2023-10-16 | 3,296 | 0 |
+| 2023-10-17 | 3,297 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

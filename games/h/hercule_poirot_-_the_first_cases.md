@@ -7,41 +7,41 @@ Rating: 4.35 (Ranked 775)
 | ---- | ---------- | ----- |
 | It Wasn’t a Burglary | 90.00% | ~392 |
 | Luc Piette | 76.00% | ~331 |
-| Angeline Van den Bosch | 74.00% | ~322 |
-| Elizabeth Padget | 71.00% | ~309 |
-| Little Grey Cells | 69.00% | ~300 |
-| The Bracelet | 66.00% | ~287 |
-| The Blackmail | 55.00% | ~239 |
-| Florette Duval | 55.00% | ~239 |
-| Major Felix Hagen | 55.00% | ~239 |
+| Angeline Van den Bosch | 74.00% | ~323 |
+| Elizabeth Padget | 71.00% | ~310 |
+| Little Grey Cells | 69.00% | ~301 |
+| The Bracelet | 66.00% | ~288 |
+| The Blackmail | 55.00% | ~240 |
+| Florette Duval | 55.00% | ~240 |
+| Major Felix Hagen | 55.00% | ~240 |
 | Fine-toothed Comb | 54.00% | ~235 |
-| Order and Method | 52.00% | ~226 |
+| Order and Method | 52.00% | ~227 |
 | The Altercation | 50.00% | ~218 |
-| Truth from Within | 49.00% | ~213 |
-| The Major | 47.00% | ~204 |
+| Truth from Within | 48.00% | ~209 |
+| The Major | 47.00% | ~205 |
 | Comtesse Margaux de Vos | 45.00% | ~196 |
-| Curious and Beautiful | 44.00% | ~191 |
-| Jacqueline “Jackie” Conrad | 44.00% | ~191 |
-| The Interrogations | 44.00% | ~191 |
-| Well-acquainted | 41.00% | ~178 |
-| Zakariya Demir | 41.00% | ~178 |
+| Curious and Beautiful | 44.00% | ~192 |
+| Jacqueline “Jackie” Conrad | 44.00% | ~192 |
+| The Interrogations | 44.00% | ~192 |
+| Well-acquainted | 41.00% | ~179 |
+| Zakariya Demir | 41.00% | ~179 |
 | Well-read | 39.00% | ~170 |
 | Cassandra Van den Bosch | 37.00% | ~161 |
 | The Secret | 37.00% | ~161 |
-| Gedeon Demir | 35.00% | ~152 |
+| Gedeon Demir | 35.00% | ~153 |
 | Rehana Piette | 34.00% | ~148 |
 | Instinct is Marvellous | 33.00% | ~144 |
-| Ernesto da Silva | 32.00% | ~139 |
+| Ernesto da Silva | 32.00% | ~140 |
 | Inge Frank | 31.00% | ~135 |
-| The Search | 30.00% | ~130 |
+| The Search | 30.00% | ~131 |
 | Hugo Beckers | 29.00% | ~126 |
 | The Family | 28.00% | ~122 |
 | Well-travelled | 26.00% | ~113 |
 | Thinking of Everything | 26.00% | ~113 |
-| Exquisite Artwork | 26.00% | ~113 |
-| Viscount Edwin Van den Bosch | 26.00% | ~113 |
+| Exquisite Artwork | 25.00% | ~109 |
 | Archibald Sterling | 25.00% | ~109 |
-| Well-prepared | 21.00% | ~91 |
+| Viscount Edwin Van den Bosch | 25.00% | ~109 |
+| Well-prepared | 21.00% | ~92 |
 | The Truth | 20.00% | ~87 |
 | Sunken Secrets | 18.00% | ~78 |
 | What Else Did I Miss? | 18.00% | ~78 |
@@ -49,10 +49,10 @@ Rating: 4.35 (Ranked 775)
 | The Denouement | 17.00% | ~74 |
 | Probably the Greatest Detective in the World | 12.00% | ~52 |
 | Take a Break | 11.00% | ~48 |
-| Room with a View | 7.00% | ~30 |
+| Room with a View | 7.00% | ~31 |
 | Work-life Balance | 2.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 435 (Ranked 282)  
+Progressed: 436 (Ranked 282)  
 Completed: 6 (1.38%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,6 +124,7 @@ Completed: 6 (1.38%) (Ranked 126)
 | 2023-09-27 | 431 | 6 |
 | 2023-09-28 | 433 | 6 |
 | 2023-10-09 | 435 | 6 |
+| 2023-10-17 | 436 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

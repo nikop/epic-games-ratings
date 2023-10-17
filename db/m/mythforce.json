@@ -755,9 +755,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4179,
+  "EOS_Progressed": 4181,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 206,
+  "EOS_NewPlayers": 207,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -7525,6 +7525,11 @@
       "Time": "2023-10-16T22:11:44.4288027+00:00",
       "NumProgressed": 4179,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-17T00:10:43.3238575+00:00",
+      "NumProgressed": 4181,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -7569,7 +7574,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -7593,7 +7598,7 @@
       "Name": "First Strike",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -7625,7 +7630,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 961
+      "UsersEstimate": 962
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -7633,7 +7638,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -7657,7 +7662,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -7673,7 +7678,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -7687,9 +7692,9 @@
       "ID": "MF_Ach_SpendingSpree",
       "SetID": "9b9n573",
       "Name": "Spending Spree",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 710
+      "UsersEstimate": 753
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -7703,9 +7708,9 @@
       "ID": "MF_Ach_ThatllLeaveAMark",
       "SetID": "9b9n573",
       "Name": "That\u0027ll Leave a Mark",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 919
+      "UsersEstimate": 962
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -7720,15 +7725,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4179,
+      "Progressed": 4181,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-14T13:04:06.5278861+00:00",
-  "LastChanged_Achievements": "2023-10-16T23:08:50.8829061+00:00",
+  "LastChanged_Achievements": "2023-10-17T00:10:43.3238566+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:04.1779972+00:00",
-  "LastUpdate_Ratings": "2023-10-16T22:58:03.7230626+00:00",
-  "LastUpdate_Achievements": "2023-10-16T23:08:50.883031+00:00"
+  "LastUpdate_Ratings": "2023-10-16T23:58:25.6523126+00:00",
+  "LastUpdate_Achievements": "2023-10-17T00:10:43.323959+00:00"
 }

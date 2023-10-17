@@ -43,15 +43,15 @@ Rating: 4.54 (Ranked 512)
 | On Safari | 0.70% | ~4,878 |
 | Variety is the Spice of Death | 0.70% | ~4,878 |
 | Make it So | 0.60% | ~4,181 |
-| LA Influential | 0.50% | ~3,484 |
-| Gore Horse | 0.50% | ~3,484 |
-| Sharpest Tool in the Box | 0.50% | ~3,484 |
+| LA Influential | 0.50% | ~3,485 |
+| Gore Horse | 0.50% | ~3,485 |
+| Sharpest Tool in the Box | 0.50% | ~3,485 |
 | Sole Survivor | 0.40% | ~2,788 |
 | Survival Skills | 0.40% | ~2,788 |
 | Donk! | 0.20% | ~1,394 |
 | Bucket List | 0.10% | ~697 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 696,890 (Ranked 22)  
+Progressed: 696,901 (Ranked 22)  
 Completed: 2,235 (0.32%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,6 +231,7 @@ Completed: 2,235 (0.32%) (Ranked 200)
 | 2023-10-14 | 695,832 | 2,225 |
 | 2023-10-15 | 696,452 | 2,227 |
 | 2023-10-16 | 696,890 | 2,235 |
+| 2023-10-17 | 696,901 | 2,235 |
 ## Awards
 Max (Great Boss Battles): 6,462  (Ranked 56)  
 Sum: 9,671 (Ranked 91)  

@@ -4,8 +4,8 @@
   "ProductSlug": "the-fabulous-fear-machine-8e7c6b",
   "Ranking_EOS_Progress": 470,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 254,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-10-04T16:00:00+00:00",
     "PcReleaseDate": "2023-10-04T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 29,
+  "EOS_Progressed": 30,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -161,6 +161,11 @@
       "Time": "2023-10-15T05:07:28.1553659+00:00",
       "NumProgressed": 29,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-17T00:09:04.6253147+00:00",
+      "NumProgressed": 30,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-15T20:07:40.8374596+00:00",
@@ -171,7 +176,7 @@
       "ID": "1",
       "SetID": "d37idgg",
       "Name": "Master trainee",
-      "Percentage": 79,
+      "Percentage": 77,
       "XP": 5,
       "UsersEstimate": 23
     },
@@ -179,7 +184,7 @@
       "ID": "10",
       "SetID": "d37idgg",
       "Name": "You\u0027ve awakened the beast",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -187,7 +192,7 @@
       "ID": "11",
       "SetID": "d37idgg",
       "Name": "Hate is... addictive",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -195,7 +200,7 @@
       "ID": "12",
       "SetID": "d37idgg",
       "Name": "You had one wish left",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
       "UsersEstimate": 7
     },
@@ -243,7 +248,7 @@
       "ID": "18",
       "SetID": "d37idgg",
       "Name": "Jung\u0027s dream",
-      "Percentage": 69,
+      "Percentage": 67,
       "XP": 10,
       "UsersEstimate": 20
     },
@@ -251,7 +256,7 @@
       "ID": "19",
       "SetID": "d37idgg",
       "Name": "Giant",
-      "Percentage": 55,
+      "Percentage": 53,
       "XP": 10,
       "UsersEstimate": 16
     },
@@ -259,7 +264,7 @@
       "ID": "2",
       "SetID": "d37idgg",
       "Name": "You have three wishes left",
-      "Percentage": 83,
+      "Percentage": 80,
       "XP": 5,
       "UsersEstimate": 24
     },
@@ -267,7 +272,7 @@
       "ID": "20",
       "SetID": "d37idgg",
       "Name": "A rival with no options",
-      "Percentage": 45,
+      "Percentage": 43,
       "XP": 10,
       "UsersEstimate": 13
     },
@@ -275,7 +280,7 @@
       "ID": "21",
       "SetID": "d37idgg",
       "Name": "Et in arcadia ego",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -283,7 +288,7 @@
       "ID": "22",
       "SetID": "d37idgg",
       "Name": "The artist",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
       "UsersEstimate": 10
     },
@@ -291,7 +296,7 @@
       "ID": "23",
       "SetID": "d37idgg",
       "Name": "The seer",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
       "UsersEstimate": 10
     },
@@ -307,7 +312,7 @@
       "ID": "25",
       "SetID": "d37idgg",
       "Name": "The scholar",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -347,7 +352,7 @@
       "ID": "3",
       "SetID": "d37idgg",
       "Name": "The battle of Great Britain",
-      "Percentage": 62,
+      "Percentage": 60,
       "XP": 5,
       "UsersEstimate": 18
     },
@@ -387,7 +392,7 @@
       "ID": "34",
       "SetID": "d37idgg",
       "Name": "Pulp! Terror Tales in the Night",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 15,
       "UsersEstimate": 12
     },
@@ -395,7 +400,7 @@
       "ID": "35",
       "SetID": "d37idgg",
       "Name": "Pulp! Where Monsters Dwell",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 15,
       "UsersEstimate": 14
     },
@@ -403,7 +408,7 @@
       "ID": "36",
       "SetID": "d37idgg",
       "Name": "Pulp! Out of this World",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 15,
       "UsersEstimate": 12
     },
@@ -411,7 +416,7 @@
       "ID": "37",
       "SetID": "d37idgg",
       "Name": "Pulp! Adventures into the Unknown",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 15,
       "UsersEstimate": 12
     },
@@ -435,7 +440,7 @@
       "ID": "4",
       "SetID": "d37idgg",
       "Name": "A continent with chemistry",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 5,
       "UsersEstimate": 14
     },
@@ -443,7 +448,7 @@
       "ID": "40",
       "SetID": "d37idgg",
       "Name": "Kirlian\u0027s best disciple",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 20,
       "UsersEstimate": 12
     },
@@ -507,7 +512,7 @@
       "ID": "5",
       "SetID": "d37idgg",
       "Name": "The happy farmer girl",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 5,
       "UsersEstimate": 14
     },
@@ -515,7 +520,7 @@
       "ID": "6",
       "SetID": "d37idgg",
       "Name": "Diagnosis: fear",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 10
     },
@@ -523,7 +528,7 @@
       "ID": "7",
       "SetID": "d37idgg",
       "Name": "Ambition is... blind",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 10
     },
@@ -531,7 +536,7 @@
       "ID": "8",
       "SetID": "d37idgg",
       "Name": "You have two wishes left",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 10
     },
@@ -539,7 +544,7 @@
       "ID": "9",
       "SetID": "d37idgg",
       "Name": "Welcome to Hellville",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
       "UsersEstimate": 8
     }
@@ -548,14 +553,14 @@
     {
       "ID": "d37idgg",
       "IsBase": true,
-      "Progressed": 29,
+      "Progressed": 30,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-04T21:00:27.0019409+00:00",
   "FirstSeenAchievements": "2023-09-01T11:02:14.7440084+00:00",
-  "LastChanged_Achievements": "2023-10-16T23:07:21.9908834+00:00",
+  "LastChanged_Achievements": "2023-10-17T00:09:04.625314+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:37.1787046+00:00",
-  "LastUpdate_Ratings": "2023-10-16T23:02:16.5941616+00:00",
-  "LastUpdate_Achievements": "2023-10-16T23:07:21.990926+00:00"
+  "LastUpdate_Ratings": "2023-10-17T00:03:46.9364965+00:00",
+  "LastUpdate_Achievements": "2023-10-17T00:09:04.6253875+00:00"
 }

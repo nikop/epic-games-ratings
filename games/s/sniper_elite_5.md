@@ -6,13 +6,13 @@ Rating: 4.45 (Ranked 644)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 46.00% | ~1,725 |
-| Confirming Suspicions | 41.00% | ~1,537 |
-| The Kraken Wakes | 37.00% | ~1,387 |
+| Confirming Suspicions | 41.00% | ~1,538 |
+| The Kraken Wakes | 37.00% | ~1,388 |
 | It's Starting to Crack | 34.00% | ~1,275 |
 | Change the Channel | 31.00% | ~1,162 |
 | Lord of War | 30.00% | ~1,125 |
 | Taking it back | 28.00% | ~1,050 |
-| Resourceful | 27.00% | ~1,012 |
+| Resourceful | 27.00% | ~1,013 |
 | Target America | 26.00% | ~975 |
 | The Kraken Sleeps | 24.00% | ~900 |
 | Organ Grinder | 23.00% | ~862 |
@@ -21,7 +21,7 @@ Rating: 4.45 (Ranked 644)
 | Sharpshooter | 22.00% | ~825 |
 | Explosive Efficiency | 19.00% | ~712 |
 | Gunslinger | 18.00% | ~675 |
-| Just a Flesh Wound | 17.00% | ~637 |
+| Just a Flesh Wound | 17.00% | ~638 |
 | Climbing the Ladder | 16.00% | ~600 |
 | Der Geist | 16.00% | ~600 |
 | Close Quarters | 16.00% | ~600 |
@@ -32,16 +32,16 @@ Rating: 4.45 (Ranked 644)
 | Fields of Glory | 14.00% | ~525 |
 | Skirmisher | 14.00% | ~525 |
 | Die Nussknacker Sweet! | 14.00% | ~525 |
-| Enemy at the Gates | 13.00% | ~487 |
-| Set Europe Ablaze | 13.00% | ~487 |
+| Enemy at the Gates | 13.00% | ~488 |
+| Set Europe Ablaze | 13.00% | ~488 |
 | Precision Is Key | 10.00% | ~375 |
 | My Little Friend | 10.00% | ~375 |
-| Rigged to Blow | 9.00% | ~337 |
+| Rigged to Blow | 9.00% | ~338 |
 | Herr Today, Gone Tomorrow | 7.00% | ~259 |
 | Operation Foxley | 6.00% | ~222 |
-| The Long Game | 5.00% | ~187 |
-| It'll Buff Right Out | 5.00% | ~187 |
-| Don't hold your breath | 5.00% | ~187 |
+| The Long Game | 5.00% | ~188 |
+| It'll Buff Right Out | 5.00% | ~188 |
+| Don't hold your breath | 5.00% | ~188 |
 | Strategist | 4.00% | ~150 |
 | Tinkerer | 4.00% | ~150 |
 | Locomotion Commotion | 4.00% | ~150 |
@@ -64,8 +64,8 @@ Rating: 4.45 (Ranked 644)
 | Covert Elimination | 2.00% | ~74 |
 | Shipbreaker | 2.00% | ~74 |
 | Sink or Swim | 2.00% | ~74 |
-| Best of the Best | 1.00% | ~37 |
-| Sight Beyond Sights | 1.00% | ~37 |
+| Best of the Best | 1.00% | ~38 |
+| Sight Beyond Sights | 1.00% | ~38 |
 | From Führer Away | 1.00% | ~37 |
 | Alpha | 1.00% | ~37 |
 | Das Familienjuwel | 1.00% | ~37 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 644)
 | Stroll in the Woods | 0.60% | ~22 |
 | Going Overboard | 0.60% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,749 (Ranked 179)  
+Progressed: 3,750 (Ranked 179)  
 Completed: 11 (0.29%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,6 +255,7 @@ Completed: 11 (0.29%) (Ranked 208)
 | 2023-10-14 | 3,741 | 11 |
 | 2023-10-15 | 3,747 | 11 |
 | 2023-10-16 | 3,749 | 11 |
+| 2023-10-17 | 3,750 | 11 |
 ## Awards
 Max (Great for Beginners): 21  (Ranked 526)  
 Sum: 21 (Ranked 527)  

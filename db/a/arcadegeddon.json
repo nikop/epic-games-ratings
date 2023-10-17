@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 297,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-07-05T16:00:00+00:00",
     "PcReleaseDate": "2021-07-08T21:30:00+00:00",
@@ -817,7 +817,7 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 9325,
+  "EOS_Progressed": 9326,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
@@ -10407,6 +10407,11 @@
       "Time": "2023-10-16T20:05:34.6318583+00:00",
       "NumProgressed": 9325,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-17T00:05:56.9742042+00:00",
+      "NumProgressed": 9326,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -10450,7 +10455,7 @@
       "Name": "Coup d\u0027Etat",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 5408
+      "UsersEstimate": 5409
     },
     {
       "ID": "ACH_EVENT_HORIZON",
@@ -10474,7 +10479,7 @@
       "Name": "Field Medic",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 3450
+      "UsersEstimate": 3451
     },
     {
       "ID": "ACH_GET_FURIOUS",
@@ -10538,7 +10543,7 @@
       "Name": "Here Comes a New Challenger",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 3450
+      "UsersEstimate": 3451
     },
     {
       "ID": "ACH_IM_THE_PLUGGERNAUT",
@@ -10562,7 +10567,7 @@
       "Name": "Let\u0027s Get This Party Started",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 8299
+      "UsersEstimate": 8300
     },
     {
       "ID": "ACH_LIGHT_MY_FIRE",
@@ -10602,7 +10607,7 @@
       "Name": "Nexuwizard",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "ACH_NO_CHILL",
@@ -10634,7 +10639,7 @@
       "Name": "Plug It In",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 7646
+      "UsersEstimate": 7647
     },
     {
       "ID": "ACH_POPPIN_NOGGINS",
@@ -10658,7 +10663,7 @@
       "Name": "Rapid Response",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 3077
+      "UsersEstimate": 3078
     },
     {
       "ID": "ACH_RESCUE_RANGER",
@@ -10690,7 +10695,7 @@
       "Name": "1.21 Gigawatts",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "ACH_START_YOUR_COLLECTION",
@@ -10722,7 +10727,7 @@
       "Name": "Surge Gauntlet Jockey",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 7740
+      "UsersEstimate": 7741
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_SCHOLAR",
@@ -10810,22 +10815,22 @@
       "Name": "You\u0027re Fired",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 5222
+      "UsersEstimate": 5223
     }
   ],
   "AchievementSets": [
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 9325,
+      "Progressed": 9326,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-10-11T06:59:53.9186259+00:00",
-  "LastChanged_Achievements": "2023-10-16T23:04:19.8972686+00:00",
+  "LastChanged_Achievements": "2023-10-17T00:05:56.9742037+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:12.7858251+00:00",
-  "LastUpdate_Ratings": "2023-10-16T22:58:02.6669394+00:00",
-  "LastUpdate_Achievements": "2023-10-16T23:04:19.8973715+00:00"
+  "LastUpdate_Ratings": "2023-10-16T23:58:24.5083829+00:00",
+  "LastUpdate_Achievements": "2023-10-17T00:05:56.9743115+00:00"
 }

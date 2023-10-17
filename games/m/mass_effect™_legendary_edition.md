@@ -13,9 +13,9 @@
 | Medal of Heroism | 65.00% | ~468 |
 | Honorarium of Corporate Service | 65.00% | ~468 |
 | Council Legion of Merit | 60.00% | ~432 |
+| Meritorious Service Medal | 58.00% | ~418 |
 | Medal of Exploration II | 58.00% | ~418 |
 | Medal of Honor | 57.00% | ~410 |
-| Meritorious Service Medal | 57.00% | ~410 |
 | Charismatic | 57.00% | ~410 |
 | Turian Ally | 56.00% | ~403 |
 | Soldier | 55.00% | ~396 |
@@ -45,9 +45,9 @@
 | Galactic Explorer | 35.00% | ~252 |
 | Broke, Blind, and Bedlam | 35.00% | ~252 |
 | Archivist | 34.00% | ~245 |
+| A Personal Touch | 33.00% | ~238 |
 | Ghost Ship | 33.00% | ~238 |
 | The Quarian | 33.00% | ~238 |
-| A Personal Touch | 32.00% | ~230 |
 | The Assassin | 32.00% | ~230 |
 | The Justicar | 32.00% | ~230 |
 | Battlemaster | 32.00% | ~230 |
@@ -83,10 +83,10 @@
 | Liberator | 25.00% | ~180 |
 | Pathfinder | 23.00% | ~166 |
 | Tunnel Rat | 23.00% | ~166 |
+| Arbiter | 23.00% | ~166 |
 | Savior | 22.00% | ~158 |
-| Arbiter | 22.00% | ~158 |
+| Paramour II | 22.00% | ~158 |
 | Lost and Found | 22.00% | ~158 |
-| Paramour II | 21.00% | ~151 |
 | Party Crasher | 21.00% | ~151 |
 | Pyromaniac | 20.00% | ~144 |
 | No One Left Behind | 20.00% | ~144 |

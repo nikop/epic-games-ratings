@@ -5,10 +5,10 @@ Rating: 4.06 (Ranked 953)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,900 |
-| World Map | 79.00% | ~1,614 |
+| Victor | 93.00% | ~1,901 |
+| World Map | 79.00% | ~1,615 |
 | Temple of Eternals | 57.00% | ~1,165 |
-| Prestigious | 54.00% | ~1,103 |
+| Prestigious | 54.00% | ~1,104 |
 | Fellowship Power | 42.00% | ~858 |
 | Guild Power | 26.00% | ~531 |
 | Prestigious x10 | 23.00% | ~470 |
@@ -20,21 +20,21 @@ Rating: 4.06 (Ranked 953)
 | Miner Clicker | 17.00% | ~347 |
 | Dragon Master | 16.00% | ~327 |
 | Enlightenment | 16.00% | ~327 |
-| Hero inspection | 15.00% | ~306 |
-| Lieutenant | 15.00% | ~306 |
+| Hero inspection | 15.00% | ~307 |
+| Lieutenant | 15.00% | ~307 |
 | Milestone collector | 14.00% | ~286 |
 | Mysterious Rock | 14.00% | ~286 |
 | Natural Talent | 14.00% | ~286 |
 | Superior | 14.00% | ~286 |
 | The Unstoppable | 14.00% | ~286 |
 | Scientist | 13.00% | ~266 |
-| Hunter | 12.00% | ~245 |
 | The power of Awakening | 12.00% | ~245 |
 | Challenger | 11.00% | ~225 |
 | Daily Quest Completionist | 11.00% | ~225 |
 | Doing My Part | 11.00% | ~225 |
 | Four Leaf Clover | 11.00% | ~225 |
 | Frostfire Liberator | 11.00% | ~225 |
+| Hunter | 11.00% | ~225 |
 | Mastery | 11.00% | ~225 |
 | Moving Up The Ladder | 11.00% | ~225 |
 | Relic Of The Past | 11.00% | ~225 |
@@ -43,13 +43,13 @@ Rating: 4.06 (Ranked 953)
 | The father of Dragons | 10.00% | ~204 |
 | Here We Go Again | 9.00% | ~184 |
 | Trader | 9.00% | ~184 |
-| Blueprint Upgrades | 8.00% | ~163 |
-| Crystal Mining | 8.00% | ~163 |
-| Dragon Slayer | 8.00% | ~163 |
-| Enchanting skill | 8.00% | ~163 |
-| Engineer Mastery | 8.00% | ~163 |
-| The Expeditioner | 8.00% | ~163 |
-| Weekly Quest Completionist | 8.00% | ~163 |
+| Blueprint Upgrades | 8.00% | ~164 |
+| Crystal Mining | 8.00% | ~164 |
+| Dragon Slayer | 8.00% | ~164 |
+| Enchanting skill | 8.00% | ~164 |
+| Engineer Mastery | 8.00% | ~164 |
+| The Expeditioner | 8.00% | ~164 |
+| Weekly Quest Completionist | 8.00% | ~164 |
 | How Do You Turn This On? | 7.00% | ~143 |
 | Lock And Load | 7.00% | ~143 |
 | Missions Dedication | 7.00% | ~143 |
@@ -81,7 +81,7 @@ Rating: 4.06 (Ranked 953)
 | War Machines Army | 0.20% | ~4 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,043 (Ranked 204)  
+Progressed: 2,044 (Ranked 204)  
 Completed: 2 (0.10%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,6 +257,7 @@ Completed: 2 (0.10%) (Ranked 247)
 | 2023-10-14 | 2,035 | 2 |
 | 2023-10-15 | 2,040 | 2 |
 | 2023-10-16 | 2,043 | 2 |
+| 2023-10-17 | 2,044 | 2 |
 ## Awards
 Max (Great for Beginners): 27  (Ranked 493)  
 Sum: 72 (Ranked 452)  

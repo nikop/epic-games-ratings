@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 315,
   "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-09-12T08:00:00+00:00",
     "PcReleaseDate": "2023-07-11T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3054,
+  "EOS_Progressed": 3058,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1522,
+  "EOS_NewPlayers": 1517,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1916,6 +1916,11 @@
       "Time": "2023-10-16T23:04:27.2564591+00:00",
       "NumProgressed": 3054,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-17T00:06:06.9049687+00:00",
+      "NumProgressed": 3058,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -1966,9 +1971,9 @@
       "ID": "ACH_MEGLAB",
       "SetID": "1lo1k0a",
       "Name": "MEG",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_RUNFORYOURLIFE",
@@ -2006,9 +2011,9 @@
       "ID": "ACH_THEEND",
       "SetID": "1lo1k0a",
       "Name": "End?",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_WINELECTRICALSTATION",
@@ -2024,7 +2029,7 @@
       "Name": "Level 0",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -2119,14 +2124,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 3054,
+      "Progressed": 3058,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-10-16T23:04:27.2564587+00:00",
+  "LastChanged_Achievements": "2023-10-17T00:06:06.904968+00:00",
   "LastUpdate_AppInfo": "2023-10-16T13:57:00.6358262+00:00",
-  "LastUpdate_Ratings": "2023-10-16T23:00:33.0166174+00:00",
-  "LastUpdate_Achievements": "2023-10-16T23:04:27.2564908+00:00"
+  "LastUpdate_Ratings": "2023-10-17T00:01:49.1629892+00:00",
+  "LastUpdate_Achievements": "2023-10-17T00:06:06.9050189+00:00"
 }

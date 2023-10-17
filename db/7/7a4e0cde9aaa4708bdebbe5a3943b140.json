@@ -2,10 +2,10 @@
   "ID": "7a4e0cde9aaa4708bdebbe5a3943b140",
   "Name": "RedRaptor",
   "ProductSlug": "redraptor-71deb7",
-  "Ranking_EOS_Progress": 589,
-  "Ranking_EOS_Completed": 1,
-  "Ranking_EOS_NewPlayers": 392,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_Progress": 577,
+  "Ranking_EOS_Completed": 2,
+  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-10-11T12:00:00+00:00",
     "PcReleaseDate": "2023-10-11T13:00:00+00:00",
@@ -19,11 +19,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2,
+  "EOS_Progressed": 3,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 100,
+  "EOS_Completed_Percentage": 66.67,
   "EosHistory": [
     {
       "Time": "2023-10-11T15:07:27.5875608+00:00",
@@ -39,6 +39,11 @@
       "Time": "2023-10-14T15:04:48.6497558+00:00",
       "NumProgressed": 2,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-17T00:07:08.6059483+00:00",
+      "NumProgressed": 3,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-18T15:02:16.3526143+00:00",
@@ -49,7 +54,7 @@
       "ID": "Stage1",
       "SetID": "ag762md",
       "Name": "Stage 1",
-      "Percentage": 200,
+      "Percentage": 133,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -57,7 +62,7 @@
       "ID": "Stage2",
       "SetID": "ag762md",
       "Name": "Stage 2",
-      "Percentage": 100,
+      "Percentage": 67,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -65,7 +70,7 @@
       "ID": "Stage3",
       "SetID": "ag762md",
       "Name": "Stage 3",
-      "Percentage": 100,
+      "Percentage": 67,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -73,7 +78,7 @@
       "ID": "Stage4",
       "SetID": "ag762md",
       "Name": "Stage 4",
-      "Percentage": 100,
+      "Percentage": 67,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -81,7 +86,7 @@
       "ID": "Stage5",
       "SetID": "ag762md",
       "Name": "Stage 5",
-      "Percentage": 100,
+      "Percentage": 67,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -89,7 +94,7 @@
       "ID": "Upgrade1",
       "SetID": "ag762md",
       "Name": "First Upgrade",
-      "Percentage": 150,
+      "Percentage": 100,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -97,7 +102,7 @@
       "ID": "Upgrade10",
       "SetID": "ag762md",
       "Name": "Tenth Upgrade",
-      "Percentage": 150,
+      "Percentage": 100,
       "XP": 100,
       "UsersEstimate": 3
     },
@@ -105,7 +110,7 @@
       "ID": "Upgrade2",
       "SetID": "ag762md",
       "Name": "Second Upgrade",
-      "Percentage": 150,
+      "Percentage": 100,
       "XP": 100,
       "UsersEstimate": 3
     },
@@ -113,7 +118,7 @@
       "ID": "Upgrade3",
       "SetID": "ag762md",
       "Name": "Third Upgrade",
-      "Percentage": 150,
+      "Percentage": 100,
       "XP": 100,
       "UsersEstimate": 3
     },
@@ -121,7 +126,7 @@
       "ID": "Upgrade4",
       "SetID": "ag762md",
       "Name": "Fourth Upgrade",
-      "Percentage": 150,
+      "Percentage": 100,
       "XP": 100,
       "UsersEstimate": 3
     },
@@ -129,7 +134,7 @@
       "ID": "Upgrade5",
       "SetID": "ag762md",
       "Name": "Fifth Upgrade",
-      "Percentage": 150,
+      "Percentage": 100,
       "XP": 100,
       "UsersEstimate": 3
     }
@@ -138,13 +143,13 @@
     {
       "ID": "ag762md",
       "IsBase": true,
-      "Progressed": 2,
+      "Progressed": 3,
       "Completed": 2
     }
   ],
   "FirstSeenAchievements": "2023-09-18T15:02:16.3526142+00:00",
-  "LastChanged_Achievements": "2023-10-16T23:05:30.1003351+00:00",
+  "LastChanged_Achievements": "2023-10-17T00:07:08.6059475+00:00",
   "LastUpdate_AppInfo": "2023-10-16T16:57:10.2248982+00:00",
-  "LastUpdate_Ratings": "2023-10-16T23:01:46.0302736+00:00",
-  "LastUpdate_Achievements": "2023-10-16T23:05:30.1003428+00:00"
+  "LastUpdate_Ratings": "2023-10-17T00:03:09.8014139+00:00",
+  "LastUpdate_Achievements": "2023-10-17T00:07:08.6059599+00:00"
 }
