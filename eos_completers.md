@@ -2,7 +2,7 @@
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 66.67% |
-| 3 | [The Riflemen](games/t/the_riflemen.md) | 48.23% |
+| 3 | [The Riflemen](games/t/the_riflemen.md) | 48.21% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.15% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.99% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
@@ -75,8 +75,8 @@
 | 73 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.81% |
 | 74 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
 | 75 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.59% |
-| 76 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.57% |
 | 76 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
+| 77 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.56% |
 | 78 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 79 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.45% |
 | 80 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.42% |
@@ -111,7 +111,7 @@
 | 109 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.22% |
 | 110 | [Bloodshore](games/b/bloodshore.md) | 2.13% |
 | 111 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.00% |
-| 112 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.97% |
+| 112 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.98% |
 | 113 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.96% |
 | 114 | [Night Book](games/n/night_book.md) | 1.84% |
 | 114 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
