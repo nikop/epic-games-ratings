@@ -18823,9 +18823,9 @@
       "ID": "62",
       "SetID": "6apfemg",
       "Name": "No Punctuation",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 64
     },
     {
       "ID": "63",
@@ -18879,14 +18879,14 @@
       "ID": "6apfemg",
       "IsBase": false,
       "Progressed": 31757,
-      "Completed": 56
+      "Completed": 57
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-10-17T07:57:25.3609832+00:00",
-  "LastChanged_Achievements": "2023-10-17T08:09:54.7847972+00:00",
+  "LastChanged_Achievements": "2023-10-17T09:09:37.1216148+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:29.5404552+00:00",
-  "LastUpdate_Ratings": "2023-10-17T07:57:25.3609844+00:00",
-  "LastUpdate_Achievements": "2023-10-17T08:09:54.7849368+00:00"
+  "LastUpdate_Ratings": "2023-10-17T08:57:37.3345491+00:00",
+  "LastUpdate_Achievements": "2023-10-17T09:09:37.121825+00:00"
 }

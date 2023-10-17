@@ -2212,9 +2212,9 @@
       "Count": 101
     }
   ],
-  "EOS_Progressed": 42076,
+  "EOS_Progressed": 42077,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 472,
+  "EOS_NewPlayers": 469,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -21677,6 +21677,11 @@
       "Time": "2023-10-17T08:08:11.7350327+00:00",
       "NumProgressed": 42076,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-10-17T09:08:20.3804398+00:00",
+      "NumProgressed": 42077,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 75,
@@ -21720,7 +21725,7 @@
       "Name": "Cursed Creature",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 23983
+      "UsersEstimate": 23984
     },
     {
       "ID": "achievements_14",
@@ -21752,7 +21757,7 @@
       "Name": "Bane of Monsters",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 11781
+      "UsersEstimate": 11782
     },
     {
       "ID": "achievements_2",
@@ -21768,7 +21773,7 @@
       "Name": "Lord of Fire",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 9677
+      "UsersEstimate": 9678
     },
     {
       "ID": "achievements_21",
@@ -21808,7 +21813,7 @@
       "Name": "Chainbreaker - III",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 11781
+      "UsersEstimate": 11782
     },
     {
       "ID": "achievements_26",
@@ -21832,7 +21837,7 @@
       "Name": "Mountain King - III",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 6311
+      "UsersEstimate": 6312
     },
     {
       "ID": "achievements_29",
@@ -21936,7 +21941,7 @@
       "Name": "Path of the Necromancer",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 27770
+      "UsersEstimate": 27771
     },
     {
       "ID": "achievements_40",
@@ -21968,7 +21973,7 @@
       "Name": "Uncommon Warrior",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 9677
+      "UsersEstimate": 9678
     },
     {
       "ID": "achievements_44",
@@ -21976,7 +21981,7 @@
       "Name": "Rare Warrior",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6311
+      "UsersEstimate": 6312
     },
     {
       "ID": "achievements_45",
@@ -22040,7 +22045,7 @@
       "Name": "Prepared Necromancer",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 16830
+      "UsersEstimate": 16831
     },
     {
       "ID": "achievements_52",
@@ -22056,7 +22061,7 @@
       "Name": "Extraction",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 23983
+      "UsersEstimate": 23984
     },
     {
       "ID": "achievements_54",
@@ -22264,7 +22269,7 @@
       "Name": "Blood Moon",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 30715
+      "UsersEstimate": 30716
     },
     {
       "ID": "achievements_8",
@@ -22287,15 +22292,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 42076,
+      "Progressed": 42077,
       "Completed": 24
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-10-14T12:59:28.2278153+00:00",
-  "LastChanged_Achievements": "2023-10-17T08:08:11.7350319+00:00",
+  "LastChanged_Achievements": "2023-10-17T09:08:20.3804389+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:08.5665033+00:00",
-  "LastUpdate_Ratings": "2023-10-17T07:58:07.6835172+00:00",
-  "LastUpdate_Achievements": "2023-10-17T08:08:11.7355282+00:00"
+  "LastUpdate_Ratings": "2023-10-17T08:58:24.2047977+00:00",
+  "LastUpdate_Achievements": "2023-10-17T09:08:20.380686+00:00"
 }

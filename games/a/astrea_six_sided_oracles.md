@@ -29,10 +29,10 @@
 | The Corruption Goddess | 14.00% | ~8 |
 | The Goddes Avatar | 14.00% | ~8 |
 | Unbeatable | 14.00% | ~8 |
+| Favored by the Cosmos | 10.00% | ~6 |
 | Wave Bender | 10.00% | ~6 |
 | Anomaly Control | 9.00% | ~5 |
 | Can't touch this | 9.00% | ~5 |
-| Favored by the Cosmos | 9.00% | ~5 |
 | Sadistic Plan | 9.00% | ~5 |
 | Stellar Haste | 9.00% | ~5 |
 | Apian Hero | 9.00% | ~5 |

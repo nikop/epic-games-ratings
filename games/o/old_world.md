@@ -61,12 +61,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus | 0.90% | ~133 |
 | Musaeum | 0.90% | ~133 |
 | Necropolis | 0.90% | ~133 |
+| Learn to Play 2 | 0.90% | ~133 |
 | Manichaeism | 0.90% | ~133 |
 | Mighty | 0.80% | ~118 |
 | Just Difficulty | 0.80% | ~118 |
 | Artisans | 0.80% | ~118 |
 | Acropolis | 0.80% | ~118 |
-| Learn to Play 2 | 0.80% | ~118 |
 | Mythology | 0.80% | ~118 |
 | Win a Single Player Game | 0.80% | ~118 |
 | Hanging Gardens in Babylon | 0.70% | ~103 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,756 (Ranked 135)  
+Progressed: 14,757 (Ranked 135)  
 Completed: 5 (0.03%) (Ranked 284)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -529,7 +529,7 @@ Completed: 5 (0.03%) (Ranked 284)
 | 2023-10-14 | 14,699 | 5 |
 | 2023-10-15 | 14,732 | 5 |
 | 2023-10-16 | 14,747 | 5 |
-| 2023-10-17 | 14,756 | 5 |
+| 2023-10-17 | 14,757 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,842 (Ranked 210)  

@@ -274,9 +274,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 125133,
+  "EOS_Progressed": 125135,
   "EOS_Completed": 1062,
-  "EOS_NewPlayers": 1190,
+  "EOS_NewPlayers": 1184,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.85,
   "EosHistory": [
@@ -20579,6 +20579,11 @@
       "Time": "2023-10-17T08:04:18.5892651+00:00",
       "NumProgressed": 125133,
       "NumCompleted": 1062
+    },
+    {
+      "Time": "2023-10-17T09:04:13.1297234+00:00",
+      "NumProgressed": 125135,
+      "NumCompleted": 1062
     }
   ],
   "TotalAchievements": 34,
@@ -20598,7 +20603,7 @@
       "Name": "The only thing I have now",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 20021
+      "UsersEstimate": 20022
     },
     {
       "ID": "ACH_GAME_JOURNAL1",
@@ -20606,7 +20611,7 @@
       "Name": "Interesting...",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 52556
+      "UsersEstimate": 52557
     },
     {
       "ID": "ACH_GAME_JOURNAL2",
@@ -20646,7 +20651,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 100106
+      "UsersEstimate": 100108
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -20662,7 +20667,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 70074
+      "UsersEstimate": 70076
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -20670,7 +20675,7 @@
       "Name": "A brigantine, a brig and a barque",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 35037
+      "UsersEstimate": 35038
     },
     {
       "ID": "ACH_L02_BASECAMP_END",
@@ -20678,7 +20683,7 @@
       "Name": "The Everhart Expedition",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 48802
+      "UsersEstimate": 48803
     },
     {
       "ID": "ACH_L02_BASECAMP_OBJ",
@@ -20766,7 +20771,7 @@
       "Name": "506 East Hampden Avenue",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 35037
+      "UsersEstimate": 35038
     },
     {
       "ID": "ACH_L04B_DESERT_OBJ",
@@ -20861,7 +20866,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 125133,
+      "Progressed": 125135,
       "Completed": 1062
     }
   ],
@@ -20869,8 +20874,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-09-30T12:00:15.2854641+00:00",
-  "LastChanged_Achievements": "2023-10-17T08:04:18.5892646+00:00",
+  "LastChanged_Achievements": "2023-10-17T09:04:13.1297228+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:27.6013957+00:00",
-  "LastUpdate_Ratings": "2023-10-17T07:58:37.8186045+00:00",
-  "LastUpdate_Achievements": "2023-10-17T08:04:18.5893874+00:00"
+  "LastUpdate_Ratings": "2023-10-17T08:58:57.5436648+00:00",
+  "LastUpdate_Achievements": "2023-10-17T09:04:13.1299197+00:00"
 }

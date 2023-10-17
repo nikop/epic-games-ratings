@@ -57,8 +57,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | Hidden Potential | 0.70% | ~964 |
 | Expansion in Session | 0.70% | ~964 |
 | Trash to Treasure | 0.70% | ~964 |
+| Mammonite | 0.70% | ~964 |
 | Miracle Alchemist | 0.70% | ~964 |
 | Seasoned Journeyman | 0.70% | ~964 |
+| Scourge of the Seas | 0.70% | ~964 |
 | Black Friday Special | 0.70% | ~964 |
 | Special Ingredient | 0.70% | ~964 |
 | Complete Monopoly | 0.70% | ~964 |
@@ -74,7 +76,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cranked up to 11 | 0.60% | ~826 |
 | Fit for a King | 0.60% | ~826 |
 | By Your Powers Combined... | 0.60% | ~826 |
-| Mammonite | 0.60% | ~826 |
 | Wealth Beyond Measure | 0.60% | ~826 |
 | Fat Cat Tag Team | 0.60% | ~826 |
 | Necromancer Queen | 0.60% | ~826 |
@@ -82,7 +83,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Master Merchant | 0.60% | ~826 |
 | Laden with Loot | 0.60% | ~826 |
 | Precision Engineering | 0.60% | ~826 |
-| Scourge of the Seas | 0.60% | ~826 |
 | Attrition Mission | 0.60% | ~826 |
 | Glittering Collection | 0.60% | ~826 |
 | Treasure Trove | 0.60% | ~826 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,719 (Ranked 73)  
+Progressed: 137,721 (Ranked 73)  
 Completed: 169 (0.12%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,10 +299,10 @@ Completed: 169 (0.12%) (Ranked 242)
 | 2023-10-14 | 137,618 | 168 |
 | 2023-10-15 | 137,669 | 168 |
 | 2023-10-16 | 137,703 | 168 |
-| 2023-10-17 | 137,719 | 169 |
+| 2023-10-17 | 137,721 | 169 |
 ## Awards
 Max (Great for Beginners): 4,790  (Ranked 72)  
-Sum: 27,391 (Ranked 50)  
+Sum: 27,392 (Ranked 50)  
 Diff (max vs sum): 22  
 | Award | Count |
 | ----- | ----- |
@@ -310,7 +310,7 @@ Diff (max vs sum): 22
 | This game is Relaxing | 4,024 |
 | This game has Quickly Understood Controls | 4,014 |
 | This game has Diverse Characters | 3,913 |
-| This game is Highly Recommended | 3,759 |
+| This game is Highly Recommended | 3,760 |
 | This game has Easy Combat | 3,706 |
 | This game has Playful Visuals | 3,185 |
 | This game has Inclusive Character Customization | 22 |
@@ -578,4 +578,4 @@ Diff (max vs sum): 22
 | 2023-10-13 | 3.99 | - | 4,785 | 27,380 |
 | 2023-10-15 | 3.99 | - | 4,787 | 27,383 |
 | 2023-10-16 | 3.99 | - | 4,790 | 27,390 |
-| 2023-10-17 | 3.99 | - | 4,790 | 27,391 |
+| 2023-10-17 | 3.99 | - | 4,790 | 27,392 |

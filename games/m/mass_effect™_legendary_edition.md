@@ -90,9 +90,9 @@
 | Party Crasher | 21.00% | ~151 |
 | Pyromaniac | 20.00% | ~144 |
 | No One Left Behind | 20.00% | ~144 |
+| Hard Target | 20.00% | ~144 |
 | Problem Solver | 20.00% | ~144 |
 | Under Pressure | 19.00% | ~137 |
-| Hard Target | 19.00% | ~137 |
 | Saboteur | 19.00% | ~137 |
 | Last Witness | 19.00% | ~137 |
 | Fact Finder | 19.00% | ~137 |

@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Throwing up Tags | 93.00% | ~6,292 |
-| Cool Whip | 90.00% | ~6,089 |
-| Fashion Killa | 89.00% | ~6,022 |
-| Drop the Beat | 86.00% | ~5,819 |
-| Hey Lakeshore | 85.00% | ~5,751 |
-| 100 Miles and Runnin' | 84.00% | ~5,683 |
-| Public Enemy | 83.00% | ~5,616 |
-| Rebel Without a Pause | 68.00% | ~4,601 |
-| Hey Speedie! | 68.00% | ~4,601 |
-| Most Wanted | 65.00% | ~4,398 |
+| Throwing up Tags | 93.00% | ~6,293 |
+| Cool Whip | 90.00% | ~6,090 |
+| Fashion Killa | 89.00% | ~6,023 |
+| Drop the Beat | 86.00% | ~5,820 |
+| Hey Lakeshore | 85.00% | ~5,752 |
+| 100 Miles and Runnin' | 84.00% | ~5,684 |
+| Public Enemy | 83.00% | ~5,617 |
+| Rebel Without a Pause | 68.00% | ~4,602 |
+| Hey Speedie! | 68.00% | ~4,602 |
+| Most Wanted | 65.00% | ~4,399 |
 | New Crew | 63.00% | ~4,263 |
 | Style it Out | 54.00% | ~3,654 |
 | Escape Artist | 54.00% | ~3,654 |
 | Untouchable | 54.00% | ~3,654 |
-| Serious Guap | 53.00% | ~3,586 |
+| Serious Guap | 53.00% | ~3,587 |
 | Oh, It's On | 51.00% | ~3,451 |
-| Rydell's Rydes | 49.00% | ~3,315 |
-| Cash Money Millionaire | 46.00% | ~3,112 |
-| Lake Better Watch Out | 40.00% | ~2,706 |
+| Rydell's Rydes | 49.00% | ~3,316 |
+| Cash Money Millionaire | 46.00% | ~3,113 |
+| Lake Better Watch Out | 40.00% | ~2,707 |
 | Access All Areas | 35.00% | ~2,368 |
-| #Blessed | 34.00% | ~2,300 |
+| #Blessed | 34.00% | ~2,301 |
 | Kick it | 32.00% | ~2,165 |
-| Found Family | 31.00% | ~2,097 |
+| Found Family | 31.00% | ~2,098 |
 | The Collector | 30.00% | ~2,030 |
 | In the Flow | 29.00% | ~1,962 |
 | Top Billin' | 24.00% | ~1,624 |
@@ -46,7 +46,7 @@
 | Catch My Drift | 3.00% | ~203 |
 | Cleaning Up | 2.00% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,766 (Ranked 162)  
+Progressed: 6,767 (Ranked 162)  
 Completed: 40 (0.59%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,4 +78,4 @@ Completed: 40 (0.59%) (Ranked 166)
 | 2023-10-14 | 6,492 | 39 |
 | 2023-10-15 | 6,659 | 39 |
 | 2023-10-16 | 6,742 | 40 |
-| 2023-10-17 | 6,766 | 40 |
+| 2023-10-17 | 6,767 | 40 |

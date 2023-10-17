@@ -4,8 +4,8 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 40,
-  "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2533,
+  "EOS_Progressed": 2534,
   "EOS_Completed": 228,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 9,
   "EosHistory": [
@@ -6658,6 +6658,11 @@
       "Time": "2023-10-17T01:51:09.2708602+00:00",
       "NumProgressed": 2533,
       "NumCompleted": 228
+    },
+    {
+      "Time": "2023-10-17T09:07:40.8762533+00:00",
+      "NumProgressed": 2534,
+      "NumCompleted": 228
     }
   ],
   "TotalAchievements": 12,
@@ -6701,7 +6706,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 937
+      "UsersEstimate": 938
     },
     {
       "ID": "Jakob",
@@ -6723,9 +6728,9 @@
       "ID": "Le Juif et la France",
       "SetID": "b40dflc",
       "Name": "Le Juif et la France",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 355
+      "UsersEstimate": 329
     },
     {
       "ID": "Little Helper",
@@ -6764,7 +6769,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2533,
+      "Progressed": 2534,
       "Completed": 228
     }
   ],
@@ -6772,8 +6777,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-10-17T08:07:34.4680161+00:00",
+  "LastChanged_Achievements": "2023-10-17T09:07:40.8762524+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:02.4862405+00:00",
-  "LastUpdate_Ratings": "2023-10-17T07:57:47.3828155+00:00",
-  "LastUpdate_Achievements": "2023-10-17T08:07:34.4680556+00:00"
+  "LastUpdate_Ratings": "2023-10-17T08:58:01.6327317+00:00",
+  "LastUpdate_Achievements": "2023-10-17T09:07:40.8763467+00:00"
 }

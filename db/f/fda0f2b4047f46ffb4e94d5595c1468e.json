@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 169,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -1344,9 +1344,9 @@
       "Count": 225
     }
   ],
-  "EOS_Progressed": 7713,
+  "EOS_Progressed": 7714,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 395,
+  "EOS_NewPlayers": 392,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4604,6 +4604,11 @@
       "Time": "2023-10-17T08:09:34.6969204+00:00",
       "NumProgressed": 7713,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-17T09:09:15.6508228+00:00",
+      "NumProgressed": 7714,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -4616,7 +4621,7 @@
       "Name": "Become A Ninja In No Time",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2622
+      "UsersEstimate": 2623
     },
     {
       "ID": "ach02",
@@ -4640,7 +4645,7 @@
       "Name": "What Just Happened??",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1465
+      "UsersEstimate": 1466
     },
     {
       "ID": "ach05",
@@ -4664,7 +4669,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 4165
+      "UsersEstimate": 4166
     },
     {
       "ID": "ach08",
@@ -4784,7 +4789,7 @@
       "Name": "Where\u0027s Blanche",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 1388
+      "UsersEstimate": 1389
     },
     {
       "ID": "ach23",
@@ -4832,7 +4837,7 @@
       "Name": "Feeling Stronger",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2545
+      "UsersEstimate": 2546
     },
     {
       "ID": "ach29",
@@ -4904,7 +4909,7 @@
       "Name": "ABACABB",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 4319
+      "UsersEstimate": 4320
     },
     {
       "ID": "ach38",
@@ -4944,7 +4949,7 @@
       "Name": "Quest Master",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 3239
+      "UsersEstimate": 3240
     },
     {
       "ID": "ach43",
@@ -4984,7 +4989,7 @@
       "Name": "Big Spender",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 1465
+      "UsersEstimate": 1466
     },
     {
       "ID": "ach48",
@@ -5015,7 +5020,7 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 7713,
+      "Progressed": 7714,
       "Completed": 0
     }
   ],
@@ -5023,8 +5028,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-10-17T05:00:21.8562454+00:00",
-  "LastChanged_Achievements": "2023-10-17T08:09:34.69692+00:00",
+  "LastChanged_Achievements": "2023-10-17T09:09:15.6508218+00:00",
   "LastUpdate_AppInfo": "2023-10-14T07:57:06.3888504+00:00",
-  "LastUpdate_Ratings": "2023-10-17T08:00:17.5356101+00:00",
-  "LastUpdate_Achievements": "2023-10-17T08:09:34.6969696+00:00"
+  "LastUpdate_Ratings": "2023-10-17T09:00:48.5988375+00:00",
+  "LastUpdate_Achievements": "2023-10-17T09:09:15.6509095+00:00"
 }

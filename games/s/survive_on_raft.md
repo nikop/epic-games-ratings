@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Easy Prey | 100.00% | ~1 |
-| Fisher | 100.00% | ~1 |
-| More fun together! | 100.00% | ~1 |
+| Easy Prey | 50.00% | ~1 |
+| Fisher | 50.00% | ~1 |
+| More fun together! | 50.00% | ~1 |
 | Advanced | 0.00% | ~0 |
 | Beginner | 0.00% | ~0 |
 | The beginning of the way | 0.00% | ~0 |
@@ -41,9 +41,10 @@
 | Customer | 0.00% | ~0 |
 | Water Desalter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 617)  
+Progressed: 2 (Ranked 590)  
 Completed: 0 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-09-08 | 1 | 0 |
+| 2023-10-17 | 2 | 0 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 297,
   "Ranking_EOS_NewPlayers": 77,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -781,9 +781,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 42940,
+  "EOS_Progressed": 42943,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 774,
+  "EOS_NewPlayers": 771,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -20966,6 +20966,11 @@
       "Time": "2023-10-17T08:05:54.2391081+00:00",
       "NumProgressed": 42940,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-17T09:05:53.8887893+00:00",
+      "NumProgressed": 42943,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -21001,7 +21006,7 @@
       "Name": "Scout",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4723
+      "UsersEstimate": 4724
     },
     {
       "ID": "distance500000",
@@ -21017,7 +21022,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 11594
+      "UsersEstimate": 11595
     },
     {
       "ID": "goals180",
@@ -21057,7 +21062,7 @@
       "Name": "Aviator",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2576
+      "UsersEstimate": 2577
     },
     {
       "ID": "journeyer",
@@ -21105,7 +21110,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 6870
+      "UsersEstimate": 6871
     },
     {
       "ID": "playerFelipe",
@@ -21185,7 +21190,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 11164
+      "UsersEstimate": 11165
     },
     {
       "ID": "sandboarder",
@@ -21201,7 +21206,7 @@
       "Name": "Sightseer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4723
+      "UsersEstimate": 4724
     },
     {
       "ID": "ultimate",
@@ -21288,15 +21293,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 42940,
+      "Progressed": 42943,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-10-12T08:00:34.9108004+00:00",
-  "LastChanged_Achievements": "2023-10-17T08:05:54.2391072+00:00",
+  "LastChanged_Achievements": "2023-10-17T09:05:53.8887886+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:17.6286578+00:00",
-  "LastUpdate_Ratings": "2023-10-17T08:03:30.4310347+00:00",
-  "LastUpdate_Achievements": "2023-10-17T08:05:54.2392349+00:00"
+  "LastUpdate_Ratings": "2023-10-17T09:03:11.6292615+00:00",
+  "LastUpdate_Achievements": "2023-10-17T09:05:53.889054+00:00"
 }

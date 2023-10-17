@@ -70,9 +70,9 @@ Number of Ratings: 524  (23.09.2022)
 | Tick Tock | 0.30% | ~95 |
 | Every Nook and Cranny | 0.20% | ~137 |
 | Collector's Edition | 0.20% | ~137 |
+| No Punctuation | 0.20% | ~64 |
 | Licensed Properties | 0.20% | ~64 |
 | Hypercaffeinated | 0.10% | ~68 |
-| No Punctuation | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 68,289 (Ranked 94)  
 Completed: 69 (0.10%) (Ranked 247)  

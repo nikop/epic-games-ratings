@@ -5,7 +5,7 @@ Rating: 4.76 (Ranked 118)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 15.00% | ~44,773 |
+| The Sort Who Makes an Entrance | 15.00% | ~44,774 |
 | First Class Student | 13.00% | ~38,804 |
 | Troll with the Punches | 13.00% | ~38,804 |
 | A Keen Sense of Spell | 12.00% | ~35,819 |
@@ -30,8 +30,8 @@ Rating: 4.76 (Ranked 118)
 | The Root of the Problem | 6.00% | ~17,909 |
 | Third Time's a Charm | 6.00% | ~17,909 |
 | Raising Expectations | 6.00% | ~17,909 |
-| The Toast of the Town | 5.00% | ~14,924 |
-| The Ends Petrify the Means | 5.00% | ~14,924 |
+| The Toast of the Town | 5.00% | ~14,925 |
+| The Ends Petrify the Means | 5.00% | ~14,925 |
 | Going Through the Potions | 4.00% | ~11,940 |
 | Room with a View | 4.00% | ~11,940 |
 | The Intrepid Explorer | 4.00% | ~11,940 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 118)
 | The Nature of the Beast | 0.70% | ~2,089 |
 | Collector's Edition | 0.30% | ~895 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,489 (Ranked 47)  
+Progressed: 298,491 (Ranked 47)  
 Completed: 488 (0.16%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,10 +231,10 @@ Completed: 488 (0.16%) (Ranked 232)
 | 2023-10-14 | 298,337 | 487 |
 | 2023-10-15 | 298,425 | 488 |
 | 2023-10-16 | 298,472 | 488 |
-| 2023-10-17 | 298,489 | 488 |
+| 2023-10-17 | 298,491 | 488 |
 ## Awards
 Max (Character Customization): 23,586  (Ranked 17)  
-Sum: 46,049 (Ranked 30)  
+Sum: 46,052 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -244,7 +244,7 @@ Diff (max vs sum): -13
 | This game has Amazing Storytelling | 1,159 |
 | This game has Diverse Characters | 1,149 |
 | This game is Extremely Fun | 1,142 |
-| This game is Relaxing | 1,137 |
+| This game is Relaxing | 1,140 |
 | This game has Amazing Characters | 1,105 |
 | This game is Highly Recommended | 1,078 |
 | This game has Quickly Understood Controls | 1,029 |
@@ -460,4 +460,4 @@ Diff (max vs sum): -13
 | 2023-10-14 | 4.76 | 23,517 | 45,868 |
 | 2023-10-15 | 4.76 | 23,559 | 45,955 |
 | 2023-10-16 | 4.76 | 23,559 | 45,997 |
-| 2023-10-17 | 4.76 | 23,586 | 46,049 |
+| 2023-10-17 | 4.76 | 23,586 | 46,052 |

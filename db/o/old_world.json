@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 284,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1875,7 +1875,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14756,
+  "EOS_Progressed": 14757,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 0,
@@ -14060,6 +14060,11 @@
       "Time": "2023-10-17T07:08:13.6041415+00:00",
       "NumProgressed": 14756,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-17T09:09:12.7415677+00:00",
+      "NumProgressed": 14757,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -15597,9 +15602,9 @@
       "ID": "ACHIEVEMENT_LEARNTOPLAY_2",
       "SetID": "7l38kb8",
       "Name": "Learn to Play 2",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 133
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_3",
@@ -16806,21 +16811,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14756,
+      "Progressed": 14757,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14756,
+      "Progressed": 14757,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-16T22:57:40.964526+00:00",
-  "LastChanged_Achievements": "2023-10-17T08:09:31.4124455+00:00",
+  "LastChanged_Achievements": "2023-10-17T09:09:12.7415667+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:21.7880328+00:00",
-  "LastUpdate_Ratings": "2023-10-17T07:57:38.2578689+00:00",
-  "LastUpdate_Achievements": "2023-10-17T08:09:31.413421+00:00"
+  "LastUpdate_Ratings": "2023-10-17T08:57:51.2955789+00:00",
+  "LastUpdate_Achievements": "2023-10-17T09:09:12.7432977+00:00"
 }

@@ -6488,10 +6488,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27391,
       "NumberOfAwardsMax": 4790
+    },
+    {
+      "Time": "2023-10-17T08:58:26.0151243+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27392,
+      "NumberOfAwardsMax": 4790
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27391,
+  "NumberOfAwards": 27392,
   "NumberOfAwardsMax": 4790,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6541,12 +6547,12 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3759
+      "Count": 3760
     }
   ],
-  "EOS_Progressed": 137719,
+  "EOS_Progressed": 137721,
   "EOS_Completed": 169,
-  "EOS_NewPlayers": 326,
+  "EOS_NewPlayers": 324,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -24949,6 +24955,11 @@
       "Time": "2023-10-17T08:04:43.1721983+00:00",
       "NumProgressed": 137719,
       "NumCompleted": 169
+    },
+    {
+      "Time": "2023-10-17T09:04:39.0903162+00:00",
+      "NumProgressed": 137721,
+      "NumCompleted": 169
     }
   ],
   "TotalAchievements": 112,
@@ -25462,9 +25473,9 @@
       "ID": "gold05",
       "SetID": "anfd17p",
       "Name": "Mammonite",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 826
+      "UsersEstimate": 964
     },
     {
       "ID": "gold06",
@@ -25662,9 +25673,9 @@
       "ID": "polonia_a",
       "SetID": "anfd17p",
       "Name": "Scourge of the Seas",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 826
+      "UsersEstimate": 964
     },
     {
       "ID": "quest01",
@@ -25855,15 +25866,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 137719,
+      "Progressed": 137721,
       "Completed": 169
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-10-17T07:58:08.9072822+00:00",
-  "LastChanged_Achievements": "2023-10-17T08:04:43.1721978+00:00",
+  "LastChanged": "2023-10-17T08:58:26.0151241+00:00",
+  "LastChanged_Achievements": "2023-10-17T09:04:39.0903156+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:10.2617104+00:00",
-  "LastUpdate_Ratings": "2023-10-17T07:58:08.9072831+00:00",
-  "LastUpdate_Achievements": "2023-10-17T08:04:43.1724064+00:00"
+  "LastUpdate_Ratings": "2023-10-17T08:58:26.0151251+00:00",
+  "LastUpdate_Achievements": "2023-10-17T09:04:39.0906185+00:00"
 }

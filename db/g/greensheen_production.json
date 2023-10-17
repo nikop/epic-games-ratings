@@ -4,7 +4,7 @@
   "Ranking_EOS_Progress": 532,
   "Ranking_EOS_Completed": 315,
   "Ranking_EOS_NewPlayers": 389,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -122,9 +122,9 @@
       "ID": "CompleteSchool",
       "SetID": "aph8hbk",
       "Name": "Schooled",
-      "Percentage": 44,
+      "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "CompleteWilderness",
@@ -146,9 +146,9 @@
       "ID": "EmptyVendingMachine",
       "SetID": "aph8hbk",
       "Name": "Hunger",
-      "Percentage": 44,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "FindAllHats",
@@ -250,9 +250,9 @@
       "ID": "KidsSchool",
       "SetID": "aph8hbk",
       "Name": "School Kids",
-      "Percentage": 22,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "KidsWilderness",
@@ -290,9 +290,9 @@
       "ID": "Piano",
       "SetID": "aph8hbk",
       "Name": "Mono Tones",
-      "Percentage": 56,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Platinum",
@@ -314,9 +314,9 @@
       "ID": "SixRaincoat",
       "SetID": "aph8hbk",
       "Name": "True Colours",
-      "Percentage": 44,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "SpareDoc",
@@ -360,8 +360,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-31T13:15:39.9572089+00:00",
-  "LastChanged_Achievements": "2023-10-17T08:07:44.2310327+00:00",
+  "LastChanged_Achievements": "2023-10-17T09:07:51.2301606+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:13.194983+00:00",
-  "LastUpdate_Ratings": "2023-10-17T08:01:20.4407957+00:00",
-  "LastUpdate_Achievements": "2023-10-17T08:07:44.2310516+00:00"
+  "LastUpdate_Ratings": "2023-10-17T09:01:59.7178508+00:00",
+  "LastUpdate_Achievements": "2023-10-17T09:07:51.2302047+00:00"
 }

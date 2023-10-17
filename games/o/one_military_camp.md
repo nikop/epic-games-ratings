@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 52.00% | ~94 |
-| The 4 Pillars | 50.00% | ~90 |
+| First Step | 52.00% | ~95 |
+| The 4 Pillars | 50.00% | ~91 |
 | Capitalism | 20.00% | ~36 |
 | Great Producer | 12.00% | ~22 |
 | Green Energy | 12.00% | ~22 |
@@ -13,19 +13,19 @@
 | Indebted | 11.00% | ~20 |
 | Desert Power | 10.00% | ~18 |
 | Desert Rat | 9.00% | ~16 |
-| Perfect Soldier | 8.00% | ~14 |
-| Health Care | 8.00% | ~14 |
-| Ammo Tycoon | 8.00% | ~14 |
+| Perfect Soldier | 8.00% | ~15 |
+| Health Care | 8.00% | ~15 |
+| Ammo Tycoon | 8.00% | ~15 |
 | Healing | 7.00% | ~13 |
 | Good payer | 7.00% | ~13 |
 | Self-sufficient | 7.00% | ~13 |
 | Food Tycoon | 7.00% | ~13 |
 | Fuel Tycoon | 7.00% | ~13 |
 | Jantine: the Misfortunes of Evil | 6.00% | ~11 |
-| Overpopulation | 6.00% | ~11 |
-| Pathfinder | 6.00% | ~11 |
-| Medicine Tycoon | 6.00% | ~11 |
+| Overpopulation | 5.00% | ~9 |
 | Property Bro | 5.00% | ~9 |
+| Pathfinder | 5.00% | ~9 |
+| Medicine Tycoon | 5.00% | ~9 |
 | Supersoldier | 4.00% | ~7 |
 | Tear Down the Wall! | 3.00% | ~5 |
 | Outdoor Decorator | 3.00% | ~5 |
@@ -40,8 +40,8 @@
 | Winter Soldier | 2.00% | ~4 |
 | Researcher | 2.00% | ~4 |
 | Counter-espionage | 1.00% | ~2 |
-| Conveyor Belt Madness | 0.60% | ~1 |
-| Against Adversity | 0.60% | ~1 |
+| Conveyor Belt Madness | 0.50% | ~1 |
+| Against Adversity | 0.50% | ~1 |
 | Attack of the Drones | 0.00% | ~0 |
 | Self-management | 0.00% | ~0 |
 | War Veteran | 0.00% | ~0 |
@@ -49,7 +49,7 @@
 | Sandbox Expert | 0.00% | ~0 |
 | People's Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 181 (Ranked 346)  
+Progressed: 182 (Ranked 346)  
 Completed: 0 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,3 +106,4 @@ Completed: 0 (0.00%) (Ranked 315)
 | 2023-10-10 | 177 | 0 |
 | 2023-10-11 | 179 | 0 |
 | 2023-10-12 | 181 | 0 |
+| 2023-10-17 | 182 | 0 |

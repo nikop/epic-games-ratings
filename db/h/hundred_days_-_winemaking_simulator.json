@@ -1018,7 +1018,7 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 8368,
+  "EOS_Progressed": 8372,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 1009,
   "EOS_NewCompleters": 1,
@@ -6688,6 +6688,11 @@
       "Time": "2023-10-17T08:07:12.1885106+00:00",
       "NumProgressed": 8368,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-17T09:07:17.0382867+00:00",
+      "NumProgressed": 8372,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -6748,7 +6753,7 @@
       "Name": "Bye Bye",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 3264
+      "UsersEstimate": 3265
     },
     {
       "ID": "a_19",
@@ -6764,7 +6769,7 @@
       "Name": "Ostinata",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "a_20",
@@ -6804,7 +6809,7 @@
       "Name": "Better than nothing?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "a_26",
@@ -6947,7 +6952,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 8368,
+      "Progressed": 8372,
       "Completed": 8
     }
   ],
@@ -6955,8 +6960,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-10-10T16:59:22.7446864+00:00",
-  "LastChanged_Achievements": "2023-10-17T08:07:12.1885102+00:00",
+  "LastChanged_Achievements": "2023-10-17T09:07:17.0382861+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:27.1391374+00:00",
-  "LastUpdate_Ratings": "2023-10-17T08:01:42.9919394+00:00",
-  "LastUpdate_Achievements": "2023-10-17T08:07:12.1885534+00:00"
+  "LastUpdate_Ratings": "2023-10-17T09:02:25.0656969+00:00",
+  "LastUpdate_Achievements": "2023-10-17T09:07:17.038367+00:00"
 }

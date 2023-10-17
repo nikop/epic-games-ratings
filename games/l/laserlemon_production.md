@@ -14,6 +14,7 @@
 | Rascal | 17.00% | ~2 |
 | So Close | 17.00% | ~2 |
 | The Guest Area | 17.00% | ~2 |
+| The Lady's Quarters | 17.00% | ~2 |
 | We'll Meet Again | 17.00% | ~2 |
 | Ashes in The Maw | 8.00% | ~1 |
 | Ashes to Ashes | 8.00% | ~1 |
@@ -22,7 +23,6 @@
 | I'm Losing You | 8.00% | ~1 |
 | Is Anybody Out There? | 8.00% | ~1 |
 | Not Alone | 8.00% | ~1 |
-| The Lady's Quarters | 8.00% | ~1 |
 | Hard to the Core | 0.00% | ~0 |
 | Little Lost Things | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
