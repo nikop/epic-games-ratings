@@ -1,7 +1,7 @@
 # Sifu
 [Store](https://store.epicgames.com/en-US/p/sifu)  
 [View Rawdata](../../db/s/sifu.json)  
-Rating: 4.82 (Ranked 62)  
+Rating: 4.82 (Ranked 63)  
 Number of Ratings: 9,492  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Beatmaker | 0.10% | ~25 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,729 (Ranked 20)  
+Progressed: 715,731 (Ranked 20)  
 Completed: 12,922 (1.81%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,10 +247,10 @@ Completed: 12,922 (1.81%) (Ranked 116)
 | 2023-10-14 | 715,681 | 12,920 |
 | 2023-10-15 | 715,704 | 12,921 |
 | 2023-10-16 | 715,718 | 12,922 |
-| 2023-10-17 | 715,729 | 12,922 |
+| 2023-10-17 | 715,731 | 12,922 |
 ## Awards
 Max (Great Boss Battles): 6,694  (Ranked 53)  
-Sum: 11,614 (Ranked 82)  
+Sum: 11,616 (Ranked 82)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
@@ -263,8 +263,8 @@ Diff (max vs sum): -29
 | This game has Amazing Characters | 554 |
 | This game is Highly Recommended | 552 |
 | This game has Unique Visuals | 524 |
+| This game has a Creative Community | 402 |
 | This game is Relaxing | 401 |
-| This game has a Creative Community | 400 |
 | This game has Obsessive Gameplay | 293 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -542,4 +542,4 @@ Diff (max vs sum): -29
 | 2023-10-14 | 4.82 | - | 6,675 | 11,578 |
 | 2023-10-15 | 4.82 | - | 6,684 | 11,593 |
 | 2023-10-16 | 4.82 | - | 6,690 | 11,605 |
-| 2023-10-17 | 4.82 | - | 6,694 | 11,614 |
+| 2023-10-17 | 4.82 | - | 6,694 | 11,616 |

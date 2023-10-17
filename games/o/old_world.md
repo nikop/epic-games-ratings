@@ -6,11 +6,11 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Explorer | 3.00% | ~443 |
 | Settler | 3.00% | ~443 |
 | Play a Single Player Game | 3.00% | ~443 |
 | Able | 2.00% | ~295 |
 | Architect | 2.00% | ~295 |
-| Explorer | 2.00% | ~295 |
 | Good | 2.00% | ~295 |
 | Intrepid | 2.00% | ~295 |
 | Learned | 2.00% | ~295 |
@@ -78,6 +78,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Victorious | 0.70% | ~103 |
 | Mausoleum | 0.70% | ~103 |
 | Learn to Play 3 | 0.70% | ~103 |
+| Power to the People | 0.70% | ~103 |
 | Points Victory | 0.70% | ~103 |
 | Invincible | 0.60% | ~89 |
 | Lion | 0.60% | ~89 |
@@ -86,7 +87,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Circus Maximus | 0.60% | ~89 |
 | Pantheon | 0.60% | ~89 |
 | Greece | 0.60% | ~89 |
-| Power to the People | 0.60% | ~89 |
 | Persian Paganism | 0.60% | ~89 |
 | Building Wonders | 0.60% | ~89 |
 | Legalism | 0.60% | ~89 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,764 (Ranked 135)  
+Progressed: 14,766 (Ranked 135)  
 Completed: 5 (0.03%) (Ranked 284)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -529,7 +529,7 @@ Completed: 5 (0.03%) (Ranked 284)
 | 2023-10-14 | 14,699 | 5 |
 | 2023-10-15 | 14,732 | 5 |
 | 2023-10-16 | 14,747 | 5 |
-| 2023-10-17 | 14,764 | 5 |
+| 2023-10-17 | 14,766 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,842 (Ranked 210)  

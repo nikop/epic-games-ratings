@@ -815,9 +815,9 @@
       "ID": "StellarDismantler",
       "SetID": "1jeo1g7",
       "Name": "Stellar Dismantler",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "StellarHaste",
@@ -935,9 +935,9 @@
       "ID": "WaveBender",
       "SetID": "1jeo1g7",
       "Name": "Wave Bender",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "WildsKeeper",
@@ -1102,8 +1102,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-10-17T14:06:39.1332765+00:00",
+  "LastChanged_Achievements": "2023-10-17T15:05:41.3735989+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:31.1237479+00:00",
-  "LastUpdate_Ratings": "2023-10-17T14:01:11.9519299+00:00",
-  "LastUpdate_Achievements": "2023-10-17T14:06:39.1333982+00:00"
+  "LastUpdate_Ratings": "2023-10-17T15:00:10.0983058+00:00",
+  "LastUpdate_Achievements": "2023-10-17T15:05:41.3737154+00:00"
 }

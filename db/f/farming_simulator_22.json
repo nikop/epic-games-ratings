@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 33,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 297,
-  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -10129,10 +10129,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 41321,
       "NumberOfAwardsMax": 5202
+    },
+    {
+      "Time": "2023-10-17T14:59:00.2402769+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 41323,
+      "NumberOfAwardsMax": 5202
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 41321,
+  "NumberOfAwards": 41323,
   "NumberOfAwardsMax": 5202,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -10176,7 +10182,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 4061
+      "Count": 4063
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -10209,9 +10215,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 50084,
+  "EOS_Progressed": 50085,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 386,
+  "EOS_NewPlayers": 385,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -26344,6 +26350,11 @@
       "Time": "2023-10-17T13:14:09.2254226+00:00",
       "NumProgressed": 50084,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-17T15:06:46.4397577+00:00",
+      "NumProgressed": 50085,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -26443,7 +26454,7 @@
       "Name": "You wood not believe it",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 11018
+      "UsersEstimate": 11019
     },
     {
       "ID": "CutTreeFirst",
@@ -26451,7 +26462,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 30551
+      "UsersEstimate": 30552
     },
     {
       "ID": "DeliveryGrapes",
@@ -26483,7 +26494,7 @@
       "Name": "The plot thickens",
       "Percentage": 16,
       "XP": 55,
-      "UsersEstimate": 8013
+      "UsersEstimate": 8014
     },
     {
       "ID": "FertilizeFirst",
@@ -26491,7 +26502,7 @@
       "Name": "Plant get enough",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 30050
+      "UsersEstimate": 30051
     },
     {
       "ID": "Harvested",
@@ -26499,7 +26510,7 @@
       "Name": "Large-scale supplier",
       "Percentage": 16,
       "XP": 55,
-      "UsersEstimate": 8013
+      "UsersEstimate": 8014
     },
     {
       "ID": "HarvestedFirst",
@@ -26507,7 +26518,7 @@
       "Name": "Own use",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 37563
+      "UsersEstimate": 37564
     },
     {
       "ID": "HorseJumps",
@@ -26595,7 +26606,7 @@
       "Name": "Well-Oiled Machine",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 8013
+      "UsersEstimate": 8014
     },
     {
       "ID": "NumVehiclesLarge",
@@ -26603,7 +26614,7 @@
       "Name": "Vehicle fleet",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 11018
+      "UsersEstimate": 11019
     },
     {
       "ID": "NumVehiclesSmall",
@@ -26643,7 +26654,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 31553
+      "UsersEstimate": 31554
     },
     {
       "ID": "Stones",
@@ -26659,7 +26670,7 @@
       "Name": "Field Trip",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 21536
+      "UsersEstimate": 21537
     },
     {
       "ID": "TruckDriving",
@@ -26667,7 +26678,7 @@
       "Name": "Long haul",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 8013
+      "UsersEstimate": 8014
     },
     {
       "ID": "VehicleRepaint",
@@ -26698,15 +26709,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 50084,
+      "Progressed": 50085,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
-  "LastChanged": "2023-10-17T13:59:41.2794059+00:00",
-  "LastChanged_Achievements": "2023-10-17T14:07:57.9363672+00:00",
+  "LastChanged": "2023-10-17T14:59:00.2402768+00:00",
+  "LastChanged_Achievements": "2023-10-17T15:06:46.439757+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:17.6227562+00:00",
-  "LastUpdate_Ratings": "2023-10-17T13:59:41.2794074+00:00",
-  "LastUpdate_Achievements": "2023-10-17T14:07:57.9364977+00:00"
+  "LastUpdate_Ratings": "2023-10-17T14:59:00.2402773+00:00",
+  "LastUpdate_Achievements": "2023-10-17T15:06:46.4399107+00:00"
 }

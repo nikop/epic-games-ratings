@@ -1875,9 +1875,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14764,
+  "EOS_Progressed": 14766,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 191,
+  "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14090,6 +14090,11 @@
       "Time": "2023-10-17T14:09:06.3849442+00:00",
       "NumProgressed": 14764,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-17T15:08:18.2950216+00:00",
+      "NumProgressed": 14766,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -14531,9 +14536,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_EXPLORER",
       "SetID": "9201eeb",
       "Name": "Explorer",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 295
+      "UsersEstimate": 443
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD",
@@ -15859,9 +15864,9 @@
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
       "SetID": "9201eeb",
       "Name": "Power to the People",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 103
     },
     {
       "ID": "ACHIEVEMENT_PUNIC_WARS",
@@ -16836,21 +16841,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14764,
+      "Progressed": 14766,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14764,
+      "Progressed": 14766,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-16T22:57:40.964526+00:00",
-  "LastChanged_Achievements": "2023-10-17T14:09:06.3849427+00:00",
+  "LastChanged_Achievements": "2023-10-17T15:08:18.2950208+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:21.7880328+00:00",
-  "LastUpdate_Ratings": "2023-10-17T13:57:57.4316335+00:00",
-  "LastUpdate_Achievements": "2023-10-17T14:09:06.3863066+00:00"
+  "LastUpdate_Ratings": "2023-10-17T14:57:35.4054534+00:00",
+  "LastUpdate_Achievements": "2023-10-17T15:08:18.296162+00:00"
 }

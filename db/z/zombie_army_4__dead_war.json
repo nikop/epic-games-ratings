@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 183,
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 268,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
@@ -2181,9 +2181,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 43653,
+  "EOS_Progressed": 43654,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -7726,6 +7726,11 @@
       "Time": "2023-10-17T01:50:43.9169867+00:00",
       "NumProgressed": 43653,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-10-17T15:05:58.1898827+00:00",
+      "NumProgressed": 43654,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -7833,7 +7838,7 @@
       "Name": "I\u0027m going deeper underground",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 6111
+      "UsersEstimate": 6112
     },
     {
       "ID": "SE_COMPLETE_GENOA",
@@ -7953,7 +7958,7 @@
       "Name": "Weird science",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 19207
+      "UsersEstimate": 19208
     },
     {
       "ID": "SE_COMPLETE_ST_PETERS",
@@ -8001,7 +8006,7 @@
       "Name": "Kill of the week",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13532
+      "UsersEstimate": 13533
     },
     {
       "ID": "SE_ELECTROCUTE_X_ZOMBIES_WITH_ONE_SPECIAL_MELEE",
@@ -8033,7 +8038,7 @@
       "Name": "What did you say, Blain?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 18334
+      "UsersEstimate": 18335
     },
     {
       "ID": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
@@ -8041,7 +8046,7 @@
       "Name": "Gold",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 21826
+      "UsersEstimate": 21827
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -8049,7 +8054,7 @@
       "Name": "Come and get it! It\u0027s a running buffet!",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 16588
+      "UsersEstimate": 16589
     },
     {
       "ID": "SE_GET_X_HEADSHOT_STREAK",
@@ -8097,7 +8102,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 24882
+      "UsersEstimate": 24883
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -8121,7 +8126,7 @@
       "Name": "Got your back",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 11786
+      "UsersEstimate": 11787
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_WITHOUT_MISS",
@@ -8137,7 +8142,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 28811
+      "UsersEstimate": 28812
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -8193,7 +8198,7 @@
       "Name": "Blood splattered",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 28374
+      "UsersEstimate": 28375
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -8264,15 +8269,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 43653,
+      "Progressed": 43654,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-10-17T05:59:58.4758626+00:00",
-  "LastChanged_Achievements": "2023-10-17T14:06:58.3075893+00:00",
+  "LastChanged_Achievements": "2023-10-17T15:05:58.1898819+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:21.2000453+00:00",
-  "LastUpdate_Ratings": "2023-10-17T14:00:40.0519316+00:00",
-  "LastUpdate_Achievements": "2023-10-17T14:06:58.3076845+00:00"
+  "LastUpdate_Ratings": "2023-10-17T14:59:42.8459156+00:00",
+  "LastUpdate_Achievements": "2023-10-17T15:05:58.1899781+00:00"
 }

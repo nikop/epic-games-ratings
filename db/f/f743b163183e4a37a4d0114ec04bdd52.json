@@ -2,9 +2,9 @@
   "ID": "f743b163183e4a37a4d0114ec04bdd52",
   "Name": "Heard of the Story?",
   "ProductSlug": "heard-of-the-story-ff3758",
-  "Ranking_EOS_Progress": 671,
+  "Ranking_EOS_Progress": 672,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 389,
+  "Ranking_EOS_NewPlayers": 387,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-09-14T17:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-12T15:57:01.7908028+00:00",
-  "LastUpdate_Ratings": "2023-10-17T14:00:06.7205054+00:00",
-  "LastUpdate_Achievements": "2023-10-17T14:06:49.8875075+00:00"
+  "LastUpdate_Ratings": "2023-10-17T14:59:17.8358665+00:00",
+  "LastUpdate_Achievements": "2023-10-17T15:05:50.2394129+00:00"
 }

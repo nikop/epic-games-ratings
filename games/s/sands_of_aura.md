@@ -6,6 +6,7 @@
 | ---- | ---------- | ----- |
 | Setting Sail | 67.00% | ~4 |
 | A Small Thirsty Thing | 17.00% | ~1 |
+| Spirit Within | 17.00% | ~1 |
 | Rain Must Fall | 0.00% | ~0 |
 | No Salvation | 0.00% | ~0 |
 | Overboard | 0.00% | ~0 |
@@ -55,7 +56,6 @@
 | Leisis Bless You | 0.00% | ~0 |
 | Advanced Armaments | 0.00% | ~0 |
 | Artisan Armaments | 0.00% | ~0 |
-| Spirit Within | 0.00% | ~0 |
 | Reaching Vines | 0.00% | ~0 |
 | Holding Out | 0.00% | ~0 |
 | Transformative Nature | 0.00% | ~0 |

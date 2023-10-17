@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 442,
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewPlayers": 79,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 249369,
+  "EOS_Progressed": 249376,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 725,
+  "EOS_NewPlayers": 730,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20548,6 +20548,11 @@
       "Time": "2023-10-17T14:09:35.7430965+00:00",
       "NumProgressed": 249369,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-17T15:09:11.9722105+00:00",
+      "NumProgressed": 249376,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -20559,7 +20564,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 67330
+      "UsersEstimate": 67332
     },
     {
       "ID": "ACH_AON",
@@ -20591,7 +20596,7 @@
       "Name": "Catnip",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 4987
+      "UsersEstimate": 4988
     },
     {
       "ID": "ACH_COLLECTOR",
@@ -20599,7 +20604,7 @@
       "Name": "Collector",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 29924
+      "UsersEstimate": 29925
     },
     {
       "ID": "ACH_ENJOY",
@@ -20615,7 +20620,7 @@
       "Name": "Gentleman\u0027s classic",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4987
+      "UsersEstimate": 4988
     },
     {
       "ID": "ACH_GUNSGUNS",
@@ -20623,7 +20628,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 32418
+      "UsersEstimate": 32419
     },
     {
       "ID": "ACH_HATTRICK",
@@ -20639,7 +20644,7 @@
       "Name": "Elementary!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 22443
+      "UsersEstimate": 22444
     },
     {
       "ID": "ACH_HIDEANDSEEK",
@@ -20687,7 +20692,7 @@
       "Name": "Irondec",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 997
+      "UsersEstimate": 998
     },
     {
       "ID": "ACH_ISRIFT",
@@ -20695,7 +20700,7 @@
       "Name": "Is that a rift?",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4987
+      "UsersEstimate": 4988
     },
     {
       "ID": "ACH_ISTARTED",
@@ -20703,7 +20708,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 69823
+      "UsersEstimate": 69825
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -20711,7 +20716,7 @@
       "Name": "It\u0027s alive!",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 4987
+      "UsersEstimate": 4988
     },
     {
       "ID": "ACH_ITSALWAYSBLUE",
@@ -20735,7 +20740,7 @@
       "Name": "LET ME OUT!",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 997
+      "UsersEstimate": 998
     },
     {
       "ID": "ACH_LETSABLE",
@@ -20743,7 +20748,7 @@
       "Name": "Un-bear-able",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 997
+      "UsersEstimate": 998
     },
     {
       "ID": "ACH_LETSANOTHER",
@@ -20759,7 +20764,7 @@
       "Name": "Enjoy the beach",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4987
+      "UsersEstimate": 4988
     },
     {
       "ID": "ACH_LETSCHAINS",
@@ -20775,7 +20780,7 @@
       "Name": "Write that down",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 59849
+      "UsersEstimate": 59850
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -20791,7 +20796,7 @@
       "Name": "Good listener",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 12468
+      "UsersEstimate": 12469
     },
     {
       "ID": "ACH_LETSOTHERTHINKING",
@@ -20807,7 +20812,7 @@
       "Name": "Rinse and repeat",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4987
+      "UsersEstimate": 4988
     },
     {
       "ID": "ACH_LETSSCOFIELD",
@@ -20815,7 +20820,7 @@
       "Name": "Mama, I\u0027m a criminal",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4987
+      "UsersEstimate": 4988
     },
     {
       "ID": "ACH_LETSSMILE",
@@ -20839,7 +20844,7 @@
       "Name": "Me smart",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 14962
+      "UsersEstimate": 14963
     },
     {
       "ID": "ACH_MEMORY5",
@@ -20879,7 +20884,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 62342
+      "UsersEstimate": 62344
     },
     {
       "ID": "ACH_SOREAD",
@@ -20927,7 +20932,7 @@
       "Name": "Trash compactor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 14962
+      "UsersEstimate": 14963
     },
     {
       "ID": "ACH_TROLLKING",
@@ -20935,7 +20940,7 @@
       "Name": "Never gonna give you up",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4987
+      "UsersEstimate": 4988
     },
     {
       "ID": "ACH_VALEDICTORIAN",
@@ -20943,7 +20948,7 @@
       "Name": "Valedictorian",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 12468
+      "UsersEstimate": 12469
     },
     {
       "ID": "ACH_WAKEUP",
@@ -20974,7 +20979,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 249369,
+      "Progressed": 249376,
       "Completed": 7
     }
   ],
@@ -20982,8 +20987,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-10-15T11:58:28.2667382+00:00",
-  "LastChanged_Achievements": "2023-10-17T14:09:35.7430959+00:00",
+  "LastChanged_Achievements": "2023-10-17T15:09:11.9722098+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:29.8544864+00:00",
-  "LastUpdate_Ratings": "2023-10-17T13:58:58.8095921+00:00",
-  "LastUpdate_Achievements": "2023-10-17T14:09:35.7432592+00:00"
+  "LastUpdate_Ratings": "2023-10-17T14:58:26.36157+00:00",
+  "LastUpdate_Achievements": "2023-10-17T15:09:11.9723742+00:00"
 }

@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 431,
+  "EOS_Progressed": 432,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -1356,6 +1356,11 @@
       "Time": "2023-10-17T10:06:04.0784791+00:00",
       "NumProgressed": 431,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-17T15:05:28.3668208+00:00",
+      "NumProgressed": 432,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-04T13:10:46.6045542+00:00",
@@ -1416,7 +1421,7 @@
       "Name": "I love customers",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "ACH_END_FIRST_TUTORIAL",
@@ -1430,9 +1435,9 @@
       "ID": "ACH_END_FIRST_WORKBENCH_MISSION",
       "SetID": "al4k4nh",
       "Name": "I can fix that",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 319
+      "UsersEstimate": 324
     },
     {
       "ID": "ACH_END_MAIL_MISSION_FAST",
@@ -1448,7 +1453,7 @@
       "Name": "First shock",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "ACH_FIX_LIGHT_SWITCHES",
@@ -1512,7 +1517,7 @@
       "Name": "Home sweet home",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "ACH_PLACE_MANY_ITEMS_IN_OFFICE",
@@ -1536,7 +1541,7 @@
       "Name": "Unpacked",
       "Percentage": 98,
       "XP": 15,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "ACH_SHOCK_ON_MISSION",
@@ -1575,14 +1580,14 @@
     {
       "ID": "al4k4nh",
       "IsBase": true,
-      "Progressed": 431,
+      "Progressed": 432,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-10-17T14:06:22.8012717+00:00",
+  "LastChanged_Achievements": "2023-10-17T15:05:28.3668201+00:00",
   "LastUpdate_AppInfo": "2023-10-11T21:57:08.1110883+00:00",
-  "LastUpdate_Ratings": "2023-10-17T14:00:55.5783198+00:00",
-  "LastUpdate_Achievements": "2023-10-17T14:06:22.801297+00:00"
+  "LastUpdate_Ratings": "2023-10-17T14:59:55.6978378+00:00",
+  "LastUpdate_Achievements": "2023-10-17T15:05:28.3668467+00:00"
 }

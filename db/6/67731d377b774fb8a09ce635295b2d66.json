@@ -2,9 +2,9 @@
   "ID": "67731d377b774fb8a09ce635295b2d66",
   "Name": "Another Earth",
   "ProductSlug": "anotherearth-ee1a1d",
-  "Ranking_EOS_Progress": 671,
+  "Ranking_EOS_Progress": 672,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 389,
+  "Ranking_EOS_NewPlayers": 387,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-10-13T03:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-12T05:57:11.4865375+00:00",
-  "LastUpdate_Ratings": "2023-10-17T13:59:52.3361602+00:00",
-  "LastUpdate_Achievements": "2023-10-17T14:08:04.1059892+00:00"
+  "LastUpdate_Ratings": "2023-10-17T14:59:08.1530255+00:00",
+  "LastUpdate_Achievements": "2023-10-17T15:06:51.3820694+00:00"
 }

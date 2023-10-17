@@ -5,27 +5,27 @@ Rating: 4.45 (Ranked 645)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~145,725 |
-| FIRST BLOOD | 40.00% | ~129,534 |
-| KEVIN! | 30.00% | ~97,150 |
-| JACK OF ALL TRADES | 23.00% | ~74,482 |
-| CRIMINAL | 19.00% | ~61,528 |
-| GRANDMA WOULD BE PROUD | 11.00% | ~35,622 |
-| WITHOUT BREAKING A SWEAT | 9.00% | ~29,145 |
-| HONORS STUDENT | 7.00% | ~22,668 |
-| BUTCHER | 5.00% | ~16,192 |
-| RAMBO | 5.00% | ~16,192 |
-| INDIVIDUAL APPROACH | 4.00% | ~12,953 |
-| CELEBRITY | 3.00% | ~9,715 |
-| HELL'S KITCHEN | 3.00% | ~9,715 |
-| GRATITUDE | 2.00% | ~6,477 |
-| MARTYR | 2.00% | ~6,477 |
-| PATTY-KILLER | 1.00% | ~3,238 |
-| PRUDENT | 0.90% | ~2,915 |
-| GOURMET | 0.80% | ~2,591 |
-| LAW-ABIDING CITIZEN | 0.80% | ~2,591 |
-| EXPERIMENTALIST | 0.70% | ~2,267 |
-| SCATTERBRAIN | 0.40% | ~1,295 |
+| MASTER CHEF | 45.00% | ~145,804 |
+| FIRST BLOOD | 40.00% | ~129,603 |
+| KEVIN! | 30.00% | ~97,202 |
+| JACK OF ALL TRADES | 23.00% | ~74,522 |
+| CRIMINAL | 19.00% | ~61,562 |
+| GRANDMA WOULD BE PROUD | 11.00% | ~35,641 |
+| WITHOUT BREAKING A SWEAT | 9.00% | ~29,161 |
+| HONORS STUDENT | 7.00% | ~22,681 |
+| BUTCHER | 5.00% | ~16,200 |
+| RAMBO | 5.00% | ~16,200 |
+| INDIVIDUAL APPROACH | 4.00% | ~12,960 |
+| CELEBRITY | 3.00% | ~9,720 |
+| HELL'S KITCHEN | 3.00% | ~9,720 |
+| GRATITUDE | 2.00% | ~6,480 |
+| MARTYR | 2.00% | ~6,480 |
+| PATTY-KILLER | 1.00% | ~3,240 |
+| PRUDENT | 0.90% | ~2,916 |
+| GOURMET | 0.80% | ~2,592 |
+| LAW-ABIDING CITIZEN | 0.80% | ~2,592 |
+| EXPERIMENTALIST | 0.70% | ~2,268 |
+| SCATTERBRAIN | 0.40% | ~1,296 |
 | HIGH TECHNOLOGIES | 0.30% | ~972 |
 | TASTE UNTASTY | 0.30% | ~972 |
 | CORRUPTIONIST | 0.10% | ~324 |
@@ -34,7 +34,7 @@ Rating: 4.45 (Ranked 645)
 | MISTER ALL THUMBS | 0.10% | ~324 |
 | TRAVELER | 0.10% | ~324 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 323,834 (Ranked 45)  
+Progressed: 324,008 (Ranked 45)  
 Completed: 14 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,7 +141,7 @@ Completed: 14 (0.00%) (Ranked 315)
 | 2023-10-14 | 314,021 | 12 |
 | 2023-10-15 | 319,249 | 12 |
 | 2023-10-16 | 322,358 | 12 |
-| 2023-10-17 | 323,834 | 14 |
+| 2023-10-17 | 324,008 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

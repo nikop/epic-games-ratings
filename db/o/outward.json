@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 368,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -514,9 +514,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3587,
+  "EOS_Progressed": 3588,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5209,6 +5209,11 @@
       "Time": "2023-10-17T08:08:11.684985+00:00",
       "NumProgressed": 3587,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-17T15:06:42.5579213+00:00",
+      "NumProgressed": 3588,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -5236,7 +5241,7 @@
       "Name": "Ancestor\u0027s Pride",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ApexPredator_27",
@@ -5260,7 +5265,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1578
+      "UsersEstimate": 1579
     },
     {
       "ID": "CrowdPleaser",
@@ -5276,7 +5281,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "Eureka_23",
@@ -5300,7 +5305,7 @@
       "Name": "For All Aurai",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "GiftfromtheAncestors_34",
@@ -5380,7 +5385,7 @@
       "Name": "Memory of a legend",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "PerfectDefense_31",
@@ -5404,7 +5409,7 @@
       "Name": "Ready for Summer",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1865
+      "UsersEstimate": 1866
     },
     {
       "ID": "ReadyforWinter_42",
@@ -5436,7 +5441,7 @@
       "Name": "Strange amalgams",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "Tapped_22",
@@ -5540,7 +5545,7 @@
       "Name": "Venture Outward",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 2726
+      "UsersEstimate": 2727
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -5555,15 +5560,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3587,
+      "Progressed": 3588,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-17T17:59:20.5916626+00:00",
-  "LastChanged_Achievements": "2023-10-17T14:07:52.9952852+00:00",
+  "LastChanged_Achievements": "2023-10-17T15:06:42.5579203+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:37.8294259+00:00",
-  "LastUpdate_Ratings": "2023-10-17T14:01:37.5605108+00:00",
-  "LastUpdate_Achievements": "2023-10-17T14:07:52.9953511+00:00"
+  "LastUpdate_Ratings": "2023-10-17T15:00:29.4925718+00:00",
+  "LastUpdate_Achievements": "2023-10-17T15:06:42.5579745+00:00"
 }

@@ -5,9 +5,9 @@
   "Ranking_Rating": 628,
   "Ranking_Popularity": 89,
   "Ranking_PopularitySum": 100,
-  "Ranking_EOS_Progress": 671,
+  "Ranking_EOS_Progress": 672,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 389,
+  "Ranking_EOS_NewPlayers": 387,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-10-12T15:00:00+00:00",
@@ -5391,18 +5391,24 @@
       "Rating": 4.46,
       "NumberOfAwards": 8072,
       "NumberOfAwardsMax": 3634
+    },
+    {
+      "Time": "2023-10-17T14:57:26.6650381+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 8074,
+      "NumberOfAwardsMax": 3636
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8072,
-  "NumberOfAwardsMax": 3634,
+  "NumberOfAwards": 8074,
+  "NumberOfAwardsMax": 3636,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 3634
+      "Count": 3636
     },
     {
       "Text": "This game is Relaxing",
@@ -5458,8 +5464,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:46.310125+00:00",
-  "LastChanged": "2023-10-16T16:57:29.2422827+00:00",
+  "LastChanged": "2023-10-17T14:57:26.6650379+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:49.3018252+00:00",
-  "LastUpdate_Ratings": "2023-10-17T13:57:45.9479102+00:00",
-  "LastUpdate_Achievements": "2023-10-17T14:06:39.6296369+00:00"
+  "LastUpdate_Ratings": "2023-10-17T14:57:26.6650385+00:00",
+  "LastUpdate_Achievements": "2023-10-17T15:05:41.7697938+00:00"
 }

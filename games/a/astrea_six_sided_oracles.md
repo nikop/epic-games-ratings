@@ -16,9 +16,9 @@
 | Sanctuary Guardian | 26.00% | ~15 |
 | Wild's Keeper | 26.00% | ~15 |
 | Mind Illuminator | 24.00% | ~14 |
+| Stellar Dismantler | 24.00% | ~14 |
 | Behenian Champion | 24.00% | ~14 |
 | Loyal Partner | 22.00% | ~13 |
-| Stellar Dismantler | 22.00% | ~13 |
 | Aquarian Champion | 22.00% | ~13 |
 | Anomaly Destroyer | 21.00% | ~12 |
 | Shard Spender | 19.00% | ~11 |
@@ -29,8 +29,8 @@
 | The Corruption Goddess | 16.00% | ~9 |
 | The Goddes Avatar | 16.00% | ~9 |
 | Unbeatable | 14.00% | ~8 |
+| Wave Bender | 12.00% | ~7 |
 | Favored by the Cosmos | 10.00% | ~6 |
-| Wave Bender | 10.00% | ~6 |
 | Lacertian Hero | 10.00% | ~6 |
 | Anomaly Control | 9.00% | ~5 |
 | Can't touch this | 9.00% | ~5 |

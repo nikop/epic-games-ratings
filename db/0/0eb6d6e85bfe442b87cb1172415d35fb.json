@@ -4,7 +4,7 @@
   "ProductSlug": "airport-ceo-442ecc",
   "Ranking_EOS_Progress": 460,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_NewPlayers": 290,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-09-01T10:00:00+00:00",
@@ -445,9 +445,9 @@
       "ID": "TheLuxuryTrap",
       "SetID": "d11cl5p",
       "Name": "The luxury trap",
-      "Percentage": 8,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "TheScientist",
@@ -500,8 +500,8 @@
   ],
   "FirstSeen": "2023-09-02T13:02:28.4911547+00:00",
   "FirstSeenAchievements": "2023-07-27T10:02:52.8790419+00:00",
-  "LastChanged_Achievements": "2023-10-17T14:04:44.8749708+00:00",
+  "LastChanged_Achievements": "2023-10-17T15:04:07.8067246+00:00",
   "LastUpdate_AppInfo": "2023-10-11T15:57:05.906412+00:00",
-  "LastUpdate_Ratings": "2023-10-17T14:00:43.5455073+00:00",
-  "LastUpdate_Achievements": "2023-10-17T14:04:44.8749971+00:00"
+  "LastUpdate_Ratings": "2023-10-17T14:59:46.0839585+00:00",
+  "LastUpdate_Achievements": "2023-10-17T15:04:07.8067508+00:00"
 }

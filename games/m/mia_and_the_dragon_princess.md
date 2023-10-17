@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Glass Act | 38.00% | ~30 |
 | Relight my Cannon | 38.00% | ~30 |
-| Tour Guide Extraordinaire | 35.00% | ~28 |
+| Tour Guide Extraordinaire | 36.00% | ~29 |
 | Snitch | 25.00% | ~20 |
 | Puzzle Prodigy | 24.00% | ~19 |
 | Explosive End | 23.00% | ~18 |

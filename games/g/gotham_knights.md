@@ -5,11 +5,11 @@ Rating: 4.18 (Ranked 901)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~38,271 |
-| Har, Har, Har, Very Funny | 35.00% | ~25,760 |
-| Loose Ends | 34.00% | ~25,024 |
-| To the Victor Go the Spoils | 29.00% | ~21,344 |
-| Knighthood | 28.00% | ~20,608 |
+| First Step Into the Knight | 52.00% | ~38,273 |
+| Har, Har, Har, Very Funny | 35.00% | ~25,761 |
+| Loose Ends | 34.00% | ~25,025 |
+| To the Victor Go the Spoils | 29.00% | ~21,345 |
+| Knighthood | 28.00% | ~20,609 |
 | Get ReQ'd | 25.00% | ~18,400 |
 | Whispered Words | 25.00% | ~18,400 |
 | The Batman Family | 23.00% | ~16,928 |
@@ -43,10 +43,10 @@ Rating: 4.18 (Ranked 901)
 | Expert Crime Fighter | 6.00% | ~4,416 |
 | A Worthy Successor | 6.00% | ~4,416 |
 | Dressed to Impress | 4.00% | ~2,944 |
-| He'd Be So Proud of You | 3.00% | ~2,208 |
 | A Momentum Occasion | 3.00% | ~2,208 |
 | Bat Out of Hell | 3.00% | ~2,208 |
 | Practice Makes Perfect | 2.00% | ~1,472 |
+| He'd Be So Proud of You | 2.00% | ~1,472 |
 | Talonted | 1.00% | ~736 |
 | The Man-Bat Family | 1.00% | ~736 |
 | Batarang Collector | 1.00% | ~736 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 901)
 | Element of Surprise | 0.20% | ~88 |
 | It's Nice to Be Wanted | 0.20% | ~88 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,599 (Ranked 91)  
+Progressed: 73,602 (Ranked 91)  
 Completed: 121 (0.16%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 121 (0.16%) (Ranked 232)
 | 2023-10-14 | 73,512 | 121 |
 | 2023-10-15 | 73,552 | 121 |
 | 2023-10-16 | 73,582 | 121 |
-| 2023-10-17 | 73,599 | 121 |
+| 2023-10-17 | 73,602 | 121 |
 ## Awards
 Max (Great Boss Battles): 2,834  (Ranked 97)  
 Sum: 4,759 (Ranked 139)  

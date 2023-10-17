@@ -1778,10 +1778,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 1569,
       "NumberOfAwardsMax": 197
+    },
+    {
+      "Time": "2023-10-17T14:59:20.0332192+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 1570,
+      "NumberOfAwardsMax": 197
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1569,
+  "NumberOfAwards": 1570,
   "NumberOfAwardsMax": 197,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1861,12 +1867,12 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 107
+      "Count": 108
     }
   ],
-  "EOS_Progressed": 271936,
+  "EOS_Progressed": 271947,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1775,
+  "EOS_NewPlayers": 1769,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22324,6 +22330,11 @@
       "Time": "2023-10-17T14:05:09.129559+00:00",
       "NumProgressed": 271936,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-17T15:04:27.8749358+00:00",
+      "NumProgressed": 271947,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -22383,7 +22394,7 @@
       "Name": "Contender",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 27194
+      "UsersEstimate": 27195
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -22423,7 +22434,7 @@
       "Name": "First but not Last",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 10877
+      "UsersEstimate": 10878
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -22495,7 +22506,7 @@
       "Name": "I Found it!",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 27194
+      "UsersEstimate": 27195
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -22559,7 +22570,7 @@
       "Name": "Ball Launched",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 222988
+      "UsersEstimate": 222997
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -22567,22 +22578,22 @@
       "Name": "I know the Rules",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 95178
+      "UsersEstimate": 95181
     }
   ],
   "AchievementSets": [
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 271936,
+      "Progressed": 271947,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
-  "LastChanged": "2023-10-17T00:01:33.5002622+00:00",
-  "LastChanged_Achievements": "2023-10-17T14:05:09.1295585+00:00",
+  "LastChanged": "2023-10-17T14:59:20.033219+00:00",
+  "LastChanged_Achievements": "2023-10-17T15:04:27.8749352+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:09.5878596+00:00",
-  "LastUpdate_Ratings": "2023-10-17T14:00:09.3407687+00:00",
-  "LastUpdate_Achievements": "2023-10-17T14:05:09.1297004+00:00"
+  "LastUpdate_Ratings": "2023-10-17T14:59:20.0332197+00:00",
+  "LastUpdate_Achievements": "2023-10-17T15:04:27.8750629+00:00"
 }

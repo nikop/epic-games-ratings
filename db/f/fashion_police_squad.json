@@ -2,9 +2,9 @@
   "ID": "65d31d60510a49629a0b52e93da8416a",
   "Name": "Fashion Police Squad",
   "ProductSlug": "fashion-police-squad",
-  "Ranking_EOS_Progress": 671,
+  "Ranking_EOS_Progress": 672,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 389,
+  "Ranking_EOS_NewPlayers": 387,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-08-15T15:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:38.1198041+00:00",
   "LastChanged": "2023-03-31T05:58:38.1198042+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:07.4018858+00:00",
-  "LastUpdate_Ratings": "2023-10-17T13:57:41.6685066+00:00",
-  "LastUpdate_Achievements": "2023-10-17T14:08:01.6664577+00:00"
+  "LastUpdate_Ratings": "2023-10-17T14:57:23.4586569+00:00",
+  "LastUpdate_Achievements": "2023-10-17T15:06:49.5549337+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "708f57aaa04b42ef885be16c8288f0ac",
   "Name": "Ghostrunner 2",
   "ProductSlug": "ghostrunner-2",
-  "Ranking_EOS_Progress": 671,
+  "Ranking_EOS_Progress": 672,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 389,
+  "Ranking_EOS_NewPlayers": 387,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -23,9 +23,283 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
+  "TotalAchievements": 34,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "AllJackedUp",
+      "SetID": "acc6ea0",
+      "Name": "All Jacked Up",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BabySteps",
+      "SetID": "acc6ea0",
+      "Name": "Baby Steps",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BeLikeWater",
+      "SetID": "acc6ea0",
+      "Name": "Be Like Water",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Bikemaggedon",
+      "SetID": "acc6ea0",
+      "Name": "Bikemaggedon",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ChewingTheScenery",
+      "SetID": "acc6ea0",
+      "Name": "Chewing The Scenery",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ConnectionLost",
+      "SetID": "acc6ea0",
+      "Name": "Connection Lost",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Eavesdropper",
+      "SetID": "acc6ea0",
+      "Name": "Eavesdropper",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ExplosivePersonality",
+      "SetID": "acc6ea0",
+      "Name": "Explosive Personality",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FasterThanLight",
+      "SetID": "acc6ea0",
+      "Name": "Faster Than Light",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FirstTime",
+      "SetID": "acc6ea0",
+      "Name": "First Time?",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FuneralForTheDeath",
+      "SetID": "acc6ea0",
+      "Name": "Funeral Of The Death",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GarbageMan",
+      "SetID": "acc6ea0",
+      "Name": "Garbage Man",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Godrunner",
+      "SetID": "acc6ea0",
+      "Name": "Godrunner",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HalfManHalfMachine",
+      "SetID": "acc6ea0",
+      "Name": "Half Man, Half Machine",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HeJustWantedToHelp",
+      "SetID": "acc6ea0",
+      "Name": "He Just Wanted To Help",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "JackOfAllTrades",
+      "SetID": "acc6ea0",
+      "Name": "Jack Of All Trades",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LiveByTheSword",
+      "SetID": "acc6ea0",
+      "Name": "Live By The Sword",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MasterManipulator",
+      "SetID": "acc6ea0",
+      "Name": "Master Manipulator",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Nasty",
+      "SetID": "acc6ea0",
+      "Name": "Nasty!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NoMoreTotems",
+      "SetID": "acc6ea0",
+      "Name": "No More Totems",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NotLikeTheOthers",
+      "SetID": "acc6ea0",
+      "Name": "Not Like The Others",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "OneStarMan",
+      "SetID": "acc6ea0",
+      "Name": "One-Star Man",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ScorchSquad",
+      "SetID": "acc6ea0",
+      "Name": "Scorch Squaaad!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TheFloorIsLava",
+      "SetID": "acc6ea0",
+      "Name": "The Floor Is Lava",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TheOldSchoolWay",
+      "SetID": "acc6ea0",
+      "Name": "The Old-School Way",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TheQuarterback",
+      "SetID": "acc6ea0",
+      "Name": "The Quarterback",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ThisIsDharma",
+      "SetID": "acc6ea0",
+      "Name": "This... Is... Dharma!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TimeForYourNinjaRopeToshine",
+      "SetID": "acc6ea0",
+      "Name": "Time For Your Ninja Rope To Shine",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "UnResurrected",
+      "SetID": "acc6ea0",
+      "Name": "Un-Resurrected",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WereNotInKansasAnymore",
+      "SetID": "acc6ea0",
+      "Name": "We\u0027re Not In Kansas Anymore",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WhatsWithAllTheReferences",
+      "SetID": "acc6ea0",
+      "Name": "Digestive Issues",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "YoureStartingToGetIt",
+      "SetID": "acc6ea0",
+      "Name": "You\u0027re Starting To Get It",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "YouveReachedTheRightNumber",
+      "SetID": "acc6ea0",
+      "Name": "You\u0027ve Reached The Right Number",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "k01101110",
+      "SetID": "acc6ea0",
+      "Name": "01101110 01101001 01100011 01100101",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "acc6ea0",
@@ -35,8 +309,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
-  "LastChanged_Achievements": "2023-10-17T14:04:55.663573+00:00",
+  "LastChanged_Achievements": "2023-10-17T15:04:17.1318221+00:00",
   "LastUpdate_AppInfo": "2023-10-12T08:57:06.1856774+00:00",
-  "LastUpdate_Ratings": "2023-10-17T14:03:14.4324116+00:00",
-  "LastUpdate_Achievements": "2023-10-17T14:04:55.6635766+00:00"
+  "LastUpdate_Ratings": "2023-10-17T15:00:41.7217301+00:00",
+  "LastUpdate_Achievements": "2023-10-17T15:04:17.133542+00:00"
 }

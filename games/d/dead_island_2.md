@@ -5,8 +5,8 @@ Rating: 4.54 (Ranked 514)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 4.00% | ~27,882 |
-| Welcome To Hell-A | 4.00% | ~27,882 |
+| Hotel California | 4.00% | ~27,883 |
+| Welcome To Hell-A | 4.00% | ~27,883 |
 | Dr. Reed, I Presume? | 3.00% | ~20,912 |
 | Git Gutte! | 3.00% | ~20,912 |
 | Bookworm | 3.00% | ~20,912 |
@@ -37,9 +37,9 @@ Rating: 4.54 (Ranked 514)
 | Max Headroom | 1.00% | ~6,971 |
 | Go, Bobcats! | 1.00% | ~6,971 |
 | Rising Star | 1.00% | ~6,971 |
-| Smorgasbord | 0.90% | ~6,273 |
-| Not Even My Final Form | 0.80% | ~5,576 |
-| Internet Famous | 0.80% | ~5,576 |
+| Smorgasbord | 0.90% | ~6,274 |
+| Not Even My Final Form | 0.80% | ~5,577 |
+| Internet Famous | 0.80% | ~5,577 |
 | Make it So | 0.70% | ~4,879 |
 | On Safari | 0.70% | ~4,879 |
 | Variety is the Spice of Death | 0.70% | ~4,879 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 514)
 | Donk! | 0.20% | ~1,394 |
 | Bucket List | 0.10% | ~697 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 697,054 (Ranked 22)  
+Progressed: 697,071 (Ranked 22)  
 Completed: 2,236 (0.32%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,10 +231,10 @@ Completed: 2,236 (0.32%) (Ranked 200)
 | 2023-10-14 | 695,832 | 2,225 |
 | 2023-10-15 | 696,452 | 2,227 |
 | 2023-10-16 | 696,890 | 2,235 |
-| 2023-10-17 | 697,054 | 2,236 |
+| 2023-10-17 | 697,071 | 2,236 |
 ## Awards
 Max (Great Boss Battles): 6,477  (Ranked 56)  
-Sum: 9,688 (Ranked 91)  
+Sum: 9,690 (Ranked 91)  
 Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
@@ -246,7 +246,7 @@ Diff (max vs sum): -35
 | This game has Amazing Storytelling | 384 |
 | This game is Highly Recommended | 367 |
 | This game is Extremely Fun | 366 |
-| This game has Amazing Characters | 353 |
+| This game has Amazing Characters | 355 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -429,4 +429,4 @@ Diff (max vs sum): -35
 | 2023-10-14 | 4.54 | 6,442 | 9,627 |
 | 2023-10-15 | 4.54 | 6,462 | 9,657 |
 | 2023-10-16 | 4.54 | 6,462 | 9,671 |
-| 2023-10-17 | 4.54 | 6,477 | 9,688 |
+| 2023-10-17 | 4.54 | 6,477 | 9,690 |

@@ -2,9 +2,9 @@
   "ID": "e41161e83c9646bf81d973b3a83064ad",
   "Name": "Power to the People",
   "ProductSlug": "power-to-the-people-dfb0f9",
-  "Ranking_EOS_Progress": 671,
+  "Ranking_EOS_Progress": 672,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 389,
+  "Ranking_EOS_NewPlayers": 387,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-03-22T18:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:01.943637+00:00",
   "LastChanged": "2023-03-31T05:58:01.9436371+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:53.4936521+00:00",
-  "LastUpdate_Ratings": "2023-10-17T13:57:40.5859833+00:00",
-  "LastUpdate_Achievements": "2023-10-17T14:07:19.8013164+00:00"
+  "LastUpdate_Ratings": "2023-10-17T14:57:22.6149957+00:00",
+  "LastUpdate_Achievements": "2023-10-17T15:06:15.5737632+00:00"
 }

@@ -912,9 +912,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 6849,
+  "EOS_Progressed": 6850,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7062,6 +7062,11 @@
       "Time": "2023-10-17T14:05:51.0133869+00:00",
       "NumProgressed": 6849,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-17T15:05:02.0491554+00:00",
+      "NumProgressed": 6850,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -7113,7 +7118,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 4246
+      "UsersEstimate": 4247
     },
     {
       "ID": "Control_All_Relics",
@@ -7129,7 +7134,7 @@
       "Name": "Pirate Cleansing",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "Destroy_Any_Faction",
@@ -7177,7 +7182,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5342
+      "UsersEstimate": 5343
     },
     {
       "ID": "First_Race_Met",
@@ -7209,7 +7214,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5342
+      "UsersEstimate": 5343
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -7409,7 +7414,7 @@
       "Name": "Galactic War",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "War_Without_Translator",
@@ -7529,7 +7534,7 @@
       "Name": "Win as Terrans",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "Win_As_Torian",
@@ -7561,7 +7566,7 @@
       "Name": "Win a Battle",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 4520
+      "UsersEstimate": 4521
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -7601,7 +7606,7 @@
       "Name": "Win an Immense Game",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "Win_Influence",
@@ -7648,15 +7653,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6849,
+      "Progressed": 6850,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-10-17T14:05:51.0133863+00:00",
+  "LastChanged_Achievements": "2023-10-17T15:05:02.0491547+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:21.0832103+00:00",
-  "LastUpdate_Ratings": "2023-10-17T13:57:56.5966003+00:00",
-  "LastUpdate_Achievements": "2023-10-17T14:05:51.0134872+00:00"
+  "LastUpdate_Ratings": "2023-10-17T14:57:34.7705417+00:00",
+  "LastUpdate_Achievements": "2023-10-17T15:05:02.049268+00:00"
 }
