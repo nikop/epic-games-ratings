@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 14,
   "Ranking_EOS_Completed": 297,
   "Ranking_EOS_NewPlayers": 9,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2016-06-14T16:00:00+00:00",
@@ -11459,9 +11459,9 @@
       "Count": 25463
     }
   ],
-  "EOS_Progressed": 944701,
+  "EOS_Progressed": 944747,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 14429,
+  "EOS_NewPlayers": 14443,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -31894,6 +31894,11 @@
       "Time": "2023-10-17T05:04:11.368049+00:00",
       "NumProgressed": 944701,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-17T06:04:08.9123144+00:00",
+      "NumProgressed": 944747,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 229,
@@ -32041,7 +32046,7 @@
       "Name": "Handyman",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 18894
+      "UsersEstimate": 18895
     },
     {
       "ID": "ACH_019",
@@ -32049,7 +32054,7 @@
       "Name": "Nerves of steel",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 8502
+      "UsersEstimate": 8503
     },
     {
       "ID": "ACH_020",
@@ -32065,7 +32070,7 @@
       "Name": "Perfect Killing",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 8502
+      "UsersEstimate": 8503
     },
     {
       "ID": "ACH_022",
@@ -32073,7 +32078,7 @@
       "Name": "Zealous",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 18894
+      "UsersEstimate": 18895
     },
     {
       "ID": "ACH_023",
@@ -32081,7 +32086,7 @@
       "Name": "It wakes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 18894
+      "UsersEstimate": 18895
     },
     {
       "ID": "ACH_024",
@@ -32089,7 +32094,7 @@
       "Name": "Not half bad",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 18894
+      "UsersEstimate": 18895
     },
     {
       "ID": "ACH_025",
@@ -32113,7 +32118,7 @@
       "Name": "Apt Survivor",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 18894
+      "UsersEstimate": 18895
     },
     {
       "ID": "ACH_028",
@@ -32129,7 +32134,7 @@
       "Name": "Risk it all",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 8502
+      "UsersEstimate": 8503
     },
     {
       "ID": "ACH_030",
@@ -32137,7 +32142,7 @@
       "Name": "Survival Treasures",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 18894
+      "UsersEstimate": 18895
     },
     {
       "ID": "ACH_031",
@@ -32209,7 +32214,7 @@
       "Name": "Skillful",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 18894
+      "UsersEstimate": 18895
     },
     {
       "ID": "ACH_040",
@@ -32225,7 +32230,7 @@
       "Name": "II",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 8502
+      "UsersEstimate": 8503
     },
     {
       "ID": "ACH_042",
@@ -32801,7 +32806,7 @@
       "Name": "Wounded Healer",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 8502
+      "UsersEstimate": 8503
     },
     {
       "ID": "ACH_114",
@@ -33217,7 +33222,7 @@
       "Name": "Close Shave",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 8502
+      "UsersEstimate": 8503
     },
     {
       "ID": "ACH_169",
@@ -33673,7 +33678,7 @@
       "Name": "Make Some Noise",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 18894
+      "UsersEstimate": 18895
     },
     {
       "ID": "ACH_226",
@@ -33736,21 +33741,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 944701,
+      "Progressed": 944747,
       "Completed": 52
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 944701,
+      "Progressed": 944747,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-10-17T04:59:17.1717297+00:00",
-  "LastChanged_Achievements": "2023-10-17T05:04:11.3680486+00:00",
+  "LastChanged_Achievements": "2023-10-17T06:04:08.9123139+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:50.4132277+00:00",
-  "LastUpdate_Ratings": "2023-10-17T04:59:17.1717303+00:00",
-  "LastUpdate_Achievements": "2023-10-17T05:04:11.3688202+00:00"
+  "LastUpdate_Ratings": "2023-10-17T05:58:57.5376842+00:00",
+  "LastUpdate_Achievements": "2023-10-17T06:04:08.9128925+00:00"
 }

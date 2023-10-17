@@ -190,9 +190,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12126,
+  "EOS_Progressed": 12127,
   "EOS_Completed": 130,
-  "EOS_NewPlayers": 1433,
+  "EOS_NewPlayers": 1427,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.07,
   "EosHistory": [
@@ -5480,6 +5480,11 @@
       "Time": "2023-10-17T05:07:43.736195+00:00",
       "NumProgressed": 12126,
       "NumCompleted": 130
+    },
+    {
+      "Time": "2023-10-17T06:07:08.5296632+00:00",
+      "NumProgressed": 12127,
+      "NumCompleted": 130
     }
   ],
   "AchievementsAdded": "2023-07-27T17:07:04.2576498+00:00",
@@ -5516,7 +5521,7 @@
       "Name": "Happy Go Wookiee",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 8609
+      "UsersEstimate": 8610
     },
     {
       "ID": "achievement_13",
@@ -5540,7 +5545,7 @@
       "Name": "Gorgara Falls",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 6184
+      "UsersEstimate": 6185
     },
     {
       "ID": "achievement_16",
@@ -5556,7 +5561,7 @@
       "Name": "I Knew He Was No Good",
       "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 5699
+      "UsersEstimate": 5700
     },
     {
       "ID": "achievement_18",
@@ -5564,7 +5569,7 @@
       "Name": "Back At You",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 8973
+      "UsersEstimate": 8974
     },
     {
       "ID": "achievement_19",
@@ -5652,7 +5657,7 @@
       "Name": "Bank Shot",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 6669
+      "UsersEstimate": 6670
     },
     {
       "ID": "achievement_29",
@@ -5660,15 +5665,15 @@
       "Name": "Blade Master",
       "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 4729
+      "UsersEstimate": 4730
     },
     {
       "ID": "achievement_3",
       "SetID": "nk00bp",
       "Name": "Legendary Beasts",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 2668
+      "UsersEstimate": 2789
     },
     {
       "ID": "achievement_30",
@@ -5700,7 +5705,7 @@
       "Name": "Full House",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 4365
+      "UsersEstimate": 4366
     },
     {
       "ID": "achievement_34",
@@ -5716,7 +5721,7 @@
       "Name": "Sabersmith",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9822
+      "UsersEstimate": 9823
     },
     {
       "ID": "achievement_36",
@@ -5724,7 +5729,7 @@
       "Name": "The Full Glow-Up",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 6184
+      "UsersEstimate": 6185
     },
     {
       "ID": "achievement_37",
@@ -5740,7 +5745,7 @@
       "Name": "Scum and Villainy",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 5335
+      "UsersEstimate": 5336
     },
     {
       "ID": "achievement_39",
@@ -5772,7 +5777,7 @@
       "Name": "Trust Only In The Force",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 5335
+      "UsersEstimate": 5336
     },
     {
       "ID": "achievement_7",
@@ -5780,7 +5785,7 @@
       "Name": "The Mantis",
       "Percentage": 100,
       "XP": 25,
-      "UsersEstimate": 12126
+      "UsersEstimate": 12127
     },
     {
       "ID": "achievement_8",
@@ -5788,7 +5793,7 @@
       "Name": "A Long Time Ago",
       "Percentage": 93,
       "XP": 25,
-      "UsersEstimate": 11277
+      "UsersEstimate": 11278
     },
     {
       "ID": "achievement_9",
@@ -5796,14 +5801,14 @@
       "Name": "The Obstacle is the Way",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 9701
+      "UsersEstimate": 9702
     }
   ],
   "AchievementSets": [
     {
       "ID": "nk00bp",
       "IsBase": true,
-      "Progressed": 12126,
+      "Progressed": 12127,
       "Completed": 130
     }
   ],
@@ -5811,8 +5816,8 @@
   "FirstSeenRating": "2023-01-19T17:57:21.8503862+00:00",
   "FirstSeenAchievements": "2023-07-10T16:05:56.566265+00:00",
   "LastChanged": "2023-10-11T20:59:46.7825655+00:00",
-  "LastChanged_Achievements": "2023-10-17T05:07:43.7361945+00:00",
+  "LastChanged_Achievements": "2023-10-17T06:07:08.5296627+00:00",
   "LastUpdate_AppInfo": "2023-10-14T10:57:25.1897674+00:00",
-  "LastUpdate_Ratings": "2023-10-17T05:01:07.0512175+00:00",
-  "LastUpdate_Achievements": "2023-10-17T05:07:43.7362725+00:00"
+  "LastUpdate_Ratings": "2023-10-17T06:00:25.4206894+00:00",
+  "LastUpdate_Achievements": "2023-10-17T06:07:08.5297139+00:00"
 }

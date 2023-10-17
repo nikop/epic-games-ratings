@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 24,
+  "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -166,9 +166,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14057,
+  "EOS_Progressed": 14059,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 233,
+  "EOS_NewPlayers": 235,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -8866,6 +8866,11 @@
       "Time": "2023-10-17T03:03:14.0931787+00:00",
       "NumProgressed": 14057,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-10-17T06:03:37.650072+00:00",
+      "NumProgressed": 14059,
+      "NumCompleted": 26
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -8934,7 +8939,7 @@
       "Name": "Drug Gifter",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     },
     {
       "ID": "17",
@@ -9030,7 +9035,7 @@
       "Name": "Bosmang",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     },
     {
       "ID": "28",
@@ -9117,22 +9122,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14057,
+      "Progressed": 14059,
       "Completed": 26
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 11,
-      "Completed": 11
+      "Progressed": 13,
+      "Completed": 13
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-13T09:00:57.1370573+00:00",
-  "LastChanged_Achievements": "2023-10-17T05:03:25.3214779+00:00",
+  "LastChanged_Achievements": "2023-10-17T06:03:37.6500715+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:40.5814563+00:00",
-  "LastUpdate_Ratings": "2023-10-17T05:01:55.1026643+00:00",
-  "LastUpdate_Achievements": "2023-10-17T05:03:25.3215772+00:00"
+  "LastUpdate_Ratings": "2023-10-17T06:01:06.4641057+00:00",
+  "LastUpdate_Achievements": "2023-10-17T06:03:37.650138+00:00"
 }

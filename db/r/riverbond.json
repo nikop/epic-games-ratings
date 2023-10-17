@@ -494,9 +494,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 529456,
+  "EOS_Progressed": 529457,
   "EOS_Completed": 487,
-  "EOS_NewPlayers": 465,
+  "EOS_NewPlayers": 464,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -19664,6 +19664,11 @@
       "Time": "2023-10-17T05:04:39.2285739+00:00",
       "NumProgressed": 529456,
       "NumCompleted": 487
+    },
+    {
+      "Time": "2023-10-17T06:04:32.2367801+00:00",
+      "NumProgressed": 529457,
+      "NumCompleted": 487
     }
   ],
   "TotalAchievements": 57,
@@ -19683,7 +19688,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 238255
+      "UsersEstimate": 238256
     },
     {
       "ID": "11",
@@ -19691,7 +19696,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 370619
+      "UsersEstimate": 370620
     },
     {
       "ID": "12",
@@ -19699,7 +19704,7 @@
       "Name": "Wind At Our Backs",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 116480
+      "UsersEstimate": 116481
     },
     {
       "ID": "13",
@@ -19747,7 +19752,7 @@
       "Name": "To Victory!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 79418
+      "UsersEstimate": 79419
     },
     {
       "ID": "19",
@@ -19771,7 +19776,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 127069
+      "UsersEstimate": 127070
     },
     {
       "ID": "21",
@@ -19979,7 +19984,7 @@
       "Name": "Under the Radar",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 42356
+      "UsersEstimate": 42357
     },
     {
       "ID": "45",
@@ -20130,15 +20135,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 529456,
+      "Progressed": 529457,
       "Completed": 487
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-10-17T05:04:39.2285727+00:00",
+  "LastChanged_Achievements": "2023-10-17T06:04:32.2367795+00:00",
   "LastUpdate_AppInfo": "2023-10-14T13:56:54.8848084+00:00",
-  "LastUpdate_Ratings": "2023-10-17T05:00:46.4015133+00:00",
-  "LastUpdate_Achievements": "2023-10-17T05:04:39.2287771+00:00"
+  "LastUpdate_Ratings": "2023-10-17T06:00:09.25468+00:00",
+  "LastUpdate_Achievements": "2023-10-17T06:04:32.2369094+00:00"
 }

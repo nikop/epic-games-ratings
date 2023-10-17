@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 460,
   "Ranking_EOS_Completed": 315,
   "Ranking_EOS_NewPlayers": 291,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-09-01T10:00:00+00:00",
     "PcReleaseDate": "2021-03-04T18:00:00+00:00",
@@ -373,9 +373,9 @@
       "ID": "RegionalAirport",
       "SetID": "d11cl5p",
       "Name": "Regional airport",
-      "Percentage": 24,
+      "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Scan750MBags",
@@ -500,8 +500,8 @@
   ],
   "FirstSeen": "2023-09-02T13:02:28.4911547+00:00",
   "FirstSeenAchievements": "2023-07-27T10:02:52.8790419+00:00",
-  "LastChanged_Achievements": "2023-10-17T05:04:31.6104494+00:00",
+  "LastChanged_Achievements": "2023-10-17T06:04:25.6187285+00:00",
   "LastUpdate_AppInfo": "2023-10-11T15:57:05.906412+00:00",
-  "LastUpdate_Ratings": "2023-10-17T05:00:37.4170309+00:00",
-  "LastUpdate_Achievements": "2023-10-17T05:04:31.6104805+00:00"
+  "LastUpdate_Ratings": "2023-10-17T06:00:02.423343+00:00",
+  "LastUpdate_Achievements": "2023-10-17T06:04:25.6187497+00:00"
 }

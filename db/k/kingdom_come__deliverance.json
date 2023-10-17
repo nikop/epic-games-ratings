@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 297,
   "Ranking_EOS_NewPlayers": 75,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -7896,9 +7896,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 805072,
+  "EOS_Progressed": 805073,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 775,
+  "EOS_NewPlayers": 774,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -27971,6 +27971,11 @@
       "Time": "2023-10-17T05:04:28.8303951+00:00",
       "NumProgressed": 805072,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-17T06:04:23.3645735+00:00",
+      "NumProgressed": 805073,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -28262,7 +28267,7 @@
       "Name": "Haggler",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 72456
+      "UsersEstimate": 72457
     },
     {
       "ID": "HardcoreHenry",
@@ -28462,7 +28467,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 161014
+      "UsersEstimate": 161015
     },
     {
       "ID": "RevenantOfLedechko",
@@ -28502,7 +28507,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 161014
+      "UsersEstimate": 161015
     },
     {
       "ID": "SerialKiller",
@@ -28637,15 +28642,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 805072,
+      "Progressed": 805073,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-10-17T03:57:23.6645318+00:00",
-  "LastChanged_Achievements": "2023-10-17T05:04:28.8303946+00:00",
+  "LastChanged_Achievements": "2023-10-17T06:04:23.3645731+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:13.6850555+00:00",
-  "LastUpdate_Ratings": "2023-10-17T04:57:44.16001+00:00",
-  "LastUpdate_Achievements": "2023-10-17T05:04:28.8306602+00:00"
+  "LastUpdate_Ratings": "2023-10-17T05:57:41.4599851+00:00",
+  "LastUpdate_Achievements": "2023-10-17T06:04:23.3647347+00:00"
 }

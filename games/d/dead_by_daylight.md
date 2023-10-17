@@ -6,14 +6,14 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Handyman | 2.00% | ~18,894 |
-| Zealous | 2.00% | ~18,894 |
-| It wakes | 2.00% | ~18,894 |
-| Not half bad | 2.00% | ~18,894 |
-| Apt Survivor | 2.00% | ~18,894 |
-| Survival Treasures | 2.00% | ~18,894 |
-| Skillful | 2.00% | ~18,894 |
-| Make Some Noise | 2.00% | ~18,894 |
+| Handyman | 2.00% | ~18,895 |
+| Zealous | 2.00% | ~18,895 |
+| It wakes | 2.00% | ~18,895 |
+| Not half bad | 2.00% | ~18,895 |
+| Apt Survivor | 2.00% | ~18,895 |
+| Survival Treasures | 2.00% | ~18,895 |
+| Skillful | 2.00% | ~18,895 |
+| Make Some Noise | 2.00% | ~18,895 |
 | The Grand Sacrifice | 1.00% | ~9,447 |
 | Agonizing Escape | 1.00% | ~9,447 |
 | Backdoor Escape | 1.00% | ~9,447 |
@@ -29,12 +29,12 @@ Number of Ratings: 70,340  (23.09.2022)
 | Resurgence | 1.00% | ~9,447 |
 | Preemptive Strike | 1.00% | ~9,447 |
 | Humanitarian | 1.00% | ~9,447 |
-| Nerves of steel | 0.90% | ~8,502 |
-| Perfect Killing | 0.90% | ~8,502 |
-| Risk it all | 0.90% | ~8,502 |
-| II | 0.90% | ~8,502 |
-| Wounded Healer | 0.90% | ~8,502 |
-| Close Shave | 0.90% | ~8,502 |
+| Nerves of steel | 0.90% | ~8,503 |
+| Perfect Killing | 0.90% | ~8,503 |
+| Risk it all | 0.90% | ~8,503 |
+| II | 0.90% | ~8,503 |
+| Wounded Healer | 0.90% | ~8,503 |
+| Close Shave | 0.90% | ~8,503 |
 | Apt Killer | 0.80% | ~7,558 |
 | Vulture | 0.80% | ~7,558 |
 | Second Act | 0.80% | ~7,558 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~945 |
 | Adept Ripley | 0.10% | ~945 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 944,701 (Ranked 14)  
+Progressed: 944,747 (Ranked 14)  
 Completed: 51 (0.01%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -416,7 +416,7 @@ Completed: 51 (0.01%) (Ranked 297)
 | 2023-10-14 | 939,759 | 50 |
 | 2023-10-15 | 942,498 | 51 |
 | 2023-10-16 | 944,360 | 51 |
-| 2023-10-17 | 944,701 | 51 |
+| 2023-10-17 | 944,747 | 51 |
 ## Awards
 Max (Diverse Characters): 34,006  (Ranked 15)  
 Sum: 262,995 (Ranked 13)  

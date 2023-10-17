@@ -3,12 +3,12 @@
   "Name": "Tom Clancy\u0027s Ghost Recon Wildlands Standard Edition",
   "ProductSlug": "ghost-recon-wildlands",
   "Ranking_Rating": 375,
-  "Ranking_Popularity": 255,
+  "Ranking_Popularity": 256,
   "Ranking_PopularitySum": 207,
   "Ranking_EOS_Progress": 671,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 392,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 391,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2018-04-10T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -3915,6 +3915,6 @@
   "FirstSeen": "2022-07-22T20:20:43.6796979+00:00",
   "LastChanged": "2023-10-17T04:00:46.5969255+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:38.9163192+00:00",
-  "LastUpdate_Ratings": "2023-10-17T05:01:49.154525+00:00",
-  "LastUpdate_Achievements": "2023-10-17T05:06:34.8228072+00:00"
+  "LastUpdate_Ratings": "2023-10-17T06:01:01.5219412+00:00",
+  "LastUpdate_Achievements": "2023-10-17T06:06:10.4406776+00:00"
 }

@@ -6,36 +6,36 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 71.00% | ~633,545 |
-| Right Back At Ya | 45.00% | ~401,543 |
-| The Lovers | 39.00% | ~348,004 |
-| Stanislavski's Method | 33.00% | ~294,465 |
-| The Wheel of Fortune | 33.00% | ~294,465 |
-| The Hermit | 30.00% | ~267,695 |
-| The High Priestess | 29.00% | ~258,772 |
-| True Soldier | 29.00% | ~258,772 |
-| Christmas Tree Attack | 26.00% | ~232,002 |
-| Full Body Conversion | 24.00% | ~214,156 |
-| Life of the Road | 23.00% | ~205,233 |
-| Ten out of Ten | 22.00% | ~196,310 |
-| The World | 22.00% | ~196,310 |
-| Master Crafter | 20.00% | ~178,463 |
-| True Warrior | 20.00% | ~178,463 |
-| Bushido and Chill | 19.00% | ~169,540 |
-| Gun Fu | 18.00% | ~160,617 |
-| I Am The Law | 16.00% | ~142,771 |
+| The Fool | 71.00% | ~633,549 |
+| Right Back At Ya | 45.00% | ~401,545 |
+| The Lovers | 39.00% | ~348,006 |
+| Stanislavski's Method | 33.00% | ~294,466 |
+| The Wheel of Fortune | 33.00% | ~294,466 |
+| The Hermit | 30.00% | ~267,697 |
+| The High Priestess | 29.00% | ~258,773 |
+| True Soldier | 29.00% | ~258,773 |
+| Christmas Tree Attack | 26.00% | ~232,004 |
+| Full Body Conversion | 24.00% | ~214,157 |
+| Life of the Road | 23.00% | ~205,234 |
+| Ten out of Ten | 22.00% | ~196,311 |
+| The World | 22.00% | ~196,311 |
+| Master Crafter | 20.00% | ~178,464 |
+| True Warrior | 20.00% | ~178,464 |
+| Bushido and Chill | 19.00% | ~169,541 |
+| Gun Fu | 18.00% | ~160,618 |
+| I Am The Law | 16.00% | ~142,772 |
 | To Protect and Serve | 15.00% | ~133,848 |
-| Breathtaking | 14.00% | ~124,924 |
-| The Quick and the Dead | 13.00% | ~116,001 |
-| Rough Landing | 13.00% | ~116,001 |
-| The Jungle | 12.00% | ~107,078 |
+| Breathtaking | 14.00% | ~124,925 |
+| The Quick and the Dead | 13.00% | ~116,002 |
+| Rough Landing | 13.00% | ~116,002 |
+| The Jungle | 12.00% | ~107,079 |
 | To Bad Decisions! | 11.00% | ~98,155 |
 | The Wandering Fool | 11.00% | ~98,155 |
 | Gunslinger | 10.00% | ~89,232 |
 | Mean Streets | 10.00% | ~89,232 |
 | Temperance | 9.00% | ~80,309 |
-| The Star | 8.00% | ~71,385 |
-| The Sun | 8.00% | ~71,385 |
+| The Star | 8.00% | ~71,386 |
+| The Sun | 8.00% | ~71,386 |
 | City Lights | 6.00% | ~53,539 |
 | Must Be Rats | 5.00% | ~44,616 |
 | The Devil | 5.00% | ~44,616 |
@@ -64,7 +64,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 892,317 (Ranked 15)  
+Progressed: 892,322 (Ranked 15)  
 Completed: 2,675 (0.30%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 2,675 (0.30%) (Ranked 205)
 | 2023-10-14 | 891,800 | 2,661 |
 | 2023-10-15 | 892,108 | 2,671 |
 | 2023-10-16 | 892,285 | 2,674 |
-| 2023-10-17 | 892,317 | 2,675 |
+| 2023-10-17 | 892,322 | 2,675 |
 ## Awards
 Max (Character Customization): 98,623  (Ranked 9)  
 Sum: 307,646 (Ranked 11)  
