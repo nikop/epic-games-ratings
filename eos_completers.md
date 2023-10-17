@@ -2,7 +2,7 @@
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 66.67% |
-| 3 | [The Riflemen](games/t/the_riflemen.md) | 48.26% |
+| 3 | [The Riflemen](games/t/the_riflemen.md) | 48.24% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.15% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.99% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
@@ -83,7 +83,7 @@
 | 81 | [The Bunker](games/t/the_bunker.md) | 3.39% |
 | 82 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
 | 83 | [The Complex](games/t/the_complex.md) | 3.33% |
-| 84 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.31% |
+| 84 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.30% |
 | 85 | [Doodle God](games/d/doodle_god.md) | 3.27% |
 | 85 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.27% |
 | 87 | [Monster Harvest](games/m/monster_harvest.md) | 3.15% |
@@ -137,8 +137,8 @@
 | 135 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.30% |
 | 136 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.16% |
 | 137 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.13% |
-| 138 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 1.12% |
 | 138 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.12% |
+| 139 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 1.11% |
 | 140 | [Trifox](games/t/trifox.md) | 1.09% |
 | 141 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.07% |
 | 142 | [Adios](games/a/adios.md) | 1.05% |
