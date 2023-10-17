@@ -2,7 +2,7 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 953,
+  "Ranking_Rating": 954,
   "Ranking_Popularity": 69,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 58,
@@ -7390,7 +7390,7 @@
       "Count": 3472
     }
   ],
-  "EOS_Progressed": 232051,
+  "EOS_Progressed": 232053,
   "EOS_Completed": 2366,
   "EOS_NewPlayers": 612,
   "EOS_NewCompleters": 16,
@@ -27450,6 +27450,11 @@
       "Time": "2023-10-17T10:07:53.0183423+00:00",
       "NumProgressed": 232051,
       "NumCompleted": 2366
+    },
+    {
+      "Time": "2023-10-17T11:08:28.3502323+00:00",
+      "NumProgressed": 232053,
+      "NumCompleted": 2366
     }
   ],
   "TotalAchievements": 528,
@@ -29139,9 +29144,9 @@
       "ID": "objective_completed_34",
       "SetID": "cc37lbc",
       "Name": "The Ring of Regeneration",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 232
+      "UsersEstimate": 464
     },
     {
       "ID": "objective_completed_35",
@@ -31684,21 +31689,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 198325,
+      "Progressed": 198327,
       "Completed": 3645
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 232051,
+      "Progressed": 232053,
       "Completed": 2366
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-10-17T10:01:06.4900991+00:00",
-  "LastChanged_Achievements": "2023-10-17T10:07:53.0183413+00:00",
+  "LastChanged_Achievements": "2023-10-17T11:08:28.3502318+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:38.1045135+00:00",
-  "LastUpdate_Ratings": "2023-10-17T10:01:06.4900997+00:00",
-  "LastUpdate_Achievements": "2023-10-17T10:07:53.0212669+00:00"
+  "LastUpdate_Ratings": "2023-10-17T11:01:43.4856778+00:00",
+  "LastUpdate_Achievements": "2023-10-17T11:08:28.3527537+00:00"
 }

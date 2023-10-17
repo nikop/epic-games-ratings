@@ -2,7 +2,7 @@
   "ID": "5fdcc0dc67294af3be740f362bd976fd",
   "Name": "Magic: The Gathering Arena",
   "ProductSlug": "mtg-arena",
-  "Ranking_Rating": 644,
+  "Ranking_Rating": 645,
   "Ranking_Popularity": 34,
   "Ranking_PopularitySum": 17,
   "Ranking_EOS_Progress": 671,
@@ -12440,6 +12440,6 @@
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
   "LastChanged": "2023-10-17T07:59:09.4973309+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:45.9625108+00:00",
-  "LastUpdate_Ratings": "2023-10-17T09:59:05.4590592+00:00",
-  "LastUpdate_Achievements": "2023-10-17T10:03:46.9711389+00:00"
+  "LastUpdate_Ratings": "2023-10-17T10:59:18.9460151+00:00",
+  "LastUpdate_Achievements": "2023-10-17T11:03:29.70499+00:00"
 }

@@ -1,41 +1,41 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.58 (Ranked 437)  
+Rating: 4.58 (Ranked 438)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~228,530 |
-| Uncharted Territory | 89.00% | ~211,866 |
-| Getting A Glimpse | 73.00% | ~173,778 |
+| First Steps | 96.00% | ~228,531 |
+| Uncharted Territory | 89.00% | ~211,867 |
+| Getting A Glimpse | 73.00% | ~173,779 |
 | A Quick Escape | 65.00% | ~154,734 |
-| Explorer | 62.00% | ~147,592 |
-| An Offering | 62.00% | ~147,592 |
+| Explorer | 62.00% | ~147,593 |
+| An Offering | 62.00% | ~147,593 |
 | Defeat The Dark | 61.00% | ~145,212 |
-| Colorful Corpse | 58.00% | ~138,070 |
+| Colorful Corpse | 58.00% | ~138,071 |
 | That Was Quick | 57.00% | ~135,690 |
 | A Donation | 57.00% | ~135,690 |
-| Goodbye, Frog Friend | 54.00% | ~128,548 |
+| Goodbye, Frog Friend | 54.00% | ~128,549 |
 | Heavy Hitter | 53.00% | ~126,168 |
 | Heartless | 46.00% | ~109,504 |
 | Spine Breaker | 46.00% | ~109,504 |
-| Deflection | 45.00% | ~107,123 |
-| Sneaky | 43.00% | ~102,362 |
+| Deflection | 45.00% | ~107,124 |
+| Sneaky | 43.00% | ~102,363 |
 | Ambitious Intent | 42.00% | ~99,982 |
 | Delving Deeper | 42.00% | ~99,982 |
 | C-C-Combo | 42.00% | ~99,982 |
 | Nothing To Lose | 40.00% | ~95,221 |
 | The Bestiary | 40.00% | ~95,221 |
-| What's Yours Is Mine | 39.00% | ~92,840 |
-| R.I.P | 37.00% | ~88,079 |
+| What's Yours Is Mine | 39.00% | ~92,841 |
+| R.I.P | 37.00% | ~88,080 |
 | Shootout | 36.00% | ~85,699 |
-| I Am Overburdened | 35.00% | ~83,318 |
+| I Am Overburdened | 35.00% | ~83,319 |
 | Cold Hearted | 34.00% | ~80,938 |
 | Dig Your Own Grave | 33.00% | ~78,557 |
 | Toxic | 33.00% | ~78,557 |
 | Who To Trust? | 32.00% | ~76,177 |
-| Flesh Wound | 29.00% | ~69,035 |
+| Flesh Wound | 30.00% | ~71,416 |
 | Walk It Off | 28.00% | ~66,655 |
 | Stone Touch | 28.00% | ~66,655 |
 | Shadow Walker | 28.00% | ~66,655 |
@@ -45,9 +45,9 @@ Number of Ratings: 15,086  (23.09.2022)
 | Shapeshifting | 27.00% | ~64,274 |
 | Destroy Your Fears | 26.00% | ~61,894 |
 | Save Our Souls | 25.00% | ~59,513 |
-| To The Death! | 20.00% | ~47,610 |
-| Well Prepared | 20.00% | ~47,610 |
-| Just Chilling | 20.00% | ~47,610 |
+| To The Death! | 20.00% | ~47,611 |
+| Well Prepared | 20.00% | ~47,611 |
+| Just Chilling | 20.00% | ~47,611 |
 | All Consuming | 19.00% | ~45,230 |
 | Stop Hitting Yourself | 19.00% | ~45,230 |
 | Shadow Spreads | 17.00% | ~40,469 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Down Under | 0.50% | ~1,190 |
 | Near Death Experience | 0.30% | ~714 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,052 (Ranked 56)  
+Progressed: 238,053 (Ranked 56)  
 Completed: 281 (0.12%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 281 (0.12%) (Ranked 242)
 | 2023-10-14 | 237,914 | 281 |
 | 2023-10-15 | 237,982 | 281 |
 | 2023-10-16 | 238,035 | 281 |
-| 2023-10-17 | 238,052 | 281 |
+| 2023-10-17 | 238,053 | 281 |
 ## Awards
 Max (Quickly Understood Controls): 1,498  (Ranked 127)  
 Sum: 11,612 (Ranked 82)  

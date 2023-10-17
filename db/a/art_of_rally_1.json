@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10277,
+  "EOS_Progressed": 10278,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1671,6 +1671,11 @@
       "Time": "2023-10-15T18:04:31.022273+00:00",
       "NumProgressed": 10277,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-17T11:05:34.4015794+00:00",
+      "NumProgressed": 10278,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -1698,7 +1703,7 @@
       "Name": "absolute drift",
       "Percentage": 0.9,
       "XP": 35,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ACH_AIRBORNE",
@@ -1802,7 +1807,7 @@
       "Name": "turbo",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 2055
+      "UsersEstimate": 2056
     },
     {
       "ID": "ACH_COMPLETE_GROUPA",
@@ -1842,7 +1847,7 @@
       "Name": "keep it tidy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7913
+      "UsersEstimate": 7914
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -1906,7 +1911,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9866
+      "UsersEstimate": 9867
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -1914,7 +1919,7 @@
       "Name": "maximum attack",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1131
     },
     {
       "ID": "ACH_MAX_SPEED_MEDIUM",
@@ -1922,7 +1927,7 @@
       "Name": "medium attack",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 6166
+      "UsersEstimate": 6167
     },
     {
       "ID": "ACH_NIGHT",
@@ -1970,7 +1975,7 @@
       "Name": "good drivers have dead flies on the side windows",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 4419
+      "UsersEstimate": 4420
     },
     {
       "ID": "ACH_SNOW",
@@ -2000,9 +2005,9 @@
       "ID": "ACH_TOUR_ITALY",
       "SetID": "9002fpg",
       "Name": "food tour: pasta",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 2672
+      "UsersEstimate": 2775
     },
     {
       "ID": "ACH_WEEKLY",
@@ -2018,22 +2023,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7399
+      "UsersEstimate": 7400
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10277,
+      "Progressed": 10278,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-10-17T10:05:37.4458377+00:00",
+  "LastChanged_Achievements": "2023-10-17T11:05:34.4015786+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:21.4011971+00:00",
-  "LastUpdate_Ratings": "2023-10-17T09:57:45.070596+00:00",
-  "LastUpdate_Achievements": "2023-10-17T10:05:37.4458805+00:00"
+  "LastUpdate_Ratings": "2023-10-17T10:57:43.3167104+00:00",
+  "LastUpdate_Achievements": "2023-10-17T11:05:34.4016252+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
   "Ranking_EOS_Progress": 387,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 344,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
@@ -546,9 +546,9 @@
       "ID": "ACHIEVEMENT_10",
       "SetID": "7pimpda",
       "Name": "Giant Lizard Killer",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -890,9 +890,9 @@
       "ID": "ACHIEVEMENT_9",
       "SetID": "7pimpda",
       "Name": "Handyman",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     }
   ],
   "AchievementSets": [
@@ -907,8 +907,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-10-17T10:06:04.6332253+00:00",
+  "LastChanged_Achievements": "2023-10-17T11:06:05.4218836+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:00.1890274+00:00",
-  "LastUpdate_Ratings": "2023-10-17T09:59:28.6203438+00:00",
-  "LastUpdate_Achievements": "2023-10-17T10:06:04.6332714+00:00"
+  "LastUpdate_Ratings": "2023-10-17T10:59:47.2458004+00:00",
+  "LastUpdate_Achievements": "2023-10-17T11:06:05.4219488+00:00"
 }

@@ -1,18 +1,18 @@
 # Shadow Tactics: Blades of the Shogun
 [Store](https://store.epicgames.com/en-US/p/shadow-tactics)  
 [View Rawdata](../../db/s/shadow_tactics__blades_of_the_shogun.json)  
-Rating: 4.67 (Ranked 262)  
+Rating: 4.67 (Ranked 263)  
 Number of Ratings: 495  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~24,996 |
-| A thief's beginning | 10.00% | ~20,830 |
-| Thorough | 10.00% | ~20,830 |
-| Rollin' | 9.00% | ~18,747 |
-| Disguised | 8.00% | ~16,664 |
-| Rescue Takuma | 8.00% | ~16,664 |
-| Tanuki Time | 8.00% | ~16,664 |
+| Genin | 12.00% | ~24,997 |
+| A thief's beginning | 10.00% | ~20,831 |
+| Thorough | 10.00% | ~20,831 |
+| Rollin' | 9.00% | ~18,748 |
+| Disguised | 8.00% | ~16,665 |
+| Rescue Takuma | 8.00% | ~16,665 |
+| Tanuki Time | 8.00% | ~16,665 |
 | Happy Planning | 7.00% | ~14,581 |
 | Ice Ice Yuki | 7.00% | ~14,581 |
 | Jonin | 7.00% | ~14,581 |
@@ -42,8 +42,8 @@ Number of Ratings: 495  (23.09.2022)
 | When Cut Across the Neck | 0.90% | ~1,875 |
 | High Five the Moon | 0.80% | ~1,666 |
 | The Cave | 0.80% | ~1,666 |
-| Merciful | 0.50% | ~1,041 |
-| Time Paradox | 0.50% | ~1,041 |
+| Merciful | 0.50% | ~1,042 |
+| Time Paradox | 0.50% | ~1,042 |
 | Five Shadows | 0.30% | ~625 |
 | Complete Mastery | 0.20% | ~417 |
 | Praise the Shogun | 0.20% | ~417 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~208 |
 | Release the Kraken | 0.10% | ~208 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 208,299 (Ranked 65)  
+Progressed: 208,307 (Ranked 65)  
 Completed: 91 (0.04%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 91 (0.04%) (Ranked 278)
 | 2023-10-14 | 207,886 | 90 |
 | 2023-10-15 | 208,093 | 91 |
 | 2023-10-16 | 208,245 | 91 |
-| 2023-10-17 | 208,299 | 91 |
+| 2023-10-17 | 208,307 | 91 |
 ## Awards
 Max (Great for Beginners): 567  (Ranked 196)  
 Sum: 4,790 (Ranked 138)  

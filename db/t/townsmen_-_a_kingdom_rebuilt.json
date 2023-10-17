@@ -2,12 +2,12 @@
   "ID": "45a3134e24b3470dbd9ea94d17b3507b",
   "Name": "Townsmen - A Kingdom Rebuilt",
   "ProductSlug": "townsmen-a-kingdom-rebuilt-07c09d",
-  "Ranking_Rating": 876,
+  "Ranking_Rating": 877,
   "Ranking_Popularity": 537,
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -2190,8 +2190,8 @@
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-10-17T10:06:20.423497+00:00",
+  "LastChanged_Achievements": "2023-10-17T11:06:23.4741688+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:32.6400673+00:00",
-  "LastUpdate_Ratings": "2023-10-17T10:00:46.0405887+00:00",
-  "LastUpdate_Achievements": "2023-10-17T10:06:20.4236368+00:00"
+  "LastUpdate_Ratings": "2023-10-17T11:01:19.8989347+00:00",
+  "LastUpdate_Achievements": "2023-10-17T11:06:23.4742712+00:00"
 }

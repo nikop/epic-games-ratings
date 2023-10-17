@@ -2,7 +2,7 @@
   "ID": "4ec958d5e4b6429aadbc116cee0b6ea0",
   "Name": "Dead Space",
   "ProductSlug": "dead-space",
-  "Ranking_Rating": 353,
+  "Ranking_Rating": 354,
   "Ranking_Popularity": 341,
   "Ranking_PopularitySum": 430,
   "Ranking_EOS_Progress": 234,
@@ -664,7 +664,7 @@
   ],
   "EOS_Progressed": 1070,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 172,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -3298,9 +3298,9 @@
       "ID": "achievement_20",
       "SetID": "222fo9l",
       "Name": "Autofire",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 642
+      "UsersEstimate": 653
     },
     {
       "ID": "achievement_21",
@@ -3587,8 +3587,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-15T07:59:51.3823595+00:00",
-  "LastChanged_Achievements": "2023-10-17T10:08:10.2189075+00:00",
+  "LastChanged_Achievements": "2023-10-17T11:08:35.9693231+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:22.2856721+00:00",
-  "LastUpdate_Ratings": "2023-10-17T10:00:14.5646172+00:00",
-  "LastUpdate_Achievements": "2023-10-17T10:08:10.2189667+00:00"
+  "LastUpdate_Ratings": "2023-10-17T11:00:43.5789097+00:00",
+  "LastUpdate_Achievements": "2023-10-17T11:08:35.9693677+00:00"
 }

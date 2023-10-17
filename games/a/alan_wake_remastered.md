@@ -1,26 +1,26 @@
 # Alan Wake Remastered
 [Store](https://store.epicgames.com/en-US/p/alan-wake-remastered)  
 [View Rawdata](../../db/a/alan_wake_remastered.json)  
-Rating: 4.55 (Ranked 493)  
+Rating: 4.55 (Ranked 494)  
 Number of Ratings: 524  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 43.00% | ~29,365 |
-| Let There Be Light | 36.00% | ~24,584 |
+| Follow the Light | 43.00% | ~29,366 |
+| Let There Be Light | 36.00% | ~24,585 |
 | Float Like a Butterfly | 34.00% | ~23,219 |
-| Nordic Walking | 28.00% | ~19,121 |
-| Bright Falls' Finest | 27.00% | ~18,438 |
+| Nordic Walking | 28.00% | ~19,122 |
+| Bright Falls' Finest | 27.00% | ~18,439 |
 | Under a Thin Layer of Skin | 24.00% | ~16,390 |
 | Park Ranger | 20.00% | ~13,658 |
 | Paging Mr. Wake | 20.00% | ~13,658 |
 | Back! Back, I Say! | 19.00% | ~12,975 |
 | Finders Keepers | 19.00% | ~12,975 |
-| Sound and Fury | 17.00% | ~11,609 |
-| Missed by a Mile | 17.00% | ~11,609 |
-| Damn Good Cup of Coffee | 17.00% | ~11,609 |
-| Wheels Within Wheels | 16.00% | ~10,926 |
-| They're Heeeeeere! | 16.00% | ~10,926 |
+| Sound and Fury | 17.00% | ~11,610 |
+| Missed by a Mile | 17.00% | ~11,610 |
+| Damn Good Cup of Coffee | 17.00% | ~11,610 |
+| Wheels Within Wheels | 16.00% | ~10,927 |
+| They're Heeeeeere! | 16.00% | ~10,927 |
 | Iron Horse | 15.00% | ~10,244 |
 | The Six-Gun Scribe | 15.00% | ~10,244 |
 | Collateral Carnage | 15.00% | ~10,244 |
@@ -41,11 +41,11 @@ Number of Ratings: 524  (23.09.2022)
 | Drink 'Em Both Up | 7.00% | ~4,780 |
 | Hardboiled Writer | 7.00% | ~4,780 |
 | A Friend Indeed | 7.00% | ~2,223 |
-| Children of the Elder God | 6.00% | ~4,097 |
-| Ding! | 6.00% | ~1,905 |
-| Boob Tube | 5.00% | ~3,414 |
-| If It Flies, It Burns | 5.00% | ~3,414 |
-| KBF-FM | 5.00% | ~3,414 |
+| Children of the Elder God | 6.00% | ~4,098 |
+| Ding! | 6.00% | ~1,906 |
+| Boob Tube | 5.00% | ~3,415 |
+| If It Flies, It Burns | 5.00% | ~3,415 |
+| KBF-FM | 5.00% | ~3,415 |
 | Kill Your Darlings | 4.00% | ~1,270 |
 | Heartbreaker | 4.00% | ~1,270 |
 | Carny | 3.00% | ~2,049 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Licensed Properties | 0.20% | ~64 |
 | Hypercaffeinated | 0.10% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,290 (Ranked 94)  
+Progressed: 68,292 (Ranked 94)  
 Completed: 69 (0.10%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 69 (0.10%) (Ranked 247)
 | 2023-10-14 | 67,971 | 69 |
 | 2023-10-15 | 68,140 | 69 |
 | 2023-10-16 | 68,244 | 69 |
-| 2023-10-17 | 68,290 | 69 |
+| 2023-10-17 | 68,292 | 69 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

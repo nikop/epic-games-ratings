@@ -1,25 +1,25 @@
 # Salt and Sanctuary
 [Store](https://store.epicgames.com/en-US/p/salt-and-sanctuary)  
 [View Rawdata](../../db/s/salt_and_sanctuary.json)  
-Rating: 4.61 (Ranked 375)  
+Rating: 4.61 (Ranked 376)  
 Number of Ratings: 3,114  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~444,572 |
-| The Three | 64.00% | ~342,803 |
-| The Banquet | 40.00% | ~214,252 |
-| Devara's Light | 31.00% | ~166,045 |
-| The Iron Ones | 18.00% | ~96,413 |
-| The Village | 17.00% | ~91,057 |
-| The Forest | 15.00% | ~80,344 |
-| The Keep | 14.00% | ~74,988 |
+| Find Sanctuary | 83.00% | ~444,576 |
+| The Three | 64.00% | ~342,806 |
+| The Banquet | 40.00% | ~214,254 |
+| Devara's Light | 31.00% | ~166,047 |
+| The Iron Ones | 18.00% | ~96,414 |
+| The Village | 17.00% | ~91,058 |
+| The Forest | 15.00% | ~80,345 |
+| The Keep | 14.00% | ~74,989 |
 | Branded | 13.00% | ~69,632 |
 | The Imposter | 13.00% | ~69,632 |
-| The Castle | 11.00% | ~58,919 |
+| The Castle | 11.00% | ~58,920 |
 | The Dome | 9.00% | ~48,207 |
 | The Red Hall | 9.00% | ~48,207 |
-| The Sacrifice | 8.00% | ~42,850 |
+| The Sacrifice | 8.00% | ~42,851 |
 | The Cave | 7.00% | ~37,494 |
 | The Mire | 7.00% | ~37,494 |
 | The Stone Roots | 7.00% | ~37,494 |
@@ -28,8 +28,8 @@ Number of Ratings: 3,114  (23.09.2022)
 | The Construct | 6.00% | ~32,138 |
 | The Lake | 6.00% | ~32,138 |
 | The Ruins | 6.00% | ~32,138 |
-| The Alkymancery | 5.00% | ~26,781 |
-| The Pitchwoods | 5.00% | ~26,781 |
+| The Alkymancery | 5.00% | ~26,782 |
+| The Pitchwoods | 5.00% | ~26,782 |
 | Honed | 4.00% | ~21,425 |
 | The House of Splendor | 4.00% | ~21,425 |
 | The Crypt | 4.00% | ~21,425 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,713 |
 | Fading Fast | 1.00% | ~5,356 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 535,629 (Ranked 32)  
+Progressed: 535,634 (Ranked 32)  
 Completed: 1,579 (0.29%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 1,579 (0.29%) (Ranked 208)
 | 2023-10-14 | 535,443 | 1,573 |
 | 2023-10-15 | 535,522 | 1,576 |
 | 2023-10-16 | 535,606 | 1,579 |
-| 2023-10-17 | 535,629 | 1,579 |
+| 2023-10-17 | 535,634 | 1,579 |
 ## Awards
 Max (Challenging Combat): 289  (Ranked 244)  
 Sum: 1,975 (Ranked 205)  

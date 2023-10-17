@@ -1,7 +1,7 @@
 # Absolute Drift
 [Store](https://store.epicgames.com/en-US/p/absolute-drift)  
 [View Rawdata](../../db/a/absolute_drift.json)  
-Rating: 4.41 (Ranked 698)  
+Rating: 4.41 (Ranked 699)  
 Number of Ratings: 216  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -19,15 +19,15 @@ Number of Ratings: 216  (23.09.2022)
 | Spin Doctor | 2.00% | ~30,910 |
 | Hoon Airlines | 1.00% | ~15,455 |
 | Midnight Master | 1.00% | ~15,455 |
-| Sake Bombs | 0.90% | ~13,909 |
-| Drift Line Master | 0.70% | ~10,818 |
-| Insane Skills | 0.70% | ~10,818 |
+| Sake Bombs | 0.90% | ~13,910 |
+| Drift Line Master | 0.70% | ~10,819 |
+| Insane Skills | 0.70% | ~10,819 |
 | Bacon Donuts | 0.60% | ~9,273 |
-| Double Rainbow | 0.50% | ~7,727 |
+| Double Rainbow | 0.50% | ~7,728 |
 | Washing Machine | 0.40% | ~6,182 |
-| The Completionist | 0.10% | ~1,545 |
+| The Completionist | 0.10% | ~1,546 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,545,497 (Ranked 7)  
+Progressed: 1,545,505 (Ranked 7)  
 Completed: 705 (0.05%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 705 (0.05%) (Ranked 274)
 | 2023-10-14 | 1,545,167 | 705 |
 | 2023-10-15 | 1,545,344 | 705 |
 | 2023-10-16 | 1,545,466 | 705 |
-| 2023-10-17 | 1,545,497 | 705 |
+| 2023-10-17 | 1,545,505 | 705 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

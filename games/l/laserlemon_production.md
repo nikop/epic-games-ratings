@@ -11,6 +11,7 @@
 | Six's Song | 17.00% | ~2 |
 | Highly Sprung | 17.00% | ~2 |
 | Kitchen Hand | 17.00% | ~2 |
+| Not Alone | 17.00% | ~2 |
 | Rascal | 17.00% | ~2 |
 | So Close | 17.00% | ~2 |
 | The Guest Area | 17.00% | ~2 |
@@ -22,9 +23,8 @@
 | End in Sight | 8.00% | ~1 |
 | I'm Losing You | 8.00% | ~1 |
 | Is Anybody Out There? | 8.00% | ~1 |
-| Not Alone | 8.00% | ~1 |
+| Little Lost Things | 8.00% | ~1 |
 | Hard to the Core | 0.00% | ~0 |
-| Little Lost Things | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 12 (Ranked 519)  
 Completed: 0 (0.00%) (Ranked 315)  

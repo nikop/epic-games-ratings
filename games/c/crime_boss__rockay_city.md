@@ -1,7 +1,7 @@
 # Crime Boss: Rockay City
 [Store](https://store.epicgames.com/en-US/p/crime-boss)  
 [View Rawdata](../../db/c/crime_boss__rockay_city.json)  
-Rating: 3.94 (Ranked 982)  
+Rating: 3.94 (Ranked 983)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -10,8 +10,8 @@ Rating: 3.94 (Ranked 982)
 | First One’s Free | 1.00% | ~891 |
 | Downed but Not Outed | 1.00% | ~891 |
 | Too Old for This | 1.00% | ~891 |
+| Fancy Pants | 0.90% | ~802 |
 | Roid Ranger | 0.80% | ~713 |
-| Fancy Pants | 0.80% | ~713 |
 | Off the Rocks | 0.80% | ~713 |
 | King of the Hill | 0.70% | ~624 |
 | Raider’s Ruin | 0.70% | ~624 |

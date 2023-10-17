@@ -1,7 +1,7 @@
 # APE OUT
 [Store](https://store.epicgames.com/en-US/p/ape-out)  
 [View Rawdata](../../db/a/ape_out.json)  
-Rating: 4.67 (Ranked 262)  
+Rating: 4.67 (Ranked 263)  
 Number of Ratings: 33  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |

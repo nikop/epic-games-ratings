@@ -2,12 +2,12 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 899,
+  "Ranking_Rating": 900,
   "Ranking_Popularity": 97,
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3516,10 +3516,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4758,
       "NumberOfAwardsMax": 2834
+    },
+    {
+      "Time": "2023-10-17T10:59:12.524624+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4759,
+      "NumberOfAwardsMax": 2834
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4758,
+  "NumberOfAwards": 4759,
   "NumberOfAwardsMax": 2834,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3575,7 +3581,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 242
+      "Count": 243
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -3584,7 +3590,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73594,
+  "EOS_Progressed": 73595,
   "EOS_Completed": 121,
   "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 1,
@@ -18959,6 +18965,11 @@
       "Time": "2023-10-17T09:06:27.3022113+00:00",
       "NumProgressed": 73594,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-10-17T11:05:58.7831742+00:00",
+      "NumProgressed": 73595,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 61,
@@ -18970,7 +18981,7 @@
       "Name": "Hammer and Icicle",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "AC1_HA_BREAK_BUFFS",
@@ -18994,7 +19005,7 @@
       "Name": "Renewable Enemy Source",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "AC1_HA_RESERVOIR",
@@ -19034,7 +19045,7 @@
       "Name": "Showdown Sovereign",
       "Percentage": 0.4,
       "XP": 90,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "ALL_TRAINING_ROOMS",
@@ -19154,7 +19165,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6623
+      "UsersEstimate": 6624
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -19186,7 +19197,7 @@
       "Name": "Drone You Out",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 7359
+      "UsersEstimate": 7360
     },
     {
       "ID": "FREEZE_1",
@@ -19194,7 +19205,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21342
+      "UsersEstimate": 21343
     },
     {
       "ID": "FREEZE_1_5",
@@ -19282,7 +19293,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18398
+      "UsersEstimate": 18399
     },
     {
       "ID": "HARLEY_3",
@@ -19346,7 +19357,7 @@
       "Name": "Knighthood",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20606
+      "UsersEstimate": 20607
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -19370,7 +19381,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18398
+      "UsersEstimate": 18399
     },
     {
       "ID": "MYSTERY_03",
@@ -19434,7 +19445,7 @@
       "Name": "Solid Alibi",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6623
+      "UsersEstimate": 6624
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -19457,22 +19468,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73594,
+      "Progressed": 73595,
       "Completed": 121
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43874,
+      "Progressed": 43875,
       "Completed": 2669
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-10-17T03:58:29.5104304+00:00",
-  "LastChanged_Achievements": "2023-10-17T10:05:58.7494661+00:00",
+  "LastChanged": "2023-10-17T10:59:12.5246239+00:00",
+  "LastChanged_Achievements": "2023-10-17T11:05:58.7831738+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:41.7245252+00:00",
-  "LastUpdate_Ratings": "2023-10-17T09:59:00.2536318+00:00",
-  "LastUpdate_Achievements": "2023-10-17T10:05:58.7496176+00:00"
+  "LastUpdate_Ratings": "2023-10-17T10:59:12.5246244+00:00",
+  "LastUpdate_Achievements": "2023-10-17T11:05:58.7832972+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "ca4058f18b0a4a9e9e2ccc28f7f33000",
   "Name": "Kingdom Come: Deliverance",
   "ProductSlug": "kingdom-come-deliverance",
-  "Ranking_Rating": 187,
+  "Ranking_Rating": 188,
   "Ranking_Popularity": 49,
   "Ranking_PopularitySum": 48,
   "Ranking_EOS_Progress": 17,
@@ -7896,9 +7896,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 805086,
+  "EOS_Progressed": 805087,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 776,
+  "EOS_NewPlayers": 774,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -27996,6 +27996,11 @@
       "Time": "2023-10-17T10:04:26.5156386+00:00",
       "NumProgressed": 805086,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-17T11:04:14.8578109+00:00",
+      "NumProgressed": 805087,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -28543,7 +28548,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 88559
+      "UsersEstimate": 88560
     },
     {
       "ID": "Sniper",
@@ -28615,7 +28620,7 @@
       "Name": "Traveller",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 88559
+      "UsersEstimate": 88560
     },
     {
       "ID": "TrialAndError",
@@ -28662,15 +28667,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 805086,
+      "Progressed": 805087,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-10-17T03:57:23.6645318+00:00",
-  "LastChanged_Achievements": "2023-10-17T10:04:26.515638+00:00",
+  "LastChanged_Achievements": "2023-10-17T11:04:14.8578105+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:13.6850555+00:00",
-  "LastUpdate_Ratings": "2023-10-17T09:57:56.3825847+00:00",
-  "LastUpdate_Achievements": "2023-10-17T10:04:26.515852+00:00"
+  "LastUpdate_Ratings": "2023-10-17T10:57:57.1286071+00:00",
+  "LastUpdate_Achievements": "2023-10-17T11:04:14.8579737+00:00"
 }

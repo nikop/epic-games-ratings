@@ -2,7 +2,7 @@
   "ID": "c9e2559572f64192b1e37049eee27783",
   "Name": "Galactic Civilizations IV: Supernova",
   "ProductSlug": "galactic-civilizations-iv-supernova",
-  "Ranking_Rating": 551,
+  "Ranking_Rating": 552,
   "Ranking_Popularity": 537,
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 207,
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1894,
+  "EOS_Progressed": 1895,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5808,6 +5808,11 @@
       "Time": "2023-10-17T04:07:15.8880886+00:00",
       "NumProgressed": 1894,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-17T11:08:20.8830284+00:00",
+      "NumProgressed": 1895,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 77,
@@ -6434,13 +6439,13 @@
     {
       "ID": "1b9olh7",
       "IsBase": true,
-      "Progressed": 1894,
+      "Progressed": 1895,
       "Completed": 0
     },
     {
       "ID": "8ce16g",
       "IsBase": false,
-      "Progressed": 1894,
+      "Progressed": 1895,
       "Completed": 0
     }
   ],
@@ -6448,8 +6453,8 @@
   "FirstSeenRating": "2023-04-27T21:57:06.0421025+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.6199843+00:00",
   "LastChanged": "2023-10-16T01:45:21.7076556+00:00",
-  "LastChanged_Achievements": "2023-10-17T10:07:46.7282487+00:00",
+  "LastChanged_Achievements": "2023-10-17T11:08:20.883028+00:00",
   "LastUpdate_AppInfo": "2023-10-14T11:57:13.2198966+00:00",
-  "LastUpdate_Ratings": "2023-10-17T10:00:32.8390394+00:00",
-  "LastUpdate_Achievements": "2023-10-17T10:07:46.7283671+00:00"
+  "LastUpdate_Ratings": "2023-10-17T11:01:04.476307+00:00",
+  "LastUpdate_Achievements": "2023-10-17T11:08:20.8831164+00:00"
 }

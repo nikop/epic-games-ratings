@@ -1,25 +1,25 @@
 # Going Medieval
 [Store](https://store.epicgames.com/en-US/p/going-medieval)  
 [View Rawdata](../../db/g/going_medieval.json)  
-Rating: 4.60 (Ranked 399)  
+Rating: 4.60 (Ranked 400)  
 Number of Ratings: 706  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 75.00% | ~4,678 |
-| Having A Field Day | 75.00% | ~4,678 |
-| Reap What You Sow | 72.00% | ~4,491 |
-| The First Day | 69.00% | ~4,304 |
-| Green Thumb | 67.00% | ~4,179 |
-| Novice Researcher | 67.00% | ~4,179 |
-| Home Cooked Meal | 59.00% | ~3,680 |
+| Get A Room | 75.00% | ~4,679 |
+| Having A Field Day | 75.00% | ~4,679 |
+| Reap What You Sow | 72.00% | ~4,492 |
+| The First Day | 69.00% | ~4,305 |
+| Green Thumb | 67.00% | ~4,180 |
+| Novice Researcher | 67.00% | ~4,180 |
+| Home Cooked Meal | 59.00% | ~3,681 |
 | Onward | 57.00% | ~3,556 |
 | The First Week | 55.00% | ~3,431 |
 | Beam Me Up | 52.00% | ~3,244 |
 | Putting Food on the Table | 52.00% | ~3,244 |
 | Studious Researcher | 52.00% | ~3,244 |
-| Adept Researcher | 45.00% | ~2,807 |
-| Feast or Famine | 43.00% | ~2,682 |
+| Adept Researcher | 45.00% | ~2,808 |
+| Feast or Famine | 43.00% | ~2,683 |
 | Retribution | 42.00% | ~2,620 |
 | ...And Don’t Come Back! | 42.00% | ~2,620 |
 | Fit For A King | 32.00% | ~1,996 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~125 |
 | Wabbit Season | 0.50% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,238 (Ranked 166)  
+Progressed: 6,239 (Ranked 166)  
 Completed: 14 (0.22%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 14 (0.22%) (Ranked 219)
 | 2023-10-14 | 6,201 | 14 |
 | 2023-10-15 | 6,220 | 14 |
 | 2023-10-16 | 6,232 | 14 |
-| 2023-10-17 | 6,238 | 14 |
+| 2023-10-17 | 6,239 | 14 |
 ## Awards
 Max (Relaxing): 122  (Ranked 327)  
 Sum: 994 (Ranked 250)  

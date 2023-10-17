@@ -2,7 +2,7 @@
   "ID": "6098a8c7375c43458a22163a637c0c2f",
   "Name": "Spirit of the North",
   "ProductSlug": "spirit-of-the-north-f58a66",
-  "Ranking_Rating": 760,
+  "Ranking_Rating": 761,
   "Ranking_Popularity": 499,
   "Ranking_PopularitySum": 423,
   "Ranking_EOS_Progress": 92,
@@ -324,7 +324,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 71617,
+  "EOS_Progressed": 71619,
   "EOS_Completed": 379,
   "EOS_NewPlayers": 567,
   "EOS_NewCompleters": 2,
@@ -20064,6 +20064,11 @@
       "Time": "2023-10-17T10:04:05.5311578+00:00",
       "NumProgressed": 71617,
       "NumCompleted": 379
+    },
+    {
+      "Time": "2023-10-17T11:03:50.9543744+00:00",
+      "NumProgressed": 71619,
+      "NumCompleted": 379
     }
   ],
   "TotalAchievements": 24,
@@ -20091,7 +20096,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 48700
+      "UsersEstimate": 48701
     },
     {
       "ID": "BEST_FRIENDS",
@@ -20107,7 +20112,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 18620
+      "UsersEstimate": 18621
     },
     {
       "ID": "ERADICATE",
@@ -20131,7 +20136,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 20769
+      "UsersEstimate": 20770
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -20155,7 +20160,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 37957
+      "UsersEstimate": 37958
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -20171,7 +20176,7 @@
       "Name": "MATCH MAKER",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 5729
+      "UsersEstimate": 5730
     },
     {
       "ID": "NONE_FORGOTTEN",
@@ -20203,7 +20208,7 @@
       "Name": "PLAGUE DOCTOR",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 5729
+      "UsersEstimate": 5730
     },
     {
       "ID": "SPIRITED_AWAY",
@@ -20211,7 +20216,7 @@
       "Name": "SPIRITED AWAY",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 5729
+      "UsersEstimate": 5730
     },
     {
       "ID": "SPIRIT_BARK",
@@ -20266,7 +20271,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 71617,
+      "Progressed": 71619,
       "Completed": 379
     }
   ],
@@ -20274,8 +20279,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-10-17T10:04:05.5311571+00:00",
+  "LastChanged_Achievements": "2023-10-17T11:03:50.954374+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:07.1643616+00:00",
-  "LastUpdate_Ratings": "2023-10-17T09:58:11.6409915+00:00",
-  "LastUpdate_Achievements": "2023-10-17T10:04:05.5312955+00:00"
+  "LastUpdate_Ratings": "2023-10-17T10:58:15.06603+00:00",
+  "LastUpdate_Achievements": "2023-10-17T11:03:50.9544816+00:00"
 }

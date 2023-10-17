@@ -1,13 +1,13 @@
 # Hundred Days - Winemaking Simulator
 [Store](https://store.epicgames.com/en-US/p/hundred-days-winemaking-simulator)  
 [View Rawdata](../../db/h/hundred_days_-_winemaking_simulator.json)  
-Rating: 4.35 (Ranked 775)  
+Rating: 4.35 (Ranked 776)  
 Number of Ratings: 7,669  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 39.00% | ~3,265 |
-| It's a good start | 9.00% | ~753 |
+| Bye Bye | 39.00% | ~3,266 |
+| It's a good start | 9.00% | ~754 |
 | Bonjour! | 7.00% | ~586 |
 | Quack | 7.00% | ~586 |
 | The Assistant | 6.00% | ~502 |
@@ -19,13 +19,13 @@ Number of Ratings: 7,669  (23.09.2022)
 | Keep the doctor away | 3.00% | ~251 |
 | Surprise of Langhe | 3.00% | ~251 |
 | Famous | 3.00% | ~251 |
-| What is that? A castle? | 2.00% | ~167 |
-| A lot of space | 2.00% | ~167 |
-| A big garage | 2.00% | ~167 |
-| Millionaire | 2.00% | ~167 |
-| Exotic | 2.00% | ~167 |
-| Welcome to the club | 2.00% | ~167 |
-| Very Important Winemaker | 2.00% | ~167 |
+| What is that? A castle? | 2.00% | ~168 |
+| A lot of space | 2.00% | ~168 |
+| A big garage | 2.00% | ~168 |
+| Millionaire | 2.00% | ~168 |
+| Exotic | 2.00% | ~168 |
+| Welcome to the club | 2.00% | ~168 |
+| Very Important Winemaker | 2.00% | ~168 |
 | Pastry Chef | 1.00% | ~84 |
 | King of Langhe | 1.00% | ~84 |
 | Gem of Monferrato | 1.00% | ~84 |
@@ -38,7 +38,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Unsuitable Terroir | 0.20% | ~17 |
 | Master Winemaker | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,372 (Ranked 152)  
+Progressed: 8,375 (Ranked 152)  
 Completed: 8 (0.10%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 8 (0.10%) (Ranked 247)
 | 2023-10-14 | 8,046 | 7 |
 | 2023-10-15 | 8,224 | 8 |
 | 2023-10-16 | 8,345 | 8 |
-| 2023-10-17 | 8,372 | 8 |
+| 2023-10-17 | 8,375 | 8 |
 ## Awards
 Max (Relaxing): 205  (Ranked 277)  
 Sum: 1,591 (Ranked 220)  

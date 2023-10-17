@@ -2,7 +2,7 @@
   "ID": "07f4a7dd3c884e5d87e9a209716962ca",
   "Name": "Old World",
   "ProductSlug": "old-world",
-  "Ranking_Rating": 301,
+  "Ranking_Rating": 302,
   "Ranking_Popularity": 267,
   "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 135,
@@ -1875,7 +1875,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14759,
+  "EOS_Progressed": 14760,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 189,
   "EOS_NewCompleters": 0,
@@ -14070,6 +14070,11 @@
       "Time": "2023-10-17T10:08:24.7390513+00:00",
       "NumProgressed": 14759,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-17T11:09:12.580605+00:00",
+      "NumProgressed": 14760,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -14847,9 +14852,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_JUST",
       "SetID": "7l38kb8",
       "Name": "Just Difficulty",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 133
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_MAGNIFICENT",
@@ -15615,9 +15620,9 @@
       "ID": "ACHIEVEMENT_LEARNTOPLAY_3",
       "SetID": "7l38kb8",
       "Name": "Learn to Play 3",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 103
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_4",
@@ -16816,21 +16821,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14759,
+      "Progressed": 14760,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14759,
+      "Progressed": 14760,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-16T22:57:40.964526+00:00",
-  "LastChanged_Achievements": "2023-10-17T10:08:24.7390507+00:00",
+  "LastChanged_Achievements": "2023-10-17T11:09:12.5806044+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:21.7880328+00:00",
-  "LastUpdate_Ratings": "2023-10-17T09:57:47.0171736+00:00",
-  "LastUpdate_Achievements": "2023-10-17T10:08:24.7404337+00:00"
+  "LastUpdate_Ratings": "2023-10-17T10:57:45.5466929+00:00",
+  "LastUpdate_Achievements": "2023-10-17T11:09:12.5815718+00:00"
 }

@@ -1,17 +1,17 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.59 (Ranked 418)  
+Rating: 4.59 (Ranked 419)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 33.00% | ~76,358 |
-| Alt+F4 | 7.00% | ~16,197 |
-| Where's that freaking Dwarf? | 6.00% | ~13,883 |
-| Déjà vu | 5.00% | ~11,569 |
-| Sock! SOCK! | 4.00% | ~9,255 |
-| Speedrun | 4.00% | ~9,255 |
+| Sowwy! | 33.00% | ~76,360 |
+| Alt+F4 | 7.00% | ~16,198 |
+| Where's that freaking Dwarf? | 6.00% | ~13,884 |
+| Déjà vu | 5.00% | ~11,570 |
+| Sock! SOCK! | 4.00% | ~9,256 |
+| Speedrun | 4.00% | ~9,256 |
 | A beer, two curses, three companions | 3.00% | ~6,942 |
 | GG EZ | 3.00% | ~6,942 |
 | DM intervention | 3.00% | ~6,942 |
@@ -41,8 +41,8 @@ Number of Ratings: 118  (23.09.2022)
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,314 |
 | Lust and Debauchery | 1.00% | ~2,314 |
 | Thieves' Guild Accreditation | 1.00% | ~2,314 |
-| Dead for good | 0.90% | ~2,082 |
-| Material Girl | 0.90% | ~2,082 |
+| Dead for good | 0.90% | ~2,083 |
+| Material Girl | 0.90% | ~2,083 |
 | Gargantua | 0.80% | ~1,851 |
 | In Navalu's footsteps | 0.70% | ~1,620 |
 | We come in peace | 0.60% | ~1,388 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~231 |
 | Dwarf Candy | 0.10% | ~231 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,387 (Ranked 59)  
+Progressed: 231,395 (Ranked 59)  
 Completed: 5 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,7 +234,7 @@ Completed: 5 (0.00%) (Ranked 315)
 | 2023-10-14 | 230,860 | 5 |
 | 2023-10-15 | 231,139 | 5 |
 | 2023-10-16 | 231,330 | 5 |
-| 2023-10-17 | 231,387 | 5 |
+| 2023-10-17 | 231,395 | 5 |
 ## Awards
 Max (Character Customization): 216  (Ranked 273)  
 Sum: 427 (Ranked 326)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 151,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 17,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2019-12-10T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -4939,10 +4939,10 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 705482,
+  "EOS_Progressed": 705483,
   "EOS_Completed": 6413,
-  "EOS_NewPlayers": 413,
-  "EOS_NewCompleters": 11,
+  "EOS_NewPlayers": 409,
+  "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
     {
@@ -24124,6 +24124,11 @@
       "Time": "2023-10-17T10:04:20.7600774+00:00",
       "NumProgressed": 705482,
       "NumCompleted": 6413
+    },
+    {
+      "Time": "2023-10-17T11:04:08.2082456+00:00",
+      "NumProgressed": 705483,
+      "NumCompleted": 6413
     }
   ],
   "TotalAchievements": 49,
@@ -24135,7 +24140,7 @@
       "Name": "Back to Work",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 268083
+      "UsersEstimate": 268084
     },
     {
       "ID": "AchAresKills",
@@ -24183,7 +24188,7 @@
       "Name": "Three-Headed Boy",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 225754
+      "UsersEstimate": 225755
     },
     {
       "ID": "AchClearAnyRun",
@@ -24207,7 +24212,7 @@
       "Name": "Escaped Elysium",
       "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 465618
+      "UsersEstimate": 465619
     },
     {
       "ID": "AchClearElysiumEM",
@@ -24239,7 +24244,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 627879
+      "UsersEstimate": 627880
     },
     {
       "ID": "AchCrushedThanatos",
@@ -24327,7 +24332,7 @@
       "Name": "Day-or-Night Trader",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 261028
+      "UsersEstimate": 261029
     },
     {
       "ID": "AchManyCosmetics",
@@ -24343,7 +24348,7 @@
       "Name": "Had to Happen",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 176370
+      "UsersEstimate": 176371
     },
     {
       "ID": "AchMaxedAnyAspect",
@@ -24423,7 +24428,7 @@
       "Name": "Blessed by the Gods",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 261028
+      "UsersEstimate": 261029
     },
     {
       "ID": "AchPickedManyHammers",
@@ -24447,7 +24452,7 @@
       "Name": "The Family Secret",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 183425
+      "UsersEstimate": 183426
     },
     {
       "ID": "AchReachedEpilogue",
@@ -24471,7 +24476,7 @@
       "Name": "Musician and Muse",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 98767
+      "UsersEstimate": 98768
     },
     {
       "ID": "AchSisyphusLiberation",
@@ -24487,7 +24492,7 @@
       "Name": "Skelly Slayer",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 296302
+      "UsersEstimate": 296303
     },
     {
       "ID": "AchUnlockedAllWeapons",
@@ -24495,7 +24500,7 @@
       "Name": "Arms Collector",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 500892
+      "UsersEstimate": 500893
     },
     {
       "ID": "AchWeaponClears",
@@ -24526,15 +24531,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 705482,
+      "Progressed": 705483,
       "Completed": 6413
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
   "LastChanged": "2023-10-17T08:58:49.9841556+00:00",
-  "LastChanged_Achievements": "2023-10-17T10:04:20.7600768+00:00",
+  "LastChanged_Achievements": "2023-10-17T11:04:08.208245+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:22.8375164+00:00",
-  "LastUpdate_Ratings": "2023-10-17T09:58:32.5671138+00:00",
-  "LastUpdate_Achievements": "2023-10-17T10:04:20.7602376+00:00"
+  "LastUpdate_Ratings": "2023-10-17T10:58:40.3411425+00:00",
+  "LastUpdate_Achievements": "2023-10-17T11:04:08.2083679+00:00"
 }

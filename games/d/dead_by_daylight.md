@@ -1,58 +1,58 @@
 # Dead by Daylight
 [Store](https://store.epicgames.com/en-US/p/dead-by-daylight)  
 [View Rawdata](../../db/d/dead_by_daylight.json)  
-Rating: 4.51 (Ranked 551)  
+Rating: 4.51 (Ranked 552)  
 Number of Ratings: 70,340  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Handyman | 2.00% | ~18,898 |
-| Zealous | 2.00% | ~18,898 |
-| It wakes | 2.00% | ~18,898 |
-| Not half bad | 2.00% | ~18,898 |
-| Apt Survivor | 2.00% | ~18,898 |
-| Survival Treasures | 2.00% | ~18,898 |
-| Skillful | 2.00% | ~18,898 |
-| Make Some Noise | 2.00% | ~18,898 |
-| The Grand Sacrifice | 1.00% | ~9,449 |
-| Agonizing Escape | 1.00% | ~9,449 |
-| Backdoor Escape | 1.00% | ~9,449 |
-| I've got your back | 1.00% | ~9,449 |
-| No one left behind | 1.00% | ~9,449 |
-| Medic | 1.00% | ~9,449 |
-| Perfect Escape | 1.00% | ~9,449 |
-| Perfect Killing | 1.00% | ~9,449 |
-| Bloody Millionaire | 1.00% | ~9,449 |
-| I | 1.00% | ~9,449 |
-| Engineer | 1.00% | ~9,449 |
-| Sorted | 1.00% | ~9,449 |
-| Healthy Obsession | 1.00% | ~9,449 |
-| Resurgence | 1.00% | ~9,449 |
-| Close Shave | 1.00% | ~9,449 |
-| Preemptive Strike | 1.00% | ~9,449 |
-| Humanitarian | 1.00% | ~9,449 |
-| Nerves of steel | 0.90% | ~8,504 |
-| Risk it all | 0.90% | ~8,504 |
-| II | 0.90% | ~8,504 |
-| Wounded Healer | 0.90% | ~8,504 |
-| Apt Killer | 0.80% | ~7,559 |
-| Vulture | 0.80% | ~7,559 |
-| Second Act | 0.80% | ~7,559 |
-| III | 0.70% | ~6,614 |
-| With Scars to Show | 0.70% | ~6,614 |
-| Rebuilding The Borgo | 0.70% | ~6,614 |
-| Blood on your hands | 0.60% | ~5,669 |
-| Escape Artist | 0.60% | ~5,669 |
-| Made it out alive! | 0.60% | ~5,669 |
-| Near-Death Experience | 0.60% | ~5,669 |
-| Cherish your Life | 0.60% | ~5,669 |
-| Unforgettable Getaway | 0.60% | ~5,669 |
-| First to the Punch | 0.60% | ~5,669 |
-| Every Last Drop | 0.60% | ~5,669 |
-| Raccoon City Recruit | 0.60% | ~5,669 |
-| Flight to Freedom | 0.60% | ~5,669 |
-| A Fast Death | 0.60% | ~5,669 |
-| Chorus of Chaos | 0.60% | ~5,669 |
+| Handyman | 2.00% | ~18,899 |
+| Zealous | 2.00% | ~18,899 |
+| It wakes | 2.00% | ~18,899 |
+| Not half bad | 2.00% | ~18,899 |
+| Apt Survivor | 2.00% | ~18,899 |
+| Survival Treasures | 2.00% | ~18,899 |
+| Skillful | 2.00% | ~18,899 |
+| Make Some Noise | 2.00% | ~18,899 |
+| The Grand Sacrifice | 1.00% | ~9,450 |
+| Agonizing Escape | 1.00% | ~9,450 |
+| Backdoor Escape | 1.00% | ~9,450 |
+| I've got your back | 1.00% | ~9,450 |
+| No one left behind | 1.00% | ~9,450 |
+| Medic | 1.00% | ~9,450 |
+| Perfect Escape | 1.00% | ~9,450 |
+| Perfect Killing | 1.00% | ~9,450 |
+| Bloody Millionaire | 1.00% | ~9,450 |
+| I | 1.00% | ~9,450 |
+| Engineer | 1.00% | ~9,450 |
+| Sorted | 1.00% | ~9,450 |
+| Healthy Obsession | 1.00% | ~9,450 |
+| Resurgence | 1.00% | ~9,450 |
+| Close Shave | 1.00% | ~9,450 |
+| Preemptive Strike | 1.00% | ~9,450 |
+| Humanitarian | 1.00% | ~9,450 |
+| Nerves of steel | 0.90% | ~8,505 |
+| Risk it all | 0.90% | ~8,505 |
+| II | 0.90% | ~8,505 |
+| Wounded Healer | 0.90% | ~8,505 |
+| Apt Killer | 0.80% | ~7,560 |
+| Vulture | 0.80% | ~7,560 |
+| Second Act | 0.80% | ~7,560 |
+| III | 0.70% | ~6,615 |
+| With Scars to Show | 0.70% | ~6,615 |
+| Rebuilding The Borgo | 0.70% | ~6,615 |
+| Blood on your hands | 0.60% | ~5,670 |
+| Escape Artist | 0.60% | ~5,670 |
+| Made it out alive! | 0.60% | ~5,670 |
+| Near-Death Experience | 0.60% | ~5,670 |
+| Cherish your Life | 0.60% | ~5,670 |
+| Unforgettable Getaway | 0.60% | ~5,670 |
+| First to the Punch | 0.60% | ~5,670 |
+| Every Last Drop | 0.60% | ~5,670 |
+| Raccoon City Recruit | 0.60% | ~5,670 |
+| Flight to Freedom | 0.60% | ~5,670 |
+| A Fast Death | 0.60% | ~5,670 |
+| Chorus of Chaos | 0.60% | ~5,670 |
 | Gifts for the Fog | 0.50% | ~4,725 |
 | III-50 | 0.50% | ~4,725 |
 | Shock Therapy | 0.50% | ~4,725 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~945 |
 | Adept Ripley | 0.10% | ~945 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 944,905 (Ranked 14)  
+Progressed: 944,963 (Ranked 14)  
 Completed: 51 (0.01%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -416,7 +416,7 @@ Completed: 51 (0.01%) (Ranked 297)
 | 2023-10-14 | 939,759 | 50 |
 | 2023-10-15 | 942,498 | 51 |
 | 2023-10-16 | 944,360 | 51 |
-| 2023-10-17 | 944,905 | 51 |
+| 2023-10-17 | 944,963 | 51 |
 ## Awards
 Max (Diverse Characters): 34,006  (Ranked 15)  
 Sum: 262,995 (Ranked 13)  

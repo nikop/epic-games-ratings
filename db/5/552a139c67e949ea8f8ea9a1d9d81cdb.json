@@ -113,9 +113,9 @@
       "ID": "ML_ACHIEVEMENT_02",
       "SetID": "5k00jcd",
       "Name": "Acrobat",
-      "Percentage": 17,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -185,9 +185,9 @@
       "ID": "ML_ACHIEVEMENT_11",
       "SetID": "5k00jcd",
       "Name": "It\u0027s me you have to beat",
-      "Percentage": 11,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ML_ACHIEVEMENT_12",
@@ -455,8 +455,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-10-17T10:05:48.3991305+00:00",
+  "LastChanged_Achievements": "2023-10-17T11:05:46.910748+00:00",
   "LastUpdate_AppInfo": "2023-10-11T23:57:08.5579782+00:00",
-  "LastUpdate_Ratings": "2023-10-17T10:01:05.7934898+00:00",
-  "LastUpdate_Achievements": "2023-10-17T10:05:48.3991672+00:00"
+  "LastUpdate_Ratings": "2023-10-17T11:01:42.6356452+00:00",
+  "LastUpdate_Achievements": "2023-10-17T11:05:46.9107767+00:00"
 }

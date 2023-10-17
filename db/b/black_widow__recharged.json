@@ -2,7 +2,7 @@
   "ID": "a25444fc25e9498781983b58ceba30c5",
   "Name": "Black Widow: Recharged",
   "ProductSlug": "black-widow-recharged",
-  "Ranking_Rating": 873,
+  "Ranking_Rating": 874,
   "Ranking_Popularity": 537,
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 128,
@@ -158,7 +158,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18869,
+  "EOS_Progressed": 18870,
   "EOS_Completed": 56,
   "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 1,
@@ -14673,6 +14673,11 @@
       "Time": "2023-10-17T10:06:15.4813077+00:00",
       "NumProgressed": 18869,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-10-17T11:06:17.794751+00:00",
+      "NumProgressed": 18870,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 14,
@@ -14684,7 +14689,7 @@
       "Name": "Across The Border",
       "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 14718
+      "UsersEstimate": 14719
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -14764,7 +14769,7 @@
       "Name": "Look at Me Now",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 5283
+      "UsersEstimate": 5284
     },
     {
       "ID": "ACH_THE_FALL",
@@ -14772,7 +14777,7 @@
       "Name": "The Fall",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 3396
+      "UsersEstimate": 3397
     },
     {
       "ID": "ACH_TIME_OF_OUR_LIFE",
@@ -14795,15 +14800,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 18869,
+      "Progressed": 18870,
       "Completed": 56
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-10-11T19:57:53.043932+00:00",
-  "LastChanged_Achievements": "2023-10-17T10:06:15.4813062+00:00",
+  "LastChanged_Achievements": "2023-10-17T11:06:17.7947505+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:14.5085638+00:00",
-  "LastUpdate_Ratings": "2023-10-17T09:59:52.0296899+00:00",
-  "LastUpdate_Achievements": "2023-10-17T10:06:15.4814094+00:00"
+  "LastUpdate_Ratings": "2023-10-17T11:00:16.8678668+00:00",
+  "LastUpdate_Achievements": "2023-10-17T11:06:17.7948254+00:00"
 }

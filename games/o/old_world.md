@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 301)  
+Rating: 4.65 (Ranked 302)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -57,6 +57,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great | 0.90% | ~133 |
 | Valiant | 0.90% | ~133 |
 | Legendary Cities | 0.90% | ~133 |
+| Just Difficulty | 0.90% | ~133 |
 | Apadana | 0.90% | ~133 |
 | Colossus | 0.90% | ~133 |
 | Musaeum | 0.90% | ~133 |
@@ -64,7 +65,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 2 | 0.90% | ~133 |
 | Manichaeism | 0.90% | ~133 |
 | Mighty | 0.80% | ~118 |
-| Just Difficulty | 0.80% | ~118 |
 | Artisans | 0.80% | ~118 |
 | Acropolis | 0.80% | ~118 |
 | Mythology | 0.80% | ~118 |
@@ -76,13 +76,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Champions | 0.70% | ~103 |
 | Sages | 0.70% | ~103 |
 | Mausoleum | 0.70% | ~103 |
+| Learn to Play 3 | 0.70% | ~103 |
 | Intercessor | 0.60% | ~89 |
 | Lion | 0.60% | ~89 |
 | Good Difficulty | 0.60% | ~89 |
 | Patrons | 0.60% | ~89 |
 | Circus Maximus | 0.60% | ~89 |
 | Pantheon | 0.60% | ~89 |
-| Learn to Play 3 | 0.60% | ~89 |
 | Greece | 0.60% | ~89 |
 | Power to the People | 0.60% | ~89 |
 | Persian Paganism | 0.60% | ~89 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,759 (Ranked 135)  
+Progressed: 14,760 (Ranked 135)  
 Completed: 5 (0.03%) (Ranked 284)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -529,7 +529,7 @@ Completed: 5 (0.03%) (Ranked 284)
 | 2023-10-14 | 14,699 | 5 |
 | 2023-10-15 | 14,732 | 5 |
 | 2023-10-16 | 14,747 | 5 |
-| 2023-10-17 | 14,759 | 5 |
+| 2023-10-17 | 14,760 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,842 (Ranked 210)  

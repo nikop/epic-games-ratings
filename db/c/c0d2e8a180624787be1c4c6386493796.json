@@ -227,9 +227,9 @@
       "ID": "KR4_ACHIEVEMENT_DARK_SIDE",
       "SetID": "caeik3h",
       "Name": "Join The Dark Side",
-      "Percentage": 20,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "KR4_ACHIEVEMENT_DEFEAT_DWARF_KING",
@@ -595,9 +595,9 @@
       "ID": "KR4_ACHIEVEMENT_PUMPKIN",
       "SetID": "caeik3h",
       "Name": "Smashing Pumpkins",
-      "Percentage": 20,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "KR4_ACHIEVEMENT_ROCKETRIDERS",
@@ -754,8 +754,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-10-17T10:04:21.5997688+00:00",
+  "LastChanged_Achievements": "2023-10-17T11:04:09.1019028+00:00",
   "LastUpdate_AppInfo": "2023-10-12T15:57:01.5965856+00:00",
-  "LastUpdate_Ratings": "2023-10-17T09:59:33.2236748+00:00",
-  "LastUpdate_Achievements": "2023-10-17T10:04:21.5998428+00:00"
+  "LastUpdate_Ratings": "2023-10-17T10:59:53.7118846+00:00",
+  "LastUpdate_Achievements": "2023-10-17T11:04:09.1019661+00:00"
 }

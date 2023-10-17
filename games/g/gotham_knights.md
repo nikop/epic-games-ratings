@@ -1,17 +1,17 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.18 (Ranked 899)  
+Rating: 4.18 (Ranked 900)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 52.00% | ~38,269 |
 | Har, Har, Har, Very Funny | 35.00% | ~25,758 |
 | Loose Ends | 34.00% | ~25,022 |
-| To the Victor Go the Spoils | 29.00% | ~21,342 |
-| Knighthood | 28.00% | ~20,606 |
-| Get ReQ'd | 25.00% | ~18,398 |
-| Whispered Words | 25.00% | ~18,398 |
+| To the Victor Go the Spoils | 29.00% | ~21,343 |
+| Knighthood | 28.00% | ~20,607 |
+| Get ReQ'd | 25.00% | ~18,399 |
+| Whispered Words | 25.00% | ~18,399 |
 | The Batman Family | 23.00% | ~16,927 |
 | Lock and Key | 23.00% | ~16,927 |
 | Something in the Clay | 21.00% | ~15,455 |
@@ -35,9 +35,9 @@ Rating: 4.18 (Ranked 899)
 | Bulldozed | 12.00% | ~8,831 |
 | Gotham Knight | 12.00% | ~8,831 |
 | Gotham City Confidential | 11.00% | ~8,095 |
-| Drone You Out | 10.00% | ~7,359 |
-| Out of Their League | 9.00% | ~6,623 |
-| Solid Alibi | 9.00% | ~6,623 |
+| Drone You Out | 10.00% | ~7,360 |
+| Out of Their League | 9.00% | ~6,624 |
+| Solid Alibi | 9.00% | ~6,624 |
 | Fusion Expert | 7.00% | ~5,152 |
 | Family Meeting | 7.00% | ~5,152 |
 | Expert Crime Fighter | 6.00% | ~4,416 |
@@ -59,15 +59,15 @@ Rating: 4.18 (Ranked 899)
 | Don't Mecha Big Deal About It | 0.60% | ~263 |
 | Confronting Your Demon | 0.60% | ~263 |
 | That's Showbiz, Clayby | 0.50% | ~219 |
-| Hammer and Icicle | 0.40% | ~175 |
-| Renewable Enemy Source | 0.40% | ~175 |
-| Showdown Sovereign | 0.40% | ~175 |
+| Hammer and Icicle | 0.40% | ~176 |
+| Renewable Enemy Source | 0.40% | ~176 |
+| Showdown Sovereign | 0.40% | ~176 |
 | Crime Is a Terrible Thing to Waste | 0.30% | ~132 |
 | The Cold, the Bad and the Ugly | 0.30% | ~132 |
 | Element of Surprise | 0.20% | ~88 |
 | It's Nice to Be Wanted | 0.20% | ~88 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,594 (Ranked 91)  
+Progressed: 73,595 (Ranked 91)  
 Completed: 121 (0.16%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,18 +247,18 @@ Completed: 121 (0.16%) (Ranked 232)
 | 2023-10-14 | 73,512 | 121 |
 | 2023-10-15 | 73,552 | 121 |
 | 2023-10-16 | 73,582 | 121 |
-| 2023-10-17 | 73,594 | 121 |
+| 2023-10-17 | 73,595 | 121 |
 ## Awards
 Max (Great Boss Battles): 2,834  (Ranked 97)  
-Sum: 4,758 (Ranked 139)  
+Sum: 4,759 (Ranked 139)  
 Diff (max vs sum): -42  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,834 |
 | This game is Relaxing | 247 |
 | This game is Extremely Fun | 244 |
+| This game has Diverse Characters | 243 |
 | This game is Great for Beginners | 242 |
-| This game has Diverse Characters | 242 |
 | This game has Quickly Understood Controls | 240 |
 | This game has Amazing Storytelling | 237 |
 | This game has Amazing Characters | 236 |
@@ -501,4 +501,4 @@ Diff (max vs sum): -42
 | 2023-10-14 | 4.18 | 2,822 | 4,737 |
 | 2023-10-15 | 4.18 | 2,828 | 4,748 |
 | 2023-10-16 | 4.18 | 2,834 | 4,756 |
-| 2023-10-17 | 4.18 | 2,834 | 4,758 |
+| 2023-10-17 | 4.18 | 2,834 | 4,759 |

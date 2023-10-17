@@ -2,7 +2,7 @@
   "ID": "f9bc208b965c4fb7afd0c842d764fc37",
   "Name": "Sherlock Holmes The Awakened",
   "ProductSlug": "sherlock-holmes-the-awakened",
-  "Ranking_Rating": 337,
+  "Ranking_Rating": 338,
   "Ranking_Popularity": 537,
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 258,
@@ -2660,9 +2660,9 @@
       "ID": "MQ05_2",
       "SetID": "bbing49",
       "Name": "Back In The Saddle",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 321
+      "UsersEstimate": 327
     },
     {
       "ID": "MQ05_3",
@@ -2773,8 +2773,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-09-29T08:03:08.864479+00:00",
-  "LastChanged_Achievements": "2023-10-17T10:07:17.3973549+00:00",
+  "LastChanged_Achievements": "2023-10-17T11:07:37.9034722+00:00",
   "LastUpdate_AppInfo": "2023-10-14T11:57:11.1901804+00:00",
-  "LastUpdate_Ratings": "2023-10-17T10:00:04.7744485+00:00",
-  "LastUpdate_Achievements": "2023-10-17T10:07:17.3973902+00:00"
+  "LastUpdate_Ratings": "2023-10-17T11:00:31.8029923+00:00",
+  "LastUpdate_Achievements": "2023-10-17T11:07:37.9034995+00:00"
 }

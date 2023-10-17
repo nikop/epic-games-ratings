@@ -2,7 +2,7 @@
   "ID": "b8abdf9f9bc64ed6b4128a71fd47607f",
   "Name": "Gamedec - Definitive Edition",
   "ProductSlug": "gamedec",
-  "Ranking_Rating": 821,
+  "Ranking_Rating": 822,
   "Ranking_Popularity": 369,
   "Ranking_PopularitySum": 442,
   "Ranking_EOS_Progress": 53,
@@ -438,9 +438,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 249350,
+  "EOS_Progressed": 249355,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 723,
+  "EOS_NewPlayers": 722,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20528,6 +20528,11 @@
       "Time": "2023-10-17T10:09:34.7253871+00:00",
       "NumProgressed": 249350,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-17T11:09:45.624148+00:00",
+      "NumProgressed": 249355,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -20539,7 +20544,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 67324
+      "UsersEstimate": 67326
     },
     {
       "ID": "ACH_AON",
@@ -20579,7 +20584,7 @@
       "Name": "Collector",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 29922
+      "UsersEstimate": 29923
     },
     {
       "ID": "ACH_ENJOY",
@@ -20611,7 +20616,7 @@
       "Name": "Hoarder",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7480
+      "UsersEstimate": 7481
     },
     {
       "ID": "ACH_HERCULESBEPROUD",
@@ -20659,7 +20664,7 @@
       "Name": "I like to sniff around",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7480
+      "UsersEstimate": 7481
     },
     {
       "ID": "ACH_IRONDEC",
@@ -20683,7 +20688,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 69818
+      "UsersEstimate": 69819
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -20755,7 +20760,7 @@
       "Name": "Write that down",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 59844
+      "UsersEstimate": 59845
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -20811,7 +20816,7 @@
       "Name": "It\u0027s honest work",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 17454
+      "UsersEstimate": 17455
     },
     {
       "ID": "ACH_MEMESMART",
@@ -20835,7 +20840,7 @@
       "Name": "Mind reader",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 7480
+      "UsersEstimate": 7481
     },
     {
       "ID": "ACH_NOSTRINGS",
@@ -20859,7 +20864,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 62338
+      "UsersEstimate": 62339
     },
     {
       "ID": "ACH_SOREAD",
@@ -20954,7 +20959,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 249350,
+      "Progressed": 249355,
       "Completed": 7
     }
   ],
@@ -20962,8 +20967,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-10-15T11:58:28.2667382+00:00",
-  "LastChanged_Achievements": "2023-10-17T10:09:34.7253865+00:00",
+  "LastChanged_Achievements": "2023-10-17T11:09:45.6241476+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:29.8544864+00:00",
-  "LastUpdate_Ratings": "2023-10-17T09:58:41.6690346+00:00",
-  "LastUpdate_Achievements": "2023-10-17T10:09:34.7255597+00:00"
+  "LastUpdate_Ratings": "2023-10-17T10:58:50.3075708+00:00",
+  "LastUpdate_Achievements": "2023-10-17T11:09:45.6242751+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "93ea0d593cb04e62afb0741bbf894173",
   "Name": "Redout: Enhanced Edition",
   "ProductSlug": "redout-enhanced-edition",
-  "Ranking_Rating": 573,
+  "Ranking_Rating": 574,
   "Ranking_Popularity": 537,
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 57,
@@ -334,9 +334,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 233818,
+  "EOS_Progressed": 233819,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 436,
+  "EOS_NewPlayers": 437,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -19284,6 +19284,11 @@
       "Time": "2023-10-17T09:08:05.3264043+00:00",
       "NumProgressed": 233818,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-10-17T11:07:39.7023481+00:00",
+      "NumProgressed": 233819,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 34,
@@ -19319,7 +19324,7 @@
       "Name": "CENTAUR",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 18705
+      "UsersEstimate": 18706
     },
     {
       "ID": "CHALLENGER",
@@ -19359,7 +19364,7 @@
       "Name": "FASTER THAN EVER",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 18705
+      "UsersEstimate": 18706
     },
     {
       "ID": "FLAWLESS",
@@ -19559,22 +19564,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 95865
+      "UsersEstimate": 95866
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 233818,
+      "Progressed": 233819,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-10-17T10:07:19.0446689+00:00",
+  "LastChanged_Achievements": "2023-10-17T11:07:39.7023476+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:10.7010053+00:00",
-  "LastUpdate_Ratings": "2023-10-17T09:58:06.0179111+00:00",
-  "LastUpdate_Achievements": "2023-10-17T10:07:19.0448127+00:00"
+  "LastUpdate_Ratings": "2023-10-17T10:58:08.3329146+00:00",
+  "LastUpdate_Achievements": "2023-10-17T11:07:39.7024649+00:00"
 }

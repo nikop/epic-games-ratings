@@ -2,7 +2,7 @@
   "ID": "144f9e231e2846d1a4381d9bb678f69d",
   "Name": "Warhammer 40,000: Mechanicus - Standard Edition",
   "ProductSlug": "warhammer-mechanicus-0e4b71",
-  "Ranking_Rating": 673,
+  "Ranking_Rating": 674,
   "Ranking_Popularity": 247,
   "Ranking_PopularitySum": 198,
   "Ranking_EOS_Progress": 63,
@@ -783,9 +783,9 @@
       "Count": 98
     }
   ],
-  "EOS_Progressed": 224946,
+  "EOS_Progressed": 224949,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 552,
+  "EOS_NewPlayers": 553,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20393,6 +20393,11 @@
       "Time": "2023-10-17T09:07:06.147527+00:00",
       "NumProgressed": 224946,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-17T11:06:34.8235524+00:00",
+      "NumProgressed": 224949,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -20412,7 +20417,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 58486
+      "UsersEstimate": 58487
     },
     {
       "ID": "ACH_BASE_11",
@@ -20675,7 +20680,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 224946,
+      "Progressed": 224949,
       "Completed": 5
     }
   ],
@@ -20683,8 +20688,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-10-15T07:04:04.0148832+00:00",
-  "LastChanged_Achievements": "2023-10-17T10:06:30.6088859+00:00",
+  "LastChanged_Achievements": "2023-10-17T11:06:34.8235517+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:01.3902355+00:00",
-  "LastUpdate_Ratings": "2023-10-17T10:03:21.0731974+00:00",
-  "LastUpdate_Achievements": "2023-10-17T10:06:30.6090336+00:00"
+  "LastUpdate_Ratings": "2023-10-17T11:02:18.8486946+00:00",
+  "LastUpdate_Achievements": "2023-10-17T11:06:34.8236646+00:00"
 }

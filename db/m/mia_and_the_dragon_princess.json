@@ -4,7 +4,7 @@
   "ProductSlug": "mia-and-the-dragon-princess-f4e1d0",
   "Ranking_EOS_Progress": 405,
   "Ranking_EOS_Completed": 101,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-05-04T07:00:00+00:00",
@@ -483,9 +483,9 @@
       "ID": "explosive_end",
       "SetID": "5anb57n",
       "Name": "Explosive End",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 90,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "finger_lickin_bad",
@@ -563,9 +563,9 @@
       "ID": "snitch",
       "SetID": "5anb57n",
       "Name": "Snitch",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "tour_guide_extraordinaire",
@@ -586,8 +586,8 @@
   ],
   "FirstSeen": "2023-05-13T16:58:04.6283661+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:18.2098384+00:00",
-  "LastChanged_Achievements": "2023-10-17T10:03:53.7667734+00:00",
+  "LastChanged_Achievements": "2023-10-17T11:03:37.483098+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:44.1296427+00:00",
-  "LastUpdate_Ratings": "2023-10-17T09:57:21.0996788+00:00",
-  "LastUpdate_Achievements": "2023-10-17T10:03:53.7667894+00:00"
+  "LastUpdate_Ratings": "2023-10-17T10:57:14.637865+00:00",
+  "LastUpdate_Achievements": "2023-10-17T11:03:37.4831109+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "c0783fd957634390af33808d1a1f56dd",
   "Name": "No Straight Roads",
   "ProductSlug": "no-straight-roads",
-  "Ranking_Rating": 222,
+  "Ranking_Rating": 223,
   "Ranking_Popularity": 537,
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 671,
@@ -70,6 +70,6 @@
   "FirstSeenRating": "2022-10-06T02:00:31.3504442+00:00",
   "LastChanged": "2023-03-31T05:57:07.7543914+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:40.3091126+00:00",
-  "LastUpdate_Ratings": "2023-10-17T09:59:00.2814766+00:00",
-  "LastUpdate_Achievements": "2023-10-17T10:05:48.3313403+00:00"
+  "LastUpdate_Ratings": "2023-10-17T10:59:12.5673415+00:00",
+  "LastUpdate_Achievements": "2023-10-17T11:05:46.6455455+00:00"
 }

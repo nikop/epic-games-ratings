@@ -1,22 +1,22 @@
 # Mount & Blade II: Bannerlord
 [Store](https://store.epicgames.com/en-US/p/mount-and-blade-2)  
 [View Rawdata](../../db/m/mount_&_blade_ii__bannerlord.json)  
-Rating: 4.74 (Ranked 148)  
+Rating: 4.74 (Ranked 149)  
 Number of Ratings: 5,603  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 39.00% | ~24,733 |
-| Landlord | 33.00% | ~20,928 |
-| Bannerlord | 23.00% | ~14,586 |
-| Horde breaker | 23.00% | ~14,586 |
-| Lawmaker | 23.00% | ~14,586 |
-| Trained | 23.00% | ~14,586 |
+| Lawbringer | 39.00% | ~24,734 |
+| Landlord | 33.00% | ~20,929 |
+| Bannerlord | 23.00% | ~14,587 |
+| Horde breaker | 23.00% | ~14,587 |
+| Lawmaker | 23.00% | ~14,587 |
+| Trained | 23.00% | ~14,587 |
 | The king is pleased | 19.00% | ~12,050 |
 | King Solomon | 17.00% | ~10,781 |
 | I can do it | 16.00% | ~10,147 |
 | Apple of my eye | 15.00% | ~9,513 |
-| God of the Arena | 13.00% | ~8,244 |
+| God of the Arena | 13.00% | ~8,245 |
 | Against all odds | 12.00% | ~7,610 |
 | This Is Our Land | 12.00% | ~7,610 |
 | Duelist | 10.00% | ~6,342 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,419 (Ranked 98)  
+Progressed: 63,420 (Ranked 98)  
 Completed: 0 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,10 +238,10 @@ Completed: 0 (0.00%) (Ranked 315)
 | 2023-10-14 | 63,287 | 0 |
 | 2023-10-15 | 63,356 | 0 |
 | 2023-10-16 | 63,408 | 0 |
-| 2023-10-17 | 63,419 | 0 |
+| 2023-10-17 | 63,420 | 0 |
 ## Awards
 Max (Character Customization): 7,242  (Ranked 52)  
-Sum: 14,902 (Ranked 66)  
+Sum: 14,903 (Ranked 66)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -252,7 +252,7 @@ Diff (max vs sum): -14
 | This game is Extremely Fun | 852 |
 | This game has Amazing Storytelling | 841 |
 | This game has Amazing Characters | 838 |
-| This game is Relaxing | 833 |
+| This game is Relaxing | 834 |
 | This game has Quickly Understood Controls | 814 |
 | This game has a Creative Community | 611 |
 | This game has Obsessive Gameplay | 376 |
@@ -535,4 +535,4 @@ Diff (max vs sum): -14
 | 2023-10-14 | 4.74 | - | 7,233 | 14,873 |
 | 2023-10-15 | 4.74 | - | 7,233 | 14,881 |
 | 2023-10-16 | 4.74 | - | 7,238 | 14,898 |
-| 2023-10-17 | 4.74 | - | 7,242 | 14,902 |
+| 2023-10-17 | 4.74 | - | 7,242 | 14,903 |

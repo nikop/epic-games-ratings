@@ -1,7 +1,7 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.06 (Ranked 953)  
+Rating: 4.06 (Ranked 954)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -61,9 +61,9 @@ Rating: 4.06 (Ranked 953)
 | Arena Challenger | 5.00% | ~102 |
 | Background Story | 5.00% | ~102 |
 | Ebony Jungle Liberator | 5.00% | ~102 |
+| Mythic Power | 4.00% | ~82 |
 | What lies behind the bush | 4.00% | ~82 |
 | Gear Enchanting | 3.00% | ~61 |
-| Mythic Power | 3.00% | ~61 |
 | Cauldron Liberator | 2.00% | ~41 |
 | Enchanting skill x5 | 2.00% | ~41 |
 | Guardian Master | 2.00% | ~41 |

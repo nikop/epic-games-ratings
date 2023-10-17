@@ -2,7 +2,7 @@
   "ID": "fda0f2b4047f46ffb4e94d5595c1468e",
   "Name": "Mortal Kombat 1",
   "ProductSlug": "mortal-kombat-1",
-  "Ranking_Rating": 627,
+  "Ranking_Rating": 628,
   "Ranking_Popularity": 139,
   "Ranking_PopularitySum": 169,
   "Ranking_EOS_Progress": 156,
@@ -1344,9 +1344,9 @@
       "Count": 225
     }
   ],
-  "EOS_Progressed": 7714,
+  "EOS_Progressed": 7715,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 392,
+  "EOS_NewPlayers": 391,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4609,6 +4609,11 @@
       "Time": "2023-10-17T09:09:15.6508228+00:00",
       "NumProgressed": 7714,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-17T11:09:14.1694409+00:00",
+      "NumProgressed": 7715,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -4637,7 +4642,7 @@
       "Name": "A New Timeline",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 3394
+      "UsersEstimate": 3395
     },
     {
       "ID": "ach04",
@@ -4661,7 +4666,7 @@
       "Name": "Titan",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 5708
+      "UsersEstimate": 5709
     },
     {
       "ID": "ach07",
@@ -4677,7 +4682,7 @@
       "Name": "It Has Begun!!!",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2854
+      "UsersEstimate": 2855
     },
     {
       "ID": "ach09",
@@ -4733,7 +4738,7 @@
       "Name": "Give A Koin",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 1851
+      "UsersEstimate": 1852
     },
     {
       "ID": "ach16",
@@ -4749,7 +4754,7 @@
       "Name": "So I Just Kill Stuff??",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 3934
+      "UsersEstimate": 3935
     },
     {
       "ID": "ach18",
@@ -4805,7 +4810,7 @@
       "Name": "Ultimate Power",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 3548
+      "UsersEstimate": 3549
     },
     {
       "ID": "ach25",
@@ -4829,7 +4834,7 @@
       "Name": "So Krafty",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 2391
+      "UsersEstimate": 2392
     },
     {
       "ID": "ach28",
@@ -4869,7 +4874,7 @@
       "Name": "Who Da Boss??",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 1928
+      "UsersEstimate": 1929
     },
     {
       "ID": "ach33",
@@ -4885,7 +4890,7 @@
       "Name": "Always Accessorize",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2468
+      "UsersEstimate": 2469
     },
     {
       "ID": "ach35",
@@ -4925,7 +4930,7 @@
       "Name": "Make Way, I\u0027m Koming Through",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 3008
+      "UsersEstimate": 3009
     },
     {
       "ID": "ach40",
@@ -4933,7 +4938,7 @@
       "Name": "Found You",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 2854
+      "UsersEstimate": 2855
     },
     {
       "ID": "ach41",
@@ -4941,7 +4946,7 @@
       "Name": "Stop Hiding",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2854
+      "UsersEstimate": 2855
     },
     {
       "ID": "ach42",
@@ -5013,14 +5018,14 @@
       "Name": "Witness Me!!!",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2854
+      "UsersEstimate": 2855
     }
   ],
   "AchievementSets": [
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 7714,
+      "Progressed": 7715,
       "Completed": 0
     }
   ],
@@ -5028,8 +5033,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-10-17T05:00:21.8562454+00:00",
-  "LastChanged_Achievements": "2023-10-17T10:09:06.8606727+00:00",
+  "LastChanged_Achievements": "2023-10-17T11:09:14.1694405+00:00",
   "LastUpdate_AppInfo": "2023-10-14T07:57:06.3888504+00:00",
-  "LastUpdate_Ratings": "2023-10-17T10:00:01.8557227+00:00",
-  "LastUpdate_Achievements": "2023-10-17T10:09:06.8607388+00:00"
+  "LastUpdate_Ratings": "2023-10-17T11:00:28.4131758+00:00",
+  "LastUpdate_Achievements": "2023-10-17T11:09:14.1694879+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "89fb09a222a54e53b692e9c36e68d0a1",
   "Name": "Filament",
   "ProductSlug": "filament-332a92",
-  "Ranking_Rating": 790,
+  "Ranking_Rating": 791,
   "Ranking_Popularity": 197,
   "Ranking_PopularitySum": 288,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -267,9 +267,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 203576,
+  "EOS_Progressed": 203577,
   "EOS_Completed": 518,
-  "EOS_NewPlayers": 391,
+  "EOS_NewPlayers": 389,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -19647,6 +19647,11 @@
       "Time": "2023-10-17T09:03:42.7968379+00:00",
       "NumProgressed": 203576,
       "NumCompleted": 518
+    },
+    {
+      "Time": "2023-10-17T11:03:35.6708279+00:00",
+      "NumProgressed": 203577,
+      "NumCompleted": 518
     }
   ],
   "TotalAchievements": 29,
@@ -19682,7 +19687,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 191361
+      "UsersEstimate": 191362
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -19889,7 +19894,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 203576,
+      "Progressed": 203577,
       "Completed": 518
     }
   ],
@@ -19897,8 +19902,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-10-13T02:58:16.6970015+00:00",
-  "LastChanged_Achievements": "2023-10-17T10:03:52.0701994+00:00",
+  "LastChanged_Achievements": "2023-10-17T11:03:35.6708274+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:18.0641163+00:00",
-  "LastUpdate_Ratings": "2023-10-17T09:59:23.1575408+00:00",
-  "LastUpdate_Achievements": "2023-10-17T10:03:52.0703402+00:00"
+  "LastUpdate_Ratings": "2023-10-17T10:59:40.919364+00:00",
+  "LastUpdate_Achievements": "2023-10-17T11:03:35.6709336+00:00"
 }

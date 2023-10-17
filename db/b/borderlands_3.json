@@ -2,7 +2,7 @@
   "ID": "catnip",
   "Name": "Borderlands 3",
   "ProductSlug": "borderlands-3",
-  "Ranking_Rating": 222,
+  "Ranking_Rating": 223,
   "Ranking_Popularity": 8,
   "Ranking_PopularitySum": 9,
   "Ranking_EOS_Progress": 671,
@@ -13328,18 +13328,24 @@
       "Rating": 4.69,
       "NumberOfAwards": 357044,
       "NumberOfAwardsMax": 118824
+    },
+    {
+      "Time": "2023-10-17T10:58:19.8499405+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 357125,
+      "NumberOfAwardsMax": 118862
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 357044,
-  "NumberOfAwardsMax": 118824,
+  "NumberOfAwards": 357125,
+  "NumberOfAwardsMax": 118862,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 118824
+      "Count": 118862
     },
     {
       "Text": "This game is Great for Beginners",
@@ -13363,7 +13369,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 27775
+      "Count": 27797
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -13387,7 +13393,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 25242
+      "Count": 25263
     },
     {
       "Text": "This game has Unique Visuals",
@@ -13413,8 +13419,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:32.2549878+00:00",
-  "LastChanged": "2023-10-17T08:58:28.5459819+00:00",
+  "LastChanged": "2023-10-17T10:58:19.8499403+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:10.6275971+00:00",
-  "LastUpdate_Ratings": "2023-10-17T09:58:15.7538298+00:00",
-  "LastUpdate_Achievements": "2023-10-17T10:07:34.0642564+00:00"
+  "LastUpdate_Ratings": "2023-10-17T10:58:19.849941+00:00",
+  "LastUpdate_Achievements": "2023-10-17T11:08:06.6228678+00:00"
 }

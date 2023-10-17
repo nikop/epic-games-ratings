@@ -2,8 +2,8 @@
   "ID": "b4e95103463b491ab34b29e616404325",
   "Name": "The Alto Collection",
   "ProductSlug": "the-alto-collection",
-  "Ranking_Rating": 204,
-  "Ranking_Popularity": 420,
+  "Ranking_Rating": 205,
+  "Ranking_Popularity": 421,
   "Ranking_PopularitySum": 335,
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 297,
@@ -781,9 +781,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 42945,
+  "EOS_Progressed": 42949,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 767,
+  "EOS_NewPlayers": 759,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -20976,6 +20976,11 @@
       "Time": "2023-10-17T10:05:31.8505153+00:00",
       "NumProgressed": 42945,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-17T11:05:28.1413609+00:00",
+      "NumProgressed": 42949,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -21027,7 +21032,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 11595
+      "UsersEstimate": 11596
     },
     {
       "ID": "goals180",
@@ -21043,7 +21048,7 @@
       "Name": "Amateur",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4294
+      "UsersEstimate": 4295
     },
     {
       "ID": "goals75",
@@ -21115,7 +21120,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 6871
+      "UsersEstimate": 6872
     },
     {
       "ID": "playerFelipe",
@@ -21195,7 +21200,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 11166
+      "UsersEstimate": 11167
     },
     {
       "ID": "sandboarder",
@@ -21298,15 +21303,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 42945,
+      "Progressed": 42949,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-10-12T08:00:34.9108004+00:00",
-  "LastChanged_Achievements": "2023-10-17T10:05:31.8505146+00:00",
+  "LastChanged_Achievements": "2023-10-17T11:05:28.1413605+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:17.6286578+00:00",
   "LastUpdate_Ratings": "2023-10-17T10:03:27.2885861+00:00",
-  "LastUpdate_Achievements": "2023-10-17T10:05:31.8506902+00:00"
+  "LastUpdate_Achievements": "2023-10-17T11:05:28.1414793+00:00"
 }
