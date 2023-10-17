@@ -55,7 +55,7 @@ Rating: 4.82 (Ranked 63)
 | Chains master | 10.00% | ~260 |
 | The great mage rebellion starts now | 10.00% | ~260 |
 | You can pet the... horse | 10.00% | ~260 |
-| Spellcrafting | 9.00% | ~234 |
+| Spellcrafting | 10.00% | ~260 |
 | Silverwing nest | 2.00% | ~52 |
 | The Unshackled | 1.00% | ~26 |
 ## Popularity (Based on EOS Achievements)

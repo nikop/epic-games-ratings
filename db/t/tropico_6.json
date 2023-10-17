@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 278,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1260,7 +1260,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5595,
+  "EOS_Progressed": 5596,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
@@ -11460,6 +11460,11 @@
       "Time": "2023-10-17T20:06:28.7192465+00:00",
       "NumProgressed": 5595,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-17T22:07:25.279079+00:00",
+      "NumProgressed": 5596,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -11511,7 +11516,7 @@
       "Name": "Go Sovereigns!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 615
+      "UsersEstimate": 616
     },
     {
       "ID": "ACH_EP_BATTLEROYALE",
@@ -11615,7 +11620,7 @@
       "Name": "For Science!",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 615
+      "UsersEstimate": 616
     },
     {
       "ID": "ACH_GOVERNATOR",
@@ -11631,7 +11636,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4196
+      "UsersEstimate": 4197
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -11743,7 +11748,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2070
+      "UsersEstimate": 2071
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -11790,15 +11795,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5595,
+      "Progressed": 5596,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-10-16T23:00:54.8022561+00:00",
-  "LastChanged_Achievements": "2023-10-17T21:06:25.4418891+00:00",
+  "LastChanged_Achievements": "2023-10-17T22:07:25.2790786+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:19.8725489+00:00",
-  "LastUpdate_Ratings": "2023-10-17T20:59:36.2191598+00:00",
-  "LastUpdate_Achievements": "2023-10-17T21:06:25.4419885+00:00"
+  "LastUpdate_Ratings": "2023-10-17T22:00:24.9577604+00:00",
+  "LastUpdate_Achievements": "2023-10-17T22:07:25.2791744+00:00"
 }

@@ -49,6 +49,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 1 | 1.00% | ~148 |
 | Christianity | 1.00% | ~148 |
 | Judaism | 1.00% | ~148 |
+| Manichaeism | 1.00% | ~148 |
 | Babylonian Paganism | 1.00% | ~148 |
 | Carthaginian Paganism | 1.00% | ~148 |
 | Egyptian Paganism | 1.00% | ~148 |
@@ -63,7 +64,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Apadana | 0.90% | ~133 |
 | Necropolis | 0.90% | ~133 |
 | Learn to Play 2 | 0.90% | ~133 |
-| Manichaeism | 0.90% | ~133 |
 | Mighty | 0.80% | ~118 |
 | Artisans | 0.80% | ~118 |
 | Champions | 0.80% | ~118 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,771 (Ranked 135)  
+Progressed: 14,773 (Ranked 135)  
 Completed: 5 (0.03%) (Ranked 284)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -529,7 +529,7 @@ Completed: 5 (0.03%) (Ranked 284)
 | 2023-10-14 | 14,699 | 5 |
 | 2023-10-15 | 14,732 | 5 |
 | 2023-10-16 | 14,747 | 5 |
-| 2023-10-17 | 14,771 | 5 |
+| 2023-10-17 | 14,773 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,842 (Ranked 210)  

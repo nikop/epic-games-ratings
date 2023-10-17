@@ -14,12 +14,12 @@
 | The happy farmer girl | 50.00% | ~15 |
 | A rival with no options | 43.00% | ~13 |
 | Pulp! Terror Tales in the Night | 43.00% | ~13 |
+| Pulp! Out of this World | 43.00% | ~13 |
+| Pulp! Adventures into the Unknown | 43.00% | ~13 |
 | Kirlian's best disciple | 43.00% | ~13 |
-| Pulp! Out of this World | 40.00% | ~12 |
-| Pulp! Adventures into the Unknown | 40.00% | ~12 |
+| The seer | 37.00% | ~11 |
+| Diagnosis: fear | 37.00% | ~11 |
 | The artist | 33.00% | ~10 |
-| The seer | 33.00% | ~10 |
-| Diagnosis: fear | 33.00% | ~10 |
 | Ambition is... blind | 33.00% | ~10 |
 | You have two wishes left | 33.00% | ~10 |
 | Et in arcadia ego | 27.00% | ~8 |

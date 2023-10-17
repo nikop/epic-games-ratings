@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,7 +179,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 250414,
+  "EOS_Progressed": 250415,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 0,
@@ -16734,6 +16734,11 @@
       "Time": "2023-10-17T21:04:10.1302835+00:00",
       "NumProgressed": 250414,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-17T22:04:44.2092339+00:00",
+      "NumProgressed": 250415,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -16801,7 +16806,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 42570
+      "UsersEstimate": 42571
     },
     {
       "ID": "cantBeKeptDown",
@@ -16921,7 +16926,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 132719
+      "UsersEstimate": 132720
     },
     {
       "ID": "indegestible",
@@ -16985,7 +16990,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 125207
+      "UsersEstimate": 125208
     },
     {
       "ID": "notScared",
@@ -17112,7 +17117,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 250414,
+      "Progressed": 250415,
       "Completed": 6
     }
   ],
@@ -17120,8 +17125,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-10-17T21:04:10.1302829+00:00",
+  "LastChanged_Achievements": "2023-10-17T22:04:44.209232+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:46.1902995+00:00",
-  "LastUpdate_Ratings": "2023-10-17T20:58:46.5971255+00:00",
-  "LastUpdate_Achievements": "2023-10-17T21:04:10.1304295+00:00"
+  "LastUpdate_Ratings": "2023-10-17T21:59:22.9516857+00:00",
+  "LastUpdate_Achievements": "2023-10-17T22:04:44.2095753+00:00"
 }

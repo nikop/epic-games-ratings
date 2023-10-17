@@ -6,18 +6,18 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,867 |
-| keep it tidy | 77.00% | ~7,914 |
-| podium | 72.00% | ~7,400 |
+| light attack | 96.00% | ~9,868 |
+| keep it tidy | 77.00% | ~7,915 |
+| podium | 72.00% | ~7,401 |
 | medium attack | 60.00% | ~6,167 |
-| brail | 57.00% | ~5,858 |
+| brail | 57.00% | ~5,859 |
 | good drivers have dead flies on the side windows | 43.00% | ~4,420 |
-| grocery-getter | 40.00% | ~4,111 |
+| grocery-getter | 40.00% | ~4,112 |
 | food tour: pasta | 27.00% | ~2,775 |
-| rwd only | 26.00% | ~2,672 |
-| to finish first, first you must finish | 21.00% | ~2,158 |
-| autopilot | 21.00% | ~2,158 |
-| you can't treat a car like a human being. a car requires love | 21.00% | ~2,158 |
+| rwd only | 26.00% | ~2,673 |
+| to finish first, first you must finish | 21.00% | ~2,159 |
+| autopilot | 21.00% | ~2,159 |
+| you can't treat a car like a human being. a car requires love | 21.00% | ~2,159 |
 | turbo | 20.00% | ~2,056 |
 | food tour: pretzel | 19.00% | ~1,953 |
 | bicycle race | 15.00% | ~1,542 |
@@ -33,10 +33,10 @@ Number of Ratings: 56  (23.09.2022)
 | parallel universe | 10.00% | ~1,028 |
 | mittens | 8.00% | ~822 |
 | samir | 8.00% | ~822 |
-| eurobeat | 7.00% | ~719 |
-| viking | 7.00% | ~719 |
-| master of rally | 7.00% | ~719 |
-| antilag | 7.00% | ~719 |
+| eurobeat | 7.00% | ~720 |
+| viking | 7.00% | ~720 |
+| master of rally | 7.00% | ~720 |
+| antilag | 7.00% | ~720 |
 | parking lot | 6.00% | ~617 |
 | oktoberfest | 6.00% | ~617 |
 | in like a lamb, out like a lion | 6.00% | ~617 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~41 |
 | barely keeping it together | 0.30% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,278 (Ranked 148)  
+Progressed: 10,279 (Ranked 148)  
 Completed: 9 (0.09%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 9 (0.09%) (Ranked 253)
 | 2023-10-13 | 10,273 | 9 |
 | 2023-10-14 | 10,275 | 9 |
 | 2023-10-15 | 10,277 | 9 |
-| 2023-10-17 | 10,278 | 9 |
+| 2023-10-17 | 10,279 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

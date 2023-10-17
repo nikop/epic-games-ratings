@@ -29,10 +29,10 @@ Rating: 4.64 (Ranked 324)
 | Eye Scream, You Scream | 0.50% | ~121 |
 | We Came, We Chainsaw, We Conquered | 0.50% | ~8 |
 | Mux Ado About Shipping | 0.40% | ~6 |
+| Gunning For Your Job | 0.30% | ~73 |
 | Playing Favorites | 0.30% | ~73 |
 | Fall In Love With A Parasite | 0.30% | ~5 |
 | Sequel-Bait | 0.20% | ~48 |
-| Gunning For Your Job | 0.20% | ~48 |
 | We Paid For The Rights To Put A Whole Movie In Here | 0.20% | ~48 |
 | Meet Frasier from Frasier | 0.20% | ~3 |
 | Epic Legendary Prize | 0.10% | ~24 |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 324)
 | It's Like The Santa Clause | 0.10% | ~2 |
 | That's B.A.L.L., Folks | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,244 (Ranked 120)  
+Progressed: 24,246 (Ranked 120)  
 Completed: 13 (0.05%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,7 +229,7 @@ Completed: 13 (0.05%) (Ranked 274)
 | 2023-10-14 | 24,225 | 13 |
 | 2023-10-15 | 24,232 | 13 |
 | 2023-10-16 | 24,237 | 13 |
-| 2023-10-17 | 24,244 | 13 |
+| 2023-10-17 | 24,246 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

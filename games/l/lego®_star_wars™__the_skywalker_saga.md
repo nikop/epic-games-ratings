@@ -6,18 +6,18 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 97.00% | ~50,288 |
-| ''I don't like you either!'' | 79.00% | ~40,956 |
-| ''You think you're some kind of Jedi?'' | 72.00% | ~37,327 |
+| ''You guys got yourself a ship!'' | 97.00% | ~50,289 |
+| ''I don't like you either!'' | 79.00% | ~40,957 |
+| ''You think you're some kind of Jedi?'' | 72.00% | ~37,328 |
 | ''Impressive, most impressive'' | 71.00% | ~36,809 |
-| The Phantom Menace | 59.00% | ~30,587 |
-| ''Aggressive Negotiations'' | 58.00% | ~30,069 |
+| The Phantom Menace | 59.00% | ~30,588 |
+| ''Aggressive Negotiations'' | 58.00% | ~30,070 |
 | ''I can fly anything'' | 57.00% | ~29,551 |
 | ''And who gave you permission...?'' | 53.00% | ~27,477 |
 | A New Hope | 48.00% | ~24,885 |
-| Attack of the Clones | 47.00% | ~24,366 |
-| Revenge of the Sith | 40.00% | ~20,737 |
-| The Empire Strikes Back | 38.00% | ~19,700 |
+| Attack of the Clones | 47.00% | ~24,367 |
+| Revenge of the Sith | 40.00% | ~20,738 |
+| The Empire Strikes Back | 38.00% | ~19,701 |
 | ''A fine addition to my collection'' | 37.00% | ~19,182 |
 | Return of the Jedi | 32.00% | ~16,590 |
 | The Force Awakens | 27.00% | ~13,998 |
@@ -25,7 +25,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | The Rise of Skywalker | 20.00% | ~10,369 |
 | ''It's true... all of it'' | 19.00% | ~9,850 |
 | ''Get the crews to their fighters'' | 19.00% | ~9,850 |
-| ''Raw, untamed power'' | 8.00% | ~4,147 |
+| ''Raw, untamed power'' | 8.00% | ~4,148 |
 | Rishi Maze | 5.00% | ~2,592 |
 | ''Only one business in the Galaxy...'' | 5.00% | ~2,592 |
 | ''You may fire when ready'' | 3.00% | ~1,555 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''Jedi Business'' | 1.00% | ~518 |
 | ''I've never seen a real one!'' | 1.00% | ~518 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,843 (Ranked 101)  
+Progressed: 51,844 (Ranked 101)  
 Completed: 241 (0.46%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 241 (0.46%) (Ranked 180)
 | 2023-10-14 | 51,830 | 240 |
 | 2023-10-15 | 51,835 | 241 |
 | 2023-10-16 | 51,841 | 241 |
-| 2023-10-17 | 51,843 | 241 |
+| 2023-10-17 | 51,844 | 241 |
 ## Awards
 Max (Great Boss Battles): 2,431  (Ranked 104)  
 Sum: 6,666 (Ranked 122)  

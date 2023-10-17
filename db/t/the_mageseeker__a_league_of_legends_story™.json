@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 180,
   "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -4218,9 +4218,9 @@
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
       "SetID": "3pe2bac",
       "Name": "Spellcrafting",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 234
+      "UsersEstimate": 260
     },
     {
       "ID": "STB_UNLOCK_ALL_SLOTS_IMPROVEMENTS",
@@ -4267,8 +4267,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-08-06T02:15:52.3932671+00:00",
-  "LastChanged_Achievements": "2023-10-17T21:06:04.4353469+00:00",
+  "LastChanged_Achievements": "2023-10-17T22:07:01.1723627+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:28.6584473+00:00",
-  "LastUpdate_Ratings": "2023-10-17T20:57:24.5454727+00:00",
-  "LastUpdate_Achievements": "2023-10-17T21:06:04.4354186+00:00"
+  "LastUpdate_Ratings": "2023-10-17T21:57:40.3750873+00:00",
+  "LastUpdate_Achievements": "2023-10-17T22:07:01.1724307+00:00"
 }

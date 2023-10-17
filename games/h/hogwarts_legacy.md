@@ -5,7 +5,7 @@ Rating: 4.76 (Ranked 119)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 15.00% | ~44,776 |
+| The Sort Who Makes an Entrance | 15.00% | ~44,777 |
 | First Class Student | 13.00% | ~38,806 |
 | Troll with the Punches | 13.00% | ~38,806 |
 | A Keen Sense of Spell | 12.00% | ~35,821 |
@@ -30,8 +30,8 @@ Rating: 4.76 (Ranked 119)
 | The Root of the Problem | 6.00% | ~17,911 |
 | Third Time's a Charm | 6.00% | ~17,911 |
 | Raising Expectations | 6.00% | ~17,911 |
-| The Toast of the Town | 5.00% | ~14,925 |
-| The Ends Petrify the Means | 5.00% | ~14,925 |
+| The Toast of the Town | 5.00% | ~14,926 |
+| The Ends Petrify the Means | 5.00% | ~14,926 |
 | Going Through the Potions | 4.00% | ~11,940 |
 | Room with a View | 4.00% | ~11,940 |
 | The Intrepid Explorer | 4.00% | ~11,940 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 119)
 | The Nature of the Beast | 0.70% | ~2,090 |
 | Collector's Edition | 0.30% | ~896 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,509 (Ranked 47)  
+Progressed: 298,511 (Ranked 47)  
 Completed: 488 (0.16%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 488 (0.16%) (Ranked 232)
 | 2023-10-14 | 298,337 | 487 |
 | 2023-10-15 | 298,425 | 488 |
 | 2023-10-16 | 298,472 | 488 |
-| 2023-10-17 | 298,509 | 488 |
+| 2023-10-17 | 298,511 | 488 |
 ## Awards
 Max (Character Customization): 23,586  (Ranked 17)  
 Sum: 46,073 (Ranked 30)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -286,9 +286,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24244,
+  "EOS_Progressed": 24246,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5676,6 +5676,11 @@
       "Time": "2023-10-17T21:05:46.6236979+00:00",
       "NumProgressed": 24244,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-10-17T22:06:40.0585178+00:00",
+      "NumProgressed": 24246,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 44,
@@ -5885,9 +5890,9 @@
       "ID": "ACH_MOPLET_BOSS",
       "SetID": "cdkbb11",
       "Name": "Gunning For Your Job",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH_MOVIE_THEATER",
@@ -6038,13 +6043,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24244,
+      "Progressed": 24246,
       "Completed": 13
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1537,
+      "Progressed": 1539,
       "Completed": 1373
     }
   ],
@@ -6052,8 +6057,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-07T05:03:09.4311759+00:00",
-  "LastChanged_Achievements": "2023-10-17T21:05:46.6236974+00:00",
+  "LastChanged_Achievements": "2023-10-17T22:06:40.058517+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:39.0375133+00:00",
   "LastUpdate_Ratings": "2023-10-17T21:02:07.1799159+00:00",
-  "LastUpdate_Achievements": "2023-10-17T21:05:46.623769+00:00"
+  "LastUpdate_Achievements": "2023-10-17T22:06:40.0585897+00:00"
 }

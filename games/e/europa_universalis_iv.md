@@ -9,12 +9,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | That's a Grand Army | 4.00% | ~17,333 |
 | Until death do us apart | 4.00% | ~17,333 |
 | Victorious! | 4.00% | ~17,333 |
-| That is mine! | 3.00% | ~12,999 |
-| Brothers in Arms | 2.00% | ~8,666 |
-| Cold War | 2.00% | ~8,666 |
-| For the Glory | 2.00% | ~8,666 |
-| That's a Grand Navy | 2.00% | ~8,666 |
-| Seriously?! | 2.00% | ~8,666 |
+| That is mine! | 3.00% | ~13,000 |
+| Brothers in Arms | 2.00% | ~8,667 |
+| Cold War | 2.00% | ~8,667 |
+| For the Glory | 2.00% | ~8,667 |
+| That's a Grand Navy | 2.00% | ~8,667 |
+| Seriously?! | 2.00% | ~8,667 |
 | Defender of the Faith | 1.00% | ~4,333 |
 | It's all about the money | 1.00% | ~4,333 |
 | Respected | 1.00% | ~4,333 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 433,316 (Ranked 40)  
+Progressed: 433,333 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -541,10 +541,10 @@ Completed: 1 (0.00%) (Ranked 315)
 | 2023-10-14 | 431,056 | 1 |
 | 2023-10-15 | 432,104 | 1 |
 | 2023-10-16 | 432,768 | 1 |
-| 2023-10-17 | 433,316 | 1 |
+| 2023-10-17 | 433,333 | 1 |
 ## Awards
 Max (Educational): 6,561  (Ranked 55)  
-Sum: 53,967 (Ranked 24)  
+Sum: 53,981 (Ranked 24)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
@@ -552,7 +552,7 @@ Diff (max vs sum): 31
 | This game is Highly Recommended | 6,255 |
 | This game has Diverse Characters | 6,244 |
 | This game has Challenging Combat | 6,207 |
-| This game is Extremely Fun | 6,183 |
+| This game is Extremely Fun | 6,197 |
 | This game is Relaxing | 6,050 |
 | This game has Competitive Players | 5,891 |
 | This game has Amazing Storytelling | 5,490 |
@@ -834,4 +834,4 @@ Diff (max vs sum): 31
 | 2023-10-14 | 4.69 | - | 6,534 | 53,639 |
 | 2023-10-15 | 4.69 | - | 6,551 | 53,801 |
 | 2023-10-16 | 4.69 | - | 6,561 | 53,895 |
-| 2023-10-17 | 4.69 | - | 6,561 | 53,967 |
+| 2023-10-17 | 4.69 | - | 6,561 | 53,981 |

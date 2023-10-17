@@ -4,8 +4,8 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1517,
+  "EOS_Progressed": 1518,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2969,6 +2969,11 @@
       "Time": "2023-10-17T21:07:16.753558+00:00",
       "NumProgressed": 1517,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-17T22:08:22.5407881+00:00",
+      "NumProgressed": 1518,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -2981,7 +2986,7 @@
       "Name": "First Love",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -2989,7 +2994,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -3269,7 +3274,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -3372,14 +3377,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1517,
+      "Progressed": 1518,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-17T21:07:16.7535574+00:00",
+  "LastChanged_Achievements": "2023-10-17T22:08:22.5407876+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:05.5662527+00:00",
-  "LastUpdate_Ratings": "2023-10-17T20:58:01.1816928+00:00",
-  "LastUpdate_Achievements": "2023-10-17T21:07:16.7536236+00:00"
+  "LastUpdate_Ratings": "2023-10-17T21:58:23.4022232+00:00",
+  "LastUpdate_Achievements": "2023-10-17T22:08:22.5408492+00:00"
 }

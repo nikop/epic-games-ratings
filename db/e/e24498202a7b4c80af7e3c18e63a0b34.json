@@ -88,7 +88,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6215,
+  "EOS_Progressed": 6216,
   "EOS_Completed": 26,
   "EOS_NewPlayers": 269,
   "EOS_NewCompleters": 2,
@@ -3588,6 +3588,11 @@
       "Time": "2023-10-17T19:06:52.7363552+00:00",
       "NumProgressed": 6215,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-10-17T22:07:36.6779285+00:00",
+      "NumProgressed": 6216,
+      "NumCompleted": 26
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -3600,7 +3605,7 @@
       "Name": "First of Many",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 5345
+      "UsersEstimate": 5346
     },
     {
       "ID": "achievement_01_02",
@@ -3616,7 +3621,7 @@
       "Name": "Brand New Ride",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3853
+      "UsersEstimate": 3854
     },
     {
       "ID": "achievement_01_04",
@@ -3624,7 +3629,7 @@
       "Name": "Bzzzt",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 4475
+      "UsersEstimate": 4476
     },
     {
       "ID": "achievement_01_05",
@@ -3656,7 +3661,7 @@
       "Name": "Trophy Collector",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4537
+      "UsersEstimate": 4538
     },
     {
       "ID": "achievement_01_09",
@@ -3664,7 +3669,7 @@
       "Name": "Right Foot",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 2610
+      "UsersEstimate": 2611
     },
     {
       "ID": "achievement_01_10",
@@ -3728,7 +3733,7 @@
       "Name": "Whale of a Time",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 2983
+      "UsersEstimate": 2984
     },
     {
       "ID": "achievement_02_08",
@@ -3750,9 +3755,9 @@
       "ID": "achievement_03_02",
       "SetID": "4f1m94d",
       "Name": "Brazil - Check!",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 994
+      "UsersEstimate": 1057
     },
     {
       "ID": "achievement_03_03",
@@ -3880,7 +3885,7 @@
       "Name": "Nitro Saver",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 2983
+      "UsersEstimate": 2984
     },
     {
       "ID": "achievement_04_08",
@@ -3888,7 +3893,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 5283
+      "UsersEstimate": 5284
     },
     {
       "ID": "achievement_04_09",
@@ -3903,7 +3908,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 6215,
+      "Progressed": 6216,
       "Completed": 26
     }
   ],
@@ -3911,8 +3916,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-10-15T01:47:00.4126107+00:00",
-  "LastChanged_Achievements": "2023-10-17T21:06:34.7975593+00:00",
+  "LastChanged_Achievements": "2023-10-17T22:07:36.6779279+00:00",
   "LastUpdate_AppInfo": "2023-10-12T18:57:03.8112557+00:00",
-  "LastUpdate_Ratings": "2023-10-17T20:57:13.9329556+00:00",
-  "LastUpdate_Achievements": "2023-10-17T21:06:34.7976249+00:00"
+  "LastUpdate_Ratings": "2023-10-17T21:57:27.6561972+00:00",
+  "LastUpdate_Achievements": "2023-10-17T22:07:36.6779788+00:00"
 }

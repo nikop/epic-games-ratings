@@ -5,20 +5,20 @@ Rating: 4.17 (Ranked 909)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The touch of Chaos | 38.00% | ~105,624 |
-| May the Torchbearer light our way | 36.00% | ~100,065 |
-| A powerful aura was here | 23.00% | ~63,930 |
-| Let's raise the stakes!! | 10.00% | ~27,796 |
-| Your wounds… They are healing so fast! | 6.00% | ~16,677 |
-| Rumors are true | 5.00% | ~13,898 |
-| Pride is a sin, young Knight | 5.00% | ~13,898 |
-| Bring it on! | 5.00% | ~13,898 |
-| We'll be careful | 4.00% | ~11,118 |
-| Back to your senses | 3.00% | ~8,339 |
-| They tricked me | 2.00% | ~5,559 |
-| We need to talk | 2.00% | ~5,559 |
-| They won't last long | 2.00% | ~5,559 |
-| I took a risk | 2.00% | ~5,559 |
+| The touch of Chaos | 38.00% | ~105,641 |
+| May the Torchbearer light our way | 36.00% | ~100,081 |
+| A powerful aura was here | 23.00% | ~63,941 |
+| Let's raise the stakes!! | 10.00% | ~27,800 |
+| Your wounds… They are healing so fast! | 6.00% | ~16,680 |
+| Rumors are true | 5.00% | ~13,900 |
+| Pride is a sin, young Knight | 5.00% | ~13,900 |
+| Bring it on! | 5.00% | ~13,900 |
+| We'll be careful | 4.00% | ~11,120 |
+| Back to your senses | 3.00% | ~8,340 |
+| They tricked me | 2.00% | ~5,560 |
+| We need to talk | 2.00% | ~5,560 |
+| They won't last long | 2.00% | ~5,560 |
+| I took a risk | 2.00% | ~5,560 |
 | I feel drawn to it | 1.00% | ~2,780 |
 | Here to stay | 1.00% | ~2,780 |
 | Counting on you | 1.00% | ~2,780 |
@@ -46,7 +46,7 @@ Rating: 4.17 (Ranked 909)
 | We strike as one | 0.10% | ~278 |
 | Chaos be damned! | 0.10% | ~278 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 277,957 (Ranked 49)  
+Progressed: 278,003 (Ranked 49)  
 Completed: 1 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,7 +70,7 @@ Completed: 1 (0.00%) (Ranked 315)
 | 2023-10-14 | 271,171 | 1 |
 | 2023-10-15 | 274,418 | 1 |
 | 2023-10-16 | 276,376 | 1 |
-| 2023-10-17 | 277,957 | 1 |
+| 2023-10-17 | 278,003 | 1 |
 ## Awards
 Max (Great Boss Battles): 31  (Ranked 474)  
 Sum: 31 (Ranked 493)  

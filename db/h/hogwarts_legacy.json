@@ -9114,9 +9114,9 @@
       "Count": 718
     }
   ],
-  "EOS_Progressed": 298509,
+  "EOS_Progressed": 298511,
   "EOS_Completed": 488,
-  "EOS_NewPlayers": 361,
+  "EOS_NewPlayers": 363,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -28439,6 +28439,11 @@
       "Time": "2023-10-17T21:05:23.267671+00:00",
       "NumProgressed": 298509,
       "NumCompleted": 488
+    },
+    {
+      "Time": "2023-10-17T22:06:12.1115589+00:00",
+      "NumProgressed": 298511,
+      "NumCompleted": 488
     }
   ],
   "TotalAchievements": 45,
@@ -28450,7 +28455,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 44776
+      "UsersEstimate": 44777
     },
     {
       "ID": "PFA_10",
@@ -28538,7 +28543,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14925
+      "UsersEstimate": 14926
     },
     {
       "ID": "PFA_20",
@@ -28730,7 +28735,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14925
+      "UsersEstimate": 14926
     },
     {
       "ID": "PFA_42",
@@ -28809,7 +28814,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298509,
+      "Progressed": 298511,
       "Completed": 488
     }
   ],
@@ -28817,8 +28822,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-17T20:57:28.4523621+00:00",
-  "LastChanged_Achievements": "2023-10-17T21:05:23.2676704+00:00",
+  "LastChanged_Achievements": "2023-10-17T22:06:12.1115576+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:16.623812+00:00",
-  "LastUpdate_Ratings": "2023-10-17T20:57:28.4523627+00:00",
-  "LastUpdate_Achievements": "2023-10-17T21:05:23.2678369+00:00"
+  "LastUpdate_Ratings": "2023-10-17T21:57:45.4141447+00:00",
+  "LastUpdate_Achievements": "2023-10-17T22:06:12.1118262+00:00"
 }

@@ -5,10 +5,10 @@
   "Ranking_Rating": 1018,
   "Ranking_Popularity": 537,
   "Ranking_PopularitySum": 537,
-  "Ranking_EOS_Progress": 215,
+  "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 268,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -56,9 +56,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1621,
+  "EOS_Progressed": 1622,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6011,6 +6011,11 @@
       "Time": "2023-10-17T18:07:13.1824417+00:00",
       "NumProgressed": 1621,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-17T22:06:35.5964977+00:00",
+      "NumProgressed": 1622,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6030,7 +6035,7 @@
       "Name": "Exterminator",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ach_defeat_players_10",
@@ -6126,7 +6131,7 @@
       "Name": "Facility Online",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -6278,7 +6283,7 @@
       "Name": "Defenses Online",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -6325,7 +6330,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1621,
+      "Progressed": 1622,
       "Completed": 1
     }
   ],
@@ -6333,8 +6338,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-10-17T21:05:42.6820191+00:00",
+  "LastChanged_Achievements": "2023-10-17T22:06:35.5964973+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:23.525424+00:00",
-  "LastUpdate_Ratings": "2023-10-17T20:59:46.8916124+00:00",
-  "LastUpdate_Achievements": "2023-10-17T21:05:42.6820873+00:00"
+  "LastUpdate_Ratings": "2023-10-17T22:00:38.0442913+00:00",
+  "LastUpdate_Achievements": "2023-10-17T22:06:35.596564+00:00"
 }

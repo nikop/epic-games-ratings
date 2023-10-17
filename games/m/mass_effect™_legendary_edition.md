@@ -10,8 +10,8 @@
 | Recruit | 72.00% | ~526 |
 | Search and Rescue | 71.00% | ~519 |
 | Quarian Ally | 68.00% | ~497 |
+| Honorarium of Corporate Service | 66.00% | ~482 |
 | Medal of Heroism | 65.00% | ~475 |
-| Honorarium of Corporate Service | 65.00% | ~475 |
 | Council Legion of Merit | 60.00% | ~439 |
 | Medal of Honor | 58.00% | ~424 |
 | Meritorious Service Medal | 58.00% | ~424 |
@@ -23,8 +23,8 @@
 | Principled | 52.00% | ~380 |
 | Medal of Exploration III | 51.00% | ~373 |
 | Soldier Ally | 49.00% | ~358 |
+| Colonial Savior | 49.00% | ~358 |
 | Paramour I | 48.00% | ~351 |
-| Colonial Savior | 48.00% | ~351 |
 | Scientist | 47.00% | ~344 |
 | Merciless | 46.00% | ~336 |
 | Krogan Ally | 45.00% | ~329 |
@@ -40,8 +40,8 @@
 | The Archangel | 38.00% | ~278 |
 | The Convict | 37.00% | ~270 |
 | Completionist | 36.00% | ~263 |
+| Colony Defense | 36.00% | ~263 |
 | The Krogan | 36.00% | ~263 |
-| Colony Defense | 35.00% | ~256 |
 | Galactic Explorer | 35.00% | ~256 |
 | Archivist | 34.00% | ~249 |
 | Broke, Blind, and Bedlam | 34.00% | ~249 |
@@ -77,9 +77,9 @@
 | Untouchable | 26.00% | ~190 |
 | Eye of the Hurricane | 26.00% | ~190 |
 | A House Divided | 26.00% | ~190 |
+| World Shaker | 26.00% | ~190 |
 | Giant Killer | 25.00% | ~183 |
 | Weapon Specialist | 25.00% | ~183 |
-| World Shaker | 25.00% | ~183 |
 | Liberator | 25.00% | ~183 |
 | Pathfinder | 23.00% | ~168 |
 | Tunnel Rat | 23.00% | ~168 |
@@ -97,9 +97,9 @@
 | Fact Finder | 19.00% | ~139 |
 | Under Pressure | 18.00% | ~132 |
 | Last Resort | 18.00% | ~132 |
+| Electronics Specialist | 18.00% | ~132 |
 | Sabotage Specialist | 18.00% | ~132 |
 | Well Connected | 18.00% | ~132 |
-| Electronics Specialist | 17.00% | ~124 |
 | Throw Mastery | 16.00% | ~117 |
 | Executioner | 16.00% | ~117 |
 | Master and Commander | 16.00% | ~117 |
