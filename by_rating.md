@@ -238,7 +238,7 @@
 | 222 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.69 | 92 | 360 |
 | 222 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 42 | 437 |
 | 222 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 1,000 | 150 |
-| 222 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 835 | 159 |
+| 222 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 838 | 159 |
 | 240 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,371 | 91 |
 | 240 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 3,679 | 87 |
 | 240 | [Bad North](games/b/bad_north.md) | 4.68 | 0 | 537 |
@@ -294,7 +294,7 @@
 | 280 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 56 | 403 |
 | 280 | [SOMA](games/s/soma.md) | 4.66 | 0 | 537 |
 | 280 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.66 | 33 | 468 |
-| 280 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.66 | 261 | 258 |
+| 280 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.66 | 268 | 255 |
 | 280 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 0 | 537 |
 | 280 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,918 | 64 |
 | 280 | [Tropico 6](games/t/tropico_6.md) | 4.66 | 100 | 348 |
@@ -386,7 +386,7 @@
 | 375 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 46,874 | 12 |
 | 375 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 4.61 | 0 | 537 |
 | 375 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 0 | 537 |
-| 375 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,262 | 136 |
+| 375 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,263 | 136 |
 | 375 | [MudRunner](games/m/mudrunner.md) | 4.61 | 269 | 253 |
 | 375 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 0 | 537 |
 | 375 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 707 | 178 |
@@ -397,7 +397,7 @@
 | 375 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 289 | 244 |
 | 375 | [Supraland](games/s/supraland.md) | 4.61 | 7,702 | 47 |
 | 375 | [Tavern Master](games/t/tavern_master.md) | 4.61 | 0 | 537 |
-| 375 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.61 | 267 | 255 |
+| 375 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.61 | 267 | 256 |
 | 399 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.60 | 0 | 537 |
 | 399 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.60 | 26 | 499 |
 | 399 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 14,303 | 27 |
@@ -439,7 +439,7 @@
 | 437 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.58 | 45 | 428 |
 | 437 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.58 | 0 | 537 |
 | 437 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 62,275 | 11 |
-| 437 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 262 | 257 |
+| 437 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 262 | 258 |
 | 437 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.58 | 0 | 537 |
 | 437 | [GRIT](games/g/grit.md) | 4.58 | 0 | 537 |
 | 437 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 39 | 443 |
@@ -581,7 +581,7 @@
 | 573 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 43 | 436 |
 | 573 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 91 | 361 |
 | 573 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 537 |
-| 573 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 264 | 256 |
+| 573 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 264 | 257 |
 | 573 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,877 | 96 |
 | 573 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 113 | 334 |
 | 573 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 0 | 537 |
@@ -981,7 +981,7 @@
 | 975 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 4,120 | 82 |
 | 980 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.97 | 0 | 537 |
 | 981 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 428 |
-| 982 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.94 | 495 | 205 |
+| 982 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.94 | 497 | 205 |
 | 982 | [Ironcast](games/i/ironcast.md) | 3.94 | 0 | 537 |
 | 982 | [Patron](games/p/patron.md) | 3.94 | 0 | 537 |
 | 985 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 29 | 478 |

@@ -135,7 +135,7 @@
 | 133 | [XCOM® 2](games/x/xcom®_2.md) | 1,311 | 4.55 | 493 |
 | 134 | [The Sims™ 4](games/t/the_sims™_4.md) | 1,300 | 4.63 | 337 |
 | 135 | [DOOM 64](games/d/doom_64.md) | 1,296 | 4.66 | 280 |
-| 136 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,262 | 4.61 | 375 |
+| 136 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,263 | 4.61 | 375 |
 | 137 | [OUTRIDERS](games/o/outriders.md) | 1,231 | 4.42 | 690 |
 | 138 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,205 | 4.69 | 222 |
 | 139 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 1,176 | 4.46 | 627 |
@@ -158,7 +158,7 @@
 | 155 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 885 | 4.45 | 644 |
 | 157 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 879 | 4.56 | 473 |
 | 158 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 845 | 4.49 | 591 |
-| 159 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 835 | 4.69 | 222 |
+| 159 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 838 | 4.69 | 222 |
 | 160 | [Frostpunk](games/f/frostpunk.md) | 824 | 4.74 | 148 |
 | 161 | [Auto Chess](games/a/auto_chess.md) | 821 | 4.51 | 551 |
 | 162 | [The Long Dark](games/t/the_long_dark.md) | 819 | 4.74 | 148 |
@@ -204,7 +204,7 @@
 | 201 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 520 | 4.86 | 28 |
 | 203 | [Ghostrunner](games/g/ghostrunner.md) | 508 | 4.72 | 178 |
 | 204 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 503 | 4.60 | 399 |
-| 205 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 495 | 3.94 | 982 |
+| 205 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 497 | 3.94 | 982 |
 | 206 | [Surviving Mars](games/s/surviving_mars.md) | 492 | 4.60 | 399 |
 | 207 | [Second Extinction™](games/s/second_extinction™.md) | 474 | 4.05 | 959 |
 | 208 | [Loop Hero](games/l/loop_hero.md) | 471 | 4.67 | 262 |
@@ -254,10 +254,10 @@
 | 252 | [Sheltered](games/s/sheltered.md) | 274 | 4.41 | 698 |
 | 253 | [MudRunner](games/m/mudrunner.md) | 269 | 4.61 | 375 |
 | 253 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 269 | 4.84 | 49 |
-| 255 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 267 | 4.61 | 375 |
-| 256 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 264 | 4.50 | 573 |
-| 257 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 262 | 4.58 | 437 |
-| 258 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 261 | 4.66 | 280 |
+| 255 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 268 | 4.66 | 280 |
+| 256 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 267 | 4.61 | 375 |
+| 257 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 264 | 4.50 | 573 |
+| 258 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 262 | 4.58 | 437 |
 | 259 | [Roller Champions™](games/r/roller_champions™.md) | 259 | 4.34 | 783 |
 | 260 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 254 | 4.45 | 644 |
 | 260 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 254 | 4.37 | 751 |
