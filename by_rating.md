@@ -60,22 +60,22 @@
 | 56 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.83 | 0 | 537 |
 | 56 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.83 | 250 | 262 |
 | 56 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 28 | 483 |
-| 56 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 94 | 357 |
 | 56 | [TUNIC](games/t/tunic.md) | 4.83 | 35 | 456 |
-| 63 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 0 | 537 |
-| 63 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 436 | 213 |
-| 63 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,708 | 120 |
-| 63 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,927 | 63 |
-| 63 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 537 |
-| 63 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 34 | 463 |
-| 63 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 784 | 166 |
-| 63 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.82 | 275 | 251 |
-| 63 | [Sifu](games/s/sifu.md) | 4.82 | 6,690 | 53 |
-| 63 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 418 | 220 |
-| 63 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.82 | 51 | 411 |
-| 63 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.82 | 0 | 537 |
-| 63 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.82 | 0 | 537 |
-| 63 | [WarmSnow](games/w/warmsnow.md) | 4.82 | 0 | 537 |
+| 62 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 0 | 537 |
+| 62 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 436 | 213 |
+| 62 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,708 | 120 |
+| 62 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,927 | 63 |
+| 62 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 537 |
+| 62 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 34 | 463 |
+| 62 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 784 | 166 |
+| 62 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.82 | 275 | 251 |
+| 62 | [Sifu](games/s/sifu.md) | 4.82 | 6,690 | 53 |
+| 62 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 418 | 220 |
+| 62 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.82 | 51 | 411 |
+| 62 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.82 | 0 | 537 |
+| 62 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.82 | 0 | 537 |
+| 62 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 94 | 357 |
+| 62 | [WarmSnow](games/w/warmsnow.md) | 4.82 | 0 | 537 |
 | 77 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.81 | 0 | 537 |
 | 77 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 190 | 283 |
 | 77 | [Superliminal](games/s/superliminal.md) | 4.81 | 0 | 537 |
@@ -443,7 +443,7 @@
 | 437 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.58 | 0 | 537 |
 | 437 | [GRIT](games/g/grit.md) | 4.58 | 0 | 537 |
 | 437 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 39 | 443 |
-| 437 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 226 | 266 |
+| 437 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 227 | 266 |
 | 437 | [Moving Out](games/m/moving_out.md) | 4.58 | 21 | 526 |
 | 437 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.58 | 8,830 | 41 |
 | 437 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 1,498 | 127 |
