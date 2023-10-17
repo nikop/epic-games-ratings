@@ -2,7 +2,7 @@
   "ID": "b7b42e2078524ab386a8b2a9856ef557",
   "Name": "Sifu",
   "ProductSlug": "sifu",
-  "Ranking_Rating": 63,
+  "Ranking_Rating": 62,
   "Ranking_Popularity": 53,
   "Ranking_PopularitySum": 83,
   "Ranking_EOS_Progress": 20,
@@ -6934,10 +6934,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 11606,
       "NumberOfAwardsMax": 6690
+    },
+    {
+      "Time": "2023-10-17T02:15:17.7028074+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 11607,
+      "NumberOfAwardsMax": 6690
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11606,
+  "NumberOfAwards": 11607,
   "NumberOfAwardsMax": 6690,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6963,7 +6969,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 565
+      "Count": 566
     },
     {
       "Text": "This game has Amazing Characters",
@@ -7014,9 +7020,9 @@
       "Count": 400
     }
   ],
-  "EOS_Progressed": 715718,
+  "EOS_Progressed": 715719,
   "EOS_Completed": 12922,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -23004,6 +23010,11 @@
       "Time": "2023-10-16T23:05:06.3746485+00:00",
       "NumProgressed": 715718,
       "NumCompleted": 12922
+    },
+    {
+      "Time": "2023-10-17T02:22:06.9215003+00:00",
+      "NumProgressed": 715719,
+      "NumCompleted": 12922
     }
   ],
   "TotalAchievements": 60,
@@ -23494,21 +23505,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 25019,
+      "Progressed": 25020,
       "Completed": 10708
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 715718,
+      "Progressed": 715719,
       "Completed": 12922
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-10-17T01:41:36.9432464+00:00",
-  "LastChanged_Achievements": "2023-10-17T01:48:33.5982748+00:00",
+  "LastChanged": "2023-10-17T02:15:17.7028072+00:00",
+  "LastChanged_Achievements": "2023-10-17T02:22:06.9214993+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:04.5804609+00:00",
-  "LastUpdate_Ratings": "2023-10-17T01:41:36.9432474+00:00",
-  "LastUpdate_Achievements": "2023-10-17T01:48:33.5984908+00:00"
+  "LastUpdate_Ratings": "2023-10-17T02:15:17.7028081+00:00",
+  "LastUpdate_Achievements": "2023-10-17T02:22:06.9216517+00:00"
 }

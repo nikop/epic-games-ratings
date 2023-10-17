@@ -274,9 +274,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 125117,
+  "EOS_Progressed": 125118,
   "EOS_Completed": 1061,
-  "EOS_NewPlayers": 1191,
+  "EOS_NewPlayers": 1190,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.85,
   "EosHistory": [
@@ -20544,6 +20544,11 @@
       "Time": "2023-10-17T01:47:41.7007962+00:00",
       "NumProgressed": 125117,
       "NumCompleted": 1061
+    },
+    {
+      "Time": "2023-10-17T02:21:22.1858029+00:00",
+      "NumProgressed": 125118,
+      "NumCompleted": 1061
     }
   ],
   "TotalAchievements": 34,
@@ -20571,7 +20576,7 @@
       "Name": "Interesting...",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 52549
+      "UsersEstimate": 52550
     },
     {
       "ID": "ACH_GAME_JOURNAL2",
@@ -20826,7 +20831,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 125117,
+      "Progressed": 125118,
       "Completed": 1061
     }
   ],
@@ -20834,8 +20839,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-09-30T12:00:15.2854641+00:00",
-  "LastChanged_Achievements": "2023-10-17T01:47:41.7007957+00:00",
+  "LastChanged_Achievements": "2023-10-17T02:21:22.1858023+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:27.6013957+00:00",
-  "LastUpdate_Ratings": "2023-10-17T01:42:17.8003089+00:00",
-  "LastUpdate_Achievements": "2023-10-17T01:47:41.7010678+00:00"
+  "LastUpdate_Ratings": "2023-10-17T02:15:54.9386156+00:00",
+  "LastUpdate_Achievements": "2023-10-17T02:21:22.1859502+00:00"
 }

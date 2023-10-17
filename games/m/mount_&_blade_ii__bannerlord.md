@@ -7,11 +7,11 @@ Number of Ratings: 5,603  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Lawbringer | 39.00% | ~24,730 |
-| Landlord | 33.00% | ~20,925 |
-| Bannerlord | 23.00% | ~14,584 |
-| Horde breaker | 23.00% | ~14,584 |
-| Lawmaker | 23.00% | ~14,584 |
-| Trained | 23.00% | ~14,584 |
+| Landlord | 33.00% | ~20,926 |
+| Bannerlord | 23.00% | ~14,585 |
+| Horde breaker | 23.00% | ~14,585 |
+| Lawmaker | 23.00% | ~14,585 |
+| Trained | 23.00% | ~14,585 |
 | The king is pleased | 19.00% | ~12,048 |
 | King Solomon | 17.00% | ~10,780 |
 | I can do it | 16.00% | ~10,146 |
@@ -27,9 +27,9 @@ Number of Ratings: 5,603  (23.09.2022)
 | Butterlord | 8.00% | ~5,073 |
 | Know your enemy | 7.00% | ~4,439 |
 | Mastery | 7.00% | ~4,439 |
-| Crowdfunded | 5.00% | ~3,170 |
-| Crush your enemies | 5.00% | ~3,170 |
-| My way | 5.00% | ~3,170 |
+| Crowdfunded | 5.00% | ~3,171 |
+| Crush your enemies | 5.00% | ~3,171 |
+| My way | 5.00% | ~3,171 |
 | Veni vidi vici | 4.00% | ~2,536 |
 | Freedom! | 3.00% | ~1,902 |
 | Long live the Empire! | 3.00% | ~1,902 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,410 (Ranked 98)  
+Progressed: 63,411 (Ranked 98)  
 Completed: 0 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 0 (0.00%) (Ranked 315)
 | 2023-10-14 | 63,287 | 0 |
 | 2023-10-15 | 63,356 | 0 |
 | 2023-10-16 | 63,408 | 0 |
-| 2023-10-17 | 63,410 | 0 |
+| 2023-10-17 | 63,411 | 0 |
 ## Awards
 Max (Character Customization): 7,238  (Ranked 52)  
 Sum: 14,898 (Ranked 66)  

@@ -326,9 +326,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 111468,
+  "EOS_Progressed": 111469,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 728,
+  "EOS_NewPlayers": 727,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -14646,6 +14646,11 @@
       "Time": "2023-10-17T01:49:36.1106737+00:00",
       "NumProgressed": 111468,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-10-17T02:23:00.7630321+00:00",
+      "NumProgressed": 111469,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 49,
@@ -14665,7 +14670,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 85830
+      "UsersEstimate": 85831
     },
     {
       "ID": "EAwards_10",
@@ -14673,7 +14678,7 @@
       "Name": "Juan Punch Man",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12261
+      "UsersEstimate": 12262
     },
     {
       "ID": "EAwards_11",
@@ -14729,7 +14734,7 @@
       "Name": "Talented Player",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 40128
+      "UsersEstimate": 40129
     },
     {
       "ID": "EAwards_18",
@@ -14785,7 +14790,7 @@
       "Name": "These are not fertilized",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 8917
+      "UsersEstimate": 8918
     },
     {
       "ID": "EAwards_24",
@@ -14809,7 +14814,7 @@
       "Name": "I have nothing left to teach you",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 12261
+      "UsersEstimate": 12262
     },
     {
       "ID": "EAwards_27",
@@ -14889,7 +14894,7 @@
       "Name": "Nacho Libre",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 8917
+      "UsersEstimate": 8918
     },
     {
       "ID": "EAwards_36",
@@ -15017,7 +15022,7 @@
       "Name": "Severed 2",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 8917
+      "UsersEstimate": 8918
     },
     {
       "ID": "EAwards_7",
@@ -15048,7 +15053,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 111468,
+      "Progressed": 111469,
       "Completed": 47
     }
   ],
@@ -15056,8 +15061,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-25T16:00:07.3978241+00:00",
-  "LastChanged_Achievements": "2023-10-17T01:49:36.110673+00:00",
+  "LastChanged_Achievements": "2023-10-17T02:23:00.7630316+00:00",
   "LastUpdate_AppInfo": "2023-10-13T01:42:07.6726517+00:00",
-  "LastUpdate_Ratings": "2023-10-17T01:44:33.0245564+00:00",
-  "LastUpdate_Achievements": "2023-10-17T01:49:36.1109537+00:00"
+  "LastUpdate_Ratings": "2023-10-17T02:17:43.4254202+00:00",
+  "LastUpdate_Achievements": "2023-10-17T02:23:00.7631633+00:00"
 }

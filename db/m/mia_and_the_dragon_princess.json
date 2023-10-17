@@ -4,7 +4,7 @@
   "ProductSlug": "mia-and-the-dragon-princess-f4e1d0",
   "Ranking_EOS_Progress": 407,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-05-04T07:00:00+00:00",
@@ -441,25 +441,25 @@
       "ID": "bathroom_brawler",
       "SetID": "5anb57n",
       "Name": "Bathroom Brawler",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "breathless_end",
       "SetID": "5anb57n",
       "Name": "Breathless End",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 90,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "codebreaker",
       "SetID": "5anb57n",
       "Name": "Codebreaker",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "escape_artist",
@@ -473,17 +473,17 @@
       "ID": "explosive_end",
       "SetID": "5anb57n",
       "Name": "Explosive End",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 90,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "finger_lickin_bad",
       "SetID": "5anb57n",
       "Name": "Finger-Lickin\u0027 Bad",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "flying_high",
@@ -497,25 +497,25 @@
       "ID": "fools_gold",
       "SetID": "5anb57n",
       "Name": "Fool\u0027s Gold",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 90,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "freedum_fighter",
       "SetID": "5anb57n",
       "Name": "Freedum Fighter",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 90,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "glass_act",
       "SetID": "5anb57n",
       "Name": "Glass Act",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "key_keepers_curse",
@@ -529,9 +529,9 @@
       "ID": "puzzle_prodigy",
       "SetID": "5anb57n",
       "Name": "Puzzle Prodigy",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "relight_my_cannon",
@@ -545,9 +545,9 @@
       "ID": "set_sail",
       "SetID": "5anb57n",
       "Name": "Set Sail",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 90,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "snitch",
@@ -576,8 +576,8 @@
   ],
   "FirstSeen": "2023-05-13T16:58:04.6283661+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:18.2098384+00:00",
-  "LastChanged_Achievements": "2023-10-17T01:47:23.3584753+00:00",
+  "LastChanged_Achievements": "2023-10-17T02:21:06.314903+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:44.1296427+00:00",
-  "LastUpdate_Ratings": "2023-10-17T01:46:13.1424042+00:00",
-  "LastUpdate_Achievements": "2023-10-17T01:47:23.3584992+00:00"
+  "LastUpdate_Ratings": "2023-10-17T02:19:07.7042877+00:00",
+  "LastUpdate_Achievements": "2023-10-17T02:21:06.3149176+00:00"
 }

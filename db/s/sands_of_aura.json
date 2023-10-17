@@ -2,9 +2,9 @@
   "ID": "ef02301060454cfd8345fae625743294",
   "Name": "Sands of Aura",
   "ProductSlug": "sands-of-aura",
-  "Ranking_EOS_Progress": 567,
+  "Ranking_EOS_Progress": 555,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-10-21T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4,
+  "EOS_Progressed": 5,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -51,6 +51,11 @@
     {
       "Time": "2023-10-17T00:05:09.7468447+00:00",
       "NumProgressed": 4,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-17T02:20:32.8784639+00:00",
+      "NumProgressed": 5,
       "NumCompleted": 0
     }
   ],
@@ -214,7 +219,7 @@
       "ID": "CRAGBOSS_DEFEAT",
       "SetID": "cm0d613",
       "Name": "A Small Thirsty Thing",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -462,9 +467,9 @@
       "ID": "START_GAME",
       "SetID": "cm0d613",
       "Name": "Setting Sail",
-      "Percentage": 75,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "UBAANI_DEFEAT",
@@ -527,7 +532,7 @@
     {
       "ID": "cm0d613",
       "IsBase": true,
-      "Progressed": 4,
+      "Progressed": 5,
       "Completed": 0
     }
   ],
@@ -535,8 +540,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2023-10-17T01:47:07.2667578+00:00",
+  "LastChanged_Achievements": "2023-10-17T02:20:32.8784634+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:44.4339276+00:00",
-  "LastUpdate_Ratings": "2023-10-17T01:46:11.9927907+00:00",
-  "LastUpdate_Achievements": "2023-10-17T01:47:07.2673238+00:00"
+  "LastUpdate_Ratings": "2023-10-17T02:19:07.0518181+00:00",
+  "LastUpdate_Achievements": "2023-10-17T02:20:32.878526+00:00"
 }

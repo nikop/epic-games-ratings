@@ -16,7 +16,7 @@ Number of Ratings: 46  (23.09.2022)
 | Silenced Whispers | 0.70% | ~1,069 |
 | Yank | 0.60% | ~916 |
 | Sharpened Vessel | 0.60% | ~916 |
-| Scion | 0.50% | ~761 |
+| Scion | 0.50% | ~762 |
 | Jawcrab | 0.50% | ~764 |
 | Jawstag | 0.50% | ~764 |
 | Feast | 0.50% | ~764 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~152 |
 | Intensify | 0.10% | ~152 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 152,714 (Ranked 71)  
+Progressed: 152,719 (Ranked 71)  
 Completed: 1 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,18 +210,18 @@ Completed: 1 (0.00%) (Ranked 315)
 | 2023-10-14 | 152,214 | 1 |
 | 2023-10-15 | 152,491 | 1 |
 | 2023-10-16 | 152,687 | 1 |
-| 2023-10-17 | 152,714 | 1 |
+| 2023-10-17 | 152,719 | 1 |
 ## Awards
 Max (Highly Recommended): 45  (Ranked 428)  
-Sum: 292 (Ranked 352)  
-Diff (max vs sum): 76  
+Sum: 295 (Ranked 349)  
+Diff (max vs sum): 79  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 45 |
 | This game has Quickly Understood Controls | 42 |
-| This game has Unique Visuals | 40 |
+| This game has Unique Visuals | 41 |
 | This game has Challenging Combat | 38 |
-| This game is Extremely Fun | 35 |
+| This game is Extremely Fun | 37 |
 | This game has Amazing Storytelling | 33 |
 | This game has a Creative Community | 31 |
 | This game has Amazing Characters | 28 |
@@ -344,3 +344,4 @@ Diff (max vs sum): 76
 | 2023-10-14 | 4.59 | - | 44 | 287 |
 | 2023-10-15 | 4.59 | - | 44 | 290 |
 | 2023-10-16 | 4.59 | - | 45 | 292 |
+| 2023-10-17 | 4.59 | - | 45 | 295 |

@@ -4,7 +4,7 @@
   "ProductSlug": "grime",
   "Ranking_Rating": 418,
   "Ranking_Popularity": 428,
-  "Ranking_PopularitySum": 352,
+  "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 315,
   "Ranking_EOS_NewPlayers": 57,
@@ -1058,10 +1058,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 292,
       "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2023-10-17T02:18:27.7073427+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 295,
+      "NumberOfAwardsMax": 45
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 292,
+  "NumberOfAwards": 295,
   "NumberOfAwardsMax": 45,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1093,7 +1099,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 35
+      "Count": 37
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1105,7 +1111,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 40
+      "Count": 41
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1120,9 +1126,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 152714,
+  "EOS_Progressed": 152719,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1264,
+  "EOS_NewPlayers": 1269,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11875,6 +11881,11 @@
       "Time": "2023-10-17T01:48:56.168154+00:00",
       "NumProgressed": 152714,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-17T02:22:26.4226334+00:00",
+      "NumProgressed": 152719,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -11990,7 +12001,7 @@
       "Name": "Scion",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "DEFEAT_FLOWERROCKGIANT",
@@ -12253,21 +12264,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 152297,
+      "Progressed": 152302,
       "Completed": 1161
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 152714,
+      "Progressed": 152719,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2023-10-16T22:04:04.3843245+00:00",
-  "LastChanged_Achievements": "2023-10-17T01:48:56.1681537+00:00",
+  "LastChanged": "2023-10-17T02:18:27.7073425+00:00",
+  "LastChanged_Achievements": "2023-10-17T02:22:26.4226331+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:33.8479674+00:00",
-  "LastUpdate_Ratings": "2023-10-17T01:45:23.9845303+00:00",
-  "LastUpdate_Achievements": "2023-10-17T01:48:56.1682684+00:00"
+  "LastUpdate_Ratings": "2023-10-17T02:18:27.7073432+00:00",
+  "LastUpdate_Achievements": "2023-10-17T02:22:26.422735+00:00"
 }

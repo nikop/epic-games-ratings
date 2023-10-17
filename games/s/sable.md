@@ -6,10 +6,10 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~32,110 |
-| Just The Two of Us | 32.00% | ~30,221 |
-| Up On High | 25.00% | ~23,610 |
-| Under The Hood | 25.00% | ~23,610 |
+| Simoon | 34.00% | ~32,111 |
+| Just The Two of Us | 32.00% | ~30,222 |
+| Up On High | 25.00% | ~23,611 |
+| Under The Hood | 25.00% | ~23,611 |
 | Got Your Nose | 24.00% | ~22,666 |
 | The Gift of Gab | 24.00% | ~22,666 |
 | Wrapping Up | 22.00% | ~20,777 |
@@ -22,10 +22,10 @@ Number of Ratings: 43  (23.09.2022)
 | Bubble Up | 16.00% | ~15,111 |
 | Thread The Needle | 15.00% | ~14,166 |
 | Power to the People | 14.00% | ~13,222 |
-| Take That! | 13.00% | ~12,277 |
-| Nesting Giant | 13.00% | ~12,277 |
-| Treasure Tracker | 13.00% | ~12,277 |
-| Big Spender | 13.00% | ~12,277 |
+| Take That! | 13.00% | ~12,278 |
+| Nesting Giant | 13.00% | ~12,278 |
+| Treasure Tracker | 13.00% | ~12,278 |
+| Big Spender | 13.00% | ~12,278 |
 | Badge Collector | 12.00% | ~11,333 |
 | Quite The Catch | 12.00% | ~11,333 |
 | Rowleys Way | 11.00% | ~10,389 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~2,833 |
 | Vivacious Vivarium | 2.00% | ~1,889 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 94,442 (Ranked 82)  
+Progressed: 94,443 (Ranked 82)  
 Completed: 950 (1.01%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 950 (1.01%) (Ranked 147)
 | 2023-10-14 | 94,125 | 946 |
 | 2023-10-15 | 94,319 | 950 |
 | 2023-10-16 | 94,424 | 950 |
-| 2023-10-17 | 94,442 | 950 |
+| 2023-10-17 | 94,443 | 950 |
 ## Awards
 Max (Quickly Understood Controls): 24  (Ranked 510)  
 Sum: 88 (Ranked 439)  

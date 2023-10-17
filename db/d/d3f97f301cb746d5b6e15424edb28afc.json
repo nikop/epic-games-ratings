@@ -599,9 +599,9 @@
       "ID": "GSS_ACH_02_SHOP_02",
       "SetID": "5fn8ia4",
       "Name": "It\u0027s just getting started",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "GSS_ACH_03_TIP_01",
@@ -1246,8 +1246,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-17T01:48:02.9092076+00:00",
+  "LastChanged_Achievements": "2023-10-17T02:21:40.2105259+00:00",
   "LastUpdate_AppInfo": "2023-10-16T13:57:01.0346306+00:00",
-  "LastUpdate_Ratings": "2023-10-17T01:45:30.5024661+00:00",
-  "LastUpdate_Achievements": "2023-10-17T01:48:02.9093754+00:00"
+  "LastUpdate_Ratings": "2023-10-17T02:18:33.2877951+00:00",
+  "LastUpdate_Achievements": "2023-10-17T02:21:40.2106368+00:00"
 }

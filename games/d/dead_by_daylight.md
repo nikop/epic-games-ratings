@@ -14,30 +14,30 @@ Number of Ratings: 70,340  (23.09.2022)
 | Survival Treasures | 2.00% | ~18,891 |
 | Skillful | 2.00% | ~18,891 |
 | Make Some Noise | 2.00% | ~18,891 |
-| The Grand Sacrifice | 1.00% | ~9,445 |
-| Agonizing Escape | 1.00% | ~9,445 |
-| Backdoor Escape | 1.00% | ~9,445 |
-| I've got your back | 1.00% | ~9,445 |
-| No one left behind | 1.00% | ~9,445 |
-| Medic | 1.00% | ~9,445 |
-| Perfect Escape | 1.00% | ~9,445 |
-| Bloody Millionaire | 1.00% | ~9,445 |
-| I | 1.00% | ~9,445 |
-| Engineer | 1.00% | ~9,445 |
-| Sorted | 1.00% | ~9,445 |
-| Healthy Obsession | 1.00% | ~9,445 |
-| Resurgence | 1.00% | ~9,445 |
-| Preemptive Strike | 1.00% | ~9,445 |
-| Humanitarian | 1.00% | ~9,445 |
+| The Grand Sacrifice | 1.00% | ~9,446 |
+| Agonizing Escape | 1.00% | ~9,446 |
+| Backdoor Escape | 1.00% | ~9,446 |
+| I've got your back | 1.00% | ~9,446 |
+| No one left behind | 1.00% | ~9,446 |
+| Medic | 1.00% | ~9,446 |
+| Perfect Escape | 1.00% | ~9,446 |
+| Bloody Millionaire | 1.00% | ~9,446 |
+| I | 1.00% | ~9,446 |
+| Engineer | 1.00% | ~9,446 |
+| Sorted | 1.00% | ~9,446 |
+| Healthy Obsession | 1.00% | ~9,446 |
+| Resurgence | 1.00% | ~9,446 |
+| Preemptive Strike | 1.00% | ~9,446 |
+| Humanitarian | 1.00% | ~9,446 |
 | Nerves of steel | 0.90% | ~8,501 |
 | Perfect Killing | 0.90% | ~8,501 |
 | Risk it all | 0.90% | ~8,501 |
 | II | 0.90% | ~8,501 |
 | Wounded Healer | 0.90% | ~8,501 |
 | Close Shave | 0.90% | ~8,501 |
-| Apt Killer | 0.80% | ~7,556 |
-| Vulture | 0.80% | ~7,556 |
-| Second Act | 0.80% | ~7,556 |
+| Apt Killer | 0.80% | ~7,557 |
+| Vulture | 0.80% | ~7,557 |
+| Second Act | 0.80% | ~7,557 |
 | III | 0.70% | ~6,612 |
 | With Scars to Show | 0.70% | ~6,612 |
 | Rebuilding The Borgo | 0.70% | ~6,612 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~945 |
 | Adept Ripley | 0.10% | ~945 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 944,530 (Ranked 14)  
+Progressed: 944,564 (Ranked 14)  
 Completed: 51 (0.01%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -416,7 +416,7 @@ Completed: 51 (0.01%) (Ranked 297)
 | 2023-10-14 | 939,759 | 50 |
 | 2023-10-15 | 942,498 | 51 |
 | 2023-10-16 | 944,360 | 51 |
-| 2023-10-17 | 944,530 | 51 |
+| 2023-10-17 | 944,564 | 51 |
 ## Awards
 Max (Diverse Characters): 33,980  (Ranked 15)  
 Sum: 262,969 (Ranked 13)  

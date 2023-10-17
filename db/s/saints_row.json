@@ -3834,9 +3834,9 @@
       "Count": 1069
     }
   ],
-  "EOS_Progressed": 75250,
+  "EOS_Progressed": 75251,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 794,
+  "EOS_NewPlayers": 790,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -24039,6 +24039,11 @@
       "Time": "2023-10-17T01:47:39.4343245+00:00",
       "NumProgressed": 75250,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-17T02:21:20.102061+00:00",
+      "NumProgressed": 75251,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -24058,7 +24063,7 @@
       "Name": "It\u0027s a Bird!",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "beat_loyalty_missions",
@@ -24090,7 +24095,7 @@
       "Name": "The Collector",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "collect_low_amount_hero_props",
@@ -24098,7 +24103,7 @@
       "Name": "Finders Keepers",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 18812
+      "UsersEstimate": 18813
     },
     {
       "ID": "complet_epilogue_mission",
@@ -24114,7 +24119,7 @@
       "Name": "The Professional",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 3762
+      "UsersEstimate": 3763
     },
     {
       "ID": "complete_all_side_hustles",
@@ -24170,7 +24175,7 @@
       "Name": "Tune Up",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 24832
+      "UsersEstimate": 24833
     },
     {
       "ID": "customize_a_weapon",
@@ -24178,7 +24183,7 @@
       "Name": "Optimized",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 27842
+      "UsersEstimate": 27843
     },
     {
       "ID": "cutting_edge_materials",
@@ -24210,7 +24215,7 @@
       "Name": "Untouchable",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 3762
+      "UsersEstimate": 3763
     },
     {
       "ID": "do_a_barrel_roll",
@@ -24226,7 +24231,7 @@
       "Name": "A Young Empire",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18812
+      "UsersEstimate": 18813
     },
     {
       "ID": "empire_tier_3",
@@ -24314,7 +24319,7 @@
       "Name": "Free Refills",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3762
+      "UsersEstimate": 3763
     },
     {
       "ID": "kill_each_faction_miniboss",
@@ -24378,7 +24383,7 @@
       "Name": "Smooth Moves",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3762
+      "UsersEstimate": 3763
     },
     {
       "ID": "quadruple_backflip",
@@ -24386,7 +24391,7 @@
       "Name": "A Car Named Simone",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "route_66_attractions",
@@ -24426,7 +24431,7 @@
       "Name": "Fiesta Time",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "use_profile_app",
@@ -24442,7 +24447,7 @@
       "Name": "All Mine",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "bfhj_complete_mission_1_collectible",
@@ -24473,13 +24478,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 75250,
+      "Progressed": 75251,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 46887,
+      "Progressed": 46888,
       "Completed": 4128
     }
   ],
@@ -24487,8 +24492,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-10-16T19:59:02.6187073+00:00",
-  "LastChanged_Achievements": "2023-10-17T01:47:39.4343239+00:00",
+  "LastChanged_Achievements": "2023-10-17T02:21:20.1020604+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:20.7071116+00:00",
-  "LastUpdate_Ratings": "2023-10-17T01:42:07.9152249+00:00",
-  "LastUpdate_Achievements": "2023-10-17T01:47:39.4345749+00:00"
+  "LastUpdate_Ratings": "2023-10-17T02:15:46.2228778+00:00",
+  "LastUpdate_Achievements": "2023-10-17T02:21:20.1022295+00:00"
 }

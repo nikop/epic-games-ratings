@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1023,
+  "EOS_Progressed": 1025,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 183,
+  "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 3.62,
+  "EOS_Completed_Percentage": 3.61,
   "EosHistory": [
     {
       "Time": "2023-08-08T23:02:04.1783243+00:00",
@@ -2376,6 +2376,11 @@
       "Time": "2023-10-16T22:12:15.333149+00:00",
       "NumProgressed": 1023,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-10-17T02:26:41.2022789+00:00",
+      "NumProgressed": 1025,
+      "NumCompleted": 37
     }
   ],
   "AchievementsAdded": "2023-08-08T22:02:18.1743145+00:00",
@@ -2388,7 +2393,7 @@
       "Name": "Played!",
       "Percentage": 83,
       "XP": 200,
-      "UsersEstimate": 849
+      "UsersEstimate": 851
     },
     {
       "ID": "Mission2",
@@ -2396,15 +2401,15 @@
       "Name": "Mission 1 clear",
       "Percentage": 40,
       "XP": 200,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "Mission3",
       "SetID": "6igjng7",
       "Name": "Mission 2 clear",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 200,
-      "UsersEstimate": 297
+      "UsersEstimate": 287
     },
     {
       "ID": "Mission4",
@@ -2427,14 +2432,14 @@
     {
       "ID": "6igjng7",
       "IsBase": true,
-      "Progressed": 1023,
+      "Progressed": 1025,
       "Completed": 37
     }
   ],
   "FirstSeen": "2023-08-19T18:58:05.6794692+00:00",
   "FirstSeenAchievements": "2023-08-08T21:02:12.6548497+00:00",
-  "LastChanged_Achievements": "2023-10-17T01:53:14.4316043+00:00",
+  "LastChanged_Achievements": "2023-10-17T02:26:41.2022783+00:00",
   "LastUpdate_AppInfo": "2023-10-16T13:57:00.9824525+00:00",
-  "LastUpdate_Ratings": "2023-10-17T01:45:16.0166039+00:00",
-  "LastUpdate_Achievements": "2023-10-17T01:53:14.4316423+00:00"
+  "LastUpdate_Ratings": "2023-10-17T02:18:20.0453252+00:00",
+  "LastUpdate_Achievements": "2023-10-17T02:26:41.2022981+00:00"
 }

@@ -724,9 +724,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2648,
+  "EOS_Progressed": 2649,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 306,
+  "EOS_NewPlayers": 305,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3319,6 +3319,11 @@
       "Time": "2023-10-17T01:51:08.3341184+00:00",
       "NumProgressed": 2648,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-17T02:24:20.0293882+00:00",
+      "NumProgressed": 2649,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -3355,7 +3360,7 @@
       "Name": "Stud Finder",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "achievement_13",
@@ -3363,7 +3368,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 1403
+      "UsersEstimate": 1404
     },
     {
       "ID": "achievement_14",
@@ -3475,7 +3480,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 847
+      "UsersEstimate": 848
     },
     {
       "ID": "achievement_8",
@@ -3498,7 +3503,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 2648,
+      "Progressed": 2649,
       "Completed": 0
     }
   ],
@@ -3506,8 +3511,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-10-16T14:02:18.9029045+00:00",
-  "LastChanged_Achievements": "2023-10-17T01:51:08.3341177+00:00",
+  "LastChanged_Achievements": "2023-10-17T02:24:20.0293877+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:08.8110287+00:00",
-  "LastUpdate_Ratings": "2023-10-17T01:46:36.9005627+00:00",
-  "LastUpdate_Achievements": "2023-10-17T01:51:08.3341736+00:00"
+  "LastUpdate_Ratings": "2023-10-17T02:20:19.1159397+00:00",
+  "LastUpdate_Achievements": "2023-10-17T02:24:20.0294208+00:00"
 }

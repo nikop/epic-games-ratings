@@ -2,7 +2,7 @@
   "ID": "deab864e1abf4357b303bcd5ff6fe8da",
   "Name": "Tony Hawk\u0027s\u2122 Pro Skater\u2122 1 \u002B 2",
   "ProductSlug": "tony-hawks-pro-skater-1-and-2",
-  "Ranking_Rating": 56,
+  "Ranking_Rating": 62,
   "Ranking_Popularity": 357,
   "Ranking_PopularitySum": 280,
   "Ranking_EOS_Progress": 671,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "KR,CN"
     }
   },
-  "Rating": 4.83,
+  "Rating": 4.82,
   "NumberOfRatings": 1298,
   "RatingHistory": [
     {
@@ -1673,6 +1673,12 @@
       "Rating": 4.83,
       "NumberOfAwards": 728,
       "NumberOfAwardsMax": 94
+    },
+    {
+      "Time": "2023-10-17T02:20:26.1751441+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 728,
+      "NumberOfAwardsMax": 94
     }
   ],
   "ReviewsDisabled": false,
@@ -1770,8 +1776,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:55.4170175+00:00",
-  "LastChanged": "2023-10-15T02:22:34.2955266+00:00",
+  "LastChanged": "2023-10-17T02:20:26.175144+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:20.1155472+00:00",
-  "LastUpdate_Ratings": "2023-10-17T01:46:49.3648452+00:00",
-  "LastUpdate_Achievements": "2023-10-17T01:48:39.884084+00:00"
+  "LastUpdate_Ratings": "2023-10-17T02:20:26.1751447+00:00",
+  "LastUpdate_Achievements": "2023-10-17T02:22:12.1399181+00:00"
 }

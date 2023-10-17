@@ -6,27 +6,27 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 43.00% | ~5,984 |
-| Overkill | 34.00% | ~4,732 |
-| A normal day in Gloomhaven | 34.00% | ~4,732 |
-| Vaccine Incoming | 33.00% | ~4,593 |
-| Spread the plague | 31.00% | ~4,314 |
-| Get over here! | 24.00% | ~3,340 |
-| Just when I thought I was out... | 19.00% | ~2,644 |
+| I'm not dead yet | 43.00% | ~5,986 |
+| Overkill | 34.00% | ~4,733 |
+| A normal day in Gloomhaven | 34.00% | ~4,733 |
+| Vaccine Incoming | 33.00% | ~4,594 |
+| Spread the plague | 31.00% | ~4,315 |
+| Get over here! | 24.00% | ~3,341 |
+| Just when I thought I was out... | 19.00% | ~2,645 |
 | Mine... All Mine... | 17.00% | ~2,366 |
 | Precious! | 16.00% | ~2,227 |
 | Light of my life | 15.00% | ~2,088 |
 | Anatomy Lesson | 15.00% | ~2,088 |
-| Grizzled veteran | 13.00% | ~1,809 |
-| You activated my trap card! | 13.00% | ~1,809 |
-| Augmented rat | 13.00% | ~1,809 |
-| Obstacle race | 13.00% | ~1,809 |
+| Grizzled veteran | 13.00% | ~1,810 |
+| You activated my trap card! | 13.00% | ~1,810 |
+| Augmented rat | 13.00% | ~1,810 |
+| Obstacle race | 13.00% | ~1,810 |
 | Doom and gloom | 11.00% | ~1,531 |
-| Who's the Boss? | 8.00% | ~1,113 |
-| Pack leader | 8.00% | ~1,113 |
-| Pain is your friend | 8.00% | ~1,113 |
-| Black death | 8.00% | ~1,113 |
-| Play it again, Sam | 8.00% | ~1,113 |
+| Who's the Boss? | 8.00% | ~1,114 |
+| Pack leader | 8.00% | ~1,114 |
+| Pain is your friend | 8.00% | ~1,114 |
+| Black death | 8.00% | ~1,114 |
+| Play it again, Sam | 8.00% | ~1,114 |
 | Dungeon Veteran | 7.00% | ~974 |
 | Quad damage | 6.00% | ~835 |
 | Power Up! | 5.00% | ~696 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~14 |
 | Murder Death Kill | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,917 (Ranked 139)  
+Progressed: 13,920 (Ranked 139)  
 Completed: 1 (0.01%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 1 (0.01%) (Ranked 297)
 | 2023-10-14 | 13,296 | 1 |
 | 2023-10-15 | 13,656 | 1 |
 | 2023-10-16 | 13,884 | 1 |
-| 2023-10-17 | 13,917 | 1 |
+| 2023-10-17 | 13,920 | 1 |
 ## Awards
 Max (Character Customization): 3,554  (Ranked 90)  
 Sum: 8,295 (Ranked 98)  
