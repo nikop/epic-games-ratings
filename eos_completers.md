@@ -2,7 +2,7 @@
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 66.67% |
-| 3 | [The Riflemen](games/t/the_riflemen.md) | 48.02% |
+| 3 | [The Riflemen](games/t/the_riflemen.md) | 47.99% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.15% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.99% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
@@ -26,7 +26,7 @@
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 12.77% |
 | 25 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 12.50% |
 | 25 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 12.50% |
-| 27 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.28% |
+| 27 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.27% |
 | 28 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 11.94% |
 | 29 | [Remains](games/r/remains.md) | 11.76% |
 | 30 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 11.43% |
@@ -170,9 +170,9 @@
 | 167 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.58% |
 | 167 | [Grindstone](games/g/grindstone.md) | 0.58% |
 | 167 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.58% |
-| 171 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.57% |
 | 171 | [The Surge 2](games/t/the_surge_2.md) | 0.57% |
-| 173 | [Dead Space](games/d/dead_space.md) | 0.56% |
+| 172 | [Dead Space](games/d/dead_space.md) | 0.56% |
+| 172 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.56% |
 | 174 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
 | 174 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.55% |
 | 176 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
@@ -210,9 +210,9 @@
 | 208 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.29% |
 | 208 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
 | 208 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.29% |
+| 211 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.27% |
 | 211 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.27% |
 | 211 | [The Devil's Face](games/t/the_devil's_face.md) | 0.27% |
-| 213 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.26% |
 | 214 | [Filament](games/f/filament.md) | 0.25% |
 | 215 | [Aegis Descent](games/a/aegis_descent.md) | 0.24% |
 | 215 | [Scrapnaut](games/s/scrapnaut.md) | 0.24% |
