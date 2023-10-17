@@ -3,8 +3,8 @@
   "Name": "Alex Kidd in Miracle World DX",
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 309,
-  "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_Completed": 133,
+  "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 304,
+  "EOS_Progressed": 305,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.32,
+  "EOS_Completed_Percentage": 1.31,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:09.0192053+00:00",
@@ -416,6 +416,11 @@
       "Time": "2023-10-17T01:52:16.7728383+00:00",
       "NumProgressed": 304,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-17T12:08:59.9706327+00:00",
+      "NumProgressed": 305,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -491,7 +496,7 @@
       "Name": "Janken The Great",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "LEVEL_04",
@@ -507,7 +512,7 @@
       "Name": "Pacifist",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "NO_PURCHASES",
@@ -547,14 +552,14 @@
       "Name": "Magic Ball",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     }
   ],
   "AchievementSets": [
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 304,
+      "Progressed": 305,
       "Completed": 4
     }
   ],
@@ -562,8 +567,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-10-17T11:08:28.8341248+00:00",
+  "LastChanged_Achievements": "2023-10-17T12:08:59.9706321+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:21.7306089+00:00",
-  "LastUpdate_Ratings": "2023-10-17T11:00:39.9624308+00:00",
-  "LastUpdate_Achievements": "2023-10-17T11:08:28.834136+00:00"
+  "LastUpdate_Ratings": "2023-10-17T12:01:04.0783123+00:00",
+  "LastUpdate_Achievements": "2023-10-17T12:08:59.9706499+00:00"
 }

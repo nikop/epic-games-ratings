@@ -230,7 +230,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 148599,
+  "EOS_Progressed": 148601,
   "EOS_Completed": 303,
   "EOS_NewPlayers": 1109,
   "EOS_NewCompleters": 10,
@@ -14750,6 +14750,11 @@
       "Time": "2023-10-17T11:07:25.9356238+00:00",
       "NumProgressed": 148599,
       "NumCompleted": 303
+    },
+    {
+      "Time": "2023-10-17T12:08:02.6974337+00:00",
+      "NumProgressed": 148601,
+      "NumCompleted": 303
     }
   ],
   "TotalAchievements": 31,
@@ -14769,7 +14774,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 104019
+      "UsersEstimate": 104021
     },
     {
       "ID": "EAwards_10",
@@ -15008,7 +15013,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 148599,
+      "Progressed": 148601,
       "Completed": 303
     }
   ],
@@ -15016,8 +15021,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-10-16T16:03:00.6349642+00:00",
-  "LastChanged_Achievements": "2023-10-17T11:07:25.9356233+00:00",
+  "LastChanged_Achievements": "2023-10-17T12:08:02.697433+00:00",
   "LastUpdate_AppInfo": "2023-10-13T01:42:08.412452+00:00",
-  "LastUpdate_Ratings": "2023-10-17T11:01:46.2718067+00:00",
-  "LastUpdate_Achievements": "2023-10-17T11:07:25.9357066+00:00"
+  "LastUpdate_Ratings": "2023-10-17T12:02:18.2953307+00:00",
+  "LastUpdate_Achievements": "2023-10-17T12:08:02.6975482+00:00"
 }

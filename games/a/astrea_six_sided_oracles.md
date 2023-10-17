@@ -21,10 +21,10 @@
 | Stellar Dismantler | 22.00% | ~13 |
 | Anomaly Destroyer | 21.00% | ~12 |
 | Aquarian Champion | 21.00% | ~12 |
-| Shard Spender | 17.00% | ~10 |
+| Shard Spender | 19.00% | ~11 |
+| Heart Gate | 17.00% | ~10 |
 | Star Killer | 17.00% | ~10 |
 | Astral Adventurer | 16.00% | ~9 |
-| Heart Gate | 16.00% | ~9 |
 | Astral Seeker | 14.00% | ~8 |
 | The Corruption Goddess | 14.00% | ~8 |
 | The Goddes Avatar | 14.00% | ~8 |
@@ -41,11 +41,11 @@
 | Heavy Purger | 7.00% | ~4 |
 | The Chaos Artisan | 7.00% | ~4 |
 | The Dark Moon | 7.00% | ~4 |
+| The Distorted Sage | 7.00% | ~4 |
 | Behenian Hero | 7.00% | ~4 |
 | Artificer | 5.00% | ~3 |
 | Purification Avatar | 5.00% | ~3 |
 | The Abyssal Terror | 5.00% | ~3 |
-| The Distorted Sage | 5.00% | ~3 |
 | Behenian Mastery | 5.00% | ~3 |
 | Lacertian Mastery | 5.00% | ~3 |
 | Astrarium of Holding | 3.00% | ~2 |

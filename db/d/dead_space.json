@@ -6,9 +6,9 @@
   "Ranking_Popularity": 341,
   "Ranking_PopularitySum": 430,
   "Ranking_EOS_Progress": 234,
-  "Ranking_EOS_Completed": 178,
+  "Ranking_EOS_Completed": 173,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
     "PcReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -662,11 +662,11 @@
       "Count": 104
     }
   ],
-  "EOS_Progressed": 1070,
-  "EOS_Completed": 5,
-  "EOS_NewPlayers": 171,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.47,
+  "EOS_Progressed": 1071,
+  "EOS_Completed": 6,
+  "EOS_NewPlayers": 170,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
     {
       "Time": "2023-09-19T18:06:12.9172474+00:00",
@@ -3192,6 +3192,11 @@
       "Time": "2023-10-17T10:08:10.2189083+00:00",
       "NumProgressed": 1070,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-17T12:09:07.5131715+00:00",
+      "NumProgressed": 1071,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-09-19T17:07:15.1979161+00:00",
@@ -3204,7 +3209,7 @@
       "Name": "Welcome Aboard",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "achievement_10",
@@ -3220,7 +3225,7 @@
       "Name": "Betrayed",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "achievement_12",
@@ -3244,7 +3249,7 @@
       "Name": "Whole Again",
       "Percentage": 29,
       "XP": 40,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "achievement_15",
@@ -3252,7 +3257,7 @@
       "Name": "Set A Benchmark",
       "Percentage": 29,
       "XP": 40,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "achievement_16",
@@ -3292,7 +3297,7 @@
       "Name": "Lab Rat",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 813
+      "UsersEstimate": 814
     },
     {
       "ID": "achievement_20",
@@ -3308,7 +3313,7 @@
       "Name": "Live with the Hot Ones",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "achievement_22",
@@ -3396,7 +3401,7 @@
       "Name": "Marksman",
       "Percentage": 95,
       "XP": 10,
-      "UsersEstimate": 1016
+      "UsersEstimate": 1017
     },
     {
       "ID": "achievement_32",
@@ -3428,7 +3433,7 @@
       "Name": "Freeze",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "achievement_36",
@@ -3460,7 +3465,7 @@
       "Name": "Z-Baller",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "achievement_4",
@@ -3468,7 +3473,7 @@
       "Name": "Cannon Fodder",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "achievement_40",
@@ -3492,7 +3497,7 @@
       "Name": "Brute Force",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "achievement_43",
@@ -3572,23 +3577,23 @@
       "Name": "Wreckage",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     }
   ],
   "AchievementSets": [
     {
       "ID": "222fo9l",
       "IsBase": true,
-      "Progressed": 1070,
-      "Completed": 5
+      "Progressed": 1071,
+      "Completed": 6
     }
   ],
   "FirstSeen": "2023-01-27T17:57:20.5533157+00:00",
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-15T07:59:51.3823595+00:00",
-  "LastChanged_Achievements": "2023-10-17T11:08:35.9693231+00:00",
+  "LastChanged_Achievements": "2023-10-17T12:09:07.513171+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:22.2856721+00:00",
-  "LastUpdate_Ratings": "2023-10-17T11:00:43.5789097+00:00",
-  "LastUpdate_Achievements": "2023-10-17T11:08:35.9693677+00:00"
+  "LastUpdate_Ratings": "2023-10-17T12:01:08.2272831+00:00",
+  "LastUpdate_Achievements": "2023-10-17T12:09:07.5132742+00:00"
 }

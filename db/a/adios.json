@@ -114,7 +114,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 76022,
+  "EOS_Progressed": 76025,
   "EOS_Completed": 799,
   "EOS_NewPlayers": 584,
   "EOS_NewCompleters": 11,
@@ -20189,6 +20189,11 @@
       "Time": "2023-10-17T11:05:29.5325975+00:00",
       "NumProgressed": 76022,
       "NumCompleted": 799
+    },
+    {
+      "Time": "2023-10-17T12:06:08.873705+00:00",
+      "NumProgressed": 76025,
+      "NumCompleted": 799
     }
   ],
   "TotalAchievements": 25,
@@ -20232,7 +20237,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 16725
+      "UsersEstimate": 16726
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -20256,7 +20261,7 @@
       "Name": "Cut Call",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 4561
+      "UsersEstimate": 4562
     },
     {
       "ID": "Fair\u0027sFair",
@@ -20272,7 +20277,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 15204
+      "UsersEstimate": 15205
     },
     {
       "ID": "Hearty",
@@ -20320,7 +20325,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 14444
+      "UsersEstimate": 14445
     },
     {
       "ID": "Nice Try",
@@ -20399,7 +20404,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 76022,
+      "Progressed": 76025,
       "Completed": 799
     }
   ],
@@ -20407,8 +20412,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-10-17T11:05:29.5325971+00:00",
+  "LastChanged_Achievements": "2023-10-17T12:06:08.8737043+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:21.8706974+00:00",
-  "LastUpdate_Ratings": "2023-10-17T11:00:41.6801511+00:00",
-  "LastUpdate_Achievements": "2023-10-17T11:05:29.5327031+00:00"
+  "LastUpdate_Ratings": "2023-10-17T12:01:06.1530165+00:00",
+  "LastUpdate_Achievements": "2023-10-17T12:06:08.8739272+00:00"
 }

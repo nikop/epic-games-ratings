@@ -9,7 +9,7 @@
 | Kamikaze | 65.00% | ~370 |
 | The Rebel And The Doctor | 58.00% | ~331 |
 | Beat It | 52.00% | ~296 |
-| Free Champagne | 48.00% | ~274 |
+| Free Champagne | 49.00% | ~279 |
 | Storage Hunter | 47.00% | ~268 |
 | Falling For You | 45.00% | ~256 |
 | Trust Me For Once | 29.00% | ~165 |

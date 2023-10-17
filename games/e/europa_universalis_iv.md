@@ -6,15 +6,15 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,319 |
-| Until death do us apart | 4.00% | ~17,319 |
-| Victorious! | 4.00% | ~17,319 |
-| That is mine! | 3.00% | ~12,989 |
-| Brothers in Arms | 2.00% | ~8,659 |
-| Cold War | 2.00% | ~8,659 |
-| For the Glory | 2.00% | ~8,659 |
-| That's a Grand Navy | 2.00% | ~8,659 |
-| Seriously?! | 2.00% | ~8,659 |
+| That's a Grand Army | 4.00% | ~17,320 |
+| Until death do us apart | 4.00% | ~17,320 |
+| Victorious! | 4.00% | ~17,320 |
+| That is mine! | 3.00% | ~12,990 |
+| Brothers in Arms | 2.00% | ~8,660 |
+| Cold War | 2.00% | ~8,660 |
+| For the Glory | 2.00% | ~8,660 |
+| That's a Grand Navy | 2.00% | ~8,660 |
+| Seriously?! | 2.00% | ~8,660 |
 | Defender of the Faith | 1.00% | ~4,330 |
 | It's all about the money | 1.00% | ~4,330 |
 | Respected | 1.00% | ~4,330 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 432,969 (Ranked 40)  
+Progressed: 432,994 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -541,10 +541,10 @@ Completed: 1 (0.00%) (Ranked 315)
 | 2023-10-14 | 431,056 | 1 |
 | 2023-10-15 | 432,104 | 1 |
 | 2023-10-16 | 432,768 | 1 |
-| 2023-10-17 | 432,969 | 1 |
+| 2023-10-17 | 432,994 | 1 |
 ## Awards
 Max (Educational): 6,561  (Ranked 55)  
-Sum: 53,930 (Ranked 25)  
+Sum: 53,941 (Ranked 25)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -555,7 +555,7 @@ Diff (max vs sum): 30
 | This game is Extremely Fun | 6,183 |
 | This game is Relaxing | 6,043 |
 | This game has Competitive Players | 5,891 |
-| This game has Amazing Storytelling | 5,479 |
+| This game has Amazing Storytelling | 5,490 |
 | This game has Amazing Characters | 5,079 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
@@ -834,4 +834,4 @@ Diff (max vs sum): 30
 | 2023-10-14 | 4.69 | - | 6,534 | 53,639 |
 | 2023-10-15 | 4.69 | - | 6,551 | 53,801 |
 | 2023-10-16 | 4.69 | - | 6,561 | 53,895 |
-| 2023-10-17 | 4.69 | - | 6,561 | 53,930 |
+| 2023-10-17 | 4.69 | - | 6,561 | 53,941 |

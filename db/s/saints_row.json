@@ -3834,9 +3834,9 @@
       "Count": 1069
     }
   ],
-  "EOS_Progressed": 75278,
+  "EOS_Progressed": 75282,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 787,
+  "EOS_NewPlayers": 790,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -24079,6 +24079,11 @@
       "Time": "2023-10-17T09:04:11.3780169+00:00",
       "NumProgressed": 75278,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-17T12:04:25.1397433+00:00",
+      "NumProgressed": 75282,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -24106,7 +24111,7 @@
       "Name": "Quality Time",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 13550
+      "UsersEstimate": 13551
     },
     {
       "ID": "buy_1_thing_from_every_store",
@@ -24146,7 +24151,7 @@
       "Name": "We could go home, or\u2026",
       "Percentage": 7,
       "XP": 75,
-      "UsersEstimate": 5269
+      "UsersEstimate": 5270
     },
     {
       "ID": "complete_all_of_wanted",
@@ -24170,7 +24175,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 5269
+      "UsersEstimate": 5270
     },
     {
       "ID": "complete_final_mission",
@@ -24178,7 +24183,7 @@
       "Name": "Showdown",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 12044
+      "UsersEstimate": 12045
     },
     {
       "ID": "complete_first_side_hustle",
@@ -24186,7 +24191,7 @@
       "Name": "The Side Job",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 23336
+      "UsersEstimate": 23337
     },
     {
       "ID": "complete_first_wanted_mission",
@@ -24194,7 +24199,7 @@
       "Name": "Wet Work",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 24089
+      "UsersEstimate": 24090
     },
     {
       "ID": "complete_mission_1",
@@ -24202,7 +24207,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 34628
+      "UsersEstimate": 34630
     },
     {
       "ID": "customize_a_vehicle",
@@ -24210,7 +24215,7 @@
       "Name": "Tune Up",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 24842
+      "UsersEstimate": 24843
     },
     {
       "ID": "customize_a_weapon",
@@ -24218,7 +24223,7 @@
       "Name": "Optimized",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 27853
+      "UsersEstimate": 27854
     },
     {
       "ID": "cutting_edge_materials",
@@ -24274,7 +24279,7 @@
       "Name": "Power Players",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 14303
+      "UsersEstimate": 14304
     },
     {
       "ID": "empire_tier_4",
@@ -24282,7 +24287,7 @@
       "Name": "Masters of Santo Ileso",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 9033
+      "UsersEstimate": 9034
     },
     {
       "ID": "empire_tier_5",
@@ -24290,7 +24295,7 @@
       "Name": "A Golden Age",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 5269
+      "UsersEstimate": 5270
     },
     {
       "ID": "first_building_placed",
@@ -24298,7 +24303,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 24089
+      "UsersEstimate": 24090
     },
     {
       "ID": "fully_complete_a_building",
@@ -24306,7 +24311,7 @@
       "Name": "Work Ethic",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 17314
+      "UsersEstimate": 17315
     },
     {
       "ID": "fully_upgrade_1_vehicle",
@@ -24330,7 +24335,7 @@
       "Name": "Et tu?",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 12797
+      "UsersEstimate": 12798
     },
     {
       "ID": "get_fired",
@@ -24338,7 +24343,7 @@
       "Name": "Performance Review",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 27100
+      "UsersEstimate": 27102
     },
     {
       "ID": "hit_max_level",
@@ -24346,7 +24351,7 @@
       "Name": "Took It to The Limit",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 12044
+      "UsersEstimate": 12045
     },
     {
       "ID": "infinite_boost_refill",
@@ -24370,7 +24375,7 @@
       "Name": "Wrecking Ball",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 21078
+      "UsersEstimate": 21079
     },
     {
       "ID": "kill_tank_driver_with_rail",
@@ -24386,7 +24391,7 @@
       "Name": "Making a Name",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 26347
+      "UsersEstimate": 26349
     },
     {
       "ID": "one_third_purple",
@@ -24402,7 +24407,7 @@
       "Name": "Closet Space",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6022
+      "UsersEstimate": 6023
     },
     {
       "ID": "prank_coop_partner",
@@ -24442,7 +24447,7 @@
       "Name": "Food for Thought",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 20325
+      "UsersEstimate": 20326
     },
     {
       "ID": "two_thirds_purple",
@@ -24474,7 +24479,7 @@
       "Name": "To The Nines",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 31617
+      "UsersEstimate": 31618
     },
     {
       "ID": "whole_map_purple",
@@ -24513,13 +24518,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 75278,
+      "Progressed": 75282,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 46915,
+      "Progressed": 46919,
       "Completed": 4128
     }
   ],
@@ -24527,8 +24532,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-10-16T19:59:02.6187073+00:00",
-  "LastChanged_Achievements": "2023-10-17T11:03:52.6622209+00:00",
+  "LastChanged_Achievements": "2023-10-17T12:04:25.1397426+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:20.7071116+00:00",
-  "LastUpdate_Ratings": "2023-10-17T10:58:38.1848335+00:00",
-  "LastUpdate_Achievements": "2023-10-17T11:03:52.6623491+00:00"
+  "LastUpdate_Ratings": "2023-10-17T11:58:51.4597866+00:00",
+  "LastUpdate_Achievements": "2023-10-17T12:04:25.1400472+00:00"
 }

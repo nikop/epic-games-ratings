@@ -1587,10 +1587,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 839,
       "NumberOfAwardsMax": 105
+    },
+    {
+      "Time": "2023-10-17T11:58:13.3383399+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 841,
+      "NumberOfAwardsMax": 105
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 839,
+  "NumberOfAwards": 841,
   "NumberOfAwardsMax": 105,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1664,7 +1670,7 @@
       "Text": "This game has a Silly Community",
       "Prefix": "This game has a",
       "Type": "Silly Community",
-      "Count": 82
+      "Count": 84
     }
   ],
   "EOS_Progressed": 0,
@@ -1678,8 +1684,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:50.679277+00:00",
-  "LastChanged": "2023-10-15T18:57:09.2579526+00:00",
+  "LastChanged": "2023-10-17T11:58:13.3383397+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:16.6698868+00:00",
-  "LastUpdate_Ratings": "2023-10-17T10:58:02.0925771+00:00",
-  "LastUpdate_Achievements": "2023-10-17T11:05:43.3271951+00:00"
+  "LastUpdate_Ratings": "2023-10-17T11:58:13.3383405+00:00",
+  "LastUpdate_Achievements": "2023-10-17T12:06:23.8494549+00:00"
 }

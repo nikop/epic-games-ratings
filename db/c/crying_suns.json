@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 315,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -622,9 +622,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 469197,
+  "EOS_Progressed": 469198,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 371,
+  "EOS_NewPlayers": 368,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19442,6 +19442,11 @@
       "Time": "2023-10-17T11:09:28.84758+00:00",
       "NumProgressed": 469197,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-10-17T12:09:42.6510191+00:00",
+      "NumProgressed": 469198,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 79,
@@ -19469,7 +19474,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 112607
+      "UsersEstimate": 112608
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -19477,7 +19482,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 103223
+      "UsersEstimate": 103224
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -19541,7 +19546,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 309670
+      "UsersEstimate": 309671
     },
     {
       "ID": "achievement_story_landa",
@@ -19573,7 +19578,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 117299
+      "UsersEstimate": 117300
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -19629,7 +19634,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 93839
+      "UsersEstimate": 93840
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -19965,7 +19970,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 103223
+      "UsersEstimate": 103224
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -20084,21 +20089,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 13131,
+      "Progressed": 13132,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 469197,
+      "Progressed": 469198,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-10-10T01:42:39.6470224+00:00",
-  "LastChanged_Achievements": "2023-10-17T11:09:28.8475792+00:00",
+  "LastChanged_Achievements": "2023-10-17T12:09:42.6510186+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:23.4157652+00:00",
-  "LastUpdate_Ratings": "2023-10-17T10:58:41.1393229+00:00",
-  "LastUpdate_Achievements": "2023-10-17T11:09:28.8477558+00:00"
+  "LastUpdate_Ratings": "2023-10-17T11:58:54.8608387+00:00",
+  "LastUpdate_Achievements": "2023-10-17T12:09:42.6512317+00:00"
 }

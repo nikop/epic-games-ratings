@@ -1260,9 +1260,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5591,
+  "EOS_Progressed": 5592,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -11445,6 +11445,11 @@
       "Time": "2023-10-17T05:07:50.1745561+00:00",
       "NumProgressed": 5591,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-17T12:08:13.4010926+00:00",
+      "NumProgressed": 5592,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -11464,7 +11469,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "ACH_DOUBLEESCALATION",
@@ -11520,7 +11525,7 @@
       "Name": "Computer Says \u0022No\u0022",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "ACH_EP_CHOCOLATEFACTORY",
@@ -11544,7 +11549,7 @@
       "Name": "Beware The Betman",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "ACH_EP_PENULTIMOOFTHECARIBBEAN",
@@ -11560,7 +11565,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -11608,7 +11613,7 @@
       "Name": "The Governator",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -11616,7 +11621,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4193
+      "UsersEstimate": 4194
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -11775,15 +11780,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5591,
+      "Progressed": 5592,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-10-16T23:00:54.8022561+00:00",
-  "LastChanged_Achievements": "2023-10-17T11:07:35.6884831+00:00",
+  "LastChanged_Achievements": "2023-10-17T12:08:13.401092+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:19.8725489+00:00",
-  "LastUpdate_Ratings": "2023-10-17T11:00:31.991025+00:00",
-  "LastUpdate_Achievements": "2023-10-17T11:07:35.688558+00:00"
+  "LastUpdate_Ratings": "2023-10-17T12:00:55.4163456+00:00",
+  "LastUpdate_Achievements": "2023-10-17T12:08:13.4011911+00:00"
 }

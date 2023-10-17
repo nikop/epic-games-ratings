@@ -66,18 +66,19 @@ Number of Ratings: 1,307  (23.09.2022)
 | Manichaeism | 0.90% | ~133 |
 | Mighty | 0.80% | ~118 |
 | Artisans | 0.80% | ~118 |
+| Sages | 0.80% | ~118 |
 | Acropolis | 0.80% | ~118 |
 | Mythology | 0.80% | ~118 |
 | Win a Single Player Game | 0.80% | ~118 |
 | Hanging Gardens in Babylon | 0.70% | ~103 |
 | Beloved | 0.70% | ~103 |
 | Conqueror | 0.70% | ~103 |
+| Intercessor | 0.70% | ~103 |
 | Victorious | 0.70% | ~103 |
 | Champions | 0.70% | ~103 |
-| Sages | 0.70% | ~103 |
 | Mausoleum | 0.70% | ~103 |
 | Learn to Play 3 | 0.70% | ~103 |
-| Intercessor | 0.60% | ~89 |
+| Invincible | 0.60% | ~89 |
 | Lion | 0.60% | ~89 |
 | Good Difficulty | 0.60% | ~89 |
 | Patrons | 0.60% | ~89 |
@@ -90,7 +91,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legalism | 0.60% | ~89 |
 | Double Victory | 0.60% | ~89 |
 | Points Victory | 0.60% | ~89 |
-| Invincible | 0.50% | ~74 |
 | Subjugator | 0.50% | ~74 |
 | Landowners | 0.50% | ~74 |
 | Riders | 0.50% | ~74 |
@@ -104,6 +104,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 4 | 0.50% | ~74 |
 | Economic Reform | 0.50% | ~74 |
 | Military Prestige | 0.50% | ~74 |
+| Dualism | 0.50% | ~74 |
 | Redemption | 0.50% | ~74 |
 | Revelation | 0.50% | ~74 |
 | Cimmerian Archer | 0.50% | ~74 |
@@ -123,11 +124,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Assyrian Paganism | 0.40% | ~59 |
 | Hittite Paganism | 0.40% | ~59 |
 | Industrial Progress | 0.40% | ~59 |
-| Dualism | 0.40% | ~59 |
 | Enlightenment | 0.40% | ~59 |
 | Gnosticism | 0.40% | ~59 |
 | Veneration | 0.40% | ~59 |
 | Mounted Lancer | 0.40% | ~59 |
+| Turreted Elephant | 0.40% | ~59 |
 | Ambition Victory | 0.40% | ~59 |
 | The Great Mage | 0.40% | ~59 |
 | Poetic Leader | 0.40% | ~59 |
@@ -142,7 +143,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Rome | 0.30% | ~44 |
 | Old World Order | 0.30% | ~44 |
 | Cataphract Archer | 0.30% | ~44 |
-| Turreted Elephant | 0.30% | ~44 |
 | All Nations | 0.30% | ~44 |
 | Rmt n Kmt Buhen | 0.30% | ~44 |
 | Greater Kmt Unified | 0.30% | ~44 |
@@ -158,6 +158,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hatti | 0.20% | ~30 |
 | Persia | 0.20% | ~30 |
 | Pantheon of Gods | 0.20% | ~30 |
+| Apadana in Parsa | 0.20% | ~30 |
 | Play a Network Game | 0.20% | ~30 |
 | Capturing Cities | 0.20% | ~30 |
 | Ten Crowns | 0.20% | ~30 |
@@ -256,7 +257,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Medo-Babylonian Conquest | 0.10% | ~15 |
 | Pyramids in Menefer | 0.10% | ~15 |
 | Realistic Mortality | 0.10% | ~15 |
-| Apadana in Parsa | 0.10% | ~15 |
 | Play a 1-v-1 Game | 0.10% | ~15 |
 | Play a Free-For-All Game (>2 Players) | 0.10% | ~15 |
 | Play a Hotseat Game | 0.10% | ~15 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,760 (Ranked 135)  
+Progressed: 14,762 (Ranked 135)  
 Completed: 5 (0.03%) (Ranked 284)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -529,7 +529,7 @@ Completed: 5 (0.03%) (Ranked 284)
 | 2023-10-14 | 14,699 | 5 |
 | 2023-10-15 | 14,732 | 5 |
 | 2023-10-16 | 14,747 | 5 |
-| 2023-10-17 | 14,760 | 5 |
+| 2023-10-17 | 14,762 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,842 (Ranked 210)  

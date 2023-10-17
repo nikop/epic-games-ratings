@@ -1344,9 +1344,9 @@
       "Count": 225
     }
   ],
-  "EOS_Progressed": 7715,
+  "EOS_Progressed": 7716,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 391,
+  "EOS_NewPlayers": 392,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4614,6 +4614,11 @@
       "Time": "2023-10-17T11:09:14.1694409+00:00",
       "NumProgressed": 7715,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-17T12:09:26.6839169+00:00",
+      "NumProgressed": 7716,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -4634,7 +4639,7 @@
       "Name": "Eye Of The TaiGore",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1774
+      "UsersEstimate": 1775
     },
     {
       "ID": "ach03",
@@ -4666,7 +4671,7 @@
       "Name": "Titan",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 5709
+      "UsersEstimate": 5710
     },
     {
       "ID": "ach07",
@@ -4674,7 +4679,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 4166
+      "UsersEstimate": 4167
     },
     {
       "ID": "ach08",
@@ -4762,7 +4767,7 @@
       "Name": "Adventure Time",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2777
+      "UsersEstimate": 2778
     },
     {
       "ID": "ach19",
@@ -4818,7 +4823,7 @@
       "Name": "Talis-Mania",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 1697
+      "UsersEstimate": 1698
     },
     {
       "ID": "ach26",
@@ -4850,7 +4855,7 @@
       "Name": "Unstoppable",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1774
+      "UsersEstimate": 1775
     },
     {
       "ID": "ach30",
@@ -4866,7 +4871,7 @@
       "Name": "Not So Big Now, Are You??",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 2314
+      "UsersEstimate": 2315
     },
     {
       "ID": "ach32",
@@ -4914,7 +4919,7 @@
       "Name": "ABACABB",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 4320
+      "UsersEstimate": 4321
     },
     {
       "ID": "ach38",
@@ -4922,7 +4927,7 @@
       "Name": "Made It Out Alive",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3317
+      "UsersEstimate": 3318
     },
     {
       "ID": "ach39",
@@ -4954,7 +4959,7 @@
       "Name": "Quest Master",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 3240
+      "UsersEstimate": 3241
     },
     {
       "ID": "ach43",
@@ -4962,7 +4967,7 @@
       "Name": "Working Overtime",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3317
+      "UsersEstimate": 3318
     },
     {
       "ID": "ach44",
@@ -5025,7 +5030,7 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 7715,
+      "Progressed": 7716,
       "Completed": 0
     }
   ],
@@ -5033,8 +5038,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-10-17T05:00:21.8562454+00:00",
-  "LastChanged_Achievements": "2023-10-17T11:09:14.1694405+00:00",
+  "LastChanged_Achievements": "2023-10-17T12:09:26.6839163+00:00",
   "LastUpdate_AppInfo": "2023-10-14T07:57:06.3888504+00:00",
-  "LastUpdate_Ratings": "2023-10-17T11:00:28.4131758+00:00",
-  "LastUpdate_Achievements": "2023-10-17T11:09:14.1694879+00:00"
+  "LastUpdate_Ratings": "2023-10-17T12:00:51.6102138+00:00",
+  "LastUpdate_Achievements": "2023-10-17T12:09:26.6840307+00:00"
 }

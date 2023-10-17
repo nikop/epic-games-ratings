@@ -18,8 +18,8 @@
 | Seal Breaker | 50.00% | ~52 |
 | Handyman | 48.00% | ~49 |
 | Giant Lizard Killer | 47.00% | ~48 |
+| Guardian | 45.00% | ~46 |
 | Nosebleeder | 45.00% | ~46 |
-| Guardian | 44.00% | ~45 |
 | Trader | 42.00% | ~43 |
 | Weapon Boost | 40.00% | ~41 |
 | Flying Kobold Killer | 34.00% | ~35 |

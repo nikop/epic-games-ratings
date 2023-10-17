@@ -89,9 +89,9 @@
       "ID": "AshesInTheMaw",
       "SetID": "c36hpcf",
       "Name": "Ashes in The Maw",
-      "Percentage": 8,
+      "Percentage": 17,
       "XP": 200,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "AshesToAshes",
@@ -105,9 +105,9 @@
       "ID": "Elusive",
       "SetID": "c36hpcf",
       "Name": "Elusive",
-      "Percentage": 8,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "EndInSight",
@@ -161,9 +161,9 @@
       "ID": "IsAnybodyOutThere",
       "SetID": "c36hpcf",
       "Name": "Is Anybody Out There?",
-      "Percentage": 8,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "KitchenHand",
@@ -271,8 +271,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-15T10:05:55.6712787+00:00",
-  "LastChanged_Achievements": "2023-10-17T11:06:39.2762418+00:00",
+  "LastChanged_Achievements": "2023-10-17T12:07:23.7469336+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:33:12.9758527+00:00",
-  "LastUpdate_Ratings": "2023-10-17T11:00:36.5450234+00:00",
-  "LastUpdate_Achievements": "2023-10-17T11:06:39.2762549+00:00"
+  "LastUpdate_Ratings": "2023-10-17T12:01:00.2865087+00:00",
+  "LastUpdate_Achievements": "2023-10-17T12:07:23.7469497+00:00"
 }

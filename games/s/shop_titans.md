@@ -1,7 +1,7 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 971)  
+Rating: 3.99 (Ranked 972)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,15 +10,15 @@ Number of Ratings: 12,664  (23.09.2022)
 | Basic in Bulk | 3.00% | ~4,132 |
 | Tinkle of Coins | 3.00% | ~4,132 |
 | Titan's First Steps | 3.00% | ~4,132 |
-| One Easy Payment | 2.00% | ~2,754 |
-| Some Assembly Required | 2.00% | ~2,754 |
-| Disintermediation | 2.00% | ~2,754 |
-| Another Satisfied Customer | 2.00% | ~2,754 |
-| It's Free Real Estate | 2.00% | ~2,754 |
-| Pretty Penny | 2.00% | ~2,754 |
-| Budding Merchant | 2.00% | ~2,754 |
-| Capitalism Ho! | 2.00% | ~2,754 |
-| Own the Means of Production | 2.00% | ~2,754 |
+| One Easy Payment | 2.00% | ~2,755 |
+| Some Assembly Required | 2.00% | ~2,755 |
+| Disintermediation | 2.00% | ~2,755 |
+| Another Satisfied Customer | 2.00% | ~2,755 |
+| It's Free Real Estate | 2.00% | ~2,755 |
+| Pretty Penny | 2.00% | ~2,755 |
+| Budding Merchant | 2.00% | ~2,755 |
+| Capitalism Ho! | 2.00% | ~2,755 |
+| Own the Means of Production | 2.00% | ~2,755 |
 | The Daily Grind | 1.00% | ~1,377 |
 | Bounty Hunters | 1.00% | ~1,377 |
 | Blank Page Syndrome | 1.00% | ~1,377 |
@@ -68,6 +68,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Proud Paladin | 0.60% | ~826 |
 | Above the Norm | 0.60% | ~826 |
 | A Ronin Reborn | 0.60% | ~826 |
+| Thirst for Knowledge | 0.60% | ~826 |
 | Booty by the Boatload | 0.60% | ~826 |
 | Archivist | 0.60% | ~826 |
 | Omae wa Mou Shindeiru | 0.60% | ~826 |
@@ -93,7 +94,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | King's Blade | 0.60% | ~826 |
 | Top of the World | 0.50% | ~689 |
 | Constellated | 0.50% | ~689 |
-| Thirst for Knowledge | 0.50% | ~689 |
 | Fillin' the Bin | 0.50% | ~689 |
 | Industrial Evolution | 0.50% | ~689 |
 | Ritualist | 0.50% | ~689 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,725 (Ranked 73)  
+Progressed: 137,729 (Ranked 73)  
 Completed: 169 (0.12%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 169 (0.12%) (Ranked 242)
 | 2023-10-14 | 137,618 | 168 |
 | 2023-10-15 | 137,669 | 168 |
 | 2023-10-16 | 137,703 | 168 |
-| 2023-10-17 | 137,725 | 169 |
+| 2023-10-17 | 137,729 | 169 |
 ## Awards
 Max (Great for Beginners): 4,790  (Ranked 72)  
 Sum: 27,392 (Ranked 50)  
