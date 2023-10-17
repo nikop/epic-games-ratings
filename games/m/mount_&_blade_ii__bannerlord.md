@@ -17,8 +17,8 @@ Number of Ratings: 5,603  (23.09.2022)
 | I can do it | 16.00% | ~10,146 |
 | Apple of my eye | 15.00% | ~9,512 |
 | God of the Arena | 13.00% | ~8,244 |
-| Against all odds | 12.00% | ~7,609 |
-| This Is Our Land | 12.00% | ~7,609 |
+| Against all odds | 12.00% | ~7,610 |
+| This Is Our Land | 12.00% | ~7,610 |
 | Duelist | 10.00% | ~6,341 |
 | Dynasty | 10.00% | ~6,341 |
 | I spit on your grave | 10.00% | ~6,341 |
@@ -30,7 +30,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Crowdfunded | 5.00% | ~3,171 |
 | Crush your enemies | 5.00% | ~3,171 |
 | My way | 5.00% | ~3,171 |
-| Veni vidi vici | 4.00% | ~2,536 |
+| Veni vidi vici | 4.00% | ~2,537 |
 | Freedom! | 3.00% | ~1,902 |
 | Long live the Empire! | 3.00% | ~1,902 |
 | Real Estate | 3.00% | ~1,902 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,412 (Ranked 98)  
+Progressed: 63,413 (Ranked 98)  
 Completed: 0 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 0 (0.00%) (Ranked 315)
 | 2023-10-14 | 63,287 | 0 |
 | 2023-10-15 | 63,356 | 0 |
 | 2023-10-16 | 63,408 | 0 |
-| 2023-10-17 | 63,412 | 0 |
+| 2023-10-17 | 63,413 | 0 |
 ## Awards
 Max (Character Customization): 7,238  (Ranked 52)  
 Sum: 14,898 (Ranked 66)  

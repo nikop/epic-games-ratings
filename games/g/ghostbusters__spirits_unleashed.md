@@ -10,6 +10,7 @@ Rating: 4.50 (Ranked 573)
 | Discovery | 2.00% | ~531 |
 | Meticulously Efficient | 2.00% | ~531 |
 | Fully Upgraded | 2.00% | ~531 |
+| Vaporous Expansion | 2.00% | ~531 |
 | Animated | 1.00% | ~265 |
 | Back Off | 1.00% | ~265 |
 | Clutch Capture | 1.00% | ~265 |
@@ -21,14 +22,13 @@ Rating: 4.50 (Ranked 573)
 | Teamwork | 1.00% | ~265 |
 | Terrifying | 1.00% | ~265 |
 | There you are! | 1.00% | ~265 |
-| Vaporous Expansion | 1.00% | ~265 |
+| Welcome to the Crew | 1.00% | ~265 |
 | Whoopsie | 1.00% | ~265 |
 | Daily Dose | 0.90% | ~239 |
 | Ectoplasmic Entity | 0.90% | ~239 |
 | Ghostbuster In Training | 0.90% | ~239 |
 | Right back at ya | 0.90% | ~239 |
 | Summoner | 0.90% | ~239 |
-| Welcome to the Crew | 0.90% | ~239 |
 | Side Hustle | 0.80% | ~212 |
 | Legions | 0.70% | ~186 |
 | Skilled | 0.70% | ~186 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 573)
 | Rift Seeker | 0.10% | ~27 |
 | Ultimate Defense | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,545 (Ranked 117)  
+Progressed: 26,547 (Ranked 117)  
 Completed: 58 (0.22%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,7 +237,7 @@ Completed: 58 (0.22%) (Ranked 219)
 | 2023-10-14 | 26,466 | 58 |
 | 2023-10-15 | 26,505 | 58 |
 | 2023-10-16 | 26,537 | 58 |
-| 2023-10-17 | 26,545 | 58 |
+| 2023-10-17 | 26,547 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 264  (Ranked 256)  
 Sum: 2,399 (Ranked 188)  

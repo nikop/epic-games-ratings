@@ -302,9 +302,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17867,
+  "EOS_Progressed": 17868,
   "EOS_Completed": 112,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -13997,6 +13997,11 @@
       "Time": "2023-10-17T04:04:22.341099+00:00",
       "NumProgressed": 17867,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2023-10-17T05:05:05.9400061+00:00",
+      "NumProgressed": 17868,
+      "NumCompleted": 112
     }
   ],
   "TotalAchievements": 16,
@@ -14024,7 +14029,7 @@
       "Name": "Deadline",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 2501
+      "UsersEstimate": 2502
     },
     {
       "ID": "Dont_Fear_The_Reaper",
@@ -14080,7 +14085,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 7504
+      "UsersEstimate": 7505
     },
     {
       "ID": "Mirrors",
@@ -14135,15 +14140,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 17867,
+      "Progressed": 17868,
       "Completed": 112
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-07-21T02:04:12.2963456+00:00",
-  "LastChanged_Achievements": "2023-10-17T04:04:22.3410986+00:00",
+  "LastChanged_Achievements": "2023-10-17T05:05:05.9400055+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:27.7450235+00:00",
-  "LastUpdate_Ratings": "2023-10-17T03:58:08.9349851+00:00",
-  "LastUpdate_Achievements": "2023-10-17T04:04:22.3411726+00:00"
+  "LastUpdate_Ratings": "2023-10-17T04:58:37.9426421+00:00",
+  "LastUpdate_Achievements": "2023-10-17T05:05:05.9401217+00:00"
 }

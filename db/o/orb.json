@@ -4,7 +4,7 @@
   "ProductSlug": "orb-bfdd17",
   "Ranking_EOS_Progress": 671,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewPlayers": 392,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-07-08T05:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:47.3037244+00:00",
   "LastChanged": "2023-03-31T05:58:47.3037245+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:37.4608308+00:00",
-  "LastUpdate_Ratings": "2023-10-17T03:58:22.5294762+00:00",
-  "LastUpdate_Achievements": "2023-10-17T04:08:07.3535174+00:00"
+  "LastUpdate_Ratings": "2023-10-17T04:58:54.0918677+00:00",
+  "LastUpdate_Achievements": "2023-10-17T05:09:04.8558113+00:00"
 }

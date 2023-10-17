@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 48,
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 297,
-  "Ranking_EOS_NewPlayers": 76,
+  "Ranking_EOS_NewPlayers": 75,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
@@ -7896,7 +7896,7 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 805071,
+  "EOS_Progressed": 805072,
   "EOS_Completed": 51,
   "EOS_NewPlayers": 775,
   "EOS_NewCompleters": 2,
@@ -27966,6 +27966,11 @@
       "Time": "2023-10-17T04:03:50.3474607+00:00",
       "NumProgressed": 805071,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-17T05:04:28.8303951+00:00",
+      "NumProgressed": 805072,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -28001,7 +28006,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 128811
+      "UsersEstimate": 128812
     },
     {
       "ID": "Awakening",
@@ -28177,7 +28182,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 185166
+      "UsersEstimate": 185167
     },
     {
       "ID": "Fighter",
@@ -28185,7 +28190,7 @@
       "Name": "Fighter",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 5635
+      "UsersEstimate": 5636
     },
     {
       "ID": "Firestarter",
@@ -28385,7 +28390,7 @@
       "Name": "Mercenary\u0027s Honour",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 5635
+      "UsersEstimate": 5636
     },
     {
       "ID": "Merciful",
@@ -28489,7 +28494,7 @@
       "Name": "Saviour",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5635
+      "UsersEstimate": 5636
     },
     {
       "ID": "Scrooge",
@@ -28632,15 +28637,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 805071,
+      "Progressed": 805072,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-10-17T03:57:23.6645318+00:00",
-  "LastChanged_Achievements": "2023-10-17T04:03:50.3474602+00:00",
+  "LastChanged_Achievements": "2023-10-17T05:04:28.8303946+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:13.6850555+00:00",
-  "LastUpdate_Ratings": "2023-10-17T03:57:23.6645324+00:00",
-  "LastUpdate_Achievements": "2023-10-17T04:03:50.3476335+00:00"
+  "LastUpdate_Ratings": "2023-10-17T04:57:44.16001+00:00",
+  "LastUpdate_Achievements": "2023-10-17T05:04:28.8306602+00:00"
 }

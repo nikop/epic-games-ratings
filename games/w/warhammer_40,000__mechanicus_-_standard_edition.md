@@ -6,17 +6,17 @@ Rating: 4.43 (Ranked 673)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | No aid from the Omnissiah | 26.00% | ~58,484 |
-| This is only the beginning | 19.00% | ~42,738 |
-| Knowledge is power | 12.00% | ~26,992 |
+| This is only the beginning | 19.00% | ~42,739 |
+| Knowledge is power | 12.00% | ~26,993 |
 | Galvanic Rifle | 10.00% | ~22,494 |
-| Power Ranger | 9.00% | ~20,244 |
-| Taser Goad | 9.00% | ~20,244 |
-| Radium Ready | 9.00% | ~20,244 |
-| Half a cog | 9.00% | ~20,244 |
+| Power Ranger | 9.00% | ~20,245 |
+| Taser Goad | 9.00% | ~20,245 |
+| Radium Ready | 9.00% | ~20,245 |
+| Half a cog | 9.00% | ~20,245 |
 | Watch them crumble | 6.00% | ~13,496 |
-| Competent Cohort | 4.00% | ~8,997 |
-| Celestial Cartography Catastrophe | 4.00% | ~8,997 |
-| One with the Machine | 4.00% | ~8,997 |
+| Competent Cohort | 4.00% | ~8,998 |
+| Celestial Cartography Catastrophe | 4.00% | ~8,998 |
+| One with the Machine | 4.00% | ~8,998 |
 | Legio Cybernetica | 3.00% | ~6,748 |
 | Fleshy Disposal | 3.00% | ~6,748 |
 | Battle Servitor | 2.00% | ~4,499 |
@@ -24,7 +24,7 @@ Rating: 4.43 (Ranked 673)
 | Impatient destruction | 2.00% | ~4,499 |
 | Vivisected Vizier | 2.00% | ~4,499 |
 | Architect Abortion | 2.00% | ~4,499 |
-| Cohortus Maximus | 0.80% | ~1,799 |
+| Cohortus Maximus | 0.80% | ~1,800 |
 | Mother of Xenarites | 0.40% | ~900 |
 | False God | 0.30% | ~675 |
 | Hard | 0.20% | ~450 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 673)
 | Perma-live | 0.10% | ~225 |
 | Purge the Heretek | 0.10% | ~225 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,937 (Ranked 63)  
+Progressed: 224,940 (Ranked 63)  
 Completed: 5 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,7 +220,7 @@ Completed: 5 (0.00%) (Ranked 315)
 | 2023-10-14 | 224,760 | 5 |
 | 2023-10-15 | 224,844 | 5 |
 | 2023-10-16 | 224,928 | 5 |
-| 2023-10-17 | 224,937 | 5 |
+| 2023-10-17 | 224,940 | 5 |
 ## Awards
 Max (Highly Recommended): 287  (Ranked 247)  
 Sum: 2,169 (Ranked 198)  

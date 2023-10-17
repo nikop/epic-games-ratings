@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 25,
+  "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -168,7 +168,7 @@
   "Tags": [],
   "EOS_Progressed": 14057,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 234,
+  "EOS_NewPlayers": 233,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -9076,9 +9076,9 @@
       "ID": "5",
       "SetID": "458bbdk",
       "Name": "Data Master",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 112
+      "UsersEstimate": 127
     },
     {
       "ID": "6",
@@ -9131,8 +9131,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-13T09:00:57.1370573+00:00",
-  "LastChanged_Achievements": "2023-10-17T04:02:33.9595593+00:00",
+  "LastChanged_Achievements": "2023-10-17T05:03:25.3214779+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:40.5814563+00:00",
-  "LastUpdate_Ratings": "2023-10-17T04:00:51.4202316+00:00",
-  "LastUpdate_Achievements": "2023-10-17T04:02:33.9596446+00:00"
+  "LastUpdate_Ratings": "2023-10-17T05:01:55.1026643+00:00",
+  "LastUpdate_Achievements": "2023-10-17T05:03:25.3215772+00:00"
 }

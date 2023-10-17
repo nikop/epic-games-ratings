@@ -3944,9 +3944,9 @@
       "Count": 388
     }
   ],
-  "EOS_Progressed": 11539,
+  "EOS_Progressed": 11540,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13624,6 +13624,11 @@
       "Time": "2023-10-16T19:11:23.7027671+00:00",
       "NumProgressed": 11539,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-17T05:09:43.3577862+00:00",
+      "NumProgressed": 11540,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -13771,7 +13776,7 @@
       "Name": "Mythic Choices",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1615
+      "UsersEstimate": 1616
     },
     {
       "ID": "19_EqualToAroden",
@@ -14562,21 +14567,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10321,
+      "Progressed": 10322,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11539,
+      "Progressed": 11540,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-10-17T03:02:11.6353731+00:00",
-  "LastChanged_Achievements": "2023-10-17T04:08:40.6546146+00:00",
+  "LastChanged_Achievements": "2023-10-17T05:09:43.3577856+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:48.4782392+00:00",
-  "LastUpdate_Ratings": "2023-10-17T04:02:07.7249091+00:00",
-  "LastUpdate_Achievements": "2023-10-17T04:08:40.654801+00:00"
+  "LastUpdate_Ratings": "2023-10-17T05:02:13.060001+00:00",
+  "LastUpdate_Achievements": "2023-10-17T05:09:43.3580878+00:00"
 }

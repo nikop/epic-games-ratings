@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6741,
+  "EOS_Progressed": 6742,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 318,
+  "EOS_NewPlayers": 316,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4464,6 +4464,11 @@
       "Time": "2023-10-17T04:04:57.3821275+00:00",
       "NumProgressed": 6741,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-17T05:05:47.0542799+00:00",
+      "NumProgressed": 6742,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -4476,7 +4481,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 4921
+      "UsersEstimate": 4922
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -4612,7 +4617,7 @@
       "Name": "Humble Collector",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 2831
+      "UsersEstimate": 2832
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -4708,7 +4713,7 @@
       "Name": "Azorian Anniversary",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "UPGRADE_ALLSKILLSMAX",
@@ -4755,7 +4760,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 6741,
+      "Progressed": 6742,
       "Completed": 0
     }
   ],
@@ -4763,8 +4768,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-14T10:58:26.1451757+00:00",
-  "LastChanged_Achievements": "2023-10-17T04:04:57.382127+00:00",
+  "LastChanged_Achievements": "2023-10-17T05:05:47.0542795+00:00",
   "LastUpdate_AppInfo": "2023-10-13T06:57:01.9287951+00:00",
-  "LastUpdate_Ratings": "2023-10-17T03:58:25.9667543+00:00",
-  "LastUpdate_Achievements": "2023-10-17T04:04:57.3821712+00:00"
+  "LastUpdate_Ratings": "2023-10-17T04:58:58.1023119+00:00",
+  "LastUpdate_Achievements": "2023-10-17T05:05:47.0543438+00:00"
 }

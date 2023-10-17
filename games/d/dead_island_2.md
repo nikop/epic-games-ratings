@@ -33,11 +33,11 @@ Rating: 4.54 (Ranked 512)
 | I Am the Resurrection | 2.00% | ~13,939 |
 | Down with the Sickness | 2.00% | ~13,939 |
 | Our True Nature | 2.00% | ~13,939 |
-| Jumbo Keyring | 1.00% | ~6,969 |
-| Max Headroom | 1.00% | ~6,969 |
-| Go, Bobcats! | 1.00% | ~6,969 |
-| Rising Star | 1.00% | ~6,969 |
-| Smorgasbord | 0.90% | ~6,272 |
+| Jumbo Keyring | 1.00% | ~6,970 |
+| Max Headroom | 1.00% | ~6,970 |
+| Go, Bobcats! | 1.00% | ~6,970 |
+| Rising Star | 1.00% | ~6,970 |
+| Smorgasbord | 0.90% | ~6,273 |
 | Not Even My Final Form | 0.80% | ~5,576 |
 | Internet Famous | 0.80% | ~5,576 |
 | Make it So | 0.70% | ~4,879 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 512)
 | Donk! | 0.20% | ~1,394 |
 | Bucket List | 0.10% | ~697 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 696,940 (Ranked 22)  
+Progressed: 696,950 (Ranked 22)  
 Completed: 2,235 (0.32%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 2,235 (0.32%) (Ranked 200)
 | 2023-10-14 | 695,832 | 2,225 |
 | 2023-10-15 | 696,452 | 2,227 |
 | 2023-10-16 | 696,890 | 2,235 |
-| 2023-10-17 | 696,940 | 2,235 |
+| 2023-10-17 | 696,950 | 2,235 |
 ## Awards
 Max (Great Boss Battles): 6,477  (Ranked 56)  
 Sum: 9,686 (Ranked 91)  

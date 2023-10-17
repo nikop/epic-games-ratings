@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -755,9 +755,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4185,
+  "EOS_Progressed": 4187,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 208,
+  "EOS_NewPlayers": 210,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -7545,6 +7545,11 @@
       "Time": "2023-10-17T04:08:06.6856438+00:00",
       "NumProgressed": 4185,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-17T05:09:04.0294613+00:00",
+      "NumProgressed": 4187,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -7557,7 +7562,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -7605,7 +7610,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 1004
+      "UsersEstimate": 1005
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -7613,7 +7618,7 @@
       "Name": "First Strike",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -7653,7 +7658,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 711
+      "UsersEstimate": 712
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -7709,7 +7714,7 @@
       "Name": "Spending Spree",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -7740,15 +7745,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4185,
+      "Progressed": 4187,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-14T13:04:06.5278861+00:00",
-  "LastChanged_Achievements": "2023-10-17T04:08:06.6856431+00:00",
+  "LastChanged_Achievements": "2023-10-17T05:09:04.0294604+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:04.1779972+00:00",
-  "LastUpdate_Ratings": "2023-10-17T03:57:32.1423404+00:00",
-  "LastUpdate_Achievements": "2023-10-17T04:08:06.6856895+00:00"
+  "LastUpdate_Ratings": "2023-10-17T04:57:54.1841931+00:00",
+  "LastUpdate_Achievements": "2023-10-17T05:09:04.0295289+00:00"
 }

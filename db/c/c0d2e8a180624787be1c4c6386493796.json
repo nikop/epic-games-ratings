@@ -699,9 +699,9 @@
       "ID": "KR4_ACHIEVEMENT_THE_GILLMAN",
       "SetID": "caeik3h",
       "Name": "The Gill-man",
-      "Percentage": 25,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "KR4_ACHIEVEMENT_THE_THING",
@@ -754,8 +754,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-10-17T04:03:45.673583+00:00",
+  "LastChanged_Achievements": "2023-10-17T05:04:23.2938502+00:00",
   "LastUpdate_AppInfo": "2023-10-12T15:57:01.5965856+00:00",
-  "LastUpdate_Ratings": "2023-10-17T03:59:05.9072215+00:00",
-  "LastUpdate_Achievements": "2023-10-17T04:03:45.6736522+00:00"
+  "LastUpdate_Ratings": "2023-10-17T04:59:45.2043306+00:00",
+  "LastUpdate_Achievements": "2023-10-17T05:04:23.2939517+00:00"
 }

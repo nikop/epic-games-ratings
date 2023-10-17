@@ -6,14 +6,14 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Handyman | 2.00% | ~18,893 |
-| Zealous | 2.00% | ~18,893 |
-| It wakes | 2.00% | ~18,893 |
-| Not half bad | 2.00% | ~18,893 |
-| Apt Survivor | 2.00% | ~18,893 |
-| Survival Treasures | 2.00% | ~18,893 |
-| Skillful | 2.00% | ~18,893 |
-| Make Some Noise | 2.00% | ~18,893 |
+| Handyman | 2.00% | ~18,894 |
+| Zealous | 2.00% | ~18,894 |
+| It wakes | 2.00% | ~18,894 |
+| Not half bad | 2.00% | ~18,894 |
+| Apt Survivor | 2.00% | ~18,894 |
+| Survival Treasures | 2.00% | ~18,894 |
+| Skillful | 2.00% | ~18,894 |
+| Make Some Noise | 2.00% | ~18,894 |
 | The Grand Sacrifice | 1.00% | ~9,447 |
 | Agonizing Escape | 1.00% | ~9,447 |
 | Backdoor Escape | 1.00% | ~9,447 |
@@ -35,9 +35,9 @@ Number of Ratings: 70,340  (23.09.2022)
 | II | 0.90% | ~8,502 |
 | Wounded Healer | 0.90% | ~8,502 |
 | Close Shave | 0.90% | ~8,502 |
-| Apt Killer | 0.80% | ~7,557 |
-| Vulture | 0.80% | ~7,557 |
-| Second Act | 0.80% | ~7,557 |
+| Apt Killer | 0.80% | ~7,558 |
+| Vulture | 0.80% | ~7,558 |
+| Second Act | 0.80% | ~7,558 |
 | III | 0.70% | ~6,613 |
 | With Scars to Show | 0.70% | ~6,613 |
 | Rebuilding The Borgo | 0.70% | ~6,613 |
@@ -51,24 +51,24 @@ Number of Ratings: 70,340  (23.09.2022)
 | Raccoon City Recruit | 0.60% | ~5,668 |
 | Flight to Freedom | 0.60% | ~5,668 |
 | A Fast Death | 0.60% | ~5,668 |
-| Gifts for the Fog | 0.50% | ~4,723 |
-| III-50 | 0.50% | ~4,723 |
-| Shock Therapy | 0.50% | ~4,723 |
-| All Aboard | 0.50% | ~4,723 |
-| Item of Obsession | 0.50% | ~4,723 |
-| House of Pain | 0.50% | ~4,723 |
-| Holiday Get-Together | 0.50% | ~4,723 |
-| Campbell's Chapel Legacy | 0.50% | ~4,723 |
-| Unforgettable Getaway | 0.50% | ~4,723 |
-| Cutting Out | 0.50% | ~4,723 |
-| Outrun Evil | 0.50% | ~4,723 |
-| Operation: Survival | 0.50% | ~4,723 |
-| Old West Oasis | 0.50% | ~4,723 |
-| Classy Act | 0.50% | ~4,723 |
-| Lifting The Fog | 0.50% | ~4,723 |
-| Chorus of Chaos | 0.50% | ~4,723 |
-| One More Step | 0.50% | ~4,723 |
-| MU/TH/UR Dearest | 0.50% | ~4,723 |
+| Gifts for the Fog | 0.50% | ~4,724 |
+| III-50 | 0.50% | ~4,724 |
+| Shock Therapy | 0.50% | ~4,724 |
+| All Aboard | 0.50% | ~4,724 |
+| Item of Obsession | 0.50% | ~4,724 |
+| House of Pain | 0.50% | ~4,724 |
+| Holiday Get-Together | 0.50% | ~4,724 |
+| Campbell's Chapel Legacy | 0.50% | ~4,724 |
+| Unforgettable Getaway | 0.50% | ~4,724 |
+| Cutting Out | 0.50% | ~4,724 |
+| Outrun Evil | 0.50% | ~4,724 |
+| Operation: Survival | 0.50% | ~4,724 |
+| Old West Oasis | 0.50% | ~4,724 |
+| Classy Act | 0.50% | ~4,724 |
+| Lifting The Fog | 0.50% | ~4,724 |
+| Chorus of Chaos | 0.50% | ~4,724 |
+| One More Step | 0.50% | ~4,724 |
+| MU/TH/UR Dearest | 0.50% | ~4,724 |
 | A bite for the Entity | 0.40% | ~3,779 |
 | Blood on your face | 0.40% | ~3,779 |
 | Hemophobia | 0.40% | ~3,779 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~945 |
 | Adept Ripley | 0.10% | ~945 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 944,655 (Ranked 14)  
+Progressed: 944,701 (Ranked 14)  
 Completed: 51 (0.01%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -416,14 +416,14 @@ Completed: 51 (0.01%) (Ranked 297)
 | 2023-10-14 | 939,759 | 50 |
 | 2023-10-15 | 942,498 | 51 |
 | 2023-10-16 | 944,360 | 51 |
-| 2023-10-17 | 944,655 | 51 |
+| 2023-10-17 | 944,701 | 51 |
 ## Awards
-Max (Diverse Characters): 33,980  (Ranked 15)  
-Sum: 262,969 (Ranked 13)  
+Max (Diverse Characters): 34,006  (Ranked 15)  
+Sum: 262,995 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 33,980 |
+| This game has Diverse Characters | 34,006 |
 | This game is Highly Recommended | 30,037 |
 | This game has Amazing Characters | 29,696 |
 | This game has Competitive Players | 29,679 |
@@ -703,3 +703,4 @@ Diff (max vs sum): 2
 | 2023-10-14 | 4.51 | - | 33,877 | 262,341 |
 | 2023-10-15 | 4.51 | - | 33,934 | 262,670 |
 | 2023-10-16 | 4.51 | - | 33,980 | 262,969 |
+| 2023-10-17 | 4.51 | - | 34,006 | 262,995 |

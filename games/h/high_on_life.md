@@ -34,6 +34,7 @@ Rating: 4.64 (Ranked 321)
 | Gunning For Your Job | 0.20% | ~48 |
 | We Paid For The Rights To Put A Whole Movie In Here | 0.20% | ~48 |
 | Playing Favorites | 0.20% | ~48 |
+| Meet Frasier from Frasier | 0.20% | ~3 |
 | Epic Legendary Prize | 0.10% | ~24 |
 | Playing Card To Get | 0.10% | ~24 |
 | Mods Please Ban | 0.10% | ~24 |
@@ -46,7 +47,6 @@ Rating: 4.64 (Ranked 321)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 | Give Away All Your Money | 0.10% | ~2 |
-| Meet Frasier from Frasier | 0.10% | ~2 |
 | It's Like The Santa Clause | 0.10% | ~2 |
 | That's B.A.L.L., Folks | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

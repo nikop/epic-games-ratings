@@ -4,7 +4,7 @@
   "ProductSlug": "anxracers-635368",
   "Ranking_EOS_Progress": 671,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewPlayers": 392,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-08-30T18:30:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-22T14:02:11.4250592+00:00",
-  "LastChanged_Achievements": "2023-10-17T04:03:54.7793303+00:00",
+  "LastChanged_Achievements": "2023-10-17T05:04:33.9673064+00:00",
   "LastUpdate_AppInfo": "2023-10-10T17:57:11.8714233+00:00",
-  "LastUpdate_Ratings": "2023-10-17T03:58:13.9998844+00:00",
-  "LastUpdate_Achievements": "2023-10-17T04:03:54.7793345+00:00"
+  "LastUpdate_Ratings": "2023-10-17T04:58:44.0545014+00:00",
+  "LastUpdate_Achievements": "2023-10-17T05:04:33.9673111+00:00"
 }

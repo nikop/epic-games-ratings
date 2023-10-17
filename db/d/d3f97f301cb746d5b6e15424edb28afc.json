@@ -991,9 +991,9 @@
       "ID": "GSS_ACH_52_UPGRADE_WORKSHOP_02",
       "SetID": "5fn8ia4",
       "Name": "Workshop Lvl. 2",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "GSS_ACH_53_UPGRADE_WORKSHOP_03",
@@ -1087,9 +1087,9 @@
       "ID": "GSS_ACH_64_POPULARITY_04",
       "SetID": "5fn8ia4",
       "Name": "Local Celebrity",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "GSS_ACH_65_POPULARITY_05",
@@ -1246,8 +1246,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-17T04:03:49.4560692+00:00",
+  "LastChanged_Achievements": "2023-10-17T05:04:27.7592002+00:00",
   "LastUpdate_AppInfo": "2023-10-16T13:57:01.0346306+00:00",
-  "LastUpdate_Ratings": "2023-10-17T04:00:28.3039494+00:00",
-  "LastUpdate_Achievements": "2023-10-17T04:03:49.4561555+00:00"
+  "LastUpdate_Ratings": "2023-10-17T05:01:27.4956571+00:00",
+  "LastUpdate_Achievements": "2023-10-17T05:04:27.7593331+00:00"
 }

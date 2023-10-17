@@ -679,9 +679,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 348073,
+  "EOS_Progressed": 348076,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 967,
+  "EOS_NewPlayers": 961,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20939,6 +20939,11 @@
       "Time": "2023-10-17T04:04:10.9911787+00:00",
       "NumProgressed": 348073,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-17T05:04:53.1217263+00:00",
+      "NumProgressed": 348076,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -20974,7 +20979,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6961
+      "UsersEstimate": 6962
     },
     {
       "ID": "ach005",
@@ -21046,7 +21051,7 @@
       "Name": "Baker\u2019s Dozen",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6961
+      "UsersEstimate": 6962
     },
     {
       "ID": "ach014",
@@ -21078,7 +21083,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 45249
+      "UsersEstimate": 45250
     },
     {
       "ID": "ach018",
@@ -21158,7 +21163,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 160114
+      "UsersEstimate": 160115
     },
     {
       "ID": "ach028",
@@ -21182,7 +21187,7 @@
       "Name": "Dropping the Dime",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6961
+      "UsersEstimate": 6962
     },
     {
       "ID": "ach031",
@@ -21254,7 +21259,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 34807
+      "UsersEstimate": 34808
     },
     {
       "ID": "ach040",
@@ -21302,7 +21307,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 45249
+      "UsersEstimate": 45250
     },
     {
       "ID": "ach046",
@@ -21358,7 +21363,7 @@
       "Name": "Liquor Lord",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20884
+      "UsersEstimate": 20885
     },
     {
       "ID": "ach053",
@@ -21382,7 +21387,7 @@
       "Name": "Spiffy Speakeasies",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6961
+      "UsersEstimate": 6962
     },
     {
       "ID": "ach056",
@@ -21414,7 +21419,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 34807
+      "UsersEstimate": 34808
     },
     {
       "ID": "ach060",
@@ -21422,7 +21427,7 @@
       "Name": "Safety in Numbers",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20884
+      "UsersEstimate": 20885
     },
     {
       "ID": "ach061",
@@ -21430,7 +21435,7 @@
       "Name": "Keeping Your Word",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6961
+      "UsersEstimate": 6962
     },
     {
       "ID": "ach062",
@@ -21446,7 +21451,7 @@
       "Name": "Moving Experiences",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20884
+      "UsersEstimate": 20885
     },
     {
       "ID": "ach065",
@@ -21462,7 +21467,7 @@
       "Name": "The Dawn of Automation",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 48730
+      "UsersEstimate": 48731
     },
     {
       "ID": "ach067",
@@ -21486,7 +21491,7 @@
       "Name": "Extraordinary Logistics",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 48730
+      "UsersEstimate": 48731
     },
     {
       "ID": "ach070",
@@ -21510,7 +21515,7 @@
       "Name": "Wise Head",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20884
+      "UsersEstimate": 20885
     },
     {
       "ID": "ach073",
@@ -21518,7 +21523,7 @@
       "Name": "Show \u2018em the Sugar",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20884
+      "UsersEstimate": 20885
     },
     {
       "ID": "ach074",
@@ -21534,7 +21539,7 @@
       "Name": "Killing Them Softly",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20884
+      "UsersEstimate": 20885
     },
     {
       "ID": "ach076",
@@ -21589,7 +21594,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 348073,
+      "Progressed": 348076,
       "Completed": 7
     }
   ],
@@ -21597,8 +21602,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-10-13T18:00:33.8427425+00:00",
-  "LastChanged_Achievements": "2023-10-17T04:04:10.9911781+00:00",
+  "LastChanged_Achievements": "2023-10-17T05:04:53.1217258+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:45.8070686+00:00",
-  "LastUpdate_Ratings": "2023-10-17T03:02:09.0210367+00:00",
-  "LastUpdate_Achievements": "2023-10-17T04:04:10.9913464+00:00"
+  "LastUpdate_Ratings": "2023-10-17T04:57:04.1027038+00:00",
+  "LastUpdate_Achievements": "2023-10-17T05:04:53.1219922+00:00"
 }
