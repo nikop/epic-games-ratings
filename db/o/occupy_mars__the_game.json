@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -268,9 +268,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1668,
+  "EOS_Progressed": 1669,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3973,6 +3973,11 @@
       "Time": "2023-10-16T16:07:26.6784599+00:00",
       "NumProgressed": 1668,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-17T17:07:14.9390278+00:00",
+      "NumProgressed": 1669,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4064,7 +4069,7 @@
       "Name": "Zero Waste",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -4104,7 +4109,7 @@
       "Name": "Fear my botany powers, Mars",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -4344,7 +4349,7 @@
       "Name": "Bob The Builder",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -4367,7 +4372,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1668,
+      "Progressed": 1669,
       "Completed": 0
     }
   ],
@@ -4375,8 +4380,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-10-07T20:58:51.3818577+00:00",
-  "LastChanged_Achievements": "2023-10-17T16:07:58.5097255+00:00",
+  "LastChanged_Achievements": "2023-10-17T17:07:14.9390273+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:10.2990063+00:00",
-  "LastUpdate_Ratings": "2023-10-17T16:00:14.3836311+00:00",
-  "LastUpdate_Achievements": "2023-10-17T16:07:58.5097904+00:00"
+  "LastUpdate_Ratings": "2023-10-17T16:59:40.8338627+00:00",
+  "LastUpdate_Achievements": "2023-10-17T17:07:14.9390908+00:00"
 }

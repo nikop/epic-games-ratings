@@ -5,11 +5,11 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Noctuan Champion | 33.00% | ~19 |
+| Eridanian Champion | 31.00% | ~18 |
+| Endless Tricks | 29.00% | ~17 |
 | Apian Champion | 29.00% | ~17 |
-| Eridanian Champion | 29.00% | ~17 |
 | Lacertian Champion | 29.00% | ~17 |
 | Dicesmithing Time! | 28.00% | ~16 |
-| Endless Tricks | 28.00% | ~16 |
 | Meissa's Savior | 28.00% | ~16 |
 | Mechanical Buddy | 26.00% | ~15 |
 | Purification Pioneer | 26.00% | ~15 |
@@ -22,8 +22,8 @@
 | Aquarian Champion | 22.00% | ~13 |
 | Anomaly Destroyer | 21.00% | ~12 |
 | Shard Spender | 19.00% | ~11 |
+| Star Killer | 19.00% | ~11 |
 | Heart Gate | 17.00% | ~10 |
-| Star Killer | 17.00% | ~10 |
 | Astral Adventurer | 16.00% | ~9 |
 | Astral Seeker | 16.00% | ~9 |
 | The Corruption Goddess | 16.00% | ~9 |

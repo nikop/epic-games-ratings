@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Distinguished Service Medal | 94.00% | ~683 |
-| Spectre Inductee | 83.00% | ~603 |
+| Spectre Inductee | 84.00% | ~611 |
 | Medal of Exploration I | 74.00% | ~538 |
 | Recruit | 72.00% | ~523 |
 | Search and Rescue | 71.00% | ~516 |
@@ -50,10 +50,10 @@
 | A Personal Touch | 32.00% | ~233 |
 | The Assassin | 32.00% | ~233 |
 | The Justicar | 32.00% | ~233 |
+| Battlemaster | 32.00% | ~233 |
 | The Cure | 32.00% | ~233 |
 | The Prodigal | 32.00% | ~233 |
 | Shopaholic | 32.00% | ~233 |
-| Battlemaster | 31.00% | ~225 |
 | Catharsis | 31.00% | ~225 |
 | Ghost of the Father | 31.00% | ~225 |
 | Big Game Hunter | 31.00% | ~225 |
@@ -68,12 +68,12 @@
 | Cat's in the Cradle | 29.00% | ~211 |
 | Doppelganger | 29.00% | ~211 |
 | Digital Exorcist | 29.00% | ~211 |
+| Suicide Mission | 28.00% | ~204 |
 | Friend or Foe | 28.00% | ~204 |
 | Mobilizer | 28.00% | ~204 |
 | Untouchable | 27.00% | ~196 |
 | First Aid Specialist | 27.00% | ~196 |
 | Mission Accomplished | 27.00% | ~196 |
-| Suicide Mission | 27.00% | ~196 |
 | Against All Odds | 27.00% | ~196 |
 | Eye of the Hurricane | 26.00% | ~189 |
 | A House Divided | 26.00% | ~189 |
@@ -132,7 +132,7 @@
 | Neural Shock Specialist | 2.00% | ~15 |
 | The One and Only | 0.70% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 727 (Ranked 250)  
+Progressed: 727 (Ranked 251)  
 Completed: 0 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |

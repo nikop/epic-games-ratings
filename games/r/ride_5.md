@@ -8,7 +8,7 @@
 | Eat My Dust | 41.00% | ~620 |
 | Clean Race | 40.00% | ~605 |
 | Hear That Roar! | 38.00% | ~575 |
-| Rivals to the End | 28.00% | ~423 |
+| Rivals to the End | 28.00% | ~424 |
 | Bitter Rivalry | 25.00% | ~378 |
 | We're Going to Need a Bigger Garage | 24.00% | ~363 |
 | Champagne Spray | 22.00% | ~333 |
@@ -22,9 +22,9 @@
 | Stamina Star | 8.00% | ~121 |
 | Is It the Right Size? | 8.00% | ~121 |
 | Evangelist | 6.00% | ~91 |
-| Make It Your Own! | 4.00% | ~60 |
-| The Road to Liberty | 4.00% | ~60 |
-| I Make the Rules! | 4.00% | ~60 |
+| Make It Your Own! | 4.00% | ~61 |
+| The Road to Liberty | 4.00% | ~61 |
+| I Make the Rules! | 4.00% | ~61 |
 | Spoilt for Choice | 3.00% | ~45 |
 | Cherry Blossom and Temples | 3.00% | ~45 |
 | La Dolce Vita | 3.00% | ~45 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,512 (Ranked 218)  
+Progressed: 1,513 (Ranked 218)  
 Completed: 0 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,4 +100,4 @@ Completed: 0 (0.00%) (Ranked 315)
 | 2023-10-14 | 1,475 | 0 |
 | 2023-10-15 | 1,497 | 0 |
 | 2023-10-16 | 1,506 | 0 |
-| 2023-10-17 | 1,512 | 0 |
+| 2023-10-17 | 1,513 | 0 |

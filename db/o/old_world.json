@@ -1875,9 +1875,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14766,
+  "EOS_Progressed": 14767,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 189,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14095,6 +14095,11 @@
       "Time": "2023-10-17T15:08:18.2950216+00:00",
       "NumProgressed": 14766,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-17T17:09:29.2305494+00:00",
+      "NumProgressed": 14767,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -15448,9 +15453,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_COLOSSUS",
       "SetID": "9201eeb",
       "Name": "Colossus",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 148
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_GREAT_ZIGGURAT",
@@ -15536,9 +15541,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_MUSAEUM",
       "SetID": "9201eeb",
       "Name": "Musaeum",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 148
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_NECROPOLIS",
@@ -15760,9 +15765,9 @@
       "ID": "ACHIEVEMENT_NATION_ROME",
       "SetID": "7l38kb8",
       "Name": "Rome",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 59
     },
     {
       "ID": "ACHIEVEMENT_OLD_WORLD_ORDER",
@@ -16032,9 +16037,9 @@
       "ID": "ACHIEVEMENT_STAT_TEN_LEADERS",
       "SetID": "9201eeb",
       "Name": "Ten Crowns",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHIEVEMENT_TECH_ECONOMIC_REFORM",
@@ -16080,9 +16085,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_GNOSTICISM",
       "SetID": "7l38kb8",
       "Name": "Gnosticism",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 74
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_LEGALISM",
@@ -16104,9 +16109,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_REDEMPTION",
       "SetID": "7l38kb8",
       "Name": "Redemption",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 89
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_REVELATION",
@@ -16216,9 +16221,9 @@
       "ID": "ACHIEVEMENT_VICTORY_ALL_NATIONS",
       "SetID": "7l38kb8",
       "Name": "All Nations",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 59
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_AMBITION",
@@ -16841,21 +16846,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14766,
+      "Progressed": 14767,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14766,
+      "Progressed": 14767,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-16T22:57:40.964526+00:00",
-  "LastChanged_Achievements": "2023-10-17T16:09:35.4359717+00:00",
+  "LastChanged_Achievements": "2023-10-17T17:09:29.2305488+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:21.7880328+00:00",
-  "LastUpdate_Ratings": "2023-10-17T15:58:14.828067+00:00",
-  "LastUpdate_Achievements": "2023-10-17T16:09:35.4383656+00:00"
+  "LastUpdate_Ratings": "2023-10-17T16:58:03.0874145+00:00",
+  "LastUpdate_Achievements": "2023-10-17T17:09:29.2318373+00:00"
 }

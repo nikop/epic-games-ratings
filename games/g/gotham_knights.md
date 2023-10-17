@@ -5,9 +5,9 @@ Rating: 4.18 (Ranked 901)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~38,274 |
-| Har, Har, Har, Very Funny | 35.00% | ~25,761 |
-| Loose Ends | 34.00% | ~25,025 |
+| First Step Into the Knight | 52.00% | ~38,275 |
+| Har, Har, Har, Very Funny | 35.00% | ~25,762 |
+| Loose Ends | 34.00% | ~25,026 |
 | To the Victor Go the Spoils | 29.00% | ~21,345 |
 | Knighthood | 28.00% | ~20,609 |
 | Get ReQ'd | 25.00% | ~18,401 |
@@ -31,10 +31,10 @@ Rating: 4.18 (Ranked 901)
 | Seeking Asylum | 14.00% | ~10,305 |
 | Not On My Watch | 13.00% | ~9,569 |
 | Shock Til They Drop | 13.00% | ~9,569 |
-| End of an Era | 12.00% | ~8,832 |
-| Bulldozed | 12.00% | ~8,832 |
-| Gotham Knight | 12.00% | ~8,832 |
-| Gotham City Confidential | 11.00% | ~8,096 |
+| End of an Era | 12.00% | ~8,833 |
+| Bulldozed | 12.00% | ~8,833 |
+| Gotham Knight | 12.00% | ~8,833 |
+| Gotham City Confidential | 11.00% | ~8,097 |
 | Drone You Out | 10.00% | ~7,360 |
 | Out of Their League | 9.00% | ~6,624 |
 | Solid Alibi | 9.00% | ~6,624 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 901)
 | Element of Surprise | 0.20% | ~88 |
 | It's Nice to Be Wanted | 0.20% | ~88 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,604 (Ranked 91)  
+Progressed: 73,605 (Ranked 91)  
 Completed: 121 (0.16%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 121 (0.16%) (Ranked 232)
 | 2023-10-14 | 73,512 | 121 |
 | 2023-10-15 | 73,552 | 121 |
 | 2023-10-16 | 73,582 | 121 |
-| 2023-10-17 | 73,604 | 121 |
+| 2023-10-17 | 73,605 | 121 |
 ## Awards
 Max (Great Boss Battles): 2,840  (Ranked 97)  
 Sum: 4,765 (Ranked 139)  

@@ -146,9 +146,9 @@
       "ID": "CarryingDoll",
       "SetID": "7m88n8p",
       "Name": "Girl Carrying A Doll",
-      "Percentage": 63,
+      "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "DatingAttraction",
@@ -162,9 +162,9 @@
       "ID": "FirstTry",
       "SetID": "7m88n8p",
       "Name": "Getting It on the First Try",
-      "Percentage": 50,
+      "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "HauntingSpecter",
@@ -258,9 +258,9 @@
       "ID": "Professions",
       "SetID": "7m88n8p",
       "Name": "Different People Specialize in Different Professions",
-      "Percentage": 33,
+      "Percentage": 38,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ProtectedPower",
@@ -282,25 +282,25 @@
       "ID": "SeeNoEvil",
       "SetID": "7m88n8p",
       "Name": "See No Evil",
-      "Percentage": 33,
+      "Percentage": 38,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "SeeingThrough",
       "SetID": "7m88n8p",
       "Name": "Seeing through Vanity",
-      "Percentage": 33,
+      "Percentage": 38,
       "XP": 65,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "TimeManagement",
       "SetID": "7m88n8p",
       "Name": "Master of Time Management",
-      "Percentage": 38,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "WaitingForSalvation",
@@ -329,8 +329,8 @@
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2023-10-17T16:05:57.5628412+00:00",
+  "LastChanged_Achievements": "2023-10-17T17:05:32.2331955+00:00",
   "LastUpdate_AppInfo": "2023-10-16T07:57:10.6124995+00:00",
-  "LastUpdate_Ratings": "2023-10-17T15:58:35.8577021+00:00",
-  "LastUpdate_Achievements": "2023-10-17T16:05:57.5628691+00:00"
+  "LastUpdate_Ratings": "2023-10-17T16:58:22.0038771+00:00",
+  "LastUpdate_Achievements": "2023-10-17T17:05:32.2332105+00:00"
 }

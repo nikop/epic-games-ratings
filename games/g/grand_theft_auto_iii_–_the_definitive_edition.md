@@ -20,11 +20,11 @@ Rating: 4.20 (Ranked 884)
 | A Gift from the King | 7.00% | ~581 |
 | Full Artillery | 4.00% | ~332 |
 | Mob Boss | 3.00% | ~249 |
+| Escape Artist | 2.00% | ~166 |
 | Where To? | 2.00% | ~166 |
 | Splish Splash | 2.00% | ~166 |
 | Playing Doctor | 2.00% | ~166 |
 | Liberty City Secrets | 2.00% | ~166 |
-| Escape Artist | 1.00% | ~83 |
 | Planned Ahead | 1.00% | ~83 |
 | Got This Figured Out | 1.00% | ~83 |
 | Wheels Up | 1.00% | ~83 |

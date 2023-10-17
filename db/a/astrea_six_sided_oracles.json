@@ -543,9 +543,9 @@
       "ID": "EndlessTricks",
       "SetID": "1jeo1g7",
       "Name": "Endless Tricks",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "EridanianChampionAchievement",
@@ -807,9 +807,9 @@
       "ID": "StarKiller",
       "SetID": "1jeo1g7",
       "Name": "Star Killer",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "StellarDismantler",
@@ -1023,9 +1023,9 @@
       "ID": "EridanianChampion",
       "SetID": "1jeo1g7",
       "Name": "Eridanian Champion",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "EridanianHero",
@@ -1102,8 +1102,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-10-17T16:07:16.1903396+00:00",
+  "LastChanged_Achievements": "2023-10-17T17:06:39.5423865+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:31.1237479+00:00",
-  "LastUpdate_Ratings": "2023-10-17T16:01:57.7601641+00:00",
-  "LastUpdate_Achievements": "2023-10-17T16:07:16.1905342+00:00"
+  "LastUpdate_Ratings": "2023-10-17T17:01:09.8319242+00:00",
+  "LastUpdate_Achievements": "2023-10-17T17:06:39.5425+00:00"
 }

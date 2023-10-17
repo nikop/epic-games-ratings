@@ -40,9 +40,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong Cities | 1.00% | ~148 |
 | Able Difficulty | 1.00% | ~148 |
 | Furious Family | 1.00% | ~148 |
+| Colossus | 1.00% | ~148 |
 | Great Ziggurat | 1.00% | ~148 |
 | Ishtar Gate | 1.00% | ~148 |
 | Lighthouse | 1.00% | ~148 |
+| Musaeum | 1.00% | ~148 |
 | Pyramids | 1.00% | ~148 |
 | Learn to Play 1 | 1.00% | ~148 |
 | Christianity | 1.00% | ~148 |
@@ -59,8 +61,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legendary Cities | 0.90% | ~133 |
 | Just Difficulty | 0.90% | ~133 |
 | Apadana | 0.90% | ~133 |
-| Colossus | 0.90% | ~133 |
-| Musaeum | 0.90% | ~133 |
 | Necropolis | 0.90% | ~133 |
 | Learn to Play 2 | 0.90% | ~133 |
 | Manichaeism | 0.90% | ~133 |
@@ -90,6 +90,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persian Paganism | 0.60% | ~89 |
 | Building Wonders | 0.60% | ~89 |
 | Legalism | 0.60% | ~89 |
+| Redemption | 0.60% | ~89 |
 | Legionary | 0.60% | ~89 |
 | Double Victory | 0.60% | ~89 |
 | Subjugator | 0.50% | ~74 |
@@ -106,7 +107,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Economic Reform | 0.50% | ~74 |
 | Military Prestige | 0.50% | ~74 |
 | Dualism | 0.50% | ~74 |
-| Redemption | 0.50% | ~74 |
+| Gnosticism | 0.50% | ~74 |
 | Revelation | 0.50% | ~74 |
 | Cimmerian Archer | 0.50% | ~74 |
 | Phalangite | 0.50% | ~74 |
@@ -120,15 +121,16 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonia | 0.40% | ~59 |
 | Carthage | 0.40% | ~59 |
 | Egypt | 0.40% | ~59 |
+| Rome | 0.40% | ~59 |
 | One True Faith | 0.40% | ~59 |
 | Assyrian Paganism | 0.40% | ~59 |
 | Hittite Paganism | 0.40% | ~59 |
 | Industrial Progress | 0.40% | ~59 |
 | Enlightenment | 0.40% | ~59 |
-| Gnosticism | 0.40% | ~59 |
 | Veneration | 0.40% | ~59 |
 | Mounted Lancer | 0.40% | ~59 |
 | Turreted Elephant | 0.40% | ~59 |
+| All Nations | 0.40% | ~59 |
 | Ambition Victory | 0.40% | ~59 |
 | The Great Mage | 0.40% | ~59 |
 | Poetic Leader | 0.40% | ~59 |
@@ -140,10 +142,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cao'an | 0.30% | ~44 |
 | Adur Burzen-Mihr | 0.30% | ~44 |
 | Learn to Play 5 | 0.30% | ~44 |
-| Rome | 0.30% | ~44 |
 | Old World Order | 0.30% | ~44 |
+| Ten Crowns | 0.30% | ~44 |
 | Cataphract Archer | 0.30% | ~44 |
-| All Nations | 0.30% | ~44 |
 | Rmt n Kmt Buhen | 0.30% | ~44 |
 | Greater Kmt Unified | 0.30% | ~44 |
 | Kush | 0.30% | ~44 |
@@ -162,7 +163,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Apadana in Parsa | 0.20% | ~30 |
 | Play a Network Game | 0.20% | ~30 |
 | Capturing Cities | 0.20% | ~30 |
-| Ten Crowns | 0.20% | ~30 |
 | Three Man Chariot | 0.20% | ~30 |
 | Siege Tower | 0.20% | ~30 |
 | Conquest Victory | 0.20% | ~30 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,766 (Ranked 135)  
+Progressed: 14,767 (Ranked 135)  
 Completed: 5 (0.03%) (Ranked 284)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -529,7 +529,7 @@ Completed: 5 (0.03%) (Ranked 284)
 | 2023-10-14 | 14,699 | 5 |
 | 2023-10-15 | 14,732 | 5 |
 | 2023-10-16 | 14,747 | 5 |
-| 2023-10-17 | 14,766 | 5 |
+| 2023-10-17 | 14,767 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,842 (Ranked 210)  

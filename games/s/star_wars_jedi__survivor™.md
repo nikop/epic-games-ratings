@@ -5,42 +5,42 @@ Rating: 4.49 (Ranked 592)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rooftop Duel | 99.00% | ~5,342 |
-| For Saw Gerrera | 98.00% | ~5,288 |
-| Grab Some Seat | 91.00% | ~4,910 |
-| Can You Pet the Bogling? | 87.00% | ~4,695 |
-| The Past Made Present | 83.00% | ~4,479 |
-| Survivors, We Adapt | 79.00% | ~4,263 |
-| Among the Masters | 78.00% | ~4,209 |
-| They Never Saw It Coming | 77.00% | ~4,155 |
-| Who Gives a Puck | 73.00% | ~3,939 |
-| For the Path | 65.00% | ~3,507 |
-| Mirror Match | 64.00% | ~3,453 |
-| Now, This Isn't Podracing | 64.00% | ~3,453 |
-| Skywalker | 61.00% | ~3,292 |
-| Out of Bedlam | 60.00% | ~3,238 |
-| Cleaning Up | 54.00% | ~2,914 |
-| Kitted Out | 51.00% | ~2,752 |
-| Tanalorr Bound | 51.00% | ~2,752 |
-| Hey, Luke At Us | 50.00% | ~2,698 |
-| Tragedy | 48.00% | ~2,590 |
-| At the Precipice | 46.00% | ~2,482 |
-| Riposte | 46.00% | ~2,482 |
-| Into the Abyss | 44.00% | ~2,374 |
-| A Place You Could Call Home | 43.00% | ~2,320 |
-| Greezy Money | 43.00% | ~2,320 |
-| Catch! | 40.00% | ~2,158 |
-| They're Probably Fine | 39.00% | ~2,104 |
+| Rooftop Duel | 99.00% | ~5,344 |
+| For Saw Gerrera | 98.00% | ~5,290 |
+| Grab Some Seat | 91.00% | ~4,912 |
+| Can You Pet the Bogling? | 87.00% | ~4,696 |
+| The Past Made Present | 83.00% | ~4,480 |
+| Survivors, We Adapt | 79.00% | ~4,264 |
+| Among the Masters | 78.00% | ~4,210 |
+| They Never Saw It Coming | 77.00% | ~4,156 |
+| Who Gives a Puck | 73.00% | ~3,941 |
+| For the Path | 65.00% | ~3,509 |
+| Mirror Match | 64.00% | ~3,455 |
+| Now, This Isn't Podracing | 64.00% | ~3,455 |
+| Skywalker | 61.00% | ~3,293 |
+| Out of Bedlam | 60.00% | ~3,239 |
+| Cleaning Up | 54.00% | ~2,915 |
+| Kitted Out | 51.00% | ~2,753 |
+| Tanalorr Bound | 51.00% | ~2,753 |
+| Hey, Luke At Us | 50.00% | ~2,699 |
+| Tragedy | 48.00% | ~2,591 |
+| At the Precipice | 46.00% | ~2,483 |
+| Riposte | 46.00% | ~2,483 |
+| Into the Abyss | 44.00% | ~2,375 |
+| A Place You Could Call Home | 43.00% | ~2,321 |
+| Greezy Money | 43.00% | ~2,321 |
+| Catch! | 40.00% | ~2,159 |
+| They're Probably Fine | 39.00% | ~2,105 |
 | Han Slowlo | 36.00% | ~1,943 |
 | There Is No Try | 36.00% | ~1,943 |
 | The Jedi Path | 31.00% | ~1,673 |
 | This Is Canon | 28.00% | ~1,511 |
-| It's a Trap | 25.00% | ~1,349 |
-| You've Got A Friend | 22.00% | ~1,187 |
-| King of the World | 16.00% | ~863 |
-| Reconnaissance | 15.00% | ~809 |
-| Max Capacity | 14.00% | ~755 |
-| A Presence I've Not Felt Since... | 14.00% | ~755 |
+| It's a Trap | 25.00% | ~1,350 |
+| You've Got A Friend | 22.00% | ~1,188 |
+| King of the World | 16.00% | ~864 |
+| Reconnaissance | 15.00% | ~810 |
+| Max Capacity | 14.00% | ~756 |
+| A Presence I've Not Felt Since... | 14.00% | ~756 |
 | Slam Dunk | 11.00% | ~594 |
 | Star Tours | 10.00% | ~540 |
 | Gambler | 10.00% | ~540 |
@@ -59,7 +59,7 @@ Rating: 4.49 (Ranked 592)
 | Pinpoint | 2.00% | ~108 |
 | Splurgle | 2.00% | ~108 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,396 (Ranked 172)  
+Progressed: 5,398 (Ranked 172)  
 Completed: 20 (0.37%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,10 +90,10 @@ Completed: 20 (0.37%) (Ranked 195)
 | 2023-10-14 | 5,171 | 19 |
 | 2023-10-15 | 5,272 | 20 |
 | 2023-10-16 | 5,343 | 20 |
-| 2023-10-17 | 5,396 | 20 |
+| 2023-10-17 | 5,398 | 20 |
 ## Awards
 Max (Great Boss Battles): 2,998  (Ranked 95)  
-Sum: 4,445 (Ranked 143)  
+Sum: 4,448 (Ranked 143)  
 Diff (max vs sum): -48  
 | Award | Count |
 | ----- | ----- |
@@ -105,7 +105,7 @@ Diff (max vs sum): -48
 | This game is Relaxing | 167 |
 | This game is Highly Recommended | 163 |
 | This game is Extremely Fun | 155 |
-| This game has Challenging Combat | 144 |
+| This game has Challenging Combat | 147 |
 | This game has a Creative Community | 110 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -280,4 +280,4 @@ Diff (max vs sum): -48
 | 2023-10-14 | 4.49 | 2,964 | 4,388 |
 | 2023-10-15 | 4.49 | 2,974 | 4,410 |
 | 2023-10-16 | 4.49 | 2,988 | 4,434 |
-| 2023-10-17 | 4.49 | 2,998 | 4,445 |
+| 2023-10-17 | 4.49 | 2,998 | 4,448 |

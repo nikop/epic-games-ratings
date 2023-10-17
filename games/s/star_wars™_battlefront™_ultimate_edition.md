@@ -10,7 +10,7 @@
 | A good blaster at your side | 34.00% | ~240 |
 | Scrap collector | 21.00% | ~148 |
 | I suggest a new strategy | 19.00% | ~134 |
-| Great shot, kid! | 18.00% | ~127 |
+| Great shot, kid! | 19.00% | ~134 |
 | The power of the Force | 17.00% | ~120 |
 | All right, I'll give it a try | 17.00% | ~120 |
 | Shoot first | 17.00% | ~120 |

@@ -8277,9 +8277,9 @@
       "Count": 950
     }
   ],
-  "EOS_Progressed": 120760,
+  "EOS_Progressed": 120761,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 635,
+  "EOS_NewPlayers": 631,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26922,6 +26922,11 @@
       "Time": "2023-10-17T16:07:07.7669966+00:00",
       "NumProgressed": 120760,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-17T17:06:32.5882427+00:00",
+      "NumProgressed": 120761,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 65,
@@ -26941,7 +26946,7 @@
       "Name": "Serenity Now!",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 65210
+      "UsersEstimate": 65211
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -26965,7 +26970,7 @@
       "Name": "Resurrection",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 74871
+      "UsersEstimate": 74872
     },
     {
       "ID": "altar_of_hope_unlock_hero_hellion",
@@ -26981,7 +26986,7 @@
       "Name": "Funny Guy",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 80909
+      "UsersEstimate": 80910
     },
     {
       "ID": "altar_of_hope_unlock_hero_leper",
@@ -26997,7 +27002,7 @@
       "Name": "Wyrdly Reconstructed",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 74871
+      "UsersEstimate": 74872
     },
     {
       "ID": "altar_of_hope_unlock_hero_runaway",
@@ -27005,7 +27010,7 @@
       "Name": "Boxcar Kid",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 72456
+      "UsersEstimate": 72457
     },
     {
       "ID": "altar_of_hope_unlock_hero_vestal",
@@ -27149,7 +27154,7 @@
       "Name": "Catch and Decease",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 16906
+      "UsersEstimate": 16907
     },
     {
       "ID": "combat_kill_librarian",
@@ -27157,7 +27162,7 @@
       "Name": "Overdue Notice",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 38643
+      "UsersEstimate": 38644
     },
     {
       "ID": "combat_kill_pillagers",
@@ -27229,7 +27234,7 @@
       "Name": "Rush Hour",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 72456
+      "UsersEstimate": 72457
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -27253,7 +27258,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 72456
+      "UsersEstimate": 72457
     },
     {
       "ID": "driving_distance_easy",
@@ -27261,7 +27266,7 @@
       "Name": "Ramble On",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 59172
+      "UsersEstimate": 59173
     },
     {
       "ID": "driving_distance_hard",
@@ -27301,7 +27306,7 @@
       "Name": "A Clear Conscience",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 83324
+      "UsersEstimate": 83325
     },
     {
       "ID": "hoarder_buy_epic_trinket",
@@ -27325,7 +27330,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 112307
+      "UsersEstimate": 112308
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -27381,7 +27386,7 @@
       "Name": "Nope",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 59172
+      "UsersEstimate": 59173
     },
     {
       "ID": "run_victory_act01",
@@ -27389,7 +27394,7 @@
       "Name": "Unshackled",
       "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 80909
+      "UsersEstimate": 80910
     },
     {
       "ID": "run_victory_act02",
@@ -27452,15 +27457,15 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 120760,
+      "Progressed": 120761,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-10-17T01:42:15.8233297+00:00",
-  "LastChanged_Achievements": "2023-10-17T16:07:07.766996+00:00",
+  "LastChanged_Achievements": "2023-10-17T17:06:32.5882423+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:26.2566116+00:00",
-  "LastUpdate_Ratings": "2023-10-17T15:59:18.5794472+00:00",
-  "LastUpdate_Achievements": "2023-10-17T16:07:07.7671792+00:00"
+  "LastUpdate_Ratings": "2023-10-17T16:58:56.301381+00:00",
+  "LastUpdate_Achievements": "2023-10-17T17:06:32.588419+00:00"
 }

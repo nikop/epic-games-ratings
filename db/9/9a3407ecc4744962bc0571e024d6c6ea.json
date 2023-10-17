@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 865,
+  "EOS_Progressed": 866,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
@@ -2036,6 +2036,11 @@
       "Time": "2023-10-16T16:05:03.6264443+00:00",
       "NumProgressed": 865,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-17T17:05:13.8111596+00:00",
+      "NumProgressed": 866,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -2056,7 +2061,7 @@
       "Name": "Boston Hay Day",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "BoxingClever",
@@ -2096,7 +2101,7 @@
       "Name": "Darkest Before the Dawn",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "DrinkingOnTheJob",
@@ -2104,7 +2109,7 @@
       "Name": "Drinking on the Job",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "DustDancing",
@@ -2128,7 +2133,7 @@
       "Name": "Lights Out",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "MiCasaSuCasa",
@@ -2152,7 +2157,7 @@
       "Name": "Outpatient",
       "Percentage": 62,
       "XP": 50,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "Relic",
@@ -2182,9 +2187,9 @@
       "ID": "TheSafetyOfDisbelief",
       "SetID": "3ai6ml8",
       "Name": "The Safety of Disbelief",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 467
+      "UsersEstimate": 459
     },
     {
       "ID": "TragedyDocumented",
@@ -2207,14 +2212,14 @@
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 865,
+      "Progressed": 866,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-10-17T16:05:35.7641483+00:00",
+  "LastChanged_Achievements": "2023-10-17T17:05:13.811159+00:00",
   "LastUpdate_AppInfo": "2023-10-11T15:57:05.4111665+00:00",
-  "LastUpdate_Ratings": "2023-10-17T16:00:25.4065274+00:00",
-  "LastUpdate_Achievements": "2023-10-17T16:05:35.7641794+00:00"
+  "LastUpdate_Ratings": "2023-10-17T16:59:48.9192144+00:00",
+  "LastUpdate_Achievements": "2023-10-17T17:05:13.811188+00:00"
 }
