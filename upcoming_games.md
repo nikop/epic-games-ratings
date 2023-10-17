@@ -1,7 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Outlive](games/o/outlive.md) | 2023-10-17 | - |  | - | - |
-| [Popcorn Rocket](games/4/4acbe0ba4b144020b1dee0d6dd607029.md) | 2023-10-17 | 41 (1,000 XP) | 1 | - | - |
 | [Brawlers](games/0/03daf1d62b1b42c0a2a5168d91cb61b2.md) | 2023-10-17 | - |  | - | - |
 | [Wyvia](games/f/f8746c4784114e1b9d000187539201f4.md) | 2023-10-18 | - |  | - | - |
 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 2023-10-18 | 42 (1,000 XP) | 8 | - | - |
@@ -26,7 +24,7 @@
 | [Desktop Girlfriend NEO](games/e/e9e51dd0d086464a9a794d9cfa7da123.md) | 2023-10-25 | 93 (1,000 XP) | 0 | - | - |
 | [DINOSAURS: Mission Dino Camp](games/2/20938450f73b48a9bb1a5243bcac965b.md) | 2023-10-26 | - |  | - | - |
 | [Hamster on Rails](games/f/fd4730080e1b408dac0303a255fcc3dd.md) | 2023-10-26 | - |  | - | - |
-| [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 2023-10-26 | 34 (1,000 XP) | 1 | - | - |
+| [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 2023-10-26 | 34 (1,000 XP) | 3 | - | - |
 | [Birch Simulator](games/9/9d986837984c476195398f37ba7446dd.md) | 2023-10-26 | - |  | - | - |
 | [Blood Hunting](games/8/88aebfec9a96482d99f442a9535e2963.md) | 2023-10-27 | - |  | - | - |
 | [Alan Wake 2](games/a/alan_wake_2.md) | 2023-10-27 | - |  | - | 0 |
@@ -185,7 +183,7 @@
 | [Eternal Exodus](games/e/e54a925435924e42ab3cd20f584d6e14.md) | 2024-05-31 | - |  | - | - |
 | [SpectralClimb](games/6/6120f91f9281420e818d6298ccd09772.md) | 2024-06-28 | - |  | - | - |
 | [Elders Grace - Unchained](games/d/d975114b43134558aa8413af2a0918c6.md) | 2024-06-30 | - |  | - | - |
-| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 68,816 | - | - |
+| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 68,840 | - | - |
 | [Monospaced Lovers](games/e/e73367d384634d11975effc86569bc47.md) | 2024-06-30 | - |  | - | - |
 | [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
 | [Rise of the Robots X - Early access](games/d/d065c8442524400dac2e0e9674a68732.md) | 2024-06-30 | - |  | - | - |
@@ -347,6 +345,8 @@
 | [Lethal Honor - Order of the Apocalypse](games/4/4fd8ab38c14c4d91ba07aae139723027.md) | 2099-01-01 | - |  | - | - |
 | [Liberta Rise of Freedom](games/4/4a48a5997a5e45c887053d25a0a4e49d.md) | 2099-01-01 | - |  | - | - |
 | [Life After End](games/0/02ecdb76193847068c30293dcad33190.md) | 2099-01-01 | - |  | - | - |
+| [Life Makeover](games/6/606d6845a902419ebe7b073d81676369.md) | 2099-01-01 | - |  | - | - |
+| [Life Makeover Global](games/d/ddce4dcb2dee4a3693e902573c77b146.md) | 2099-01-01 | - |  | - | - |
 | [Lighthouse of Madness](games/e/e184eeca95e7493b9eb4cd38ee8c0a23.md) | 2099-01-01 | - |  | - | - |
 | [Lightracer Spark](games/l/lightracer_spark.md) | 2099-01-01 | - |  | - | - |
 | [Lightyear Frontier](games/l/lightyear_frontier.md) | 2099-01-01 | - |  | - | - |
