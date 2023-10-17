@@ -411,6 +411,7 @@
 | [One Hand Clapping](../games/o/one_hand_clapping.md) | 28 | 1,000 |
 | [Overpass 2](../games/e/e7a7820e516744b88212c1f78aa895df.md) | 28 | 1,000 |
 | [Sherlock Holmes The Awakened](../games/s/sherlock_holmes_the_awakened.md) | 28 | 1,000 |
+| [SteamWorld Build](../games/s/steamworld_build.md) | 28 | 1,000 |
 | [The Bunker](../games/t/the_bunker.md) | 28 | 1,000 |
 | [Them's Fightin' Herds](../games/t/them's_fightin'_herds.md) | 28 | 1,000 |
 | [We Are OFK](../games/w/we_are_ofk.md) | 28 | 1,000 |
