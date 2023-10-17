@@ -2,7 +2,7 @@
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 66.67% |
-| 3 | [The Riflemen](games/t/the_riflemen.md) | 47.95% |
+| 3 | [The Riflemen](games/t/the_riflemen.md) | 47.94% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.15% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.99% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
@@ -79,8 +79,8 @@
 | 77 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
 | 78 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 79 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.45% |
-| 80 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.40% |
-| 81 | [The Bunker](games/t/the_bunker.md) | 3.39% |
+| 80 | [The Bunker](games/t/the_bunker.md) | 3.39% |
+| 81 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.38% |
 | 82 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
 | 83 | [The Complex](games/t/the_complex.md) | 3.33% |
 | 84 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.30% |
@@ -139,7 +139,7 @@
 | 137 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.12% |
 | 137 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.12% |
 | 139 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 1.10% |
-| 140 | [Trifox](games/t/trifox.md) | 1.09% |
+| 140 | [Trifox](games/t/trifox.md) | 1.08% |
 | 141 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.07% |
 | 142 | [Adios](games/a/adios.md) | 1.05% |
 | 142 | [Infindustry](games/i/infindustry.md) | 1.05% |
@@ -256,12 +256,12 @@
 | 253 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
 | 253 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.09% |
 | 253 | [Lost Eidolons](games/l/lost_eidolons.md) | 0.09% |
+| 253 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.09% |
 | 253 | [Riverbond](games/r/riverbond.md) | 0.09% |
 | 253 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
 | 253 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
-| 260 | [ATOM RPG](games/a/atom_rpg.md) | 0.08% |
-| 260 | [Black Book](games/b/black_book.md) | 0.08% |
-| 260 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.08% |
+| 261 | [ATOM RPG](games/a/atom_rpg.md) | 0.08% |
+| 261 | [Black Book](games/b/black_book.md) | 0.08% |
 | 263 | [MythForce](games/m/mythforce.md) | 0.07% |
 | 263 | [Partisans 1941](games/p/partisans_1941.md) | 0.07% |
 | 263 | [Saints Row](games/s/saints_row.md) | 0.07% |
