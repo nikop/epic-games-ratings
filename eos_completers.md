@@ -2,7 +2,7 @@
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 66.67% |
-| 3 | [The Riflemen](games/t/the_riflemen.md) | 47.99% |
+| 3 | [The Riflemen](games/t/the_riflemen.md) | 47.97% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.15% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.99% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
@@ -98,7 +98,7 @@
 | 96 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 97 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.68% |
 | 98 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 2.63% |
-| 99 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.61% |
+| 99 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.60% |
 | 100 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.56% |
 | 101 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 102 | [Lamentum](games/l/lamentum.md) | 2.46% |
@@ -158,8 +158,8 @@
 | 156 | [Eternights](games/e/eternights.md) | 0.74% |
 | 156 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.74% |
 | 158 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.73% |
-| 159 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.72% |
-| 160 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.71% |
+| 159 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.71% |
+| 159 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.71% |
 | 161 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.66% |
 | 162 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.64% |
 | 163 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
@@ -206,10 +206,10 @@
 | 202 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 205 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
 | 205 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.30% |
+| 205 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.30% |
 | 205 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.30% |
-| 208 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.29% |
-| 208 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
-| 208 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.29% |
+| 209 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.29% |
+| 209 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.29% |
 | 211 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.27% |
 | 211 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.27% |
 | 211 | [The Devil's Face](games/t/the_devil's_face.md) | 0.27% |
