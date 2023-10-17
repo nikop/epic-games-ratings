@@ -24,11 +24,11 @@
 | Big badaboom! | 27.00% | ~27 |
 | Magnitude 5 | 24.00% | ~24 |
 | Bookworm | 24.00% | ~24 |
-| Payback | 23.00% | ~23 |
+| Payback | 24.00% | ~24 |
 | Nokron tower | 22.00% | ~22 |
 | Full power | 21.00% | ~21 |
 | "Ah sh*t... Here we go again!" | 21.00% | ~21 |
-| Compulsive hoarder | 20.00% | ~20 |
+| Compulsive hoarder | 21.00% | ~21 |
 | GG EZ | 15.00% | ~15 |
 | Comeback | 15.00% | ~15 |
 | MayDay! MayDay! | 12.00% | ~12 |

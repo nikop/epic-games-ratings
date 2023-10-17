@@ -8,10 +8,12 @@
 | Light Up Your life | 25.00% | ~3 |
 | The Lair | 25.00% | ~3 |
 | Ashes in The Maw | 17.00% | ~2 |
+| Ashes to Ashes | 17.00% | ~2 |
 | Elusive | 17.00% | ~2 |
 | Fun and Games Ahead | 17.00% | ~2 |
 | Six's Song | 17.00% | ~2 |
 | Highly Sprung | 17.00% | ~2 |
+| I'm Losing You | 17.00% | ~2 |
 | Is Anybody Out There? | 17.00% | ~2 |
 | Kitchen Hand | 17.00% | ~2 |
 | Not Alone | 17.00% | ~2 |
@@ -20,9 +22,7 @@
 | The Guest Area | 17.00% | ~2 |
 | The Lady's Quarters | 17.00% | ~2 |
 | We'll Meet Again | 17.00% | ~2 |
-| Ashes to Ashes | 8.00% | ~1 |
 | End in Sight | 8.00% | ~1 |
-| I'm Losing You | 8.00% | ~1 |
 | Little Lost Things | 8.00% | ~1 |
 | Hard to the Core | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

@@ -536,9 +536,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 68297,
+  "EOS_Progressed": 68302,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 810,
+  "EOS_NewPlayers": 814,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -18341,6 +18341,11 @@
       "Time": "2023-10-17T12:09:48.0395817+00:00",
       "NumProgressed": 68297,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-10-17T13:15:48.3707166+00:00",
+      "NumProgressed": 68302,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 67,
@@ -18352,7 +18357,7 @@
       "Name": "Follow the Light",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 29368
+      "UsersEstimate": 29370
     },
     {
       "ID": "02",
@@ -18360,7 +18365,7 @@
       "Name": "Nordic Walking",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 19123
+      "UsersEstimate": 19125
     },
     {
       "ID": "03",
@@ -18368,7 +18373,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 18440
+      "UsersEstimate": 18442
     },
     {
       "ID": "04",
@@ -18384,7 +18389,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 16391
+      "UsersEstimate": 16392
     },
     {
       "ID": "06",
@@ -18392,7 +18397,7 @@
       "Name": "Park Ranger",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 13659
+      "UsersEstimate": 13660
     },
     {
       "ID": "07",
@@ -18518,9 +18523,9 @@
       "ID": "22",
       "SetID": "212770e",
       "Name": "The Six-Gun Scribe",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10245
+      "UsersEstimate": 10928
     },
     {
       "ID": "23",
@@ -18576,7 +18581,7 @@
       "Name": "Sound and Fury",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11610
+      "UsersEstimate": 11611
     },
     {
       "ID": "30",
@@ -18592,7 +18597,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 12976
+      "UsersEstimate": 12977
     },
     {
       "ID": "32",
@@ -18600,7 +18605,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 23221
+      "UsersEstimate": 23223
     },
     {
       "ID": "33",
@@ -18608,7 +18613,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11610
+      "UsersEstimate": 11611
     },
     {
       "ID": "34",
@@ -18624,7 +18629,7 @@
       "Name": "Let There Be Light",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 24587
+      "UsersEstimate": 24589
     },
     {
       "ID": "36",
@@ -18672,7 +18677,7 @@
       "Name": "Finders Keepers",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 12976
+      "UsersEstimate": 12977
     },
     {
       "ID": "42",
@@ -18688,7 +18693,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 13659
+      "UsersEstimate": 13660
     },
     {
       "ID": "44",
@@ -18712,7 +18717,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 11610
+      "UsersEstimate": 11611
     },
     {
       "ID": "47",
@@ -18887,21 +18892,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 68297,
+      "Progressed": 68302,
       "Completed": 69
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 31765,
+      "Progressed": 31770,
       "Completed": 57
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-10-17T07:57:25.3609832+00:00",
-  "LastChanged_Achievements": "2023-10-17T12:09:48.0395809+00:00",
+  "LastChanged_Achievements": "2023-10-17T13:15:48.3707161+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:29.5404552+00:00",
-  "LastUpdate_Ratings": "2023-10-17T11:57:41.1072178+00:00",
-  "LastUpdate_Achievements": "2023-10-17T12:09:48.0398964+00:00"
+  "LastUpdate_Ratings": "2023-10-17T13:04:14.8122388+00:00",
+  "LastUpdate_Achievements": "2023-10-17T13:15:48.3708924+00:00"
 }

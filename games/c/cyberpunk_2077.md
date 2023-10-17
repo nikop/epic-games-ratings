@@ -1,41 +1,41 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.64 (Ranked 322)  
+Rating: 4.64 (Ranked 323)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 71.00% | ~633,568 |
-| Right Back At Ya | 45.00% | ~401,558 |
-| The Lovers | 39.00% | ~348,016 |
-| Stanislavski's Method | 33.00% | ~294,476 |
-| The Wheel of Fortune | 33.00% | ~294,476 |
-| The Hermit | 30.00% | ~267,705 |
-| The High Priestess | 30.00% | ~267,705 |
-| True Soldier | 29.00% | ~258,781 |
-| Christmas Tree Attack | 26.00% | ~232,011 |
-| Full Body Conversion | 24.00% | ~214,164 |
-| Life of the Road | 23.00% | ~205,240 |
-| Ten out of Ten | 22.00% | ~196,317 |
-| The World | 22.00% | ~196,317 |
-| Master Crafter | 20.00% | ~178,470 |
-| True Warrior | 20.00% | ~178,470 |
-| Bushido and Chill | 19.00% | ~169,546 |
-| Gun Fu | 18.00% | ~160,623 |
-| I Am The Law | 16.00% | ~142,776 |
-| To Protect and Serve | 15.00% | ~133,852 |
-| Breathtaking | 14.00% | ~124,929 |
+| The Fool | 71.00% | ~633,573 |
+| Right Back At Ya | 45.00% | ~401,561 |
+| The Lovers | 39.00% | ~348,019 |
+| Stanislavski's Method | 33.00% | ~294,478 |
+| The Wheel of Fortune | 33.00% | ~294,478 |
+| The Hermit | 30.00% | ~267,707 |
+| The High Priestess | 30.00% | ~267,707 |
+| True Soldier | 29.00% | ~258,784 |
+| Christmas Tree Attack | 26.00% | ~232,013 |
+| Full Body Conversion | 24.00% | ~214,166 |
+| Life of the Road | 23.00% | ~205,242 |
+| Ten out of Ten | 22.00% | ~196,319 |
+| The World | 22.00% | ~196,319 |
+| Master Crafter | 20.00% | ~178,471 |
+| True Warrior | 20.00% | ~178,471 |
+| Bushido and Chill | 19.00% | ~169,548 |
+| Gun Fu | 18.00% | ~160,624 |
+| I Am The Law | 16.00% | ~142,777 |
+| To Protect and Serve | 15.00% | ~133,854 |
+| Breathtaking | 14.00% | ~124,930 |
 | The Quick and the Dead | 13.00% | ~116,006 |
 | Rough Landing | 13.00% | ~116,006 |
-| The Jungle | 12.00% | ~107,082 |
-| To Bad Decisions! | 11.00% | ~98,158 |
-| The Wandering Fool | 11.00% | ~98,158 |
-| Gunslinger | 10.00% | ~89,235 |
-| Mean Streets | 10.00% | ~89,235 |
+| The Jungle | 12.00% | ~107,083 |
+| To Bad Decisions! | 11.00% | ~98,159 |
+| The Wandering Fool | 11.00% | ~98,159 |
+| Gunslinger | 10.00% | ~89,236 |
+| Mean Streets | 10.00% | ~89,236 |
 | Temperance | 9.00% | ~80,312 |
-| The Star | 8.00% | ~71,388 |
-| The Sun | 8.00% | ~71,388 |
+| The Star | 8.00% | ~71,389 |
+| The Sun | 8.00% | ~71,389 |
 | City Lights | 6.00% | ~53,541 |
 | Must Be Rats | 5.00% | ~44,618 |
 | The Devil | 5.00% | ~44,618 |
@@ -43,14 +43,14 @@ Number of Ratings: 32,700  (23.09.2022)
 | Little Tokyo | 4.00% | ~35,694 |
 | Two Heads, One Bullet | 4.00% | ~35,694 |
 | V for Vendetta | 4.00% | ~35,694 |
-| Autojock | 3.00% | ~26,770 |
-| Frequent Flyer | 3.00% | ~26,770 |
-| The Wasteland | 3.00% | ~26,770 |
-| Daemon In The Shell | 3.00% | ~26,770 |
-| Legend of The Afterlife | 3.00% | ~26,770 |
+| Autojock | 3.00% | ~26,771 |
+| Frequent Flyer | 3.00% | ~26,771 |
+| The Wasteland | 3.00% | ~26,771 |
+| Daemon In The Shell | 3.00% | ~26,771 |
+| Legend of The Afterlife | 3.00% | ~26,771 |
 | Judy vs Night City | 2.00% | ~17,847 |
 | It's Elementary | 2.00% | ~17,847 |
-| Spin Doctor | 2.00% | ~419 |
+| Spin Doctor | 2.00% | ~420 |
 | The APB is Not Enough | 0.70% | ~147 |
 | Relic Ruler | 0.60% | ~126 |
 | All the President's Men | 0.00% | ~0 |
@@ -64,7 +64,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 892,350 (Ranked 15)  
+Progressed: 892,357 (Ranked 15)  
 Completed: 2,676 (0.30%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 2,676 (0.30%) (Ranked 205)
 | 2023-10-14 | 891,800 | 2,661 |
 | 2023-10-15 | 892,108 | 2,671 |
 | 2023-10-16 | 892,285 | 2,674 |
-| 2023-10-17 | 892,350 | 2,676 |
+| 2023-10-17 | 892,357 | 2,676 |
 ## Awards
 Max (Character Customization): 98,623  (Ranked 9)  
 Sum: 307,812 (Ranked 11)  

@@ -556,9 +556,9 @@
       "ID": "Ach_BuyAllItemAndUpgrade",
       "SetID": "4o5gjp0",
       "Name": "Compulsive hoarder",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Ach_BuyHut",
@@ -732,9 +732,9 @@
       "ID": "Ach_SoulPotBeggarHouse",
       "SetID": "4o5gjp0",
       "Name": "Payback",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "Ach_SoulPots",
@@ -779,8 +779,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-10-17T12:08:58.6058459+00:00",
+  "LastChanged_Achievements": "2023-10-17T13:15:12.4528748+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:52.8723161+00:00",
-  "LastUpdate_Ratings": "2023-10-17T12:03:09.918454+00:00",
-  "LastUpdate_Achievements": "2023-10-17T12:08:58.6058766+00:00"
+  "LastUpdate_Ratings": "2023-10-17T13:09:12.0682123+00:00",
+  "LastUpdate_Achievements": "2023-10-17T13:15:12.4529039+00:00"
 }

@@ -5,14 +5,14 @@ Rating: 4.06 (Ranked 954)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,902 |
+| Victor | 93.00% | ~1,903 |
 | World Map | 79.00% | ~1,616 |
 | Temple of Eternals | 57.00% | ~1,166 |
-| Prestigious | 54.00% | ~1,104 |
+| Prestigious | 54.00% | ~1,105 |
 | Fellowship Power | 42.00% | ~859 |
 | Guild Power | 26.00% | ~532 |
-| Prestigious x10 | 23.00% | ~470 |
-| The game is on | 21.00% | ~429 |
+| Prestigious x10 | 23.00% | ~471 |
+| The game is on | 21.00% | ~430 |
 | Exotic Merchant | 20.00% | ~409 |
 | Dragon Clicker | 18.00% | ~368 |
 | Full Party | 17.00% | ~348 |
@@ -28,7 +28,7 @@ Rating: 4.06 (Ranked 954)
 | Superior | 14.00% | ~286 |
 | The Unstoppable | 14.00% | ~286 |
 | Scientist | 13.00% | ~266 |
-| The power of Awakening | 12.00% | ~245 |
+| The power of Awakening | 12.00% | ~246 |
 | Challenger | 11.00% | ~225 |
 | Daily Quest Completionist | 11.00% | ~225 |
 | Doing My Part | 11.00% | ~225 |
@@ -39,8 +39,8 @@ Rating: 4.06 (Ranked 954)
 | Moving Up The Ladder | 11.00% | ~225 |
 | Relic Of The Past | 11.00% | ~225 |
 | Scroll Master | 11.00% | ~225 |
-| Master Enchanter | 10.00% | ~204 |
-| The father of Dragons | 10.00% | ~204 |
+| Master Enchanter | 10.00% | ~205 |
+| The father of Dragons | 10.00% | ~205 |
 | Here We Go Again | 9.00% | ~184 |
 | Trader | 9.00% | ~184 |
 | Blueprint Upgrades | 8.00% | ~164 |
@@ -81,7 +81,7 @@ Rating: 4.06 (Ranked 954)
 | War Machines Army | 0.20% | ~4 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,045 (Ranked 204)  
+Progressed: 2,046 (Ranked 204)  
 Completed: 2 (0.10%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 2 (0.10%) (Ranked 247)
 | 2023-10-14 | 2,035 | 2 |
 | 2023-10-15 | 2,040 | 2 |
 | 2023-10-16 | 2,043 | 2 |
-| 2023-10-17 | 2,045 | 2 |
+| 2023-10-17 | 2,046 | 2 |
 ## Awards
 Max (Great for Beginners): 27  (Ranked 493)  
 Sum: 72 (Ranked 453)  

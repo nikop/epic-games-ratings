@@ -16,16 +16,16 @@ Rating: 4.76 (Ranked 118)
 | Loom for Improvement | 11.00% | ~32,834 |
 | A Talent for Spending | 11.00% | ~32,834 |
 | Coasting Along | 11.00% | ~32,834 |
-| Grappling with a Graphorn | 10.00% | ~29,849 |
-| The Hero of Hogwarts | 10.00% | ~29,849 |
-| Challenge Accepted | 10.00% | ~29,849 |
-| Followed the Butterflies | 9.00% | ~26,864 |
-| The Spell Master | 9.00% | ~26,864 |
-| Rising From the Ashes | 9.00% | ~26,864 |
-| The Avenging Gazelle | 8.00% | ~23,879 |
-| Beast Friends | 8.00% | ~23,879 |
-| A Sallow Grave | 8.00% | ~23,879 |
-| Flight the Good Flight | 8.00% | ~23,879 |
+| Grappling with a Graphorn | 10.00% | ~29,850 |
+| The Hero of Hogwarts | 10.00% | ~29,850 |
+| Challenge Accepted | 10.00% | ~29,850 |
+| Followed the Butterflies | 9.00% | ~26,865 |
+| The Spell Master | 9.00% | ~26,865 |
+| Rising From the Ashes | 9.00% | ~26,865 |
+| The Avenging Gazelle | 8.00% | ~23,880 |
+| Beast Friends | 8.00% | ~23,880 |
+| A Sallow Grave | 8.00% | ~23,880 |
+| Flight the Good Flight | 8.00% | ~23,880 |
 | The Seeker of Knowledge | 6.00% | ~17,910 |
 | The Root of the Problem | 6.00% | ~17,910 |
 | Third Time's a Charm | 6.00% | ~17,910 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 118)
 | The Nature of the Beast | 0.70% | ~2,089 |
 | Collector's Edition | 0.30% | ~895 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,493 (Ranked 47)  
+Progressed: 298,495 (Ranked 47)  
 Completed: 488 (0.16%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,10 +231,10 @@ Completed: 488 (0.16%) (Ranked 232)
 | 2023-10-14 | 298,337 | 487 |
 | 2023-10-15 | 298,425 | 488 |
 | 2023-10-16 | 298,472 | 488 |
-| 2023-10-17 | 298,493 | 488 |
+| 2023-10-17 | 298,495 | 488 |
 ## Awards
 Max (Character Customization): 23,586  (Ranked 17)  
-Sum: 46,055 (Ranked 30)  
+Sum: 46,060 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -248,7 +248,7 @@ Diff (max vs sum): -13
 | This game has Amazing Characters | 1,105 |
 | This game is Highly Recommended | 1,078 |
 | This game has Quickly Understood Controls | 1,029 |
-| This game has Beautiful Visuals | 948 |
+| This game has Beautiful Visuals | 953 |
 | This game has a Creative Community | 716 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -460,4 +460,4 @@ Diff (max vs sum): -13
 | 2023-10-14 | 4.76 | 23,517 | 45,868 |
 | 2023-10-15 | 4.76 | 23,559 | 45,955 |
 | 2023-10-16 | 4.76 | 23,559 | 45,997 |
-| 2023-10-17 | 4.76 | 23,586 | 46,055 |
+| 2023-10-17 | 4.76 | 23,586 | 46,060 |

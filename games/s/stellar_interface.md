@@ -105,6 +105,7 @@
 | Magic Silver mirror; on the wall | 2.00% | ~1 |
 | Galactic Captain | 2.00% | ~1 |
 | Collateral Damage IV | 2.00% | ~1 |
+| Fighting Fit IV | 2.00% | ~1 |
 | Providence | 0.00% | ~0 |
 | Universal Ensign | 0.00% | ~0 |
 | Space Odyssey | 0.00% | ~0 |
@@ -134,7 +135,6 @@
 | Hal | 0.00% | ~0 |
 | Almost There V | 0.00% | ~0 |
 | Almost There IV | 0.00% | ~0 |
-| Fighting Fit IV | 0.00% | ~0 |
 | Fighting Fit V | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 64 (Ranked 421)  

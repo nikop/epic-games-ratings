@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 70,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -414,9 +414,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2955,
+  "EOS_Progressed": 2956,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.09,
   "EosHistory": [
@@ -3674,6 +3674,11 @@
       "Time": "2023-10-16T18:07:30.6706567+00:00",
       "NumProgressed": 2955,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-10-17T13:12:23.7020246+00:00",
+      "NumProgressed": 2956,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 14,
@@ -3693,7 +3698,7 @@
       "Name": "Case Closed",
       "Percentage": 37,
       "XP": 55,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -3773,7 +3778,7 @@
       "Name": "Shovel Night",
       "Percentage": 37,
       "XP": 55,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "ACH_TREASURE_HUNT",
@@ -3789,14 +3794,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 77,
       "XP": 35,
-      "UsersEstimate": 2275
+      "UsersEstimate": 2276
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2955,
+      "Progressed": 2956,
       "Completed": 121
     }
   ],
@@ -3804,8 +3809,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-10-06T14:00:50.47481+00:00",
-  "LastChanged_Achievements": "2023-10-17T12:07:07.4228347+00:00",
+  "LastChanged_Achievements": "2023-10-17T13:12:23.7020241+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:11.4944348+00:00",
-  "LastUpdate_Ratings": "2023-10-17T12:00:31.6202268+00:00",
-  "LastUpdate_Achievements": "2023-10-17T12:07:07.4228677+00:00"
+  "LastUpdate_Ratings": "2023-10-17T13:06:06.8880695+00:00",
+  "LastUpdate_Achievements": "2023-10-17T13:12:23.7020529+00:00"
 }

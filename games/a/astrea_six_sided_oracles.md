@@ -25,18 +25,18 @@
 | Heart Gate | 17.00% | ~10 |
 | Star Killer | 17.00% | ~10 |
 | Astral Adventurer | 16.00% | ~9 |
-| Astral Seeker | 14.00% | ~8 |
-| The Corruption Goddess | 14.00% | ~8 |
-| The Goddes Avatar | 14.00% | ~8 |
+| Astral Seeker | 16.00% | ~9 |
+| The Corruption Goddess | 16.00% | ~9 |
+| The Goddes Avatar | 16.00% | ~9 |
 | Unbeatable | 14.00% | ~8 |
 | Favored by the Cosmos | 10.00% | ~6 |
 | Wave Bender | 10.00% | ~6 |
+| Lacertian Hero | 10.00% | ~6 |
 | Anomaly Control | 9.00% | ~5 |
 | Can't touch this | 9.00% | ~5 |
 | Sadistic Plan | 9.00% | ~5 |
 | Stellar Haste | 9.00% | ~5 |
 | Apian Hero | 9.00% | ~5 |
-| Lacertian Hero | 9.00% | ~5 |
 | Denying Destiny | 7.00% | ~4 |
 | Heavy Purger | 7.00% | ~4 |
 | The Chaos Artisan | 7.00% | ~4 |
@@ -58,6 +58,7 @@
 | Noctuan Mastery | 3.00% | ~2 |
 | Anomaly Master | 2.00% | ~1 |
 | Arch-Oracle | 2.00% | ~1 |
+| Astral Tinkerer | 2.00% | ~1 |
 | Critical Twist | 2.00% | ~1 |
 | Gotta tinker'em all! | 2.00% | ~1 |
 | Plague Doctor | 2.00% | ~1 |
@@ -74,7 +75,6 @@
 | Aquarian Champion | 0.00% | ~0 |
 | Aquarian Hero | 0.00% | ~0 |
 | Aquarian Mastery | 0.00% | ~0 |
-| Astral Tinkerer | 0.00% | ~0 |
 | Astrea's Saviors | 0.00% | ~0 |
 | Astrium Specialist | 0.00% | ~0 |
 | Astromancer | 0.00% | ~0 |

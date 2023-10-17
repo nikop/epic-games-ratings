@@ -1,7 +1,7 @@
 # Call of the Wild: The Angler™
 [Store](https://store.epicgames.com/en-US/p/call-of-the-wild-the-angler)  
 [View Rawdata](../../db/c/call_of_the_wild__the_angler™.json)  
-Rating: 4.16 (Ranked 913)  
+Rating: 4.17 (Ranked 908)  
 Number of Ratings: 281  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -11,7 +11,7 @@ Number of Ratings: 281  (23.09.2022)
 | I'm on a Boat! | 60.00% | ~3,643 |
 | Can you smell what the Rod is Hooking | 56.00% | ~3,400 |
 | Scaling up | 56.00% | ~3,400 |
-| More Fish in the Sea | 49.00% | ~2,975 |
+| More Fish in the Sea | 50.00% | ~3,036 |
 | Ready to Rod and Roll | 47.00% | ~2,853 |
 | Fish Out of Water | 36.00% | ~2,186 |
 | License to Gill | 33.00% | ~2,003 |
@@ -225,12 +225,12 @@ Completed: 0 (0.00%) (Ranked 315)
 | 2023-10-17 | 6,071 | 0 |
 ## Awards
 Max (Relaxing): 36  (Ranked 453)  
-Sum: 183 (Ranked 396)  
+Sum: 184 (Ranked 396)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 36 |
-| This game has Amazing Storytelling | 33 |
+| This game has Amazing Storytelling | 34 |
 | This game is Highly Recommended | 32 |
 | This game is Great for Beginners | 32 |
 | This game is Extremely Fun | 29 |
@@ -318,4 +318,4 @@ Diff (max vs sum): 57
 | 2023-10-08 | 4.17 | - | 36 | 181 |
 | 2023-10-10 | 4.17 | - | 36 | 182 |
 | 2023-10-13 | 4.17 | - | 36 | 183 |
-| 2023-10-17 | 4.16 | - | 36 | 183 |
+| 2023-10-17 | 4.17 | - | 36 | 184 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 453,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -376,9 +376,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 2045,
+  "EOS_Progressed": 2046,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6161,6 +6161,11 @@
       "Time": "2023-10-17T04:03:07.6708643+00:00",
       "NumProgressed": 2045,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-17T13:10:07.6232929+00:00",
+      "NumProgressed": 2046,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -6484,7 +6489,7 @@
       "Name": "Master Enchanter",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "mastery",
@@ -6564,7 +6569,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1104
+      "UsersEstimate": 1105
     },
     {
       "ID": "prestigiousx10",
@@ -6572,7 +6577,7 @@
       "Name": "Prestigious x10",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "relicofthepast",
@@ -6652,7 +6657,7 @@
       "Name": "The father of Dragons",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "thegameison",
@@ -6660,7 +6665,7 @@
       "Name": "The game is on",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "thepowerofawakening",
@@ -6668,7 +6673,7 @@
       "Name": "The power of Awakening",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "theunstoppable",
@@ -6732,7 +6737,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1902
+      "UsersEstimate": 1903
     },
     {
       "ID": "warmachinesarmy",
@@ -6771,7 +6776,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2045,
+      "Progressed": 2046,
       "Completed": 2
     }
   ],
@@ -6779,8 +6784,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-10-16T23:02:28.7731396+00:00",
-  "LastChanged_Achievements": "2023-10-17T12:03:48.5361221+00:00",
+  "LastChanged_Achievements": "2023-10-17T13:10:07.6232924+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:40.7167186+00:00",
-  "LastUpdate_Ratings": "2023-10-17T12:02:23.847535+00:00",
-  "LastUpdate_Achievements": "2023-10-17T12:03:48.5362459+00:00"
+  "LastUpdate_Ratings": "2023-10-17T13:07:21.5946203+00:00",
+  "LastUpdate_Achievements": "2023-10-17T13:10:07.6234217+00:00"
 }

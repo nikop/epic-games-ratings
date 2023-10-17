@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 27,
   "Ranking_EOS_Progress": 36,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": null,
@@ -7895,9 +7895,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 474613,
+  "EOS_Progressed": 474614,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 262,
+  "EOS_NewPlayers": 263,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26475,6 +26475,11 @@
       "Time": "2023-10-17T11:08:26.6505321+00:00",
       "NumProgressed": 474613,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-10-17T13:15:12.0124305+00:00",
+      "NumProgressed": 474614,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -26542,7 +26547,7 @@
       "Name": "On A Roll",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 123399
+      "UsersEstimate": 123400
     },
     {
       "ID": "achievement_20_seasons_at_one_club",
@@ -26670,7 +26675,7 @@
       "Name": "Clean Sheet",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 237306
+      "UsersEstimate": 237307
     },
     {
       "ID": "achievement_club_world_cup",
@@ -26686,7 +26691,7 @@
       "Name": "Do The Double",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 90176
+      "UsersEstimate": 90177
     },
     {
       "ID": "achievement_dont_concede_a_goal_for_10_consecutive_matches",
@@ -26718,7 +26723,7 @@
       "Name": "I\u0027m The Boss!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 199337
+      "UsersEstimate": 199338
     },
     {
       "ID": "achievement_full_board_confidence",
@@ -26806,7 +26811,7 @@
       "Name": "Hat-trick",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 194591
+      "UsersEstimate": 194592
     },
     {
       "ID": "achievement_head_to_head",
@@ -26878,7 +26883,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 123399
+      "UsersEstimate": 123400
     },
     {
       "ID": "achievement_mr_delegator",
@@ -27030,7 +27035,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 227814
+      "UsersEstimate": 227815
     },
     {
       "ID": "achievement_signed_a_player",
@@ -27038,7 +27043,7 @@
       "Name": "He\u0027s Signed!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 237306
+      "UsersEstimate": 237307
     },
     {
       "ID": "achievement_top_goalscorer_in_league",
@@ -27062,7 +27067,7 @@
       "Name": "Invincible!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 52207
+      "UsersEstimate": 52208
     },
     {
       "ID": "achievement_watch_popup_match_viewer",
@@ -27070,7 +27075,7 @@
       "Name": "Armchair Expert",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 118653
+      "UsersEstimate": 118654
     },
     {
       "ID": "achievement_win_3_consecutive_league_titles",
@@ -27118,7 +27123,7 @@
       "Name": "First Victory",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 237306
+      "UsersEstimate": 237307
     },
     {
       "ID": "achievement_won_domestic_cup",
@@ -27269,15 +27274,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 474613,
+      "Progressed": 474614,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-10-17T00:02:16.0065631+00:00",
-  "LastChanged_Achievements": "2023-10-17T12:08:57.8859688+00:00",
+  "LastChanged_Achievements": "2023-10-17T13:15:12.0124292+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:20.1729368+00:00",
-  "LastUpdate_Ratings": "2023-10-17T12:00:58.0368391+00:00",
-  "LastUpdate_Achievements": "2023-10-17T12:08:57.8864402+00:00"
+  "LastUpdate_Ratings": "2023-10-17T13:06:24.1244578+00:00",
+  "LastUpdate_Achievements": "2023-10-17T13:15:12.012667+00:00"
 }

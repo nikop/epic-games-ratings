@@ -2,7 +2,7 @@
   "ID": "75d74aeb36024d95b8a30bad40dc19c3",
   "Name": "Call of the Wild: The Angler\u2122",
   "ProductSlug": "call-of-the-wild-the-angler",
-  "Ranking_Rating": 913,
+  "Ranking_Rating": 908,
   "Ranking_Popularity": 453,
   "Ranking_PopularitySum": 396,
   "Ranking_EOS_Progress": 168,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "RU, BY, SA"
     }
   },
-  "Rating": 4.16,
+  "Rating": 4.17,
   "NumberOfRatings": 281,
   "RatingHistory": [
     {
@@ -776,10 +776,16 @@
       "Rating": 4.16,
       "NumberOfAwards": 183,
       "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2023-10-17T13:06:11.774736+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 184,
+      "NumberOfAwardsMax": 36
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 183,
+  "NumberOfAwards": 184,
   "NumberOfAwardsMax": 36,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -793,7 +799,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 33
+      "Count": 34
     },
     {
       "Text": "This game is Highly Recommended",
@@ -8637,9 +8643,9 @@
       "ID": "ACHIEVEMENT_007",
       "SetID": "1a05lfd",
       "Name": "More Fish in the Sea",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 2975
+      "UsersEstimate": 3036
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -8883,9 +8889,9 @@
   "FirstSeen": "2022-08-31T13:30:37.244386+00:00",
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
-  "LastChanged": "2023-10-17T00:01:51.6085492+00:00",
-  "LastChanged_Achievements": "2023-10-17T12:05:23.9397354+00:00",
+  "LastChanged": "2023-10-17T13:06:11.7747359+00:00",
+  "LastChanged_Achievements": "2023-10-17T13:11:08.9981707+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:14.7785025+00:00",
-  "LastUpdate_Ratings": "2023-10-17T12:00:38.6909841+00:00",
-  "LastUpdate_Achievements": "2023-10-17T12:05:23.9398172+00:00"
+  "LastUpdate_Ratings": "2023-10-17T13:06:11.774737+00:00",
+  "LastUpdate_Achievements": "2023-10-17T13:11:08.9982475+00:00"
 }

@@ -295,7 +295,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1494,
+  "EOS_Progressed": 1495,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
@@ -3075,6 +3075,11 @@
       "Time": "2023-10-17T10:08:07.9244531+00:00",
       "NumProgressed": 1494,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-17T13:15:17.1099176+00:00",
+      "NumProgressed": 1495,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -3086,7 +3091,7 @@
       "Name": "Agent 47",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "Auditor",
@@ -3118,7 +3123,7 @@
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "Commandos",
@@ -3166,7 +3171,7 @@
       "Name": "E1M1",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "Everyone_is_here",
@@ -3270,7 +3275,7 @@
       "Name": "Bomberman",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "MoskitoBite",
@@ -3316,24 +3321,24 @@
       "ID": "Your_turn",
       "SetID": "85nb4h3",
       "Name": "Your Answer",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 209
+      "UsersEstimate": 224
     }
   ],
   "AchievementSets": [
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1494,
+      "Progressed": 1495,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-10-17T12:09:04.9911704+00:00",
+  "LastChanged_Achievements": "2023-10-17T13:15:17.1099169+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:40.4893349+00:00",
-  "LastUpdate_Ratings": "2023-10-17T11:59:27.8299226+00:00",
-  "LastUpdate_Achievements": "2023-10-17T12:09:04.9912361+00:00"
+  "LastUpdate_Ratings": "2023-10-17T13:05:22.7583089+00:00",
+  "LastUpdate_Achievements": "2023-10-17T13:15:17.1099575+00:00"
 }

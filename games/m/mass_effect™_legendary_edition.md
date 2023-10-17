@@ -41,8 +41,8 @@
 | The Convict | 37.00% | ~268 |
 | The Krogan | 37.00% | ~268 |
 | Completionist | 36.00% | ~260 |
+| Colony Defense | 36.00% | ~260 |
 | Galactic Explorer | 36.00% | ~260 |
-| Colony Defense | 35.00% | ~253 |
 | Broke, Blind, and Bedlam | 35.00% | ~253 |
 | Archivist | 34.00% | ~246 |
 | A Personal Touch | 33.00% | ~239 |
@@ -85,7 +85,7 @@
 | Savior | 23.00% | ~166 |
 | Pathfinder | 23.00% | ~166 |
 | Arbiter | 23.00% | ~166 |
-| Lost and Found | 22.00% | ~159 |
+| Lost and Found | 23.00% | ~166 |
 | Paramour II | 21.00% | ~152 |
 | Party Crasher | 21.00% | ~152 |
 | Pyromaniac | 20.00% | ~145 |

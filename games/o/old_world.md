@@ -21,6 +21,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Friendly Family | 2.00% | ~295 |
 | Hanging Gardens | 2.00% | ~295 |
 | Oracle | 2.00% | ~295 |
+| Naming Landmarks | 2.00% | ~295 |
 | Trade Caravan | 2.00% | ~295 |
 | Kushite Paganism | 2.00% | ~295 |
 | Ambitious | 1.00% | ~148 |
@@ -51,7 +52,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greek Paganism | 1.00% | ~148 |
 | Roman Paganism | 1.00% | ~148 |
 | Zoroastrianism | 1.00% | ~148 |
-| Naming Landmarks | 1.00% | ~148 |
 | Kushite Pyramids | 1.00% | ~148 |
 | Regicide | 0.90% | ~133 |
 | Great | 0.90% | ~133 |
@@ -154,6 +154,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Glorious Difficulty | 0.20% | ~30 |
 | Magnificent Difficulty | 0.20% | ~30 |
 | The Eternal Treaty | 0.20% | ~30 |
+| Five Routs | 0.20% | ~30 |
 | Assyria | 0.20% | ~30 |
 | Hatti | 0.20% | ~30 |
 | Persia | 0.20% | ~30 |
@@ -211,7 +212,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Et tu Brutus? | 0.10% | ~15 |
 | Event Level High | 0.10% | ~15 |
 | Battle of the Fertile Crescent | 0.10% | ~15 |
-| Five Routs | 0.10% | ~15 |
 | Game of the Week | 0.10% | ~15 |
 | Defend Where? | 0.10% | ~15 |
 | Run, Pheidippides, Run! | 0.10% | ~15 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,762 (Ranked 135)  
+Progressed: 14,763 (Ranked 135)  
 Completed: 5 (0.03%) (Ranked 284)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -529,7 +529,7 @@ Completed: 5 (0.03%) (Ranked 284)
 | 2023-10-14 | 14,699 | 5 |
 | 2023-10-15 | 14,732 | 5 |
 | 2023-10-16 | 14,747 | 5 |
-| 2023-10-17 | 14,762 | 5 |
+| 2023-10-17 | 14,763 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,842 (Ranked 210)  

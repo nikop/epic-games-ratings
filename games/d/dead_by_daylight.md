@@ -6,70 +6,70 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Handyman | 2.00% | ~18,901 |
-| Zealous | 2.00% | ~18,901 |
-| It wakes | 2.00% | ~18,901 |
-| Not half bad | 2.00% | ~18,901 |
-| Apt Survivor | 2.00% | ~18,901 |
-| Survival Treasures | 2.00% | ~18,901 |
-| Skillful | 2.00% | ~18,901 |
-| Make Some Noise | 2.00% | ~18,901 |
-| The Grand Sacrifice | 1.00% | ~9,450 |
-| Agonizing Escape | 1.00% | ~9,450 |
-| Backdoor Escape | 1.00% | ~9,450 |
-| I've got your back | 1.00% | ~9,450 |
-| No one left behind | 1.00% | ~9,450 |
-| Medic | 1.00% | ~9,450 |
-| Perfect Escape | 1.00% | ~9,450 |
-| Perfect Killing | 1.00% | ~9,450 |
-| Bloody Millionaire | 1.00% | ~9,450 |
-| I | 1.00% | ~9,450 |
-| Engineer | 1.00% | ~9,450 |
-| Sorted | 1.00% | ~9,450 |
-| Healthy Obsession | 1.00% | ~9,450 |
-| Resurgence | 1.00% | ~9,450 |
-| Close Shave | 1.00% | ~9,450 |
-| Preemptive Strike | 1.00% | ~9,450 |
-| Humanitarian | 1.00% | ~9,450 |
-| Nerves of steel | 0.90% | ~8,505 |
-| Risk it all | 0.90% | ~8,505 |
-| II | 0.90% | ~8,505 |
-| Wounded Healer | 0.90% | ~8,505 |
-| Apt Killer | 0.80% | ~7,560 |
-| Vulture | 0.80% | ~7,560 |
-| Second Act | 0.80% | ~7,560 |
-| III | 0.70% | ~6,615 |
-| With Scars to Show | 0.70% | ~6,615 |
-| Rebuilding The Borgo | 0.70% | ~6,615 |
-| Blood on your hands | 0.60% | ~5,670 |
-| Escape Artist | 0.60% | ~5,670 |
-| Made it out alive! | 0.60% | ~5,670 |
-| Near-Death Experience | 0.60% | ~5,670 |
-| Cherish your Life | 0.60% | ~5,670 |
-| Unforgettable Getaway | 0.60% | ~5,670 |
-| First to the Punch | 0.60% | ~5,670 |
-| Every Last Drop | 0.60% | ~5,670 |
-| Raccoon City Recruit | 0.60% | ~5,670 |
-| Flight to Freedom | 0.60% | ~5,670 |
-| A Fast Death | 0.60% | ~5,670 |
-| Chorus of Chaos | 0.60% | ~5,670 |
-| Gifts for the Fog | 0.50% | ~4,725 |
-| III-50 | 0.50% | ~4,725 |
-| Shock Therapy | 0.50% | ~4,725 |
-| All Aboard | 0.50% | ~4,725 |
-| Item of Obsession | 0.50% | ~4,725 |
-| House of Pain | 0.50% | ~4,725 |
-| Cottage Owner | 0.50% | ~4,725 |
-| Holiday Get-Together | 0.50% | ~4,725 |
-| Campbell's Chapel Legacy | 0.50% | ~4,725 |
-| Cutting Out | 0.50% | ~4,725 |
-| Outrun Evil | 0.50% | ~4,725 |
-| Operation: Survival | 0.50% | ~4,725 |
-| Old West Oasis | 0.50% | ~4,725 |
-| Classy Act | 0.50% | ~4,725 |
-| Lifting The Fog | 0.50% | ~4,725 |
-| One More Step | 0.50% | ~4,725 |
-| MU/TH/UR Dearest | 0.50% | ~4,725 |
+| Handyman | 2.00% | ~18,902 |
+| Zealous | 2.00% | ~18,902 |
+| It wakes | 2.00% | ~18,902 |
+| Not half bad | 2.00% | ~18,902 |
+| Apt Survivor | 2.00% | ~18,902 |
+| Survival Treasures | 2.00% | ~18,902 |
+| Skillful | 2.00% | ~18,902 |
+| Make Some Noise | 2.00% | ~18,902 |
+| The Grand Sacrifice | 1.00% | ~9,451 |
+| Agonizing Escape | 1.00% | ~9,451 |
+| Backdoor Escape | 1.00% | ~9,451 |
+| I've got your back | 1.00% | ~9,451 |
+| No one left behind | 1.00% | ~9,451 |
+| Medic | 1.00% | ~9,451 |
+| Perfect Escape | 1.00% | ~9,451 |
+| Perfect Killing | 1.00% | ~9,451 |
+| Bloody Millionaire | 1.00% | ~9,451 |
+| I | 1.00% | ~9,451 |
+| Engineer | 1.00% | ~9,451 |
+| Sorted | 1.00% | ~9,451 |
+| Healthy Obsession | 1.00% | ~9,451 |
+| Resurgence | 1.00% | ~9,451 |
+| Close Shave | 1.00% | ~9,451 |
+| Preemptive Strike | 1.00% | ~9,451 |
+| Humanitarian | 1.00% | ~9,451 |
+| Nerves of steel | 0.90% | ~8,506 |
+| Risk it all | 0.90% | ~8,506 |
+| II | 0.90% | ~8,506 |
+| Wounded Healer | 0.90% | ~8,506 |
+| Apt Killer | 0.80% | ~7,561 |
+| Vulture | 0.80% | ~7,561 |
+| Second Act | 0.80% | ~7,561 |
+| III | 0.70% | ~6,616 |
+| With Scars to Show | 0.70% | ~6,616 |
+| Rebuilding The Borgo | 0.70% | ~6,616 |
+| Blood on your hands | 0.60% | ~5,671 |
+| Escape Artist | 0.60% | ~5,671 |
+| Made it out alive! | 0.60% | ~5,671 |
+| Near-Death Experience | 0.60% | ~5,671 |
+| Cherish your Life | 0.60% | ~5,671 |
+| Unforgettable Getaway | 0.60% | ~5,671 |
+| First to the Punch | 0.60% | ~5,671 |
+| Every Last Drop | 0.60% | ~5,671 |
+| Raccoon City Recruit | 0.60% | ~5,671 |
+| Flight to Freedom | 0.60% | ~5,671 |
+| A Fast Death | 0.60% | ~5,671 |
+| Chorus of Chaos | 0.60% | ~5,671 |
+| Gifts for the Fog | 0.50% | ~4,726 |
+| III-50 | 0.50% | ~4,726 |
+| Shock Therapy | 0.50% | ~4,726 |
+| All Aboard | 0.50% | ~4,726 |
+| Item of Obsession | 0.50% | ~4,726 |
+| House of Pain | 0.50% | ~4,726 |
+| Cottage Owner | 0.50% | ~4,726 |
+| Holiday Get-Together | 0.50% | ~4,726 |
+| Campbell's Chapel Legacy | 0.50% | ~4,726 |
+| Cutting Out | 0.50% | ~4,726 |
+| Outrun Evil | 0.50% | ~4,726 |
+| Operation: Survival | 0.50% | ~4,726 |
+| Old West Oasis | 0.50% | ~4,726 |
+| Classy Act | 0.50% | ~4,726 |
+| Lifting The Fog | 0.50% | ~4,726 |
+| One More Step | 0.50% | ~4,726 |
+| MU/TH/UR Dearest | 0.50% | ~4,726 |
 | A bite for the Entity | 0.40% | ~3,780 |
 | Blood on your face | 0.40% | ~3,780 |
 | Jump Scares | 0.40% | ~3,780 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~945 |
 | Adept Ripley | 0.10% | ~945 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 945,030 (Ranked 14)  
+Progressed: 945,106 (Ranked 14)  
 Completed: 51 (0.01%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -416,10 +416,10 @@ Completed: 51 (0.01%) (Ranked 297)
 | 2023-10-14 | 939,759 | 50 |
 | 2023-10-15 | 942,498 | 51 |
 | 2023-10-16 | 944,360 | 51 |
-| 2023-10-17 | 945,030 | 51 |
+| 2023-10-17 | 945,106 | 51 |
 ## Awards
 Max (Diverse Characters): 34,006  (Ranked 15)  
-Sum: 262,995 (Ranked 13)  
+Sum: 263,015 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -429,7 +429,7 @@ Diff (max vs sum): 2
 | This game has Competitive Players | 29,679 |
 | This game is Extremely Fun | 29,364 |
 | This game has Challenging Combat | 28,953 |
-| This game has Quickly Understood Controls | 28,822 |
+| This game has Quickly Understood Controls | 28,842 |
 | This game has Amazing Storytelling | 26,975 |
 | This game has a Competitive Community | 25,463 |
 | This game has Obsessive Gameplay | 16,768 |
@@ -703,4 +703,4 @@ Diff (max vs sum): 2
 | 2023-10-14 | 4.51 | - | 33,877 | 262,341 |
 | 2023-10-15 | 4.51 | - | 33,934 | 262,670 |
 | 2023-10-16 | 4.51 | - | 33,980 | 262,969 |
-| 2023-10-17 | 4.51 | - | 34,006 | 262,995 |
+| 2023-10-17 | 4.51 | - | 34,006 | 263,015 |

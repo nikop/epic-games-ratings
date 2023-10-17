@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -2131,9 +2131,9 @@
       "ID": "AC05",
       "SetID": "l4abp0",
       "Name": "The Sharpest Tool in the Shed",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 610
+      "UsersEstimate": 619
     },
     {
       "ID": "AC06",
@@ -2468,8 +2468,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-10-10T02:57:43.7078143+00:00",
-  "LastChanged_Achievements": "2023-10-17T12:07:11.8303397+00:00",
+  "LastChanged_Achievements": "2023-10-17T13:12:26.8383043+00:00",
   "LastUpdate_AppInfo": "2023-10-10T20:57:16.6962643+00:00",
-  "LastUpdate_Ratings": "2023-10-17T12:01:15.6009828+00:00",
-  "LastUpdate_Achievements": "2023-10-17T12:07:11.8304172+00:00"
+  "LastUpdate_Ratings": "2023-10-17T13:06:35.7398565+00:00",
+  "LastUpdate_Achievements": "2023-10-17T13:12:26.8383567+00:00"
 }

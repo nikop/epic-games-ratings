@@ -783,9 +783,9 @@
       "Count": 98
     }
   ],
-  "EOS_Progressed": 224950,
+  "EOS_Progressed": 224956,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 553,
+  "EOS_NewPlayers": 556,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20403,6 +20403,11 @@
       "Time": "2023-10-17T12:07:18.9141212+00:00",
       "NumProgressed": 224950,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-17T13:12:31.8752417+00:00",
+      "NumProgressed": 224956,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -20414,7 +20419,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 42740
+      "UsersEstimate": 42742
     },
     {
       "ID": "ACH_BASE_10",
@@ -20422,7 +20427,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 58487
+      "UsersEstimate": 58489
     },
     {
       "ID": "ACH_BASE_11",
@@ -20462,7 +20467,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 22495
+      "UsersEstimate": 22496
     },
     {
       "ID": "ACH_BASE_17",
@@ -20502,7 +20507,7 @@
       "Name": "Legio Cybernetica",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 6748
+      "UsersEstimate": 6749
     },
     {
       "ID": "ACH_BASE_21",
@@ -20638,7 +20643,7 @@
       "Name": "Fleshy Disposal",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 6748
+      "UsersEstimate": 6749
     },
     {
       "ID": "ACH_BASE_5",
@@ -20662,7 +20667,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 26994
+      "UsersEstimate": 26995
     },
     {
       "ID": "ACH_BASE_8",
@@ -20685,7 +20690,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 224950,
+      "Progressed": 224956,
       "Completed": 5
     }
   ],
@@ -20693,8 +20698,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-10-15T07:04:04.0148832+00:00",
-  "LastChanged_Achievements": "2023-10-17T12:07:18.9141205+00:00",
+  "LastChanged_Achievements": "2023-10-17T13:12:31.8752412+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:01.3902355+00:00",
-  "LastUpdate_Ratings": "2023-10-17T12:03:13.0015432+00:00",
-  "LastUpdate_Achievements": "2023-10-17T12:07:18.9143892+00:00"
+  "LastUpdate_Ratings": "2023-10-17T13:09:14.1411602+00:00",
+  "LastUpdate_Achievements": "2023-10-17T13:12:31.8754184+00:00"
 }
