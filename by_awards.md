@@ -70,7 +70,7 @@
 | 68 | [Rogue Company](games/r/rogue_company.md) | 5,549 | 4.32 | 799 |
 | 69 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,406 | 4.06 | 953 |
 | 70 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 5,194 | 4.69 | 222 |
-| 71 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4,817 | 4.68 | 240 |
+| 71 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4,834 | 4.68 | 240 |
 | 72 | [Shop Titans](games/s/shop_titans.md) | 4,790 | 3.99 | 970 |
 | 73 | [Chivalry 2](games/c/chivalry_2.md) | 4,755 | 4.60 | 399 |
 | 74 | [MultiVersus](games/m/multiversus.md) | 4,748 | 4.56 | 473 |
@@ -92,8 +92,8 @@
 | 90 | [Gloomhaven](games/g/gloomhaven.md) | 3,554 | 4.47 | 621 |
 | 91 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,371 | 4.68 | 240 |
 | 92 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,359 | 4.76 | 118 |
-| 93 | [Hades](games/h/hades.md) | 3,315 | 4.92 | 4 |
-| 94 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,314 | 4.57 | 455 |
+| 93 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,317 | 4.57 | 455 |
+| 94 | [Hades](games/h/hades.md) | 3,315 | 4.92 | 4 |
 | 95 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2,988 | 4.49 | 591 |
 | 96 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,877 | 4.50 | 573 |
 | 97 | [Gotham Knights](games/g/gotham_knights.md) | 2,834 | 4.18 | 899 |

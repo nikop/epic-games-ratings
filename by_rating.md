@@ -4,7 +4,7 @@
 | 1 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.96 | 0 | 537 |
 | 3 | [Raini: The Lords of Light](games/5/5efded9de1d049758206a501425d8209.md) | 4.94 | 0 | 537 |
 | 4 | [Celeste](games/c/celeste.md) | 4.92 | 1,655 | 121 |
-| 4 | [Hades](games/h/hades.md) | 4.92 | 3,315 | 93 |
+| 4 | [Hades](games/h/hades.md) | 4.92 | 3,315 | 94 |
 | 6 | [Mago](games/m/mago.md) | 4.90 | 0 | 537 |
 | 6 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 0 | 537 |
 | 6 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,913 | 112 |
@@ -247,7 +247,7 @@
 | 240 | [CARRION](games/c/carrion.md) | 4.68 | 0 | 537 |
 | 240 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,462 | 51 |
 | 240 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,987 | 84 |
-| 240 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 4,817 | 71 |
+| 240 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 4,834 | 71 |
 | 240 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.68 | 0 | 537 |
 | 240 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 310,359 | 3 |
 | 240 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 243,614 | 4 |
@@ -462,7 +462,7 @@
 | 455 | [Little Inferno](games/l/little_inferno.md) | 4.57 | 0 | 537 |
 | 455 | [Minit](games/m/minit.md) | 4.57 | 0 | 537 |
 | 455 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 8,040 | 45 |
-| 455 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,314 | 94 |
+| 455 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,317 | 93 |
 | 455 | [Risen](games/r/risen.md) | 4.57 | 0 | 537 |
 | 455 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.57 | 0 | 537 |
 | 455 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 4.57 | 0 | 537 |
