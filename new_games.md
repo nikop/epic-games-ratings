@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [MoeSpotter - Uncover the Maiden Mysteries](games/1/116097a2f8714d75beba578033182d94.md) | 2023-10-17 | - |  | - | - |
 | [Sonic Superstars](games/f/f11d27ea453b4ea4a6494ffbe0361482.md) | 2023-10-17 | - |  | - | 0 |
 | [XR22-SEAGUARD](games/a/a7a640d2ef344fe981c58f45405d1e2e.md) | 2023-10-16 | - |  | - | - |
 | [Night Loops](games/n/night_loops.md) | 2023-10-16 | - |  | - | 0 |
@@ -25,7 +26,7 @@
 | [Another Earth](games/6/67731d377b774fb8a09ce635295b2d66.md) | 2023-10-13 | - |  | - | - |
 | [Survive on Raft](games/s/survive_on_raft.md) | 2023-10-12 | 36 (1,000 XP) | 2 | - | 0 |
 | [Dwerve](games/5/5c5879f971c54d49a584be96ac0f4b49.md) | 2023-10-12 | - |  | - | 0 |
-| [Blazing Sails](games/b/blazing_sails.md) | 2023-10-12 | - |  | 3.71 | 0 |
+| [Blazing Sails](games/b/blazing_sails.md) | 2023-10-12 | - |  | 3.72 | 0 |
 | [Moons of Ardan](games/8/820b1fcc8d6c46e59d7ae15218b06834.md) | 2023-10-12 | - |  | - | 0 |
 | [Haunted House](games/8/81970ccb964d4720adccf2e2244fe754.md) | 2023-10-12 | 25 (1,000 XP) | 1 | - | - |
 | [The Front](games/t/the_front.md) | 2023-10-11 | - |  | 4.18 | 0 |
@@ -50,7 +51,7 @@
 | [The Bunny Graveyard](games/t/the_bunny_graveyard.md) | 2023-10-06 | - |  | - | 0 |
 | [Metamorphosis](games/a/a8f1b444a68b4d82803dd7f5374bcd42.md) | 2023-10-05 | 26 (1,000 XP) | 0 | - | - |
 | [Gangster City Mafia Car Driving](games/e/e9c6fc0301c343698000c0906395b337.md) | 2023-10-05 | - |  | - | 0 |
-| [Assassin's Creed® Mirage](games/a/assassin's_creed®_mirage.md) | 2023-10-05 | - |  | 4.45 | 56 |
+| [Assassin's Creed® Mirage](games/a/assassin's_creed®_mirage.md) | 2023-10-05 | - |  | 4.45 | 58 |
 | [Asterix and Obelix Heroes](games/b/be7cf2a479094ae88f605dd9f77430cf.md) | 2023-10-05 | 22 (1,000 XP) | 3 | - | - |
 | [Knight vs Giant: The Broken Excalibur](games/9/973549a03a1441058badf7a1bc8b565d.md) | 2023-10-05 | 25 (1,000 XP) | 2 | - | 0 |
 | [The Sisters 2 - Road to Fame](games/4/4bef38b70f4a4b6ea0d9ebbfe3e517dd.md) | 2023-10-05 | 43 (1,000 XP) | 0 | - | - |
@@ -102,18 +103,18 @@
 | [Joyville](games/8/828033f9503242d5aded3a1a0f3d3c91.md) | 2023-09-29 | - |  | - | 0 |
 | [LightBear](games/f/fedab10441d74c6ba206fd112d6049e2.md) | 2023-09-29 | - |  | - | - |
 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 2023-09-29 | 30 (1,000 XP) | 8 | - | 0 |
-| [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 2023-09-29 | 40 (1,000 XP) | 44,984 | 4.36 | 90 |
+| [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 2023-09-29 | 40 (1,000 XP) | 44,998 | 4.36 | 90 |
 | [Diluvian Ultra](games/d/diluvian_ultra.md) | 2023-09-28 | - |  | - | 0 |
 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 2023-09-28 | 10 (1,000 XP) | 405 | - | 0 |
 | [Inspector Gadget - Mad Time Party](games/i/inspector_gadget_-_mad_time_party.md) | 2023-09-28 | 11 (1,000 XP) | 1 | - | - |
-| [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 2023-09-28 | 40 (1,000 XP) | 277,372 | 4.17 | 31 |
+| [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 2023-09-28 | 40 (1,000 XP) | 277,470 | 4.17 | 31 |
 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 2023-09-28 | 77 (1,000 XP) | 21 | - | 0 |
 | [Afterdream](games/3/35a8b1e4591b4348a302b12ba5d9ff9b.md) | 2023-09-28 | - |  | - | - |
 | [CyberTD](games/a/adab489f8cd8435aa1e0afe1463ec550.md) | 2023-09-28 | 42 (1,000 XP) | 12 | - | 0 |
-| [Disney Speedstorm](games/d/disney_speedstorm.md) | 2023-09-28 | 24 (1,000 XP) | 231,246 | 4.41 | 28 |
+| [Disney Speedstorm](games/d/disney_speedstorm.md) | 2023-09-28 | 24 (1,000 XP) | 231,334 | 4.41 | 28 |
 | [Dolphin Spirit - Ocean Mission](games/d/dolphin_spirit_-_ocean_mission.md) | 2023-09-28 | 32 (1,000 XP) | 18 | - | 0 |
-| [Overpass 2](games/e/e7a7820e516744b88212c1f78aa895df.md) | 2023-09-28 | 28 (1,000 XP) | 156 | - | 0 |
-| [The Riflemen](games/t/the_riflemen.md) | 2023-09-28 | 14 (1,000 XP) | 24,431 | - | 0 |
+| [Overpass 2](games/e/e7a7820e516744b88212c1f78aa895df.md) | 2023-09-28 | 28 (1,000 XP) | 157 | - | 0 |
+| [The Riflemen](games/t/the_riflemen.md) | 2023-09-28 | 14 (1,000 XP) | 24,450 | - | 0 |
 | [World Eternal Online](games/w/world_eternal_online.md) | 2023-09-27 | - |  | - | 0 |
 | [The Crackpet Show: Happy Tree Friends Edition](games/a/ab4adb59faed46819e63d82b57197b2b.md) | 2023-09-27 | 82 (1,000 XP) | 15 | - | 0 |
 | [Danghost](games/6/66b12faffa204da39bda39d087789944.md) | 2023-09-27 | 66 (1,000 XP) | 0 | - | - |
@@ -142,7 +143,7 @@
 | [Astrea Six Sided Oracles](games/a/astrea_six_sided_oracles.md) | 2023-09-21 | 80 (1,000 XP) | 58 | - | 0 |
 | [Operation Wolf Returns: First Mission VR](games/o/operation_wolf.md) | 2023-09-21 | - |  | - | - |
 | [PAYDAY 3](games/8/8962863aee2f4e7483fc37d4719c3f69.md) | 2023-09-21 | - |  | 4.00 | 0 |
-| [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 2023-09-21 | 9 (1,000 XP) | 83,401 | 4.41 | 0 |
+| [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 2023-09-21 | 9 (1,000 XP) | 83,426 | 4.41 | 0 |
 | [Deadwater Saloon](games/0/0011a38fecb741dc9923879a4f490d42.md) | 2023-09-21 | 64 (1,000 XP) | 4 | - | 0 |
 | [CubeGate](games/6/60ec54354d8b4e45a826f3f90a515c75.md) | 2023-09-21 | 21 (1,000 XP) | 1 | - | - |
 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 2023-09-21 | 15 (1,000 XP) | 9 | - | 0 |
@@ -150,7 +151,7 @@
 | [My Pet Hooligan](games/e/ef233d1e2619445a887f0380266aa4b5.md) | 2023-09-20 | - |  | 4.41 | 0 |
 | [Evil Wizard](games/6/663ea0c5bcaa43fc8127b466ac781ac5.md) | 2023-09-20 | - |  | - | 0 |
 | [Witchfire](games/w/witchfire.md) | 2023-09-20 | - |  | 4.63 | 36 |
-| [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 2023-09-19 | 50 (1,000 XP) | 7,716 | 4.46 | 1,176 |
+| [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 2023-09-19 | 50 (1,000 XP) | 7,720 | 4.46 | 1,176 |
 | [The Legend of Nayuta: Boundless Trails](games/t/the_legend_of_nayuta__boundless_trails.md) | 2023-09-19 | - |  | - | 0 |
 | [Generative Quest](games/b/bf62490d4c7d476980a52286c5554f6e.md) | 2023-09-18 | - |  | - | 0 |
 | [Extreme Car Drift Simulator](games/0/0ad395f34c624cefa1162276e36bd5a1.md) | 2023-09-18 | - |  | - | 0 |

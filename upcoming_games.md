@@ -12,6 +12,7 @@
 | [Agatha Christie - Murder on the Orient Express](games/b/b1c68be50f37489ca95ff2b7ed616490.md) | 2023-10-19 | 27 (1,000 XP) | 1 | - | - |
 | [ENDLESS™ Dungeon](games/e/endless™_dungeon.md) | 2023-10-19 | - |  | - | - |
 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 2023-10-19 | - |  | - | - |
+| [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 2023-10-19 | 42 (1,000 XP) | 5 | - | - |
 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 2023-10-19 | 43 (1,000 XP) | 18 | - | - |
 | [Forgive Me Father 2](games/f/forgive_me_father_2.md) | 2023-10-19 | - |  | - | - |
 | [Sensorium Galaxy](games/3/32dfe2fe49964b24ab76ea559bfeea40.md) | 2023-10-20 | - |  | - | - |
@@ -25,7 +26,7 @@
 | [Desktop Girlfriend NEO](games/e/e9e51dd0d086464a9a794d9cfa7da123.md) | 2023-10-25 | 93 (1,000 XP) | 0 | - | - |
 | [DINOSAURS: Mission Dino Camp](games/2/20938450f73b48a9bb1a5243bcac965b.md) | 2023-10-26 | - |  | - | - |
 | [Hamster on Rails](games/f/fd4730080e1b408dac0303a255fcc3dd.md) | 2023-10-26 | - |  | - | - |
-| [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 2023-10-26 | - |  | - | - |
+| [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 2023-10-26 | 34 (1,000 XP) | 0 | - | - |
 | [Birch Simulator](games/9/9d986837984c476195398f37ba7446dd.md) | 2023-10-26 | - |  | - | - |
 | [Blood Hunting](games/8/88aebfec9a96482d99f442a9535e2963.md) | 2023-10-27 | - |  | - | - |
 | [Alan Wake 2](games/a/alan_wake_2.md) | 2023-10-27 | - |  | - | 0 |
@@ -185,7 +186,7 @@
 | [Eternal Exodus](games/e/e54a925435924e42ab3cd20f584d6e14.md) | 2024-05-31 | - |  | - | - |
 | [SpectralClimb](games/6/6120f91f9281420e818d6298ccd09772.md) | 2024-06-28 | - |  | - | - |
 | [Elders Grace - Unchained](games/d/d975114b43134558aa8413af2a0918c6.md) | 2024-06-30 | - |  | - | - |
-| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 68,782 | - | - |
+| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 68,793 | - | - |
 | [Monospaced Lovers](games/e/e73367d384634d11975effc86569bc47.md) | 2024-06-30 | - |  | - | - |
 | [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
 | [Rise of the Robots X - Early access](games/d/d065c8442524400dac2e0e9674a68732.md) | 2024-06-30 | - |  | - | - |

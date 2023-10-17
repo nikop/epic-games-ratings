@@ -281,6 +281,7 @@
 | [Geometric Sniper - Z](../games/7/706577b22cbb4ab38611e2c97e03a800.md) | 50 | 1,000 |
 | [Get Together: A Coop Adventure](../games/g/get_together__a_coop_adventure.md) | 10 | 1,000 |
 | [Ghostbusters: Spirits Unleashed](../games/g/ghostbusters__spirits_unleashed.md) | 51 | 1,000 |
+| [Ghostrunner 2](../games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 34 | 1,000 |
 | [Gigapocalypse](../games/g/gigapocalypse.md) | 53 | 1,000 |
 | [GINSHA](../games/f/f63608bdb9234e0cbfb6d7f81e96d33c.md) | 23 | 1,000 |
 | [Gloomhaven](../games/g/gloomhaven.md) | 61 | 1,000 |
@@ -362,6 +363,7 @@
 | [Kingdom Come: Deliverance](../games/k/kingdom_come__deliverance.md) | 82 | 1,000 |
 | [Kingdom Rush Vengeance](../games/c/c0d2e8a180624787be1c4c6386493796.md) | 77 | 1,000 |
 | [Knight vs Giant: The Broken Excalibur](../games/9/973549a03a1441058badf7a1bc8b565d.md) | 25 | 1,000 |
+| [Laika: Aged Through Blood](../games/6/64f5543ade2942d59ae4e0321915e0da.md) | 42 | 1,000 |
 | [Lamentum](../games/l/lamentum.md) | 19 | 1,000 |
 | [laserlemon Production](../games/l/laserlemon_production.md) | 22 | 1,000 |
 | [Last Labyrinth](../games/6/63e942fbfc8e40a5af2f7749a8cbcc09.md) | 35 | 1,000 |

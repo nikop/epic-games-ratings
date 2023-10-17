@@ -2,7 +2,7 @@
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 66.67% |
-| 3 | [The Riflemen](games/t/the_riflemen.md) | 48.13% |
+| 3 | [The Riflemen](games/t/the_riflemen.md) | 48.09% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.15% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.99% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
@@ -49,7 +49,7 @@
 | 47 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.33% |
 | 48 | [Time Loader](games/t/time_loader.md) | 7.20% |
 | 49 | [Scorn](games/s/scorn.md) | 7.01% |
-| 50 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.64% |
+| 50 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.60% |
 | 51 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.38% |
 | 52 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.29% |
 | 53 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -74,7 +74,7 @@
 | 72 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 3.95% |
 | 73 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.81% |
 | 74 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
-| 75 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.65% |
+| 75 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.63% |
 | 76 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.58% |
 | 77 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
 | 78 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
@@ -475,6 +475,7 @@
 | 315 | [KeyWe](games/k/keywe.md) | 0.00% |
 | 315 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 0.00% |
 | 315 | [Knight vs Giant: The Broken Excalibur](games/9/973549a03a1441058badf7a1bc8b565d.md) | 0.00% |
+| 315 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 0.00% |
 | 315 | [laserlemon Production](games/l/laserlemon_production.md) | 0.00% |
 | 315 | [Last Labyrinth](games/6/63e942fbfc8e40a5af2f7749a8cbcc09.md) | 0.00% |
 | 315 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 0.00% |
@@ -669,4 +670,4 @@
 | 315 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 315 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 315 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,404 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,405 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |

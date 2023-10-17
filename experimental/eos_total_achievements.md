@@ -234,6 +234,7 @@
 | [Elemental War 2](../games/9/97c2829c7b9047a7bf8657d7c5f87765.md) | 42 | 1,000 |
 | [Fly Corp](../games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 42 | 1,000 |
 | [HORSE CLUB Adventures 2 - Hazelwood Stories](../games/f/f03926dee08f4c29b20d907c4cb5f9e4.md) | 42 | 1,000 |
+| [Laika: Aged Through Blood](../games/6/64f5543ade2942d59ae4e0321915e0da.md) | 42 | 1,000 |
 | [Love Is All Around](../games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 42 | 1,000 |
 | [Midnight Ghost Hunt](../games/9/964f58c4c2074404bf9c359483ab1a48.md) | 42 | 1,000 |
 | [Outward Definitive Edition](../games/o/outward.md) | 42 | 1,000 |
@@ -327,6 +328,7 @@
 | [Elypse](../games/e/elypse.md) | 34 | 1,000 |
 | [Fall Guys](../games/f/fall_guys.md) | 34 | 1,000 |
 | [Forest Fire](../games/6/6a249c368e9a4ad99bbdfe23997f26ba.md) | 34 | 1,000 |
+| [Ghostrunner 2](../games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 34 | 1,000 |
 | [Grand Theft Auto: Vice City – The Definitive Edition](../games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 34 | 1,000 |
 | [Homeworld Remastered Collection](../games/4/4311a0ee99724086b1a4f261b827d038.md) | 34 | 1,000 |
 | [Ragnarok Survivors Valhalla](../games/3/377c7afca797475bb73be258c94f82ea.md) | 34 | 1,000 |
