@@ -2,7 +2,7 @@
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 66.67% |
-| 3 | [The Riflemen](games/t/the_riflemen.md) | 48.29% |
+| 3 | [The Riflemen](games/t/the_riflemen.md) | 48.28% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.15% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.99% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
@@ -64,7 +64,7 @@
 | 62 | [JARS](games/j/jars.md) | 4.82% |
 | 63 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
 | 64 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.76% |
-| 65 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.73% |
+| 65 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.72% |
 | 66 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.55% |
 | 67 | [ZZT!](games/z/zzt!.md) | 4.47% |
 | 68 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.44% |
@@ -74,8 +74,8 @@
 | 72 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 3.95% |
 | 73 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.81% |
 | 74 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
-| 75 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.60% |
-| 76 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.59% |
+| 75 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.59% |
+| 75 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.59% |
 | 77 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
 | 78 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 79 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.45% |
@@ -215,9 +215,9 @@
 | 213 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.26% |
 | 214 | [Filament](games/f/filament.md) | 0.25% |
 | 215 | [Aegis Descent](games/a/aegis_descent.md) | 0.24% |
-| 215 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.24% |
 | 215 | [Scrapnaut](games/s/scrapnaut.md) | 0.24% |
-| 218 | [Despot's Game](games/d/despot's_game.md) | 0.23% |
+| 217 | [Despot's Game](games/d/despot's_game.md) | 0.23% |
+| 217 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.23% |
 | 219 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.22% |
 | 219 | [Going Medieval](games/g/going_medieval.md) | 0.22% |
 | 221 | [Blanc](games/b/blanc.md) | 0.21% |

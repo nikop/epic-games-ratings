@@ -100,7 +100,7 @@
 | 98 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.78 | 0 | 537 |
 | 98 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.78 | 51 | 411 |
 | 98 | [Dishonored 2](games/d/dishonored_2.md) | 4.78 | 561 | 198 |
-| 98 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 10,333 | 38 |
+| 98 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 10,344 | 38 |
 | 98 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.78 | 0 | 537 |
 | 98 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,431 | 104 |
 | 98 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 1,574 | 122 |
@@ -253,7 +253,7 @@
 | 240 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 243,614 | 4 |
 | 240 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 537 |
 | 240 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.68 | 0 | 537 |
-| 240 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 572 | 193 |
+| 240 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 573 | 193 |
 | 240 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 695 | 179 |
 | 240 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.68 | 0 | 537 |
 | 240 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.68 | 0 | 537 |
@@ -456,7 +456,7 @@
 | 437 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,535 | 26 |
 | 455 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 0 | 537 |
 | 455 | [Among Us](games/a/among_us.md) | 4.57 | 2,738 | 99 |
-| 455 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 9,536 | 40 |
+| 455 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 9,544 | 40 |
 | 455 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.57 | 0 | 537 |
 | 455 | [Hob](games/h/hob.md) | 4.57 | 0 | 537 |
 | 455 | [Little Inferno](games/l/little_inferno.md) | 4.57 | 0 | 537 |
@@ -555,7 +555,7 @@
 | 551 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,138 | 81 |
 | 551 | [CryoFall](games/c/cryofall.md) | 4.51 | 0 | 537 |
 | 551 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 0 | 537 |
-| 551 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.51 | 33,980 | 15 |
+| 551 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.51 | 34,006 | 15 |
 | 551 | [Duskers](games/d/duskers.md) | 4.51 | 0 | 537 |
 | 551 | [Fall Guys](games/f/fall_guys.md) | 4.51 | 150,154 | 7 |
 | 551 | [Far Cry](games/f/far_cry.md) | 4.51 | 28 | 483 |
@@ -610,7 +610,6 @@
 | 607 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.48 | 0 | 537 |
 | 607 | [First Class Trouble](games/f/first_class_trouble.md) | 4.48 | 136 | 315 |
 | 607 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.48 | 38 | 446 |
-| 607 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.48 | 0 | 537 |
 | 607 | [Redout 2](games/r/redout_2.md) | 4.48 | 0 | 537 |
 | 607 | [Rocket League®](games/r/rocket_league®.md) | 4.48 | 579,048 | 2 |
 | 607 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.48 | 0 | 537 |
@@ -620,12 +619,13 @@
 | 607 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.48 | 8,252 | 44 |
 | 607 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 0 | 537 |
 | 607 | [Train Valley](games/t/train_valley.md) | 4.48 | 0 | 537 |
-| 621 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 0 | 537 |
-| 621 | [Faeria](games/f/faeria.md) | 4.47 | 113 | 334 |
-| 621 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.47 | 0 | 537 |
-| 621 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,554 | 90 |
-| 621 | [Riverbond](games/r/riverbond.md) | 4.47 | 20 | 530 |
-| 621 | [The Escapists](games/t/the_escapists.md) | 4.47 | 0 | 537 |
+| 620 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 0 | 537 |
+| 620 | [Faeria](games/f/faeria.md) | 4.47 | 113 | 334 |
+| 620 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.47 | 0 | 537 |
+| 620 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,554 | 90 |
+| 620 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.47 | 0 | 537 |
+| 620 | [Riverbond](games/r/riverbond.md) | 4.47 | 20 | 530 |
+| 620 | [The Escapists](games/t/the_escapists.md) | 4.47 | 0 | 537 |
 | 627 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 0 | 537 |
 | 627 | [ATOM RPG](games/a/atom_rpg.md) | 4.46 | 50 | 415 |
 | 627 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,634 | 89 |
@@ -897,15 +897,15 @@
 | 893 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 78 | 376 |
 | 893 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 537 |
 | 893 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 76 | 380 |
-| 893 | [The Front](games/t/the_front.md) | 4.19 | 0 | 537 |
 | 893 | [Windbound](games/w/windbound.md) | 4.19 | 0 | 537 |
-| 900 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 0 | 537 |
-| 900 | [Gone Home](games/g/gone_home.md) | 4.18 | 0 | 537 |
-| 900 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,834 | 97 |
-| 900 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.18 | 25 | 504 |
-| 900 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 207,102 | 5 |
-| 900 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 354 |
-| 900 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 0 | 537 |
+| 899 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 0 | 537 |
+| 899 | [Gone Home](games/g/gone_home.md) | 4.18 | 0 | 537 |
+| 899 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,834 | 97 |
+| 899 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.18 | 25 | 504 |
+| 899 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 207,102 | 5 |
+| 899 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 354 |
+| 899 | [The Front](games/t/the_front.md) | 4.18 | 0 | 537 |
+| 899 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 0 | 537 |
 | 907 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.17 | 94 | 357 |
 | 907 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 4.17 | 20 | 530 |
 | 907 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 4.17 | 31 | 474 |
