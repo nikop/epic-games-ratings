@@ -2362,10 +2362,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2398,
       "NumberOfAwardsMax": 264
+    },
+    {
+      "Time": "2023-10-17T01:43:20.479306+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2399,
+      "NumberOfAwardsMax": 264
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2398,
+  "NumberOfAwards": 2399,
   "NumberOfAwardsMax": 264,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2433,7 +2439,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 242
+      "Count": 243
     },
     {
       "Text": "This game has Playful Visuals",
@@ -2442,9 +2448,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26538,
+  "EOS_Progressed": 26541,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 222,
+  "EOS_NewPlayers": 225,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -15167,6 +15173,11 @@
       "Time": "2023-10-17T00:05:24.5439805+00:00",
       "NumProgressed": 26538,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-10-17T01:47:22.4004473+00:00",
+      "NumProgressed": 26541,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 51,
@@ -15432,9 +15443,9 @@
       "ID": "Rivalry",
       "SetID": "819popo",
       "Name": "Rivalry",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 133
     },
     {
       "ID": "Seasoned",
@@ -15585,16 +15596,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26538,
+      "Progressed": 26541,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-10-16T20:00:27.7611591+00:00",
-  "LastChanged_Achievements": "2023-10-17T00:05:24.5439798+00:00",
+  "LastChanged": "2023-10-17T01:43:20.4793057+00:00",
+  "LastChanged_Achievements": "2023-10-17T01:47:22.4004465+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:17.9420656+00:00",
-  "LastUpdate_Ratings": "2023-10-17T00:00:45.6049316+00:00",
-  "LastUpdate_Achievements": "2023-10-17T00:05:24.5441524+00:00"
+  "LastUpdate_Ratings": "2023-10-17T01:43:20.4793068+00:00",
+  "LastUpdate_Achievements": "2023-10-17T01:47:22.4006938+00:00"
 }

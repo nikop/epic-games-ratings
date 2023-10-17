@@ -6,15 +6,15 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 18.00% | ~117,875 |
-| Incurious | 17.00% | ~111,326 |
-| Climate Change | 16.00% | ~104,778 |
-| Stroller | 15.00% | ~98,229 |
-| Advanced Hiker | 13.00% | ~85,132 |
-| Toy Train | 13.00% | ~85,132 |
-| Hiker | 12.00% | ~78,583 |
+| Advanced Stroller | 18.00% | ~117,877 |
+| Incurious | 17.00% | ~111,328 |
+| Climate Change | 16.00% | ~104,779 |
+| Stroller | 15.00% | ~98,230 |
+| Advanced Hiker | 13.00% | ~85,133 |
+| Toy Train | 13.00% | ~85,133 |
+| Hiker | 12.00% | ~78,584 |
 | Mojave Courier | 6.00% | ~39,292 |
-| Saved by Nausicaä | 5.00% | ~32,743 |
+| Saved by Nausicaä | 5.00% | ~32,744 |
 | Voyager | 3.00% | ~19,646 |
 | Advanced Voyager | 3.00% | ~19,646 |
 | Expert Stroller | 3.00% | ~19,646 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~655 |
 | 20 Miles under the Sea | 0.10% | ~655 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 654,861 (Ranked 26)  
+Progressed: 654,870 (Ranked 26)  
 Completed: 12 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,15 +239,15 @@ Completed: 12 (0.00%) (Ranked 315)
 | 2023-10-14 | 654,311 | 12 |
 | 2023-10-15 | 654,655 | 12 |
 | 2023-10-16 | 654,848 | 12 |
-| 2023-10-17 | 654,861 | 12 |
+| 2023-10-17 | 654,870 | 12 |
 ## Awards
 Max (Great for Beginners): 198  (Ranked 279)  
-Sum: 1,581 (Ranked 222)  
+Sum: 1,582 (Ranked 222)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 198 |
-| This game has Diverse Characters | 195 |
+| This game has Diverse Characters | 196 |
 | This game has Quickly Understood Controls | 191 |
 | This game is Extremely Fun | 185 |
 | This game is Relaxing | 180 |
@@ -388,3 +388,4 @@ Diff (max vs sum): 57
 | 2023-10-04 | 4.64 | - | 197 | 1,579 |
 | 2023-10-09 | 4.64 | - | 198 | 1,580 |
 | 2023-10-15 | 4.64 | - | 198 | 1,581 |
+| 2023-10-17 | 4.64 | - | 198 | 1,582 |

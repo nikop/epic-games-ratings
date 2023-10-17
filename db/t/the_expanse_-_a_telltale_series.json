@@ -166,9 +166,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14050,
+  "EOS_Progressed": 14054,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 234,
+  "EOS_NewPlayers": 235,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -8851,6 +8851,11 @@
       "Time": "2023-10-17T00:05:10.0096414+00:00",
       "NumProgressed": 14050,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-10-17T01:47:07.5451512+00:00",
+      "NumProgressed": 14054,
+      "NumCompleted": 26
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -8879,7 +8884,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     },
     {
       "ID": "12",
@@ -8903,7 +8908,7 @@
       "Name": "Doctor Approved",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "15",
@@ -8975,7 +8980,7 @@
       "Name": "Brother\u0027s Reaper",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "23",
@@ -9047,7 +9052,7 @@
       "Name": "No Belter Left Behind",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "4",
@@ -9102,22 +9107,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14050,
+      "Progressed": 14054,
       "Completed": 26
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4,
-      "Completed": 4
+      "Progressed": 8,
+      "Completed": 8
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-13T09:00:57.1370573+00:00",
-  "LastChanged_Achievements": "2023-10-17T00:05:10.0096405+00:00",
+  "LastChanged_Achievements": "2023-10-17T01:47:07.5451498+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:40.5814563+00:00",
-  "LastUpdate_Ratings": "2023-10-17T00:04:03.1939094+00:00",
-  "LastUpdate_Achievements": "2023-10-17T00:05:10.0098604+00:00"
+  "LastUpdate_Ratings": "2023-10-17T01:45:59.3881009+00:00",
+  "LastUpdate_Achievements": "2023-10-17T01:47:07.545334+00:00"
 }

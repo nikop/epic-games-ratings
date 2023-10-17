@@ -6,8 +6,8 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Settler | 3.00% | ~442 |
-| Play a Single Player Game | 3.00% | ~442 |
+| Settler | 3.00% | ~443 |
+| Play a Single Player Game | 3.00% | ~443 |
 | Able | 2.00% | ~295 |
 | Architect | 2.00% | ~295 |
 | Explorer | 2.00% | ~295 |
@@ -23,35 +23,35 @@ Number of Ratings: 1,307  (23.09.2022)
 | Oracle | 2.00% | ~295 |
 | Trade Caravan | 2.00% | ~295 |
 | Kushite Paganism | 2.00% | ~295 |
-| Ambitious | 1.00% | ~147 |
-| Brilliant | 1.00% | ~147 |
-| Enlightened | 1.00% | ~147 |
-| Fountainhead | 1.00% | ~147 |
-| Glorious | 1.00% | ~147 |
-| Just | 1.00% | ~147 |
-| Keystone | 1.00% | ~147 |
-| Magnificent | 1.00% | ~147 |
-| Warrior | 1.00% | ~147 |
-| Wise | 1.00% | ~147 |
-| Developing Cities | 1.00% | ~147 |
-| Strong Cities | 1.00% | ~147 |
-| Able Difficulty | 1.00% | ~147 |
-| Furious Family | 1.00% | ~147 |
-| Great Ziggurat | 1.00% | ~147 |
-| Ishtar Gate | 1.00% | ~147 |
-| Lighthouse | 1.00% | ~147 |
-| Pyramids | 1.00% | ~147 |
-| Learn to Play 1 | 1.00% | ~147 |
-| Christianity | 1.00% | ~147 |
-| Judaism | 1.00% | ~147 |
-| Babylonian Paganism | 1.00% | ~147 |
-| Carthaginian Paganism | 1.00% | ~147 |
-| Egyptian Paganism | 1.00% | ~147 |
-| Greek Paganism | 1.00% | ~147 |
-| Roman Paganism | 1.00% | ~147 |
-| Zoroastrianism | 1.00% | ~147 |
-| Naming Landmarks | 1.00% | ~147 |
-| Kushite Pyramids | 1.00% | ~147 |
+| Ambitious | 1.00% | ~148 |
+| Brilliant | 1.00% | ~148 |
+| Enlightened | 1.00% | ~148 |
+| Fountainhead | 1.00% | ~148 |
+| Glorious | 1.00% | ~148 |
+| Just | 1.00% | ~148 |
+| Keystone | 1.00% | ~148 |
+| Magnificent | 1.00% | ~148 |
+| Warrior | 1.00% | ~148 |
+| Wise | 1.00% | ~148 |
+| Developing Cities | 1.00% | ~148 |
+| Strong Cities | 1.00% | ~148 |
+| Able Difficulty | 1.00% | ~148 |
+| Furious Family | 1.00% | ~148 |
+| Great Ziggurat | 1.00% | ~148 |
+| Ishtar Gate | 1.00% | ~148 |
+| Lighthouse | 1.00% | ~148 |
+| Pyramids | 1.00% | ~148 |
+| Learn to Play 1 | 1.00% | ~148 |
+| Christianity | 1.00% | ~148 |
+| Judaism | 1.00% | ~148 |
+| Babylonian Paganism | 1.00% | ~148 |
+| Carthaginian Paganism | 1.00% | ~148 |
+| Egyptian Paganism | 1.00% | ~148 |
+| Greek Paganism | 1.00% | ~148 |
+| Roman Paganism | 1.00% | ~148 |
+| Zoroastrianism | 1.00% | ~148 |
+| Naming Landmarks | 1.00% | ~148 |
+| Kushite Pyramids | 1.00% | ~148 |
 | Regicide | 0.90% | ~133 |
 | Drillmaster | 0.90% | ~133 |
 | Great | 0.90% | ~133 |
@@ -76,20 +76,20 @@ Number of Ratings: 1,307  (23.09.2022)
 | Champions | 0.70% | ~103 |
 | Sages | 0.70% | ~103 |
 | Mausoleum | 0.70% | ~103 |
-| Intercessor | 0.60% | ~88 |
-| Lion | 0.60% | ~88 |
-| Good Difficulty | 0.60% | ~88 |
-| Patrons | 0.60% | ~88 |
-| Circus Maximus | 0.60% | ~88 |
-| Pantheon | 0.60% | ~88 |
-| Learn to Play 3 | 0.60% | ~88 |
-| Greece | 0.60% | ~88 |
-| Power to the People | 0.60% | ~88 |
-| Persian Paganism | 0.60% | ~88 |
-| Building Wonders | 0.60% | ~88 |
-| Legalism | 0.60% | ~88 |
-| Double Victory | 0.60% | ~88 |
-| Points Victory | 0.60% | ~88 |
+| Intercessor | 0.60% | ~89 |
+| Lion | 0.60% | ~89 |
+| Good Difficulty | 0.60% | ~89 |
+| Patrons | 0.60% | ~89 |
+| Circus Maximus | 0.60% | ~89 |
+| Pantheon | 0.60% | ~89 |
+| Learn to Play 3 | 0.60% | ~89 |
+| Greece | 0.60% | ~89 |
+| Power to the People | 0.60% | ~89 |
+| Persian Paganism | 0.60% | ~89 |
+| Building Wonders | 0.60% | ~89 |
+| Legalism | 0.60% | ~89 |
+| Double Victory | 0.60% | ~89 |
+| Points Victory | 0.60% | ~89 |
 | Invincible | 0.50% | ~74 |
 | Subjugator | 0.50% | ~74 |
 | Landowners | 0.50% | ~74 |
@@ -148,25 +148,25 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greater Kmt Unified | 0.30% | ~44 |
 | Kush | 0.30% | ~44 |
 | Beja Archer | 0.30% | ~44 |
-| Ancient | 0.20% | ~29 |
-| Old | 0.20% | ~29 |
-| Peacemaker | 0.20% | ~29 |
-| Glorious Difficulty | 0.20% | ~29 |
-| Magnificent Difficulty | 0.20% | ~29 |
-| The Eternal Treaty | 0.20% | ~29 |
-| Assyria | 0.20% | ~29 |
-| Hatti | 0.20% | ~29 |
-| Persia | 0.20% | ~29 |
-| Pantheon of Gods | 0.20% | ~29 |
-| Play a Network Game | 0.20% | ~29 |
-| Capturing Cities | 0.20% | ~29 |
-| Ten Crowns | 0.20% | ~29 |
-| Three Man Chariot | 0.20% | ~29 |
-| Siege Tower | 0.20% | ~29 |
-| Conquest Victory | 0.20% | ~29 |
-| No Undo | 0.20% | ~29 |
-| Necropolis in Waset | 0.20% | ~29 |
-| Prosperous Kmt | 0.20% | ~29 |
+| Ancient | 0.20% | ~30 |
+| Old | 0.20% | ~30 |
+| Peacemaker | 0.20% | ~30 |
+| Glorious Difficulty | 0.20% | ~30 |
+| Magnificent Difficulty | 0.20% | ~30 |
+| The Eternal Treaty | 0.20% | ~30 |
+| Assyria | 0.20% | ~30 |
+| Hatti | 0.20% | ~30 |
+| Persia | 0.20% | ~30 |
+| Pantheon of Gods | 0.20% | ~30 |
+| Play a Network Game | 0.20% | ~30 |
+| Capturing Cities | 0.20% | ~30 |
+| Ten Crowns | 0.20% | ~30 |
+| Three Man Chariot | 0.20% | ~30 |
+| Siege Tower | 0.20% | ~30 |
+| Conquest Victory | 0.20% | ~30 |
+| No Undo | 0.20% | ~30 |
+| Necropolis in Waset | 0.20% | ~30 |
+| Prosperous Kmt | 0.20% | ~30 |
 | Centenarian | 0.10% | ~15 |
 | Alexander the who? | 0.10% | ~15 |
 | Lighthouse in Alexandria | 0.10% | ~15 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,748 (Ranked 135)  
+Progressed: 14,752 (Ranked 135)  
 Completed: 5 (0.03%) (Ranked 284)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -529,7 +529,7 @@ Completed: 5 (0.03%) (Ranked 284)
 | 2023-10-14 | 14,699 | 5 |
 | 2023-10-15 | 14,732 | 5 |
 | 2023-10-16 | 14,747 | 5 |
-| 2023-10-17 | 14,748 | 5 |
+| 2023-10-17 | 14,752 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,842 (Ranked 210)  

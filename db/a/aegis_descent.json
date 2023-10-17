@@ -4,7 +4,7 @@
   "ProductSlug": "aegis-descent-a1f5a0",
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -418,9 +418,9 @@
       "ID": "Award_DocKing",
       "SetID": "9ojec6n",
       "Name": "DocKing",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 192
     },
     {
       "ID": "Award_EarlyBird",
@@ -707,8 +707,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-10-17T00:09:42.4070655+00:00",
+  "LastChanged_Achievements": "2023-10-17T01:51:43.6280059+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:46.6374316+00:00",
-  "LastUpdate_Ratings": "2023-10-16T23:57:13.3786652+00:00",
-  "LastUpdate_Achievements": "2023-10-17T00:09:42.4071317+00:00"
+  "LastUpdate_Ratings": "2023-10-17T01:40:44.9506887+00:00",
+  "LastUpdate_Achievements": "2023-10-17T01:51:43.6280742+00:00"
 }

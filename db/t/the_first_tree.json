@@ -2,13 +2,13 @@
   "ID": "489c2ca47aaa4190b694184b979d3b23",
   "Name": "The First Tree",
   "ProductSlug": "the-first-tree",
-  "Ranking_Rating": 969,
+  "Ranking_Rating": 970,
   "Ranking_Popularity": 537,
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -250,9 +250,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 36816,
+  "EOS_Progressed": 36818,
   "EOS_Completed": 115,
-  "EOS_NewPlayers": 241,
+  "EOS_NewPlayers": 242,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -15820,6 +15820,11 @@
       "Time": "2023-10-17T00:10:26.6325142+00:00",
       "NumProgressed": 36816,
       "NumCompleted": 115
+    },
+    {
+      "Time": "2023-10-17T01:52:27.6729024+00:00",
+      "NumProgressed": 36818,
+      "NumCompleted": 115
     }
   ],
   "TotalAchievements": 14,
@@ -15847,7 +15852,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 9572
+      "UsersEstimate": 9573
     },
     {
       "ID": "allItems",
@@ -15879,7 +15884,7 @@
       "Name": "Joseph",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 3313
+      "UsersEstimate": 3314
     },
     {
       "ID": "completionist",
@@ -15919,7 +15924,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 28348
+      "UsersEstimate": 28350
     },
     {
       "ID": "roots",
@@ -15942,15 +15947,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 36816,
+      "Progressed": 36818,
       "Completed": 115
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-10-14T11:57:58.6551569+00:00",
-  "LastChanged_Achievements": "2023-10-17T00:10:26.6325136+00:00",
+  "LastChanged_Achievements": "2023-10-17T01:52:27.6729018+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:38.5341026+00:00",
-  "LastUpdate_Ratings": "2023-10-16T23:59:59.2859913+00:00",
-  "LastUpdate_Achievements": "2023-10-17T00:10:26.6326461+00:00"
+  "LastUpdate_Ratings": "2023-10-17T01:42:45.5394429+00:00",
+  "LastUpdate_Achievements": "2023-10-17T01:52:27.6730988+00:00"
 }

@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6570,
+  "EOS_Progressed": 6571,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11431,6 +11431,11 @@
       "Time": "2023-10-16T20:08:16.0944047+00:00",
       "NumProgressed": 6570,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-17T01:50:42.8164141+00:00",
+      "NumProgressed": 6571,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -11498,7 +11503,7 @@
       "Name": "Dense Forest",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 1905
+      "UsersEstimate": 1906
     },
     {
       "ID": "3",
@@ -11506,7 +11511,7 @@
       "Name": "Cactus Vally",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 1445
+      "UsersEstimate": 1446
     },
     {
       "ID": "4",
@@ -11514,7 +11519,7 @@
       "Name": "Rainy Ruins",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "5",
@@ -11561,7 +11566,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 6570,
+      "Progressed": 6571,
       "Completed": 0
     }
   ],
@@ -11569,8 +11574,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-10-17T00:08:41.7238169+00:00",
+  "LastChanged_Achievements": "2023-10-17T01:50:42.8164137+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:13.2904426+00:00",
-  "LastUpdate_Ratings": "2023-10-16T23:58:52.6095751+00:00",
-  "LastUpdate_Achievements": "2023-10-17T00:08:41.7239655+00:00"
+  "LastUpdate_Ratings": "2023-10-17T01:41:48.748469+00:00",
+  "LastUpdate_Achievements": "2023-10-17T01:50:42.8165054+00:00"
 }

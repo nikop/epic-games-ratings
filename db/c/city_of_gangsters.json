@@ -679,9 +679,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 348065,
+  "EOS_Progressed": 348066,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 977,
+  "EOS_NewPlayers": 967,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20919,6 +20919,11 @@
       "Time": "2023-10-17T00:06:29.5027242+00:00",
       "NumProgressed": 348065,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-17T01:48:28.6056052+00:00",
+      "NumProgressed": 348066,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -21058,7 +21063,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 45248
+      "UsersEstimate": 45249
     },
     {
       "ID": "ach018",
@@ -21234,7 +21239,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 34806
+      "UsersEstimate": 34807
     },
     {
       "ID": "ach040",
@@ -21282,7 +21287,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 45248
+      "UsersEstimate": 45249
     },
     {
       "ID": "ach046",
@@ -21394,7 +21399,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 34806
+      "UsersEstimate": 34807
     },
     {
       "ID": "ach060",
@@ -21458,7 +21463,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 55690
+      "UsersEstimate": 55691
     },
     {
       "ID": "ach069",
@@ -21569,7 +21574,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 348065,
+      "Progressed": 348066,
       "Completed": 7
     }
   ],
@@ -21577,8 +21582,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-10-13T18:00:33.8427425+00:00",
-  "LastChanged_Achievements": "2023-10-17T00:06:29.5027236+00:00",
+  "LastChanged_Achievements": "2023-10-17T01:48:28.6056047+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:45.8070686+00:00",
-  "LastUpdate_Ratings": "2023-10-17T00:04:26.3411095+00:00",
-  "LastUpdate_Achievements": "2023-10-17T00:06:29.5029925+00:00"
+  "LastUpdate_Ratings": "2023-10-17T01:46:19.1585393+00:00",
+  "LastUpdate_Achievements": "2023-10-17T01:48:28.6059937+00:00"
 }

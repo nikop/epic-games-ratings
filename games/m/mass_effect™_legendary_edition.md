@@ -33,8 +33,8 @@
 | Very Elusive | 43.00% | ~310 |
 | Head Hunter | 43.00% | ~310 |
 | Operative | 42.00% | ~302 |
+| Scholar | 42.00% | ~302 |
 | Veteran | 41.00% | ~295 |
-| Scholar | 41.00% | ~295 |
 | Power Full | 40.00% | ~288 |
 | The Professor | 39.00% | ~281 |
 | The Archangel | 38.00% | ~274 |
@@ -68,13 +68,13 @@
 | Cat's in the Cradle | 29.00% | ~209 |
 | Doppelganger | 29.00% | ~209 |
 | Digital Exorcist | 29.00% | ~209 |
+| Mission Accomplished | 28.00% | ~202 |
+| Suicide Mission | 28.00% | ~202 |
+| Against All Odds | 28.00% | ~202 |
 | Friend or Foe | 28.00% | ~202 |
 | Mobilizer | 28.00% | ~202 |
 | Untouchable | 27.00% | ~194 |
 | First Aid Specialist | 27.00% | ~194 |
-| Mission Accomplished | 27.00% | ~194 |
-| Suicide Mission | 27.00% | ~194 |
-| Against All Odds | 27.00% | ~194 |
 | Eye of the Hurricane | 26.00% | ~187 |
 | A House Divided | 26.00% | ~187 |
 | World Shaker | 26.00% | ~187 |

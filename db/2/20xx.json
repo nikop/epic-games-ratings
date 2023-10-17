@@ -2,12 +2,12 @@
   "ID": "4c7117cadb714722950338f02850fd8d",
   "Name": "20XX",
   "ProductSlug": "20xx",
-  "Ranking_Rating": 376,
+  "Ranking_Rating": 375,
   "Ranking_Popularity": 451,
   "Ranking_PopularitySum": 366,
   "Ranking_EOS_Progress": 671,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewPlayers": 394,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2020-07-30T15:00:00+00:00",
@@ -772,6 +772,6 @@
   "FirstSeen": "2022-07-22T20:20:18.3366391+00:00",
   "LastChanged": "2023-10-10T23:59:51.3694495+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:14.7932026+00:00",
-  "LastUpdate_Ratings": "2023-10-17T00:04:52.757652+00:00",
-  "LastUpdate_Achievements": "2023-10-17T00:06:52.8456914+00:00"
+  "LastUpdate_Ratings": "2023-10-17T01:46:39.4413507+00:00",
+  "LastUpdate_Achievements": "2023-10-17T01:48:52.036969+00:00"
 }

@@ -5,19 +5,19 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Seeds of War | 80.00% | ~253 |
-| First Blood | 61.00% | ~193 |
+| First Blood | 62.00% | ~196 |
 | Triple Kill | 61.00% | ~193 |
 | Aspairagus | 60.00% | ~160 |
 | No Asperascope | 57.00% | ~180 |
 | Survivor | 55.00% | ~146 |
 | Cornivore | 53.00% | ~167 |
-| I Believe I Can Fly | 49.00% | ~155 |
+| I Believe I Can Fly | 50.00% | ~158 |
 | No Diggity | 44.00% | ~117 |
 | Early Survivor | 40.00% | ~106 |
 | Bouncemato | 31.00% | ~82 |
 | 10K | 29.00% | ~92 |
 | Amateur Survivor | 29.00% | ~77 |
-| 15K | 27.00% | ~85 |
+| 15K | 28.00% | ~88 |
 | Quick-Draw Pod | 23.00% | ~61 |
 | Drinking Problem | 22.00% | ~70 |
 | Grave Digger | 22.00% | ~59 |

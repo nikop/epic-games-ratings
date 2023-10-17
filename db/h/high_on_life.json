@@ -286,7 +286,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24237,
+  "EOS_Progressed": 24239,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
@@ -5651,6 +5651,11 @@
       "Time": "2023-10-16T23:06:40.5250971+00:00",
       "NumProgressed": 24237,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-10-17T01:50:34.925776+00:00",
+      "NumProgressed": 24239,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 44,
@@ -5780,9 +5785,9 @@
       "ID": "ACH_JUGGLE_SKILLS",
       "SetID": "cdkbb11",
       "Name": "We\u0027re All Very Impressed, Trust Me",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 194
+      "UsersEstimate": 218
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -5804,9 +5809,9 @@
       "ID": "ACH_KILL_GARM",
       "SetID": "cdkbb11",
       "Name": "Legendary Bounty Hunter",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 60,
-      "UsersEstimate": 145
+      "UsersEstimate": 170
     },
     {
       "ID": "ACH_KILL_GIBLETS",
@@ -6013,13 +6018,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24237,
+      "Progressed": 24239,
       "Completed": 13
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1530,
+      "Progressed": 1532,
       "Completed": 1373
     }
   ],
@@ -6027,8 +6032,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-07T05:03:09.4311759+00:00",
-  "LastChanged_Achievements": "2023-10-17T00:08:34.1986328+00:00",
+  "LastChanged_Achievements": "2023-10-17T01:50:34.9257754+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:39.0375133+00:00",
-  "LastUpdate_Ratings": "2023-10-17T00:03:53.7653261+00:00",
-  "LastUpdate_Achievements": "2023-10-17T00:08:34.1987546+00:00"
+  "LastUpdate_Ratings": "2023-10-17T01:45:52.7186792+00:00",
+  "LastUpdate_Achievements": "2023-10-17T01:50:34.9259028+00:00"
 }

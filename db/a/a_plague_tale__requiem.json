@@ -548,7 +548,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 13565,
+  "EOS_Progressed": 13566,
   "EOS_Completed": 49,
   "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
@@ -10073,6 +10073,11 @@
       "Time": "2023-10-16T21:07:53.2569819+00:00",
       "NumProgressed": 13565,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-17T01:49:01.308825+00:00",
+      "NumProgressed": 13566,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 35,
@@ -10084,7 +10089,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 12480
+      "UsersEstimate": 12481
     },
     {
       "ID": "ACH_02",
@@ -10092,7 +10097,7 @@
       "Name": "Newcomers",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 10716
+      "UsersEstimate": 10717
     },
     {
       "ID": "ACH_03",
@@ -10100,7 +10105,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 10038
+      "UsersEstimate": 10039
     },
     {
       "ID": "ACH_04",
@@ -10116,7 +10121,7 @@
       "Name": "In our Wake",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 9224
+      "UsersEstimate": 9225
     },
     {
       "ID": "ACH_06",
@@ -10124,7 +10129,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 8817
+      "UsersEstimate": 8818
     },
     {
       "ID": "ACH_07",
@@ -10132,7 +10137,7 @@
       "Name": "Felons",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 8546
+      "UsersEstimate": 8547
     },
     {
       "ID": "ACH_08",
@@ -10156,7 +10161,7 @@
       "Name": "Bloodline",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 7189
+      "UsersEstimate": 7190
     },
     {
       "ID": "ACH_11",
@@ -10204,7 +10209,7 @@
       "Name": "King Hugo",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 3391
+      "UsersEstimate": 3392
     },
     {
       "ID": "ACH_17",
@@ -10268,7 +10273,7 @@
       "Name": "Handful of pockets",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1763
+      "UsersEstimate": 1764
     },
     {
       "ID": "ACH_25",
@@ -10276,7 +10281,7 @@
       "Name": "Effective instruments",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 2984
+      "UsersEstimate": 2985
     },
     {
       "ID": "ACH_26",
@@ -10290,9 +10295,9 @@
       "ID": "ACH_27",
       "SetID": "9d4cf4c",
       "Name": "Night guard",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 5969
+      "UsersEstimate": 5833
     },
     {
       "ID": "ACH_28",
@@ -10300,7 +10305,7 @@
       "Name": "Alchemist",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 9360
+      "UsersEstimate": 9361
     },
     {
       "ID": "ACH_29",
@@ -10332,7 +10337,7 @@
       "Name": "Perfect shot",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 2984
+      "UsersEstimate": 2985
     },
     {
       "ID": "ACH_33",
@@ -10340,7 +10345,7 @@
       "Name": "Perfect throw",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 2984
+      "UsersEstimate": 2985
     },
     {
       "ID": "ACH_34",
@@ -10363,7 +10368,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 13565,
+      "Progressed": 13566,
       "Completed": 49
     }
   ],
@@ -10371,8 +10376,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-10-16T09:59:30.083525+00:00",
-  "LastChanged_Achievements": "2023-10-17T00:07:01.941419+00:00",
+  "LastChanged_Achievements": "2023-10-17T01:49:01.3088246+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:04.2648355+00:00",
-  "LastUpdate_Ratings": "2023-10-17T00:01:16.7930183+00:00",
-  "LastUpdate_Achievements": "2023-10-17T00:07:01.9415245+00:00"
+  "LastUpdate_Ratings": "2023-10-17T01:43:41.9862969+00:00",
+  "LastUpdate_Achievements": "2023-10-17T01:49:01.3089192+00:00"
 }

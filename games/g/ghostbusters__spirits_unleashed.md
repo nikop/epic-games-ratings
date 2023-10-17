@@ -39,10 +39,10 @@ Rating: 4.50 (Ranked 574)
 | Diabolical | 0.50% | ~133 |
 | Reckless | 0.50% | ~133 |
 | Rift Destroyer | 0.50% | ~133 |
+| Rivalry | 0.50% | ~133 |
 | Seasoned | 0.50% | ~133 |
 | Tobin's Prodigy | 0.50% | ~133 |
 | Escape Artist | 0.40% | ~106 |
-| Rivalry | 0.40% | ~106 |
 | Fragile Panes | 0.30% | ~80 |
 | Liability | 0.30% | ~80 |
 | Surprise! | 0.30% | ~80 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 574)
 | Rift Seeker | 0.10% | ~27 |
 | Ultimate Defense | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,538 (Ranked 117)  
+Progressed: 26,541 (Ranked 117)  
 Completed: 58 (0.22%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,16 +237,16 @@ Completed: 58 (0.22%) (Ranked 219)
 | 2023-10-14 | 26,466 | 58 |
 | 2023-10-15 | 26,505 | 58 |
 | 2023-10-16 | 26,537 | 58 |
-| 2023-10-17 | 26,538 | 58 |
+| 2023-10-17 | 26,541 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 264  (Ranked 256)  
-Sum: 2,398 (Ranked 188)  
+Sum: 2,399 (Ranked 188)  
 Diff (max vs sum): 68  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 264 |
 | This game is Great for Beginners | 261 |
-| This game has Competitive Players | 242 |
+| This game has Competitive Players | 243 |
 | This game has Amazing Storytelling | 240 |
 | This game is Extremely Fun | 239 |
 | This game is Relaxing | 236 |
@@ -442,3 +442,4 @@ Diff (max vs sum): 68
 | 2023-10-14 | 4.50 | 262 | 2,389 |
 | 2023-10-15 | 4.50 | 262 | 2,392 |
 | 2023-10-16 | 4.50 | 264 | 2,398 |
+| 2023-10-17 | 4.50 | 264 | 2,399 |

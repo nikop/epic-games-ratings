@@ -5,9 +5,9 @@
   "Ranking_Rating": 918,
   "Ranking_Popularity": 483,
   "Ranking_PopularitySum": 498,
-  "Ranking_EOS_Progress": 108,
+  "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 297,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -406,9 +406,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 42149,
+  "EOS_Progressed": 42150,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10786,6 +10786,11 @@
       "Time": "2023-10-16T23:07:20.5478773+00:00",
       "NumProgressed": 42149,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-17T01:51:03.4681002+00:00",
+      "NumProgressed": 42150,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -10893,7 +10898,7 @@
       "Name": "The Hue of Blue",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "CHAPTER_08_CLEAR",
@@ -10901,7 +10906,7 @@
       "Name": "The Truth Will Out",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "CHAPTER_09_CLEAR",
@@ -10909,7 +10914,7 @@
       "Name": "Breaking Point",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "CHAPTER_10_CLEAR",
@@ -10917,7 +10922,7 @@
       "Name": "None the Wiser",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "CHAPTER_11_CLEAR",
@@ -10925,7 +10930,7 @@
       "Name": "Forspoken",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "CHAPTER_12_CLEAR",
@@ -10949,7 +10954,7 @@
       "Name": "Tinkerer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2950
+      "UsersEstimate": 2951
     },
     {
       "ID": "CUFF_ATTACK",
@@ -10957,7 +10962,7 @@
       "Name": "No Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2107
+      "UsersEstimate": 2108
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -11013,7 +11018,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2107
+      "UsersEstimate": 2108
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -11037,7 +11042,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2950
+      "UsersEstimate": 2951
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -11093,7 +11098,7 @@
       "Name": "Pilgrimage: Novice",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "PARKOUR_DISTANCE",
@@ -11133,7 +11138,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3793
+      "UsersEstimate": 3794
     },
     {
       "ID": "SPRING_ALL",
@@ -11220,22 +11225,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 42149,
+      "Progressed": 42150,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 6986,
-      "Completed": 6986
+      "Progressed": 6987,
+      "Completed": 6987
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-10-06T21:58:13.2562711+00:00",
-  "LastChanged_Achievements": "2023-10-17T00:09:02.4298519+00:00",
+  "LastChanged_Achievements": "2023-10-17T01:51:03.4680996+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:05.4941436+00:00",
-  "LastUpdate_Ratings": "2023-10-16T23:58:15.4170593+00:00",
-  "LastUpdate_Achievements": "2023-10-17T00:09:02.4300374+00:00"
+  "LastUpdate_Ratings": "2023-10-17T01:41:26.3313529+00:00",
+  "LastUpdate_Achievements": "2023-10-17T01:51:03.4683054+00:00"
 }

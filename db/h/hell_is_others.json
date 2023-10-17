@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 51,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -1090,9 +1090,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 257381,
+  "EOS_Progressed": 257384,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 247,
+  "EOS_NewPlayers": 248,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18810,6 +18810,11 @@
       "Time": "2023-10-17T00:08:51.12645+00:00",
       "NumProgressed": 257381,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-17T01:50:52.2789144+00:00",
+      "NumProgressed": 257384,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -18869,7 +18874,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 79788
+      "UsersEstimate": 79789
     },
     {
       "ID": "BackHomeNTimes",
@@ -18933,7 +18938,7 @@
       "Name": "Fixer II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7721
+      "UsersEstimate": 7722
     },
     {
       "ID": "CreditLevel3",
@@ -19093,7 +19098,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7721
+      "UsersEstimate": 7722
     },
     {
       "ID": "KillOtherWithMine",
@@ -19268,7 +19273,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 257381,
+      "Progressed": 257384,
       "Completed": 3
     }
   ],
@@ -19276,8 +19281,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-10-16T04:00:51.1781377+00:00",
-  "LastChanged_Achievements": "2023-10-17T00:08:51.1264493+00:00",
+  "LastChanged_Achievements": "2023-10-17T01:50:52.2789139+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:45.0933759+00:00",
-  "LastUpdate_Ratings": "2023-10-17T00:04:21.895874+00:00",
-  "LastUpdate_Achievements": "2023-10-17T00:08:51.1267411+00:00"
+  "LastUpdate_Ratings": "2023-10-17T01:46:15.1391379+00:00",
+  "LastUpdate_Achievements": "2023-10-17T01:50:52.2790952+00:00"
 }

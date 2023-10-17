@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 323,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1304,9 +1304,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 16015,
+  "EOS_Progressed": 16017,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -7474,6 +7474,11 @@
       "Time": "2023-10-16T19:10:15.8876381+00:00",
       "NumProgressed": 16015,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2023-10-17T01:52:20.5571087+00:00",
+      "NumProgressed": 16017,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 47,
@@ -7501,7 +7506,7 @@
       "Name": "Giving Back",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -7621,7 +7626,7 @@
       "Name": "Terminated",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -7717,7 +7722,7 @@
       "Name": "Desperate Times",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -7860,13 +7865,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16015,
+      "Progressed": 16017,
       "Completed": 75
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3941,
+      "Progressed": 3943,
       "Completed": 29
     }
   ],
@@ -7874,8 +7879,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-10-16T18:03:02.4692594+00:00",
-  "LastChanged_Achievements": "2023-10-17T00:10:19.4376449+00:00",
+  "LastChanged_Achievements": "2023-10-17T01:52:20.5571082+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:28.7445303+00:00",
-  "LastUpdate_Ratings": "2023-10-17T00:03:00.5510277+00:00",
-  "LastUpdate_Achievements": "2023-10-17T00:10:19.437729+00:00"
+  "LastUpdate_Ratings": "2023-10-17T01:45:08.1197909+00:00",
+  "LastUpdate_Achievements": "2023-10-17T01:52:20.5571969+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "stray-blade",
   "Ranking_EOS_Progress": 397,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -740,9 +740,9 @@
       "ID": "ACH_PERFORM_MANY_PARRIES",
       "SetID": "7i20me3",
       "Name": "Can\u0027t touch this",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_REUNITE_WITH_BOJI",
@@ -843,8 +843,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-10-17T00:11:07.8868835+00:00",
+  "LastChanged_Achievements": "2023-10-17T01:53:08.6287094+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:23.3426482+00:00",
-  "LastUpdate_Ratings": "2023-10-17T00:02:33.024232+00:00",
-  "LastUpdate_Achievements": "2023-10-17T00:11:07.8869335+00:00"
+  "LastUpdate_Ratings": "2023-10-17T01:44:44.4336836+00:00",
+  "LastUpdate_Achievements": "2023-10-17T01:53:08.6287502+00:00"
 }

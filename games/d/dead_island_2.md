@@ -5,8 +5,8 @@ Rating: 4.54 (Ranked 512)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 4.00% | ~27,876 |
-| Welcome To Hell-A | 4.00% | ~27,876 |
+| Hotel California | 4.00% | ~27,877 |
+| Welcome To Hell-A | 4.00% | ~27,877 |
 | Dr. Reed, I Presume? | 3.00% | ~20,907 |
 | Git Gutte! | 3.00% | ~20,907 |
 | Bookworm | 3.00% | ~20,907 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 512)
 | Donk! | 0.20% | ~1,394 |
 | Bucket List | 0.10% | ~697 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 696,901 (Ranked 22)  
+Progressed: 696,916 (Ranked 22)  
 Completed: 2,235 (0.32%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,14 +231,14 @@ Completed: 2,235 (0.32%) (Ranked 200)
 | 2023-10-14 | 695,832 | 2,225 |
 | 2023-10-15 | 696,452 | 2,227 |
 | 2023-10-16 | 696,890 | 2,235 |
-| 2023-10-17 | 696,901 | 2,235 |
+| 2023-10-17 | 696,916 | 2,235 |
 ## Awards
-Max (Great Boss Battles): 6,462  (Ranked 56)  
-Sum: 9,671 (Ranked 91)  
+Max (Great Boss Battles): 6,477  (Ranked 56)  
+Sum: 9,686 (Ranked 91)  
 Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,462 |
+| This game has Great Boss Battles | 6,477 |
 | This game is Great for Beginners | 460 |
 | This game has Diverse Characters | 449 |
 | This game has Quickly Understood Controls | 425 |
@@ -429,3 +429,4 @@ Diff (max vs sum): -35
 | 2023-10-14 | 4.54 | 6,442 | 9,627 |
 | 2023-10-15 | 4.54 | 6,462 | 9,657 |
 | 2023-10-16 | 4.54 | 6,462 | 9,671 |
+| 2023-10-17 | 4.54 | 6,477 | 9,686 |

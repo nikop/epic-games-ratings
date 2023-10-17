@@ -4,10 +4,10 @@
   "ProductSlug": "into-the-breach",
   "Ranking_Rating": 49,
   "Ranking_Popularity": 214,
-  "Ranking_PopularitySum": 147,
+  "Ranking_PopularitySum": 148,
   "Ranking_EOS_Progress": 671,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewPlayers": 394,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2019-12-19T16:00:00+00:00",
@@ -3535,10 +3535,16 @@
       "Rating": 4.84,
       "NumberOfAwards": 4030,
       "NumberOfAwardsMax": 430
+    },
+    {
+      "Time": "2023-10-17T01:41:23.4901429+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 4032,
+      "NumberOfAwardsMax": 430
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4030,
+  "NumberOfAwards": 4032,
   "NumberOfAwardsMax": 430,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3546,7 +3552,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 418
+      "Count": 420
     },
     {
       "Text": "This game has Challenging Combat",
@@ -3632,8 +3638,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:50.8479509+00:00",
-  "LastChanged": "2023-10-16T18:57:45.6593648+00:00",
+  "LastChanged": "2023-10-17T01:41:23.4901426+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:14.5488837+00:00",
-  "LastUpdate_Ratings": "2023-10-16T23:58:11.5709257+00:00",
-  "LastUpdate_Achievements": "2023-10-17T00:06:18.4294123+00:00"
+  "LastUpdate_Ratings": "2023-10-17T01:41:23.4901437+00:00",
+  "LastUpdate_Achievements": "2023-10-17T01:48:17.3625707+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 303,
+  "EOS_Progressed": 304,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.32,
   "EosHistory": [
@@ -411,6 +411,11 @@
       "Time": "2023-10-09T13:17:10.7159769+00:00",
       "NumProgressed": 303,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-17T01:52:16.7728383+00:00",
+      "NumProgressed": 304,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -518,7 +523,7 @@
       "Name": "Wild Ox",
       "Percentage": 46,
       "XP": 40,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "PARPLIN_DEFEATED",
@@ -526,7 +531,7 @@
       "Name": "Third Commander",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "PET_DOG",
@@ -549,7 +554,7 @@
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 303,
+      "Progressed": 304,
       "Completed": 4
     }
   ],
@@ -557,8 +562,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-10-17T00:10:15.7565289+00:00",
+  "LastChanged_Achievements": "2023-10-17T01:52:16.7728377+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:21.7306089+00:00",
-  "LastUpdate_Ratings": "2023-10-17T00:02:23.3193193+00:00",
-  "LastUpdate_Achievements": "2023-10-17T00:10:15.7565459+00:00"
+  "LastUpdate_Ratings": "2023-10-17T01:44:36.6803646+00:00",
+  "LastUpdate_Achievements": "2023-10-17T01:52:16.7728612+00:00"
 }
