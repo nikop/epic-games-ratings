@@ -1,8 +1,8 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 1 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 100.00% |
-| 3 | [The Riflemen](games/t/the_riflemen.md) | 48.39% |
+| 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 66.67% |
+| 3 | [The Riflemen](games/t/the_riflemen.md) | 48.38% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.15% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.99% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
@@ -75,12 +75,12 @@
 | 73 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.81% |
 | 74 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
 | 75 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.62% |
-| 76 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
-| 77 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.51% |
-| 78 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
-| 79 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.42% |
-| 80 | [The Bunker](games/t/the_bunker.md) | 3.39% |
-| 81 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.36% |
+| 76 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.59% |
+| 77 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
+| 78 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.51% |
+| 79 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
+| 80 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.42% |
+| 81 | [The Bunker](games/t/the_bunker.md) | 3.39% |
 | 82 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
 | 83 | [The Complex](games/t/the_complex.md) | 3.33% |
 | 84 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.31% |
