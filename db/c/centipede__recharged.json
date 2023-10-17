@@ -302,7 +302,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17878,
+  "EOS_Progressed": 17879,
   "EOS_Completed": 112,
   "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 2,
@@ -14037,6 +14037,11 @@
       "Time": "2023-10-17T19:04:42.9833735+00:00",
       "NumProgressed": 17878,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2023-10-17T20:04:29.612006+00:00",
+      "NumProgressed": 17879,
+      "NumCompleted": 112
     }
   ],
   "TotalAchievements": 16,
@@ -14104,7 +14109,7 @@
       "Name": "Harvester Of Eyes",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 1251
+      "UsersEstimate": 1252
     },
     {
       "ID": "I_Am_The_Storm",
@@ -14144,7 +14149,7 @@
       "Name": "Shooting Shark",
       "Percentage": 50,
       "XP": 90,
-      "UsersEstimate": 8939
+      "UsersEstimate": 8940
     },
     {
       "ID": "Sole_Survivor",
@@ -14168,22 +14173,22 @@
       "Name": "The Reaper",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 1251
+      "UsersEstimate": 1252
     }
   ],
   "AchievementSets": [
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 17878,
+      "Progressed": 17879,
       "Completed": 112
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-07-21T02:04:12.2963456+00:00",
-  "LastChanged_Achievements": "2023-10-17T19:04:42.9833731+00:00",
+  "LastChanged_Achievements": "2023-10-17T20:04:29.6120057+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:27.7450235+00:00",
-  "LastUpdate_Ratings": "2023-10-17T18:58:24.6131116+00:00",
-  "LastUpdate_Achievements": "2023-10-17T19:04:42.9834449+00:00"
+  "LastUpdate_Ratings": "2023-10-17T19:58:30.1228947+00:00",
+  "LastUpdate_Achievements": "2023-10-17T20:04:29.6120795+00:00"
 }

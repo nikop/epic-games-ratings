@@ -382,7 +382,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3309,
+  "EOS_Progressed": 3310,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 0,
@@ -3082,6 +3082,11 @@
       "Time": "2023-10-17T19:03:25.9572034+00:00",
       "NumProgressed": 3309,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-17T20:02:32.9045958+00:00",
+      "NumProgressed": 3310,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -3094,15 +3099,15 @@
       "Name": "Spring Cleaning",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 827
+      "UsersEstimate": 828
     },
     {
       "ID": "achievement_0002",
       "SetID": "9123ogc",
       "Name": "Gathering Dust",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 563
+      "UsersEstimate": 530
     },
     {
       "ID": "achievement_0003",
@@ -3134,7 +3139,7 @@
       "Name": "Setting up for Success",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 2614
+      "UsersEstimate": 2615
     },
     {
       "ID": "achievement_0007",
@@ -3150,7 +3155,7 @@
       "Name": "On the Top Step",
       "Percentage": 90,
       "XP": 20,
-      "UsersEstimate": 2978
+      "UsersEstimate": 2979
     },
     {
       "ID": "achievement_0009",
@@ -3166,7 +3171,7 @@
       "Name": "Network Success",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "achievement_0011",
@@ -3190,7 +3195,7 @@
       "Name": "Oil and Water",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "achievement_0014",
@@ -3236,9 +3241,9 @@
       "ID": "achievement_0019",
       "SetID": "9123ogc",
       "Name": "Undisputed Winner",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 298
+      "UsersEstimate": 331
     },
     {
       "ID": "achievement_0020",
@@ -3254,7 +3259,7 @@
       "Name": "Team Orders",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 2548
+      "UsersEstimate": 2549
     },
     {
       "ID": "achievement_0022",
@@ -3278,7 +3283,7 @@
       "Name": "Loyal Bond",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "achievement_0025",
@@ -3350,7 +3355,7 @@
       "Name": "Engineer",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 1886
+      "UsersEstimate": 1887
     },
     {
       "ID": "achievement_0034",
@@ -3358,7 +3363,7 @@
       "Name": "Challenge Yourself",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1191
+      "UsersEstimate": 1192
     },
     {
       "ID": "achievement_0035",
@@ -3438,7 +3443,7 @@
       "Name": "Going the Extra Mile",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 1489
+      "UsersEstimate": 1490
     },
     {
       "ID": "achievement_0045",
@@ -3454,7 +3459,7 @@
       "Name": "Writing a new Chapter",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "achievement_0047",
@@ -3462,7 +3467,7 @@
       "Name": "Peak Performance",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "achievement_0048",
@@ -3485,7 +3490,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 3309,
+      "Progressed": 3310,
       "Completed": 0
     }
   ],
@@ -3493,8 +3498,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-10-14T15:01:06.7997095+00:00",
-  "LastChanged_Achievements": "2023-10-17T19:03:25.9572027+00:00",
+  "LastChanged_Achievements": "2023-10-17T20:02:32.9045954+00:00",
   "LastUpdate_AppInfo": "2023-10-14T13:56:56.8221835+00:00",
-  "LastUpdate_Ratings": "2023-10-17T19:00:22.5450356+00:00",
-  "LastUpdate_Achievements": "2023-10-17T19:03:25.9573428+00:00"
+  "LastUpdate_Ratings": "2023-10-17T20:00:30.2428372+00:00",
+  "LastUpdate_Achievements": "2023-10-17T20:02:32.9046457+00:00"
 }

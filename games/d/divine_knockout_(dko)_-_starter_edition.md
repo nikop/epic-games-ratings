@@ -5,8 +5,8 @@ Rating: 4.32 (Ranked 800)
 Number of Ratings: 60  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 63  (Ranked 399)  
-Sum: 547 (Ranked 305)  
-Diff (max vs sum): 94  
+Sum: 547 (Ranked 306)  
+Diff (max vs sum): 93  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 63 |

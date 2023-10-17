@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~641 |
-| Off to a good start | 68.00% | ~484 |
-| Do... or do not. There is no try | 53.00% | ~377 |
+| New Recruit | 90.00% | ~642 |
+| Off to a good start | 68.00% | ~485 |
+| Do... or do not. There is no try | 53.00% | ~378 |
 | A good blaster at your side | 34.00% | ~242 |
-| Scrap collector | 21.00% | ~150 |
+| Scrap collector | 20.00% | ~143 |
 | I suggest a new strategy | 19.00% | ~135 |
 | Great shot, kid! | 19.00% | ~135 |
 | The power of the Force | 17.00% | ~121 |
@@ -16,7 +16,7 @@
 | Shoot first | 17.00% | ~121 |
 | Together we can rule the galaxy | 16.00% | ~114 |
 | Collector | 15.00% | ~107 |
-| Best star-pilot in the galaxy | 12.00% | ~85 |
+| Best star-pilot in the galaxy | 12.00% | ~86 |
 | Tell Jabba that I've got his money | 11.00% | ~78 |
 | Survivor | 11.00% | ~78 |
 | Never tell me the odds! | 10.00% | ~71 |
@@ -31,14 +31,14 @@
 | Not bad for a little furball | 5.00% | ~36 |
 | Patience you must have | 5.00% | ~36 |
 | Don't underestimate the Force | 5.00% | ~36 |
-| I've been waiting for you | 4.00% | ~28 |
-| When 900 years old you reach... | 4.00% | ~28 |
-| Determined | 4.00% | ~28 |
-| Your journey has only started | 4.00% | ~28 |
-| On the ball | 4.00% | ~28 |
-| Precision shot | 4.00% | ~28 |
-| Safety ain't the point of a joyride | 4.00% | ~28 |
-| That's no moon | 4.00% | ~28 |
+| I've been waiting for you | 4.00% | ~29 |
+| When 900 years old you reach... | 4.00% | ~29 |
+| Determined | 4.00% | ~29 |
+| Your journey has only started | 4.00% | ~29 |
+| On the ball | 4.00% | ~29 |
+| Precision shot | 4.00% | ~29 |
+| Safety ain't the point of a joyride | 4.00% | ~29 |
+| That's no moon | 4.00% | ~29 |
 | The Force is strong with this one | 3.00% | ~21 |
 | This is a new day, a new beginning | 3.00% | ~21 |
 | City in the Clouds | 3.00% | ~21 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.30% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712 (Ranked 253)  
+Progressed: 713 (Ranked 253)  
 Completed: 1 (0.14%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 1 (0.14%) (Ranked 236)
 | 2023-10-14 | 652 | 1 |
 | 2023-10-15 | 672 | 1 |
 | 2023-10-16 | 694 | 1 |
-| 2023-10-17 | 712 | 1 |
+| 2023-10-17 | 713 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

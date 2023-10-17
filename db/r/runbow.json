@@ -2,7 +2,7 @@
   "ID": "aa7c3e6b5a2a4ca8962270c15bddb861",
   "Name": "Runbow",
   "ProductSlug": "runbow-fc9fa4",
-  "Ranking_Rating": 628,
+  "Ranking_Rating": 627,
   "Ranking_Popularity": 537,
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 52,
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 250411,
+  "EOS_Progressed": 250412,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 205,
+  "EOS_NewPlayers": 204,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16724,6 +16724,11 @@
       "Time": "2023-10-17T19:04:24.2315636+00:00",
       "NumProgressed": 250411,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-17T20:04:11.1543386+00:00",
+      "NumProgressed": 250412,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -16759,7 +16764,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 52586
+      "UsersEstimate": 52587
     },
     {
       "ID": "blotbuster",
@@ -17039,7 +17044,7 @@
       "Name": "The Stunner",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55090
+      "UsersEstimate": 55091
     },
     {
       "ID": "thunderstruck",
@@ -17055,7 +17060,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32553
+      "UsersEstimate": 32554
     },
     {
       "ID": "treeMedalist",
@@ -17102,7 +17107,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 250411,
+      "Progressed": 250412,
       "Completed": 6
     }
   ],
@@ -17110,8 +17115,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-10-17T19:04:24.2315633+00:00",
+  "LastChanged_Achievements": "2023-10-17T20:04:11.1543383+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:46.1902995+00:00",
-  "LastUpdate_Ratings": "2023-10-17T18:58:46.2230107+00:00",
-  "LastUpdate_Achievements": "2023-10-17T19:04:24.2316688+00:00"
+  "LastUpdate_Ratings": "2023-10-17T19:58:51.4778495+00:00",
+  "LastUpdate_Achievements": "2023-10-17T20:04:11.1544475+00:00"
 }

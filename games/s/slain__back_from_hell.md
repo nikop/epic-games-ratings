@@ -5,10 +5,10 @@ Rating: 4.29 (Ranked 822)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Man 'O War | 21.00% | ~8,114 |
-| A Good Day To Die | 15.00% | ~5,796 |
-| Guard! Turn! Parry! Dodge! Spin! Ha! | 6.00% | ~2,318 |
-| Right Back Atcha | 6.00% | ~2,318 |
+| Man 'O War | 21.00% | ~8,115 |
+| A Good Day To Die | 15.00% | ~5,797 |
+| Guard! Turn! Parry! Dodge! Spin! Ha! | 6.00% | ~2,319 |
+| Right Back Atcha | 6.00% | ~2,319 |
 | Killed by Death | 5.00% | ~1,932 |
 | Kill 'Em All | 4.00% | ~1,546 |
 | Down Boy! | 2.00% | ~773 |
@@ -21,9 +21,9 @@ Rating: 4.29 (Ranked 822)
 | Death Becomes Her | 0.80% | ~309 |
 | The Sky Is Falling | 0.80% | ~309 |
 | Schadenfreude | 0.80% | ~309 |
-| Start As You Mean To Go On | 0.70% | ~270 |
-| Hail the Great Horned Metal God! | 0.70% | ~270 |
-| That'll Come In Handy... | 0.70% | ~270 |
+| Start As You Mean To Go On | 0.70% | ~271 |
+| Hail the Great Horned Metal God! | 0.70% | ~271 |
+| That'll Come In Handy... | 0.70% | ~271 |
 | Four Legged Friend | 0.50% | ~193 |
 | Oh God, Mother! Blood! Blood! | 0.50% | ~193 |
 | Ice To See You | 0.40% | ~155 |
@@ -35,7 +35,7 @@ Rating: 4.29 (Ranked 822)
 | Heart Of Steel | 0.10% | ~39 |
 | Death or Glory | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,640 (Ranked 113)  
+Progressed: 38,644 (Ranked 113)  
 Completed: 26 (0.07%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,7 +215,7 @@ Completed: 26 (0.07%) (Ranked 263)
 | 2023-10-14 | 38,466 | 25 |
 | 2023-10-15 | 38,537 | 25 |
 | 2023-10-16 | 38,597 | 26 |
-| 2023-10-17 | 38,640 | 26 |
+| 2023-10-17 | 38,644 | 26 |
 ## Awards
 Max (Great Boss Battles): 127  (Ranked 320)  
 Sum: 127 (Ranked 418)  

@@ -4,7 +4,7 @@
   "ProductSlug": "synced",
   "Ranking_Rating": 908,
   "Ranking_Popularity": 391,
-  "Ranking_PopularitySum": 365,
+  "Ranking_PopularitySum": 374,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 284,
   "Ranking_EOS_NewPlayers": 63,
@@ -640,10 +640,16 @@
       "Rating": 4.17,
       "NumberOfAwards": 269,
       "NumberOfAwardsMax": 69
+    },
+    {
+      "Time": "2023-10-17T19:57:32.9089718+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 237,
+      "NumberOfAwardsMax": 69
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 269,
+  "NumberOfAwards": 237,
   "NumberOfAwardsMax": 69,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -696,9 +702,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 63543,
+  "EOS_Progressed": 63548,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 1117,
+  "EOS_NewPlayers": 1113,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5546,6 +5552,11 @@
       "Time": "2023-10-17T19:09:24.0918384+00:00",
       "NumProgressed": 63543,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-10-17T20:09:07.9193925+00:00",
+      "NumProgressed": 63548,
+      "NumCompleted": 18
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -5558,7 +5569,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 19063
+      "UsersEstimate": 19064
     },
     {
       "ID": "10",
@@ -5622,7 +5633,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 10167
+      "UsersEstimate": 10168
     },
     {
       "ID": "3",
@@ -5630,7 +5641,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 7625
+      "UsersEstimate": 7626
     },
     {
       "ID": "4",
@@ -5638,7 +5649,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6354
+      "UsersEstimate": 6355
     },
     {
       "ID": "5",
@@ -5646,7 +5657,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 5083
+      "UsersEstimate": 5084
     },
     {
       "ID": "6",
@@ -5685,16 +5696,16 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 63543,
+      "Progressed": 63548,
       "Completed": 18
     }
   ],
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged": "2023-10-17T11:57:36.2978852+00:00",
-  "LastChanged_Achievements": "2023-10-17T19:09:24.0918378+00:00",
+  "LastChanged": "2023-10-17T19:57:32.9089716+00:00",
+  "LastChanged_Achievements": "2023-10-17T20:09:07.9193922+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:34.3906075+00:00",
-  "LastUpdate_Ratings": "2023-10-17T18:57:27.8546701+00:00",
-  "LastUpdate_Achievements": "2023-10-17T19:09:24.0918695+00:00"
+  "LastUpdate_Ratings": "2023-10-17T19:57:32.9089724+00:00",
+  "LastUpdate_Achievements": "2023-10-17T20:09:07.9194242+00:00"
 }

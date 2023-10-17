@@ -4,10 +4,10 @@
   "ProductSlug": "witchfire-db273e",
   "Ranking_Rating": 338,
   "Ranking_Popularity": 453,
-  "Ranking_PopularitySum": 376,
+  "Ranking_PopularitySum": 366,
   "Ranking_EOS_Progress": 673,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 387,
+  "Ranking_EOS_NewPlayers": 388,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-09-20T14:00:00+00:00",
@@ -386,10 +386,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 228,
       "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2023-10-17T19:57:29.6883043+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 256,
+      "NumberOfAwardsMax": 36
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 228,
+  "NumberOfAwards": 256,
   "NumberOfAwardsMax": 36,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -427,7 +433,7 @@
       "Text": "This game is Hard for Beginners",
       "Prefix": "This game is",
       "Type": "Hard for Beginners",
-      "Count": 24
+      "Count": 28
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -466,8 +472,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-20T14:59:38.0794771+00:00",
   "FirstSeenRating": "2023-09-21T14:59:00.914233+00:00",
-  "LastChanged": "2023-10-17T13:57:36.3930751+00:00",
+  "LastChanged": "2023-10-17T19:57:29.6883042+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:16.9385318+00:00",
-  "LastUpdate_Ratings": "2023-10-17T18:57:24.7403308+00:00",
-  "LastUpdate_Achievements": "2023-10-17T19:08:19.3536458+00:00"
+  "LastUpdate_Ratings": "2023-10-17T19:57:29.6883046+00:00",
+  "LastUpdate_Achievements": "2023-10-17T20:08:14.016401+00:00"
 }

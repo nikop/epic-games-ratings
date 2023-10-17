@@ -2,9 +2,9 @@
   "ID": "82aa77fde0b14916a86b66b1e6345c30",
   "Name": "RIDE 5",
   "ProductSlug": "ride-5",
-  "Ranking_EOS_Progress": 218,
+  "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1515,
+  "EOS_Progressed": 1516,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2959,6 +2959,11 @@
       "Time": "2023-10-17T18:09:01.4458782+00:00",
       "NumProgressed": 1515,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-17T20:07:21.7277926+00:00",
+      "NumProgressed": 1516,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -2971,7 +2976,7 @@
       "Name": "First Love",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -2987,7 +2992,7 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -3267,7 +3272,7 @@
       "Name": "Eat My Dust",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -3275,7 +3280,7 @@
       "Name": "Champagne Spray",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -3362,14 +3367,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1515,
+      "Progressed": 1516,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-17T19:08:06.9265956+00:00",
+  "LastChanged_Achievements": "2023-10-17T20:07:21.7277922+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:05.5662527+00:00",
-  "LastUpdate_Ratings": "2023-10-17T18:57:59.4636288+00:00",
-  "LastUpdate_Achievements": "2023-10-17T19:08:06.9266427+00:00"
+  "LastUpdate_Ratings": "2023-10-17T19:58:04.5241824+00:00",
+  "LastUpdate_Achievements": "2023-10-17T20:07:21.7278402+00:00"
 }

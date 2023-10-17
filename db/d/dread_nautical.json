@@ -4,7 +4,7 @@
   "ProductSlug": "dread-nautical",
   "Ranking_EOS_Progress": 673,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 387,
+  "Ranking_EOS_NewPlayers": 388,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2020-04-29T11:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:17.7885708+00:00",
   "LastChanged": "2023-03-31T05:57:17.7885709+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:34.0615147+00:00",
-  "LastUpdate_Ratings": "2023-10-17T18:57:48.3076453+00:00",
-  "LastUpdate_Achievements": "2023-10-17T19:08:24.2613315+00:00"
+  "LastUpdate_Ratings": "2023-10-17T19:57:52.8745783+00:00",
+  "LastUpdate_Achievements": "2023-10-17T20:08:18.9473067+00:00"
 }

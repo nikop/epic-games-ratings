@@ -3637,9 +3637,9 @@
       "ID": "ACH_OB_FC",
       "SetID": "b3fep3o",
       "Name": "Veneration of Hephaestus",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 71
     },
     {
       "ID": "ACH_OB_FT",
@@ -3870,8 +3870,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-10-17T19:03:41.8320192+00:00",
+  "LastChanged_Achievements": "2023-10-17T20:03:18.3508589+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:05.7421142+00:00",
-  "LastUpdate_Ratings": "2023-10-17T18:59:13.7133765+00:00",
-  "LastUpdate_Achievements": "2023-10-17T19:03:41.8320884+00:00"
+  "LastUpdate_Ratings": "2023-10-17T19:59:21.5646818+00:00",
+  "LastUpdate_Achievements": "2023-10-17T20:03:18.3509235+00:00"
 }

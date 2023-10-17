@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 284,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -1875,9 +1875,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14769,
+  "EOS_Progressed": 14771,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 187,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14105,6 +14105,11 @@
       "Time": "2023-10-17T19:08:21.2540193+00:00",
       "NumProgressed": 14769,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-17T20:08:16.2137029+00:00",
+      "NumProgressed": 14771,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -14698,9 +14703,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_PEACEMAKER",
       "SetID": "9201eeb",
       "Name": "Peacemaker",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_PIONEER",
@@ -14970,9 +14975,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_HUNTERS",
       "SetID": "7l38kb8",
       "Name": "Hunters",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 74
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_LANDOWNERS",
@@ -16851,21 +16856,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14769,
+      "Progressed": 14771,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14769,
+      "Progressed": 14771,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-16T22:57:40.964526+00:00",
-  "LastChanged_Achievements": "2023-10-17T19:08:21.2540189+00:00",
+  "LastChanged_Achievements": "2023-10-17T20:08:16.2137025+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:21.7880328+00:00",
-  "LastUpdate_Ratings": "2023-10-17T18:57:40.6381787+00:00",
-  "LastUpdate_Achievements": "2023-10-17T19:08:21.2549975+00:00"
+  "LastUpdate_Ratings": "2023-10-17T19:57:45.5773514+00:00",
+  "LastUpdate_Achievements": "2023-10-17T20:08:16.2147678+00:00"
 }

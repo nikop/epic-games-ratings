@@ -13,7 +13,7 @@ Number of Ratings: 180  (23.09.2022)
 | First passenger on board | 67.00% | ~1,172 |
 | First passenger waiting | 67.00% | ~1,172 |
 | First bus arrived | 66.00% | ~1,154 |
-| First train station | 63.00% | ~1,102 |
+| First train station | 64.00% | ~1,119 |
 | First steam train arrived | 60.00% | ~1,049 |
 | First industry upgraded | 57.00% | ~997 |
 | Transport millionaire | 55.00% | ~962 |
@@ -31,7 +31,7 @@ Number of Ratings: 180  (23.09.2022)
 | First aircraft arrived | 41.00% | ~717 |
 | Mass production | 35.00% | ~612 |
 | Aircraft entrepreneur | 34.00% | ~595 |
-| Crowd in a train | 31.00% | ~542 |
+| Crowd in a train | 32.00% | ~560 |
 | The future is now, old man | 31.00% | ~542 |
 | Not in my backyard | 30.00% | ~525 |
 | City | 29.00% | ~507 |

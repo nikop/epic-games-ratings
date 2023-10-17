@@ -4,7 +4,7 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 348,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -862,9 +862,9 @@
       "ID": "GO_ON_EXPEDITION",
       "SetID": "aniflfk",
       "Name": "Off on an Expedition!",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 50,
-      "UsersEstimate": 128
+      "UsersEstimate": 130
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -918,9 +918,9 @@
       "ID": "REMOVE_100_WEEDS",
       "SetID": "aniflfk",
       "Name": "Weed Warrior",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "REPAIR_BRIDGE",
@@ -973,8 +973,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-10-17T19:03:53.8789263+00:00",
+  "LastChanged_Achievements": "2023-10-17T20:03:30.4104167+00:00",
   "LastUpdate_AppInfo": "2023-10-11T15:57:05.2435729+00:00",
-  "LastUpdate_Ratings": "2023-10-17T18:59:00.5974671+00:00",
-  "LastUpdate_Achievements": "2023-10-17T19:03:53.8789413+00:00"
+  "LastUpdate_Ratings": "2023-10-17T19:59:06.6128467+00:00",
+  "LastUpdate_Achievements": "2023-10-17T20:03:30.4104311+00:00"
 }

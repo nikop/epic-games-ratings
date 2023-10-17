@@ -2,9 +2,9 @@
   "ID": "fda0f2b4047f46ffb4e94d5595c1468e",
   "Name": "Mortal Kombat 1",
   "ProductSlug": "mortal-kombat-1",
-  "Ranking_Rating": 628,
+  "Ranking_Rating": 627,
   "Ranking_Popularity": 139,
-  "Ranking_PopularitySum": 169,
+  "Ranking_PopularitySum": 167,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 315,
   "Ranking_EOS_NewPlayers": 103,
@@ -1282,10 +1282,16 @@
       "Rating": 4.46,
       "NumberOfAwards": 3191,
       "NumberOfAwardsMax": 1184
+    },
+    {
+      "Time": "2023-10-17T19:59:42.7472105+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 3198,
+      "NumberOfAwardsMax": 1184
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3191,
+  "NumberOfAwards": 3198,
   "NumberOfAwardsMax": 1184,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1299,7 +1305,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 182
+      "Count": 189
     },
     {
       "Text": "This game has Competitive Players",
@@ -1362,9 +1368,9 @@
       "Count": 225
     }
   ],
-  "EOS_Progressed": 7728,
+  "EOS_Progressed": 7729,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 391,
+  "EOS_NewPlayers": 388,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4657,6 +4663,11 @@
       "Time": "2023-10-17T19:08:20.7538958+00:00",
       "NumProgressed": 7728,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-17T20:08:15.4632255+00:00",
+      "NumProgressed": 7729,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -4677,7 +4688,7 @@
       "Name": "Eye Of The TaiGore",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1777
+      "UsersEstimate": 1778
     },
     {
       "ID": "ach03",
@@ -4685,7 +4696,7 @@
       "Name": "A New Timeline",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 3400
+      "UsersEstimate": 3401
     },
     {
       "ID": "ach04",
@@ -4693,7 +4704,7 @@
       "Name": "What Just Happened??",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1468
+      "UsersEstimate": 1469
     },
     {
       "ID": "ach05",
@@ -4717,7 +4728,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 4173
+      "UsersEstimate": 4174
     },
     {
       "ID": "ach08",
@@ -4725,7 +4736,7 @@
       "Name": "It Has Begun!!!",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2859
+      "UsersEstimate": 2860
     },
     {
       "ID": "ach09",
@@ -4797,7 +4808,7 @@
       "Name": "So I Just Kill Stuff??",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 3941
+      "UsersEstimate": 3942
     },
     {
       "ID": "ach18",
@@ -4885,7 +4896,7 @@
       "Name": "Feeling Stronger",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2550
+      "UsersEstimate": 2551
     },
     {
       "ID": "ach29",
@@ -4893,7 +4904,7 @@
       "Name": "Unstoppable",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1777
+      "UsersEstimate": 1778
     },
     {
       "ID": "ach30",
@@ -4909,7 +4920,7 @@
       "Name": "Not So Big Now, Are You??",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 2318
+      "UsersEstimate": 2319
     },
     {
       "ID": "ach32",
@@ -4981,7 +4992,7 @@
       "Name": "Found You",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 2859
+      "UsersEstimate": 2860
     },
     {
       "ID": "ach41",
@@ -4989,7 +5000,7 @@
       "Name": "Stop Hiding",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2859
+      "UsersEstimate": 2860
     },
     {
       "ID": "ach42",
@@ -5037,7 +5048,7 @@
       "Name": "Big Spender",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 1468
+      "UsersEstimate": 1469
     },
     {
       "ID": "ach48",
@@ -5061,23 +5072,23 @@
       "Name": "Witness Me!!!",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2859
+      "UsersEstimate": 2860
     }
   ],
   "AchievementSets": [
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 7728,
+      "Progressed": 7729,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2023-10-17T18:59:34.1253529+00:00",
-  "LastChanged_Achievements": "2023-10-17T19:08:20.7538951+00:00",
+  "LastChanged": "2023-10-17T19:59:42.7472103+00:00",
+  "LastChanged_Achievements": "2023-10-17T20:08:15.463225+00:00",
   "LastUpdate_AppInfo": "2023-10-14T07:57:06.3888504+00:00",
-  "LastUpdate_Ratings": "2023-10-17T18:59:34.1253534+00:00",
-  "LastUpdate_Achievements": "2023-10-17T19:08:20.753944+00:00"
+  "LastUpdate_Ratings": "2023-10-17T19:59:42.7472108+00:00",
+  "LastUpdate_Achievements": "2023-10-17T20:08:15.4632735+00:00"
 }

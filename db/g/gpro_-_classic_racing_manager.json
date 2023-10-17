@@ -2,9 +2,9 @@
   "ID": "234c754eae5e42d1b5379daee1c313f1",
   "Name": "GPRO - Classic racing manager",
   "ProductSlug": "classic-racing-manager-679706",
-  "Ranking_EOS_Progress": 289,
+  "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-05-10T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 418,
+  "EOS_Progressed": 419,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -931,6 +931,11 @@
       "Time": "2023-10-13T21:03:40.0677395+00:00",
       "NumProgressed": 418,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-17T20:04:56.9974098+00:00",
+      "NumProgressed": 419,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 162,
@@ -1012,9 +1017,9 @@
       "ID": "ACHIEVEMENT_15",
       "SetID": "76k7b7p",
       "Name": "Amateur newbie",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -1182,7 +1187,7 @@
       "Name": "Better than cake",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACHIEVEMENT_203",
@@ -1444,9 +1449,9 @@
       "ID": "ACHIEVEMENT_25",
       "SetID": "76k7b7p",
       "Name": "No brakes",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 54
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -2237,14 +2242,14 @@
     {
       "ID": "76k7b7p",
       "IsBase": true,
-      "Progressed": 418,
+      "Progressed": 419,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-11T01:55:52.8280898+00:00",
   "FirstSeenAchievements": "2023-05-05T09:00:44.9178133+00:00",
-  "LastChanged_Achievements": "2023-10-17T19:05:10.5164268+00:00",
+  "LastChanged_Achievements": "2023-10-17T20:04:56.9974094+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:18.7679602+00:00",
-  "LastUpdate_Ratings": "2023-10-17T18:57:37.2250798+00:00",
-  "LastUpdate_Achievements": "2023-10-17T19:05:10.5166931+00:00"
+  "LastUpdate_Ratings": "2023-10-17T19:57:42.2049601+00:00",
+  "LastUpdate_Achievements": "2023-10-17T20:04:56.9977102+00:00"
 }
