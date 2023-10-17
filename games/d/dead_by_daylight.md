@@ -6,41 +6,41 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Handyman | 2.00% | ~18,892 |
-| Zealous | 2.00% | ~18,892 |
-| It wakes | 2.00% | ~18,892 |
-| Not half bad | 2.00% | ~18,892 |
-| Apt Survivor | 2.00% | ~18,892 |
-| Survival Treasures | 2.00% | ~18,892 |
-| Skillful | 2.00% | ~18,892 |
-| Make Some Noise | 2.00% | ~18,892 |
-| The Grand Sacrifice | 1.00% | ~9,446 |
-| Agonizing Escape | 1.00% | ~9,446 |
-| Backdoor Escape | 1.00% | ~9,446 |
-| I've got your back | 1.00% | ~9,446 |
-| No one left behind | 1.00% | ~9,446 |
-| Medic | 1.00% | ~9,446 |
-| Perfect Escape | 1.00% | ~9,446 |
-| Bloody Millionaire | 1.00% | ~9,446 |
-| I | 1.00% | ~9,446 |
-| Engineer | 1.00% | ~9,446 |
-| Sorted | 1.00% | ~9,446 |
-| Healthy Obsession | 1.00% | ~9,446 |
-| Resurgence | 1.00% | ~9,446 |
-| Preemptive Strike | 1.00% | ~9,446 |
-| Humanitarian | 1.00% | ~9,446 |
-| Nerves of steel | 0.90% | ~8,501 |
-| Perfect Killing | 0.90% | ~8,501 |
-| Risk it all | 0.90% | ~8,501 |
-| II | 0.90% | ~8,501 |
-| Wounded Healer | 0.90% | ~8,501 |
-| Close Shave | 0.90% | ~8,501 |
+| Handyman | 2.00% | ~18,893 |
+| Zealous | 2.00% | ~18,893 |
+| It wakes | 2.00% | ~18,893 |
+| Not half bad | 2.00% | ~18,893 |
+| Apt Survivor | 2.00% | ~18,893 |
+| Survival Treasures | 2.00% | ~18,893 |
+| Skillful | 2.00% | ~18,893 |
+| Make Some Noise | 2.00% | ~18,893 |
+| The Grand Sacrifice | 1.00% | ~9,447 |
+| Agonizing Escape | 1.00% | ~9,447 |
+| Backdoor Escape | 1.00% | ~9,447 |
+| I've got your back | 1.00% | ~9,447 |
+| No one left behind | 1.00% | ~9,447 |
+| Medic | 1.00% | ~9,447 |
+| Perfect Escape | 1.00% | ~9,447 |
+| Bloody Millionaire | 1.00% | ~9,447 |
+| I | 1.00% | ~9,447 |
+| Engineer | 1.00% | ~9,447 |
+| Sorted | 1.00% | ~9,447 |
+| Healthy Obsession | 1.00% | ~9,447 |
+| Resurgence | 1.00% | ~9,447 |
+| Preemptive Strike | 1.00% | ~9,447 |
+| Humanitarian | 1.00% | ~9,447 |
+| Nerves of steel | 0.90% | ~8,502 |
+| Perfect Killing | 0.90% | ~8,502 |
+| Risk it all | 0.90% | ~8,502 |
+| II | 0.90% | ~8,502 |
+| Wounded Healer | 0.90% | ~8,502 |
+| Close Shave | 0.90% | ~8,502 |
 | Apt Killer | 0.80% | ~7,557 |
 | Vulture | 0.80% | ~7,557 |
 | Second Act | 0.80% | ~7,557 |
-| III | 0.70% | ~6,612 |
-| With Scars to Show | 0.70% | ~6,612 |
-| Rebuilding The Borgo | 0.70% | ~6,612 |
+| III | 0.70% | ~6,613 |
+| With Scars to Show | 0.70% | ~6,613 |
+| Rebuilding The Borgo | 0.70% | ~6,613 |
 | Blood on your hands | 0.60% | ~5,668 |
 | Escape Artist | 0.60% | ~5,668 |
 | Made it out alive! | 0.60% | ~5,668 |
@@ -69,22 +69,22 @@ Number of Ratings: 70,340  (23.09.2022)
 | Chorus of Chaos | 0.50% | ~4,723 |
 | One More Step | 0.50% | ~4,723 |
 | MU/TH/UR Dearest | 0.50% | ~4,723 |
-| A bite for the Entity | 0.40% | ~3,778 |
-| Blood on your face | 0.40% | ~3,778 |
-| Hemophobia | 0.40% | ~3,778 |
-| Leapfrog | 0.40% | ~3,778 |
-| Cottage Owner | 0.40% | ~3,778 |
-| Serial Killer | 0.40% | ~3,778 |
-| Escaping the Nightmare | 0.40% | ~3,778 |
-| Ancestor's Rite | 0.40% | ~3,778 |
-| Devoted Gatekeeping | 0.40% | ~3,778 |
-| Shrine Apparatus | 0.40% | ~3,778 |
-| Grim Pilgrimage | 0.40% | ~3,778 |
-| Selfless Survival | 0.40% | ~3,778 |
-| End of Days | 0.40% | ~3,778 |
-| Insult and Injury | 0.40% | ~3,778 |
-| Outrun the Overlap | 0.40% | ~3,778 |
-| Extraterrestrial | 0.40% | ~3,778 |
+| A bite for the Entity | 0.40% | ~3,779 |
+| Blood on your face | 0.40% | ~3,779 |
+| Hemophobia | 0.40% | ~3,779 |
+| Leapfrog | 0.40% | ~3,779 |
+| Cottage Owner | 0.40% | ~3,779 |
+| Serial Killer | 0.40% | ~3,779 |
+| Escaping the Nightmare | 0.40% | ~3,779 |
+| Ancestor's Rite | 0.40% | ~3,779 |
+| Devoted Gatekeeping | 0.40% | ~3,779 |
+| Shrine Apparatus | 0.40% | ~3,779 |
+| Grim Pilgrimage | 0.40% | ~3,779 |
+| Selfless Survival | 0.40% | ~3,779 |
+| End of Days | 0.40% | ~3,779 |
+| Insult and Injury | 0.40% | ~3,779 |
+| Outrun the Overlap | 0.40% | ~3,779 |
+| Extraterrestrial | 0.40% | ~3,779 |
 | Jump Scares | 0.30% | ~2,834 |
 | Deep Cleansing | 0.30% | ~2,834 |
 | Texas BBQ | 0.30% | ~2,834 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~945 |
 | Adept Ripley | 0.10% | ~945 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 944,601 (Ranked 14)  
+Progressed: 944,655 (Ranked 14)  
 Completed: 51 (0.01%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -416,7 +416,7 @@ Completed: 51 (0.01%) (Ranked 297)
 | 2023-10-14 | 939,759 | 50 |
 | 2023-10-15 | 942,498 | 51 |
 | 2023-10-16 | 944,360 | 51 |
-| 2023-10-17 | 944,601 | 51 |
+| 2023-10-17 | 944,655 | 51 |
 ## Awards
 Max (Diverse Characters): 33,980  (Ranked 15)  
 Sum: 262,969 (Ranked 13)  

@@ -1170,9 +1170,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 231357,
+  "EOS_Progressed": 231363,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1493,
+  "EOS_NewPlayers": 1492,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14985,6 +14985,11 @@
       "Time": "2023-10-17T03:09:02.8903957+00:00",
       "NumProgressed": 231357,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-17T04:08:10.1391081+00:00",
+      "NumProgressed": 231363,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 88,
@@ -15396,7 +15401,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 13881
+      "UsersEstimate": 13882
     },
     {
       "ID": "DwarfElf15Support",
@@ -15428,7 +15433,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9254
+      "UsersEstimate": 9255
     },
     {
       "ID": "ElfEpic",
@@ -15444,7 +15449,7 @@
       "Name": "Sowwy!",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 76348
+      "UsersEstimate": 76350
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -15580,7 +15585,7 @@
       "Name": "In Navalu\u0027s footsteps",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1619
+      "UsersEstimate": 1620
     },
     {
       "ID": "QuestEmile",
@@ -15644,7 +15649,7 @@
       "Name": "Speedrun",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9254
+      "UsersEstimate": 9255
     },
     {
       "ID": "SupportCount4",
@@ -15699,21 +15704,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 231357,
+      "Progressed": 231363,
       "Completed": 5
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 231357,
+      "Progressed": 231363,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-10-15T22:57:47.2240798+00:00",
-  "LastChanged_Achievements": "2023-10-17T03:09:02.8903951+00:00",
+  "LastChanged_Achievements": "2023-10-17T04:08:10.1391075+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:06.1366459+00:00",
-  "LastUpdate_Ratings": "2023-10-17T02:57:47.0440436+00:00",
-  "LastUpdate_Achievements": "2023-10-17T03:09:02.8906006+00:00"
+  "LastUpdate_Ratings": "2023-10-17T03:57:27.8703464+00:00",
+  "LastUpdate_Achievements": "2023-10-17T04:08:10.1392567+00:00"
 }

@@ -21,9 +21,9 @@ Rating: 4.85 (Ranked 42)
 | Z-shielding's got nothing on us! | 9.00% | ~373 |
 | Kissing the sky! | 9.00% | ~373 |
 | The Negotiator | 8.00% | ~332 |
+| Headliner | 8.00% | ~332 |
 | Out in a puff of smoke | 8.00% | ~332 |
 | I look cool. But I can look COOLER. | 8.00% | ~332 |
-| Headliner | 7.00% | ~290 |
 | Time to pay up! | 7.00% | ~290 |
 | Who's the boss now? | 7.00% | ~290 |
 | You must like calling me in, Chai | 7.00% | ~290 |

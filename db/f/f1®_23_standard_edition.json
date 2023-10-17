@@ -384,7 +384,7 @@
   "Tags": [],
   "EOS_Progressed": 3299,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 183,
+  "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3108,9 +3108,9 @@
       "ID": "achievement_0008",
       "SetID": "9123ogc",
       "Name": "On the Top Step",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 20,
-      "UsersEstimate": 2936
+      "UsersEstimate": 2969
     },
     {
       "ID": "achievement_0009",
@@ -3453,8 +3453,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-10-14T15:01:06.7997095+00:00",
-  "LastChanged_Achievements": "2023-10-17T03:08:39.8533143+00:00",
+  "LastChanged_Achievements": "2023-10-17T04:07:30.8120879+00:00",
   "LastUpdate_AppInfo": "2023-10-14T13:56:56.8221835+00:00",
-  "LastUpdate_Ratings": "2023-10-17T03:01:30.8543899+00:00",
-  "LastUpdate_Achievements": "2023-10-17T03:08:39.8534187+00:00"
+  "LastUpdate_Ratings": "2023-10-17T04:00:34.3091921+00:00",
+  "LastUpdate_Achievements": "2023-10-17T04:07:30.812141+00:00"
 }

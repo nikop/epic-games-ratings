@@ -13,20 +13,20 @@ Rating: 4.57 (Ranked 455)
 | Drone Dodger | 4.00% | ~562 |
 | Heal Thy Medic | 4.00% | ~562 |
 | Call it Even | 4.00% | ~562 |
+| Celebrations are in Order | 4.00% | ~562 |
 | Impossible Objects | 4.00% | ~562 |
 | Stogie for Fogey | 3.00% | ~422 |
 | Spore Taste | 3.00% | ~422 |
 | Martian Music | 3.00% | ~422 |
 | Khan's Revenge | 3.00% | ~422 |
 | Captain Drummer | 3.00% | ~422 |
-| Celebrations are in Order | 3.00% | ~422 |
+| Doctor Approved | 2.00% | ~281 |
 | Bottoms up! | 2.00% | ~281 |
 | Thorston Mayer | 2.00% | ~281 |
 | Miraculous Maya | 2.00% | ~281 |
-| Doctor Approved | 1.00% | ~141 |
+| Data Logger | 1.00% | ~141 |
 | Brother's Reaper | 1.00% | ~141 |
 | No Belter Left Behind | 1.00% | ~141 |
-| Data Logger | 0.90% | ~127 |
 | Data Master | 0.80% | ~112 |
 | Debris Spree | 0.60% | ~84 |
 | Data Recoverer | 0.60% | ~84 |

@@ -6,8 +6,8 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~32,112 |
-| Just The Two of Us | 32.00% | ~30,223 |
+| Simoon | 34.00% | ~32,113 |
+| Just The Two of Us | 32.00% | ~30,224 |
 | Up On High | 25.00% | ~23,612 |
 | Under The Hood | 25.00% | ~23,612 |
 | Got Your Nose | 24.00% | ~22,668 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~2,833 |
 | Vivacious Vivarium | 2.00% | ~1,889 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 94,448 (Ranked 82)  
+Progressed: 94,449 (Ranked 82)  
 Completed: 950 (1.01%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 950 (1.01%) (Ranked 147)
 | 2023-10-14 | 94,125 | 946 |
 | 2023-10-15 | 94,319 | 950 |
 | 2023-10-16 | 94,424 | 950 |
-| 2023-10-17 | 94,448 | 950 |
+| 2023-10-17 | 94,449 | 950 |
 ## Awards
 Max (Quickly Understood Controls): 24  (Ranked 510)  
 Sum: 88 (Ranked 439)  

@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 698,
+  "EOS_Progressed": 699,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1891,6 +1891,11 @@
       "Time": "2023-10-17T03:06:33.0463383+00:00",
       "NumProgressed": 698,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-17T04:05:44.341657+00:00",
+      "NumProgressed": 699,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -2093,9 +2098,9 @@
       "ID": "achievement_31",
       "SetID": "271ol84",
       "Name": "Scrap collector",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 140
+      "UsersEstimate": 147
     },
     {
       "ID": "achievement_32",
@@ -2127,7 +2132,7 @@
       "Name": "New Recruit",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "achievement_36",
@@ -2207,7 +2212,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "achievement_45",
@@ -2341,9 +2346,9 @@
       "ID": "achievement_6",
       "SetID": "271ol84",
       "Name": "Great shot, kid!",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 133
     },
     {
       "ID": "achievement_60",
@@ -2406,13 +2411,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 698,
+      "Progressed": 699,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 698,
+      "Progressed": 699,
       "Completed": 1
     }
   ],
@@ -2420,8 +2425,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-17T03:06:33.0463376+00:00",
+  "LastChanged_Achievements": "2023-10-17T04:05:44.3416567+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:22.846224+00:00",
-  "LastUpdate_Ratings": "2023-10-17T02:57:18.6587398+00:00",
-  "LastUpdate_Achievements": "2023-10-17T03:06:33.0464835+00:00"
+  "LastUpdate_Ratings": "2023-10-17T03:57:05.0942195+00:00",
+  "LastUpdate_Achievements": "2023-10-17T04:05:44.3417168+00:00"
 }

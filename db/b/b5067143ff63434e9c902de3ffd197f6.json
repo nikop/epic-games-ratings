@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3074,
+  "EOS_Progressed": 3075,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1515,
+  "EOS_NewPlayers": 1509,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1936,6 +1936,11 @@
       "Time": "2023-10-17T03:04:21.0977525+00:00",
       "NumProgressed": 3074,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-17T04:03:51.5228694+00:00",
+      "NumProgressed": 3075,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -2084,7 +2089,7 @@
       "Name": "Glitchy",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ACH_WINLEVEL5",
@@ -2100,7 +2105,7 @@
       "Name": "The Dark Road",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ACH_WINLEVEL94",
@@ -2116,7 +2121,7 @@
       "Name": "Endless",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ACH_WINLEVELFUN",
@@ -2132,21 +2137,21 @@
       "Name": "Lights Out",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     }
   ],
   "AchievementSets": [
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 3074,
+      "Progressed": 3075,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-10-17T03:04:21.0977516+00:00",
+  "LastChanged_Achievements": "2023-10-17T04:03:51.5228689+00:00",
   "LastUpdate_AppInfo": "2023-10-16T13:57:00.6358262+00:00",
-  "LastUpdate_Ratings": "2023-10-17T03:00:08.3929556+00:00",
-  "LastUpdate_Achievements": "2023-10-17T03:04:21.0978021+00:00"
+  "LastUpdate_Ratings": "2023-10-17T03:59:24.967042+00:00",
+  "LastUpdate_Achievements": "2023-10-17T04:03:51.5228934+00:00"
 }

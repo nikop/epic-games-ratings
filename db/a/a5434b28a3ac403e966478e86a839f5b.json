@@ -2,9 +2,9 @@
   "ID": "a5434b28a3ac403e966478e86a839f5b",
   "Name": "Quake II",
   "ProductSlug": "quake-ii",
-  "Ranking_EOS_Progress": 287,
+  "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 424,
+  "EOS_Progressed": 425,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
@@ -1147,6 +1147,11 @@
       "Time": "2023-10-16T20:06:45.4506714+00:00",
       "NumProgressed": 424,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-17T04:05:06.1262253+00:00",
+      "NumProgressed": 425,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -1157,9 +1162,9 @@
       "ID": "ACH_end",
       "SetID": "51of0eo",
       "Name": "Assassinate the Makron",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 120,
-      "UsersEstimate": 72
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_eou1",
@@ -1167,7 +1172,7 @@
       "Name": "Establish Communications",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ACH_eou2",
@@ -1183,7 +1188,7 @@
       "Name": "Destroy Security Grid",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ACH_eou4",
@@ -1239,7 +1244,7 @@
       "Name": "Shut Down the Core",
       "Percentage": 6,
       "XP": 120,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_rogue",
@@ -1262,14 +1267,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 424,
+      "Progressed": 425,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-10-17T03:05:48.7359374+00:00",
+  "LastChanged_Achievements": "2023-10-17T04:05:06.1262248+00:00",
   "LastUpdate_AppInfo": "2023-10-12T22:57:11.8537053+00:00",
-  "LastUpdate_Ratings": "2023-10-17T03:00:11.6462443+00:00",
-  "LastUpdate_Achievements": "2023-10-17T03:05:48.7359679+00:00"
+  "LastUpdate_Ratings": "2023-10-17T03:59:28.3118881+00:00",
+  "LastUpdate_Achievements": "2023-10-17T04:05:06.126241+00:00"
 }

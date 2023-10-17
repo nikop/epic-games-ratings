@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 453,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -376,9 +376,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 2044,
+  "EOS_Progressed": 2045,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6156,6 +6156,11 @@
       "Time": "2023-10-17T00:05:14.629519+00:00",
       "NumProgressed": 2044,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-17T04:03:07.6708643+00:00",
+      "NumProgressed": 2045,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -6351,7 +6356,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 858
+      "UsersEstimate": 859
     },
     {
       "ID": "fourleafclover",
@@ -6375,7 +6380,7 @@
       "Name": "Full Party",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "gearenchanting",
@@ -6399,7 +6404,7 @@
       "Name": "Guild Power",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "herewegoagain",
@@ -6439,7 +6444,7 @@
       "Name": "Inspection",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "jewelenchanting",
@@ -6503,7 +6508,7 @@
       "Name": "Miner Clicker",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "missionsdedication",
@@ -6623,7 +6628,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1165
+      "UsersEstimate": 1166
     },
     {
       "ID": "thealchemist",
@@ -6727,7 +6732,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1901
+      "UsersEstimate": 1902
     },
     {
       "ID": "warmachinesarmy",
@@ -6759,14 +6764,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1615
+      "UsersEstimate": 1616
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2044,
+      "Progressed": 2045,
       "Completed": 2
     }
   ],
@@ -6774,8 +6779,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-10-16T23:02:28.7731396+00:00",
-  "LastChanged_Achievements": "2023-10-17T03:03:18.7945714+00:00",
+  "LastChanged_Achievements": "2023-10-17T04:03:07.6708637+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:40.7167186+00:00",
-  "LastUpdate_Ratings": "2023-10-17T03:01:52.859884+00:00",
-  "LastUpdate_Achievements": "2023-10-17T03:03:18.7948191+00:00"
+  "LastUpdate_Ratings": "2023-10-17T04:00:51.7446876+00:00",
+  "LastUpdate_Achievements": "2023-10-17T04:03:07.6709582+00:00"
 }

@@ -6,19 +6,19 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~722,223 |
-| The Blues | 85.00% | ~620,090 |
-| Fast | 66.00% | ~481,482 |
+| Out of bed | 99.00% | ~722,224 |
+| The Blues | 85.00% | ~620,091 |
+| Fast | 66.00% | ~481,483 |
 | Healthbar | 55.00% | ~401,235 |
 | Force Cube | 53.00% | ~386,645 |
 | Double Jump | 48.00% | ~350,169 |
-| Regeneration | 47.00% | ~342,873 |
+| Regeneration | 47.00% | ~342,874 |
 | Triple Jump | 43.00% | ~313,693 |
 | Climb the hill | 42.00% | ~306,398 |
 | Through the fire pipe | 39.00% | ~284,512 |
 | MacGuffin | 38.00% | ~277,217 |
 | Just once | 37.00% | ~269,922 |
-| Armor | 30.00% | ~218,855 |
+| Armor | 30.00% | ~218,856 |
 | True holy spirit | 28.00% | ~204,265 |
 | That's how electronics work obviously | 27.00% | ~196,970 |
 | Force Cube Catapult | 25.00% | ~182,380 |
@@ -55,7 +55,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | Momentum | 9.00% | ~65,657 |
 | Through the tiny pipe | 9.00% | ~65,657 |
 | Win! | 9.00% | ~65,657 |
-| The real real teleported man | 8.00% | ~58,361 |
+| The real real teleported man | 8.00% | ~58,362 |
 | Well deserved | 6.00% | ~43,771 |
 | Happiness | 3.00% | ~21,886 |
 | Super Sword | 3.00% | ~21,886 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~730 |
 | DLC: Top of the world | 0.10% | ~730 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 729,518 (Ranked 19)  
+Progressed: 729,519 (Ranked 19)  
 Completed: 748 (0.10%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 748 (0.10%) (Ranked 247)
 | 2023-10-14 | 729,285 | 747 |
 | 2023-10-15 | 729,425 | 748 |
 | 2023-10-16 | 729,505 | 748 |
-| 2023-10-17 | 729,518 | 748 |
+| 2023-10-17 | 729,519 | 748 |
 ## Awards
 Max (Challenging Puzzles): 7,702  (Ranked 47)  
 Sum: 10,041 (Ranked 90)  

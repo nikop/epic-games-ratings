@@ -508,9 +508,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8297,
+  "EOS_Progressed": 8298,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
@@ -10058,6 +10058,11 @@
       "Time": "2023-10-16T23:03:49.0198822+00:00",
       "NumProgressed": 8297,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-10-17T04:03:17.8850634+00:00",
+      "NumProgressed": 8298,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 29,
@@ -10109,7 +10114,7 @@
       "Name": "Street Sweeper",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1493
+      "UsersEstimate": 1494
     },
     {
       "ID": "ACH07",
@@ -10173,7 +10178,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1410
+      "UsersEstimate": 1411
     },
     {
       "ID": "ACH15",
@@ -10300,7 +10305,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8297,
+      "Progressed": 8298,
       "Completed": 55
     }
   ],
@@ -10308,8 +10313,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-10-06T23:02:27.8926786+00:00",
-  "LastChanged_Achievements": "2023-10-17T03:03:30.7788128+00:00",
+  "LastChanged_Achievements": "2023-10-17T04:03:17.8850625+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:08.879613+00:00",
-  "LastUpdate_Ratings": "2023-10-17T02:59:55.9305011+00:00",
-  "LastUpdate_Achievements": "2023-10-17T03:03:30.7789574+00:00"
+  "LastUpdate_Ratings": "2023-10-17T03:59:14.9043696+00:00",
+  "LastUpdate_Achievements": "2023-10-17T04:03:17.8851231+00:00"
 }
