@@ -29,13 +29,13 @@ Rating: 4.28 (Ranked 829)
 | Wise Head | 6.00% | ~20,884 |
 | Show ‘em the Sugar | 6.00% | ~20,884 |
 | Killing Them Softly | 6.00% | ~20,884 |
-| Street Knowledge | 5.00% | ~17,403 |
-| Oh Captain | 5.00% | ~17,403 |
-| Branching Out | 5.00% | ~17,403 |
-| Improvement Missions | 5.00% | ~17,403 |
-| Opportunity Knocked | 5.00% | ~17,403 |
-| City of Big Shoulders | 5.00% | ~17,403 |
-| Mission Mastery | 5.00% | ~17,403 |
+| Street Knowledge | 5.00% | ~17,404 |
+| Oh Captain | 5.00% | ~17,404 |
+| Branching Out | 5.00% | ~17,404 |
+| Improvement Missions | 5.00% | ~17,404 |
+| Opportunity Knocked | 5.00% | ~17,404 |
+| City of Big Shoulders | 5.00% | ~17,404 |
+| Mission Mastery | 5.00% | ~17,404 |
 | Considerable Clams | 4.00% | ~13,923 |
 | Gin Joint | 4.00% | ~13,923 |
 | An Affront to the Enemy | 4.00% | ~13,923 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 829)
 | High Pillow | 0.10% | ~348 |
 | Station Master | 0.10% | ~348 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 348,069 (Ranked 43)  
+Progressed: 348,070 (Ranked 43)  
 Completed: 7 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 7 (0.00%) (Ranked 315)
 | 2023-10-14 | 347,785 | 7 |
 | 2023-10-15 | 347,944 | 7 |
 | 2023-10-16 | 348,061 | 7 |
-| 2023-10-17 | 348,069 | 7 |
+| 2023-10-17 | 348,070 | 7 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 446)  
 Sum: 177 (Ranked 399)  

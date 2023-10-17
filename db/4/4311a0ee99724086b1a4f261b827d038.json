@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 315,
   "Ranking_EOS_NewPlayers": 54,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -398,7 +398,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 226686,
+  "EOS_Progressed": 226690,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1496,
   "EOS_NewCompleters": 0,
@@ -10123,6 +10123,11 @@
       "Time": "2023-10-17T02:23:34.3427321+00:00",
       "NumProgressed": 226686,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-17T03:06:29.3876866+00:00",
+      "NumProgressed": 226690,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -10167,7 +10172,7 @@
       "Name": "Bridge of Sighs Completed",
       "Percentage": 0.8,
       "XP": 35,
-      "UsersEstimate": 1813
+      "UsersEstimate": 1814
     },
     {
       "ID": "HW1_MISSION15_COMPLETE",
@@ -10191,7 +10196,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 47604
+      "UsersEstimate": 47605
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -10215,7 +10220,7 @@
       "Name": "Great Wastelands Completed",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9067
+      "UsersEstimate": 9068
     },
     {
       "ID": "HW1_MISSION5_COMPLETE",
@@ -10319,7 +10324,7 @@
       "Name": "Tanis Completed",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 29469
+      "UsersEstimate": 29470
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -10359,7 +10364,7 @@
       "Name": "The Karos Graveyard Complete",
       "Percentage": 0.8,
       "XP": 35,
-      "UsersEstimate": 1813
+      "UsersEstimate": 1814
     },
     {
       "ID": "HW2_MISSION7_COMPLETE",
@@ -10406,7 +10411,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 226686,
+      "Progressed": 226690,
       "Completed": 0
     }
   ],
@@ -10414,8 +10419,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-10-15T10:00:50.8952056+00:00",
-  "LastChanged_Achievements": "2023-10-17T02:23:34.3427316+00:00",
+  "LastChanged_Achievements": "2023-10-17T03:06:29.3876857+00:00",
   "LastUpdate_AppInfo": "2023-10-12T22:57:12.5355858+00:00",
-  "LastUpdate_Ratings": "2023-10-17T02:18:01.2557466+00:00",
-  "LastUpdate_Achievements": "2023-10-17T02:23:34.342817+00:00"
+  "LastUpdate_Ratings": "2023-10-17T03:00:49.4162583+00:00",
+  "LastUpdate_Achievements": "2023-10-17T03:06:29.3878461+00:00"
 }

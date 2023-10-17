@@ -21,18 +21,18 @@ Rating: 4.54 (Ranked 512)
 | Stacking the Deck | 3.00% | ~20,908 |
 | Personal Assistant Personally Assisted | 3.00% | ~20,908 |
 | This is My Weapon | 3.00% | ~20,908 |
-| Making Your Mark | 2.00% | ~13,938 |
-| Anger Management | 2.00% | ~13,938 |
-| Perks of the Job | 2.00% | ~13,938 |
-| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,938 |
-| Slayer Squad | 2.00% | ~13,938 |
-| Zombologist | 2.00% | ~13,938 |
-| Ooh, Shiny! | 2.00% | ~13,938 |
-| A Patton Emerges | 2.00% | ~13,938 |
-| Humanity Distilled | 2.00% | ~13,938 |
-| I Am the Resurrection | 2.00% | ~13,938 |
-| Down with the Sickness | 2.00% | ~13,938 |
-| Our True Nature | 2.00% | ~13,938 |
+| Making Your Mark | 2.00% | ~13,939 |
+| Anger Management | 2.00% | ~13,939 |
+| Perks of the Job | 2.00% | ~13,939 |
+| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,939 |
+| Slayer Squad | 2.00% | ~13,939 |
+| Zombologist | 2.00% | ~13,939 |
+| Ooh, Shiny! | 2.00% | ~13,939 |
+| A Patton Emerges | 2.00% | ~13,939 |
+| Humanity Distilled | 2.00% | ~13,939 |
+| I Am the Resurrection | 2.00% | ~13,939 |
+| Down with the Sickness | 2.00% | ~13,939 |
+| Our True Nature | 2.00% | ~13,939 |
 | Jumbo Keyring | 1.00% | ~6,969 |
 | Max Headroom | 1.00% | ~6,969 |
 | Go, Bobcats! | 1.00% | ~6,969 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 512)
 | Donk! | 0.20% | ~1,394 |
 | Bucket List | 0.10% | ~697 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 696,921 (Ranked 22)  
+Progressed: 696,926 (Ranked 22)  
 Completed: 2,235 (0.32%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 2,235 (0.32%) (Ranked 200)
 | 2023-10-14 | 695,832 | 2,225 |
 | 2023-10-15 | 696,452 | 2,227 |
 | 2023-10-16 | 696,890 | 2,235 |
-| 2023-10-17 | 696,921 | 2,235 |
+| 2023-10-17 | 696,926 | 2,235 |
 ## Awards
 Max (Great Boss Battles): 6,477  (Ranked 56)  
 Sum: 9,686 (Ranked 91)  

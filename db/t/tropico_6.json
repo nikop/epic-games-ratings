@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 278,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1260,9 +1260,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5589,
+  "EOS_Progressed": 5590,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -11435,6 +11435,11 @@
       "Time": "2023-10-17T01:51:28.7703811+00:00",
       "NumProgressed": 5589,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-17T03:07:43.7771155+00:00",
+      "NumProgressed": 5590,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -11494,7 +11499,7 @@
       "Name": "Viva Tropico!",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "ACH_EP_BETTERREDTHANDEAD",
@@ -11542,7 +11547,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2515
+      "UsersEstimate": 2516
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -11566,7 +11571,7 @@
       "Name": "Number 18",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1341
+      "UsersEstimate": 1342
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -11734,7 +11739,7 @@
       "Name": "Watch The World Burn",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "ACH_WONDER_FAIRYTALE",
@@ -11742,7 +11747,7 @@
       "Name": "Fairy Tale Come True",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "ACH_WONDER_FRENCHCONNECTION",
@@ -11765,15 +11770,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5589,
+      "Progressed": 5590,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-10-16T23:00:54.8022561+00:00",
-  "LastChanged_Achievements": "2023-10-17T02:24:37.9444769+00:00",
+  "LastChanged_Achievements": "2023-10-17T03:07:43.7771147+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:19.8725489+00:00",
-  "LastUpdate_Ratings": "2023-10-17T02:17:38.1789558+00:00",
-  "LastUpdate_Achievements": "2023-10-17T02:24:37.9445683+00:00"
+  "LastUpdate_Ratings": "2023-10-17T03:00:25.1109066+00:00",
+  "LastUpdate_Achievements": "2023-10-17T03:07:43.7772839+00:00"
 }

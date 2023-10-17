@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 177,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 64,
+  "Ranking_EOS_NewPlayers": 63,
   "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2020-11-05T16:00:00+00:00",
@@ -2836,9 +2836,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 34119,
+  "EOS_Progressed": 34122,
   "EOS_Completed": 272,
-  "EOS_NewPlayers": 1129,
+  "EOS_NewPlayers": 1128,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.8,
   "EosHistory": [
@@ -22526,6 +22526,11 @@
       "Time": "2023-10-17T02:25:24.9005057+00:00",
       "NumProgressed": 34119,
       "NumCompleted": 272
+    },
+    {
+      "Time": "2023-10-17T03:08:25.6774158+00:00",
+      "NumProgressed": 34122,
+      "NumCompleted": 272
     }
   ],
   "TotalAchievements": 60,
@@ -22537,7 +22542,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 19789
+      "UsersEstimate": 19791
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -22545,7 +22550,7 @@
       "Name": "No one has to die today!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 15695
+      "UsersEstimate": 15696
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -22553,7 +22558,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 19448
+      "UsersEstimate": 19450
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -22577,7 +22582,7 @@
       "Name": "At the foot of Mount Destiny",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 7506
+      "UsersEstimate": 7507
     },
     {
       "ID": "ACH_D3_Campaign_Darksword_1",
@@ -22585,7 +22590,7 @@
       "Name": "This is fun, I\u2019m going to keep doing this!",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 4094
+      "UsersEstimate": 4095
     },
     {
       "ID": "ACH_D3_Campaign_Darksword_2",
@@ -22625,7 +22630,7 @@
       "Name": "A trip on sea, what fun it can be",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 11600
+      "UsersEstimate": 11601
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_1",
@@ -22633,7 +22638,7 @@
       "Name": "The Stones\u2019 Power",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 6141
+      "UsersEstimate": 6142
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_2",
@@ -22649,7 +22654,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 16718
+      "UsersEstimate": 16720
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -22673,7 +22678,7 @@
       "Name": "Stock Market Crash",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 10577
+      "UsersEstimate": 10578
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_1",
@@ -22689,7 +22694,7 @@
       "Name": "Then let them eat cake!",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 4094
+      "UsersEstimate": 4095
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_Completed",
@@ -22697,7 +22702,7 @@
       "Name": "The last burger",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 12624
+      "UsersEstimate": 12625
     },
     {
       "ID": "ACH_D3_Campaign_Fire_1",
@@ -22729,7 +22734,7 @@
       "Name": "Braiiiiins!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 12624
+      "UsersEstimate": 12625
     },
     {
       "ID": "ACH_D3_Campaign_Graves_2",
@@ -22745,7 +22750,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 14671
+      "UsersEstimate": 14672
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -22753,7 +22758,7 @@
       "Name": "The One-Huge-Army-Building Evil",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 13648
+      "UsersEstimate": 13649
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_2",
@@ -22761,7 +22766,7 @@
       "Name": "Hands off the Dungeonheart!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 12283
+      "UsersEstimate": 12284
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_Completed",
@@ -22769,7 +22774,7 @@
       "Name": "Rusty Steel",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 13989
+      "UsersEstimate": 13990
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_1",
@@ -22777,7 +22782,7 @@
       "Name": "Thirst quencher",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 9212
+      "UsersEstimate": 9213
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_2",
@@ -22793,7 +22798,7 @@
       "Name": "Ogre Solo!",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 9212
+      "UsersEstimate": 9213
     },
     {
       "ID": "ACH_D3_Campaign_Infested_1",
@@ -22817,7 +22822,7 @@
       "Name": "Destroy the thing",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 8871
+      "UsersEstimate": 8872
     },
     {
       "ID": "ACH_D3_Campaign_Pain_1",
@@ -22841,7 +22846,7 @@
       "Name": "Where there is Light, there is Shadow",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 7847
+      "UsersEstimate": 7848
     },
     {
       "ID": "ACH_D3_Campaign_Renegade_1",
@@ -22849,7 +22854,7 @@
       "Name": "Flat as a pancake",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 5800
+      "UsersEstimate": 5801
     },
     {
       "ID": "ACH_D3_Campaign_Renegade_2",
@@ -22889,7 +22894,7 @@
       "Name": "The Force disturbed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 7165
+      "UsersEstimate": 7166
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_1",
@@ -22897,7 +22902,7 @@
       "Name": "Factory farming",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 10577
+      "UsersEstimate": 10578
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_2",
@@ -22913,7 +22918,7 @@
       "Name": "Damned good",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 11259
+      "UsersEstimate": 11260
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_1",
@@ -22921,7 +22926,7 @@
       "Name": "Death and destruction!",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 15354
+      "UsersEstimate": 15355
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_2",
@@ -22937,7 +22942,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 23883
+      "UsersEstimate": 23885
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -22977,7 +22982,7 @@
       "Name": "Hearts are trump",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 2388
+      "UsersEstimate": 2389
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_Completed",
@@ -22985,7 +22990,7 @@
       "Name": "Not-So-Overproud",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 10236
+      "UsersEstimate": 10237
     },
     {
       "ID": "ACH_D3_Campaign_Water_1",
@@ -22993,7 +22998,7 @@
       "Name": "Lifeguard",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 5800
+      "UsersEstimate": 5801
     },
     {
       "ID": "ACH_D3_Campaign_Water_2",
@@ -23009,22 +23014,22 @@
       "Name": "Tide Master",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 8871
+      "UsersEstimate": 8872
     }
   ],
   "AchievementSets": [
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 34119,
+      "Progressed": 34122,
       "Completed": 272
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-10-16T17:58:59.1889369+00:00",
-  "LastChanged_Achievements": "2023-10-17T02:25:24.9005047+00:00",
+  "LastChanged_Achievements": "2023-10-17T03:08:25.6774151+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:18.1090786+00:00",
-  "LastUpdate_Ratings": "2023-10-17T02:15:41.8016911+00:00",
-  "LastUpdate_Achievements": "2023-10-17T02:25:24.9006792+00:00"
+  "LastUpdate_Ratings": "2023-10-17T02:58:19.7360731+00:00",
+  "LastUpdate_Achievements": "2023-10-17T03:08:25.6777512+00:00"
 }

@@ -15,9 +15,9 @@
 | Purification Pioneer | 26.00% | ~15 |
 | Sanctuary Guardian | 26.00% | ~15 |
 | Wild's Keeper | 26.00% | ~15 |
+| Mind Illuminator | 24.00% | ~14 |
 | Behenian Champion | 24.00% | ~14 |
 | Loyal Partner | 22.00% | ~13 |
-| Mind Illuminator | 22.00% | ~13 |
 | Stellar Dismantler | 22.00% | ~13 |
 | Anomaly Destroyer | 21.00% | ~12 |
 | Aquarian Champion | 21.00% | ~12 |

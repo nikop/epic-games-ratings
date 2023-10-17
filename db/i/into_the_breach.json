@@ -4,11 +4,11 @@
   "ProductSlug": "into-the-breach",
   "Ranking_Rating": 49,
   "Ranking_Popularity": 214,
-  "Ranking_PopularitySum": 148,
+  "Ranking_PopularitySum": 147,
   "Ranking_EOS_Progress": 671,
   "Ranking_EOS_Completed": 315,
   "Ranking_EOS_NewPlayers": 394,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2019-12-19T16:00:00+00:00",
     "PcReleaseDate": "2018-02-27T16:00:00+00:00",
@@ -3541,11 +3541,17 @@
       "Rating": 4.84,
       "NumberOfAwards": 4032,
       "NumberOfAwardsMax": 430
+    },
+    {
+      "Time": "2023-10-17T02:57:42.4163487+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 4034,
+      "NumberOfAwardsMax": 432
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4032,
-  "NumberOfAwardsMax": 430,
+  "NumberOfAwards": 4034,
+  "NumberOfAwardsMax": 432,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -3582,7 +3588,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 430
+      "Count": 432
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3638,8 +3644,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:50.8479509+00:00",
-  "LastChanged": "2023-10-17T01:41:23.4901426+00:00",
+  "LastChanged": "2023-10-17T02:57:42.4163485+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:14.5488837+00:00",
-  "LastUpdate_Ratings": "2023-10-17T02:15:06.170643+00:00",
-  "LastUpdate_Achievements": "2023-10-17T02:21:52.7708356+00:00"
+  "LastUpdate_Ratings": "2023-10-17T02:57:42.4163492+00:00",
+  "LastUpdate_Achievements": "2023-10-17T03:04:32.6666711+00:00"
 }

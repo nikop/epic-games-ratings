@@ -88,9 +88,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6200,
+  "EOS_Progressed": 6201,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 278,
+  "EOS_NewPlayers": 279,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -3548,6 +3548,11 @@
       "Time": "2023-10-17T02:24:50.1606029+00:00",
       "NumProgressed": 6200,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-10-17T03:07:57.8369257+00:00",
+      "NumProgressed": 6201,
+      "NumCompleted": 26
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -3560,7 +3565,7 @@
       "Name": "First of Many",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 5332
+      "UsersEstimate": 5333
     },
     {
       "ID": "achievement_01_02",
@@ -3576,7 +3581,7 @@
       "Name": "Brand New Ride",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3844
+      "UsersEstimate": 3845
     },
     {
       "ID": "achievement_01_04",
@@ -3584,7 +3589,7 @@
       "Name": "Bzzzt",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 4464
+      "UsersEstimate": 4465
     },
     {
       "ID": "achievement_01_05",
@@ -3600,7 +3605,7 @@
       "Name": "Mr Wheeler",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 3596
+      "UsersEstimate": 3597
     },
     {
       "ID": "achievement_01_07",
@@ -3616,7 +3621,7 @@
       "Name": "Trophy Collector",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4526
+      "UsersEstimate": 4527
     },
     {
       "ID": "achievement_01_09",
@@ -3632,7 +3637,7 @@
       "Name": "Beat the Clock",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3286
+      "UsersEstimate": 3287
     },
     {
       "ID": "achievement_02_01",
@@ -3848,7 +3853,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 5270
+      "UsersEstimate": 5271
     },
     {
       "ID": "achievement_04_09",
@@ -3863,7 +3868,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 6200,
+      "Progressed": 6201,
       "Completed": 26
     }
   ],
@@ -3871,8 +3876,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-10-15T01:47:00.4126107+00:00",
-  "LastChanged_Achievements": "2023-10-17T02:24:50.1606023+00:00",
+  "LastChanged_Achievements": "2023-10-17T03:07:57.8369249+00:00",
   "LastUpdate_AppInfo": "2023-10-12T18:57:03.8112557+00:00",
-  "LastUpdate_Ratings": "2023-10-17T02:19:06.745261+00:00",
-  "LastUpdate_Achievements": "2023-10-17T02:24:50.1606532+00:00"
+  "LastUpdate_Ratings": "2023-10-17T03:02:02.5889843+00:00",
+  "LastUpdate_Achievements": "2023-10-17T03:07:57.8369803+00:00"
 }

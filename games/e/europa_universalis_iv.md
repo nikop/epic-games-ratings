@@ -21,7 +21,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Princess is in this Castle | 1.00% | ~4,328 |
 | True Catholic | 1.00% | ~4,328 |
 | Truly Divine Ruler | 1.00% | ~4,328 |
-| It's all about luck | 0.90% | ~3,895 |
+| It's all about luck | 0.90% | ~3,896 |
 | Blockader | 0.80% | ~3,463 |
 | Double the Love | 0.80% | ~3,463 |
 | Royal Authority | 0.80% | ~3,463 |
@@ -38,13 +38,13 @@ Number of Ratings: 8,414  (23.09.2022)
 | Isn't this the way to India? | 0.40% | ~1,731 |
 | Queen of Conquest | 0.40% | ~1,731 |
 | The Five Colonies | 0.40% | ~1,731 |
-| All That's Thine Shall Be Mine | 0.30% | ~1,298 |
-| Down Under | 0.30% | ~1,298 |
-| The Emperors new clothes | 0.30% | ~1,298 |
-| A Golden Empire | 0.30% | ~1,298 |
-| Market Control | 0.30% | ~1,298 |
-| Populists in Government | 0.30% | ~1,298 |
-| Trustworthy | 0.30% | ~1,298 |
+| All That's Thine Shall Be Mine | 0.30% | ~1,299 |
+| Down Under | 0.30% | ~1,299 |
+| The Emperors new clothes | 0.30% | ~1,299 |
+| A Golden Empire | 0.30% | ~1,299 |
+| Market Control | 0.30% | ~1,299 |
+| Populists in Government | 0.30% | ~1,299 |
+| Trustworthy | 0.30% | ~1,299 |
 | Absolutely | 0.20% | ~866 |
 | All belongs to Mother Russia | 0.20% | ~866 |
 | At every continent | 0.20% | ~866 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 432,827 (Ranked 40)  
+Progressed: 432,836 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -541,7 +541,7 @@ Completed: 1 (0.00%) (Ranked 315)
 | 2023-10-14 | 431,056 | 1 |
 | 2023-10-15 | 432,104 | 1 |
 | 2023-10-16 | 432,768 | 1 |
-| 2023-10-17 | 432,827 | 1 |
+| 2023-10-17 | 432,836 | 1 |
 ## Awards
 Max (Educational): 6,561  (Ranked 55)  
 Sum: 53,905 (Ranked 25)  

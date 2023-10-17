@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 671,
   "Ranking_EOS_Completed": 315,
   "Ranking_EOS_NewPlayers": 394,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2019-09-13T15:00:00+00:00",
     "PcReleaseDate": "2019-09-13T15:00:00+00:00",
@@ -13316,10 +13316,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 357008,
       "NumberOfAwardsMax": 118824
+    },
+    {
+      "Time": "2023-10-17T02:58:06.5191379+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 357032,
+      "NumberOfAwardsMax": 118824
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 357008,
+  "NumberOfAwards": 357032,
   "NumberOfAwardsMax": 118824,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -13333,7 +13339,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 30044
+      "Count": 30068
     },
     {
       "Text": "This game is Highly Recommended",
@@ -13401,8 +13407,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:32.2549878+00:00",
-  "LastChanged": "2023-10-17T02:15:29.4540614+00:00",
+  "LastChanged": "2023-10-17T02:58:06.5191377+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:10.6275971+00:00",
-  "LastUpdate_Ratings": "2023-10-17T02:15:29.454062+00:00",
-  "LastUpdate_Achievements": "2023-10-17T02:25:08.3097652+00:00"
+  "LastUpdate_Ratings": "2023-10-17T02:58:06.5191385+00:00",
+  "LastUpdate_Achievements": "2023-10-17T03:08:07.1186171+00:00"
 }

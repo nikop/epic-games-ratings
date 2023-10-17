@@ -530,9 +530,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 68268,
+  "EOS_Progressed": 68271,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 803,
+  "EOS_NewPlayers": 805,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -18290,6 +18290,11 @@
       "Time": "2023-10-17T02:27:05.7236202+00:00",
       "NumProgressed": 68268,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-10-17T03:09:23.6627794+00:00",
+      "NumProgressed": 68271,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 67,
@@ -18301,7 +18306,7 @@
       "Name": "Follow the Light",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 29355
+      "UsersEstimate": 29357
     },
     {
       "ID": "02",
@@ -18309,7 +18314,7 @@
       "Name": "Nordic Walking",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 19115
+      "UsersEstimate": 19116
     },
     {
       "ID": "03",
@@ -18317,7 +18322,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 18432
+      "UsersEstimate": 18433
     },
     {
       "ID": "04",
@@ -18325,7 +18330,7 @@
       "Name": "Boob Tube",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3413
+      "UsersEstimate": 3414
     },
     {
       "ID": "05",
@@ -18333,7 +18338,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 16384
+      "UsersEstimate": 16385
     },
     {
       "ID": "06",
@@ -18357,7 +18362,7 @@
       "Name": "Iron Horse",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 10240
+      "UsersEstimate": 10241
     },
     {
       "ID": "09",
@@ -18413,7 +18418,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 8192
+      "UsersEstimate": 8193
     },
     {
       "ID": "16",
@@ -18429,7 +18434,7 @@
       "Name": "Departure",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5461
+      "UsersEstimate": 5462
     },
     {
       "ID": "18",
@@ -18453,7 +18458,7 @@
       "Name": "If It Flies, It Burns",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3413
+      "UsersEstimate": 3414
     },
     {
       "ID": "21",
@@ -18469,7 +18474,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 10240
+      "UsersEstimate": 10241
     },
     {
       "ID": "23",
@@ -18509,7 +18514,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 10240
+      "UsersEstimate": 10241
     },
     {
       "ID": "28",
@@ -18517,7 +18522,7 @@
       "Name": "Come One, Come All",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 10240
+      "UsersEstimate": 10241
     },
     {
       "ID": "29",
@@ -18549,7 +18554,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 23211
+      "UsersEstimate": 23212
     },
     {
       "ID": "33",
@@ -18565,7 +18570,7 @@
       "Name": "Energized!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 8192
+      "UsersEstimate": 8193
     },
     {
       "ID": "35",
@@ -18573,7 +18578,7 @@
       "Name": "Let There Be Light",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 24576
+      "UsersEstimate": 24578
     },
     {
       "ID": "36",
@@ -18613,7 +18618,7 @@
       "Name": "Right of Way",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 7509
+      "UsersEstimate": 7510
     },
     {
       "ID": "41",
@@ -18677,7 +18682,7 @@
       "Name": "KBF-FM",
       "Percentage": 5,
       "XP": 110,
-      "UsersEstimate": 3413
+      "UsersEstimate": 3414
     },
     {
       "ID": "49",
@@ -18701,7 +18706,7 @@
       "Name": "A Friend in Need",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 2856
+      "UsersEstimate": 2857
     },
     {
       "ID": "52",
@@ -18773,7 +18778,7 @@
       "Name": "Kill Your Darlings",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1269
+      "UsersEstimate": 1270
     },
     {
       "ID": "61",
@@ -18829,28 +18834,28 @@
       "Name": "Heartbreaker",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1269
+      "UsersEstimate": 1270
     }
   ],
   "AchievementSets": [
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 68268,
+      "Progressed": 68271,
       "Completed": 69
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 31736,
+      "Progressed": 31739,
       "Completed": 56
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-10-15T17:00:51.0495821+00:00",
-  "LastChanged_Achievements": "2023-10-17T02:27:05.7236197+00:00",
+  "LastChanged_Achievements": "2023-10-17T03:09:23.6627788+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:29.5404552+00:00",
-  "LastUpdate_Ratings": "2023-10-17T02:14:43.8567166+00:00",
-  "LastUpdate_Achievements": "2023-10-17T02:27:05.7237981+00:00"
+  "LastUpdate_Ratings": "2023-10-17T02:57:16.2724353+00:00",
+  "LastUpdate_Achievements": "2023-10-17T03:09:23.6629663+00:00"
 }

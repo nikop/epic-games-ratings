@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 297,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
     "PcReleaseDate": "2013-09-19T15:00:00+00:00",
@@ -1748,9 +1748,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 60919,
+  "EOS_Progressed": 60921,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 542,
+  "EOS_NewPlayers": 541,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -21423,6 +21423,11 @@
       "Time": "2023-10-17T02:26:09.4895105+00:00",
       "NumProgressed": 60919,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-17T03:08:42.41108+00:00",
+      "NumProgressed": 60921,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -21434,7 +21439,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 33505
+      "UsersEstimate": 33507
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -21690,7 +21695,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 19494
+      "UsersEstimate": 19495
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -21722,7 +21727,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 38379
+      "UsersEstimate": 38380
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -21730,7 +21735,7 @@
       "Name": "Gott Mit Uns",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7310
+      "UsersEstimate": 7311
     },
     {
       "ID": "VERDUN_ACH_LEVEL100",
@@ -21802,7 +21807,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 47517
+      "UsersEstimate": 47518
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -21850,7 +21855,7 @@
       "Name": "Furchtlos und Treu",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7919
+      "UsersEstimate": 7920
     },
     {
       "ID": "VERDUN_ACH_SCOTTISH",
@@ -21898,22 +21903,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 22540
+      "UsersEstimate": 22541
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 60919,
+      "Progressed": 60921,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-09-19T10:59:28.3016701+00:00",
-  "LastChanged_Achievements": "2023-10-17T02:26:09.48951+00:00",
+  "LastChanged_Achievements": "2023-10-17T03:08:42.4110788+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:32.0014815+00:00",
-  "LastUpdate_Ratings": "2023-10-17T02:16:02.7170927+00:00",
-  "LastUpdate_Achievements": "2023-10-17T02:26:09.4896595+00:00"
+  "LastUpdate_Ratings": "2023-10-17T02:58:44.6117778+00:00",
+  "LastUpdate_Achievements": "2023-10-17T03:08:42.4113871+00:00"
 }

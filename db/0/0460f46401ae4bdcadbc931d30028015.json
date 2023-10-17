@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 315,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -394,7 +394,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2585,
+  "EOS_Progressed": 2587,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 260,
   "EOS_NewCompleters": 0,
@@ -2709,6 +2709,11 @@
       "Time": "2023-10-17T02:23:22.7995149+00:00",
       "NumProgressed": 2585,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-17T03:06:16.3114367+00:00",
+      "NumProgressed": 2587,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -2729,7 +2734,7 @@
       "Name": "Stud Finder",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "achievement_11",
@@ -2745,7 +2750,7 @@
       "Name": "Dealmaker",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "achievement_13",
@@ -2817,7 +2822,7 @@
       "Name": "Saw It Coming",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 1448
+      "UsersEstimate": 1449
     },
     {
       "ID": "achievement_21",
@@ -2849,7 +2854,7 @@
       "Name": "Change of Scenery",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "achievement_6",
@@ -2857,7 +2862,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "achievement_7",
@@ -2888,7 +2893,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 2585,
+      "Progressed": 2587,
       "Completed": 0
     }
   ],
@@ -2896,8 +2901,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-10-16T17:05:43.4260697+00:00",
-  "LastChanged_Achievements": "2023-10-17T02:23:22.7995143+00:00",
+  "LastChanged_Achievements": "2023-10-17T03:06:16.3114359+00:00",
   "LastUpdate_AppInfo": "2023-10-12T02:57:10.0786796+00:00",
-  "LastUpdate_Ratings": "2023-10-17T02:19:13.7181161+00:00",
-  "LastUpdate_Achievements": "2023-10-17T02:23:22.7995414+00:00"
+  "LastUpdate_Ratings": "2023-10-17T03:02:09.9694068+00:00",
+  "LastUpdate_Achievements": "2023-10-17T03:06:16.3114885+00:00"
 }

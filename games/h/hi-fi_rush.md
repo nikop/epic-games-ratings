@@ -15,8 +15,8 @@ Rating: 4.85 (Ranked 42)
 | Perfect Parry | 11.00% | ~456 |
 | Alright, that felt AWESOME! | 11.00% | ~456 |
 | This will cost you big time | 10.00% | ~415 |
-| I play my own way! | 10.00% | ~415 |
 | Uh, they were broken when I got here | 10.00% | ~415 |
+| I play my own way! | 9.00% | ~373 |
 | Whoa! There's ANOTHER health bar!? | 9.00% | ~373 |
 | Z-shielding's got nothing on us! | 9.00% | ~373 |
 | Kissing the sky! | 9.00% | ~373 |
@@ -77,7 +77,7 @@ Rating: 4.85 (Ranked 42)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,147 (Ranked 178)  
+Progressed: 4,148 (Ranked 178)  
 Completed: 8 (0.19%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,6 +253,7 @@ Completed: 8 (0.19%) (Ranked 226)
 | 2023-10-14 | 4,144 | 8 |
 | 2023-10-15 | 4,146 | 8 |
 | 2023-10-16 | 4,147 | 8 |
+| 2023-10-17 | 4,148 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

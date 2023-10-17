@@ -4,7 +4,7 @@
   "ProductSlug": "aya-and-naya-b7791e",
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 75,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-08-17T20:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1025,
+  "EOS_Progressed": 1026,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 185,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 3.61,
   "EosHistory": [
@@ -2381,6 +2381,11 @@
       "Time": "2023-10-17T02:26:41.2022789+00:00",
       "NumProgressed": 1025,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-10-17T03:09:18.7084722+00:00",
+      "NumProgressed": 1026,
+      "NumCompleted": 37
     }
   ],
   "AchievementsAdded": "2023-08-08T22:02:18.1743145+00:00",
@@ -2393,15 +2398,15 @@
       "Name": "Played!",
       "Percentage": 83,
       "XP": 200,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "Mission2",
       "SetID": "6igjng7",
       "Name": "Mission 1 clear",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 200,
-      "UsersEstimate": 410
+      "UsersEstimate": 400
     },
     {
       "ID": "Mission3",
@@ -2432,14 +2437,14 @@
     {
       "ID": "6igjng7",
       "IsBase": true,
-      "Progressed": 1025,
+      "Progressed": 1026,
       "Completed": 37
     }
   ],
   "FirstSeen": "2023-08-19T18:58:05.6794692+00:00",
   "FirstSeenAchievements": "2023-08-08T21:02:12.6548497+00:00",
-  "LastChanged_Achievements": "2023-10-17T02:26:41.2022783+00:00",
+  "LastChanged_Achievements": "2023-10-17T03:09:18.7084715+00:00",
   "LastUpdate_AppInfo": "2023-10-16T13:57:00.9824525+00:00",
-  "LastUpdate_Ratings": "2023-10-17T02:18:20.0453252+00:00",
-  "LastUpdate_Achievements": "2023-10-17T02:26:41.2022981+00:00"
+  "LastUpdate_Ratings": "2023-10-17T03:01:10.7092001+00:00",
+  "LastUpdate_Achievements": "2023-10-17T03:09:18.7085107+00:00"
 }

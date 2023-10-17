@@ -6,14 +6,14 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Handyman | 2.00% | ~18,891 |
-| Zealous | 2.00% | ~18,891 |
-| It wakes | 2.00% | ~18,891 |
-| Not half bad | 2.00% | ~18,891 |
-| Apt Survivor | 2.00% | ~18,891 |
-| Survival Treasures | 2.00% | ~18,891 |
-| Skillful | 2.00% | ~18,891 |
-| Make Some Noise | 2.00% | ~18,891 |
+| Handyman | 2.00% | ~18,892 |
+| Zealous | 2.00% | ~18,892 |
+| It wakes | 2.00% | ~18,892 |
+| Not half bad | 2.00% | ~18,892 |
+| Apt Survivor | 2.00% | ~18,892 |
+| Survival Treasures | 2.00% | ~18,892 |
+| Skillful | 2.00% | ~18,892 |
+| Make Some Noise | 2.00% | ~18,892 |
 | The Grand Sacrifice | 1.00% | ~9,446 |
 | Agonizing Escape | 1.00% | ~9,446 |
 | Backdoor Escape | 1.00% | ~9,446 |
@@ -41,16 +41,16 @@ Number of Ratings: 70,340  (23.09.2022)
 | III | 0.70% | ~6,612 |
 | With Scars to Show | 0.70% | ~6,612 |
 | Rebuilding The Borgo | 0.70% | ~6,612 |
-| Blood on your hands | 0.60% | ~5,667 |
-| Escape Artist | 0.60% | ~5,667 |
-| Made it out alive! | 0.60% | ~5,667 |
-| Near-Death Experience | 0.60% | ~5,667 |
-| Cherish your Life | 0.60% | ~5,667 |
-| First to the Punch | 0.60% | ~5,667 |
-| Every Last Drop | 0.60% | ~5,667 |
-| Raccoon City Recruit | 0.60% | ~5,667 |
-| Flight to Freedom | 0.60% | ~5,667 |
-| A Fast Death | 0.60% | ~5,667 |
+| Blood on your hands | 0.60% | ~5,668 |
+| Escape Artist | 0.60% | ~5,668 |
+| Made it out alive! | 0.60% | ~5,668 |
+| Near-Death Experience | 0.60% | ~5,668 |
+| Cherish your Life | 0.60% | ~5,668 |
+| First to the Punch | 0.60% | ~5,668 |
+| Every Last Drop | 0.60% | ~5,668 |
+| Raccoon City Recruit | 0.60% | ~5,668 |
+| Flight to Freedom | 0.60% | ~5,668 |
+| A Fast Death | 0.60% | ~5,668 |
 | Gifts for the Fog | 0.50% | ~4,723 |
 | III-50 | 0.50% | ~4,723 |
 | Shock Therapy | 0.50% | ~4,723 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~945 |
 | Adept Ripley | 0.10% | ~945 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 944,564 (Ranked 14)  
+Progressed: 944,601 (Ranked 14)  
 Completed: 51 (0.01%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -416,7 +416,7 @@ Completed: 51 (0.01%) (Ranked 297)
 | 2023-10-14 | 939,759 | 50 |
 | 2023-10-15 | 942,498 | 51 |
 | 2023-10-16 | 944,360 | 51 |
-| 2023-10-17 | 944,564 | 51 |
+| 2023-10-17 | 944,601 | 51 |
 ## Awards
 Max (Diverse Characters): 33,980  (Ranked 15)  
 Sum: 262,969 (Ranked 13)  

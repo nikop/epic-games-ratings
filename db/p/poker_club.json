@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 33,
   "Ranking_EOS_Completed": 315,
   "Ranking_EOS_NewPlayers": 52,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-04-27T15:00:00+00:00",
     "PcReleaseDate": "2020-11-20T00:00:00+00:00",
@@ -838,7 +838,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 531522,
+  "EOS_Progressed": 531524,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 1616,
   "EOS_NewCompleters": 0,
@@ -20988,6 +20988,11 @@
       "Time": "2023-10-17T02:24:10.9864709+00:00",
       "NumProgressed": 531522,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-17T03:07:11.5820943+00:00",
+      "NumProgressed": 531524,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -21007,7 +21012,7 @@
       "Name": "Backdoor",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 132880
+      "UsersEstimate": 132881
     },
     {
       "ID": "BeforeYouWreckYourself",
@@ -21103,7 +21108,7 @@
       "Name": "Deadly Assassin",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 79728
+      "UsersEstimate": 79729
     },
     {
       "ID": "DogEatDog",
@@ -21151,7 +21156,7 @@
       "Name": "Handy",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 217924
+      "UsersEstimate": 217925
     },
     {
       "ID": "HoldingYourOwn",
@@ -21247,7 +21252,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 403957
+      "UsersEstimate": 403958
     },
     {
       "ID": "ProPlayer",
@@ -21351,14 +21356,14 @@
       "Name": "W.H.I.P.",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 58467
+      "UsersEstimate": 58468
     }
   ],
   "AchievementSets": [
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 531522,
+      "Progressed": 531524,
       "Completed": 2
     }
   ],
@@ -21366,8 +21371,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2023-10-14T07:57:51.3057891+00:00",
-  "LastChanged_Achievements": "2023-10-17T02:24:10.9864703+00:00",
+  "LastChanged_Achievements": "2023-10-17T03:07:11.5820935+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:39.863967+00:00",
-  "LastUpdate_Ratings": "2023-10-17T02:16:15.3479+00:00",
-  "LastUpdate_Achievements": "2023-10-17T02:24:10.986627+00:00"
+  "LastUpdate_Ratings": "2023-10-17T02:58:58.243457+00:00",
+  "LastUpdate_Achievements": "2023-10-17T03:07:11.5823965+00:00"
 }

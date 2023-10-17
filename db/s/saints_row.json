@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
     "PcReleaseDate": "2022-08-23T07:00:00+00:00",
@@ -3834,9 +3834,9 @@
       "Count": 1069
     }
   ],
-  "EOS_Progressed": 75251,
+  "EOS_Progressed": 75253,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 790,
+  "EOS_NewPlayers": 791,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -24044,6 +24044,11 @@
       "Time": "2023-10-17T02:21:20.102061+00:00",
       "NumProgressed": 75251,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-17T03:03:45.4715009+00:00",
+      "NumProgressed": 75253,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -24071,7 +24076,7 @@
       "Name": "Quality Time",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 13545
+      "UsersEstimate": 13546
     },
     {
       "ID": "buy_1_thing_from_every_store",
@@ -24159,7 +24164,7 @@
       "Name": "Wet Work",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 24080
+      "UsersEstimate": 24081
     },
     {
       "ID": "complete_mission_1",
@@ -24167,7 +24172,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 34615
+      "UsersEstimate": 34616
     },
     {
       "ID": "customize_a_vehicle",
@@ -24183,7 +24188,7 @@
       "Name": "Optimized",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 27843
+      "UsersEstimate": 27844
     },
     {
       "ID": "cutting_edge_materials",
@@ -24263,7 +24268,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 24080
+      "UsersEstimate": 24081
     },
     {
       "ID": "fully_complete_a_building",
@@ -24303,7 +24308,7 @@
       "Name": "Performance Review",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 27090
+      "UsersEstimate": 27091
     },
     {
       "ID": "hit_max_level",
@@ -24327,7 +24332,7 @@
       "Name": "Picking Fights",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15050
+      "UsersEstimate": 15051
     },
     {
       "ID": "kill_enemy_with_tetherd_object",
@@ -24335,7 +24340,7 @@
       "Name": "Wrecking Ball",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 21070
+      "UsersEstimate": 21071
     },
     {
       "ID": "kill_tank_driver_with_rail",
@@ -24351,7 +24356,7 @@
       "Name": "Making a Name",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 26338
+      "UsersEstimate": 26339
     },
     {
       "ID": "one_third_purple",
@@ -24439,7 +24444,7 @@
       "Name": "To The Nines",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 31605
+      "UsersEstimate": 31606
     },
     {
       "ID": "whole_map_purple",
@@ -24478,13 +24483,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 75251,
+      "Progressed": 75253,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 46888,
+      "Progressed": 46890,
       "Completed": 4128
     }
   ],
@@ -24492,8 +24497,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-10-16T19:59:02.6187073+00:00",
-  "LastChanged_Achievements": "2023-10-17T02:21:20.1020604+00:00",
+  "LastChanged_Achievements": "2023-10-17T03:03:45.4715001+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:20.7071116+00:00",
-  "LastUpdate_Ratings": "2023-10-17T02:15:46.2228778+00:00",
-  "LastUpdate_Achievements": "2023-10-17T02:21:20.1022295+00:00"
+  "LastUpdate_Ratings": "2023-10-17T02:58:24.8601368+00:00",
+  "LastUpdate_Achievements": "2023-10-17T03:03:45.4718177+00:00"
 }

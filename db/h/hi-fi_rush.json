@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -130,9 +130,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4147,
+  "EOS_Progressed": 4148,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7000,6 +7000,11 @@
       "Time": "2023-10-16T23:04:21.916387+00:00",
       "NumProgressed": 4147,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-17T03:04:14.0326306+00:00",
+      "NumProgressed": 4148,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7137,9 +7142,9 @@
       "ID": "Ach017",
       "SetID": "12n4k20",
       "Name": "I play my own way!",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 415
+      "UsersEstimate": 373
     },
     {
       "ID": "Ach018",
@@ -7578,13 +7583,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4147,
+      "Progressed": 4148,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2668,
+      "Progressed": 2669,
       "Completed": 1930
     }
   ],
@@ -7592,8 +7597,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-09-20T21:58:46.0382146+00:00",
-  "LastChanged_Achievements": "2023-10-17T02:21:36.4169533+00:00",
+  "LastChanged_Achievements": "2023-10-17T03:04:14.03263+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:56.0502704+00:00",
-  "LastUpdate_Ratings": "2023-10-17T02:15:02.7286673+00:00",
-  "LastUpdate_Achievements": "2023-10-17T02:21:36.4170731+00:00"
+  "LastUpdate_Ratings": "2023-10-17T02:57:37.887061+00:00",
+  "LastUpdate_Achievements": "2023-10-17T03:04:14.0327649+00:00"
 }
