@@ -1,51 +1,51 @@
 # Miasma Chronicles
 [Store](https://store.epicgames.com/en-US/p/miasma-chronicles)  
 [View Rawdata](../../db/m/miasma_chronicles.json)  
-Rating: 4.43 (Ranked 674)  
+Rating: 4.43 (Ranked 675)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,360 |
-| Ranidaphobia | 78.00% | ~1,153 |
-| Aspiring Editor | 75.00% | ~1,108 |
+| First Blood | 92.00% | ~1,361 |
+| Ranidaphobia | 78.00% | ~1,154 |
+| Aspiring Editor | 75.00% | ~1,109 |
 | Gun for Hire | 70.00% | ~1,035 |
-| I am the law! | 64.00% | ~946 |
-| Lumberjack | 54.00% | ~798 |
-| Croaked | 49.00% | ~724 |
-| Limp Richard | 49.00% | ~724 |
-| Editor Adept | 48.00% | ~709 |
-| Exorcist | 48.00% | ~709 |
-| From Darkness to Light | 48.00% | ~709 |
+| I am the law! | 64.00% | ~947 |
+| Lumberjack | 54.00% | ~799 |
+| Croaked | 49.00% | ~725 |
+| Limp Richard | 49.00% | ~725 |
+| Editor Adept | 48.00% | ~710 |
+| Exorcist | 48.00% | ~710 |
+| From Darkness to Light | 48.00% | ~710 |
 | Giant Killer | 46.00% | ~680 |
-| Sensei | 44.00% | ~650 |
+| Sensei | 44.00% | ~651 |
 | Firestarter | 42.00% | ~621 |
 | The meaning of Kain | 42.00% | ~621 |
 | Technophobe | 41.00% | ~606 |
-| Recycler | 40.00% | ~591 |
+| Recycler | 40.00% | ~592 |
 | Are you not entertained? | 36.00% | ~532 |
-| Ganglord | 36.00% | ~532 |
 | Jarhead | 36.00% | ~532 |
-| Infiltrator | 35.00% | ~517 |
+| Ganglord | 35.00% | ~518 |
+| Infiltrator | 35.00% | ~518 |
 | Experienced | 33.00% | ~488 |
 | Pushing Daisy | 33.00% | ~488 |
 | Hold The Line | 32.00% | ~473 |
 | Endgame | 28.00% | ~414 |
 | Savior | 27.00% | ~399 |
-| There Can Be Only One! | 26.00% | ~384 |
+| There Can Be Only One! | 26.00% | ~385 |
 | Chain Killer | 23.00% | ~340 |
 | Silent but Violent | 23.00% | ~340 |
 | The Watchers | 22.00% | ~325 |
 | Commando | 17.00% | ~251 |
 | Dr Jones | 17.00% | ~251 |
 | Newtonian Knockout | 17.00% | ~251 |
-| Chaos Theory | 16.00% | ~236 |
+| Chaos Theory | 16.00% | ~237 |
 | Ruthless | 14.00% | ~207 |
 | Side Order | 11.00% | ~163 |
 | Bot Whisperer | 9.00% | ~133 |
 | Chain Reaction | 9.00% | ~133 |
 | Curveball | 8.00% | ~118 |
-| Dressed To Kill | 7.00% | ~103 |
-| Wipe Out | 7.00% | ~103 |
+| Dressed To Kill | 7.00% | ~104 |
+| Wipe Out | 7.00% | ~104 |
 | Master Editor | 6.00% | ~89 |
 | Attenborough | 5.00% | ~74 |
 | Bookworm | 3.00% | ~44 |
@@ -57,7 +57,7 @@ Rating: 4.43 (Ranked 674)
 | QA Has Suffered! (Redux) | 0.80% | ~12 |
 | Goaaaaal! | 0.70% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,478 (Ranked 221)  
+Progressed: 1,479 (Ranked 221)  
 Completed: 0 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 0 (0.00%) (Ranked 315)
 | 2023-10-10 | 1,474 | 0 |
 | 2023-10-12 | 1,475 | 0 |
 | 2023-10-15 | 1,477 | 0 |
-| 2023-10-17 | 1,478 | 0 |
+| 2023-10-17 | 1,479 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

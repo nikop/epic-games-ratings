@@ -1,18 +1,18 @@
 # Salt and Sanctuary
 [Store](https://store.epicgames.com/en-US/p/salt-and-sanctuary)  
 [View Rawdata](../../db/s/salt_and_sanctuary.json)  
-Rating: 4.61 (Ranked 376)  
+Rating: 4.61 (Ranked 377)  
 Number of Ratings: 3,114  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~444,606 |
-| The Three | 64.00% | ~342,829 |
-| The Banquet | 40.00% | ~214,268 |
+| Find Sanctuary | 83.00% | ~444,608 |
+| The Three | 64.00% | ~342,830 |
+| The Banquet | 40.00% | ~214,269 |
 | Devara's Light | 31.00% | ~166,058 |
 | The Iron Ones | 18.00% | ~96,421 |
 | The Village | 17.00% | ~91,064 |
-| The Forest | 15.00% | ~80,350 |
+| The Forest | 15.00% | ~80,351 |
 | The Keep | 14.00% | ~74,994 |
 | Branded | 13.00% | ~69,637 |
 | The Imposter | 13.00% | ~69,637 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,713 |
 | Fading Fast | 1.00% | ~5,357 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 535,670 (Ranked 32)  
+Progressed: 535,672 (Ranked 32)  
 Completed: 1,581 (0.30%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 1,581 (0.30%) (Ranked 205)
 | 2023-10-14 | 535,443 | 1,573 |
 | 2023-10-15 | 535,522 | 1,576 |
 | 2023-10-16 | 535,606 | 1,579 |
-| 2023-10-17 | 535,670 | 1,581 |
+| 2023-10-17 | 535,672 | 1,581 |
 ## Awards
 Max (Challenging Combat): 289  (Ranked 244)  
 Sum: 1,975 (Ranked 205)  

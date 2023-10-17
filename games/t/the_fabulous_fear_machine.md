@@ -8,15 +8,15 @@
 | Master trainee | 77.00% | ~23 |
 | Jung's dream | 70.00% | ~21 |
 | The battle of Great Britain | 60.00% | ~18 |
-| Giant | 53.00% | ~16 |
+| Giant | 57.00% | ~17 |
 | Pulp! Where Monsters Dwell | 50.00% | ~15 |
 | A continent with chemistry | 50.00% | ~15 |
-| The happy farmer girl | 47.00% | ~14 |
+| The happy farmer girl | 50.00% | ~15 |
 | A rival with no options | 43.00% | ~13 |
 | Pulp! Terror Tales in the Night | 43.00% | ~13 |
+| Kirlian's best disciple | 43.00% | ~13 |
 | Pulp! Out of this World | 40.00% | ~12 |
 | Pulp! Adventures into the Unknown | 40.00% | ~12 |
-| Kirlian's best disciple | 40.00% | ~12 |
 | The artist | 33.00% | ~10 |
 | The seer | 33.00% | ~10 |
 | Diagnosis: fear | 33.00% | ~10 |
@@ -27,6 +27,7 @@
 | You had one wish left | 23.00% | ~7 |
 | You've awakened the beast | 20.00% | ~6 |
 | Hate is... addictive | 20.00% | ~6 |
+| The barbarian invasions | 20.00% | ~6 |
 | Blessed antennas | 17.00% | ~5 |
 | The beast in the Oval Office | 17.00% | ~5 |
 | Blood Red Island | 17.00% | ~5 |
@@ -35,7 +36,6 @@
 | The bully | 17.00% | ~5 |
 | The adventurer | 17.00% | ~5 |
 | Pulp! The Beyond | 17.00% | ~5 |
-| The barbarian invasions | 17.00% | ~5 |
 | America had no Faith | 17.00% | ~5 |
 | The scholar | 13.00% | ~4 |
 | Pulp! Tales from the Crypt | 10.00% | ~3 |

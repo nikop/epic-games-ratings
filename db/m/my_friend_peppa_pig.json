@@ -3,9 +3,9 @@
   "Name": "My Friend Peppa Pig",
   "ProductSlug": "my-friend-peppa-pig-2de0dc",
   "Ranking_EOS_Progress": 402,
-  "Ranking_EOS_Completed": 64,
-  "Ranking_EOS_NewPlayers": 388,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_Completed": 65,
+  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-12-15T18:00:00+00:00",
     "PcReleaseDate": "2021-10-21T23:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 84,
+  "EOS_Progressed": 85,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.76,
+  "EOS_Completed_Percentage": 4.71,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:28.924727+00:00",
@@ -133,6 +133,11 @@
       "Time": "2023-10-08T04:04:08.385076+00:00",
       "NumProgressed": 84,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-17T21:03:11.8201918+00:00",
+      "NumProgressed": 85,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 11,
@@ -142,15 +147,15 @@
       "ID": "1",
       "SetID": "5jd5jfm",
       "Name": "Daddy\u2019s Glasses",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 80,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "10",
       "SetID": "5jd5jfm",
       "Name": "Collecting Sticks For the Campfire.",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 80,
       "UsersEstimate": 36
     },
@@ -158,7 +163,7 @@
       "ID": "11",
       "SetID": "5jd5jfm",
       "Name": "Rocket to the Moon!",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 80,
       "UsersEstimate": 45
     },
@@ -190,7 +195,7 @@
       "ID": "5",
       "SetID": "5jd5jfm",
       "Name": "What\u2019s in These Rockpools?",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 80,
       "UsersEstimate": 30
     },
@@ -214,7 +219,7 @@
       "ID": "8",
       "SetID": "5jd5jfm",
       "Name": "The View From Windy Castle.",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 80,
       "UsersEstimate": 50
     },
@@ -231,7 +236,7 @@
     {
       "ID": "5jd5jfm",
       "IsBase": true,
-      "Progressed": 84,
+      "Progressed": 85,
       "Completed": 4
     }
   ],
@@ -239,8 +244,8 @@
   "FirstSeenRating": "2023-03-31T05:57:56.0490903+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:28.9247276+00:00",
   "LastChanged": "2023-03-31T05:57:56.0490904+00:00",
-  "LastChanged_Achievements": "2023-10-17T20:03:10.8280215+00:00",
+  "LastChanged_Achievements": "2023-10-17T21:03:11.8201912+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:07.1030875+00:00",
-  "LastUpdate_Ratings": "2023-10-17T19:59:22.9568965+00:00",
-  "LastUpdate_Achievements": "2023-10-17T20:03:10.8280311+00:00"
+  "LastUpdate_Ratings": "2023-10-17T20:59:14.0366269+00:00",
+  "LastUpdate_Achievements": "2023-10-17T21:03:11.8202044+00:00"
 }

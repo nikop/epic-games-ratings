@@ -2,13 +2,13 @@
   "ID": "viola",
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
-  "Ranking_Rating": 494,
+  "Ranking_Rating": 495,
   "Ranking_Popularity": 456,
   "Ranking_PopularitySum": 368,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -514,9 +514,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3589,
+  "EOS_Progressed": 3590,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5219,6 +5219,11 @@
       "Time": "2023-10-17T17:07:55.4087609+00:00",
       "NumProgressed": 3589,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-17T21:06:38.2278429+00:00",
+      "NumProgressed": 3590,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -5270,7 +5275,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1579
+      "UsersEstimate": 1580
     },
     {
       "ID": "CrowdPleaser",
@@ -5294,7 +5299,7 @@
       "Name": "Eureka",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1184
+      "UsersEstimate": 1185
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -5302,7 +5307,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "ForAllAurai_8",
@@ -5414,7 +5419,7 @@
       "Name": "Ready for Summer",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1866
+      "UsersEstimate": 1867
     },
     {
       "ID": "ReadyforWinter_42",
@@ -5422,7 +5427,7 @@
       "Name": "Ready for Winter",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 2333
+      "UsersEstimate": 2334
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -5430,7 +5435,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -5565,15 +5570,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3589,
+      "Progressed": 3590,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-17T17:59:20.5916626+00:00",
-  "LastChanged_Achievements": "2023-10-17T20:06:41.9623615+00:00",
+  "LastChanged_Achievements": "2023-10-17T21:06:38.2278424+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:37.8294259+00:00",
-  "LastUpdate_Ratings": "2023-10-17T19:57:12.7928025+00:00",
-  "LastUpdate_Achievements": "2023-10-17T20:06:41.9624107+00:00"
+  "LastUpdate_Ratings": "2023-10-17T20:57:08.7726522+00:00",
+  "LastUpdate_Achievements": "2023-10-17T21:06:38.2279102+00:00"
 }

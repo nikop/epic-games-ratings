@@ -2,7 +2,7 @@
   "ID": "2f215955790d456b80c291bc2feaf7f7",
   "Name": "Shadow Tactics: Blades of the Shogun",
   "ProductSlug": "shadow-tactics",
-  "Ranking_Rating": 263,
+  "Ranking_Rating": 264,
   "Ranking_Popularity": 196,
   "Ranking_PopularitySum": 138,
   "Ranking_EOS_Progress": 65,
@@ -1753,9 +1753,9 @@
       "Count": 250
     }
   ],
-  "EOS_Progressed": 208403,
+  "EOS_Progressed": 208407,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 1236,
+  "EOS_NewPlayers": 1235,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -22243,6 +22243,11 @@
       "Time": "2023-10-17T20:06:32.1481378+00:00",
       "NumProgressed": 208403,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-10-17T21:06:28.8817571+00:00",
+      "NumProgressed": 208407,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 44,
@@ -22254,7 +22259,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20840
+      "UsersEstimate": 20841
     },
     {
       "ID": "AtheistOx",
@@ -22294,7 +22299,7 @@
       "Name": "Disguised",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16672
+      "UsersEstimate": 16673
     },
     {
       "ID": "FiveShadows",
@@ -22326,7 +22331,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 25008
+      "UsersEstimate": 25009
     },
     {
       "ID": "HappyLittleAccidents",
@@ -22470,7 +22475,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16672
+      "UsersEstimate": 16673
     },
     {
       "ID": "Rollin",
@@ -22478,7 +22483,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 18756
+      "UsersEstimate": 18757
     },
     {
       "ID": "StillRollin",
@@ -22510,7 +22515,7 @@
       "Name": "Tanuki Time",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16672
+      "UsersEstimate": 16673
     },
     {
       "ID": "TheCave",
@@ -22542,7 +22547,7 @@
       "Name": "Thorough",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 20840
+      "UsersEstimate": 20841
     },
     {
       "ID": "TimeParadox",
@@ -22605,15 +22610,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 208403,
+      "Progressed": 208407,
       "Completed": 91
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-10-14T05:59:35.4391888+00:00",
-  "LastChanged_Achievements": "2023-10-17T20:06:32.1481373+00:00",
+  "LastChanged_Achievements": "2023-10-17T21:06:28.8817561+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:42.5631083+00:00",
-  "LastUpdate_Ratings": "2023-10-17T19:57:11.4443407+00:00",
-  "LastUpdate_Achievements": "2023-10-17T20:06:32.1482711+00:00"
+  "LastUpdate_Ratings": "2023-10-17T20:57:07.5673881+00:00",
+  "LastUpdate_Achievements": "2023-10-17T21:06:28.8819262+00:00"
 }

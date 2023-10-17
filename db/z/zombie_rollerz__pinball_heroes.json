@@ -2,13 +2,13 @@
   "ID": "f03887880e3f49c9b478cae9beac3812",
   "Name": "Zombie Rollerz: Pinball Heroes",
   "ProductSlug": "zombie-rollerz-7aa027",
-  "Ranking_Rating": 815,
+  "Ranking_Rating": 816,
   "Ranking_Popularity": 537,
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 167,
   "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
     "PcReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -1253,8 +1253,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-08-23T10:59:34.2635846+00:00",
-  "LastChanged_Achievements": "2023-10-17T20:04:30.5946548+00:00",
+  "LastChanged_Achievements": "2023-10-17T21:04:29.1072293+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:11.8457421+00:00",
-  "LastUpdate_Ratings": "2023-10-17T19:59:33.7652811+00:00",
-  "LastUpdate_Achievements": "2023-10-17T20:04:30.5947192+00:00"
+  "LastUpdate_Ratings": "2023-10-17T20:59:24.9036675+00:00",
+  "LastUpdate_Achievements": "2023-10-17T21:04:29.1073135+00:00"
 }

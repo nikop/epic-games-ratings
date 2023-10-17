@@ -2,13 +2,13 @@
   "ID": "2e404271085e4eb480f48c3d2e5f08ed",
   "Name": "Witchfire",
   "ProductSlug": "witchfire-db273e",
-  "Ranking_Rating": 338,
+  "Ranking_Rating": 339,
   "Ranking_Popularity": 453,
   "Ranking_PopularitySum": 366,
   "Ranking_EOS_Progress": 673,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 388,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 390,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-09-20T14:00:00+00:00",
     "PcReleaseDate": "2023-09-20T14:00:00+00:00",
@@ -392,10 +392,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 256,
       "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2023-10-17T20:57:26.1814477+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 258,
+      "NumberOfAwardsMax": 36
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 256,
+  "NumberOfAwards": 258,
   "NumberOfAwardsMax": 36,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -421,7 +427,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 28
+      "Count": 30
     },
     {
       "Text": "This game has Unique Visuals",
@@ -472,8 +478,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-20T14:59:38.0794771+00:00",
   "FirstSeenRating": "2023-09-21T14:59:00.914233+00:00",
-  "LastChanged": "2023-10-17T19:57:29.6883042+00:00",
+  "LastChanged": "2023-10-17T20:57:26.1814474+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:16.9385318+00:00",
-  "LastUpdate_Ratings": "2023-10-17T19:57:29.6883046+00:00",
-  "LastUpdate_Achievements": "2023-10-17T20:08:14.016401+00:00"
+  "LastUpdate_Ratings": "2023-10-17T20:57:26.181448+00:00",
+  "LastUpdate_Achievements": "2023-10-17T21:08:08.1809539+00:00"
 }

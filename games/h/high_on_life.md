@@ -1,7 +1,7 @@
 # High On Life
 [Store](https://store.epicgames.com/en-US/p/high-on-life-3a855b)  
 [View Rawdata](../../db/h/high_on_life.json)  
-Rating: 4.64 (Ranked 323)  
+Rating: 4.64 (Ranked 324)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -12,12 +12,12 @@ Rating: 4.64 (Ranked 323)
 | G3 Graduation | 1.00% | ~242 |
 | Cold-Blooded Driller | 1.00% | ~242 |
 | Don't Knife The Hand That Feeds | 1.00% | ~242 |
+| Creature Feature | 0.90% | ~218 |
+| Bring A Knife to a Gun Fight | 0.90% | ~218 |
 | RIP Davey Glutes | 0.90% | ~218 |
 | We're All Very Impressed, Trust Me | 0.90% | ~218 |
 | Hardest Battle In The Game | 0.90% | ~218 |
 | Who's The Boss? | 0.90% | ~218 |
-| Creature Feature | 0.80% | ~194 |
-| Bring A Knife to a Gun Fight | 0.80% | ~194 |
 | Lezduit! | 0.70% | ~170 |
 | Legendary Bounty Hunter | 0.70% | ~170 |
 | Self-Actualization | 0.70% | ~170 |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 323)
 | It's Like The Santa Clause | 0.10% | ~2 |
 | That's B.A.L.L., Folks | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,243 (Ranked 120)  
+Progressed: 24,244 (Ranked 120)  
 Completed: 13 (0.05%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,7 +229,7 @@ Completed: 13 (0.05%) (Ranked 274)
 | 2023-10-14 | 24,225 | 13 |
 | 2023-10-15 | 24,232 | 13 |
 | 2023-10-16 | 24,237 | 13 |
-| 2023-10-17 | 24,243 | 13 |
+| 2023-10-17 | 24,244 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

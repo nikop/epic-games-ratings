@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 315,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1516,
+  "EOS_Progressed": 1517,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2964,6 +2964,11 @@
       "Time": "2023-10-17T20:07:21.7277926+00:00",
       "NumProgressed": 1516,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-17T21:07:16.753558+00:00",
+      "NumProgressed": 1517,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -3056,7 +3061,7 @@
       "Name": "Spoilt for Choice",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ML_ACHIEVEMENT_12",
@@ -3104,7 +3109,7 @@
       "Name": "Cherry Blossom and Temples",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -3112,7 +3117,7 @@
       "Name": "La Dolce Vita",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ML_ACHIEVEMENT_19",
@@ -3136,7 +3141,7 @@
       "Name": "Romantic Races",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ML_ACHIEVEMENT_22",
@@ -3184,7 +3189,7 @@
       "Name": "Clean Race",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -3232,7 +3237,7 @@
       "Name": "We\u0027ve Just Begun",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -3328,7 +3333,7 @@
       "Name": "Rivals to the End",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -3367,14 +3372,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1516,
+      "Progressed": 1517,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-17T20:07:21.7277922+00:00",
+  "LastChanged_Achievements": "2023-10-17T21:07:16.7535574+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:05.5662527+00:00",
-  "LastUpdate_Ratings": "2023-10-17T19:58:04.5241824+00:00",
-  "LastUpdate_Achievements": "2023-10-17T20:07:21.7278402+00:00"
+  "LastUpdate_Ratings": "2023-10-17T20:58:01.1816928+00:00",
+  "LastUpdate_Achievements": "2023-10-17T21:07:16.7536236+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "bb9f87bb3d0042258bb1c97397bc60f2",
   "Name": "Crayta",
   "ProductSlug": "crayta",
-  "Ranking_Rating": 894,
+  "Ranking_Rating": 895,
   "Ranking_Popularity": 415,
   "Ranking_PopularitySum": 334,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -329,9 +329,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 109730,
+  "EOS_Progressed": 109731,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2794,6 +2794,11 @@
       "Time": "2023-10-17T17:04:03.721566+00:00",
       "NumProgressed": 109730,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-17T21:03:23.0964098+00:00",
+      "NumProgressed": 109731,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -2845,7 +2850,7 @@
       "Name": "Getting Friendly",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 5486
+      "UsersEstimate": 5487
     },
     {
       "ID": "15",
@@ -3005,7 +3010,7 @@
       "Name": "Challenge Apprentice",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 5486
+      "UsersEstimate": 5487
     },
     {
       "ID": "35",
@@ -3076,15 +3081,15 @@
     {
       "ID": "4i9cj6f",
       "IsBase": true,
-      "Progressed": 109730,
+      "Progressed": 109731,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:23:35.732973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:02.9835227+00:00",
   "LastChanged": "2023-01-05T14:57:39.5556866+00:00",
-  "LastChanged_Achievements": "2023-10-17T20:03:22.845573+00:00",
+  "LastChanged_Achievements": "2023-10-17T21:03:23.0964092+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:50.2777712+00:00",
-  "LastUpdate_Ratings": "2023-10-17T19:57:42.0175451+00:00",
-  "LastUpdate_Achievements": "2023-10-17T20:03:22.8456251+00:00"
+  "LastUpdate_Ratings": "2023-10-17T20:57:37.8264202+00:00",
+  "LastUpdate_Achievements": "2023-10-17T21:03:23.0964519+00:00"
 }

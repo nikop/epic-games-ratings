@@ -1,37 +1,37 @@
 # Poker Club
 [Store](https://store.epicgames.com/en-US/p/poker-club-6e18ee)  
 [View Rawdata](../../db/p/poker_club.json)  
-Rating: 3.82 (Ranked 1,001)  
+Rating: 3.82 (Ranked 1,002)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~404,072 |
-| Handy | 41.00% | ~217,986 |
-| Cold Caller | 39.00% | ~207,353 |
-| A Bit On The Side | 27.00% | ~143,552 |
-| Backdoor | 25.00% | ~132,918 |
-| Rank Amateur | 21.00% | ~111,652 |
-| Three Way | 18.00% | ~95,701 |
-| Deadly Assassin | 15.00% | ~79,751 |
-| Gutshot | 14.00% | ~74,434 |
-| Risk It For A Biscuit | 14.00% | ~74,434 |
-| Showoff | 13.00% | ~69,118 |
-| W.H.I.P. | 11.00% | ~58,484 |
-| Bet Bet Bet | 10.00% | ~53,167 |
+| Pro Creation | 76.00% | ~404,079 |
+| Handy | 41.00% | ~217,990 |
+| Cold Caller | 39.00% | ~207,356 |
+| A Bit On The Side | 27.00% | ~143,554 |
+| Backdoor | 25.00% | ~132,921 |
+| Rank Amateur | 21.00% | ~111,653 |
+| Three Way | 18.00% | ~95,703 |
+| Deadly Assassin | 15.00% | ~79,752 |
+| Gutshot | 14.00% | ~74,436 |
+| Risk It For A Biscuit | 14.00% | ~74,436 |
+| Showoff | 13.00% | ~69,119 |
+| W.H.I.P. | 11.00% | ~58,485 |
+| Bet Bet Bet | 10.00% | ~53,168 |
 | Blindman's Bluff | 9.00% | ~47,851 |
 | Poker Joker | 9.00% | ~47,851 |
-| Never Give Up | 8.00% | ~42,534 |
-| The Bigger They Are | 8.00% | ~42,534 |
-| Total Knock Out | 8.00% | ~42,534 |
-| Dog Eat Dog | 7.00% | ~37,217 |
-| Quack Quack | 7.00% | ~37,217 |
-| Give Your Regards To Broadway | 6.00% | ~31,900 |
+| Never Give Up | 8.00% | ~42,535 |
+| The Bigger They Are | 8.00% | ~42,535 |
+| Total Knock Out | 8.00% | ~42,535 |
+| Dog Eat Dog | 7.00% | ~37,218 |
+| Quack Quack | 7.00% | ~37,218 |
+| Give Your Regards To Broadway | 6.00% | ~31,901 |
 | Check Yourself | 4.00% | ~21,267 |
 | Moneymaker | 4.00% | ~21,267 |
 | In The Gang | 3.00% | ~15,950 |
 | On The Button | 3.00% | ~15,950 |
-| Before You Wreck Yourself | 2.00% | ~10,633 |
-| Keep Your Heads Up | 2.00% | ~10,633 |
+| Before You Wreck Yourself | 2.00% | ~10,634 |
+| Keep Your Heads Up | 2.00% | ~10,634 |
 | Bluffing Eh? | 1.00% | ~5,317 |
 | Go For It | 1.00% | ~5,317 |
 | Holding Your Own | 1.00% | ~5,317 |
@@ -51,7 +51,7 @@ Rating: 3.82 (Ranked 1,001)
 | Rounder | 0.10% | ~532 |
 | Top Dog | 0.10% | ~532 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 531,674 (Ranked 33)  
+Progressed: 531,683 (Ranked 33)  
 Completed: 2 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,16 +230,16 @@ Completed: 2 (0.00%) (Ranked 315)
 | 2023-10-14 | 531,023 | 2 |
 | 2023-10-15 | 531,311 | 2 |
 | 2023-10-16 | 531,507 | 2 |
-| 2023-10-17 | 531,674 | 2 |
+| 2023-10-17 | 531,683 | 2 |
 ## Awards
 Max (Great for Beginners): 52  (Ranked 410)  
-Sum: 129 (Ranked 416)  
+Sum: 130 (Ranked 416)  
 Diff (max vs sum): -6  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 52 |
 | This game is Highly Recommended | 30 |
-| This game has Quickly Understood Controls | 25 |
+| This game has Quickly Understood Controls | 26 |
 | This game has a Competitive Community | 22 |
 | This game has Competitive Players | 20 |
 ## Ratings History
@@ -339,4 +339,4 @@ Diff (max vs sum): -6
 | 2023-10-12 | 3.82 | 50 | 127 |
 | 2023-10-13 | 3.83 | 50 | 127 |
 | 2023-10-14 | 3.82 | 51 | 128 |
-| 2023-10-17 | 3.82 | 52 | 129 |
+| 2023-10-17 | 3.82 | 52 | 130 |

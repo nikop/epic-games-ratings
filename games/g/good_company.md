@@ -1,7 +1,7 @@
 # Good Company
 [Store](https://store.epicgames.com/en-US/p/good-company)  
 [View Rawdata](../../db/g/good_company.json)  
-Rating: 4.44 (Ranked 659)  
+Rating: 4.44 (Ranked 660)  
 Number of Ratings: 75  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -42,15 +42,15 @@ Number of Ratings: 75  (23.09.2022)
 | Entrepreneur | 1.00% | ~55 |
 | Data Churn Type IV | 1.00% | ~55 |
 | Keen Eye | 1.00% | ~55 |
-| Level: Topple The Top | 0.90% | ~49 |
-| Tycoon | 0.90% | ~49 |
+| Level: Topple The Top | 0.90% | ~50 |
+| Tycoon | 0.90% | ~50 |
 | Bet On Bots: Safety First | 0.80% | ~44 |
 | Merry-Go-Around: Self-Made | 0.70% | ~38 |
 | Bet On Bots: Inspector's Favorite | 0.60% | ~33 |
 | Trendsetter | 0.60% | ~33 |
-| Level: Heating-Up | 0.50% | ~27 |
-| Level: Eye In The Sky | 0.50% | ~27 |
-| CEO | 0.50% | ~27 |
+| Level: Heating-Up | 0.50% | ~28 |
+| Level: Eye In The Sky | 0.50% | ~28 |
+| CEO | 0.50% | ~28 |
 | Campaign: Man vs. Machine | 0.40% | ~22 |
 | A Happy Taskforce: Interior Designer | 0.40% | ~22 |
 | Rockstar | 0.40% | ~22 |
@@ -62,28 +62,28 @@ Number of Ratings: 75  (23.09.2022)
 | Fully Packed | 0.30% | ~16 |
 | Happy Hour | 0.20% | ~11 |
 | Achiever | 0.20% | ~11 |
-| Grand Master | 0.10% | ~5 |
-| Trophy Enthusiast | 0.10% | ~5 |
-| Campaign: In Hot Waters | 0.10% | ~5 |
-| Level: Mayor Trouble | 0.10% | ~5 |
-| A Happy Taskforce: Overtime | 0.10% | ~5 |
-| Topple The Top: Outperformed | 0.10% | ~5 |
-| Eye In The Sky: Paranoid | 0.10% | ~5 |
-| Heating-Up: Triple Ace | 0.10% | ~5 |
-| Mayor Trouble: Overwhelmed | 0.10% | ~5 |
-| Rising Markets: Designer | 0.10% | ~5 |
-| Rocketspeed Science: Top Level Scientist | 0.10% | ~5 |
-| Pocket Conquest: Top Notch | 0.10% | ~5 |
-| Welfare Survival: Extra Workforce | 0.10% | ~5 |
-| Money Rush: One Loan | 0.10% | ~5 |
-| Across the (circuit)board | 0.10% | ~5 |
-| Efficient | 0.10% | ~5 |
-| Lucky | 0.10% | ~5 |
-| Reliable | 0.10% | ~5 |
-| Know-it-all | 0.10% | ~5 |
-| Prestigious | 0.10% | ~5 |
+| Grand Master | 0.10% | ~6 |
+| Trophy Enthusiast | 0.10% | ~6 |
+| Campaign: In Hot Waters | 0.10% | ~6 |
+| Level: Mayor Trouble | 0.10% | ~6 |
+| A Happy Taskforce: Overtime | 0.10% | ~6 |
+| Topple The Top: Outperformed | 0.10% | ~6 |
+| Eye In The Sky: Paranoid | 0.10% | ~6 |
+| Heating-Up: Triple Ace | 0.10% | ~6 |
+| Mayor Trouble: Overwhelmed | 0.10% | ~6 |
+| Rising Markets: Designer | 0.10% | ~6 |
+| Rocketspeed Science: Top Level Scientist | 0.10% | ~6 |
+| Pocket Conquest: Top Notch | 0.10% | ~6 |
+| Welfare Survival: Extra Workforce | 0.10% | ~6 |
+| Money Rush: One Loan | 0.10% | ~6 |
+| Across the (circuit)board | 0.10% | ~6 |
+| Efficient | 0.10% | ~6 |
+| Lucky | 0.10% | ~6 |
+| Reliable | 0.10% | ~6 |
+| Know-it-all | 0.10% | ~6 |
+| Prestigious | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,499 (Ranked 170)  
+Progressed: 5,500 (Ranked 170)  
 Completed: 1 (0.02%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 1 (0.02%) (Ranked 289)
 | 2023-10-14 | 5,489 | 1 |
 | 2023-10-15 | 5,493 | 1 |
 | 2023-10-16 | 5,495 | 1 |
-| 2023-10-17 | 5,499 | 1 |
+| 2023-10-17 | 5,500 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

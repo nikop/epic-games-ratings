@@ -1,15 +1,15 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.69 (Ranked 223)  
+Rating: 4.69 (Ranked 224)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,331 |
-| Until death do us apart | 4.00% | ~17,331 |
-| Victorious! | 4.00% | ~17,331 |
-| That is mine! | 3.00% | ~12,998 |
+| That's a Grand Army | 4.00% | ~17,333 |
+| Until death do us apart | 4.00% | ~17,333 |
+| Victorious! | 4.00% | ~17,333 |
+| That is mine! | 3.00% | ~12,999 |
 | Brothers in Arms | 2.00% | ~8,666 |
 | Cold War | 2.00% | ~8,666 |
 | For the Glory | 2.00% | ~8,666 |
@@ -22,16 +22,16 @@ Number of Ratings: 8,414  (23.09.2022)
 | True Catholic | 1.00% | ~4,333 |
 | Truly Divine Ruler | 1.00% | ~4,333 |
 | It's all about luck | 0.90% | ~3,900 |
-| Blockader | 0.80% | ~3,466 |
-| Double the Love | 0.80% | ~3,466 |
-| Royal Authority | 0.80% | ~3,466 |
-| Total Control | 0.80% | ~3,466 |
+| Blockader | 0.80% | ~3,467 |
+| Double the Love | 0.80% | ~3,467 |
+| Royal Authority | 0.80% | ~3,467 |
+| Total Control | 0.80% | ~3,467 |
 | My armies are invincible! | 0.70% | ~3,033 |
-| Agressive Expander | 0.50% | ~2,166 |
-| Azur semé de lis or | 0.50% | ~2,166 |
-| City of Cities | 0.50% | ~2,166 |
-| Combined Arms | 0.50% | ~2,166 |
-| This navy can take it all | 0.50% | ~2,166 |
+| Agressive Expander | 0.50% | ~2,167 |
+| Azur semé de lis or | 0.50% | ~2,167 |
+| City of Cities | 0.50% | ~2,167 |
+| Combined Arms | 0.50% | ~2,167 |
+| This navy can take it all | 0.50% | ~2,167 |
 | Bright Spark | 0.40% | ~1,733 |
 | Factionalism | 0.40% | ~1,733 |
 | Gentle Persuasion | 0.40% | ~1,733 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 433,283 (Ranked 40)  
+Progressed: 433,316 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -541,7 +541,7 @@ Completed: 1 (0.00%) (Ranked 315)
 | 2023-10-14 | 431,056 | 1 |
 | 2023-10-15 | 432,104 | 1 |
 | 2023-10-16 | 432,768 | 1 |
-| 2023-10-17 | 433,283 | 1 |
+| 2023-10-17 | 433,316 | 1 |
 ## Awards
 Max (Educational): 6,561  (Ranked 55)  
 Sum: 53,967 (Ranked 24)  

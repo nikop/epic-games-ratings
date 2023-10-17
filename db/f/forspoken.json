@@ -2,13 +2,13 @@
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
-  "Ranking_Rating": 919,
+  "Ranking_Rating": 920,
   "Ranking_Popularity": 484,
   "Ranking_PopularitySum": 499,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 297,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -406,7 +406,7 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 42160,
+  "EOS_Progressed": 42162,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
@@ -10831,6 +10831,11 @@
       "Time": "2023-10-17T19:06:24.361718+00:00",
       "NumProgressed": 42160,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-17T21:06:06.8714955+00:00",
+      "NumProgressed": 42162,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -11178,7 +11183,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3794
+      "UsersEstimate": 3795
     },
     {
       "ID": "SPRING_ALL",
@@ -11265,22 +11270,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 42160,
+      "Progressed": 42162,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 6997,
-      "Completed": 6997
+      "Progressed": 6999,
+      "Completed": 6999
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-10-06T21:58:13.2562711+00:00",
-  "LastChanged_Achievements": "2023-10-17T20:06:10.7259592+00:00",
+  "LastChanged_Achievements": "2023-10-17T21:06:06.8714949+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:05.4941436+00:00",
-  "LastUpdate_Ratings": "2023-10-17T19:57:55.0645869+00:00",
-  "LastUpdate_Achievements": "2023-10-17T20:06:10.7260488+00:00"
+  "LastUpdate_Ratings": "2023-10-17T20:57:50.5259479+00:00",
+  "LastUpdate_Achievements": "2023-10-17T21:06:06.8716125+00:00"
 }

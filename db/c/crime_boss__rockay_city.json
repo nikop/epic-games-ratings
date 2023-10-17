@@ -2,7 +2,7 @@
   "ID": "af0ea01162704696bebf8633a52a7a6d",
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
-  "Ranking_Rating": 983,
+  "Ranking_Rating": 984,
   "Ranking_Popularity": 205,
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 83,
@@ -4080,9 +4080,9 @@
       "Count": 455
     }
   ],
-  "EOS_Progressed": 89149,
+  "EOS_Progressed": 89151,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -22425,6 +22425,11 @@
       "Time": "2023-10-17T19:04:10.7130152+00:00",
       "NumProgressed": 89149,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-10-17T21:03:46.9263468+00:00",
+      "NumProgressed": 89151,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 41,
@@ -22436,7 +22441,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 891
+      "UsersEstimate": 892
     },
     {
       "ID": "ACH_0011",
@@ -22444,7 +22449,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 891
+      "UsersEstimate": 892
     },
     {
       "ID": "ACH_0012",
@@ -22580,7 +22585,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 891
+      "UsersEstimate": 892
     },
     {
       "ID": "ACH_0210",
@@ -22588,7 +22593,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 891
+      "UsersEstimate": 892
     },
     {
       "ID": "ACH_0211",
@@ -22604,7 +22609,7 @@
       "Name": "Too Old for This",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 891
+      "UsersEstimate": 892
     },
     {
       "ID": "ACH_0300",
@@ -22763,13 +22768,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 89149,
+      "Progressed": 89151,
       "Completed": 50
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 17496,
+      "Progressed": 17498,
       "Completed": 15548
     }
   ],
@@ -22777,8 +22782,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-10-17T13:06:03.0827632+00:00",
-  "LastChanged_Achievements": "2023-10-17T20:03:47.4018152+00:00",
+  "LastChanged_Achievements": "2023-10-17T21:03:46.9263463+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:09.3878818+00:00",
-  "LastUpdate_Ratings": "2023-10-17T19:59:26.3166357+00:00",
-  "LastUpdate_Achievements": "2023-10-17T20:03:47.4019294+00:00"
+  "LastUpdate_Ratings": "2023-10-17T20:59:17.4364577+00:00",
+  "LastUpdate_Achievements": "2023-10-17T21:03:46.9264787+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "301ec0fdbcaf46b3af9322e436ac87bd",
   "Name": "Voidtrain",
   "ProductSlug": "voidtrain",
-  "Ranking_Rating": 552,
+  "Ranking_Rating": 553,
   "Ranking_Popularity": 437,
-  "Ranking_PopularitySum": 387,
+  "Ranking_PopularitySum": 381,
   "Ranking_EOS_Progress": 673,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 388,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 390,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-08-12T17:00:00+00:00",
     "PcReleaseDate": "2021-08-12T17:00:00+00:00",
@@ -1035,10 +1035,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 197,
       "NumberOfAwardsMax": 42
+    },
+    {
+      "Time": "2023-10-17T20:57:13.2217144+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 217,
+      "NumberOfAwardsMax": 42
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 197,
+  "NumberOfAwards": 217,
   "NumberOfAwardsMax": 42,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1089,6 +1095,12 @@
       "Prefix": "This game has",
       "Type": "Amazing Characters",
       "Count": 20
+    },
+    {
+      "Text": "This game has Unique Visuals",
+      "Prefix": "This game has",
+      "Type": "Unique Visuals",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -1102,8 +1114,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:41.7165355+00:00",
-  "LastChanged": "2023-10-17T10:03:08.9926138+00:00",
+  "LastChanged": "2023-10-17T20:57:13.2217141+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:43.1562763+00:00",
-  "LastUpdate_Ratings": "2023-10-17T19:57:17.5940379+00:00",
-  "LastUpdate_Achievements": "2023-10-17T20:06:27.6499942+00:00"
+  "LastUpdate_Ratings": "2023-10-17T20:57:13.2217146+00:00",
+  "LastUpdate_Achievements": "2023-10-17T21:06:24.3125328+00:00"
 }

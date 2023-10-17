@@ -2,13 +2,13 @@
   "ID": "79d9bff700bb46a790b21e8c73b34899",
   "Name": "Salt and Sanctuary",
   "ProductSlug": "salt-and-sanctuary",
-  "Ranking_Rating": 376,
+  "Ranking_Rating": 377,
   "Ranking_Popularity": 244,
   "Ranking_PopularitySum": 205,
   "Ranking_EOS_Progress": 32,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 15,
+  "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
     "PcReleaseDate": "2016-05-17T16:00:00+00:00",
@@ -2703,7 +2703,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 535670,
+  "EOS_Progressed": 535672,
   "EOS_Completed": 1581,
   "EOS_NewPlayers": 546,
   "EOS_NewCompleters": 12,
@@ -22408,6 +22408,11 @@
       "Time": "2023-10-17T20:05:44.7959137+00:00",
       "NumProgressed": 535670,
       "NumCompleted": 1581
+    },
+    {
+      "Time": "2023-10-17T21:05:40.9059739+00:00",
+      "NumProgressed": 535672,
+      "NumCompleted": 1581
     }
   ],
   "TotalAchievements": 37,
@@ -22475,7 +22480,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 444606
+      "UsersEstimate": 444608
     },
     {
       "ID": "HONED",
@@ -22531,7 +22536,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 214268
+      "UsersEstimate": 214269
     },
     {
       "ID": "THE_CASTLE",
@@ -22579,7 +22584,7 @@
       "Name": "The Forest",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 80350
+      "UsersEstimate": 80351
     },
     {
       "ID": "THE_IMPOSTER",
@@ -22675,7 +22680,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 342829
+      "UsersEstimate": 342830
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -22714,15 +22719,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 535670,
+      "Progressed": 535672,
       "Completed": 1581
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-10-16T15:59:05.91541+00:00",
-  "LastChanged_Achievements": "2023-10-17T20:05:44.795913+00:00",
+  "LastChanged_Achievements": "2023-10-17T21:05:40.9059734+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:31.6704285+00:00",
-  "LastUpdate_Ratings": "2023-10-17T19:58:36.6034059+00:00",
-  "LastUpdate_Achievements": "2023-10-17T20:05:44.7960274+00:00"
+  "LastUpdate_Ratings": "2023-10-17T20:58:30.9154682+00:00",
+  "LastUpdate_Achievements": "2023-10-17T21:05:40.9061269+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "b595ab13a93a4be8b6857cc14d2d6e8b",
   "Name": "Good Company",
   "ProductSlug": "good-company",
-  "Ranking_Rating": 659,
+  "Ranking_Rating": 660,
   "Ranking_Popularity": 537,
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 289,
-  "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2020-03-31T12:00:00+00:00",
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5499,
+  "EOS_Progressed": 5500,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -3890,6 +3890,11 @@
       "Time": "2023-10-17T19:06:15.7544013+00:00",
       "NumProgressed": 5499,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-17T21:05:58.3299431+00:00",
+      "NumProgressed": 5500,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -3901,7 +3906,7 @@
       "Name": "Grand Master",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_all_ea_challenges",
@@ -3925,7 +3930,7 @@
       "Name": "Trophy Enthusiast",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_campaign_chapter1",
@@ -3949,7 +3954,7 @@
       "Name": "Campaign: In Hot Waters",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_campaign_progress1",
@@ -3973,7 +3978,7 @@
       "Name": "Level: Heating-Up",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ach_campaign_progress12",
@@ -3981,7 +3986,7 @@
       "Name": "Level: Mayor Trouble",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_campaign_progress2",
@@ -4005,7 +4010,7 @@
       "Name": "Level: Topple The Top",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ach_campaign_progress5",
@@ -4037,7 +4042,7 @@
       "Name": "Level: Eye In The Sky",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ach_campaign_progress9",
@@ -4077,7 +4082,7 @@
       "Name": "A Happy Taskforce: Overtime",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_campaign_special13",
@@ -4101,7 +4106,7 @@
       "Name": "Topple The Top: Outperformed",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_campaign_special16",
@@ -4109,7 +4114,7 @@
       "Name": "Eye In The Sky: Paranoid",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_campaign_special17",
@@ -4117,7 +4122,7 @@
       "Name": "Heating-Up: Triple Ace",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_campaign_special18",
@@ -4125,7 +4130,7 @@
       "Name": "Mayor Trouble: Overwhelmed",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_campaign_special2",
@@ -4141,7 +4146,7 @@
       "Name": "Rising Markets: Designer",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_campaign_special4",
@@ -4197,7 +4202,7 @@
       "Name": "Rocketspeed Science: Top Level Scientist",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_challenge_special2",
@@ -4205,7 +4210,7 @@
       "Name": "Pocket Conquest: Top Notch",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_challenge_special3",
@@ -4213,7 +4218,7 @@
       "Name": "Welfare Survival: Extra Workforce",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_challenge_special4",
@@ -4221,7 +4226,7 @@
       "Name": "Money Rush: One Loan",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_drawback_reduction",
@@ -4229,7 +4234,7 @@
       "Name": "Across the (circuit)board",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_efficient",
@@ -4237,7 +4242,7 @@
       "Name": "Efficient",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_fivestar_product",
@@ -4317,7 +4322,7 @@
       "Name": "CEO",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ach_frp_researchdata",
@@ -4389,7 +4394,7 @@
       "Name": "Lucky",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_many_challenges",
@@ -4413,7 +4418,7 @@
       "Name": "Reliable",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_prof_discovery",
@@ -4437,7 +4442,7 @@
       "Name": "Know-it-all",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_prof_markets",
@@ -4469,7 +4474,7 @@
       "Name": "Tycoon",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ach_prof_success",
@@ -4477,7 +4482,7 @@
       "Name": "Prestigious",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_rockstar_employee",
@@ -4508,15 +4513,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5499,
+      "Progressed": 5500,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-10-17T20:06:02.1211879+00:00",
+  "LastChanged_Achievements": "2023-10-17T21:05:58.3299426+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:07.8058138+00:00",
-  "LastUpdate_Ratings": "2023-10-17T19:57:33.805266+00:00",
-  "LastUpdate_Achievements": "2023-10-17T20:06:02.1212731+00:00"
+  "LastUpdate_Ratings": "2023-10-17T20:57:29.8768244+00:00",
+  "LastUpdate_Achievements": "2023-10-17T21:05:58.3300456+00:00"
 }

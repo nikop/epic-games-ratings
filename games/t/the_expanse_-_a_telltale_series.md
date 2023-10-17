@@ -1,7 +1,7 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.57 (Ranked 456)  
+Rating: 4.57 (Ranked 457)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -33,10 +33,10 @@ Rating: 4.57 (Ranked 456)
 | Urshanabi Hoarder | 0.40% | ~56 |
 | Data Miner | 0.30% | ~42 |
 | Grave Robber | 0.30% | ~42 |
-| Scavenger Star | 0.10% | ~14 |
+| Scavenger Star | 0.20% | ~28 |
 | Data Collector | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,077 (Ranked 138)  
+Progressed: 14,077 (Ranked 139)  
 Completed: 26 (0.18%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |

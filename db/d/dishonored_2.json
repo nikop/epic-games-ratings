@@ -2,13 +2,13 @@
   "ID": "1dcddbcc334945c48353b75a8fce5e5e",
   "Name": "Dishonored 2",
   "ProductSlug": "dishonored-2",
-  "Ranking_Rating": 98,
+  "Ranking_Rating": 99,
   "Ranking_Popularity": 198,
-  "Ranking_PopularitySum": 259,
+  "Ranking_PopularitySum": 258,
   "Ranking_EOS_Progress": 673,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 388,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 390,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-11-03T15:00:00+00:00",
     "PcReleaseDate": "2016-11-11T15:00:00+00:00",
@@ -1820,10 +1820,16 @@
       "Rating": 4.78,
       "NumberOfAwards": 939,
       "NumberOfAwardsMax": 561
+    },
+    {
+      "Time": "2023-10-17T20:58:42.4436612+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 940,
+      "NumberOfAwardsMax": 561
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 939,
+  "NumberOfAwards": 940,
   "NumberOfAwardsMax": 561,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1867,7 +1873,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 37
+      "Count": 38
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1912,8 +1918,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-05T14:01:17.2849219+00:00",
   "FirstSeenRating": "2022-11-24T20:57:28.2064365+00:00",
-  "LastChanged": "2023-10-17T19:58:47.1770377+00:00",
+  "LastChanged": "2023-10-17T20:58:42.443661+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:41.2525082+00:00",
-  "LastUpdate_Ratings": "2023-10-17T19:58:47.1770382+00:00",
-  "LastUpdate_Achievements": "2023-10-17T20:05:15.6142737+00:00"
+  "LastUpdate_Ratings": "2023-10-17T20:58:42.4436617+00:00",
+  "LastUpdate_Achievements": "2023-10-17T21:05:12.7382891+00:00"
 }

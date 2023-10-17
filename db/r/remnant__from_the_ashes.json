@@ -2,13 +2,13 @@
   "ID": "663e521f2a444199be58152fd93fa66e",
   "Name": "Remnant: From the Ashes",
   "ProductSlug": "remnant-from-the-ashes",
-  "Ranking_Rating": 376,
+  "Ranking_Rating": 377,
   "Ranking_Popularity": 39,
   "Ranking_PopularitySum": 63,
   "Ranking_EOS_Progress": 673,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 388,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 390,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -6844,18 +6844,24 @@
       "Rating": 4.61,
       "NumberOfAwards": 16077,
       "NumberOfAwardsMax": 10261
+    },
+    {
+      "Time": "2023-10-17T20:57:30.3397034+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 16085,
+      "NumberOfAwardsMax": 10267
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 16077,
-  "NumberOfAwardsMax": 10261,
+  "NumberOfAwards": 16085,
+  "NumberOfAwardsMax": 10267,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 10261
+      "Count": 10267
     },
     {
       "Text": "This game is Extremely Fun",
@@ -6873,7 +6879,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 735
+      "Count": 737
     },
     {
       "Text": "This game has Challenging Combat",
@@ -6935,8 +6941,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:00.6523638+00:00",
-  "LastChanged": "2023-10-17T18:57:28.9758074+00:00",
+  "LastChanged": "2023-10-17T20:57:30.3397032+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:48.6011331+00:00",
-  "LastUpdate_Ratings": "2023-10-17T19:57:34.3161428+00:00",
-  "LastUpdate_Achievements": "2023-10-17T20:05:04.5517849+00:00"
+  "LastUpdate_Ratings": "2023-10-17T20:57:30.3397039+00:00",
+  "LastUpdate_Achievements": "2023-10-17T21:05:02.1745307+00:00"
 }

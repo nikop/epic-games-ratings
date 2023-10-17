@@ -1,33 +1,33 @@
 # Fae Farm
 [Store](https://store.epicgames.com/en-US/p/fae-farm)  
 [View Rawdata](../../db/0/013ca9b88fa34b21b2de7fdbfcfc843b.json)  
-Rating: 4.65 (Ranked 302)  
+Rating: 4.65 (Ranked 303)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 73.00% | ~4,937 |
-| A Thorny Situation | 70.00% | ~4,734 |
-| ... And Spit Back Out | 60.00% | ~4,058 |
-| Break-Net Speed | 48.00% | ~3,246 |
-| Bramble Breaker | 46.00% | ~3,111 |
-| Miner 49er | 43.00% | ~2,908 |
-| Humble Collector | 42.00% | ~2,840 |
-| Calm Sailing | 36.00% | ~2,435 |
-| Open the Gate! | 33.00% | ~2,232 |
-| Mist Walker | 31.00% | ~2,097 |
-| Lumberjack | 26.00% | ~1,758 |
-| Oui, Chef! | 22.00% | ~1,488 |
-| Clear the Air | 17.00% | ~1,150 |
-| Botanical Breakthrough | 16.00% | ~1,082 |
-| Search for the Hairy Grell | 13.00% | ~879 |
-| Beach Comber | 13.00% | ~879 |
-| Higher Tax Bracket | 13.00% | ~879 |
+| Azoria Beckons | 73.00% | ~4,941 |
+| A Thorny Situation | 70.00% | ~4,738 |
+| ... And Spit Back Out | 60.00% | ~4,061 |
+| Break-Net Speed | 48.00% | ~3,249 |
+| Bramble Breaker | 46.00% | ~3,113 |
+| Miner 49er | 43.00% | ~2,910 |
+| Humble Collector | 42.00% | ~2,843 |
+| Calm Sailing | 36.00% | ~2,436 |
+| Open the Gate! | 33.00% | ~2,233 |
+| Mist Walker | 31.00% | ~2,098 |
+| Lumberjack | 26.00% | ~1,760 |
+| Oui, Chef! | 22.00% | ~1,489 |
+| Clear the Air | 17.00% | ~1,151 |
+| Botanical Breakthrough | 16.00% | ~1,083 |
+| Search for the Hairy Grell | 13.00% | ~880 |
+| Beach Comber | 13.00% | ~880 |
+| Higher Tax Bracket | 13.00% | ~880 |
 | Skilled | 8.00% | ~541 |
-| Flaming Hot Completos | 7.00% | ~473 |
-| Fae Farmer | 7.00% | ~473 |
-| Got to Catch Them All | 7.00% | ~473 |
-| Rumble in the Jumble | 7.00% | ~473 |
-| Fanatical Farmer | 7.00% | ~473 |
+| Flaming Hot Completos | 7.00% | ~474 |
+| Fae Farmer | 7.00% | ~474 |
+| Got to Catch Them All | 7.00% | ~474 |
+| Rumble in the Jumble | 7.00% | ~474 |
+| Fanatical Farmer | 7.00% | ~474 |
 | Azorian Anniversary | 6.00% | ~406 |
 | Scattered Scroll Scrounger | 5.00% | ~338 |
 | I Now Pronounce You... | 4.00% | ~271 |
@@ -41,7 +41,7 @@ Rating: 4.65 (Ranked 302)
 | Giving the People What They Want | 0.10% | ~7 |
 | Very Skilled | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,763 (Ranked 163)  
+Progressed: 6,768 (Ranked 163)  
 Completed: 0 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 0 (0.00%) (Ranked 315)
 | 2023-10-14 | 6,647 | 0 |
 | 2023-10-15 | 6,698 | 0 |
 | 2023-10-16 | 6,732 | 0 |
-| 2023-10-17 | 6,763 | 0 |
+| 2023-10-17 | 6,768 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

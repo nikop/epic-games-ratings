@@ -1,7 +1,7 @@
 # GRIME
 [Store](https://store.epicgames.com/en-US/p/grime)  
 [View Rawdata](../../db/g/grime.json)  
-Rating: 4.59 (Ranked 419)  
+Rating: 4.59 (Ranked 420)  
 Number of Ratings: 46  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~152 |
 | Intensify | 0.10% | ~152 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 152,852 (Ranked 71)  
+Progressed: 152,861 (Ranked 71)  
 Completed: 1 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,10 +210,10 @@ Completed: 1 (0.00%) (Ranked 315)
 | 2023-10-14 | 152,214 | 1 |
 | 2023-10-15 | 152,491 | 1 |
 | 2023-10-16 | 152,687 | 1 |
-| 2023-10-17 | 152,852 | 1 |
+| 2023-10-17 | 152,861 | 1 |
 ## Awards
 Max (Highly Recommended): 45  (Ranked 428)  
-Sum: 296 (Ranked 349)  
+Sum: 297 (Ranked 349)  
 Diff (max vs sum): 79  
 | Award | Count |
 | ----- | ----- |
@@ -222,7 +222,7 @@ Diff (max vs sum): 79
 | This game has Unique Visuals | 41 |
 | This game has Challenging Combat | 38 |
 | This game is Extremely Fun | 37 |
-| This game has Amazing Storytelling | 33 |
+| This game has Amazing Storytelling | 34 |
 | This game has a Creative Community | 31 |
 | This game has Amazing Characters | 28 |
 | This game has Diverse Characters | 20 |
@@ -344,4 +344,4 @@ Diff (max vs sum): 79
 | 2023-10-14 | 4.59 | - | 44 | 287 |
 | 2023-10-15 | 4.59 | - | 44 | 290 |
 | 2023-10-16 | 4.59 | - | 45 | 292 |
-| 2023-10-17 | 4.59 | - | 45 | 296 |
+| 2023-10-17 | 4.59 | - | 45 | 297 |

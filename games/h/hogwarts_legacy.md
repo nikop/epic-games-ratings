@@ -1,7 +1,7 @@
 # Hogwarts Legacy
 [Store](https://store.epicgames.com/en-US/p/hogwarts-legacy)  
 [View Rawdata](../../db/h/hogwarts_legacy.json)  
-Rating: 4.76 (Ranked 118)  
+Rating: 4.76 (Ranked 119)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -10,13 +10,13 @@ Rating: 4.76 (Ranked 118)
 | Troll with the Punches | 13.00% | ~38,806 |
 | A Keen Sense of Spell | 12.00% | ~35,821 |
 | That's a Keeper | 12.00% | ~35,821 |
+| Grappling with a Graphorn | 11.00% | ~32,836 |
 | The One Who Mastered Memories | 11.00% | ~32,836 |
 | The Hallowed Hero | 11.00% | ~32,836 |
 | The Defender of Dragons | 11.00% | ~32,836 |
 | Loom for Improvement | 11.00% | ~32,836 |
 | A Talent for Spending | 11.00% | ~32,836 |
 | Coasting Along | 11.00% | ~32,836 |
-| Grappling with a Graphorn | 10.00% | ~29,851 |
 | The Hero of Hogwarts | 10.00% | ~29,851 |
 | Challenge Accepted | 10.00% | ~29,851 |
 | Followed the Butterflies | 9.00% | ~26,866 |
@@ -26,10 +26,10 @@ Rating: 4.76 (Ranked 118)
 | Beast Friends | 8.00% | ~23,881 |
 | A Sallow Grave | 8.00% | ~23,881 |
 | Flight the Good Flight | 8.00% | ~23,881 |
-| The Seeker of Knowledge | 6.00% | ~17,910 |
-| The Root of the Problem | 6.00% | ~17,910 |
-| Third Time's a Charm | 6.00% | ~17,910 |
-| Raising Expectations | 6.00% | ~17,910 |
+| The Seeker of Knowledge | 6.00% | ~17,911 |
+| The Root of the Problem | 6.00% | ~17,911 |
+| Third Time's a Charm | 6.00% | ~17,911 |
+| Raising Expectations | 6.00% | ~17,911 |
 | The Toast of the Town | 5.00% | ~14,925 |
 | The Ends Petrify the Means | 5.00% | ~14,925 |
 | Going Through the Potions | 4.00% | ~11,940 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 118)
 | The Nature of the Beast | 0.70% | ~2,090 |
 | Collector's Edition | 0.30% | ~896 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,508 (Ranked 47)  
+Progressed: 298,509 (Ranked 47)  
 Completed: 488 (0.16%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,10 +231,10 @@ Completed: 488 (0.16%) (Ranked 232)
 | 2023-10-14 | 298,337 | 487 |
 | 2023-10-15 | 298,425 | 488 |
 | 2023-10-16 | 298,472 | 488 |
-| 2023-10-17 | 298,508 | 488 |
+| 2023-10-17 | 298,509 | 488 |
 ## Awards
 Max (Character Customization): 23,586  (Ranked 17)  
-Sum: 46,067 (Ranked 30)  
+Sum: 46,073 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -246,7 +246,7 @@ Diff (max vs sum): -13
 | This game is Extremely Fun | 1,142 |
 | This game is Relaxing | 1,140 |
 | This game has Amazing Characters | 1,106 |
-| This game is Highly Recommended | 1,078 |
+| This game is Highly Recommended | 1,084 |
 | This game has Quickly Understood Controls | 1,029 |
 | This game has Beautiful Visuals | 953 |
 | This game has a Creative Community | 718 |
@@ -460,4 +460,4 @@ Diff (max vs sum): -13
 | 2023-10-14 | 4.76 | 23,517 | 45,868 |
 | 2023-10-15 | 4.76 | 23,559 | 45,955 |
 | 2023-10-16 | 4.76 | 23,559 | 45,997 |
-| 2023-10-17 | 4.76 | 23,586 | 46,067 |
+| 2023-10-17 | 4.76 | 23,586 | 46,073 |

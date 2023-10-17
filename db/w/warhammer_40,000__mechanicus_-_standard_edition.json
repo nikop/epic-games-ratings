@@ -2,13 +2,13 @@
   "ID": "144f9e231e2846d1a4381d9bb678f69d",
   "Name": "Warhammer 40,000: Mechanicus - Standard Edition",
   "ProductSlug": "warhammer-mechanicus-0e4b71",
-  "Ranking_Rating": 674,
+  "Ranking_Rating": 675,
   "Ranking_Popularity": 247,
   "Ranking_PopularitySum": 198,
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 315,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -783,9 +783,9 @@
       "Count": 98
     }
   ],
-  "EOS_Progressed": 224982,
+  "EOS_Progressed": 224987,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 551,
+  "EOS_NewPlayers": 549,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20443,6 +20443,11 @@
       "Time": "2023-10-17T20:05:49.77037+00:00",
       "NumProgressed": 224982,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-17T21:05:46.1275056+00:00",
+      "NumProgressed": 224987,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -20454,7 +20459,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 42747
+      "UsersEstimate": 42748
     },
     {
       "ID": "ACH_BASE_10",
@@ -20462,7 +20467,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 58495
+      "UsersEstimate": 58497
     },
     {
       "ID": "ACH_BASE_11",
@@ -20494,7 +20499,7 @@
       "Name": "Power Ranger",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20248
+      "UsersEstimate": 20249
     },
     {
       "ID": "ACH_BASE_16",
@@ -20502,7 +20507,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 22498
+      "UsersEstimate": 22499
     },
     {
       "ID": "ACH_BASE_17",
@@ -20510,7 +20515,7 @@
       "Name": "Taser Goad",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20248
+      "UsersEstimate": 20249
     },
     {
       "ID": "ACH_BASE_18",
@@ -20518,7 +20523,7 @@
       "Name": "Radium Ready",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20248
+      "UsersEstimate": 20249
     },
     {
       "ID": "ACH_BASE_19",
@@ -20542,7 +20547,7 @@
       "Name": "Legio Cybernetica",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 6749
+      "UsersEstimate": 6750
     },
     {
       "ID": "ACH_BASE_21",
@@ -20678,7 +20683,7 @@
       "Name": "Fleshy Disposal",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 6749
+      "UsersEstimate": 6750
     },
     {
       "ID": "ACH_BASE_5",
@@ -20718,14 +20723,14 @@
       "Name": "Half a cog",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20248
+      "UsersEstimate": 20249
     }
   ],
   "AchievementSets": [
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 224982,
+      "Progressed": 224987,
       "Completed": 5
     }
   ],
@@ -20733,8 +20738,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-10-15T07:04:04.0148832+00:00",
-  "LastChanged_Achievements": "2023-10-17T20:05:49.7703697+00:00",
+  "LastChanged_Achievements": "2023-10-17T21:05:46.1275048+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:01.3902355+00:00",
-  "LastUpdate_Ratings": "2023-10-17T20:02:18.602031+00:00",
-  "LastUpdate_Achievements": "2023-10-17T20:05:49.7704806+00:00"
+  "LastUpdate_Ratings": "2023-10-17T21:02:18.1787083+00:00",
+  "LastUpdate_Achievements": "2023-10-17T21:05:46.1276582+00:00"
 }

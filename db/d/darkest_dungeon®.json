@@ -2,13 +2,13 @@
   "ID": "21916c391ae4425d8f6cce2382aebd0c",
   "Name": "Darkest Dungeon\u00AE",
   "ProductSlug": "darkest-dungeon",
-  "Ranking_Rating": 118,
+  "Ranking_Rating": 119,
   "Ranking_Popularity": 92,
   "Ranking_PopularitySum": 94,
   "Ranking_EOS_Progress": 673,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 388,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 390,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2020-12-25T16:00:00+00:00",
     "PcReleaseDate": "2016-01-19T16:00:00+00:00",
@@ -5004,10 +5004,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 9140,
       "NumberOfAwardsMax": 3359
+    },
+    {
+      "Time": "2023-10-17T20:58:29.5934474+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 9141,
+      "NumberOfAwardsMax": 3359
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9140,
+  "NumberOfAwards": 9141,
   "NumberOfAwardsMax": 3359,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5057,7 +5063,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 625
+      "Count": 626
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5089,8 +5095,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:59.2764084+00:00",
-  "LastChanged": "2023-10-16T19:59:29.8557273+00:00",
+  "LastChanged": "2023-10-17T20:58:29.5934472+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:32.4818891+00:00",
-  "LastUpdate_Ratings": "2023-10-17T19:58:35.2669871+00:00",
-  "LastUpdate_Achievements": "2023-10-17T20:06:23.945507+00:00"
+  "LastUpdate_Ratings": "2023-10-17T20:58:29.5934482+00:00",
+  "LastUpdate_Achievements": "2023-10-17T21:06:19.9048229+00:00"
 }

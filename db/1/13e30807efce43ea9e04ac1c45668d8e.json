@@ -2,10 +2,10 @@
   "ID": "13e30807efce43ea9e04ac1c45668d8e",
   "Name": "Outliver: Tribulation",
   "ProductSlug": "outliver-tribulations-679884",
-  "Ranking_EOS_Progress": 484,
+  "Ranking_EOS_Progress": 485,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 388,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 390,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-07-18T15:00:00+00:00",
     "PcReleaseDate": "2023-07-18T15:00:00+00:00",
@@ -301,9 +301,9 @@
       "ID": "ACH_WELCOME_TO_ROT",
       "SetID": "7m06add",
       "Name": "The Realm Of Tribulations",
-      "Percentage": 38,
+      "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     }
   ],
   "AchievementSets": [
@@ -316,8 +316,8 @@
   ],
   "FirstSeen": "2023-07-23T09:57:14.6972253+00:00",
   "FirstSeenAchievements": "2023-07-01T13:14:13.8674761+00:00",
-  "LastChanged_Achievements": "2023-10-17T20:03:50.6082599+00:00",
+  "LastChanged_Achievements": "2023-10-17T21:03:49.9288468+00:00",
   "LastUpdate_AppInfo": "2023-10-13T23:57:18.8649561+00:00",
-  "LastUpdate_Ratings": "2023-10-17T19:58:58.1968162+00:00",
-  "LastUpdate_Achievements": "2023-10-17T20:03:50.6082728+00:00"
+  "LastUpdate_Ratings": "2023-10-17T20:58:52.2375596+00:00",
+  "LastUpdate_Achievements": "2023-10-17T21:03:49.9288638+00:00"
 }

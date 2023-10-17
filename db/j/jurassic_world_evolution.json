@@ -2,13 +2,13 @@
   "ID": "047392e91d5e4cfdb19e2767440ab206",
   "Name": "Jurassic World Evolution",
   "ProductSlug": "jurassic-world-evolution",
-  "Ranking_Rating": 354,
+  "Ranking_Rating": 355,
   "Ranking_Popularity": 192,
   "Ranking_PopularitySum": 133,
   "Ranking_EOS_Progress": 673,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 388,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 390,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2020-12-31T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -4442,10 +4442,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 5152,
       "NumberOfAwardsMax": 586
+    },
+    {
+      "Time": "2023-10-17T20:58:10.2040313+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 5154,
+      "NumberOfAwardsMax": 586
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5152,
+  "NumberOfAwards": 5154,
   "NumberOfAwardsMax": 586,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4495,7 +4501,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 516
+      "Count": 517
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4507,7 +4513,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 497
+      "Count": 498
     },
     {
       "Text": "This game has a Creative Community",
@@ -4527,8 +4533,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:31.0085434+00:00",
-  "LastChanged": "2023-10-17T08:58:34.6692752+00:00",
+  "LastChanged": "2023-10-17T20:58:10.204031+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:13.2299816+00:00",
-  "LastUpdate_Ratings": "2023-10-17T19:58:14.1826678+00:00",
-  "LastUpdate_Achievements": "2023-10-17T20:04:33.2302177+00:00"
+  "LastUpdate_Ratings": "2023-10-17T20:58:10.2040317+00:00",
+  "LastUpdate_Achievements": "2023-10-17T21:04:31.5102723+00:00"
 }
