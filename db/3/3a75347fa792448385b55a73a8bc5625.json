@@ -2,10 +2,10 @@
   "ID": "3a75347fa792448385b55a73a8bc5625",
   "Name": "Torque Drift 2",
   "ProductSlug": "torque-drift-2-b08765",
-  "Ranking_EOS_Progress": 672,
+  "Ranking_EOS_Progress": 673,
   "Ranking_EOS_Completed": 315,
   "Ranking_EOS_NewPlayers": 387,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-10-02T23:00:00+00:00",
     "PcReleaseDate": "2023-10-02T23:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-03T05:57:43.1380332+00:00",
   "LastUpdate_AppInfo": "2023-10-16T04:57:13.3858774+00:00",
-  "LastUpdate_Ratings": "2023-10-17T14:57:38.965588+00:00",
-  "LastUpdate_Achievements": "2023-10-17T15:04:38.8976148+00:00"
+  "LastUpdate_Ratings": "2023-10-17T15:58:20.4510317+00:00",
+  "LastUpdate_Achievements": "2023-10-17T16:05:45.3929207+00:00"
 }

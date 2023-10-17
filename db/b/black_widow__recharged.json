@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
     "PcReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18879,
+  "EOS_Progressed": 18880,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 161,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -14693,6 +14693,11 @@
       "Time": "2023-10-17T15:05:37.8297251+00:00",
       "NumProgressed": 18879,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-10-17T16:07:11.0753375+00:00",
+      "NumProgressed": 18880,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 14,
@@ -14720,7 +14725,7 @@
       "Name": "Caught in a Trap",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 2265
+      "UsersEstimate": 2266
     },
     {
       "ID": "ACH_DANGER_AHEAD",
@@ -14728,7 +14733,7 @@
       "Name": "Danger Ahead",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 5097
+      "UsersEstimate": 5098
     },
     {
       "ID": "ACH_DONT_BRING_ME_DOWN",
@@ -14768,7 +14773,7 @@
       "Name": "In For The Kill",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 2265
+      "UsersEstimate": 2266
     },
     {
       "ID": "ACH_IN_MY_OWN_TIME",
@@ -14815,15 +14820,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 18879,
+      "Progressed": 18880,
       "Completed": 56
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-10-11T19:57:53.043932+00:00",
-  "LastChanged_Achievements": "2023-10-17T15:05:37.8297244+00:00",
+  "LastChanged_Achievements": "2023-10-17T16:07:11.0753368+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:14.5085638+00:00",
-  "LastUpdate_Ratings": "2023-10-17T14:59:27.0976512+00:00",
-  "LastUpdate_Achievements": "2023-10-17T15:05:37.8298006+00:00"
+  "LastUpdate_Ratings": "2023-10-17T16:00:56.3543065+00:00",
+  "LastUpdate_Achievements": "2023-10-17T16:07:11.0754401+00:00"
 }

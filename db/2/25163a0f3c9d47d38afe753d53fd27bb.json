@@ -3,9 +3,9 @@
   "Name": "Island Farmer",
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 249,
-  "Ranking_EOS_Completed": 32,
-  "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_Completed": 31,
+  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 751,
-  "EOS_Completed": 83,
+  "EOS_Completed": 84,
   "EOS_NewPlayers": 2,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 11.05,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 11.19,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -2671,6 +2671,11 @@
       "Time": "2023-10-15T01:55:49.7470326+00:00",
       "NumProgressed": 751,
       "NumCompleted": 83
+    },
+    {
+      "Time": "2023-10-17T16:10:09.357998+00:00",
+      "NumProgressed": 751,
+      "NumCompleted": 84
     }
   ],
   "TotalAchievements": 30,
@@ -2912,9 +2917,9 @@
       "ID": "LEVEL_030",
       "SetID": "212bg48",
       "Name": "Celebration with Cake and Balloons",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 110,
-      "UsersEstimate": 60
+      "UsersEstimate": 68
     }
   ],
   "AchievementSets": [
@@ -2922,13 +2927,13 @@
       "ID": "212bg48",
       "IsBase": true,
       "Progressed": 751,
-      "Completed": 83
+      "Completed": 84
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-10-17T15:09:12.1639283+00:00",
+  "LastChanged_Achievements": "2023-10-17T16:10:09.3579974+00:00",
   "LastUpdate_AppInfo": "2023-10-17T01:40:42.2963421+00:00",
-  "LastUpdate_Ratings": "2023-10-17T15:00:28.0361338+00:00",
-  "LastUpdate_Achievements": "2023-10-17T15:09:12.1639641+00:00"
+  "LastUpdate_Ratings": "2023-10-17T16:02:25.1321771+00:00",
+  "LastUpdate_Achievements": "2023-10-17T16:10:09.35804+00:00"
 }

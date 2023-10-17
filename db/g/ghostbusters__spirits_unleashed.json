@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 219,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -15342,9 +15342,9 @@
       "ID": "Escape_Artist",
       "SetID": "819popo",
       "Name": "Escape Artist",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 133
     },
     {
       "ID": "Fragile_Panes",
@@ -15639,8 +15639,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-17T01:43:20.4793057+00:00",
-  "LastChanged_Achievements": "2023-10-17T15:03:26.6982686+00:00",
+  "LastChanged_Achievements": "2023-10-17T16:03:50.8651469+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:17.9420656+00:00",
-  "LastUpdate_Ratings": "2023-10-17T14:59:00.410606+00:00",
-  "LastUpdate_Achievements": "2023-10-17T15:03:26.6984031+00:00"
+  "LastUpdate_Ratings": "2023-10-17T16:00:13.7445081+00:00",
+  "LastUpdate_Achievements": "2023-10-17T16:03:50.8653167+00:00"
 }

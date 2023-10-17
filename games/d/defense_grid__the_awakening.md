@@ -1,42 +1,42 @@
 # Defense Grid: The Awakening
 [Store](https://store.epicgames.com/en-US/p/defense-grid)  
 [View Rawdata](../../db/d/defense_grid__the_awakening.json)  
-Rating: 4.45 (Ranked 645)  
+Rating: 4.45 (Ranked 646)  
 Number of Ratings: 1,225  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~395,258 |
-| Happy Returns | 78.00% | ~380,619 |
-| Hey! That's mine! | 78.00% | ~380,619 |
-| Field Promotion | 74.00% | ~361,100 |
-| Leadhead | 71.00% | ~346,461 |
-| Eradicator | 67.00% | ~326,942 |
-| Surplus | 65.00% | ~317,182 |
+| First Blood | 81.00% | ~395,259 |
+| Happy Returns | 78.00% | ~380,620 |
+| Hey! That's mine! | 78.00% | ~380,620 |
+| Field Promotion | 74.00% | ~361,101 |
+| Leadhead | 71.00% | ~346,462 |
+| Eradicator | 67.00% | ~326,943 |
+| Surplus | 65.00% | ~317,183 |
 | I Spy | 64.00% | ~312,303 |
-| Burn Baby Burn | 59.00% | ~287,904 |
+| Burn Baby Burn | 59.00% | ~287,905 |
 | Yellow Beats Green | 56.00% | ~273,265 |
 | Salvage Rights | 53.00% | ~258,626 |
-| Close Call | 50.00% | ~243,986 |
-| Pew Pew | 50.00% | ~243,986 |
-| What IS that? | 50.00% | ~243,986 |
+| Close Call | 50.00% | ~243,987 |
+| Pew Pew | 50.00% | ~243,987 |
+| What IS that? | 50.00% | ~243,987 |
 | Penny Pincher | 49.00% | ~239,107 |
 | Arsenal | 46.00% | ~224,468 |
 | Boot Camp | 45.00% | ~219,588 |
 | Flawless Victory | 42.00% | ~204,949 |
 | Confident | 41.00% | ~200,069 |
-| Exterminator | 36.00% | ~175,670 |
+| Exterminator | 36.00% | ~175,671 |
 | Sharpshooter | 34.00% | ~165,911 |
 | Not So Fast | 33.00% | ~161,031 |
-| Great Ball of Fire | 32.00% | ~156,151 |
+| Great Ball of Fire | 32.00% | ~156,152 |
 | No Sale | 31.00% | ~151,272 |
 | Kaboom! | 30.00% | ~146,392 |
 | Liquidator | 29.00% | ~141,512 |
 | High Voltage | 24.00% | ~117,114 |
 | Filthy Rich | 19.00% | ~92,715 |
 | The Not-So-Friendly Skies | 18.00% | ~87,835 |
-| Power Builder | 17.00% | ~82,955 |
-| Pyrrhic Victory | 17.00% | ~82,955 |
+| Power Builder | 17.00% | ~82,956 |
+| Pyrrhic Victory | 17.00% | ~82,956 |
 | Death From Above | 16.00% | ~78,076 |
 | Retry | 16.00% | ~78,076 |
 | Head Trauma | 12.00% | ~58,557 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~488 |
 | You Monster | 0.10% | ~488 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 487,973 (Ranked 35)  
+Progressed: 487,974 (Ranked 35)  
 Completed: 4 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,7 +274,7 @@ Completed: 4 (0.00%) (Ranked 315)
 | 2023-10-14 | 487,827 | 4 |
 | 2023-10-15 | 487,902 | 4 |
 | 2023-10-16 | 487,936 | 4 |
-| 2023-10-17 | 487,973 | 4 |
+| 2023-10-17 | 487,974 | 4 |
 ## Awards
 Max (Great for Beginners): 254  (Ranked 260)  
 Sum: 1,699 (Ranked 213)  

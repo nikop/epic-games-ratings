@@ -2,10 +2,10 @@
   "ID": "a013d93390c34ff588ab136bee0cde71",
   "Name": "Savant - Ascent REMIX",
   "ProductSlug": "savant-ascent-86d652",
-  "Ranking_EOS_Progress": 672,
+  "Ranking_EOS_Progress": 673,
   "Ranking_EOS_Completed": 315,
   "Ranking_EOS_NewPlayers": 387,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-13T16:57:41.0901645+00:00",
-  "LastUpdate_Ratings": "2023-10-17T14:58:46.0860706+00:00",
-  "LastUpdate_Achievements": "2023-10-17T15:09:10.3943238+00:00"
+  "LastUpdate_Ratings": "2023-10-17T15:59:53.593691+00:00",
+  "LastUpdate_Achievements": "2023-10-17T16:10:06.9429867+00:00"
 }

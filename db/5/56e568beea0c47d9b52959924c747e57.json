@@ -2,10 +2,10 @@
   "ID": "56e568beea0c47d9b52959924c747e57",
   "Name": "Asian Riddles",
   "ProductSlug": "asian-riddles-223489",
-  "Ranking_EOS_Progress": 672,
+  "Ranking_EOS_Progress": 673,
   "Ranking_EOS_Completed": 315,
   "Ranking_EOS_NewPlayers": 387,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-10-02T00:00:00+00:00",
     "PcReleaseDate": "2019-12-24T23:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-05T01:43:26.1953874+00:00",
   "LastUpdate_AppInfo": "2023-10-15T17:57:05.1269952+00:00",
-  "LastUpdate_Ratings": "2023-10-17T14:58:00.3334159+00:00",
-  "LastUpdate_Achievements": "2023-10-17T15:04:02.9127001+00:00"
+  "LastUpdate_Ratings": "2023-10-17T15:58:49.7232641+00:00",
+  "LastUpdate_Achievements": "2023-10-17T16:04:52.8293265+00:00"
 }

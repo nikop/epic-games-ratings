@@ -6,27 +6,27 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 73.00% | ~7,050 |
-| Leader | 61.00% | ~5,891 |
-| Explorer | 53.00% | ~5,119 |
-| Healer | 52.00% | ~5,022 |
+| First Step | 73.00% | ~7,052 |
+| Leader | 61.00% | ~5,893 |
+| Explorer | 53.00% | ~5,120 |
+| Healer | 52.00% | ~5,023 |
 | Aspiring Inventor | 44.00% | ~4,250 |
-| Adventurer | 42.00% | ~4,056 |
-| Famous Healer | 38.00% | ~3,670 |
-| Local Leader | 35.00% | ~3,380 |
+| Adventurer | 42.00% | ~4,057 |
+| Famous Healer | 38.00% | ~3,671 |
+| Local Leader | 35.00% | ~3,381 |
 | Famous Explorer | 34.00% | ~3,284 |
 | New Opportunities | 34.00% | ~3,284 |
-| Energized | 33.00% | ~3,187 |
-| The Long Haul | 33.00% | ~3,187 |
+| Energized | 33.00% | ~3,188 |
+| The Long Haul | 33.00% | ~3,188 |
 | Survivor | 32.00% | ~3,091 |
-| The Great Healer | 31.00% | ~2,994 |
-| Legendary Explorer | 28.00% | ~2,704 |
-| Cleaner | 28.00% | ~2,704 |
-| Catastrofan | 28.00% | ~2,704 |
-| Finders, Keepers | 26.00% | ~2,511 |
-| Top Notch | 25.00% | ~2,414 |
-| Great Leader | 23.00% | ~2,221 |
-| Mentor | 23.00% | ~2,221 |
+| The Great Healer | 31.00% | ~2,995 |
+| Legendary Explorer | 28.00% | ~2,705 |
+| Cleaner | 28.00% | ~2,705 |
+| Catastrofan | 28.00% | ~2,705 |
+| Finders, Keepers | 26.00% | ~2,512 |
+| Top Notch | 25.00% | ~2,415 |
+| Great Leader | 23.00% | ~2,222 |
+| Mentor | 23.00% | ~2,222 |
 | Merchant | 22.00% | ~2,125 |
 | Ice Lakes | 22.00% | ~2,125 |
 | Real Survivor | 22.00% | ~2,125 |
@@ -46,8 +46,8 @@ Number of Ratings: 836  (23.09.2022)
 | Bread and Circuses | 8.00% | ~773 |
 | New Eden | 7.00% | ~676 |
 | Tailored to fit | 7.00% | ~676 |
-| Really Friendly | 6.00% | ~579 |
-| Amped Up | 6.00% | ~579 |
+| Really Friendly | 6.00% | ~580 |
+| Amped Up | 6.00% | ~580 |
 | Look, no Hands! | 5.00% | ~483 |
 | Luxurious Living | 4.00% | ~386 |
 | Mogul | 3.00% | ~290 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~19 |
 | Customized calamities | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,658 (Ranked 150)  
+Progressed: 9,660 (Ranked 150)  
 Completed: 0 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +246,7 @@ Completed: 0 (0.00%) (Ranked 315)
 | 2023-10-14 | 9,599 | 0 |
 | 2023-10-15 | 9,627 | 0 |
 | 2023-10-16 | 9,648 | 0 |
-| 2023-10-17 | 9,658 | 0 |
+| 2023-10-17 | 9,660 | 0 |
 ## Awards
 Max (Extremely Fun): 103  (Ranked 342)  
 Sum: 710 (Ranked 284)  

@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~633 |
-| Off to a good start | 68.00% | ~478 |
-| Do... or do not. There is no try | 53.00% | ~373 |
-| A good blaster at your side | 34.00% | ~239 |
+| New Recruit | 91.00% | ~643 |
+| Off to a good start | 68.00% | ~481 |
+| Do... or do not. There is no try | 53.00% | ~375 |
+| A good blaster at your side | 34.00% | ~240 |
 | Scrap collector | 21.00% | ~148 |
 | I suggest a new strategy | 19.00% | ~134 |
 | Great shot, kid! | 18.00% | ~127 |
 | The power of the Force | 17.00% | ~120 |
 | All right, I'll give it a try | 17.00% | ~120 |
 | Shoot first | 17.00% | ~120 |
-| Together we can rule the galaxy | 16.00% | ~112 |
-| Collector | 15.00% | ~105 |
-| Tell Jabba that I've got his money | 11.00% | ~77 |
-| Best star-pilot in the galaxy | 11.00% | ~77 |
-| Survivor | 11.00% | ~77 |
-| Never tell me the odds! | 10.00% | ~70 |
-| A cunning warrior | 10.00% | ~70 |
-| What's the cargo? | 9.00% | ~63 |
-| Impressive. Most impressive. | 9.00% | ~63 |
-| "Gonk? Gonk!" | 8.00% | ~56 |
-| Judge me by my size, do you? | 8.00% | ~56 |
+| Together we can rule the galaxy | 16.00% | ~113 |
+| Collector | 15.00% | ~106 |
+| Best star-pilot in the galaxy | 12.00% | ~85 |
+| Tell Jabba that I've got his money | 11.00% | ~78 |
+| Survivor | 11.00% | ~78 |
+| Never tell me the odds! | 10.00% | ~71 |
+| A cunning warrior | 10.00% | ~71 |
+| What's the cargo? | 9.00% | ~64 |
+| "Gonk? Gonk!" | 8.00% | ~57 |
+| Impressive. Most impressive. | 8.00% | ~57 |
+| Judge me by my size, do you? | 8.00% | ~57 |
 | Distinguished | 7.00% | ~49 |
 | A tremor in the Force | 7.00% | ~49 |
 | Support the troops | 7.00% | ~49 |
@@ -56,7 +56,7 @@
 | A New Hope | 1.00% | ~7 |
 | No such thing as luck | 1.00% | ~7 |
 | Do we take prisoners? | 1.00% | ~7 |
-| I’ll take that bet | 0.90% | ~6 |
+| I’ll take that bet | 0.80% | ~6 |
 | Walker defender | 0.70% | ~5 |
 | in a galaxy far, far away.... | 0.60% | ~4 |
 | Greed can be a very powerful ally | 0.60% | ~4 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.30% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 703 (Ranked 254)  
+Progressed: 707 (Ranked 254)  
 Completed: 1 (0.14%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 1 (0.14%) (Ranked 236)
 | 2023-10-14 | 652 | 1 |
 | 2023-10-15 | 672 | 1 |
 | 2023-10-16 | 694 | 1 |
-| 2023-10-17 | 703 | 1 |
+| 2023-10-17 | 707 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

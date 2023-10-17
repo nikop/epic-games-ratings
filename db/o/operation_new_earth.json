@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 268,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -56,7 +56,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1618,
+  "EOS_Progressed": 1619,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
@@ -5996,6 +5996,11 @@
       "Time": "2023-10-17T03:06:43.4584392+00:00",
       "NumProgressed": 1618,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-17T16:07:24.694319+00:00",
+      "NumProgressed": 1619,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6023,7 +6028,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ach_defeat_players_100",
@@ -6071,7 +6076,7 @@
       "Name": "Silver Competitor",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -6143,7 +6148,7 @@
       "Name": "Captain",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -6183,7 +6188,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -6255,7 +6260,7 @@
       "Name": "Factory Expansion",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -6310,7 +6315,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1618,
+      "Progressed": 1619,
       "Completed": 1
     }
   ],
@@ -6318,8 +6323,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-10-17T15:05:47.3298016+00:00",
+  "LastChanged_Achievements": "2023-10-17T16:07:24.6943182+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:23.525424+00:00",
-  "LastUpdate_Ratings": "2023-10-17T14:59:50.0271053+00:00",
-  "LastUpdate_Achievements": "2023-10-17T15:05:47.3298665+00:00"
+  "LastUpdate_Ratings": "2023-10-17T16:01:29.9537621+00:00",
+  "LastUpdate_Achievements": "2023-10-17T16:07:24.6944334+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 315,
   "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-09-12T08:00:00+00:00",
     "PcReleaseDate": "2023-07-11T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3128,
+  "EOS_Progressed": 3136,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1511,
+  "EOS_NewPlayers": 1510,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1991,6 +1991,11 @@
       "Time": "2023-10-17T15:04:06.5451309+00:00",
       "NumProgressed": 3128,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-17T16:04:58.053836+00:00",
+      "NumProgressed": 3136,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -2089,9 +2094,9 @@
       "ID": "ACH_WINELECTRICALSTATION",
       "SetID": "1lo1k0a",
       "Name": "Electric",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 125
+      "UsersEstimate": 157
     },
     {
       "ID": "ACH_WINLEVEL0",
@@ -2099,7 +2104,7 @@
       "Name": "Level 0",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 813
+      "UsersEstimate": 815
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -2107,7 +2112,7 @@
       "Name": "Level 1",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -2115,7 +2120,7 @@
       "Name": "Dreamer!",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "ACH_WINLEVEL3",
@@ -2177,9 +2182,9 @@
       "ID": "ACH_WINLEVELFUN",
       "SetID": "1lo1k0a",
       "Name": "FUN",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 63
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_WINLEVELLIGHTOUT",
@@ -2194,14 +2199,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 3128,
+      "Progressed": 3136,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-10-17T15:04:06.5451302+00:00",
+  "LastChanged_Achievements": "2023-10-17T16:04:58.053835+00:00",
   "LastUpdate_AppInfo": "2023-10-16T13:57:00.6358262+00:00",
-  "LastUpdate_Ratings": "2023-10-17T14:59:26.5994536+00:00",
-  "LastUpdate_Achievements": "2023-10-17T15:04:06.5451601+00:00"
+  "LastUpdate_Ratings": "2023-10-17T16:00:55.3942696+00:00",
+  "LastUpdate_Achievements": "2023-10-17T16:04:58.053885+00:00"
 }

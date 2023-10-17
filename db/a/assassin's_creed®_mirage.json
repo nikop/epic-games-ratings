@@ -2,20 +2,20 @@
   "ID": "9bcf5a4dc1d54cb6ab1a42f3a70c5cf4",
   "Name": "Assassin\u0027s Creed\u00AE Mirage",
   "ProductSlug": "assassins-creed-mirage",
-  "Ranking_Rating": 645,
+  "Ranking_Rating": 628,
   "Ranking_Popularity": 403,
   "Ranking_PopularitySum": 322,
-  "Ranking_EOS_Progress": 672,
+  "Ranking_EOS_Progress": 673,
   "Ranking_EOS_Completed": 315,
   "Ranking_EOS_NewPlayers": 387,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-10-05T16:00:00+00:00",
     "PcReleaseDate": "2023-10-05T16:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.45,
+  "Rating": 4.46,
   "RatingHistory": [
     {
       "Time": "2023-10-06T05:58:23.6709701+00:00",
@@ -316,10 +316,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 448,
       "NumberOfAwardsMax": 58
+    },
+    {
+      "Time": "2023-10-17T15:58:28.6725217+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 455,
+      "NumberOfAwardsMax": 58
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 448,
+  "NumberOfAwards": 455,
   "NumberOfAwardsMax": 58,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -339,7 +345,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 49
+      "Count": 56
     },
     {
       "Text": "This game is Educational",
@@ -396,8 +402,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-05T18:58:30.4202319+00:00",
   "FirstSeenRating": "2023-10-06T05:58:23.6709697+00:00",
-  "LastChanged": "2023-10-17T14:57:45.9280033+00:00",
+  "LastChanged": "2023-10-17T15:58:28.6725214+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:14.6654197+00:00",
-  "LastUpdate_Ratings": "2023-10-17T14:57:45.9280037+00:00",
-  "LastUpdate_Achievements": "2023-10-17T15:05:07.598695+00:00"
+  "LastUpdate_Ratings": "2023-10-17T15:58:28.6725221+00:00",
+  "LastUpdate_Achievements": "2023-10-17T16:06:27.3102535+00:00"
 }

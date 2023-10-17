@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -9096,9 +9096,9 @@
       "Count": 718
     }
   ],
-  "EOS_Progressed": 298498,
+  "EOS_Progressed": 298501,
   "EOS_Completed": 488,
-  "EOS_NewPlayers": 358,
+  "EOS_NewPlayers": 361,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -28396,6 +28396,11 @@
       "Time": "2023-10-17T15:05:27.5212163+00:00",
       "NumProgressed": 298498,
       "NumCompleted": 488
+    },
+    {
+      "Time": "2023-10-17T16:06:56.0863765+00:00",
+      "NumProgressed": 298501,
+      "NumCompleted": 488
     }
   ],
   "TotalAchievements": 45,
@@ -28519,7 +28524,7 @@
       "Name": "Collector\u0027s Edition",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 895
+      "UsersEstimate": 896
     },
     {
       "ID": "PFA_23",
@@ -28551,7 +28556,7 @@
       "Name": "The Nature of the Beast",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 2089
+      "UsersEstimate": 2090
     },
     {
       "ID": "PFA_27",
@@ -28615,7 +28620,7 @@
       "Name": "Spilled Milk",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2686
+      "UsersEstimate": 2687
     },
     {
       "ID": "PFA_34",
@@ -28766,7 +28771,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298498,
+      "Progressed": 298501,
       "Completed": 488
     }
   ],
@@ -28774,8 +28779,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-17T13:57:40.2700424+00:00",
-  "LastChanged_Achievements": "2023-10-17T15:05:27.5212155+00:00",
+  "LastChanged_Achievements": "2023-10-17T16:06:56.0863757+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:16.623812+00:00",
-  "LastUpdate_Ratings": "2023-10-17T14:57:22.3808844+00:00",
-  "LastUpdate_Achievements": "2023-10-17T15:05:27.5213672+00:00"
+  "LastUpdate_Ratings": "2023-10-17T15:57:52.8638949+00:00",
+  "LastUpdate_Achievements": "2023-10-17T16:06:56.0865357+00:00"
 }

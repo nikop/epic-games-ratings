@@ -37,12 +37,12 @@ Rating: 4.50 (Ranked 574)
 | Pesky Jerks | 0.60% | ~159 |
 | Collector | 0.50% | ~133 |
 | Diabolical | 0.50% | ~133 |
+| Escape Artist | 0.50% | ~133 |
 | Reckless | 0.50% | ~133 |
 | Rift Destroyer | 0.50% | ~133 |
 | Rivalry | 0.50% | ~133 |
 | Seasoned | 0.50% | ~133 |
 | Tobin's Prodigy | 0.50% | ~133 |
-| Escape Artist | 0.40% | ~106 |
 | Fragile Panes | 0.30% | ~80 |
 | Liability | 0.30% | ~80 |
 | Surprise! | 0.30% | ~80 |

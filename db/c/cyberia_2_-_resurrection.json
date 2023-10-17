@@ -2,10 +2,10 @@
   "ID": "4dbad680e71f43a4b80487cf506661f6",
   "Name": "Cyberia 2 - Resurrection",
   "ProductSlug": "cyberia-2-resurrection-23a676",
-  "Ranking_EOS_Progress": 672,
+  "Ranking_EOS_Progress": 673,
   "Ranking_EOS_Completed": 315,
   "Ranking_EOS_NewPlayers": 387,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-08-12T16:00:00+00:00",
     "PcReleaseDate": "2022-08-12T16:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:33.2829621+00:00",
   "LastChanged": "2023-03-31T05:57:33.2829622+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:17.0765562+00:00",
-  "LastUpdate_Ratings": "2023-10-17T14:58:42.3405189+00:00",
-  "LastUpdate_Achievements": "2023-10-17T15:05:13.0093611+00:00"
+  "LastUpdate_Ratings": "2023-10-17T15:59:48.6168193+00:00",
+  "LastUpdate_Achievements": "2023-10-17T16:06:34.9424085+00:00"
 }

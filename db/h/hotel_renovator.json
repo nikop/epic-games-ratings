@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -164,9 +164,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1079,
+  "EOS_Progressed": 1080,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.48,
   "EosHistory": [
@@ -1969,6 +1969,11 @@
       "Time": "2023-10-16T15:11:31.1399675+00:00",
       "NumProgressed": 1079,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-10-17T16:09:37.9554379+00:00",
+      "NumProgressed": 1080,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 27,
@@ -2004,7 +2009,7 @@
       "Name": "Roll with it",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "ACH_DYNAMITE_USED",
@@ -2068,7 +2073,7 @@
       "Name": "Memento",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
@@ -2076,7 +2081,7 @@
       "Name": "No pressure",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -2108,7 +2113,7 @@
       "Name": "Island boy",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "ACH_POWER_OUTRAGE_FIXED",
@@ -2116,7 +2121,7 @@
       "Name": "Let there be light",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "ACH_SKILLS_ALL",
@@ -2130,9 +2135,9 @@
       "ID": "ACH_STAR_1",
       "SetID": "7k95e4n",
       "Name": "Good start",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 831
+      "UsersEstimate": 821
     },
     {
       "ID": "ACH_STAR_2",
@@ -2140,7 +2145,7 @@
       "Name": "Moving up",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "ACH_STAR_3",
@@ -2188,14 +2193,14 @@
       "Name": "I think you dropped this",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     }
   ],
   "AchievementSets": [
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 1079,
+      "Progressed": 1080,
       "Completed": 16
     }
   ],
@@ -2203,8 +2208,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-10-08T18:57:13.8694552+00:00",
-  "LastChanged_Achievements": "2023-10-17T15:08:20.2419261+00:00",
+  "LastChanged_Achievements": "2023-10-17T16:09:37.9554374+00:00",
   "LastUpdate_AppInfo": "2023-10-14T13:56:56.9692928+00:00",
-  "LastUpdate_Ratings": "2023-10-17T15:00:23.9969318+00:00",
-  "LastUpdate_Achievements": "2023-10-17T15:08:20.2419565+00:00"
+  "LastUpdate_Ratings": "2023-10-17T16:02:18.9579941+00:00",
+  "LastUpdate_Achievements": "2023-10-17T16:09:37.9554701+00:00"
 }

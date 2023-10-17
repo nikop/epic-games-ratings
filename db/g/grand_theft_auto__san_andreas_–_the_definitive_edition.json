@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1258,9 +1258,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 13208,
+  "EOS_Progressed": 13209,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -12898,6 +12898,11 @@
       "Time": "2023-10-17T15:05:53.8628057+00:00",
       "NumProgressed": 13208,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-10-17T16:07:34.0186129+00:00",
+      "NumProgressed": 13209,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 35,
@@ -12909,7 +12914,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 10698
+      "UsersEstimate": 10699
     },
     {
       "ID": "ACH02",
@@ -12965,7 +12970,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 6736
+      "UsersEstimate": 6737
     },
     {
       "ID": "ACH09",
@@ -13029,7 +13034,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2245
+      "UsersEstimate": 2246
     },
     {
       "ID": "ACH17",
@@ -13045,7 +13050,7 @@
       "Name": "Saviour",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 792
+      "UsersEstimate": 793
     },
     {
       "ID": "ACH19",
@@ -13188,7 +13193,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13208,
+      "Progressed": 13209,
       "Completed": 50
     }
   ],
@@ -13196,8 +13201,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-10-17T06:58:25.4468438+00:00",
-  "LastChanged_Achievements": "2023-10-17T15:05:53.862805+00:00",
+  "LastChanged_Achievements": "2023-10-17T16:07:34.0186123+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:42.8574604+00:00",
-  "LastUpdate_Ratings": "2023-10-17T14:58:44.0368053+00:00",
-  "LastUpdate_Achievements": "2023-10-17T15:05:53.8628904+00:00"
+  "LastUpdate_Ratings": "2023-10-17T15:59:50.2978324+00:00",
+  "LastUpdate_Achievements": "2023-10-17T16:07:34.0187176+00:00"
 }

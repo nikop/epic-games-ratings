@@ -5,10 +5,10 @@
   "Ranking_Rating": 894,
   "Ranking_Popularity": 376,
   "Ranking_PopularitySum": 314,
-  "Ranking_EOS_Progress": 672,
+  "Ranking_EOS_Progress": 673,
   "Ranking_EOS_Completed": 315,
   "Ranking_EOS_NewPlayers": 387,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2020-09-24T23:00:00+00:00",
     "PcReleaseDate": null,
@@ -1156,10 +1156,16 @@
       "Rating": 4.19,
       "NumberOfAwards": 491,
       "NumberOfAwardsMax": 78
+    },
+    {
+      "Time": "2023-10-17T16:02:00.2230958+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 492,
+      "NumberOfAwardsMax": 78
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 491,
+  "NumberOfAwards": 492,
   "NumberOfAwardsMax": 78,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -1167,7 +1173,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 69
+      "Count": 70
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -1241,8 +1247,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:34.9657602+00:00",
-  "LastChanged": "2023-10-08T12:03:20.6413135+00:00",
+  "LastChanged": "2023-10-17T16:02:00.2230956+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:24.1469002+00:00",
-  "LastUpdate_Ratings": "2023-10-17T15:00:11.6849096+00:00",
-  "LastUpdate_Achievements": "2023-10-17T15:08:07.094292+00:00"
+  "LastUpdate_Ratings": "2023-10-17T16:02:00.2230963+00:00",
+  "LastUpdate_Achievements": "2023-10-17T16:09:19.2148623+00:00"
 }
