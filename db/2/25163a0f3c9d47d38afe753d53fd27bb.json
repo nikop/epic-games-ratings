@@ -4,8 +4,8 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 31,
-  "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 751,
+  "EOS_Progressed": 752,
   "EOS_Completed": 84,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 11.19,
+  "EOS_Completed_Percentage": 11.17,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -2676,6 +2676,11 @@
       "Time": "2023-10-17T16:10:09.357998+00:00",
       "NumProgressed": 751,
       "NumCompleted": 84
+    },
+    {
+      "Time": "2023-10-17T23:09:15.9882312+00:00",
+      "NumProgressed": 752,
+      "NumCompleted": 84
     }
   ],
   "TotalAchievements": 30,
@@ -2687,7 +2692,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "LEVEL_002",
@@ -2695,7 +2700,7 @@
       "Name": "Promising crop",
       "Percentage": 82,
       "XP": 15,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "LEVEL_003",
@@ -2703,7 +2708,7 @@
       "Name": "A horse in the country",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "LEVEL_004",
@@ -2719,7 +2724,7 @@
       "Name": "Small village",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "LEVEL_006",
@@ -2727,7 +2732,7 @@
       "Name": "Nothing like fresh food",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "LEVEL_007",
@@ -2751,7 +2756,7 @@
       "Name": "Going zig zag",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "LEVEL_010",
@@ -2837,9 +2842,9 @@
       "ID": "LEVEL_020",
       "SetID": "212bg48",
       "Name": "Go round and round",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 110,
-      "UsersEstimate": 113
+      "UsersEstimate": 105
     },
     {
       "ID": "LEVEL_021",
@@ -2926,14 +2931,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 751,
+      "Progressed": 752,
       "Completed": 84
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-10-17T22:09:43.9118915+00:00",
+  "LastChanged_Achievements": "2023-10-17T23:09:15.9882307+00:00",
   "LastUpdate_AppInfo": "2023-10-17T01:40:42.2963421+00:00",
-  "LastUpdate_Ratings": "2023-10-17T21:57:16.6305471+00:00",
-  "LastUpdate_Achievements": "2023-10-17T22:09:43.9119283+00:00"
+  "LastUpdate_Ratings": "2023-10-17T22:57:01.8093396+00:00",
+  "LastUpdate_Achievements": "2023-10-17T23:09:15.9882734+00:00"
 }

@@ -1138,9 +1138,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 152874,
+  "EOS_Progressed": 152880,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1408,
+  "EOS_NewPlayers": 1411,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11998,6 +11998,11 @@
       "Time": "2023-10-17T22:05:18.4453455+00:00",
       "NumProgressed": 152874,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-17T23:04:34.7675136+00:00",
+      "NumProgressed": 152880,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -12033,7 +12038,7 @@
       "Name": "Assimilation",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "ACQUIRE_ALLWEAPONS",
@@ -12073,7 +12078,7 @@
       "Name": "Taste",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3057
+      "UsersEstimate": 3058
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -12105,7 +12110,7 @@
       "Name": "Shapely",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "DEFEAT_FLOWERHEART",
@@ -12225,7 +12230,7 @@
       "Name": "Imprint",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3057
+      "UsersEstimate": 3058
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -12233,7 +12238,7 @@
       "Name": "Predator",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "MISC_ENDING_PROPER",
@@ -12376,21 +12381,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 152457,
+      "Progressed": 152463,
       "Completed": 1161
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 152874,
+      "Progressed": 152880,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-17T21:00:11.1521649+00:00",
-  "LastChanged_Achievements": "2023-10-17T22:05:18.445345+00:00",
+  "LastChanged_Achievements": "2023-10-17T23:04:34.7675132+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:33.8479674+00:00",
-  "LastUpdate_Ratings": "2023-10-17T22:01:08.0293425+00:00",
-  "LastUpdate_Achievements": "2023-10-17T22:05:18.4454536+00:00"
+  "LastUpdate_Ratings": "2023-10-17T23:00:11.3634053+00:00",
+  "LastUpdate_Achievements": "2023-10-17T23:04:34.7676314+00:00"
 }

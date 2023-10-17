@@ -1,24 +1,24 @@
 # Fae Farm
 [Store](https://store.epicgames.com/en-US/p/fae-farm)  
 [View Rawdata](../../db/0/013ca9b88fa34b21b2de7fdbfcfc843b.json)  
-Rating: 4.65 (Ranked 303)  
+Rating: 4.66 (Ranked 282)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 73.00% | ~4,943 |
+| Azoria Beckons | 73.00% | ~4,944 |
 | A Thorny Situation | 70.00% | ~4,740 |
 | ... And Spit Back Out | 60.00% | ~4,063 |
-| Break-Net Speed | 48.00% | ~3,250 |
+| Break-Net Speed | 48.00% | ~3,251 |
 | Bramble Breaker | 46.00% | ~3,115 |
 | Miner 49er | 43.00% | ~2,912 |
 | Humble Collector | 42.00% | ~2,844 |
 | Calm Sailing | 36.00% | ~2,438 |
-| Open the Gate! | 33.00% | ~2,234 |
+| Open the Gate! | 33.00% | ~2,235 |
 | Mist Walker | 31.00% | ~2,099 |
-| Lumberjack | 26.00% | ~1,760 |
-| Oui, Chef! | 23.00% | ~1,557 |
+| Lumberjack | 26.00% | ~1,761 |
+| Oui, Chef! | 23.00% | ~1,558 |
 | Clear the Air | 17.00% | ~1,151 |
-| Botanical Breakthrough | 16.00% | ~1,083 |
+| Botanical Breakthrough | 16.00% | ~1,084 |
 | Search for the Hairy Grell | 13.00% | ~880 |
 | Beach Comber | 13.00% | ~880 |
 | Higher Tax Bracket | 13.00% | ~880 |
@@ -41,7 +41,7 @@ Rating: 4.65 (Ranked 303)
 | Giving the People What They Want | 0.10% | ~7 |
 | Very Skilled | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,771 (Ranked 163)  
+Progressed: 6,772 (Ranked 163)  
 Completed: 0 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 0 (0.00%) (Ranked 315)
 | 2023-10-14 | 6,647 | 0 |
 | 2023-10-15 | 6,698 | 0 |
 | 2023-10-16 | 6,732 | 0 |
-| 2023-10-17 | 6,771 | 0 |
+| 2023-10-17 | 6,772 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -116,3 +116,4 @@ Completed: 0 (0.00%) (Ranked 315)
 | 2023-10-09 | 4.63 | 0 | 0 |
 | 2023-10-12 | 4.64 | 0 | 0 |
 | 2023-10-14 | 4.65 | 0 | 0 |
+| 2023-10-17 | 4.66 | 0 | 0 |

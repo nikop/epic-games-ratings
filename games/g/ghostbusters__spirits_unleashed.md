@@ -18,6 +18,7 @@ Rating: 4.50 (Ranked 575)
 | Cultured | 1.00% | ~266 |
 | Daily Dose | 1.00% | ~266 |
 | Icing on the Cake | 1.00% | ~266 |
+| Right back at ya | 1.00% | ~266 |
 | Solo Capture | 1.00% | ~266 |
 | Swift Rift Removers | 1.00% | ~266 |
 | Teamwork | 1.00% | ~266 |
@@ -27,7 +28,6 @@ Rating: 4.50 (Ranked 575)
 | Whoopsie | 1.00% | ~266 |
 | Ectoplasmic Entity | 0.90% | ~239 |
 | Ghostbuster In Training | 0.90% | ~239 |
-| Right back at ya | 0.90% | ~239 |
 | Summoner | 0.90% | ~239 |
 | Side Hustle | 0.80% | ~212 |
 | Legions | 0.70% | ~186 |
@@ -43,7 +43,7 @@ Rating: 4.50 (Ranked 575)
 | Rivalry | 0.50% | ~133 |
 | Seasoned | 0.50% | ~133 |
 | Tobin's Prodigy | 0.50% | ~133 |
-| Fragile Panes | 0.30% | ~80 |
+| Fragile Panes | 0.40% | ~106 |
 | Liability | 0.30% | ~80 |
 | Surprise! | 0.30% | ~80 |
 | Rift Seeker | 0.20% | ~53 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 575)
 | Mycophile | 0.10% | ~27 |
 | Ultimate Defense | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,558 (Ranked 117)  
+Progressed: 26,559 (Ranked 117)  
 Completed: 58 (0.22%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,10 +237,10 @@ Completed: 58 (0.22%) (Ranked 219)
 | 2023-10-14 | 26,466 | 58 |
 | 2023-10-15 | 26,505 | 58 |
 | 2023-10-16 | 26,537 | 58 |
-| 2023-10-17 | 26,558 | 58 |
+| 2023-10-17 | 26,559 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 264  (Ranked 257)  
-Sum: 2,399 (Ranked 189)  
+Sum: 2,400 (Ranked 189)  
 Diff (max vs sum): 68  
 | Award | Count |
 | ----- | ----- |
@@ -253,7 +253,7 @@ Diff (max vs sum): 68
 | This game has Diverse Characters | 235 |
 | This game is Highly Recommended | 235 |
 | This game has Amazing Characters | 224 |
-| This game has Quickly Understood Controls | 222 |
+| This game has Quickly Understood Controls | 223 |
 | This game has Playful Visuals | 94 |
 | This game has Obsessive Gameplay | 32 |
 ## Ratings History
@@ -442,4 +442,4 @@ Diff (max vs sum): 68
 | 2023-10-14 | 4.50 | 262 | 2,389 |
 | 2023-10-15 | 4.50 | 262 | 2,392 |
 | 2023-10-16 | 4.50 | 264 | 2,398 |
-| 2023-10-17 | 4.50 | 264 | 2,399 |
+| 2023-10-17 | 4.50 | 264 | 2,400 |

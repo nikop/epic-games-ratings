@@ -236,7 +236,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 43533,
+  "EOS_Progressed": 43534,
   "EOS_Completed": 238,
   "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
@@ -16441,6 +16441,11 @@
       "Time": "2023-10-17T21:05:13.1084932+00:00",
       "NumProgressed": 43533,
       "NumCompleted": 238
+    },
+    {
+      "Time": "2023-10-17T23:05:09.6792204+00:00",
+      "NumProgressed": 43534,
+      "NumCompleted": 238
     }
   ],
   "TotalAchievements": 44,
@@ -16460,7 +16465,7 @@
       "Name": "Lady",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13495
+      "UsersEstimate": 13496
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -16572,7 +16577,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 34826
+      "UsersEstimate": 34827
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -16644,7 +16649,7 @@
       "Name": "Bird of Prey",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 16107
+      "UsersEstimate": 16108
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -16676,7 +16681,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 23943
+      "UsersEstimate": 23944
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -16724,7 +16729,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 29167
+      "UsersEstimate": 29168
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -16788,7 +16793,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 40486
+      "UsersEstimate": 40487
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -16796,14 +16801,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 22637
+      "UsersEstimate": 22638
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 43533,
+      "Progressed": 43534,
       "Completed": 238
     }
   ],
@@ -16811,8 +16816,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-08-30T04:00:16.1693203+00:00",
-  "LastChanged_Achievements": "2023-10-17T22:06:00.0243853+00:00",
+  "LastChanged_Achievements": "2023-10-17T23:05:09.67922+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:03.6344723+00:00",
-  "LastUpdate_Ratings": "2023-10-17T22:03:17.3068396+00:00",
-  "LastUpdate_Achievements": "2023-10-17T22:06:00.0245278+00:00"
+  "LastUpdate_Ratings": "2023-10-17T23:02:13.4125761+00:00",
+  "LastUpdate_Achievements": "2023-10-17T23:05:09.6793728+00:00"
 }

@@ -6,28 +6,28 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 43.00% | ~6,064 |
-| Overkill | 34.00% | ~4,795 |
-| A normal day in Gloomhaven | 34.00% | ~4,795 |
-| Vaccine Incoming | 33.00% | ~4,654 |
-| Spread the plague | 31.00% | ~4,372 |
-| Get over here! | 24.00% | ~3,384 |
-| Just when I thought I was out... | 19.00% | ~2,679 |
-| Mine... All Mine... | 17.00% | ~2,397 |
-| Precious! | 16.00% | ~2,256 |
-| Light of my life | 15.00% | ~2,115 |
-| Anatomy Lesson | 15.00% | ~2,115 |
-| Grizzled veteran | 13.00% | ~1,833 |
-| You activated my trap card! | 13.00% | ~1,833 |
-| Augmented rat | 13.00% | ~1,833 |
-| Obstacle race | 13.00% | ~1,833 |
-| Doom and gloom | 11.00% | ~1,551 |
-| Who's the Boss? | 9.00% | ~1,269 |
-| Pack leader | 8.00% | ~1,128 |
-| Pain is your friend | 8.00% | ~1,128 |
-| Black death | 8.00% | ~1,128 |
-| Play it again, Sam | 8.00% | ~1,128 |
-| Dungeon Veteran | 7.00% | ~987 |
+| I'm not dead yet | 43.00% | ~6,066 |
+| Overkill | 34.00% | ~4,797 |
+| A normal day in Gloomhaven | 34.00% | ~4,797 |
+| Vaccine Incoming | 33.00% | ~4,656 |
+| Spread the plague | 31.00% | ~4,373 |
+| Get over here! | 24.00% | ~3,386 |
+| Just when I thought I was out... | 19.00% | ~2,681 |
+| Mine... All Mine... | 17.00% | ~2,398 |
+| Precious! | 16.00% | ~2,257 |
+| Light of my life | 15.00% | ~2,116 |
+| Anatomy Lesson | 15.00% | ~2,116 |
+| Grizzled veteran | 13.00% | ~1,834 |
+| You activated my trap card! | 13.00% | ~1,834 |
+| Augmented rat | 13.00% | ~1,834 |
+| Obstacle race | 13.00% | ~1,834 |
+| Doom and gloom | 11.00% | ~1,552 |
+| Who's the Boss? | 9.00% | ~1,270 |
+| Pack leader | 8.00% | ~1,129 |
+| Pain is your friend | 8.00% | ~1,129 |
+| Black death | 8.00% | ~1,129 |
+| Play it again, Sam | 8.00% | ~1,129 |
+| Dungeon Veteran | 7.00% | ~988 |
 | Quad damage | 6.00% | ~846 |
 | Power Up! | 5.00% | ~705 |
 | Pretty lights! | 5.00% | ~705 |
@@ -47,7 +47,7 @@ Number of Ratings: 68  (23.09.2022)
 | From Gloom, only greed and death emerges | 1.00% | ~141 |
 | Add a bit of colour | 1.00% | ~141 |
 | How to train your Drake | 1.00% | ~141 |
-| New Blood | 1.00% | ~141 |
+| New Blood | 0.90% | ~127 |
 | Captain hooked | 0.80% | ~113 |
 | Betray this | 0.70% | ~99 |
 | Spoiler police! | 0.70% | ~99 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~14 |
 | Murder Death Kill | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,102 (Ranked 138)  
+Progressed: 14,108 (Ranked 138)  
 Completed: 1 (0.01%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 1 (0.01%) (Ranked 297)
 | 2023-10-14 | 13,296 | 1 |
 | 2023-10-15 | 13,656 | 1 |
 | 2023-10-16 | 13,884 | 1 |
-| 2023-10-17 | 14,102 | 1 |
+| 2023-10-17 | 14,108 | 1 |
 ## Awards
 Max (Character Customization): 3,554  (Ranked 90)  
 Sum: 8,298 (Ranked 98)  

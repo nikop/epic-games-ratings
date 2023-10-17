@@ -2368,10 +2368,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2399,
       "NumberOfAwardsMax": 264
+    },
+    {
+      "Time": "2023-10-17T22:58:56.2174071+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2400,
+      "NumberOfAwardsMax": 264
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2399,
+  "NumberOfAwards": 2400,
   "NumberOfAwardsMax": 264,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2409,7 +2415,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 222
+      "Count": 223
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2448,9 +2454,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26558,
+  "EOS_Progressed": 26559,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 232,
+  "EOS_NewPlayers": 229,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -15228,6 +15234,11 @@
       "Time": "2023-10-17T22:03:49.1371879+00:00",
       "NumProgressed": 26558,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-10-17T23:03:20.7475919+00:00",
+      "NumProgressed": 26559,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 51,
@@ -15365,9 +15376,9 @@
       "ID": "Fragile_Panes",
       "SetID": "819popo",
       "Name": "Fragile Panes",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 80
+      "UsersEstimate": 106
     },
     {
       "ID": "Fully_Upgraded",
@@ -15485,9 +15496,9 @@
       "ID": "Right_Back",
       "SetID": "819popo",
       "Name": "Right back at ya",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 239
+      "UsersEstimate": 266
     },
     {
       "ID": "Rivalry",
@@ -15646,16 +15657,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26558,
+      "Progressed": 26559,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-10-17T01:43:20.4793057+00:00",
-  "LastChanged_Achievements": "2023-10-17T22:03:49.1371874+00:00",
+  "LastChanged": "2023-10-17T22:58:56.2174069+00:00",
+  "LastChanged_Achievements": "2023-10-17T23:03:20.7475914+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:17.9420656+00:00",
-  "LastUpdate_Ratings": "2023-10-17T21:59:38.1512115+00:00",
-  "LastUpdate_Achievements": "2023-10-17T22:03:49.137403+00:00"
+  "LastUpdate_Ratings": "2023-10-17T22:58:56.2174075+00:00",
+  "LastUpdate_Achievements": "2023-10-17T23:03:20.7477165+00:00"
 }

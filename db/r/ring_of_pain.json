@@ -3133,9 +3133,9 @@
       "Count": 739
     }
   ],
-  "EOS_Progressed": 238088,
+  "EOS_Progressed": 238089,
   "EOS_Completed": 281,
-  "EOS_NewPlayers": 418,
+  "EOS_NewPlayers": 416,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -21813,6 +21813,11 @@
       "Time": "2023-10-17T22:09:11.2534128+00:00",
       "NumProgressed": 238088,
       "NumCompleted": 281
+    },
+    {
+      "Time": "2023-10-17T23:08:29.3116785+00:00",
+      "NumProgressed": 238089,
+      "NumCompleted": 281
     }
   ],
   "TotalAchievements": 122,
@@ -21856,7 +21861,7 @@
       "Name": "First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 228564
+      "UsersEstimate": 228565
     },
     {
       "ID": "CURSE1HP",
@@ -21864,7 +21869,7 @@
       "Name": "Nothing To Lose",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 95235
+      "UsersEstimate": 95236
     },
     {
       "ID": "CURSEDPOTIONS",
@@ -21936,7 +21941,7 @@
       "Name": "A Rough Road",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 30951
+      "UsersEstimate": 30952
     },
     {
       "ID": "DEPTH6",
@@ -21944,7 +21949,7 @@
       "Name": "Getting A Glimpse",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 173804
+      "UsersEstimate": 173805
     },
     {
       "ID": "DEPTH6NOPOTIONS",
@@ -22000,7 +22005,7 @@
       "Name": "That Was Quick",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 135710
+      "UsersEstimate": 135711
     },
     {
       "ID": "DIERAINBOWSOCKS",
@@ -22008,7 +22013,7 @@
       "Name": "Colorful Corpse",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 138091
+      "UsersEstimate": 138092
     },
     {
       "ID": "DIETOGRAVESTONE",
@@ -22256,7 +22261,7 @@
       "Name": "The Bestiary",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 95235
+      "UsersEstimate": 95236
     },
     {
       "ID": "KILLABOMINATIONHIGHDEF",
@@ -22320,7 +22325,7 @@
       "Name": "Heartless",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 109520
+      "UsersEstimate": 109521
     },
     {
       "ID": "KILLPARANOIA",
@@ -22328,7 +22333,7 @@
       "Name": "What\u0027s Yours Is Mine",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 92854
+      "UsersEstimate": 92855
     },
     {
       "ID": "KILLREFLECT10",
@@ -22352,7 +22357,7 @@
       "Name": "Spine Breaker",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 109520
+      "UsersEstimate": 109521
     },
     {
       "ID": "KILLSPITTER",
@@ -22408,7 +22413,7 @@
       "Name": "A Donation",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 135710
+      "UsersEstimate": 135711
     },
     {
       "ID": "MULTEXPLOSIONS",
@@ -22416,7 +22421,7 @@
       "Name": "Chain Reaction",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 30951
+      "UsersEstimate": 30952
     },
     {
       "ID": "MULTIKILL30",
@@ -22472,7 +22477,7 @@
       "Name": "A Quick Escape",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 154757
+      "UsersEstimate": 154758
     },
     {
       "ID": "PETRIFY50",
@@ -22568,7 +22573,7 @@
       "Name": "Uncharted Territory",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 211898
+      "UsersEstimate": 211899
     },
     {
       "ID": "SPECIALROOMS10",
@@ -22608,7 +22613,7 @@
       "Name": "Flesh Wound",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 71426
+      "UsersEstimate": 71427
     },
     {
       "ID": "TELEPORTKNOCKBACKEXPLOSIVE50",
@@ -22799,7 +22804,7 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 238088,
+      "Progressed": 238089,
       "Completed": 281
     }
   ],
@@ -22807,8 +22812,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-10-17T14:58:47.3455155+00:00",
-  "LastChanged_Achievements": "2023-10-17T22:09:11.2534119+00:00",
+  "LastChanged_Achievements": "2023-10-17T23:08:29.3116781+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:46.7884023+00:00",
-  "LastUpdate_Ratings": "2023-10-17T21:59:24.3134154+00:00",
-  "LastUpdate_Achievements": "2023-10-17T22:09:11.2537057+00:00"
+  "LastUpdate_Ratings": "2023-10-17T22:58:44.8802287+00:00",
+  "LastUpdate_Achievements": "2023-10-17T23:08:29.3119886+00:00"
 }

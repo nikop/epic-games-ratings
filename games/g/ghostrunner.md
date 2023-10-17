@@ -1,32 +1,32 @@
 # Ghostrunner
 [Store](https://store.epicgames.com/en-US/p/ghostrunner)  
 [View Rawdata](../../db/g/ghostrunner.json)  
-Rating: 4.72 (Ranked 180)  
+Rating: 4.72 (Ranked 179)  
 Number of Ratings: 1,047  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 76.00% | ~15,362 |
-| Sword Runner | 61.00% | ~12,330 |
-| Running out of breath | 54.00% | ~10,915 |
-| Wallrunner | 53.00% | ~10,713 |
-| Homerunner | 45.00% | ~9,096 |
-| I call it luck | 44.00% | ~8,894 |
-| Out of order | 44.00% | ~8,894 |
-| Where are my Keys? | 40.00% | ~8,085 |
-| Back to hell | 37.00% | ~7,479 |
-| Perfection | 32.00% | ~6,468 |
-| Why not both | 30.00% | ~6,064 |
-| Sword to a gunfight | 29.00% | ~5,862 |
-| Upgrades not mandatory | 29.00% | ~5,862 |
+| Longrunner | 76.00% | ~15,364 |
+| Sword Runner | 61.00% | ~12,332 |
+| Running out of breath | 54.00% | ~10,917 |
+| Wallrunner | 53.00% | ~10,714 |
+| Homerunner | 45.00% | ~9,097 |
+| I call it luck | 44.00% | ~8,895 |
+| Out of order | 44.00% | ~8,895 |
+| Where are my Keys? | 40.00% | ~8,086 |
+| Back to hell | 37.00% | ~7,480 |
+| Perfection | 32.00% | ~6,469 |
+| Why not both | 30.00% | ~6,065 |
+| Sword to a gunfight | 29.00% | ~5,863 |
+| Upgrades not mandatory | 29.00% | ~5,863 |
 | Artificial selection | 28.00% | ~5,660 |
 | Control freak | 27.00% | ~5,458 |
 | Running Wild | 27.00% | ~5,458 |
-| Finish line | 26.00% | ~5,255 |
-| Unstoppable force | 22.00% | ~4,447 |
-| Wave of mutilation | 22.00% | ~4,447 |
-| Can't Run Can't Hide | 16.00% | ~3,234 |
-| R is for Running | 16.00% | ~3,234 |
+| Finish line | 26.00% | ~5,256 |
+| Unstoppable force | 22.00% | ~4,448 |
+| Wave of mutilation | 22.00% | ~4,448 |
+| Can't Run Can't Hide | 16.00% | ~3,235 |
+| R is for Running | 16.00% | ~3,235 |
 | Dead in the air | 15.00% | ~3,032 |
 | Improvise, adapt, overrun | 13.00% | ~2,628 |
 | More than human | 12.00% | ~2,426 |
@@ -45,14 +45,14 @@ Number of Ratings: 1,047  (23.09.2022)
 | One man's trash | 2.00% | ~404 |
 | Hit me if you can | 1.00% | ~202 |
 | Obedient Machine | 0.90% | ~182 |
-| Everyone Needs A Hobby | 0.70% | ~141 |
+| Everyone Needs A Hobby | 0.70% | ~142 |
 | Legacy Drivers | 0.50% | ~101 |
 | A Grade | 0.40% | ~81 |
 | GR Project Complete | 0.40% | ~81 |
 | Sticks And Stones | 0.40% | ~81 |
 | Up Close And Personal | 0.40% | ~81 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,213 (Ranked 126)  
+Progressed: 20,216 (Ranked 126)  
 Completed: 75 (0.37%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,7 +232,7 @@ Completed: 75 (0.37%) (Ranked 195)
 | 2023-10-14 | 20,022 | 74 |
 | 2023-10-15 | 20,095 | 75 |
 | 2023-10-16 | 20,143 | 75 |
-| 2023-10-17 | 20,213 | 75 |
+| 2023-10-17 | 20,216 | 75 |
 ## Awards
 Max (Great Boss Battles): 508  (Ranked 203)  
 Sum: 727 (Ranked 282)  

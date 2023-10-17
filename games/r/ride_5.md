@@ -22,7 +22,7 @@
 | Stamina Star | 8.00% | ~121 |
 | Is It the Right Size? | 8.00% | ~121 |
 | Evangelist | 6.00% | ~91 |
-| Make It Your Own! | 4.00% | ~61 |
+| Make It Your Own! | 5.00% | ~76 |
 | The Road to Liberty | 4.00% | ~61 |
 | I Make the Rules! | 4.00% | ~61 |
 | Spoilt for Choice | 3.00% | ~46 |

@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 1518,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3024,9 +3024,9 @@
       "ID": "ML_ACHIEVEMENT_06",
       "SetID": "c7hf6a4",
       "Name": "Make It Your Own!",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 76
     },
     {
       "ID": "ML_ACHIEVEMENT_07",
@@ -3383,8 +3383,8 @@
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-17T22:08:22.5407876+00:00",
+  "LastChanged_Achievements": "2023-10-17T23:08:21.9835744+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:05.5662527+00:00",
-  "LastUpdate_Ratings": "2023-10-17T21:58:23.4022232+00:00",
-  "LastUpdate_Achievements": "2023-10-17T22:08:22.5408492+00:00"
+  "LastUpdate_Ratings": "2023-10-17T22:57:57.9934714+00:00",
+  "LastUpdate_Achievements": "2023-10-17T23:08:21.9836384+00:00"
 }

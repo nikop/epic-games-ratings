@@ -4,7 +4,7 @@
   "ProductSlug": "the-crew-motorfest",
   "Ranking_Rating": 282,
   "Ranking_Popularity": 255,
-  "Ranking_PopularitySum": 212,
+  "Ranking_PopularitySum": 211,
   "Ranking_EOS_Progress": 673,
   "Ranking_EOS_Completed": 315,
   "Ranking_EOS_NewPlayers": 390,
@@ -1254,10 +1254,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 1815,
       "NumberOfAwardsMax": 268
+    },
+    {
+      "Time": "2023-10-17T23:02:06.3741739+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 1819,
+      "NumberOfAwardsMax": 268
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1815,
+  "NumberOfAwards": 1819,
   "NumberOfAwardsMax": 268,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -1325,7 +1331,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 217
+      "Count": 221
     }
   ],
   "EOS_Progressed": 0,
@@ -1340,8 +1346,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-14T08:57:08.1529881+00:00",
   "FirstSeenRating": "2023-09-15T10:57:58.1384789+00:00",
-  "LastChanged": "2023-10-17T18:02:14.96616+00:00",
+  "LastChanged": "2023-10-17T23:02:06.3741737+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:40.8631424+00:00",
-  "LastUpdate_Ratings": "2023-10-17T22:03:09.2723008+00:00",
-  "LastUpdate_Achievements": "2023-10-17T22:05:45.27965+00:00"
+  "LastUpdate_Ratings": "2023-10-17T23:02:06.3741743+00:00",
+  "LastUpdate_Achievements": "2023-10-17T23:04:56.909736+00:00"
 }

@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 303)  
+Rating: 4.65 (Ranked 304)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,21 +9,22 @@ Number of Ratings: 1,307  (23.09.2022)
 | Explorer | 3.00% | ~443 |
 | Settler | 3.00% | ~443 |
 | Play a Single Player Game | 3.00% | ~443 |
-| Able | 2.00% | ~295 |
-| Architect | 2.00% | ~295 |
-| Good | 2.00% | ~295 |
-| Intrepid | 2.00% | ~295 |
-| Learned | 2.00% | ~295 |
-| Mason | 2.00% | ~295 |
-| Noble | 2.00% | ~295 |
-| Pioneer | 2.00% | ~295 |
-| Strong | 2.00% | ~295 |
-| Friendly Family | 2.00% | ~295 |
-| Hanging Gardens | 2.00% | ~295 |
-| Oracle | 2.00% | ~295 |
-| Naming Landmarks | 2.00% | ~295 |
-| Trade Caravan | 2.00% | ~295 |
-| Kushite Paganism | 2.00% | ~295 |
+| Able | 2.00% | ~296 |
+| Architect | 2.00% | ~296 |
+| Good | 2.00% | ~296 |
+| Intrepid | 2.00% | ~296 |
+| Learned | 2.00% | ~296 |
+| Mason | 2.00% | ~296 |
+| Noble | 2.00% | ~296 |
+| Pioneer | 2.00% | ~296 |
+| Strong | 2.00% | ~296 |
+| Friendly Family | 2.00% | ~296 |
+| Hanging Gardens | 2.00% | ~296 |
+| Oracle | 2.00% | ~296 |
+| Judaism | 2.00% | ~296 |
+| Naming Landmarks | 2.00% | ~296 |
+| Trade Caravan | 2.00% | ~296 |
+| Kushite Paganism | 2.00% | ~296 |
 | Ambitious | 1.00% | ~148 |
 | Drillmaster | 1.00% | ~148 |
 | Brilliant | 1.00% | ~148 |
@@ -48,7 +49,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pyramids | 1.00% | ~148 |
 | Learn to Play 1 | 1.00% | ~148 |
 | Christianity | 1.00% | ~148 |
-| Judaism | 1.00% | ~148 |
 | Manichaeism | 1.00% | ~148 |
 | Babylonian Paganism | 1.00% | ~148 |
 | Carthaginian Paganism | 1.00% | ~148 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,773 (Ranked 135)  
+Progressed: 14,775 (Ranked 135)  
 Completed: 5 (0.03%) (Ranked 284)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -529,7 +529,7 @@ Completed: 5 (0.03%) (Ranked 284)
 | 2023-10-14 | 14,699 | 5 |
 | 2023-10-15 | 14,732 | 5 |
 | 2023-10-16 | 14,747 | 5 |
-| 2023-10-17 | 14,773 | 5 |
+| 2023-10-17 | 14,775 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,842 (Ranked 210)  

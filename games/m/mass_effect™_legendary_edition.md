@@ -90,8 +90,8 @@
 | Party Crasher | 21.00% | ~154 |
 | Pyromaniac | 20.00% | ~146 |
 | No One Left Behind | 20.00% | ~146 |
+| Hard Target | 20.00% | ~146 |
 | Problem Solver | 20.00% | ~146 |
-| Hard Target | 19.00% | ~139 |
 | Saboteur | 19.00% | ~139 |
 | Last Witness | 19.00% | ~139 |
 | Fact Finder | 19.00% | ~139 |
@@ -102,8 +102,8 @@
 | Well Connected | 18.00% | ~132 |
 | Throw Mastery | 16.00% | ~117 |
 | Executioner | 16.00% | ~117 |
+| Patriot | 16.00% | ~117 |
 | Master and Commander | 16.00% | ~117 |
-| Patriot | 15.00% | ~110 |
 | Legend | 15.00% | ~110 |
 | Mail Slot | 14.00% | ~102 |
 | Combined Arms | 13.00% | ~95 |

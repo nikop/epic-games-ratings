@@ -8,8 +8,8 @@
 | Relight my Cannon | 38.00% | ~31 |
 | Tour Guide Extraordinaire | 37.00% | ~30 |
 | Snitch | 26.00% | ~21 |
+| Explosive End | 23.00% | ~19 |
 | Puzzle Prodigy | 23.00% | ~19 |
-| Explosive End | 22.00% | ~18 |
 | A Box of Tricks | 21.00% | ~17 |
 | Finger-Lickin' Bad | 18.00% | ~15 |
 | Bathroom Brawler | 17.00% | ~14 |

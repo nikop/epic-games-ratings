@@ -2,7 +2,7 @@
   "ID": "abd29ccc8c2a4a40a31f27de63cb0603",
   "Name": "Night in the Woods",
   "ProductSlug": "night-in-the-woods",
-  "Ranking_Rating": 165,
+  "Ranking_Rating": 179,
   "Ranking_Popularity": 311,
   "Ranking_PopularitySum": 412,
   "Ranking_EOS_Progress": 673,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.73,
+  "Rating": 4.72,
   "NumberOfRatings": 615,
   "RatingHistory": [
     {
@@ -544,6 +544,12 @@
       "Rating": 4.73,
       "NumberOfAwards": 145,
       "NumberOfAwardsMax": 145
+    },
+    {
+      "Time": "2023-10-17T22:58:49.6124365+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 145,
+      "NumberOfAwardsMax": 145
     }
   ],
   "ReviewsDisabled": false,
@@ -569,8 +575,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:30:36.3686737+00:00",
-  "LastChanged": "2023-10-01T22:01:40.560709+00:00",
+  "LastChanged": "2023-10-17T22:58:49.612436+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:50.7104682+00:00",
-  "LastUpdate_Ratings": "2023-10-17T21:59:29.648779+00:00",
-  "LastUpdate_Achievements": "2023-10-17T22:04:46.1374148+00:00"
+  "LastUpdate_Ratings": "2023-10-17T22:58:49.6124369+00:00",
+  "LastUpdate_Achievements": "2023-10-17T23:04:08.0694231+00:00"
 }

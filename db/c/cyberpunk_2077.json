@@ -13739,9 +13739,9 @@
       "Count": 10614
     }
   ],
-  "EOS_Progressed": 892441,
+  "EOS_Progressed": 892443,
   "EOS_Completed": 2678,
-  "EOS_NewPlayers": 1660,
+  "EOS_NewPlayers": 1657,
   "EOS_NewCompleters": 39,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -34139,6 +34139,11 @@
       "Time": "2023-10-17T22:03:54.968379+00:00",
       "NumProgressed": 892441,
       "NumCompleted": 2678
+    },
+    {
+      "Time": "2023-10-17T23:03:25.5995894+00:00",
+      "NumProgressed": 892443,
+      "NumCompleted": 2678
     }
   ],
   "TotalAchievements": 57,
@@ -34150,7 +34155,7 @@
       "Name": "City Lights",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 53546
+      "UsersEstimate": 53547
     },
     {
       "ID": "BornToBeWild",
@@ -34182,7 +34187,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 401598
+      "UsersEstimate": 401599
     },
     {
       "ID": "FollowingTheRiver",
@@ -34222,7 +34227,7 @@
       "Name": "Gun Fu",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 160639
+      "UsersEstimate": 160640
     },
     {
       "ID": "Gunslinger",
@@ -34238,7 +34243,7 @@
       "Name": "Master Crafter",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 178488
+      "UsersEstimate": 178489
     },
     {
       "ID": "IAmMaxTac",
@@ -34278,7 +34283,7 @@
       "Name": "The Quick and the Dead",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 116017
+      "UsersEstimate": 116018
     },
     {
       "ID": "MustBeTheRats",
@@ -34318,7 +34323,7 @@
       "Name": "Life of the Road",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 205261
+      "UsersEstimate": 205262
     },
     {
       "ID": "Roleplayer",
@@ -34326,7 +34331,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 303430
+      "UsersEstimate": 303431
     },
     {
       "ID": "Specialist",
@@ -34350,7 +34355,7 @@
       "Name": "Rough Landing",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 116017
+      "UsersEstimate": 116018
     },
     {
       "ID": "TheDevil",
@@ -34366,7 +34371,7 @@
       "Name": "The Fool",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 633633
+      "UsersEstimate": 633635
     },
     {
       "ID": "TheHermit",
@@ -34374,7 +34379,7 @@
       "Name": "The Hermit",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 267732
+      "UsersEstimate": 267733
     },
     {
       "ID": "TheHightPriestess",
@@ -34382,7 +34387,7 @@
       "Name": "The High Priestess",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 267732
+      "UsersEstimate": 267733
     },
     {
       "ID": "TheLovers",
@@ -34390,7 +34395,7 @@
       "Name": "The Lovers",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 348052
+      "UsersEstimate": 348053
     },
     {
       "ID": "TheStar",
@@ -34454,7 +34459,7 @@
       "Name": "True Warrior",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 178488
+      "UsersEstimate": 178489
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -34605,21 +34610,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 892441,
+      "Progressed": 892443,
       "Completed": 2678
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 21064,
+      "Progressed": 21066,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-17T20:57:05.9457763+00:00",
-  "LastChanged_Achievements": "2023-10-17T22:03:54.9683781+00:00",
+  "LastChanged_Achievements": "2023-10-17T23:03:25.5995889+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:37.5483976+00:00",
-  "LastUpdate_Ratings": "2023-10-17T21:57:17.752881+00:00",
-  "LastUpdate_Achievements": "2023-10-17T22:03:54.96856+00:00"
+  "LastUpdate_Ratings": "2023-10-17T22:57:03.0619528+00:00",
+  "LastUpdate_Achievements": "2023-10-17T23:03:25.5997796+00:00"
 }

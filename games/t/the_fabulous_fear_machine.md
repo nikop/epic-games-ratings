@@ -19,9 +19,9 @@
 | Kirlian's best disciple | 43.00% | ~13 |
 | The seer | 37.00% | ~11 |
 | Diagnosis: fear | 37.00% | ~11 |
+| Ambition is... blind | 37.00% | ~11 |
+| You have two wishes left | 37.00% | ~11 |
 | The artist | 33.00% | ~10 |
-| Ambition is... blind | 33.00% | ~10 |
-| You have two wishes left | 33.00% | ~10 |
 | Et in arcadia ego | 27.00% | ~8 |
 | Welcome to Hellville | 27.00% | ~8 |
 | You had one wish left | 23.00% | ~7 |

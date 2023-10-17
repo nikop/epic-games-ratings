@@ -2711,9 +2711,9 @@
       "ID": "achievement_86",
       "SetID": "d252ncf",
       "Name": "Hard Target",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 146
     },
     {
       "ID": "achievement_87",
@@ -2791,9 +2791,9 @@
       "ID": "achievement_95",
       "SetID": "d252ncf",
       "Name": "Patriot",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 110
+      "UsersEstimate": 117
     },
     {
       "ID": "achievement_96",
@@ -2843,8 +2843,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-17T22:05:37.2054334+00:00",
+  "LastChanged_Achievements": "2023-10-17T23:04:50.3467341+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:30.4071338+00:00",
-  "LastUpdate_Ratings": "2023-10-17T22:01:02.386655+00:00",
-  "LastUpdate_Achievements": "2023-10-17T22:05:37.2056627+00:00"
+  "LastUpdate_Ratings": "2023-10-17T23:00:06.2439565+00:00",
+  "LastUpdate_Achievements": "2023-10-17T23:04:50.3469724+00:00"
 }
