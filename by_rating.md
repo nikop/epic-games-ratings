@@ -52,7 +52,7 @@
 | 49 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 218 | 272 |
 | 49 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.84 | 421 | 218 |
 | 49 | [Grindstone](games/g/grindstone.md) | 4.84 | 0 | 537 |
-| 49 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 430 | 214 |
+| 49 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 432 | 214 |
 | 49 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 269 | 253 |
 | 49 | [The Last Campfire](games/t/the_last_campfire.md) | 4.84 | 0 | 537 |
 | 56 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.83 | 0 | 537 |
@@ -128,7 +128,7 @@
 | 118 | [Journey](games/j/journey.md) | 4.76 | 0 | 537 |
 | 118 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 537 |
 | 118 | [Legend Bowl](games/l/legend_bowl.md) | 4.76 | 0 | 537 |
-| 118 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,723 | 119 |
+| 118 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,726 | 119 |
 | 118 | [Quake](games/q/quake.md) | 4.76 | 49 | 418 |
 | 118 | [Remnant 2](games/r/remnant_2.md) | 4.76 | 1,843 | 114 |
 | 118 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 11,330 | 37 |
@@ -591,7 +591,7 @@
 | 574 | [Solitairica](games/s/solitairica.md) | 4.50 | 84 | 369 |
 | 574 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.50 | 0 | 537 |
 | 591 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 64 | 398 |
-| 591 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 2,004 | 110 |
+| 591 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 2,006 | 110 |
 | 591 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 38,375 | 14 |
 | 591 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.49 | 0 | 537 |
 | 591 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 0 | 537 |
