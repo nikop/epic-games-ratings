@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 492,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-10-19T16:00:00+00:00",
@@ -121,9 +121,9 @@
       "ID": "ML_ACHIEVEMENT_03",
       "SetID": "5k00jcd",
       "Name": "Out of control",
-      "Percentage": 17,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -161,9 +161,9 @@
       "ID": "ML_ACHIEVEMENT_08",
       "SetID": "5k00jcd",
       "Name": "Versatile riding",
-      "Percentage": 11,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -201,9 +201,9 @@
       "ID": "ML_ACHIEVEMENT_13",
       "SetID": "5k00jcd",
       "Name": "Look, Mom! No track!",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ML_ACHIEVEMENT_14",
@@ -249,9 +249,9 @@
       "ID": "ML_ACHIEVEMENT_19",
       "SetID": "5k00jcd",
       "Name": "Well begun\u2026",
-      "Percentage": 17,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -265,25 +265,25 @@
       "ID": "ML_ACHIEVEMENT_21",
       "SetID": "5k00jcd",
       "Name": "I\u0027m in charge here!",
-      "Percentage": 6,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ML_ACHIEVEMENT_22",
       "SetID": "5k00jcd",
       "Name": "The Octopus",
-      "Percentage": 6,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ML_ACHIEVEMENT_23",
       "SetID": "5k00jcd",
       "Name": "The Scorpion",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -455,8 +455,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-10-17T09:06:14.6509496+00:00",
+  "LastChanged_Achievements": "2023-10-17T10:05:48.3991305+00:00",
   "LastUpdate_AppInfo": "2023-10-11T23:57:08.5579782+00:00",
-  "LastUpdate_Ratings": "2023-10-17T09:02:12.059125+00:00",
-  "LastUpdate_Achievements": "2023-10-17T09:06:14.6509878+00:00"
+  "LastUpdate_Ratings": "2023-10-17T10:01:05.7934898+00:00",
+  "LastUpdate_Achievements": "2023-10-17T10:05:48.3991672+00:00"
 }

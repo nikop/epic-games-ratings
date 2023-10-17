@@ -6,21 +6,21 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~69,817 |
-| Powergamer | 27.00% | ~67,323 |
-| Barely scratched the surface | 25.00% | ~62,336 |
-| Write that down | 24.00% | ~59,843 |
-| Guns, lots of guns | 13.00% | ~32,415 |
-| Collector | 12.00% | ~29,921 |
-| Elementary! | 9.00% | ~22,441 |
+| I will finish what you started | 28.00% | ~69,818 |
+| Powergamer | 27.00% | ~67,324 |
+| Barely scratched the surface | 25.00% | ~62,338 |
+| Write that down | 24.00% | ~59,844 |
+| Guns, lots of guns | 13.00% | ~32,416 |
+| Collector | 12.00% | ~29,922 |
+| Elementary! | 9.00% | ~22,442 |
 | Griever | 8.00% | ~19,948 |
 | Pumpkin Jack | 8.00% | ~19,948 |
 | Wake up! | 8.00% | ~19,948 |
 | It's honest work | 7.00% | ~17,454 |
 | Me smart | 6.00% | ~14,961 |
 | Trash compactor | 6.00% | ~14,961 |
-| Good listener | 5.00% | ~12,467 |
-| Valedictorian | 5.00% | ~12,467 |
+| Good listener | 5.00% | ~12,468 |
+| Valedictorian | 5.00% | ~12,468 |
 | BOY! | 4.00% | ~9,974 |
 | Ka-ching! | 4.00% | ~9,974 |
 | So you like to read? | 4.00% | ~9,974 |
@@ -35,14 +35,14 @@ Number of Ratings: 33  (23.09.2022)
 | Rinse and repeat | 2.00% | ~4,987 |
 | Mama, I'm a criminal | 2.00% | ~4,987 |
 | Never gonna give you up | 2.00% | ~4,987 |
-| A muscle to rely on | 1.00% | ~2,493 |
-| A true blacksmith | 1.00% | ~2,493 |
-| I am in great pain, please help me | 1.00% | ~2,493 |
-| High noon | 1.00% | ~2,493 |
-| Random encounter | 1.00% | ~2,493 |
-| SysOp on duty | 1.00% | ~2,493 |
-| Take the blue pill | 1.00% | ~2,493 |
-| The power of three | 1.00% | ~2,493 |
+| A muscle to rely on | 1.00% | ~2,494 |
+| A true blacksmith | 1.00% | ~2,494 |
+| I am in great pain, please help me | 1.00% | ~2,494 |
+| High noon | 1.00% | ~2,494 |
+| Random encounter | 1.00% | ~2,494 |
+| SysOp on duty | 1.00% | ~2,494 |
+| Take the blue pill | 1.00% | ~2,494 |
+| The power of three | 1.00% | ~2,494 |
 | It's blue, always blue | 0.80% | ~1,995 |
 | Let's try another | 0.80% | ~1,995 |
 | Home run | 0.80% | ~1,995 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~499 |
 | Memory 5 | 0.10% | ~249 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,345 (Ranked 53)  
+Progressed: 249,350 (Ranked 53)  
 Completed: 7 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 7 (0.00%) (Ranked 315)
 | 2023-10-14 | 249,112 | 7 |
 | 2023-10-15 | 249,235 | 7 |
 | 2023-10-16 | 249,321 | 7 |
-| 2023-10-17 | 249,345 | 7 |
+| 2023-10-17 | 249,350 | 7 |
 ## Awards
 Max (Character Customization): 84  (Ranked 369)  
 Sum: 84 (Ranked 442)  

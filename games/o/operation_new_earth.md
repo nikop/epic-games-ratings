@@ -8,7 +8,7 @@ Rating: 3.38 (Ranked 1,016)
 | It's Good to have Allies | 29.00% | ~469 |
 | Defenses Online | 26.00% | ~421 |
 | Facility Online | 21.00% | ~340 |
-| Corporal | 15.00% | ~243 |
+| Corporal | 16.00% | ~259 |
 | Covert Operative | 13.00% | ~210 |
 | Sergeant | 12.00% | ~194 |
 | Keeping Busy | 10.00% | ~162 |
@@ -24,9 +24,9 @@ Rating: 3.38 (Ranked 1,016)
 | Exterminator | 7.00% | ~113 |
 | Brothers in Arms | 6.00% | ~97 |
 | Know The Enemy | 5.00% | ~81 |
+| Player Betrayer | 5.00% | ~81 |
 | Silver Achiever | 5.00% | ~81 |
 | Moving On Up | 5.00% | ~81 |
-| Player Betrayer | 4.00% | ~65 |
 | Major | 4.00% | ~65 |
 | Gold Achiever | 3.00% | ~49 |
 | Resourceful | 3.00% | ~49 |

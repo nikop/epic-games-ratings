@@ -11,10 +11,10 @@ Number of Ratings: 1,316  (23.09.2022)
 | Exploitative | 4.00% | ~18,529 |
 | High Speed Low Drag | 4.00% | ~18,529 |
 | Wet Feet | 4.00% | ~18,529 |
-| Checkpoint Victory | 3.00% | ~13,896 |
-| Lucky | 3.00% | ~13,896 |
-| Stylin' | 3.00% | ~13,896 |
-| Turf War | 3.00% | ~13,896 |
+| Checkpoint Victory | 3.00% | ~13,897 |
+| Lucky | 3.00% | ~13,897 |
+| Stylin' | 3.00% | ~13,897 |
+| Turf War | 3.00% | ~13,897 |
 | Banged | 2.00% | ~9,264 |
 | First Blood | 2.00% | ~9,264 |
 | Flaccid Paralysis | 2.00% | ~9,264 |
@@ -29,8 +29,8 @@ Number of Ratings: 1,316  (23.09.2022)
 | Personal | 0.90% | ~4,169 |
 | Grounded | 0.80% | ~3,706 |
 | Play to Win | 0.80% | ~3,706 |
-| #1 | 0.70% | ~3,242 |
-| Special Delivery | 0.70% | ~3,242 |
+| #1 | 0.70% | ~3,243 |
+| Special Delivery | 0.70% | ~3,243 |
 | Firefight Victory | 0.60% | ~2,779 |
 | Cinematic | 0.50% | ~2,316 |
 | Thanks Station! | 0.40% | ~1,853 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~463 |
 | Road Hazard | 0.10% | ~463 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 463,214 (Ranked 38)  
+Progressed: 463,219 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,7 +222,7 @@ Completed: 2 (0.00%) (Ranked 315)
 | 2023-10-14 | 462,338 | 2 |
 | 2023-10-15 | 462,754 | 2 |
 | 2023-10-16 | 463,100 | 2 |
-| 2023-10-17 | 463,214 | 2 |
+| 2023-10-17 | 463,219 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 389  (Ranked 224)  
 Sum: 3,075 (Ranked 171)  

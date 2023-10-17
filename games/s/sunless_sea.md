@@ -6,23 +6,23 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~14,032 |
-| Sweet Sorrow | 18.00% | ~7,016 |
-| Rules the Waves | 17.00% | ~6,626 |
+| Sink Beneath the Waves | 36.00% | ~14,033 |
+| Sweet Sorrow | 18.00% | ~7,017 |
+| Rules the Waves | 17.00% | ~6,627 |
 | Thou, All-Shaking Thunder | 15.00% | ~5,847 |
 | Rival | 14.00% | ~5,457 |
-| Correspondent | 12.00% | ~4,677 |
-| Lose Your Mind | 12.00% | ~4,677 |
-| Sound Mind? | 12.00% | ~4,677 |
-| Salt's Curse | 11.00% | ~4,287 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~4,287 |
-| The Fall of the House | 11.00% | ~4,287 |
-| Shipmate | 11.00% | ~4,287 |
+| Correspondent | 12.00% | ~4,678 |
+| Lose Your Mind | 12.00% | ~4,678 |
+| Sound Mind? | 12.00% | ~4,678 |
+| Salt's Curse | 11.00% | ~4,288 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~4,288 |
+| The Fall of the House | 11.00% | ~4,288 |
+| Shipmate | 11.00% | ~4,288 |
 | One Year at Zee | 8.00% | ~3,118 |
-| Pupil | 7.00% | ~2,728 |
-| Salvager | 7.00% | ~2,728 |
-| Open Your Ears | 7.00% | ~2,728 |
-| The Ascent of Man | 7.00% | ~2,728 |
+| Pupil | 7.00% | ~2,729 |
+| Salvager | 7.00% | ~2,729 |
+| Open Your Ears | 7.00% | ~2,729 |
+| The Ascent of Man | 7.00% | ~2,729 |
 | Zee Fever | 5.00% | ~1,949 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,559 |
 | Sink Beneath the Waves. Again. | 4.00% | ~1,559 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~39 |
 | Ten Years at Zee | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,977 (Ranked 112)  
+Progressed: 38,981 (Ranked 112)  
 Completed: 4 (0.01%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 4 (0.01%) (Ranked 297)
 | 2023-10-14 | 38,839 | 4 |
 | 2023-10-15 | 38,916 | 4 |
 | 2023-10-16 | 38,959 | 4 |
-| 2023-10-17 | 38,977 | 4 |
+| 2023-10-17 | 38,981 | 4 |
 ## Awards
 Max (Character Customization): 215  (Ranked 275)  
 Sum: 288 (Ranked 356)  

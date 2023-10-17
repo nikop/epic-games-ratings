@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -235,7 +235,7 @@
       "Count": 127
     }
   ],
-  "EOS_Progressed": 38611,
+  "EOS_Progressed": 38612,
   "EOS_Completed": 26,
   "EOS_NewPlayers": 434,
   "EOS_NewCompleters": 1,
@@ -19960,6 +19960,11 @@
       "Time": "2023-10-17T08:04:22.2184306+00:00",
       "NumProgressed": 38611,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-10-17T10:04:11.5077813+00:00",
+      "NumProgressed": 38612,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -19979,7 +19984,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 8108
+      "UsersEstimate": 8109
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -20003,7 +20008,7 @@
       "Name": "Sure Footed As A Goat",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "ACH_07_BLOODTOWER_NO_HOUND_DAMAGE",
@@ -20019,7 +20024,7 @@
       "Name": "Backdoor Man",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "ACH_09_HIGHLANDS_NO_FLAME_KILLS",
@@ -20202,7 +20207,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 38611,
+      "Progressed": 38612,
       "Completed": 26
     }
   ],
@@ -20210,8 +20215,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-10-07T11:01:04.3409147+00:00",
-  "LastChanged_Achievements": "2023-10-17T09:04:16.9404238+00:00",
+  "LastChanged_Achievements": "2023-10-17T10:04:11.5077798+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:52.991476+00:00",
-  "LastUpdate_Ratings": "2023-10-17T08:59:46.4539617+00:00",
-  "LastUpdate_Achievements": "2023-10-17T09:04:16.9405687+00:00"
+  "LastUpdate_Ratings": "2023-10-17T09:59:17.1974387+00:00",
+  "LastUpdate_Achievements": "2023-10-17T10:04:11.5079235+00:00"
 }

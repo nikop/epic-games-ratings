@@ -32,14 +32,14 @@ Number of Ratings: 12,664  (23.09.2022)
 | Through Repetition, Perfection | 1.00% | ~1,377 |
 | Did we pack lunch? | 1.00% | ~1,377 |
 | Arcane Industries | 1.00% | ~1,377 |
-| On the Path to Greatness | 0.90% | ~1,239 |
-| Ascended | 0.90% | ~1,239 |
-| Research & Development | 0.90% | ~1,239 |
-| Vanity, Verily | 0.90% | ~1,239 |
-| Efficient Floor Space | 0.90% | ~1,239 |
-| Gem Expert | 0.90% | ~1,239 |
-| Helping Hand | 0.90% | ~1,239 |
-| Natural 20 | 0.90% | ~1,239 |
+| On the Path to Greatness | 0.90% | ~1,240 |
+| Ascended | 0.90% | ~1,240 |
+| Research & Development | 0.90% | ~1,240 |
+| Vanity, Verily | 0.90% | ~1,240 |
+| Efficient Floor Space | 0.90% | ~1,240 |
+| Gem Expert | 0.90% | ~1,240 |
+| Helping Hand | 0.90% | ~1,240 |
+| Natural 20 | 0.90% | ~1,240 |
 | Fated Encounters | 0.80% | ~1,102 |
 | Power of Love | 0.80% | ~1,102 |
 | Flawless Fusion | 0.80% | ~1,102 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,721 (Ranked 73)  
+Progressed: 137,723 (Ranked 73)  
 Completed: 169 (0.12%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 169 (0.12%) (Ranked 242)
 | 2023-10-14 | 137,618 | 168 |
 | 2023-10-15 | 137,669 | 168 |
 | 2023-10-16 | 137,703 | 168 |
-| 2023-10-17 | 137,721 | 169 |
+| 2023-10-17 | 137,723 | 169 |
 ## Awards
 Max (Great for Beginners): 4,790  (Ranked 72)  
 Sum: 27,392 (Ranked 50)  

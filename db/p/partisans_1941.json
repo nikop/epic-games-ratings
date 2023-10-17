@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1493,
+  "EOS_Progressed": 1494,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3070,6 +3070,11 @@
       "Time": "2023-10-15T18:07:06.2227935+00:00",
       "NumProgressed": 1493,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-17T10:08:07.9244531+00:00",
+      "NumProgressed": 1494,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -3153,7 +3158,7 @@
       "Name": "Lock, Stock",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "E1M1",
@@ -3193,7 +3198,7 @@
       "Name": "Grenadier",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "Hard_Serpent",
@@ -3209,7 +3214,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "High_noon",
@@ -3297,7 +3302,7 @@
       "Name": "War Never Changes",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "We_were_not_here",
@@ -3320,15 +3325,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1493,
+      "Progressed": 1494,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-10-17T09:08:52.8453898+00:00",
+  "LastChanged_Achievements": "2023-10-17T10:08:07.9244525+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:40.4893349+00:00",
-  "LastUpdate_Ratings": "2023-10-17T08:59:21.5031282+00:00",
-  "LastUpdate_Achievements": "2023-10-17T09:08:52.8454365+00:00"
+  "LastUpdate_Ratings": "2023-10-17T09:58:57.6833769+00:00",
+  "LastUpdate_Achievements": "2023-10-17T10:08:07.9244915+00:00"
 }

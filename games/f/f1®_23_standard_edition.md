@@ -5,18 +5,18 @@ Rating: 4.67 (Ranked 262)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 95.00% | ~3,135 |
-| On the Top Step | 90.00% | ~2,970 |
-| Setting up for Success | 79.00% | ~2,607 |
-| Team Orders | 76.00% | ~2,508 |
-| Engineer | 57.00% | ~1,881 |
-| Familiar Faces | 51.00% | ~1,683 |
+| Getting on the Step | 95.00% | ~3,136 |
+| On the Top Step | 89.00% | ~2,938 |
+| Setting up for Success | 79.00% | ~2,608 |
+| Team Orders | 76.00% | ~2,509 |
+| Engineer | 57.00% | ~1,882 |
+| Familiar Faces | 51.00% | ~1,684 |
 | Going the Extra Mile | 45.00% | ~1,485 |
 | Sharing the Love | 43.00% | ~1,419 |
 | Hitting a Season | 41.00% | ~1,353 |
 | Challenge Yourself | 36.00% | ~1,188 |
 | A Dozen Pieces | 34.00% | ~1,122 |
-| Making History | 33.00% | ~1,089 |
+| Making History | 34.00% | ~1,122 |
 | Network Success | 27.00% | ~891 |
 | Writing a new Chapter | 27.00% | ~891 |
 | Spring Cleaning | 25.00% | ~825 |
@@ -50,12 +50,12 @@ Rating: 4.67 (Ranked 262)
 | Media Darling | 2.00% | ~66 |
 | Under the Microscope | 1.00% | ~33 |
 | Saturday Night Drama | 1.00% | ~33 |
-| Ultimate Collector | 0.50% | ~16 |
+| Ultimate Collector | 0.50% | ~17 |
 | Golden Touch | 0.40% | ~13 |
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,300 (Ranked 188)  
+Progressed: 3,301 (Ranked 188)  
 Completed: 0 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 0 (0.00%) (Ranked 315)
 | 2023-10-14 | 3,247 | 0 |
 | 2023-10-15 | 3,279 | 0 |
 | 2023-10-16 | 3,296 | 0 |
-| 2023-10-17 | 3,300 | 0 |
+| 2023-10-17 | 3,301 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

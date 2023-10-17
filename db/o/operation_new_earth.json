@@ -6029,9 +6029,9 @@
       "ID": "ach_defeat_players_100",
       "SetID": "bm61c2p",
       "Name": "Player Betrayer",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 65
+      "UsersEstimate": 81
     },
     {
       "ID": "ach_gold_rewards_100",
@@ -6117,9 +6117,9 @@
       "ID": "objective_hero_level_up_1",
       "SetID": "bm61c2p",
       "Name": "Corporal",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 243
+      "UsersEstimate": 259
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -6318,8 +6318,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-10-17T09:07:00.8132874+00:00",
+  "LastChanged_Achievements": "2023-10-17T10:06:26.1375948+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:23.525424+00:00",
-  "LastUpdate_Ratings": "2023-10-17T09:01:09.786886+00:00",
-  "LastUpdate_Achievements": "2023-10-17T09:07:00.8133647+00:00"
+  "LastUpdate_Ratings": "2023-10-17T10:00:17.7852829+00:00",
+  "LastUpdate_Achievements": "2023-10-17T10:06:26.1376608+00:00"
 }

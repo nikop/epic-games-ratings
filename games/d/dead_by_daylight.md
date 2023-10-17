@@ -6,14 +6,14 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Handyman | 2.00% | ~18,897 |
-| Zealous | 2.00% | ~18,897 |
-| It wakes | 2.00% | ~18,897 |
-| Not half bad | 2.00% | ~18,897 |
-| Apt Survivor | 2.00% | ~18,897 |
-| Survival Treasures | 2.00% | ~18,897 |
-| Skillful | 2.00% | ~18,897 |
-| Make Some Noise | 2.00% | ~18,897 |
+| Handyman | 2.00% | ~18,898 |
+| Zealous | 2.00% | ~18,898 |
+| It wakes | 2.00% | ~18,898 |
+| Not half bad | 2.00% | ~18,898 |
+| Apt Survivor | 2.00% | ~18,898 |
+| Survival Treasures | 2.00% | ~18,898 |
+| Skillful | 2.00% | ~18,898 |
+| Make Some Noise | 2.00% | ~18,898 |
 | The Grand Sacrifice | 1.00% | ~9,449 |
 | Agonizing Escape | 1.00% | ~9,449 |
 | Backdoor Escape | 1.00% | ~9,449 |
@@ -52,41 +52,41 @@ Number of Ratings: 70,340  (23.09.2022)
 | Raccoon City Recruit | 0.60% | ~5,669 |
 | Flight to Freedom | 0.60% | ~5,669 |
 | A Fast Death | 0.60% | ~5,669 |
-| Gifts for the Fog | 0.50% | ~4,724 |
-| III-50 | 0.50% | ~4,724 |
-| Shock Therapy | 0.50% | ~4,724 |
-| All Aboard | 0.50% | ~4,724 |
-| Item of Obsession | 0.50% | ~4,724 |
-| House of Pain | 0.50% | ~4,724 |
-| Cottage Owner | 0.50% | ~4,724 |
-| Holiday Get-Together | 0.50% | ~4,724 |
-| Campbell's Chapel Legacy | 0.50% | ~4,724 |
-| Cutting Out | 0.50% | ~4,724 |
-| Outrun Evil | 0.50% | ~4,724 |
-| Operation: Survival | 0.50% | ~4,724 |
-| Old West Oasis | 0.50% | ~4,724 |
-| Classy Act | 0.50% | ~4,724 |
-| Lifting The Fog | 0.50% | ~4,724 |
-| Chorus of Chaos | 0.50% | ~4,724 |
-| One More Step | 0.50% | ~4,724 |
-| MU/TH/UR Dearest | 0.50% | ~4,724 |
-| A bite for the Entity | 0.40% | ~3,779 |
-| Blood on your face | 0.40% | ~3,779 |
-| Hemophobia | 0.40% | ~3,779 |
-| Leapfrog | 0.40% | ~3,779 |
-| Serial Killer | 0.40% | ~3,779 |
-| Escaping the Nightmare | 0.40% | ~3,779 |
-| Game Over | 0.40% | ~3,779 |
-| Ancestor's Rite | 0.40% | ~3,779 |
-| Devoted Gatekeeping | 0.40% | ~3,779 |
-| Shrine Apparatus | 0.40% | ~3,779 |
-| Grim Pilgrimage | 0.40% | ~3,779 |
-| Selfless Survival | 0.40% | ~3,779 |
-| End of Days | 0.40% | ~3,779 |
-| Insult and Injury | 0.40% | ~3,779 |
-| Outrun the Overlap | 0.40% | ~3,779 |
-| Extraterrestrial | 0.40% | ~3,779 |
-| Jump Scares | 0.30% | ~2,835 |
+| Chorus of Chaos | 0.60% | ~5,669 |
+| Gifts for the Fog | 0.50% | ~4,725 |
+| III-50 | 0.50% | ~4,725 |
+| Shock Therapy | 0.50% | ~4,725 |
+| All Aboard | 0.50% | ~4,725 |
+| Item of Obsession | 0.50% | ~4,725 |
+| House of Pain | 0.50% | ~4,725 |
+| Cottage Owner | 0.50% | ~4,725 |
+| Holiday Get-Together | 0.50% | ~4,725 |
+| Campbell's Chapel Legacy | 0.50% | ~4,725 |
+| Cutting Out | 0.50% | ~4,725 |
+| Outrun Evil | 0.50% | ~4,725 |
+| Operation: Survival | 0.50% | ~4,725 |
+| Old West Oasis | 0.50% | ~4,725 |
+| Classy Act | 0.50% | ~4,725 |
+| Lifting The Fog | 0.50% | ~4,725 |
+| One More Step | 0.50% | ~4,725 |
+| MU/TH/UR Dearest | 0.50% | ~4,725 |
+| A bite for the Entity | 0.40% | ~3,780 |
+| Blood on your face | 0.40% | ~3,780 |
+| Jump Scares | 0.40% | ~3,780 |
+| Hemophobia | 0.40% | ~3,780 |
+| Leapfrog | 0.40% | ~3,780 |
+| Serial Killer | 0.40% | ~3,780 |
+| Escaping the Nightmare | 0.40% | ~3,780 |
+| Game Over | 0.40% | ~3,780 |
+| Ancestor's Rite | 0.40% | ~3,780 |
+| Devoted Gatekeeping | 0.40% | ~3,780 |
+| Shrine Apparatus | 0.40% | ~3,780 |
+| Grim Pilgrimage | 0.40% | ~3,780 |
+| Selfless Survival | 0.40% | ~3,780 |
+| End of Days | 0.40% | ~3,780 |
+| Insult and Injury | 0.40% | ~3,780 |
+| Outrun the Overlap | 0.40% | ~3,780 |
+| Extraterrestrial | 0.40% | ~3,780 |
 | Deep Cleansing | 0.30% | ~2,835 |
 | Texas BBQ | 0.30% | ~2,835 |
 | Party Crasher | 0.30% | ~2,835 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~945 |
 | Adept Ripley | 0.10% | ~945 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 944,862 (Ranked 14)  
+Progressed: 944,905 (Ranked 14)  
 Completed: 51 (0.01%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -416,7 +416,7 @@ Completed: 51 (0.01%) (Ranked 297)
 | 2023-10-14 | 939,759 | 50 |
 | 2023-10-15 | 942,498 | 51 |
 | 2023-10-16 | 944,360 | 51 |
-| 2023-10-17 | 944,862 | 51 |
+| 2023-10-17 | 944,905 | 51 |
 ## Awards
 Max (Diverse Characters): 34,006  (Ranked 15)  
 Sum: 262,995 (Ranked 13)  

@@ -326,9 +326,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 111482,
+  "EOS_Progressed": 111483,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 728,
+  "EOS_NewPlayers": 727,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -14681,6 +14681,11 @@
       "Time": "2023-10-17T08:06:06.9694106+00:00",
       "NumProgressed": 111482,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-10-17T10:05:42.945147+00:00",
+      "NumProgressed": 111483,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 49,
@@ -14700,7 +14705,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 85841
+      "UsersEstimate": 85842
     },
     {
       "ID": "EAwards_10",
@@ -14716,7 +14721,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 28985
+      "UsersEstimate": 28986
     },
     {
       "ID": "EAwards_12",
@@ -14788,7 +14793,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 53511
+      "UsersEstimate": 53512
     },
     {
       "ID": "EAwards_20",
@@ -15083,7 +15088,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 111482,
+      "Progressed": 111483,
       "Completed": 47
     }
   ],
@@ -15091,8 +15096,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-25T16:00:07.3978241+00:00",
-  "LastChanged_Achievements": "2023-10-17T09:06:07.6287737+00:00",
+  "LastChanged_Achievements": "2023-10-17T10:05:42.9451459+00:00",
   "LastUpdate_AppInfo": "2023-10-13T01:42:07.6726517+00:00",
-  "LastUpdate_Ratings": "2023-10-17T09:00:57.9527006+00:00",
-  "LastUpdate_Achievements": "2023-10-17T09:06:07.6289551+00:00"
+  "LastUpdate_Ratings": "2023-10-17T10:00:08.5541663+00:00",
+  "LastUpdate_Achievements": "2023-10-17T10:05:42.9452786+00:00"
 }

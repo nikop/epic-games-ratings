@@ -25,9 +25,235 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-10-17T10:05:08.1207606+00:00",
+  "TotalAchievements": 28,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "AccustomedCustomer",
+      "SetID": "4bd750m",
+      "Name": "Accustomed Customer",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Aristocratic",
+      "SetID": "4bd750m",
+      "Name": "Aristocratic",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Botropolis",
+      "SetID": "4bd750m",
+      "Name": "Botropolis",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ClickEmAll",
+      "SetID": "4bd750m",
+      "Name": "Click \u0027Em All",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ConductedTrade",
+      "SetID": "4bd750m",
+      "Name": "Conducted Trade",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DiggingAHole",
+      "SetID": "4bd750m",
+      "Name": "Digging a Hole",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DopaMiner",
+      "SetID": "4bd750m",
+      "Name": "Dopa-Miner",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GoingPlaces",
+      "SetID": "4bd750m",
+      "Name": "Going Places",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GottaGoFast",
+      "SetID": "4bd750m",
+      "Name": "Gotta Go Fast",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ImALumberbot",
+      "SetID": "4bd750m",
+      "Name": "I\u0027m A Lumberbot",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "InterstellarPerformance",
+      "SetID": "4bd750m",
+      "Name": "Interstellar Performance",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ItsYoursMyFriend",
+      "SetID": "4bd750m",
+      "Name": "It\u0027s Yours, My Friend",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ManicMechanic",
+      "SetID": "4bd750m",
+      "Name": "Manic Mechanic",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Mathematic",
+      "SetID": "4bd750m",
+      "Name": "Mathematic",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MineSweeper",
+      "SetID": "4bd750m",
+      "Name": "Mine Sweeper",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NothingButRoad",
+      "SetID": "4bd750m",
+      "Name": "Nothing But Road",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RealPurdy",
+      "SetID": "4bd750m",
+      "Name": "Real Purdy",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RollOut",
+      "SetID": "4bd750m",
+      "Name": "Roll Out",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RoomToSpare",
+      "SetID": "4bd750m",
+      "Name": "Room To Spare",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SlottingMachine",
+      "SetID": "4bd750m",
+      "Name": "Slotting Machine",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "StackOverflow",
+      "SetID": "4bd750m",
+      "Name": "Stack Overflow",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SteamPowered",
+      "SetID": "4bd750m",
+      "Name": "Steam Powered",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SteamingRich",
+      "SetID": "4bd750m",
+      "Name": "Steaming Rich",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Systematic",
+      "SetID": "4bd750m",
+      "Name": "Systematic",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TuttiFrutti",
+      "SetID": "4bd750m",
+      "Name": "Tutti Frutti",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "UpUpAndAway",
+      "SetID": "4bd750m",
+      "Name": "Up, Up And Away!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Whoa",
+      "SetID": "4bd750m",
+      "Name": "Whoa!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Yup",
+      "SetID": "4bd750m",
+      "Name": "Yup.",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "4bd750m",
@@ -37,8 +263,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-10-17T09:05:25.0009299+00:00",
+  "LastChanged_Achievements": "2023-10-17T10:05:08.1207585+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:52.5051725+00:00",
-  "LastUpdate_Ratings": "2023-10-17T09:02:39.7943719+00:00",
-  "LastUpdate_Achievements": "2023-10-17T09:05:25.0009405+00:00"
+  "LastUpdate_Ratings": "2023-10-17T10:03:18.0267384+00:00",
+  "LastUpdate_Achievements": "2023-10-17T10:05:08.1623248+00:00"
 }

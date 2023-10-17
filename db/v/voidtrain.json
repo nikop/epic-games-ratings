@@ -3,7 +3,7 @@
   "Name": "Voidtrain",
   "ProductSlug": "voidtrain",
   "Ranking_Rating": 551,
-  "Ranking_Popularity": 441,
+  "Ranking_Popularity": 437,
   "Ranking_PopularitySum": 387,
   "Ranking_EOS_Progress": 671,
   "Ranking_EOS_Completed": 315,
@@ -1029,18 +1029,24 @@
       "Rating": 4.51,
       "NumberOfAwards": 195,
       "NumberOfAwardsMax": 40
+    },
+    {
+      "Time": "2023-10-17T10:03:08.992614+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 197,
+      "NumberOfAwardsMax": 42
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 195,
-  "NumberOfAwardsMax": 40,
+  "NumberOfAwards": 197,
+  "NumberOfAwardsMax": 42,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 40
+      "Count": 42
     },
     {
       "Text": "This game is Relaxing",
@@ -1096,8 +1102,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:41.7165355+00:00",
-  "LastChanged": "2023-10-17T05:02:04.1657769+00:00",
+  "LastChanged": "2023-10-17T10:03:08.9926138+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:43.1562763+00:00",
-  "LastUpdate_Ratings": "2023-10-17T09:02:28.7919004+00:00",
-  "LastUpdate_Achievements": "2023-10-17T09:08:00.0447237+00:00"
+  "LastUpdate_Ratings": "2023-10-17T10:03:08.9926149+00:00",
+  "LastUpdate_Achievements": "2023-10-17T10:07:14.5925651+00:00"
 }

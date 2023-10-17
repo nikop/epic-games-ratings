@@ -11,20 +11,20 @@ Rating: 4.50 (Ranked 573)
 | Meticulously Efficient | 2.00% | ~531 |
 | Fully Upgraded | 2.00% | ~531 |
 | Vaporous Expansion | 2.00% | ~531 |
-| Animated | 1.00% | ~265 |
-| Back Off | 1.00% | ~265 |
-| Clutch Capture | 1.00% | ~265 |
-| I collect Spores, Molds, and Fungi | 1.00% | ~265 |
-| Cultured | 1.00% | ~265 |
-| Daily Dose | 1.00% | ~265 |
-| Icing on the Cake | 1.00% | ~265 |
-| Solo Capture | 1.00% | ~265 |
-| Swift Rift Removers | 1.00% | ~265 |
-| Teamwork | 1.00% | ~265 |
-| Terrifying | 1.00% | ~265 |
-| There you are! | 1.00% | ~265 |
-| Welcome to the Crew | 1.00% | ~265 |
-| Whoopsie | 1.00% | ~265 |
+| Animated | 1.00% | ~266 |
+| Back Off | 1.00% | ~266 |
+| Clutch Capture | 1.00% | ~266 |
+| I collect Spores, Molds, and Fungi | 1.00% | ~266 |
+| Cultured | 1.00% | ~266 |
+| Daily Dose | 1.00% | ~266 |
+| Icing on the Cake | 1.00% | ~266 |
+| Solo Capture | 1.00% | ~266 |
+| Swift Rift Removers | 1.00% | ~266 |
+| Teamwork | 1.00% | ~266 |
+| Terrifying | 1.00% | ~266 |
+| There you are! | 1.00% | ~266 |
+| Welcome to the Crew | 1.00% | ~266 |
+| Whoopsie | 1.00% | ~266 |
 | Ectoplasmic Entity | 0.90% | ~239 |
 | Ghostbuster In Training | 0.90% | ~239 |
 | Right back at ya | 0.90% | ~239 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 573)
 | Mycophile | 0.10% | ~27 |
 | Ultimate Defense | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,549 (Ranked 117)  
+Progressed: 26,550 (Ranked 117)  
 Completed: 58 (0.22%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,7 +237,7 @@ Completed: 58 (0.22%) (Ranked 219)
 | 2023-10-14 | 26,466 | 58 |
 | 2023-10-15 | 26,505 | 58 |
 | 2023-10-16 | 26,537 | 58 |
-| 2023-10-17 | 26,549 | 58 |
+| 2023-10-17 | 26,550 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 264  (Ranked 257)  
 Sum: 2,399 (Ranked 188)  
