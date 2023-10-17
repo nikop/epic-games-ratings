@@ -5,23 +5,23 @@ Rating: 4.40 (Ranked 722)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 80.00% | ~100,104 |
-| 74 miles East of Otaheité | 56.00% | ~70,073 |
-| Interesting... | 42.00% | ~52,555 |
-| The Everhart Expedition | 39.00% | ~48,801 |
-| The Vanishing of the Lady Shannon | 30.00% | ~37,539 |
-| Seaside Serenade | 30.00% | ~37,539 |
-| Halfway there | 29.00% | ~36,288 |
-| A brigantine, a brig and a barque | 28.00% | ~35,036 |
-| 506 East Hampden Avenue | 28.00% | ~35,036 |
-| Weekend at Walakea's | 27.00% | ~33,785 |
-| Quite a Show | 27.00% | ~33,785 |
-| Dark Water Ride | 24.00% | ~30,031 |
-| Sunken | 24.00% | ~30,031 |
-| Deep Cut | 24.00% | ~30,031 |
-| FHALGOF'N' | 23.00% | ~28,780 |
-| Marsh Cannery | 21.00% | ~26,277 |
-| Greetings from Y'ha-nthlei! | 17.00% | ~21,272 |
+| A Family Heirloom | 80.00% | ~100,106 |
+| 74 miles East of Otaheité | 56.00% | ~70,074 |
+| Interesting... | 42.00% | ~52,556 |
+| The Everhart Expedition | 39.00% | ~48,802 |
+| The Vanishing of the Lady Shannon | 30.00% | ~37,540 |
+| Seaside Serenade | 30.00% | ~37,540 |
+| Halfway there | 29.00% | ~36,289 |
+| A brigantine, a brig and a barque | 28.00% | ~35,037 |
+| 506 East Hampden Avenue | 28.00% | ~35,037 |
+| Weekend at Walakea's | 27.00% | ~33,786 |
+| Quite a Show | 27.00% | ~33,786 |
+| Dark Water Ride | 24.00% | ~30,032 |
+| Sunken | 24.00% | ~30,032 |
+| Deep Cut | 24.00% | ~30,032 |
+| FHALGOF'N' | 23.00% | ~28,781 |
+| Marsh Cannery | 21.00% | ~26,278 |
+| Greetings from Y'ha-nthlei! | 17.00% | ~21,273 |
 | The only thing I have now | 16.00% | ~20,021 |
 | Not Another Boring Slideshow! | 15.00% | ~18,770 |
 | Naacalvision | 15.00% | ~18,770 |
@@ -30,7 +30,7 @@ Rating: 4.40 (Ranked 722)
 | Play it again, Norah | 7.00% | ~8,759 |
 | Underwater Royalty | 7.00% | ~8,759 |
 | Written in Stone | 6.00% | ~7,508 |
-| Fawning Developers | 5.00% | ~6,256 |
+| Fawning Developers | 5.00% | ~6,257 |
 | The Amazing Adventures of Norah Everhart | 4.00% | ~5,005 |
 | Candid Photo | 4.00% | ~5,005 |
 | You looked that up in a guide! | 3.00% | ~3,754 |
@@ -40,7 +40,7 @@ Rating: 4.40 (Ranked 722)
 | Gently down the stream... | 1.00% | ~1,251 |
 | Meta-reference | 1.00% | ~1,251 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 125,130 (Ranked 76)  
+Progressed: 125,133 (Ranked 76)  
 Completed: 1,062 (0.85%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,7 +220,7 @@ Completed: 1,062 (0.85%) (Ranked 153)
 | 2023-10-14 | 124,745 | 1,053 |
 | 2023-10-15 | 124,959 | 1,058 |
 | 2023-10-16 | 125,109 | 1,061 |
-| 2023-10-17 | 125,130 | 1,062 |
+| 2023-10-17 | 125,133 | 1,062 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,20 +1,20 @@
 # Gloomhaven
 [Store](https://store.epicgames.com/en-US/p/gloomhaven-92f741)  
 [View Rawdata](../../db/g/gloomhaven.json)  
-Rating: 4.47 (Ranked 620)  
+Rating: 4.47 (Ranked 621)  
 Number of Ratings: 68  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 44.00% | ~6,135 |
-| Overkill | 34.00% | ~4,741 |
-| A normal day in Gloomhaven | 34.00% | ~4,741 |
-| Vaccine Incoming | 33.00% | ~4,602 |
-| Spread the plague | 31.00% | ~4,323 |
-| Get over here! | 24.00% | ~3,347 |
-| Just when I thought I was out... | 19.00% | ~2,649 |
-| Mine... All Mine... | 17.00% | ~2,370 |
-| Precious! | 16.00% | ~2,231 |
+| I'm not dead yet | 44.00% | ~6,138 |
+| Overkill | 34.00% | ~4,743 |
+| A normal day in Gloomhaven | 34.00% | ~4,743 |
+| Vaccine Incoming | 33.00% | ~4,603 |
+| Spread the plague | 31.00% | ~4,324 |
+| Get over here! | 24.00% | ~3,348 |
+| Just when I thought I was out... | 19.00% | ~2,650 |
+| Mine... All Mine... | 17.00% | ~2,371 |
+| Precious! | 16.00% | ~2,232 |
 | Light of my life | 15.00% | ~2,092 |
 | Anatomy Lesson | 15.00% | ~2,092 |
 | Grizzled veteran | 13.00% | ~1,813 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~14 |
 | Murder Death Kill | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,944 (Ranked 139)  
+Progressed: 13,949 (Ranked 139)  
 Completed: 1 (0.01%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 1 (0.01%) (Ranked 297)
 | 2023-10-14 | 13,296 | 1 |
 | 2023-10-15 | 13,656 | 1 |
 | 2023-10-16 | 13,884 | 1 |
-| 2023-10-17 | 13,944 | 1 |
+| 2023-10-17 | 13,949 | 1 |
 ## Awards
 Max (Character Customization): 3,554  (Ranked 90)  
 Sum: 8,295 (Ranked 98)  

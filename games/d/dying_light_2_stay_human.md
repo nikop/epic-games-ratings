@@ -6,44 +6,44 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 38.00% | ~241,922 |
-| Into the Unknown | 35.00% | ~222,823 |
-| First Shot | 35.00% | ~222,823 |
-| Herzlich Wilkommen! | 33.00% | ~210,090 |
-| Good Night & Good Luck | 32.00% | ~203,724 |
-| Sancho Panza | 31.00% | ~197,357 |
-| Oh, So This Is How It Works! | 29.00% | ~184,625 |
-| Flag Burning | 26.00% | ~165,526 |
-| Under Pressure | 24.00% | ~152,793 |
-| On the Trail of the Enemy | 24.00% | ~152,793 |
-| Light in the Darkness | 24.00% | ~152,793 |
-| It Wasn't That Hard, Was It? | 24.00% | ~152,793 |
-| Can't Touch This! | 24.00% | ~152,793 |
-| Get Outta My House! | 23.00% | ~146,427 |
-| Night Hunter | 22.00% | ~140,060 |
-| Being All Social | 22.00% | ~140,060 |
-| After the Fall | 19.00% | ~120,961 |
-| We Will Be Heard! | 18.00% | ~114,595 |
-| Tunnel Entrance | 17.00% | ~108,228 |
-| Known Associate | 16.00% | ~101,862 |
-| Brush with Death | 16.00% | ~101,862 |
+| You Never Forget Your First... | 38.00% | ~241,924 |
+| Into the Unknown | 35.00% | ~222,825 |
+| First Shot | 35.00% | ~222,825 |
+| Herzlich Wilkommen! | 33.00% | ~210,092 |
+| Good Night & Good Luck | 32.00% | ~203,726 |
+| Sancho Panza | 31.00% | ~197,359 |
+| Oh, So This Is How It Works! | 29.00% | ~184,626 |
+| Flag Burning | 26.00% | ~165,527 |
+| Under Pressure | 24.00% | ~152,794 |
+| On the Trail of the Enemy | 24.00% | ~152,794 |
+| Light in the Darkness | 24.00% | ~152,794 |
+| It Wasn't That Hard, Was It? | 24.00% | ~152,794 |
+| Can't Touch This! | 24.00% | ~152,794 |
+| Get Outta My House! | 23.00% | ~146,428 |
+| Night Hunter | 22.00% | ~140,061 |
+| Being All Social | 22.00% | ~140,061 |
+| After the Fall | 19.00% | ~120,962 |
+| We Will Be Heard! | 18.00% | ~114,596 |
+| Tunnel Entrance | 17.00% | ~108,229 |
+| Known Associate | 16.00% | ~101,863 |
+| Brush with Death | 16.00% | ~101,863 |
 | Debris and Ashes | 15.00% | ~95,496 |
 | Going Down | 15.00% | ~95,496 |
 | Family First | 15.00% | ~95,496 |
-| Your World, Your Rules | 14.00% | ~89,129 |
-| Death From Afar | 14.00% | ~89,129 |
-| Terminal Headache | 14.00% | ~89,129 |
-| Slowpoke! | 12.00% | ~76,396 |
+| Your World, Your Rules | 14.00% | ~89,130 |
+| Death From Afar | 14.00% | ~89,130 |
+| Terminal Headache | 14.00% | ~89,130 |
+| Slowpoke! | 12.00% | ~76,397 |
 | Tickets, Please! | 7.00% | ~44,565 |
-| Parkour Master | 6.00% | ~38,198 |
-| Combat Master | 6.00% | ~38,198 |
+| Parkour Master | 6.00% | ~38,199 |
+| Combat Master | 6.00% | ~38,199 |
 | Municipal Services | 5.00% | ~31,832 |
 | Ban Hammer | 5.00% | ~31,832 |
 | Modder | 5.00% | ~31,832 |
-| Tube Map | 4.00% | ~25,465 |
-| Don Quixote | 4.00% | ~25,465 |
-| Can't You Read the Signs? | 4.00% | ~25,465 |
-| Boot Licker | 4.00% | ~25,465 |
+| Tube Map | 4.00% | ~25,466 |
+| Don Quixote | 4.00% | ~25,466 |
+| Can't You Read the Signs? | 4.00% | ~25,466 |
+| Boot Licker | 4.00% | ~25,466 |
 | Tanning Salon | 3.00% | ~19,099 |
 | That's Teamwork! | 3.00% | ~19,099 |
 | Ironheart | 3.00% | ~19,099 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~282 |
 | Connoisseur | 0.10% | ~282 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 636,637 (Ranked 28)  
+Progressed: 636,643 (Ranked 28)  
 Completed: 65 (0.01%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,10 +252,10 @@ Completed: 65 (0.01%) (Ranked 297)
 | 2023-10-14 | 635,714 | 64 |
 | 2023-10-15 | 636,221 | 65 |
 | 2023-10-16 | 636,585 | 65 |
-| 2023-10-17 | 636,637 | 65 |
+| 2023-10-17 | 636,643 | 65 |
 ## Awards
 Max (Character Customization): 9,544  (Ranked 40)  
-Sum: 23,531 (Ranked 54)  
+Sum: 23,537 (Ranked 54)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -269,7 +269,7 @@ Diff (max vs sum): -14
 | This game is Extremely Fun | 885 |
 | This game has Quickly Understood Controls | 865 |
 | This game is Relaxing | 858 |
-| This game has a Creative Community | 758 |
+| This game has a Creative Community | 764 |
 | This game has Obsessive Gameplay | 230 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -552,4 +552,4 @@ Diff (max vs sum): -14
 | 2023-10-14 | 4.57 | - | 9,523 | 23,436 |
 | 2023-10-15 | 4.57 | - | 9,523 | 23,468 |
 | 2023-10-16 | 4.57 | - | 9,536 | 23,514 |
-| 2023-10-17 | 4.57 | - | 9,544 | 23,531 |
+| 2023-10-17 | 4.57 | - | 9,544 | 23,537 |

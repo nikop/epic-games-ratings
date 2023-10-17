@@ -2448,9 +2448,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26547,
+  "EOS_Progressed": 26549,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 229,
+  "EOS_NewPlayers": 230,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -15193,6 +15193,11 @@
       "Time": "2023-10-17T05:03:22.40322+00:00",
       "NumProgressed": 26547,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-10-17T08:03:44.1460407+00:00",
+      "NumProgressed": 26549,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 51,
@@ -15274,9 +15279,9 @@
       "ID": "Daily_Dose",
       "SetID": "819popo",
       "Name": "Daily Dose",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 239
+      "UsersEstimate": 265
     },
     {
       "ID": "Diabolical",
@@ -15442,9 +15447,9 @@
       "ID": "Rift_Seeker",
       "SetID": "819popo",
       "Name": "Rift Seeker",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 53
     },
     {
       "ID": "Right_Back",
@@ -15611,7 +15616,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26547,
+      "Progressed": 26549,
       "Completed": 58
     }
   ],
@@ -15619,8 +15624,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-17T01:43:20.4793057+00:00",
-  "LastChanged_Achievements": "2023-10-17T07:03:22.1868884+00:00",
+  "LastChanged_Achievements": "2023-10-17T08:03:44.1460403+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:17.9420656+00:00",
-  "LastUpdate_Ratings": "2023-10-17T06:58:39.8660796+00:00",
-  "LastUpdate_Achievements": "2023-10-17T07:03:22.1870155+00:00"
+  "LastUpdate_Ratings": "2023-10-17T07:59:27.6766105+00:00",
+  "LastUpdate_Achievements": "2023-10-17T08:03:44.146141+00:00"
 }

@@ -28,16 +28,16 @@ Number of Ratings: 70,340  (23.09.2022)
 | Sorted | 1.00% | ~9,448 |
 | Healthy Obsession | 1.00% | ~9,448 |
 | Resurgence | 1.00% | ~9,448 |
+| Close Shave | 1.00% | ~9,448 |
 | Preemptive Strike | 1.00% | ~9,448 |
 | Humanitarian | 1.00% | ~9,448 |
 | Nerves of steel | 0.90% | ~8,503 |
 | Risk it all | 0.90% | ~8,503 |
 | II | 0.90% | ~8,503 |
 | Wounded Healer | 0.90% | ~8,503 |
-| Close Shave | 0.90% | ~8,503 |
-| Apt Killer | 0.80% | ~7,558 |
-| Vulture | 0.80% | ~7,558 |
-| Second Act | 0.80% | ~7,558 |
+| Apt Killer | 0.80% | ~7,559 |
+| Vulture | 0.80% | ~7,559 |
+| Second Act | 0.80% | ~7,559 |
 | III | 0.70% | ~6,614 |
 | With Scars to Show | 0.70% | ~6,614 |
 | Rebuilding The Borgo | 0.70% | ~6,614 |
@@ -46,6 +46,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Made it out alive! | 0.60% | ~5,669 |
 | Near-Death Experience | 0.60% | ~5,669 |
 | Cherish your Life | 0.60% | ~5,669 |
+| Unforgettable Getaway | 0.60% | ~5,669 |
 | First to the Punch | 0.60% | ~5,669 |
 | Every Last Drop | 0.60% | ~5,669 |
 | Raccoon City Recruit | 0.60% | ~5,669 |
@@ -57,9 +58,9 @@ Number of Ratings: 70,340  (23.09.2022)
 | All Aboard | 0.50% | ~4,724 |
 | Item of Obsession | 0.50% | ~4,724 |
 | House of Pain | 0.50% | ~4,724 |
+| Cottage Owner | 0.50% | ~4,724 |
 | Holiday Get-Together | 0.50% | ~4,724 |
 | Campbell's Chapel Legacy | 0.50% | ~4,724 |
-| Unforgettable Getaway | 0.50% | ~4,724 |
 | Cutting Out | 0.50% | ~4,724 |
 | Outrun Evil | 0.50% | ~4,724 |
 | Operation: Survival | 0.50% | ~4,724 |
@@ -73,7 +74,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Blood on your face | 0.40% | ~3,779 |
 | Hemophobia | 0.40% | ~3,779 |
 | Leapfrog | 0.40% | ~3,779 |
-| Cottage Owner | 0.40% | ~3,779 |
 | Serial Killer | 0.40% | ~3,779 |
 | Escaping the Nightmare | 0.40% | ~3,779 |
 | Game Over | 0.40% | ~3,779 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~945 |
 | Adept Ripley | 0.10% | ~945 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 944,787 (Ranked 14)  
+Progressed: 944,818 (Ranked 14)  
 Completed: 51 (0.01%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -416,7 +416,7 @@ Completed: 51 (0.01%) (Ranked 297)
 | 2023-10-14 | 939,759 | 50 |
 | 2023-10-15 | 942,498 | 51 |
 | 2023-10-16 | 944,360 | 51 |
-| 2023-10-17 | 944,787 | 51 |
+| 2023-10-17 | 944,818 | 51 |
 ## Awards
 Max (Diverse Characters): 34,006  (Ranked 15)  
 Sum: 262,995 (Ranked 13)  

@@ -24,6 +24,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Trade Caravan | 2.00% | ~295 |
 | Kushite Paganism | 2.00% | ~295 |
 | Ambitious | 1.00% | ~148 |
+| Drillmaster | 1.00% | ~148 |
 | Brilliant | 1.00% | ~148 |
 | Enlightened | 1.00% | ~148 |
 | Fountainhead | 1.00% | ~148 |
@@ -53,7 +54,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Naming Landmarks | 1.00% | ~148 |
 | Kushite Pyramids | 1.00% | ~148 |
 | Regicide | 0.90% | ~133 |
-| Drillmaster | 0.90% | ~133 |
 | Great | 0.90% | ~133 |
 | Valiant | 0.90% | ~133 |
 | Legendary Cities | 0.90% | ~133 |
@@ -118,6 +118,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hunters | 0.40% | ~59 |
 | Babylonia | 0.40% | ~59 |
 | Carthage | 0.40% | ~59 |
+| Egypt | 0.40% | ~59 |
 | One True Faith | 0.40% | ~59 |
 | Assyrian Paganism | 0.40% | ~59 |
 | Hittite Paganism | 0.40% | ~59 |
@@ -138,7 +139,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cao'an | 0.30% | ~44 |
 | Adur Burzen-Mihr | 0.30% | ~44 |
 | Learn to Play 5 | 0.30% | ~44 |
-| Egypt | 0.30% | ~44 |
 | Rome | 0.30% | ~44 |
 | Old World Order | 0.30% | ~44 |
 | Cataphract Archer | 0.30% | ~44 |

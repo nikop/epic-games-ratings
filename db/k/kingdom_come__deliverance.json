@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 297,
   "Ranking_EOS_NewPlayers": 75,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -7896,9 +7896,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 805078,
+  "EOS_Progressed": 805079,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 778,
+  "EOS_NewPlayers": 776,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -27981,6 +27981,11 @@
       "Time": "2023-10-17T07:04:02.1776891+00:00",
       "NumProgressed": 805078,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-17T08:04:39.3190393+00:00",
+      "NumProgressed": 805079,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -28016,7 +28021,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 128812
+      "UsersEstimate": 128813
     },
     {
       "ID": "Awakening",
@@ -28024,7 +28029,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 169066
+      "UsersEstimate": 169067
     },
     {
       "ID": "BadGirl",
@@ -28392,7 +28397,7 @@
       "Name": "McLovin",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 56355
+      "UsersEstimate": 56356
     },
     {
       "ID": "MercenarysHonor",
@@ -28496,7 +28501,7 @@
       "Name": "Runt",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 56355
+      "UsersEstimate": 56356
     },
     {
       "ID": "Saviour",
@@ -28647,15 +28652,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 805078,
+      "Progressed": 805079,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-10-17T03:57:23.6645318+00:00",
-  "LastChanged_Achievements": "2023-10-17T07:04:02.1776884+00:00",
+  "LastChanged_Achievements": "2023-10-17T08:04:39.3190384+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:13.6850555+00:00",
-  "LastUpdate_Ratings": "2023-10-17T06:57:31.6790047+00:00",
-  "LastUpdate_Achievements": "2023-10-17T07:04:02.1779035+00:00"
+  "LastUpdate_Ratings": "2023-10-17T07:57:48.599365+00:00",
+  "LastUpdate_Achievements": "2023-10-17T08:04:39.319467+00:00"
 }

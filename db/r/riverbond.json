@@ -2,7 +2,7 @@
   "ID": "100f8957d16d4d2d89716775b5767779",
   "Name": "Riverbond",
   "ProductSlug": "riverbond-782aa4",
-  "Ranking_Rating": 620,
+  "Ranking_Rating": 621,
   "Ranking_Popularity": 530,
   "Ranking_PopularitySum": 531,
   "Ranking_EOS_Progress": 34,
@@ -494,9 +494,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 529457,
+  "EOS_Progressed": 529458,
   "EOS_Completed": 487,
-  "EOS_NewPlayers": 462,
+  "EOS_NewPlayers": 460,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -19669,6 +19669,11 @@
       "Time": "2023-10-17T06:04:32.2367801+00:00",
       "NumProgressed": 529457,
       "NumCompleted": 487
+    },
+    {
+      "Time": "2023-10-17T08:04:49.3900231+00:00",
+      "NumProgressed": 529458,
+      "NumCompleted": 487
     }
   ],
   "TotalAchievements": 57,
@@ -19696,7 +19701,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 370620
+      "UsersEstimate": 370621
     },
     {
       "ID": "12",
@@ -19712,7 +19717,7 @@
       "Name": "Keep On Trucking",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 68829
+      "UsersEstimate": 68830
     },
     {
       "ID": "14",
@@ -19760,7 +19765,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 328263
+      "UsersEstimate": 328264
     },
     {
       "ID": "2",
@@ -19904,7 +19909,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 264728
+      "UsersEstimate": 264729
     },
     {
       "ID": "36",
@@ -19936,7 +19941,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 180015
+      "UsersEstimate": 180016
     },
     {
       "ID": "4",
@@ -20008,7 +20013,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 328263
+      "UsersEstimate": 328264
     },
     {
       "ID": "48",
@@ -20016,7 +20021,7 @@
       "Name": "To the Beat",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 105891
+      "UsersEstimate": 105892
     },
     {
       "ID": "49",
@@ -20024,7 +20029,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 180015
+      "UsersEstimate": 180016
     },
     {
       "ID": "5",
@@ -20056,7 +20061,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 243550
+      "UsersEstimate": 243551
     },
     {
       "ID": "53",
@@ -20135,15 +20140,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 529457,
+      "Progressed": 529458,
       "Completed": 487
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-10-17T07:04:09.3792334+00:00",
+  "LastChanged_Achievements": "2023-10-17T08:04:49.3900226+00:00",
   "LastUpdate_AppInfo": "2023-10-14T13:56:54.8848084+00:00",
-  "LastUpdate_Ratings": "2023-10-17T06:59:29.3883689+00:00",
-  "LastUpdate_Achievements": "2023-10-17T07:04:09.379402+00:00"
+  "LastUpdate_Ratings": "2023-10-17T08:00:39.2258304+00:00",
+  "LastUpdate_Achievements": "2023-10-17T08:04:49.3901688+00:00"
 }

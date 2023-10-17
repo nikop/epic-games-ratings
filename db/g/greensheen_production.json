@@ -82,9 +82,9 @@
       "ID": "BugSmash",
       "SetID": "aph8hbk",
       "Name": "Bully of Bullies",
-      "Percentage": 33,
+      "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "BurnBears",
@@ -138,9 +138,9 @@
       "ID": "Detention",
       "SetID": "aph8hbk",
       "Name": "Merciful feat",
-      "Percentage": 33,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "EmptyVendingMachine",
@@ -170,9 +170,9 @@
       "ID": "FootballGoal",
       "SetID": "aph8hbk",
       "Name": "Referee!",
-      "Percentage": 44,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Fridge",
@@ -274,9 +274,9 @@
       "ID": "PaperPlaneWindow",
       "SetID": "aph8hbk",
       "Name": "Fly Free",
-      "Percentage": 33,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "PatientBall",
@@ -290,9 +290,9 @@
       "ID": "Piano",
       "SetID": "aph8hbk",
       "Name": "Mono Tones",
-      "Percentage": 44,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Platinum",
@@ -360,8 +360,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-31T13:15:39.9572089+00:00",
-  "LastChanged_Achievements": "2023-10-17T07:06:16.4594689+00:00",
+  "LastChanged_Achievements": "2023-10-17T08:07:44.2310327+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:13.194983+00:00",
-  "LastUpdate_Ratings": "2023-10-17T06:59:58.680696+00:00",
-  "LastUpdate_Achievements": "2023-10-17T07:06:16.4594938+00:00"
+  "LastUpdate_Ratings": "2023-10-17T08:01:20.4407957+00:00",
+  "LastUpdate_Achievements": "2023-10-17T08:07:44.2310516+00:00"
 }

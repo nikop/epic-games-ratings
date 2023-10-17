@@ -490,9 +490,9 @@
       "Count": 134
     }
   ],
-  "EOS_Progressed": 607115,
+  "EOS_Progressed": 607116,
   "EOS_Completed": 532,
-  "EOS_NewPlayers": 702,
+  "EOS_NewPlayers": 700,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -20525,6 +20525,11 @@
       "Time": "2023-10-17T07:04:07.3812616+00:00",
       "NumProgressed": 607115,
       "NumCompleted": 532
+    },
+    {
+      "Time": "2023-10-17T08:04:46.49284+00:00",
+      "NumProgressed": 607116,
+      "NumCompleted": 532
     }
   ],
   "TotalAchievements": 28,
@@ -20600,7 +20605,7 @@
       "Name": "We need more gold",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 370340
+      "UsersEstimate": 370341
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -20648,7 +20653,7 @@
       "Name": "Beauty and harmony",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 291415
+      "UsersEstimate": 291416
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -20664,7 +20669,7 @@
       "Name": "First.. Bit?",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 564617
+      "UsersEstimate": 564618
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -20696,7 +20701,7 @@
       "Name": "Error: Stack Overflow",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 400696
+      "UsersEstimate": 400697
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -20759,15 +20764,15 @@
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 607115,
+      "Progressed": 607116,
       "Completed": 532
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
   "LastChanged": "2023-07-16T08:00:08.7749167+00:00",
-  "LastChanged_Achievements": "2023-10-17T07:04:07.3812606+00:00",
+  "LastChanged_Achievements": "2023-10-17T08:04:46.4928397+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:09.2930104+00:00",
-  "LastUpdate_Ratings": "2023-10-17T06:57:32.611878+00:00",
-  "LastUpdate_Achievements": "2023-10-17T07:04:07.3813949+00:00"
+  "LastUpdate_Ratings": "2023-10-17T07:57:49.8029241+00:00",
+  "LastUpdate_Achievements": "2023-10-17T08:04:46.4929582+00:00"
 }

@@ -5968,10 +5968,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 4573,
       "NumberOfAwardsMax": 531
+    },
+    {
+      "Time": "2023-10-17T08:03:21.8627012+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 4575,
+      "NumberOfAwardsMax": 531
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4573,
+  "NumberOfAwards": 4575,
   "NumberOfAwardsMax": 531,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -6039,12 +6045,12 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 432
+      "Count": 434
     }
   ],
-  "EOS_Progressed": 184307,
+  "EOS_Progressed": 184309,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1891,
+  "EOS_NewPlayers": 1887,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26337,6 +26343,11 @@
       "Time": "2023-10-17T07:04:45.0435252+00:00",
       "NumProgressed": 184307,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-17T08:05:38.8292103+00:00",
+      "NumProgressed": 184309,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 16,
@@ -26475,15 +26486,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 184307,
+      "Progressed": 184309,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
-  "LastChanged": "2023-10-17T03:02:21.9663954+00:00",
-  "LastChanged_Achievements": "2023-10-17T07:04:45.0435246+00:00",
+  "LastChanged": "2023-10-17T08:03:21.862701+00:00",
+  "LastChanged_Achievements": "2023-10-17T08:05:38.8292098+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:01.2468535+00:00",
-  "LastUpdate_Ratings": "2023-10-17T07:03:08.1911581+00:00",
-  "LastUpdate_Achievements": "2023-10-17T07:04:45.0436636+00:00"
+  "LastUpdate_Ratings": "2023-10-17T08:03:21.8627016+00:00",
+  "LastUpdate_Achievements": "2023-10-17T08:05:38.8293162+00:00"
 }

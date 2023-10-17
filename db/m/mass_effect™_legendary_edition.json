@@ -2538,9 +2538,9 @@
       "ID": "achievement_71",
       "SetID": "d252ncf",
       "Name": "Scientist",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 332
+      "UsersEstimate": 339
     },
     {
       "ID": "achievement_72",
@@ -2798,8 +2798,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-17T07:04:52.882772+00:00",
+  "LastChanged_Achievements": "2023-10-17T08:05:49.7864014+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:30.4071338+00:00",
-  "LastUpdate_Ratings": "2023-10-17T06:59:46.8189349+00:00",
-  "LastUpdate_Achievements": "2023-10-17T07:04:52.8830008+00:00"
+  "LastUpdate_Ratings": "2023-10-17T08:01:02.6608479+00:00",
+  "LastUpdate_Achievements": "2023-10-17T08:05:49.7865834+00:00"
 }

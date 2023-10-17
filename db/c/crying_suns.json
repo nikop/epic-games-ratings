@@ -622,7 +622,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 469190,
+  "EOS_Progressed": 469191,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 369,
   "EOS_NewCompleters": 0,
@@ -19422,6 +19422,11 @@
       "Time": "2023-10-17T07:08:26.6974851+00:00",
       "NumProgressed": 469190,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-10-17T08:09:49.6083499+00:00",
+      "NumProgressed": 469191,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 79,
@@ -19433,7 +19438,7 @@
       "Name": "Knightmare Frames",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70378
+      "UsersEstimate": 70379
     },
     {
       "ID": "achievement_expedition_overcome_sandworm",
@@ -19441,7 +19446,7 @@
       "Name": "May His passing cleanse the world",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70378
+      "UsersEstimate": 70379
     },
     {
       "ID": "achievement_first_death",
@@ -19465,7 +19470,7 @@
       "Name": "Chapter II: Fallible Flesh",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 70378
+      "UsersEstimate": 70379
     },
     {
       "ID": "achievement_story_complete_chapter_3",
@@ -19521,7 +19526,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 309665
+      "UsersEstimate": 309666
     },
     {
       "ID": "achievement_story_landa",
@@ -19601,7 +19606,7 @@
       "Name": "Pope Zenon",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70378
+      "UsersEstimate": 70379
     },
     {
       "ID": "achievement_story_neon_child",
@@ -20064,21 +20069,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 13124,
+      "Progressed": 13125,
       "Completed": 2358
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 469190,
+      "Progressed": 469191,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-10-10T01:42:39.6470224+00:00",
-  "LastChanged_Achievements": "2023-10-17T07:08:26.6974845+00:00",
+  "LastChanged_Achievements": "2023-10-17T08:09:49.6083495+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:23.4157652+00:00",
-  "LastUpdate_Ratings": "2023-10-17T06:58:01.2335812+00:00",
-  "LastUpdate_Achievements": "2023-10-17T07:08:26.6976901+00:00"
+  "LastUpdate_Ratings": "2023-10-17T07:58:31.7538496+00:00",
+  "LastUpdate_Achievements": "2023-10-17T08:09:49.6085092+00:00"
 }

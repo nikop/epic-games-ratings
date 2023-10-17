@@ -6,9 +6,9 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 33.00% | ~76,353 |
+| Sowwy! | 33.00% | ~76,354 |
 | Alt+F4 | 7.00% | ~16,196 |
-| Where's that freaking Dwarf? | 6.00% | ~13,882 |
+| Where's that freaking Dwarf? | 6.00% | ~13,883 |
 | Déjà vu | 5.00% | ~11,569 |
 | Sock! SOCK! | 4.00% | ~9,255 |
 | Speedrun | 4.00% | ~9,255 |
@@ -16,22 +16,22 @@ Number of Ratings: 118  (23.09.2022)
 | GG EZ | 3.00% | ~6,941 |
 | DM intervention | 3.00% | ~6,941 |
 | Fireproof Wizardess | 3.00% | ~6,941 |
-| Livin' in a dwarven paradise | 2.00% | ~4,627 |
-| Shiny and Crôm | 2.00% | ~4,627 |
-| Way of the Wimp | 2.00% | ~4,627 |
-| The plot thickens... At the tavern | 2.00% | ~4,627 |
-| The demons' feast | 2.00% | ~4,627 |
-| The Great Library | 2.00% | ~4,627 |
-| Torture and Sensibility | 2.00% | ~4,627 |
-| Urik's Depths | 2.00% | ~4,627 |
-| The Dungeon Master | 2.00% | ~4,627 |
-| The Statuette of Gladeulfeurah | 2.00% | ~4,627 |
-| The Woman in the High Castle | 2.00% | ~4,627 |
-| A tale of adventurers not quite like the others... | 2.00% | ~4,627 |
-| The Ranger of Chaos | 2.00% | ~4,627 |
-| I am the night | 2.00% | ~4,627 |
-| Team Building Exercise | 2.00% | ~4,627 |
-| Oh, when I'll be level 10... | 2.00% | ~4,627 |
+| Livin' in a dwarven paradise | 2.00% | ~4,628 |
+| Shiny and Crôm | 2.00% | ~4,628 |
+| Way of the Wimp | 2.00% | ~4,628 |
+| The plot thickens... At the tavern | 2.00% | ~4,628 |
+| The demons' feast | 2.00% | ~4,628 |
+| The Great Library | 2.00% | ~4,628 |
+| Torture and Sensibility | 2.00% | ~4,628 |
+| Urik's Depths | 2.00% | ~4,628 |
+| The Dungeon Master | 2.00% | ~4,628 |
+| The Statuette of Gladeulfeurah | 2.00% | ~4,628 |
+| The Woman in the High Castle | 2.00% | ~4,628 |
+| A tale of adventurers not quite like the others... | 2.00% | ~4,628 |
+| The Ranger of Chaos | 2.00% | ~4,628 |
+| I am the night | 2.00% | ~4,628 |
+| Team Building Exercise | 2.00% | ~4,628 |
+| Oh, when I'll be level 10... | 2.00% | ~4,628 |
 | Res Judicata | 1.00% | ~2,314 |
 | The Famous Dungeon of Naheulbeuk | 1.00% | ~2,314 |
 | Dwarf Fortress | 1.00% | ~2,314 |
@@ -50,7 +50,7 @@ Number of Ratings: 118  (23.09.2022)
 | Holistic Adventuring Party | 0.50% | ~1,157 |
 | An old poacher makes the best gamekeeper | 0.50% | ~1,157 |
 | Law and Order | 0.50% | ~1,157 |
-| Scholar of the Lands of Fangh | 0.40% | ~925 |
+| Scholar of the Lands of Fangh | 0.40% | ~926 |
 | Friendly fire | 0.30% | ~694 |
 | I'd rather... Just... Sing! | 0.30% | ~694 |
 | Inception | 0.30% | ~694 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~231 |
 | Dwarf Candy | 0.10% | ~231 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,373 (Ranked 59)  
+Progressed: 231,376 (Ranked 59)  
 Completed: 5 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,7 +234,7 @@ Completed: 5 (0.00%) (Ranked 315)
 | 2023-10-14 | 230,860 | 5 |
 | 2023-10-15 | 231,139 | 5 |
 | 2023-10-16 | 231,330 | 5 |
-| 2023-10-17 | 231,373 | 5 |
+| 2023-10-17 | 231,376 | 5 |
 ## Awards
 Max (Character Customization): 216  (Ranked 273)  
 Sum: 427 (Ranked 325)  

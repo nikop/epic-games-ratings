@@ -10295,9 +10295,9 @@
       "ID": "ACH_27",
       "SetID": "9d4cf4c",
       "Name": "Night guard",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 5833
+      "UsersEstimate": 5969
     },
     {
       "ID": "ACH_28",
@@ -10376,8 +10376,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-10-16T09:59:30.083525+00:00",
-  "LastChanged_Achievements": "2023-10-17T07:04:41.3233401+00:00",
+  "LastChanged_Achievements": "2023-10-17T08:05:33.8777113+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:04.2648355+00:00",
-  "LastUpdate_Ratings": "2023-10-17T06:58:52.390896+00:00",
-  "LastUpdate_Achievements": "2023-10-17T07:04:41.3234261+00:00"
+  "LastUpdate_Ratings": "2023-10-17T07:59:45.9876742+00:00",
+  "LastUpdate_Achievements": "2023-10-17T08:05:33.8777788+00:00"
 }

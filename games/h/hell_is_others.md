@@ -14,10 +14,10 @@ Rating: 4.40 (Ranked 722)
 | Cleaning Company | 6.00% | ~15,443 |
 | Well-oiled machine | 5.00% | ~12,869 |
 | Saver I | 5.00% | ~12,869 |
-| The Ascent | 4.00% | ~10,295 |
-| Pacifist | 4.00% | ~10,295 |
-| Vandalism | 4.00% | ~10,295 |
-| Capitalist I | 4.00% | ~10,295 |
+| The Ascent | 4.00% | ~10,296 |
+| Pacifist | 4.00% | ~10,296 |
+| Vandalism | 4.00% | ~10,296 |
+| Capitalist I | 4.00% | ~10,296 |
 | Fixer II | 3.00% | ~7,722 |
 | Adrenaline | 3.00% | ~7,722 |
 | By a hair | 2.00% | ~5,148 |
@@ -62,7 +62,7 @@ Rating: 4.40 (Ranked 722)
 | Capitalist III | 0.10% | ~257 |
 | Hell Is You | 0.10% | ~257 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 257,387 (Ranked 51)  
+Progressed: 257,388 (Ranked 51)  
 Completed: 3 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,21 +242,21 @@ Completed: 3 (0.00%) (Ranked 315)
 | 2023-10-14 | 257,294 | 3 |
 | 2023-10-15 | 257,347 | 3 |
 | 2023-10-16 | 257,380 | 3 |
-| 2023-10-17 | 257,387 | 3 |
+| 2023-10-17 | 257,388 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 45  (Ranked 428)  
-Sum: 291 (Ranked 354)  
-Diff (max vs sum): 74  
+Sum: 293 (Ranked 352)  
+Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 45 |
 | This game has Unique Visuals | 37 |
 | This game has Challenging Combat | 36 |
-| This game has Amazing Storytelling | 33 |
+| This game has Amazing Storytelling | 34 |
 | This game has Amazing Characters | 32 |
 | This game is Highly Recommended | 32 |
 | This game has a Competitive Community | 29 |
-| This game has Quickly Understood Controls | 25 |
+| This game has Quickly Understood Controls | 26 |
 | This game has Competitive Players | 25 |
 | This game is Extremely Fun | 22 |
 ## Ratings History
@@ -409,3 +409,4 @@ Diff (max vs sum): 74
 | 2023-10-10 | 4.40 | 45 | 289 |
 | 2023-10-13 | 4.40 | 45 | 290 |
 | 2023-10-16 | 4.40 | 45 | 291 |
+| 2023-10-17 | 4.40 | 45 | 293 |

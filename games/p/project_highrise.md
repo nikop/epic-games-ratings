@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | In the Black | 60.00% | ~205 |
 | Starting Skyward | 55.00% | ~188 |
-| Grime is Not Good | 48.00% | ~164 |
+| Grime is Not Good | 49.00% | ~167 |
 | Floor Galore | 42.00% | ~143 |
 | Dinner Dash | 42.00% | ~143 |
 | Campaign Launch | 41.00% | ~140 |
@@ -22,18 +22,18 @@
 | Your Prestige is Rising | 25.00% | ~85 |
 | Retail Revenue | 25.00% | ~85 |
 | Don't Feel a Loan | 23.00% | ~78 |
+| People Mover | 23.00% | ~78 |
 | Artfully Done | 22.00% | ~75 |
-| People Mover | 22.00% | ~75 |
 | Lux Living | 21.00% | ~72 |
 | Emporium Empire | 21.00% | ~72 |
 | Leveled Up Shops | 21.00% | ~72 |
 | Get Electrified | 21.00% | ~72 |
 | Rehab Expert | 20.00% | ~68 |
+| Tasty Profits | 20.00% | ~68 |
 | We Don't Need No Education | 20.00% | ~68 |
-| Tasty Profits | 19.00% | ~65 |
 | Established Fame | 18.00% | ~61 |
+| Under One Roof | 17.00% | ~58 |
 | Cashflow Chief | 17.00% | ~58 |
-| Under One Roof | 16.00% | ~55 |
 | Starred Dining | 16.00% | ~55 |
 | Smooth Operator | 14.00% | ~48 |
 | Boutique Benefits | 14.00% | ~48 |

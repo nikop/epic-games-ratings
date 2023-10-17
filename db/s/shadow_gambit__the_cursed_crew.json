@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 84,
-  "Ranking_EOS_NewPlayers": 235,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -98,11 +98,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 726,
+  "EOS_Progressed": 727,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 3.31,
+  "EOS_Completed_Percentage": 3.3,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -2138,6 +2138,11 @@
       "Time": "2023-10-16T12:08:55.8544495+00:00",
       "NumProgressed": 726,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-10-17T08:09:29.4509533+00:00",
+      "NumProgressed": 727,
+      "NumCompleted": 24
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2158,7 +2163,7 @@
       "Name": "A New Journey",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "_03_FinishAct1",
@@ -2198,7 +2203,7 @@
       "Name": "All Good Things",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "_08_Completion_10",
@@ -2206,15 +2211,15 @@
       "Name": "Swabbie",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "_09_Completion_20",
       "SetID": "8a1io5d",
       "Name": "Powder Monkey",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 232
+      "UsersEstimate": 225
     },
     {
       "ID": "_10_Completion_30",
@@ -2270,7 +2275,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -2357,7 +2362,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 726,
+      "Progressed": 727,
       "Completed": 24
     }
   ],
@@ -2365,8 +2370,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-10-02T00:00:41.2116731+00:00",
-  "LastChanged_Achievements": "2023-10-17T07:08:12.2408497+00:00",
+  "LastChanged_Achievements": "2023-10-17T08:09:29.450953+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:48.0426096+00:00",
-  "LastUpdate_Ratings": "2023-10-17T06:57:17.967651+00:00",
-  "LastUpdate_Achievements": "2023-10-17T07:08:12.240883+00:00"
+  "LastUpdate_Ratings": "2023-10-17T07:57:29.3807349+00:00",
+  "LastUpdate_Achievements": "2023-10-17T08:09:29.4509778+00:00"
 }

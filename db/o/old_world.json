@@ -14445,9 +14445,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_BRAVE",
       "SetID": "9201eeb",
       "Name": "Drillmaster",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 148
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_BRILLIANT",
@@ -15693,9 +15693,9 @@
       "ID": "ACHIEVEMENT_NATION_EGYPT",
       "SetID": "7l38kb8",
       "Name": "Egypt",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 59
     },
     {
       "ID": "ACHIEVEMENT_NATION_GREECE",
@@ -16819,8 +16819,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-16T22:57:40.964526+00:00",
-  "LastChanged_Achievements": "2023-10-17T07:08:13.6041409+00:00",
+  "LastChanged_Achievements": "2023-10-17T08:09:31.4124455+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:21.7880328+00:00",
-  "LastUpdate_Ratings": "2023-10-17T06:57:24.5212199+00:00",
-  "LastUpdate_Achievements": "2023-10-17T07:08:13.6057174+00:00"
+  "LastUpdate_Ratings": "2023-10-17T07:57:38.2578689+00:00",
+  "LastUpdate_Achievements": "2023-10-17T08:09:31.413421+00:00"
 }

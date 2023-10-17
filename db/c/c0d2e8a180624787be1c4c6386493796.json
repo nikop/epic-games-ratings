@@ -4,7 +4,7 @@
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 485,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewPlayers": 258,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
@@ -131,9 +131,9 @@
       "ID": "KR4_ACHIEVEMENT_APEX_PREDATOR",
       "SetID": "caeik3h",
       "Name": "Apex Predator",
-      "Percentage": 30,
+      "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "KR4_ACHIEVEMENT_ASRA_MAX",
@@ -754,8 +754,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-10-17T07:03:58.2437215+00:00",
+  "LastChanged_Achievements": "2023-10-17T08:04:33.7382668+00:00",
   "LastUpdate_AppInfo": "2023-10-12T15:57:01.5965856+00:00",
-  "LastUpdate_Ratings": "2023-10-17T06:58:51.2068626+00:00",
-  "LastUpdate_Achievements": "2023-10-17T07:03:58.243806+00:00"
+  "LastUpdate_Ratings": "2023-10-17T07:59:43.8502749+00:00",
+  "LastUpdate_Achievements": "2023-10-17T08:04:33.7383287+00:00"
 }
