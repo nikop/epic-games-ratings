@@ -2,7 +2,7 @@
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 66.67% |
-| 3 | [The Riflemen](games/t/the_riflemen.md) | 47.83% |
+| 3 | [The Riflemen](games/t/the_riflemen.md) | 47.82% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.15% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.99% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
@@ -27,8 +27,8 @@
 | 25 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 12.50% |
 | 25 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 12.50% |
 | 27 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.27% |
-| 28 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 11.76% |
 | 28 | [Remains](games/r/remains.md) | 11.76% |
+| 29 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 11.59% |
 | 30 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 11.43% |
 | 31 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.16% |
 | 32 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
@@ -80,9 +80,9 @@
 | 78 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 79 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.45% |
 | 80 | [The Bunker](games/t/the_bunker.md) | 3.39% |
-| 81 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.36% |
-| 82 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
-| 83 | [The Complex](games/t/the_complex.md) | 3.33% |
+| 81 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
+| 82 | [The Complex](games/t/the_complex.md) | 3.33% |
+| 82 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.33% |
 | 84 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.30% |
 | 85 | [Doodle God](games/d/doodle_god.md) | 3.27% |
 | 86 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.26% |
