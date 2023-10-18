@@ -2,7 +2,7 @@
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 66.67% |
-| 3 | [The Riflemen](games/t/the_riflemen.md) | 47.74% |
+| 3 | [The Riflemen](games/t/the_riflemen.md) | 47.72% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.15% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.99% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
@@ -17,9 +17,9 @@
 | 15 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 21.43% |
 | 16 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.25% |
 | 17 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
-| 17 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 20.00% |
-| 19 | [Doodle Devil](games/d/doodle_devil.md) | 19.28% |
-| 20 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.39% |
+| 18 | [Doodle Devil](games/d/doodle_devil.md) | 19.28% |
+| 19 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.39% |
+| 20 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 16.67% |
 | 21 | [Island Cities](games/i/island_cities.md) | 16.44% |
 | 22 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.12% |
 | 23 | [Seven Doors](games/s/seven_doors.md) | 14.29% |
@@ -46,7 +46,7 @@
 | 44 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 45 | [Ravenlok](games/r/ravenlok.md) | 7.66% |
 | 46 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.51% |
-| 47 | [Sonic Origins](games/s/sonic_origins.md) | 7.49% |
+| 47 | [Sonic Origins](games/s/sonic_origins.md) | 7.47% |
 | 48 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.33% |
 | 49 | [Time Loader](games/t/time_loader.md) | 7.20% |
 | 50 | [Scorn](games/s/scorn.md) | 7.04% |
@@ -68,7 +68,7 @@
 | 66 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.71% |
 | 67 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.55% |
 | 68 | [ZZT!](games/z/zzt!.md) | 4.47% |
-| 69 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.44% |
+| 69 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.43% |
 | 70 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.12% |
 | 71 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.09% |
 | 72 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.00% |
@@ -84,7 +84,7 @@
 | 82 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
 | 83 | [The Complex](games/t/the_complex.md) | 3.33% |
 | 84 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.31% |
-| 85 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.30% |
+| 85 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.29% |
 | 86 | [Doodle God](games/d/doodle_god.md) | 3.27% |
 | 87 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.26% |
 | 88 | [Monster Harvest](games/m/monster_harvest.md) | 3.15% |
@@ -97,7 +97,7 @@
 | 93 | [Mega City Police](games/m/mega_city_police.md) | 2.86% |
 | 96 | [Destiny 2](games/d/destiny_2.md) | 2.82% |
 | 97 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
-| 98 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.68% |
+| 98 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.67% |
 | 99 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 2.63% |
 | 100 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.60% |
 | 101 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.56% |
@@ -247,13 +247,13 @@
 | 243 | [Shop Titans](games/s/shop_titans.md) | 0.12% |
 | 246 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.11% |
 | 246 | [Outward Definitive Edition](games/o/outward.md) | 0.11% |
-| 248 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
-| 248 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.10% |
-| 248 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.10% |
-| 248 | [House Flipper](games/h/house_flipper.md) | 0.10% |
-| 248 | [Port Royale 4](games/p/port_royale_4.md) | 0.10% |
-| 248 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.10% |
-| 248 | [Supraland](games/s/supraland.md) | 0.10% |
+| 246 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.11% |
+| 249 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
+| 249 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.10% |
+| 249 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.10% |
+| 249 | [House Flipper](games/h/house_flipper.md) | 0.10% |
+| 249 | [Port Royale 4](games/p/port_royale_4.md) | 0.10% |
+| 249 | [Supraland](games/s/supraland.md) | 0.10% |
 | 255 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.09% |
 | 255 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
 | 255 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.09% |
