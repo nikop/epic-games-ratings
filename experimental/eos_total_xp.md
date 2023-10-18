@@ -147,6 +147,7 @@
 | [CadriaItemShop](../games/1/156fe52117754eb98a332471081ff9ba.md) | 54 | 1,000 |
 | [Cafe Owner Simulator](../games/c/cafe_owner_simulator.md) | 14 | 1,000 |
 | [Call of the Sea](../games/c/call_of_the_sea.md) | 34 | 1,000 |
+| [Candle Knight](../games/9/909c6e888c164c78a1811afccedbc3a7.md) | 23 | 1,000 |
 | [Cartel Tycoon](../games/c/cartel_tycoon.md) | 19 | 1,000 |
 | [Centipede: Recharged](../games/c/centipede__recharged.md) | 16 | 1,000 |
 | [Cepheus Protocol](../games/c/cepheus_protocol.md) | 5 | 1,000 |
@@ -409,6 +410,7 @@
 | [Miniland Adventure](../games/8/8900287f0941428abcdd1b92af29abce.md) | 52 | 1,000 |
 | [Model Builder](../games/m/model_builder.md) | 70 | 1,000 |
 | [Mokoko X](../games/c/cace077f51674e66b937ba8d5646fff7.md) | 73 | 1,000 |
+| [Monmusu Gladiator](../games/4/477b9d6ee98c4ff4a751a7289adbfcb2.md) | 21 | 1,000 |
 | [Monster Harvest](../games/m/monster_harvest.md) | 10 | 1,000 |
 | [Moonglow Bay](../games/m/moonglow_bay.md) | 37 | 1,000 |
 | [MORDHAU](../games/m/mordhau.md) | 38 | 1,000 |
@@ -442,7 +444,13 @@
 | [One More Dungeon 2](../games/4/46c8eccba1224195bdd112048075cc37.md) | 20 | 1,000 |
 | [Operation New Earth](../games/o/operation_new_earth.md) | 38 | 1,000 |
 | [Out of Bounds](../games/o/out_of_bounds.md) | 32 | 1,000 |
+| [Outbreak Contagious Memories](../games/c/c5ca2bb23eed43d29d7e4cbc164513a4.md) | 25 | 1,000 |
+| [Outbreak Devious Beginnings](../games/d/dbbce4993a554bbba3032476bca1673a.md) | 12 | 1,000 |
+| [Outbreak Endless Nightmares Restless Dreams](../games/c/c43146b859f04072ab662e89587b692b.md) | 11 | 1,000 |
+| [Outbreak Epidemic Viral Terror](../games/e/ef23a06e26f1497a8a39ff8d70e66833.md) | 12 | 1,000 |
 | [Outbreak Lost Hope Broken Faith](../games/0/08a9c02dda9c41a59230704e270c4c01.md) | 12 | 1,000 |
+| [Outbreak The New Nightmare Revisited](../games/e/e38a7072e15a4f528887c3b887a8bb89.md) | 12 | 1,000 |
+| [Outbreak The Nightmare Chronicles Reinvestigated](../games/8/84675ff3b0cd4f26bf1f655da1b6265f.md) | 12 | 1,000 |
 | [Outcore - Desktop Adventure](../games/o/outcore_-_desktop_adventure.md) | 26 | 1,000 |
 | [Outliver: Tribulation](../games/1/13e30807efce43ea9e04ac1c45668d8e.md) | 21 | 1,000 |
 | [Outward Definitive Edition](../games/o/outward.md) | 42 | 1,000 |

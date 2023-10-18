@@ -2,9 +2,9 @@
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 66.67% |
-| 3 | [The Riflemen](games/t/the_riflemen.md) | 47.44% |
-| 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.15% |
-| 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.89% |
+| 3 | [The Riflemen](games/t/the_riflemen.md) | 47.41% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.89% |
+| 5 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.77% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 33.04% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -49,7 +49,7 @@
 | 47 | [Sonic Origins](games/s/sonic_origins.md) | 7.45% |
 | 48 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.33% |
 | 49 | [Time Loader](games/t/time_loader.md) | 7.20% |
-| 50 | [Scorn](games/s/scorn.md) | 7.04% |
+| 50 | [Scorn](games/s/scorn.md) | 7.03% |
 | 51 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.56% |
 | 52 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.38% |
 | 53 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.29% |
@@ -70,7 +70,7 @@
 | 68 | [ZZT!](games/z/zzt!.md) | 4.47% |
 | 69 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.43% |
 | 70 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.15% |
-| 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.13% |
+| 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.14% |
 | 72 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.08% |
 | 73 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.00% |
 | 74 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.81% |
@@ -122,8 +122,8 @@
 | 119 | [Frogun](games/f/frogun.md) | 1.79% |
 | 121 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 1.75% |
 | 122 | [Somerville](games/s/somerville.md) | 1.70% |
-| 123 | [Five Dates](games/f/five_dates.md) | 1.60% |
-| 124 | [Late Shift](games/l/late_shift.md) | 1.59% |
+| 123 | [Five Dates](games/f/five_dates.md) | 1.59% |
+| 123 | [Late Shift](games/l/late_shift.md) | 1.59% |
 | 125 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.48% |
 | 125 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
 | 127 | [Iron Danger](games/i/iron_danger.md) | 1.43% |
@@ -139,12 +139,12 @@
 | 137 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.16% |
 | 138 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.12% |
 | 138 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.12% |
-| 140 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 1.10% |
-| 141 | [Trifox](games/t/trifox.md) | 1.08% |
-| 142 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.07% |
+| 140 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 1.09% |
+| 141 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.07% |
+| 142 | [Trifox](games/t/trifox.md) | 1.06% |
 | 143 | [Adios](games/a/adios.md) | 1.05% |
 | 143 | [Infindustry](games/i/infindustry.md) | 1.05% |
-| 143 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.05% |
+| 145 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.04% |
 | 146 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.02% |
 | 147 | [Sable](games/s/sable.md) | 1.01% |
 | 148 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.99% |
@@ -184,8 +184,8 @@
 | 181 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.46% |
 | 181 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
 | 181 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.46% |
-| 181 | [Them and Us](games/t/them_and_us.md) | 0.46% |
-| 186 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.45% |
+| 185 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.45% |
+| 185 | [Them and Us](games/t/them_and_us.md) | 0.45% |
 | 187 | [It Takes Two](games/i/it_takes_two.md) | 0.44% |
 | 188 | [Tchia](games/t/tchia.md) | 0.43% |
 | 189 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.42% |
@@ -362,6 +362,7 @@
 | 316 | [Butchers Don't Surf!](games/b/butchers_don't_surf!.md) | 0.00% |
 | 316 | [Cafe Owner Simulator](games/c/cafe_owner_simulator.md) | 0.00% |
 | 316 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 0.00% |
+| 316 | [Candle Knight](games/9/909c6e888c164c78a1811afccedbc3a7.md) | 0.00% |
 | 316 | [Cepheus Protocol](games/c/cepheus_protocol.md) | 0.00% |
 | 316 | [Chaos Galaxy](games/c/chaos_galaxy.md) | 0.00% |
 | 316 | [Chased by Darkness](games/e/e6059b123f9045878919974afd435691.md) | 0.00% |
@@ -508,6 +509,7 @@
 | 316 | [Miniland Adventure](games/8/8900287f0941428abcdd1b92af29abce.md) | 0.00% |
 | 316 | [Model Builder](games/m/model_builder.md) | 0.00% |
 | 316 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 0.00% |
+| 316 | [Monmusu Gladiator](games/4/477b9d6ee98c4ff4a751a7289adbfcb2.md) | 0.00% |
 | 316 | [Monorail Stories](games/m/monorail_stories.md) | 0.00% |
 | 316 | [Monster Outbreak](games/m/monster_outbreak.md) | 0.00% |
 | 316 | [Moonglow Bay](games/m/moonglow_bay.md) | 0.00% |
@@ -527,7 +529,11 @@
 | 316 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 0.00% |
 | 316 | [One Hand Clapping](games/o/one_hand_clapping.md) | 0.00% |
 | 316 | [One Military Camp](games/o/one_military_camp.md) | 0.00% |
+| 316 | [Outbreak Contagious Memories](games/c/c5ca2bb23eed43d29d7e4cbc164513a4.md) | 0.00% |
+| 316 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 0.00% |
+| 316 | [Outbreak Epidemic Viral Terror](games/e/ef23a06e26f1497a8a39ff8d70e66833.md) | 0.00% |
 | 316 | [Outbreak Lost Hope Broken Faith](games/0/08a9c02dda9c41a59230704e270c4c01.md) | 0.00% |
+| 316 | [Outbreak The Nightmare Chronicles Reinvestigated](games/8/84675ff3b0cd4f26bf1f655da1b6265f.md) | 0.00% |
 | 316 | [Outcore - Desktop Adventure](games/o/outcore_-_desktop_adventure.md) | 0.00% |
 | 316 | [Outliver: Tribulation](games/1/13e30807efce43ea9e04ac1c45668d8e.md) | 0.00% |
 | 316 | [Overpass 2](games/e/e7a7820e516744b88212c1f78aa895df.md) | 0.00% |
@@ -673,4 +679,4 @@
 | 316 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 316 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 316 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,412 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,433 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
