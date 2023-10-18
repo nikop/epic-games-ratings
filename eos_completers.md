@@ -2,9 +2,9 @@
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 66.67% |
-| 3 | [The Riflemen](games/t/the_riflemen.md) | 47.61% |
+| 3 | [The Riflemen](games/t/the_riflemen.md) | 47.58% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.15% |
-| 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.99% |
+| 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.82% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 32.74% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -64,8 +64,8 @@
 | 62 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.92% |
 | 63 | [JARS](games/j/jars.md) | 4.82% |
 | 64 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
-| 65 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.72% |
-| 66 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.71% |
+| 65 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.71% |
+| 65 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.71% |
 | 67 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.55% |
 | 68 | [ZZT!](games/z/zzt!.md) | 4.47% |
 | 69 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.43% |
@@ -117,9 +117,9 @@
 | 115 | [Night Book](games/n/night_book.md) | 1.84% |
 | 115 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 117 | [Sifu](games/s/sifu.md) | 1.81% |
-| 118 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.80% |
 | 118 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.80% |
-| 120 | [Frogun](games/f/frogun.md) | 1.79% |
+| 119 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.79% |
+| 119 | [Frogun](games/f/frogun.md) | 1.79% |
 | 121 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 1.75% |
 | 122 | [Somerville](games/s/somerville.md) | 1.70% |
 | 123 | [Five Dates](games/f/five_dates.md) | 1.60% |
@@ -243,11 +243,11 @@
 | 239 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
 | 242 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
 | 242 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.12% |
+| 242 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.12% |
 | 242 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
 | 242 | [Shop Titans](games/s/shop_titans.md) | 0.12% |
-| 246 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.11% |
-| 246 | [Outward Definitive Edition](games/o/outward.md) | 0.11% |
-| 246 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.11% |
+| 247 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.11% |
+| 247 | [Outward Definitive Edition](games/o/outward.md) | 0.11% |
 | 249 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
 | 249 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.10% |
 | 249 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.10% |
@@ -673,4 +673,4 @@
 | 316 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 316 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 316 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,411 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,412 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
