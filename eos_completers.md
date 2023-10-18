@@ -125,7 +125,7 @@
 | 122 | [Late Shift](games/l/late_shift.md) | 1.60% |
 | 124 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.48% |
 | 124 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
-| 126 | [Iron Danger](games/i/iron_danger.md) | 1.44% |
+| 126 | [Iron Danger](games/i/iron_danger.md) | 1.43% |
 | 127 | [Poosh XL](games/p/poosh_xl.md) | 1.38% |
 | 128 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.37% |
 | 128 | [Ten Dates](games/t/ten_dates.md) | 1.37% |

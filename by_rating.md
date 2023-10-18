@@ -157,7 +157,7 @@
 | 150 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.74 | 0 | 537 |
 | 150 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 7,242 | 52 |
 | 150 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.74 | 0 | 537 |
-| 150 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 39,923 | 13 |
+| 150 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 39,978 | 13 |
 | 150 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.74 | 0 | 537 |
 | 150 | [Tchia](games/t/tchia.md) | 4.74 | 0 | 537 |
 | 150 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 0 | 537 |
@@ -356,7 +356,7 @@
 | 339 | [Witchfire](games/w/witchfire.md) | 4.63 | 36 | 453 |
 | 355 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.62 | 0 | 537 |
 | 355 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.62 | 387 | 225 |
-| 355 | [Dead Space](games/d/dead_space.md) | 4.62 | 104 | 341 |
+| 355 | [Dead Space](games/d/dead_space.md) | 4.62 | 105 | 340 |
 | 355 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 282 | 249 |
 | 355 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 34 | 463 |
 | 355 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 87 | 366 |

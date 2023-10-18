@@ -12,7 +12,7 @@
 | 10 | [VALORANT](games/v/valorant.md) | 75,914 | 4.53 | 528 |
 | 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 62,301 | 4.58 | 439 |
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 46,932 | 4.61 | 378 |
-| 13 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 39,923 | 4.74 | 150 |
+| 13 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 39,978 | 4.74 | 150 |
 | 14 | [Destiny 2](games/d/destiny_2.md) | 38,434 | 4.49 | 593 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 34,059 | 4.51 | 552 |
 | 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 29,041 | 4.64 | 324 |
@@ -339,8 +339,8 @@
 | 336 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 111 | 4.50 | 575 |
 | 336 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 111 | 4.44 | 660 |
 | 339 | [Phantom Brigade](games/p/phantom_brigade.md) | 107 | 4.61 | 378 |
+| 340 | [Dead Space](games/d/dead_space.md) | 105 | 4.62 | 355 |
 | 340 | [Just Die Already](games/j/just_die_already.md) | 105 | 4.52 | 540 |
-| 341 | [Dead Space](games/d/dead_space.md) | 104 | 4.62 | 355 |
 | 342 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 103 | 4.72 | 179 |
 | 342 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 103 | 3.91 | 993 |
 | 342 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 103 | 4.76 | 119 |
