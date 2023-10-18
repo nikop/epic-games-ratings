@@ -2,7 +2,7 @@
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 66.67% |
-| 3 | [The Riflemen](games/t/the_riflemen.md) | 47.72% |
+| 3 | [The Riflemen](games/t/the_riflemen.md) | 47.68% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.15% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.99% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
@@ -46,7 +46,7 @@
 | 44 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 45 | [Ravenlok](games/r/ravenlok.md) | 7.66% |
 | 46 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.51% |
-| 47 | [Sonic Origins](games/s/sonic_origins.md) | 7.47% |
+| 47 | [Sonic Origins](games/s/sonic_origins.md) | 7.46% |
 | 48 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.33% |
 | 49 | [Time Loader](games/t/time_loader.md) | 7.20% |
 | 50 | [Scorn](games/s/scorn.md) | 7.04% |
@@ -107,8 +107,8 @@
 | 105 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.41% |
 | 106 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.39% |
 | 107 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.37% |
-| 108 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.30% |
-| 109 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.29% |
+| 108 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.29% |
+| 108 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.29% |
 | 110 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.22% |
 | 111 | [Bloodshore](games/b/bloodshore.md) | 2.12% |
 | 112 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.98% |
@@ -186,7 +186,7 @@
 | 181 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.46% |
 | 181 | [Them and Us](games/t/them_and_us.md) | 0.46% |
 | 186 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.45% |
-| 186 | [It Takes Two](games/i/it_takes_two.md) | 0.45% |
+| 187 | [It Takes Two](games/i/it_takes_two.md) | 0.44% |
 | 188 | [Tchia](games/t/tchia.md) | 0.43% |
 | 189 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.42% |
 | 189 | [Wildermyth](games/w/wildermyth.md) | 0.42% |
