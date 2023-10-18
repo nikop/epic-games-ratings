@@ -11,8 +11,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Single Player Game | 3.00% | ~444 |
 | Able | 2.00% | ~296 |
 | Architect | 2.00% | ~296 |
+| Glorious | 2.00% | ~296 |
 | Good | 2.00% | ~296 |
 | Intrepid | 2.00% | ~296 |
+| Just | 2.00% | ~296 |
 | Learned | 2.00% | ~296 |
 | Mason | 2.00% | ~296 |
 | Noble | 2.00% | ~296 |
@@ -30,9 +32,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Brilliant | 1.00% | ~148 |
 | Enlightened | 1.00% | ~148 |
 | Fountainhead | 1.00% | ~148 |
-| Glorious | 1.00% | ~148 |
 | Great | 1.00% | ~148 |
-| Just | 1.00% | ~148 |
 | Keystone | 1.00% | ~148 |
 | Magnificent | 1.00% | ~148 |
 | Valiant | 1.00% | ~148 |
@@ -87,6 +87,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Patrons | 0.60% | ~89 |
 | Riders | 0.60% | ~89 |
 | Circus Maximus | 0.60% | ~89 |
+| Temple of Solomon | 0.60% | ~89 |
 | Pantheon | 0.60% | ~89 |
 | Via Recta Souk | 0.60% | ~89 |
 | Greece | 0.60% | ~89 |
@@ -104,8 +105,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Iron | 0.50% | ~74 |
 | Hagia Sophia | 0.50% | ~74 |
 | Church of the Holy Sepulchre | 0.50% | ~74 |
-| Temple of Solomon | 0.50% | ~74 |
 | Learn to Play 4 | 0.50% | ~74 |
+| Babylonia | 0.50% | ~74 |
 | Economic Reform | 0.50% | ~74 |
 | Military Prestige | 0.50% | ~74 |
 | Dualism | 0.50% | ~74 |
@@ -119,7 +120,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Devout | 0.40% | ~59 |
 | Ready | 0.40% | ~59 |
 | Clerics | 0.40% | ~59 |
-| Babylonia | 0.40% | ~59 |
 | Carthage | 0.40% | ~59 |
 | Egypt | 0.40% | ~59 |
 | Rome | 0.40% | ~59 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,786 (Ranked 135)  
+Progressed: 14,788 (Ranked 135)  
 Completed: 5 (0.03%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -530,7 +530,7 @@ Completed: 5 (0.03%) (Ranked 285)
 | 2023-10-15 | 14,732 | 5 |
 | 2023-10-16 | 14,747 | 5 |
 | 2023-10-17 | 14,775 | 5 |
-| 2023-10-18 | 14,786 | 5 |
+| 2023-10-18 | 14,788 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,846 (Ranked 211)  

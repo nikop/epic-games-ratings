@@ -10,17 +10,16 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Marshlands | 6.00% | ~1,018 |
 | Taking Action | 6.00% | ~1,018 |
 | No Deaths | 6.00% | ~1,018 |
-| Overcoming Difficulty | 5.00% | ~848 |
-| Fertile Meadows | 5.00% | ~848 |
-| Coral Forest | 5.00% | ~848 |
-| The Scarlet Orchard | 5.00% | ~848 |
+| Overcoming Difficulty | 5.00% | ~849 |
+| Fertile Meadows | 5.00% | ~849 |
+| Coral Forest | 5.00% | ~849 |
+| The Scarlet Orchard | 5.00% | ~849 |
 | Homesick | 4.00% | ~679 |
 | Bandit Camp | 4.00% | ~679 |
 | Barren Lands | 4.00% | ~679 |
 | Ancient Battleground | 4.00% | ~679 |
 | Sparkdew Crystals | 4.00% | ~679 |
 | Levitating Monument | 4.00% | ~679 |
-| Monastery of the Holy Flame | 4.00% | ~679 |
 | Royal Outpost | 4.00% | ~679 |
 | Lost Colonies | 4.00% | ~679 |
 | Statue of the Forefathers | 4.00% | ~679 |
@@ -34,6 +33,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Forbidden Lands | 3.00% | ~509 |
 | Haunted Forest | 3.00% | ~509 |
 | Flooded Mines | 3.00% | ~509 |
+| Monastery of the Holy Flame | 3.00% | ~509 |
 | Forsaken Gods Temple | 3.00% | ~509 |
 | Corrosive Torrent | 3.00% | ~509 |
 | Like a Machine | 3.00% | ~509 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Higher Needs | 0.20% | ~34 |
 | Paradise | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,970 (Ranked 131)  
+Progressed: 16,972 (Ranked 131)  
 Completed: 52 (0.31%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 52 (0.31%) (Ranked 203)
 | 2023-10-15 | 16,935 | 52 |
 | 2023-10-16 | 16,948 | 52 |
 | 2023-10-17 | 16,958 | 52 |
-| 2023-10-18 | 16,970 | 52 |
+| 2023-10-18 | 16,972 | 52 |
 ## Awards
 Max (Quickly Understood Controls): 436  (Ranked 213)  
 Sum: 3,192 (Ranked 169)  

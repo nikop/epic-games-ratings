@@ -3,11 +3,11 @@
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
   "Ranking_Rating": 630,
-  "Ranking_Popularity": 538,
-  "Ranking_PopularitySum": 538,
+  "Ranking_Popularity": 539,
+  "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 96,
+  "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -410,9 +410,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22346,
+  "EOS_Progressed": 22348,
   "EOS_Completed": 440,
-  "EOS_NewPlayers": 439,
+  "EOS_NewPlayers": 436,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.97,
   "EosHistory": [
@@ -19890,6 +19890,11 @@
       "Time": "2023-10-18T20:04:59.7905571+00:00",
       "NumProgressed": 22346,
       "NumCompleted": 440
+    },
+    {
+      "Time": "2023-10-18T21:05:12.50404+00:00",
+      "NumProgressed": 22348,
+      "NumCompleted": 440
     }
   ],
   "TotalAchievements": 20,
@@ -19917,7 +19922,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3128
+      "UsersEstimate": 3129
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -20021,7 +20026,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 17206
+      "UsersEstimate": 17208
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -20029,7 +20034,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 6033
+      "UsersEstimate": 6034
     },
     {
       "ID": "NORTH_FINISHED",
@@ -20053,22 +20058,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 4022
+      "UsersEstimate": 4023
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 22346,
+      "Progressed": 22348,
       "Completed": 440
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-18T20:04:59.7905562+00:00",
+  "LastChanged_Achievements": "2023-10-18T21:05:12.5040393+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:17.0806119+00:00",
-  "LastUpdate_Ratings": "2023-10-18T19:59:21.4502629+00:00",
-  "LastUpdate_Achievements": "2023-10-18T20:04:59.7907859+00:00"
+  "LastUpdate_Ratings": "2023-10-18T20:59:40.3377009+00:00",
+  "LastUpdate_Achievements": "2023-10-18T21:05:12.5041793+00:00"
 }

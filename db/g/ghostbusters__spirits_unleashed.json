@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2484,9 +2484,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26580,
+  "EOS_Progressed": 26586,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 230,
+  "EOS_NewPlayers": 236,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -15334,6 +15334,11 @@
       "Time": "2023-10-18T20:04:24.4992802+00:00",
       "NumProgressed": 26580,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-10-18T21:04:31.1982204+00:00",
+      "NumProgressed": 26586,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 51,
@@ -15369,7 +15374,7 @@
       "Name": "We have the best insurance",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "Catostrophic_Destroyer",
@@ -15609,7 +15614,7 @@
       "Name": "Seasoned",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "Side_Hustle",
@@ -15649,7 +15654,7 @@
       "Name": "Stylish",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "Summoner",
@@ -15752,7 +15757,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26580,
+      "Progressed": 26586,
       "Completed": 59
     }
   ],
@@ -15760,8 +15765,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-18T18:02:10.404227+00:00",
-  "LastChanged_Achievements": "2023-10-18T20:04:24.4992795+00:00",
+  "LastChanged_Achievements": "2023-10-18T21:04:31.1982196+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:17.9420656+00:00",
-  "LastUpdate_Ratings": "2023-10-18T20:00:20.704349+00:00",
-  "LastUpdate_Achievements": "2023-10-18T20:04:24.4994928+00:00"
+  "LastUpdate_Ratings": "2023-10-18T21:00:49.4168344+00:00",
+  "LastUpdate_Achievements": "2023-10-18T21:04:31.1984508+00:00"
 }

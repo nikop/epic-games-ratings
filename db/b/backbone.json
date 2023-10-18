@@ -3,12 +3,12 @@
   "Name": "Tails Noir",
   "ProductSlug": "backbone",
   "Ranking_Rating": 785,
-  "Ranking_Popularity": 538,
-  "Ranking_PopularitySum": 538,
+  "Ranking_Popularity": 539,
+  "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 675,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 400,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-06-08T15:00:00+00:00",
     "PcReleaseDate": "2021-06-08T15:00:00+00:00",
@@ -118,6 +118,6 @@
   "FirstSeenRating": "2022-10-07T12:31:08.1263406+00:00",
   "LastChanged": "2023-06-11T06:01:49.7670736+00:00",
   "LastUpdate_AppInfo": "2023-10-14T10:57:26.4858449+00:00",
-  "LastUpdate_Ratings": "2023-10-18T19:57:57.064976+00:00",
-  "LastUpdate_Achievements": "2023-10-18T20:06:26.1706848+00:00"
+  "LastUpdate_Ratings": "2023-10-18T20:57:54.1173835+00:00",
+  "LastUpdate_Achievements": "2023-10-18T21:06:55.8959175+00:00"
 }

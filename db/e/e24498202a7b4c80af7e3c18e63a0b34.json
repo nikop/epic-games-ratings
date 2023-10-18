@@ -3,11 +3,11 @@
   "Name": "Horizon Chase 2",
   "ProductSlug": "horizon-chase-2",
   "Ranking_Rating": 139,
-  "Ranking_Popularity": 538,
-  "Ranking_PopularitySum": 538,
+  "Ranking_Popularity": 539,
+  "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -88,7 +88,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6236,
+  "EOS_Progressed": 6237,
   "EOS_Completed": 26,
   "EOS_NewPlayers": 259,
   "EOS_NewCompleters": 2,
@@ -3663,6 +3663,11 @@
       "Time": "2023-10-18T20:08:11.601981+00:00",
       "NumProgressed": 6236,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-10-18T21:09:01.8423098+00:00",
+      "NumProgressed": 6237,
+      "NumCompleted": 26
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -3675,7 +3680,7 @@
       "Name": "First of Many",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 5363
+      "UsersEstimate": 5364
     },
     {
       "ID": "achievement_01_02",
@@ -3683,7 +3688,7 @@
       "Name": "Tournament Star",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1123
     },
     {
       "ID": "achievement_01_03",
@@ -3691,7 +3696,7 @@
       "Name": "Brand New Ride",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3866
+      "UsersEstimate": 3867
     },
     {
       "ID": "achievement_01_04",
@@ -3699,7 +3704,7 @@
       "Name": "Bzzzt",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 4490
+      "UsersEstimate": 4491
     },
     {
       "ID": "achievement_01_05",
@@ -3723,7 +3728,7 @@
       "Name": "Car Workshop",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 2494
+      "UsersEstimate": 2495
     },
     {
       "ID": "achievement_01_08",
@@ -3731,7 +3736,7 @@
       "Name": "Trophy Collector",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4552
+      "UsersEstimate": 4553
     },
     {
       "ID": "achievement_01_09",
@@ -3739,7 +3744,7 @@
       "Name": "Right Foot",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 2619
+      "UsersEstimate": 2620
     },
     {
       "ID": "achievement_01_10",
@@ -3747,7 +3752,7 @@
       "Name": "Beat the Clock",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3305
+      "UsersEstimate": 3306
     },
     {
       "ID": "achievement_02_01",
@@ -3803,7 +3808,7 @@
       "Name": "Whale of a Time",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 2993
+      "UsersEstimate": 2994
     },
     {
       "ID": "achievement_02_08",
@@ -3978,7 +3983,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 6236,
+      "Progressed": 6237,
       "Completed": 26
     }
   ],
@@ -3986,8 +3991,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-10-15T01:47:00.4126107+00:00",
-  "LastChanged_Achievements": "2023-10-18T20:08:11.6019804+00:00",
+  "LastChanged_Achievements": "2023-10-18T21:09:01.8423092+00:00",
   "LastUpdate_AppInfo": "2023-10-12T18:57:03.8112557+00:00",
-  "LastUpdate_Ratings": "2023-10-18T19:58:02.5741024+00:00",
-  "LastUpdate_Achievements": "2023-10-18T20:08:11.6020478+00:00"
+  "LastUpdate_Ratings": "2023-10-18T20:58:00.9513541+00:00",
+  "LastUpdate_Achievements": "2023-10-18T21:09:01.8423912+00:00"
 }

@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3528,
+  "EOS_Progressed": 3529,
   "EOS_Completed": 26,
   "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 3,
@@ -8196,6 +8196,11 @@
       "Time": "2023-10-18T20:06:41.7277296+00:00",
       "NumProgressed": 3528,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-10-18T21:07:14.4485917+00:00",
+      "NumProgressed": 3529,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 16,
@@ -8255,7 +8260,7 @@
       "Name": "Architecture - unlocked",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 1164
+      "UsersEstimate": 1165
     },
     {
       "ID": "ach_bomb",
@@ -8269,9 +8274,9 @@
       "ID": "ach_color_splash",
       "SetID": "3h4khpo",
       "Name": "Color flood",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 65,
-      "UsersEstimate": 1094
+      "UsersEstimate": 1129
     },
     {
       "ID": "ach_first_picture",
@@ -8303,7 +8308,7 @@
       "Name": "Game opened",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2646
+      "UsersEstimate": 2647
     },
     {
       "ID": "ach_magic_wand",
@@ -8334,14 +8339,14 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 3528,
+      "Progressed": 3529,
       "Completed": 26
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-10-18T20:06:41.7277289+00:00",
+  "LastChanged_Achievements": "2023-10-18T21:07:14.448591+00:00",
   "LastUpdate_AppInfo": "2023-10-13T16:57:41.3474245+00:00",
-  "LastUpdate_Ratings": "2023-10-18T20:01:17.6952461+00:00",
-  "LastUpdate_Achievements": "2023-10-18T20:06:41.7278421+00:00"
+  "LastUpdate_Ratings": "2023-10-18T21:02:01.5414333+00:00",
+  "LastUpdate_Achievements": "2023-10-18T21:07:14.4487029+00:00"
 }

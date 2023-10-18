@@ -2,7 +2,7 @@
   "ID": "1b737464d3c441f8956315433be02d3b",
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
-  "Ranking_Rating": 878,
+  "Ranking_Rating": 877,
   "Ranking_Popularity": 323,
   "Ranking_PopularitySum": 272,
   "Ranking_EOS_Progress": 118,
@@ -1275,9 +1275,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 26365,
+  "EOS_Progressed": 26370,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 530,
+  "EOS_NewPlayers": 534,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -20740,6 +20740,11 @@
       "Time": "2023-10-18T20:06:14.3649872+00:00",
       "NumProgressed": 26365,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2023-10-18T21:06:41.7805761+00:00",
+      "NumProgressed": 26370,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 22,
@@ -20823,7 +20828,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2109
+      "UsersEstimate": 2110
     },
     {
       "ID": "1025",
@@ -20855,7 +20860,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4746
+      "UsersEstimate": 4747
     },
     {
       "ID": "1029",
@@ -20863,7 +20868,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2109
+      "UsersEstimate": 2110
     },
     {
       "ID": "1030",
@@ -20871,7 +20876,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5273
+      "UsersEstimate": 5274
     },
     {
       "ID": "1031",
@@ -20879,7 +20884,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3691
+      "UsersEstimate": 3692
     },
     {
       "ID": "1032",
@@ -20887,7 +20892,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 10546
+      "UsersEstimate": 10548
     },
     {
       "ID": "1033",
@@ -20911,7 +20916,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3427
+      "UsersEstimate": 3428
     },
     {
       "ID": "1036",
@@ -20919,22 +20924,22 @@
       "Name": "A Long Journey",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2109
+      "UsersEstimate": 2110
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 26365,
+      "Progressed": 26370,
       "Completed": 70
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-09-03T23:00:19.1993338+00:00",
-  "LastChanged_Achievements": "2023-10-18T20:06:14.3649867+00:00",
+  "LastChanged_Achievements": "2023-10-18T21:06:41.7805755+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:20.5941656+00:00",
-  "LastUpdate_Ratings": "2023-10-18T20:01:14.2520477+00:00",
-  "LastUpdate_Achievements": "2023-10-18T20:06:14.3651512+00:00"
+  "LastUpdate_Ratings": "2023-10-18T21:01:57.0670383+00:00",
+  "LastUpdate_Achievements": "2023-10-18T21:06:41.7808039+00:00"
 }

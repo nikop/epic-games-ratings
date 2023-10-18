@@ -3,8 +3,8 @@
   "Name": "Adios",
   "ProductSlug": "adios-b378b4",
   "Ranking_Rating": 1016,
-  "Ranking_Popularity": 538,
-  "Ranking_PopularitySum": 538,
+  "Ranking_Popularity": 539,
+  "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 143,
   "Ranking_EOS_NewPlayers": 85,
@@ -114,9 +114,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 76131,
+  "EOS_Progressed": 76133,
   "EOS_Completed": 799,
-  "EOS_NewPlayers": 593,
+  "EOS_NewPlayers": 591,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -20344,6 +20344,11 @@
       "Time": "2023-10-18T20:06:19.4642463+00:00",
       "NumProgressed": 76131,
       "NumCompleted": 799
+    },
+    {
+      "Time": "2023-10-18T21:06:47.7003783+00:00",
+      "NumProgressed": 76133,
+      "NumCompleted": 799
     }
   ],
   "TotalAchievements": 25,
@@ -20427,7 +20432,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 15226
+      "UsersEstimate": 15227
     },
     {
       "ID": "Hearty",
@@ -20547,14 +20552,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6090
+      "UsersEstimate": 6091
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 76131,
+      "Progressed": 76133,
       "Completed": 799
     }
   ],
@@ -20562,8 +20567,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-10-18T20:06:19.4642457+00:00",
+  "LastChanged_Achievements": "2023-10-18T21:06:47.7003775+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:21.8706974+00:00",
-  "LastUpdate_Ratings": "2023-10-18T20:01:18.2479778+00:00",
-  "LastUpdate_Achievements": "2023-10-18T20:06:19.4644753+00:00"
+  "LastUpdate_Ratings": "2023-10-18T21:02:02.3434206+00:00",
+  "LastUpdate_Achievements": "2023-10-18T21:06:47.7006238+00:00"
 }

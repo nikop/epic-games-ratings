@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
     "PcReleaseDate": "2022-08-23T07:00:00+00:00",
@@ -3852,9 +3852,9 @@
       "Count": 1070
     }
   ],
-  "EOS_Progressed": 75418,
+  "EOS_Progressed": 75420,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 793,
+  "EOS_NewPlayers": 791,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -24257,6 +24257,11 @@
       "Time": "2023-10-18T20:04:51.9257277+00:00",
       "NumProgressed": 75418,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-18T21:05:03.0351946+00:00",
+      "NumProgressed": 75420,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -24284,7 +24289,7 @@
       "Name": "Quality Time",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 13575
+      "UsersEstimate": 13576
     },
     {
       "ID": "buy_1_thing_from_every_store",
@@ -24316,7 +24321,7 @@
       "Name": "Finders Keepers",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 18854
+      "UsersEstimate": 18855
     },
     {
       "ID": "complet_epilogue_mission",
@@ -24380,7 +24385,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 34692
+      "UsersEstimate": 34693
     },
     {
       "ID": "customize_a_vehicle",
@@ -24388,7 +24393,7 @@
       "Name": "Tune Up",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 24888
+      "UsersEstimate": 24889
     },
     {
       "ID": "customize_a_weapon",
@@ -24444,7 +24449,7 @@
       "Name": "A Young Empire",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18854
+      "UsersEstimate": 18855
     },
     {
       "ID": "empire_tier_3",
@@ -24452,7 +24457,7 @@
       "Name": "Power Players",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 14329
+      "UsersEstimate": 14330
     },
     {
       "ID": "empire_tier_4",
@@ -24484,7 +24489,7 @@
       "Name": "Work Ethic",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 17346
+      "UsersEstimate": 17347
     },
     {
       "ID": "fully_upgrade_1_vehicle",
@@ -24516,7 +24521,7 @@
       "Name": "Performance Review",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 27150
+      "UsersEstimate": 27151
     },
     {
       "ID": "hit_max_level",
@@ -24548,7 +24553,7 @@
       "Name": "Wrecking Ball",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 21117
+      "UsersEstimate": 21118
     },
     {
       "ID": "kill_tank_driver_with_rail",
@@ -24564,7 +24569,7 @@
       "Name": "Making a Name",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 26396
+      "UsersEstimate": 26397
     },
     {
       "ID": "one_third_purple",
@@ -24580,7 +24585,7 @@
       "Name": "Closet Space",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6033
+      "UsersEstimate": 6034
     },
     {
       "ID": "prank_coop_partner",
@@ -24691,22 +24696,22 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 75418,
+      "Progressed": 75420,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 47055,
-      "Completed": 4132
+      "Progressed": 47057,
+      "Completed": 4133
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-10-18T15:59:18.1995048+00:00",
-  "LastChanged_Achievements": "2023-10-18T20:04:51.9257271+00:00",
+  "LastChanged_Achievements": "2023-10-18T21:05:03.0351938+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:20.7071116+00:00",
-  "LastUpdate_Ratings": "2023-10-18T19:59:24.5776116+00:00",
-  "LastUpdate_Achievements": "2023-10-18T20:04:51.925928+00:00"
+  "LastUpdate_Ratings": "2023-10-18T20:59:44.1351819+00:00",
+  "LastUpdate_Achievements": "2023-10-18T21:05:03.0354919+00:00"
 }

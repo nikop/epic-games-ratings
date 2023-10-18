@@ -23,8 +23,8 @@ Rating: 4.67 (Ranked 264)
 | Reduce | 21.00% | ~697 |
 | Ups and Downs | 21.00% | ~697 |
 | Crucial Combo | 20.00% | ~664 |
+| One for the Book | 19.00% | ~630 |
 | Reuse | 18.00% | ~597 |
-| One for the Book | 18.00% | ~597 |
 | Proving Them Wrong | 17.00% | ~564 |
 | Gathering Dust | 16.00% | ~531 |
 | Oil and Water | 16.00% | ~531 |

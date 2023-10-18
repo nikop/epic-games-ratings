@@ -13,13 +13,13 @@ Rating: 4.57 (Ranked 457)
 | Data Archivist | 4.00% | ~564 |
 | Heal Thy Medic | 4.00% | ~564 |
 | Call it Even | 4.00% | ~564 |
+| Captain Drummer | 4.00% | ~564 |
 | Celebrations are in Order | 4.00% | ~564 |
 | Impossible Objects | 4.00% | ~564 |
 | Stogie for Fogey | 3.00% | ~423 |
 | Spore Taste | 3.00% | ~423 |
 | Martian Music | 3.00% | ~423 |
 | Khan's Revenge | 3.00% | ~423 |
-| Captain Drummer | 3.00% | ~423 |
 | Doctor Approved | 2.00% | ~282 |
 | Bottoms up! | 2.00% | ~282 |
 | Thorston Mayer | 2.00% | ~282 |
@@ -36,7 +36,7 @@ Rating: 4.57 (Ranked 457)
 | Scavenger Star | 0.20% | ~28 |
 | Data Collector | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,104 (Ranked 139)  
+Progressed: 14,105 (Ranked 139)  
 Completed: 26 (0.18%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 26 (0.18%) (Ranked 229)
 | 2023-10-15 | 14,020 | 24 |
 | 2023-10-16 | 14,049 | 26 |
 | 2023-10-17 | 14,078 | 26 |
-| 2023-10-18 | 14,104 | 26 |
+| 2023-10-18 | 14,105 | 26 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -3,12 +3,12 @@
   "Name": "F1\u00AE 23",
   "ProductSlug": "f1-23",
   "Ranking_Rating": 264,
-  "Ranking_Popularity": 538,
-  "Ranking_PopularitySum": 538,
+  "Ranking_Popularity": 539,
+  "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -384,7 +384,7 @@
   "Tags": [],
   "EOS_Progressed": 3318,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3449,9 +3449,9 @@
       "ID": "achievement_0040",
       "SetID": "9123ogc",
       "Name": "One for the Book",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 597
+      "UsersEstimate": 630
     },
     {
       "ID": "achievement_0041",
@@ -3538,8 +3538,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-10-14T15:01:06.7997095+00:00",
-  "LastChanged_Achievements": "2023-10-18T20:04:13.0018404+00:00",
+  "LastChanged_Achievements": "2023-10-18T21:04:17.2274715+00:00",
   "LastUpdate_AppInfo": "2023-10-14T13:56:56.8221835+00:00",
-  "LastUpdate_Ratings": "2023-10-18T20:02:17.7964778+00:00",
-  "LastUpdate_Achievements": "2023-10-18T20:04:13.0019066+00:00"
+  "LastUpdate_Ratings": "2023-10-18T21:02:40.5740896+00:00",
+  "LastUpdate_Achievements": "2023-10-18T21:04:17.2275466+00:00"
 }

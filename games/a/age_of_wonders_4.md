@@ -39,13 +39,13 @@ Rating: 4.61 (Ranked 378)
 | Eternal Lord | 3.00% | ~157 |
 | Crimson Caldera | 3.00% | ~157 |
 | The Eternal Court | 3.00% | ~157 |
-| I've Got Everything I Need Right Here | 2.00% | ~104 |
-| The Magic That Empowers Me! | 2.00% | ~104 |
-| Jack of All Tomes | 2.00% | ~104 |
-| Pruning for Progress | 2.00% | ~104 |
-| Grexolis | 2.00% | ~104 |
-| One for All, All for One | 2.00% | ~104 |
-| Duality | 2.00% | ~104 |
+| I've Got Everything I Need Right Here | 2.00% | ~105 |
+| The Magic That Empowers Me! | 2.00% | ~105 |
+| Jack of All Tomes | 2.00% | ~105 |
+| Pruning for Progress | 2.00% | ~105 |
+| Grexolis | 2.00% | ~105 |
+| One for All, All for One | 2.00% | ~105 |
+| Duality | 2.00% | ~105 |
 | Manufactured War | 1.00% | ~52 |
 | Snap Out of It! | 0.90% | ~47 |
 | Betrayal Most Foul | 0.60% | ~31 |
@@ -56,7 +56,7 @@ Rating: 4.61 (Ranked 378)
 | Master of Evilness | 0.10% | ~5 |
 | The Grey Wizard | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,225 (Ranked 173)  
+Progressed: 5,226 (Ranked 173)  
 Completed: 6 (0.11%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,10 +207,10 @@ Completed: 6 (0.11%) (Ranked 247)
 | 2023-10-13 | 5,216 | 6 |
 | 2023-10-14 | 5,219 | 6 |
 | 2023-10-17 | 5,221 | 6 |
-| 2023-10-18 | 5,225 | 6 |
+| 2023-10-18 | 5,226 | 6 |
 ## Awards
-Max (Great for Beginners): 26  (Ranked 500)  
-Sum: 26 (Ranked 508)  
+Max (Great for Beginners): 26  (Ranked 501)  
+Sum: 26 (Ranked 509)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |

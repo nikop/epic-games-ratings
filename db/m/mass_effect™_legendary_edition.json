@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -2027,9 +2027,9 @@
       "ID": "achievement_120",
       "SetID": "d252ncf",
       "Name": "Paramour I",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 353
+      "UsersEstimate": 361
     },
     {
       "ID": "achievement_121",
@@ -2283,17 +2283,17 @@
       "ID": "achievement_35",
       "SetID": "d252ncf",
       "Name": "Mission Accomplished",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 125,
-      "UsersEstimate": 199
+      "UsersEstimate": 206
     },
     {
       "ID": "achievement_36",
       "SetID": "b9pe172",
       "Name": "Missing in Action",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 316
+      "UsersEstimate": 324
     },
     {
       "ID": "achievement_37",
@@ -2339,9 +2339,9 @@
       "ID": "achievement_41",
       "SetID": "b9pe172",
       "Name": "Against All Odds",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 199
+      "UsersEstimate": 206
     },
     {
       "ID": "achievement_42",
@@ -2863,8 +2863,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-18T20:06:17.8266864+00:00",
+  "LastChanged_Achievements": "2023-10-18T21:06:45.9391314+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:30.4071338+00:00",
-  "LastUpdate_Ratings": "2023-10-18T20:02:13.5976602+00:00",
-  "LastUpdate_Achievements": "2023-10-18T20:06:17.8268912+00:00"
+  "LastUpdate_Ratings": "2023-10-18T21:02:34.3324288+00:00",
+  "LastUpdate_Achievements": "2023-10-18T21:06:45.9395619+00:00"
 }

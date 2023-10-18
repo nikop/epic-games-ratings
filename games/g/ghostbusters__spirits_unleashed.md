@@ -5,7 +5,7 @@ Rating: 4.50 (Ranked 575)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 3.00% | ~797 |
+| Stylish | 3.00% | ~798 |
 | Advancement | 2.00% | ~532 |
 | I collect Spores, Molds, and Fungi | 2.00% | ~532 |
 | Discovery | 2.00% | ~532 |
@@ -34,8 +34,8 @@ Rating: 4.50 (Ranked 575)
 | Stunner | 0.80% | ~213 |
 | Legions | 0.70% | ~186 |
 | Pesky Jerks | 0.70% | ~186 |
-| We have the best insurance | 0.60% | ~159 |
-| Seasoned | 0.60% | ~159 |
+| We have the best insurance | 0.60% | ~160 |
+| Seasoned | 0.60% | ~160 |
 | Collector | 0.50% | ~133 |
 | Diabolical | 0.50% | ~133 |
 | Escape Artist | 0.50% | ~133 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 575)
 | Mycophile | 0.10% | ~27 |
 | Ultimate Defense | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,580 (Ranked 117)  
+Progressed: 26,586 (Ranked 117)  
 Completed: 59 (0.22%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 59 (0.22%) (Ranked 219)
 | 2023-10-15 | 26,505 | 58 |
 | 2023-10-16 | 26,537 | 58 |
 | 2023-10-17 | 26,559 | 58 |
-| 2023-10-18 | 26,580 | 59 |
+| 2023-10-18 | 26,586 | 59 |
 ## Awards
 Max (Great for Quick Sessions): 264  (Ranked 257)  
 Sum: 2,405 (Ranked 188)  

@@ -20,6 +20,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalism Ho! | 2.00% | ~2,756 |
 | Own the Means of Production | 2.00% | ~2,756 |
 | The Daily Grind | 1.00% | ~1,378 |
+| On the Path to Greatness | 1.00% | ~1,378 |
 | Bounty Hunters | 1.00% | ~1,378 |
 | Blank Page Syndrome | 1.00% | ~1,378 |
 | Demand for Supplies | 1.00% | ~1,378 |
@@ -33,7 +34,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Through Repetition, Perfection | 1.00% | ~1,378 |
 | Did we pack lunch? | 1.00% | ~1,378 |
 | Arcane Industries | 1.00% | ~1,378 |
-| On the Path to Greatness | 0.90% | ~1,240 |
 | Ascended | 0.90% | ~1,240 |
 | Research & Development | 0.90% | ~1,240 |
 | Vanity, Verily | 0.90% | ~1,240 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,786 (Ranked 73)  
+Progressed: 137,787 (Ranked 73)  
 Completed: 171 (0.12%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 171 (0.12%) (Ranked 242)
 | 2023-10-15 | 137,669 | 168 |
 | 2023-10-16 | 137,703 | 168 |
 | 2023-10-17 | 137,757 | 170 |
-| 2023-10-18 | 137,786 | 171 |
+| 2023-10-18 | 137,787 | 171 |
 ## Awards
 Max (Great for Beginners): 4,793  (Ranked 72)  
 Sum: 27,402 (Ranked 50)  

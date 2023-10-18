@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 219,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1340,9 +1340,9 @@
       "Count": 68
     }
   ],
-  "EOS_Progressed": 6257,
+  "EOS_Progressed": 6258,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -11095,6 +11095,11 @@
       "Time": "2023-10-18T20:04:46.2664702+00:00",
       "NumProgressed": 6257,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-10-18T21:04:56.6359882+00:00",
+      "NumProgressed": 6258,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -11106,7 +11111,7 @@
       "Name": "Get A Room",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 4693
+      "UsersEstimate": 4694
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -11130,7 +11135,7 @@
       "Name": "Nothing Wasted",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 813
+      "UsersEstimate": 814
     },
     {
       "ID": "HARVEST_CROPS_200",
@@ -11138,7 +11143,7 @@
       "Name": "Green Thumb",
       "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 4192
+      "UsersEstimate": 4193
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -11146,7 +11151,7 @@
       "Name": "Having A Field Day",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 4693
+      "UsersEstimate": 4694
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -11154,7 +11159,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 4505
+      "UsersEstimate": 4506
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -11210,7 +11215,7 @@
       "Name": "Don\u0027t Cry Wolf",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 813
+      "UsersEstimate": 814
     },
     {
       "ID": "KILL_RAIDER",
@@ -11242,7 +11247,7 @@
       "Name": "Fit For A King",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 2002
+      "UsersEstimate": 2003
     },
     {
       "ID": "STORE_NUTRITION_5000",
@@ -11266,7 +11271,7 @@
       "Name": "The First Day",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 4317
+      "UsersEstimate": 4318
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -11306,7 +11311,7 @@
       "Name": "The First Week",
       "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 3441
+      "UsersEstimate": 3442
     },
     {
       "ID": "UNLOCK_RESEARCH",
@@ -11314,7 +11319,7 @@
       "Name": "Novice Researcher",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 4192
+      "UsersEstimate": 4193
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -11330,7 +11335,7 @@
       "Name": "Luminary Researcher",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 2002
+      "UsersEstimate": 2003
     },
     {
       "ID": "UNLOCK_RESEARCH_3",
@@ -11338,7 +11343,7 @@
       "Name": "Onward",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 3566
+      "UsersEstimate": 3567
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -11353,15 +11358,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 6257,
+      "Progressed": 6258,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-10-17T14:58:37.8159769+00:00",
-  "LastChanged_Achievements": "2023-10-18T20:04:46.2664696+00:00",
+  "LastChanged_Achievements": "2023-10-18T21:04:56.6359874+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:39.747236+00:00",
-  "LastUpdate_Ratings": "2023-10-18T19:59:51.7815688+00:00",
-  "LastUpdate_Achievements": "2023-10-18T20:04:46.2665958+00:00"
+  "LastUpdate_Ratings": "2023-10-18T21:00:17.3912014+00:00",
+  "LastUpdate_Achievements": "2023-10-18T21:04:56.6361333+00:00"
 }

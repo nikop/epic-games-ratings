@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 285,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1893,7 +1893,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14786,
+  "EOS_Progressed": 14788,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 0,
@@ -14178,6 +14178,11 @@
       "Time": "2023-10-18T19:09:45.0449779+00:00",
       "NumProgressed": 14786,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-18T21:09:42.6090226+00:00",
+      "NumProgressed": 14788,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -14635,9 +14640,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_GLORIOUS",
       "SetID": "7l38kb8",
       "Name": "Glorious",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 148
+      "UsersEstimate": 296
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_GOOD",
@@ -14691,9 +14696,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_JUST",
       "SetID": "7l38kb8",
       "Name": "Just",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 296
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_KEYSTONE",
@@ -15571,9 +15576,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_JUDAISM",
       "SetID": "9201eeb",
       "Name": "Temple of Solomon",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 89
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_MANICHAEISM",
@@ -15795,9 +15800,9 @@
       "ID": "ACHIEVEMENT_NATION_BABYLONIA",
       "SetID": "7l38kb8",
       "Name": "Babylonia",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 74
     },
     {
       "ID": "ACHIEVEMENT_NATION_CARTHAGE",
@@ -16924,21 +16929,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14786,
+      "Progressed": 14788,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14786,
+      "Progressed": 14788,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-18T13:58:39.0543396+00:00",
-  "LastChanged_Achievements": "2023-10-18T20:09:15.4465134+00:00",
+  "LastChanged_Achievements": "2023-10-18T21:09:42.6090218+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:21.7880328+00:00",
-  "LastUpdate_Ratings": "2023-10-18T19:58:38.7816382+00:00",
-  "LastUpdate_Achievements": "2023-10-18T20:09:15.4478234+00:00"
+  "LastUpdate_Ratings": "2023-10-18T20:58:47.3022141+00:00",
+  "LastUpdate_Achievements": "2023-10-18T21:09:42.6103364+00:00"
 }

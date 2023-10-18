@@ -23,14 +23,14 @@
 | Asari Ally | 52.00% | ~383 |
 | Principled | 52.00% | ~383 |
 | Soldier Ally | 50.00% | ~368 |
+| Paramour I | 49.00% | ~361 |
 | Colonial Savior | 49.00% | ~361 |
-| Paramour I | 48.00% | ~353 |
 | Scientist | 47.00% | ~346 |
 | Krogan Ally | 46.00% | ~339 |
 | Merciless | 46.00% | ~339 |
+| Missing in Action | 44.00% | ~324 |
 | Very Elusive | 44.00% | ~324 |
 | Sentinel Ally | 43.00% | ~316 |
-| Missing in Action | 43.00% | ~316 |
 | Head Hunter | 43.00% | ~316 |
 | Scholar | 42.00% | ~309 |
 | Veteran | 41.00% | ~302 |
@@ -69,11 +69,11 @@
 | Doppelganger | 29.00% | ~213 |
 | Digital Exorcist | 29.00% | ~213 |
 | Mobilizer | 29.00% | ~213 |
+| Mission Accomplished | 28.00% | ~206 |
 | Suicide Mission | 28.00% | ~206 |
+| Against All Odds | 28.00% | ~206 |
 | Friend or Foe | 28.00% | ~206 |
 | First Aid Specialist | 27.00% | ~199 |
-| Mission Accomplished | 27.00% | ~199 |
-| Against All Odds | 27.00% | ~199 |
 | Untouchable | 26.00% | ~191 |
 | Eye of the Hurricane | 26.00% | ~191 |
 | Giant Killer | 26.00% | ~191 |

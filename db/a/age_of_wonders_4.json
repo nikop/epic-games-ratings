@@ -3,12 +3,12 @@
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
   "Ranking_Rating": 378,
-  "Ranking_Popularity": 500,
-  "Ranking_PopularitySum": 508,
+  "Ranking_Popularity": 501,
+  "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -360,9 +360,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 5225,
+  "EOS_Progressed": 5226,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -6375,6 +6375,11 @@
       "Time": "2023-10-18T20:09:16.4978265+00:00",
       "NumProgressed": 5225,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-18T21:09:43.566863+00:00",
+      "NumProgressed": 5226,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 50,
@@ -6410,7 +6415,7 @@
       "Name": "I\u0027ve Got Everything I Need Right Here",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "13",
@@ -6418,7 +6423,7 @@
       "Name": "The Magic That Empowers Me!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "14",
@@ -6666,7 +6671,7 @@
       "Name": "Jack of All Tomes",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "42",
@@ -6690,7 +6695,7 @@
       "Name": "Pruning for Progress",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "5",
@@ -6698,7 +6703,7 @@
       "Name": "Grexolis",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "6",
@@ -6706,7 +6711,7 @@
       "Name": "One for All, All for One",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "7",
@@ -6754,7 +6759,7 @@
       "Name": "Duality",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "48",
@@ -6785,13 +6790,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5225,
+      "Progressed": 5226,
       "Completed": 4764
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5225,
+      "Progressed": 5226,
       "Completed": 6
     }
   ],
@@ -6799,8 +6804,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-10-18T14:59:07.0695785+00:00",
-  "LastChanged_Achievements": "2023-10-18T20:09:16.497826+00:00",
+  "LastChanged_Achievements": "2023-10-18T21:09:43.5668625+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:43.1584566+00:00",
-  "LastUpdate_Ratings": "2023-10-18T20:00:01.286669+00:00",
-  "LastUpdate_Achievements": "2023-10-18T20:09:16.4979391+00:00"
+  "LastUpdate_Ratings": "2023-10-18T21:00:28.9428327+00:00",
+  "LastUpdate_Achievements": "2023-10-18T21:09:43.5669419+00:00"
 }
