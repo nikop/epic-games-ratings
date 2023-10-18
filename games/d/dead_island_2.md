@@ -5,22 +5,22 @@ Rating: 4.54 (Ranked 515)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 4.00% | ~27,899 |
-| Welcome To Hell-A | 4.00% | ~27,899 |
-| Dr. Reed, I Presume? | 3.00% | ~20,925 |
-| Git Gutte! | 3.00% | ~20,925 |
-| Bookworm | 3.00% | ~20,925 |
-| Break A Leg | 3.00% | ~20,925 |
-| But Doctor, I am Butcho | 3.00% | ~20,925 |
-| Can't Handle the Truth | 3.00% | ~20,925 |
-| Coup de Grâce | 3.00% | ~20,925 |
-| Like Riding a Bike | 3.00% | ~20,925 |
-| Hazardous Materials | 3.00% | ~20,925 |
-| Friends Like These | 3.00% | ~20,925 |
-| Apex Predator | 3.00% | ~20,925 |
-| Stacking the Deck | 3.00% | ~20,925 |
-| Personal Assistant Personally Assisted | 3.00% | ~20,925 |
-| This is My Weapon | 3.00% | ~20,925 |
+| Hotel California | 4.00% | ~27,901 |
+| Welcome To Hell-A | 4.00% | ~27,901 |
+| Dr. Reed, I Presume? | 3.00% | ~20,926 |
+| Git Gutte! | 3.00% | ~20,926 |
+| Bookworm | 3.00% | ~20,926 |
+| Break A Leg | 3.00% | ~20,926 |
+| But Doctor, I am Butcho | 3.00% | ~20,926 |
+| Can't Handle the Truth | 3.00% | ~20,926 |
+| Coup de Grâce | 3.00% | ~20,926 |
+| Like Riding a Bike | 3.00% | ~20,926 |
+| Hazardous Materials | 3.00% | ~20,926 |
+| Friends Like These | 3.00% | ~20,926 |
+| Apex Predator | 3.00% | ~20,926 |
+| Stacking the Deck | 3.00% | ~20,926 |
+| Personal Assistant Personally Assisted | 3.00% | ~20,926 |
+| This is My Weapon | 3.00% | ~20,926 |
 | Making Your Mark | 2.00% | ~13,950 |
 | Anger Management | 2.00% | ~13,950 |
 | Perks of the Job | 2.00% | ~13,950 |
@@ -40,18 +40,18 @@ Rating: 4.54 (Ranked 515)
 | Rising Star | 1.00% | ~6,975 |
 | Not Even My Final Form | 0.80% | ~5,580 |
 | Internet Famous | 0.80% | ~5,580 |
-| Make it So | 0.70% | ~4,882 |
-| On Safari | 0.70% | ~4,882 |
-| Variety is the Spice of Death | 0.70% | ~4,882 |
-| LA Influential | 0.50% | ~3,487 |
-| Gore Horse | 0.50% | ~3,487 |
-| Sharpest Tool in the Box | 0.50% | ~3,487 |
+| Make it So | 0.70% | ~4,883 |
+| On Safari | 0.70% | ~4,883 |
+| Variety is the Spice of Death | 0.70% | ~4,883 |
+| LA Influential | 0.50% | ~3,488 |
+| Gore Horse | 0.50% | ~3,488 |
+| Sharpest Tool in the Box | 0.50% | ~3,488 |
 | Sole Survivor | 0.40% | ~2,790 |
 | Survival Skills | 0.40% | ~2,790 |
 | Donk! | 0.20% | ~1,395 |
-| Bucket List | 0.10% | ~697 |
+| Bucket List | 0.10% | ~698 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 697,487 (Ranked 22)  
+Progressed: 697,525 (Ranked 22)  
 Completed: 2,242 (0.32%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,10 +232,10 @@ Completed: 2,242 (0.32%) (Ranked 201)
 | 2023-10-15 | 696,452 | 2,227 |
 | 2023-10-16 | 696,890 | 2,235 |
 | 2023-10-17 | 697,259 | 2,238 |
-| 2023-10-18 | 697,487 | 2,242 |
+| 2023-10-18 | 697,525 | 2,242 |
 ## Awards
 Max (Great Boss Battles): 6,489  (Ranked 56)  
-Sum: 9,712 (Ranked 91)  
+Sum: 9,715 (Ranked 91)  
 Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
@@ -245,8 +245,8 @@ Diff (max vs sum): -35
 | This game has Quickly Understood Controls | 425 |
 | This game is Relaxing | 409 |
 | This game has Amazing Storytelling | 386 |
+| This game is Highly Recommended | 370 |
 | This game is Extremely Fun | 368 |
-| This game is Highly Recommended | 367 |
 | This game has Amazing Characters | 355 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -431,4 +431,4 @@ Diff (max vs sum): -35
 | 2023-10-15 | 4.54 | 6,462 | 9,657 |
 | 2023-10-16 | 4.54 | 6,462 | 9,671 |
 | 2023-10-17 | 4.54 | 6,477 | 9,692 |
-| 2023-10-18 | 4.54 | 6,489 | 9,712 |
+| 2023-10-18 | 4.54 | 6,489 | 9,715 |

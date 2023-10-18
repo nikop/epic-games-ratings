@@ -114,9 +114,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 76114,
+  "EOS_Progressed": 76116,
   "EOS_Completed": 799,
-  "EOS_NewPlayers": 594,
+  "EOS_NewPlayers": 590,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -20324,6 +20324,11 @@
       "Time": "2023-10-18T16:06:12.8684956+00:00",
       "NumProgressed": 76114,
       "NumCompleted": 799
+    },
+    {
+      "Time": "2023-10-18T17:05:24.8948091+00:00",
+      "NumProgressed": 76116,
+      "NumCompleted": 799
     }
   ],
   "TotalAchievements": 25,
@@ -20367,7 +20372,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 16745
+      "UsersEstimate": 16746
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -20463,7 +20468,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 12178
+      "UsersEstimate": 12179
     },
     {
       "ID": "Nothing Left to Say",
@@ -20479,7 +20484,7 @@
       "Name": "Piano Man",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 7611
+      "UsersEstimate": 7612
     },
     {
       "ID": "Right On Target",
@@ -20534,7 +20539,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 76114,
+      "Progressed": 76116,
       "Completed": 799
     }
   ],
@@ -20542,8 +20547,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-10-18T16:06:12.8684948+00:00",
+  "LastChanged_Achievements": "2023-10-18T17:05:24.8948085+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:21.8706974+00:00",
-  "LastUpdate_Ratings": "2023-10-18T16:01:08.8137991+00:00",
-  "LastUpdate_Achievements": "2023-10-18T16:06:12.8686245+00:00"
+  "LastUpdate_Ratings": "2023-10-18T17:00:38.8142873+00:00",
+  "LastUpdate_Achievements": "2023-10-18T17:05:24.8949554+00:00"
 }

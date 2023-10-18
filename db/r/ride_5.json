@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1531,
+  "EOS_Progressed": 1533,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3024,6 +3024,11 @@
       "Time": "2023-10-18T16:09:24.7916406+00:00",
       "NumProgressed": 1531,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-18T17:08:16.7304004+00:00",
+      "NumProgressed": 1533,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -3036,7 +3041,7 @@
       "Name": "First Love",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -3044,7 +3049,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -3060,7 +3065,7 @@
       "Name": "Stamina Star",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ML_ACHIEVEMENT_05",
@@ -3100,7 +3105,7 @@
       "Name": "Is It the Right Size?",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ML_ACHIEVEMENT_10",
@@ -3108,7 +3113,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -3212,7 +3217,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -3244,7 +3249,7 @@
       "Name": "Clean Race",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -3332,7 +3337,7 @@
       "Name": "Eat My Dust",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -3427,14 +3432,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1531,
+      "Progressed": 1533,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-18T16:09:24.79164+00:00",
+  "LastChanged_Achievements": "2023-10-18T17:08:16.7303998+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:05.5662527+00:00",
-  "LastUpdate_Ratings": "2023-10-18T15:58:55.8343123+00:00",
-  "LastUpdate_Achievements": "2023-10-18T16:09:24.7917+00:00"
+  "LastUpdate_Ratings": "2023-10-18T16:58:41.0767025+00:00",
+  "LastUpdate_Achievements": "2023-10-18T17:08:16.730464+00:00"
 }

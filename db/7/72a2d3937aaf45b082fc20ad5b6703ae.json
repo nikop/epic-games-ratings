@@ -2,10 +2,10 @@
   "ID": "72a2d3937aaf45b082fc20ad5b6703ae",
   "Name": "The Making of Karateka",
   "ProductSlug": "the-making-of-karateka-7d9a6c",
-  "Ranking_EOS_Progress": 521,
+  "Ranking_EOS_Progress": 516,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 309,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-08-29T16:00:00+00:00",
     "PcReleaseDate": "2023-08-29T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12,
+  "EOS_Progressed": 13,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -86,6 +86,11 @@
       "Time": "2023-10-14T07:07:28.9338765+00:00",
       "NumProgressed": 12,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-18T17:03:44.4770615+00:00",
+      "NumProgressed": 13,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-17T00:04:53.817175+00:00",
@@ -104,7 +109,7 @@
       "ID": "deathbouncer",
       "SetID": "l4g2eh",
       "Name": "Deathbouncer",
-      "Percentage": 75,
+      "Percentage": 69,
       "XP": 20,
       "UsersEstimate": 9
     },
@@ -112,7 +117,7 @@
       "ID": "down_ship",
       "SetID": "l4g2eh",
       "Name": "Down With The Ship",
-      "Percentage": 50,
+      "Percentage": 46,
       "XP": 20,
       "UsersEstimate": 6
     },
@@ -128,7 +133,7 @@
       "ID": "feather_cap",
       "SetID": "l4g2eh",
       "Name": "Feather in Your Cap",
-      "Percentage": 25,
+      "Percentage": 23,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -160,7 +165,7 @@
       "ID": "little_star",
       "SetID": "l4g2eh",
       "Name": "Little Star",
-      "Percentage": 25,
+      "Percentage": 23,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -168,7 +173,7 @@
       "ID": "minimalist",
       "SetID": "l4g2eh",
       "Name": "Minimalist",
-      "Percentage": 25,
+      "Percentage": 23,
       "XP": 70,
       "UsersEstimate": 3
     },
@@ -176,7 +181,7 @@
       "ID": "modern_hero",
       "SetID": "l4g2eh",
       "Name": "Modern Hero",
-      "Percentage": 25,
+      "Percentage": 23,
       "XP": 80,
       "UsersEstimate": 3
     },
@@ -184,7 +189,7 @@
       "ID": "nothing_personal",
       "SetID": "l4g2eh",
       "Name": "Nothing Personal",
-      "Percentage": 17,
+      "Percentage": 15,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -192,7 +197,7 @@
       "ID": "one_down",
       "SetID": "l4g2eh",
       "Name": "One Down",
-      "Percentage": 67,
+      "Percentage": 62,
       "XP": 20,
       "UsersEstimate": 8
     },
@@ -208,7 +213,7 @@
       "ID": "ran_trouble",
       "SetID": "l4g2eh",
       "Name": "Ran Into Trouble",
-      "Percentage": 25,
+      "Percentage": 23,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -216,7 +221,7 @@
       "ID": "show_respect",
       "SetID": "l4g2eh",
       "Name": "Show Some Respect!",
-      "Percentage": 25,
+      "Percentage": 23,
       "XP": 70,
       "UsersEstimate": 3
     },
@@ -232,7 +237,7 @@
       "ID": "sudden_death",
       "SetID": "l4g2eh",
       "Name": "Sudden Death",
-      "Percentage": 25,
+      "Percentage": 23,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -249,14 +254,14 @@
     {
       "ID": "l4g2eh",
       "IsBase": true,
-      "Progressed": 12,
+      "Progressed": 13,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-01T23:59:35.8953756+00:00",
   "FirstSeenAchievements": "2023-08-04T19:02:29.8301885+00:00",
-  "LastChanged_Achievements": "2023-10-18T16:04:13.7106809+00:00",
+  "LastChanged_Achievements": "2023-10-18T17:03:44.4770603+00:00",
   "LastUpdate_AppInfo": "2023-10-13T23:57:20.2957274+00:00",
-  "LastUpdate_Ratings": "2023-10-18T16:00:53.1048557+00:00",
-  "LastUpdate_Achievements": "2023-10-18T16:04:13.7106978+00:00"
+  "LastUpdate_Ratings": "2023-10-18T17:00:25.4836998+00:00",
+  "LastUpdate_Achievements": "2023-10-18T17:03:44.4770763+00:00"
 }

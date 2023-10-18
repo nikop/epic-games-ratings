@@ -1,7 +1,7 @@
 # House Party
 [Store](https://store.epicgames.com/en-US/p/house-party-ae8b27)  
 [View Rawdata](../../db/h/house_party.json)  
-Rating: 4.32 (Ranked 801)  
+Rating: 4.32 (Ranked 802)  
 Number of Ratings: 177  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -22,10 +22,10 @@ Number of Ratings: 177  (23.09.2022)
 | Inspector | 0.90% | ~57 |
 | Social Butterfly | 0.90% | ~57 |
 | The Muse: Madison | 0.90% | ~57 |
+| It Smells Like Roses | 0.70% | ~24 |
 | Smooth Operator: Ashley | 0.70% | ~45 |
 | The Crush | 0.70% | ~45 |
 | Amy: Scavenger Hunt | 0.60% | ~38 |
-| It Smells Like Roses | 0.60% | ~21 |
 | Now It's a Party! | 0.60% | ~38 |
 | Stephanie | 0.60% | ~38 |
 | The Magic Number | 0.60% | ~38 |

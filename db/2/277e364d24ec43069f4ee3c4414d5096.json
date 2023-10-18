@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 279,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -326,10 +326,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 111582,
+  "EOS_Progressed": 111583,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 711,
-  "EOS_NewCompleters": 2,
+  "EOS_NewPlayers": 706,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
     {
@@ -14821,6 +14821,11 @@
       "Time": "2023-10-18T16:06:25.2590133+00:00",
       "NumProgressed": 111582,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-10-18T17:05:36.2880418+00:00",
+      "NumProgressed": 111583,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 49,
@@ -14840,7 +14845,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 85918
+      "UsersEstimate": 85919
     },
     {
       "ID": "EAwards_10",
@@ -14856,7 +14861,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 29011
+      "UsersEstimate": 29012
     },
     {
       "ID": "EAwards_12",
@@ -14928,7 +14933,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 53559
+      "UsersEstimate": 53560
     },
     {
       "ID": "EAwards_20",
@@ -15223,7 +15228,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 111582,
+      "Progressed": 111583,
       "Completed": 47
     }
   ],
@@ -15231,8 +15236,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-25T16:00:07.3978241+00:00",
-  "LastChanged_Achievements": "2023-10-18T16:06:25.2590125+00:00",
+  "LastChanged_Achievements": "2023-10-18T17:05:36.2880411+00:00",
   "LastUpdate_AppInfo": "2023-10-13T01:42:07.6726517+00:00",
-  "LastUpdate_Ratings": "2023-10-18T16:01:04.6145576+00:00",
-  "LastUpdate_Achievements": "2023-10-18T16:06:25.259181+00:00"
+  "LastUpdate_Ratings": "2023-10-18T17:00:35.3222825+00:00",
+  "LastUpdate_Achievements": "2023-10-18T17:05:36.2881678+00:00"
 }

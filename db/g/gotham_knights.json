@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3614,9 +3614,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73621,
+  "EOS_Progressed": 73623,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 205,
+  "EOS_NewPlayers": 206,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -19064,6 +19064,11 @@
       "Time": "2023-10-18T16:06:41.0973573+00:00",
       "NumProgressed": 73621,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-10-18T17:05:49.5372189+00:00",
+      "NumProgressed": 73623,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 61,
@@ -19163,7 +19168,7 @@
       "Name": "In Your Element",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 11779
+      "UsersEstimate": 11780
     },
     {
       "ID": "CHALLENGES_1",
@@ -19179,7 +19184,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15460
+      "UsersEstimate": 15461
     },
     {
       "ID": "CLAYFACE_2",
@@ -19219,7 +19224,7 @@
       "Name": "Fusion Expert",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 5153
+      "UsersEstimate": 5154
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -19275,7 +19280,7 @@
       "Name": "Family Meeting",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 5153
+      "UsersEstimate": 5154
     },
     {
       "ID": "DEFEAT_OC_2",
@@ -19299,7 +19304,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21350
+      "UsersEstimate": 21351
     },
     {
       "ID": "FREEZE_1_5",
@@ -19307,7 +19312,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15460
+      "UsersEstimate": 15461
     },
     {
       "ID": "FREEZE_2",
@@ -19379,7 +19384,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25767
+      "UsersEstimate": 25768
     },
     {
       "ID": "HARLEY_2",
@@ -19387,7 +19392,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18405
+      "UsersEstimate": 18406
     },
     {
       "ID": "HARLEY_3",
@@ -19395,7 +19400,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15460
+      "UsersEstimate": 15461
     },
     {
       "ID": "HARLEY_4",
@@ -19403,7 +19408,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 11779
+      "UsersEstimate": 11780
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -19419,7 +19424,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 38283
+      "UsersEstimate": 38284
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -19443,7 +19448,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14724
+      "UsersEstimate": 14725
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -19467,7 +19472,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 25031
+      "UsersEstimate": 25032
     },
     {
       "ID": "MYSTERY_02",
@@ -19475,7 +19480,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18405
+      "UsersEstimate": 18406
     },
     {
       "ID": "MYSTERY_03",
@@ -19491,7 +19496,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14724
+      "UsersEstimate": 14725
     },
     {
       "ID": "MYSTERY_05",
@@ -19531,7 +19536,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 8098
+      "UsersEstimate": 8099
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -19562,13 +19567,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73621,
+      "Progressed": 73623,
       "Completed": 121
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43901,
+      "Progressed": 43903,
       "Completed": 2669
     }
   ],
@@ -19576,8 +19581,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-18T14:00:00.560959+00:00",
-  "LastChanged_Achievements": "2023-10-18T16:06:41.0973565+00:00",
+  "LastChanged_Achievements": "2023-10-18T17:05:49.5372184+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:41.7245252+00:00",
-  "LastUpdate_Ratings": "2023-10-18T15:59:48.9927598+00:00",
-  "LastUpdate_Achievements": "2023-10-18T16:06:41.0975292+00:00"
+  "LastUpdate_Ratings": "2023-10-18T16:59:29.9614318+00:00",
+  "LastUpdate_Achievements": "2023-10-18T17:05:49.5373815+00:00"
 }

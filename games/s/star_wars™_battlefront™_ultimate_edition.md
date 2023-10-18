@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~651 |
-| Off to a good start | 68.00% | ~492 |
-| Do... or do not. There is no try | 53.00% | ~383 |
-| A good blaster at your side | 34.00% | ~246 |
+| New Recruit | 90.00% | ~654 |
+| Off to a good start | 68.00% | ~494 |
+| Do... or do not. There is no try | 53.00% | ~385 |
+| A good blaster at your side | 34.00% | ~247 |
 | Scrap collector | 20.00% | ~145 |
-| I suggest a new strategy | 19.00% | ~137 |
-| Great shot, kid! | 18.00% | ~130 |
-| All right, I'll give it a try | 17.00% | ~123 |
-| Shoot first | 17.00% | ~123 |
+| I suggest a new strategy | 19.00% | ~138 |
+| Great shot, kid! | 18.00% | ~131 |
+| All right, I'll give it a try | 17.00% | ~124 |
+| Shoot first | 17.00% | ~124 |
 | The power of the Force | 16.00% | ~116 |
 | Together we can rule the galaxy | 16.00% | ~116 |
-| Collector | 15.00% | ~108 |
+| Collector | 15.00% | ~109 |
 | Tell Jabba that I've got his money | 11.00% | ~80 |
 | Best star-pilot in the galaxy | 11.00% | ~80 |
 | Survivor | 11.00% | ~80 |
-| Never tell me the odds! | 10.00% | ~72 |
-| A cunning warrior | 10.00% | ~72 |
+| Never tell me the odds! | 10.00% | ~73 |
+| A cunning warrior | 10.00% | ~73 |
 | What's the cargo? | 9.00% | ~65 |
 | "Gonk? Gonk!" | 8.00% | ~58 |
 | Impressive. Most impressive. | 8.00% | ~58 |
@@ -44,15 +44,15 @@
 | City in the Clouds | 3.00% | ~22 |
 | What will you become? | 3.00% | ~22 |
 | Disturbed tranquility | 3.00% | ~22 |
-| Hold the line! | 2.00% | ~14 |
-| Playing the objective | 2.00% | ~14 |
-| Ackbar's Elite | 2.00% | ~14 |
-| You have your moments | 2.00% | ~14 |
-| When surrounded by war... | 2.00% | ~14 |
-| Stop that Droid | 2.00% | ~14 |
-| Alternative solution | 2.00% | ~14 |
-| Onwards! | 2.00% | ~14 |
-| The circle is now complete | 2.00% | ~14 |
+| Hold the line! | 2.00% | ~15 |
+| Playing the objective | 2.00% | ~15 |
+| Ackbar's Elite | 2.00% | ~15 |
+| You have your moments | 2.00% | ~15 |
+| When surrounded by war... | 2.00% | ~15 |
+| Stop that Droid | 2.00% | ~15 |
+| Alternative solution | 2.00% | ~15 |
+| Onwards! | 2.00% | ~15 |
+| The circle is now complete | 2.00% | ~15 |
 | A New Hope | 1.00% | ~7 |
 | No such thing as luck | 1.00% | ~7 |
 | Do we take prisoners? | 1.00% | ~7 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.30% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 723 (Ranked 253)  
+Progressed: 727 (Ranked 253)  
 Completed: 1 (0.14%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 1 (0.14%) (Ranked 237)
 | 2023-10-15 | 672 | 1 |
 | 2023-10-16 | 694 | 1 |
 | 2023-10-17 | 715 | 1 |
-| 2023-10-18 | 723 | 1 |
+| 2023-10-18 | 727 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

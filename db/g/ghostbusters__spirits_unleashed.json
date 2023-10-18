@@ -4,11 +4,11 @@
   "ProductSlug": "ghostbusters-spirits-unleashed",
   "Ranking_Rating": 575,
   "Ranking_Popularity": 257,
-  "Ranking_PopularitySum": 189,
+  "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 220,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2392,10 +2392,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2403,
       "NumberOfAwardsMax": 264
+    },
+    {
+      "Time": "2023-10-18T16:59:47.858632+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2404,
+      "NumberOfAwardsMax": 264
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2403,
+  "NumberOfAwards": 2404,
   "NumberOfAwardsMax": 264,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2439,7 +2445,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 235
+      "Count": 236
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2472,9 +2478,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26574,
+  "EOS_Progressed": 26576,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 234,
+  "EOS_NewPlayers": 229,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -15302,6 +15308,11 @@
       "Time": "2023-10-18T16:04:19.6758244+00:00",
       "NumProgressed": 26574,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-10-18T17:03:49.5567271+00:00",
+      "NumProgressed": 26576,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 51,
@@ -15313,7 +15324,7 @@
       "Name": "Advancement",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "Animated",
@@ -15361,7 +15372,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "Collector",
@@ -15401,7 +15412,7 @@
       "Name": "Discovery",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "Dont_Need_These",
@@ -15425,7 +15436,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "Escape_Artist",
@@ -15449,7 +15460,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "GB_In_Training",
@@ -15607,9 +15618,9 @@
       "ID": "Stunner",
       "SetID": "819popo",
       "Name": "Stunner",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 213
     },
     {
       "ID": "Stylish",
@@ -15697,7 +15708,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "Welcome_Crew",
@@ -15720,16 +15731,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26574,
+      "Progressed": 26576,
       "Completed": 59
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-10-18T16:00:11.5490759+00:00",
-  "LastChanged_Achievements": "2023-10-18T16:04:19.6758237+00:00",
+  "LastChanged": "2023-10-18T16:59:47.8586319+00:00",
+  "LastChanged_Achievements": "2023-10-18T17:03:49.5567267+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:17.9420656+00:00",
-  "LastUpdate_Ratings": "2023-10-18T16:00:11.5490765+00:00",
-  "LastUpdate_Achievements": "2023-10-18T16:04:19.6760018+00:00"
+  "LastUpdate_Ratings": "2023-10-18T16:59:47.8586327+00:00",
+  "LastUpdate_Achievements": "2023-10-18T17:03:49.55686+00:00"
 }

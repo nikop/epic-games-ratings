@@ -6,20 +6,20 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cost of Heroism | 42.00% | ~600 |
+| The Cost of Heroism | 42.00% | ~601 |
 | Me and My Familiar | 38.00% | ~543 |
-| This Too Shall Pass | 32.00% | ~457 |
+| This Too Shall Pass | 32.00% | ~458 |
 | Passing Shadow | 31.00% | ~443 |
 | Cutthroat Competitors | 31.00% | ~443 |
-| How Romantic! | 29.00% | ~414 |
-| Daybreak | 29.00% | ~414 |
+| How Romantic! | 29.00% | ~415 |
+| Daybreak | 29.00% | ~415 |
 | Gotta Ca... Must Collect All of Them | 27.00% | ~386 |
 | Completing the Look | 15.00% | ~214 |
 | War Endured | 15.00% | ~214 |
 | A Mythic Menagerie | 14.00% | ~200 |
 | Who's Counting? | 14.00% | ~200 |
 | Core Failure | 14.00% | ~200 |
-| Pyrrhic Victory | 12.00% | ~171 |
+| Pyrrhic Victory | 12.00% | ~172 |
 | Thematic Divergence | 10.00% | ~143 |
 | Echoes Die | 10.00% | ~143 |
 | Chain Reaction | 9.00% | ~129 |
@@ -32,8 +32,8 @@ Number of Ratings: 45  (23.09.2022)
 | Wingknight's Prowess | 6.00% | ~86 |
 | All My Birds, Safely Home | 6.00% | ~86 |
 | Turncoat | 6.00% | ~86 |
-| In Soil, In Smoke | 5.00% | ~71 |
-| A Hunger, Sated | 5.00% | ~71 |
+| In Soil, In Smoke | 5.00% | ~72 |
+| A Hunger, Sated | 5.00% | ~72 |
 | We Emerge Changed | 4.00% | ~57 |
 | Storied Past | 4.00% | ~57 |
 | Worldwalker | 4.00% | ~57 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Overwhelming Monstrosity | 0.80% | ~11 |
 | Peacemaker | 0.70% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,429 (Ranked 222)  
+Progressed: 1,430 (Ranked 222)  
 Completed: 6 (0.42%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 6 (0.42%) (Ranked 189)
 | 2023-10-15 | 1,420 | 6 |
 | 2023-10-16 | 1,424 | 6 |
 | 2023-10-17 | 1,427 | 6 |
-| 2023-10-18 | 1,429 | 6 |
+| 2023-10-18 | 1,430 | 6 |
 ## Awards
 Max (Character Customization): 28  (Ranked 485)  
 Sum: 28 (Ranked 499)  

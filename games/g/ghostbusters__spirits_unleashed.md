@@ -6,12 +6,12 @@ Rating: 4.50 (Ranked 575)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 3.00% | ~797 |
-| Advancement | 2.00% | ~531 |
-| I collect Spores, Molds, and Fungi | 2.00% | ~531 |
-| Discovery | 2.00% | ~531 |
-| Meticulously Efficient | 2.00% | ~531 |
-| Fully Upgraded | 2.00% | ~531 |
-| Vaporous Expansion | 2.00% | ~531 |
+| Advancement | 2.00% | ~532 |
+| I collect Spores, Molds, and Fungi | 2.00% | ~532 |
+| Discovery | 2.00% | ~532 |
+| Meticulously Efficient | 2.00% | ~532 |
+| Fully Upgraded | 2.00% | ~532 |
+| Vaporous Expansion | 2.00% | ~532 |
 | Animated | 1.00% | ~266 |
 | Back Off | 1.00% | ~266 |
 | Clutch Capture | 1.00% | ~266 |
@@ -31,9 +31,9 @@ Rating: 4.50 (Ranked 575)
 | Summoner | 0.90% | ~239 |
 | Side Hustle | 0.80% | ~213 |
 | Skilled | 0.80% | ~213 |
+| Stunner | 0.80% | ~213 |
 | Legions | 0.70% | ~186 |
 | Pesky Jerks | 0.70% | ~186 |
-| Stunner | 0.70% | ~186 |
 | We have the best insurance | 0.60% | ~159 |
 | Seasoned | 0.60% | ~159 |
 | Collector | 0.50% | ~133 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 575)
 | Mycophile | 0.10% | ~27 |
 | Ultimate Defense | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,574 (Ranked 117)  
+Progressed: 26,576 (Ranked 117)  
 Completed: 59 (0.22%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,11 +238,11 @@ Completed: 59 (0.22%) (Ranked 220)
 | 2023-10-15 | 26,505 | 58 |
 | 2023-10-16 | 26,537 | 58 |
 | 2023-10-17 | 26,559 | 58 |
-| 2023-10-18 | 26,574 | 59 |
+| 2023-10-18 | 26,576 | 59 |
 ## Awards
 Max (Great for Quick Sessions): 264  (Ranked 257)  
-Sum: 2,403 (Ranked 189)  
-Diff (max vs sum): 68  
+Sum: 2,404 (Ranked 188)  
+Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 264 |
@@ -250,8 +250,8 @@ Diff (max vs sum): 68
 | This game has Competitive Players | 243 |
 | This game is Extremely Fun | 240 |
 | This game has Amazing Storytelling | 240 |
+| This game has Diverse Characters | 236 |
 | This game is Relaxing | 236 |
-| This game has Diverse Characters | 235 |
 | This game is Highly Recommended | 235 |
 | This game has Amazing Characters | 225 |
 | This game has Quickly Understood Controls | 223 |
@@ -444,4 +444,4 @@ Diff (max vs sum): 68
 | 2023-10-15 | 4.50 | 262 | 2,392 |
 | 2023-10-16 | 4.50 | 264 | 2,398 |
 | 2023-10-17 | 4.50 | 264 | 2,400 |
-| 2023-10-18 | 4.50 | 264 | 2,403 |
+| 2023-10-18 | 4.50 | 264 | 2,404 |

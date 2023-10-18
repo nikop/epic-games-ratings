@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 80,
   "Ranking_EOS_NewPlayers": 288,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-09-22T19:00:00+00:00",
     "PcReleaseDate": "2023-05-28T19:00:00+00:00",
@@ -385,9 +385,9 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "14g34pl",
       "Name": "Badlands is safe!",
-      "Percentage": 32,
+      "Percentage": 34,
       "XP": 60,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -433,9 +433,9 @@
       "ID": "REACH_LEVEL_10",
       "SetID": "14g34pl",
       "Name": "Powerful",
-      "Percentage": 47,
+      "Percentage": 49,
       "XP": 60,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "REACH_LEVEL_15",
@@ -464,8 +464,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-10-18T16:07:14.7848973+00:00",
+  "LastChanged_Achievements": "2023-10-18T17:06:17.7291913+00:00",
   "LastUpdate_AppInfo": "2023-10-17T18:57:05.9704526+00:00",
-  "LastUpdate_Ratings": "2023-10-18T16:00:41.0927808+00:00",
-  "LastUpdate_Achievements": "2023-10-18T16:07:14.7849146+00:00"
+  "LastUpdate_Ratings": "2023-10-18T17:00:13.9880555+00:00",
+  "LastUpdate_Achievements": "2023-10-18T17:06:17.7292058+00:00"
 }

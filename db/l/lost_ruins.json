@@ -2,10 +2,10 @@
   "ID": "3ccad173be604de5b7df527b244f0308",
   "Name": "Lost Ruins",
   "ProductSlug": "lost-ruins-d6233b",
-  "Ranking_EOS_Progress": 282,
+  "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 309,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 442,
+  "EOS_Progressed": 443,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -806,6 +806,11 @@
       "Time": "2023-10-18T14:10:02.9011159+00:00",
       "NumProgressed": 442,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-18T17:09:07.2087295+00:00",
+      "NumProgressed": 443,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -833,7 +838,7 @@
       "Name": "Artifact Collector",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "Assassin",
@@ -857,7 +862,7 @@
       "Name": "Bug Hunter",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "Cryomancer",
@@ -953,7 +958,7 @@
       "Name": "Lumberjack",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "Marksman",
@@ -1001,7 +1006,7 @@
       "Name": "Orcs Must Die!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "Pyromancer",
@@ -1073,7 +1078,7 @@
       "Name": "The End",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "TheFallen",
@@ -1097,7 +1102,7 @@
       "Name": "Trap Master",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "TreasureHunter",
@@ -1136,7 +1141,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 442,
+      "Progressed": 443,
       "Completed": 0
     }
   ],
@@ -1144,8 +1149,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-10-18T16:09:49.1026276+00:00",
+  "LastChanged_Achievements": "2023-10-18T17:09:07.2087289+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:36.2898004+00:00",
-  "LastUpdate_Ratings": "2023-10-18T15:59:41.0917108+00:00",
-  "LastUpdate_Achievements": "2023-10-18T16:09:49.1026642+00:00"
+  "LastUpdate_Ratings": "2023-10-18T16:59:22.1957077+00:00",
+  "LastUpdate_Achievements": "2023-10-18T17:09:07.2087667+00:00"
 }

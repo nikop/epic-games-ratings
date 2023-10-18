@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 499,
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -157,9 +157,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1429,
+  "EOS_Progressed": 1430,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -1637,6 +1637,11 @@
       "Time": "2023-10-18T15:04:22.5932578+00:00",
       "NumProgressed": 1429,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-18T17:04:39.427667+00:00",
+      "NumProgressed": 1430,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 56,
@@ -1808,7 +1813,7 @@
       "Name": "This Too Shall Pass",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_loversVengeance10Kills",
@@ -1816,7 +1821,7 @@
       "Name": "How Romantic!",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "achievement_maimedHero",
@@ -1824,7 +1829,7 @@
       "Name": "The Cost of Heroism",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "achievement_mythwalker",
@@ -1864,7 +1869,7 @@
       "Name": "Pyrrhic Victory",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "completedStory_cvawn",
@@ -1872,7 +1877,7 @@
       "Name": "In Soil, In Smoke",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "completedStory_ecthis",
@@ -1920,7 +1925,7 @@
       "Name": "Daybreak",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "completedStory_vultureLord",
@@ -1928,7 +1933,7 @@
       "Name": "A Hunger, Sated",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "cvawn_allDrauvenSurvivedMission",
@@ -2095,15 +2100,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1429,
+      "Progressed": 1430,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-09-16T17:00:08.5779719+00:00",
-  "LastChanged_Achievements": "2023-10-18T16:05:18.1865232+00:00",
+  "LastChanged_Achievements": "2023-10-18T17:04:39.4276664+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:14.4249097+00:00",
-  "LastUpdate_Ratings": "2023-10-18T15:59:26.7848015+00:00",
-  "LastUpdate_Achievements": "2023-10-18T16:05:18.186585+00:00"
+  "LastUpdate_Ratings": "2023-10-18T16:59:10.4979175+00:00",
+  "LastUpdate_Achievements": "2023-10-18T17:04:39.4277144+00:00"
 }

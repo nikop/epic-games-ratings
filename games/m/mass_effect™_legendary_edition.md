@@ -19,9 +19,9 @@
 | Charismatic | 57.00% | ~418 |
 | Turian Ally | 56.00% | ~410 |
 | Soldier | 55.00% | ~403 |
+| Medal of Exploration III | 52.00% | ~381 |
 | Asari Ally | 52.00% | ~381 |
 | Principled | 52.00% | ~381 |
-| Medal of Exploration III | 51.00% | ~374 |
 | Soldier Ally | 50.00% | ~366 |
 | Colonial Savior | 49.00% | ~359 |
 | Paramour I | 48.00% | ~352 |
@@ -69,11 +69,11 @@
 | Doppelganger | 29.00% | ~213 |
 | Digital Exorcist | 29.00% | ~213 |
 | Mobilizer | 29.00% | ~213 |
+| Mission Accomplished | 28.00% | ~205 |
 | Suicide Mission | 28.00% | ~205 |
+| Against All Odds | 28.00% | ~205 |
 | Friend or Foe | 28.00% | ~205 |
 | First Aid Specialist | 27.00% | ~198 |
-| Mission Accomplished | 27.00% | ~198 |
-| Against All Odds | 27.00% | ~198 |
 | Untouchable | 26.00% | ~191 |
 | Eye of the Hurricane | 26.00% | ~191 |
 | A House Divided | 26.00% | ~191 |

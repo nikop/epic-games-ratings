@@ -4,11 +4,11 @@
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 475,
   "Ranking_Popularity": 232,
-  "Ranking_PopularitySum": 303,
+  "Ranking_PopularitySum": 304,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1258,9 +1258,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 13212,
+  "EOS_Progressed": 13213,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -12918,6 +12918,11 @@
       "Time": "2023-10-18T09:07:02.5952473+00:00",
       "NumProgressed": 13212,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-10-18T17:06:19.7915095+00:00",
+      "NumProgressed": 13213,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 35,
@@ -12929,7 +12934,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 10702
+      "UsersEstimate": 10703
     },
     {
       "ID": "ACH02",
@@ -12977,7 +12982,7 @@
       "Name": "The American Dream",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 2642
+      "UsersEstimate": 2643
     },
     {
       "ID": "ACH08",
@@ -12985,7 +12990,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 6738
+      "UsersEstimate": 6739
     },
     {
       "ID": "ACH09",
@@ -13121,7 +13126,7 @@
       "Name": "What are the Odds",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "ACH26",
@@ -13208,7 +13213,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13212,
+      "Progressed": 13213,
       "Completed": 50
     }
   ],
@@ -13216,8 +13221,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-10-17T06:58:25.4468438+00:00",
-  "LastChanged_Achievements": "2023-10-18T16:07:17.0911348+00:00",
+  "LastChanged_Achievements": "2023-10-18T17:06:19.791509+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:42.8574604+00:00",
-  "LastUpdate_Ratings": "2023-10-18T15:59:52.2338952+00:00",
-  "LastUpdate_Achievements": "2023-10-18T16:07:17.0912455+00:00"
+  "LastUpdate_Ratings": "2023-10-18T16:59:32.1674579+00:00",
+  "LastUpdate_Achievements": "2023-10-18T17:06:19.7916107+00:00"
 }

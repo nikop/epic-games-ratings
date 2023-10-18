@@ -5,23 +5,23 @@ Rating: 4.66 (Ranked 282)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 73.00% | ~4,960 |
-| A Thorny Situation | 70.00% | ~4,756 |
-| ... And Spit Back Out | 60.00% | ~4,077 |
-| Break-Net Speed | 48.00% | ~3,262 |
-| Bramble Breaker | 46.00% | ~3,126 |
-| Miner 49er | 43.00% | ~2,922 |
-| Humble Collector | 42.00% | ~2,854 |
-| Calm Sailing | 36.00% | ~2,446 |
-| Open the Gate! | 33.00% | ~2,242 |
-| Mist Walker | 31.00% | ~2,106 |
+| Azoria Beckons | 73.00% | ~4,963 |
+| A Thorny Situation | 70.00% | ~4,759 |
+| ... And Spit Back Out | 60.00% | ~4,079 |
+| Break-Net Speed | 48.00% | ~3,263 |
+| Bramble Breaker | 46.00% | ~3,127 |
+| Miner 49er | 43.00% | ~2,923 |
+| Humble Collector | 42.00% | ~2,855 |
+| Calm Sailing | 36.00% | ~2,447 |
+| Open the Gate! | 33.00% | ~2,243 |
+| Mist Walker | 31.00% | ~2,107 |
 | Lumberjack | 26.00% | ~1,767 |
-| Oui, Chef! | 23.00% | ~1,563 |
-| Clear the Air | 17.00% | ~1,155 |
-| Botanical Breakthrough | 16.00% | ~1,087 |
-| Search for the Hairy Grell | 13.00% | ~883 |
-| Beach Comber | 13.00% | ~883 |
-| Higher Tax Bracket | 13.00% | ~883 |
+| Oui, Chef! | 23.00% | ~1,564 |
+| Clear the Air | 17.00% | ~1,156 |
+| Botanical Breakthrough | 16.00% | ~1,088 |
+| Search for the Hairy Grell | 13.00% | ~884 |
+| Beach Comber | 13.00% | ~884 |
+| Higher Tax Bracket | 13.00% | ~884 |
 | Skilled | 8.00% | ~544 |
 | Flaming Hot Completos | 7.00% | ~476 |
 | Fae Farmer | 7.00% | ~476 |
@@ -41,7 +41,7 @@ Rating: 4.66 (Ranked 282)
 | Giving the People What They Want | 0.10% | ~7 |
 | Very Skilled | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,795 (Ranked 163)  
+Progressed: 6,798 (Ranked 163)  
 Completed: 0 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 0 (0.00%) (Ranked 316)
 | 2023-10-15 | 6,698 | 0 |
 | 2023-10-16 | 6,732 | 0 |
 | 2023-10-17 | 6,772 | 0 |
-| 2023-10-18 | 6,795 | 0 |
+| 2023-10-18 | 6,798 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

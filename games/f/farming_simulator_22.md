@@ -6,19 +6,19 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 75.00% | ~37,595 |
-| I read Shakespeare and stuff | 64.00% | ~32,081 |
-| Just a sprinkle | 63.00% | ~31,580 |
-| I'm stumped | 61.00% | ~30,577 |
-| Plant get enough | 60.00% | ~30,076 |
-| It's just the beginning | 59.00% | ~29,575 |
+| Own use | 75.00% | ~37,596 |
+| I read Shakespeare and stuff | 64.00% | ~32,082 |
+| Just a sprinkle | 63.00% | ~31,581 |
+| I'm stumped | 61.00% | ~30,578 |
+| Plant get enough | 60.00% | ~30,077 |
+| It's just the beginning | 59.00% | ~29,576 |
 | This is just my weekend vehicle | 58.00% | ~29,074 |
-| Hard work pays off | 53.00% | ~26,567 |
+| Hard work pays off | 53.00% | ~26,568 |
 | It's never too late to farm | 50.00% | ~25,064 |
 | All out of Land | 44.00% | ~22,056 |
 | Field Trip | 43.00% | ~21,555 |
 | I like to switch it up | 40.00% | ~20,051 |
-| Help me to help you | 38.00% | ~19,048 |
+| Help me to help you | 38.00% | ~19,049 |
 | Ultimutt Pawesomeness | 28.00% | ~14,036 |
 | Van Gogh | 26.00% | ~13,033 |
 | You wood not believe it | 22.00% | ~11,028 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~201 |
 | Raisin the stakes | 0.30% | ~150 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,127 (Ranked 102)  
+Progressed: 50,128 (Ranked 102)  
 Completed: 6 (0.01%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,10 +231,10 @@ Completed: 6 (0.01%) (Ranked 298)
 | 2023-10-15 | 50,019 | 6 |
 | 2023-10-16 | 50,066 | 6 |
 | 2023-10-17 | 50,106 | 6 |
-| 2023-10-18 | 50,127 | 6 |
+| 2023-10-18 | 50,128 | 6 |
 ## Awards
 Max (Great for Beginners): 5,202  (Ranked 70)  
-Sum: 41,355 (Ranked 33)  
+Sum: 41,357 (Ranked 33)  
 Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
@@ -245,7 +245,7 @@ Diff (max vs sum): 37
 | This game has Quickly Understood Controls | 4,172 |
 | This game is Highly Recommended | 4,110 |
 | This game is Extremely Fun | 4,067 |
-| This game has Amazing Storytelling | 3,964 |
+| This game has Amazing Storytelling | 3,966 |
 | This game has Amazing Characters | 3,590 |
 | This game has a Creative Community | 3,491 |
 | This game has Obsessive Gameplay | 2,386 |
@@ -527,4 +527,4 @@ Diff (max vs sum): 37
 | 2023-10-15 | 4.69 | - | 5,177 | 41,238 |
 | 2023-10-16 | 4.69 | - | 5,194 | 41,293 |
 | 2023-10-17 | 4.69 | - | 5,202 | 41,339 |
-| 2023-10-18 | 4.69 | - | 5,202 | 41,355 |
+| 2023-10-18 | 4.69 | - | 5,202 | 41,357 |

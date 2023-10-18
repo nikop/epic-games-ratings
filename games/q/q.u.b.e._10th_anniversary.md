@@ -1,7 +1,7 @@
 # Q.U.B.E. 10th Anniversary
 [Store](https://store.epicgames.com/en-US/p/qube-10th-anniversary-59e999)  
 [View Rawdata](../../db/q/q.u.b.e._10th_anniversary.json)  
-Rating: 4.32 (Ranked 801)  
+Rating: 4.35 (Ranked 776)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -30,7 +30,7 @@ Rating: 4.32 (Ranked 801)
 | Sector 7 | 0.00% | ~0 |
 | Did That Work? -- No! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 621)  
+Progressed: 1 (Ranked 622)  
 Completed: 0 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -41,3 +41,4 @@ Completed: 0 (0.00%) (Ranked 316)
 | ---- | ------ | ---------------------- | ---------------------- |
 | 2023-10-16 | 4.30 | 0 | 0 |
 | 2023-10-17 | 4.32 | 0 | 0 |
+| 2023-10-18 | 4.35 | 0 | 0 |
