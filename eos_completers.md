@@ -2,7 +2,7 @@
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 66.67% |
-| 3 | [The Riflemen](games/t/the_riflemen.md) | 47.82% |
+| 3 | [The Riflemen](games/t/the_riflemen.md) | 47.80% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.15% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.99% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
@@ -68,7 +68,7 @@
 | 66 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.55% |
 | 67 | [ZZT!](games/z/zzt!.md) | 4.47% |
 | 68 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.44% |
-| 69 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.11% |
+| 69 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.12% |
 | 70 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.09% |
 | 71 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.00% |
 | 72 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 3.92% |
@@ -146,8 +146,8 @@
 | 142 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.05% |
 | 145 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.02% |
 | 146 | [Sable](games/s/sable.md) | 1.01% |
-| 147 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 1.00% |
-| 148 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.99% |
+| 147 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.99% |
+| 147 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.99% |
 | 149 | [A Musical Story](games/a/a_musical_story.md) | 0.96% |
 | 149 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.96% |
 | 151 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.91% |
@@ -251,15 +251,15 @@
 | 247 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.10% |
 | 247 | [House Flipper](games/h/house_flipper.md) | 0.10% |
 | 247 | [Port Royale 4](games/p/port_royale_4.md) | 0.10% |
+| 247 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.10% |
 | 247 | [Supraland](games/s/supraland.md) | 0.10% |
-| 253 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.09% |
-| 253 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
-| 253 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.09% |
-| 253 | [Lost Eidolons](games/l/lost_eidolons.md) | 0.09% |
-| 253 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.09% |
-| 253 | [Riverbond](games/r/riverbond.md) | 0.09% |
-| 253 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
-| 253 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
+| 254 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.09% |
+| 254 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
+| 254 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.09% |
+| 254 | [Lost Eidolons](games/l/lost_eidolons.md) | 0.09% |
+| 254 | [Riverbond](games/r/riverbond.md) | 0.09% |
+| 254 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
+| 254 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
 | 261 | [ATOM RPG](games/a/atom_rpg.md) | 0.08% |
 | 261 | [Black Book](games/b/black_book.md) | 0.08% |
 | 263 | [MythForce](games/m/mythforce.md) | 0.07% |
