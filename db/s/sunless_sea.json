@@ -13,6 +13,9 @@
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
     "isBlockchainUsed": false,
+    "isEpicFirstRun": false,
+    "EpicFirstRunAdded": null,
+    "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
   "Rating": 4.58,
@@ -729,7 +732,7 @@
   ],
   "EOS_Progressed": 39038,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 354,
+  "EOS_NewPlayers": 352,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -19636,8 +19639,8 @@
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-10-14T19:58:49.9428019+00:00",
-  "LastChanged_Achievements": "2023-10-18T21:05:45.2412441+00:00",
+  "LastChanged_Achievements": "2023-10-18T22:17:12.5882649+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:49.4242639+00:00",
-  "LastUpdate_Ratings": "2023-10-18T21:00:37.4411719+00:00",
-  "LastUpdate_Achievements": "2023-10-18T21:05:45.2415364+00:00"
+  "LastUpdate_Ratings": "2023-10-18T22:11:55.3419258+00:00",
+  "LastUpdate_Achievements": "2023-10-18T22:17:12.5885602+00:00"
 }

@@ -30,8 +30,8 @@
 | Merciless | 46.00% | ~339 |
 | Missing in Action | 44.00% | ~324 |
 | Very Elusive | 44.00% | ~324 |
+| Head Hunter | 44.00% | ~324 |
 | Sentinel Ally | 43.00% | ~316 |
-| Head Hunter | 43.00% | ~316 |
 | Scholar | 42.00% | ~309 |
 | Veteran | 41.00% | ~302 |
 | Operative | 41.00% | ~302 |
@@ -47,9 +47,9 @@
 | Broke, Blind, and Bedlam | 34.00% | ~250 |
 | Ghost Ship | 33.00% | ~243 |
 | The Assassin | 33.00% | ~243 |
+| The Justicar | 33.00% | ~243 |
 | The Quarian | 33.00% | ~243 |
 | A Personal Touch | 32.00% | ~236 |
-| The Justicar | 32.00% | ~236 |
 | Battlemaster | 32.00% | ~236 |
 | The Cure | 32.00% | ~236 |
 | The Prodigal | 32.00% | ~236 |
@@ -84,9 +84,9 @@
 | Tunnel Rat | 24.00% | ~177 |
 | Pathfinder | 23.00% | ~169 |
 | Arbiter | 23.00% | ~169 |
+| Lost and Found | 23.00% | ~169 |
 | Savior | 22.00% | ~162 |
 | Paramour II | 22.00% | ~162 |
-| Lost and Found | 22.00% | ~162 |
 | Party Crasher | 21.00% | ~155 |
 | Pyromaniac | 20.00% | ~147 |
 | No One Left Behind | 20.00% | ~147 |
@@ -97,9 +97,9 @@
 | Last Witness | 19.00% | ~140 |
 | Fact Finder | 19.00% | ~140 |
 | Last Resort | 18.00% | ~132 |
+| Electronics Specialist | 18.00% | ~132 |
 | Sabotage Specialist | 18.00% | ~132 |
 | Well Connected | 18.00% | ~132 |
-| Electronics Specialist | 17.00% | ~125 |
 | Throw Mastery | 16.00% | ~118 |
 | Executioner | 16.00% | ~118 |
 | Patriot | 16.00% | ~118 |

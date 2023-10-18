@@ -2,14 +2,17 @@
   "ID": "1e58a1653e6846d3a05cccb2ae5b7385",
   "Name": "Missile Command: Recharged",
   "ProductSlug": "missile-command-recharged",
-  "Ranking_EOS_Progress": 675,
+  "Ranking_EOS_Progress": 681,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 402,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
     "isBlockchainUsed": false,
+    "isEpicFirstRun": false,
+    "EpicFirstRunAdded": null,
+    "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
   "RatingHistory": [
@@ -38,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:13.9834109+00:00",
   "LastChanged": "2023-03-31T05:58:13.983411+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:15.5564036+00:00",
-  "LastUpdate_Ratings": "2023-10-18T21:03:05.1467998+00:00",
-  "LastUpdate_Achievements": "2023-10-18T21:05:56.0313609+00:00"
+  "LastUpdate_Ratings": "2023-10-18T22:15:09.5126908+00:00",
+  "LastUpdate_Achievements": "2023-10-18T22:17:19.6441447+00:00"
 }

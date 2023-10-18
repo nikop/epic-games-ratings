@@ -6,44 +6,44 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~228,610 |
-| Uncharted Territory | 89.00% | ~211,940 |
-| Getting A Glimpse | 73.00% | ~173,839 |
-| A Quick Escape | 65.00% | ~154,788 |
-| Explorer | 62.00% | ~147,644 |
-| An Offering | 62.00% | ~147,644 |
-| Defeat The Dark | 61.00% | ~145,262 |
-| Colorful Corpse | 58.00% | ~138,118 |
-| That Was Quick | 57.00% | ~135,737 |
-| A Donation | 57.00% | ~135,737 |
-| Goodbye, Frog Friend | 54.00% | ~128,593 |
-| Heavy Hitter | 53.00% | ~126,212 |
-| Heartless | 46.00% | ~109,542 |
-| Spine Breaker | 46.00% | ~109,542 |
-| Deflection | 45.00% | ~107,161 |
-| Sneaky | 43.00% | ~102,398 |
-| Ambitious Intent | 42.00% | ~100,017 |
-| Delving Deeper | 42.00% | ~100,017 |
-| C-C-Combo | 42.00% | ~100,017 |
-| Nothing To Lose | 40.00% | ~95,254 |
-| The Bestiary | 40.00% | ~95,254 |
+| First Steps | 96.00% | ~228,612 |
+| Uncharted Territory | 89.00% | ~211,942 |
+| Getting A Glimpse | 73.00% | ~173,840 |
+| A Quick Escape | 65.00% | ~154,789 |
+| Explorer | 62.00% | ~147,645 |
+| An Offering | 62.00% | ~147,645 |
+| Defeat The Dark | 61.00% | ~145,264 |
+| Colorful Corpse | 58.00% | ~138,119 |
+| That Was Quick | 57.00% | ~135,738 |
+| A Donation | 57.00% | ~135,738 |
+| Goodbye, Frog Friend | 54.00% | ~128,594 |
+| Heavy Hitter | 53.00% | ~126,213 |
+| Heartless | 46.00% | ~109,543 |
+| Spine Breaker | 46.00% | ~109,543 |
+| Deflection | 45.00% | ~107,162 |
+| Sneaky | 43.00% | ~102,399 |
+| Ambitious Intent | 42.00% | ~100,018 |
+| Delving Deeper | 42.00% | ~100,018 |
+| C-C-Combo | 42.00% | ~100,018 |
+| Nothing To Lose | 40.00% | ~95,255 |
+| The Bestiary | 40.00% | ~95,255 |
 | What's Yours Is Mine | 39.00% | ~92,873 |
-| R.I.P | 37.00% | ~88,110 |
+| R.I.P | 37.00% | ~88,111 |
 | Shootout | 36.00% | ~85,729 |
-| I Am Overburdened | 35.00% | ~83,347 |
-| Cold Hearted | 34.00% | ~80,966 |
+| I Am Overburdened | 35.00% | ~83,348 |
+| Cold Hearted | 34.00% | ~80,967 |
 | Dig Your Own Grave | 33.00% | ~78,585 |
 | Toxic | 33.00% | ~78,585 |
-| Who To Trust? | 32.00% | ~76,203 |
-| Flesh Wound | 30.00% | ~71,440 |
+| Who To Trust? | 32.00% | ~76,204 |
+| Flesh Wound | 30.00% | ~71,441 |
 | Walk It Off | 28.00% | ~66,678 |
 | Stone Touch | 28.00% | ~66,678 |
 | Shadow Walker | 28.00% | ~66,678 |
-| Consecutive Curses | 27.00% | ~64,296 |
-| Acid Bath | 27.00% | ~64,296 |
-| New Perspectives | 27.00% | ~64,296 |
-| Shapeshifting | 27.00% | ~64,296 |
-| Destroy Your Fears | 26.00% | ~61,915 |
+| Consecutive Curses | 27.00% | ~64,297 |
+| Acid Bath | 27.00% | ~64,297 |
+| New Perspectives | 27.00% | ~64,297 |
+| Shapeshifting | 27.00% | ~64,297 |
+| Destroy Your Fears | 26.00% | ~61,916 |
 | Save Our Souls | 25.00% | ~59,534 |
 | To The Death! | 20.00% | ~47,627 |
 | Well Prepared | 20.00% | ~47,627 |
@@ -55,8 +55,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Don't Ignore Me! | 17.00% | ~40,483 |
 | Illuminate, Eliminate | 17.00% | ~40,483 |
 | Doing Time | 16.00% | ~38,102 |
-| Spreading Plague | 15.00% | ~35,720 |
-| The Long Run | 15.00% | ~35,720 |
+| Spreading Plague | 15.00% | ~35,721 |
+| The Long Run | 15.00% | ~35,721 |
 | A Rough Road | 13.00% | ~30,958 |
 | Chain Reaction | 13.00% | ~30,958 |
 | Berzerker | 12.00% | ~28,576 |
@@ -71,13 +71,13 @@ Number of Ratings: 15,086  (23.09.2022)
 | Decisions, Decisions | 8.00% | ~19,051 |
 | Fragile Mortality | 8.00% | ~19,051 |
 | Defuser | 8.00% | ~19,051 |
-| Friend of Vermin | 7.00% | ~16,669 |
-| Juggernaut | 7.00% | ~16,669 |
-| Gigantic | 7.00% | ~16,669 |
-| Path To Enlightenment | 7.00% | ~16,669 |
-| Fire Away! | 7.00% | ~16,669 |
-| Obsessed | 7.00% | ~16,669 |
-| Sentimental Value | 7.00% | ~16,669 |
+| Friend of Vermin | 7.00% | ~16,670 |
+| Juggernaut | 7.00% | ~16,670 |
+| Gigantic | 7.00% | ~16,670 |
+| Path To Enlightenment | 7.00% | ~16,670 |
+| Fire Away! | 7.00% | ~16,670 |
+| Obsessed | 7.00% | ~16,670 |
+| Sentimental Value | 7.00% | ~16,670 |
 | A Long Climb | 6.00% | ~14,288 |
 | Grave Digger | 6.00% | ~14,288 |
 | Soul Stash | 6.00% | ~14,288 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Down Under | 0.50% | ~1,191 |
 | Near Death Experience | 0.30% | ~714 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,135 (Ranked 56)  
+Progressed: 238,137 (Ranked 56)  
 Completed: 281 (0.12%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,7 +310,7 @@ Completed: 281 (0.12%) (Ranked 242)
 | 2023-10-15 | 237,982 | 281 |
 | 2023-10-16 | 238,035 | 281 |
 | 2023-10-17 | 238,089 | 281 |
-| 2023-10-18 | 238,135 | 281 |
+| 2023-10-18 | 238,137 | 281 |
 ## Awards
 Max (Quickly Understood Controls): 1,498  (Ranked 127)  
 Sum: 11,618 (Ranked 83)  

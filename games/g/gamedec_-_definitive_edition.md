@@ -9,8 +9,8 @@ Number of Ratings: 33  (23.09.2022)
 | I will finish what you started | 28.00% | ~69,859 |
 | Powergamer | 27.00% | ~67,364 |
 | Barely scratched the surface | 25.00% | ~62,374 |
-| Write that down | 24.00% | ~59,879 |
-| Guns, lots of guns | 13.00% | ~32,434 |
+| Write that down | 24.00% | ~59,880 |
+| Guns, lots of guns | 13.00% | ~32,435 |
 | Collector | 12.00% | ~29,940 |
 | Elementary! | 9.00% | ~22,455 |
 | Griever | 8.00% | ~19,960 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~499 |
 | Memory 5 | 0.10% | ~249 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,496 (Ranked 53)  
+Progressed: 249,498 (Ranked 53)  
 Completed: 7 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,14 +240,14 @@ Completed: 7 (0.00%) (Ranked 316)
 | 2023-10-15 | 249,235 | 7 |
 | 2023-10-16 | 249,321 | 7 |
 | 2023-10-17 | 249,413 | 7 |
-| 2023-10-18 | 249,496 | 7 |
+| 2023-10-18 | 249,498 | 7 |
 ## Awards
-Max (Character Customization): 85  (Ranked 369)  
-Sum: 85 (Ranked 443)  
-Diff (max vs sum): -74  
+Max (Character Customization): 86  (Ranked 366)  
+Sum: 86 (Ranked 441)  
+Diff (max vs sum): -75  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 85 |
+| This game has Inclusive Character Customization | 86 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -325,3 +325,4 @@ Diff (max vs sum): -74
 | 2023-10-12 | 4.29 | - | 83 | 83 |
 | 2023-10-15 | 4.29 | - | 84 | 84 |
 | 2023-10-17 | 4.29 | - | 85 | 85 |
+| 2023-10-18 | 4.29 | - | 86 | 86 |

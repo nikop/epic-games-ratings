@@ -2,14 +2,17 @@
   "ID": "b2192c4b00db40fe8848b3be6753cfd5",
   "Name": "Primordials: Battle of Gods",
   "ProductSlug": "primordials-battle-of-gods",
-  "Ranking_EOS_Progress": 675,
+  "Ranking_EOS_Progress": 681,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 402,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-03-04T15:00:00+00:00",
     "PcReleaseDate": "2021-03-04T15:00:00+00:00",
     "isBlockchainUsed": false,
+    "isEpicFirstRun": false,
+    "EpicFirstRunAdded": null,
+    "EpicFirstRunRemoved": null,
     "CustomAttributes": {
       "com.epicgames.app.blacklist": "KR"
     }
@@ -40,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:10.3698318+00:00",
   "LastChanged": "2023-03-31T05:57:10.3698319+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:15.564387+00:00",
-  "LastUpdate_Ratings": "2023-10-18T21:03:11.9153777+00:00",
-  "LastUpdate_Achievements": "2023-10-18T21:09:00.7340904+00:00"
+  "LastUpdate_Ratings": "2023-10-18T22:15:14.2298588+00:00",
+  "LastUpdate_Achievements": "2023-10-18T22:20:07.3298888+00:00"
 }

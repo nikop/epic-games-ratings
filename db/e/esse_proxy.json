@@ -2,14 +2,17 @@
   "ID": "e560cd4bb151479394d0d634cabc9e49",
   "Name": "Esse Proxy",
   "ProductSlug": "esse-proxy",
-  "Ranking_EOS_Progress": 675,
+  "Ranking_EOS_Progress": 681,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 402,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2099-01-02T03:00:00+00:00",
     "PcReleaseDate": null,
     "isBlockchainUsed": false,
+    "isEpicFirstRun": false,
+    "EpicFirstRunAdded": null,
+    "EpicFirstRunRemoved": null,
     "CustomAttributes": {
       "com.epicgames.app.blacklist": "[]"
     }
@@ -28,6 +31,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-14T15:58:51.0190539+00:00",
-  "LastUpdate_Ratings": "2023-10-18T20:58:33.5189012+00:00",
-  "LastUpdate_Achievements": "2023-10-18T21:05:58.3090636+00:00"
+  "LastUpdate_Ratings": "2023-10-18T22:10:34.4007419+00:00",
+  "LastUpdate_Achievements": "2023-10-18T22:17:21.2788033+00:00"
 }

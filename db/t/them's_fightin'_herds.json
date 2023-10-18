@@ -3,8 +3,8 @@
   "Name": "Them\u0027s Fightin\u0027 Herds",
   "ProductSlug": "thems-fightin-herds",
   "Ranking_Rating": 354,
-  "Ranking_Popularity": 505,
-  "Ranking_PopularitySum": 512,
+  "Ranking_Popularity": 506,
+  "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 113,
@@ -13,6 +13,9 @@
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-04-30T15:00:00+00:00",
     "isBlockchainUsed": false,
+    "isEpicFirstRun": false,
+    "EpicFirstRunAdded": null,
+    "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
   "Rating": 4.62,
@@ -262,7 +265,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 231175,
+  "EOS_Progressed": 231176,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 277,
   "EOS_NewCompleters": 0,
@@ -18972,6 +18975,11 @@
       "Time": "2023-10-18T20:05:53.3060794+00:00",
       "NumProgressed": 231175,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-18T22:17:33.538908+00:00",
+      "NumProgressed": 231176,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -19143,7 +19151,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 50858
+      "UsersEstimate": 50859
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -19206,7 +19214,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 231175,
+      "Progressed": 231176,
       "Completed": 5
     }
   ],
@@ -19214,8 +19222,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-10-13T17:59:14.424156+00:00",
-  "LastChanged_Achievements": "2023-10-18T21:06:16.1773032+00:00",
+  "LastChanged_Achievements": "2023-10-18T22:17:33.5389067+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:22.1725241+00:00",
-  "LastUpdate_Ratings": "2023-10-18T21:02:02.7357431+00:00",
-  "LastUpdate_Achievements": "2023-10-18T21:06:16.1775396+00:00"
+  "LastUpdate_Ratings": "2023-10-18T22:12:49.5534592+00:00",
+  "LastUpdate_Achievements": "2023-10-18T22:17:33.5391606+00:00"
 }

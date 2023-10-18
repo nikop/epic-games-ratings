@@ -10,6 +10,9 @@
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
     "PcReleaseDate": "2021-07-08T08:00:00+00:00",
     "isBlockchainUsed": false,
+    "isEpicFirstRun": false,
+    "EpicFirstRunAdded": null,
+    "EpicFirstRunRemoved": null,
     "CustomAttributes": {
       "com.epicgames.app.blacklist": "[]"
     }
@@ -994,8 +997,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-10-18T21:04:02.9747009+00:00",
+  "LastChanged_Achievements": "2023-10-18T22:16:02.9643393+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:24.2620735+00:00",
-  "LastUpdate_Ratings": "2023-10-18T20:59:50.0710094+00:00",
-  "LastUpdate_Achievements": "2023-10-18T21:04:02.974753+00:00"
+  "LastUpdate_Ratings": "2023-10-18T22:11:23.3543068+00:00",
+  "LastUpdate_Achievements": "2023-10-18T22:16:02.9644147+00:00"
 }

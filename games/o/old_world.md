@@ -49,6 +49,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Musaeum | 1.00% | ~148 |
 | Pyramids | 1.00% | ~148 |
 | Learn to Play 1 | 1.00% | ~148 |
+| Learn to Play 2 | 1.00% | ~148 |
 | Christianity | 1.00% | ~148 |
 | Manichaeism | 1.00% | ~148 |
 | Babylonian Paganism | 1.00% | ~148 |
@@ -65,7 +66,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Artisans | 0.90% | ~133 |
 | Apadana | 0.90% | ~133 |
 | Necropolis | 0.90% | ~133 |
-| Learn to Play 2 | 0.90% | ~133 |
 | Win a Single Player Game | 0.90% | ~133 |
 | Champions | 0.80% | ~118 |
 | Sages | 0.80% | ~118 |
@@ -146,6 +146,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Old World Order | 0.30% | ~44 |
 | Ten Crowns | 0.30% | ~44 |
 | Cataphract Archer | 0.30% | ~44 |
+| No Undo | 0.30% | ~44 |
 | Rmt n Kmt Buhen | 0.30% | ~44 |
 | Greater Kmt Unified | 0.30% | ~44 |
 | Kush | 0.30% | ~44 |
@@ -168,7 +169,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Three Man Chariot | 0.20% | ~30 |
 | Siege Tower | 0.20% | ~30 |
 | Conquest Victory | 0.20% | ~30 |
-| No Undo | 0.20% | ~30 |
 | Necropolis in Waset | 0.20% | ~30 |
 | Prosperous Kmt | 0.20% | ~30 |
 | Centenarian | 0.10% | ~15 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,788 (Ranked 135)  
+Progressed: 14,791 (Ranked 135)  
 Completed: 5 (0.03%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -530,7 +530,7 @@ Completed: 5 (0.03%) (Ranked 285)
 | 2023-10-15 | 14,732 | 5 |
 | 2023-10-16 | 14,747 | 5 |
 | 2023-10-17 | 14,775 | 5 |
-| 2023-10-18 | 14,788 | 5 |
+| 2023-10-18 | 14,791 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,846 (Ranked 211)  

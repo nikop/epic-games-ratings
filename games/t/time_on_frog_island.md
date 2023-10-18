@@ -15,6 +15,7 @@
 | Couch-surfing | 21.00% | ~4 |
 | Who Even Needs Keys | 16.00% | ~3 |
 | Shrub-Seeing: Silly Birbs | 16.00% | ~3 |
+| Hands on the Helm | 16.00% | ~3 |
 | Replace the Rudder | 16.00% | ~3 |
 | Shrub-Seeing: Townlife | 11.00% | ~2 |
 | Shrub-Seeing: Ruins of old | 11.00% | ~2 |
@@ -24,7 +25,6 @@
 | Caught Ya! | 11.00% | ~2 |
 | Safe Investment | 11.00% | ~2 |
 | Bank of Me | 11.00% | ~2 |
-| Hands on the Helm | 11.00% | ~2 |
 | The Journey Continues | 11.00% | ~2 |
 | Crunch Time | 5.00% | ~1 |
 | One with the frogs | 5.00% | ~1 |
@@ -40,7 +40,7 @@
 | Falling with Style | 5.00% | ~1 |
 | Froggy Friendship | 5.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19 (Ranked 494)  
+Progressed: 19 (Ranked 495)  
 Completed: 1 (5.26%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |

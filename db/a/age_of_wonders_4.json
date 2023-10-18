@@ -13,6 +13,9 @@
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
     "isBlockchainUsed": false,
+    "isEpicFirstRun": false,
+    "EpicFirstRunAdded": null,
+    "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
   "Rating": 4.61,
@@ -6804,8 +6807,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-10-18T14:59:07.0695785+00:00",
-  "LastChanged_Achievements": "2023-10-18T21:09:43.5668625+00:00",
+  "LastChanged_Achievements": "2023-10-18T22:21:16.7470229+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:43.1584566+00:00",
-  "LastUpdate_Ratings": "2023-10-18T21:00:28.9428327+00:00",
-  "LastUpdate_Achievements": "2023-10-18T21:09:43.5669419+00:00"
+  "LastUpdate_Ratings": "2023-10-18T22:11:49.2899933+00:00",
+  "LastUpdate_Achievements": "2023-10-18T22:21:16.7471435+00:00"
 }

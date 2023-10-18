@@ -16,7 +16,7 @@ Rating: 4.66 (Ranked 283)
 | Open the Gate! | 33.00% | ~2,247 |
 | Mist Walker | 31.00% | ~2,111 |
 | Lumberjack | 26.00% | ~1,771 |
-| Oui, Chef! | 22.00% | ~1,498 |
+| Oui, Chef! | 23.00% | ~1,566 |
 | Clear the Air | 17.00% | ~1,158 |
 | Botanical Breakthrough | 16.00% | ~1,090 |
 | Search for the Hairy Grell | 13.00% | ~885 |

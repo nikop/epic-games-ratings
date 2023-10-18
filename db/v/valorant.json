@@ -5,14 +5,17 @@
   "Ranking_Rating": 528,
   "Ranking_Popularity": 10,
   "Ranking_PopularitySum": 6,
-  "Ranking_EOS_Progress": 675,
+  "Ranking_EOS_Progress": 681,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 402,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-11-04T16:30:00+00:00",
     "PcReleaseDate": "2020-06-02T18:52:01+00:00",
     "isBlockchainUsed": false,
+    "isEpicFirstRun": false,
+    "EpicFirstRunAdded": null,
+    "EpicFirstRunRemoved": null,
     "CustomAttributes": {
       "com.epicgames.app.blacklist": "CN, VN"
     }
@@ -10682,10 +10685,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 553174,
       "NumberOfAwardsMax": 76088
+    },
+    {
+      "Time": "2023-10-18T22:09:56.8505298+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 553265,
+      "NumberOfAwardsMax": 76088
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 553174,
+  "NumberOfAwards": 553265,
   "NumberOfAwardsMax": 76088,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -10711,7 +10720,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 59160
+      "Count": 59251
     },
     {
       "Text": "This game has Challenging Combat",
@@ -10761,8 +10770,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:57.2451123+00:00",
-  "LastChanged": "2023-10-18T17:59:31.3641193+00:00",
+  "LastChanged": "2023-10-18T22:09:56.8505295+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:34.5203672+00:00",
-  "LastUpdate_Ratings": "2023-10-18T20:57:33.0919074+00:00",
-  "LastUpdate_Achievements": "2023-10-18T21:05:40.7517496+00:00"
+  "LastUpdate_Ratings": "2023-10-18T22:09:56.8505307+00:00",
+  "LastUpdate_Achievements": "2023-10-18T22:17:10.0176845+00:00"
 }

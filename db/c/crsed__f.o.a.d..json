@@ -4,15 +4,18 @@
   "ProductSlug": "crsed-f-o-a-d",
   "Ranking_Rating": 785,
   "Ranking_Popularity": 346,
-  "Ranking_PopularitySum": 295,
-  "Ranking_EOS_Progress": 675,
+  "Ranking_PopularitySum": 296,
+  "Ranking_EOS_Progress": 681,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 402,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2020-12-03T16:00:00+00:00",
     "PcReleaseDate": "2020-12-03T16:00:00+00:00",
     "isBlockchainUsed": false,
+    "isEpicFirstRun": false,
+    "EpicFirstRunAdded": null,
+    "EpicFirstRunRemoved": null,
     "CustomAttributes": {
       "com.epicgames.app.blacklist": "KR"
     }
@@ -1294,6 +1297,6 @@
   "FirstSeen": "2022-07-22T20:19:35.4348464+00:00",
   "LastChanged": "2023-10-18T14:00:07.4802401+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:47.2258168+00:00",
-  "LastUpdate_Ratings": "2023-10-18T21:00:31.3813649+00:00",
-  "LastUpdate_Achievements": "2023-10-18T21:05:52.7007239+00:00"
+  "LastUpdate_Ratings": "2023-10-18T22:11:51.3543655+00:00",
+  "LastUpdate_Achievements": "2023-10-18T22:17:17.3949452+00:00"
 }

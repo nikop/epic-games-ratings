@@ -1,14 +1,17 @@
 {
   "ID": "50809e4c39674f42b649fa127d6796dd",
   "Name": null,
-  "Ranking_EOS_Progress": 593,
+  "Ranking_EOS_Progress": 597,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewPlayers": 341,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
     "isBlockchainUsed": false,
+    "isEpicFirstRun": false,
+    "EpicFirstRunAdded": null,
+    "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
   "RatingHistory": [],
@@ -365,7 +368,7 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-10-18T21:07:37.1109142+00:00",
-  "LastUpdate_Ratings": "2023-10-18T20:57:07.6989071+00:00",
-  "LastUpdate_Achievements": "2023-10-18T21:07:37.1109694+00:00"
+  "LastChanged_Achievements": "2023-10-18T22:18:27.6597585+00:00",
+  "LastUpdate_Ratings": "2023-10-18T22:09:40.9081408+00:00",
+  "LastUpdate_Achievements": "2023-10-18T22:18:27.6598145+00:00"
 }

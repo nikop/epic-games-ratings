@@ -5,14 +5,17 @@
   "Ranking_Rating": 540,
   "Ranking_Popularity": 158,
   "Ranking_PopularitySum": 242,
-  "Ranking_EOS_Progress": 675,
+  "Ranking_EOS_Progress": 681,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 402,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-03-25T04:00:00+00:00",
     "PcReleaseDate": "2022-03-25T04:00:00+00:00",
     "isBlockchainUsed": false,
+    "isEpicFirstRun": false,
+    "EpicFirstRunAdded": null,
+    "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
   "Rating": 4.52,
@@ -1129,10 +1132,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 1098,
       "NumberOfAwardsMax": 854
+    },
+    {
+      "Time": "2023-10-18T22:10:27.2558486+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 1101,
+      "NumberOfAwardsMax": 854
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1098,
+  "NumberOfAwards": 1101,
   "NumberOfAwardsMax": 854,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1158,7 +1167,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 33
+      "Count": 35
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1182,7 +1191,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 25
+      "Count": 26
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1202,8 +1211,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:08.0109801+00:00",
-  "LastChanged": "2023-10-18T20:58:19.6146829+00:00",
+  "LastChanged": "2023-10-18T22:10:27.2558484+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:46.915156+00:00",
-  "LastUpdate_Ratings": "2023-10-18T20:58:19.6146837+00:00",
-  "LastUpdate_Achievements": "2023-10-18T21:04:31.2805857+00:00"
+  "LastUpdate_Ratings": "2023-10-18T22:10:27.2558491+00:00",
+  "LastUpdate_Achievements": "2023-10-18T22:16:21.7087802+00:00"
 }

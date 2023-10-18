@@ -4,12 +4,15 @@
   "ProductSlug": "endling-extinction-is-forever",
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewPlayers": 341,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
     "isBlockchainUsed": false,
+    "isEpicFirstRun": false,
+    "EpicFirstRunAdded": null,
+    "EpicFirstRunRemoved": null,
     "CustomAttributes": {
       "com.epicgames.app.blacklist": ""
     }
@@ -1003,8 +1006,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-10-18T21:09:31.2208791+00:00",
+  "LastChanged_Achievements": "2023-10-18T22:21:08.2533902+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:58.3654495+00:00",
-  "LastUpdate_Ratings": "2023-10-18T20:58:49.7423586+00:00",
-  "LastUpdate_Achievements": "2023-10-18T21:09:31.2209044+00:00"
+  "LastUpdate_Ratings": "2023-10-18T22:10:45.4337562+00:00",
+  "LastUpdate_Achievements": "2023-10-18T22:21:08.2534327+00:00"
 }

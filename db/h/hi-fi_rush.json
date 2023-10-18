@@ -7,12 +7,15 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
     "isBlockchainUsed": false,
+    "isEpicFirstRun": false,
+    "EpicFirstRunAdded": null,
+    "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
   "Rating": 4.85,
@@ -130,9 +133,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4150,
+  "EOS_Progressed": 4151,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7015,6 +7018,11 @@
       "Time": "2023-10-18T11:04:35.8581888+00:00",
       "NumProgressed": 4150,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-18T22:16:57.4480582+00:00",
+      "NumProgressed": 4151,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7026,7 +7034,7 @@
       "Name": "Start with a bang!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "Ach002",
@@ -7066,7 +7074,7 @@
       "Name": "Time to pay up!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "Ach007",
@@ -7074,7 +7082,7 @@
       "Name": "Who\u0027s the boss now?",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "Ach008",
@@ -7146,7 +7154,7 @@
       "Name": "Chip-tuned",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "Ach017",
@@ -7202,7 +7210,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "Ach024",
@@ -7226,7 +7234,7 @@
       "Name": "You must like calling me in, Chai",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "Ach027",
@@ -7266,7 +7274,7 @@
       "Name": "Perfect Parry",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "Ach032",
@@ -7274,7 +7282,7 @@
       "Name": "Perfecter Parry-er!",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "Ach033",
@@ -7402,7 +7410,7 @@
       "Name": "Alright, that felt AWESOME!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "Ach049",
@@ -7442,7 +7450,7 @@
       "Name": "Does that say weakpoint?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "Ach054",
@@ -7593,13 +7601,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4150,
+      "Progressed": 4151,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2671,
+      "Progressed": 2672,
       "Completed": 1930
     }
   ],
@@ -7607,8 +7615,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-09-20T21:58:46.0382146+00:00",
-  "LastChanged_Achievements": "2023-10-18T21:05:22.6914695+00:00",
+  "LastChanged_Achievements": "2023-10-18T22:16:57.4480572+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:56.0502704+00:00",
-  "LastUpdate_Ratings": "2023-10-18T20:58:54.8335058+00:00",
-  "LastUpdate_Achievements": "2023-10-18T21:05:22.6916909+00:00"
+  "LastUpdate_Ratings": "2023-10-18T22:10:48.5823491+00:00",
+  "LastUpdate_Achievements": "2023-10-18T22:16:57.4482737+00:00"
 }

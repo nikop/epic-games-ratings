@@ -2,14 +2,17 @@
   "ID": "3208641686484e5cae750ab29727127d",
   "Name": "Roots of Pacha",
   "ProductSlug": "roots-of-pacha",
-  "Ranking_EOS_Progress": 675,
+  "Ranking_EOS_Progress": 681,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 402,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2099-01-02T03:00:00+00:00",
     "PcReleaseDate": null,
     "isBlockchainUsed": false,
+    "isEpicFirstRun": false,
+    "EpicFirstRunAdded": null,
+    "EpicFirstRunRemoved": null,
     "CustomAttributes": {
       "com.epicgames.app.blacklist": "[]"
     }
@@ -28,6 +31,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-14T15:57:10.0368645+00:00",
-  "LastUpdate_Ratings": "2023-10-18T20:59:26.6583127+00:00",
-  "LastUpdate_Achievements": "2023-10-18T21:06:47.2367246+00:00"
+  "LastUpdate_Ratings": "2023-10-18T22:11:08.1589232+00:00",
+  "LastUpdate_Achievements": "2023-10-18T22:17:54.2494226+00:00"
 }

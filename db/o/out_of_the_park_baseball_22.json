@@ -2,20 +2,23 @@
   "ID": "49c5a3d5dcac460697d234ed2bf63dc5",
   "Name": "Out of the Park Baseball 22",
   "ProductSlug": "out-of-the-park-baseball-22",
-  "Ranking_Rating": 700,
+  "Ranking_Rating": 731,
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
-  "Ranking_EOS_Progress": 675,
+  "Ranking_EOS_Progress": 681,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 402,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
     "isBlockchainUsed": false,
+    "isEpicFirstRun": false,
+    "EpicFirstRunAdded": null,
+    "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.41,
+  "Rating": 4.39,
   "NumberOfRatings": 26,
   "RatingHistory": [
     {
@@ -52,6 +55,12 @@
       "Rating": 4.41,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-10-18T22:11:47.2114291+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -69,8 +78,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:16.2999392+00:00",
-  "LastChanged": "2023-03-31T05:57:39.971577+00:00",
+  "LastChanged": "2023-10-18T22:11:47.2114288+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:42.7228692+00:00",
-  "LastUpdate_Ratings": "2023-10-18T21:00:24.6995755+00:00",
-  "LastUpdate_Achievements": "2023-10-18T21:07:17.8778125+00:00"
+  "LastUpdate_Ratings": "2023-10-18T22:11:47.2114298+00:00",
+  "LastUpdate_Achievements": "2023-10-18T22:18:14.5821411+00:00"
 }

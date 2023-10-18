@@ -8,11 +8,14 @@
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
     "isBlockchainUsed": false,
+    "isEpicFirstRun": false,
+    "EpicFirstRunAdded": null,
+    "EpicFirstRunRemoved": null,
     "CustomAttributes": {
       "com.epicgames.app.blacklist": "[]"
     }
@@ -622,9 +625,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 469266,
+  "EOS_Progressed": 469268,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 367,
+  "EOS_NewPlayers": 368,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19587,6 +19590,11 @@
       "Time": "2023-10-18T21:09:48.9965144+00:00",
       "NumProgressed": 469266,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-10-18T22:21:20.9163212+00:00",
+      "NumProgressed": 469268,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 79,
@@ -19686,7 +19694,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 309716
+      "UsersEstimate": 309717
     },
     {
       "ID": "achievement_story_landa",
@@ -19718,7 +19726,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 117316
+      "UsersEstimate": 117317
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -19774,7 +19782,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 93853
+      "UsersEstimate": 93854
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -19782,7 +19790,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 159550
+      "UsersEstimate": 159551
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -20022,7 +20030,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 206477
+      "UsersEstimate": 206478
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -20054,7 +20062,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 183014
+      "UsersEstimate": 183015
     },
     {
       "ID": "achievement_win_run_hard",
@@ -20229,21 +20237,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 13200,
+      "Progressed": 13202,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 469266,
+      "Progressed": 469268,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-10-10T01:42:39.6470224+00:00",
-  "LastChanged_Achievements": "2023-10-18T21:09:48.9965136+00:00",
+  "LastChanged_Achievements": "2023-10-18T22:21:20.9163204+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:23.4157652+00:00",
-  "LastUpdate_Ratings": "2023-10-18T20:59:48.0866083+00:00",
-  "LastUpdate_Achievements": "2023-10-18T21:09:48.9967654+00:00"
+  "LastUpdate_Ratings": "2023-10-18T22:11:22.1148268+00:00",
+  "LastUpdate_Achievements": "2023-10-18T22:21:20.9166932+00:00"
 }

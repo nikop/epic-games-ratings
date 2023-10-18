@@ -1,14 +1,17 @@
 {
   "ID": "33681ba3da9e4dcf9be4411c9e5d8273",
   "Name": "Assassin\u0027s Creed Valhalla \u002B Watch Dogs Legion Bundle",
-  "Ranking_EOS_Progress": 675,
+  "Ranking_EOS_Progress": 681,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 402,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
     "isBlockchainUsed": false,
+    "isEpicFirstRun": false,
+    "EpicFirstRunAdded": null,
+    "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
   "RatingHistory": [],
@@ -25,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:32:11.8625345+00:00",
-  "LastUpdate_Ratings": "2023-10-18T20:58:48.5716405+00:00",
-  "LastUpdate_Achievements": "2023-10-18T21:07:06.9022447+00:00"
+  "LastUpdate_Ratings": "2023-10-18T22:10:44.7111499+00:00",
+  "LastUpdate_Achievements": "2023-10-18T22:18:07.1462004+00:00"
 }

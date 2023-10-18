@@ -16,7 +16,7 @@ Number of Ratings: 1,396  (23.09.2022)
 | Gardener | 31.00% | ~3,381 |
 | Generous | 25.00% | ~2,727 |
 | Chef Cook | 18.00% | ~1,963 |
-| Miner | 9.00% | ~982 |
+| Miner | 10.00% | ~1,091 |
 | Duty Bound | 7.00% | ~763 |
 | Angler | 5.00% | ~545 |
 | Thorn Cleaner | 5.00% | ~545 |

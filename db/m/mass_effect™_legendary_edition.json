@@ -10,6 +10,9 @@
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
     "isBlockchainUsed": false,
+    "isEpicFirstRun": false,
+    "EpicFirstRunAdded": null,
+    "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
   "RatingHistory": [],
@@ -2099,9 +2102,9 @@
       "ID": "achievement_14",
       "SetID": "b9pe172",
       "Name": "Electronics Specialist",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 132
     },
     {
       "ID": "achievement_15",
@@ -2387,9 +2390,9 @@
       "ID": "achievement_47",
       "SetID": "d252ncf",
       "Name": "The Justicar",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 236
+      "UsersEstimate": 243
     },
     {
       "ID": "achievement_48",
@@ -2523,9 +2526,9 @@
       "ID": "achievement_62",
       "SetID": "d252ncf",
       "Name": "Head Hunter",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 316
+      "UsersEstimate": 324
     },
     {
       "ID": "achievement_63",
@@ -2843,9 +2846,9 @@
       "ID": "achievement_99",
       "SetID": "d252ncf",
       "Name": "Lost and Found",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 162
+      "UsersEstimate": 169
     }
   ],
   "AchievementSets": [
@@ -2863,8 +2866,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-18T21:06:45.9391314+00:00",
+  "LastChanged_Achievements": "2023-10-18T22:17:53.3895236+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:30.4071338+00:00",
-  "LastUpdate_Ratings": "2023-10-18T21:02:34.3324288+00:00",
-  "LastUpdate_Achievements": "2023-10-18T21:06:45.9395619+00:00"
+  "LastUpdate_Ratings": "2023-10-18T22:15:02.6869276+00:00",
+  "LastUpdate_Achievements": "2023-10-18T22:17:53.3897874+00:00"
 }

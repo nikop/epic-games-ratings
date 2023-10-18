@@ -13,6 +13,9 @@
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
     "PcReleaseDate": "2022-09-06T13:00:00+00:00",
     "isBlockchainUsed": false,
+    "isEpicFirstRun": false,
+    "EpicFirstRunAdded": null,
+    "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
   "Rating": 4.76,
@@ -4214,7 +4217,7 @@
   ],
   "EOS_Progressed": 10907,
   "EOS_Completed": 259,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 2.37,
   "EosHistory": [
@@ -16326,9 +16329,9 @@
       "ID": "Miner",
       "SetID": "chapdi4",
       "Name": "Miner",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 75,
-      "UsersEstimate": 982
+      "UsersEstimate": 1091
     },
     {
       "ID": "Photographer",
@@ -16375,8 +16378,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-10-18T14:58:09.2567379+00:00",
-  "LastChanged_Achievements": "2023-10-18T21:08:24.8574852+00:00",
+  "LastChanged_Achievements": "2023-10-18T22:19:02.9620965+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:03.0185965+00:00",
-  "LastUpdate_Ratings": "2023-10-18T20:58:58.0043163+00:00",
-  "LastUpdate_Achievements": "2023-10-18T21:08:24.8575764+00:00"
+  "LastUpdate_Ratings": "2023-10-18T22:10:50.6686013+00:00",
+  "LastUpdate_Achievements": "2023-10-18T22:19:02.9621956+00:00"
 }

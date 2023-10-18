@@ -5,15 +5,15 @@ Rating: 4.85 (Ranked 42)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 15.00% | ~622 |
-| Feeling the beat! | 15.00% | ~622 |
+| Start with a bang! | 15.00% | ~623 |
+| Feeling the beat! | 15.00% | ~623 |
 | You can pet the cat! | 14.00% | ~581 |
 | Who put gears in there? | 13.00% | ~540 |
 | Cream of the Crop | 12.00% | ~498 |
 | Thanks for the free chip, Peppermint! | 12.00% | ~498 |
 | You got this, Peppermint? | 12.00% | ~498 |
-| Perfect Parry | 11.00% | ~456 |
-| Alright, that felt AWESOME! | 11.00% | ~456 |
+| Perfect Parry | 11.00% | ~457 |
+| Alright, that felt AWESOME! | 11.00% | ~457 |
 | This will cost you big time | 10.00% | ~415 |
 | I play my own way! | 10.00% | ~415 |
 | Uh, they were broken when I got here | 10.00% | ~415 |
@@ -24,18 +24,18 @@ Rating: 4.85 (Ranked 42)
 | Headliner | 8.00% | ~332 |
 | Out in a puff of smoke | 8.00% | ~332 |
 | I look cool. But I can look COOLER. | 8.00% | ~332 |
-| Time to pay up! | 7.00% | ~290 |
-| Who's the boss now? | 7.00% | ~290 |
-| You must like calling me in, Chai | 7.00% | ~290 |
-| Perfecter Parry-er! | 7.00% | ~290 |
-| Does that say weakpoint? | 7.00% | ~290 |
+| Time to pay up! | 7.00% | ~291 |
+| Who's the boss now? | 7.00% | ~291 |
+| You must like calling me in, Chai | 7.00% | ~291 |
+| Perfecter Parry-er! | 7.00% | ~291 |
+| Does that say weakpoint? | 7.00% | ~291 |
 | NOW we got a kickass hideout! | 7.00% | ~187 |
 | I have to read these things? | 6.00% | ~249 |
 | Well that was a rush! | 5.00% | ~208 |
 | That's a lot of junk metal… | 5.00% | ~208 |
 | Beat-hit mania | 4.00% | ~166 |
 | There's such a thing as TOO helpful | 4.00% | ~166 |
-| Chip-tuned | 3.00% | ~124 |
+| Chip-tuned | 3.00% | ~125 |
 | I think I found your calling, Macaron | 2.00% | ~83 |
 | We're Jammin' | 2.00% | ~83 |
 | I hit things with a guitar really well. | 2.00% | ~83 |
@@ -77,7 +77,7 @@ Rating: 4.85 (Ranked 42)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,150 (Ranked 178)  
+Progressed: 4,151 (Ranked 178)  
 Completed: 8 (0.19%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 8 (0.19%) (Ranked 227)
 | 2023-10-15 | 4,146 | 8 |
 | 2023-10-16 | 4,147 | 8 |
 | 2023-10-17 | 4,149 | 8 |
-| 2023-10-18 | 4,150 | 8 |
+| 2023-10-18 | 4,151 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

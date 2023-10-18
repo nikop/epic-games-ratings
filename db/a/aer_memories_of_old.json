@@ -13,6 +13,9 @@
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
     "isBlockchainUsed": false,
+    "isEpicFirstRun": false,
+    "EpicFirstRunAdded": null,
+    "EpicFirstRunRemoved": null,
     "CustomAttributes": {
       "com.epicgames.app.blacklist": "[]"
     }
@@ -410,7 +413,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22348,
+  "EOS_Progressed": 22349,
   "EOS_Completed": 440,
   "EOS_NewPlayers": 436,
   "EOS_NewCompleters": 6,
@@ -19895,6 +19898,11 @@
       "Time": "2023-10-18T21:05:12.50404+00:00",
       "NumProgressed": 22348,
       "NumCompleted": 440
+    },
+    {
+      "Time": "2023-10-18T22:16:50.0678375+00:00",
+      "NumProgressed": 22349,
+      "NumCompleted": 440
     }
   ],
   "TotalAchievements": 20,
@@ -20026,7 +20034,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 17208
+      "UsersEstimate": 17209
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -20065,15 +20073,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 22348,
+      "Progressed": 22349,
       "Completed": 440
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-18T21:05:12.5040393+00:00",
+  "LastChanged_Achievements": "2023-10-18T22:16:50.0678366+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:17.0806119+00:00",
-  "LastUpdate_Ratings": "2023-10-18T20:59:40.3377009+00:00",
-  "LastUpdate_Achievements": "2023-10-18T21:05:12.5041793+00:00"
+  "LastUpdate_Ratings": "2023-10-18T22:11:17.1388793+00:00",
+  "LastUpdate_Achievements": "2023-10-18T22:16:50.0680875+00:00"
 }

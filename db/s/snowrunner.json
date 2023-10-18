@@ -5,14 +5,17 @@
   "Ranking_Rating": 119,
   "Ranking_Popularity": 37,
   "Ranking_PopularitySum": 20,
-  "Ranking_EOS_Progress": 675,
+  "Ranking_EOS_Progress": 681,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 402,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2020-04-28T16:00:00+00:00",
     "PcReleaseDate": null,
     "isBlockchainUsed": false,
+    "isEpicFirstRun": false,
+    "EpicFirstRunAdded": null,
+    "EpicFirstRunRemoved": null,
     "CustomAttributes": {
       "com.epicgames.app.blacklist": "{}"
     }
@@ -11566,10 +11569,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 76849,
       "NumberOfAwardsMax": 11369
+    },
+    {
+      "Time": "2023-10-18T22:11:44.182076+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 76859,
+      "NumberOfAwardsMax": 11369
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 76849,
+  "NumberOfAwards": 76859,
   "NumberOfAwardsMax": 11369,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -11577,7 +11586,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 9782
+      "Count": 9792
     },
     {
       "Text": "This game is Relaxing",
@@ -11645,8 +11654,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:33.5806012+00:00",
-  "LastChanged": "2023-10-18T21:00:20.2885659+00:00",
+  "LastChanged": "2023-10-18T22:11:44.1820758+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:40.6188808+00:00",
-  "LastUpdate_Ratings": "2023-10-18T21:00:20.2885667+00:00",
-  "LastUpdate_Achievements": "2023-10-18T21:09:09.0455495+00:00"
+  "LastUpdate_Ratings": "2023-10-18T22:11:44.1820768+00:00",
+  "LastUpdate_Achievements": "2023-10-18T22:20:12.9711408+00:00"
 }

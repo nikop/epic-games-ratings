@@ -41,12 +41,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | Flawless Fusion | 0.90% | ~1,240 |
 | Helping Hand | 0.90% | ~1,240 |
 | Natural 20 | 0.90% | ~1,240 |
+| Tax not Included | 0.80% | ~1,102 |
 | Fated Encounters | 0.80% | ~1,102 |
 | Power of Love | 0.80% | ~1,102 |
 | Royal Ransom | 0.80% | ~1,102 |
 | Magical Harmony | 0.80% | ~1,102 |
 | A Notch Above the Rest | 0.70% | ~965 |
-| Tax not Included | 0.70% | ~965 |
 | The King's Caprice | 0.70% | ~965 |
 | Big Game Hunting | 0.70% | ~965 |
 | For the Hoard! | 0.70% | ~965 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,787 (Ranked 73)  
+Progressed: 137,788 (Ranked 73)  
 Completed: 171 (0.12%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,16 +300,16 @@ Completed: 171 (0.12%) (Ranked 242)
 | 2023-10-15 | 137,669 | 168 |
 | 2023-10-16 | 137,703 | 168 |
 | 2023-10-17 | 137,757 | 170 |
-| 2023-10-18 | 137,787 | 171 |
+| 2023-10-18 | 137,788 | 171 |
 ## Awards
 Max (Great for Beginners): 4,793  (Ranked 72)  
-Sum: 27,402 (Ranked 50)  
+Sum: 27,403 (Ranked 50)  
 Diff (max vs sum): 22  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,793 |
 | This game is Relaxing | 4,026 |
-| This game has Quickly Understood Controls | 4,014 |
+| This game has Quickly Understood Controls | 4,015 |
 | This game has Diverse Characters | 3,914 |
 | This game is Highly Recommended | 3,762 |
 | This game has Easy Combat | 3,708 |
@@ -580,4 +580,4 @@ Diff (max vs sum): 22
 | 2023-10-15 | 3.99 | - | 4,787 | 27,383 |
 | 2023-10-16 | 3.99 | - | 4,790 | 27,390 |
 | 2023-10-17 | 3.99 | - | 4,790 | 27,393 |
-| 2023-10-18 | 3.99 | - | 4,793 | 27,402 |
+| 2023-10-18 | 3.99 | - | 4,793 | 27,403 |

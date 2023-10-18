@@ -13,6 +13,9 @@
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
     "isBlockchainUsed": false,
+    "isEpicFirstRun": false,
+    "EpicFirstRunAdded": null,
+    "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
   "Rating": 4.67,
@@ -382,9 +385,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3318,
+  "EOS_Progressed": 3319,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3127,6 +3130,11 @@
       "Time": "2023-10-18T18:05:58.6039+00:00",
       "NumProgressed": 3318,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-18T22:16:12.4787442+00:00",
+      "NumProgressed": 3319,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -3179,7 +3187,7 @@
       "Name": "Setting up for Success",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 2621
+      "UsersEstimate": 2622
     },
     {
       "ID": "achievement_0007",
@@ -3187,7 +3195,7 @@
       "Name": "Getting on the Step",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 3152
+      "UsersEstimate": 3153
     },
     {
       "ID": "achievement_0008",
@@ -3195,7 +3203,7 @@
       "Name": "On the Top Step",
       "Percentage": 90,
       "XP": 20,
-      "UsersEstimate": 2986
+      "UsersEstimate": 2987
     },
     {
       "ID": "achievement_0009",
@@ -3259,7 +3267,7 @@
       "Name": "Hitting a Season",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 1360
+      "UsersEstimate": 1361
     },
     {
       "ID": "achievement_0017",
@@ -3299,7 +3307,7 @@
       "Name": "Team Orders",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 2555
+      "UsersEstimate": 2556
     },
     {
       "ID": "achievement_0022",
@@ -3395,7 +3403,7 @@
       "Name": "Engineer",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 1891
+      "UsersEstimate": 1892
     },
     {
       "ID": "achievement_0034",
@@ -3403,7 +3411,7 @@
       "Name": "Challenge Yourself",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1194
+      "UsersEstimate": 1195
     },
     {
       "ID": "achievement_0035",
@@ -3449,9 +3457,9 @@
       "ID": "achievement_0040",
       "SetID": "9123ogc",
       "Name": "One for the Book",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 630
+      "UsersEstimate": 597
     },
     {
       "ID": "achievement_0041",
@@ -3475,7 +3483,7 @@
       "Name": "Familiar Faces",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1692
+      "UsersEstimate": 1693
     },
     {
       "ID": "achievement_0044",
@@ -3483,7 +3491,7 @@
       "Name": "Going the Extra Mile",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 1493
+      "UsersEstimate": 1494
     },
     {
       "ID": "achievement_0045",
@@ -3530,7 +3538,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 3318,
+      "Progressed": 3319,
       "Completed": 0
     }
   ],
@@ -3538,8 +3546,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-10-14T15:01:06.7997095+00:00",
-  "LastChanged_Achievements": "2023-10-18T21:04:17.2274715+00:00",
+  "LastChanged_Achievements": "2023-10-18T22:16:12.4787434+00:00",
   "LastUpdate_AppInfo": "2023-10-14T13:56:56.8221835+00:00",
-  "LastUpdate_Ratings": "2023-10-18T21:02:40.5740896+00:00",
-  "LastUpdate_Achievements": "2023-10-18T21:04:17.2275466+00:00"
+  "LastUpdate_Ratings": "2023-10-18T22:15:06.7722459+00:00",
+  "LastUpdate_Achievements": "2023-10-18T22:16:12.4788559+00:00"
 }

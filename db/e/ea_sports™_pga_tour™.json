@@ -10,6 +10,9 @@
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
     "PcReleaseDate": "2023-04-07T04:00:00+00:00",
     "isBlockchainUsed": false,
+    "isEpicFirstRun": false,
+    "EpicFirstRunAdded": null,
+    "EpicFirstRunRemoved": null,
     "CustomAttributes": {
       "com.epicgames.app.blacklist": "ea-sports-pga-tour"
     }
@@ -1437,8 +1440,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-10-18T21:05:24.7374401+00:00",
+  "LastChanged_Achievements": "2023-10-18T22:16:58.7103679+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:08.0015832+00:00",
-  "LastUpdate_Ratings": "2023-10-18T21:01:20.8678789+00:00",
-  "LastUpdate_Achievements": "2023-10-18T21:05:24.7374759+00:00"
+  "LastUpdate_Ratings": "2023-10-18T22:12:21.6409542+00:00",
+  "LastUpdate_Achievements": "2023-10-18T22:16:58.7104041+00:00"
 }

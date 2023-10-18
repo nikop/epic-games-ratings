@@ -5,14 +5,17 @@
   "Ranking_Rating": 354,
   "Ranking_Popularity": 66,
   "Ranking_PopularitySum": 105,
-  "Ranking_EOS_Progress": 675,
+  "Ranking_EOS_Progress": 681,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 402,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-09-09T15:00:00+00:00",
     "PcReleaseDate": "2017-05-05T15:00:00+00:00",
     "isBlockchainUsed": false,
+    "isEpicFirstRun": false,
+    "EpicFirstRunAdded": null,
+    "EpicFirstRunRemoved": null,
     "CustomAttributes": {
       "com.epicgames.app.blacklist": "[]"
     }
@@ -3870,6 +3873,6 @@
   "FirstSeen": "2022-07-22T20:32:29.7707864+00:00",
   "LastChanged": "2023-10-18T15:02:17.3958526+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:21.2623497+00:00",
-  "LastUpdate_Ratings": "2023-10-18T21:03:17.4647715+00:00",
-  "LastUpdate_Achievements": "2023-10-18T21:05:27.0599306+00:00"
+  "LastUpdate_Ratings": "2023-10-18T22:15:17.4626215+00:00",
+  "LastUpdate_Achievements": "2023-10-18T22:17:00.3625829+00:00"
 }
