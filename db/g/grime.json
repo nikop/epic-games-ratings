@@ -6,9 +6,9 @@
   "Ranking_Popularity": 428,
   "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 71,
-  "Ranking_EOS_Completed": 315,
+  "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1144,9 +1144,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 152916,
+  "EOS_Progressed": 152921,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1442,
+  "EOS_NewPlayers": 1447,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12049,6 +12049,11 @@
       "Time": "2023-10-18T07:05:44.8912317+00:00",
       "NumProgressed": 152916,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-18T08:05:07.1693747+00:00",
+      "NumProgressed": 152921,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -12164,7 +12169,7 @@
       "Name": "Scion",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "DEFEAT_FLOWERROCKGIANT",
@@ -12236,7 +12241,7 @@
       "Name": "Feast",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 917
+      "UsersEstimate": 918
     },
     {
       "ID": "DEFEAT_WATCHER",
@@ -12316,7 +12321,7 @@
       "Name": "Yank",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 917
+      "UsersEstimate": 918
     },
     {
       "ID": "MISC_REACHHIGHLEVEL",
@@ -12324,7 +12329,7 @@
       "Name": "Sharpened Vessel",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 917
+      "UsersEstimate": 918
     },
     {
       "ID": "MISC_REACHMAXARDOR",
@@ -12356,7 +12361,7 @@
       "Name": "Dream",
       "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "QUEST_CODA",
@@ -12372,7 +12377,7 @@
       "Name": "Kin",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "QUEST_LISTENER",
@@ -12380,7 +12385,7 @@
       "Name": "Listen",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "QUEST_YON",
@@ -12396,7 +12401,7 @@
       "Name": "The Nightmare",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "MISC_FINISHNG",
@@ -12404,7 +12409,7 @@
       "Name": "Touch of Otherwhere",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "MISC_OVERLOADITEM",
@@ -12412,7 +12417,7 @@
       "Name": "Enrich",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "MISC_OVERLOADTRAIT",
@@ -12420,28 +12425,28 @@
       "Name": "Intensify",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     }
   ],
   "AchievementSets": [
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 152499,
+      "Progressed": 152504,
       "Completed": 1162
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 152916,
+      "Progressed": 152921,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-18T04:02:06.6107489+00:00",
-  "LastChanged_Achievements": "2023-10-18T07:05:44.8912304+00:00",
+  "LastChanged_Achievements": "2023-10-18T08:05:07.1693741+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:33.8479674+00:00",
-  "LastUpdate_Ratings": "2023-10-18T06:00:35.5270466+00:00",
-  "LastUpdate_Achievements": "2023-10-18T07:05:44.8913588+00:00"
+  "LastUpdate_Ratings": "2023-10-18T07:57:18.5023725+00:00",
+  "LastUpdate_Achievements": "2023-10-18T08:05:07.1694933+00:00"
 }

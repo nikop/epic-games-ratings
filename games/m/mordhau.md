@@ -5,14 +5,14 @@ Rating: 4.39 (Ranked 732)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~755,618 |
-| The ABCs | 43.00% | ~663,093 |
-| Home Run | 41.00% | ~632,252 |
-| Keeps Coming Off | 41.00% | ~632,252 |
-| Guts | 20.00% | ~308,415 |
-| Meat Grinder | 19.00% | ~292,995 |
-| Burning Man | 16.00% | ~246,732 |
-| Lived to Tell the Tale | 12.00% | ~185,049 |
+| Justice from the Grave | 49.00% | ~755,621 |
+| The ABCs | 43.00% | ~663,096 |
+| Home Run | 41.00% | ~632,254 |
+| Keeps Coming Off | 41.00% | ~632,254 |
+| Guts | 20.00% | ~308,417 |
+| Meat Grinder | 19.00% | ~292,996 |
+| Burning Man | 16.00% | ~246,733 |
+| Lived to Tell the Tale | 12.00% | ~185,050 |
 | Highlander | 10.00% | ~154,208 |
 | Unstoppable | 10.00% | ~154,208 |
 | Just a Scratch | 9.00% | ~138,787 |
@@ -44,8 +44,8 @@ Rating: 4.39 (Ranked 732)
 | That’s No Ordinary Cold | 0.10% | ~1,542 |
 | Stairway to Hell | 0.10% | ~1,542 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,542,077 (Ranked 8)  
-Completed: 64 (0.00%) (Ranked 315)  
+Progressed: 1,542,083 (Ranked 8)  
+Completed: 64 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -225,15 +225,15 @@ Completed: 64 (0.00%) (Ranked 315)
 | 2023-10-15 | 1,541,093 | 64 |
 | 2023-10-16 | 1,541,560 | 64 |
 | 2023-10-17 | 1,541,974 | 64 |
-| 2023-10-18 | 1,542,077 | 64 |
+| 2023-10-18 | 1,542,083 | 64 |
 ## Awards
 Max (Diverse Characters): 791  (Ranked 165)  
-Sum: 3,744 (Ranked 155)  
+Sum: 3,751 (Ranked 155)  
 Diff (max vs sum): 10  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 791 |
-| This game has Challenging Combat | 665 |
+| This game has Challenging Combat | 672 |
 | This game is Highly Recommended | 658 |
 | This game has Amazing Characters | 554 |
 | This game is Extremely Fun | 554 |
@@ -430,4 +430,4 @@ Diff (max vs sum): 10
 | 2023-10-15 | 4.39 | 784 | 3,705 |
 | 2023-10-16 | 4.39 | 789 | 3,727 |
 | 2023-10-17 | 4.39 | 791 | 3,743 |
-| 2023-10-18 | 4.39 | 791 | 3,744 |
+| 2023-10-18 | 4.39 | 791 | 3,751 |

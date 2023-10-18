@@ -14,10 +14,10 @@ Number of Ratings: 46  (23.09.2022)
 | Silenced Whispers | 0.80% | ~1,223 |
 | Devourer | 0.80% | ~1,223 |
 | Harmless | 0.70% | ~1,070 |
-| Feast | 0.60% | ~917 |
-| Yank | 0.60% | ~917 |
-| Sharpened Vessel | 0.60% | ~917 |
-| Scion | 0.50% | ~762 |
+| Feast | 0.60% | ~918 |
+| Yank | 0.60% | ~918 |
+| Sharpened Vessel | 0.60% | ~918 |
+| Scion | 0.50% | ~763 |
 | Jawcrab | 0.50% | ~765 |
 | Jawstag | 0.50% | ~765 |
 | Watcher | 0.50% | ~765 |
@@ -31,7 +31,7 @@ Number of Ratings: 46  (23.09.2022)
 | Hush | 0.30% | ~459 |
 | Inevitable | 0.30% | ~459 |
 | All-Seeing | 0.30% | ~459 |
-| Dream | 0.30% | ~457 |
+| Dream | 0.30% | ~458 |
 | Bloodhunter | 0.20% | ~306 |
 | Zygote | 0.20% | ~305 |
 | Breath | 0.20% | ~306 |
@@ -45,16 +45,16 @@ Number of Ratings: 46  (23.09.2022)
 | Kinship | 0.10% | ~153 |
 | Weakness | 0.10% | ~153 |
 | Generous | 0.10% | ~153 |
-| Kin | 0.10% | ~152 |
-| Listen | 0.10% | ~152 |
+| Kin | 0.10% | ~153 |
+| Listen | 0.10% | ~153 |
 | Proportions | 0.10% | ~153 |
-| The Nightmare | 0.10% | ~152 |
-| Touch of Otherwhere | 0.10% | ~152 |
-| Enrich | 0.10% | ~152 |
-| Intensify | 0.10% | ~152 |
+| The Nightmare | 0.10% | ~153 |
+| Touch of Otherwhere | 0.10% | ~153 |
+| Enrich | 0.10% | ~153 |
+| Intensify | 0.10% | ~153 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 152,916 (Ranked 71)  
-Completed: 1 (0.00%) (Ranked 315)  
+Progressed: 152,921 (Ranked 71)  
+Completed: 1 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -211,7 +211,7 @@ Completed: 1 (0.00%) (Ranked 315)
 | 2023-10-15 | 152,491 | 1 |
 | 2023-10-16 | 152,687 | 1 |
 | 2023-10-17 | 152,880 | 1 |
-| 2023-10-18 | 152,916 | 1 |
+| 2023-10-18 | 152,921 | 1 |
 ## Awards
 Max (Highly Recommended): 45  (Ranked 428)  
 Sum: 298 (Ranked 349)  

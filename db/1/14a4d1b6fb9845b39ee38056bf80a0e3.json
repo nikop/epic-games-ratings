@@ -3,9 +3,9 @@
   "Name": "To The Sky",
   "ProductSlug": "to-the-sky-824c42",
   "Ranking_EOS_Progress": 673,
-  "Ranking_EOS_Completed": 315,
+  "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 389,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-08-31T10:30:00+00:00",
     "PcReleaseDate": "2023-07-17T22:30:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-11T23:57:08.7995892+00:00",
-  "LastUpdate_Ratings": "2023-10-18T06:59:10.1713103+00:00",
-  "LastUpdate_Achievements": "2023-10-18T07:04:35.9674208+00:00"
+  "LastUpdate_Ratings": "2023-10-18T07:58:47.5097232+00:00",
+  "LastUpdate_Achievements": "2023-10-18T08:04:12.7160387+00:00"
 }

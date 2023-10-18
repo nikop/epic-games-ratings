@@ -29,7 +29,7 @@
 | Day Trip | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 51 (Ranked 435)  
-Completed: 0 (0.00%) (Ranked 315)  
+Completed: 0 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

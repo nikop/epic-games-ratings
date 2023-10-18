@@ -1,14 +1,14 @@
 # SYNCED
 [Store](https://store.epicgames.com/en-US/p/synced)  
 [View Rawdata](../../db/s/synced.json)  
-Rating: 4.17 (Ranked 909)  
+Rating: 4.17 (Ranked 908)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 31.00% | ~19,714 |
+| Your Lucky Day | 31.00% | ~19,715 |
 | As Far Away As Possible | 16.00% | ~10,175 |
-| A Most Unstable Organism | 12.00% | ~7,631 |
-| No Time to Follow Protocol | 10.00% | ~6,359 |
+| A Most Unstable Organism | 12.00% | ~7,632 |
+| No Time to Follow Protocol | 10.00% | ~6,360 |
 | Float Like a Butterfly... | 8.00% | ~5,088 |
 | Nano Connoisseur | 6.00% | ~3,816 |
 | In Two Places At Once | 6.00% | ~3,816 |
@@ -22,8 +22,8 @@ Rating: 4.17 (Ranked 909)
 | Runs for Your Money | 0.20% | ~127 |
 | Past Master | 0.20% | ~127 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,594 (Ranked 97)  
-Completed: 18 (0.03%) (Ranked 284)  
+Progressed: 63,596 (Ranked 97)  
+Completed: 18 (0.03%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -74,11 +74,11 @@ Completed: 18 (0.03%) (Ranked 284)
 | 2023-10-15 | 63,315 | 17 |
 | 2023-10-16 | 63,435 | 17 |
 | 2023-10-17 | 63,567 | 18 |
-| 2023-10-18 | 63,594 | 18 |
+| 2023-10-18 | 63,596 | 18 |
 ## Awards
 Max (Great for Beginners): 71  (Ranked 389)  
-Sum: 240 (Ranked 371)  
-Diff (max vs sum): 18  
+Sum: 243 (Ranked 369)  
+Diff (max vs sum): 20  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 71 |
@@ -87,7 +87,7 @@ Diff (max vs sum): 18
 | This game is Extremely Fun | 33 |
 | This game has a Competitive Community | 32 |
 | This game has Quickly Understood Controls | 28 |
-| This game has Amazing Storytelling | 24 |
+| This game has Amazing Storytelling | 27 |
 | This game has Unique Visuals | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -131,4 +131,4 @@ Diff (max vs sum): 18
 | 2023-10-15 | 4.17 | 69 | 268 |
 | 2023-10-16 | 4.16 | 69 | 269 |
 | 2023-10-17 | 4.17 | 71 | 269 |
-| 2023-10-18 | 4.17 | 71 | 240 |
+| 2023-10-18 | 4.17 | 71 | 243 |

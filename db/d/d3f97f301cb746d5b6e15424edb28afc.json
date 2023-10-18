@@ -3,9 +3,9 @@
   "Name": "Gas Station Simulator",
   "ProductSlug": "gas-station-simulator-ee93c7",
   "Ranking_EOS_Progress": 372,
-  "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_Completed": 316,
+  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -1202,9 +1202,9 @@
       "ID": "GSS_ACH_74_SANDSTORM",
       "SetID": "5fn8ia4",
       "Name": "Sandstorm!",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "GSS_ACH_75_RACE_02_COMPLETE",
@@ -1281,8 +1281,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-18T07:04:59.519653+00:00",
+  "LastChanged_Achievements": "2023-10-18T08:04:31.3037531+00:00",
   "LastUpdate_AppInfo": "2023-10-16T13:57:01.0346306+00:00",
-  "LastUpdate_Ratings": "2023-10-18T07:03:08.1331774+00:00",
-  "LastUpdate_Achievements": "2023-10-18T07:04:59.5197665+00:00"
+  "LastUpdate_Ratings": "2023-10-18T08:03:02.8381202+00:00",
+  "LastUpdate_Achievements": "2023-10-18T08:04:31.3038649+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 463,
   "Ranking_PopularitySum": 358,
   "Ranking_EOS_Progress": 177,
-  "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_Completed": 264,
+  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -755,9 +755,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4214,
+  "EOS_Progressed": 4215,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 206,
+  "EOS_NewPlayers": 207,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -7620,6 +7620,11 @@
       "Time": "2023-10-18T05:09:27.1997796+00:00",
       "NumProgressed": 4214,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-18T08:09:05.295198+00:00",
+      "NumProgressed": 4215,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -7632,7 +7637,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -7680,7 +7685,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -7815,15 +7820,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4214,
+      "Progressed": 4215,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-14T13:04:06.5278861+00:00",
-  "LastChanged_Achievements": "2023-10-18T07:09:40.6209063+00:00",
+  "LastChanged_Achievements": "2023-10-18T08:09:05.2951975+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:04.1779972+00:00",
-  "LastUpdate_Ratings": "2023-10-18T06:58:36.5496078+00:00",
-  "LastUpdate_Achievements": "2023-10-18T07:09:40.6209644+00:00"
+  "LastUpdate_Ratings": "2023-10-18T07:58:22.725454+00:00",
+  "LastUpdate_Achievements": "2023-10-18T08:09:05.295249+00:00"
 }

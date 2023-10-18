@@ -6,7 +6,7 @@
   "Ranking_Popularity": 537,
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 94,
-  "Ranking_EOS_Completed": 247,
+  "Ranking_EOS_Completed": 248,
   "Ranking_EOS_NewPlayers": 71,
   "Ranking_EOS_NewCompleters": 49,
   "Store": {
@@ -536,9 +536,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 68414,
+  "EOS_Progressed": 68416,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 845,
+  "EOS_NewPlayers": 847,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -18436,6 +18436,11 @@
       "Time": "2023-10-18T07:10:09.9884063+00:00",
       "NumProgressed": 68414,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-10-18T08:09:21.3919532+00:00",
+      "NumProgressed": 68416,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 67,
@@ -18447,7 +18452,7 @@
       "Name": "Follow the Light",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 29418
+      "UsersEstimate": 29419
     },
     {
       "ID": "02",
@@ -18479,7 +18484,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 16419
+      "UsersEstimate": 16420
     },
     {
       "ID": "06",
@@ -18511,7 +18516,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10946
+      "UsersEstimate": 10947
     },
     {
       "ID": "10",
@@ -18607,7 +18612,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11630
+      "UsersEstimate": 11631
     },
     {
       "ID": "22",
@@ -18615,7 +18620,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10946
+      "UsersEstimate": 10947
     },
     {
       "ID": "23",
@@ -18639,7 +18644,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6841
+      "UsersEstimate": 6842
     },
     {
       "ID": "26",
@@ -18671,7 +18676,7 @@
       "Name": "Sound and Fury",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11630
+      "UsersEstimate": 11631
     },
     {
       "ID": "30",
@@ -18703,7 +18708,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11630
+      "UsersEstimate": 11631
     },
     {
       "ID": "34",
@@ -18719,7 +18724,7 @@
       "Name": "Let There Be Light",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 24629
+      "UsersEstimate": 24630
     },
     {
       "ID": "36",
@@ -18807,7 +18812,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 11630
+      "UsersEstimate": 11631
     },
     {
       "ID": "47",
@@ -18847,7 +18852,7 @@
       "Name": "A Friend in Need",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 2869
+      "UsersEstimate": 2870
     },
     {
       "ID": "52",
@@ -18982,21 +18987,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 68414,
+      "Progressed": 68416,
       "Completed": 69
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 31882,
+      "Progressed": 31884,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-10-17T07:57:25.3609832+00:00",
-  "LastChanged_Achievements": "2023-10-18T07:10:09.9884055+00:00",
+  "LastChanged_Achievements": "2023-10-18T08:09:21.3919523+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:29.5404552+00:00",
-  "LastUpdate_Ratings": "2023-10-18T06:58:06.3589423+00:00",
-  "LastUpdate_Achievements": "2023-10-18T07:10:09.9887543+00:00"
+  "LastUpdate_Ratings": "2023-10-18T07:57:57.5258323+00:00",
+  "LastUpdate_Achievements": "2023-10-18T08:09:21.3921291+00:00"
 }

@@ -5,12 +5,12 @@ Rating: 4.40 (Ranked 725)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 80.00% | ~100,222 |
+| A Family Heirloom | 80.00% | ~100,223 |
 | 74 miles East of Otaheité | 56.00% | ~70,156 |
 | Interesting... | 42.00% | ~52,617 |
-| The Everhart Expedition | 39.00% | ~48,858 |
-| The Vanishing of the Lady Shannon | 30.00% | ~37,583 |
-| Seaside Serenade | 30.00% | ~37,583 |
+| The Everhart Expedition | 39.00% | ~48,859 |
+| The Vanishing of the Lady Shannon | 30.00% | ~37,584 |
+| Seaside Serenade | 30.00% | ~37,584 |
 | Halfway there | 29.00% | ~36,331 |
 | A brigantine, a brig and a barque | 28.00% | ~35,078 |
 | 506 East Hampden Avenue | 28.00% | ~35,078 |
@@ -20,15 +20,15 @@ Rating: 4.40 (Ranked 725)
 | Sunken | 24.00% | ~30,067 |
 | Deep Cut | 24.00% | ~30,067 |
 | FHALGOF'N' | 23.00% | ~28,814 |
-| Marsh Cannery | 21.00% | ~26,308 |
+| Marsh Cannery | 21.00% | ~26,309 |
 | Greetings from Y'ha-nthlei! | 17.00% | ~21,297 |
-| The only thing I have now | 16.00% | ~20,044 |
+| The only thing I have now | 16.00% | ~20,045 |
 | Not Another Boring Slideshow! | 15.00% | ~18,792 |
 | Naacalvision | 15.00% | ~18,792 |
 | I'll make a note of that... | 9.00% | ~11,275 |
 | The Norahnomicon | 9.00% | ~11,275 |
-| Play it again, Norah | 7.00% | ~8,769 |
-| Underwater Royalty | 7.00% | ~8,769 |
+| Play it again, Norah | 7.00% | ~8,770 |
+| Underwater Royalty | 7.00% | ~8,770 |
 | Written in Stone | 6.00% | ~7,517 |
 | Fawning Developers | 5.00% | ~6,264 |
 | The Amazing Adventures of Norah Everhart | 4.00% | ~5,011 |
@@ -40,8 +40,8 @@ Rating: 4.40 (Ranked 725)
 | Gently down the stream... | 1.00% | ~1,253 |
 | Meta-reference | 1.00% | ~1,253 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 125,278 (Ranked 76)  
-Completed: 1,062 (0.85%) (Ranked 153)  
+Progressed: 125,279 (Ranked 76)  
+Completed: 1,062 (0.85%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -221,7 +221,7 @@ Completed: 1,062 (0.85%) (Ranked 153)
 | 2023-10-15 | 124,959 | 1,058 |
 | 2023-10-16 | 125,109 | 1,061 |
 | 2023-10-17 | 125,243 | 1,062 |
-| 2023-10-18 | 125,278 | 1,062 |
+| 2023-10-18 | 125,279 | 1,062 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

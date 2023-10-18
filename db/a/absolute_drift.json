@@ -6,9 +6,9 @@
   "Ranking_Popularity": 537,
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 7,
-  "Ranking_EOS_Completed": 274,
+  "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2021-02-18T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -454,7 +454,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1545635,
+  "EOS_Progressed": 1545640,
   "EOS_Completed": 706,
   "EOS_NewPlayers": 1111,
   "EOS_NewCompleters": 1,
@@ -20904,6 +20904,11 @@
       "Time": "2023-10-18T07:04:47.2495568+00:00",
       "NumProgressed": 1545635,
       "NumCompleted": 706
+    },
+    {
+      "Time": "2023-10-18T08:04:21.5957781+00:00",
+      "NumProgressed": 1545640,
+      "NumCompleted": 706
     }
   ],
   "TotalAchievements": 20,
@@ -20923,7 +20928,7 @@
       "Name": "Maverick",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 108194
+      "UsersEstimate": 108195
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
@@ -20963,7 +20968,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 139107
+      "UsersEstimate": 139108
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -21027,7 +21032,7 @@
       "Name": "Multiplier Master",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 139107
+      "UsersEstimate": 139108
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -21074,15 +21079,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1545635,
+      "Progressed": 1545640,
       "Completed": 706
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-09-25T13:05:51.0685533+00:00",
-  "LastChanged_Achievements": "2023-10-18T07:04:47.2495559+00:00",
+  "LastChanged_Achievements": "2023-10-18T08:04:21.5957772+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:37.6128187+00:00",
-  "LastUpdate_Ratings": "2023-10-18T06:59:29.8245687+00:00",
-  "LastUpdate_Achievements": "2023-10-18T07:04:47.2496974+00:00"
+  "LastUpdate_Ratings": "2023-10-18T07:59:03.7057942+00:00",
+  "LastUpdate_Achievements": "2023-10-18T08:04:21.5959182+00:00"
 }

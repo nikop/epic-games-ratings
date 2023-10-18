@@ -2,13 +2,13 @@
   "ID": "0460f46401ae4bdcadbc931d30028015",
   "Name": "Madden NFL 24",
   "ProductSlug": "madden-nfl-24",
-  "Ranking_Rating": 941,
+  "Ranking_Rating": 940,
   "Ranking_Popularity": 537,
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 197,
-  "Ranking_EOS_Completed": 315,
+  "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -2982,8 +2982,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-10-17T20:02:15.2483497+00:00",
-  "LastChanged_Achievements": "2023-10-18T07:06:41.8642438+00:00",
+  "LastChanged_Achievements": "2023-10-18T08:05:52.2955131+00:00",
   "LastUpdate_AppInfo": "2023-10-12T02:57:10.0786796+00:00",
-  "LastUpdate_Ratings": "2023-10-18T07:03:22.5429154+00:00",
-  "LastUpdate_Achievements": "2023-10-18T07:06:41.8642805+00:00"
+  "LastUpdate_Ratings": "2023-10-18T08:03:14.9901345+00:00",
+  "LastUpdate_Achievements": "2023-10-18T08:05:52.2955444+00:00"
 }

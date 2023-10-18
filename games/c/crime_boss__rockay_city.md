@@ -48,7 +48,7 @@ Rating: 3.94 (Ranked 984)
 | Now You See Me | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 89,153 (Ranked 84)  
-Completed: 50 (0.06%) (Ranked 268)  
+Completed: 50 (0.06%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

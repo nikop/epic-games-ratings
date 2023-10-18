@@ -5,8 +5,8 @@ Rating: 4.54 (Ranked 515)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 4.00% | ~27,893 |
-| Welcome To Hell-A | 4.00% | ~27,893 |
+| Hotel California | 4.00% | ~27,894 |
+| Welcome To Hell-A | 4.00% | ~27,894 |
 | Dr. Reed, I Presume? | 3.00% | ~20,920 |
 | Git Gutte! | 3.00% | ~20,920 |
 | Bookworm | 3.00% | ~20,920 |
@@ -51,8 +51,8 @@ Rating: 4.54 (Ranked 515)
 | Donk! | 0.20% | ~1,395 |
 | Bucket List | 0.10% | ~697 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 697,331 (Ranked 22)  
-Completed: 2,239 (0.32%) (Ranked 200)  
+Progressed: 697,339 (Ranked 22)  
+Completed: 2,239 (0.32%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -232,7 +232,7 @@ Completed: 2,239 (0.32%) (Ranked 200)
 | 2023-10-15 | 696,452 | 2,227 |
 | 2023-10-16 | 696,890 | 2,235 |
 | 2023-10-17 | 697,259 | 2,238 |
-| 2023-10-18 | 697,331 | 2,239 |
+| 2023-10-18 | 697,339 | 2,239 |
 ## Awards
 Max (Great Boss Battles): 6,489  (Ranked 56)  
 Sum: 9,710 (Ranked 91)  

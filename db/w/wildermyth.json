@@ -6,9 +6,9 @@
   "Ranking_Popularity": 485,
   "Ranking_PopularitySum": 499,
   "Ranking_EOS_Progress": 222,
-  "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_Completed": 189,
+  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -157,9 +157,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1427,
+  "EOS_Progressed": 1428,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -1627,6 +1627,11 @@
       "Time": "2023-10-17T17:04:53.9489858+00:00",
       "NumProgressed": 1427,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-18T08:04:41.6968564+00:00",
+      "NumProgressed": 1428,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 56,
@@ -1654,7 +1659,7 @@
       "Name": "Me and My Familiar",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -1710,7 +1715,7 @@
       "Name": "Passing Shadow",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "achievement_friendsBlock20Times",
@@ -1830,7 +1835,7 @@
       "Name": "Cutthroat Competitors",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -1846,7 +1851,7 @@
       "Name": "Chain Reaction",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "achievement_victoryAfterLosingThreeHeroesInBattle",
@@ -2085,15 +2090,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1427,
+      "Progressed": 1428,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-09-16T17:00:08.5779719+00:00",
-  "LastChanged_Achievements": "2023-10-18T07:05:12.5872847+00:00",
+  "LastChanged_Achievements": "2023-10-18T08:04:41.6968558+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:14.4249097+00:00",
-  "LastUpdate_Ratings": "2023-10-18T06:59:14.806008+00:00",
-  "LastUpdate_Achievements": "2023-10-18T07:05:12.5873497+00:00"
+  "LastUpdate_Ratings": "2023-10-18T07:58:50.9158487+00:00",
+  "LastUpdate_Achievements": "2023-10-18T08:04:41.6969148+00:00"
 }

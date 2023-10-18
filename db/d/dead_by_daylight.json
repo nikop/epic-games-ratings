@@ -6,7 +6,7 @@
   "Ranking_Popularity": 15,
   "Ranking_PopularitySum": 13,
   "Ranking_EOS_Progress": 14,
-  "Ranking_EOS_Completed": 297,
+  "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 9,
   "Ranking_EOS_NewCompleters": 49,
   "Store": {
@@ -11501,9 +11501,9 @@
       "Count": 25492
     }
   ],
-  "EOS_Progressed": 946592,
+  "EOS_Progressed": 946620,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 14671,
+  "EOS_NewPlayers": 14659,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -32066,6 +32066,11 @@
       "Time": "2023-10-18T07:04:50.1707253+00:00",
       "NumProgressed": 946592,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-18T08:04:24.1977287+00:00",
+      "NumProgressed": 946620,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 229,
@@ -32293,7 +32298,7 @@
       "Name": "Apt Killer",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 8519
+      "UsersEstimate": 8520
     },
     {
       "ID": "ACH_029",
@@ -32397,7 +32402,7 @@
       "Name": "II",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 8519
+      "UsersEstimate": 8520
     },
     {
       "ID": "ACH_042",
@@ -32973,7 +32978,7 @@
       "Name": "Wounded Healer",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 8519
+      "UsersEstimate": 8520
     },
     {
       "ID": "ACH_114",
@@ -33908,21 +33913,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 946592,
+      "Progressed": 946620,
       "Completed": 52
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 946592,
+      "Progressed": 946620,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-10-18T04:59:23.2658415+00:00",
-  "LastChanged_Achievements": "2023-10-18T07:04:50.1707245+00:00",
+  "LastChanged_Achievements": "2023-10-18T08:04:24.1977279+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:50.4132277+00:00",
-  "LastUpdate_Ratings": "2023-10-18T06:59:52.0983416+00:00",
-  "LastUpdate_Achievements": "2023-10-18T07:04:50.1716447+00:00"
+  "LastUpdate_Ratings": "2023-10-18T07:59:19.0263114+00:00",
+  "LastUpdate_Achievements": "2023-10-18T08:04:24.1984242+00:00"
 }

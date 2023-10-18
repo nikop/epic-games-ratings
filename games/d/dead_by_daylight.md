@@ -33,9 +33,9 @@ Number of Ratings: 70,340  (23.09.2022)
 | Close Shave | 1.00% | ~9,466 |
 | Preemptive Strike | 1.00% | ~9,466 |
 | Humanitarian | 1.00% | ~9,466 |
-| Apt Killer | 0.90% | ~8,519 |
-| II | 0.90% | ~8,519 |
-| Wounded Healer | 0.90% | ~8,519 |
+| Apt Killer | 0.90% | ~8,520 |
+| II | 0.90% | ~8,520 |
+| Wounded Healer | 0.90% | ~8,520 |
 | Vulture | 0.80% | ~7,573 |
 | III | 0.80% | ~7,573 |
 | Rebuilding The Borgo | 0.80% | ~7,573 |
@@ -236,8 +236,8 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~947 |
 | Adept Ripley | 0.10% | ~947 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 946,592 (Ranked 14)  
-Completed: 51 (0.01%) (Ranked 297)  
+Progressed: 946,620 (Ranked 14)  
+Completed: 51 (0.01%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -417,7 +417,7 @@ Completed: 51 (0.01%) (Ranked 297)
 | 2023-10-15 | 942,498 | 51 |
 | 2023-10-16 | 944,360 | 51 |
 | 2023-10-17 | 946,172 | 51 |
-| 2023-10-18 | 946,592 | 51 |
+| 2023-10-18 | 946,620 | 51 |
 ## Awards
 Max (Diverse Characters): 34,059  (Ranked 15)  
 Sum: 263,251 (Ranked 13)  
