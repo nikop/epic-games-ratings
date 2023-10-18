@@ -4,11 +4,11 @@
   "ProductSlug": "old-world",
   "Ranking_Rating": 305,
   "Ranking_Popularity": 267,
-  "Ranking_PopularitySum": 210,
+  "Ranking_PopularitySum": 211,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 285,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1889,7 +1889,7 @@
   ],
   "EOS_Progressed": 14779,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14948,9 +14948,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_STRONG",
       "SetID": "7l38kb8",
       "Name": "Strong Difficulty",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 59
+      "UsersEstimate": 74
     },
     {
       "ID": "ACHIEVEMENT_ELEPHANTINE_ELEPHANT",
@@ -14988,9 +14988,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_ARTISANS",
       "SetID": "7l38kb8",
       "Name": "Artisans",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 133
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_CHAMPIONS",
@@ -16906,8 +16906,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-18T05:58:06.9327831+00:00",
-  "LastChanged_Achievements": "2023-10-18T11:08:26.9434402+00:00",
+  "LastChanged_Achievements": "2023-10-18T12:09:45.0668781+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:21.7880328+00:00",
-  "LastUpdate_Ratings": "2023-10-18T10:58:23.7881539+00:00",
-  "LastUpdate_Achievements": "2023-10-18T11:08:26.9446634+00:00"
+  "LastUpdate_Ratings": "2023-10-18T11:58:52.6055986+00:00",
+  "LastUpdate_Achievements": "2023-10-18T12:09:45.06827+00:00"
 }

@@ -6,27 +6,27 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~69,845 |
-| Powergamer | 27.00% | ~67,351 |
-| Barely scratched the surface | 25.00% | ~62,362 |
-| Write that down | 24.00% | ~59,868 |
-| Guns, lots of guns | 13.00% | ~32,428 |
+| I will finish what you started | 28.00% | ~69,847 |
+| Powergamer | 27.00% | ~67,352 |
+| Barely scratched the surface | 25.00% | ~62,363 |
+| Write that down | 24.00% | ~59,869 |
+| Guns, lots of guns | 13.00% | ~32,429 |
 | Collector | 12.00% | ~29,934 |
-| Elementary! | 9.00% | ~22,450 |
+| Elementary! | 9.00% | ~22,451 |
 | Griever | 8.00% | ~19,956 |
 | Pumpkin Jack | 8.00% | ~19,956 |
 | Wake up! | 8.00% | ~19,956 |
-| It's honest work | 7.00% | ~17,461 |
+| It's honest work | 7.00% | ~17,462 |
 | Me smart | 6.00% | ~14,967 |
 | Trash compactor | 6.00% | ~14,967 |
-| Good listener | 5.00% | ~12,472 |
-| Valedictorian | 5.00% | ~12,472 |
+| Good listener | 5.00% | ~12,473 |
+| Valedictorian | 5.00% | ~12,473 |
 | BOY! | 4.00% | ~9,978 |
 | Ka-ching! | 4.00% | ~9,978 |
 | So you like to read? | 4.00% | ~9,978 |
-| Hoarder | 3.00% | ~7,483 |
-| I like to sniff around | 3.00% | ~7,483 |
-| Mind reader | 3.00% | ~7,483 |
+| Hoarder | 3.00% | ~7,484 |
+| I like to sniff around | 3.00% | ~7,484 |
+| Mind reader | 3.00% | ~7,484 |
 | Catnip | 2.00% | ~4,989 |
 | Gentleman's classic | 2.00% | ~4,989 |
 | Is that a rift? | 2.00% | ~4,989 |
@@ -35,14 +35,14 @@ Number of Ratings: 33  (23.09.2022)
 | Rinse and repeat | 2.00% | ~4,989 |
 | Mama, I'm a criminal | 2.00% | ~4,989 |
 | Never gonna give you up | 2.00% | ~4,989 |
-| A muscle to rely on | 1.00% | ~2,494 |
-| A true blacksmith | 1.00% | ~2,494 |
-| I am in great pain, please help me | 1.00% | ~2,494 |
-| High noon | 1.00% | ~2,494 |
-| Random encounter | 1.00% | ~2,494 |
-| SysOp on duty | 1.00% | ~2,494 |
-| Take the blue pill | 1.00% | ~2,494 |
-| The power of three | 1.00% | ~2,494 |
+| A muscle to rely on | 1.00% | ~2,495 |
+| A true blacksmith | 1.00% | ~2,495 |
+| I am in great pain, please help me | 1.00% | ~2,495 |
+| High noon | 1.00% | ~2,495 |
+| Random encounter | 1.00% | ~2,495 |
+| SysOp on duty | 1.00% | ~2,495 |
+| Take the blue pill | 1.00% | ~2,495 |
+| The power of three | 1.00% | ~2,495 |
 | It's blue, always blue | 0.80% | ~1,996 |
 | Let's try another | 0.80% | ~1,996 |
 | Home run | 0.80% | ~1,996 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~499 |
 | Memory 5 | 0.10% | ~249 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,448 (Ranked 53)  
+Progressed: 249,453 (Ranked 53)  
 Completed: 7 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,7 +240,7 @@ Completed: 7 (0.00%) (Ranked 316)
 | 2023-10-15 | 249,235 | 7 |
 | 2023-10-16 | 249,321 | 7 |
 | 2023-10-17 | 249,413 | 7 |
-| 2023-10-18 | 249,448 | 7 |
+| 2023-10-18 | 249,453 | 7 |
 ## Awards
 Max (Character Customization): 85  (Ranked 368)  
 Sum: 85 (Ranked 442)  

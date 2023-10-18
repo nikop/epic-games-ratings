@@ -6,14 +6,14 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Handyman | 2.00% | ~18,935 |
-| Zealous | 2.00% | ~18,935 |
-| It wakes | 2.00% | ~18,935 |
-| Not half bad | 2.00% | ~18,935 |
-| Apt Survivor | 2.00% | ~18,935 |
-| Survival Treasures | 2.00% | ~18,935 |
-| Skillful | 2.00% | ~18,935 |
-| Make Some Noise | 2.00% | ~18,935 |
+| Handyman | 2.00% | ~18,936 |
+| Zealous | 2.00% | ~18,936 |
+| It wakes | 2.00% | ~18,936 |
+| Not half bad | 2.00% | ~18,936 |
+| Apt Survivor | 2.00% | ~18,936 |
+| Survival Treasures | 2.00% | ~18,936 |
+| Skillful | 2.00% | ~18,936 |
+| Make Some Noise | 2.00% | ~18,936 |
 | The Grand Sacrifice | 1.00% | ~9,468 |
 | Agonizing Escape | 1.00% | ~9,468 |
 | Backdoor Escape | 1.00% | ~9,468 |
@@ -40,10 +40,10 @@ Number of Ratings: 70,340  (23.09.2022)
 | III | 0.80% | ~7,574 |
 | Rebuilding The Borgo | 0.80% | ~7,574 |
 | Second Act | 0.80% | ~7,574 |
-| Escape Artist | 0.70% | ~6,627 |
-| First to the Punch | 0.70% | ~6,627 |
-| Every Last Drop | 0.70% | ~6,627 |
-| With Scars to Show | 0.70% | ~6,627 |
+| Escape Artist | 0.70% | ~6,628 |
+| First to the Punch | 0.70% | ~6,628 |
+| Every Last Drop | 0.70% | ~6,628 |
+| With Scars to Show | 0.70% | ~6,628 |
 | Blood on your hands | 0.60% | ~5,681 |
 | Made it out alive! | 0.60% | ~5,681 |
 | III-50 | 0.60% | ~5,681 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~947 |
 | Adept Ripley | 0.10% | ~947 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 946,766 (Ranked 14)  
+Progressed: 946,810 (Ranked 14)  
 Completed: 51 (0.01%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -417,7 +417,7 @@ Completed: 51 (0.01%) (Ranked 298)
 | 2023-10-15 | 942,498 | 51 |
 | 2023-10-16 | 944,360 | 51 |
 | 2023-10-17 | 946,172 | 51 |
-| 2023-10-18 | 946,766 | 51 |
+| 2023-10-18 | 946,810 | 51 |
 ## Awards
 Max (Diverse Characters): 34,059  (Ranked 15)  
 Sum: 263,251 (Ranked 13)  

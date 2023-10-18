@@ -6,8 +6,8 @@ Rating: 4.76 (Ranked 119)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 15.00% | ~44,779 |
-| First Class Student | 13.00% | ~38,808 |
-| Troll with the Punches | 13.00% | ~38,808 |
+| First Class Student | 13.00% | ~38,809 |
+| Troll with the Punches | 13.00% | ~38,809 |
 | A Keen Sense of Spell | 12.00% | ~35,823 |
 | That's a Keeper | 12.00% | ~35,823 |
 | Grappling with a Graphorn | 11.00% | ~32,838 |
@@ -17,11 +17,11 @@ Rating: 4.76 (Ranked 119)
 | Loom for Improvement | 11.00% | ~32,838 |
 | A Talent for Spending | 11.00% | ~32,838 |
 | Coasting Along | 11.00% | ~32,838 |
-| The Hero of Hogwarts | 10.00% | ~29,852 |
-| Challenge Accepted | 10.00% | ~29,852 |
-| Followed the Butterflies | 9.00% | ~26,867 |
-| The Spell Master | 9.00% | ~26,867 |
-| Rising From the Ashes | 9.00% | ~26,867 |
+| The Hero of Hogwarts | 10.00% | ~29,853 |
+| Challenge Accepted | 10.00% | ~29,853 |
+| Followed the Butterflies | 9.00% | ~26,868 |
+| The Spell Master | 9.00% | ~26,868 |
+| Rising From the Ashes | 9.00% | ~26,868 |
 | The Avenging Gazelle | 8.00% | ~23,882 |
 | Beast Friends | 8.00% | ~23,882 |
 | A Sallow Grave | 8.00% | ~23,882 |
@@ -40,9 +40,9 @@ Rating: 4.76 (Ranked 119)
 | Put Down Roots | 3.00% | ~8,956 |
 | The Auror's Apprentice | 3.00% | ~8,956 |
 | Floo Around the World | 3.00% | ~8,956 |
-| The Good Samaritan | 2.00% | ~5,970 |
-| Rise to the Challenges | 2.00% | ~5,970 |
-| Finishing Touches | 2.00% | ~5,970 |
+| The Good Samaritan | 2.00% | ~5,971 |
+| Rise to the Challenges | 2.00% | ~5,971 |
+| Finishing Touches | 2.00% | ~5,971 |
 | Savvy Spender | 1.00% | ~2,985 |
 | Merlin's Beard! | 1.00% | ~2,985 |
 | Demiguise Dread | 1.00% | ~2,985 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 119)
 | The Nature of the Beast | 0.70% | ~2,090 |
 | Collector's Edition | 0.30% | ~896 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,525 (Ranked 47)  
+Progressed: 298,528 (Ranked 47)  
 Completed: 488 (0.16%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,10 +232,10 @@ Completed: 488 (0.16%) (Ranked 233)
 | 2023-10-15 | 298,425 | 488 |
 | 2023-10-16 | 298,472 | 488 |
 | 2023-10-17 | 298,513 | 488 |
-| 2023-10-18 | 298,525 | 488 |
+| 2023-10-18 | 298,528 | 488 |
 ## Awards
 Max (Character Customization): 23,620  (Ranked 17)  
-Sum: 46,122 (Ranked 30)  
+Sum: 46,129 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -244,8 +244,8 @@ Diff (max vs sum): -13
 | This game is Great for Beginners | 1,190 |
 | This game has Amazing Storytelling | 1,163 |
 | This game has Diverse Characters | 1,152 |
-| This game is Extremely Fun | 1,142 |
-| This game is Relaxing | 1,140 |
+| This game is Extremely Fun | 1,146 |
+| This game is Relaxing | 1,143 |
 | This game has Amazing Characters | 1,106 |
 | This game is Highly Recommended | 1,084 |
 | This game has Quickly Understood Controls | 1,032 |
@@ -462,4 +462,4 @@ Diff (max vs sum): -13
 | 2023-10-15 | 4.76 | 23,559 | 45,955 |
 | 2023-10-16 | 4.76 | 23,559 | 45,997 |
 | 2023-10-17 | 4.76 | 23,586 | 46,073 |
-| 2023-10-18 | 4.76 | 23,620 | 46,122 |
+| 2023-10-18 | 4.76 | 23,620 | 46,129 |

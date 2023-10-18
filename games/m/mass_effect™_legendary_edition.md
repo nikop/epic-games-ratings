@@ -30,8 +30,8 @@
 | Merciless | 46.00% | ~337 |
 | Sentinel Ally | 44.00% | ~323 |
 | Very Elusive | 44.00% | ~323 |
+| Head Hunter | 44.00% | ~323 |
 | Missing in Action | 43.00% | ~315 |
-| Head Hunter | 43.00% | ~315 |
 | Operative | 42.00% | ~308 |
 | Scholar | 42.00% | ~308 |
 | Veteran | 41.00% | ~301 |

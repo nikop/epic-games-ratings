@@ -3,8 +3,8 @@
   "Name": "greensheen Production",
   "Ranking_EOS_Progress": 533,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 390,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 392,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -74,9 +74,9 @@
       "ID": "BFF",
       "SetID": "aph8hbk",
       "Name": "In The Palm Of My Hand",
-      "Percentage": 56,
+      "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "BugSmash",
@@ -250,9 +250,9 @@
       "ID": "KidsSchool",
       "SetID": "aph8hbk",
       "Name": "School Kids",
-      "Percentage": 33,
+      "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "KidsWilderness",
@@ -360,8 +360,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-31T13:15:39.9572089+00:00",
-  "LastChanged_Achievements": "2023-10-18T11:07:03.0244514+00:00",
+  "LastChanged_Achievements": "2023-10-18T12:08:44.2168009+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:13.194983+00:00",
-  "LastUpdate_Ratings": "2023-10-18T11:01:09.826044+00:00",
-  "LastUpdate_Achievements": "2023-10-18T11:07:03.0244797+00:00"
+  "LastUpdate_Ratings": "2023-10-18T12:03:04.5876667+00:00",
+  "LastUpdate_Achievements": "2023-10-18T12:08:44.2168268+00:00"
 }

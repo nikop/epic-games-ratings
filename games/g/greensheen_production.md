@@ -3,6 +3,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| In The Palm Of My Hand | 67.00% | ~6 |
 | Toys Are For Kids | 67.00% | ~6 |
 | Paled | 67.00% | ~6 |
 | Schooled | 67.00% | ~6 |
@@ -13,7 +14,6 @@
 | Mono Tones | 67.00% | ~6 |
 | True Colours | 67.00% | ~6 |
 | Evasive prey | 67.00% | ~6 |
-| In The Palm Of My Hand | 56.00% | ~5 |
 | Bully of Bullies | 56.00% | ~5 |
 | Twenty-Six | 56.00% | ~5 |
 | Hospitalised | 56.00% | ~5 |
@@ -35,8 +35,8 @@
 | Half hat | 44.00% | ~4 |
 | Sick Kids | 44.00% | ~4 |
 | Pale Kids | 44.00% | ~4 |
+| School Kids | 44.00% | ~4 |
 | No More Remains | 33.00% | ~3 |
-| School Kids | 33.00% | ~3 |
 | Primetime Content Consumer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 9 (Ranked 533)  

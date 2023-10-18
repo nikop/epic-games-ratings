@@ -6,36 +6,36 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~11,623 |
-| Finding Your Footing | 26.00% | ~11,192 |
-| Nomad | 17.00% | ~7,318 |
-| Picking Up Speed | 16.00% | ~6,888 |
-| Welcome Maya | 15.00% | ~6,457 |
-| Scout | 11.00% | ~4,735 |
-| Sightseer | 11.00% | ~4,735 |
+| Rookie | 27.00% | ~11,625 |
+| Finding Your Footing | 26.00% | ~11,194 |
+| Nomad | 17.00% | ~7,319 |
+| Picking Up Speed | 16.00% | ~6,889 |
+| Welcome Maya | 15.00% | ~6,458 |
+| Scout | 11.00% | ~4,736 |
+| Sightseer | 11.00% | ~4,736 |
 | Amateur | 10.00% | ~4,305 |
 | Unlock Maya | 8.00% | ~3,444 |
 | Enter Paz | 8.00% | ~3,444 |
 | Wanderer | 8.00% | ~3,444 |
 | Aviator | 6.00% | ~2,583 |
-| My Little Friend | 5.00% | ~2,152 |
-| One With The Board | 5.00% | ~2,152 |
-| Voyager | 5.00% | ~2,152 |
+| My Little Friend | 5.00% | ~2,153 |
+| One With The Board | 5.00% | ~2,153 |
+| Voyager | 5.00% | ~2,153 |
 | Izel Has Arrived | 4.00% | ~1,722 |
-| Junkie | 3.00% | ~1,291 |
-| Traveler | 3.00% | ~1,291 |
-| Journeyer | 3.00% | ~1,291 |
-| Unlock Paz | 3.00% | ~1,291 |
-| Human Flight | 3.00% | ~1,291 |
-| Sandboarder | 3.00% | ~1,291 |
+| Junkie | 3.00% | ~1,292 |
+| Traveler | 3.00% | ~1,292 |
+| Journeyer | 3.00% | ~1,292 |
+| Unlock Paz | 3.00% | ~1,292 |
+| Human Flight | 3.00% | ~1,292 |
+| Sandboarder | 3.00% | ~1,292 |
 | Explorer | 2.00% | ~861 |
 | Pro | 2.00% | ~861 |
 | Unlock Izel | 2.00% | ~861 |
 | Here Comes Felipe | 2.00% | ~861 |
-| Hoist the Mainsail | 1.00% | ~430 |
-| Daredevil | 1.00% | ~430 |
-| Introducing Sumara | 1.00% | ~430 |
-| Vandal | 1.00% | ~430 |
+| Hoist the Mainsail | 1.00% | ~431 |
+| Daredevil | 1.00% | ~431 |
+| Introducing Sumara | 1.00% | ~431 |
+| Vandal | 1.00% | ~431 |
 | Unlock Felipe | 0.90% | ~387 |
 | Adventurer | 0.80% | ~344 |
 | Unlock Tupa | 0.50% | ~215 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~43 |
 | Windswept | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,048 (Ranked 108)  
+Progressed: 43,054 (Ranked 108)  
 Completed: 5 (0.01%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 5 (0.01%) (Ranked 298)
 | 2023-10-15 | 42,837 | 5 |
 | 2023-10-16 | 42,918 | 5 |
 | 2023-10-17 | 43,008 | 5 |
-| 2023-10-18 | 43,048 | 5 |
+| 2023-10-18 | 43,054 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 48  (Ranked 423)  
 Sum: 366 (Ranked 335)  

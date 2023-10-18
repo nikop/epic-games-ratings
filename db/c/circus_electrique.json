@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 390,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 338,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
     "PcReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 471,
+  "EOS_Progressed": 472,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -479,6 +479,11 @@
       "Time": "2023-10-14T13:11:30.747558+00:00",
       "NumProgressed": 471,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-18T12:09:52.6260246+00:00",
+      "NumProgressed": 472,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -506,7 +511,7 @@
       "Name": "Lion Tamer",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -578,7 +583,7 @@
       "Name": "Fan Service",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -594,7 +599,7 @@
       "Name": "More Brain Than Brawn",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -810,7 +815,7 @@
       "Name": "Self Defense",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -889,7 +894,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 471,
+      "Progressed": 472,
       "Completed": 1
     }
   ],
@@ -897,8 +902,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-10-18T11:09:02.8756577+00:00",
+  "LastChanged_Achievements": "2023-10-18T12:09:52.6260241+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:40.9927761+00:00",
-  "LastUpdate_Ratings": "2023-10-18T10:57:40.4064047+00:00",
-  "LastUpdate_Achievements": "2023-10-18T11:09:02.8757091+00:00"
+  "LastUpdate_Ratings": "2023-10-18T11:57:49.4083235+00:00",
+  "LastUpdate_Achievements": "2023-10-18T12:09:52.6260788+00:00"
 }

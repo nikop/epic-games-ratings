@@ -62,11 +62,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mighty | 0.90% | ~133 |
 | Legendary Cities | 0.90% | ~133 |
 | Just Difficulty | 0.90% | ~133 |
+| Artisans | 0.90% | ~133 |
 | Apadana | 0.90% | ~133 |
 | Necropolis | 0.90% | ~133 |
 | Learn to Play 2 | 0.90% | ~133 |
 | Win a Single Player Game | 0.90% | ~133 |
-| Artisans | 0.80% | ~118 |
 | Champions | 0.80% | ~118 |
 | Sages | 0.80% | ~118 |
 | Acropolis | 0.80% | ~118 |
@@ -96,6 +96,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Redemption | 0.60% | ~89 |
 | Legionary | 0.60% | ~89 |
 | Double Victory | 0.60% | ~89 |
+| Strong Difficulty | 0.50% | ~74 |
 | Hunters | 0.50% | ~74 |
 | Landowners | 0.50% | ~74 |
 | Statesmen | 0.50% | ~74 |
@@ -117,7 +118,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Capable | 0.40% | ~59 |
 | Devout | 0.40% | ~59 |
 | Ready | 0.40% | ~59 |
-| Strong Difficulty | 0.40% | ~59 |
 | Babylonia | 0.40% | ~59 |
 | Carthage | 0.40% | ~59 |
 | Egypt | 0.40% | ~59 |
@@ -533,8 +533,8 @@ Completed: 5 (0.03%) (Ranked 285)
 | 2023-10-18 | 14,779 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
-Sum: 1,845 (Ranked 210)  
-Diff (max vs sum): 57  
+Sum: 1,845 (Ranked 211)  
+Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 224 |

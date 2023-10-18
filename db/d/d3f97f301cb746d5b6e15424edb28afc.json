@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 372,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -1138,9 +1138,9 @@
       "ID": "GSS_ACH_66_POPULARITY_06",
       "SetID": "5fn8ia4",
       "Name": "Getting Famous",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "GSS_ACH_67_POPULARITY_07",
@@ -1266,9 +1266,9 @@
       "ID": "GSS_ACH_89_DECORATION_03",
       "SetID": "5fn8ia4",
       "Name": "Decorating A Lot",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     }
   ],
   "AchievementSets": [
@@ -1281,8 +1281,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-18T11:04:38.6157873+00:00",
+  "LastChanged_Achievements": "2023-10-18T12:05:28.5454386+00:00",
   "LastUpdate_AppInfo": "2023-10-16T13:57:01.0346306+00:00",
-  "LastUpdate_Ratings": "2023-10-18T11:01:03.6118837+00:00",
-  "LastUpdate_Achievements": "2023-10-18T11:04:38.6159046+00:00"
+  "LastUpdate_Ratings": "2023-10-18T12:02:47.9658905+00:00",
+  "LastUpdate_Achievements": "2023-10-18T12:05:28.545544+00:00"
 }

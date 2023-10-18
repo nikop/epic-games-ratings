@@ -46,6 +46,7 @@ Rating: 4.50 (Ranked 575)
 | Fragile Panes | 0.40% | ~106 |
 | Liability | 0.30% | ~80 |
 | Surprise! | 0.30% | ~80 |
+| Master Collector | 0.20% | ~53 |
 | Rift Seeker | 0.20% | ~53 |
 | Therapeutic | 0.20% | ~53 |
 | Catostrophic Destroyer | 0.10% | ~27 |
@@ -53,7 +54,6 @@ Rating: 4.50 (Ranked 575)
 | Ghost Expert | 0.10% | ~27 |
 | Line em' up | 0.10% | ~27 |
 | Little Help Here | 0.10% | ~27 |
-| Master Collector | 0.10% | ~27 |
 | Mycophile | 0.10% | ~27 |
 | Ultimate Defense | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
