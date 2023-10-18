@@ -10,7 +10,7 @@ Rating: 4.73 (Ranked 165)
 | Swabbie | 43.00% | ~313 |
 | With Great Power… | 42.00% | ~306 |
 | This Belongs in a Museum | 38.00% | ~277 |
-| The Gambit Has Begun | 34.00% | ~248 |
+| The Gambit Has Begun | 35.00% | ~255 |
 | Powder Monkey | 32.00% | ~233 |
 | Somewhere Deep in the Lost Caribbean | 31.00% | ~226 |
 | Mirror Mirror on the Wall | 30.00% | ~218 |
@@ -22,8 +22,8 @@ Rating: 4.73 (Ranked 165)
 | Persistent Parasite | 19.00% | ~138 |
 | Jaded Judge | 14.00% | ~102 |
 | Privateer | 12.00% | ~87 |
+| Tobacco Travesty | 12.00% | ~87 |
 | Rustic Recipe | 12.00% | ~87 |
-| Tobacco Travesty | 11.00% | ~80 |
 | Accursed Artifacts | 10.00% | ~73 |
 | Lyrical Longing | 10.00% | ~73 |
 | Corsair | 7.00% | ~51 |

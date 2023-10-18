@@ -10,11 +10,11 @@ Rating: 4.76 (Ranked 119)
 | Expanding Horizons | 7.00% | ~13,788 |
 | Quest for Survival | 7.00% | ~13,788 |
 | Not Your Average Trait | 7.00% | ~13,788 |
-| Gleaming the Cube | 6.00% | ~11,818 |
-| Familiar Face | 6.00% | ~11,818 |
-| Duality | 6.00% | ~11,818 |
-| Boss'n Up | 6.00% | ~11,818 |
-| Trait Chaser | 6.00% | ~11,818 |
+| Gleaming the Cube | 6.00% | ~11,819 |
+| Familiar Face | 6.00% | ~11,819 |
+| Duality | 6.00% | ~11,819 |
+| Boss'n Up | 6.00% | ~11,819 |
+| Trait Chaser | 6.00% | ~11,819 |
 | Not So Special Now | 5.00% | ~9,849 |
 | Not a Janitor | 5.00% | ~9,849 |
 | Equal Measures | 5.00% | ~9,849 |
@@ -43,20 +43,20 @@ Rating: 4.76 (Ranked 119)
 | Edgelord | 3.00% | ~5,909 |
 | The Ultimate Weapon | 3.00% | ~5,909 |
 | No One Should Have All That Power | 3.00% | ~5,909 |
-| Crafty | 2.00% | ~3,939 |
-| Only Human | 2.00% | ~3,939 |
-| Red Room | 2.00% | ~3,939 |
-| The Collector | 2.00% | ~3,939 |
-| Scrap Hoarder | 2.00% | ~3,939 |
-| Carnage in C-Minor | 2.00% | ~3,939 |
-| Maxed Out! | 2.00% | ~3,939 |
-| Transmutate | 2.00% | ~3,939 |
+| Crafty | 2.00% | ~3,940 |
+| Only Human | 2.00% | ~3,940 |
+| Red Room | 2.00% | ~3,940 |
+| The Collector | 2.00% | ~3,940 |
+| Scrap Hoarder | 2.00% | ~3,940 |
+| Carnage in C-Minor | 2.00% | ~3,940 |
+| Maxed Out! | 2.00% | ~3,940 |
+| Transmutate | 2.00% | ~3,940 |
 | Ghost in the Machine | 1.00% | ~1,970 |
 | The Trigger | 1.00% | ~1,970 |
 | Cutting Edge | 1.00% | ~1,970 |
 | Proving Grounds | 1.00% | ~1,970 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 196,974 (Ranked 68)  
+Progressed: 196,978 (Ranked 68)  
 Completed: 394 (0.20%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 394 (0.20%) (Ranked 224)
 | 2023-10-15 | 196,107 | 393 |
 | 2023-10-16 | 196,519 | 393 |
 | 2023-10-17 | 196,940 | 394 |
-| 2023-10-18 | 196,974 | 394 |
+| 2023-10-18 | 196,978 | 394 |
 ## Awards
 Max (Great Boss Battles): 1,843  (Ranked 114)  
 Sum: 4,024 (Ranked 149)  

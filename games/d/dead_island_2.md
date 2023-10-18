@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 515)
 | Donk! | 0.20% | ~1,395 |
 | Bucket List | 0.10% | ~697 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 697,291 (Ranked 22)  
+Progressed: 697,298 (Ranked 22)  
 Completed: 2,239 (0.32%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,16 +232,16 @@ Completed: 2,239 (0.32%) (Ranked 200)
 | 2023-10-15 | 696,452 | 2,227 |
 | 2023-10-16 | 696,890 | 2,235 |
 | 2023-10-17 | 697,259 | 2,238 |
-| 2023-10-18 | 697,291 | 2,239 |
+| 2023-10-18 | 697,298 | 2,239 |
 ## Awards
 Max (Great Boss Battles): 6,489  (Ranked 56)  
-Sum: 9,704 (Ranked 91)  
+Sum: 9,706 (Ranked 91)  
 Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,489 |
 | This game is Great for Beginners | 462 |
-| This game has Diverse Characters | 449 |
+| This game has Diverse Characters | 451 |
 | This game has Quickly Understood Controls | 425 |
 | This game is Relaxing | 407 |
 | This game has Amazing Storytelling | 384 |
@@ -431,4 +431,4 @@ Diff (max vs sum): -35
 | 2023-10-15 | 4.54 | 6,462 | 9,657 |
 | 2023-10-16 | 4.54 | 6,462 | 9,671 |
 | 2023-10-17 | 4.54 | 6,477 | 9,692 |
-| 2023-10-18 | 4.54 | 6,489 | 9,704 |
+| 2023-10-18 | 4.54 | 6,489 | 9,706 |

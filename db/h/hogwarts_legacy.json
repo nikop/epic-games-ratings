@@ -9126,9 +9126,9 @@
       "Count": 718
     }
   ],
-  "EOS_Progressed": 298516,
+  "EOS_Progressed": 298517,
   "EOS_Completed": 488,
-  "EOS_NewPlayers": 361,
+  "EOS_NewPlayers": 362,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -28471,6 +28471,11 @@
       "Time": "2023-10-18T01:49:52.0583821+00:00",
       "NumProgressed": 298516,
       "NumCompleted": 488
+    },
+    {
+      "Time": "2023-10-18T03:06:54.511584+00:00",
+      "NumProgressed": 298517,
+      "NumCompleted": 488
     }
   ],
   "TotalAchievements": 45,
@@ -28482,7 +28487,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 44777
+      "UsersEstimate": 44778
     },
     {
       "ID": "PFA_10",
@@ -28642,7 +28647,7 @@
       "Name": "Put Down Roots",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8955
+      "UsersEstimate": 8956
     },
     {
       "ID": "PFA_29",
@@ -28658,7 +28663,7 @@
       "Name": "The Auror\u0027s Apprentice",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8955
+      "UsersEstimate": 8956
     },
     {
       "ID": "PFA_30",
@@ -28698,7 +28703,7 @@
       "Name": "Floo Around the World",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8955
+      "UsersEstimate": 8956
     },
     {
       "ID": "PFA_35",
@@ -28706,7 +28711,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26866
+      "UsersEstimate": 26867
     },
     {
       "ID": "PFA_36",
@@ -28786,7 +28791,7 @@
       "Name": "The Spell Master",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 26866
+      "UsersEstimate": 26867
     },
     {
       "ID": "PFA_45",
@@ -28834,14 +28839,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26866
+      "UsersEstimate": 26867
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298516,
+      "Progressed": 298517,
       "Completed": 488
     }
   ],
@@ -28849,8 +28854,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-18T02:15:07.8963295+00:00",
-  "LastChanged_Achievements": "2023-10-18T02:23:58.4840253+00:00",
+  "LastChanged_Achievements": "2023-10-18T03:06:54.5115834+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:16.623812+00:00",
-  "LastUpdate_Ratings": "2023-10-18T02:15:07.8963301+00:00",
-  "LastUpdate_Achievements": "2023-10-18T02:23:58.4841423+00:00"
+  "LastUpdate_Ratings": "2023-10-18T02:58:00.7668639+00:00",
+  "LastUpdate_Achievements": "2023-10-18T03:06:54.5117688+00:00"
 }

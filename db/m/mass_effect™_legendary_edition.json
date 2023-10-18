@@ -2383,9 +2383,9 @@
       "ID": "achievement_49",
       "SetID": "d252ncf",
       "Name": "The Professor",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 285
+      "UsersEstimate": 292
     },
     {
       "ID": "achievement_5",
@@ -2843,8 +2843,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-18T02:23:17.5687067+00:00",
+  "LastChanged_Achievements": "2023-10-18T03:06:12.9454006+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:30.4071338+00:00",
-  "LastUpdate_Ratings": "2023-10-18T02:19:03.1191937+00:00",
-  "LastUpdate_Achievements": "2023-10-18T02:23:17.568884+00:00"
+  "LastUpdate_Ratings": "2023-10-18T03:02:02.7348114+00:00",
+  "LastUpdate_Achievements": "2023-10-18T03:06:12.9456348+00:00"
 }

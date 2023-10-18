@@ -4086,9 +4086,9 @@
       "Count": 455
     }
   ],
-  "EOS_Progressed": 89152,
+  "EOS_Progressed": 89153,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 175,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -22441,6 +22441,11 @@
       "Time": "2023-10-18T00:04:32.2169816+00:00",
       "NumProgressed": 89152,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-10-18T03:04:51.0284073+00:00",
+      "NumProgressed": 89153,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 41,
@@ -22764,7 +22769,7 @@
       "Name": "One for All",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_1050",
@@ -22772,20 +22777,20 @@
       "Name": "Now You See Me",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     }
   ],
   "AchievementSets": [
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 89152,
+      "Progressed": 89153,
       "Completed": 50
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 17499,
+      "Progressed": 17500,
       "Completed": 15548
     }
   ],
@@ -22793,8 +22798,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-10-18T00:00:09.7349616+00:00",
-  "LastChanged_Achievements": "2023-10-18T02:21:58.3798467+00:00",
+  "LastChanged_Achievements": "2023-10-18T03:04:51.0284067+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:09.3878818+00:00",
-  "LastUpdate_Ratings": "2023-10-18T02:17:49.9238755+00:00",
-  "LastUpdate_Achievements": "2023-10-18T02:21:58.3799558+00:00"
+  "LastUpdate_Ratings": "2023-10-18T03:00:48.6655968+00:00",
+  "LastUpdate_Achievements": "2023-10-18T03:04:51.0286361+00:00"
 }

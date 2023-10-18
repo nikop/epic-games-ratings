@@ -8,6 +8,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 0.50% | ~1,161 |
 | Foul Play | 0.30% | ~595 |
+| Spelljammers in Training | 0.30% | ~595 |
 | Beast Intentions | 0.20% | ~464 |
 | The Cursed Farmer | 0.20% | ~464 |
 | The Ring of Regeneration | 0.20% | ~464 |
@@ -16,7 +17,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Jungles of Doomspace | 0.20% | ~397 |
 | The Arena of Blood | 0.20% | ~397 |
 | Fowl Play | 0.20% | ~397 |
-| Spelljammers in Training | 0.20% | ~397 |
 | Maddening | 0.10% | ~232 |
 | Pros and CONs | 0.10% | ~232 |
 | Upholding the Law | 0.10% | ~232 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Entrance of the Gladiators | 0.10% | ~198 |
 | Time Out | 0.10% | ~198 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,107 (Ranked 59)  
+Progressed: 232,109 (Ranked 59)  
 Completed: 2,368 (1.02%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -716,7 +716,7 @@ Completed: 2,368 (1.02%) (Ranked 145)
 | 2023-10-15 | 231,955 | 2,364 |
 | 2023-10-16 | 232,030 | 2,366 |
 | 2023-10-17 | 232,098 | 2,367 |
-| 2023-10-18 | 232,107 | 2,368 |
+| 2023-10-18 | 232,109 | 2,368 |
 ## Awards
 Max (Great for Beginners): 5,410  (Ranked 69)  
 Sum: 32,081 (Ranked 41)  

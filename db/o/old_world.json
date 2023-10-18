@@ -1883,7 +1883,7 @@
   ],
   "EOS_Progressed": 14776,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 188,
+  "EOS_NewPlayers": 187,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14700,9 +14700,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_MIGHTY",
       "SetID": "9201eeb",
       "Name": "Mighty",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 133
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_NOBLE",
@@ -14788,9 +14788,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_VALIANT",
       "SetID": "9201eeb",
       "Name": "Valiant",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 148
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_VICTORIOUS",
@@ -16890,8 +16890,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-17T23:58:04.3729179+00:00",
-  "LastChanged_Achievements": "2023-10-18T02:26:20.3888299+00:00",
+  "LastChanged_Achievements": "2023-10-18T03:09:21.6186031+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:21.7880328+00:00",
-  "LastUpdate_Ratings": "2023-10-18T02:15:28.0394076+00:00",
-  "LastUpdate_Achievements": "2023-10-18T02:26:20.3898226+00:00"
+  "LastUpdate_Ratings": "2023-10-18T02:58:21.4159021+00:00",
+  "LastUpdate_Achievements": "2023-10-18T03:09:21.6199133+00:00"
 }

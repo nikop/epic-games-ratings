@@ -5,36 +5,36 @@ Rating: 4.49 (Ranked 593)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rooftop Duel | 99.00% | ~5,379 |
-| For Saw Gerrera | 98.00% | ~5,324 |
-| Grab Some Seat | 92.00% | ~4,998 |
-| Can You Pet the Bogling? | 87.00% | ~4,727 |
-| The Past Made Present | 83.00% | ~4,509 |
-| Survivors, We Adapt | 79.00% | ~4,292 |
-| Among the Masters | 78.00% | ~4,238 |
-| They Never Saw It Coming | 77.00% | ~4,183 |
-| Who Gives a Puck | 73.00% | ~3,966 |
-| For the Path | 65.00% | ~3,531 |
-| Mirror Match | 64.00% | ~3,477 |
-| Now, This Isn't Podracing | 64.00% | ~3,477 |
-| Skywalker | 61.00% | ~3,314 |
+| Rooftop Duel | 99.00% | ~5,380 |
+| For Saw Gerrera | 98.00% | ~5,325 |
+| Grab Some Seat | 92.00% | ~4,999 |
+| Can You Pet the Bogling? | 87.00% | ~4,728 |
+| The Past Made Present | 83.00% | ~4,510 |
+| Survivors, We Adapt | 79.00% | ~4,293 |
+| Among the Masters | 78.00% | ~4,239 |
+| They Never Saw It Coming | 77.00% | ~4,184 |
+| Who Gives a Puck | 73.00% | ~3,967 |
+| For the Path | 65.00% | ~3,532 |
+| Mirror Match | 64.00% | ~3,478 |
+| Now, This Isn't Podracing | 64.00% | ~3,478 |
+| Skywalker | 61.00% | ~3,315 |
 | Out of Bedlam | 60.00% | ~3,260 |
 | Cleaning Up | 54.00% | ~2,934 |
 | Kitted Out | 51.00% | ~2,771 |
 | Tanalorr Bound | 51.00% | ~2,771 |
-| Hey, Luke At Us | 50.00% | ~2,716 |
+| Hey, Luke At Us | 50.00% | ~2,717 |
 | Tragedy | 48.00% | ~2,608 |
-| At the Precipice | 46.00% | ~2,499 |
-| Riposte | 46.00% | ~2,499 |
+| At the Precipice | 46.00% | ~2,500 |
+| Riposte | 46.00% | ~2,500 |
 | Into the Abyss | 45.00% | ~2,445 |
 | Greezy Money | 44.00% | ~2,391 |
-| A Place You Could Call Home | 43.00% | ~2,336 |
-| Catch! | 40.00% | ~2,173 |
+| A Place You Could Call Home | 43.00% | ~2,337 |
+| Catch! | 40.00% | ~2,174 |
 | They're Probably Fine | 39.00% | ~2,119 |
-| There Is No Try | 37.00% | ~2,010 |
+| There Is No Try | 37.00% | ~2,011 |
 | Han Slowlo | 36.00% | ~1,956 |
-| The Jedi Path | 31.00% | ~1,684 |
-| This Is Canon | 28.00% | ~1,521 |
+| The Jedi Path | 31.00% | ~1,685 |
+| This Is Canon | 28.00% | ~1,522 |
 | It's a Trap | 25.00% | ~1,358 |
 | You've Got A Friend | 22.00% | ~1,195 |
 | King of the World | 16.00% | ~869 |
@@ -59,7 +59,7 @@ Rating: 4.49 (Ranked 593)
 | Pinpoint | 2.00% | ~109 |
 | Splurgle | 2.00% | ~109 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,433 (Ranked 171)  
+Progressed: 5,434 (Ranked 171)  
 Completed: 20 (0.37%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 20 (0.37%) (Ranked 195)
 | 2023-10-15 | 5,272 | 20 |
 | 2023-10-16 | 5,343 | 20 |
 | 2023-10-17 | 5,426 | 20 |
-| 2023-10-18 | 5,433 | 20 |
+| 2023-10-18 | 5,434 | 20 |
 ## Awards
 Max (Great Boss Battles): 2,998  (Ranked 95)  
 Sum: 4,450 (Ranked 143)  

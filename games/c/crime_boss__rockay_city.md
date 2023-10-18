@@ -44,10 +44,10 @@ Rating: 3.94 (Ranked 984)
 | Geek Out | 0.10% | ~89 |
 | Classy Joint | 0.10% | ~89 |
 | Impossible Dreamer | 0.10% | ~89 |
-| One for All | 0.10% | ~17 |
-| Now You See Me | 0.10% | ~17 |
+| One for All | 0.10% | ~18 |
+| Now You See Me | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,152 (Ranked 84)  
+Progressed: 89,153 (Ranked 84)  
 Completed: 50 (0.06%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 50 (0.06%) (Ranked 268)
 | 2023-10-15 | 89,106 | 50 |
 | 2023-10-16 | 89,135 | 50 |
 | 2023-10-17 | 89,151 | 50 |
-| 2023-10-18 | 89,152 | 50 |
+| 2023-10-18 | 89,153 | 50 |
 ## Awards
 Max (Diverse Characters): 497  (Ranked 205)  
 Sum: 2,825 (Ranked 175)  

@@ -1386,7 +1386,7 @@
       "Count": 231
     }
   ],
-  "EOS_Progressed": 7741,
+  "EOS_Progressed": 7742,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 384,
   "EOS_NewCompleters": 0,
@@ -4711,6 +4711,11 @@
       "Time": "2023-10-18T02:26:18.57232+00:00",
       "NumProgressed": 7741,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-18T03:09:19.4045436+00:00",
+      "NumProgressed": 7742,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -4731,7 +4736,7 @@
       "Name": "Eye Of The TaiGore",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1780
+      "UsersEstimate": 1781
     },
     {
       "ID": "ach03",
@@ -4763,7 +4768,7 @@
       "Name": "Titan",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 5728
+      "UsersEstimate": 5729
     },
     {
       "ID": "ach07",
@@ -4771,7 +4776,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 4180
+      "UsersEstimate": 4181
     },
     {
       "ID": "ach08",
@@ -4779,7 +4784,7 @@
       "Name": "It Has Begun!!!",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2864
+      "UsersEstimate": 2865
     },
     {
       "ID": "ach09",
@@ -4891,7 +4896,7 @@
       "Name": "Where\u0027s Blanche",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 1393
+      "UsersEstimate": 1394
     },
     {
       "ID": "ach23",
@@ -4947,7 +4952,7 @@
       "Name": "Unstoppable",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1780
+      "UsersEstimate": 1781
     },
     {
       "ID": "ach30",
@@ -4963,7 +4968,7 @@
       "Name": "Not So Big Now, Are You??",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 2322
+      "UsersEstimate": 2323
     },
     {
       "ID": "ach32",
@@ -4971,7 +4976,7 @@
       "Name": "Who Da Boss??",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 1935
+      "UsersEstimate": 1936
     },
     {
       "ID": "ach33",
@@ -4995,7 +5000,7 @@
       "Name": "Kollector",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "ach36",
@@ -5011,7 +5016,7 @@
       "Name": "ABACABB",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 4335
+      "UsersEstimate": 4336
     },
     {
       "ID": "ach38",
@@ -5035,7 +5040,7 @@
       "Name": "Found You",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 2864
+      "UsersEstimate": 2865
     },
     {
       "ID": "ach41",
@@ -5043,7 +5048,7 @@
       "Name": "Stop Hiding",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2864
+      "UsersEstimate": 2865
     },
     {
       "ID": "ach42",
@@ -5051,7 +5056,7 @@
       "Name": "Quest Master",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 3251
+      "UsersEstimate": 3252
     },
     {
       "ID": "ach43",
@@ -5115,14 +5120,14 @@
       "Name": "Witness Me!!!",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2864
+      "UsersEstimate": 2865
     }
   ],
   "AchievementSets": [
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 7741,
+      "Progressed": 7742,
       "Completed": 0
     }
   ],
@@ -5130,8 +5135,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-10-18T01:43:44.1316819+00:00",
-  "LastChanged_Achievements": "2023-10-18T02:26:18.5723196+00:00",
+  "LastChanged_Achievements": "2023-10-18T03:09:19.404543+00:00",
   "LastUpdate_AppInfo": "2023-10-14T07:57:06.3888504+00:00",
-  "LastUpdate_Ratings": "2023-10-18T02:18:14.1319208+00:00",
-  "LastUpdate_Achievements": "2023-10-18T02:26:18.5723687+00:00"
+  "LastUpdate_Ratings": "2023-10-18T03:01:12.7910284+00:00",
+  "LastUpdate_Achievements": "2023-10-18T03:09:19.4046283+00:00"
 }

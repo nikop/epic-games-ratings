@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Path of purity | 83.00% | ~97 |
+| Path of purity | 84.00% | ~98 |
 | First time, yes? | 57.00% | ~67 |
 | Witch's duty | 57.00% | ~67 |
 | A good start | 48.00% | ~56 |

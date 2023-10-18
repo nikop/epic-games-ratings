@@ -7402,9 +7402,9 @@
       "Count": 3472
     }
   ],
-  "EOS_Progressed": 232107,
+  "EOS_Progressed": 232109,
   "EOS_Completed": 2368,
-  "EOS_NewPlayers": 616,
+  "EOS_NewPlayers": 617,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
@@ -27537,6 +27537,11 @@
       "Time": "2023-10-18T02:26:04.4050333+00:00",
       "NumProgressed": 232107,
       "NumCompleted": 2368
+    },
+    {
+      "Time": "2023-10-18T03:09:05.4012617+00:00",
+      "NumProgressed": 232109,
+      "NumCompleted": 2368
     }
   ],
   "TotalAchievements": 528,
@@ -31754,9 +31759,9 @@
       "ID": "objective_completed_1420",
       "SetID": "415jc5c",
       "Name": "Spelljammers in Training",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 397
+      "UsersEstimate": 595
     },
     {
       "ID": "objective_completed_1421",
@@ -31771,21 +31776,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 198381,
+      "Progressed": 198383,
       "Completed": 3650
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 232107,
+      "Progressed": 232109,
       "Completed": 2368
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-10-18T01:40:40.1565976+00:00",
-  "LastChanged_Achievements": "2023-10-18T02:26:04.4050329+00:00",
+  "LastChanged_Achievements": "2023-10-18T03:09:05.4012607+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:38.1045135+00:00",
-  "LastUpdate_Ratings": "2023-10-18T02:14:30.638872+00:00",
-  "LastUpdate_Achievements": "2023-10-18T02:26:04.4075592+00:00"
+  "LastUpdate_Ratings": "2023-10-18T02:57:22.6409457+00:00",
+  "LastUpdate_Achievements": "2023-10-18T03:09:05.4048653+00:00"
 }

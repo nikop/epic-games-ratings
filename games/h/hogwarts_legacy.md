@@ -5,7 +5,7 @@ Rating: 4.76 (Ranked 119)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 15.00% | ~44,777 |
+| The Sort Who Makes an Entrance | 15.00% | ~44,778 |
 | First Class Student | 13.00% | ~38,807 |
 | Troll with the Punches | 13.00% | ~38,807 |
 | A Keen Sense of Spell | 12.00% | ~35,822 |
@@ -19,9 +19,9 @@ Rating: 4.76 (Ranked 119)
 | Coasting Along | 11.00% | ~32,837 |
 | The Hero of Hogwarts | 10.00% | ~29,852 |
 | Challenge Accepted | 10.00% | ~29,852 |
-| Followed the Butterflies | 9.00% | ~26,866 |
-| The Spell Master | 9.00% | ~26,866 |
-| Rising From the Ashes | 9.00% | ~26,866 |
+| Followed the Butterflies | 9.00% | ~26,867 |
+| The Spell Master | 9.00% | ~26,867 |
+| Rising From the Ashes | 9.00% | ~26,867 |
 | The Avenging Gazelle | 8.00% | ~23,881 |
 | Beast Friends | 8.00% | ~23,881 |
 | A Sallow Grave | 8.00% | ~23,881 |
@@ -37,9 +37,9 @@ Rating: 4.76 (Ranked 119)
 | The Intrepid Explorer | 4.00% | ~11,941 |
 | The Gryffindor in the Graveyard | 4.00% | ~11,941 |
 | The Wise Owl | 4.00% | ~11,941 |
-| Put Down Roots | 3.00% | ~8,955 |
-| The Auror's Apprentice | 3.00% | ~8,955 |
-| Floo Around the World | 3.00% | ~8,955 |
+| Put Down Roots | 3.00% | ~8,956 |
+| The Auror's Apprentice | 3.00% | ~8,956 |
+| Floo Around the World | 3.00% | ~8,956 |
 | The Good Samaritan | 2.00% | ~5,970 |
 | Rise to the Challenges | 2.00% | ~5,970 |
 | Finishing Touches | 2.00% | ~5,970 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 119)
 | The Nature of the Beast | 0.70% | ~2,090 |
 | Collector's Edition | 0.30% | ~896 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,516 (Ranked 47)  
+Progressed: 298,517 (Ranked 47)  
 Completed: 488 (0.16%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,7 +232,7 @@ Completed: 488 (0.16%) (Ranked 232)
 | 2023-10-15 | 298,425 | 488 |
 | 2023-10-16 | 298,472 | 488 |
 | 2023-10-17 | 298,513 | 488 |
-| 2023-10-18 | 298,516 | 488 |
+| 2023-10-18 | 298,517 | 488 |
 ## Awards
 Max (Character Customization): 23,620  (Ranked 17)  
 Sum: 46,110 (Ranked 30)  

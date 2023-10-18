@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | First Step | 52.00% | ~95 |
 | The 4 Pillars | 50.00% | ~91 |
-| Capitalism | 20.00% | ~36 |
+| Capitalism | 21.00% | ~38 |
 | Great Producer | 12.00% | ~22 |
 | Green Energy | 12.00% | ~22 |
 | There's something in those trees | 11.00% | ~20 |

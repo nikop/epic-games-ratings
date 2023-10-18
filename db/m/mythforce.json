@@ -7716,9 +7716,9 @@
       "ID": "MF_Ach_HorderBetterFasterStronger",
       "SetID": "9b9n573",
       "Name": "Horder Better Faster Stronger",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 673
+      "UsersEstimate": 716
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -7788,9 +7788,9 @@
       "ID": "MF_Ach_ThatllLeaveAMark",
       "SetID": "9b9n573",
       "Name": "That\u0027ll Leave a Mark",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 926
+      "UsersEstimate": 968
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -7812,8 +7812,8 @@
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-14T13:04:06.5278861+00:00",
-  "LastChanged_Achievements": "2023-10-18T02:26:15.9644095+00:00",
+  "LastChanged_Achievements": "2023-10-18T03:09:16.4793078+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:04.1779972+00:00",
-  "LastUpdate_Ratings": "2023-10-18T02:15:48.9085725+00:00",
-  "LastUpdate_Achievements": "2023-10-18T02:26:15.9644523+00:00"
+  "LastUpdate_Ratings": "2023-10-18T02:58:42.6103043+00:00",
+  "LastUpdate_Achievements": "2023-10-18T03:09:16.4793786+00:00"
 }

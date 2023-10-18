@@ -35,8 +35,8 @@
 | Scholar | 42.00% | ~307 |
 | Veteran | 41.00% | ~300 |
 | Operative | 41.00% | ~300 |
+| The Professor | 40.00% | ~292 |
 | Power Full | 40.00% | ~292 |
-| The Professor | 39.00% | ~285 |
 | The Archangel | 38.00% | ~278 |
 | The Convict | 37.00% | ~270 |
 | Completionist | 36.00% | ~263 |

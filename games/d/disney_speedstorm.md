@@ -1,21 +1,21 @@
 # Disney Speedstorm
 [Store](https://store.epicgames.com/en-US/p/disney-speedstorm)  
 [View Rawdata](../../db/d/disney_speedstorm.json)  
-Rating: 4.42 (Ranked 692)  
+Rating: 4.41 (Ranked 700)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 5.00% | ~11,652 |
-| IT MAKES BOOM! | 3.00% | ~6,991 |
-| EXTRA BOOST | 2.00% | ~4,661 |
-| PROTECTED | 2.00% | ~4,661 |
-| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,330 |
-| AGGRESSIVE RACER | 1.00% | ~2,330 |
-| PRO | 1.00% | ~2,330 |
-| A TIGER'S FEAR | 0.90% | ~2,097 |
-| ACE SPEEDSTER | 0.50% | ~1,165 |
-| IT'S A LONG WAY TO THE TOP | 0.40% | ~932 |
-| DEFEAT OUR CHAMPION | 0.40% | ~932 |
+| ROOKIE | 5.00% | ~11,657 |
+| IT MAKES BOOM! | 3.00% | ~6,994 |
+| EXTRA BOOST | 2.00% | ~4,663 |
+| PROTECTED | 2.00% | ~4,663 |
+| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,331 |
+| AGGRESSIVE RACER | 1.00% | ~2,331 |
+| PRO | 1.00% | ~2,331 |
+| A TIGER'S FEAR | 0.90% | ~2,098 |
+| ACE SPEEDSTER | 0.50% | ~1,166 |
+| IT'S A LONG WAY TO THE TOP | 0.40% | ~933 |
+| DEFEAT OUR CHAMPION | 0.40% | ~933 |
 | TRAINING HARD | 0.30% | ~699 |
 | RELEASE THE KRAKEN | 0.30% | ~699 |
 | BE OUR GUEST | 0.30% | ~699 |
@@ -30,7 +30,7 @@ Rating: 4.42 (Ranked 692)
 | ACE TRICKSTER | 0.20% | ~466 |
 | FRAMED! | 0.10% | ~233 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,039 (Ranked 58)  
+Progressed: 233,141 (Ranked 58)  
 Completed: 235 (0.10%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,14 +207,14 @@ Completed: 235 (0.10%) (Ranked 247)
 | 2023-10-15 | 226,884 | 233 |
 | 2023-10-16 | 229,960 | 234 |
 | 2023-10-17 | 232,528 | 235 |
-| 2023-10-18 | 233,039 | 235 |
+| 2023-10-18 | 233,141 | 235 |
 ## Awards
-Max (Diverse Characters): 28  (Ranked 484)  
-Sum: 117 (Ranked 423)  
-Diff (max vs sum): 61  
+Max (Diverse Characters): 29  (Ranked 478)  
+Sum: 118 (Ranked 421)  
+Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 28 |
+| This game has Diverse Characters | 29 |
 | This game is Great for Quick Sessions | 25 |
 | This game is Great for Beginners | 22 |
 | This game has Amazing Characters | 22 |
@@ -239,4 +239,4 @@ Diff (max vs sum): 61
 | 2023-10-15 | 4.40 | 25 | 25 |
 | 2023-10-16 | 4.41 | 28 | 69 |
 | 2023-10-17 | 4.41 | 28 | 113 |
-| 2023-10-18 | 4.42 | 28 | 117 |
+| 2023-10-18 | 4.42 | 29 | 118 |

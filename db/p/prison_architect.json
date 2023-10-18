@@ -6066,9 +6066,9 @@
       "Count": 434
     }
   ],
-  "EOS_Progressed": 184500,
+  "EOS_Progressed": 184502,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1878,
+  "EOS_NewPlayers": 1873,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26456,6 +26456,11 @@
       "Time": "2023-10-18T02:23:04.5643065+00:00",
       "NumProgressed": 184500,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-18T03:05:59.1996496+00:00",
+      "NumProgressed": 184502,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 16,
@@ -26475,7 +26480,7 @@
       "Name": "Crowd Control",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 922
+      "UsersEstimate": 923
     },
     {
       "ID": "Achievement_10",
@@ -26507,7 +26512,7 @@
       "Name": "It\u0027s Not What You Know...",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "Achievement_14",
@@ -26515,7 +26520,7 @@
       "Name": "... It\u0027s What You Can Prove",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "Achievement_15",
@@ -26547,7 +26552,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 46125
+      "UsersEstimate": 46126
     },
     {
       "ID": "Achievement_5",
@@ -26594,15 +26599,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 184500,
+      "Progressed": 184502,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2023-10-17T21:57:24.54156+00:00",
-  "LastChanged_Achievements": "2023-10-18T02:23:04.5643057+00:00",
+  "LastChanged_Achievements": "2023-10-18T03:05:59.1996489+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:01.2468535+00:00",
-  "LastUpdate_Ratings": "2023-10-18T02:14:41.173969+00:00",
-  "LastUpdate_Achievements": "2023-10-18T02:23:04.5644079+00:00"
+  "LastUpdate_Ratings": "2023-10-18T02:57:34.7998339+00:00",
+  "LastUpdate_Achievements": "2023-10-18T03:05:59.1998181+00:00"
 }

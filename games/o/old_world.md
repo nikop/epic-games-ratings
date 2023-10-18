@@ -35,6 +35,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just | 1.00% | ~148 |
 | Keystone | 1.00% | ~148 |
 | Magnificent | 1.00% | ~148 |
+| Valiant | 1.00% | ~148 |
 | Warrior | 1.00% | ~148 |
 | Wise | 1.00% | ~148 |
 | Developing Cities | 1.00% | ~148 |
@@ -58,13 +59,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Zoroastrianism | 1.00% | ~148 |
 | Kushite Pyramids | 1.00% | ~148 |
 | Regicide | 0.90% | ~133 |
-| Valiant | 0.90% | ~133 |
+| Mighty | 0.90% | ~133 |
 | Legendary Cities | 0.90% | ~133 |
 | Just Difficulty | 0.90% | ~133 |
 | Apadana | 0.90% | ~133 |
 | Necropolis | 0.90% | ~133 |
 | Learn to Play 2 | 0.90% | ~133 |
-| Mighty | 0.80% | ~118 |
 | Artisans | 0.80% | ~118 |
 | Champions | 0.80% | ~118 |
 | Sages | 0.80% | ~118 |

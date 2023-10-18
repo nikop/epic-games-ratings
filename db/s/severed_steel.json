@@ -638,9 +638,9 @@
       "Count": 347
     }
   ],
-  "EOS_Progressed": 675239,
+  "EOS_Progressed": 675242,
   "EOS_Completed": 74,
-  "EOS_NewPlayers": 2590,
+  "EOS_NewPlayers": 2584,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -21108,6 +21108,11 @@
       "Time": "2023-10-18T02:22:05.3062943+00:00",
       "NumProgressed": 675239,
       "NumCompleted": 74
+    },
+    {
+      "Time": "2023-10-18T03:04:57.9300288+00:00",
+      "NumProgressed": 675242,
+      "NumCompleted": 74
     }
   ],
   "TotalAchievements": 52,
@@ -21127,7 +21132,7 @@
       "Name": "100 KILLS",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 202572
+      "UsersEstimate": 202573
     },
     {
       "ID": "200_HEADSHOTS HEADSHOTS (0-200)",
@@ -21143,7 +21148,7 @@
       "Name": "50 HEADSHOTS",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 189067
+      "UsersEstimate": 189068
     },
     {
       "ID": "BIGUPS",
@@ -21183,7 +21188,7 @@
       "Name": "FINISHED CHAPTER 1",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 175562
+      "UsersEstimate": 175563
     },
     {
       "ID": "CHAPTER2",
@@ -21191,7 +21196,7 @@
       "Name": "FINISHED CHAPTER 2",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 128295
+      "UsersEstimate": 128296
     },
     {
       "ID": "CHAPTER3",
@@ -21199,7 +21204,7 @@
       "Name": "FINISHED CHAPTER 3",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 108038
+      "UsersEstimate": 108039
     },
     {
       "ID": "CHAPTER4",
@@ -21207,7 +21212,7 @@
       "Name": "FINISHED CHAPTER 4",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 94533
+      "UsersEstimate": 94534
     },
     {
       "ID": "CHAPTER5",
@@ -21215,7 +21220,7 @@
       "Name": "FINISH CHAPTER 5",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 74276
+      "UsersEstimate": 74277
     },
     {
       "ID": "CHAPTER6",
@@ -21534,7 +21539,7 @@
     {
       "ID": "1pi2inm",
       "IsBase": true,
-      "Progressed": 675239,
+      "Progressed": 675242,
       "Completed": 74
     }
   ],
@@ -21542,8 +21547,8 @@
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
   "LastChanged": "2023-10-16T20:58:11.2164272+00:00",
-  "LastChanged_Achievements": "2023-10-18T02:22:05.3062939+00:00",
+  "LastChanged_Achievements": "2023-10-18T03:04:57.9300279+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:06.4803296+00:00",
-  "LastUpdate_Ratings": "2023-10-18T02:15:43.1142861+00:00",
-  "LastUpdate_Achievements": "2023-10-18T02:22:05.3064415+00:00"
+  "LastUpdate_Ratings": "2023-10-18T02:58:37.1287099+00:00",
+  "LastUpdate_Achievements": "2023-10-18T03:04:57.9302292+00:00"
 }
