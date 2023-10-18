@@ -88,9 +88,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6230,
+  "EOS_Progressed": 6231,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 265,
+  "EOS_NewPlayers": 266,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -3643,6 +3643,11 @@
       "Time": "2023-10-18T14:09:07.4201718+00:00",
       "NumProgressed": 6230,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-10-18T15:06:40.2237541+00:00",
+      "NumProgressed": 6231,
+      "NumCompleted": 26
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -3655,7 +3660,7 @@
       "Name": "First of Many",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 5358
+      "UsersEstimate": 5359
     },
     {
       "ID": "achievement_01_02",
@@ -3663,7 +3668,7 @@
       "Name": "Tournament Star",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1122
     },
     {
       "ID": "achievement_01_03",
@@ -3695,7 +3700,7 @@
       "Name": "Mr Wheeler",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 3613
+      "UsersEstimate": 3614
     },
     {
       "ID": "achievement_01_07",
@@ -3711,7 +3716,7 @@
       "Name": "Trophy Collector",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4548
+      "UsersEstimate": 4549
     },
     {
       "ID": "achievement_01_09",
@@ -3783,7 +3788,7 @@
       "Name": "Whale of a Time",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 2990
+      "UsersEstimate": 2991
     },
     {
       "ID": "achievement_02_08",
@@ -3799,7 +3804,7 @@
       "Name": "USA - Check!",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 1744
+      "UsersEstimate": 1745
     },
     {
       "ID": "achievement_03_02",
@@ -3895,7 +3900,7 @@
       "Name": "Gotta go Fast",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 2741
+      "UsersEstimate": 2742
     },
     {
       "ID": "achievement_04_03",
@@ -3903,7 +3908,7 @@
       "Name": "Consolation Trophy",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 3115
+      "UsersEstimate": 3116
     },
     {
       "ID": "achievement_04_04",
@@ -3919,7 +3924,7 @@
       "Name": "That was a Close Call!",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1931
+      "UsersEstimate": 1932
     },
     {
       "ID": "achievement_04_06",
@@ -3935,7 +3940,7 @@
       "Name": "Nitro Saver",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 2990
+      "UsersEstimate": 2991
     },
     {
       "ID": "achievement_04_08",
@@ -3958,7 +3963,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 6230,
+      "Progressed": 6231,
       "Completed": 26
     }
   ],
@@ -3966,8 +3971,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-10-15T01:47:00.4126107+00:00",
-  "LastChanged_Achievements": "2023-10-18T14:09:07.4201714+00:00",
+  "LastChanged_Achievements": "2023-10-18T15:06:40.2237535+00:00",
   "LastUpdate_AppInfo": "2023-10-12T18:57:03.8112557+00:00",
-  "LastUpdate_Ratings": "2023-10-18T13:58:00.6512765+00:00",
-  "LastUpdate_Achievements": "2023-10-18T14:09:07.4202096+00:00"
+  "LastUpdate_Ratings": "2023-10-18T14:57:32.4914146+00:00",
+  "LastUpdate_Achievements": "2023-10-18T15:06:40.2238079+00:00"
 }

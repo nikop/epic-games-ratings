@@ -10,6 +10,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | The Old Grandmaster | 0.40% | ~2,863 |
 | The Assault | 0.40% | ~2,863 |
 | Life is your teacher | 0.40% | ~2,863 |
+| State of constant learning | 0.40% | ~2,863 |
 | Lightning Hands | 0.40% | ~2,863 |
 | Project Arena | 0.40% | ~100 |
 | Fight the way you practice | 0.40% | ~100 |
@@ -20,7 +21,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Kill Nil | 0.30% | ~2,147 |
 | Stuntmaster | 0.30% | ~2,147 |
 | Street Fighting | 0.30% | ~2,147 |
-| State of constant learning | 0.30% | ~2,147 |
 | Qi Gong: Breath | 0.30% | ~2,147 |
 | Qi Gong: Essence | 0.30% | ~2,147 |
 | Old Child | 0.30% | ~2,147 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Beatmaker | 0.10% | ~25 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,745 (Ranked 20)  
+Progressed: 715,748 (Ranked 20)  
 Completed: 12,922 (1.81%) (Ranked 117)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,14 +248,14 @@ Completed: 12,922 (1.81%) (Ranked 117)
 | 2023-10-15 | 715,704 | 12,921 |
 | 2023-10-16 | 715,718 | 12,922 |
 | 2023-10-17 | 715,736 | 12,922 |
-| 2023-10-18 | 715,745 | 12,922 |
+| 2023-10-18 | 715,748 | 12,922 |
 ## Awards
-Max (Great Boss Battles): 6,694  (Ranked 53)  
-Sum: 11,623 (Ranked 82)  
+Max (Great Boss Battles): 6,700  (Ranked 53)  
+Sum: 11,629 (Ranked 82)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,694 |
+| This game has Great Boss Battles | 6,700 |
 | This game has Diverse Characters | 625 |
 | This game has Challenging Combat | 586 |
 | This game has Amazing Storytelling | 567 |
@@ -544,4 +544,4 @@ Diff (max vs sum): -29
 | 2023-10-15 | 4.82 | - | 6,684 | 11,593 |
 | 2023-10-16 | 4.82 | - | 6,690 | 11,605 |
 | 2023-10-17 | 4.82 | - | 6,694 | 11,616 |
-| 2023-10-18 | 4.82 | - | 6,694 | 11,623 |
+| 2023-10-18 | 4.82 | - | 6,700 | 11,629 |

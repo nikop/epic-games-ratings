@@ -38,13 +38,13 @@ Number of Ratings: 45  (23.09.2022)
 | Storied Past | 4.00% | ~57 |
 | Worldwalker | 4.00% | ~57 |
 | No More Nightmares | 4.00% | ~57 |
-| Bears are Scary | 4.00% | ~57 |
 | Grillmaster | 4.00% | ~57 |
 | Lochias's Hunger | 4.00% | ~57 |
 | No Time for Clawmonsters | 4.00% | ~57 |
 | The Power of Friendship | 3.00% | ~43 |
 | Empty the Caves | 3.00% | ~43 |
 | Bonebreakers | 3.00% | ~43 |
+| Bears are Scary | 3.00% | ~43 |
 | Some Say I'm Too Flashy | 3.00% | ~43 |
 | Into Mulch | 3.00% | ~43 |
 | Astrology | 3.00% | ~43 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Overwhelming Monstrosity | 0.80% | ~11 |
 | Peacemaker | 0.70% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,428 (Ranked 222)  
+Progressed: 1,429 (Ranked 222)  
 Completed: 6 (0.42%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 6 (0.42%) (Ranked 189)
 | 2023-10-15 | 1,420 | 6 |
 | 2023-10-16 | 1,424 | 6 |
 | 2023-10-17 | 1,427 | 6 |
-| 2023-10-18 | 1,428 | 6 |
+| 2023-10-18 | 1,429 | 6 |
 ## Awards
 Max (Character Customization): 28  (Ranked 485)  
 Sum: 28 (Ranked 499)  

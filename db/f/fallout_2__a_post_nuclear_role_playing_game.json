@@ -2,12 +2,12 @@
   "ID": "aae22da1fb884fa395b25bc30dd61faf",
   "Name": "Fallout 2: A Post Nuclear Role Playing Game",
   "ProductSlug": "fallout-2",
-  "Ranking_Rating": 179,
+  "Ranking_Rating": 189,
   "Ranking_Popularity": 341,
   "Ranking_PopularitySum": 432,
-  "Ranking_EOS_Progress": 674,
+  "Ranking_EOS_Progress": 675,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 392,
+  "Ranking_EOS_NewPlayers": 393,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.72,
+  "Rating": 4.71,
   "RatingHistory": [
     {
       "Time": "2022-10-31T14:02:48.9261197+00:00",
@@ -538,6 +538,12 @@
       "Rating": 4.72,
       "NumberOfAwards": 103,
       "NumberOfAwardsMax": 103
+    },
+    {
+      "Time": "2023-10-18T14:59:18.5476542+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 103,
+      "NumberOfAwardsMax": 103
     }
   ],
   "ReviewsDisabled": false,
@@ -564,8 +570,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-22T00:03:23.4324557+00:00",
   "FirstSeenRating": "2022-10-31T14:02:48.9261194+00:00",
-  "LastChanged": "2023-10-18T03:59:50.5075316+00:00",
+  "LastChanged": "2023-10-18T14:59:18.547654+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:53.9165502+00:00",
-  "LastUpdate_Ratings": "2023-10-18T14:00:20.4738363+00:00",
-  "LastUpdate_Achievements": "2023-10-18T14:10:01.5191691+00:00"
+  "LastUpdate_Ratings": "2023-10-18T14:59:18.5476545+00:00",
+  "LastUpdate_Achievements": "2023-10-18T15:08:36.3880353+00:00"
 }

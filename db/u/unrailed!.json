@@ -2720,9 +2720,9 @@
       "Count": 146
     }
   ],
-  "EOS_Progressed": 655155,
+  "EOS_Progressed": 655174,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 2018,
+  "EOS_NewPlayers": 2021,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23205,6 +23205,11 @@
       "Time": "2023-10-18T14:05:17.3651322+00:00",
       "NumProgressed": 655155,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-10-18T15:04:11.9143189+00:00",
+      "NumProgressed": 655174,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 52,
@@ -23216,7 +23221,7 @@
       "Name": "Stroller",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 98273
+      "UsersEstimate": 98276
     },
     {
       "ID": "_01_01_DISTANCE_200_EASY",
@@ -23224,7 +23229,7 @@
       "Name": "Hiker",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 78619
+      "UsersEstimate": 78621
     },
     {
       "ID": "_01_02_DISTANCE_500_EASY",
@@ -23256,7 +23261,7 @@
       "Name": "Advanced Stroller",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 117928
+      "UsersEstimate": 117931
     },
     {
       "ID": "_01_06_DISTANCE_200_MEDIUM",
@@ -23264,7 +23269,7 @@
       "Name": "Advanced Hiker",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 85170
+      "UsersEstimate": 85173
     },
     {
       "ID": "_01_07_DISTANCE_500_MEDIUM",
@@ -23336,7 +23341,7 @@
       "Name": "Toy Train",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 85170
+      "UsersEstimate": 85173
     },
     {
       "ID": "_01_21_TRACKS_1000",
@@ -23352,7 +23357,7 @@
       "Name": "Trans-Siberian Railway",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1965
+      "UsersEstimate": 1966
     },
     {
       "ID": "_01_23_TRACKS_4000",
@@ -23408,7 +23413,7 @@
       "Name": "Engineer",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1965
+      "UsersEstimate": 1966
     },
     {
       "ID": "_02_03_DESTRUCTIONIST",
@@ -23464,7 +23469,7 @@
       "Name": "Incurious",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 111376
+      "UsersEstimate": 111380
     },
     {
       "ID": "_03_01_MOJAVE_COURIER",
@@ -23472,7 +23477,7 @@
       "Name": "Mojave Courier",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 39309
+      "UsersEstimate": 39310
     },
     {
       "ID": "_03_02_NANUK",
@@ -23488,7 +23493,7 @@
       "Name": "Satan\u0027s Minion",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1965
+      "UsersEstimate": 1966
     },
     {
       "ID": "_03_04_APPOLLO_13",
@@ -23536,7 +23541,7 @@
       "Name": "Climate Change",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 104825
+      "UsersEstimate": 104828
     },
     {
       "ID": "_11_00_FIRE_FIGHTER",
@@ -23584,7 +23589,7 @@
       "Name": "Snowman\u0027s Land",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1965
+      "UsersEstimate": 1966
     },
     {
       "ID": "_12_00_TOUGH_NUT",
@@ -23624,22 +23629,22 @@
       "Name": "Saved by Nausica\u00E4",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 32758
+      "UsersEstimate": 32759
     }
   ],
   "AchievementSets": [
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 655155,
+      "Progressed": 655174,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-10-17T01:43:29.4034192+00:00",
-  "LastChanged_Achievements": "2023-10-18T14:05:17.3651317+00:00",
+  "LastChanged_Achievements": "2023-10-18T15:04:11.9143185+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:10.7183128+00:00",
-  "LastUpdate_Ratings": "2023-10-18T14:00:29.0494593+00:00",
-  "LastUpdate_Achievements": "2023-10-18T14:05:17.3652625+00:00"
+  "LastUpdate_Ratings": "2023-10-18T14:59:24.8502899+00:00",
+  "LastUpdate_Achievements": "2023-10-18T15:04:11.9144826+00:00"
 }

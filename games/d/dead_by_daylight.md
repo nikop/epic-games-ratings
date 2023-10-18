@@ -1,49 +1,49 @@
 # Dead by Daylight
 [Store](https://store.epicgames.com/en-US/p/dead-by-daylight)  
 [View Rawdata](../../db/d/dead_by_daylight.json)  
-Rating: 4.51 (Ranked 552)  
+Rating: 4.51 (Ranked 553)  
 Number of Ratings: 70,340  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 3.00% | ~28,410 |
-| Handyman | 2.00% | ~18,940 |
-| Zealous | 2.00% | ~18,940 |
-| Not half bad | 2.00% | ~18,940 |
-| Apt Survivor | 2.00% | ~18,940 |
-| Survival Treasures | 2.00% | ~18,940 |
-| Skillful | 2.00% | ~18,940 |
-| Sorted | 2.00% | ~18,940 |
-| Make Some Noise | 2.00% | ~18,940 |
-| The Grand Sacrifice | 1.00% | ~9,470 |
-| Agonizing Escape | 1.00% | ~9,470 |
-| Backdoor Escape | 1.00% | ~9,470 |
-| I've got your back | 1.00% | ~9,470 |
-| No one left behind | 1.00% | ~9,470 |
-| Medic | 1.00% | ~9,470 |
-| Nerves of steel | 1.00% | ~9,470 |
-| Perfect Escape | 1.00% | ~9,470 |
-| Perfect Killing | 1.00% | ~9,470 |
-| Bloody Millionaire | 1.00% | ~9,470 |
-| Risk it all | 1.00% | ~9,470 |
-| I | 1.00% | ~9,470 |
-| Engineer | 1.00% | ~9,470 |
-| Wounded Healer | 1.00% | ~9,470 |
-| Healthy Obsession | 1.00% | ~9,470 |
-| Resurgence | 1.00% | ~9,470 |
-| Close Shave | 1.00% | ~9,470 |
-| Preemptive Strike | 1.00% | ~9,470 |
-| Humanitarian | 1.00% | ~9,470 |
-| Apt Killer | 0.90% | ~8,523 |
-| II | 0.90% | ~8,523 |
-| Vulture | 0.80% | ~7,576 |
-| III | 0.80% | ~7,576 |
-| Rebuilding The Borgo | 0.80% | ~7,576 |
-| Second Act | 0.80% | ~7,576 |
-| Escape Artist | 0.70% | ~6,629 |
-| First to the Punch | 0.70% | ~6,629 |
-| Every Last Drop | 0.70% | ~6,629 |
-| With Scars to Show | 0.70% | ~6,629 |
+| It wakes | 3.00% | ~28,412 |
+| Handyman | 2.00% | ~18,942 |
+| Zealous | 2.00% | ~18,942 |
+| Not half bad | 2.00% | ~18,942 |
+| Apt Survivor | 2.00% | ~18,942 |
+| Survival Treasures | 2.00% | ~18,942 |
+| Skillful | 2.00% | ~18,942 |
+| Sorted | 2.00% | ~18,942 |
+| Make Some Noise | 2.00% | ~18,942 |
+| The Grand Sacrifice | 1.00% | ~9,471 |
+| Agonizing Escape | 1.00% | ~9,471 |
+| Backdoor Escape | 1.00% | ~9,471 |
+| I've got your back | 1.00% | ~9,471 |
+| No one left behind | 1.00% | ~9,471 |
+| Medic | 1.00% | ~9,471 |
+| Nerves of steel | 1.00% | ~9,471 |
+| Perfect Escape | 1.00% | ~9,471 |
+| Perfect Killing | 1.00% | ~9,471 |
+| Bloody Millionaire | 1.00% | ~9,471 |
+| Risk it all | 1.00% | ~9,471 |
+| I | 1.00% | ~9,471 |
+| Engineer | 1.00% | ~9,471 |
+| Wounded Healer | 1.00% | ~9,471 |
+| Healthy Obsession | 1.00% | ~9,471 |
+| Resurgence | 1.00% | ~9,471 |
+| Close Shave | 1.00% | ~9,471 |
+| Preemptive Strike | 1.00% | ~9,471 |
+| Humanitarian | 1.00% | ~9,471 |
+| Apt Killer | 0.90% | ~8,524 |
+| II | 0.90% | ~8,524 |
+| Vulture | 0.80% | ~7,577 |
+| III | 0.80% | ~7,577 |
+| With Scars to Show | 0.80% | ~7,577 |
+| Rebuilding The Borgo | 0.80% | ~7,577 |
+| Second Act | 0.80% | ~7,577 |
+| Escape Artist | 0.70% | ~6,630 |
+| First to the Punch | 0.70% | ~6,630 |
+| Every Last Drop | 0.70% | ~6,630 |
 | Blood on your hands | 0.60% | ~5,682 |
 | Made it out alive! | 0.60% | ~5,682 |
 | III-50 | 0.60% | ~5,682 |
@@ -99,6 +99,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | High Speed Pursuit | 0.30% | ~2,841 |
 | Complete the Evolution | 0.30% | ~2,841 |
 | Blood in your mouth | 0.20% | ~1,894 |
+| In the void she walks | 0.20% | ~1,894 |
 | Looter | 0.20% | ~1,894 |
 | Whiffing to Success | 0.20% | ~1,894 |
 | Denied! | 0.20% | ~1,894 |
@@ -120,7 +121,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Trapper | 0.10% | ~947 |
 | Adept Wraith | 0.10% | ~947 |
 | Adept Hillbilly | 0.10% | ~947 |
-| In the void she walks | 0.10% | ~947 |
 | From the void she kills | 0.10% | ~947 |
 | Adept Nurse | 0.10% | ~947 |
 | Adept Nea | 0.10% | ~947 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~947 |
 | Adept Ripley | 0.10% | ~947 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 946,986 (Ranked 14)  
+Progressed: 947,081 (Ranked 14)  
 Completed: 51 (0.01%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -417,7 +417,7 @@ Completed: 51 (0.01%) (Ranked 298)
 | 2023-10-15 | 942,498 | 51 |
 | 2023-10-16 | 944,360 | 51 |
 | 2023-10-17 | 946,172 | 51 |
-| 2023-10-18 | 946,986 | 51 |
+| 2023-10-18 | 947,081 | 51 |
 ## Awards
 Max (Diverse Characters): 34,059  (Ranked 15)  
 Sum: 263,266 (Ranked 13)  

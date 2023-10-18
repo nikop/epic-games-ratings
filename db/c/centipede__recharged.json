@@ -302,7 +302,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17895,
+  "EOS_Progressed": 17896,
   "EOS_Completed": 112,
   "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 2,
@@ -14087,6 +14087,11 @@
       "Time": "2023-10-18T14:05:48.7996305+00:00",
       "NumProgressed": 17895,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2023-10-18T15:04:38.0012629+00:00",
+      "NumProgressed": 17896,
+      "NumCompleted": 112
     }
   ],
   "TotalAchievements": 16,
@@ -14122,7 +14127,7 @@
       "Name": "Don\u0027t Fear The Reaper",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 2147
+      "UsersEstimate": 2148
     },
     {
       "ID": "Eyes_On_Fire",
@@ -14146,7 +14151,7 @@
       "Name": "Fireworks",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 5905
+      "UsersEstimate": 5906
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -14202,7 +14207,7 @@
       "Name": "Sole Survivor",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 6621
+      "UsersEstimate": 6622
     },
     {
       "ID": "Still_Burning",
@@ -14225,15 +14230,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 17895,
+      "Progressed": 17896,
       "Completed": 112
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-07-21T02:04:12.2963456+00:00",
-  "LastChanged_Achievements": "2023-10-18T14:05:48.7996299+00:00",
+  "LastChanged_Achievements": "2023-10-18T15:04:38.001262+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:27.7450235+00:00",
-  "LastUpdate_Ratings": "2023-10-18T13:59:37.1319381+00:00",
-  "LastUpdate_Achievements": "2023-10-18T14:05:48.799691+00:00"
+  "LastUpdate_Ratings": "2023-10-18T14:58:47.5501437+00:00",
+  "LastUpdate_Achievements": "2023-10-18T15:04:38.0013487+00:00"
 }

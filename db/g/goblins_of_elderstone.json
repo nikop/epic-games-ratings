@@ -2,9 +2,9 @@
   "ID": "36104bd5987f47389c55a44694064d01",
   "Name": "Goblins of Elderstone",
   "ProductSlug": "goblins-of-elderstone-330b84",
-  "Ranking_EOS_Progress": 674,
+  "Ranking_EOS_Progress": 675,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 392,
+  "Ranking_EOS_NewPlayers": 393,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-03-08T18:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:57:23.5328515+00:00",
   "LastChanged": "2023-03-31T05:57:23.5328516+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:06.1199168+00:00",
-  "LastUpdate_Ratings": "2023-10-18T13:59:04.0534626+00:00",
-  "LastUpdate_Achievements": "2023-10-18T14:05:25.875996+00:00"
+  "LastUpdate_Ratings": "2023-10-18T14:58:22.4910704+00:00",
+  "LastUpdate_Achievements": "2023-10-18T15:04:18.6700445+00:00"
 }

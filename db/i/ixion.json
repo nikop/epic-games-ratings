@@ -5407,9 +5407,9 @@
       "ID": "ACH_BASE_18",
       "SetID": "92iocjf",
       "Name": "Infinite Growth...",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 745
+      "UsersEstimate": 777
     },
     {
       "ID": "ACH_BASE_19",
@@ -5814,8 +5814,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-09-17T17:59:23.8865698+00:00",
-  "LastChanged_Achievements": "2023-10-18T14:04:14.4456358+00:00",
+  "LastChanged_Achievements": "2023-10-18T15:03:20.4385856+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:38.5119493+00:00",
-  "LastUpdate_Ratings": "2023-10-18T13:57:46.4558861+00:00",
-  "LastUpdate_Achievements": "2023-10-18T14:04:14.4457127+00:00"
+  "LastUpdate_Ratings": "2023-10-18T14:57:22.0725349+00:00",
+  "LastUpdate_Achievements": "2023-10-18T15:03:20.4386774+00:00"
 }

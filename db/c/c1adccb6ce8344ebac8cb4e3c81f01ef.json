@@ -4,7 +4,7 @@
   "ProductSlug": "evalinathe-sorceress-a9a60a",
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 108,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-06-20T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 567,
+  "EOS_Progressed": 568,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.29,
   "EosHistory": [
@@ -1986,6 +1986,11 @@
       "Time": "2023-10-17T17:05:46.7958728+00:00",
       "NumProgressed": 567,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-10-18T15:05:04.1906877+00:00",
+      "NumProgressed": 568,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-06-26T21:03:11.1861911+00:00",
@@ -2038,21 +2043,21 @@
       "Name": "Yellow Skeleton",
       "Percentage": 17,
       "XP": 200,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     }
   ],
   "AchievementSets": [
     {
       "ID": "a76l54k",
       "IsBase": true,
-      "Progressed": 567,
+      "Progressed": 568,
       "Completed": 13
     }
   ],
   "FirstSeen": "2023-06-27T08:56:55.4742028+00:00",
   "FirstSeenAchievements": "2023-06-15T10:01:05.3060571+00:00",
-  "LastChanged_Achievements": "2023-10-18T14:06:21.3471537+00:00",
+  "LastChanged_Achievements": "2023-10-18T15:05:04.1906858+00:00",
   "LastUpdate_AppInfo": "2023-10-12T20:57:27.2773362+00:00",
-  "LastUpdate_Ratings": "2023-10-18T14:01:23.1461292+00:00",
-  "LastUpdate_Achievements": "2023-10-18T14:06:21.3471708+00:00"
+  "LastUpdate_Ratings": "2023-10-18T15:00:08.3664554+00:00",
+  "LastUpdate_Achievements": "2023-10-18T15:05:04.1907105+00:00"
 }

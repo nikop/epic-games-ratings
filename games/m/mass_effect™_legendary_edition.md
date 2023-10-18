@@ -25,9 +25,9 @@
 | Soldier Ally | 50.00% | ~366 |
 | Colonial Savior | 49.00% | ~359 |
 | Paramour I | 48.00% | ~352 |
+| Merciless | 47.00% | ~345 |
 | Scientist | 47.00% | ~345 |
 | Krogan Ally | 46.00% | ~337 |
-| Merciless | 46.00% | ~337 |
 | Sentinel Ally | 44.00% | ~323 |
 | Very Elusive | 44.00% | ~323 |
 | Head Hunter | 44.00% | ~323 |

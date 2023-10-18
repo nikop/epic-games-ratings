@@ -39,19 +39,19 @@ Number of Ratings: 495  (23.09.2022)
 | Meticulous | 1.00% | ~2,085 |
 | The End | 1.00% | ~2,085 |
 | Undeserved Honor | 1.00% | ~2,085 |
-| When Cut Across the Neck | 0.90% | ~1,876 |
+| When Cut Across the Neck | 0.90% | ~1,877 |
 | High Five the Moon | 0.80% | ~1,668 |
 | The Cave | 0.80% | ~1,668 |
-| Merciful | 0.50% | ~1,042 |
-| Time Paradox | 0.50% | ~1,042 |
-| Five Shadows | 0.30% | ~625 |
+| Merciful | 0.50% | ~1,043 |
+| Time Paradox | 0.50% | ~1,043 |
+| Five Shadows | 0.30% | ~626 |
 | Complete Mastery | 0.20% | ~417 |
 | Praise the Shogun | 0.20% | ~417 |
-| Chicken Dinner | 0.10% | ~208 |
-| Mimimi | 0.10% | ~208 |
-| Release the Kraken | 0.10% | ~208 |
+| Chicken Dinner | 0.10% | ~209 |
+| Mimimi | 0.10% | ~209 |
+| Release the Kraken | 0.10% | ~209 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 208,498 (Ranked 65)  
+Progressed: 208,504 (Ranked 65)  
 Completed: 91 (0.04%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,7 +232,7 @@ Completed: 91 (0.04%) (Ranked 279)
 | 2023-10-15 | 208,093 | 91 |
 | 2023-10-16 | 208,245 | 91 |
 | 2023-10-17 | 208,416 | 91 |
-| 2023-10-18 | 208,498 | 91 |
+| 2023-10-18 | 208,504 | 91 |
 ## Awards
 Max (Great for Beginners): 567  (Ranked 196)  
 Sum: 4,791 (Ranked 138)  

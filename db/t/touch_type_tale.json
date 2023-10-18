@@ -4365,9 +4365,9 @@
       "ID": "campaign3",
       "SetID": "2h56gn1",
       "Name": "Economics 101",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 2227
+      "UsersEstimate": 2264
     },
     {
       "ID": "campaign4",
@@ -4486,8 +4486,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-10-18T14:03:50.6786371+00:00",
+  "LastChanged_Achievements": "2023-10-18T15:03:09.0897839+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:35.2759082+00:00",
   "LastUpdate_Ratings": "2023-10-18T14:03:15.3395309+00:00",
-  "LastUpdate_Achievements": "2023-10-18T14:03:50.678684+00:00"
+  "LastUpdate_Achievements": "2023-10-18T15:03:09.0898438+00:00"
 }

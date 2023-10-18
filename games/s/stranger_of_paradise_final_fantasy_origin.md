@@ -1,30 +1,30 @@
 # STRANGER OF PARADISE FINAL FANTASY ORIGIN
 [Store](https://store.epicgames.com/en-US/p/stranger-of-paradise-final-fantasy-origin)  
 [View Rawdata](../../db/s/stranger_of_paradise_final_fantasy_origin.json)  
-Rating: 4.51 (Ranked 552)  
+Rating: 4.51 (Ranked 553)  
 Number of Ratings: 1,919  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Manifestation of the Soul | 97.00% | ~77,411 |
-| No Escape | 86.00% | ~68,632 |
-| Seeker of Power | 85.00% | ~67,834 |
-| Hopes and Dreams | 82.00% | ~65,440 |
-| Lantern Smasher | 78.00% | ~62,248 |
+| Manifestation of the Soul | 97.00% | ~77,412 |
+| No Escape | 86.00% | ~68,633 |
+| Seeker of Power | 85.00% | ~67,835 |
+| Hopes and Dreams | 82.00% | ~65,441 |
+| Lantern Smasher | 78.00% | ~62,249 |
 | The Pirate's Way | 74.00% | ~59,056 |
 | Dark Crystal, Warrior's Heart | 71.00% | ~56,662 |
-| The King of the Dark Elves | 68.00% | ~54,267 |
-| Memories of the Distant Past | 66.00% | ~52,671 |
-| Distortion's Progeny | 63.00% | ~50,277 |
-| Savant | 62.00% | ~49,479 |
+| The King of the Dark Elves | 68.00% | ~54,268 |
+| Memories of the Distant Past | 66.00% | ~52,672 |
+| Distortion's Progeny | 63.00% | ~50,278 |
+| Savant | 62.00% | ~49,480 |
 | A Landscape of Memory | 58.00% | ~46,287 |
 | The Wind's Light | 54.00% | ~43,095 |
-| Vague Remembrances | 49.00% | ~39,104 |
-| The Fire's Light | 47.00% | ~37,508 |
-| Phantom Memories | 47.00% | ~37,508 |
-| Imbued Memories | 47.00% | ~37,508 |
-| The Earth's Light | 45.00% | ~35,912 |
-| Shared Recollections | 42.00% | ~33,518 |
+| Vague Remembrances | 49.00% | ~39,105 |
+| The Fire's Light | 47.00% | ~37,509 |
+| Phantom Memories | 47.00% | ~37,509 |
+| Imbued Memories | 47.00% | ~37,509 |
+| The Earth's Light | 45.00% | ~35,913 |
+| Shared Recollections | 42.00% | ~33,519 |
 | The Water's Light | 40.00% | ~31,922 |
 | Path of the Sage | 40.00% | ~31,922 |
 | Malice Takes Root | 37.00% | ~29,528 |
@@ -53,7 +53,7 @@ Number of Ratings: 1,919  (23.09.2022)
 | Strangers' Memories | 3.00% | ~2,394 |
 | A Tale of Origins and Endings | 2.00% | ~1,596 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79,805 (Ranked 87)  
+Progressed: 79,806 (Ranked 87)  
 Completed: 2,182 (2.73%) (Ranked 97)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,7 +234,7 @@ Completed: 2,182 (2.73%) (Ranked 97)
 | 2023-10-15 | 79,790 | 2,182 |
 | 2023-10-16 | 79,796 | 2,182 |
 | 2023-10-17 | 79,804 | 2,182 |
-| 2023-10-18 | 79,805 | 2,182 |
+| 2023-10-18 | 79,806 | 2,182 |
 ## Awards
 Max (Great Boss Battles): 769  (Ranked 169)  
 Sum: 1,586 (Ranked 221)  

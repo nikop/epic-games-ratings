@@ -7,20 +7,20 @@ Rating: 4.54 (Ranked 515)
 | ---- | ---------- | ----- |
 | Hotel California | 4.00% | ~27,898 |
 | Welcome To Hell-A | 4.00% | ~27,898 |
-| Dr. Reed, I Presume? | 3.00% | ~20,923 |
-| Git Gutte! | 3.00% | ~20,923 |
-| Bookworm | 3.00% | ~20,923 |
-| Break A Leg | 3.00% | ~20,923 |
-| But Doctor, I am Butcho | 3.00% | ~20,923 |
-| Can't Handle the Truth | 3.00% | ~20,923 |
-| Coup de Grâce | 3.00% | ~20,923 |
-| Like Riding a Bike | 3.00% | ~20,923 |
-| Hazardous Materials | 3.00% | ~20,923 |
-| Friends Like These | 3.00% | ~20,923 |
-| Apex Predator | 3.00% | ~20,923 |
-| Stacking the Deck | 3.00% | ~20,923 |
-| Personal Assistant Personally Assisted | 3.00% | ~20,923 |
-| This is My Weapon | 3.00% | ~20,923 |
+| Dr. Reed, I Presume? | 3.00% | ~20,924 |
+| Git Gutte! | 3.00% | ~20,924 |
+| Bookworm | 3.00% | ~20,924 |
+| Break A Leg | 3.00% | ~20,924 |
+| But Doctor, I am Butcho | 3.00% | ~20,924 |
+| Can't Handle the Truth | 3.00% | ~20,924 |
+| Coup de Grâce | 3.00% | ~20,924 |
+| Like Riding a Bike | 3.00% | ~20,924 |
+| Hazardous Materials | 3.00% | ~20,924 |
+| Friends Like These | 3.00% | ~20,924 |
+| Apex Predator | 3.00% | ~20,924 |
+| Stacking the Deck | 3.00% | ~20,924 |
+| Personal Assistant Personally Assisted | 3.00% | ~20,924 |
+| This is My Weapon | 3.00% | ~20,924 |
 | Making Your Mark | 2.00% | ~13,949 |
 | Anger Management | 2.00% | ~13,949 |
 | Perks of the Job | 2.00% | ~13,949 |
@@ -33,10 +33,10 @@ Rating: 4.54 (Ranked 515)
 | I Am the Resurrection | 2.00% | ~13,949 |
 | Down with the Sickness | 2.00% | ~13,949 |
 | Our True Nature | 2.00% | ~13,949 |
-| Jumbo Keyring | 1.00% | ~6,974 |
-| Max Headroom | 1.00% | ~6,974 |
-| Go, Bobcats! | 1.00% | ~6,974 |
-| Rising Star | 1.00% | ~6,974 |
+| Jumbo Keyring | 1.00% | ~6,975 |
+| Max Headroom | 1.00% | ~6,975 |
+| Go, Bobcats! | 1.00% | ~6,975 |
+| Rising Star | 1.00% | ~6,975 |
 | Smorgasbord | 0.90% | ~6,277 |
 | Not Even My Final Form | 0.80% | ~5,580 |
 | Internet Famous | 0.80% | ~5,580 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 515)
 | Donk! | 0.20% | ~1,395 |
 | Bucket List | 0.10% | ~697 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 697,439 (Ranked 22)  
+Progressed: 697,459 (Ranked 22)  
 Completed: 2,241 (0.32%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,7 +232,7 @@ Completed: 2,241 (0.32%) (Ranked 201)
 | 2023-10-15 | 696,452 | 2,227 |
 | 2023-10-16 | 696,890 | 2,235 |
 | 2023-10-17 | 697,259 | 2,238 |
-| 2023-10-18 | 697,439 | 2,241 |
+| 2023-10-18 | 697,459 | 2,241 |
 ## Awards
 Max (Great Boss Battles): 6,489  (Ranked 56)  
 Sum: 9,712 (Ranked 91)  

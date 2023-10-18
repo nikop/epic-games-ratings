@@ -19,10 +19,10 @@ Rating: 4.64 (Ranked 324)
 | Hardest Battle In The Game | 0.90% | ~218 |
 | Who's The Boss? | 0.90% | ~218 |
 | Self-Actualization | 0.80% | ~194 |
+| Spent 15 Hours At The Alien Strip Club | 0.80% | ~194 |
 | Lezduit! | 0.70% | ~170 |
 | Legendary Bounty Hunter | 0.70% | ~170 |
 | Fallout Doesn't Let You Do This | 0.70% | ~170 |
-| Spent 15 Hours At The Alien Strip Club | 0.70% | ~170 |
 | Series Wrap on Suit-O | 0.70% | ~170 |
 | Bathe With A Giant Nude Alien | 0.70% | ~11 |
 | Eatin' Good in the Neighborhood | 0.50% | ~121 |

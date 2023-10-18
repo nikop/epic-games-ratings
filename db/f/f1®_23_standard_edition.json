@@ -382,7 +382,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3315,
+  "EOS_Progressed": 3316,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 0,
@@ -3112,6 +3112,11 @@
       "Time": "2023-10-18T14:04:20.8167234+00:00",
       "NumProgressed": 3315,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-18T15:03:25.4231486+00:00",
+      "NumProgressed": 3316,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -3132,7 +3137,7 @@
       "Name": "Gathering Dust",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "achievement_0003",
@@ -3164,7 +3169,7 @@
       "Name": "Setting up for Success",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 2619
+      "UsersEstimate": 2620
     },
     {
       "ID": "achievement_0007",
@@ -3172,7 +3177,7 @@
       "Name": "Getting on the Step",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 3149
+      "UsersEstimate": 3150
     },
     {
       "ID": "achievement_0008",
@@ -3220,7 +3225,7 @@
       "Name": "Oil and Water",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "achievement_0014",
@@ -3244,7 +3249,7 @@
       "Name": "Hitting a Season",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 1359
+      "UsersEstimate": 1360
     },
     {
       "ID": "achievement_0017",
@@ -3266,9 +3271,9 @@
       "ID": "achievement_0019",
       "SetID": "9123ogc",
       "Name": "Undisputed Winner",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 332
+      "UsersEstimate": 298
     },
     {
       "ID": "achievement_0020",
@@ -3388,7 +3393,7 @@
       "Name": "Challenge Yourself",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1193
+      "UsersEstimate": 1194
     },
     {
       "ID": "achievement_0035",
@@ -3515,7 +3520,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 3315,
+      "Progressed": 3316,
       "Completed": 0
     }
   ],
@@ -3523,8 +3528,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-10-14T15:01:06.7997095+00:00",
-  "LastChanged_Achievements": "2023-10-18T14:04:20.816723+00:00",
+  "LastChanged_Achievements": "2023-10-18T15:03:25.4231464+00:00",
   "LastUpdate_AppInfo": "2023-10-14T13:56:56.8221835+00:00",
-  "LastUpdate_Ratings": "2023-10-18T14:03:20.3599993+00:00",
-  "LastUpdate_Achievements": "2023-10-18T14:04:20.8167702+00:00"
+  "LastUpdate_Ratings": "2023-10-18T15:02:04.9117763+00:00",
+  "LastUpdate_Achievements": "2023-10-18T15:03:25.4232034+00:00"
 }
