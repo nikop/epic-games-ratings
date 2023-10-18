@@ -22,13 +22,13 @@
 | Food Tycoon | 7.00% | ~13 |
 | Fuel Tycoon | 7.00% | ~13 |
 | Jantine: the Misfortunes of Evil | 6.00% | ~11 |
+| Pathfinder | 6.00% | ~11 |
 | Overpopulation | 5.00% | ~9 |
 | Property Bro | 5.00% | ~9 |
-| Pathfinder | 5.00% | ~9 |
 | Medicine Tycoon | 5.00% | ~9 |
 | Supersoldier | 4.00% | ~7 |
+| Outdoor Decorator | 4.00% | ~7 |
 | Tear Down the Wall! | 3.00% | ~5 |
-| Outdoor Decorator | 3.00% | ~5 |
 | Human Resources | 3.00% | ~5 |
 | Training Camp | 3.00% | ~5 |
 | Economist | 2.00% | ~4 |

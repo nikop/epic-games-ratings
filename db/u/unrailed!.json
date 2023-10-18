@@ -2720,9 +2720,9 @@
       "Count": 146
     }
   ],
-  "EOS_Progressed": 655075,
+  "EOS_Progressed": 655078,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 2020,
+  "EOS_NewPlayers": 2019,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23150,6 +23150,11 @@
       "Time": "2023-10-18T03:04:58.6191196+00:00",
       "NumProgressed": 655075,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-10-18T04:04:48.3866898+00:00",
+      "NumProgressed": 655078,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 52,
@@ -23161,7 +23166,7 @@
       "Name": "Stroller",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 98261
+      "UsersEstimate": 98262
     },
     {
       "ID": "_01_01_DISTANCE_200_EASY",
@@ -23417,7 +23422,7 @@
       "Name": "Mojave Courier",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 39304
+      "UsersEstimate": 39305
     },
     {
       "ID": "_03_02_NANUK",
@@ -23576,15 +23581,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 655075,
+      "Progressed": 655078,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-10-17T01:43:29.4034192+00:00",
-  "LastChanged_Achievements": "2023-10-18T03:04:58.6191189+00:00",
+  "LastChanged_Achievements": "2023-10-18T04:04:48.3866893+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:10.7183128+00:00",
-  "LastUpdate_Ratings": "2023-10-18T03:00:26.1729588+00:00",
-  "LastUpdate_Achievements": "2023-10-18T03:04:58.6193424+00:00"
+  "LastUpdate_Ratings": "2023-10-18T03:59:59.5649029+00:00",
+  "LastUpdate_Achievements": "2023-10-18T04:04:48.3868171+00:00"
 }

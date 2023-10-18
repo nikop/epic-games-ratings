@@ -56,9 +56,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1622,
+  "EOS_Progressed": 1623,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6016,6 +6016,11 @@
       "Time": "2023-10-17T22:06:35.5964977+00:00",
       "NumProgressed": 1622,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-18T04:07:02.2599232+00:00",
+      "NumProgressed": 1623,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6049,9 +6054,9 @@
       "ID": "ach_defeat_players_100",
       "SetID": "bm61c2p",
       "Name": "Player Betrayer",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 81
+      "UsersEstimate": 65
     },
     {
       "ID": "ach_gold_rewards_100",
@@ -6203,7 +6208,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -6330,7 +6335,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1622,
+      "Progressed": 1623,
       "Completed": 1
     }
   ],
@@ -6338,8 +6343,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-10-18T03:07:21.7806666+00:00",
+  "LastChanged_Achievements": "2023-10-18T04:07:02.2599228+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:23.525424+00:00",
-  "LastUpdate_Ratings": "2023-10-18T03:01:33.3356511+00:00",
-  "LastUpdate_Achievements": "2023-10-18T03:07:21.7807422+00:00"
+  "LastUpdate_Ratings": "2023-10-18T04:01:04.4457456+00:00",
+  "LastUpdate_Achievements": "2023-10-18T04:07:02.2599736+00:00"
 }

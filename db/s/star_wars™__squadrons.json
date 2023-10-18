@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11744,
+  "EOS_Progressed": 11747,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2570,
+  "EOS_NewPlayers": 2565,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3281,6 +3281,11 @@
       "Time": "2023-10-18T03:09:34.6654191+00:00",
       "NumProgressed": 11744,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-18T04:09:25.6192091+00:00",
+      "NumProgressed": 11747,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -3517,7 +3522,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 11157
+      "UsersEstimate": 11160
     },
     {
       "ID": "achievement_36",
@@ -3637,7 +3642,7 @@
       "Name": "A Starfighter of Your Own",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1644
+      "UsersEstimate": 1645
     },
     {
       "ID": "achievement_7",
@@ -3668,7 +3673,7 @@
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 11744,
+      "Progressed": 11747,
       "Completed": 1
     }
   ],
@@ -3676,8 +3681,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2023-10-18T03:09:34.6654185+00:00",
+  "LastChanged_Achievements": "2023-10-18T04:09:25.6192088+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:10.1416155+00:00",
-  "LastUpdate_Ratings": "2023-10-18T02:59:50.2061605+00:00",
-  "LastUpdate_Achievements": "2023-10-18T03:09:34.6654893+00:00"
+  "LastUpdate_Ratings": "2023-10-18T03:59:24.3731262+00:00",
+  "LastUpdate_Achievements": "2023-10-18T04:09:25.6192588+00:00"
 }

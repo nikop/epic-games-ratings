@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 287,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -912,9 +912,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 6851,
+  "EOS_Progressed": 6852,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7072,6 +7072,11 @@
       "Time": "2023-10-18T03:06:17.4714616+00:00",
       "NumProgressed": 6851,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-18T04:06:02.0178473+00:00",
+      "NumProgressed": 6852,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -7147,7 +7152,7 @@
       "Name": "Xenocide",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2192
+      "UsersEstimate": 2193
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -7163,7 +7168,7 @@
       "Name": "Design a Civilization",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 2192
+      "UsersEstimate": 2193
     },
     {
       "ID": "First_Major_Ally",
@@ -7187,7 +7192,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5344
+      "UsersEstimate": 5345
     },
     {
       "ID": "First_Race_Met",
@@ -7195,7 +7200,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 5001
+      "UsersEstimate": 5002
     },
     {
       "ID": "First_Ship_Designed",
@@ -7203,7 +7208,7 @@
       "Name": "Design a Ship",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1918
+      "UsersEstimate": 1919
     },
     {
       "ID": "First_Stream_Travel",
@@ -7219,7 +7224,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5344
+      "UsersEstimate": 5345
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -7299,7 +7304,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2329
+      "UsersEstimate": 2330
     },
     {
       "ID": "Play_1000_Hours",
@@ -7403,7 +7408,7 @@
       "Name": "Unleash My Power",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4179
+      "UsersEstimate": 4180
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -7658,15 +7663,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6851,
+      "Progressed": 6852,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-10-18T03:06:17.4714604+00:00",
+  "LastChanged_Achievements": "2023-10-18T04:06:02.0178469+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:21.0832103+00:00",
-  "LastUpdate_Ratings": "2023-10-18T02:58:20.8346025+00:00",
-  "LastUpdate_Achievements": "2023-10-18T03:06:17.4716019+00:00"
+  "LastUpdate_Ratings": "2023-10-18T03:58:02.1928106+00:00",
+  "LastUpdate_Achievements": "2023-10-18T04:06:02.0179369+00:00"
 }

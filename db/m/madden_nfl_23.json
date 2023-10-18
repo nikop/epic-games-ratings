@@ -724,9 +724,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2688,
+  "EOS_Progressed": 2692,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 306,
+  "EOS_NewPlayers": 308,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3409,6 +3409,11 @@
       "Time": "2023-10-18T03:03:14.462888+00:00",
       "NumProgressed": 2688,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-18T04:03:20.0518849+00:00",
+      "NumProgressed": 2692,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -3421,7 +3426,7 @@
       "Name": "Primetime",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "achievement_10",
@@ -3429,7 +3434,7 @@
       "Name": "Bragging Rights",
       "Percentage": 56,
       "XP": 90,
-      "UsersEstimate": 1505
+      "UsersEstimate": 1508
     },
     {
       "ID": "achievement_11",
@@ -3445,7 +3450,7 @@
       "Name": "Stud Finder",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1131
     },
     {
       "ID": "achievement_13",
@@ -3453,7 +3458,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 1425
+      "UsersEstimate": 1427
     },
     {
       "ID": "achievement_14",
@@ -3461,7 +3466,7 @@
       "Name": "Dealmaker",
       "Percentage": 41,
       "XP": 60,
-      "UsersEstimate": 1102
+      "UsersEstimate": 1104
     },
     {
       "ID": "achievement_15",
@@ -3469,7 +3474,7 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 1452
+      "UsersEstimate": 1454
     },
     {
       "ID": "achievement_16",
@@ -3477,7 +3482,7 @@
       "Name": "ROTY",
       "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 887
+      "UsersEstimate": 888
     },
     {
       "ID": "achievement_17",
@@ -3485,7 +3490,7 @@
       "Name": "Pocket Ace",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "achievement_18",
@@ -3533,15 +3538,15 @@
       "Name": "Throwin\u2019 Dots",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_4",
       "SetID": "c8fif6p",
       "Name": "Lockdown Corner",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 134
+      "UsersEstimate": 108
     },
     {
       "ID": "achievement_5",
@@ -3549,7 +3554,7 @@
       "Name": "Already in Progress",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_6",
@@ -3557,7 +3562,7 @@
       "Name": "Change of Scenery",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "achievement_7",
@@ -3565,7 +3570,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 833
+      "UsersEstimate": 835
     },
     {
       "ID": "achievement_8",
@@ -3573,7 +3578,7 @@
       "Name": "Pro Bowler",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "achievement_9",
@@ -3581,14 +3586,14 @@
       "Name": "Head-to-Head",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     }
   ],
   "AchievementSets": [
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 2688,
+      "Progressed": 2692,
       "Completed": 0
     }
   ],
@@ -3596,8 +3601,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-10-16T14:02:18.9029045+00:00",
-  "LastChanged_Achievements": "2023-10-18T03:03:14.4628866+00:00",
+  "LastChanged_Achievements": "2023-10-18T04:03:20.0518846+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:08.8110287+00:00",
-  "LastUpdate_Ratings": "2023-10-18T03:02:40.2517834+00:00",
-  "LastUpdate_Achievements": "2023-10-18T03:03:14.4641005+00:00"
+  "LastUpdate_Ratings": "2023-10-18T04:03:07.076521+00:00",
+  "LastUpdate_Achievements": "2023-10-18T04:03:20.0519387+00:00"
 }

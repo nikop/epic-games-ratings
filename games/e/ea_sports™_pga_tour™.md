@@ -7,7 +7,7 @@
 | Star Power | 86.00% | ~347 |
 | Makin' the Cut | 71.00% | ~287 |
 | From Way Downtown | 68.00% | ~275 |
-| Clean Sheet | 65.00% | ~263 |
+| Clean Sheet | 66.00% | ~267 |
 | Winner's Circle | 61.00% | ~246 |
 | Holey Moley | 58.00% | ~234 |
 | Bomb's Away | 54.00% | ~218 |

@@ -32,9 +32,9 @@
 | Very Elusive | 44.00% | ~322 |
 | Missing in Action | 43.00% | ~314 |
 | Head Hunter | 43.00% | ~314 |
+| Operative | 42.00% | ~307 |
 | Scholar | 42.00% | ~307 |
 | Veteran | 41.00% | ~300 |
-| Operative | 41.00% | ~300 |
 | The Professor | 40.00% | ~292 |
 | Power Full | 40.00% | ~292 |
 | The Archangel | 38.00% | ~278 |
@@ -50,10 +50,10 @@
 | A Personal Touch | 32.00% | ~234 |
 | The Assassin | 32.00% | ~234 |
 | The Justicar | 32.00% | ~234 |
+| Battlemaster | 32.00% | ~234 |
 | The Cure | 32.00% | ~234 |
 | The Prodigal | 32.00% | ~234 |
 | Shopaholic | 32.00% | ~234 |
-| Battlemaster | 31.00% | ~227 |
 | Catharsis | 31.00% | ~227 |
 | Ghost of the Father | 31.00% | ~227 |
 | Big Game Hunter | 31.00% | ~227 |

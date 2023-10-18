@@ -6,15 +6,15 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~309,685 |
-| Jeef Skeejj | 44.00% | ~206,457 |
-| Careful planning | 39.00% | ~182,996 |
+| The Shutdown | 66.00% | ~309,687 |
+| Jeef Skeejj | 44.00% | ~206,458 |
+| Careful planning | 39.00% | ~182,997 |
 | Second Coming | 34.00% | ~159,535 |
-| Jeef Skagg | 30.00% | ~140,766 |
-| Mother | 25.00% | ~117,305 |
+| Jeef Skagg | 30.00% | ~140,767 |
+| Mother | 25.00% | ~117,306 |
 | In space, no one can hear you scream | 24.00% | ~112,613 |
-| Chapter I: Echoes | 22.00% | ~103,228 |
-| Excelsior Rule | 22.00% | ~103,228 |
+| Chapter I: Echoes | 22.00% | ~103,229 |
+| Excelsior Rule | 22.00% | ~103,229 |
 | Things persisted in not being what they seemed | 20.00% | ~93,844 |
 | Knightmare Frames | 15.00% | ~70,383 |
 | May His passing cleanse the world | 15.00% | ~70,383 |
@@ -28,9 +28,9 @@ Number of Ratings: 1,003  (23.09.2022)
 | General Vivar | 8.00% | ~37,538 |
 | Back to Ganyma | 8.00% | ~37,538 |
 | Kaos Rule | 8.00% | ~37,538 |
-| Admiral Okonkwo | 7.00% | ~32,845 |
-| The Survivalists | 7.00% | ~32,845 |
-| The Tech Specialist | 7.00% | ~32,845 |
+| Admiral Okonkwo | 7.00% | ~32,846 |
+| The Survivalists | 7.00% | ~32,846 |
+| The Tech Specialist | 7.00% | ~32,846 |
 | Chapter V: Memories of None | 6.00% | ~28,153 |
 | Meet your maker | 6.00% | ~28,153 |
 | The Impersonator | 6.00% | ~28,153 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~13 |
 | Kronos Rule | 0.10% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 469,220 (Ranked 37)  
+Progressed: 469,222 (Ranked 37)  
 Completed: 19 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,7 +267,7 @@ Completed: 19 (0.00%) (Ranked 315)
 | 2023-10-15 | 469,127 | 18 |
 | 2023-10-16 | 469,173 | 18 |
 | 2023-10-17 | 469,214 | 19 |
-| 2023-10-18 | 469,220 | 19 |
+| 2023-10-18 | 469,222 | 19 |
 ## Awards
 Max (Character Customization): 221  (Ranked 269)  
 Sum: 242 (Ranked 370)  

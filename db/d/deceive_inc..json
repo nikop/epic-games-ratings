@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18422,
+  "EOS_Progressed": 18423,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -11661,6 +11661,11 @@
       "Time": "2023-10-18T02:26:09.7563548+00:00",
       "NumProgressed": 18422,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-18T04:08:43.1616175+00:00",
+      "NumProgressed": 18423,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -11672,7 +11677,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5342
+      "UsersEstimate": 5343
     },
     {
       "ID": "0002",
@@ -11872,7 +11877,7 @@
       "Name": "The Living Portrait",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2026
+      "UsersEstimate": 2027
     },
     {
       "ID": "0027",
@@ -11880,7 +11885,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2026
+      "UsersEstimate": 2027
     },
     {
       "ID": "0028",
@@ -11912,7 +11917,7 @@
       "Name": "Private Collection",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2026
+      "UsersEstimate": 2027
     },
     {
       "ID": "0032",
@@ -11920,7 +11925,7 @@
       "Name": "Killer Looks",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2026
+      "UsersEstimate": 2027
     },
     {
       "ID": "0033",
@@ -11928,7 +11933,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2026
+      "UsersEstimate": 2027
     },
     {
       "ID": "0034",
@@ -11959,7 +11964,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18422,
+      "Progressed": 18423,
       "Completed": 4
     }
   ],
@@ -11967,8 +11972,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-10-18T03:09:10.3634863+00:00",
+  "LastChanged_Achievements": "2023-10-18T04:08:43.1616171+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:07.4457302+00:00",
-  "LastUpdate_Ratings": "2023-10-18T03:00:45.730119+00:00",
-  "LastUpdate_Achievements": "2023-10-18T03:09:10.3636086+00:00"
+  "LastUpdate_Ratings": "2023-10-18T04:00:18.8597968+00:00",
+  "LastUpdate_Achievements": "2023-10-18T04:08:43.1616914+00:00"
 }
