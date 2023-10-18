@@ -36,6 +36,8 @@ namespace EpicRatingsUpdater.EGSApi
 
         public List<CatalogItemAttrib> customAttributes { get; set; } = new();
 
+        public List<CatalogItemTag> tags { get; set; } = new();
+
         /*elements {
         description
         effectiveDate
@@ -52,9 +54,6 @@ namespace EpicRatingsUpdater.EGSApi
         productSlug
         urlSlug
         url
-        tags {
-          id
-        }
         items {
           id
           namespace

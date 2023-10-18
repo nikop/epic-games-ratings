@@ -148,6 +148,22 @@ namespace EpicRatingsUpdater
                         var blockChain = el.customAttributes.FirstOrDefault(x => x.key == "isBlockchainUsed");
                         item.Store.isBlockchainUsed = blockChain?.value.Equals("true", StringComparison.InvariantCultureIgnoreCase) == true;
 
+                        var isFirst = el.tags.FirstOrDefault(x => x.id == "31313") != null;
+
+                        if (isFirst != item.Store.isEpicFirstRun)
+                        {
+                            item.Store.isEpicFirstRun = isFirst;
+
+                            if (isFirst)
+                            {
+                                item.Store.EpicFirstRunAdded = DateTimeOffset.UtcNow;
+                            }
+                            else
+                            {
+                                item.Store.EpicFirstRunRemoved = DateTimeOffset.UtcNow;
+                            }
+                        }
+
                         item.Store.CustomAttributes.Clear();
 
                         if (item.IsNew)

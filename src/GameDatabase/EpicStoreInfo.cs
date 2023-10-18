@@ -14,6 +14,12 @@ namespace EpicRatingsUpdater.GameDatabase
 
         public bool isBlockchainUsed { get; set; }
 
+        public bool isEpicFirstRun { get; set; }
+
+        public DateTimeOffset? EpicFirstRunAdded { get; set; }
+
+        public DateTimeOffset? EpicFirstRunRemoved { get; set; }
+
         public Dictionary<string, string> CustomAttributes { get; set; } = new();
     }
 }

@@ -18,7 +18,7 @@ var skipRatingsUpdate = args.Any(x => x == "--skip-ratings");
 var skipAchievementsUpdate = args.Any(x => x == "--skip-achievement");
 
 #if DEBUG
-skipCatalog = true;
+skipCatalog = false;
 skipAppInfo = true;
 skipRatingsUpdate = true;
 skipAchievementsUpdate = true;
@@ -296,6 +296,15 @@ await File.WriteAllTextAsync(
         items
             .Where(x => x.Store.ReleaseDate != null && ratingsCutOffNew < x.Store.ReleaseDate && x.Store.ReleaseDate > now)
             .OrderBy(x => x.Store.ReleaseDate)
+            .ThenBy(x => x.Name)
+    )
+);
+await File.WriteAllTextAsync(
+    Path.Combine(path, "epic_first_run.md"),
+    nameDateTable.FormatTable(
+        items
+            .Where(x => x.Store.isEpicFirstRun)
+            .OrderBy(x => x.Store.EpicFirstRunAdded)
             .ThenBy(x => x.Name)
     )
 );
