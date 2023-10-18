@@ -197,7 +197,7 @@
 | 195 | [Vampyr](games/v/vampyr.md) | 569 | 4.32 | 801 |
 | 196 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 567 | 4.67 | 264 |
 | 197 | [Filament](games/f/filament.md) | 565 | 4.33 | 792 |
-| 198 | [Dishonored 2](games/d/dishonored_2.md) | 561 | 4.78 | 99 |
+| 198 | [Dishonored 2](games/d/dishonored_2.md) | 563 | 4.78 | 99 |
 | 199 | [Godfall Ultimate Edition](games/g/godfall.md) | 551 | 4.07 | 952 |
 | 200 | [Prison Architect](games/p/prison_architect.md) | 532 | 4.61 | 378 |
 | 201 | [Terraforming Mars](games/t/terraforming_mars.md) | 520 | 4.54 | 515 |
@@ -264,7 +264,7 @@
 | 262 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 250 | 4.83 | 56 |
 | 263 | [Crysis Remastered](games/c/crysis_remastered.md) | 249 | 4.41 | 700 |
 | 264 | [Overcooked! 2](games/o/overcooked!_2.md) | 243 | 4.72 | 179 |
-| 265 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 238 | 4.43 | 675 |
+| 265 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 239 | 4.43 | 675 |
 | 266 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 227 | 4.58 | 439 |
 | 267 | [Old World](games/o/old_world.md) | 224 | 4.65 | 305 |
 | 268 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 222 | 4.85 | 42 |

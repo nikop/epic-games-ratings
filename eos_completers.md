@@ -2,7 +2,7 @@
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 66.67% |
-| 3 | [The Riflemen](games/t/the_riflemen.md) | 47.79% |
+| 3 | [The Riflemen](games/t/the_riflemen.md) | 47.78% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.15% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.99% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
@@ -17,7 +17,7 @@
 | 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.38% |
 | 16 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 16 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 20.00% |
-| 18 | [Doodle Devil](games/d/doodle_devil.md) | 19.51% |
+| 18 | [Doodle Devil](games/d/doodle_devil.md) | 19.28% |
 | 19 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.39% |
 | 20 | [Island Cities](games/i/island_cities.md) | 16.46% |
 | 21 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.12% |
@@ -50,7 +50,7 @@
 | 48 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.33% |
 | 49 | [Time Loader](games/t/time_loader.md) | 7.20% |
 | 50 | [Scorn](games/s/scorn.md) | 7.01% |
-| 51 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.58% |
+| 51 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.56% |
 | 52 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.38% |
 | 53 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.29% |
 | 54 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -315,6 +315,7 @@
 | 298 | [The Alto Collection](games/t/the_alto_collection.md) | 0.01% |
 | 298 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 0.01% |
 | 298 | [Verdun](games/v/verdun.md) | 0.01% |
+| 316 | [](games/5/50809e4c39674f42b649fa127d6796dd.md) | 0.00% |
 | 316 | ['n Verlore Verstand](games/'/'n_verlore_verstand.md) | 0.00% |
 | 316 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 0.00% |
 | 316 | [12 orbits](games/1/12_orbits.md) | 0.00% |

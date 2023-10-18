@@ -100,7 +100,7 @@
 | 92 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 393 | 223 |
 | 99 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.78 | 0 | 537 |
 | 99 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.78 | 51 | 413 |
-| 99 | [Dishonored 2](games/d/dishonored_2.md) | 4.78 | 561 | 198 |
+| 99 | [Dishonored 2](games/d/dishonored_2.md) | 4.78 | 563 | 198 |
 | 99 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 10,344 | 38 |
 | 99 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.78 | 0 | 537 |
 | 99 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,431 | 104 |
@@ -675,7 +675,7 @@
 | 660 | [Weird West: Definitive Edition](games/w/weird_west.md) | 4.44 | 28 | 485 |
 | 660 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 59 | 403 |
 | 675 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 46 | 425 |
-| 675 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.43 | 238 | 265 |
+| 675 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.43 | 239 | 265 |
 | 675 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.43 | 13,269 | 30 |
 | 675 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.43 | 0 | 537 |
 | 675 | [Miasma Chronicles](games/m/miasma_chronicles.md) | 4.43 | 0 | 537 |
