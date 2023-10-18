@@ -43,12 +43,12 @@
 | ECO mode | 10.00% | ~3 |
 | Vaccine fans | 7.00% | ~2 |
 | Pulp! Heart Throbs | 3.00% | ~1 |
+| Pulp! Skeleton Hand | 3.00% | ~1 |
 | Thirst for Oleum | 3.00% | ~1 |
 | A new Hindenburg | 3.00% | ~1 |
 | Pulp! The Perfect Crime | 0.00% | ~0 |
 | Pulp! Weird Science | 0.00% | ~0 |
 | Pulp! Mister Mystery | 0.00% | ~0 |
-| Pulp! Skeleton Hand | 0.00% | ~0 |
 | Pulp! The Vault of Horror | 0.00% | ~0 |
 | Troy is burning! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

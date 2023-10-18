@@ -4,8 +4,8 @@
   "ProductSlug": "the-evil-within",
   "Ranking_EOS_Progress": 368,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
     "PcReleaseDate": "2014-07-13T00:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 126,
+  "EOS_Progressed": 127,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -632,6 +632,11 @@
       "Time": "2023-10-18T19:05:14.7729156+00:00",
       "NumProgressed": 126,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-18T23:05:14.870193+00:00",
+      "NumProgressed": 127,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T16:01:32.1694174+00:00",
@@ -642,17 +647,17 @@
       "ID": "ACHIEVEMENT_01",
       "SetID": "ap8553i",
       "Name": "What\u0027s in the Box?",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 41
     },
     {
       "ID": "ACHIEVEMENT_02",
       "SetID": "ap8553i",
       "Name": "Old Flame",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 30
     },
     {
       "ID": "ACHIEVEMENT_03",
@@ -698,17 +703,17 @@
       "ID": "ACHIEVEMENT_08",
       "SetID": "ap8553i",
       "Name": "One of the Many",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 45,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_09",
       "SetID": "ap8553i",
       "Name": "First Step into Darkness",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -860,7 +865,7 @@
       "Name": "Drop It Like It\u0027s Hot",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_29",
@@ -1211,20 +1216,20 @@
     {
       "ID": "8ddjaeg",
       "IsBase": false,
-      "Progressed": 126,
+      "Progressed": 127,
       "Completed": 0
     },
     {
       "ID": "ap8553i",
       "IsBase": true,
-      "Progressed": 126,
+      "Progressed": 127,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-10-18T22:16:48.7104831+00:00",
+  "LastChanged_Achievements": "2023-10-18T23:05:14.8701925+00:00",
   "LastUpdate_AppInfo": "2023-10-18T22:09:35.3920804+00:00",
-  "LastUpdate_Ratings": "2023-10-18T22:12:07.539065+00:00",
-  "LastUpdate_Achievements": "2023-10-18T22:16:48.7106433+00:00"
+  "LastUpdate_Ratings": "2023-10-18T23:01:06.0267168+00:00",
+  "LastUpdate_Achievements": "2023-10-18T23:05:14.8704152+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "752b276b9bff4070be17669b1519eeb1",
   "Name": "Snowbreak Containment Zone",
   "ProductSlug": "snowbreak-containment-zone-abc820",
-  "Ranking_Rating": 747,
+  "Ranking_Rating": 752,
   "Ranking_Popularity": 410,
   "Ranking_PopularitySum": 348,
   "Ranking_EOS_Progress": 681,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 402,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-07-20T02:00:00+00:00",
     "PcReleaseDate": "2023-07-20T02:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.38,
+  "Rating": 4.37,
   "RatingHistory": [
     {
       "Time": "2023-07-29T23:57:57.562026+00:00",
@@ -785,10 +785,16 @@
       "Rating": 4.38,
       "NumberOfAwards": 306,
       "NumberOfAwardsMax": 52
+    },
+    {
+      "Time": "2023-10-18T22:57:57.09314+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 309,
+      "NumberOfAwardsMax": 52
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 306,
+  "NumberOfAwards": 309,
   "NumberOfAwardsMax": 52,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -838,7 +844,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 29
+      "Count": 32
     },
     {
       "Text": "This game has Diverse Characters",
@@ -865,8 +871,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-25T06:57:36.7654235+00:00",
   "FirstSeenRating": "2023-07-29T23:57:57.5620258+00:00",
-  "LastChanged": "2023-10-18T18:58:03.9335597+00:00",
+  "LastChanged": "2023-10-18T22:57:57.0931398+00:00",
   "LastUpdate_AppInfo": "2023-10-12T15:57:03.8228327+00:00",
-  "LastUpdate_Ratings": "2023-10-18T22:10:01.9982486+00:00",
-  "LastUpdate_Achievements": "2023-10-18T22:17:00.9913272+00:00"
+  "LastUpdate_Ratings": "2023-10-18T22:57:57.0931407+00:00",
+  "LastUpdate_Achievements": "2023-10-18T23:05:31.4701667+00:00"
 }

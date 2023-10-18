@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -287,9 +287,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3237,
+  "EOS_Progressed": 3238,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5337,6 +5337,11 @@
       "Time": "2023-10-17T20:08:11.3342403+00:00",
       "NumProgressed": 3237,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-18T23:04:16.241647+00:00",
+      "NumProgressed": 3238,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -5404,7 +5409,7 @@
       "Name": "What They Hide From Us",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACH_BASE_18",
@@ -5420,7 +5425,7 @@
       "Name": "...  in a finite world",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACH_BASE_2",
@@ -5428,7 +5433,7 @@
       "Name": "Guy de Borderlands",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "ACH_BASE_21",
@@ -5436,7 +5441,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 906
+      "UsersEstimate": 907
     },
     {
       "ID": "ACH_BASE_22",
@@ -5460,7 +5465,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 809
+      "UsersEstimate": 810
     },
     {
       "ID": "ACH_BASE_25",
@@ -5492,7 +5497,7 @@
       "Name": "In Dolos We Trust",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACH_BASE_29",
@@ -5788,7 +5793,7 @@
       "Name": "What the Ruins Teach Us",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACH_BASE_9",
@@ -5803,13 +5808,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1419,
+      "Progressed": 1420,
       "Completed": 7
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3237,
+      "Progressed": 3238,
       "Completed": 0
     }
   ],
@@ -5817,8 +5822,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-09-17T17:59:23.8865698+00:00",
-  "LastChanged_Achievements": "2023-10-18T22:16:07.898122+00:00",
+  "LastChanged_Achievements": "2023-10-18T23:04:16.2416465+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:38.5119493+00:00",
-  "LastUpdate_Ratings": "2023-10-18T22:10:04.0215592+00:00",
-  "LastUpdate_Achievements": "2023-10-18T22:16:07.8982884+00:00"
+  "LastUpdate_Ratings": "2023-10-18T22:58:00.957651+00:00",
+  "LastUpdate_Achievements": "2023-10-18T23:04:16.2417831+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 35,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2020-10-02T04:00:00+00:00",
     "PcReleaseDate": "2020-10-02T04:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11898,
+  "EOS_Progressed": 11902,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2503,
+  "EOS_NewPlayers": 2500,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3379,6 +3379,11 @@
       "Time": "2023-10-18T22:21:20.4982727+00:00",
       "NumProgressed": 11898,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-18T23:09:41.3000599+00:00",
+      "NumProgressed": 11902,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -3399,7 +3404,7 @@
       "Name": "Seasoned Star Pilot",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "achievement_11",
@@ -3615,7 +3620,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 11303
+      "UsersEstimate": 11307
     },
     {
       "ID": "achievement_36",
@@ -3743,7 +3748,7 @@
       "Name": "Special Modifications",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "achievement_8",
@@ -3751,7 +3756,7 @@
       "Name": "A Better Idea",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 2974
+      "UsersEstimate": 2976
     },
     {
       "ID": "achievement_9",
@@ -3766,7 +3771,7 @@
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 11898,
+      "Progressed": 11902,
       "Completed": 1
     }
   ],
@@ -3774,8 +3779,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2023-10-18T22:21:20.4982718+00:00",
+  "LastChanged_Achievements": "2023-10-18T23:09:41.3000589+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:10.1416155+00:00",
-  "LastUpdate_Ratings": "2023-10-18T22:11:43.3408846+00:00",
-  "LastUpdate_Achievements": "2023-10-18T22:21:20.4983387+00:00"
+  "LastUpdate_Ratings": "2023-10-18T23:00:30.138935+00:00",
+  "LastUpdate_Achievements": "2023-10-18T23:09:41.3001291+00:00"
 }

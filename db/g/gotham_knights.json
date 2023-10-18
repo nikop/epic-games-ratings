@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3555,10 +3555,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4775,
       "NumberOfAwardsMax": 2840
+    },
+    {
+      "Time": "2023-10-18T23:00:33.9235583+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4777,
+      "NumberOfAwardsMax": 2840
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4775,
+  "NumberOfAwards": 4777,
   "NumberOfAwardsMax": 2840,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3596,7 +3602,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 236
+      "Count": 238
     },
     {
       "Text": "This game is Relaxing",
@@ -3623,7 +3629,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73649,
+  "EOS_Progressed": 73650,
   "EOS_Completed": 121,
   "EOS_NewPlayers": 222,
   "EOS_NewCompleters": 1,
@@ -19103,6 +19109,11 @@
       "Time": "2023-10-18T22:18:17.7504809+00:00",
       "NumProgressed": 73649,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-10-18T23:07:20.9062404+00:00",
+      "NumProgressed": 73650,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 61,
@@ -19162,7 +19173,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16939
+      "UsersEstimate": 16940
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -19258,7 +19269,7 @@
       "Name": "Fusion Expert",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 5155
+      "UsersEstimate": 5156
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -19314,7 +19325,7 @@
       "Name": "Family Meeting",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 5155
+      "UsersEstimate": 5156
     },
     {
       "ID": "DEFEAT_OC_2",
@@ -19354,7 +19365,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 13993
+      "UsersEstimate": 13994
     },
     {
       "ID": "FREEZE_3",
@@ -19418,7 +19429,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25777
+      "UsersEstimate": 25778
     },
     {
       "ID": "HARLEY_2",
@@ -19458,7 +19469,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 38297
+      "UsersEstimate": 38298
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -19466,7 +19477,7 @@
       "Name": "He\u0027d Be So Proud of You",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 2209
+      "UsersEstimate": 2210
     },
     {
       "ID": "HERO_PROGRESSION_3",
@@ -19474,7 +19485,7 @@
       "Name": "A Momentum Occasion",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2209
+      "UsersEstimate": 2210
     },
     {
       "ID": "HERO_PROGRESSION_4",
@@ -19522,7 +19533,7 @@
       "Name": "Lock and Key",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16939
+      "UsersEstimate": 16940
     },
     {
       "ID": "MYSTERY_04",
@@ -19546,7 +19557,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11047
+      "UsersEstimate": 11048
     },
     {
       "ID": "MYSTERY_07",
@@ -19570,7 +19581,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 8101
+      "UsersEstimate": 8102
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -19594,29 +19605,29 @@
       "Name": "Bat Out of Hell",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2209
+      "UsersEstimate": 2210
     }
   ],
   "AchievementSets": [
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73649,
+      "Progressed": 73650,
       "Completed": 121
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43929,
+      "Progressed": 43930,
       "Completed": 2669
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-10-18T18:01:48.1613843+00:00",
-  "LastChanged_Achievements": "2023-10-18T22:18:17.75048+00:00",
+  "LastChanged": "2023-10-18T23:00:33.9235581+00:00",
+  "LastChanged_Achievements": "2023-10-18T23:07:20.9062399+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:41.7245252+00:00",
-  "LastUpdate_Ratings": "2023-10-18T22:11:45.8077605+00:00",
-  "LastUpdate_Achievements": "2023-10-18T22:18:17.7507799+00:00"
+  "LastUpdate_Ratings": "2023-10-18T23:00:33.9235588+00:00",
+  "LastUpdate_Achievements": "2023-10-18T23:07:20.9064389+00:00"
 }

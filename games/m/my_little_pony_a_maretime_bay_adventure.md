@@ -10,9 +10,9 @@
 | Pipp Pipp Parade! | 62.00% | ~28 |
 | Amateur Detective | 62.00% | ~28 |
 | Glowing Up | 60.00% | ~27 |
+| Sheriff's Apprentice | 56.00% | ~25 |
 | Pro Herder | 56.00% | ~25 |
 | The Neigh-gotiator | 56.00% | ~25 |
-| Sheriff's Apprentice | 53.00% | ~24 |
 | Where Did The Magic Go? | 49.00% | ~22 |
 | Friendship Is Still Magic | 49.00% | ~22 |
 | Starscout | 40.00% | ~18 |

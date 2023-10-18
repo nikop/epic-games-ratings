@@ -5,8 +5,8 @@ Rating: 4.56 (Ranked 476)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 28.00% | ~906 |
-| Sputnik 2049 | 25.00% | ~809 |
+| Wakey Wakey | 28.00% | ~907 |
+| Sputnik 2049 | 25.00% | ~810 |
 | Infinite Growth... | 24.00% | ~777 |
 | Without Breaking Some Eggs... | 23.00% | ~745 |
 | Space Society | 17.00% | ~550 |
@@ -16,7 +16,7 @@ Rating: 4.56 (Ranked 476)
 | Fully Recycled | 13.00% | ~421 |
 | Ain't Nobody Got Time for That | 13.00% | ~421 |
 | The Ship of Theseus | 13.00% | ~421 |
-| Guy de Borderlands | 12.00% | ~388 |
+| Guy de Borderlands | 12.00% | ~389 |
 | Exceeding Capacity | 11.00% | ~356 |
 | Breaking Protocol | 11.00% | ~356 |
 | Hope Seeker | 11.00% | ~356 |
@@ -32,10 +32,10 @@ Rating: 4.56 (Ranked 476)
 | Oats | 5.00% | ~162 |
 | BRAWL! | 5.00% | ~162 |
 | All in Good Health | 5.00% | ~162 |
-| What They Hide From Us | 4.00% | ~129 |
-| ...  in a finite world | 4.00% | ~129 |
-| In Dolos We Trust | 4.00% | ~129 |
-| What the Ruins Teach Us | 4.00% | ~129 |
+| What They Hide From Us | 4.00% | ~130 |
+| ...  in a finite world | 4.00% | ~130 |
+| In Dolos We Trust | 4.00% | ~130 |
+| What the Ruins Teach Us | 4.00% | ~130 |
 | Sustainable Energy | 3.00% | ~97 |
 | Delivery! | 3.00% | ~97 |
 | Pedal to the Metal | 3.00% | ~97 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 476)
 | I Give You the Stars | 0.10% | ~1 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,237 (Ranked 191)  
+Progressed: 3,238 (Ranked 191)  
 Completed: 0 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,6 +238,7 @@ Completed: 0 (0.00%) (Ranked 316)
 | 2023-10-15 | 3,229 | 0 |
 | 2023-10-16 | 3,234 | 0 |
 | 2023-10-17 | 3,237 | 0 |
+| 2023-10-18 | 3,238 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

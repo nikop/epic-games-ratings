@@ -4,8 +4,8 @@
   "ProductSlug": "killing-floor-3",
   "Ranking_EOS_Progress": 681,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 402,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2099-11-30T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -31,6 +31,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-18T02:14:22.2523055+00:00",
-  "LastUpdate_Ratings": "2023-10-18T22:15:16.7771967+00:00",
-  "LastUpdate_Achievements": "2023-10-18T22:20:19.3499349+00:00"
+  "LastUpdate_Ratings": "2023-10-18T23:03:18.7275471+00:00",
+  "LastUpdate_Achievements": "2023-10-18T23:09:12.2919145+00:00"
 }

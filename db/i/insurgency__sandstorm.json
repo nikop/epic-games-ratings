@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 38,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 40,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-02-10T17:00:00+00:00",
     "PcReleaseDate": "2018-12-12T12:21:00+00:00",
@@ -3730,9 +3730,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 463668,
+  "EOS_Progressed": 463672,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2372,
+  "EOS_NewPlayers": 2361,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24275,6 +24275,11 @@
       "Time": "2023-10-18T22:16:51.3595748+00:00",
       "NumProgressed": 463668,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-18T23:05:18.5451585+00:00",
+      "NumProgressed": 463672,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -24454,7 +24459,7 @@
       "Name": "Point Shooting",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 23183
+      "UsersEstimate": 23184
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -24550,7 +24555,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 23183
+      "UsersEstimate": 23184
     },
     {
       "ID": "ACH_WET_FEET",
@@ -24565,15 +24570,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 463668,
+      "Progressed": 463672,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-10-18T22:11:08.2391008+00:00",
-  "LastChanged_Achievements": "2023-10-18T22:16:51.3595739+00:00",
+  "LastChanged_Achievements": "2023-10-18T23:05:18.5451578+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:10.7771003+00:00",
-  "LastUpdate_Ratings": "2023-10-18T22:11:08.2391025+00:00",
-  "LastUpdate_Achievements": "2023-10-18T22:16:51.3598702+00:00"
+  "LastUpdate_Ratings": "2023-10-18T22:59:36.7298432+00:00",
+  "LastUpdate_Achievements": "2023-10-18T23:05:18.5453297+00:00"
 }

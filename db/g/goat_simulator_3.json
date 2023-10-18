@@ -4459,9 +4459,9 @@
       "Count": 304
     }
   ],
-  "EOS_Progressed": 247931,
+  "EOS_Progressed": 247932,
   "EOS_Completed": 859,
-  "EOS_NewPlayers": 800,
+  "EOS_NewPlayers": 799,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -24229,6 +24229,11 @@
       "Time": "2023-10-18T22:18:57.5630991+00:00",
       "NumProgressed": 247931,
       "NumCompleted": 859
+    },
+    {
+      "Time": "2023-10-18T23:08:13.5738596+00:00",
+      "NumProgressed": 247932,
+      "NumCompleted": 859
     }
   ],
   "TotalAchievements": 39,
@@ -24272,7 +24277,7 @@
       "Name": "San Angora: Become Human",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 66941
+      "UsersEstimate": 66942
     },
     {
       "ID": "AchievementBigFootID",
@@ -24288,7 +24293,7 @@
       "Name": "New Goat Order",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 74379
+      "UsersEstimate": 74380
     },
     {
       "ID": "AchievementBoulderID",
@@ -24304,7 +24309,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 225617
+      "UsersEstimate": 225618
     },
     {
       "ID": "AchievementClownID",
@@ -24320,7 +24325,7 @@
       "Name": "Club Mohair",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 19834
+      "UsersEstimate": 19835
     },
     {
       "ID": "AchievementCrashGameID",
@@ -24352,7 +24357,7 @@
       "Name": "What a Waste of Money",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 81817
+      "UsersEstimate": 81818
     },
     {
       "ID": "AchievementGoatID",
@@ -24368,7 +24373,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 131403
+      "UsersEstimate": 131404
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -24472,7 +24477,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 183469
+      "UsersEstimate": 183470
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -24480,7 +24485,7 @@
       "Name": "A Center for Ants?",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 19834
+      "UsersEstimate": 19835
     },
     {
       "ID": "AchievementStratosphereID",
@@ -24512,7 +24517,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 136362
+      "UsersEstimate": 136363
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -24536,7 +24541,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 161155
+      "UsersEstimate": 161156
     },
     {
       "ID": "AchievementWhaleID",
@@ -24544,14 +24549,14 @@
       "Name": "Real Buoy",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 66941
+      "UsersEstimate": 66942
     }
   ],
   "AchievementSets": [
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 247931,
+      "Progressed": 247932,
       "Completed": 859
     }
   ],
@@ -24559,8 +24564,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-10-18T15:57:18.3182206+00:00",
-  "LastChanged_Achievements": "2023-10-18T22:18:57.563098+00:00",
+  "LastChanged_Achievements": "2023-10-18T23:08:13.573859+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:27.2965539+00:00",
-  "LastUpdate_Ratings": "2023-10-18T22:09:44.9831002+00:00",
-  "LastUpdate_Achievements": "2023-10-18T22:18:57.56341+00:00"
+  "LastUpdate_Ratings": "2023-10-18T22:57:29.6650382+00:00",
+  "LastUpdate_Achievements": "2023-10-18T23:08:13.574104+00:00"
 }

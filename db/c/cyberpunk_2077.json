@@ -13785,8 +13785,8 @@
     }
   ],
   "EOS_Progressed": 892603,
-  "EOS_Completed": 2682,
-  "EOS_NewPlayers": 1586,
+  "EOS_Completed": 2683,
+  "EOS_NewPlayers": 1579,
   "EOS_NewCompleters": 42,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -34304,6 +34304,11 @@
       "Time": "2023-10-18T22:16:26.3701556+00:00",
       "NumProgressed": 892603,
       "NumCompleted": 2682
+    },
+    {
+      "Time": "2023-10-18T23:04:42.4468653+00:00",
+      "NumProgressed": 892603,
+      "NumCompleted": 2683
     }
   ],
   "TotalAchievements": 57,
@@ -34401,9 +34406,9 @@
       "ID": "HandyMan",
       "SetID": "47clieb",
       "Name": "Master Crafter",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 178521
+      "UsersEstimate": 187447
     },
     {
       "ID": "IAmMaxTac",
@@ -34771,7 +34776,7 @@
       "ID": "47clieb",
       "IsBase": true,
       "Progressed": 892603,
-      "Completed": 2682
+      "Completed": 2683
     },
     {
       "ID": "23nboa5",
@@ -34783,8 +34788,8 @@
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-18T19:57:52.6068231+00:00",
-  "LastChanged_Achievements": "2023-10-18T22:16:26.3701546+00:00",
+  "LastChanged_Achievements": "2023-10-18T23:04:42.4468647+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:37.5483976+00:00",
-  "LastUpdate_Ratings": "2023-10-18T22:10:06.1896552+00:00",
-  "LastUpdate_Achievements": "2023-10-18T22:16:26.3704829+00:00"
+  "LastUpdate_Ratings": "2023-10-18T22:58:04.0140736+00:00",
+  "LastUpdate_Achievements": "2023-10-18T23:04:42.4470763+00:00"
 }

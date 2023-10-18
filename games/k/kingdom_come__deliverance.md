@@ -6,35 +6,35 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~257,680 |
-| Cavalier | 25.00% | ~201,312 |
-| Fatso | 23.00% | ~185,207 |
-| Awakening | 21.00% | ~169,102 |
+| Blacksmith's Son | 32.00% | ~257,681 |
+| Cavalier | 25.00% | ~201,313 |
+| Fatso | 23.00% | ~185,208 |
+| Awakening | 21.00% | ~169,103 |
 | Ranger | 20.00% | ~161,050 |
 | Scrooge | 20.00% | ~161,050 |
 | Anorectic | 16.00% | ~128,840 |
-| Bookworm | 15.00% | ~120,787 |
-| Firestarter | 15.00% | ~120,787 |
-| Insomniac | 13.00% | ~104,682 |
+| Bookworm | 15.00% | ~120,788 |
+| Firestarter | 15.00% | ~120,788 |
+| Insomniac | 13.00% | ~104,683 |
 | Buddy | 12.00% | ~96,630 |
 | Thief | 12.00% | ~96,630 |
-| Sinner | 11.00% | ~88,577 |
-| Traveller | 11.00% | ~88,577 |
+| Sinner | 11.00% | ~88,578 |
+| Traveller | 11.00% | ~88,578 |
 | Convict | 10.00% | ~80,525 |
-| Haggler | 9.00% | ~72,472 |
-| McLovin | 7.00% | ~56,367 |
-| Runt | 7.00% | ~56,367 |
+| Haggler | 9.00% | ~72,473 |
+| McLovin | 7.00% | ~56,368 |
+| Runt | 7.00% | ~56,368 |
 | Casanova | 6.00% | ~48,315 |
-| Bad Trip | 5.00% | ~40,262 |
-| Monk | 5.00% | ~40,262 |
-| Serial Killer | 5.00% | ~40,262 |
+| Bad Trip | 5.00% | ~40,263 |
+| Monk | 5.00% | ~40,263 |
+| Serial Killer | 5.00% | ~40,263 |
 | Bastard | 4.00% | ~32,210 |
 | Hunter | 4.00% | ~32,210 |
 | Plague Doctor | 4.00% | ~32,210 |
-| Bard | 3.00% | ~24,157 |
-| Conqueror | 3.00% | ~24,157 |
-| Ginger in a Pickle | 3.00% | ~24,157 |
-| Kingdom did not come | 3.00% | ~24,157 |
+| Bard | 3.00% | ~24,158 |
+| Conqueror | 3.00% | ~24,158 |
+| Ginger in a Pickle | 3.00% | ~24,158 |
+| Kingdom did not come | 3.00% | ~24,158 |
 | Completionist | 2.00% | ~16,105 |
 | Death by splinter | 2.00% | ~16,105 |
 | King Charming | 2.00% | ~16,105 |
@@ -44,30 +44,30 @@ Number of Ratings: 9,133  (23.09.2022)
 | Robber Baron | 2.00% | ~16,105 |
 | Talmberger | 2.00% | ~16,105 |
 | The End | 2.00% | ~16,105 |
-| Woman's Lot | 1.00% | ~8,052 |
-| Chivalrous Soul | 1.00% | ~8,052 |
-| Spoilsport | 1.00% | ~8,052 |
-| Freud | 1.00% | ~8,052 |
-| Gambler | 1.00% | ~8,052 |
-| Master Huntsman | 1.00% | ~8,052 |
-| Stealth Killer | 1.00% | ~8,052 |
+| Woman's Lot | 1.00% | ~8,053 |
+| Chivalrous Soul | 1.00% | ~8,053 |
+| Spoilsport | 1.00% | ~8,053 |
+| Freud | 1.00% | ~8,053 |
+| Gambler | 1.00% | ~8,053 |
+| Master Huntsman | 1.00% | ~8,053 |
+| Stealth Killer | 1.00% | ~8,053 |
 | Bailiff | 0.90% | ~7,247 |
 | Tracker | 0.90% | ~7,247 |
 | David Horak | 0.80% | ~6,442 |
 | Fighter | 0.70% | ~5,637 |
 | Mercenary's Honour | 0.70% | ~5,637 |
 | Saviour | 0.70% | ~5,637 |
-| Edward Kelly | 0.60% | ~4,831 |
+| Edward Kelly | 0.60% | ~4,832 |
 | I Can Quit Anytime | 0.50% | ~4,026 |
 | Perfectionist | 0.50% | ~4,026 |
 | Alcoholic | 0.30% | ~2,416 |
 | Sniper | 0.30% | ~2,416 |
-| Angel of Mercy | 0.20% | ~1,610 |
-| Christian Burial | 0.20% | ~1,610 |
-| Friends without benefits | 0.20% | ~1,610 |
-| Game Over | 0.20% | ~1,610 |
-| Not-so-Christian Burial | 0.20% | ~1,610 |
-| True Friend | 0.20% | ~1,610 |
+| Angel of Mercy | 0.20% | ~1,611 |
+| Christian Burial | 0.20% | ~1,611 |
+| Friends without benefits | 0.20% | ~1,611 |
+| Game Over | 0.20% | ~1,611 |
+| Not-so-Christian Burial | 0.20% | ~1,611 |
+| True Friend | 0.20% | ~1,611 |
 | Bad Girl | 0.10% | ~805 |
 | Cleric's pet | 0.10% | ~805 |
 | Full House Sinner | 0.10% | ~805 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~805 |
 | Wingman | 0.10% | ~805 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 805,249 (Ranked 17)  
+Progressed: 805,252 (Ranked 17)  
 Completed: 51 (0.01%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,7 +270,7 @@ Completed: 51 (0.01%) (Ranked 298)
 | 2023-10-15 | 804,980 | 51 |
 | 2023-10-16 | 805,061 | 51 |
 | 2023-10-17 | 805,149 | 51 |
-| 2023-10-18 | 805,249 | 51 |
+| 2023-10-18 | 805,252 | 51 |
 ## Awards
 Max (Character Customization): 7,527  (Ranked 50)  
 Sum: 28,008 (Ranked 48)  

@@ -5,7 +5,7 @@ Rating: 4.41 (Ranked 700)
 Number of Ratings: 1,747  (23.09.2022)  
 ## Awards
 Max (Amazing Characters): 68  (Ranked 394)  
-Sum: 603 (Ranked 300)  
+Sum: 604 (Ranked 300)  
 Diff (max vs sum): 94  
 | Award | Count |
 | ----- | ----- |
@@ -18,7 +18,7 @@ Diff (max vs sum): 94
 | This game has Challenging Combat | 57 |
 | This game has Quickly Understood Controls | 56 |
 | This game is Relaxing | 55 |
-| This game is Highly Recommended | 53 |
+| This game is Highly Recommended | 54 |
 | This game has a Competitive Community | 49 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -164,3 +164,4 @@ Diff (max vs sum): 94
 | 2023-10-11 | 4.41 | - | 67 | 601 |
 | 2023-10-13 | 4.41 | - | 68 | 602 |
 | 2023-10-14 | 4.41 | - | 68 | 603 |
+| 2023-10-18 | 4.41 | - | 68 | 604 |

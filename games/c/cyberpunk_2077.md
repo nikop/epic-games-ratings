@@ -19,7 +19,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Life of the Road | 23.00% | ~205,299 |
 | Ten out of Ten | 22.00% | ~196,373 |
 | The World | 22.00% | ~196,373 |
-| Master Crafter | 20.00% | ~178,521 |
+| Master Crafter | 21.00% | ~187,447 |
 | True Warrior | 20.00% | ~178,521 |
 | Bushido and Chill | 19.00% | ~169,595 |
 | Gun Fu | 18.00% | ~160,669 |
@@ -65,7 +65,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 892,603 (Ranked 15)  
-Completed: 2,682 (0.30%) (Ranked 206)  
+Completed: 2,683 (0.30%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -245,7 +245,7 @@ Completed: 2,682 (0.30%) (Ranked 206)
 | 2023-10-15 | 892,108 | 2,671 |
 | 2023-10-16 | 892,285 | 2,674 |
 | 2023-10-17 | 892,443 | 2,678 |
-| 2023-10-18 | 892,603 | 2,682 |
+| 2023-10-18 | 892,603 | 2,683 |
 ## Awards
 Max (Character Customization): 99,323  (Ranked 9)  
 Sum: 311,011 (Ranked 11)  

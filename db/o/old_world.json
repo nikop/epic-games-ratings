@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 285,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1898,7 +1898,7 @@
   ],
   "EOS_Progressed": 14791,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15816,9 +15816,9 @@
       "ID": "ACHIEVEMENT_NATION_CARTHAGE",
       "SetID": "7l38kb8",
       "Name": "Carthage",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 74
     },
     {
       "ID": "ACHIEVEMENT_NATION_EGYPT",
@@ -16512,9 +16512,9 @@
       "ID": "ACHIEVEMENT_SACRED_PROFANE_GREAT_MAGE",
       "SetID": "9201eeb",
       "Name": "The Great Mage",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 74
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_MYTHICAL_BEAST",
@@ -16950,8 +16950,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-18T13:58:39.0543396+00:00",
-  "LastChanged_Achievements": "2023-10-18T22:21:16.3688329+00:00",
+  "LastChanged_Achievements": "2023-10-18T23:09:36.0574793+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:21.7880328+00:00",
-  "LastUpdate_Ratings": "2023-10-18T22:10:43.8989096+00:00",
-  "LastUpdate_Achievements": "2023-10-18T22:21:16.3702464+00:00"
+  "LastUpdate_Ratings": "2023-10-18T22:58:58.3277879+00:00",
+  "LastUpdate_Achievements": "2023-10-18T23:09:36.0587626+00:00"
 }

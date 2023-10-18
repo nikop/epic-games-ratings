@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Nightmare Territory | 112.00% | ~28 |
-| Bring It | 104.00% | ~26 |
-| Grew Bigger | 104.00% | ~26 |
-| Find the Light | 100.00% | ~25 |
-| Filling the Shape | 100.00% | ~25 |
+| Nightmare Territory | 120.00% | ~30 |
+| Bring It | 112.00% | ~28 |
+| Grew Bigger | 112.00% | ~28 |
+| Find the Light | 108.00% | ~27 |
+| Filling the Shape | 104.00% | ~26 |
+| Lights Shining | 96.00% | ~24 |
+| Yippee Ki-yay | 96.00% | ~24 |
 | Coffee Thermos | 96.00% | ~24 |
-| Yippee Ki-yay | 92.00% | ~23 |
-| Lights Shining | 88.00% | ~22 |
 | Ready for a Fight | 80.00% | ~20 |
 | Greatest Hits | 80.00% | ~20 |
 | Darkness Coiled | 72.00% | ~18 |
 | The Other Side | 64.00% | ~16 |
+| All Accounted For | 60.00% | ~15 |
+| Stop Right There | 56.00% | ~14 |
 | Aimed Ahead | 56.00% | ~14 |
 | Carry his Words | 56.00% | ~14 |
-| All Accounted For | 56.00% | ~14 |
-| Stop Right There | 52.00% | ~13 |
 | Hunting Season | 48.00% | ~12 |
 | Chased the Source | 48.00% | ~12 |
 | Shining in the Night | 44.00% | ~11 |
@@ -40,12 +40,12 @@
 | The Final Deerfest | 24.00% | ~6 |
 | Told and Retold | 24.00% | ~6 |
 | Behind the Masks | 24.00% | ~6 |
+| The Trail of the Writer | 20.00% | ~5 |
 | Somebody's Home | 20.00% | ~5 |
 | Talk Show | 20.00% | ~5 |
 | In One Go | 20.00% | ~5 |
 | Coffee-Themed Fun | 20.00% | ~5 |
 | Escape its Gravity | 16.00% | ~4 |
-| The Trail of the Writer | 16.00% | ~4 |
 | Girl in Love | 16.00% | ~4 |
 | Gone for Good | 16.00% | ~4 |
 | The Story Come True | 16.00% | ~4 |

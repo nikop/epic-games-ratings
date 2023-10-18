@@ -3,9 +3,9 @@
   "Name": "The Bunker",
   "ProductSlug": "the-bunker-03b712",
   "Ranking_EOS_Progress": 374,
-  "Ranking_EOS_Completed": 81,
-  "Ranking_EOS_NewPlayers": 341,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_Completed": 70,
+  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2016-09-20T17:00:00+00:00",
@@ -31,10 +31,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 119,
-  "EOS_Completed": 4,
+  "EOS_Completed": 5,
   "EOS_NewPlayers": 1,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.36,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 4.2,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:47.0734478+00:00",
@@ -195,6 +195,11 @@
       "Time": "2023-10-18T21:05:14.7954146+00:00",
       "NumProgressed": 119,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-18T23:05:19.1111838+00:00",
+      "NumProgressed": 119,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -316,17 +321,17 @@
       "ID": "CHAPTER_11_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Awakenings",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "CHAPTER_12_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Cold Storage",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "LEAVE",
@@ -340,9 +345,9 @@
       "ID": "MISSING_PIECE",
       "SetID": "bho0i1h",
       "Name": "The Missing Piece",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "PEG_CHURCHILL",
@@ -420,9 +425,9 @@
       "ID": "STAY",
       "SetID": "bho0i1h",
       "Name": "Stay",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     }
   ],
   "AchievementSets": [
@@ -430,15 +435,15 @@
       "ID": "bho0i1h",
       "IsBase": true,
       "Progressed": 119,
-      "Completed": 4
+      "Completed": 5
     }
   ],
   "FirstSeen": "2022-10-22T08:32:43.2662089+00:00",
   "FirstSeenRating": "2023-03-31T05:58:47.332275+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:47.0734489+00:00",
   "LastChanged": "2023-03-31T05:58:47.3322751+00:00",
-  "LastChanged_Achievements": "2023-10-18T22:16:51.6726913+00:00",
+  "LastChanged_Achievements": "2023-10-18T23:05:19.1111832+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:59.5735627+00:00",
-  "LastUpdate_Ratings": "2023-10-18T22:10:43.0957722+00:00",
-  "LastUpdate_Achievements": "2023-10-18T22:16:51.672729+00:00"
+  "LastUpdate_Ratings": "2023-10-18T22:58:57.0231246+00:00",
+  "LastUpdate_Achievements": "2023-10-18T23:05:19.1112062+00:00"
 }

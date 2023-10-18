@@ -14,8 +14,8 @@
 | Broken | 63.00% | ~75 |
 | Radiation | 61.00% | ~73 |
 | Descent | 61.00% | ~73 |
-| Awakenings | 59.00% | ~70 |
-| Cold Storage | 59.00% | ~70 |
+| Awakenings | 60.00% | ~71 |
+| Cold Storage | 60.00% | ~71 |
 | Sam | 55.00% | ~65 |
 | Commissioner | 54.00% | ~64 |
 | Churchill | 52.00% | ~62 |
@@ -26,15 +26,15 @@
 | Press Play | 38.00% | ~45 |
 | General | 29.00% | ~35 |
 | Bookworm | 24.00% | ~29 |
+| Stay | 16.00% | ~19 |
 | Floppy Disk Finder | 15.00% | ~18 |
-| Stay | 15.00% | ~18 |
 | Nurse | 13.00% | ~15 |
 | No Page Unturned | 7.00% | ~8 |
+| The Missing Piece | 7.00% | ~8 |
 | Friends | 6.00% | ~7 |
-| The Missing Piece | 6.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 119 (Ranked 374)  
-Completed: 4 (3.36%) (Ranked 81)  
+Completed: 5 (4.20%) (Ranked 70)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -65,7 +65,7 @@ Completed: 4 (3.36%) (Ranked 81)
 | 2023-09-12 | 116 | 4 |
 | 2023-09-24 | 117 | 4 |
 | 2023-10-11 | 118 | 4 |
-| 2023-10-18 | 119 | 4 |
+| 2023-10-18 | 119 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

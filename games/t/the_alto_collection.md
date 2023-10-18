@@ -1,16 +1,16 @@
 # The Alto Collection
 [Store](https://store.epicgames.com/en-US/p/the-alto-collection)  
 [View Rawdata](../../db/t/the_alto_collection.json)  
-Rating: 4.70 (Ranked 206)  
+Rating: 4.70 (Ranked 207)  
 Number of Ratings: 332  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~11,636 |
-| Finding Your Footing | 26.00% | ~11,205 |
-| Nomad | 17.00% | ~7,326 |
-| Picking Up Speed | 16.00% | ~6,895 |
-| Welcome Maya | 15.00% | ~6,464 |
+| Rookie | 27.00% | ~11,637 |
+| Finding Your Footing | 26.00% | ~11,206 |
+| Nomad | 17.00% | ~7,327 |
+| Picking Up Speed | 16.00% | ~6,896 |
+| Welcome Maya | 15.00% | ~6,465 |
 | Scout | 11.00% | ~4,741 |
 | Sightseer | 11.00% | ~4,741 |
 | Amateur | 10.00% | ~4,310 |
@@ -38,7 +38,7 @@ Number of Ratings: 332  (23.09.2022)
 | Vandal | 1.00% | ~431 |
 | Unlock Felipe | 0.90% | ~388 |
 | Adventurer | 0.80% | ~345 |
-| Unlock Tupa | 0.50% | ~215 |
+| Unlock Tupa | 0.50% | ~216 |
 | Master Of The Sands | 0.30% | ~129 |
 | Master | 0.20% | ~86 |
 | Survivalist | 0.20% | ~86 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~43 |
 | Windswept | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,096 (Ranked 108)  
+Progressed: 43,100 (Ranked 108)  
 Completed: 5 (0.01%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 5 (0.01%) (Ranked 298)
 | 2023-10-15 | 42,837 | 5 |
 | 2023-10-16 | 42,918 | 5 |
 | 2023-10-17 | 43,008 | 5 |
-| 2023-10-18 | 43,096 | 5 |
+| 2023-10-18 | 43,100 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 48  (Ranked 423)  
 Sum: 366 (Ranked 335)  
