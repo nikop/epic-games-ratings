@@ -49,23 +49,23 @@
 | Phoning It In | 9.00% | ~31 |
 | Water Features | 8.00% | ~27 |
 | Meet Me at HQ | 8.00% | ~27 |
+| Revenue Royalty | 8.00% | ~27 |
 | Golden Opportunity | 8.00% | ~27 |
 | Careful Constructor | 7.00% | ~24 |
+| Profound Proceeds | 7.00% | ~24 |
 | Maximum Reuse | 7.00% | ~24 |
-| Revenue Royalty | 7.00% | ~24 |
 | Pipe Up | 7.00% | ~24 |
 | I'm Busy Ruling | 6.00% | ~20 |
 | Sky High Stature | 6.00% | ~20 |
-| Profound Proceeds | 6.00% | ~20 |
 | Tuned In | 6.00% | ~20 |
 | It's a Gas | 6.00% | ~20 |
 | Meet ADA/360 | 5.00% | ~17 |
 | Penthouse in the Sky | 5.00% | ~17 |
 | Baron of Business | 5.00% | ~17 |
+| Decorator's Touch | 4.00% | ~14 |
 | Office Bigwigs | 4.00% | ~14 |
 | Three of a Kind | 4.00% | ~14 |
 | Sandbagger | 4.00% | ~14 |
-| Decorator's Touch | 3.00% | ~10 |
 | Apartment Awareness | 3.00% | ~10 |
 | Luxury Boutiques | 3.00% | ~10 |
 | Four of a Kind | 3.00% | ~10 |

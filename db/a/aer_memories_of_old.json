@@ -3,8 +3,8 @@
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
   "Ranking_Rating": 628,
-  "Ranking_Popularity": 537,
-  "Ranking_PopularitySum": 537,
+  "Ranking_Popularity": 538,
+  "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 113,
   "Ranking_EOS_NewPlayers": 96,
@@ -410,7 +410,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22321,
+  "EOS_Progressed": 22322,
   "EOS_Completed": 440,
   "EOS_NewPlayers": 444,
   "EOS_NewCompleters": 6,
@@ -19840,6 +19840,11 @@
       "Time": "2023-10-18T10:04:43.8370859+00:00",
       "NumProgressed": 22321,
       "NumCompleted": 440
+    },
+    {
+      "Time": "2023-10-18T11:04:29.09233+00:00",
+      "NumProgressed": 22322,
+      "NumCompleted": 440
     }
   ],
   "TotalAchievements": 20,
@@ -19971,7 +19976,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 17187
+      "UsersEstimate": 17188
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -20010,15 +20015,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 22321,
+      "Progressed": 22322,
       "Completed": 440
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-18T10:04:43.8370855+00:00",
+  "LastChanged_Achievements": "2023-10-18T11:04:29.092329+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:17.0806119+00:00",
-  "LastUpdate_Ratings": "2023-10-18T09:59:09.7921634+00:00",
-  "LastUpdate_Achievements": "2023-10-18T10:04:43.8371889+00:00"
+  "LastUpdate_Ratings": "2023-10-18T10:59:00.6688916+00:00",
+  "LastUpdate_Achievements": "2023-10-18T11:04:29.0924659+00:00"
 }

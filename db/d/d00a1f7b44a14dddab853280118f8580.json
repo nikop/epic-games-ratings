@@ -3,9 +3,9 @@
   "Name": "100 Doors - Escape from Prison",
   "ProductSlug": "100-doors-escape-from-prison-1e0ba3",
   "Ranking_EOS_Progress": 355,
-  "Ranking_EOS_Completed": 15,
-  "Ranking_EOS_NewPlayers": 311,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_Completed": 16,
+  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-07-28T07:00:00+00:00",
     "PcReleaseDate": "2022-06-15T07:00:00+00:00",
@@ -798,17 +798,17 @@
       "ID": "ach_hint_6",
       "SetID": "5e260i9",
       "Name": "Supported success!",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 70,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ach_hint_9",
       "SetID": "5e260i9",
       "Name": "Together is better!",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ach_items_50",
@@ -822,17 +822,17 @@
       "ID": "ach_minigames_10",
       "SetID": "5e260i9",
       "Name": "Inquiring mind!",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 80,
-      "UsersEstimate": 115
+      "UsersEstimate": 117
     },
     {
       "ID": "ach_skip_1",
       "SetID": "5e260i9",
       "Name": "Keep moving on!",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 40,
-      "UsersEstimate": 85
+      "UsersEstimate": 87
     },
     {
       "ID": "ach_skip_3",
@@ -861,8 +861,8 @@
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-10-18T10:06:39.8261633+00:00",
+  "LastChanged_Achievements": "2023-10-18T11:06:04.5028093+00:00",
   "LastUpdate_AppInfo": "2023-10-13T02:17:02.0897787+00:00",
-  "LastUpdate_Ratings": "2023-10-18T10:01:45.6856953+00:00",
-  "LastUpdate_Achievements": "2023-10-18T10:06:39.8261759+00:00"
+  "LastUpdate_Ratings": "2023-10-18T11:00:57.6599213+00:00",
+  "LastUpdate_Achievements": "2023-10-18T11:06:04.5028228+00:00"
 }

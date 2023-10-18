@@ -3,8 +3,8 @@
   "Name": "Adios",
   "ProductSlug": "adios-b378b4",
   "Ranking_Rating": 1016,
-  "Ranking_Popularity": 537,
-  "Ranking_PopularitySum": 537,
+  "Ranking_Popularity": 538,
+  "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 143,
   "Ranking_EOS_NewPlayers": 85,
@@ -114,9 +114,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 76090,
+  "EOS_Progressed": 76091,
   "EOS_Completed": 799,
-  "EOS_NewPlayers": 592,
+  "EOS_NewPlayers": 589,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -20294,6 +20294,11 @@
       "Time": "2023-10-18T10:06:08.6208884+00:00",
       "NumProgressed": 76090,
       "NumCompleted": 799
+    },
+    {
+      "Time": "2023-10-18T11:05:40.0225366+00:00",
+      "NumProgressed": 76091,
+      "NumCompleted": 799
     }
   ],
   "TotalAchievements": 25,
@@ -20401,7 +20406,7 @@
       "Name": "Magnetic Miracles",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 3804
+      "UsersEstimate": 3805
     },
     {
       "ID": "Master, Commander",
@@ -20433,7 +20438,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 12174
+      "UsersEstimate": 12175
     },
     {
       "ID": "Nothing Left to Say",
@@ -20504,7 +20509,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 76090,
+      "Progressed": 76091,
       "Completed": 799
     }
   ],
@@ -20512,8 +20517,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-10-18T10:06:08.6208878+00:00",
+  "LastChanged_Achievements": "2023-10-18T11:05:40.0225361+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:21.8706974+00:00",
-  "LastUpdate_Ratings": "2023-10-18T10:01:17.5077248+00:00",
-  "LastUpdate_Achievements": "2023-10-18T10:06:08.6209993+00:00"
+  "LastUpdate_Ratings": "2023-10-18T11:00:35.4684576+00:00",
+  "LastUpdate_Achievements": "2023-10-18T11:05:40.0226598+00:00"
 }

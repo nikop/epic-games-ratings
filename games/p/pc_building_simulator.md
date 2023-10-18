@@ -6,24 +6,24 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,749,485 |
-| Easy to forget | 46.00% | ~1,642,374 |
-| Back in the black | 39.00% | ~1,392,447 |
-| That's what I'm talking about | 29.00% | ~1,035,410 |
-| The Best of Both Worlds | 25.00% | ~892,594 |
-| Get your wings | 20.00% | ~714,076 |
-| Double trouble | 16.00% | ~571,260 |
+| You need to plug it in... | 49.00% | ~1,749,488 |
+| Easy to forget | 46.00% | ~1,642,377 |
+| Back in the black | 39.00% | ~1,392,450 |
+| That's what I'm talking about | 29.00% | ~1,035,411 |
+| The Best of Both Worlds | 25.00% | ~892,596 |
+| Get your wings | 20.00% | ~714,077 |
+| Double trouble | 16.00% | ~571,261 |
 | Smashing it | 11.00% | ~392,742 |
-| But can it run Crysis? | 9.00% | ~321,334 |
-| My favourite feature... | 9.00% | ~321,334 |
-| From humble beginnings... | 7.00% | ~249,926 |
-| Customer satisfaction | 7.00% | ~249,926 |
+| But can it run Crysis? | 9.00% | ~321,335 |
+| My favourite feature... | 9.00% | ~321,335 |
+| From humble beginnings... | 7.00% | ~249,927 |
+| Customer satisfaction | 7.00% | ~249,927 |
 | Keeping things neat | 4.00% | ~142,815 |
 | Seems you're pretty good at this | 4.00% | ~142,815 |
 | Bending over backwards | 4.00% | ~142,815 |
-| Triple threat | 3.00% | ~107,111 |
-| You rock at this! | 3.00% | ~107,111 |
-| Your music sucks | 3.00% | ~107,111 |
+| Triple threat | 3.00% | ~107,112 |
+| You rock at this! | 3.00% | ~107,112 |
+| Your music sucks | 3.00% | ~107,112 |
 | I'm broke, Uncle! | 2.00% | ~71,408 |
 | Maybe you should try something else? | 2.00% | ~71,408 |
 | Taking care of business | 2.00% | ~71,408 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,570 |
 | Treat yourself - GPU | 0.10% | ~3,570 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,570,378 (Ranked 5)  
+Progressed: 3,570,384 (Ranked 5)  
 Completed: 36 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,7 +240,7 @@ Completed: 36 (0.00%) (Ranked 316)
 | 2023-10-15 | 3,569,727 | 36 |
 | 2023-10-16 | 3,570,011 | 36 |
 | 2023-10-17 | 3,570,289 | 36 |
-| 2023-10-18 | 3,570,378 | 36 |
+| 2023-10-18 | 3,570,384 | 36 |
 ## Awards
 Max (Great for Beginners): 1,085  (Ranked 142)  
 Sum: 8,069 (Ranked 102)  

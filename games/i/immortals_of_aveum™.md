@@ -15,8 +15,8 @@ Rating: 4.05 (Ranked 961)
 | Gravity-Challenged Rocks | 47.00% | ~43 |
 | Soldier | 41.00% | ~37 |
 | All the Major Food Groups | 41.00% | ~37 |
+| Beggars Would Ride | 36.00% | ~33 |
 | Socialite | 35.00% | ~32 |
-| Beggars Would Ride | 35.00% | ~32 |
 | Control is an Illusion | 34.00% | ~31 |
 | The Means to Save It | 26.00% | ~24 |
 | Resilience to Sin | 22.00% | ~20 |

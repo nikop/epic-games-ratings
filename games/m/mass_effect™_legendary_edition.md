@@ -39,10 +39,10 @@
 | Power Full | 40.00% | ~293 |
 | The Archangel | 38.00% | ~279 |
 | The Convict | 37.00% | ~271 |
+| The Krogan | 37.00% | ~271 |
 | Completionist | 36.00% | ~264 |
 | Colony Defense | 36.00% | ~264 |
-| The Krogan | 36.00% | ~264 |
-| Galactic Explorer | 35.00% | ~257 |
+| Galactic Explorer | 36.00% | ~264 |
 | Broke, Blind, and Bedlam | 35.00% | ~257 |
 | Archivist | 34.00% | ~249 |
 | Ghost Ship | 33.00% | ~242 |

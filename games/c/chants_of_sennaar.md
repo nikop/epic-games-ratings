@@ -8,8 +8,8 @@
 | That's the spirit | 13.00% | ~40 |
 | The great escape | 12.00% | ~37 |
 | The Preacher's fate | 11.00% | ~34 |
+| A new dawn | 11.00% | ~34 |
 | Scholar | 10.00% | ~30 |
-| A new dawn | 10.00% | ~30 |
 | True G3M4R | 9.00% | ~27 |
 | The darkness | 9.00% | ~27 |
 | Cable guy | 8.00% | ~24 |

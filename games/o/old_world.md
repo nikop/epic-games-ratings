@@ -65,12 +65,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Apadana | 0.90% | ~133 |
 | Necropolis | 0.90% | ~133 |
 | Learn to Play 2 | 0.90% | ~133 |
+| Win a Single Player Game | 0.90% | ~133 |
 | Artisans | 0.80% | ~118 |
 | Champions | 0.80% | ~118 |
 | Sages | 0.80% | ~118 |
 | Acropolis | 0.80% | ~118 |
 | Mythology | 0.80% | ~118 |
-| Win a Single Player Game | 0.80% | ~118 |
 | Hanging Gardens in Babylon | 0.70% | ~103 |
 | Beloved | 0.70% | ~103 |
 | Conqueror | 0.70% | ~103 |
@@ -150,6 +150,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greater Kmt Unified | 0.30% | ~44 |
 | Kush | 0.30% | ~44 |
 | Beja Archer | 0.30% | ~44 |
+| Bronze Victory (Carthage 1) | 0.20% | ~30 |
 | Ancient | 0.20% | ~30 |
 | Old | 0.20% | ~30 |
 | Glorious Difficulty | 0.20% | ~30 |
@@ -182,7 +183,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Before the Mongol Horde | 0.10% | ~15 |
 | Blade of the Monkey | 0.10% | ~15 |
 | Hagia Sophia in Byzantion | 0.10% | ~15 |
-| Bronze Victory (Carthage 1) | 0.10% | ~15 |
 | Epic Victory (Carthage 1) | 0.10% | ~15 |
 | Gold Victory (Carthage 1) | 0.10% | ~15 |
 | Silver Victory (Carthage 1) | 0.10% | ~15 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,778 (Ranked 135)  
+Progressed: 14,779 (Ranked 135)  
 Completed: 5 (0.03%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -530,7 +530,7 @@ Completed: 5 (0.03%) (Ranked 285)
 | 2023-10-15 | 14,732 | 5 |
 | 2023-10-16 | 14,747 | 5 |
 | 2023-10-17 | 14,775 | 5 |
-| 2023-10-18 | 14,778 | 5 |
+| 2023-10-18 | 14,779 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,845 (Ranked 210)  

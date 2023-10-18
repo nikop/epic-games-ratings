@@ -3,12 +3,12 @@
   "Name": "King of Retail",
   "ProductSlug": "king-of-retail-c3ad3e",
   "Ranking_Rating": 264,
-  "Ranking_Popularity": 537,
-  "Ranking_PopularitySum": 537,
+  "Ranking_Popularity": 538,
+  "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 674,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 390,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-09-14T11:00:00+00:00",
     "PcReleaseDate": "2022-09-14T15:00:00+00:00",
@@ -101,6 +101,6 @@
   "FirstSeenRating": "2022-11-20T11:58:32.3978616+00:00",
   "LastChanged": "2023-10-02T14:59:23.5530752+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:18.1984633+00:00",
-  "LastUpdate_Ratings": "2023-10-18T09:58:16.7965873+00:00",
-  "LastUpdate_Achievements": "2023-10-18T10:09:13.6860366+00:00"
+  "LastUpdate_Ratings": "2023-10-18T10:58:20.1031482+00:00",
+  "LastUpdate_Achievements": "2023-10-18T11:08:28.0925295+00:00"
 }

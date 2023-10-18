@@ -5,24 +5,24 @@ Rating: 4.67 (Ranked 264)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 95.00% | ~3,146 |
-| On the Top Step | 90.00% | ~2,981 |
-| Setting up for Success | 79.00% | ~2,616 |
-| Team Orders | 77.00% | ~2,550 |
+| Getting on the Step | 95.00% | ~3,147 |
+| On the Top Step | 90.00% | ~2,982 |
+| Setting up for Success | 79.00% | ~2,617 |
+| Team Orders | 77.00% | ~2,551 |
 | Engineer | 57.00% | ~1,888 |
-| Familiar Faces | 51.00% | ~1,689 |
-| Going the Extra Mile | 45.00% | ~1,490 |
-| Sharing the Love | 44.00% | ~1,457 |
+| Familiar Faces | 51.00% | ~1,690 |
+| Going the Extra Mile | 45.00% | ~1,491 |
+| Sharing the Love | 44.00% | ~1,458 |
 | Hitting a Season | 41.00% | ~1,358 |
-| Challenge Yourself | 36.00% | ~1,192 |
+| Challenge Yourself | 36.00% | ~1,193 |
 | A Dozen Pieces | 34.00% | ~1,126 |
 | Making History | 33.00% | ~1,093 |
-| Network Success | 27.00% | ~894 |
-| Writing a new Chapter | 27.00% | ~894 |
+| Network Success | 27.00% | ~895 |
+| Writing a new Chapter | 27.00% | ~895 |
 | Spring Cleaning | 25.00% | ~828 |
 | Reduce | 21.00% | ~696 |
 | Ups and Downs | 21.00% | ~696 |
-| Crucial Combo | 20.00% | ~662 |
+| Crucial Combo | 20.00% | ~663 |
 | Reuse | 18.00% | ~596 |
 | One for the Book | 18.00% | ~596 |
 | Proving Them Wrong | 17.00% | ~563 |
@@ -34,7 +34,7 @@ Rating: 4.67 (Ranked 264)
 | All in a Weekend's Work | 13.00% | ~431 |
 | Spinning Around | 13.00% | ~431 |
 | Recycle | 13.00% | ~431 |
-| Switcheroo | 12.00% | ~397 |
+| Switcheroo | 12.00% | ~398 |
 | Friendly Competition | 11.00% | ~364 |
 | Tinkerer | 11.00% | ~364 |
 | Undisputed Winner | 10.00% | ~331 |
@@ -55,7 +55,7 @@ Rating: 4.67 (Ranked 264)
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,312 (Ranked 187)  
+Progressed: 3,313 (Ranked 187)  
 Completed: 0 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 0 (0.00%) (Ranked 316)
 | 2023-10-15 | 3,279 | 0 |
 | 2023-10-16 | 3,296 | 0 |
 | 2023-10-17 | 3,311 | 0 |
-| 2023-10-18 | 3,312 | 0 |
+| 2023-10-18 | 3,313 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

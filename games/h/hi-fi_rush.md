@@ -8,7 +8,7 @@ Rating: 4.85 (Ranked 42)
 | Start with a bang! | 15.00% | ~622 |
 | Feeling the beat! | 15.00% | ~622 |
 | You can pet the cat! | 14.00% | ~581 |
-| Who put gears in there? | 13.00% | ~539 |
+| Who put gears in there? | 13.00% | ~540 |
 | Cream of the Crop | 12.00% | ~498 |
 | Thanks for the free chip, Peppermint! | 12.00% | ~498 |
 | You got this, Peppermint? | 12.00% | ~498 |
@@ -16,10 +16,10 @@ Rating: 4.85 (Ranked 42)
 | Alright, that felt AWESOME! | 11.00% | ~456 |
 | This will cost you big time | 10.00% | ~415 |
 | Uh, they were broken when I got here | 10.00% | ~415 |
-| I play my own way! | 9.00% | ~373 |
-| Whoa! There's ANOTHER health bar!? | 9.00% | ~373 |
-| Z-shielding's got nothing on us! | 9.00% | ~373 |
-| Kissing the sky! | 9.00% | ~373 |
+| I play my own way! | 9.00% | ~374 |
+| Whoa! There's ANOTHER health bar!? | 9.00% | ~374 |
+| Z-shielding's got nothing on us! | 9.00% | ~374 |
+| Kissing the sky! | 9.00% | ~374 |
 | The Negotiator | 8.00% | ~332 |
 | Headliner | 8.00% | ~332 |
 | Out in a puff of smoke | 8.00% | ~332 |
@@ -31,8 +31,8 @@ Rating: 4.85 (Ranked 42)
 | Does that say weakpoint? | 7.00% | ~290 |
 | NOW we got a kickass hideout! | 7.00% | ~187 |
 | I have to read these things? | 6.00% | ~249 |
-| Well that was a rush! | 5.00% | ~207 |
-| That's a lot of junk metal… | 5.00% | ~207 |
+| Well that was a rush! | 5.00% | ~208 |
+| That's a lot of junk metal… | 5.00% | ~208 |
 | Beat-hit mania | 4.00% | ~166 |
 | There's such a thing as TOO helpful | 4.00% | ~166 |
 | Chip-tuned | 3.00% | ~124 |
@@ -43,11 +43,11 @@ Rating: 4.85 (Ranked 42)
 | I told you I'd be fine, Peppermint! | 2.00% | ~83 |
 | Check out my moves! | 2.00% | ~83 |
 | Call me Turbo Chai | 2.00% | ~53 |
-| I think I deserve some praise, here! | 1.00% | ~41 |
-| This is a breeze! | 1.00% | ~41 |
-| I'm not done with you yet | 1.00% | ~41 |
-| First we parry, then we counter | 1.00% | ~41 |
-| You ever parry a volcano? | 1.00% | ~41 |
+| I think I deserve some praise, here! | 1.00% | ~42 |
+| This is a breeze! | 1.00% | ~42 |
+| I'm not done with you yet | 1.00% | ~42 |
+| First we parry, then we counter | 1.00% | ~42 |
+| You ever parry a volcano? | 1.00% | ~42 |
 | New bad guys? No problem! | 0.90% | ~24 |
 | OK, well THEY came after ME! | 0.70% | ~29 |
 | Choose your own adventure | 0.60% | ~16 |
@@ -77,7 +77,7 @@ Rating: 4.85 (Ranked 42)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,149 (Ranked 178)  
+Progressed: 4,150 (Ranked 178)  
 Completed: 8 (0.19%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,6 +254,7 @@ Completed: 8 (0.19%) (Ranked 227)
 | 2023-10-15 | 4,146 | 8 |
 | 2023-10-16 | 4,147 | 8 |
 | 2023-10-17 | 4,149 | 8 |
+| 2023-10-18 | 4,150 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

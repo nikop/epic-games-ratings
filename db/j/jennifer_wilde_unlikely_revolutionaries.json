@@ -2,10 +2,10 @@
   "ID": "e58f8f670f3243f690ed3c89cba89c9e",
   "Name": "Jennifer Wilde Unlikely Revolutionaries",
   "ProductSlug": "jennifer-wilde-unlikely-revolutionaries-7eda5e",
-  "Ranking_EOS_Progress": 423,
+  "Ranking_EOS_Progress": 424,
   "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewPlayers": 340,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-06-09T11:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -417,8 +417,8 @@
   ],
   "FirstSeen": "2023-06-11T16:59:26.254378+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:12.1227021+00:00",
-  "LastChanged_Achievements": "2023-10-18T10:03:38.744344+00:00",
+  "LastChanged_Achievements": "2023-10-18T11:03:28.8935044+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:25.4500808+00:00",
-  "LastUpdate_Ratings": "2023-10-18T09:59:20.1621703+00:00",
-  "LastUpdate_Achievements": "2023-10-18T10:03:38.7443539+00:00"
+  "LastUpdate_Ratings": "2023-10-18T10:59:07.9617516+00:00",
+  "LastUpdate_Achievements": "2023-10-18T11:03:28.8935163+00:00"
 }

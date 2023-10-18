@@ -4,7 +4,7 @@
   "Ranking_EOS_Progress": 533,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 390,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -98,9 +98,9 @@
       "ID": "CallSix",
       "SetID": "aph8hbk",
       "Name": "Twenty-Six",
-      "Percentage": 44,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "CompleteHospital",
@@ -258,9 +258,9 @@
       "ID": "KidsWilderness",
       "SetID": "aph8hbk",
       "Name": "Wild Kids",
-      "Percentage": 44,
+      "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "MailMan",
@@ -360,8 +360,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-31T13:15:39.9572089+00:00",
-  "LastChanged_Achievements": "2023-10-18T10:07:54.7696758+00:00",
+  "LastChanged_Achievements": "2023-10-18T11:07:03.0244514+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:13.194983+00:00",
-  "LastUpdate_Ratings": "2023-10-18T10:02:08.5512816+00:00",
-  "LastUpdate_Achievements": "2023-10-18T10:07:54.7696965+00:00"
+  "LastUpdate_Ratings": "2023-10-18T11:01:09.826044+00:00",
+  "LastUpdate_Achievements": "2023-10-18T11:07:03.0244797+00:00"
 }

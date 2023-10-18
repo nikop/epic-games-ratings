@@ -3,12 +3,12 @@
   "Name": "High On Life",
   "ProductSlug": "high-on-life-3a855b",
   "Ranking_Rating": 324,
-  "Ranking_Popularity": 537,
-  "Ranking_PopularitySum": 537,
+  "Ranking_Popularity": 538,
+  "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -286,9 +286,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24248,
+  "EOS_Progressed": 24249,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5686,6 +5686,11 @@
       "Time": "2023-10-18T04:07:07.3490647+00:00",
       "NumProgressed": 24248,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-10-18T11:06:31.1950795+00:00",
+      "NumProgressed": 24249,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 44,
@@ -6048,13 +6053,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24248,
+      "Progressed": 24249,
       "Completed": 13
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1541,
+      "Progressed": 1542,
       "Completed": 1373
     }
   ],
@@ -6062,8 +6067,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-07T05:03:09.4311759+00:00",
-  "LastChanged_Achievements": "2023-10-18T10:07:14.2692718+00:00",
+  "LastChanged_Achievements": "2023-10-18T11:06:31.1950789+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:39.0375133+00:00",
-  "LastUpdate_Ratings": "2023-10-18T09:57:27.1040238+00:00",
-  "LastUpdate_Achievements": "2023-10-18T10:07:14.2693494+00:00"
+  "LastUpdate_Ratings": "2023-10-18T10:57:41.2439841+00:00",
+  "LastUpdate_Achievements": "2023-10-18T11:06:31.1951509+00:00"
 }
