@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11765,
+  "EOS_Progressed": 11767,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2558,
+  "EOS_NewPlayers": 2555,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3306,6 +3306,11 @@
       "Time": "2023-10-18T08:09:18.4427744+00:00",
       "NumProgressed": 11765,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-18T09:09:18.5059323+00:00",
+      "NumProgressed": 11767,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -3526,7 +3531,7 @@
       "Name": "Mission Accomplished",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 2235
+      "UsersEstimate": 2236
     },
     {
       "ID": "achievement_34",
@@ -3542,7 +3547,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 11177
+      "UsersEstimate": 11179
     },
     {
       "ID": "achievement_36",
@@ -3558,7 +3563,7 @@
       "Name": "Asset Secured",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1529
+      "UsersEstimate": 1530
     },
     {
       "ID": "achievement_38",
@@ -3693,7 +3698,7 @@
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 11765,
+      "Progressed": 11767,
       "Completed": 1
     }
   ],
@@ -3701,8 +3706,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2023-10-18T08:09:18.4427734+00:00",
+  "LastChanged_Achievements": "2023-10-18T09:09:18.5059318+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:10.1416155+00:00",
-  "LastUpdate_Ratings": "2023-10-18T07:59:06.9758785+00:00",
-  "LastUpdate_Achievements": "2023-10-18T08:09:18.4428378+00:00"
+  "LastUpdate_Ratings": "2023-10-18T08:59:48.6185723+00:00",
+  "LastUpdate_Achievements": "2023-10-18T09:09:18.5059929+00:00"
 }

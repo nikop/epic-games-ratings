@@ -531,9 +531,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 15815,
+  "EOS_Progressed": 15816,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
@@ -12251,6 +12251,11 @@
       "Time": "2023-10-18T05:04:57.4339636+00:00",
       "NumProgressed": 15815,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-10-18T09:05:20.104928+00:00",
+      "NumProgressed": 15816,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 41,
@@ -12278,7 +12283,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3637
+      "UsersEstimate": 3638
     },
     {
       "ID": "tpote_achievement_12",
@@ -12366,7 +12371,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4744
+      "UsersEstimate": 4745
     },
     {
       "ID": "tpote_achievement_22",
@@ -12574,7 +12579,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3479
+      "UsersEstimate": 3480
     },
     {
       "ID": "tpote_achievement_9",
@@ -12582,22 +12587,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 5535
+      "UsersEstimate": 5536
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15815,
+      "Progressed": 15816,
       "Completed": 113
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-10-14T16:59:08.0001807+00:00",
-  "LastChanged_Achievements": "2023-10-18T08:04:53.4045785+00:00",
+  "LastChanged_Achievements": "2023-10-18T09:05:20.1049274+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:18.9172053+00:00",
-  "LastUpdate_Ratings": "2023-10-18T08:00:04.8401408+00:00",
-  "LastUpdate_Achievements": "2023-10-18T08:04:53.4046843+00:00"
+  "LastUpdate_Ratings": "2023-10-18T09:00:57.9493707+00:00",
+  "LastUpdate_Achievements": "2023-10-18T09:05:20.105017+00:00"
 }

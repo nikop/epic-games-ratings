@@ -1018,9 +1018,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 8491,
+  "EOS_Progressed": 8501,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 988,
+  "EOS_NewPlayers": 995,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -6803,6 +6803,11 @@
       "Time": "2023-10-18T08:06:21.751187+00:00",
       "NumProgressed": 8491,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-18T09:07:07.9813435+00:00",
+      "NumProgressed": 8501,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -6815,7 +6820,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "a_10",
@@ -6863,7 +6868,7 @@
       "Name": "Bye Bye",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 3311
+      "UsersEstimate": 3315
     },
     {
       "ID": "a_19",
@@ -6871,7 +6876,7 @@
       "Name": "Bonjour!",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "a_2",
@@ -6887,7 +6892,7 @@
       "Name": "The Assistant",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "a_21",
@@ -6895,7 +6900,7 @@
       "Name": "The Blue Marl",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "a_22",
@@ -6911,7 +6916,7 @@
       "Name": "Quack",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "a_25",
@@ -6959,7 +6964,7 @@
       "Name": "King of red wines",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "a_31",
@@ -6991,7 +6996,7 @@
       "Name": "Master Winemaker",
       "Percentage": 0.1,
       "XP": 75,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "a_35",
@@ -7023,7 +7028,7 @@
       "Name": "Treasure of Roero",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "a_6",
@@ -7039,7 +7044,7 @@
       "Name": "Knight of Langhe",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "a_8",
@@ -7062,7 +7067,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 8491,
+      "Progressed": 8501,
       "Completed": 8
     }
   ],
@@ -7070,8 +7075,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-10-10T16:59:22.7446864+00:00",
-  "LastChanged_Achievements": "2023-10-18T08:06:21.7511864+00:00",
+  "LastChanged_Achievements": "2023-10-18T09:07:07.9813428+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:27.1391374+00:00",
-  "LastUpdate_Ratings": "2023-10-18T07:57:42.1093625+00:00",
-  "LastUpdate_Achievements": "2023-10-18T08:06:21.751247+00:00"
+  "LastUpdate_Ratings": "2023-10-18T08:58:01.5455488+00:00",
+  "LastUpdate_Achievements": "2023-10-18T09:07:07.9814006+00:00"
 }

@@ -88,6 +88,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Riders | 0.60% | ~89 |
 | Circus Maximus | 0.60% | ~89 |
 | Pantheon | 0.60% | ~89 |
+| Via Recta Souk | 0.60% | ~89 |
 | Greece | 0.60% | ~89 |
 | Persian Paganism | 0.60% | ~89 |
 | Building Wonders | 0.60% | ~89 |
@@ -103,7 +104,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hagia Sophia | 0.50% | ~74 |
 | Church of the Holy Sepulchre | 0.50% | ~74 |
 | Temple of Solomon | 0.50% | ~74 |
-| Via Recta Souk | 0.50% | ~74 |
 | Learn to Play 4 | 0.50% | ~74 |
 | Economic Reform | 0.50% | ~74 |
 | Military Prestige | 0.50% | ~74 |

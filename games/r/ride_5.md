@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Love | 42.00% | ~640 |
-| Eat My Dust | 41.00% | ~625 |
+| First Love | 42.00% | ~641 |
+| Eat My Dust | 41.00% | ~626 |
 | Clean Race | 40.00% | ~610 |
 | Hear That Roar! | 38.00% | ~580 |
 | Rivals to the End | 28.00% | ~427 |
-| Bitter Rivalry | 25.00% | ~381 |
+| Bitter Rivalry | 25.00% | ~382 |
 | We're Going to Need a Bigger Garage | 24.00% | ~366 |
 | Champagne Spray | 22.00% | ~336 |
 | I Want One Too! | 19.00% | ~290 |
-| Restored and Ready | 18.00% | ~274 |
-| Legendary!!! | 18.00% | ~274 |
-| Quick Pit Stop | 18.00% | ~274 |
+| Restored and Ready | 18.00% | ~275 |
+| Legendary!!! | 18.00% | ~275 |
+| Quick Pit Stop | 18.00% | ~275 |
 | I'm Here Too! | 17.00% | ~259 |
 | Go-Faster Stripes | 16.00% | ~244 |
-| We've Just Begun | 10.00% | ~152 |
+| We've Just Begun | 10.00% | ~153 |
 | Stamina Star | 8.00% | ~122 |
 | Is It the Right Size? | 8.00% | ~122 |
 | Evangelist | 6.00% | ~92 |
@@ -28,13 +28,13 @@
 | Cherry Blossom and Temples | 3.00% | ~46 |
 | La Dolce Vita | 3.00% | ~46 |
 | Romantic Races | 3.00% | ~46 |
-| Iconic! | 2.00% | ~30 |
-| Spoilt for Choice | 2.00% | ~30 |
-| Back in Blighty | 2.00% | ~30 |
-| Still Here | 2.00% | ~30 |
-| Rounding Off | 2.00% | ~30 |
-| My Work Here Is Done | 2.00% | ~30 |
-| Overtaking the Master | 2.00% | ~30 |
+| Iconic! | 2.00% | ~31 |
+| Spoilt for Choice | 2.00% | ~31 |
+| Back in Blighty | 2.00% | ~31 |
+| Still Here | 2.00% | ~31 |
+| Rounding Off | 2.00% | ~31 |
+| My Work Here Is Done | 2.00% | ~31 |
+| Overtaking the Master | 2.00% | ~31 |
 | I'll Be the Best! | 1.00% | ~15 |
 | Next Level | 1.00% | ~15 |
 | I Don't Stop | 1.00% | ~15 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,525 (Ranked 217)  
+Progressed: 1,526 (Ranked 217)  
 Completed: 0 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,4 +101,4 @@ Completed: 0 (0.00%) (Ranked 316)
 | 2023-10-15 | 1,497 | 0 |
 | 2023-10-16 | 1,506 | 0 |
 | 2023-10-17 | 1,518 | 0 |
-| 2023-10-18 | 1,525 | 0 |
+| 2023-10-18 | 1,526 | 0 |

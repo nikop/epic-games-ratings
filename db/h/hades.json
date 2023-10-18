@@ -4957,9 +4957,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 705526,
+  "EOS_Progressed": 705527,
   "EOS_Completed": 6417,
-  "EOS_NewPlayers": 402,
+  "EOS_NewPlayers": 401,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
@@ -24237,6 +24237,11 @@
       "Time": "2023-10-18T07:04:53.7084332+00:00",
       "NumProgressed": 705526,
       "NumCompleted": 6417
+    },
+    {
+      "Time": "2023-10-18T09:04:48.1866681+00:00",
+      "NumProgressed": 705527,
+      "NumCompleted": 6417
     }
   ],
   "TotalAchievements": 49,
@@ -24272,7 +24277,7 @@
       "Name": "The Useless Trinket",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 91718
+      "UsersEstimate": 91719
     },
     {
       "ID": "AchBuffedButterfly",
@@ -24296,7 +24301,7 @@
       "Name": "Three-Headed Boy",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 225768
+      "UsersEstimate": 225769
     },
     {
       "ID": "AchClearAnyRun",
@@ -24312,7 +24317,7 @@
       "Name": "Escaped Asphodel",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 564421
+      "UsersEstimate": 564422
     },
     {
       "ID": "AchClearElysium",
@@ -24320,7 +24325,7 @@
       "Name": "Escaped Elysium",
       "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 465647
+      "UsersEstimate": 465648
     },
     {
       "ID": "AchClearElysiumEM",
@@ -24328,7 +24333,7 @@
       "Name": "Champion of Elysium",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 91718
+      "UsersEstimate": 91719
     },
     {
       "ID": "AchClearHeatGate",
@@ -24344,7 +24349,7 @@
       "Name": "Weapon of Fate",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 148160
+      "UsersEstimate": 148161
     },
     {
       "ID": "AchClearTartarus",
@@ -24352,7 +24357,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 627918
+      "UsersEstimate": 627919
     },
     {
       "ID": "AchCrushedThanatos",
@@ -24376,7 +24381,7 @@
       "Name": "River Denizens",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 197547
+      "UsersEstimate": 197548
     },
     {
       "ID": "AchForgedBond",
@@ -24384,7 +24389,7 @@
       "Name": "Grown Close",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 197547
+      "UsersEstimate": 197548
     },
     {
       "ID": "AchFoundAllSummons",
@@ -24472,7 +24477,7 @@
       "Name": "Chthonic Colleagues",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 444481
+      "UsersEstimate": 444482
     },
     {
       "ID": "AchMirrorAllUnlocked",
@@ -24512,7 +24517,7 @@
       "Name": "Well Versed",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 119939
+      "UsersEstimate": 119940
     },
     {
       "ID": "AchOrpheusSingsAgain",
@@ -24520,7 +24525,7 @@
       "Name": "Urge to Sing",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 253989
+      "UsersEstimate": 253990
     },
     {
       "ID": "AchPactUpgradesClears",
@@ -24608,7 +24613,7 @@
       "Name": "Arms Collector",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 500923
+      "UsersEstimate": 500924
     },
     {
       "ID": "AchWeaponClears",
@@ -24624,7 +24629,7 @@
       "Name": "Well Stocked",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 282210
+      "UsersEstimate": 282211
     },
     {
       "ID": "ActUnlockedAllAspects",
@@ -24639,15 +24644,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 705526,
+      "Progressed": 705527,
       "Completed": 6417
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
   "LastChanged": "2023-10-18T03:58:56.0058649+00:00",
-  "LastChanged_Achievements": "2023-10-18T08:04:26.878345+00:00",
+  "LastChanged_Achievements": "2023-10-18T09:04:48.1866674+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:22.8375164+00:00",
-  "LastUpdate_Ratings": "2023-10-18T07:58:46.2443737+00:00",
-  "LastUpdate_Achievements": "2023-10-18T08:04:26.8785051+00:00"
+  "LastUpdate_Ratings": "2023-10-18T08:59:24.5888483+00:00",
+  "LastUpdate_Achievements": "2023-10-18T09:04:48.186821+00:00"
 }

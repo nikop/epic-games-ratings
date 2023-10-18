@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -17,11 +17,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 304,
+  "EOS_Progressed": 305,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6.58,
+  "EOS_Completed_Percentage": 6.56,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1422,6 +1422,11 @@
       "Time": "2023-10-17T21:04:38.8884173+00:00",
       "NumProgressed": 304,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-10-18T09:05:37.772769+00:00",
+      "NumProgressed": 305,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 25,
@@ -1551,9 +1556,9 @@
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 34
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -1599,9 +1604,9 @@
       "ID": "PROGRESS_N2",
       "SetID": "2gma9an",
       "Name": "The great escape",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 37
     },
     {
       "ID": "PROGRESS_N3",
@@ -1632,14 +1637,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 304,
+      "Progressed": 305,
       "Completed": 20
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-18T08:05:07.6553533+00:00",
+  "LastChanged_Achievements": "2023-10-18T09:05:37.7727684+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:19.4856723+00:00",
-  "LastUpdate_Ratings": "2023-10-18T07:58:41.8265961+00:00",
-  "LastUpdate_Achievements": "2023-10-18T08:05:07.6553854+00:00"
+  "LastUpdate_Ratings": "2023-10-18T08:59:17.9427633+00:00",
+  "LastUpdate_Achievements": "2023-10-18T09:05:37.7727962+00:00"
 }

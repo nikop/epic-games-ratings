@@ -5,21 +5,21 @@ Rating: 4.48 (Ranked 609)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~2,820 |
+| This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~2,821 |
 | Keep 'Em Coming | 74.00% | ~2,577 |
 | Snatched Out | 74.00% | ~2,577 |
-| Cleaning Lethe, One Nest At A Time | 67.00% | ~2,333 |
+| Cleaning Lethe, One Nest At A Time | 67.00% | ~2,334 |
 | Call Me Snake | 63.00% | ~2,194 |
-| Something Lurks Under The Hills | 61.00% | ~2,124 |
-| This Was No Papercut | 60.00% | ~2,089 |
+| Something Lurks Under The Hills | 61.00% | ~2,125 |
+| This Was No Papercut | 60.00% | ~2,090 |
 | People Person | 57.00% | ~1,985 |
 | The Shrink Hates Me | 57.00% | ~1,985 |
-| Use The Bumper, That's What It's For | 53.00% | ~1,845 |
-| First Steps Into Madness | 53.00% | ~1,845 |
+| Use The Bumper, That's What It's For | 53.00% | ~1,846 |
+| First Steps Into Madness | 53.00% | ~1,846 |
 | Colonial Barrels | 51.00% | ~1,776 |
 | Harper's Hell | 46.00% | ~1,602 |
-| Making a Stand | 44.00% | ~1,532 |
-| Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,462 |
+| Making a Stand | 44.00% | ~1,533 |
+| Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,463 |
 | Where It All Begun | 41.00% | ~1,428 |
 | Recouped Investment | 39.00% | ~1,358 |
 | The More The Merrier | 35.00% | ~1,219 |
@@ -29,17 +29,17 @@ Rating: 4.48 (Ranked 609)
 | Deep Into Insanity | 29.00% | ~1,010 |
 | The Passenger | 29.00% | ~1,010 |
 | Come on, You Wanna Live Forever? | 27.00% | ~940 |
-| The Spire | 26.00% | ~905 |
-| El Riesgo Siempre Vive | 25.00% | ~870 |
+| The Spire | 26.00% | ~906 |
+| El Riesgo Siempre Vive | 25.00% | ~871 |
 | Stuff Of Nightmares | 23.00% | ~801 |
 | Excavating The Truth | 22.00% | ~766 |
 | One For Every Occasion | 21.00% | ~731 |
 | Frontliner | 21.00% | ~731 |
 | Abysmal Horrors | 21.00% | ~731 |
-| The Cable Guy | 20.00% | ~696 |
+| The Cable Guy | 20.00% | ~697 |
 | Bandage Lover | 19.00% | ~662 |
 | Regicide | 16.00% | ~557 |
-| This Went Smoothly | 14.00% | ~487 |
+| This Went Smoothly | 14.00% | ~488 |
 | Flawless Victory | 13.00% | ~453 |
 | Heavy Steps | 13.00% | ~453 |
 | Perfect Enhancements | 10.00% | ~348 |
@@ -51,7 +51,7 @@ Rating: 4.48 (Ranked 609)
 | This Ain't No Picnic | 0.70% | ~24 |
 | Chalk It Up To Experience | 0.70% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,482 (Ranked 186)  
+Progressed: 3,483 (Ranked 186)  
 Completed: 3 (0.09%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,6 +171,7 @@ Completed: 3 (0.09%) (Ranked 255)
 | 2023-10-15 | 3,480 | 3 |
 | 2023-10-16 | 3,481 | 3 |
 | 2023-10-17 | 3,482 | 3 |
+| 2023-10-18 | 3,483 | 3 |
 ## Awards
 Max (Great Boss Battles): 32  (Ranked 471)  
 Sum: 32 (Ranked 493)  

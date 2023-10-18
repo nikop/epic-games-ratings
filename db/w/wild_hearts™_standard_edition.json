@@ -4,7 +4,7 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 360,
   "Ranking_EOS_Completed": 83,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 150,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.33,
   "EosHistory": [
@@ -729,9 +729,9 @@
       "ID": "achievement_12",
       "SetID": "2cpn27e",
       "Name": "Canyon of Karakuri",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 38
     },
     {
       "ID": "achievement_13",
@@ -1095,8 +1095,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-10-18T08:03:28.9512149+00:00",
+  "LastChanged_Achievements": "2023-10-18T09:03:18.2268085+00:00",
   "LastUpdate_AppInfo": "2023-10-14T13:56:56.586235+00:00",
-  "LastUpdate_Ratings": "2023-10-18T08:03:04.0748195+00:00",
-  "LastUpdate_Achievements": "2023-10-18T08:03:28.9512714+00:00"
+  "LastUpdate_Ratings": "2023-10-18T09:01:45.077911+00:00",
+  "LastUpdate_Achievements": "2023-10-18T09:03:18.2268612+00:00"
 }

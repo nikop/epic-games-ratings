@@ -38,9 +38,9 @@
 | Karakuri Minato | 29.00% | ~44 |
 | Unrivaled in Arms | 27.00% | ~40 |
 | Jack of All Trades | 26.00% | ~39 |
+| Canyon of Karakuri | 25.00% | ~38 |
 | Style Seeker | 25.00% | ~38 |
 | Threaded Harmony | 25.00% | ~38 |
-| Canyon of Karakuri | 24.00% | ~36 |
 | Quintessence of Form | 23.00% | ~34 |
 | Karakuri Fortress | 22.00% | ~33 |
 | Tender Touch | 22.00% | ~33 |
