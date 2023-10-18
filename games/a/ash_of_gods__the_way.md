@@ -5,14 +5,15 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First success | 150.00% | ~6 |
+| First blood | 75.00% | ~3 |
 | Suicide squad | 50.00% | ~2 |
-| First blood | 50.00% | ~2 |
+| Train hard, fight easy | 50.00% | ~2 |
+| Royal blessing | 50.00% | ~2 |
+| Under cover | 50.00% | ~2 |
+| Surpass the teacher | 25.00% | ~1 |
 | By own strength | 25.00% | ~1 |
 | A solo player | 25.00% | ~1 |
 | Do it yourself | 25.00% | ~1 |
-| Train hard, fight easy | 25.00% | ~1 |
-| Royal blessing | 25.00% | ~1 |
-| Under cover | 25.00% | ~1 |
 | A hidden snake | 25.00% | ~1 |
 | Blood and sand | 25.00% | ~1 |
 | Crimson rivers | 0.00% | ~0 |
@@ -28,7 +29,6 @@
 | The champion of the arena | 0.00% | ~0 |
 | Stronger than Gellian steel | 0.00% | ~0 |
 | First among Frisians | 0.00% | ~0 |
-| Surpass the teacher | 0.00% | ~0 |
 | Vene, vidi, vici | 0.00% | ~0 |
 | Defeat the bear | 0.00% | ~0 |
 | All for one! | 0.00% | ~0 |

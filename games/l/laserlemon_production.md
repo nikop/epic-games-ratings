@@ -10,6 +10,7 @@
 | Ashes in The Maw | 17.00% | ~2 |
 | Ashes to Ashes | 17.00% | ~2 |
 | Elusive | 17.00% | ~2 |
+| End in Sight | 17.00% | ~2 |
 | Fun and Games Ahead | 17.00% | ~2 |
 | Six's Song | 17.00% | ~2 |
 | Highly Sprung | 17.00% | ~2 |
@@ -22,7 +23,6 @@
 | The Guest Area | 17.00% | ~2 |
 | The Lady's Quarters | 17.00% | ~2 |
 | We'll Meet Again | 17.00% | ~2 |
-| End in Sight | 8.00% | ~1 |
 | Little Lost Things | 8.00% | ~1 |
 | Hard to the Core | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

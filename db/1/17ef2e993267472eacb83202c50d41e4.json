@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7247,
+  "EOS_Progressed": 7250,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 183,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4373,6 +4373,11 @@
       "Time": "2023-10-18T04:09:40.0772177+00:00",
       "NumProgressed": 7247,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-18T07:10:20.4052633+00:00",
+      "NumProgressed": 7250,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -4457,7 +4462,7 @@
       "Name": "Upgraded Enhanced Armor to Level 3",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "EAUpgraded1",
@@ -4497,7 +4502,7 @@
       "Name": "Purchased Grenade",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "GamesPlayed1",
@@ -4505,7 +4510,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2247
+      "UsersEstimate": 2248
     },
     {
       "ID": "GamesPlayed10",
@@ -4529,7 +4534,7 @@
       "Name": "Won a Match",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1377
+      "UsersEstimate": 1378
     },
     {
       "ID": "GamesWon10",
@@ -4561,7 +4566,7 @@
       "Name": "Upgraded the Grenade Launcher to Level 3",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "HAPurchased1",
@@ -4577,7 +4582,7 @@
       "Name": "Purchased Heal and Shield",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "HAUpgraded1",
@@ -4665,7 +4670,7 @@
       "Name": "Destroyed 30 Inhibitors",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "LMGUpgraded1",
@@ -4673,7 +4678,7 @@
       "Name": "Upgraded the LMG to Level 3",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "LaserUpgraded1",
@@ -4697,7 +4702,7 @@
       "Name": "Spent 25000 Credits in a single match",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "MaxDamageDone30000",
@@ -4745,7 +4750,7 @@
       "Name": "Eliminated 10 Players in a single match",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "MaxTowersKilled3",
@@ -4769,7 +4774,7 @@
       "Name": "200 Minion Eliminations",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "MinionKills2000",
@@ -4809,7 +4814,7 @@
       "Name": "Destroyed the Nexus",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "PlayerKills10",
@@ -4841,7 +4846,7 @@
       "Name": "Upgraded the Pulse Rifle to Level 3",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "QAUpgraded1",
@@ -4857,7 +4862,7 @@
       "Name": "Upgraded Quantum Trigger to Level 3",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "RAPurchased1",
@@ -4881,7 +4886,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1087
+      "UsersEstimate": 1088
     },
     {
       "ID": "SEUpgraded1",
@@ -4897,7 +4902,7 @@
       "Name": "Upgraded the SMG to Level 3",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "SOVUpgraded1",
@@ -4937,7 +4942,7 @@
       "Name": "Purchased Toxic Grenade",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "TPurchased1",
@@ -4961,7 +4966,7 @@
       "Name": "Destroyed 11 Towers",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "WCUpgraded1",
@@ -4976,7 +4981,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 7247,
+      "Progressed": 7250,
       "Completed": 1
     }
   ],
@@ -4984,8 +4989,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-09-28T09:00:22.5097709+00:00",
-  "LastChanged_Achievements": "2023-10-18T06:09:34.8367953+00:00",
+  "LastChanged_Achievements": "2023-10-18T07:10:20.4052622+00:00",
   "LastUpdate_AppInfo": "2023-10-17T11:57:13.9193686+00:00",
-  "LastUpdate_Ratings": "2023-10-18T06:00:39.0609627+00:00",
-  "LastUpdate_Achievements": "2023-10-18T06:09:34.8369117+00:00"
+  "LastUpdate_Ratings": "2023-10-18T07:03:10.130496+00:00",
+  "LastUpdate_Achievements": "2023-10-18T07:10:20.4053752+00:00"
 }

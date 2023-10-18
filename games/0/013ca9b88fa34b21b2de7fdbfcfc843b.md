@@ -34,8 +34,8 @@ Rating: 4.66 (Ranked 282)
 | Chatty Neighbor | 4.00% | ~271 |
 | Right Tool For the Job | 3.00% | ~203 |
 | House Proud | 3.00% | ~203 |
+| Captain of Cozy | 2.00% | ~136 |
 | Angling Authority | 1.00% | ~68 |
-| Captain of Cozy | 1.00% | ~68 |
 | Cloverfield Island | 0.10% | ~7 |
 | Workaholic | 0.10% | ~7 |
 | Giving the People What They Want | 0.10% | ~7 |

@@ -536,9 +536,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 68413,
+  "EOS_Progressed": 68414,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 847,
+  "EOS_NewPlayers": 845,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -18431,6 +18431,11 @@
       "Time": "2023-10-18T06:09:26.2551969+00:00",
       "NumProgressed": 68413,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-10-18T07:10:09.9884063+00:00",
+      "NumProgressed": 68414,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 67,
@@ -18682,7 +18687,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 12998
+      "UsersEstimate": 12999
     },
     {
       "ID": "32",
@@ -18690,7 +18695,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 23260
+      "UsersEstimate": 23261
     },
     {
       "ID": "33",
@@ -18754,7 +18759,7 @@
       "Name": "Right of Way",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 7525
+      "UsersEstimate": 7526
     },
     {
       "ID": "41",
@@ -18762,7 +18767,7 @@
       "Name": "Finders Keepers",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 12998
+      "UsersEstimate": 12999
     },
     {
       "ID": "42",
@@ -18977,21 +18982,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 68413,
+      "Progressed": 68414,
       "Completed": 69
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 31881,
-      "Completed": 57
+      "Progressed": 31882,
+      "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-10-17T07:57:25.3609832+00:00",
-  "LastChanged_Achievements": "2023-10-18T06:09:26.2551965+00:00",
+  "LastChanged_Achievements": "2023-10-18T07:10:09.9884055+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:29.5404552+00:00",
-  "LastUpdate_Ratings": "2023-10-18T05:57:57.6562201+00:00",
-  "LastUpdate_Achievements": "2023-10-18T06:09:26.2553871+00:00"
+  "LastUpdate_Ratings": "2023-10-18T06:58:06.3589423+00:00",
+  "LastUpdate_Achievements": "2023-10-18T07:10:09.9887543+00:00"
 }

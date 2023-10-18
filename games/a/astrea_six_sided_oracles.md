@@ -38,11 +38,11 @@
 | Sadistic Plan | 9.00% | ~5 |
 | Stellar Haste | 9.00% | ~5 |
 | Apian Hero | 9.00% | ~5 |
+| Behenian Hero | 9.00% | ~5 |
 | Denying Destiny | 7.00% | ~4 |
 | The Chaos Artisan | 7.00% | ~4 |
 | The Dark Moon | 7.00% | ~4 |
 | The Distorted Sage | 7.00% | ~4 |
-| Behenian Hero | 7.00% | ~4 |
 | Artificer | 5.00% | ~3 |
 | Purification Avatar | 5.00% | ~3 |
 | The Abyssal Terror | 5.00% | ~3 |

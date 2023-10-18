@@ -3,7 +3,7 @@
   "Name": "Dead Space",
   "ProductSlug": "dead-space",
   "Ranking_Rating": 355,
-  "Ranking_Popularity": 341,
+  "Ranking_Popularity": 340,
   "Ranking_PopularitySum": 431,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 173,
@@ -648,18 +648,24 @@
       "Rating": 4.62,
       "NumberOfAwards": 104,
       "NumberOfAwardsMax": 104
+    },
+    {
+      "Time": "2023-10-18T07:01:03.0368637+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 105,
+      "NumberOfAwardsMax": 105
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 104,
-  "NumberOfAwardsMax": 104,
+  "NumberOfAwards": 105,
+  "NumberOfAwardsMax": 105,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 104
+      "Count": 105
     }
   ],
   "EOS_Progressed": 1085,
@@ -3641,9 +3647,9 @@
   "FirstSeen": "2023-01-27T17:57:20.5533157+00:00",
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
-  "LastChanged": "2023-10-15T07:59:51.3823595+00:00",
-  "LastChanged_Achievements": "2023-10-18T06:03:38.1710115+00:00",
+  "LastChanged": "2023-10-18T07:01:03.0368635+00:00",
+  "LastChanged_Achievements": "2023-10-18T07:04:01.0723116+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:22.2856721+00:00",
-  "LastUpdate_Ratings": "2023-10-18T06:00:10.6594272+00:00",
-  "LastUpdate_Achievements": "2023-10-18T06:03:38.1713284+00:00"
+  "LastUpdate_Ratings": "2023-10-18T07:01:03.0368641+00:00",
+  "LastUpdate_Achievements": "2023-10-18T07:04:01.0723716+00:00"
 }

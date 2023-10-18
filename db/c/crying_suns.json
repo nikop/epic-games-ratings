@@ -622,7 +622,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 469227,
+  "EOS_Progressed": 469228,
   "EOS_Completed": 19,
   "EOS_NewPlayers": 365,
   "EOS_NewCompleters": 1,
@@ -19512,6 +19512,11 @@
       "Time": "2023-10-18T06:09:23.4489995+00:00",
       "NumProgressed": 469227,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-10-18T07:10:06.6172941+00:00",
+      "NumProgressed": 469228,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 79,
@@ -19539,7 +19544,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 112614
+      "UsersEstimate": 112615
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -19699,7 +19704,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 93845
+      "UsersEstimate": 93846
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -19707,7 +19712,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 159537
+      "UsersEstimate": 159538
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -20154,21 +20159,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 13161,
+      "Progressed": 13162,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 469227,
+      "Progressed": 469228,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-10-10T01:42:39.6470224+00:00",
-  "LastChanged_Achievements": "2023-10-18T06:09:23.4489988+00:00",
+  "LastChanged_Achievements": "2023-10-18T07:10:06.6172932+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:23.4157652+00:00",
-  "LastUpdate_Ratings": "2023-10-18T05:58:45.7045079+00:00",
-  "LastUpdate_Achievements": "2023-10-18T06:09:23.4492385+00:00"
+  "LastUpdate_Ratings": "2023-10-18T06:59:08.2055636+00:00",
+  "LastUpdate_Achievements": "2023-10-18T07:10:06.6174939+00:00"
 }

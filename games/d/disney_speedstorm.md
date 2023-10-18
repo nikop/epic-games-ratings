@@ -5,13 +5,13 @@ Rating: 4.41 (Ranked 700)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 5.00% | ~11,671 |
-| IT MAKES BOOM! | 3.00% | ~7,002 |
-| EXTRA BOOST | 2.00% | ~4,668 |
-| PROTECTED | 2.00% | ~4,668 |
-| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,334 |
-| AGGRESSIVE RACER | 1.00% | ~2,334 |
-| PRO | 1.00% | ~2,334 |
+| ROOKIE | 5.00% | ~11,673 |
+| IT MAKES BOOM! | 3.00% | ~7,004 |
+| EXTRA BOOST | 2.00% | ~4,669 |
+| PROTECTED | 2.00% | ~4,669 |
+| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,335 |
+| AGGRESSIVE RACER | 1.00% | ~2,335 |
+| PRO | 1.00% | ~2,335 |
 | A TIGER'S FEAR | 0.90% | ~2,101 |
 | ACE SPEEDSTER | 0.50% | ~1,167 |
 | IT'S A LONG WAY TO THE TOP | 0.40% | ~934 |
@@ -30,7 +30,7 @@ Rating: 4.41 (Ranked 700)
 | ACE TRICKSTER | 0.20% | ~467 |
 | FRAMED! | 0.10% | ~233 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,412 (Ranked 58)  
+Progressed: 233,457 (Ranked 58)  
 Completed: 235 (0.10%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,10 +207,10 @@ Completed: 235 (0.10%) (Ranked 247)
 | 2023-10-15 | 226,884 | 233 |
 | 2023-10-16 | 229,960 | 234 |
 | 2023-10-17 | 232,528 | 235 |
-| 2023-10-18 | 233,412 | 235 |
+| 2023-10-18 | 233,457 | 235 |
 ## Awards
 Max (Diverse Characters): 29  (Ranked 478)  
-Sum: 118 (Ranked 421)  
+Sum: 119 (Ranked 421)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
@@ -218,7 +218,7 @@ Diff (max vs sum): 57
 | This game is Great for Quick Sessions | 25 |
 | This game is Great for Beginners | 22 |
 | This game has Amazing Characters | 22 |
-| This game has Amazing Storytelling | 20 |
+| This game has Amazing Storytelling | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -239,4 +239,4 @@ Diff (max vs sum): 57
 | 2023-10-15 | 4.40 | 25 | 25 |
 | 2023-10-16 | 4.41 | 28 | 69 |
 | 2023-10-17 | 4.41 | 28 | 113 |
-| 2023-10-18 | 4.42 | 29 | 118 |
+| 2023-10-18 | 4.42 | 29 | 119 |

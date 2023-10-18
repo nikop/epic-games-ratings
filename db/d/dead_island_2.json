@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 91,
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 29,
+  "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 5,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -5416,10 +5416,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 9708,
       "NumberOfAwardsMax": 6489
+    },
+    {
+      "Time": "2023-10-18T07:03:29.2369066+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 9710,
+      "NumberOfAwardsMax": 6489
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9708,
+  "NumberOfAwards": 9710,
   "NumberOfAwardsMax": 6489,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5475,12 +5481,12 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 384
+      "Count": 386
     }
   ],
-  "EOS_Progressed": 697325,
+  "EOS_Progressed": 697331,
   "EOS_Completed": 2239,
-  "EOS_NewPlayers": 3385,
+  "EOS_NewPlayers": 3389,
   "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -25983,6 +25989,11 @@
       "Time": "2023-10-18T06:05:32.1564827+00:00",
       "NumProgressed": 697325,
       "NumCompleted": 2239
+    },
+    {
+      "Time": "2023-10-18T07:06:24.8514754+00:00",
+      "NumProgressed": 697331,
+      "NumCompleted": 2239
     }
   ],
   "TotalAchievements": 45,
@@ -26002,7 +26013,7 @@
       "Name": "Making Your Mark",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13946
+      "UsersEstimate": 13947
     },
     {
       "ID": "ach_ammo_ran",
@@ -26018,7 +26029,7 @@
       "Name": "Anger Management",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13946
+      "UsersEstimate": 13947
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
@@ -26042,7 +26053,7 @@
       "Name": "Perks of the Job",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13946
+      "UsersEstimate": 13947
     },
     {
       "ID": "ach_bookworm",
@@ -26074,7 +26085,7 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13946
+      "UsersEstimate": 13947
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -26090,7 +26101,7 @@
       "Name": "Slayer Squad",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13946
+      "UsersEstimate": 13947
     },
     {
       "ID": "ach_explorer",
@@ -26202,7 +26213,7 @@
       "Name": "Zombologist",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13946
+      "UsersEstimate": 13947
     },
     {
       "ID": "ach_legendary",
@@ -26210,7 +26221,7 @@
       "Name": "Ooh, Shiny!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13946
+      "UsersEstimate": 13947
     },
     {
       "ID": "ach_magnum_opus",
@@ -26226,7 +26237,7 @@
       "Name": "A Patton Emerges",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13946
+      "UsersEstimate": 13947
     },
     {
       "ID": "ach_mind_over_monster",
@@ -26234,7 +26245,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13946
+      "UsersEstimate": 13947
     },
     {
       "ID": "ach_revival_tour",
@@ -26242,7 +26253,7 @@
       "Name": "I Am the Resurrection",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13946
+      "UsersEstimate": 13947
     },
     {
       "ID": "ach_salvation",
@@ -26250,7 +26261,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13946
+      "UsersEstimate": 13947
     },
     {
       "ID": "ach_secrets_of_la",
@@ -26306,7 +26317,7 @@
       "Name": "Our True Nature",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 13946
+      "UsersEstimate": 13947
     },
     {
       "ID": "ach_this_is_my_weapon",
@@ -26353,22 +26364,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 697325,
+      "Progressed": 697331,
       "Completed": 2239
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 22867,
-      "Completed": 22867
+      "Progressed": 22873,
+      "Completed": 22873
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-10-18T06:03:16.0824874+00:00",
-  "LastChanged_Achievements": "2023-10-18T06:05:32.1564822+00:00",
+  "LastChanged": "2023-10-18T07:03:29.2369064+00:00",
+  "LastChanged_Achievements": "2023-10-18T07:06:24.8514746+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:12.5060368+00:00",
-  "LastUpdate_Ratings": "2023-10-18T06:03:16.0824883+00:00",
-  "LastUpdate_Achievements": "2023-10-18T06:05:32.156613+00:00"
+  "LastUpdate_Ratings": "2023-10-18T07:03:29.2369074+00:00",
+  "LastUpdate_Achievements": "2023-10-18T07:06:24.8517282+00:00"
 }

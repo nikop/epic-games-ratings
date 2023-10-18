@@ -6,14 +6,14 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Handyman | 2.00% | ~18,931 |
-| Zealous | 2.00% | ~18,931 |
-| It wakes | 2.00% | ~18,931 |
-| Not half bad | 2.00% | ~18,931 |
-| Apt Survivor | 2.00% | ~18,931 |
-| Survival Treasures | 2.00% | ~18,931 |
-| Skillful | 2.00% | ~18,931 |
-| Make Some Noise | 2.00% | ~18,931 |
+| Handyman | 2.00% | ~18,932 |
+| Zealous | 2.00% | ~18,932 |
+| It wakes | 2.00% | ~18,932 |
+| Not half bad | 2.00% | ~18,932 |
+| Apt Survivor | 2.00% | ~18,932 |
+| Survival Treasures | 2.00% | ~18,932 |
+| Skillful | 2.00% | ~18,932 |
+| Make Some Noise | 2.00% | ~18,932 |
 | The Grand Sacrifice | 1.00% | ~9,466 |
 | Agonizing Escape | 1.00% | ~9,466 |
 | Backdoor Escape | 1.00% | ~9,466 |
@@ -44,22 +44,22 @@ Number of Ratings: 70,340  (23.09.2022)
 | First to the Punch | 0.70% | ~6,626 |
 | Every Last Drop | 0.70% | ~6,626 |
 | With Scars to Show | 0.70% | ~6,626 |
-| Blood on your hands | 0.60% | ~5,679 |
-| Made it out alive! | 0.60% | ~5,679 |
-| III-50 | 0.60% | ~5,679 |
-| Item of Obsession | 0.60% | ~5,679 |
-| Holiday Get-Together | 0.60% | ~5,679 |
-| Near-Death Experience | 0.60% | ~5,679 |
-| Cherish your Life | 0.60% | ~5,679 |
-| Unforgettable Getaway | 0.60% | ~5,679 |
-| Operation: Survival | 0.60% | ~5,679 |
-| Old West Oasis | 0.60% | ~5,679 |
-| Classy Act | 0.60% | ~5,679 |
-| Raccoon City Recruit | 0.60% | ~5,679 |
-| Flight to Freedom | 0.60% | ~5,679 |
-| A Fast Death | 0.60% | ~5,679 |
-| Chorus of Chaos | 0.60% | ~5,679 |
-| One More Step | 0.60% | ~5,679 |
+| Blood on your hands | 0.60% | ~5,680 |
+| Made it out alive! | 0.60% | ~5,680 |
+| III-50 | 0.60% | ~5,680 |
+| Item of Obsession | 0.60% | ~5,680 |
+| Holiday Get-Together | 0.60% | ~5,680 |
+| Near-Death Experience | 0.60% | ~5,680 |
+| Cherish your Life | 0.60% | ~5,680 |
+| Unforgettable Getaway | 0.60% | ~5,680 |
+| Operation: Survival | 0.60% | ~5,680 |
+| Old West Oasis | 0.60% | ~5,680 |
+| Classy Act | 0.60% | ~5,680 |
+| Raccoon City Recruit | 0.60% | ~5,680 |
+| Flight to Freedom | 0.60% | ~5,680 |
+| A Fast Death | 0.60% | ~5,680 |
+| Chorus of Chaos | 0.60% | ~5,680 |
+| One More Step | 0.60% | ~5,680 |
 | Gifts for the Fog | 0.50% | ~4,733 |
 | Shock Therapy | 0.50% | ~4,733 |
 | All Aboard | 0.50% | ~4,733 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~947 |
 | Adept Ripley | 0.10% | ~947 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 946,565 (Ranked 14)  
+Progressed: 946,592 (Ranked 14)  
 Completed: 51 (0.01%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -417,7 +417,7 @@ Completed: 51 (0.01%) (Ranked 297)
 | 2023-10-15 | 942,498 | 51 |
 | 2023-10-16 | 944,360 | 51 |
 | 2023-10-17 | 946,172 | 51 |
-| 2023-10-18 | 946,565 | 51 |
+| 2023-10-18 | 946,592 | 51 |
 ## Awards
 Max (Diverse Characters): 34,059  (Ranked 15)  
 Sum: 263,251 (Ranked 13)  

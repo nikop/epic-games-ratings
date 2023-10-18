@@ -30,7 +30,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Serving Ale | 3.00% | ~509 |
 | Against All Odds | 3.00% | ~509 |
 | Ruined Armory | 3.00% | ~509 |
-| Dangerous Lands | 3.00% | ~509 |
 | Forbidden Lands | 3.00% | ~509 |
 | Haunted Forest | 3.00% | ~509 |
 | Flooded Mines | 3.00% | ~509 |
@@ -41,6 +40,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Defying the Crown | 3.00% | ~509 |
 | Into the Forest | 3.00% | ~509 |
 | Refinery | 2.00% | ~339 |
+| Dangerous Lands | 2.00% | ~339 |
 | Fishmen Ritual Site | 2.00% | ~339 |
 | Victory through Prosperity | 2.00% | ~339 |
 | Feeding The People | 1.00% | ~170 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Higher Needs | 0.20% | ~34 |
 | Paradise | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,960 (Ranked 131)  
+Progressed: 16,961 (Ranked 131)  
 Completed: 52 (0.31%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 52 (0.31%) (Ranked 202)
 | 2023-10-15 | 16,935 | 52 |
 | 2023-10-16 | 16,948 | 52 |
 | 2023-10-17 | 16,958 | 52 |
-| 2023-10-18 | 16,960 | 52 |
+| 2023-10-18 | 16,961 | 52 |
 ## Awards
 Max (Quickly Understood Controls): 436  (Ranked 213)  
 Sum: 3,192 (Ranked 169)  

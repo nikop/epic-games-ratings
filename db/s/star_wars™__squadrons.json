@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11757,
+  "EOS_Progressed": 11760,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2558,
+  "EOS_NewPlayers": 2559,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3296,6 +3296,11 @@
       "Time": "2023-10-18T06:09:23.4993566+00:00",
       "NumProgressed": 11757,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-18T07:10:06.6442098+00:00",
+      "NumProgressed": 11760,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -3356,7 +3361,7 @@
       "Name": "Begin the Ceremony",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 2351
+      "UsersEstimate": 2352
     },
     {
       "ID": "achievement_16",
@@ -3412,7 +3417,7 @@
       "Name": "Sound Strategy",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "achievement_22",
@@ -3532,7 +3537,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 11169
+      "UsersEstimate": 11172
     },
     {
       "ID": "achievement_36",
@@ -3548,7 +3553,7 @@
       "Name": "Asset Secured",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1528
+      "UsersEstimate": 1529
     },
     {
       "ID": "achievement_38",
@@ -3683,7 +3688,7 @@
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 11757,
+      "Progressed": 11760,
       "Completed": 1
     }
   ],
@@ -3691,8 +3696,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2023-10-18T06:09:23.4993564+00:00",
+  "LastChanged_Achievements": "2023-10-18T07:10:06.644209+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:10.1416155+00:00",
-  "LastUpdate_Ratings": "2023-10-18T05:59:04.7159617+00:00",
-  "LastUpdate_Achievements": "2023-10-18T06:09:23.4994051+00:00"
+  "LastUpdate_Ratings": "2023-10-18T06:59:35.18715+00:00",
+  "LastUpdate_Achievements": "2023-10-18T07:10:06.644281+00:00"
 }

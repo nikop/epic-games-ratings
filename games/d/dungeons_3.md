@@ -6,17 +6,17 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 69.00% | ~23,634 |
-| The Evilest Evil | 58.00% | ~19,866 |
+| The Shadow strikes | 69.00% | ~23,635 |
+| The Evilest Evil | 58.00% | ~19,867 |
 | Twistram is devastated | 57.00% | ~19,524 |
-| The Gehenna Stones | 49.00% | ~16,783 |
+| The Gehenna Stones | 49.00% | ~16,784 |
 | No one has to die today! | 46.00% | ~15,756 |
-| Death and destruction! | 45.00% | ~15,413 |
-| The Swamplanders from the swamplands | 43.00% | ~14,728 |
-| Rusty Steel | 41.00% | ~14,043 |
+| Death and destruction! | 45.00% | ~15,414 |
+| The Swamplanders from the swamplands | 43.00% | ~14,729 |
+| Rusty Steel | 41.00% | ~14,044 |
 | The One-Huge-Army-Building Evil | 40.00% | ~13,701 |
-| The last burger | 37.00% | ~12,673 |
-| Braiiiiins! | 37.00% | ~12,673 |
+| The last burger | 37.00% | ~12,674 |
+| Braiiiiins! | 37.00% | ~12,674 |
 | Hands off the Dungeonheart! | 36.00% | ~12,331 |
 | A trip on sea, what fun it can be | 34.00% | ~11,646 |
 | Damned good | 33.00% | ~11,303 |
@@ -30,16 +30,16 @@ Number of Ratings: 1,635  (23.09.2022)
 | Destroy the thing | 26.00% | ~8,906 |
 | Tide Master | 26.00% | ~8,906 |
 | Difficult family relationships | 25.00% | ~8,563 |
-| MASS-O-BOT | 24.00% | ~8,220 |
-| Prepare the grave | 24.00% | ~8,220 |
-| Angel of Fire | 24.00% | ~8,220 |
+| MASS-O-BOT | 24.00% | ~8,221 |
+| Prepare the grave | 24.00% | ~8,221 |
+| Angel of Fire | 24.00% | ~8,221 |
 | Where there is Light, there is Shadow | 23.00% | ~7,878 |
-| At the foot of Mount Destiny | 22.00% | ~7,535 |
+| At the foot of Mount Destiny | 22.00% | ~7,536 |
 | The Force disturbed | 21.00% | ~7,193 |
-| The Victorious Evil | 20.00% | ~6,850 |
+| The Victorious Evil | 20.00% | ~6,851 |
 | Chorus of damnation | 19.00% | ~6,508 |
 | We don’t have time! | 19.00% | ~6,508 |
-| The Stones’ Power | 18.00% | ~6,165 |
+| The Stones’ Power | 18.00% | ~6,166 |
 | Flat as a pancake | 17.00% | ~5,823 |
 | Lifeguard | 17.00% | ~5,823 |
 | Can’t stand the sight of Dark Elf blood | 15.00% | ~5,138 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~685 |
 | Sacrifices! | 2.00% | ~685 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34,252 (Ranked 115)  
+Progressed: 34,253 (Ranked 115)  
 Completed: 275 (0.80%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,7 +248,7 @@ Completed: 275 (0.80%) (Ranked 155)
 | 2023-10-15 | 33,982 | 270 |
 | 2023-10-16 | 34,110 | 272 |
 | 2023-10-17 | 34,225 | 275 |
-| 2023-10-18 | 34,252 | 275 |
+| 2023-10-18 | 34,253 | 275 |
 ## Awards
 Max (Great for Beginners): 359  (Ranked 230)  
 Sum: 2,682 (Ranked 178)  

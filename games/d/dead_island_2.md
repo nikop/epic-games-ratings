@@ -21,18 +21,18 @@ Rating: 4.54 (Ranked 515)
 | Stacking the Deck | 3.00% | ~20,920 |
 | Personal Assistant Personally Assisted | 3.00% | ~20,920 |
 | This is My Weapon | 3.00% | ~20,920 |
-| Making Your Mark | 2.00% | ~13,946 |
-| Anger Management | 2.00% | ~13,946 |
-| Perks of the Job | 2.00% | ~13,946 |
-| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,946 |
-| Slayer Squad | 2.00% | ~13,946 |
-| Zombologist | 2.00% | ~13,946 |
-| Ooh, Shiny! | 2.00% | ~13,946 |
-| A Patton Emerges | 2.00% | ~13,946 |
-| Humanity Distilled | 2.00% | ~13,946 |
-| I Am the Resurrection | 2.00% | ~13,946 |
-| Down with the Sickness | 2.00% | ~13,946 |
-| Our True Nature | 2.00% | ~13,946 |
+| Making Your Mark | 2.00% | ~13,947 |
+| Anger Management | 2.00% | ~13,947 |
+| Perks of the Job | 2.00% | ~13,947 |
+| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,947 |
+| Slayer Squad | 2.00% | ~13,947 |
+| Zombologist | 2.00% | ~13,947 |
+| Ooh, Shiny! | 2.00% | ~13,947 |
+| A Patton Emerges | 2.00% | ~13,947 |
+| Humanity Distilled | 2.00% | ~13,947 |
+| I Am the Resurrection | 2.00% | ~13,947 |
+| Down with the Sickness | 2.00% | ~13,947 |
+| Our True Nature | 2.00% | ~13,947 |
 | Jumbo Keyring | 1.00% | ~6,973 |
 | Max Headroom | 1.00% | ~6,973 |
 | Go, Bobcats! | 1.00% | ~6,973 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 515)
 | Donk! | 0.20% | ~1,395 |
 | Bucket List | 0.10% | ~697 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 697,325 (Ranked 22)  
+Progressed: 697,331 (Ranked 22)  
 Completed: 2,239 (0.32%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,10 +232,10 @@ Completed: 2,239 (0.32%) (Ranked 200)
 | 2023-10-15 | 696,452 | 2,227 |
 | 2023-10-16 | 696,890 | 2,235 |
 | 2023-10-17 | 697,259 | 2,238 |
-| 2023-10-18 | 697,325 | 2,239 |
+| 2023-10-18 | 697,331 | 2,239 |
 ## Awards
 Max (Great Boss Battles): 6,489  (Ranked 56)  
-Sum: 9,708 (Ranked 91)  
+Sum: 9,710 (Ranked 91)  
 Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
@@ -244,7 +244,7 @@ Diff (max vs sum): -35
 | This game has Diverse Characters | 451 |
 | This game has Quickly Understood Controls | 425 |
 | This game is Relaxing | 409 |
-| This game has Amazing Storytelling | 384 |
+| This game has Amazing Storytelling | 386 |
 | This game is Highly Recommended | 367 |
 | This game is Extremely Fun | 366 |
 | This game has Amazing Characters | 355 |
@@ -431,4 +431,4 @@ Diff (max vs sum): -35
 | 2023-10-15 | 4.54 | 6,462 | 9,657 |
 | 2023-10-16 | 4.54 | 6,462 | 9,671 |
 | 2023-10-17 | 4.54 | 6,477 | 9,692 |
-| 2023-10-18 | 4.54 | 6,489 | 9,708 |
+| 2023-10-18 | 4.54 | 6,489 | 9,710 |

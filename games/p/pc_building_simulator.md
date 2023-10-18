@@ -6,14 +6,14 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,749,473 |
-| Easy to forget | 46.00% | ~1,642,363 |
-| Back in the black | 39.00% | ~1,392,438 |
-| That's what I'm talking about | 29.00% | ~1,035,403 |
-| The Best of Both Worlds | 25.00% | ~892,588 |
-| Get your wings | 20.00% | ~714,071 |
-| Double trouble | 16.00% | ~571,257 |
-| Smashing it | 11.00% | ~392,739 |
+| You need to plug it in... | 49.00% | ~1,749,477 |
+| Easy to forget | 46.00% | ~1,642,366 |
+| Back in the black | 39.00% | ~1,392,441 |
+| That's what I'm talking about | 29.00% | ~1,035,405 |
+| The Best of Both Worlds | 25.00% | ~892,590 |
+| Get your wings | 20.00% | ~714,072 |
+| Double trouble | 16.00% | ~571,258 |
+| Smashing it | 11.00% | ~392,740 |
 | But can it run Crysis? | 9.00% | ~321,332 |
 | My favourite feature... | 9.00% | ~321,332 |
 | From humble beginnings... | 7.00% | ~249,925 |
@@ -38,7 +38,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Majority Shareholder | 1.00% | ~35,704 |
 | Owner | 1.00% | ~35,704 |
 | Show off | 0.90% | ~32,133 |
-| Work ethic 101 | 0.70% | ~24,992 |
+| Work ethic 101 | 0.70% | ~24,993 |
 | Building momentum | 0.60% | ~21,422 |
 | Lead by example | 0.60% | ~21,422 |
 | Treat yourself - RAM | 0.50% | ~17,852 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,570 |
 | Treat yourself - GPU | 0.10% | ~3,570 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,570,354 (Ranked 5)  
+Progressed: 3,570,361 (Ranked 5)  
 Completed: 36 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,7 +240,7 @@ Completed: 36 (0.00%) (Ranked 315)
 | 2023-10-15 | 3,569,727 | 36 |
 | 2023-10-16 | 3,570,011 | 36 |
 | 2023-10-17 | 3,570,289 | 36 |
-| 2023-10-18 | 3,570,354 | 36 |
+| 2023-10-18 | 3,570,361 | 36 |
 ## Awards
 Max (Great for Beginners): 1,085  (Ranked 142)  
 Sum: 8,069 (Ranked 102)  

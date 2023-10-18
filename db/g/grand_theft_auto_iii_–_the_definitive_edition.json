@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -508,9 +508,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8301,
+  "EOS_Progressed": 8302,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
@@ -10078,6 +10078,11 @@
       "Time": "2023-10-17T18:04:09.8128284+00:00",
       "NumProgressed": 8301,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-10-18T07:04:26.5052683+00:00",
+      "NumProgressed": 8302,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 29,
@@ -10089,7 +10094,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6890
+      "UsersEstimate": 6891
     },
     {
       "ID": "ACH02",
@@ -10097,7 +10102,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 2822
+      "UsersEstimate": 2823
     },
     {
       "ID": "ACH03",
@@ -10113,7 +10118,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 3154
+      "UsersEstimate": 3155
     },
     {
       "ID": "ACH05",
@@ -10161,7 +10166,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2324
+      "UsersEstimate": 2325
     },
     {
       "ID": "ACH11",
@@ -10209,7 +10214,7 @@
       "Name": "A Marked Man",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 2075
+      "UsersEstimate": 2076
     },
     {
       "ID": "ACH17",
@@ -10320,7 +10325,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8301,
+      "Progressed": 8302,
       "Completed": 55
     }
   ],
@@ -10328,8 +10333,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-10-06T23:02:27.8926786+00:00",
-  "LastChanged_Achievements": "2023-10-18T06:03:58.2878974+00:00",
+  "LastChanged_Achievements": "2023-10-18T07:04:26.5052674+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:08.879613+00:00",
-  "LastUpdate_Ratings": "2023-10-18T05:59:42.9810587+00:00",
-  "LastUpdate_Achievements": "2023-10-18T06:03:58.2880371+00:00"
+  "LastUpdate_Ratings": "2023-10-18T07:00:26.1498836+00:00",
+  "LastUpdate_Achievements": "2023-10-18T07:04:26.5053938+00:00"
 }

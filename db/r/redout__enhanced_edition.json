@@ -334,7 +334,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 233852,
+  "EOS_Progressed": 233853,
   "EOS_Completed": 47,
   "EOS_NewPlayers": 426,
   "EOS_NewCompleters": 0,
@@ -19369,6 +19369,11 @@
       "Time": "2023-10-18T06:06:46.6922257+00:00",
       "NumProgressed": 233852,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-10-18T07:08:19.496871+00:00",
+      "NumProgressed": 233853,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 34,
@@ -19468,7 +19473,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 46770
+      "UsersEstimate": 46771
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -19604,7 +19609,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 51447
+      "UsersEstimate": 51448
     },
     {
       "ID": "TACTICIAN",
@@ -19628,7 +19633,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 51447
+      "UsersEstimate": 51448
     },
     {
       "ID": "TUNINGMANIAC",
@@ -19644,22 +19649,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 95879
+      "UsersEstimate": 95880
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 233852,
+      "Progressed": 233853,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-10-18T06:06:46.6922251+00:00",
+  "LastChanged_Achievements": "2023-10-18T07:08:19.49687+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:10.7010053+00:00",
-  "LastUpdate_Ratings": "2023-10-18T05:58:22.6167909+00:00",
-  "LastUpdate_Achievements": "2023-10-18T06:06:46.6924915+00:00"
+  "LastUpdate_Ratings": "2023-10-18T06:58:37.789268+00:00",
+  "LastUpdate_Achievements": "2023-10-18T07:08:19.4970598+00:00"
 }

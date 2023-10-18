@@ -6500,10 +6500,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27393,
       "NumberOfAwardsMax": 4790
+    },
+    {
+      "Time": "2023-10-18T06:58:46.5866911+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27395,
+      "NumberOfAwardsMax": 4790
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27393,
+  "NumberOfAwards": 27395,
   "NumberOfAwardsMax": 4790,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6541,7 +6547,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4024
+      "Count": 4026
     },
     {
       "Text": "This game has Playful Visuals",
@@ -6556,7 +6562,7 @@
       "Count": 3760
     }
   ],
-  "EOS_Progressed": 137768,
+  "EOS_Progressed": 137769,
   "EOS_Completed": 170,
   "EOS_NewPlayers": 340,
   "EOS_NewCompleters": 2,
@@ -25046,6 +25052,11 @@
       "Time": "2023-10-18T05:04:38.3628451+00:00",
       "NumProgressed": 137768,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-10-18T07:05:04.1726993+00:00",
+      "NumProgressed": 137769,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 112,
@@ -25952,15 +25963,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 137768,
+      "Progressed": 137769,
       "Completed": 170
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-10-17T18:58:03.4497989+00:00",
-  "LastChanged_Achievements": "2023-10-18T06:04:27.8815825+00:00",
+  "LastChanged": "2023-10-18T06:58:46.586691+00:00",
+  "LastChanged_Achievements": "2023-10-18T07:05:04.1726984+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:10.2617104+00:00",
-  "LastUpdate_Ratings": "2023-10-18T05:58:29.1939464+00:00",
-  "LastUpdate_Achievements": "2023-10-18T06:04:27.8819079+00:00"
+  "LastUpdate_Ratings": "2023-10-18T06:58:46.5866922+00:00",
+  "LastUpdate_Achievements": "2023-10-18T07:05:04.1730138+00:00"
 }

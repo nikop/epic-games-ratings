@@ -273,9 +273,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 203618,
+  "EOS_Progressed": 203620,
   "EOS_Completed": 518,
-  "EOS_NewPlayers": 383,
+  "EOS_NewPlayers": 384,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -19738,6 +19738,11 @@
       "Time": "2023-10-18T05:04:04.8034018+00:00",
       "NumProgressed": 203618,
       "NumCompleted": 518
+    },
+    {
+      "Time": "2023-10-18T07:04:22.6393476+00:00",
+      "NumProgressed": 203620,
+      "NumCompleted": 518
     }
   ],
   "TotalAchievements": 29,
@@ -19773,7 +19778,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 191401
+      "UsersEstimate": 191403
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -19949,7 +19954,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 16289
+      "UsersEstimate": 16290
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -19980,7 +19985,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 203618,
+      "Progressed": 203620,
       "Completed": 518
     }
   ],
@@ -19988,8 +19993,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-10-17T16:00:20.099734+00:00",
-  "LastChanged_Achievements": "2023-10-18T06:03:55.3511005+00:00",
+  "LastChanged_Achievements": "2023-10-18T07:04:22.6393465+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:18.0641163+00:00",
-  "LastUpdate_Ratings": "2023-10-18T05:59:26.8418933+00:00",
-  "LastUpdate_Achievements": "2023-10-18T06:03:55.3512575+00:00"
+  "LastUpdate_Ratings": "2023-10-18T07:00:05.8840888+00:00",
+  "LastUpdate_Achievements": "2023-10-18T07:04:22.6395199+00:00"
 }

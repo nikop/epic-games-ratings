@@ -6,6 +6,7 @@
 | ---- | ---------- | ----- |
 | Setting Sail | 67.00% | ~4 |
 | A Small Thirsty Thing | 17.00% | ~1 |
+| Sovereignty of Irons | 17.00% | ~1 |
 | Spirit Within | 17.00% | ~1 |
 | Rain Must Fall | 0.00% | ~0 |
 | No Salvation | 0.00% | ~0 |
@@ -41,7 +42,6 @@
 | Port of Call | 0.00% | ~0 |
 | The Guardian of Fire | 0.00% | ~0 |
 | Unbridled Flame | 0.00% | ~0 |
-| Sovereignty of Irons | 0.00% | ~0 |
 | En Garde | 0.00% | ~0 |
 | Rotted Throne | 0.00% | ~0 |
 | Before Court and Council | 0.00% | ~0 |

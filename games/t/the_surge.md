@@ -6,21 +6,21 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,446 |
-| I'll Be Back | 85.00% | ~4,020 |
-| Sorry, I Dropped This | 77.00% | ~3,642 |
-| First Day on the Job | 77.00% | ~3,642 |
+| On My Own Two Feet | 94.00% | ~4,447 |
+| I'll Be Back | 85.00% | ~4,021 |
+| Sorry, I Dropped This | 77.00% | ~3,643 |
+| First Day on the Job | 77.00% | ~3,643 |
 | Butcher's Bill | 55.00% | ~2,602 |
-| P.A.X | 38.00% | ~1,797 |
+| P.A.X | 38.00% | ~1,798 |
 | Hey Listen | 37.00% | ~1,750 |
 | OPERATOR | 36.00% | ~1,703 |
 | It's Blue Light | 33.00% | ~1,561 |
 | Most Wanted | 27.00% | ~1,277 |
 | Infidel | 24.00% | ~1,135 |
-| Firebug | 21.00% | ~993 |
-| GOLIATH | 21.00% | ~993 |
-| I Choose You | 18.00% | ~851 |
-| Nothing to Lose | 18.00% | ~851 |
+| Firebug | 21.00% | ~994 |
+| GOLIATH | 21.00% | ~994 |
+| I Choose You | 18.00% | ~852 |
+| Nothing to Lose | 18.00% | ~852 |
 | Big Sister | 16.00% | ~757 |
 | SENTINEL | 16.00% | ~757 |
 | Gear Up | 15.00% | ~710 |
@@ -44,10 +44,10 @@ Number of Ratings: 62  (23.09.2022)
 | Follow the White Rabbit | 7.00% | ~331 |
 | Risk Assessment | 7.00% | ~331 |
 | Carbon Cat | 6.00% | ~284 |
-| It Lives! It Sniffs! It Conquers! | 5.00% | ~236 |
-| Man of Steel | 5.00% | ~236 |
-| Jack of All Trades | 5.00% | ~236 |
-| 3-2-1 | 5.00% | ~236 |
+| It Lives! It Sniffs! It Conquers! | 5.00% | ~237 |
+| Man of Steel | 5.00% | ~237 |
+| Jack of All Trades | 5.00% | ~237 |
+| 3-2-1 | 5.00% | ~237 |
 | For the Good of Mankind | 4.00% | ~189 |
 | Rusty Rat | 4.00% | ~189 |
 | Desecration | 4.00% | ~189 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~28 |
 | The Surge | 0.40% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,730 (Ranked 175)  
+Progressed: 4,731 (Ranked 175)  
 Completed: 17 (0.36%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,6 +224,7 @@ Completed: 17 (0.36%) (Ranked 197)
 | 2023-10-15 | 4,726 | 17 |
 | 2023-10-16 | 4,728 | 17 |
 | 2023-10-17 | 4,730 | 17 |
+| 2023-10-18 | 4,731 | 17 |
 ## Awards
 Max (Great Boss Battles): 29  (Ranked 478)  
 Sum: 29 (Ranked 495)  
