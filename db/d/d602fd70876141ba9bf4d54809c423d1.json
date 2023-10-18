@@ -4,7 +4,7 @@
   "ProductSlug": "the-evil-within",
   "Ranking_EOS_Progress": 368,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 125,
+  "EOS_Progressed": 126,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -624,6 +624,11 @@
       "Time": "2023-10-18T14:05:04.1315332+00:00",
       "NumProgressed": 125,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-18T19:05:14.7729156+00:00",
+      "NumProgressed": 126,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T16:01:32.1694174+00:00",
@@ -636,7 +641,7 @@
       "Name": "What\u0027s in the Box?",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACHIEVEMENT_02",
@@ -644,7 +649,7 @@
       "Name": "Old Flame",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_03",
@@ -684,7 +689,7 @@
       "Name": "Slither into Oblivion",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -692,7 +697,7 @@
       "Name": "One of the Many",
       "Percentage": 10,
       "XP": 45,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_09",
@@ -700,7 +705,7 @@
       "Name": "First Step into Darkness",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -756,7 +761,7 @@
       "Name": "The Power of Three",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -764,7 +769,7 @@
       "Name": "Unstoppable Arsenal",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -836,7 +841,7 @@
       "Name": "Ammo Conservationist",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -892,7 +897,7 @@
       "Name": "Knife Beats Chainsaw",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -956,7 +961,7 @@
       "Name": "Entry Level Electrician",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -996,7 +1001,7 @@
       "Name": "A Different Beginning",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_47",
@@ -1004,7 +1009,7 @@
       "Name": "Not as it Seems",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_48",
@@ -1164,7 +1169,7 @@
       "Name": "Got to Destroy the Brain",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_68",
@@ -1172,7 +1177,7 @@
       "Name": "Home Invasion",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_69",
@@ -1180,7 +1185,7 @@
       "Name": "The Craftsman\u0027s Tools",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_70",
@@ -1203,20 +1208,20 @@
     {
       "ID": "8ddjaeg",
       "IsBase": false,
-      "Progressed": 125,
+      "Progressed": 126,
       "Completed": 0
     },
     {
       "ID": "ap8553i",
       "IsBase": true,
-      "Progressed": 125,
+      "Progressed": 126,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-10-18T18:06:42.9019525+00:00",
+  "LastChanged_Achievements": "2023-10-18T19:05:14.7729149+00:00",
   "LastUpdate_AppInfo": "2023-10-11T21:57:06.97719+00:00",
-  "LastUpdate_Ratings": "2023-10-18T18:02:15.4980165+00:00",
-  "LastUpdate_Achievements": "2023-10-18T18:06:42.9020488+00:00"
+  "LastUpdate_Ratings": "2023-10-18T19:01:11.9270136+00:00",
+  "LastUpdate_Achievements": "2023-10-18T19:05:14.7730773+00:00"
 }

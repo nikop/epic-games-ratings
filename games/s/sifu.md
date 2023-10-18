@@ -9,12 +9,12 @@ Number of Ratings: 9,492  (23.09.2022)
 | Diligence as a goal | 0.60% | ~150 |
 | The Old Grandmaster | 0.40% | ~2,863 |
 | The Assault | 0.40% | ~2,863 |
+| The Hateful Pole Fighter | 0.40% | ~2,863 |
 | Life is your teacher | 0.40% | ~2,863 |
 | State of constant learning | 0.40% | ~2,863 |
 | Lightning Hands | 0.40% | ~2,863 |
 | Project Arena | 0.40% | ~100 |
 | Fight the way you practice | 0.40% | ~100 |
-| The Hateful Pole Fighter | 0.30% | ~2,147 |
 | A Lady's Blood in the Snow | 0.30% | ~2,147 |
 | Lady Wing Chun | 0.30% | ~2,147 |
 | Furious Fists | 0.30% | ~2,147 |
@@ -28,11 +28,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | Rumble in the Hangar | 0.30% | ~2,147 |
 | Take damage to save time | 0.30% | ~2,147 |
 | Martial Hub | 0.30% | ~75 |
-| Scareless | 0.20% | ~1,431 |
-| Dance of the Praying Mantis | 0.20% | ~1,431 |
-| Qi Gong: Mind | 0.20% | ~1,431 |
-| I know Kung-Fu | 0.20% | ~1,431 |
-| Kung-Fu Tussle | 0.20% | ~1,431 |
+| Scareless | 0.20% | ~1,432 |
+| Dance of the Praying Mantis | 0.20% | ~1,432 |
+| Qi Gong: Mind | 0.20% | ~1,432 |
+| I know Kung-Fu | 0.20% | ~1,432 |
+| Kung-Fu Tussle | 0.20% | ~1,432 |
 | Bloody Sport | 0.20% | ~50 |
 | Muk Yan Master | 0.10% | ~716 |
 | Tiger on Fire | 0.10% | ~716 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Beatmaker | 0.10% | ~25 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,749 (Ranked 20)  
+Progressed: 715,750 (Ranked 20)  
 Completed: 12,923 (1.81%) (Ranked 117)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,7 +248,7 @@ Completed: 12,923 (1.81%) (Ranked 117)
 | 2023-10-15 | 715,704 | 12,921 |
 | 2023-10-16 | 715,718 | 12,922 |
 | 2023-10-17 | 715,736 | 12,922 |
-| 2023-10-18 | 715,749 | 12,923 |
+| 2023-10-18 | 715,750 | 12,923 |
 ## Awards
 Max (Great Boss Battles): 6,700  (Ranked 53)  
 Sum: 11,629 (Ranked 82)  

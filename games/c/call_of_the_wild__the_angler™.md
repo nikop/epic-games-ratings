@@ -6,22 +6,22 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 79.00% | ~4,801 |
-| Hey Good Hookin | 69.00% | ~4,193 |
-| I'm on a Boat! | 60.00% | ~3,646 |
-| Can you smell what the Rod is Hooking | 56.00% | ~3,403 |
-| Scaling up | 56.00% | ~3,403 |
-| More Fish in the Sea | 50.00% | ~3,038 |
-| Ready to Rod and Roll | 47.00% | ~2,856 |
+| Fish Just Got Reel | 79.00% | ~4,802 |
+| Hey Good Hookin | 69.00% | ~4,195 |
+| I'm on a Boat! | 60.00% | ~3,647 |
+| Can you smell what the Rod is Hooking | 56.00% | ~3,404 |
+| Scaling up | 56.00% | ~3,404 |
+| More Fish in the Sea | 50.00% | ~3,040 |
+| Ready to Rod and Roll | 47.00% | ~2,857 |
 | Fish Out of Water | 36.00% | ~2,188 |
-| License to Gill | 33.00% | ~2,005 |
+| License to Gill | 33.00% | ~2,006 |
 | Things that go Splash in the Night | 32.00% | ~1,945 |
-| Goldfish? | 29.00% | ~1,762 |
-| Going for Gold | 26.00% | ~1,580 |
-| I'm Hooked! | 20.00% | ~1,215 |
+| Goldfish? | 29.00% | ~1,763 |
+| Going for Gold | 26.00% | ~1,581 |
+| I'm Hooked! | 20.00% | ~1,216 |
 | Diamond in the Rough | 13.00% | ~790 |
-| More than a Tourist | 11.00% | ~668 |
-| School's Out for Summer | 11.00% | ~668 |
+| More than a Tourist | 11.00% | ~669 |
+| School's Out for Summer | 11.00% | ~669 |
 | Hook, Line and Sinker | 8.00% | ~486 |
 | Marathon | 8.00% | ~486 |
 | I'm the Captain Now | 6.00% | ~365 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.10% | ~5 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,077 (Ranked 168)  
+Progressed: 6,079 (Ranked 168)  
 Completed: 0 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 0 (0.00%) (Ranked 316)
 | 2023-10-15 | 6,061 | 0 |
 | 2023-10-16 | 6,070 | 0 |
 | 2023-10-17 | 6,071 | 0 |
-| 2023-10-18 | 6,077 | 0 |
+| 2023-10-18 | 6,079 | 0 |
 ## Awards
 Max (Relaxing): 36  (Ranked 453)  
 Sum: 184 (Ranked 396)  

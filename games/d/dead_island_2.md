@@ -5,41 +5,41 @@ Rating: 4.54 (Ranked 515)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 4.00% | ~27,902 |
-| Welcome To Hell-A | 4.00% | ~27,902 |
-| Dr. Reed, I Presume? | 3.00% | ~20,927 |
-| Git Gutte! | 3.00% | ~20,927 |
-| Bookworm | 3.00% | ~20,927 |
-| Break A Leg | 3.00% | ~20,927 |
-| But Doctor, I am Butcho | 3.00% | ~20,927 |
-| Can't Handle the Truth | 3.00% | ~20,927 |
-| Coup de Grâce | 3.00% | ~20,927 |
-| Like Riding a Bike | 3.00% | ~20,927 |
-| Hazardous Materials | 3.00% | ~20,927 |
-| Friends Like These | 3.00% | ~20,927 |
-| Apex Predator | 3.00% | ~20,927 |
-| Stacking the Deck | 3.00% | ~20,927 |
-| Personal Assistant Personally Assisted | 3.00% | ~20,927 |
-| This is My Weapon | 3.00% | ~20,927 |
-| Making Your Mark | 2.00% | ~13,951 |
-| Anger Management | 2.00% | ~13,951 |
-| Perks of the Job | 2.00% | ~13,951 |
-| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,951 |
-| Slayer Squad | 2.00% | ~13,951 |
-| Zombologist | 2.00% | ~13,951 |
-| Ooh, Shiny! | 2.00% | ~13,951 |
-| A Patton Emerges | 2.00% | ~13,951 |
-| Humanity Distilled | 2.00% | ~13,951 |
-| I Am the Resurrection | 2.00% | ~13,951 |
-| Down with the Sickness | 2.00% | ~13,951 |
-| Our True Nature | 2.00% | ~13,951 |
+| Hotel California | 4.00% | ~27,904 |
+| Welcome To Hell-A | 4.00% | ~27,904 |
+| Dr. Reed, I Presume? | 3.00% | ~20,928 |
+| Git Gutte! | 3.00% | ~20,928 |
+| Bookworm | 3.00% | ~20,928 |
+| Break A Leg | 3.00% | ~20,928 |
+| But Doctor, I am Butcho | 3.00% | ~20,928 |
+| Can't Handle the Truth | 3.00% | ~20,928 |
+| Coup de Grâce | 3.00% | ~20,928 |
+| Like Riding a Bike | 3.00% | ~20,928 |
+| Hazardous Materials | 3.00% | ~20,928 |
+| Friends Like These | 3.00% | ~20,928 |
+| Apex Predator | 3.00% | ~20,928 |
+| Stacking the Deck | 3.00% | ~20,928 |
+| Personal Assistant Personally Assisted | 3.00% | ~20,928 |
+| This is My Weapon | 3.00% | ~20,928 |
+| Making Your Mark | 2.00% | ~13,952 |
+| Anger Management | 2.00% | ~13,952 |
+| Perks of the Job | 2.00% | ~13,952 |
+| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,952 |
+| Slayer Squad | 2.00% | ~13,952 |
+| Zombologist | 2.00% | ~13,952 |
+| Ooh, Shiny! | 2.00% | ~13,952 |
+| A Patton Emerges | 2.00% | ~13,952 |
+| Humanity Distilled | 2.00% | ~13,952 |
+| I Am the Resurrection | 2.00% | ~13,952 |
+| Down with the Sickness | 2.00% | ~13,952 |
+| Our True Nature | 2.00% | ~13,952 |
 | Smorgasbord | 1.00% | ~6,976 |
 | Jumbo Keyring | 1.00% | ~6,976 |
 | Max Headroom | 1.00% | ~6,976 |
 | Go, Bobcats! | 1.00% | ~6,976 |
 | Rising Star | 1.00% | ~6,976 |
-| Not Even My Final Form | 0.80% | ~5,580 |
-| Internet Famous | 0.80% | ~5,580 |
+| Not Even My Final Form | 0.80% | ~5,581 |
+| Internet Famous | 0.80% | ~5,581 |
 | Make it So | 0.70% | ~4,883 |
 | On Safari | 0.70% | ~4,883 |
 | Variety is the Spice of Death | 0.70% | ~4,883 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 515)
 | Donk! | 0.20% | ~1,395 |
 | Bucket List | 0.10% | ~698 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 697,560 (Ranked 22)  
+Progressed: 697,593 (Ranked 22)  
 Completed: 2,242 (0.32%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,17 +232,17 @@ Completed: 2,242 (0.32%) (Ranked 201)
 | 2023-10-15 | 696,452 | 2,227 |
 | 2023-10-16 | 696,890 | 2,235 |
 | 2023-10-17 | 697,259 | 2,238 |
-| 2023-10-18 | 697,560 | 2,242 |
+| 2023-10-18 | 697,593 | 2,242 |
 ## Awards
 Max (Great Boss Battles): 6,489  (Ranked 56)  
-Sum: 9,715 (Ranked 91)  
+Sum: 9,718 (Ranked 91)  
 Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,489 |
 | This game is Great for Beginners | 462 |
 | This game has Diverse Characters | 451 |
-| This game has Quickly Understood Controls | 425 |
+| This game has Quickly Understood Controls | 428 |
 | This game is Relaxing | 409 |
 | This game has Amazing Storytelling | 386 |
 | This game is Highly Recommended | 370 |
@@ -431,4 +431,4 @@ Diff (max vs sum): -35
 | 2023-10-15 | 4.54 | 6,462 | 9,657 |
 | 2023-10-16 | 4.54 | 6,462 | 9,671 |
 | 2023-10-17 | 4.54 | 6,477 | 9,692 |
-| 2023-10-18 | 4.54 | 6,489 | 9,715 |
+| 2023-10-18 | 4.54 | 6,489 | 9,718 |

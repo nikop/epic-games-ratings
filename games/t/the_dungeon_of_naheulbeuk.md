@@ -6,12 +6,12 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 33.00% | ~76,429 |
-| Alt+F4 | 7.00% | ~16,212 |
-| Where's that freaking Dwarf? | 6.00% | ~13,896 |
-| Déjà vu | 5.00% | ~11,580 |
-| Sock! SOCK! | 4.00% | ~9,264 |
-| Speedrun | 4.00% | ~9,264 |
+| Sowwy! | 33.00% | ~76,433 |
+| Alt+F4 | 7.00% | ~16,213 |
+| Where's that freaking Dwarf? | 6.00% | ~13,897 |
+| Déjà vu | 5.00% | ~11,581 |
+| Sock! SOCK! | 4.00% | ~9,265 |
+| Speedrun | 4.00% | ~9,265 |
 | A beer, two curses, three companions | 3.00% | ~6,948 |
 | GG EZ | 3.00% | ~6,948 |
 | DM intervention | 3.00% | ~6,948 |
@@ -41,8 +41,8 @@ Number of Ratings: 118  (23.09.2022)
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,316 |
 | Lust and Debauchery | 1.00% | ~2,316 |
 | Thieves' Guild Accreditation | 1.00% | ~2,316 |
-| Dead for good | 0.90% | ~2,084 |
-| Material Girl | 0.90% | ~2,084 |
+| Dead for good | 0.90% | ~2,085 |
+| Material Girl | 0.90% | ~2,085 |
 | Gargantua | 0.80% | ~1,853 |
 | In Navalu's footsteps | 0.70% | ~1,621 |
 | We come in peace | 0.60% | ~1,390 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~232 |
 | Dwarf Candy | 0.10% | ~232 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,604 (Ranked 60)  
+Progressed: 231,616 (Ranked 60)  
 Completed: 6 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,7 +235,7 @@ Completed: 6 (0.00%) (Ranked 316)
 | 2023-10-15 | 231,139 | 5 |
 | 2023-10-16 | 231,330 | 5 |
 | 2023-10-17 | 231,503 | 6 |
-| 2023-10-18 | 231,604 | 6 |
+| 2023-10-18 | 231,616 | 6 |
 ## Awards
 Max (Character Customization): 216  (Ranked 273)  
 Sum: 427 (Ranked 326)  

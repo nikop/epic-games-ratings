@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewPlayers": 292,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -78,9 +78,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 708,
+  "EOS_Progressed": 709,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1993,6 +1993,11 @@
       "Time": "2023-10-16T17:07:59.2906688+00:00",
       "NumProgressed": 708,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-18T19:06:23.9000428+00:00",
+      "NumProgressed": 709,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -2124,7 +2129,7 @@
       "Name": "Liar Liar",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "LittleHelper",
@@ -2132,7 +2137,7 @@
       "Name": "A friend in need...",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "LostAndFound",
@@ -2148,7 +2153,7 @@
       "Name": "The cycle acknowledged",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "NoMoreWards",
@@ -2204,7 +2209,7 @@
       "Name": "Baba Yaga",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ToadCharming",
@@ -2259,7 +2264,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 708,
+      "Progressed": 709,
       "Completed": 1
     }
   ],
@@ -2267,8 +2272,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-10-13T20:57:47.9412245+00:00",
-  "LastChanged_Achievements": "2023-10-18T18:07:41.756578+00:00",
+  "LastChanged_Achievements": "2023-10-18T19:06:23.9000421+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:44.2099257+00:00",
-  "LastUpdate_Ratings": "2023-10-18T18:01:51.6619367+00:00",
-  "LastUpdate_Achievements": "2023-10-18T18:07:41.7566173+00:00"
+  "LastUpdate_Ratings": "2023-10-18T19:00:43.8656394+00:00",
+  "LastUpdate_Achievements": "2023-10-18T19:06:23.9001023+00:00"
 }

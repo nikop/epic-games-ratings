@@ -297,9 +297,9 @@
       "ID": "a28",
       "SetID": "cdg65ol",
       "Name": "What?!",
-      "Percentage": 42,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "a29",
@@ -313,9 +313,9 @@
       "ID": "a3",
       "SetID": "cdg65ol",
       "Name": "Sea Legs",
-      "Percentage": 68,
+      "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "a30",
@@ -377,9 +377,9 @@
       "ID": "a5",
       "SetID": "cdg65ol",
       "Name": "Hoist the Sails",
-      "Percentage": 21,
+      "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "a6",
@@ -426,8 +426,8 @@
   "FirstSeenRating": "2023-03-31T05:58:16.4143103+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:44.2276989+00:00",
   "LastChanged": "2023-03-31T05:58:16.4143104+00:00",
-  "LastChanged_Achievements": "2023-10-18T18:05:26.7576959+00:00",
+  "LastChanged_Achievements": "2023-10-18T19:03:33.7239599+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:23.0502762+00:00",
-  "LastUpdate_Ratings": "2023-10-18T18:03:12.2975587+00:00",
-  "LastUpdate_Achievements": "2023-10-18T18:05:26.7577316+00:00"
+  "LastUpdate_Ratings": "2023-10-18T19:02:22.6236524+00:00",
+  "LastUpdate_Achievements": "2023-10-18T19:03:33.7240172+00:00"
 }

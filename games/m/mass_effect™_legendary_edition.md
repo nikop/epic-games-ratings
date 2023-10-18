@@ -19,19 +19,19 @@
 | Charismatic | 57.00% | ~418 |
 | Turian Ally | 56.00% | ~411 |
 | Soldier | 55.00% | ~404 |
+| Medal of Exploration III | 52.00% | ~382 |
 | Asari Ally | 52.00% | ~382 |
 | Principled | 52.00% | ~382 |
-| Medal of Exploration III | 51.00% | ~374 |
-| Soldier Ally | 49.00% | ~360 |
+| Soldier Ally | 50.00% | ~367 |
 | Colonial Savior | 49.00% | ~360 |
 | Paramour I | 48.00% | ~352 |
 | Scientist | 47.00% | ~345 |
 | Krogan Ally | 46.00% | ~338 |
 | Merciless | 46.00% | ~338 |
+| Missing in Action | 44.00% | ~323 |
 | Very Elusive | 44.00% | ~323 |
 | Head Hunter | 44.00% | ~323 |
 | Sentinel Ally | 43.00% | ~316 |
-| Missing in Action | 43.00% | ~316 |
 | Operative | 42.00% | ~308 |
 | Scholar | 42.00% | ~308 |
 | Veteran | 41.00% | ~301 |

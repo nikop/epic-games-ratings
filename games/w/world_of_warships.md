@@ -6,42 +6,42 @@ Number of Ratings: 4,733  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 81.00% | ~32,966 |
-| Initial Capital | 69.00% | ~28,082 |
-| Moneybags | 48.00% | ~19,536 |
-| Junior Supply Officer | 48.00% | ~19,536 |
-| Naval Warfare. Arson | 36.00% | ~14,652 |
-| Naval Warfare. Ramming | 35.00% | ~14,245 |
-| Amateur | 34.00% | ~13,838 |
-| Naval Constructor | 34.00% | ~13,838 |
-| Naval Warfare. Tactics | 33.00% | ~13,431 |
-| Naval Warfare. Weaponry Basics | 25.00% | ~10,175 |
-| Naval Warfare. Lucky Shot | 22.00% | ~8,954 |
-| Naval Warfare. Flooding | 21.00% | ~8,547 |
-| Business Magnate | 19.00% | ~7,733 |
-| Battle Hero | 17.00% | ~6,919 |
-| Supply Officer | 15.00% | ~6,105 |
-| Smooth Supply | 15.00% | ~6,105 |
-| Warrior | 14.00% | ~5,698 |
-| Veteran | 9.00% | ~3,663 |
-| Legend of the Seas | 4.00% | ~1,628 |
-| Chief Naval Architect | 4.00% | ~1,628 |
-| Shield | 4.00% | ~1,628 |
-| Weather Beaten | 3.00% | ~1,221 |
-| Important Missions | 3.00% | ~1,221 |
-| Guardian | 3.00% | ~1,221 |
-| Bane of the Oceans | 2.00% | ~814 |
-| Senior Supply Officer | 2.00% | ~814 |
-| "Science of Victory" | 2.00% | ~814 |
-| Special Orders | 2.00% | ~814 |
-| Protector | 2.00% | ~814 |
-| Exterminator | 2.00% | ~814 |
-| American Cruisers | 2.00% | ~814 |
+| Junior Naval Designer | 81.00% | ~32,988 |
+| Initial Capital | 69.00% | ~28,101 |
+| Moneybags | 48.00% | ~19,548 |
+| Junior Supply Officer | 48.00% | ~19,548 |
+| Naval Warfare. Arson | 36.00% | ~14,661 |
+| Naval Warfare. Ramming | 35.00% | ~14,254 |
+| Amateur | 34.00% | ~13,847 |
+| Naval Constructor | 34.00% | ~13,847 |
+| Naval Warfare. Tactics | 33.00% | ~13,440 |
+| Naval Warfare. Weaponry Basics | 25.00% | ~10,182 |
+| Naval Warfare. Lucky Shot | 22.00% | ~8,960 |
+| Naval Warfare. Flooding | 21.00% | ~8,552 |
+| Business Magnate | 19.00% | ~7,738 |
+| Battle Hero | 17.00% | ~6,923 |
+| Supply Officer | 15.00% | ~6,109 |
+| Smooth Supply | 15.00% | ~6,109 |
+| Warrior | 14.00% | ~5,702 |
+| Veteran | 9.00% | ~3,665 |
+| Legend of the Seas | 4.00% | ~1,629 |
+| Chief Naval Architect | 4.00% | ~1,629 |
+| Shield | 4.00% | ~1,629 |
+| Weather Beaten | 3.00% | ~1,222 |
+| Important Missions | 3.00% | ~1,222 |
+| Guardian | 3.00% | ~1,222 |
+| Bane of the Oceans | 2.00% | ~815 |
+| Senior Supply Officer | 2.00% | ~815 |
+| "Science of Victory" | 2.00% | ~815 |
+| Special Orders | 2.00% | ~815 |
+| Protector | 2.00% | ~815 |
+| Exterminator | 2.00% | ~815 |
+| American Cruisers | 2.00% | ~815 |
 | Old-Timer | 1.00% | ~407 |
-| Secret Instructions | 0.90% | ~366 |
-| Raider | 0.90% | ~366 |
+| Secret Instructions | 0.90% | ~367 |
+| Raider | 0.90% | ~367 |
 | Experienced One | 0.70% | ~285 |
-| "Yamamoto Isoroku" | 0.50% | ~203 |
+| "Yamamoto Isoroku" | 0.50% | ~204 |
 | Ravager | 0.40% | ~163 |
 | "Yamamoto Isoroku" | 0.40% | ~163 |
 | "Honorable Service" | 0.30% | ~122 |
@@ -51,7 +51,7 @@ Number of Ratings: 4,733  (23.09.2022)
 | "Yamamoto Isoroku" with Honors | 0.10% | ~41 |
 | Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40,699 (Ranked 111)  
+Progressed: 40,726 (Ranked 111)  
 Completed: 0 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,10 +117,10 @@ Completed: 0 (0.00%) (Ranked 316)
 | 2023-10-15 | 39,666 | 0 |
 | 2023-10-16 | 40,053 | 0 |
 | 2023-10-17 | 40,399 | 0 |
-| 2023-10-18 | 40,699 | 0 |
+| 2023-10-18 | 40,726 | 0 |
 ## Awards
 Max (Relaxing): 1,427  (Ranked 131)  
-Sum: 11,951 (Ranked 81)  
+Sum: 11,954 (Ranked 81)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
@@ -130,7 +130,7 @@ Diff (max vs sum): 50
 | This game is Highly Recommended | 1,399 |
 | This game has Competitive Players | 1,393 |
 | This game is Extremely Fun | 1,371 |
-| This game has Realistic Visuals | 1,255 |
+| This game has Realistic Visuals | 1,258 |
 | This game has Amazing Storytelling | 1,165 |
 | This game has a Competitive Community | 1,108 |
 | This game has Amazing Characters | 942 |
@@ -416,4 +416,4 @@ Diff (max vs sum): 50
 | 2023-10-15 | 4.41 | - | 1,417 | 11,889 |
 | 2023-10-16 | 4.41 | - | 1,423 | 11,922 |
 | 2023-10-17 | 4.41 | - | 1,427 | 11,935 |
-| 2023-10-18 | 4.41 | - | 1,427 | 11,951 |
+| 2023-10-18 | 4.41 | - | 1,427 | 11,954 |

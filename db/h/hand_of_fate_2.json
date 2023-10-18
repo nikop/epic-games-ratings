@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 25,
   "Ranking_EOS_Completed": 285,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -898,7 +898,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 663470,
+  "EOS_Progressed": 663473,
   "EOS_Completed": 171,
   "EOS_NewPlayers": 288,
   "EOS_NewCompleters": 1,
@@ -18093,6 +18093,11 @@
       "Time": "2023-10-18T18:07:49.372368+00:00",
       "NumProgressed": 663470,
       "NumCompleted": 171
+    },
+    {
+      "Time": "2023-10-18T19:06:32.87101+00:00",
+      "NumProgressed": 663473,
+      "NumCompleted": 171
     }
   ],
   "TotalAchievements": 48,
@@ -18104,7 +18109,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 477698
+      "UsersEstimate": 477701
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -18112,7 +18117,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 384813
+      "UsersEstimate": 384814
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -18120,7 +18125,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 152598
+      "UsersEstimate": 152599
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -18240,7 +18245,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 152598
+      "UsersEstimate": 152599
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -18344,7 +18349,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 79616
+      "UsersEstimate": 79617
     },
     {
       "ID": "Achievement_32_Karma",
@@ -18384,7 +18389,7 @@
       "Name": "Swordsman",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 59712
+      "UsersEstimate": 59713
     },
     {
       "ID": "Achievement_37_Champion",
@@ -18487,15 +18492,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 663470,
+      "Progressed": 663473,
       "Completed": 171
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-09-17T14:00:02.1778642+00:00",
-  "LastChanged_Achievements": "2023-10-18T18:07:49.3723674+00:00",
+  "LastChanged_Achievements": "2023-10-18T19:06:32.8710095+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:29.0869646+00:00",
-  "LastUpdate_Ratings": "2023-10-18T18:00:20.6847157+00:00",
-  "LastUpdate_Achievements": "2023-10-18T18:07:49.3725312+00:00"
+  "LastUpdate_Ratings": "2023-10-18T18:58:53.8900801+00:00",
+  "LastUpdate_Achievements": "2023-10-18T19:06:32.871301+00:00"
 }

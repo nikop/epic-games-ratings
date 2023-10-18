@@ -7,11 +7,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 0.50% | ~1,161 |
+| The Cursed Farmer | 0.30% | ~697 |
 | The Jungles of Doomspace | 0.30% | ~595 |
 | Foul Play | 0.30% | ~595 |
 | Spelljammers in Training | 0.30% | ~595 |
 | Beast Intentions | 0.20% | ~464 |
-| The Cursed Farmer | 0.20% | ~464 |
 | The Ring of Regeneration | 0.20% | ~464 |
 | The Mad Wizard | 0.20% | ~464 |
 | Legends and Lore | 0.20% | ~397 |
@@ -535,8 +535,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Entrance of the Gladiators | 0.10% | ~198 |
 | Time Out | 0.10% | ~198 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,169 (Ranked 59)  
-Completed: 2,371 (1.02%) (Ranked 146)  
+Progressed: 232,176 (Ranked 59)  
+Completed: 2,372 (1.02%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -716,7 +716,7 @@ Completed: 2,371 (1.02%) (Ranked 146)
 | 2023-10-15 | 231,955 | 2,364 |
 | 2023-10-16 | 232,030 | 2,366 |
 | 2023-10-17 | 232,098 | 2,367 |
-| 2023-10-18 | 232,169 | 2,371 |
+| 2023-10-18 | 232,176 | 2,372 |
 ## Awards
 Max (Diverse Characters): 5,413  (Ranked 69)  
 Sum: 32,091 (Ranked 41)  

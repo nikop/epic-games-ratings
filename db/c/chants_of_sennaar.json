@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 51,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -1548,9 +1548,9 @@
       "ID": "OPTIONNAL_GAMES",
       "SetID": "2gma9an",
       "Name": "True G3M4R",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 30
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -1572,9 +1572,9 @@
       "ID": "PROGRESS_ALL_RUNES",
       "SetID": "2gma9an",
       "Name": "Champollion",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 21
+      "UsersEstimate": 24
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -1643,8 +1643,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-18T18:07:41.199997+00:00",
+  "LastChanged_Achievements": "2023-10-18T19:06:23.123091+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:19.4856723+00:00",
-  "LastUpdate_Ratings": "2023-10-18T18:01:13.627464+00:00",
-  "LastUpdate_Achievements": "2023-10-18T18:07:41.2000283+00:00"
+  "LastUpdate_Ratings": "2023-10-18T18:59:58.1949918+00:00",
+  "LastUpdate_Achievements": "2023-10-18T19:06:23.1231348+00:00"
 }

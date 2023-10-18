@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What is this? | 70.00% | ~65 |
-| Complete Level 1-1 | 61.00% | ~57 |
-| Immortal | 53.00% | ~49 |
+| What is this? | 71.00% | ~66 |
+| Complete Level 1-1 | 62.00% | ~58 |
+| Immortal | 54.00% | ~50 |
 | Complete Level 1-2 | 45.00% | ~42 |
 | Scraping by | 32.00% | ~30 |
 | Engineer-mage hybrid | 32.00% | ~30 |
@@ -29,8 +29,8 @@
 | Should have left me alone | 9.00% | ~8 |
 | Drink up | 9.00% | ~8 |
 | Mage-warrior hybrid | 9.00% | ~8 |
+| Party popper | 9.00% | ~8 |
 | Complete Level 3-3 | 8.00% | ~7 |
-| Party popper | 8.00% | ~7 |
 | Mage specialist | 6.00% | ~6 |
 | Way of the mage | 6.00% | ~6 |
 | Defeat the mage boss | 5.00% | ~5 |

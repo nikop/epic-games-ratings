@@ -14,10 +14,10 @@ Rating: 4.68 (Ranked 243)
 | Slavic squatter | 9.00% | ~64 |
 | Spirit animal | 8.00% | ~57 |
 | Gold rush | 7.00% | ~50 |
-| Liar Liar | 6.00% | ~42 |
-| A friend in need... | 6.00% | ~42 |
-| The cycle acknowledged | 6.00% | ~42 |
-| Baba Yaga | 6.00% | ~42 |
+| Liar Liar | 6.00% | ~43 |
+| A friend in need... | 6.00% | ~43 |
+| The cycle acknowledged | 6.00% | ~43 |
+| Baba Yaga | 6.00% | ~43 |
 | Extensive retelling | 5.00% | ~35 |
 | Sneak peek | 5.00% | ~35 |
 | Fishing fanatic | 5.00% | ~35 |
@@ -38,7 +38,7 @@ Rating: 4.68 (Ranked 243)
 | Mushrooming enthusiast | 0.70% | ~5 |
 | Apex predator | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 708 (Ranked 254)  
+Progressed: 709 (Ranked 254)  
 Completed: 1 (0.14%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,6 +189,7 @@ Completed: 1 (0.14%) (Ranked 237)
 | 2023-10-10 | 706 | 1 |
 | 2023-10-14 | 707 | 1 |
 | 2023-10-16 | 708 | 1 |
+| 2023-10-18 | 709 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

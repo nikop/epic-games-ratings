@@ -6,52 +6,52 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~112,383 |
-| Don't Make Me Turn This Coach Around | 71.00% | ~85,798 |
-| A Clear Conscience | 69.00% | ~83,381 |
-| Unleash Hell | 68.00% | ~82,173 |
-| Unfulfilled Desires | 68.00% | ~82,173 |
-| Funny Guy | 67.00% | ~80,964 |
-| Unshackled | 67.00% | ~80,964 |
-| Long Live the King | 66.00% | ~79,756 |
-| Resurrection | 62.00% | ~74,922 |
-| Wyrdly Reconstructed | 62.00% | ~74,922 |
-| Boxcar Kid | 60.00% | ~72,505 |
-| Rush Hour | 60.00% | ~72,505 |
-| To Grandmother's House | 60.00% | ~72,505 |
-| Serenity Now! | 54.00% | ~65,255 |
-| Hope Rekindled | 50.00% | ~60,421 |
-| Ramble On | 49.00% | ~59,213 |
-| Nope | 49.00% | ~59,213 |
-| This Looks Familiar | 38.00% | ~45,920 |
-| Now Stay Dead | 38.00% | ~45,920 |
-| Merry Time | 36.00% | ~43,503 |
-| Harvest Festival | 36.00% | ~43,503 |
-| Hot Air | 36.00% | ~43,503 |
-| Creep and Sleep | 33.00% | ~39,878 |
-| Overdue Notice | 32.00% | ~38,669 |
-| Banishment | 31.00% | ~37,461 |
-| Whale | 31.00% | ~37,461 |
-| FNG | 30.00% | ~36,253 |
-| Predator | 25.00% | ~30,210 |
-| Reverse Banditry | 25.00% | ~30,210 |
-| Autodidact | 25.00% | ~30,210 |
-| Meat and Greet | 23.00% | ~27,794 |
-| Spelunker | 22.00% | ~26,585 |
-| Road Trip | 22.00% | ~26,585 |
-| Eyes Up | 21.00% | ~25,377 |
-| It Rings a Bell | 20.00% | ~24,168 |
+| A Place to Lay Your Head | 93.00% | ~112,387 |
+| Don't Make Me Turn This Coach Around | 71.00% | ~85,801 |
+| A Clear Conscience | 69.00% | ~83,384 |
+| Unleash Hell | 68.00% | ~82,175 |
+| Unfulfilled Desires | 68.00% | ~82,175 |
+| Funny Guy | 67.00% | ~80,967 |
+| Unshackled | 67.00% | ~80,967 |
+| Long Live the King | 66.00% | ~79,758 |
+| Resurrection | 62.00% | ~74,925 |
+| Wyrdly Reconstructed | 62.00% | ~74,925 |
+| Boxcar Kid | 60.00% | ~72,508 |
+| Rush Hour | 60.00% | ~72,508 |
+| To Grandmother's House | 60.00% | ~72,508 |
+| Serenity Now! | 54.00% | ~65,257 |
+| Hope Rekindled | 50.00% | ~60,423 |
+| Ramble On | 49.00% | ~59,215 |
+| Nope | 49.00% | ~59,215 |
+| This Looks Familiar | 38.00% | ~45,921 |
+| Now Stay Dead | 38.00% | ~45,921 |
+| Merry Time | 36.00% | ~43,505 |
+| Harvest Festival | 36.00% | ~43,505 |
+| Hot Air | 36.00% | ~43,505 |
+| Creep and Sleep | 33.00% | ~39,879 |
+| Overdue Notice | 32.00% | ~38,671 |
+| Banishment | 31.00% | ~37,462 |
+| Whale | 31.00% | ~37,462 |
+| FNG | 30.00% | ~36,254 |
+| Predator | 25.00% | ~30,212 |
+| Reverse Banditry | 25.00% | ~30,212 |
+| Autodidact | 25.00% | ~30,212 |
+| Meat and Greet | 23.00% | ~27,795 |
+| Spelunker | 22.00% | ~26,586 |
+| Road Trip | 22.00% | ~26,586 |
+| Eyes Up | 21.00% | ~25,378 |
+| It Rings a Bell | 20.00% | ~24,169 |
 | Escape from the Black Hole | 18.00% | ~21,752 |
-| Dissector | 17.00% | ~20,543 |
-| It Happens | 17.00% | ~20,543 |
+| Dissector | 17.00% | ~20,544 |
+| It Happens | 17.00% | ~20,544 |
 | This Belongs in a Museum | 16.00% | ~19,335 |
 | Handled | 16.00% | ~19,335 |
 | Catch and Decease | 14.00% | ~16,918 |
-| Not Today! | 13.00% | ~15,709 |
-| Deprogramming | 13.00% | ~15,709 |
-| Shrine of Reflection | 12.00% | ~14,501 |
+| Not Today! | 13.00% | ~15,710 |
+| Deprogramming | 13.00% | ~15,710 |
+| Shrine of Reflection | 12.00% | ~14,502 |
 | When You Want Something Done Right | 11.00% | ~13,293 |
-| Body of Work | 10.00% | ~12,084 |
+| Body of Work | 10.00% | ~12,085 |
 | Utopia | 9.00% | ~10,876 |
 | Hat Trick | 7.00% | ~8,459 |
 | Ichthyophobic | 6.00% | ~7,251 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Loop Year | 0.10% | ~121 |
 | No Gravestone Left Unturned | 0.10% | ~121 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 120,842 (Ranked 77)  
+Progressed: 120,846 (Ranked 77)  
 Completed: 1 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,10 +243,10 @@ Completed: 1 (0.00%) (Ranked 316)
 | 2023-10-15 | 120,627 | 1 |
 | 2023-10-16 | 120,699 | 1 |
 | 2023-10-17 | 120,790 | 1 |
-| 2023-10-18 | 120,842 | 1 |
+| 2023-10-18 | 120,846 | 1 |
 ## Awards
 Max (Character Customization): 7,464  (Ranked 51)  
-Sum: 19,560 (Ranked 57)  
+Sum: 19,561 (Ranked 57)  
 Diff (max vs sum): -6  
 | Award | Count |
 | ----- | ----- |
@@ -255,7 +255,7 @@ Diff (max vs sum): -6
 | This game has Challenging Combat | 1,495 |
 | This game is Highly Recommended | 1,434 |
 | This game is Extremely Fun | 1,393 |
-| This game has Amazing Characters | 1,388 |
+| This game has Amazing Characters | 1,389 |
 | This game has Amazing Storytelling | 1,314 |
 | This game has Quickly Understood Controls | 1,291 |
 | This game has Unique Visuals | 1,267 |
@@ -529,4 +529,4 @@ Diff (max vs sum): -6
 | 2023-10-15 | 4.68 | - | 7,457 | 19,536 |
 | 2023-10-16 | 4.68 | - | 7,462 | 19,549 |
 | 2023-10-17 | 4.68 | - | 7,464 | 19,556 |
-| 2023-10-18 | 4.68 | - | 7,464 | 19,560 |
+| 2023-10-18 | 4.68 | - | 7,464 | 19,561 |

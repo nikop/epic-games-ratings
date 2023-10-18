@@ -4,7 +4,7 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 348,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -838,9 +838,9 @@
       "ID": "BUY_EVERYTHING_IN_ECOTOMAT",
       "SetID": "aniflfk",
       "Name": "Empty Shelves",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "CATCH_30_FISH",
@@ -934,9 +934,9 @@
       "ID": "SLEEP_50_HOURS",
       "SetID": "aniflfk",
       "Name": "Sleepyhead",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 27
     },
     {
       "ID": "SPEND_2000_COINS",
@@ -973,8 +973,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-10-18T18:06:28.4128131+00:00",
+  "LastChanged_Achievements": "2023-10-18T19:04:57.0623471+00:00",
   "LastUpdate_AppInfo": "2023-10-18T15:57:15.7411865+00:00",
-  "LastUpdate_Ratings": "2023-10-18T18:02:12.7073701+00:00",
-  "LastUpdate_Achievements": "2023-10-18T18:06:28.4128355+00:00"
+  "LastUpdate_Ratings": "2023-10-18T19:01:07.9814073+00:00",
+  "LastUpdate_Achievements": "2023-10-18T19:04:57.0623806+00:00"
 }

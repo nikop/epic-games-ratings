@@ -6,26 +6,26 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 78.00% | ~5,349 |
-| Worker Specialization | 78.00% | ~5,349 |
-| First Contact | 73.00% | ~5,006 |
-| Win a Battle | 66.00% | ~4,526 |
-| Anomaly Researcher | 62.00% | ~4,252 |
-| Unleash My Power | 61.00% | ~4,183 |
+| Colonize a Planet | 78.00% | ~5,350 |
+| Worker Specialization | 78.00% | ~5,350 |
+| First Contact | 73.00% | ~5,007 |
+| Win a Battle | 66.00% | ~4,527 |
+| Anomaly Researcher | 62.00% | ~4,253 |
+| Unleash My Power | 61.00% | ~4,184 |
 | Own 30 Planets | 34.00% | ~2,332 |
 | Xenocide | 32.00% | ~2,195 |
 | Design a Civilization | 32.00% | ~2,195 |
-| Commodity Trader | 30.00% | ~2,057 |
-| Design a Ship | 28.00% | ~1,920 |
-| Commodity Seller | 25.00% | ~1,714 |
+| Commodity Trader | 30.00% | ~2,058 |
+| Design a Ship | 28.00% | ~1,921 |
+| Commodity Seller | 25.00% | ~1,715 |
 | Prestige Victory! | 14.00% | ~960 |
 | Galactic War | 11.00% | ~754 |
 | Trading Partner | 9.00% | ~617 |
 | Fleet Victory | 8.00% | ~549 |
 | Win as Terrans | 7.00% | ~480 |
-| Gain an Ally | 6.00% | ~411 |
-| War with the Unknown | 6.00% | ~411 |
-| Win with a Custom Faction | 6.00% | ~411 |
+| Gain an Ally | 6.00% | ~412 |
+| War with the Unknown | 6.00% | ~412 |
+| Win with a Custom Faction | 6.00% | ~412 |
 | Win Quickly | 5.00% | ~343 |
 | Conquest Victory! | 4.00% | ~274 |
 | Pirate Cleansing | 3.00% | ~206 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,858 (Ranked 162)  
+Progressed: 6,859 (Ranked 162)  
 Completed: 0 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,7 +260,7 @@ Completed: 0 (0.00%) (Ranked 316)
 | 2023-10-15 | 6,839 | 0 |
 | 2023-10-16 | 6,847 | 0 |
 | 2023-10-17 | 6,850 | 0 |
-| 2023-10-18 | 6,858 | 0 |
+| 2023-10-18 | 6,859 | 0 |
 ## Awards
 Max (Diverse Characters): 94  (Ranked 358)  
 Sum: 681 (Ranked 286)  

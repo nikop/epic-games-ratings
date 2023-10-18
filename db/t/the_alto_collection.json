@@ -781,9 +781,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 43084,
+  "EOS_Progressed": 43086,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 761,
+  "EOS_NewPlayers": 759,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -21136,6 +21136,11 @@
       "Time": "2023-10-18T18:08:03.0151723+00:00",
       "NumProgressed": 43084,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-18T19:06:48.7364366+00:00",
+      "NumProgressed": 43086,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -21203,7 +21208,7 @@
       "Name": "Amateur",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4308
+      "UsersEstimate": 4309
     },
     {
       "ID": "goals75",
@@ -21267,7 +21272,7 @@
       "Name": "Nomad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7324
+      "UsersEstimate": 7325
     },
     {
       "ID": "novice",
@@ -21275,7 +21280,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 6893
+      "UsersEstimate": 6894
     },
     {
       "ID": "playerFelipe",
@@ -21458,15 +21463,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 43084,
+      "Progressed": 43086,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-10-12T08:00:34.9108004+00:00",
-  "LastChanged_Achievements": "2023-10-18T18:08:03.0151713+00:00",
+  "LastChanged_Achievements": "2023-10-18T19:06:48.7364358+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:17.6286578+00:00",
-  "LastUpdate_Ratings": "2023-10-18T17:59:56.2445635+00:00",
-  "LastUpdate_Achievements": "2023-10-18T18:08:03.0153471+00:00"
+  "LastUpdate_Ratings": "2023-10-18T18:58:26.6574172+00:00",
+  "LastUpdate_Achievements": "2023-10-18T19:06:48.7367128+00:00"
 }

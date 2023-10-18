@@ -323,9 +323,9 @@
       "ID": "Achievement11",
       "SetID": "jf6ho5",
       "Name": "Your Training Continues",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "Achievement12",
@@ -363,9 +363,9 @@
       "ID": "Achievement16",
       "SetID": "jf6ho5",
       "Name": "The Bigger They Are",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "Achievement17",
@@ -484,8 +484,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-10-18T18:11:12.3513153+00:00",
+  "LastChanged_Achievements": "2023-10-18T19:09:35.8233103+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:18.0932762+00:00",
-  "LastUpdate_Ratings": "2023-10-18T18:01:13.6235567+00:00",
-  "LastUpdate_Achievements": "2023-10-18T18:11:12.3513357+00:00"
+  "LastUpdate_Ratings": "2023-10-18T18:59:58.0109912+00:00",
+  "LastUpdate_Achievements": "2023-10-18T19:09:35.8233395+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 113,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -410,9 +410,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22341,
+  "EOS_Progressed": 22344,
   "EOS_Completed": 440,
-  "EOS_NewPlayers": 442,
+  "EOS_NewPlayers": 439,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.97,
   "EosHistory": [
@@ -19880,6 +19880,11 @@
       "Time": "2023-10-18T18:06:44.635706+00:00",
       "NumProgressed": 22341,
       "NumCompleted": 440
+    },
+    {
+      "Time": "2023-10-18T19:05:16.8454962+00:00",
+      "NumProgressed": 22344,
+      "NumCompleted": 440
     }
   ],
   "TotalAchievements": 20,
@@ -19899,7 +19904,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1340
+      "UsersEstimate": 1341
     },
     {
       "ID": "EAST_FINISHED",
@@ -19939,7 +19944,7 @@
       "Name": "An uninvited guest",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1787
+      "UsersEstimate": 1788
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -19955,7 +19960,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 3351
+      "UsersEstimate": 3352
     },
     {
       "ID": "FOUND_ERIN",
@@ -19971,7 +19976,7 @@
       "Name": "Tails of Stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1340
+      "UsersEstimate": 1341
     },
     {
       "ID": "FOUND_MAMBA",
@@ -19979,7 +19984,7 @@
       "Name": "Baa from the past",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1340
+      "UsersEstimate": 1341
     },
     {
       "ID": "FOUND_RIFT_CAVE",
@@ -19987,7 +19992,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2904
+      "UsersEstimate": 2905
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -19995,7 +20000,7 @@
       "Name": "Written in stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1340
+      "UsersEstimate": 1341
     },
     {
       "ID": "GAME_FINISHED",
@@ -20011,7 +20016,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 17203
+      "UsersEstimate": 17205
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -20019,7 +20024,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 6032
+      "UsersEstimate": 6033
     },
     {
       "ID": "NORTH_FINISHED",
@@ -20027,7 +20032,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2904
+      "UsersEstimate": 2905
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -20035,7 +20040,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1340
+      "UsersEstimate": 1341
     },
     {
       "ID": "WEST_FINISHED",
@@ -20043,22 +20048,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 4021
+      "UsersEstimate": 4022
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 22341,
+      "Progressed": 22344,
       "Completed": 440
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-18T18:06:44.6357054+00:00",
+  "LastChanged_Achievements": "2023-10-18T19:05:16.8454954+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:17.0806119+00:00",
-  "LastUpdate_Ratings": "2023-10-18T18:01:13.1375941+00:00",
-  "LastUpdate_Achievements": "2023-10-18T18:06:44.6358516+00:00"
+  "LastUpdate_Ratings": "2023-10-18T18:59:57.4342247+00:00",
+  "LastUpdate_Achievements": "2023-10-18T19:05:16.8457308+00:00"
 }
