@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1258,9 +1258,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 13213,
+  "EOS_Progressed": 13214,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -12923,6 +12923,11 @@
       "Time": "2023-10-18T17:06:19.7915095+00:00",
       "NumProgressed": 13213,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-10-18T18:09:08.0636533+00:00",
+      "NumProgressed": 13214,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 35,
@@ -13030,7 +13035,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 2510
+      "UsersEstimate": 2511
     },
     {
       "ID": "ACH14",
@@ -13038,7 +13043,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1453
+      "UsersEstimate": 1454
     },
     {
       "ID": "ACH15",
@@ -13110,7 +13115,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3435
+      "UsersEstimate": 3436
     },
     {
       "ID": "ACH24",
@@ -13213,7 +13218,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13213,
+      "Progressed": 13214,
       "Completed": 50
     }
   ],
@@ -13221,8 +13226,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-10-17T06:58:25.4468438+00:00",
-  "LastChanged_Achievements": "2023-10-18T17:06:19.791509+00:00",
+  "LastChanged_Achievements": "2023-10-18T18:09:08.0636526+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:42.8574604+00:00",
-  "LastUpdate_Ratings": "2023-10-18T16:59:32.1674579+00:00",
-  "LastUpdate_Achievements": "2023-10-18T17:06:19.7916107+00:00"
+  "LastUpdate_Ratings": "2023-10-18T18:01:50.8168405+00:00",
+  "LastUpdate_Achievements": "2023-10-18T18:09:08.0637562+00:00"
 }

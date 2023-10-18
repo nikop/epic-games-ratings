@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3546,10 +3546,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4772,
       "NumberOfAwardsMax": 2840
+    },
+    {
+      "Time": "2023-10-18T18:01:48.1613844+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4775,
+      "NumberOfAwardsMax": 2840
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4772,
+  "NumberOfAwards": 4775,
   "NumberOfAwardsMax": 2840,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3599,7 +3605,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 244
+      "Count": 247
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3614,9 +3620,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73623,
+  "EOS_Progressed": 73625,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 206,
+  "EOS_NewPlayers": 207,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -19069,6 +19075,11 @@
       "Time": "2023-10-18T17:05:49.5372189+00:00",
       "NumProgressed": 73623,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-10-18T18:08:31.6934991+00:00",
+      "NumProgressed": 73625,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 61,
@@ -19128,7 +19139,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16933
+      "UsersEstimate": 16934
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -19200,7 +19211,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10307
+      "UsersEstimate": 10308
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -19232,7 +19243,7 @@
       "Name": "Expert Crime Fighter",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 4417
+      "UsersEstimate": 4418
     },
     {
       "ID": "CRIME_FIGHTER_2",
@@ -19320,7 +19331,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 13988
+      "UsersEstimate": 13989
     },
     {
       "ID": "FREEZE_3",
@@ -19328,7 +19339,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10307
+      "UsersEstimate": 10308
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -19384,7 +19395,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25768
+      "UsersEstimate": 25769
     },
     {
       "ID": "HARLEY_2",
@@ -19424,7 +19435,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 38284
+      "UsersEstimate": 38285
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -19456,7 +19467,7 @@
       "Name": "Knighthood",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20614
+      "UsersEstimate": 20615
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -19464,7 +19475,7 @@
       "Name": "A Worthy Successor",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 4417
+      "UsersEstimate": 4418
     },
     {
       "ID": "MYSTERY_01",
@@ -19488,7 +19499,7 @@
       "Name": "Lock and Key",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16933
+      "UsersEstimate": 16934
     },
     {
       "ID": "MYSTERY_04",
@@ -19512,7 +19523,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11043
+      "UsersEstimate": 11044
     },
     {
       "ID": "MYSTERY_07",
@@ -19520,7 +19531,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10307
+      "UsersEstimate": 10308
     },
     {
       "ID": "MYSTERY_08",
@@ -19567,22 +19578,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73623,
+      "Progressed": 73625,
       "Completed": 121
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43903,
+      "Progressed": 43905,
       "Completed": 2669
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-10-18T14:00:00.560959+00:00",
-  "LastChanged_Achievements": "2023-10-18T17:05:49.5372184+00:00",
+  "LastChanged": "2023-10-18T18:01:48.1613843+00:00",
+  "LastChanged_Achievements": "2023-10-18T18:08:31.6934986+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:41.7245252+00:00",
-  "LastUpdate_Ratings": "2023-10-18T16:59:29.9614318+00:00",
-  "LastUpdate_Achievements": "2023-10-18T17:05:49.5373815+00:00"
+  "LastUpdate_Ratings": "2023-10-18T18:01:48.161385+00:00",
+  "LastUpdate_Achievements": "2023-10-18T18:08:31.6936506+00:00"
 }

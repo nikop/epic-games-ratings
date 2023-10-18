@@ -6,37 +6,37 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~722,374 |
-| The Blues | 85.00% | ~620,220 |
-| Fast | 66.00% | ~481,583 |
-| Healthbar | 55.00% | ~401,319 |
-| Force Cube | 53.00% | ~386,726 |
-| Double Jump | 48.00% | ~350,242 |
-| Regeneration | 47.00% | ~342,945 |
-| Triple Jump | 43.00% | ~313,759 |
-| Climb the hill | 42.00% | ~306,462 |
-| Through the fire pipe | 39.00% | ~284,572 |
-| MacGuffin | 38.00% | ~277,275 |
-| Just once | 37.00% | ~269,978 |
-| Armor | 30.00% | ~218,901 |
-| True holy spirit | 28.00% | ~204,308 |
-| That's how electronics work obviously | 27.00% | ~197,011 |
-| Force Cube Catapult | 25.00% | ~182,418 |
-| Holy Sword | 23.00% | ~167,824 |
-| Telefrag | 23.00% | ~167,824 |
-| Freed from prison | 21.00% | ~153,231 |
-| Stomp | 21.00% | ~153,231 |
-| Double Health | 18.00% | ~131,341 |
-| Buckle | 17.00% | ~124,044 |
-| Green Keycard | 17.00% | ~124,044 |
-| Rattle Hag | 16.00% | ~116,747 |
+| Out of bed | 99.00% | ~722,378 |
+| The Blues | 85.00% | ~620,224 |
+| Fast | 66.00% | ~481,586 |
+| Healthbar | 55.00% | ~401,321 |
+| Force Cube | 53.00% | ~386,728 |
+| Double Jump | 48.00% | ~350,244 |
+| Regeneration | 47.00% | ~342,947 |
+| Triple Jump | 43.00% | ~313,760 |
+| Climb the hill | 42.00% | ~306,464 |
+| Through the fire pipe | 39.00% | ~284,573 |
+| MacGuffin | 38.00% | ~277,276 |
+| Just once | 37.00% | ~269,980 |
+| Armor | 30.00% | ~218,902 |
+| True holy spirit | 28.00% | ~204,309 |
+| That's how electronics work obviously | 27.00% | ~197,012 |
+| Force Cube Catapult | 25.00% | ~182,419 |
+| Holy Sword | 23.00% | ~167,825 |
+| Telefrag | 23.00% | ~167,825 |
+| Freed from prison | 21.00% | ~153,232 |
+| Stomp | 21.00% | ~153,232 |
+| Double Health | 18.00% | ~131,342 |
+| Buckle | 17.00% | ~124,045 |
+| Green Keycard | 17.00% | ~124,045 |
+| Rattle Hag | 16.00% | ~116,748 |
 | All Shells | 15.00% | ~109,451 |
-| Beam | 14.00% | ~102,154 |
-| Health Drink | 13.00% | ~94,857 |
-| Helped a star | 13.00% | ~94,857 |
-| 9 | 13.00% | ~94,857 |
-| Purple Cube | 13.00% | ~94,857 |
-| Supraball Noob | 13.00% | ~94,857 |
+| Beam | 14.00% | ~102,155 |
+| Health Drink | 13.00% | ~94,858 |
+| Helped a star | 13.00% | ~94,858 |
+| 9 | 13.00% | ~94,858 |
+| Purple Cube | 13.00% | ~94,858 |
+| Supraball Noob | 13.00% | ~94,858 |
 | Strong | 12.00% | ~87,561 |
 | Blue King's lair | 11.00% | ~80,264 |
 | Payback | 11.00% | ~80,264 |
@@ -44,25 +44,25 @@ Number of Ratings: 25,175  (23.09.2022)
 | Got the gun back | 11.00% | ~80,264 |
 | Infiltrated | 11.00% | ~80,264 |
 | Robbed | 11.00% | ~80,264 |
-| Fire Flies | 10.00% | ~72,967 |
-| Cave Flies | 10.00% | ~72,967 |
-| Gold Scam | 10.00% | ~72,967 |
-| Gold Scam Uncovered | 10.00% | ~72,967 |
-| Panic Lights | 10.00% | ~72,967 |
-| Translocator | 10.00% | ~72,967 |
-| Yellow Shot Button | 10.00% | ~72,967 |
-| Moon Door | 9.00% | ~65,670 |
-| Momentum | 9.00% | ~65,670 |
-| Through the tiny pipe | 9.00% | ~65,670 |
-| Win! | 9.00% | ~65,670 |
+| Fire Flies | 10.00% | ~72,968 |
+| Cave Flies | 10.00% | ~72,968 |
+| Gold Scam | 10.00% | ~72,968 |
+| Gold Scam Uncovered | 10.00% | ~72,968 |
+| Panic Lights | 10.00% | ~72,968 |
+| Translocator | 10.00% | ~72,968 |
+| Yellow Shot Button | 10.00% | ~72,968 |
+| Moon Door | 9.00% | ~65,671 |
+| Momentum | 9.00% | ~65,671 |
+| Through the tiny pipe | 9.00% | ~65,671 |
+| Win! | 9.00% | ~65,671 |
 | The real real teleported man | 8.00% | ~58,374 |
 | Well deserved | 6.00% | ~43,780 |
 | Happiness | 3.00% | ~21,890 |
 | Super Sword | 3.00% | ~21,890 |
-| All Chests | 2.00% | ~14,593 |
-| Poor ancestors | 2.00% | ~14,593 |
-| Shelf filled | 2.00% | ~14,593 |
-| Invisible Wall | 2.00% | ~14,593 |
+| All Chests | 2.00% | ~14,594 |
+| Poor ancestors | 2.00% | ~14,594 |
+| Shelf filled | 2.00% | ~14,594 |
+| Invisible Wall | 2.00% | ~14,594 |
 | Groupies | 1.00% | ~7,297 |
 | Jesus Christ Suprastar | 1.00% | ~7,297 |
 | Redstone Pickaxe | 1.00% | ~7,297 |
@@ -81,6 +81,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: Obvious Area | 0.50% | ~3,648 |
 | DLC: Race the First | 0.50% | ~3,648 |
 | DLC: No-ball Winner | 0.50% | ~3,648 |
+| DLC: Race the Gauntlet | 0.50% | ~3,648 |
 | DLC: Finding Sideburg | 0.50% | ~3,648 |
 | DLC: Welcome to Orangeburg | 0.50% | ~3,648 |
 | DLC: A Wrinkle in Spacetime | 0.50% | ~3,648 |
@@ -89,7 +90,6 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: Crashed for the final time (again) | 0.40% | ~2,919 |
 | DLC: South of the wall | 0.40% | ~2,919 |
 | DLC: Tough Guy, Eh? | 0.40% | ~2,919 |
-| DLC: Race the Gauntlet | 0.40% | ~2,919 |
 | DLC: City Sprinter | 0.40% | ~2,919 |
 | DLC: Knocked him out | 0.40% | ~2,919 |
 | DLC: Thrown | 0.40% | ~2,919 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~730 |
 | DLC: Top of the world | 0.10% | ~730 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 729,671 (Ranked 19)  
+Progressed: 729,675 (Ranked 19)  
 Completed: 748 (0.10%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,10 +286,10 @@ Completed: 748 (0.10%) (Ranked 249)
 | 2023-10-15 | 729,425 | 748 |
 | 2023-10-16 | 729,505 | 748 |
 | 2023-10-17 | 729,601 | 748 |
-| 2023-10-18 | 729,671 | 748 |
+| 2023-10-18 | 729,675 | 748 |
 ## Awards
 Max (Challenging Puzzles): 7,702  (Ranked 47)  
-Sum: 10,041 (Ranked 90)  
+Sum: 10,042 (Ranked 90)  
 Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
@@ -303,7 +303,7 @@ Diff (max vs sum): -43
 | This game is Extremely Fun | 260 |
 | This game has Obsessive Gameplay | 243 |
 | This game is Highly Recommended | 237 |
-| This game has a Creative Community | 193 |
+| This game has a Creative Community | 194 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -474,3 +474,4 @@ Diff (max vs sum): -43
 | 2023-10-13 | 4.61 | - | 7,697 | 10,036 |
 | 2023-10-14 | 4.61 | - | 7,699 | 10,038 |
 | 2023-10-16 | 4.61 | - | 7,702 | 10,041 |
+| 2023-10-18 | 4.61 | - | 7,702 | 10,042 |

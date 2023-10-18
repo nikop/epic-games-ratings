@@ -5,14 +5,14 @@ Rating: 4.15 (Ranked 919)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 10.00% | ~4,217 |
-| Unlocked Potential | 9.00% | ~3,795 |
+| Attachments | 10.00% | ~4,218 |
+| Unlocked Potential | 9.00% | ~3,796 |
 | Tinkerer | 7.00% | ~2,952 |
 | Knock 'Em Dead | 7.00% | ~2,952 |
-| Leapfrogger | 6.00% | ~2,530 |
-| Pilgrimage: Initiate | 6.00% | ~2,530 |
-| Hell of a Run | 6.00% | ~2,530 |
-| Call of the Fount: Baptized | 6.00% | ~2,530 |
+| Leapfrogger | 6.00% | ~2,531 |
+| Pilgrimage: Initiate | 6.00% | ~2,531 |
+| Hell of a Run | 6.00% | ~2,531 |
+| Call of the Fount: Baptized | 6.00% | ~2,531 |
 | No Mercy | 5.00% | ~2,109 |
 | Explorer: Seeker | 5.00% | ~2,109 |
 | Through the Eyes of Another: Empath | 4.00% | ~1,687 |
@@ -22,12 +22,12 @@ Rating: 4.15 (Ranked 919)
 | The Interloper | 3.00% | ~1,265 |
 | Hop, Step, Jump | 3.00% | ~1,265 |
 | Endless Runner | 3.00% | ~1,265 |
-| What Must Be Done | 2.00% | ~843 |
-| Might and Main | 2.00% | ~843 |
-| Damned If You Do... | 2.00% | ~843 |
-| Explorer: Pathfinder | 2.00% | ~843 |
-| Shocker | 2.00% | ~843 |
-| From Every Angle | 2.00% | ~843 |
+| What Must Be Done | 2.00% | ~844 |
+| Might and Main | 2.00% | ~844 |
+| Damned If You Do... | 2.00% | ~844 |
+| Explorer: Pathfinder | 2.00% | ~844 |
+| Shocker | 2.00% | ~844 |
+| From Every Angle | 2.00% | ~844 |
 | The Hue of Blue | 1.00% | ~422 |
 | The Truth Will Out | 1.00% | ~422 |
 | Breaking Point | 1.00% | ~422 |
@@ -59,7 +59,7 @@ Rating: 4.15 (Ranked 919)
 | Remembrance | 0.10% | ~42 |
 | Cat Person | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,172 (Ranked 109)  
+Progressed: 42,176 (Ranked 109)  
 Completed: 3 (0.01%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,7 +240,7 @@ Completed: 3 (0.01%) (Ranked 298)
 | 2023-10-15 | 42,132 | 3 |
 | 2023-10-16 | 42,149 | 3 |
 | 2023-10-17 | 42,164 | 3 |
-| 2023-10-18 | 42,172 | 3 |
+| 2023-10-18 | 42,176 | 3 |
 ## Awards
 Max (Character Customization): 28  (Ranked 485)  
 Sum: 28 (Ranked 499)  

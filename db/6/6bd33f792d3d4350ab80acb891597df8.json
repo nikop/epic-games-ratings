@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 419,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 339,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2022-12-23T00:00:00+00:00",
@@ -365,9 +365,9 @@
       "ID": "CgkIxYDzrbcPEAIQAQ",
       "SetID": "4egpam7",
       "Name": "Catacomb Crawl",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 30,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "CgkIxYDzrbcPEAIQAg",
@@ -437,9 +437,9 @@
       "ID": "CgkIxYDzrbcPEAIQCg",
       "SetID": "4egpam7",
       "Name": "Pest Control",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "CgkIxYDzrbcPEAIQCw",
@@ -597,9 +597,9 @@
       "ID": "CgkIxYDzrbcPEAIQHg",
       "SetID": "4egpam7",
       "Name": "Curious Soul",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     }
   ],
   "AchievementSets": [
@@ -612,8 +612,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-10-18T17:04:27.468005+00:00",
+  "LastChanged_Achievements": "2023-10-18T18:06:55.1738934+00:00",
   "LastUpdate_AppInfo": "2023-10-17T20:57:04.7484883+00:00",
-  "LastUpdate_Ratings": "2023-10-18T16:57:34.5437258+00:00",
-  "LastUpdate_Achievements": "2023-10-18T17:04:27.4680267+00:00"
+  "LastUpdate_Ratings": "2023-10-18T17:59:36.0455708+00:00",
+  "LastUpdate_Achievements": "2023-10-18T18:06:55.1739219+00:00"
 }

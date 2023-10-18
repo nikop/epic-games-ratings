@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1144,9 +1144,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 152985,
+  "EOS_Progressed": 153002,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1508,
+  "EOS_NewPlayers": 1525,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12099,6 +12099,11 @@
       "Time": "2023-10-18T17:05:05.9682602+00:00",
       "NumProgressed": 152985,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-18T18:07:40.804663+00:00",
+      "NumProgressed": 153002,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -12212,9 +12217,9 @@
       "ID": "DEFEAT_FLOWERHEART",
       "SetID": "72k7oh",
       "Name": "Scion",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 763
+      "UsersEstimate": 916
     },
     {
       "ID": "DEFEAT_FLOWERROCKGIANT",
@@ -12477,21 +12482,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 152568,
+      "Progressed": 152585,
       "Completed": 1162
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 152985,
+      "Progressed": 153002,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-18T04:02:06.6107489+00:00",
-  "LastChanged_Achievements": "2023-10-18T17:05:05.9682597+00:00",
+  "LastChanged_Achievements": "2023-10-18T18:07:40.804662+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:33.8479674+00:00",
-  "LastUpdate_Ratings": "2023-10-18T16:57:24.5062465+00:00",
-  "LastUpdate_Achievements": "2023-10-18T17:05:05.968375+00:00"
+  "LastUpdate_Ratings": "2023-10-18T17:59:26.2327344+00:00",
+  "LastUpdate_Achievements": "2023-10-18T18:07:40.8048044+00:00"
 }

@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Entrance of the Gladiators | 0.10% | ~198 |
 | Time Out | 0.10% | ~198 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,164 (Ranked 59)  
+Progressed: 232,169 (Ranked 59)  
 Completed: 2,371 (1.02%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -716,7 +716,7 @@ Completed: 2,371 (1.02%) (Ranked 146)
 | 2023-10-15 | 231,955 | 2,364 |
 | 2023-10-16 | 232,030 | 2,366 |
 | 2023-10-17 | 232,098 | 2,367 |
-| 2023-10-18 | 232,164 | 2,371 |
+| 2023-10-18 | 232,169 | 2,371 |
 ## Awards
 Max (Diverse Characters): 5,413  (Ranked 69)  
 Sum: 32,091 (Ranked 41)  

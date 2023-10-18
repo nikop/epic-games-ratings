@@ -8,13 +8,13 @@ Number of Ratings: 285  (23.09.2022)
 | ---- | ---------- | ----- |
 | Faceroll the Bones | 24.00% | ~1,015 |
 | Hit 'Em Where It Hurts | 23.00% | ~973 |
+| That'll Leave a Mark | 23.00% | ~973 |
 | Debuff Dogpile | 22.00% | ~931 |
 | Perk Shard Punch Card | 22.00% | ~931 |
-| That'll Leave a Mark | 22.00% | ~931 |
 | Mushroom Madness! | 21.00% | ~888 |
 | First Strike | 18.00% | ~761 |
+| Spending Spree | 18.00% | ~761 |
 | Horder Better Faster Stronger | 17.00% | ~719 |
-| Spending Spree | 17.00% | ~719 |
 | Everything Must Go! | 14.00% | ~592 |
 | Ten Steps from the Grave | 14.00% | ~592 |
 | Next Time on MythForce... | 13.00% | ~550 |

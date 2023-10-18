@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 575)
 | Mycophile | 0.10% | ~27 |
 | Ultimate Defense | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,576 (Ranked 117)  
+Progressed: 26,578 (Ranked 117)  
 Completed: 59 (0.22%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,18 +238,18 @@ Completed: 59 (0.22%) (Ranked 220)
 | 2023-10-15 | 26,505 | 58 |
 | 2023-10-16 | 26,537 | 58 |
 | 2023-10-17 | 26,559 | 58 |
-| 2023-10-18 | 26,576 | 59 |
+| 2023-10-18 | 26,578 | 59 |
 ## Awards
 Max (Great for Quick Sessions): 264  (Ranked 257)  
-Sum: 2,404 (Ranked 188)  
+Sum: 2,405 (Ranked 188)  
 Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 264 |
 | This game is Great for Beginners | 262 |
 | This game has Competitive Players | 243 |
+| This game has Amazing Storytelling | 241 |
 | This game is Extremely Fun | 240 |
-| This game has Amazing Storytelling | 240 |
 | This game has Diverse Characters | 236 |
 | This game is Relaxing | 236 |
 | This game is Highly Recommended | 235 |
@@ -444,4 +444,4 @@ Diff (max vs sum): 69
 | 2023-10-15 | 4.50 | 262 | 2,392 |
 | 2023-10-16 | 4.50 | 264 | 2,398 |
 | 2023-10-17 | 4.50 | 264 | 2,400 |
-| 2023-10-18 | 4.50 | 264 | 2,404 |
+| 2023-10-18 | 4.50 | 264 | 2,405 |

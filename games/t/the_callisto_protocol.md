@@ -28,8 +28,8 @@ Rating: 4.19 (Ranked 895)
 | Giving Back | 3.00% | ~481 |
 | Terminated | 3.00% | ~481 |
 | Desperate Times | 3.00% | ~481 |
-| In Striking Distance | 2.00% | ~320 |
-| The Commonality | 2.00% | ~320 |
+| In Striking Distance | 2.00% | ~321 |
+| The Commonality | 2.00% | ~321 |
 | One Last Job | 2.00% | ~79 |
 | This Isn't About Escape | 1.00% | ~40 |
 | Armed to the Teeth | 0.70% | ~28 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 895)
 | Hoard Mode | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,025 (Ranked 133)  
+Progressed: 16,027 (Ranked 133)  
 Completed: 75 (0.47%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 75 (0.47%) (Ranked 180)
 | 2023-10-15 | 16,014 | 74 |
 | 2023-10-16 | 16,015 | 75 |
 | 2023-10-17 | 16,022 | 75 |
-| 2023-10-18 | 16,025 | 75 |
+| 2023-10-18 | 16,027 | 75 |
 ## Awards
 Max (Highly Recommended): 76  (Ranked 379)  
 Sum: 447 (Ranked 324)  

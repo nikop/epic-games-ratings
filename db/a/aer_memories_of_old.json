@@ -410,9 +410,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22339,
+  "EOS_Progressed": 22341,
   "EOS_Completed": 440,
-  "EOS_NewPlayers": 443,
+  "EOS_NewPlayers": 442,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.97,
   "EosHistory": [
@@ -19875,6 +19875,11 @@
       "Time": "2023-10-18T17:04:18.624084+00:00",
       "NumProgressed": 22339,
       "NumCompleted": 440
+    },
+    {
+      "Time": "2023-10-18T18:06:44.635706+00:00",
+      "NumProgressed": 22341,
+      "NumCompleted": 440
     }
   ],
   "TotalAchievements": 20,
@@ -19902,7 +19907,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3127
+      "UsersEstimate": 3128
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -19918,7 +19923,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2457
+      "UsersEstimate": 2458
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -20006,7 +20011,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 17201
+      "UsersEstimate": 17203
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -20045,15 +20050,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 22339,
+      "Progressed": 22341,
       "Completed": 440
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-18T17:04:18.6240835+00:00",
+  "LastChanged_Achievements": "2023-10-18T18:06:44.6357054+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:17.0806119+00:00",
-  "LastUpdate_Ratings": "2023-10-18T16:58:58.4057895+00:00",
-  "LastUpdate_Achievements": "2023-10-18T17:04:18.624227+00:00"
+  "LastUpdate_Ratings": "2023-10-18T18:01:13.1375941+00:00",
+  "LastUpdate_Achievements": "2023-10-18T18:06:44.6358516+00:00"
 }

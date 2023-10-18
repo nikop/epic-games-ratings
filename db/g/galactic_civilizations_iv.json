@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 286,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -912,7 +912,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 6857,
+  "EOS_Progressed": 6858,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
@@ -7102,6 +7102,11 @@
       "Time": "2023-10-18T16:06:14.5158035+00:00",
       "NumProgressed": 6857,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-18T18:08:05.1779821+00:00",
+      "NumProgressed": 6858,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -7153,7 +7158,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 4251
+      "UsersEstimate": 4252
     },
     {
       "ID": "Control_All_Relics",
@@ -7177,7 +7182,7 @@
       "Name": "Xenocide",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2194
+      "UsersEstimate": 2195
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -7193,7 +7198,7 @@
       "Name": "Design a Civilization",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 2194
+      "UsersEstimate": 2195
     },
     {
       "ID": "First_Major_Ally",
@@ -7217,7 +7222,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5348
+      "UsersEstimate": 5349
     },
     {
       "ID": "First_Race_Met",
@@ -7249,7 +7254,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5348
+      "UsersEstimate": 5349
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -7329,7 +7334,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2331
+      "UsersEstimate": 2332
     },
     {
       "ID": "Play_1000_Hours",
@@ -7688,15 +7693,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6857,
+      "Progressed": 6858,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-10-18T17:05:26.4201287+00:00",
+  "LastChanged_Achievements": "2023-10-18T18:08:05.1779815+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:21.0832103+00:00",
-  "LastUpdate_Ratings": "2023-10-18T16:58:21.2155985+00:00",
-  "LastUpdate_Achievements": "2023-10-18T17:05:26.4202426+00:00"
+  "LastUpdate_Ratings": "2023-10-18T18:00:31.1661765+00:00",
+  "LastUpdate_Achievements": "2023-10-18T18:08:05.1781066+00:00"
 }

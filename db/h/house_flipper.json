@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 196,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -1950,7 +1950,7 @@
       "Count": 216
     }
   ],
-  "EOS_Progressed": 20957,
+  "EOS_Progressed": 20958,
   "EOS_Completed": 21,
   "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
@@ -9230,6 +9230,11 @@
       "Time": "2023-10-18T15:03:22.5490789+00:00",
       "NumProgressed": 20957,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-10-18T18:05:55.179369+00:00",
+      "NumProgressed": 20958,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -9241,7 +9246,7 @@
       "Name": "Family man",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2724
+      "UsersEstimate": 2725
     },
     {
       "ID": "CarMechanic",
@@ -9289,7 +9294,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 19909
+      "UsersEstimate": 19910
     },
     {
       "ID": "GameOver",
@@ -9329,7 +9334,7 @@
       "Name": "Junior Estate Agent",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2724
+      "UsersEstimate": 2725
     },
     {
       "ID": "KnockKnock",
@@ -9377,7 +9382,7 @@
       "Name": "Alpha Male",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4191
+      "UsersEstimate": 4192
     },
     {
       "ID": "SeniorEstateAgent",
@@ -9424,15 +9429,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 20957,
+      "Progressed": 20958,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-10-15T04:01:12.0081926+00:00",
-  "LastChanged_Achievements": "2023-10-18T17:03:37.444624+00:00",
+  "LastChanged_Achievements": "2023-10-18T18:05:55.1793685+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:53.7092922+00:00",
-  "LastUpdate_Ratings": "2023-10-18T16:58:09.2422823+00:00",
-  "LastUpdate_Achievements": "2023-10-18T17:03:37.444688+00:00"
+  "LastUpdate_Ratings": "2023-10-18T18:00:17.8773861+00:00",
+  "LastUpdate_Achievements": "2023-10-18T18:05:55.1794386+00:00"
 }

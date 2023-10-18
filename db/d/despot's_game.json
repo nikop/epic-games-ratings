@@ -5,10 +5,10 @@
   "Ranking_Rating": 575,
   "Ranking_Popularity": 538,
   "Ranking_PopularitySum": 538,
-  "Ranking_EOS_Progress": 286,
+  "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 398,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 430,
+  "EOS_Progressed": 431,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -435,6 +435,11 @@
       "Time": "2023-10-07T19:03:47.070356+00:00",
       "NumProgressed": 430,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-18T18:06:05.6676707+00:00",
+      "NumProgressed": 431,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -526,7 +531,7 @@
       "Name": "Impossible Cube",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "finished-quest-flight",
@@ -534,7 +539,7 @@
       "Name": "Great Flight",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "finished-quest-monster",
@@ -582,7 +587,7 @@
       "Name": "Knowledge is Power",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "finished-quest-secret",
@@ -614,7 +619,7 @@
       "Name": "He\u0027s Seen It All",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "last-hero",
@@ -654,7 +659,7 @@
       "Name": "Great Hero",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "win-first-biom",
@@ -662,7 +667,7 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "win-first-level",
@@ -725,7 +730,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 430,
+      "Progressed": 431,
       "Completed": 1
     }
   ],
@@ -733,8 +738,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-10-18T17:03:45.7770892+00:00",
+  "LastChanged_Achievements": "2023-10-18T18:06:05.6676702+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:59.2116751+00:00",
-  "LastUpdate_Ratings": "2023-10-18T16:58:35.0605093+00:00",
-  "LastUpdate_Achievements": "2023-10-18T17:03:45.7771201+00:00"
+  "LastUpdate_Ratings": "2023-10-18T18:00:47.3606203+00:00",
+  "LastUpdate_Achievements": "2023-10-18T18:06:05.6677057+00:00"
 }

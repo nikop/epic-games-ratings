@@ -6,55 +6,55 @@ Number of Ratings: 1,225  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~395,300 |
-| Happy Returns | 78.00% | ~380,660 |
-| Hey! That's mine! | 78.00% | ~380,660 |
-| Field Promotion | 74.00% | ~361,138 |
-| Leadhead | 71.00% | ~346,498 |
-| Eradicator | 67.00% | ~326,977 |
-| Surplus | 65.00% | ~317,216 |
-| I Spy | 64.00% | ~312,336 |
-| Burn Baby Burn | 59.00% | ~287,935 |
-| Yellow Beats Green | 56.00% | ~273,294 |
-| Salvage Rights | 53.00% | ~258,653 |
-| Close Call | 50.00% | ~244,012 |
-| Pew Pew | 50.00% | ~244,012 |
-| What IS that? | 50.00% | ~244,012 |
-| Penny Pincher | 49.00% | ~239,132 |
-| Arsenal | 46.00% | ~224,492 |
-| Boot Camp | 45.00% | ~219,611 |
-| Flawless Victory | 42.00% | ~204,970 |
-| Confident | 41.00% | ~200,090 |
-| Exterminator | 36.00% | ~175,689 |
-| Sharpshooter | 34.00% | ~165,928 |
-| Not So Fast | 33.00% | ~161,048 |
-| Great Ball of Fire | 32.00% | ~156,168 |
-| No Sale | 31.00% | ~151,288 |
-| Kaboom! | 30.00% | ~146,408 |
-| Liquidator | 29.00% | ~141,527 |
-| High Voltage | 24.00% | ~117,126 |
-| Filthy Rich | 19.00% | ~92,725 |
-| The Not-So-Friendly Skies | 18.00% | ~87,844 |
-| Power Builder | 17.00% | ~82,964 |
-| Pyrrhic Victory | 17.00% | ~82,964 |
-| Death From Above | 16.00% | ~78,084 |
-| Retry | 16.00% | ~78,084 |
-| Head Trauma | 12.00% | ~58,563 |
-| Full Defense | 10.00% | ~48,802 |
-| Overseer | 9.00% | ~43,922 |
+| First Blood | 81.00% | ~395,304 |
+| Happy Returns | 78.00% | ~380,663 |
+| Hey! That's mine! | 78.00% | ~380,663 |
+| Field Promotion | 74.00% | ~361,142 |
+| Leadhead | 71.00% | ~346,501 |
+| Eradicator | 67.00% | ~326,980 |
+| Surplus | 65.00% | ~317,220 |
+| I Spy | 64.00% | ~312,339 |
+| Burn Baby Burn | 59.00% | ~287,938 |
+| Yellow Beats Green | 56.00% | ~273,297 |
+| Salvage Rights | 53.00% | ~258,656 |
+| Close Call | 50.00% | ~244,015 |
+| Pew Pew | 50.00% | ~244,015 |
+| What IS that? | 50.00% | ~244,015 |
+| Penny Pincher | 49.00% | ~239,135 |
+| Arsenal | 46.00% | ~224,494 |
+| Boot Camp | 45.00% | ~219,614 |
+| Flawless Victory | 42.00% | ~204,973 |
+| Confident | 41.00% | ~200,092 |
+| Exterminator | 36.00% | ~175,691 |
+| Sharpshooter | 34.00% | ~165,930 |
+| Not So Fast | 33.00% | ~161,050 |
+| Great Ball of Fire | 32.00% | ~156,170 |
+| No Sale | 31.00% | ~151,289 |
+| Kaboom! | 30.00% | ~146,409 |
+| Liquidator | 29.00% | ~141,529 |
+| High Voltage | 24.00% | ~117,127 |
+| Filthy Rich | 19.00% | ~92,726 |
+| The Not-So-Friendly Skies | 18.00% | ~87,845 |
+| Power Builder | 17.00% | ~82,965 |
+| Pyrrhic Victory | 17.00% | ~82,965 |
+| Death From Above | 16.00% | ~78,085 |
+| Retry | 16.00% | ~78,085 |
+| Head Trauma | 12.00% | ~58,564 |
+| Full Defense | 10.00% | ~48,803 |
+| Overseer | 9.00% | ~43,923 |
 | Annihilator | 8.00% | ~39,042 |
 | If At First You Don't Succeed, Retry Again | 8.00% | ~39,042 |
 | Indecisive | 6.00% | ~29,282 |
-| Base Defender | 5.00% | ~24,401 |
-| Relay Race | 5.00% | ~24,401 |
+| Base Defender | 5.00% | ~24,402 |
+| Relay Race | 5.00% | ~24,402 |
 | Tower Expert | 4.00% | ~19,521 |
 | Diversity | 3.00% | ~14,641 |
 | Full Potential | 3.00% | ~14,641 |
-| Minimalist | 2.00% | ~9,760 |
-| Nail Biter | 2.00% | ~9,760 |
-| Siege Breaker | 2.00% | ~9,760 |
-| The Long Road | 2.00% | ~9,760 |
-| Untouchable | 2.00% | ~9,760 |
+| Minimalist | 2.00% | ~9,761 |
+| Nail Biter | 2.00% | ~9,761 |
+| Siege Breaker | 2.00% | ~9,761 |
+| The Long Road | 2.00% | ~9,761 |
+| Untouchable | 2.00% | ~9,761 |
 | Flurry | 1.00% | ~4,880 |
 | Gun Crazy | 1.00% | ~4,880 |
 | Well Invested | 1.00% | ~4,880 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~488 |
 | You Monster | 0.10% | ~488 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 488,025 (Ranked 35)  
+Progressed: 488,030 (Ranked 35)  
 Completed: 4 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,10 +275,10 @@ Completed: 4 (0.00%) (Ranked 316)
 | 2023-10-15 | 487,902 | 4 |
 | 2023-10-16 | 487,936 | 4 |
 | 2023-10-17 | 488,001 | 4 |
-| 2023-10-18 | 488,025 | 4 |
+| 2023-10-18 | 488,030 | 4 |
 ## Awards
 Max (Great for Beginners): 254  (Ranked 260)  
-Sum: 1,699 (Ranked 213)  
+Sum: 1,700 (Ranked 213)  
 Diff (max vs sum): 47  
 | Award | Count |
 | ----- | ----- |
@@ -286,7 +286,7 @@ Diff (max vs sum): 47
 | This game has Quickly Understood Controls | 226 |
 | This game is Relaxing | 217 |
 | This game is Extremely Fun | 204 |
-| This game is Highly Recommended | 191 |
+| This game is Highly Recommended | 192 |
 | This game has Challenging Combat | 184 |
 | This game has Amazing Storytelling | 180 |
 | This game has Amazing Characters | 171 |
@@ -426,3 +426,4 @@ Diff (max vs sum): 47
 | 2023-10-06 | 4.45 | - | 251 | 1,695 |
 | 2023-10-11 | 4.45 | - | 252 | 1,697 |
 | 2023-10-13 | 4.45 | - | 254 | 1,699 |
+| 2023-10-18 | 4.45 | - | 254 | 1,700 |

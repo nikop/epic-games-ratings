@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -9162,7 +9162,7 @@
       "Count": 722
     }
   ],
-  "EOS_Progressed": 298541,
+  "EOS_Progressed": 298543,
   "EOS_Completed": 488,
   "EOS_NewPlayers": 374,
   "EOS_NewCompleters": 5,
@@ -28562,6 +28562,11 @@
       "Time": "2023-10-18T17:05:53.4445733+00:00",
       "NumProgressed": 298541,
       "NumCompleted": 488
+    },
+    {
+      "Time": "2023-10-18T18:08:36.5004231+00:00",
+      "NumProgressed": 298543,
+      "NumCompleted": 488
     }
   ],
   "TotalAchievements": 45,
@@ -28613,7 +28618,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 17912
+      "UsersEstimate": 17913
     },
     {
       "ID": "PFA_15",
@@ -28709,7 +28714,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 17912
+      "UsersEstimate": 17913
     },
     {
       "ID": "PFA_26",
@@ -28741,7 +28746,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 17912
+      "UsersEstimate": 17913
     },
     {
       "ID": "PFA_3",
@@ -28861,7 +28866,7 @@
       "Name": "Raising Expectations",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 17912
+      "UsersEstimate": 17913
     },
     {
       "ID": "PFA_43",
@@ -28901,7 +28906,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38810
+      "UsersEstimate": 38811
     },
     {
       "ID": "PFA_7",
@@ -28909,7 +28914,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38810
+      "UsersEstimate": 38811
     },
     {
       "ID": "PFA_8",
@@ -28932,7 +28937,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298541,
+      "Progressed": 298543,
       "Completed": 488
     }
   ],
@@ -28940,8 +28945,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-18T15:58:13.7892702+00:00",
-  "LastChanged_Achievements": "2023-10-18T17:05:53.4445729+00:00",
+  "LastChanged_Achievements": "2023-10-18T18:08:36.5004223+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:16.623812+00:00",
-  "LastUpdate_Ratings": "2023-10-18T16:58:06.4920078+00:00",
-  "LastUpdate_Achievements": "2023-10-18T17:05:53.444715+00:00"
+  "LastUpdate_Ratings": "2023-10-18T18:00:14.3299985+00:00",
+  "LastUpdate_Achievements": "2023-10-18T18:08:36.5005923+00:00"
 }

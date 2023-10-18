@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 324,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1304,9 +1304,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 16025,
+  "EOS_Progressed": 16027,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -7519,6 +7519,11 @@
       "Time": "2023-10-18T14:04:17.283644+00:00",
       "NumProgressed": 16025,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2023-10-18T18:05:55.4516851+00:00",
+      "NumProgressed": 16027,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 47,
@@ -7642,7 +7647,7 @@
       "Name": "In Striking Distance",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "KILL_2HEAD",
@@ -7682,7 +7687,7 @@
       "Name": "The Commonality",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -7905,13 +7910,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16025,
+      "Progressed": 16027,
       "Completed": 75
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3951,
+      "Progressed": 3953,
       "Completed": 29
     }
   ],
@@ -7919,8 +7924,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-10-16T18:03:02.4692594+00:00",
-  "LastChanged_Achievements": "2023-10-18T17:03:37.6540963+00:00",
+  "LastChanged_Achievements": "2023-10-18T18:05:55.4516845+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:28.7445303+00:00",
-  "LastUpdate_Ratings": "2023-10-18T17:00:56.7475006+00:00",
-  "LastUpdate_Achievements": "2023-10-18T17:03:37.654178+00:00"
+  "LastUpdate_Ratings": "2023-10-18T18:04:09.1109075+00:00",
+  "LastUpdate_Achievements": "2023-10-18T18:05:55.451813+00:00"
 }

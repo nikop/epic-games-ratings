@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shipwrecked! | 78.00% | ~14 |
-| Sea Legs | 72.00% | ~13 |
-| What?! | 44.00% | ~8 |
-| Frogs Legs | 33.00% | ~6 |
-| Mad Scientist | 28.00% | ~5 |
-| Socialite | 22.00% | ~4 |
-| Hoist the Sails | 22.00% | ~4 |
-| Secure the Sheets | 22.00% | ~4 |
-| Who Even Needs Keys | 17.00% | ~3 |
-| Shrub-Seeing: Silly Birbs | 17.00% | ~3 |
-| Couch-surfing | 17.00% | ~3 |
-| Replace the Rudder | 17.00% | ~3 |
+| Shipwrecked! | 79.00% | ~15 |
+| Sea Legs | 68.00% | ~13 |
+| What?! | 42.00% | ~8 |
+| Frogs Legs | 32.00% | ~6 |
+| Mad Scientist | 26.00% | ~5 |
+| Socialite | 21.00% | ~4 |
+| Hoist the Sails | 21.00% | ~4 |
+| Secure the Sheets | 21.00% | ~4 |
+| Who Even Needs Keys | 16.00% | ~3 |
+| Shrub-Seeing: Silly Birbs | 16.00% | ~3 |
+| Couch-surfing | 16.00% | ~3 |
+| Replace the Rudder | 16.00% | ~3 |
 | Shrub-Seeing: Townlife | 11.00% | ~2 |
 | Shrub-Seeing: Ruins of old | 11.00% | ~2 |
 | Yeet! | 11.00% | ~2 |
@@ -26,22 +26,22 @@
 | Bank of Me | 11.00% | ~2 |
 | Hands on the Helm | 11.00% | ~2 |
 | The Journey Continues | 11.00% | ~2 |
-| Crunch Time | 6.00% | ~1 |
-| One with the frogs | 6.00% | ~1 |
-| Shrub-Seeing: Lights in the sky | 6.00% | ~1 |
-| Shrub-Seeing: Ancient Extractor | 6.00% | ~1 |
-| Shrub-Seeing: Seen it all! | 6.00% | ~1 |
-| Honey, I'm Home | 6.00% | ~1 |
-| Return to sender | 6.00% | ~1 |
-| Fantastic Fungi | 6.00% | ~1 |
-| Vandal | 6.00% | ~1 |
-| Just Here for the Food | 6.00% | ~1 |
-| Home Sweet Home | 6.00% | ~1 |
-| Falling with Style | 6.00% | ~1 |
-| Froggy Friendship | 6.00% | ~1 |
+| Crunch Time | 5.00% | ~1 |
+| One with the frogs | 5.00% | ~1 |
+| Shrub-Seeing: Lights in the sky | 5.00% | ~1 |
+| Shrub-Seeing: Ancient Extractor | 5.00% | ~1 |
+| Shrub-Seeing: Seen it all! | 5.00% | ~1 |
+| Honey, I'm Home | 5.00% | ~1 |
+| Return to sender | 5.00% | ~1 |
+| Fantastic Fungi | 5.00% | ~1 |
+| Vandal | 5.00% | ~1 |
+| Just Here for the Food | 5.00% | ~1 |
+| Home Sweet Home | 5.00% | ~1 |
+| Falling with Style | 5.00% | ~1 |
+| Froggy Friendship | 5.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18 (Ranked 496)  
-Completed: 1 (5.56%) (Ranked 61)  
+Progressed: 19 (Ranked 494)  
+Completed: 1 (5.26%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -60,6 +60,7 @@ Completed: 1 (5.56%) (Ranked 61)
 | 2023-10-09 | 17 | 0 |
 | 2023-10-12 | 17 | 1 |
 | 2023-10-15 | 18 | 1 |
+| 2023-10-18 | 19 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

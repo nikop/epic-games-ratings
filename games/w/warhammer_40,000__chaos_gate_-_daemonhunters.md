@@ -53,6 +53,7 @@ Number of Ratings: 371  (23.09.2022)
 | The Flesh is Weak | 0.20% | ~7 |
 | Blood and Iron | 0.20% | ~7 |
 | Clean Slate | 0.20% | ~7 |
+| Phalanx | 0.20% | ~7 |
 | Strategic Command | 0.20% | ~7 |
 | Abomination | 0.20% | ~7 |
 | Killing Rampage | 0.20% | ~7 |
@@ -67,7 +68,6 @@ Number of Ratings: 371  (23.09.2022)
 | Master of the Forge | 0.10% | ~3 |
 | Field Apothecarion | 0.10% | ~3 |
 | Brothers in Arms | 0.10% | ~3 |
-| Phalanx | 0.10% | ~3 |
 | Firing Squad | 0.10% | ~3 |
 | Not a Mote of Corruption | 0.10% | ~3 |
 | Deadshot | 0.10% | ~3 |
