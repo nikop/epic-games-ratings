@@ -850,9 +850,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 531708,
+  "EOS_Progressed": 531710,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1590,
+  "EOS_NewPlayers": 1592,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21115,6 +21115,11 @@
       "Time": "2023-10-18T01:50:37.321824+00:00",
       "NumProgressed": 531708,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-18T02:24:51.7177474+00:00",
+      "NumProgressed": 531710,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -21126,7 +21131,7 @@
       "Name": "A Bit On The Side",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 143561
+      "UsersEstimate": 143562
     },
     {
       "ID": "Backdoor",
@@ -21134,7 +21139,7 @@
       "Name": "Backdoor",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 132927
+      "UsersEstimate": 132928
     },
     {
       "ID": "BeforeYouWreckYourself",
@@ -21222,7 +21227,7 @@
       "Name": "Cold Caller",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 207366
+      "UsersEstimate": 207367
     },
     {
       "ID": "DeadlyAssassin",
@@ -21254,7 +21259,7 @@
       "Name": "Give Your Regards To Broadway",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 31902
+      "UsersEstimate": 31903
     },
     {
       "ID": "GoForIt",
@@ -21278,7 +21283,7 @@
       "Name": "Handy",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 218000
+      "UsersEstimate": 218001
     },
     {
       "ID": "HoldingYourOwn",
@@ -21374,7 +21379,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 404098
+      "UsersEstimate": 404100
     },
     {
       "ID": "ProPlayer",
@@ -21454,7 +21459,7 @@
       "Name": "Three Way",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 95707
+      "UsersEstimate": 95708
     },
     {
       "ID": "TopDog",
@@ -21485,7 +21490,7 @@
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 531708,
+      "Progressed": 531710,
       "Completed": 2
     }
   ],
@@ -21493,8 +21498,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2023-10-17T20:58:40.4012855+00:00",
-  "LastChanged_Achievements": "2023-10-18T01:50:37.3218236+00:00",
+  "LastChanged_Achievements": "2023-10-18T02:24:51.717747+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:39.863967+00:00",
-  "LastUpdate_Ratings": "2023-10-18T01:42:36.162303+00:00",
-  "LastUpdate_Achievements": "2023-10-18T01:50:37.3219878+00:00"
+  "LastUpdate_Ratings": "2023-10-18T02:16:52.927477+00:00",
+  "LastUpdate_Achievements": "2023-10-18T02:24:51.7178824+00:00"
 }

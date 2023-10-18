@@ -7402,9 +7402,9 @@
       "Count": 3472
     }
   ],
-  "EOS_Progressed": 232106,
+  "EOS_Progressed": 232107,
   "EOS_Completed": 2368,
-  "EOS_NewPlayers": 617,
+  "EOS_NewPlayers": 616,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
@@ -27532,6 +27532,11 @@
       "Time": "2023-10-18T01:52:29.5215135+00:00",
       "NumProgressed": 232106,
       "NumCompleted": 2368
+    },
+    {
+      "Time": "2023-10-18T02:26:04.4050333+00:00",
+      "NumProgressed": 232107,
+      "NumCompleted": 2368
     }
   ],
   "TotalAchievements": 528,
@@ -31669,9 +31674,9 @@
       "ID": "objective_completed_1365",
       "SetID": "415jc5c",
       "Name": "Legends and Lore",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 397
     },
     {
       "ID": "objective_completed_1366",
@@ -31741,9 +31746,9 @@
       "ID": "objective_completed_1416",
       "SetID": "415jc5c",
       "Name": "Fowl Play",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 397
     },
     {
       "ID": "objective_completed_1420",
@@ -31766,21 +31771,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 198380,
+      "Progressed": 198381,
       "Completed": 3650
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 232106,
+      "Progressed": 232107,
       "Completed": 2368
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-10-18T01:40:40.1565976+00:00",
-  "LastChanged_Achievements": "2023-10-18T01:52:29.5215129+00:00",
+  "LastChanged_Achievements": "2023-10-18T02:26:04.4050329+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:38.1045135+00:00",
-  "LastUpdate_Ratings": "2023-10-18T01:40:40.1565982+00:00",
-  "LastUpdate_Achievements": "2023-10-18T01:52:29.5245381+00:00"
+  "LastUpdate_Ratings": "2023-10-18T02:14:30.638872+00:00",
+  "LastUpdate_Achievements": "2023-10-18T02:26:04.4075592+00:00"
 }

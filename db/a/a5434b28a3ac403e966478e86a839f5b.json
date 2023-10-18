@@ -3,7 +3,7 @@
   "Name": "Quake II",
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 287,
-  "Ranking_EOS_Completed": 159,
+  "Ranking_EOS_Completed": 160,
   "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 72,
   "Store": {
@@ -17,11 +17,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 425,
+  "EOS_Progressed": 426,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.71,
+  "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
     {
       "Time": "2023-09-22T21:07:10.6425492+00:00",
@@ -1152,6 +1152,11 @@
       "Time": "2023-10-17T04:05:06.1262253+00:00",
       "NumProgressed": 425,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-18T02:23:30.1985572+00:00",
+      "NumProgressed": 426,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -1170,9 +1175,9 @@
       "ID": "ACH_eou1",
       "SetID": "51of0eo",
       "Name": "Establish Communications",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 255
+      "UsersEstimate": 251
     },
     {
       "ID": "ACH_eou2",
@@ -1180,7 +1185,7 @@
       "Name": "Destroy Strogg Logistical Train",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_eou3",
@@ -1196,7 +1201,7 @@
       "Name": "Navigate the Mines",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ACH_eou5",
@@ -1267,14 +1272,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 425,
+      "Progressed": 426,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-10-18T01:49:28.9267857+00:00",
+  "LastChanged_Achievements": "2023-10-18T02:23:30.1985565+00:00",
   "LastUpdate_AppInfo": "2023-10-12T22:57:11.8537053+00:00",
-  "LastUpdate_Ratings": "2023-10-18T01:43:35.0251114+00:00",
-  "LastUpdate_Achievements": "2023-10-18T01:49:28.9268042+00:00"
+  "LastUpdate_Ratings": "2023-10-18T02:18:03.7128938+00:00",
+  "LastUpdate_Achievements": "2023-10-18T02:23:30.1985702+00:00"
 }

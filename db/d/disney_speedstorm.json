@@ -330,9 +330,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 232960,
+  "EOS_Progressed": 233039,
   "EOS_Completed": 235,
-  "EOS_NewPlayers": 29477,
+  "EOS_NewPlayers": 29407,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7885,6 +7885,11 @@
       "Time": "2023-10-18T01:48:58.5092944+00:00",
       "NumProgressed": 232960,
       "NumCompleted": 235
+    },
+    {
+      "Time": "2023-10-18T02:22:54.6500211+00:00",
+      "NumProgressed": 233039,
+      "NumCompleted": 235
     }
   ],
   "TotalAchievements": 24,
@@ -7904,7 +7909,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4659
+      "UsersEstimate": 4661
     },
     {
       "ID": "11",
@@ -7936,7 +7941,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 6989
+      "UsersEstimate": 6991
     },
     {
       "ID": "15",
@@ -7992,7 +7997,7 @@
       "Name": "PROTECTED",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4659
+      "UsersEstimate": 4661
     },
     {
       "ID": "21",
@@ -8048,7 +8053,7 @@
       "Name": "ROOKIE",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 11648
+      "UsersEstimate": 11652
     },
     {
       "ID": "6",
@@ -8087,7 +8092,7 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 232960,
+      "Progressed": 233039,
       "Completed": 235
     }
   ],
@@ -8095,8 +8100,8 @@
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
   "LastChanged": "2023-10-18T01:42:31.9203957+00:00",
-  "LastChanged_Achievements": "2023-10-18T01:48:58.509294+00:00",
+  "LastChanged_Achievements": "2023-10-18T02:22:54.6500204+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:16.0697704+00:00",
-  "LastUpdate_Ratings": "2023-10-18T01:42:31.9203961+00:00",
-  "LastUpdate_Achievements": "2023-10-18T01:48:58.5093584+00:00"
+  "LastUpdate_Ratings": "2023-10-18T02:16:47.4155082+00:00",
+  "LastUpdate_Achievements": "2023-10-18T02:22:54.6500724+00:00"
 }

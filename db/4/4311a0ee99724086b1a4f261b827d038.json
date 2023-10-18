@@ -372,10 +372,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 114,
       "NumberOfAwardsMax": 27
+    },
+    {
+      "Time": "2023-10-18T02:18:41.8493878+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 115,
+      "NumberOfAwardsMax": 27
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 114,
+  "NumberOfAwards": 115,
   "NumberOfAwardsMax": 27,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -407,12 +413,12 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 20
+      "Count": 21
     }
   ],
-  "EOS_Progressed": 226847,
+  "EOS_Progressed": 226850,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1463,
+  "EOS_NewPlayers": 1464,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10250,6 +10256,11 @@
       "Time": "2023-10-18T01:50:02.7995076+00:00",
       "NumProgressed": 226847,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-18T02:24:11.3066957+00:00",
+      "NumProgressed": 226850,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -10358,7 +10369,7 @@
       "Name": "Diamond Shoals Completed",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 6805
+      "UsersEstimate": 6806
     },
     {
       "ID": "HW1_MISSION7_COMPLETE",
@@ -10366,7 +10377,7 @@
       "Name": "The Gardens of Kadesh Completed",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 6805
+      "UsersEstimate": 6806
     },
     {
       "ID": "HW1_MISSION8_COMPLETE",
@@ -10454,7 +10465,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 15879
+      "UsersEstimate": 15880
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -10533,16 +10544,16 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 226847,
+      "Progressed": 226850,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T17:57:09.4627104+00:00",
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
-  "LastChanged": "2023-10-17T16:01:37.2277894+00:00",
-  "LastChanged_Achievements": "2023-10-18T01:50:02.7995071+00:00",
+  "LastChanged": "2023-10-18T02:18:41.8493877+00:00",
+  "LastChanged_Achievements": "2023-10-18T02:24:11.3066952+00:00",
   "LastUpdate_AppInfo": "2023-10-12T22:57:12.5355858+00:00",
-  "LastUpdate_Ratings": "2023-10-18T01:44:06.5626919+00:00",
-  "LastUpdate_Achievements": "2023-10-18T01:50:02.7995947+00:00"
+  "LastUpdate_Ratings": "2023-10-18T02:18:41.8493882+00:00",
+  "LastUpdate_Achievements": "2023-10-18T02:24:11.3067607+00:00"
 }

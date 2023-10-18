@@ -2463,9 +2463,9 @@
       "ID": "achievement_58",
       "SetID": "d252ncf",
       "Name": "The Cure",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 234
     },
     {
       "ID": "achievement_59",
@@ -2843,8 +2843,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-18T01:49:17.8571803+00:00",
+  "LastChanged_Achievements": "2023-10-18T02:23:17.5687067+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:30.4071338+00:00",
-  "LastUpdate_Ratings": "2023-10-18T01:44:23.8937739+00:00",
-  "LastUpdate_Achievements": "2023-10-18T01:49:17.8574092+00:00"
+  "LastUpdate_Ratings": "2023-10-18T02:19:03.1191937+00:00",
+  "LastUpdate_Achievements": "2023-10-18T02:23:17.568884+00:00"
 }

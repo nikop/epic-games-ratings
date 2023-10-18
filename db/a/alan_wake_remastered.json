@@ -536,9 +536,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 68388,
+  "EOS_Progressed": 68389,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 842,
+  "EOS_NewPlayers": 838,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -18406,6 +18406,11 @@
       "Time": "2023-10-18T01:53:17.8284131+00:00",
       "NumProgressed": 68388,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-10-18T02:26:37.1566856+00:00",
+      "NumProgressed": 68389,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 67,
@@ -18521,7 +18526,7 @@
       "Name": "Gatekeeper",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8890
+      "UsersEstimate": 8891
     },
     {
       "ID": "15",
@@ -18601,7 +18606,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8890
+      "UsersEstimate": 8891
     },
     {
       "ID": "25",
@@ -18617,7 +18622,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8890
+      "UsersEstimate": 8891
     },
     {
       "ID": "27",
@@ -18649,7 +18654,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8890
+      "UsersEstimate": 8891
     },
     {
       "ID": "31",
@@ -18952,21 +18957,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 68388,
+      "Progressed": 68389,
       "Completed": 69
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 31856,
+      "Progressed": 31857,
       "Completed": 57
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-10-17T07:57:25.3609832+00:00",
-  "LastChanged_Achievements": "2023-10-18T01:53:17.8284127+00:00",
+  "LastChanged_Achievements": "2023-10-18T02:26:37.1566851+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:29.5404552+00:00",
-  "LastUpdate_Ratings": "2023-10-18T01:41:14.8860406+00:00",
-  "LastUpdate_Achievements": "2023-10-18T01:53:17.8285906+00:00"
+  "LastUpdate_Ratings": "2023-10-18T02:15:13.6682272+00:00",
+  "LastUpdate_Achievements": "2023-10-18T02:26:37.1568174+00:00"
 }

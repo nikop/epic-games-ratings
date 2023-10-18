@@ -130,9 +130,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6775,
+  "EOS_Progressed": 6776,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 310,
+  "EOS_NewPlayers": 311,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4550,6 +4550,11 @@
       "Time": "2023-10-18T01:49:21.1908971+00:00",
       "NumProgressed": 6775,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-18T02:23:21.070711+00:00",
+      "NumProgressed": 6776,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -4570,7 +4575,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 4742
+      "UsersEstimate": 4743
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -4658,7 +4663,7 @@
       "Name": "Miner 49er",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 2913
+      "UsersEstimate": 2914
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -4714,7 +4719,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 4065
+      "UsersEstimate": 4066
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -4722,7 +4727,7 @@
       "Name": "Mist Walker",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 2100
+      "UsersEstimate": 2101
     },
     {
       "ID": "DISPATCH_JUMBLES",
@@ -4738,7 +4743,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 3116
+      "UsersEstimate": 3117
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -4794,7 +4799,7 @@
       "Name": "Azorian Anniversary",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "UPGRADE_ALLSKILLSMAX",
@@ -4841,7 +4846,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 6775,
+      "Progressed": 6776,
       "Completed": 0
     }
   ],
@@ -4849,8 +4854,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-17T22:58:37.318492+00:00",
-  "LastChanged_Achievements": "2023-10-18T01:49:21.1908969+00:00",
+  "LastChanged_Achievements": "2023-10-18T02:23:21.0707106+00:00",
   "LastUpdate_AppInfo": "2023-10-13T06:57:01.9287951+00:00",
-  "LastUpdate_Ratings": "2023-10-18T01:42:36.0132775+00:00",
-  "LastUpdate_Achievements": "2023-10-18T01:49:21.1909505+00:00"
+  "LastUpdate_Ratings": "2023-10-18T02:16:52.7546264+00:00",
+  "LastUpdate_Achievements": "2023-10-18T02:23:21.0707527+00:00"
 }

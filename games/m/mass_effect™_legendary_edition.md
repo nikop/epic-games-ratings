@@ -50,12 +50,12 @@
 | A Personal Touch | 32.00% | ~234 |
 | The Assassin | 32.00% | ~234 |
 | The Justicar | 32.00% | ~234 |
+| The Cure | 32.00% | ~234 |
 | The Prodigal | 32.00% | ~234 |
 | Shopaholic | 32.00% | ~234 |
 | Battlemaster | 31.00% | ~227 |
 | Catharsis | 31.00% | ~227 |
 | Ghost of the Father | 31.00% | ~227 |
-| The Cure | 31.00% | ~227 |
 | Big Game Hunter | 31.00% | ~227 |
 | Agent | 31.00% | ~227 |
 | Revenge! | 31.00% | ~227 |

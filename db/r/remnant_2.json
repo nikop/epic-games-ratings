@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 149,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 28,
+  "Ranking_EOS_NewPlayers": 29,
   "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2023-07-25T16:00:00+00:00",
@@ -3162,9 +3162,9 @@
       "Count": 235
     }
   ],
-  "EOS_Progressed": 196968,
+  "EOS_Progressed": 196974,
   "EOS_Completed": 394,
-  "EOS_NewPlayers": 3389,
+  "EOS_NewPlayers": 3386,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -13687,6 +13687,11 @@
       "Time": "2023-10-18T01:50:36.141325+00:00",
       "NumProgressed": 196968,
       "NumCompleted": 394
+    },
+    {
+      "Time": "2023-10-18T02:24:50.3765127+00:00",
+      "NumProgressed": 196974,
+      "NumCompleted": 394
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -13779,7 +13784,7 @@
       "Name": "The Killing Jar",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 15757
+      "UsersEstimate": 15758
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -13803,7 +13808,7 @@
       "Name": "Not So Special Now",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 9848
+      "UsersEstimate": 9849
     },
     {
       "ID": "Defeat_Tal_Ratha",
@@ -13843,7 +13848,7 @@
       "Name": "Not a Janitor",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 9848
+      "UsersEstimate": 9849
     },
     {
       "ID": "Meet_Flautist",
@@ -13859,7 +13864,7 @@
       "Name": "Equal Measures",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 9848
+      "UsersEstimate": 9849
     },
     {
       "ID": "Meet_Mudtooth",
@@ -13875,7 +13880,7 @@
       "Name": "Blue Goddess",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 9848
+      "UsersEstimate": 9849
     },
     {
       "ID": "Obtain_Archetype",
@@ -13883,7 +13888,7 @@
       "Name": "First of Many",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 17727
+      "UsersEstimate": 17728
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -13899,7 +13904,7 @@
       "Name": "Top Performer",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 9848
+      "UsersEstimate": 9849
     },
     {
       "ID": "Obtain_Archetype_Secret",
@@ -13907,7 +13912,7 @@
       "Name": "Shhh...It\u0027s a Secret",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 9848
+      "UsersEstimate": 9849
     },
     {
       "ID": "Obtain_Blood_Moon_Item",
@@ -14043,7 +14048,7 @@
       "Name": "Almost There",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 9848
+      "UsersEstimate": 9849
     },
     {
       "ID": "Upgrade_Relic",
@@ -14051,7 +14056,7 @@
       "Name": "Make Some Room",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 9848
+      "UsersEstimate": 9849
     },
     {
       "ID": "Upgrade_Standard_Weapon_A",
@@ -14059,7 +14064,7 @@
       "Name": "Good, But Could Be Better!",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 9848
+      "UsersEstimate": 9849
     },
     {
       "ID": "Upgrade_Standard_Weapon_B",
@@ -14098,7 +14103,7 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 196968,
+      "Progressed": 196974,
       "Completed": 394
     }
   ],
@@ -14106,8 +14111,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-10-17T18:01:20.2757878+00:00",
-  "LastChanged_Achievements": "2023-10-18T01:50:36.141324+00:00",
+  "LastChanged_Achievements": "2023-10-18T02:24:50.3765123+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:26.6923427+00:00",
-  "LastUpdate_Ratings": "2023-10-18T01:44:09.2361253+00:00",
-  "LastUpdate_Achievements": "2023-10-18T01:50:36.1414625+00:00"
+  "LastUpdate_Ratings": "2023-10-18T02:18:45.7104417+00:00",
+  "LastUpdate_Achievements": "2023-10-18T02:24:50.3765986+00:00"
 }

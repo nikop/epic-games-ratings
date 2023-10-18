@@ -755,9 +755,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4208,
+  "EOS_Progressed": 4209,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 203,
+  "EOS_NewPlayers": 204,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -7605,6 +7605,11 @@
       "Time": "2023-10-18T01:52:39.5686699+00:00",
       "NumProgressed": 4208,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-18T02:26:15.9644099+00:00",
+      "NumProgressed": 4209,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -7673,7 +7678,7 @@
       "Name": "First Strike",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -7681,7 +7686,7 @@
       "Name": "Flawless Victory",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "MF_Ach_FourthGate",
@@ -7697,7 +7702,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "MF_Ach_HitEmWhereItHurts",
@@ -7769,7 +7774,7 @@
       "Name": "Spending Spree",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -7800,15 +7805,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4208,
+      "Progressed": 4209,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-14T13:04:06.5278861+00:00",
-  "LastChanged_Achievements": "2023-10-18T01:52:39.5686695+00:00",
+  "LastChanged_Achievements": "2023-10-18T02:26:15.9644095+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:04.1779972+00:00",
-  "LastUpdate_Ratings": "2023-10-18T01:41:43.6930229+00:00",
-  "LastUpdate_Achievements": "2023-10-18T01:52:39.5687307+00:00"
+  "LastUpdate_Ratings": "2023-10-18T02:15:48.9085725+00:00",
+  "LastUpdate_Achievements": "2023-10-18T02:26:15.9644523+00:00"
 }

@@ -454,9 +454,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1545609,
+  "EOS_Progressed": 1545612,
   "EOS_Completed": 706,
-  "EOS_NewPlayers": 1097,
+  "EOS_NewPlayers": 1100,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -20874,6 +20874,11 @@
       "Time": "2023-10-18T01:48:05.035286+00:00",
       "NumProgressed": 1545609,
       "NumCompleted": 706
+    },
+    {
+      "Time": "2023-10-18T02:21:52.591688+00:00",
+      "NumProgressed": 1545612,
+      "NumCompleted": 706
     }
   ],
   "TotalAchievements": 20,
@@ -21005,7 +21010,7 @@
       "Name": "Sake Bombs",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 13910
+      "UsersEstimate": 13911
     },
     {
       "ID": "ACH_SPIN_DOCTOR",
@@ -21029,7 +21034,7 @@
       "Name": "The Long Drift",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 77280
+      "UsersEstimate": 77281
     },
     {
       "ID": "ACH_WASHING_MACHINE",
@@ -21044,15 +21049,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1545609,
+      "Progressed": 1545612,
       "Completed": 706
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-09-25T13:05:51.0685533+00:00",
-  "LastChanged_Achievements": "2023-10-18T01:48:05.0352856+00:00",
+  "LastChanged_Achievements": "2023-10-18T02:21:52.5916876+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:37.6128187+00:00",
-  "LastUpdate_Ratings": "2023-10-18T01:42:32.2025456+00:00",
-  "LastUpdate_Achievements": "2023-10-18T01:48:05.0354229+00:00"
+  "LastUpdate_Ratings": "2023-10-18T02:16:47.7079847+00:00",
+  "LastUpdate_Achievements": "2023-10-18T02:21:52.5917936+00:00"
 }

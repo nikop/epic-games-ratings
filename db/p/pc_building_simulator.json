@@ -4918,9 +4918,9 @@
       "Count": 667
     }
   ],
-  "EOS_Progressed": 3570319,
+  "EOS_Progressed": 3570320,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 2197,
+  "EOS_NewPlayers": 2194,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25468,6 +25468,11 @@
       "Time": "2023-10-18T01:52:16.1567531+00:00",
       "NumProgressed": 3570319,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-10-18T02:25:48.1475868+00:00",
+      "NumProgressed": 3570320,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 52,
@@ -25543,7 +25548,7 @@
       "Name": "Back in the black",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1392424
+      "UsersEstimate": 1392425
     },
     {
       "ID": "CASH_2",
@@ -25719,7 +25724,7 @@
       "Name": "You need to plug it in...",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 1749456
+      "UsersEstimate": 1749457
     },
     {
       "ID": "NO_PASTE",
@@ -25894,15 +25899,15 @@
     {
       "ID": "m0injl",
       "IsBase": true,
-      "Progressed": 3570319,
+      "Progressed": 3570320,
       "Completed": 36
     }
   ],
   "FirstSeen": "2022-07-22T20:21:06.3204437+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:31.9861995+00:00",
   "LastChanged": "2023-10-17T13:59:26.680148+00:00",
-  "LastChanged_Achievements": "2023-10-18T01:52:16.1567527+00:00",
+  "LastChanged_Achievements": "2023-10-18T02:25:48.1475864+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:45.2459458+00:00",
-  "LastUpdate_Ratings": "2023-10-18T01:42:46.0826216+00:00",
-  "LastUpdate_Achievements": "2023-10-18T01:52:16.1569243+00:00"
+  "LastUpdate_Ratings": "2023-10-18T02:17:05.2130082+00:00",
+  "LastUpdate_Achievements": "2023-10-18T02:25:48.1477132+00:00"
 }

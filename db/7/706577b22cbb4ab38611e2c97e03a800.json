@@ -765,9 +765,9 @@
       "ID": "ACHIEVEMENT_RW_07",
       "SetID": "b50kim2",
       "Name": "RUNAWAY 07",
-      "Percentage": 0.8,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_RW_08",
@@ -868,8 +868,8 @@
   ],
   "FirstSeen": "2023-09-12T13:03:58.3163014+00:00",
   "FirstSeenAchievements": "2023-07-24T21:06:11.7516454+00:00",
-  "LastChanged_Achievements": "2023-10-18T01:53:26.9525512+00:00",
+  "LastChanged_Achievements": "2023-10-18T02:27:07.6451417+00:00",
   "LastUpdate_AppInfo": "2023-10-17T04:57:03.2083263+00:00",
-  "LastUpdate_Ratings": "2023-10-18T01:44:21.4617859+00:00",
-  "LastUpdate_Achievements": "2023-10-18T01:53:26.9525989+00:00"
+  "LastUpdate_Ratings": "2023-10-18T02:19:00.1543018+00:00",
+  "LastUpdate_Achievements": "2023-10-18T02:27:07.6451766+00:00"
 }

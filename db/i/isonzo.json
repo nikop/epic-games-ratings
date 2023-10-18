@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 362,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -838,9 +838,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 7055,
+  "EOS_Progressed": 7056,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -6148,6 +6148,11 @@
       "Time": "2023-10-18T00:03:32.1263358+00:00",
       "NumProgressed": 7055,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-18T02:20:29.0591099+00:00",
+      "NumProgressed": 7056,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 45,
@@ -6175,7 +6180,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 3386
+      "UsersEstimate": 3387
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -6367,7 +6372,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1340
+      "UsersEstimate": 1341
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -6487,7 +6492,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3880
+      "UsersEstimate": 3881
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -6511,14 +6516,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3739
+      "UsersEstimate": 3740
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 7055,
+      "Progressed": 7056,
       "Completed": 9
     }
   ],
@@ -6526,8 +6531,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-09-23T14:01:09.047151+00:00",
-  "LastChanged_Achievements": "2023-10-18T01:47:10.7779095+00:00",
+  "LastChanged_Achievements": "2023-10-18T02:20:29.0591091+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:22.0219629+00:00",
-  "LastUpdate_Ratings": "2023-10-18T01:41:47.9252581+00:00",
-  "LastUpdate_Achievements": "2023-10-18T01:47:10.7779835+00:00"
+  "LastUpdate_Ratings": "2023-10-18T02:15:54.6392228+00:00",
+  "LastUpdate_Achievements": "2023-10-18T02:20:29.0591701+00:00"
 }

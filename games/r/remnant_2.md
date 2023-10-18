@@ -5,8 +5,8 @@ Rating: 4.76 (Ranked 119)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~17,727 |
-| The Killing Jar | 8.00% | ~15,757 |
+| First of Many | 9.00% | ~17,728 |
+| The Killing Jar | 8.00% | ~15,758 |
 | Expanding Horizons | 7.00% | ~13,788 |
 | Quest for Survival | 7.00% | ~13,788 |
 | Not Your Average Trait | 7.00% | ~13,788 |
@@ -15,15 +15,15 @@ Rating: 4.76 (Ranked 119)
 | Duality | 6.00% | ~11,818 |
 | Boss'n Up | 6.00% | ~11,818 |
 | Trait Chaser | 6.00% | ~11,818 |
-| Not So Special Now | 5.00% | ~9,848 |
-| Not a Janitor | 5.00% | ~9,848 |
-| Equal Measures | 5.00% | ~9,848 |
-| Blue Goddess | 5.00% | ~9,848 |
-| Top Performer | 5.00% | ~9,848 |
-| Shhh...It's a Secret | 5.00% | ~9,848 |
-| Almost There | 5.00% | ~9,848 |
-| Make Some Room | 5.00% | ~9,848 |
-| Good, But Could Be Better! | 5.00% | ~9,848 |
+| Not So Special Now | 5.00% | ~9,849 |
+| Not a Janitor | 5.00% | ~9,849 |
+| Equal Measures | 5.00% | ~9,849 |
+| Blue Goddess | 5.00% | ~9,849 |
+| Top Performer | 5.00% | ~9,849 |
+| Shhh...It's a Secret | 5.00% | ~9,849 |
+| Almost There | 5.00% | ~9,849 |
+| Make Some Room | 5.00% | ~9,849 |
+| Good, But Could Be Better! | 5.00% | ~9,849 |
 | Chaos | 4.00% | ~7,879 |
 | Traitor | 4.00% | ~7,879 |
 | Power Surge | 4.00% | ~7,879 |
@@ -56,7 +56,7 @@ Rating: 4.76 (Ranked 119)
 | Cutting Edge | 1.00% | ~1,970 |
 | Proving Grounds | 1.00% | ~1,970 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 196,968 (Ranked 68)  
+Progressed: 196,974 (Ranked 68)  
 Completed: 394 (0.20%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 394 (0.20%) (Ranked 224)
 | 2023-10-15 | 196,107 | 393 |
 | 2023-10-16 | 196,519 | 393 |
 | 2023-10-17 | 196,940 | 394 |
-| 2023-10-18 | 196,968 | 394 |
+| 2023-10-18 | 196,974 | 394 |
 ## Awards
 Max (Great Boss Battles): 1,843  (Ranked 114)  
 Sum: 4,024 (Ranked 149)  

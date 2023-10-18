@@ -14,25 +14,25 @@ Number of Ratings: 70,340  (23.09.2022)
 | Survival Treasures | 2.00% | ~18,927 |
 | Skillful | 2.00% | ~18,927 |
 | Make Some Noise | 2.00% | ~18,927 |
-| The Grand Sacrifice | 1.00% | ~9,463 |
-| Agonizing Escape | 1.00% | ~9,463 |
-| Backdoor Escape | 1.00% | ~9,463 |
-| I've got your back | 1.00% | ~9,463 |
-| No one left behind | 1.00% | ~9,463 |
-| Medic | 1.00% | ~9,463 |
-| Nerves of steel | 1.00% | ~9,463 |
-| Perfect Escape | 1.00% | ~9,463 |
-| Perfect Killing | 1.00% | ~9,463 |
-| Bloody Millionaire | 1.00% | ~9,463 |
-| Risk it all | 1.00% | ~9,463 |
-| I | 1.00% | ~9,463 |
-| Engineer | 1.00% | ~9,463 |
-| Sorted | 1.00% | ~9,463 |
-| Healthy Obsession | 1.00% | ~9,463 |
-| Resurgence | 1.00% | ~9,463 |
-| Close Shave | 1.00% | ~9,463 |
-| Preemptive Strike | 1.00% | ~9,463 |
-| Humanitarian | 1.00% | ~9,463 |
+| The Grand Sacrifice | 1.00% | ~9,464 |
+| Agonizing Escape | 1.00% | ~9,464 |
+| Backdoor Escape | 1.00% | ~9,464 |
+| I've got your back | 1.00% | ~9,464 |
+| No one left behind | 1.00% | ~9,464 |
+| Medic | 1.00% | ~9,464 |
+| Nerves of steel | 1.00% | ~9,464 |
+| Perfect Escape | 1.00% | ~9,464 |
+| Perfect Killing | 1.00% | ~9,464 |
+| Bloody Millionaire | 1.00% | ~9,464 |
+| Risk it all | 1.00% | ~9,464 |
+| I | 1.00% | ~9,464 |
+| Engineer | 1.00% | ~9,464 |
+| Sorted | 1.00% | ~9,464 |
+| Healthy Obsession | 1.00% | ~9,464 |
+| Resurgence | 1.00% | ~9,464 |
+| Close Shave | 1.00% | ~9,464 |
+| Preemptive Strike | 1.00% | ~9,464 |
+| Humanitarian | 1.00% | ~9,464 |
 | Apt Killer | 0.90% | ~8,517 |
 | II | 0.90% | ~8,517 |
 | Wounded Healer | 0.90% | ~8,517 |
@@ -40,10 +40,10 @@ Number of Ratings: 70,340  (23.09.2022)
 | III | 0.80% | ~7,571 |
 | Rebuilding The Borgo | 0.80% | ~7,571 |
 | Second Act | 0.80% | ~7,571 |
-| Escape Artist | 0.70% | ~6,624 |
-| First to the Punch | 0.70% | ~6,624 |
-| Every Last Drop | 0.70% | ~6,624 |
-| With Scars to Show | 0.70% | ~6,624 |
+| Escape Artist | 0.70% | ~6,625 |
+| First to the Punch | 0.70% | ~6,625 |
+| Every Last Drop | 0.70% | ~6,625 |
+| With Scars to Show | 0.70% | ~6,625 |
 | Blood on your hands | 0.60% | ~5,678 |
 | Made it out alive! | 0.60% | ~5,678 |
 | III-50 | 0.60% | ~5,678 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~946 |
 | Adept Ripley | 0.10% | ~946 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 946,332 (Ranked 14)  
+Progressed: 946,369 (Ranked 14)  
 Completed: 51 (0.01%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -417,7 +417,7 @@ Completed: 51 (0.01%) (Ranked 297)
 | 2023-10-15 | 942,498 | 51 |
 | 2023-10-16 | 944,360 | 51 |
 | 2023-10-17 | 946,172 | 51 |
-| 2023-10-18 | 946,332 | 51 |
+| 2023-10-18 | 946,369 | 51 |
 ## Awards
 Max (Diverse Characters): 34,006  (Ranked 15)  
 Sum: 263,198 (Ranked 13)  

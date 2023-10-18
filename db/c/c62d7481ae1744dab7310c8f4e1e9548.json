@@ -588,9 +588,9 @@
       "ID": "KrabiPyramida",
       "SetID": "ag48e8e",
       "Name": "Crab Pyramid",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Kudla",
@@ -700,9 +700,9 @@
       "ID": "Stonozka",
       "SetID": "ag48e8e",
       "Name": "Centipede",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Strom",
@@ -763,8 +763,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-10-18T01:47:38.4026994+00:00",
+  "LastChanged_Achievements": "2023-10-18T02:21:21.4122806+00:00",
   "LastUpdate_AppInfo": "2023-10-13T23:57:20.3362451+00:00",
-  "LastUpdate_Ratings": "2023-10-18T01:43:49.1567717+00:00",
-  "LastUpdate_Achievements": "2023-10-18T01:47:38.4027245+00:00"
+  "LastUpdate_Ratings": "2023-10-18T02:18:19.4512731+00:00",
+  "LastUpdate_Achievements": "2023-10-18T02:21:21.4123381+00:00"
 }

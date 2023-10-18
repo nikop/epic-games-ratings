@@ -3846,7 +3846,7 @@
       "Count": 1069
     }
   ],
-  "EOS_Progressed": 75342,
+  "EOS_Progressed": 75344,
   "EOS_Completed": 51,
   "EOS_NewPlayers": 784,
   "EOS_NewCompleters": 0,
@@ -24161,6 +24161,11 @@
       "Time": "2023-10-18T01:47:57.3932673+00:00",
       "NumProgressed": 75342,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-18T02:21:43.6522318+00:00",
+      "NumProgressed": 75344,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -24268,7 +24273,7 @@
       "Name": "The Side Job",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 23356
+      "UsersEstimate": 23357
     },
     {
       "ID": "complete_first_wanted_mission",
@@ -24276,7 +24281,7 @@
       "Name": "Wet Work",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 24109
+      "UsersEstimate": 24110
     },
     {
       "ID": "complete_mission_1",
@@ -24284,7 +24289,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 34657
+      "UsersEstimate": 34658
     },
     {
       "ID": "customize_a_vehicle",
@@ -24292,7 +24297,7 @@
       "Name": "Tune Up",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 24863
+      "UsersEstimate": 24864
     },
     {
       "ID": "customize_a_weapon",
@@ -24380,7 +24385,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 24109
+      "UsersEstimate": 24110
     },
     {
       "ID": "fully_complete_a_building",
@@ -24420,7 +24425,7 @@
       "Name": "Performance Review",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 27123
+      "UsersEstimate": 27124
     },
     {
       "ID": "hit_max_level",
@@ -24444,7 +24449,7 @@
       "Name": "Picking Fights",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15068
+      "UsersEstimate": 15069
     },
     {
       "ID": "kill_enemy_with_tetherd_object",
@@ -24484,7 +24489,7 @@
       "Name": "Closet Space",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6027
+      "UsersEstimate": 6028
     },
     {
       "ID": "prank_coop_partner",
@@ -24524,7 +24529,7 @@
       "Name": "Food for Thought",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 20342
+      "UsersEstimate": 20343
     },
     {
       "ID": "two_thirds_purple",
@@ -24595,13 +24600,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 75342,
+      "Progressed": 75344,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 46979,
+      "Progressed": 46981,
       "Completed": 4131
     }
   ],
@@ -24609,8 +24614,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-10-17T20:58:18.2404091+00:00",
-  "LastChanged_Achievements": "2023-10-18T01:47:57.3932655+00:00",
+  "LastChanged_Achievements": "2023-10-18T02:21:43.6522311+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:20.7071116+00:00",
-  "LastUpdate_Ratings": "2023-10-18T01:42:10.4010702+00:00",
-  "LastUpdate_Achievements": "2023-10-18T01:47:57.3934594+00:00"
+  "LastUpdate_Ratings": "2023-10-18T02:16:19.9238066+00:00",
+  "LastUpdate_Achievements": "2023-10-18T02:21:43.6523623+00:00"
 }

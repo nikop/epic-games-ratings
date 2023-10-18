@@ -5218,9 +5218,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 654291,
+  "EOS_Progressed": 654292,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 12676,
+  "EOS_NewPlayers": 12675,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25698,6 +25698,11 @@
       "Time": "2023-10-18T01:53:16.0634382+00:00",
       "NumProgressed": 654291,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-10-18T02:26:35.1823267+00:00",
+      "NumProgressed": 654292,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 37,
@@ -25733,7 +25738,7 @@
       "Name": "Marksman Novice",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 111229
+      "UsersEstimate": 111230
     },
     {
       "ID": "13",
@@ -25773,7 +25778,7 @@
       "Name": "Collateral Damage",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 39257
+      "UsersEstimate": 39258
     },
     {
       "ID": "18",
@@ -25789,7 +25794,7 @@
       "Name": "Blood on My Hands",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 477632
+      "UsersEstimate": 477633
     },
     {
       "ID": "2",
@@ -25877,7 +25882,7 @@
       "Name": "Airborne",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 39257
+      "UsersEstimate": 39258
     },
     {
       "ID": "3",
@@ -25949,7 +25954,7 @@
       "Name": "Health Junkie",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 261716
+      "UsersEstimate": 261717
     },
     {
       "ID": "4",
@@ -26004,7 +26009,7 @@
     {
       "ID": "7ko8h8f",
       "IsBase": true,
-      "Progressed": 654291,
+      "Progressed": 654292,
       "Completed": 10
     }
   ],
@@ -26012,8 +26017,8 @@
   "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.6020282+00:00",
   "LastChanged": "2023-10-17T20:02:20.3547002+00:00",
-  "LastChanged_Achievements": "2023-10-18T01:53:16.0634378+00:00",
+  "LastChanged_Achievements": "2023-10-18T02:26:35.1823259+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:11.3875197+00:00",
-  "LastUpdate_Ratings": "2023-10-18T01:46:36.1850777+00:00",
-  "LastUpdate_Achievements": "2023-10-18T01:53:16.0635924+00:00"
+  "LastUpdate_Ratings": "2023-10-18T02:20:10.985979+00:00",
+  "LastUpdate_Achievements": "2023-10-18T02:26:35.1824414+00:00"
 }

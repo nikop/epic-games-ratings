@@ -6,16 +6,16 @@ Number of Ratings: 4,733  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 81.00% | ~32,754 |
-| Initial Capital | 70.00% | ~28,306 |
+| Junior Naval Designer | 81.00% | ~32,755 |
+| Initial Capital | 70.00% | ~28,307 |
 | Moneybags | 48.00% | ~19,410 |
 | Junior Supply Officer | 48.00% | ~19,410 |
-| Naval Warfare. Arson | 36.00% | ~14,557 |
+| Naval Warfare. Arson | 36.00% | ~14,558 |
 | Naval Warfare. Ramming | 35.00% | ~14,153 |
 | Amateur | 34.00% | ~13,749 |
 | Naval Constructor | 34.00% | ~13,749 |
-| Naval Warfare. Tactics | 33.00% | ~13,344 |
-| Naval Warfare. Weaponry Basics | 25.00% | ~10,109 |
+| Naval Warfare. Tactics | 33.00% | ~13,345 |
+| Naval Warfare. Weaponry Basics | 25.00% | ~10,110 |
 | Naval Warfare. Lucky Shot | 22.00% | ~8,896 |
 | Naval Warfare. Flooding | 21.00% | ~8,492 |
 | Business Magnate | 19.00% | ~7,683 |
@@ -24,9 +24,9 @@ Number of Ratings: 4,733  (23.09.2022)
 | Smooth Supply | 15.00% | ~6,066 |
 | Warrior | 14.00% | ~5,661 |
 | Veteran | 9.00% | ~3,639 |
-| Legend of the Seas | 4.00% | ~1,617 |
-| Chief Naval Architect | 4.00% | ~1,617 |
-| Shield | 4.00% | ~1,617 |
+| Legend of the Seas | 4.00% | ~1,618 |
+| Chief Naval Architect | 4.00% | ~1,618 |
+| Shield | 4.00% | ~1,618 |
 | Weather Beaten | 3.00% | ~1,213 |
 | Important Missions | 3.00% | ~1,213 |
 | Guardian | 3.00% | ~1,213 |
@@ -51,7 +51,7 @@ Number of Ratings: 4,733  (23.09.2022)
 | "Yamamoto Isoroku" with Honors | 0.10% | ~40 |
 | Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40,437 (Ranked 111)  
+Progressed: 40,438 (Ranked 111)  
 Completed: 0 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 0 (0.00%) (Ranked 315)
 | 2023-10-15 | 39,666 | 0 |
 | 2023-10-16 | 40,053 | 0 |
 | 2023-10-17 | 40,399 | 0 |
-| 2023-10-18 | 40,437 | 0 |
+| 2023-10-18 | 40,438 | 0 |
 ## Awards
 Max (Relaxing): 1,427  (Ranked 131)  
 Sum: 11,935 (Ranked 81)  
