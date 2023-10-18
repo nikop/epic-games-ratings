@@ -2,7 +2,7 @@
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 66.67% |
-| 3 | [The Riflemen](games/t/the_riflemen.md) | 47.78% |
+| 3 | [The Riflemen](games/t/the_riflemen.md) | 47.77% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.15% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.99% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
@@ -14,7 +14,7 @@
 | 10 | [Overloop](games/o/overloop.md) | 25.00% |
 | 13 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 14 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 22.22% |
-| 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.38% |
+| 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.25% |
 | 16 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 16 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 20.00% |
 | 18 | [Doodle Devil](games/d/doodle_devil.md) | 19.28% |
@@ -147,8 +147,8 @@
 | 143 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.05% |
 | 146 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.02% |
 | 147 | [Sable](games/s/sable.md) | 1.01% |
-| 148 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.99% |
 | 148 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.99% |
+| 149 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.98% |
 | 150 | [A Musical Story](games/a/a_musical_story.md) | 0.96% |
 | 150 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.96% |
 | 152 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.91% |
@@ -672,4 +672,4 @@
 | 316 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 316 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 316 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,409 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,410 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
