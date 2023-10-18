@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 278,
   "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -1759,9 +1759,9 @@
       "Count": 250
     }
   ],
-  "EOS_Progressed": 208442,
+  "EOS_Progressed": 208447,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 1223,
+  "EOS_NewPlayers": 1221,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -22294,6 +22294,11 @@
       "Time": "2023-10-18T05:08:11.5747357+00:00",
       "NumProgressed": 208442,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-10-18T06:06:47.6677855+00:00",
+      "NumProgressed": 208447,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 44,
@@ -22305,7 +22310,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20844
+      "UsersEstimate": 20845
     },
     {
       "ID": "AtheistOx",
@@ -22345,7 +22350,7 @@
       "Name": "Disguised",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16675
+      "UsersEstimate": 16676
     },
     {
       "ID": "FiveShadows",
@@ -22377,7 +22382,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 25013
+      "UsersEstimate": 25014
     },
     {
       "ID": "HappyLittleAccidents",
@@ -22521,7 +22526,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16675
+      "UsersEstimate": 16676
     },
     {
       "ID": "Rollin",
@@ -22561,7 +22566,7 @@
       "Name": "Tanuki Time",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16675
+      "UsersEstimate": 16676
     },
     {
       "ID": "TheCave",
@@ -22593,7 +22598,7 @@
       "Name": "Thorough",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 20844
+      "UsersEstimate": 20845
     },
     {
       "ID": "TimeParadox",
@@ -22656,15 +22661,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 208442,
+      "Progressed": 208447,
       "Completed": 91
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-10-18T02:57:28.2786351+00:00",
-  "LastChanged_Achievements": "2023-10-18T05:08:11.5747353+00:00",
+  "LastChanged_Achievements": "2023-10-18T06:06:47.6677848+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:42.5631083+00:00",
-  "LastUpdate_Ratings": "2023-10-18T04:57:32.4525309+00:00",
-  "LastUpdate_Achievements": "2023-10-18T05:08:11.5749045+00:00"
+  "LastUpdate_Ratings": "2023-10-18T05:57:30.7282203+00:00",
+  "LastUpdate_Achievements": "2023-10-18T06:06:47.668049+00:00"
 }

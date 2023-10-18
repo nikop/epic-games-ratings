@@ -34,10 +34,10 @@ Rating: 4.27 (Ranked 839)
 | Knowledge is Power | 0.50% | ~6 |
 | The Great Winter | 0.40% | ~5 |
 | Red Tape | 0.40% | ~5 |
+| It's spreading | 0.30% | ~3 |
 | The Incarnate | 0.30% | ~3 |
 | Ice and Fire | 0.20% | ~2 |
 | Mad Engineers | 0.20% | ~2 |
-| It's spreading | 0.20% | ~2 |
 | The Flail | 0.20% | ~2 |
 | Aesthetics | 0.10% | ~1 |
 | The experiment | 0.10% | ~1 |

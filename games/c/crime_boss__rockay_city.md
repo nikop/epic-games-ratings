@@ -30,8 +30,8 @@ Rating: 3.94 (Ranked 984)
 | Freebooter | 0.30% | ~267 |
 | Moneybags | 0.30% | ~267 |
 | Olympus Ascended | 0.30% | ~267 |
+| Ding Dong | 0.30% | ~267 |
 | Rockay Raider | 0.20% | ~178 |
-| Ding Dong | 0.20% | ~178 |
 | All that Glitters | 0.20% | ~35 |
 | All for One | 0.20% | ~35 |
 | Rockay Knight | 0.10% | ~89 |

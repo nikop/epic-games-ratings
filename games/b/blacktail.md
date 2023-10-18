@@ -17,12 +17,12 @@ Rating: 4.68 (Ranked 242)
 | Liar Liar | 6.00% | ~42 |
 | A friend in need... | 6.00% | ~42 |
 | The cycle acknowledged | 6.00% | ~42 |
+| Baba Yaga | 6.00% | ~42 |
 | Extensive retelling | 5.00% | ~35 |
 | Sneak peek | 5.00% | ~35 |
 | Fishing fanatic | 5.00% | ~35 |
 | The word around is... | 5.00% | ~35 |
 | Queen | 5.00% | ~35 |
-| Baba Yaga | 5.00% | ~35 |
 | Favorite | 4.00% | ~28 |
 | Specialist | 4.00% | ~28 |
 | Goal! | 3.00% | ~21 |

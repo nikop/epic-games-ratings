@@ -6,40 +6,40 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Handyman | 2.00% | ~18,930 |
-| Zealous | 2.00% | ~18,930 |
-| It wakes | 2.00% | ~18,930 |
-| Not half bad | 2.00% | ~18,930 |
-| Apt Survivor | 2.00% | ~18,930 |
-| Survival Treasures | 2.00% | ~18,930 |
-| Skillful | 2.00% | ~18,930 |
-| Make Some Noise | 2.00% | ~18,930 |
-| The Grand Sacrifice | 1.00% | ~9,465 |
-| Agonizing Escape | 1.00% | ~9,465 |
-| Backdoor Escape | 1.00% | ~9,465 |
-| I've got your back | 1.00% | ~9,465 |
-| No one left behind | 1.00% | ~9,465 |
-| Medic | 1.00% | ~9,465 |
-| Nerves of steel | 1.00% | ~9,465 |
-| Perfect Escape | 1.00% | ~9,465 |
-| Perfect Killing | 1.00% | ~9,465 |
-| Bloody Millionaire | 1.00% | ~9,465 |
-| Risk it all | 1.00% | ~9,465 |
-| I | 1.00% | ~9,465 |
-| Engineer | 1.00% | ~9,465 |
-| Sorted | 1.00% | ~9,465 |
-| Healthy Obsession | 1.00% | ~9,465 |
-| Resurgence | 1.00% | ~9,465 |
-| Close Shave | 1.00% | ~9,465 |
-| Preemptive Strike | 1.00% | ~9,465 |
-| Humanitarian | 1.00% | ~9,465 |
+| Handyman | 2.00% | ~18,931 |
+| Zealous | 2.00% | ~18,931 |
+| It wakes | 2.00% | ~18,931 |
+| Not half bad | 2.00% | ~18,931 |
+| Apt Survivor | 2.00% | ~18,931 |
+| Survival Treasures | 2.00% | ~18,931 |
+| Skillful | 2.00% | ~18,931 |
+| Make Some Noise | 2.00% | ~18,931 |
+| The Grand Sacrifice | 1.00% | ~9,466 |
+| Agonizing Escape | 1.00% | ~9,466 |
+| Backdoor Escape | 1.00% | ~9,466 |
+| I've got your back | 1.00% | ~9,466 |
+| No one left behind | 1.00% | ~9,466 |
+| Medic | 1.00% | ~9,466 |
+| Nerves of steel | 1.00% | ~9,466 |
+| Perfect Escape | 1.00% | ~9,466 |
+| Perfect Killing | 1.00% | ~9,466 |
+| Bloody Millionaire | 1.00% | ~9,466 |
+| Risk it all | 1.00% | ~9,466 |
+| I | 1.00% | ~9,466 |
+| Engineer | 1.00% | ~9,466 |
+| Sorted | 1.00% | ~9,466 |
+| Healthy Obsession | 1.00% | ~9,466 |
+| Resurgence | 1.00% | ~9,466 |
+| Close Shave | 1.00% | ~9,466 |
+| Preemptive Strike | 1.00% | ~9,466 |
+| Humanitarian | 1.00% | ~9,466 |
 | Apt Killer | 0.90% | ~8,519 |
 | II | 0.90% | ~8,519 |
 | Wounded Healer | 0.90% | ~8,519 |
-| Vulture | 0.80% | ~7,572 |
-| III | 0.80% | ~7,572 |
-| Rebuilding The Borgo | 0.80% | ~7,572 |
-| Second Act | 0.80% | ~7,572 |
+| Vulture | 0.80% | ~7,573 |
+| III | 0.80% | ~7,573 |
+| Rebuilding The Borgo | 0.80% | ~7,573 |
+| Second Act | 0.80% | ~7,573 |
 | Escape Artist | 0.70% | ~6,626 |
 | First to the Punch | 0.70% | ~6,626 |
 | Every Last Drop | 0.70% | ~6,626 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~947 |
 | Adept Ripley | 0.10% | ~947 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 946,519 (Ranked 14)  
+Progressed: 946,565 (Ranked 14)  
 Completed: 51 (0.01%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -417,7 +417,7 @@ Completed: 51 (0.01%) (Ranked 297)
 | 2023-10-15 | 942,498 | 51 |
 | 2023-10-16 | 944,360 | 51 |
 | 2023-10-17 | 946,172 | 51 |
-| 2023-10-18 | 946,519 | 51 |
+| 2023-10-18 | 946,565 | 51 |
 ## Awards
 Max (Diverse Characters): 34,059  (Ranked 15)  
 Sum: 263,251 (Ranked 13)  

@@ -23,6 +23,7 @@
 | Objection | 56.00% | ~5 |
 | Fair Prey | 56.00% | ~5 |
 | Post Industrial | 56.00% | ~5 |
+| Fly Free | 56.00% | ~5 |
 | Medicine ball | 56.00% | ~5 |
 | Popcorn | 56.00% | ~5 |
 | First do no harm | 56.00% | ~5 |
@@ -33,7 +34,6 @@
 | Sick Kids | 44.00% | ~4 |
 | Pale Kids | 44.00% | ~4 |
 | Wild Kids | 44.00% | ~4 |
-| Fly Free | 44.00% | ~4 |
 | Twenty-Six | 33.00% | ~3 |
 | No More Remains | 33.00% | ~3 |
 | School Kids | 33.00% | ~3 |

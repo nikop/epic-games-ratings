@@ -1801,10 +1801,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 1844,
       "NumberOfAwardsMax": 224
+    },
+    {
+      "Time": "2023-10-18T05:58:06.9327833+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1845,
+      "NumberOfAwardsMax": 224
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1844,
+  "NumberOfAwards": 1845,
   "NumberOfAwardsMax": 224,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -1818,7 +1824,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 212
+      "Count": 213
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1883,7 +1889,7 @@
   ],
   "EOS_Progressed": 14776,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 187,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16889,9 +16895,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
-  "LastChanged": "2023-10-17T23:58:04.3729179+00:00",
-  "LastChanged_Achievements": "2023-10-18T05:09:31.2021743+00:00",
+  "LastChanged": "2023-10-18T05:58:06.9327831+00:00",
+  "LastChanged_Achievements": "2023-10-18T06:09:15.140644+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:21.7880328+00:00",
-  "LastUpdate_Ratings": "2023-10-18T04:58:08.7011799+00:00",
-  "LastUpdate_Achievements": "2023-10-18T05:09:31.2034187+00:00"
+  "LastUpdate_Ratings": "2023-10-18T05:58:06.932784+00:00",
+  "LastUpdate_Achievements": "2023-10-18T06:09:15.1417641+00:00"
 }

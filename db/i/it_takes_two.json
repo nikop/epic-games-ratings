@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 14288,
+  "EOS_Progressed": 14289,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 1930,
+  "EOS_NewPlayers": 1921,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -3260,6 +3260,11 @@
       "Time": "2023-10-18T05:04:13.8407092+00:00",
       "NumProgressed": 14288,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-10-18T06:04:04.1545481+00:00",
+      "NumProgressed": 14289,
+      "NumCompleted": 64
     }
   ],
   "AchievementsAdded": "2023-09-20T21:06:26.7864758+00:00",
@@ -3296,7 +3301,7 @@
       "Name": "On Rails Experience",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 8144
+      "UsersEstimate": 8145
     },
     {
       "ID": "achievement_13",
@@ -3384,7 +3389,7 @@
       "Name": "Struck A Pose",
       "Percentage": 88,
       "XP": 50,
-      "UsersEstimate": 12573
+      "UsersEstimate": 12574
     },
     {
       "ID": "achievement_5",
@@ -3431,13 +3436,13 @@
     {
       "ID": "2bk7oji",
       "IsBase": true,
-      "Progressed": 14288,
+      "Progressed": 14289,
       "Completed": 64
     }
   ],
   "FirstSeenAchievements": "2023-07-27T23:04:38.3880568+00:00",
-  "LastChanged_Achievements": "2023-10-18T05:04:13.8407087+00:00",
+  "LastChanged_Achievements": "2023-10-18T06:04:04.1545475+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:21.7081643+00:00",
-  "LastUpdate_Ratings": "2023-10-18T05:00:24.1702237+00:00",
-  "LastUpdate_Achievements": "2023-10-18T05:04:13.84077+00:00"
+  "LastUpdate_Ratings": "2023-10-18T06:00:15.8407463+00:00",
+  "LastUpdate_Achievements": "2023-10-18T06:04:04.1545878+00:00"
 }

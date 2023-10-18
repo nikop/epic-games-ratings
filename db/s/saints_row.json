@@ -3846,7 +3846,7 @@
       "Count": 1069
     }
   ],
-  "EOS_Progressed": 75352,
+  "EOS_Progressed": 75353,
   "EOS_Completed": 51,
   "EOS_NewPlayers": 784,
   "EOS_NewCompleters": 0,
@@ -24176,6 +24176,11 @@
       "Time": "2023-10-18T05:04:18.3441912+00:00",
       "NumProgressed": 75352,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-18T06:04:08.6243174+00:00",
+      "NumProgressed": 75353,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -24203,7 +24208,7 @@
       "Name": "Quality Time",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 13563
+      "UsersEstimate": 13564
     },
     {
       "ID": "buy_1_thing_from_every_store",
@@ -24315,7 +24320,7 @@
       "Name": "Optimized",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 27880
+      "UsersEstimate": 27881
     },
     {
       "ID": "cutting_edge_materials",
@@ -24459,7 +24464,7 @@
       "Name": "Picking Fights",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15070
+      "UsersEstimate": 15071
     },
     {
       "ID": "kill_enemy_with_tetherd_object",
@@ -24483,7 +24488,7 @@
       "Name": "Making a Name",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 26373
+      "UsersEstimate": 26374
     },
     {
       "ID": "one_third_purple",
@@ -24603,20 +24608,20 @@
       "Name": "Hazardous Heist",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 2349
+      "UsersEstimate": 2350
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 75352,
+      "Progressed": 75353,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 46989,
+      "Progressed": 46990,
       "Completed": 4131
     }
   ],
@@ -24624,8 +24629,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-10-17T20:58:18.2404091+00:00",
-  "LastChanged_Achievements": "2023-10-18T05:04:18.3441906+00:00",
+  "LastChanged_Achievements": "2023-10-18T06:04:08.6243169+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:20.7071116+00:00",
-  "LastUpdate_Ratings": "2023-10-18T04:58:46.2525697+00:00",
-  "LastUpdate_Achievements": "2023-10-18T05:04:18.3445186+00:00"
+  "LastUpdate_Ratings": "2023-10-18T05:58:42.854708+00:00",
+  "LastUpdate_Achievements": "2023-10-18T06:04:08.6244708+00:00"
 }

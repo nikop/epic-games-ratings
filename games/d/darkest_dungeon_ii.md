@@ -6,20 +6,20 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~112,344 |
-| Don't Make Me Turn This Coach Around | 71.00% | ~85,768 |
-| A Clear Conscience | 69.00% | ~83,352 |
-| Unleash Hell | 68.00% | ~82,144 |
-| Unfulfilled Desires | 68.00% | ~82,144 |
-| Funny Guy | 67.00% | ~80,936 |
-| Unshackled | 67.00% | ~80,936 |
-| Long Live the King | 66.00% | ~79,728 |
-| Resurrection | 62.00% | ~74,896 |
-| Wyrdly Reconstructed | 62.00% | ~74,896 |
-| Boxcar Kid | 60.00% | ~72,480 |
-| Rush Hour | 60.00% | ~72,480 |
-| To Grandmother's House | 60.00% | ~72,480 |
-| Serenity Now! | 54.00% | ~65,232 |
+| A Place to Lay Your Head | 93.00% | ~112,345 |
+| Don't Make Me Turn This Coach Around | 71.00% | ~85,769 |
+| A Clear Conscience | 69.00% | ~83,353 |
+| Unleash Hell | 68.00% | ~82,145 |
+| Unfulfilled Desires | 68.00% | ~82,145 |
+| Funny Guy | 67.00% | ~80,937 |
+| Unshackled | 67.00% | ~80,937 |
+| Long Live the King | 66.00% | ~79,729 |
+| Resurrection | 62.00% | ~74,897 |
+| Wyrdly Reconstructed | 62.00% | ~74,897 |
+| Boxcar Kid | 60.00% | ~72,481 |
+| Rush Hour | 60.00% | ~72,481 |
+| To Grandmother's House | 60.00% | ~72,481 |
+| Serenity Now! | 54.00% | ~65,233 |
 | Hope Rekindled | 50.00% | ~60,400 |
 | Ramble On | 49.00% | ~59,192 |
 | Nope | 49.00% | ~59,192 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Loop Year | 0.10% | ~121 |
 | No Gravestone Left Unturned | 0.10% | ~121 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 120,800 (Ranked 77)  
+Progressed: 120,801 (Ranked 77)  
 Completed: 1 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,10 +243,10 @@ Completed: 1 (0.00%) (Ranked 315)
 | 2023-10-15 | 120,627 | 1 |
 | 2023-10-16 | 120,699 | 1 |
 | 2023-10-17 | 120,790 | 1 |
-| 2023-10-18 | 120,800 | 1 |
+| 2023-10-18 | 120,801 | 1 |
 ## Awards
 Max (Character Customization): 7,464  (Ranked 51)  
-Sum: 19,556 (Ranked 57)  
+Sum: 19,557 (Ranked 57)  
 Diff (max vs sum): -6  
 | Award | Count |
 | ----- | ----- |
@@ -258,7 +258,7 @@ Diff (max vs sum): -6
 | This game has Amazing Characters | 1,388 |
 | This game has Amazing Storytelling | 1,314 |
 | This game has Quickly Understood Controls | 1,291 |
-| This game has Unique Visuals | 1,266 |
+| This game has Unique Visuals | 1,267 |
 | This game has a Creative Community | 950 |
 | This game has Obsessive Gameplay | 585 |
 | This game is Relaxing | 326 |
@@ -529,3 +529,4 @@ Diff (max vs sum): -6
 | 2023-10-15 | 4.68 | - | 7,457 | 19,536 |
 | 2023-10-16 | 4.68 | - | 7,462 | 19,549 |
 | 2023-10-17 | 4.68 | - | 7,464 | 19,556 |
+| 2023-10-18 | 4.68 | - | 7,464 | 19,557 |

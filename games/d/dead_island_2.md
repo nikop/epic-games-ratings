@@ -7,20 +7,20 @@ Rating: 4.54 (Ranked 515)
 | ---- | ---------- | ----- |
 | Hotel California | 4.00% | ~27,893 |
 | Welcome To Hell-A | 4.00% | ~27,893 |
-| Dr. Reed, I Presume? | 3.00% | ~20,919 |
-| Git Gutte! | 3.00% | ~20,919 |
-| Bookworm | 3.00% | ~20,919 |
-| Break A Leg | 3.00% | ~20,919 |
-| But Doctor, I am Butcho | 3.00% | ~20,919 |
-| Can't Handle the Truth | 3.00% | ~20,919 |
-| Coup de Grâce | 3.00% | ~20,919 |
-| Like Riding a Bike | 3.00% | ~20,919 |
-| Hazardous Materials | 3.00% | ~20,919 |
-| Friends Like These | 3.00% | ~20,919 |
-| Apex Predator | 3.00% | ~20,919 |
-| Stacking the Deck | 3.00% | ~20,919 |
-| Personal Assistant Personally Assisted | 3.00% | ~20,919 |
-| This is My Weapon | 3.00% | ~20,919 |
+| Dr. Reed, I Presume? | 3.00% | ~20,920 |
+| Git Gutte! | 3.00% | ~20,920 |
+| Bookworm | 3.00% | ~20,920 |
+| Break A Leg | 3.00% | ~20,920 |
+| But Doctor, I am Butcho | 3.00% | ~20,920 |
+| Can't Handle the Truth | 3.00% | ~20,920 |
+| Coup de Grâce | 3.00% | ~20,920 |
+| Like Riding a Bike | 3.00% | ~20,920 |
+| Hazardous Materials | 3.00% | ~20,920 |
+| Friends Like These | 3.00% | ~20,920 |
+| Apex Predator | 3.00% | ~20,920 |
+| Stacking the Deck | 3.00% | ~20,920 |
+| Personal Assistant Personally Assisted | 3.00% | ~20,920 |
+| This is My Weapon | 3.00% | ~20,920 |
 | Making Your Mark | 2.00% | ~13,946 |
 | Anger Management | 2.00% | ~13,946 |
 | Perks of the Job | 2.00% | ~13,946 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 515)
 | Donk! | 0.20% | ~1,395 |
 | Bucket List | 0.10% | ~697 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 697,316 (Ranked 22)  
+Progressed: 697,325 (Ranked 22)  
 Completed: 2,239 (0.32%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,10 +232,10 @@ Completed: 2,239 (0.32%) (Ranked 200)
 | 2023-10-15 | 696,452 | 2,227 |
 | 2023-10-16 | 696,890 | 2,235 |
 | 2023-10-17 | 697,259 | 2,238 |
-| 2023-10-18 | 697,316 | 2,239 |
+| 2023-10-18 | 697,325 | 2,239 |
 ## Awards
 Max (Great Boss Battles): 6,489  (Ranked 56)  
-Sum: 9,706 (Ranked 91)  
+Sum: 9,708 (Ranked 91)  
 Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
@@ -243,7 +243,7 @@ Diff (max vs sum): -35
 | This game is Great for Beginners | 462 |
 | This game has Diverse Characters | 451 |
 | This game has Quickly Understood Controls | 425 |
-| This game is Relaxing | 407 |
+| This game is Relaxing | 409 |
 | This game has Amazing Storytelling | 384 |
 | This game is Highly Recommended | 367 |
 | This game is Extremely Fun | 366 |
@@ -431,4 +431,4 @@ Diff (max vs sum): -35
 | 2023-10-15 | 4.54 | 6,462 | 9,657 |
 | 2023-10-16 | 4.54 | 6,462 | 9,671 |
 | 2023-10-17 | 4.54 | 6,477 | 9,692 |
-| 2023-10-18 | 4.54 | 6,489 | 9,706 |
+| 2023-10-18 | 4.54 | 6,489 | 9,708 |

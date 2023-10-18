@@ -2280,9 +2280,9 @@
       "ID": "AC23",
       "SetID": "l4abp0",
       "Name": "Hide and Seek",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 346
+      "UsersEstimate": 355
     },
     {
       "ID": "AC24",
@@ -2312,9 +2312,9 @@
       "ID": "AC27",
       "SetID": "l4abp0",
       "Name": "Twisted is the Path of the Miracle",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 210
     },
     {
       "ID": "AC28",
@@ -2473,8 +2473,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-10-10T02:57:43.7078143+00:00",
-  "LastChanged_Achievements": "2023-10-18T05:06:15.2870323+00:00",
+  "LastChanged_Achievements": "2023-10-18T06:06:02.9214096+00:00",
   "LastUpdate_AppInfo": "2023-10-17T21:57:13.3948519+00:00",
-  "LastUpdate_Ratings": "2023-10-18T05:00:24.0356958+00:00",
-  "LastUpdate_Achievements": "2023-10-18T05:06:15.2871172+00:00"
+  "LastUpdate_Ratings": "2023-10-18T06:00:15.7170545+00:00",
+  "LastUpdate_Achievements": "2023-10-18T06:06:02.9214807+00:00"
 }

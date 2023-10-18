@@ -27,7 +27,7 @@ Number of Ratings: 706  (23.09.2022)
 | Heating Up | 31.00% | ~1,937 |
 | Winter Is Coming | 28.00% | ~1,749 |
 | Winter Is Here | 24.00% | ~1,500 |
-| Disassembled | 21.00% | ~1,312 |
+| Disassembled | 22.00% | ~1,375 |
 | A Party Now | 21.00% | ~1,312 |
 | Oh Deer! | 21.00% | ~1,312 |
 | All Year Round | 21.00% | ~1,312 |

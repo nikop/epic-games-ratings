@@ -19,7 +19,7 @@ Rating: 4.82 (Ranked 63)
 | Past trauma | 36.00% | ~938 |
 | Ternmoat Headquarters | 36.00% | ~938 |
 | Cypress Glen Headquarters | 34.00% | ~886 |
-| Petricite Burst | 32.00% | ~834 |
+| Petricite Burst | 33.00% | ~860 |
 | Hijack | 30.00% | ~782 |
 | Old friend | 30.00% | ~782 |
 | Devineur | 29.00% | ~755 |

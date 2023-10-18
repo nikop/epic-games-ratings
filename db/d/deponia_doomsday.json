@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -77,9 +77,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 441,
+  "EOS_Progressed": 442,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.36,
   "EosHistory": [
@@ -497,6 +497,11 @@
       "Time": "2023-10-16T23:07:17.125677+00:00",
       "NumProgressed": 441,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-18T06:06:24.2102549+00:00",
+      "NumProgressed": 442,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 36,
@@ -508,7 +513,7 @@
       "Name": "Huzza, he\u0027s back.",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "dep4_achievement_10",
@@ -516,7 +521,7 @@
       "Name": "Sole Music",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "dep4_achievement_11",
@@ -530,9 +535,9 @@
       "ID": "dep4_achievement_12",
       "SetID": "5d32b60",
       "Name": "Masseltov",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 84
     },
     {
       "ID": "dep4_achievement_13",
@@ -580,7 +585,7 @@
       "Name": "Chunky",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "dep4_achievement_19",
@@ -634,9 +639,9 @@
       "ID": "dep4_achievement_24",
       "SetID": "5d32b60",
       "Name": "Thuna...?",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 66
+      "UsersEstimate": 62
     },
     {
       "ID": "dep4_achievement_25",
@@ -652,7 +657,7 @@
       "Name": "Scaffolding Expert",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "dep4_achievement_27",
@@ -660,7 +665,7 @@
       "Name": "The customer is always right",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "dep4_achievement_28",
@@ -668,7 +673,7 @@
       "Name": "Kuvaq Minigame-Master",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "dep4_achievement_29",
@@ -676,7 +681,7 @@
       "Name": "Pacifist",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "dep4_achievement_3",
@@ -684,7 +689,7 @@
       "Name": "Burn, Elysium, burn!",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "dep4_achievement_30",
@@ -692,7 +697,7 @@
       "Name": "Elysian Minigame-Master",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "dep4_achievement_31",
@@ -724,7 +729,7 @@
       "Name": "Apoca...huh?",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "dep4_achievement_35",
@@ -756,7 +761,7 @@
       "Name": "Boat of love, boat of love",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "dep4_achievement_6",
@@ -788,14 +793,14 @@
       "Name": "Against better judgement",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     }
   ],
   "AchievementSets": [
     {
       "ID": "5d32b60",
       "IsBase": true,
-      "Progressed": 441,
+      "Progressed": 442,
       "Completed": 6
     }
   ],
@@ -803,8 +808,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-09-28T09:59:33.6365228+00:00",
-  "LastChanged_Achievements": "2023-10-18T05:06:36.8709909+00:00",
+  "LastChanged_Achievements": "2023-10-18T06:06:24.2102543+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:23.1936076+00:00",
-  "LastUpdate_Ratings": "2023-10-18T05:00:20.3495209+00:00",
-  "LastUpdate_Achievements": "2023-10-18T05:06:36.8710435+00:00"
+  "LastUpdate_Ratings": "2023-10-18T06:00:11.8452782+00:00",
+  "LastUpdate_Achievements": "2023-10-18T06:06:24.2102872+00:00"
 }
