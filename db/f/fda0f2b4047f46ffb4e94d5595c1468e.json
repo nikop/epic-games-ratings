@@ -1392,9 +1392,9 @@
       "Count": 231
     }
   ],
-  "EOS_Progressed": 7747,
+  "EOS_Progressed": 7748,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 381,
+  "EOS_NewPlayers": 380,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4732,6 +4732,11 @@
       "Time": "2023-10-18T08:09:07.7074972+00:00",
       "NumProgressed": 7747,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-18T10:09:08.1617159+00:00",
+      "NumProgressed": 7748,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -4784,7 +4789,7 @@
       "Name": "Titan",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 5733
+      "UsersEstimate": 5734
     },
     {
       "ID": "ach07",
@@ -4792,7 +4797,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 4183
+      "UsersEstimate": 4184
     },
     {
       "ID": "ach08",
@@ -4800,7 +4805,7 @@
       "Name": "It Has Begun!!!",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2866
+      "UsersEstimate": 2867
     },
     {
       "ID": "ach09",
@@ -4856,7 +4861,7 @@
       "Name": "Give A Koin",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 1859
+      "UsersEstimate": 1860
     },
     {
       "ID": "ach16",
@@ -4912,7 +4917,7 @@
       "Name": "Where\u0027s Blanche",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 1394
+      "UsersEstimate": 1395
     },
     {
       "ID": "ach23",
@@ -4936,7 +4941,7 @@
       "Name": "Talis-Mania",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 1704
+      "UsersEstimate": 1705
     },
     {
       "ID": "ach26",
@@ -5032,7 +5037,7 @@
       "Name": "ABACABB",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 4338
+      "UsersEstimate": 4339
     },
     {
       "ID": "ach38",
@@ -5040,7 +5045,7 @@
       "Name": "Made It Out Alive",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3331
+      "UsersEstimate": 3332
     },
     {
       "ID": "ach39",
@@ -5048,7 +5053,7 @@
       "Name": "Make Way, I\u0027m Koming Through",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 3021
+      "UsersEstimate": 3022
     },
     {
       "ID": "ach40",
@@ -5056,7 +5061,7 @@
       "Name": "Found You",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 2866
+      "UsersEstimate": 2867
     },
     {
       "ID": "ach41",
@@ -5064,7 +5069,7 @@
       "Name": "Stop Hiding",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2866
+      "UsersEstimate": 2867
     },
     {
       "ID": "ach42",
@@ -5080,7 +5085,7 @@
       "Name": "Working Overtime",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3331
+      "UsersEstimate": 3332
     },
     {
       "ID": "ach44",
@@ -5120,7 +5125,7 @@
       "Name": "Total Disrespect",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 1549
+      "UsersEstimate": 1550
     },
     {
       "ID": "ach49",
@@ -5143,7 +5148,7 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 7747,
+      "Progressed": 7748,
       "Completed": 0
     }
   ],
@@ -5151,8 +5156,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-10-18T08:00:05.3236447+00:00",
-  "LastChanged_Achievements": "2023-10-18T09:09:05.8288221+00:00",
+  "LastChanged_Achievements": "2023-10-18T10:09:08.1617155+00:00",
   "LastUpdate_AppInfo": "2023-10-14T07:57:06.3888504+00:00",
-  "LastUpdate_Ratings": "2023-10-18T09:00:58.6021316+00:00",
-  "LastUpdate_Achievements": "2023-10-18T09:09:05.8288879+00:00"
+  "LastUpdate_Ratings": "2023-10-18T10:01:04.7247429+00:00",
+  "LastUpdate_Achievements": "2023-10-18T10:09:08.161764+00:00"
 }

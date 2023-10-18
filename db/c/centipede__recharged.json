@@ -302,9 +302,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17891,
+  "EOS_Progressed": 17893,
   "EOS_Completed": 112,
-  "EOS_NewPlayers": 162,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -14072,6 +14072,11 @@
       "Time": "2023-10-18T06:04:49.5220375+00:00",
       "NumProgressed": 17891,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2023-10-18T10:05:30.0672672+00:00",
+      "NumProgressed": 17893,
+      "NumCompleted": 112
     }
   ],
   "TotalAchievements": 16,
@@ -14091,7 +14096,7 @@
       "Name": "Burning For You",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 5009
+      "UsersEstimate": 5010
     },
     {
       "ID": "Deadline",
@@ -14123,7 +14128,7 @@
       "Name": "Feel The Thunder",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 1073
+      "UsersEstimate": 1074
     },
     {
       "ID": "Fireworks",
@@ -14131,7 +14136,7 @@
       "Name": "Fireworks",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 5904
+      "UsersEstimate": 5905
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -14139,7 +14144,7 @@
       "Name": "Harvester Of Eyes",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 1252
+      "UsersEstimate": 1253
     },
     {
       "ID": "I_Am_The_Storm",
@@ -14147,7 +14152,7 @@
       "Name": "I Am The Storm",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 3220
+      "UsersEstimate": 3221
     },
     {
       "ID": "Make_Rock_Not_War",
@@ -14155,7 +14160,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 7514
+      "UsersEstimate": 7515
     },
     {
       "ID": "Mirrors",
@@ -14195,7 +14200,7 @@
       "Name": "Still Burnin\u0027",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 3220
+      "UsersEstimate": 3221
     },
     {
       "ID": "The_Reaper",
@@ -14203,22 +14208,22 @@
       "Name": "The Reaper",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 1252
+      "UsersEstimate": 1253
     }
   ],
   "AchievementSets": [
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 17891,
+      "Progressed": 17893,
       "Completed": 112
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-07-21T02:04:12.2963456+00:00",
-  "LastChanged_Achievements": "2023-10-18T09:05:24.3800129+00:00",
+  "LastChanged_Achievements": "2023-10-18T10:05:30.0672666+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:27.7450235+00:00",
-  "LastUpdate_Ratings": "2023-10-18T08:59:30.9955858+00:00",
-  "LastUpdate_Achievements": "2023-10-18T09:05:24.3801081+00:00"
+  "LastUpdate_Ratings": "2023-10-18T09:59:24.724682+00:00",
+  "LastUpdate_Achievements": "2023-10-18T10:05:30.0673442+00:00"
 }

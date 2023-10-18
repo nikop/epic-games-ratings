@@ -39,11 +39,11 @@ Rating: 4.15 (Ranked 919)
 | Awakening | 0.60% | ~253 |
 | Explorer: Trailblazer | 0.60% | ~253 |
 | Through the Eyes of Another: Seer | 0.50% | ~211 |
-| Archivist | 0.30% | ~126 |
-| Craftsperson | 0.30% | ~126 |
-| Tit for Tat | 0.30% | ~126 |
-| Promises | 0.30% | ~126 |
-| Rebirth | 0.30% | ~126 |
+| Archivist | 0.30% | ~127 |
+| Craftsperson | 0.30% | ~127 |
+| Tit for Tat | 0.30% | ~127 |
+| Promises | 0.30% | ~127 |
+| Rebirth | 0.30% | ~127 |
 | Paragon | 0.20% | ~84 |
 | Pilgrimage: Adept | 0.20% | ~84 |
 | Call of the Fount: Beatified | 0.20% | ~84 |
@@ -59,7 +59,7 @@ Rating: 4.15 (Ranked 919)
 | Remembrance | 0.10% | ~42 |
 | Cat Person | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,166 (Ranked 109)  
+Progressed: 42,168 (Ranked 109)  
 Completed: 3 (0.01%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,7 +240,7 @@ Completed: 3 (0.01%) (Ranked 298)
 | 2023-10-15 | 42,132 | 3 |
 | 2023-10-16 | 42,149 | 3 |
 | 2023-10-17 | 42,164 | 3 |
-| 2023-10-18 | 42,166 | 3 |
+| 2023-10-18 | 42,168 | 3 |
 ## Awards
 Max (Character Customization): 28  (Ranked 485)  
 Sum: 28 (Ranked 499)  

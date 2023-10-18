@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 66,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewPlayers": 102,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -8067,9 +8067,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 63450,
+  "EOS_Progressed": 63453,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 385,
+  "EOS_NewPlayers": 384,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27232,6 +27232,11 @@
       "Time": "2023-10-18T09:05:19.821799+00:00",
       "NumProgressed": 63450,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-18T10:05:24.9751276+00:00",
+      "NumProgressed": 63453,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -27299,7 +27304,7 @@
       "Name": "Crowdfunded",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3172
+      "UsersEstimate": 3173
     },
     {
       "ID": "Crackshot",
@@ -27315,7 +27320,7 @@
       "Name": "Crush your enemies",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3172
+      "UsersEstimate": 3173
     },
     {
       "ID": "Duelist",
@@ -27339,7 +27344,7 @@
       "Name": "Entrepreneur",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "Explorer",
@@ -27371,7 +27376,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8248
+      "UsersEstimate": 8249
     },
     {
       "ID": "Great Granny",
@@ -27435,7 +27440,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10786
+      "UsersEstimate": 10787
     },
     {
       "ID": "Kingslayer",
@@ -27467,7 +27472,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 20938
+      "UsersEstimate": 20939
     },
     {
       "ID": "Lawbringer",
@@ -27475,7 +27480,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 24746
+      "UsersEstimate": 24747
     },
     {
       "ID": "Lawmaker",
@@ -27523,7 +27528,7 @@
       "Name": "My way",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 3172
+      "UsersEstimate": 3173
     },
     {
       "ID": "Real Estate",
@@ -27579,7 +27584,7 @@
       "Name": "Supreme Emperor",
       "Percentage": 1,
       "XP": 200,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "Swordbearer",
@@ -27650,15 +27655,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 63450,
+      "Progressed": 63453,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-18T08:58:29.0414376+00:00",
-  "LastChanged_Achievements": "2023-10-18T09:05:19.8217983+00:00",
+  "LastChanged_Achievements": "2023-10-18T10:05:24.9751272+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:51.8810296+00:00",
-  "LastUpdate_Ratings": "2023-10-18T08:58:29.0414386+00:00",
-  "LastUpdate_Achievements": "2023-10-18T09:05:19.8219535+00:00"
+  "LastUpdate_Ratings": "2023-10-18T09:58:13.783948+00:00",
+  "LastUpdate_Achievements": "2023-10-18T10:05:24.9752513+00:00"
 }

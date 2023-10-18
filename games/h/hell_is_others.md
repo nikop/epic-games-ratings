@@ -18,8 +18,8 @@ Rating: 4.40 (Ranked 725)
 | Pacifist | 4.00% | ~10,297 |
 | Vandalism | 4.00% | ~10,297 |
 | Capitalist I | 4.00% | ~10,297 |
-| Fixer II | 3.00% | ~7,722 |
-| Adrenaline | 3.00% | ~7,722 |
+| Fixer II | 3.00% | ~7,723 |
+| Adrenaline | 3.00% | ~7,723 |
 | By a hair | 2.00% | ~5,148 |
 | It took a while | 2.00% | ~5,148 |
 | Samurai | 2.00% | ~5,148 |
@@ -37,7 +37,7 @@ Rating: 4.40 (Ranked 725)
 | Run the Economy | 1.00% | ~2,574 |
 | Committed Relationship | 0.80% | ~2,059 |
 | Number 1 | 0.80% | ~2,059 |
-| Interior designer | 0.60% | ~1,544 |
+| Interior designer | 0.60% | ~1,545 |
 | The Gamble | 0.50% | ~1,287 |
 | The Descent | 0.50% | ~1,287 |
 | A major purchase | 0.50% | ~1,287 |
@@ -62,7 +62,7 @@ Rating: 4.40 (Ranked 725)
 | Capitalist III | 0.10% | ~257 |
 | Hell Is You | 0.10% | ~257 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 257,416 (Ranked 51)  
+Progressed: 257,417 (Ranked 51)  
 Completed: 3 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 3 (0.00%) (Ranked 316)
 | 2023-10-15 | 257,347 | 3 |
 | 2023-10-16 | 257,380 | 3 |
 | 2023-10-17 | 257,404 | 3 |
-| 2023-10-18 | 257,416 | 3 |
+| 2023-10-18 | 257,417 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 45  (Ranked 428)  
 Sum: 295 (Ranked 351)  

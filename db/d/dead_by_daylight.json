@@ -11501,9 +11501,9 @@
       "Count": 25492
     }
   ],
-  "EOS_Progressed": 946663,
+  "EOS_Progressed": 946709,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 14666,
+  "EOS_NewPlayers": 14670,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -32076,6 +32076,11 @@
       "Time": "2023-10-18T09:04:45.1330538+00:00",
       "NumProgressed": 946663,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-18T10:04:46.7343158+00:00",
+      "NumProgressed": 946709,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 229,
@@ -32223,7 +32228,7 @@
       "Name": "Handyman",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 18933
+      "UsersEstimate": 18934
     },
     {
       "ID": "ACH_019",
@@ -32255,7 +32260,7 @@
       "Name": "Zealous",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 18933
+      "UsersEstimate": 18934
     },
     {
       "ID": "ACH_023",
@@ -32263,7 +32268,7 @@
       "Name": "It wakes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 18933
+      "UsersEstimate": 18934
     },
     {
       "ID": "ACH_024",
@@ -32271,7 +32276,7 @@
       "Name": "Not half bad",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 18933
+      "UsersEstimate": 18934
     },
     {
       "ID": "ACH_025",
@@ -32287,7 +32292,7 @@
       "Name": "Gifts for the Fog",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 4733
+      "UsersEstimate": 4734
     },
     {
       "ID": "ACH_027",
@@ -32295,7 +32300,7 @@
       "Name": "Apt Survivor",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 18933
+      "UsersEstimate": 18934
     },
     {
       "ID": "ACH_028",
@@ -32319,7 +32324,7 @@
       "Name": "Survival Treasures",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 18933
+      "UsersEstimate": 18934
     },
     {
       "ID": "ACH_031",
@@ -32327,7 +32332,7 @@
       "Name": "Vulture",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 7573
+      "UsersEstimate": 7574
     },
     {
       "ID": "ACH_032",
@@ -32391,7 +32396,7 @@
       "Name": "Skillful",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 18933
+      "UsersEstimate": 18934
     },
     {
       "ID": "ACH_040",
@@ -32415,7 +32420,7 @@
       "Name": "III",
       "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 7573
+      "UsersEstimate": 7574
     },
     {
       "ID": "ACH_043",
@@ -32463,7 +32468,7 @@
       "Name": "Shock Therapy",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 4733
+      "UsersEstimate": 4734
     },
     {
       "ID": "ACH_049",
@@ -32503,7 +32508,7 @@
       "Name": "All Aboard",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4733
+      "UsersEstimate": 4734
     },
     {
       "ID": "ACH_054",
@@ -32559,7 +32564,7 @@
       "Name": "Leapfrog",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4733
+      "UsersEstimate": 4734
     },
     {
       "ID": "ACH_061",
@@ -32607,7 +32612,7 @@
       "Name": "House of Pain",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4733
+      "UsersEstimate": 4734
     },
     {
       "ID": "ACH_067",
@@ -32647,7 +32652,7 @@
       "Name": "Cottage Owner",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4733
+      "UsersEstimate": 4734
     },
     {
       "ID": "ACH_072",
@@ -32727,7 +32732,7 @@
       "Name": "Escaping the Nightmare",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4733
+      "UsersEstimate": 4734
     },
     {
       "ID": "ACH_082",
@@ -32839,7 +32844,7 @@
       "Name": "Campbell\u0027s Chapel Legacy",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4733
+      "UsersEstimate": 4734
     },
     {
       "ID": "ACH_096",
@@ -32887,7 +32892,7 @@
       "Name": "Ancestor\u0027s Rite",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4733
+      "UsersEstimate": 4734
     },
     {
       "ID": "ACH_102",
@@ -33005,9 +33010,9 @@
       "ID": "ACH_116",
       "SetID": "16jml5b",
       "Name": "Cutting Out",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4733
+      "UsersEstimate": 5680
     },
     {
       "ID": "ACH_117",
@@ -33015,7 +33020,7 @@
       "Name": "Outrun Evil",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4733
+      "UsersEstimate": 4734
     },
     {
       "ID": "ACH_118",
@@ -33727,7 +33732,7 @@
       "Name": "Rebuilding The Borgo",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 7573
+      "UsersEstimate": 7574
     },
     {
       "ID": "ACH_210",
@@ -33735,7 +33740,7 @@
       "Name": "Lifting The Fog",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4733
+      "UsersEstimate": 4734
     },
     {
       "ID": "ACH_211",
@@ -33847,7 +33852,7 @@
       "Name": "Second Act",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 7573
+      "UsersEstimate": 7574
     },
     {
       "ID": "ACH_225",
@@ -33855,7 +33860,7 @@
       "Name": "Make Some Noise",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 18933
+      "UsersEstimate": 18934
     },
     {
       "ID": "ACH_226",
@@ -33895,7 +33900,7 @@
       "Name": "MU/TH/UR Dearest",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 4733
+      "UsersEstimate": 4734
     },
     {
       "ID": "ACH_231",
@@ -33918,21 +33923,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 946663,
+      "Progressed": 946709,
       "Completed": 52
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 946663,
+      "Progressed": 946709,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-10-18T04:59:23.2658415+00:00",
-  "LastChanged_Achievements": "2023-10-18T09:04:45.1330529+00:00",
+  "LastChanged_Achievements": "2023-10-18T10:04:46.7343153+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:50.4132277+00:00",
-  "LastUpdate_Ratings": "2023-10-18T09:00:04.217998+00:00",
-  "LastUpdate_Achievements": "2023-10-18T09:04:45.1338026+00:00"
+  "LastUpdate_Ratings": "2023-10-18T10:00:03.7879602+00:00",
+  "LastUpdate_Achievements": "2023-10-18T10:04:46.7348809+00:00"
 }

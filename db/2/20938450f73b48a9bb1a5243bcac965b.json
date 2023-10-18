@@ -28,8 +28,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "97iepbn",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2023-10-18T10:07:51.842628+00:00",
+  "LastChanged_Achievements": "2023-10-18T10:07:51.8426259+00:00",
   "LastUpdate_AppInfo": "2023-10-12T15:57:02.279208+00:00",
-  "LastUpdate_Ratings": "2023-10-18T09:01:11.9931823+00:00",
-  "LastUpdate_Achievements": "2023-10-18T09:07:34.2965215+00:00"
+  "LastUpdate_Ratings": "2023-10-18T10:01:17.3368734+00:00",
+  "LastUpdate_Achievements": "2023-10-18T10:07:51.842629+00:00"
 }

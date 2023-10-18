@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 371,
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
@@ -622,9 +622,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 469231,
+  "EOS_Progressed": 469234,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 364,
+  "EOS_NewPlayers": 365,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19527,6 +19527,11 @@
       "Time": "2023-10-18T09:09:18.3586296+00:00",
       "NumProgressed": 469231,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-10-18T10:09:21.7323873+00:00",
+      "NumProgressed": 469234,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 79,
@@ -19554,7 +19559,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 112615
+      "UsersEstimate": 112616
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -19586,7 +19591,7 @@
       "Name": "Chapter IV: Through the Looking Glass",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 37538
+      "UsersEstimate": 37539
     },
     {
       "ID": "achievement_story_complete_chapter_5",
@@ -19626,7 +19631,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 309692
+      "UsersEstimate": 309694
     },
     {
       "ID": "achievement_story_landa",
@@ -19650,7 +19655,7 @@
       "Name": "Through the mirror",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37538
+      "UsersEstimate": 37539
     },
     {
       "ID": "achievement_story_meet_mother",
@@ -19690,7 +19695,7 @@
       "Name": "Tetsuo",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51615
+      "UsersEstimate": 51616
     },
     {
       "ID": "achievement_story_meet_vivar",
@@ -19698,7 +19703,7 @@
       "Name": "General Vivar",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37538
+      "UsersEstimate": 37539
     },
     {
       "ID": "achievement_story_meet_zenon",
@@ -19714,7 +19719,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 93846
+      "UsersEstimate": 93847
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -19722,7 +19727,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 159539
+      "UsersEstimate": 159540
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -19730,7 +19735,7 @@
       "Name": "Back to Ganyma",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37538
+      "UsersEstimate": 37539
     },
     {
       "ID": "achievement_story_spare_oberon",
@@ -19962,7 +19967,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 206462
+      "UsersEstimate": 206463
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -19970,7 +19975,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 140769
+      "UsersEstimate": 140770
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -19986,7 +19991,7 @@
       "Name": "Plan for the worst",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51615
+      "UsersEstimate": 51616
     },
     {
       "ID": "achievement_win_expedition_without_monster_noloss",
@@ -19994,7 +19999,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 183000
+      "UsersEstimate": 183001
     },
     {
       "ID": "achievement_win_run_hard",
@@ -20042,7 +20047,7 @@
       "Name": "Kaos Rule",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37538
+      "UsersEstimate": 37539
     },
     {
       "ID": "achievement_win_run_with_starter",
@@ -20090,7 +20095,7 @@
       "Name": "Soldiers of Fortune",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "achievement_unlock_pragmah_battleship",
@@ -20169,21 +20174,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 13165,
+      "Progressed": 13168,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 469231,
+      "Progressed": 469234,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-10-10T01:42:39.6470224+00:00",
-  "LastChanged_Achievements": "2023-10-18T09:09:18.3586291+00:00",
+  "LastChanged_Achievements": "2023-10-18T10:09:21.7323869+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:23.4157652+00:00",
-  "LastUpdate_Ratings": "2023-10-18T08:59:24.8797353+00:00",
-  "LastUpdate_Achievements": "2023-10-18T09:09:18.358827+00:00"
+  "LastUpdate_Ratings": "2023-10-18T09:59:17.6000819+00:00",
+  "LastUpdate_Achievements": "2023-10-18T10:09:21.7325427+00:00"
 }

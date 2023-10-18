@@ -4,7 +4,7 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -19,7 +19,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1526,
+  "EOS_Progressed": 1527,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
@@ -3004,6 +3004,11 @@
       "Time": "2023-10-18T09:08:24.6495633+00:00",
       "NumProgressed": 1526,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-18T10:08:36.4218331+00:00",
+      "NumProgressed": 1527,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -3192,7 +3197,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -3224,7 +3229,7 @@
       "Name": "Clean Race",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -3368,7 +3373,7 @@
       "Name": "Rivals to the End",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -3407,14 +3412,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1526,
+      "Progressed": 1527,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-18T09:08:24.6495627+00:00",
+  "LastChanged_Achievements": "2023-10-18T10:08:36.4218327+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:05.5662527+00:00",
-  "LastUpdate_Ratings": "2023-10-18T08:58:58.0341713+00:00",
-  "LastUpdate_Achievements": "2023-10-18T09:08:24.6496234+00:00"
+  "LastUpdate_Ratings": "2023-10-18T09:58:46.5412287+00:00",
+  "LastUpdate_Achievements": "2023-10-18T10:08:36.4218921+00:00"
 }

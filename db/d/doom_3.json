@@ -3,7 +3,7 @@
   "Name": "DOOM 3",
   "ProductSlug": "doom-3",
   "Ranking_Rating": 420,
-  "Ranking_Popularity": 392,
+  "Ranking_Popularity": 391,
   "Ranking_PopularitySum": 458,
   "Ranking_EOS_Progress": 674,
   "Ranking_EOS_Completed": 316,
@@ -430,6 +430,6 @@
   "FirstSeenRating": "2022-08-25T17:32:08.5034693+00:00",
   "LastChanged": "2023-10-08T10:57:10.7177599+00:00",
   "LastUpdate_AppInfo": "2023-10-14T11:57:14.08719+00:00",
-  "LastUpdate_Ratings": "2023-10-18T09:01:46.9402329+00:00",
-  "LastUpdate_Achievements": "2023-10-18T09:05:28.9667158+00:00"
+  "LastUpdate_Ratings": "2023-10-18T10:02:06.3838034+00:00",
+  "LastUpdate_Achievements": "2023-10-18T10:05:34.9554943+00:00"
 }

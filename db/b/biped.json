@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6578,
+  "EOS_Progressed": 6579,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11451,6 +11451,11 @@
       "Time": "2023-10-18T04:07:13.8695785+00:00",
       "NumProgressed": 6578,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-18T10:07:20.5783922+00:00",
+      "NumProgressed": 6579,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -11462,7 +11467,7 @@
       "Name": "First Step",
       "Percentage": 35,
       "XP": 45,
-      "UsersEstimate": 2302
+      "UsersEstimate": 2303
     },
     {
       "ID": "10",
@@ -11550,7 +11555,7 @@
       "Name": "High Treetops",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "7",
@@ -11581,7 +11586,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 6578,
+      "Progressed": 6579,
       "Completed": 0
     }
   ],
@@ -11589,8 +11594,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-10-18T09:07:04.9485833+00:00",
+  "LastChanged_Achievements": "2023-10-18T10:07:20.5783918+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:13.2904426+00:00",
-  "LastUpdate_Ratings": "2023-10-18T08:59:06.2900151+00:00",
-  "LastUpdate_Achievements": "2023-10-18T09:07:04.9486609+00:00"
+  "LastUpdate_Ratings": "2023-10-18T09:58:55.1541223+00:00",
+  "LastUpdate_Achievements": "2023-10-18T10:07:20.5784519+00:00"
 }

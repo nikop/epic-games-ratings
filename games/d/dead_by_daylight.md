@@ -6,14 +6,14 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Handyman | 2.00% | ~18,933 |
-| Zealous | 2.00% | ~18,933 |
-| It wakes | 2.00% | ~18,933 |
-| Not half bad | 2.00% | ~18,933 |
-| Apt Survivor | 2.00% | ~18,933 |
-| Survival Treasures | 2.00% | ~18,933 |
-| Skillful | 2.00% | ~18,933 |
-| Make Some Noise | 2.00% | ~18,933 |
+| Handyman | 2.00% | ~18,934 |
+| Zealous | 2.00% | ~18,934 |
+| It wakes | 2.00% | ~18,934 |
+| Not half bad | 2.00% | ~18,934 |
+| Apt Survivor | 2.00% | ~18,934 |
+| Survival Treasures | 2.00% | ~18,934 |
+| Skillful | 2.00% | ~18,934 |
+| Make Some Noise | 2.00% | ~18,934 |
 | The Grand Sacrifice | 1.00% | ~9,467 |
 | Agonizing Escape | 1.00% | ~9,467 |
 | Backdoor Escape | 1.00% | ~9,467 |
@@ -36,10 +36,10 @@ Number of Ratings: 70,340  (23.09.2022)
 | Humanitarian | 1.00% | ~9,467 |
 | Apt Killer | 0.90% | ~8,520 |
 | II | 0.90% | ~8,520 |
-| Vulture | 0.80% | ~7,573 |
-| III | 0.80% | ~7,573 |
-| Rebuilding The Borgo | 0.80% | ~7,573 |
-| Second Act | 0.80% | ~7,573 |
+| Vulture | 0.80% | ~7,574 |
+| III | 0.80% | ~7,574 |
+| Rebuilding The Borgo | 0.80% | ~7,574 |
+| Second Act | 0.80% | ~7,574 |
 | Escape Artist | 0.70% | ~6,627 |
 | First to the Punch | 0.70% | ~6,627 |
 | Every Last Drop | 0.70% | ~6,627 |
@@ -52,6 +52,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Near-Death Experience | 0.60% | ~5,680 |
 | Cherish your Life | 0.60% | ~5,680 |
 | Unforgettable Getaway | 0.60% | ~5,680 |
+| Cutting Out | 0.60% | ~5,680 |
 | Operation: Survival | 0.60% | ~5,680 |
 | Old West Oasis | 0.60% | ~5,680 |
 | Classy Act | 0.60% | ~5,680 |
@@ -60,19 +61,18 @@ Number of Ratings: 70,340  (23.09.2022)
 | A Fast Death | 0.60% | ~5,680 |
 | Chorus of Chaos | 0.60% | ~5,680 |
 | One More Step | 0.60% | ~5,680 |
-| Gifts for the Fog | 0.50% | ~4,733 |
-| Shock Therapy | 0.50% | ~4,733 |
-| All Aboard | 0.50% | ~4,733 |
-| Leapfrog | 0.50% | ~4,733 |
-| House of Pain | 0.50% | ~4,733 |
-| Cottage Owner | 0.50% | ~4,733 |
-| Escaping the Nightmare | 0.50% | ~4,733 |
-| Campbell's Chapel Legacy | 0.50% | ~4,733 |
-| Ancestor's Rite | 0.50% | ~4,733 |
-| Cutting Out | 0.50% | ~4,733 |
-| Outrun Evil | 0.50% | ~4,733 |
-| Lifting The Fog | 0.50% | ~4,733 |
-| MU/TH/UR Dearest | 0.50% | ~4,733 |
+| Gifts for the Fog | 0.50% | ~4,734 |
+| Shock Therapy | 0.50% | ~4,734 |
+| All Aboard | 0.50% | ~4,734 |
+| Leapfrog | 0.50% | ~4,734 |
+| House of Pain | 0.50% | ~4,734 |
+| Cottage Owner | 0.50% | ~4,734 |
+| Escaping the Nightmare | 0.50% | ~4,734 |
+| Campbell's Chapel Legacy | 0.50% | ~4,734 |
+| Ancestor's Rite | 0.50% | ~4,734 |
+| Outrun Evil | 0.50% | ~4,734 |
+| Lifting The Fog | 0.50% | ~4,734 |
+| MU/TH/UR Dearest | 0.50% | ~4,734 |
 | A bite for the Entity | 0.40% | ~3,787 |
 | Blood on your face | 0.40% | ~3,787 |
 | Jump Scares | 0.40% | ~3,787 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~947 |
 | Adept Ripley | 0.10% | ~947 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 946,663 (Ranked 14)  
+Progressed: 946,709 (Ranked 14)  
 Completed: 51 (0.01%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -417,7 +417,7 @@ Completed: 51 (0.01%) (Ranked 298)
 | 2023-10-15 | 942,498 | 51 |
 | 2023-10-16 | 944,360 | 51 |
 | 2023-10-17 | 946,172 | 51 |
-| 2023-10-18 | 946,663 | 51 |
+| 2023-10-18 | 946,709 | 51 |
 ## Awards
 Max (Diverse Characters): 34,059  (Ranked 15)  
 Sum: 263,251 (Ranked 13)  

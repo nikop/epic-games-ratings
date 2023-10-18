@@ -6514,9 +6514,9 @@
       "ID": "ISONZO_ACH_YOU_SHALL_NOT_PASS",
       "SetID": "akchbl3",
       "Name": "You Shall Not Pass",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3740
+      "UsersEstimate": 3810
     }
   ],
   "AchievementSets": [
@@ -6531,8 +6531,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-09-23T14:01:09.047151+00:00",
-  "LastChanged_Achievements": "2023-10-18T09:03:27.8703242+00:00",
+  "LastChanged_Achievements": "2023-10-18T10:03:43.607472+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:22.0219629+00:00",
-  "LastUpdate_Ratings": "2023-10-18T08:58:57.3043973+00:00",
-  "LastUpdate_Achievements": "2023-10-18T09:03:27.8703953+00:00"
+  "LastUpdate_Ratings": "2023-10-18T09:58:45.9580683+00:00",
+  "LastUpdate_Achievements": "2023-10-18T10:03:43.6075262+00:00"
 }

@@ -223,8 +223,8 @@ Completed: 32 (0.17%) (Ranked 231)
 | 2023-10-17 | 18,881 | 32 |
 | 2023-10-18 | 18,866 | 32 |
 ## Awards
-Max (Quickly Understood Controls): 90  (Ranked 364)  
-Sum: 672 (Ranked 291)  
+Max (Quickly Understood Controls): 90  (Ranked 363)  
+Sum: 672 (Ranked 290)  
 Diff (max vs sum): 73  
 | Award | Count |
 | ----- | ----- |

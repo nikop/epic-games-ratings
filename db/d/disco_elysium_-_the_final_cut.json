@@ -1367,9 +1367,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 129817,
+  "EOS_Progressed": 129819,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 253,
+  "EOS_NewPlayers": 254,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -19377,6 +19377,11 @@
       "Time": "2023-10-18T08:03:29.4230586+00:00",
       "NumProgressed": 129817,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-10-18T10:03:33.5733957+00:00",
+      "NumProgressed": 129819,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -19444,7 +19449,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31156
+      "UsersEstimate": 31157
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -19452,7 +19457,7 @@
       "Name": "Enemy Of The Physical Realm",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10385
+      "UsersEstimate": 10386
     },
     {
       "ID": "ACH_COP_DORK",
@@ -19604,7 +19609,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 18174
+      "UsersEstimate": 18175
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -19668,7 +19673,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 18174
+      "UsersEstimate": 18175
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -19707,15 +19712,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 129817,
+      "Progressed": 129819,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-10-15T06:03:52.9459582+00:00",
-  "LastChanged_Achievements": "2023-10-18T09:03:18.8510689+00:00",
+  "LastChanged_Achievements": "2023-10-18T10:03:33.5733953+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:18.5281336+00:00",
-  "LastUpdate_Ratings": "2023-10-18T09:03:08.7410775+00:00",
-  "LastUpdate_Achievements": "2023-10-18T09:03:18.8512011+00:00"
+  "LastUpdate_Ratings": "2023-10-18T10:03:20.9301484+00:00",
+  "LastUpdate_Achievements": "2023-10-18T10:03:33.5735422+00:00"
 }

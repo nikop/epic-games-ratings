@@ -18,7 +18,7 @@ Rating: 4.48 (Ranked 609)
 | First Steps Into Madness | 53.00% | ~1,846 |
 | Colonial Barrels | 51.00% | ~1,776 |
 | Harper's Hell | 46.00% | ~1,602 |
-| Making a Stand | 44.00% | ~1,533 |
+| Making a Stand | 45.00% | ~1,567 |
 | Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,463 |
 | Where It All Begun | 41.00% | ~1,428 |
 | Recouped Investment | 39.00% | ~1,358 |

@@ -29,12 +29,12 @@
 | First do no harm | 56.00% | ~5 |
 | How Do I Look? | 56.00% | ~5 |
 | X Best Friends | 56.00% | ~5 |
+| Twenty-Six | 44.00% | ~4 |
 | Far Ahead | 44.00% | ~4 |
 | Half hat | 44.00% | ~4 |
 | Sick Kids | 44.00% | ~4 |
 | Pale Kids | 44.00% | ~4 |
 | Wild Kids | 44.00% | ~4 |
-| Twenty-Six | 33.00% | ~3 |
 | No More Remains | 33.00% | ~3 |
 | School Kids | 33.00% | ~3 |
 | Primetime Content Consumer | 0.00% | ~0 |

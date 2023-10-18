@@ -67,10 +67,10 @@ Rating: 4.06 (Ranked 955)
 | Cauldron Liberator | 2.00% | ~41 |
 | Enchanting skill x5 | 2.00% | ~41 |
 | Guardian Master | 2.00% | ~41 |
+| Pokerface | 2.00% | ~41 |
 | Titan Power | 2.00% | ~41 |
 | Conqueror | 1.00% | ~20 |
 | Enhanced War Machines | 1.00% | ~20 |
-| Pokerface | 1.00% | ~20 |
 | Training makes a Pro player | 1.00% | ~20 |
 | Transmute | 1.00% | ~20 |
 | Tree of Life | 1.00% | ~20 |

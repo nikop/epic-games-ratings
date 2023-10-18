@@ -7822,10 +7822,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 28001,
       "NumberOfAwardsMax": 7525
+    },
+    {
+      "Time": "2023-10-18T09:58:31.8264008+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 28002,
+      "NumberOfAwardsMax": 7525
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28001,
+  "NumberOfAwards": 28002,
   "NumberOfAwardsMax": 7525,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7875,7 +7881,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1649
+      "Count": 1650
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -7908,9 +7914,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 805178,
+  "EOS_Progressed": 805179,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 773,
+  "EOS_NewPlayers": 771,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -28123,6 +28129,11 @@
       "Time": "2023-10-18T09:04:54.3071057+00:00",
       "NumProgressed": 805178,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-18T10:04:56.9264634+00:00",
+      "NumProgressed": 805179,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -28158,7 +28169,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 128828
+      "UsersEstimate": 128829
     },
     {
       "ID": "Awakening",
@@ -28166,7 +28177,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 169087
+      "UsersEstimate": 169088
     },
     {
       "ID": "BadGirl",
@@ -28246,7 +28257,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 201294
+      "UsersEstimate": 201295
     },
     {
       "ID": "Chivalrous",
@@ -28534,7 +28545,7 @@
       "Name": "McLovin",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 56362
+      "UsersEstimate": 56363
     },
     {
       "ID": "MercenarysHonor",
@@ -28638,7 +28649,7 @@
       "Name": "Runt",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 56362
+      "UsersEstimate": 56363
     },
     {
       "ID": "Saviour",
@@ -28789,15 +28800,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 805178,
+      "Progressed": 805179,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-10-18T08:58:45.0944131+00:00",
-  "LastChanged_Achievements": "2023-10-18T09:04:54.3071051+00:00",
+  "LastChanged": "2023-10-18T09:58:31.8264006+00:00",
+  "LastChanged_Achievements": "2023-10-18T10:04:56.926463+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:13.6850555+00:00",
-  "LastUpdate_Ratings": "2023-10-18T08:58:45.0944139+00:00",
-  "LastUpdate_Achievements": "2023-10-18T09:04:54.3073146+00:00"
+  "LastUpdate_Ratings": "2023-10-18T09:58:31.8264013+00:00",
+  "LastUpdate_Achievements": "2023-10-18T10:04:56.9266261+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 499,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -406,9 +406,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 42166,
+  "EOS_Progressed": 42168,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10851,6 +10851,11 @@
       "Time": "2023-10-18T03:07:56.4958359+00:00",
       "NumProgressed": 42166,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-18T10:07:41.2308219+00:00",
+      "NumProgressed": 42168,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -10870,7 +10875,7 @@
       "Name": "Archivist",
       "Percentage": 0.3,
       "XP": 105,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "CAMP",
@@ -11006,7 +11011,7 @@
       "Name": "Craftsperson",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "CRAFT_FIRST",
@@ -11046,7 +11051,7 @@
       "Name": "Tit for Tat",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "LEAPFROG",
@@ -11262,7 +11267,7 @@
       "Name": "Promises",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "SUBQUEST_CIPAL",
@@ -11270,7 +11275,7 @@
       "Name": "Rebirth",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "TANTACAT_ALL",
@@ -11285,22 +11290,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 42166,
+      "Progressed": 42168,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 7003,
-      "Completed": 7003
+      "Progressed": 7005,
+      "Completed": 7005
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-10-06T21:58:13.2562711+00:00",
-  "LastChanged_Achievements": "2023-10-18T09:07:24.6684643+00:00",
+  "LastChanged_Achievements": "2023-10-18T10:07:41.2308214+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:05.4941436+00:00",
-  "LastUpdate_Ratings": "2023-10-18T08:58:47.1241953+00:00",
-  "LastUpdate_Achievements": "2023-10-18T09:07:24.6685726+00:00"
+  "LastUpdate_Ratings": "2023-10-18T09:58:34.7961259+00:00",
+  "LastUpdate_Achievements": "2023-10-18T10:07:41.2309114+00:00"
 }

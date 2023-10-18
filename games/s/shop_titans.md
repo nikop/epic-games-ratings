@@ -10,15 +10,15 @@ Number of Ratings: 12,664  (23.09.2022)
 | Basic in Bulk | 3.00% | ~4,133 |
 | Tinkle of Coins | 3.00% | ~4,133 |
 | Titan's First Steps | 3.00% | ~4,133 |
-| One Easy Payment | 2.00% | ~2,755 |
-| Some Assembly Required | 2.00% | ~2,755 |
-| Disintermediation | 2.00% | ~2,755 |
-| Another Satisfied Customer | 2.00% | ~2,755 |
-| It's Free Real Estate | 2.00% | ~2,755 |
-| Pretty Penny | 2.00% | ~2,755 |
-| Budding Merchant | 2.00% | ~2,755 |
-| Capitalism Ho! | 2.00% | ~2,755 |
-| Own the Means of Production | 2.00% | ~2,755 |
+| One Easy Payment | 2.00% | ~2,756 |
+| Some Assembly Required | 2.00% | ~2,756 |
+| Disintermediation | 2.00% | ~2,756 |
+| Another Satisfied Customer | 2.00% | ~2,756 |
+| It's Free Real Estate | 2.00% | ~2,756 |
+| Pretty Penny | 2.00% | ~2,756 |
+| Budding Merchant | 2.00% | ~2,756 |
+| Capitalism Ho! | 2.00% | ~2,756 |
+| Own the Means of Production | 2.00% | ~2,756 |
 | The Daily Grind | 1.00% | ~1,378 |
 | Bounty Hunters | 1.00% | ~1,378 |
 | Blank Page Syndrome | 1.00% | ~1,378 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,774 (Ranked 73)  
+Progressed: 137,777 (Ranked 73)  
 Completed: 170 (0.12%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 170 (0.12%) (Ranked 243)
 | 2023-10-15 | 137,669 | 168 |
 | 2023-10-16 | 137,703 | 168 |
 | 2023-10-17 | 137,757 | 170 |
-| 2023-10-18 | 137,774 | 170 |
+| 2023-10-18 | 137,777 | 170 |
 ## Awards
 Max (Great for Beginners): 4,790  (Ranked 72)  
 Sum: 27,395 (Ranked 50)  

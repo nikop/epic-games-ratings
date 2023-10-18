@@ -3,7 +3,7 @@
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
   "Ranking_Rating": 878,
-  "Ranking_Popularity": 324,
+  "Ranking_Popularity": 323,
   "Ranking_PopularitySum": 272,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 212,
@@ -1275,9 +1275,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 26322,
+  "EOS_Progressed": 26325,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 520,
+  "EOS_NewPlayers": 523,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -20685,6 +20685,11 @@
       "Time": "2023-10-18T08:05:21.5885+00:00",
       "NumProgressed": 26322,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2023-10-18T10:06:03.1837826+00:00",
+      "NumProgressed": 26325,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 22,
@@ -20712,7 +20717,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1579
+      "UsersEstimate": 1580
     },
     {
       "ID": "1018",
@@ -20744,7 +20749,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 6,
       "XP": 65,
-      "UsersEstimate": 1579
+      "UsersEstimate": 1580
     },
     {
       "ID": "1022",
@@ -20752,7 +20757,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1579
+      "UsersEstimate": 1580
     },
     {
       "ID": "1023",
@@ -20816,7 +20821,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5264
+      "UsersEstimate": 5265
     },
     {
       "ID": "1031",
@@ -20824,7 +20829,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3685
+      "UsersEstimate": 3686
     },
     {
       "ID": "1032",
@@ -20832,7 +20837,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 10529
+      "UsersEstimate": 10530
     },
     {
       "ID": "1033",
@@ -20871,15 +20876,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 26322,
+      "Progressed": 26325,
       "Completed": 70
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-09-03T23:00:19.1993338+00:00",
-  "LastChanged_Achievements": "2023-10-18T09:05:54.7015577+00:00",
+  "LastChanged_Achievements": "2023-10-18T10:06:03.1837822+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:20.5941656+00:00",
-  "LastUpdate_Ratings": "2023-10-18T09:01:07.6522572+00:00",
-  "LastUpdate_Achievements": "2023-10-18T09:05:54.7016827+00:00"
+  "LastUpdate_Ratings": "2023-10-18T10:01:12.6001476+00:00",
+  "LastUpdate_Achievements": "2023-10-18T10:06:03.183885+00:00"
 }

@@ -3,7 +3,7 @@
   "Name": "FTL: Faster Than Light",
   "ProductSlug": "faster-than-light",
   "Ranking_Rating": 92,
-  "Ranking_Popularity": 302,
+  "Ranking_Popularity": 301,
   "Ranking_PopularitySum": 237,
   "Ranking_EOS_Progress": 674,
   "Ranking_EOS_Completed": 316,
@@ -1651,10 +1651,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 1198,
       "NumberOfAwardsMax": 162
+    },
+    {
+      "Time": "2023-10-18T09:58:22.7061161+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1199,
+      "NumberOfAwardsMax": 162
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1198,
+  "NumberOfAwards": 1199,
   "NumberOfAwardsMax": 162,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1710,7 +1716,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 116
+      "Count": 117
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1736,8 +1742,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:43.0008392+00:00",
-  "LastChanged": "2023-10-09T21:58:43.5253842+00:00",
+  "LastChanged": "2023-10-18T09:58:22.706116+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:33.2347289+00:00",
-  "LastUpdate_Ratings": "2023-10-18T08:58:36.8753256+00:00",
-  "LastUpdate_Achievements": "2023-10-18T09:05:27.5216998+00:00"
+  "LastUpdate_Ratings": "2023-10-18T09:58:22.7061165+00:00",
+  "LastUpdate_Achievements": "2023-10-18T10:05:33.3388169+00:00"
 }
