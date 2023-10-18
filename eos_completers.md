@@ -2,7 +2,7 @@
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 66.67% |
-| 3 | [The Riflemen](games/t/the_riflemen.md) | 47.68% |
+| 3 | [The Riflemen](games/t/the_riflemen.md) | 47.64% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.15% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.99% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
@@ -141,7 +141,7 @@
 | 138 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.12% |
 | 140 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 1.10% |
 | 141 | [Trifox](games/t/trifox.md) | 1.08% |
-| 142 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.07% |
+| 142 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.06% |
 | 143 | [Adios](games/a/adios.md) | 1.05% |
 | 143 | [Infindustry](games/i/infindustry.md) | 1.05% |
 | 143 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.05% |
@@ -262,12 +262,12 @@
 | 255 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
 | 255 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
 | 262 | [ATOM RPG](games/a/atom_rpg.md) | 0.08% |
-| 263 | [Black Book](games/b/black_book.md) | 0.07% |
-| 263 | [MythForce](games/m/mythforce.md) | 0.07% |
-| 263 | [Partisans 1941](games/p/partisans_1941.md) | 0.07% |
-| 263 | [Saints Row](games/s/saints_row.md) | 0.07% |
-| 263 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
-| 263 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
+| 262 | [Black Book](games/b/black_book.md) | 0.08% |
+| 264 | [MythForce](games/m/mythforce.md) | 0.07% |
+| 264 | [Partisans 1941](games/p/partisans_1941.md) | 0.07% |
+| 264 | [Saints Row](games/s/saints_row.md) | 0.07% |
+| 264 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
+| 264 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
 | 269 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.06% |
 | 269 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.06% |
 | 269 | [Operation New Earth](games/o/operation_new_earth.md) | 0.06% |
@@ -325,6 +325,7 @@
 | 316 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 0.00% |
 | 316 | [Agatha Christie - Murder on the Orient Express](games/b/b1c68be50f37489ca95ff2b7ed616490.md) | 0.00% |
 | 316 | [Airport CEO](games/0/0eb6d6e85bfe442b87cb1172415d35fb.md) | 0.00% |
+| 316 | [Alan Wake 2](games/a/alan_wake_2.md) | 0.00% |
 | 316 | [ALAN-13 Reformation](games/f/f514ca89c14c49858748fd9569d35d52.md) | 0.00% |
 | 316 | [ANNO Mutationem](games/a/anno_mutationem.md) | 0.00% |
 | 316 | [Apotheorasis • Lab of the Blind Gods](games/a/apotheorasis_•_lab_of_the_blind_gods.md) | 0.00% |
@@ -672,4 +673,4 @@
 | 316 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 316 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 316 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,410 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,411 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |

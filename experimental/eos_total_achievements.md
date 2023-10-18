@@ -68,6 +68,7 @@
 | [Kabaret](../games/k/kabaret.md) | 67 | 1,000 |
 | [Tannenberg](../games/t/tannenberg.md) | 67 | 1,000 |
 | [The Surge](../games/t/the_surge.md) | 67 | 1,000 |
+| [Alan Wake 2](../games/a/alan_wake_2.md) | 66 | 1,000 |
 | [Blood of Titans](../games/6/6c2272d1b5f64cb483a3c1088021b39a.md) | 66 | 1,000 |
 | [Chased by Darkness](../games/e/e6059b123f9045878919974afd435691.md) | 66 | 1,000 |
 | [Danghost](../games/6/66b12faffa204da39bda39d087789944.md) | 66 | 1,000 |
