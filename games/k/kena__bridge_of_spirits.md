@@ -6,16 +6,16 @@ Number of Ratings: 3,313  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Found a Friend | 95.00% | ~407,111 |
-| Haikyo | 80.00% | ~342,830 |
-| Good as New | 72.00% | ~308,547 |
+| Found a Friend | 95.00% | ~407,112 |
+| Haikyo | 80.00% | ~342,831 |
+| Good as New | 72.00% | ~308,548 |
 | Into the Woods | 70.00% | ~299,977 |
 | Hunter in the Forest | 60.00% | ~257,123 |
 | Rot Commander | 60.00% | ~257,123 |
-| Taro's Fear | 56.00% | ~239,981 |
+| Taro's Fear | 56.00% | ~239,982 |
 | Between the Eyes | 47.00% | ~201,413 |
-| Taro's Love | 46.00% | ~197,127 |
-| Taro's Regret | 43.00% | ~184,271 |
+| Taro's Love | 46.00% | ~197,128 |
+| Taro's Regret | 43.00% | ~184,272 |
 | Spirit Guide | 42.00% | ~179,986 |
 | Harness Your Power | 39.00% | ~167,130 |
 | The Open Range | 37.00% | ~158,559 |
@@ -23,16 +23,16 @@ Number of Ratings: 3,313  (23.09.2022)
 | Adira's Fear | 33.00% | ~141,418 |
 | Weigh Them Down | 31.00% | ~132,847 |
 | Adira's Regret | 31.00% | ~132,847 |
-| A Heavy Hammer | 30.00% | ~128,561 |
+| A Heavy Hammer | 30.00% | ~128,562 |
 | Crossing Over | 29.00% | ~124,276 |
 | Quick Draw | 29.00% | ~124,276 |
 | Toshi's Fear | 28.00% | ~119,991 |
-| Toshi's Regret | 27.00% | ~115,705 |
-| Toshi's Love | 27.00% | ~115,705 |
+| Toshi's Regret | 27.00% | ~115,706 |
+| Toshi's Love | 27.00% | ~115,706 |
 | A Leader Walks Alone | 26.00% | ~111,420 |
 | Bow Master | 26.00% | ~111,420 |
 | The Lonely Path | 26.00% | ~111,420 |
-| Restore Balance | 25.00% | ~107,134 |
+| Restore Balance | 25.00% | ~107,135 |
 | Say Cheese | 16.00% | ~68,566 |
 | Skillful Spirit Guide | 15.00% | ~64,281 |
 | Piercing Blow | 14.00% | ~59,995 |
@@ -48,7 +48,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | Triple Threat | 0.90% | ~3,857 |
 | Master Spirit Guide | 0.30% | ~1,286 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 428,538 (Ranked 41)  
+Progressed: 428,539 (Ranked 41)  
 Completed: 542 (0.13%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,7 +229,7 @@ Completed: 542 (0.13%) (Ranked 239)
 | 2023-10-15 | 428,503 | 540 |
 | 2023-10-16 | 428,513 | 540 |
 | 2023-10-17 | 428,525 | 541 |
-| 2023-10-18 | 428,538 | 542 |
+| 2023-10-18 | 428,539 | 542 |
 ## Awards
 Max (Great Boss Battles): 1,331  (Ranked 132)  
 Sum: 1,688 (Ranked 215)  

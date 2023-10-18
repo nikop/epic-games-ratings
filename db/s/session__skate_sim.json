@@ -3,11 +3,11 @@
   "Name": "Session: Skate Sim",
   "ProductSlug": "session-skate-sim",
   "Ranking_Rating": 206,
-  "Ranking_Popularity": 406,
+  "Ranking_Popularity": 405,
   "Ranking_PopularitySum": 308,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -980,18 +980,24 @@
       "Rating": 4.7,
       "NumberOfAwards": 522,
       "NumberOfAwardsMax": 54
+    },
+    {
+      "Time": "2023-10-18T19:59:48.5041657+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 525,
+      "NumberOfAwardsMax": 55
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 522,
-  "NumberOfAwardsMax": 54,
+  "NumberOfAwards": 525,
+  "NumberOfAwardsMax": 55,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 54
+      "Count": 55
     },
     {
       "Text": "This game is Relaxing",
@@ -1003,7 +1009,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 44
+      "Count": 45
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1015,7 +1021,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 43
+      "Count": 44
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -5765,9 +5771,9 @@
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
-  "LastChanged": "2023-10-18T19:00:30.2666091+00:00",
-  "LastChanged_Achievements": "2023-10-18T19:05:05.4272511+00:00",
+  "LastChanged": "2023-10-18T19:59:48.5041655+00:00",
+  "LastChanged_Achievements": "2023-10-18T20:04:50.3718404+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:15.9585572+00:00",
-  "LastUpdate_Ratings": "2023-10-18T19:00:30.2666099+00:00",
-  "LastUpdate_Achievements": "2023-10-18T19:05:05.4273702+00:00"
+  "LastUpdate_Ratings": "2023-10-18T19:59:48.5041662+00:00",
+  "LastUpdate_Achievements": "2023-10-18T20:04:50.3719296+00:00"
 }

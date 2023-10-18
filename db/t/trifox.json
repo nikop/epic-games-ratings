@@ -276,9 +276,9 @@
       "ID": "ACH_LEVELCOMPLETION_01_02",
       "SetID": "cfld5bl",
       "Name": "Complete Level 1-2",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_LEVELCOMPLETION_01_03",
@@ -493,8 +493,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.8391982+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.1090385+00:00",
   "LastChanged": "2023-03-31T05:58:28.8391984+00:00",
-  "LastChanged_Achievements": "2023-10-18T19:07:02.9019718+00:00",
+  "LastChanged_Achievements": "2023-10-18T20:06:31.1664867+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:16.4871547+00:00",
-  "LastUpdate_Ratings": "2023-10-18T19:00:34.0823862+00:00",
-  "LastUpdate_Achievements": "2023-10-18T19:07:02.9020351+00:00"
+  "LastUpdate_Ratings": "2023-10-18T19:59:51.6416249+00:00",
+  "LastUpdate_Achievements": "2023-10-18T20:06:31.1665392+00:00"
 }

@@ -6,10 +6,10 @@
 | ---- | ---------- | ----- |
 | First Love | 42.00% | ~644 |
 | Eat My Dust | 41.00% | ~629 |
-| Clean Race | 40.00% | ~613 |
+| Clean Race | 40.00% | ~614 |
 | Hear That Roar! | 38.00% | ~583 |
-| Rivals to the End | 28.00% | ~429 |
-| Bitter Rivalry | 25.00% | ~383 |
+| Rivals to the End | 28.00% | ~430 |
+| Bitter Rivalry | 25.00% | ~384 |
 | We're Going to Need a Bigger Garage | 24.00% | ~368 |
 | Champagne Spray | 22.00% | ~337 |
 | I Want One Too! | 19.00% | ~291 |
@@ -22,7 +22,7 @@
 | Stamina Star | 8.00% | ~123 |
 | Is It the Right Size? | 8.00% | ~123 |
 | Evangelist | 6.00% | ~92 |
-| Make It Your Own! | 5.00% | ~77 |
+| Make It Your Own! | 4.00% | ~61 |
 | The Road to Liberty | 4.00% | ~61 |
 | I Make the Rules! | 4.00% | ~61 |
 | Cherry Blossom and Temples | 3.00% | ~46 |
@@ -34,10 +34,10 @@
 | Still Here | 2.00% | ~31 |
 | Rounding Off | 2.00% | ~31 |
 | My Work Here Is Done | 2.00% | ~31 |
-| Overtaking the Master | 2.00% | ~31 |
 | I'll Be the Best! | 1.00% | ~15 |
 | Next Level | 1.00% | ~15 |
 | I Don't Stop | 1.00% | ~15 |
+| Overtaking the Master | 1.00% | ~15 |
 | Exhausted but Happy | 0.80% | ~12 |
 | In Search of Perfection | 0.60% | ~9 |
 | Globe-trotter | 0.50% | ~8 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,533 (Ranked 217)  
+Progressed: 1,534 (Ranked 217)  
 Completed: 0 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,4 +101,4 @@ Completed: 0 (0.00%) (Ranked 316)
 | 2023-10-15 | 1,497 | 0 |
 | 2023-10-16 | 1,506 | 0 |
 | 2023-10-17 | 1,518 | 0 |
-| 2023-10-18 | 1,533 | 0 |
+| 2023-10-18 | 1,534 | 0 |

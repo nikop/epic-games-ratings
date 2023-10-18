@@ -2,7 +2,7 @@
   "ID": "a5434b28a3ac403e966478e86a839f5b",
   "Name": "Quake II",
   "ProductSlug": "quake-ii",
-  "Ranking_EOS_Progress": 285,
+  "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 161,
   "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 108,
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 433,
+  "EOS_Progressed": 434,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -1187,6 +1187,11 @@
       "Time": "2023-10-18T19:06:58.7763408+00:00",
       "NumProgressed": 433,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-18T20:06:27.6966441+00:00",
+      "NumProgressed": 434,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -1207,7 +1212,7 @@
       "Name": "Establish Communications",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "ACH_eou2",
@@ -1215,7 +1220,7 @@
       "Name": "Destroy Strogg Logistical Train",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "ACH_eou3",
@@ -1293,23 +1298,23 @@
       "ID": "ACH_xatrix",
       "SetID": "51of0eo",
       "Name": "Destroy the Moon Base",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 120,
-      "UsersEstimate": 35
+      "UsersEstimate": 39
     }
   ],
   "AchievementSets": [
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 433,
+      "Progressed": 434,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-10-18T19:06:58.7763401+00:00",
+  "LastChanged_Achievements": "2023-10-18T20:06:27.6966435+00:00",
   "LastUpdate_AppInfo": "2023-10-12T22:57:11.8537053+00:00",
-  "LastUpdate_Ratings": "2023-10-18T19:01:50.6480642+00:00",
-  "LastUpdate_Achievements": "2023-10-18T19:06:58.7763711+00:00"
+  "LastUpdate_Ratings": "2023-10-18T20:00:58.8844732+00:00",
+  "LastUpdate_Achievements": "2023-10-18T20:06:27.6967055+00:00"
 }

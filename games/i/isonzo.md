@@ -1,19 +1,19 @@
 # Isonzo
 [Store](https://store.epicgames.com/en-US/p/isonzo)  
 [View Rawdata](../../db/i/isonzo.json)  
-Rating: 4.56 (Ranked 475)  
+Rating: 4.56 (Ranked 476)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tutti Eroi! | 55.00% | ~3,882 |
+| Tutti Eroi! | 55.00% | ~3,883 |
 | Peak Performance | 54.00% | ~3,812 |
 | You Shall Not Pass | 54.00% | ~3,812 |
-| Avanti Savoia! | 48.00% | ~3,388 |
-| Mamma Mia! | 38.00% | ~2,682 |
-| Conrad von Hotzensocks | 36.00% | ~2,541 |
+| Avanti Savoia! | 48.00% | ~3,389 |
+| Mamma Mia! | 38.00% | ~2,683 |
+| Conrad von Hotzensocks | 36.00% | ~2,542 |
 | Gabriele D'Annunzio | 34.00% | ~2,400 |
-| Silver Lining | 31.00% | ~2,188 |
+| Silver Lining | 31.00% | ~2,189 |
 | Aurelio Baruzzi | 24.00% | ~1,694 |
 | Decimation | 22.00% | ~1,553 |
 | Donatello | 22.00% | ~1,553 |
@@ -30,8 +30,8 @@ Number of Ratings: 98  (23.09.2022)
 | Machiavelli | 13.00% | ~918 |
 | Thus With A Kiss | 13.00% | ~918 |
 | The Devil's Paintbrush | 12.00% | ~847 |
-| Dante's Inferno | 11.00% | ~776 |
-| Millenial | 11.00% | ~776 |
+| Dante's Inferno | 11.00% | ~777 |
+| Millenial | 11.00% | ~777 |
 | I Have the High Ground | 10.00% | ~706 |
 | The Show Must Go On | 9.00% | ~635 |
 | Tosca | 9.00% | ~635 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~28 |
 | Can I Go Home Now? | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,059 (Ranked 160)  
+Progressed: 7,060 (Ranked 160)  
 Completed: 9 (0.13%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 9 (0.13%) (Ranked 239)
 | 2023-10-15 | 7,050 | 9 |
 | 2023-10-16 | 7,051 | 9 |
 | 2023-10-17 | 7,054 | 9 |
-| 2023-10-18 | 7,059 | 9 |
+| 2023-10-18 | 7,060 | 9 |
 ## Awards
 Max (Highly Recommended): 36  (Ranked 453)  
 Sum: 274 (Ranked 362)  

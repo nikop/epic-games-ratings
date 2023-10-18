@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -420,9 +420,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2965,
+  "EOS_Progressed": 2966,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.08,
   "EosHistory": [
@@ -3720,6 +3720,11 @@
       "Time": "2023-10-18T19:07:49.5763092+00:00",
       "NumProgressed": 2965,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-10-18T20:07:09.9674588+00:00",
+      "NumProgressed": 2966,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 14,
@@ -3755,7 +3760,7 @@
       "Name": "Climber",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "ACH_DOG_LOVER",
@@ -3779,7 +3784,7 @@
       "Name": "Family Lost",
       "Percentage": 33,
       "XP": 80,
-      "UsersEstimate": 978
+      "UsersEstimate": 979
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -3787,7 +3792,7 @@
       "Name": "Hidden Secrets",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "ACH_IMPRISONMENT",
@@ -3811,7 +3816,7 @@
       "Name": "Reunion",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "ACH_SHOVEL_NIGHT",
@@ -3835,14 +3840,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 77,
       "XP": 35,
-      "UsersEstimate": 2283
+      "UsersEstimate": 2284
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2965,
+      "Progressed": 2966,
       "Completed": 121
     }
   ],
@@ -3850,8 +3855,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-10-17T14:59:23.1608602+00:00",
-  "LastChanged_Achievements": "2023-10-18T19:07:49.5763085+00:00",
+  "LastChanged_Achievements": "2023-10-18T20:07:09.9674581+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:11.4944348+00:00",
-  "LastUpdate_Ratings": "2023-10-18T19:01:41.9141833+00:00",
-  "LastUpdate_Achievements": "2023-10-18T19:07:49.576362+00:00"
+  "LastUpdate_Ratings": "2023-10-18T20:00:50.9919057+00:00",
+  "LastUpdate_Achievements": "2023-10-18T20:07:09.9675096+00:00"
 }

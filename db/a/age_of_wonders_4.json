@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 508,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -360,9 +360,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 5224,
+  "EOS_Progressed": 5225,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -6370,6 +6370,11 @@
       "Time": "2023-10-18T18:11:21.9140909+00:00",
       "NumProgressed": 5224,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-18T20:09:16.4978265+00:00",
+      "NumProgressed": 5225,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 50,
@@ -6397,7 +6402,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "12",
@@ -6421,7 +6426,7 @@
       "Name": "Full Ascension",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "15",
@@ -6525,7 +6530,7 @@
       "Name": "Bone Peddler",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "27",
@@ -6549,7 +6554,7 @@
       "Name": "Stronger Together",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "3",
@@ -6581,7 +6586,7 @@
       "Name": "My Final Form",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "33",
@@ -6589,7 +6594,7 @@
       "Name": "Seat of Power",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "34",
@@ -6653,7 +6658,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "41",
@@ -6765,7 +6770,7 @@
       "Name": "Mighty Hoard",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "50",
@@ -6780,13 +6785,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5224,
+      "Progressed": 5225,
       "Completed": 4764
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5224,
+      "Progressed": 5225,
       "Completed": 6
     }
   ],
@@ -6794,8 +6799,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-10-18T14:59:07.0695785+00:00",
-  "LastChanged_Achievements": "2023-10-18T19:09:46.5014408+00:00",
+  "LastChanged_Achievements": "2023-10-18T20:09:16.497826+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:43.1584566+00:00",
-  "LastUpdate_Ratings": "2023-10-18T19:00:44.7393102+00:00",
-  "LastUpdate_Achievements": "2023-10-18T19:09:46.501588+00:00"
+  "LastUpdate_Ratings": "2023-10-18T20:00:01.286669+00:00",
+  "LastUpdate_Achievements": "2023-10-18T20:09:16.4979391+00:00"
 }

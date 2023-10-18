@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | New arm | 83.00% | ~223 |
 | Shelter Escape | 82.00% | ~221 |
-| The First Bond | 73.00% | ~196 |
+| The First Bond | 74.00% | ~199 |
 | Novice Scavenger | 67.00% | ~180 |
 | Master Craftsman | 54.00% | ~145 |
 | First wall | 52.00% | ~140 |
@@ -30,7 +30,7 @@
 | Dreamboat | 1.00% | ~3 |
 | Bond Lord | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 269 (Ranked 323)  
+Progressed: 269 (Ranked 324)  
 Completed: 2 (0.74%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |

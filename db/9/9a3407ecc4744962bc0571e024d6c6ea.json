@@ -4,7 +4,7 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 867,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -2136,9 +2136,9 @@
       "ID": "LightsOut",
       "SetID": "3ai6ml8",
       "Name": "Lights Out",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 468
+      "UsersEstimate": 477
     },
     {
       "ID": "MiCasaSuCasa",
@@ -2152,9 +2152,9 @@
       "ID": "OnceMoreIntoTheBreach",
       "SetID": "3ai6ml8",
       "Name": "Once more into the Breach",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 451
+      "UsersEstimate": 460
     },
     {
       "ID": "Outpatient",
@@ -2168,9 +2168,9 @@
       "ID": "Relic",
       "SetID": "3ai6ml8",
       "Name": "Relic",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 676
+      "UsersEstimate": 685
     },
     {
       "ID": "SkeletonCrew",
@@ -2223,8 +2223,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-10-18T19:06:08.5332973+00:00",
+  "LastChanged_Achievements": "2023-10-18T20:05:44.8829815+00:00",
   "LastUpdate_AppInfo": "2023-10-18T15:57:15.9146264+00:00",
-  "LastUpdate_Ratings": "2023-10-18T19:01:15.4276241+00:00",
-  "LastUpdate_Achievements": "2023-10-18T19:06:08.5333304+00:00"
+  "LastUpdate_Ratings": "2023-10-18T20:00:29.4834459+00:00",
+  "LastUpdate_Achievements": "2023-10-18T20:05:44.8830436+00:00"
 }

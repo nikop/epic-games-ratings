@@ -1340,9 +1340,9 @@
       "Count": 68
     }
   ],
-  "EOS_Progressed": 6256,
+  "EOS_Progressed": 6257,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -11090,6 +11090,11 @@
       "Time": "2023-10-18T19:05:00.546971+00:00",
       "NumProgressed": 6256,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-10-18T20:04:46.2664702+00:00",
+      "NumProgressed": 6257,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -11101,7 +11106,7 @@
       "Name": "Get A Room",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 4692
+      "UsersEstimate": 4693
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -11109,7 +11114,7 @@
       "Name": "Beam Me Up",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 3253
+      "UsersEstimate": 3254
     },
     {
       "ID": "DISMANTLE_ITEMS_5",
@@ -11117,7 +11122,7 @@
       "Name": "Disassembled",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1376
+      "UsersEstimate": 1377
     },
     {
       "ID": "DISMANTLE_ITEMS_50",
@@ -11141,7 +11146,7 @@
       "Name": "Having A Field Day",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 4692
+      "UsersEstimate": 4693
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -11149,7 +11154,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 4504
+      "UsersEstimate": 4505
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -11165,7 +11170,7 @@
       "Name": "Deerly Departed",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "HUNT_DEER_5",
@@ -11221,7 +11226,7 @@
       "Name": "Home Cooked Meal",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 3691
+      "UsersEstimate": 3692
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -11229,7 +11234,7 @@
       "Name": "Feast or Famine",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 2690
+      "UsersEstimate": 2691
     },
     {
       "ID": "STORE_NUTRITION_20000",
@@ -11245,7 +11250,7 @@
       "Name": "Putting Food on the Table",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 3253
+      "UsersEstimate": 3254
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -11277,7 +11282,7 @@
       "Name": "Heating Up",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1939
+      "UsersEstimate": 1940
     },
     {
       "ID": "SURVIVE_FIRST_WINTER",
@@ -11285,7 +11290,7 @@
       "Name": "Winter Is Here",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1501
+      "UsersEstimate": 1502
     },
     {
       "ID": "SURVIVE_FIRST_YEAR",
@@ -11317,7 +11322,7 @@
       "Name": "Adept Researcher",
       "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 2815
+      "UsersEstimate": 2816
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -11341,22 +11346,22 @@
       "Name": "Studious Researcher",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 3253
+      "UsersEstimate": 3254
     }
   ],
   "AchievementSets": [
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 6256,
+      "Progressed": 6257,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-10-17T14:58:37.8159769+00:00",
-  "LastChanged_Achievements": "2023-10-18T19:05:00.5469704+00:00",
+  "LastChanged_Achievements": "2023-10-18T20:04:46.2664696+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:39.747236+00:00",
-  "LastUpdate_Ratings": "2023-10-18T19:00:34.2543402+00:00",
-  "LastUpdate_Achievements": "2023-10-18T19:05:00.5471544+00:00"
+  "LastUpdate_Ratings": "2023-10-18T19:59:51.7815688+00:00",
+  "LastUpdate_Achievements": "2023-10-18T20:04:46.2665958+00:00"
 }

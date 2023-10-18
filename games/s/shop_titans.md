@@ -45,25 +45,25 @@ Number of Ratings: 12,664  (23.09.2022)
 | Power of Love | 0.80% | ~1,102 |
 | Royal Ransom | 0.80% | ~1,102 |
 | Magical Harmony | 0.80% | ~1,102 |
-| A Notch Above the Rest | 0.70% | ~964 |
-| Tax not Included | 0.70% | ~964 |
-| The King's Caprice | 0.70% | ~964 |
-| Big Game Hunting | 0.70% | ~964 |
-| For the Hoard! | 0.70% | ~964 |
-| Scrapbooker | 0.70% | ~964 |
-| Locally Sourced | 0.70% | ~964 |
-| Flying off the Shelves | 0.70% | ~964 |
-| This Power Level...! | 0.70% | ~964 |
-| Hidden Potential | 0.70% | ~964 |
-| Expansion in Session | 0.70% | ~964 |
-| Trash to Treasure | 0.70% | ~964 |
-| Mammonite | 0.70% | ~964 |
-| Miracle Alchemist | 0.70% | ~964 |
-| Seasoned Journeyman | 0.70% | ~964 |
-| Scourge of the Seas | 0.70% | ~964 |
-| Black Friday Special | 0.70% | ~964 |
-| Special Ingredient | 0.70% | ~964 |
-| Complete Monopoly | 0.70% | ~964 |
+| A Notch Above the Rest | 0.70% | ~965 |
+| Tax not Included | 0.70% | ~965 |
+| The King's Caprice | 0.70% | ~965 |
+| Big Game Hunting | 0.70% | ~965 |
+| For the Hoard! | 0.70% | ~965 |
+| Scrapbooker | 0.70% | ~965 |
+| Locally Sourced | 0.70% | ~965 |
+| Flying off the Shelves | 0.70% | ~965 |
+| This Power Level...! | 0.70% | ~965 |
+| Hidden Potential | 0.70% | ~965 |
+| Expansion in Session | 0.70% | ~965 |
+| Trash to Treasure | 0.70% | ~965 |
+| Mammonite | 0.70% | ~965 |
+| Miracle Alchemist | 0.70% | ~965 |
+| Seasoned Journeyman | 0.70% | ~965 |
+| Scourge of the Seas | 0.70% | ~965 |
+| Black Friday Special | 0.70% | ~965 |
+| Special Ingredient | 0.70% | ~965 |
+| Complete Monopoly | 0.70% | ~965 |
 | Cream of the Crop | 0.60% | ~827 |
 | Top of the World | 0.60% | ~827 |
 | Proud Paladin | 0.60% | ~827 |
@@ -107,6 +107,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | All Accounted For | 0.40% | ~551 |
 | The Greatest Grind | 0.30% | ~413 |
 | All or Nothing! | 0.30% | ~413 |
+| Marvels from the World Over | 0.30% | ~413 |
 | Bane of Legends | 0.20% | ~276 |
 | Ultimate Collector | 0.20% | ~276 |
 | Oligarch Monarch | 0.20% | ~276 |
@@ -114,12 +115,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | JACKPOT!!! | 0.20% | ~276 |
 | Merchant Extraordinaire | 0.20% | ~276 |
 | Anything not Nailed Down | 0.20% | ~276 |
-| Marvels from the World Over | 0.20% | ~276 |
 | Cash Only Please | 0.20% | ~276 |
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,784 (Ranked 73)  
+Progressed: 137,786 (Ranked 73)  
 Completed: 171 (0.12%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,14 +300,14 @@ Completed: 171 (0.12%) (Ranked 242)
 | 2023-10-15 | 137,669 | 168 |
 | 2023-10-16 | 137,703 | 168 |
 | 2023-10-17 | 137,757 | 170 |
-| 2023-10-18 | 137,784 | 171 |
+| 2023-10-18 | 137,786 | 171 |
 ## Awards
-Max (Great for Beginners): 4,790  (Ranked 72)  
-Sum: 27,399 (Ranked 50)  
+Max (Great for Beginners): 4,793  (Ranked 72)  
+Sum: 27,402 (Ranked 50)  
 Diff (max vs sum): 22  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,790 |
+| This game is Great for Beginners | 4,793 |
 | This game is Relaxing | 4,026 |
 | This game has Quickly Understood Controls | 4,014 |
 | This game has Diverse Characters | 3,914 |
@@ -580,4 +580,4 @@ Diff (max vs sum): 22
 | 2023-10-15 | 3.99 | - | 4,787 | 27,383 |
 | 2023-10-16 | 3.99 | - | 4,790 | 27,390 |
 | 2023-10-17 | 3.99 | - | 4,790 | 27,393 |
-| 2023-10-18 | 3.99 | - | 4,790 | 27,399 |
+| 2023-10-18 | 3.99 | - | 4,793 | 27,402 |

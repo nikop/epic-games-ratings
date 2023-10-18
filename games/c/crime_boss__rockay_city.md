@@ -13,12 +13,12 @@ Rating: 3.95 (Ranked 983)
 | Fancy Pants | 0.90% | ~802 |
 | Roid Ranger | 0.80% | ~713 |
 | Off the Rocks | 0.80% | ~713 |
+| Case Closed | 0.70% | ~624 |
 | King of the Hill | 0.70% | ~624 |
 | Raider’s Ruin | 0.70% | ~624 |
 | Dragonslayer | 0.70% | ~624 |
 | Rockay Rex | 0.70% | ~624 |
 | Hidden Sonata | 0.60% | ~535 |
-| Case Closed | 0.60% | ~535 |
 | Track Star | 0.50% | ~446 |
 | Headhunter | 0.50% | ~446 |
 | True Player | 0.50% | ~446 |

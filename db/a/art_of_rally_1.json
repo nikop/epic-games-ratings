@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10279,
+  "EOS_Progressed": 10280,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1681,6 +1681,11 @@
       "Time": "2023-10-17T22:05:46.1816696+00:00",
       "NumProgressed": 10279,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-18T20:06:25.8288236+00:00",
+      "NumProgressed": 10280,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -1852,7 +1857,7 @@
       "Name": "keep it tidy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7915
+      "UsersEstimate": 7916
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -1900,7 +1905,7 @@
       "Name": "brail",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 5859
+      "UsersEstimate": 5860
     },
     {
       "ID": "ACH_FULL_THROTTLE",
@@ -1916,7 +1921,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9868
+      "UsersEstimate": 9869
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -1932,7 +1937,7 @@
       "Name": "medium attack",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 6167
+      "UsersEstimate": 6168
     },
     {
       "ID": "ACH_NIGHT",
@@ -2012,7 +2017,7 @@
       "Name": "food tour: pasta",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 2775
+      "UsersEstimate": 2776
     },
     {
       "ID": "ACH_WEEKLY",
@@ -2028,22 +2033,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7401
+      "UsersEstimate": 7402
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10279,
+      "Progressed": 10280,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-10-18T19:06:56.5503054+00:00",
+  "LastChanged_Achievements": "2023-10-18T20:06:25.828823+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:21.4011971+00:00",
-  "LastUpdate_Ratings": "2023-10-18T18:59:04.3814432+00:00",
-  "LastUpdate_Achievements": "2023-10-18T19:06:56.5503745+00:00"
+  "LastUpdate_Ratings": "2023-10-18T19:58:36.6441052+00:00",
+  "LastUpdate_Achievements": "2023-10-18T20:06:25.8288679+00:00"
 }

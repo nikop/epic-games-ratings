@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -250,9 +250,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 36861,
+  "EOS_Progressed": 36865,
   "EOS_Completed": 115,
-  "EOS_NewPlayers": 228,
+  "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -15960,6 +15960,11 @@
       "Time": "2023-10-18T19:09:26.8339851+00:00",
       "NumProgressed": 36861,
       "NumCompleted": 115
+    },
+    {
+      "Time": "2023-10-18T20:08:30.3720281+00:00",
+      "NumProgressed": 36865,
+      "NumCompleted": 115
     }
   ],
   "TotalAchievements": 14,
@@ -15987,7 +15992,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 9584
+      "UsersEstimate": 9585
     },
     {
       "ID": "allItems",
@@ -16019,7 +16024,7 @@
       "Name": "Joseph",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 3317
+      "UsersEstimate": 3318
     },
     {
       "ID": "completionist",
@@ -16043,7 +16048,7 @@
       "Name": "Hummed of Mystery",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 1474
+      "UsersEstimate": 1475
     },
     {
       "ID": "firstBunny",
@@ -16051,7 +16056,7 @@
       "Name": "Hare Today",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 9215
+      "UsersEstimate": 9216
     },
     {
       "ID": "firstItem",
@@ -16059,7 +16064,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 28383
+      "UsersEstimate": 28386
     },
     {
       "ID": "roots",
@@ -16067,7 +16072,7 @@
       "Name": "The Way Forward",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 6266
+      "UsersEstimate": 6267
     },
     {
       "ID": "secretItem",
@@ -16082,15 +16087,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 36861,
+      "Progressed": 36865,
       "Completed": 115
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-10-14T11:57:58.6551569+00:00",
-  "LastChanged_Achievements": "2023-10-18T19:09:26.8339844+00:00",
+  "LastChanged_Achievements": "2023-10-18T20:08:30.3720274+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:38.5341026+00:00",
-  "LastUpdate_Ratings": "2023-10-18T19:00:34.0634463+00:00",
-  "LastUpdate_Achievements": "2023-10-18T19:09:26.8341759+00:00"
+  "LastUpdate_Ratings": "2023-10-18T19:59:51.5612565+00:00",
+  "LastUpdate_Achievements": "2023-10-18T20:08:30.3722043+00:00"
 }

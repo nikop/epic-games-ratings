@@ -4,7 +4,7 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1533,
+  "EOS_Progressed": 1534,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3029,6 +3029,11 @@
       "Time": "2023-10-18T17:08:16.7304004+00:00",
       "NumProgressed": 1533,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-18T20:08:29.6437198+00:00",
+      "NumProgressed": 1534,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -3079,9 +3084,9 @@
       "ID": "ML_ACHIEVEMENT_06",
       "SetID": "c7hf6a4",
       "Name": "Make It Your Own!",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 61
     },
     {
       "ID": "ML_ACHIEVEMENT_07",
@@ -3249,7 +3254,7 @@
       "Name": "Clean Race",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 613
+      "UsersEstimate": 614
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -3329,7 +3334,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -3383,9 +3388,9 @@
       "ID": "ML_ACHIEVEMENT_44",
       "SetID": "c7hf6a4",
       "Name": "Overtaking the Master",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 15
     },
     {
       "ID": "ML_ACHIEVEMENT_45",
@@ -3393,7 +3398,7 @@
       "Name": "Rivals to the End",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -3432,14 +3437,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1533,
+      "Progressed": 1534,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-18T19:09:25.9861084+00:00",
+  "LastChanged_Achievements": "2023-10-18T20:08:29.6437193+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:05.5662527+00:00",
-  "LastUpdate_Ratings": "2023-10-18T18:59:35.162071+00:00",
-  "LastUpdate_Achievements": "2023-10-18T19:09:25.9861937+00:00"
+  "LastUpdate_Ratings": "2023-10-18T19:59:02.4426059+00:00",
+  "LastUpdate_Achievements": "2023-10-18T20:08:29.6437793+00:00"
 }

@@ -6,28 +6,28 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~25,024 |
+| Genin | 12.00% | ~25,025 |
 | A thief's beginning | 10.00% | ~20,854 |
 | Thorough | 10.00% | ~20,854 |
-| Disguised | 9.00% | ~18,768 |
-| Rollin' | 9.00% | ~18,768 |
-| Rescue Takuma | 8.00% | ~16,683 |
-| Tanuki Time | 8.00% | ~16,683 |
-| Happy Planning | 7.00% | ~14,597 |
-| Ice Ice Yuki | 7.00% | ~14,597 |
-| Jonin | 7.00% | ~14,597 |
-| Stoned Ox | 7.00% | ~14,597 |
-| Yabu | 7.00% | ~14,597 |
-| Chunin | 6.00% | ~12,512 |
-| Flying Rocks | 6.00% | ~12,512 |
-| Mugen Unchained | 6.00% | ~12,512 |
-| Warzone | 6.00% | ~12,512 |
+| Disguised | 9.00% | ~18,769 |
+| Rollin' | 9.00% | ~18,769 |
+| Rescue Takuma | 8.00% | ~16,684 |
+| Tanuki Time | 8.00% | ~16,684 |
+| Happy Planning | 7.00% | ~14,598 |
+| Ice Ice Yuki | 7.00% | ~14,598 |
+| Jonin | 7.00% | ~14,598 |
+| Stoned Ox | 7.00% | ~14,598 |
+| Yabu | 7.00% | ~14,598 |
+| Chunin | 6.00% | ~12,513 |
+| Flying Rocks | 6.00% | ~12,513 |
+| Mugen Unchained | 6.00% | ~12,513 |
+| Warzone | 6.00% | ~12,513 |
 | Okkoto | 5.00% | ~10,427 |
 | Prisoners | 5.00% | ~10,427 |
 | Too Early | 5.00% | ~10,427 |
-| Gear up | 4.00% | ~8,341 |
-| Happy little accidents | 4.00% | ~8,341 |
-| Still Rollin' | 4.00% | ~8,341 |
+| Gear up | 4.00% | ~8,342 |
+| Happy little accidents | 4.00% | ~8,342 |
+| Still Rollin' | 4.00% | ~8,342 |
 | Noboru | 3.00% | ~6,256 |
 | Stoned | 3.00% | ~6,256 |
 | The Old Way | 3.00% | ~6,256 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~209 |
 | Release the Kraken | 0.10% | ~209 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 208,535 (Ranked 65)  
+Progressed: 208,545 (Ranked 65)  
 Completed: 91 (0.04%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,10 +232,10 @@ Completed: 91 (0.04%) (Ranked 279)
 | 2023-10-15 | 208,093 | 91 |
 | 2023-10-16 | 208,245 | 91 |
 | 2023-10-17 | 208,416 | 91 |
-| 2023-10-18 | 208,535 | 91 |
+| 2023-10-18 | 208,545 | 91 |
 ## Awards
 Max (Great for Beginners): 567  (Ranked 196)  
-Sum: 4,792 (Ranked 138)  
+Sum: 4,793 (Ranked 138)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
@@ -246,7 +246,7 @@ Diff (max vs sum): 58
 | This game has Amazing Characters | 492 |
 | This game is Highly Recommended | 487 |
 | This game is Relaxing | 487 |
-| This game has Challenging Combat | 480 |
+| This game has Challenging Combat | 481 |
 | This game has Quickly Understood Controls | 453 |
 | This game has a Creative Community | 250 |
 | This game has Unique Visuals | 20 |
@@ -440,4 +440,4 @@ Diff (max vs sum): 58
 | 2023-10-08 | 4.67 | - | 566 | 4,787 |
 | 2023-10-09 | 4.67 | - | 566 | 4,789 |
 | 2023-10-14 | 4.67 | - | 567 | 4,790 |
-| 2023-10-18 | 4.67 | - | 567 | 4,792 |
+| 2023-10-18 | 4.67 | - | 567 | 4,793 |

@@ -21,7 +21,7 @@ Rating: 4.62 (Ranked 354)
 | Freeze | 52.00% | ~566 |
 | Full Arsenal | 47.00% | ~512 |
 | S.O.S. | 47.00% | ~512 |
-| Get Off My Ship! | 44.00% | ~479 |
+| Get Off My Ship! | 45.00% | ~490 |
 | Strange Transmissions | 44.00% | ~479 |
 | Wreckage | 43.00% | ~468 |
 | Live with the Hot Ones | 42.00% | ~457 |
@@ -89,9 +89,9 @@ Completed: 6 (0.55%) (Ranked 174)
 | 2023-10-17 | 1,077 | 6 |
 | 2023-10-18 | 1,089 | 6 |
 ## Awards
-Max (Great Boss Battles): 105  (Ranked 339)  
+Max (Great Boss Battles): 105  (Ranked 340)  
 Sum: 105 (Ranked 431)  
-Diff (max vs sum): -92  
+Diff (max vs sum): -91  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 105 |

@@ -622,10 +622,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 180,
       "NumberOfAwardsMax": 29
+    },
+    {
+      "Time": "2023-10-18T19:58:01.6448483+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 181,
+      "NumberOfAwardsMax": 29
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 180,
+  "NumberOfAwards": 181,
   "NumberOfAwardsMax": 29,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -633,7 +639,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -692,9 +698,9 @@
   "FirstSeen": "2022-07-22T20:30:43.3276462+00:00",
   "FirstSeenRating": "2022-08-17T17:32:36.298975+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:17.8561641+00:00",
-  "LastChanged": "2023-10-16T12:02:21.6868366+00:00",
-  "LastChanged_Achievements": "2023-10-18T19:07:22.1881925+00:00",
+  "LastChanged": "2023-10-18T19:58:01.6448482+00:00",
+  "LastChanged_Achievements": "2023-10-18T20:06:47.2042152+00:00",
   "LastUpdate_AppInfo": "2023-10-14T13:56:59.6945812+00:00",
-  "LastUpdate_Ratings": "2023-10-18T18:58:22.3814623+00:00",
-  "LastUpdate_Achievements": "2023-10-18T19:07:22.188197+00:00"
+  "LastUpdate_Ratings": "2023-10-18T19:58:01.6448487+00:00",
+  "LastUpdate_Achievements": "2023-10-18T20:06:47.2042194+00:00"
 }

@@ -6,17 +6,17 @@
 | ---- | ---------- | ----- |
 | Minimalist lifestyle | 3.00% | ~3 |
 | I deliver the presents! | 3.00% | ~3 |
+| Silver Button | 3.00% | ~3 |
 | A new HOME | 2.00% | ~2 |
 | Lost forever | 2.00% | ~2 |
 | Lesson learned | 2.00% | ~2 |
-| Silver Button | 2.00% | ~2 |
+| Golden Hat | 2.00% | ~2 |
 | Silver Carrot | 2.00% | ~2 |
 | Silver Hat | 2.00% | ~2 |
 | Good list | 1.00% | ~1 |
 | At least you tried | 1.00% | ~1 |
 | Golden Button | 1.00% | ~1 |
 | Golden Carrot | 1.00% | ~1 |
-| Golden Hat | 1.00% | ~1 |
 | Golden Scarf | 1.00% | ~1 |
 | Naughty list | 1.00% | ~1 |
 | Bling Bling | 1.00% | ~1 |

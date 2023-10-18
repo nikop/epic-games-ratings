@@ -17,9 +17,9 @@
 | Peace walker | 8.00% | ~24 |
 | Cable guy | 8.00% | ~24 |
 | A good beginning | 8.00% | ~24 |
+| Half the way | 8.00% | ~24 |
 | Champollion | 8.00% | ~24 |
 | One last step | 8.00% | ~24 |
-| Half the way | 7.00% | ~21 |
 | Open door | 6.00% | ~18 |
 | Feels like springtime | 6.00% | ~18 |
 | Alchemists Express | 6.00% | ~18 |
