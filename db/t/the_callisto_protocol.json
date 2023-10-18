@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 324,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1304,9 +1304,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 16024,
+  "EOS_Progressed": 16025,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -7514,6 +7514,11 @@
       "Time": "2023-10-18T13:09:30.2661532+00:00",
       "NumProgressed": 16024,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2023-10-18T14:04:17.283644+00:00",
+      "NumProgressed": 16025,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 47,
@@ -7701,7 +7706,7 @@
       "Name": "Paper Jams",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 961
+      "UsersEstimate": 962
     },
     {
       "ID": "SHARE_PHOTO",
@@ -7900,13 +7905,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16024,
+      "Progressed": 16025,
       "Completed": 75
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3950,
+      "Progressed": 3951,
       "Completed": 29
     }
   ],
@@ -7914,8 +7919,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-10-16T18:03:02.4692594+00:00",
-  "LastChanged_Achievements": "2023-10-18T13:09:30.2661526+00:00",
+  "LastChanged_Achievements": "2023-10-18T14:04:17.2836435+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:28.7445303+00:00",
-  "LastUpdate_Ratings": "2023-10-18T13:06:49.2750211+00:00",
-  "LastUpdate_Achievements": "2023-10-18T13:09:30.2662401+00:00"
+  "LastUpdate_Ratings": "2023-10-18T14:03:05.3687378+00:00",
+  "LastUpdate_Achievements": "2023-10-18T14:04:17.2837059+00:00"
 }

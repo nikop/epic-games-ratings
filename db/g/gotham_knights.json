@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3540,10 +3540,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4768,
       "NumberOfAwardsMax": 2840
+    },
+    {
+      "Time": "2023-10-18T14:00:00.5609591+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4772,
+      "NumberOfAwardsMax": 2840
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4768,
+  "NumberOfAwards": 4772,
   "NumberOfAwardsMax": 2840,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3557,7 +3563,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 240
+      "Count": 244
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3610,7 +3616,7 @@
   ],
   "EOS_Progressed": 73616,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 203,
+  "EOS_NewPlayers": 200,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -19559,9 +19565,9 @@
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-10-18T02:59:53.9799962+00:00",
-  "LastChanged_Achievements": "2023-10-18T13:11:54.1785043+00:00",
+  "LastChanged": "2023-10-18T14:00:00.560959+00:00",
+  "LastChanged_Achievements": "2023-10-18T14:06:52.6888153+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:41.7245252+00:00",
-  "LastUpdate_Ratings": "2023-10-18T13:05:25.6034378+00:00",
-  "LastUpdate_Achievements": "2023-10-18T13:11:54.1786728+00:00"
+  "LastUpdate_Ratings": "2023-10-18T14:00:00.5609597+00:00",
+  "LastUpdate_Achievements": "2023-10-18T14:06:52.6889398+00:00"
 }

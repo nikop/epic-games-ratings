@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 269,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2022-05-19T15:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -2218,7 +2218,7 @@
       "Count": 101
     }
   ],
-  "EOS_Progressed": 42150,
+  "EOS_Progressed": 42151,
   "EOS_Completed": 24,
   "EOS_NewPlayers": 486,
   "EOS_NewCompleters": 1,
@@ -21813,6 +21813,11 @@
       "Time": "2023-10-18T13:09:31.998599+00:00",
       "NumProgressed": 42150,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-10-18T14:04:19.2442238+00:00",
+      "NumProgressed": 42151,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 75,
@@ -21856,7 +21861,7 @@
       "Name": "Cursed Creature",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 24025
+      "UsersEstimate": 24026
     },
     {
       "ID": "achievements_14",
@@ -21872,7 +21877,7 @@
       "Name": "Keeper of Keys",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 19810
+      "UsersEstimate": 19811
     },
     {
       "ID": "achievements_17",
@@ -21880,7 +21885,7 @@
       "Name": "Mad Genius",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 14752
+      "UsersEstimate": 14753
     },
     {
       "ID": "achievements_19",
@@ -21904,7 +21909,7 @@
       "Name": "Lord of Fire",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 9694
+      "UsersEstimate": 9695
     },
     {
       "ID": "achievements_21",
@@ -21928,7 +21933,7 @@
       "Name": "Chainbreaker - I",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 25290
+      "UsersEstimate": 25291
     },
     {
       "ID": "achievements_24",
@@ -21960,7 +21965,7 @@
       "Name": "Mountain King - II",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 16438
+      "UsersEstimate": 16439
     },
     {
       "ID": "achievements_28",
@@ -21968,7 +21973,7 @@
       "Name": "Mountain King - III",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 6322
+      "UsersEstimate": 6323
     },
     {
       "ID": "achievements_29",
@@ -21992,7 +21997,7 @@
       "Name": "Bane of Mercenaries - II",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 13066
+      "UsersEstimate": 13067
     },
     {
       "ID": "achievements_31",
@@ -22072,7 +22077,7 @@
       "Name": "Path of the Necromancer",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 27819
+      "UsersEstimate": 27820
     },
     {
       "ID": "achievements_40",
@@ -22104,7 +22109,7 @@
       "Name": "Uncommon Warrior",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 9694
+      "UsersEstimate": 9695
     },
     {
       "ID": "achievements_44",
@@ -22112,7 +22117,7 @@
       "Name": "Rare Warrior",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6322
+      "UsersEstimate": 6323
     },
     {
       "ID": "achievements_45",
@@ -22160,7 +22165,7 @@
       "Name": "Necromancer\u0027s Apprentice",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 21496
+      "UsersEstimate": 21497
     },
     {
       "ID": "achievements_50",
@@ -22192,7 +22197,7 @@
       "Name": "Extraction",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 24025
+      "UsersEstimate": 24026
     },
     {
       "ID": "achievements_54",
@@ -22200,7 +22205,7 @@
       "Name": "Distillation",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 18124
+      "UsersEstimate": 18125
     },
     {
       "ID": "achievements_55",
@@ -22264,7 +22269,7 @@
       "Name": "Revealed Secrets - I",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 11380
+      "UsersEstimate": 11381
     },
     {
       "ID": "achievements_63",
@@ -22368,7 +22373,7 @@
       "Name": "Dungeon Queen",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1264
+      "UsersEstimate": 1265
     },
     {
       "ID": "achievements_75",
@@ -22376,7 +22381,7 @@
       "Name": "Mek Brothers",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1264
+      "UsersEstimate": 1265
     },
     {
       "ID": "achievements_76",
@@ -22384,7 +22389,7 @@
       "Name": "The Hunter Becomes...",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1264
+      "UsersEstimate": 1265
     },
     {
       "ID": "achievements_77",
@@ -22392,7 +22397,7 @@
       "Name": "Experimenter",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1264
+      "UsersEstimate": 1265
     },
     {
       "ID": "achievements_78",
@@ -22423,15 +22428,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 42150,
+      "Progressed": 42151,
       "Completed": 24
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-10-18T01:41:51.8709451+00:00",
-  "LastChanged_Achievements": "2023-10-18T13:09:31.9985984+00:00",
+  "LastChanged_Achievements": "2023-10-18T14:04:19.2442233+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:08.5665033+00:00",
-  "LastUpdate_Ratings": "2023-10-18T13:04:40.2937986+00:00",
-  "LastUpdate_Achievements": "2023-10-18T13:09:31.998822+00:00"
+  "LastUpdate_Ratings": "2023-10-18T13:59:06.8887261+00:00",
+  "LastUpdate_Achievements": "2023-10-18T14:04:19.2443892+00:00"
 }

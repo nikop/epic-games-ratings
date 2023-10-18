@@ -4042,10 +4042,16 @@
       "Rating": 3.95,
       "NumberOfAwards": 2829,
       "NumberOfAwardsMax": 500
+    },
+    {
+      "Time": "2023-10-18T14:00:47.9993974+00:00",
+      "Rating": 3.95,
+      "NumberOfAwards": 2832,
+      "NumberOfAwardsMax": 500
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 2829,
+  "NumberOfAwards": 2832,
   "NumberOfAwardsMax": 500,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4101,12 +4107,12 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 455
+      "Count": 458
     }
   ],
-  "EOS_Progressed": 89155,
+  "EOS_Progressed": 89158,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -22469,6 +22475,11 @@
       "Time": "2023-10-18T13:10:28.6287347+00:00",
       "NumProgressed": 89155,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-10-18T14:05:11.2161056+00:00",
+      "NumProgressed": 89158,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 41,
@@ -22718,9 +22729,9 @@
       "ID": "ACH_0431",
       "SetID": "3kam13l",
       "Name": "Classy Joint",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 55,
-      "UsersEstimate": 89
+      "UsersEstimate": 178
     },
     {
       "ID": "ACH_0440",
@@ -22807,22 +22818,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 89155,
+      "Progressed": 89158,
       "Completed": 50
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 17502,
+      "Progressed": 17505,
       "Completed": 15548
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-10-18T13:06:03.6698115+00:00",
-  "LastChanged_Achievements": "2023-10-18T13:10:28.6287325+00:00",
+  "LastChanged": "2023-10-18T14:00:47.9993973+00:00",
+  "LastChanged_Achievements": "2023-10-18T14:05:11.2161052+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:09.3878818+00:00",
-  "LastUpdate_Ratings": "2023-10-18T13:06:03.6698121+00:00",
-  "LastUpdate_Achievements": "2023-10-18T13:10:28.6288947+00:00"
+  "LastUpdate_Ratings": "2023-10-18T14:00:47.9993978+00:00",
+  "LastUpdate_Achievements": "2023-10-18T14:05:11.216217+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "match-village-5f41dd",
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 108,
-  "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-06-01T13:00:00+00:00",
     "PcReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 392,
+  "EOS_Progressed": 393,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.3,
+  "EOS_Completed_Percentage": 2.29,
   "EosHistory": [
     {
       "Time": "2023-05-18T11:00:53.5227902+00:00",
@@ -1276,6 +1276,11 @@
       "Time": "2023-10-17T23:04:50.1572351+00:00",
       "NumProgressed": 392,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-18T14:06:20.7742127+00:00",
+      "NumProgressed": 393,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 24,
@@ -1285,9 +1290,9 @@
       "ID": "aquatic_farm",
       "SetID": "ap7g2g4",
       "Name": "Aquatic Farm",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 129
+      "UsersEstimate": 134
     },
     {
       "ID": "balloon",
@@ -1311,7 +1316,7 @@
       "Name": "Brewery",
       "Percentage": 85,
       "XP": 30,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "church",
@@ -1319,7 +1324,7 @@
       "Name": "Church",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "circus",
@@ -1365,9 +1370,9 @@
       "ID": "hope_farm",
       "SetID": "ap7g2g4",
       "Name": "Hope farm",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 169
+      "UsersEstimate": 173
     },
     {
       "ID": "marketplace",
@@ -1375,7 +1380,7 @@
       "Name": "Marketplace",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "match_12",
@@ -1391,7 +1396,7 @@
       "Name": "Match 3",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "match_6",
@@ -1399,7 +1404,7 @@
       "Name": "Match 6",
       "Percentage": 85,
       "XP": 25,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "match_9",
@@ -1463,29 +1468,29 @@
       "Name": "Wheat farm",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "wood",
       "SetID": "ap7g2g4",
       "Name": "Wood",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 192
+      "UsersEstimate": 196
     }
   ],
   "AchievementSets": [
     {
       "ID": "ap7g2g4",
       "IsBase": true,
-      "Progressed": 392,
+      "Progressed": 393,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-06-02T14:56:55.6252119+00:00",
   "FirstSeenAchievements": "2023-05-18T11:00:53.5255241+00:00",
-  "LastChanged_Achievements": "2023-10-18T13:11:27.1754252+00:00",
+  "LastChanged_Achievements": "2023-10-18T14:06:20.7742122+00:00",
   "LastUpdate_AppInfo": "2023-10-12T22:57:12.7314379+00:00",
-  "LastUpdate_Ratings": "2023-10-18T13:03:31.344991+00:00",
-  "LastUpdate_Achievements": "2023-10-18T13:11:27.1754496+00:00"
+  "LastUpdate_Ratings": "2023-10-18T13:57:36.3139017+00:00",
+  "LastUpdate_Achievements": "2023-10-18T14:06:20.7742318+00:00"
 }

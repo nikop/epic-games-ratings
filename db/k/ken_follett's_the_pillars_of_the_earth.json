@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 388,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -531,9 +531,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 15817,
+  "EOS_Progressed": 15818,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
@@ -12261,6 +12261,11 @@
       "Time": "2023-10-18T12:06:01.0472321+00:00",
       "NumProgressed": 15817,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-10-18T14:05:44.9188362+00:00",
+      "NumProgressed": 15818,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 41,
@@ -12328,7 +12333,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2214
+      "UsersEstimate": 2215
     },
     {
       "ID": "tpote_achievement_17",
@@ -12384,7 +12389,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3163
+      "UsersEstimate": 3164
     },
     {
       "ID": "tpote_achievement_23",
@@ -12448,7 +12453,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5061
+      "UsersEstimate": 5062
     },
     {
       "ID": "tpote_achievement_30",
@@ -12472,7 +12477,7 @@
       "Name": "Jack was here!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2214
+      "UsersEstimate": 2215
     },
     {
       "ID": "tpote_achievement_33",
@@ -12599,15 +12604,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15817,
+      "Progressed": 15818,
       "Completed": 113
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-10-14T16:59:08.0001807+00:00",
-  "LastChanged_Achievements": "2023-10-18T13:10:56.6073721+00:00",
+  "LastChanged_Achievements": "2023-10-18T14:05:44.9188357+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:18.9172053+00:00",
-  "LastUpdate_Ratings": "2023-10-18T13:06:19.5937985+00:00",
-  "LastUpdate_Achievements": "2023-10-18T13:10:56.6074932+00:00"
+  "LastUpdate_Ratings": "2023-10-18T14:01:08.6370106+00:00",
+  "LastUpdate_Achievements": "2023-10-18T14:05:44.9189181+00:00"
 }

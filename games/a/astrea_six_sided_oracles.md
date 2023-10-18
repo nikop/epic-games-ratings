@@ -11,9 +11,9 @@
 | Lacertian Champion | 29.00% | ~17 |
 | Dicesmithing Time! | 28.00% | ~16 |
 | Meissa's Savior | 28.00% | ~16 |
+| Sanctuary Guardian | 28.00% | ~16 |
 | Mechanical Buddy | 26.00% | ~15 |
 | Purification Pioneer | 26.00% | ~15 |
-| Sanctuary Guardian | 26.00% | ~15 |
 | Wild's Keeper | 26.00% | ~15 |
 | Mind Illuminator | 24.00% | ~14 |
 | Stellar Dismantler | 24.00% | ~14 |

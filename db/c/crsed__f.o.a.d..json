@@ -2,13 +2,13 @@
   "ID": "2b352b4aea3849bd9519842dda263ac7",
   "Name": "CRSED: F.O.A.D.",
   "ProductSlug": "crsed-f-o-a-d",
-  "Ranking_Rating": 776,
+  "Ranking_Rating": 784,
   "Ranking_Popularity": 345,
   "Ranking_PopularitySum": 295,
   "Ranking_EOS_Progress": 674,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 393,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 392,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2020-12-03T16:00:00+00:00",
     "PcReleaseDate": "2020-12-03T16:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.35,
+  "Rating": 4.34,
   "NumberOfRatings": 464,
   "RatingHistory": [
     {
@@ -1189,10 +1189,16 @@
       "Rating": 4.35,
       "NumberOfAwards": 652,
       "NumberOfAwardsMax": 102
+    },
+    {
+      "Time": "2023-10-18T14:00:07.4802402+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 653,
+      "NumberOfAwardsMax": 102
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 652,
+  "NumberOfAwards": 653,
   "NumberOfAwardsMax": 102,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1272,7 +1278,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 85
+      "Count": 86
     }
   ],
   "EOS_Progressed": 0,
@@ -1286,8 +1292,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:35.4348464+00:00",
-  "LastChanged": "2023-10-14T06:58:05.8383494+00:00",
+  "LastChanged": "2023-10-18T14:00:07.4802401+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:47.2258168+00:00",
-  "LastUpdate_Ratings": "2023-10-18T13:05:30.6098868+00:00",
-  "LastUpdate_Achievements": "2023-10-18T13:10:51.8540938+00:00"
+  "LastUpdate_Ratings": "2023-10-18T14:00:07.4802405+00:00",
+  "LastUpdate_Achievements": "2023-10-18T14:05:39.2126718+00:00"
 }

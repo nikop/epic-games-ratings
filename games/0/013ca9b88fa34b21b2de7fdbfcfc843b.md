@@ -6,13 +6,13 @@ Rating: 4.66 (Ranked 282)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Azoria Beckons | 73.00% | ~4,955 |
-| A Thorny Situation | 70.00% | ~4,751 |
-| ... And Spit Back Out | 60.00% | ~4,072 |
+| A Thorny Situation | 70.00% | ~4,752 |
+| ... And Spit Back Out | 60.00% | ~4,073 |
 | Break-Net Speed | 48.00% | ~3,258 |
 | Bramble Breaker | 46.00% | ~3,122 |
-| Miner 49er | 43.00% | ~2,918 |
+| Miner 49er | 43.00% | ~2,919 |
 | Humble Collector | 42.00% | ~2,851 |
-| Calm Sailing | 36.00% | ~2,443 |
+| Calm Sailing | 36.00% | ~2,444 |
 | Open the Gate! | 33.00% | ~2,240 |
 | Mist Walker | 31.00% | ~2,104 |
 | Lumberjack | 26.00% | ~1,765 |
@@ -30,8 +30,8 @@ Rating: 4.66 (Ranked 282)
 | Fanatical Farmer | 7.00% | ~475 |
 | Azorian Anniversary | 6.00% | ~407 |
 | Scattered Scroll Scrounger | 5.00% | ~339 |
-| I Now Pronounce You... | 4.00% | ~271 |
-| Chatty Neighbor | 4.00% | ~271 |
+| I Now Pronounce You... | 4.00% | ~272 |
+| Chatty Neighbor | 4.00% | ~272 |
 | Right Tool For the Job | 3.00% | ~204 |
 | House Proud | 3.00% | ~204 |
 | Captain of Cozy | 2.00% | ~136 |
@@ -41,7 +41,7 @@ Rating: 4.66 (Ranked 282)
 | Giving the People What They Want | 0.10% | ~7 |
 | Very Skilled | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,787 (Ranked 163)  
+Progressed: 6,788 (Ranked 163)  
 Completed: 0 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 0 (0.00%) (Ranked 316)
 | 2023-10-15 | 6,698 | 0 |
 | 2023-10-16 | 6,732 | 0 |
 | 2023-10-17 | 6,772 | 0 |
-| 2023-10-18 | 6,787 | 0 |
+| 2023-10-18 | 6,788 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

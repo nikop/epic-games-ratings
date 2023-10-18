@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~648 |
-| Off to a good start | 68.00% | ~490 |
-| Do... or do not. There is no try | 53.00% | ~382 |
+| New Recruit | 90.00% | ~650 |
+| Off to a good start | 68.00% | ~491 |
+| Do... or do not. There is no try | 53.00% | ~383 |
 | A good blaster at your side | 34.00% | ~245 |
 | Scrap collector | 20.00% | ~144 |
 | I suggest a new strategy | 19.00% | ~137 |
 | Great shot, kid! | 18.00% | ~130 |
-| All right, I'll give it a try | 17.00% | ~122 |
-| Shoot first | 17.00% | ~122 |
-| The power of the Force | 16.00% | ~115 |
-| Together we can rule the galaxy | 16.00% | ~115 |
+| All right, I'll give it a try | 17.00% | ~123 |
+| Shoot first | 17.00% | ~123 |
+| The power of the Force | 16.00% | ~116 |
+| Together we can rule the galaxy | 16.00% | ~116 |
 | Collector | 15.00% | ~108 |
 | Tell Jabba that I've got his money | 11.00% | ~79 |
 | Best star-pilot in the galaxy | 11.00% | ~79 |
@@ -25,9 +25,9 @@
 | "Gonk? Gonk!" | 8.00% | ~58 |
 | Impressive. Most impressive. | 8.00% | ~58 |
 | Judge me by my size, do you? | 8.00% | ~58 |
-| Distinguished | 7.00% | ~50 |
-| A tremor in the Force | 7.00% | ~50 |
-| Support the troops | 7.00% | ~50 |
+| Distinguished | 7.00% | ~51 |
+| A tremor in the Force | 7.00% | ~51 |
+| Support the troops | 7.00% | ~51 |
 | Not bad for a little furball | 5.00% | ~36 |
 | Patience you must have | 5.00% | ~36 |
 | Don't underestimate the Force | 5.00% | ~36 |
@@ -42,7 +42,6 @@
 | Precision shot | 3.00% | ~22 |
 | This is a new day, a new beginning | 3.00% | ~22 |
 | City in the Clouds | 3.00% | ~22 |
-| Alternative solution | 3.00% | ~22 |
 | What will you become? | 3.00% | ~22 |
 | Disturbed tranquility | 3.00% | ~22 |
 | Hold the line! | 2.00% | ~14 |
@@ -51,6 +50,7 @@
 | You have your moments | 2.00% | ~14 |
 | When surrounded by war... | 2.00% | ~14 |
 | Stop that Droid | 2.00% | ~14 |
+| Alternative solution | 2.00% | ~14 |
 | Onwards! | 2.00% | ~14 |
 | The circle is now complete | 2.00% | ~14 |
 | A New Hope | 1.00% | ~7 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.30% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 720 (Ranked 253)  
+Progressed: 722 (Ranked 253)  
 Completed: 1 (0.14%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 1 (0.14%) (Ranked 237)
 | 2023-10-15 | 672 | 1 |
 | 2023-10-16 | 694 | 1 |
 | 2023-10-17 | 715 | 1 |
-| 2023-10-18 | 720 | 1 |
+| 2023-10-18 | 722 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

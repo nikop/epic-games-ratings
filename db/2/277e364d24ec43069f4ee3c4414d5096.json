@@ -326,9 +326,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 111576,
+  "EOS_Progressed": 111577,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 716,
+  "EOS_NewPlayers": 712,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -14806,6 +14806,11 @@
       "Time": "2023-10-18T12:07:02.0312859+00:00",
       "NumProgressed": 111576,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-10-18T14:06:37.1026181+00:00",
+      "NumProgressed": 111577,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 49,
@@ -14849,7 +14854,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 16736
+      "UsersEstimate": 16737
     },
     {
       "ID": "EAwards_13",
@@ -14889,7 +14894,7 @@
       "Name": "Talented Player",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 40167
+      "UsersEstimate": 40168
     },
     {
       "ID": "EAwards_18",
@@ -14913,7 +14918,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 53556
+      "UsersEstimate": 53557
     },
     {
       "ID": "EAwards_20",
@@ -14961,7 +14966,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 21199
+      "UsersEstimate": 21200
     },
     {
       "ID": "EAwards_26",
@@ -15001,7 +15006,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 21199
+      "UsersEstimate": 21200
     },
     {
       "ID": "EAwards_30",
@@ -15208,7 +15213,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 111576,
+      "Progressed": 111577,
       "Completed": 47
     }
   ],
@@ -15216,8 +15221,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-25T16:00:07.3978241+00:00",
-  "LastChanged_Achievements": "2023-10-18T13:11:40.8305452+00:00",
+  "LastChanged_Achievements": "2023-10-18T14:06:37.1026177+00:00",
   "LastUpdate_AppInfo": "2023-10-13T01:42:07.6726517+00:00",
-  "LastUpdate_Ratings": "2023-10-18T13:06:26.0239574+00:00",
-  "LastUpdate_Achievements": "2023-10-18T13:11:40.8306918+00:00"
+  "LastUpdate_Ratings": "2023-10-18T14:01:18.0994737+00:00",
+  "LastUpdate_Achievements": "2023-10-18T14:06:37.1027255+00:00"
 }

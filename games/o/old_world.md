@@ -118,6 +118,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Capable | 0.40% | ~59 |
 | Devout | 0.40% | ~59 |
 | Ready | 0.40% | ~59 |
+| Clerics | 0.40% | ~59 |
 | Babylonia | 0.40% | ~59 |
 | Carthage | 0.40% | ~59 |
 | Egypt | 0.40% | ~59 |
@@ -139,7 +140,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage - Ox Hide | 0.30% | ~44 |
 | Peacemaker | 0.30% | ~44 |
 | Noble Difficulty | 0.30% | ~44 |
-| Clerics | 0.30% | ~44 |
 | Cao'an | 0.30% | ~44 |
 | Adur Burzen-Mihr | 0.30% | ~44 |
 | Learn to Play 5 | 0.30% | ~44 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,781 (Ranked 135)  
+Progressed: 14,782 (Ranked 135)  
 Completed: 5 (0.03%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -530,17 +530,17 @@ Completed: 5 (0.03%) (Ranked 285)
 | 2023-10-15 | 14,732 | 5 |
 | 2023-10-16 | 14,747 | 5 |
 | 2023-10-17 | 14,775 | 5 |
-| 2023-10-18 | 14,781 | 5 |
+| 2023-10-18 | 14,782 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
-Sum: 1,845 (Ranked 211)  
+Sum: 1,846 (Ranked 211)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 224 |
 | This game has Diverse Characters | 215 |
+| This game is Highly Recommended | 214 |
 | This game is Extremely Fun | 213 |
-| This game is Highly Recommended | 213 |
 | This game is Educational | 211 |
 | This game has Challenging Combat | 199 |
 | This game has Quickly Understood Controls | 192 |
@@ -699,4 +699,4 @@ Diff (max vs sum): 56
 | 2023-10-15 | 4.65 | - | 224 | 1,840 |
 | 2023-10-16 | 4.65 | - | 224 | 1,842 |
 | 2023-10-17 | 4.65 | - | 224 | 1,844 |
-| 2023-10-18 | 4.65 | - | 224 | 1,845 |
+| 2023-10-18 | 4.65 | - | 224 | 1,846 |

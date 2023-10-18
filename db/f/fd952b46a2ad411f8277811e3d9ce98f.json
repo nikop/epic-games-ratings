@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 20,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
     "PcReleaseDate": "2024-06-30T00:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 69206,
+  "EOS_Progressed": 69215,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5402,
+  "EOS_NewPlayers": 5364,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5249,6 +5249,11 @@
       "Time": "2023-10-18T13:11:48.3567361+00:00",
       "NumProgressed": 69206,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-18T14:06:45.8417709+00:00",
+      "NumProgressed": 69215,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-23T09:03:04.200541+00:00",
@@ -5357,7 +5362,7 @@
       "Name": "Rookie Rumble",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 31143
+      "UsersEstimate": 31147
     },
     {
       "ID": "kills_100",
@@ -5413,7 +5418,7 @@
       "Name": "Toy Surgeon",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 5536
+      "UsersEstimate": 5537
     },
     {
       "ID": "revives_25",
@@ -5508,13 +5513,13 @@
     {
       "ID": "413a09o",
       "IsBase": true,
-      "Progressed": 69206,
+      "Progressed": 69215,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-23T09:03:04.2005407+00:00",
-  "LastChanged_Achievements": "2023-10-18T13:11:48.3567353+00:00",
-  "LastUpdate_AppInfo": "2023-10-11T13:57:09.9976611+00:00",
-  "LastUpdate_Ratings": "2023-10-18T13:04:07.6748971+00:00",
-  "LastUpdate_Achievements": "2023-10-18T13:11:48.3567982+00:00"
+  "LastChanged_Achievements": "2023-10-18T14:06:45.8417705+00:00",
+  "LastUpdate_AppInfo": "2023-10-18T13:57:20.2863023+00:00",
+  "LastUpdate_Ratings": "2023-10-18T13:58:22.9832402+00:00",
+  "LastUpdate_Achievements": "2023-10-18T14:06:45.8418162+00:00"
 }

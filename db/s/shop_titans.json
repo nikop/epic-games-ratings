@@ -6568,9 +6568,9 @@
       "Count": 3762
     }
   ],
-  "EOS_Progressed": 137779,
+  "EOS_Progressed": 137780,
   "EOS_Completed": 170,
-  "EOS_NewPlayers": 345,
+  "EOS_NewPlayers": 346,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -25088,6 +25088,11 @@
       "Time": "2023-10-18T13:10:38.1268528+00:00",
       "NumProgressed": 137779,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-10-18T14:05:22.8058971+00:00",
+      "NumProgressed": 137780,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 112,
@@ -25785,9 +25790,9 @@
       "ID": "master05",
       "SetID": "anfd17p",
       "Name": "The Greatest Grind",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 276
+      "UsersEstimate": 413
     },
     {
       "ID": "masterpiece",
@@ -25994,15 +25999,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 137779,
+      "Progressed": 137780,
       "Completed": 170
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-18T13:04:41.4218738+00:00",
-  "LastChanged_Achievements": "2023-10-18T13:10:38.1268522+00:00",
+  "LastChanged_Achievements": "2023-10-18T14:05:22.8058968+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:10.2617104+00:00",
-  "LastUpdate_Ratings": "2023-10-18T13:04:41.4218744+00:00",
-  "LastUpdate_Achievements": "2023-10-18T13:10:38.1271398+00:00"
+  "LastUpdate_Ratings": "2023-10-18T13:59:08.3164719+00:00",
+  "LastUpdate_Achievements": "2023-10-18T14:05:22.8061075+00:00"
 }

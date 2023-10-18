@@ -4,11 +4,11 @@
   "ProductSlug": "desperados-3",
   "Ranking_Rating": 49,
   "Ranking_Popularity": 424,
-  "Ranking_PopularitySum": 348,
+  "Ranking_PopularitySum": 345,
   "Ranking_EOS_Progress": 674,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 393,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 392,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2020-06-16T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -612,10 +612,16 @@
       "Rating": 4.84,
       "NumberOfAwards": 303,
       "NumberOfAwardsMax": 47
+    },
+    {
+      "Time": "2023-10-18T14:00:12.1565255+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 339,
+      "NumberOfAwardsMax": 47
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 303,
+  "NumberOfAwards": 339,
   "NumberOfAwardsMax": 47,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -639,9 +645,9 @@
     },
     {
       "Text": "This game has Challenging Combat",
-      "Prefix": "",
-      "Type": "",
-      "Count": 25
+      "Prefix": "This game has",
+      "Type": "Challenging Combat",
+      "Count": 36
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -697,8 +703,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:02.5074381+00:00",
-  "LastChanged": "2023-10-17T18:58:50.7036441+00:00",
+  "LastChanged": "2023-10-18T14:00:12.1565254+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:10.2475656+00:00",
-  "LastUpdate_Ratings": "2023-10-18T13:05:33.9978869+00:00",
-  "LastUpdate_Achievements": "2023-10-18T13:12:19.7344078+00:00"
+  "LastUpdate_Ratings": "2023-10-18T14:00:12.1565262+00:00",
+  "LastUpdate_Achievements": "2023-10-18T14:07:23.0249803+00:00"
 }

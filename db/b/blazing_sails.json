@@ -2,13 +2,13 @@
   "ID": "aee7dd76aa6746578f476dc47f8d1d7f",
   "Name": "Blazing Sails",
   "ProductSlug": "blazing-sails",
-  "Ranking_Rating": 1010,
+  "Ranking_Rating": 1009,
   "Ranking_Popularity": 538,
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 674,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 393,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 392,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-10-12T15:00:00+00:00",
     "PcReleaseDate": "2020-11-05T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 3.77,
+  "Rating": 3.78,
   "RatingHistory": [
     {
       "Time": "2023-10-13T14:59:17.6210716+00:00",
@@ -180,6 +180,12 @@
       "Rating": 3.77,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-10-18T14:01:26.9677823+00:00",
+      "Rating": 3.78,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -198,8 +204,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-12T17:58:51.2912831+00:00",
   "FirstSeenRating": "2023-10-13T14:59:17.6210713+00:00",
-  "LastChanged": "2023-10-18T10:01:21.4049891+00:00",
+  "LastChanged": "2023-10-18T14:01:26.9677822+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:23.6389481+00:00",
-  "LastUpdate_Ratings": "2023-10-18T13:06:33.1920677+00:00",
-  "LastUpdate_Achievements": "2023-10-18T13:10:38.3764986+00:00"
+  "LastUpdate_Ratings": "2023-10-18T14:01:26.9677831+00:00",
+  "LastUpdate_Achievements": "2023-10-18T14:05:23.1176032+00:00"
 }

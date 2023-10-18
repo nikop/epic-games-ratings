@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1170,9 +1170,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 231568,
+  "EOS_Progressed": 231574,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 1464,
+  "EOS_NewPlayers": 1459,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15155,6 +15155,11 @@
       "Time": "2023-10-18T13:14:34.3220181+00:00",
       "NumProgressed": 231568,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-18T14:09:39.8228544+00:00",
+      "NumProgressed": 231574,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 88,
@@ -15214,7 +15219,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11578
+      "UsersEstimate": 11579
     },
     {
       "ID": "Chapter2",
@@ -15614,7 +15619,7 @@
       "Name": "Sowwy!",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 76417
+      "UsersEstimate": 76419
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -15869,21 +15874,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 231568,
+      "Progressed": 231574,
       "Completed": 6
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 231568,
+      "Progressed": 231574,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-10-15T22:57:47.2240798+00:00",
-  "LastChanged_Achievements": "2023-10-18T13:14:34.3220175+00:00",
+  "LastChanged_Achievements": "2023-10-18T14:09:39.8228538+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:06.1366459+00:00",
-  "LastUpdate_Ratings": "2023-10-18T13:04:30.3126914+00:00",
-  "LastUpdate_Achievements": "2023-10-18T13:14:34.3222256+00:00"
+  "LastUpdate_Ratings": "2023-10-18T13:58:53.5265005+00:00",
+  "LastUpdate_Achievements": "2023-10-18T14:09:39.8230025+00:00"
 }

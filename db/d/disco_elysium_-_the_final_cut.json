@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 290,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1367,9 +1367,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 129822,
+  "EOS_Progressed": 129823,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 253,
+  "EOS_NewPlayers": 254,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -19397,6 +19397,11 @@
       "Time": "2023-10-18T13:09:17.6973376+00:00",
       "NumProgressed": 129822,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-10-18T14:04:02.6732481+00:00",
+      "NumProgressed": 129823,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -19464,7 +19469,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31157
+      "UsersEstimate": 31158
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -19552,7 +19557,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 14280
+      "UsersEstimate": 14281
     },
     {
       "ID": "ACH_CUNO",
@@ -19727,15 +19732,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 129822,
+      "Progressed": 129823,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-10-15T06:03:52.9459582+00:00",
-  "LastChanged_Achievements": "2023-10-18T13:09:17.697337+00:00",
+  "LastChanged_Achievements": "2023-10-18T14:04:02.6732477+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:18.5281336+00:00",
-  "LastUpdate_Ratings": "2023-10-18T13:09:06.2489707+00:00",
-  "LastUpdate_Achievements": "2023-10-18T13:09:17.6974887+00:00"
+  "LastUpdate_Ratings": "2023-10-18T14:03:37.5513047+00:00",
+  "LastUpdate_Achievements": "2023-10-18T14:04:02.6733772+00:00"
 }

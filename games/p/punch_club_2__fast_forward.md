@@ -10,8 +10,8 @@
 | First winning | 85.00% | ~285 |
 | Your first job | 84.00% | ~281 |
 | Old movies enjoyer | 81.00% | ~271 |
+| Fitness professional | 80.00% | ~268 |
 | Depressed visitor | 80.00% | ~268 |
-| Fitness professional | 79.00% | ~265 |
 | Employee of the week | 79.00% | ~265 |
 | Neurotrainer – power gainer! | 78.00% | ~261 |
 | Your own amateur gym | 75.00% | ~251 |
