@@ -3,7 +3,7 @@
   "Name": "greensheen Production",
   "Ranking_EOS_Progress": 533,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 392,
+  "Ranking_EOS_NewPlayers": 393,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": null,
@@ -90,9 +90,9 @@
       "ID": "BurnBears",
       "SetID": "aph8hbk",
       "Name": "Toys Are For Kids",
-      "Percentage": 67,
+      "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "CallSix",
@@ -202,9 +202,9 @@
       "ID": "HalfHatsCollected",
       "SetID": "aph8hbk",
       "Name": "Half hat",
-      "Percentage": 44,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "HandOverkill",
@@ -218,9 +218,9 @@
       "ID": "HoleCatch",
       "SetID": "aph8hbk",
       "Name": "Objection",
-      "Percentage": 56,
+      "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "HunterHunted",
@@ -234,9 +234,9 @@
       "ID": "KidsHospital",
       "SetID": "aph8hbk",
       "Name": "Sick Kids",
-      "Percentage": 44,
+      "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "KidsPaleCity",
@@ -282,9 +282,9 @@
       "ID": "PatientBall",
       "SetID": "aph8hbk",
       "Name": "Medicine ball",
-      "Percentage": 56,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Piano",
@@ -306,9 +306,9 @@
       "ID": "Popcorn",
       "SetID": "aph8hbk",
       "Name": "Popcorn",
-      "Percentage": 56,
+      "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "SixRaincoat",
@@ -346,9 +346,9 @@
       "ID": "Xray",
       "SetID": "aph8hbk",
       "Name": "X Best Friends",
-      "Percentage": 56,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     }
   ],
   "AchievementSets": [
@@ -360,8 +360,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-31T13:15:39.9572089+00:00",
-  "LastChanged_Achievements": "2023-10-18T12:08:44.2168009+00:00",
+  "LastChanged_Achievements": "2023-10-18T13:13:03.3927222+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:13.194983+00:00",
-  "LastUpdate_Ratings": "2023-10-18T12:03:04.5876667+00:00",
-  "LastUpdate_Achievements": "2023-10-18T12:08:44.2168268+00:00"
+  "LastUpdate_Ratings": "2023-10-18T13:08:11.9734481+00:00",
+  "LastUpdate_Achievements": "2023-10-18T13:13:03.3927517+00:00"
 }

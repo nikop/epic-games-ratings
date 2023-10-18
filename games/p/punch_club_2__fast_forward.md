@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Such a strange dream… | 88.00% | ~295 |
+| Such a strange dream… | 89.00% | ~298 |
 | Your first fight | 87.00% | ~291 |
 | Good Person Chip | 86.00% | ~288 |
 | First winning | 85.00% | ~285 |
 | Your first job | 84.00% | ~281 |
 | Old movies enjoyer | 81.00% | ~271 |
+| Depressed visitor | 80.00% | ~268 |
 | Fitness professional | 79.00% | ~265 |
-| Depressed visitor | 79.00% | ~265 |
 | Employee of the week | 79.00% | ~265 |
 | Neurotrainer – power gainer! | 78.00% | ~261 |
 | Your own amateur gym | 75.00% | ~251 |

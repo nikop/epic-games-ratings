@@ -6,8 +6,8 @@
   "Ranking_Popularity": 240,
   "Ranking_PopularitySum": 196,
   "Ranking_EOS_Progress": 124,
-  "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_Completed": 249,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
@@ -1950,9 +1950,9 @@
       "Count": 216
     }
   ],
-  "EOS_Progressed": 20955,
+  "EOS_Progressed": 20956,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -9220,6 +9220,11 @@
       "Time": "2023-10-18T11:03:37.5655839+00:00",
       "NumProgressed": 20955,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-10-18T13:09:30.0747121+00:00",
+      "NumProgressed": 20956,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -9279,7 +9284,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 19907
+      "UsersEstimate": 19908
     },
     {
       "ID": "GameOver",
@@ -9343,7 +9348,7 @@
       "Name": "Just Enough",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3981
+      "UsersEstimate": 3982
     },
     {
       "ID": "Negotiator",
@@ -9414,15 +9419,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 20955,
+      "Progressed": 20956,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-10-15T04:01:12.0081926+00:00",
-  "LastChanged_Achievements": "2023-10-18T12:04:17.8629672+00:00",
+  "LastChanged_Achievements": "2023-10-18T13:09:30.0747116+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:53.7092922+00:00",
-  "LastUpdate_Ratings": "2023-10-18T11:58:34.5636068+00:00",
-  "LastUpdate_Achievements": "2023-10-18T12:04:17.8630313+00:00"
+  "LastUpdate_Ratings": "2023-10-18T13:04:08.5841465+00:00",
+  "LastUpdate_Achievements": "2023-10-18T13:09:30.0747762+00:00"
 }

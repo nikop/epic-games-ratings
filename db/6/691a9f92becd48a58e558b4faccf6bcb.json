@@ -2,7 +2,7 @@
   "ID": "691a9f92becd48a58e558b4faccf6bcb",
   "Name": "Snowmen",
   "ProductSlug": "snowmen-5987b9",
-  "Ranking_EOS_Progress": 389,
+  "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 149,
   "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 107,
@@ -649,8 +649,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-17T19:06:21.6274083+00:00",
-  "LastChanged_Achievements": "2023-10-18T12:06:13.8621856+00:00",
+  "LastChanged_Achievements": "2023-10-18T13:11:06.24559+00:00",
   "LastUpdate_AppInfo": "2023-10-15T19:57:18.5271955+00:00",
-  "LastUpdate_Ratings": "2023-10-18T12:03:11.1358831+00:00",
-  "LastUpdate_Achievements": "2023-10-18T12:06:13.8622015+00:00"
+  "LastUpdate_Ratings": "2023-10-18T13:08:17.2650706+00:00",
+  "LastUpdate_Achievements": "2023-10-18T13:11:06.2456472+00:00"
 }

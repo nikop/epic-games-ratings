@@ -4,7 +4,7 @@
   "ProductSlug": "classic-racing-manager-679706",
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-05-10T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 419,
+  "EOS_Progressed": 420,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -936,6 +936,11 @@
       "Time": "2023-10-17T20:04:56.9974098+00:00",
       "NumProgressed": 419,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-18T13:11:29.1180153+00:00",
+      "NumProgressed": 420,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 162,
@@ -1011,7 +1016,7 @@
       "Name": "Newbie",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -1451,7 +1456,7 @@
       "Name": "No brakes",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -2242,14 +2247,14 @@
     {
       "ID": "76k7b7p",
       "IsBase": true,
-      "Progressed": 419,
+      "Progressed": 420,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-11T01:55:52.8280898+00:00",
   "FirstSeenAchievements": "2023-05-05T09:00:44.9178133+00:00",
-  "LastChanged_Achievements": "2023-10-18T12:06:45.6503963+00:00",
+  "LastChanged_Achievements": "2023-10-18T13:11:29.1180148+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:18.7679602+00:00",
-  "LastUpdate_Ratings": "2023-10-18T11:58:47.1340857+00:00",
-  "LastUpdate_Achievements": "2023-10-18T12:06:45.6507103+00:00"
+  "LastUpdate_Ratings": "2023-10-18T13:04:15.8022187+00:00",
+  "LastUpdate_Achievements": "2023-10-18T13:11:29.118339+00:00"
 }

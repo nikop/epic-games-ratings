@@ -4,7 +4,7 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 69,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1285,
+  "EOS_Progressed": 1286,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 4.44,
+  "EOS_Completed_Percentage": 4.43,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:27.3083538+00:00",
@@ -2566,6 +2566,11 @@
       "Time": "2023-10-18T10:06:03.9781752+00:00",
       "NumProgressed": 1285,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-10-18T13:11:26.9301712+00:00",
+      "NumProgressed": 1286,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 16,
@@ -2593,7 +2598,7 @@
       "Name": "Dream Listener",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "ACH_EMOTIONALBAGGAGEHANDLER",
@@ -2617,7 +2622,7 @@
       "Name": "Graffiti Artist",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ACH_GREYHANDSPRAXI101",
@@ -2625,7 +2630,7 @@
       "Name": "Grey Hands Praxis 101",
       "Percentage": 31,
       "XP": 90,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "ACH_HOMELEAVER",
@@ -2633,7 +2638,7 @@
       "Name": "Home Leaver",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 1054
+      "UsersEstimate": 1055
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -2641,7 +2646,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 1054
+      "UsersEstimate": 1055
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -2665,7 +2670,7 @@
       "Name": "Outside World Seer",
       "Percentage": 66,
       "XP": 40,
-      "UsersEstimate": 848
+      "UsersEstimate": 849
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -2704,7 +2709,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1285,
+      "Progressed": 1286,
       "Completed": 57
     }
   ],
@@ -2712,8 +2717,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-10-18T12:06:42.7475684+00:00",
+  "LastChanged_Achievements": "2023-10-18T13:11:26.9301705+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:05.0474751+00:00",
-  "LastUpdate_Ratings": "2023-10-18T11:59:23.3203115+00:00",
-  "LastUpdate_Achievements": "2023-10-18T12:06:42.7476008+00:00"
+  "LastUpdate_Ratings": "2023-10-18T13:04:37.5219082+00:00",
+  "LastUpdate_Achievements": "2023-10-18T13:11:26.9302032+00:00"
 }

@@ -1392,7 +1392,7 @@
       "Count": 231
     }
   ],
-  "EOS_Progressed": 7749,
+  "EOS_Progressed": 7750,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 379,
   "EOS_NewCompleters": 0,
@@ -4742,6 +4742,11 @@
       "Time": "2023-10-18T11:08:23.9859116+00:00",
       "NumProgressed": 7749,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-18T13:14:33.7168083+00:00",
+      "NumProgressed": 7750,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -4786,7 +4791,7 @@
       "Name": "Who Was That???",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ach06",
@@ -4794,7 +4799,7 @@
       "Name": "Titan",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 5734
+      "UsersEstimate": 5735
     },
     {
       "ID": "ach07",
@@ -4802,7 +4807,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 4184
+      "UsersEstimate": 4185
     },
     {
       "ID": "ach08",
@@ -4810,7 +4815,7 @@
       "Name": "It Has Begun!!!",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2867
+      "UsersEstimate": 2868
     },
     {
       "ID": "ach09",
@@ -4826,7 +4831,7 @@
       "Name": "Deadly Assassin",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "ach11",
@@ -4970,7 +4975,7 @@
       "Name": "Feeling Stronger",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2557
+      "UsersEstimate": 2558
     },
     {
       "ID": "ach29",
@@ -4986,7 +4991,7 @@
       "Name": "Juggernaut",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1007
+      "UsersEstimate": 1008
     },
     {
       "ID": "ach31",
@@ -5002,7 +5007,7 @@
       "Name": "Who Da Boss??",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 1937
+      "UsersEstimate": 1938
     },
     {
       "ID": "ach33",
@@ -5010,7 +5015,7 @@
       "Name": "Vanquished",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "ach34",
@@ -5040,9 +5045,9 @@
       "ID": "ach37",
       "SetID": "47in8n6",
       "Name": "ABACABB",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 4339
+      "UsersEstimate": 4418
     },
     {
       "ID": "ach38",
@@ -5066,7 +5071,7 @@
       "Name": "Found You",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 2867
+      "UsersEstimate": 2868
     },
     {
       "ID": "ach41",
@@ -5074,7 +5079,7 @@
       "Name": "Stop Hiding",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2867
+      "UsersEstimate": 2868
     },
     {
       "ID": "ach42",
@@ -5106,7 +5111,7 @@
       "Name": "There Is No Knowledge That Is Not Power",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "ach46",
@@ -5138,7 +5143,7 @@
       "Name": "Thank You For Being A Fan!!!",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "ach50",
@@ -5153,7 +5158,7 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 7749,
+      "Progressed": 7750,
       "Completed": 0
     }
   ],
@@ -5161,8 +5166,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-10-18T08:00:05.3236447+00:00",
-  "LastChanged_Achievements": "2023-10-18T12:09:40.8782023+00:00",
+  "LastChanged_Achievements": "2023-10-18T13:14:33.7168077+00:00",
   "LastUpdate_AppInfo": "2023-10-14T07:57:06.3888504+00:00",
-  "LastUpdate_Ratings": "2023-10-18T12:01:52.6867505+00:00",
-  "LastUpdate_Achievements": "2023-10-18T12:09:40.8782856+00:00"
+  "LastUpdate_Ratings": "2023-10-18T13:06:20.0992002+00:00",
+  "LastUpdate_Achievements": "2023-10-18T13:14:33.7168788+00:00"
 }

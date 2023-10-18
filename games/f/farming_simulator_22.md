@@ -11,8 +11,8 @@ Number of Ratings: 7,683  (23.09.2022)
 | Just a sprinkle | 63.00% | ~31,574 |
 | I'm stumped | 61.00% | ~30,571 |
 | Plant get enough | 60.00% | ~30,070 |
+| It's just the beginning | 59.00% | ~29,569 |
 | This is just my weekend vehicle | 58.00% | ~29,068 |
-| It's just the beginning | 58.00% | ~29,068 |
 | Hard work pays off | 53.00% | ~26,562 |
 | It's never too late to farm | 50.00% | ~25,058 |
 | All out of Land | 44.00% | ~22,051 |

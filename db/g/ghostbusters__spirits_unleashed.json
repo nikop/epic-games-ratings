@@ -2380,10 +2380,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2401,
       "NumberOfAwardsMax": 264
+    },
+    {
+      "Time": "2023-10-18T13:05:41.9683715+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2402,
+      "NumberOfAwardsMax": 264
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2401,
+  "NumberOfAwards": 2402,
   "NumberOfAwardsMax": 264,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2391,7 +2397,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 261
+      "Count": 262
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2460,9 +2466,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26571,
+  "EOS_Progressed": 26572,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 235,
+  "EOS_NewPlayers": 236,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -15275,6 +15281,11 @@
       "Time": "2023-10-18T09:04:08.1895379+00:00",
       "NumProgressed": 26571,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-10-18T13:09:44.541421+00:00",
+      "NumProgressed": 26572,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 51,
@@ -15500,9 +15511,9 @@
       "ID": "Pesky_Jerks",
       "SetID": "819popo",
       "Name": "Pesky Jerks",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 159
+      "UsersEstimate": 186
     },
     {
       "ID": "Reckless",
@@ -15693,16 +15704,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26571,
+      "Progressed": 26572,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-10-18T07:59:25.7118859+00:00",
-  "LastChanged_Achievements": "2023-10-18T12:04:34.971629+00:00",
+  "LastChanged": "2023-10-18T13:05:41.9683713+00:00",
+  "LastChanged_Achievements": "2023-10-18T13:09:44.5414204+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:17.9420656+00:00",
-  "LastUpdate_Ratings": "2023-10-18T12:00:57.0680686+00:00",
-  "LastUpdate_Achievements": "2023-10-18T12:04:34.9717681+00:00"
+  "LastUpdate_Ratings": "2023-10-18T13:05:41.9683724+00:00",
+  "LastUpdate_Achievements": "2023-10-18T13:09:44.5415536+00:00"
 }

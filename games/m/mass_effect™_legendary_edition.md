@@ -68,11 +68,11 @@
 | Cat's in the Cradle | 29.00% | ~213 |
 | Doppelganger | 29.00% | ~213 |
 | Digital Exorcist | 29.00% | ~213 |
+| Mobilizer | 29.00% | ~213 |
+| Suicide Mission | 28.00% | ~205 |
 | Friend or Foe | 28.00% | ~205 |
-| Mobilizer | 28.00% | ~205 |
 | First Aid Specialist | 27.00% | ~198 |
 | Mission Accomplished | 27.00% | ~198 |
-| Suicide Mission | 27.00% | ~198 |
 | Against All Odds | 27.00% | ~198 |
 | Untouchable | 26.00% | ~191 |
 | Eye of the Hurricane | 26.00% | ~191 |
@@ -85,8 +85,8 @@
 | Tunnel Rat | 23.00% | ~169 |
 | Arbiter | 23.00% | ~169 |
 | Savior | 22.00% | ~161 |
+| Paramour II | 22.00% | ~161 |
 | Lost and Found | 22.00% | ~161 |
-| Paramour II | 21.00% | ~154 |
 | Party Crasher | 21.00% | ~154 |
 | Pyromaniac | 20.00% | ~147 |
 | No One Left Behind | 20.00% | ~147 |

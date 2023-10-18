@@ -218,9 +218,9 @@
       "ID": "KR4_ACHIEVEMENT_CALL_EARLY_WAVES",
       "SetID": "caeik3h",
       "Name": "Gotta Go Fast",
-      "Percentage": 96,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "KR4_ACHIEVEMENT_CURSE_ME_KILTS",
@@ -769,8 +769,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-10-18T12:05:24.2543863+00:00",
+  "LastChanged_Achievements": "2023-10-18T13:10:30.6715617+00:00",
   "LastUpdate_AppInfo": "2023-10-12T15:57:01.5965856+00:00",
-  "LastUpdate_Ratings": "2023-10-18T12:01:15.7550194+00:00",
-  "LastUpdate_Achievements": "2023-10-18T12:05:24.2545153+00:00"
+  "LastUpdate_Ratings": "2023-10-18T13:05:55.4015454+00:00",
+  "LastUpdate_Achievements": "2023-10-18T13:10:30.6716504+00:00"
 }

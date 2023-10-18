@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -755,9 +755,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4217,
+  "EOS_Progressed": 4219,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 204,
+  "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -7630,6 +7630,11 @@
       "Time": "2023-10-18T09:09:02.9308329+00:00",
       "NumProgressed": 4217,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-18T13:14:31.1327188+00:00",
+      "NumProgressed": 4219,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -7666,7 +7671,7 @@
       "Name": "Death Becomes You",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "MF_Ach_DebuffDogpile",
@@ -7682,7 +7687,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -7690,7 +7695,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 1012
+      "UsersEstimate": 1013
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -7768,9 +7773,9 @@
       "ID": "MF_Ach_OnThisEpisode",
       "SetID": "9b9n573",
       "Name": "On this Episode!",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 253
+      "UsersEstimate": 211
     },
     {
       "ID": "MF_Ach_PerkShardPunchCard",
@@ -7802,7 +7807,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -7825,15 +7830,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4217,
+      "Progressed": 4219,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-14T13:04:06.5278861+00:00",
-  "LastChanged_Achievements": "2023-10-18T12:09:37.3695403+00:00",
+  "LastChanged_Achievements": "2023-10-18T13:14:31.1327182+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:04.1779972+00:00",
-  "LastUpdate_Ratings": "2023-10-18T11:59:17.4641866+00:00",
-  "LastUpdate_Achievements": "2023-10-18T12:09:37.3696042+00:00"
+  "LastUpdate_Ratings": "2023-10-18T13:04:33.8019925+00:00",
+  "LastUpdate_Achievements": "2023-10-18T13:14:31.1327816+00:00"
 }

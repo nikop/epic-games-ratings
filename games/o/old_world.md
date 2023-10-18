@@ -151,6 +151,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kush | 0.30% | ~44 |
 | Beja Archer | 0.30% | ~44 |
 | Bronze Victory (Carthage 1) | 0.20% | ~30 |
+| Silver Victory (Carthage 1) | 0.20% | ~30 |
 | Ancient | 0.20% | ~30 |
 | Old | 0.20% | ~30 |
 | Glorious Difficulty | 0.20% | ~30 |
@@ -185,7 +186,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hagia Sophia in Byzantion | 0.10% | ~15 |
 | Epic Victory (Carthage 1) | 0.10% | ~15 |
 | Gold Victory (Carthage 1) | 0.10% | ~15 |
-| Silver Victory (Carthage 1) | 0.10% | ~15 |
 | Carthage - Riches and Influence | 0.10% | ~15 |
 | Bronze Victory (Carthage 2) | 0.10% | ~15 |
 | Epic Victory (Carthage 2) | 0.10% | ~15 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,779 (Ranked 135)  
+Progressed: 14,781 (Ranked 135)  
 Completed: 5 (0.03%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -530,7 +530,7 @@ Completed: 5 (0.03%) (Ranked 285)
 | 2023-10-15 | 14,732 | 5 |
 | 2023-10-16 | 14,747 | 5 |
 | 2023-10-17 | 14,775 | 5 |
-| 2023-10-18 | 14,779 | 5 |
+| 2023-10-18 | 14,781 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,845 (Ranked 211)  

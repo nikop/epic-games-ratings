@@ -5,26 +5,26 @@ Rating: 4.67 (Ranked 264)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 95.00% | ~3,147 |
-| On the Top Step | 90.00% | ~2,982 |
-| Setting up for Success | 79.00% | ~2,617 |
-| Team Orders | 77.00% | ~2,551 |
-| Engineer | 57.00% | ~1,888 |
+| Getting on the Step | 95.00% | ~3,148 |
+| On the Top Step | 90.00% | ~2,983 |
+| Setting up for Success | 79.00% | ~2,618 |
+| Team Orders | 77.00% | ~2,552 |
+| Engineer | 57.00% | ~1,889 |
 | Familiar Faces | 51.00% | ~1,690 |
 | Going the Extra Mile | 45.00% | ~1,491 |
 | Sharing the Love | 44.00% | ~1,458 |
-| Hitting a Season | 41.00% | ~1,358 |
+| Hitting a Season | 41.00% | ~1,359 |
 | Challenge Yourself | 36.00% | ~1,193 |
-| A Dozen Pieces | 34.00% | ~1,126 |
-| Making History | 33.00% | ~1,093 |
+| A Dozen Pieces | 34.00% | ~1,127 |
+| Making History | 33.00% | ~1,094 |
 | Network Success | 27.00% | ~895 |
 | Writing a new Chapter | 27.00% | ~895 |
 | Spring Cleaning | 25.00% | ~828 |
 | Reduce | 21.00% | ~696 |
 | Ups and Downs | 21.00% | ~696 |
 | Crucial Combo | 20.00% | ~663 |
-| Reuse | 18.00% | ~596 |
-| One for the Book | 18.00% | ~596 |
+| Reuse | 18.00% | ~597 |
+| One for the Book | 18.00% | ~597 |
 | Proving Them Wrong | 17.00% | ~563 |
 | Gathering Dust | 16.00% | ~530 |
 | Oil and Water | 16.00% | ~530 |
@@ -35,8 +35,8 @@ Rating: 4.67 (Ranked 264)
 | Spinning Around | 13.00% | ~431 |
 | Recycle | 13.00% | ~431 |
 | Switcheroo | 12.00% | ~398 |
-| Friendly Competition | 11.00% | ~364 |
-| Tinkerer | 11.00% | ~364 |
+| Friendly Competition | 11.00% | ~365 |
+| Tinkerer | 11.00% | ~365 |
 | Undisputed Winner | 10.00% | ~331 |
 | Living up to Expectations | 7.00% | ~232 |
 | Smooth Operator | 7.00% | ~232 |
@@ -55,7 +55,7 @@ Rating: 4.67 (Ranked 264)
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,313 (Ranked 187)  
+Progressed: 3,314 (Ranked 187)  
 Completed: 0 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 0 (0.00%) (Ranked 316)
 | 2023-10-15 | 3,279 | 0 |
 | 2023-10-16 | 3,296 | 0 |
 | 2023-10-17 | 3,311 | 0 |
-| 2023-10-18 | 3,313 | 0 |
+| 2023-10-18 | 3,314 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

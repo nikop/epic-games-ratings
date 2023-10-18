@@ -10229,7 +10229,7 @@
   ],
   "EOS_Progressed": 50117,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 384,
+  "EOS_NewPlayers": 380,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -26718,9 +26718,9 @@
       "ID": "PlayTime",
       "SetID": "636ci4d",
       "Name": "It\u0027s just the beginning",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 29068
+      "UsersEstimate": 29569
     },
     {
       "ID": "Sow",
@@ -26798,8 +26798,8 @@
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-10-17T19:59:04.5605967+00:00",
-  "LastChanged_Achievements": "2023-10-18T12:09:09.4931971+00:00",
+  "LastChanged_Achievements": "2023-10-18T13:14:11.3540921+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:17.6227562+00:00",
-  "LastUpdate_Ratings": "2023-10-18T12:00:56.5299379+00:00",
-  "LastUpdate_Achievements": "2023-10-18T12:09:09.4933418+00:00"
+  "LastUpdate_Ratings": "2023-10-18T13:05:41.6734624+00:00",
+  "LastUpdate_Achievements": "2023-10-18T13:14:11.3542407+00:00"
 }

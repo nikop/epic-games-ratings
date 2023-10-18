@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -98,11 +98,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 728,
+  "EOS_Progressed": 729,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.3,
+  "EOS_Completed_Percentage": 3.29,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -2148,6 +2148,11 @@
       "Time": "2023-10-17T17:09:25.3617504+00:00",
       "NumProgressed": 728,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-10-18T13:14:30.1370486+00:00",
+      "NumProgressed": 729,
+      "NumCompleted": 24
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2168,7 +2173,7 @@
       "Name": "A New Journey",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "_03_FinishAct1",
@@ -2200,7 +2205,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "_07_FinishAct3",
@@ -2240,7 +2245,7 @@
       "Name": "Seadog",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "_12_Completion_50",
@@ -2304,7 +2309,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -2326,9 +2331,9 @@
       "ID": "_22_CrewTale_FSH",
       "SetID": "8a1io5d",
       "Name": "Accursed Artifacts",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 80
     },
     {
       "ID": "_23_CrewTale_CNN",
@@ -2367,7 +2372,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 728,
+      "Progressed": 729,
       "Completed": 24
     }
   ],
@@ -2375,8 +2380,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-10-02T00:00:41.2116731+00:00",
-  "LastChanged_Achievements": "2023-10-18T12:09:36.1203055+00:00",
+  "LastChanged_Achievements": "2023-10-18T13:14:30.1370475+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:48.0426096+00:00",
-  "LastUpdate_Ratings": "2023-10-18T11:58:42.1426823+00:00",
-  "LastUpdate_Achievements": "2023-10-18T12:09:36.1203403+00:00"
+  "LastUpdate_Ratings": "2023-10-18T13:04:13.2002221+00:00",
+  "LastUpdate_Achievements": "2023-10-18T13:14:30.1370811+00:00"
 }

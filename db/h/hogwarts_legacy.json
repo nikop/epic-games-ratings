@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -9058,10 +9058,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 46129,
       "NumberOfAwardsMax": 23620
+    },
+    {
+      "Time": "2023-10-18T13:04:05.6497407+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 46132,
+      "NumberOfAwardsMax": 23620
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 46129,
+  "NumberOfAwards": 46132,
   "NumberOfAwardsMax": 23620,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9093,7 +9099,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1190
+      "Count": 1193
     },
     {
       "Text": "This game is Extremely Fun",
@@ -9138,9 +9144,9 @@
       "Count": 718
     }
   ],
-  "EOS_Progressed": 298528,
+  "EOS_Progressed": 298531,
   "EOS_Completed": 488,
-  "EOS_NewPlayers": 365,
+  "EOS_NewPlayers": 367,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -28518,6 +28524,11 @@
       "Time": "2023-10-18T12:07:26.17171+00:00",
       "NumProgressed": 298528,
       "NumCompleted": 488
+    },
+    {
+      "Time": "2023-10-18T13:11:58.0579524+00:00",
+      "NumProgressed": 298531,
+      "NumCompleted": 488
     }
   ],
   "TotalAchievements": 45,
@@ -28529,7 +28540,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 44779
+      "UsersEstimate": 44780
     },
     {
       "ID": "PFA_10",
@@ -28617,7 +28628,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14926
+      "UsersEstimate": 14927
     },
     {
       "ID": "PFA_20",
@@ -28649,7 +28660,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35823
+      "UsersEstimate": 35824
     },
     {
       "ID": "PFA_24",
@@ -28809,7 +28820,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14926
+      "UsersEstimate": 14927
     },
     {
       "ID": "PFA_42",
@@ -28873,7 +28884,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 35823
+      "UsersEstimate": 35824
     },
     {
       "ID": "PFA_9",
@@ -28888,16 +28899,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298528,
+      "Progressed": 298531,
       "Completed": 488
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-10-18T11:58:30.1770672+00:00",
-  "LastChanged_Achievements": "2023-10-18T12:07:26.1717086+00:00",
+  "LastChanged": "2023-10-18T13:04:05.6497406+00:00",
+  "LastChanged_Achievements": "2023-10-18T13:11:58.0579518+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:16.623812+00:00",
-  "LastUpdate_Ratings": "2023-10-18T11:58:30.1770679+00:00",
-  "LastUpdate_Achievements": "2023-10-18T12:07:26.1720257+00:00"
+  "LastUpdate_Ratings": "2023-10-18T13:04:05.6497416+00:00",
+  "LastUpdate_Achievements": "2023-10-18T13:11:58.0581249+00:00"
 }

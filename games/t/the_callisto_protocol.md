@@ -9,7 +9,7 @@ Rating: 4.19 (Ranked 895)
 | Paper Jams | 6.00% | ~961 |
 | Flesh Wound | 5.00% | ~801 |
 | Float Like A Butterfly | 5.00% | ~801 |
-| Keep Fighting | 5.00% | ~197 |
+| Keep Fighting | 5.00% | ~198 |
 | You Need a Gun | 4.00% | ~641 |
 | I Do Belong Here | 4.00% | ~641 |
 | Two Heads Are Better Than One | 4.00% | ~641 |
@@ -31,7 +31,7 @@ Rating: 4.19 (Ranked 895)
 | In Striking Distance | 2.00% | ~320 |
 | The Commonality | 2.00% | ~320 |
 | One Last Job | 2.00% | ~79 |
-| This Isn't About Escape | 1.00% | ~39 |
+| This Isn't About Escape | 1.00% | ~40 |
 | Armed to the Teeth | 0.70% | ~28 |
 | Parole Denied | 0.70% | ~28 |
 | Big Spender | 0.70% | ~28 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 895)
 | Hoard Mode | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,023 (Ranked 133)  
+Progressed: 16,024 (Ranked 133)  
 Completed: 75 (0.47%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 75 (0.47%) (Ranked 180)
 | 2023-10-15 | 16,014 | 74 |
 | 2023-10-16 | 16,015 | 75 |
 | 2023-10-17 | 16,022 | 75 |
-| 2023-10-18 | 16,023 | 75 |
+| 2023-10-18 | 16,024 | 75 |
 ## Awards
 Max (Highly Recommended): 76  (Ranked 379)  
 Sum: 447 (Ranked 324)  

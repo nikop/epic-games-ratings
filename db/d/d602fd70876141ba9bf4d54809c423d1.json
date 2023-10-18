@@ -2,9 +2,9 @@
   "ID": "d602fd70876141ba9bf4d54809c423d1",
   "Name": "The Evil Within",
   "ProductSlug": "the-evil-within",
-  "Ranking_EOS_Progress": 371,
+  "Ranking_EOS_Progress": 368,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 122,
+  "EOS_Progressed": 124,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -614,6 +614,11 @@
       "Time": "2023-10-17T16:04:41.8608424+00:00",
       "NumProgressed": 122,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-18T13:10:22.6896375+00:00",
+      "NumProgressed": 124,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T16:01:32.1694174+00:00",
@@ -624,7 +629,7 @@
       "ID": "ACHIEVEMENT_01",
       "SetID": "ap8553i",
       "Name": "What\u0027s in the Box?",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 20,
       "UsersEstimate": 41
     },
@@ -634,13 +639,13 @@
       "Name": "Old Flame",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACHIEVEMENT_03",
       "SetID": "ap8553i",
       "Name": "Weapon of Choice",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
       "UsersEstimate": 29
     },
@@ -650,7 +655,7 @@
       "Name": "Two on Two",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACHIEVEMENT_05",
@@ -672,9 +677,9 @@
       "ID": "ACHIEVEMENT_07",
       "SetID": "ap8553i",
       "Name": "Slither into Oblivion",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -736,9 +741,9 @@
       "ID": "ACHIEVEMENT_15",
       "SetID": "ap8553i",
       "Name": "My Best Friend",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -784,9 +789,9 @@
       "ID": "ACHIEVEMENT_21",
       "SetID": "ap8553i",
       "Name": "Silent Kill",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -810,7 +815,7 @@
       "Name": "Krimson PD Fury",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -832,9 +837,9 @@
       "ID": "ACHIEVEMENT_27",
       "SetID": "ap8553i",
       "Name": "Bloody Bar Brawl",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -888,7 +893,7 @@
       "ID": "ACHIEVEMENT_34",
       "SetID": "ap8553i",
       "Name": "Home is Where the Hospice is",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 15,
       "UsersEstimate": 29
     },
@@ -944,9 +949,9 @@
       "ID": "ACHIEVEMENT_41",
       "SetID": "ap8553i",
       "Name": "Entry Level Electrician",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -1193,20 +1198,20 @@
     {
       "ID": "8ddjaeg",
       "IsBase": false,
-      "Progressed": 122,
+      "Progressed": 124,
       "Completed": 0
     },
     {
       "ID": "ap8553i",
       "IsBase": true,
-      "Progressed": 122,
+      "Progressed": 124,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-10-18T12:05:13.2072384+00:00",
+  "LastChanged_Achievements": "2023-10-18T13:10:22.6896088+00:00",
   "LastUpdate_AppInfo": "2023-10-11T21:57:06.97719+00:00",
-  "LastUpdate_Ratings": "2023-10-18T12:01:04.1085837+00:00",
-  "LastUpdate_Achievements": "2023-10-18T12:05:13.2073206+00:00"
+  "LastUpdate_Ratings": "2023-10-18T13:05:46.8140451+00:00",
+  "LastUpdate_Achievements": "2023-10-18T13:10:22.6897263+00:00"
 }
