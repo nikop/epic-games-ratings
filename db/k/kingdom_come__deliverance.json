@@ -7902,9 +7902,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 805150,
+  "EOS_Progressed": 805154,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 767,
+  "EOS_NewPlayers": 768,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -28072,6 +28072,11 @@
       "Time": "2023-10-18T00:04:38.982517+00:00",
       "NumProgressed": 805150,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-18T01:48:16.7399176+00:00",
+      "NumProgressed": 805154,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -28107,7 +28112,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 128824
+      "UsersEstimate": 128825
     },
     {
       "ID": "Awakening",
@@ -28147,7 +28152,7 @@
       "Name": "Bard",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 24154
+      "UsersEstimate": 24155
     },
     {
       "ID": "Bastard",
@@ -28163,7 +28168,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 257648
+      "UsersEstimate": 257649
     },
     {
       "ID": "Bookworm",
@@ -28171,7 +28176,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 120772
+      "UsersEstimate": 120773
     },
     {
       "ID": "Buddy",
@@ -28235,7 +28240,7 @@
       "Name": "Conqueror",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 24154
+      "UsersEstimate": 24155
     },
     {
       "ID": "Convict",
@@ -28283,7 +28288,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 185184
+      "UsersEstimate": 185185
     },
     {
       "ID": "Fighter",
@@ -28299,7 +28304,7 @@
       "Name": "Firestarter",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 120772
+      "UsersEstimate": 120773
     },
     {
       "ID": "Freud",
@@ -28355,7 +28360,7 @@
       "Name": "Ginger in a Pickle",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 24154
+      "UsersEstimate": 24155
     },
     {
       "ID": "Haggler",
@@ -28427,7 +28432,7 @@
       "Name": "Kingdom did not come",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 24154
+      "UsersEstimate": 24155
     },
     {
       "ID": "Knightrider",
@@ -28563,7 +28568,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 161030
+      "UsersEstimate": 161031
     },
     {
       "ID": "RevenantOfLedechko",
@@ -28603,7 +28608,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 161030
+      "UsersEstimate": 161031
     },
     {
       "ID": "SerialKiller",
@@ -28619,7 +28624,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 88566
+      "UsersEstimate": 88567
     },
     {
       "ID": "Sniper",
@@ -28691,7 +28696,7 @@
       "Name": "Traveller",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 88566
+      "UsersEstimate": 88567
     },
     {
       "ID": "TrialAndError",
@@ -28738,15 +28743,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 805150,
+      "Progressed": 805154,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-10-17T15:58:26.6845519+00:00",
-  "LastChanged_Achievements": "2023-10-18T00:04:38.9825166+00:00",
+  "LastChanged_Achievements": "2023-10-18T01:48:16.7399173+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:13.6850555+00:00",
-  "LastUpdate_Ratings": "2023-10-17T23:58:13.5486199+00:00",
-  "LastUpdate_Achievements": "2023-10-18T00:04:38.9827322+00:00"
+  "LastUpdate_Ratings": "2023-10-18T01:41:35.656101+00:00",
+  "LastUpdate_Achievements": "2023-10-18T01:48:16.7401343+00:00"
 }

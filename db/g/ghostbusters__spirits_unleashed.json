@@ -2454,9 +2454,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26562,
+  "EOS_Progressed": 26566,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 232,
+  "EOS_NewPlayers": 234,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -15244,6 +15244,11 @@
       "Time": "2023-10-18T00:03:52.2506025+00:00",
       "NumProgressed": 26562,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-10-18T01:47:30.7408384+00:00",
+      "NumProgressed": 26566,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 51,
@@ -15301,9 +15306,9 @@
       "ID": "Collect_Spores",
       "SetID": "819popo",
       "Name": "I collect Spores, Molds, and Fungi",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 266
+      "UsersEstimate": 531
     },
     {
       "ID": "Collector",
@@ -15357,9 +15362,9 @@
       "ID": "Ectoplasmic_Entity",
       "SetID": "819popo",
       "Name": "Ectoplasmic Entity",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 239
+      "UsersEstimate": 266
     },
     {
       "ID": "Efficient",
@@ -15527,7 +15532,7 @@
       "Name": "Side Hustle",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "Skilled",
@@ -15535,7 +15540,7 @@
       "Name": "Skilled",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "Solo_Capture",
@@ -15662,7 +15667,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26562,
+      "Progressed": 26566,
       "Completed": 58
     }
   ],
@@ -15670,8 +15675,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-17T22:58:56.2174069+00:00",
-  "LastChanged_Achievements": "2023-10-18T00:03:52.250602+00:00",
+  "LastChanged_Achievements": "2023-10-18T01:47:30.740838+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:17.9420656+00:00",
-  "LastUpdate_Ratings": "2023-10-17T23:59:43.0817885+00:00",
-  "LastUpdate_Achievements": "2023-10-18T00:03:52.2507317+00:00"
+  "LastUpdate_Ratings": "2023-10-18T01:42:59.1126737+00:00",
+  "LastUpdate_Achievements": "2023-10-18T01:47:30.7409611+00:00"
 }

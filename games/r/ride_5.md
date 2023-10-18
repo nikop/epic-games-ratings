@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Love | 42.00% | ~638 |
-| Eat My Dust | 41.00% | ~622 |
-| Clean Race | 40.00% | ~607 |
-| Hear That Roar! | 38.00% | ~577 |
-| Rivals to the End | 28.00% | ~425 |
+| First Love | 42.00% | ~639 |
+| Eat My Dust | 41.00% | ~624 |
+| Clean Race | 40.00% | ~608 |
+| Hear That Roar! | 38.00% | ~578 |
+| Rivals to the End | 28.00% | ~426 |
 | Bitter Rivalry | 25.00% | ~380 |
-| We're Going to Need a Bigger Garage | 24.00% | ~364 |
-| Champagne Spray | 22.00% | ~334 |
-| I Want One Too! | 19.00% | ~288 |
-| Restored and Ready | 18.00% | ~273 |
-| Legendary!!! | 18.00% | ~273 |
-| Quick Pit Stop | 18.00% | ~273 |
-| I'm Here Too! | 18.00% | ~273 |
+| We're Going to Need a Bigger Garage | 24.00% | ~365 |
+| Champagne Spray | 22.00% | ~335 |
+| I Want One Too! | 19.00% | ~289 |
+| Restored and Ready | 18.00% | ~274 |
+| Legendary!!! | 18.00% | ~274 |
+| Quick Pit Stop | 18.00% | ~274 |
+| I'm Here Too! | 17.00% | ~259 |
 | Go-Faster Stripes | 16.00% | ~243 |
 | We've Just Begun | 9.00% | ~137 |
-| Stamina Star | 8.00% | ~121 |
-| Is It the Right Size? | 8.00% | ~121 |
+| Stamina Star | 8.00% | ~122 |
+| Is It the Right Size? | 8.00% | ~122 |
 | Evangelist | 6.00% | ~91 |
 | Make It Your Own! | 5.00% | ~76 |
 | The Road to Liberty | 4.00% | ~61 |
 | I Make the Rules! | 4.00% | ~61 |
-| Spoilt for Choice | 3.00% | ~46 |
 | Cherry Blossom and Temples | 3.00% | ~46 |
 | La Dolce Vita | 3.00% | ~46 |
 | Romantic Races | 3.00% | ~46 |
 | Iconic! | 2.00% | ~30 |
+| Spoilt for Choice | 2.00% | ~30 |
 | Back in Blighty | 2.00% | ~30 |
 | Still Here | 2.00% | ~30 |
 | Rounding Off | 2.00% | ~30 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,518 (Ranked 217)  
+Progressed: 1,521 (Ranked 217)  
 Completed: 0 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,3 +101,4 @@ Completed: 0 (0.00%) (Ranked 315)
 | 2023-10-15 | 1,497 | 0 |
 | 2023-10-16 | 1,506 | 0 |
 | 2023-10-17 | 1,518 | 0 |
+| 2023-10-18 | 1,521 | 0 |

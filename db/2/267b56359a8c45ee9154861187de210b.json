@@ -4,7 +4,7 @@
   "ProductSlug": "marble-it-up-ultra-7b5692",
   "Ranking_EOS_Progress": 444,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -415,9 +415,9 @@
       "ID": "beat_c2_gold",
       "SetID": "3448go",
       "Name": "In Good Company",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "beat_c2_silver",
@@ -487,9 +487,9 @@
       "ID": "beat_c3_silver",
       "SetID": "3448go",
       "Name": "Power-Ups and Downs",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "beat_c3a_bronze",
@@ -926,8 +926,8 @@
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2023-10-18T00:04:26.9424995+00:00",
+  "LastChanged_Achievements": "2023-10-18T01:48:04.836976+00:00",
   "LastUpdate_AppInfo": "2023-10-11T21:57:10.1271769+00:00",
-  "LastUpdate_Ratings": "2023-10-17T23:59:09.3644505+00:00",
-  "LastUpdate_Achievements": "2023-10-18T00:04:26.942606+00:00"
+  "LastUpdate_Ratings": "2023-10-18T01:42:27.5829629+00:00",
+  "LastUpdate_Achievements": "2023-10-18T01:48:04.8371064+00:00"
 }

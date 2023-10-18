@@ -302,9 +302,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17883,
+  "EOS_Progressed": 17884,
   "EOS_Completed": 112,
-  "EOS_NewPlayers": 161,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -14047,6 +14047,11 @@
       "Time": "2023-10-17T23:04:24.5009581+00:00",
       "NumProgressed": 17883,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2023-10-18T01:48:46.9713463+00:00",
+      "NumProgressed": 17884,
+      "NumCompleted": 112
     }
   ],
   "TotalAchievements": 16,
@@ -14058,7 +14063,7 @@
       "Name": "Beat \u0027em Up",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 4828
+      "UsersEstimate": 4829
     },
     {
       "ID": "Burning_For_You",
@@ -14066,7 +14071,7 @@
       "Name": "Burning For You",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 5007
+      "UsersEstimate": 5008
     },
     {
       "ID": "Deadline",
@@ -14106,7 +14111,7 @@
       "Name": "Fireworks",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 5901
+      "UsersEstimate": 5902
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -14185,15 +14190,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 17883,
+      "Progressed": 17884,
       "Completed": 112
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-07-21T02:04:12.2963456+00:00",
-  "LastChanged_Achievements": "2023-10-18T00:05:09.3950691+00:00",
+  "LastChanged_Achievements": "2023-10-18T01:48:46.9713456+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:27.7450235+00:00",
-  "LastUpdate_Ratings": "2023-10-17T23:59:00.3541365+00:00",
-  "LastUpdate_Achievements": "2023-10-18T00:05:09.3951616+00:00"
+  "LastUpdate_Ratings": "2023-10-18T01:42:19.676388+00:00",
+  "LastUpdate_Achievements": "2023-10-18T01:48:46.9714428+00:00"
 }

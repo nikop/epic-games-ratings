@@ -7,6 +7,7 @@ Rating: 4.50 (Ranked 575)
 | ---- | ---------- | ----- |
 | Stylish | 3.00% | ~797 |
 | Advancement | 2.00% | ~531 |
+| I collect Spores, Molds, and Fungi | 2.00% | ~531 |
 | Discovery | 2.00% | ~531 |
 | Meticulously Efficient | 2.00% | ~531 |
 | Fully Upgraded | 2.00% | ~531 |
@@ -14,9 +15,9 @@ Rating: 4.50 (Ranked 575)
 | Animated | 1.00% | ~266 |
 | Back Off | 1.00% | ~266 |
 | Clutch Capture | 1.00% | ~266 |
-| I collect Spores, Molds, and Fungi | 1.00% | ~266 |
 | Cultured | 1.00% | ~266 |
 | Daily Dose | 1.00% | ~266 |
+| Ectoplasmic Entity | 1.00% | ~266 |
 | Icing on the Cake | 1.00% | ~266 |
 | Right back at ya | 1.00% | ~266 |
 | Solo Capture | 1.00% | ~266 |
@@ -26,11 +27,10 @@ Rating: 4.50 (Ranked 575)
 | There you are! | 1.00% | ~266 |
 | Welcome to the Crew | 1.00% | ~266 |
 | Whoopsie | 1.00% | ~266 |
-| Ectoplasmic Entity | 0.90% | ~239 |
 | Ghostbuster In Training | 0.90% | ~239 |
 | Summoner | 0.90% | ~239 |
-| Side Hustle | 0.80% | ~212 |
-| Skilled | 0.80% | ~212 |
+| Side Hustle | 0.80% | ~213 |
+| Skilled | 0.80% | ~213 |
 | Legions | 0.70% | ~186 |
 | Stunner | 0.70% | ~186 |
 | We have the best insurance | 0.60% | ~159 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 575)
 | Mycophile | 0.10% | ~27 |
 | Ultimate Defense | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,562 (Ranked 117)  
+Progressed: 26,566 (Ranked 117)  
 Completed: 58 (0.22%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 58 (0.22%) (Ranked 219)
 | 2023-10-15 | 26,505 | 58 |
 | 2023-10-16 | 26,537 | 58 |
 | 2023-10-17 | 26,559 | 58 |
-| 2023-10-18 | 26,562 | 58 |
+| 2023-10-18 | 26,566 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 264  (Ranked 257)  
 Sum: 2,400 (Ranked 189)  

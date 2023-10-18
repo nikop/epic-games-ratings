@@ -1138,9 +1138,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 152886,
+  "EOS_Progressed": 152897,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1415,
+  "EOS_NewPlayers": 1425,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12008,6 +12008,11 @@
       "Time": "2023-10-18T00:05:22.2938315+00:00",
       "NumProgressed": 152886,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-18T01:48:59.2531996+00:00",
+      "NumProgressed": 152897,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -12177,9 +12182,9 @@
       "ID": "DEFEAT_PERFORMER",
       "SetID": "ccc0dlh",
       "Name": "Celebration",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 459
+      "UsersEstimate": 612
     },
     {
       "ID": "DEFEAT_SHIDRA",
@@ -12386,21 +12391,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 152469,
+      "Progressed": 152480,
       "Completed": 1161
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 152886,
+      "Progressed": 152897,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-17T21:00:11.1521649+00:00",
-  "LastChanged_Achievements": "2023-10-18T00:05:22.2938309+00:00",
+  "LastChanged_Achievements": "2023-10-18T01:48:59.2531992+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:33.8479674+00:00",
-  "LastUpdate_Ratings": "2023-10-18T00:01:18.2900141+00:00",
-  "LastUpdate_Achievements": "2023-10-18T00:05:22.2939335+00:00"
+  "LastUpdate_Ratings": "2023-10-18T01:46:09.2155175+00:00",
+  "LastUpdate_Achievements": "2023-10-18T01:48:59.2533038+00:00"
 }

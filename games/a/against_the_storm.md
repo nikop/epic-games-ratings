@@ -47,7 +47,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Efficient Explorer | 1.00% | ~170 |
 | Prestigious Expedition | 1.00% | ~170 |
 | Blood Flower Farmer | 1.00% | ~170 |
-| Lizard Utopia | 0.80% | ~136 |
+| Lizard Utopia | 0.90% | ~153 |
 | Beaver Utopia | 0.70% | ~119 |
 | Human Utopia | 0.70% | ~119 |
 | The Queen's Chosen | 0.60% | ~102 |

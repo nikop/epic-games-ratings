@@ -7,14 +7,14 @@
 | Historian | 94.00% | ~211 |
 | Treasure hunter | 91.00% | ~204 |
 | Survivalist | 83.00% | ~186 |
-| Challenge seeker | 79.00% | ~177 |
-| Coin collector | 74.00% | ~166 |
+| Challenge seeker | 80.00% | ~179 |
+| Coin collector | 75.00% | ~168 |
 | Floater | 59.00% | ~132 |
 | Speedrunner | 45.00% | ~101 |
 | On foot racer | 42.00% | ~94 |
 | Prickly situation handler | 35.00% | ~78 |
 | Hat lover | 33.00% | ~74 |
-| Perfectionist | 31.00% | ~69 |
+| Perfectionist | 32.00% | ~72 |
 | Protected | 30.00% | ~67 |
 | Pragmatic | 22.00% | ~49 |
 | Calory burner | 19.00% | ~43 |

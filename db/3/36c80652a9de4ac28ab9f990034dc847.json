@@ -2,9 +2,9 @@
   "ID": "36c80652a9de4ac28ab9f990034dc847",
   "Name": "Death Crown",
   "ProductSlug": "death-crown-b2f5cd",
-  "Ranking_EOS_Progress": 545,
+  "Ranking_EOS_Progress": 544,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-08-22T23:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 6,
+  "EOS_Progressed": 7,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -54,6 +54,11 @@
       "Time": "2023-10-17T21:03:46.3446755+00:00",
       "NumProgressed": 6,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-18T01:48:09.2886987+00:00",
+      "NumProgressed": 7,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-23T22:02:05.0482707+00:00",
@@ -64,7 +69,7 @@
       "ID": "All_Bosses",
       "SetID": "cla1dpp",
       "Name": "Till death tear us apart!",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -72,7 +77,7 @@
       "ID": "All_Human_Missions",
       "SetID": "cla1dpp",
       "Name": "The Era of Human has began.",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -88,7 +93,7 @@
       "ID": "Boss_Blacksmith",
       "SetID": "cla1dpp",
       "Name": "No, this is not a stack of coins!",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -96,7 +101,7 @@
       "ID": "Boss_Cita",
       "SetID": "cla1dpp",
       "Name": "Deadlord is Already Dead.",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -104,7 +109,7 @@
       "ID": "Boss_Cube",
       "SetID": "cla1dpp",
       "Name": "I hate geometry so much!",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -120,7 +125,7 @@
       "ID": "Boss_Pyramid",
       "SetID": "cla1dpp",
       "Name": "We\u0027ll build a new one!",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -128,7 +133,7 @@
       "ID": "Boss_Sphere",
       "SetID": "cla1dpp",
       "Name": "Roll out of here!",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -136,7 +141,7 @@
       "ID": "Boss_Tower",
       "SetID": "cla1dpp",
       "Name": "My tower is bigger than yours.",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -144,7 +149,7 @@
       "ID": "Boss_Tree",
       "SetID": "cla1dpp",
       "Name": "This lawn is watching me.",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -152,7 +157,7 @@
       "ID": "Boss_Worm",
       "SetID": "cla1dpp",
       "Name": "He who controls the Black Crystals controls the universe.",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -160,7 +165,7 @@
       "ID": "Full_Upgrade_Cita",
       "SetID": "cla1dpp",
       "Name": "Anything for my princess!",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -168,7 +173,7 @@
       "ID": "No_Lose_All_Human_Missions",
       "SetID": "cla1dpp",
       "Name": "Deny Death.",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -176,9 +181,9 @@
       "ID": "Pass_Tutorial",
       "SetID": "cla1dpp",
       "Name": "First time here?",
-      "Percentage": 33,
+      "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "PvP_Mission",
@@ -216,7 +221,7 @@
       "ID": "Up_Barraks",
       "SetID": "cla1dpp",
       "Name": "Where did so many skeletons come from in this grave?",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -224,7 +229,7 @@
       "ID": "Up_Farm",
       "SetID": "cla1dpp",
       "Name": "We need to go deeper!",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -232,7 +237,7 @@
       "ID": "Up_Tower",
       "SetID": "cla1dpp",
       "Name": "Prepare Uranus!",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 25,
       "UsersEstimate": 1
     }
@@ -241,13 +246,13 @@
     {
       "ID": "cla1dpp",
       "IsBase": true,
-      "Progressed": 6,
+      "Progressed": 7,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-23T14:02:21.3308024+00:00",
-  "LastChanged_Achievements": "2023-10-18T00:04:31.400264+00:00",
+  "LastChanged_Achievements": "2023-10-18T01:48:09.288698+00:00",
   "LastUpdate_AppInfo": "2023-10-11T16:57:29.8841585+00:00",
-  "LastUpdate_Ratings": "2023-10-17T23:59:25.4591134+00:00",
-  "LastUpdate_Achievements": "2023-10-18T00:04:31.4002806+00:00"
+  "LastUpdate_Ratings": "2023-10-18T01:42:42.9159253+00:00",
+  "LastUpdate_Achievements": "2023-10-18T01:48:09.2887134+00:00"
 }

@@ -22,14 +22,14 @@
 | Asari Ally | 52.00% | ~380 |
 | Principled | 52.00% | ~380 |
 | Medal of Exploration III | 51.00% | ~373 |
-| Soldier Ally | 49.00% | ~358 |
+| Soldier Ally | 50.00% | ~366 |
 | Colonial Savior | 49.00% | ~358 |
 | Paramour I | 48.00% | ~351 |
 | Scientist | 47.00% | ~344 |
 | Merciless | 46.00% | ~336 |
 | Krogan Ally | 45.00% | ~329 |
+| Sentinel Ally | 44.00% | ~322 |
 | Very Elusive | 44.00% | ~322 |
-| Sentinel Ally | 43.00% | ~314 |
 | Missing in Action | 43.00% | ~314 |
 | Head Hunter | 43.00% | ~314 |
 | Scholar | 42.00% | ~307 |
@@ -92,10 +92,10 @@
 | No One Left Behind | 20.00% | ~146 |
 | Hard Target | 20.00% | ~146 |
 | Problem Solver | 20.00% | ~146 |
+| Under Pressure | 19.00% | ~139 |
 | Saboteur | 19.00% | ~139 |
 | Last Witness | 19.00% | ~139 |
 | Fact Finder | 19.00% | ~139 |
-| Under Pressure | 18.00% | ~132 |
 | Last Resort | 18.00% | ~132 |
 | Electronics Specialist | 18.00% | ~132 |
 | Sabotage Specialist | 18.00% | ~132 |

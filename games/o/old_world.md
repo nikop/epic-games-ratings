@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 304)  
+Rating: 4.65 (Ranked 305)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -83,6 +83,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Power to the People | 0.70% | ~103 |
 | Points Victory | 0.70% | ~103 |
 | Invincible | 0.60% | ~89 |
+| Subjugator | 0.60% | ~89 |
 | Patrons | 0.60% | ~89 |
 | Riders | 0.60% | ~89 |
 | Circus Maximus | 0.60% | ~89 |
@@ -94,7 +95,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Redemption | 0.60% | ~89 |
 | Legionary | 0.60% | ~89 |
 | Double Victory | 0.60% | ~89 |
-| Subjugator | 0.50% | ~74 |
 | Hunters | 0.50% | ~74 |
 | Landowners | 0.50% | ~74 |
 | Statesmen | 0.50% | ~74 |

@@ -4,7 +4,7 @@
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -19,7 +19,7 @@
   "Tags": [],
   "EOS_Progressed": 404,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.98,
   "EosHistory": [
@@ -1304,9 +1304,9 @@
       "ID": "achievement_13",
       "SetID": "7ldgi7j",
       "Name": "Competitor\u0027s Spirit",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 174
     },
     {
       "ID": "achievement_14",
@@ -1422,8 +1422,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-10-18T00:04:37.8233044+00:00",
+  "LastChanged_Achievements": "2023-10-18T01:48:15.6039507+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:08.0015832+00:00",
-  "LastUpdate_Ratings": "2023-10-18T00:00:08.2008597+00:00",
-  "LastUpdate_Achievements": "2023-10-18T00:04:37.8233258+00:00"
+  "LastUpdate_Ratings": "2023-10-18T01:43:21.5175899+00:00",
+  "LastUpdate_Achievements": "2023-10-18T01:48:15.6039732+00:00"
 }

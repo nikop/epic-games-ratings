@@ -2,7 +2,7 @@
   "ID": "07f4a7dd3c884e5d87e9a209716962ca",
   "Name": "Old World",
   "ProductSlug": "old-world",
-  "Ranking_Rating": 304,
+  "Ranking_Rating": 305,
   "Ranking_Popularity": 267,
   "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 135,
@@ -1883,7 +1883,7 @@
   ],
   "EOS_Progressed": 14775,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 188,
+  "EOS_NewPlayers": 187,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14775,9 +14775,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_SUBJUGATOR",
       "SetID": "9201eeb",
       "Name": "Subjugator",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 89
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_VALIANT",
@@ -16885,8 +16885,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-17T23:58:04.3729179+00:00",
-  "LastChanged_Achievements": "2023-10-18T00:09:21.2046806+00:00",
+  "LastChanged_Achievements": "2023-10-18T01:52:43.2698895+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:21.7880328+00:00",
-  "LastUpdate_Ratings": "2023-10-17T23:58:04.3729185+00:00",
-  "LastUpdate_Achievements": "2023-10-18T00:09:21.206037+00:00"
+  "LastUpdate_Ratings": "2023-10-18T01:41:26.5634461+00:00",
+  "LastUpdate_Achievements": "2023-10-18T01:52:43.2710122+00:00"
 }
