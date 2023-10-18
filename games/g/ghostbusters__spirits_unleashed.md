@@ -44,8 +44,8 @@ Rating: 4.50 (Ranked 575)
 | Rivalry | 0.50% | ~133 |
 | Tobin's Prodigy | 0.50% | ~133 |
 | Fragile Panes | 0.40% | ~106 |
+| Surprise! | 0.40% | ~106 |
 | Liability | 0.30% | ~80 |
-| Surprise! | 0.30% | ~80 |
 | Master Collector | 0.20% | ~53 |
 | Rift Seeker | 0.20% | ~53 |
 | Therapeutic | 0.20% | ~53 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 575)
 | Mycophile | 0.10% | ~27 |
 | Ultimate Defense | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,572 (Ranked 117)  
+Progressed: 26,574 (Ranked 117)  
 Completed: 59 (0.22%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,10 +238,10 @@ Completed: 59 (0.22%) (Ranked 220)
 | 2023-10-15 | 26,505 | 58 |
 | 2023-10-16 | 26,537 | 58 |
 | 2023-10-17 | 26,559 | 58 |
-| 2023-10-18 | 26,572 | 59 |
+| 2023-10-18 | 26,574 | 59 |
 ## Awards
 Max (Great for Quick Sessions): 264  (Ranked 257)  
-Sum: 2,402 (Ranked 189)  
+Sum: 2,403 (Ranked 189)  
 Diff (max vs sum): 68  
 | Award | Count |
 | ----- | ----- |
@@ -253,7 +253,7 @@ Diff (max vs sum): 68
 | This game is Relaxing | 236 |
 | This game has Diverse Characters | 235 |
 | This game is Highly Recommended | 235 |
-| This game has Amazing Characters | 224 |
+| This game has Amazing Characters | 225 |
 | This game has Quickly Understood Controls | 223 |
 | This game has Playful Visuals | 94 |
 | This game has Obsessive Gameplay | 32 |
@@ -444,4 +444,4 @@ Diff (max vs sum): 68
 | 2023-10-15 | 4.50 | 262 | 2,392 |
 | 2023-10-16 | 4.50 | 264 | 2,398 |
 | 2023-10-17 | 4.50 | 264 | 2,400 |
-| 2023-10-18 | 4.50 | 264 | 2,402 |
+| 2023-10-18 | 4.50 | 264 | 2,403 |

@@ -279,9 +279,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 744112,
+  "EOS_Progressed": 744118,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 2031,
+  "EOS_NewPlayers": 2019,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20859,6 +20859,11 @@
       "Time": "2023-10-18T15:04:32.6320928+00:00",
       "NumProgressed": 744112,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-18T16:05:30.8265301+00:00",
+      "NumProgressed": 744118,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 27,
@@ -20934,7 +20939,7 @@
       "Name": "Well educated",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 275321
+      "UsersEstimate": 275324
     },
     {
       "ID": "ach_demolish_trees",
@@ -20942,7 +20947,7 @@
       "Name": "Deforester",
       "Percentage": 17,
       "XP": 35,
-      "UsersEstimate": 126499
+      "UsersEstimate": 126500
     },
     {
       "ID": "ach_free_cam_mode",
@@ -20974,7 +20979,7 @@
       "Name": "I would drive 500 tiles...",
       "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 89293
+      "UsersEstimate": 89294
     },
     {
       "ID": "ach_place_all_buildngs",
@@ -20998,7 +21003,7 @@
       "Name": "Entrepreneur",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 357174
+      "UsersEstimate": 357177
     },
     {
       "ID": "ach_produced",
@@ -21014,7 +21019,7 @@
       "Name": "Big Hauling",
       "Percentage": 16,
       "XP": 35,
-      "UsersEstimate": 119058
+      "UsersEstimate": 119059
     },
     {
       "ID": "ach_raise_money",
@@ -21030,7 +21035,7 @@
       "Name": "Salesman",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 22323
+      "UsersEstimate": 22324
     },
     {
       "ID": "ach_sell_to_state",
@@ -21070,7 +21075,7 @@
       "Name": "Landscaper",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 89293
+      "UsersEstimate": 89294
     },
     {
       "ID": "ach_warehouse_clients",
@@ -21078,14 +21083,14 @@
       "Name": "City Planner",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 141381
+      "UsersEstimate": 141382
     }
   ],
   "AchievementSets": [
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 744112,
+      "Progressed": 744118,
       "Completed": 4
     }
   ],
@@ -21093,8 +21098,8 @@
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
   "LastChanged": "2023-10-02T11:00:31.1907722+00:00",
-  "LastChanged_Achievements": "2023-10-18T15:04:32.632091+00:00",
+  "LastChanged_Achievements": "2023-10-18T16:05:30.8265294+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:20.277946+00:00",
-  "LastUpdate_Ratings": "2023-10-18T14:58:41.7196545+00:00",
-  "LastUpdate_Achievements": "2023-10-18T15:04:32.6322213+00:00"
+  "LastUpdate_Ratings": "2023-10-18T15:59:20.4559016+00:00",
+  "LastUpdate_Achievements": "2023-10-18T16:05:30.8266919+00:00"
 }

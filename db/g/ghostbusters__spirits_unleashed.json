@@ -2386,10 +2386,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2402,
       "NumberOfAwardsMax": 264
+    },
+    {
+      "Time": "2023-10-18T16:00:11.549076+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2403,
+      "NumberOfAwardsMax": 264
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2402,
+  "NumberOfAwards": 2403,
   "NumberOfAwardsMax": 264,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2409,7 +2415,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 224
+      "Count": 225
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -2466,9 +2472,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26572,
+  "EOS_Progressed": 26574,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 235,
+  "EOS_NewPlayers": 234,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -15291,6 +15297,11 @@
       "Time": "2023-10-18T14:04:31.8217012+00:00",
       "NumProgressed": 26572,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-10-18T16:04:19.6758244+00:00",
+      "NumProgressed": 26574,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 51,
@@ -15620,9 +15631,9 @@
       "ID": "Surprise",
       "SetID": "819popo",
       "Name": "Surprise!",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 106
     },
     {
       "ID": "Swift_Removers",
@@ -15709,16 +15720,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26572,
+      "Progressed": 26574,
       "Completed": 59
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-10-18T13:05:41.9683713+00:00",
-  "LastChanged_Achievements": "2023-10-18T15:03:34.6889918+00:00",
+  "LastChanged": "2023-10-18T16:00:11.5490759+00:00",
+  "LastChanged_Achievements": "2023-10-18T16:04:19.6758237+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:17.9420656+00:00",
-  "LastUpdate_Ratings": "2023-10-18T14:59:20.1505294+00:00",
-  "LastUpdate_Achievements": "2023-10-18T15:03:34.689118+00:00"
+  "LastUpdate_Ratings": "2023-10-18T16:00:11.5490765+00:00",
+  "LastUpdate_Achievements": "2023-10-18T16:04:19.6760018+00:00"
 }

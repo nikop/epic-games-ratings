@@ -6,22 +6,22 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,348 |
-| Until death do us apart | 4.00% | ~17,348 |
-| Victorious! | 4.00% | ~17,348 |
-| That is mine! | 3.00% | ~13,011 |
-| Brothers in Arms | 2.00% | ~8,674 |
-| Cold War | 2.00% | ~8,674 |
-| For the Glory | 2.00% | ~8,674 |
-| That's a Grand Navy | 2.00% | ~8,674 |
-| Seriously?! | 2.00% | ~8,674 |
+| That's a Grand Army | 4.00% | ~17,350 |
+| Until death do us apart | 4.00% | ~17,350 |
+| Victorious! | 4.00% | ~17,350 |
+| That is mine! | 3.00% | ~13,012 |
+| Brothers in Arms | 2.00% | ~8,675 |
+| Cold War | 2.00% | ~8,675 |
+| For the Glory | 2.00% | ~8,675 |
+| That's a Grand Navy | 2.00% | ~8,675 |
+| Seriously?! | 2.00% | ~8,675 |
 | Defender of the Faith | 1.00% | ~4,337 |
 | It's all about the money | 1.00% | ~4,337 |
 | Respected | 1.00% | ~4,337 |
 | The Princess is in this Castle | 1.00% | ~4,337 |
 | True Catholic | 1.00% | ~4,337 |
 | Truly Divine Ruler | 1.00% | ~4,337 |
-| It's all about luck | 0.90% | ~3,903 |
+| It's all about luck | 0.90% | ~3,904 |
 | Blockader | 0.80% | ~3,470 |
 | Double the Love | 0.80% | ~3,470 |
 | Royal Authority | 0.80% | ~3,470 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 433,702 (Ranked 40)  
+Progressed: 433,746 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -542,10 +542,10 @@ Completed: 1 (0.00%) (Ranked 316)
 | 2023-10-15 | 432,104 | 1 |
 | 2023-10-16 | 432,768 | 1 |
 | 2023-10-17 | 433,352 | 1 |
-| 2023-10-18 | 433,702 | 1 |
+| 2023-10-18 | 433,746 | 1 |
 ## Awards
 Max (Educational): 6,571  (Ranked 55)  
-Sum: 54,055 (Ranked 24)  
+Sum: 54,060 (Ranked 24)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
@@ -557,7 +557,7 @@ Diff (max vs sum): 31
 | This game is Relaxing | 6,050 |
 | This game has Competitive Players | 5,908 |
 | This game has Amazing Storytelling | 5,508 |
-| This game has Amazing Characters | 5,086 |
+| This game has Amazing Characters | 5,091 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -836,4 +836,4 @@ Diff (max vs sum): 31
 | 2023-10-15 | 4.69 | - | 6,551 | 53,801 |
 | 2023-10-16 | 4.69 | - | 6,561 | 53,895 |
 | 2023-10-17 | 4.69 | - | 6,571 | 53,991 |
-| 2023-10-18 | 4.69 | - | 6,571 | 54,055 |
+| 2023-10-18 | 4.69 | - | 6,571 | 54,060 |

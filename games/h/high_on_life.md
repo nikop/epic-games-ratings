@@ -20,14 +20,14 @@ Rating: 4.64 (Ranked 324)
 | Who's The Boss? | 0.90% | ~218 |
 | Self-Actualization | 0.80% | ~194 |
 | Spent 15 Hours At The Alien Strip Club | 0.80% | ~194 |
+| Bathe With A Giant Nude Alien | 0.80% | ~12 |
 | Lezduit! | 0.70% | ~170 |
 | Legendary Bounty Hunter | 0.70% | ~170 |
 | Fallout Doesn't Let You Do This | 0.70% | ~170 |
 | Series Wrap on Suit-O | 0.70% | ~170 |
-| Bathe With A Giant Nude Alien | 0.70% | ~11 |
+| We Came, We Chainsaw, We Conquered | 0.60% | ~9 |
 | Eatin' Good in the Neighborhood | 0.50% | ~121 |
 | Eye Scream, You Scream | 0.50% | ~121 |
-| We Came, We Chainsaw, We Conquered | 0.50% | ~8 |
 | Mux Ado About Shipping | 0.40% | ~6 |
 | Gunning For Your Job | 0.30% | ~73 |
 | Playing Favorites | 0.30% | ~73 |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 324)
 | It's Like The Santa Clause | 0.10% | ~2 |
 | That's B.A.L.L., Folks | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,249 (Ranked 121)  
+Progressed: 24,250 (Ranked 121)  
 Completed: 13 (0.05%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 13 (0.05%) (Ranked 275)
 | 2023-10-15 | 24,232 | 13 |
 | 2023-10-16 | 24,237 | 13 |
 | 2023-10-17 | 24,246 | 13 |
-| 2023-10-18 | 24,249 | 13 |
+| 2023-10-18 | 24,250 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

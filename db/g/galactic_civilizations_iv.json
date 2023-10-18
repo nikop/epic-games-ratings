@@ -912,9 +912,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 6856,
+  "EOS_Progressed": 6857,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7097,6 +7097,11 @@
       "Time": "2023-10-18T15:05:08.2476342+00:00",
       "NumProgressed": 6856,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-18T16:06:14.5158035+00:00",
+      "NumProgressed": 6857,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -7220,7 +7225,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 5005
+      "UsersEstimate": 5006
     },
     {
       "ID": "First_Ship_Designed",
@@ -7428,7 +7433,7 @@
       "Name": "Unleash My Power",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4182
+      "UsersEstimate": 4183
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -7596,7 +7601,7 @@
       "Name": "Win a Battle",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 4525
+      "UsersEstimate": 4526
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -7604,7 +7609,7 @@
       "Name": "Fleet Victory",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "Win_Conquest",
@@ -7683,15 +7688,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6856,
+      "Progressed": 6857,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-10-18T15:05:08.2476331+00:00",
+  "LastChanged_Achievements": "2023-10-18T16:06:14.5158029+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:21.0832103+00:00",
-  "LastUpdate_Ratings": "2023-10-18T14:58:00.4638578+00:00",
-  "LastUpdate_Achievements": "2023-10-18T15:05:08.2477488+00:00"
+  "LastUpdate_Ratings": "2023-10-18T15:58:32.116548+00:00",
+  "LastUpdate_Achievements": "2023-10-18T16:06:14.5159275+00:00"
 }

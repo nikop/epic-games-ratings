@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11814,
+  "EOS_Progressed": 11827,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2525,
+  "EOS_NewPlayers": 2522,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3341,6 +3341,11 @@
       "Time": "2023-10-18T15:08:35.5655128+00:00",
       "NumProgressed": 11814,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-18T16:09:46.5205671+00:00",
+      "NumProgressed": 11827,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -3353,7 +3358,7 @@
       "Name": "The Galaxy\u0027s Finest (Story Mode)",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 1772
+      "UsersEstimate": 1774
     },
     {
       "ID": "achievement_10",
@@ -3401,7 +3406,7 @@
       "Name": "Begin the Ceremony",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 2363
+      "UsersEstimate": 2365
     },
     {
       "ID": "achievement_16",
@@ -3433,7 +3438,7 @@
       "Name": "Stronger Together",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "achievement_2",
@@ -3441,7 +3446,7 @@
       "Name": "The Galaxy\u0027s Finest (Pilot)",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 827
+      "UsersEstimate": 828
     },
     {
       "ID": "achievement_20",
@@ -3449,7 +3454,7 @@
       "Name": "Stun \u0027Em",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "achievement_21",
@@ -3457,7 +3462,7 @@
       "Name": "Sound Strategy",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "achievement_22",
@@ -3497,7 +3502,7 @@
       "Name": "Squadron Hunter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "achievement_27",
@@ -3505,7 +3510,7 @@
       "Name": "Unkillable",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "achievement_28",
@@ -3561,7 +3566,7 @@
       "Name": "Mission Accomplished",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 2363
+      "UsersEstimate": 2365
     },
     {
       "ID": "achievement_34",
@@ -3577,7 +3582,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 11223
+      "UsersEstimate": 11236
     },
     {
       "ID": "achievement_36",
@@ -3585,7 +3590,7 @@
       "Name": "Together, Vanguard",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 827
+      "UsersEstimate": 828
     },
     {
       "ID": "achievement_37",
@@ -3593,7 +3598,7 @@
       "Name": "Asset Secured",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1536
+      "UsersEstimate": 1538
     },
     {
       "ID": "achievement_38",
@@ -3609,7 +3614,7 @@
       "Name": "Safety in the Storm",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 2835
+      "UsersEstimate": 2838
     },
     {
       "ID": "achievement_4",
@@ -3649,7 +3654,7 @@
       "Name": "Punch It",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "achievement_44",
@@ -3657,7 +3662,7 @@
       "Name": "Combat Pilot",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "achievement_45",
@@ -3689,7 +3694,7 @@
       "Name": "Dressed for the Job You Want",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "achievement_6",
@@ -3697,7 +3702,7 @@
       "Name": "A Starfighter of Your Own",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1654
+      "UsersEstimate": 1656
     },
     {
       "ID": "achievement_7",
@@ -3711,9 +3716,9 @@
       "ID": "achievement_8",
       "SetID": "8ghcoph",
       "Name": "A Better Idea",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 2835
+      "UsersEstimate": 2957
     },
     {
       "ID": "achievement_9",
@@ -3728,7 +3733,7 @@
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 11814,
+      "Progressed": 11827,
       "Completed": 1
     }
   ],
@@ -3736,8 +3741,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2023-10-18T15:08:35.5655117+00:00",
+  "LastChanged_Achievements": "2023-10-18T16:09:46.5205664+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:10.1416155+00:00",
-  "LastUpdate_Ratings": "2023-10-18T14:59:01.8461284+00:00",
-  "LastUpdate_Achievements": "2023-10-18T15:08:35.565578+00:00"
+  "LastUpdate_Ratings": "2023-10-18T15:59:45.8340334+00:00",
+  "LastUpdate_Achievements": "2023-10-18T16:09:46.5206339+00:00"
 }

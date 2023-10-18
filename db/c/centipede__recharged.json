@@ -302,9 +302,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17896,
+  "EOS_Progressed": 17897,
   "EOS_Completed": 112,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -14092,6 +14092,11 @@
       "Time": "2023-10-18T15:04:38.0012629+00:00",
       "NumProgressed": 17896,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2023-10-18T16:05:37.0773516+00:00",
+      "NumProgressed": 17897,
+      "NumCompleted": 112
     }
   ],
   "TotalAchievements": 16,
@@ -14119,7 +14124,7 @@
       "Name": "Deadline",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 2505
+      "UsersEstimate": 2506
     },
     {
       "ID": "Dont_Fear_The_Reaper",
@@ -14135,7 +14140,7 @@
       "Name": "Eyes On Fire",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 2326
+      "UsersEstimate": 2327
     },
     {
       "ID": "Feel_The_Thunder",
@@ -14175,7 +14180,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 7516
+      "UsersEstimate": 7517
     },
     {
       "ID": "Mirrors",
@@ -14230,15 +14235,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 17896,
+      "Progressed": 17897,
       "Completed": 112
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-07-21T02:04:12.2963456+00:00",
-  "LastChanged_Achievements": "2023-10-18T15:04:38.001262+00:00",
+  "LastChanged_Achievements": "2023-10-18T16:05:37.0773509+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:27.7450235+00:00",
-  "LastUpdate_Ratings": "2023-10-18T14:58:47.5501437+00:00",
-  "LastUpdate_Achievements": "2023-10-18T15:04:38.0013487+00:00"
+  "LastUpdate_Ratings": "2023-10-18T15:59:28.0213234+00:00",
+  "LastUpdate_Achievements": "2023-10-18T16:05:37.0775094+00:00"
 }

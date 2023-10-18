@@ -1436,9 +1436,9 @@
       "ID": "END_BAD",
       "SetID": "2gma9an",
       "Name": "I did it",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 21
+      "UsersEstimate": 24
     },
     {
       "ID": "END_GOOD",
@@ -1484,17 +1484,17 @@
       "ID": "META_RESULT_1-2",
       "SetID": "2gma9an",
       "Name": "Open door",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 18
     },
     {
       "ID": "META_RESULT_1-3",
       "SetID": "2gma9an",
       "Name": "Free at last",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 15
     },
     {
       "ID": "META_RESULT_1-4",
@@ -1643,8 +1643,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-18T15:04:49.0379102+00:00",
+  "LastChanged_Achievements": "2023-10-18T16:05:51.1667463+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:19.4856723+00:00",
-  "LastUpdate_Ratings": "2023-10-18T14:58:38.012837+00:00",
-  "LastUpdate_Achievements": "2023-10-18T15:04:49.0379413+00:00"
+  "LastUpdate_Ratings": "2023-10-18T15:59:15.5082075+00:00",
+  "LastUpdate_Achievements": "2023-10-18T16:05:51.1667795+00:00"
 }

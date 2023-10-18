@@ -4,7 +4,7 @@
   "ProductSlug": "mokoko-x-e2b09d",
   "Ranking_EOS_Progress": 407,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewPlayers": 396,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-05-26T18:00:00+00:00",
@@ -416,9 +416,9 @@
       "ID": "BEYOND_TIME",
       "SetID": "50pdlpn",
       "Name": "Beyond Time",
-      "Percentage": 63,
+      "Percentage": 65,
       "XP": 40,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "BLIND_DATE",
@@ -448,9 +448,9 @@
       "ID": "CONQUEROR",
       "SetID": "50pdlpn",
       "Name": "Conqueror",
-      "Percentage": 63,
+      "Percentage": 65,
       "XP": 40,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ENEMY_0",
@@ -464,9 +464,9 @@
       "ID": "ENEMY_1",
       "SetID": "50pdlpn",
       "Name": "Norman the Useless Gyroscope",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ENEMY_10",
@@ -552,9 +552,9 @@
       "ID": "ENEMY_2",
       "SetID": "50pdlpn",
       "Name": "Vanunu the Heartless but not Soulless Emperor",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ENEMY_20",
@@ -991,8 +991,8 @@
   ],
   "FirstSeen": "2023-07-03T16:57:31.1356684+00:00",
   "FirstSeenAchievements": "2023-05-08T09:03:21.3999065+00:00",
-  "LastChanged_Achievements": "2023-10-18T15:04:26.0428044+00:00",
+  "LastChanged_Achievements": "2023-10-18T16:05:22.48549+00:00",
   "LastUpdate_AppInfo": "2023-10-16T20:57:08.7970176+00:00",
-  "LastUpdate_Ratings": "2023-10-18T14:57:05.8621855+00:00",
-  "LastUpdate_Achievements": "2023-10-18T15:04:26.0428814+00:00"
+  "LastUpdate_Ratings": "2023-10-18T15:57:22.1417886+00:00",
+  "LastUpdate_Achievements": "2023-10-18T16:05:22.4855757+00:00"
 }

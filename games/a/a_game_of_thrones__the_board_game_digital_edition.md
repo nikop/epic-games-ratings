@@ -6,22 +6,22 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~10,536 |
-| Battering Crew | 20.00% | ~5,268 |
-| The Kingsroad | 18.00% | ~4,741 |
+| Conqueror | 40.00% | ~10,538 |
+| Battering Crew | 20.00% | ~5,269 |
+| The Kingsroad | 18.00% | ~4,742 |
 | Well Stocked | 14.00% | ~3,688 |
-| Royal Fleet | 13.00% | ~3,424 |
+| Royal Fleet | 13.00% | ~3,425 |
 | The Kraken’s Grasp | 9.00% | ~2,371 |
-| Daggers in the Dark | 8.00% | ~2,107 |
-| Alliance | 8.00% | ~2,107 |
-| A Long Journey | 8.00% | ~2,107 |
+| Daggers in the Dark | 8.00% | ~2,108 |
+| Alliance | 8.00% | ~2,108 |
+| A Long Journey | 8.00% | ~2,108 |
 | Ours is the Fury | 7.00% | ~1,844 |
 | Winter is Coming | 7.00% | ~1,844 |
 | Oathkeeper | 7.00% | ~1,844 |
 | Influential | 7.00% | ~1,844 |
-| We Do Not Sow | 6.00% | ~1,580 |
-| Hear me Roar! | 6.00% | ~1,580 |
-| Defender of the Wall | 6.00% | ~1,580 |
+| We Do Not Sow | 6.00% | ~1,581 |
+| Hear me Roar! | 6.00% | ~1,581 |
+| Defender of the Wall | 6.00% | ~1,581 |
 | Unbowed, Unbent, Unbroken | 5.00% | ~1,317 |
 | Growing Strong | 5.00% | ~1,317 |
 | What is Dead may Never Die | 3.00% | ~790 |
@@ -29,7 +29,7 @@ Number of Ratings: 2,500  (23.09.2022)
 | King in the North | 2.00% | ~527 |
 | War of the Five Kings | 1.00% | ~263 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,340 (Ranked 118)  
+Progressed: 26,344 (Ranked 118)  
 Completed: 70 (0.27%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 70 (0.27%) (Ranked 212)
 | 2023-10-15 | 26,176 | 69 |
 | 2023-10-16 | 26,240 | 69 |
 | 2023-10-17 | 26,307 | 70 |
-| 2023-10-18 | 26,340 | 70 |
+| 2023-10-18 | 26,344 | 70 |
 ## Awards
 Max (Quickly Understood Controls): 123  (Ranked 323)  
 Sum: 786 (Ranked 272)  

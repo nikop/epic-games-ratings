@@ -4,11 +4,11 @@
   "ProductSlug": "filament-332a92",
   "Ranking_Rating": 792,
   "Ranking_Popularity": 197,
-  "Ranking_PopularitySum": 287,
+  "Ranking_PopularitySum": 288,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -273,9 +273,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 203635,
+  "EOS_Progressed": 203638,
   "EOS_Completed": 518,
-  "EOS_NewPlayers": 389,
+  "EOS_NewPlayers": 388,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -19778,6 +19778,11 @@
       "Time": "2023-10-18T15:03:42.6213555+00:00",
       "NumProgressed": 203635,
       "NumCompleted": 518
+    },
+    {
+      "Time": "2023-10-18T16:04:29.554642+00:00",
+      "NumProgressed": 203638,
+      "NumCompleted": 518
     }
   ],
   "TotalAchievements": 29,
@@ -19813,7 +19818,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 191417
+      "UsersEstimate": 191420
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -20020,7 +20025,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 203635,
+      "Progressed": 203638,
       "Completed": 518
     }
   ],
@@ -20028,8 +20033,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-10-17T16:00:20.099734+00:00",
-  "LastChanged_Achievements": "2023-10-18T15:03:42.6213549+00:00",
+  "LastChanged_Achievements": "2023-10-18T16:04:29.5546411+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:18.0641163+00:00",
-  "LastUpdate_Ratings": "2023-10-18T14:59:23.0257769+00:00",
-  "LastUpdate_Achievements": "2023-10-18T15:03:42.6214971+00:00"
+  "LastUpdate_Ratings": "2023-10-18T16:00:15.3659427+00:00",
+  "LastUpdate_Achievements": "2023-10-18T16:04:29.5547711+00:00"
 }

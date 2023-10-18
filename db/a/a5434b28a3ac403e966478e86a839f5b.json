@@ -4,7 +4,7 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 430,
+  "EOS_Progressed": 431,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -1177,6 +1177,11 @@
       "Time": "2023-10-18T13:11:37.2405878+00:00",
       "NumProgressed": 430,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-18T16:06:20.8374695+00:00",
+      "NumProgressed": 431,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -1187,9 +1192,9 @@
       "ID": "ACH_end",
       "SetID": "51of0eo",
       "Name": "Assassinate the Makron",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 120,
-      "UsersEstimate": 73
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_eou1",
@@ -1211,9 +1216,9 @@
       "ID": "ACH_eou3",
       "SetID": "51of0eo",
       "Name": "Destroy Security Grid",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 116
+      "UsersEstimate": 112
     },
     {
       "ID": "ACH_eou4",
@@ -1292,14 +1297,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 430,
+      "Progressed": 431,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-10-18T15:05:13.4640239+00:00",
+  "LastChanged_Achievements": "2023-10-18T16:06:20.8374689+00:00",
   "LastUpdate_AppInfo": "2023-10-12T22:57:11.8537053+00:00",
-  "LastUpdate_Ratings": "2023-10-18T14:59:50.1660245+00:00",
-  "LastUpdate_Achievements": "2023-10-18T15:05:13.4640434+00:00"
+  "LastUpdate_Ratings": "2023-10-18T16:00:48.131495+00:00",
+  "LastUpdate_Achievements": "2023-10-18T16:06:20.8374931+00:00"
 }

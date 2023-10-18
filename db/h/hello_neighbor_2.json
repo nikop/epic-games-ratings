@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -3770,9 +3770,9 @@
       "ID": "ACH_HIDDEN_SECRETS",
       "SetID": "4kfb9pd",
       "Name": "Hidden Secrets",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 80,
-      "UsersEstimate": 740
+      "UsersEstimate": 770
     },
     {
       "ID": "ACH_IMPRISONMENT",
@@ -3835,8 +3835,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-10-17T14:59:23.1608602+00:00",
-  "LastChanged_Achievements": "2023-10-18T15:05:48.3407402+00:00",
+  "LastChanged_Achievements": "2023-10-18T16:07:02.7400329+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:11.4944348+00:00",
-  "LastUpdate_Ratings": "2023-10-18T14:59:44.3044765+00:00",
-  "LastUpdate_Achievements": "2023-10-18T15:05:48.3407726+00:00"
+  "LastUpdate_Ratings": "2023-10-18T16:00:40.9545254+00:00",
+  "LastUpdate_Achievements": "2023-10-18T16:07:02.7400868+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "Fly Corp",
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 246,
-  "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_Completed": 242,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 799,
+  "EOS_Progressed": 800,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.13,
+  "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
     {
       "Time": "2023-06-13T17:01:33.4797695+00:00",
@@ -2991,6 +2991,11 @@
       "Time": "2023-10-17T21:04:34.0088259+00:00",
       "NumProgressed": 799,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-18T16:05:45.4833483+00:00",
+      "NumProgressed": 800,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -3018,7 +3023,7 @@
       "Name": "Basic Controls",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "BigPlane",
@@ -3337,14 +3342,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 799,
+      "Progressed": 800,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-10-18T15:04:44.8151949+00:00",
+  "LastChanged_Achievements": "2023-10-18T16:05:45.4833476+00:00",
   "LastUpdate_AppInfo": "2023-10-17T13:57:19.6755888+00:00",
-  "LastUpdate_Ratings": "2023-10-18T15:00:27.5452222+00:00",
-  "LastUpdate_Achievements": "2023-10-18T15:04:44.8152468+00:00"
+  "LastUpdate_Ratings": "2023-10-18T16:03:06.7015296+00:00",
+  "LastUpdate_Achievements": "2023-10-18T16:05:45.483477+00:00"
 }

@@ -28,9 +28,9 @@
 | Astral Seeker | 16.00% | ~9 |
 | The Corruption Goddess | 16.00% | ~9 |
 | The Goddes Avatar | 16.00% | ~9 |
-| Unbeatable | 14.00% | ~8 |
+| Unbeatable | 16.00% | ~9 |
+| Favored by the Cosmos | 12.00% | ~7 |
 | Wave Bender | 12.00% | ~7 |
-| Favored by the Cosmos | 10.00% | ~6 |
 | Lacertian Hero | 10.00% | ~6 |
 | Anomaly Control | 9.00% | ~5 |
 | Can't touch this | 9.00% | ~5 |
@@ -103,7 +103,7 @@
 | Virtuous Warrior | 0.00% | ~0 |
 | Apian Mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58 (Ranked 427)  
+Progressed: 58 (Ranked 428)  
 Completed: 0 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
