@@ -4,11 +4,11 @@
   "ProductSlug": "galactic-civilizations-iv",
   "Ranking_Rating": 909,
   "Ranking_Popularity": 359,
-  "Ranking_PopularitySum": 286,
+  "Ranking_PopularitySum": 287,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 315,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -7108,9 +7108,9 @@
       "ID": "Buy_Resource",
       "SetID": "4h07amh",
       "Name": "Commodity Trader",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2055
+      "UsersEstimate": 2124
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -7660,8 +7660,8 @@
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-10-17T23:04:53.9260116+00:00",
+  "LastChanged_Achievements": "2023-10-18T00:05:45.7257224+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:21.0832103+00:00",
-  "LastUpdate_Ratings": "2023-10-17T22:57:39.1322044+00:00",
-  "LastUpdate_Achievements": "2023-10-17T23:04:53.9261218+00:00"
+  "LastUpdate_Ratings": "2023-10-17T23:58:03.8414926+00:00",
+  "LastUpdate_Achievements": "2023-10-18T00:05:45.7258354+00:00"
 }

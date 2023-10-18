@@ -4,8 +4,8 @@
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
     "PcReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -17,11 +17,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 403,
+  "EOS_Progressed": 404,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.99,
+  "EOS_Completed_Percentage": 1.98,
   "EosHistory": [
     {
       "Time": "2023-09-18T22:08:11.9466887+00:00",
@@ -1257,6 +1257,11 @@
       "Time": "2023-10-17T20:03:52.5146909+00:00",
       "NumProgressed": 403,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-18T00:04:37.8233048+00:00",
+      "NumProgressed": 404,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -1293,7 +1298,7 @@
       "Name": "From Way Downtown",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "achievement_13",
@@ -1301,7 +1306,7 @@
       "Name": "Competitor\u0027s Spirit",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "achievement_14",
@@ -1333,7 +1338,7 @@
       "Name": "Clean Sheet",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "achievement_18",
@@ -1389,7 +1394,7 @@
       "Name": "Makin\u0027 the Cut",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "achievement_8",
@@ -1412,13 +1417,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 403,
+      "Progressed": 404,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-10-17T23:03:58.4108602+00:00",
+  "LastChanged_Achievements": "2023-10-18T00:04:37.8233044+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:08.0015832+00:00",
-  "LastUpdate_Ratings": "2023-10-17T22:59:16.0541517+00:00",
-  "LastUpdate_Achievements": "2023-10-17T23:03:58.41088+00:00"
+  "LastUpdate_Ratings": "2023-10-18T00:00:08.2008597+00:00",
+  "LastUpdate_Achievements": "2023-10-18T00:04:37.8233258+00:00"
 }

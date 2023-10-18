@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 362,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -838,9 +838,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 7054,
+  "EOS_Progressed": 7055,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -6143,6 +6143,11 @@
       "Time": "2023-10-17T21:08:20.7493694+00:00",
       "NumProgressed": 7054,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-18T00:03:32.1263358+00:00",
+      "NumProgressed": 7055,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 45,
@@ -6202,7 +6207,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 2539
+      "UsersEstimate": 2540
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -6266,7 +6271,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 2398
+      "UsersEstimate": 2399
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -6290,7 +6295,7 @@
       "Name": "I Have the High Ground",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "ISONZO_ACH_LUIGI_CADORNA",
@@ -6320,9 +6325,9 @@
       "ID": "ISONZO_ACH_MAMMA_MIA",
       "SetID": "akchbl3",
       "Name": "Mamma Mia!",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 2751
+      "UsersEstimate": 2681
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -6346,7 +6351,7 @@
       "Name": "Peak Performance",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3809
+      "UsersEstimate": 3810
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -6426,7 +6431,7 @@
       "Name": "The Devil\u0027s Paintbrush",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 846
+      "UsersEstimate": 847
     },
     {
       "ID": "ISONZO_ACH_THE_ENLIGHTMENT",
@@ -6513,7 +6518,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 7054,
+      "Progressed": 7055,
       "Completed": 9
     }
   ],
@@ -6521,8 +6526,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-09-23T14:01:09.047151+00:00",
-  "LastChanged_Achievements": "2023-10-17T22:09:31.1098276+00:00",
+  "LastChanged_Achievements": "2023-10-18T00:03:32.1263354+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:22.0219629+00:00",
-  "LastUpdate_Ratings": "2023-10-17T22:57:57.4581148+00:00",
-  "LastUpdate_Achievements": "2023-10-17T22:09:31.1098966+00:00"
+  "LastUpdate_Ratings": "2023-10-17T23:58:26.6893909+00:00",
+  "LastUpdate_Achievements": "2023-10-18T00:03:32.1264442+00:00"
 }

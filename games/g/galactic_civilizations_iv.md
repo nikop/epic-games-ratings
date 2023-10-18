@@ -15,7 +15,7 @@ Number of Ratings: 429  (23.09.2022)
 | Own 30 Planets | 34.00% | ~2,329 |
 | Xenocide | 32.00% | ~2,192 |
 | Design a Civilization | 32.00% | ~2,192 |
-| Commodity Trader | 30.00% | ~2,055 |
+| Commodity Trader | 31.00% | ~2,124 |
 | Design a Ship | 28.00% | ~1,918 |
 | Commodity Seller | 25.00% | ~1,712 |
 | Prestige Victory! | 14.00% | ~959 |
@@ -262,8 +262,8 @@ Completed: 0 (0.00%) (Ranked 315)
 | 2023-10-17 | 6,850 | 0 |
 ## Awards
 Max (Diverse Characters): 94  (Ranked 359)  
-Sum: 681 (Ranked 286)  
-Diff (max vs sum): 73  
+Sum: 681 (Ranked 287)  
+Diff (max vs sum): 72  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 94 |

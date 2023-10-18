@@ -5,37 +5,37 @@ Rating: 4.30 (Ranked 816)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level Up! | 88.00% | ~151 |
-| Bullseye! | 85.00% | ~146 |
+| Level Up! | 88.00% | ~152 |
+| Bullseye! | 85.00% | ~147 |
 | Graduation! | 80.00% | ~138 |
-| Villfir Forest | 77.00% | ~132 |
-| Right in the kisser! | 61.00% | ~105 |
-| The Thrower | 49.00% | ~84 |
-| Duscot Steamcity | 48.00% | ~83 |
-| The Shaman | 47.00% | ~81 |
-| The Penguin | 45.00% | ~77 |
+| Villfir Forest | 76.00% | ~131 |
+| Right in the kisser! | 61.00% | ~106 |
+| The Thrower | 49.00% | ~85 |
+| Duscot Steamcity | 47.00% | ~81 |
+| The Shaman | 46.00% | ~80 |
+| The Penguin | 45.00% | ~78 |
 | The Magician | 41.00% | ~71 |
 | The Tunneler | 39.00% | ~67 |
-| Level Up!! | 38.00% | ~65 |
+| Level Up!! | 38.00% | ~66 |
 | The Shield | 37.00% | ~64 |
-| Kill-streak | 30.00% | ~52 |
+| Kill-streak | 29.00% | ~50 |
 | Topped up | 28.00% | ~48 |
 | The Bird | 28.00% | ~48 |
-| The Ninja | 27.00% | ~46 |
+| The Ninja | 27.00% | ~47 |
 | The Idol | 26.00% | ~45 |
 | Inferno Ruins | 25.00% | ~43 |
 | I'm Rich | 23.00% | ~40 |
 | 1 is all I need | 22.00% | ~38 |
 | The Slime | 22.00% | ~38 |
-| Untouchable | 20.00% | ~34 |
+| Untouchable | 20.00% | ~35 |
 | The Giant | 18.00% | ~31 |
 | The Blacksmith | 17.00% | ~29 |
 | The Flower | 17.00% | ~29 |
 | Out of the Frying Pan... | 17.00% | ~29 |
 | Ember | 17.00% | ~29 |
 | The Ooze | 16.00% | ~28 |
-| The Assistant | 15.00% | ~26 |
-| Turquoise | 15.00% | ~26 |
+| The Assistant | 14.00% | ~24 |
+| Turquoise | 14.00% | ~24 |
 | The Steampunk | 13.00% | ~22 |
 | The Droid | 11.00% | ~19 |
 | Verse | 11.00% | ~19 |
@@ -79,7 +79,7 @@ Rating: 4.30 (Ranked 816)
 | Divinity | 0.60% | ~1 |
 | Zombie Exterminator | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 172 (Ranked 350)  
+Progressed: 173 (Ranked 349)  
 Completed: 1 (0.58%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,6 +165,7 @@ Completed: 1 (0.58%) (Ranked 167)
 | 2023-10-08 | 169 | 1 |
 | 2023-10-09 | 170 | 1 |
 | 2023-10-12 | 172 | 1 |
+| 2023-10-18 | 173 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

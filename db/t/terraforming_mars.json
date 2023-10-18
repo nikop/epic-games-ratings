@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
     "PcReleaseDate": "2018-10-16T00:00:00+00:00",
@@ -2908,9 +2908,9 @@
       "Count": 245
     }
   ],
-  "EOS_Progressed": 79377,
+  "EOS_Progressed": 79378,
   "EOS_Completed": 143,
-  "EOS_NewPlayers": 719,
+  "EOS_NewPlayers": 715,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -22878,6 +22878,11 @@
       "Time": "2023-10-17T23:05:04.9289026+00:00",
       "NumProgressed": 79377,
       "NumCompleted": 143
+    },
+    {
+      "Time": "2023-10-18T00:05:58.3706116+00:00",
+      "NumProgressed": 79378,
+      "NumCompleted": 143
     }
   ],
   "TotalAchievements": 30,
@@ -22929,7 +22934,7 @@
       "Name": "Landlord",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 8731
+      "UsersEstimate": 8732
     },
     {
       "ID": "ACHIEVEMENT_06",
@@ -22945,7 +22950,7 @@
       "Name": "Most Achievements",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 8731
+      "UsersEstimate": 8732
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -22969,7 +22974,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 29369
+      "UsersEstimate": 29370
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -23017,7 +23022,7 @@
       "Name": "Beagle 2",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 19050
+      "UsersEstimate": 19051
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -23128,15 +23133,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 79377,
+      "Progressed": 79378,
       "Completed": 143
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-10-16T22:03:30.2757292+00:00",
-  "LastChanged_Achievements": "2023-10-17T23:05:04.9289022+00:00",
+  "LastChanged_Achievements": "2023-10-18T00:05:58.3706112+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:27.1789239+00:00",
-  "LastUpdate_Ratings": "2023-10-17T22:59:57.1419513+00:00",
-  "LastUpdate_Achievements": "2023-10-17T23:05:04.9290608+00:00"
+  "LastUpdate_Ratings": "2023-10-18T00:00:59.8593432+00:00",
+  "LastUpdate_Achievements": "2023-10-18T00:05:58.3707587+00:00"
 }

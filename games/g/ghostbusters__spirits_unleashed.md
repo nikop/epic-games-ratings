@@ -30,18 +30,18 @@ Rating: 4.50 (Ranked 575)
 | Ghostbuster In Training | 0.90% | ~239 |
 | Summoner | 0.90% | ~239 |
 | Side Hustle | 0.80% | ~212 |
+| Skilled | 0.80% | ~212 |
 | Legions | 0.70% | ~186 |
-| Skilled | 0.70% | ~186 |
 | Stunner | 0.70% | ~186 |
 | We have the best insurance | 0.60% | ~159 |
 | Pesky Jerks | 0.60% | ~159 |
+| Seasoned | 0.60% | ~159 |
 | Collector | 0.50% | ~133 |
 | Diabolical | 0.50% | ~133 |
 | Escape Artist | 0.50% | ~133 |
 | Reckless | 0.50% | ~133 |
 | Rift Destroyer | 0.50% | ~133 |
 | Rivalry | 0.50% | ~133 |
-| Seasoned | 0.50% | ~133 |
 | Tobin's Prodigy | 0.50% | ~133 |
 | Fragile Panes | 0.40% | ~106 |
 | Liability | 0.30% | ~80 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 575)
 | Mycophile | 0.10% | ~27 |
 | Ultimate Defense | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,559 (Ranked 117)  
+Progressed: 26,562 (Ranked 117)  
 Completed: 58 (0.22%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,6 +238,7 @@ Completed: 58 (0.22%) (Ranked 219)
 | 2023-10-15 | 26,505 | 58 |
 | 2023-10-16 | 26,537 | 58 |
 | 2023-10-17 | 26,559 | 58 |
+| 2023-10-18 | 26,562 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 264  (Ranked 257)  
 Sum: 2,400 (Ranked 189)  

@@ -77,13 +77,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intercessor | 0.70% | ~103 |
 | Lion | 0.70% | ~103 |
 | Victorious | 0.70% | ~103 |
+| Good Difficulty | 0.70% | ~103 |
 | Mausoleum | 0.70% | ~103 |
 | Learn to Play 3 | 0.70% | ~103 |
 | Power to the People | 0.70% | ~103 |
 | Points Victory | 0.70% | ~103 |
 | Invincible | 0.60% | ~89 |
-| Good Difficulty | 0.60% | ~89 |
 | Patrons | 0.60% | ~89 |
+| Riders | 0.60% | ~89 |
 | Circus Maximus | 0.60% | ~89 |
 | Pantheon | 0.60% | ~89 |
 | Greece | 0.60% | ~89 |
@@ -96,7 +97,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Subjugator | 0.50% | ~74 |
 | Hunters | 0.50% | ~74 |
 | Landowners | 0.50% | ~74 |
-| Riders | 0.50% | ~74 |
 | Statesmen | 0.50% | ~74 |
 | Traders | 0.50% | ~74 |
 | Hittite Iron | 0.50% | ~74 |
@@ -532,7 +532,7 @@ Completed: 5 (0.03%) (Ranked 284)
 | 2023-10-17 | 14,775 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
-Sum: 1,842 (Ranked 210)  
+Sum: 1,844 (Ranked 210)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
@@ -540,10 +540,10 @@ Diff (max vs sum): 57
 | This game has Diverse Characters | 215 |
 | This game is Highly Recommended | 213 |
 | This game is Extremely Fun | 212 |
-| This game is Educational | 210 |
+| This game is Educational | 211 |
 | This game has Challenging Combat | 199 |
 | This game has Quickly Understood Controls | 192 |
-| This game has Amazing Characters | 191 |
+| This game has Amazing Characters | 192 |
 | This game has Amazing Storytelling | 186 |
 | This game has Obsessive Gameplay | 155 |
 | This game has a Creative Community | 101 |
@@ -697,3 +697,4 @@ Diff (max vs sum): 57
 | 2023-10-14 | 4.65 | - | 224 | 1,839 |
 | 2023-10-15 | 4.65 | - | 224 | 1,840 |
 | 2023-10-16 | 4.65 | - | 224 | 1,842 |
+| 2023-10-17 | 4.65 | - | 224 | 1,844 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 189,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2454,9 +2454,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26559,
+  "EOS_Progressed": 26562,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 229,
+  "EOS_NewPlayers": 232,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -15239,6 +15239,11 @@
       "Time": "2023-10-17T23:03:20.7475919+00:00",
       "NumProgressed": 26559,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-10-18T00:03:52.2506025+00:00",
+      "NumProgressed": 26562,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 51,
@@ -15512,9 +15517,9 @@
       "ID": "Seasoned",
       "SetID": "819popo",
       "Name": "Seasoned",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 133
+      "UsersEstimate": 159
     },
     {
       "ID": "Side_Hustle",
@@ -15528,9 +15533,9 @@
       "ID": "Skilled",
       "SetID": "819popo",
       "Name": "Skilled",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 212
     },
     {
       "ID": "Solo_Capture",
@@ -15657,7 +15662,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26559,
+      "Progressed": 26562,
       "Completed": 58
     }
   ],
@@ -15665,8 +15670,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-17T22:58:56.2174069+00:00",
-  "LastChanged_Achievements": "2023-10-17T23:03:20.7475914+00:00",
+  "LastChanged_Achievements": "2023-10-18T00:03:52.250602+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:17.9420656+00:00",
-  "LastUpdate_Ratings": "2023-10-17T22:58:56.2174075+00:00",
-  "LastUpdate_Achievements": "2023-10-17T23:03:20.7477165+00:00"
+  "LastUpdate_Ratings": "2023-10-17T23:59:43.0817885+00:00",
+  "LastUpdate_Achievements": "2023-10-18T00:03:52.2507317+00:00"
 }

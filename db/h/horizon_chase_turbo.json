@@ -2602,9 +2602,9 @@
       "Count": 83
     }
   ],
-  "EOS_Progressed": 1062452,
+  "EOS_Progressed": 1062461,
   "EOS_Completed": 457,
-  "EOS_NewPlayers": 3356,
+  "EOS_NewPlayers": 3341,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -23012,6 +23012,11 @@
       "Time": "2023-10-17T23:04:16.9119938+00:00",
       "NumProgressed": 1062452,
       "NumCompleted": 457
+    },
+    {
+      "Time": "2023-10-18T00:05:00.3902364+00:00",
+      "NumProgressed": 1062461,
+      "NumCompleted": 457
     }
   ],
   "TotalAchievements": 37,
@@ -23023,7 +23028,7 @@
       "Name": "Ghostbuster",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 350609
+      "UsersEstimate": 350612
     },
     {
       "ID": "CompleteAustralia",
@@ -23215,7 +23220,7 @@
       "Name": "Quickie",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 116870
+      "UsersEstimate": 116871
     },
     {
       "ID": "FirstRaceWorldTour",
@@ -23223,7 +23228,7 @@
       "Name": "The First of Many",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 956207
+      "UsersEstimate": 956215
     },
     {
       "ID": "GetLotsOfScore",
@@ -23255,7 +23260,7 @@
       "Name": "Pump my Ride",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 499352
+      "UsersEstimate": 499357
     },
     {
       "ID": "OutOfFuelLoseRace",
@@ -23263,7 +23268,7 @@
       "Name": "Call Roadside Assistance",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 191241
+      "UsersEstimate": 191243
     },
     {
       "ID": "OutOfFuelWinRace",
@@ -23287,7 +23292,7 @@
       "Name": "I Need a Bigger Garage",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 669345
+      "UsersEstimate": 669350
     },
     {
       "ID": "WinBySmallDifference",
@@ -23295,7 +23300,7 @@
       "Name": "That Was Close",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 191241
+      "UsersEstimate": 191243
     },
     {
       "ID": "WinLotsOfConsecutiveRaces",
@@ -23318,15 +23323,15 @@
     {
       "ID": "77fdf3o",
       "IsBase": true,
-      "Progressed": 1062452,
+      "Progressed": 1062461,
       "Completed": 457
     }
   ],
   "FirstSeen": "2022-07-22T20:19:20.5347351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.6843682+00:00",
   "LastChanged": "2023-10-16T18:03:21.7445859+00:00",
-  "LastChanged_Achievements": "2023-10-17T23:04:16.9119933+00:00",
+  "LastChanged_Achievements": "2023-10-18T00:05:00.3902358+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:24.0789156+00:00",
-  "LastUpdate_Ratings": "2023-10-17T23:00:09.1940734+00:00",
-  "LastUpdate_Achievements": "2023-10-17T23:04:16.9121458+00:00"
+  "LastUpdate_Ratings": "2023-10-18T00:01:15.5138739+00:00",
+  "LastUpdate_Achievements": "2023-10-18T00:05:00.3903844+00:00"
 }

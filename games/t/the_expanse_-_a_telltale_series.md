@@ -9,8 +9,8 @@ Rating: 4.57 (Ranked 457)
 | Drug Gifter | 6.00% | ~845 |
 | Bosmang | 6.00% | ~845 |
 | The Pit and the Pirates | 5.00% | ~704 |
+| Drone Dodger | 5.00% | ~704 |
 | Data Archivist | 4.00% | ~563 |
-| Drone Dodger | 4.00% | ~563 |
 | Heal Thy Medic | 4.00% | ~563 |
 | Call it Even | 4.00% | ~563 |
 | Celebrations are in Order | 4.00% | ~563 |

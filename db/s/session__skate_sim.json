@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 309,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 284,
-  "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2019-09-17T12:00:00+00:00",
@@ -1054,9 +1054,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 3015,
+  "EOS_Progressed": 3016,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5349,6 +5349,11 @@
       "Time": "2023-10-17T18:04:22.9180773+00:00",
       "NumProgressed": 3015,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-18T00:04:18.198344+00:00",
+      "NumProgressed": 3016,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 48,
@@ -5728,7 +5733,7 @@
       "Name": "Welcome to the family",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "ACH_YOURE-FREE-NOW",
@@ -5736,22 +5741,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 1839
+      "UsersEstimate": 1840
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 3015,
+      "Progressed": 3016,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-10-15T18:58:02.0721635+00:00",
-  "LastChanged_Achievements": "2023-10-17T23:03:42.0266977+00:00",
+  "LastChanged_Achievements": "2023-10-18T00:04:18.1983432+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:15.9585572+00:00",
-  "LastUpdate_Ratings": "2023-10-17T22:58:33.797557+00:00",
-  "LastUpdate_Achievements": "2023-10-17T23:03:42.02677+00:00"
+  "LastUpdate_Ratings": "2023-10-17T23:59:13.7346081+00:00",
+  "LastUpdate_Achievements": "2023-10-18T00:04:18.1984113+00:00"
 }

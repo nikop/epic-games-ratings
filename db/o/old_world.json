@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 284,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1795,10 +1795,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 1842,
       "NumberOfAwardsMax": 224
+    },
+    {
+      "Time": "2023-10-17T23:58:04.3729181+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1844,
+      "NumberOfAwardsMax": 224
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1842,
+  "NumberOfAwards": 1844,
   "NumberOfAwardsMax": 224,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -1824,7 +1830,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 210
+      "Count": 211
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1860,7 +1866,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 191
+      "Count": 192
     },
     {
       "Text": "This game has a Creative Community",
@@ -1877,7 +1883,7 @@
   ],
   "EOS_Progressed": 14775,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 189,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14881,9 +14887,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_GOOD",
       "SetID": "7l38kb8",
       "Name": "Good Difficulty",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 103
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_GREAT",
@@ -15009,9 +15015,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_RIDERS",
       "SetID": "7l38kb8",
       "Name": "Riders",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 89
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_SAGES",
@@ -16878,9 +16884,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
-  "LastChanged": "2023-10-16T22:57:40.964526+00:00",
-  "LastChanged_Achievements": "2023-10-17T23:08:35.4627177+00:00",
+  "LastChanged": "2023-10-17T23:58:04.3729179+00:00",
+  "LastChanged_Achievements": "2023-10-18T00:09:21.2046806+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:21.7880328+00:00",
-  "LastUpdate_Ratings": "2023-10-17T22:57:39.5886711+00:00",
-  "LastUpdate_Achievements": "2023-10-17T23:08:35.4640363+00:00"
+  "LastUpdate_Ratings": "2023-10-17T23:58:04.3729185+00:00",
+  "LastUpdate_Achievements": "2023-10-18T00:09:21.206037+00:00"
 }

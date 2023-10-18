@@ -5,26 +5,26 @@ Rating: 4.56 (Ranked 475)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 29.00% | ~5,339 |
-| The Spy who eliminated me | 23.00% | ~4,235 |
-| Mainframe Hacker | 22.00% | ~4,050 |
-| Tomorrow Never Dyes | 22.00% | ~4,050 |
-| From the Vault with Love | 18.00% | ~3,314 |
-| Never Say Loser Again | 18.00% | ~3,314 |
-| For your Eyes only | 18.00% | ~3,314 |
-| Assistant Accountant | 17.00% | ~3,130 |
-| Tailor-Made | 17.00% | ~3,130 |
-| You Only Live Twice | 16.00% | ~2,946 |
-| Fully Decked Out | 16.00% | ~2,946 |
-| A view to Win | 13.00% | ~2,393 |
-| Smells Like Trouble | 12.00% | ~2,209 |
-| The Living Portrait | 11.00% | ~2,025 |
-| My Motto, My Creed | 11.00% | ~2,025 |
-| Private Collection | 11.00% | ~2,025 |
-| Killer Looks | 11.00% | ~2,025 |
-| Hostile Takeover | 11.00% | ~2,025 |
-| Keycards Royale | 10.00% | ~1,841 |
-| Dr. No Kill | 10.00% | ~1,841 |
+| On Deceive Inc.'s Secret Service | 29.00% | ~5,341 |
+| The Spy who eliminated me | 23.00% | ~4,236 |
+| Mainframe Hacker | 22.00% | ~4,052 |
+| Tomorrow Never Dyes | 22.00% | ~4,052 |
+| From the Vault with Love | 18.00% | ~3,315 |
+| Never Say Loser Again | 18.00% | ~3,315 |
+| For your Eyes only | 18.00% | ~3,315 |
+| Assistant Accountant | 17.00% | ~3,131 |
+| Tailor-Made | 17.00% | ~3,131 |
+| You Only Live Twice | 16.00% | ~2,947 |
+| Fully Decked Out | 16.00% | ~2,947 |
+| A view to Win | 13.00% | ~2,394 |
+| Smells Like Trouble | 12.00% | ~2,210 |
+| The Living Portrait | 11.00% | ~2,026 |
+| My Motto, My Creed | 11.00% | ~2,026 |
+| Private Collection | 11.00% | ~2,026 |
+| Killer Looks | 11.00% | ~2,026 |
+| Hostile Takeover | 11.00% | ~2,026 |
+| Keycards Royale | 10.00% | ~1,842 |
+| Dr. No Kill | 10.00% | ~1,842 |
 | In It to Win It | 9.00% | ~1,657 |
 | Security Supervisor | 6.00% | ~1,105 |
 | License to Thrill | 5.00% | ~921 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 475)
 | Extraction Confusion | 0.20% | ~37 |
 | Spyfall | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,411 (Ranked 129)  
+Progressed: 18,416 (Ranked 129)  
 Completed: 4 (0.02%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,6 +223,7 @@ Completed: 4 (0.02%) (Ranked 289)
 | 2023-10-15 | 18,396 | 4 |
 | 2023-10-16 | 18,399 | 4 |
 | 2023-10-17 | 18,411 | 4 |
+| 2023-10-18 | 18,416 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

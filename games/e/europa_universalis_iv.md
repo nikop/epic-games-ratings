@@ -6,9 +6,9 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,334 |
-| Until death do us apart | 4.00% | ~17,334 |
-| Victorious! | 4.00% | ~17,334 |
+| That's a Grand Army | 4.00% | ~17,335 |
+| Until death do us apart | 4.00% | ~17,335 |
+| Victorious! | 4.00% | ~17,335 |
 | That is mine! | 3.00% | ~13,001 |
 | Brothers in Arms | 2.00% | ~8,667 |
 | Cold War | 2.00% | ~8,667 |
@@ -26,7 +26,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Double the Love | 0.80% | ~3,467 |
 | Royal Authority | 0.80% | ~3,467 |
 | Total Control | 0.80% | ~3,467 |
-| My armies are invincible! | 0.70% | ~3,033 |
+| My armies are invincible! | 0.70% | ~3,034 |
 | Agressive Expander | 0.50% | ~2,167 |
 | Azur semé de lis or | 0.50% | ~2,167 |
 | City of Cities | 0.50% | ~2,167 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 433,352 (Ranked 40)  
+Progressed: 433,366 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -542,13 +542,14 @@ Completed: 1 (0.00%) (Ranked 315)
 | 2023-10-15 | 432,104 | 1 |
 | 2023-10-16 | 432,768 | 1 |
 | 2023-10-17 | 433,352 | 1 |
+| 2023-10-18 | 433,366 | 1 |
 ## Awards
-Max (Educational): 6,561  (Ranked 55)  
-Sum: 53,981 (Ranked 24)  
+Max (Educational): 6,571  (Ranked 55)  
+Sum: 53,991 (Ranked 24)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 6,561 |
+| This game is Educational | 6,571 |
 | This game is Highly Recommended | 6,255 |
 | This game has Diverse Characters | 6,244 |
 | This game has Challenging Combat | 6,207 |
@@ -834,4 +835,4 @@ Diff (max vs sum): 31
 | 2023-10-14 | 4.69 | - | 6,534 | 53,639 |
 | 2023-10-15 | 4.69 | - | 6,551 | 53,801 |
 | 2023-10-16 | 4.69 | - | 6,561 | 53,895 |
-| 2023-10-17 | 4.69 | - | 6,561 | 53,981 |
+| 2023-10-17 | 4.69 | - | 6,571 | 53,991 |
