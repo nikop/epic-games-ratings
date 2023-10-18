@@ -4,11 +4,11 @@
   "ProductSlug": "loop-hero",
   "Ranking_Rating": 264,
   "Ranking_Popularity": 208,
-  "Ranking_PopularitySum": 148,
+  "Ranking_PopularitySum": 147,
   "Ranking_EOS_Progress": 673,
   "Ranking_EOS_Completed": 315,
   "Ranking_EOS_NewPlayers": 389,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-03-04T18:00:00+00:00",
     "PcReleaseDate": "2021-03-04T18:00:00+00:00",
@@ -4489,10 +4489,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 4034,
       "NumberOfAwardsMax": 471
+    },
+    {
+      "Time": "2023-10-18T04:59:59.1026901+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 4036,
+      "NumberOfAwardsMax": 471
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4034,
+  "NumberOfAwards": 4036,
   "NumberOfAwardsMax": 471,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -4548,7 +4554,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 443
+      "Count": 445
     },
     {
       "Text": "This game has a Creative Community",
@@ -4568,8 +4574,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:49.2794881+00:00",
-  "LastChanged": "2023-10-17T14:00:21.5163885+00:00",
+  "LastChanged": "2023-10-18T04:59:59.10269+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:15.0827815+00:00",
-  "LastUpdate_Ratings": "2023-10-18T04:00:34.9352428+00:00",
-  "LastUpdate_Achievements": "2023-10-18T04:06:51.6753421+00:00"
+  "LastUpdate_Ratings": "2023-10-18T04:59:59.1026906+00:00",
+  "LastUpdate_Achievements": "2023-10-18T05:06:08.4257904+00:00"
 }

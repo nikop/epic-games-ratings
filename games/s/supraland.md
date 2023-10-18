@@ -6,31 +6,31 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~722,320 |
+| Out of bed | 99.00% | ~722,321 |
 | The Blues | 85.00% | ~620,174 |
 | Fast | 66.00% | ~481,547 |
 | Healthbar | 55.00% | ~401,289 |
-| Force Cube | 53.00% | ~386,696 |
+| Force Cube | 53.00% | ~386,697 |
 | Double Jump | 48.00% | ~350,216 |
 | Regeneration | 47.00% | ~342,920 |
 | Triple Jump | 43.00% | ~313,735 |
 | Climb the hill | 42.00% | ~306,439 |
-| Through the fire pipe | 39.00% | ~284,550 |
+| Through the fire pipe | 39.00% | ~284,551 |
 | MacGuffin | 38.00% | ~277,254 |
 | Just once | 37.00% | ~269,958 |
 | Armor | 30.00% | ~218,885 |
-| True holy spirit | 28.00% | ~204,292 |
-| That's how electronics work obviously | 27.00% | ~196,996 |
+| True holy spirit | 28.00% | ~204,293 |
+| That's how electronics work obviously | 27.00% | ~196,997 |
 | Force Cube Catapult | 25.00% | ~182,404 |
 | Holy Sword | 23.00% | ~167,812 |
 | Telefrag | 23.00% | ~167,812 |
-| Freed from prison | 21.00% | ~153,219 |
-| Stomp | 21.00% | ~153,219 |
+| Freed from prison | 21.00% | ~153,220 |
+| Stomp | 21.00% | ~153,220 |
 | Double Health | 18.00% | ~131,331 |
 | Buckle | 17.00% | ~124,035 |
 | Green Keycard | 17.00% | ~124,035 |
 | Rattle Hag | 16.00% | ~116,739 |
-| All Shells | 15.00% | ~109,442 |
+| All Shells | 15.00% | ~109,443 |
 | Beam | 14.00% | ~102,146 |
 | Health Drink | 13.00% | ~94,850 |
 | Helped a star | 13.00% | ~94,850 |
@@ -51,14 +51,14 @@ Number of Ratings: 25,175  (23.09.2022)
 | Panic Lights | 10.00% | ~72,962 |
 | Translocator | 10.00% | ~72,962 |
 | Yellow Shot Button | 10.00% | ~72,962 |
-| Moon Door | 9.00% | ~65,665 |
-| Momentum | 9.00% | ~65,665 |
-| Through the tiny pipe | 9.00% | ~65,665 |
-| Win! | 9.00% | ~65,665 |
+| Moon Door | 9.00% | ~65,666 |
+| Momentum | 9.00% | ~65,666 |
+| Through the tiny pipe | 9.00% | ~65,666 |
+| Win! | 9.00% | ~65,666 |
 | The real real teleported man | 8.00% | ~58,369 |
 | Well deserved | 6.00% | ~43,777 |
-| Happiness | 3.00% | ~21,888 |
-| Super Sword | 3.00% | ~21,888 |
+| Happiness | 3.00% | ~21,889 |
+| Super Sword | 3.00% | ~21,889 |
 | All Chests | 2.00% | ~14,592 |
 | Poor ancestors | 2.00% | ~14,592 |
 | Shelf filled | 2.00% | ~14,592 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~730 |
 | DLC: Top of the world | 0.10% | ~730 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 729,616 (Ranked 19)  
+Progressed: 729,617 (Ranked 19)  
 Completed: 748 (0.10%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 748 (0.10%) (Ranked 247)
 | 2023-10-15 | 729,425 | 748 |
 | 2023-10-16 | 729,505 | 748 |
 | 2023-10-17 | 729,601 | 748 |
-| 2023-10-18 | 729,616 | 748 |
+| 2023-10-18 | 729,617 | 748 |
 ## Awards
 Max (Challenging Puzzles): 7,702  (Ranked 47)  
 Sum: 10,041 (Ranked 90)  

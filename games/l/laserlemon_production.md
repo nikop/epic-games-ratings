@@ -26,7 +26,7 @@
 | Little Lost Things | 8.00% | ~1 |
 | Hard to the Core | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12 (Ranked 519)  
+Progressed: 12 (Ranked 520)  
 Completed: 0 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |

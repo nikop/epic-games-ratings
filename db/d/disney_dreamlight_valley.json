@@ -4200,9 +4200,9 @@
       "Count": 516
     }
   ],
-  "EOS_Progressed": 10896,
+  "EOS_Progressed": 10897,
   "EOS_Completed": 258,
-  "EOS_NewPlayers": 183,
+  "EOS_NewPlayers": 184,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 2.37,
   "EosHistory": [
@@ -16185,6 +16185,11 @@
       "Time": "2023-10-18T04:07:29.8332201+00:00",
       "NumProgressed": 10896,
       "NumCompleted": 258
+    },
+    {
+      "Time": "2023-10-18T05:06:37.4312864+00:00",
+      "NumProgressed": 10897,
+      "NumCompleted": 258
     }
   ],
   "TotalAchievements": 15,
@@ -16204,7 +16209,7 @@
       "Name": "Banker",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 4249
+      "UsersEstimate": 4250
     },
     {
       "ID": "Bestest_Friend",
@@ -16212,7 +16217,7 @@
       "Name": "Bestest Friend",
       "Percentage": 47,
       "XP": 75,
-      "UsersEstimate": 5121
+      "UsersEstimate": 5122
     },
     {
       "ID": "Chef_Cook",
@@ -16268,7 +16273,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 70,
       "XP": 75,
-      "UsersEstimate": 7627
+      "UsersEstimate": 7628
     },
     {
       "ID": "Miner",
@@ -16284,7 +16289,7 @@
       "Name": "Photographer",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 7518
+      "UsersEstimate": 7519
     },
     {
       "ID": "Renovator",
@@ -16315,7 +16320,7 @@
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 10896,
+      "Progressed": 10897,
       "Completed": 258
     }
   ],
@@ -16323,8 +16328,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-10-18T01:41:34.7703628+00:00",
-  "LastChanged_Achievements": "2023-10-18T04:07:29.8332194+00:00",
+  "LastChanged_Achievements": "2023-10-18T05:06:37.431286+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:03.0185965+00:00",
-  "LastUpdate_Ratings": "2023-10-18T03:58:12.9836875+00:00",
-  "LastUpdate_Achievements": "2023-10-18T04:07:29.8332844+00:00"
+  "LastUpdate_Ratings": "2023-10-18T04:58:16.2583718+00:00",
+  "LastUpdate_Achievements": "2023-10-18T05:06:37.4313666+00:00"
 }

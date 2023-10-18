@@ -25,6 +25,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Demand for Supplies | 1.00% | ~1,378 |
 | Flooding the Market | 1.00% | ~1,378 |
 | Where it Hurts | 1.00% | ~1,378 |
+| Gem Expert | 1.00% | ~1,378 |
 | Gild-Gotten Goods | 1.00% | ~1,378 |
 | One-Armed Bandit | 1.00% | ~1,378 |
 | Accomplished Merchant | 1.00% | ~1,378 |
@@ -38,7 +39,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Vanity, Verily | 0.90% | ~1,240 |
 | Efficient Floor Space | 0.90% | ~1,240 |
 | Flawless Fusion | 0.90% | ~1,240 |
-| Gem Expert | 0.90% | ~1,240 |
 | Helping Hand | 0.90% | ~1,240 |
 | Natural 20 | 0.90% | ~1,240 |
 | Fated Encounters | 0.80% | ~1,102 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,765 (Ranked 73)  
+Progressed: 137,768 (Ranked 73)  
 Completed: 170 (0.12%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 170 (0.12%) (Ranked 242)
 | 2023-10-15 | 137,669 | 168 |
 | 2023-10-16 | 137,703 | 168 |
 | 2023-10-17 | 137,757 | 170 |
-| 2023-10-18 | 137,765 | 170 |
+| 2023-10-18 | 137,768 | 170 |
 ## Awards
 Max (Great for Beginners): 4,790  (Ranked 72)  
 Sum: 27,393 (Ranked 50)  

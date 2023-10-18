@@ -2,13 +2,13 @@
   "ID": "9f101e25b1a9427a9e6971d2b21c5f82",
   "Name": "Rise of Industry",
   "ProductSlug": "rise-of-industry-0af838",
-  "Ranking_Rating": 860,
+  "Ranking_Rating": 859,
   "Ranking_Popularity": 537,
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 18,
   "Ranking_EOS_Completed": 315,
   "Ranking_EOS_NewPlayers": 43,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2019-05-01T23:00:00+00:00",
@@ -279,9 +279,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 744025,
+  "EOS_Progressed": 744026,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 2081,
+  "EOS_NewPlayers": 2074,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20804,6 +20804,11 @@
       "Time": "2023-10-18T04:05:15.5818331+00:00",
       "NumProgressed": 744025,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-18T05:04:55.4403185+00:00",
+      "NumProgressed": 744026,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 27,
@@ -20847,7 +20852,7 @@
       "Name": "Engineer",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 14880
+      "UsersEstimate": 14881
     },
     {
       "ID": "ach_build_tunnel",
@@ -20879,7 +20884,7 @@
       "Name": "Well educated",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 275289
+      "UsersEstimate": 275290
     },
     {
       "ID": "ach_demolish_trees",
@@ -21007,7 +21012,7 @@
       "Name": "High Flyer",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 14880
+      "UsersEstimate": 14881
     },
     {
       "ID": "ach_use_terraforming",
@@ -21030,7 +21035,7 @@
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 744025,
+      "Progressed": 744026,
       "Completed": 4
     }
   ],
@@ -21038,8 +21043,8 @@
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
   "LastChanged": "2023-10-02T11:00:31.1907722+00:00",
-  "LastChanged_Achievements": "2023-10-18T04:05:15.5818326+00:00",
+  "LastChanged_Achievements": "2023-10-18T05:04:55.4403181+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:20.277946+00:00",
-  "LastUpdate_Ratings": "2023-10-18T03:58:55.304033+00:00",
-  "LastUpdate_Achievements": "2023-10-18T04:05:15.5819417+00:00"
+  "LastUpdate_Ratings": "2023-10-18T04:58:47.9817551+00:00",
+  "LastUpdate_Achievements": "2023-10-18T05:04:55.4404746+00:00"
 }

@@ -6,28 +6,28 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 44.00% | ~6,233 |
-| Overkill | 34.00% | ~4,816 |
-| A normal day in Gloomhaven | 34.00% | ~4,816 |
-| Vaccine Incoming | 33.00% | ~4,675 |
-| Spread the plague | 31.00% | ~4,391 |
-| Get over here! | 24.00% | ~3,400 |
+| I'm not dead yet | 44.00% | ~6,235 |
+| Overkill | 34.00% | ~4,818 |
+| A normal day in Gloomhaven | 34.00% | ~4,818 |
+| Vaccine Incoming | 33.00% | ~4,676 |
+| Spread the plague | 31.00% | ~4,393 |
+| Get over here! | 24.00% | ~3,401 |
 | Just when I thought I was out... | 19.00% | ~2,692 |
-| Mine... All Mine... | 17.00% | ~2,408 |
+| Mine... All Mine... | 17.00% | ~2,409 |
 | Precious! | 16.00% | ~2,267 |
-| Light of my life | 15.00% | ~2,125 |
-| Anatomy Lesson | 15.00% | ~2,125 |
+| Light of my life | 15.00% | ~2,126 |
+| Anatomy Lesson | 15.00% | ~2,126 |
 | Grizzled veteran | 13.00% | ~1,842 |
 | You activated my trap card! | 13.00% | ~1,842 |
 | Augmented rat | 13.00% | ~1,842 |
 | Obstacle race | 13.00% | ~1,842 |
-| Doom and gloom | 11.00% | ~1,558 |
+| Doom and gloom | 11.00% | ~1,559 |
 | Who's the Boss? | 9.00% | ~1,275 |
-| Dungeon Veteran | 8.00% | ~1,133 |
-| Pack leader | 8.00% | ~1,133 |
-| Pain is your friend | 8.00% | ~1,133 |
-| Black death | 8.00% | ~1,133 |
-| Play it again, Sam | 8.00% | ~1,133 |
+| Dungeon Veteran | 8.00% | ~1,134 |
+| Pack leader | 8.00% | ~1,134 |
+| Pain is your friend | 8.00% | ~1,134 |
+| Black death | 8.00% | ~1,134 |
+| Play it again, Sam | 8.00% | ~1,134 |
 | Quad damage | 6.00% | ~850 |
 | Power Up! | 5.00% | ~708 |
 | The Pro from Dover | 5.00% | ~708 |
@@ -47,16 +47,16 @@ Number of Ratings: 68  (23.09.2022)
 | An axe to grind | 2.00% | ~283 |
 | Add a bit of colour | 1.00% | ~142 |
 | How to train your Drake | 1.00% | ~142 |
-| New Blood | 0.90% | ~127 |
+| New Blood | 0.90% | ~128 |
 | Captain hooked | 0.80% | ~113 |
 | Betray this | 0.70% | ~99 |
 | Spoiler police! | 0.70% | ~99 |
 | The Pacifist | 0.50% | ~71 |
 | A tough job | 0.40% | ~57 |
 | Born Support | 0.40% | ~57 |
-| The evil that men do | 0.30% | ~42 |
-| MacReady Steady.. Go! | 0.30% | ~42 |
-| Pull out the big guns | 0.30% | ~42 |
+| The evil that men do | 0.30% | ~43 |
+| MacReady Steady.. Go! | 0.30% | ~43 |
+| Pull out the big guns | 0.30% | ~43 |
 | Beware my power | 0.20% | ~28 |
 | The Jaws of victory! | 0.20% | ~28 |
 | Crimson Tornado | 0.20% | ~28 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~14 |
 | Murder Death Kill | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,166 (Ranked 138)  
+Progressed: 14,170 (Ranked 138)  
 Completed: 1 (0.01%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 1 (0.01%) (Ranked 297)
 | 2023-10-15 | 13,656 | 1 |
 | 2023-10-16 | 13,884 | 1 |
 | 2023-10-17 | 14,108 | 1 |
-| 2023-10-18 | 14,166 | 1 |
+| 2023-10-18 | 14,170 | 1 |
 ## Awards
 Max (Character Customization): 3,555  (Ranked 90)  
 Sum: 8,299 (Ranked 98)  

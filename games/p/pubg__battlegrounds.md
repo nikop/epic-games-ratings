@@ -5,16 +5,16 @@ Rating: 3.97 (Ranked 981)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blood on My Hands | 73.00% | ~477,636 |
-| Health Junkie | 40.00% | ~261,718 |
-| You Complete Me | 38.00% | ~248,632 |
-| Guardian Angel | 34.00% | ~222,461 |
-| Devil Inside Me | 27.00% | ~176,660 |
-| Killing Spree | 19.00% | ~124,316 |
-| Fantastic Four | 19.00% | ~124,316 |
-| Marksman Novice | 17.00% | ~111,230 |
-| First Blood | 12.00% | ~78,516 |
-| Top 10 | 12.00% | ~78,516 |
+| Blood on My Hands | 73.00% | ~477,643 |
+| Health Junkie | 40.00% | ~261,722 |
+| You Complete Me | 38.00% | ~248,636 |
+| Guardian Angel | 34.00% | ~222,464 |
+| Devil Inside Me | 27.00% | ~176,662 |
+| Killing Spree | 19.00% | ~124,318 |
+| Fantastic Four | 19.00% | ~124,318 |
+| Marksman Novice | 17.00% | ~111,232 |
+| First Blood | 12.00% | ~78,517 |
+| Top 10 | 12.00% | ~78,517 |
 | Now You See Me, Now You Don't | 10.00% | ~65,430 |
 | Marksman Expert | 8.00% | ~52,344 |
 | CQB Novice | 7.00% | ~45,801 |
@@ -43,7 +43,7 @@ Rating: 3.97 (Ranked 981)
 | Nade King Master | 0.10% | ~654 |
 | Shoot the Knee | 0.10% | ~654 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 654,296 (Ranked 27)  
+Progressed: 654,305 (Ranked 27)  
 Completed: 10 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 10 (0.00%) (Ranked 315)
 | 2023-10-15 | 651,044 | 10 |
 | 2023-10-16 | 652,676 | 10 |
 | 2023-10-17 | 654,254 | 10 |
-| 2023-10-18 | 654,296 | 10 |
+| 2023-10-18 | 654,305 | 10 |
 ## Awards
 Max (Competitive Players): 4,134  (Ranked 82)  
 Sum: 13,580 (Ranked 74)  

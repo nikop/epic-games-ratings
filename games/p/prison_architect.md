@@ -23,7 +23,7 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~185 |
 | ... It's What You Can Prove | 0.10% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 184,511 (Ranked 69)  
+Progressed: 184,513 (Ranked 69)  
 Completed: 8 (0.00%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,17 +204,17 @@ Completed: 8 (0.00%) (Ranked 315)
 | 2023-10-15 | 184,052 | 8 |
 | 2023-10-16 | 184,260 | 8 |
 | 2023-10-17 | 184,472 | 8 |
-| 2023-10-18 | 184,511 | 8 |
+| 2023-10-18 | 184,513 | 8 |
 ## Awards
 Max (Extremely Fun): 532  (Ranked 200)  
-Sum: 4,586 (Ranked 142)  
+Sum: 4,588 (Ranked 142)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 532 |
 | This game is Great for Beginners | 529 |
 | This game is Highly Recommended | 501 |
-| This game has Quickly Understood Controls | 495 |
+| This game has Quickly Understood Controls | 497 |
 | This game is Relaxing | 479 |
 | This game has Amazing Storytelling | 451 |
 | This game has Diverse Characters | 444 |
@@ -493,3 +493,4 @@ Diff (max vs sum): 58
 | 2023-10-15 | 4.61 | - | 529 | 4,566 |
 | 2023-10-16 | 4.61 | - | 531 | 4,569 |
 | 2023-10-17 | 4.61 | - | 532 | 4,586 |
+| 2023-10-18 | 4.61 | - | 532 | 4,588 |

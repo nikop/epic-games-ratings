@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 315,
   "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -10866,9 +10866,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 433425,
+  "EOS_Progressed": 433435,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5758,
+  "EOS_NewPlayers": 5755,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31411,6 +31411,11 @@
       "Time": "2023-10-18T04:09:41.034718+00:00",
       "NumProgressed": 433425,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-18T05:09:52.8845238+00:00",
+      "NumProgressed": 433435,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -31862,7 +31867,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8668
+      "UsersEstimate": 8669
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -31942,7 +31947,7 @@
       "Name": "Cold War",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8668
+      "UsersEstimate": 8669
     },
     {
       "ID": "achievement_colonial_management",
@@ -32254,7 +32259,7 @@
       "Name": "For the Glory",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8668
+      "UsersEstimate": 8669
     },
     {
       "ID": "achievement_forever_golden",
@@ -32446,7 +32451,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8668
+      "UsersEstimate": 8669
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -33422,7 +33427,7 @@
       "Name": "Seriously?!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8668
+      "UsersEstimate": 8669
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -34253,21 +34258,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 433425,
+      "Progressed": 433435,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 433425,
+      "Progressed": 433435,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-10-17T23:57:42.1253196+00:00",
-  "LastChanged_Achievements": "2023-10-18T04:09:41.0347174+00:00",
+  "LastChanged_Achievements": "2023-10-18T05:09:52.8845235+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:17.3086374+00:00",
-  "LastUpdate_Ratings": "2023-10-18T03:57:36.8862558+00:00",
-  "LastUpdate_Achievements": "2023-10-18T04:09:41.0358105+00:00"
+  "LastUpdate_Ratings": "2023-10-18T04:57:49.365927+00:00",
+  "LastUpdate_Achievements": "2023-10-18T05:09:52.8858957+00:00"
 }
