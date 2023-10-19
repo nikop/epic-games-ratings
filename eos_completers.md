@@ -4,7 +4,7 @@
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 66.67% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.58% |
 | 4 | [The Riflemen](games/t/the_riflemen.md) | 47.30% |
-| 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.76% |
+| 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 47.12% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 33.04% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -41,12 +41,12 @@
 | 39 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
 | 40 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.98% |
 | 41 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.67% |
-| 42 | [laserlemon Production](games/l/laserlemon_production.md) | 8.33% |
-| 43 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.77% |
-| 44 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
+| 42 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.77% |
+| 43 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
+| 43 | [laserlemon Production](games/l/laserlemon_production.md) | 7.69% |
 | 45 | [Ravenlok](games/r/ravenlok.md) | 7.66% |
 | 46 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.51% |
-| 47 | [Sonic Origins](games/s/sonic_origins.md) | 7.43% |
+| 47 | [Sonic Origins](games/s/sonic_origins.md) | 7.42% |
 | 48 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.33% |
 | 49 | [Time Loader](games/t/time_loader.md) | 7.20% |
 | 50 | [Scorn](games/s/scorn.md) | 7.02% |
@@ -71,7 +71,7 @@
 | 69 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.43% |
 | 70 | [The Bunker](games/t/the_bunker.md) | 4.20% |
 | 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.14% |
-| 72 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.12% |
+| 72 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.11% |
 | 73 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.08% |
 | 74 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.00% |
 | 75 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
@@ -84,9 +84,9 @@
 | 82 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
 | 83 | [The Complex](games/t/the_complex.md) | 3.33% |
 | 84 | [Doodle God](games/d/doodle_god.md) | 3.27% |
-| 85 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.26% |
-| 86 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.25% |
-| 86 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.25% |
+| 85 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.25% |
+| 85 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.25% |
+| 85 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.25% |
 | 88 | [Monster Harvest](games/m/monster_harvest.md) | 3.15% |
 | 88 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.15% |
 | 90 | [HordeCore](games/h/hordecore.md) | 3.12% |
@@ -107,8 +107,8 @@
 | 105 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.41% |
 | 106 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.39% |
 | 107 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.37% |
-| 108 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.29% |
-| 109 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.28% |
+| 108 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.28% |
+| 108 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.28% |
 | 110 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.22% |
 | 111 | [Bloodshore](games/b/bloodshore.md) | 2.12% |
 | 112 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.97% |
