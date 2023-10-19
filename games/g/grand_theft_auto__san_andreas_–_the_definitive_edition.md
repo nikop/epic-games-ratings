@@ -5,7 +5,7 @@ Rating: 4.56 (Ranked 476)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~10,705 |
+| Getting Started | 82.00% | ~10,837 |
 | Pay 'n' Spray | 51.00% | ~6,740 |
 | All Dressed Up for San Fierro | 26.00% | ~3,436 |
 | The American Dream | 20.00% | ~2,643 |

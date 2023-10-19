@@ -1,9 +1,9 @@
 {
   "ID": "400fd43e2e2f4b3b97bdc32656cb8f09",
   "Name": "greensheen Production",
-  "Ranking_EOS_Progress": 537,
+  "Ranking_EOS_Progress": 533,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": null,
@@ -17,9 +17,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 9,
+  "EOS_Progressed": 11,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -67,6 +67,11 @@
       "Time": "2023-10-16T11:07:16.3501104+00:00",
       "NumProgressed": 9,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-19T10:03:47.132212+00:00",
+      "NumProgressed": 11,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T10:04:28.176868+00:00",
@@ -77,7 +82,7 @@
       "ID": "BFF",
       "SetID": "aph8hbk",
       "Name": "In The Palm Of My Hand",
-      "Percentage": 67,
+      "Percentage": 55,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -85,7 +90,7 @@
       "ID": "BugSmash",
       "SetID": "aph8hbk",
       "Name": "Bully of Bullies",
-      "Percentage": 56,
+      "Percentage": 45,
       "XP": 30,
       "UsersEstimate": 5
     },
@@ -93,7 +98,7 @@
       "ID": "BurnBears",
       "SetID": "aph8hbk",
       "Name": "Toys Are For Kids",
-      "Percentage": 78,
+      "Percentage": 64,
       "XP": 15,
       "UsersEstimate": 7
     },
@@ -101,7 +106,7 @@
       "ID": "CallSix",
       "SetID": "aph8hbk",
       "Name": "Twenty-Six",
-      "Percentage": 56,
+      "Percentage": 45,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -109,7 +114,7 @@
       "ID": "CompleteHospital",
       "SetID": "aph8hbk",
       "Name": "Hospitalised",
-      "Percentage": 56,
+      "Percentage": 45,
       "XP": 30,
       "UsersEstimate": 5
     },
@@ -117,7 +122,7 @@
       "ID": "CompletePaleCity",
       "SetID": "aph8hbk",
       "Name": "Paled",
-      "Percentage": 67,
+      "Percentage": 55,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -125,7 +130,7 @@
       "ID": "CompleteSchool",
       "SetID": "aph8hbk",
       "Name": "Schooled",
-      "Percentage": 67,
+      "Percentage": 55,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -133,15 +138,15 @@
       "ID": "CompleteWilderness",
       "SetID": "aph8hbk",
       "Name": "Foraged",
-      "Percentage": 56,
+      "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "Detention",
       "SetID": "aph8hbk",
       "Name": "Merciful feat",
-      "Percentage": 56,
+      "Percentage": 45,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -149,7 +154,7 @@
       "ID": "EmptyVendingMachine",
       "SetID": "aph8hbk",
       "Name": "Hunger",
-      "Percentage": 67,
+      "Percentage": 55,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -157,7 +162,7 @@
       "ID": "FindAllHats",
       "SetID": "aph8hbk",
       "Name": "Far Ahead",
-      "Percentage": 56,
+      "Percentage": 45,
       "XP": 75,
       "UsersEstimate": 5
     },
@@ -165,7 +170,7 @@
       "ID": "FindAllPhantomKids",
       "SetID": "aph8hbk",
       "Name": "No More Remains",
-      "Percentage": 44,
+      "Percentage": 36,
       "XP": 75,
       "UsersEstimate": 4
     },
@@ -173,7 +178,7 @@
       "ID": "FootballGoal",
       "SetID": "aph8hbk",
       "Name": "Referee!",
-      "Percentage": 56,
+      "Percentage": 45,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -181,15 +186,15 @@
       "ID": "Fridge",
       "SetID": "aph8hbk",
       "Name": "What\u0027s in the box?!",
-      "Percentage": 67,
+      "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "GameComplete",
       "SetID": "aph8hbk",
       "Name": "Signal interruption",
-      "Percentage": 67,
+      "Percentage": 55,
       "XP": 60,
       "UsersEstimate": 6
     },
@@ -197,7 +202,7 @@
       "ID": "Governess",
       "SetID": "aph8hbk",
       "Name": "Unladylike",
-      "Percentage": 56,
+      "Percentage": 45,
       "XP": 30,
       "UsersEstimate": 5
     },
@@ -205,7 +210,7 @@
       "ID": "HalfHatsCollected",
       "SetID": "aph8hbk",
       "Name": "Half hat",
-      "Percentage": 56,
+      "Percentage": 45,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -213,7 +218,7 @@
       "ID": "HandOverkill",
       "SetID": "aph8hbk",
       "Name": "...And Stay Dead!",
-      "Percentage": 67,
+      "Percentage": 55,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -221,7 +226,7 @@
       "ID": "HoleCatch",
       "SetID": "aph8hbk",
       "Name": "Objection",
-      "Percentage": 67,
+      "Percentage": 55,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -229,15 +234,15 @@
       "ID": "HunterHunted",
       "SetID": "aph8hbk",
       "Name": "Fair Prey",
-      "Percentage": 56,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "KidsHospital",
       "SetID": "aph8hbk",
       "Name": "Sick Kids",
-      "Percentage": 56,
+      "Percentage": 45,
       "XP": 30,
       "UsersEstimate": 5
     },
@@ -245,7 +250,7 @@
       "ID": "KidsPaleCity",
       "SetID": "aph8hbk",
       "Name": "Pale Kids",
-      "Percentage": 56,
+      "Percentage": 45,
       "XP": 30,
       "UsersEstimate": 5
     },
@@ -253,7 +258,7 @@
       "ID": "KidsSchool",
       "SetID": "aph8hbk",
       "Name": "School Kids",
-      "Percentage": 44,
+      "Percentage": 36,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -261,7 +266,7 @@
       "ID": "KidsWilderness",
       "SetID": "aph8hbk",
       "Name": "Wild Kids",
-      "Percentage": 56,
+      "Percentage": 45,
       "XP": 30,
       "UsersEstimate": 5
     },
@@ -269,7 +274,7 @@
       "ID": "MailMan",
       "SetID": "aph8hbk",
       "Name": "Post Industrial",
-      "Percentage": 56,
+      "Percentage": 45,
       "XP": 30,
       "UsersEstimate": 5
     },
@@ -277,7 +282,7 @@
       "ID": "PaperPlaneWindow",
       "SetID": "aph8hbk",
       "Name": "Fly Free",
-      "Percentage": 56,
+      "Percentage": 45,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -285,7 +290,7 @@
       "ID": "PatientBall",
       "SetID": "aph8hbk",
       "Name": "Medicine ball",
-      "Percentage": 67,
+      "Percentage": 55,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -293,7 +298,7 @@
       "ID": "Piano",
       "SetID": "aph8hbk",
       "Name": "Mono Tones",
-      "Percentage": 67,
+      "Percentage": 55,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -309,7 +314,7 @@
       "ID": "Popcorn",
       "SetID": "aph8hbk",
       "Name": "Popcorn",
-      "Percentage": 67,
+      "Percentage": 55,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -317,7 +322,7 @@
       "ID": "SixRaincoat",
       "SetID": "aph8hbk",
       "Name": "True Colours",
-      "Percentage": 67,
+      "Percentage": 55,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -325,7 +330,7 @@
       "ID": "SpareDoc",
       "SetID": "aph8hbk",
       "Name": "First do no harm",
-      "Percentage": 56,
+      "Percentage": 45,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -333,7 +338,7 @@
       "ID": "ThinmanHat",
       "SetID": "aph8hbk",
       "Name": "How Do I Look?",
-      "Percentage": 67,
+      "Percentage": 55,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -341,15 +346,15 @@
       "ID": "TrapAvoid",
       "SetID": "aph8hbk",
       "Name": "Evasive prey",
-      "Percentage": 67,
+      "Percentage": 73,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "Xray",
       "SetID": "aph8hbk",
       "Name": "X Best Friends",
-      "Percentage": 67,
+      "Percentage": 55,
       "XP": 15,
       "UsersEstimate": 6
     }
@@ -358,13 +363,13 @@
     {
       "ID": "aph8hbk",
       "IsBase": true,
-      "Progressed": 9,
+      "Progressed": 11,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-31T13:15:39.9572089+00:00",
-  "LastChanged_Achievements": "2023-10-19T09:03:50.7307863+00:00",
+  "LastChanged_Achievements": "2023-10-19T10:03:47.1322117+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:13.194983+00:00",
-  "LastUpdate_Ratings": "2023-10-19T08:57:08.4527645+00:00",
-  "LastUpdate_Achievements": "2023-10-19T09:03:50.7308118+00:00"
+  "LastUpdate_Ratings": "2023-10-19T09:57:22.6821586+00:00",
+  "LastUpdate_Achievements": "2023-10-19T10:03:47.1322406+00:00"
 }

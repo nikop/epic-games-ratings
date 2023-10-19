@@ -6,13 +6,13 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 25.00% | ~2,894 |
+| Devoured by Darkness | 25.00% | ~2,895 |
 | A Spark | 18.00% | ~2,084 |
-| Burning City | 17.00% | ~1,968 |
-| Defender's Heart | 15.00% | ~1,736 |
+| Burning City | 17.00% | ~1,969 |
+| Defender's Heart | 15.00% | ~1,737 |
 | Mythic Choices | 14.00% | ~1,621 |
 | Banner over the Citadel | 13.00% | ~1,505 |
-| Queen's Gratitude | 12.00% | ~1,389 |
+| Queen's Gratitude | 12.00% | ~1,390 |
 | Fifth Crusade | 8.00% | ~926 |
 | Embrace of the Abyss | 6.00% | ~695 |
 | Path of the Angel | 6.00% | ~695 |
@@ -48,11 +48,11 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Legend | 1.00% | ~116 |
 | Strategic Victory | 1.00% | ~116 |
 | Abyssal Conspiracy | 1.00% | ~116 |
-| Truly Profane Gift | 1.00% | ~116 |
 | This Wall Won't Fall | 1.00% | ~104 |
 | Not the Last Sarkorian | 1.00% | ~104 |
 | Path of the Dragon | 0.90% | ~104 |
 | End of Eternal Guard | 0.90% | ~104 |
+| Truly Profane Gift | 0.90% | ~104 |
 | Masterful Charge | 0.70% | ~81 |
 | Playful Mood | 0.70% | ~81 |
 | Dreadful Dragon | 0.70% | ~81 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,576 (Ranked 145)  
+Progressed: 11,580 (Ranked 145)  
 Completed: 0 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 0 (0.00%) (Ranked 316)
 | 2023-10-16 | 11,539 | 0 |
 | 2023-10-17 | 11,545 | 0 |
 | 2023-10-18 | 11,567 | 0 |
-| 2023-10-19 | 11,576 | 0 |
+| 2023-10-19 | 11,580 | 0 |
 ## Awards
 Max (Character Customization): 1,726  (Ranked 119)  
 Sum: 6,993 (Ranked 115)  

@@ -5,24 +5,24 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Love | 42.00% | ~651 |
-| Eat My Dust | 41.00% | ~635 |
+| Eat My Dust | 41.00% | ~636 |
 | Clean Race | 40.00% | ~620 |
 | Hear That Roar! | 38.00% | ~589 |
 | Rivals to the End | 28.00% | ~434 |
-| Bitter Rivalry | 25.00% | ~387 |
+| Bitter Rivalry | 25.00% | ~388 |
 | We're Going to Need a Bigger Garage | 24.00% | ~372 |
 | Champagne Spray | 22.00% | ~341 |
 | I Want One Too! | 19.00% | ~294 |
 | Legendary!!! | 19.00% | ~294 |
 | Restored and Ready | 18.00% | ~279 |
 | Quick Pit Stop | 18.00% | ~279 |
-| I'm Here Too! | 17.00% | ~263 |
+| I'm Here Too! | 17.00% | ~264 |
 | Go-Faster Stripes | 16.00% | ~248 |
 | We've Just Begun | 10.00% | ~155 |
 | Stamina Star | 8.00% | ~124 |
 | Is It the Right Size? | 8.00% | ~124 |
 | Evangelist | 6.00% | ~93 |
-| Make It Your Own! | 4.00% | ~62 |
+| Make It Your Own! | 5.00% | ~78 |
 | I Make the Rules! | 4.00% | ~62 |
 | Spoilt for Choice | 3.00% | ~46 |
 | Cherry Blossom and Temples | 3.00% | ~46 |
@@ -34,14 +34,14 @@
 | Still Here | 2.00% | ~31 |
 | Rounding Off | 2.00% | ~31 |
 | My Work Here Is Done | 2.00% | ~31 |
-| I'll Be the Best! | 1.00% | ~15 |
-| Next Level | 1.00% | ~15 |
-| I Don't Stop | 1.00% | ~15 |
-| Overtaking the Master | 1.00% | ~15 |
+| Overtaking the Master | 2.00% | ~31 |
+| I'll Be the Best! | 1.00% | ~16 |
+| Next Level | 1.00% | ~16 |
+| I Don't Stop | 1.00% | ~16 |
 | Exhausted but Happy | 0.80% | ~12 |
 | In Search of Perfection | 0.60% | ~9 |
 | Globe-trotter | 0.50% | ~8 |
-| Maximum Endurance | 0.20% | ~3 |
+| Maximum Endurance | 0.30% | ~5 |
 | Full Power | 0.20% | ~3 |
 | At the Top | 0.20% | ~3 |
 | There's a Great View up Here | 0.20% | ~3 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,549 (Ranked 217)  
+Progressed: 1,550 (Ranked 216)  
 Completed: 0 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,4 +102,4 @@ Completed: 0 (0.00%) (Ranked 316)
 | 2023-10-16 | 1,506 | 0 |
 | 2023-10-17 | 1,518 | 0 |
 | 2023-10-18 | 1,541 | 0 |
-| 2023-10-19 | 1,549 | 0 |
+| 2023-10-19 | 1,550 | 0 |

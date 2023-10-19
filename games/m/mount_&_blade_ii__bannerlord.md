@@ -6,19 +6,19 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 39.00% | ~24,769 |
-| Landlord | 33.00% | ~20,958 |
-| Bannerlord | 23.00% | ~14,607 |
-| Horde breaker | 23.00% | ~14,607 |
-| Lawmaker | 23.00% | ~14,607 |
-| Trained | 23.00% | ~14,607 |
+| Lawbringer | 39.00% | ~24,770 |
+| Landlord | 33.00% | ~20,959 |
+| Bannerlord | 23.00% | ~14,608 |
+| Horde breaker | 23.00% | ~14,608 |
+| Lawmaker | 23.00% | ~14,608 |
+| Trained | 23.00% | ~14,608 |
 | The king is pleased | 19.00% | ~12,067 |
 | King Solomon | 17.00% | ~10,797 |
 | I can do it | 16.00% | ~10,162 |
-| Apple of my eye | 15.00% | ~9,526 |
-| God of the Arena | 13.00% | ~8,256 |
-| Against all odds | 12.00% | ~7,621 |
-| This Is Our Land | 12.00% | ~7,621 |
+| Apple of my eye | 15.00% | ~9,527 |
+| God of the Arena | 13.00% | ~8,257 |
+| Against all odds | 12.00% | ~7,622 |
+| This Is Our Land | 12.00% | ~7,622 |
 | Duelist | 10.00% | ~6,351 |
 | Dynasty | 10.00% | ~6,351 |
 | I spit on your grave | 10.00% | ~6,351 |
@@ -30,7 +30,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Crowdfunded | 5.00% | ~3,176 |
 | Crush your enemies | 5.00% | ~3,176 |
 | My way | 5.00% | ~3,176 |
-| Veni vidi vici | 4.00% | ~2,540 |
+| Veni vidi vici | 4.00% | ~2,541 |
 | Freedom! | 3.00% | ~1,905 |
 | Long live the Empire! | 3.00% | ~1,905 |
 | Real Estate | 3.00% | ~1,905 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,510 (Ranked 98)  
+Progressed: 63,513 (Ranked 98)  
 Completed: 0 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,7 +240,7 @@ Completed: 0 (0.00%) (Ranked 316)
 | 2023-10-16 | 63,408 | 0 |
 | 2023-10-17 | 63,440 | 0 |
 | 2023-10-18 | 63,498 | 0 |
-| 2023-10-19 | 63,510 | 0 |
+| 2023-10-19 | 63,513 | 0 |
 ## Awards
 Max (Character Customization): 7,245  (Ranked 52)  
 Sum: 14,921 (Ranked 66)  

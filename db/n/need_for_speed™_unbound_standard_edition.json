@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 6929,
+  "EOS_Progressed": 6930,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 815,
+  "EOS_NewPlayers": 811,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -3493,6 +3493,11 @@
       "Time": "2023-10-19T09:04:05.131118+00:00",
       "NumProgressed": 6929,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-10-19T10:04:01.8809444+00:00",
+      "NumProgressed": 6930,
+      "NumCompleted": 41
     }
   ],
   "AchievementsAdded": "2023-09-19T23:06:56.1964818+00:00",
@@ -3569,7 +3574,7 @@
       "Name": "Flow Master",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "achievement_18",
@@ -3577,7 +3582,7 @@
       "Name": "In the Flow",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 2009
+      "UsersEstimate": 2010
     },
     {
       "ID": "achievement_19",
@@ -3609,7 +3614,7 @@
       "Name": "Rydell\u0027s Rydes",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 3395
+      "UsersEstimate": 3396
     },
     {
       "ID": "achievement_22",
@@ -3617,7 +3622,7 @@
       "Name": "Escape Artist",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 3811
+      "UsersEstimate": 3812
     },
     {
       "ID": "achievement_23",
@@ -3625,7 +3630,7 @@
       "Name": "Public Enemy",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 5751
+      "UsersEstimate": 5752
     },
     {
       "ID": "achievement_24",
@@ -3641,7 +3646,7 @@
       "Name": "Access All Areas",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 2425
+      "UsersEstimate": 2426
     },
     {
       "ID": "achievement_26",
@@ -3673,7 +3678,7 @@
       "Name": "Teacher\u0027s Pet",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1524
+      "UsersEstimate": 1525
     },
     {
       "ID": "achievement_3",
@@ -3681,7 +3686,7 @@
       "Name": "New Crew",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 4365
+      "UsersEstimate": 4366
     },
     {
       "ID": "achievement_30",
@@ -3737,7 +3742,7 @@
       "Name": "100 Miles and Runnin\u0027",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 5820
+      "UsersEstimate": 5821
     },
     {
       "ID": "achievement_37",
@@ -3745,7 +3750,7 @@
       "Name": "Throwing up Tags",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 6444
+      "UsersEstimate": 6445
     },
     {
       "ID": "achievement_38",
@@ -3753,7 +3758,7 @@
       "Name": "Fashion Killa",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 6167
+      "UsersEstimate": 6168
     },
     {
       "ID": "achievement_39",
@@ -3761,7 +3766,7 @@
       "Name": "Cool Whip",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 6236
+      "UsersEstimate": 6237
     },
     {
       "ID": "achievement_4",
@@ -3777,7 +3782,7 @@
       "Name": "Kick it",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2217
+      "UsersEstimate": 2218
     },
     {
       "ID": "achievement_41",
@@ -3785,7 +3790,7 @@
       "Name": "Drop the Beat",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 5959
+      "UsersEstimate": 5960
     },
     {
       "ID": "achievement_5",
@@ -3832,13 +3837,13 @@
     {
       "ID": "d0n64ce",
       "IsBase": true,
-      "Progressed": 6929,
+      "Progressed": 6930,
       "Completed": 41
     }
   ],
   "FirstSeenAchievements": "2023-07-25T22:03:37.4196764+00:00",
-  "LastChanged_Achievements": "2023-10-19T09:04:05.131117+00:00",
+  "LastChanged_Achievements": "2023-10-19T10:04:01.8809438+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:22.4820497+00:00",
-  "LastUpdate_Ratings": "2023-10-19T08:57:24.2954925+00:00",
-  "LastUpdate_Achievements": "2023-10-19T09:04:05.1311851+00:00"
+  "LastUpdate_Ratings": "2023-10-19T09:57:39.0192489+00:00",
+  "LastUpdate_Achievements": "2023-10-19T10:04:01.8810031+00:00"
 }

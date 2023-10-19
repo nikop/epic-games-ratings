@@ -6,41 +6,41 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 3.00% | ~28,468 |
-| Handyman | 2.00% | ~18,979 |
-| Zealous | 2.00% | ~18,979 |
-| Not half bad | 2.00% | ~18,979 |
-| Apt Survivor | 2.00% | ~18,979 |
-| Survival Treasures | 2.00% | ~18,979 |
-| Skillful | 2.00% | ~18,979 |
-| Sorted | 2.00% | ~18,979 |
-| Make Some Noise | 2.00% | ~18,979 |
-| The Grand Sacrifice | 1.00% | ~9,489 |
-| Agonizing Escape | 1.00% | ~9,489 |
-| Backdoor Escape | 1.00% | ~9,489 |
-| I've got your back | 1.00% | ~9,489 |
-| No one left behind | 1.00% | ~9,489 |
-| Medic | 1.00% | ~9,489 |
-| Nerves of steel | 1.00% | ~9,489 |
-| Perfect Escape | 1.00% | ~9,489 |
-| Perfect Killing | 1.00% | ~9,489 |
-| Bloody Millionaire | 1.00% | ~9,489 |
-| Risk it all | 1.00% | ~9,489 |
-| I | 1.00% | ~9,489 |
-| II | 1.00% | ~9,489 |
-| Engineer | 1.00% | ~9,489 |
-| Wounded Healer | 1.00% | ~9,489 |
-| Healthy Obsession | 1.00% | ~9,489 |
-| Resurgence | 1.00% | ~9,489 |
-| Close Shave | 1.00% | ~9,489 |
-| Preemptive Strike | 1.00% | ~9,489 |
-| Humanitarian | 1.00% | ~9,489 |
-| Apt Killer | 0.90% | ~8,540 |
-| Vulture | 0.90% | ~8,540 |
-| Second Act | 0.90% | ~8,540 |
-| III | 0.80% | ~7,591 |
-| With Scars to Show | 0.80% | ~7,591 |
-| Rebuilding The Borgo | 0.80% | ~7,591 |
+| It wakes | 3.00% | ~28,470 |
+| Handyman | 2.00% | ~18,980 |
+| Zealous | 2.00% | ~18,980 |
+| Not half bad | 2.00% | ~18,980 |
+| Apt Survivor | 2.00% | ~18,980 |
+| Survival Treasures | 2.00% | ~18,980 |
+| Skillful | 2.00% | ~18,980 |
+| Sorted | 2.00% | ~18,980 |
+| Make Some Noise | 2.00% | ~18,980 |
+| The Grand Sacrifice | 1.00% | ~9,490 |
+| Agonizing Escape | 1.00% | ~9,490 |
+| Backdoor Escape | 1.00% | ~9,490 |
+| I've got your back | 1.00% | ~9,490 |
+| No one left behind | 1.00% | ~9,490 |
+| Medic | 1.00% | ~9,490 |
+| Nerves of steel | 1.00% | ~9,490 |
+| Perfect Escape | 1.00% | ~9,490 |
+| Perfect Killing | 1.00% | ~9,490 |
+| Bloody Millionaire | 1.00% | ~9,490 |
+| Risk it all | 1.00% | ~9,490 |
+| I | 1.00% | ~9,490 |
+| II | 1.00% | ~9,490 |
+| Engineer | 1.00% | ~9,490 |
+| Wounded Healer | 1.00% | ~9,490 |
+| Healthy Obsession | 1.00% | ~9,490 |
+| Resurgence | 1.00% | ~9,490 |
+| Close Shave | 1.00% | ~9,490 |
+| Preemptive Strike | 1.00% | ~9,490 |
+| Humanitarian | 1.00% | ~9,490 |
+| Apt Killer | 0.90% | ~8,541 |
+| Vulture | 0.90% | ~8,541 |
+| Second Act | 0.90% | ~8,541 |
+| III | 0.80% | ~7,592 |
+| With Scars to Show | 0.80% | ~7,592 |
+| Rebuilding The Borgo | 0.80% | ~7,592 |
 | Escape Artist | 0.70% | ~6,643 |
 | Cherish your Life | 0.70% | ~6,643 |
 | First to the Punch | 0.70% | ~6,643 |
@@ -104,6 +104,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Complete the Evolution | 0.30% | ~2,847 |
 | In the void she walks | 0.20% | ~1,898 |
 | Looter | 0.20% | ~1,898 |
+| Happy Holidays | 0.20% | ~1,898 |
 | Denied! | 0.20% | ~1,898 |
 | Death of Ignorance | 0.20% | ~1,898 |
 | Punch Drunk | 0.20% | ~1,898 |
@@ -147,7 +148,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Nightmare | 0.10% | ~949 |
 | Adept Quentin | 0.10% | ~949 |
 | Milk 'n' Cookies | 0.10% | ~949 |
-| Happy Holidays | 0.10% | ~949 |
 | I Want to Play a Game | 0.10% | ~949 |
 | Adept Pig | 0.10% | ~949 |
 | Adept Tapp | 0.10% | ~949 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~949 |
 | Adept Ripley | 0.10% | ~949 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 948,932 (Ranked 14)  
+Progressed: 949,011 (Ranked 14)  
 Completed: 51 (0.01%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -418,7 +418,7 @@ Completed: 51 (0.01%) (Ranked 298)
 | 2023-10-16 | 944,360 | 51 |
 | 2023-10-17 | 946,172 | 51 |
 | 2023-10-18 | 948,147 | 51 |
-| 2023-10-19 | 948,932 | 51 |
+| 2023-10-19 | 949,011 | 51 |
 ## Awards
 Max (Diverse Characters): 34,176  (Ranked 15)  
 Sum: 263,698 (Ranked 13)  

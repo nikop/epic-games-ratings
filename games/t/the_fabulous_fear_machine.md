@@ -27,9 +27,9 @@
 | You had one wish left | 27.00% | ~8 |
 | You've awakened the beast | 23.00% | ~7 |
 | Hate is... addictive | 23.00% | ~7 |
+| Blessed antennas | 20.00% | ~6 |
 | The bully | 20.00% | ~6 |
 | The barbarian invasions | 20.00% | ~6 |
-| Blessed antennas | 17.00% | ~5 |
 | The beast in the Oval Office | 17.00% | ~5 |
 | Blood Red Island | 17.00% | ~5 |
 | Bread and bocaua | 17.00% | ~5 |

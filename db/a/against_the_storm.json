@@ -3115,7 +3115,7 @@
   ],
   "EOS_Progressed": 16973,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -12374,9 +12374,9 @@
       "ID": "WinNearDangerous",
       "SetID": "cfbk359",
       "Name": "Dangerous Lands",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 339
+      "UsersEstimate": 509
     },
     {
       "ID": "WinNearFertile",
@@ -12630,8 +12630,8 @@
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-10-15T11:59:20.8404524+00:00",
-  "LastChanged_Achievements": "2023-10-19T09:04:08.4878579+00:00",
+  "LastChanged_Achievements": "2023-10-19T10:04:05.1772572+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:53.7787195+00:00",
-  "LastUpdate_Ratings": "2023-10-19T09:00:17.6188596+00:00",
-  "LastUpdate_Achievements": "2023-10-19T09:04:08.4879782+00:00"
+  "LastUpdate_Ratings": "2023-10-19T10:00:38.1575338+00:00",
+  "LastUpdate_Achievements": "2023-10-19T10:04:05.1773837+00:00"
 }

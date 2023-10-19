@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 415,
+  "EOS_Progressed": 416,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 4.1,
+  "EOS_Completed_Percentage": 4.09,
   "EosHistory": [
     {
       "Time": "2023-09-09T22:06:11.6454215+00:00",
@@ -1059,6 +1059,11 @@
       "Time": "2023-10-19T08:06:29.0778782+00:00",
       "NumProgressed": 415,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-10-19T10:05:35.4182581+00:00",
+      "NumProgressed": 416,
+      "NumCompleted": 17
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -1079,7 +1084,7 @@
       "Name": "Brain-teaser",
       "Percentage": 48,
       "XP": 85,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "ACH_DONUTS",
@@ -1095,7 +1100,7 @@
       "Name": "An apple a day",
       "Percentage": 56,
       "XP": 75,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "ACH_GET_BACK_TO_WORK",
@@ -1143,21 +1148,21 @@
       "Name": "Exit",
       "Percentage": 54,
       "XP": 65,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     }
   ],
   "AchievementSets": [
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 415,
+      "Progressed": 416,
       "Completed": 17
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-10-19T09:05:37.9145305+00:00",
+  "LastChanged_Achievements": "2023-10-19T10:05:35.4182575+00:00",
   "LastUpdate_AppInfo": "2023-10-13T13:03:11.5956346+00:00",
-  "LastUpdate_Ratings": "2023-10-19T09:03:11.0164045+00:00",
-  "LastUpdate_Achievements": "2023-10-19T09:05:37.9145502+00:00"
+  "LastUpdate_Ratings": "2023-10-19T10:03:05.2641315+00:00",
+  "LastUpdate_Achievements": "2023-10-19T10:05:35.418277+00:00"
 }

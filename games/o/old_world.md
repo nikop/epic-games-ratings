@@ -79,20 +79,21 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lion | 0.70% | ~104 |
 | Victorious | 0.70% | ~104 |
 | Good Difficulty | 0.70% | ~104 |
+| Patrons | 0.70% | ~104 |
 | Learn to Play 3 | 0.70% | ~104 |
+| Greece | 0.70% | ~104 |
 | Power to the People | 0.70% | ~104 |
 | Building Wonders | 0.70% | ~104 |
 | Points Victory | 0.70% | ~104 |
 | Invincible | 0.60% | ~89 |
 | Subjugator | 0.60% | ~89 |
 | Landowners | 0.60% | ~89 |
-| Patrons | 0.60% | ~89 |
 | Riders | 0.60% | ~89 |
 | Circus Maximus | 0.60% | ~89 |
 | Temple of Solomon | 0.60% | ~89 |
 | Pantheon | 0.60% | ~89 |
 | Via Recta Souk | 0.60% | ~89 |
-| Greece | 0.60% | ~89 |
+| Learn to Play 4 | 0.60% | ~89 |
 | Persian Paganism | 0.60% | ~89 |
 | Legalism | 0.60% | ~89 |
 | Redemption | 0.60% | ~89 |
@@ -106,7 +107,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Iron | 0.50% | ~74 |
 | Hagia Sophia | 0.50% | ~74 |
 | Church of the Holy Sepulchre | 0.50% | ~74 |
-| Learn to Play 4 | 0.50% | ~74 |
 | Babylonia | 0.50% | ~74 |
 | Carthage | 0.50% | ~74 |
 | Economic Reform | 0.50% | ~74 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,797 (Ranked 136)  
+Progressed: 14,799 (Ranked 136)  
 Completed: 5 (0.03%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -531,7 +531,7 @@ Completed: 5 (0.03%) (Ranked 285)
 | 2023-10-16 | 14,747 | 5 |
 | 2023-10-17 | 14,775 | 5 |
 | 2023-10-18 | 14,791 | 5 |
-| 2023-10-19 | 14,797 | 5 |
+| 2023-10-19 | 14,799 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,847 (Ranked 211)  

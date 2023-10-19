@@ -2723,9 +2723,9 @@
       "Count": 146
     }
   ],
-  "EOS_Progressed": 655297,
+  "EOS_Progressed": 655302,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 1976,
+  "EOS_NewPlayers": 1977,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23303,6 +23303,11 @@
       "Time": "2023-10-19T09:05:19.8551444+00:00",
       "NumProgressed": 655297,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-10-19T10:05:17.0398091+00:00",
+      "NumProgressed": 655302,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 52,
@@ -23354,7 +23359,7 @@
       "Name": "Advanced Stroller",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 117953
+      "UsersEstimate": 117954
     },
     {
       "ID": "_01_06_DISTANCE_200_MEDIUM",
@@ -23562,7 +23567,7 @@
       "Name": "Incurious",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 111400
+      "UsersEstimate": 111401
     },
     {
       "ID": "_03_01_MOJAVE_COURIER",
@@ -23666,7 +23671,7 @@
       "Name": "Terminal Station",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 3276
+      "UsersEstimate": 3277
     },
     {
       "ID": "_11_00_WHERE_THEY_BELONG",
@@ -23729,15 +23734,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 655297,
+      "Progressed": 655302,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-10-17T01:43:29.4034192+00:00",
-  "LastChanged_Achievements": "2023-10-19T09:05:19.8551435+00:00",
+  "LastChanged_Achievements": "2023-10-19T10:05:17.0397908+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:10.7183128+00:00",
-  "LastUpdate_Ratings": "2023-10-19T09:00:25.5657082+00:00",
-  "LastUpdate_Achievements": "2023-10-19T09:05:19.855324+00:00"
+  "LastUpdate_Ratings": "2023-10-19T10:00:46.2894045+00:00",
+  "LastUpdate_Achievements": "2023-10-19T10:05:17.0399653+00:00"
 }

@@ -27,12 +27,12 @@ Rating: 4.57 (Ranked 457)
 | Data Logger | 1.00% | ~141 |
 | Brother's Reaper | 1.00% | ~141 |
 | No Belter Left Behind | 1.00% | ~141 |
-| Data Master | 0.90% | ~127 |
+| Data Master | 1.00% | ~141 |
 | Debris Spree | 0.70% | ~99 |
 | Data Recoverer | 0.60% | ~85 |
 | Urshanabi Hoarder | 0.50% | ~71 |
+| Grave Robber | 0.40% | ~56 |
 | Data Miner | 0.30% | ~42 |
-| Grave Robber | 0.30% | ~42 |
 | Scavenger Star | 0.20% | ~28 |
 | Data Collector | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)

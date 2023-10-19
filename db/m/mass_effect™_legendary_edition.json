@@ -2608,9 +2608,9 @@
       "ID": "achievement_70",
       "SetID": "d252ncf",
       "Name": "Operative",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 303
+      "UsersEstimate": 310
     },
     {
       "ID": "achievement_71",
@@ -2876,8 +2876,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-19T09:06:24.0187046+00:00",
+  "LastChanged_Achievements": "2023-10-19T10:06:21.7886768+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:30.4071338+00:00",
-  "LastUpdate_Ratings": "2023-10-19T09:03:17.2002381+00:00",
-  "LastUpdate_Achievements": "2023-10-19T09:06:24.0190298+00:00"
+  "LastUpdate_Ratings": "2023-10-19T10:03:11.5189311+00:00",
+  "LastUpdate_Achievements": "2023-10-19T10:06:21.7888891+00:00"
 }
