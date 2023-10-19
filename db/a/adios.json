@@ -3,8 +3,8 @@
   "Name": "Adios",
   "ProductSlug": "adios-b378b4",
   "Ranking_Rating": 1016,
-  "Ranking_Popularity": 539,
-  "Ranking_PopularitySum": 539,
+  "Ranking_Popularity": 538,
+  "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 143,
   "Ranking_EOS_NewPlayers": 85,
@@ -117,7 +117,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 76155,
+  "EOS_Progressed": 76156,
   "EOS_Completed": 799,
   "EOS_NewPlayers": 595,
   "EOS_NewCompleters": 6,
@@ -20392,6 +20392,11 @@
       "Time": "2023-10-19T06:05:24.955406+00:00",
       "NumProgressed": 76155,
       "NumCompleted": 799
+    },
+    {
+      "Time": "2023-10-19T07:07:24.2872396+00:00",
+      "NumProgressed": 76156,
+      "NumCompleted": 799
     }
   ],
   "TotalAchievements": 25,
@@ -20523,7 +20528,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 14469
+      "UsersEstimate": 14470
     },
     {
       "ID": "Nice Try",
@@ -20602,7 +20607,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 76155,
+      "Progressed": 76156,
       "Completed": 799
     }
   ],
@@ -20610,8 +20615,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-10-19T06:05:24.9554053+00:00",
+  "LastChanged_Achievements": "2023-10-19T07:07:24.2872392+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:21.8706974+00:00",
-  "LastUpdate_Ratings": "2023-10-19T06:00:16.9425115+00:00",
-  "LastUpdate_Achievements": "2023-10-19T06:05:24.9555607+00:00"
+  "LastUpdate_Ratings": "2023-10-19T07:03:05.3345918+00:00",
+  "LastUpdate_Achievements": "2023-10-19T07:07:24.2874147+00:00"
 }

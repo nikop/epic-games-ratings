@@ -1,9 +1,9 @@
 {
   "ID": "4f0c540d1d15442a964e199cf1f6e620",
   "Name": "laserlemon Production",
-  "Ranking_EOS_Progress": 525,
-  "Ranking_EOS_Completed": 42,
-  "Ranking_EOS_NewPlayers": 402,
+  "Ranking_EOS_Progress": 519,
+  "Ranking_EOS_Completed": 43,
+  "Ranking_EOS_NewPlayers": 340,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": null,
@@ -17,11 +17,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 12,
+  "EOS_Progressed": 13,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 8.33,
+  "EOS_Completed_Percentage": 7.69,
   "EosHistory": [
     {
       "Time": "2023-08-02T10:03:33.724882+00:00",
@@ -87,6 +87,11 @@
       "Time": "2023-10-18T08:06:17.9124731+00:00",
       "NumProgressed": 12,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-19T07:08:39.5194012+00:00",
+      "NumProgressed": 13,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-02T10:03:33.7248854+00:00",
@@ -97,7 +102,7 @@
       "ID": "AshesInTheMaw",
       "SetID": "c36hpcf",
       "Name": "Ashes in The Maw",
-      "Percentage": 17,
+      "Percentage": 15,
       "XP": 200,
       "UsersEstimate": 2
     },
@@ -105,7 +110,7 @@
       "ID": "AshesToAshes",
       "SetID": "c36hpcf",
       "Name": "Ashes to Ashes",
-      "Percentage": 17,
+      "Percentage": 15,
       "XP": 155,
       "UsersEstimate": 2
     },
@@ -113,7 +118,7 @@
       "ID": "Elusive",
       "SetID": "c36hpcf",
       "Name": "Elusive",
-      "Percentage": 17,
+      "Percentage": 15,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -121,7 +126,7 @@
       "ID": "EndInSight",
       "SetID": "c36hpcf",
       "Name": "End in Sight",
-      "Percentage": 17,
+      "Percentage": 15,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -129,7 +134,7 @@
       "ID": "FunAndGamesAhead",
       "SetID": "c36hpcf",
       "Name": "Fun and Games Ahead",
-      "Percentage": 17,
+      "Percentage": 15,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -137,7 +142,7 @@
       "ID": "Glissando",
       "SetID": "c36hpcf",
       "Name": "Six\u0027s Song",
-      "Percentage": 17,
+      "Percentage": 15,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -153,7 +158,7 @@
       "ID": "HighlySprung",
       "SetID": "c36hpcf",
       "Name": "Highly Sprung",
-      "Percentage": 17,
+      "Percentage": 15,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -161,7 +166,7 @@
       "ID": "ImLosingYou",
       "SetID": "c36hpcf",
       "Name": "I\u0027m Losing You",
-      "Percentage": 17,
+      "Percentage": 15,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -169,7 +174,7 @@
       "ID": "IsAnybodyOutThere",
       "SetID": "c36hpcf",
       "Name": "Is Anybody Out There?",
-      "Percentage": 17,
+      "Percentage": 15,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -177,7 +182,7 @@
       "ID": "KitchenHand",
       "SetID": "c36hpcf",
       "Name": "Kitchen Hand",
-      "Percentage": 17,
+      "Percentage": 15,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -185,7 +190,7 @@
       "ID": "LightUpYourLife",
       "SetID": "c36hpcf",
       "Name": "Light Up Your life",
-      "Percentage": 25,
+      "Percentage": 23,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -201,7 +206,7 @@
       "ID": "NotAlone",
       "SetID": "c36hpcf",
       "Name": "Not Alone",
-      "Percentage": 17,
+      "Percentage": 15,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -209,7 +214,7 @@
       "ID": "Rascal",
       "SetID": "c36hpcf",
       "Name": "Rascal",
-      "Percentage": 17,
+      "Percentage": 15,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -217,7 +222,7 @@
       "ID": "SoClose",
       "SetID": "c36hpcf",
       "Name": "So Close",
-      "Percentage": 17,
+      "Percentage": 15,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -225,7 +230,7 @@
       "ID": "TheGuestArea",
       "SetID": "c36hpcf",
       "Name": "The Guest Area",
-      "Percentage": 17,
+      "Percentage": 15,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -233,7 +238,7 @@
       "ID": "TheKitchen",
       "SetID": "c36hpcf",
       "Name": "The Kitchen",
-      "Percentage": 33,
+      "Percentage": 31,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -241,7 +246,7 @@
       "ID": "TheLadysQuarters",
       "SetID": "c36hpcf",
       "Name": "The Lady\u0027s Quarters",
-      "Percentage": 17,
+      "Percentage": 15,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -249,7 +254,7 @@
       "ID": "TheLair",
       "SetID": "c36hpcf",
       "Name": "The Lair",
-      "Percentage": 25,
+      "Percentage": 23,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -257,7 +262,7 @@
       "ID": "ThePrison",
       "SetID": "c36hpcf",
       "Name": "The Prison",
-      "Percentage": 33,
+      "Percentage": 31,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -265,7 +270,7 @@
       "ID": "WellMeetAgain",
       "SetID": "c36hpcf",
       "Name": "We\u0027ll Meet Again",
-      "Percentage": 17,
+      "Percentage": 15,
       "XP": 15,
       "UsersEstimate": 2
     }
@@ -274,13 +279,13 @@
     {
       "ID": "c36hpcf",
       "IsBase": true,
-      "Progressed": 12,
+      "Progressed": 13,
       "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-06-15T10:05:55.6712787+00:00",
-  "LastChanged_Achievements": "2023-10-19T06:06:17.942859+00:00",
+  "LastChanged_Achievements": "2023-10-19T07:08:39.5194007+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:33:12.9758527+00:00",
-  "LastUpdate_Ratings": "2023-10-19T06:00:13.2772375+00:00",
-  "LastUpdate_Achievements": "2023-10-19T06:06:17.9428759+00:00"
+  "LastUpdate_Ratings": "2023-10-19T07:02:19.9314628+00:00",
+  "LastUpdate_Achievements": "2023-10-19T07:08:39.5194199+00:00"
 }

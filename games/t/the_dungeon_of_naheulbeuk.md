@@ -6,12 +6,12 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 33.00% | ~76,456 |
-| Alt+F4 | 7.00% | ~16,218 |
-| Where's that freaking Dwarf? | 6.00% | ~13,901 |
-| Déjà vu | 5.00% | ~11,584 |
-| Sock! SOCK! | 4.00% | ~9,267 |
-| Speedrun | 4.00% | ~9,267 |
+| Sowwy! | 33.00% | ~76,459 |
+| Alt+F4 | 7.00% | ~16,219 |
+| Where's that freaking Dwarf? | 6.00% | ~13,902 |
+| Déjà vu | 5.00% | ~11,585 |
+| Sock! SOCK! | 4.00% | ~9,268 |
+| Speedrun | 4.00% | ~9,268 |
 | A beer, two curses, three companions | 3.00% | ~6,951 |
 | GG EZ | 3.00% | ~6,951 |
 | DM intervention | 3.00% | ~6,951 |
@@ -43,7 +43,7 @@ Number of Ratings: 118  (23.09.2022)
 | Thieves' Guild Accreditation | 1.00% | ~2,317 |
 | Dead for good | 0.90% | ~2,085 |
 | Material Girl | 0.90% | ~2,085 |
-| Gargantua | 0.80% | ~1,853 |
+| Gargantua | 0.80% | ~1,854 |
 | In Navalu's footsteps | 0.70% | ~1,622 |
 | We come in peace | 0.60% | ~1,390 |
 | Lëgal Legend | 0.60% | ~1,390 |
@@ -51,10 +51,10 @@ Number of Ratings: 118  (23.09.2022)
 | An old poacher makes the best gamekeeper | 0.50% | ~1,158 |
 | Law and Order | 0.50% | ~1,158 |
 | Scholar of the Lands of Fangh | 0.40% | ~927 |
+| It's been a hard day's night | 0.40% | ~927 |
 | Friendly fire | 0.30% | ~695 |
 | I'd rather... Just... Sing! | 0.30% | ~695 |
 | Inception | 0.30% | ~695 |
-| It's been a hard day's night | 0.30% | ~695 |
 | The number of the counting shalt be 7 | 0.20% | ~463 |
 | Kudos from your DM | 0.20% | ~463 |
 | 100% satisfaction guarantee | 0.20% | ~463 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~232 |
 | Dwarf Candy | 0.10% | ~232 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,685 (Ranked 60)  
+Progressed: 231,693 (Ranked 60)  
 Completed: 6 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 6 (0.00%) (Ranked 316)
 | 2023-10-16 | 231,330 | 5 |
 | 2023-10-17 | 231,503 | 6 |
 | 2023-10-18 | 231,653 | 6 |
-| 2023-10-19 | 231,685 | 6 |
+| 2023-10-19 | 231,693 | 6 |
 ## Awards
 Max (Character Customization): 216  (Ranked 273)  
 Sum: 427 (Ranked 326)  

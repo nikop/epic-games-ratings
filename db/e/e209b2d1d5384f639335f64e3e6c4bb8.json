@@ -3,8 +3,8 @@
   "Name": "Homeworld: Deserts of Kharak",
   "ProductSlug": "homeworld-deserts-of-kharak",
   "Ranking_Rating": 731,
-  "Ranking_Popularity": 539,
-  "Ranking_PopularitySum": 539,
+  "Ranking_Popularity": 538,
+  "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 27,
@@ -213,9 +213,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 310410,
+  "EOS_Progressed": 310415,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3700,
+  "EOS_NewPlayers": 3692,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6948,6 +6948,11 @@
       "Time": "2023-10-19T06:08:25.7964354+00:00",
       "NumProgressed": 310410,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-19T07:10:10.4672712+00:00",
+      "NumProgressed": 310415,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-03T18:03:11.7010747+00:00",
@@ -6984,7 +6989,7 @@
       "Name": "Epsilon Base",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 136580
+      "UsersEstimate": 136583
     },
     {
       "ID": "ACHV_M02_COMPLETE",
@@ -6992,7 +6997,7 @@
       "Name": "The Boneyard",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 99331
+      "UsersEstimate": 99333
     },
     {
       "ID": "ACHV_M03_COMPLETE",
@@ -7000,7 +7005,7 @@
       "Name": "Cape Wrath",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 65186
+      "UsersEstimate": 65187
     },
     {
       "ID": "ACHV_M04_COMPLETE",
@@ -7016,7 +7021,7 @@
       "Name": "Kalash Wreck",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 37249
+      "UsersEstimate": 37250
     },
     {
       "ID": "ACHV_M06_COMPLETE",
@@ -7024,7 +7029,7 @@
       "Name": "Beladin Dune Sea",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 31041
+      "UsersEstimate": 31042
     },
     {
       "ID": "ACHV_M07_COMPLETE",
@@ -7336,20 +7341,20 @@
       "Name": "Campaign Tutorial",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 158309
+      "UsersEstimate": 158312
     }
   ],
   "AchievementSets": [
     {
       "ID": "2l5j4fd",
       "IsBase": true,
-      "Progressed": 310410,
+      "Progressed": 310415,
       "Completed": 0
     },
     {
       "ID": "a9dj9gi",
       "IsBase": false,
-      "Progressed": 310399,
+      "Progressed": 310404,
       "Completed": 0
     }
   ],
@@ -7357,8 +7362,8 @@
   "FirstSeenRating": "2023-08-25T17:58:52.6937375+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5079141+00:00",
   "LastChanged": "2023-10-13T07:59:04.9040591+00:00",
-  "LastChanged_Achievements": "2023-10-19T06:08:25.7964349+00:00",
+  "LastChanged_Achievements": "2023-10-19T07:10:10.4672707+00:00",
   "LastUpdate_AppInfo": "2023-10-12T19:57:11.8146865+00:00",
-  "LastUpdate_Ratings": "2023-10-19T06:02:08.839257+00:00",
-  "LastUpdate_Achievements": "2023-10-19T06:08:25.7965153+00:00"
+  "LastUpdate_Ratings": "2023-10-19T07:03:20.6471701+00:00",
+  "LastUpdate_Achievements": "2023-10-19T07:10:10.4673672+00:00"
 }

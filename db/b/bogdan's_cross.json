@@ -4,7 +4,7 @@
   "ProductSlug": "bogdans-cross-1b5dc5",
   "Ranking_EOS_Progress": 681,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 402,
+  "Ranking_EOS_NewPlayers": 403,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-14T15:57:05.3988265+00:00",
-  "LastUpdate_Ratings": "2023-10-19T05:58:29.9785317+00:00",
-  "LastUpdate_Achievements": "2023-10-19T06:03:45.4891696+00:00"
+  "LastUpdate_Ratings": "2023-10-19T06:59:40.5842419+00:00",
+  "LastUpdate_Achievements": "2023-10-19T07:05:03.0839645+00:00"
 }

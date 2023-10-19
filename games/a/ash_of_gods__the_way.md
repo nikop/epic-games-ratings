@@ -10,6 +10,7 @@
 | Train hard, fight easy | 50.00% | ~2 |
 | Royal blessing | 50.00% | ~2 |
 | Under cover | 50.00% | ~2 |
+| Power of Inquisition | 25.00% | ~1 |
 | Surpass the teacher | 25.00% | ~1 |
 | By own strength | 25.00% | ~1 |
 | A solo player | 25.00% | ~1 |
@@ -23,7 +24,6 @@
 | Overplay the rogue | 0.00% | ~0 |
 | Supplier | 0.00% | ~0 |
 | Berkanan Borgia | 0.00% | ~0 |
-| Power of Inquisition | 0.00% | ~0 |
 | Master of the Way | 0.00% | ~0 |
 | The best apprentice | 0.00% | ~0 |
 | The champion of the arena | 0.00% | ~0 |

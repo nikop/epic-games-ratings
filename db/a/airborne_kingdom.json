@@ -3,11 +3,11 @@
   "Name": "Airborne Kingdom",
   "ProductSlug": "airborne-kingdom",
   "Ranking_Rating": 324,
-  "Ranking_Popularity": 539,
-  "Ranking_PopularitySum": 539,
+  "Ranking_Popularity": 538,
+  "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -322,9 +322,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7359,
+  "EOS_Progressed": 7360,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -5077,6 +5077,11 @@
       "Time": "2023-10-18T14:08:25.4607604+00:00",
       "NumProgressed": 7359,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-10-19T07:09:16.9039005+00:00",
+      "NumProgressed": 7360,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 27,
@@ -5096,7 +5101,7 @@
       "Name": "Daylight Found",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1913
+      "UsersEstimate": 1914
     },
     {
       "ID": "AK_FIELDS_WATERED",
@@ -5104,7 +5109,7 @@
       "Name": "Fields Watered",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 3017
+      "UsersEstimate": 3018
     },
     {
       "ID": "AK_GLOWING_WATERS",
@@ -5120,7 +5125,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3900
+      "UsersEstimate": 3901
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -5224,7 +5229,7 @@
       "Name": "Seekers Found",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 3017
+      "UsersEstimate": 3018
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -5232,7 +5237,7 @@
       "Name": "Settling the Skies",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 3017
+      "UsersEstimate": 3018
     },
     {
       "ID": "AK_SMALL_COMMUNITY",
@@ -5240,7 +5245,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4121
+      "UsersEstimate": 4122
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -5280,7 +5285,7 @@
       "Name": "A Wanderer\u2019s Guide",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 809
+      "UsersEstimate": 810
     },
     {
       "ID": "AK_WIND_POWERED",
@@ -5303,15 +5308,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7359,
+      "Progressed": 7360,
       "Completed": 55
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-08-27T09:59:24.0528306+00:00",
-  "LastChanged_Achievements": "2023-10-19T06:06:44.6754184+00:00",
+  "LastChanged_Achievements": "2023-10-19T07:09:16.9039+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:12.3218327+00:00",
-  "LastUpdate_Ratings": "2023-10-19T05:57:04.3294667+00:00",
-  "LastUpdate_Achievements": "2023-10-19T06:06:44.6754862+00:00"
+  "LastUpdate_Ratings": "2023-10-19T06:57:28.8825257+00:00",
+  "LastUpdate_Achievements": "2023-10-19T07:09:16.9039434+00:00"
 }

@@ -5,53 +5,53 @@ Rating: 4.61 (Ranked 378)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bootstrapping | 65.00% | ~157,472 |
-| Shine On | 61.00% | ~147,781 |
-| On the Job | 59.00% | ~142,936 |
-| Room for Expansion | 58.00% | ~140,513 |
-| Get Stuck In | 57.00% | ~138,090 |
-| Chill Out | 57.00% | ~138,090 |
-| Sales Pitch | 55.00% | ~133,245 |
-| Grand Designs | 53.00% | ~128,400 |
-| Tinker | 51.00% | ~123,555 |
-| Hot Stuff | 48.00% | ~116,287 |
-| MOAR RGB | 45.00% | ~109,019 |
-| Dream Theme | 38.00% | ~92,060 |
-| Working Hard | 36.00% | ~87,215 |
-| The Customer is King | 36.00% | ~87,215 |
-| On the Bench | 35.00% | ~84,792 |
-| The More the Merrier | 34.00% | ~82,370 |
-| Mix and Match | 31.00% | ~75,102 |
-| Recycler | 31.00% | ~75,102 |
-| Full Throttle | 30.00% | ~72,679 |
-| Very Imported PC | 30.00% | ~72,679 |
-| Foot in the Door | 30.00% | ~72,679 |
-| Pimp My Rig | 26.00% | ~62,989 |
-| Repair Master | 26.00% | ~62,989 |
-| Local Hero | 23.00% | ~55,721 |
-| Broken to Smokin' | 22.00% | ~53,298 |
-| Workaholic | 22.00% | ~53,298 |
-| Bench Warmer | 22.00% | ~53,298 |
-| Cinematic | 20.00% | ~48,453 |
-| Thanks Jeff | 20.00% | ~48,453 |
-| Gift of the Gab | 20.00% | ~48,453 |
-| Salvage Squad | 20.00% | ~48,453 |
-| On the Ladder | 19.00% | ~46,030 |
-| Stick With It | 19.00% | ~46,030 |
+| Bootstrapping | 65.00% | ~157,475 |
+| Shine On | 61.00% | ~147,784 |
+| On the Job | 59.00% | ~142,939 |
+| Room for Expansion | 58.00% | ~140,516 |
+| Get Stuck In | 57.00% | ~138,093 |
+| Chill Out | 57.00% | ~138,093 |
+| Sales Pitch | 55.00% | ~133,248 |
+| Grand Designs | 53.00% | ~128,403 |
+| Tinker | 51.00% | ~123,557 |
+| Hot Stuff | 48.00% | ~116,289 |
+| MOAR RGB | 45.00% | ~109,021 |
+| Dream Theme | 38.00% | ~92,062 |
+| Working Hard | 36.00% | ~87,217 |
+| The Customer is King | 36.00% | ~87,217 |
+| On the Bench | 35.00% | ~84,794 |
+| The More the Merrier | 34.00% | ~82,371 |
+| Mix and Match | 31.00% | ~75,103 |
+| Recycler | 31.00% | ~75,103 |
+| Full Throttle | 30.00% | ~72,681 |
+| Very Imported PC | 30.00% | ~72,681 |
+| Foot in the Door | 30.00% | ~72,681 |
+| Pimp My Rig | 26.00% | ~62,990 |
+| Repair Master | 26.00% | ~62,990 |
+| Local Hero | 23.00% | ~55,722 |
+| Broken to Smokin' | 22.00% | ~53,299 |
+| Workaholic | 22.00% | ~53,299 |
+| Bench Warmer | 22.00% | ~53,299 |
+| Cinematic | 20.00% | ~48,454 |
+| Thanks Jeff | 20.00% | ~48,454 |
+| Gift of the Gab | 20.00% | ~48,454 |
+| Salvage Squad | 20.00% | ~48,454 |
+| On the Ladder | 19.00% | ~46,031 |
+| Stick With It | 19.00% | ~46,031 |
 | Variations on a Theme | 18.00% | ~43,608 |
 | Cowboy | 18.00% | ~43,608 |
 | Slap Happy | 18.00% | ~43,608 |
-| Paste Not, Want Not | 16.00% | ~38,762 |
-| Supercool | 16.00% | ~38,762 |
+| Paste Not, Want Not | 16.00% | ~38,763 |
+| Supercool | 16.00% | ~38,763 |
 | Stabiliser | 15.00% | ~36,340 |
 | This One Goes to 11 | 15.00% | ~36,340 |
-| Going Places | 13.00% | ~31,494 |
-| Forgetful Shopper | 13.00% | ~31,494 |
+| Going Places | 13.00% | ~31,495 |
+| Forgetful Shopper | 13.00% | ~31,495 |
 | Showpiece | 9.00% | ~21,804 |
 | Bench Press | 9.00% | ~21,804 |
-| Matching Set | 8.00% | ~19,381 |
-| Tech Vet | 7.00% | ~16,958 |
-| Salesperson of the Month | 7.00% | ~16,958 |
+| Matching Set | 8.00% | ~19,382 |
+| Tech Vet | 7.00% | ~16,959 |
+| Salesperson of the Month | 7.00% | ~16,959 |
 | Making It Mine | 6.00% | ~14,536 |
 | Ship It | 6.00% | ~14,536 |
 | Elite Technician | 5.00% | ~12,113 |
@@ -65,7 +65,7 @@ Rating: 4.61 (Ranked 378)
 | Keep 'Em Coming | 0.30% | ~727 |
 | Export Expert | 0.20% | ~485 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,264 (Ranked 55)  
+Progressed: 242,269 (Ranked 55)  
 Completed: 149 (0.06%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 149 (0.06%) (Ranked 269)
 | 2023-10-16 | 241,682 | 148 |
 | 2023-10-17 | 241,921 | 149 |
 | 2023-10-18 | 242,201 | 149 |
-| 2023-10-19 | 242,264 | 149 |
+| 2023-10-19 | 242,269 | 149 |
 ## Awards
 Max (Great for Beginners): 708  (Ranked 178)  
 Sum: 5,082 (Ranked 134)  

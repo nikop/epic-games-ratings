@@ -3,7 +3,7 @@
   "Name": "Spirit of the North",
   "ProductSlug": "spirit-of-the-north-f58a66",
   "Ranking_Rating": 762,
-  "Ranking_Popularity": 501,
+  "Ranking_Popularity": 500,
   "Ranking_PopularitySum": 425,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 177,
@@ -327,9 +327,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 71737,
+  "EOS_Progressed": 71738,
   "EOS_Completed": 379,
-  "EOS_NewPlayers": 570,
+  "EOS_NewPlayers": 568,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -20272,6 +20272,11 @@
       "Time": "2023-10-19T05:04:19.1942007+00:00",
       "NumProgressed": 71737,
       "NumCompleted": 379
+    },
+    {
+      "Time": "2023-10-19T07:05:43.6352415+00:00",
+      "NumProgressed": 71738,
+      "NumCompleted": 379
     }
   ],
   "TotalAchievements": 24,
@@ -20299,7 +20304,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 48781
+      "UsersEstimate": 48782
     },
     {
       "ID": "BEST_FRIENDS",
@@ -20331,7 +20336,7 @@
       "Name": "FETCH",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 20086
+      "UsersEstimate": 20087
     },
     {
       "ID": "FOXIN_AROUND",
@@ -20347,7 +20352,7 @@
       "Name": "FOX? OR FLYING SQUIRREL?",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2869
+      "UsersEstimate": 2870
     },
     {
       "ID": "GARDEN_OF_LIGHT",
@@ -20441,9 +20446,9 @@
       "ID": "SPIRIT_FORM",
       "SetID": "30359jm",
       "Name": "SPIRIT FORM",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 11478
+      "UsersEstimate": 12195
     },
     {
       "ID": "UPROOTING_DARKNESS",
@@ -20459,7 +20464,7 @@
       "Name": "WEIGHTLESS",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 8608
+      "UsersEstimate": 8609
     },
     {
       "ID": "WRITTEN_IN_STONE",
@@ -20474,7 +20479,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 71737,
+      "Progressed": 71738,
       "Completed": 379
     }
   ],
@@ -20482,8 +20487,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-10-19T06:04:14.1821179+00:00",
+  "LastChanged_Achievements": "2023-10-19T07:05:43.6352408+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:07.1643616+00:00",
-  "LastUpdate_Ratings": "2023-10-19T05:58:33.8266366+00:00",
-  "LastUpdate_Achievements": "2023-10-19T06:04:14.1823259+00:00"
+  "LastUpdate_Ratings": "2023-10-19T06:59:46.293161+00:00",
+  "LastUpdate_Achievements": "2023-10-19T07:05:43.6354173+00:00"
 }

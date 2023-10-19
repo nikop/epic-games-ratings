@@ -6,11 +6,11 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 44.00% | ~6,333 |
-| Overkill | 34.00% | ~4,894 |
-| A normal day in Gloomhaven | 34.00% | ~4,894 |
-| Vaccine Incoming | 33.00% | ~4,750 |
-| Spread the plague | 31.00% | ~4,462 |
+| I'm not dead yet | 44.00% | ~6,334 |
+| Overkill | 34.00% | ~4,895 |
+| A normal day in Gloomhaven | 34.00% | ~4,895 |
+| Vaccine Incoming | 33.00% | ~4,751 |
+| Spread the plague | 31.00% | ~4,463 |
 | Get over here! | 24.00% | ~3,455 |
 | Just when I thought I was out... | 19.00% | ~2,735 |
 | Precious! | 17.00% | ~2,447 |
@@ -21,8 +21,8 @@ Number of Ratings: 68  (23.09.2022)
 | You activated my trap card! | 13.00% | ~1,871 |
 | Augmented rat | 13.00% | ~1,871 |
 | Obstacle race | 13.00% | ~1,871 |
-| Doom and gloom | 11.00% | ~1,583 |
-| Who's the Boss? | 9.00% | ~1,295 |
+| Doom and gloom | 11.00% | ~1,584 |
+| Who's the Boss? | 9.00% | ~1,296 |
 | Dungeon Veteran | 8.00% | ~1,152 |
 | Pack leader | 8.00% | ~1,152 |
 | Pain is your friend | 8.00% | ~1,152 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~14 |
 | Murder Death Kill | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,394 (Ranked 138)  
+Progressed: 14,396 (Ranked 138)  
 Completed: 1 (0.01%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 1 (0.01%) (Ranked 298)
 | 2023-10-16 | 13,884 | 1 |
 | 2023-10-17 | 14,108 | 1 |
 | 2023-10-18 | 14,328 | 1 |
-| 2023-10-19 | 14,394 | 1 |
+| 2023-10-19 | 14,396 | 1 |
 ## Awards
 Max (Character Customization): 3,555  (Ranked 90)  
 Sum: 8,300 (Ranked 98)  

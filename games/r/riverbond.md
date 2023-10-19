@@ -248,8 +248,8 @@ Completed: 487 (0.09%) (Ranked 255)
 | 2023-10-18 | 529,531 | 487 |
 | 2023-10-19 | 529,547 | 487 |
 ## Awards
-Max (Relaxing): 20  (Ranked 531)  
-Sum: 20 (Ranked 532)  
+Max (Relaxing): 20  (Ranked 530)  
+Sum: 20 (Ranked 531)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |

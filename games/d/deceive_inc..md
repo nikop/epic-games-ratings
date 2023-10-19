@@ -11,9 +11,9 @@ Rating: 4.56 (Ranked 476)
 | Tomorrow Never Dyes | 22.00% | ~4,067 |
 | From the Vault with Love | 18.00% | ~3,327 |
 | Never Say Loser Again | 18.00% | ~3,327 |
+| Tailor-Made | 18.00% | ~3,327 |
 | For your Eyes only | 18.00% | ~3,327 |
 | Assistant Accountant | 17.00% | ~3,142 |
-| Tailor-Made | 17.00% | ~3,142 |
 | You Only Live Twice | 16.00% | ~2,958 |
 | Fully Decked Out | 16.00% | ~2,958 |
 | A view to Win | 13.00% | ~2,403 |

@@ -3,11 +3,11 @@
   "Name": "Among the Sleep - Enhanced Edition",
   "ProductSlug": "among-the-sleep-enhanced-edition",
   "Ranking_Rating": 816,
-  "Ranking_Popularity": 539,
-  "Ranking_PopularitySum": 539,
+  "Ranking_Popularity": 538,
+  "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 76,
+  "Ranking_EOS_NewPlayers": 77,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
@@ -482,9 +482,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 89273,
+  "EOS_Progressed": 89275,
   "EOS_Completed": 404,
-  "EOS_NewPlayers": 779,
+  "EOS_NewPlayers": 777,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -20587,6 +20587,11 @@
       "Time": "2023-10-19T06:06:14.5711189+00:00",
       "NumProgressed": 89273,
       "NumCompleted": 404
+    },
+    {
+      "Time": "2023-10-19T07:08:34.6415297+00:00",
+      "NumProgressed": 89275,
+      "NumCompleted": 404
     }
   ],
   "TotalAchievements": 10,
@@ -20654,7 +20659,7 @@
       "Name": "Completed Among the Sleep",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 8927
+      "UsersEstimate": 8928
     },
     {
       "ID": "Level00BowlingStrike",
@@ -20677,15 +20682,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 89273,
+      "Progressed": 89275,
       "Completed": 404
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-10-16T14:00:05.3174253+00:00",
-  "LastChanged_Achievements": "2023-10-19T06:06:14.5711183+00:00",
+  "LastChanged_Achievements": "2023-10-19T07:08:34.6415292+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:12.4808914+00:00",
-  "LastUpdate_Ratings": "2023-10-19T05:59:54.9172214+00:00",
-  "LastUpdate_Achievements": "2023-10-19T06:06:14.5713193+00:00"
+  "LastUpdate_Ratings": "2023-10-19T07:01:53.1225408+00:00",
+  "LastUpdate_Achievements": "2023-10-19T07:08:34.6416801+00:00"
 }

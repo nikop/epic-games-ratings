@@ -10837,11 +10837,17 @@
       "Rating": 4.69,
       "NumberOfAwards": 54079,
       "NumberOfAwardsMax": 6571
+    },
+    {
+      "Time": "2023-10-19T06:58:48.2583784+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 54095,
+      "NumberOfAwardsMax": 6587
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 54079,
-  "NumberOfAwardsMax": 6571,
+  "NumberOfAwards": 54095,
+  "NumberOfAwardsMax": 6587,
   "MaxAwardTitle": "Educational",
   "Tags": [
     {
@@ -10872,7 +10878,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 6571
+      "Count": 6587
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -10911,9 +10917,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 434099,
+  "EOS_Progressed": 434111,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5717,
+  "EOS_NewPlayers": 5718,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31586,6 +31592,11 @@
       "Time": "2023-10-19T06:08:38.6520594+00:00",
       "NumProgressed": 434099,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-19T07:10:28.1005093+00:00",
+      "NumProgressed": 434111,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -31725,7 +31736,7 @@
       "Name": "Agressive Expander",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2170
+      "UsersEstimate": 2171
     },
     {
       "ID": "achievement_albania_or_iberia",
@@ -31877,7 +31888,7 @@
       "Name": "Azur sem\u00E9 de lis or",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2170
+      "UsersEstimate": 2171
     },
     {
       "ID": "achievement_baa_baa_black_sheep",
@@ -32109,7 +32120,7 @@
       "Name": "City of Cities",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2170
+      "UsersEstimate": 2171
     },
     {
       "ID": "achievement_cold_war",
@@ -32133,7 +32144,7 @@
       "Name": "Combined Arms",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2170
+      "UsersEstimate": 2171
     },
     {
       "ID": "achievement_consulate_of_the_sea",
@@ -34101,7 +34112,7 @@
       "Name": "This navy can take it all",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 2170
+      "UsersEstimate": 2171
     },
     {
       "ID": "achievement_this_revolution_was_crushed",
@@ -34428,21 +34439,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 434099,
+      "Progressed": 434111,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 434099,
+      "Progressed": 434111,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-10-18T22:10:25.3668515+00:00",
-  "LastChanged_Achievements": "2023-10-19T06:08:38.6520588+00:00",
+  "LastChanged": "2023-10-19T06:58:48.2583782+00:00",
+  "LastChanged_Achievements": "2023-10-19T07:10:28.1005088+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:17.3086374+00:00",
-  "LastUpdate_Ratings": "2023-10-19T05:57:54.9340452+00:00",
-  "LastUpdate_Achievements": "2023-10-19T06:08:38.653524+00:00"
+  "LastUpdate_Ratings": "2023-10-19T06:58:48.2583789+00:00",
+  "LastUpdate_Achievements": "2023-10-19T07:10:28.1022512+00:00"
 }

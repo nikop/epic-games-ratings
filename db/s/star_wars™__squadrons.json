@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11952,
+  "EOS_Progressed": 11955,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2487,
+  "EOS_NewPlayers": 2488,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3419,6 +3419,11 @@
       "Time": "2023-10-19T06:08:27.5310482+00:00",
       "NumProgressed": 11952,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-19T07:10:12.9359681+00:00",
+      "NumProgressed": 11955,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -3479,7 +3484,7 @@
       "Name": "Begin the Ceremony",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 2390
+      "UsersEstimate": 2391
     },
     {
       "ID": "achievement_16",
@@ -3639,7 +3644,7 @@
       "Name": "Mission Accomplished",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 2390
+      "UsersEstimate": 2391
     },
     {
       "ID": "achievement_34",
@@ -3655,7 +3660,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 11354
+      "UsersEstimate": 11357
     },
     {
       "ID": "achievement_36",
@@ -3687,7 +3692,7 @@
       "Name": "Safety in the Storm",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 2988
+      "UsersEstimate": 2989
     },
     {
       "ID": "achievement_4",
@@ -3775,7 +3780,7 @@
       "Name": "A Starfighter of Your Own",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1673
+      "UsersEstimate": 1674
     },
     {
       "ID": "achievement_7",
@@ -3791,7 +3796,7 @@
       "Name": "A Better Idea",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 2988
+      "UsersEstimate": 2989
     },
     {
       "ID": "achievement_9",
@@ -3806,7 +3811,7 @@
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 11952,
+      "Progressed": 11955,
       "Completed": 1
     }
   ],
@@ -3814,8 +3819,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2023-10-19T06:08:27.5310476+00:00",
+  "LastChanged_Achievements": "2023-10-19T07:10:12.9359678+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:10.1416155+00:00",
-  "LastUpdate_Ratings": "2023-10-19T05:59:10.6005844+00:00",
-  "LastUpdate_Achievements": "2023-10-19T06:08:27.5311334+00:00"
+  "LastUpdate_Ratings": "2023-10-19T07:00:41.6477859+00:00",
+  "LastUpdate_Achievements": "2023-10-19T07:10:12.9360739+00:00"
 }

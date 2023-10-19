@@ -6,25 +6,25 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 26.00% | ~11,509 |
-| Student | 20.00% | ~8,853 |
-| Knower | 15.00% | ~6,640 |
-| Listener | 14.00% | ~6,197 |
-| Aspen Tree | 13.00% | ~5,755 |
-| Healer | 13.00% | ~5,755 |
-| Scientist | 11.00% | ~4,869 |
-| Soldier | 11.00% | ~4,869 |
+| Initiation | 26.00% | ~11,511 |
+| Student | 20.00% | ~8,855 |
+| Knower | 15.00% | ~6,641 |
+| Listener | 14.00% | ~6,198 |
+| Aspen Tree | 13.00% | ~5,756 |
+| Healer | 13.00% | ~5,756 |
+| Scientist | 11.00% | ~4,870 |
+| Soldier | 11.00% | ~4,870 |
 | Cow Level | 10.00% | ~4,427 |
-| Old Friend | 9.00% | ~3,984 |
-| Herbalist | 9.00% | ~3,984 |
-| New Spirits | 9.00% | ~3,984 |
-| Voipel | 9.00% | ~3,984 |
-| Water | 9.00% | ~3,984 |
-| Black Mage | 9.00% | ~3,984 |
-| Card Player | 8.00% | ~3,541 |
-| Pine Tree | 8.00% | ~3,541 |
-| Collector | 8.00% | ~3,541 |
-| Wolf | 8.00% | ~3,541 |
+| Old Friend | 9.00% | ~3,985 |
+| Herbalist | 9.00% | ~3,985 |
+| New Spirits | 9.00% | ~3,985 |
+| Voipel | 9.00% | ~3,985 |
+| Water | 9.00% | ~3,985 |
+| Black Mage | 9.00% | ~3,985 |
+| Card Player | 8.00% | ~3,542 |
+| Pine Tree | 8.00% | ~3,542 |
+| Collector | 8.00% | ~3,542 |
+| Wolf | 8.00% | ~3,542 |
 | Worthy | 7.00% | ~3,099 |
 | Black Book | 7.00% | ~3,099 |
 | Dead Man | 7.00% | ~3,099 |
@@ -40,8 +40,8 @@ Number of Ratings: 96  (23.09.2022)
 | Sinner | 6.00% | ~2,656 |
 | Folklorist | 6.00% | ~2,656 |
 | Keeper of Knowledge | 6.00% | ~2,656 |
-| Vorsa | 5.00% | ~2,213 |
-| Traveller | 5.00% | ~2,213 |
+| Vorsa | 5.00% | ~2,214 |
+| Traveller | 5.00% | ~2,214 |
 | Musician | 4.00% | ~1,771 |
 | Susanin | 4.00% | ~1,771 |
 | Black Sorceress | 3.00% | ~1,328 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 1.00% | ~443 |
 | Word Master | 0.20% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,267 (Ranked 105)  
+Progressed: 44,274 (Ranked 105)  
 Completed: 34 (0.08%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 34 (0.08%) (Ranked 262)
 | 2023-10-16 | 43,512 | 33 |
 | 2023-10-17 | 43,852 | 33 |
 | 2023-10-18 | 44,202 | 34 |
-| 2023-10-19 | 44,267 | 34 |
+| 2023-10-19 | 44,274 | 34 |
 ## Awards
 Max (Character Customization): 75  (Ranked 381)  
 Sum: 75 (Ranked 450)  

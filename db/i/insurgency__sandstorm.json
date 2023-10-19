@@ -5,7 +5,7 @@
   "Ranking_Rating": 354,
   "Ranking_Popularity": 224,
   "Ranking_PopularitySum": 171,
-  "Ranking_EOS_Progress": 38,
+  "Ranking_EOS_Progress": 39,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 40,
   "Ranking_EOS_NewCompleters": 110,
@@ -3656,18 +3656,24 @@
       "Rating": 4.62,
       "NumberOfAwards": 3080,
       "NumberOfAwardsMax": 389
+    },
+    {
+      "Time": "2023-10-19T06:59:50.8323944+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 3083,
+      "NumberOfAwardsMax": 392
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3080,
-  "NumberOfAwardsMax": 389,
+  "NumberOfAwards": 3083,
+  "NumberOfAwardsMax": 392,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 389
+      "Count": 392
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3730,9 +3736,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 463767,
+  "EOS_Progressed": 463773,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2371,
+  "EOS_NewPlayers": 2367,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24315,6 +24321,11 @@
       "Time": "2023-10-19T06:04:23.4252064+00:00",
       "NumProgressed": 463767,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-19T07:05:56.7201352+00:00",
+      "NumProgressed": 463773,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -24494,7 +24505,7 @@
       "Name": "Point Shooting",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 23188
+      "UsersEstimate": 23189
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -24590,7 +24601,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 23188
+      "UsersEstimate": 23189
     },
     {
       "ID": "ACH_WET_FEET",
@@ -24605,15 +24616,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 463767,
+      "Progressed": 463773,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
-  "LastChanged": "2023-10-18T22:11:08.2391008+00:00",
-  "LastChanged_Achievements": "2023-10-19T06:04:23.4252061+00:00",
+  "LastChanged": "2023-10-19T06:59:50.8323942+00:00",
+  "LastChanged_Achievements": "2023-10-19T07:05:56.7201348+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:10.7771003+00:00",
-  "LastUpdate_Ratings": "2023-10-19T05:58:37.1466949+00:00",
-  "LastUpdate_Achievements": "2023-10-19T06:04:23.4253931+00:00"
+  "LastUpdate_Ratings": "2023-10-19T06:59:50.8323947+00:00",
+  "LastUpdate_Achievements": "2023-10-19T07:05:56.7203368+00:00"
 }

@@ -1173,9 +1173,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 231685,
+  "EOS_Progressed": 231693,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 1458,
+  "EOS_NewPlayers": 1462,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15243,6 +15243,11 @@
       "Time": "2023-10-19T06:08:20.3366381+00:00",
       "NumProgressed": 231685,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-19T07:10:02.7251192+00:00",
+      "NumProgressed": 231693,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 88,
@@ -15302,7 +15307,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11584
+      "UsersEstimate": 11585
     },
     {
       "ID": "Chapter2",
@@ -15654,7 +15659,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 13901
+      "UsersEstimate": 13902
     },
     {
       "ID": "DwarfElf15Support",
@@ -15686,7 +15691,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9267
+      "UsersEstimate": 9268
     },
     {
       "ID": "ElfEpic",
@@ -15702,7 +15707,7 @@
       "Name": "Sowwy!",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 76456
+      "UsersEstimate": 76459
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -15750,7 +15755,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 16218
+      "UsersEstimate": 16219
     },
     {
       "ID": "FollowBraztok",
@@ -15806,7 +15811,7 @@
       "Name": "Gargantua",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1853
+      "UsersEstimate": 1854
     },
     {
       "ID": "Orktobearfest",
@@ -15844,9 +15849,9 @@
       "ID": "QuestEmile",
       "SetID": "50chcgj",
       "Name": "It\u0027s been a hard day\u0027s night",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 695
+      "UsersEstimate": 927
     },
     {
       "ID": "QuestMinstrel",
@@ -15902,7 +15907,7 @@
       "Name": "Speedrun",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9267
+      "UsersEstimate": 9268
     },
     {
       "ID": "SupportCount4",
@@ -15957,21 +15962,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 231685,
+      "Progressed": 231693,
       "Completed": 6
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 231685,
+      "Progressed": 231693,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-10-15T22:57:47.2240798+00:00",
-  "LastChanged_Achievements": "2023-10-19T06:08:20.3366375+00:00",
+  "LastChanged_Achievements": "2023-10-19T07:10:02.7251187+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:06.1366459+00:00",
-  "LastUpdate_Ratings": "2023-10-19T05:58:24.2004536+00:00",
-  "LastUpdate_Achievements": "2023-10-19T06:08:20.3368621+00:00"
+  "LastUpdate_Ratings": "2023-10-19T06:59:30.7541716+00:00",
+  "LastUpdate_Achievements": "2023-10-19T07:10:02.7253639+00:00"
 }

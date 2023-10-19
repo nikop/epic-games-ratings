@@ -3,8 +3,8 @@
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
   "Ranking_Rating": 630,
-  "Ranking_Popularity": 539,
-  "Ranking_PopularitySum": 539,
+  "Ranking_Popularity": 538,
+  "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 112,
   "Ranking_EOS_NewPlayers": 98,
@@ -413,7 +413,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22359,
+  "EOS_Progressed": 22361,
   "EOS_Completed": 441,
   "EOS_NewPlayers": 430,
   "EOS_NewCompleters": 7,
@@ -19928,6 +19928,11 @@
       "Time": "2023-10-19T06:04:22.2334527+00:00",
       "NumProgressed": 22359,
       "NumCompleted": 441
+    },
+    {
+      "Time": "2023-10-19T07:05:55.0014724+00:00",
+      "NumProgressed": 22361,
+      "NumCompleted": 441
     }
   ],
   "TotalAchievements": 20,
@@ -19955,7 +19960,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3130
+      "UsersEstimate": 3131
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -19971,7 +19976,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2459
+      "UsersEstimate": 2460
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -20059,7 +20064,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 17216
+      "UsersEstimate": 17218
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -20098,15 +20103,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 22359,
+      "Progressed": 22361,
       "Completed": 441
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-19T06:04:22.2334524+00:00",
+  "LastChanged_Achievements": "2023-10-19T07:05:55.0014717+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:17.0806119+00:00",
-  "LastUpdate_Ratings": "2023-10-19T05:58:45.366997+00:00",
-  "LastUpdate_Achievements": "2023-10-19T06:04:22.2336133+00:00"
+  "LastUpdate_Ratings": "2023-10-19T07:00:03.8807198+00:00",
+  "LastUpdate_Achievements": "2023-10-19T07:05:55.0016323+00:00"
 }
