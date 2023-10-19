@@ -284,7 +284,7 @@
 | [Gas Station Simulator](../games/d/d3f97f301cb746d5b6e15424edb28afc.md) | 91 | 1,000 |
 | [Geometric Sniper - Z](../games/7/706577b22cbb4ab38611e2c97e03a800.md) | 50 | 1,000 |
 | [Get Together: A Coop Adventure](../games/g/get_together__a_coop_adventure.md) | 10 | 1,000 |
-| [Ghostbusters: Spirits Unleashed](../games/g/ghostbusters__spirits_unleashed.md) | 51 | 1,000 |
+| [Ghostbusters: Spirits Unleashed Ecto Edition](../games/g/ghostbusters__spirits_unleashed.md) | 51 | 1,000 |
 | [Ghostrunner 2](../games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 34 | 1,000 |
 | [Gigapocalypse](../games/g/gigapocalypse.md) | 53 | 1,000 |
 | [GINSHA](../games/f/f63608bdb9234e0cbfb6d7f81e96d33c.md) | 23 | 1,000 |
