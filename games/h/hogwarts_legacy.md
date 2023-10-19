@@ -5,11 +5,11 @@ Rating: 4.76 (Ranked 119)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 15.00% | ~44,784 |
+| The Sort Who Makes an Entrance | 15.00% | ~44,785 |
 | First Class Student | 13.00% | ~38,813 |
 | Troll with the Punches | 13.00% | ~38,813 |
-| A Keen Sense of Spell | 12.00% | ~35,827 |
-| That's a Keeper | 12.00% | ~35,827 |
+| A Keen Sense of Spell | 12.00% | ~35,828 |
+| That's a Keeper | 12.00% | ~35,828 |
 | Grappling with a Graphorn | 11.00% | ~32,842 |
 | The One Who Mastered Memories | 11.00% | ~32,842 |
 | The Hallowed Hero | 11.00% | ~32,842 |
@@ -32,11 +32,11 @@ Rating: 4.76 (Ranked 119)
 | Raising Expectations | 6.00% | ~17,914 |
 | The Toast of the Town | 5.00% | ~14,928 |
 | The Ends Petrify the Means | 5.00% | ~14,928 |
-| Going Through the Potions | 4.00% | ~11,942 |
-| Room with a View | 4.00% | ~11,942 |
-| The Intrepid Explorer | 4.00% | ~11,942 |
-| The Gryffindor in the Graveyard | 4.00% | ~11,942 |
-| The Wise Owl | 4.00% | ~11,942 |
+| Going Through the Potions | 4.00% | ~11,943 |
+| Room with a View | 4.00% | ~11,943 |
+| The Intrepid Explorer | 4.00% | ~11,943 |
+| The Gryffindor in the Graveyard | 4.00% | ~11,943 |
+| The Wise Owl | 4.00% | ~11,943 |
 | Put Down Roots | 3.00% | ~8,957 |
 | The Auror's Apprentice | 3.00% | ~8,957 |
 | Floo Around the World | 3.00% | ~8,957 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 119)
 | The Nature of the Beast | 0.70% | ~2,090 |
 | Collector's Edition | 0.30% | ~896 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,562 (Ranked 47)  
+Progressed: 298,565 (Ranked 47)  
 Completed: 489 (0.16%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,7 +233,7 @@ Completed: 489 (0.16%) (Ranked 233)
 | 2023-10-16 | 298,472 | 488 |
 | 2023-10-17 | 298,513 | 488 |
 | 2023-10-18 | 298,550 | 488 |
-| 2023-10-19 | 298,562 | 489 |
+| 2023-10-19 | 298,565 | 489 |
 ## Awards
 Max (Character Customization): 23,644  (Ranked 17)  
 Sum: 46,169 (Ranked 30)  

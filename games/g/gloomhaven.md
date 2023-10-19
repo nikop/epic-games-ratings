@@ -6,13 +6,13 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 44.00% | ~6,332 |
-| Overkill | 34.00% | ~4,893 |
-| A normal day in Gloomhaven | 34.00% | ~4,893 |
-| Vaccine Incoming | 33.00% | ~4,749 |
+| I'm not dead yet | 44.00% | ~6,333 |
+| Overkill | 34.00% | ~4,894 |
+| A normal day in Gloomhaven | 34.00% | ~4,894 |
+| Vaccine Incoming | 33.00% | ~4,750 |
 | Spread the plague | 31.00% | ~4,462 |
-| Get over here! | 24.00% | ~3,454 |
-| Just when I thought I was out... | 19.00% | ~2,734 |
+| Get over here! | 24.00% | ~3,455 |
+| Just when I thought I was out... | 19.00% | ~2,735 |
 | Precious! | 17.00% | ~2,447 |
 | Mine... All Mine... | 17.00% | ~2,447 |
 | Light of my life | 15.00% | ~2,159 |
@@ -23,11 +23,11 @@ Number of Ratings: 68  (23.09.2022)
 | Obstacle race | 13.00% | ~1,871 |
 | Doom and gloom | 11.00% | ~1,583 |
 | Who's the Boss? | 9.00% | ~1,295 |
-| Dungeon Veteran | 8.00% | ~1,151 |
-| Pack leader | 8.00% | ~1,151 |
-| Pain is your friend | 8.00% | ~1,151 |
-| Black death | 8.00% | ~1,151 |
-| Play it again, Sam | 8.00% | ~1,151 |
+| Dungeon Veteran | 8.00% | ~1,152 |
+| Pack leader | 8.00% | ~1,152 |
+| Pain is your friend | 8.00% | ~1,152 |
+| Black death | 8.00% | ~1,152 |
+| Play it again, Sam | 8.00% | ~1,152 |
 | Quad damage | 6.00% | ~864 |
 | Power Up! | 5.00% | ~720 |
 | The Pro from Dover | 5.00% | ~720 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~14 |
 | Murder Death Kill | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,392 (Ranked 138)  
+Progressed: 14,394 (Ranked 138)  
 Completed: 1 (0.01%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 1 (0.01%) (Ranked 298)
 | 2023-10-16 | 13,884 | 1 |
 | 2023-10-17 | 14,108 | 1 |
 | 2023-10-18 | 14,328 | 1 |
-| 2023-10-19 | 14,392 | 1 |
+| 2023-10-19 | 14,394 | 1 |
 ## Awards
 Max (Character Customization): 3,555  (Ranked 90)  
 Sum: 8,300 (Ranked 98)  

@@ -8,17 +8,17 @@ Number of Ratings: 22,103  (23.09.2022)
 | ---- | ---------- | ----- |
 | First F#@!ing Day | 46.00% | ~34,707 |
 | To The Nines | 42.00% | ~31,689 |
-| Optimized | 37.00% | ~27,916 |
+| Optimized | 37.00% | ~27,917 |
 | Performance Review | 36.00% | ~27,162 |
 | Making a Name | 35.00% | ~26,408 |
-| Tune Up | 33.00% | ~24,898 |
+| Tune Up | 33.00% | ~24,899 |
 | Wet Work | 32.00% | ~24,144 |
 | Landlord | 32.00% | ~24,144 |
 | The Side Job | 31.00% | ~23,390 |
 | Wrecking Ball | 28.00% | ~21,126 |
 | Food for Thought | 27.00% | ~20,372 |
-| Finders Keepers | 25.00% | ~18,862 |
-| A Young Empire | 25.00% | ~18,862 |
+| Finders Keepers | 25.00% | ~18,863 |
+| A Young Empire | 25.00% | ~18,863 |
 | Work Ethic | 23.00% | ~17,354 |
 | Picking Fights | 20.00% | ~15,090 |
 | Power Players | 19.00% | ~14,336 |
@@ -38,10 +38,10 @@ Number of Ratings: 22,103  (23.09.2022)
 | Producer Credit | 7.00% | ~3,296 |
 | Chaos Tamer | 6.00% | ~4,527 |
 | Face Off | 6.00% | ~2,825 |
-| The Professional | 5.00% | ~3,772 |
-| Untouchable | 5.00% | ~3,772 |
-| Free Refills | 5.00% | ~3,772 |
-| Smooth Moves | 5.00% | ~3,772 |
+| The Professional | 5.00% | ~3,773 |
+| Untouchable | 5.00% | ~3,773 |
+| Free Refills | 5.00% | ~3,773 |
+| Smooth Moves | 5.00% | ~3,773 |
 | Hazardous Heist | 5.00% | ~2,354 |
 | Neighborly | 4.00% | ~3,018 |
 | Prankster | 4.00% | ~3,018 |
@@ -50,9 +50,9 @@ Number of Ratings: 22,103  (23.09.2022)
 | Always Be Hustling | 3.00% | ~2,264 |
 | Community Outreach | 3.00% | ~2,264 |
 | Bonus Round | 2.00% | ~1,509 |
-| It's a Bird! | 1.00% | ~754 |
-| The Collector | 1.00% | ~754 |
-| All Mine | 1.00% | ~754 |
+| It's a Bird! | 1.00% | ~755 |
+| The Collector | 1.00% | ~755 |
+| All Mine | 1.00% | ~755 |
 | Jack of All Trades | 0.70% | ~528 |
 | Armor Piercing | 0.70% | ~528 |
 | Heard You Like Wheels | 0.70% | ~528 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~151 |
 | Fiesta Time | 0.20% | ~151 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 75,450 (Ranked 90)  
+Progressed: 75,451 (Ranked 90)  
 Completed: 51 (0.07%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,7 +242,7 @@ Completed: 51 (0.07%) (Ranked 264)
 | 2023-10-16 | 75,237 | 51 |
 | 2023-10-17 | 75,335 | 51 |
 | 2023-10-18 | 75,425 | 51 |
-| 2023-10-19 | 75,450 | 51 |
+| 2023-10-19 | 75,451 | 51 |
 ## Awards
 Max (Extremely Fun): 1,070  (Ranked 143)  
 Sum: 8,688 (Ranked 97)  

@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3534,
+  "EOS_Progressed": 3535,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -8219,6 +8219,11 @@
       "Time": "2023-10-19T05:05:46.8044104+00:00",
       "NumProgressed": 3534,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-10-19T06:05:42.7324726+00:00",
+      "NumProgressed": 3535,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 16,
@@ -8262,7 +8267,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 2721
+      "UsersEstimate": 2722
     },
     {
       "ID": "ach_architecture_completed",
@@ -8278,7 +8283,7 @@
       "Name": "Architecture - unlocked",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 1166
+      "UsersEstimate": 1167
     },
     {
       "ID": "ach_bomb",
@@ -8318,7 +8323,7 @@
       "Name": "Food - unlocked",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 1272
+      "UsersEstimate": 1273
     },
     {
       "ID": "ach_game_opened",
@@ -8326,7 +8331,7 @@
       "Name": "Game opened",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2650
+      "UsersEstimate": 2651
     },
     {
       "ID": "ach_magic_wand",
@@ -8342,7 +8347,7 @@
       "Name": "Master",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 1378
+      "UsersEstimate": 1379
     },
     {
       "ID": "ach_tornado",
@@ -8357,14 +8362,14 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 3534,
+      "Progressed": 3535,
       "Completed": 26
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-10-19T05:05:46.8044097+00:00",
+  "LastChanged_Achievements": "2023-10-19T06:05:42.732472+00:00",
   "LastUpdate_AppInfo": "2023-10-13T16:57:41.3474245+00:00",
-  "LastUpdate_Ratings": "2023-10-19T05:00:22.7363536+00:00",
-  "LastUpdate_Achievements": "2023-10-19T05:05:46.8044743+00:00"
+  "LastUpdate_Ratings": "2023-10-19T06:00:16.3592576+00:00",
+  "LastUpdate_Achievements": "2023-10-19T06:05:42.7325362+00:00"
 }

@@ -5,16 +5,16 @@ Rating: 4.76 (Ranked 119)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~17,771 |
+| First of Many | 9.00% | ~17,772 |
 | The Killing Jar | 8.00% | ~15,797 |
 | Expanding Horizons | 7.00% | ~13,822 |
 | Quest for Survival | 7.00% | ~13,822 |
 | Not Your Average Trait | 7.00% | ~13,822 |
-| Gleaming the Cube | 6.00% | ~11,847 |
-| Familiar Face | 6.00% | ~11,847 |
-| Duality | 6.00% | ~11,847 |
-| Boss'n Up | 6.00% | ~11,847 |
-| Trait Chaser | 6.00% | ~11,847 |
+| Gleaming the Cube | 6.00% | ~11,848 |
+| Familiar Face | 6.00% | ~11,848 |
+| Duality | 6.00% | ~11,848 |
+| Boss'n Up | 6.00% | ~11,848 |
+| Trait Chaser | 6.00% | ~11,848 |
 | Not So Special Now | 5.00% | ~9,873 |
 | Not a Janitor | 5.00% | ~9,873 |
 | Equal Measures | 5.00% | ~9,873 |
@@ -24,16 +24,16 @@ Rating: 4.76 (Ranked 119)
 | Almost There | 5.00% | ~9,873 |
 | Make Some Room | 5.00% | ~9,873 |
 | Good, But Could Be Better! | 5.00% | ~9,873 |
-| Chaos | 4.00% | ~7,898 |
-| Traitor | 4.00% | ~7,898 |
-| Power Surge | 4.00% | ~7,898 |
-| The God Gambit | 4.00% | ~7,898 |
-| Dark Designs | 4.00% | ~7,898 |
-| Madman's Paradise | 4.00% | ~7,898 |
-| Was This Supposed To Happen? | 4.00% | ~7,898 |
-| The Web | 4.00% | ~7,898 |
-| Scrap Collector | 4.00% | ~7,898 |
-| All These Traits� | 4.00% | ~7,898 |
+| Chaos | 4.00% | ~7,899 |
+| Traitor | 4.00% | ~7,899 |
+| Power Surge | 4.00% | ~7,899 |
+| The God Gambit | 4.00% | ~7,899 |
+| Dark Designs | 4.00% | ~7,899 |
+| Madman's Paradise | 4.00% | ~7,899 |
+| Was This Supposed To Happen? | 4.00% | ~7,899 |
+| The Web | 4.00% | ~7,899 |
+| Scrap Collector | 4.00% | ~7,899 |
+| All These Traits� | 4.00% | ~7,899 |
 | Am I Seeing This? | 3.00% | ~5,924 |
 | Forever is a Long Time Coming | 3.00% | ~5,924 |
 | The Agenda | 3.00% | ~5,924 |
@@ -56,8 +56,8 @@ Rating: 4.76 (Ranked 119)
 | Cutting Edge | 1.00% | ~1,975 |
 | Proving Grounds | 1.00% | ~1,975 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 197,457 (Ranked 68)  
-Completed: 396 (0.20%) (Ranked 225)  
+Progressed: 197,464 (Ranked 68)  
+Completed: 397 (0.20%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -151,16 +151,16 @@ Completed: 396 (0.20%) (Ranked 225)
 | 2023-10-16 | 196,519 | 393 |
 | 2023-10-17 | 196,940 | 394 |
 | 2023-10-18 | 197,355 | 396 |
-| 2023-10-19 | 197,457 | 396 |
+| 2023-10-19 | 197,464 | 397 |
 ## Awards
 Max (Great Boss Battles): 1,855  (Ranked 114)  
-Sum: 4,043 (Ranked 147)  
+Sum: 4,045 (Ranked 147)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 1,855 |
 | This game has Challenging Combat | 246 |
-| This game has Diverse Characters | 240 |
+| This game has Diverse Characters | 242 |
 | This game is Extremely Fun | 238 |
 | This game is Relaxing | 238 |
 | This game is Highly Recommended | 228 |
@@ -257,4 +257,4 @@ Diff (max vs sum): -33
 | 2023-10-16 | 4.76 | 1,839 | 4,002 |
 | 2023-10-17 | 4.76 | 1,843 | 4,024 |
 | 2023-10-18 | 4.76 | 1,848 | 4,034 |
-| 2023-10-19 | 4.76 | 1,855 | 4,043 |
+| 2023-10-19 | 4.76 | 1,855 | 4,045 |

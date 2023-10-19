@@ -6,15 +6,15 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 3.00% | ~28,460 |
-| Handyman | 2.00% | ~18,973 |
-| Zealous | 2.00% | ~18,973 |
-| Not half bad | 2.00% | ~18,973 |
-| Apt Survivor | 2.00% | ~18,973 |
-| Survival Treasures | 2.00% | ~18,973 |
-| Skillful | 2.00% | ~18,973 |
-| Sorted | 2.00% | ~18,973 |
-| Make Some Noise | 2.00% | ~18,973 |
+| It wakes | 3.00% | ~28,462 |
+| Handyman | 2.00% | ~18,975 |
+| Zealous | 2.00% | ~18,975 |
+| Not half bad | 2.00% | ~18,975 |
+| Apt Survivor | 2.00% | ~18,975 |
+| Survival Treasures | 2.00% | ~18,975 |
+| Skillful | 2.00% | ~18,975 |
+| Sorted | 2.00% | ~18,975 |
+| Make Some Noise | 2.00% | ~18,975 |
 | The Grand Sacrifice | 1.00% | ~9,487 |
 | Agonizing Escape | 1.00% | ~9,487 |
 | Backdoor Escape | 1.00% | ~9,487 |
@@ -35,12 +35,12 @@ Number of Ratings: 70,340  (23.09.2022)
 | Close Shave | 1.00% | ~9,487 |
 | Preemptive Strike | 1.00% | ~9,487 |
 | Humanitarian | 1.00% | ~9,487 |
-| Apt Killer | 0.90% | ~8,538 |
-| Vulture | 0.90% | ~8,538 |
-| Second Act | 0.90% | ~8,538 |
-| III | 0.80% | ~7,589 |
-| With Scars to Show | 0.80% | ~7,589 |
-| Rebuilding The Borgo | 0.80% | ~7,589 |
+| Apt Killer | 0.90% | ~8,539 |
+| Vulture | 0.90% | ~8,539 |
+| Second Act | 0.90% | ~8,539 |
+| III | 0.80% | ~7,590 |
+| With Scars to Show | 0.80% | ~7,590 |
+| Rebuilding The Borgo | 0.80% | ~7,590 |
 | Escape Artist | 0.70% | ~6,641 |
 | Cherish your Life | 0.70% | ~6,641 |
 | First to the Punch | 0.70% | ~6,641 |
@@ -65,16 +65,17 @@ Number of Ratings: 70,340  (23.09.2022)
 | Chorus of Chaos | 0.60% | ~5,692 |
 | One More Step | 0.60% | ~5,692 |
 | MU/TH/UR Dearest | 0.60% | ~5,692 |
-| A bite for the Entity | 0.50% | ~4,743 |
-| Gifts for the Fog | 0.50% | ~4,743 |
-| Shock Therapy | 0.50% | ~4,743 |
-| Leapfrog | 0.50% | ~4,743 |
-| Cottage Owner | 0.50% | ~4,743 |
-| Escaping the Nightmare | 0.50% | ~4,743 |
-| Campbell's Chapel Legacy | 0.50% | ~4,743 |
-| Ancestor's Rite | 0.50% | ~4,743 |
-| Outrun Evil | 0.50% | ~4,743 |
-| Grim Pilgrimage | 0.50% | ~4,743 |
+| A bite for the Entity | 0.50% | ~4,744 |
+| Gifts for the Fog | 0.50% | ~4,744 |
+| Shock Therapy | 0.50% | ~4,744 |
+| Leapfrog | 0.50% | ~4,744 |
+| Cottage Owner | 0.50% | ~4,744 |
+| Escaping the Nightmare | 0.50% | ~4,744 |
+| Campbell's Chapel Legacy | 0.50% | ~4,744 |
+| Ancestor's Rite | 0.50% | ~4,744 |
+| Outrun Evil | 0.50% | ~4,744 |
+| Grim Pilgrimage | 0.50% | ~4,744 |
+| Extraterrestrial | 0.50% | ~4,744 |
 | Blood on your face | 0.40% | ~3,795 |
 | Jump Scares | 0.40% | ~3,795 |
 | Hemophobia | 0.40% | ~3,795 |
@@ -88,7 +89,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | End of Days | 0.40% | ~3,795 |
 | Insult and Injury | 0.40% | ~3,795 |
 | Outrun the Overlap | 0.40% | ~3,795 |
-| Extraterrestrial | 0.40% | ~3,795 |
 | Kitted Out | 0.40% | ~3,795 |
 | Blood in your mouth | 0.30% | ~2,846 |
 | Texas BBQ | 0.30% | ~2,846 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~949 |
 | Adept Ripley | 0.10% | ~949 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 948,674 (Ranked 14)  
+Progressed: 948,738 (Ranked 14)  
 Completed: 51 (0.01%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -418,14 +418,14 @@ Completed: 51 (0.01%) (Ranked 298)
 | 2023-10-16 | 944,360 | 51 |
 | 2023-10-17 | 946,172 | 51 |
 | 2023-10-18 | 948,147 | 51 |
-| 2023-10-19 | 948,674 | 51 |
+| 2023-10-19 | 948,738 | 51 |
 ## Awards
-Max (Diverse Characters): 34,059  (Ranked 15)  
-Sum: 263,581 (Ranked 13)  
+Max (Diverse Characters): 34,176  (Ranked 15)  
+Sum: 263,698 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 34,059 |
+| This game has Diverse Characters | 34,176 |
 | This game is Highly Recommended | 30,117 |
 | This game has Amazing Characters | 29,776 |
 | This game has Competitive Players | 29,746 |
@@ -707,3 +707,4 @@ Diff (max vs sum): 2
 | 2023-10-16 | 4.51 | - | 33,980 | 262,969 |
 | 2023-10-17 | 4.51 | - | 34,006 | 263,198 |
 | 2023-10-18 | 4.51 | - | 34,059 | 263,581 |
+| 2023-10-19 | 4.51 | - | 34,176 | 263,698 |

@@ -44,6 +44,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Tax not Included | 0.80% | ~1,102 |
 | Fated Encounters | 0.80% | ~1,102 |
 | Power of Love | 0.80% | ~1,102 |
+| Trash to Treasure | 0.80% | ~1,102 |
 | Royal Ransom | 0.80% | ~1,102 |
 | Magical Harmony | 0.80% | ~1,102 |
 | A Notch Above the Rest | 0.70% | ~965 |
@@ -56,7 +57,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | This Power Level...! | 0.70% | ~965 |
 | Hidden Potential | 0.70% | ~965 |
 | Expansion in Session | 0.70% | ~965 |
-| Trash to Treasure | 0.70% | ~965 |
 | Mammonite | 0.70% | ~965 |
 | Miracle Alchemist | 0.70% | ~965 |
 | Seasoned Journeyman | 0.70% | ~965 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,797 (Ranked 73)  
+Progressed: 137,800 (Ranked 73)  
 Completed: 171 (0.12%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,7 +301,7 @@ Completed: 171 (0.12%) (Ranked 242)
 | 2023-10-16 | 137,703 | 168 |
 | 2023-10-17 | 137,757 | 170 |
 | 2023-10-18 | 137,790 | 171 |
-| 2023-10-19 | 137,797 | 171 |
+| 2023-10-19 | 137,800 | 171 |
 ## Awards
 Max (Great for Beginners): 4,793  (Ranked 72)  
 Sum: 27,403 (Ranked 50)  

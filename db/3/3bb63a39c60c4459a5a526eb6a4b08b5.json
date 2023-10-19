@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 807,
+  "EOS_Progressed": 809,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -3024,6 +3024,11 @@
       "Time": "2023-10-19T04:05:05.9452997+00:00",
       "NumProgressed": 807,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-19T06:05:03.520604+00:00",
+      "NumProgressed": 809,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -3035,7 +3040,7 @@
       "Name": "Great Luck",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ActivePause",
@@ -3051,7 +3056,7 @@
       "Name": "Basic Controls",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "BigPlane",
@@ -3067,7 +3072,7 @@
       "Name": "Budget Flight",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "Calculated",
@@ -3075,7 +3080,7 @@
       "Name": "Calculated",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "Close",
@@ -3083,7 +3088,7 @@
       "Name": "That Was Close!",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "Creator",
@@ -3169,9 +3174,9 @@
       "ID": "LargeAirport",
       "SetID": "1e89b4i",
       "Name": "Large Airport",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 105
     },
     {
       "ID": "LargeTerritories",
@@ -3187,15 +3192,15 @@
       "Name": "Legendary transporter",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "LinearNetwork",
       "SetID": "1e89b4i",
       "Name": "Linear Network",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 113
+      "UsersEstimate": 105
     },
     {
       "ID": "LongDistance",
@@ -3203,7 +3208,7 @@
       "Name": "Long Distances",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ManagementMaster",
@@ -3235,7 +3240,7 @@
       "Name": "New Record",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "NoTimeForModernization",
@@ -3251,7 +3256,7 @@
       "Name": "No Way Back",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "NotPlanned",
@@ -3259,7 +3264,7 @@
       "Name": "This Wasn\u0027t Part of the Plan...",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "Ownway",
@@ -3283,7 +3288,7 @@
       "Name": "Race Against Time",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "Reaction",
@@ -3307,15 +3312,15 @@
       "Name": "Resource Economy",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "Restructuring",
       "SetID": "1e89b4i",
       "Name": "Restructuring",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 89
     },
     {
       "ID": "Reviewer",
@@ -3347,7 +3352,7 @@
       "Name": "Ten!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "TimeForManagement",
@@ -3363,21 +3368,21 @@
       "Name": "Transport Hub",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 807,
+      "Progressed": 809,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-10-19T05:05:08.0126853+00:00",
+  "LastChanged_Achievements": "2023-10-19T06:05:03.5206034+00:00",
   "LastUpdate_AppInfo": "2023-10-17T13:57:19.6755888+00:00",
-  "LastUpdate_Ratings": "2023-10-19T05:00:37.1996445+00:00",
-  "LastUpdate_Achievements": "2023-10-19T05:05:08.0127361+00:00"
+  "LastUpdate_Ratings": "2023-10-19T06:02:10.5669453+00:00",
+  "LastUpdate_Achievements": "2023-10-19T06:05:03.5206666+00:00"
 }

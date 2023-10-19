@@ -4,7 +4,7 @@
   "ProductSlug": "the-evil-within",
   "Ranking_EOS_Progress": 367,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 128,
+  "EOS_Progressed": 129,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
@@ -642,6 +642,11 @@
       "Time": "2023-10-19T01:46:59.6698263+00:00",
       "NumProgressed": 128,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-19T06:04:21.2127149+00:00",
+      "NumProgressed": 129,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T16:01:32.1694174+00:00",
@@ -668,25 +673,25 @@
       "ID": "ACHIEVEMENT_03",
       "SetID": "ap8553i",
       "Name": "Weapon of Choice",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 28
     },
     {
       "ID": "ACHIEVEMENT_04",
       "SetID": "ap8553i",
       "Name": "Two on Two",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 26
+      "UsersEstimate": 25
     },
     {
       "ID": "ACHIEVEMENT_05",
       "SetID": "ap8553i",
       "Name": "The First, Not the Last",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 17
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_06",
@@ -828,9 +833,9 @@
       "ID": "ACHIEVEMENT_23",
       "SetID": "ap8553i",
       "Name": "...And the Corpses Mount",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 37
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -868,9 +873,9 @@
       "ID": "ACHIEVEMENT_28",
       "SetID": "ap8553i",
       "Name": "Drop It Like It\u0027s Hot",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_29",
@@ -916,9 +921,9 @@
       "ID": "ACHIEVEMENT_34",
       "SetID": "ap8553i",
       "Name": "Home is Where the Hospice is",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 28
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -1221,20 +1226,20 @@
     {
       "ID": "8ddjaeg",
       "IsBase": false,
-      "Progressed": 128,
+      "Progressed": 129,
       "Completed": 0
     },
     {
       "ID": "ap8553i",
       "IsBase": true,
-      "Progressed": 128,
+      "Progressed": 129,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-10-19T05:04:26.1635063+00:00",
+  "LastChanged_Achievements": "2023-10-19T06:04:21.2127144+00:00",
   "LastUpdate_AppInfo": "2023-10-18T22:09:35.3920804+00:00",
-  "LastUpdate_Ratings": "2023-10-19T04:59:43.2068538+00:00",
-  "LastUpdate_Achievements": "2023-10-19T05:04:26.1635962+00:00"
+  "LastUpdate_Ratings": "2023-10-19T05:59:34.1004914+00:00",
+  "LastUpdate_Achievements": "2023-10-19T06:04:21.2128448+00:00"
 }

@@ -5,22 +5,22 @@ Rating: 4.84 (Ranked 49)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~225,625 |
+| Forgotten Sorority | 91.00% | ~225,626 |
 | Private Club | 74.00% | ~183,476 |
-| Rogue Guild | 65.00% | ~161,161 |
+| Rogue Guild | 65.00% | ~161,162 |
 | I Watched the Intro | 57.00% | ~141,326 |
-| Covert Consortium | 55.00% | ~136,367 |
-| Goat Queen | 53.00% | ~131,408 |
+| Covert Consortium | 55.00% | ~136,368 |
+| Goat Queen | 53.00% | ~131,409 |
 | Reach the Stratosphere | 50.00% | ~123,970 |
 | Synchronization Complete | 47.00% | ~116,532 |
 | Secret Society | 45.00% | ~111,573 |
-| Shadow Syndicate | 38.00% | ~94,217 |
-| What a Waste of Money | 33.00% | ~81,820 |
+| Shadow Syndicate | 38.00% | ~94,218 |
+| What a Waste of Money | 33.00% | ~81,821 |
 | New Goat Order | 30.00% | ~74,382 |
 | Don't touch the servers | 28.00% | ~69,423 |
 | San Angora: Become Human | 27.00% | ~66,944 |
 | Real Buoy | 27.00% | ~66,944 |
-| Raider of the Lost Parking Garage | 26.00% | ~64,464 |
+| Raider of the Lost Parking Garage | 26.00% | ~64,465 |
 | Welcome to Earth | 25.00% | ~61,985 |
 | Into the Matrix | 19.00% | ~47,109 |
 | Egg Simulator | 18.00% | ~44,629 |
@@ -45,7 +45,7 @@ Rating: 4.84 (Ranked 49)
 | Move! That! Bus! | 0.60% | ~1,488 |
 | G.O.A.T | 0.30% | ~744 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 247,940 (Ranked 54)  
+Progressed: 247,941 (Ranked 54)  
 Completed: 859 (0.35%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,10 +227,10 @@ Completed: 859 (0.35%) (Ranked 200)
 | 2023-10-16 | 247,766 | 858 |
 | 2023-10-17 | 247,862 | 859 |
 | 2023-10-18 | 247,932 | 859 |
-| 2023-10-19 | 247,940 | 859 |
+| 2023-10-19 | 247,941 | 859 |
 ## Awards
 Max (Great for Beginners): 421  (Ranked 218)  
-Sum: 3,600 (Ranked 158)  
+Sum: 3,603 (Ranked 158)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
@@ -243,7 +243,7 @@ Diff (max vs sum): 60
 | This game is Relaxing | 343 |
 | This game has a Silly Community | 340 |
 | This game has Quickly Understood Controls | 338 |
-| This game has Easy Combat | 304 |
+| This game has Easy Combat | 307 |
 | This game is Educational | 263 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -453,3 +453,4 @@ Diff (max vs sum): 60
 | 2023-10-14 | 4.84 | 420 | 3,575 |
 | 2023-10-15 | 4.84 | 421 | 3,592 |
 | 2023-10-18 | 4.84 | 421 | 3,600 |
+| 2023-10-19 | 4.84 | 421 | 3,603 |

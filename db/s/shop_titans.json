@@ -6589,9 +6589,9 @@
       "Count": 3762
     }
   ],
-  "EOS_Progressed": 137797,
+  "EOS_Progressed": 137800,
   "EOS_Completed": 171,
-  "EOS_NewPlayers": 333,
+  "EOS_NewPlayers": 335,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -25184,6 +25184,11 @@
       "Time": "2023-10-19T05:04:41.6048033+00:00",
       "NumProgressed": 137797,
       "NumCompleted": 171
+    },
+    {
+      "Time": "2023-10-19T06:04:37.2619487+00:00",
+      "NumProgressed": 137800,
+      "NumCompleted": 171
     }
   ],
   "TotalAchievements": 112,
@@ -25649,9 +25654,9 @@
       "ID": "fuseuncommon",
       "SetID": "anfd17p",
       "Name": "Trash to Treasure",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 965
+      "UsersEstimate": 1102
     },
     {
       "ID": "gemsspent",
@@ -26090,15 +26095,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 137797,
+      "Progressed": 137800,
       "Completed": 171
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-18T22:11:06.3781166+00:00",
-  "LastChanged_Achievements": "2023-10-19T05:04:41.6048027+00:00",
+  "LastChanged_Achievements": "2023-10-19T06:04:37.2619482+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:10.2617104+00:00",
-  "LastUpdate_Ratings": "2023-10-19T04:58:41.7664595+00:00",
-  "LastUpdate_Achievements": "2023-10-19T05:04:41.6050688+00:00"
+  "LastUpdate_Ratings": "2023-10-19T05:58:35.1997924+00:00",
+  "LastUpdate_Achievements": "2023-10-19T06:04:37.2622718+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 225,
   "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2015-10-16T01:00:00+00:00",
@@ -233,9 +233,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 148817,
+  "EOS_Progressed": 148819,
   "EOS_Completed": 305,
-  "EOS_NewPlayers": 1081,
+  "EOS_NewPlayers": 1078,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -14958,6 +14958,11 @@
       "Time": "2023-10-19T05:06:45.883339+00:00",
       "NumProgressed": 148817,
       "NumCompleted": 305
+    },
+    {
+      "Time": "2023-10-19T06:06:42.3574366+00:00",
+      "NumProgressed": 148819,
+      "NumCompleted": 305
     }
   ],
   "TotalAchievements": 31,
@@ -14977,7 +14982,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 104172
+      "UsersEstimate": 104173
     },
     {
       "ID": "EAwards_10",
@@ -14985,7 +14990,7 @@
       "Name": "Combo Nerd",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 20834
+      "UsersEstimate": 20835
     },
     {
       "ID": "EAwards_11",
@@ -14993,7 +14998,7 @@
       "Name": "Pollo Power",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 29763
+      "UsersEstimate": 29764
     },
     {
       "ID": "EAwards_12",
@@ -15073,7 +15078,7 @@
       "Name": "I Have The Power",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 11905
+      "UsersEstimate": 11906
     },
     {
       "ID": "EAwards_21",
@@ -15153,7 +15158,7 @@
       "Name": "X\u0027tabay-Bye",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 28275
+      "UsersEstimate": 28276
     },
     {
       "ID": "EAwards_30",
@@ -15185,7 +15190,7 @@
       "Name": "Power Within",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 37204
+      "UsersEstimate": 37205
     },
     {
       "ID": "EAwards_7",
@@ -15201,7 +15206,7 @@
       "Name": "Flawless",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 55062
+      "UsersEstimate": 55063
     },
     {
       "ID": "EAwards_9",
@@ -15216,7 +15221,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 148817,
+      "Progressed": 148819,
       "Completed": 305
     }
   ],
@@ -15224,8 +15229,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-10-16T16:03:00.6349642+00:00",
-  "LastChanged_Achievements": "2023-10-19T05:06:45.8833385+00:00",
+  "LastChanged_Achievements": "2023-10-19T06:06:42.3574364+00:00",
   "LastUpdate_AppInfo": "2023-10-13T01:42:08.412452+00:00",
-  "LastUpdate_Ratings": "2023-10-19T04:57:41.8327631+00:00",
-  "LastUpdate_Achievements": "2023-10-19T05:06:45.8834572+00:00"
+  "LastUpdate_Ratings": "2023-10-19T05:57:34.698175+00:00",
+  "LastUpdate_Achievements": "2023-10-19T06:06:42.3575545+00:00"
 }

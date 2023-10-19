@@ -20,7 +20,7 @@ Rating: 4.50 (Ranked 575)
 | Catch Jonathan_tostar | 27.00% | ~116 |
 | Rookie | 27.00% | ~116 |
 | Campaigning | 26.00% | ~112 |
-| Assemble a Meganewbie | 25.00% | ~108 |
+| Assemble a Meganewbie | 26.00% | ~112 |
 | Frugal | 22.00% | ~95 |
 | Feed a God | 22.00% | ~95 |
 | To the Moon and Back | 20.00% | ~86 |

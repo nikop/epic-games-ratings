@@ -6,37 +6,37 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 71.00% | ~633,763 |
-| Right Back At Ya | 45.00% | ~401,681 |
-| The Lovers | 39.00% | ~348,123 |
-| Stanislavski's Method | 34.00% | ~303,492 |
-| The Wheel of Fortune | 33.00% | ~294,566 |
-| The Hermit | 30.00% | ~267,787 |
-| The High Priestess | 30.00% | ~267,787 |
-| True Soldier | 29.00% | ~258,861 |
-| Christmas Tree Attack | 26.00% | ~232,082 |
+| The Fool | 71.00% | ~633,765 |
+| Right Back At Ya | 45.00% | ~401,682 |
+| The Lovers | 39.00% | ~348,125 |
+| Stanislavski's Method | 34.00% | ~303,493 |
+| The Wheel of Fortune | 33.00% | ~294,567 |
+| The Hermit | 30.00% | ~267,788 |
+| The High Priestess | 30.00% | ~267,788 |
+| True Soldier | 29.00% | ~258,862 |
+| Christmas Tree Attack | 26.00% | ~232,083 |
 | Full Body Conversion | 24.00% | ~214,230 |
 | Life of the Road | 23.00% | ~205,304 |
-| Ten out of Ten | 22.00% | ~196,377 |
-| The World | 22.00% | ~196,377 |
-| Master Crafter | 21.00% | ~187,451 |
+| Ten out of Ten | 22.00% | ~196,378 |
+| The World | 22.00% | ~196,378 |
+| Master Crafter | 21.00% | ~187,452 |
 | True Warrior | 20.00% | ~178,525 |
 | Bushido and Chill | 19.00% | ~169,599 |
-| Gun Fu | 18.00% | ~160,672 |
+| Gun Fu | 18.00% | ~160,673 |
 | I Am The Law | 16.00% | ~142,820 |
 | To Protect and Serve | 15.00% | ~133,894 |
-| Breathtaking | 14.00% | ~124,967 |
-| The Quick and the Dead | 13.00% | ~116,041 |
-| Rough Landing | 13.00% | ~116,041 |
+| Breathtaking | 14.00% | ~124,968 |
+| The Quick and the Dead | 13.00% | ~116,042 |
+| Rough Landing | 13.00% | ~116,042 |
 | The Jungle | 12.00% | ~107,115 |
 | To Bad Decisions! | 11.00% | ~98,189 |
 | The Wandering Fool | 11.00% | ~98,189 |
-| Gunslinger | 10.00% | ~89,262 |
-| Mean Streets | 10.00% | ~89,262 |
+| Gunslinger | 10.00% | ~89,263 |
+| Mean Streets | 10.00% | ~89,263 |
 | Temperance | 9.00% | ~80,336 |
 | The Star | 8.00% | ~71,410 |
 | The Sun | 8.00% | ~71,410 |
-| City Lights | 6.00% | ~53,557 |
+| City Lights | 6.00% | ~53,558 |
 | Must Be Rats | 5.00% | ~44,631 |
 | The Devil | 5.00% | ~44,631 |
 | Greetings from Pacifica! | 5.00% | ~44,631 |
@@ -48,8 +48,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | Frequent Flyer | 3.00% | ~26,779 |
 | The Wasteland | 3.00% | ~26,779 |
 | Daemon In The Shell | 3.00% | ~26,779 |
-| Judy vs Night City | 2.00% | ~17,852 |
-| It's Elementary | 2.00% | ~17,852 |
+| Judy vs Night City | 2.00% | ~17,853 |
+| It's Elementary | 2.00% | ~17,853 |
 | Spin Doctor | 2.00% | ~425 |
 | The APB is Not Enough | 0.70% | ~149 |
 | Relic Ruler | 0.70% | ~149 |
@@ -64,7 +64,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 892,624 (Ranked 15)  
+Progressed: 892,627 (Ranked 15)  
 Completed: 2,683 (0.30%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,16 +246,16 @@ Completed: 2,683 (0.30%) (Ranked 206)
 | 2023-10-16 | 892,285 | 2,674 |
 | 2023-10-17 | 892,443 | 2,678 |
 | 2023-10-18 | 892,603 | 2,683 |
-| 2023-10-19 | 892,624 | 2,683 |
+| 2023-10-19 | 892,627 | 2,683 |
 ## Awards
 Max (Character Customization): 99,323  (Ranked 9)  
-Sum: 312,020 (Ranked 11)  
+Sum: 312,192 (Ranked 11)  
 Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 99,323 |
 | This game has Great Boss Battles | 70,317 |
-| This game is Great for Beginners | 17,332 |
+| This game is Great for Beginners | 17,504 |
 | This game has Diverse Characters | 17,214 |
 | This game is Highly Recommended | 16,645 |
 | This game has Amazing Storytelling | 16,528 |
@@ -540,4 +540,4 @@ Diff (max vs sum): -2
 | 2023-10-16 | 4.64 | - | 98,623 | 306,605 |
 | 2023-10-17 | 4.64 | - | 98,980 | 308,884 |
 | 2023-10-18 | 4.64 | - | 99,323 | 311,170 |
-| 2023-10-19 | 4.64 | - | 99,323 | 312,020 |
+| 2023-10-19 | 4.64 | - | 99,323 | 312,192 |

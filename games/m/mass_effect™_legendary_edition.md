@@ -121,7 +121,7 @@
 | Singularity Mastery | 7.00% | ~52 |
 | Insanity I | 6.00% | ~44 |
 | Incineration Specialist | 6.00% | ~44 |
-| Shield Breaker | 4.00% | ~30 |
+| Shield Breaker | 5.00% | ~37 |
 | Warp Specialist | 4.00% | ~30 |
 | Insanity II | 3.00% | ~22 |
 | Tactician | 3.00% | ~22 |

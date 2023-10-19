@@ -24,10 +24,10 @@
 | Heart Gate | 19.00% | ~11 |
 | Shard Spender | 19.00% | ~11 |
 | Star Killer | 19.00% | ~11 |
+| The Goddes Avatar | 17.00% | ~10 |
 | Astral Adventurer | 16.00% | ~9 |
 | Astral Seeker | 16.00% | ~9 |
 | The Corruption Goddess | 16.00% | ~9 |
-| The Goddes Avatar | 16.00% | ~9 |
 | Unbeatable | 16.00% | ~9 |
 | Favored by the Cosmos | 12.00% | ~7 |
 | Wave Bender | 12.00% | ~7 |
@@ -37,11 +37,11 @@
 | Heavy Purger | 9.00% | ~5 |
 | Sadistic Plan | 9.00% | ~5 |
 | Stellar Haste | 9.00% | ~5 |
+| The Dark Moon | 9.00% | ~5 |
 | Apian Hero | 9.00% | ~5 |
 | Behenian Hero | 9.00% | ~5 |
 | Denying Destiny | 7.00% | ~4 |
 | The Chaos Artisan | 7.00% | ~4 |
-| The Dark Moon | 7.00% | ~4 |
 | The Distorted Sage | 7.00% | ~4 |
 | Artificer | 5.00% | ~3 |
 | Purification Avatar | 5.00% | ~3 |

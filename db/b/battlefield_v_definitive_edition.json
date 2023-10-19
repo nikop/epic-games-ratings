@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 14789,
+  "EOS_Progressed": 14790,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1720,
+  "EOS_NewPlayers": 1717,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3388,6 +3388,11 @@
       "Time": "2023-10-19T05:05:03.8028647+00:00",
       "NumProgressed": 14789,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-19T06:04:59.3983257+00:00",
+      "NumProgressed": 14790,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-20T23:03:51.052105+00:00",
@@ -3416,7 +3421,7 @@
       "Name": "Death from Above",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "achievement_12",
@@ -3440,7 +3445,7 @@
       "Name": "Call \u2019em in!",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 6359
+      "UsersEstimate": 6360
     },
     {
       "ID": "achievement_15",
@@ -3448,7 +3453,7 @@
       "Name": "Combat Engineer",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 7838
+      "UsersEstimate": 7839
     },
     {
       "ID": "achievement_16",
@@ -3456,7 +3461,7 @@
       "Name": "Heads Down",
       "Percentage": 74,
       "XP": 30,
-      "UsersEstimate": 10944
+      "UsersEstimate": 10945
     },
     {
       "ID": "achievement_17",
@@ -3496,7 +3501,7 @@
       "Name": "Last Man Standing",
       "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 13754
+      "UsersEstimate": 13755
     },
     {
       "ID": "achievement_21",
@@ -3504,7 +3509,7 @@
       "Name": "Not On My Watch",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 10500
+      "UsersEstimate": 10501
     },
     {
       "ID": "achievement_3",
@@ -3528,7 +3533,7 @@
       "Name": "Store fuglar fanga ingi flugor",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 3697
+      "UsersEstimate": 3698
     },
     {
       "ID": "achievement_6",
@@ -3536,7 +3541,7 @@
       "Name": "Ou La Mort",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 3401
+      "UsersEstimate": 3402
     },
     {
       "ID": "achievement_7",
@@ -3552,7 +3557,7 @@
       "Name": "Enemy Attrition",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 10944
+      "UsersEstimate": 10945
     },
     {
       "ID": "achievement_9",
@@ -3567,13 +3572,13 @@
     {
       "ID": "akc8324",
       "IsBase": true,
-      "Progressed": 14789,
+      "Progressed": 14790,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-28T21:07:50.8080594+00:00",
-  "LastChanged_Achievements": "2023-10-19T05:05:03.802864+00:00",
+  "LastChanged_Achievements": "2023-10-19T06:04:59.3983231+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:19.5958536+00:00",
-  "LastUpdate_Ratings": "2023-10-19T05:00:16.7957127+00:00",
-  "LastUpdate_Achievements": "2023-10-19T05:05:03.8029015+00:00"
+  "LastUpdate_Ratings": "2023-10-19T06:00:10.8017387+00:00",
+  "LastUpdate_Achievements": "2023-10-19T06:04:59.3983755+00:00"
 }
