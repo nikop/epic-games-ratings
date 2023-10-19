@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Setting Sail | 71.00% | ~5 |
+| Spirit Within | 29.00% | ~2 |
 | A Small Thirsty Thing | 14.00% | ~1 |
 | Sovereignty of Irons | 14.00% | ~1 |
 | Leisis Bless You | 14.00% | ~1 |
-| Spirit Within | 14.00% | ~1 |
 | Rain Must Fall | 0.00% | ~0 |
 | No Salvation | 0.00% | ~0 |
 | Overboard | 0.00% | ~0 |

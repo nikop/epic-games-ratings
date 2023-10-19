@@ -8,24 +8,24 @@ Rating: 4.19 (Ranked 895)
 | Get a Grip | 8.00% | ~1,285 |
 | Paper Jams | 6.00% | ~964 |
 | Flesh Wound | 5.00% | ~803 |
-| Chew 'Em Up | 5.00% | ~803 |
 | Float Like A Butterfly | 5.00% | ~803 |
-| Keep Fighting | 5.00% | ~199 |
-| You Need a Gun | 4.00% | ~642 |
-| I Do Belong Here | 4.00% | ~642 |
-| Two Heads Are Better Than One | 4.00% | ~642 |
-| Workplace Hazard | 4.00% | ~642 |
-| Reforged | 4.00% | ~642 |
-| The Outer Way | 4.00% | ~642 |
-| If the SHU Fits... | 4.00% | ~642 |
-| Without A Paddle | 4.00% | ~642 |
-| In the Pipe, Five by Five | 4.00% | ~642 |
-| What Lies Beneath | 4.00% | ~642 |
-| Desperate Times | 4.00% | ~642 |
-| Crash Site | 4.00% | ~642 |
-| Full Circle | 4.00% | ~642 |
-| Power Up | 4.00% | ~642 |
-| It's Time | 4.00% | ~159 |
+| Keep Fighting | 5.00% | ~200 |
+| You Need a Gun | 4.00% | ~643 |
+| I Do Belong Here | 4.00% | ~643 |
+| Two Heads Are Better Than One | 4.00% | ~643 |
+| Chew 'Em Up | 4.00% | ~643 |
+| Workplace Hazard | 4.00% | ~643 |
+| Reforged | 4.00% | ~643 |
+| The Outer Way | 4.00% | ~643 |
+| If the SHU Fits... | 4.00% | ~643 |
+| Without A Paddle | 4.00% | ~643 |
+| In the Pipe, Five by Five | 4.00% | ~643 |
+| What Lies Beneath | 4.00% | ~643 |
+| Desperate Times | 4.00% | ~643 |
+| Crash Site | 4.00% | ~643 |
+| Full Circle | 4.00% | ~643 |
+| Power Up | 4.00% | ~643 |
+| It's Time | 4.00% | ~160 |
 | Giving Back | 3.00% | ~482 |
 | Terminated | 3.00% | ~482 |
 | In Striking Distance | 2.00% | ~321 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 895)
 | Hoard Mode | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,061 (Ranked 133)  
+Progressed: 16,067 (Ranked 133)  
 Completed: 75 (0.47%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,11 +228,11 @@ Completed: 75 (0.47%) (Ranked 180)
 | 2023-10-16 | 16,015 | 75 |
 | 2023-10-17 | 16,022 | 75 |
 | 2023-10-18 | 16,031 | 75 |
-| 2023-10-19 | 16,061 | 75 |
+| 2023-10-19 | 16,067 | 75 |
 ## Awards
-Max (Highly Recommended): 76  (Ranked 380)  
+Max (Highly Recommended): 76  (Ranked 381)  
 Sum: 448 (Ranked 323)  
-Diff (max vs sum): 57  
+Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 76 |

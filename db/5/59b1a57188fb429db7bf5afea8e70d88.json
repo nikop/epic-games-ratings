@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 510,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 313,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-10-04T14:00:00+00:00",
     "PcReleaseDate": "2023-10-04T14:00:00+00:00",
@@ -117,9 +117,9 @@
       "ID": "CATCHING_UP_ACH",
       "SetID": "7jaf9il",
       "Name": "Catching Up",
-      "Percentage": 6,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "COMBAT_EVOLUTION_ACH",
@@ -221,9 +221,9 @@
       "ID": "MAKING_FRIENDS_ACH",
       "SetID": "7jaf9il",
       "Name": "Making Friends",
-      "Percentage": 6,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "QUITE_THE_CRISIS_ACH",
@@ -261,9 +261,9 @@
       "ID": "TAPE_IT_BACK_TOGETHER_ACH",
       "SetID": "7jaf9il",
       "Name": "Tape It Back Together",
-      "Percentage": 25,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "TEMPORARY_SHELTER_ACH",
@@ -316,8 +316,8 @@
   ],
   "FirstSeen": "2023-10-10T23:57:30.9159633+00:00",
   "FirstSeenAchievements": "2023-08-30T15:02:12.9396866+00:00",
-  "LastChanged_Achievements": "2023-10-19T17:04:23.2836508+00:00",
+  "LastChanged_Achievements": "2023-10-19T18:03:37.723965+00:00",
   "LastUpdate_AppInfo": "2023-10-18T17:59:11.4813248+00:00",
-  "LastUpdate_Ratings": "2023-10-19T17:02:38.8633432+00:00",
-  "LastUpdate_Achievements": "2023-10-19T17:04:23.283682+00:00"
+  "LastUpdate_Ratings": "2023-10-19T18:00:42.9514408+00:00",
+  "LastUpdate_Achievements": "2023-10-19T18:03:37.7239857+00:00"
 }

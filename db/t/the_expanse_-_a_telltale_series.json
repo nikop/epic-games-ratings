@@ -2,7 +2,7 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 457,
+  "Ranking_Rating": 458,
   "Ranking_Popularity": 538,
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 139,
@@ -169,9 +169,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14121,
+  "EOS_Progressed": 14122,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 240,
+  "EOS_NewPlayers": 239,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -9054,6 +9054,11 @@
       "Time": "2023-10-19T17:05:07.3086821+00:00",
       "NumProgressed": 14121,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-10-19T18:04:19.071857+00:00",
+      "NumProgressed": 14122,
+      "NumCompleted": 26
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -9098,7 +9103,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2259
+      "UsersEstimate": 2260
     },
     {
       "ID": "14",
@@ -9122,7 +9127,7 @@
       "Name": "Drug Gifter",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 988
+      "UsersEstimate": 989
     },
     {
       "ID": "17",
@@ -9305,22 +9310,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14121,
+      "Progressed": 14122,
       "Completed": 26
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 75,
-      "Completed": 75
+      "Progressed": 76,
+      "Completed": 76
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-13T09:00:57.1370573+00:00",
-  "LastChanged_Achievements": "2023-10-19T17:05:07.3086812+00:00",
+  "LastChanged_Achievements": "2023-10-19T18:04:19.0718566+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:40.5814563+00:00",
-  "LastUpdate_Ratings": "2023-10-19T16:58:42.039952+00:00",
-  "LastUpdate_Achievements": "2023-10-19T17:05:07.3088128+00:00"
+  "LastUpdate_Ratings": "2023-10-19T17:58:11.8273976+00:00",
+  "LastUpdate_Achievements": "2023-10-19T18:04:19.0720014+00:00"
 }

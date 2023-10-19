@@ -4,8 +4,8 @@
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
     "PcReleaseDate": "2023-08-26T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 389,
+  "EOS_Progressed": 390,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -1719,6 +1719,11 @@
       "Time": "2023-10-19T17:08:11.1677871+00:00",
       "NumProgressed": 389,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-19T18:06:28.0203252+00:00",
+      "NumProgressed": 390,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 14,
@@ -1730,7 +1735,7 @@
       "Name": "The gateway to the underworld",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -1738,7 +1743,7 @@
       "Name": "Is it merely a dream?",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -1794,7 +1799,7 @@
       "Name": "This looks really bad",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -1826,7 +1831,7 @@
       "Name": "Holy Nails",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -1841,14 +1846,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 389,
+      "Progressed": 390,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-10-19T17:08:11.1677865+00:00",
+  "LastChanged_Achievements": "2023-10-19T18:06:28.0203246+00:00",
   "LastUpdate_AppInfo": "2023-10-14T11:57:11.021684+00:00",
-  "LastUpdate_Ratings": "2023-10-19T17:01:33.5393932+00:00",
-  "LastUpdate_Achievements": "2023-10-19T17:08:11.1678097+00:00"
+  "LastUpdate_Ratings": "2023-10-19T18:00:01.0241769+00:00",
+  "LastUpdate_Achievements": "2023-10-19T18:06:28.0203594+00:00"
 }

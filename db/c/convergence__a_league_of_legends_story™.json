@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 174,
   "Ranking_EOS_NewPlayers": 313,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -2483,9 +2483,9 @@
       "ID": "FutureEkko1Defeated",
       "SetID": "a9e499d",
       "Name": "The Mysterious Stranger",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 218
+      "UsersEstimate": 227
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -2796,8 +2796,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-10-19T17:03:36.3082149+00:00",
+  "LastChanged_Achievements": "2023-10-19T18:03:10.9598343+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:58.9588664+00:00",
-  "LastUpdate_Ratings": "2023-10-19T17:01:47.3975792+00:00",
-  "LastUpdate_Achievements": "2023-10-19T17:03:36.3082758+00:00"
+  "LastUpdate_Ratings": "2023-10-19T18:00:11.1834604+00:00",
+  "LastUpdate_Achievements": "2023-10-19T18:03:10.9599065+00:00"
 }

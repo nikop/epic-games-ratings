@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 497,
   "Ranking_EOS_Completed": 60,
   "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-08-15T14:00:00+00:00",
     "PcReleaseDate": "2019-09-27T12:00:00+00:00",
@@ -142,9 +142,9 @@
       "ID": "BigBrother",
       "SetID": "bl5ebnd",
       "Name": "Big Brother is Watching You",
-      "Percentage": 21,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "CustomerService",
@@ -277,8 +277,8 @@
   ],
   "FirstSeen": "2023-08-17T18:58:24.9645981+00:00",
   "FirstSeenAchievements": "2023-08-07T14:05:00.198888+00:00",
-  "LastChanged_Achievements": "2023-10-19T17:09:54.6887577+00:00",
+  "LastChanged_Achievements": "2023-10-19T18:08:30.6049787+00:00",
   "LastUpdate_AppInfo": "2023-10-19T15:57:06.2042254+00:00",
-  "LastUpdate_Ratings": "2023-10-19T16:57:13.4018734+00:00",
-  "LastUpdate_Achievements": "2023-10-19T17:09:54.6887752+00:00"
+  "LastUpdate_Ratings": "2023-10-19T17:57:13.7600029+00:00",
+  "LastUpdate_Achievements": "2023-10-19T18:08:30.6050012+00:00"
 }

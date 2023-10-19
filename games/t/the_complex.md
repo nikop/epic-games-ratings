@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tough Decision | 94.00% | ~538 |
-| Blast From The Past | 85.00% | ~486 |
-| Kamikaze | 65.00% | ~372 |
-| The Rebel And The Doctor | 58.00% | ~332 |
-| Beat It | 53.00% | ~303 |
-| Free Champagne | 49.00% | ~280 |
-| Storage Hunter | 47.00% | ~269 |
-| Falling For You | 45.00% | ~257 |
+| Tough Decision | 94.00% | ~540 |
+| Blast From The Past | 85.00% | ~488 |
+| Kamikaze | 64.00% | ~367 |
+| The Rebel And The Doctor | 58.00% | ~333 |
+| Beat It | 52.00% | ~298 |
+| Free Champagne | 49.00% | ~281 |
+| Storage Hunter | 47.00% | ~270 |
+| Falling For You | 45.00% | ~258 |
 | Trust Me For Once | 29.00% | ~166 |
-| Lab Rat | 25.00% | ~143 |
-| Stalemate | 20.00% | ~114 |
+| Lab Rat | 25.00% | ~144 |
+| Stalemate | 20.00% | ~115 |
 | Kindar Surprise | 19.00% | ~109 |
 | MVP - Most Vanishing Person | 15.00% | ~86 |
 | Deadly Secret | 14.00% | ~80 |
 | Get Out Of This Alive | 11.00% | ~63 |
 | The Promise | 10.00% | ~57 |
-| People Pleaser | 9.00% | ~51 |
+| People Pleaser | 9.00% | ~52 |
 | The Nano Glitches And The Martyr | 8.00% | ~46 |
-| Second Chances | 8.00% | ~46 |
+| Second Chances | 7.00% | ~40 |
 | Not A People Person | 4.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 572 (Ranked 265)  
-Completed: 19 (3.32%) (Ranked 83)  
+Progressed: 574 (Ranked 265)  
+Completed: 19 (3.31%) (Ranked 83)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -120,7 +120,7 @@ Completed: 19 (3.32%) (Ranked 83)
 | 2023-10-12 | 567 | 19 |
 | 2023-10-14 | 569 | 19 |
 | 2023-10-15 | 570 | 19 |
-| 2023-10-19 | 572 | 19 |
+| 2023-10-19 | 574 | 19 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

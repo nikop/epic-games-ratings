@@ -1,11 +1,11 @@
 # Neon Abyss
 [Store](https://store.epicgames.com/en-US/p/neon-abyss)  
 [View Rawdata](../../db/n/neon_abyss.json)  
-Rating: 4.68 (Ranked 242)  
+Rating: 4.68 (Ranked 241)  
 Number of Ratings: 8,340  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 695  (Ranked 179)  
-Sum: 5,472 (Ranked 131)  
+Sum: 5,473 (Ranked 131)  
 Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
@@ -18,7 +18,7 @@ Diff (max vs sum): 48
 | This game has Amazing Storytelling | 519 |
 | This game has Amazing Characters | 500 |
 | This game has Playful Visuals | 490 |
-| This game has a Creative Community | 327 |
+| This game has a Creative Community | 328 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -219,4 +219,4 @@ Diff (max vs sum): 48
 | 2023-10-11 | 4.68 | - | 694 | 5,467 |
 | 2023-10-12 | 4.68 | - | 695 | 5,468 |
 | 2023-10-13 | 4.68 | - | 695 | 5,470 |
-| 2023-10-19 | 4.68 | - | 695 | 5,472 |
+| 2023-10-19 | 4.68 | - | 695 | 5,473 |

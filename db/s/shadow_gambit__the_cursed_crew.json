@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -101,9 +101,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 738,
+  "EOS_Progressed": 739,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.25,
   "EosHistory": [
@@ -2186,6 +2186,11 @@
       "Time": "2023-10-19T07:09:45.7267282+00:00",
       "NumProgressed": 738,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-10-19T18:08:25.0484556+00:00",
+      "NumProgressed": 739,
+      "NumCompleted": 24
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2198,7 +2203,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -2206,7 +2211,7 @@
       "Name": "A New Journey",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "_03_FinishAct1",
@@ -2214,7 +2219,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -2222,7 +2227,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "_05_FinishAct2",
@@ -2238,7 +2243,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "_07_FinishAct3",
@@ -2254,7 +2259,7 @@
       "Name": "Swabbie",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "_09_Completion_20",
@@ -2268,9 +2273,9 @@
       "ID": "_10_Completion_30",
       "SetID": "8a1io5d",
       "Name": "Buccaneer",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 184
+      "UsersEstimate": 177
     },
     {
       "ID": "_11_Completion_40",
@@ -2316,9 +2321,9 @@
       "ID": "_16_UnlockCore8Characters",
       "SetID": "8a1io5d",
       "Name": "Pirates Assemble!",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 207
+      "UsersEstimate": 200
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -2350,15 +2355,15 @@
       "Name": "Fishy Fish",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "_21_CrewTale_OVT",
       "SetID": "8a1io5d",
       "Name": "Tobacco Travesty",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 89
     },
     {
       "ID": "_22_CrewTale_FSH",
@@ -2405,7 +2410,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 738,
+      "Progressed": 739,
       "Completed": 24
     }
   ],
@@ -2413,8 +2418,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-10-02T00:00:41.2116731+00:00",
-  "LastChanged_Achievements": "2023-10-19T17:09:46.9376298+00:00",
+  "LastChanged_Achievements": "2023-10-19T18:08:25.0484549+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:48.0426096+00:00",
-  "LastUpdate_Ratings": "2023-10-19T16:59:17.555975+00:00",
-  "LastUpdate_Achievements": "2023-10-19T17:09:46.9376615+00:00"
+  "LastUpdate_Ratings": "2023-10-19T17:58:37.1471813+00:00",
+  "LastUpdate_Achievements": "2023-10-19T18:08:25.0484918+00:00"
 }

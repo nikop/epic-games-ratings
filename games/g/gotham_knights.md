@@ -19,23 +19,23 @@ Rating: 4.18 (Ranked 902)
 | Working Hard or Harley Working? | 21.00% | ~15,484 |
 | Unstoppable Force | 20.00% | ~14,747 |
 | Bad Apples in Every Orchard | 20.00% | ~14,747 |
-| Snow Problem | 19.00% | ~14,009 |
+| Snow Problem | 19.00% | ~14,010 |
 | The Show Mud Go On | 18.00% | ~13,272 |
 | From Inside Gotham's Walls | 18.00% | ~13,272 |
 | Protector of Gotham | 17.00% | ~12,535 |
-| In Your Element | 16.00% | ~11,797 |
-| Universal Health Scare | 16.00% | ~11,797 |
+| In Your Element | 16.00% | ~11,798 |
+| Universal Health Scare | 16.00% | ~11,798 |
 | Voiceless | 15.00% | ~11,060 |
 | Rock and a Hard Place | 14.00% | ~10,323 |
 | Cooldown | 14.00% | ~10,323 |
 | Seeking Asylum | 14.00% | ~10,323 |
-| Not On My Watch | 13.00% | ~9,585 |
-| Shock Til They Drop | 13.00% | ~9,585 |
+| Not On My Watch | 13.00% | ~9,586 |
+| Shock Til They Drop | 13.00% | ~9,586 |
 | End of an Era | 12.00% | ~8,848 |
 | Bulldozed | 12.00% | ~8,848 |
 | Gotham Knight | 12.00% | ~8,848 |
 | Gotham City Confidential | 11.00% | ~8,111 |
-| Drone You Out | 10.00% | ~7,373 |
+| Drone You Out | 10.00% | ~7,374 |
 | Out of Their League | 9.00% | ~6,636 |
 | Solid Alibi | 9.00% | ~6,636 |
 | Fusion Expert | 7.00% | ~5,161 |
@@ -43,10 +43,10 @@ Rating: 4.18 (Ranked 902)
 | Expert Crime Fighter | 6.00% | ~4,424 |
 | A Worthy Successor | 6.00% | ~4,424 |
 | Dressed to Impress | 4.00% | ~2,949 |
+| He'd Be So Proud of You | 3.00% | ~2,212 |
 | A Momentum Occasion | 3.00% | ~2,212 |
 | Bat Out of Hell | 3.00% | ~2,212 |
 | Practice Makes Perfect | 2.00% | ~1,475 |
-| He'd Be So Proud of You | 2.00% | ~1,475 |
 | Talonted | 1.00% | ~737 |
 | The Man-Bat Family | 1.00% | ~737 |
 | Batarang Collector | 1.00% | ~737 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 902)
 | Element of Surprise | 0.20% | ~88 |
 | It's Nice to Be Wanted | 0.20% | ~88 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,734 (Ranked 91)  
+Progressed: 73,735 (Ranked 91)  
 Completed: 121 (0.16%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,7 +249,7 @@ Completed: 121 (0.16%) (Ranked 233)
 | 2023-10-16 | 73,582 | 121 |
 | 2023-10-17 | 73,607 | 121 |
 | 2023-10-18 | 73,650 | 121 |
-| 2023-10-19 | 73,734 | 121 |
+| 2023-10-19 | 73,735 | 121 |
 ## Awards
 Max (Great Boss Battles): 2,842  (Ranked 98)  
 Sum: 4,780 (Ranked 139)  

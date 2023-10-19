@@ -6,30 +6,30 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~40,516 |
-| First Steps | 80.00% | ~34,853 |
-| Control the Shadows | 67.00% | ~29,189 |
-| Tools of the Trade | 63.00% | ~27,447 |
-| Apprentice | 60.00% | ~26,140 |
-| Secret Seeker | 57.00% | ~24,833 |
-| Forge of Assassins | 55.00% | ~23,961 |
-| Revenant | 52.00% | ~22,654 |
-| I don’t Care! | 45.00% | ~19,605 |
-| Bird of Prey | 37.00% | ~16,119 |
-| Engraved with Power | 32.00% | ~13,941 |
-| Lady | 31.00% | ~13,505 |
+| Awakening | 93.00% | ~40,518 |
+| First Steps | 80.00% | ~34,854 |
+| Control the Shadows | 67.00% | ~29,191 |
+| Tools of the Trade | 63.00% | ~27,448 |
+| Apprentice | 60.00% | ~26,141 |
+| Secret Seeker | 57.00% | ~24,834 |
+| Forge of Assassins | 55.00% | ~23,962 |
+| Revenant | 52.00% | ~22,655 |
+| I don’t Care! | 45.00% | ~19,606 |
+| Bird of Prey | 37.00% | ~16,120 |
+| Engraved with Power | 32.00% | ~13,942 |
+| Lady | 31.00% | ~13,506 |
 | Fashionable Assassin | 27.00% | ~11,763 |
 | Apex Predator | 24.00% | ~10,456 |
 | Soul Reaver | 22.00% | ~9,585 |
 | Embers | 21.00% | ~9,149 |
-| Wall Lizard | 20.00% | ~8,713 |
+| Wall Lizard | 20.00% | ~8,714 |
 | Clinging to Life | 18.00% | ~7,842 |
-| Burning | 17.00% | ~7,406 |
+| Burning | 17.00% | ~7,407 |
 | Look Behind You | 16.00% | ~6,971 |
 | Sleeping on the Job | 16.00% | ~6,971 |
-| Family | 14.00% | ~6,099 |
-| War Engines | 14.00% | ~6,099 |
-| Signature Move | 14.00% | ~6,099 |
+| Family | 14.00% | ~6,100 |
+| War Engines | 14.00% | ~6,100 |
+| Signature Move | 14.00% | ~6,100 |
 | Ruse | 11.00% | ~4,792 |
 | Master Ninja | 11.00% | ~4,792 |
 | Hatching | 10.00% | ~4,357 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Legacy | 2.00% | ~871 |
 | Anger Management | 1.00% | ~436 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,566 (Ranked 107)  
+Progressed: 43,568 (Ranked 107)  
 Completed: 238 (0.55%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,7 +233,7 @@ Completed: 238 (0.55%) (Ranked 174)
 | 2023-10-16 | 43,515 | 238 |
 | 2023-10-17 | 43,534 | 238 |
 | 2023-10-18 | 43,558 | 238 |
-| 2023-10-19 | 43,566 | 238 |
+| 2023-10-19 | 43,568 | 238 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

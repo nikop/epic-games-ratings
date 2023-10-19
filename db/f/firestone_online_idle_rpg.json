@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 453,
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -385,9 +385,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 2052,
+  "EOS_Progressed": 2053,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6205,6 +6205,11 @@
       "Time": "2023-10-19T16:04:31.9904118+00:00",
       "NumProgressed": 2052,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-19T18:04:22.1533959+00:00",
+      "NumProgressed": 2053,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -6320,7 +6325,7 @@
       "Name": "Dragon Clicker",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "dragonmaster",
@@ -6608,7 +6613,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1108
+      "UsersEstimate": 1109
     },
     {
       "ID": "prestigiousx10",
@@ -6776,7 +6781,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1908
+      "UsersEstimate": 1909
     },
     {
       "ID": "warmachinesarmy",
@@ -6808,14 +6813,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1621
+      "UsersEstimate": 1622
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2052,
+      "Progressed": 2053,
       "Completed": 2
     }
   ],
@@ -6823,8 +6828,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-10-18T19:57:48.2497701+00:00",
-  "LastChanged_Achievements": "2023-10-19T17:05:11.5834005+00:00",
+  "LastChanged_Achievements": "2023-10-19T18:04:22.1533954+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:40.7167186+00:00",
-  "LastUpdate_Ratings": "2023-10-19T16:58:21.7639632+00:00",
-  "LastUpdate_Achievements": "2023-10-19T17:05:11.5835539+00:00"
+  "LastUpdate_Ratings": "2023-10-19T17:57:58.5485928+00:00",
+  "LastUpdate_Achievements": "2023-10-19T18:04:22.1535181+00:00"
 }

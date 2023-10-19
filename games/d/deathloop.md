@@ -1,12 +1,12 @@
 # DEATHLOOP
 [Store](https://store.epicgames.com/en-US/p/deathloop)  
 [View Rawdata](../../db/d/deathloop.json)  
-Rating: 4.54 (Ranked 514)  
+Rating: 4.54 (Ranked 515)  
 Number of Ratings: 874  (23.09.2022)  
 ## Awards
 Max (Unique Visuals): 35  (Ranked 456)  
-Sum: 214 (Ranked 382)  
-Diff (max vs sum): 74  
+Sum: 214 (Ranked 383)  
+Diff (max vs sum): 73  
 | Award | Count |
 | ----- | ----- |
 | This game has Unique Visuals | 35 |

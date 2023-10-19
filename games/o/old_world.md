@@ -27,6 +27,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Naming Landmarks | 2.00% | ~296 |
 | Trade Caravan | 2.00% | ~296 |
 | Kushite Paganism | 2.00% | ~296 |
+| Regicide | 1.00% | ~148 |
 | Ambitious | 1.00% | ~148 |
 | Drillmaster | 1.00% | ~148 |
 | Brilliant | 1.00% | ~148 |
@@ -61,7 +62,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Roman Paganism | 1.00% | ~148 |
 | Zoroastrianism | 1.00% | ~148 |
 | Kushite Pyramids | 1.00% | ~148 |
-| Regicide | 0.90% | ~133 |
 | Mighty | 0.90% | ~133 |
 | Just Difficulty | 0.90% | ~133 |
 | Artisans | 0.90% | ~133 |

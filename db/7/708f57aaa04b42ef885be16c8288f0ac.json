@@ -2,10 +2,10 @@
   "ID": "708f57aaa04b42ef885be16c8288f0ac",
   "Name": "Ghostrunner 2",
   "ProductSlug": "ghostrunner-2",
-  "Ranking_EOS_Progress": 377,
+  "Ranking_EOS_Progress": 368,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 114,
+  "EOS_Progressed": 131,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -75,6 +75,11 @@
       "Time": "2023-10-19T17:06:17.7079841+00:00",
       "NumProgressed": 114,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-19T18:05:09.0192719+00:00",
+      "NumProgressed": 131,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -101,7 +106,7 @@
       "ID": "BeLikeWater",
       "SetID": "acc6ea0",
       "Name": "Be Like Water",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -125,7 +130,7 @@
       "ID": "ConnectionLost",
       "SetID": "acc6ea0",
       "Name": "Connection Lost",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -141,7 +146,7 @@
       "ID": "ExplosivePersonality",
       "SetID": "acc6ea0",
       "Name": "Explosive Personality",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -157,7 +162,7 @@
       "ID": "FirstTime",
       "SetID": "acc6ea0",
       "Name": "First Time?",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
       "UsersEstimate": 8
     },
@@ -197,7 +202,7 @@
       "ID": "HeJustWantedToHelp",
       "SetID": "acc6ea0",
       "Name": "He Just Wanted To Help",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -229,7 +234,7 @@
       "ID": "Nasty",
       "SetID": "acc6ea0",
       "Name": "Nasty!",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -287,7 +292,7 @@
       "Name": "The Quarterback",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ThisIsDharma",
@@ -301,7 +306,7 @@
       "ID": "TimeForYourNinjaRopeToshine",
       "SetID": "acc6ea0",
       "Name": "Time For Your Ninja Rope To Shine",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -358,13 +363,13 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 114,
+      "Progressed": 131,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
-  "LastChanged_Achievements": "2023-10-19T17:06:17.7079835+00:00",
+  "LastChanged_Achievements": "2023-10-19T18:05:09.0192712+00:00",
   "LastUpdate_AppInfo": "2023-10-19T09:57:16.8195873+00:00",
-  "LastUpdate_Ratings": "2023-10-19T17:03:14.0654901+00:00",
-  "LastUpdate_Achievements": "2023-10-19T17:06:17.7080141+00:00"
+  "LastUpdate_Ratings": "2023-10-19T18:02:15.4276158+00:00",
+  "LastUpdate_Achievements": "2023-10-19T18:05:09.0193161+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -559,9 +559,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3756,
+  "EOS_Progressed": 3757,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -7344,6 +7344,11 @@
       "Time": "2023-10-19T13:11:34.6335101+00:00",
       "NumProgressed": 3756,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-19T18:04:42.8308796+00:00",
+      "NumProgressed": 3757,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7363,7 +7368,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 826
+      "UsersEstimate": 827
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -7491,7 +7496,7 @@
       "Name": "Sharpshooter",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 826
+      "UsersEstimate": 827
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -7619,7 +7624,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -7691,7 +7696,7 @@
       "Name": "Change the Channel",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1164
+      "UsersEstimate": 1165
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -7723,7 +7728,7 @@
       "Name": "Taking it back",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1089
+      "UsersEstimate": 1090
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -7731,7 +7736,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -7763,7 +7768,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 901
+      "UsersEstimate": 902
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -7819,7 +7824,7 @@
       "Name": "Herr Today, Gone Tomorrow",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
@@ -7922,13 +7927,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3707,
+      "Progressed": 3708,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3756,
+      "Progressed": 3757,
       "Completed": 11
     }
   ],
@@ -7936,8 +7941,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-10-18T04:01:21.5719039+00:00",
-  "LastChanged_Achievements": "2023-10-19T17:05:40.8935489+00:00",
+  "LastChanged_Achievements": "2023-10-19T18:04:42.830879+00:00",
   "LastUpdate_AppInfo": "2023-10-14T10:57:25.01046+00:00",
-  "LastUpdate_Ratings": "2023-10-19T17:03:03.7063826+00:00",
-  "LastUpdate_Achievements": "2023-10-19T17:05:40.8937443+00:00"
+  "LastUpdate_Ratings": "2023-10-19T18:02:09.4741893+00:00",
+  "LastUpdate_Achievements": "2023-10-19T18:04:42.8310727+00:00"
 }

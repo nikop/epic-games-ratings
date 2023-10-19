@@ -6,27 +6,27 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 89.00% | ~8,319 |
-| Photogenic | 86.00% | ~8,038 |
+| Let's Get This Party Started | 89.00% | ~8,320 |
+| Photogenic | 86.00% | ~8,039 |
 | Plug It In | 82.00% | ~7,665 |
 | Surge Gauntlet Jockey | 82.00% | ~7,665 |
 | Adventure Time | 78.00% | ~7,291 |
-| Playing With Power | 75.00% | ~7,010 |
-| Coup d'Etat | 58.00% | ~5,421 |
-| You're Fired | 56.00% | ~5,234 |
+| Playing With Power | 75.00% | ~7,011 |
+| Coup d'Etat | 58.00% | ~5,422 |
+| You're Fired | 56.00% | ~5,235 |
 | Get Furious | 55.00% | ~5,141 |
-| Gunplay And Cosplay | 54.00% | ~5,047 |
-| Hacks In Stacks | 54.00% | ~5,047 |
+| Gunplay And Cosplay | 54.00% | ~5,048 |
+| Hacks In Stacks | 54.00% | ~5,048 |
 | Meching Enemies | 48.00% | ~4,487 |
-| Ticket Toddler | 43.00% | ~4,019 |
+| Ticket Toddler | 43.00% | ~4,020 |
 | Booty Bashing | 38.00% | ~3,552 |
-| Field Medic | 37.00% | ~3,458 |
-| Here Comes a New Challenger | 37.00% | ~3,458 |
+| Field Medic | 37.00% | ~3,459 |
+| Here Comes a New Challenger | 37.00% | ~3,459 |
 | Rapid Response | 33.00% | ~3,085 |
 | Surge Ahead | 30.00% | ~2,804 |
 | The Full Monty | 30.00% | ~2,804 |
 | Guardian Angel | 27.00% | ~2,524 |
-| Poppin Noggins | 24.00% | ~2,243 |
+| Poppin Noggins | 24.00% | ~2,244 |
 | Clips and Crits | 19.00% | ~1,776 |
 | Grey Goo | 17.00% | ~1,589 |
 | Boss of Bosses | 15.00% | ~1,402 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~37 |
 | Pyrotechnical | 0.20% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,347 (Ranked 151)  
+Progressed: 9,348 (Ranked 151)  
 Completed: 1 (0.01%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 1 (0.01%) (Ranked 298)
 | 2023-10-16 | 9,325 | 1 |
 | 2023-10-17 | 9,335 | 1 |
 | 2023-10-18 | 9,342 | 1 |
-| 2023-10-19 | 9,347 | 1 |
+| 2023-10-19 | 9,348 | 1 |
 ## Awards
 Max (Relaxing): 64  (Ranked 399)  
 Sum: 463 (Ranked 321)  

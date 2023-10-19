@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 290,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1382,9 +1382,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 129869,
+  "EOS_Progressed": 129870,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 255,
+  "EOS_NewPlayers": 256,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -19527,6 +19527,11 @@
       "Time": "2023-10-19T17:04:31.1996978+00:00",
       "NumProgressed": 129869,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-10-19T18:03:43.7765959+00:00",
+      "NumProgressed": 129870,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -19570,7 +19575,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 23376
+      "UsersEstimate": 23377
     },
     {
       "ID": "ACH_COP_BAD",
@@ -19618,7 +19623,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36363
+      "UsersEstimate": 36364
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -19650,7 +19655,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 27272
+      "UsersEstimate": 27273
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -19696,9 +19701,9 @@
       "ID": "ACH_DOLORES",
       "SetID": "5l3ge6h",
       "Name": "The Figurines Won\u0027t Win Her Back",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 11688
+      "UsersEstimate": 12987
     },
     {
       "ID": "ACH_GLUTEN",
@@ -19857,15 +19862,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 129869,
+      "Progressed": 129870,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-10-19T07:03:40.0954331+00:00",
-  "LastChanged_Achievements": "2023-10-19T17:04:31.1996973+00:00",
+  "LastChanged_Achievements": "2023-10-19T18:03:43.7765954+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:18.5281336+00:00",
   "LastUpdate_Ratings": "2023-10-19T17:03:22.1623772+00:00",
-  "LastUpdate_Achievements": "2023-10-19T17:04:31.1998687+00:00"
+  "LastUpdate_Achievements": "2023-10-19T18:03:43.7768517+00:00"
 }

@@ -6,27 +6,27 @@ Number of Ratings: 274  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| VANGUARD | 41.00% | ~95,913 |
-| NATURAL BORN WINNER | 33.00% | ~77,198 |
-| CALLING HOUSTON | 28.00% | ~65,502 |
-| SNEAKY SNEAKY | 22.00% | ~51,465 |
-| TRICK UP YOUR SLEEVE | 22.00% | ~51,465 |
-| GT9STRADALE | 20.00% | ~46,787 |
+| VANGUARD | 41.00% | ~95,915 |
+| NATURAL BORN WINNER | 33.00% | ~77,200 |
+| CALLING HOUSTON | 28.00% | ~65,503 |
+| SNEAKY SNEAKY | 22.00% | ~51,466 |
+| TRICK UP YOUR SLEEVE | 22.00% | ~51,466 |
+| GT9STRADALE | 20.00% | ~46,788 |
 | CHALLENGER | 11.00% | ~25,733 |
 | ON A ROLL | 9.00% | ~21,054 |
 | CENTAUR | 8.00% | ~18,715 |
 | FASTER THAN EVER | 8.00% | ~18,715 |
-| CHALLENGE THE WORLD | 7.00% | ~16,375 |
-| PHOTOFINISH | 7.00% | ~16,375 |
+| CHALLENGE THE WORLD | 7.00% | ~16,376 |
+| PHOTOFINISH | 7.00% | ~16,376 |
 | QAREEN | 5.00% | ~11,697 |
-| SHOWOFF | 4.00% | ~9,357 |
-| TAKATORA | 4.00% | ~9,357 |
+| SHOWOFF | 4.00% | ~9,358 |
+| TAKATORA | 4.00% | ~9,358 |
 | GILA | 3.00% | ~7,018 |
 | PRO | 2.00% | ~4,679 |
 | RESPWND | 2.00% | ~4,679 |
 | SHINY SHINY GOLD | 2.00% | ~4,679 |
 | HARDCORE | 1.00% | ~2,339 |
-| ACE | 0.80% | ~1,871 |
+| ACE | 0.80% | ~1,872 |
 | TACTICIAN | 0.60% | ~1,404 |
 | GTX COMPETIZIONE | 0.50% | ~1,170 |
 | HIDDEN POWER | 0.50% | ~1,170 |
@@ -41,7 +41,7 @@ Number of Ratings: 274  (23.09.2022)
 | PILE UP TROPHIES | 0.20% | ~468 |
 | ENLIGHTENED | 0.10% | ~234 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,934 (Ranked 58)  
+Progressed: 233,938 (Ranked 58)  
 Completed: 47 (0.02%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 47 (0.02%) (Ranked 290)
 | 2023-10-16 | 233,796 | 47 |
 | 2023-10-17 | 233,841 | 47 |
 | 2023-10-18 | 233,892 | 47 |
-| 2023-10-19 | 233,934 | 47 |
+| 2023-10-19 | 233,938 | 47 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

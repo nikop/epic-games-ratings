@@ -4,8 +4,8 @@
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
     "PcReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -1334,9 +1334,9 @@
       "ID": "achievement_12",
       "SetID": "7ldgi7j",
       "Name": "From Way Downtown",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 279
+      "UsersEstimate": 284
     },
     {
       "ID": "achievement_13",
@@ -1460,8 +1460,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-10-19T17:05:59.5295429+00:00",
+  "LastChanged_Achievements": "2023-10-19T18:04:55.9036392+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:08.0015832+00:00",
-  "LastUpdate_Ratings": "2023-10-19T17:02:08.5995696+00:00",
-  "LastUpdate_Achievements": "2023-10-19T17:05:59.5295641+00:00"
+  "LastUpdate_Ratings": "2023-10-19T18:00:23.3165797+00:00",
+  "LastUpdate_Achievements": "2023-10-19T18:04:55.9036612+00:00"
 }

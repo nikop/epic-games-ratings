@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 534,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 313,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-09-06T02:00:00+00:00",
     "PcReleaseDate": "2020-10-28T16:00:00+00:00",
@@ -94,9 +94,9 @@
       "ID": "ARestWellDeserved",
       "SetID": "c8fdd59",
       "Name": "A Rest Well Deserved",
-      "Percentage": 36,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "AspirationOfYuanchu",
@@ -134,25 +134,25 @@
       "ID": "Chapter01_TheDesperado",
       "SetID": "c8fdd59",
       "Name": "The Desperado",
-      "Percentage": 55,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Chapter02_BlackTidings",
       "SetID": "c8fdd59",
       "Name": "Black Tidings",
-      "Percentage": 45,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Chapter03_DangerousDeal",
       "SetID": "c8fdd59",
       "Name": "Dangerous Deal",
-      "Percentage": 45,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Chapter04_AJourneyBegins",
@@ -278,9 +278,9 @@
       "ID": "EnemySlain",
       "SetID": "c8fdd59",
       "Name": "Enemy Slain",
-      "Percentage": 18,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "FaithfulAudience",
@@ -342,9 +342,9 @@
       "ID": "Prologue_PeaceDisturbed",
       "SetID": "c8fdd59",
       "Name": "Peace Disturbed",
-      "Percentage": 64,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "RareFindings",
@@ -358,9 +358,9 @@
       "ID": "Recruit",
       "SetID": "c8fdd59",
       "Name": "Recruit",
-      "Percentage": 73,
+      "Percentage": 82,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ScrollToWin",
@@ -453,8 +453,8 @@
   ],
   "FirstSeen": "2023-09-08T10:00:07.3821883+00:00",
   "FirstSeenAchievements": "2023-08-28T07:03:21.9021387+00:00",
-  "LastChanged_Achievements": "2023-10-19T17:07:50.1926895+00:00",
+  "LastChanged_Achievements": "2023-10-19T18:06:13.5101142+00:00",
   "LastUpdate_AppInfo": "2023-10-16T11:57:12.0063097+00:00",
-  "LastUpdate_Ratings": "2023-10-19T16:59:06.5955023+00:00",
-  "LastUpdate_Achievements": "2023-10-19T17:07:50.1927472+00:00"
+  "LastUpdate_Ratings": "2023-10-19T17:58:29.646542+00:00",
+  "LastUpdate_Achievements": "2023-10-19T18:06:13.5101507+00:00"
 }

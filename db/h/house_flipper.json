@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -1959,9 +1959,9 @@
       "Count": 216
     }
   ],
-  "EOS_Progressed": 20992,
+  "EOS_Progressed": 20993,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -9324,6 +9324,11 @@
       "Time": "2023-10-19T17:04:47.536595+00:00",
       "NumProgressed": 20992,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-10-19T18:04:05.4638656+00:00",
+      "NumProgressed": 20993,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -9383,7 +9388,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 19942
+      "UsersEstimate": 19943
     },
     {
       "ID": "GameOver",
@@ -9447,7 +9452,7 @@
       "Name": "Just Enough",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3988
+      "UsersEstimate": 3989
     },
     {
       "ID": "Negotiator",
@@ -9471,7 +9476,7 @@
       "Name": "Alpha Male",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4198
+      "UsersEstimate": 4199
     },
     {
       "ID": "SeniorEstateAgent",
@@ -9518,15 +9523,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 20992,
+      "Progressed": 20993,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-10-19T02:58:10.2624005+00:00",
-  "LastChanged_Achievements": "2023-10-19T17:04:47.5365943+00:00",
+  "LastChanged_Achievements": "2023-10-19T18:04:05.4638649+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:53.7092922+00:00",
-  "LastUpdate_Ratings": "2023-10-19T16:59:10.2303438+00:00",
-  "LastUpdate_Achievements": "2023-10-19T17:04:47.5366651+00:00"
+  "LastUpdate_Ratings": "2023-10-19T17:58:31.9389668+00:00",
+  "LastUpdate_Achievements": "2023-10-19T18:04:05.4640364+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "dfd2530e80e4425d801913b0879be444",
   "Name": "Zombie Army 4: Dead War",
   "ProductSlug": "zombie-army-4-dead-war",
-  "Ranking_Rating": 224,
+  "Ranking_Rating": 241,
   "Ranking_Popularity": 160,
   "Ranking_PopularitySum": 183,
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.69,
+  "Rating": 4.68,
   "NumberOfRatings": 743,
   "RatingHistory": [
     {
@@ -2104,10 +2104,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 2521,
       "NumberOfAwardsMax": 838
+    },
+    {
+      "Time": "2023-10-19T18:00:50.3262215+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 2522,
+      "NumberOfAwardsMax": 838
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2521,
+  "NumberOfAwards": 2522,
   "NumberOfAwardsMax": 838,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2145,7 +2151,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 208
+      "Count": 209
     },
     {
       "Text": "This game is Relaxing",
@@ -8333,9 +8339,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
-  "LastChanged": "2023-10-17T05:59:58.4758626+00:00",
-  "LastChanged_Achievements": "2023-10-19T17:08:51.0405274+00:00",
+  "LastChanged": "2023-10-19T18:00:50.3262211+00:00",
+  "LastChanged_Achievements": "2023-10-19T18:06:56.5844677+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:21.2000453+00:00",
-  "LastUpdate_Ratings": "2023-10-19T17:02:50.490863+00:00",
-  "LastUpdate_Achievements": "2023-10-19T17:08:51.040693+00:00"
+  "LastUpdate_Ratings": "2023-10-19T18:00:50.3262219+00:00",
+  "LastUpdate_Achievements": "2023-10-19T18:06:56.584642+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 414,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 313,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
     "PcReleaseDate": "2017-10-12T00:00:00+00:00",
@@ -674,9 +674,9 @@
       "ID": "ACHIEVEMENT_39",
       "SetID": "b36c5kb",
       "Name": "Clearing a Path",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -785,8 +785,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-10-19T17:05:22.3901244+00:00",
+  "LastChanged_Achievements": "2023-10-19T18:04:29.7228638+00:00",
   "LastUpdate_AppInfo": "2023-10-18T22:09:36.3062214+00:00",
-  "LastUpdate_Ratings": "2023-10-19T16:57:06.2007486+00:00",
-  "LastUpdate_Achievements": "2023-10-19T17:05:22.3901825+00:00"
+  "LastUpdate_Ratings": "2023-10-19T17:57:08.9313335+00:00",
+  "LastUpdate_Achievements": "2023-10-19T18:04:29.722951+00:00"
 }

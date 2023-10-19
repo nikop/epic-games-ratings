@@ -59,7 +59,7 @@ Rating: 4.49 (Ranked 593)
 | Pinpoint | 2.00% | ~111 |
 | Splurgle | 2.00% | ~111 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,541 (Ranked 170)  
+Progressed: 5,541 (Ranked 171)  
 Completed: 22 (0.40%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,12 +94,12 @@ Completed: 22 (0.40%) (Ranked 191)
 | 2023-10-18 | 5,497 | 20 |
 | 2023-10-19 | 5,541 | 22 |
 ## Awards
-Max (Great Boss Battles): 3,009  (Ranked 95)  
-Sum: 4,476 (Ranked 143)  
+Max (Great Boss Battles): 3,017  (Ranked 95)  
+Sum: 4,484 (Ranked 143)  
 Diff (max vs sum): -48  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 3,009 |
+| This game has Great Boss Battles | 3,017 |
 | This game has Amazing Storytelling | 193 |
 | This game has Quickly Understood Controls | 181 |
 | This game has Diverse Characters | 173 |
@@ -284,4 +284,4 @@ Diff (max vs sum): -48
 | 2023-10-16 | 4.49 | 2,988 | 4,434 |
 | 2023-10-17 | 4.49 | 2,998 | 4,450 |
 | 2023-10-18 | 4.49 | 3,009 | 4,473 |
-| 2023-10-19 | 4.49 | 3,009 | 4,476 |
+| 2023-10-19 | 4.49 | 3,017 | 4,484 |

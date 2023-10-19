@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3641,9 +3641,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73734,
+  "EOS_Progressed": 73735,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 294,
+  "EOS_NewPlayers": 295,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -19216,6 +19216,11 @@
       "Time": "2023-10-19T17:08:01.1756694+00:00",
       "NumProgressed": 73734,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-10-19T18:06:20.9758233+00:00",
+      "NumProgressed": 73735,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 61,
@@ -19315,7 +19320,7 @@
       "Name": "In Your Element",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 11797
+      "UsersEstimate": 11798
     },
     {
       "ID": "CHALLENGES_1",
@@ -19387,7 +19392,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 9585
+      "UsersEstimate": 9586
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -19435,7 +19440,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 9585
+      "UsersEstimate": 9586
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -19443,7 +19448,7 @@
       "Name": "Drone You Out",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 7373
+      "UsersEstimate": 7374
     },
     {
       "ID": "FREEZE_1",
@@ -19467,7 +19472,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 14009
+      "UsersEstimate": 14010
     },
     {
       "ID": "FREEZE_3",
@@ -19555,7 +19560,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 11797
+      "UsersEstimate": 11798
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -19577,9 +19582,9 @@
       "ID": "HERO_PROGRESSION_2",
       "SetID": "4eo5ebm",
       "Name": "He\u0027d Be So Proud of You",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 1475
+      "UsersEstimate": 2212
     },
     {
       "ID": "HERO_PROGRESSION_3",
@@ -19714,13 +19719,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73734,
+      "Progressed": 73735,
       "Completed": 121
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 44014,
+      "Progressed": 44015,
       "Completed": 2669
     }
   ],
@@ -19728,8 +19733,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-19T05:59:12.9666929+00:00",
-  "LastChanged_Achievements": "2023-10-19T17:08:01.1756686+00:00",
+  "LastChanged_Achievements": "2023-10-19T18:06:20.9758225+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:41.7245252+00:00",
-  "LastUpdate_Ratings": "2023-10-19T17:01:09.1008655+00:00",
-  "LastUpdate_Achievements": "2023-10-19T17:08:01.175933+00:00"
+  "LastUpdate_Ratings": "2023-10-19T17:59:46.4657931+00:00",
+  "LastUpdate_Achievements": "2023-10-19T18:06:20.9761364+00:00"
 }
