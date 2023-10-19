@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 9,
   "Ranking_EOS_Progress": 681,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewPlayers": 403,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2019-09-13T15:00:00+00:00",
@@ -13415,18 +13415,24 @@
       "Rating": 4.69,
       "NumberOfAwards": 357431,
       "NumberOfAwardsMax": 118927
+    },
+    {
+      "Time": "2023-10-19T11:59:46.1129656+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 357495,
+      "NumberOfAwardsMax": 118971
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 357431,
-  "NumberOfAwardsMax": 118927,
+  "NumberOfAwards": 357495,
+  "NumberOfAwardsMax": 118971,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 118927
+      "Count": 118971
     },
     {
       "Text": "This game is Great for Beginners",
@@ -13450,7 +13456,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 27817
+      "Count": 27837
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -13500,8 +13506,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:32.2549878+00:00",
-  "LastChanged": "2023-10-19T05:58:36.2982981+00:00",
+  "LastChanged": "2023-10-19T11:59:46.1129654+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:10.6275971+00:00",
-  "LastUpdate_Ratings": "2023-10-19T10:59:01.1597969+00:00",
-  "LastUpdate_Achievements": "2023-10-19T11:03:21.5838908+00:00"
+  "LastUpdate_Ratings": "2023-10-19T11:59:46.112966+00:00",
+  "LastUpdate_Achievements": "2023-10-19T12:03:38.5499819+00:00"
 }

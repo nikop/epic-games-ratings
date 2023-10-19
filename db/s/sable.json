@@ -485,9 +485,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 94740,
+  "EOS_Progressed": 94742,
   "EOS_Completed": 954,
-  "EOS_NewPlayers": 1038,
+  "EOS_NewPlayers": 1033,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
@@ -21110,6 +21110,11 @@
       "Time": "2023-10-19T11:04:29.4282552+00:00",
       "NumProgressed": 94740,
       "NumCompleted": 954
+    },
+    {
+      "Time": "2023-10-19T12:05:22.2933561+00:00",
+      "NumProgressed": 94742,
+      "NumCompleted": 954
     }
   ],
   "TotalAchievements": 56,
@@ -21177,7 +21182,7 @@
       "Name": "The Climber Mask",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 5684
+      "UsersEstimate": 5685
     },
     {
       "ID": "ach_008_entertainer_mask",
@@ -21209,7 +21214,7 @@
       "Name": "The Merchant Mask",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 5684
+      "UsersEstimate": 5685
     },
     {
       "ID": "ach_012_cartographers_mask",
@@ -21233,7 +21238,7 @@
       "Name": "Chum Novice",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 15158
+      "UsersEstimate": 15159
     },
     {
       "ID": "ach_015_all_chum_eggs",
@@ -21241,7 +21246,7 @@
       "Name": "Honorary Chum",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 5684
+      "UsersEstimate": 5685
     },
     {
       "ID": "ach_016_door_dunboyne",
@@ -21273,7 +21278,7 @@
       "Name": "Rowleys Way",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 10421
+      "UsersEstimate": 10422
     },
     {
       "ID": "ach_020_door_centre_of_brunswick",
@@ -21329,7 +21334,7 @@
       "Name": "Up On High",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 23685
+      "UsersEstimate": 23686
     },
     {
       "ID": "ach_027_fix_atomic_heart",
@@ -21441,7 +21446,7 @@
       "Name": "Under The Hood",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 23685
+      "UsersEstimate": 23686
     },
     {
       "ID": "ach_041_talk_to_npcs_1",
@@ -21457,7 +21462,7 @@
       "Name": "Silver-Tongued Sable",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 15158
+      "UsersEstimate": 15159
     },
     {
       "ID": "ach_043_climb_large_distance",
@@ -21465,7 +21470,7 @@
       "Name": "Sticky Paws",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 15158
+      "UsersEstimate": 15159
     },
     {
       "ID": "ach_044_open_chests_1",
@@ -21473,7 +21478,7 @@
       "Name": "More Than A Box Of Sand",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 17053
+      "UsersEstimate": 17054
     },
     {
       "ID": "ach_045_open_chests_2",
@@ -21489,7 +21494,7 @@
       "Name": "Bikes Don\u0027t Fly",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 5684
+      "UsersEstimate": 5685
     },
     {
       "ID": "ach_047_drive_long_distance",
@@ -21505,7 +21510,7 @@
       "Name": "Bubble Up",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 15158
+      "UsersEstimate": 15159
     },
     {
       "ID": "ach_049_fall_from_large_height",
@@ -21568,15 +21573,15 @@
     {
       "ID": "585ckk9",
       "IsBase": true,
-      "Progressed": 94740,
+      "Progressed": 94742,
       "Completed": 954
     }
   ],
   "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:25.3097347+00:00",
   "LastChanged": "2023-10-18T02:16:18.2870306+00:00",
-  "LastChanged_Achievements": "2023-10-19T11:04:29.4282547+00:00",
+  "LastChanged_Achievements": "2023-10-19T12:05:22.2933556+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:20.1339637+00:00",
-  "LastUpdate_Ratings": "2023-10-19T10:59:13.8812836+00:00",
-  "LastUpdate_Achievements": "2023-10-19T11:04:29.4284389+00:00"
+  "LastUpdate_Ratings": "2023-10-19T12:00:01.5984846+00:00",
+  "LastUpdate_Achievements": "2023-10-19T12:05:22.2935337+00:00"
 }

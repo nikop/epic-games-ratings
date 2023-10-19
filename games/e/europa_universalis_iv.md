@@ -6,15 +6,15 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,368 |
-| Until death do us apart | 4.00% | ~17,368 |
-| Victorious! | 4.00% | ~17,368 |
-| That is mine! | 3.00% | ~13,026 |
-| Brothers in Arms | 2.00% | ~8,684 |
-| Cold War | 2.00% | ~8,684 |
-| For the Glory | 2.00% | ~8,684 |
-| That's a Grand Navy | 2.00% | ~8,684 |
-| Seriously?! | 2.00% | ~8,684 |
+| That's a Grand Army | 4.00% | ~17,369 |
+| Until death do us apart | 4.00% | ~17,369 |
+| Victorious! | 4.00% | ~17,369 |
+| That is mine! | 3.00% | ~13,027 |
+| Brothers in Arms | 2.00% | ~8,685 |
+| Cold War | 2.00% | ~8,685 |
+| For the Glory | 2.00% | ~8,685 |
+| That's a Grand Navy | 2.00% | ~8,685 |
+| Seriously?! | 2.00% | ~8,685 |
 | Defender of the Faith | 1.00% | ~4,342 |
 | It's all about the money | 1.00% | ~4,342 |
 | Respected | 1.00% | ~4,342 |
@@ -26,7 +26,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Double the Love | 0.80% | ~3,474 |
 | Royal Authority | 0.80% | ~3,474 |
 | Total Control | 0.80% | ~3,474 |
-| My armies are invincible! | 0.70% | ~3,039 |
+| My armies are invincible! | 0.70% | ~3,040 |
 | Agressive Expander | 0.50% | ~2,171 |
 | Azur semé de lis or | 0.50% | ~2,171 |
 | City of Cities | 0.50% | ~2,171 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 434,200 (Ranked 40)  
+Progressed: 434,228 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -543,17 +543,17 @@ Completed: 1 (0.00%) (Ranked 316)
 | 2023-10-16 | 432,768 | 1 |
 | 2023-10-17 | 433,352 | 1 |
 | 2023-10-18 | 433,999 | 1 |
-| 2023-10-19 | 434,200 | 1 |
+| 2023-10-19 | 434,228 | 1 |
 ## Awards
 Max (Educational): 6,587  (Ranked 55)  
-Sum: 54,105 (Ranked 24)  
+Sum: 54,131 (Ranked 24)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 6,587 |
-| This game is Highly Recommended | 6,264 |
+| This game is Highly Recommended | 6,276 |
 | This game has Diverse Characters | 6,254 |
-| This game has Challenging Combat | 6,217 |
+| This game has Challenging Combat | 6,231 |
 | This game is Extremely Fun | 6,209 |
 | This game is Relaxing | 6,057 |
 | This game has Competitive Players | 5,918 |
@@ -838,4 +838,4 @@ Diff (max vs sum): 31
 | 2023-10-16 | 4.69 | - | 6,561 | 53,895 |
 | 2023-10-17 | 4.69 | - | 6,571 | 53,991 |
 | 2023-10-18 | 4.69 | - | 6,571 | 54,079 |
-| 2023-10-19 | 4.69 | - | 6,587 | 54,105 |
+| 2023-10-19 | 4.69 | - | 6,587 | 54,131 |

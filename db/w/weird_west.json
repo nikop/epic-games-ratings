@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 499,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -358,9 +358,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1861,
+  "EOS_Progressed": 1863,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -2138,6 +2138,11 @@
       "Time": "2023-10-19T11:04:21.3471104+00:00",
       "NumProgressed": 1861,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-19T12:05:12.007201+00:00",
+      "NumProgressed": 1863,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -2149,7 +2154,7 @@
       "Name": "Chain Reaction",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "ACH_DEAD_OR_ALIVE",
@@ -2157,7 +2162,7 @@
       "Name": "Dead or Alive",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 1042
+      "UsersEstimate": 1043
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -2173,7 +2178,7 @@
       "Name": "Dishonored",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "ACH_DOG_DAYS",
@@ -2293,7 +2298,7 @@
       "Name": "Justice Served",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "ACH_LETS_RIDE",
@@ -2301,7 +2306,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1117
+      "UsersEstimate": 1118
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -2325,7 +2330,7 @@
       "Name": "Loyalty to the Pack",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "ACH_MAN_IN_BLACK",
@@ -2333,7 +2338,7 @@
       "Name": "Eternity Can Wait",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "ACH_MA_BARKER",
@@ -2373,7 +2378,7 @@
       "Name": "Mystery Machine",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "ACH_OFF_THE_TRAIL",
@@ -2397,7 +2402,7 @@
       "Name": "Perky",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 1228
+      "UsersEstimate": 1230
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -2413,7 +2418,7 @@
       "Name": "Power Behind the Pulpit",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "ACH_RAIN_OF_DEATH",
@@ -2421,7 +2426,7 @@
       "Name": "Rain of Death",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "ACH_REVENANT",
@@ -2437,7 +2442,7 @@
       "Name": "Scholar",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "ACH_SELF_IMPROVEMENT",
@@ -2445,7 +2450,7 @@
       "Name": "Self-Improvement",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1340
+      "UsersEstimate": 1341
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -2453,7 +2458,7 @@
       "Name": "Something Wicked This Way Comes\u2026",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "ACH_THATS_ALL_FOLKS",
@@ -2469,7 +2474,7 @@
       "Name": "There is Hope",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "ACH_THE_GREAT_ESCAPE",
@@ -2525,7 +2530,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1638
+      "UsersEstimate": 1639
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -2533,7 +2538,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 1061
+      "UsersEstimate": 1062
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -2572,15 +2577,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1861,
+      "Progressed": 1863,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-10-12T21:03:19.3405384+00:00",
-  "LastChanged_Achievements": "2023-10-19T11:04:21.34711+00:00",
+  "LastChanged_Achievements": "2023-10-19T12:05:12.0072004+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:22.2877358+00:00",
-  "LastUpdate_Ratings": "2023-10-19T10:58:49.5039686+00:00",
-  "LastUpdate_Achievements": "2023-10-19T11:04:21.3471639+00:00"
+  "LastUpdate_Ratings": "2023-10-19T11:59:30.5032187+00:00",
+  "LastUpdate_Achievements": "2023-10-19T12:05:12.0072596+00:00"
 }

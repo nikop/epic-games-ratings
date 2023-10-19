@@ -6,16 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 33.00% | ~76,466 |
-| Alt+F4 | 7.00% | ~16,220 |
+| Sowwy! | 33.00% | ~76,468 |
+| Alt+F4 | 7.00% | ~16,221 |
 | Where's that freaking Dwarf? | 6.00% | ~13,903 |
 | Déjà vu | 5.00% | ~11,586 |
 | Sock! SOCK! | 4.00% | ~9,269 |
 | Speedrun | 4.00% | ~9,269 |
-| A beer, two curses, three companions | 3.00% | ~6,951 |
-| GG EZ | 3.00% | ~6,951 |
-| DM intervention | 3.00% | ~6,951 |
-| Fireproof Wizardess | 3.00% | ~6,951 |
+| A beer, two curses, three companions | 3.00% | ~6,952 |
+| GG EZ | 3.00% | ~6,952 |
+| DM intervention | 3.00% | ~6,952 |
+| Fireproof Wizardess | 3.00% | ~6,952 |
 | Livin' in a dwarven paradise | 2.00% | ~4,634 |
 | Shiny and Crôm | 2.00% | ~4,634 |
 | Way of the Wimp | 2.00% | ~4,634 |
@@ -51,10 +51,10 @@ Number of Ratings: 118  (23.09.2022)
 | An old poacher makes the best gamekeeper | 0.50% | ~1,159 |
 | Law and Order | 0.50% | ~1,159 |
 | Scholar of the Lands of Fangh | 0.40% | ~927 |
-| It's been a hard day's night | 0.40% | ~927 |
 | Friendly fire | 0.30% | ~695 |
 | I'd rather... Just... Sing! | 0.30% | ~695 |
 | Inception | 0.30% | ~695 |
+| It's been a hard day's night | 0.30% | ~695 |
 | The number of the counting shalt be 7 | 0.20% | ~463 |
 | Kudos from your DM | 0.20% | ~463 |
 | 100% satisfaction guarantee | 0.20% | ~463 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~232 |
 | Dwarf Candy | 0.10% | ~232 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,714 (Ranked 60)  
+Progressed: 231,722 (Ranked 60)  
 Completed: 6 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 6 (0.00%) (Ranked 316)
 | 2023-10-16 | 231,330 | 5 |
 | 2023-10-17 | 231,503 | 6 |
 | 2023-10-18 | 231,653 | 6 |
-| 2023-10-19 | 231,714 | 6 |
+| 2023-10-19 | 231,722 | 6 |
 ## Awards
 Max (Character Customization): 216  (Ranked 273)  
 Sum: 427 (Ranked 326)  

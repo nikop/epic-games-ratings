@@ -1153,9 +1153,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 153124,
+  "EOS_Progressed": 153136,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1602,
+  "EOS_NewPlayers": 1609,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12198,6 +12198,11 @@
       "Time": "2023-10-19T11:05:14.6550857+00:00",
       "NumProgressed": 153124,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-19T12:06:18.7677125+00:00",
+      "NumProgressed": 153136,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -12233,7 +12238,7 @@
       "Name": "Assimilation",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "ACQUIRE_ALLWEAPONS",
@@ -12257,7 +12262,7 @@
       "Name": "The Hunt",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3062
+      "UsersEstimate": 3063
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -12273,7 +12278,7 @@
       "Name": "Taste",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3062
+      "UsersEstimate": 3063
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -12369,7 +12374,7 @@
       "Name": "Celebration",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "DEFEAT_SHIDRA",
@@ -12425,7 +12430,7 @@
       "Name": "Imprint",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3062
+      "UsersEstimate": 3063
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -12433,7 +12438,7 @@
       "Name": "Predator",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "MISC_ENDING_PROPER",
@@ -12576,21 +12581,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 152707,
+      "Progressed": 152719,
       "Completed": 1164
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 153124,
+      "Progressed": 153136,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-19T03:57:30.2133222+00:00",
-  "LastChanged_Achievements": "2023-10-19T11:05:14.6550853+00:00",
+  "LastChanged_Achievements": "2023-10-19T12:06:18.767712+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:33.8479674+00:00",
-  "LastUpdate_Ratings": "2023-10-19T10:57:42.9562374+00:00",
-  "LastUpdate_Achievements": "2023-10-19T11:05:14.6551959+00:00"
+  "LastUpdate_Ratings": "2023-10-19T11:58:05.9572376+00:00",
+  "LastUpdate_Achievements": "2023-10-19T12:06:18.7678366+00:00"
 }

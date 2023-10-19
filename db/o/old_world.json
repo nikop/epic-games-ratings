@@ -1904,7 +1904,7 @@
   ],
   "EOS_Progressed": 14799,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 188,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16295,9 +16295,9 @@
       "ID": "ACHIEVEMENT_UNIT_KUSHITE_CAVALRY",
       "SetID": "9201eeb",
       "Name": "Mounted Lancer",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 74
     },
     {
       "ID": "ACHIEVEMENT_UNIT_LEGIONARY",
@@ -16981,8 +16981,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-19T01:41:09.84917+00:00",
-  "LastChanged_Achievements": "2023-10-19T11:08:45.0234508+00:00",
+  "LastChanged_Achievements": "2023-10-19T12:09:28.4656199+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:21.7880328+00:00",
-  "LastUpdate_Ratings": "2023-10-19T10:58:35.014998+00:00",
-  "LastUpdate_Achievements": "2023-10-19T11:08:45.0245867+00:00"
+  "LastUpdate_Ratings": "2023-10-19T11:59:15.1305089+00:00",
+  "LastUpdate_Achievements": "2023-10-19T12:09:28.4667765+00:00"
 }

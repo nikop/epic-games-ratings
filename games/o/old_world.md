@@ -115,6 +115,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Gnosticism | 0.50% | ~74 |
 | Revelation | 0.50% | ~74 |
 | Cimmerian Archer | 0.50% | ~74 |
+| Mounted Lancer | 0.50% | ~74 |
 | The Clergy | 0.50% | ~74 |
 | The Great Mage | 0.50% | ~74 |
 | Poetic Leader | 0.50% | ~74 |
@@ -131,7 +132,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Industrial Progress | 0.40% | ~59 |
 | Enlightenment | 0.40% | ~59 |
 | Veneration | 0.40% | ~59 |
-| Mounted Lancer | 0.40% | ~59 |
 | Turreted Elephant | 0.40% | ~59 |
 | All Nations | 0.40% | ~59 |
 | Ambition Victory | 0.40% | ~59 |

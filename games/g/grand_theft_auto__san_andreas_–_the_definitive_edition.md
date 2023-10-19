@@ -5,10 +5,10 @@ Rating: 4.56 (Ranked 476)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 82.00% | ~10,838 |
+| Getting Started | 82.00% | ~10,839 |
 | Pay 'n' Spray | 51.00% | ~6,741 |
-| All Dressed Up for San Fierro | 26.00% | ~3,436 |
-| The American Dream | 20.00% | ~2,643 |
+| All Dressed Up for San Fierro | 26.00% | ~3,437 |
+| The American Dream | 20.00% | ~2,644 |
 | School's Out | 19.00% | ~2,511 |
 | Smooth Moves | 17.00% | ~2,247 |
 | What happens in Las Venturas... | 15.00% | ~1,983 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 476)
 | ...Here we go again | 0.50% | ~66 |
 | I Ain't No Buster | 0.40% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,217 (Ranked 141)  
+Progressed: 13,218 (Ranked 141)  
 Completed: 50 (0.38%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,21 +223,21 @@ Completed: 50 (0.38%) (Ranked 193)
 | 2023-10-16 | 13,205 | 50 |
 | 2023-10-17 | 13,211 | 50 |
 | 2023-10-18 | 13,216 | 50 |
-| 2023-10-19 | 13,217 | 50 |
+| 2023-10-19 | 13,218 | 50 |
 ## Awards
 Max (Great Boss Battles): 354  (Ranked 232)  
-Sum: 566 (Ranked 304)  
-Diff (max vs sum): -72  
+Sum: 568 (Ranked 303)  
+Diff (max vs sum): -71  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 354 |
 | This game is Relaxing | 35 |
-| This game has Amazing Storytelling | 30 |
+| This game has Amazing Storytelling | 31 |
 | This game has Amazing Characters | 30 |
 | This game is Great for Beginners | 28 |
 | This game is Highly Recommended | 27 |
+| This game has a Creative Community | 22 |
 | This game is Extremely Fun | 21 |
-| This game has a Creative Community | 21 |
 | This game has Quickly Understood Controls | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -392,4 +392,4 @@ Diff (max vs sum): -72
 | 2023-10-15 | 4.56 | 352 | 562 |
 | 2023-10-16 | 4.56 | 352 | 564 |
 | 2023-10-17 | 4.56 | 353 | 565 |
-| 2023-10-19 | 4.56 | 354 | 566 |
+| 2023-10-19 | 4.56 | 354 | 568 |

@@ -3855,9 +3855,9 @@
       "Count": 1070
     }
   ],
-  "EOS_Progressed": 75468,
+  "EOS_Progressed": 75469,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 778,
+  "EOS_NewPlayers": 776,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -24335,6 +24335,11 @@
       "Time": "2023-10-19T11:04:22.6029449+00:00",
       "NumProgressed": 75468,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-19T12:05:13.5975911+00:00",
+      "NumProgressed": 75469,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -24378,7 +24383,7 @@
       "Name": "Hijacked",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 8301
+      "UsersEstimate": 8302
     },
     {
       "ID": "collect_high_amount_hero_props",
@@ -24458,7 +24463,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 34715
+      "UsersEstimate": 34716
     },
     {
       "ID": "customize_a_vehicle",
@@ -24466,7 +24471,7 @@
       "Name": "Tune Up",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 24904
+      "UsersEstimate": 24905
     },
     {
       "ID": "customize_a_weapon",
@@ -24474,7 +24479,7 @@
       "Name": "Optimized",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 27923
+      "UsersEstimate": 27924
     },
     {
       "ID": "cutting_edge_materials",
@@ -24594,7 +24599,7 @@
       "Name": "Performance Review",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 27168
+      "UsersEstimate": 27169
     },
     {
       "ID": "hit_max_level",
@@ -24658,7 +24663,7 @@
       "Name": "Closet Space",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6037
+      "UsersEstimate": 6038
     },
     {
       "ID": "prank_coop_partner",
@@ -24698,7 +24703,7 @@
       "Name": "Food for Thought",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 20376
+      "UsersEstimate": 20377
     },
     {
       "ID": "two_thirds_purple",
@@ -24769,13 +24774,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 75468,
+      "Progressed": 75469,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 47105,
+      "Progressed": 47106,
       "Completed": 4135
     }
   ],
@@ -24783,8 +24788,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-10-18T15:59:18.1995048+00:00",
-  "LastChanged_Achievements": "2023-10-19T11:04:22.6029447+00:00",
+  "LastChanged_Achievements": "2023-10-19T12:05:13.5975906+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:20.7071116+00:00",
-  "LastUpdate_Ratings": "2023-10-19T10:59:15.1638645+00:00",
-  "LastUpdate_Achievements": "2023-10-19T11:04:22.6030994+00:00"
+  "LastUpdate_Ratings": "2023-10-19T12:00:03.6231574+00:00",
+  "LastUpdate_Achievements": "2023-10-19T12:05:13.5977395+00:00"
 }

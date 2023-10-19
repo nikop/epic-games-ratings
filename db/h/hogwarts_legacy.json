@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 31,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -9189,9 +9189,9 @@
       "Count": 722
     }
   ],
-  "EOS_Progressed": 298570,
+  "EOS_Progressed": 298573,
   "EOS_Completed": 489,
-  "EOS_NewPlayers": 379,
+  "EOS_NewPlayers": 380,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -28669,6 +28669,11 @@
       "Time": "2023-10-19T11:06:01.817433+00:00",
       "NumProgressed": 298570,
       "NumCompleted": 489
+    },
+    {
+      "Time": "2023-10-19T12:07:16.8148738+00:00",
+      "NumProgressed": 298573,
+      "NumCompleted": 489
     }
   ],
   "TotalAchievements": 45,
@@ -28768,7 +28773,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14928
+      "UsersEstimate": 14929
     },
     {
       "ID": "PFA_20",
@@ -28800,7 +28805,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35828
+      "UsersEstimate": 35829
     },
     {
       "ID": "PFA_24",
@@ -28904,7 +28909,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26871
+      "UsersEstimate": 26872
     },
     {
       "ID": "PFA_36",
@@ -28960,7 +28965,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14928
+      "UsersEstimate": 14929
     },
     {
       "ID": "PFA_42",
@@ -28984,7 +28989,7 @@
       "Name": "The Spell Master",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 26871
+      "UsersEstimate": 26872
     },
     {
       "ID": "PFA_45",
@@ -29024,7 +29029,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 35828
+      "UsersEstimate": 35829
     },
     {
       "ID": "PFA_9",
@@ -29032,14 +29037,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26871
+      "UsersEstimate": 26872
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298570,
+      "Progressed": 298573,
       "Completed": 489
     }
   ],
@@ -29047,8 +29052,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-19T10:58:21.8394033+00:00",
-  "LastChanged_Achievements": "2023-10-19T11:06:01.8174321+00:00",
+  "LastChanged_Achievements": "2023-10-19T12:07:16.8148732+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:16.623812+00:00",
-  "LastUpdate_Ratings": "2023-10-19T10:58:21.8394055+00:00",
-  "LastUpdate_Achievements": "2023-10-19T11:06:01.8175976+00:00"
+  "LastUpdate_Ratings": "2023-10-19T11:58:58.0567008+00:00",
+  "LastUpdate_Achievements": "2023-10-19T12:07:16.8150311+00:00"
 }

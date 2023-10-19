@@ -18,10 +18,10 @@ Rating: 4.64 (Ranked 324)
 | RIP Davey Glutes | 0.90% | ~218 |
 | We're All Very Impressed, Trust Me | 0.90% | ~218 |
 | Hardest Battle In The Game | 0.90% | ~218 |
+| Lezduit! | 0.80% | ~194 |
 | Self-Actualization | 0.80% | ~194 |
 | Spent 15 Hours At The Alien Strip Club | 0.80% | ~194 |
 | Bathe With A Giant Nude Alien | 0.80% | ~12 |
-| Lezduit! | 0.70% | ~170 |
 | Legendary Bounty Hunter | 0.70% | ~170 |
 | Fallout Doesn't Let You Do This | 0.70% | ~170 |
 | Series Wrap on Suit-O | 0.70% | ~170 |

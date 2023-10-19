@@ -1,25 +1,25 @@
 # Disco Elysium - The Final Cut
 [Store](https://store.epicgames.com/en-US/p/disco-elysium)  
 [View Rawdata](../../db/d/disco_elysium_-_the_final_cut.json)  
-Rating: 4.87 (Ranked 22)  
+Rating: 4.87 (Ranked 23)  
 Number of Ratings: 1,611  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~36,360 |
-| Biggest Communism Builder | 24.00% | ~31,166 |
-| The World's Most Laughable Centrist | 21.00% | ~27,270 |
-| Il Coppo Del'Arte! | 18.00% | ~23,374 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,777 |
-| Hyperstellar Law Official | 16.00% | ~20,777 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~18,180 |
-| Gurdi-Ball Is Lit | 14.00% | ~18,180 |
+| Goodest Of The Good Cops | 28.00% | ~36,361 |
+| Biggest Communism Builder | 24.00% | ~31,167 |
+| The World's Most Laughable Centrist | 21.00% | ~27,271 |
+| Il Coppo Del'Arte! | 18.00% | ~23,375 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,778 |
+| Hyperstellar Law Official | 16.00% | ~20,778 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~18,181 |
+| Gurdi-Ball Is Lit | 14.00% | ~18,181 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~16,882 |
-| Truly Rabid *Traditionalist* | 11.00% | ~14,284 |
-| Unbelievably Boring **** | 9.00% | ~11,687 |
-| The Figurines Won't Win Her Back | 9.00% | ~11,687 |
+| Truly Rabid *Traditionalist* | 11.00% | ~14,285 |
+| Unbelievably Boring **** | 9.00% | ~11,688 |
+| The Figurines Won't Win Her Back | 9.00% | ~11,688 |
 | Enemy Of The Physical Realm | 8.00% | ~10,389 |
-| Hardie's Heroes | 6.00% | ~7,791 |
+| Hardie's Heroes | 6.00% | ~7,792 |
 | The Lawbringer | 4.00% | ~5,194 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,194 |
 | The Opener Of The Eighth Seal | 3.00% | ~3,896 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~130 |
 | What body? | 0.10% | ~130 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,858 (Ranked 75)  
+Progressed: 129,862 (Ranked 75)  
 Completed: 28 (0.02%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,7 +229,7 @@ Completed: 28 (0.02%) (Ranked 290)
 | 2023-10-16 | 129,782 | 28 |
 | 2023-10-17 | 129,811 | 28 |
 | 2023-10-18 | 129,842 | 28 |
-| 2023-10-19 | 129,858 | 28 |
+| 2023-10-19 | 129,862 | 28 |
 ## Awards
 Max (Character Customization): 733  (Ranked 173)  
 Sum: 1,106 (Ranked 241)  

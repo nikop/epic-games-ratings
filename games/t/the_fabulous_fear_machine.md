@@ -23,12 +23,12 @@
 | The seer | 37.00% | ~11 |
 | The artist | 33.00% | ~10 |
 | Welcome to Hellville | 33.00% | ~10 |
+| You had one wish left | 30.00% | ~9 |
 | Et in arcadia ego | 30.00% | ~9 |
-| You had one wish left | 27.00% | ~8 |
-| You've awakened the beast | 23.00% | ~7 |
-| Hate is... addictive | 23.00% | ~7 |
-| Blessed antennas | 20.00% | ~6 |
-| The bully | 20.00% | ~6 |
+| You've awakened the beast | 27.00% | ~8 |
+| Hate is... addictive | 27.00% | ~8 |
+| Blessed antennas | 23.00% | ~7 |
+| The bully | 23.00% | ~7 |
 | The barbarian invasions | 20.00% | ~6 |
 | The beast in the Oval Office | 17.00% | ~5 |
 | Blood Red Island | 17.00% | ~5 |
@@ -38,19 +38,19 @@
 | Pulp! The Beyond | 17.00% | ~5 |
 | America had no Faith | 17.00% | ~5 |
 | The scholar | 13.00% | ~4 |
+| Pulp! True Adventures | 13.00% | ~4 |
 | Pulp! Tales from the Crypt | 10.00% | ~3 |
-| Pulp! True Adventures | 10.00% | ~3 |
 | ECO mode | 10.00% | ~3 |
 | Vaccine fans | 7.00% | ~2 |
 | Pulp! Heart Throbs | 3.00% | ~1 |
 | Pulp! Skeleton Hand | 3.00% | ~1 |
 | Thirst for Oleum | 3.00% | ~1 |
+| Troy is burning! | 3.00% | ~1 |
 | A new Hindenburg | 3.00% | ~1 |
 | Pulp! The Perfect Crime | 0.00% | ~0 |
 | Pulp! Weird Science | 0.00% | ~0 |
 | Pulp! Mister Mystery | 0.00% | ~0 |
 | Pulp! The Vault of Horror | 0.00% | ~0 |
-| Troy is burning! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 30 (Ranked 472)  
 Completed: 0 (0.00%) (Ranked 316)  

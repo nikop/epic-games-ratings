@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 308,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -5427,9 +5427,9 @@
       "ID": "ACH_COMMENCE-THE-HIJINX",
       "SetID": "72olkc5",
       "Name": "Commence the Hijinx!",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 181
     },
     {
       "ID": "ACH_COPS-CALLED",
@@ -5795,8 +5795,8 @@
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-10-18T19:59:48.5041655+00:00",
-  "LastChanged_Achievements": "2023-10-19T11:04:21.3154496+00:00",
+  "LastChanged_Achievements": "2023-10-19T12:05:11.8465243+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:15.9585572+00:00",
-  "LastUpdate_Ratings": "2023-10-19T10:59:34.7248133+00:00",
-  "LastUpdate_Achievements": "2023-10-19T11:04:21.315519+00:00"
+  "LastUpdate_Ratings": "2023-10-19T12:00:28.6125113+00:00",
+  "LastUpdate_Achievements": "2023-10-19T12:05:11.846593+00:00"
 }

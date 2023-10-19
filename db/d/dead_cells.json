@@ -2,12 +2,12 @@
   "ID": "1368a7f14c3344bbaededbae528fafed",
   "Name": "Dead Cells",
   "ProductSlug": "dead-cells",
-  "Ranking_Rating": 22,
+  "Ranking_Rating": 23,
   "Ranking_Popularity": 244,
   "Ranking_PopularitySum": 185,
   "Ranking_EOS_Progress": 681,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewPlayers": 403,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2020-10-22T15:00:00+00:00",
@@ -2915,10 +2915,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 2459,
       "NumberOfAwardsMax": 291
+    },
+    {
+      "Time": "2023-10-19T11:59:11.2320108+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 2460,
+      "NumberOfAwardsMax": 291
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2459,
+  "NumberOfAwards": 2460,
   "NumberOfAwardsMax": 291,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -2932,7 +2938,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 251
+      "Count": 252
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3006,8 +3012,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:26.6981291+00:00",
-  "LastChanged": "2023-10-19T06:59:10.3642522+00:00",
+  "LastChanged": "2023-10-19T11:59:11.2320107+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:57.8209089+00:00",
-  "LastUpdate_Ratings": "2023-10-19T10:58:31.898583+00:00",
-  "LastUpdate_Achievements": "2023-10-19T11:03:56.1111452+00:00"
+  "LastUpdate_Ratings": "2023-10-19T11:59:11.2320112+00:00",
+  "LastUpdate_Achievements": "2023-10-19T12:04:41.1645128+00:00"
 }

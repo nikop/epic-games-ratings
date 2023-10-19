@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 146,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -7447,10 +7447,10 @@
       "Count": 3475
     }
   ],
-  "EOS_Progressed": 232233,
+  "EOS_Progressed": 232236,
   "EOS_Completed": 2373,
-  "EOS_NewPlayers": 636,
-  "EOS_NewCompleters": 19,
+  "EOS_NewPlayers": 634,
+  "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
     {
@@ -27737,6 +27737,11 @@
       "Time": "2023-10-19T11:03:44.1246408+00:00",
       "NumProgressed": 232233,
       "NumCompleted": 2373
+    },
+    {
+      "Time": "2023-10-19T12:04:26.5509066+00:00",
+      "NumProgressed": 232236,
+      "NumCompleted": 2373
     }
   ],
   "TotalAchievements": 528,
@@ -27746,9 +27751,9 @@
       "ID": "objective_completed_1",
       "SetID": "cc37lbc",
       "Name": "A Brief Tour of the Realms",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1161
+      "UsersEstimate": 1393
     },
     {
       "ID": "objective_completed_10",
@@ -28114,9 +28119,9 @@
       "ID": "objective_completed_11",
       "SetID": "cc37lbc",
       "Name": "Beast Intentions",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 464
+      "UsersEstimate": 697
     },
     {
       "ID": "objective_completed_110",
@@ -31971,21 +31976,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 198507,
+      "Progressed": 198510,
       "Completed": 3660
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 232233,
+      "Progressed": 232236,
       "Completed": 2373
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-10-19T08:57:54.4366511+00:00",
-  "LastChanged_Achievements": "2023-10-19T11:03:44.12464+00:00",
+  "LastChanged_Achievements": "2023-10-19T12:04:26.5509058+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:38.1045135+00:00",
-  "LastUpdate_Ratings": "2023-10-19T10:57:55.0662148+00:00",
-  "LastUpdate_Achievements": "2023-10-19T11:03:44.1275988+00:00"
+  "LastUpdate_Ratings": "2023-10-19T11:58:21.8443233+00:00",
+  "LastUpdate_Achievements": "2023-10-19T12:04:26.5542034+00:00"
 }
