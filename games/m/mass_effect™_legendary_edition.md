@@ -23,8 +23,8 @@
 | Asari Ally | 52.00% | ~383 |
 | Principled | 52.00% | ~383 |
 | Soldier Ally | 50.00% | ~368 |
+| Paramour I | 49.00% | ~361 |
 | Colonial Savior | 49.00% | ~361 |
-| Paramour I | 48.00% | ~354 |
 | Scientist | 47.00% | ~346 |
 | Merciless | 46.00% | ~339 |
 | Krogan Ally | 45.00% | ~332 |
@@ -68,13 +68,13 @@
 | Cat's in the Cradle | 29.00% | ~214 |
 | Doppelganger | 29.00% | ~214 |
 | Digital Exorcist | 29.00% | ~214 |
+| Mobilizer | 29.00% | ~214 |
 | Mission Accomplished | 28.00% | ~206 |
 | Suicide Mission | 28.00% | ~206 |
 | Against All Odds | 28.00% | ~206 |
 | Friend or Foe | 28.00% | ~206 |
-| Mobilizer | 28.00% | ~206 |
+| Untouchable | 27.00% | ~199 |
 | First Aid Specialist | 27.00% | ~199 |
-| Untouchable | 26.00% | ~192 |
 | Eye of the Hurricane | 26.00% | ~192 |
 | Giant Killer | 26.00% | ~192 |
 | A House Divided | 26.00% | ~192 |
@@ -82,10 +82,10 @@
 | Weapon Specialist | 25.00% | ~184 |
 | Liberator | 25.00% | ~184 |
 | Tunnel Rat | 24.00% | ~177 |
+| Savior | 23.00% | ~170 |
 | Pathfinder | 23.00% | ~170 |
 | Arbiter | 23.00% | ~170 |
 | Lost and Found | 23.00% | ~170 |
-| Savior | 22.00% | ~162 |
 | Paramour II | 22.00% | ~162 |
 | Party Crasher | 21.00% | ~155 |
 | Pyromaniac | 20.00% | ~147 |

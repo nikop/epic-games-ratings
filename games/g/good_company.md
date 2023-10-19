@@ -45,7 +45,7 @@ Number of Ratings: 75  (23.09.2022)
 | Level: Topple The Top | 0.90% | ~50 |
 | Tycoon | 0.90% | ~50 |
 | Bet On Bots: Safety First | 0.80% | ~44 |
-| Merry-Go-Around: Self-Made | 0.70% | ~38 |
+| Merry-Go-Around: Self-Made | 0.70% | ~39 |
 | Bet On Bots: Inspector's Favorite | 0.60% | ~33 |
 | Trendsetter | 0.60% | ~33 |
 | Level: Heating-Up | 0.50% | ~28 |
@@ -54,12 +54,12 @@ Number of Ratings: 75  (23.09.2022)
 | Campaign: Man vs. Machine | 0.40% | ~22 |
 | A Happy Taskforce: Interior Designer | 0.40% | ~22 |
 | Rockstar | 0.40% | ~22 |
-| Champion | 0.30% | ~16 |
-| Trophy Hoarder | 0.30% | ~16 |
-| The Machinery: Goal Orientated | 0.30% | ~16 |
-| The Machinery: Energy Saver | 0.30% | ~16 |
-| Super Rich | 0.30% | ~16 |
-| Fully Packed | 0.30% | ~16 |
+| Champion | 0.30% | ~17 |
+| Trophy Hoarder | 0.30% | ~17 |
+| The Machinery: Goal Orientated | 0.30% | ~17 |
+| The Machinery: Energy Saver | 0.30% | ~17 |
+| Super Rich | 0.30% | ~17 |
+| Fully Packed | 0.30% | ~17 |
 | Happy Hour | 0.20% | ~11 |
 | Achiever | 0.20% | ~11 |
 | Grand Master | 0.10% | ~6 |
@@ -83,7 +83,7 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~6 |
 | Prestigious | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,500 (Ranked 170)  
+Progressed: 5,501 (Ranked 170)  
 Completed: 1 (0.02%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,6 +260,7 @@ Completed: 1 (0.02%) (Ranked 290)
 | 2023-10-15 | 5,493 | 1 |
 | 2023-10-16 | 5,495 | 1 |
 | 2023-10-17 | 5,500 | 1 |
+| 2023-10-19 | 5,501 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

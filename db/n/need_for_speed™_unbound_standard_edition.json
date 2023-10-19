@@ -4,7 +4,7 @@
   "ProductSlug": "need-for-speed-unbound",
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 71,
+  "Ranking_EOS_NewPlayers": 72,
   "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2022-12-02T07:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 6910,
+  "EOS_Progressed": 6911,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 834,
+  "EOS_NewPlayers": 831,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -3448,6 +3448,11 @@
       "Time": "2023-10-18T23:03:49.6545944+00:00",
       "NumProgressed": 6910,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-10-19T00:03:36.1483238+00:00",
+      "NumProgressed": 6911,
+      "NumCompleted": 41
     }
   ],
   "AchievementsAdded": "2023-09-19T23:06:56.1964818+00:00",
@@ -3508,7 +3513,7 @@
       "Name": "Serious Guap",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 3731
+      "UsersEstimate": 3732
     },
     {
       "ID": "achievement_16",
@@ -3556,7 +3561,7 @@
       "Name": "Style it Out",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3731
+      "UsersEstimate": 3732
     },
     {
       "ID": "achievement_21",
@@ -3580,7 +3585,7 @@
       "Name": "Public Enemy",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 5735
+      "UsersEstimate": 5736
     },
     {
       "ID": "achievement_24",
@@ -3588,7 +3593,7 @@
       "Name": "Untouchable",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 3731
+      "UsersEstimate": 3732
     },
     {
       "ID": "achievement_25",
@@ -3596,7 +3601,7 @@
       "Name": "Access All Areas",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 2418
+      "UsersEstimate": 2419
     },
     {
       "ID": "achievement_26",
@@ -3636,7 +3641,7 @@
       "Name": "New Crew",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 4353
+      "UsersEstimate": 4354
     },
     {
       "ID": "achievement_30",
@@ -3652,7 +3657,7 @@
       "Name": "Top Billin\u0027",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1659
     },
     {
       "ID": "achievement_32",
@@ -3668,7 +3673,7 @@
       "Name": "#Blessed",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 2349
+      "UsersEstimate": 2350
     },
     {
       "ID": "achievement_34",
@@ -3692,7 +3697,7 @@
       "Name": "100 Miles and Runnin\u0027",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 5804
+      "UsersEstimate": 5805
     },
     {
       "ID": "achievement_37",
@@ -3700,7 +3705,7 @@
       "Name": "Throwing up Tags",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 6426
+      "UsersEstimate": 6427
     },
     {
       "ID": "achievement_38",
@@ -3708,7 +3713,7 @@
       "Name": "Fashion Killa",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 6150
+      "UsersEstimate": 6151
     },
     {
       "ID": "achievement_39",
@@ -3716,7 +3721,7 @@
       "Name": "Cool Whip",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 6219
+      "UsersEstimate": 6220
     },
     {
       "ID": "achievement_4",
@@ -3724,7 +3729,7 @@
       "Name": "Oh, It\u0027s On",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 3524
+      "UsersEstimate": 3525
     },
     {
       "ID": "achievement_40",
@@ -3732,7 +3737,7 @@
       "Name": "Kick it",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2211
+      "UsersEstimate": 2212
     },
     {
       "ID": "achievement_41",
@@ -3787,13 +3792,13 @@
     {
       "ID": "d0n64ce",
       "IsBase": true,
-      "Progressed": 6910,
+      "Progressed": 6911,
       "Completed": 41
     }
   ],
   "FirstSeenAchievements": "2023-07-25T22:03:37.4196764+00:00",
-  "LastChanged_Achievements": "2023-10-18T23:03:49.6545939+00:00",
+  "LastChanged_Achievements": "2023-10-19T00:03:36.1483233+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:22.4820497+00:00",
-  "LastUpdate_Ratings": "2023-10-18T22:57:23.0835325+00:00",
-  "LastUpdate_Achievements": "2023-10-18T23:03:49.6546624+00:00"
+  "LastUpdate_Ratings": "2023-10-18T23:57:03.1714855+00:00",
+  "LastUpdate_Achievements": "2023-10-19T00:03:36.148368+00:00"
 }

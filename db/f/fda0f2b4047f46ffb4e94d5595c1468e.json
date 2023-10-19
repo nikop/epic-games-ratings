@@ -4,11 +4,11 @@
   "ProductSlug": "mortal-kombat-1",
   "Ranking_Rating": 630,
   "Ranking_Popularity": 139,
-  "Ranking_PopularitySum": 163,
+  "Ranking_PopularitySum": 162,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -1339,10 +1339,16 @@
       "Rating": 4.46,
       "NumberOfAwards": 3284,
       "NumberOfAwardsMax": 1203
+    },
+    {
+      "Time": "2023-10-19T00:01:11.3239104+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 3288,
+      "NumberOfAwardsMax": 1203
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3284,
+  "NumberOfAwards": 3288,
   "NumberOfAwardsMax": 1203,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1416,12 +1422,12 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 231
+      "Count": 235
     }
   ],
   "EOS_Progressed": 7768,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 369,
+  "EOS_NewPlayers": 365,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5242,9 +5248,9 @@
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2023-10-18T22:12:40.5674829+00:00",
-  "LastChanged_Achievements": "2023-10-18T23:09:29.1832798+00:00",
+  "LastChanged": "2023-10-19T00:01:11.3239103+00:00",
+  "LastChanged_Achievements": "2023-10-19T00:09:18.5017965+00:00",
   "LastUpdate_AppInfo": "2023-10-14T07:57:06.3888504+00:00",
-  "LastUpdate_Ratings": "2023-10-18T23:01:56.8794473+00:00",
-  "LastUpdate_Achievements": "2023-10-18T23:09:29.1833509+00:00"
+  "LastUpdate_Ratings": "2023-10-19T00:01:11.3239108+00:00",
+  "LastUpdate_Achievements": "2023-10-19T00:09:18.5018458+00:00"
 }

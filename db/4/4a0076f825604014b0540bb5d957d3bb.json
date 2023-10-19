@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 424,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 340,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2019-12-04T00:00:00+00:00",
@@ -458,9 +458,9 @@
       "ID": "CgkInO_K3eIdEAIQEg",
       "SetID": "6bj96in",
       "Name": "HOARDER",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "CgkInO_K3eIdEAIQEw",
@@ -537,8 +537,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-10-18T23:05:15.4695154+00:00",
+  "LastChanged_Achievements": "2023-10-19T00:04:44.6483376+00:00",
   "LastUpdate_AppInfo": "2023-10-18T22:09:34.0827577+00:00",
-  "LastUpdate_Ratings": "2023-10-18T22:57:35.5661196+00:00",
-  "LastUpdate_Achievements": "2023-10-18T23:05:15.469539+00:00"
+  "LastUpdate_Ratings": "2023-10-18T23:57:14.0070611+00:00",
+  "LastUpdate_Achievements": "2023-10-19T00:04:44.6483533+00:00"
 }

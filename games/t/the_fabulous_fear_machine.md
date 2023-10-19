@@ -24,16 +24,16 @@
 | The artist | 33.00% | ~10 |
 | Welcome to Hellville | 33.00% | ~10 |
 | Et in arcadia ego | 30.00% | ~9 |
-| You had one wish left | 23.00% | ~7 |
-| You've awakened the beast | 20.00% | ~6 |
-| Hate is... addictive | 20.00% | ~6 |
+| You had one wish left | 27.00% | ~8 |
+| You've awakened the beast | 23.00% | ~7 |
+| Hate is... addictive | 23.00% | ~7 |
+| The bully | 20.00% | ~6 |
 | The barbarian invasions | 20.00% | ~6 |
 | Blessed antennas | 17.00% | ~5 |
 | The beast in the Oval Office | 17.00% | ~5 |
 | Blood Red Island | 17.00% | ~5 |
 | Bread and bocaua | 17.00% | ~5 |
 | Fanatacism is... poisonous | 17.00% | ~5 |
-| The bully | 17.00% | ~5 |
 | The adventurer | 17.00% | ~5 |
 | Pulp! The Beyond | 17.00% | ~5 |
 | America had no Faith | 17.00% | ~5 |

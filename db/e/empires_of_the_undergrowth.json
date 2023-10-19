@@ -3,12 +3,12 @@
   "Name": "Empires of the Undergrowth",
   "ProductSlug": "empires-of-the-undergrowth",
   "Ranking_Rating": 166,
-  "Ranking_Popularity": 428,
+  "Ranking_Popularity": 429,
   "Ranking_PopularitySum": 327,
   "Ranking_EOS_Progress": 681,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2020-10-28T14:00:00+00:00",
     "PcReleaseDate": "2020-10-28T14:00:00+00:00",
@@ -953,6 +953,6 @@
   "FirstSeen": "2022-07-22T20:32:38.799219+00:00",
   "LastChanged": "2023-09-22T22:02:16.5831543+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:17.231938+00:00",
-  "LastUpdate_Ratings": "2023-10-18T23:00:37.8195463+00:00",
-  "LastUpdate_Achievements": "2023-10-18T23:05:46.9245313+00:00"
+  "LastUpdate_Ratings": "2023-10-18T23:59:58.9033082+00:00",
+  "LastUpdate_Achievements": "2023-10-19T00:05:14.1152061+00:00"
 }

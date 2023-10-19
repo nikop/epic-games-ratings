@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 47,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2015-10-06T14:47:00+00:00",
@@ -6081,9 +6081,9 @@
       "Count": 434
     }
   ],
-  "EOS_Progressed": 184698,
+  "EOS_Progressed": 184703,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1869,
+  "EOS_NewPlayers": 1870,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26576,6 +26576,11 @@
       "Time": "2023-10-18T23:06:30.0041965+00:00",
       "NumProgressed": 184698,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-19T00:05:53.6091097+00:00",
+      "NumProgressed": 184703,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 16,
@@ -26595,7 +26600,7 @@
       "Name": "Crowd Control",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "Achievement_10",
@@ -26667,7 +26672,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 46174
+      "UsersEstimate": 46176
     },
     {
       "ID": "Achievement_5",
@@ -26714,15 +26719,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 184698,
+      "Progressed": 184703,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2023-10-18T18:58:20.2165225+00:00",
-  "LastChanged_Achievements": "2023-10-18T23:06:30.004196+00:00",
+  "LastChanged_Achievements": "2023-10-19T00:05:53.6091092+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:01.2468535+00:00",
-  "LastUpdate_Ratings": "2023-10-18T22:58:13.0383268+00:00",
-  "LastUpdate_Achievements": "2023-10-18T23:06:30.0044078+00:00"
+  "LastUpdate_Ratings": "2023-10-18T23:57:47.5493448+00:00",
+  "LastUpdate_Achievements": "2023-10-19T00:05:53.6092176+00:00"
 }

@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shipwrecked! | 79.00% | ~15 |
+| Shipwrecked! | 84.00% | ~16 |
 | Sea Legs | 74.00% | ~14 |
 | What?! | 47.00% | ~9 |
 | Frogs Legs | 37.00% | ~7 |

@@ -2,13 +2,13 @@
   "ID": "a9dad8af015a422eb89a5f88e6def923",
   "Name": "The Pathless",
   "ProductSlug": "the-pathless",
-  "Ranking_Rating": 243,
+  "Ranking_Rating": 242,
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 681,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2020-11-12T16:00:00+00:00",
     "PcReleaseDate": "2020-11-12T16:00:00+00:00",
@@ -216,6 +216,6 @@
   "FirstSeen": "2022-07-22T20:23:35.2337703+00:00",
   "LastChanged": "2023-10-14T05:01:17.3962046+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:39.4836524+00:00",
-  "LastUpdate_Ratings": "2023-10-18T22:57:56.0716998+00:00",
-  "LastUpdate_Achievements": "2023-10-18T23:03:50.4533217+00:00"
+  "LastUpdate_Ratings": "2023-10-18T23:57:31.8594192+00:00",
+  "LastUpdate_Achievements": "2023-10-19T00:03:36.7610991+00:00"
 }
