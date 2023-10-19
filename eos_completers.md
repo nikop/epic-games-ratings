@@ -3,7 +3,7 @@
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 66.67% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.58% |
-| 4 | [The Riflemen](games/t/the_riflemen.md) | 46.99% |
+| 4 | [The Riflemen](games/t/the_riflemen.md) | 46.95% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.83% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 33.61% |
@@ -30,7 +30,7 @@
 | 28 | [Remains](games/r/remains.md) | 11.76% |
 | 29 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 11.43% |
 | 30 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 11.27% |
-| 31 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.14% |
+| 31 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.26% |
 | 32 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 33 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.80% |
 | 34 | [Anna's Quest](games/a/anna's_quest.md) | 10.71% |
@@ -71,8 +71,8 @@
 | 69 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.43% |
 | 70 | [The Bunker](games/t/the_bunker.md) | 4.20% |
 | 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.15% |
-| 72 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.07% |
 | 72 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.07% |
+| 73 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.06% |
 | 74 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.00% |
 | 75 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
 | 76 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.78% |
@@ -84,8 +84,8 @@
 | 82 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
 | 83 | [The Complex](games/t/the_complex.md) | 3.31% |
 | 84 | [Doodle God](games/d/doodle_god.md) | 3.27% |
-| 85 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.25% |
-| 86 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.24% |
+| 85 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.24% |
+| 85 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.24% |
 | 87 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.23% |
 | 88 | [Monster Harvest](games/m/monster_harvest.md) | 3.15% |
 | 88 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.15% |
@@ -158,13 +158,13 @@
 | 156 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
 | 157 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.75% |
 | 158 | [Eternights](games/e/eternights.md) | 0.74% |
-| 158 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.74% |
+| 159 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.73% |
 | 160 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.71% |
 | 161 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.69% |
 | 162 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.66% |
 | 163 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.64% |
-| 164 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
-| 165 | [Potion Permit](games/p/potion_permit.md) | 0.62% |
+| 164 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
+| 164 | [Potion Permit](games/p/potion_permit.md) | 0.62% |
 | 166 | [Haven](games/h/haven.md) | 0.61% |
 | 167 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.59% |
 | 168 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.58% |
@@ -200,11 +200,11 @@
 | 198 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.36% |
 | 198 | [The Surge](games/t/the_surge.md) | 0.36% |
 | 200 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
-| 201 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.32% |
 | 201 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
-| 203 | [Against the Storm](games/a/against_the_storm.md) | 0.31% |
-| 203 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
-| 203 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
+| 202 | [Against the Storm](games/a/against_the_storm.md) | 0.31% |
+| 202 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.31% |
+| 202 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
+| 202 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 206 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
 | 206 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.30% |
 | 206 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.30% |
@@ -680,4 +680,4 @@
 | 316 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 316 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 316 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,436 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,437 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
