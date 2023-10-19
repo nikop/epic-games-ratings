@@ -3,12 +3,12 @@
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
   "Ranking_Rating": 476,
-  "Ranking_Popularity": 538,
-  "Ranking_PopularitySum": 538,
+  "Ranking_Popularity": 537,
+  "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 290,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -259,9 +259,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18488,
+  "EOS_Progressed": 18489,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -11779,6 +11779,11 @@
       "Time": "2023-10-19T09:04:03.4415726+00:00",
       "NumProgressed": 18488,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-19T11:03:32.7779341+00:00",
+      "NumProgressed": 18489,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -11974,15 +11979,15 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4067
+      "UsersEstimate": 4068
     },
     {
       "ID": "0025",
       "SetID": "2n2feee",
       "Name": "Tailor-Made",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3143
+      "UsersEstimate": 3328
     },
     {
       "ID": "0026",
@@ -12014,7 +12019,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2403
+      "UsersEstimate": 2404
     },
     {
       "ID": "0030",
@@ -12077,7 +12082,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18488,
+      "Progressed": 18489,
       "Completed": 4
     }
   ],
@@ -12085,8 +12090,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-10-19T10:04:00.2582571+00:00",
+  "LastChanged_Achievements": "2023-10-19T11:03:32.7779337+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:07.4457302+00:00",
-  "LastUpdate_Ratings": "2023-10-19T10:01:03.4891338+00:00",
-  "LastUpdate_Achievements": "2023-10-19T10:04:00.2583653+00:00"
+  "LastUpdate_Ratings": "2023-10-19T11:00:20.3843823+00:00",
+  "LastUpdate_Achievements": "2023-10-19T11:03:32.7780369+00:00"
 }

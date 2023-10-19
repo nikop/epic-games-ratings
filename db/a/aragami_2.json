@@ -3,12 +3,12 @@
   "Name": "Aragami 2",
   "ProductSlug": "aragami-2",
   "Ranking_Rating": 495,
-  "Ranking_Popularity": 538,
-  "Ranking_PopularitySum": 538,
+  "Ranking_Popularity": 537,
+  "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
     "PcReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -239,9 +239,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 43563,
+  "EOS_Progressed": 43564,
   "EOS_Completed": 238,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -16549,6 +16549,11 @@
       "Time": "2023-10-19T05:05:45.6062924+00:00",
       "NumProgressed": 43563,
       "NumCompleted": 238
+    },
+    {
+      "Time": "2023-10-19T11:05:50.4951954+00:00",
+      "NumProgressed": 43564,
+      "NumCompleted": 238
     }
   ],
   "TotalAchievements": 44,
@@ -16680,7 +16685,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 34850
+      "UsersEstimate": 34851
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -16752,7 +16757,7 @@
       "Name": "Bird of Prey",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 16118
+      "UsersEstimate": 16119
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -16760,7 +16765,7 @@
       "Name": "Clinging to Life",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 7841
+      "UsersEstimate": 7842
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -16832,7 +16837,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 29187
+      "UsersEstimate": 29188
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -16864,7 +16869,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19603
+      "UsersEstimate": 19604
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -16896,7 +16901,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 40514
+      "UsersEstimate": 40515
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -16911,7 +16916,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 43563,
+      "Progressed": 43564,
       "Completed": 238
     }
   ],
@@ -16919,8 +16924,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-08-30T04:00:16.1693203+00:00",
-  "LastChanged_Achievements": "2023-10-19T10:06:42.7790264+00:00",
+  "LastChanged_Achievements": "2023-10-19T11:05:50.495195+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:03.6344723+00:00",
-  "LastUpdate_Ratings": "2023-10-19T10:03:17.7297837+00:00",
-  "LastUpdate_Achievements": "2023-10-19T10:06:42.7791974+00:00"
+  "LastUpdate_Ratings": "2023-10-19T11:02:15.5552246+00:00",
+  "LastUpdate_Achievements": "2023-10-19T11:05:50.495343+00:00"
 }

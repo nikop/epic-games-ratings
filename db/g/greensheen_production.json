@@ -1,10 +1,10 @@
 {
   "ID": "400fd43e2e2f4b3b97bdc32656cb8f09",
   "Name": "greensheen Production",
-  "Ranking_EOS_Progress": 533,
+  "Ranking_EOS_Progress": 534,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 313,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -90,9 +90,9 @@
       "ID": "BugSmash",
       "SetID": "aph8hbk",
       "Name": "Bully of Bullies",
-      "Percentage": 45,
+      "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "BurnBears",
@@ -146,9 +146,9 @@
       "ID": "Detention",
       "SetID": "aph8hbk",
       "Name": "Merciful feat",
-      "Percentage": 45,
+      "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "EmptyVendingMachine",
@@ -178,9 +178,9 @@
       "ID": "FootballGoal",
       "SetID": "aph8hbk",
       "Name": "Referee!",
-      "Percentage": 45,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "Fridge",
@@ -282,9 +282,9 @@
       "ID": "PaperPlaneWindow",
       "SetID": "aph8hbk",
       "Name": "Fly Free",
-      "Percentage": 45,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "PatientBall",
@@ -298,9 +298,9 @@
       "ID": "Piano",
       "SetID": "aph8hbk",
       "Name": "Mono Tones",
-      "Percentage": 55,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "Platinum",
@@ -322,9 +322,9 @@
       "ID": "SixRaincoat",
       "SetID": "aph8hbk",
       "Name": "True Colours",
-      "Percentage": 55,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "SpareDoc",
@@ -368,8 +368,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-31T13:15:39.9572089+00:00",
-  "LastChanged_Achievements": "2023-10-19T10:03:47.1322117+00:00",
+  "LastChanged_Achievements": "2023-10-19T11:03:21.8435616+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:13.194983+00:00",
-  "LastUpdate_Ratings": "2023-10-19T09:57:22.6821586+00:00",
-  "LastUpdate_Achievements": "2023-10-19T10:03:47.1322406+00:00"
+  "LastUpdate_Ratings": "2023-10-19T10:57:15.9068168+00:00",
+  "LastUpdate_Achievements": "2023-10-19T11:03:21.8435888+00:00"
 }

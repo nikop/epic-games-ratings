@@ -4427,7 +4427,7 @@
   ],
   "EOS_Progressed": 5522,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 577,
+  "EOS_NewPlayers": 572,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -7841,9 +7841,9 @@
       "ID": "achievement_a3",
       "SetID": "3m4b0pk",
       "Name": "Grab Some Seat",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 5025
+      "UsersEstimate": 5080
     },
     {
       "ID": "achievement_a30",
@@ -8098,8 +8098,8 @@
   "FirstSeenRating": "2023-04-28T17:02:09.2169574+00:00",
   "FirstSeenAchievements": "2023-07-31T22:07:03.059823+00:00",
   "LastChanged": "2023-10-18T22:11:09.7341003+00:00",
-  "LastChanged_Achievements": "2023-10-19T10:06:39.2603976+00:00",
+  "LastChanged_Achievements": "2023-10-19T11:05:47.4461863+00:00",
   "LastUpdate_AppInfo": "2023-10-14T10:57:21.9143507+00:00",
-  "LastUpdate_Ratings": "2023-10-19T09:59:30.8968287+00:00",
-  "LastUpdate_Achievements": "2023-10-19T10:06:39.2605226+00:00"
+  "LastUpdate_Ratings": "2023-10-19T10:59:04.1251945+00:00",
+  "LastUpdate_Achievements": "2023-10-19T11:05:47.4462587+00:00"
 }

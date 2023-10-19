@@ -5,14 +5,14 @@ Rating: 4.56 (Ranked 476)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 82.00% | ~10,837 |
-| Pay 'n' Spray | 51.00% | ~6,740 |
+| Getting Started | 82.00% | ~10,838 |
+| Pay 'n' Spray | 51.00% | ~6,741 |
 | All Dressed Up for San Fierro | 26.00% | ~3,436 |
 | The American Dream | 20.00% | ~2,643 |
 | School's Out | 19.00% | ~2,511 |
 | Smooth Moves | 17.00% | ~2,247 |
-| What happens in Las Venturas... | 15.00% | ~1,982 |
-| Today Was a Good Day | 15.00% | ~1,982 |
+| What happens in Las Venturas... | 15.00% | ~1,983 |
+| Today Was a Good Day | 15.00% | ~1,983 |
 | Horror of the Santa Maria | 11.00% | ~1,454 |
 | Liberty City State of Mind | 10.00% | ~1,322 |
 | The End of the Line | 8.00% | ~1,057 |
@@ -22,9 +22,9 @@ Rating: 4.56 (Ranked 476)
 | They Can’t Stop All of Us | 5.00% | ~661 |
 | Rescue a Kitten Too? | 5.00% | ~661 |
 | What are the Odds | 4.00% | ~529 |
-| Bike or Biker | 3.00% | ~396 |
-| What the City Needs | 3.00% | ~396 |
-| Yes I Speak English | 3.00% | ~396 |
+| Bike or Biker | 3.00% | ~397 |
+| What the City Needs | 3.00% | ~397 |
+| Yes I Speak English | 3.00% | ~397 |
 | A Legitimate Business | 2.00% | ~264 |
 | I’ll Have Two Number 9s | 2.00% | ~264 |
 | Who Needs Directions? | 2.00% | ~264 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 476)
 | ...Here we go again | 0.50% | ~66 |
 | I Ain't No Buster | 0.40% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,216 (Ranked 141)  
+Progressed: 13,217 (Ranked 141)  
 Completed: 50 (0.38%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,6 +223,7 @@ Completed: 50 (0.38%) (Ranked 193)
 | 2023-10-16 | 13,205 | 50 |
 | 2023-10-17 | 13,211 | 50 |
 | 2023-10-18 | 13,216 | 50 |
+| 2023-10-19 | 13,217 | 50 |
 ## Awards
 Max (Great Boss Battles): 354  (Ranked 232)  
 Sum: 566 (Ranked 304)  

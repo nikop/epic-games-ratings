@@ -6,9 +6,9 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~25,033 |
-| A thief's beginning | 10.00% | ~20,861 |
-| Thorough | 10.00% | ~20,861 |
+| Genin | 12.00% | ~25,034 |
+| A thief's beginning | 10.00% | ~20,862 |
+| Thorough | 10.00% | ~20,862 |
 | Disguised | 9.00% | ~18,775 |
 | Rollin' | 9.00% | ~18,775 |
 | Rescue Takuma | 8.00% | ~16,689 |
@@ -22,12 +22,12 @@ Number of Ratings: 495  (23.09.2022)
 | Flying Rocks | 6.00% | ~12,517 |
 | Mugen Unchained | 6.00% | ~12,517 |
 | Warzone | 6.00% | ~12,517 |
-| Okkoto | 5.00% | ~10,430 |
-| Prisoners | 5.00% | ~10,430 |
-| Too Early | 5.00% | ~10,430 |
-| Gear up | 4.00% | ~8,344 |
-| Happy little accidents | 4.00% | ~8,344 |
-| Still Rollin' | 4.00% | ~8,344 |
+| Okkoto | 5.00% | ~10,431 |
+| Prisoners | 5.00% | ~10,431 |
+| Too Early | 5.00% | ~10,431 |
+| Gear up | 4.00% | ~8,345 |
+| Happy little accidents | 4.00% | ~8,345 |
+| Still Rollin' | 4.00% | ~8,345 |
 | Noboru | 3.00% | ~6,258 |
 | Stoned | 3.00% | ~6,258 |
 | The Old Way | 3.00% | ~6,258 |
@@ -39,7 +39,7 @@ Number of Ratings: 495  (23.09.2022)
 | Meticulous | 1.00% | ~2,086 |
 | The End | 1.00% | ~2,086 |
 | Undeserved Honor | 1.00% | ~2,086 |
-| When Cut Across the Neck | 0.90% | ~1,877 |
+| When Cut Across the Neck | 0.90% | ~1,878 |
 | High Five the Moon | 0.80% | ~1,669 |
 | The Cave | 0.80% | ~1,669 |
 | Merciful | 0.50% | ~1,043 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~209 |
 | Release the Kraken | 0.10% | ~209 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 208,609 (Ranked 65)  
+Progressed: 208,616 (Ranked 65)  
 Completed: 91 (0.04%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,10 +233,10 @@ Completed: 91 (0.04%) (Ranked 279)
 | 2023-10-16 | 208,245 | 91 |
 | 2023-10-17 | 208,416 | 91 |
 | 2023-10-18 | 208,553 | 91 |
-| 2023-10-19 | 208,609 | 91 |
+| 2023-10-19 | 208,616 | 91 |
 ## Awards
 Max (Great for Beginners): 567  (Ranked 196)  
-Sum: 4,794 (Ranked 138)  
+Sum: 4,795 (Ranked 138)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
@@ -246,7 +246,7 @@ Diff (max vs sum): 58
 | This game has Amazing Storytelling | 512 |
 | This game has Amazing Characters | 492 |
 | This game is Highly Recommended | 488 |
-| This game is Relaxing | 487 |
+| This game is Relaxing | 488 |
 | This game has Challenging Combat | 481 |
 | This game has Quickly Understood Controls | 453 |
 | This game has a Creative Community | 250 |
@@ -442,4 +442,4 @@ Diff (max vs sum): 58
 | 2023-10-09 | 4.67 | - | 566 | 4,789 |
 | 2023-10-14 | 4.67 | - | 567 | 4,790 |
 | 2023-10-18 | 4.67 | - | 567 | 4,793 |
-| 2023-10-19 | 4.67 | - | 567 | 4,794 |
+| 2023-10-19 | 4.67 | - | 567 | 4,795 |

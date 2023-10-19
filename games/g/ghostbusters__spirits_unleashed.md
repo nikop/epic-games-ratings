@@ -22,6 +22,7 @@ Rating: 4.50 (Ranked 574)
 | Icing on the Cake | 1.00% | ~266 |
 | Right back at ya | 1.00% | ~266 |
 | Solo Capture | 1.00% | ~266 |
+| Summoner | 1.00% | ~266 |
 | Swift Rift Removers | 1.00% | ~266 |
 | Teamwork | 1.00% | ~266 |
 | Terrifying | 1.00% | ~266 |
@@ -29,18 +30,17 @@ Rating: 4.50 (Ranked 574)
 | Welcome to the Crew | 1.00% | ~266 |
 | Whoopsie | 1.00% | ~266 |
 | Side Hustle | 0.90% | ~240 |
-| Summoner | 0.90% | ~240 |
 | Skilled | 0.80% | ~213 |
 | Stunner | 0.80% | ~213 |
 | Legions | 0.70% | ~186 |
 | Pesky Jerks | 0.70% | ~186 |
 | We have the best insurance | 0.60% | ~160 |
 | Diabolical | 0.60% | ~160 |
+| Rift Destroyer | 0.60% | ~160 |
 | Seasoned | 0.60% | ~160 |
 | Collector | 0.50% | ~133 |
 | Escape Artist | 0.50% | ~133 |
 | Reckless | 0.50% | ~133 |
-| Rift Destroyer | 0.50% | ~133 |
 | Rivalry | 0.50% | ~133 |
 | Tobin's Prodigy | 0.50% | ~133 |
 | Fragile Panes | 0.40% | ~106 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 574)
 | Mycophile | 0.10% | ~27 |
 | Ultimate Defense | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,617 (Ranked 117)  
+Progressed: 26,619 (Ranked 117)  
 Completed: 59 (0.22%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 59 (0.22%) (Ranked 219)
 | 2023-10-16 | 26,537 | 58 |
 | 2023-10-17 | 26,559 | 58 |
 | 2023-10-18 | 26,596 | 59 |
-| 2023-10-19 | 26,617 | 59 |
+| 2023-10-19 | 26,619 | 59 |
 ## Awards
 Max (Great for Quick Sessions): 266  (Ranked 257)  
 Sum: 2,409 (Ranked 188)  

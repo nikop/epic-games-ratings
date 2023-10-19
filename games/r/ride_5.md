@@ -12,8 +12,8 @@
 | Bitter Rivalry | 25.00% | ~388 |
 | We're Going to Need a Bigger Garage | 24.00% | ~372 |
 | Champagne Spray | 22.00% | ~341 |
-| I Want One Too! | 19.00% | ~294 |
-| Legendary!!! | 19.00% | ~294 |
+| I Want One Too! | 19.00% | ~295 |
+| Legendary!!! | 19.00% | ~295 |
 | Restored and Ready | 18.00% | ~279 |
 | Quick Pit Stop | 18.00% | ~279 |
 | I'm Here Too! | 17.00% | ~264 |
@@ -24,11 +24,11 @@
 | Evangelist | 6.00% | ~93 |
 | Make It Your Own! | 5.00% | ~78 |
 | I Make the Rules! | 4.00% | ~62 |
-| Spoilt for Choice | 3.00% | ~46 |
-| Cherry Blossom and Temples | 3.00% | ~46 |
-| La Dolce Vita | 3.00% | ~46 |
-| The Road to Liberty | 3.00% | ~46 |
-| Romantic Races | 3.00% | ~46 |
+| Spoilt for Choice | 3.00% | ~47 |
+| Cherry Blossom and Temples | 3.00% | ~47 |
+| La Dolce Vita | 3.00% | ~47 |
+| The Road to Liberty | 3.00% | ~47 |
+| Romantic Races | 3.00% | ~47 |
 | Iconic! | 2.00% | ~31 |
 | Back in Blighty | 2.00% | ~31 |
 | Still Here | 2.00% | ~31 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,550 (Ranked 216)  
+Progressed: 1,551 (Ranked 216)  
 Completed: 0 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,4 +102,4 @@ Completed: 0 (0.00%) (Ranked 316)
 | 2023-10-16 | 1,506 | 0 |
 | 2023-10-17 | 1,518 | 0 |
 | 2023-10-18 | 1,541 | 0 |
-| 2023-10-19 | 1,550 | 0 |
+| 2023-10-19 | 1,551 | 0 |

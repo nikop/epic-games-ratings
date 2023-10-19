@@ -2,10 +2,10 @@
   "ID": "ad3283cc38a64db89c010975976948de",
   "Name": "Buddy and Friends in Halloween",
   "ProductSlug": "buddy-and-friends-in-halloween-192190",
-  "Ranking_EOS_Progress": 598,
+  "Ranking_EOS_Progress": 599,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-10-24T15:00:00+00:00",
     "PcReleaseDate": "2023-10-18T15:00:00+00:00",
@@ -301,8 +301,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-22T13:08:37.9195504+00:00",
-  "LastChanged_Achievements": "2023-10-19T10:05:37.8113542+00:00",
+  "LastChanged_Achievements": "2023-10-19T11:04:55.6127111+00:00",
   "LastUpdate_AppInfo": "2023-10-18T22:09:35.7993988+00:00",
-  "LastUpdate_Ratings": "2023-10-19T10:01:19.8374693+00:00",
-  "LastUpdate_Achievements": "2023-10-19T10:05:37.8113818+00:00"
+  "LastUpdate_Ratings": "2023-10-19T11:00:33.2328521+00:00",
+  "LastUpdate_Achievements": "2023-10-19T11:04:55.612737+00:00"
 }

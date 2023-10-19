@@ -3,12 +3,12 @@
   "Name": "Aether TCG",
   "ProductSlug": "cards-of-ethernity-420f51",
   "Ranking_Rating": 82,
-  "Ranking_Popularity": 538,
-  "Ranking_PopularitySum": 538,
+  "Ranking_Popularity": 537,
+  "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 681,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
     "PcReleaseDate": "2023-05-01T10:00:00+00:00",
@@ -55,6 +55,6 @@
   "FirstSeenRating": "2023-04-26T23:56:57.849328+00:00",
   "LastChanged": "2023-10-17T21:00:23.6159406+00:00",
   "LastUpdate_AppInfo": "2023-10-14T13:56:57.8859523+00:00",
-  "LastUpdate_Ratings": "2023-10-19T09:57:56.6292576+00:00",
-  "LastUpdate_Achievements": "2023-10-19T10:07:15.3960859+00:00"
+  "LastUpdate_Ratings": "2023-10-19T10:57:44.5844088+00:00",
+  "LastUpdate_Achievements": "2023-10-19T11:06:17.7002349+00:00"
 }

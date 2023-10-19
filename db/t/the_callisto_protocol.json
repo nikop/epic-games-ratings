@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 323,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1313,9 +1313,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 16044,
+  "EOS_Progressed": 16046,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -7578,6 +7578,11 @@
       "Time": "2023-10-19T10:04:17.8592064+00:00",
       "NumProgressed": 16044,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2023-10-19T11:03:47.8145193+00:00",
+      "NumProgressed": 16046,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 47,
@@ -7941,7 +7946,7 @@
       "Name": "Keep Fighting",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -7964,13 +7969,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16044,
+      "Progressed": 16046,
       "Completed": 75
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3970,
+      "Progressed": 3972,
       "Completed": 29
     }
   ],
@@ -7978,8 +7983,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-10-19T07:57:37.4777054+00:00",
-  "LastChanged_Achievements": "2023-10-19T10:04:17.8592062+00:00",
+  "LastChanged_Achievements": "2023-10-19T11:03:47.8145187+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:28.7445303+00:00",
-  "LastUpdate_Ratings": "2023-10-19T09:57:31.7145673+00:00",
-  "LastUpdate_Achievements": "2023-10-19T10:04:17.8592734+00:00"
+  "LastUpdate_Ratings": "2023-10-19T10:57:23.4009345+00:00",
+  "LastUpdate_Achievements": "2023-10-19T11:03:47.8146039+00:00"
 }

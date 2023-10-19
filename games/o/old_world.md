@@ -39,6 +39,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Warrior | 1.00% | ~148 |
 | Wise | 1.00% | ~148 |
 | Developing Cities | 1.00% | ~148 |
+| Legendary Cities | 1.00% | ~148 |
 | Strong Cities | 1.00% | ~148 |
 | Able Difficulty | 1.00% | ~148 |
 | Furious Family | 1.00% | ~148 |
@@ -62,7 +63,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Pyramids | 1.00% | ~148 |
 | Regicide | 0.90% | ~133 |
 | Mighty | 0.90% | ~133 |
-| Legendary Cities | 0.90% | ~133 |
 | Just Difficulty | 0.90% | ~133 |
 | Artisans | 0.90% | ~133 |
 | Acropolis | 0.90% | ~133 |

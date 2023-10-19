@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Is There Anybody Out There? | 94.00% | ~105 |
+| Is There Anybody Out There? | 95.00% | ~106 |
 | Cluster One | 85.00% | ~95 |
 | Another Brick in the Wall (Part 1) | 71.00% | ~80 |
 | High Hopes | 62.00% | ~69 |
 | Comfortably Numb | 59.00% | ~66 |
 | Echoes | 52.00% | ~58 |
-| Another Brick in the Wall (Part 2) | 49.00% | ~55 |
+| Another Brick in the Wall (Part 2) | 50.00% | ~56 |
 | Biding My Time | 45.00% | ~50 |
 | The Gunner's Dream | 40.00% | ~45 |
 | Another Brick in the Wall (Part 3) | 35.00% | ~39 |

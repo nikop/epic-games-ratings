@@ -4,8 +4,8 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 284,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 445,
+  "EOS_Progressed": 446,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -824,6 +824,11 @@
       "Time": "2023-10-18T20:09:23.0575829+00:00",
       "NumProgressed": 445,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-19T11:08:48.6853633+00:00",
+      "NumProgressed": 446,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -875,7 +880,7 @@
       "Name": "Bug Hunter",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "Cryomancer",
@@ -907,7 +912,7 @@
       "Name": "Gladiator",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "GoblinTales",
@@ -945,9 +950,9 @@
       "ID": "Iconoclasm",
       "SetID": "82505mn",
       "Name": "Iconoclasm",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 67
     },
     {
       "ID": "Inquisitor",
@@ -1033,9 +1038,9 @@
       "ID": "Reincarnation",
       "SetID": "82505mn",
       "Name": "Reincarnation",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 71
+      "UsersEstimate": 67
     },
     {
       "ID": "Roughneck",
@@ -1099,7 +1104,7 @@
       "Name": "The Fallen",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "TheTrio",
@@ -1154,7 +1159,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 445,
+      "Progressed": 446,
       "Completed": 0
     }
   ],
@@ -1162,8 +1167,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-10-19T10:09:41.1791365+00:00",
+  "LastChanged_Achievements": "2023-10-19T11:08:48.6853629+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:36.2898004+00:00",
-  "LastUpdate_Ratings": "2023-10-19T10:00:10.0783826+00:00",
-  "LastUpdate_Achievements": "2023-10-19T10:09:41.1791896+00:00"
+  "LastUpdate_Ratings": "2023-10-19T10:59:34.5909891+00:00",
+  "LastUpdate_Achievements": "2023-10-19T11:08:48.6854018+00:00"
 }

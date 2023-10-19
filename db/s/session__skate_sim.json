@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 308,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2019-09-17T12:00:00+00:00",
@@ -1069,9 +1069,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 3021,
+  "EOS_Progressed": 3022,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5389,6 +5389,11 @@
       "Time": "2023-10-19T08:05:43.6262164+00:00",
       "NumProgressed": 3021,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-19T11:04:21.3154502+00:00",
+      "NumProgressed": 3022,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 48,
@@ -5416,7 +5421,7 @@
       "Name": "Bottom ply killer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "ACH_COMMENCE-THE-HIJINX",
@@ -5464,7 +5469,7 @@
       "Name": "Fashionista",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "ACH_FINALLY-HE-SHUTS-UP",
@@ -5472,7 +5477,7 @@
       "Name": "Finally he zips it",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "ACH_FULFILLED-THE-DREAM",
@@ -5680,7 +5685,7 @@
       "Name": "That pinch!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "ACH_THAT-WAS-WHEELIE-FUN",
@@ -5728,7 +5733,7 @@
       "Name": "Tight lipslides",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "ACH_TRICK-SHOT-MARKSMAN",
@@ -5783,15 +5788,15 @@
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 3021,
+      "Progressed": 3022,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-10-18T19:59:48.5041655+00:00",
-  "LastChanged_Achievements": "2023-10-19T10:04:57.1859839+00:00",
+  "LastChanged_Achievements": "2023-10-19T11:04:21.3154496+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:15.9585572+00:00",
-  "LastUpdate_Ratings": "2023-10-19T10:00:10.2356094+00:00",
-  "LastUpdate_Achievements": "2023-10-19T10:04:57.1860617+00:00"
+  "LastUpdate_Ratings": "2023-10-19T10:59:34.7248133+00:00",
+  "LastUpdate_Achievements": "2023-10-19T11:04:21.315519+00:00"
 }

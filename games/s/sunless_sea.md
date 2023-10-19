@@ -23,7 +23,7 @@ Number of Ratings: 401  (23.09.2022)
 | Salvager | 7.00% | ~2,734 |
 | Open Your Ears | 7.00% | ~2,734 |
 | The Ascent of Man | 7.00% | ~2,734 |
-| Zee Fever | 5.00% | ~1,952 |
+| Zee Fever | 5.00% | ~1,953 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,562 |
 | Sink Beneath the Waves. Again. | 4.00% | ~1,562 |
 | Storm's Curse | 3.00% | ~1,172 |
@@ -31,16 +31,16 @@ Number of Ratings: 401  (23.09.2022)
 | Come Closer | 3.00% | ~1,172 |
 | Roaring Rise | 2.00% | ~781 |
 | I am the Captain of my Soul | 2.00% | ~781 |
-| A buoyant escape | 1.00% | ~390 |
-| Frightful, sheer, no-man-fathomed | 1.00% | ~390 |
-| The Bell Tolls | 1.00% | ~390 |
-| His bones in whispers | 1.00% | ~390 |
-| The dragon in the zee | 1.00% | ~390 |
-| Thanks for all the fish | 1.00% | ~390 |
-| Knife, Cup and Bone | 1.00% | ~390 |
-| Those are pearls that were his eyes | 1.00% | ~390 |
-| Rosewater sailor | 1.00% | ~390 |
-| A current under zee | 1.00% | ~390 |
+| A buoyant escape | 1.00% | ~391 |
+| Frightful, sheer, no-man-fathomed | 1.00% | ~391 |
+| The Bell Tolls | 1.00% | ~391 |
+| His bones in whispers | 1.00% | ~391 |
+| The dragon in the zee | 1.00% | ~391 |
+| Thanks for all the fish | 1.00% | ~391 |
+| Knife, Cup and Bone | 1.00% | ~391 |
+| Those are pearls that were his eyes | 1.00% | ~391 |
+| Rosewater sailor | 1.00% | ~391 |
+| A current under zee | 1.00% | ~391 |
 | Never Stop Sinking... | 0.90% | ~351 |
 | The beauty of the deep | 0.90% | ~351 |
 | Leviathan | 0.90% | ~351 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~39 |
 | Ten Years at Zee | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39,050 (Ranked 112)  
+Progressed: 39,051 (Ranked 112)  
 Completed: 4 (0.01%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 4 (0.01%) (Ranked 298)
 | 2023-10-16 | 38,959 | 4 |
 | 2023-10-17 | 39,010 | 4 |
 | 2023-10-18 | 39,040 | 4 |
-| 2023-10-19 | 39,050 | 4 |
+| 2023-10-19 | 39,051 | 4 |
 ## Awards
 Max (Character Customization): 215  (Ranked 275)  
 Sum: 288 (Ranked 356)  

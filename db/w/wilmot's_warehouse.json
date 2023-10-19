@@ -3,12 +3,12 @@
   "Name": "Wilmot\u0027s Warehouse",
   "ProductSlug": "wilmots-warehouse",
   "Ranking_Rating": 283,
-  "Ranking_Popularity": 538,
-  "Ranking_PopularitySum": 538,
+  "Ranking_Popularity": 537,
+  "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 681,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2020-08-06T15:00:00+00:00",
     "PcReleaseDate": "2020-08-06T15:00:00+00:00",
@@ -310,6 +310,6 @@
   "FirstSeen": "2022-07-22T20:30:20.1616591+00:00",
   "LastChanged": "2023-05-20T01:54:54.2746993+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:17.2493349+00:00",
-  "LastUpdate_Ratings": "2023-10-19T09:57:40.34369+00:00",
-  "LastUpdate_Achievements": "2023-10-19T10:06:11.2653074+00:00"
+  "LastUpdate_Ratings": "2023-10-19T10:57:30.631075+00:00",
+  "LastUpdate_Achievements": "2023-10-19T11:05:23.7029165+00:00"
 }

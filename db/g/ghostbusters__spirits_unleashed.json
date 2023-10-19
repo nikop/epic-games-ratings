@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 219,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2499,9 +2499,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26617,
+  "EOS_Progressed": 26619,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 253,
+  "EOS_NewPlayers": 252,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -15399,6 +15399,11 @@
       "Time": "2023-10-19T08:05:13.9993174+00:00",
       "NumProgressed": 26617,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-10-19T11:03:59.7374946+00:00",
+      "NumProgressed": 26619,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 51,
@@ -15640,9 +15645,9 @@
       "ID": "Rift_Destroyer",
       "SetID": "819popo",
       "Name": "Rift Destroyer",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 160
     },
     {
       "ID": "Rift_Seeker",
@@ -15720,9 +15725,9 @@
       "ID": "Summoner",
       "SetID": "819popo",
       "Name": "Summoner",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 240
+      "UsersEstimate": 266
     },
     {
       "ID": "Surprise",
@@ -15817,7 +15822,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26617,
+      "Progressed": 26619,
       "Completed": 59
     }
   ],
@@ -15825,8 +15830,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-19T08:01:22.8100655+00:00",
-  "LastChanged_Achievements": "2023-10-19T10:04:31.9547267+00:00",
+  "LastChanged_Achievements": "2023-10-19T11:03:59.7374941+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:17.9420656+00:00",
-  "LastUpdate_Ratings": "2023-10-19T10:00:39.9186191+00:00",
-  "LastUpdate_Achievements": "2023-10-19T10:04:31.9548942+00:00"
+  "LastUpdate_Ratings": "2023-10-19T10:59:58.9122064+00:00",
+  "LastUpdate_Achievements": "2023-10-19T11:03:59.7376226+00:00"
 }
