@@ -6081,9 +6081,9 @@
       "Count": 434
     }
   ],
-  "EOS_Progressed": 184721,
+  "EOS_Progressed": 184727,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1866,
+  "EOS_NewPlayers": 1867,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26596,6 +26596,11 @@
       "Time": "2023-10-19T03:05:30.3436552+00:00",
       "NumProgressed": 184721,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-19T04:05:15.1961638+00:00",
+      "NumProgressed": 184727,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 16,
@@ -26607,7 +26612,7 @@
       "Name": "Throw The Book At Them",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 3694
+      "UsersEstimate": 3695
     },
     {
       "ID": "Achievement_1",
@@ -26639,7 +26644,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 29555
+      "UsersEstimate": 29556
     },
     {
       "ID": "Achievement_13",
@@ -26687,7 +26692,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 46180
+      "UsersEstimate": 46182
     },
     {
       "ID": "Achievement_5",
@@ -26695,7 +26700,7 @@
       "Name": "Iron Bars",
       "Percentage": 2,
       "XP": 80,
-      "UsersEstimate": 3694
+      "UsersEstimate": 3695
     },
     {
       "ID": "Achievement_6",
@@ -26734,15 +26739,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 184721,
+      "Progressed": 184727,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2023-10-18T18:58:20.2165225+00:00",
-  "LastChanged_Achievements": "2023-10-19T03:05:30.3436545+00:00",
+  "LastChanged_Achievements": "2023-10-19T04:05:15.1961634+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:01.2468535+00:00",
-  "LastUpdate_Ratings": "2023-10-19T02:57:50.7338673+00:00",
-  "LastUpdate_Achievements": "2023-10-19T03:05:30.343803+00:00"
+  "LastUpdate_Ratings": "2023-10-19T03:57:49.5993021+00:00",
+  "LastUpdate_Achievements": "2023-10-19T04:05:15.1962989+00:00"
 }

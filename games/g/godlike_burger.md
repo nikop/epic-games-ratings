@@ -5,36 +5,36 @@ Rating: 4.47 (Ranked 622)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~147,525 |
-| FIRST BLOOD | 40.00% | ~131,134 |
-| KEVIN! | 30.00% | ~98,350 |
-| JACK OF ALL TRADES | 23.00% | ~75,402 |
-| CRIMINAL | 20.00% | ~65,567 |
-| GRANDMA WOULD BE PROUD | 11.00% | ~36,062 |
-| WITHOUT BREAKING A SWEAT | 9.00% | ~29,505 |
-| HONORS STUDENT | 8.00% | ~26,227 |
-| BUTCHER | 5.00% | ~16,392 |
-| RAMBO | 5.00% | ~16,392 |
-| HELL'S KITCHEN | 4.00% | ~13,113 |
-| INDIVIDUAL APPROACH | 4.00% | ~13,113 |
-| CELEBRITY | 3.00% | ~9,835 |
-| MARTYR | 3.00% | ~9,835 |
-| GRATITUDE | 2.00% | ~6,557 |
-| PATTY-KILLER | 1.00% | ~3,278 |
-| PRUDENT | 1.00% | ~3,278 |
+| MASTER CHEF | 45.00% | ~147,557 |
+| FIRST BLOOD | 40.00% | ~131,162 |
+| KEVIN! | 30.00% | ~98,371 |
+| JACK OF ALL TRADES | 23.00% | ~75,418 |
+| CRIMINAL | 20.00% | ~65,581 |
+| GRANDMA WOULD BE PROUD | 11.00% | ~36,069 |
+| WITHOUT BREAKING A SWEAT | 9.00% | ~29,511 |
+| HONORS STUDENT | 8.00% | ~26,232 |
+| BUTCHER | 5.00% | ~16,395 |
+| RAMBO | 5.00% | ~16,395 |
+| HELL'S KITCHEN | 4.00% | ~13,116 |
+| INDIVIDUAL APPROACH | 4.00% | ~13,116 |
+| CELEBRITY | 3.00% | ~9,837 |
+| MARTYR | 3.00% | ~9,837 |
+| GRATITUDE | 2.00% | ~6,558 |
+| PATTY-KILLER | 1.00% | ~3,279 |
+| PRUDENT | 1.00% | ~3,279 |
 | GOURMET | 0.90% | ~2,951 |
 | LAW-ABIDING CITIZEN | 0.80% | ~2,623 |
 | EXPERIMENTALIST | 0.70% | ~2,295 |
-| SCATTERBRAIN | 0.50% | ~1,639 |
-| HIGH TECHNOLOGIES | 0.40% | ~1,311 |
-| TASTE UNTASTY | 0.40% | ~1,311 |
+| SCATTERBRAIN | 0.50% | ~1,640 |
+| HIGH TECHNOLOGIES | 0.40% | ~1,312 |
+| TASTE UNTASTY | 0.40% | ~1,312 |
 | CORRUPTIONIST | 0.10% | ~328 |
 | DEBTOR | 0.10% | ~328 |
 | I'VE SEEN SOME… | 0.10% | ~328 |
 | MISTER ALL THUMBS | 0.10% | ~328 |
 | TRAVELER | 0.10% | ~328 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 327,834 (Ranked 45)  
+Progressed: 327,904 (Ranked 45)  
 Completed: 14 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 14 (0.00%) (Ranked 316)
 | 2023-10-16 | 322,358 | 12 |
 | 2023-10-17 | 325,069 | 14 |
 | 2023-10-18 | 327,541 | 14 |
-| 2023-10-19 | 327,834 | 14 |
+| 2023-10-19 | 327,904 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

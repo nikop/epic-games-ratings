@@ -6,35 +6,35 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 38.00% | ~242,173 |
-| Into the Unknown | 35.00% | ~223,054 |
-| First Shot | 35.00% | ~223,054 |
-| Herzlich Wilkommen! | 33.00% | ~210,308 |
-| Good Night & Good Luck | 32.00% | ~203,935 |
-| Sancho Panza | 31.00% | ~197,562 |
-| Oh, So This Is How It Works! | 29.00% | ~184,816 |
-| Flag Burning | 26.00% | ~165,697 |
-| Under Pressure | 24.00% | ~152,951 |
-| On the Trail of the Enemy | 24.00% | ~152,951 |
-| Light in the Darkness | 24.00% | ~152,951 |
-| It Wasn't That Hard, Was It? | 24.00% | ~152,951 |
-| Can't Touch This! | 24.00% | ~152,951 |
-| Get Outta My House! | 23.00% | ~146,578 |
-| Night Hunter | 22.00% | ~140,205 |
-| Being All Social | 21.00% | ~133,832 |
-| After the Fall | 19.00% | ~121,086 |
-| We Will Be Heard! | 18.00% | ~114,713 |
-| Tunnel Entrance | 17.00% | ~108,340 |
-| Known Associate | 16.00% | ~101,968 |
-| Brush with Death | 16.00% | ~101,968 |
-| Debris and Ashes | 15.00% | ~95,595 |
-| Going Down | 15.00% | ~95,595 |
-| Family First | 15.00% | ~95,595 |
-| Your World, Your Rules | 14.00% | ~89,222 |
-| Death From Afar | 14.00% | ~89,222 |
-| Terminal Headache | 14.00% | ~89,222 |
-| Slowpoke! | 12.00% | ~76,476 |
-| Tickets, Please! | 7.00% | ~44,611 |
+| You Never Forget Your First... | 38.00% | ~242,177 |
+| Into the Unknown | 35.00% | ~223,058 |
+| First Shot | 35.00% | ~223,058 |
+| Herzlich Wilkommen! | 33.00% | ~210,312 |
+| Good Night & Good Luck | 32.00% | ~203,939 |
+| Sancho Panza | 31.00% | ~197,565 |
+| Oh, So This Is How It Works! | 29.00% | ~184,819 |
+| Flag Burning | 26.00% | ~165,700 |
+| Under Pressure | 24.00% | ~152,954 |
+| On the Trail of the Enemy | 24.00% | ~152,954 |
+| Light in the Darkness | 24.00% | ~152,954 |
+| It Wasn't That Hard, Was It? | 24.00% | ~152,954 |
+| Can't Touch This! | 24.00% | ~152,954 |
+| Get Outta My House! | 23.00% | ~146,581 |
+| Night Hunter | 22.00% | ~140,208 |
+| Being All Social | 21.00% | ~133,835 |
+| After the Fall | 19.00% | ~121,089 |
+| We Will Be Heard! | 18.00% | ~114,715 |
+| Tunnel Entrance | 17.00% | ~108,342 |
+| Known Associate | 16.00% | ~101,969 |
+| Brush with Death | 16.00% | ~101,969 |
+| Debris and Ashes | 15.00% | ~95,596 |
+| Going Down | 15.00% | ~95,596 |
+| Family First | 15.00% | ~95,596 |
+| Your World, Your Rules | 14.00% | ~89,223 |
+| Death From Afar | 14.00% | ~89,223 |
+| Terminal Headache | 14.00% | ~89,223 |
+| Slowpoke! | 12.00% | ~76,477 |
+| Tickets, Please! | 7.00% | ~44,612 |
 | Parkour Master | 6.00% | ~38,238 |
 | Combat Master | 6.00% | ~38,238 |
 | Municipal Services | 5.00% | ~31,865 |
@@ -53,8 +53,8 @@ Number of Ratings: 7,305  (23.09.2022)
 | Who Wants To Be a... | 2.00% | ~12,746 |
 | Lightning Reflexes | 2.00% | ~12,746 |
 | Fit as a Fiddle | 2.00% | ~12,746 |
-| Nemesis | 1.00% | ~2,827 |
-| Enter the Hall | 1.00% | ~2,827 |
+| Nemesis | 1.00% | ~2,828 |
+| Enter the Hall | 1.00% | ~2,828 |
 | A Friend in Need... | 0.90% | ~5,736 |
 | Night of Terrors | 0.90% | ~2,545 |
 | Man On a Mission | 0.80% | ~5,098 |
@@ -63,7 +63,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | Skullcrusher | 0.80% | ~2,262 |
 | Ultramarathon | 0.30% | ~1,912 |
 | Don't Look Up | 0.20% | ~1,275 |
-| The Madman of Villedor | 0.20% | ~565 |
+| The Madman of Villedor | 0.20% | ~566 |
 | True Nightrunner | 0.10% | ~637 |
 | Bing Bang Boom! | 0.10% | ~637 |
 | Archivist | 0.10% | ~637 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~283 |
 | Connoisseur | 0.10% | ~283 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 637,297 (Ranked 28)  
+Progressed: 637,308 (Ranked 28)  
 Completed: 65 (0.01%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 65 (0.01%) (Ranked 298)
 | 2023-10-16 | 636,585 | 65 |
 | 2023-10-17 | 636,909 | 65 |
 | 2023-10-18 | 637,258 | 65 |
-| 2023-10-19 | 637,297 | 65 |
+| 2023-10-19 | 637,308 | 65 |
 ## Awards
 Max (Character Customization): 9,551  (Ranked 40)  
 Sum: 23,586 (Ranked 54)  

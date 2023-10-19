@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 358,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -758,9 +758,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4245,
+  "EOS_Progressed": 4247,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 209,
+  "EOS_NewPlayers": 211,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -7683,6 +7683,11 @@
       "Time": "2023-10-19T03:09:09.2065501+00:00",
       "NumProgressed": 4245,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-19T04:09:21.2330935+00:00",
+      "NumProgressed": 4247,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -7695,7 +7700,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -7735,7 +7740,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -7783,7 +7788,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -7791,7 +7796,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -7807,7 +7812,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 891
+      "UsersEstimate": 892
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -7855,7 +7860,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -7863,7 +7868,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -7878,15 +7883,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4245,
+      "Progressed": 4247,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-14T13:04:06.5278861+00:00",
-  "LastChanged_Achievements": "2023-10-19T03:09:09.2065494+00:00",
+  "LastChanged_Achievements": "2023-10-19T04:09:21.2330931+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:04.1779972+00:00",
-  "LastUpdate_Ratings": "2023-10-19T02:58:36.7888757+00:00",
-  "LastUpdate_Achievements": "2023-10-19T03:09:09.2066178+00:00"
+  "LastUpdate_Ratings": "2023-10-19T03:58:33.7772279+00:00",
+  "LastUpdate_Achievements": "2023-10-19T04:09:21.2331522+00:00"
 }
