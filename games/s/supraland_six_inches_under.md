@@ -6,61 +6,61 @@ Number of Ratings: 209  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good Morning | 99.00% | ~2,253 |
-| Hit Rock Bottom | 97.00% | ~2,208 |
-| Rocket Launched | 97.00% | ~2,208 |
-| Speed | 97.00% | ~2,208 |
-| High Jump | 96.00% | ~2,185 |
-| Knee bending | 96.00% | ~2,185 |
-| Pickaxe | 94.00% | ~2,139 |
-| Cage Town | 94.00% | ~2,139 |
-| Force Beam | 93.00% | ~2,117 |
-| Entered Cage Town | 93.00% | ~2,117 |
-| Stone Pickaxe | 93.00% | ~2,117 |
-| Revenge | 93.00% | ~2,117 |
-| Surprise | 93.00% | ~2,117 |
-| Magnet | 91.00% | ~2,071 |
-| Industrial Area | 90.00% | ~2,048 |
-| Magnet Repel | 88.00% | ~2,003 |
-| You feel middle classy | 87.00% | ~1,980 |
-| Boomeraxe | 87.00% | ~1,980 |
-| Iron Pickaxe | 87.00% | ~1,980 |
-| Banking District | 86.00% | ~1,957 |
-| Arrested | 86.00% | ~1,957 |
-| Zappy Gun | 86.00% | ~1,957 |
-| Got your own one now | 86.00% | ~1,957 |
-| Mission Unlikely | 86.00% | ~1,957 |
+| Good Morning | 99.00% | ~2,254 |
+| Hit Rock Bottom | 97.00% | ~2,209 |
+| Rocket Launched | 97.00% | ~2,209 |
+| Speed | 97.00% | ~2,209 |
+| High Jump | 96.00% | ~2,186 |
+| Knee bending | 96.00% | ~2,186 |
+| Pickaxe | 94.00% | ~2,140 |
+| Cage Town | 94.00% | ~2,140 |
+| Force Beam | 93.00% | ~2,118 |
+| Entered Cage Town | 93.00% | ~2,118 |
+| Stone Pickaxe | 93.00% | ~2,118 |
+| Revenge | 93.00% | ~2,118 |
+| Surprise | 93.00% | ~2,118 |
+| Magnet | 91.00% | ~2,072 |
+| Industrial Area | 90.00% | ~2,049 |
+| Magnet Repel | 88.00% | ~2,004 |
+| You feel middle classy | 87.00% | ~1,981 |
+| Boomeraxe | 87.00% | ~1,981 |
+| Iron Pickaxe | 87.00% | ~1,981 |
+| Banking District | 86.00% | ~1,958 |
+| Arrested | 86.00% | ~1,958 |
+| Zappy Gun | 86.00% | ~1,958 |
+| Got your own one now | 86.00% | ~1,958 |
+| Mission Unlikely | 86.00% | ~1,958 |
 | Don't draw dicks pls | 85.00% | ~1,935 |
 | Ripped | 85.00% | ~1,935 |
-| Beat the big arena | 83.00% | ~1,889 |
-| Force Cube | 82.00% | ~1,866 |
+| Beat the big arena | 83.00% | ~1,890 |
+| Force Cube | 82.00% | ~1,867 |
 | Got Battery | 81.00% | ~1,844 |
 | Guard Distracted | 81.00% | ~1,844 |
-| Translocator | 80.00% | ~1,821 |
-| Inner Peace | 78.00% | ~1,775 |
+| Translocator | 80.00% | ~1,822 |
+| Inner Peace | 78.00% | ~1,776 |
 | Diamond Pickaxe | 77.00% | ~1,753 |
 | Killed them all | 77.00% | ~1,753 |
 | Trickle Down Economy | 77.00% | ~1,753 |
-| Win | 76.00% | ~1,730 |
+| Win | 76.00% | ~1,731 |
 | Greenhouse | 72.00% | ~1,639 |
-| Played with fire | 71.00% | ~1,616 |
-| You feel very sorry | 70.00% | ~1,593 |
-| No Match for you | 66.00% | ~1,502 |
-| Bouncy | 62.00% | ~1,411 |
-| Plumbster | 61.00% | ~1,388 |
+| Played with fire | 71.00% | ~1,617 |
+| You feel very sorry | 70.00% | ~1,594 |
+| No Match for you | 66.00% | ~1,503 |
+| Bouncy | 62.00% | ~1,412 |
+| Plumbster | 61.00% | ~1,389 |
 | Faster | 60.00% | ~1,366 |
-| Much Magic | 58.00% | ~1,320 |
+| Much Magic | 58.00% | ~1,321 |
 | Chest Detector | 56.00% | ~1,275 |
-| Flames | 53.00% | ~1,206 |
+| Flames | 53.00% | ~1,207 |
 | Momentum | 46.00% | ~1,047 |
 | You're unsure if you broke the game or not | 43.00% | ~979 |
-| But wait... ...There's more... | 40.00% | ~910 |
+| But wait... ...There's more... | 40.00% | ~911 |
 | So much force | 35.00% | ~797 |
 | You feel fully engaged | 24.00% | ~546 |
 | Too hot | 20.00% | ~455 |
 | All the chests | 14.00% | ~319 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,276 (Ranked 201)  
+Progressed: 2,277 (Ranked 201)  
 Completed: 280 (12.30%) (Ranked 27)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,11 +219,11 @@ Completed: 280 (12.30%) (Ranked 27)
 | 2023-10-16 | 2,272 | 279 |
 | 2023-10-17 | 2,273 | 279 |
 | 2023-10-18 | 2,275 | 280 |
-| 2023-10-19 | 2,276 | 280 |
+| 2023-10-19 | 2,277 | 280 |
 ## Awards
-Max (Challenging Puzzles): 103  (Ranked 342)  
+Max (Challenging Puzzles): 103  (Ranked 343)  
 Sum: 103 (Ranked 432)  
-Diff (max vs sum): -90  
+Diff (max vs sum): -89  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 103 |

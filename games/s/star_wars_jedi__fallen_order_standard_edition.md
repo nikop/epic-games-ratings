@@ -5,11 +5,11 @@ Rating: 4.65 (Ranked 304)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Mantis | 100.00% | ~12,439 |
-| A Long Time Ago | 93.00% | ~11,568 |
+| The Mantis | 100.00% | ~12,440 |
+| A Long Time Ago | 93.00% | ~11,569 |
 | Sabersmith | 81.00% | ~10,076 |
-| The Obstacle is the Way | 80.00% | ~9,951 |
-| Back At You | 74.00% | ~9,205 |
+| The Obstacle is the Way | 80.00% | ~9,952 |
+| Back At You | 74.00% | ~9,206 |
 | Happy Go Wookiee | 71.00% | ~8,832 |
 | Everything is Connected | 61.00% | ~7,588 |
 | Her Name Was Masana Tide | 56.00% | ~6,966 |
@@ -17,20 +17,20 @@ Rating: 4.65 (Ranked 304)
 | Perfect Timing | 53.00% | ~6,593 |
 | Gorgara Falls | 51.00% | ~6,344 |
 | The Full Glow-Up | 51.00% | ~6,344 |
-| For A More Civilized Age | 49.00% | ~6,095 |
-| I Knew He Was No Good | 47.00% | ~5,846 |
+| For A More Civilized Age | 49.00% | ~6,096 |
+| I Knew He Was No Good | 47.00% | ~5,847 |
 | The Holocron Awaits | 46.00% | ~5,722 |
 | Look Out Below | 45.00% | ~5,598 |
-| Scum and Villainy | 44.00% | ~5,473 |
-| Trust Only In The Force | 44.00% | ~5,473 |
-| Don't Mess with BD-1 | 42.00% | ~5,224 |
-| Blade Master | 39.00% | ~4,851 |
+| Scum and Villainy | 44.00% | ~5,474 |
+| Trust Only In The Force | 44.00% | ~5,474 |
+| Don't Mess with BD-1 | 42.00% | ~5,225 |
+| Blade Master | 39.00% | ~4,852 |
 | Full House | 36.00% | ~4,478 |
-| Legendary Beasts | 22.00% | ~2,737 |
+| Legendary Beasts | 23.00% | ~2,861 |
 | Echo Location | 20.00% | ~2,488 |
-| Visiting Alderaan Places | 19.00% | ~2,363 |
-| Triple Take | 14.00% | ~1,741 |
-| Cal Got Your Tongue? | 14.00% | ~1,741 |
+| Visiting Alderaan Places | 19.00% | ~2,364 |
+| Triple Take | 14.00% | ~1,742 |
+| Cal Got Your Tongue? | 14.00% | ~1,742 |
 | Big Bang | 12.00% | ~1,493 |
 | Can't Touch This | 10.00% | ~1,244 |
 | Feel the Force | 10.00% | ~1,244 |
@@ -45,7 +45,7 @@ Rating: 4.65 (Ranked 304)
 | What Goes Around... | 3.00% | ~373 |
 | Not So Fast | 1.00% | ~124 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,439 (Ranked 143)  
+Progressed: 12,440 (Ranked 143)  
 Completed: 134 (1.08%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 134 (1.08%) (Ranked 140)
 | 2023-10-16 | 12,100 | 130 |
 | 2023-10-17 | 12,237 | 131 |
 | 2023-10-18 | 12,370 | 132 |
-| 2023-10-19 | 12,439 | 134 |
+| 2023-10-19 | 12,440 | 134 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

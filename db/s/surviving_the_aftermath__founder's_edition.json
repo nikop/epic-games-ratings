@@ -3,7 +3,7 @@
   "Name": "Surviving the Aftermath",
   "ProductSlug": "surviving-the-aftermath",
   "Ranking_Rating": 609,
-  "Ranking_Popularity": 342,
+  "Ranking_Popularity": 343,
   "Ranking_PopularitySum": 284,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 316,
@@ -1308,7 +1308,7 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 9695,
+  "EOS_Progressed": 9696,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
@@ -15088,6 +15088,11 @@
       "Time": "2023-10-19T13:09:45.0249663+00:00",
       "NumProgressed": 9695,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-19T14:03:39.253115+00:00",
+      "NumProgressed": 9696,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -15099,7 +15104,7 @@
       "Name": "Leader",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 5914
+      "UsersEstimate": 5915
     },
     {
       "ID": "10",
@@ -15131,7 +15136,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 5138
+      "UsersEstimate": 5139
     },
     {
       "ID": "14",
@@ -15139,7 +15144,7 @@
       "Name": "Famous Explorer",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 3296
+      "UsersEstimate": 3297
     },
     {
       "ID": "15",
@@ -15179,7 +15184,7 @@
       "Name": "Healer",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 5041
+      "UsersEstimate": 5042
     },
     {
       "ID": "2",
@@ -15187,7 +15192,7 @@
       "Name": "Local Leader",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 3393
+      "UsersEstimate": 3394
     },
     {
       "ID": "20",
@@ -15203,7 +15208,7 @@
       "Name": "The Great Healer",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 3005
+      "UsersEstimate": 3006
     },
     {
       "ID": "22",
@@ -15211,7 +15216,7 @@
       "Name": "First Step",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 7077
+      "UsersEstimate": 7078
     },
     {
       "ID": "23",
@@ -15219,7 +15224,7 @@
       "Name": "New Opportunities",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 3296
+      "UsersEstimate": 3297
     },
     {
       "ID": "24",
@@ -15251,7 +15256,7 @@
       "Name": "Energized",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 3199
+      "UsersEstimate": 3200
     },
     {
       "ID": "28",
@@ -15427,7 +15432,7 @@
       "Name": "The Long Haul",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 3199
+      "UsersEstimate": 3200
     },
     {
       "ID": "48",
@@ -15547,7 +15552,7 @@
       "Name": "Survivor",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 3102
+      "UsersEstimate": 3103
     },
     {
       "ID": "8",
@@ -15570,15 +15575,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 9695,
+      "Progressed": 9696,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-10-13T05:57:40.9154054+00:00",
-  "LastChanged_Achievements": "2023-10-19T13:09:45.0249657+00:00",
+  "LastChanged_Achievements": "2023-10-19T14:03:39.2531142+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:53.3436738+00:00",
-  "LastUpdate_Ratings": "2023-10-19T13:07:26.1726649+00:00",
-  "LastUpdate_Achievements": "2023-10-19T13:09:45.0251042+00:00"
+  "LastUpdate_Ratings": "2023-10-19T14:00:54.8287926+00:00",
+  "LastUpdate_Achievements": "2023-10-19T14:03:39.2535511+00:00"
 }

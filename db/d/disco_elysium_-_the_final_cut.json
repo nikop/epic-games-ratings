@@ -1382,7 +1382,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 129863,
+  "EOS_Progressed": 129864,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 261,
   "EOS_NewCompleters": 0,
@@ -19507,6 +19507,11 @@
       "Time": "2023-10-19T13:10:25.588639+00:00",
       "NumProgressed": 129863,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-10-19T14:04:15.3877516+00:00",
+      "NumProgressed": 129864,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -19550,7 +19555,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 23375
+      "UsersEstimate": 23376
     },
     {
       "ID": "ACH_COP_BAD",
@@ -19837,15 +19842,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 129863,
+      "Progressed": 129864,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-10-19T07:03:40.0954331+00:00",
-  "LastChanged_Achievements": "2023-10-19T13:10:25.5886383+00:00",
+  "LastChanged_Achievements": "2023-10-19T14:04:15.3877509+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:18.5281336+00:00",
-  "LastUpdate_Ratings": "2023-10-19T13:09:21.1932981+00:00",
-  "LastUpdate_Achievements": "2023-10-19T13:10:25.5887796+00:00"
+  "LastUpdate_Ratings": "2023-10-19T14:03:17.966372+00:00",
+  "LastUpdate_Achievements": "2023-10-19T14:04:15.3878823+00:00"
 }

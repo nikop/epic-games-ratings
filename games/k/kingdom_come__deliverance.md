@@ -6,12 +6,12 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~257,695 |
-| Cavalier | 25.00% | ~201,324 |
-| Fatso | 23.00% | ~185,218 |
-| Awakening | 21.00% | ~169,112 |
-| Ranger | 20.00% | ~161,059 |
-| Scrooge | 20.00% | ~161,059 |
+| Blacksmith's Son | 32.00% | ~257,697 |
+| Cavalier | 25.00% | ~201,326 |
+| Fatso | 23.00% | ~185,219 |
+| Awakening | 21.00% | ~169,113 |
+| Ranger | 20.00% | ~161,060 |
+| Scrooge | 20.00% | ~161,060 |
 | Anorectic | 16.00% | ~128,848 |
 | Bookworm | 15.00% | ~120,795 |
 | Firestarter | 15.00% | ~120,795 |
@@ -58,8 +58,8 @@ Number of Ratings: 9,133  (23.09.2022)
 | Mercenary's Honour | 0.70% | ~5,637 |
 | Saviour | 0.70% | ~5,637 |
 | Edward Kelly | 0.60% | ~4,832 |
-| I Can Quit Anytime | 0.50% | ~4,026 |
-| Perfectionist | 0.50% | ~4,026 |
+| I Can Quit Anytime | 0.50% | ~4,027 |
+| Perfectionist | 0.50% | ~4,027 |
 | Alcoholic | 0.30% | ~2,416 |
 | Sniper | 0.30% | ~2,416 |
 | Angel of Mercy | 0.20% | ~1,611 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~805 |
 | Wingman | 0.10% | ~805 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 805,297 (Ranked 17)  
+Progressed: 805,302 (Ranked 17)  
 Completed: 51 (0.01%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,10 +271,10 @@ Completed: 51 (0.01%) (Ranked 298)
 | 2023-10-16 | 805,061 | 51 |
 | 2023-10-17 | 805,149 | 51 |
 | 2023-10-18 | 805,252 | 51 |
-| 2023-10-19 | 805,297 | 51 |
+| 2023-10-19 | 805,302 | 51 |
 ## Awards
 Max (Character Customization): 7,527  (Ranked 50)  
-Sum: 28,008 (Ranked 48)  
+Sum: 28,010 (Ranked 48)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -287,7 +287,7 @@ Diff (max vs sum): 2
 | This game is Extremely Fun | 1,676 |
 | This game has Realistic Visuals | 1,656 |
 | This game has Amazing Characters | 1,650 |
-| This game is Educational | 1,595 |
+| This game is Educational | 1,597 |
 | This game is Relaxing | 1,524 |
 | This game has Obsessive Gameplay | 1,048 |
 | This game has a Creative Community | 664 |
@@ -558,3 +558,4 @@ Diff (max vs sum): 2
 | 2023-10-16 | 4.71 | - | 7,522 | 27,994 |
 | 2023-10-17 | 4.71 | - | 7,525 | 27,998 |
 | 2023-10-18 | 4.71 | - | 7,527 | 28,008 |
+| 2023-10-19 | 4.71 | - | 7,527 | 28,010 |

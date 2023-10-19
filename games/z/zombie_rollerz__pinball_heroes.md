@@ -11,7 +11,7 @@ Rating: 4.30 (Ranked 816)
 | Villfir Forest | 76.00% | ~131 |
 | Right in the kisser! | 61.00% | ~106 |
 | The Thrower | 49.00% | ~85 |
-| Duscot Steamcity | 47.00% | ~81 |
+| Duscot Steamcity | 48.00% | ~83 |
 | The Shaman | 46.00% | ~80 |
 | The Penguin | 45.00% | ~78 |
 | The Magician | 41.00% | ~71 |

@@ -6,21 +6,21 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~956,709 |
-| I Need a Bigger Garage | 63.00% | ~669,696 |
-| Pump my Ride | 47.00% | ~499,615 |
-| Ghostbuster | 33.00% | ~350,793 |
-| Call Roadside Assistance | 18.00% | ~191,342 |
-| That Was Close | 18.00% | ~191,342 |
-| Quickie | 11.00% | ~116,931 |
-| California Dreamer | 7.00% | ~74,411 |
-| Can't Touch This | 5.00% | ~53,150 |
-| Carménère Taster | 4.00% | ~42,520 |
-| Comeback | 4.00% | ~42,520 |
-| Driver from Ipanema | 3.00% | ~31,890 |
-| Supersonic | 3.00% | ~31,890 |
-| Marathonist | 3.00% | ~31,890 |
-| Living Legend | 3.00% | ~31,890 |
+| The First of Many | 90.00% | ~956,722 |
+| I Need a Bigger Garage | 63.00% | ~669,706 |
+| Pump my Ride | 47.00% | ~499,622 |
+| Ghostbuster | 33.00% | ~350,798 |
+| Call Roadside Assistance | 18.00% | ~191,344 |
+| That Was Close | 18.00% | ~191,344 |
+| Quickie | 11.00% | ~116,933 |
+| California Dreamer | 7.00% | ~74,412 |
+| Can't Touch This | 5.00% | ~53,151 |
+| Carménère Taster | 4.00% | ~42,521 |
+| Comeback | 4.00% | ~42,521 |
+| Driver from Ipanema | 3.00% | ~31,891 |
+| Supersonic | 3.00% | ~31,891 |
+| Marathonist | 3.00% | ~31,891 |
+| Living Legend | 3.00% | ~31,891 |
 | God of Roads | 2.00% | ~21,260 |
 | Pathfinder | 2.00% | ~21,260 |
 | Go-Kart Champion | 2.00% | ~21,260 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~1,063 |
 | Look Mom, No Hands! | 0.10% | ~1,063 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,063,010 (Ranked 13)  
+Progressed: 1,063,025 (Ranked 13)  
 Completed: 457 (0.04%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,11 +226,11 @@ Completed: 457 (0.04%) (Ranked 279)
 | 2023-10-16 | 1,062,143 | 457 |
 | 2023-10-17 | 1,062,452 | 457 |
 | 2023-10-18 | 1,062,817 | 457 |
-| 2023-10-19 | 1,063,010 | 457 |
+| 2023-10-19 | 1,063,025 | 457 |
 ## Awards
-Max (Great for Beginners): 159  (Ranked 302)  
+Max (Great for Beginners): 159  (Ranked 303)  
 Sum: 1,329 (Ranked 232)  
-Diff (max vs sum): 70  
+Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 159 |

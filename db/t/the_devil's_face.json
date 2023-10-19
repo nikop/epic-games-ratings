@@ -2,9 +2,9 @@
   "ID": "b022b60ee02545788d645fe353f5ddd6",
   "Name": "The Devil\u0027s Face",
   "ProductSlug": "the-devils-face-356c31",
-  "Ranking_EOS_Progress": 297,
+  "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 383,
+  "EOS_Progressed": 384,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -1699,6 +1699,11 @@
       "Time": "2023-10-19T11:06:05.3286234+00:00",
       "NumProgressed": 383,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-19T14:07:22.8638143+00:00",
+      "NumProgressed": 384,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 14,
@@ -1734,7 +1739,7 @@
       "Name": "The choice",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
@@ -1758,7 +1763,7 @@
       "Name": "The path to enlightenment",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -1766,7 +1771,7 @@
       "Name": "Our efforts are finally yielding progress",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -1821,14 +1826,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 383,
+      "Progressed": 384,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-10-19T13:14:02.4833205+00:00",
+  "LastChanged_Achievements": "2023-10-19T14:07:22.8638136+00:00",
   "LastUpdate_AppInfo": "2023-10-14T11:57:11.021684+00:00",
-  "LastUpdate_Ratings": "2023-10-19T13:07:27.189985+00:00",
-  "LastUpdate_Achievements": "2023-10-19T13:14:02.4833461+00:00"
+  "LastUpdate_Ratings": "2023-10-19T14:00:55.6911511+00:00",
+  "LastUpdate_Achievements": "2023-10-19T14:07:22.8638397+00:00"
 }

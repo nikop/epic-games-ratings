@@ -1153,9 +1153,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 153144,
+  "EOS_Progressed": 153154,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1604,
+  "EOS_NewPlayers": 1595,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12208,6 +12208,11 @@
       "Time": "2023-10-19T13:12:48.5955591+00:00",
       "NumProgressed": 153144,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-19T14:06:19.8099011+00:00",
+      "NumProgressed": 153154,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -12291,7 +12296,7 @@
       "Name": "Weeper",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 1531
+      "UsersEstimate": 1532
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -12369,9 +12374,9 @@
       "ID": "DEFEAT_JAWSTAG",
       "SetID": "ccc0dlh",
       "Name": "Jawstag",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 766
+      "UsersEstimate": 919
     },
     {
       "ID": "DEFEAT_PERFORMER",
@@ -12491,7 +12496,7 @@
       "Name": "Ravenous",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1531
+      "UsersEstimate": 1532
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -12586,21 +12591,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 152727,
+      "Progressed": 152737,
       "Completed": 1164
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 153144,
+      "Progressed": 153154,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-19T03:57:30.2133222+00:00",
-  "LastChanged_Achievements": "2023-10-19T13:12:48.5955585+00:00",
+  "LastChanged_Achievements": "2023-10-19T14:06:19.8099004+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:33.8479674+00:00",
-  "LastUpdate_Ratings": "2023-10-19T13:04:06.9508736+00:00",
-  "LastUpdate_Achievements": "2023-10-19T13:12:48.5956619+00:00"
+  "LastUpdate_Ratings": "2023-10-19T13:58:00.4953526+00:00",
+  "LastUpdate_Achievements": "2023-10-19T14:06:19.810012+00:00"
 }

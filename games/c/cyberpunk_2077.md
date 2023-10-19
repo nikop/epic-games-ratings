@@ -56,6 +56,9 @@ Number of Ratings: 32,700  (23.09.2022)
 | All the President's Men | 0.10% | ~21 |
 | Judgement Day | 0.10% | ~21 |
 | Arachnophobia | 0.10% | ~21 |
+| King of Cups | 0.10% | ~21 |
+| King of Pentacles | 0.10% | ~21 |
+| King of Swords | 0.10% | ~21 |
 | King of Wands | 0.10% | ~21 |
 | The Tower | 0.10% | ~21 |
 | All the President's Men | 0.00% | ~0 |
@@ -68,11 +71,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Swords | 0.00% | ~0 |
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
-| King of Cups | 0.00% | ~0 |
-| King of Pentacles | 0.00% | ~0 |
-| King of Swords | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 892,650 (Ranked 15)  
+Progressed: 892,659 (Ranked 15)  
 Completed: 2,683 (0.30%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 2,683 (0.30%) (Ranked 206)
 | 2023-10-16 | 892,285 | 2,674 |
 | 2023-10-17 | 892,443 | 2,678 |
 | 2023-10-18 | 892,603 | 2,683 |
-| 2023-10-19 | 892,650 | 2,683 |
+| 2023-10-19 | 892,659 | 2,683 |
 ## Awards
 Max (Character Customization): 99,323  (Ranked 9)  
 Sum: 312,337 (Ranked 11)  

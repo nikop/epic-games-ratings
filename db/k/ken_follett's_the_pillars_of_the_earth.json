@@ -3,11 +3,11 @@
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
   "Ranking_Rating": 553,
-  "Ranking_Popularity": 306,
+  "Ranking_Popularity": 307,
   "Ranking_PopularitySum": 389,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -534,9 +534,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 15833,
+  "EOS_Progressed": 15834,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
@@ -12309,6 +12309,11 @@
       "Time": "2023-10-19T11:05:00.9524805+00:00",
       "NumProgressed": 15833,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-10-19T14:06:03.003488+00:00",
+      "NumProgressed": 15834,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 41,
@@ -12584,7 +12589,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6333
+      "UsersEstimate": 6334
     },
     {
       "ID": "tpote_achievement_40",
@@ -12647,15 +12652,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15833,
+      "Progressed": 15834,
       "Completed": 113
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-10-14T16:59:08.0001807+00:00",
-  "LastChanged_Achievements": "2023-10-19T13:12:28.7094977+00:00",
+  "LastChanged_Achievements": "2023-10-19T14:06:03.003487+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:18.9172053+00:00",
-  "LastUpdate_Ratings": "2023-10-19T13:08:27.3579977+00:00",
-  "LastUpdate_Achievements": "2023-10-19T13:12:28.7096263+00:00"
+  "LastUpdate_Ratings": "2023-10-19T14:01:50.4464484+00:00",
+  "LastUpdate_Achievements": "2023-10-19T14:06:03.0036562+00:00"
 }

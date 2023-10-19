@@ -7,8 +7,8 @@ Rating: 4.19 (Ranked 895)
 | ---- | ---------- | ----- |
 | Get a Grip | 8.00% | ~1,284 |
 | Paper Jams | 6.00% | ~963 |
-| Flesh Wound | 5.00% | ~802 |
-| Float Like A Butterfly | 5.00% | ~802 |
+| Flesh Wound | 5.00% | ~803 |
+| Float Like A Butterfly | 5.00% | ~803 |
 | Keep Fighting | 5.00% | ~199 |
 | You Need a Gun | 4.00% | ~642 |
 | I Do Belong Here | 4.00% | ~642 |
@@ -26,8 +26,8 @@ Rating: 4.19 (Ranked 895)
 | Full Circle | 4.00% | ~642 |
 | Power Up | 4.00% | ~642 |
 | It's Time | 4.00% | ~159 |
-| Giving Back | 3.00% | ~481 |
-| Terminated | 3.00% | ~481 |
+| Giving Back | 3.00% | ~482 |
+| Terminated | 3.00% | ~482 |
 | In Striking Distance | 2.00% | ~321 |
 | The Commonality | 2.00% | ~321 |
 | One Last Job | 2.00% | ~80 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 895)
 | Hoard Mode | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,049 (Ranked 133)  
+Progressed: 16,052 (Ranked 133)  
 Completed: 75 (0.47%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,11 +228,11 @@ Completed: 75 (0.47%) (Ranked 180)
 | 2023-10-16 | 16,015 | 75 |
 | 2023-10-17 | 16,022 | 75 |
 | 2023-10-18 | 16,031 | 75 |
-| 2023-10-19 | 16,049 | 75 |
+| 2023-10-19 | 16,052 | 75 |
 ## Awards
-Max (Highly Recommended): 76  (Ranked 379)  
+Max (Highly Recommended): 76  (Ranked 380)  
 Sum: 448 (Ranked 323)  
-Diff (max vs sum): 56  
+Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 76 |

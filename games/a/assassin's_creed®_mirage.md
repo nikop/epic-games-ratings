@@ -3,8 +3,8 @@
 [View Rawdata](../../db/a/assassin's_creed®_mirage.json)  
 Rating: 4.46 (Ranked 629)  
 ## Awards
-Max (Relaxing): 70  (Ranked 390)  
-Sum: 521 (Ranked 309)  
+Max (Relaxing): 70  (Ranked 391)  
+Sum: 521 (Ranked 310)  
 Diff (max vs sum): 81  
 | Award | Count |
 | ----- | ----- |

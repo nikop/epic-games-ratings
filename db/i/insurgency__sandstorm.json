@@ -3736,9 +3736,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 463820,
+  "EOS_Progressed": 463828,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2364,
+  "EOS_NewPlayers": 2363,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24356,6 +24356,11 @@
       "Time": "2023-10-19T13:11:43.0606037+00:00",
       "NumProgressed": 463820,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-19T14:05:22.3452099+00:00",
+      "NumProgressed": 463828,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -24367,7 +24372,7 @@
       "Name": "Banged",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 9276
+      "UsersEstimate": 9277
     },
     {
       "ID": "ACH_BLINDFIRE",
@@ -24439,7 +24444,7 @@
       "Name": "First Blood",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 9276
+      "UsersEstimate": 9277
     },
     {
       "ID": "ACH_FLACCID_PARALYSIS",
@@ -24447,7 +24452,7 @@
       "Name": "Flaccid Paralysis",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 9276
+      "UsersEstimate": 9277
     },
     {
       "ID": "ACH_GROUNDED",
@@ -24543,7 +24548,7 @@
       "Name": "Push Victory",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 9276
+      "UsersEstimate": 9277
     },
     {
       "ID": "ACH_REFLEXES",
@@ -24575,7 +24580,7 @@
       "Name": "Self-destructive",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 9276
+      "UsersEstimate": 9277
     },
     {
       "ID": "ACH_SEMPER_PARATUS",
@@ -24646,15 +24651,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 463820,
+      "Progressed": 463828,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-10-19T06:59:50.8323942+00:00",
-  "LastChanged_Achievements": "2023-10-19T13:11:43.0606031+00:00",
+  "LastChanged_Achievements": "2023-10-19T14:05:22.3452092+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:10.7771003+00:00",
-  "LastUpdate_Ratings": "2023-10-19T13:06:07.1677181+00:00",
-  "LastUpdate_Achievements": "2023-10-19T13:11:43.0607509+00:00"
+  "LastUpdate_Ratings": "2023-10-19T13:59:46.4774723+00:00",
+  "LastUpdate_Achievements": "2023-10-19T14:05:22.3453868+00:00"
 }

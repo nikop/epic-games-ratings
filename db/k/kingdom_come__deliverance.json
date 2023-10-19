@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 48,
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 76,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -7849,10 +7849,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 28008,
       "NumberOfAwardsMax": 7527
+    },
+    {
+      "Time": "2023-10-19T13:59:24.9477231+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 28010,
+      "NumberOfAwardsMax": 7527
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28008,
+  "NumberOfAwards": 28010,
   "NumberOfAwardsMax": 7527,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7896,7 +7902,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 1595
+      "Count": 1597
     },
     {
       "Text": "This game has Amazing Characters",
@@ -7935,9 +7941,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 805297,
+  "EOS_Progressed": 805302,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 777,
+  "EOS_NewPlayers": 778,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -28285,6 +28291,11 @@
       "Time": "2023-10-19T13:11:56.8265041+00:00",
       "NumProgressed": 805297,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-19T14:05:34.3482952+00:00",
+      "NumProgressed": 805302,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -28328,7 +28339,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 169112
+      "UsersEstimate": 169113
     },
     {
       "ID": "BadGirl",
@@ -28376,7 +28387,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 257695
+      "UsersEstimate": 257697
     },
     {
       "ID": "Bookworm",
@@ -28408,7 +28419,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 201324
+      "UsersEstimate": 201326
     },
     {
       "ID": "Chivalrous",
@@ -28496,7 +28507,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 185218
+      "UsersEstimate": 185219
     },
     {
       "ID": "Fighter",
@@ -28600,7 +28611,7 @@
       "Name": "I Can Quit Anytime",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4026
+      "UsersEstimate": 4027
     },
     {
       "ID": "InfernalJustice",
@@ -28744,7 +28755,7 @@
       "Name": "Perfectionist",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 4026
+      "UsersEstimate": 4027
     },
     {
       "ID": "Pilgrim",
@@ -28776,7 +28787,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 161059
+      "UsersEstimate": 161060
     },
     {
       "ID": "RevenantOfLedechko",
@@ -28816,7 +28827,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 161059
+      "UsersEstimate": 161060
     },
     {
       "ID": "SerialKiller",
@@ -28951,15 +28962,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 805297,
+      "Progressed": 805302,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-10-18T19:58:48.6166036+00:00",
-  "LastChanged_Achievements": "2023-10-19T13:11:56.8265035+00:00",
+  "LastChanged": "2023-10-19T13:59:24.9477229+00:00",
+  "LastChanged_Achievements": "2023-10-19T14:05:34.3482941+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:13.6850555+00:00",
-  "LastUpdate_Ratings": "2023-10-19T13:05:41.7949551+00:00",
-  "LastUpdate_Achievements": "2023-10-19T13:11:56.8267862+00:00"
+  "LastUpdate_Ratings": "2023-10-19T13:59:24.9477235+00:00",
+  "LastUpdate_Achievements": "2023-10-19T14:05:34.3485108+00:00"
 }

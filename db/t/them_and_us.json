@@ -3,8 +3,8 @@
   "Name": "Them and Us",
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 333,
-  "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_Completed": 187,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 229,
+  "EOS_Progressed": 231,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.44,
+  "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
     {
       "Time": "2023-04-30T13:59:34.488144+00:00",
@@ -986,6 +986,11 @@
       "Time": "2023-10-19T12:07:37.1359515+00:00",
       "NumProgressed": 229,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-19T14:07:38.8158214+00:00",
+      "NumProgressed": 231,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1013,7 +1018,7 @@
       "Name": "Alone with Them",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 167
+      "UsersEstimate": 169
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -1091,9 +1096,9 @@
       "ID": "ETUA_ForcedtoKill",
       "SetID": "65jc0ap",
       "Name": "Forced to Kill",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 160
+      "UsersEstimate": 159
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -1149,7 +1154,7 @@
       "Name": "Open Sesame",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ETUA_OutRage",
@@ -1243,9 +1248,9 @@
       "ID": "ETUA_TheCultists",
       "SetID": "65jc0ap",
       "Name": "The Cultists",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 30
     },
     {
       "ID": "ETUA_TheCurseIsReal",
@@ -1261,7 +1266,7 @@
       "Name": "The Forgotten Tower",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ETUA_ThisCoffin",
@@ -1309,14 +1314,14 @@
       "Name": "What have I done!?",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     }
   ],
   "AchievementSets": [
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 229,
+      "Progressed": 231,
       "Completed": 1
     }
   ],
@@ -1324,8 +1329,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-10-19T13:14:21.3115121+00:00",
+  "LastChanged_Achievements": "2023-10-19T14:07:38.8158205+00:00",
   "LastUpdate_AppInfo": "2023-10-14T13:56:58.0301725+00:00",
-  "LastUpdate_Ratings": "2023-10-19T13:04:10.5208687+00:00",
-  "LastUpdate_Achievements": "2023-10-19T13:14:21.3115527+00:00"
+  "LastUpdate_Ratings": "2023-10-19T13:58:03.4321021+00:00",
+  "LastUpdate_Achievements": "2023-10-19T14:07:38.8158913+00:00"
 }

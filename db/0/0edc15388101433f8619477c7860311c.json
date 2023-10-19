@@ -2,9 +2,9 @@
   "ID": "0edc15388101433f8619477c7860311c",
   "Name": "The Bridge Curse Road to Salvation",
   "ProductSlug": "the-bridge-curse-road-to-salvation-c29320",
-  "Ranking_EOS_Progress": 478,
+  "Ranking_EOS_Progress": 479,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-08-30T04:00:00+00:00",
@@ -255,9 +255,9 @@
       "ID": "MortuaryMarkup",
       "SetID": "7m88n8p",
       "Name": "Mortuary Makeup Artist",
-      "Percentage": 31,
+      "Percentage": 35,
       "XP": 65,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "NoOneLeft",
@@ -295,9 +295,9 @@
       "ID": "SeeNoEvil",
       "SetID": "7m88n8p",
       "Name": "See No Evil",
-      "Percentage": 35,
+      "Percentage": 38,
       "XP": 25,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "SeeingThrough",
@@ -311,9 +311,9 @@
       "ID": "TimeManagement",
       "SetID": "7m88n8p",
       "Name": "Master of Time Management",
-      "Percentage": 38,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "WaitingForSalvation",
@@ -342,8 +342,8 @@
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2023-10-19T13:12:55.8260798+00:00",
+  "LastChanged_Achievements": "2023-10-19T14:06:25.6221051+00:00",
   "LastUpdate_AppInfo": "2023-10-16T07:57:10.6124995+00:00",
-  "LastUpdate_Ratings": "2023-10-19T13:05:51.0974504+00:00",
-  "LastUpdate_Achievements": "2023-10-19T13:12:55.8260991+00:00"
+  "LastUpdate_Ratings": "2023-10-19T13:59:32.4467048+00:00",
+  "LastUpdate_Achievements": "2023-10-19T14:06:25.6221226+00:00"
 }

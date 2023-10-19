@@ -6,23 +6,23 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 44.00% | ~6,350 |
-| Overkill | 34.00% | ~4,907 |
-| A normal day in Gloomhaven | 34.00% | ~4,907 |
-| Vaccine Incoming | 33.00% | ~4,763 |
-| Spread the plague | 31.00% | ~4,474 |
-| Get over here! | 24.00% | ~3,464 |
-| Just when I thought I was out... | 19.00% | ~2,742 |
-| Precious! | 17.00% | ~2,453 |
-| Mine... All Mine... | 17.00% | ~2,453 |
-| Light of my life | 15.00% | ~2,165 |
-| Anatomy Lesson | 15.00% | ~2,165 |
-| Grizzled veteran | 13.00% | ~1,876 |
-| You activated my trap card! | 13.00% | ~1,876 |
-| Augmented rat | 13.00% | ~1,876 |
-| Obstacle race | 13.00% | ~1,876 |
+| I'm not dead yet | 44.00% | ~6,353 |
+| Overkill | 34.00% | ~4,909 |
+| A normal day in Gloomhaven | 34.00% | ~4,909 |
+| Vaccine Incoming | 33.00% | ~4,765 |
+| Spread the plague | 31.00% | ~4,476 |
+| Get over here! | 24.00% | ~3,465 |
+| Just when I thought I was out... | 19.00% | ~2,743 |
+| Precious! | 17.00% | ~2,455 |
+| Mine... All Mine... | 17.00% | ~2,455 |
+| Light of my life | 15.00% | ~2,166 |
+| Anatomy Lesson | 15.00% | ~2,166 |
+| Grizzled veteran | 13.00% | ~1,877 |
+| You activated my trap card! | 13.00% | ~1,877 |
+| Obstacle race | 13.00% | ~1,877 |
+| Augmented rat | 12.00% | ~1,733 |
 | Doom and gloom | 11.00% | ~1,588 |
-| Who's the Boss? | 9.00% | ~1,299 |
+| Who's the Boss? | 9.00% | ~1,300 |
 | Dungeon Veteran | 8.00% | ~1,155 |
 | Pack leader | 8.00% | ~1,155 |
 | Pain is your friend | 8.00% | ~1,155 |
@@ -33,7 +33,7 @@ Number of Ratings: 68  (23.09.2022)
 | The Pro from Dover | 5.00% | ~722 |
 | Pretty lights! | 5.00% | ~722 |
 | Now you see me... | 5.00% | ~722 |
-| Caught off guard | 4.00% | ~577 |
+| Caught off guard | 4.00% | ~578 |
 | Merchant of doom | 3.00% | ~433 |
 | Grin and bear it | 3.00% | ~433 |
 | I hate portals | 2.00% | ~289 |
@@ -48,7 +48,7 @@ Number of Ratings: 68  (23.09.2022)
 | Add a bit of colour | 1.00% | ~144 |
 | How to train your Drake | 1.00% | ~144 |
 | New Blood | 1.00% | ~144 |
-| Captain hooked | 0.80% | ~115 |
+| Captain hooked | 0.80% | ~116 |
 | Betray this | 0.70% | ~101 |
 | Spoiler police! | 0.70% | ~101 |
 | The Pacifist | 0.50% | ~72 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~14 |
 | Murder Death Kill | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,432 (Ranked 138)  
+Progressed: 14,439 (Ranked 138)  
 Completed: 1 (0.01%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 1 (0.01%) (Ranked 298)
 | 2023-10-16 | 13,884 | 1 |
 | 2023-10-17 | 14,108 | 1 |
 | 2023-10-18 | 14,328 | 1 |
-| 2023-10-19 | 14,432 | 1 |
+| 2023-10-19 | 14,439 | 1 |
 ## Awards
 Max (Character Customization): 3,555  (Ranked 90)  
 Sum: 8,300 (Ranked 98)  

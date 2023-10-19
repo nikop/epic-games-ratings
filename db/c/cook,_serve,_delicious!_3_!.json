@@ -3,7 +3,7 @@
   "Name": "Cook, Serve, Delicious! 3?!",
   "ProductSlug": "cook-serve-delicious-3-fb9aae",
   "Ranking_Rating": 574,
-  "Ranking_Popularity": 335,
+  "Ranking_Popularity": 336,
   "Ranking_PopularitySum": 279,
   "Ranking_EOS_Progress": 681,
   "Ranking_EOS_Completed": 316,
@@ -1416,6 +1416,6 @@
   "FirstSeenRating": "2022-08-12T08:02:43.2007187+00:00",
   "LastChanged": "2023-10-14T12:00:31.440584+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:48.4719391+00:00",
-  "LastUpdate_Ratings": "2023-10-19T13:04:15.6753563+00:00",
-  "LastUpdate_Achievements": "2023-10-19T13:12:41.1068828+00:00"
+  "LastUpdate_Ratings": "2023-10-19T13:58:09.190048+00:00",
+  "LastUpdate_Achievements": "2023-10-19T14:06:13.450878+00:00"
 }

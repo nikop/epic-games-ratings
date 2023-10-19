@@ -730,9 +730,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 39053,
+  "EOS_Progressed": 39056,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 354,
+  "EOS_NewPlayers": 355,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -19255,6 +19255,11 @@
       "Time": "2023-10-19T13:12:13.8332978+00:00",
       "NumProgressed": 39053,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-19T14:05:49.3553095+00:00",
+      "NumProgressed": 39056,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -19282,7 +19287,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 6639
+      "UsersEstimate": 6640
     },
     {
       "ID": "ach_antiquarian10",
@@ -19386,7 +19391,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 14059
+      "UsersEstimate": 14060
     },
     {
       "ID": "ach_die10",
@@ -19394,7 +19399,7 @@
       "Name": "Never Stop Sinking...",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "ach_die5",
@@ -19458,7 +19463,7 @@
       "Name": "Correspondent",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4686
+      "UsersEstimate": 4687
     },
     {
       "ID": "ach_legacypupil",
@@ -19474,7 +19479,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 5467
+      "UsersEstimate": 5468
     },
     {
       "ID": "ach_legacysalvager",
@@ -19514,7 +19519,7 @@
       "Name": "His bones in whispers",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "ach_portdeep",
@@ -19522,7 +19527,7 @@
       "Name": "The beauty of the deep",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "ach_portdragon",
@@ -19554,7 +19559,7 @@
       "Name": "Leviathan",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "ach_portpearls",
@@ -19570,7 +19575,7 @@
       "Name": "No regrets",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "ach_portrose",
@@ -19586,7 +19591,7 @@
       "Name": "Under the zee",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "ach_scion",
@@ -19626,7 +19631,7 @@
       "Name": "Lose Your Mind",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4686
+      "UsersEstimate": 4687
     },
     {
       "ID": "ach_terror90",
@@ -19650,7 +19655,7 @@
       "Name": "Depth charge",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "ach_underpressure",
@@ -19666,7 +19671,7 @@
       "Name": "Sound Mind?",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 4686
+      "UsersEstimate": 4687
     },
     {
       "ID": "ach_year1",
@@ -19697,15 +19702,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 39053,
+      "Progressed": 39056,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-10-14T19:58:49.9428019+00:00",
-  "LastChanged_Achievements": "2023-10-19T13:12:13.8332971+00:00",
+  "LastChanged_Achievements": "2023-10-19T14:05:49.3553089+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:49.4242639+00:00",
-  "LastUpdate_Ratings": "2023-10-19T13:07:18.0711707+00:00",
-  "LastUpdate_Achievements": "2023-10-19T13:12:13.8334932+00:00"
+  "LastUpdate_Ratings": "2023-10-19T14:00:47.6974438+00:00",
+  "LastUpdate_Achievements": "2023-10-19T14:05:49.3554857+00:00"
 }

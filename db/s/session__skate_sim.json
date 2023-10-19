@@ -4,10 +4,10 @@
   "ProductSlug": "session-skate-sim",
   "Ranking_Rating": 207,
   "Ranking_Popularity": 405,
-  "Ranking_PopularitySum": 308,
+  "Ranking_PopularitySum": 309,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -1069,9 +1069,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 3022,
+  "EOS_Progressed": 3023,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5394,6 +5394,11 @@
       "Time": "2023-10-19T11:04:21.3154502+00:00",
       "NumProgressed": 3022,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-19T14:05:12.1233688+00:00",
+      "NumProgressed": 3023,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 48,
@@ -5781,22 +5786,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 1843
+      "UsersEstimate": 1844
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 3022,
+      "Progressed": 3023,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-10-18T19:59:48.5041655+00:00",
-  "LastChanged_Achievements": "2023-10-19T13:11:31.2344876+00:00",
+  "LastChanged_Achievements": "2023-10-19T14:05:12.1233683+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:15.9585572+00:00",
-  "LastUpdate_Ratings": "2023-10-19T13:06:54.0728514+00:00",
-  "LastUpdate_Achievements": "2023-10-19T13:11:31.2345645+00:00"
+  "LastUpdate_Ratings": "2023-10-19T14:00:26.3357865+00:00",
+  "LastUpdate_Achievements": "2023-10-19T14:05:12.1234315+00:00"
 }

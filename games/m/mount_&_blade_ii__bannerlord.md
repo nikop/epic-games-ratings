@@ -6,19 +6,19 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 39.00% | ~24,772 |
-| Landlord | 33.00% | ~20,961 |
-| Bannerlord | 23.00% | ~14,609 |
-| Horde breaker | 23.00% | ~14,609 |
-| Lawmaker | 23.00% | ~14,609 |
-| Trained | 23.00% | ~14,609 |
+| Lawbringer | 39.00% | ~24,773 |
+| Landlord | 33.00% | ~20,962 |
+| Bannerlord | 23.00% | ~14,610 |
+| Horde breaker | 23.00% | ~14,610 |
+| Lawmaker | 23.00% | ~14,610 |
+| Trained | 23.00% | ~14,610 |
 | The king is pleased | 19.00% | ~12,069 |
-| King Solomon | 17.00% | ~10,798 |
+| King Solomon | 17.00% | ~10,799 |
 | I can do it | 16.00% | ~10,163 |
 | Apple of my eye | 15.00% | ~9,528 |
-| God of the Arena | 13.00% | ~8,257 |
-| Against all odds | 12.00% | ~7,622 |
-| This Is Our Land | 12.00% | ~7,622 |
+| God of the Arena | 13.00% | ~8,258 |
+| Against all odds | 12.00% | ~7,623 |
+| This Is Our Land | 12.00% | ~7,623 |
 | Duelist | 10.00% | ~6,352 |
 | Dynasty | 10.00% | ~6,352 |
 | I spit on your grave | 10.00% | ~6,352 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,519 (Ranked 98)  
+Progressed: 63,521 (Ranked 98)  
 Completed: 0 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,14 +240,14 @@ Completed: 0 (0.00%) (Ranked 316)
 | 2023-10-16 | 63,408 | 0 |
 | 2023-10-17 | 63,440 | 0 |
 | 2023-10-18 | 63,498 | 0 |
-| 2023-10-19 | 63,519 | 0 |
+| 2023-10-19 | 63,521 | 0 |
 ## Awards
-Max (Character Customization): 7,245  (Ranked 52)  
-Sum: 14,921 (Ranked 66)  
+Max (Character Customization): 7,249  (Ranked 52)  
+Sum: 14,925 (Ranked 66)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,245 |
+| This game has Inclusive Character Customization | 7,249 |
 | This game is Great for Beginners | 1,012 |
 | This game has Diverse Characters | 966 |
 | This game is Highly Recommended | 902 |
@@ -539,4 +539,4 @@ Diff (max vs sum): -14
 | 2023-10-16 | 4.74 | - | 7,238 | 14,898 |
 | 2023-10-17 | 4.74 | - | 7,242 | 14,905 |
 | 2023-10-18 | 4.74 | - | 7,245 | 14,919 |
-| 2023-10-19 | 4.74 | - | 7,245 | 14,921 |
+| 2023-10-19 | 4.74 | - | 7,249 | 14,925 |

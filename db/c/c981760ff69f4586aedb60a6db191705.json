@@ -31,8 +31,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "af18nmg",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2023-10-19T14:04:35.320246+00:00",
+  "LastChanged_Achievements": "2023-10-19T14:04:35.320244+00:00",
   "LastUpdate_AppInfo": "2023-10-16T14:57:15.7442893+00:00",
-  "LastUpdate_Ratings": "2023-10-19T13:05:03.2640007+00:00",
-  "LastUpdate_Achievements": "2023-10-19T13:10:48.7898949+00:00"
+  "LastUpdate_Ratings": "2023-10-19T13:58:49.0740492+00:00",
+  "LastUpdate_Achievements": "2023-10-19T14:04:35.320248+00:00"
 }

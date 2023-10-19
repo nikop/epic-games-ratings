@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 352,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -4313,9 +4313,9 @@
       "ID": "achCompleteFirstMission",
       "SetID": "dgl390n",
       "Name": "Cadet",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 932
+      "UsersEstimate": 949
     },
     {
       "ID": "achCreateLine",
@@ -4649,8 +4649,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-10-17T18:00:35.1820377+00:00",
-  "LastChanged_Achievements": "2023-10-19T13:14:15.4506052+00:00",
+  "LastChanged_Achievements": "2023-10-19T14:07:33.9600676+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:13.4175096+00:00",
-  "LastUpdate_Ratings": "2023-10-19T13:08:13.2416002+00:00",
-  "LastUpdate_Achievements": "2023-10-19T13:14:15.4506837+00:00"
+  "LastUpdate_Ratings": "2023-10-19T14:01:39.1414832+00:00",
+  "LastUpdate_Achievements": "2023-10-19T14:07:33.9601569+00:00"
 }

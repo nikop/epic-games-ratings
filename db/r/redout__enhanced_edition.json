@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 233925,
+  "EOS_Progressed": 233926,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 441,
+  "EOS_NewPlayers": 442,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -19497,6 +19497,11 @@
       "Time": "2023-10-19T13:09:43.3428948+00:00",
       "NumProgressed": 233925,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-10-19T14:03:37.7182309+00:00",
+      "NumProgressed": 233926,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 34,
@@ -19644,7 +19649,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 77195
+      "UsersEstimate": 77196
     },
     {
       "ID": "NOBUNAGA",
@@ -19692,7 +19697,7 @@
       "Name": "PRO",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4678
+      "UsersEstimate": 4679
     },
     {
       "ID": "QAREEN",
@@ -19708,7 +19713,7 @@
       "Name": "RESPWND",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 4678
+      "UsersEstimate": 4679
     },
     {
       "ID": "SHINYSHINYGOLD",
@@ -19716,7 +19721,7 @@
       "Name": "SHINY SHINY GOLD",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4678
+      "UsersEstimate": 4679
     },
     {
       "ID": "SHOWOFF",
@@ -19772,22 +19777,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 95909
+      "UsersEstimate": 95910
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 233925,
+      "Progressed": 233926,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-10-19T13:09:43.3428942+00:00",
+  "LastChanged_Achievements": "2023-10-19T14:03:37.7182301+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:10.7010053+00:00",
-  "LastUpdate_Ratings": "2023-10-19T13:05:53.2507291+00:00",
-  "LastUpdate_Achievements": "2023-10-19T13:09:43.3430379+00:00"
+  "LastUpdate_Ratings": "2023-10-19T13:59:34.2327915+00:00",
+  "LastUpdate_Achievements": "2023-10-19T14:03:37.7183735+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "77c7b912cbbd4c45b883db72f4a1f0bd",
   "Name": "Trifox",
   "ProductSlug": "trifox-b361b7",
-  "Ranking_EOS_Progress": 396,
+  "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewPlayers": 314,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-10-14T16:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 94,
+  "EOS_Progressed": 95,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.06,
+  "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:34.1090375+00:00",
@@ -114,6 +114,11 @@
     {
       "Time": "2023-10-18T22:18:03.8578775+00:00",
       "NumProgressed": 94,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-19T14:06:55.0635978+00:00",
+      "NumProgressed": 95,
       "NumCompleted": 1
     }
   ],
@@ -196,7 +201,7 @@
       "ID": "ACH_ENEMYKILLS_MEDIUM",
       "SetID": "cfld5bl",
       "Name": "Should have left me alone",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
       "UsersEstimate": 8
     },
@@ -212,7 +217,7 @@
       "ID": "ACH_GEMSCOLLECTED_1",
       "SetID": "cfld5bl",
       "Name": "What is this?",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 15,
       "UsersEstimate": 66
     },
@@ -260,7 +265,7 @@
       "ID": "ACH_HEALTHANDRESOURCEPICKUPS_MEDIUM",
       "SetID": "cfld5bl",
       "Name": "Drink up",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
       "UsersEstimate": 8
     },
@@ -276,7 +281,7 @@
       "ID": "ACH_LEVELCOMPLETION_01_01",
       "SetID": "cfld5bl",
       "Name": "Complete Level 1-1",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 10,
       "UsersEstimate": 58
     },
@@ -284,7 +289,7 @@
       "ID": "ACH_LEVELCOMPLETION_01_02",
       "SetID": "cfld5bl",
       "Name": "Complete Level 1-2",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 10,
       "UsersEstimate": 43
     },
@@ -292,7 +297,7 @@
       "ID": "ACH_LEVELCOMPLETION_01_03",
       "SetID": "cfld5bl",
       "Name": "Complete Level 1-3",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
       "UsersEstimate": 27
     },
@@ -348,7 +353,7 @@
       "ID": "ACH_LEVELCOMPLETION_03_02",
       "SetID": "cfld5bl",
       "Name": "Complete Level 3-2",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -388,7 +393,7 @@
       "ID": "ACH_LEVELCOMPLETION_HYBRID_ENGINEERWARRIOR",
       "SetID": "cfld5bl",
       "Name": "Engineer-warrior hybrid",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
       "UsersEstimate": 9
     },
@@ -396,7 +401,7 @@
       "ID": "ACH_LEVELCOMPLETION_HYBRID_WARRIORMAGE",
       "SetID": "cfld5bl",
       "Name": "Mage-warrior hybrid",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
       "UsersEstimate": 8
     },
@@ -444,7 +449,7 @@
       "ID": "ACH_PARTYPOPPER",
       "SetID": "cfld5bl",
       "Name": "Party popper",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
       "UsersEstimate": 8
     },
@@ -493,7 +498,7 @@
     {
       "ID": "cfld5bl",
       "IsBase": true,
-      "Progressed": 94,
+      "Progressed": 95,
       "Completed": 1
     }
   ],
@@ -501,8 +506,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.8391982+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.1090385+00:00",
   "LastChanged": "2023-03-31T05:58:28.8391984+00:00",
-  "LastChanged_Achievements": "2023-10-19T13:13:30.429244+00:00",
+  "LastChanged_Achievements": "2023-10-19T14:06:55.0635971+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:16.4871547+00:00",
-  "LastUpdate_Ratings": "2023-10-19T13:06:58.2513925+00:00",
-  "LastUpdate_Achievements": "2023-10-19T13:13:30.4293062+00:00"
+  "LastUpdate_Ratings": "2023-10-19T14:00:31.1628353+00:00",
+  "LastUpdate_Achievements": "2023-10-19T14:06:55.0636513+00:00"
 }

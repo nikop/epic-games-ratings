@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -5735,9 +5735,9 @@
       "ID": "ACH_BASE_6",
       "SetID": "92iocjf",
       "Name": "Hope Seeker",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 356
+      "UsersEstimate": 389
     },
     {
       "ID": "ACH_BASE_60",
@@ -5822,8 +5822,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-09-17T17:59:23.8865698+00:00",
-  "LastChanged_Achievements": "2023-10-19T13:10:39.7802774+00:00",
+  "LastChanged_Achievements": "2023-10-19T14:04:27.6373664+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:38.5119493+00:00",
-  "LastUpdate_Ratings": "2023-10-19T13:04:24.2071583+00:00",
-  "LastUpdate_Achievements": "2023-10-19T13:10:39.7803759+00:00"
+  "LastUpdate_Ratings": "2023-10-19T13:58:17.1848165+00:00",
+  "LastUpdate_Achievements": "2023-10-19T14:04:27.6374579+00:00"
 }

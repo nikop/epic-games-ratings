@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 112,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 24,
+  "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -413,9 +413,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22369,
+  "EOS_Progressed": 22371,
   "EOS_Completed": 441,
-  "EOS_NewPlayers": 425,
+  "EOS_NewPlayers": 427,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.97,
   "EosHistory": [
@@ -19953,6 +19953,11 @@
       "Time": "2023-10-19T13:11:41.2760165+00:00",
       "NumProgressed": 22369,
       "NumCompleted": 441
+    },
+    {
+      "Time": "2023-10-19T14:05:20.7979414+00:00",
+      "NumProgressed": 22371,
+      "NumCompleted": 441
     }
   ],
   "TotalAchievements": 20,
@@ -20020,7 +20025,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2684
+      "UsersEstimate": 2685
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -20028,7 +20033,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 3355
+      "UsersEstimate": 3356
     },
     {
       "ID": "FOUND_ERIN",
@@ -20036,7 +20041,7 @@
       "Name": "Hide and Seek",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1118
+      "UsersEstimate": 1119
     },
     {
       "ID": "FOUND_FOX_STATUE",
@@ -20076,7 +20081,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2684
+      "UsersEstimate": 2685
     },
     {
       "ID": "INTRO_FINISHED",
@@ -20084,7 +20089,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 17224
+      "UsersEstimate": 17226
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -20116,22 +20121,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 4026
+      "UsersEstimate": 4027
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 22369,
+      "Progressed": 22371,
       "Completed": 441
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-19T13:11:41.2760159+00:00",
+  "LastChanged_Achievements": "2023-10-19T14:05:20.7979408+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:17.0806119+00:00",
-  "LastUpdate_Ratings": "2023-10-19T13:06:21.417683+00:00",
-  "LastUpdate_Achievements": "2023-10-19T13:11:41.2761785+00:00"
+  "LastUpdate_Ratings": "2023-10-19T13:59:58.3623352+00:00",
+  "LastUpdate_Achievements": "2023-10-19T14:05:20.7981018+00:00"
 }

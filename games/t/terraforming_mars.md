@@ -7,22 +7,22 @@ Number of Ratings: 2,731  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | It's a steal! | 37.00% | ~29,422 |
-| Final touch | 36.00% | ~28,626 |
+| Final touch | 36.00% | ~28,627 |
 | Prop-M Rover | 32.00% | ~25,446 |
-| Changing the Planet | 28.00% | ~22,265 |
+| Changing the Planet | 28.00% | ~22,266 |
 | Sojourner | 26.00% | ~20,675 |
-| Beagle 2 | 24.00% | ~19,084 |
-| New Home | 23.00% | ~18,289 |
+| Beagle 2 | 24.00% | ~19,085 |
+| New Home | 23.00% | ~18,290 |
 | Winner Winner Terraformer | 21.00% | ~16,699 |
-| Project Manager | 19.00% | ~15,108 |
-| Curiosity | 19.00% | ~15,108 |
-| Collector | 19.00% | ~15,108 |
-| Master | 19.00% | ~15,108 |
-| No Longer Red | 18.00% | ~14,313 |
-| Self-sufficient | 18.00% | ~14,313 |
+| Project Manager | 19.00% | ~15,109 |
+| Curiosity | 19.00% | ~15,109 |
+| Collector | 19.00% | ~15,109 |
+| Master | 19.00% | ~15,109 |
+| No Longer Red | 18.00% | ~14,314 |
+| Self-sufficient | 18.00% | ~14,314 |
 | Money money | 15.00% | ~11,928 |
 | Biggest Reward | 14.00% | ~11,133 |
-| First Journey | 13.00% | ~10,337 |
+| First Journey | 13.00% | ~10,338 |
 | Acquired knowledge | 12.00% | ~9,542 |
 | Hellenic Elysium | 12.00% | ~9,542 |
 | Grand champion | 12.00% | ~9,542 |
@@ -31,13 +31,13 @@ Number of Ratings: 2,731  (23.09.2022)
 | Spirit | 10.00% | ~7,952 |
 | Ultimate success | 10.00% | ~7,952 |
 | Variety Expert | 9.00% | ~7,157 |
-| Frequent tester | 8.00% | ~6,361 |
-| Determined | 8.00% | ~6,361 |
+| Frequent tester | 8.00% | ~6,362 |
+| Determined | 8.00% | ~6,362 |
 | Terraformer | 4.00% | ~3,181 |
 | Team Effort | 3.00% | ~2,386 |
 | Opportunity | 3.00% | ~2,386 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79,518 (Ranked 88)  
+Progressed: 79,520 (Ranked 88)  
 Completed: 144 (0.18%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,15 +219,15 @@ Completed: 144 (0.18%) (Ranked 229)
 | 2023-10-16 | 79,292 | 143 |
 | 2023-10-17 | 79,377 | 143 |
 | 2023-10-18 | 79,472 | 144 |
-| 2023-10-19 | 79,518 | 144 |
+| 2023-10-19 | 79,520 | 144 |
 ## Awards
-Max (Relaxing): 520  (Ranked 201)  
-Sum: 3,198 (Ranked 168)  
-Diff (max vs sum): 33  
+Max (Relaxing): 520  (Ranked 202)  
+Sum: 3,199 (Ranked 168)  
+Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 520 |
-| This game is Highly Recommended | 501 |
+| This game is Highly Recommended | 502 |
 | This game has Quickly Understood Controls | 465 |
 | This game has Competitive Players | 454 |
 | This game is Extremely Fun | 449 |
@@ -426,3 +426,4 @@ Diff (max vs sum): 33
 | 2023-10-13 | 4.54 | - | 520 | 3,194 |
 | 2023-10-14 | 4.54 | - | 520 | 3,195 |
 | 2023-10-16 | 4.54 | - | 520 | 3,198 |
+| 2023-10-19 | 4.54 | - | 520 | 3,199 |

@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1555,
+  "EOS_Progressed": 1556,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3107,6 +3107,11 @@
       "Time": "2023-10-19T13:15:34.9525906+00:00",
       "NumProgressed": 1555,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-19T14:09:01.5666401+00:00",
+      "NumProgressed": 1556,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -3119,7 +3124,7 @@
       "Name": "First Love",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -3175,7 +3180,7 @@
       "Name": "I Want One Too!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -3295,7 +3300,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -3349,9 +3354,9 @@
       "ID": "ML_ACHIEVEMENT_30",
       "SetID": "c7hf6a4",
       "Name": "Globe-trotter",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "ML_ACHIEVEMENT_31",
@@ -3471,7 +3476,7 @@
       "Name": "Rivals to the End",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -3510,14 +3515,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1555,
+      "Progressed": 1556,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-19T13:15:34.9525898+00:00",
+  "LastChanged_Achievements": "2023-10-19T14:09:01.566639+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:05.5662527+00:00",
-  "LastUpdate_Ratings": "2023-10-19T13:05:58.002336+00:00",
-  "LastUpdate_Achievements": "2023-10-19T13:15:34.9526608+00:00"
+  "LastUpdate_Ratings": "2023-10-19T13:59:38.3221834+00:00",
+  "LastUpdate_Achievements": "2023-10-19T14:09:01.5667062+00:00"
 }
