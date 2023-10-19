@@ -3,7 +3,7 @@
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 66.67% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.58% |
-| 4 | [The Riflemen](games/t/the_riflemen.md) | 46.95% |
+| 4 | [The Riflemen](games/t/the_riflemen.md) | 46.93% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.83% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 33.61% |
@@ -49,7 +49,7 @@
 | 47 | [Sonic Origins](games/s/sonic_origins.md) | 7.41% |
 | 48 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.30% |
 | 49 | [Time Loader](games/t/time_loader.md) | 7.20% |
-| 50 | [Scorn](games/s/scorn.md) | 7.01% |
+| 50 | [Scorn](games/s/scorn.md) | 7.00% |
 | 51 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.56% |
 | 52 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.38% |
 | 53 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.28% |
@@ -57,8 +57,8 @@
 | 55 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.88% |
 | 55 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.88% |
 | 57 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.77% |
-| 58 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 5.66% |
-| 59 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.63% |
+| 58 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.63% |
+| 59 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 5.56% |
 | 60 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.26% |
 | 60 | [Time on Frog Island](games/t/time_on_frog_island.md) | 5.26% |
 | 62 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.92% |
@@ -115,7 +115,7 @@
 | 113 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.96% |
 | 114 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.95% |
 | 115 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.85% |
-| 116 | [Night Book](games/n/night_book.md) | 1.84% |
+| 116 | [Night Book](games/n/night_book.md) | 1.83% |
 | 117 | [Sifu](games/s/sifu.md) | 1.81% |
 | 118 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.80% |
 | 119 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.79% |
@@ -188,8 +188,8 @@
 | 186 | [It Takes Two](games/i/it_takes_two.md) | 0.44% |
 | 187 | [Tchia](games/t/tchia.md) | 0.43% |
 | 187 | [Them and Us](games/t/them_and_us.md) | 0.43% |
-| 189 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.42% |
 | 189 | [Wildermyth](games/w/wildermyth.md) | 0.42% |
+| 190 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.41% |
 | 191 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 191 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.40% |
 | 193 | [Train Valley](games/t/train_valley.md) | 0.39% |
@@ -211,10 +211,10 @@
 | 206 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.30% |
 | 206 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.30% |
 | 211 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.29% |
-| 212 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.27% |
 | 212 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.27% |
-| 214 | [The Devil's Face](games/t/the_devil's_face.md) | 0.26% |
-| 215 | [Filament](games/f/filament.md) | 0.25% |
+| 213 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.26% |
+| 214 | [Filament](games/f/filament.md) | 0.25% |
+| 214 | [The Devil's Face](games/t/the_devil's_face.md) | 0.25% |
 | 216 | [Aegis Descent](games/a/aegis_descent.md) | 0.24% |
 | 216 | [Scrapnaut](games/s/scrapnaut.md) | 0.24% |
 | 218 | [Despot's Game](games/d/despot's_game.md) | 0.23% |
