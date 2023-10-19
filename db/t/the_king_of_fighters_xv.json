@@ -3,8 +3,8 @@
   "Name": "THE KING OF FIGHTERS XV",
   "ProductSlug": "the-king-of-fighters-xv",
   "Ranking_Rating": 324,
-  "Ranking_Popularity": 382,
-  "Ranking_PopularitySum": 299,
+  "Ranking_Popularity": 381,
+  "Ranking_PopularitySum": 303,
   "Ranking_EOS_Progress": 681,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 404,
@@ -426,11 +426,17 @@
       "Rating": 4.64,
       "NumberOfAwards": 613,
       "NumberOfAwardsMax": 74
+    },
+    {
+      "Time": "2023-10-19T04:58:36.723823+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 568,
+      "NumberOfAwardsMax": 75
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 613,
-  "NumberOfAwardsMax": 74,
+  "NumberOfAwards": 568,
+  "NumberOfAwardsMax": 75,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -443,7 +449,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 60
+      "Count": 61
     },
     {
       "Text": "This game is Relaxing",
@@ -467,7 +473,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 74
+      "Count": 75
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -485,7 +491,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 69
+      "Count": 70
     },
     {
       "Text": "This game has Challenging Combat",
@@ -511,8 +517,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:01.2233812+00:00",
-  "LastChanged": "2023-09-25T08:00:51.4000519+00:00",
+  "LastChanged": "2023-10-19T04:58:36.7238227+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:11.1974105+00:00",
-  "LastUpdate_Ratings": "2023-10-19T03:58:36.7734548+00:00",
-  "LastUpdate_Achievements": "2023-10-19T04:09:31.6910365+00:00"
+  "LastUpdate_Ratings": "2023-10-19T04:58:36.7238234+00:00",
+  "LastUpdate_Achievements": "2023-10-19T05:09:21.5062012+00:00"
 }

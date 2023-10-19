@@ -3,9 +3,9 @@
   "Name": "Dolmenjord - Viking Islands",
   "ProductSlug": "dolmenjord-viking-islands-965b06",
   "Ranking_EOS_Progress": 279,
-  "Ranking_EOS_Completed": 79,
+  "Ranking_EOS_Completed": 77,
   "Ranking_EOS_NewPlayers": 260,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T03:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 449,
-  "EOS_Completed": 16,
+  "EOS_Completed": 17,
   "EOS_NewPlayers": 6,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.56,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 3.79,
   "EosHistory": [
     {
       "Time": "2023-06-02T12:03:22.0888781+00:00",
@@ -1429,6 +1429,11 @@
       "Time": "2023-10-19T02:24:19.8294689+00:00",
       "NumProgressed": 449,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-10-19T05:06:43.4811725+00:00",
+      "NumProgressed": 449,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 11,
@@ -1528,13 +1533,13 @@
       "ID": "7jk5g4e",
       "IsBase": true,
       "Progressed": 449,
-      "Completed": 16
+      "Completed": 17
     }
   ],
   "FirstSeen": "2023-06-17T14:57:03.8937157+00:00",
   "FirstSeenAchievements": "2023-05-29T15:00:12.8359596+00:00",
-  "LastChanged_Achievements": "2023-10-19T04:06:41.3183328+00:00",
+  "LastChanged_Achievements": "2023-10-19T05:06:43.4811716+00:00",
   "LastUpdate_AppInfo": "2023-10-17T01:40:42.158173+00:00",
-  "LastUpdate_Ratings": "2023-10-19T03:57:17.5811043+00:00",
-  "LastUpdate_Achievements": "2023-10-19T04:06:41.3183505+00:00"
+  "LastUpdate_Ratings": "2023-10-19T04:57:18.7296273+00:00",
+  "LastUpdate_Achievements": "2023-10-19T05:06:43.4811909+00:00"
 }

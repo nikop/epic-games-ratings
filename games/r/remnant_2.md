@@ -5,25 +5,25 @@ Rating: 4.76 (Ranked 119)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~17,770 |
-| The Killing Jar | 8.00% | ~15,796 |
-| Expanding Horizons | 7.00% | ~13,821 |
-| Quest for Survival | 7.00% | ~13,821 |
-| Not Your Average Trait | 7.00% | ~13,821 |
+| First of Many | 9.00% | ~17,771 |
+| The Killing Jar | 8.00% | ~15,797 |
+| Expanding Horizons | 7.00% | ~13,822 |
+| Quest for Survival | 7.00% | ~13,822 |
+| Not Your Average Trait | 7.00% | ~13,822 |
 | Gleaming the Cube | 6.00% | ~11,847 |
 | Familiar Face | 6.00% | ~11,847 |
 | Duality | 6.00% | ~11,847 |
 | Boss'n Up | 6.00% | ~11,847 |
 | Trait Chaser | 6.00% | ~11,847 |
-| Not So Special Now | 5.00% | ~9,872 |
-| Not a Janitor | 5.00% | ~9,872 |
-| Equal Measures | 5.00% | ~9,872 |
-| Blue Goddess | 5.00% | ~9,872 |
-| Top Performer | 5.00% | ~9,872 |
-| Shhh...It's a Secret | 5.00% | ~9,872 |
-| Almost There | 5.00% | ~9,872 |
-| Make Some Room | 5.00% | ~9,872 |
-| Good, But Could Be Better! | 5.00% | ~9,872 |
+| Not So Special Now | 5.00% | ~9,873 |
+| Not a Janitor | 5.00% | ~9,873 |
+| Equal Measures | 5.00% | ~9,873 |
+| Blue Goddess | 5.00% | ~9,873 |
+| Top Performer | 5.00% | ~9,873 |
+| Shhh...It's a Secret | 5.00% | ~9,873 |
+| Almost There | 5.00% | ~9,873 |
+| Make Some Room | 5.00% | ~9,873 |
+| Good, But Could Be Better! | 5.00% | ~9,873 |
 | Chaos | 4.00% | ~7,898 |
 | Traitor | 4.00% | ~7,898 |
 | Power Surge | 4.00% | ~7,898 |
@@ -34,15 +34,15 @@ Rating: 4.76 (Ranked 119)
 | The Web | 4.00% | ~7,898 |
 | Scrap Collector | 4.00% | ~7,898 |
 | All These Traits� | 4.00% | ~7,898 |
-| Am I Seeing This? | 3.00% | ~5,923 |
-| Forever is a Long Time Coming | 3.00% | ~5,923 |
-| The Agenda | 3.00% | ~5,923 |
-| Tall Tales | 3.00% | ~5,923 |
-| Bad Moon Rising | 3.00% | ~5,923 |
-| Strapped | 3.00% | ~5,923 |
-| Edgelord | 3.00% | ~5,923 |
-| The Ultimate Weapon | 3.00% | ~5,923 |
-| No One Should Have All That Power | 3.00% | ~5,923 |
+| Am I Seeing This? | 3.00% | ~5,924 |
+| Forever is a Long Time Coming | 3.00% | ~5,924 |
+| The Agenda | 3.00% | ~5,924 |
+| Tall Tales | 3.00% | ~5,924 |
+| Bad Moon Rising | 3.00% | ~5,924 |
+| Strapped | 3.00% | ~5,924 |
+| Edgelord | 3.00% | ~5,924 |
+| The Ultimate Weapon | 3.00% | ~5,924 |
+| No One Should Have All That Power | 3.00% | ~5,924 |
 | Crafty | 2.00% | ~3,949 |
 | Only Human | 2.00% | ~3,949 |
 | Red Room | 2.00% | ~3,949 |
@@ -51,12 +51,12 @@ Rating: 4.76 (Ranked 119)
 | Carnage in C-Minor | 2.00% | ~3,949 |
 | Maxed Out! | 2.00% | ~3,949 |
 | Transmutate | 2.00% | ~3,949 |
-| Ghost in the Machine | 1.00% | ~1,974 |
-| The Trigger | 1.00% | ~1,974 |
-| Cutting Edge | 1.00% | ~1,974 |
-| Proving Grounds | 1.00% | ~1,974 |
+| Ghost in the Machine | 1.00% | ~1,975 |
+| The Trigger | 1.00% | ~1,975 |
+| Cutting Edge | 1.00% | ~1,975 |
+| Proving Grounds | 1.00% | ~1,975 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 197,444 (Ranked 68)  
+Progressed: 197,457 (Ranked 68)  
 Completed: 396 (0.20%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,18 +151,18 @@ Completed: 396 (0.20%) (Ranked 225)
 | 2023-10-16 | 196,519 | 393 |
 | 2023-10-17 | 196,940 | 394 |
 | 2023-10-18 | 197,355 | 396 |
-| 2023-10-19 | 197,444 | 396 |
+| 2023-10-19 | 197,457 | 396 |
 ## Awards
 Max (Great Boss Battles): 1,855  (Ranked 114)  
-Sum: 4,041 (Ranked 147)  
+Sum: 4,043 (Ranked 147)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 1,855 |
 | This game has Challenging Combat | 246 |
 | This game has Diverse Characters | 240 |
+| This game is Extremely Fun | 238 |
 | This game is Relaxing | 238 |
-| This game is Extremely Fun | 236 |
 | This game is Highly Recommended | 228 |
 | This game has Amazing Storytelling | 220 |
 | This game has Quickly Understood Controls | 216 |
@@ -257,4 +257,4 @@ Diff (max vs sum): -33
 | 2023-10-16 | 4.76 | 1,839 | 4,002 |
 | 2023-10-17 | 4.76 | 1,843 | 4,024 |
 | 2023-10-18 | 4.76 | 1,848 | 4,034 |
-| 2023-10-19 | 4.76 | 1,855 | 4,041 |
+| 2023-10-19 | 4.76 | 1,855 | 4,043 |

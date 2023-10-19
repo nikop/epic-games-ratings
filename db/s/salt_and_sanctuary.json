@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 205,
   "Ranking_EOS_Progress": 32,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 16,
+  "Ranking_EOS_NewPlayers": 90,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
     "PcReleaseDate": "2016-05-17T16:00:00+00:00",
@@ -2706,10 +2706,10 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 535755,
-  "EOS_Completed": 1581,
-  "EOS_NewPlayers": 550,
-  "EOS_NewCompleters": 12,
+  "EOS_Progressed": 535756,
+  "EOS_Completed": 1582,
+  "EOS_NewPlayers": 548,
+  "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -22561,6 +22561,11 @@
       "Time": "2023-10-19T04:06:09.546565+00:00",
       "NumProgressed": 535755,
       "NumCompleted": 1581
+    },
+    {
+      "Time": "2023-10-19T05:06:12.0789906+00:00",
+      "NumProgressed": 535756,
+      "NumCompleted": 1582
     }
   ],
   "TotalAchievements": 37,
@@ -22828,7 +22833,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 342883
+      "UsersEstimate": 342884
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -22844,7 +22849,7 @@
       "Name": "The Village",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 91078
+      "UsersEstimate": 91079
     },
     {
       "ID": "THE_ZIGGURAT",
@@ -22867,15 +22872,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 535755,
-      "Completed": 1581
+      "Progressed": 535756,
+      "Completed": 1582
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-10-16T15:59:05.91541+00:00",
-  "LastChanged_Achievements": "2023-10-19T04:06:09.5465645+00:00",
+  "LastChanged_Achievements": "2023-10-19T05:06:12.0789899+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:31.6704285+00:00",
-  "LastUpdate_Ratings": "2023-10-19T03:59:07.9387786+00:00",
-  "LastUpdate_Achievements": "2023-10-19T04:06:09.546713+00:00"
+  "LastUpdate_Ratings": "2023-10-19T04:59:09.3508913+00:00",
+  "LastUpdate_Achievements": "2023-10-19T05:06:12.0791685+00:00"
 }

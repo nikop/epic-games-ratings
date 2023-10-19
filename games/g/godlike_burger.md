@@ -5,26 +5,26 @@ Rating: 4.47 (Ranked 622)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~147,557 |
-| FIRST BLOOD | 40.00% | ~131,162 |
-| KEVIN! | 30.00% | ~98,371 |
-| JACK OF ALL TRADES | 23.00% | ~75,418 |
-| CRIMINAL | 20.00% | ~65,581 |
-| GRANDMA WOULD BE PROUD | 11.00% | ~36,069 |
-| WITHOUT BREAKING A SWEAT | 9.00% | ~29,511 |
-| HONORS STUDENT | 8.00% | ~26,232 |
-| BUTCHER | 5.00% | ~16,395 |
-| RAMBO | 5.00% | ~16,395 |
-| HELL'S KITCHEN | 4.00% | ~13,116 |
-| INDIVIDUAL APPROACH | 4.00% | ~13,116 |
-| CELEBRITY | 3.00% | ~9,837 |
-| MARTYR | 3.00% | ~9,837 |
-| GRATITUDE | 2.00% | ~6,558 |
-| PATTY-KILLER | 1.00% | ~3,279 |
-| PRUDENT | 1.00% | ~3,279 |
-| GOURMET | 0.90% | ~2,951 |
-| LAW-ABIDING CITIZEN | 0.80% | ~2,623 |
-| EXPERIMENTALIST | 0.70% | ~2,295 |
+| MASTER CHEF | 45.00% | ~147,586 |
+| FIRST BLOOD | 40.00% | ~131,188 |
+| KEVIN! | 30.00% | ~98,391 |
+| JACK OF ALL TRADES | 23.00% | ~75,433 |
+| CRIMINAL | 20.00% | ~65,594 |
+| GRANDMA WOULD BE PROUD | 11.00% | ~36,077 |
+| WITHOUT BREAKING A SWEAT | 9.00% | ~29,517 |
+| HONORS STUDENT | 8.00% | ~26,238 |
+| BUTCHER | 5.00% | ~16,398 |
+| RAMBO | 5.00% | ~16,398 |
+| HELL'S KITCHEN | 4.00% | ~13,119 |
+| INDIVIDUAL APPROACH | 4.00% | ~13,119 |
+| CELEBRITY | 3.00% | ~9,839 |
+| MARTYR | 3.00% | ~9,839 |
+| GRATITUDE | 2.00% | ~6,559 |
+| PATTY-KILLER | 1.00% | ~3,280 |
+| PRUDENT | 1.00% | ~3,280 |
+| GOURMET | 0.90% | ~2,952 |
+| LAW-ABIDING CITIZEN | 0.80% | ~2,624 |
+| EXPERIMENTALIST | 0.70% | ~2,296 |
 | SCATTERBRAIN | 0.50% | ~1,640 |
 | HIGH TECHNOLOGIES | 0.40% | ~1,312 |
 | TASTE UNTASTY | 0.40% | ~1,312 |
@@ -34,7 +34,7 @@ Rating: 4.47 (Ranked 622)
 | MISTER ALL THUMBS | 0.10% | ~328 |
 | TRAVELER | 0.10% | ~328 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 327,904 (Ranked 45)  
+Progressed: 327,969 (Ranked 45)  
 Completed: 14 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 14 (0.00%) (Ranked 316)
 | 2023-10-16 | 322,358 | 12 |
 | 2023-10-17 | 325,069 | 14 |
 | 2023-10-18 | 327,541 | 14 |
-| 2023-10-19 | 327,904 | 14 |
+| 2023-10-19 | 327,969 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

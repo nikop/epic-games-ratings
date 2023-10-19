@@ -5,31 +5,31 @@ Rating: 4.18 (Ranked 902)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The touch of Chaos | 38.00% | ~106,300 |
-| May the Torchbearer light our way | 36.00% | ~100,705 |
-| A powerful aura was here | 23.00% | ~64,339 |
-| Let's raise the stakes!! | 10.00% | ~27,974 |
-| Your wounds… They are healing so fast! | 6.00% | ~16,784 |
-| Rumors are true | 5.00% | ~13,987 |
-| Pride is a sin, young Knight | 5.00% | ~13,987 |
-| Bring it on! | 5.00% | ~13,987 |
-| We'll be careful | 4.00% | ~11,189 |
-| Back to your senses | 3.00% | ~8,392 |
+| The touch of Chaos | 38.00% | ~106,313 |
+| May the Torchbearer light our way | 36.00% | ~100,718 |
+| A powerful aura was here | 23.00% | ~64,348 |
+| Let's raise the stakes!! | 10.00% | ~27,977 |
+| Your wounds… They are healing so fast! | 6.00% | ~16,786 |
+| Rumors are true | 5.00% | ~13,989 |
+| Pride is a sin, young Knight | 5.00% | ~13,989 |
+| Bring it on! | 5.00% | ~13,989 |
+| We'll be careful | 4.00% | ~11,191 |
+| Back to your senses | 3.00% | ~8,393 |
 | They tricked me | 2.00% | ~5,595 |
 | We need to talk | 2.00% | ~5,595 |
 | They won't last long | 2.00% | ~5,595 |
 | I took a risk | 2.00% | ~5,595 |
-| I feel drawn to it | 1.00% | ~2,797 |
-| Here to stay | 1.00% | ~2,797 |
-| Counting on you | 1.00% | ~2,797 |
-| This is the end | 1.00% | ~2,797 |
-| We can choose to fight | 1.00% | ~2,797 |
-| Their fate is sealed | 1.00% | ~2,797 |
-| Not even from this world | 0.60% | ~1,678 |
+| I feel drawn to it | 1.00% | ~2,798 |
+| Here to stay | 1.00% | ~2,798 |
+| Counting on you | 1.00% | ~2,798 |
+| This is the end | 1.00% | ~2,798 |
+| We can choose to fight | 1.00% | ~2,798 |
+| Their fate is sealed | 1.00% | ~2,798 |
+| Not even from this world | 0.60% | ~1,679 |
 | You want more? I've got more! | 0.50% | ~1,399 |
 | No damsels in distress | 0.30% | ~839 |
-| The Ashen Knight | 0.20% | ~559 |
-| Through the Veil | 0.20% | ~559 |
+| The Ashen Knight | 0.20% | ~560 |
+| Through the Veil | 0.20% | ~560 |
 | The immortal is bound to reborn | 0.10% | ~280 |
 | A legend among Chimeras | 0.10% | ~280 |
 | It's only pain | 0.10% | ~280 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 902)
 | We strike as one | 0.10% | ~280 |
 | Chaos be damned! | 0.10% | ~280 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 279,736 (Ranked 49)  
+Progressed: 279,772 (Ranked 49)  
 Completed: 1 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,7 +72,7 @@ Completed: 1 (0.00%) (Ranked 316)
 | 2023-10-16 | 276,376 | 1 |
 | 2023-10-17 | 278,045 | 1 |
 | 2023-10-18 | 279,492 | 1 |
-| 2023-10-19 | 279,736 | 1 |
+| 2023-10-19 | 279,772 | 1 |
 ## Awards
 Max (Great Boss Battles): 33  (Ranked 469)  
 Sum: 33 (Ranked 492)  

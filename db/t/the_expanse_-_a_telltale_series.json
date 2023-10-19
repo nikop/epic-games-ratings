@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -169,9 +169,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14112,
+  "EOS_Progressed": 14113,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 244,
+  "EOS_NewPlayers": 245,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -9024,6 +9024,11 @@
       "Time": "2023-10-19T04:03:58.6661864+00:00",
       "NumProgressed": 14112,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-10-19T05:04:00.5638134+00:00",
+      "NumProgressed": 14113,
+      "NumCompleted": 26
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -9060,7 +9065,7 @@
       "Name": "Data Archivist",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "13",
@@ -9116,7 +9121,7 @@
       "Name": "Martian Music",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "2",
@@ -9156,7 +9161,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "24",
@@ -9178,9 +9183,9 @@
       "ID": "26",
       "SetID": "458bbdk",
       "Name": "Call it Even",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 564
+      "UsersEstimate": 706
     },
     {
       "ID": "27",
@@ -9212,7 +9217,7 @@
       "Name": "Captain Drummer",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "30",
@@ -9244,7 +9249,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "7",
@@ -9268,29 +9273,29 @@
       "Name": "Impossible Objects",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14112,
+      "Progressed": 14113,
       "Completed": 26
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 66,
-      "Completed": 66
+      "Progressed": 67,
+      "Completed": 67
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-13T09:00:57.1370573+00:00",
-  "LastChanged_Achievements": "2023-10-19T04:03:58.6661861+00:00",
+  "LastChanged_Achievements": "2023-10-19T05:04:00.5638129+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:40.5814563+00:00",
-  "LastUpdate_Ratings": "2023-10-19T03:57:51.0642641+00:00",
-  "LastUpdate_Achievements": "2023-10-19T04:03:58.6662821+00:00"
+  "LastUpdate_Ratings": "2023-10-19T04:57:51.4500599+00:00",
+  "LastUpdate_Achievements": "2023-10-19T05:04:00.5638941+00:00"
 }

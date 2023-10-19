@@ -6,17 +6,17 @@ Rating: 4.46 (Ranked 630)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 46.00% | ~1,727 |
-| Confirming Suspicions | 41.00% | ~1,539 |
+| Confirming Suspicions | 41.00% | ~1,540 |
 | The Kraken Wakes | 37.00% | ~1,389 |
-| It's Starting to Crack | 34.00% | ~1,276 |
+| It's Starting to Crack | 34.00% | ~1,277 |
 | Change the Channel | 31.00% | ~1,164 |
 | Lord of War | 30.00% | ~1,126 |
-| Taking it back | 29.00% | ~1,089 |
+| Taking it back | 28.00% | ~1,051 |
 | Resourceful | 27.00% | ~1,014 |
 | Target America | 26.00% | ~976 |
 | The Kraken Sleeps | 24.00% | ~901 |
-| Organ Grinder | 23.00% | ~863 |
-| As Quiet as a Mouse | 23.00% | ~863 |
+| Organ Grinder | 23.00% | ~864 |
+| As Quiet as a Mouse | 23.00% | ~864 |
 | Liberté | 22.00% | ~826 |
 | Sharpshooter | 22.00% | ~826 |
 | Explosive Efficiency | 19.00% | ~713 |
@@ -34,8 +34,8 @@ Rating: 4.46 (Ranked 630)
 | Die Nussknacker Sweet! | 14.00% | ~526 |
 | Enemy at the Gates | 13.00% | ~488 |
 | Set Europe Ablaze | 13.00% | ~488 |
-| Precision Is Key | 10.00% | ~375 |
-| My Little Friend | 10.00% | ~375 |
+| Precision Is Key | 10.00% | ~376 |
+| My Little Friend | 10.00% | ~376 |
 | Rigged to Blow | 9.00% | ~338 |
 | Herr Today, Gone Tomorrow | 7.00% | ~259 |
 | Operation Foxley | 6.00% | ~222 |
@@ -77,8 +77,8 @@ Rating: 4.46 (Ranked 630)
 | Stroll in the Woods | 0.60% | ~22 |
 | Going Overboard | 0.60% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,754 (Ranked 179)  
-Completed: 11 (0.29%) (Ranked 210)  
+Progressed: 3,755 (Ranked 179)  
+Completed: 11 (0.29%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -257,6 +257,7 @@ Completed: 11 (0.29%) (Ranked 210)
 | 2023-10-16 | 3,749 | 11 |
 | 2023-10-17 | 3,752 | 11 |
 | 2023-10-18 | 3,754 | 11 |
+| 2023-10-19 | 3,755 | 11 |
 ## Awards
 Max (Great for Beginners): 21  (Ranked 527)  
 Sum: 21 (Ranked 528)  

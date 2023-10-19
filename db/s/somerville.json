@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-11-15T00:00:00+00:00",
@@ -659,9 +659,9 @@
       "ID": "SomervilleFamilyFirst",
       "SetID": "3mk3nll",
       "Name": "Family First",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "SomervilleFraternizingWithEnemy",
@@ -715,9 +715,9 @@
       "ID": "SomervilleWarOfTheWorlds",
       "SetID": "3mk3nll",
       "Name": "War of the worlds",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "SomervilleWearyTraveller",
@@ -748,8 +748,8 @@
   "FirstSeenRating": "2022-11-25T17:58:18.0029626+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:11.8533708+00:00",
   "LastChanged": "2023-03-31T05:58:16.104552+00:00",
-  "LastChanged_Achievements": "2023-10-19T04:05:39.7186614+00:00",
+  "LastChanged_Achievements": "2023-10-19T05:05:42.2656407+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:24.5491709+00:00",
   "LastUpdate_Ratings": "2023-10-19T04:00:39.9880688+00:00",
-  "LastUpdate_Achievements": "2023-10-19T04:05:39.7186737+00:00"
+  "LastUpdate_Achievements": "2023-10-19T05:05:42.2656541+00:00"
 }

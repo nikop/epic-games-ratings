@@ -10,20 +10,20 @@ Rating: 4.19 (Ranked 895)
 | Flesh Wound | 5.00% | ~802 |
 | Float Like A Butterfly | 5.00% | ~802 |
 | Keep Fighting | 5.00% | ~198 |
-| You Need a Gun | 4.00% | ~641 |
-| I Do Belong Here | 4.00% | ~641 |
-| Two Heads Are Better Than One | 4.00% | ~641 |
-| Chew 'Em Up | 4.00% | ~641 |
-| Workplace Hazard | 4.00% | ~641 |
-| Reforged | 4.00% | ~641 |
-| The Outer Way | 4.00% | ~641 |
-| If the SHU Fits... | 4.00% | ~641 |
-| Without A Paddle | 4.00% | ~641 |
-| In the Pipe, Five by Five | 4.00% | ~641 |
-| What Lies Beneath | 4.00% | ~641 |
-| Crash Site | 4.00% | ~641 |
-| Full Circle | 4.00% | ~641 |
-| Power Up | 4.00% | ~641 |
+| You Need a Gun | 4.00% | ~642 |
+| I Do Belong Here | 4.00% | ~642 |
+| Two Heads Are Better Than One | 4.00% | ~642 |
+| Chew 'Em Up | 4.00% | ~642 |
+| Workplace Hazard | 4.00% | ~642 |
+| Reforged | 4.00% | ~642 |
+| The Outer Way | 4.00% | ~642 |
+| If the SHU Fits... | 4.00% | ~642 |
+| Without A Paddle | 4.00% | ~642 |
+| In the Pipe, Five by Five | 4.00% | ~642 |
+| What Lies Beneath | 4.00% | ~642 |
+| Crash Site | 4.00% | ~642 |
+| Full Circle | 4.00% | ~642 |
+| Power Up | 4.00% | ~642 |
 | It's Time | 4.00% | ~159 |
 | Giving Back | 3.00% | ~481 |
 | Terminated | 3.00% | ~481 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 895)
 | Hoard Mode | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,037 (Ranked 133)  
+Progressed: 16,039 (Ranked 133)  
 Completed: 75 (0.47%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 75 (0.47%) (Ranked 180)
 | 2023-10-16 | 16,015 | 75 |
 | 2023-10-17 | 16,022 | 75 |
 | 2023-10-18 | 16,031 | 75 |
-| 2023-10-19 | 16,037 | 75 |
+| 2023-10-19 | 16,039 | 75 |
 ## Awards
 Max (Highly Recommended): 76  (Ranked 379)  
 Sum: 447 (Ranked 324)  

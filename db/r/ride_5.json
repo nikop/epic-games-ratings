@@ -4,7 +4,7 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1545,
+  "EOS_Progressed": 1547,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3072,6 +3072,11 @@
       "Time": "2023-10-19T04:09:15.9752528+00:00",
       "NumProgressed": 1545,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-19T05:09:06.0545355+00:00",
+      "NumProgressed": 1547,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -3084,7 +3089,7 @@
       "Name": "First Love",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -3092,7 +3097,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -3100,7 +3105,7 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -3292,7 +3297,7 @@
       "Name": "Clean Race",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -3340,7 +3345,7 @@
       "Name": "We\u0027ve Just Begun",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -3372,7 +3377,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -3380,7 +3385,7 @@
       "Name": "Eat My Dust",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -3475,14 +3480,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1545,
+      "Progressed": 1547,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-19T04:09:15.9752525+00:00",
+  "LastChanged_Achievements": "2023-10-19T05:09:06.0545348+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:05.5662527+00:00",
-  "LastUpdate_Ratings": "2023-10-19T03:58:37.8822571+00:00",
-  "LastUpdate_Achievements": "2023-10-19T04:09:15.9753158+00:00"
+  "LastUpdate_Ratings": "2023-10-19T04:58:37.8428842+00:00",
+  "LastUpdate_Achievements": "2023-10-19T05:09:06.0545975+00:00"
 }

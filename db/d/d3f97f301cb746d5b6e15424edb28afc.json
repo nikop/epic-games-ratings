@@ -975,9 +975,9 @@
       "ID": "GSS_ACH_44_CARAVAN_03",
       "SetID": "5fn8ia4",
       "Name": "Business is Thriving",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "GSS_ACH_45_ORDER_PRODUCTS",
@@ -1023,9 +1023,9 @@
       "ID": "GSS_ACH_50_UPGRADE_STATION_04",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 5",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 35
+      "UsersEstimate": 37
     },
     {
       "ID": "GSS_ACH_51_UPGRADE_WORKSHOP_01",
@@ -1294,8 +1294,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-19T04:04:34.1096971+00:00",
+  "LastChanged_Achievements": "2023-10-19T05:04:36.357266+00:00",
   "LastUpdate_AppInfo": "2023-10-16T13:57:01.0346306+00:00",
-  "LastUpdate_Ratings": "2023-10-19T03:57:16.9663395+00:00",
-  "LastUpdate_Achievements": "2023-10-19T04:04:34.1098085+00:00"
+  "LastUpdate_Ratings": "2023-10-19T04:57:18.0736258+00:00",
+  "LastUpdate_Achievements": "2023-10-19T05:04:36.3573734+00:00"
 }

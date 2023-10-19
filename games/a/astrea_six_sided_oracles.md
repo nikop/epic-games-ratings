@@ -21,9 +21,9 @@
 | Loyal Partner | 22.00% | ~13 |
 | Aquarian Champion | 22.00% | ~13 |
 | Anomaly Destroyer | 21.00% | ~12 |
+| Heart Gate | 19.00% | ~11 |
 | Shard Spender | 19.00% | ~11 |
 | Star Killer | 19.00% | ~11 |
-| Heart Gate | 17.00% | ~10 |
 | Astral Adventurer | 16.00% | ~9 |
 | Astral Seeker | 16.00% | ~9 |
 | The Corruption Goddess | 16.00% | ~9 |

@@ -5,8 +5,8 @@ Rating: 4.54 (Ranked 514)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 4.00% | ~27,917 |
-| Welcome To Hell-A | 4.00% | ~27,917 |
+| Hotel California | 4.00% | ~27,918 |
+| Welcome To Hell-A | 4.00% | ~27,918 |
 | Dr. Reed, I Presume? | 3.00% | ~20,938 |
 | Git Gutte! | 3.00% | ~20,938 |
 | Bookworm | 3.00% | ~20,938 |
@@ -22,27 +22,27 @@ Rating: 4.54 (Ranked 514)
 | Stacking the Deck | 3.00% | ~20,938 |
 | Personal Assistant Personally Assisted | 3.00% | ~20,938 |
 | This is My Weapon | 3.00% | ~20,938 |
-| Making Your Mark | 2.00% | ~13,958 |
-| Anger Management | 2.00% | ~13,958 |
-| Perks of the Job | 2.00% | ~13,958 |
-| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,958 |
-| Slayer Squad | 2.00% | ~13,958 |
-| Zombologist | 2.00% | ~13,958 |
-| Ooh, Shiny! | 2.00% | ~13,958 |
-| Humanity Distilled | 2.00% | ~13,958 |
-| I Am the Resurrection | 2.00% | ~13,958 |
-| Down with the Sickness | 2.00% | ~13,958 |
-| Our True Nature | 2.00% | ~13,958 |
+| Making Your Mark | 2.00% | ~13,959 |
+| Anger Management | 2.00% | ~13,959 |
+| Perks of the Job | 2.00% | ~13,959 |
+| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,959 |
+| Slayer Squad | 2.00% | ~13,959 |
+| Zombologist | 2.00% | ~13,959 |
+| Ooh, Shiny! | 2.00% | ~13,959 |
+| Humanity Distilled | 2.00% | ~13,959 |
+| I Am the Resurrection | 2.00% | ~13,959 |
+| Down with the Sickness | 2.00% | ~13,959 |
+| Our True Nature | 2.00% | ~13,959 |
 | Smorgasbord | 1.00% | ~6,979 |
 | Jumbo Keyring | 1.00% | ~6,979 |
 | Max Headroom | 1.00% | ~6,979 |
 | Go, Bobcats! | 1.00% | ~6,979 |
 | Rising Star | 1.00% | ~6,979 |
-| Not Even My Final Form | 0.80% | ~5,583 |
-| Internet Famous | 0.80% | ~5,583 |
-| Make it So | 0.70% | ~4,885 |
-| On Safari | 0.70% | ~4,885 |
-| Variety is the Spice of Death | 0.70% | ~4,885 |
+| Not Even My Final Form | 0.80% | ~5,584 |
+| Internet Famous | 0.80% | ~5,584 |
+| Make it So | 0.70% | ~4,886 |
+| On Safari | 0.70% | ~4,886 |
+| Variety is the Spice of Death | 0.70% | ~4,886 |
 | LA Influential | 0.50% | ~3,490 |
 | Gore Horse | 0.50% | ~3,490 |
 | Sharpest Tool in the Box | 0.50% | ~3,490 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 514)
 | Donk! | 0.20% | ~1,396 |
 | Bucket List | 0.10% | ~698 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 697,923 (Ranked 22)  
+Progressed: 697,948 (Ranked 22)  
 Completed: 2,242 (0.32%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,7 +233,7 @@ Completed: 2,242 (0.32%) (Ranked 201)
 | 2023-10-16 | 696,890 | 2,235 |
 | 2023-10-17 | 697,259 | 2,238 |
 | 2023-10-18 | 697,769 | 2,242 |
-| 2023-10-19 | 697,923 | 2,242 |
+| 2023-10-19 | 697,948 | 2,242 |
 ## Awards
 Max (Great Boss Battles): 6,500  (Ranked 56)  
 Sum: 9,729 (Ranked 91)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 219,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2493,9 +2493,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26609,
+  "EOS_Progressed": 26613,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 249,
+  "EOS_NewPlayers": 252,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -15373,6 +15373,11 @@
       "Time": "2023-10-19T02:20:51.0442263+00:00",
       "NumProgressed": 26609,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-10-19T05:03:59.6850254+00:00",
+      "NumProgressed": 26613,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 51,
@@ -15656,7 +15661,7 @@
       "Name": "Side Hustle",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "Skilled",
@@ -15696,7 +15701,7 @@
       "Name": "Summoner",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "Surprise",
@@ -15791,7 +15796,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26609,
+      "Progressed": 26613,
       "Completed": 59
     }
   ],
@@ -15799,8 +15804,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-19T02:16:59.9386058+00:00",
-  "LastChanged_Achievements": "2023-10-19T04:03:57.7308287+00:00",
+  "LastChanged_Achievements": "2023-10-19T05:03:59.6850248+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:17.9420656+00:00",
-  "LastUpdate_Ratings": "2023-10-19T03:59:35.2508968+00:00",
-  "LastUpdate_Achievements": "2023-10-19T04:03:57.7309566+00:00"
+  "LastUpdate_Ratings": "2023-10-19T04:59:39.3568579+00:00",
+  "LastUpdate_Achievements": "2023-10-19T05:03:59.6851401+00:00"
 }

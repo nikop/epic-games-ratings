@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 279,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -329,9 +329,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 111622,
+  "EOS_Progressed": 111625,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 708,
+  "EOS_NewPlayers": 710,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -14879,6 +14879,11 @@
       "Time": "2023-10-19T04:05:37.2779219+00:00",
       "NumProgressed": 111622,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-10-19T05:05:39.9744457+00:00",
+      "NumProgressed": 111625,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 49,
@@ -14898,7 +14903,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 85949
+      "UsersEstimate": 85951
     },
     {
       "ID": "EAwards_10",
@@ -14906,7 +14911,7 @@
       "Name": "Juan Punch Man",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12278
+      "UsersEstimate": 12279
     },
     {
       "ID": "EAwards_11",
@@ -14922,7 +14927,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 16743
+      "UsersEstimate": 16744
     },
     {
       "ID": "EAwards_13",
@@ -14962,7 +14967,7 @@
       "Name": "Talented Player",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 40184
+      "UsersEstimate": 40185
     },
     {
       "ID": "EAwards_18",
@@ -14978,7 +14983,7 @@
       "Name": "One Born Every Minute",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 6697
+      "UsersEstimate": 6698
     },
     {
       "ID": "EAwards_2",
@@ -14986,7 +14991,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 53579
+      "UsersEstimate": 53580
     },
     {
       "ID": "EAwards_20",
@@ -15010,7 +15015,7 @@
       "Name": "Combo Machine",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 6697
+      "UsersEstimate": 6698
     },
     {
       "ID": "EAwards_23",
@@ -15034,7 +15039,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 21208
+      "UsersEstimate": 21209
     },
     {
       "ID": "EAwards_26",
@@ -15042,7 +15047,7 @@
       "Name": "I have nothing left to teach you",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 12278
+      "UsersEstimate": 12279
     },
     {
       "ID": "EAwards_27",
@@ -15074,7 +15079,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 21208
+      "UsersEstimate": 21209
     },
     {
       "ID": "EAwards_30",
@@ -15281,7 +15286,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 111622,
+      "Progressed": 111625,
       "Completed": 47
     }
   ],
@@ -15289,8 +15294,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-25T16:00:07.3978241+00:00",
-  "LastChanged_Achievements": "2023-10-19T04:05:37.2779215+00:00",
+  "LastChanged_Achievements": "2023-10-19T05:05:39.9744449+00:00",
   "LastUpdate_AppInfo": "2023-10-13T01:42:07.6726517+00:00",
-  "LastUpdate_Ratings": "2023-10-19T04:00:18.6596661+00:00",
-  "LastUpdate_Achievements": "2023-10-19T04:05:37.2780514+00:00"
+  "LastUpdate_Ratings": "2023-10-19T05:00:19.9032832+00:00",
+  "LastUpdate_Achievements": "2023-10-19T05:05:39.974582+00:00"
 }

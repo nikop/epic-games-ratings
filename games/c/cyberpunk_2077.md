@@ -6,31 +6,31 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 71.00% | ~633,762 |
-| Right Back At Ya | 45.00% | ~401,680 |
+| The Fool | 71.00% | ~633,763 |
+| Right Back At Ya | 45.00% | ~401,681 |
 | The Lovers | 39.00% | ~348,123 |
-| Stanislavski's Method | 34.00% | ~303,491 |
-| The Wheel of Fortune | 33.00% | ~294,565 |
+| Stanislavski's Method | 34.00% | ~303,492 |
+| The Wheel of Fortune | 33.00% | ~294,566 |
 | The Hermit | 30.00% | ~267,787 |
 | The High Priestess | 30.00% | ~267,787 |
-| True Soldier | 29.00% | ~258,860 |
+| True Soldier | 29.00% | ~258,861 |
 | Christmas Tree Attack | 26.00% | ~232,082 |
-| Full Body Conversion | 24.00% | ~214,229 |
-| Life of the Road | 23.00% | ~205,303 |
+| Full Body Conversion | 24.00% | ~214,230 |
+| Life of the Road | 23.00% | ~205,304 |
 | Ten out of Ten | 22.00% | ~196,377 |
 | The World | 22.00% | ~196,377 |
 | Master Crafter | 21.00% | ~187,451 |
-| True Warrior | 20.00% | ~178,524 |
-| Bushido and Chill | 19.00% | ~169,598 |
+| True Warrior | 20.00% | ~178,525 |
+| Bushido and Chill | 19.00% | ~169,599 |
 | Gun Fu | 18.00% | ~160,672 |
 | I Am The Law | 16.00% | ~142,820 |
-| To Protect and Serve | 15.00% | ~133,893 |
+| To Protect and Serve | 15.00% | ~133,894 |
 | Breathtaking | 14.00% | ~124,967 |
 | The Quick and the Dead | 13.00% | ~116,041 |
 | Rough Landing | 13.00% | ~116,041 |
 | The Jungle | 12.00% | ~107,115 |
-| To Bad Decisions! | 11.00% | ~98,188 |
-| The Wandering Fool | 11.00% | ~98,188 |
+| To Bad Decisions! | 11.00% | ~98,189 |
+| The Wandering Fool | 11.00% | ~98,189 |
 | Gunslinger | 10.00% | ~89,262 |
 | Mean Streets | 10.00% | ~89,262 |
 | Temperance | 9.00% | ~80,336 |
@@ -64,7 +64,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 892,622 (Ranked 15)  
+Progressed: 892,624 (Ranked 15)  
 Completed: 2,683 (0.30%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,10 +246,10 @@ Completed: 2,683 (0.30%) (Ranked 206)
 | 2023-10-16 | 892,285 | 2,674 |
 | 2023-10-17 | 892,443 | 2,678 |
 | 2023-10-18 | 892,603 | 2,683 |
-| 2023-10-19 | 892,622 | 2,683 |
+| 2023-10-19 | 892,624 | 2,683 |
 ## Awards
 Max (Character Customization): 99,323  (Ranked 9)  
-Sum: 311,872 (Ranked 11)  
+Sum: 312,020 (Ranked 11)  
 Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |
@@ -261,8 +261,8 @@ Diff (max vs sum): -2
 | This game has Amazing Storytelling | 16,528 |
 | This game is Extremely Fun | 16,288 |
 | This game has Amazing Characters | 16,252 |
+| This game is Relaxing | 15,741 |
 | This game has Quickly Understood Controls | 15,647 |
-| This game is Relaxing | 15,593 |
 | This game has a Creative Community | 10,733 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -540,4 +540,4 @@ Diff (max vs sum): -2
 | 2023-10-16 | 4.64 | - | 98,623 | 306,605 |
 | 2023-10-17 | 4.64 | - | 98,980 | 308,884 |
 | 2023-10-18 | 4.64 | - | 99,323 | 311,170 |
-| 2023-10-19 | 4.64 | - | 99,323 | 311,872 |
+| 2023-10-19 | 4.64 | - | 99,323 | 312,020 |
