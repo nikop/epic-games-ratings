@@ -5,18 +5,18 @@ Rating: 3.38 (Ranked 1,018)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's Good to have Allies | 29.00% | ~471 |
-| Defenses Online | 26.00% | ~422 |
-| Facility Online | 21.00% | ~341 |
-| Corporal | 16.00% | ~260 |
+| It's Good to have Allies | 29.00% | ~472 |
+| Defenses Online | 26.00% | ~423 |
+| Facility Online | 21.00% | ~342 |
+| Corporal | 15.00% | ~244 |
 | Sergeant | 12.00% | ~195 |
 | Covert Operative | 12.00% | ~195 |
-| Keeping Busy | 10.00% | ~162 |
-| Lieutenant | 10.00% | ~162 |
-| Getting Deployment | 10.00% | ~162 |
-| Stocking Up | 10.00% | ~162 |
-| On Target | 10.00% | ~162 |
-| Infantry Reporting | 10.00% | ~162 |
+| Keeping Busy | 10.00% | ~163 |
+| Lieutenant | 10.00% | ~163 |
+| Getting Deployment | 10.00% | ~163 |
+| Stocking Up | 10.00% | ~163 |
+| On Target | 10.00% | ~163 |
+| Infantry Reporting | 10.00% | ~163 |
 | Fighting for Survival | 8.00% | ~130 |
 | Silver Competitor | 8.00% | ~130 |
 | Captain | 8.00% | ~130 |
@@ -31,10 +31,10 @@ Rating: 3.38 (Ranked 1,018)
 | Gold Achiever | 3.00% | ~49 |
 | Resourceful | 3.00% | ~49 |
 | Control the Skies | 3.00% | ~49 |
-| Advanced Warfare | 2.00% | ~32 |
-| Colonel | 2.00% | ~32 |
-| Seek & Destroy | 2.00% | ~32 |
-| Battle Ready | 2.00% | ~32 |
+| Advanced Warfare | 2.00% | ~33 |
+| Colonel | 2.00% | ~33 |
+| Seek & Destroy | 2.00% | ~33 |
+| Battle Ready | 2.00% | ~33 |
 | General | 1.00% | ~16 |
 | Titan Tanks | 1.00% | ~16 |
 | Shock Troops | 1.00% | ~16 |
@@ -44,7 +44,7 @@ Rating: 3.38 (Ranked 1,018)
 | Platinum Achiever | 0.10% | ~2 |
 | Platinum Competitor | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,625 (Ranked 215)  
+Progressed: 1,627 (Ranked 215)  
 Completed: 1 (0.06%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,7 +177,7 @@ Completed: 1 (0.06%) (Ranked 269)
 | 2023-10-16 | 1,615 | 1 |
 | 2023-10-17 | 1,622 | 1 |
 | 2023-10-18 | 1,624 | 1 |
-| 2023-10-19 | 1,625 | 1 |
+| 2023-10-19 | 1,627 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

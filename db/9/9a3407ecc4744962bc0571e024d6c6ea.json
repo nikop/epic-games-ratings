@@ -4,8 +4,8 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
     "PcReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -2112,9 +2112,9 @@
       "ID": "DarkestBeforeTheDawn",
       "SetID": "3ai6ml8",
       "Name": "Darkest Before the Dawn",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 365
+      "UsersEstimate": 373
     },
     {
       "ID": "DrinkingOnTheJob",
@@ -2231,8 +2231,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-10-19T20:06:00.1473955+00:00",
+  "LastChanged_Achievements": "2023-10-19T21:06:09.2371508+00:00",
   "LastUpdate_AppInfo": "2023-10-18T15:57:15.9146264+00:00",
-  "LastUpdate_Ratings": "2023-10-19T20:01:00.4411016+00:00",
-  "LastUpdate_Achievements": "2023-10-19T20:06:00.1474315+00:00"
+  "LastUpdate_Ratings": "2023-10-19T21:01:16.8342142+00:00",
+  "LastUpdate_Achievements": "2023-10-19T21:06:09.2371789+00:00"
 }

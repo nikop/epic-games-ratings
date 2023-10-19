@@ -33,9 +33,9 @@ Number of Ratings: 1,354  (23.09.2022)
 | Heroic Victory | 3.00% | ~348 |
 | Core of the Riddle | 3.00% | ~348 |
 | Hey, I Know You! | 3.00% | ~348 |
-| Hanged Man's Notes | 3.00% | ~311 |
-| The Lady of the Forest | 3.00% | ~311 |
-| Beware Still Water | 3.00% | ~311 |
+| Hanged Man's Notes | 3.00% | ~312 |
+| The Lady of the Forest | 3.00% | ~312 |
+| Beware Still Water | 3.00% | ~312 |
 | Path of the Demon | 2.00% | ~232 |
 | Path of the Aeon | 2.00% | ~232 |
 | Path of the Lich | 2.00% | ~232 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,600 (Ranked 146)  
+Progressed: 11,602 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 0 (0.00%) (Ranked 316)
 | 2023-10-16 | 11,539 | 0 |
 | 2023-10-17 | 11,545 | 0 |
 | 2023-10-18 | 11,567 | 0 |
-| 2023-10-19 | 11,600 | 0 |
+| 2023-10-19 | 11,602 | 0 |
 ## Awards
 Max (Character Customization): 1,726  (Ranked 119)  
 Sum: 6,993 (Ranked 115)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 112,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -413,10 +413,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22391,
+  "EOS_Progressed": 22396,
   "EOS_Completed": 441,
-  "EOS_NewPlayers": 428,
-  "EOS_NewCompleters": 6,
+  "EOS_NewPlayers": 429,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.97,
   "EosHistory": [
     {
@@ -19988,6 +19988,11 @@
       "Time": "2023-10-19T20:05:14.6630317+00:00",
       "NumProgressed": 22391,
       "NumCompleted": 441
+    },
+    {
+      "Time": "2023-10-19T21:05:23.7921348+00:00",
+      "NumProgressed": 22396,
+      "NumCompleted": 441
     }
   ],
   "TotalAchievements": 20,
@@ -19999,7 +20004,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 3806
+      "UsersEstimate": 3807
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -20007,7 +20012,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1343
+      "UsersEstimate": 1344
     },
     {
       "ID": "EAST_FINISHED",
@@ -20023,7 +20028,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2015
+      "UsersEstimate": 2016
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -20031,7 +20036,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2463
+      "UsersEstimate": 2464
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -20039,7 +20044,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 2239
+      "UsersEstimate": 2240
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -20047,7 +20052,7 @@
       "Name": "An uninvited guest",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1791
+      "UsersEstimate": 1792
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -20055,7 +20060,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2687
+      "UsersEstimate": 2688
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -20079,7 +20084,7 @@
       "Name": "Tails of Stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1343
+      "UsersEstimate": 1344
     },
     {
       "ID": "FOUND_MAMBA",
@@ -20087,7 +20092,7 @@
       "Name": "Baa from the past",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1343
+      "UsersEstimate": 1344
     },
     {
       "ID": "FOUND_RIFT_CAVE",
@@ -20103,7 +20108,7 @@
       "Name": "Written in stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1343
+      "UsersEstimate": 1344
     },
     {
       "ID": "GAME_FINISHED",
@@ -20111,7 +20116,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2687
+      "UsersEstimate": 2688
     },
     {
       "ID": "INTRO_FINISHED",
@@ -20119,15 +20124,15 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 17241
+      "UsersEstimate": 17245
     },
     {
       "ID": "LAMBABY_LOVE",
       "SetID": "b6m2mm5",
       "Name": "Mama?",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 6046
+      "UsersEstimate": 6271
     },
     {
       "ID": "NORTH_FINISHED",
@@ -20143,7 +20148,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1343
+      "UsersEstimate": 1344
     },
     {
       "ID": "WEST_FINISHED",
@@ -20151,22 +20156,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 4030
+      "UsersEstimate": 4031
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 22391,
+      "Progressed": 22396,
       "Completed": 441
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-19T20:05:14.6630306+00:00",
+  "LastChanged_Achievements": "2023-10-19T21:05:23.7921343+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:17.0806119+00:00",
-  "LastUpdate_Ratings": "2023-10-19T19:59:49.9163422+00:00",
-  "LastUpdate_Achievements": "2023-10-19T20:05:14.6632012+00:00"
+  "LastUpdate_Ratings": "2023-10-19T21:00:08.9078488+00:00",
+  "LastUpdate_Achievements": "2023-10-19T21:05:23.7922752+00:00"
 }

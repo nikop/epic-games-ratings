@@ -4,8 +4,8 @@
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6591,
+  "EOS_Progressed": 6593,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11514,6 +11514,11 @@
       "Time": "2023-10-19T17:08:46.2063682+00:00",
       "NumProgressed": 6591,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-19T21:03:20.1809438+00:00",
+      "NumProgressed": 6593,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -11525,7 +11530,7 @@
       "Name": "First Step",
       "Percentage": 35,
       "XP": 45,
-      "UsersEstimate": 2307
+      "UsersEstimate": 2308
     },
     {
       "ID": "10",
@@ -11581,7 +11586,7 @@
       "Name": "Dense Forest",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 1911
+      "UsersEstimate": 1912
     },
     {
       "ID": "3",
@@ -11613,7 +11618,7 @@
       "Name": "High Treetops",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "7",
@@ -11621,7 +11626,7 @@
       "Name": "Blue Rapids",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "8",
@@ -11637,14 +11642,14 @@
       "Name": "Speed\u00A0walkers",
       "Percentage": 6,
       "XP": 65,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     }
   ],
   "AchievementSets": [
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 6591,
+      "Progressed": 6593,
       "Completed": 0
     }
   ],
@@ -11652,8 +11657,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-10-19T20:03:21.4981566+00:00",
+  "LastChanged_Achievements": "2023-10-19T21:03:20.1809435+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:13.2904426+00:00",
-  "LastUpdate_Ratings": "2023-10-19T19:59:39.2776092+00:00",
-  "LastUpdate_Achievements": "2023-10-19T20:03:21.4983227+00:00"
+  "LastUpdate_Ratings": "2023-10-19T20:59:58.2503628+00:00",
+  "LastUpdate_Achievements": "2023-10-19T21:03:20.1810401+00:00"
 }

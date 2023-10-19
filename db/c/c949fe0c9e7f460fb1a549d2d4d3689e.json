@@ -2,10 +2,10 @@
   "ID": "c949fe0c9e7f460fb1a549d2d4d3689e",
   "Name": "Torch Cave 2: The Trail of Ashes",
   "ProductSlug": "torch-cave-2-the-trail-of-ashes-e0deec",
-  "Ranking_EOS_Progress": 682,
+  "Ranking_EOS_Progress": 683,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 406,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-09-01T14:00:00+00:00",
     "PcReleaseDate": "2023-09-01T14:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-16T20:57:07.4203208+00:00",
-  "LastUpdate_Ratings": "2023-10-19T20:00:26.8895627+00:00",
-  "LastUpdate_Achievements": "2023-10-19T20:03:39.8842372+00:00"
+  "LastUpdate_Ratings": "2023-10-19T21:00:43.1875508+00:00",
+  "LastUpdate_Achievements": "2023-10-19T21:03:38.9040544+00:00"
 }

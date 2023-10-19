@@ -2,10 +2,10 @@
   "ID": "a3499df604cc40488fdba44d01acd1fd",
   "Name": "Champions Ascension",
   "ProductSlug": "champions-ascension-aa77be",
-  "Ranking_EOS_Progress": 682,
+  "Ranking_EOS_Progress": 683,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 406,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-11-30T00:00:00+00:00",
     "PcReleaseDate": "2022-09-15T16:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-18T13:57:21.0265023+00:00",
-  "LastUpdate_Ratings": "2023-10-19T19:57:33.9233374+00:00",
-  "LastUpdate_Achievements": "2023-10-19T20:07:34.9316828+00:00"
+  "LastUpdate_Ratings": "2023-10-19T20:57:46.8968059+00:00",
+  "LastUpdate_Achievements": "2023-10-19T21:07:43.138792+00:00"
 }

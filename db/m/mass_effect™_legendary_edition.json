@@ -4,8 +4,8 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -2539,9 +2539,9 @@
       "ID": "achievement_59",
       "SetID": "d252ncf",
       "Name": "The Prodigal",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 239
+      "UsersEstimate": 247
     },
     {
       "ID": "achievement_6",
@@ -2563,9 +2563,9 @@
       "ID": "achievement_61",
       "SetID": "d252ncf",
       "Name": "Big Game Hunter",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 232
+      "UsersEstimate": 239
     },
     {
       "ID": "achievement_62",
@@ -2587,9 +2587,9 @@
       "ID": "achievement_64",
       "SetID": "d252ncf",
       "Name": "Merciless",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 352
     },
     {
       "ID": "achievement_65",
@@ -2619,9 +2619,9 @@
       "ID": "achievement_68",
       "SetID": "b9pe172",
       "Name": "Agent",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 224
+      "UsersEstimate": 232
     },
     {
       "ID": "achievement_69",
@@ -2795,9 +2795,9 @@
       "ID": "achievement_88",
       "SetID": "d252ncf",
       "Name": "Arbiter",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 165
+      "UsersEstimate": 172
     },
     {
       "ID": "achievement_89",
@@ -2911,8 +2911,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-19T20:06:35.3355792+00:00",
+  "LastChanged_Achievements": "2023-10-19T21:06:43.5039662+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:30.4071338+00:00",
-  "LastUpdate_Ratings": "2023-10-19T20:03:08.9648082+00:00",
-  "LastUpdate_Achievements": "2023-10-19T20:06:35.335794+00:00"
+  "LastUpdate_Ratings": "2023-10-19T21:03:06.1549225+00:00",
+  "LastUpdate_Achievements": "2023-10-19T21:06:43.5042043+00:00"
 }

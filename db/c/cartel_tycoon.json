@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 635,
+  "EOS_Progressed": 636,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -2024,6 +2024,11 @@
       "Time": "2023-10-19T19:04:37.2078507+00:00",
       "NumProgressed": 635,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-19T21:05:23.2208713+00:00",
+      "NumProgressed": 636,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 19,
@@ -2059,7 +2064,7 @@
       "Name": "Didn\u0027t Miss A Single One",
       "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "female-conqueror",
@@ -2083,7 +2088,7 @@
       "Name": "Our Man",
       "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "kill-lieutenants",
@@ -2099,7 +2104,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "play-at-night",
@@ -2115,7 +2120,7 @@
       "Name": "Follow the Money",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "rage-quit",
@@ -2123,7 +2128,7 @@
       "Name": "Bad Trip",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "rename-lieutenant",
@@ -2155,7 +2160,7 @@
       "Name": "Camellos",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "unlock-residences",
@@ -2163,7 +2168,7 @@
       "Name": "Pampered Life",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "upgrade-building",
@@ -2171,7 +2176,7 @@
       "Name": "Take-Off",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "use-submarine",
@@ -2186,15 +2191,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 635,
+      "Progressed": 636,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-09-23T20:57:48.080138+00:00",
-  "LastChanged_Achievements": "2023-10-19T20:05:13.9537113+00:00",
+  "LastChanged_Achievements": "2023-10-19T21:05:23.220871+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:47.5072549+00:00",
-  "LastUpdate_Ratings": "2023-10-19T20:00:39.9484963+00:00",
-  "LastUpdate_Achievements": "2023-10-19T20:05:13.9537407+00:00"
+  "LastUpdate_Ratings": "2023-10-19T21:00:56.0411855+00:00",
+  "LastUpdate_Achievements": "2023-10-19T21:05:23.2209353+00:00"
 }

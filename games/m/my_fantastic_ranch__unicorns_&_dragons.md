@@ -9,9 +9,9 @@
 | Creature Evolution | 34.00% | ~12 |
 | Prized Possession | 34.00% | ~12 |
 | Think Positive | 26.00% | ~9 |
-| Kingdom Party Time | 23.00% | ~8 |
-| Festival Fever | 17.00% | ~6 |
-| Entering New Territory | 14.00% | ~5 |
+| Kingdom Party Time | 26.00% | ~9 |
+| Festival Fever | 20.00% | ~7 |
+| Entering New Territory | 17.00% | ~6 |
 | Landscaper | 9.00% | ~3 |
 | Just One More Go | 9.00% | ~3 |
 | Lecturer | 9.00% | ~3 |

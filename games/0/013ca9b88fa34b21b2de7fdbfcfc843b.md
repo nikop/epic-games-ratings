@@ -17,7 +17,7 @@ Rating: 4.66 (Ranked 282)
 | Mist Walker | 31.00% | ~2,128 |
 | Lumberjack | 26.00% | ~1,785 |
 | Oui, Chef! | 22.00% | ~1,510 |
-| Clear the Air | 17.00% | ~1,167 |
+| Clear the Air | 18.00% | ~1,236 |
 | Botanical Breakthrough | 16.00% | ~1,098 |
 | Search for the Hairy Grell | 13.00% | ~892 |
 | Beach Comber | 13.00% | ~892 |
@@ -28,8 +28,8 @@ Rating: 4.66 (Ranked 282)
 | Got to Catch Them All | 7.00% | ~481 |
 | Rumble in the Jumble | 7.00% | ~481 |
 | Fanatical Farmer | 7.00% | ~481 |
+| Scattered Scroll Scrounger | 6.00% | ~412 |
 | Azorian Anniversary | 6.00% | ~412 |
-| Scattered Scroll Scrounger | 5.00% | ~343 |
 | I Now Pronounce You... | 4.00% | ~275 |
 | Chatty Neighbor | 4.00% | ~275 |
 | Right Tool For the Job | 3.00% | ~206 |

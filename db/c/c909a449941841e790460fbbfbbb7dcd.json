@@ -3,9 +3,9 @@
   "Name": "Road Defense: Outsiders",
   "ProductSlug": "road-defense-outsiders-22e4ba",
   "Ranking_EOS_Progress": 429,
-  "Ranking_EOS_Completed": 81,
-  "Ranking_EOS_NewPlayers": 302,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_Completed": 62,
+  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-09-22T19:00:00+00:00",
     "PcReleaseDate": "2023-05-28T19:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 59,
-  "EOS_Completed": 2,
+  "EOS_Completed": 3,
   "EOS_NewPlayers": 3,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.39,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 5.08,
   "EosHistory": [
     {
       "Time": "2023-09-18T15:04:59.5567381+00:00",
@@ -314,6 +314,11 @@
       "Time": "2023-10-18T16:07:14.7848979+00:00",
       "NumProgressed": 59,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-19T21:07:46.451247+00:00",
+      "NumProgressed": 59,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-18T15:04:59.5567411+00:00",
@@ -372,9 +377,9 @@
       "ID": "DEFEATED_20000_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Exterminator",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 110,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "NEW_ACHIEVEMENT_0_0",
@@ -420,17 +425,17 @@
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "14g34pl",
       "Name": "Forest is safe!",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 60,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "14g34pl",
       "Name": "Western is safe!",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 60,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "REACH_LEVEL_10",
@@ -462,13 +467,13 @@
       "ID": "14g34pl",
       "IsBase": true,
       "Progressed": 59,
-      "Completed": 2
+      "Completed": 3
     }
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-10-19T20:07:38.2658437+00:00",
+  "LastChanged_Achievements": "2023-10-19T21:07:46.4512463+00:00",
   "LastUpdate_AppInfo": "2023-10-17T18:57:05.9704526+00:00",
-  "LastUpdate_Ratings": "2023-10-19T20:01:23.4202936+00:00",
-  "LastUpdate_Achievements": "2023-10-19T20:07:38.2658573+00:00"
+  "LastUpdate_Ratings": "2023-10-19T21:01:42.714952+00:00",
+  "LastUpdate_Achievements": "2023-10-19T21:07:46.4512849+00:00"
 }

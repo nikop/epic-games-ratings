@@ -5,10 +5,10 @@
   "Ranking_Rating": 475,
   "Ranking_Popularity": 538,
   "Ranking_PopularitySum": 538,
-  "Ranking_EOS_Progress": 129,
+  "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 290,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -259,7 +259,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18502,
+  "EOS_Progressed": 18503,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 0,
@@ -11824,6 +11824,11 @@
       "Time": "2023-10-19T20:04:06.6563687+00:00",
       "NumProgressed": 18502,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-19T21:04:15.5470752+00:00",
+      "NumProgressed": 18503,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -11851,7 +11856,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3145
+      "UsersEstimate": 3146
     },
     {
       "ID": "0004",
@@ -11891,7 +11896,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3330
+      "UsersEstimate": 3331
     },
     {
       "ID": "0009",
@@ -11899,7 +11904,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4255
+      "UsersEstimate": 4256
     },
     {
       "ID": "0010",
@@ -11963,7 +11968,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3330
+      "UsersEstimate": 3331
     },
     {
       "ID": "0018",
@@ -12019,7 +12024,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4070
+      "UsersEstimate": 4071
     },
     {
       "ID": "0025",
@@ -12027,7 +12032,7 @@
       "Name": "Tailor-Made",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3330
+      "UsersEstimate": 3331
     },
     {
       "ID": "0026",
@@ -12051,7 +12056,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4255
+      "UsersEstimate": 4256
     },
     {
       "ID": "0029",
@@ -12067,7 +12072,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3330
+      "UsersEstimate": 3331
     },
     {
       "ID": "0031",
@@ -12122,7 +12127,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18502,
+      "Progressed": 18503,
       "Completed": 4
     }
   ],
@@ -12130,8 +12135,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-10-19T20:04:06.656368+00:00",
+  "LastChanged_Achievements": "2023-10-19T21:04:15.5470747+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:07.4457302+00:00",
-  "LastUpdate_Ratings": "2023-10-19T20:01:15.9545221+00:00",
-  "LastUpdate_Achievements": "2023-10-19T20:04:06.6565166+00:00"
+  "LastUpdate_Ratings": "2023-10-19T21:01:35.0604803+00:00",
+  "LastUpdate_Achievements": "2023-10-19T21:04:15.547183+00:00"
 }

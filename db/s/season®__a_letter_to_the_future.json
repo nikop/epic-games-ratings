@@ -3,9 +3,9 @@
   "Name": "SEASON\u00AE: A letter to the future",
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 224,
-  "Ranking_EOS_Completed": 69,
-  "Ranking_EOS_NewPlayers": 254,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_Completed": 70,
+  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1286,
+  "EOS_Progressed": 1287,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.43,
   "EosHistory": [
@@ -2574,6 +2574,11 @@
       "Time": "2023-10-18T13:11:26.9301712+00:00",
       "NumProgressed": 1286,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-10-19T21:06:39.6487291+00:00",
+      "NumProgressed": 1287,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 16,
@@ -2657,7 +2662,7 @@
       "Name": "Love Uncoverer",
       "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ACH_MUSICFORCOWS",
@@ -2689,7 +2694,7 @@
       "Name": "Stranger Encounterer",
       "Percentage": 41,
       "XP": 40,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "ACH_THEEND",
@@ -2712,7 +2717,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1286,
+      "Progressed": 1287,
       "Completed": 57
     }
   ],
@@ -2720,8 +2725,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-10-19T20:06:31.3554588+00:00",
+  "LastChanged_Achievements": "2023-10-19T21:06:39.6487286+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:05.0474751+00:00",
-  "LastUpdate_Ratings": "2023-10-19T19:59:28.8103636+00:00",
-  "LastUpdate_Achievements": "2023-10-19T20:06:31.3554909+00:00"
+  "LastUpdate_Ratings": "2023-10-19T20:59:48.0639517+00:00",
+  "LastUpdate_Achievements": "2023-10-19T21:06:39.6487617+00:00"
 }

@@ -4,11 +4,11 @@
   "ProductSlug": "disco-elysium",
   "Ranking_Rating": 23,
   "Ranking_Popularity": 173,
-  "Ranking_PopularitySum": 241,
+  "Ranking_PopularitySum": 242,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 290,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1388,7 +1388,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 129874,
+  "EOS_Progressed": 129877,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 257,
   "EOS_NewCompleters": 0,
@@ -19548,6 +19548,11 @@
       "Time": "2023-10-19T20:04:10.5579511+00:00",
       "NumProgressed": 129874,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-10-19T21:04:19.5804866+00:00",
+      "NumProgressed": 129877,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -19591,7 +19596,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 23377
+      "UsersEstimate": 23378
     },
     {
       "ID": "ACH_COP_BAD",
@@ -19599,7 +19604,7 @@
       "Name": "Baddest Of the Bad Cops",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2597
+      "UsersEstimate": 2598
     },
     {
       "ID": "ACH_COP_BORING",
@@ -19639,7 +19644,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36365
+      "UsersEstimate": 36366
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -19679,7 +19684,7 @@
       "Name": "Expert Advanced Remote Viewer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2597
+      "UsersEstimate": 2598
     },
     {
       "ID": "ACH_COP_SORRY",
@@ -19711,7 +19716,7 @@
       "Name": "Recruit Detective Kuuno de Ruyter",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2597
+      "UsersEstimate": 2598
     },
     {
       "ID": "ACH_DOLORES",
@@ -19719,7 +19724,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 12987
+      "UsersEstimate": 12988
     },
     {
       "ID": "ACH_GLUTEN",
@@ -19751,7 +19756,7 @@
       "Name": "Hardie\u0027s Heroes",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 7792
+      "UsersEstimate": 7793
     },
     {
       "ID": "ACH_ICEBREAKER",
@@ -19775,7 +19780,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 18182
+      "UsersEstimate": 18183
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -19839,7 +19844,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 18182
+      "UsersEstimate": 18183
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -19847,7 +19852,7 @@
       "Name": "Wheel of Pleasure and Light",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2597
+      "UsersEstimate": 2598
     },
     {
       "ID": "ACH_POWERARMOR",
@@ -19878,15 +19883,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 129874,
+      "Progressed": 129877,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-10-19T18:57:03.7336531+00:00",
-  "LastChanged_Achievements": "2023-10-19T20:04:10.5579502+00:00",
+  "LastChanged_Achievements": "2023-10-19T21:04:19.5804861+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:18.5281336+00:00",
-  "LastUpdate_Ratings": "2023-10-19T19:57:06.1030018+00:00",
-  "LastUpdate_Achievements": "2023-10-19T20:04:10.5581956+00:00"
+  "LastUpdate_Ratings": "2023-10-19T20:57:17.8500099+00:00",
+  "LastUpdate_Achievements": "2023-10-19T21:04:19.580686+00:00"
 }

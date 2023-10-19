@@ -25,8 +25,8 @@
 | Soldier Ally | 49.00% | ~367 |
 | Paramour I | 48.00% | ~359 |
 | Colonial Savior | 48.00% | ~359 |
+| Merciless | 47.00% | ~352 |
 | Scientist | 47.00% | ~352 |
-| Merciless | 46.00% | ~344 |
 | Krogan Ally | 45.00% | ~337 |
 | Very Elusive | 44.00% | ~329 |
 | Head Hunter | 44.00% | ~329 |
@@ -47,23 +47,23 @@
 | Broke, Blind, and Bedlam | 34.00% | ~254 |
 | Ghost Ship | 33.00% | ~247 |
 | The Quarian | 33.00% | ~247 |
+| The Prodigal | 33.00% | ~247 |
 | A Personal Touch | 32.00% | ~239 |
 | The Assassin | 32.00% | ~239 |
 | The Justicar | 32.00% | ~239 |
 | Battlemaster | 32.00% | ~239 |
 | The Cure | 32.00% | ~239 |
-| The Prodigal | 32.00% | ~239 |
+| Big Game Hunter | 32.00% | ~239 |
 | Heart of Darkness | 32.00% | ~239 |
 | Shopaholic | 32.00% | ~239 |
 | Catharsis | 31.00% | ~232 |
 | Ghost of the Father | 31.00% | ~232 |
-| Big Game Hunter | 31.00% | ~232 |
+| Agent | 31.00% | ~232 |
 | Revenge! | 31.00% | ~232 |
 | Driven | 31.00% | ~232 |
 | Focused | 30.00% | ~224 |
 | Fade Away | 30.00% | ~224 |
 | Treason | 30.00% | ~224 |
-| Agent | 30.00% | ~224 |
 | Bringer of War | 30.00% | ~224 |
 | Cat's in the Cradle | 29.00% | ~217 |
 | Doppelganger | 29.00% | ~217 |
@@ -83,10 +83,10 @@
 | Liberator | 25.00% | ~187 |
 | Tunnel Rat | 24.00% | ~180 |
 | Pathfinder | 23.00% | ~172 |
+| Arbiter | 23.00% | ~172 |
 | Lost and Found | 23.00% | ~172 |
 | Savior | 22.00% | ~165 |
 | Paramour II | 22.00% | ~165 |
-| Arbiter | 22.00% | ~165 |
 | Party Crasher | 21.00% | ~157 |
 | Pyromaniac | 20.00% | ~150 |
 | No One Left Behind | 20.00% | ~150 |

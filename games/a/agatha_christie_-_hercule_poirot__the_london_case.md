@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Little ideas | 60.00% | ~12 |
-| Marc Allard | 60.00% | ~12 |
-| The Ship | 55.00% | ~11 |
-| Seeking the truth | 55.00% | ~11 |
-| An old friend | 45.00% | ~9 |
-| The Gala | 40.00% | ~8 |
-| A curious gathering | 40.00% | ~8 |
-| Little grey cells | 35.00% | ~7 |
-| Impossible is possible | 35.00% | ~7 |
-| The Missing Magdalene | 35.00% | ~7 |
-| Arthur Hastings | 35.00% | ~7 |
-| Everything matters | 30.00% | ~6 |
-| Order and method | 30.00% | ~6 |
-| An expert mediator | 25.00% | ~5 |
-| Betty Allen | 25.00% | ~5 |
-| DI Hardwicke | 25.00% | ~5 |
-| The Investigation Begins | 25.00% | ~5 |
-| An odd series of events | 15.00% | ~3 |
-| Ms. Camilla B. Culsham | 15.00% | ~3 |
-| Irene Court-Smyth | 15.00% | ~3 |
-| The Apartment | 15.00% | ~3 |
+| Little ideas | 57.00% | ~12 |
+| Marc Allard | 57.00% | ~12 |
+| The Ship | 52.00% | ~11 |
+| Seeking the truth | 52.00% | ~11 |
+| An old friend | 43.00% | ~9 |
+| The Gala | 38.00% | ~8 |
+| A curious gathering | 38.00% | ~8 |
+| Little grey cells | 33.00% | ~7 |
+| Impossible is possible | 33.00% | ~7 |
+| The Missing Magdalene | 33.00% | ~7 |
+| Arthur Hastings | 33.00% | ~7 |
+| Everything matters | 29.00% | ~6 |
+| Order and method | 29.00% | ~6 |
+| An expert mediator | 24.00% | ~5 |
+| Betty Allen | 24.00% | ~5 |
+| DI Hardwicke | 24.00% | ~5 |
+| The Investigation Begins | 24.00% | ~5 |
+| An odd series of events | 14.00% | ~3 |
+| Ms. Camilla B. Culsham | 14.00% | ~3 |
+| Irene Court-Smyth | 14.00% | ~3 |
+| The Apartment | 14.00% | ~3 |
 | Well-acquainted | 10.00% | ~2 |
 | Truth from within | 10.00% | ~2 |
 | A rude awakening | 10.00% | ~2 |
@@ -51,7 +51,7 @@
 | The Secrets | 0.00% | ~0 |
 | The Investigation Starts Anew | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20 (Ranked 493)  
+Progressed: 21 (Ranked 491)  
 Completed: 0 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,4 +71,4 @@ Completed: 0 (0.00%) (Ranked 316)
 | 2023-10-06 | 16 | 0 |
 | 2023-10-11 | 17 | 0 |
 | 2023-10-15 | 18 | 0 |
-| 2023-10-19 | 20 | 0 |
+| 2023-10-19 | 21 | 0 |

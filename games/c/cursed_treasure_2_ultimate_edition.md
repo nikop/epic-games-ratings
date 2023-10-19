@@ -48,7 +48,7 @@
 | Father of Nation | 35.00% | ~60 |
 | Brilliant: Wasteland | 34.00% | ~58 |
 | Dwarven Countdown | 30.00% | ~52 |
-| Starry: Wasteland | 29.00% | ~50 |
+| Starry: Wasteland | 30.00% | ~52 |
 | Deadman's Chest | 28.00% | ~48 |
 | Monument Keeper | 28.00% | ~48 |
 | Brilliant: Free Coast | 27.00% | ~46 |
@@ -58,7 +58,7 @@
 | Loveless | 19.00% | ~33 |
 | Hostile Waters | 18.00% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 172 (Ranked 353)  
+Progressed: 172 (Ranked 354)  
 Completed: 26 (15.12%) (Ranked 22)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -2,10 +2,10 @@
   "ID": "57a8c2548bc244558f5bd74fe7fe85c5",
   "Name": "Soul War",
   "ProductSlug": "soul-war-a669a2",
-  "Ranking_EOS_Progress": 682,
+  "Ranking_EOS_Progress": 683,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 406,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-17T01:40:41.9354279+00:00",
-  "LastUpdate_Ratings": "2023-10-19T19:57:42.1170343+00:00",
-  "LastUpdate_Achievements": "2023-10-19T20:08:18.2573125+00:00"
+  "LastUpdate_Ratings": "2023-10-19T20:57:54.4318275+00:00",
+  "LastUpdate_Achievements": "2023-10-19T21:08:16.3233865+00:00"
 }

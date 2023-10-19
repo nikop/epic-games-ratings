@@ -16,8 +16,8 @@
 | Restored and Ready | 18.00% | ~281 |
 | Legendary!!! | 18.00% | ~281 |
 | Quick Pit Stop | 18.00% | ~281 |
+| Go-Faster Stripes | 17.00% | ~266 |
 | I'm Here Too! | 17.00% | ~266 |
-| Go-Faster Stripes | 16.00% | ~250 |
 | We've Just Begun | 10.00% | ~156 |
 | Stamina Star | 8.00% | ~125 |
 | Is It the Right Size? | 8.00% | ~125 |

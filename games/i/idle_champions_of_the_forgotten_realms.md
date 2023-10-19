@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 953)  
+Rating: 4.06 (Ranked 954)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Entrance of the Gladiators | 0.10% | ~199 |
 | Time Out | 0.10% | ~199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,271 (Ranked 59)  
+Progressed: 232,277 (Ranked 59)  
 Completed: 2,374 (1.02%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -717,7 +717,7 @@ Completed: 2,374 (1.02%) (Ranked 145)
 | 2023-10-16 | 232,030 | 2,366 |
 | 2023-10-17 | 232,098 | 2,367 |
 | 2023-10-18 | 232,193 | 2,373 |
-| 2023-10-19 | 232,271 | 2,374 |
+| 2023-10-19 | 232,277 | 2,374 |
 ## Awards
 Max (Great for Beginners): 5,419  (Ranked 69)  
 Sum: 32,116 (Ranked 41)  

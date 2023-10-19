@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -559,9 +559,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3757,
+  "EOS_Progressed": 3758,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -7349,6 +7349,11 @@
       "Time": "2023-10-19T18:04:42.8308796+00:00",
       "NumProgressed": 3757,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-19T21:05:18.7375995+00:00",
+      "NumProgressed": 3758,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7400,7 +7405,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -7440,7 +7445,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1728
+      "UsersEstimate": 1729
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -7512,7 +7517,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -7528,7 +7533,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1540
+      "UsersEstimate": 1541
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -7584,7 +7589,7 @@
       "Name": "Resourceful",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1015
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -7672,7 +7677,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1277
+      "UsersEstimate": 1278
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -7832,7 +7837,7 @@
       "Name": "Operation Foxley",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -7927,13 +7932,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3708,
+      "Progressed": 3709,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3757,
+      "Progressed": 3758,
       "Completed": 11
     }
   ],
@@ -7941,8 +7946,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-10-18T04:01:21.5719039+00:00",
-  "LastChanged_Achievements": "2023-10-19T20:05:09.3886625+00:00",
+  "LastChanged_Achievements": "2023-10-19T21:05:18.7375986+00:00",
   "LastUpdate_AppInfo": "2023-10-14T10:57:25.01046+00:00",
-  "LastUpdate_Ratings": "2023-10-19T20:03:04.6834771+00:00",
-  "LastUpdate_Achievements": "2023-10-19T20:05:09.3887948+00:00"
+  "LastUpdate_Ratings": "2023-10-19T21:03:02.6201847+00:00",
+  "LastUpdate_Achievements": "2023-10-19T21:05:18.7378962+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "83c7eb83fadd4a41ad2367dbf17705fc",
   "Name": "Imp of the Sun",
   "ProductSlug": "imp-of-the-sun",
-  "Ranking_EOS_Progress": 682,
+  "Ranking_EOS_Progress": 683,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 406,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-03-24T09:00:00+00:00",
     "PcReleaseDate": "2022-03-24T09:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:47.0852734+00:00",
   "LastChanged": "2023-03-31T05:57:47.0852735+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:19.8791147+00:00",
-  "LastUpdate_Ratings": "2023-10-19T19:58:17.4153752+00:00",
-  "LastUpdate_Achievements": "2023-10-19T20:04:17.9399962+00:00"
+  "LastUpdate_Ratings": "2023-10-19T20:58:30.8190369+00:00",
+  "LastUpdate_Achievements": "2023-10-19T21:04:27.0899016+00:00"
 }

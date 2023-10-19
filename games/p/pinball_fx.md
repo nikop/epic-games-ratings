@@ -1,15 +1,15 @@
 # Pinball FX
 [Store](https://store.epicgames.com/en-US/p/pinball-fx)  
 [View Rawdata](../../db/p/pinball_fx.json)  
-Rating: 4.06 (Ranked 953)  
+Rating: 4.06 (Ranked 954)  
 Number of Ratings: 756  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ball Launched | 82.00% | ~223,420 |
-| I know the Rules | 35.00% | ~95,362 |
-| Contender | 10.00% | ~27,246 |
-| I Found it! | 10.00% | ~27,246 |
+| Ball Launched | 82.00% | ~223,428 |
+| I know the Rules | 35.00% | ~95,366 |
+| Contender | 10.00% | ~27,247 |
+| I Found it! | 10.00% | ~27,247 |
 | First but not Last | 4.00% | ~10,899 |
 | Ready Steady Score | 3.00% | ~8,174 |
 | Dress Code | 3.00% | ~8,174 |
@@ -37,7 +37,7 @@ Number of Ratings: 756  (23.09.2022)
 | Fully Involved | 0.00% | ~0 |
 | Collect Them All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 272,464 (Ranked 50)  
+Progressed: 272,473 (Ranked 50)  
 Completed: 0 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,10 +219,10 @@ Completed: 0 (0.00%) (Ranked 316)
 | 2023-10-16 | 271,843 | 0 |
 | 2023-10-17 | 272,043 | 0 |
 | 2023-10-18 | 272,270 | 0 |
-| 2023-10-19 | 272,464 | 0 |
+| 2023-10-19 | 272,473 | 0 |
 ## Awards
 Max (Great for Beginners): 197  (Ranked 280)  
-Sum: 1,571 (Ranked 225)  
+Sum: 1,573 (Ranked 225)  
 Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
@@ -232,9 +232,9 @@ Diff (max vs sum): 55
 | This game is Relaxing | 163 |
 | This game is Highly Recommended | 157 |
 | This game is Extremely Fun | 156 |
-| This game has Competitive Players | 149 |
+| This game has Competitive Players | 150 |
 | This game has Challenging Combat | 108 |
-| This game has a Competitive Community | 103 |
+| This game has a Competitive Community | 104 |
 | This game has Amazing Storytelling | 101 |
 | This game has Amazing Characters | 91 |
 | This game has Obsessive Gameplay | 65 |
@@ -412,4 +412,4 @@ Diff (max vs sum): 55
 | 2023-10-12 | 4.06 | - | 196 | 1,567 |
 | 2023-10-15 | 4.06 | - | 196 | 1,568 |
 | 2023-10-17 | 4.06 | - | 197 | 1,570 |
-| 2023-10-19 | 4.06 | - | 197 | 1,571 |
+| 2023-10-19 | 4.06 | - | 197 | 1,573 |

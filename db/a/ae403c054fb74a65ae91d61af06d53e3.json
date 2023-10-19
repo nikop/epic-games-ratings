@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 539,
   "Ranking_EOS_Completed": 14,
   "Ranking_EOS_NewPlayers": 406,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-09-21T11:00:00+00:00",
     "PcReleaseDate": "2023-09-21T11:00:00+00:00",
@@ -121,9 +121,9 @@
       "ID": "ach_flick_key",
       "SetID": "8787m1a",
       "Name": "Key Flick",
-      "Percentage": 33,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_flick_littleone",
@@ -216,8 +216,8 @@
   ],
   "FirstSeen": "2023-09-24T13:57:59.4774682+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.9964559+00:00",
-  "LastChanged_Achievements": "2023-10-19T20:08:28.3341349+00:00",
+  "LastChanged_Achievements": "2023-10-19T21:08:26.5045389+00:00",
   "LastUpdate_AppInfo": "2023-10-18T03:56:57.1987497+00:00",
-  "LastUpdate_Ratings": "2023-10-19T20:00:31.2172685+00:00",
-  "LastUpdate_Achievements": "2023-10-19T20:08:28.3341475+00:00"
+  "LastUpdate_Ratings": "2023-10-19T21:00:48.6139102+00:00",
+  "LastUpdate_Achievements": "2023-10-19T21:08:26.5045517+00:00"
 }

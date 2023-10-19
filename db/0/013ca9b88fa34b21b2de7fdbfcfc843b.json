@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -135,7 +135,7 @@
   "Tags": [],
   "EOS_Progressed": 6865,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 334,
+  "EOS_NewPlayers": 332,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4750,9 +4750,9 @@
       "ID": "CHAPTER_5_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Clear the Air",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 1167
+      "UsersEstimate": 1236
     },
     {
       "ID": "CHAPTER_6_COMPLETE",
@@ -4862,9 +4862,9 @@
       "ID": "DISCOVER_SCROLLS_2",
       "SetID": "9eia0f5",
       "Name": "Scattered Scroll Scrounger",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 343
+      "UsersEstimate": 412
     },
     {
       "ID": "DISCOVER_WHIRLPOOL",
@@ -5007,8 +5007,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-17T22:58:37.318492+00:00",
-  "LastChanged_Achievements": "2023-10-19T20:06:35.7671378+00:00",
+  "LastChanged_Achievements": "2023-10-19T21:06:43.9136404+00:00",
   "LastUpdate_AppInfo": "2023-10-13T06:57:01.9287951+00:00",
-  "LastUpdate_Ratings": "2023-10-19T20:00:25.9117267+00:00",
-  "LastUpdate_Achievements": "2023-10-19T20:06:35.7672182+00:00"
+  "LastUpdate_Ratings": "2023-10-19T21:00:42.2234998+00:00",
+  "LastUpdate_Achievements": "2023-10-19T21:06:43.9136965+00:00"
 }

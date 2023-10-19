@@ -2,10 +2,10 @@
   "ID": "4a86b8318e5a40e094f34a7e6a934652",
   "Name": "I Am Future - Cozy Apocalypse Survival",
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
-  "Ranking_EOS_Progress": 350,
+  "Ranking_EOS_Progress": 351,
   "Ranking_EOS_Completed": 138,
   "Ranking_EOS_NewPlayers": 247,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -886,9 +886,9 @@
       "ID": "HOUSEWARMING",
       "SetID": "aniflfk",
       "Name": "A Party to Remember!",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 41
+      "UsersEstimate": 43
     },
     {
       "ID": "LUNCH_LEECH",
@@ -910,9 +910,9 @@
       "ID": "NOT_FAINT_HOUSEWARMING",
       "SetID": "aniflfk",
       "Name": "Tough Guy",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 36
+      "UsersEstimate": 38
     },
     {
       "ID": "PREPARE_10_COFFEE",
@@ -981,8 +981,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-10-19T20:04:57.671891+00:00",
+  "LastChanged_Achievements": "2023-10-19T21:05:07.3404049+00:00",
   "LastUpdate_AppInfo": "2023-10-18T15:57:15.7411865+00:00",
-  "LastUpdate_Ratings": "2023-10-19T20:00:55.6585688+00:00",
-  "LastUpdate_Achievements": "2023-10-19T20:04:57.6719124+00:00"
+  "LastUpdate_Ratings": "2023-10-19T21:01:11.7718704+00:00",
+  "LastUpdate_Achievements": "2023-10-19T21:05:07.3404595+00:00"
 }

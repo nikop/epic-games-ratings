@@ -20,14 +20,14 @@
 | Annoying | 19.00% | ~105 |
 | Hacker | 19.00% | ~105 |
 | He is just a child | 19.00% | ~105 |
+| Ace | 17.00% | ~94 |
 | Concrete painting | 17.00% | ~94 |
 | Goody | 17.00% | ~94 |
+| Please oh pleeease! | 17.00% | ~94 |
 | Uncertain | 17.00% | ~94 |
-| Ace | 16.00% | ~89 |
 | Found it! | 16.00% | ~89 |
 | Hipster | 16.00% | ~89 |
 | Not what it seems | 16.00% | ~89 |
-| Please oh pleeease! | 16.00% | ~89 |
 | That's much better! | 15.00% | ~83 |
 | Not as clumsy or random | 13.00% | ~72 |
 | Blade Runner | 10.00% | ~56 |

@@ -5,10 +5,10 @@
   "Ranking_Rating": 659,
   "Ranking_Popularity": 485,
   "Ranking_PopularitySum": 500,
-  "Ranking_EOS_Progress": 210,
-  "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_Progress": 209,
+  "Ranking_EOS_Completed": 196,
+  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -358,11 +358,11 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1866,
+  "EOS_Progressed": 1868,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.38,
+  "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:31.998977+00:00",
@@ -2153,6 +2153,11 @@
       "Time": "2023-10-19T16:04:50.0676452+00:00",
       "NumProgressed": 1866,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-19T21:05:15.3533357+00:00",
+      "NumProgressed": 1868,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -2172,7 +2177,7 @@
       "Name": "Dead or Alive",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1046
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -2188,7 +2193,7 @@
       "Name": "Dishonored",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "ACH_DOG_DAYS",
@@ -2244,7 +2249,7 @@
       "Name": "Full House",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "ACH_GETTING_THE_GANG_BACK_TOGETHER",
@@ -2316,7 +2321,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1121
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -2396,7 +2401,7 @@
       "Name": "Off the Trail",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "ACH_OUT_ON_THE_EBB_TIDE",
@@ -2412,7 +2417,7 @@
       "Name": "Perky",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 1232
+      "UsersEstimate": 1233
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -2436,7 +2441,7 @@
       "Name": "Rain of Death",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "ACH_REVENANT",
@@ -2452,15 +2457,15 @@
       "Name": "Scholar",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "ACH_SELF_IMPROVEMENT",
       "SetID": "8j30i9k",
       "Name": "Self-Improvement",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 1344
+      "UsersEstimate": 1326
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -2524,7 +2529,7 @@
       "Name": "Through Their Eyes",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "ACH_TURNING_THE_TABLES",
@@ -2540,7 +2545,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1642
+      "UsersEstimate": 1644
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -2548,7 +2553,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 1064
+      "UsersEstimate": 1065
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -2587,15 +2592,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1866,
+      "Progressed": 1868,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-10-12T21:03:19.3405384+00:00",
-  "LastChanged_Achievements": "2023-10-19T20:05:05.9704813+00:00",
+  "LastChanged_Achievements": "2023-10-19T21:05:15.3533347+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:22.2877358+00:00",
-  "LastUpdate_Ratings": "2023-10-19T19:59:20.9834745+00:00",
-  "LastUpdate_Achievements": "2023-10-19T20:05:05.9705976+00:00"
+  "LastUpdate_Ratings": "2023-10-19T20:59:38.9528656+00:00",
+  "LastUpdate_Achievements": "2023-10-19T21:05:15.3533942+00:00"
 }

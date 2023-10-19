@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1625,
+  "EOS_Progressed": 1627,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6034,6 +6034,11 @@
       "Time": "2023-10-19T01:48:49.5638765+00:00",
       "NumProgressed": 1625,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-19T21:07:41.570194+00:00",
+      "NumProgressed": 1627,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6125,7 +6130,7 @@
       "Name": "Keeping Busy",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "objective_headquarters_15",
@@ -6141,7 +6146,7 @@
       "Name": "Advanced Warfare",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "objective_headquarters_5",
@@ -6149,15 +6154,15 @@
       "Name": "Facility Online",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "objective_hero_level_up_1",
       "SetID": "bm61c2p",
       "Name": "Corporal",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 244
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -6173,7 +6178,7 @@
       "Name": "Lieutenant",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -6197,7 +6202,7 @@
       "Name": "Colonel",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "objective_hero_level_up_7",
@@ -6221,7 +6226,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -6237,7 +6242,7 @@
       "Name": "Getting Deployment",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -6245,7 +6250,7 @@
       "Name": "Seek \u0026 Destroy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_3",
@@ -6253,7 +6258,7 @@
       "Name": "Stocking Up",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -6269,7 +6274,7 @@
       "Name": "On Target",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -6277,7 +6282,7 @@
       "Name": "Battle Ready",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "objective_multiple_barracks_1",
@@ -6285,7 +6290,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -6301,7 +6306,7 @@
       "Name": "Defenses Online",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -6348,7 +6353,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1625,
+      "Progressed": 1627,
       "Completed": 1
     }
   ],
@@ -6356,8 +6361,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-10-19T20:07:33.3252565+00:00",
+  "LastChanged_Achievements": "2023-10-19T21:07:41.5701936+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:23.525424+00:00",
-  "LastUpdate_Ratings": "2023-10-19T19:57:27.9138753+00:00",
-  "LastUpdate_Achievements": "2023-10-19T20:07:33.325332+00:00"
+  "LastUpdate_Ratings": "2023-10-19T20:57:39.7443593+00:00",
+  "LastUpdate_Achievements": "2023-10-19T21:07:41.5702589+00:00"
 }

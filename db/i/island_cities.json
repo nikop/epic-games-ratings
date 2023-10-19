@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 21,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 734,
+  "EOS_Progressed": 735,
   "EOS_Completed": 122,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 16.62,
+  "EOS_Completed_Percentage": 16.6,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -3116,6 +3116,11 @@
       "Time": "2023-10-19T18:06:46.7696921+00:00",
       "NumProgressed": 734,
       "NumCompleted": 122
+    },
+    {
+      "Time": "2023-10-19T21:07:44.7270357+00:00",
+      "NumProgressed": 735,
+      "NumCompleted": 122
     }
   ],
   "TotalAchievements": 22,
@@ -3127,7 +3132,7 @@
       "Name": "Welcome!",
       "Percentage": 96,
       "XP": 35,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "LEVEL_002",
@@ -3143,7 +3148,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "LEVEL_004",
@@ -3151,7 +3156,7 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 56,
       "XP": 35,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "LEVEL_005",
@@ -3183,7 +3188,7 @@
       "Name": "Passion for sports",
       "Percentage": 33,
       "XP": 35,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "LEVEL_009",
@@ -3239,7 +3244,7 @@
       "Name": "Monumental tribute",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "LEVEL_016",
@@ -3302,7 +3307,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 734,
+      "Progressed": 735,
       "Completed": 122
     }
   ],
@@ -3310,8 +3315,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-10-19T20:07:36.5890567+00:00",
+  "LastChanged_Achievements": "2023-10-19T21:07:44.7270352+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:14.1390666+00:00",
-  "LastUpdate_Ratings": "2023-10-19T20:01:28.2057229+00:00",
-  "LastUpdate_Achievements": "2023-10-19T20:07:36.5891+00:00"
+  "LastUpdate_Ratings": "2023-10-19T21:01:46.991319+00:00",
+  "LastUpdate_Achievements": "2023-10-19T21:07:44.7270718+00:00"
 }
