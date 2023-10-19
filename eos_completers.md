@@ -3,7 +3,7 @@
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 66.67% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.58% |
-| 4 | [The Riflemen](games/t/the_riflemen.md) | 47.34% |
+| 4 | [The Riflemen](games/t/the_riflemen.md) | 47.32% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.93% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 33.04% |
@@ -194,11 +194,11 @@
 | 192 | [Train Valley](games/t/train_valley.md) | 0.39% |
 | 193 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.38% |
 | 193 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.38% |
+| 193 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.38% |
 | 193 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.38% |
-| 196 | [Ghostrunner](games/g/ghostrunner.md) | 0.37% |
-| 197 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.36% |
-| 197 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.36% |
-| 197 | [The Surge](games/t/the_surge.md) | 0.36% |
+| 197 | [Ghostrunner](games/g/ghostrunner.md) | 0.37% |
+| 198 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.36% |
+| 198 | [The Surge](games/t/the_surge.md) | 0.36% |
 | 200 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
 | 201 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.32% |
 | 201 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
