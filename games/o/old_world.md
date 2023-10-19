@@ -67,11 +67,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Artisans | 0.90% | ~133 |
 | Acropolis | 0.90% | ~133 |
 | Apadana | 0.90% | ~133 |
+| Mythology | 0.90% | ~133 |
 | Win a Single Player Game | 0.90% | ~133 |
 | Champions | 0.80% | ~118 |
 | Sages | 0.80% | ~118 |
 | Mausoleum | 0.80% | ~118 |
-| Mythology | 0.80% | ~118 |
 | Hanging Gardens in Babylon | 0.70% | ~104 |
 | Beloved | 0.70% | ~104 |
 | Conqueror | 0.70% | ~104 |
@@ -100,6 +100,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legionary | 0.60% | ~89 |
 | Phalangite | 0.60% | ~89 |
 | Double Victory | 0.60% | ~89 |
+| Capable | 0.50% | ~74 |
 | Strong Difficulty | 0.50% | ~74 |
 | Hunters | 0.50% | ~74 |
 | Statesmen | 0.50% | ~74 |
@@ -120,7 +121,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Great Mage | 0.50% | ~74 |
 | Poetic Leader | 0.50% | ~74 |
 | Kmt Unified | 0.50% | ~74 |
-| Capable | 0.40% | ~59 |
 | Devout | 0.40% | ~59 |
 | Ready | 0.40% | ~59 |
 | Clerics | 0.40% | ~59 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,799 (Ranked 136)  
+Progressed: 14,800 (Ranked 136)  
 Completed: 5 (0.03%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -531,7 +531,7 @@ Completed: 5 (0.03%) (Ranked 285)
 | 2023-10-16 | 14,747 | 5 |
 | 2023-10-17 | 14,775 | 5 |
 | 2023-10-18 | 14,791 | 5 |
-| 2023-10-19 | 14,799 | 5 |
+| 2023-10-19 | 14,800 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,847 (Ranked 211)  

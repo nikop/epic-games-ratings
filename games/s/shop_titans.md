@@ -41,12 +41,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | Flawless Fusion | 0.90% | ~1,240 |
 | Helping Hand | 0.90% | ~1,240 |
 | Natural 20 | 0.90% | ~1,240 |
-| Tax not Included | 0.80% | ~1,102 |
-| Fated Encounters | 0.80% | ~1,102 |
-| Power of Love | 0.80% | ~1,102 |
-| Trash to Treasure | 0.80% | ~1,102 |
-| Royal Ransom | 0.80% | ~1,102 |
-| Magical Harmony | 0.80% | ~1,102 |
+| Tax not Included | 0.80% | ~1,103 |
+| Fated Encounters | 0.80% | ~1,103 |
+| Power of Love | 0.80% | ~1,103 |
+| Trash to Treasure | 0.80% | ~1,103 |
+| Royal Ransom | 0.80% | ~1,103 |
+| Magical Harmony | 0.80% | ~1,103 |
 | A Notch Above the Rest | 0.70% | ~965 |
 | The King's Caprice | 0.70% | ~965 |
 | Big Game Hunting | 0.70% | ~965 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,810 (Ranked 73)  
+Progressed: 137,813 (Ranked 73)  
 Completed: 171 (0.12%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,7 +301,7 @@ Completed: 171 (0.12%) (Ranked 242)
 | 2023-10-16 | 137,703 | 168 |
 | 2023-10-17 | 137,757 | 170 |
 | 2023-10-18 | 137,790 | 171 |
-| 2023-10-19 | 137,810 | 171 |
+| 2023-10-19 | 137,813 | 171 |
 ## Awards
 Max (Great for Beginners): 4,793  (Ranked 72)  
 Sum: 27,406 (Ranked 50)  

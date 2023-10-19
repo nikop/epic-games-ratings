@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -559,9 +559,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3755,
+  "EOS_Progressed": 3756,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -7339,6 +7339,11 @@
       "Time": "2023-10-19T05:04:22.3550303+00:00",
       "NumProgressed": 3755,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-19T13:11:34.6335101+00:00",
+      "NumProgressed": 3756,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7406,7 +7411,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -7430,7 +7435,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1727
+      "UsersEstimate": 1728
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -7550,7 +7555,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 713
+      "UsersEstimate": 714
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -7558,7 +7563,7 @@
       "Name": "Lord of War",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1126
+      "UsersEstimate": 1127
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -7598,7 +7603,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1389
+      "UsersEstimate": 1390
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -7742,7 +7747,7 @@
       "Name": "Target America",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -7917,13 +7922,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3706,
+      "Progressed": 3707,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3755,
+      "Progressed": 3756,
       "Completed": 11
     }
   ],
@@ -7931,8 +7936,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-10-18T04:01:21.5719039+00:00",
-  "LastChanged_Achievements": "2023-10-19T12:05:14.6859749+00:00",
+  "LastChanged_Achievements": "2023-10-19T13:11:34.6335088+00:00",
   "LastUpdate_AppInfo": "2023-10-14T10:57:25.01046+00:00",
-  "LastUpdate_Ratings": "2023-10-19T12:02:14.4749295+00:00",
-  "LastUpdate_Achievements": "2023-10-19T12:05:14.6860896+00:00"
+  "LastUpdate_Ratings": "2023-10-19T13:09:02.2651983+00:00",
+  "LastUpdate_Achievements": "2023-10-19T13:11:34.6336287+00:00"
 }

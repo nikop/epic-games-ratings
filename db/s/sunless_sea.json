@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 356,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
@@ -730,7 +730,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 39052,
+  "EOS_Progressed": 39053,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 354,
   "EOS_NewCompleters": 0,
@@ -19250,6 +19250,11 @@
       "Time": "2023-10-19T12:05:48.5745753+00:00",
       "NumProgressed": 39052,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-19T13:12:13.8332978+00:00",
+      "NumProgressed": 39053,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -19507,9 +19512,9 @@
       "ID": "ach_portbones",
       "SetID": "ammcm",
       "Name": "His bones in whispers",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 391
+      "UsersEstimate": 351
     },
     {
       "ID": "ach_portdeep",
@@ -19613,7 +19618,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 7029
+      "UsersEstimate": 7030
     },
     {
       "ID": "ach_terror100",
@@ -19692,15 +19697,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 39052,
+      "Progressed": 39053,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-10-14T19:58:49.9428019+00:00",
-  "LastChanged_Achievements": "2023-10-19T12:05:48.5745748+00:00",
+  "LastChanged_Achievements": "2023-10-19T13:12:13.8332971+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:49.4242639+00:00",
-  "LastUpdate_Ratings": "2023-10-19T12:00:50.9055215+00:00",
-  "LastUpdate_Achievements": "2023-10-19T12:05:48.5747173+00:00"
+  "LastUpdate_Ratings": "2023-10-19T13:07:18.0711707+00:00",
+  "LastUpdate_Achievements": "2023-10-19T13:12:13.8334932+00:00"
 }

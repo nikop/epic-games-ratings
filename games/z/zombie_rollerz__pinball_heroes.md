@@ -25,8 +25,8 @@ Rating: 4.30 (Ranked 816)
 | The Idol | 26.00% | ~45 |
 | Inferno Ruins | 25.00% | ~43 |
 | I'm Rich | 23.00% | ~40 |
+| The Slime | 23.00% | ~40 |
 | 1 is all I need | 22.00% | ~38 |
-| The Slime | 22.00% | ~38 |
 | Untouchable | 20.00% | ~35 |
 | The Giant | 18.00% | ~31 |
 | The Blacksmith | 17.00% | ~29 |

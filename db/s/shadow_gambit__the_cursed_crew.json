@@ -2316,9 +2316,9 @@
       "ID": "_16_UnlockCore8Characters",
       "SetID": "8a1io5d",
       "Name": "Pirates Assemble!",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 199
+      "UsersEstimate": 207
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -2413,8 +2413,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-10-02T00:00:41.2116731+00:00",
-  "LastChanged_Achievements": "2023-10-19T12:09:14.6923479+00:00",
+  "LastChanged_Achievements": "2023-10-19T13:15:40.6752972+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:48.0426096+00:00",
-  "LastUpdate_Ratings": "2023-10-19T11:59:07.6394397+00:00",
-  "LastUpdate_Achievements": "2023-10-19T12:09:14.6923806+00:00"
+  "LastUpdate_Ratings": "2023-10-19T13:05:18.9740021+00:00",
+  "LastUpdate_Achievements": "2023-10-19T13:15:40.6753347+00:00"
 }

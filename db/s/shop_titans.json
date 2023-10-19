@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -6595,9 +6595,9 @@
       "Count": 3762
     }
   ],
-  "EOS_Progressed": 137810,
+  "EOS_Progressed": 137813,
   "EOS_Completed": 171,
-  "EOS_NewPlayers": 338,
+  "EOS_NewPlayers": 335,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -25220,6 +25220,11 @@
       "Time": "2023-10-19T12:05:40.6809538+00:00",
       "NumProgressed": 137810,
       "NumCompleted": 171
+    },
+    {
+      "Time": "2023-10-19T13:12:04.6457642+00:00",
+      "NumProgressed": 137813,
+      "NumCompleted": 171
     }
   ],
   "TotalAchievements": 112,
@@ -25319,7 +25324,7 @@
       "Name": "Tax not Included",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1102
+      "UsersEstimate": 1103
     },
     {
       "ID": "bigsale03",
@@ -25391,7 +25396,7 @@
       "Name": "Fated Encounters",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1102
+      "UsersEstimate": 1103
     },
     {
       "ID": "chest01",
@@ -25591,7 +25596,7 @@
       "Name": "Power of Love",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1102
+      "UsersEstimate": 1103
     },
     {
       "ID": "energy03",
@@ -25687,7 +25692,7 @@
       "Name": "Trash to Treasure",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1102
+      "UsersEstimate": 1103
     },
     {
       "ID": "gemsspent",
@@ -25727,7 +25732,7 @@
       "Name": "Royal Ransom",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1102
+      "UsersEstimate": 1103
     },
     {
       "ID": "gold05",
@@ -26055,7 +26060,7 @@
       "Name": "Magical Harmony",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1102
+      "UsersEstimate": 1103
     },
     {
       "ID": "typeunlock01",
@@ -26126,15 +26131,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 137810,
+      "Progressed": 137813,
       "Completed": 171
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-19T11:59:44.6314185+00:00",
-  "LastChanged_Achievements": "2023-10-19T12:05:40.6809532+00:00",
+  "LastChanged_Achievements": "2023-10-19T13:12:04.6457637+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:10.2617104+00:00",
-  "LastUpdate_Ratings": "2023-10-19T11:59:44.6314194+00:00",
-  "LastUpdate_Achievements": "2023-10-19T12:05:40.6812264+00:00"
+  "LastUpdate_Ratings": "2023-10-19T13:06:04.0310485+00:00",
+  "LastUpdate_Achievements": "2023-10-19T13:12:04.6460625+00:00"
 }

@@ -8,10 +8,10 @@
 | Dicesmithing Time! | 30.00% | ~18 |
 | Endless Tricks | 30.00% | ~18 |
 | Meissa's Savior | 30.00% | ~18 |
+| Sanctuary Guardian | 30.00% | ~18 |
 | Eridanian Champion | 30.00% | ~18 |
 | Mechanical Buddy | 28.00% | ~17 |
 | Purification Pioneer | 28.00% | ~17 |
-| Sanctuary Guardian | 28.00% | ~17 |
 | Apian Champion | 28.00% | ~17 |
 | Lacertian Champion | 28.00% | ~17 |
 | Wild's Keeper | 27.00% | ~16 |
@@ -24,12 +24,12 @@
 | Heart Gate | 18.00% | ~11 |
 | Shard Spender | 18.00% | ~11 |
 | Star Killer | 18.00% | ~11 |
+| Astral Seeker | 17.00% | ~10 |
+| The Corruption Goddess | 17.00% | ~10 |
 | The Goddes Avatar | 17.00% | ~10 |
 | Astral Adventurer | 15.00% | ~9 |
-| Astral Seeker | 15.00% | ~9 |
-| The Corruption Goddess | 15.00% | ~9 |
 | Unbeatable | 15.00% | ~9 |
-| Favored by the Cosmos | 12.00% | ~7 |
+| Favored by the Cosmos | 13.00% | ~8 |
 | Wave Bender | 12.00% | ~7 |
 | Heavy Purger | 10.00% | ~6 |
 | Apian Hero | 10.00% | ~6 |
@@ -54,6 +54,7 @@
 | Sentinelphobic | 3.00% | ~2 |
 | The Ardent Prince | 3.00% | ~2 |
 | Aquarian Mastery | 3.00% | ~2 |
+| Eridanian Hero | 3.00% | ~2 |
 | Eridanian Mastery | 3.00% | ~2 |
 | Noctuan Hero | 3.00% | ~2 |
 | Noctuan Mastery | 3.00% | ~2 |
@@ -68,7 +69,6 @@
 | The Raging Skies | 2.00% | ~1 |
 | This is Fine | 2.00% | ~1 |
 | Aquarian Hero | 2.00% | ~1 |
-| Eridanian Hero | 2.00% | ~1 |
 | Apian Champion | 0.00% | ~0 |
 | Apian Hero | 0.00% | ~0 |
 | Apian Mastery | 0.00% | ~0 |

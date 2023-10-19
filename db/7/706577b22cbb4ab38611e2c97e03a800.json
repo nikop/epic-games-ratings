@@ -4,7 +4,7 @@
   "ProductSlug": "geometric-sniper-z-ef97ef",
   "Ranking_EOS_Progress": 365,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-09-08T17:00:00+00:00",
@@ -583,9 +583,9 @@
       "ID": "ACHIEVEMENT_AV_14",
       "SetID": "b50kim2",
       "Name": "MISSION 14",
-      "Percentage": 0,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_AV_15",
@@ -639,9 +639,9 @@
       "ID": "ACHIEVEMENT_MRE_03",
       "SetID": "b50kim2",
       "Name": "BEST CLIENT",
-      "Percentage": 0,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_MRE_04",
@@ -719,7 +719,7 @@
       "ID": "ACHIEVEMENT_MR_06",
       "SetID": "b50kim2",
       "Name": "MY 6TH REWARD",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -727,9 +727,9 @@
       "ID": "ACHIEVEMENT_MR_07",
       "SetID": "b50kim2",
       "Name": "MY 7TH REWARD",
-      "Percentage": 0,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_RW_01",
@@ -886,8 +886,8 @@
   ],
   "FirstSeen": "2023-09-12T13:03:58.3163014+00:00",
   "FirstSeenAchievements": "2023-07-24T21:06:11.7516454+00:00",
-  "LastChanged_Achievements": "2023-10-19T12:09:41.1625335+00:00",
+  "LastChanged_Achievements": "2023-10-19T13:16:11.8733521+00:00",
   "LastUpdate_AppInfo": "2023-10-17T04:57:03.2083263+00:00",
-  "LastUpdate_Ratings": "2023-10-19T12:02:16.729243+00:00",
-  "LastUpdate_Achievements": "2023-10-19T12:09:41.1625764+00:00"
+  "LastUpdate_Ratings": "2023-10-19T13:09:04.9147488+00:00",
+  "LastUpdate_Achievements": "2023-10-19T13:16:11.8734034+00:00"
 }

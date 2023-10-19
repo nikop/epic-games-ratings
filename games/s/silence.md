@@ -22,7 +22,7 @@
 | Like a moth in the Wind | 24.00% | ~32 |
 | Bubblekillerfamily | 23.00% | ~31 |
 | Quite a buggy game | 22.00% | ~29 |
-| Mirror mirror on the wall... | 20.00% | ~27 |
+| Mirror mirror on the wall... | 21.00% | ~28 |
 | Pacifist | 19.00% | ~25 |
 | Fastidious Clown | 19.00% | ~25 |
 | Home is where the heart is | 19.00% | ~25 |

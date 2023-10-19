@@ -13814,9 +13814,9 @@
       "Count": 10733
     }
   ],
-  "EOS_Progressed": 892648,
+  "EOS_Progressed": 892650,
   "EOS_Completed": 2683,
-  "EOS_NewPlayers": 1533,
+  "EOS_NewPlayers": 1522,
   "EOS_NewCompleters": 39,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -34399,362 +34399,368 @@
       "Time": "2023-10-19T11:04:04.2631998+00:00",
       "NumProgressed": 892648,
       "NumCompleted": 2683
+    },
+    {
+      "Time": "2023-10-19T13:11:06.8273419+00:00",
+      "NumProgressed": 892650,
+      "NumCompleted": 2683
     }
   ],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
+  "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
+  "TotalAchievements": 57,
+  "TotalAchievementsXP": 1500,
   "Achievements": [
     {
       "ID": "Bladerunner",
       "SetID": "47clieb",
       "Name": "City Lights",
-      "Percentage": 6,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 53558
+      "UsersEstimate": 893
     },
     {
       "ID": "BornToBeWild",
       "SetID": "47clieb",
       "Name": "To Bad Decisions!",
-      "Percentage": 11,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 98191
+      "UsersEstimate": 893
     },
     {
       "ID": "BushidoAndChill",
       "SetID": "47clieb",
       "Name": "Bushido and Chill",
-      "Percentage": 19,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 169602
+      "UsersEstimate": 893
     },
     {
       "ID": "Cyberjunkie",
       "SetID": "47clieb",
       "Name": "Full Body Conversion",
-      "Percentage": 24,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 214234
+      "UsersEstimate": 893
     },
     {
       "ID": "Denied",
       "SetID": "47clieb",
       "Name": "Right Back At Ya",
-      "Percentage": 45,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 401688
+      "UsersEstimate": 893
     },
     {
       "ID": "FollowingTheRiver",
       "SetID": "47clieb",
       "Name": "To Protect and Serve",
-      "Percentage": 15,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 133896
+      "UsersEstimate": 893
     },
     {
       "ID": "Fortuneteller",
       "SetID": "47clieb",
       "Name": "The Wandering Fool",
-      "Percentage": 11,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 98191
+      "UsersEstimate": 893
     },
     {
       "ID": "Gearhead",
       "SetID": "47clieb",
       "Name": "Autojock",
-      "Percentage": 3,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 26779
+      "UsersEstimate": 893
     },
     {
       "ID": "GetMeThereScottie",
       "SetID": "47clieb",
       "Name": "Frequent Flyer",
-      "Percentage": 3,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 26779
+      "UsersEstimate": 893
     },
     {
       "ID": "GunKata",
       "SetID": "47clieb",
       "Name": "Gun Fu",
-      "Percentage": 18,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 160675
+      "UsersEstimate": 893
     },
     {
       "ID": "Gunslinger",
       "SetID": "47clieb",
       "Name": "Gunslinger",
-      "Percentage": 10,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 89264
+      "UsersEstimate": 893
     },
     {
       "ID": "HandyMan",
       "SetID": "47clieb",
       "Name": "Master Crafter",
-      "Percentage": 21,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 187455
+      "UsersEstimate": 893
     },
     {
       "ID": "IAmMaxTac",
       "SetID": "47clieb",
       "Name": "I Am The Law",
-      "Percentage": 16,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 142823
+      "UsersEstimate": 893
     },
     {
       "ID": "LikeFatherLikeSon",
       "SetID": "47clieb",
       "Name": "Mean Streets",
-      "Percentage": 10,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 89264
+      "UsersEstimate": 893
     },
     {
       "ID": "LittleTokyo",
       "SetID": "47clieb",
       "Name": "Little Tokyo",
-      "Percentage": 4,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 35706
+      "UsersEstimate": 893
     },
     {
       "ID": "MasterRunner",
       "SetID": "47clieb",
       "Name": "Christmas Tree Attack",
-      "Percentage": 26,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 232087
+      "UsersEstimate": 893
     },
     {
       "ID": "MaxPain",
       "SetID": "47clieb",
       "Name": "The Quick and the Dead",
-      "Percentage": 13,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 116043
+      "UsersEstimate": 893
     },
     {
       "ID": "MustBeTheRats",
       "SetID": "47clieb",
       "Name": "Must Be Rats",
-      "Percentage": 5,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 44632
+      "UsersEstimate": 893
     },
     {
       "ID": "NeverFadeAway",
       "SetID": "47clieb",
       "Name": "Breathtaking",
-      "Percentage": 14,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 124970
+      "UsersEstimate": 893
     },
     {
       "ID": "NoMansLand",
       "SetID": "47clieb",
       "Name": "The Wasteland",
-      "Percentage": 3,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 26779
+      "UsersEstimate": 893
     },
     {
       "ID": "NotTheMobile",
       "SetID": "47clieb",
       "Name": "Daemon In The Shell",
-      "Percentage": 3,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 26779
+      "UsersEstimate": 893
     },
     {
       "ID": "QueenOfTheHighway",
       "SetID": "47clieb",
       "Name": "Life of the Road",
-      "Percentage": 23,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 205307
+      "UsersEstimate": 893
     },
     {
       "ID": "Roleplayer",
       "SetID": "47clieb",
       "Name": "Stanislavski\u0027s Method",
-      "Percentage": 34,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 303498
+      "UsersEstimate": 893
     },
     {
       "ID": "Specialist",
       "SetID": "47clieb",
       "Name": "Ten out of Ten",
-      "Percentage": 22,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 196381
+      "UsersEstimate": 893
     },
     {
       "ID": "Temperance",
       "SetID": "47clieb",
       "Name": "Temperance",
-      "Percentage": 9,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 80338
+      "UsersEstimate": 893
     },
     {
       "ID": "ThatIsSoHardForTheKnees",
       "SetID": "47clieb",
       "Name": "Rough Landing",
-      "Percentage": 13,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 116043
+      "UsersEstimate": 893
     },
     {
       "ID": "TheDevil",
       "SetID": "47clieb",
       "Name": "The Devil",
-      "Percentage": 5,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 44632
+      "UsersEstimate": 893
     },
     {
       "ID": "TheFool",
       "SetID": "47clieb",
       "Name": "The Fool",
-      "Percentage": 71,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 633775
+      "UsersEstimate": 893
     },
     {
       "ID": "TheHermit",
       "SetID": "47clieb",
       "Name": "The Hermit",
-      "Percentage": 30,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 267792
+      "UsersEstimate": 893
     },
     {
       "ID": "TheHightPriestess",
       "SetID": "47clieb",
       "Name": "The High Priestess",
-      "Percentage": 30,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 267792
+      "UsersEstimate": 893
     },
     {
       "ID": "TheLovers",
       "SetID": "47clieb",
       "Name": "The Lovers",
-      "Percentage": 39,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 348130
+      "UsersEstimate": 893
     },
     {
       "ID": "TheStar",
       "SetID": "47clieb",
       "Name": "The Star",
-      "Percentage": 8,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 71411
+      "UsersEstimate": 893
     },
     {
       "ID": "TheSun",
       "SetID": "47clieb",
       "Name": "The Sun",
-      "Percentage": 8,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 71411
+      "UsersEstimate": 893
     },
     {
       "ID": "TheWheelOfFortune",
       "SetID": "47clieb",
       "Name": "The Wheel of Fortune",
-      "Percentage": 33,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 294572
+      "UsersEstimate": 893
     },
     {
       "ID": "TheWorld",
       "SetID": "47clieb",
       "Name": "The World",
-      "Percentage": 22,
+      "Percentage": 0.1,
       "XP": 90,
-      "UsersEstimate": 196381
+      "UsersEstimate": 893
     },
     {
       "ID": "ThisIsPacifica",
       "SetID": "47clieb",
       "Name": "Greetings from Pacifica!",
-      "Percentage": 5,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 44632
+      "UsersEstimate": 893
     },
     {
       "ID": "TradeUnion",
       "SetID": "47clieb",
       "Name": "The Jungle",
-      "Percentage": 12,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 107117
+      "UsersEstimate": 893
     },
     {
       "ID": "TrueSoldier",
       "SetID": "47clieb",
       "Name": "True Soldier",
-      "Percentage": 29,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 258866
+      "UsersEstimate": 893
     },
     {
       "ID": "TrueWarrior",
       "SetID": "47clieb",
       "Name": "True Warrior",
-      "Percentage": 20,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 178528
+      "UsersEstimate": 893
     },
     {
       "ID": "TwoHeadsOneBullet",
       "SetID": "47clieb",
       "Name": "Two Heads, One Bullet",
-      "Percentage": 4,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 35706
+      "UsersEstimate": 893
     },
     {
       "ID": "UnderPressure",
       "SetID": "47clieb",
       "Name": "Judy vs Night City",
-      "Percentage": 2,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 17853
+      "UsersEstimate": 893
     },
     {
       "ID": "VForVendetta",
       "SetID": "47clieb",
       "Name": "V for Vendetta",
-      "Percentage": 4,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 35706
+      "UsersEstimate": 893
     },
     {
       "ID": "YipMan",
       "SetID": "47clieb",
       "Name": "It\u0027s Elementary",
-      "Percentage": 2,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 17853
+      "UsersEstimate": 893
     },
     {
       "ID": "YouKnowWhoIAm",
       "SetID": "47clieb",
       "Name": "Legend of The Afterlife",
-      "Percentage": 4,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 35706
+      "UsersEstimate": 893
     },
     {
       "ID": "All the President\u0027s Men",
@@ -34784,9 +34790,9 @@
       "ID": "DogtownLaw",
       "SetID": "23nboa5",
       "Name": "The APB is Not Enough",
-      "Percentage": 0.7,
+      "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 149
+      "UsersEstimate": 21
     },
     {
       "ID": "Easycomeeasygo",
@@ -34808,9 +34814,9 @@
       "ID": "Kingmaker",
       "SetID": "23nboa5",
       "Name": "Spin Doctor",
-      "Percentage": 2,
+      "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 425
+      "UsersEstimate": 21
     },
     {
       "ID": "Kingofcups",
@@ -34848,9 +34854,9 @@
       "ID": "RelicMaster",
       "SetID": "23nboa5",
       "Name": "Relic Ruler",
-      "Percentage": 0.7,
+      "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 149
+      "UsersEstimate": 21
     },
     {
       "ID": "UltimateSurvivor",
@@ -34859,27 +34865,91 @@
       "Percentage": 0,
       "XP": 35,
       "UsersEstimate": 0
+    },
+    {
+      "ID": "AllThePresidentsMen",
+      "SetID": "23nboa5",
+      "Name": "All the President\u0027s Men",
+      "Percentage": 0.1,
+      "XP": 35,
+      "UsersEstimate": 21
+    },
+    {
+      "ID": "HydraIsDead",
+      "SetID": "23nboa5",
+      "Name": "Judgement Day",
+      "Percentage": 0.1,
+      "XP": 50,
+      "UsersEstimate": 21
+    },
+    {
+      "ID": "IHateSpider",
+      "SetID": "23nboa5",
+      "Name": "Arachnophobia",
+      "Percentage": 0.1,
+      "XP": 35,
+      "UsersEstimate": 21
+    },
+    {
+      "ID": "KingOfTheCups",
+      "SetID": "23nboa5",
+      "Name": "King of Cups",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "KingOfThePentacles",
+      "SetID": "23nboa5",
+      "Name": "King of Pentacles",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "KingOfTheSwords",
+      "SetID": "23nboa5",
+      "Name": "King of Swords",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "KingOfTheWands",
+      "SetID": "23nboa5",
+      "Name": "King of Wands",
+      "Percentage": 0.1,
+      "XP": 35,
+      "UsersEstimate": 21
+    },
+    {
+      "ID": "TheTower",
+      "SetID": "23nboa5",
+      "Name": "The Tower",
+      "Percentage": 0.1,
+      "XP": 35,
+      "UsersEstimate": 21
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 892648,
+      "Progressed": 892650,
       "Completed": 2683
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 21271,
+      "Progressed": 21273,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-19T09:58:11.5452302+00:00",
-  "LastChanged_Achievements": "2023-10-19T12:04:51.2007978+00:00",
+  "LastChanged_Achievements": "2023-10-19T13:11:06.8273409+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:37.5483976+00:00",
-  "LastUpdate_Ratings": "2023-10-19T11:58:24.1494503+00:00",
-  "LastUpdate_Achievements": "2023-10-19T12:04:51.2009293+00:00"
+  "LastUpdate_Ratings": "2023-10-19T13:04:27.6095896+00:00",
+  "LastUpdate_Achievements": "2023-10-19T13:11:06.8830598+00:00"
 }

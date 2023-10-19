@@ -17,8 +17,8 @@ Rating: 4.24 (Ranked 859)
 | Studied The Blade | 25.00% | ~523 |
 | Home Invasion | 23.00% | ~481 |
 | Luminary | 23.00% | ~481 |
+| True Survivor | 22.00% | ~460 |
 | It's a Trap | 22.00% | ~460 |
-| True Survivor | 21.00% | ~439 |
 | Offensive Defense | 20.00% | ~418 |
 | Shocking | 20.00% | ~418 |
 | Unforeseeable Consequences | 20.00% | ~418 |
@@ -31,10 +31,10 @@ Rating: 4.24 (Ranked 859)
 | Bad Dog | 13.00% | ~272 |
 | Where It All Began | 13.00% | ~272 |
 | Risk Tolerant | 13.00% | ~272 |
+| Sorry, Didn't See You There | 13.00% | ~272 |
 | What A Catchy Song | 13.00% | ~272 |
 | Corrupted Beauty | 12.00% | ~251 |
 | Marked For Success | 12.00% | ~251 |
-| Sorry, Didn't See You There | 12.00% | ~251 |
 | Stimulating The Local Economy | 10.00% | ~209 |
 | Triplets | 10.00% | ~209 |
 | Denying Prophecy | 9.00% | ~188 |

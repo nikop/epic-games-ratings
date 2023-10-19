@@ -13,8 +13,8 @@
 | Fugue Forest | 2.00% | ~16 |
 | Tempo | 1.00% | ~8 |
 | Cadence | 1.00% | ~8 |
-| Maestro Mountain Glyph | 0.90% | ~7 |
-| Silent City: Reprise | 0.90% | ~7 |
+| Maestro Mountain Glyph | 0.80% | ~7 |
+| Silent City: Reprise | 0.80% | ~7 |
 | Coda Cave | 0.70% | ~6 |
 | Solo Sea | 0.70% | ~6 |
 | Antiphony | 0.60% | ~5 |
@@ -33,7 +33,7 @@
 | Ostinato | 0.00% | ~0 |
 | Rondo | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 823 (Ranked 245)  
+Progressed: 824 (Ranked 245)  
 Completed: 0 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,6 +90,7 @@ Completed: 0 (0.00%) (Ranked 316)
 | 2023-10-15 | 818 | 0 |
 | 2023-10-16 | 820 | 0 |
 | 2023-10-17 | 823 | 0 |
+| 2023-10-19 | 824 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

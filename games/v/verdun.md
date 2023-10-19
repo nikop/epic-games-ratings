@@ -6,18 +6,18 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~47,648 |
+| Setting an example | 78.00% | ~47,649 |
 | Worth it | 63.00% | ~38,485 |
 | Eagle Eye | 55.00% | ~33,598 |
 | Corpseman I | 40.00% | ~24,435 |
-| Blast fishing | 37.00% | ~22,602 |
+| Blast fishing | 37.00% | ~22,603 |
 | Not alone | 32.00% | ~19,548 |
 | Headhunter I | 26.00% | ~15,883 |
 | Manual Labour I | 25.00% | ~15,272 |
 | Developers, Developers, Developers | 24.00% | ~14,661 |
 | Basic Training | 24.00% | ~14,661 |
 | Furchtlos und Treu | 13.00% | ~7,941 |
-| Gott Mit Uns | 12.00% | ~7,330 |
+| Gott Mit Uns | 12.00% | ~7,331 |
 | This We'll Defend! | 9.00% | ~5,498 |
 | Anker wirf! | 9.00% | ~5,498 |
 | Providentiea Memor | 9.00% | ~5,498 |
@@ -28,14 +28,14 @@ Number of Ratings: 1,999  (23.09.2022)
 | In Treue Fest | 5.00% | ~3,054 |
 | Voor De Koning | 5.00% | ~3,054 |
 | Extreme Headhunter | 5.00% | ~3,054 |
-| Advance Australia | 4.00% | ~2,443 |
-| We Stand on Guard | 4.00% | ~2,443 |
-| Sidi Brahim | 4.00% | ~2,443 |
-| War is better with friends I | 4.00% | ~2,443 |
-| Let them, come to us | 4.00% | ~2,443 |
-| There is no I in team | 4.00% | ~2,443 |
-| Corpseman II | 4.00% | ~2,443 |
-| Manual Labour II | 4.00% | ~2,443 |
+| Advance Australia | 4.00% | ~2,444 |
+| We Stand on Guard | 4.00% | ~2,444 |
+| Sidi Brahim | 4.00% | ~2,444 |
+| War is better with friends I | 4.00% | ~2,444 |
+| Let them, come to us | 4.00% | ~2,444 |
+| There is no I in team | 4.00% | ~2,444 |
+| Corpseman II | 4.00% | ~2,444 |
+| Manual Labour II | 4.00% | ~2,444 |
 | Offense is the best defence | 3.00% | ~1,833 |
 | Veteran | 3.00% | ~1,833 |
 | In My Defens God Me Defend | 3.00% | ~1,833 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~61 |
 | Blood Brother | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,087 (Ranked 99)  
+Progressed: 61,088 (Ranked 99)  
 Completed: 4 (0.01%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,7 +248,7 @@ Completed: 4 (0.01%) (Ranked 298)
 | 2023-10-16 | 60,915 | 4 |
 | 2023-10-17 | 60,996 | 4 |
 | 2023-10-18 | 61,063 | 4 |
-| 2023-10-19 | 61,087 | 4 |
+| 2023-10-19 | 61,088 | 4 |
 ## Awards
 Max (Highly Recommended): 97  (Ranked 351)  
 Sum: 777 (Ranked 273)  

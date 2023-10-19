@@ -634,9 +634,9 @@
       "ID": "4004_achv_mirror",
       "SetID": "dhn82m5",
       "Name": "Mirror mirror on the wall...",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     }
   ],
   "AchievementSets": [
@@ -651,8 +651,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-10-19T12:08:11.2912433+00:00",
+  "LastChanged_Achievements": "2023-10-19T13:15:02.580773+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:18.7785976+00:00",
-  "LastUpdate_Ratings": "2023-10-19T11:59:19.7473082+00:00",
-  "LastUpdate_Achievements": "2023-10-19T12:08:11.2912792+00:00"
+  "LastUpdate_Ratings": "2023-10-19T13:05:34.4404836+00:00",
+  "LastUpdate_Achievements": "2023-10-19T13:15:02.5808145+00:00"
 }

@@ -27,15 +27,15 @@
 | Et in arcadia ego | 30.00% | ~9 |
 | You've awakened the beast | 27.00% | ~8 |
 | Hate is... addictive | 27.00% | ~8 |
-| Blessed antennas | 23.00% | ~7 |
+| Blessed antennas | 27.00% | ~8 |
 | The bully | 23.00% | ~7 |
+| Pulp! The Beyond | 20.00% | ~6 |
 | The barbarian invasions | 20.00% | ~6 |
 | The beast in the Oval Office | 17.00% | ~5 |
 | Blood Red Island | 17.00% | ~5 |
 | Bread and bocaua | 17.00% | ~5 |
 | Fanatacism is... poisonous | 17.00% | ~5 |
 | The adventurer | 17.00% | ~5 |
-| Pulp! The Beyond | 17.00% | ~5 |
 | America had no Faith | 17.00% | ~5 |
 | The scholar | 13.00% | ~4 |
 | Pulp! True Adventures | 13.00% | ~4 |
@@ -52,7 +52,7 @@
 | Pulp! Mister Mystery | 0.00% | ~0 |
 | Pulp! The Vault of Horror | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30 (Ranked 472)  
+Progressed: 30 (Ranked 473)  
 Completed: 0 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -6,53 +6,58 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 71.00% | ~633,775 |
-| Right Back At Ya | 45.00% | ~401,688 |
-| The Lovers | 39.00% | ~348,130 |
-| Stanislavski's Method | 34.00% | ~303,498 |
-| The Wheel of Fortune | 33.00% | ~294,572 |
-| The Hermit | 30.00% | ~267,792 |
-| The High Priestess | 30.00% | ~267,792 |
-| True Soldier | 29.00% | ~258,866 |
-| Christmas Tree Attack | 26.00% | ~232,087 |
-| Full Body Conversion | 24.00% | ~214,234 |
-| Life of the Road | 23.00% | ~205,307 |
-| Ten out of Ten | 22.00% | ~196,381 |
-| The World | 22.00% | ~196,381 |
-| Master Crafter | 21.00% | ~187,455 |
-| True Warrior | 20.00% | ~178,528 |
-| Bushido and Chill | 19.00% | ~169,602 |
-| Gun Fu | 18.00% | ~160,675 |
-| I Am The Law | 16.00% | ~142,823 |
-| To Protect and Serve | 15.00% | ~133,896 |
-| Breathtaking | 14.00% | ~124,970 |
-| The Quick and the Dead | 13.00% | ~116,043 |
-| Rough Landing | 13.00% | ~116,043 |
-| The Jungle | 12.00% | ~107,117 |
-| To Bad Decisions! | 11.00% | ~98,191 |
-| The Wandering Fool | 11.00% | ~98,191 |
-| Gunslinger | 10.00% | ~89,264 |
-| Mean Streets | 10.00% | ~89,264 |
-| Temperance | 9.00% | ~80,338 |
-| The Star | 8.00% | ~71,411 |
-| The Sun | 8.00% | ~71,411 |
-| City Lights | 6.00% | ~53,558 |
-| Must Be Rats | 5.00% | ~44,632 |
-| The Devil | 5.00% | ~44,632 |
-| Greetings from Pacifica! | 5.00% | ~44,632 |
-| Little Tokyo | 4.00% | ~35,706 |
-| Two Heads, One Bullet | 4.00% | ~35,706 |
-| V for Vendetta | 4.00% | ~35,706 |
-| Legend of The Afterlife | 4.00% | ~35,706 |
-| Autojock | 3.00% | ~26,779 |
-| Frequent Flyer | 3.00% | ~26,779 |
-| The Wasteland | 3.00% | ~26,779 |
-| Daemon In The Shell | 3.00% | ~26,779 |
-| Judy vs Night City | 2.00% | ~17,853 |
-| It's Elementary | 2.00% | ~17,853 |
-| Spin Doctor | 2.00% | ~425 |
-| The APB is Not Enough | 0.70% | ~149 |
-| Relic Ruler | 0.70% | ~149 |
+| City Lights | 0.10% | ~893 |
+| To Bad Decisions! | 0.10% | ~893 |
+| Bushido and Chill | 0.10% | ~893 |
+| Full Body Conversion | 0.10% | ~893 |
+| Right Back At Ya | 0.10% | ~893 |
+| To Protect and Serve | 0.10% | ~893 |
+| The Wandering Fool | 0.10% | ~893 |
+| Autojock | 0.10% | ~893 |
+| Frequent Flyer | 0.10% | ~893 |
+| Gun Fu | 0.10% | ~893 |
+| Gunslinger | 0.10% | ~893 |
+| Master Crafter | 0.10% | ~893 |
+| I Am The Law | 0.10% | ~893 |
+| Mean Streets | 0.10% | ~893 |
+| Little Tokyo | 0.10% | ~893 |
+| Christmas Tree Attack | 0.10% | ~893 |
+| The Quick and the Dead | 0.10% | ~893 |
+| Must Be Rats | 0.10% | ~893 |
+| Breathtaking | 0.10% | ~893 |
+| The Wasteland | 0.10% | ~893 |
+| Daemon In The Shell | 0.10% | ~893 |
+| Life of the Road | 0.10% | ~893 |
+| Stanislavski's Method | 0.10% | ~893 |
+| Ten out of Ten | 0.10% | ~893 |
+| Temperance | 0.10% | ~893 |
+| Rough Landing | 0.10% | ~893 |
+| The Devil | 0.10% | ~893 |
+| The Fool | 0.10% | ~893 |
+| The Hermit | 0.10% | ~893 |
+| The High Priestess | 0.10% | ~893 |
+| The Lovers | 0.10% | ~893 |
+| The Star | 0.10% | ~893 |
+| The Sun | 0.10% | ~893 |
+| The Wheel of Fortune | 0.10% | ~893 |
+| The World | 0.10% | ~893 |
+| Greetings from Pacifica! | 0.10% | ~893 |
+| The Jungle | 0.10% | ~893 |
+| True Soldier | 0.10% | ~893 |
+| True Warrior | 0.10% | ~893 |
+| Two Heads, One Bullet | 0.10% | ~893 |
+| Judy vs Night City | 0.10% | ~893 |
+| V for Vendetta | 0.10% | ~893 |
+| It's Elementary | 0.10% | ~893 |
+| Legend of The Afterlife | 0.10% | ~893 |
+| The APB is Not Enough | 0.10% | ~21 |
+| Spin Doctor | 0.10% | ~21 |
+| Relic Ruler | 0.10% | ~21 |
+| All the President's Men | 0.10% | ~21 |
+| Judgement Day | 0.10% | ~21 |
+| Arachnophobia | 0.10% | ~21 |
+| King of Wands | 0.10% | ~21 |
+| The Tower | 0.10% | ~21 |
 | All the President's Men | 0.00% | ~0 |
 | Arachnophobia | 0.00% | ~0 |
 | Dirty Deeds | 0.00% | ~0 |
@@ -63,8 +68,11 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Swords | 0.00% | ~0 |
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
+| King of Cups | 0.00% | ~0 |
+| King of Pentacles | 0.00% | ~0 |
+| King of Swords | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 892,648 (Ranked 15)  
+Progressed: 892,650 (Ranked 15)  
 Completed: 2,683 (0.30%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +254,7 @@ Completed: 2,683 (0.30%) (Ranked 206)
 | 2023-10-16 | 892,285 | 2,674 |
 | 2023-10-17 | 892,443 | 2,678 |
 | 2023-10-18 | 892,603 | 2,683 |
-| 2023-10-19 | 892,648 | 2,683 |
+| 2023-10-19 | 892,650 | 2,683 |
 ## Awards
 Max (Character Customization): 99,323  (Ranked 9)  
 Sum: 312,337 (Ranked 11)  

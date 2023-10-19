@@ -3,11 +3,11 @@
   "Name": "Trackmania",
   "ProductSlug": "trackmania",
   "Ranking_Rating": 264,
-  "Ranking_Popularity": 88,
+  "Ranking_Popularity": 87,
   "Ranking_PopularitySum": 42,
   "Ranking_EOS_Progress": 681,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 403,
+  "Ranking_EOS_NewPlayers": 402,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2020-07-01T15:00:00+00:00",
@@ -11922,12 +11922,18 @@
       "Rating": 4.67,
       "NumberOfAwards": 30495,
       "NumberOfAwardsMax": 3686
+    },
+    {
+      "Time": "2023-10-19T13:08:24.4124187+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 30525,
+      "NumberOfAwardsMax": 3699
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30495,
-  "NumberOfAwardsMax": 3686,
-  "MaxAwardTitle": "Great for Beginners",
+  "NumberOfAwards": 30525,
+  "NumberOfAwardsMax": 3699,
+  "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
@@ -11945,7 +11951,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 3683
+      "Count": 3699
     },
     {
       "Text": "This game is Extremely Fun",
@@ -11957,7 +11963,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 3186
+      "Count": 3200
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -12013,8 +12019,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2023-10-19T10:01:24.9022271+00:00",
+  "LastChanged": "2023-10-19T13:08:24.4124185+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:19.6896698+00:00",
-  "LastUpdate_Ratings": "2023-10-19T12:01:52.7039757+00:00",
-  "LastUpdate_Achievements": "2023-10-19T12:09:29.2502871+00:00"
+  "LastUpdate_Ratings": "2023-10-19T13:08:24.4124194+00:00",
+  "LastUpdate_Achievements": "2023-10-19T13:15:58.0502692+00:00"
 }

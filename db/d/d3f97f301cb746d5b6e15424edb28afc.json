@@ -564,9 +564,9 @@
       "ID": "ACH_CAR_WASH_01",
       "SetID": "5fn8ia4",
       "Name": "Restored the Car Wash",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_CAR_WASH_02",
@@ -1084,9 +1084,9 @@
       "ID": "GSS_ACH_57_UPGRADE_WAREHOUSE_02",
       "SetID": "5fn8ia4",
       "Name": "Warehouse Lvl. 2",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "GSS_ACH_58_UPGRADE_WAREHOUSE_03",
@@ -1299,8 +1299,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-19T12:05:33.3148235+00:00",
+  "LastChanged_Achievements": "2023-10-19T13:11:56.0248344+00:00",
   "LastUpdate_AppInfo": "2023-10-16T13:57:01.0346306+00:00",
-  "LastUpdate_Ratings": "2023-10-19T11:57:48.3295529+00:00",
-  "LastUpdate_Achievements": "2023-10-19T12:05:33.3149321+00:00"
+  "LastUpdate_Ratings": "2023-10-19T13:03:45.3102491+00:00",
+  "LastUpdate_Achievements": "2023-10-19T13:11:56.0249441+00:00"
 }

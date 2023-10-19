@@ -4,7 +4,7 @@
   "ProductSlug": "eternal-threads-197169",
   "Ranking_EOS_Progress": 681,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 403,
+  "Ranking_EOS_NewPlayers": 402,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -28,9 +28,91 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
+  "TotalAchievements": 10,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "AVID_READER_1_6",
+      "SetID": "24fdn9j",
+      "Name": "Avid Reader",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BEAM_ME_UP_SCOTTY_1_7",
+      "SetID": "24fdn9j",
+      "Name": "Beam Me Up Scotty",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LISTEN_TO_ALL_6_VOICEMAILS_1_4",
+      "SetID": "24fdn9j",
+      "Name": "Good Listener",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MORBIDLY_CURIOUS_1_8",
+      "SetID": "24fdn9j",
+      "Name": "Morbidly Curious",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SAVE_EVERYONE_1_1",
+      "SetID": "24fdn9j",
+      "Name": "Savior",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SAVE_EVERYONE_PERFECT_1_2",
+      "SetID": "24fdn9j",
+      "Name": "Righter of Wrongs",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SAVE_ONE_PERSON_1_0",
+      "SetID": "24fdn9j",
+      "Name": "Rescuer",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SECRETS_OUT_1_9",
+      "SetID": "24fdn9j",
+      "Name": "Secrets Out",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "UNLOCK_ALL_4_DOORS_1_3",
+      "SetID": "24fdn9j",
+      "Name": "Locksmith",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WATCH_ALL_SCENES_1_5",
+      "SetID": "24fdn9j",
+      "Name": "Investigator",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "24fdn9j",
@@ -40,8 +122,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
-  "LastChanged_Achievements": "2023-10-19T12:06:00.4939931+00:00",
+  "LastChanged_Achievements": "2023-10-19T13:12:28.0552986+00:00",
   "LastUpdate_AppInfo": "2023-10-12T15:57:01.2424697+00:00",
-  "LastUpdate_Ratings": "2023-10-19T12:00:30.0416762+00:00",
-  "LastUpdate_Achievements": "2023-10-19T12:06:00.4939966+00:00"
+  "LastUpdate_Ratings": "2023-10-19T13:06:55.6565364+00:00",
+  "LastUpdate_Achievements": "2023-10-19T13:12:28.0577033+00:00"
 }

@@ -169,9 +169,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14115,
+  "EOS_Progressed": 14117,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 240,
+  "EOS_NewPlayers": 241,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -9039,6 +9039,11 @@
       "Time": "2023-10-19T08:05:15.3513632+00:00",
       "NumProgressed": 14115,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-10-19T13:11:01.3823432+00:00",
+      "NumProgressed": 14117,
+      "NumCompleted": 26
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -9083,7 +9088,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2258
+      "UsersEstimate": 2259
     },
     {
       "ID": "14",
@@ -9099,7 +9104,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "16",
@@ -9115,7 +9120,7 @@
       "Name": "Spore Taste",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "18",
@@ -9187,7 +9192,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "26",
@@ -9273,9 +9278,9 @@
       "ID": "8",
       "SetID": "458bbdk",
       "Name": "Data Recoverer",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 85
+      "UsersEstimate": 99
     },
     {
       "ID": "9",
@@ -9290,22 +9295,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14115,
+      "Progressed": 14117,
       "Completed": 26
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 69,
-      "Completed": 69
+      "Progressed": 71,
+      "Completed": 71
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-13T09:00:57.1370573+00:00",
-  "LastChanged_Achievements": "2023-10-19T12:04:46.7116482+00:00",
+  "LastChanged_Achievements": "2023-10-19T13:11:01.3823426+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:40.5814563+00:00",
-  "LastUpdate_Ratings": "2023-10-19T11:58:36.5726995+00:00",
-  "LastUpdate_Achievements": "2023-10-19T12:04:46.7117262+00:00"
+  "LastUpdate_Ratings": "2023-10-19T13:04:40.8805389+00:00",
+  "LastUpdate_Achievements": "2023-10-19T13:11:01.3824187+00:00"
 }

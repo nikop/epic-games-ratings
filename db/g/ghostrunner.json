@@ -1281,9 +1281,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 20328,
+  "EOS_Progressed": 20329,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 475,
+  "EOS_NewPlayers": 474,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -21036,6 +21036,11 @@
       "Time": "2023-10-19T12:06:46.8229004+00:00",
       "NumProgressed": 20328,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2023-10-19T13:13:22.1101274+00:00",
+      "NumProgressed": 20329,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 45,
@@ -21071,7 +21076,7 @@
       "Name": "Back to hell",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 7521
+      "UsersEstimate": 7522
     },
     {
       "ID": "CantRunCantHide",
@@ -21079,7 +21084,7 @@
       "Name": "Can\u0027t Run Can\u0027t Hide",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 3252
+      "UsersEstimate": 3253
     },
     {
       "ID": "DeadInTheAir",
@@ -21111,7 +21116,7 @@
       "Name": "Finish line",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 5285
+      "UsersEstimate": 5286
     },
     {
       "ID": "GRProjectComplete",
@@ -21143,7 +21148,7 @@
       "Name": "I call it luck",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 8944
+      "UsersEstimate": 8945
     },
     {
       "ID": "ImproviseAdaptOverrun",
@@ -21183,7 +21188,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 15449
+      "UsersEstimate": 15450
     },
     {
       "ID": "MoreThanHuman",
@@ -21231,7 +21236,7 @@
       "Name": "Out of order",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 8944
+      "UsersEstimate": 8945
     },
     {
       "ID": "Perfection",
@@ -21263,7 +21268,7 @@
       "Name": "R is for Running",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 3252
+      "UsersEstimate": 3253
     },
     {
       "ID": "RunningOutOfBreath",
@@ -21271,7 +21276,7 @@
       "Name": "Running out of breath",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 10977
+      "UsersEstimate": 10978
     },
     {
       "ID": "RunningWild",
@@ -21319,7 +21324,7 @@
       "Name": "Sword Runner",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 12400
+      "UsersEstimate": 12401
     },
     {
       "ID": "SwordToAGunfight",
@@ -21383,7 +21388,7 @@
       "Name": "Where are my Keys?",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 8131
+      "UsersEstimate": 8132
     },
     {
       "ID": "WhereHeStood",
@@ -21399,28 +21404,28 @@
       "Name": "Why not both",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 6098
+      "UsersEstimate": 6099
     }
   ],
   "AchievementSets": [
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 20328,
+      "Progressed": 20329,
       "Completed": 47
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 20328,
+      "Progressed": 20329,
       "Completed": 75
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-10-19T11:58:16.9304823+00:00",
-  "LastChanged_Achievements": "2023-10-19T12:06:46.8228998+00:00",
+  "LastChanged_Achievements": "2023-10-19T13:13:22.1101265+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:38.0192871+00:00",
-  "LastUpdate_Ratings": "2023-10-19T11:58:16.9304828+00:00",
-  "LastUpdate_Achievements": "2023-10-19T12:06:46.8230387+00:00"
+  "LastUpdate_Ratings": "2023-10-19T13:04:19.6739645+00:00",
+  "LastUpdate_Achievements": "2023-10-19T13:13:22.1102854+00:00"
 }
