@@ -1,7 +1,7 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 972)  
+Rating: 3.99 (Ranked 971)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -84,6 +84,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Item of Renown | 0.60% | ~827 |
 | Master Merchant | 0.60% | ~827 |
 | Laden with Loot | 0.60% | ~827 |
+| Bountiful Harvest | 0.60% | ~827 |
 | Precision Engineering | 0.60% | ~827 |
 | Attrition Mission | 0.60% | ~827 |
 | Glittering Collection | 0.60% | ~827 |
@@ -98,7 +99,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Industrial Evolution | 0.50% | ~689 |
 | Ritualist | 0.50% | ~689 |
 | A Legend is Born | 0.50% | ~689 |
-| Bountiful Harvest | 0.50% | ~689 |
 | Economy of Scarce | 0.50% | ~689 |
 | The Free Encyclopedia | 0.40% | ~551 |
 | Thank You Tom Nook | 0.40% | ~551 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,791 (Ranked 73)  
+Progressed: 137,792 (Ranked 73)  
 Completed: 171 (0.12%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,7 +301,7 @@ Completed: 171 (0.12%) (Ranked 242)
 | 2023-10-16 | 137,703 | 168 |
 | 2023-10-17 | 137,757 | 170 |
 | 2023-10-18 | 137,790 | 171 |
-| 2023-10-19 | 137,791 | 171 |
+| 2023-10-19 | 137,792 | 171 |
 ## Awards
 Max (Great for Beginners): 4,793  (Ranked 72)  
 Sum: 27,403 (Ranked 50)  

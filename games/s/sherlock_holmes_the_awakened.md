@@ -6,12 +6,12 @@ Rating: 4.63 (Ranked 339)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | To Hell In A Handcart | 66.00% | ~451 |
-| Read Between The Lines | 65.00% | ~444 |
-| High Profile | 59.00% | ~403 |
-| Whispers In The Dark | 57.00% | ~389 |
+| Read Between The Lines | 65.00% | ~445 |
+| High Profile | 59.00% | ~404 |
+| Whispers In The Dark | 57.00% | ~390 |
 | Fond Memories | 55.00% | ~376 |
 | A Method To His Madness | 54.00% | ~369 |
-| History Check | 53.00% | ~362 |
+| History Check | 53.00% | ~363 |
 | The New World | 50.00% | ~342 |
 | Open Sesame | 49.00% | ~335 |
 | Sticky Fingers | 49.00% | ~335 |
@@ -22,10 +22,10 @@ Rating: 4.63 (Ranked 339)
 | Lock, Stock, And Barrel | 47.00% | ~321 |
 | Back In The Saddle | 47.00% | ~321 |
 | At Wits' End | 47.00% | ~321 |
-| Bookworm | 45.00% | ~307 |
-| Up In Flames | 45.00% | ~307 |
-| Fhtagn! | 45.00% | ~307 |
-| Going Once... | 40.00% | ~273 |
+| Bookworm | 45.00% | ~308 |
+| Fhtagn! | 45.00% | ~308 |
+| Up In Flames | 44.00% | ~301 |
+| Going Once... | 40.00% | ~274 |
 | Let Me Be Frank | 38.00% | ~260 |
 | Brain Food | 38.00% | ~260 |
 | No Stone Unturned | 38.00% | ~260 |
@@ -34,8 +34,8 @@ Rating: 4.63 (Ranked 339)
 | Big Breakthrough | 14.00% | ~96 |
 | Reawakened | 5.00% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 683 (Ranked 258)  
-Completed: 26 (3.81%) (Ranked 75)  
+Progressed: 684 (Ranked 258)  
+Completed: 26 (3.80%) (Ranked 75)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -185,6 +185,7 @@ Completed: 26 (3.81%) (Ranked 75)
 | 2023-10-15 | 681 | 26 |
 | 2023-10-16 | 682 | 26 |
 | 2023-10-18 | 683 | 26 |
+| 2023-10-19 | 684 | 26 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

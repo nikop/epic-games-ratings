@@ -35,9 +35,9 @@ Rating: 4.50 (Ranked 575)
 | Legions | 0.70% | ~186 |
 | Pesky Jerks | 0.70% | ~186 |
 | We have the best insurance | 0.60% | ~160 |
+| Diabolical | 0.60% | ~160 |
 | Seasoned | 0.60% | ~160 |
 | Collector | 0.50% | ~133 |
-| Diabolical | 0.50% | ~133 |
 | Escape Artist | 0.50% | ~133 |
 | Reckless | 0.50% | ~133 |
 | Rift Destroyer | 0.50% | ~133 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 575)
 | Mycophile | 0.10% | ~27 |
 | Ultimate Defense | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,600 (Ranked 117)  
+Progressed: 26,607 (Ranked 117)  
 Completed: 59 (0.22%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 59 (0.22%) (Ranked 219)
 | 2023-10-16 | 26,537 | 58 |
 | 2023-10-17 | 26,559 | 58 |
 | 2023-10-18 | 26,596 | 59 |
-| 2023-10-19 | 26,600 | 59 |
+| 2023-10-19 | 26,607 | 59 |
 ## Awards
 Max (Great for Quick Sessions): 264  (Ranked 257)  
 Sum: 2,405 (Ranked 188)  

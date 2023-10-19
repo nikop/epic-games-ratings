@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 317,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -735,9 +735,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3268,
+  "EOS_Progressed": 3270,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3670,6 +3670,11 @@
       "Time": "2023-10-17T05:04:30.2949425+00:00",
       "NumProgressed": 3268,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-19T01:47:12.2437066+00:00",
+      "NumProgressed": 3270,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -3857,7 +3862,7 @@
       "Name": "Blood for the Blood God!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "Kills_Bloomspawn",
@@ -3913,7 +3918,7 @@
       "Name": "Purging Spree",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "Kills_Vakir",
@@ -3959,9 +3964,9 @@
       "ID": "MasterCraftLevel3_Ranged",
       "SetID": "3jha1np",
       "Name": "Gunmaster",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 98
     },
     {
       "ID": "MasterOfTheForge",
@@ -4224,21 +4229,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3268,
+      "Progressed": 3270,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3268,
+      "Progressed": 3270,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-09-24T17:03:05.3976488+00:00",
-  "LastChanged_Achievements": "2023-10-19T00:05:00.5515142+00:00",
+  "LastChanged_Achievements": "2023-10-19T01:47:12.2437061+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:10.7881084+00:00",
-  "LastUpdate_Ratings": "2023-10-18T23:58:56.3002033+00:00",
-  "LastUpdate_Achievements": "2023-10-19T00:05:00.551585+00:00"
+  "LastUpdate_Ratings": "2023-10-19T01:41:28.3784777+00:00",
+  "LastUpdate_Achievements": "2023-10-19T01:47:12.2437969+00:00"
 }

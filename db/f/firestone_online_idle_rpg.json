@@ -385,7 +385,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 2048,
+  "EOS_Progressed": 2049,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
@@ -6185,6 +6185,11 @@
       "Time": "2023-10-18T20:04:29.0846426+00:00",
       "NumProgressed": 2048,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-19T01:46:37.1882251+00:00",
+      "NumProgressed": 2049,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -6380,7 +6385,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 860
+      "UsersEstimate": 861
     },
     {
       "ID": "fourleafclover",
@@ -6428,7 +6433,7 @@
       "Name": "Guild Power",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "herewegoagain",
@@ -6652,7 +6657,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1167
+      "UsersEstimate": 1168
     },
     {
       "ID": "thealchemist",
@@ -6756,7 +6761,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1905
+      "UsersEstimate": 1906
     },
     {
       "ID": "warmachinesarmy",
@@ -6788,14 +6793,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1618
+      "UsersEstimate": 1619
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2048,
+      "Progressed": 2049,
       "Completed": 2
     }
   ],
@@ -6803,8 +6808,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-10-18T19:57:48.2497701+00:00",
-  "LastChanged_Achievements": "2023-10-19T00:04:13.8548018+00:00",
+  "LastChanged_Achievements": "2023-10-19T01:46:37.1882244+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:40.7167186+00:00",
-  "LastUpdate_Ratings": "2023-10-18T23:57:34.085201+00:00",
-  "LastUpdate_Achievements": "2023-10-19T00:04:13.8548931+00:00"
+  "LastUpdate_Ratings": "2023-10-19T01:40:29.9170371+00:00",
+  "LastUpdate_Achievements": "2023-10-19T01:46:37.1883745+00:00"
 }

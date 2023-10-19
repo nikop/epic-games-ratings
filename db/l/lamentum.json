@@ -5,9 +5,9 @@
   "Ranking_Rating": 753,
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
-  "Ranking_EOS_Progress": 307,
+  "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewPlayers": 340,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-05-12T16:00:00+00:00",
@@ -66,11 +66,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 325,
+  "EOS_Progressed": 326,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.46,
+  "EOS_Completed_Percentage": 2.45,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:34.4947976+00:00",
@@ -366,6 +366,11 @@
       "Time": "2023-10-15T11:07:33.1024812+00:00",
       "NumProgressed": 325,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-19T01:46:07.3172231+00:00",
+      "NumProgressed": 326,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 19,
@@ -393,7 +398,7 @@
       "Name": "Ritual",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "achievement_03",
@@ -449,15 +454,15 @@
       "Name": "Grau Hill",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "achievement_10",
       "SetID": "7881h0d",
       "Name": "The creature",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 258
     },
     {
       "ID": "achievement_11",
@@ -465,7 +470,7 @@
       "Name": "A forgotten language",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "achievement_12",
@@ -521,14 +526,14 @@
       "Name": "Lamentum",
       "Percentage": 2,
       "XP": 200,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
     {
       "ID": "7881h0d",
       "IsBase": true,
-      "Progressed": 325,
+      "Progressed": 326,
       "Completed": 8
     }
   ],
@@ -536,8 +541,8 @@
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00",
   "LastChanged": "2023-03-31T05:57:59.5947046+00:00",
-  "LastChanged_Achievements": "2023-10-19T00:03:34.2452654+00:00",
+  "LastChanged_Achievements": "2023-10-19T01:46:07.3172225+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:31.9227805+00:00",
-  "LastUpdate_Ratings": "2023-10-18T23:58:43.1430373+00:00",
-  "LastUpdate_Achievements": "2023-10-19T00:03:34.2452789+00:00"
+  "LastUpdate_Ratings": "2023-10-19T01:41:18.651788+00:00",
+  "LastUpdate_Achievements": "2023-10-19T01:46:07.3172428+00:00"
 }

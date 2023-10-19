@@ -2,7 +2,7 @@
   "ID": "07f4a7dd3c884e5d87e9a209716962ca",
   "Name": "Old World",
   "ProductSlug": "old-world",
-  "Ranking_Rating": 305,
+  "Ranking_Rating": 304,
   "Ranking_Popularity": 267,
   "Ranking_PopularitySum": 211,
   "Ranking_EOS_Progress": 135,
@@ -1816,10 +1816,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 1846,
       "NumberOfAwardsMax": 224
+    },
+    {
+      "Time": "2023-10-19T01:41:09.8491702+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1847,
+      "NumberOfAwardsMax": 224
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1846,
+  "NumberOfAwards": 1847,
   "NumberOfAwardsMax": 224,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -1851,7 +1857,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 199
+      "Count": 200
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1896,9 +1902,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14792,
+  "EOS_Progressed": 14794,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 187,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14196,6 +14202,11 @@
       "Time": "2023-10-19T00:09:24.9493242+00:00",
       "NumProgressed": 14792,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-19T01:51:20.9642341+00:00",
+      "NumProgressed": 14794,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -16285,9 +16296,9 @@
       "ID": "ACHIEVEMENT_UNIT_PHALANGITE",
       "SetID": "9201eeb",
       "Name": "Phalangite",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 89
     },
     {
       "ID": "ACHIEVEMENT_UNIT_SIEGE_TOWER",
@@ -16942,21 +16953,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14792,
+      "Progressed": 14794,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14792,
+      "Progressed": 14794,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
-  "LastChanged": "2023-10-18T13:58:39.0543396+00:00",
-  "LastChanged_Achievements": "2023-10-19T00:09:24.9493236+00:00",
+  "LastChanged": "2023-10-19T01:41:09.84917+00:00",
+  "LastChanged_Achievements": "2023-10-19T01:51:20.9642336+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:21.7880328+00:00",
-  "LastUpdate_Ratings": "2023-10-18T23:58:31.1826507+00:00",
-  "LastUpdate_Achievements": "2023-10-19T00:09:24.9502983+00:00"
+  "LastUpdate_Ratings": "2023-10-19T01:41:09.8491707+00:00",
+  "LastUpdate_Achievements": "2023-10-19T01:51:20.9654962+00:00"
 }

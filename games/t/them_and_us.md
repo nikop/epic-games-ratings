@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alone with Them | 75.00% | ~166 |
-| Forced to Kill | 71.00% | ~157 |
-| A Night To Remember | 42.00% | ~93 |
-| Safe...For now? | 34.00% | ~75 |
-| Open Sesame | 29.00% | ~64 |
-| What have I done!? | 19.00% | ~42 |
-| Them and Us | 18.00% | ~40 |
-| OUTRAGE | 18.00% | ~40 |
-| Alone In The Dark | 14.00% | ~31 |
+| Alone with Them | 74.00% | ~165 |
+| Forced to Kill | 70.00% | ~156 |
+| A Night To Remember | 41.00% | ~91 |
+| Safe...For now? | 34.00% | ~76 |
+| Open Sesame | 29.00% | ~65 |
+| What have I done!? | 18.00% | ~40 |
+| Them and Us | 17.00% | ~38 |
+| OUTRAGE | 17.00% | ~38 |
 | The Cultists | 14.00% | ~31 |
 | This Coffin Has Your Name On It! | 14.00% | ~31 |
+| Alone In The Dark | 13.00% | ~29 |
 | Parasite Exterminated | 13.00% | ~29 |
 | The Forgotten Tower | 13.00% | ~29 |
-| Lover of classics | 11.00% | ~24 |
-| Trapped | 11.00% | ~24 |
+| Lover of classics | 11.00% | ~25 |
+| Trapped | 11.00% | ~25 |
 | Modern Player | 10.00% | ~22 |
-| Rest In Peace | 10.00% | ~22 |
-| The Curse Is Real | 10.00% | ~22 |
+| Rest In Peace | 9.00% | ~20 |
+| The Curse Is Real | 9.00% | ~20 |
 | What A Mansion | 8.00% | ~18 |
 | Researcher | 6.00% | ~13 |
 | I Am The Gate Keeper! | 6.00% | ~13 |
-| This Mansion Is Clean | 5.00% | ~11 |
 | Armed To The Teeth | 4.00% | ~9 |
+| This Mansion Is Clean | 4.00% | ~9 |
 | Run and Gun | 3.00% | ~7 |
 | The bus stop | 3.00% | ~7 |
 | Back In Time | 2.00% | ~4 |
@@ -36,16 +36,16 @@
 | Retro Player | 1.00% | ~2 |
 | Box Of Ploutus | 0.90% | ~2 |
 | Survival Hero | 0.90% | ~2 |
-| Before The Eclipse | 0.50% | ~1 |
-| Chosen One | 0.50% | ~1 |
-| Die Another Day | 0.50% | ~1 |
-| Dressed to Kill | 0.50% | ~1 |
-| Life Of The Thousand Gods | 0.50% | ~1 |
-| Nightmare Over | 0.50% | ~1 |
-| No Time To Relax | 0.50% | ~1 |
-| Survival Horror | 0.50% | ~1 |
+| Before The Eclipse | 0.40% | ~1 |
+| Chosen One | 0.40% | ~1 |
+| Die Another Day | 0.40% | ~1 |
+| Dressed to Kill | 0.40% | ~1 |
+| Life Of The Thousand Gods | 0.40% | ~1 |
+| Nightmare Over | 0.40% | ~1 |
+| No Time To Relax | 0.40% | ~1 |
+| Survival Horror | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 221 (Ranked 335)  
+Progressed: 223 (Ranked 334)  
 Completed: 1 (0.45%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,6 +115,7 @@ Completed: 1 (0.45%) (Ranked 185)
 | 2023-10-14 | 218 | 1 |
 | 2023-10-16 | 219 | 1 |
 | 2023-10-18 | 221 | 1 |
+| 2023-10-19 | 223 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

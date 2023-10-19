@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1624,
+  "EOS_Progressed": 1625,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6029,6 +6029,11 @@
       "Time": "2023-10-18T19:07:57.6902681+00:00",
       "NumProgressed": 1624,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-19T01:48:49.5638765+00:00",
+      "NumProgressed": 1625,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6208,7 +6213,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "objective_key_alliance_join_1",
@@ -6222,9 +6227,9 @@
       "ID": "objective_key_contest_tiles_3",
       "SetID": "bm61c2p",
       "Name": "Covert Operative",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 211
+      "UsersEstimate": 195
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -6343,7 +6348,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1624,
+      "Progressed": 1625,
       "Completed": 1
     }
   ],
@@ -6351,8 +6356,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-10-19T00:07:10.5500063+00:00",
+  "LastChanged_Achievements": "2023-10-19T01:48:49.563876+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:23.525424+00:00",
-  "LastUpdate_Ratings": "2023-10-19T00:01:29.8780737+00:00",
-  "LastUpdate_Achievements": "2023-10-19T00:07:10.5500575+00:00"
+  "LastUpdate_Ratings": "2023-10-19T01:43:20.106335+00:00",
+  "LastUpdate_Achievements": "2023-10-19T01:48:49.5639644+00:00"
 }

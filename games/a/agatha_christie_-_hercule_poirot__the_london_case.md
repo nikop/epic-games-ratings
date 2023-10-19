@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Little ideas | 61.00% | ~11 |
-| Marc Allard | 61.00% | ~11 |
-| The Ship | 56.00% | ~10 |
-| Seeking the truth | 56.00% | ~10 |
-| An old friend | 50.00% | ~9 |
-| The Gala | 44.00% | ~8 |
-| A curious gathering | 44.00% | ~8 |
-| Little grey cells | 39.00% | ~7 |
-| Impossible is possible | 39.00% | ~7 |
-| The Missing Magdalene | 39.00% | ~7 |
-| Arthur Hastings | 39.00% | ~7 |
-| Everything matters | 33.00% | ~6 |
-| Order and method | 33.00% | ~6 |
-| An expert mediator | 28.00% | ~5 |
-| Betty Allen | 28.00% | ~5 |
-| DI Hardwicke | 28.00% | ~5 |
-| The Investigation Begins | 28.00% | ~5 |
-| An odd series of events | 17.00% | ~3 |
-| Ms. Camilla B. Culsham | 17.00% | ~3 |
-| Irene Court-Smyth | 17.00% | ~3 |
-| The Apartment | 17.00% | ~3 |
+| Little ideas | 58.00% | ~11 |
+| Marc Allard | 58.00% | ~11 |
+| The Ship | 53.00% | ~10 |
+| Seeking the truth | 53.00% | ~10 |
+| An old friend | 47.00% | ~9 |
+| The Gala | 42.00% | ~8 |
+| A curious gathering | 42.00% | ~8 |
+| Little grey cells | 37.00% | ~7 |
+| Impossible is possible | 37.00% | ~7 |
+| The Missing Magdalene | 37.00% | ~7 |
+| Arthur Hastings | 37.00% | ~7 |
+| Everything matters | 32.00% | ~6 |
+| Order and method | 32.00% | ~6 |
+| An expert mediator | 26.00% | ~5 |
+| Betty Allen | 26.00% | ~5 |
+| DI Hardwicke | 26.00% | ~5 |
+| The Investigation Begins | 26.00% | ~5 |
+| An odd series of events | 16.00% | ~3 |
+| Ms. Camilla B. Culsham | 16.00% | ~3 |
+| Irene Court-Smyth | 16.00% | ~3 |
+| The Apartment | 16.00% | ~3 |
 | Well-acquainted | 11.00% | ~2 |
 | Truth from within | 11.00% | ~2 |
 | A rude awakening | 11.00% | ~2 |
@@ -33,7 +33,7 @@
 | Zakariya Demir | 11.00% | ~2 |
 | Bartholomew | 11.00% | ~2 |
 | The Scheme | 11.00% | ~2 |
-| A curious phrase | 6.00% | ~1 |
+| A curious phrase | 5.00% | ~1 |
 | The Denouement | 0.00% | ~0 |
 | Well-travelled | 0.00% | ~0 |
 | A treasured heirloom | 0.00% | ~0 |
@@ -51,7 +51,7 @@
 | The Secrets | 0.00% | ~0 |
 | The Investigation Starts Anew | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18 (Ranked 498)  
+Progressed: 19 (Ranked 495)  
 Completed: 0 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,3 +71,4 @@ Completed: 0 (0.00%) (Ranked 316)
 | 2023-10-06 | 16 | 0 |
 | 2023-10-11 | 17 | 0 |
 | 2023-10-15 | 18 | 0 |
+| 2023-10-19 | 19 | 0 |

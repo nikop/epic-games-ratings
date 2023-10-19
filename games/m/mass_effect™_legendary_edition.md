@@ -49,10 +49,10 @@
 | The Assassin | 33.00% | ~243 |
 | The Justicar | 33.00% | ~243 |
 | The Quarian | 33.00% | ~243 |
+| The Prodigal | 33.00% | ~243 |
 | A Personal Touch | 32.00% | ~236 |
 | Battlemaster | 32.00% | ~236 |
 | The Cure | 32.00% | ~236 |
-| The Prodigal | 32.00% | ~236 |
 | Shopaholic | 32.00% | ~236 |
 | Catharsis | 31.00% | ~228 |
 | Ghost of the Father | 31.00% | ~228 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 48,
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 76,
+  "Ranking_EOS_NewPlayers": 77,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
@@ -7935,9 +7935,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 805255,
+  "EOS_Progressed": 805258,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 777,
+  "EOS_NewPlayers": 774,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -28225,6 +28225,11 @@
       "Time": "2023-10-19T00:04:58.9172521+00:00",
       "NumProgressed": 805255,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-19T01:47:11.0492727+00:00",
+      "NumProgressed": 805258,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -28316,7 +28321,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 257682
+      "UsersEstimate": 257683
     },
     {
       "ID": "Bookworm",
@@ -28324,7 +28329,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 120788
+      "UsersEstimate": 120789
     },
     {
       "ID": "Buddy",
@@ -28452,7 +28457,7 @@
       "Name": "Firestarter",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 120788
+      "UsersEstimate": 120789
     },
     {
       "ID": "Freud",
@@ -28556,7 +28561,7 @@
       "Name": "Insomniac",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 104683
+      "UsersEstimate": 104684
     },
     {
       "ID": "Judas",
@@ -28716,7 +28721,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 161051
+      "UsersEstimate": 161052
     },
     {
       "ID": "RevenantOfLedechko",
@@ -28756,7 +28761,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 161051
+      "UsersEstimate": 161052
     },
     {
       "ID": "SerialKiller",
@@ -28891,15 +28896,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 805255,
+      "Progressed": 805258,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-10-18T19:58:48.6166036+00:00",
-  "LastChanged_Achievements": "2023-10-19T00:04:58.9172516+00:00",
+  "LastChanged_Achievements": "2023-10-19T01:47:11.0492722+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:13.6850555+00:00",
-  "LastUpdate_Ratings": "2023-10-18T23:58:42.3881+00:00",
-  "LastUpdate_Achievements": "2023-10-19T00:04:58.9174124+00:00"
+  "LastUpdate_Ratings": "2023-10-19T01:41:18.1830383+00:00",
+  "LastUpdate_Achievements": "2023-10-19T01:47:11.0494919+00:00"
 }

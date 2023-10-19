@@ -257,9 +257,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1549,
+  "EOS_Progressed": 1550,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.71,
   "EosHistory": [
@@ -2972,6 +2972,11 @@
       "Time": "2023-10-18T17:09:01.4345173+00:00",
       "NumProgressed": 1549,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-10-19T01:51:20.1052282+00:00",
+      "NumProgressed": 1550,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 11,
@@ -2999,7 +3004,7 @@
       "Name": "Screwdriver",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "ACH_DialogoAspettoFisico",
@@ -3007,7 +3012,7 @@
       "Name": "Spicy",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_FineEV5",
@@ -3045,9 +3050,9 @@
       "ID": "ACH_PrimoContattoIrving",
       "SetID": "7a9m7mj",
       "Name": "\u0022Nice\u0022 to meet you",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1193
+      "UsersEstimate": 1178
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -3063,22 +3068,22 @@
       "Name": "Ghost Hunters",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     }
   ],
   "AchievementSets": [
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1549,
+      "Progressed": 1550,
       "Completed": 73
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-09-26T03:58:28.0006108+00:00",
-  "LastChanged_Achievements": "2023-10-19T00:09:24.2374553+00:00",
+  "LastChanged_Achievements": "2023-10-19T01:51:20.1052276+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:38.8477384+00:00",
-  "LastUpdate_Ratings": "2023-10-18T23:59:48.817978+00:00",
-  "LastUpdate_Achievements": "2023-10-19T00:09:24.2374748+00:00"
+  "LastUpdate_Ratings": "2023-10-19T01:42:07.9124072+00:00",
+  "LastUpdate_Achievements": "2023-10-19T01:51:20.1052548+00:00"
 }

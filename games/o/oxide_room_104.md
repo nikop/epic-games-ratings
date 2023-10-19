@@ -16,19 +16,19 @@
 | Antidote | 56.00% | ~104 |
 | Pick the right door | 26.00% | ~48 |
 | The third floor | 19.00% | ~35 |
-| One-way | 16.00% | ~30 |
-| On the right path | 15.00% | ~28 |
+| One-way | 17.00% | ~32 |
+| On the right path | 16.00% | ~30 |
 | It can't be true | 15.00% | ~28 |
 | I'm close now | 12.00% | ~22 |
 | Failed attempt | 12.00% | ~22 |
+| The real escape | 12.00% | ~22 |
 | Good choice | 12.00% | ~22 |
 | Take the long way round | 12.00% | ~22 |
-| The real escape | 11.00% | ~20 |
 | Nightmare in the kitchen | 11.00% | ~20 |
 | He who seeks, finds! | 11.00% | ~20 |
 | Born again | 8.00% | ~15 |
+| 373 | 6.00% | ~11 |
 | The experiment | 6.00% | ~11 |
-| 373 | 5.00% | ~9 |
 | Matthew's revenge | 5.00% | ~9 |
 | Eva's diary | 2.00% | ~4 |
 | Horror book | 2.00% | ~4 |
@@ -36,7 +36,7 @@
 | Matthew's mistakes | 0.00% | ~0 |
 | Sly as a fox | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 186 (Ranked 344)  
+Progressed: 186 (Ranked 345)  
 Completed: 0 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |

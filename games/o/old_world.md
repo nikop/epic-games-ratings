@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 305)  
+Rating: 4.65 (Ranked 304)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -97,6 +97,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legalism | 0.60% | ~89 |
 | Redemption | 0.60% | ~89 |
 | Legionary | 0.60% | ~89 |
+| Phalangite | 0.60% | ~89 |
 | Double Victory | 0.60% | ~89 |
 | Strong Difficulty | 0.50% | ~74 |
 | Hunters | 0.50% | ~74 |
@@ -114,7 +115,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Gnosticism | 0.50% | ~74 |
 | Revelation | 0.50% | ~74 |
 | Cimmerian Archer | 0.50% | ~74 |
-| Phalangite | 0.50% | ~74 |
 | The Clergy | 0.50% | ~74 |
 | The Great Mage | 0.50% | ~74 |
 | Kmt Unified | 0.50% | ~74 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,792 (Ranked 135)  
+Progressed: 14,794 (Ranked 135)  
 Completed: 5 (0.03%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -531,10 +531,10 @@ Completed: 5 (0.03%) (Ranked 285)
 | 2023-10-16 | 14,747 | 5 |
 | 2023-10-17 | 14,775 | 5 |
 | 2023-10-18 | 14,791 | 5 |
-| 2023-10-19 | 14,792 | 5 |
+| 2023-10-19 | 14,794 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
-Sum: 1,846 (Ranked 211)  
+Sum: 1,847 (Ranked 211)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
@@ -543,7 +543,7 @@ Diff (max vs sum): 56
 | This game is Highly Recommended | 214 |
 | This game is Extremely Fun | 213 |
 | This game is Educational | 211 |
-| This game has Challenging Combat | 199 |
+| This game has Challenging Combat | 200 |
 | This game has Quickly Understood Controls | 192 |
 | This game has Amazing Characters | 192 |
 | This game has Amazing Storytelling | 186 |
@@ -701,3 +701,4 @@ Diff (max vs sum): 56
 | 2023-10-16 | 4.65 | - | 224 | 1,842 |
 | 2023-10-17 | 4.65 | - | 224 | 1,844 |
 | 2023-10-18 | 4.65 | - | 224 | 1,846 |
+| 2023-10-19 | 4.65 | - | 224 | 1,847 |

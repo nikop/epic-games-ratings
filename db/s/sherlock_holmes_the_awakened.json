@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 75,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -79,11 +79,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 683,
+  "EOS_Progressed": 684,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.81,
+  "EOS_Completed_Percentage": 3.8,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -2539,6 +2539,11 @@
       "Time": "2023-10-18T19:08:55.9184531+00:00",
       "NumProgressed": 683,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-10-19T01:50:08.0183193+00:00",
+      "NumProgressed": 684,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 28,
@@ -2550,7 +2555,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "MQ01_2",
@@ -2566,7 +2571,7 @@
       "Name": "High Profile",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "MQ02_2",
@@ -2590,7 +2595,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 57,
       "XP": 40,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "MQ03_1",
@@ -2614,7 +2619,7 @@
       "Name": "History Check",
       "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "MQ03_4",
@@ -2638,7 +2643,7 @@
       "Name": "Going Once...",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "MQ04_2",
@@ -2702,7 +2707,7 @@
       "Name": "Bookworm",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "MQ06_3",
@@ -2748,9 +2753,9 @@
       "ID": "MQ08_2",
       "SetID": "bbing49",
       "Name": "Up In Flames",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 307
+      "UsersEstimate": 301
     },
     {
       "ID": "MQ08_3",
@@ -2758,7 +2763,7 @@
       "Name": "Fhtagn!",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "PLTN",
@@ -2773,7 +2778,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 683,
+      "Progressed": 684,
       "Completed": 26
     }
   ],
@@ -2781,8 +2786,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-09-29T08:03:08.864479+00:00",
-  "LastChanged_Achievements": "2023-10-19T00:08:10.9656853+00:00",
+  "LastChanged_Achievements": "2023-10-19T01:50:08.0183189+00:00",
   "LastUpdate_AppInfo": "2023-10-14T11:57:11.1901804+00:00",
-  "LastUpdate_Ratings": "2023-10-19T00:01:14.1514063+00:00",
-  "LastUpdate_Achievements": "2023-10-19T00:08:10.9657163+00:00"
+  "LastUpdate_Ratings": "2023-10-19T01:43:09.3542983+00:00",
+  "LastUpdate_Achievements": "2023-10-19T01:50:08.0183825+00:00"
 }

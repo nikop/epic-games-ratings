@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 52,
+  "Ranking_EOS_NewPlayers": 51,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1147,9 +1147,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 153047,
+  "EOS_Progressed": 153063,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1569,
+  "EOS_NewPlayers": 1583,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12137,6 +12137,11 @@
       "Time": "2023-10-19T00:05:45.9967969+00:00",
       "NumProgressed": 153047,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-19T01:47:46.1498749+00:00",
+      "NumProgressed": 153063,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -12196,7 +12201,7 @@
       "Name": "The Hunt",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1530
+      "UsersEstimate": 1531
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -12220,7 +12225,7 @@
       "Name": "Weeper",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 1530
+      "UsersEstimate": 1531
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -12258,9 +12263,9 @@
       "ID": "DEFEAT_FLOWERROCKGIANT",
       "SetID": "72k7oh",
       "Name": "Glare",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 611
+      "UsersEstimate": 763
     },
     {
       "ID": "DEFEAT_FLOWERVULTURE",
@@ -12340,7 +12345,7 @@
       "Name": "Silenced Whispers",
       "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 1224
+      "UsersEstimate": 1225
     },
     {
       "ID": "MISC_ABSORBMANY",
@@ -12348,7 +12353,7 @@
       "Name": "Devourer",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1224
+      "UsersEstimate": 1225
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -12420,7 +12425,7 @@
       "Name": "Ravenous",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1530
+      "UsersEstimate": 1531
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -12466,9 +12471,9 @@
       "ID": "QUEST_LISTENER",
       "SetID": "72k7oh",
       "Name": "Listen",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 305
     },
     {
       "ID": "QUEST_YON",
@@ -12515,21 +12520,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 152630,
+      "Progressed": 152646,
       "Completed": 1162
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 153047,
+      "Progressed": 153063,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-18T04:02:06.6107489+00:00",
-  "LastChanged_Achievements": "2023-10-19T00:05:45.9967964+00:00",
+  "LastChanged_Achievements": "2023-10-19T01:47:46.1498743+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:33.8479674+00:00",
-  "LastUpdate_Ratings": "2023-10-18T23:57:20.2160094+00:00",
-  "LastUpdate_Achievements": "2023-10-19T00:05:45.996878+00:00"
+  "LastUpdate_Ratings": "2023-10-19T01:40:19.2427032+00:00",
+  "LastUpdate_Achievements": "2023-10-19T01:47:46.1499797+00:00"
 }

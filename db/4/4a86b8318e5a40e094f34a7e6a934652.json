@@ -4,7 +4,7 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 349,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 178,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.12,
   "EosHistory": [
@@ -833,9 +833,9 @@
       "ID": "BRING_PROSPERO",
       "SetID": "aniflfk",
       "Name": "Amusement Park",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 82
+      "UsersEstimate": 84
     },
     {
       "ID": "BUY_EVERYTHING_IN_ECOTOMAT",
@@ -849,9 +849,9 @@
       "ID": "CATCH_30_FISH",
       "SetID": "aniflfk",
       "Name": "Fisherman",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 103
+      "UsersEstimate": 105
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -945,9 +945,9 @@
       "ID": "SPEND_2000_COINS",
       "SetID": "aniflfk",
       "Name": "Crypto Bro",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 75
     },
     {
       "ID": "TAKE_LEECH",
@@ -961,9 +961,9 @@
       "ID": "UPGRADE_SMART_TOWER",
       "SetID": "aniflfk",
       "Name": "Strong Signal",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 98
+      "UsersEstimate": 100
     }
   ],
   "AchievementSets": [
@@ -976,8 +976,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-10-19T00:04:28.0669978+00:00",
+  "LastChanged_Achievements": "2023-10-19T01:46:47.9125581+00:00",
   "LastUpdate_AppInfo": "2023-10-18T15:57:15.7411865+00:00",
-  "LastUpdate_Ratings": "2023-10-19T00:00:21.7195677+00:00",
-  "LastUpdate_Achievements": "2023-10-19T00:04:28.0670135+00:00"
+  "LastUpdate_Ratings": "2023-10-19T01:42:31.0891303+00:00",
+  "LastUpdate_Achievements": "2023-10-19T01:46:47.9125768+00:00"
 }
