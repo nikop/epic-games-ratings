@@ -3,7 +3,7 @@
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 66.67% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.58% |
-| 4 | [The Riflemen](games/t/the_riflemen.md) | 47.28% |
+| 4 | [The Riflemen](games/t/the_riflemen.md) | 47.27% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 47.12% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 33.91% |
@@ -71,7 +71,7 @@
 | 69 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.43% |
 | 70 | [The Bunker](games/t/the_bunker.md) | 4.20% |
 | 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.14% |
-| 72 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.10% |
+| 72 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.09% |
 | 73 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.07% |
 | 74 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.00% |
 | 75 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
@@ -144,7 +144,7 @@
 | 142 | [Trifox](games/t/trifox.md) | 1.06% |
 | 143 | [Adios](games/a/adios.md) | 1.05% |
 | 143 | [Infindustry](games/i/infindustry.md) | 1.05% |
-| 145 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.04% |
+| 145 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.03% |
 | 146 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.02% |
 | 147 | [Sable](games/s/sable.md) | 1.01% |
 | 148 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.99% |
