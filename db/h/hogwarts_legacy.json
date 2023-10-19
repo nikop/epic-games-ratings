@@ -9201,7 +9201,7 @@
       "Count": 726
     }
   ],
-  "EOS_Progressed": 298580,
+  "EOS_Progressed": 298583,
   "EOS_Completed": 489,
   "EOS_NewPlayers": 377,
   "EOS_NewCompleters": 5,
@@ -28711,6 +28711,11 @@
       "Time": "2023-10-19T18:06:24.891635+00:00",
       "NumProgressed": 298580,
       "NumCompleted": 489
+    },
+    {
+      "Time": "2023-10-19T19:06:14.7684319+00:00",
+      "NumProgressed": 298583,
+      "NumCompleted": 489
     }
   ],
   "TotalAchievements": 45,
@@ -28770,7 +28775,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23886
+      "UsersEstimate": 23887
     },
     {
       "ID": "PFA_16",
@@ -28786,7 +28791,7 @@
       "Name": "Beast Friends",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23886
+      "UsersEstimate": 23887
     },
     {
       "ID": "PFA_18",
@@ -28794,7 +28799,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23886
+      "UsersEstimate": 23887
     },
     {
       "ID": "PFA_19",
@@ -28802,7 +28807,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23886
+      "UsersEstimate": 23887
     },
     {
       "ID": "PFA_2",
@@ -28944,9 +28949,9 @@
       "ID": "PFA_35",
       "SetID": "1hf4dep",
       "Name": "Followed the Butterflies",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 26872
+      "UsersEstimate": 29858
     },
     {
       "ID": "PFA_36",
@@ -29050,7 +29055,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38815
+      "UsersEstimate": 38816
     },
     {
       "ID": "PFA_7",
@@ -29058,7 +29063,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38815
+      "UsersEstimate": 38816
     },
     {
       "ID": "PFA_8",
@@ -29081,7 +29086,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298580,
+      "Progressed": 298583,
       "Completed": 489
     }
   ],
@@ -29089,8 +29094,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-19T15:58:33.37354+00:00",
-  "LastChanged_Achievements": "2023-10-19T18:06:24.8916343+00:00",
+  "LastChanged_Achievements": "2023-10-19T19:06:14.7684298+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:16.623812+00:00",
-  "LastUpdate_Ratings": "2023-10-19T17:58:29.0135238+00:00",
-  "LastUpdate_Achievements": "2023-10-19T18:06:24.8918179+00:00"
+  "LastUpdate_Ratings": "2023-10-19T18:58:24.7520133+00:00",
+  "LastUpdate_Achievements": "2023-10-19T19:06:14.7686166+00:00"
 }

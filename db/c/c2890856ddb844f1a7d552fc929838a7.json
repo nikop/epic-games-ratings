@@ -4,7 +4,7 @@
   "ProductSlug": "blasphemous-2",
   "Ranking_Rating": 42,
   "Ranking_Popularity": 530,
-  "Ranking_PopularitySum": 531,
+  "Ranking_PopularitySum": 532,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 221,
@@ -2472,9 +2472,9 @@
       "ID": "AC43",
       "SetID": "l4abp0",
       "Name": "The Finest Craftmanship",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 484
+      "UsersEstimate": 494
     },
     {
       "ID": "AC44",
@@ -2505,8 +2505,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-10-18T11:00:43.2134624+00:00",
-  "LastChanged_Achievements": "2023-10-19T18:06:43.7089231+00:00",
+  "LastChanged_Achievements": "2023-10-19T19:06:33.1158448+00:00",
   "LastUpdate_AppInfo": "2023-10-17T21:57:13.3948519+00:00",
-  "LastUpdate_Ratings": "2023-10-19T17:57:18.5221834+00:00",
-  "LastUpdate_Achievements": "2023-10-19T18:06:43.7089869+00:00"
+  "LastUpdate_Ratings": "2023-10-19T18:57:16.4429084+00:00",
+  "LastUpdate_Achievements": "2023-10-19T19:06:33.1159076+00:00"
 }

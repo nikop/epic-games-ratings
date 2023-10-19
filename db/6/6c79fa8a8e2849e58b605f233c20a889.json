@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2737,
+  "EOS_Progressed": 2738,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -6724,6 +6724,11 @@
       "Time": "2023-10-19T15:06:17.6367294+00:00",
       "NumProgressed": 2737,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-19T19:05:32.2861486+00:00",
+      "NumProgressed": 2738,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -6751,7 +6756,7 @@
       "Name": "Bot Destroyer",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "CLUMSY",
@@ -6767,7 +6772,7 @@
       "Name": "Harold Rex Interfectus Est",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -6791,7 +6796,7 @@
       "Name": "Face-To-Screen-To-Face",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "FEUD_APPRENTICE",
@@ -6815,7 +6820,7 @@
       "Name": "Novice",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 1067
+      "UsersEstimate": 1068
     },
     {
       "ID": "GLOVE_SLAP",
@@ -6839,7 +6844,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1642
+      "UsersEstimate": 1643
     },
     {
       "ID": "GUARD_MAKER",
@@ -6910,14 +6915,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2737,
+      "Progressed": 2738,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-10-19T18:05:42.2572429+00:00",
+  "LastChanged_Achievements": "2023-10-19T19:05:32.2861482+00:00",
   "LastUpdate_AppInfo": "2023-10-18T03:56:56.9534374+00:00",
-  "LastUpdate_Ratings": "2023-10-19T17:59:30.7512977+00:00",
-  "LastUpdate_Achievements": "2023-10-19T18:05:42.2573234+00:00"
+  "LastUpdate_Ratings": "2023-10-19T18:59:26.3566697+00:00",
+  "LastUpdate_Achievements": "2023-10-19T19:05:32.2862052+00:00"
 }

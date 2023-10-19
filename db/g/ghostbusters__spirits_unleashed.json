@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 187,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2437,10 +2437,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2415,
       "NumberOfAwardsMax": 266
+    },
+    {
+      "Time": "2023-10-19T18:59:59.6881944+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2418,
+      "NumberOfAwardsMax": 266
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2415,
+  "NumberOfAwards": 2418,
   "NumberOfAwardsMax": 266,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2448,7 +2454,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 262
+      "Count": 265
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2517,9 +2523,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26638,
+  "EOS_Progressed": 26647,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 265,
+  "EOS_NewPlayers": 273,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -15452,6 +15458,11 @@
       "Time": "2023-10-19T18:04:18.2866512+00:00",
       "NumProgressed": 26638,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-10-19T19:04:09.3337785+00:00",
+      "NumProgressed": 26647,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 51,
@@ -15679,7 +15690,7 @@
       "Name": "Pesky Jerks",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "Reckless",
@@ -15749,9 +15760,9 @@
       "ID": "Solo_Capture",
       "SetID": "819popo",
       "Name": "Solo Capture",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 266
+      "UsersEstimate": 533
     },
     {
       "ID": "Stunner",
@@ -15870,16 +15881,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26638,
+      "Progressed": 26647,
       "Completed": 59
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-10-19T18:00:03.5045792+00:00",
-  "LastChanged_Achievements": "2023-10-19T18:04:18.2866507+00:00",
+  "LastChanged": "2023-10-19T18:59:59.6881942+00:00",
+  "LastChanged_Achievements": "2023-10-19T19:04:09.3337778+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:17.9420656+00:00",
-  "LastUpdate_Ratings": "2023-10-19T18:00:03.50458+00:00",
-  "LastUpdate_Achievements": "2023-10-19T18:04:18.2868706+00:00"
+  "LastUpdate_Ratings": "2023-10-19T18:59:59.688195+00:00",
+  "LastUpdate_Achievements": "2023-10-19T19:04:09.3339297+00:00"
 }

@@ -30,7 +30,6 @@
 | Stop the Monster | 12.00% | ~6 |
 | Stunning Vistas | 12.00% | ~6 |
 | Hunting Season | 12.00% | ~6 |
-| Girl in Love | 10.00% | ~5 |
 | Storm Cloud | 10.00% | ~5 |
 | The Final Deerfest | 10.00% | ~5 |
 | New York City | 10.00% | ~5 |
@@ -40,16 +39,17 @@
 | In One Go | 10.00% | ~5 |
 | Coffee-Themed Fun | 10.00% | ~5 |
 | Bright Falls' Finest | 8.00% | ~4 |
+| Girl in Love | 8.00% | ~4 |
 | Growing Stronger | 8.00% | ~4 |
 | Gone for Good | 8.00% | ~4 |
 | The Story Come True | 8.00% | ~4 |
-| The Old Gods | 8.00% | ~4 |
 | End of the Road | 8.00% | ~4 |
 | Talk Show | 8.00% | ~4 |
 | Told and Retold | 8.00% | ~4 |
 | Not the Last | 6.00% | ~3 |
 | All Smiles | 6.00% | ~3 |
 | We Watch in the Night | 6.00% | ~3 |
+| The Old Gods | 6.00% | ~3 |
 | Rock n' Roll, Baby | 6.00% | ~3 |
 | Secret Stashes | 6.00% | ~3 |
 | The Cult of the Word | 6.00% | ~3 |
@@ -60,7 +60,6 @@
 | Somebody's Home | 4.00% | ~2 |
 | Into the Overlap | 4.00% | ~2 |
 | Back in Watery | 4.00% | ~2 |
-| Cut Short | 4.00% | ~2 |
 | Strange Reality | 2.00% | ~1 |
 | The Koskela Brothers | 2.00% | ~1 |
 | The Trail of the Writer | 2.00% | ~1 |
@@ -69,9 +68,10 @@
 | Hidden by the Trees | 2.00% | ~1 |
 | Back to Life | 2.00% | ~1 |
 | The Nice Things in Life | 2.00% | ~1 |
+| Cut Short | 2.00% | ~1 |
 | Rustic Charm | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49 (Ranked 443)  
+Progressed: 49 (Ranked 444)  
 Completed: 0 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -2,9 +2,9 @@
   "ID": "28885ec3cd4d49808b65636c95ee28c1",
   "Name": "Silence",
   "ProductSlug": "silence-57bc4e",
-  "Ranking_EOS_Progress": 366,
+  "Ranking_EOS_Progress": 367,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 299,
+  "Ranking_EOS_NewPlayers": 289,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 135,
+  "EOS_Progressed": 136,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -270,6 +270,11 @@
       "Time": "2023-10-19T15:08:13.198543+00:00",
       "NumProgressed": 135,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-19T19:08:18.5595642+00:00",
+      "NumProgressed": 136,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 46,
@@ -305,7 +310,7 @@
       "Name": "Quite a buggy game",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "0000_achv_gameovertwice",
@@ -391,9 +396,9 @@
       "ID": "1001_achv_shadowplay",
       "SetID": "dhn82m5",
       "Name": "Shadow on the wall",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "1004_achv_farts",
@@ -409,15 +414,15 @@
       "Name": "Open up wide",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "1006_achv_chapter1",
       "SetID": "dhn82m5",
       "Name": "Chapter I",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 69
     },
     {
       "ID": "1006_achv_demoliton",
@@ -431,9 +436,9 @@
       "ID": "1006_achv_dropball",
       "SetID": "dhn82m5",
       "Name": "Fire in the... nevermind",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 69
     },
     {
       "ID": "1006_achv_fixbomb",
@@ -441,7 +446,7 @@
       "Name": "Handyman",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "1006_achv_pacifist",
@@ -455,9 +460,9 @@
       "ID": "2001_achv_shrooms",
       "SetID": "dhn82m5",
       "Name": "Keep away from children",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 48
     },
     {
       "ID": "2002_achv_burnswamp",
@@ -481,7 +486,7 @@
       "Name": "Haute cuisine",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "2004_achv_abyss",
@@ -505,7 +510,7 @@
       "Name": "Chapter II",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "2008_achv_bubble",
@@ -527,9 +532,9 @@
       "ID": "2009_achv_deathwheel",
       "SetID": "dhn82m5",
       "Name": "Death is a part of life",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 20
     },
     {
       "ID": "2009_achv_dreamwheel",
@@ -545,7 +550,7 @@
       "Name": "Where there is life, there is hope",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "3002_achv_checkmate",
@@ -577,7 +582,7 @@
       "Name": "Achoo!!",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "3005_achv_getting_rich",
@@ -617,7 +622,7 @@
       "Name": "Chapter III",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "3017_achv_flycloud",
@@ -625,15 +630,15 @@
       "Name": "Like a moth in the Wind",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "4004_achv_home",
       "SetID": "dhn82m5",
       "Name": "Home is where the heart is",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 26
+      "UsersEstimate": 24
     },
     {
       "ID": "4004_achv_mirror",
@@ -641,14 +646,14 @@
       "Name": "Mirror mirror on the wall...",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     }
   ],
   "AchievementSets": [
     {
       "ID": "dhn82m5",
       "IsBase": true,
-      "Progressed": 135,
+      "Progressed": 136,
       "Completed": 0
     }
   ],
@@ -656,8 +661,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-10-19T18:07:09.8232244+00:00",
+  "LastChanged_Achievements": "2023-10-19T19:08:18.5595636+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:18.7785976+00:00",
-  "LastUpdate_Ratings": "2023-10-19T17:58:46.3730499+00:00",
-  "LastUpdate_Achievements": "2023-10-19T18:07:09.8232682+00:00"
+  "LastUpdate_Ratings": "2023-10-19T18:58:41.6306809+00:00",
+  "LastUpdate_Achievements": "2023-10-19T19:08:18.5596134+00:00"
 }

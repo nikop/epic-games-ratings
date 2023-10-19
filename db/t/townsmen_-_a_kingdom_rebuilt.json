@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewPlayers": 312,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -2105,9 +2105,9 @@
       "ID": "ACHIEVEMENT_TOOLS1",
       "SetID": "9eacipp",
       "Name": "Tools of the trade I",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 259
     },
     {
       "ID": "ACHIEVEMENT_TOOLS2",
@@ -2193,8 +2193,8 @@
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-10-19T18:06:44.235048+00:00",
+  "LastChanged_Achievements": "2023-10-19T19:06:33.7173393+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:32.6400673+00:00",
-  "LastUpdate_Ratings": "2023-10-19T17:57:47.7763399+00:00",
-  "LastUpdate_Achievements": "2023-10-19T18:06:44.2352895+00:00"
+  "LastUpdate_Ratings": "2023-10-19T18:57:44.5093649+00:00",
+  "LastUpdate_Achievements": "2023-10-19T19:06:33.7174758+00:00"
 }

@@ -3,9 +3,9 @@
 [View Rawdata](../../db/t/the_lords_of_the_fallen.json)  
 Rating: 4.22 (Ranked 874)  
 ## Awards
-Max (Character Customization): 35  (Ranked 456)  
-Sum: 35 (Ranked 485)  
-Diff (max vs sum): -29  
+Max (Character Customization): 35  (Ranked 455)  
+Sum: 35 (Ranked 486)  
+Diff (max vs sum): -31  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 35 |

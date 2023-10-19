@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 122,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -3473,9 +3473,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 51852,
+  "EOS_Progressed": 51853,
   "EOS_Completed": 241,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -13068,6 +13068,11 @@
       "Time": "2023-10-19T15:04:34.3269063+00:00",
       "NumProgressed": 51852,
       "NumCompleted": 241
+    },
+    {
+      "Time": "2023-10-19T19:04:08.5009078+00:00",
+      "NumProgressed": 51853,
+      "NumCompleted": 241
     }
   ],
   "TotalAchievements": 45,
@@ -13103,7 +13108,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 40963
+      "UsersEstimate": 40964
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -13199,7 +13204,7 @@
       "Name": "Attack of the Clones",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 24370
+      "UsersEstimate": 24371
     },
     {
       "ID": "COMPLETE_EPISODE_3",
@@ -13255,7 +13260,7 @@
       "Name": "The Rise of Skywalker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 10370
+      "UsersEstimate": 10371
     },
     {
       "ID": "COMPLETE_FAULTYDROID_ON_TATOOINE",
@@ -13319,7 +13324,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 30074
+      "UsersEstimate": 30075
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -13343,7 +13348,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 50296
+      "UsersEstimate": 50297
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -13383,7 +13388,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 36815
+      "UsersEstimate": 36816
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -13399,7 +13404,7 @@
       "Name": "\u0027\u0027A fine addition to my collection\u0027\u0027",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 19185
+      "UsersEstimate": 19186
     },
     {
       "ID": "RIDE_ALL_CREATURES",
@@ -13415,7 +13420,7 @@
       "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 28000
+      "UsersEstimate": 28001
     },
     {
       "ID": "TRUE_JEDI_ALL_LEVELS",
@@ -13431,22 +13436,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 37333
+      "UsersEstimate": 37334
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 51852,
+      "Progressed": 51853,
       "Completed": 241
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-10-18T22:12:38.4317941+00:00",
-  "LastChanged_Achievements": "2023-10-19T18:04:17.483234+00:00",
+  "LastChanged_Achievements": "2023-10-19T19:04:08.5009074+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:19.7884008+00:00",
-  "LastUpdate_Ratings": "2023-10-19T18:00:41.7422919+00:00",
-  "LastUpdate_Achievements": "2023-10-19T18:04:17.4834025+00:00"
+  "LastUpdate_Ratings": "2023-10-19T19:00:35.5045172+00:00",
+  "LastUpdate_Achievements": "2023-10-19T19:04:08.5010213+00:00"
 }

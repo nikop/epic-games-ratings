@@ -12,6 +12,7 @@
 | True G3M4R | 10.00% | ~30 |
 | Scholar | 10.00% | ~30 |
 | The darkness | 10.00% | ~30 |
+| One last step | 9.00% | ~27 |
 | I did it | 8.00% | ~24 |
 | In this together | 8.00% | ~24 |
 | Peace walker | 8.00% | ~24 |
@@ -19,7 +20,6 @@
 | A good beginning | 8.00% | ~24 |
 | Half the way | 8.00% | ~24 |
 | Champollion | 8.00% | ~24 |
-| One last step | 8.00% | ~24 |
 | Open door | 6.00% | ~18 |
 | Feels like springtime | 6.00% | ~18 |
 | Alchemists Express | 6.00% | ~18 |
@@ -30,7 +30,7 @@
 | A great audience | 3.00% | ~9 |
 | Fashion victim | 1.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 305 (Ranked 312)  
+Progressed: 305 (Ranked 313)  
 Completed: 20 (6.56%) (Ranked 51)  
 ## EOS Players History
 | Date | Progressed | Completed |

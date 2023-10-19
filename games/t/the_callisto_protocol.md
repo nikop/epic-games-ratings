@@ -5,15 +5,15 @@ Rating: 4.19 (Ranked 895)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get a Grip | 8.00% | ~1,285 |
+| Get a Grip | 8.00% | ~1,286 |
 | Paper Jams | 6.00% | ~964 |
-| Flesh Wound | 5.00% | ~803 |
-| Float Like A Butterfly | 5.00% | ~803 |
+| Flesh Wound | 5.00% | ~804 |
+| Chew 'Em Up | 5.00% | ~804 |
+| Float Like A Butterfly | 5.00% | ~804 |
 | Keep Fighting | 5.00% | ~200 |
 | You Need a Gun | 4.00% | ~643 |
 | I Do Belong Here | 4.00% | ~643 |
 | Two Heads Are Better Than One | 4.00% | ~643 |
-| Chew 'Em Up | 4.00% | ~643 |
 | Workplace Hazard | 4.00% | ~643 |
 | Reforged | 4.00% | ~643 |
 | The Outer Way | 4.00% | ~643 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 895)
 | Hoard Mode | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,067 (Ranked 133)  
+Progressed: 16,072 (Ranked 133)  
 Completed: 75 (0.47%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 75 (0.47%) (Ranked 180)
 | 2023-10-16 | 16,015 | 75 |
 | 2023-10-17 | 16,022 | 75 |
 | 2023-10-18 | 16,031 | 75 |
-| 2023-10-19 | 16,067 | 75 |
+| 2023-10-19 | 16,072 | 75 |
 ## Awards
 Max (Highly Recommended): 76  (Ranked 381)  
 Sum: 448 (Ranked 323)  

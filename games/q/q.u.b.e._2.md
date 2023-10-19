@@ -6,37 +6,37 @@ Number of Ratings: 94  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost in Space | 76.00% | ~20,389 |
-| Quick Understanding of Block Extrusion | 68.00% | ~18,242 |
-| Nature or Nurture | 50.00% | ~13,414 |
-| Power Glove | 47.00% | ~12,609 |
-| Forgotten Memories | 39.00% | ~10,463 |
-| Cogs in the Machine | 32.00% | ~8,585 |
-| Mission Success | 17.00% | ~4,561 |
-| There's No Place Like Home | 16.00% | ~4,292 |
-| Green Cube Killer | 14.00% | ~3,756 |
-| Infinity Loop | 10.00% | ~2,683 |
-| Path to Salvation | 10.00% | ~2,683 |
-| Descendants | 8.00% | ~2,146 |
-| The Flawed Teacher | 6.00% | ~1,610 |
-| To Infinity and Beyond | 4.00% | ~1,073 |
-| The Truthful Enemy | 2.00% | ~537 |
-| Laser Sharp | 1.00% | ~268 |
-| Home Stretch | 0.60% | ~161 |
-| Get me out of here | 0.60% | ~161 |
-| True collector | 0.50% | ~134 |
-| Bronze collector | 0.50% | ~134 |
-| Gold collector | 0.50% | ~134 |
-| Silver collector | 0.50% | ~134 |
-| King of the Collectables | 0.30% | ~80 |
-| Competent Collector | 0.30% | ~80 |
-| Puzzle Master | 0.30% | ~80 |
-| Coming Home | 0.30% | ~80 |
-| Master Collector | 0.30% | ~80 |
-| QUBE Master | 0.30% | ~80 |
-| Expert Collector | 0.30% | ~80 |
+| Lost in Space | 76.00% | ~20,465 |
+| Quick Understanding of Block Extrusion | 68.00% | ~18,310 |
+| Nature or Nurture | 50.00% | ~13,464 |
+| Power Glove | 47.00% | ~12,656 |
+| Forgotten Memories | 39.00% | ~10,502 |
+| Cogs in the Machine | 32.00% | ~8,617 |
+| Mission Success | 17.00% | ~4,578 |
+| There's No Place Like Home | 16.00% | ~4,308 |
+| Green Cube Killer | 14.00% | ~3,770 |
+| Path to Salvation | 11.00% | ~2,962 |
+| Infinity Loop | 10.00% | ~2,693 |
+| Descendants | 8.00% | ~2,154 |
+| The Flawed Teacher | 6.00% | ~1,616 |
+| To Infinity and Beyond | 4.00% | ~1,077 |
+| The Truthful Enemy | 2.00% | ~539 |
+| Laser Sharp | 1.00% | ~269 |
+| Home Stretch | 0.60% | ~162 |
+| Get me out of here | 0.60% | ~162 |
+| True collector | 0.50% | ~135 |
+| Bronze collector | 0.50% | ~135 |
+| Gold collector | 0.50% | ~135 |
+| Silver collector | 0.50% | ~135 |
+| King of the Collectables | 0.30% | ~81 |
+| Competent Collector | 0.30% | ~81 |
+| Puzzle Master | 0.30% | ~81 |
+| Coming Home | 0.30% | ~81 |
+| Master Collector | 0.30% | ~81 |
+| QUBE Master | 0.30% | ~81 |
+| Expert Collector | 0.30% | ~81 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,827 (Ranked 117)  
+Progressed: 26,927 (Ranked 117)  
 Completed: 33 (0.12%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 33 (0.12%) (Ranked 242)
 | 2023-10-16 | 20,984 | 17 |
 | 2023-10-17 | 23,137 | 20 |
 | 2023-10-18 | 25,351 | 30 |
-| 2023-10-19 | 26,827 | 33 |
+| 2023-10-19 | 26,927 | 33 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

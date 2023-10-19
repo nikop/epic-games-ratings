@@ -2,11 +2,11 @@
   "ID": "4046b000e6b0477ea639ee07e28db3d0",
   "Name": "Hello Neighbor 2",
   "ProductSlug": "hello-neighbor-2",
-  "Ranking_Rating": 648,
+  "Ranking_Rating": 629,
   "Ranking_Popularity": 538,
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 194,
-  "Ranking_EOS_Completed": 72,
+  "Ranking_EOS_Completed": 73,
   "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.45,
+  "Rating": 4.46,
   "RatingHistory": [
     {
       "Time": "2022-12-13T19:57:02.6250274+00:00",
@@ -417,17 +417,23 @@
       "Rating": 4.45,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-10-19T19:00:24.4466806+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2976,
+  "EOS_Progressed": 2977,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.07,
+  "EOS_Completed_Percentage": 4.06,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:02.7979813+00:00",
@@ -3763,6 +3769,11 @@
       "Time": "2023-10-19T18:06:37.7860944+00:00",
       "NumProgressed": 2976,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-10-19T19:06:27.3638708+00:00",
+      "NumProgressed": 2977,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 14,
@@ -3885,16 +3896,16 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2976,
+      "Progressed": 2977,
       "Completed": 121
     }
   ],
   "FirstSeen": "2022-12-06T19:57:03.5315641+00:00",
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
-  "LastChanged": "2023-10-17T14:59:23.1608602+00:00",
-  "LastChanged_Achievements": "2023-10-19T18:06:37.7860937+00:00",
+  "LastChanged": "2023-10-19T19:00:24.4466804+00:00",
+  "LastChanged_Achievements": "2023-10-19T19:06:27.3638703+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:11.4944348+00:00",
-  "LastUpdate_Ratings": "2023-10-19T18:00:29.9572508+00:00",
-  "LastUpdate_Achievements": "2023-10-19T18:06:37.7861295+00:00"
+  "LastUpdate_Ratings": "2023-10-19T19:00:24.4466813+00:00",
+  "LastUpdate_Achievements": "2023-10-19T19:06:27.3639053+00:00"
 }

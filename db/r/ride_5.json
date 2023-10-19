@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1558,
+  "EOS_Progressed": 1559,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3117,6 +3117,11 @@
       "Time": "2023-10-19T15:08:41.1607025+00:00",
       "NumProgressed": 1558,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-19T19:08:40.0942568+00:00",
+      "NumProgressed": 1559,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -3129,7 +3134,7 @@
       "Name": "First Love",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -3161,7 +3166,7 @@
       "Name": "Restored and Ready",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -3217,7 +3222,7 @@
       "Name": "Legendary!!!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -3233,7 +3238,7 @@
       "Name": "Quick Pit Stop",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -3329,7 +3334,7 @@
       "Name": "Evangelist",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ML_ACHIEVEMENT_27",
@@ -3337,7 +3342,7 @@
       "Name": "Clean Race",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -3433,7 +3438,7 @@
       "Name": "Champagne Spray",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -3481,7 +3486,7 @@
       "Name": "Rivals to the End",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -3520,14 +3525,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1558,
+      "Progressed": 1559,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-19T18:08:21.3355565+00:00",
+  "LastChanged_Achievements": "2023-10-19T19:08:40.0942564+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:05.5662527+00:00",
-  "LastUpdate_Ratings": "2023-10-19T17:59:02.2807448+00:00",
-  "LastUpdate_Achievements": "2023-10-19T18:08:21.3356221+00:00"
+  "LastUpdate_Ratings": "2023-10-19T18:58:57.0131746+00:00",
+  "LastUpdate_Achievements": "2023-10-19T19:08:40.0943313+00:00"
 }

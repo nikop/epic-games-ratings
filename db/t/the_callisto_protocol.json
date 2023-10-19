@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 323,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1313,9 +1313,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 16067,
+  "EOS_Progressed": 16072,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -7618,6 +7618,11 @@
       "Time": "2023-10-19T18:04:06.1857907+00:00",
       "NumProgressed": 16067,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2023-10-19T19:03:57.0841412+00:00",
+      "NumProgressed": 16072,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 47,
@@ -7661,7 +7666,7 @@
       "Name": "Flesh Wound",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 803
+      "UsersEstimate": 804
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -7733,7 +7738,7 @@
       "Name": "Get a Grip",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1285
+      "UsersEstimate": 1286
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -7755,9 +7760,9 @@
       "ID": "KILL_MANY_WITH_HAZARD",
       "SetID": "4hj6d86",
       "Name": "Chew \u0027Em Up",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 643
+      "UsersEstimate": 804
     },
     {
       "ID": "KILL_ROBOT",
@@ -7789,7 +7794,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 803
+      "UsersEstimate": 804
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -8004,13 +8009,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16067,
+      "Progressed": 16072,
       "Completed": 75
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3993,
+      "Progressed": 3998,
       "Completed": 29
     }
   ],
@@ -8018,8 +8023,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-10-19T07:57:37.4777054+00:00",
-  "LastChanged_Achievements": "2023-10-19T18:04:06.18579+00:00",
+  "LastChanged_Achievements": "2023-10-19T19:03:57.0841407+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:28.7445303+00:00",
-  "LastUpdate_Ratings": "2023-10-19T17:57:26.5790876+00:00",
-  "LastUpdate_Achievements": "2023-10-19T18:04:06.185932+00:00"
+  "LastUpdate_Ratings": "2023-10-19T18:57:24.0130439+00:00",
+  "LastUpdate_Achievements": "2023-10-19T19:03:57.0842224+00:00"
 }

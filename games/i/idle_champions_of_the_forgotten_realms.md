@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Entrance of the Gladiators | 0.10% | ~199 |
 | Time Out | 0.10% | ~199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,263 (Ranked 59)  
+Progressed: 232,269 (Ranked 59)  
 Completed: 2,374 (1.02%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -717,15 +717,15 @@ Completed: 2,374 (1.02%) (Ranked 145)
 | 2023-10-16 | 232,030 | 2,366 |
 | 2023-10-17 | 232,098 | 2,367 |
 | 2023-10-18 | 232,193 | 2,373 |
-| 2023-10-19 | 232,263 | 2,374 |
+| 2023-10-19 | 232,269 | 2,374 |
 ## Awards
 Max (Great for Beginners): 5,419  (Ranked 69)  
-Sum: 32,109 (Ranked 41)  
+Sum: 32,112 (Ranked 41)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,419 |
-| This game has Diverse Characters | 5,413 |
+| This game has Diverse Characters | 5,416 |
 | This game has Quickly Understood Controls | 4,795 |
 | This game is Relaxing | 4,682 |
 | This game is Highly Recommended | 4,164 |
@@ -1000,4 +1000,4 @@ Diff (max vs sum): 28
 | 2023-10-16 | 4.06 | - | 5,406 | 32,059 |
 | 2023-10-17 | 4.06 | - | 5,410 | 32,075 |
 | 2023-10-18 | 4.06 | - | 5,419 | 32,103 |
-| 2023-10-19 | 4.06 | - | 5,419 | 32,109 |
+| 2023-10-19 | 4.06 | - | 5,419 | 32,112 |

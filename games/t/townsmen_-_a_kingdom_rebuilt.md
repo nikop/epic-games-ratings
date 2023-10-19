@@ -23,13 +23,13 @@ Number of Ratings: 37  (23.09.2022)
 | I like to build stuff... II | 6.00% | ~259 |
 | Full-time job II | 6.00% | ~259 |
 | A time consuming game II | 6.00% | ~259 |
+| Tools of the trade I | 6.00% | ~259 |
 | Knee deep in snow | 6.00% | ~259 |
 | Not a small trader anymore | 5.00% | ~216 |
 | I like to build stuff... III | 5.00% | ~216 |
 | The King's new clothes I | 5.00% | ~216 |
 | Builder II | 5.00% | ~216 |
 | Tax-man III | 5.00% | ~216 |
-| Tools of the trade I | 5.00% | ~216 |
 | Conflicting parties | 5.00% | ~216 |
 | Bread for the people II | 4.00% | ~172 |
 | Experienced decorator | 4.00% | ~172 |

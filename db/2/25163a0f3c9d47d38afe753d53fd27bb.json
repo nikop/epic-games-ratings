@@ -4,8 +4,8 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 31,
-  "Ranking_EOS_NewPlayers": 278,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 754,
-  "EOS_Completed": 84,
-  "EOS_NewPlayers": 5,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 11.14,
+  "EOS_Progressed": 755,
+  "EOS_Completed": 85,
+  "EOS_NewPlayers": 6,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 11.26,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -2694,6 +2694,11 @@
       "Time": "2023-10-19T05:09:31.2375517+00:00",
       "NumProgressed": 754,
       "NumCompleted": 84
+    },
+    {
+      "Time": "2023-10-19T19:09:14.8434632+00:00",
+      "NumProgressed": 755,
+      "NumCompleted": 85
     }
   ],
   "TotalAchievements": 30,
@@ -2705,7 +2710,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "LEVEL_002",
@@ -2713,7 +2718,7 @@
       "Name": "Promising crop",
       "Percentage": 82,
       "XP": 15,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "LEVEL_003",
@@ -2721,7 +2726,7 @@
       "Name": "A horse in the country",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "LEVEL_004",
@@ -2729,7 +2734,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "LEVEL_005",
@@ -2785,7 +2790,7 @@
       "Name": "This island of mine",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "LEVEL_012",
@@ -2809,7 +2814,7 @@
       "Name": "Cross-country",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "LEVEL_015",
@@ -2831,9 +2836,9 @@
       "ID": "LEVEL_017",
       "SetID": "212bg48",
       "Name": "Windmill on a rocky cliff",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 128
     },
     {
       "ID": "LEVEL_018",
@@ -2865,7 +2870,7 @@
       "Name": "Island in the center of the island",
       "Percentage": 12,
       "XP": 55,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "LEVEL_022",
@@ -2889,7 +2894,7 @@
       "Name": "Beach or mountain?",
       "Percentage": 10,
       "XP": 55,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "LEVEL_025",
@@ -2897,7 +2902,7 @@
       "Name": "A superb resort to enjoy the holidays!",
       "Percentage": 10,
       "XP": 55,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "LEVEL_026",
@@ -2905,7 +2910,7 @@
       "Name": "Hiking, camping, picnics... you choose",
       "Percentage": 10,
       "XP": 55,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "LEVEL_027",
@@ -2913,7 +2918,7 @@
       "Name": "A farm island lost in time...",
       "Percentage": 10,
       "XP": 55,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "LEVEL_028",
@@ -2935,23 +2940,23 @@
       "ID": "LEVEL_030",
       "SetID": "212bg48",
       "Name": "Celebration with Cake and Balloons",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 110,
-      "UsersEstimate": 60
+      "UsersEstimate": 68
     }
   ],
   "AchievementSets": [
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 754,
-      "Completed": 84
+      "Progressed": 755,
+      "Completed": 85
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-10-19T18:09:06.7492741+00:00",
+  "LastChanged_Achievements": "2023-10-19T19:09:14.8434629+00:00",
   "LastUpdate_AppInfo": "2023-10-17T01:40:42.2963421+00:00",
-  "LastUpdate_Ratings": "2023-10-19T17:58:03.8551878+00:00",
-  "LastUpdate_Achievements": "2023-10-19T18:09:06.7493437+00:00"
+  "LastUpdate_Ratings": "2023-10-19T18:57:59.8794127+00:00",
+  "LastUpdate_Achievements": "2023-10-19T19:09:14.8435071+00:00"
 }

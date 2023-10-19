@@ -1296,18 +1296,24 @@
       "Rating": 4.87,
       "NumberOfAwards": 1106,
       "NumberOfAwardsMax": 733
+    },
+    {
+      "Time": "2023-10-19T18:57:03.7336533+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1107,
+      "NumberOfAwardsMax": 734
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1106,
-  "NumberOfAwardsMax": 733,
+  "NumberOfAwards": 1107,
+  "NumberOfAwardsMax": 734,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 733
+      "Count": 734
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1382,9 +1388,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 129870,
+  "EOS_Progressed": 129872,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 256,
+  "EOS_NewPlayers": 255,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -19532,6 +19538,11 @@
       "Time": "2023-10-19T18:03:43.7765959+00:00",
       "NumProgressed": 129870,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-10-19T19:03:45.0073649+00:00",
+      "NumProgressed": 129872,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -19647,7 +19658,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20779
+      "UsersEstimate": 20780
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -19679,7 +19690,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20779
+      "UsersEstimate": 20780
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -19862,15 +19873,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 129870,
+      "Progressed": 129872,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
-  "LastChanged": "2023-10-19T07:03:40.0954331+00:00",
-  "LastChanged_Achievements": "2023-10-19T18:03:43.7765954+00:00",
+  "LastChanged": "2023-10-19T18:57:03.7336531+00:00",
+  "LastChanged_Achievements": "2023-10-19T19:03:45.0073641+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:18.5281336+00:00",
-  "LastUpdate_Ratings": "2023-10-19T17:03:22.1623772+00:00",
-  "LastUpdate_Achievements": "2023-10-19T18:03:43.7768517+00:00"
+  "LastUpdate_Ratings": "2023-10-19T18:57:03.7336537+00:00",
+  "LastUpdate_Achievements": "2023-10-19T19:03:45.0075307+00:00"
 }

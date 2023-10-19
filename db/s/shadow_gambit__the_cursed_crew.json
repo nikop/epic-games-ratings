@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -101,11 +101,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 739,
+  "EOS_Progressed": 740,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.25,
+  "EOS_Completed_Percentage": 3.24,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -2191,6 +2191,11 @@
       "Time": "2023-10-19T18:08:25.0484556+00:00",
       "NumProgressed": 739,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-10-19T19:08:43.6529004+00:00",
+      "NumProgressed": 740,
+      "NumCompleted": 24
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2235,7 +2240,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -2275,7 +2280,7 @@
       "Name": "Buccaneer",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "_11_Completion_40",
@@ -2361,9 +2366,9 @@
       "ID": "_21_CrewTale_OVT",
       "SetID": "8a1io5d",
       "Name": "Tobacco Travesty",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 81
     },
     {
       "ID": "_22_CrewTale_FSH",
@@ -2387,7 +2392,7 @@
       "Name": "Jaded Judge",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "_25_CrewTale_GCW",
@@ -2410,7 +2415,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 739,
+      "Progressed": 740,
       "Completed": 24
     }
   ],
@@ -2418,8 +2423,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-10-02T00:00:41.2116731+00:00",
-  "LastChanged_Achievements": "2023-10-19T18:08:25.0484549+00:00",
+  "LastChanged_Achievements": "2023-10-19T19:08:43.6528998+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:48.0426096+00:00",
-  "LastUpdate_Ratings": "2023-10-19T17:58:37.1471813+00:00",
-  "LastUpdate_Achievements": "2023-10-19T18:08:25.0484918+00:00"
+  "LastUpdate_Ratings": "2023-10-19T18:58:32.1461904+00:00",
+  "LastUpdate_Achievements": "2023-10-19T19:08:43.6529332+00:00"
 }

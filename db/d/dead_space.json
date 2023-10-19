@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 431,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
     "PcReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -673,7 +673,7 @@
   ],
   "EOS_Progressed": 1106,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -3498,9 +3498,9 @@
       "ID": "achievement_27",
       "SetID": "222fo9l",
       "Name": "Pack Rat",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 288
+      "UsersEstimate": 299
     },
     {
       "ID": "achievement_28",
@@ -3731,8 +3731,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-18T07:01:03.0368635+00:00",
-  "LastChanged_Achievements": "2023-10-19T18:04:09.5257948+00:00",
+  "LastChanged_Achievements": "2023-10-19T19:04:00.4928681+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:22.2856721+00:00",
-  "LastUpdate_Ratings": "2023-10-19T17:57:11.2864932+00:00",
-  "LastUpdate_Achievements": "2023-10-19T18:04:09.5259018+00:00"
+  "LastUpdate_Ratings": "2023-10-19T18:57:07.8722148+00:00",
+  "LastUpdate_Achievements": "2023-10-19T19:04:00.4929406+00:00"
 }

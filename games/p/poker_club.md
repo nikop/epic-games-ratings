@@ -5,21 +5,21 @@ Rating: 3.82 (Ranked 1,002)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~404,315 |
-| Handy | 41.00% | ~218,118 |
-| Cold Caller | 39.00% | ~207,478 |
-| A Bit On The Side | 27.00% | ~143,638 |
-| Backdoor | 25.00% | ~132,998 |
-| Rank Amateur | 21.00% | ~111,719 |
-| Three Way | 18.00% | ~95,759 |
-| Deadly Assassin | 15.00% | ~79,799 |
-| Gutshot | 14.00% | ~74,479 |
-| Risk It For A Biscuit | 14.00% | ~74,479 |
-| Showoff | 13.00% | ~69,159 |
-| W.H.I.P. | 11.00% | ~58,519 |
-| Bet Bet Bet | 10.00% | ~53,199 |
-| Blindman's Bluff | 9.00% | ~47,879 |
-| Poker Joker | 9.00% | ~47,879 |
+| Pro Creation | 76.00% | ~404,324 |
+| Handy | 41.00% | ~218,122 |
+| Cold Caller | 39.00% | ~207,482 |
+| A Bit On The Side | 27.00% | ~143,641 |
+| Backdoor | 25.00% | ~133,001 |
+| Rank Amateur | 21.00% | ~111,721 |
+| Three Way | 18.00% | ~95,761 |
+| Deadly Assassin | 15.00% | ~79,801 |
+| Gutshot | 14.00% | ~74,481 |
+| Risk It For A Biscuit | 14.00% | ~74,481 |
+| Showoff | 13.00% | ~69,161 |
+| W.H.I.P. | 11.00% | ~58,521 |
+| Bet Bet Bet | 10.00% | ~53,200 |
+| Blindman's Bluff | 9.00% | ~47,880 |
+| Poker Joker | 9.00% | ~47,880 |
 | Never Give Up | 8.00% | ~42,560 |
 | The Bigger They Are | 8.00% | ~42,560 |
 | Total Knock Out | 8.00% | ~42,560 |
@@ -51,7 +51,7 @@ Rating: 3.82 (Ranked 1,002)
 | Rounder | 0.10% | ~532 |
 | Top Dog | 0.10% | ~532 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 531,994 (Ranked 33)  
+Progressed: 532,005 (Ranked 33)  
 Completed: 2 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,17 +232,17 @@ Completed: 2 (0.00%) (Ranked 316)
 | 2023-10-16 | 531,507 | 2 |
 | 2023-10-17 | 531,694 | 2 |
 | 2023-10-18 | 531,857 | 2 |
-| 2023-10-19 | 531,994 | 2 |
+| 2023-10-19 | 532,005 | 2 |
 ## Awards
 Max (Great for Beginners): 52  (Ranked 411)  
-Sum: 130 (Ranked 416)  
+Sum: 131 (Ranked 416)  
 Diff (max vs sum): -5  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 52 |
 | This game is Highly Recommended | 30 |
 | This game has Quickly Understood Controls | 26 |
-| This game has a Competitive Community | 22 |
+| This game has a Competitive Community | 23 |
 | This game has Competitive Players | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -342,3 +342,4 @@ Diff (max vs sum): -5
 | 2023-10-13 | 3.83 | 50 | 127 |
 | 2023-10-14 | 3.82 | 51 | 128 |
 | 2023-10-17 | 3.82 | 52 | 130 |
+| 2023-10-19 | 3.82 | 52 | 131 |

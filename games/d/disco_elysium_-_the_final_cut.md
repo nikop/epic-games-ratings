@@ -10,8 +10,8 @@ Number of Ratings: 1,611  (23.09.2022)
 | Biggest Communism Builder | 24.00% | ~31,169 |
 | The World's Most Laughable Centrist | 21.00% | ~27,273 |
 | Il Coppo Del'Arte! | 18.00% | ~23,377 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,779 |
-| Hyperstellar Law Official | 16.00% | ~20,779 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,780 |
+| Hyperstellar Law Official | 16.00% | ~20,780 |
 | Recruit Detective Kim Kitsuragi | 14.00% | ~18,182 |
 | Gurdi-Ball Is Lit | 14.00% | ~18,182 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~16,883 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~130 |
 | What body? | 0.10% | ~130 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,870 (Ranked 75)  
+Progressed: 129,872 (Ranked 75)  
 Completed: 28 (0.02%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,14 +229,14 @@ Completed: 28 (0.02%) (Ranked 290)
 | 2023-10-16 | 129,782 | 28 |
 | 2023-10-17 | 129,811 | 28 |
 | 2023-10-18 | 129,842 | 28 |
-| 2023-10-19 | 129,870 | 28 |
+| 2023-10-19 | 129,872 | 28 |
 ## Awards
-Max (Character Customization): 733  (Ranked 173)  
-Sum: 1,106 (Ranked 241)  
+Max (Character Customization): 734  (Ranked 173)  
+Sum: 1,107 (Ranked 241)  
 Diff (max vs sum): -68  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 733 |
+| This game has Inclusive Character Customization | 734 |
 | This game has Amazing Storytelling | 49 |
 | This game is Educational | 45 |
 | This game is Highly Recommended | 43 |
@@ -390,4 +390,4 @@ Diff (max vs sum): -68
 | 2023-10-14 | 4.87 | - | 733 | 1,102 |
 | 2023-10-15 | 4.87 | - | 733 | 1,104 |
 | 2023-10-18 | 4.87 | - | 733 | 1,105 |
-| 2023-10-19 | 4.87 | - | 733 | 1,106 |
+| 2023-10-19 | 4.87 | - | 734 | 1,107 |

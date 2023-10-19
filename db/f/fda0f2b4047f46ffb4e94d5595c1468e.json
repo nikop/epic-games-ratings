@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 161,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -1369,10 +1369,16 @@
       "Rating": 4.46,
       "NumberOfAwards": 3326,
       "NumberOfAwardsMax": 1203
+    },
+    {
+      "Time": "2023-10-19T19:00:38.2135321+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 3333,
+      "NumberOfAwardsMax": 1203
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3326,
+  "NumberOfAwards": 3333,
   "NumberOfAwardsMax": 1203,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1434,7 +1440,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 188
+      "Count": 195
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -1449,9 +1455,9 @@
       "Count": 235
     }
   ],
-  "EOS_Progressed": 7792,
+  "EOS_Progressed": 7793,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 355,
+  "EOS_NewPlayers": 352,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4914,6 +4920,11 @@
       "Time": "2023-10-19T18:08:29.6988606+00:00",
       "NumProgressed": 7792,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-19T19:08:48.243008+00:00",
+      "NumProgressed": 7793,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -4926,7 +4937,7 @@
       "Name": "Become A Ninja In No Time",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2649
+      "UsersEstimate": 2650
     },
     {
       "ID": "ach02",
@@ -4942,7 +4953,7 @@
       "Name": "A New Timeline",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 3428
+      "UsersEstimate": 3429
     },
     {
       "ID": "ach04",
@@ -4950,7 +4961,7 @@
       "Name": "What Just Happened??",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1480
+      "UsersEstimate": 1481
     },
     {
       "ID": "ach05",
@@ -4966,7 +4977,7 @@
       "Name": "Titan",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 5766
+      "UsersEstimate": 5767
     },
     {
       "ID": "ach07",
@@ -5110,7 +5121,7 @@
       "Name": "Ultimate Power",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 3662
+      "UsersEstimate": 3663
     },
     {
       "ID": "ach25",
@@ -5142,7 +5153,7 @@
       "Name": "Feeling Stronger",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2571
+      "UsersEstimate": 2572
     },
     {
       "ID": "ach29",
@@ -5190,7 +5201,7 @@
       "Name": "Always Accessorize",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2493
+      "UsersEstimate": 2494
     },
     {
       "ID": "ach35",
@@ -5214,7 +5225,7 @@
       "Name": "ABACABB",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 4441
+      "UsersEstimate": 4442
     },
     {
       "ID": "ach38",
@@ -5294,7 +5305,7 @@
       "Name": "Big Spender",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 1480
+      "UsersEstimate": 1481
     },
     {
       "ID": "ach48",
@@ -5302,7 +5313,7 @@
       "Name": "Total Disrespect",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 1558
+      "UsersEstimate": 1559
     },
     {
       "ID": "ach49",
@@ -5325,16 +5336,16 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 7792,
+      "Progressed": 7793,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2023-10-19T17:02:41.3781032+00:00",
-  "LastChanged_Achievements": "2023-10-19T18:08:29.6988599+00:00",
+  "LastChanged": "2023-10-19T19:00:38.2135319+00:00",
+  "LastChanged_Achievements": "2023-10-19T19:08:48.2430076+00:00",
   "LastUpdate_AppInfo": "2023-10-14T07:57:06.3888504+00:00",
-  "LastUpdate_Ratings": "2023-10-19T18:00:44.3833695+00:00",
-  "LastUpdate_Achievements": "2023-10-19T18:08:29.6989852+00:00"
+  "LastUpdate_Ratings": "2023-10-19T19:00:38.2135326+00:00",
+  "LastUpdate_Achievements": "2023-10-19T19:08:48.2430856+00:00"
 }
