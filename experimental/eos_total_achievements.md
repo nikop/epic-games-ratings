@@ -556,6 +556,7 @@
 | [Saturnalia](../games/s/saturnalia.md) | 20 | 1,000 |
 | [STASIS : BONE TOTEM](../games/1/1cc65ff03931492b8e8c288b6fd92e8c.md) | 20 | 1,000 |
 | [The Complex](../games/t/the_complex.md) | 20 | 1,000 |
+| [The Jackbox Party Pack 10](../games/3/3b925119dbd84a9986f06e66e6794033.md) | 20 | 1,000 |
 | [Wildcat Gun Machine](../games/w/wildcat_gun_machine.md) | 20 | 1,000 |
 | [Are You Smarter Than A 5th Grader](../games/a/are_you_smarter_than_a_5th_grader.md) | 19 | 1,000 |
 | [Bratz™: Flaunt Your Fashion](../games/b/bratz™__flaunt_your_fashion.md) | 19 | 1,000 |
