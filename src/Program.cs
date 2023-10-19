@@ -304,7 +304,7 @@ await File.WriteAllTextAsync(
     nameDateTable.FormatTable(
         items
             .Where(x => x.Store.isEpicFirstRun)
-            .OrderBy(x => x.Store.EpicFirstRunAdded)
+            .OrderByDescending(x => x.Store.EpicFirstRunAdded)
             .ThenBy(x => x.Name)
     )
 );
