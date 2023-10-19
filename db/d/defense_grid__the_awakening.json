@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 213,
   "Ranking_EOS_Progress": 35,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2020-12-20T16:00:00+00:00",
     "PcReleaseDate": "2020-12-20T16:00:00+00:00",
@@ -1894,9 +1894,9 @@
       "Count": 72
     }
   ],
-  "EOS_Progressed": 488088,
+  "EOS_Progressed": 488089,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 388,
+  "EOS_NewPlayers": 386,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21039,6 +21039,11 @@
       "Time": "2023-10-19T21:04:45.1862165+00:00",
       "NumProgressed": 488088,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-19T22:04:27.4094919+00:00",
+      "NumProgressed": 488089,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 87,
@@ -21066,7 +21071,7 @@
       "Name": "Arsenal",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 224520
+      "UsersEstimate": 224521
     },
     {
       "ID": "BASEDEFENDER",
@@ -21106,7 +21111,7 @@
       "Name": "Burn Baby Burn",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 287972
+      "UsersEstimate": 287973
     },
     {
       "ID": "CHAS",
@@ -21194,7 +21199,7 @@
       "Name": "Eradicator",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 327019
+      "UsersEstimate": 327020
     },
     {
       "ID": "EXTERMINATOR",
@@ -21218,7 +21223,7 @@
       "Name": "Field Promotion",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 361185
+      "UsersEstimate": 361186
     },
     {
       "ID": "FILTHYRICH",
@@ -21242,7 +21247,7 @@
       "Name": "First Blood",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 395351
+      "UsersEstimate": 395352
     },
     {
       "ID": "FLAWLESSVICTORY",
@@ -21362,7 +21367,7 @@
       "Name": "I Spy",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 312376
+      "UsersEstimate": 312377
     },
     {
       "ID": "KABOOM",
@@ -21370,7 +21375,7 @@
       "Name": "Kaboom!",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 146426
+      "UsersEstimate": 146427
     },
     {
       "ID": "KICKSTARTER",
@@ -21386,7 +21391,7 @@
       "Name": "Leadhead",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 346542
+      "UsersEstimate": 346543
     },
     {
       "ID": "LIQUIDATOR",
@@ -21450,7 +21455,7 @@
       "Name": "No Sale",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 151307
+      "UsersEstimate": 151308
     },
     {
       "ID": "NOTSOFAST",
@@ -21498,7 +21503,7 @@
       "Name": "Penny Pincher",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 239163
+      "UsersEstimate": 239164
     },
     {
       "ID": "PEWPEW",
@@ -21634,7 +21639,7 @@
       "Name": "Surplus",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 317257
+      "UsersEstimate": 317258
     },
     {
       "ID": "TEMPORALWOULDHAVEBEENNICE",
@@ -21730,7 +21735,7 @@
       "Name": "Yellow Beats Green",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 273329
+      "UsersEstimate": 273330
     },
     {
       "ID": "YOUMONSTER",
@@ -21745,15 +21750,15 @@
     {
       "ID": "bko38ff",
       "IsBase": true,
-      "Progressed": 488088,
+      "Progressed": 488089,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:21:41.4012807+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:40.5516265+00:00",
   "LastChanged": "2023-10-18T18:01:01.4620825+00:00",
-  "LastChanged_Achievements": "2023-10-19T21:04:45.1862159+00:00",
+  "LastChanged_Achievements": "2023-10-19T22:04:27.4094913+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:09.7481725+00:00",
-  "LastUpdate_Ratings": "2023-10-19T20:59:56.88739+00:00",
-  "LastUpdate_Achievements": "2023-10-19T21:04:45.1865019+00:00"
+  "LastUpdate_Ratings": "2023-10-19T21:59:11.5820051+00:00",
+  "LastUpdate_Achievements": "2023-10-19T22:04:27.4097249+00:00"
 }

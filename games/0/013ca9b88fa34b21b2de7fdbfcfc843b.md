@@ -5,23 +5,23 @@ Rating: 4.66 (Ranked 282)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 73.00% | ~5,011 |
-| A Thorny Situation | 70.00% | ~4,806 |
-| ... And Spit Back Out | 60.00% | ~4,119 |
-| Break-Net Speed | 48.00% | ~3,295 |
-| Bramble Breaker | 46.00% | ~3,158 |
-| Miner 49er | 43.00% | ~2,952 |
-| Humble Collector | 42.00% | ~2,883 |
-| Calm Sailing | 36.00% | ~2,471 |
-| Open the Gate! | 33.00% | ~2,265 |
-| Mist Walker | 31.00% | ~2,128 |
+| Azoria Beckons | 73.00% | ~5,013 |
+| A Thorny Situation | 70.00% | ~4,807 |
+| ... And Spit Back Out | 60.00% | ~4,120 |
+| Break-Net Speed | 48.00% | ~3,296 |
+| Bramble Breaker | 46.00% | ~3,159 |
+| Miner 49er | 42.00% | ~2,884 |
+| Humble Collector | 42.00% | ~2,884 |
+| Calm Sailing | 36.00% | ~2,472 |
+| Open the Gate! | 33.00% | ~2,266 |
+| Mist Walker | 31.00% | ~2,129 |
 | Lumberjack | 26.00% | ~1,785 |
-| Oui, Chef! | 22.00% | ~1,510 |
+| Oui, Chef! | 22.00% | ~1,511 |
 | Clear the Air | 18.00% | ~1,236 |
-| Botanical Breakthrough | 16.00% | ~1,098 |
-| Search for the Hairy Grell | 13.00% | ~892 |
-| Beach Comber | 13.00% | ~892 |
-| Higher Tax Bracket | 13.00% | ~892 |
+| Botanical Breakthrough | 16.00% | ~1,099 |
+| Search for the Hairy Grell | 13.00% | ~893 |
+| Beach Comber | 13.00% | ~893 |
+| Higher Tax Bracket | 13.00% | ~893 |
 | Skilled | 8.00% | ~549 |
 | Flaming Hot Completos | 7.00% | ~481 |
 | Fae Farmer | 7.00% | ~481 |
@@ -41,7 +41,7 @@ Rating: 4.66 (Ranked 282)
 | Giving the People What They Want | 0.10% | ~7 |
 | Very Skilled | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,865 (Ranked 164)  
+Progressed: 6,867 (Ranked 164)  
 Completed: 0 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 0 (0.00%) (Ranked 316)
 | 2023-10-16 | 6,732 | 0 |
 | 2023-10-17 | 6,772 | 0 |
 | 2023-10-18 | 6,810 | 0 |
-| 2023-10-19 | 6,865 | 0 |
+| 2023-10-19 | 6,867 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 115,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3879,10 +3879,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6993,
       "NumberOfAwardsMax": 1726
+    },
+    {
+      "Time": "2023-10-19T21:58:16.2788455+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6994,
+      "NumberOfAwardsMax": 1726
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6993,
+  "NumberOfAwards": 6994,
   "NumberOfAwardsMax": 1726,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3914,7 +3920,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 629
+      "Count": 630
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3953,9 +3959,9 @@
       "Count": 389
     }
   ],
-  "EOS_Progressed": 11602,
+  "EOS_Progressed": 11604,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13793,6 +13799,11 @@
       "Time": "2023-10-19T21:09:26.0106808+00:00",
       "NumProgressed": 11602,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-19T22:09:44.0083792+00:00",
+      "NumProgressed": 11604,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -13804,7 +13815,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2900
+      "UsersEstimate": 2901
     },
     {
       "ID": "02_BurningCity",
@@ -13812,7 +13823,7 @@
       "Name": "Burning City",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1972
+      "UsersEstimate": 1973
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -13820,7 +13831,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1508
+      "UsersEstimate": 1509
     },
     {
       "ID": "04_FithCrusade",
@@ -13940,7 +13951,7 @@
       "Name": "Mythic Choices",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1624
+      "UsersEstimate": 1625
     },
     {
       "ID": "19_EqualToAroden",
@@ -14052,7 +14063,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1740
+      "UsersEstimate": 1741
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -14172,7 +14183,7 @@
       "Name": "A Spark",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2088
+      "UsersEstimate": 2089
     },
     {
       "ID": "49_Flame",
@@ -14731,21 +14742,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10384,
+      "Progressed": 10386,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11602,
+      "Progressed": 11604,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-10-17T14:57:09.968869+00:00",
-  "LastChanged_Achievements": "2023-10-19T21:09:26.0106803+00:00",
+  "LastChanged": "2023-10-19T21:58:16.2788454+00:00",
+  "LastChanged_Achievements": "2023-10-19T22:09:44.0083781+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:48.4782392+00:00",
-  "LastUpdate_Ratings": "2023-10-19T20:58:40.0249763+00:00",
-  "LastUpdate_Achievements": "2023-10-19T21:09:26.0109728+00:00"
+  "LastUpdate_Ratings": "2023-10-19T21:58:16.2788465+00:00",
+  "LastUpdate_Achievements": "2023-10-19T22:09:44.0086253+00:00"
 }

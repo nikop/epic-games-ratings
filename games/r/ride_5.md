@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Love | 42.00% | ~656 |
-| Eat My Dust | 41.00% | ~640 |
-| Clean Race | 40.00% | ~625 |
+| First Love | 42.00% | ~657 |
+| Eat My Dust | 41.00% | ~641 |
+| Clean Race | 40.00% | ~626 |
 | Hear That Roar! | 38.00% | ~594 |
-| Rivals to the End | 28.00% | ~437 |
-| Bitter Rivalry | 25.00% | ~390 |
+| Rivals to the End | 28.00% | ~438 |
+| Bitter Rivalry | 25.00% | ~391 |
 | We're Going to Need a Bigger Garage | 24.00% | ~375 |
-| Champagne Spray | 23.00% | ~359 |
-| I Want One Too! | 19.00% | ~297 |
-| Restored and Ready | 18.00% | ~281 |
-| Legendary!!! | 18.00% | ~281 |
-| Quick Pit Stop | 18.00% | ~281 |
-| Go-Faster Stripes | 17.00% | ~266 |
+| Champagne Spray | 23.00% | ~360 |
+| Restored and Ready | 18.00% | ~282 |
+| I Want One Too! | 18.00% | ~282 |
+| Legendary!!! | 18.00% | ~282 |
+| Quick Pit Stop | 18.00% | ~282 |
 | I'm Here Too! | 17.00% | ~266 |
+| Go-Faster Stripes | 16.00% | ~250 |
 | We've Just Begun | 10.00% | ~156 |
 | Stamina Star | 8.00% | ~125 |
 | Is It the Right Size? | 8.00% | ~125 |
 | Evangelist | 6.00% | ~94 |
 | Make It Your Own! | 5.00% | ~78 |
-| I Make the Rules! | 4.00% | ~62 |
+| I Make the Rules! | 4.00% | ~63 |
 | Spoilt for Choice | 3.00% | ~47 |
 | Cherry Blossom and Temples | 3.00% | ~47 |
 | La Dolce Vita | 3.00% | ~47 |
@@ -38,7 +38,7 @@
 | I'll Be the Best! | 1.00% | ~16 |
 | Next Level | 1.00% | ~16 |
 | I Don't Stop | 1.00% | ~16 |
-| Exhausted but Happy | 0.80% | ~12 |
+| Exhausted but Happy | 0.80% | ~13 |
 | In Search of Perfection | 0.60% | ~9 |
 | Globe-trotter | 0.40% | ~6 |
 | Maximum Endurance | 0.30% | ~5 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,562 (Ranked 217)  
+Progressed: 1,564 (Ranked 217)  
 Completed: 0 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,4 +102,4 @@ Completed: 0 (0.00%) (Ranked 316)
 | 2023-10-16 | 1,506 | 0 |
 | 2023-10-17 | 1,518 | 0 |
 | 2023-10-18 | 1,541 | 0 |
-| 2023-10-19 | 1,562 | 0 |
+| 2023-10-19 | 1,564 | 0 |

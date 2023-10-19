@@ -25,13 +25,13 @@ Rating: 4.56 (Ranked 475)
 | Bike or Biker | 3.00% | ~397 |
 | What the City Needs | 3.00% | ~397 |
 | Yes I Speak English | 3.00% | ~397 |
+| Public Enemy No. 1 | 3.00% | ~397 |
 | A Legitimate Business | 2.00% | ~264 |
 | I’ll Have Two Number 9s | 2.00% | ~264 |
 | Who Needs Directions? | 2.00% | ~264 |
 | Swiss Army Strife | 2.00% | ~264 |
 | Double or Nothin' | 2.00% | ~264 |
 | Assassin | 2.00% | ~264 |
-| Public Enemy No. 1 | 2.00% | ~264 |
 | Ain’t Nothing But a G Thing | 2.00% | ~264 |
 | Hoopin' it Up | 1.00% | ~132 |
 | Lucky Spinner | 1.00% | ~132 |

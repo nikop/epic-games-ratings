@@ -6,22 +6,22 @@ Number of Ratings: 1,225  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~395,351 |
+| First Blood | 81.00% | ~395,352 |
 | Happy Returns | 78.00% | ~380,709 |
 | Hey! That's mine! | 78.00% | ~380,709 |
-| Field Promotion | 74.00% | ~361,185 |
-| Leadhead | 71.00% | ~346,542 |
-| Eradicator | 67.00% | ~327,019 |
-| Surplus | 65.00% | ~317,257 |
-| I Spy | 64.00% | ~312,376 |
-| Burn Baby Burn | 59.00% | ~287,972 |
-| Yellow Beats Green | 56.00% | ~273,329 |
+| Field Promotion | 74.00% | ~361,186 |
+| Leadhead | 71.00% | ~346,543 |
+| Eradicator | 67.00% | ~327,020 |
+| Surplus | 65.00% | ~317,258 |
+| I Spy | 64.00% | ~312,377 |
+| Burn Baby Burn | 59.00% | ~287,973 |
+| Yellow Beats Green | 56.00% | ~273,330 |
 | Salvage Rights | 53.00% | ~258,687 |
 | Close Call | 50.00% | ~244,044 |
 | Pew Pew | 50.00% | ~244,044 |
 | What IS that? | 50.00% | ~244,044 |
-| Penny Pincher | 49.00% | ~239,163 |
-| Arsenal | 46.00% | ~224,520 |
+| Penny Pincher | 49.00% | ~239,164 |
+| Arsenal | 46.00% | ~224,521 |
 | Boot Camp | 45.00% | ~219,640 |
 | Flawless Victory | 42.00% | ~204,997 |
 | Confident | 41.00% | ~200,116 |
@@ -29,8 +29,8 @@ Number of Ratings: 1,225  (23.09.2022)
 | Sharpshooter | 34.00% | ~165,950 |
 | Not So Fast | 33.00% | ~161,069 |
 | Great Ball of Fire | 32.00% | ~156,188 |
-| No Sale | 31.00% | ~151,307 |
-| Kaboom! | 30.00% | ~146,426 |
+| No Sale | 31.00% | ~151,308 |
+| Kaboom! | 30.00% | ~146,427 |
 | Liquidator | 29.00% | ~141,546 |
 | High Voltage | 24.00% | ~117,141 |
 | Filthy Rich | 19.00% | ~92,737 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~488 |
 | You Monster | 0.10% | ~488 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 488,088 (Ranked 35)  
+Progressed: 488,089 (Ranked 35)  
 Completed: 4 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 4 (0.00%) (Ranked 316)
 | 2023-10-16 | 487,936 | 4 |
 | 2023-10-17 | 488,001 | 4 |
 | 2023-10-18 | 488,041 | 4 |
-| 2023-10-19 | 488,088 | 4 |
+| 2023-10-19 | 488,089 | 4 |
 ## Awards
 Max (Great for Beginners): 254  (Ranked 261)  
 Sum: 1,700 (Ranked 213)  

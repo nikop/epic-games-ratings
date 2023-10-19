@@ -4,8 +4,8 @@
   "ProductSlug": "night-book-77f2c7",
   "Ranking_EOS_Progress": 338,
   "Ranking_EOS_Completed": 116,
-  "Ranking_EOS_NewPlayers": 311,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
     "PcReleaseDate": "2021-07-27T17:00:00+00:00",
@@ -268,9 +268,9 @@
       "ID": "career_woman",
       "SetID": "a3kkelb",
       "Name": "Career Woman",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 142
     },
     {
       "ID": "deal_or_no_deal",
@@ -405,8 +405,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2023-10-19T21:07:19.3800649+00:00",
+  "LastChanged_Achievements": "2023-10-19T22:06:36.3912136+00:00",
   "LastUpdate_AppInfo": "2023-10-14T11:57:10.8818675+00:00",
-  "LastUpdate_Ratings": "2023-10-19T21:01:00.137722+00:00",
-  "LastUpdate_Achievements": "2023-10-19T21:07:19.380083+00:00"
+  "LastUpdate_Ratings": "2023-10-19T22:00:03.0264583+00:00",
+  "LastUpdate_Achievements": "2023-10-19T22:06:36.3912297+00:00"
 }

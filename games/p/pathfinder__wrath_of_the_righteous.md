@@ -6,12 +6,12 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 25.00% | ~2,900 |
-| A Spark | 18.00% | ~2,088 |
-| Burning City | 17.00% | ~1,972 |
-| Defender's Heart | 15.00% | ~1,740 |
-| Mythic Choices | 14.00% | ~1,624 |
-| Banner over the Citadel | 13.00% | ~1,508 |
+| Devoured by Darkness | 25.00% | ~2,901 |
+| A Spark | 18.00% | ~2,089 |
+| Burning City | 17.00% | ~1,973 |
+| Defender's Heart | 15.00% | ~1,741 |
+| Mythic Choices | 14.00% | ~1,625 |
+| Banner over the Citadel | 13.00% | ~1,509 |
 | Queen's Gratitude | 12.00% | ~1,392 |
 | Fifth Crusade | 8.00% | ~928 |
 | Embrace of the Abyss | 6.00% | ~696 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,602 (Ranked 146)  
+Progressed: 11,604 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,10 +305,10 @@ Completed: 0 (0.00%) (Ranked 316)
 | 2023-10-16 | 11,539 | 0 |
 | 2023-10-17 | 11,545 | 0 |
 | 2023-10-18 | 11,567 | 0 |
-| 2023-10-19 | 11,602 | 0 |
+| 2023-10-19 | 11,604 | 0 |
 ## Awards
 Max (Character Customization): 1,726  (Ranked 119)  
-Sum: 6,993 (Ranked 115)  
+Sum: 6,994 (Ranked 115)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
@@ -316,7 +316,7 @@ Diff (max vs sum): 4
 | This game is Extremely Fun | 652 |
 | This game is Highly Recommended | 640 |
 | This game has Amazing Characters | 637 |
-| This game has Diverse Characters | 629 |
+| This game has Diverse Characters | 630 |
 | This game has Amazing Storytelling | 614 |
 | This game has Challenging Combat | 581 |
 | This game has Quickly Understood Controls | 574 |
@@ -564,3 +564,4 @@ Diff (max vs sum): 4
 | 2023-10-14 | 4.76 | - | 1,723 | 6,987 |
 | 2023-10-15 | 4.76 | - | 1,723 | 6,989 |
 | 2023-10-17 | 4.76 | - | 1,726 | 6,993 |
+| 2023-10-19 | 4.76 | - | 1,726 | 6,994 |

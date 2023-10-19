@@ -21,11 +21,11 @@
 | Ambition is... blind | 40.00% | ~12 |
 | You have two wishes left | 40.00% | ~12 |
 | The seer | 37.00% | ~11 |
+| You had one wish left | 33.00% | ~10 |
 | The artist | 33.00% | ~10 |
 | Welcome to Hellville | 33.00% | ~10 |
 | You've awakened the beast | 30.00% | ~9 |
 | Hate is... addictive | 30.00% | ~9 |
-| You had one wish left | 30.00% | ~9 |
 | Et in arcadia ego | 30.00% | ~9 |
 | Blessed antennas | 27.00% | ~8 |
 | The bully | 23.00% | ~7 |

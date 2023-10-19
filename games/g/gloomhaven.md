@@ -1,34 +1,34 @@
 # Gloomhaven
 [Store](https://store.epicgames.com/en-US/p/gloomhaven-92f741)  
 [View Rawdata](../../db/g/gloomhaven.json)  
-Rating: 4.47 (Ranked 623)  
+Rating: 4.47 (Ranked 624)  
 Number of Ratings: 68  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 44.00% | ~6,397 |
-| Overkill | 34.00% | ~4,943 |
-| A normal day in Gloomhaven | 34.00% | ~4,943 |
-| Vaccine Incoming | 33.00% | ~4,798 |
-| Spread the plague | 31.00% | ~4,507 |
-| Get over here! | 24.00% | ~3,489 |
-| Just when I thought I was out... | 19.00% | ~2,762 |
-| Precious! | 17.00% | ~2,472 |
-| Mine... All Mine... | 17.00% | ~2,472 |
-| Light of my life | 15.00% | ~2,181 |
-| Anatomy Lesson | 15.00% | ~2,181 |
-| Grizzled veteran | 13.00% | ~1,890 |
-| You activated my trap card! | 13.00% | ~1,890 |
-| Obstacle race | 13.00% | ~1,890 |
+| I'm not dead yet | 44.00% | ~6,400 |
+| Overkill | 34.00% | ~4,945 |
+| A normal day in Gloomhaven | 34.00% | ~4,945 |
+| Vaccine Incoming | 33.00% | ~4,800 |
+| Spread the plague | 31.00% | ~4,509 |
+| Get over here! | 24.00% | ~3,491 |
+| Just when I thought I was out... | 19.00% | ~2,764 |
+| Precious! | 17.00% | ~2,473 |
+| Mine... All Mine... | 17.00% | ~2,473 |
+| Light of my life | 15.00% | ~2,182 |
+| Anatomy Lesson | 15.00% | ~2,182 |
+| Grizzled veteran | 13.00% | ~1,891 |
+| You activated my trap card! | 13.00% | ~1,891 |
+| Obstacle race | 13.00% | ~1,891 |
 | Augmented rat | 12.00% | ~1,745 |
-| Doom and gloom | 11.00% | ~1,599 |
+| Doom and gloom | 11.00% | ~1,600 |
 | Who's the Boss? | 9.00% | ~1,309 |
-| Dungeon Veteran | 8.00% | ~1,163 |
-| Pack leader | 8.00% | ~1,163 |
-| Pain is your friend | 8.00% | ~1,163 |
-| Black death | 8.00% | ~1,163 |
-| Play it again, Sam | 8.00% | ~1,163 |
-| Quad damage | 6.00% | ~872 |
+| Dungeon Veteran | 8.00% | ~1,164 |
+| Pack leader | 8.00% | ~1,164 |
+| Pain is your friend | 8.00% | ~1,164 |
+| Black death | 8.00% | ~1,164 |
+| Play it again, Sam | 8.00% | ~1,164 |
+| Quad damage | 6.00% | ~873 |
 | Power Up! | 5.00% | ~727 |
 | The Pro from Dover | 5.00% | ~727 |
 | Pretty lights! | 5.00% | ~727 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~15 |
 | Murder Death Kill | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,539 (Ranked 139)  
+Progressed: 14,545 (Ranked 139)  
 Completed: 1 (0.01%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 1 (0.01%) (Ranked 298)
 | 2023-10-16 | 13,884 | 1 |
 | 2023-10-17 | 14,108 | 1 |
 | 2023-10-18 | 14,328 | 1 |
-| 2023-10-19 | 14,539 | 1 |
+| 2023-10-19 | 14,545 | 1 |
 ## Awards
 Max (Character Customization): 3,555  (Ranked 90)  
 Sum: 8,300 (Ranked 98)  

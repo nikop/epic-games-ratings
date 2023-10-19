@@ -22,8 +22,8 @@
 | Carry his Words | 22.00% | ~11 |
 | Shining in the Night | 20.00% | ~10 |
 | Hunting Season | 18.00% | ~9 |
+| Chased the Source | 18.00% | ~9 |
 | Felt Good | 16.00% | ~8 |
-| Chased the Source | 16.00% | ~8 |
 | Stunning Vistas | 14.00% | ~7 |
 | Seeing Double | 14.00% | ~7 |
 | All His Life | 14.00% | ~7 |

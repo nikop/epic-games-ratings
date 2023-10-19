@@ -6,11 +6,11 @@
 | ---- | ---------- | ----- |
 | Last Night...Did We... | 80.00% | ~430 |
 | I Challenge You To Save More Money! | 68.00% | ~365 |
-| I Love How Tough You Are | 43.00% | ~231 |
+| I Love How Tough You Are | 44.00% | ~236 |
 | Wanna Come To My Place For Dinner? | 34.00% | ~183 |
 | Are You Alright? | 31.00% | ~166 |
 | What I Want Is You | 29.00% | ~156 |
-| To Be Or Not To Be | 26.00% | ~140 |
+| To Be Or Not To Be | 27.00% | ~145 |
 | Go Clean up In Your Own Way | 21.00% | ~113 |
 | Love Actually | 20.00% | ~107 |
 | Drama King | 18.00% | ~97 |
@@ -19,8 +19,8 @@
 | Happy Family | 15.00% | ~81 |
 | FIRST LOVE | 15.00% | ~81 |
 | Worthless Speech | 15.00% | ~81 |
-| Still Single | 13.00% | ~70 |
-| Absolutely Elegant | 12.00% | ~64 |
+| Still Single | 14.00% | ~75 |
+| Absolutely Elegant | 13.00% | ~70 |
 | ONE PUNCH | 12.00% | ~64 |
 | David | 12.00% | ~64 |
 | Days Of Innocence | 10.00% | ~54 |

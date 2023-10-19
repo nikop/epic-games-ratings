@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What is this? | 69.00% | ~66 |
-| Complete Level 1-1 | 61.00% | ~58 |
-| Immortal | 53.00% | ~50 |
+| What is this? | 70.00% | ~67 |
+| Complete Level 1-1 | 61.00% | ~59 |
+| Immortal | 53.00% | ~51 |
 | Complete Level 1-2 | 45.00% | ~43 |
-| Scraping by | 32.00% | ~30 |
-| Engineer-mage hybrid | 32.00% | ~30 |
+| Scraping by | 31.00% | ~30 |
+| Engineer-mage hybrid | 31.00% | ~30 |
 | Complete Level 1-3 | 28.00% | ~27 |
 | Defeat the warrior boss | 22.00% | ~21 |
 | Get out of my way | 21.00% | ~20 |
@@ -17,19 +17,19 @@
 | Just a sip | 19.00% | ~18 |
 | Complete Level 2-1 | 17.00% | ~16 |
 | Complete Level 2-2 | 17.00% | ~16 |
-| Versatile | 16.00% | ~15 |
+| Versatile | 17.00% | ~16 |
 | Complete Level 2-3 | 14.00% | ~13 |
 | Well-off | 13.00% | ~12 |
 | Defeat the engineer boss | 13.00% | ~12 |
-| Too many crates | 12.00% | ~11 |
-| Baby steps | 12.00% | ~11 |
-| Complete Level 3-1 | 12.00% | ~11 |
+| Too many crates | 11.00% | ~11 |
+| Baby steps | 11.00% | ~11 |
+| Complete Level 3-1 | 11.00% | ~11 |
 | Complete Level 3-2 | 9.00% | ~9 |
 | Engineer-warrior hybrid | 9.00% | ~9 |
+| Mage-warrior hybrid | 9.00% | ~9 |
+| Party popper | 9.00% | ~9 |
 | Should have left me alone | 8.00% | ~8 |
 | Drink up | 8.00% | ~8 |
-| Mage-warrior hybrid | 8.00% | ~8 |
-| Party popper | 8.00% | ~8 |
 | Complete Level 3-3 | 7.00% | ~7 |
 | Mage specialist | 6.00% | ~6 |
 | Way of the mage | 6.00% | ~6 |
@@ -51,8 +51,8 @@
 | Almost there | 1.00% | ~1 |
 | Go go go | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 95 (Ranked 396)  
-Completed: 1 (1.05%) (Ranked 142)  
+Progressed: 96 (Ranked 395)  
+Completed: 1 (1.04%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -70,7 +70,7 @@ Completed: 1 (1.05%) (Ranked 142)
 | 2023-09-18 | 92 | 1 |
 | 2023-10-17 | 93 | 1 |
 | 2023-10-18 | 94 | 1 |
-| 2023-10-19 | 95 | 1 |
+| 2023-10-19 | 96 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

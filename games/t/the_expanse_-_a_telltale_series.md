@@ -20,10 +20,10 @@ Rating: 4.57 (Ranked 458)
 | Stogie for Fogey | 3.00% | ~424 |
 | Spore Taste | 3.00% | ~424 |
 | Khan's Revenge | 3.00% | ~424 |
-| Doctor Approved | 2.00% | ~282 |
-| Bottoms up! | 2.00% | ~282 |
-| Thorston Mayer | 2.00% | ~282 |
-| Miraculous Maya | 2.00% | ~282 |
+| Doctor Approved | 2.00% | ~283 |
+| Bottoms up! | 2.00% | ~283 |
+| Thorston Mayer | 2.00% | ~283 |
+| Miraculous Maya | 2.00% | ~283 |
 | Data Logger | 1.00% | ~141 |
 | Brother's Reaper | 1.00% | ~141 |
 | No Belter Left Behind | 1.00% | ~141 |
@@ -31,12 +31,12 @@ Rating: 4.57 (Ranked 458)
 | Debris Spree | 0.70% | ~99 |
 | Data Recoverer | 0.70% | ~99 |
 | Urshanabi Hoarder | 0.50% | ~71 |
-| Grave Robber | 0.40% | ~56 |
+| Grave Robber | 0.40% | ~57 |
 | Data Miner | 0.30% | ~42 |
 | Scavenger Star | 0.20% | ~28 |
 | Data Collector | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,125 (Ranked 140)  
+Progressed: 14,126 (Ranked 140)  
 Completed: 26 (0.18%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 26 (0.18%) (Ranked 229)
 | 2023-10-16 | 14,049 | 26 |
 | 2023-10-17 | 14,078 | 26 |
 | 2023-10-18 | 14,108 | 26 |
-| 2023-10-19 | 14,125 | 26 |
+| 2023-10-19 | 14,126 | 26 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

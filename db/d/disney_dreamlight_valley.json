@@ -4159,10 +4159,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 7738,
       "NumberOfAwardsMax": 1017
+    },
+    {
+      "Time": "2023-10-19T21:58:54.2871829+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7740,
+      "NumberOfAwardsMax": 1017
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7738,
+  "NumberOfAwards": 7740,
   "NumberOfAwardsMax": 1017,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4182,7 +4188,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 756
+      "Count": 757
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4200,7 +4206,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 809
+      "Count": 810
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4233,7 +4239,7 @@
       "Count": 518
     }
   ],
-  "EOS_Progressed": 10923,
+  "EOS_Progressed": 10924,
   "EOS_Completed": 262,
   "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 7,
@@ -16318,6 +16324,11 @@
       "Time": "2023-10-19T21:08:02.7698604+00:00",
       "NumProgressed": 10923,
       "NumCompleted": 262
+    },
+    {
+      "Time": "2023-10-19T22:07:12.4440734+00:00",
+      "NumProgressed": 10924,
+      "NumCompleted": 262
     }
   ],
   "TotalAchievements": 15,
@@ -16401,7 +16412,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 70,
       "XP": 75,
-      "UsersEstimate": 7646
+      "UsersEstimate": 7647
     },
     {
       "ID": "Miner",
@@ -16417,7 +16428,7 @@
       "Name": "Photographer",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 7537
+      "UsersEstimate": 7538
     },
     {
       "ID": "Renovator",
@@ -16441,23 +16452,23 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 62,
       "XP": 100,
-      "UsersEstimate": 6772
+      "UsersEstimate": 6773
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 10923,
+      "Progressed": 10924,
       "Completed": 262
     }
   ],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2023-10-19T13:05:40.4551218+00:00",
-  "LastChanged_Achievements": "2023-10-19T21:08:02.76986+00:00",
+  "LastChanged": "2023-10-19T21:58:54.2871827+00:00",
+  "LastChanged_Achievements": "2023-10-19T22:07:12.4440728+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:03.0185965+00:00",
-  "LastUpdate_Ratings": "2023-10-19T20:59:32.2824565+00:00",
-  "LastUpdate_Achievements": "2023-10-19T21:08:02.7699942+00:00"
+  "LastUpdate_Ratings": "2023-10-19T21:58:54.2871834+00:00",
+  "LastUpdate_Achievements": "2023-10-19T22:07:12.4441757+00:00"
 }

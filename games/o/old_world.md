@@ -69,12 +69,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Apadana | 0.90% | ~133 |
 | Mythology | 0.90% | ~133 |
 | Win a Single Player Game | 0.90% | ~133 |
+| Beloved | 0.80% | ~118 |
 | Conqueror | 0.80% | ~118 |
 | Champions | 0.80% | ~118 |
 | Sages | 0.80% | ~118 |
 | Mausoleum | 0.80% | ~118 |
 | Hanging Gardens in Babylon | 0.70% | ~104 |
-| Beloved | 0.70% | ~104 |
 | Intercessor | 0.70% | ~104 |
 | Lion | 0.70% | ~104 |
 | Victorious | 0.70% | ~104 |
@@ -96,6 +96,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Via Recta Souk | 0.60% | ~89 |
 | Learn to Play 4 | 0.60% | ~89 |
 | Persian Paganism | 0.60% | ~89 |
+| Economic Reform | 0.60% | ~89 |
 | Legalism | 0.60% | ~89 |
 | Redemption | 0.60% | ~89 |
 | Legionary | 0.60% | ~89 |
@@ -110,11 +111,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Church of the Holy Sepulchre | 0.50% | ~74 |
 | Babylonia | 0.50% | ~74 |
 | Carthage | 0.50% | ~74 |
-| Economic Reform | 0.50% | ~74 |
 | Military Prestige | 0.50% | ~74 |
 | Dualism | 0.50% | ~74 |
 | Gnosticism | 0.50% | ~74 |
 | Revelation | 0.50% | ~74 |
+| Veneration | 0.50% | ~74 |
 | Cimmerian Archer | 0.50% | ~74 |
 | Mounted Lancer | 0.50% | ~74 |
 | The Clergy | 0.50% | ~74 |
@@ -123,7 +124,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kmt Unified | 0.50% | ~74 |
 | Devout | 0.40% | ~59 |
 | Ready | 0.40% | ~59 |
+| Noble Difficulty | 0.40% | ~59 |
 | Clerics | 0.40% | ~59 |
+| Learn to Play 5 | 0.40% | ~59 |
 | Egypt | 0.40% | ~59 |
 | Rome | 0.40% | ~59 |
 | One True Faith | 0.40% | ~59 |
@@ -131,7 +134,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Paganism | 0.40% | ~59 |
 | Industrial Progress | 0.40% | ~59 |
 | Enlightenment | 0.40% | ~59 |
-| Veneration | 0.40% | ~59 |
 | Turreted Elephant | 0.40% | ~59 |
 | All Nations | 0.40% | ~59 |
 | Ambition Victory | 0.40% | ~59 |
@@ -139,10 +141,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate in Babylon | 0.30% | ~44 |
 | Carthage - Ox Hide | 0.30% | ~44 |
 | Peacemaker | 0.30% | ~44 |
-| Noble Difficulty | 0.30% | ~44 |
 | Cao'an | 0.30% | ~44 |
 | Adur Burzen-Mihr | 0.30% | ~44 |
-| Learn to Play 5 | 0.30% | ~44 |
 | Old World Order | 0.30% | ~44 |
 | Ten Crowns | 0.30% | ~44 |
 | Cataphract Archer | 0.30% | ~44 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 54,
+  "Ranking_EOS_NewPlayers": 52,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -539,9 +539,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 69257,
+  "EOS_Progressed": 69299,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 1549,
+  "EOS_NewPlayers": 1586,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -18629,6 +18629,11 @@
       "Time": "2023-10-19T21:09:18.7645466+00:00",
       "NumProgressed": 69257,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2023-10-19T22:09:37.9333364+00:00",
+      "NumProgressed": 69299,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 67,
@@ -18640,7 +18645,7 @@
       "Name": "Follow the Light",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 30473
+      "UsersEstimate": 30492
     },
     {
       "ID": "02",
@@ -18648,7 +18653,7 @@
       "Name": "Nordic Walking",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 19392
+      "UsersEstimate": 19404
     },
     {
       "ID": "03",
@@ -18656,7 +18661,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 18699
+      "UsersEstimate": 18711
     },
     {
       "ID": "04",
@@ -18664,7 +18669,7 @@
       "Name": "Boob Tube",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3463
+      "UsersEstimate": 3465
     },
     {
       "ID": "05",
@@ -18672,7 +18677,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 16622
+      "UsersEstimate": 16632
     },
     {
       "ID": "06",
@@ -18680,7 +18685,7 @@
       "Name": "Park Ranger",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 13851
+      "UsersEstimate": 13860
     },
     {
       "ID": "07",
@@ -18688,7 +18693,7 @@
       "Name": "Heavy Metal",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9696
+      "UsersEstimate": 9702
     },
     {
       "ID": "08",
@@ -18696,7 +18701,7 @@
       "Name": "Iron Horse",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 10389
+      "UsersEstimate": 10395
     },
     {
       "ID": "09",
@@ -18704,7 +18709,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 11081
+      "UsersEstimate": 11088
     },
     {
       "ID": "10",
@@ -18712,7 +18717,7 @@
       "Name": "Medical Opinions",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1385
+      "UsersEstimate": 1386
     },
     {
       "ID": "11",
@@ -18720,7 +18725,7 @@
       "Name": "Children of the Elder God",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 4155
+      "UsersEstimate": 4158
     },
     {
       "ID": "12",
@@ -18728,7 +18733,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9696
+      "UsersEstimate": 9702
     },
     {
       "ID": "13",
@@ -18736,7 +18741,7 @@
       "Name": "Drink \u0027Em Both Up",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4848
+      "UsersEstimate": 4851
     },
     {
       "ID": "14",
@@ -18744,7 +18749,7 @@
       "Name": "Gatekeeper",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 9003
+      "UsersEstimate": 9009
     },
     {
       "ID": "15",
@@ -18752,7 +18757,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 8311
+      "UsersEstimate": 8316
     },
     {
       "ID": "16",
@@ -18760,7 +18765,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 6233
+      "UsersEstimate": 6237
     },
     {
       "ID": "17",
@@ -18768,7 +18773,7 @@
       "Name": "Departure",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5541
+      "UsersEstimate": 5544
     },
     {
       "ID": "18",
@@ -18776,7 +18781,7 @@
       "Name": "Hardboiled Writer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4848
+      "UsersEstimate": 4851
     },
     {
       "ID": "19",
@@ -18792,7 +18797,7 @@
       "Name": "If It Flies, It Burns",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3463
+      "UsersEstimate": 3465
     },
     {
       "ID": "21",
@@ -18800,7 +18805,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 11081
+      "UsersEstimate": 11088
     },
     {
       "ID": "22",
@@ -18808,7 +18813,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 11081
+      "UsersEstimate": 11088
     },
     {
       "ID": "23",
@@ -18816,7 +18821,7 @@
       "Name": "Taken Season",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1385
+      "UsersEstimate": 1386
     },
     {
       "ID": "24",
@@ -18824,7 +18829,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 9003
+      "UsersEstimate": 9009
     },
     {
       "ID": "25",
@@ -18832,7 +18837,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6926
+      "UsersEstimate": 6930
     },
     {
       "ID": "26",
@@ -18840,7 +18845,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 9003
+      "UsersEstimate": 9009
     },
     {
       "ID": "27",
@@ -18848,7 +18853,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 10389
+      "UsersEstimate": 10395
     },
     {
       "ID": "28",
@@ -18856,7 +18861,7 @@
       "Name": "Come One, Come All",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 10389
+      "UsersEstimate": 10395
     },
     {
       "ID": "29",
@@ -18864,7 +18869,7 @@
       "Name": "Sound and Fury",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11774
+      "UsersEstimate": 11781
     },
     {
       "ID": "30",
@@ -18872,7 +18877,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 9003
+      "UsersEstimate": 9009
     },
     {
       "ID": "31",
@@ -18880,15 +18885,15 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 13159
+      "UsersEstimate": 13167
     },
     {
       "ID": "32",
       "SetID": "212770e",
       "Name": "Float Like a Butterfly",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 23547
+      "UsersEstimate": 24255
     },
     {
       "ID": "33",
@@ -18896,7 +18901,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11774
+      "UsersEstimate": 11781
     },
     {
       "ID": "34",
@@ -18904,7 +18909,7 @@
       "Name": "Energized!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 8311
+      "UsersEstimate": 8316
     },
     {
       "ID": "35",
@@ -18912,7 +18917,7 @@
       "Name": "Let There Be Light",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 24933
+      "UsersEstimate": 24948
     },
     {
       "ID": "36",
@@ -18920,7 +18925,7 @@
       "Name": "Carny",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2078
+      "UsersEstimate": 2079
     },
     {
       "ID": "37",
@@ -18936,7 +18941,7 @@
       "Name": "An Idyllic Small Town",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1385
+      "UsersEstimate": 1386
     },
     {
       "ID": "39",
@@ -18952,7 +18957,7 @@
       "Name": "Right of Way",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 7618
+      "UsersEstimate": 7623
     },
     {
       "ID": "41",
@@ -18960,7 +18965,7 @@
       "Name": "Finders Keepers",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 13159
+      "UsersEstimate": 13167
     },
     {
       "ID": "42",
@@ -18976,7 +18981,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 13851
+      "UsersEstimate": 13860
     },
     {
       "ID": "44",
@@ -19000,7 +19005,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 11774
+      "UsersEstimate": 11781
     },
     {
       "ID": "47",
@@ -19016,7 +19021,7 @@
       "Name": "KBF-FM",
       "Percentage": 5,
       "XP": 110,
-      "UsersEstimate": 3463
+      "UsersEstimate": 3465
     },
     {
       "ID": "49",
@@ -19024,7 +19029,7 @@
       "Name": "Couch Potato",
       "Percentage": 2,
       "XP": 110,
-      "UsersEstimate": 1385
+      "UsersEstimate": 1386
     },
     {
       "ID": "50",
@@ -19040,7 +19045,7 @@
       "Name": "A Friend in Need",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 2945
+      "UsersEstimate": 2949
     },
     {
       "ID": "52",
@@ -19048,7 +19053,7 @@
       "Name": "A Friend Indeed",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2291
+      "UsersEstimate": 2294
     },
     {
       "ID": "53",
@@ -19096,7 +19101,7 @@
       "Name": "Cardboard Companions",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "59",
@@ -19104,7 +19109,7 @@
       "Name": "Ding!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 1964
+      "UsersEstimate": 1966
     },
     {
       "ID": "60",
@@ -19112,7 +19117,7 @@
       "Name": "Kill Your Darlings",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1309
+      "UsersEstimate": 1311
     },
     {
       "ID": "61",
@@ -19120,7 +19125,7 @@
       "Name": "Go Gentle Into That Good Light",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "62",
@@ -19128,7 +19133,7 @@
       "Name": "No Punctuation",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "63",
@@ -19136,7 +19141,7 @@
       "Name": "Iron Will",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "64",
@@ -19152,7 +19157,7 @@
       "Name": "Licensed Properties",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "66",
@@ -19168,28 +19173,28 @@
       "Name": "Heartbreaker",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1309
+      "UsersEstimate": 1311
     }
   ],
   "AchievementSets": [
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 69257,
+      "Progressed": 69299,
       "Completed": 71
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 32725,
+      "Progressed": 32767,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-10-17T07:57:25.3609832+00:00",
-  "LastChanged_Achievements": "2023-10-19T21:09:18.7645461+00:00",
+  "LastChanged_Achievements": "2023-10-19T22:09:37.9333359+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:29.5404552+00:00",
-  "LastUpdate_Ratings": "2023-10-19T20:59:05.3302176+00:00",
-  "LastUpdate_Achievements": "2023-10-19T21:09:18.7648007+00:00"
+  "LastUpdate_Ratings": "2023-10-19T21:58:35.9404155+00:00",
+  "LastUpdate_Achievements": "2023-10-19T22:09:37.9335293+00:00"
 }

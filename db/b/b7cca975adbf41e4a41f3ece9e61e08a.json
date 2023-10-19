@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-10-18T04:00:00+00:00",
     "PcReleaseDate": "2023-10-18T04:00:00+00:00",
@@ -380,9 +380,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "7opfcp",
       "Name": "I Love How Tough You Are",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 231
+      "UsersEstimate": 236
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -428,17 +428,17 @@
       "ID": "NEW_ACHIEVEMENT_1_25",
       "SetID": "7opfcp",
       "Name": "Absolutely Elegant",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 64
+      "UsersEstimate": 70
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_26",
       "SetID": "7opfcp",
       "Name": "Still Single",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 70
+      "UsersEstimate": 75
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_27",
@@ -500,9 +500,9 @@
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "7opfcp",
       "Name": "To Be Or Not To Be",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 140
+      "UsersEstimate": 145
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -627,8 +627,8 @@
   ],
   "FirstSeen": "2023-10-18T10:00:20.8201425+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
-  "LastChanged_Achievements": "2023-10-19T21:05:57.868438+00:00",
+  "LastChanged_Achievements": "2023-10-19T22:05:27.9058994+00:00",
   "LastUpdate_AppInfo": "2023-10-13T20:56:58.7836502+00:00",
-  "LastUpdate_Ratings": "2023-10-19T21:01:14.9238272+00:00",
-  "LastUpdate_Achievements": "2023-10-19T21:05:57.8684745+00:00"
+  "LastUpdate_Ratings": "2023-10-19T22:00:15.8911417+00:00",
+  "LastUpdate_Achievements": "2023-10-19T22:05:27.9059383+00:00"
 }

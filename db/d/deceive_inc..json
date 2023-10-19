@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 290,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -259,7 +259,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18503,
+  "EOS_Progressed": 18504,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 0,
@@ -11829,6 +11829,11 @@
       "Time": "2023-10-19T21:04:15.5470752+00:00",
       "NumProgressed": 18503,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-19T22:04:03.5589477+00:00",
+      "NumProgressed": 18504,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -11928,7 +11933,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2960
+      "UsersEstimate": 2961
     },
     {
       "ID": "0013",
@@ -11944,7 +11949,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2960
+      "UsersEstimate": 2961
     },
     {
       "ID": "0015",
@@ -12064,7 +12069,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2405
+      "UsersEstimate": 2406
     },
     {
       "ID": "0030",
@@ -12127,7 +12132,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18503,
+      "Progressed": 18504,
       "Completed": 4
     }
   ],
@@ -12135,8 +12140,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-10-19T21:04:15.5470747+00:00",
+  "LastChanged_Achievements": "2023-10-19T22:04:03.5589471+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:07.4457302+00:00",
-  "LastUpdate_Ratings": "2023-10-19T21:01:35.0604803+00:00",
-  "LastUpdate_Achievements": "2023-10-19T21:04:15.547183+00:00"
+  "LastUpdate_Ratings": "2023-10-19T22:00:31.3379511+00:00",
+  "LastUpdate_Achievements": "2023-10-19T22:04:03.5590594+00:00"
 }

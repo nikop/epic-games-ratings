@@ -14,13 +14,13 @@ Rating: 4.62 (Ranked 356)
 | Time Flies | 21.00% | ~190 |
 | The Harder They Fall | 21.00% | ~190 |
 | The Prince in Heels | 21.00% | ~190 |
+| Immaculate Aim | 21.00% | ~190 |
 | The Brass Boss | 21.00% | ~190 |
 | No, Thanks! | 20.00% | ~181 |
 | Breaking Down Barriers | 20.00% | ~181 |
 | The Wicked Twins | 20.00% | ~181 |
 | Honest Mistake | 20.00% | ~181 |
 | Fast Learner | 20.00% | ~181 |
-| Immaculate Aim | 20.00% | ~181 |
 | Like Clockwork | 19.00% | ~172 |
 | The Betrayer | 19.00% | ~172 |
 | Golem Chaser | 19.00% | ~172 |

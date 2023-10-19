@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -415,9 +415,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2657,
+  "EOS_Progressed": 2658,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 251,
+  "EOS_NewPlayers": 250,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2900,6 +2900,11 @@
       "Time": "2023-10-19T21:07:17.974063+00:00",
       "NumProgressed": 2657,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-19T22:06:35.1726306+00:00",
+      "NumProgressed": 2658,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -3064,7 +3069,7 @@
       "Name": "Bragging Rights",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "achievement_9",
@@ -3079,7 +3084,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 2657,
+      "Progressed": 2658,
       "Completed": 0
     }
   ],
@@ -3087,8 +3092,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-10-19T15:03:08.1422243+00:00",
-  "LastChanged_Achievements": "2023-10-19T21:07:17.9740625+00:00",
+  "LastChanged_Achievements": "2023-10-19T22:06:35.1726299+00:00",
   "LastUpdate_AppInfo": "2023-10-19T02:57:12.4417313+00:00",
-  "LastUpdate_Ratings": "2023-10-19T21:03:08.7131419+00:00",
-  "LastUpdate_Achievements": "2023-10-19T21:07:17.9740948+00:00"
+  "LastUpdate_Ratings": "2023-10-19T22:03:16.7678248+00:00",
+  "LastUpdate_Achievements": "2023-10-19T22:06:35.1726659+00:00"
 }
