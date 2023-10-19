@@ -3,8 +3,8 @@
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 66.67% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.58% |
-| 4 | [The Riflemen](games/t/the_riflemen.md) | 47.27% |
-| 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 47.12% |
+| 4 | [The Riflemen](games/t/the_riflemen.md) | 47.25% |
+| 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.62% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 33.91% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -70,13 +70,13 @@
 | 68 | [ZZT!](games/z/zzt!.md) | 4.46% |
 | 69 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.43% |
 | 70 | [The Bunker](games/t/the_bunker.md) | 4.20% |
-| 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.14% |
+| 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.15% |
 | 72 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.09% |
 | 73 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.07% |
 | 74 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.00% |
 | 75 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
-| 75 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.80% |
-| 77 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.79% |
+| 76 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.79% |
+| 76 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.79% |
 | 78 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.58% |
 | 79 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
 | 80 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |

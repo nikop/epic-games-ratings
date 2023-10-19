@@ -3,7 +3,7 @@
 | 1 | [Fortnite](games/f/fortnite.md) | 1,837,611 | 4.29 | 823 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 582,160 | 4.48 | 609 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 310,578 | 4.68 | 242 |
-| 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 244,475 | 4.68 | 242 |
+| 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 244,931 | 4.68 | 242 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 207,451 | 4.18 | 902 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 188,237 | 4.88 | 16 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 150,247 | 4.51 | 553 |
@@ -39,7 +39,7 @@
 | 37 | [SnowRunner](games/s/snowrunner.md) | 11,369 | 4.76 | 119 |
 | 38 | [HITMAN World of Assassination](games/h/hitman_3.md) | 10,352 | 4.78 | 99 |
 | 39 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 10,271 | 4.61 | 378 |
-| 40 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 9,551 | 4.57 | 457 |
+| 40 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 9,559 | 4.57 | 457 |
 | 41 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 8,884 | 4.58 | 439 |
 | 42 | [Control](games/c/control.md) | 8,600 | 4.60 | 403 |
 | 43 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 8,446 | 4.89 | 10 |
@@ -158,7 +158,7 @@
 | 156 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 886 | 4.45 | 647 |
 | 157 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 882 | 4.56 | 476 |
 | 158 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 854 | 4.52 | 540 |
-| 159 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 845 | 4.49 | 593 |
+| 159 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 847 | 4.49 | 593 |
 | 160 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 838 | 4.69 | 224 |
 | 161 | [Frostpunk](games/f/frostpunk.md) | 824 | 4.74 | 151 |
 | 162 | [Auto Chess](games/a/auto_chess.md) | 821 | 4.51 | 553 |
@@ -533,7 +533,6 @@
 | 530 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 20 | 4.13 | 932 |
 | 530 | [Figment](games/f/figment.md) | 20 | 4.46 | 629 |
 | 530 | [Mortal Shell](games/m/mortal_shell.md) | 20 | 4.28 | 831 |
-| 530 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 20 | 4.16 | 913 |
 | 530 | [Riverbond](games/r/riverbond.md) | 20 | 4.47 | 622 |
 | 530 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 20 | 4.36 | 762 |
 | 530 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 20 | 4.59 | 420 |
