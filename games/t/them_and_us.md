@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Alone with Them | 73.00% | ~169 |
-| Forced to Kill | 69.00% | ~159 |
+| Forced to Kill | 70.00% | ~162 |
 | A Night To Remember | 40.00% | ~92 |
 | Safe...For now? | 33.00% | ~76 |
 | Open Sesame | 28.00% | ~65 |
@@ -45,7 +45,7 @@
 | No Time To Relax | 0.40% | ~1 |
 | Survival Horror | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231 (Ranked 333)  
+Progressed: 231 (Ranked 334)  
 Completed: 1 (0.43%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |

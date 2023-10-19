@@ -4,7 +4,7 @@
   "ProductSlug": "alan-wake-2",
   "Ranking_EOS_Progress": 444,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-10-27T04:00:00+00:00",
@@ -151,9 +151,9 @@
       "ID": "13",
       "SetID": "b5e4c1b",
       "Name": "Bring It",
-      "Percentage": 85,
+      "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "14",
@@ -167,9 +167,9 @@
       "ID": "15",
       "SetID": "b5e4c1b",
       "Name": "Greatest Hits",
-      "Percentage": 68,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "16",
@@ -223,9 +223,9 @@
       "ID": "21",
       "SetID": "b5e4c1b",
       "Name": "Coffee Thermos",
-      "Percentage": 74,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 37
     },
     {
       "ID": "22",
@@ -327,9 +327,9 @@
       "ID": "33",
       "SetID": "b5e4c1b",
       "Name": "Grew Bigger",
-      "Percentage": 85,
+      "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "34",
@@ -656,8 +656,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.7516471+00:00",
   "FirstSeenAchievements": "2023-08-28T13:10:00.1421232+00:00",
   "LastChanged": "2023-03-31T05:57:50.7516472+00:00",
-  "LastChanged_Achievements": "2023-10-19T15:09:29.0492174+00:00",
+  "LastChanged_Achievements": "2023-10-19T16:09:29.4235346+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:09.1997352+00:00",
-  "LastUpdate_Ratings": "2023-10-19T14:59:15.3476498+00:00",
-  "LastUpdate_Achievements": "2023-10-19T15:09:29.0492834+00:00"
+  "LastUpdate_Ratings": "2023-10-19T15:59:00.3453384+00:00",
+  "LastUpdate_Achievements": "2023-10-19T16:09:29.4235873+00:00"
 }

@@ -11,7 +11,7 @@
 | Rivals to the End | 28.00% | ~436 |
 | Bitter Rivalry | 25.00% | ~390 |
 | We're Going to Need a Bigger Garage | 24.00% | ~374 |
-| Champagne Spray | 22.00% | ~343 |
+| Champagne Spray | 23.00% | ~358 |
 | I Want One Too! | 19.00% | ~296 |
 | Restored and Ready | 18.00% | ~280 |
 | Legendary!!! | 18.00% | ~280 |

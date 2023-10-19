@@ -5,13 +5,13 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Nightmare Territory | 91.00% | ~43 |
-| Bring It | 85.00% | ~40 |
+| Bring It | 87.00% | ~41 |
+| Grew Bigger | 87.00% | ~41 |
 | Find the Light | 85.00% | ~40 |
-| Grew Bigger | 85.00% | ~40 |
 | Lights Shining | 79.00% | ~37 |
 | Yippee Ki-yay | 79.00% | ~37 |
-| Coffee Thermos | 74.00% | ~35 |
-| Greatest Hits | 68.00% | ~32 |
+| Coffee Thermos | 79.00% | ~37 |
+| Greatest Hits | 70.00% | ~33 |
 | Filling the Shape | 68.00% | ~32 |
 | Ready for a Fight | 60.00% | ~28 |
 | Darkness Coiled | 57.00% | ~27 |

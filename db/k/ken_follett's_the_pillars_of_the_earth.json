@@ -534,9 +534,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 15835,
+  "EOS_Progressed": 15838,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
@@ -12319,6 +12319,11 @@
       "Time": "2023-10-19T15:05:51.7595084+00:00",
       "NumProgressed": 15835,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-10-19T16:05:32.7668996+00:00",
+      "NumProgressed": 15838,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 41,
@@ -12346,7 +12351,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3642
+      "UsersEstimate": 3643
     },
     {
       "ID": "tpote_achievement_12",
@@ -12370,7 +12375,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5226
+      "UsersEstimate": 5227
     },
     {
       "ID": "tpote_achievement_15",
@@ -12410,7 +12415,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2850
+      "UsersEstimate": 2851
     },
     {
       "ID": "tpote_achievement_2",
@@ -12418,7 +12423,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5226
+      "UsersEstimate": 5227
     },
     {
       "ID": "tpote_achievement_20",
@@ -12434,7 +12439,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4750
+      "UsersEstimate": 4751
     },
     {
       "ID": "tpote_achievement_22",
@@ -12442,7 +12447,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3167
+      "UsersEstimate": 3168
     },
     {
       "ID": "tpote_achievement_23",
@@ -12466,7 +12471,7 @@
       "Name": "Revenge",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "tpote_achievement_26",
@@ -12482,7 +12487,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2850
+      "UsersEstimate": 2851
     },
     {
       "ID": "tpote_achievement_28",
@@ -12490,7 +12495,7 @@
       "Name": "Whodunnit",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1900
+      "UsersEstimate": 1901
     },
     {
       "ID": "tpote_achievement_29",
@@ -12506,7 +12511,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5067
+      "UsersEstimate": 5068
     },
     {
       "ID": "tpote_achievement_30",
@@ -12522,7 +12527,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2850
+      "UsersEstimate": 2851
     },
     {
       "ID": "tpote_achievement_32",
@@ -12554,7 +12559,7 @@
       "Name": "Self-defense",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "tpote_achievement_36",
@@ -12578,7 +12583,7 @@
       "Name": "Countess Aliena",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "tpote_achievement_39",
@@ -12594,7 +12599,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6334
+      "UsersEstimate": 6335
     },
     {
       "ID": "tpote_achievement_40",
@@ -12618,7 +12623,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 3800
+      "UsersEstimate": 3801
     },
     {
       "ID": "tpote_achievement_6",
@@ -12626,7 +12631,7 @@
       "Name": "Full house",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3800
+      "UsersEstimate": 3801
     },
     {
       "ID": "tpote_achievement_7",
@@ -12634,7 +12639,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1108
+      "UsersEstimate": 1109
     },
     {
       "ID": "tpote_achievement_8",
@@ -12650,22 +12655,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 5542
+      "UsersEstimate": 5543
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15835,
+      "Progressed": 15838,
       "Completed": 113
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-10-14T16:59:08.0001807+00:00",
-  "LastChanged_Achievements": "2023-10-19T15:05:51.7595079+00:00",
+  "LastChanged_Achievements": "2023-10-19T16:05:32.7668991+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:18.9172053+00:00",
-  "LastUpdate_Ratings": "2023-10-19T15:01:46.5549752+00:00",
-  "LastUpdate_Achievements": "2023-10-19T15:05:51.7596385+00:00"
+  "LastUpdate_Ratings": "2023-10-19T16:01:03.402141+00:00",
+  "LastUpdate_Achievements": "2023-10-19T16:05:32.7670037+00:00"
 }

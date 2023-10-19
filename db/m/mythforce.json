@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 358,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -7814,9 +7814,9 @@
       "ID": "MF_Ach_HorderBetterFasterStronger",
       "SetID": "9b9n573",
       "Name": "Horder Better Faster Stronger",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 681
+      "UsersEstimate": 724
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -7910,8 +7910,8 @@
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-14T13:04:06.5278861+00:00",
-  "LastChanged_Achievements": "2023-10-19T15:09:07.1858821+00:00",
+  "LastChanged_Achievements": "2023-10-19T16:09:11.19705+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:04.1779972+00:00",
-  "LastUpdate_Ratings": "2023-10-19T14:59:21.8441231+00:00",
-  "LastUpdate_Achievements": "2023-10-19T15:09:07.1859372+00:00"
+  "LastUpdate_Ratings": "2023-10-19T15:59:06.2451609+00:00",
+  "LastUpdate_Achievements": "2023-10-19T16:09:11.1971144+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "the-evil-within-2",
   "Ranking_EOS_Progress": 414,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 71,
+  "EOS_Progressed": 72,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -355,6 +355,11 @@
       "Time": "2023-10-15T10:08:23.0239591+00:00",
       "NumProgressed": 71,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-19T16:04:39.584033+00:00",
+      "NumProgressed": 72,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T16:01:14.4921824+00:00",
@@ -397,7 +402,7 @@
       "ID": "ACHIEVEMENT_05",
       "SetID": "b36c5kb",
       "Name": "Welcome to Union",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 5,
       "UsersEstimate": 57
     },
@@ -405,7 +410,7 @@
       "ID": "ACHIEVEMENT_06",
       "SetID": "b36c5kb",
       "Name": "Taken",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 10,
       "UsersEstimate": 36
     },
@@ -421,7 +426,7 @@
       "ID": "ACHIEVEMENT_08",
       "SetID": "b36c5kb",
       "Name": "The Team Psychologist",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 10,
       "UsersEstimate": 29
     },
@@ -469,7 +474,7 @@
       "ID": "ACHIEVEMENT_14",
       "SetID": "b36c5kb",
       "Name": "Overcome the Past",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 30,
       "UsersEstimate": 21
     },
@@ -493,7 +498,7 @@
       "ID": "ACHIEVEMENT_17",
       "SetID": "b36c5kb",
       "Name": "Backup Ain\u0027t Coming",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 15,
       "UsersEstimate": 29
     },
@@ -517,7 +522,7 @@
       "ID": "ACHIEVEMENT_20",
       "SetID": "b36c5kb",
       "Name": "You Got Red in You",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
       "UsersEstimate": 26
     },
@@ -533,7 +538,7 @@
       "ID": "ACHIEVEMENT_22",
       "SetID": "b36c5kb",
       "Name": "Making Things a Little Easier",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 10,
       "UsersEstimate": 36
     },
@@ -565,7 +570,7 @@
       "ID": "ACHIEVEMENT_26",
       "SetID": "b36c5kb",
       "Name": "DIY",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 10,
       "UsersEstimate": 51
     },
@@ -621,7 +626,7 @@
       "ID": "ACHIEVEMENT_33",
       "SetID": "b36c5kb",
       "Name": "Good to See You Again",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 10,
       "UsersEstimate": 43
     },
@@ -661,7 +666,7 @@
       "ID": "ACHIEVEMENT_38",
       "SetID": "b36c5kb",
       "Name": "Thinning Them Out",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 15,
       "UsersEstimate": 38
     },
@@ -685,7 +690,7 @@
       "ID": "ACHIEVEMENT_41",
       "SetID": "b36c5kb",
       "Name": "Shock Therapy",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
       "UsersEstimate": 14
     },
@@ -774,14 +779,14 @@
     {
       "ID": "b36c5kb",
       "IsBase": true,
-      "Progressed": 71,
+      "Progressed": 72,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-10-19T15:04:48.8606712+00:00",
+  "LastChanged_Achievements": "2023-10-19T16:04:39.5840324+00:00",
   "LastUpdate_AppInfo": "2023-10-18T22:09:36.3062214+00:00",
   "LastUpdate_Ratings": "2023-10-19T15:02:10.1146083+00:00",
-  "LastUpdate_Achievements": "2023-10-19T15:04:48.8608238+00:00"
+  "LastUpdate_Achievements": "2023-10-19T16:04:39.5840766+00:00"
 }

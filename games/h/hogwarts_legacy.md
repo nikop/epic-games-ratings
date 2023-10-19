@@ -5,18 +5,18 @@ Rating: 4.76 (Ranked 119)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 15.00% | ~44,786 |
+| The Sort Who Makes an Entrance | 15.00% | ~44,787 |
 | First Class Student | 13.00% | ~38,815 |
 | Troll with the Punches | 13.00% | ~38,815 |
 | A Keen Sense of Spell | 12.00% | ~35,829 |
 | That's a Keeper | 12.00% | ~35,829 |
-| Grappling with a Graphorn | 11.00% | ~32,843 |
-| The One Who Mastered Memories | 11.00% | ~32,843 |
-| The Hallowed Hero | 11.00% | ~32,843 |
-| The Defender of Dragons | 11.00% | ~32,843 |
-| Loom for Improvement | 11.00% | ~32,843 |
-| A Talent for Spending | 11.00% | ~32,843 |
-| Coasting Along | 11.00% | ~32,843 |
+| Grappling with a Graphorn | 11.00% | ~32,844 |
+| The One Who Mastered Memories | 11.00% | ~32,844 |
+| The Hallowed Hero | 11.00% | ~32,844 |
+| The Defender of Dragons | 11.00% | ~32,844 |
+| Loom for Improvement | 11.00% | ~32,844 |
+| A Talent for Spending | 11.00% | ~32,844 |
+| Coasting Along | 11.00% | ~32,844 |
 | The Hero of Hogwarts | 10.00% | ~29,858 |
 | Challenge Accepted | 10.00% | ~29,858 |
 | Followed the Butterflies | 9.00% | ~26,872 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 119)
 | The Nature of the Beast | 0.70% | ~2,090 |
 | Collector's Edition | 0.30% | ~896 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,576 (Ranked 47)  
+Progressed: 298,578 (Ranked 47)  
 Completed: 489 (0.16%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,10 +233,10 @@ Completed: 489 (0.16%) (Ranked 233)
 | 2023-10-16 | 298,472 | 488 |
 | 2023-10-17 | 298,513 | 488 |
 | 2023-10-18 | 298,550 | 488 |
-| 2023-10-19 | 298,576 | 489 |
+| 2023-10-19 | 298,578 | 489 |
 ## Awards
 Max (Character Customization): 23,644  (Ranked 17)  
-Sum: 46,191 (Ranked 30)  
+Sum: 46,196 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -245,8 +245,8 @@ Diff (max vs sum): -13
 | This game is Great for Beginners | 1,193 |
 | This game has Amazing Storytelling | 1,166 |
 | This game has Diverse Characters | 1,156 |
+| This game is Relaxing | 1,148 |
 | This game is Extremely Fun | 1,146 |
-| This game is Relaxing | 1,143 |
 | This game has Amazing Characters | 1,110 |
 | This game is Highly Recommended | 1,086 |
 | This game has Quickly Understood Controls | 1,032 |
@@ -464,4 +464,4 @@ Diff (max vs sum): -13
 | 2023-10-16 | 4.76 | 23,559 | 45,997 |
 | 2023-10-17 | 4.76 | 23,586 | 46,073 |
 | 2023-10-18 | 4.76 | 23,620 | 46,145 |
-| 2023-10-19 | 4.76 | 23,644 | 46,191 |
+| 2023-10-19 | 4.76 | 23,644 | 46,196 |

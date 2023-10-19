@@ -23,7 +23,7 @@
 | Golfer Versus Golfer | 18.00% | ~74 |
 | Victory Lap | 11.00% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 410 (Ranked 293)  
+Progressed: 410 (Ranked 294)  
 Completed: 8 (1.95%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |

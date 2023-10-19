@@ -51,7 +51,7 @@
 | Done. First! | 0.70% | ~1 |
 | Do not feed the fish! | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135 (Ranked 365)  
+Progressed: 135 (Ranked 366)  
 Completed: 0 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |

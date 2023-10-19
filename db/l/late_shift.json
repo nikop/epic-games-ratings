@@ -2,10 +2,10 @@
   "ID": "537156dc975644649b905ec6e958506e",
   "Name": "Late Shift",
   "ProductSlug": "late-shift-8b0634",
-  "Ranking_EOS_Progress": 274,
-  "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 273,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_Progress": 275,
+  "Ranking_EOS_Completed": 124,
+  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2017-04-18T17:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 504,
+  "EOS_Progressed": 505,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.59,
+  "EOS_Completed_Percentage": 1.58,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:43.1533073+00:00",
@@ -890,6 +890,11 @@
       "Time": "2023-10-19T01:46:39.6180262+00:00",
       "NumProgressed": 504,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-19T16:04:34.3868109+00:00",
+      "NumProgressed": 505,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 20,
@@ -901,7 +906,7 @@
       "Name": "Cause and Effect",
       "Percentage": 96,
       "XP": 25,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "CHOICES_MATTER",
@@ -963,9 +968,9 @@
       "ID": "ENDING_7",
       "SetID": "8eejhlh",
       "Name": "The Frenzy",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 171
+      "UsersEstimate": 167
     },
     {
       "ID": "EVEN_TEMPERED",
@@ -973,7 +978,7 @@
       "Name": "Even Tempered",
       "Percentage": 58,
       "XP": 50,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -989,15 +994,15 @@
       "Name": "Fair Share",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "GOOD_KARMA",
       "SetID": "8eejhlh",
       "Name": "Good Karma",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 161
+      "UsersEstimate": 157
     },
     {
       "ID": "INTERROGATION",
@@ -1011,9 +1016,9 @@
       "ID": "OFFICE_CLERK",
       "SetID": "8eejhlh",
       "Name": "Office Clerk",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 156
+      "UsersEstimate": 152
     },
     {
       "ID": "PROFICIENT_STORYTELLER",
@@ -1060,7 +1065,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 504,
+      "Progressed": 505,
       "Completed": 8
     }
   ],
@@ -1068,8 +1073,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-10-19T15:04:42.7737138+00:00",
+  "LastChanged_Achievements": "2023-10-19T16:04:34.3868102+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:20.5549393+00:00",
-  "LastUpdate_Ratings": "2023-10-19T14:59:51.8264384+00:00",
-  "LastUpdate_Achievements": "2023-10-19T15:04:42.7737354+00:00"
+  "LastUpdate_Ratings": "2023-10-19T15:59:32.0145689+00:00",
+  "LastUpdate_Achievements": "2023-10-19T16:04:34.3868326+00:00"
 }

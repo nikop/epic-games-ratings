@@ -11,7 +11,7 @@ Rating: 4.55 (Ranked 495)
 | Kuvaq Minigame-Master | 61.00% | ~270 |
 | FunScore | 55.00% | ~244 |
 | Funtime's over | 53.00% | ~235 |
-| Chunky | 50.00% | ~222 |
+| Chunky | 51.00% | ~226 |
 | Boat of love, boat of love | 49.00% | ~217 |
 | Shall we play a game? | 48.00% | ~213 |
 | School's out | 43.00% | ~190 |
@@ -42,7 +42,7 @@ Rating: 4.55 (Ranked 495)
 | Every man for himself! | 5.00% | ~22 |
 | 1001 Jackalopes | 1.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 443 (Ranked 283)  
+Progressed: 443 (Ranked 284)  
 Completed: 6 (1.35%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |

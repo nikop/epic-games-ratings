@@ -1,4 +1,4 @@
-# Ghostbusters: Spirits Unleashed
+# Ghostbusters: Spirits Unleashed Ecto Edition
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
 Rating: 4.50 (Ranked 574)  
@@ -6,12 +6,12 @@ Rating: 4.50 (Ranked 574)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 3.00% | ~799 |
-| Advancement | 2.00% | ~532 |
-| I collect Spores, Molds, and Fungi | 2.00% | ~532 |
-| Discovery | 2.00% | ~532 |
-| Meticulously Efficient | 2.00% | ~532 |
-| Fully Upgraded | 2.00% | ~532 |
-| Vaporous Expansion | 2.00% | ~532 |
+| Advancement | 2.00% | ~533 |
+| I collect Spores, Molds, and Fungi | 2.00% | ~533 |
+| Discovery | 2.00% | ~533 |
+| Meticulously Efficient | 2.00% | ~533 |
+| Fully Upgraded | 2.00% | ~533 |
+| Vaporous Expansion | 2.00% | ~533 |
 | Animated | 1.00% | ~266 |
 | Back Off | 1.00% | ~266 |
 | Clutch Capture | 1.00% | ~266 |
@@ -43,8 +43,8 @@ Rating: 4.50 (Ranked 574)
 | Escape Artist | 0.50% | ~133 |
 | Reckless | 0.50% | ~133 |
 | Rivalry | 0.50% | ~133 |
-| Fragile Panes | 0.40% | ~106 |
-| Surprise! | 0.40% | ~106 |
+| Fragile Panes | 0.40% | ~107 |
+| Surprise! | 0.40% | ~107 |
 | Liability | 0.30% | ~80 |
 | Master Collector | 0.20% | ~53 |
 | Rift Seeker | 0.20% | ~53 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 574)
 | Mycophile | 0.10% | ~27 |
 | Ultimate Defense | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,624 (Ranked 117)  
+Progressed: 26,626 (Ranked 117)  
 Completed: 59 (0.22%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 59 (0.22%) (Ranked 219)
 | 2023-10-16 | 26,537 | 58 |
 | 2023-10-17 | 26,559 | 58 |
 | 2023-10-18 | 26,596 | 59 |
-| 2023-10-19 | 26,624 | 59 |
+| 2023-10-19 | 26,626 | 59 |
 ## Awards
 Max (Great for Quick Sessions): 266  (Ranked 257)  
 Sum: 2,412 (Ranked 187)  

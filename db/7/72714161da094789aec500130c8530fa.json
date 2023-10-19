@@ -4,7 +4,7 @@
   "ProductSlug": "space-war-infinity-024a8f",
   "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 29,
-  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewPlayers": 344,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-08-15T15:00:00+00:00",
@@ -398,9 +398,9 @@
       "ID": "_beegun",
       "SetID": "2d5739o",
       "Name": "Beegun",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "_bomb",
@@ -438,9 +438,9 @@
       "ID": "_cannon_sentinel",
       "SetID": "2d5739o",
       "Name": "Cannon sentinel",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "_destroyer",
@@ -494,9 +494,9 @@
       "ID": "_heavy_laser",
       "SetID": "2d5739o",
       "Name": "Heavy laser",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "_heavy_shotgun",
@@ -694,9 +694,9 @@
       "ID": "_time",
       "SetID": "2d5739o",
       "Name": "Time",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "_x2orb",
@@ -725,8 +725,8 @@
   ],
   "FirstSeen": "2023-08-19T02:04:22.1564483+00:00",
   "FirstSeenAchievements": "2023-08-09T13:13:29.9534062+00:00",
-  "LastChanged_Achievements": "2023-10-19T15:04:27.973809+00:00",
+  "LastChanged_Achievements": "2023-10-19T16:04:21.4491187+00:00",
   "LastUpdate_AppInfo": "2023-10-18T17:59:11.3180135+00:00",
-  "LastUpdate_Ratings": "2023-10-19T15:01:34.6953034+00:00",
-  "LastUpdate_Achievements": "2023-10-19T15:04:27.973846+00:00"
+  "LastUpdate_Ratings": "2023-10-19T16:00:54.4063296+00:00",
+  "LastUpdate_Achievements": "2023-10-19T16:04:21.4491685+00:00"
 }

@@ -21,7 +21,7 @@
 | Love Uncoverer | 11.00% | ~141 |
 | Graffiti Artist | 10.00% | ~129 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,286 (Ranked 223)  
+Progressed: 1,286 (Ranked 224)  
 Completed: 57 (4.43%) (Ranked 69)  
 ## EOS Players History
 | Date | Progressed | Completed |

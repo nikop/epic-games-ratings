@@ -4,7 +4,7 @@
 Rating: 4.62 (Ranked 355)  
 ## Awards
 Max (Great for Quick Sessions): 36  (Ranked 453)  
-Sum: 260 (Ranked 367)  
+Sum: 261 (Ranked 367)  
 Diff (max vs sum): 86  
 | Award | Count |
 | ----- | ----- |
@@ -17,7 +17,7 @@ Diff (max vs sum): 86
 | This game is Hard for Beginners | 28 |
 | This game has Amazing Storytelling | 24 |
 | This game has Competitive Players | 21 |
-| This game has Amazing Characters | 20 |
+| This game has Amazing Characters | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -48,4 +48,4 @@ Diff (max vs sum): 86
 | 2023-10-16 | 4.63 | 36 | 206 |
 | 2023-10-17 | 4.63 | 36 | 258 |
 | 2023-10-18 | 4.62 | 36 | 258 |
-| 2023-10-19 | 4.62 | 36 | 260 |
+| 2023-10-19 | 4.62 | 36 | 261 |

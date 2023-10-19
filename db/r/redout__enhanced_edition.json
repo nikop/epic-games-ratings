@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 233930,
+  "EOS_Progressed": 233932,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 443,
+  "EOS_NewPlayers": 441,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -19507,6 +19507,11 @@
       "Time": "2023-10-19T15:03:37.3012681+00:00",
       "NumProgressed": 233930,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-10-19T16:03:38.9142807+00:00",
+      "NumProgressed": 233932,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 34,
@@ -19534,7 +19539,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 65500
+      "UsersEstimate": 65501
     },
     {
       "ID": "CENTAUR",
@@ -19542,7 +19547,7 @@
       "Name": "CENTAUR",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 18714
+      "UsersEstimate": 18715
     },
     {
       "ID": "CHALLENGER",
@@ -19550,7 +19555,7 @@
       "Name": "CHALLENGER",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 25732
+      "UsersEstimate": 25733
     },
     {
       "ID": "CHALLENGETHEWORLD",
@@ -19582,7 +19587,7 @@
       "Name": "FASTER THAN EVER",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 18714
+      "UsersEstimate": 18715
     },
     {
       "ID": "FLAWLESS",
@@ -19654,7 +19659,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 77197
+      "UsersEstimate": 77198
     },
     {
       "ID": "NOBUNAGA",
@@ -19710,7 +19715,7 @@
       "Name": "QAREEN",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 11696
+      "UsersEstimate": 11697
     },
     {
       "ID": "RESPWND",
@@ -19782,22 +19787,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 95911
+      "UsersEstimate": 95912
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 233930,
+      "Progressed": 233932,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-10-19T15:03:37.3012676+00:00",
+  "LastChanged_Achievements": "2023-10-19T16:03:38.9142804+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:10.7010053+00:00",
-  "LastUpdate_Ratings": "2023-10-19T14:59:22.9665074+00:00",
-  "LastUpdate_Achievements": "2023-10-19T15:03:37.301401+00:00"
+  "LastUpdate_Ratings": "2023-10-19T15:59:07.0919299+00:00",
+  "LastUpdate_Achievements": "2023-10-19T16:03:38.9144499+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 157,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -322,9 +322,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7361,
+  "EOS_Progressed": 7362,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -5087,6 +5087,11 @@
       "Time": "2023-10-19T10:08:29.9221432+00:00",
       "NumProgressed": 7361,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-10-19T16:08:10.648343+00:00",
+      "NumProgressed": 7362,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 27,
@@ -5130,15 +5135,15 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3901
+      "UsersEstimate": 3902
     },
     {
       "ID": "AK_HARP_TUNED",
       "SetID": "dfmb89",
       "Name": "Harp Tuned",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1767
+      "UsersEstimate": 1693
     },
     {
       "ID": "AK_HOPES_HOISTED",
@@ -5146,7 +5151,7 @@
       "Name": "Hopes Hoisted",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1619
+      "UsersEstimate": 1620
     },
     {
       "ID": "AK_IRONS_SCORCHED",
@@ -5250,7 +5255,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4122
+      "UsersEstimate": 4123
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -5298,7 +5303,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2944
+      "UsersEstimate": 2945
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -5313,15 +5318,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7361,
+      "Progressed": 7362,
       "Completed": 55
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-08-27T09:59:24.0528306+00:00",
-  "LastChanged_Achievements": "2023-10-19T15:08:21.9612622+00:00",
+  "LastChanged_Achievements": "2023-10-19T16:08:10.6483423+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:12.3218327+00:00",
-  "LastUpdate_Ratings": "2023-10-19T14:57:20.5156833+00:00",
-  "LastUpdate_Achievements": "2023-10-19T15:08:21.961439+00:00"
+  "LastUpdate_Ratings": "2023-10-19T15:57:23.7421542+00:00",
+  "LastUpdate_Achievements": "2023-10-19T16:08:10.6483809+00:00"
 }

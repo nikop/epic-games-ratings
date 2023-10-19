@@ -4,11 +4,11 @@
   "ProductSlug": "filament-332a92",
   "Ranking_Rating": 794,
   "Ranking_Popularity": 197,
-  "Ranking_PopularitySum": 289,
+  "Ranking_PopularitySum": 290,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -276,9 +276,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 203687,
+  "EOS_Progressed": 203690,
   "EOS_Completed": 518,
-  "EOS_NewPlayers": 394,
+  "EOS_NewPlayers": 396,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -19881,6 +19881,11 @@
       "Time": "2023-10-19T15:04:44.8005155+00:00",
       "NumProgressed": 203687,
       "NumCompleted": 518
+    },
+    {
+      "Time": "2023-10-19T16:04:36.2386792+00:00",
+      "NumProgressed": 203690,
+      "NumCompleted": 518
     }
   ],
   "TotalAchievements": 29,
@@ -19916,7 +19921,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 191466
+      "UsersEstimate": 191469
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -19948,7 +19953,7 @@
       "Name": "Cockpit",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1629
+      "UsersEstimate": 1630
     },
     {
       "ID": "ACHIEVEMENT_COLMIX",
@@ -20100,7 +20105,7 @@
       "Name": "Witness it.",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1629
+      "UsersEstimate": 1630
     },
     {
       "ID": "ACHIEVEMENT_WRAP",
@@ -20123,7 +20128,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 203687,
+      "Progressed": 203690,
       "Completed": 518
     }
   ],
@@ -20131,8 +20136,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-10-17T16:00:20.099734+00:00",
-  "LastChanged_Achievements": "2023-10-19T15:04:44.8005149+00:00",
+  "LastChanged_Achievements": "2023-10-19T16:04:36.2386787+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:18.0641163+00:00",
-  "LastUpdate_Ratings": "2023-10-19T15:00:57.2570217+00:00",
-  "LastUpdate_Achievements": "2023-10-19T15:04:44.8006443+00:00"
+  "LastUpdate_Ratings": "2023-10-19T16:00:24.3073637+00:00",
+  "LastUpdate_Achievements": "2023-10-19T16:04:36.2388293+00:00"
 }

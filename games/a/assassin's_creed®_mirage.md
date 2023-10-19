@@ -4,8 +4,8 @@
 Rating: 4.46 (Ranked 629)  
 ## Awards
 Max (Relaxing): 70  (Ranked 391)  
-Sum: 521 (Ranked 310)  
-Diff (max vs sum): 81  
+Sum: 525 (Ranked 309)  
+Diff (max vs sum): 82  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 70 |
@@ -15,7 +15,7 @@ Diff (max vs sum): 81
 | This game has Diverse Characters | 58 |
 | This game is Highly Recommended | 50 |
 | This game is Extremely Fun | 50 |
-| This game has Amazing Storytelling | 43 |
+| This game has Amazing Storytelling | 47 |
 | This game has Amazing Characters | 42 |
 | This game has Beautiful Visuals | 37 |
 | This game has a Creative Community | 24 |

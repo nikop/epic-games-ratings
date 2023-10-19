@@ -2,7 +2,7 @@
   "ID": "e7a7820e516744b88212c1f78aa895df",
   "Name": "Overpass 2",
   "ProductSlug": "overpass-2",
-  "Ranking_EOS_Progress": 354,
+  "Ranking_EOS_Progress": 355,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 108,
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 163,
+  "EOS_Progressed": 164,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -620,6 +620,11 @@
       "Time": "2023-10-19T10:05:17.0431667+00:00",
       "NumProgressed": 163,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-19T16:05:07.7048355+00:00",
+      "NumProgressed": 164,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-28T09:03:06.3221207+00:00",
@@ -688,7 +693,7 @@
       "Name": "You\u0027re Hired!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "achScoutMaxStar",
@@ -734,9 +739,9 @@
       "ID": "achSponsor5",
       "SetID": "7ji07dj",
       "Name": "In the Good Books",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "achSponsorMain1",
@@ -855,14 +860,14 @@
     {
       "ID": "7ji07dj",
       "IsBase": true,
-      "Progressed": 163,
+      "Progressed": 164,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-03T04:00:29.2485771+00:00",
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2023-10-19T15:05:22.8932347+00:00",
+  "LastChanged_Achievements": "2023-10-19T16:05:07.7048352+00:00",
   "LastUpdate_AppInfo": "2023-10-19T10:57:08.9129564+00:00",
-  "LastUpdate_Ratings": "2023-10-19T14:58:49.5861981+00:00",
-  "LastUpdate_Achievements": "2023-10-19T15:05:22.8932613+00:00"
+  "LastUpdate_Ratings": "2023-10-19T15:58:38.5625557+00:00",
+  "LastUpdate_Achievements": "2023-10-19T16:05:07.7048552+00:00"
 }

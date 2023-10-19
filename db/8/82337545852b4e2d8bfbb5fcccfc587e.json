@@ -2,10 +2,10 @@
   "ID": "82337545852b4e2d8bfbb5fcccfc587e",
   "Name": "DEEEER Simulator: Your Average Everyday Deer Game",
   "ProductSlug": "deeeer-simulator-9bfc4a",
-  "Ranking_EOS_Progress": 414,
+  "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 30,
   "Ranking_EOS_NewPlayers": 245,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-09-04T07:00:00+00:00",
     "PcReleaseDate": "2021-11-23T23:00:00+00:00",
@@ -468,9 +468,9 @@
       "ID": "EpicACHV_17",
       "SetID": "acn799d",
       "Name": "100% BEEF",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "EpicACHV_2",
@@ -492,17 +492,17 @@
       "ID": "EpicACHV_4",
       "SetID": "acn799d",
       "Name": "The Trudeer Show",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 70,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "EpicACHV_5",
       "SetID": "acn799d",
       "Name": "Like a Truck",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 70,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "EpicACHV_6",
@@ -547,8 +547,8 @@
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2023-10-19T15:09:26.0738854+00:00",
+  "LastChanged_Achievements": "2023-10-19T16:09:26.887862+00:00",
   "LastUpdate_AppInfo": "2023-10-18T08:57:26.6022945+00:00",
-  "LastUpdate_Ratings": "2023-10-19T15:01:25.749313+00:00",
-  "LastUpdate_Achievements": "2023-10-19T15:09:26.0739035+00:00"
+  "LastUpdate_Ratings": "2023-10-19T16:00:47.6829907+00:00",
+  "LastUpdate_Achievements": "2023-10-19T16:09:26.8878921+00:00"
 }

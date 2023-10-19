@@ -32,9 +32,9 @@
 | Sentinel Ally | 43.00% | ~319 |
 | Missing in Action | 43.00% | ~319 |
 | Very Elusive | 43.00% | ~319 |
+| Operative | 42.00% | ~312 |
 | Scholar | 42.00% | ~312 |
 | Veteran | 41.00% | ~305 |
-| Operative | 41.00% | ~305 |
 | The Professor | 40.00% | ~297 |
 | Power Full | 40.00% | ~297 |
 | The Archangel | 38.00% | ~282 |
@@ -68,8 +68,8 @@
 | Cat's in the Cradle | 29.00% | ~215 |
 | Doppelganger | 29.00% | ~215 |
 | Digital Exorcist | 29.00% | ~215 |
+| Mobilizer | 29.00% | ~215 |
 | Friend or Foe | 28.00% | ~208 |
-| Mobilizer | 28.00% | ~208 |
 | Untouchable | 27.00% | ~201 |
 | First Aid Specialist | 27.00% | ~201 |
 | Mission Accomplished | 27.00% | ~201 |
@@ -132,7 +132,7 @@
 | Insanity III | 1.00% | ~7 |
 | The One and Only | 0.70% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 743 (Ranked 250)  
+Progressed: 743 (Ranked 251)  
 Completed: 0 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
