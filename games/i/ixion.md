@@ -1,7 +1,7 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.56 (Ranked 476)  
+Rating: 4.56 (Ranked 475)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -18,8 +18,8 @@ Rating: 4.56 (Ranked 476)
 | The Ship of Theseus | 13.00% | ~421 |
 | Guy de Borderlands | 12.00% | ~389 |
 | Hope Seeker | 12.00% | ~389 |
-| Exceeding Capacity | 11.00% | ~356 |
-| Breaking Protocol | 11.00% | ~356 |
+| Exceeding Capacity | 11.00% | ~357 |
+| Breaking Protocol | 11.00% | ~357 |
 | A Hunk of Junk | 10.00% | ~324 |
 | Man's Best Friend | 8.00% | ~259 |
 | Power Outage | 8.00% | ~259 |
@@ -28,10 +28,10 @@ Rating: 4.56 (Ranked 476)
 | Convenient Transport | 7.00% | ~227 |
 | Access Granted | 6.00% | ~194 |
 | Necessary Enhancement | 6.00% | ~194 |
+| All in Good Health | 6.00% | ~194 |
 | From the Past | 6.00% | ~194 |
 | Oats | 5.00% | ~162 |
 | BRAWL! | 5.00% | ~162 |
-| All in Good Health | 5.00% | ~162 |
 | What They Hide From Us | 4.00% | ~130 |
 | ...  in a finite world | 4.00% | ~130 |
 | In Dolos We Trust | 4.00% | ~130 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 476)
 | I Give You the Stars | 0.10% | ~1 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,240 (Ranked 192)  
+Progressed: 3,241 (Ranked 192)  
 Completed: 0 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 0 (0.00%) (Ranked 316)
 | 2023-10-16 | 3,234 | 0 |
 | 2023-10-17 | 3,237 | 0 |
 | 2023-10-18 | 3,238 | 0 |
-| 2023-10-19 | 3,240 | 0 |
+| 2023-10-19 | 3,241 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

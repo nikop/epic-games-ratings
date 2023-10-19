@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2738,
+  "EOS_Progressed": 2739,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
@@ -6729,6 +6729,11 @@
       "Time": "2023-10-19T19:05:32.2861486+00:00",
       "NumProgressed": 2738,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-19T20:06:20.6978609+00:00",
+      "NumProgressed": 2739,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -6770,9 +6775,9 @@
       "ID": "CONQUEROR",
       "SetID": "8lhbnh7",
       "Name": "Harold Rex Interfectus Est",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 767
+      "UsersEstimate": 740
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -6915,14 +6920,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2738,
+      "Progressed": 2739,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-10-19T19:05:32.2861482+00:00",
+  "LastChanged_Achievements": "2023-10-19T20:06:20.6978605+00:00",
   "LastUpdate_AppInfo": "2023-10-18T03:56:56.9534374+00:00",
-  "LastUpdate_Ratings": "2023-10-19T18:59:26.3566697+00:00",
-  "LastUpdate_Achievements": "2023-10-19T19:05:32.2862052+00:00"
+  "LastUpdate_Ratings": "2023-10-19T20:00:07.5006585+00:00",
+  "LastUpdate_Achievements": "2023-10-19T20:06:20.697935+00:00"
 }

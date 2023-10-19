@@ -5,7 +5,7 @@ Rating: 4.50 (Ranked 574)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 3.00% | ~799 |
+| Stylish | 3.00% | ~800 |
 | Advancement | 2.00% | ~533 |
 | I collect Spores, Molds, and Fungi | 2.00% | ~533 |
 | Discovery | 2.00% | ~533 |
@@ -13,22 +13,22 @@ Rating: 4.50 (Ranked 574)
 | Fully Upgraded | 2.00% | ~533 |
 | Solo Capture | 2.00% | ~533 |
 | Vaporous Expansion | 2.00% | ~533 |
-| Animated | 1.00% | ~266 |
-| Back Off | 1.00% | ~266 |
-| Clutch Capture | 1.00% | ~266 |
-| Cultured | 1.00% | ~266 |
-| Daily Dose | 1.00% | ~266 |
-| Ectoplasmic Entity | 1.00% | ~266 |
-| Ghostbuster In Training | 1.00% | ~266 |
-| Icing on the Cake | 1.00% | ~266 |
-| Right back at ya | 1.00% | ~266 |
-| Summoner | 1.00% | ~266 |
-| Swift Rift Removers | 1.00% | ~266 |
-| Teamwork | 1.00% | ~266 |
-| Terrifying | 1.00% | ~266 |
-| There you are! | 1.00% | ~266 |
-| Welcome to the Crew | 1.00% | ~266 |
-| Whoopsie | 1.00% | ~266 |
+| Animated | 1.00% | ~267 |
+| Back Off | 1.00% | ~267 |
+| Clutch Capture | 1.00% | ~267 |
+| Cultured | 1.00% | ~267 |
+| Daily Dose | 1.00% | ~267 |
+| Ectoplasmic Entity | 1.00% | ~267 |
+| Ghostbuster In Training | 1.00% | ~267 |
+| Icing on the Cake | 1.00% | ~267 |
+| Right back at ya | 1.00% | ~267 |
+| Summoner | 1.00% | ~267 |
+| Swift Rift Removers | 1.00% | ~267 |
+| Teamwork | 1.00% | ~267 |
+| Terrifying | 1.00% | ~267 |
+| There you are! | 1.00% | ~267 |
+| Welcome to the Crew | 1.00% | ~267 |
+| Whoopsie | 1.00% | ~267 |
 | Side Hustle | 0.90% | ~240 |
 | Legions | 0.80% | ~213 |
 | Skilled | 0.80% | ~213 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 574)
 | Mycophile | 0.10% | ~27 |
 | Ultimate Defense | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,647 (Ranked 118)  
+Progressed: 26,652 (Ranked 118)  
 Completed: 59 (0.22%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,10 +239,10 @@ Completed: 59 (0.22%) (Ranked 219)
 | 2023-10-16 | 26,537 | 58 |
 | 2023-10-17 | 26,559 | 58 |
 | 2023-10-18 | 26,596 | 59 |
-| 2023-10-19 | 26,647 | 59 |
+| 2023-10-19 | 26,652 | 59 |
 ## Awards
 Max (Great for Quick Sessions): 266  (Ranked 257)  
-Sum: 2,418 (Ranked 187)  
+Sum: 2,420 (Ranked 187)  
 Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
@@ -252,8 +252,8 @@ Diff (max vs sum): 70
 | This game has Amazing Storytelling | 241 |
 | This game is Extremely Fun | 240 |
 | This game has Diverse Characters | 239 |
+| This game is Relaxing | 238 |
 | This game is Highly Recommended | 237 |
-| This game is Relaxing | 236 |
 | This game has Amazing Characters | 225 |
 | This game has Quickly Understood Controls | 225 |
 | This game has Playful Visuals | 94 |
@@ -446,4 +446,4 @@ Diff (max vs sum): 70
 | 2023-10-16 | 4.50 | 264 | 2,398 |
 | 2023-10-17 | 4.50 | 264 | 2,400 |
 | 2023-10-18 | 4.50 | 264 | 2,405 |
-| 2023-10-19 | 4.50 | 266 | 2,418 |
+| 2023-10-19 | 4.50 | 266 | 2,420 |

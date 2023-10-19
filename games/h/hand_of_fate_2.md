@@ -1,16 +1,16 @@
 # Hand of Fate 2
 [Store](https://store.epicgames.com/en-US/p/hand-of-fate-2)  
 [View Rawdata](../../db/h/hand_of_fate_2.json)  
-Rating: 4.55 (Ranked 495)  
+Rating: 4.55 (Ranked 494)  
 Number of Ratings: 780  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Fool | 72.00% | ~477,734 |
-| Apprentice | 58.00% | ~384,841 |
+| Apprentice | 58.00% | ~384,842 |
 | Close Shave | 25.00% | ~165,880 |
-| Mercenary | 23.00% | ~152,609 |
-| Ninja | 23.00% | ~152,609 |
+| Mercenary | 23.00% | ~152,610 |
+| Ninja | 23.00% | ~152,610 |
 | Northern Scourge | 17.00% | ~112,798 |
 | Thief Bane | 14.00% | ~92,893 |
 | Master of Arms | 12.00% | ~79,622 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~664 |
 | Blood Pact | 0.10% | ~664 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 663,519 (Ranked 25)  
+Progressed: 663,520 (Ranked 25)  
 Completed: 171 (0.03%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,7 +237,7 @@ Completed: 171 (0.03%) (Ranked 285)
 | 2023-10-16 | 663,404 | 171 |
 | 2023-10-17 | 663,443 | 171 |
 | 2023-10-18 | 663,483 | 171 |
-| 2023-10-19 | 663,519 | 171 |
+| 2023-10-19 | 663,520 | 171 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 455)  
 Sum: 186 (Ranked 394)  

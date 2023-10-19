@@ -4,7 +4,7 @@
   "ProductSlug": "blue-fire-9c1dac",
   "Ranking_EOS_Progress": 682,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 403,
+  "Ranking_EOS_NewPlayers": 406,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-03-24T07:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:41.3219626+00:00",
   "LastChanged": "2023-03-31T05:58:41.3219627+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:53.1596231+00:00",
-  "LastUpdate_Ratings": "2023-10-19T18:57:26.955556+00:00",
-  "LastUpdate_Achievements": "2023-10-19T19:05:59.3199856+00:00"
+  "LastUpdate_Ratings": "2023-10-19T19:57:32.9076416+00:00",
+  "LastUpdate_Achievements": "2023-10-19T20:06:52.8093707+00:00"
 }

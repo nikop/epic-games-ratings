@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 7,
   "Ranking_EOS_Progress": 682,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 403,
+  "Ranking_EOS_NewPlayers": 406,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2019-11-05T13:00:00+00:00",
@@ -14975,10 +14975,16 @@
       "Rating": 4.88,
       "NumberOfAwards": 481876,
       "NumberOfAwardsMax": 188553
+    },
+    {
+      "Time": "2023-10-19T19:58:40.3221868+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 482194,
+      "NumberOfAwardsMax": 188553
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 481876,
+  "NumberOfAwards": 482194,
   "NumberOfAwardsMax": 188553,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -14992,7 +14998,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 104216
+      "Count": 104429
     },
     {
       "Text": "This game is Extremely Fun",
@@ -15004,7 +15010,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 19223
+      "Count": 19272
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -15034,7 +15040,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 19616
+      "Count": 19672
     },
     {
       "Text": "This game is Great for Beginners",
@@ -15078,8 +15084,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2023-10-19T18:58:21.7582748+00:00",
+  "LastChanged": "2023-10-19T19:58:40.3221866+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:13.3603215+00:00",
-  "LastUpdate_Ratings": "2023-10-19T18:58:21.7582758+00:00",
-  "LastUpdate_Achievements": "2023-10-19T19:05:09.4654541+00:00"
+  "LastUpdate_Ratings": "2023-10-19T19:58:40.3221875+00:00",
+  "LastUpdate_Achievements": "2023-10-19T20:05:52.8273078+00:00"
 }

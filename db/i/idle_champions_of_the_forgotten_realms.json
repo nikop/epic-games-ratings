@@ -7403,10 +7403,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 32112,
       "NumberOfAwardsMax": 5419
+    },
+    {
+      "Time": "2023-10-19T19:58:11.960749+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 32116,
+      "NumberOfAwardsMax": 5419
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32112,
+  "NumberOfAwards": 32116,
   "NumberOfAwardsMax": 5419,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7444,7 +7450,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4161
+      "Count": 4165
     },
     {
       "Text": "This game has Playful Visuals",
@@ -7453,9 +7459,9 @@
       "Count": 3475
     }
   ],
-  "EOS_Progressed": 232269,
+  "EOS_Progressed": 232271,
   "EOS_Completed": 2374,
-  "EOS_NewPlayers": 635,
+  "EOS_NewPlayers": 634,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
@@ -27783,6 +27789,11 @@
       "Time": "2023-10-19T19:03:56.3444726+00:00",
       "NumProgressed": 232269,
       "NumCompleted": 2374
+    },
+    {
+      "Time": "2023-10-19T20:04:24.7594603+00:00",
+      "NumProgressed": 232271,
+      "NumCompleted": 2374
     }
   ],
   "TotalAchievements": 528,
@@ -31888,9 +31899,9 @@
       "ID": "objective_completed_1395",
       "SetID": "415jc5c",
       "Name": "The Hunt for The Last Breath",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 397
     },
     {
       "ID": "objective_completed_1396",
@@ -32017,21 +32028,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 198543,
+      "Progressed": 198545,
       "Completed": 3661
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 232269,
+      "Progressed": 232271,
       "Completed": 2374
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-10-19T18:57:57.9678566+00:00",
-  "LastChanged_Achievements": "2023-10-19T19:03:56.3444721+00:00",
+  "LastChanged": "2023-10-19T19:58:11.9607488+00:00",
+  "LastChanged_Achievements": "2023-10-19T20:04:24.7594598+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:38.1045135+00:00",
-  "LastUpdate_Ratings": "2023-10-19T18:57:57.9678573+00:00",
-  "LastUpdate_Achievements": "2023-10-19T19:03:56.3482859+00:00"
+  "LastUpdate_Ratings": "2023-10-19T19:58:11.9607498+00:00",
+  "LastUpdate_Achievements": "2023-10-19T20:04:24.7625091+00:00"
 }

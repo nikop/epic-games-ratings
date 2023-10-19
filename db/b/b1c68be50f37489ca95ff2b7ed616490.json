@@ -2,9 +2,9 @@
   "ID": "b1c68be50f37489ca95ff2b7ed616490",
   "Name": "Agatha Christie - Murder on the Orient Express",
   "ProductSlug": "agatha-christie-murder-on-the-orient-express-a53833",
-  "Ranking_EOS_Progress": 564,
+  "Ranking_EOS_Progress": 552,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewPlayers": 289,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-10-19T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5,
+  "EOS_Progressed": 6,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -54,6 +54,11 @@
       "Time": "2023-10-19T18:03:35.1956209+00:00",
       "NumProgressed": 5,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-19T20:04:00.9103253+00:00",
+      "NumProgressed": 6,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-05T15:06:14.3136114+00:00",
@@ -64,7 +69,7 @@
       "ID": "1",
       "SetID": "6bgoh8g",
       "Name": "A mystery? No! A trifle for Poirot!",
-      "Percentage": 60,
+      "Percentage": 50,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -216,7 +221,7 @@
       "ID": "27",
       "SetID": "6bgoh8g",
       "Name": "Dessert Connoisseur!",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 40,
       "UsersEstimate": 2
     },
@@ -281,14 +286,14 @@
     {
       "ID": "6bgoh8g",
       "IsBase": true,
-      "Progressed": 5,
+      "Progressed": 6,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2023-10-19T19:03:36.9999933+00:00",
+  "LastChanged_Achievements": "2023-10-19T20:04:00.9103247+00:00",
   "LastUpdate_AppInfo": "2023-10-18T22:09:36.8983123+00:00",
-  "LastUpdate_Ratings": "2023-10-19T19:02:16.4208873+00:00",
-  "LastUpdate_Achievements": "2023-10-19T19:03:37.0000183+00:00"
+  "LastUpdate_Ratings": "2023-10-19T20:03:10.4165231+00:00",
+  "LastUpdate_Achievements": "2023-10-19T20:04:00.9103462+00:00"
 }

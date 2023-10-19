@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -9121,10 +9121,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 46196,
       "NumberOfAwardsMax": 23644
+    },
+    {
+      "Time": "2023-10-19T19:58:43.9564048+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 46202,
+      "NumberOfAwardsMax": 23644
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 46196,
+  "NumberOfAwards": 46202,
   "NumberOfAwardsMax": 23644,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9150,7 +9156,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1110
+      "Count": 1113
     },
     {
       "Text": "This game is Great for Beginners",
@@ -9192,7 +9198,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1032
+      "Count": 1035
     },
     {
       "Text": "This game has a Creative Community",
@@ -9201,9 +9207,9 @@
       "Count": 726
     }
   ],
-  "EOS_Progressed": 298583,
+  "EOS_Progressed": 298586,
   "EOS_Completed": 489,
-  "EOS_NewPlayers": 377,
+  "EOS_NewPlayers": 380,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -28716,6 +28722,11 @@
       "Time": "2023-10-19T19:06:14.7684319+00:00",
       "NumProgressed": 298583,
       "NumCompleted": 489
+    },
+    {
+      "Time": "2023-10-19T20:07:11.0874099+00:00",
+      "NumProgressed": 298586,
+      "NumCompleted": 489
     }
   ],
   "TotalAchievements": 45,
@@ -28727,7 +28738,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 44787
+      "UsersEstimate": 44788
     },
     {
       "ID": "PFA_10",
@@ -28759,7 +28770,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 29858
+      "UsersEstimate": 29859
     },
     {
       "ID": "PFA_14",
@@ -28831,7 +28842,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29858
+      "UsersEstimate": 29859
     },
     {
       "ID": "PFA_22",
@@ -28887,7 +28898,7 @@
       "Name": "Put Down Roots",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8957
+      "UsersEstimate": 8958
     },
     {
       "ID": "PFA_29",
@@ -28903,7 +28914,7 @@
       "Name": "The Auror\u0027s Apprentice",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8957
+      "UsersEstimate": 8958
     },
     {
       "ID": "PFA_30",
@@ -28943,7 +28954,7 @@
       "Name": "Floo Around the World",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8957
+      "UsersEstimate": 8958
     },
     {
       "ID": "PFA_35",
@@ -28951,7 +28962,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29858
+      "UsersEstimate": 29859
     },
     {
       "ID": "PFA_36",
@@ -29031,7 +29042,7 @@
       "Name": "The Spell Master",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 26872
+      "UsersEstimate": 26873
     },
     {
       "ID": "PFA_45",
@@ -29079,23 +29090,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26872
+      "UsersEstimate": 26873
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298583,
+      "Progressed": 298586,
       "Completed": 489
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-10-19T15:58:33.37354+00:00",
-  "LastChanged_Achievements": "2023-10-19T19:06:14.7684298+00:00",
+  "LastChanged": "2023-10-19T19:58:43.9564046+00:00",
+  "LastChanged_Achievements": "2023-10-19T20:07:11.0874089+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:16.623812+00:00",
-  "LastUpdate_Ratings": "2023-10-19T18:58:24.7520133+00:00",
-  "LastUpdate_Achievements": "2023-10-19T19:06:14.7686166+00:00"
+  "LastUpdate_Ratings": "2023-10-19T19:58:43.9564055+00:00",
+  "LastUpdate_Achievements": "2023-10-19T20:07:11.0876176+00:00"
 }

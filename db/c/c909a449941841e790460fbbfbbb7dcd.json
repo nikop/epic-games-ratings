@@ -4,7 +4,7 @@
   "ProductSlug": "road-defense-outsiders-22e4ba",
   "Ranking_EOS_Progress": 429,
   "Ranking_EOS_Completed": 81,
-  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewPlayers": 302,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-09-22T19:00:00+00:00",
@@ -412,9 +412,9 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "14g34pl",
       "Name": "Sagehaven is safe!",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 60,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -467,8 +467,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-10-19T19:06:37.6340398+00:00",
+  "LastChanged_Achievements": "2023-10-19T20:07:38.2658437+00:00",
   "LastUpdate_AppInfo": "2023-10-17T18:57:05.9704526+00:00",
-  "LastUpdate_Ratings": "2023-10-19T19:00:24.6044515+00:00",
-  "LastUpdate_Achievements": "2023-10-19T19:06:37.6340575+00:00"
+  "LastUpdate_Ratings": "2023-10-19T20:01:23.4202936+00:00",
+  "LastUpdate_Achievements": "2023-10-19T20:07:38.2658573+00:00"
 }

@@ -16,9 +16,9 @@ Rating: 4.85 (Ranked 42)
 | Alright, that felt AWESOME! | 11.00% | ~457 |
 | This will cost you big time | 10.00% | ~415 |
 | I play my own way! | 10.00% | ~415 |
+| Z-shielding's got nothing on us! | 10.00% | ~415 |
 | Uh, they were broken when I got here | 10.00% | ~415 |
 | Whoa! There's ANOTHER health bar!? | 9.00% | ~374 |
-| Z-shielding's got nothing on us! | 9.00% | ~374 |
 | Kissing the sky! | 9.00% | ~374 |
 | The Negotiator | 8.00% | ~332 |
 | Headliner | 8.00% | ~332 |

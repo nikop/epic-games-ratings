@@ -1,21 +1,21 @@
 # Fae Farm
 [Store](https://store.epicgames.com/en-US/p/fae-farm)  
 [View Rawdata](../../db/0/013ca9b88fa34b21b2de7fdbfcfc843b.json)  
-Rating: 4.66 (Ranked 283)  
+Rating: 4.66 (Ranked 282)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 73.00% | ~5,010 |
-| A Thorny Situation | 70.00% | ~4,804 |
-| ... And Spit Back Out | 60.00% | ~4,118 |
-| Break-Net Speed | 48.00% | ~3,294 |
-| Bramble Breaker | 46.00% | ~3,157 |
-| Miner 49er | 43.00% | ~2,951 |
-| Humble Collector | 42.00% | ~2,882 |
+| Azoria Beckons | 73.00% | ~5,011 |
+| A Thorny Situation | 70.00% | ~4,806 |
+| ... And Spit Back Out | 60.00% | ~4,119 |
+| Break-Net Speed | 48.00% | ~3,295 |
+| Bramble Breaker | 46.00% | ~3,158 |
+| Miner 49er | 43.00% | ~2,952 |
+| Humble Collector | 42.00% | ~2,883 |
 | Calm Sailing | 36.00% | ~2,471 |
 | Open the Gate! | 33.00% | ~2,265 |
 | Mist Walker | 31.00% | ~2,128 |
-| Lumberjack | 26.00% | ~1,784 |
+| Lumberjack | 26.00% | ~1,785 |
 | Oui, Chef! | 22.00% | ~1,510 |
 | Clear the Air | 17.00% | ~1,167 |
 | Botanical Breakthrough | 16.00% | ~1,098 |
@@ -23,11 +23,11 @@ Rating: 4.66 (Ranked 283)
 | Beach Comber | 13.00% | ~892 |
 | Higher Tax Bracket | 13.00% | ~892 |
 | Skilled | 8.00% | ~549 |
-| Flaming Hot Completos | 7.00% | ~480 |
-| Fae Farmer | 7.00% | ~480 |
-| Got to Catch Them All | 7.00% | ~480 |
-| Rumble in the Jumble | 7.00% | ~480 |
-| Fanatical Farmer | 7.00% | ~480 |
+| Flaming Hot Completos | 7.00% | ~481 |
+| Fae Farmer | 7.00% | ~481 |
+| Got to Catch Them All | 7.00% | ~481 |
+| Rumble in the Jumble | 7.00% | ~481 |
+| Fanatical Farmer | 7.00% | ~481 |
 | Azorian Anniversary | 6.00% | ~412 |
 | Scattered Scroll Scrounger | 5.00% | ~343 |
 | I Now Pronounce You... | 4.00% | ~275 |
@@ -41,7 +41,7 @@ Rating: 4.66 (Ranked 283)
 | Giving the People What They Want | 0.10% | ~7 |
 | Very Skilled | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,863 (Ranked 164)  
+Progressed: 6,865 (Ranked 164)  
 Completed: 0 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 0 (0.00%) (Ranked 316)
 | 2023-10-16 | 6,732 | 0 |
 | 2023-10-17 | 6,772 | 0 |
 | 2023-10-18 | 6,810 | 0 |
-| 2023-10-19 | 6,863 | 0 |
+| 2023-10-19 | 6,865 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

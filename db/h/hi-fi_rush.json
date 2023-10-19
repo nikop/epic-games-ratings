@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -7240,9 +7240,9 @@
       "ID": "Ach027",
       "SetID": "12n4k20",
       "Name": "Z-shielding\u0027s got nothing on us!",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 374
+      "UsersEstimate": 415
     },
     {
       "ID": "Ach028",
@@ -7615,8 +7615,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-09-20T21:58:46.0382146+00:00",
-  "LastChanged_Achievements": "2023-10-19T19:04:46.2347778+00:00",
+  "LastChanged_Achievements": "2023-10-19T20:05:24.9785146+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:56.0502704+00:00",
-  "LastUpdate_Ratings": "2023-10-19T18:58:43.0537835+00:00",
-  "LastUpdate_Achievements": "2023-10-19T19:04:46.2349226+00:00"
+  "LastUpdate_Ratings": "2023-10-19T19:59:10.4280376+00:00",
+  "LastUpdate_Achievements": "2023-10-19T20:05:24.978645+00:00"
 }
