@@ -20,7 +20,7 @@
 | 18 | [Dauntless](games/d/dauntless.md) | 22,873 | 4.53 | 528 |
 | 19 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 20,357 | 4.26 | 847 |
 | 20 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 19,911 | 4.57 | 457 |
-| 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 19,295 | 4.89 | 10 |
+| 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 19,321 | 4.89 | 10 |
 | 22 | [Warframe](games/w/warframe.md) | 17,764 | 4.60 | 403 |
 | 23 | [League of Legends](games/l/league_of_legends.md) | 16,827 | 4.21 | 877 |
 | 24 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 16,338 | 4.74 | 151 |

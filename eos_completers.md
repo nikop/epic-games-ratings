@@ -3,7 +3,7 @@
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 66.67% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.58% |
-| 4 | [The Riflemen](games/t/the_riflemen.md) | 47.36% |
+| 4 | [The Riflemen](games/t/the_riflemen.md) | 47.35% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.93% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 33.04% |
@@ -19,8 +19,8 @@
 | 17 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 18 | [Doodle Devil](games/d/doodle_devil.md) | 19.28% |
 | 19 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.39% |
+| 20 | [Island Cities](games/i/island_cities.md) | 16.67% |
 | 20 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 16.67% |
-| 21 | [Island Cities](games/i/island_cities.md) | 16.53% |
 | 22 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.12% |
 | 23 | [Seven Doors](games/s/seven_doors.md) | 14.29% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 12.77% |
@@ -77,8 +77,8 @@
 | 75 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
 | 75 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.80% |
 | 77 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.58% |
-| 78 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.57% |
 | 78 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
+| 79 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.56% |
 | 80 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 81 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.39% |
 | 82 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
@@ -108,7 +108,7 @@
 | 106 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.39% |
 | 107 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.37% |
 | 108 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.29% |
-| 108 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.29% |
+| 109 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.28% |
 | 110 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.22% |
 | 111 | [Bloodshore](games/b/bloodshore.md) | 2.12% |
 | 112 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.97% |
