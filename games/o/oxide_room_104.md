@@ -18,7 +18,7 @@
 | The third floor | 19.00% | ~36 |
 | One-way | 17.00% | ~32 |
 | On the right path | 16.00% | ~30 |
-| It can't be true | 15.00% | ~28 |
+| It can't be true | 16.00% | ~30 |
 | I'm close now | 12.00% | ~22 |
 | Failed attempt | 12.00% | ~22 |
 | The real escape | 12.00% | ~22 |

@@ -1,7 +1,7 @@
 # Blazing Sails
 [Store](https://store.epicgames.com/en-US/p/blazing-sails)  
 [View Rawdata](../../db/b/blazing_sails.json)  
-Rating: 3.80 (Ranked 1,007)  
+Rating: 3.81 (Ranked 1,006)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -11,3 +11,4 @@ Rating: 3.80 (Ranked 1,007)
 | 2023-10-16 | 3.72 | 0 | 0 |
 | 2023-10-17 | 3.76 | 0 | 0 |
 | 2023-10-18 | 3.80 | 0 | 0 |
+| 2023-10-19 | 3.81 | 0 | 0 |

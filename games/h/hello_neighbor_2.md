@@ -1,7 +1,7 @@
 # Hello Neighbor 2
 [Store](https://store.epicgames.com/en-US/p/hello-neighbor-2)  
 [View Rawdata](../../db/h/hello_neighbor_2.json)  
-Rating: 4.45 (Ranked 648)  
+Rating: 4.45 (Ranked 647)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -11,16 +11,16 @@ Rating: 4.45 (Ranked 648)
 | Easy As Pie | 34.00% | ~1,009 |
 | Family Lost | 33.00% | ~979 |
 | Treasure Hunt | 31.00% | ~920 |
-| Ancient Curse | 29.00% | ~860 |
+| Ancient Curse | 29.00% | ~861 |
 | Cat Person | 27.00% | ~801 |
 | Climber | 25.00% | ~742 |
 | Hidden Secrets | 25.00% | ~742 |
 | Reunion | 25.00% | ~742 |
 | Imprisonment | 24.00% | ~712 |
 | Mad Scientist | 24.00% | ~712 |
-| Dog Person | 20.00% | ~593 |
+| Dog Person | 20.00% | ~594 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,967 (Ranked 193)  
+Progressed: 2,968 (Ranked 193)  
 Completed: 121 (4.08%) (Ranked 73)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,6 +197,7 @@ Completed: 121 (4.08%) (Ranked 73)
 | 2023-10-16 | 2,955 | 121 |
 | 2023-10-17 | 2,958 | 121 |
 | 2023-10-18 | 2,967 | 121 |
+| 2023-10-19 | 2,968 | 121 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

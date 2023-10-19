@@ -7,15 +7,15 @@ Number of Ratings: 1,047  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Longrunner | 76.00% | ~15,436 |
-| Sword Runner | 61.00% | ~12,389 |
-| Running out of breath | 54.00% | ~10,967 |
-| Wallrunner | 53.00% | ~10,764 |
+| Sword Runner | 61.00% | ~12,390 |
+| Running out of breath | 54.00% | ~10,968 |
+| Wallrunner | 53.00% | ~10,765 |
 | Homerunner | 45.00% | ~9,140 |
-| I call it luck | 44.00% | ~8,936 |
-| Out of order | 44.00% | ~8,936 |
+| I call it luck | 44.00% | ~8,937 |
+| Out of order | 44.00% | ~8,937 |
 | Where are my Keys? | 40.00% | ~8,124 |
 | Back to hell | 37.00% | ~7,515 |
-| Perfection | 32.00% | ~6,499 |
+| Perfection | 32.00% | ~6,500 |
 | Why not both | 30.00% | ~6,093 |
 | Sword to a gunfight | 29.00% | ~5,890 |
 | Upgrades not mandatory | 29.00% | ~5,890 |
@@ -27,7 +27,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Wave of mutilation | 22.00% | ~4,468 |
 | Can't Run Can't Hide | 16.00% | ~3,250 |
 | R is for Running | 16.00% | ~3,250 |
-| Dead in the air | 15.00% | ~3,046 |
+| Dead in the air | 15.00% | ~3,047 |
 | Improvise, adapt, overrun | 13.00% | ~2,640 |
 | More than human | 12.00% | ~2,437 |
 | Pre-empative strike | 12.00% | ~2,437 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~81 |
 | Up Close And Personal | 0.40% | ~81 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,310 (Ranked 125)  
+Progressed: 20,311 (Ranked 125)  
 Completed: 75 (0.37%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,7 +234,7 @@ Completed: 75 (0.37%) (Ranked 197)
 | 2023-10-16 | 20,143 | 75 |
 | 2023-10-17 | 20,216 | 75 |
 | 2023-10-18 | 20,295 | 75 |
-| 2023-10-19 | 20,310 | 75 |
+| 2023-10-19 | 20,311 | 75 |
 ## Awards
 Max (Great Boss Battles): 508  (Ranked 203)  
 Sum: 727 (Ranked 282)  

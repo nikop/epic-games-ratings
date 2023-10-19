@@ -1253,9 +1253,9 @@
       "ID": "ACH_eou6",
       "SetID": "51of0eo",
       "Name": "Destroy Strogg Main Reactor",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 95
+      "UsersEstimate": 100
     },
     {
       "ID": "ACH_eou7",
@@ -1316,8 +1316,8 @@
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-10-19T07:07:33.652542+00:00",
+  "LastChanged_Achievements": "2023-10-19T08:07:34.1444733+00:00",
   "LastUpdate_AppInfo": "2023-10-12T22:57:11.8537053+00:00",
-  "LastUpdate_Ratings": "2023-10-19T07:01:58.8519717+00:00",
-  "LastUpdate_Achievements": "2023-10-19T07:07:33.6525622+00:00"
+  "LastUpdate_Ratings": "2023-10-19T08:02:06.7468309+00:00",
+  "LastUpdate_Achievements": "2023-10-19T08:07:34.1445088+00:00"
 }

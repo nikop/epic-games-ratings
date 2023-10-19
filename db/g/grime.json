@@ -1153,9 +1153,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 153097,
+  "EOS_Progressed": 153104,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1604,
+  "EOS_NewPlayers": 1608,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12178,6 +12178,11 @@
       "Time": "2023-10-19T07:06:59.1273187+00:00",
       "NumProgressed": 153097,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-19T08:06:59.12853+00:00",
+      "NumProgressed": 153104,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -12285,7 +12290,7 @@
       "Name": "Shapely",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "DEFEAT_FLOWERHEART",
@@ -12341,7 +12346,7 @@
       "Name": "Jawstag",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "DEFEAT_PERFORMER",
@@ -12373,7 +12378,7 @@
       "Name": "Watcher",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "DEFEAT_WHISPERERS",
@@ -12556,21 +12561,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 152680,
+      "Progressed": 152687,
       "Completed": 1163
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 153097,
+      "Progressed": 153104,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-19T03:57:30.2133222+00:00",
-  "LastChanged_Achievements": "2023-10-19T07:06:59.1273182+00:00",
+  "LastChanged_Achievements": "2023-10-19T08:06:59.1285294+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:33.8479674+00:00",
-  "LastUpdate_Ratings": "2023-10-19T06:58:02.1187789+00:00",
-  "LastUpdate_Achievements": "2023-10-19T07:06:59.1274624+00:00"
+  "LastUpdate_Ratings": "2023-10-19T07:58:06.0110448+00:00",
+  "LastUpdate_Achievements": "2023-10-19T08:06:59.128662+00:00"
 }

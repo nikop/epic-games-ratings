@@ -6,27 +6,27 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~722,428 |
-| The Blues | 85.00% | ~620,266 |
-| Fast | 66.00% | ~481,618 |
+| Out of bed | 99.00% | ~722,429 |
+| The Blues | 85.00% | ~620,267 |
+| Fast | 66.00% | ~481,619 |
 | Healthbar | 55.00% | ~401,349 |
-| Force Cube | 53.00% | ~386,754 |
+| Force Cube | 53.00% | ~386,755 |
 | Double Jump | 48.00% | ~350,268 |
 | Regeneration | 47.00% | ~342,971 |
 | Triple Jump | 43.00% | ~313,782 |
-| Climb the hill | 42.00% | ~306,484 |
+| Climb the hill | 42.00% | ~306,485 |
 | Through the fire pipe | 39.00% | ~284,593 |
 | MacGuffin | 38.00% | ~277,296 |
-| Just once | 37.00% | ~269,998 |
+| Just once | 37.00% | ~269,999 |
 | Armor | 30.00% | ~218,918 |
 | True holy spirit | 28.00% | ~204,323 |
 | That's how electronics work obviously | 27.00% | ~197,026 |
-| Force Cube Catapult | 25.00% | ~182,431 |
+| Force Cube Catapult | 25.00% | ~182,432 |
 | Holy Sword | 23.00% | ~167,837 |
 | Telefrag | 23.00% | ~167,837 |
 | Freed from prison | 21.00% | ~153,242 |
 | Stomp | 21.00% | ~153,242 |
-| Double Health | 18.00% | ~131,350 |
+| Double Health | 18.00% | ~131,351 |
 | Buckle | 17.00% | ~124,053 |
 | Green Keycard | 17.00% | ~124,053 |
 | Rattle Hag | 16.00% | ~116,756 |
@@ -44,13 +44,13 @@ Number of Ratings: 25,175  (23.09.2022)
 | Got the gun back | 11.00% | ~80,270 |
 | Infiltrated | 11.00% | ~80,270 |
 | Robbed | 11.00% | ~80,270 |
-| Fire Flies | 10.00% | ~72,972 |
-| Cave Flies | 10.00% | ~72,972 |
-| Gold Scam | 10.00% | ~72,972 |
-| Gold Scam Uncovered | 10.00% | ~72,972 |
-| Panic Lights | 10.00% | ~72,972 |
-| Translocator | 10.00% | ~72,972 |
-| Yellow Shot Button | 10.00% | ~72,972 |
+| Fire Flies | 10.00% | ~72,973 |
+| Cave Flies | 10.00% | ~72,973 |
+| Gold Scam | 10.00% | ~72,973 |
+| Gold Scam Uncovered | 10.00% | ~72,973 |
+| Panic Lights | 10.00% | ~72,973 |
+| Translocator | 10.00% | ~72,973 |
+| Yellow Shot Button | 10.00% | ~72,973 |
 | Moon Door | 9.00% | ~65,675 |
 | Momentum | 9.00% | ~65,675 |
 | Through the tiny pipe | 9.00% | ~65,675 |
@@ -59,10 +59,10 @@ Number of Ratings: 25,175  (23.09.2022)
 | Well deserved | 6.00% | ~43,784 |
 | Happiness | 3.00% | ~21,892 |
 | Super Sword | 3.00% | ~21,892 |
-| All Chests | 2.00% | ~14,594 |
-| Poor ancestors | 2.00% | ~14,594 |
-| Shelf filled | 2.00% | ~14,594 |
-| Invisible Wall | 2.00% | ~14,594 |
+| All Chests | 2.00% | ~14,595 |
+| Poor ancestors | 2.00% | ~14,595 |
+| Shelf filled | 2.00% | ~14,595 |
+| Invisible Wall | 2.00% | ~14,595 |
 | Groupies | 1.00% | ~7,297 |
 | Jesus Christ Suprastar | 1.00% | ~7,297 |
 | Redstone Pickaxe | 1.00% | ~7,297 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~730 |
 | DLC: Top of the world | 0.10% | ~730 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 729,725 (Ranked 19)  
+Progressed: 729,726 (Ranked 19)  
 Completed: 748 (0.10%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,10 +287,10 @@ Completed: 748 (0.10%) (Ranked 249)
 | 2023-10-16 | 729,505 | 748 |
 | 2023-10-17 | 729,601 | 748 |
 | 2023-10-18 | 729,696 | 748 |
-| 2023-10-19 | 729,725 | 748 |
+| 2023-10-19 | 729,726 | 748 |
 ## Awards
 Max (Challenging Puzzles): 7,702  (Ranked 47)  
-Sum: 10,042 (Ranked 90)  
+Sum: 10,043 (Ranked 90)  
 Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
@@ -299,8 +299,8 @@ Diff (max vs sum): -43
 | This game has Amazing Storytelling | 279 |
 | This game is Relaxing | 277 |
 | This game has Amazing Characters | 276 |
+| This game is Great for Beginners | 268 |
 | This game has Quickly Understood Controls | 268 |
-| This game is Great for Beginners | 267 |
 | This game is Extremely Fun | 260 |
 | This game has Obsessive Gameplay | 243 |
 | This game is Highly Recommended | 237 |
@@ -476,3 +476,4 @@ Diff (max vs sum): -43
 | 2023-10-14 | 4.61 | - | 7,699 | 10,038 |
 | 2023-10-16 | 4.61 | - | 7,702 | 10,041 |
 | 2023-10-18 | 4.61 | - | 7,702 | 10,042 |
+| 2023-10-19 | 4.61 | - | 7,702 | 10,043 |

@@ -37,7 +37,7 @@
 | Starred Dining | 16.00% | ~55 |
 | Smooth Operator | 14.00% | ~48 |
 | Boutique Benefits | 14.00% | ~48 |
-| Terrifically Trashed | 13.00% | ~44 |
+| Terrifically Trashed | 14.00% | ~48 |
 | Thrilled Tenants | 13.00% | ~44 |
 | Swimming in Surplus | 12.00% | ~41 |
 | Aestheticly Pleased | 11.00% | ~38 |

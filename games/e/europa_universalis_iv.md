@@ -6,15 +6,15 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,364 |
-| Until death do us apart | 4.00% | ~17,364 |
-| Victorious! | 4.00% | ~17,364 |
-| That is mine! | 3.00% | ~13,023 |
-| Brothers in Arms | 2.00% | ~8,682 |
-| Cold War | 2.00% | ~8,682 |
-| For the Glory | 2.00% | ~8,682 |
-| That's a Grand Navy | 2.00% | ~8,682 |
-| Seriously?! | 2.00% | ~8,682 |
+| That's a Grand Army | 4.00% | ~17,365 |
+| Until death do us apart | 4.00% | ~17,365 |
+| Victorious! | 4.00% | ~17,365 |
+| That is mine! | 3.00% | ~13,024 |
+| Brothers in Arms | 2.00% | ~8,683 |
+| Cold War | 2.00% | ~8,683 |
+| For the Glory | 2.00% | ~8,683 |
+| That's a Grand Navy | 2.00% | ~8,683 |
+| Seriously?! | 2.00% | ~8,683 |
 | Defender of the Faith | 1.00% | ~4,341 |
 | It's all about the money | 1.00% | ~4,341 |
 | Respected | 1.00% | ~4,341 |
@@ -32,12 +32,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | City of Cities | 0.50% | ~2,171 |
 | Combined Arms | 0.50% | ~2,171 |
 | This navy can take it all | 0.50% | ~2,171 |
-| Bright Spark | 0.40% | ~1,736 |
-| Factionalism | 0.40% | ~1,736 |
-| Gentle Persuasion | 0.40% | ~1,736 |
-| Isn't this the way to India? | 0.40% | ~1,736 |
-| Queen of Conquest | 0.40% | ~1,736 |
-| The Five Colonies | 0.40% | ~1,736 |
+| Bright Spark | 0.40% | ~1,737 |
+| Factionalism | 0.40% | ~1,737 |
+| Gentle Persuasion | 0.40% | ~1,737 |
+| Isn't this the way to India? | 0.40% | ~1,737 |
+| Queen of Conquest | 0.40% | ~1,737 |
+| The Five Colonies | 0.40% | ~1,737 |
 | All That's Thine Shall Be Mine | 0.30% | ~1,302 |
 | Down Under | 0.30% | ~1,302 |
 | Electable! | 0.30% | ~1,302 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 434,111 (Ranked 40)  
+Progressed: 434,131 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -543,7 +543,7 @@ Completed: 1 (0.00%) (Ranked 316)
 | 2023-10-16 | 432,768 | 1 |
 | 2023-10-17 | 433,352 | 1 |
 | 2023-10-18 | 433,999 | 1 |
-| 2023-10-19 | 434,111 | 1 |
+| 2023-10-19 | 434,131 | 1 |
 ## Awards
 Max (Educational): 6,587  (Ranked 55)  
 Sum: 54,095 (Ranked 24)  

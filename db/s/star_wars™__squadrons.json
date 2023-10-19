@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11955,
+  "EOS_Progressed": 11957,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2488,
+  "EOS_NewPlayers": 2479,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3424,6 +3424,11 @@
       "Time": "2023-10-19T07:10:12.9359681+00:00",
       "NumProgressed": 11955,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-19T08:10:05.9451553+00:00",
+      "NumProgressed": 11957,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -3436,7 +3441,7 @@
       "Name": "The Galaxy\u0027s Finest (Story Mode)",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 1793
+      "UsersEstimate": 1794
     },
     {
       "ID": "achievement_10",
@@ -3588,7 +3593,7 @@
       "Name": "Unkillable",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "achievement_28",
@@ -3660,7 +3665,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 11357
+      "UsersEstimate": 11359
     },
     {
       "ID": "achievement_36",
@@ -3811,7 +3816,7 @@
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 11955,
+      "Progressed": 11957,
       "Completed": 1
     }
   ],
@@ -3819,8 +3824,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2023-10-19T07:10:12.9359678+00:00",
+  "LastChanged_Achievements": "2023-10-19T08:10:05.9451547+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:10.1416155+00:00",
-  "LastUpdate_Ratings": "2023-10-19T07:00:41.6477859+00:00",
-  "LastUpdate_Achievements": "2023-10-19T07:10:12.9360739+00:00"
+  "LastUpdate_Ratings": "2023-10-19T08:00:51.7710422+00:00",
+  "LastUpdate_Achievements": "2023-10-19T08:10:05.9452346+00:00"
 }

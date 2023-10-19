@@ -2,7 +2,7 @@
   "ID": "94cec4802e954a6c9579e29e8b817f3a",
   "Name": "Insurgency: Sandstorm",
   "ProductSlug": "insurgency-sandstorm",
-  "Ranking_Rating": 354,
+  "Ranking_Rating": 355,
   "Ranking_Popularity": 224,
   "Ranking_PopularitySum": 171,
   "Ranking_EOS_Progress": 39,
@@ -3736,9 +3736,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 463773,
+  "EOS_Progressed": 463782,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2367,
+  "EOS_NewPlayers": 2365,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24326,6 +24326,11 @@
       "Time": "2023-10-19T07:05:56.7201352+00:00",
       "NumProgressed": 463773,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-19T08:05:55.5800537+00:00",
+      "NumProgressed": 463782,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -24337,7 +24342,7 @@
       "Name": "Banged",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 9275
+      "UsersEstimate": 9276
     },
     {
       "ID": "ACH_BLINDFIRE",
@@ -24409,7 +24414,7 @@
       "Name": "First Blood",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 9275
+      "UsersEstimate": 9276
     },
     {
       "ID": "ACH_FLACCID_PARALYSIS",
@@ -24417,7 +24422,7 @@
       "Name": "Flaccid Paralysis",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 9275
+      "UsersEstimate": 9276
     },
     {
       "ID": "ACH_GROUNDED",
@@ -24513,7 +24518,7 @@
       "Name": "Push Victory",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 9275
+      "UsersEstimate": 9276
     },
     {
       "ID": "ACH_REFLEXES",
@@ -24545,7 +24550,7 @@
       "Name": "Self-destructive",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 9275
+      "UsersEstimate": 9276
     },
     {
       "ID": "ACH_SEMPER_PARATUS",
@@ -24616,15 +24621,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 463773,
+      "Progressed": 463782,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-10-19T06:59:50.8323942+00:00",
-  "LastChanged_Achievements": "2023-10-19T07:05:56.7201348+00:00",
+  "LastChanged_Achievements": "2023-10-19T08:05:55.580053+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:10.7771003+00:00",
-  "LastUpdate_Ratings": "2023-10-19T06:59:50.8323947+00:00",
-  "LastUpdate_Achievements": "2023-10-19T07:05:56.7203368+00:00"
+  "LastUpdate_Ratings": "2023-10-19T07:59:58.4883527+00:00",
+  "LastUpdate_Achievements": "2023-10-19T08:05:55.5802272+00:00"
 }

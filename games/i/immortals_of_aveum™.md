@@ -33,9 +33,9 @@ Rating: 3.98 (Ranked 975)
 | Shroudfane Explorer | 9.00% | ~8 |
 | Armaments Gules | 8.00% | ~7 |
 | Scholar | 6.00% | ~6 |
+| Best Dressed | 6.00% | ~6 |
 | Armaments Azure | 6.00% | ~6 |
 | Veteran | 6.00% | ~6 |
-| Best Dressed | 5.00% | ~5 |
 | Kitted Out | 4.00% | ~4 |
 | Armaments Vert | 4.00% | ~4 |
 | Master of Carmine | 4.00% | ~4 |

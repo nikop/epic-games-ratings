@@ -1,7 +1,7 @@
 # Insurgency: Sandstorm
 [Store](https://store.epicgames.com/en-US/p/insurgency-sandstorm)  
 [View Rawdata](../../db/i/insurgency__sandstorm.json)  
-Rating: 4.62 (Ranked 354)  
+Rating: 4.62 (Ranked 355)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -15,11 +15,11 @@ Number of Ratings: 1,316  (23.09.2022)
 | Lucky | 3.00% | ~13,913 |
 | Stylin' | 3.00% | ~13,913 |
 | Turf War | 3.00% | ~13,913 |
-| Banged | 2.00% | ~9,275 |
-| First Blood | 2.00% | ~9,275 |
-| Flaccid Paralysis | 2.00% | ~9,275 |
-| Push Victory | 2.00% | ~9,275 |
-| Self-destructive | 2.00% | ~9,275 |
+| Banged | 2.00% | ~9,276 |
+| First Blood | 2.00% | ~9,276 |
+| Flaccid Paralysis | 2.00% | ~9,276 |
+| Push Victory | 2.00% | ~9,276 |
+| Self-destructive | 2.00% | ~9,276 |
 | Blindfire | 1.00% | ~4,638 |
 | Efficient | 1.00% | ~4,638 |
 | Ruthless | 1.00% | ~4,638 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~464 |
 | Road Hazard | 0.10% | ~464 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 463,773 (Ranked 39)  
+Progressed: 463,782 (Ranked 39)  
 Completed: 2 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 2 (0.00%) (Ranked 316)
 | 2023-10-16 | 463,100 | 2 |
 | 2023-10-17 | 463,385 | 2 |
 | 2023-10-18 | 463,672 | 2 |
-| 2023-10-19 | 463,773 | 2 |
+| 2023-10-19 | 463,782 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 392  (Ranked 224)  
 Sum: 3,083 (Ranked 171)  

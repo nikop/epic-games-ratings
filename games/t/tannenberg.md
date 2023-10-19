@@ -6,16 +6,16 @@ Number of Ratings: 13,393  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Immovable Object | 89.00% | ~119,704 |
-| Comeback | 82.00% | ~110,289 |
-| Information is Key | 80.00% | ~107,599 |
-| Unlucky | 70.00% | ~94,149 |
-| Anarchist | 68.00% | ~91,459 |
-| Wallhack | 65.00% | ~87,424 |
-| Steady Supply | 60.00% | ~80,699 |
-| Lucky Shot | 53.00% | ~71,284 |
-| Forward Observer | 52.00% | ~69,939 |
-| Ring Ring! | 52.00% | ~69,939 |
+| Immovable Object | 89.00% | ~119,705 |
+| Comeback | 82.00% | ~110,290 |
+| Information is Key | 80.00% | ~107,600 |
+| Unlucky | 70.00% | ~94,150 |
+| Anarchist | 68.00% | ~91,460 |
+| Wallhack | 65.00% | ~87,425 |
+| Steady Supply | 60.00% | ~80,700 |
+| Lucky Shot | 53.00% | ~71,285 |
+| Forward Observer | 52.00% | ~69,940 |
+| Ring Ring! | 52.00% | ~69,940 |
 | Bossing Around | 45.00% | ~60,525 |
 | Frostbite | 45.00% | ~60,525 |
 | Night Owl | 44.00% | ~59,180 |
@@ -70,11 +70,11 @@ Number of Ratings: 13,393  (23.09.2022)
 | From Russia with Hate | 1.00% | ~1,345 |
 | Talk Much? | 1.00% | ~1,345 |
 | To Arms! To Arms! | 1.00% | ~1,345 |
-| Express to Petrograd | 0.90% | ~1,210 |
-| Seeing is Believing | 0.90% | ~1,210 |
+| Express to Petrograd | 0.90% | ~1,211 |
+| Seeing is Believing | 0.90% | ~1,211 |
 | Road to Berlin | 0.60% | ~807 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,499 (Ranked 74)  
+Progressed: 134,500 (Ranked 74)  
 Completed: 30 (0.02%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,7 +256,7 @@ Completed: 30 (0.02%) (Ranked 290)
 | 2023-10-16 | 134,290 | 30 |
 | 2023-10-17 | 134,395 | 30 |
 | 2023-10-18 | 134,479 | 30 |
-| 2023-10-19 | 134,499 | 30 |
+| 2023-10-19 | 134,500 | 30 |
 ## Awards
 Max (Competitive Players): 334  (Ranked 237)  
 Sum: 3,248 (Ranked 165)  

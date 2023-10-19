@@ -31,10 +31,10 @@
 | Unbeatable | 16.00% | ~9 |
 | Favored by the Cosmos | 12.00% | ~7 |
 | Wave Bender | 12.00% | ~7 |
+| Heavy Purger | 10.00% | ~6 |
 | Lacertian Hero | 10.00% | ~6 |
 | Anomaly Control | 9.00% | ~5 |
 | Can't touch this | 9.00% | ~5 |
-| Heavy Purger | 9.00% | ~5 |
 | Sadistic Plan | 9.00% | ~5 |
 | Stellar Haste | 9.00% | ~5 |
 | The Dark Moon | 9.00% | ~5 |

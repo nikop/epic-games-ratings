@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewPlayers": 294,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 534,
+  "EOS_Progressed": 535,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.12,
   "EosHistory": [
@@ -748,6 +748,11 @@
       "Time": "2023-10-16T03:09:07.1183876+00:00",
       "NumProgressed": 534,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-19T08:10:17.7308451+00:00",
+      "NumProgressed": 535,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -791,7 +796,7 @@
       "Name": "Mind the Gap",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "Echoes",
@@ -847,7 +852,7 @@
       "Name": "Bundle of Joy",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "Hitman",
@@ -863,7 +868,7 @@
       "Name": "F is for Feline",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "Investigative",
@@ -887,7 +892,7 @@
       "Name": "A Trip to Remember",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "MISSING_DATA",
@@ -895,7 +900,7 @@
       "Name": "Does Not Compute",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "Misanthrope",
@@ -935,7 +940,7 @@
       "Name": "A Familiar Face",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "Paparazzi",
@@ -990,7 +995,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 534,
+      "Progressed": 535,
       "Completed": 6
     }
   ],
@@ -998,8 +1003,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-10-19T07:10:24.666025+00:00",
+  "LastChanged_Achievements": "2023-10-19T08:10:17.7308443+00:00",
   "LastUpdate_AppInfo": "2023-10-14T10:57:26.6462722+00:00",
-  "LastUpdate_Ratings": "2023-10-19T07:04:02.6803026+00:00",
-  "LastUpdate_Achievements": "2023-10-19T07:10:24.6660546+00:00"
+  "LastUpdate_Ratings": "2023-10-19T08:03:38.5740657+00:00",
+  "LastUpdate_Achievements": "2023-10-19T08:10:17.730873+00:00"
 }
