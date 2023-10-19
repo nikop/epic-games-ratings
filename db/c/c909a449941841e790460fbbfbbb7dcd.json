@@ -4,7 +4,7 @@
   "ProductSlug": "road-defense-outsiders-22e4ba",
   "Ranking_EOS_Progress": 429,
   "Ranking_EOS_Completed": 81,
-  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_NewPlayers": 297,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-09-22T19:00:00+00:00",
@@ -340,9 +340,9 @@
       "ID": "DEFEATED_10000_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Slayer",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 60,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "DEFEATED_1000_ENEMIES",
@@ -467,8 +467,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-10-19T16:07:00.8673409+00:00",
+  "LastChanged_Achievements": "2023-10-19T17:08:39.4640103+00:00",
   "LastUpdate_AppInfo": "2023-10-17T18:57:05.9704526+00:00",
-  "LastUpdate_Ratings": "2023-10-19T16:00:50.4973955+00:00",
-  "LastUpdate_Achievements": "2023-10-19T16:07:00.8673545+00:00"
+  "LastUpdate_Ratings": "2023-10-19T17:02:18.7080026+00:00",
+  "LastUpdate_Achievements": "2023-10-19T17:08:39.4640255+00:00"
 }

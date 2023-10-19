@@ -2,12 +2,12 @@
   "ID": "9533b9db84274b15886caa464445a975",
   "Name": "The Crew\u2122 Motorfest Standard Edition",
   "ProductSlug": "the-crew-motorfest",
-  "Ranking_Rating": 282,
+  "Ranking_Rating": 265,
   "Ranking_Popularity": 251,
-  "Ranking_PopularitySum": 208,
-  "Ranking_EOS_Progress": 681,
+  "Ranking_PopularitySum": 207,
+  "Ranking_EOS_Progress": 682,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 403,
+  "Ranking_EOS_NewPlayers": 404,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-09-14T08:00:00+00:00",
@@ -20,7 +20,7 @@
       "isPrepurchase": "true"
     }
   },
-  "Rating": 4.66,
+  "Rating": 4.67,
   "RatingHistory": [
     {
       "Time": "2023-09-15T10:57:58.1384791+00:00",
@@ -1329,10 +1329,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 1895,
       "NumberOfAwardsMax": 276
+    },
+    {
+      "Time": "2023-10-19T16:57:23.3771849+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 1904,
+      "NumberOfAwardsMax": 276
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1895,
+  "NumberOfAwards": 1904,
   "NumberOfAwardsMax": 276,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -1388,7 +1394,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 235
+      "Count": 244
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -1415,8 +1421,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-14T08:57:08.1529881+00:00",
   "FirstSeenRating": "2023-09-15T10:57:58.1384789+00:00",
-  "LastChanged": "2023-10-19T15:57:20.4952409+00:00",
+  "LastChanged": "2023-10-19T16:57:23.3771847+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:40.8631424+00:00",
-  "LastUpdate_Ratings": "2023-10-19T15:57:20.4952414+00:00",
-  "LastUpdate_Achievements": "2023-10-19T16:06:10.2562706+00:00"
+  "LastUpdate_Ratings": "2023-10-19T16:57:23.3771853+00:00",
+  "LastUpdate_Achievements": "2023-10-19T17:07:28.3719944+00:00"
 }

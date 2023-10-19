@@ -2,9 +2,9 @@
   "ID": "261256bf893b4b258b053af8b0e49a96",
   "Name": "mummification",
   "ProductSlug": "mummification-5a93ca",
-  "Ranking_EOS_Progress": 681,
+  "Ranking_EOS_Progress": 682,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 403,
+  "Ranking_EOS_NewPlayers": 404,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-07-11T05:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-14T14:57:31.6331818+00:00",
-  "LastUpdate_Ratings": "2023-10-19T15:58:57.0561222+00:00",
-  "LastUpdate_Achievements": "2023-10-19T16:09:28.5487248+00:00"
+  "LastUpdate_Ratings": "2023-10-19T16:59:39.0532613+00:00",
+  "LastUpdate_Achievements": "2023-10-19T17:10:12.1347381+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "82b2eb4986c94409baca6597ce30c0cb",
   "Name": "Defimons",
   "ProductSlug": "defimons-ac6e3e",
-  "Ranking_EOS_Progress": 681,
+  "Ranking_EOS_Progress": 682,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 403,
+  "Ranking_EOS_NewPlayers": 404,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-16T20:57:07.1305186+00:00",
-  "LastUpdate_Ratings": "2023-10-19T15:58:45.3944918+00:00",
-  "LastUpdate_Achievements": "2023-10-19T16:05:20.2108171+00:00"
+  "LastUpdate_Ratings": "2023-10-19T16:59:21.6037432+00:00",
+  "LastUpdate_Achievements": "2023-10-19T17:06:18.4485855+00:00"
 }

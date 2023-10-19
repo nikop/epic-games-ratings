@@ -5,7 +5,7 @@
   "Ranking_Rating": 609,
   "Ranking_Popularity": 472,
   "Ranking_PopularitySum": 494,
-  "Ranking_EOS_Progress": 187,
+  "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 108,
@@ -5432,9 +5432,9 @@
       "ID": "ACH_MISSION_04",
       "SetID": "816efe",
       "Name": "Making a Stand",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1534
+      "UsersEstimate": 1569
     },
     {
       "ID": "ACH_MISSION_05",
@@ -5585,8 +5585,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-10-15T16:00:18.7159647+00:00",
-  "LastChanged_Achievements": "2023-10-19T16:09:15.2888026+00:00",
+  "LastChanged_Achievements": "2023-10-19T17:09:54.1468333+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:37.7365418+00:00",
-  "LastUpdate_Ratings": "2023-10-19T15:58:11.506568+00:00",
-  "LastUpdate_Achievements": "2023-10-19T16:09:15.288872+00:00"
+  "LastUpdate_Ratings": "2023-10-19T16:58:35.1549254+00:00",
+  "LastUpdate_Achievements": "2023-10-19T17:09:54.1469453+00:00"
 }

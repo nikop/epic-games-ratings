@@ -1,24 +1,24 @@
 # Fae Farm
 [Store](https://store.epicgames.com/en-US/p/fae-farm)  
 [View Rawdata](../../db/0/013ca9b88fa34b21b2de7fdbfcfc843b.json)  
-Rating: 4.66 (Ranked 282)  
+Rating: 4.66 (Ranked 283)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 73.00% | ~5,001 |
-| A Thorny Situation | 70.00% | ~4,796 |
-| ... And Spit Back Out | 60.00% | ~4,111 |
-| Break-Net Speed | 48.00% | ~3,288 |
-| Bramble Breaker | 46.00% | ~3,151 |
-| Miner 49er | 43.00% | ~2,946 |
-| Humble Collector | 42.00% | ~2,877 |
-| Calm Sailing | 36.00% | ~2,466 |
-| Open the Gate! | 33.00% | ~2,261 |
-| Mist Walker | 31.00% | ~2,124 |
-| Lumberjack | 26.00% | ~1,781 |
-| Oui, Chef! | 22.00% | ~1,507 |
+| Azoria Beckons | 73.00% | ~5,004 |
+| A Thorny Situation | 70.00% | ~4,798 |
+| ... And Spit Back Out | 60.00% | ~4,113 |
+| Break-Net Speed | 48.00% | ~3,290 |
+| Bramble Breaker | 46.00% | ~3,153 |
+| Miner 49er | 43.00% | ~2,948 |
+| Humble Collector | 42.00% | ~2,879 |
+| Calm Sailing | 36.00% | ~2,468 |
+| Open the Gate! | 33.00% | ~2,262 |
+| Mist Walker | 31.00% | ~2,125 |
+| Lumberjack | 26.00% | ~1,782 |
+| Oui, Chef! | 22.00% | ~1,508 |
 | Clear the Air | 17.00% | ~1,165 |
-| Botanical Breakthrough | 16.00% | ~1,096 |
+| Botanical Breakthrough | 16.00% | ~1,097 |
 | Search for the Hairy Grell | 13.00% | ~891 |
 | Beach Comber | 13.00% | ~891 |
 | Higher Tax Bracket | 13.00% | ~891 |
@@ -41,7 +41,7 @@ Rating: 4.66 (Ranked 282)
 | Giving the People What They Want | 0.10% | ~7 |
 | Very Skilled | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,851 (Ranked 163)  
+Progressed: 6,855 (Ranked 163)  
 Completed: 0 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 0 (0.00%) (Ranked 316)
 | 2023-10-16 | 6,732 | 0 |
 | 2023-10-17 | 6,772 | 0 |
 | 2023-10-18 | 6,810 | 0 |
-| 2023-10-19 | 6,851 | 0 |
+| 2023-10-19 | 6,855 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

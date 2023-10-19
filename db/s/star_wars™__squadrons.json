@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-squadrons",
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 36,
+  "Ranking_EOS_NewPlayers": 37,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2020-10-02T04:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12026,
+  "EOS_Progressed": 12033,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2445,
+  "EOS_NewPlayers": 2429,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3469,6 +3469,11 @@
       "Time": "2023-10-19T16:09:23.6546453+00:00",
       "NumProgressed": 12026,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-19T17:10:05.3979708+00:00",
+      "NumProgressed": 12033,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -3481,7 +3486,7 @@
       "Name": "The Galaxy\u0027s Finest (Story Mode)",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 1804
+      "UsersEstimate": 1805
     },
     {
       "ID": "achievement_10",
@@ -3529,7 +3534,7 @@
       "Name": "Begin the Ceremony",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 2405
+      "UsersEstimate": 2407
     },
     {
       "ID": "achievement_16",
@@ -3593,7 +3598,7 @@
       "Name": "Fearless",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "achievement_23",
@@ -3633,7 +3638,7 @@
       "Name": "Unkillable",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 962
+      "UsersEstimate": 963
     },
     {
       "ID": "achievement_28",
@@ -3689,7 +3694,7 @@
       "Name": "Mission Accomplished",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 2405
+      "UsersEstimate": 2407
     },
     {
       "ID": "achievement_34",
@@ -3705,7 +3710,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 11425
+      "UsersEstimate": 11431
     },
     {
       "ID": "achievement_36",
@@ -3721,7 +3726,7 @@
       "Name": "Asset Secured",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1563
+      "UsersEstimate": 1564
     },
     {
       "ID": "achievement_38",
@@ -3737,7 +3742,7 @@
       "Name": "Safety in the Storm",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 3006
+      "UsersEstimate": 3008
     },
     {
       "ID": "achievement_4",
@@ -3753,7 +3758,7 @@
       "Name": "Flames Over Mon Cala",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "achievement_41",
@@ -3809,7 +3814,7 @@
       "Name": "Stomped",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "achievement_5",
@@ -3825,7 +3830,7 @@
       "Name": "A Starfighter of Your Own",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1684
+      "UsersEstimate": 1685
     },
     {
       "ID": "achievement_7",
@@ -3841,7 +3846,7 @@
       "Name": "A Better Idea",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 3006
+      "UsersEstimate": 3008
     },
     {
       "ID": "achievement_9",
@@ -3849,14 +3854,14 @@
       "Name": "A Promising Career",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     }
   ],
   "AchievementSets": [
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 12026,
+      "Progressed": 12033,
       "Completed": 1
     }
   ],
@@ -3864,8 +3869,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2023-10-19T16:09:23.6546449+00:00",
+  "LastChanged_Achievements": "2023-10-19T17:10:05.3979701+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:10.1416155+00:00",
-  "LastUpdate_Ratings": "2023-10-19T15:59:55.2364179+00:00",
-  "LastUpdate_Achievements": "2023-10-19T16:09:23.6547056+00:00"
+  "LastUpdate_Ratings": "2023-10-19T17:01:05.7727849+00:00",
+  "LastUpdate_Achievements": "2023-10-19T17:10:05.3980361+00:00"
 }

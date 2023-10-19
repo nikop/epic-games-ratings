@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 214,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1440,9 +1440,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 23357,
+  "EOS_Progressed": 23358,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -8870,6 +8870,11 @@
       "Time": "2023-10-19T11:05:00.1920974+00:00",
       "NumProgressed": 23357,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-10-19T17:06:35.1514946+00:00",
+      "NumProgressed": 23358,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -8953,7 +8958,7 @@
       "Name": "For Glory",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "BossCastleDefeated",
@@ -9192,21 +9197,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 23357,
+      "Progressed": 23358,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 2287,
+      "Progressed": 2288,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-10-03T22:57:24.3732478+00:00",
-  "LastChanged_Achievements": "2023-10-19T16:05:32.1604979+00:00",
+  "LastChanged_Achievements": "2023-10-19T17:06:35.1514938+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:16.7144669+00:00",
-  "LastUpdate_Ratings": "2023-10-19T15:59:54.7513004+00:00",
-  "LastUpdate_Achievements": "2023-10-19T16:05:32.160578+00:00"
+  "LastUpdate_Ratings": "2023-10-19T17:01:04.4550912+00:00",
+  "LastUpdate_Achievements": "2023-10-19T17:06:35.1516227+00:00"
 }

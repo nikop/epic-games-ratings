@@ -3,11 +3,11 @@
   "Name": "Occupy Mars: The Game",
   "ProductSlug": "occupy-mars",
   "Ranking_Rating": 975,
-  "Ranking_Popularity": 537,
-  "Ranking_PopularitySum": 537,
-  "Ranking_EOS_Progress": 212,
+  "Ranking_Popularity": 538,
+  "Ranking_PopularitySum": 538,
+  "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -271,9 +271,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1671,
+  "EOS_Progressed": 1672,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3991,6 +3991,11 @@
       "Time": "2023-10-19T11:08:02.3718516+00:00",
       "NumProgressed": 1671,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-19T17:09:04.3658872+00:00",
+      "NumProgressed": 1672,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4082,7 +4087,7 @@
       "Name": "Zero Waste",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -4122,7 +4127,7 @@
       "Name": "Fear my botany powers, Mars",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -4154,7 +4159,7 @@
       "Name": "Detective",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "NEW_ACHIEVEMENT_DE_DUST",
@@ -4176,9 +4181,9 @@
       "ID": "NEW_ACHIEVEMENT_ELECTRICIAN",
       "SetID": "l546gc",
       "Name": "Electrician",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 568
+      "UsersEstimate": 552
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -4194,7 +4199,7 @@
       "Name": "Gardener",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -4258,7 +4263,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -4362,7 +4367,7 @@
       "Name": "Bob The Builder",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -4385,7 +4390,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1671,
+      "Progressed": 1672,
       "Completed": 0
     }
   ],
@@ -4393,8 +4398,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-10-07T20:58:51.3818577+00:00",
-  "LastChanged_Achievements": "2023-10-19T16:07:18.9205097+00:00",
+  "LastChanged_Achievements": "2023-10-19T17:09:04.3658864+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:10.2990063+00:00",
-  "LastUpdate_Ratings": "2023-10-19T16:00:19.9145384+00:00",
-  "LastUpdate_Achievements": "2023-10-19T16:07:18.9205898+00:00"
+  "LastUpdate_Ratings": "2023-10-19T17:01:36.6884564+00:00",
+  "LastUpdate_Achievements": "2023-10-19T17:09:04.3659945+00:00"
 }

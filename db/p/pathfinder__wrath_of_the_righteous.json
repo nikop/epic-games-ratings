@@ -3953,9 +3953,9 @@
       "Count": 389
     }
   ],
-  "EOS_Progressed": 11591,
+  "EOS_Progressed": 11595,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13768,6 +13768,11 @@
       "Time": "2023-10-19T16:09:33.7926145+00:00",
       "NumProgressed": 11591,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-19T17:10:19.0323659+00:00",
+      "NumProgressed": 11595,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -13779,7 +13784,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2898
+      "UsersEstimate": 2899
     },
     {
       "ID": "02_BurningCity",
@@ -13787,7 +13792,7 @@
       "Name": "Burning City",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1970
+      "UsersEstimate": 1971
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -13803,7 +13808,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 927
+      "UsersEstimate": 928
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -13811,7 +13816,7 @@
       "Name": "Embrace of the Abyss",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "06_HeartOfFallenLand",
@@ -13835,7 +13840,7 @@
       "Name": "Path of the Angel",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "09_PathOfDemon",
@@ -14147,7 +14152,7 @@
       "Name": "A Spark",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2086
+      "UsersEstimate": 2087
     },
     {
       "ID": "49_Flame",
@@ -14171,7 +14176,7 @@
       "Name": "Demonic and Divine",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "52_TrulyImportantDeed",
@@ -14651,7 +14656,7 @@
       "Name": "Stay Underground",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "DLC4_24_Hanged Man\u0027s Notes",
@@ -14667,7 +14672,7 @@
       "Name": "Sarkoris Will Be Green",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "DLC4_26_This Wall Won\u0027t Fall",
@@ -14706,21 +14711,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10373,
+      "Progressed": 10377,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11591,
+      "Progressed": 11595,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-10-17T14:57:09.968869+00:00",
-  "LastChanged_Achievements": "2023-10-19T16:09:33.792614+00:00",
+  "LastChanged_Achievements": "2023-10-19T17:10:19.0323653+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:48.4782392+00:00",
-  "LastUpdate_Ratings": "2023-10-19T15:58:17.5536705+00:00",
-  "LastUpdate_Achievements": "2023-10-19T16:09:33.7929835+00:00"
+  "LastUpdate_Ratings": "2023-10-19T16:58:45.1911061+00:00",
+  "LastUpdate_Achievements": "2023-10-19T17:10:19.0325884+00:00"
 }

@@ -625,9 +625,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 469299,
+  "EOS_Progressed": 469301,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 376,
+  "EOS_NewPlayers": 374,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19675,6 +19675,11 @@
       "Time": "2023-10-19T16:09:24.5332163+00:00",
       "NumProgressed": 469299,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-10-19T17:10:06.5795644+00:00",
+      "NumProgressed": 469301,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 79,
@@ -19774,7 +19779,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 309737
+      "UsersEstimate": 309739
     },
     {
       "ID": "achievement_story_landa",
@@ -20150,7 +20155,7 @@
       "Name": "The greatest admiral of all time",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2346
+      "UsersEstimate": 2347
     },
     {
       "ID": "achievement_win_run_with_as",
@@ -20317,21 +20322,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 13233,
+      "Progressed": 13235,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 469299,
+      "Progressed": 469301,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-10-10T01:42:39.6470224+00:00",
-  "LastChanged_Achievements": "2023-10-19T16:09:24.5332156+00:00",
+  "LastChanged_Achievements": "2023-10-19T17:10:06.5795638+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:23.4157652+00:00",
-  "LastUpdate_Ratings": "2023-10-19T15:59:34.6904032+00:00",
-  "LastUpdate_Achievements": "2023-10-19T16:09:24.5334328+00:00"
+  "LastUpdate_Ratings": "2023-10-19T17:00:34.0915151+00:00",
+  "LastUpdate_Achievements": "2023-10-19T17:10:06.5798003+00:00"
 }

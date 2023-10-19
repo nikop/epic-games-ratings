@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Nightmare Territory | 91.00% | ~43 |
-| Bring It | 87.00% | ~41 |
-| Grew Bigger | 87.00% | ~41 |
+| Bring It | 89.00% | ~42 |
+| Grew Bigger | 89.00% | ~42 |
 | Find the Light | 85.00% | ~40 |
 | Lights Shining | 79.00% | ~37 |
 | Yippee Ki-yay | 79.00% | ~37 |
@@ -14,15 +14,15 @@
 | Greatest Hits | 70.00% | ~33 |
 | Filling the Shape | 68.00% | ~32 |
 | Ready for a Fight | 60.00% | ~28 |
-| Darkness Coiled | 57.00% | ~27 |
+| Darkness Coiled | 60.00% | ~28 |
 | All Accounted For | 53.00% | ~25 |
 | The Other Side | 51.00% | ~24 |
 | Aimed Ahead | 47.00% | ~22 |
 | Stop Right There | 45.00% | ~21 |
-| Felt Good | 40.00% | ~19 |
+| Felt Good | 43.00% | ~20 |
+| Chased the Source | 43.00% | ~20 |
 | Hunting Season | 40.00% | ~19 |
 | Shining in the Night | 40.00% | ~19 |
-| Chased the Source | 40.00% | ~19 |
 | Carry his Words | 36.00% | ~17 |
 | The Trail of the Writer | 32.00% | ~15 |
 | All His Life | 32.00% | ~15 |
@@ -37,17 +37,17 @@
 | Return | 23.00% | ~11 |
 | In a Fancy Hotel | 23.00% | ~11 |
 | Behind the Masks | 23.00% | ~11 |
+| Lawman | 21.00% | ~10 |
 | Storm Cloud | 21.00% | ~10 |
+| Into the Overlap | 21.00% | ~10 |
 | Back in Watery | 21.00% | ~10 |
 | Seeing Double | 21.00% | ~10 |
 | New York City | 21.00% | ~10 |
-| Lawman | 19.00% | ~9 |
 | Stunning Vistas | 19.00% | ~9 |
-| Into the Overlap | 19.00% | ~9 |
+| Secret Stashes | 19.00% | ~9 |
 | In One Go | 19.00% | ~9 |
 | Growing Stronger | 17.00% | ~8 |
 | Talk Show | 17.00% | ~8 |
-| Secret Stashes | 17.00% | ~8 |
 | The Cult of the Word | 17.00% | ~8 |
 | Girl in Love | 15.00% | ~7 |
 | Gone for Good | 15.00% | ~7 |

@@ -18,7 +18,7 @@ Rating: 4.48 (Ranked 609)
 | First Steps Into Madness | 53.00% | ~1,848 |
 | Colonial Barrels | 51.00% | ~1,778 |
 | Harper's Hell | 46.00% | ~1,604 |
-| Making a Stand | 44.00% | ~1,534 |
+| Making a Stand | 45.00% | ~1,569 |
 | Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,464 |
 | Where It All Begun | 41.00% | ~1,429 |
 | Recouped Investment | 39.00% | ~1,360 |
@@ -51,7 +51,7 @@ Rating: 4.48 (Ranked 609)
 | This Ain't No Picnic | 0.70% | ~24 |
 | Chalk It Up To Experience | 0.70% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,486 (Ranked 187)  
+Progressed: 3,486 (Ranked 188)  
 Completed: 3 (0.09%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |

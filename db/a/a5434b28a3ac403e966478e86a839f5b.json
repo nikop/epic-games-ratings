@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 434,
+  "EOS_Progressed": 435,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
@@ -1195,6 +1195,11 @@
       "Time": "2023-10-18T20:06:27.6966441+00:00",
       "NumProgressed": 434,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-19T17:07:33.7463119+00:00",
+      "NumProgressed": 435,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -1207,7 +1212,7 @@
       "Name": "Assassinate the Makron",
       "Percentage": 16,
       "XP": 120,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ACH_eou1",
@@ -1215,7 +1220,7 @@
       "Name": "Establish Communications",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "ACH_eou2",
@@ -1263,7 +1268,7 @@
       "Name": "Destroy the Big Gun",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACH_eou8",
@@ -1310,14 +1315,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 434,
+      "Progressed": 435,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-10-19T16:06:14.0645947+00:00",
+  "LastChanged_Achievements": "2023-10-19T17:07:33.7463111+00:00",
   "LastUpdate_AppInfo": "2023-10-12T22:57:11.8537053+00:00",
-  "LastUpdate_Ratings": "2023-10-19T16:00:56.1937538+00:00",
-  "LastUpdate_Achievements": "2023-10-19T16:06:14.0646121+00:00"
+  "LastUpdate_Ratings": "2023-10-19T17:02:27.6339611+00:00",
+  "LastUpdate_Achievements": "2023-10-19T17:07:33.7463289+00:00"
 }

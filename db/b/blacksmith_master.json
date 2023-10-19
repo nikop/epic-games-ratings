@@ -2,9 +2,9 @@
   "ID": "6c4dc741283b4d16b436b51ff1de450e",
   "Name": "Blacksmith Master",
   "ProductSlug": "blacksmith-master-1c82f8",
-  "Ranking_EOS_Progress": 681,
+  "Ranking_EOS_Progress": 682,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 403,
+  "Ranking_EOS_NewPlayers": 404,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-14T13:56:57.0459799+00:00",
-  "LastUpdate_Ratings": "2023-10-19T15:57:34.7863748+00:00",
-  "LastUpdate_Achievements": "2023-10-19T16:09:30.6345196+00:00"
+  "LastUpdate_Ratings": "2023-10-19T16:57:41.347811+00:00",
+  "LastUpdate_Achievements": "2023-10-19T17:10:14.9431101+00:00"
 }

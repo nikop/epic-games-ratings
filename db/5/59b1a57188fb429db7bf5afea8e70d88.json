@@ -4,7 +4,7 @@
   "ProductSlug": "dinobreak-307b09",
   "Ranking_EOS_Progress": 510,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-10-04T14:00:00+00:00",
@@ -245,9 +245,9 @@
       "ID": "SOMETHING_ISNT_RIGHT_ACH",
       "SetID": "7jaf9il",
       "Name": "Something Isn\u0027t Right",
-      "Percentage": 69,
+      "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "SPEED_RUNNER_ACH",
@@ -269,9 +269,9 @@
       "ID": "TEMPORARY_SHELTER_ACH",
       "SetID": "7jaf9il",
       "Name": "Temporary Shelter",
-      "Percentage": 6,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "THE_FOURTH_SURVIVOR_ACH",
@@ -316,8 +316,8 @@
   ],
   "FirstSeen": "2023-10-10T23:57:30.9159633+00:00",
   "FirstSeenAchievements": "2023-08-30T15:02:12.9396866+00:00",
-  "LastChanged_Achievements": "2023-10-19T16:03:56.3559669+00:00",
+  "LastChanged_Achievements": "2023-10-19T17:04:23.2836508+00:00",
   "LastUpdate_AppInfo": "2023-10-18T17:59:11.4813248+00:00",
-  "LastUpdate_Ratings": "2023-10-19T16:01:02.2815729+00:00",
-  "LastUpdate_Achievements": "2023-10-19T16:03:56.3559851+00:00"
+  "LastUpdate_Ratings": "2023-10-19T17:02:38.8633432+00:00",
+  "LastUpdate_Achievements": "2023-10-19T17:04:23.283682+00:00"
 }

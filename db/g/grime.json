@@ -4,10 +4,10 @@
   "ProductSlug": "grime",
   "Ranking_Rating": 420,
   "Ranking_Popularity": 429,
-  "Ranking_PopularitySum": 349,
+  "Ranking_PopularitySum": 348,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 51,
+  "Ranking_EOS_NewPlayers": 52,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1153,9 +1153,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 153177,
+  "EOS_Progressed": 153189,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1593,
+  "EOS_NewPlayers": 1591,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12223,6 +12223,11 @@
       "Time": "2023-10-19T16:05:47.3197081+00:00",
       "NumProgressed": 153177,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-19T17:06:56.6562687+00:00",
+      "NumProgressed": 153189,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -12368,9 +12373,9 @@
       "ID": "DEFEAT_HARMLESSROCKGIANT",
       "SetID": "ccc0dlh",
       "Name": "Harmless",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 1072
+      "UsersEstimate": 1226
     },
     {
       "ID": "DEFEAT_JAWCRAB",
@@ -12426,7 +12431,7 @@
       "Name": "Silenced Whispers",
       "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 1225
+      "UsersEstimate": 1226
     },
     {
       "ID": "MISC_ABSORBMANY",
@@ -12601,21 +12606,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 152760,
+      "Progressed": 152772,
       "Completed": 1164
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 153177,
+      "Progressed": 153189,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-19T03:57:30.2133222+00:00",
-  "LastChanged_Achievements": "2023-10-19T16:05:47.3197074+00:00",
+  "LastChanged_Achievements": "2023-10-19T17:06:56.6562682+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:33.8479674+00:00",
-  "LastUpdate_Ratings": "2023-10-19T15:57:51.7014583+00:00",
-  "LastUpdate_Achievements": "2023-10-19T16:05:47.3198723+00:00"
+  "LastUpdate_Ratings": "2023-10-19T16:58:04.0679825+00:00",
+  "LastUpdate_Achievements": "2023-10-19T17:06:56.6563746+00:00"
 }

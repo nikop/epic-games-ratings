@@ -69,12 +69,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Apadana | 0.90% | ~133 |
 | Mythology | 0.90% | ~133 |
 | Win a Single Player Game | 0.90% | ~133 |
+| Conqueror | 0.80% | ~118 |
 | Champions | 0.80% | ~118 |
 | Sages | 0.80% | ~118 |
 | Mausoleum | 0.80% | ~118 |
 | Hanging Gardens in Babylon | 0.70% | ~104 |
 | Beloved | 0.70% | ~104 |
-| Conqueror | 0.70% | ~104 |
 | Intercessor | 0.70% | ~104 |
 | Lion | 0.70% | ~104 |
 | Victorious | 0.70% | ~104 |
