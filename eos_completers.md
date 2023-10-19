@@ -3,10 +3,10 @@
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 66.67% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.58% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 47.16% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 47.09% |
+| 4 | [The Riflemen](games/t/the_riflemen.md) | 47.04% |
+| 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.83% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
-| 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 33.05% |
+| 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 32.77% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
 | 9 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 10 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.26% |
@@ -59,8 +59,8 @@
 | 57 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.77% |
 | 58 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 5.66% |
 | 59 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.63% |
-| 60 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.56% |
-| 61 | [Time on Frog Island](games/t/time_on_frog_island.md) | 5.26% |
+| 60 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.26% |
+| 60 | [Time on Frog Island](games/t/time_on_frog_island.md) | 5.26% |
 | 62 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.92% |
 | 63 | [JARS](games/j/jars.md) | 4.82% |
 | 64 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
@@ -71,14 +71,14 @@
 | 69 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.43% |
 | 70 | [The Bunker](games/t/the_bunker.md) | 4.20% |
 | 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.15% |
-| 72 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.08% |
-| 73 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.07% |
+| 72 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.07% |
+| 72 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.07% |
 | 74 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.00% |
 | 75 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
 | 76 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.78% |
-| 76 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.78% |
-| 78 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.58% |
-| 79 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
+| 77 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.77% |
+| 78 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.57% |
+| 78 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
 | 80 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 81 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.39% |
 | 82 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
@@ -140,7 +140,7 @@
 | 138 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.12% |
 | 138 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.12% |
 | 140 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 1.08% |
-| 140 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.08% |
+| 141 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.07% |
 | 142 | [Adios](games/a/adios.md) | 1.05% |
 | 142 | [Infindustry](games/i/infindustry.md) | 1.05% |
 | 142 | [Trifox](games/t/trifox.md) | 1.05% |
@@ -412,6 +412,7 @@
 | 316 | [Elypse](games/e/elypse.md) | 0.00% |
 | 316 | [Enchanted Portals](games/7/78d62c43bcae4a649f87fdb6c0105b9a.md) | 0.00% |
 | 316 | [Eternal Evil](games/c/c188c5b560174a979ede32563e6e25e5.md) | 0.00% |
+| 316 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.00% |
 | 316 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 0.00% |
 | 316 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 0.00% |
 | 316 | [F1® 23](games/f/f1®_23_standard_edition.md) | 0.00% |
@@ -679,4 +680,4 @@
 | 316 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 316 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 316 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,435 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,436 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
