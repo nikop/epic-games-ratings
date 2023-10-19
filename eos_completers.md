@@ -72,7 +72,7 @@
 | 70 | [The Bunker](games/t/the_bunker.md) | 4.20% |
 | 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.14% |
 | 72 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.10% |
-| 73 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.08% |
+| 73 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.07% |
 | 74 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.00% |
 | 75 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
 | 75 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.80% |
@@ -82,7 +82,7 @@
 | 80 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 81 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.39% |
 | 82 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
-| 83 | [The Complex](games/t/the_complex.md) | 3.33% |
+| 83 | [The Complex](games/t/the_complex.md) | 3.32% |
 | 84 | [Doodle God](games/d/doodle_god.md) | 3.27% |
 | 85 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.25% |
 | 85 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.25% |

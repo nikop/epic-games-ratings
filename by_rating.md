@@ -47,13 +47,13 @@
 | 42 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.85 | 0 | 538 |
 | 42 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 222 | 268 |
 | 42 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.85 | 153 | 305 |
-| 42 | [Subnautica](games/s/subnautica.md) | 4.85 | 718 | 175 |
+| 42 | [Subnautica](games/s/subnautica.md) | 4.85 | 719 | 174 |
 | 49 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 47 | 424 |
 | 49 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 218 | 272 |
 | 49 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.84 | 421 | 218 |
 | 49 | [Grindstone](games/g/grindstone.md) | 4.84 | 0 | 538 |
 | 49 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 432 | 214 |
-| 49 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 269 | 255 |
+| 49 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 270 | 254 |
 | 49 | [The Last Campfire](games/t/the_last_campfire.md) | 4.84 | 0 | 538 |
 | 56 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.83 | 0 | 538 |
 | 56 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.83 | 0 | 538 |
@@ -391,7 +391,7 @@
 | 378 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 4.61 | 0 | 538 |
 | 378 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 0 | 538 |
 | 378 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,268 | 136 |
-| 378 | [MudRunner](games/m/mudrunner.md) | 4.61 | 269 | 255 |
+| 378 | [MudRunner](games/m/mudrunner.md) | 4.61 | 269 | 256 |
 | 378 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 708 | 178 |
 | 378 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 107 | 338 |
 | 378 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 532 | 200 |
@@ -435,7 +435,7 @@
 | 420 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 355 | 231 |
 | 420 | [Torchlight II](games/t/torchlight_ii.md) | 4.59 | 1,041 | 145 |
 | 420 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.59 | 0 | 538 |
-| 420 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 718 | 175 |
+| 420 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 718 | 176 |
 | 420 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.59 | 86 | 366 |
 | 420 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 20 | 530 |
 | 439 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.58 | 45 | 429 |
@@ -537,7 +537,7 @@
 | 528 | [RUINER](games/r/ruiner.md) | 4.53 | 24 | 510 |
 | 528 | [Souldiers](games/s/souldiers.md) | 4.53 | 0 | 538 |
 | 528 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 538 |
-| 528 | [VALORANT](games/v/valorant.md) | 4.53 | 76,088 | 10 |
+| 528 | [VALORANT](games/v/valorant.md) | 4.53 | 76,258 | 10 |
 | 528 | [Verdun](games/v/verdun.md) | 4.53 | 97 | 351 |
 | 540 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 0 | 538 |
 | 540 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 22 | 518 |
@@ -754,7 +754,7 @@
 | 747 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.38 | 0 | 538 |
 | 753 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 0 | 538 |
 | 753 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.37 | 0 | 538 |
-| 753 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,152 | 108 |
+| 753 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,153 | 108 |
 | 753 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 538 |
 | 753 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.37 | 0 | 538 |
 | 753 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.37 | 0 | 538 |
@@ -840,7 +840,7 @@
 | 831 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 293 |
 | 839 | [Dice Legacy](games/d/dice_legacy.md) | 4.27 | 0 | 538 |
 | 839 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.27 | 0 | 538 |
-| 839 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.27 | 3,812 | 85 |
+| 839 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.27 | 3,814 | 85 |
 | 839 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.27 | 0 | 538 |
 | 839 | [OVERPASS™](games/o/overpass™.md) | 4.27 | 0 | 538 |
 | 839 | [RAGE 2](games/r/rage_2.md) | 4.27 | 2,605 | 101 |

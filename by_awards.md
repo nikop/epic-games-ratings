@@ -9,7 +9,7 @@
 | 7 | [Fall Guys](games/f/fall_guys.md) | 150,247 | 4.51 | 553 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 118,927 | 4.69 | 224 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 99,323 | 4.64 | 324 |
-| 10 | [VALORANT](games/v/valorant.md) | 76,088 | 4.53 | 528 |
+| 10 | [VALORANT](games/v/valorant.md) | 76,258 | 4.53 | 528 |
 | 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 62,337 | 4.58 | 439 |
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 46,997 | 4.61 | 378 |
 | 13 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 40,024 | 4.74 | 151 |
@@ -84,7 +84,7 @@
 | 82 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,139 | 4.51 | 553 |
 | 83 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4,131 | 4.57 | 457 |
 | 84 | [Days Gone](games/d/days_gone.md) | 3,988 | 4.68 | 242 |
-| 85 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,812 | 4.27 | 839 |
+| 85 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,814 | 4.27 | 839 |
 | 86 | [Paladins](games/p/paladins.md) | 3,731 | 4.33 | 793 |
 | 87 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,696 | 4.68 | 242 |
 | 88 | [Trackmania](games/t/trackmania.md) | 3,686 | 4.67 | 264 |
@@ -107,7 +107,7 @@
 | 105 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,267 | 4.67 | 264 |
 | 106 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,248 | 4.63 | 339 |
 | 107 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,217 | 4.41 | 700 |
-| 108 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,152 | 4.37 | 753 |
+| 108 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,153 | 4.37 | 753 |
 | 109 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 2,015 | 4.71 | 189 |
 | 110 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 2,007 | 4.49 | 593 |
 | 111 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 1,927 | 4.66 | 283 |
@@ -174,8 +174,8 @@
 | 172 | [Neverwinter](games/n/neverwinter.md) | 745 | 4.29 | 823 |
 | 173 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 733 | 4.87 | 22 |
 | 174 | [Riders Republic](games/r/riders_republic.md) | 719 | 4.75 | 139 |
-| 175 | [Subnautica](games/s/subnautica.md) | 718 | 4.85 | 42 |
-| 175 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 718 | 4.59 | 420 |
+| 174 | [Subnautica](games/s/subnautica.md) | 719 | 4.85 | 42 |
+| 176 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 718 | 4.59 | 420 |
 | 177 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 716 | 4.74 | 151 |
 | 178 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 708 | 4.61 | 378 |
 | 179 | [Neon Abyss](games/n/neon_abyss.md) | 695 | 4.68 | 242 |
@@ -253,9 +253,9 @@
 | 251 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 276 | 4.49 | 593 |
 | 251 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 276 | 4.67 | 264 |
 | 253 | [Sheltered](games/s/sheltered.md) | 274 | 4.41 | 700 |
+| 254 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 270 | 4.84 | 49 |
 | 254 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 270 | 4.61 | 378 |
-| 255 | [MudRunner](games/m/mudrunner.md) | 269 | 4.61 | 378 |
-| 255 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 269 | 4.84 | 49 |
+| 256 | [MudRunner](games/m/mudrunner.md) | 269 | 4.61 | 378 |
 | 257 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 266 | 4.50 | 574 |
 | 258 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 262 | 4.58 | 439 |
 | 259 | [Roller Champions™](games/r/roller_champions™.md) | 260 | 4.34 | 785 |
