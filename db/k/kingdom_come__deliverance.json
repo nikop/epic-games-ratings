@@ -7935,9 +7935,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 805259,
+  "EOS_Progressed": 805261,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 774,
+  "EOS_NewPlayers": 776,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -28235,6 +28235,11 @@
       "Time": "2023-10-19T02:21:35.9178332+00:00",
       "NumProgressed": 805259,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-19T03:04:49.9809876+00:00",
+      "NumProgressed": 805261,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -28270,7 +28275,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 128841
+      "UsersEstimate": 128842
     },
     {
       "ID": "Awakening",
@@ -28278,7 +28283,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 169104
+      "UsersEstimate": 169105
     },
     {
       "ID": "BadGirl",
@@ -28326,7 +28331,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 257683
+      "UsersEstimate": 257684
     },
     {
       "ID": "Bookworm",
@@ -28782,7 +28787,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 88578
+      "UsersEstimate": 88579
     },
     {
       "ID": "Sniper",
@@ -28854,7 +28859,7 @@
       "Name": "Traveller",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 88578
+      "UsersEstimate": 88579
     },
     {
       "ID": "TrialAndError",
@@ -28901,15 +28906,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 805259,
+      "Progressed": 805261,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-10-18T19:58:48.6166036+00:00",
-  "LastChanged_Achievements": "2023-10-19T02:21:35.9178324+00:00",
+  "LastChanged_Achievements": "2023-10-19T03:04:49.980987+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:13.6850555+00:00",
-  "LastUpdate_Ratings": "2023-10-19T02:15:18.5956421+00:00",
-  "LastUpdate_Achievements": "2023-10-19T02:21:35.9180454+00:00"
+  "LastUpdate_Ratings": "2023-10-19T02:58:30.5064835+00:00",
+  "LastUpdate_Achievements": "2023-10-19T03:04:49.9812315+00:00"
 }

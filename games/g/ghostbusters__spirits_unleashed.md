@@ -28,8 +28,8 @@ Rating: 4.50 (Ranked 575)
 | There you are! | 1.00% | ~266 |
 | Welcome to the Crew | 1.00% | ~266 |
 | Whoopsie | 1.00% | ~266 |
+| Side Hustle | 0.90% | ~239 |
 | Summoner | 0.90% | ~239 |
-| Side Hustle | 0.80% | ~213 |
 | Skilled | 0.80% | ~213 |
 | Stunner | 0.80% | ~213 |
 | Legions | 0.70% | ~186 |

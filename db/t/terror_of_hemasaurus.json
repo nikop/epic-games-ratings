@@ -4,8 +4,8 @@
   "ProductSlug": "terror-of-hemasaurus-a08800",
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 100,
-  "Ranking_EOS_NewPlayers": 402,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-10-17T17:00:00+00:00",
     "PcReleaseDate": "2022-10-17T17:00:00+00:00",
@@ -518,8 +518,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.2122868+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.8436935+00:00",
   "LastChanged": "2023-03-31T05:57:37.2122869+00:00",
-  "LastChanged_Achievements": "2023-10-19T02:21:45.758583+00:00",
+  "LastChanged_Achievements": "2023-10-19T03:04:57.9575018+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:06.3340781+00:00",
-  "LastUpdate_Ratings": "2023-10-19T02:15:21.363478+00:00",
-  "LastUpdate_Achievements": "2023-10-19T02:21:45.7586041+00:00"
+  "LastUpdate_Ratings": "2023-10-19T02:58:33.1159423+00:00",
+  "LastUpdate_Achievements": "2023-10-19T03:04:57.9575247+00:00"
 }

@@ -25,11 +25,11 @@ Rating: 4.85 (Ranked 42)
 | Time to pay up! | 8.00% | ~332 |
 | Out in a puff of smoke | 8.00% | ~332 |
 | I look cool. But I can look COOLER. | 8.00% | ~332 |
+| NOW we got a kickass hideout! | 8.00% | ~214 |
 | Who's the boss now? | 7.00% | ~291 |
 | You must like calling me in, Chai | 7.00% | ~291 |
 | Perfecter Parry-er! | 7.00% | ~291 |
 | Does that say weakpoint? | 7.00% | ~291 |
-| NOW we got a kickass hideout! | 7.00% | ~187 |
 | I have to read these things? | 6.00% | ~249 |
 | Well that was a rush! | 5.00% | ~208 |
 | That's a lot of junk metal… | 5.00% | ~208 |

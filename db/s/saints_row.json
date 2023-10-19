@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 97,
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
     "PcReleaseDate": "2022-08-23T07:00:00+00:00",
@@ -3855,9 +3855,9 @@
       "Count": 1070
     }
   ],
-  "EOS_Progressed": 75443,
+  "EOS_Progressed": 75444,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 786,
+  "EOS_NewPlayers": 785,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -24290,6 +24290,11 @@
       "Time": "2023-10-19T02:21:16.8652066+00:00",
       "NumProgressed": 75443,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-19T03:04:34.0681269+00:00",
+      "NumProgressed": 75444,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -24397,7 +24402,7 @@
       "Name": "The Side Job",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 23387
+      "UsersEstimate": 23388
     },
     {
       "ID": "complete_first_wanted_mission",
@@ -24421,7 +24426,7 @@
       "Name": "Tune Up",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 24896
+      "UsersEstimate": 24897
     },
     {
       "ID": "customize_a_weapon",
@@ -24549,7 +24554,7 @@
       "Name": "Performance Review",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 27159
+      "UsersEstimate": 27160
     },
     {
       "ID": "hit_max_level",
@@ -24613,7 +24618,7 @@
       "Name": "Closet Space",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6035
+      "UsersEstimate": 6036
     },
     {
       "ID": "prank_coop_partner",
@@ -24724,13 +24729,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 75443,
+      "Progressed": 75444,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 47080,
+      "Progressed": 47081,
       "Completed": 4134
     }
   ],
@@ -24738,8 +24743,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-10-18T15:59:18.1995048+00:00",
-  "LastChanged_Achievements": "2023-10-19T02:21:16.8652058+00:00",
+  "LastChanged_Achievements": "2023-10-19T03:04:34.0681265+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:20.7071116+00:00",
-  "LastUpdate_Ratings": "2023-10-19T02:15:56.7756892+00:00",
-  "LastUpdate_Achievements": "2023-10-19T02:21:16.8653994+00:00"
+  "LastUpdate_Ratings": "2023-10-19T02:59:04.0573182+00:00",
+  "LastUpdate_Achievements": "2023-10-19T03:04:34.0683261+00:00"
 }

@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Throwing up Tags | 93.00% | ~6,432 |
-| Cool Whip | 90.00% | ~6,224 |
-| Fashion Killa | 89.00% | ~6,155 |
-| Drop the Beat | 86.00% | ~5,948 |
+| Throwing up Tags | 93.00% | ~6,433 |
+| Cool Whip | 90.00% | ~6,225 |
+| Fashion Killa | 89.00% | ~6,156 |
+| Drop the Beat | 86.00% | ~5,949 |
 | Hey Lakeshore | 85.00% | ~5,879 |
-| 100 Miles and Runnin' | 84.00% | ~5,809 |
-| Public Enemy | 83.00% | ~5,740 |
-| Rebel Without a Pause | 68.00% | ~4,703 |
-| Hey Speedie! | 68.00% | ~4,703 |
-| Most Wanted | 65.00% | ~4,495 |
-| New Crew | 63.00% | ~4,357 |
+| 100 Miles and Runnin' | 84.00% | ~5,810 |
+| Public Enemy | 83.00% | ~5,741 |
+| Rebel Without a Pause | 68.00% | ~4,704 |
+| Hey Speedie! | 68.00% | ~4,704 |
+| Most Wanted | 65.00% | ~4,496 |
+| New Crew | 63.00% | ~4,358 |
 | Escape Artist | 55.00% | ~3,804 |
 | Serious Guap | 54.00% | ~3,735 |
 | Style it Out | 54.00% | ~3,735 |
 | Untouchable | 54.00% | ~3,735 |
-| Oh, It's On | 51.00% | ~3,527 |
+| Oh, It's On | 51.00% | ~3,528 |
 | Rydell's Rydes | 49.00% | ~3,389 |
 | Cash Money Millionaire | 47.00% | ~3,251 |
-| Lake Better Watch Out | 40.00% | ~2,766 |
+| Lake Better Watch Out | 40.00% | ~2,767 |
 | Access All Areas | 35.00% | ~2,421 |
-| #Blessed | 34.00% | ~2,351 |
+| #Blessed | 34.00% | ~2,352 |
 | Kick it | 32.00% | ~2,213 |
 | Found Family | 31.00% | ~2,144 |
 | The Collector | 30.00% | ~2,075 |
@@ -41,12 +41,12 @@
 | The Bear Champ | 5.00% | ~346 |
 | Adbusting | 5.00% | ~346 |
 | Caught On Camera | 4.00% | ~277 |
-| In The Zone | 3.00% | ~207 |
-| Frequent Flyer | 3.00% | ~207 |
-| Catch My Drift | 3.00% | ~207 |
+| In The Zone | 3.00% | ~208 |
+| Frequent Flyer | 3.00% | ~208 |
+| Catch My Drift | 3.00% | ~208 |
 | Cleaning Up | 2.00% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,916 (Ranked 161)  
+Progressed: 6,917 (Ranked 161)  
 Completed: 41 (0.59%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,4 +80,4 @@ Completed: 41 (0.59%) (Ranked 167)
 | 2023-10-16 | 6,742 | 40 |
 | 2023-10-17 | 6,825 | 41 |
 | 2023-10-18 | 6,910 | 41 |
-| 2023-10-19 | 6,916 | 41 |
+| 2023-10-19 | 6,917 | 41 |

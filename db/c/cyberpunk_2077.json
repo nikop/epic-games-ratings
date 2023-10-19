@@ -13796,9 +13796,9 @@
       "Count": 10733
     }
   ],
-  "EOS_Progressed": 892617,
+  "EOS_Progressed": 892619,
   "EOS_Completed": 2683,
-  "EOS_NewPlayers": 1577,
+  "EOS_NewPlayers": 1575,
   "EOS_NewCompleters": 42,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -34336,6 +34336,11 @@
       "Time": "2023-10-19T02:20:56.3161719+00:00",
       "NumProgressed": 892617,
       "NumCompleted": 2683
+    },
+    {
+      "Time": "2023-10-19T03:04:16.9512084+00:00",
+      "NumProgressed": 892619,
+      "NumCompleted": 2683
     }
   ],
   "TotalAchievements": 57,
@@ -34363,7 +34368,7 @@
       "Name": "Bushido and Chill",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 169597
+      "UsersEstimate": 169598
     },
     {
       "ID": "Cyberjunkie",
@@ -34371,7 +34376,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 214228
+      "UsersEstimate": 214229
     },
     {
       "ID": "Denied",
@@ -34379,7 +34384,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 401678
+      "UsersEstimate": 401679
     },
     {
       "ID": "FollowingTheRiver",
@@ -34467,7 +34472,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 232080
+      "UsersEstimate": 232081
     },
     {
       "ID": "MaxPain",
@@ -34491,7 +34496,7 @@
       "Name": "Breathtaking",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 124966
+      "UsersEstimate": 124967
     },
     {
       "ID": "NoMansLand",
@@ -34563,7 +34568,7 @@
       "Name": "The Fool",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 633758
+      "UsersEstimate": 633759
     },
     {
       "ID": "TheHermit",
@@ -34571,7 +34576,7 @@
       "Name": "The Hermit",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 267785
+      "UsersEstimate": 267786
     },
     {
       "ID": "TheHightPriestess",
@@ -34579,7 +34584,7 @@
       "Name": "The High Priestess",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 267785
+      "UsersEstimate": 267786
     },
     {
       "ID": "TheLovers",
@@ -34595,7 +34600,7 @@
       "Name": "The Star",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 71409
+      "UsersEstimate": 71410
     },
     {
       "ID": "TheSun",
@@ -34603,7 +34608,7 @@
       "Name": "The Sun",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 71409
+      "UsersEstimate": 71410
     },
     {
       "ID": "TheWheelOfFortune",
@@ -34643,7 +34648,7 @@
       "Name": "True Soldier",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 258859
+      "UsersEstimate": 258860
     },
     {
       "ID": "TrueWarrior",
@@ -34651,7 +34656,7 @@
       "Name": "True Warrior",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 178523
+      "UsersEstimate": 178524
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -34802,21 +34807,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 892617,
+      "Progressed": 892619,
       "Completed": 2683
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 21240,
+      "Progressed": 21242,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-19T01:40:34.3473027+00:00",
-  "LastChanged_Achievements": "2023-10-19T02:20:56.3161716+00:00",
+  "LastChanged_Achievements": "2023-10-19T03:04:16.9512078+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:37.5483976+00:00",
-  "LastUpdate_Ratings": "2023-10-19T02:14:23.5562226+00:00",
-  "LastUpdate_Achievements": "2023-10-19T02:20:56.316324+00:00"
+  "LastUpdate_Ratings": "2023-10-19T02:57:45.4602775+00:00",
+  "LastUpdate_Achievements": "2023-10-19T03:04:16.9514483+00:00"
 }

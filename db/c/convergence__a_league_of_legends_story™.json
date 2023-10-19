@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 313,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 906,
+  "EOS_Progressed": 907,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -2349,6 +2349,11 @@
       "Time": "2023-10-16T22:12:36.3027702+00:00",
       "NumProgressed": 906,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-19T03:09:30.0591005+00:00",
+      "NumProgressed": 907,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -2400,7 +2405,7 @@
       "Name": "Corin Goes Home",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ClockworkProgress1",
@@ -2424,7 +2429,7 @@
       "Name": "Sartorialist",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "CosmeticProgress1",
@@ -2448,7 +2453,7 @@
       "Name": "Entresol Explorer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ExamineFamilyPortrait",
@@ -2478,9 +2483,9 @@
       "ID": "FutureEkko1Defeated",
       "SetID": "a9e499d",
       "Name": "The Mysterious Stranger",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 226
+      "UsersEstimate": 218
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -2520,7 +2525,7 @@
       "Name": "Rail Rat",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "HexlockGift",
@@ -2736,7 +2741,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "WarwickDefeated",
@@ -2783,7 +2788,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 906,
+      "Progressed": 907,
       "Completed": 5
     }
   ],
@@ -2791,8 +2796,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-10-19T02:26:14.228682+00:00",
+  "LastChanged_Achievements": "2023-10-19T03:09:30.0591002+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:58.9588664+00:00",
-  "LastUpdate_Ratings": "2023-10-19T02:17:07.9730371+00:00",
-  "LastUpdate_Achievements": "2023-10-19T02:26:14.2287419+00:00"
+  "LastUpdate_Ratings": "2023-10-19T02:59:55.2915497+00:00",
+  "LastUpdate_Achievements": "2023-10-19T03:09:30.0591939+00:00"
 }

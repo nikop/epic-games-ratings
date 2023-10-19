@@ -28,9 +28,9 @@
 | The Woman and the Pizzeria | 18.00% | ~14 |
 | West Residence Energy | 16.00% | ~12 |
 | The Painter and the Lights | 16.00% | ~12 |
+| West Residence Lightbulbs | 14.00% | ~11 |
 | Riddle Master | 14.00% | ~11 |
 | At your service | 13.00% | ~10 |
-| West Residence Lightbulbs | 13.00% | ~10 |
 | Out of service | 11.00% | ~8 |
 | East Street Lightbulbs | 11.00% | ~8 |
 | Lightbulb Master | 8.00% | ~6 |
