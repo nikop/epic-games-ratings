@@ -3,8 +3,8 @@
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 66.67% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.58% |
-| 4 | [The Riflemen](games/t/the_riflemen.md) | 47.40% |
-| 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.89% |
+| 4 | [The Riflemen](games/t/the_riflemen.md) | 47.38% |
+| 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.91% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 33.04% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -49,7 +49,7 @@
 | 47 | [Sonic Origins](games/s/sonic_origins.md) | 7.43% |
 | 48 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.33% |
 | 49 | [Time Loader](games/t/time_loader.md) | 7.20% |
-| 50 | [Scorn](games/s/scorn.md) | 7.03% |
+| 50 | [Scorn](games/s/scorn.md) | 7.02% |
 | 51 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.56% |
 | 52 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.38% |
 | 53 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.29% |
@@ -76,7 +76,7 @@
 | 74 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.00% |
 | 75 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.81% |
 | 76 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
-| 77 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.59% |
+| 77 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.58% |
 | 78 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.57% |
 | 78 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
 | 80 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
@@ -112,8 +112,8 @@
 | 110 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.22% |
 | 111 | [Bloodshore](games/b/bloodshore.md) | 2.12% |
 | 112 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.97% |
-| 112 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.97% |
-| 114 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.96% |
+| 113 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.96% |
+| 113 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.96% |
 | 115 | [Night Book](games/n/night_book.md) | 1.84% |
 | 115 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 117 | [Sifu](games/s/sifu.md) | 1.81% |
@@ -148,9 +148,9 @@
 | 146 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.02% |
 | 147 | [Sable](games/s/sable.md) | 1.01% |
 | 148 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.99% |
-| 149 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.97% |
-| 150 | [A Musical Story](games/a/a_musical_story.md) | 0.96% |
-| 150 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.96% |
+| 149 | [A Musical Story](games/a/a_musical_story.md) | 0.96% |
+| 149 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.96% |
+| 149 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.96% |
 | 152 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.91% |
 | 152 | [Hades](games/h/hades.md) | 0.91% |
 | 154 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.85% |
@@ -213,7 +213,7 @@
 | 210 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.29% |
 | 212 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.27% |
 | 212 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.27% |
-| 212 | [The Devil's Face](games/t/the_devil's_face.md) | 0.27% |
+| 214 | [The Devil's Face](games/t/the_devil's_face.md) | 0.26% |
 | 215 | [Filament](games/f/filament.md) | 0.25% |
 | 216 | [Aegis Descent](games/a/aegis_descent.md) | 0.24% |
 | 216 | [Scrapnaut](games/s/scrapnaut.md) | 0.24% |
