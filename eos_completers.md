@@ -71,7 +71,7 @@
 | 69 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.43% |
 | 70 | [The Bunker](games/t/the_bunker.md) | 4.20% |
 | 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.14% |
-| 72 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.13% |
+| 72 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.12% |
 | 73 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.08% |
 | 74 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.00% |
 | 75 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
@@ -185,8 +185,8 @@
 | 181 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
 | 181 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.46% |
 | 185 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.45% |
-| 185 | [Them and Us](games/t/them_and_us.md) | 0.45% |
-| 187 | [It Takes Two](games/i/it_takes_two.md) | 0.44% |
+| 186 | [It Takes Two](games/i/it_takes_two.md) | 0.44% |
+| 186 | [Them and Us](games/t/them_and_us.md) | 0.44% |
 | 188 | [Tchia](games/t/tchia.md) | 0.43% |
 | 189 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.42% |
 | 189 | [Wildermyth](games/w/wildermyth.md) | 0.42% |

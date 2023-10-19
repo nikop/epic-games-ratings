@@ -14,7 +14,7 @@
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 46,997 | 4.61 | 378 |
 | 13 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 39,978 | 4.74 | 151 |
 | 14 | [Destiny 2](games/d/destiny_2.md) | 38,476 | 4.49 | 593 |
-| 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 34,059 | 4.51 | 553 |
+| 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 34,176 | 4.51 | 553 |
 | 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 29,046 | 4.64 | 324 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 23,644 | 4.76 | 119 |
 | 18 | [Dauntless](games/d/dauntless.md) | 22,873 | 4.53 | 528 |
@@ -31,11 +31,11 @@
 | 29 | [Maneater](games/m/maneater.md) | 13,735 | 4.49 | 593 |
 | 30 | [Killing Floor 2](games/k/killing_floor_2.md) | 13,291 | 4.43 | 675 |
 | 31 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,714 | 4.36 | 762 |
-| 32 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 12,661 | 4.86 | 28 |
+| 32 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 12,672 | 4.86 | 28 |
 | 33 | [Satisfactory](games/s/satisfactory.md) | 12,062 | 4.88 | 16 |
 | 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 11,948 | 4.45 | 648 |
 | 35 | [NBA 2K21](games/n/nba_2k21.md) | 11,771 | 4.39 | 731 |
-| 36 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,519 | 4.69 | 224 |
+| 36 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,524 | 4.69 | 224 |
 | 37 | [SnowRunner](games/s/snowrunner.md) | 11,369 | 4.76 | 119 |
 | 38 | [HITMAN World of Assassination](games/h/hitman_3.md) | 10,352 | 4.78 | 99 |
 | 39 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 10,271 | 4.61 | 378 |
@@ -58,7 +58,7 @@
 | 56 | [Dead Island 2](games/d/dead_island_2.md) | 6,500 | 4.54 | 514 |
 | 57 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,462 | 4.80 | 82 |
 | 58 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,447 | 4.58 | 439 |
-| 59 | [Bloons TD 6](games/b/bloons_td_6.md) | 6,364 | 4.77 | 112 |
+| 59 | [Bloons TD 6](games/b/bloons_td_6.md) | 6,400 | 4.77 | 112 |
 | 60 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 6,269 | 4.75 | 139 |
 | 61 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,051 | 4.79 | 92 |
 | 62 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,983 | 4.64 | 324 |
@@ -123,14 +123,14 @@
 | 121 | [Celeste](games/c/celeste.md) | 1,658 | 4.92 | 4 |
 | 122 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 1,585 | 4.78 | 99 |
 | 123 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,563 | 4.55 | 495 |
-| 124 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,554 | 4.62 | 354 |
+| 124 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,556 | 4.62 | 354 |
 | 125 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,543 | 4.79 | 92 |
 | 126 | [Conan Exiles](games/c/conan_exiles.md) | 1,502 | 4.54 | 514 |
 | 127 | [Ring of Pain](games/r/ring_of_pain.md) | 1,498 | 4.58 | 439 |
 | 127 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,498 | 4.86 | 28 |
 | 129 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,479 | 4.53 | 528 |
 | 130 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,466 | 4.87 | 22 |
-| 131 | [World of Warships](games/w/world_of_warships.md) | 1,427 | 4.41 | 700 |
+| 131 | [World of Warships](games/w/world_of_warships.md) | 1,431 | 4.41 | 700 |
 | 132 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,331 | 4.70 | 207 |
 | 133 | [XCOM® 2](games/x/xcom®_2.md) | 1,313 | 4.55 | 495 |
 | 134 | [The Sims™ 4](games/t/the_sims™_4.md) | 1,304 | 4.63 | 339 |
@@ -186,8 +186,8 @@
 | 184 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 676 | 4.67 | 264 |
 | 185 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 675 | 4.73 | 166 |
 | 186 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 648 | 4.50 | 575 |
-| 187 | [Dark Deity](games/d/dark_deity.md) | 618 | 4.16 | 914 |
-| 188 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 617 | 4.73 | 166 |
+| 187 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 620 | 4.73 | 166 |
+| 188 | [Dark Deity](games/d/dark_deity.md) | 618 | 4.16 | 914 |
 | 189 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 615 | 4.63 | 339 |
 | 190 | [Star Trek Online](games/s/star_trek_online.md) | 592 | 4.44 | 659 |
 | 191 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 589 | 4.39 | 731 |

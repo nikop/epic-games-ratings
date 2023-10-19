@@ -32,7 +32,7 @@
 | 28 | [Blasphemous](games/b/blasphemous.md) | 4.86 | 157 | 304 |
 | 28 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 39 | 443 |
 | 28 | [Inscryption](games/i/inscryption.md) | 4.86 | 340 | 234 |
-| 28 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.86 | 12,661 | 32 |
+| 28 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.86 | 12,672 | 32 |
 | 28 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 97 | 351 |
 | 28 | [Rayman Origins](games/r/rayman_origins.md) | 4.86 | 28 | 486 |
 | 28 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 158 | 303 |
@@ -111,7 +111,7 @@
 | 99 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 956 | 153 |
 | 99 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 539 |
 | 99 | [Wildermyth](games/w/wildermyth.md) | 4.78 | 28 | 486 |
-| 112 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 6,364 | 59 |
+| 112 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 6,400 | 59 |
 | 112 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 7,542 | 49 |
 | 112 | [Outlast](games/o/outlast.md) | 4.77 | 0 | 539 |
 | 112 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 0 | 539 |
@@ -169,7 +169,7 @@
 | 166 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.73 | 0 | 539 |
 | 166 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 45 | 429 |
 | 166 | [Fez](games/f/fez.md) | 4.73 | 23 | 517 |
-| 166 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 617 | 188 |
+| 166 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 620 | 187 |
 | 166 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.73 | 0 | 539 |
 | 166 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 0 | 539 |
 | 166 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 4.73 | 0 | 539 |
@@ -233,7 +233,7 @@
 | 224 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 539 |
 | 224 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 0 | 539 |
 | 224 | [Revita](games/r/revita.md) | 4.69 | 0 | 539 |
-| 224 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,519 | 36 |
+| 224 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,524 | 36 |
 | 224 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 348 | 233 |
 | 224 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 27 | 495 |
 | 224 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.69 | 0 | 539 |
@@ -359,7 +359,7 @@
 | 354 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 282 | 249 |
 | 354 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 34 | 464 |
 | 354 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 88 | 364 |
-| 354 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,554 | 124 |
+| 354 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,556 | 124 |
 | 354 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.62 | 0 | 539 |
 | 354 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 29 | 479 |
 | 354 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.62 | 38 | 446 |
@@ -557,7 +557,7 @@
 | 553 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,139 | 82 |
 | 553 | [CryoFall](games/c/cryofall.md) | 4.51 | 0 | 539 |
 | 553 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 0 | 539 |
-| 553 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.51 | 34,059 | 15 |
+| 553 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.51 | 34,176 | 15 |
 | 553 | [Duskers](games/d/duskers.md) | 4.51 | 0 | 539 |
 | 553 | [Fall Guys](games/f/fall_guys.md) | 4.51 | 150,247 | 7 |
 | 553 | [Far Cry](games/f/far_cry.md) | 4.51 | 29 | 479 |
@@ -722,7 +722,7 @@
 | 700 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 4.41 | 0 | 539 |
 | 700 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.41 | 115 | 332 |
 | 700 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.41 | 0 | 539 |
-| 700 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 1,427 | 131 |
+| 700 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 1,431 | 131 |
 | 724 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.40 | 0 | 539 |
 | 724 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 1,042 | 144 |
 | 724 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.40 | 0 | 539 |
@@ -914,7 +914,7 @@
 | 909 | [SYNCED](games/s/synced.md) | 4.17 | 74 | 383 |
 | 909 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 0 | 539 |
 | 914 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 0 | 539 |
-| 914 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 618 | 187 |
+| 914 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 618 | 188 |
 | 914 | [Family Man](games/f/family_man.md) | 4.16 | 0 | 539 |
 | 914 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 4.16 | 0 | 539 |
 | 914 | [Space Punks](games/s/space_punks.md) | 4.16 | 176 | 290 |
