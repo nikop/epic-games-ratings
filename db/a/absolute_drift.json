@@ -2,7 +2,7 @@
   "ID": "9d2f484bbec64aa8ad234b3199dcaf1c",
   "Name": "Absolute Drift",
   "ProductSlug": "absolute-drift",
-  "Ranking_Rating": 701,
+  "Ranking_Rating": 702,
   "Ranking_Popularity": 538,
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 7,
@@ -457,9 +457,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1545899,
+  "EOS_Progressed": 1545903,
   "EOS_Completed": 706,
-  "EOS_NewPlayers": 1121,
+  "EOS_NewPlayers": 1119,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -21102,6 +21102,11 @@
       "Time": "2023-10-19T22:04:58.7569352+00:00",
       "NumProgressed": 1545899,
       "NumCompleted": 706
+    },
+    {
+      "Time": "2023-10-19T23:05:30.6502857+00:00",
+      "NumProgressed": 1545903,
+      "NumCompleted": 706
     }
   ],
   "TotalAchievements": 20,
@@ -21137,7 +21142,7 @@
       "Name": "Double Rainbow",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 7729
+      "UsersEstimate": 7730
     },
     {
       "ID": "ACH_DRIFT_LINE_APPRENTICE",
@@ -21272,15 +21277,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1545899,
+      "Progressed": 1545903,
       "Completed": 706
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-09-25T13:05:51.0685533+00:00",
-  "LastChanged_Achievements": "2023-10-19T22:04:58.7569346+00:00",
+  "LastChanged_Achievements": "2023-10-19T23:05:30.6502852+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:37.6128187+00:00",
-  "LastUpdate_Ratings": "2023-10-19T21:59:45.4983265+00:00",
-  "LastUpdate_Achievements": "2023-10-19T22:04:58.7570892+00:00"
+  "LastUpdate_Ratings": "2023-10-19T23:00:15.0481417+00:00",
+  "LastUpdate_Achievements": "2023-10-19T23:05:30.6504202+00:00"
 }

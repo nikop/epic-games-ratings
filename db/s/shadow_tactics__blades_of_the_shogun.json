@@ -1712,10 +1712,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 4795,
       "NumberOfAwardsMax": 567
+    },
+    {
+      "Time": "2023-10-19T22:58:20.8780658+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 4796,
+      "NumberOfAwardsMax": 567
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4795,
+  "NumberOfAwards": 4796,
   "NumberOfAwardsMax": 567,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1759,7 +1765,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 534
+      "Count": 535
     },
     {
       "Text": "This game has Unique Visuals",
@@ -1786,9 +1792,9 @@
       "Count": 250
     }
   ],
-  "EOS_Progressed": 208717,
+  "EOS_Progressed": 208723,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 1212,
+  "EOS_NewPlayers": 1214,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -22521,6 +22527,11 @@
       "Time": "2023-10-19T22:03:58.3315141+00:00",
       "NumProgressed": 208717,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-10-19T23:04:20.1651627+00:00",
+      "NumProgressed": 208723,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 44,
@@ -22604,7 +22615,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 25046
+      "UsersEstimate": 25047
     },
     {
       "ID": "HappyLittleAccidents",
@@ -22620,7 +22631,7 @@
       "Name": "Happy Planning",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 14610
+      "UsersEstimate": 14611
     },
     {
       "ID": "HighFiveTheMoon",
@@ -22636,7 +22647,7 @@
       "Name": "Ice Ice Yuki",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 14610
+      "UsersEstimate": 14611
     },
     {
       "ID": "ItsRainingMen",
@@ -22652,7 +22663,7 @@
       "Name": "Jonin",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 14610
+      "UsersEstimate": 14611
     },
     {
       "ID": "Mercyful",
@@ -22748,7 +22759,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16697
+      "UsersEstimate": 16698
     },
     {
       "ID": "Rollin",
@@ -22780,7 +22791,7 @@
       "Name": "Stoned Ox",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 14610
+      "UsersEstimate": 14611
     },
     {
       "ID": "TanukiTime",
@@ -22788,7 +22799,7 @@
       "Name": "Tanuki Time",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16697
+      "UsersEstimate": 16698
     },
     {
       "ID": "TheCave",
@@ -22860,7 +22871,7 @@
       "Name": "When Cut Across the Neck",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 1878
+      "UsersEstimate": 1879
     },
     {
       "ID": "WinnerWinner",
@@ -22876,22 +22887,22 @@
       "Name": "Yabu",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 14610
+      "UsersEstimate": 14611
     }
   ],
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 208717,
+      "Progressed": 208723,
       "Completed": 91
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
-  "LastChanged": "2023-10-19T10:57:58.6859295+00:00",
-  "LastChanged_Achievements": "2023-10-19T22:03:58.3315135+00:00",
+  "LastChanged": "2023-10-19T22:58:20.8780655+00:00",
+  "LastChanged_Achievements": "2023-10-19T23:04:20.165162+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:42.5631083+00:00",
-  "LastUpdate_Ratings": "2023-10-19T21:58:08.8853881+00:00",
-  "LastUpdate_Achievements": "2023-10-19T22:03:58.3316844+00:00"
+  "LastUpdate_Ratings": "2023-10-19T22:58:20.8780662+00:00",
+  "LastUpdate_Achievements": "2023-10-19T23:04:20.1653761+00:00"
 }

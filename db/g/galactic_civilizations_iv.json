@@ -915,9 +915,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 6877,
+  "EOS_Progressed": 6878,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7170,6 +7170,11 @@
       "Time": "2023-10-19T22:06:09.0104659+00:00",
       "NumProgressed": 6877,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-19T23:06:52.1834864+00:00",
+      "NumProgressed": 6878,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -7285,7 +7290,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5364
+      "UsersEstimate": 5365
     },
     {
       "ID": "First_Race_Met",
@@ -7293,7 +7298,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 5020
+      "UsersEstimate": 5021
     },
     {
       "ID": "First_Ship_Designed",
@@ -7317,7 +7322,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5364
+      "UsersEstimate": 5365
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -7397,7 +7402,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2338
+      "UsersEstimate": 2339
     },
     {
       "ID": "Play_1000_Hours",
@@ -7485,7 +7490,7 @@
       "Name": "Commodity Seller",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1719
+      "UsersEstimate": 1720
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
@@ -7501,7 +7506,7 @@
       "Name": "Unleash My Power",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4195
+      "UsersEstimate": 4196
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -7517,7 +7522,7 @@
       "Name": "Galactic War",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "War_Without_Translator",
@@ -7756,15 +7761,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6877,
+      "Progressed": 6878,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-10-19T22:06:09.0104654+00:00",
+  "LastChanged_Achievements": "2023-10-19T23:06:52.1834856+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:21.0832103+00:00",
-  "LastUpdate_Ratings": "2023-10-19T21:58:47.89694+00:00",
-  "LastUpdate_Achievements": "2023-10-19T22:06:09.0105857+00:00"
+  "LastUpdate_Ratings": "2023-10-19T22:59:04.9344477+00:00",
+  "LastUpdate_Achievements": "2023-10-19T23:06:52.1836362+00:00"
 }

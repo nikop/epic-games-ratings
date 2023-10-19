@@ -11,9 +11,9 @@
 | Grew Bigger | 44.00% | ~22 |
 | Coffee Thermos | 42.00% | ~21 |
 | Yippee Ki-yay | 40.00% | ~20 |
+| Ready for a Fight | 38.00% | ~19 |
 | Lights Shining | 38.00% | ~19 |
-| Ready for a Fight | 36.00% | ~18 |
-| Greatest Hits | 34.00% | ~17 |
+| Greatest Hits | 36.00% | ~18 |
 | Darkness Coiled | 30.00% | ~15 |
 | The Other Side | 28.00% | ~14 |
 | All Accounted For | 26.00% | ~13 |

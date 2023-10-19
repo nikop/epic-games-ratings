@@ -2,9 +2,9 @@
   "ID": "e966687f61fa4c40b1e53b45b6e4eb75",
   "Name": "Five Dates",
   "ProductSlug": "five-dates-60ef51",
-  "Ranking_EOS_Progress": 268,
+  "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 567,
+  "EOS_Progressed": 568,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.59,
+  "EOS_Completed_Percentage": 1.58,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:09.144074+00:00",
@@ -1185,6 +1185,11 @@
       "Time": "2023-10-19T13:13:04.175822+00:00",
       "NumProgressed": 567,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-19T23:06:40.5444007+00:00",
+      "NumProgressed": 568,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 15,
@@ -1196,7 +1201,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "booty_call",
@@ -1220,15 +1225,15 @@
       "Name": "Digital Casanova",
       "Percentage": 97,
       "XP": 50,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "hold_my_beer",
       "SetID": "c4ipj3h",
       "Name": "Hold my Beer",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 25,
-      "UsersEstimate": 374
+      "UsersEstimate": 369
     },
     {
       "ID": "in_contempt_of_duvet",
@@ -1276,7 +1281,7 @@
       "Name": "Only Thyme Will Tell",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "planting_the_seed",
@@ -1284,7 +1289,7 @@
       "Name": "Planting the Seed",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "smooth_criminal",
@@ -1308,14 +1313,14 @@
       "Name": "We Go Again",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     }
   ],
   "AchievementSets": [
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 567,
+      "Progressed": 568,
       "Completed": 9
     }
   ],
@@ -1323,8 +1328,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-10-19T22:05:58.9360352+00:00",
+  "LastChanged_Achievements": "2023-10-19T23:06:40.5443998+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:54.2224534+00:00",
-  "LastUpdate_Ratings": "2023-10-19T21:58:36.5594797+00:00",
-  "LastUpdate_Achievements": "2023-10-19T22:05:58.9360633+00:00"
+  "LastUpdate_Ratings": "2023-10-19T22:58:52.5636573+00:00",
+  "LastUpdate_Achievements": "2023-10-19T23:06:40.5444171+00:00"
 }

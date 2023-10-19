@@ -169,17 +169,17 @@
       "ID": "14",
       "SetID": "b5e4c1b",
       "Name": "Ready for a Fight",
-      "Percentage": 36,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "15",
       "SetID": "b5e4c1b",
       "Name": "Greatest Hits",
-      "Percentage": 34,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "16",
@@ -666,8 +666,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.7516471+00:00",
   "FirstSeenAchievements": "2023-08-28T13:10:00.1421232+00:00",
   "LastChanged": "2023-03-31T05:57:50.7516472+00:00",
-  "LastChanged_Achievements": "2023-10-19T22:09:39.9672181+00:00",
+  "LastChanged_Achievements": "2023-10-19T23:09:52.0641259+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:09.1997352+00:00",
-  "LastUpdate_Ratings": "2023-10-19T21:58:56.675411+00:00",
-  "LastUpdate_Achievements": "2023-10-19T22:09:39.9672888+00:00"
+  "LastUpdate_Ratings": "2023-10-19T22:59:15.5863014+00:00",
+  "LastUpdate_Achievements": "2023-10-19T23:09:52.0641808+00:00"
 }

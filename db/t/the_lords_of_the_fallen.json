@@ -2,9 +2,9 @@
   "ID": "f2d5f78997994c9891b8f23d962be28e",
   "Name": "Lords of the Fallen",
   "ProductSlug": "lords-of-the-fallen",
-  "Ranking_Rating": 874,
-  "Ranking_Popularity": 455,
-  "Ranking_PopularitySum": 486,
+  "Ranking_Rating": 877,
+  "Ranking_Popularity": 437,
+  "Ranking_PopularitySum": 477,
   "Ranking_EOS_Progress": 683,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 407,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.22,
+  "Rating": 4.21,
   "RatingHistory": [
     {
       "Time": "2023-10-15T11:58:59.8898367+00:00",
@@ -91,18 +91,24 @@
       "Rating": 4.22,
       "NumberOfAwards": 35,
       "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2023-10-19T23:00:27.2258698+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 42,
+      "NumberOfAwardsMax": 42
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 35,
-  "NumberOfAwardsMax": 35,
+  "NumberOfAwards": 42,
+  "NumberOfAwardsMax": 42,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 35
+      "Count": 42
     }
   ],
   "EOS_Progressed": 0,
@@ -125,9 +131,9 @@
   "FirstSeen": "2023-10-13T16:58:40.9012964+00:00",
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
-  "LastChanged": "2023-10-19T16:00:04.1370256+00:00",
-  "LastChanged_Achievements": "2023-10-19T22:06:53.8309695+00:00",
+  "LastChanged": "2023-10-19T23:00:27.2258697+00:00",
+  "LastChanged_Achievements": "2023-10-19T23:08:05.4262837+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:45.6398242+00:00",
-  "LastUpdate_Ratings": "2023-10-19T21:59:55.7994192+00:00",
-  "LastUpdate_Achievements": "2023-10-19T22:06:53.830975+00:00"
+  "LastUpdate_Ratings": "2023-10-19T23:00:27.2258701+00:00",
+  "LastUpdate_Achievements": "2023-10-19T23:08:05.4262871+00:00"
 }

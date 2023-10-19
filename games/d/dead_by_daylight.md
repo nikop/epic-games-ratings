@@ -6,54 +6,54 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 3.00% | ~28,519 |
-| Medic | 2.00% | ~19,013 |
-| Handyman | 2.00% | ~19,013 |
-| Zealous | 2.00% | ~19,013 |
-| Not half bad | 2.00% | ~19,013 |
-| Apt Survivor | 2.00% | ~19,013 |
-| Survival Treasures | 2.00% | ~19,013 |
-| Skillful | 2.00% | ~19,013 |
-| Sorted | 2.00% | ~19,013 |
-| Resurgence | 2.00% | ~19,013 |
-| Make Some Noise | 2.00% | ~19,013 |
-| The Grand Sacrifice | 1.00% | ~9,506 |
-| Agonizing Escape | 1.00% | ~9,506 |
-| Backdoor Escape | 1.00% | ~9,506 |
-| I've got your back | 1.00% | ~9,506 |
-| No one left behind | 1.00% | ~9,506 |
-| Nerves of steel | 1.00% | ~9,506 |
-| Perfect Escape | 1.00% | ~9,506 |
-| Perfect Killing | 1.00% | ~9,506 |
-| Bloody Millionaire | 1.00% | ~9,506 |
-| Apt Killer | 1.00% | ~9,506 |
-| Risk it all | 1.00% | ~9,506 |
-| I | 1.00% | ~9,506 |
-| II | 1.00% | ~9,506 |
-| Engineer | 1.00% | ~9,506 |
-| Wounded Healer | 1.00% | ~9,506 |
-| Healthy Obsession | 1.00% | ~9,506 |
-| Close Shave | 1.00% | ~9,506 |
-| Preemptive Strike | 1.00% | ~9,506 |
-| Humanitarian | 1.00% | ~9,506 |
-| Vulture | 0.90% | ~8,556 |
-| III | 0.90% | ~8,556 |
-| Second Act | 0.90% | ~8,556 |
-| Escape Artist | 0.80% | ~7,605 |
-| First to the Punch | 0.80% | ~7,605 |
-| With Scars to Show | 0.80% | ~7,605 |
-| Rebuilding The Borgo | 0.80% | ~7,605 |
-| Blood on your hands | 0.70% | ~6,654 |
-| Made it out alive! | 0.70% | ~6,654 |
-| III-50 | 0.70% | ~6,654 |
-| Near-Death Experience | 0.70% | ~6,654 |
-| Cherish your Life | 0.70% | ~6,654 |
-| Every Last Drop | 0.70% | ~6,654 |
-| Raccoon City Recruit | 0.70% | ~6,654 |
-| Flight to Freedom | 0.70% | ~6,654 |
-| A Fast Death | 0.70% | ~6,654 |
-| Chorus of Chaos | 0.70% | ~6,654 |
-| One More Step | 0.70% | ~6,654 |
+| It wakes | 3.00% | ~28,522 |
+| Medic | 2.00% | ~19,015 |
+| Handyman | 2.00% | ~19,015 |
+| Zealous | 2.00% | ~19,015 |
+| Not half bad | 2.00% | ~19,015 |
+| Apt Survivor | 2.00% | ~19,015 |
+| Survival Treasures | 2.00% | ~19,015 |
+| Skillful | 2.00% | ~19,015 |
+| Sorted | 2.00% | ~19,015 |
+| Resurgence | 2.00% | ~19,015 |
+| Make Some Noise | 2.00% | ~19,015 |
+| The Grand Sacrifice | 1.00% | ~9,507 |
+| Agonizing Escape | 1.00% | ~9,507 |
+| Backdoor Escape | 1.00% | ~9,507 |
+| I've got your back | 1.00% | ~9,507 |
+| No one left behind | 1.00% | ~9,507 |
+| Nerves of steel | 1.00% | ~9,507 |
+| Perfect Escape | 1.00% | ~9,507 |
+| Perfect Killing | 1.00% | ~9,507 |
+| Bloody Millionaire | 1.00% | ~9,507 |
+| Apt Killer | 1.00% | ~9,507 |
+| Risk it all | 1.00% | ~9,507 |
+| I | 1.00% | ~9,507 |
+| II | 1.00% | ~9,507 |
+| Engineer | 1.00% | ~9,507 |
+| Wounded Healer | 1.00% | ~9,507 |
+| Healthy Obsession | 1.00% | ~9,507 |
+| Close Shave | 1.00% | ~9,507 |
+| Preemptive Strike | 1.00% | ~9,507 |
+| Humanitarian | 1.00% | ~9,507 |
+| Vulture | 0.90% | ~8,557 |
+| III | 0.90% | ~8,557 |
+| Second Act | 0.90% | ~8,557 |
+| Escape Artist | 0.80% | ~7,606 |
+| First to the Punch | 0.80% | ~7,606 |
+| With Scars to Show | 0.80% | ~7,606 |
+| Rebuilding The Borgo | 0.80% | ~7,606 |
+| Blood on your hands | 0.70% | ~6,655 |
+| Made it out alive! | 0.70% | ~6,655 |
+| III-50 | 0.70% | ~6,655 |
+| Near-Death Experience | 0.70% | ~6,655 |
+| Cherish your Life | 0.70% | ~6,655 |
+| Every Last Drop | 0.70% | ~6,655 |
+| Raccoon City Recruit | 0.70% | ~6,655 |
+| Flight to Freedom | 0.70% | ~6,655 |
+| A Fast Death | 0.70% | ~6,655 |
+| Chorus of Chaos | 0.70% | ~6,655 |
+| One More Step | 0.70% | ~6,655 |
 | Gifts for the Fog | 0.60% | ~5,704 |
 | Shock Therapy | 0.60% | ~5,704 |
 | All Aboard | 0.60% | ~5,704 |
@@ -68,21 +68,21 @@ Number of Ratings: 70,340  (23.09.2022)
 | Classy Act | 0.60% | ~5,704 |
 | Lifting The Fog | 0.60% | ~5,704 |
 | MU/TH/UR Dearest | 0.60% | ~5,704 |
-| A bite for the Entity | 0.50% | ~4,753 |
-| Blood on your face | 0.50% | ~4,753 |
-| Leapfrog | 0.50% | ~4,753 |
-| Cottage Owner | 0.50% | ~4,753 |
-| Escaping the Nightmare | 0.50% | ~4,753 |
-| Campbell's Chapel Legacy | 0.50% | ~4,753 |
-| Ancestor's Rite | 0.50% | ~4,753 |
-| Grim Pilgrimage | 0.50% | ~4,753 |
-| Selfless Survival | 0.50% | ~4,753 |
-| Extraterrestrial | 0.50% | ~4,753 |
+| A bite for the Entity | 0.50% | ~4,754 |
+| Blood on your face | 0.50% | ~4,754 |
+| Leapfrog | 0.50% | ~4,754 |
+| Cottage Owner | 0.50% | ~4,754 |
+| Serial Killer | 0.50% | ~4,754 |
+| Escaping the Nightmare | 0.50% | ~4,754 |
+| Campbell's Chapel Legacy | 0.50% | ~4,754 |
+| Ancestor's Rite | 0.50% | ~4,754 |
+| Grim Pilgrimage | 0.50% | ~4,754 |
+| Selfless Survival | 0.50% | ~4,754 |
+| Extraterrestrial | 0.50% | ~4,754 |
 | Jump Scares | 0.40% | ~3,803 |
 | Hemophobia | 0.40% | ~3,803 |
 | Deep Cleansing | 0.40% | ~3,803 |
 | Texas BBQ | 0.40% | ~3,803 |
-| Serial Killer | 0.40% | ~3,803 |
 | Game Over | 0.40% | ~3,803 |
 | Devoted Gatekeeping | 0.40% | ~3,803 |
 | Shrine Apparatus | 0.40% | ~3,803 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~951 |
 | Adept Ripley | 0.10% | ~951 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 950,639 (Ranked 14)  
+Progressed: 950,730 (Ranked 14)  
 Completed: 51 (0.01%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -418,17 +418,17 @@ Completed: 51 (0.01%) (Ranked 298)
 | 2023-10-16 | 944,360 | 51 |
 | 2023-10-17 | 946,172 | 51 |
 | 2023-10-18 | 948,147 | 51 |
-| 2023-10-19 | 950,639 | 51 |
+| 2023-10-19 | 950,730 | 51 |
 ## Awards
 Max (Diverse Characters): 34,176  (Ranked 15)  
-Sum: 264,088 (Ranked 13)  
+Sum: 264,159 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 34,176 |
 | This game is Highly Recommended | 30,192 |
+| This game has Amazing Characters | 29,847 |
 | This game has Competitive Players | 29,804 |
-| This game has Amazing Characters | 29,776 |
 | This game is Extremely Fun | 29,480 |
 | This game has Challenging Combat | 29,086 |
 | This game has Quickly Understood Controls | 28,918 |
@@ -707,4 +707,4 @@ Diff (max vs sum): 2
 | 2023-10-16 | 4.51 | - | 33,980 | 262,969 |
 | 2023-10-17 | 4.51 | - | 34,006 | 263,198 |
 | 2023-10-18 | 4.51 | - | 34,059 | 263,581 |
-| 2023-10-19 | 4.51 | - | 34,176 | 264,088 |
+| 2023-10-19 | 4.51 | - | 34,176 | 264,159 |

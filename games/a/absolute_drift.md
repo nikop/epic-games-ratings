@@ -1,7 +1,7 @@
 # Absolute Drift
 [Store](https://store.epicgames.com/en-US/p/absolute-drift)  
 [View Rawdata](../../db/a/absolute_drift.json)  
-Rating: 4.41 (Ranked 701)  
+Rating: 4.41 (Ranked 702)  
 Number of Ratings: 216  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -23,11 +23,11 @@ Number of Ratings: 216  (23.09.2022)
 | Drift Line Master | 0.70% | ~10,821 |
 | Insane Skills | 0.70% | ~10,821 |
 | Bacon Donuts | 0.60% | ~9,275 |
-| Double Rainbow | 0.50% | ~7,729 |
+| Double Rainbow | 0.50% | ~7,730 |
 | Washing Machine | 0.40% | ~6,184 |
 | The Completionist | 0.10% | ~1,546 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,545,899 (Ranked 7)  
+Progressed: 1,545,903 (Ranked 7)  
 Completed: 706 (0.05%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 706 (0.05%) (Ranked 275)
 | 2023-10-16 | 1,545,466 | 705 |
 | 2023-10-17 | 1,545,600 | 706 |
 | 2023-10-18 | 1,545,760 | 706 |
-| 2023-10-19 | 1,545,899 | 706 |
+| 2023-10-19 | 1,545,903 | 706 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

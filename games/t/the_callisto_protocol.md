@@ -10,7 +10,7 @@ Rating: 4.19 (Ranked 895)
 | Flesh Wound | 5.00% | ~804 |
 | Chew 'Em Up | 5.00% | ~804 |
 | Float Like A Butterfly | 5.00% | ~804 |
-| Keep Fighting | 5.00% | ~200 |
+| Keep Fighting | 5.00% | ~201 |
 | You Need a Gun | 4.00% | ~643 |
 | I Do Belong Here | 4.00% | ~643 |
 | Two Heads Are Better Than One | 4.00% | ~643 |
@@ -26,8 +26,8 @@ Rating: 4.19 (Ranked 895)
 | Full Circle | 4.00% | ~643 |
 | Power Up | 4.00% | ~643 |
 | It's Time | 4.00% | ~160 |
-| Giving Back | 3.00% | ~482 |
-| Terminated | 3.00% | ~482 |
+| Giving Back | 3.00% | ~483 |
+| Terminated | 3.00% | ~483 |
 | In Striking Distance | 2.00% | ~322 |
 | The Commonality | 2.00% | ~322 |
 | One Last Job | 2.00% | ~80 |
@@ -36,7 +36,7 @@ Rating: 4.19 (Ranked 895)
 | Parole Denied | 0.70% | ~28 |
 | Big Spender | 0.70% | ~28 |
 | Information Overload | 0.70% | ~28 |
-| Grim Reaper | 0.60% | ~96 |
+| Grim Reaper | 0.60% | ~97 |
 | Mugshot | 0.50% | ~80 |
 | Quick Pick | 0.50% | ~20 |
 | Instigator | 0.40% | ~16 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 895)
 | Hoard Mode | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,083 (Ranked 134)  
+Progressed: 16,085 (Ranked 134)  
 Completed: 75 (0.47%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 75 (0.47%) (Ranked 180)
 | 2023-10-16 | 16,015 | 75 |
 | 2023-10-17 | 16,022 | 75 |
 | 2023-10-18 | 16,031 | 75 |
-| 2023-10-19 | 16,083 | 75 |
+| 2023-10-19 | 16,085 | 75 |
 ## Awards
 Max (Highly Recommended): 76  (Ranked 381)  
 Sum: 448 (Ranked 323)  

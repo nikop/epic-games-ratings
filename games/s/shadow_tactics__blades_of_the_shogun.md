@@ -6,18 +6,18 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~25,046 |
+| Genin | 12.00% | ~25,047 |
 | A thief's beginning | 10.00% | ~20,872 |
 | Thorough | 10.00% | ~20,872 |
 | Disguised | 9.00% | ~18,785 |
 | Rollin' | 9.00% | ~18,785 |
-| Rescue Takuma | 8.00% | ~16,697 |
-| Tanuki Time | 8.00% | ~16,697 |
-| Happy Planning | 7.00% | ~14,610 |
-| Ice Ice Yuki | 7.00% | ~14,610 |
-| Jonin | 7.00% | ~14,610 |
-| Stoned Ox | 7.00% | ~14,610 |
-| Yabu | 7.00% | ~14,610 |
+| Rescue Takuma | 8.00% | ~16,698 |
+| Tanuki Time | 8.00% | ~16,698 |
+| Happy Planning | 7.00% | ~14,611 |
+| Ice Ice Yuki | 7.00% | ~14,611 |
+| Jonin | 7.00% | ~14,611 |
+| Stoned Ox | 7.00% | ~14,611 |
+| Yabu | 7.00% | ~14,611 |
 | Chunin | 6.00% | ~12,523 |
 | Flying Rocks | 6.00% | ~12,523 |
 | Mugen Unchained | 6.00% | ~12,523 |
@@ -39,7 +39,7 @@ Number of Ratings: 495  (23.09.2022)
 | Meticulous | 1.00% | ~2,087 |
 | The End | 1.00% | ~2,087 |
 | Undeserved Honor | 1.00% | ~2,087 |
-| When Cut Across the Neck | 0.90% | ~1,878 |
+| When Cut Across the Neck | 0.90% | ~1,879 |
 | High Five the Moon | 0.80% | ~1,670 |
 | The Cave | 0.80% | ~1,670 |
 | Merciful | 0.50% | ~1,044 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~209 |
 | Release the Kraken | 0.10% | ~209 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 208,717 (Ranked 65)  
+Progressed: 208,723 (Ranked 65)  
 Completed: 91 (0.04%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,15 +233,15 @@ Completed: 91 (0.04%) (Ranked 279)
 | 2023-10-16 | 208,245 | 91 |
 | 2023-10-17 | 208,416 | 91 |
 | 2023-10-18 | 208,553 | 91 |
-| 2023-10-19 | 208,717 | 91 |
+| 2023-10-19 | 208,723 | 91 |
 ## Awards
 Max (Great for Beginners): 567  (Ranked 196)  
-Sum: 4,795 (Ranked 138)  
+Sum: 4,796 (Ranked 138)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 567 |
-| This game has Diverse Characters | 534 |
+| This game has Diverse Characters | 535 |
 | This game is Extremely Fun | 530 |
 | This game has Amazing Storytelling | 512 |
 | This game has Amazing Characters | 492 |
@@ -442,4 +442,4 @@ Diff (max vs sum): 58
 | 2023-10-09 | 4.67 | - | 566 | 4,789 |
 | 2023-10-14 | 4.67 | - | 567 | 4,790 |
 | 2023-10-18 | 4.67 | - | 567 | 4,793 |
-| 2023-10-19 | 4.67 | - | 567 | 4,795 |
+| 2023-10-19 | 4.67 | - | 567 | 4,796 |

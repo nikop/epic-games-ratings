@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewPlayers": 281,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 536,
+  "EOS_Progressed": 537,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.12,
   "EosHistory": [
@@ -758,6 +758,11 @@
       "Time": "2023-10-19T15:09:31.9839827+00:00",
       "NumProgressed": 536,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-19T23:09:54.7791259+00:00",
+      "NumProgressed": 537,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -857,7 +862,7 @@
       "Name": "Bundle of Joy",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "Hitman",
@@ -871,9 +876,9 @@
       "ID": "Illustrator",
       "SetID": "ek310c",
       "Name": "F is for Feline",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 64
     },
     {
       "ID": "Investigative",
@@ -895,9 +900,9 @@
       "ID": "Leisurely_Strol",
       "SetID": "ek310c",
       "Name": "A Trip to Remember",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 64
     },
     {
       "ID": "MISSING_DATA",
@@ -1000,7 +1005,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 536,
+      "Progressed": 537,
       "Completed": 6
     }
   ],
@@ -1008,8 +1013,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-10-19T22:09:42.2971297+00:00",
+  "LastChanged_Achievements": "2023-10-19T23:09:54.7791256+00:00",
   "LastUpdate_AppInfo": "2023-10-14T10:57:26.6462722+00:00",
-  "LastUpdate_Ratings": "2023-10-19T22:03:23.6200772+00:00",
-  "LastUpdate_Achievements": "2023-10-19T22:09:42.2971552+00:00"
+  "LastUpdate_Ratings": "2023-10-19T23:03:37.0747561+00:00",
+  "LastUpdate_Achievements": "2023-10-19T23:09:54.7791465+00:00"
 }

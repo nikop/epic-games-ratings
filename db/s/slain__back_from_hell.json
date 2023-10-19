@@ -238,9 +238,9 @@
       "Count": 127
     }
   ],
-  "EOS_Progressed": 38762,
+  "EOS_Progressed": 38764,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 455,
+  "EOS_NewPlayers": 454,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -20248,6 +20248,11 @@
       "Time": "2023-10-19T22:04:55.7816609+00:00",
       "NumProgressed": 38762,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-10-19T23:05:27.1121936+00:00",
+      "NumProgressed": 38764,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -20259,7 +20264,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 5814
+      "UsersEstimate": 5815
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -20403,7 +20408,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1550
+      "UsersEstimate": 1551
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -20490,7 +20495,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 38762,
+      "Progressed": 38764,
       "Completed": 26
     }
   ],
@@ -20498,8 +20503,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-10-07T11:01:04.3409147+00:00",
-  "LastChanged_Achievements": "2023-10-19T22:04:55.7816602+00:00",
+  "LastChanged_Achievements": "2023-10-19T23:05:27.1121932+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:52.991476+00:00",
-  "LastUpdate_Ratings": "2023-10-19T22:00:07.8424042+00:00",
-  "LastUpdate_Achievements": "2023-10-19T22:04:55.7818216+00:00"
+  "LastUpdate_Ratings": "2023-10-19T23:00:41.2355659+00:00",
+  "LastUpdate_Achievements": "2023-10-19T23:05:27.1123202+00:00"
 }

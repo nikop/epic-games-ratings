@@ -2,7 +2,7 @@
   "ID": "213259527d2f41baa90cbe0ae5555271",
   "Name": "Dungeons 3",
   "ProductSlug": "dungeons-3",
-  "Ranking_Rating": 282,
+  "Ranking_Rating": 283,
   "Ranking_Popularity": 230,
   "Ranking_PopularitySum": 178,
   "Ranking_EOS_Progress": 115,
@@ -2869,9 +2869,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 34449,
+  "EOS_Progressed": 34450,
   "EOS_Completed": 279,
-  "EOS_NewPlayers": 1017,
+  "EOS_NewPlayers": 1013,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.81,
   "EosHistory": [
@@ -22894,6 +22894,11 @@
       "Time": "2023-10-19T22:09:16.0399825+00:00",
       "NumProgressed": 34449,
       "NumCompleted": 279
+    },
+    {
+      "Time": "2023-10-19T23:09:23.7592219+00:00",
+      "NumProgressed": 34450,
+      "NumCompleted": 279
     }
   ],
   "TotalAchievements": 60,
@@ -22905,7 +22910,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 19980
+      "UsersEstimate": 19981
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -23033,7 +23038,7 @@
       "Name": "Storm And Stress",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 1033
+      "UsersEstimate": 1034
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_Completed",
@@ -23041,7 +23046,7 @@
       "Name": "Stock Market Crash",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 10679
+      "UsersEstimate": 10680
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_1",
@@ -23113,7 +23118,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 14813
+      "UsersEstimate": 14814
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -23145,7 +23150,7 @@
       "Name": "Thirst quencher",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 9301
+      "UsersEstimate": 9302
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_2",
@@ -23161,7 +23166,7 @@
       "Name": "Ogre Solo!",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 9301
+      "UsersEstimate": 9302
     },
     {
       "ID": "ACH_D3_Campaign_Infested_1",
@@ -23177,7 +23182,7 @@
       "Name": "Chorus of damnation",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 6545
+      "UsersEstimate": 6546
     },
     {
       "ID": "ACH_D3_Campaign_Infested_Completed",
@@ -23209,7 +23214,7 @@
       "Name": "Where there is Light, there is Shadow",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 7923
+      "UsersEstimate": 7924
     },
     {
       "ID": "ACH_D3_Campaign_Renegade_1",
@@ -23225,7 +23230,7 @@
       "Name": "I love the smell of Catapult fire!",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 1033
+      "UsersEstimate": 1034
     },
     {
       "ID": "ACH_D3_Campaign_Renegade_Completed",
@@ -23241,7 +23246,7 @@
       "Name": "Can\u2019t stand the sight of Dark Elf blood",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 5167
+      "UsersEstimate": 5168
     },
     {
       "ID": "ACH_D3_Campaign_Ritual_2",
@@ -23265,7 +23270,7 @@
       "Name": "Factory farming",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 10679
+      "UsersEstimate": 10680
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_2",
@@ -23337,7 +23342,7 @@
       "Name": "We don\u2019t have time!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 6545
+      "UsersEstimate": 6546
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_2",
@@ -23345,7 +23350,7 @@
       "Name": "Hearts are trump",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 2411
+      "UsersEstimate": 2412
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_Completed",
@@ -23384,15 +23389,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 34449,
+      "Progressed": 34450,
       "Completed": 279
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-10-19T21:00:08.2672243+00:00",
-  "LastChanged_Achievements": "2023-10-19T22:09:16.0399819+00:00",
+  "LastChanged_Achievements": "2023-10-19T23:09:23.7592213+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:18.1090786+00:00",
-  "LastUpdate_Ratings": "2023-10-19T21:59:21.6049211+00:00",
-  "LastUpdate_Achievements": "2023-10-19T22:09:16.0401741+00:00"
+  "LastUpdate_Ratings": "2023-10-19T22:59:45.6880966+00:00",
+  "LastUpdate_Achievements": "2023-10-19T23:09:23.7594472+00:00"
 }

@@ -6,8 +6,8 @@
   "Ranking_Popularity": 72,
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 73,
-  "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_Completed": 243,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -6595,9 +6595,9 @@
       "Count": 3762
     }
   ],
-  "EOS_Progressed": 137828,
+  "EOS_Progressed": 137829,
   "EOS_Completed": 171,
-  "EOS_NewPlayers": 335,
+  "EOS_NewPlayers": 333,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -25260,6 +25260,11 @@
       "Time": "2023-10-19T22:05:17.0578422+00:00",
       "NumProgressed": 137828,
       "NumCompleted": 171
+    },
+    {
+      "Time": "2023-10-19T23:05:51.6113616+00:00",
+      "NumProgressed": 137829,
+      "NumCompleted": 171
     }
   ],
   "TotalAchievements": 112,
@@ -25901,9 +25906,9 @@
       "ID": "loot02",
       "SetID": "anfd17p",
       "Name": "Laden with Loot",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 827
+      "UsersEstimate": 965
     },
     {
       "ID": "loot03",
@@ -26166,15 +26171,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 137828,
+      "Progressed": 137829,
       "Completed": 171
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-19T11:59:44.6314185+00:00",
-  "LastChanged_Achievements": "2023-10-19T22:05:17.0578417+00:00",
+  "LastChanged_Achievements": "2023-10-19T23:05:51.611361+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:10.2617104+00:00",
-  "LastUpdate_Ratings": "2023-10-19T21:59:10.3001604+00:00",
-  "LastUpdate_Achievements": "2023-10-19T22:05:17.058092+00:00"
+  "LastUpdate_Ratings": "2023-10-19T22:59:32.0599401+00:00",
+  "LastUpdate_Achievements": "2023-10-19T23:05:51.6116344+00:00"
 }

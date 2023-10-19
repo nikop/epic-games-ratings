@@ -6,17 +6,17 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~477,738 |
-| Apprentice | 58.00% | ~384,844 |
-| Close Shave | 25.00% | ~165,881 |
+| The Fool | 72.00% | ~477,740 |
+| Apprentice | 58.00% | ~384,846 |
+| Close Shave | 25.00% | ~165,882 |
 | Mercenary | 23.00% | ~152,611 |
 | Ninja | 23.00% | ~152,611 |
-| Northern Scourge | 17.00% | ~112,799 |
+| Northern Scourge | 17.00% | ~112,800 |
 | Thief Bane | 14.00% | ~92,894 |
 | Master of Arms | 12.00% | ~79,623 |
-| Gambler | 10.00% | ~66,352 |
-| Dice Master | 10.00% | ~66,352 |
-| Swordsman | 9.00% | ~59,717 |
+| Gambler | 10.00% | ~66,353 |
+| Dice Master | 10.00% | ~66,353 |
+| Swordsman | 9.00% | ~59,718 |
 | Knight | 8.00% | ~53,082 |
 | Cure for Corruption | 8.00% | ~53,082 |
 | Focused | 8.00% | ~53,082 |
@@ -31,9 +31,9 @@ Number of Ratings: 780  (23.09.2022)
 | Leap of Faith | 3.00% | ~19,906 |
 | Combat Ready | 3.00% | ~19,906 |
 | Stuffed Potato | 3.00% | ~19,906 |
-| Card Sharp | 2.00% | ~13,270 |
-| Magician | 2.00% | ~13,270 |
-| Draknar's Bane | 2.00% | ~13,270 |
+| Card Sharp | 2.00% | ~13,271 |
+| Magician | 2.00% | ~13,271 |
+| Draknar's Bane | 2.00% | ~13,271 |
 | Protector of the Realm | 1.00% | ~6,635 |
 | Purgatorium | 1.00% | ~6,635 |
 | Cursed Soul | 1.00% | ~6,635 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~664 |
 | Blood Pact | 0.10% | ~664 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 663,525 (Ranked 25)  
+Progressed: 663,528 (Ranked 25)  
 Completed: 171 (0.03%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,11 +237,11 @@ Completed: 171 (0.03%) (Ranked 285)
 | 2023-10-16 | 663,404 | 171 |
 | 2023-10-17 | 663,443 | 171 |
 | 2023-10-18 | 663,483 | 171 |
-| 2023-10-19 | 663,525 | 171 |
+| 2023-10-19 | 663,528 | 171 |
 ## Awards
-Max (Amazing Storytelling): 35  (Ranked 455)  
+Max (Amazing Storytelling): 35  (Ranked 456)  
 Sum: 186 (Ranked 394)  
-Diff (max vs sum): 61  
+Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 118 |

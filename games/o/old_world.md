@@ -89,6 +89,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Subjugator | 0.60% | ~89 |
 | Landowners | 0.60% | ~89 |
 | Riders | 0.60% | ~89 |
+| Statesmen | 0.60% | ~89 |
 | Hittite Iron | 0.60% | ~89 |
 | Circus Maximus | 0.60% | ~89 |
 | Temple of Solomon | 0.60% | ~89 |
@@ -105,7 +106,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Capable | 0.50% | ~74 |
 | Strong Difficulty | 0.50% | ~74 |
 | Hunters | 0.50% | ~74 |
-| Statesmen | 0.50% | ~74 |
 | Traders | 0.50% | ~74 |
 | Hagia Sophia | 0.50% | ~74 |
 | Church of the Holy Sepulchre | 0.50% | ~74 |
@@ -118,6 +118,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Veneration | 0.50% | ~74 |
 | Cimmerian Archer | 0.50% | ~74 |
 | Mounted Lancer | 0.50% | ~74 |
+| Ambition Victory | 0.50% | ~74 |
 | The Clergy | 0.50% | ~74 |
 | The Great Mage | 0.50% | ~74 |
 | Poetic Leader | 0.50% | ~74 |
@@ -136,7 +137,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightenment | 0.40% | ~59 |
 | Turreted Elephant | 0.40% | ~59 |
 | All Nations | 0.40% | ~59 |
-| Ambition Victory | 0.40% | ~59 |
 | Bad Heir Day | 0.30% | ~44 |
 | Ishtar Gate in Babylon | 0.30% | ~44 |
 | Carthage - Ox Hide | 0.30% | ~44 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,804 (Ranked 137)  
+Progressed: 14,805 (Ranked 137)  
 Completed: 5 (0.03%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -531,7 +531,7 @@ Completed: 5 (0.03%) (Ranked 285)
 | 2023-10-16 | 14,747 | 5 |
 | 2023-10-17 | 14,775 | 5 |
 | 2023-10-18 | 14,791 | 5 |
-| 2023-10-19 | 14,804 | 5 |
+| 2023-10-19 | 14,805 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,848 (Ranked 211)  

@@ -1313,9 +1313,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 16083,
+  "EOS_Progressed": 16085,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -7638,6 +7638,11 @@
       "Time": "2023-10-19T22:04:18.4771062+00:00",
       "NumProgressed": 16083,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2023-10-19T23:04:43.5509854+00:00",
+      "NumProgressed": 16085,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 47,
@@ -7665,7 +7670,7 @@
       "Name": "Giving Back",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -7689,7 +7694,7 @@
       "Name": "Grim Reaper",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "FINISH_CONTAGION",
@@ -7785,7 +7790,7 @@
       "Name": "Terminated",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -8001,7 +8006,7 @@
       "Name": "Keep Fighting",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -8024,13 +8029,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16083,
+      "Progressed": 16085,
       "Completed": 75
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4009,
+      "Progressed": 4011,
       "Completed": 29
     }
   ],
@@ -8038,8 +8043,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-10-19T07:57:37.4777054+00:00",
-  "LastChanged_Achievements": "2023-10-19T22:04:18.4771056+00:00",
+  "LastChanged_Achievements": "2023-10-19T23:04:43.5509849+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:28.7445303+00:00",
-  "LastUpdate_Ratings": "2023-10-19T21:57:30.3433062+00:00",
-  "LastUpdate_Achievements": "2023-10-19T22:04:18.4771856+00:00"
+  "LastUpdate_Ratings": "2023-10-19T22:57:35.904259+00:00",
+  "LastUpdate_Achievements": "2023-10-19T23:04:43.5510564+00:00"
 }

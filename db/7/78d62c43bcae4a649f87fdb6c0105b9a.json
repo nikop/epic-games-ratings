@@ -4,7 +4,7 @@
   "ProductSlug": "enchanted-portals-65ca68",
   "Ranking_EOS_Progress": 485,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewPlayers": 281,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-09-26T11:00:00+00:00",
@@ -210,9 +210,9 @@
       "ID": "mafia",
       "SetID": "40o2ndb",
       "Name": "Bye Gangrooster City",
-      "Percentage": 22,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "matrix",
@@ -337,8 +337,8 @@
   ],
   "FirstSeen": "2023-09-28T10:00:15.1472211+00:00",
   "FirstSeenAchievements": "2023-09-13T08:04:00.4811231+00:00",
-  "LastChanged_Achievements": "2023-10-19T22:07:13.7167544+00:00",
+  "LastChanged_Achievements": "2023-10-19T23:08:29.0584378+00:00",
   "LastUpdate_AppInfo": "2023-10-15T19:57:18.3357437+00:00",
-  "LastUpdate_Ratings": "2023-10-19T21:57:24.0698344+00:00",
-  "LastUpdate_Achievements": "2023-10-19T22:07:13.7167742+00:00"
+  "LastUpdate_Ratings": "2023-10-19T22:57:26.4279844+00:00",
+  "LastUpdate_Achievements": "2023-10-19T23:08:29.0584546+00:00"
 }
