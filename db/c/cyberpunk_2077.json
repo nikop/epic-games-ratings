@@ -13796,9 +13796,9 @@
       "Count": 10733
     }
   ],
-  "EOS_Progressed": 892616,
+  "EOS_Progressed": 892617,
   "EOS_Completed": 2683,
-  "EOS_NewPlayers": 1580,
+  "EOS_NewPlayers": 1577,
   "EOS_NewCompleters": 42,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -34331,6 +34331,11 @@
       "Time": "2023-10-19T01:46:37.9947377+00:00",
       "NumProgressed": 892616,
       "NumCompleted": 2683
+    },
+    {
+      "Time": "2023-10-19T02:20:56.3161719+00:00",
+      "NumProgressed": 892617,
+      "NumCompleted": 2683
     }
   ],
   "TotalAchievements": 57,
@@ -34374,7 +34379,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 401677
+      "UsersEstimate": 401678
     },
     {
       "ID": "FollowingTheRiver",
@@ -34382,7 +34387,7 @@
       "Name": "To Protect and Serve",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 133892
+      "UsersEstimate": 133893
     },
     {
       "ID": "Fortuneteller",
@@ -34398,7 +34403,7 @@
       "Name": "Autojock",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 26778
+      "UsersEstimate": 26779
     },
     {
       "ID": "GetMeThereScottie",
@@ -34406,7 +34411,7 @@
       "Name": "Frequent Flyer",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 26778
+      "UsersEstimate": 26779
     },
     {
       "ID": "GunKata",
@@ -34430,7 +34435,7 @@
       "Name": "Master Crafter",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 187449
+      "UsersEstimate": 187450
     },
     {
       "ID": "IAmMaxTac",
@@ -34494,7 +34499,7 @@
       "Name": "The Wasteland",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 26778
+      "UsersEstimate": 26779
     },
     {
       "ID": "NotTheMobile",
@@ -34502,7 +34507,7 @@
       "Name": "Daemon In The Shell",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26778
+      "UsersEstimate": 26779
     },
     {
       "ID": "QueenOfTheHighway",
@@ -34518,7 +34523,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 303489
+      "UsersEstimate": 303490
     },
     {
       "ID": "Specialist",
@@ -34534,7 +34539,7 @@
       "Name": "Temperance",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 80335
+      "UsersEstimate": 80336
     },
     {
       "ID": "ThatIsSoHardForTheKnees",
@@ -34558,7 +34563,7 @@
       "Name": "The Fool",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 633757
+      "UsersEstimate": 633758
     },
     {
       "ID": "TheHermit",
@@ -34582,7 +34587,7 @@
       "Name": "The Lovers",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 348120
+      "UsersEstimate": 348121
     },
     {
       "ID": "TheStar",
@@ -34606,7 +34611,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 294563
+      "UsersEstimate": 294564
     },
     {
       "ID": "TheWorld",
@@ -34797,21 +34802,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 892616,
+      "Progressed": 892617,
       "Completed": 2683
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 21239,
+      "Progressed": 21240,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-19T01:40:34.3473027+00:00",
-  "LastChanged_Achievements": "2023-10-19T01:46:37.9947372+00:00",
+  "LastChanged_Achievements": "2023-10-19T02:20:56.3161716+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:37.5483976+00:00",
-  "LastUpdate_Ratings": "2023-10-19T01:40:34.3473034+00:00",
-  "LastUpdate_Achievements": "2023-10-19T01:46:37.9949505+00:00"
+  "LastUpdate_Ratings": "2023-10-19T02:14:23.5562226+00:00",
+  "LastUpdate_Achievements": "2023-10-19T02:20:56.316324+00:00"
 }

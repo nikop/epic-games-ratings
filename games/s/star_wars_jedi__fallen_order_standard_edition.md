@@ -5,26 +5,26 @@ Rating: 4.65 (Ranked 304)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Mantis | 100.00% | ~12,380 |
-| A Long Time Ago | 93.00% | ~11,513 |
-| Sabersmith | 81.00% | ~10,028 |
-| The Obstacle is the Way | 80.00% | ~9,904 |
-| Back At You | 74.00% | ~9,161 |
-| Happy Go Wookiee | 71.00% | ~8,790 |
+| The Mantis | 100.00% | ~12,381 |
+| A Long Time Ago | 93.00% | ~11,514 |
+| Sabersmith | 81.00% | ~10,029 |
+| The Obstacle is the Way | 80.00% | ~9,905 |
+| Back At You | 74.00% | ~9,162 |
+| Happy Go Wookiee | 71.00% | ~8,791 |
 | Everything is Connected | 61.00% | ~7,552 |
 | Her Name Was Masana Tide | 56.00% | ~6,933 |
 | Bank Shot | 56.00% | ~6,933 |
-| Perfect Timing | 53.00% | ~6,561 |
+| Perfect Timing | 53.00% | ~6,562 |
 | Gorgara Falls | 51.00% | ~6,314 |
 | The Full Glow-Up | 51.00% | ~6,314 |
-| For A More Civilized Age | 49.00% | ~6,066 |
+| For A More Civilized Age | 49.00% | ~6,067 |
 | I Knew He Was No Good | 47.00% | ~5,819 |
 | The Holocron Awaits | 46.00% | ~5,695 |
 | Look Out Below | 45.00% | ~5,571 |
-| Scum and Villainy | 44.00% | ~5,447 |
-| Trust Only In The Force | 44.00% | ~5,447 |
+| Scum and Villainy | 44.00% | ~5,448 |
+| Trust Only In The Force | 44.00% | ~5,448 |
 | Don't Mess with BD-1 | 42.00% | ~5,200 |
-| Blade Master | 39.00% | ~4,828 |
+| Blade Master | 39.00% | ~4,829 |
 | Full House | 36.00% | ~4,457 |
 | Legendary Beasts | 22.00% | ~2,724 |
 | Echo Location | 20.00% | ~2,476 |
@@ -45,7 +45,7 @@ Rating: 4.65 (Ranked 304)
 | What Goes Around... | 3.00% | ~371 |
 | Not So Fast | 1.00% | ~124 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,380 (Ranked 143)  
+Progressed: 12,381 (Ranked 143)  
 Completed: 133 (1.07%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 133 (1.07%) (Ranked 141)
 | 2023-10-16 | 12,100 | 130 |
 | 2023-10-17 | 12,237 | 131 |
 | 2023-10-18 | 12,370 | 132 |
-| 2023-10-19 | 12,380 | 133 |
+| 2023-10-19 | 12,381 | 133 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

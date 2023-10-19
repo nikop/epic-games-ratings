@@ -10,7 +10,7 @@ Rating: 3.95 (Ranked 983)
 | First One’s Free | 1.00% | ~892 |
 | Downed but Not Outed | 1.00% | ~892 |
 | Too Old for This | 1.00% | ~892 |
-| Fancy Pants | 0.90% | ~802 |
+| Fancy Pants | 0.90% | ~803 |
 | Roid Ranger | 0.80% | ~713 |
 | Off the Rocks | 0.80% | ~713 |
 | Case Closed | 0.70% | ~624 |
@@ -23,14 +23,14 @@ Rating: 3.95 (Ranked 983)
 | Headhunter | 0.50% | ~446 |
 | True Player | 0.50% | ~446 |
 | I Like Trains | 0.40% | ~357 |
-| Legend Looter | 0.30% | ~267 |
-| Imports and Exports | 0.30% | ~267 |
-| Savvy Seeker | 0.30% | ~267 |
-| Foo Finder | 0.30% | ~267 |
-| Freebooter | 0.30% | ~267 |
-| Moneybags | 0.30% | ~267 |
-| Olympus Ascended | 0.30% | ~267 |
-| Ding Dong | 0.30% | ~267 |
+| Legend Looter | 0.30% | ~268 |
+| Imports and Exports | 0.30% | ~268 |
+| Savvy Seeker | 0.30% | ~268 |
+| Foo Finder | 0.30% | ~268 |
+| Freebooter | 0.30% | ~268 |
+| Moneybags | 0.30% | ~268 |
+| Olympus Ascended | 0.30% | ~268 |
+| Ding Dong | 0.30% | ~268 |
 | Rockay Raider | 0.20% | ~178 |
 | Classy Joint | 0.20% | ~178 |
 | All that Glitters | 0.20% | ~35 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 983)
 | One for All | 0.10% | ~18 |
 | Now You See Me | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,166 (Ranked 84)  
+Progressed: 89,167 (Ranked 84)  
 Completed: 50 (0.06%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,7 +229,7 @@ Completed: 50 (0.06%) (Ranked 269)
 | 2023-10-16 | 89,135 | 50 |
 | 2023-10-17 | 89,151 | 50 |
 | 2023-10-18 | 89,164 | 50 |
-| 2023-10-19 | 89,166 | 50 |
+| 2023-10-19 | 89,167 | 50 |
 ## Awards
 Max (Diverse Characters): 500  (Ranked 205)  
 Sum: 2,832 (Ranked 175)  

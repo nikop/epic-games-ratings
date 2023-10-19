@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 324,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1307,9 +1307,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 16035,
+  "EOS_Progressed": 16036,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -7542,6 +7542,11 @@
       "Time": "2023-10-19T01:46:22.3073823+00:00",
       "NumProgressed": 16035,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2023-10-19T02:20:37.0965338+00:00",
+      "NumProgressed": 16036,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 47,
@@ -7655,9 +7660,9 @@
       "ID": "GRP_25_ENEMIES",
       "SetID": "4hj6d86",
       "Name": "Get a Grip",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1283
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -7928,13 +7933,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16035,
+      "Progressed": 16036,
       "Completed": 75
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3961,
+      "Progressed": 3962,
       "Completed": 29
     }
   ],
@@ -7942,8 +7947,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-10-16T18:03:02.4692594+00:00",
-  "LastChanged_Achievements": "2023-10-19T01:46:22.3073817+00:00",
+  "LastChanged_Achievements": "2023-10-19T02:20:37.0965334+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:28.7445303+00:00",
-  "LastUpdate_Ratings": "2023-10-19T00:02:15.6483202+00:00",
-  "LastUpdate_Achievements": "2023-10-19T01:46:22.3074621+00:00"
+  "LastUpdate_Ratings": "2023-10-19T02:13:42.1813921+00:00",
+  "LastUpdate_Achievements": "2023-10-19T02:20:37.0966315+00:00"
 }

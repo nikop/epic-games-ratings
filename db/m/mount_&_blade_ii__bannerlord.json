@@ -8082,9 +8082,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 63499,
+  "EOS_Progressed": 63500,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 401,
+  "EOS_NewPlayers": 402,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27317,6 +27317,11 @@
       "Time": "2023-10-19T01:47:32.5759793+00:00",
       "NumProgressed": 63499,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-19T02:22:01.7195914+00:00",
+      "NumProgressed": 63500,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -27352,7 +27357,7 @@
       "Name": "Best served cold",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "Butcher of Calradia",
@@ -27360,7 +27365,7 @@
       "Name": "Butcher of Calradia",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "Butterlord",
@@ -27392,7 +27397,7 @@
       "Name": "Crackshot",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "Crush your enemies",
@@ -27472,7 +27477,7 @@
       "Name": "Headhunter",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "Heartbreaker",
@@ -27480,7 +27485,7 @@
       "Name": "Heartbreaker",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "Horde breaker",
@@ -27528,7 +27533,7 @@
       "Name": "Kingslayer",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "Know your enemy",
@@ -27544,7 +27549,7 @@
       "Name": "Lance-a-lot",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "Landlord",
@@ -27592,7 +27597,7 @@
       "Name": "Minor Clan",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "Mounted Archery",
@@ -27632,7 +27637,7 @@
       "Name": "Roadkill",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "Shish Kebab",
@@ -27648,7 +27653,7 @@
       "Name": "Slice \u0027n dice",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "Strike",
@@ -27696,7 +27701,7 @@
       "Name": "This is Sparta!",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "Trained",
@@ -27735,15 +27740,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 63499,
+      "Progressed": 63500,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-18T15:58:26.3700514+00:00",
-  "LastChanged_Achievements": "2023-10-19T01:47:32.5759787+00:00",
+  "LastChanged_Achievements": "2023-10-19T02:22:01.7195903+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:51.8810296+00:00",
-  "LastUpdate_Ratings": "2023-10-19T01:41:05.3834604+00:00",
-  "LastUpdate_Achievements": "2023-10-19T01:47:32.5761839+00:00"
+  "LastUpdate_Ratings": "2023-10-19T02:15:02.1847374+00:00",
+  "LastUpdate_Achievements": "2023-10-19T02:22:01.7197995+00:00"
 }

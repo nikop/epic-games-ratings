@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 309,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -1069,9 +1069,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 3018,
+  "EOS_Progressed": 3020,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5379,6 +5379,11 @@
       "Time": "2023-10-19T01:46:53.7551233+00:00",
       "NumProgressed": 3018,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-19T02:21:15.5689032+00:00",
+      "NumProgressed": 3020,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 48,
@@ -5412,9 +5417,9 @@
       "ID": "ACH_COMMENCE-THE-HIJINX",
       "SetID": "72olkc5",
       "Name": "Commence the Hijinx!",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 181
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_COPS-CALLED",
@@ -5494,7 +5499,7 @@
       "Name": "Go with the Flow",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "ACH_GOAT-STATUS",
@@ -5542,7 +5547,7 @@
       "Name": "Keeping it classy",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -5694,7 +5699,7 @@
       "Name": "The finer things in life",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "ACH_THE-FLIP-TRICK-CROWN-JEWEL",
@@ -5766,22 +5771,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 1841
+      "UsersEstimate": 1842
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 3018,
+      "Progressed": 3020,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-10-18T19:59:48.5041655+00:00",
-  "LastChanged_Achievements": "2023-10-19T01:46:53.7551225+00:00",
+  "LastChanged_Achievements": "2023-10-19T02:21:15.5689025+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:15.9585572+00:00",
-  "LastUpdate_Ratings": "2023-10-19T01:42:06.3421971+00:00",
-  "LastUpdate_Achievements": "2023-10-19T01:46:53.7552024+00:00"
+  "LastUpdate_Ratings": "2023-10-19T02:16:21.2949717+00:00",
+  "LastUpdate_Achievements": "2023-10-19T02:21:15.5690258+00:00"
 }

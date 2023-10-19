@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 500,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -358,9 +358,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1857,
+  "EOS_Progressed": 1858,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -2118,6 +2118,11 @@
       "Time": "2023-10-19T00:04:36.1065516+00:00",
       "NumProgressed": 1857,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-19T02:21:15.7763058+00:00",
+      "NumProgressed": 1858,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -2129,7 +2134,7 @@
       "Name": "Chain Reaction",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "ACH_DEAD_OR_ALIVE",
@@ -2161,7 +2166,7 @@
       "Name": "Dog Days",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "ACH_DO_NOT_PASS_GO",
@@ -2177,7 +2182,7 @@
       "Name": "Elusive Prey",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "ACH_EXPLORER",
@@ -2223,9 +2228,9 @@
       "ID": "ACH_GHOST_TOWN",
       "SetID": "8j30i9k",
       "Name": "Ghost Town",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 74
+      "UsersEstimate": 56
     },
     {
       "ID": "ACH_GOLD_DIGGER",
@@ -2281,7 +2286,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1114
+      "UsersEstimate": 1115
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -2361,7 +2366,7 @@
       "Name": "Off the Trail",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "ACH_OUT_ON_THE_EBB_TIDE",
@@ -2369,7 +2374,7 @@
       "Name": "Out on the Ebb Tide",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "ACH_PERKY",
@@ -2425,7 +2430,7 @@
       "Name": "Self-Improvement",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1337
+      "UsersEstimate": 1338
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -2497,7 +2502,7 @@
       "Name": "Turning the Tables",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "ACH_UNFORGIVEN",
@@ -2505,7 +2510,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1634
+      "UsersEstimate": 1635
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -2513,7 +2518,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 1058
+      "UsersEstimate": 1059
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -2545,22 +2550,22 @@
       "Name": "Workers\u0027 Rights",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     }
   ],
   "AchievementSets": [
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1857,
+      "Progressed": 1858,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-10-12T21:03:19.3405384+00:00",
-  "LastChanged_Achievements": "2023-10-19T01:46:53.9427423+00:00",
+  "LastChanged_Achievements": "2023-10-19T02:21:15.7763055+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:22.2877358+00:00",
-  "LastUpdate_Ratings": "2023-10-19T01:41:22.0655907+00:00",
-  "LastUpdate_Achievements": "2023-10-19T01:46:53.9428019+00:00"
+  "LastUpdate_Ratings": "2023-10-19T02:15:22.8508192+00:00",
+  "LastUpdate_Achievements": "2023-10-19T02:21:15.7763558+00:00"
 }

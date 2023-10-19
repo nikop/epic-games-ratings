@@ -915,9 +915,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 6861,
+  "EOS_Progressed": 6862,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7125,6 +7125,11 @@
       "Time": "2023-10-19T01:48:05.2109538+00:00",
       "NumProgressed": 6861,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-19T02:22:41.6940042+00:00",
+      "NumProgressed": 6862,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -7168,7 +7173,7 @@
       "Name": "Commodity Trader",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 2058
+      "UsersEstimate": 2059
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -7328,7 +7333,7 @@
       "Name": "Trading Partner",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "Level_5_Ship",
@@ -7440,7 +7445,7 @@
       "Name": "Commodity Seller",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1715
+      "UsersEstimate": 1716
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
@@ -7456,7 +7461,7 @@
       "Name": "Unleash My Power",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4185
+      "UsersEstimate": 4186
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -7624,7 +7629,7 @@
       "Name": "Win a Battle",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 4528
+      "UsersEstimate": 4529
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -7711,15 +7716,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6861,
+      "Progressed": 6862,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-10-19T01:48:05.2109533+00:00",
+  "LastChanged_Achievements": "2023-10-19T02:22:41.6940036+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:21.0832103+00:00",
-  "LastUpdate_Ratings": "2023-10-19T01:41:09.9993982+00:00",
-  "LastUpdate_Achievements": "2023-10-19T01:48:05.2110814+00:00"
+  "LastUpdate_Ratings": "2023-10-19T02:15:08.0459342+00:00",
+  "LastUpdate_Achievements": "2023-10-19T02:22:41.6941102+00:00"
 }

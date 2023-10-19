@@ -6,7 +6,7 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 3.00% | ~28,453 |
+| It wakes | 3.00% | ~28,454 |
 | Handyman | 2.00% | ~18,969 |
 | Zealous | 2.00% | ~18,969 |
 | Not half bad | 2.00% | ~18,969 |
@@ -15,32 +15,32 @@ Number of Ratings: 70,340  (23.09.2022)
 | Skillful | 2.00% | ~18,969 |
 | Sorted | 2.00% | ~18,969 |
 | Make Some Noise | 2.00% | ~18,969 |
-| The Grand Sacrifice | 1.00% | ~9,484 |
-| Agonizing Escape | 1.00% | ~9,484 |
-| Backdoor Escape | 1.00% | ~9,484 |
-| I've got your back | 1.00% | ~9,484 |
-| No one left behind | 1.00% | ~9,484 |
-| Medic | 1.00% | ~9,484 |
-| Nerves of steel | 1.00% | ~9,484 |
-| Perfect Escape | 1.00% | ~9,484 |
-| Perfect Killing | 1.00% | ~9,484 |
-| Bloody Millionaire | 1.00% | ~9,484 |
-| Risk it all | 1.00% | ~9,484 |
-| I | 1.00% | ~9,484 |
-| II | 1.00% | ~9,484 |
-| Engineer | 1.00% | ~9,484 |
-| Wounded Healer | 1.00% | ~9,484 |
-| Healthy Obsession | 1.00% | ~9,484 |
-| Resurgence | 1.00% | ~9,484 |
-| Close Shave | 1.00% | ~9,484 |
-| Preemptive Strike | 1.00% | ~9,484 |
-| Humanitarian | 1.00% | ~9,484 |
+| The Grand Sacrifice | 1.00% | ~9,485 |
+| Agonizing Escape | 1.00% | ~9,485 |
+| Backdoor Escape | 1.00% | ~9,485 |
+| I've got your back | 1.00% | ~9,485 |
+| No one left behind | 1.00% | ~9,485 |
+| Medic | 1.00% | ~9,485 |
+| Nerves of steel | 1.00% | ~9,485 |
+| Perfect Escape | 1.00% | ~9,485 |
+| Perfect Killing | 1.00% | ~9,485 |
+| Bloody Millionaire | 1.00% | ~9,485 |
+| Risk it all | 1.00% | ~9,485 |
+| I | 1.00% | ~9,485 |
+| II | 1.00% | ~9,485 |
+| Engineer | 1.00% | ~9,485 |
+| Wounded Healer | 1.00% | ~9,485 |
+| Healthy Obsession | 1.00% | ~9,485 |
+| Resurgence | 1.00% | ~9,485 |
+| Close Shave | 1.00% | ~9,485 |
+| Preemptive Strike | 1.00% | ~9,485 |
+| Humanitarian | 1.00% | ~9,485 |
 | Apt Killer | 0.90% | ~8,536 |
 | Vulture | 0.90% | ~8,536 |
 | Second Act | 0.90% | ~8,536 |
-| III | 0.80% | ~7,587 |
-| With Scars to Show | 0.80% | ~7,587 |
-| Rebuilding The Borgo | 0.80% | ~7,587 |
+| III | 0.80% | ~7,588 |
+| With Scars to Show | 0.80% | ~7,588 |
+| Rebuilding The Borgo | 0.80% | ~7,588 |
 | Escape Artist | 0.70% | ~6,639 |
 | Cherish your Life | 0.70% | ~6,639 |
 | First to the Punch | 0.70% | ~6,639 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~948 |
 | Adept Ripley | 0.10% | ~948 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 948,428 (Ranked 14)  
+Progressed: 948,472 (Ranked 14)  
 Completed: 51 (0.01%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -418,7 +418,7 @@ Completed: 51 (0.01%) (Ranked 298)
 | 2023-10-16 | 944,360 | 51 |
 | 2023-10-17 | 946,172 | 51 |
 | 2023-10-18 | 948,147 | 51 |
-| 2023-10-19 | 948,428 | 51 |
+| 2023-10-19 | 948,472 | 51 |
 ## Awards
 Max (Diverse Characters): 34,059  (Ranked 15)  
 Sum: 263,581 (Ranked 13)  

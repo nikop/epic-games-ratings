@@ -117,6 +117,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cimmerian Archer | 0.50% | ~74 |
 | The Clergy | 0.50% | ~74 |
 | The Great Mage | 0.50% | ~74 |
+| Poetic Leader | 0.50% | ~74 |
 | Kmt Unified | 0.50% | ~74 |
 | Capable | 0.40% | ~59 |
 | Devout | 0.40% | ~59 |
@@ -134,7 +135,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Turreted Elephant | 0.40% | ~59 |
 | All Nations | 0.40% | ~59 |
 | Ambition Victory | 0.40% | ~59 |
-| Poetic Leader | 0.40% | ~59 |
 | Bad Heir Day | 0.30% | ~44 |
 | Ishtar Gate in Babylon | 0.30% | ~44 |
 | Carthage - Ox Hide | 0.30% | ~44 |

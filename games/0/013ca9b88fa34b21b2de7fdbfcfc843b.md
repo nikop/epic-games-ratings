@@ -17,7 +17,7 @@ Rating: 4.66 (Ranked 283)
 | Mist Walker | 31.00% | ~2,112 |
 | Lumberjack | 26.00% | ~1,772 |
 | Oui, Chef! | 23.00% | ~1,567 |
-| Clear the Air | 17.00% | ~1,158 |
+| Clear the Air | 18.00% | ~1,227 |
 | Botanical Breakthrough | 16.00% | ~1,090 |
 | Search for the Hairy Grell | 13.00% | ~886 |
 | Beach Comber | 13.00% | ~886 |

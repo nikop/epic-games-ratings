@@ -233,9 +233,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 148810,
+  "EOS_Progressed": 148811,
   "EOS_Completed": 305,
-  "EOS_NewPlayers": 1089,
+  "EOS_NewPlayers": 1088,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -14938,6 +14938,11 @@
       "Time": "2023-10-19T01:50:02.2581839+00:00",
       "NumProgressed": 148810,
       "NumCompleted": 305
+    },
+    {
+      "Time": "2023-10-19T02:24:22.6635739+00:00",
+      "NumProgressed": 148811,
+      "NumCompleted": 305
     }
   ],
   "TotalAchievements": 31,
@@ -14957,7 +14962,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 104167
+      "UsersEstimate": 104168
     },
     {
       "ID": "EAwards_10",
@@ -14965,7 +14970,7 @@
       "Name": "Combo Nerd",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 20833
+      "UsersEstimate": 20834
     },
     {
       "ID": "EAwards_11",
@@ -15085,7 +15090,7 @@
       "Name": "The Never Ending Combo",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 7440
+      "UsersEstimate": 7441
     },
     {
       "ID": "EAwards_25",
@@ -15165,7 +15170,7 @@
       "Name": "Power Within",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 37202
+      "UsersEstimate": 37203
     },
     {
       "ID": "EAwards_7",
@@ -15196,7 +15201,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 148810,
+      "Progressed": 148811,
       "Completed": 305
     }
   ],
@@ -15204,8 +15209,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-10-16T16:03:00.6349642+00:00",
-  "LastChanged_Achievements": "2023-10-19T01:50:02.2581831+00:00",
+  "LastChanged_Achievements": "2023-10-19T02:24:22.6635734+00:00",
   "LastUpdate_AppInfo": "2023-10-13T01:42:08.412452+00:00",
-  "LastUpdate_Ratings": "2023-10-19T01:40:31.7090493+00:00",
-  "LastUpdate_Achievements": "2023-10-19T01:50:02.2582971+00:00"
+  "LastUpdate_Ratings": "2023-10-19T02:14:19.9855757+00:00",
+  "LastUpdate_Achievements": "2023-10-19T02:24:22.6637213+00:00"
 }

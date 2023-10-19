@@ -7,21 +7,21 @@ Rating: 4.54 (Ranked 514)
 | ---- | ---------- | ----- |
 | Hotel California | 4.00% | ~27,914 |
 | Welcome To Hell-A | 4.00% | ~27,914 |
-| Dr. Reed, I Presume? | 3.00% | ~20,935 |
-| Git Gutte! | 3.00% | ~20,935 |
-| Bookworm | 3.00% | ~20,935 |
-| Break A Leg | 3.00% | ~20,935 |
-| But Doctor, I am Butcho | 3.00% | ~20,935 |
-| Can't Handle the Truth | 3.00% | ~20,935 |
-| Coup de Grâce | 3.00% | ~20,935 |
-| Like Riding a Bike | 3.00% | ~20,935 |
-| Hazardous Materials | 3.00% | ~20,935 |
-| Friends Like These | 3.00% | ~20,935 |
-| Apex Predator | 3.00% | ~20,935 |
-| A Patton Emerges | 3.00% | ~20,935 |
-| Stacking the Deck | 3.00% | ~20,935 |
-| Personal Assistant Personally Assisted | 3.00% | ~20,935 |
-| This is My Weapon | 3.00% | ~20,935 |
+| Dr. Reed, I Presume? | 3.00% | ~20,936 |
+| Git Gutte! | 3.00% | ~20,936 |
+| Bookworm | 3.00% | ~20,936 |
+| Break A Leg | 3.00% | ~20,936 |
+| But Doctor, I am Butcho | 3.00% | ~20,936 |
+| Can't Handle the Truth | 3.00% | ~20,936 |
+| Coup de Grâce | 3.00% | ~20,936 |
+| Like Riding a Bike | 3.00% | ~20,936 |
+| Hazardous Materials | 3.00% | ~20,936 |
+| Friends Like These | 3.00% | ~20,936 |
+| Apex Predator | 3.00% | ~20,936 |
+| A Patton Emerges | 3.00% | ~20,936 |
+| Stacking the Deck | 3.00% | ~20,936 |
+| Personal Assistant Personally Assisted | 3.00% | ~20,936 |
+| This is My Weapon | 3.00% | ~20,936 |
 | Making Your Mark | 2.00% | ~13,957 |
 | Anger Management | 2.00% | ~13,957 |
 | Perks of the Job | 2.00% | ~13,957 |
@@ -33,11 +33,11 @@ Rating: 4.54 (Ranked 514)
 | I Am the Resurrection | 2.00% | ~13,957 |
 | Down with the Sickness | 2.00% | ~13,957 |
 | Our True Nature | 2.00% | ~13,957 |
-| Smorgasbord | 1.00% | ~6,978 |
-| Jumbo Keyring | 1.00% | ~6,978 |
-| Max Headroom | 1.00% | ~6,978 |
-| Go, Bobcats! | 1.00% | ~6,978 |
-| Rising Star | 1.00% | ~6,978 |
+| Smorgasbord | 1.00% | ~6,979 |
+| Jumbo Keyring | 1.00% | ~6,979 |
+| Max Headroom | 1.00% | ~6,979 |
+| Go, Bobcats! | 1.00% | ~6,979 |
+| Rising Star | 1.00% | ~6,979 |
 | Not Even My Final Form | 0.80% | ~5,583 |
 | Internet Famous | 0.80% | ~5,583 |
 | Make it So | 0.70% | ~4,885 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 514)
 | Donk! | 0.20% | ~1,396 |
 | Bucket List | 0.10% | ~698 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 697,848 (Ranked 22)  
+Progressed: 697,862 (Ranked 22)  
 Completed: 2,242 (0.32%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,7 +233,7 @@ Completed: 2,242 (0.32%) (Ranked 201)
 | 2023-10-16 | 696,890 | 2,235 |
 | 2023-10-17 | 697,259 | 2,238 |
 | 2023-10-18 | 697,769 | 2,242 |
-| 2023-10-19 | 697,848 | 2,242 |
+| 2023-10-19 | 697,862 | 2,242 |
 ## Awards
 Max (Great Boss Battles): 6,489  (Ranked 56)  
 Sum: 9,718 (Ranked 91)  

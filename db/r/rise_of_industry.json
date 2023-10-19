@@ -282,7 +282,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 744223,
+  "EOS_Progressed": 744226,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 1993,
   "EOS_NewCompleters": 0,
@@ -20912,6 +20912,11 @@
       "Time": "2023-10-19T01:47:30.4994212+00:00",
       "NumProgressed": 744223,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-19T02:21:59.1846541+00:00",
+      "NumProgressed": 744226,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 27,
@@ -20947,7 +20952,7 @@
       "Name": "Penniless",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 44653
+      "UsersEstimate": 44654
     },
     {
       "ID": "ach_build_bridge",
@@ -20955,7 +20960,7 @@
       "Name": "Engineer",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 14884
+      "UsersEstimate": 14885
     },
     {
       "ID": "ach_build_tunnel",
@@ -20987,7 +20992,7 @@
       "Name": "Well educated",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 275363
+      "UsersEstimate": 275364
     },
     {
       "ID": "ach_demolish_trees",
@@ -21019,7 +21024,7 @@
       "Name": "Massive Gains",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 44653
+      "UsersEstimate": 44654
     },
     {
       "ID": "ach_max_truck_distance",
@@ -21051,7 +21056,7 @@
       "Name": "Entrepreneur",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 357227
+      "UsersEstimate": 357228
     },
     {
       "ID": "ach_produced",
@@ -21115,7 +21120,7 @@
       "Name": "High Flyer",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 14884
+      "UsersEstimate": 14885
     },
     {
       "ID": "ach_use_terraforming",
@@ -21131,14 +21136,14 @@
       "Name": "City Planner",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 141402
+      "UsersEstimate": 141403
     }
   ],
   "AchievementSets": [
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 744223,
+      "Progressed": 744226,
       "Completed": 4
     }
   ],
@@ -21146,8 +21151,8 @@
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
   "LastChanged": "2023-10-02T11:00:31.1907722+00:00",
-  "LastChanged_Achievements": "2023-10-19T01:47:30.4994206+00:00",
+  "LastChanged_Achievements": "2023-10-19T02:21:59.1846458+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:20.277946+00:00",
-  "LastUpdate_Ratings": "2023-10-19T01:41:47.8664855+00:00",
-  "LastUpdate_Achievements": "2023-10-19T01:47:30.4996182+00:00"
+  "LastUpdate_Ratings": "2023-10-19T02:16:00.7196798+00:00",
+  "LastUpdate_Achievements": "2023-10-19T02:21:59.1848589+00:00"
 }

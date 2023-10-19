@@ -682,9 +682,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 348289,
+  "EOS_Progressed": 348291,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 952,
+  "EOS_NewPlayers": 953,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21162,6 +21162,11 @@
       "Time": "2023-10-19T01:47:27.0642251+00:00",
       "NumProgressed": 348289,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-19T02:21:55.1699602+00:00",
+      "NumProgressed": 348291,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -21213,7 +21218,7 @@
       "Name": "Street Knowledge",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17414
+      "UsersEstimate": 17415
     },
     {
       "ID": "ach007",
@@ -21253,7 +21258,7 @@
       "Name": "Oh Captain",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17414
+      "UsersEstimate": 17415
     },
     {
       "ID": "ach012",
@@ -21277,7 +21282,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 52243
+      "UsersEstimate": 52244
     },
     {
       "ID": "ach015",
@@ -21285,7 +21290,7 @@
       "Name": "Branching Out",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17414
+      "UsersEstimate": 17415
     },
     {
       "ID": "ach016",
@@ -21381,7 +21386,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 160213
+      "UsersEstimate": 160214
     },
     {
       "ID": "ach028",
@@ -21485,7 +21490,7 @@
       "Name": "Improvement Missions",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17414
+      "UsersEstimate": 17415
     },
     {
       "ID": "ach041",
@@ -21501,7 +21506,7 @@
       "Name": "Opportunity Knocked",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17414
+      "UsersEstimate": 17415
     },
     {
       "ID": "ach043",
@@ -21565,7 +21570,7 @@
       "Name": "City of Big Shoulders",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17414
+      "UsersEstimate": 17415
     },
     {
       "ID": "ach051",
@@ -21685,7 +21690,7 @@
       "Name": "The Dawn of Automation",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 48760
+      "UsersEstimate": 48761
     },
     {
       "ID": "ach067",
@@ -21701,7 +21706,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 55726
+      "UsersEstimate": 55727
     },
     {
       "ID": "ach069",
@@ -21709,7 +21714,7 @@
       "Name": "Extraordinary Logistics",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 48760
+      "UsersEstimate": 48761
     },
     {
       "ID": "ach070",
@@ -21725,7 +21730,7 @@
       "Name": "Mission Mastery",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 17414
+      "UsersEstimate": 17415
     },
     {
       "ID": "ach072",
@@ -21812,7 +21817,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 348289,
+      "Progressed": 348291,
       "Completed": 7
     }
   ],
@@ -21820,8 +21825,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-10-13T18:00:33.8427425+00:00",
-  "LastChanged_Achievements": "2023-10-19T01:47:27.0642244+00:00",
+  "LastChanged_Achievements": "2023-10-19T02:21:55.1699596+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:45.8070686+00:00",
-  "LastUpdate_Ratings": "2023-10-19T01:40:50.837039+00:00",
-  "LastUpdate_Achievements": "2023-10-19T01:47:27.0644423+00:00"
+  "LastUpdate_Ratings": "2023-10-19T02:14:44.642208+00:00",
+  "LastUpdate_Achievements": "2023-10-19T02:21:55.1701559+00:00"
 }

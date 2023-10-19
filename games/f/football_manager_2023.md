@@ -5,55 +5,55 @@ Rating: 4.76 (Ranked 119)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Motivational Speaker | 68.00% | ~234,140 |
-| The Player Whisperer | 67.00% | ~230,697 |
-| One of Us, One of Us! | 61.00% | ~210,038 |
-| First Victory | 54.00% | ~185,935 |
-| Clean Sheet | 53.00% | ~182,492 |
-| #DoneDeal | 52.00% | ~179,048 |
-| Off the Books | 50.00% | ~172,162 |
-| Super-Sub | 50.00% | ~172,162 |
-| Hat-trick | 44.00% | ~151,503 |
-| Planned Signing | 41.00% | ~141,173 |
-| "I Would Love It If We Beat Them" | 40.00% | ~137,730 |
-| Scoring Streak | 37.00% | ~127,400 |
-| Wheeler Dealer | 37.00% | ~127,400 |
-| Thumping | 36.00% | ~123,957 |
-| People Pleaser | 36.00% | ~123,957 |
-| Unbeatable! | 35.00% | ~120,513 |
-| One Of Our Own | 33.00% | ~113,627 |
-| They're a Natural | 28.00% | ~96,411 |
-| Record Signing | 28.00% | ~96,411 |
-| Team Performance | 27.00% | ~92,967 |
-| The Only Stat That Matters | 26.00% | ~89,524 |
-| Star Player | 25.00% | ~86,081 |
-| Parked The Bus | 24.00% | ~82,638 |
-| Full Faith | 24.00% | ~82,638 |
-| Goal Rush | 24.00% | ~82,638 |
-| The People's Champion | 24.00% | ~82,638 |
-| Beating Expectations | 23.00% | ~79,195 |
-| Squad Goals | 23.00% | ~79,195 |
-| Drilling Down | 22.00% | ~75,751 |
-| Record Sale | 22.00% | ~75,751 |
-| You're on Fire | 21.00% | ~72,308 |
-| Tremendous Trio | 21.00% | ~72,308 |
-| Flavour Of The Month | 21.00% | ~72,308 |
-| Unstoppable Force | 21.00% | ~72,308 |
-| On a Roll | 20.00% | ~68,865 |
-| Shots For Days | 20.00% | ~68,865 |
-| What A Goal! | 19.00% | ~65,422 |
-| The Special One | 19.00% | ~65,422 |
-| Splashing the Cash | 17.00% | ~58,535 |
-| Goal Machine | 17.00% | ~58,535 |
-| Cup Glory! | 17.00% | ~58,535 |
-| Immovable Object | 16.00% | ~55,092 |
-| Irresistible Force | 15.00% | ~51,649 |
-| Do The Double | 13.00% | ~44,762 |
-| Cash to Burn | 13.00% | ~44,762 |
-| Window Shopping | 13.00% | ~44,762 |
+| Motivational Speaker | 68.00% | ~234,144 |
+| The Player Whisperer | 67.00% | ~230,701 |
+| One of Us, One of Us! | 61.00% | ~210,041 |
+| First Victory | 54.00% | ~185,938 |
+| Clean Sheet | 53.00% | ~182,495 |
+| #DoneDeal | 52.00% | ~179,052 |
+| Off the Books | 50.00% | ~172,165 |
+| Super-Sub | 50.00% | ~172,165 |
+| Hat-trick | 44.00% | ~151,505 |
+| Planned Signing | 41.00% | ~141,175 |
+| "I Would Love It If We Beat Them" | 40.00% | ~137,732 |
+| Scoring Streak | 37.00% | ~127,402 |
+| Wheeler Dealer | 37.00% | ~127,402 |
+| Thumping | 36.00% | ~123,959 |
+| People Pleaser | 36.00% | ~123,959 |
+| Unbeatable! | 35.00% | ~120,515 |
+| One Of Our Own | 33.00% | ~113,629 |
+| They're a Natural | 28.00% | ~96,412 |
+| Record Signing | 28.00% | ~96,412 |
+| Team Performance | 27.00% | ~92,969 |
+| The Only Stat That Matters | 26.00% | ~89,526 |
+| Star Player | 25.00% | ~86,082 |
+| Parked The Bus | 24.00% | ~82,639 |
+| Full Faith | 24.00% | ~82,639 |
+| Goal Rush | 24.00% | ~82,639 |
+| The People's Champion | 24.00% | ~82,639 |
+| Beating Expectations | 23.00% | ~79,196 |
+| Squad Goals | 23.00% | ~79,196 |
+| Drilling Down | 22.00% | ~75,753 |
+| Record Sale | 22.00% | ~75,753 |
+| You're on Fire | 21.00% | ~72,309 |
+| Tremendous Trio | 21.00% | ~72,309 |
+| Flavour Of The Month | 21.00% | ~72,309 |
+| Unstoppable Force | 21.00% | ~72,309 |
+| On a Roll | 20.00% | ~68,866 |
+| Shots For Days | 20.00% | ~68,866 |
+| What A Goal! | 19.00% | ~65,423 |
+| The Special One | 19.00% | ~65,423 |
+| Splashing the Cash | 17.00% | ~58,536 |
+| Goal Machine | 17.00% | ~58,536 |
+| Cup Glory! | 17.00% | ~58,536 |
+| Immovable Object | 16.00% | ~55,093 |
+| Irresistible Force | 15.00% | ~51,650 |
+| Do The Double | 13.00% | ~44,763 |
+| Cash to Burn | 13.00% | ~44,763 |
+| Window Shopping | 13.00% | ~44,763 |
 | Top Form | 11.00% | ~37,876 |
 | A Game of Two Halves | 11.00% | ~37,876 |
-| You're Up! | 10.00% | ~34,432 |
+| You're Up! | 10.00% | ~34,433 |
 | Clean Sheet Network | 8.00% | ~27,546 |
 | First Goal Network | 8.00% | ~27,546 |
 | First Win Network | 8.00% | ~27,546 |
@@ -61,7 +61,7 @@ Rating: 4.76 (Ranked 119)
 | Superb Strike | 7.00% | ~24,103 |
 | Tête-à-tête | 7.00% | ~24,103 |
 | Best in the World | 7.00% | ~24,103 |
-| Invincible! | 6.00% | ~20,659 |
+| Invincible! | 6.00% | ~20,660 |
 | Best in the Business | 5.00% | ~17,216 |
 | National Service | 5.00% | ~17,216 |
 | Total Support | 5.00% | ~17,216 |
@@ -74,9 +74,9 @@ Rating: 4.76 (Ranked 119)
 | Parked The Tank | 3.00% | ~10,330 |
 | World Renowned | 3.00% | ~10,330 |
 | Invitational | 3.00% | ~10,330 |
-| Cupset Between Friends | 2.00% | ~6,886 |
-| National Hero | 2.00% | ~6,886 |
-| Mini League Champion | 2.00% | ~6,886 |
+| Cupset Between Friends | 2.00% | ~6,887 |
+| National Hero | 2.00% | ~6,887 |
+| Mini League Champion | 2.00% | ~6,887 |
 | Part of the Furniture | 1.00% | ~3,443 |
 | Beat Your Mates | 1.00% | ~3,443 |
 | Trophy Hoarder | 1.00% | ~3,443 |
@@ -106,7 +106,7 @@ Rating: 4.76 (Ranked 119)
 | Draft Dominator | 0.10% | ~344 |
 | Draft Value | 0.10% | ~344 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 344,324 (Ranked 44)  
+Progressed: 344,330 (Ranked 44)  
 Completed: 26 (0.01%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,10 +288,10 @@ Completed: 26 (0.01%) (Ranked 298)
 | 2023-10-16 | 343,216 | 26 |
 | 2023-10-17 | 343,752 | 26 |
 | 2023-10-18 | 344,293 | 26 |
-| 2023-10-19 | 344,324 | 26 |
+| 2023-10-19 | 344,330 | 26 |
 ## Awards
 Max (Diverse Characters): 937  (Ranked 154)  
-Sum: 6,765 (Ranked 120)  
+Sum: 6,771 (Ranked 120)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
@@ -299,7 +299,7 @@ Diff (max vs sum): 34
 | This game is Extremely Fun | 826 |
 | This game is Highly Recommended | 807 |
 | This game is Educational | 780 |
-| This game is Relaxing | 755 |
+| This game is Relaxing | 761 |
 | This game has Competitive Players | 697 |
 | This game has Quickly Understood Controls | 686 |
 | This game has Amazing Storytelling | 658 |
@@ -543,3 +543,4 @@ Diff (max vs sum): 34
 | 2023-10-16 | 4.76 | 921 | 6,671 |
 | 2023-10-17 | 4.76 | 928 | 6,715 |
 | 2023-10-18 | 4.76 | 937 | 6,765 |
+| 2023-10-19 | 4.76 | 937 | 6,771 |

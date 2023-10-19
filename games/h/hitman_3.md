@@ -6,18 +6,18 @@ Number of Ratings: 21,082  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unseen Assassin | 46.00% | ~619,373 |
-| Death From Above | 45.00% | ~605,908 |
-| Master of the Household | 38.00% | ~511,656 |
+| Unseen Assassin | 46.00% | ~619,374 |
+| Death From Above | 45.00% | ~605,909 |
+| Master of the Household | 38.00% | ~511,657 |
 | Death of the Party | 36.00% | ~484,727 |
 | NEXUS-47 | 33.00% | ~444,333 |
 | The Last Tango | 31.00% | ~417,404 |
-| Nightmare Fuel | 30.00% | ~403,939 |
+| Nightmare Fuel | 30.00% | ~403,940 |
 | The Result of Previous Training | 28.00% | ~377,010 |
 | Tools of the Trade | 28.00% | ~377,010 |
-| Cleared for Field Duty | 27.00% | ~363,545 |
-| Seizing the Opportunity | 26.00% | ~350,080 |
-| Bullet Train | 21.00% | ~282,757 |
+| Cleared for Field Duty | 27.00% | ~363,546 |
+| Seizing the Opportunity | 26.00% | ~350,081 |
+| Bullet Train | 21.00% | ~282,758 |
 | Stylish Assassin | 20.00% | ~269,293 |
 | Silent Assassin | 14.00% | ~188,505 |
 | Rise Up | 12.00% | ~161,576 |
@@ -29,7 +29,7 @@ Number of Ratings: 21,082  (23.09.2022)
 | Dune Raider | 8.00% | ~107,717 |
 | No Stone Unturned | 8.00% | ~107,717 |
 | Train Surfing | 8.00% | ~107,717 |
-| Icebreaker | 7.00% | ~94,252 |
+| Icebreaker | 7.00% | ~94,253 |
 | Family Feud | 6.00% | ~80,788 |
 | Rich Harvest | 6.00% | ~80,788 |
 | Shortcut Killer | 5.00% | ~67,323 |
@@ -54,7 +54,7 @@ Number of Ratings: 21,082  (23.09.2022)
 | Ripe for the Picking | 1.00% | ~13,465 |
 | The Creative Assassin | 0.70% | ~9,425 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,346,463 (Ranked 9)  
+Progressed: 1,346,465 (Ranked 9)  
 Completed: 2,161 (0.16%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,10 +236,10 @@ Completed: 2,161 (0.16%) (Ranked 233)
 | 2023-10-16 | 1,345,918 | 2,160 |
 | 2023-10-17 | 1,346,165 | 2,160 |
 | 2023-10-18 | 1,346,444 | 2,161 |
-| 2023-10-19 | 1,346,463 | 2,161 |
+| 2023-10-19 | 1,346,465 | 2,161 |
 ## Awards
 Max (Diverse Characters): 10,352  (Ranked 38)  
-Sum: 72,302 (Ranked 21)  
+Sum: 72,305 (Ranked 21)  
 Diff (max vs sum): 17  
 | Award | Count |
 | ----- | ----- |
@@ -251,7 +251,7 @@ Diff (max vs sum): 17
 | This game has Quickly Understood Controls | 8,545 |
 | This game is Relaxing | 8,427 |
 | This game is Great for Beginners | 8,394 |
-| This game has a Creative Community | 8,288 |
+| This game has a Creative Community | 8,291 |
 | This game has Obsessive Gameplay | 5,956 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -550,3 +550,4 @@ Diff (max vs sum): 17
 | 2023-10-16 | 4.78 | - | 10,333 | 72,225 |
 | 2023-10-17 | 4.78 | - | 10,344 | 72,260 |
 | 2023-10-18 | 4.78 | - | 10,352 | 72,302 |
+| 2023-10-19 | 4.78 | - | 10,352 | 72,305 |

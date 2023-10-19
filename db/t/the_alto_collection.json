@@ -784,9 +784,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 43111,
+  "EOS_Progressed": 43113,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 751,
+  "EOS_NewPlayers": 750,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -21174,6 +21174,11 @@
       "Time": "2023-10-19T01:48:03.6550082+00:00",
       "NumProgressed": 43111,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-19T02:22:39.7719621+00:00",
+      "NumProgressed": 43113,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -21225,7 +21230,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 11640
+      "UsersEstimate": 11641
     },
     {
       "ID": "goals180",
@@ -21441,7 +21446,7 @@
       "Name": "Izel Has Arrived",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 1724
+      "UsersEstimate": 1725
     },
     {
       "ID": "unlockmaya",
@@ -21496,15 +21501,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 43111,
+      "Progressed": 43113,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-10-12T08:00:34.9108004+00:00",
-  "LastChanged_Achievements": "2023-10-19T01:48:03.6550077+00:00",
+  "LastChanged_Achievements": "2023-10-19T02:22:39.7719618+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:17.6286578+00:00",
-  "LastUpdate_Ratings": "2023-10-19T01:40:44.2922621+00:00",
-  "LastUpdate_Achievements": "2023-10-19T01:48:03.6552004+00:00"
+  "LastUpdate_Ratings": "2023-10-19T02:14:36.4263777+00:00",
+  "LastUpdate_Achievements": "2023-10-19T02:22:39.7721487+00:00"
 }

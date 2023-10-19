@@ -18,7 +18,7 @@ Rating: 4.30 (Ranked 816)
 | The Tunneler | 39.00% | ~67 |
 | Level Up!! | 38.00% | ~66 |
 | The Shield | 37.00% | ~64 |
-| Kill-streak | 29.00% | ~50 |
+| Kill-streak | 30.00% | ~52 |
 | Topped up | 28.00% | ~48 |
 | The Bird | 28.00% | ~48 |
 | The Ninja | 27.00% | ~47 |

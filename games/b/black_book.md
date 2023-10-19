@@ -6,33 +6,33 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 26.00% | ~11,500 |
-| Student | 20.00% | ~8,846 |
-| Knower | 15.00% | ~6,634 |
-| Listener | 14.00% | ~6,192 |
-| Aspen Tree | 13.00% | ~5,750 |
-| Healer | 13.00% | ~5,750 |
-| Scientist | 11.00% | ~4,865 |
-| Soldier | 11.00% | ~4,865 |
-| Cow Level | 10.00% | ~4,423 |
+| Initiation | 26.00% | ~11,502 |
+| Student | 20.00% | ~8,847 |
+| Knower | 15.00% | ~6,636 |
+| Listener | 14.00% | ~6,193 |
+| Aspen Tree | 13.00% | ~5,751 |
+| Healer | 13.00% | ~5,751 |
+| Scientist | 11.00% | ~4,866 |
+| Soldier | 11.00% | ~4,866 |
+| Cow Level | 10.00% | ~4,424 |
 | Old Friend | 9.00% | ~3,981 |
 | Herbalist | 9.00% | ~3,981 |
 | New Spirits | 9.00% | ~3,981 |
 | Voipel | 9.00% | ~3,981 |
 | Water | 9.00% | ~3,981 |
 | Black Mage | 9.00% | ~3,981 |
-| Card Player | 8.00% | ~3,538 |
-| Pine Tree | 8.00% | ~3,538 |
-| Collector | 8.00% | ~3,538 |
-| Wolf | 8.00% | ~3,538 |
-| Worthy | 7.00% | ~3,096 |
-| Black Book | 7.00% | ~3,096 |
-| Dead Man | 7.00% | ~3,096 |
-| Fern | 7.00% | ~3,096 |
-| 100 Friends | 7.00% | ~3,096 |
-| Dead Friend | 7.00% | ~3,096 |
-| Researcher | 7.00% | ~3,096 |
-| Savvy | 7.00% | ~3,096 |
+| Card Player | 8.00% | ~3,539 |
+| Pine Tree | 8.00% | ~3,539 |
+| Collector | 8.00% | ~3,539 |
+| Wolf | 8.00% | ~3,539 |
+| Worthy | 7.00% | ~3,097 |
+| Black Book | 7.00% | ~3,097 |
+| Dead Man | 7.00% | ~3,097 |
+| Fern | 7.00% | ~3,097 |
+| 100 Friends | 7.00% | ~3,097 |
+| Dead Friend | 7.00% | ~3,097 |
+| Researcher | 7.00% | ~3,097 |
+| Savvy | 7.00% | ~3,097 |
 | Black Sorcerer | 6.00% | ~2,654 |
 | Encyclopedist | 6.00% | ~2,654 |
 | Witch | 6.00% | ~2,654 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 1.00% | ~442 |
 | Word Master | 0.20% | ~88 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,230 (Ranked 105)  
+Progressed: 44,237 (Ranked 105)  
 Completed: 34 (0.08%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 34 (0.08%) (Ranked 262)
 | 2023-10-16 | 43,512 | 33 |
 | 2023-10-17 | 43,852 | 33 |
 | 2023-10-18 | 44,202 | 34 |
-| 2023-10-19 | 44,230 | 34 |
+| 2023-10-19 | 44,237 | 34 |
 ## Awards
 Max (Character Customization): 75  (Ranked 381)  
 Sum: 75 (Ranked 450)  

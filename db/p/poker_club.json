@@ -853,9 +853,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 531870,
+  "EOS_Progressed": 531872,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1569,
+  "EOS_NewPlayers": 1568,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21238,6 +21238,11 @@
       "Time": "2023-10-19T01:49:08.2022525+00:00",
       "NumProgressed": 531870,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-19T02:24:07.0863065+00:00",
+      "NumProgressed": 531872,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -21345,7 +21350,7 @@
       "Name": "Cold Caller",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 207429
+      "UsersEstimate": 207430
     },
     {
       "ID": "DeadlyAssassin",
@@ -21353,7 +21358,7 @@
       "Name": "Deadly Assassin",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 79780
+      "UsersEstimate": 79781
     },
     {
       "ID": "DogEatDog",
@@ -21401,7 +21406,7 @@
       "Name": "Handy",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 218067
+      "UsersEstimate": 218068
     },
     {
       "ID": "HoldingYourOwn",
@@ -21497,7 +21502,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 404221
+      "UsersEstimate": 404223
     },
     {
       "ID": "ProPlayer",
@@ -21608,7 +21613,7 @@
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 531870,
+      "Progressed": 531872,
       "Completed": 2
     }
   ],
@@ -21616,8 +21621,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2023-10-17T20:58:40.4012855+00:00",
-  "LastChanged_Achievements": "2023-10-19T01:49:08.202252+00:00",
+  "LastChanged_Achievements": "2023-10-19T02:24:07.0863056+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:39.863967+00:00",
-  "LastUpdate_Ratings": "2023-10-19T01:42:09.6276315+00:00",
-  "LastUpdate_Achievements": "2023-10-19T01:49:08.2024481+00:00"
+  "LastUpdate_Ratings": "2023-10-19T02:16:26.4684709+00:00",
+  "LastUpdate_Achievements": "2023-10-19T02:24:07.0865698+00:00"
 }

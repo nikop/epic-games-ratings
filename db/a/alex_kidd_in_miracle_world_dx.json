@@ -573,9 +573,9 @@
       "ID": "TELEPATHY_BALL_OBTAINED",
       "SetID": "7im05fi",
       "Name": "Magic Ball",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 108
+      "UsersEstimate": 112
     }
   ],
   "AchievementSets": [
@@ -590,8 +590,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-10-19T01:51:05.6799148+00:00",
+  "LastChanged_Achievements": "2023-10-19T02:25:19.9897108+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:21.7306089+00:00",
-  "LastUpdate_Ratings": "2023-10-19T01:43:15.3305569+00:00",
-  "LastUpdate_Achievements": "2023-10-19T01:51:05.6799341+00:00"
+  "LastUpdate_Ratings": "2023-10-19T02:17:55.2156491+00:00",
+  "LastUpdate_Achievements": "2023-10-19T02:25:19.9897422+00:00"
 }

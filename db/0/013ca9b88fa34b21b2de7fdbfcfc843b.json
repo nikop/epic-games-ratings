@@ -4670,9 +4670,9 @@
       "ID": "CHAPTER_5_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Clear the Air",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 1158
+      "UsersEstimate": 1227
     },
     {
       "ID": "CHAPTER_6_COMPLETE",
@@ -4927,8 +4927,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-17T22:58:37.318492+00:00",
-  "LastChanged_Achievements": "2023-10-19T01:48:03.9356742+00:00",
+  "LastChanged_Achievements": "2023-10-19T02:22:40.1678862+00:00",
   "LastUpdate_AppInfo": "2023-10-13T06:57:01.9287951+00:00",
-  "LastUpdate_Ratings": "2023-10-19T01:42:10.2361346+00:00",
-  "LastUpdate_Achievements": "2023-10-19T01:48:03.9357448+00:00"
+  "LastUpdate_Ratings": "2023-10-19T02:16:27.1533494+00:00",
+  "LastUpdate_Achievements": "2023-10-19T02:22:40.1679407+00:00"
 }

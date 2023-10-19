@@ -2593,9 +2593,9 @@
       "ID": "PASS_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Beep Beep Boop",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 105
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_1",
@@ -2688,8 +2688,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-10-19T01:51:04.7171499+00:00",
+  "LastChanged_Achievements": "2023-10-19T02:25:18.8956384+00:00",
   "LastUpdate_AppInfo": "2023-10-12T20:57:27.7908021+00:00",
-  "LastUpdate_Ratings": "2023-10-19T01:40:28.5616615+00:00",
-  "LastUpdate_Achievements": "2023-10-19T01:51:04.7172467+00:00"
+  "LastUpdate_Ratings": "2023-10-19T02:14:17.1434696+00:00",
+  "LastUpdate_Achievements": "2023-10-19T02:25:18.8957014+00:00"
 }

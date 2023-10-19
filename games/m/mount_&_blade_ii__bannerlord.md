@@ -36,29 +36,29 @@ Number of Ratings: 5,603  (23.09.2022)
 | Real Estate | 3.00% | ~1,905 |
 | Entrepreneur | 1.00% | ~635 |
 | Supreme Emperor | 1.00% | ~635 |
-| Crackshot | 0.90% | ~571 |
+| Crackshot | 0.90% | ~572 |
 | Undercover | 0.80% | ~508 |
 | Fat Cat | 0.70% | ~444 |
 | Catch | 0.60% | ~381 |
-| Slice 'n dice | 0.50% | ~317 |
+| Slice 'n dice | 0.50% | ~318 |
 | Ride it like you stole it | 0.40% | ~254 |
 | Mounted Archery | 0.30% | ~190 |
 | Explorer | 0.20% | ~127 |
 | Great Granny | 0.20% | ~127 |
 | Strike! | 0.20% | ~127 |
-| Best served cold | 0.10% | ~63 |
-| Butcher of Calradia | 0.10% | ~63 |
-| Headhunter | 0.10% | ~63 |
-| Heartbreaker | 0.10% | ~63 |
-| Kingslayer | 0.10% | ~63 |
-| Lance-a-lot | 0.10% | ~63 |
-| Minor Clan | 0.10% | ~63 |
-| Roadkill | 0.10% | ~63 |
-| This is Sparta! | 0.10% | ~63 |
+| Best served cold | 0.10% | ~64 |
+| Butcher of Calradia | 0.10% | ~64 |
+| Headhunter | 0.10% | ~64 |
+| Heartbreaker | 0.10% | ~64 |
+| Kingslayer | 0.10% | ~64 |
+| Lance-a-lot | 0.10% | ~64 |
+| Minor Clan | 0.10% | ~64 |
+| Roadkill | 0.10% | ~64 |
+| This is Sparta! | 0.10% | ~64 |
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,499 (Ranked 98)  
+Progressed: 63,500 (Ranked 98)  
 Completed: 0 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,7 +240,7 @@ Completed: 0 (0.00%) (Ranked 316)
 | 2023-10-16 | 63,408 | 0 |
 | 2023-10-17 | 63,440 | 0 |
 | 2023-10-18 | 63,498 | 0 |
-| 2023-10-19 | 63,499 | 0 |
+| 2023-10-19 | 63,500 | 0 |
 ## Awards
 Max (Character Customization): 7,245  (Ranked 52)  
 Sum: 14,919 (Ranked 66)  
