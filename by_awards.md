@@ -381,11 +381,11 @@
 | 379 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 76 | 4.60 | 403 |
 | 379 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 76 | 4.19 | 895 |
 | 381 | [Black Book](games/b/black_book.md) | 75 | 4.67 | 264 |
-| 382 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 74 | 4.36 | 762 |
-| 382 | [Rising Hell](games/r/rising_hell.md) | 74 | 4.41 | 700 |
-| 382 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 74 | 4.39 | 731 |
-| 382 | [SYNCED](games/s/synced.md) | 74 | 4.17 | 909 |
-| 382 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 74 | 4.64 | 324 |
+| 381 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 75 | 4.64 | 324 |
+| 383 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 74 | 4.36 | 762 |
+| 383 | [Rising Hell](games/r/rising_hell.md) | 74 | 4.41 | 700 |
+| 383 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 74 | 4.39 | 731 |
+| 383 | [SYNCED](games/s/synced.md) | 74 | 4.17 | 909 |
 | 387 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 73 | 4.55 | 495 |
 | 387 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 73 | 4.57 | 457 |
 | 389 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 71 | 4.68 | 242 |

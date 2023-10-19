@@ -3,8 +3,8 @@
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 66.67% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.58% |
-| 4 | [The Riflemen](games/t/the_riflemen.md) | 47.32% |
-| 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.93% |
+| 4 | [The Riflemen](games/t/the_riflemen.md) | 47.30% |
+| 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.76% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 33.04% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -30,7 +30,7 @@
 | 28 | [Remains](games/r/remains.md) | 11.76% |
 | 29 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 11.43% |
 | 29 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 11.43% |
-| 31 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.16% |
+| 31 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.14% |
 | 32 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 33 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.80% |
 | 34 | [Anna's Quest](games/a/anna's_quest.md) | 10.71% |
@@ -76,9 +76,9 @@
 | 74 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.00% |
 | 75 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
 | 75 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.80% |
-| 77 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.58% |
-| 78 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
-| 79 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.56% |
+| 77 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.79% |
+| 78 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.58% |
+| 79 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
 | 80 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 81 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.39% |
 | 82 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
@@ -140,7 +140,7 @@
 | 138 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.12% |
 | 138 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.12% |
 | 140 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 1.08% |
-| 141 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.07% |
+| 140 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.08% |
 | 142 | [Trifox](games/t/trifox.md) | 1.06% |
 | 143 | [Adios](games/a/adios.md) | 1.05% |
 | 143 | [Infindustry](games/i/infindustry.md) | 1.05% |
@@ -207,10 +207,10 @@
 | 203 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 206 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
 | 206 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.30% |
+| 206 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.30% |
 | 206 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.30% |
 | 206 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.30% |
-| 210 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.29% |
-| 210 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.29% |
+| 211 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.29% |
 | 212 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.27% |
 | 212 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.27% |
 | 214 | [The Devil's Face](games/t/the_devil's_face.md) | 0.26% |

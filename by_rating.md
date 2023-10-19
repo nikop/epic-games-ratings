@@ -335,7 +335,7 @@
 | 324 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 67 | 397 |
 | 324 | [System Shock](games/s/system_shock.md) | 4.64 | 0 | 539 |
 | 324 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.64 | 0 | 539 |
-| 324 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.64 | 74 | 382 |
+| 324 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.64 | 75 | 381 |
 | 324 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 198 | 279 |
 | 324 | [Warhammer 40,000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.64 | 0 | 539 |
 | 339 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 21 | 527 |
@@ -716,7 +716,7 @@
 | 700 | [My Pet Hooligan](games/e/ef233d1e2619445a887f0380266aa4b5.md) | 4.41 | 0 | 539 |
 | 700 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 0 | 539 |
 | 700 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 38 | 446 |
-| 700 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 74 | 382 |
+| 700 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 74 | 383 |
 | 700 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,217 | 107 |
 | 700 | [Sheltered](games/s/sheltered.md) | 4.41 | 274 | 253 |
 | 700 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 4.41 | 0 | 539 |
@@ -739,7 +739,7 @@
 | 731 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 174 | 292 |
 | 731 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,771 | 35 |
 | 731 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.39 | 0 | 539 |
-| 731 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.39 | 74 | 382 |
+| 731 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.39 | 74 | 383 |
 | 731 | [Startup Panic](games/s/startup_panic.md) | 4.39 | 0 | 539 |
 | 731 | [Tacoma](games/t/tacoma.md) | 4.39 | 0 | 539 |
 | 731 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 334 | 237 |
@@ -767,7 +767,7 @@
 | 762 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 173 | 293 |
 | 762 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,714 | 31 |
 | 762 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.36 | 0 | 539 |
-| 762 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 4.36 | 74 | 382 |
+| 762 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 4.36 | 74 | 383 |
 | 762 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 539 |
 | 762 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 0 | 539 |
 | 762 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 26 | 501 |
@@ -911,7 +911,7 @@
 | 909 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.17 | 36 | 453 |
 | 909 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.17 | 94 | 358 |
 | 909 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 4.17 | 20 | 531 |
-| 909 | [SYNCED](games/s/synced.md) | 4.17 | 74 | 382 |
+| 909 | [SYNCED](games/s/synced.md) | 4.17 | 74 | 383 |
 | 909 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 0 | 539 |
 | 914 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 0 | 539 |
 | 914 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 618 | 187 |
