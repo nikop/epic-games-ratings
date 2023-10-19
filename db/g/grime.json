@@ -1153,9 +1153,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 153154,
+  "EOS_Progressed": 153171,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1595,
+  "EOS_NewPlayers": 1596,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12213,6 +12213,11 @@
       "Time": "2023-10-19T14:06:19.8099011+00:00",
       "NumProgressed": 153154,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-19T15:06:09.2062293+00:00",
+      "NumProgressed": 153171,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -12264,7 +12269,7 @@
       "Name": "Zygote",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "ACQUIRE_HUNTPOINT",
@@ -12304,7 +12309,7 @@
       "Name": "Hunt Down",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "DEFEAT_ARTISAN",
@@ -12312,7 +12317,7 @@
       "Name": "Artisan",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "DEFEAT_FIDUS",
@@ -12328,7 +12333,7 @@
       "Name": "Scion",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "DEFEAT_FLOWERROCKGIANT",
@@ -12352,7 +12357,7 @@
       "Name": "Hush",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "DEFEAT_HARMLESSROCKGIANT",
@@ -12392,7 +12397,7 @@
       "Name": "Inevitable",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "DEFEAT_VULTURE",
@@ -12424,7 +12429,7 @@
       "Name": "Devourer",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1378
+      "UsersEstimate": 1379
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -12432,7 +12437,7 @@
       "Name": "All-Seeing",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "MISC_ACTIVATESURROGATE",
@@ -12470,9 +12475,9 @@
       "ID": "MISC_MAXUPGRADE",
       "SetID": "ccc0dlh",
       "Name": "Breathsmith",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 306
+      "UsersEstimate": 460
     },
     {
       "ID": "MISC_PULLANENEMY",
@@ -12544,7 +12549,7 @@
       "Name": "Listen",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "QUEST_YON",
@@ -12591,21 +12596,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 152737,
+      "Progressed": 152754,
       "Completed": 1164
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 153154,
+      "Progressed": 153171,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-19T03:57:30.2133222+00:00",
-  "LastChanged_Achievements": "2023-10-19T14:06:19.8099004+00:00",
+  "LastChanged_Achievements": "2023-10-19T15:06:09.2062288+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:33.8479674+00:00",
-  "LastUpdate_Ratings": "2023-10-19T13:58:00.4953526+00:00",
-  "LastUpdate_Achievements": "2023-10-19T14:06:19.810012+00:00"
+  "LastUpdate_Ratings": "2023-10-19T14:57:52.116759+00:00",
+  "LastUpdate_Achievements": "2023-10-19T15:06:09.2063517+00:00"
 }

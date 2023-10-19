@@ -4,7 +4,7 @@
   "ProductSlug": "sheepo-62cd3e",
   "Ranking_EOS_Progress": 681,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 402,
+  "Ranking_EOS_NewPlayers": 403,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-10-27T16:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1712819+00:00",
   "LastChanged": "2023-03-31T05:57:31.171282+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:11.0826524+00:00",
-  "LastUpdate_Ratings": "2023-10-19T13:59:47.6159594+00:00",
-  "LastUpdate_Achievements": "2023-10-19T14:05:57.0133173+00:00"
+  "LastUpdate_Ratings": "2023-10-19T14:59:37.0251386+00:00",
+  "LastUpdate_Achievements": "2023-10-19T15:05:46.020884+00:00"
 }

@@ -6155,9 +6155,9 @@
       "ID": "objective_hero_level_up_1",
       "SetID": "bm61c2p",
       "Name": "Corporal",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 244
+      "UsersEstimate": 260
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -6356,8 +6356,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-10-19T14:07:41.9553553+00:00",
+  "LastChanged_Achievements": "2023-10-19T15:07:31.8370056+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:23.525424+00:00",
-  "LastUpdate_Ratings": "2023-10-19T13:57:34.8384642+00:00",
-  "LastUpdate_Achievements": "2023-10-19T14:07:41.9554329+00:00"
+  "LastUpdate_Ratings": "2023-10-19T14:57:24.9561664+00:00",
+  "LastUpdate_Achievements": "2023-10-19T15:07:31.8370777+00:00"
 }

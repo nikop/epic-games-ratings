@@ -7,11 +7,11 @@ Rating: 4.56 (Ranked 476)
 | ---- | ---------- | ----- |
 | Wakey Wakey | 28.00% | ~907 |
 | Sputnik 2049 | 25.00% | ~810 |
-| Infinite Growth... | 24.00% | ~777 |
 | Without Breaking Some Eggs... | 23.00% | ~745 |
-| Space Society | 17.00% | ~550 |
-| A Thousand Strong | 17.00% | ~550 |
-| Ready for a New World | 17.00% | ~550 |
+| Infinite Growth... | 23.00% | ~745 |
+| Space Society | 17.00% | ~551 |
+| A Thousand Strong | 17.00% | ~551 |
+| Ready for a New World | 17.00% | ~551 |
 | Permanent Redesigns | 15.00% | ~486 |
 | Fully Recycled | 13.00% | ~421 |
 | Ain't Nobody Got Time for That | 13.00% | ~421 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 476)
 | I Give You the Stars | 0.10% | ~1 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,238 (Ranked 191)  
+Progressed: 3,239 (Ranked 191)  
 Completed: 0 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,6 +239,7 @@ Completed: 0 (0.00%) (Ranked 316)
 | 2023-10-16 | 3,234 | 0 |
 | 2023-10-17 | 3,237 | 0 |
 | 2023-10-18 | 3,238 | 0 |
+| 2023-10-19 | 3,239 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

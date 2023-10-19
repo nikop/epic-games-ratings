@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 352,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -639,7 +639,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1758,
+  "EOS_Progressed": 1759,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
@@ -4144,6 +4144,11 @@
       "Time": "2023-10-19T13:14:15.4506057+00:00",
       "NumProgressed": 1758,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-19T15:07:24.2817966+00:00",
+      "NumProgressed": 1759,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 61,
@@ -4313,9 +4318,9 @@
       "ID": "achCompleteFirstMission",
       "SetID": "dgl390n",
       "Name": "Cadet",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 949
+      "UsersEstimate": 932
     },
     {
       "ID": "achCreateLine",
@@ -4329,9 +4334,9 @@
       "ID": "achCrowdInATrain",
       "SetID": "dgl390n",
       "Name": "Crowd in a train",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 563
+      "UsersEstimate": 545
     },
     {
       "ID": "achEmissionLevel",
@@ -4339,7 +4344,7 @@
       "Name": "Not in my backyard",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "achEpec",
@@ -4347,7 +4352,7 @@
       "Name": "E.P.E.C.",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "achFirstAircraftArrived",
@@ -4363,7 +4368,7 @@
       "Name": "First bus arrived",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1160
+      "UsersEstimate": 1161
     },
     {
       "ID": "achFirstCargoTransported",
@@ -4379,7 +4384,7 @@
       "Name": "First cargo item waiting",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 1248
+      "UsersEstimate": 1249
     },
     {
       "ID": "achFirstElectricTrainArrived",
@@ -4387,7 +4392,7 @@
       "Name": "First electric train arrived",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 826
+      "UsersEstimate": 827
     },
     {
       "ID": "achFirstIndustryUpgrade",
@@ -4395,7 +4400,7 @@
       "Name": "First industry upgraded",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 1002
+      "UsersEstimate": 1003
     },
     {
       "ID": "achFirstPassengerTransported",
@@ -4403,7 +4408,7 @@
       "Name": "First passenger on board",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 1178
+      "UsersEstimate": 1179
     },
     {
       "ID": "achFirstPassengerWaiting",
@@ -4411,15 +4416,15 @@
       "Name": "First passenger waiting",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 1178
+      "UsersEstimate": 1179
     },
     {
       "ID": "achFirstShipArrived",
       "SetID": "dgl390n",
       "Name": "First ship arrived",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 809
+      "UsersEstimate": 792
     },
     {
       "ID": "achFirstSteamTrainArrived",
@@ -4451,7 +4456,7 @@
       "Name": "Settled down",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "achHq20",
@@ -4475,7 +4480,7 @@
       "Name": "Sculpturer",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 879
+      "UsersEstimate": 880
     },
     {
       "ID": "achLongestTrain",
@@ -4499,7 +4504,7 @@
       "Name": "Mass production",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 615
+      "UsersEstimate": 616
     },
     {
       "ID": "achMetropolis",
@@ -4515,7 +4520,7 @@
       "Name": "Exemplary student",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "achMuseumLine",
@@ -4571,7 +4576,7 @@
       "Name": "The ugly smell of success",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "achSmellOfSuccessCargo",
@@ -4642,15 +4647,15 @@
     {
       "ID": "dgl390n",
       "IsBase": true,
-      "Progressed": 1758,
+      "Progressed": 1759,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-10-17T18:00:35.1820377+00:00",
-  "LastChanged_Achievements": "2023-10-19T14:07:33.9600676+00:00",
+  "LastChanged_Achievements": "2023-10-19T15:07:24.2817957+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:13.4175096+00:00",
-  "LastUpdate_Ratings": "2023-10-19T14:01:39.1414832+00:00",
-  "LastUpdate_Achievements": "2023-10-19T14:07:33.9601569+00:00"
+  "LastUpdate_Ratings": "2023-10-19T15:01:35.259517+00:00",
+  "LastUpdate_Achievements": "2023-10-19T15:07:24.2818713+00:00"
 }

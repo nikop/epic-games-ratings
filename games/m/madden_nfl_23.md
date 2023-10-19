@@ -1,11 +1,11 @@
 # Madden NFL 23
 [Store](https://store.epicgames.com/en-US/p/madden-nfl-23)  
 [View Rawdata](../../db/m/madden_nfl_23.json)  
-Rating: 4.28 (Ranked 831)  
+Rating: 4.28 (Ranked 832)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bragging Rights | 55.00% | ~1,506 |
+| Bragging Rights | 56.00% | ~1,533 |
 | MVP | 54.00% | ~1,479 |
 | Big Spender | 53.00% | ~1,451 |
 | Stud Finder | 42.00% | ~1,150 |

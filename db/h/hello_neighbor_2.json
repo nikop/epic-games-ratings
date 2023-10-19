@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 73,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -423,9 +423,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2971,
+  "EOS_Progressed": 2972,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.07,
   "EosHistory": [
@@ -3748,6 +3748,11 @@
       "Time": "2023-10-19T13:14:15.9179049+00:00",
       "NumProgressed": 2971,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-10-19T15:07:24.483308+00:00",
+      "NumProgressed": 2972,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 14,
@@ -3767,7 +3772,7 @@
       "Name": "Case Closed",
       "Percentage": 37,
       "XP": 55,
-      "UsersEstimate": 1099
+      "UsersEstimate": 1100
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -3807,7 +3812,7 @@
       "Name": "Family Lost",
       "Percentage": 33,
       "XP": 80,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -3847,7 +3852,7 @@
       "Name": "Shovel Night",
       "Percentage": 37,
       "XP": 55,
-      "UsersEstimate": 1099
+      "UsersEstimate": 1100
     },
     {
       "ID": "ACH_TREASURE_HUNT",
@@ -3870,7 +3875,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2971,
+      "Progressed": 2972,
       "Completed": 121
     }
   ],
@@ -3878,8 +3883,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-10-17T14:59:23.1608602+00:00",
-  "LastChanged_Achievements": "2023-10-19T14:07:34.2775655+00:00",
+  "LastChanged_Achievements": "2023-10-19T15:07:24.4833074+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:11.4944348+00:00",
-  "LastUpdate_Ratings": "2023-10-19T14:01:32.3375641+00:00",
-  "LastUpdate_Achievements": "2023-10-19T14:07:34.277667+00:00"
+  "LastUpdate_Ratings": "2023-10-19T15:01:29.5599789+00:00",
+  "LastUpdate_Achievements": "2023-10-19T15:07:24.4833442+00:00"
 }

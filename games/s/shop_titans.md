@@ -6,10 +6,10 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 3.00% | ~4,134 |
-| Basic in Bulk | 3.00% | ~4,134 |
-| Tinkle of Coins | 3.00% | ~4,134 |
-| Titan's First Steps | 3.00% | ~4,134 |
+| Sponsored by Argon | 3.00% | ~4,135 |
+| Basic in Bulk | 3.00% | ~4,135 |
+| Tinkle of Coins | 3.00% | ~4,135 |
+| Titan's First Steps | 3.00% | ~4,135 |
 | One Easy Payment | 2.00% | ~2,756 |
 | Some Assembly Required | 2.00% | ~2,756 |
 | Disintermediation | 2.00% | ~2,756 |
@@ -26,6 +26,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Demand for Supplies | 1.00% | ~1,378 |
 | Flooding the Market | 1.00% | ~1,378 |
 | Where it Hurts | 1.00% | ~1,378 |
+| Efficient Floor Space | 1.00% | ~1,378 |
 | Gem Expert | 1.00% | ~1,378 |
 | Gild-Gotten Goods | 1.00% | ~1,378 |
 | One-Armed Bandit | 1.00% | ~1,378 |
@@ -37,7 +38,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ascended | 0.90% | ~1,240 |
 | Research & Development | 0.90% | ~1,240 |
 | Vanity, Verily | 0.90% | ~1,240 |
-| Efficient Floor Space | 0.90% | ~1,240 |
 | Flawless Fusion | 0.90% | ~1,240 |
 | Helping Hand | 0.90% | ~1,240 |
 | Natural 20 | 0.90% | ~1,240 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,816 (Ranked 73)  
+Progressed: 137,821 (Ranked 73)  
 Completed: 171 (0.12%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,7 +301,7 @@ Completed: 171 (0.12%) (Ranked 242)
 | 2023-10-16 | 137,703 | 168 |
 | 2023-10-17 | 137,757 | 170 |
 | 2023-10-18 | 137,790 | 171 |
-| 2023-10-19 | 137,816 | 171 |
+| 2023-10-19 | 137,821 | 171 |
 ## Awards
 Max (Great for Beginners): 4,793  (Ranked 72)  
 Sum: 27,406 (Ranked 50)  

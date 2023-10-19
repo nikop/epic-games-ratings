@@ -327,9 +327,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 71755,
+  "EOS_Progressed": 71759,
   "EOS_Completed": 379,
-  "EOS_NewPlayers": 571,
+  "EOS_NewPlayers": 574,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -20307,6 +20307,11 @@
       "Time": "2023-10-19T14:05:10.674858+00:00",
       "NumProgressed": 71755,
       "NumCompleted": 379
+    },
+    {
+      "Time": "2023-10-19T15:05:00.1479581+00:00",
+      "NumProgressed": 71759,
+      "NumCompleted": 379
     }
   ],
   "TotalAchievements": 24,
@@ -20326,7 +20331,7 @@
       "Name": "AWAKEN",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 15786
+      "UsersEstimate": 15787
     },
     {
       "ID": "A_GUARDIAN_FORGOTTEN",
@@ -20334,7 +20339,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 48793
+      "UsersEstimate": 48796
     },
     {
       "ID": "BEST_FRIENDS",
@@ -20342,7 +20347,7 @@
       "Name": "BEST FRIENDS",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 15786
+      "UsersEstimate": 15787
     },
     {
       "ID": "BLOOMS_OF_LIGHT",
@@ -20350,7 +20355,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 18656
+      "UsersEstimate": 18657
     },
     {
       "ID": "ERADICATE",
@@ -20366,7 +20371,7 @@
       "Name": "FETCH",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 20091
+      "UsersEstimate": 20093
     },
     {
       "ID": "FOXIN_AROUND",
@@ -20374,7 +20379,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 20809
+      "UsersEstimate": 20810
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -20390,7 +20395,7 @@
       "Name": "GARDEN OF LIGHT",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 12916
+      "UsersEstimate": 12917
     },
     {
       "ID": "INFUSED_WITH_LIGHT",
@@ -20398,7 +20403,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 38030
+      "UsersEstimate": 38032
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -20414,7 +20419,7 @@
       "Name": "MATCH MAKER",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 5740
+      "UsersEstimate": 5741
     },
     {
       "ID": "NONE_FORGOTTEN",
@@ -20446,7 +20451,7 @@
       "Name": "PLAGUE DOCTOR",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 5740
+      "UsersEstimate": 5741
     },
     {
       "ID": "SPIRITED_AWAY",
@@ -20454,7 +20459,7 @@
       "Name": "SPIRITED AWAY",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 5740
+      "UsersEstimate": 5741
     },
     {
       "ID": "SPIRIT_BARK",
@@ -20476,9 +20481,9 @@
       "ID": "SPIRIT_FORM",
       "SetID": "30359jm",
       "Name": "SPIRIT FORM",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 11481
+      "UsersEstimate": 12199
     },
     {
       "ID": "UPROOTING_DARKNESS",
@@ -20486,7 +20491,7 @@
       "Name": "UPROOTING DARKNESS",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 10763
+      "UsersEstimate": 10764
     },
     {
       "ID": "WEIGHTLESS",
@@ -20509,7 +20514,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 71755,
+      "Progressed": 71759,
       "Completed": 379
     }
   ],
@@ -20517,8 +20522,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-10-19T14:05:10.6748571+00:00",
+  "LastChanged_Achievements": "2023-10-19T15:05:00.1479571+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:07.1643616+00:00",
-  "LastUpdate_Ratings": "2023-10-19T13:59:42.2120467+00:00",
-  "LastUpdate_Achievements": "2023-10-19T14:05:10.6749881+00:00"
+  "LastUpdate_Ratings": "2023-10-19T14:59:31.9033666+00:00",
+  "LastUpdate_Achievements": "2023-10-19T15:05:00.1480856+00:00"
 }

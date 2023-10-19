@@ -6,21 +6,21 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,639 |
-| Self-Improvement | 72.00% | ~1,341 |
-| Perky | 66.00% | ~1,230 |
-| Let’s Ride | 60.00% | ~1,118 |
-| Welcome to the Weird West | 57.00% | ~1,062 |
-| Dead or Alive | 56.00% | ~1,043 |
-| Full House | 37.00% | ~689 |
-| Off the Trail | 34.00% | ~633 |
-| Justice Served | 30.00% | ~559 |
-| Chain Reaction | 27.00% | ~503 |
-| Through Their Eyes | 26.00% | ~484 |
+| Unforgiven | 88.00% | ~1,641 |
+| Self-Improvement | 72.00% | ~1,343 |
+| Perky | 66.00% | ~1,231 |
+| Let’s Ride | 60.00% | ~1,119 |
+| Welcome to the Weird West | 57.00% | ~1,063 |
+| Dead or Alive | 56.00% | ~1,044 |
+| Full House | 37.00% | ~690 |
+| Off the Trail | 34.00% | ~634 |
+| Justice Served | 30.00% | ~560 |
+| Chain Reaction | 27.00% | ~504 |
+| Through Their Eyes | 26.00% | ~485 |
 | Dishonored | 25.00% | ~466 |
 | Rain of Death | 25.00% | ~466 |
 | Scholar | 25.00% | ~466 |
-| The Great Escape | 24.00% | ~447 |
+| The Great Escape | 24.00% | ~448 |
 | That’s All, Folks | 19.00% | ~354 |
 | Fallen Star | 16.00% | ~298 |
 | For Balance | 16.00% | ~298 |
@@ -42,7 +42,7 @@ Number of Ratings: 125  (23.09.2022)
 | Gold Digger | 8.00% | ~149 |
 | Monster Hunter | 8.00% | ~149 |
 | Knuckle Sandwich | 8.00% | ~149 |
-| Getting the Gang Back Together | 7.00% | ~130 |
+| Getting the Gang Back Together | 7.00% | ~131 |
 | Healing Old Wounds | 6.00% | ~112 |
 | Who You Gonna Call? | 6.00% | ~112 |
 | This Is Sparta | 5.00% | ~93 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.50% | ~9 |
 | Revenant | 0.50% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,863 (Ranked 209)  
+Progressed: 1,865 (Ranked 209)  
 Completed: 7 (0.38%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 7 (0.38%) (Ranked 193)
 | 2023-10-15 | 1,853 | 7 |
 | 2023-10-17 | 1,854 | 7 |
 | 2023-10-18 | 1,856 | 7 |
-| 2023-10-19 | 1,863 | 7 |
+| 2023-10-19 | 1,865 | 7 |
 ## Awards
 Max (Impact the Story): 28  (Ranked 485)  
 Sum: 28 (Ranked 499)  

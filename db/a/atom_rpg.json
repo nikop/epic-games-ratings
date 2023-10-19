@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 469,
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 295,
+  "Ranking_EOS_NewPlayers": 287,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -385,9 +385,9 @@
       "Count": 50
     }
   ],
-  "EOS_Progressed": 1281,
+  "EOS_Progressed": 1282,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2845,6 +2845,11 @@
       "Time": "2023-10-18T02:22:54.7424278+00:00",
       "NumProgressed": 1281,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-19T15:06:08.9639499+00:00",
+      "NumProgressed": 1282,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -2856,7 +2861,7 @@
       "Name": "Bustin\u0027 nuts",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "CAREER_CRIMINAL",
@@ -2912,7 +2917,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "EXPERT_1",
@@ -2952,7 +2957,7 @@
       "Name": "Head Burst",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "INDY_1",
@@ -3008,7 +3013,7 @@
       "Name": "One HIT wonder",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -3040,7 +3045,7 @@
       "Name": "Not-so-private Eye",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "PROTECTION_RACKET",
@@ -3104,7 +3109,7 @@
       "Name": "Superhuman",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "TRAVELER_1",
@@ -3128,7 +3133,7 @@
       "Name": "Wanderer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "WISHMASTER_1",
@@ -3143,15 +3148,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1281,
+      "Progressed": 1282,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-10-14T05:57:48.7963393+00:00",
-  "LastChanged_Achievements": "2023-10-19T14:06:19.5973908+00:00",
+  "LastChanged_Achievements": "2023-10-19T15:06:08.9639494+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:55.1011252+00:00",
-  "LastUpdate_Ratings": "2023-10-19T14:01:02.1135949+00:00",
-  "LastUpdate_Achievements": "2023-10-19T14:06:19.5974359+00:00"
+  "LastUpdate_Ratings": "2023-10-19T15:00:54.7145754+00:00",
+  "LastUpdate_Achievements": "2023-10-19T15:06:08.9639955+00:00"
 }

@@ -1,19 +1,19 @@
 # Disney Speedstorm
 [Store](https://store.epicgames.com/en-US/p/disney-speedstorm)  
 [View Rawdata](../../db/d/disney_speedstorm.json)  
-Rating: 4.41 (Ranked 700)  
+Rating: 4.41 (Ranked 701)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 5.00% | ~11,832 |
-| IT MAKES BOOM! | 3.00% | ~7,099 |
-| EXTRA BOOST | 2.00% | ~4,733 |
-| PROTECTED | 2.00% | ~4,733 |
-| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,366 |
-| AGGRESSIVE RACER | 1.00% | ~2,366 |
-| PRO | 1.00% | ~2,366 |
-| A TIGER'S FEAR | 0.90% | ~2,130 |
-| ACE SPEEDSTER | 0.50% | ~1,183 |
+| ROOKIE | 5.00% | ~11,837 |
+| IT MAKES BOOM! | 3.00% | ~7,102 |
+| EXTRA BOOST | 2.00% | ~4,735 |
+| PROTECTED | 2.00% | ~4,735 |
+| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,367 |
+| AGGRESSIVE RACER | 1.00% | ~2,367 |
+| PRO | 1.00% | ~2,367 |
+| A TIGER'S FEAR | 0.90% | ~2,131 |
+| ACE SPEEDSTER | 0.50% | ~1,184 |
 | IT'S A LONG WAY TO THE TOP | 0.40% | ~947 |
 | DEFEAT OUR CHAMPION | 0.40% | ~947 |
 | TRAINING HARD | 0.30% | ~710 |
@@ -30,7 +30,7 @@ Rating: 4.41 (Ranked 700)
 | ACE TRICKSTER | 0.20% | ~473 |
 | FRAMED! | 0.10% | ~237 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,636 (Ranked 57)  
+Progressed: 236,744 (Ranked 57)  
 Completed: 235 (0.10%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,14 +208,14 @@ Completed: 235 (0.10%) (Ranked 249)
 | 2023-10-16 | 229,960 | 234 |
 | 2023-10-17 | 232,528 | 235 |
 | 2023-10-18 | 235,284 | 235 |
-| 2023-10-19 | 236,636 | 235 |
+| 2023-10-19 | 236,744 | 235 |
 ## Awards
-Max (Great for Quick Sessions): 29  (Ranked 479)  
-Sum: 123 (Ranked 419)  
-Diff (max vs sum): 60  
+Max (Diverse Characters): 31  (Ranked 476)  
+Sum: 125 (Ranked 419)  
+Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 29 |
+| This game has Diverse Characters | 31 |
 | This game is Great for Quick Sessions | 29 |
 | This game is Great for Beginners | 22 |
 | This game has Amazing Characters | 22 |
@@ -241,4 +241,4 @@ Diff (max vs sum): 60
 | 2023-10-16 | 4.41 | 28 | 69 |
 | 2023-10-17 | 4.41 | 28 | 113 |
 | 2023-10-18 | 4.42 | 29 | 119 |
-| 2023-10-19 | 4.41 | 29 | 123 |
+| 2023-10-19 | 4.41 | 31 | 125 |

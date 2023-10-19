@@ -4,7 +4,7 @@
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 384,
+  "EOS_Progressed": 385,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -1704,6 +1704,11 @@
       "Time": "2023-10-19T14:07:22.8638143+00:00",
       "NumProgressed": 384,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-19T15:07:12.8286075+00:00",
+      "NumProgressed": 385,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 14,
@@ -1713,9 +1718,9 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "296pn27",
       "Name": "The gateway to the underworld",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 92
+      "UsersEstimate": 96
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -1753,9 +1758,9 @@
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "296pn27",
       "Name": "Humility",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
@@ -1793,25 +1798,25 @@
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "296pn27",
       "Name": "Unveiling the Magnitude of Sin",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 31
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
       "SetID": "296pn27",
       "Name": "The court",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 19
+      "UsersEstimate": 23
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
       "SetID": "296pn27",
       "Name": "Holy Nails",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 19
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -1826,14 +1831,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 384,
+      "Progressed": 385,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-10-19T14:07:22.8638136+00:00",
+  "LastChanged_Achievements": "2023-10-19T15:07:12.828607+00:00",
   "LastUpdate_AppInfo": "2023-10-14T11:57:11.021684+00:00",
-  "LastUpdate_Ratings": "2023-10-19T14:00:55.6911511+00:00",
-  "LastUpdate_Achievements": "2023-10-19T14:07:22.8638397+00:00"
+  "LastUpdate_Ratings": "2023-10-19T15:00:49.3805904+00:00",
+  "LastUpdate_Achievements": "2023-10-19T15:07:12.8286337+00:00"
 }

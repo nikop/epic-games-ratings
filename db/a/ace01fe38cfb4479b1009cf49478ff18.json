@@ -7,7 +7,7 @@
   "Ranking_EOS_NewPlayers": 340,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
-    "ReleaseDate": "2023-10-31T21:00:00+00:00",
+    "ReleaseDate": "2023-10-31T09:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
     "isBlockchainUsed": false,
     "isEpicFirstRun": false,
@@ -47,9 +47,9 @@
       "ID": "ach_chapter_complete_1",
       "SetID": "d499apg",
       "Name": "Chapter I - Complete",
-      "Percentage": 200,
+      "Percentage": 250,
       "XP": 45,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_chapter_complete_2",
@@ -111,9 +111,9 @@
       "ID": "ach_defeat_lord_of_change",
       "SetID": "d499apg",
       "Name": "Defeat a Lord of Change",
-      "Percentage": 200,
+      "Percentage": 250,
       "XP": 45,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_find_all_secrets_c1",
@@ -149,8 +149,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-10-19T14:06:10.9729618+00:00",
+  "LastChanged_Achievements": "2023-10-19T15:05:59.9653664+00:00",
   "LastUpdate_AppInfo": "2023-10-13T08:57:22.1062823+00:00",
-  "LastUpdate_Ratings": "2023-10-19T14:00:03.5803173+00:00",
-  "LastUpdate_Achievements": "2023-10-19T14:06:10.9729733+00:00"
+  "LastUpdate_Ratings": "2023-10-19T14:59:51.5795716+00:00",
+  "LastUpdate_Achievements": "2023-10-19T15:05:59.965377+00:00"
 }

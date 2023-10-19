@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Catch me if you can | 75.00% | ~9 |
-| Under the spotlights | 67.00% | ~8 |
-| Out of my area | 50.00% | ~6 |
-| Robot cleaner | 50.00% | ~6 |
-| Teacher's pet | 50.00% | ~6 |
-| Skynet Wins | 33.00% | ~4 |
-| Big Win | 25.00% | ~3 |
-| Short Circuit | 25.00% | ~3 |
-| Airstrike | 17.00% | ~2 |
-| Big Bang | 17.00% | ~2 |
-| Ha-Ha! | 17.00% | ~2 |
-| Mission Impossible | 17.00% | ~2 |
-| Night vision | 17.00% | ~2 |
-| Short and Sweet | 17.00% | ~2 |
-| Sneaky Exit | 17.00% | ~2 |
+| Catch me if you can | 69.00% | ~9 |
+| Under the spotlights | 62.00% | ~8 |
+| Teacher's pet | 54.00% | ~7 |
+| Out of my area | 46.00% | ~6 |
+| Robot cleaner | 46.00% | ~6 |
+| Skynet Wins | 38.00% | ~5 |
+| Big Win | 23.00% | ~3 |
+| Short Circuit | 23.00% | ~3 |
+| Airstrike | 15.00% | ~2 |
+| Big Bang | 15.00% | ~2 |
+| Ha-Ha! | 15.00% | ~2 |
+| Mission Impossible | 15.00% | ~2 |
+| Night vision | 15.00% | ~2 |
+| Short and Sweet | 15.00% | ~2 |
+| Sneaky Exit | 15.00% | ~2 |
 | Flat Men | 8.00% | ~1 |
 | Don't give me orders | 8.00% | ~1 |
 | Clutch | 0.00% | ~0 |
@@ -30,7 +30,7 @@
 | No real winner | 0.00% | ~0 |
 | Triple Punch | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12 (Ranked 527)  
+Progressed: 13 (Ranked 520)  
 Completed: 0 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -46,6 +46,7 @@ Completed: 0 (0.00%) (Ranked 316)
 | 2023-09-30 | 10 | 0 |
 | 2023-10-01 | 11 | 0 |
 | 2023-10-15 | 12 | 0 |
+| 2023-10-19 | 13 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
