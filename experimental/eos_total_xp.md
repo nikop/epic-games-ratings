@@ -14,6 +14,7 @@
 | [Sniper Elite 5](../games/s/sniper_elite_5.md) | 71 | 1,705 |
 | [Fallout: New Vegas](../games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 75 | 1,655 |
 | [Alan Wake Remastered](../games/a/alan_wake_remastered.md) | 67 | 1,500 |
+| [Cyberpunk 2077](../games/c/cyberpunk_2077.md) | 57 | 1,500 |
 | [The Dungeon of Naheulbeuk](../games/t/the_dungeon_of_naheulbeuk.md) | 88 | 1,490 |
 | [Homeworld: Deserts of Kharak](../games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 48 | 1,440 |
 | [The Case of the Golden Idol](../games/t/the_case_of_the_golden_idol.md) | 17 | 1,440 |
@@ -238,6 +239,7 @@
 | [Endling - Extinction is Forever](../games/e/endling_-_extinction_is_forever.md) | 28 | 1,000 |
 | [Engine Evolution 2023](../games/6/6a47fb709a8c4f68b7638c29ea628194.md) | 35 | 1,000 |
 | [Eternal Evil](../games/c/c188c5b560174a979ede32563e6e25e5.md) | 31 | 1,000 |
+| [Eternal Threads](../games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 10 | 1,000 |
 | [Eternights](../games/e/eternights.md) | 25 | 1,000 |
 | [Evalina The Sorceress](../games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 6 | 1,000 |
 | [Eximius: Seize the Frontline](../games/e/eximius__seize_the_frontline.md) | 16 | 1,000 |

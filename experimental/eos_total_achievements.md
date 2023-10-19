@@ -101,6 +101,7 @@
 | [Verdun](../games/v/verdun.md) | 59 | 1,000 |
 | [War Mongrels](../games/w/war_mongrels.md) | 59 | 1,000 |
 | [Sands of Aura](../games/s/sands_of_aura.md) | 58 | 1,000 |
+| [Cyberpunk 2077](../games/c/cyberpunk_2077.md) | 57 | 1,500 |
 | [IXION](../games/i/ixion.md) | 57 | 1,050 |
 | [Learning Factory](../games/l/learning_factory.md) | 57 | 1,000 |
 | [LOOPMANCER](../games/l/loopmancer.md) | 57 | 1,000 |
@@ -702,6 +703,7 @@
 | [Afterglitch](../games/a/afterglitch.md) | 10 | 1,000 |
 | [Among the Sleep - Enhanced Edition](../games/a/among_the_sleep_-_enhanced_edition.md) | 10 | 1,000 |
 | [Croc's World Construction Kit 2](../games/5/55c1dafc343149419579a9939de53424.md) | 10 | 1,000 |
+| [Eternal Threads](../games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 10 | 1,000 |
 | [Full Metal Sergeant](../games/f/full_metal_sergeant.md) | 10 | 1,000 |
 | [Get Together: A Coop Adventure](../games/g/get_together__a_coop_adventure.md) | 10 | 1,000 |
 | [Jennifer Wilde Unlikely Revolutionaries](../games/j/jennifer_wilde_unlikely_revolutionaries.md) | 10 | 1,000 |

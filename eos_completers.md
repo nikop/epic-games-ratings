@@ -3,7 +3,7 @@
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 66.67% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.58% |
-| 4 | [The Riflemen](games/t/the_riflemen.md) | 47.23% |
+| 4 | [The Riflemen](games/t/the_riflemen.md) | 47.20% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.98% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 33.62% |
@@ -49,7 +49,7 @@
 | 47 | [Sonic Origins](games/s/sonic_origins.md) | 7.42% |
 | 48 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.33% |
 | 49 | [Time Loader](games/t/time_loader.md) | 7.20% |
-| 50 | [Scorn](games/s/scorn.md) | 7.02% |
+| 50 | [Scorn](games/s/scorn.md) | 7.01% |
 | 51 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.56% |
 | 52 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.38% |
 | 53 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.28% |
@@ -70,7 +70,7 @@
 | 68 | [ZZT!](games/z/zzt!.md) | 4.46% |
 | 69 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.43% |
 | 70 | [The Bunker](games/t/the_bunker.md) | 4.20% |
-| 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.15% |
+| 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.14% |
 | 72 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.09% |
 | 73 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.07% |
 | 74 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.00% |
@@ -89,8 +89,8 @@
 | 85 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.25% |
 | 88 | [Monster Harvest](games/m/monster_harvest.md) | 3.15% |
 | 88 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.15% |
-| 90 | [HordeCore](games/h/hordecore.md) | 3.12% |
 | 90 | [Without Escape](games/w/without_escape.md) | 3.12% |
+| 91 | [HordeCore](games/h/hordecore.md) | 3.11% |
 | 92 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 93 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 2.86% |
 | 93 | [FORECLOSED](games/f/foreclosed.md) | 2.86% |
@@ -112,8 +112,8 @@
 | 110 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.22% |
 | 111 | [Bloodshore](games/b/bloodshore.md) | 2.12% |
 | 112 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.97% |
-| 113 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.96% |
 | 113 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.96% |
+| 114 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.95% |
 | 115 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.85% |
 | 116 | [Night Book](games/n/night_book.md) | 1.84% |
 | 117 | [Sifu](games/s/sifu.md) | 1.81% |
@@ -144,8 +144,8 @@
 | 142 | [Trifox](games/t/trifox.md) | 1.06% |
 | 143 | [Adios](games/a/adios.md) | 1.05% |
 | 143 | [Infindustry](games/i/infindustry.md) | 1.05% |
-| 145 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.03% |
-| 146 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.02% |
+| 145 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.02% |
+| 145 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.02% |
 | 147 | [Sable](games/s/sable.md) | 1.01% |
 | 148 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.99% |
 | 149 | [A Musical Story](games/a/a_musical_story.md) | 0.96% |
