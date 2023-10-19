@@ -5,19 +5,19 @@ Rating: 4.06 (Ranked 953)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,906 |
+| Victor | 93.00% | ~1,907 |
 | World Map | 79.00% | ~1,620 |
-| Temple of Eternals | 57.00% | ~1,168 |
-| Prestigious | 54.00% | ~1,107 |
+| Temple of Eternals | 57.00% | ~1,169 |
+| Prestigious | 54.00% | ~1,108 |
 | Fellowship Power | 42.00% | ~861 |
 | Guild Power | 26.00% | ~533 |
 | Prestigious x10 | 23.00% | ~472 |
-| The game is on | 21.00% | ~430 |
+| The game is on | 21.00% | ~431 |
 | Exotic Merchant | 20.00% | ~410 |
 | Dragon Clicker | 18.00% | ~369 |
-| Full Party | 17.00% | ~348 |
-| Inspection | 17.00% | ~348 |
-| Miner Clicker | 17.00% | ~348 |
+| Full Party | 17.00% | ~349 |
+| Inspection | 17.00% | ~349 |
+| Miner Clicker | 17.00% | ~349 |
 | Dragon Master | 16.00% | ~328 |
 | Enlightenment | 16.00% | ~328 |
 | Hero inspection | 15.00% | ~308 |
@@ -27,7 +27,7 @@ Rating: 4.06 (Ranked 953)
 | Natural Talent | 14.00% | ~287 |
 | Superior | 14.00% | ~287 |
 | The Unstoppable | 14.00% | ~287 |
-| Scientist | 13.00% | ~266 |
+| Scientist | 13.00% | ~267 |
 | The power of Awakening | 12.00% | ~246 |
 | Challenger | 11.00% | ~226 |
 | Daily Quest Completionist | 11.00% | ~226 |
@@ -41,8 +41,8 @@ Rating: 4.06 (Ranked 953)
 | Scroll Master | 11.00% | ~226 |
 | Master Enchanter | 10.00% | ~205 |
 | The father of Dragons | 10.00% | ~205 |
-| Here We Go Again | 9.00% | ~184 |
-| Trader | 9.00% | ~184 |
+| Here We Go Again | 9.00% | ~185 |
+| Trader | 9.00% | ~185 |
 | Blueprint Upgrades | 8.00% | ~164 |
 | Crystal Mining | 8.00% | ~164 |
 | Dragon Slayer | 8.00% | ~164 |
@@ -58,9 +58,9 @@ Rating: 4.06 (Ranked 953)
 | Active Member | 6.00% | ~123 |
 | Ancient Knowledge | 6.00% | ~123 |
 | Legendary | 6.00% | ~123 |
-| Arena Challenger | 5.00% | ~102 |
-| Background Story | 5.00% | ~102 |
-| Ebony Jungle Liberator | 5.00% | ~102 |
+| Arena Challenger | 5.00% | ~103 |
+| Background Story | 5.00% | ~103 |
+| Ebony Jungle Liberator | 5.00% | ~103 |
 | Mythic Power | 4.00% | ~82 |
 | What lies behind the bush | 4.00% | ~82 |
 | Gear Enchanting | 3.00% | ~62 |
@@ -69,11 +69,11 @@ Rating: 4.06 (Ranked 953)
 | Guardian Master | 2.00% | ~41 |
 | Pokerface | 2.00% | ~41 |
 | Titan Power | 2.00% | ~41 |
-| Conqueror | 1.00% | ~20 |
-| Enhanced War Machines | 1.00% | ~20 |
-| Training makes a Pro player | 1.00% | ~20 |
-| Transmute | 1.00% | ~20 |
-| Tree of Life | 1.00% | ~20 |
+| Conqueror | 1.00% | ~21 |
+| Enhanced War Machines | 1.00% | ~21 |
+| Training makes a Pro player | 1.00% | ~21 |
+| Transmute | 1.00% | ~21 |
+| Tree of Life | 1.00% | ~21 |
 | Angel Power | 0.90% | ~18 |
 | Beast War Machines | 0.90% | ~18 |
 | Silverwood liberator | 0.60% | ~12 |
@@ -81,7 +81,7 @@ Rating: 4.06 (Ranked 953)
 | War Machines Army | 0.20% | ~4 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,050 (Ranked 204)  
+Progressed: 2,051 (Ranked 204)  
 Completed: 2 (0.10%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 2 (0.10%) (Ranked 249)
 | 2023-10-16 | 2,043 | 2 |
 | 2023-10-17 | 2,047 | 2 |
 | 2023-10-18 | 2,048 | 2 |
-| 2023-10-19 | 2,050 | 2 |
+| 2023-10-19 | 2,051 | 2 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 485)  
 Sum: 73 (Ranked 453)  

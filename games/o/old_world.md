@@ -70,6 +70,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Single Player Game | 0.90% | ~133 |
 | Champions | 0.80% | ~118 |
 | Sages | 0.80% | ~118 |
+| Mausoleum | 0.80% | ~118 |
 | Mythology | 0.80% | ~118 |
 | Hanging Gardens in Babylon | 0.70% | ~104 |
 | Beloved | 0.70% | ~104 |
@@ -78,7 +79,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lion | 0.70% | ~104 |
 | Victorious | 0.70% | ~104 |
 | Good Difficulty | 0.70% | ~104 |
-| Mausoleum | 0.70% | ~104 |
 | Learn to Play 3 | 0.70% | ~104 |
 | Power to the People | 0.70% | ~104 |
 | Building Wonders | 0.70% | ~104 |

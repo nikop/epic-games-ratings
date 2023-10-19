@@ -32,13 +32,13 @@
 | Favored by the Cosmos | 12.00% | ~7 |
 | Wave Bender | 12.00% | ~7 |
 | Heavy Purger | 10.00% | ~6 |
+| Apian Hero | 10.00% | ~6 |
 | Lacertian Hero | 10.00% | ~6 |
 | Anomaly Control | 9.00% | ~5 |
 | Can't touch this | 9.00% | ~5 |
 | Sadistic Plan | 9.00% | ~5 |
 | Stellar Haste | 9.00% | ~5 |
 | The Dark Moon | 9.00% | ~5 |
-| Apian Hero | 9.00% | ~5 |
 | Behenian Hero | 9.00% | ~5 |
 | Denying Destiny | 7.00% | ~4 |
 | The Chaos Artisan | 7.00% | ~4 |
@@ -52,6 +52,7 @@
 | If I Had Failed... | 3.00% | ~2 |
 | Reflexive Mind | 3.00% | ~2 |
 | Sentinelphobic | 3.00% | ~2 |
+| The Ardent Prince | 3.00% | ~2 |
 | Aquarian Mastery | 3.00% | ~2 |
 | Eridanian Mastery | 3.00% | ~2 |
 | Noctuan Hero | 3.00% | ~2 |
@@ -64,7 +65,6 @@
 | Plague Doctor | 2.00% | ~1 |
 | Pocket Astrarium | 2.00% | ~1 |
 | Prestidigitation | 2.00% | ~1 |
-| The Ardent Prince | 2.00% | ~1 |
 | The Raging Skies | 2.00% | ~1 |
 | This is Fine | 2.00% | ~1 |
 | Aquarian Hero | 2.00% | ~1 |

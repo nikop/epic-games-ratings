@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~11,359 |
-| Safety in the Storm | 25.00% | ~2,989 |
-| A Better Idea | 25.00% | ~2,989 |
-| Begin the Ceremony | 20.00% | ~2,391 |
-| Mission Accomplished | 20.00% | ~2,391 |
+| Fracture at Fostar Haven | 95.00% | ~11,365 |
+| Safety in the Storm | 25.00% | ~2,991 |
+| A Better Idea | 25.00% | ~2,991 |
+| Begin the Ceremony | 20.00% | ~2,393 |
+| Mission Accomplished | 20.00% | ~2,393 |
 | The Galaxy's Finest (Story Mode) | 15.00% | ~1,794 |
-| A Starfighter of Your Own | 14.00% | ~1,674 |
-| Asset Secured | 13.00% | ~1,554 |
+| A Starfighter of Your Own | 14.00% | ~1,675 |
+| Asset Secured | 13.00% | ~1,555 |
 | Unkillable | 8.00% | ~957 |
 | The Galaxy's Finest (Pilot) | 7.00% | ~837 |
 | Together, Vanguard | 7.00% | ~837 |
-| Sound Strategy | 6.00% | ~717 |
+| Sound Strategy | 6.00% | ~718 |
 | Fearless | 5.00% | ~598 |
 | Flames Over Mon Cala | 5.00% | ~598 |
 | Stomped | 5.00% | ~598 |
 | A Promising Career | 5.00% | ~598 |
-| Great Shot, Kid | 4.00% | ~478 |
-| Back From the Brink | 4.00% | ~478 |
-| Temporary Guardian | 4.00% | ~478 |
-| Baited | 4.00% | ~478 |
+| Great Shot, Kid | 4.00% | ~479 |
+| Back From the Brink | 4.00% | ~479 |
+| Temporary Guardian | 4.00% | ~479 |
+| Baited | 4.00% | ~479 |
 | Stronger Together | 3.00% | ~359 |
 | Squadron Hunter | 3.00% | ~359 |
 | Punch It | 3.00% | ~359 |
@@ -52,7 +52,7 @@
 | Fully Decorated | 0.10% | ~12 |
 | The Galaxy's Finest (Ace) | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,957 (Ranked 144)  
+Progressed: 11,963 (Ranked 144)  
 Completed: 1 (0.01%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 1 (0.01%) (Ranked 298)
 | 2023-10-16 | 11,429 | 1 |
 | 2023-10-17 | 11,720 | 1 |
 | 2023-10-18 | 11,902 | 1 |
-| 2023-10-19 | 11,957 | 1 |
+| 2023-10-19 | 11,963 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

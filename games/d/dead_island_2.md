@@ -5,8 +5,8 @@ Rating: 4.54 (Ranked 514)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 4.00% | ~27,920 |
-| Welcome To Hell-A | 4.00% | ~27,920 |
+| Hotel California | 4.00% | ~27,921 |
+| Welcome To Hell-A | 4.00% | ~27,921 |
 | Dr. Reed, I Presume? | 3.00% | ~20,940 |
 | Git Gutte! | 3.00% | ~20,940 |
 | Bookworm | 3.00% | ~20,940 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 514)
 | Donk! | 0.20% | ~1,396 |
 | Bucket List | 0.10% | ~698 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 697,990 (Ranked 22)  
+Progressed: 698,013 (Ranked 22)  
 Completed: 2,242 (0.32%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,10 +233,10 @@ Completed: 2,242 (0.32%) (Ranked 201)
 | 2023-10-16 | 696,890 | 2,235 |
 | 2023-10-17 | 697,259 | 2,238 |
 | 2023-10-18 | 697,769 | 2,242 |
-| 2023-10-19 | 697,990 | 2,242 |
+| 2023-10-19 | 698,013 | 2,242 |
 ## Awards
 Max (Great Boss Battles): 6,500  (Ranked 56)  
-Sum: 9,729 (Ranked 91)  
+Sum: 9,731 (Ranked 91)  
 Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
@@ -248,7 +248,7 @@ Diff (max vs sum): -35
 | This game has Amazing Storytelling | 386 |
 | This game is Highly Recommended | 370 |
 | This game is Extremely Fun | 368 |
-| This game has Amazing Characters | 355 |
+| This game has Amazing Characters | 357 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -433,4 +433,4 @@ Diff (max vs sum): -35
 | 2023-10-16 | 4.54 | 6,462 | 9,671 |
 | 2023-10-17 | 4.54 | 6,477 | 9,692 |
 | 2023-10-18 | 4.54 | 6,489 | 9,718 |
-| 2023-10-19 | 4.54 | 6,500 | 9,729 |
+| 2023-10-19 | 4.54 | 6,500 | 9,731 |

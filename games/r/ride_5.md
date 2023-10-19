@@ -13,12 +13,12 @@
 | We're Going to Need a Bigger Garage | 24.00% | ~372 |
 | Champagne Spray | 22.00% | ~341 |
 | I Want One Too! | 19.00% | ~294 |
+| Legendary!!! | 19.00% | ~294 |
 | Restored and Ready | 18.00% | ~279 |
-| Legendary!!! | 18.00% | ~279 |
 | Quick Pit Stop | 18.00% | ~279 |
 | I'm Here Too! | 17.00% | ~263 |
 | Go-Faster Stripes | 16.00% | ~248 |
-| We've Just Begun | 9.00% | ~139 |
+| We've Just Begun | 10.00% | ~155 |
 | Stamina Star | 8.00% | ~124 |
 | Is It the Right Size? | 8.00% | ~124 |
 | Evangelist | 6.00% | ~93 |
@@ -42,13 +42,13 @@
 | In Search of Perfection | 0.60% | ~9 |
 | Globe-trotter | 0.50% | ~8 |
 | Maximum Endurance | 0.20% | ~3 |
+| Full Power | 0.20% | ~3 |
+| At the Top | 0.20% | ~3 |
+| There's a Great View up Here | 0.20% | ~3 |
+| Absolute Champion | 0.20% | ~3 |
 | Beyond the Limiter | 0.10% | ~2 |
 | All My Own Toys | 0.10% | ~2 |
 | Endless | 0.10% | ~2 |
-| Full Power | 0.10% | ~2 |
-| At the Top | 0.10% | ~2 |
-| There's a Great View up Here | 0.10% | ~2 |
-| Absolute Champion | 0.10% | ~2 |
 | Dream Chaser | 0.00% | ~0 |
 | Breathtaking Views | 0.00% | ~0 |
 | Know Your Enemy | 0.00% | ~0 |

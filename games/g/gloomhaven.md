@@ -6,15 +6,15 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 44.00% | ~6,336 |
-| Overkill | 34.00% | ~4,896 |
-| A normal day in Gloomhaven | 34.00% | ~4,896 |
-| Vaccine Incoming | 33.00% | ~4,752 |
-| Spread the plague | 31.00% | ~4,464 |
-| Get over here! | 24.00% | ~3,456 |
-| Just when I thought I was out... | 19.00% | ~2,736 |
-| Precious! | 17.00% | ~2,448 |
-| Mine... All Mine... | 17.00% | ~2,448 |
+| I'm not dead yet | 44.00% | ~6,337 |
+| Overkill | 34.00% | ~4,897 |
+| A normal day in Gloomhaven | 34.00% | ~4,897 |
+| Vaccine Incoming | 33.00% | ~4,753 |
+| Spread the plague | 31.00% | ~4,465 |
+| Get over here! | 24.00% | ~3,457 |
+| Just when I thought I was out... | 19.00% | ~2,737 |
+| Precious! | 17.00% | ~2,449 |
+| Mine... All Mine... | 17.00% | ~2,449 |
 | Light of my life | 15.00% | ~2,160 |
 | Anatomy Lesson | 15.00% | ~2,160 |
 | Grizzled veteran | 13.00% | ~1,872 |
@@ -57,9 +57,9 @@ Number of Ratings: 68  (23.09.2022)
 | The evil that men do | 0.30% | ~43 |
 | MacReady Steady.. Go! | 0.30% | ~43 |
 | Pull out the big guns | 0.30% | ~43 |
-| Crimson Tornado | 0.30% | ~43 |
 | Beware my power | 0.20% | ~29 |
 | The Jaws of victory! | 0.20% | ~29 |
+| Crimson Tornado | 0.20% | ~29 |
 | A cult following | 0.10% | ~14 |
 | Over your dead body | 0.10% | ~14 |
 | The Guildmaster | 0.10% | ~14 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~14 |
 | Murder Death Kill | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,399 (Ranked 138)  
+Progressed: 14,403 (Ranked 138)  
 Completed: 1 (0.01%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 1 (0.01%) (Ranked 298)
 | 2023-10-16 | 13,884 | 1 |
 | 2023-10-17 | 14,108 | 1 |
 | 2023-10-18 | 14,328 | 1 |
-| 2023-10-19 | 14,399 | 1 |
+| 2023-10-19 | 14,403 | 1 |
 ## Awards
 Max (Character Customization): 3,555  (Ranked 90)  
 Sum: 8,300 (Ranked 98)  

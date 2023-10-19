@@ -4,11 +4,11 @@
   "ProductSlug": "assassins-creed-mirage",
   "Ranking_Rating": 629,
   "Ranking_Popularity": 390,
-  "Ranking_PopularitySum": 305,
+  "Ranking_PopularitySum": 309,
   "Ranking_EOS_Progress": 681,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 403,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-10-05T16:00:00+00:00",
     "PcReleaseDate": "2023-10-05T16:00:00+00:00",
@@ -403,10 +403,16 @@
       "Rating": 4.46,
       "NumberOfAwards": 558,
       "NumberOfAwardsMax": 70
+    },
+    {
+      "Time": "2023-10-19T08:58:53.7821475+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 521,
+      "NumberOfAwardsMax": 70
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 558,
+  "NumberOfAwards": 521,
   "NumberOfAwardsMax": 70,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -489,8 +495,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-05T18:58:30.4202319+00:00",
   "FirstSeenRating": "2023-10-06T05:58:23.6709697+00:00",
-  "LastChanged": "2023-10-19T06:59:28.3395472+00:00",
+  "LastChanged": "2023-10-19T08:58:53.7821473+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:14.6654197+00:00",
-  "LastUpdate_Ratings": "2023-10-19T07:59:35.8235524+00:00",
-  "LastUpdate_Achievements": "2023-10-19T08:07:32.8298068+00:00"
+  "LastUpdate_Ratings": "2023-10-19T08:58:53.7821484+00:00",
+  "LastUpdate_Achievements": "2023-10-19T09:06:31.3326501+00:00"
 }

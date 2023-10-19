@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -784,9 +784,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 43132,
+  "EOS_Progressed": 43134,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 751,
+  "EOS_NewPlayers": 748,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -21209,6 +21209,11 @@
       "Time": "2023-10-19T08:07:24.6656634+00:00",
       "NumProgressed": 43132,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-19T09:06:24.6275191+00:00",
+      "NumProgressed": 43134,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -21340,7 +21345,7 @@
       "Name": "Nomad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7332
+      "UsersEstimate": 7333
     },
     {
       "ID": "novice",
@@ -21428,7 +21433,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 11214
+      "UsersEstimate": 11215
     },
     {
       "ID": "sandboarder",
@@ -21531,15 +21536,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 43132,
+      "Progressed": 43134,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-10-12T08:00:34.9108004+00:00",
-  "LastChanged_Achievements": "2023-10-19T08:07:24.6656628+00:00",
+  "LastChanged_Achievements": "2023-10-19T09:06:24.6275184+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:17.6286578+00:00",
-  "LastUpdate_Ratings": "2023-10-19T07:58:43.1920894+00:00",
-  "LastUpdate_Achievements": "2023-10-19T08:07:24.6658703+00:00"
+  "LastUpdate_Ratings": "2023-10-19T08:58:09.0326477+00:00",
+  "LastUpdate_Achievements": "2023-10-19T09:06:24.6276943+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -915,9 +915,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 6862,
+  "EOS_Progressed": 6863,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7130,6 +7130,11 @@
       "Time": "2023-10-19T02:22:41.6940042+00:00",
       "NumProgressed": 6862,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-19T09:06:26.7017247+00:00",
+      "NumProgressed": 6863,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -7181,7 +7186,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 4254
+      "UsersEstimate": 4255
     },
     {
       "ID": "Control_All_Relics",
@@ -7245,7 +7250,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5352
+      "UsersEstimate": 5353
     },
     {
       "ID": "First_Race_Met",
@@ -7253,7 +7258,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 5009
+      "UsersEstimate": 5010
     },
     {
       "ID": "First_Ship_Designed",
@@ -7261,7 +7266,7 @@
       "Name": "Design a Ship",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1921
+      "UsersEstimate": 1922
     },
     {
       "ID": "First_Stream_Travel",
@@ -7277,7 +7282,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5352
+      "UsersEstimate": 5353
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -7629,7 +7634,7 @@
       "Name": "Win a Battle",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 4529
+      "UsersEstimate": 4530
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -7645,7 +7650,7 @@
       "Name": "Conquest Victory!",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "Win_CustomFaction",
@@ -7716,15 +7721,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6862,
+      "Progressed": 6863,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-10-19T08:07:27.189671+00:00",
+  "LastChanged_Achievements": "2023-10-19T09:06:26.7017241+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:21.0832103+00:00",
-  "LastUpdate_Ratings": "2023-10-19T07:59:22.0489397+00:00",
-  "LastUpdate_Achievements": "2023-10-19T08:07:27.1897829+00:00"
+  "LastUpdate_Ratings": "2023-10-19T08:58:42.5261684+00:00",
+  "LastUpdate_Achievements": "2023-10-19T09:06:26.7018216+00:00"
 }

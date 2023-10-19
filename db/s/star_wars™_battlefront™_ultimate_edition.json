@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 732,
+  "EOS_Progressed": 734,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1994,6 +1994,11 @@
       "Time": "2023-10-19T05:06:07.8713381+00:00",
       "NumProgressed": 732,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-19T09:07:11.9247981+00:00",
+      "NumProgressed": 734,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -2198,7 +2203,7 @@
       "Name": "Scrap collector",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "achievement_32",
@@ -2206,7 +2211,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "achievement_33",
@@ -2230,7 +2235,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 659
+      "UsersEstimate": 661
     },
     {
       "ID": "achievement_36",
@@ -2246,7 +2251,7 @@
       "Name": "Off to a good start",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "achievement_38",
@@ -2276,9 +2281,9 @@
       "ID": "achievement_40",
       "SetID": "271ol84",
       "Name": "Do... or do not. There is no try",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 388
+      "UsersEstimate": 382
     },
     {
       "ID": "achievement_41",
@@ -2310,7 +2315,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "achievement_45",
@@ -2358,7 +2363,7 @@
       "Name": "Shoot first",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "achievement_50",
@@ -2404,9 +2409,9 @@
       "ID": "achievement_55",
       "SetID": "cemm4l8",
       "Name": "Stop that Droid",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 15
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_56",
@@ -2492,9 +2497,9 @@
       "ID": "achievement_8",
       "SetID": "271ol84",
       "Name": "Don\u0027t underestimate the Force",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 37
+      "UsersEstimate": 29
     },
     {
       "ID": "achievement_9",
@@ -2509,13 +2514,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 732,
+      "Progressed": 734,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 732,
+      "Progressed": 734,
       "Completed": 1
     }
   ],
@@ -2523,8 +2528,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-19T08:08:21.1538375+00:00",
+  "LastChanged_Achievements": "2023-10-19T09:07:11.9247973+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:22.846224+00:00",
-  "LastUpdate_Ratings": "2023-10-19T07:59:10.7469313+00:00",
-  "LastUpdate_Achievements": "2023-10-19T08:08:21.1539663+00:00"
+  "LastUpdate_Ratings": "2023-10-19T08:58:32.3768174+00:00",
+  "LastUpdate_Achievements": "2023-10-19T09:07:11.9248785+00:00"
 }

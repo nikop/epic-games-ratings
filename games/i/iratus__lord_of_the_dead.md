@@ -6,32 +6,32 @@ Number of Ratings: 10,109  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Improvement | 85.00% | ~35,858 |
-| Blood Moon | 73.00% | ~30,796 |
+| Improvement | 85.00% | ~35,859 |
+| Blood Moon | 73.00% | ~30,797 |
 | Path of the Necromancer | 66.00% | ~27,843 |
 | Chainbreaker - I | 60.00% | ~25,312 |
-| Cursed Creature | 57.00% | ~24,046 |
-| Extraction | 57.00% | ~24,046 |
-| Chainbreaker - II | 55.00% | ~23,202 |
+| Cursed Creature | 57.00% | ~24,047 |
+| Extraction | 57.00% | ~24,047 |
+| Chainbreaker - II | 55.00% | ~23,203 |
 | Necromancer's Apprentice | 51.00% | ~21,515 |
-| Keeper of Keys | 47.00% | ~19,827 |
+| Keeper of Keys | 47.00% | ~19,828 |
 | Distillation | 43.00% | ~18,140 |
-| Mountain King - I | 42.00% | ~17,718 |
-| Transmutation | 42.00% | ~17,718 |
-| Prepared Necromancer | 40.00% | ~16,874 |
+| Mountain King - I | 42.00% | ~17,719 |
+| Transmutation | 42.00% | ~17,719 |
+| Prepared Necromancer | 40.00% | ~16,875 |
 | Mountain King - II | 39.00% | ~16,453 |
 | Blind Rage | 38.00% | ~16,031 |
 | Mad Genius | 35.00% | ~14,765 |
-| Cannon Fodder - I | 34.00% | ~14,343 |
-| Soul of Lies | 34.00% | ~14,343 |
-| Bane of Mercenaries - I | 33.00% | ~13,921 |
+| Cannon Fodder - I | 34.00% | ~14,344 |
+| Soul of Lies | 34.00% | ~14,344 |
+| Bane of Mercenaries - I | 33.00% | ~13,922 |
 | Bane of Mercenaries - II | 31.00% | ~13,078 |
 | Shadow Between Worlds | 30.00% | ~12,656 |
 | Cannon Fodder - II | 29.00% | ~12,234 |
 | Bane of Monsters | 28.00% | ~11,812 |
 | Chainbreaker - III | 28.00% | ~11,812 |
 | Revealed Secrets - I | 27.00% | ~11,390 |
-| Revealed Secrets - II | 26.00% | ~10,968 |
+| Revealed Secrets - II | 26.00% | ~10,969 |
 | Unholy Bones | 24.00% | ~10,125 |
 | Blood Elemental | 24.00% | ~10,125 |
 | Lord of Fire | 23.00% | ~9,703 |
@@ -82,7 +82,7 @@ Number of Ratings: 10,109  (23.09.2022)
 | Unrivaled | 0.60% | ~253 |
 | Renowned Researcher | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,186 (Ranked 110)  
+Progressed: 42,187 (Ranked 110)  
 Completed: 24 (0.06%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,14 +264,14 @@ Completed: 24 (0.06%) (Ranked 269)
 | 2023-10-16 | 42,057 | 24 |
 | 2023-10-17 | 42,122 | 24 |
 | 2023-10-18 | 42,174 | 24 |
-| 2023-10-19 | 42,186 | 24 |
+| 2023-10-19 | 42,187 | 24 |
 ## Awards
-Max (Character Customization): 2,152  (Ranked 108)  
-Sum: 4,181 (Ranked 146)  
+Max (Character Customization): 2,153  (Ranked 108)  
+Sum: 4,182 (Ranked 146)  
 Diff (max vs sum): -38  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 2,152 |
+| This game has Inclusive Character Customization | 2,153 |
 | This game is Highly Recommended | 229 |
 | This game is Relaxing | 226 |
 | This game has Amazing Storytelling | 225 |
@@ -403,3 +403,4 @@ Diff (max vs sum): -38
 | 2023-10-12 | 4.37 | - | 2,152 | 4,179 |
 | 2023-10-14 | 4.37 | - | 2,152 | 4,180 |
 | 2023-10-18 | 4.37 | - | 2,152 | 4,181 |
+| 2023-10-19 | 4.37 | - | 2,153 | 4,182 |

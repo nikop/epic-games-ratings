@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 428,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -842,9 +842,9 @@
       "ID": "TheArdentPrince",
       "SetID": "1jeo1g7",
       "Name": "The Ardent Prince",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "TheChaosArtisan",
@@ -962,9 +962,9 @@
       "ID": "ApianHero",
       "SetID": "1jeo1g7",
       "Name": "Apian Hero",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ApianMastery",
@@ -1105,8 +1105,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-10-19T08:08:23.1154383+00:00",
+  "LastChanged_Achievements": "2023-10-19T09:07:13.6918562+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:31.1237479+00:00",
-  "LastUpdate_Ratings": "2023-10-19T07:57:40.7965796+00:00",
-  "LastUpdate_Achievements": "2023-10-19T08:08:23.1155621+00:00"
+  "LastUpdate_Ratings": "2023-10-19T08:57:20.0712912+00:00",
+  "LastUpdate_Achievements": "2023-10-19T09:07:13.6919847+00:00"
 }

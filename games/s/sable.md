@@ -6,14 +6,14 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~32,208 |
+| Simoon | 34.00% | ~32,209 |
 | Just The Two of Us | 32.00% | ~30,314 |
-| Up On High | 25.00% | ~23,682 |
-| Under The Hood | 25.00% | ~23,682 |
-| Got Your Nose | 24.00% | ~22,735 |
-| The Gift of Gab | 24.00% | ~22,735 |
+| Up On High | 25.00% | ~23,683 |
+| Under The Hood | 25.00% | ~23,683 |
+| Got Your Nose | 24.00% | ~22,736 |
+| The Gift of Gab | 24.00% | ~22,736 |
 | Wrapping Up | 22.00% | ~20,841 |
-| More Than A Box Of Sand | 18.00% | ~17,051 |
+| More Than A Box Of Sand | 18.00% | ~17,052 |
 | The Dunboyne | 17.00% | ~16,104 |
 | Badge Hobbyist | 17.00% | ~16,104 |
 | Chum Novice | 16.00% | ~15,157 |
@@ -28,7 +28,7 @@ Number of Ratings: 43  (23.09.2022)
 | Big Spender | 13.00% | ~12,315 |
 | Badge Collector | 12.00% | ~11,368 |
 | Quite The Catch | 12.00% | ~11,368 |
-| Rowleys Way | 11.00% | ~10,420 |
+| Rowleys Way | 11.00% | ~10,421 |
 | The Machinist Mask | 10.00% | ~9,473 |
 | The Cartographer Mask | 10.00% | ~9,473 |
 | Balfron Connection | 10.00% | ~9,473 |
@@ -39,12 +39,12 @@ Number of Ratings: 43  (23.09.2022)
 | Centre Of Brunswick | 9.00% | ~8,526 |
 | Bike Collector | 9.00% | ~8,526 |
 | Not That Kind Of Gliding | 9.00% | ~8,526 |
-| The Scrapper Mask | 8.00% | ~7,578 |
-| Shadow Of Neave | 8.00% | ~7,578 |
-| Fragile Goods | 8.00% | ~7,578 |
-| Glider on the Storm | 8.00% | ~7,578 |
-| Squeeze One Out | 8.00% | ~7,578 |
-| Dune Rider | 8.00% | ~7,578 |
+| The Scrapper Mask | 8.00% | ~7,579 |
+| Shadow Of Neave | 8.00% | ~7,579 |
+| Fragile Goods | 8.00% | ~7,579 |
+| Glider on the Storm | 8.00% | ~7,579 |
+| Squeeze One Out | 8.00% | ~7,579 |
+| Dune Rider | 8.00% | ~7,579 |
 | Amateur Historian | 7.00% | ~6,631 |
 | The Beetle Mask | 7.00% | ~6,631 |
 | The Guard Mask | 7.00% | ~6,631 |
@@ -54,8 +54,8 @@ Number of Ratings: 43  (23.09.2022)
 | The Merchant Mask | 6.00% | ~5,684 |
 | Honorary Chum | 6.00% | ~5,684 |
 | Bikes Don't Fly | 6.00% | ~5,684 |
-| The Gliding | 5.00% | ~4,736 |
-| The Entertainer Mask | 5.00% | ~4,736 |
+| The Gliding | 5.00% | ~4,737 |
+| The Entertainer Mask | 5.00% | ~4,737 |
 | The Quick and the Curious | 4.00% | ~3,789 |
 | Bike Aficionado | 4.00% | ~3,789 |
 | Chum Expert | 3.00% | ~2,842 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~2,842 |
 | Vivacious Vivarium | 2.00% | ~1,895 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 94,730 (Ranked 82)  
+Progressed: 94,732 (Ranked 82)  
 Completed: 954 (1.01%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,7 +245,7 @@ Completed: 954 (1.01%) (Ranked 147)
 | 2023-10-16 | 94,424 | 950 |
 | 2023-10-17 | 94,560 | 953 |
 | 2023-10-18 | 94,686 | 954 |
-| 2023-10-19 | 94,730 | 954 |
+| 2023-10-19 | 94,732 | 954 |
 ## Awards
 Max (Quickly Understood Controls): 24  (Ranked 510)  
 Sum: 89 (Ranked 439)  

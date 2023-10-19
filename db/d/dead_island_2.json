@@ -5449,10 +5449,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 9729,
       "NumberOfAwardsMax": 6500
+    },
+    {
+      "Time": "2023-10-19T09:03:24.7004672+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 9731,
+      "NumberOfAwardsMax": 6500
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9729,
+  "NumberOfAwards": 9731,
   "NumberOfAwardsMax": 6500,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5490,7 +5496,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 355
+      "Count": 357
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5511,9 +5517,9 @@
       "Count": 386
     }
   ],
-  "EOS_Progressed": 697990,
+  "EOS_Progressed": 698013,
   "EOS_Completed": 2242,
-  "EOS_NewPlayers": 3613,
+  "EOS_NewPlayers": 3623,
   "EOS_NewCompleters": 32,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -26146,6 +26152,11 @@
       "Time": "2023-10-19T08:07:45.5747095+00:00",
       "NumProgressed": 697990,
       "NumCompleted": 2242
+    },
+    {
+      "Time": "2023-10-19T09:06:42.0337863+00:00",
+      "NumProgressed": 698013,
+      "NumCompleted": 2242
     }
   ],
   "TotalAchievements": 45,
@@ -26317,7 +26328,7 @@
       "Name": "Hotel California",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 27920
+      "UsersEstimate": 27921
     },
     {
       "ID": "ach_impressive_aim",
@@ -26493,7 +26504,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 27920
+      "UsersEstimate": 27921
     },
     {
       "ID": "ach_well_known_survivor",
@@ -26516,22 +26527,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 697990,
+      "Progressed": 698013,
       "Completed": 2242
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 23532,
-      "Completed": 23532
+      "Progressed": 23555,
+      "Completed": 23555
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-10-19T03:03:21.3854315+00:00",
-  "LastChanged_Achievements": "2023-10-19T08:07:45.5747087+00:00",
+  "LastChanged": "2023-10-19T09:03:24.7004669+00:00",
+  "LastChanged_Achievements": "2023-10-19T09:06:42.0337853+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:12.5060368+00:00",
-  "LastUpdate_Ratings": "2023-10-19T08:03:30.3238311+00:00",
-  "LastUpdate_Achievements": "2023-10-19T08:07:45.5749096+00:00"
+  "LastUpdate_Ratings": "2023-10-19T09:03:24.700468+00:00",
+  "LastUpdate_Achievements": "2023-10-19T09:06:42.0340178+00:00"
 }

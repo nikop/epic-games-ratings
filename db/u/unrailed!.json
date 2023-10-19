@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 27,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 44,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-04-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-23T00:00:00+00:00",
@@ -2723,9 +2723,9 @@
       "Count": 146
     }
   ],
-  "EOS_Progressed": 655294,
+  "EOS_Progressed": 655297,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 1978,
+  "EOS_NewPlayers": 1976,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23298,6 +23298,11 @@
       "Time": "2023-10-19T08:06:07.369618+00:00",
       "NumProgressed": 655294,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-10-19T09:05:19.8551444+00:00",
+      "NumProgressed": 655297,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 52,
@@ -23309,7 +23314,7 @@
       "Name": "Stroller",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 98294
+      "UsersEstimate": 98295
     },
     {
       "ID": "_01_01_DISTANCE_200_EASY",
@@ -23317,7 +23322,7 @@
       "Name": "Hiker",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 78635
+      "UsersEstimate": 78636
     },
     {
       "ID": "_01_02_DISTANCE_500_EASY",
@@ -23357,7 +23362,7 @@
       "Name": "Advanced Hiker",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 85188
+      "UsersEstimate": 85189
     },
     {
       "ID": "_01_07_DISTANCE_500_MEDIUM",
@@ -23429,7 +23434,7 @@
       "Name": "Toy Train",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 85188
+      "UsersEstimate": 85189
     },
     {
       "ID": "_01_21_TRACKS_1000",
@@ -23629,7 +23634,7 @@
       "Name": "Climate Change",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 104847
+      "UsersEstimate": 104848
     },
     {
       "ID": "_11_00_FIRE_FIGHTER",
@@ -23724,15 +23729,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 655294,
+      "Progressed": 655297,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-10-17T01:43:29.4034192+00:00",
-  "LastChanged_Achievements": "2023-10-19T08:06:07.3696174+00:00",
+  "LastChanged_Achievements": "2023-10-19T09:05:19.8551435+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:10.7183128+00:00",
-  "LastUpdate_Ratings": "2023-10-19T08:01:30.361032+00:00",
-  "LastUpdate_Achievements": "2023-10-19T08:06:07.3697883+00:00"
+  "LastUpdate_Ratings": "2023-10-19T09:00:25.5657082+00:00",
+  "LastUpdate_Achievements": "2023-10-19T09:05:19.855324+00:00"
 }

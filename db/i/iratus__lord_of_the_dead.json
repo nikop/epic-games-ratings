@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 269,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2022-05-19T15:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -2147,18 +2147,24 @@
       "Rating": 4.37,
       "NumberOfAwards": 4181,
       "NumberOfAwardsMax": 2152
+    },
+    {
+      "Time": "2023-10-19T08:59:08.5188035+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 4182,
+      "NumberOfAwardsMax": 2153
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4181,
-  "NumberOfAwardsMax": 2152,
+  "NumberOfAwards": 4182,
+  "NumberOfAwardsMax": 2153,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 2152
+      "Count": 2153
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2221,9 +2227,9 @@
       "Count": 101
     }
   ],
-  "EOS_Progressed": 42186,
+  "EOS_Progressed": 42187,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 486,
+  "EOS_NewPlayers": 484,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -21896,6 +21902,11 @@
       "Time": "2023-10-19T08:05:00.3577291+00:00",
       "NumProgressed": 42186,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-10-19T09:04:23.836579+00:00",
+      "NumProgressed": 42187,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 75,
@@ -21939,7 +21950,7 @@
       "Name": "Cursed Creature",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 24046
+      "UsersEstimate": 24047
     },
     {
       "ID": "achievements_14",
@@ -21955,7 +21966,7 @@
       "Name": "Keeper of Keys",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 19827
+      "UsersEstimate": 19828
     },
     {
       "ID": "achievements_17",
@@ -22019,7 +22030,7 @@
       "Name": "Chainbreaker - II",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 23202
+      "UsersEstimate": 23203
     },
     {
       "ID": "achievements_25",
@@ -22035,7 +22046,7 @@
       "Name": "Mountain King - I",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 17718
+      "UsersEstimate": 17719
     },
     {
       "ID": "achievements_27",
@@ -22059,7 +22070,7 @@
       "Name": "Bane of Mercenaries - I",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 13921
+      "UsersEstimate": 13922
     },
     {
       "ID": "achievements_3",
@@ -22091,7 +22102,7 @@
       "Name": "Cannon Fodder - I",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 14343
+      "UsersEstimate": 14344
     },
     {
       "ID": "achievements_33",
@@ -22211,7 +22222,7 @@
       "Name": "Improvement",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 35858
+      "UsersEstimate": 35859
     },
     {
       "ID": "achievements_47",
@@ -22259,7 +22270,7 @@
       "Name": "Prepared Necromancer",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 16874
+      "UsersEstimate": 16875
     },
     {
       "ID": "achievements_52",
@@ -22267,7 +22278,7 @@
       "Name": "Transmutation",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 17718
+      "UsersEstimate": 17719
     },
     {
       "ID": "achievements_53",
@@ -22275,7 +22286,7 @@
       "Name": "Extraction",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 24046
+      "UsersEstimate": 24047
     },
     {
       "ID": "achievements_54",
@@ -22331,7 +22342,7 @@
       "Name": "Soul of Lies",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 14343
+      "UsersEstimate": 14344
     },
     {
       "ID": "achievements_61",
@@ -22355,7 +22366,7 @@
       "Name": "Revealed Secrets - II",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 10968
+      "UsersEstimate": 10969
     },
     {
       "ID": "achievements_64",
@@ -22483,7 +22494,7 @@
       "Name": "Blood Moon",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 30796
+      "UsersEstimate": 30797
     },
     {
       "ID": "achievements_8",
@@ -22506,15 +22517,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 42186,
+      "Progressed": 42187,
       "Completed": 24
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
-  "LastChanged": "2023-10-18T01:41:51.8709451+00:00",
-  "LastChanged_Achievements": "2023-10-19T08:05:00.3577284+00:00",
+  "LastChanged": "2023-10-19T08:59:08.5188033+00:00",
+  "LastChanged_Achievements": "2023-10-19T09:04:23.8365783+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:08.5665033+00:00",
-  "LastUpdate_Ratings": "2023-10-19T07:59:53.6545963+00:00",
-  "LastUpdate_Achievements": "2023-10-19T08:05:00.3579662+00:00"
+  "LastUpdate_Ratings": "2023-10-19T08:59:08.5188039+00:00",
+  "LastUpdate_Achievements": "2023-10-19T09:04:23.8368139+00:00"
 }
