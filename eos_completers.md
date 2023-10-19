@@ -3,7 +3,7 @@
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 66.67% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.58% |
-| 4 | [The Riflemen](games/t/the_riflemen.md) | 46.87% |
+| 4 | [The Riflemen](games/t/the_riflemen.md) | 46.85% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.83% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.17% |
@@ -45,7 +45,7 @@
 | 43 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 43 | [laserlemon Production](games/l/laserlemon_production.md) | 7.69% |
 | 45 | [Ravenlok](games/r/ravenlok.md) | 7.66% |
-| 46 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.51% |
+| 46 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.49% |
 | 47 | [Sonic Origins](games/s/sonic_origins.md) | 7.39% |
 | 48 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.27% |
 | 49 | [Time Loader](games/t/time_loader.md) | 7.20% |
@@ -113,7 +113,7 @@
 | 111 | [Bloodshore](games/b/bloodshore.md) | 2.11% |
 | 112 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.97% |
 | 113 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.96% |
-| 114 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.95% |
+| 114 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.94% |
 | 115 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 116 | [Night Book](games/n/night_book.md) | 1.83% |
 | 117 | [Sifu](games/s/sifu.md) | 1.81% |
@@ -122,8 +122,8 @@
 | 119 | [Frogun](games/f/frogun.md) | 1.79% |
 | 121 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 1.75% |
 | 122 | [Somerville](games/s/somerville.md) | 1.70% |
-| 123 | [Five Dates](games/f/five_dates.md) | 1.59% |
-| 124 | [Late Shift](games/l/late_shift.md) | 1.57% |
+| 123 | [Five Dates](games/f/five_dates.md) | 1.58% |
+| 124 | [Late Shift](games/l/late_shift.md) | 1.56% |
 | 125 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.48% |
 | 125 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
 | 127 | [Iron Danger](games/i/iron_danger.md) | 1.43% |
@@ -241,11 +241,11 @@
 | 239 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
 | 239 | [Isonzo](games/i/isonzo.md) | 0.13% |
 | 239 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
-| 242 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
-| 242 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.12% |
-| 242 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.12% |
-| 242 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
-| 242 | [Shop Titans](games/s/shop_titans.md) | 0.12% |
+| 239 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.13% |
+| 243 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
+| 243 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.12% |
+| 243 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
+| 243 | [Shop Titans](games/s/shop_titans.md) | 0.12% |
 | 247 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.11% |
 | 247 | [Outward Definitive Edition](games/o/outward.md) | 0.11% |
 | 249 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
