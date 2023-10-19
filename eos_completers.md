@@ -3,7 +3,7 @@
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 66.67% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.58% |
-| 4 | [The Riflemen](games/t/the_riflemen.md) | 47.35% |
+| 4 | [The Riflemen](games/t/the_riflemen.md) | 47.34% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.93% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 33.04% |
@@ -67,11 +67,11 @@
 | 65 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.71% |
 | 65 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.71% |
 | 67 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.55% |
-| 68 | [ZZT!](games/z/zzt!.md) | 4.47% |
+| 68 | [ZZT!](games/z/zzt!.md) | 4.46% |
 | 69 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.43% |
 | 70 | [The Bunker](games/t/the_bunker.md) | 4.20% |
-| 71 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.14% |
 | 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.14% |
+| 72 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.13% |
 | 73 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.08% |
 | 74 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.00% |
 | 75 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
@@ -84,7 +84,7 @@
 | 82 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
 | 83 | [The Complex](games/t/the_complex.md) | 3.33% |
 | 84 | [Doodle God](games/d/doodle_god.md) | 3.27% |
-| 84 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.27% |
+| 85 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.26% |
 | 86 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.25% |
 | 86 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.25% |
 | 88 | [Monster Harvest](games/m/monster_harvest.md) | 3.15% |
@@ -95,7 +95,7 @@
 | 93 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 2.86% |
 | 93 | [FORECLOSED](games/f/foreclosed.md) | 2.86% |
 | 93 | [Mega City Police](games/m/mega_city_police.md) | 2.86% |
-| 96 | [Destiny 2](games/d/destiny_2.md) | 2.82% |
+| 96 | [Destiny 2](games/d/destiny_2.md) | 2.83% |
 | 97 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 98 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.67% |
 | 99 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.60% |
@@ -114,8 +114,8 @@
 | 112 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.97% |
 | 113 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.96% |
 | 113 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.96% |
-| 115 | [Night Book](games/n/night_book.md) | 1.84% |
-| 115 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
+| 115 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.85% |
+| 116 | [Night Book](games/n/night_book.md) | 1.84% |
 | 117 | [Sifu](games/s/sifu.md) | 1.81% |
 | 118 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.80% |
 | 119 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.79% |

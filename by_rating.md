@@ -227,7 +227,7 @@
 | 224 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 539 |
 | 224 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 6,571 | 55 |
 | 224 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.69 | 5,208 | 70 |
-| 224 | [House Flipper](games/h/house_flipper.md) | 4.69 | 313 | 240 |
+| 224 | [House Flipper](games/h/house_flipper.md) | 4.69 | 316 | 239 |
 | 224 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.69 | 0 | 539 |
 | 224 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,206 | 138 |
 | 224 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 539 |
@@ -483,7 +483,7 @@
 | 476 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 882 | 157 |
 | 476 | [F1® Manager 2023](games/3/38b4b40752b142e5a503acbb241a8b3c.md) | 4.56 | 0 | 539 |
 | 476 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 27 | 495 |
-| 476 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.56 | 353 | 232 |
+| 476 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.56 | 354 | 232 |
 | 476 | [Hue](games/h/hue.md) | 4.56 | 0 | 539 |
 | 476 | [Isonzo](games/i/isonzo.md) | 4.56 | 36 | 453 |
 | 476 | [IXION](games/i/ixion.md) | 4.56 | 0 | 539 |
@@ -515,7 +515,7 @@
 | 495 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,313 | 133 |
 | 514 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,502 | 126 |
 | 514 | [Costume Quest](games/c/costume_quest.md) | 4.54 | 0 | 539 |
-| 514 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 6,489 | 56 |
+| 514 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 6,500 | 56 |
 | 514 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 35 | 456 |
 | 514 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.54 | 0 | 539 |
 | 514 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.54 | 159 | 302 |
@@ -548,7 +548,7 @@
 | 540 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 126 | 320 |
 | 540 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 194 | 281 |
 | 540 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 0 | 539 |
-| 540 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 314 | 239 |
+| 540 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 314 | 240 |
 | 540 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 0 | 539 |
 | 540 | [Sable](games/s/sable.md) | 4.52 | 24 | 511 |
 | 540 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 0 | 539 |
@@ -696,7 +696,7 @@
 | 692 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,231 | 137 |
 | 692 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 54 |
 | 692 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 70 | 390 |
-| 692 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 174 | 291 |
+| 692 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 176 | 290 |
 | 692 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.42 | 0 | 539 |
 | 692 | [Warpips](games/w/warpips.md) | 4.42 | 29 | 479 |
 | 700 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 0 | 539 |
@@ -717,7 +717,7 @@
 | 700 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 0 | 539 |
 | 700 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 38 | 446 |
 | 700 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 74 | 382 |
-| 700 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,216 | 107 |
+| 700 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,217 | 107 |
 | 700 | [Sheltered](games/s/sheltered.md) | 4.41 | 274 | 253 |
 | 700 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 4.41 | 0 | 539 |
 | 700 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.41 | 115 | 332 |
@@ -736,7 +736,7 @@
 | 731 | [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 4.39 | 0 | 539 |
 | 731 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 589 | 191 |
 | 731 | [MORDHAU](games/m/mordhau.md) | 4.39 | 799 | 165 |
-| 731 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 174 | 291 |
+| 731 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 174 | 292 |
 | 731 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,771 | 35 |
 | 731 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.39 | 0 | 539 |
 | 731 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.39 | 74 | 382 |
@@ -903,7 +903,7 @@
 | 895 | [Windbound](games/w/windbound.md) | 4.19 | 0 | 539 |
 | 902 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 0 | 539 |
 | 902 | [Gone Home](games/g/gone_home.md) | 4.18 | 0 | 539 |
-| 902 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,840 | 98 |
+| 902 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,842 | 98 |
 | 902 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 207,451 | 5 |
 | 902 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 355 |
 | 902 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 4.18 | 33 | 469 |
@@ -932,11 +932,11 @@
 | 926 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.14 | 0 | 539 |
 | 931 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 0 | 539 |
 | 931 | [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 4.13 | 21 | 527 |
+| 931 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.13 | 20 | 531 |
 | 931 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.13 | 0 | 539 |
-| 934 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.12 | 20 | 531 |
-| 934 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 4.12 | 0 | 539 |
-| 934 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 4.12 | 0 | 539 |
-| 934 | [Model Builder](games/m/model_builder.md) | 4.12 | 0 | 539 |
+| 935 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 4.12 | 0 | 539 |
+| 935 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 4.12 | 0 | 539 |
+| 935 | [Model Builder](games/m/model_builder.md) | 4.12 | 0 | 539 |
 | 938 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 91 | 361 |
 | 938 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,519 | 102 |
 | 940 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.09 | 0 | 539 |
