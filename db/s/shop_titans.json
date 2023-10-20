@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -6595,9 +6595,9 @@
       "Count": 3762
     }
   ],
-  "EOS_Progressed": 137831,
+  "EOS_Progressed": 137838,
   "EOS_Completed": 171,
-  "EOS_NewPlayers": 333,
+  "EOS_NewPlayers": 336,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -25270,6 +25270,11 @@
       "Time": "2023-10-20T00:05:04.4303573+00:00",
       "NumProgressed": 137831,
       "NumCompleted": 171
+    },
+    {
+      "Time": "2023-10-20T01:47:45.7533592+00:00",
+      "NumProgressed": 137838,
+      "NumCompleted": 171
     }
   ],
   "TotalAchievements": 112,
@@ -25329,7 +25334,7 @@
       "Name": "Ascended",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1240
+      "UsersEstimate": 1241
     },
     {
       "ID": "ascend02",
@@ -25393,7 +25398,7 @@
       "Name": "Research \u0026 Development",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1240
+      "UsersEstimate": 1241
     },
     {
       "ID": "blueprint03",
@@ -25409,7 +25414,7 @@
       "Name": "Vanity, Verily",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1240
+      "UsersEstimate": 1241
     },
     {
       "ID": "boss01",
@@ -25721,7 +25726,7 @@
       "Name": "Flawless Fusion",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1240
+      "UsersEstimate": 1241
     },
     {
       "ID": "fuselegendary",
@@ -25801,7 +25806,7 @@
       "Name": "Helping Hand",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1240
+      "UsersEstimate": 1241
     },
     {
       "ID": "help02",
@@ -25945,7 +25950,7 @@
       "Name": "Natural 20",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1240
+      "UsersEstimate": 1241
     },
     {
       "ID": "master03",
@@ -25969,7 +25974,7 @@
       "Name": "The Greatest Grind",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "masterpiece",
@@ -25977,7 +25982,7 @@
       "Name": "All or Nothing!",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "polonia_a",
@@ -26041,7 +26046,7 @@
       "Name": "Marvels from the World Over",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "rudo_a",
@@ -26176,15 +26181,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 137831,
+      "Progressed": 137838,
       "Completed": 171
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-19T11:59:44.6314185+00:00",
-  "LastChanged_Achievements": "2023-10-20T00:05:04.4303566+00:00",
+  "LastChanged_Achievements": "2023-10-20T01:47:45.7533586+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:10.2617104+00:00",
-  "LastUpdate_Ratings": "2023-10-19T23:59:10.2429991+00:00",
-  "LastUpdate_Achievements": "2023-10-20T00:05:04.4306459+00:00"
+  "LastUpdate_Ratings": "2023-10-20T01:41:43.5700857+00:00",
+  "LastUpdate_Achievements": "2023-10-20T01:47:45.7536203+00:00"
 }

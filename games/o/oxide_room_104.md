@@ -12,13 +12,13 @@
 | Now or never | 76.00% | ~146 |
 | Let's play a game… | 75.00% | ~144 |
 | First aid | 63.00% | ~121 |
-| Soundtrack | 61.00% | ~117 |
+| Soundtrack | 62.00% | ~119 |
 | Antidote | 56.00% | ~108 |
 | Pick the right door | 27.00% | ~52 |
 | The third floor | 19.00% | ~36 |
 | One-way | 17.00% | ~33 |
 | On the right path | 16.00% | ~31 |
-| It can't be true | 15.00% | ~29 |
+| It can't be true | 16.00% | ~31 |
 | He who seeks, finds! | 13.00% | ~25 |
 | I'm close now | 12.00% | ~23 |
 | Failed attempt | 12.00% | ~23 |

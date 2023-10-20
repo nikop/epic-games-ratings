@@ -7,11 +7,11 @@ Rating: 4.43 (Ranked 675)
 | ---- | ---------- | ----- |
 | Country Bumpkin | 75.00% | ~1,533 |
 | A new Journey | 74.00% | ~1,513 |
+| From X to Y | 73.00% | ~1,492 |
 | Departure | 73.00% | ~1,492 |
-| From X to Y | 72.00% | ~1,472 |
 | Way of Iron | 70.00% | ~1,431 |
 | Mystery Tour | 69.00% | ~1,410 |
-| We brake for nobody | 67.00% | ~1,369 |
+| We brake for nobody | 68.00% | ~1,390 |
 | Brainstorm | 65.00% | ~1,329 |
 | Travel Company | 65.00% | ~1,329 |
 | Mind the Gap | 64.00% | ~1,308 |

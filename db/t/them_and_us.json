@@ -4,8 +4,8 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
     "PcReleaseDate": "2021-09-28T16:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 234,
+  "EOS_Progressed": 235,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -1006,6 +1006,11 @@
       "Time": "2023-10-19T21:07:39.3635367+00:00",
       "NumProgressed": 234,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-20T01:49:23.060001+00:00",
+      "NumProgressed": 235,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1017,7 +1022,7 @@
       "Name": "Lover of classics",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ETUA_AloneInTheDark",
@@ -1025,7 +1030,7 @@
       "Name": "Alone In The Dark",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ETUA_AlonewithThem",
@@ -1033,7 +1038,7 @@
       "Name": "Alone with Them",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -1113,7 +1118,7 @@
       "Name": "Forced to Kill",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -1265,7 +1270,7 @@
       "Name": "The Cultists",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ETUA_TheCurseIsReal",
@@ -1305,7 +1310,7 @@
       "Name": "A Night To Remember",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ETUA_Trapped",
@@ -1313,7 +1318,7 @@
       "Name": "Trapped",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ETUA_WhatAMansion",
@@ -1327,16 +1332,16 @@
       "ID": "ETUA_WhatHaveIDone",
       "SetID": "65jc0ap",
       "Name": "What have I done!?",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 40
     }
   ],
   "AchievementSets": [
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 234,
+      "Progressed": 235,
       "Completed": 1
     }
   ],
@@ -1344,8 +1349,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-10-20T00:06:43.2548966+00:00",
+  "LastChanged_Achievements": "2023-10-20T01:49:23.0600002+00:00",
   "LastUpdate_AppInfo": "2023-10-14T13:56:58.0301725+00:00",
-  "LastUpdate_Ratings": "2023-10-19T23:57:54.3424925+00:00",
-  "LastUpdate_Achievements": "2023-10-20T00:06:43.2549369+00:00"
+  "LastUpdate_Ratings": "2023-10-20T01:40:27.0716269+00:00",
+  "LastUpdate_Achievements": "2023-10-20T01:49:23.0600418+00:00"
 }

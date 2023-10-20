@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 187,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2535,9 +2535,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26673,
+  "EOS_Progressed": 26689,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 292,
+  "EOS_NewPlayers": 306,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -15500,6 +15500,11 @@
       "Time": "2023-10-20T00:04:16.0275623+00:00",
       "NumProgressed": 26673,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-10-20T01:46:58.3892991+00:00",
+      "NumProgressed": 26689,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 51,
@@ -15511,7 +15516,7 @@
       "Name": "Advancement",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "Animated",
@@ -15559,7 +15564,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "Collector",
@@ -15599,7 +15604,7 @@
       "Name": "Discovery",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "Dont_Need_These",
@@ -15623,7 +15628,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "Escape_Artist",
@@ -15647,7 +15652,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "GB_In_Training",
@@ -15679,7 +15684,7 @@
       "Name": "Legions",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "Liability",
@@ -15791,7 +15796,7 @@
       "Name": "Skilled",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "Solo_Capture",
@@ -15799,7 +15804,7 @@
       "Name": "Solo Capture",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "Stunner",
@@ -15807,7 +15812,7 @@
       "Name": "Stunner",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "Stylish",
@@ -15815,7 +15820,7 @@
       "Name": "Stylish",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 800
+      "UsersEstimate": 801
     },
     {
       "ID": "Summoner",
@@ -15845,9 +15850,9 @@
       "ID": "Teamwork",
       "SetID": "819popo",
       "Name": "Teamwork",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 267
+      "UsersEstimate": 534
     },
     {
       "ID": "Terrifying",
@@ -15895,7 +15900,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "Welcome_Crew",
@@ -15918,7 +15923,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26673,
+      "Progressed": 26689,
       "Completed": 59
     }
   ],
@@ -15926,8 +15931,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-20T00:00:11.7622234+00:00",
-  "LastChanged_Achievements": "2023-10-20T00:04:16.0275615+00:00",
+  "LastChanged_Achievements": "2023-10-20T01:46:58.3892986+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:17.9420656+00:00",
-  "LastUpdate_Ratings": "2023-10-20T00:00:11.7622242+00:00",
-  "LastUpdate_Achievements": "2023-10-20T00:04:16.0277092+00:00"
+  "LastUpdate_Ratings": "2023-10-20T01:42:46.4275557+00:00",
+  "LastUpdate_Achievements": "2023-10-20T01:46:58.38944+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -511,9 +511,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8307,
+  "EOS_Progressed": 8308,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
@@ -10106,6 +10106,11 @@
       "Time": "2023-10-19T14:04:59.7501105+00:00",
       "NumProgressed": 8307,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-10-20T01:47:10.3268637+00:00",
+      "NumProgressed": 8308,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 29,
@@ -10117,7 +10122,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6895
+      "UsersEstimate": 6896
     },
     {
       "ID": "ACH02",
@@ -10125,7 +10130,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 2824
+      "UsersEstimate": 2825
     },
     {
       "ID": "ACH03",
@@ -10261,7 +10266,7 @@
       "Name": "A Gift from the King",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "ACH20",
@@ -10348,7 +10353,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8307,
+      "Progressed": 8308,
       "Completed": 55
     }
   ],
@@ -10356,8 +10361,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-10-06T23:02:27.8926786+00:00",
-  "LastChanged_Achievements": "2023-10-20T00:04:29.1707052+00:00",
+  "LastChanged_Achievements": "2023-10-20T01:47:10.3268631+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:08.879613+00:00",
-  "LastUpdate_Ratings": "2023-10-20T00:00:32.4679695+00:00",
-  "LastUpdate_Achievements": "2023-10-20T00:04:29.1707922+00:00"
+  "LastUpdate_Ratings": "2023-10-20T01:43:06.1140126+00:00",
+  "LastUpdate_Achievements": "2023-10-20T01:47:10.3269494+00:00"
 }

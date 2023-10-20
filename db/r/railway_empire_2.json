@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -5431,9 +5431,9 @@
       "ID": "A10",
       "SetID": "9b7p7eo",
       "Name": "From X to Y",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 1472
+      "UsersEstimate": 1492
     },
     {
       "ID": "A11",
@@ -5575,9 +5575,9 @@
       "ID": "A28",
       "SetID": "9b7p7eo",
       "Name": "We brake for nobody",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1369
+      "UsersEstimate": 1390
     },
     {
       "ID": "A29",
@@ -5800,8 +5800,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-10-16T20:58:24.180095+00:00",
-  "LastChanged_Achievements": "2023-10-20T00:04:10.3159976+00:00",
+  "LastChanged_Achievements": "2023-10-20T01:46:52.9538052+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:04.7958216+00:00",
-  "LastUpdate_Ratings": "2023-10-19T23:59:02.9266612+00:00",
-  "LastUpdate_Achievements": "2023-10-20T00:04:10.3160916+00:00"
+  "LastUpdate_Ratings": "2023-10-20T01:41:36.1697494+00:00",
+  "LastUpdate_Achievements": "2023-10-20T01:46:52.9538803+00:00"
 }

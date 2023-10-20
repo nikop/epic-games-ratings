@@ -17,7 +17,7 @@ Rating: 4.35 (Ranked 777)
 | Fine-toothed Comb | 54.00% | ~236 |
 | Order and Method | 52.00% | ~227 |
 | The Altercation | 50.00% | ~218 |
-| Truth from Within | 48.00% | ~210 |
+| Truth from Within | 49.00% | ~214 |
 | The Major | 47.00% | ~205 |
 | Comtesse Margaux de Vos | 45.00% | ~197 |
 | Curious and Beautiful | 44.00% | ~192 |

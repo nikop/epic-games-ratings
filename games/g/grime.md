@@ -9,17 +9,17 @@ Number of Ratings: 46  (23.09.2022)
 | The Hunt | 2.00% | ~3,065 |
 | Taste | 2.00% | ~3,065 |
 | Imprint | 2.00% | ~3,065 |
-| Weeper | 1.00% | ~1,532 |
-| Ravenous | 1.00% | ~1,532 |
+| Weeper | 1.00% | ~1,533 |
+| Ravenous | 1.00% | ~1,533 |
 | Devourer | 0.90% | ~1,379 |
 | Harmless | 0.80% | ~1,226 |
 | Silenced Whispers | 0.80% | ~1,226 |
 | Yank | 0.70% | ~1,073 |
+| Sharpened Vessel | 0.70% | ~1,073 |
 | Scion | 0.60% | ~917 |
-| Jawcrab | 0.60% | ~919 |
-| Jawstag | 0.60% | ~919 |
-| Feast | 0.60% | ~919 |
-| Sharpened Vessel | 0.60% | ~919 |
+| Jawcrab | 0.60% | ~920 |
+| Jawstag | 0.60% | ~920 |
+| Feast | 0.60% | ~920 |
 | Shapely | 0.50% | ~766 |
 | Glare | 0.50% | ~764 |
 | Watcher | 0.50% | ~766 |
@@ -34,12 +34,13 @@ Number of Ratings: 46  (23.09.2022)
 | Inevitable | 0.30% | ~460 |
 | All-Seeing | 0.30% | ~460 |
 | Breathsmith | 0.30% | ~460 |
-| Dream | 0.30% | ~458 |
-| Bloodhunter | 0.20% | ~306 |
+| Dream | 0.30% | ~459 |
+| Bloodhunter | 0.20% | ~307 |
 | Zygote | 0.20% | ~306 |
-| Unwrap the Gift | 0.20% | ~306 |
-| Passage | 0.20% | ~306 |
+| Unwrap the Gift | 0.20% | ~307 |
+| Passage | 0.20% | ~307 |
 | Listen | 0.20% | ~306 |
+| Proportions | 0.20% | ~307 |
 | Spiral Heart | 0.10% | ~153 |
 | Skinmaker | 0.10% | ~153 |
 | Instruments | 0.10% | ~153 |
@@ -47,13 +48,12 @@ Number of Ratings: 46  (23.09.2022)
 | Weakness | 0.10% | ~153 |
 | Generous | 0.10% | ~153 |
 | Kin | 0.10% | ~153 |
-| Proportions | 0.10% | ~153 |
 | The Nightmare | 0.10% | ~153 |
 | Touch of Otherwhere | 0.10% | ~153 |
 | Enrich | 0.10% | ~153 |
 | Intensify | 0.10% | ~153 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 153,249 (Ranked 71)  
+Progressed: 153,268 (Ranked 71)  
 Completed: 1 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 1 (0.00%) (Ranked 316)
 | 2023-10-17 | 152,880 | 1 |
 | 2023-10-18 | 153,042 | 1 |
 | 2023-10-19 | 153,244 | 1 |
-| 2023-10-20 | 153,249 | 1 |
+| 2023-10-20 | 153,268 | 1 |
 ## Awards
 Max (Highly Recommended): 45  (Ranked 429)  
 Sum: 299 (Ranked 348)  

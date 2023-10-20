@@ -92,10 +92,10 @@
 | No One Left Behind | 20.00% | ~150 |
 | Hard Target | 20.00% | ~150 |
 | Saboteur | 20.00% | ~150 |
+| Fact Finder | 20.00% | ~150 |
 | Problem Solver | 20.00% | ~150 |
 | Under Pressure | 19.00% | ~142 |
 | Last Witness | 19.00% | ~142 |
-| Fact Finder | 19.00% | ~142 |
 | Last Resort | 18.00% | ~135 |
 | Sabotage Specialist | 18.00% | ~135 |
 | Well Connected | 18.00% | ~135 |
@@ -106,8 +106,8 @@
 | Master and Commander | 16.00% | ~120 |
 | Legend | 15.00% | ~112 |
 | Mail Slot | 14.00% | ~105 |
+| Long Service Medal | 14.00% | ~105 |
 | Combined Arms | 13.00% | ~97 |
-| Long Service Medal | 13.00% | ~97 |
 | Bruiser | 12.00% | ~90 |
 | Paramour III | 11.00% | ~82 |
 | Overload Specialist | 11.00% | ~82 |

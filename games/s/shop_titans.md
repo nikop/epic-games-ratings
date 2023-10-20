@@ -35,12 +35,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | Through Repetition, Perfection | 1.00% | ~1,378 |
 | Did we pack lunch? | 1.00% | ~1,378 |
 | Arcane Industries | 1.00% | ~1,378 |
-| Ascended | 0.90% | ~1,240 |
-| Research & Development | 0.90% | ~1,240 |
-| Vanity, Verily | 0.90% | ~1,240 |
-| Flawless Fusion | 0.90% | ~1,240 |
-| Helping Hand | 0.90% | ~1,240 |
-| Natural 20 | 0.90% | ~1,240 |
+| Ascended | 0.90% | ~1,241 |
+| Research & Development | 0.90% | ~1,241 |
+| Vanity, Verily | 0.90% | ~1,241 |
+| Flawless Fusion | 0.90% | ~1,241 |
+| Helping Hand | 0.90% | ~1,241 |
+| Natural 20 | 0.90% | ~1,241 |
 | Tax not Included | 0.80% | ~1,103 |
 | Fated Encounters | 0.80% | ~1,103 |
 | Power of Love | 0.80% | ~1,103 |
@@ -105,9 +105,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Jackpot! | 0.40% | ~551 |
 | Eternal Crusade | 0.40% | ~551 |
 | All Accounted For | 0.40% | ~551 |
-| The Greatest Grind | 0.30% | ~413 |
-| All or Nothing! | 0.30% | ~413 |
-| Marvels from the World Over | 0.30% | ~413 |
+| The Greatest Grind | 0.30% | ~414 |
+| All or Nothing! | 0.30% | ~414 |
+| Marvels from the World Over | 0.30% | ~414 |
 | Bane of Legends | 0.20% | ~276 |
 | Ultimate Collector | 0.20% | ~276 |
 | Oligarch Monarch | 0.20% | ~276 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,831 (Ranked 73)  
+Progressed: 137,838 (Ranked 73)  
 Completed: 171 (0.12%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,7 +302,7 @@ Completed: 171 (0.12%) (Ranked 242)
 | 2023-10-17 | 137,757 | 170 |
 | 2023-10-18 | 137,790 | 171 |
 | 2023-10-19 | 137,829 | 171 |
-| 2023-10-20 | 137,831 | 171 |
+| 2023-10-20 | 137,838 | 171 |
 ## Awards
 Max (Great for Beginners): 4,793  (Ranked 72)  
 Sum: 27,406 (Ranked 50)  

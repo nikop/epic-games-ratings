@@ -2,7 +2,7 @@
   "ID": "d613614e082c4f648835a32f15c1d29b",
   "Name": "SYNCED",
   "ProductSlug": "synced",
-  "Ranking_Rating": 911,
+  "Ranking_Rating": 914,
   "Ranking_Popularity": 384,
   "Ranking_PopularitySum": 365,
   "Ranking_EOS_Progress": 97,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.17,
+  "Rating": 4.16,
   "RatingHistory": [
     {
       "Time": "2023-09-09T22:00:06.1147594+00:00",
@@ -679,10 +679,16 @@
       "Rating": 4.17,
       "NumberOfAwards": 270,
       "NumberOfAwardsMax": 74
+    },
+    {
+      "Time": "2023-10-20T01:41:04.1587337+00:00",
+      "Rating": 4.16,
+      "NumberOfAwards": 271,
+      "NumberOfAwardsMax": 74
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 270,
+  "NumberOfAwards": 271,
   "NumberOfAwardsMax": 74,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -714,7 +720,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 46
+      "Count": 47
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -741,9 +747,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 63827,
+  "EOS_Progressed": 63836,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 1065,
+  "EOS_NewPlayers": 1057,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5856,6 +5862,11 @@
       "Time": "2023-10-20T00:09:13.2605955+00:00",
       "NumProgressed": 63827,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-10-20T01:51:40.0956455+00:00",
+      "NumProgressed": 63836,
+      "NumCompleted": 20
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -5868,7 +5879,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 19786
+      "UsersEstimate": 19789
     },
     {
       "ID": "10",
@@ -5900,7 +5911,7 @@
       "Name": "Memory Keeper",
       "Percentage": 0.3,
       "XP": 150,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "14",
@@ -5916,7 +5927,7 @@
       "Name": "Gone Rogue",
       "Percentage": 0.3,
       "XP": 80,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "16",
@@ -5924,7 +5935,7 @@
       "Name": "Completely Customizable",
       "Percentage": 0.3,
       "XP": 80,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "2",
@@ -5932,7 +5943,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 10212
+      "UsersEstimate": 10214
     },
     {
       "ID": "3",
@@ -5940,7 +5951,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 7659
+      "UsersEstimate": 7660
     },
     {
       "ID": "4",
@@ -5948,7 +5959,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6383
+      "UsersEstimate": 6384
     },
     {
       "ID": "5",
@@ -5956,7 +5967,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 5106
+      "UsersEstimate": 5107
     },
     {
       "ID": "6",
@@ -5972,7 +5983,7 @@
       "Name": "More Power to You",
       "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "8",
@@ -5995,16 +6006,16 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 63827,
+      "Progressed": 63836,
       "Completed": 20
     }
   ],
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged": "2023-10-19T01:40:57.8032868+00:00",
-  "LastChanged_Achievements": "2023-10-20T00:09:13.2605949+00:00",
+  "LastChanged": "2023-10-20T01:41:04.1587335+00:00",
+  "LastChanged_Achievements": "2023-10-20T01:51:40.0956451+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:34.3906075+00:00",
-  "LastUpdate_Ratings": "2023-10-19T23:58:32.1506316+00:00",
-  "LastUpdate_Achievements": "2023-10-20T00:09:13.260647+00:00"
+  "LastUpdate_Ratings": "2023-10-20T01:41:04.1587343+00:00",
+  "LastUpdate_Achievements": "2023-10-20T01:51:40.0956937+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "eternights-c2fbca",
   "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 292,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 293,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -1103,9 +1103,9 @@
       "ID": "ACHIEVEMENT_8_StoneRetriever",
       "SetID": "9bke6f1",
       "Name": "Stone Retriever",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 81
+      "UsersEstimate": 83
     },
     {
       "ID": "ACHIEVEMENT_9_Flawless",
@@ -1126,8 +1126,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-10-20T00:08:19.303791+00:00",
+  "LastChanged_Achievements": "2023-10-20T01:51:07.2897053+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:15.7402428+00:00",
-  "LastUpdate_Ratings": "2023-10-19T23:59:44.5356858+00:00",
-  "LastUpdate_Achievements": "2023-10-20T00:08:19.3038188+00:00"
+  "LastUpdate_Ratings": "2023-10-20T01:42:17.8187077+00:00",
+  "LastUpdate_Achievements": "2023-10-20T01:51:07.2897335+00:00"
 }

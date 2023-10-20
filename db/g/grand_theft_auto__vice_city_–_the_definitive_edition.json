@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 434,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -775,9 +775,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 10634,
+  "EOS_Progressed": 10635,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -11550,6 +11550,11 @@
       "Time": "2023-10-19T22:04:43.4444195+00:00",
       "NumProgressed": 10634,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-10-20T01:47:11.3529251+00:00",
+      "NumProgressed": 10635,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 34,
@@ -11577,7 +11582,7 @@
       "Name": "Iron-y",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 1063
+      "UsersEstimate": 1064
     },
     {
       "ID": "ACH04",
@@ -11665,7 +11670,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4466
+      "UsersEstimate": 4467
     },
     {
       "ID": "ACH15",
@@ -11832,7 +11837,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10634,
+      "Progressed": 10635,
       "Completed": 60
     }
   ],
@@ -11840,8 +11845,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-10-17T16:58:14.7372277+00:00",
-  "LastChanged_Achievements": "2023-10-20T00:04:30.218403+00:00",
+  "LastChanged_Achievements": "2023-10-20T01:47:11.3529246+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:56.7423853+00:00",
-  "LastUpdate_Ratings": "2023-10-19T23:58:54.933113+00:00",
-  "LastUpdate_Achievements": "2023-10-20T00:04:30.2185165+00:00"
+  "LastUpdate_Ratings": "2023-10-20T01:41:28.0354122+00:00",
+  "LastUpdate_Achievements": "2023-10-20T01:47:11.3530303+00:00"
 }

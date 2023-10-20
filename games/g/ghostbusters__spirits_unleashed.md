@@ -5,14 +5,15 @@ Rating: 4.50 (Ranked 574)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 3.00% | ~800 |
-| Advancement | 2.00% | ~533 |
-| I collect Spores, Molds, and Fungi | 2.00% | ~533 |
-| Discovery | 2.00% | ~533 |
-| Meticulously Efficient | 2.00% | ~533 |
-| Fully Upgraded | 2.00% | ~533 |
-| Solo Capture | 2.00% | ~533 |
-| Vaporous Expansion | 2.00% | ~533 |
+| Stylish | 3.00% | ~801 |
+| Advancement | 2.00% | ~534 |
+| I collect Spores, Molds, and Fungi | 2.00% | ~534 |
+| Discovery | 2.00% | ~534 |
+| Meticulously Efficient | 2.00% | ~534 |
+| Fully Upgraded | 2.00% | ~534 |
+| Solo Capture | 2.00% | ~534 |
+| Teamwork | 2.00% | ~534 |
+| Vaporous Expansion | 2.00% | ~534 |
 | Animated | 1.00% | ~267 |
 | Back Off | 1.00% | ~267 |
 | Clutch Capture | 1.00% | ~267 |
@@ -24,15 +25,14 @@ Rating: 4.50 (Ranked 574)
 | Right back at ya | 1.00% | ~267 |
 | Summoner | 1.00% | ~267 |
 | Swift Rift Removers | 1.00% | ~267 |
-| Teamwork | 1.00% | ~267 |
 | Terrifying | 1.00% | ~267 |
 | There you are! | 1.00% | ~267 |
 | Welcome to the Crew | 1.00% | ~267 |
 | Whoopsie | 1.00% | ~267 |
 | Side Hustle | 0.90% | ~240 |
-| Legions | 0.80% | ~213 |
-| Skilled | 0.80% | ~213 |
-| Stunner | 0.80% | ~213 |
+| Legions | 0.80% | ~214 |
+| Skilled | 0.80% | ~214 |
+| Stunner | 0.80% | ~214 |
 | We have the best insurance | 0.70% | ~187 |
 | Pesky Jerks | 0.70% | ~187 |
 | Diabolical | 0.60% | ~160 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 574)
 | Mycophile | 0.10% | ~27 |
 | Ultimate Defense | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,673 (Ranked 119)  
+Progressed: 26,689 (Ranked 119)  
 Completed: 59 (0.22%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,7 +240,7 @@ Completed: 59 (0.22%) (Ranked 219)
 | 2023-10-17 | 26,559 | 58 |
 | 2023-10-18 | 26,596 | 59 |
 | 2023-10-19 | 26,668 | 59 |
-| 2023-10-20 | 26,673 | 59 |
+| 2023-10-20 | 26,689 | 59 |
 ## Awards
 Max (Great for Quick Sessions): 266  (Ranked 257)  
 Sum: 2,421 (Ranked 187)  

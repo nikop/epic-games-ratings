@@ -4,8 +4,8 @@
 Rating: 4.45 (Ranked 648)  
 ## Awards
 Max (Relaxing): 70  (Ranked 391)  
-Sum: 547 (Ranked 308)  
-Diff (max vs sum): 83  
+Sum: 550 (Ranked 306)  
+Diff (max vs sum): 85  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 70 |
@@ -16,7 +16,7 @@ Diff (max vs sum): 83
 | This game is Highly Recommended | 55 |
 | This game is Extremely Fun | 50 |
 | This game has Amazing Storytelling | 47 |
-| This game has Amazing Characters | 42 |
+| This game has Amazing Characters | 45 |
 | This game has Beautiful Visuals | 37 |
 | This game has a Creative Community | 31 |
 ## Ratings History
@@ -35,3 +35,4 @@ Diff (max vs sum): 83
 | 2023-10-17 | 4.46 | 61 | 470 |
 | 2023-10-18 | 4.46 | 70 | 539 |
 | 2023-10-19 | 4.46 | 70 | 558 |
+| 2023-10-20 | 4.45 | 70 | 550 |

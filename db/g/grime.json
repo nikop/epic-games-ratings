@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1153,9 +1153,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 153249,
+  "EOS_Progressed": 153268,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1565,
+  "EOS_NewPlayers": 1564,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12263,6 +12263,11 @@
       "Time": "2023-10-20T00:05:36.1524585+00:00",
       "NumProgressed": 153249,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-20T01:48:16.3245999+00:00",
+      "NumProgressed": 153268,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -12282,7 +12287,7 @@
       "Name": "Bloodhunter",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "ACQUIRE_ALLOUTFITS",
@@ -12346,7 +12351,7 @@
       "Name": "Weeper",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 1532
+      "UsersEstimate": 1533
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -12418,7 +12423,7 @@
       "Name": "Jawcrab",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "DEFEAT_JAWSTAG",
@@ -12426,7 +12431,7 @@
       "Name": "Jawstag",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "DEFEAT_PERFORMER",
@@ -12450,7 +12455,7 @@
       "Name": "Feast",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "DEFEAT_WATCHER",
@@ -12536,9 +12541,9 @@
       "ID": "MISC_REACHHIGHLEVEL",
       "SetID": "ccc0dlh",
       "Name": "Sharpened Vessel",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 919
+      "UsersEstimate": 1073
     },
     {
       "ID": "MISC_REACHMAXARDOR",
@@ -12546,7 +12551,7 @@
       "Name": "Ravenous",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1532
+      "UsersEstimate": 1533
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -12554,7 +12559,7 @@
       "Name": "Unwrap the Gift",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "MISC_UNLOCKNERVEPASSES",
@@ -12562,7 +12567,7 @@
       "Name": "Passage",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "QUEST_CHILD",
@@ -12570,7 +12575,7 @@
       "Name": "Dream",
       "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "QUEST_CODA",
@@ -12600,9 +12605,9 @@
       "ID": "QUEST_YON",
       "SetID": "ccc0dlh",
       "Name": "Proportions",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 153
+      "UsersEstimate": 307
     },
     {
       "ID": "DEFEAT_DREAMBORN",
@@ -12641,21 +12646,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 152832,
+      "Progressed": 152851,
       "Completed": 1164
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 153249,
+      "Progressed": 153268,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-19T03:57:30.2133222+00:00",
-  "LastChanged_Achievements": "2023-10-20T00:05:36.1524578+00:00",
+  "LastChanged_Achievements": "2023-10-20T01:48:16.3245994+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:33.8479674+00:00",
-  "LastUpdate_Ratings": "2023-10-19T23:57:51.8930732+00:00",
-  "LastUpdate_Achievements": "2023-10-20T00:05:36.1525755+00:00"
+  "LastUpdate_Ratings": "2023-10-20T01:40:24.5596791+00:00",
+  "LastUpdate_Achievements": "2023-10-20T01:48:16.3247193+00:00"
 }
