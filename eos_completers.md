@@ -1,10 +1,10 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 66.67% |
+| 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.58% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.85% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 46.62% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 46.60% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.17% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -50,7 +50,7 @@
 | 48 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.25% |
 | 49 | [Time Loader](games/t/time_loader.md) | 7.20% |
 | 50 | [Scorn](games/s/scorn.md) | 6.98% |
-| 51 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.51% |
+| 51 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.49% |
 | 52 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.38% |
 | 53 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.27% |
 | 54 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -86,7 +86,7 @@
 | 84 | [Doodle God](games/d/doodle_god.md) | 3.27% |
 | 85 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.24% |
 | 85 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.24% |
-| 87 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.21% |
+| 87 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.18% |
 | 88 | [Monster Harvest](games/m/monster_harvest.md) | 3.15% |
 | 88 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.15% |
 | 90 | [Without Escape](games/w/without_escape.md) | 3.12% |
@@ -132,15 +132,15 @@
 | 129 | [Ten Dates](games/t/ten_dates.md) | 1.37% |
 | 131 | [Chorus](games/c/chorus.md) | 1.36% |
 | 132 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.35% |
-| 133 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.32% |
-| 134 | [Lemon Cake](games/l/lemon_cake.md) | 1.31% |
+| 133 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.31% |
+| 133 | [Lemon Cake](games/l/lemon_cake.md) | 1.31% |
 | 135 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.29% |
 | 135 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.29% |
 | 137 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.16% |
 | 138 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.12% |
 | 139 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.11% |
-| 140 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 1.08% |
-| 141 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.07% |
+| 140 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.07% |
+| 141 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 1.06% |
 | 142 | [Adios](games/a/adios.md) | 1.05% |
 | 142 | [Infindustry](games/i/infindustry.md) | 1.05% |
 | 144 | [Trifox](games/t/trifox.md) | 1.04% |
@@ -214,9 +214,9 @@
 | 212 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.27% |
 | 213 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.26% |
 | 214 | [Filament](games/f/filament.md) | 0.25% |
-| 214 | [The Devil's Face](games/t/the_devil's_face.md) | 0.25% |
-| 216 | [Aegis Descent](games/a/aegis_descent.md) | 0.24% |
-| 216 | [Scrapnaut](games/s/scrapnaut.md) | 0.24% |
+| 215 | [Aegis Descent](games/a/aegis_descent.md) | 0.24% |
+| 215 | [Scrapnaut](games/s/scrapnaut.md) | 0.24% |
+| 215 | [The Devil's Face](games/t/the_devil's_face.md) | 0.24% |
 | 218 | [Despot's Game](games/d/despot's_game.md) | 0.23% |
 | 219 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.22% |
 | 219 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 0.22% |
@@ -485,6 +485,7 @@
 | 316 | [Last Labyrinth](games/6/63e942fbfc8e40a5af2f7749a8cbcc09.md) | 0.00% |
 | 316 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 0.00% |
 | 316 | [Layers of Fear](games/l/layers_of_fear.md) | 0.00% |
+| 316 | [Lempo](games/l/lempo.md) | 0.00% |
 | 316 | [Lichenvale](games/l/lichenvale.md) | 0.00% |
 | 316 | [Life After Death](games/l/life_after_death.md) | 0.00% |
 | 316 | [Life Changer](games/f/f853934fb6874d8783701be12ba6b8b9.md) | 0.00% |
