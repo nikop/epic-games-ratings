@@ -7,7 +7,7 @@ Number of Ratings: 170  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Light at the end of the tunnel | 77.00% | ~17,266 |
-| Mama? | 27.00% | ~6,054 |
+| Mama? | 28.00% | ~6,279 |
 | People's Haven | 18.00% | ~4,036 |
 | Cartographer | 17.00% | ~3,812 |
 | Antlers of Stone | 15.00% | ~3,364 |

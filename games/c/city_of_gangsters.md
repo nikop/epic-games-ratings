@@ -1,65 +1,65 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.28 (Ranked 833)  
+Rating: 4.28 (Ranked 834)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~160,286 |
+| Corner Clout | 46.00% | ~160,288 |
 | Copacetic Coordination | 16.00% | ~55,752 |
-| Fronting the Money | 15.00% | ~52,267 |
+| Fronting the Money | 15.00% | ~52,268 |
 | The Dawn of Automation | 14.00% | ~48,783 |
 | Extraordinary Logistics | 14.00% | ~48,783 |
-| Dirty Money | 13.00% | ~45,298 |
-| Family First | 13.00% | ~45,298 |
+| Dirty Money | 13.00% | ~45,299 |
+| Family First | 13.00% | ~45,299 |
 | Cleaning House | 12.00% | ~41,814 |
 | Room in the Back | 12.00% | ~41,814 |
-| Beating the Heat | 11.00% | ~38,329 |
-| Booze Baron | 11.00% | ~38,329 |
+| Beating the Heat | 11.00% | ~38,330 |
+| Booze Baron | 11.00% | ~38,330 |
 | Friends on the Force | 10.00% | ~34,845 |
 | Neighborhood Watch | 10.00% | ~34,845 |
 | Core Corps | 8.00% | ~27,876 |
 | Sizeable Stash | 8.00% | ~27,876 |
-| Street Fighter | 7.00% | ~24,391 |
-| Friendly Gestures | 7.00% | ~24,391 |
-| People Person | 7.00% | ~24,391 |
+| Street Fighter | 7.00% | ~24,392 |
+| Friendly Gestures | 7.00% | ~24,392 |
+| People Person | 7.00% | ~24,392 |
 | Liquor Lord | 6.00% | ~20,907 |
 | Safety in Numbers | 6.00% | ~20,907 |
 | Moving Experiences | 6.00% | ~20,907 |
 | Wise Head | 6.00% | ~20,907 |
 | Show ‘em the Sugar | 6.00% | ~20,907 |
 | Killing Them Softly | 6.00% | ~20,907 |
-| Street Knowledge | 5.00% | ~17,422 |
-| Oh Captain | 5.00% | ~17,422 |
-| Branching Out | 5.00% | ~17,422 |
-| Improvement Missions | 5.00% | ~17,422 |
-| Opportunity Knocked | 5.00% | ~17,422 |
-| City of Big Shoulders | 5.00% | ~17,422 |
-| Mission Mastery | 5.00% | ~17,422 |
+| Street Knowledge | 5.00% | ~17,423 |
+| Oh Captain | 5.00% | ~17,423 |
+| Branching Out | 5.00% | ~17,423 |
+| Improvement Missions | 5.00% | ~17,423 |
+| Opportunity Knocked | 5.00% | ~17,423 |
+| City of Big Shoulders | 5.00% | ~17,423 |
+| Mission Mastery | 5.00% | ~17,423 |
 | Considerable Clams | 4.00% | ~13,938 |
 | Gin Joint | 4.00% | ~13,938 |
 | An Affront to the Enemy | 4.00% | ~13,938 |
 | Friends from Back Home | 4.00% | ~13,938 |
 | Half Century Mark | 4.00% | ~13,938 |
-| Corner Opportunities | 3.00% | ~10,453 |
-| 2122 North Clark Street | 3.00% | ~10,453 |
-| Copious Cabbage | 3.00% | ~10,453 |
-| Sockdolager | 3.00% | ~10,453 |
-| Still Stalwart | 3.00% | ~10,453 |
-| Bees Knees Bootlegger | 3.00% | ~10,453 |
-| Tighten the Screws | 3.00% | ~10,453 |
+| Corner Opportunities | 3.00% | ~10,454 |
+| 2122 North Clark Street | 3.00% | ~10,454 |
+| Copious Cabbage | 3.00% | ~10,454 |
+| Sockdolager | 3.00% | ~10,454 |
+| Still Stalwart | 3.00% | ~10,454 |
+| Bees Knees Bootlegger | 3.00% | ~10,454 |
+| Tighten the Screws | 3.00% | ~10,454 |
 | One of Us | 2.00% | ~6,969 |
 | Baker’s Dozen | 2.00% | ~6,969 |
 | Dropping the Dime | 2.00% | ~6,969 |
 | Spiffy Speakeasies | 2.00% | ~6,969 |
 | Keeping Your Word | 2.00% | ~6,969 |
-| Boxing Them In | 1.00% | ~3,484 |
-| Backroom Empire | 1.00% | ~3,484 |
-| Corner Control | 1.00% | ~3,484 |
-| Full House | 1.00% | ~3,484 |
-| The Rubber Meets the Road | 1.00% | ~3,484 |
-| Cat’s Meow Clubs | 1.00% | ~3,484 |
-| Stepping It Up | 1.00% | ~3,484 |
+| Boxing Them In | 1.00% | ~3,485 |
+| Backroom Empire | 1.00% | ~3,485 |
+| Corner Control | 1.00% | ~3,485 |
+| Full House | 1.00% | ~3,485 |
+| The Rubber Meets the Road | 1.00% | ~3,485 |
+| Cat’s Meow Clubs | 1.00% | ~3,485 |
+| Stepping It Up | 1.00% | ~3,485 |
 | Determined Deliveries | 0.90% | ~3,136 |
 | Boots in the Ground | 0.80% | ~2,788 |
 | Getting Fancy | 0.80% | ~2,788 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 833)
 | High Pillow | 0.10% | ~348 |
 | Station Master | 0.10% | ~348 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 348,447 (Ranked 43)  
+Progressed: 348,452 (Ranked 43)  
 Completed: 7 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,7 +269,7 @@ Completed: 7 (0.00%) (Ranked 316)
 | 2023-10-17 | 348,171 | 7 |
 | 2023-10-18 | 348,282 | 7 |
 | 2023-10-19 | 348,407 | 7 |
-| 2023-10-20 | 348,447 | 7 |
+| 2023-10-20 | 348,452 | 7 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 447)  
 Sum: 178 (Ranked 399)  

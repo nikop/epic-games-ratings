@@ -1,7 +1,7 @@
 # Redout 2
 [Store](https://store.epicgames.com/en-US/p/redout-2)  
 [View Rawdata](../../db/r/redout_2.json)  
-Rating: 4.48 (Ranked 609)  
+Rating: 4.48 (Ranked 610)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -10,8 +10,8 @@ Rating: 4.48 (Ranked 609)
 | Enter the Speed Gauntlet | 25.00% | ~289 |
 | I just can't choose | 25.00% | ~289 |
 | A Cheese Grater to the Face | 20.00% | ~231 |
+| Put it on a shelf | 19.00% | ~220 |
 | It's like an haircut | 18.00% | ~208 |
-| Put it on a shelf | 18.00% | ~208 |
 | Ride in the rising sun | 16.00% | ~185 |
 | Suit up | 16.00% | ~185 |
 | Walked like an Egyptian | 15.00% | ~173 |

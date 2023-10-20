@@ -92,6 +92,7 @@
 | Rambo VI | 2.00% | ~1 |
 | Space Odysseus | 2.00% | ~1 |
 | Freedom Fighter | 2.00% | ~1 |
+| Burrow Deep | 2.00% | ~1 |
 | Omicron Gamma | 2.00% | ~1 |
 | Unbalanced | 2.00% | ~1 |
 | Golden Tovarish | 2.00% | ~1 |
@@ -117,7 +118,6 @@
 | Charlie Doesn't Surf | 0.00% | ~0 |
 | Plower Flower | 0.00% | ~0 |
 | Namaste | 0.00% | ~0 |
-| Burrow Deep | 0.00% | ~0 |
 | Articulated Exoskeleton | 0.00% | ~0 |
 | Wrath of the Stars | 0.00% | ~0 |
 | Omicron Major | 0.00% | ~0 |

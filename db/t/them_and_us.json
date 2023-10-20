@@ -1307,9 +1307,9 @@
       "ID": "ETUA_ThisCoffin",
       "SetID": "65jc0ap",
       "Name": "This Coffin Has Your Name On It!",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 33
     },
     {
       "ID": "ETUA_ThisMansionIsClean",
@@ -1364,8 +1364,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-10-20T10:08:08.6978121+00:00",
+  "LastChanged_Achievements": "2023-10-20T11:07:04.284974+00:00",
   "LastUpdate_AppInfo": "2023-10-14T13:56:58.0301725+00:00",
-  "LastUpdate_Ratings": "2023-10-20T09:58:21.796157+00:00",
-  "LastUpdate_Achievements": "2023-10-20T10:08:08.697854+00:00"
+  "LastUpdate_Ratings": "2023-10-20T10:58:15.3400325+00:00",
+  "LastUpdate_Achievements": "2023-10-20T11:07:04.2850028+00:00"
 }

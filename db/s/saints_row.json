@@ -2,10 +2,10 @@
   "ID": "0d23bb77ee2f45b7a571bde68caddb09",
   "Name": "Saints Row",
   "ProductSlug": "saints-row",
-  "Ranking_Rating": 1009,
+  "Ranking_Rating": 1010,
   "Ranking_Popularity": 143,
   "Ranking_PopularitySum": 97,
-  "Ranking_EOS_Progress": 90,
+  "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 80,
   "Ranking_EOS_NewCompleters": 103,
@@ -3855,9 +3855,9 @@
       "Count": 1070
     }
   ],
-  "EOS_Progressed": 75545,
+  "EOS_Progressed": 75546,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 759,
+  "EOS_NewPlayers": 758,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -24450,6 +24450,11 @@
       "Time": "2023-10-20T10:05:21.9636591+00:00",
       "NumProgressed": 75545,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-20T11:05:07.3088699+00:00",
+      "NumProgressed": 75546,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -24565,7 +24570,7 @@
       "Name": "Wet Work",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 24174
+      "UsersEstimate": 24175
     },
     {
       "ID": "complete_mission_1",
@@ -24629,7 +24634,7 @@
       "Name": "The Spins",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 7554
+      "UsersEstimate": 7555
     },
     {
       "ID": "empire_tier_2",
@@ -24653,7 +24658,7 @@
       "Name": "Masters of Santo Ileso",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 9065
+      "UsersEstimate": 9066
     },
     {
       "ID": "empire_tier_5",
@@ -24669,7 +24674,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 24174
+      "UsersEstimate": 24175
     },
     {
       "ID": "fully_complete_a_building",
@@ -24677,7 +24682,7 @@
       "Name": "Work Ethic",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 17375
+      "UsersEstimate": 17376
     },
     {
       "ID": "fully_upgrade_1_vehicle",
@@ -24685,7 +24690,7 @@
       "Name": "The Mechanic",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 7554
+      "UsersEstimate": 7555
     },
     {
       "ID": "fully_upgrade_a_weapon",
@@ -24709,7 +24714,7 @@
       "Name": "Performance Review",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 27196
+      "UsersEstimate": 27197
     },
     {
       "ID": "hit_max_level",
@@ -24884,13 +24889,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 75545,
+      "Progressed": 75546,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 47182,
+      "Progressed": 47183,
       "Completed": 4140
     }
   ],
@@ -24898,8 +24903,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-10-18T15:59:18.1995048+00:00",
-  "LastChanged_Achievements": "2023-10-20T10:05:21.9636583+00:00",
+  "LastChanged_Achievements": "2023-10-20T11:05:07.3088695+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:20.7071116+00:00",
-  "LastUpdate_Ratings": "2023-10-20T09:59:59.9566147+00:00",
-  "LastUpdate_Achievements": "2023-10-20T10:05:21.9638309+00:00"
+  "LastUpdate_Ratings": "2023-10-20T10:59:50.4137515+00:00",
+  "LastUpdate_Achievements": "2023-10-20T11:05:07.3089986+00:00"
 }

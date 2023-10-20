@@ -7,8 +7,8 @@ Rating: 4.43 (Ranked 676)
 | ---- | ---------- | ----- |
 | Country Bumpkin | 75.00% | ~1,534 |
 | A new Journey | 74.00% | ~1,513 |
+| From X to Y | 73.00% | ~1,493 |
 | Departure | 73.00% | ~1,493 |
-| From X to Y | 72.00% | ~1,472 |
 | Way of Iron | 70.00% | ~1,432 |
 | Mystery Tour | 69.00% | ~1,411 |
 | We brake for nobody | 67.00% | ~1,370 |

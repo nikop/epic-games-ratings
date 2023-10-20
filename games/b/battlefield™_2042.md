@@ -4,42 +4,42 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adapt and Overcome | 100.00% | ~46,752 |
-| Foot Soldier | 95.00% | ~44,414 |
-| Making Dunn Proud | 93.00% | ~43,479 |
-| Good Company | 90.00% | ~42,077 |
-| Showoff | 88.00% | ~41,142 |
-| Luck of the Irish | 83.00% | ~38,804 |
-| Squad Wiper | 82.00% | ~38,337 |
-| Burnout | 80.00% | ~37,402 |
-| War machine | 75.00% | ~35,064 |
-| Deadshot | 69.00% | ~32,259 |
-| Thank you, Santa | 68.00% | ~31,791 |
-| The Winner Takes It All | 65.00% | ~30,389 |
-| No-one gets left behind | 63.00% | ~29,454 |
-| Going Places | 61.00% | ~28,519 |
-| Dead in their tracks! | 61.00% | ~28,519 |
-| Wrecking Crew | 57.00% | ~26,649 |
-| I'm Five by Five, B | 43.00% | ~20,103 |
-| Command and Conquest | 39.00% | ~18,233 |
-| A bird?  A plane? | 21.00% | ~9,818 |
-| One Careful Owner | 20.00% | ~9,350 |
-| Gun Master | 18.00% | ~8,415 |
-| Happy birthday | 18.00% | ~8,415 |
-| Jack of all Trades | 17.00% | ~7,948 |
-| Doze this | 17.00% | ~7,948 |
-| CQC Specialist | 17.00% | ~7,948 |
-| Universal Soldier | 17.00% | ~7,948 |
-| Aerial Destroyer | 7.00% | ~3,273 |
-| Wheeled Warrior | 3.00% | ~1,403 |
-| Doctor Falck in the house | 3.00% | ~1,403 |
-| Tool Time | 2.00% | ~935 |
-| Clean Exit | 2.00% | ~935 |
+| Adapt and Overcome | 100.00% | ~46,806 |
+| Foot Soldier | 95.00% | ~44,466 |
+| Making Dunn Proud | 93.00% | ~43,530 |
+| Good Company | 90.00% | ~42,125 |
+| Showoff | 88.00% | ~41,189 |
+| Luck of the Irish | 83.00% | ~38,849 |
+| Squad Wiper | 82.00% | ~38,381 |
+| Burnout | 80.00% | ~37,445 |
+| War machine | 75.00% | ~35,104 |
+| Deadshot | 69.00% | ~32,296 |
+| Thank you, Santa | 68.00% | ~31,828 |
+| The Winner Takes It All | 65.00% | ~30,424 |
+| No-one gets left behind | 63.00% | ~29,488 |
+| Going Places | 61.00% | ~28,552 |
+| Dead in their tracks! | 61.00% | ~28,552 |
+| Wrecking Crew | 57.00% | ~26,679 |
+| I'm Five by Five, B | 43.00% | ~20,127 |
+| Command and Conquest | 39.00% | ~18,254 |
+| A bird?  A plane? | 21.00% | ~9,829 |
+| One Careful Owner | 20.00% | ~9,361 |
+| Gun Master | 18.00% | ~8,425 |
+| Happy birthday | 18.00% | ~8,425 |
+| Jack of all Trades | 17.00% | ~7,957 |
+| Doze this | 17.00% | ~7,957 |
+| CQC Specialist | 17.00% | ~7,957 |
+| Universal Soldier | 17.00% | ~7,957 |
+| Aerial Destroyer | 7.00% | ~3,276 |
+| Wheeled Warrior | 3.00% | ~1,404 |
+| Doctor Falck in the house | 3.00% | ~1,404 |
+| Tool Time | 2.00% | ~936 |
+| Clean Exit | 2.00% | ~936 |
 | B gun's dry | 0.50% | ~234 |
 | Pack Rat | 0.40% | ~187 |
 | Escape Artist | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,752 (Ranked 104)  
+Progressed: 46,806 (Ranked 104)  
 Completed: 0 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 0 (0.00%) (Ranked 316)
 | 2023-10-17 | 43,772 | 0 |
 | 2023-10-18 | 45,096 | 0 |
 | 2023-10-19 | 46,298 | 0 |
-| 2023-10-20 | 46,752 | 0 |
+| 2023-10-20 | 46,806 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

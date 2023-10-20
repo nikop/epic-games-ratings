@@ -15,7 +15,7 @@ Rating: 4.73 (Ranked 166)
 | Somewhere Deep in the Lost Caribbean | 30.00% | ~222 |
 | Mirror Mirror on the Wall | 30.00% | ~222 |
 | Pirates Assemble! | 27.00% | ~200 |
-| Buccaneer | 24.00% | ~178 |
+| Buccaneer | 25.00% | ~185 |
 | Fishy Fish | 22.00% | ~163 |
 | All Good Things | 21.00% | ~156 |
 | Seadog | 18.00% | ~133 |

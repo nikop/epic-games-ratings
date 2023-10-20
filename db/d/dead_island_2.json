@@ -5553,9 +5553,9 @@
       "Count": 389
     }
   ],
-  "EOS_Progressed": 698886,
+  "EOS_Progressed": 698909,
   "EOS_Completed": 2237,
-  "EOS_NewPlayers": 4034,
+  "EOS_NewPlayers": 4040,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -26318,6 +26318,11 @@
       "Time": "2023-10-20T10:06:48.1118191+00:00",
       "NumProgressed": 698886,
       "NumCompleted": 2237
+    },
+    {
+      "Time": "2023-10-20T11:06:34.175024+00:00",
+      "NumProgressed": 698909,
+      "NumCompleted": 2237
     }
   ],
   "TotalAchievements": 45,
@@ -26393,7 +26398,7 @@
       "Name": "Break A Leg",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 27955
+      "UsersEstimate": 27956
     },
     {
       "ID": "ach_contender",
@@ -26489,7 +26494,7 @@
       "Name": "Hotel California",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 27955
+      "UsersEstimate": 27956
     },
     {
       "ID": "ach_impressive_aim",
@@ -26553,7 +26558,7 @@
       "Name": "Gore Horse",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3494
+      "UsersEstimate": 3495
     },
     {
       "ID": "ach_metropolitan",
@@ -26593,7 +26598,7 @@
       "Name": "Sharpest Tool in the Box",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3494
+      "UsersEstimate": 3495
     },
     {
       "ID": "ach_skilled_up",
@@ -26665,7 +26670,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 27955
+      "UsersEstimate": 27956
     },
     {
       "ID": "ach_well_known_survivor",
@@ -26688,22 +26693,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 698886,
+      "Progressed": 698909,
       "Completed": 2237
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 24428,
-      "Completed": 24428
+      "Progressed": 24451,
+      "Completed": 24451
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-10-20T05:03:08.1601116+00:00",
-  "LastChanged_Achievements": "2023-10-20T10:06:48.1118185+00:00",
+  "LastChanged_Achievements": "2023-10-20T11:06:34.1750236+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:12.5060368+00:00",
-  "LastUpdate_Ratings": "2023-10-20T10:03:34.1348821+00:00",
-  "LastUpdate_Achievements": "2023-10-20T10:06:48.1119798+00:00"
+  "LastUpdate_Ratings": "2023-10-20T11:03:14.7409542+00:00",
+  "LastUpdate_Achievements": "2023-10-20T11:06:34.1751492+00:00"
 }

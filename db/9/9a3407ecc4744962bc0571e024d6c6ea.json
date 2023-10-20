@@ -2221,9 +2221,9 @@
       "ID": "WelcomeToFortSolis",
       "SetID": "3ai6ml8",
       "Name": "Welcome to Fort Solis",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 757
+      "UsersEstimate": 766
     }
   ],
   "AchievementSets": [
@@ -2236,8 +2236,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-10-20T10:06:03.7949712+00:00",
+  "LastChanged_Achievements": "2023-10-20T11:05:49.5322385+00:00",
   "LastUpdate_AppInfo": "2023-10-18T15:57:15.9146264+00:00",
-  "LastUpdate_Ratings": "2023-10-20T10:00:53.6056678+00:00",
-  "LastUpdate_Achievements": "2023-10-20T10:06:03.7949993+00:00"
+  "LastUpdate_Ratings": "2023-10-20T11:00:48.1812965+00:00",
+  "LastUpdate_Achievements": "2023-10-20T11:05:49.5322604+00:00"
 }

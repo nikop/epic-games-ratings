@@ -2,13 +2,13 @@
   "ID": "d613614e082c4f648835a32f15c1d29b",
   "Name": "SYNCED",
   "ProductSlug": "synced",
-  "Ranking_Rating": 912,
+  "Ranking_Rating": 913,
   "Ranking_Popularity": 384,
   "Ranking_PopularitySum": 362,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 68,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
     "PcReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -753,9 +753,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 63865,
+  "EOS_Progressed": 63869,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 1044,
+  "EOS_NewPlayers": 1042,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5918,6 +5918,11 @@
       "Time": "2023-10-20T10:09:47.2629108+00:00",
       "NumProgressed": 63865,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-10-20T11:09:21.9938007+00:00",
+      "NumProgressed": 63869,
+      "NumCompleted": 20
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -5930,7 +5935,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 19798
+      "UsersEstimate": 19799
     },
     {
       "ID": "10",
@@ -5994,7 +5999,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 10218
+      "UsersEstimate": 10219
     },
     {
       "ID": "3",
@@ -6010,7 +6015,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6386
+      "UsersEstimate": 6387
     },
     {
       "ID": "5",
@@ -6018,7 +6023,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 5109
+      "UsersEstimate": 5110
     },
     {
       "ID": "6",
@@ -6057,7 +6062,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 63865,
+      "Progressed": 63869,
       "Completed": 20
     }
   ],
@@ -6065,8 +6070,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-10-20T07:59:11.0184925+00:00",
-  "LastChanged_Achievements": "2023-10-20T10:09:47.2629098+00:00",
+  "LastChanged_Achievements": "2023-10-20T11:09:21.9938003+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:34.3906075+00:00",
-  "LastUpdate_Ratings": "2023-10-20T09:59:01.935286+00:00",
-  "LastUpdate_Achievements": "2023-10-20T10:09:47.2629576+00:00"
+  "LastUpdate_Ratings": "2023-10-20T10:58:54.7080942+00:00",
+  "LastUpdate_Achievements": "2023-10-20T11:09:21.9938336+00:00"
 }

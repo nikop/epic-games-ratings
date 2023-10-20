@@ -329,9 +329,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 111747,
+  "EOS_Progressed": 111750,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 724,
+  "EOS_NewPlayers": 725,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -15029,6 +15029,11 @@
       "Time": "2023-10-20T10:06:44.5180552+00:00",
       "NumProgressed": 111747,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-10-20T11:06:30.5242856+00:00",
+      "NumProgressed": 111750,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 49,
@@ -15048,7 +15053,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 86045
+      "UsersEstimate": 86048
     },
     {
       "ID": "EAwards_10",
@@ -15064,7 +15069,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 29054
+      "UsersEstimate": 29055
     },
     {
       "ID": "EAwards_12",
@@ -15088,7 +15093,7 @@
       "Name": "6-Piece Combo",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1117
+      "UsersEstimate": 1118
     },
     {
       "ID": "EAwards_15",
@@ -15104,7 +15109,7 @@
       "Name": "PERFECT",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 7822
+      "UsersEstimate": 7823
     },
     {
       "ID": "EAwards_17",
@@ -15112,7 +15117,7 @@
       "Name": "Talented Player",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 40229
+      "UsersEstimate": 40230
     },
     {
       "ID": "EAwards_18",
@@ -15120,7 +15125,7 @@
       "Name": "You Survived",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 10057
+      "UsersEstimate": 10058
     },
     {
       "ID": "EAwards_19",
@@ -15136,7 +15141,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 53639
+      "UsersEstimate": 53640
     },
     {
       "ID": "EAwards_20",
@@ -15152,7 +15157,7 @@
       "Name": "Special Delivery!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 7822
+      "UsersEstimate": 7823
     },
     {
       "ID": "EAwards_22",
@@ -15176,7 +15181,7 @@
       "Name": "Temple Raider",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 7822
+      "UsersEstimate": 7823
     },
     {
       "ID": "EAwards_25",
@@ -15248,7 +15253,7 @@
       "Name": "El T\u00E9cnico T\u00E1ctico",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 7822
+      "UsersEstimate": 7823
     },
     {
       "ID": "EAwards_33",
@@ -15368,7 +15373,7 @@
       "Name": "Bronze Champion",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "EAwards_47",
@@ -15376,7 +15381,7 @@
       "Name": "Silver Champion",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "EAwards_48",
@@ -15384,7 +15389,7 @@
       "Name": "Let Sleeping Gods Lie",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "EAwards_5",
@@ -15392,7 +15397,7 @@
       "Name": "Prickly Pair",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 10057
+      "UsersEstimate": 10058
     },
     {
       "ID": "EAwards_6",
@@ -15431,7 +15436,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 111747,
+      "Progressed": 111750,
       "Completed": 47
     }
   ],
@@ -15439,8 +15444,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-25T16:00:07.3978241+00:00",
-  "LastChanged_Achievements": "2023-10-20T10:06:44.5180545+00:00",
+  "LastChanged_Achievements": "2023-10-20T11:06:30.5242853+00:00",
   "LastUpdate_AppInfo": "2023-10-20T02:13:27.0030355+00:00",
   "LastUpdate_Ratings": "2023-10-20T10:03:19.8663119+00:00",
-  "LastUpdate_Achievements": "2023-10-20T10:06:44.5181954+00:00"
+  "LastUpdate_Achievements": "2023-10-20T11:06:30.5243878+00:00"
 }

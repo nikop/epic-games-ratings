@@ -4,7 +4,7 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -1089,9 +1089,9 @@
       "ID": "NoctuanChampion",
       "SetID": "1jeo1g7",
       "Name": "Noctuan Champion",
-      "Percentage": 32,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "NoctuanHero",
@@ -1120,8 +1120,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-10-20T10:08:05.9306559+00:00",
+  "LastChanged_Achievements": "2023-10-20T11:07:01.4332934+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:31.1237479+00:00",
-  "LastUpdate_Ratings": "2023-10-20T09:57:59.6450988+00:00",
-  "LastUpdate_Achievements": "2023-10-20T10:08:05.930778+00:00"
+  "LastUpdate_Ratings": "2023-10-20T10:57:51.4128934+00:00",
+  "LastUpdate_Achievements": "2023-10-20T11:07:01.4333834+00:00"
 }

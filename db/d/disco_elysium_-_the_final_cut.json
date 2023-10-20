@@ -1302,10 +1302,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 1107,
       "NumberOfAwardsMax": 734
+    },
+    {
+      "Time": "2023-10-20T10:57:25.2184127+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1108,
+      "NumberOfAwardsMax": 734
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1107,
+  "NumberOfAwards": 1108,
   "NumberOfAwardsMax": 734,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1373,7 +1379,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 31
+      "Count": 32
     },
     {
       "Text": "This game has Easy Combat",
@@ -1388,7 +1394,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 129888,
+  "EOS_Progressed": 129889,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 254,
   "EOS_NewCompleters": 0,
@@ -19588,6 +19594,11 @@
       "Time": "2023-10-20T10:04:34.0814067+00:00",
       "NumProgressed": 129888,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-10-20T11:04:18.2678869+00:00",
+      "NumProgressed": 129889,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -19711,7 +19722,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 27276
+      "UsersEstimate": 27277
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -19727,7 +19738,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 16885
+      "UsersEstimate": 16886
     },
     {
       "ID": "ACH_COP_STAR",
@@ -19918,15 +19929,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 129888,
+      "Progressed": 129889,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
-  "LastChanged": "2023-10-19T18:57:03.7336531+00:00",
-  "LastChanged_Achievements": "2023-10-20T10:04:34.081406+00:00",
+  "LastChanged": "2023-10-20T10:57:25.2184126+00:00",
+  "LastChanged_Achievements": "2023-10-20T11:04:18.2678861+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:18.5281336+00:00",
-  "LastUpdate_Ratings": "2023-10-20T09:57:38.1401579+00:00",
-  "LastUpdate_Achievements": "2023-10-20T10:04:34.0815562+00:00"
+  "LastUpdate_Ratings": "2023-10-20T10:57:25.218413+00:00",
+  "LastUpdate_Achievements": "2023-10-20T11:04:18.2679938+00:00"
 }

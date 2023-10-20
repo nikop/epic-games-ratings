@@ -2,7 +2,7 @@
   "ID": "c11f80fe3b674a2bbf60e4c46d588a54",
   "Name": "Pinball FX",
   "ProductSlug": "pinball-fx",
-  "Ranking_Rating": 955,
+  "Ranking_Rating": 956,
   "Ranking_Popularity": 280,
   "Ranking_PopularitySum": 225,
   "Ranking_EOS_Progress": 50,
@@ -1885,9 +1885,9 @@
       "Count": 108
     }
   ],
-  "EOS_Progressed": 272597,
+  "EOS_Progressed": 272604,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1779,
+  "EOS_NewPlayers": 1771,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22685,6 +22685,11 @@
       "Time": "2023-10-20T10:05:58.4947824+00:00",
       "NumProgressed": 272597,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-20T11:05:44.0984482+00:00",
+      "NumProgressed": 272604,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -22920,7 +22925,7 @@
       "Name": "Ball Launched",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 223530
+      "UsersEstimate": 223535
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -22928,22 +22933,22 @@
       "Name": "I know the Rules",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 95409
+      "UsersEstimate": 95411
     }
   ],
   "AchievementSets": [
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 272597,
+      "Progressed": 272604,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "LastChanged": "2023-10-19T21:01:38.4294071+00:00",
-  "LastChanged_Achievements": "2023-10-20T10:05:58.4947817+00:00",
+  "LastChanged_Achievements": "2023-10-20T11:05:44.0984478+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:09.5878596+00:00",
-  "LastUpdate_Ratings": "2023-10-20T10:03:09.5769514+00:00",
-  "LastUpdate_Achievements": "2023-10-20T10:05:58.4949363+00:00"
+  "LastUpdate_Ratings": "2023-10-20T11:01:02.1868471+00:00",
+  "LastUpdate_Achievements": "2023-10-20T11:05:44.0985661+00:00"
 }

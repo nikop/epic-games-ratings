@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 514)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break A Leg | 4.00% | ~27,955 |
-| Hotel California | 4.00% | ~27,955 |
-| Welcome To Hell-A | 4.00% | ~27,955 |
+| Break A Leg | 4.00% | ~27,956 |
+| Hotel California | 4.00% | ~27,956 |
+| Welcome To Hell-A | 4.00% | ~27,956 |
 | Dr. Reed, I Presume? | 3.00% | ~20,967 |
 | Git Gutte! | 3.00% | ~20,967 |
 | Bookworm | 3.00% | ~20,967 |
@@ -44,14 +44,14 @@ Rating: 4.54 (Ranked 514)
 | On Safari | 0.70% | ~4,892 |
 | Variety is the Spice of Death | 0.70% | ~4,892 |
 | LA Influential | 0.60% | ~4,193 |
-| Gore Horse | 0.50% | ~3,494 |
-| Sharpest Tool in the Box | 0.50% | ~3,494 |
+| Gore Horse | 0.50% | ~3,495 |
+| Sharpest Tool in the Box | 0.50% | ~3,495 |
 | Sole Survivor | 0.40% | ~2,796 |
 | Survival Skills | 0.40% | ~2,796 |
 | Donk! | 0.20% | ~1,398 |
 | Bucket List | 0.10% | ~699 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 698,886 (Ranked 22)  
+Progressed: 698,909 (Ranked 22)  
 Completed: 2,237 (0.32%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,7 +234,7 @@ Completed: 2,237 (0.32%) (Ranked 201)
 | 2023-10-17 | 697,259 | 2,238 |
 | 2023-10-18 | 697,769 | 2,242 |
 | 2023-10-19 | 698,583 | 2,242 |
-| 2023-10-20 | 698,886 | 2,237 |
+| 2023-10-20 | 698,909 | 2,237 |
 ## Awards
 Max (Great Boss Battles): 6,509  (Ranked 56)  
 Sum: 9,754 (Ranked 91)  

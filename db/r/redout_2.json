@@ -2,12 +2,12 @@
   "ID": "05ae696a3c5f49af91a7433547460c21",
   "Name": "Redout 2",
   "ProductSlug": "redout-2",
-  "Ranking_Rating": 609,
+  "Ranking_Rating": 610,
   "Ranking_Popularity": 538,
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -1388,9 +1388,9 @@
       "ID": "ONETROPHY",
       "SetID": "3dh70f3",
       "Name": "Put it on a shelf",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 208
+      "UsersEstimate": 220
     },
     {
       "ID": "OVERTAKE100HUMANS",
@@ -1477,8 +1477,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-07-10T22:58:27.6839393+00:00",
-  "LastChanged_Achievements": "2023-10-20T10:06:27.8020682+00:00",
+  "LastChanged_Achievements": "2023-10-20T11:06:13.5793778+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:34.5174184+00:00",
-  "LastUpdate_Ratings": "2023-10-20T10:00:15.8103962+00:00",
-  "LastUpdate_Achievements": "2023-10-20T10:06:27.8021165+00:00"
+  "LastUpdate_Ratings": "2023-10-20T11:00:06.654987+00:00",
+  "LastUpdate_Achievements": "2023-10-20T11:06:13.5794221+00:00"
 }

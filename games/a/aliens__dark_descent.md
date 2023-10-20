@@ -1,7 +1,7 @@
 # Aliens: Dark Descent
 [Store](https://store.epicgames.com/en-US/p/aliens-dark-descent)  
 [View Rawdata](../../db/a/aliens__dark_descent.json)  
-Rating: 4.48 (Ranked 609)  
+Rating: 4.48 (Ranked 610)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -33,9 +33,9 @@ Rating: 4.48 (Ranked 609)
 | El Riesgo Siempre Vive | 25.00% | ~872 |
 | Stuff Of Nightmares | 23.00% | ~802 |
 | Excavating The Truth | 22.00% | ~767 |
+| Abysmal Horrors | 22.00% | ~767 |
 | One For Every Occasion | 21.00% | ~732 |
 | Frontliner | 21.00% | ~732 |
-| Abysmal Horrors | 21.00% | ~732 |
 | The Cable Guy | 20.00% | ~697 |
 | Bandage Lover | 19.00% | ~662 |
 | Regicide | 16.00% | ~558 |

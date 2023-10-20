@@ -4,7 +4,7 @@
   "ProductSlug": "eternights-c2fbca",
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 295,
+  "Ranking_EOS_NewPlayers": 294,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -964,9 +964,9 @@
       "ID": "ACHIEVEMENT_15_PromiseMin",
       "SetID": "9bke6f1",
       "Name": "Min\u0027s Promise",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 62
     },
     {
       "ID": "ACHIEVEMENT_16_PromiseYohan",
@@ -980,9 +980,9 @@
       "ID": "ACHIEVEMENT_17_PromiseSia",
       "SetID": "9bke6f1",
       "Name": "Sia\u0027s Promise",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 57
     },
     {
       "ID": "ACHIEVEMENT_18_FindMyself",
@@ -1131,8 +1131,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-10-20T10:09:15.8669657+00:00",
+  "LastChanged_Achievements": "2023-10-20T11:08:11.3808949+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:15.7402428+00:00",
-  "LastUpdate_Ratings": "2023-10-20T10:00:18.2847693+00:00",
-  "LastUpdate_Achievements": "2023-10-20T10:09:15.8669914+00:00"
+  "LastUpdate_Ratings": "2023-10-20T11:00:09.8556075+00:00",
+  "LastUpdate_Achievements": "2023-10-20T11:08:11.3809148+00:00"
 }

@@ -29,7 +29,7 @@ Rating: 4.50 (Ranked 575)
 | There you are! | 1.00% | ~267 |
 | Welcome to the Crew | 1.00% | ~267 |
 | Whoopsie | 1.00% | ~267 |
-| Side Hustle | 0.90% | ~240 |
+| Side Hustle | 0.90% | ~241 |
 | Legions | 0.80% | ~214 |
 | Skilled | 0.80% | ~214 |
 | Stunner | 0.80% | ~214 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 575)
 | Mycophile | 0.10% | ~27 |
 | Ultimate Defense | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,717 (Ranked 119)  
+Progressed: 26,723 (Ranked 119)  
 Completed: 60 (0.22%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,7 +240,7 @@ Completed: 60 (0.22%) (Ranked 219)
 | 2023-10-17 | 26,559 | 58 |
 | 2023-10-18 | 26,596 | 59 |
 | 2023-10-19 | 26,668 | 59 |
-| 2023-10-20 | 26,717 | 60 |
+| 2023-10-20 | 26,723 | 60 |
 ## Awards
 Max (Great for Quick Sessions): 266  (Ranked 257)  
 Sum: 2,423 (Ranked 187)  

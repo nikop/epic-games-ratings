@@ -12,7 +12,7 @@
 | Pulp! Where Monsters Dwell | 50.00% | ~15 |
 | A continent with chemistry | 50.00% | ~15 |
 | The happy farmer girl | 50.00% | ~15 |
-| A rival with no options | 43.00% | ~13 |
+| A rival with no options | 47.00% | ~14 |
 | Pulp! Terror Tales in the Night | 43.00% | ~13 |
 | Pulp! Out of this World | 43.00% | ~13 |
 | Pulp! Adventures into the Unknown | 43.00% | ~13 |
@@ -29,16 +29,16 @@
 | Et in arcadia ego | 30.00% | ~9 |
 | Blessed antennas | 27.00% | ~8 |
 | The bully | 23.00% | ~7 |
+| The beast in the Oval Office | 20.00% | ~6 |
 | Pulp! The Beyond | 20.00% | ~6 |
 | The barbarian invasions | 20.00% | ~6 |
-| The beast in the Oval Office | 17.00% | ~5 |
+| America had no Faith | 20.00% | ~6 |
 | Blood Red Island | 17.00% | ~5 |
 | Bread and bocaua | 17.00% | ~5 |
 | Fanatacism is... poisonous | 17.00% | ~5 |
+| The scholar | 17.00% | ~5 |
 | The adventurer | 17.00% | ~5 |
 | Pulp! True Adventures | 17.00% | ~5 |
-| America had no Faith | 17.00% | ~5 |
-| The scholar | 13.00% | ~4 |
 | Pulp! Tales from the Crypt | 10.00% | ~3 |
 | ECO mode | 10.00% | ~3 |
 | Vaccine fans | 7.00% | ~2 |
@@ -52,7 +52,7 @@
 | Pulp! Mister Mystery | 0.00% | ~0 |
 | Pulp! The Vault of Horror | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30 (Ranked 476)  
+Progressed: 30 (Ranked 477)  
 Completed: 0 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |

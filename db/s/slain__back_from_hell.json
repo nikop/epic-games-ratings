@@ -2,7 +2,7 @@
   "ID": "5a85738bd9e74940ad8409ed8a2c680a",
   "Name": "Slain: Back From Hell",
   "ProductSlug": "slain-aea303",
-  "Ranking_Rating": 824,
+  "Ranking_Rating": 825,
   "Ranking_Popularity": 320,
   "Ranking_PopularitySum": 418,
   "Ranking_EOS_Progress": 114,
@@ -238,9 +238,9 @@
       "Count": 127
     }
   ],
-  "EOS_Progressed": 38790,
+  "EOS_Progressed": 38791,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 452,
+  "EOS_NewPlayers": 451,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -20308,6 +20308,11 @@
       "Time": "2023-10-20T10:05:22.4476034+00:00",
       "NumProgressed": 38790,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-10-20T11:05:07.8062162+00:00",
+      "NumProgressed": 38791,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -20319,7 +20324,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 5818
+      "UsersEstimate": 5819
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -20550,7 +20555,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 38790,
+      "Progressed": 38791,
       "Completed": 26
     }
   ],
@@ -20558,8 +20563,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-10-07T11:01:04.3409147+00:00",
-  "LastChanged_Achievements": "2023-10-20T10:05:22.4476028+00:00",
+  "LastChanged_Achievements": "2023-10-20T11:05:07.8062158+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:52.991476+00:00",
-  "LastUpdate_Ratings": "2023-10-20T10:00:43.1365608+00:00",
-  "LastUpdate_Achievements": "2023-10-20T10:05:22.4477485+00:00"
+  "LastUpdate_Ratings": "2023-10-20T11:00:38.0525176+00:00",
+  "LastUpdate_Achievements": "2023-10-20T11:05:07.8063262+00:00"
 }

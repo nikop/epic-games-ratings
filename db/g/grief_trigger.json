@@ -4,7 +4,7 @@
   "ProductSlug": "grief-trigger-012a5c",
   "Ranking_EOS_Progress": 684,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 397,
+  "Ranking_EOS_NewPlayers": 396,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-04-21T04:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-14T15:57:20.8802485+00:00",
-  "LastUpdate_Ratings": "2023-10-20T10:00:01.1205115+00:00",
-  "LastUpdate_Achievements": "2023-10-20T10:06:20.4250195+00:00"
+  "LastUpdate_Ratings": "2023-10-20T10:59:52.4772288+00:00",
+  "LastUpdate_Achievements": "2023-10-20T11:06:06.1571227+00:00"
 }

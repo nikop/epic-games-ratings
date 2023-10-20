@@ -4,7 +4,7 @@
   "ProductSlug": "lempo-a6a67d",
   "Ranking_EOS_Progress": 684,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 397,
+  "Ranking_EOS_NewPlayers": 396,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-09-07T15:00:00+00:00",
@@ -30,9 +30,283 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-10-20T11:06:50.9287705+00:00",
+  "TotalAchievements": 34,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "AFRAID_OF_DARK",
+      "SetID": "2elb2co",
+      "Name": "Afraid of the dark",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ALONE_IN_THE_DARK",
+      "SetID": "2elb2co",
+      "Name": "Alone in the dark",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BLAZE_IT",
+      "SetID": "2elb2co",
+      "Name": "Blaze it",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BOTH_EARS",
+      "SetID": "2elb2co",
+      "Name": "Great earring, bro!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BRING_LIGHT",
+      "SetID": "2elb2co",
+      "Name": "Bring back the light",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CALM_SISTERS",
+      "SetID": "2elb2co",
+      "Name": "Calm down sisters",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CHAMPION_OF_LOST",
+      "SetID": "2elb2co",
+      "Name": "Champion of the lost",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CLUELESS",
+      "SetID": "2elb2co",
+      "Name": "Clueless",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CURSES",
+      "SetID": "2elb2co",
+      "Name": "Curses? No thanks!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DOGS_OUT",
+      "SetID": "2elb2co",
+      "Name": "Who let the dog out",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DYING_IS_A_PROMISE",
+      "SetID": "2elb2co",
+      "Name": "Dying is a promise",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ENDLESS_LOOP",
+      "SetID": "2elb2co",
+      "Name": "Endless Loop",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ESCAPE_HUNT",
+      "SetID": "2elb2co",
+      "Name": "Immortal runner",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FRIEND_OF_CARTOONS",
+      "SetID": "2elb2co",
+      "Name": "A friend of cartoons",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GOLDEN_DOOR",
+      "SetID": "2elb2co",
+      "Name": "Golden door with duct tape",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GOLDILOCKS",
+      "SetID": "2elb2co",
+      "Name": "Goldilocks",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GOOD_GUY",
+      "SetID": "2elb2co",
+      "Name": "Good guy",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HELLO",
+      "SetID": "2elb2co",
+      "Name": "Somebody\u2019s here?",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HEY_LIGHTS",
+      "SetID": "2elb2co",
+      "Name": "Hey! Lights!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HISTORIAN",
+      "SetID": "2elb2co",
+      "Name": "Historian",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "IS_THIS_HOME",
+      "SetID": "2elb2co",
+      "Name": "Is this home?",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEMPO_NO_POWER",
+      "SetID": "2elb2co",
+      "Name": "Lempo has no power over me",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NOT_ROCK",
+      "SetID": "2elb2co",
+      "Name": "Not just a rock",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NOT_TODAY",
+      "SetID": "2elb2co",
+      "Name": "Not today",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ROCKSTAR",
+      "SetID": "2elb2co",
+      "Name": "Rock Star",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SLEEPLESS",
+      "SetID": "2elb2co",
+      "Name": "Sleepless",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SLEEPY",
+      "SetID": "2elb2co",
+      "Name": "Sleepy",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOULS_CAN_REST",
+      "SetID": "2elb2co",
+      "Name": "Their souls can rest now",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOUL_COLLECTOR",
+      "SetID": "2elb2co",
+      "Name": "Soul collector",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SURVIVALIST",
+      "SetID": "2elb2co",
+      "Name": "Survivalist",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TRUTH_IS_THERE",
+      "SetID": "2elb2co",
+      "Name": "The truth is out there",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "VOID_DIGGER",
+      "SetID": "2elb2co",
+      "Name": "Void digger",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WONDERFUL_GARDEN",
+      "SetID": "2elb2co",
+      "Name": "Wonderful garden grandpa!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WORKING_OVERTIME",
+      "SetID": "2elb2co",
+      "Name": "Working overtime",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "2elb2co",
@@ -43,8 +317,8 @@
   ],
   "FirstSeen": "2023-09-10T04:57:31.3604018+00:00",
   "FirstSeenAchievements": "2023-08-09T09:06:40.0586903+00:00",
-  "LastChanged_Achievements": "2023-10-20T10:07:05.1571547+00:00",
+  "LastChanged_Achievements": "2023-10-20T11:06:50.928769+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:43.9206345+00:00",
-  "LastUpdate_Ratings": "2023-10-20T10:00:30.4525241+00:00",
-  "LastUpdate_Achievements": "2023-10-20T10:07:05.157161+00:00"
+  "LastUpdate_Ratings": "2023-10-20T11:00:24.7700756+00:00",
+  "LastUpdate_Achievements": "2023-10-20T11:06:50.9692458+00:00"
 }

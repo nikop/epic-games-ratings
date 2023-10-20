@@ -2,12 +2,12 @@
   "ID": "fbab831cc1c94385b4e311f47f6fdc4f",
   "Name": "Galactic Civilizations IV",
   "ProductSlug": "galactic-civilizations-iv",
-  "Ranking_Rating": 912,
+  "Ranking_Rating": 913,
   "Ranking_Popularity": 359,
   "Ranking_PopularitySum": 289,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -915,7 +915,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 6901,
+  "EOS_Progressed": 6902,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
@@ -7210,6 +7210,11 @@
       "Time": "2023-10-20T10:06:35.2828297+00:00",
       "NumProgressed": 6901,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-20T11:06:21.0232732+00:00",
+      "NumProgressed": 6902,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -7253,7 +7258,7 @@
       "Name": "Commodity Trader",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 2070
+      "UsersEstimate": 2071
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -7285,7 +7290,7 @@
       "Name": "Xenocide",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2208
+      "UsersEstimate": 2209
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -7301,7 +7306,7 @@
       "Name": "Design a Civilization",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2139
+      "UsersEstimate": 2140
     },
     {
       "ID": "First_Major_Ally",
@@ -7325,7 +7330,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5383
+      "UsersEstimate": 5384
     },
     {
       "ID": "First_Race_Met",
@@ -7341,7 +7346,7 @@
       "Name": "Design a Ship",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1932
+      "UsersEstimate": 1933
     },
     {
       "ID": "First_Stream_Travel",
@@ -7357,7 +7362,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5383
+      "UsersEstimate": 5384
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -7437,7 +7442,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2346
+      "UsersEstimate": 2347
     },
     {
       "ID": "Play_1000_Hours",
@@ -7525,7 +7530,7 @@
       "Name": "Commodity Seller",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1725
+      "UsersEstimate": 1726
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
@@ -7796,15 +7801,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6901,
+      "Progressed": 6902,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-10-20T10:06:35.2828288+00:00",
+  "LastChanged_Achievements": "2023-10-20T11:06:21.0232728+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:21.0832103+00:00",
-  "LastUpdate_Ratings": "2023-10-20T09:59:18.1293416+00:00",
-  "LastUpdate_Achievements": "2023-10-20T10:06:35.2829339+00:00"
+  "LastUpdate_Ratings": "2023-10-20T10:59:10.8899193+00:00",
+  "LastUpdate_Achievements": "2023-10-20T11:06:21.0233588+00:00"
 }

@@ -11,12 +11,12 @@ Rating: 4.58 (Ranked 439)
 | The Pit and the Pirates | 5.00% | ~707 |
 | Drone Dodger | 5.00% | ~707 |
 | Call it Even | 5.00% | ~707 |
-| Data Archivist | 4.00% | ~565 |
-| Martian Music | 4.00% | ~565 |
-| Heal Thy Medic | 4.00% | ~565 |
-| Captain Drummer | 4.00% | ~565 |
-| Celebrations are in Order | 4.00% | ~565 |
-| Impossible Objects | 4.00% | ~565 |
+| Data Archivist | 4.00% | ~566 |
+| Martian Music | 4.00% | ~566 |
+| Heal Thy Medic | 4.00% | ~566 |
+| Captain Drummer | 4.00% | ~566 |
+| Celebrations are in Order | 4.00% | ~566 |
+| Impossible Objects | 4.00% | ~566 |
 | Stogie for Fogey | 3.00% | ~424 |
 | Spore Taste | 3.00% | ~424 |
 | Khan's Revenge | 3.00% | ~424 |
@@ -36,7 +36,7 @@ Rating: 4.58 (Ranked 439)
 | Scavenger Star | 0.20% | ~28 |
 | Data Collector | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,137 (Ranked 140)  
+Progressed: 14,140 (Ranked 140)  
 Completed: 26 (0.18%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 26 (0.18%) (Ranked 229)
 | 2023-10-17 | 14,078 | 26 |
 | 2023-10-18 | 14,108 | 26 |
 | 2023-10-19 | 14,126 | 26 |
-| 2023-10-20 | 14,137 | 26 |
+| 2023-10-20 | 14,140 | 26 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

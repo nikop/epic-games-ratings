@@ -2,7 +2,7 @@
   "ID": "4d8b727a49144090b103f6b6ba471e71",
   "Name": "Hundred Days - Winemaking Simulator",
   "ProductSlug": "hundred-days-winemaking-simulator",
-  "Ranking_Rating": 778,
+  "Ranking_Rating": 777,
   "Ranking_Popularity": 277,
   "Ranking_PopularitySum": 221,
   "Ranking_EOS_Progress": 153,
@@ -1021,9 +1021,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 8726,
+  "EOS_Progressed": 8730,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 959,
+  "EOS_NewPlayers": 958,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -7051,6 +7051,11 @@
       "Time": "2023-10-20T10:08:17.4637308+00:00",
       "NumProgressed": 8726,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-20T11:07:12.8634537+00:00",
+      "NumProgressed": 8730,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -7111,7 +7116,7 @@
       "Name": "Bye Bye",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 3403
+      "UsersEstimate": 3405
     },
     {
       "ID": "a_19",
@@ -7310,7 +7315,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 8726,
+      "Progressed": 8730,
       "Completed": 8
     }
   ],
@@ -7318,8 +7323,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-10-10T16:59:22.7446864+00:00",
-  "LastChanged_Achievements": "2023-10-20T10:08:17.4637301+00:00",
+  "LastChanged_Achievements": "2023-10-20T11:07:12.8634533+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:27.1391374+00:00",
-  "LastUpdate_Ratings": "2023-10-20T09:58:44.8948504+00:00",
-  "LastUpdate_Achievements": "2023-10-20T10:08:17.463794+00:00"
+  "LastUpdate_Ratings": "2023-10-20T10:58:41.5572607+00:00",
+  "LastUpdate_Achievements": "2023-10-20T11:07:12.8634995+00:00"
 }
