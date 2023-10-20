@@ -4,7 +4,7 @@
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 66.67% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.58% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.85% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 46.65% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 46.62% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.17% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -49,7 +49,7 @@
 | 47 | [Sonic Origins](games/s/sonic_origins.md) | 7.39% |
 | 48 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.25% |
 | 49 | [Time Loader](games/t/time_loader.md) | 7.20% |
-| 50 | [Scorn](games/s/scorn.md) | 6.99% |
+| 50 | [Scorn](games/s/scorn.md) | 6.98% |
 | 51 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.51% |
 | 52 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.38% |
 | 53 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.27% |
@@ -73,7 +73,7 @@
 | 71 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.28% |
 | 72 | [The Bunker](games/t/the_bunker.md) | 4.20% |
 | 73 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.17% |
-| 74 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.06% |
+| 74 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.05% |
 | 75 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.00% |
 | 76 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
 | 77 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.78% |
@@ -146,7 +146,7 @@
 | 144 | [Trifox](games/t/trifox.md) | 1.04% |
 | 145 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.02% |
 | 146 | [Sable](games/s/sable.md) | 1.01% |
-| 146 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.01% |
+| 147 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.00% |
 | 148 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.98% |
 | 149 | [A Musical Story](games/a/a_musical_story.md) | 0.96% |
 | 149 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.96% |
@@ -175,9 +175,9 @@
 | 173 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.56% |
 | 174 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
 | 174 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.55% |
-| 176 | [Dead Space](games/d/dead_space.md) | 0.54% |
-| 177 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
-| 177 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.53% |
+| 176 | [Dead Space](games/d/dead_space.md) | 0.53% |
+| 176 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
+| 176 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.53% |
 | 179 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.51% |
 | 180 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.47% |
 | 181 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.46% |
@@ -682,4 +682,4 @@
 | 316 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 316 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 316 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,446 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,447 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
