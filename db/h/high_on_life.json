@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -5803,9 +5803,9 @@
       "ID": "ACH_GET_CREATURE",
       "SetID": "cdkbb11",
       "Name": "Creature Feature",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 218
+      "UsersEstimate": 243
     },
     {
       "ID": "ACH_GET_GUS",
@@ -5915,9 +5915,9 @@
       "ID": "ACH_KILL_GIBLETS",
       "SetID": "cdkbb11",
       "Name": "Hardest Battle In The Game",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 45,
-      "UsersEstimate": 218
+      "UsersEstimate": 243
     },
     {
       "ID": "ACH_KILL_KRUBIS",
@@ -6130,8 +6130,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-07T05:03:09.4311759+00:00",
-  "LastChanged_Achievements": "2023-10-20T08:08:13.0916026+00:00",
+  "LastChanged_Achievements": "2023-10-20T09:09:13.1333576+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:39.0375133+00:00",
-  "LastUpdate_Ratings": "2023-10-20T07:58:36.3660398+00:00",
-  "LastUpdate_Achievements": "2023-10-20T08:08:13.0916825+00:00"
+  "LastUpdate_Ratings": "2023-10-20T08:59:07.2778637+00:00",
+  "LastUpdate_Achievements": "2023-10-20T09:09:13.1334555+00:00"
 }

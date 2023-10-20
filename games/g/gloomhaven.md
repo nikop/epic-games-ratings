@@ -6,29 +6,29 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 44.00% | ~6,433 |
-| Overkill | 34.00% | ~4,971 |
-| A normal day in Gloomhaven | 34.00% | ~4,971 |
-| Vaccine Incoming | 33.00% | ~4,825 |
-| Spread the plague | 31.00% | ~4,533 |
-| Get over here! | 24.00% | ~3,509 |
-| Just when I thought I was out... | 19.00% | ~2,778 |
+| I'm not dead yet | 44.00% | ~6,435 |
+| Overkill | 34.00% | ~4,973 |
+| A normal day in Gloomhaven | 34.00% | ~4,973 |
+| Vaccine Incoming | 33.00% | ~4,827 |
+| Spread the plague | 31.00% | ~4,534 |
+| Get over here! | 24.00% | ~3,510 |
+| Just when I thought I was out... | 19.00% | ~2,779 |
 | Precious! | 17.00% | ~2,486 |
 | Mine... All Mine... | 17.00% | ~2,486 |
-| Light of my life | 15.00% | ~2,193 |
-| Anatomy Lesson | 15.00% | ~2,193 |
+| Light of my life | 15.00% | ~2,194 |
+| Anatomy Lesson | 15.00% | ~2,194 |
 | Grizzled veteran | 13.00% | ~1,901 |
 | You activated my trap card! | 13.00% | ~1,901 |
 | Obstacle race | 13.00% | ~1,901 |
 | Augmented rat | 12.00% | ~1,755 |
-| Doom and gloom | 11.00% | ~1,608 |
+| Doom and gloom | 11.00% | ~1,609 |
 | Who's the Boss? | 9.00% | ~1,316 |
 | Dungeon Veteran | 8.00% | ~1,170 |
 | Pack leader | 8.00% | ~1,170 |
 | Pain is your friend | 8.00% | ~1,170 |
 | Black death | 8.00% | ~1,170 |
 | Play it again, Sam | 8.00% | ~1,170 |
-| Quad damage | 6.00% | ~877 |
+| Quad damage | 6.00% | ~878 |
 | Power Up! | 5.00% | ~731 |
 | The Pro from Dover | 5.00% | ~731 |
 | Pretty lights! | 5.00% | ~731 |
@@ -36,15 +36,15 @@ Number of Ratings: 68  (23.09.2022)
 | Caught off guard | 4.00% | ~585 |
 | Merchant of doom | 3.00% | ~439 |
 | Grin and bear it | 3.00% | ~439 |
-| I hate portals | 2.00% | ~292 |
-| From Gloom, only greed and death emerges | 2.00% | ~292 |
-| The Rat King | 2.00% | ~292 |
-| Down the hatch | 2.00% | ~292 |
-| An eye for an eye | 2.00% | ~292 |
-| The Cephalophore | 2.00% | ~292 |
-| Master Assassin | 2.00% | ~292 |
-| The Sniper | 2.00% | ~292 |
-| An axe to grind | 2.00% | ~292 |
+| I hate portals | 2.00% | ~293 |
+| From Gloom, only greed and death emerges | 2.00% | ~293 |
+| The Rat King | 2.00% | ~293 |
+| Down the hatch | 2.00% | ~293 |
+| An eye for an eye | 2.00% | ~293 |
+| The Cephalophore | 2.00% | ~293 |
+| Master Assassin | 2.00% | ~293 |
+| The Sniper | 2.00% | ~293 |
+| An axe to grind | 2.00% | ~293 |
 | Add a bit of colour | 1.00% | ~146 |
 | How to train your Drake | 1.00% | ~146 |
 | New Blood | 1.00% | ~146 |
@@ -53,7 +53,7 @@ Number of Ratings: 68  (23.09.2022)
 | Spoiler police! | 0.70% | ~102 |
 | The Pacifist | 0.50% | ~73 |
 | Born Support | 0.50% | ~73 |
-| A tough job | 0.40% | ~58 |
+| A tough job | 0.40% | ~59 |
 | The evil that men do | 0.30% | ~44 |
 | MacReady Steady.. Go! | 0.30% | ~44 |
 | Pull out the big guns | 0.30% | ~44 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Lara Who? | 0.10% | ~15 |
 | Hard-travelling Heroes | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,621 (Ranked 139)  
+Progressed: 14,626 (Ranked 139)  
 Completed: 1 (0.01%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,15 +105,15 @@ Completed: 1 (0.01%) (Ranked 298)
 | 2023-10-17 | 14,108 | 1 |
 | 2023-10-18 | 14,328 | 1 |
 | 2023-10-19 | 14,556 | 1 |
-| 2023-10-20 | 14,621 | 1 |
+| 2023-10-20 | 14,626 | 1 |
 ## Awards
 Max (Character Customization): 3,555  (Ranked 90)  
-Sum: 8,301 (Ranked 98)  
+Sum: 8,302 (Ranked 98)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 3,555 |
-| This game has Diverse Characters | 591 |
+| This game has Diverse Characters | 592 |
 | This game has Challenging Combat | 548 |
 | This game is Highly Recommended | 541 |
 | This game is Extremely Fun | 537 |
@@ -323,3 +323,4 @@ Diff (max vs sum): -8
 | 2023-10-17 | 4.47 | - | 3,554 | 8,298 |
 | 2023-10-18 | 4.47 | - | 3,555 | 8,300 |
 | 2023-10-19 | 4.47 | - | 3,555 | 8,301 |
+| 2023-10-20 | 4.47 | - | 3,555 | 8,302 |

@@ -1,7 +1,7 @@
 # Aimlabs
 [Store](https://store.epicgames.com/en-US/p/aimlabs)  
 [View Rawdata](../../db/a/aimlabs.json)  
-Rating: 4.61 (Ranked 378)  
+Rating: 4.62 (Ranked 356)  
 ## Awards
 Max (Great for Quick Sessions): 41  (Ranked 442)  
 Sum: 113 (Ranked 426)  
@@ -107,4 +107,4 @@ Diff (max vs sum): 16
 | 2023-10-16 | 4.61 | 40 | 110 |
 | 2023-10-17 | 4.61 | 40 | 111 |
 | 2023-10-19 | 4.61 | 40 | 112 |
-| 2023-10-20 | 4.61 | 41 | 113 |
+| 2023-10-20 | 4.62 | 41 | 113 |

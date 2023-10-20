@@ -6,15 +6,15 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,392 |
-| Until death do us apart | 4.00% | ~17,392 |
-| Victorious! | 4.00% | ~17,392 |
-| That is mine! | 3.00% | ~13,044 |
-| Brothers in Arms | 2.00% | ~8,696 |
-| Cold War | 2.00% | ~8,696 |
-| For the Glory | 2.00% | ~8,696 |
-| That's a Grand Navy | 2.00% | ~8,696 |
-| Seriously?! | 2.00% | ~8,696 |
+| That's a Grand Army | 4.00% | ~17,393 |
+| Until death do us apart | 4.00% | ~17,393 |
+| Victorious! | 4.00% | ~17,393 |
+| That is mine! | 3.00% | ~13,045 |
+| Brothers in Arms | 2.00% | ~8,697 |
+| Cold War | 2.00% | ~8,697 |
+| For the Glory | 2.00% | ~8,697 |
+| That's a Grand Navy | 2.00% | ~8,697 |
+| Seriously?! | 2.00% | ~8,697 |
 | Defender of the Faith | 1.00% | ~4,348 |
 | It's all about the money | 1.00% | ~4,348 |
 | Respected | 1.00% | ~4,348 |
@@ -22,10 +22,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | True Catholic | 1.00% | ~4,348 |
 | Truly Divine Ruler | 1.00% | ~4,348 |
 | It's all about luck | 0.90% | ~3,913 |
-| Blockader | 0.80% | ~3,478 |
-| Double the Love | 0.80% | ~3,478 |
-| Royal Authority | 0.80% | ~3,478 |
-| Total Control | 0.80% | ~3,478 |
+| Blockader | 0.80% | ~3,479 |
+| Double the Love | 0.80% | ~3,479 |
+| Royal Authority | 0.80% | ~3,479 |
+| Total Control | 0.80% | ~3,479 |
 | My armies are invincible! | 0.70% | ~3,044 |
 | Agressive Expander | 0.50% | ~2,174 |
 | Azur semé de lis or | 0.50% | ~2,174 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 434,811 (Ranked 40)  
+Progressed: 434,828 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -544,14 +544,14 @@ Completed: 1 (0.00%) (Ranked 316)
 | 2023-10-17 | 433,352 | 1 |
 | 2023-10-18 | 433,999 | 1 |
 | 2023-10-19 | 434,645 | 1 |
-| 2023-10-20 | 434,811 | 1 |
+| 2023-10-20 | 434,828 | 1 |
 ## Awards
-Max (Educational): 6,587  (Ranked 55)  
-Sum: 54,183 (Ranked 24)  
+Max (Educational): 6,599  (Ranked 55)  
+Sum: 54,195 (Ranked 24)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 6,587 |
+| This game is Educational | 6,599 |
 | This game is Highly Recommended | 6,276 |
 | This game has Diverse Characters | 6,261 |
 | This game has Challenging Combat | 6,231 |
@@ -840,3 +840,4 @@ Diff (max vs sum): 31
 | 2023-10-17 | 4.69 | - | 6,571 | 53,991 |
 | 2023-10-18 | 4.69 | - | 6,571 | 54,079 |
 | 2023-10-19 | 4.69 | - | 6,587 | 54,183 |
+| 2023-10-20 | 4.69 | - | 6,599 | 54,195 |

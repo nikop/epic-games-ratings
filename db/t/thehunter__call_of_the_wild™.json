@@ -2,13 +2,13 @@
   "ID": "c7f9346e3db148fca6dd63e9dd8451bd",
   "Name": "theHunter: Call of the Wild\u2122",
   "ProductSlug": "thehunter-call-of-the-wild",
-  "Ranking_Rating": 458,
+  "Ranking_Rating": 459,
   "Ranking_Popularity": 82,
   "Ranking_PopularitySum": 51,
-  "Ranking_EOS_Progress": 683,
+  "Ranking_EOS_Progress": 684,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 398,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 397,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-11-25T16:00:00+00:00",
     "PcReleaseDate": "2017-02-16T15:00:00+00:00",
@@ -9199,10 +9199,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 27320,
       "NumberOfAwardsMax": 4143
+    },
+    {
+      "Time": "2023-10-20T08:57:47.9358961+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 27323,
+      "NumberOfAwardsMax": 4143
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27320,
+  "NumberOfAwards": 27323,
   "NumberOfAwardsMax": 4143,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9210,7 +9216,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 3332
+      "Count": 3335
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -9278,8 +9284,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:14.0161067+00:00",
-  "LastChanged": "2023-10-20T07:57:28.4514518+00:00",
+  "LastChanged": "2023-10-20T08:57:47.9358959+00:00",
   "LastUpdate_AppInfo": "2023-10-14T11:57:11.5082303+00:00",
-  "LastUpdate_Ratings": "2023-10-20T07:57:28.4514526+00:00",
-  "LastUpdate_Achievements": "2023-10-20T08:05:57.3616039+00:00"
+  "LastUpdate_Ratings": "2023-10-20T08:57:47.9358967+00:00",
+  "LastUpdate_Achievements": "2023-10-20T09:07:00.4460595+00:00"
 }

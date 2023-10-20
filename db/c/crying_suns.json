@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 370,
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -625,9 +625,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 469331,
+  "EOS_Progressed": 469332,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 365,
+  "EOS_NewPlayers": 362,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19745,6 +19745,11 @@
       "Time": "2023-10-20T08:09:38.9969869+00:00",
       "NumProgressed": 469331,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-10-20T09:10:26.6452937+00:00",
+      "NumProgressed": 469332,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 79,
@@ -19772,7 +19777,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 112639
+      "UsersEstimate": 112640
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -19804,7 +19809,7 @@
       "Name": "Chapter IV: Through the Looking Glass",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 37546
+      "UsersEstimate": 37547
     },
     {
       "ID": "achievement_story_complete_chapter_5",
@@ -19844,7 +19849,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 309758
+      "UsersEstimate": 309759
     },
     {
       "ID": "achievement_story_landa",
@@ -19868,7 +19873,7 @@
       "Name": "Through the mirror",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37546
+      "UsersEstimate": 37547
     },
     {
       "ID": "achievement_story_meet_mother",
@@ -19908,7 +19913,7 @@
       "Name": "Tetsuo",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51626
+      "UsersEstimate": 51627
     },
     {
       "ID": "achievement_story_meet_vivar",
@@ -19916,7 +19921,7 @@
       "Name": "General Vivar",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37546
+      "UsersEstimate": 37547
     },
     {
       "ID": "achievement_story_meet_zenon",
@@ -19948,7 +19953,7 @@
       "Name": "Back to Ganyma",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37546
+      "UsersEstimate": 37547
     },
     {
       "ID": "achievement_story_spare_oberon",
@@ -20188,7 +20193,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 140799
+      "UsersEstimate": 140800
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -20204,7 +20209,7 @@
       "Name": "Plan for the worst",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51626
+      "UsersEstimate": 51627
     },
     {
       "ID": "achievement_win_expedition_without_monster_noloss",
@@ -20260,7 +20265,7 @@
       "Name": "Kaos Rule",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37546
+      "UsersEstimate": 37547
     },
     {
       "ID": "achievement_win_run_with_starter",
@@ -20387,21 +20392,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 13265,
+      "Progressed": 13266,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 469331,
+      "Progressed": 469332,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-10-10T01:42:39.6470224+00:00",
-  "LastChanged_Achievements": "2023-10-20T08:09:38.9969863+00:00",
+  "LastChanged_Achievements": "2023-10-20T09:10:26.6452931+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:23.4157652+00:00",
-  "LastUpdate_Ratings": "2023-10-20T08:00:22.5010917+00:00",
-  "LastUpdate_Achievements": "2023-10-20T08:09:38.9972364+00:00"
+  "LastUpdate_Ratings": "2023-10-20T09:01:11.4450529+00:00",
+  "LastUpdate_Achievements": "2023-10-20T09:10:26.6455157+00:00"
 }

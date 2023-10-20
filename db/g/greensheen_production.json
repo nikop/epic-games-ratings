@@ -4,7 +4,7 @@
   "Ranking_EOS_Progress": 535,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -210,9 +210,9 @@
       "ID": "HalfHatsCollected",
       "SetID": "aph8hbk",
       "Name": "Half hat",
-      "Percentage": 45,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "HandOverkill",
@@ -242,9 +242,9 @@
       "ID": "KidsHospital",
       "SetID": "aph8hbk",
       "Name": "Sick Kids",
-      "Percentage": 45,
+      "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "KidsPaleCity",
@@ -368,8 +368,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-31T13:15:39.9572089+00:00",
-  "LastChanged_Achievements": "2023-10-20T08:04:11.9998881+00:00",
+  "LastChanged_Achievements": "2023-10-20T09:04:58.391118+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:13.194983+00:00",
-  "LastUpdate_Ratings": "2023-10-20T07:57:47.6172878+00:00",
-  "LastUpdate_Achievements": "2023-10-20T08:04:11.9999194+00:00"
+  "LastUpdate_Ratings": "2023-10-20T08:58:10.5104527+00:00",
+  "LastUpdate_Achievements": "2023-10-20T09:04:58.3911475+00:00"
 }

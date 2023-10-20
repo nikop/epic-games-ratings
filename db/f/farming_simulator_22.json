@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -10302,7 +10302,7 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 50194,
+  "EOS_Progressed": 50195,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 368,
   "EOS_NewCompleters": 0,
@@ -26672,6 +26672,11 @@
       "Time": "2023-10-20T07:09:02.4693266+00:00",
       "NumProgressed": 50194,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-20T09:09:44.1038968+00:00",
+      "NumProgressed": 50195,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -26763,7 +26768,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 32124
+      "UsersEstimate": 32125
     },
     {
       "ID": "CutTree",
@@ -26779,7 +26784,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 30618
+      "UsersEstimate": 30619
     },
     {
       "ID": "DeliveryGrapes",
@@ -26819,7 +26824,7 @@
       "Name": "Plant get enough",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 30116
+      "UsersEstimate": 30117
     },
     {
       "ID": "Harvested",
@@ -26859,7 +26864,7 @@
       "Name": "Giddy-up!",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 5019
+      "UsersEstimate": 5020
     },
     {
       "ID": "LoadedOldSavegame",
@@ -26867,7 +26872,7 @@
       "Name": "It\u0027s never too late to farm",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 25097
+      "UsersEstimate": 25098
     },
     {
       "ID": "Mission",
@@ -26915,7 +26920,7 @@
       "Name": "All out of Land",
       "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 22085
+      "UsersEstimate": 22086
     },
     {
       "ID": "NumProductionPoints",
@@ -26947,7 +26952,7 @@
       "Name": "Ultimutt Pawesomeness",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 14054
+      "UsersEstimate": 14055
     },
     {
       "ID": "PlayTime",
@@ -26955,7 +26960,7 @@
       "Name": "It\u0027s just the beginning",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 29614
+      "UsersEstimate": 29615
     },
     {
       "ID": "Sow",
@@ -26971,7 +26976,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 31622
+      "UsersEstimate": 31623
     },
     {
       "ID": "Stones",
@@ -26987,7 +26992,7 @@
       "Name": "Field Trip",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 21583
+      "UsersEstimate": 21584
     },
     {
       "ID": "TruckDriving",
@@ -27003,7 +27008,7 @@
       "Name": "Van Gogh",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 13050
+      "UsersEstimate": 13051
     },
     {
       "ID": "VehicleRepair",
@@ -27026,15 +27031,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 50194,
+      "Progressed": 50195,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-10-19T21:01:07.834579+00:00",
-  "LastChanged_Achievements": "2023-10-20T08:09:10.5603463+00:00",
+  "LastChanged_Achievements": "2023-10-20T09:09:44.103896+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:17.6227562+00:00",
-  "LastUpdate_Ratings": "2023-10-20T08:01:14.326568+00:00",
-  "LastUpdate_Achievements": "2023-10-20T08:09:10.5605005+00:00"
+  "LastUpdate_Ratings": "2023-10-20T09:02:10.7488653+00:00",
+  "LastUpdate_Achievements": "2023-10-20T09:09:44.1040327+00:00"
 }

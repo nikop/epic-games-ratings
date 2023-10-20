@@ -5,19 +5,19 @@ Rating: 4.64 (Ranked 324)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Creature Feature | 1.00% | ~243 |
 | Satisfied Gus-tomer | 1.00% | ~243 |
 | Are You Packin'? | 1.00% | ~243 |
 | Sweezy Like Sunday Morning | 1.00% | ~243 |
 | First Bounty Down | 1.00% | ~243 |
 | G3 Graduation | 1.00% | ~243 |
+| Hardest Battle In The Game | 1.00% | ~243 |
 | Cold-Blooded Driller | 1.00% | ~243 |
 | Who's The Boss? | 1.00% | ~243 |
 | Don't Knife The Hand That Feeds | 1.00% | ~243 |
-| Creature Feature | 0.90% | ~218 |
 | Bring A Knife to a Gun Fight | 0.90% | ~218 |
 | RIP Davey Glutes | 0.90% | ~218 |
 | We're All Very Impressed, Trust Me | 0.90% | ~218 |
-| Hardest Battle In The Game | 0.90% | ~218 |
 | Lezduit! | 0.80% | ~194 |
 | Self-Actualization | 0.80% | ~194 |
 | Spent 15 Hours At The Alien Strip Club | 0.80% | ~194 |

@@ -48,15 +48,16 @@
 | Purification Avatar | 5.00% | ~3 |
 | The Abyssal Terror | 5.00% | ~3 |
 | Behenian Mastery | 5.00% | ~3 |
+| Eridanian Hero | 5.00% | ~3 |
 | Lacertian Mastery | 5.00% | ~3 |
 | Noctuan Hero | 5.00% | ~3 |
 | Astrarium of Holding | 3.00% | ~2 |
 | Reflexive Mind | 3.00% | ~2 |
 | Sentinelphobic | 3.00% | ~2 |
 | The Ardent Prince | 3.00% | ~2 |
+| The Raging Skies | 3.00% | ~2 |
 | Aquarian Hero | 3.00% | ~2 |
 | Aquarian Mastery | 3.00% | ~2 |
-| Eridanian Hero | 3.00% | ~2 |
 | Eridanian Mastery | 3.00% | ~2 |
 | Noctuan Mastery | 3.00% | ~2 |
 | Anomaly Master | 2.00% | ~1 |
@@ -67,7 +68,6 @@
 | Plague Doctor | 2.00% | ~1 |
 | Pocket Astrarium | 2.00% | ~1 |
 | Prestidigitation | 2.00% | ~1 |
-| The Raging Skies | 2.00% | ~1 |
 | This is Fine | 2.00% | ~1 |
 | Virtuous Warrior | 2.00% | ~1 |
 | Apian Champion | 0.00% | ~0 |

@@ -8,6 +8,7 @@
 | Leisis Bless You | 25.00% | ~2 |
 | Spirit Within | 25.00% | ~2 |
 | A Small Thirsty Thing | 13.00% | ~1 |
+| Let Me Solo Them | 13.00% | ~1 |
 | Sovereignty of Irons | 13.00% | ~1 |
 | Rain Must Fall | 0.00% | ~0 |
 | No Salvation | 0.00% | ~0 |
@@ -32,7 +33,6 @@
 | Redeemer | 0.00% | ~0 |
 | Divine Guidance | 0.00% | ~0 |
 | Smotherly Love | 0.00% | ~0 |
-| Let Me Solo Them | 0.00% | ~0 |
 | Dousing a Venerable Flame | 0.00% | ~0 |
 | Hearld of the Holy Seat | 0.00% | ~0 |
 | Explorer | 0.00% | ~0 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2019-07-25T08:00:00+00:00",
@@ -6686,9 +6686,9 @@
       "ID": "ACH_SURVIVE_40_DAYS",
       "SetID": "5nj1ea3",
       "Name": "Last man standing",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 4285
+      "UsersEstimate": 4339
     },
     {
       "ID": "ACH_SURVIVE_5_DAYS",
@@ -6735,8 +6735,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-10-07T15:59:26.0001833+00:00",
-  "LastChanged_Achievements": "2023-10-20T08:03:26.5527075+00:00",
+  "LastChanged_Achievements": "2023-10-20T09:04:18.0850455+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:13.9945802+00:00",
-  "LastUpdate_Ratings": "2023-10-20T08:02:05.9816321+00:00",
-  "LastUpdate_Achievements": "2023-10-20T08:03:26.552814+00:00"
+  "LastUpdate_Ratings": "2023-10-20T09:03:21.994344+00:00",
+  "LastUpdate_Achievements": "2023-10-20T09:04:18.0852452+00:00"
 }

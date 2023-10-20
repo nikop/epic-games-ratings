@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 398,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
     "PcReleaseDate": "2022-03-17T09:00:00+00:00",
@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 676,
+  "EOS_Progressed": 677,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -547,6 +547,11 @@
       "Time": "2023-10-12T19:09:20.4204996+00:00",
       "NumProgressed": 676,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-20T09:10:36.6995013+00:00",
+      "NumProgressed": 677,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -614,7 +619,7 @@
       "Name": "Deadly Kombationem",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "Fire in the hole!",
@@ -660,9 +665,9 @@
       "ID": "In the smacker...I think",
       "SetID": "gl7plp",
       "Name": "In the smacker...I think",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 74
+      "UsersEstimate": 68
     },
     {
       "ID": "Keep_em_coming",
@@ -724,9 +729,9 @@
       "ID": "Tell_me_your_story",
       "SetID": "gl7plp",
       "Name": "Tell me your story",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 514
+      "UsersEstimate": 508
     },
     {
       "ID": "Thats_gotta_hurt",
@@ -774,7 +779,7 @@
       "Name": "The things they print nowadays",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "The_truth_is_out_there",
@@ -845,7 +850,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 676,
+      "Progressed": 677,
       "Completed": 0
     }
   ],
@@ -853,8 +858,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-09-07T23:01:24.8259304+00:00",
-  "LastChanged_Achievements": "2023-10-20T08:09:47.862481+00:00",
+  "LastChanged_Achievements": "2023-10-20T09:10:36.6995006+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:32.7414986+00:00",
-  "LastUpdate_Ratings": "2023-10-20T07:59:27.7274721+00:00",
-  "LastUpdate_Achievements": "2023-10-20T08:09:47.8625124+00:00"
+  "LastUpdate_Ratings": "2023-10-20T09:00:10.4952857+00:00",
+  "LastUpdate_Achievements": "2023-10-20T09:10:36.699536+00:00"
 }

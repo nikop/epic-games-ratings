@@ -2,13 +2,13 @@
   "ID": "79d9bff700bb46a790b21e8c73b34899",
   "Name": "Salt and Sanctuary",
   "ProductSlug": "salt-and-sanctuary",
-  "Ranking_Rating": 378,
+  "Ranking_Rating": 379,
   "Ranking_Popularity": 245,
   "Ranking_PopularitySum": 205,
   "Ranking_EOS_Progress": 32,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 12,
+  "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
     "PcReleaseDate": "2016-05-17T16:00:00+00:00",
@@ -2706,10 +2706,10 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 535847,
+  "EOS_Progressed": 535848,
   "EOS_Completed": 1584,
   "EOS_NewPlayers": 562,
-  "EOS_NewCompleters": 15,
+  "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -22696,6 +22696,11 @@
       "Time": "2023-10-20T08:08:04.479379+00:00",
       "NumProgressed": 535847,
       "NumCompleted": 1584
+    },
+    {
+      "Time": "2023-10-20T09:09:03.0337012+00:00",
+      "NumProgressed": 535848,
+      "NumCompleted": 1584
     }
   ],
   "TotalAchievements": 37,
@@ -22763,7 +22768,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 444753
+      "UsersEstimate": 444754
     },
     {
       "ID": "HONED",
@@ -22883,7 +22888,7 @@
       "Name": "The Iron Ones",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 96452
+      "UsersEstimate": 96453
     },
     {
       "ID": "THE_KEEP",
@@ -22963,7 +22968,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 342942
+      "UsersEstimate": 342943
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -23002,15 +23007,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 535847,
+      "Progressed": 535848,
       "Completed": 1584
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-10-16T15:59:05.91541+00:00",
-  "LastChanged_Achievements": "2023-10-20T08:08:04.4793785+00:00",
+  "LastChanged_Achievements": "2023-10-20T09:09:03.0337001+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:31.6704285+00:00",
-  "LastUpdate_Ratings": "2023-10-20T08:00:35.6456475+00:00",
-  "LastUpdate_Achievements": "2023-10-20T08:08:04.4795516+00:00"
+  "LastUpdate_Ratings": "2023-10-20T09:01:27.223496+00:00",
+  "LastUpdate_Achievements": "2023-10-20T09:09:03.0338927+00:00"
 }

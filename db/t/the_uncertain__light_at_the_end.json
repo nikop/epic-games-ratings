@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 284,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 537,
+  "EOS_Progressed": 538,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.12,
   "EosHistory": [
@@ -763,6 +763,11 @@
       "Time": "2023-10-19T23:09:54.7791259+00:00",
       "NumProgressed": 537,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-20T09:10:35.5614611+00:00",
+      "NumProgressed": 538,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -782,7 +787,7 @@
       "Name": "Identity Theft",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "Butterfly",
@@ -798,7 +803,7 @@
       "Name": "Bosom Buddies",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "Doors_Closing",
@@ -846,7 +851,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Headshot",
@@ -854,7 +859,7 @@
       "Name": "U Mad Bro?",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "Healthy_Child",
@@ -878,7 +883,7 @@
       "Name": "F is for Feline",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "Investigative",
@@ -902,7 +907,7 @@
       "Name": "A Trip to Remember",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "MISSING_DATA",
@@ -982,7 +987,7 @@
       "Name": "Smart cookie",
       "Percentage": 4,
       "XP": 150,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Strike",
@@ -1005,7 +1010,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 537,
+      "Progressed": 538,
       "Completed": 6
     }
   ],
@@ -1013,8 +1018,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-10-20T08:09:46.8823986+00:00",
+  "LastChanged_Achievements": "2023-10-20T09:10:35.5614603+00:00",
   "LastUpdate_AppInfo": "2023-10-14T10:57:26.6462722+00:00",
-  "LastUpdate_Ratings": "2023-10-20T08:03:12.1946102+00:00",
-  "LastUpdate_Achievements": "2023-10-20T08:09:46.8824422+00:00"
+  "LastUpdate_Ratings": "2023-10-20T09:04:02.0428163+00:00",
+  "LastUpdate_Achievements": "2023-10-20T09:10:35.5614878+00:00"
 }

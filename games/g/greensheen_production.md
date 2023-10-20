@@ -27,12 +27,12 @@
 | Twenty-Six | 55.00% | ~6 |
 | Paled | 55.00% | ~6 |
 | Signal interruption | 55.00% | ~6 |
+| Half hat | 55.00% | ~6 |
+| Sick Kids | 55.00% | ~6 |
 | Wild Kids | 55.00% | ~6 |
 | How Do I Look? | 55.00% | ~6 |
 | Far Ahead | 45.00% | ~5 |
 | Unladylike | 45.00% | ~5 |
-| Half hat | 45.00% | ~5 |
-| Sick Kids | 45.00% | ~5 |
 | Pale Kids | 45.00% | ~5 |
 | School Kids | 45.00% | ~5 |
 | Post Industrial | 45.00% | ~5 |
