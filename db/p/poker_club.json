@@ -859,9 +859,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 532083,
+  "EOS_Progressed": 532086,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1533,
+  "EOS_NewPlayers": 1530,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21389,6 +21389,11 @@
       "Time": "2023-10-20T06:08:20.2747538+00:00",
       "NumProgressed": 532083,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-20T07:08:08.4966054+00:00",
+      "NumProgressed": 532086,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -21400,7 +21405,7 @@
       "Name": "A Bit On The Side",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 143662
+      "UsersEstimate": 143663
     },
     {
       "ID": "Backdoor",
@@ -21408,7 +21413,7 @@
       "Name": "Backdoor",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 133021
+      "UsersEstimate": 133022
     },
     {
       "ID": "BeforeYouWreckYourself",
@@ -21424,7 +21429,7 @@
       "Name": "Bet Bet Bet",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 53208
+      "UsersEstimate": 53209
     },
     {
       "ID": "BlindmansBluff",
@@ -21432,7 +21437,7 @@
       "Name": "Blindman\u0027s Bluff",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 47887
+      "UsersEstimate": 47888
     },
     {
       "ID": "BluffingEh",
@@ -21496,7 +21501,7 @@
       "Name": "Cold Caller",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 207512
+      "UsersEstimate": 207514
     },
     {
       "ID": "DeadlyAssassin",
@@ -21504,7 +21509,7 @@
       "Name": "Deadly Assassin",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 79812
+      "UsersEstimate": 79813
     },
     {
       "ID": "DogEatDog",
@@ -21552,7 +21557,7 @@
       "Name": "Handy",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 218154
+      "UsersEstimate": 218155
     },
     {
       "ID": "HoldingYourOwn",
@@ -21568,7 +21573,7 @@
       "Name": "How I Roll",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 3192
+      "UsersEstimate": 3193
     },
     {
       "ID": "InTheGang",
@@ -21576,7 +21581,7 @@
       "Name": "In The Gang",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 15962
+      "UsersEstimate": 15963
     },
     {
       "ID": "KeepYourHeadsUp",
@@ -21608,7 +21613,7 @@
       "Name": "On The Button",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 15962
+      "UsersEstimate": 15963
     },
     {
       "ID": "Philanthropic",
@@ -21632,7 +21637,7 @@
       "Name": "Poker Joker",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 47887
+      "UsersEstimate": 47888
     },
     {
       "ID": "PokerShowdown",
@@ -21648,7 +21653,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 404383
+      "UsersEstimate": 404385
     },
     {
       "ID": "ProPlayer",
@@ -21672,7 +21677,7 @@
       "Name": "Rank Amateur",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 111737
+      "UsersEstimate": 111738
     },
     {
       "ID": "RegularPunter",
@@ -21759,7 +21764,7 @@
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 532083,
+      "Progressed": 532086,
       "Completed": 2
     }
   ],
@@ -21767,8 +21772,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2023-10-19T18:59:39.594422+00:00",
-  "LastChanged_Achievements": "2023-10-20T06:08:20.274753+00:00",
+  "LastChanged_Achievements": "2023-10-20T07:08:08.496605+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:39.863967+00:00",
-  "LastUpdate_Ratings": "2023-10-20T06:00:30.5196299+00:00",
-  "LastUpdate_Achievements": "2023-10-20T06:08:20.2749579+00:00"
+  "LastUpdate_Ratings": "2023-10-20T06:59:49.2233203+00:00",
+  "LastUpdate_Achievements": "2023-10-20T07:08:08.4967635+00:00"
 }

@@ -3855,9 +3855,9 @@
       "Count": 1070
     }
   ],
-  "EOS_Progressed": 75539,
+  "EOS_Progressed": 75540,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 760,
+  "EOS_NewPlayers": 761,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -24430,6 +24430,11 @@
       "Time": "2023-10-20T06:05:23.3034894+00:00",
       "NumProgressed": 75539,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-20T07:05:02.3373485+00:00",
+      "NumProgressed": 75540,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -24545,7 +24550,7 @@
       "Name": "Wet Work",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 24172
+      "UsersEstimate": 24173
     },
     {
       "ID": "complete_mission_1",
@@ -24569,7 +24574,7 @@
       "Name": "Optimized",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 27949
+      "UsersEstimate": 27950
     },
     {
       "ID": "cutting_edge_materials",
@@ -24625,7 +24630,7 @@
       "Name": "Power Players",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 14352
+      "UsersEstimate": 14353
     },
     {
       "ID": "empire_tier_4",
@@ -24649,7 +24654,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 24172
+      "UsersEstimate": 24173
     },
     {
       "ID": "fully_complete_a_building",
@@ -24673,7 +24678,7 @@
       "Name": "Kitted Out",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 10575
+      "UsersEstimate": 10576
     },
     {
       "ID": "get_betrayed",
@@ -24825,7 +24830,7 @@
       "Name": "To The Nines",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 31726
+      "UsersEstimate": 31727
     },
     {
       "ID": "whole_map_purple",
@@ -24864,22 +24869,22 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 75539,
+      "Progressed": 75540,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 47176,
-      "Completed": 4138
+      "Progressed": 47177,
+      "Completed": 4140
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-10-18T15:59:18.1995048+00:00",
-  "LastChanged_Achievements": "2023-10-20T06:05:23.3034887+00:00",
+  "LastChanged_Achievements": "2023-10-20T07:05:02.3373479+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:20.7071116+00:00",
-  "LastUpdate_Ratings": "2023-10-20T06:00:00.3582554+00:00",
-  "LastUpdate_Achievements": "2023-10-20T06:05:23.3036725+00:00"
+  "LastUpdate_Ratings": "2023-10-20T06:59:26.4845438+00:00",
+  "LastUpdate_Achievements": "2023-10-20T07:05:02.3375162+00:00"
 }

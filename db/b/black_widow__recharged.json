@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -161,9 +161,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18938,
+  "EOS_Progressed": 18939,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -14881,6 +14881,11 @@
       "Time": "2023-10-20T06:07:31.3017931+00:00",
       "NumProgressed": 18938,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-10-20T07:06:45.3889858+00:00",
+      "NumProgressed": 18939,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 14,
@@ -14916,7 +14921,7 @@
       "Name": "Danger Ahead",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 5113
+      "UsersEstimate": 5114
     },
     {
       "ID": "ACH_DONT_BRING_ME_DOWN",
@@ -14948,7 +14953,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 10037
+      "UsersEstimate": 10038
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -15003,15 +15008,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 18938,
+      "Progressed": 18939,
       "Completed": 56
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-10-11T19:57:53.043932+00:00",
-  "LastChanged_Achievements": "2023-10-20T06:07:31.3017922+00:00",
+  "LastChanged_Achievements": "2023-10-20T07:06:45.3889854+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:14.5085638+00:00",
-  "LastUpdate_Ratings": "2023-10-20T05:57:10.9334131+00:00",
-  "LastUpdate_Achievements": "2023-10-20T06:07:31.3019142+00:00"
+  "LastUpdate_Ratings": "2023-10-20T06:57:12.9366123+00:00",
+  "LastUpdate_Achievements": "2023-10-20T07:06:45.3890827+00:00"
 }

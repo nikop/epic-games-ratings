@@ -179,9 +179,9 @@
       "ID": "ACH_014",
       "SetID": "7b646ck",
       "Name": "Little grey cells",
-      "Percentage": 33,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_015",
@@ -243,9 +243,9 @@
       "ID": "ACH_021",
       "SetID": "7b646ck",
       "Name": "A curious gathering",
-      "Percentage": 38,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_022",
@@ -299,9 +299,9 @@
       "ID": "ACH_028",
       "SetID": "7b646ck",
       "Name": "Impossible is possible",
-      "Percentage": 33,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_029",
@@ -315,9 +315,9 @@
       "ID": "ACH_03",
       "SetID": "7b646ck",
       "Name": "The Missing Magdalene",
-      "Percentage": 33,
+      "Percentage": 38,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_030",
@@ -379,9 +379,9 @@
       "ID": "ACH_037",
       "SetID": "7b646ck",
       "Name": "Arthur Hastings",
-      "Percentage": 33,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_038",
@@ -514,8 +514,8 @@
   ],
   "FirstSeen": "2023-09-01T19:00:04.7737325+00:00",
   "FirstSeenAchievements": "2023-07-06T13:22:18.2956112+00:00",
-  "LastChanged_Achievements": "2023-10-20T06:05:58.3219111+00:00",
+  "LastChanged_Achievements": "2023-10-20T07:05:30.7525351+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:15.681281+00:00",
-  "LastUpdate_Ratings": "2023-10-20T06:01:30.2838161+00:00",
-  "LastUpdate_Achievements": "2023-10-20T06:05:58.3219749+00:00"
+  "LastUpdate_Ratings": "2023-10-20T07:03:05.9861546+00:00",
+  "LastUpdate_Achievements": "2023-10-20T07:05:30.7525754+00:00"
 }

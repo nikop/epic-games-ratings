@@ -1718,10 +1718,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 4796,
       "NumberOfAwardsMax": 567
+    },
+    {
+      "Time": "2023-10-20T06:58:16.0392634+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 4797,
+      "NumberOfAwardsMax": 567
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4796,
+  "NumberOfAwards": 4797,
   "NumberOfAwardsMax": 567,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1753,7 +1759,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 453
+      "Count": 454
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1792,9 +1798,9 @@
       "Count": 250
     }
   ],
-  "EOS_Progressed": 208767,
+  "EOS_Progressed": 208773,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 1223,
+  "EOS_NewPlayers": 1219,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -22567,6 +22573,11 @@
       "Time": "2023-10-20T06:04:16.5283376+00:00",
       "NumProgressed": 208767,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-10-20T07:04:07.3106456+00:00",
+      "NumProgressed": 208773,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 44,
@@ -22618,7 +22629,7 @@
       "Name": "Disguised",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 18789
+      "UsersEstimate": 18790
     },
     {
       "ID": "FiveShadows",
@@ -22650,7 +22661,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 25052
+      "UsersEstimate": 25053
     },
     {
       "ID": "HappyLittleAccidents",
@@ -22754,7 +22765,7 @@
       "Name": "Okkoto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 10438
+      "UsersEstimate": 10439
     },
     {
       "ID": "OldMan",
@@ -22778,7 +22789,7 @@
       "Name": "Prisoners",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 10438
+      "UsersEstimate": 10439
     },
     {
       "ID": "ReleaseTheKraken",
@@ -22794,7 +22805,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16701
+      "UsersEstimate": 16702
     },
     {
       "ID": "Rollin",
@@ -22802,7 +22813,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 18789
+      "UsersEstimate": 18790
     },
     {
       "ID": "StillRollin",
@@ -22834,7 +22845,7 @@
       "Name": "Tanuki Time",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16701
+      "UsersEstimate": 16702
     },
     {
       "ID": "TheCave",
@@ -22890,7 +22901,7 @@
       "Name": "Too Early",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 10438
+      "UsersEstimate": 10439
     },
     {
       "ID": "Warzone",
@@ -22929,15 +22940,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 208767,
+      "Progressed": 208773,
       "Completed": 91
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
-  "LastChanged": "2023-10-19T22:58:20.8780655+00:00",
-  "LastChanged_Achievements": "2023-10-20T06:04:16.528337+00:00",
+  "LastChanged": "2023-10-20T06:58:16.0392632+00:00",
+  "LastChanged_Achievements": "2023-10-20T07:04:07.3106451+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:42.5631083+00:00",
-  "LastUpdate_Ratings": "2023-10-20T05:58:30.8996747+00:00",
-  "LastUpdate_Achievements": "2023-10-20T06:04:16.5285136+00:00"
+  "LastUpdate_Ratings": "2023-10-20T06:58:16.0392637+00:00",
+  "LastUpdate_Achievements": "2023-10-20T07:04:07.3108153+00:00"
 }

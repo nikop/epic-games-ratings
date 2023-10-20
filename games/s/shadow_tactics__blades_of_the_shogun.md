@@ -6,13 +6,13 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~25,052 |
+| Genin | 12.00% | ~25,053 |
 | A thief's beginning | 10.00% | ~20,877 |
 | Thorough | 10.00% | ~20,877 |
-| Disguised | 9.00% | ~18,789 |
-| Rollin' | 9.00% | ~18,789 |
-| Rescue Takuma | 8.00% | ~16,701 |
-| Tanuki Time | 8.00% | ~16,701 |
+| Disguised | 9.00% | ~18,790 |
+| Rollin' | 9.00% | ~18,790 |
+| Rescue Takuma | 8.00% | ~16,702 |
+| Tanuki Time | 8.00% | ~16,702 |
 | Happy Planning | 7.00% | ~14,614 |
 | Ice Ice Yuki | 7.00% | ~14,614 |
 | Jonin | 7.00% | ~14,614 |
@@ -22,9 +22,9 @@ Number of Ratings: 495  (23.09.2022)
 | Flying Rocks | 6.00% | ~12,526 |
 | Mugen Unchained | 6.00% | ~12,526 |
 | Warzone | 6.00% | ~12,526 |
-| Okkoto | 5.00% | ~10,438 |
-| Prisoners | 5.00% | ~10,438 |
-| Too Early | 5.00% | ~10,438 |
+| Okkoto | 5.00% | ~10,439 |
+| Prisoners | 5.00% | ~10,439 |
+| Too Early | 5.00% | ~10,439 |
 | Gear up | 4.00% | ~8,351 |
 | Happy little accidents | 4.00% | ~8,351 |
 | Still Rollin' | 4.00% | ~8,351 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~209 |
 | Release the Kraken | 0.10% | ~209 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 208,767 (Ranked 65)  
+Progressed: 208,773 (Ranked 65)  
 Completed: 91 (0.04%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,10 +234,10 @@ Completed: 91 (0.04%) (Ranked 279)
 | 2023-10-17 | 208,416 | 91 |
 | 2023-10-18 | 208,553 | 91 |
 | 2023-10-19 | 208,723 | 91 |
-| 2023-10-20 | 208,767 | 91 |
+| 2023-10-20 | 208,773 | 91 |
 ## Awards
 Max (Great for Beginners): 567  (Ranked 196)  
-Sum: 4,796 (Ranked 138)  
+Sum: 4,797 (Ranked 138)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
@@ -249,7 +249,7 @@ Diff (max vs sum): 58
 | This game is Highly Recommended | 488 |
 | This game is Relaxing | 488 |
 | This game has Challenging Combat | 481 |
-| This game has Quickly Understood Controls | 453 |
+| This game has Quickly Understood Controls | 454 |
 | This game has a Creative Community | 250 |
 | This game has Unique Visuals | 20 |
 ## Ratings History
@@ -444,3 +444,4 @@ Diff (max vs sum): 58
 | 2023-10-14 | 4.67 | - | 567 | 4,790 |
 | 2023-10-18 | 4.67 | - | 567 | 4,793 |
 | 2023-10-19 | 4.67 | - | 567 | 4,796 |
+| 2023-10-20 | 4.67 | - | 567 | 4,797 |

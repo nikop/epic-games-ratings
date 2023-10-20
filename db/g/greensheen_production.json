@@ -82,9 +82,9 @@
       "ID": "BFF",
       "SetID": "aph8hbk",
       "Name": "In The Palm Of My Hand",
-      "Percentage": 55,
+      "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "BugSmash",
@@ -106,9 +106,9 @@
       "ID": "CallSix",
       "SetID": "aph8hbk",
       "Name": "Twenty-Six",
-      "Percentage": 45,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "CompleteHospital",
@@ -266,9 +266,9 @@
       "ID": "KidsWilderness",
       "SetID": "aph8hbk",
       "Name": "Wild Kids",
-      "Percentage": 45,
+      "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "MailMan",
@@ -368,8 +368,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-31T13:15:39.9572089+00:00",
-  "LastChanged_Achievements": "2023-10-20T06:04:09.897289+00:00",
+  "LastChanged_Achievements": "2023-10-20T07:04:02.3845521+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:13.194983+00:00",
-  "LastUpdate_Ratings": "2023-10-20T05:57:35.5833195+00:00",
-  "LastUpdate_Achievements": "2023-10-20T06:04:09.8973304+00:00"
+  "LastUpdate_Ratings": "2023-10-20T06:57:33.2772938+00:00",
+  "LastUpdate_Achievements": "2023-10-20T07:04:02.3845792+00:00"
 }

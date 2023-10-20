@@ -4,7 +4,7 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 46,
-  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewPlayers": 301,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -2022,9 +2022,9 @@
       "ID": "BeggarWomanCoin",
       "SetID": "db30heh",
       "Name": "Alms",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 25,
-      "UsersEstimate": 441
+      "UsersEstimate": 446
     },
     {
       "ID": "BeggarWomanFishGrilled",
@@ -2078,9 +2078,9 @@
       "ID": "Drunkard",
       "SetID": "db30heh",
       "Name": "Drunkard",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 139
+      "UsersEstimate": 144
     },
     {
       "ID": "DwarDevil",
@@ -2110,9 +2110,9 @@
       "ID": "FerrymanBird",
       "SetID": "db30heh",
       "Name": "Happy Reunion",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 332
+      "UsersEstimate": 337
     },
     {
       "ID": "HastrmanAcorn",
@@ -2126,9 +2126,9 @@
       "ID": "HastrmanAmanita",
       "SetID": "db30heh",
       "Name": "Tastes Funny",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 248
+      "UsersEstimate": 252
     },
     {
       "ID": "HastrmanHappy",
@@ -2230,9 +2230,9 @@
       "ID": "RogueChest",
       "SetID": "db30heh",
       "Name": "Treasure Chest",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 282
+      "UsersEstimate": 287
     },
     {
       "ID": "RogueEat",
@@ -2262,9 +2262,9 @@
       "ID": "RogueRum",
       "SetID": "db30heh",
       "Name": "In Good Spirits",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 396
+      "UsersEstimate": 401
     },
     {
       "ID": "SleepingBasiliskAmanita",
@@ -2325,8 +2325,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-10-20T06:04:39.6827106+00:00",
+  "LastChanged_Achievements": "2023-10-20T07:04:27.0747121+00:00",
   "LastUpdate_AppInfo": "2023-10-17T21:57:14.1155127+00:00",
-  "LastUpdate_Ratings": "2023-10-20T05:58:10.1918359+00:00",
-  "LastUpdate_Achievements": "2023-10-20T06:04:39.6827854+00:00"
+  "LastUpdate_Ratings": "2023-10-20T06:57:59.1405721+00:00",
+  "LastUpdate_Achievements": "2023-10-20T07:04:27.074761+00:00"
 }

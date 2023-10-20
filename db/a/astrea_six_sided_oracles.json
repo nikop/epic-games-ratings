@@ -337,9 +337,9 @@
       "ID": "AnomalyDestroyer",
       "SetID": "1jeo1g7",
       "Name": "Anomaly Destroyer",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "AnomalyMaster",
@@ -417,9 +417,9 @@
       "ID": "AstralAdventurer",
       "SetID": "1jeo1g7",
       "Name": "Astral Adventurer",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "AstralSeeker",
@@ -689,9 +689,9 @@
       "ID": "MindIlluminator",
       "SetID": "1jeo1g7",
       "Name": "Mind Illuminator",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "NoctuanChampionAchievement",
@@ -1089,9 +1089,9 @@
       "ID": "NoctuanChampion",
       "SetID": "1jeo1g7",
       "Name": "Noctuan Champion",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "NoctuanHero",
@@ -1120,8 +1120,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-10-20T06:07:38.3136187+00:00",
+  "LastChanged_Achievements": "2023-10-20T07:06:51.3418066+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:31.1237479+00:00",
-  "LastUpdate_Ratings": "2023-10-20T05:57:48.8677191+00:00",
-  "LastUpdate_Achievements": "2023-10-20T06:07:38.313755+00:00"
+  "LastUpdate_Ratings": "2023-10-20T06:57:43.4804679+00:00",
+  "LastUpdate_Achievements": "2023-10-20T07:06:51.3419383+00:00"
 }

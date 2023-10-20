@@ -1388,9 +1388,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 129883,
+  "EOS_Progressed": 129884,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 254,
+  "EOS_NewPlayers": 255,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -19573,6 +19573,11 @@
       "Time": "2023-10-20T05:04:12.734479+00:00",
       "NumProgressed": 129883,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-10-20T07:04:16.8759795+00:00",
+      "NumProgressed": 129884,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -19608,7 +19613,7 @@
       "Name": "The Opener Of The Eighth Seal",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3896
+      "UsersEstimate": 3897
     },
     {
       "ID": "ACH_COP_ART",
@@ -19632,7 +19637,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 11689
+      "UsersEstimate": 11690
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -19664,7 +19669,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36367
+      "UsersEstimate": 36368
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -19696,7 +19701,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 27275
+      "UsersEstimate": 27276
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -19808,7 +19813,7 @@
       "Name": "Bother Kim After Hours",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3896
+      "UsersEstimate": 3897
     },
     {
       "ID": "ACH_KIM_JACKET",
@@ -19903,15 +19908,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 129883,
+      "Progressed": 129884,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-10-19T18:57:03.7336531+00:00",
-  "LastChanged_Achievements": "2023-10-20T06:04:27.5604032+00:00",
+  "LastChanged_Achievements": "2023-10-20T07:04:16.875979+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:18.5281336+00:00",
-  "LastUpdate_Ratings": "2023-10-20T05:57:21.8914869+00:00",
-  "LastUpdate_Achievements": "2023-10-20T06:04:27.5605505+00:00"
+  "LastUpdate_Ratings": "2023-10-20T06:57:22.1439462+00:00",
+  "LastUpdate_Achievements": "2023-10-20T07:04:16.8761183+00:00"
 }

@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1870,
+  "EOS_Progressed": 1871,
   "EOS_Completed": 145,
   "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 4,
@@ -6647,6 +6647,11 @@
       "Time": "2023-10-20T06:07:09.1774312+00:00",
       "NumProgressed": 1870,
       "NumCompleted": 145
+    },
+    {
+      "Time": "2023-10-20T07:06:27.3654188+00:00",
+      "NumProgressed": 1871,
+      "NumCompleted": 145
     }
   ],
   "TotalAchievements": 5,
@@ -6658,7 +6663,7 @@
       "Name": "Welcome to the Jungle",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 1870
+      "UsersEstimate": 1871
     },
     {
       "ID": "2",
@@ -6666,7 +6671,7 @@
       "Name": "Jill the Bold",
       "Percentage": 12,
       "XP": 200,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "3",
@@ -6697,7 +6702,7 @@
     {
       "ID": "dg4cch5",
       "IsBase": true,
-      "Progressed": 1870,
+      "Progressed": 1871,
       "Completed": 145
     }
   ],
@@ -6705,8 +6710,8 @@
   "FirstSeenRating": "2023-04-27T14:58:11.4280155+00:00",
   "FirstSeenAchievements": "2023-04-26T15:59:54.0239456+00:00",
   "LastChanged": "2023-04-27T14:58:11.4280156+00:00",
-  "LastChanged_Achievements": "2023-10-20T06:07:09.1774303+00:00",
+  "LastChanged_Achievements": "2023-10-20T07:06:27.3654185+00:00",
   "LastUpdate_AppInfo": "2023-10-14T13:56:56.8994734+00:00",
-  "LastUpdate_Ratings": "2023-10-20T06:03:18.2099786+00:00",
-  "LastUpdate_Achievements": "2023-10-20T06:07:09.1774872+00:00"
+  "LastUpdate_Ratings": "2023-10-20T07:03:20.4280423+00:00",
+  "LastUpdate_Achievements": "2023-10-20T07:06:27.3654616+00:00"
 }

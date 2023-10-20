@@ -5553,9 +5553,9 @@
       "Count": 389
     }
   ],
-  "EOS_Progressed": 698785,
+  "EOS_Progressed": 698803,
   "EOS_Completed": 2237,
-  "EOS_NewPlayers": 3985,
+  "EOS_NewPlayers": 3991,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -26298,6 +26298,11 @@
       "Time": "2023-10-20T06:07:05.2385141+00:00",
       "NumProgressed": 698785,
       "NumCompleted": 2237
+    },
+    {
+      "Time": "2023-10-20T07:06:24.4464234+00:00",
+      "NumProgressed": 698803,
+      "NumCompleted": 2237
     }
   ],
   "TotalAchievements": 45,
@@ -26341,7 +26346,7 @@
       "Name": "Make it So",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4891
+      "UsersEstimate": 4892
     },
     {
       "ID": "ach_big_name_in_town",
@@ -26373,7 +26378,7 @@
       "Name": "Break A Leg",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 27951
+      "UsersEstimate": 27952
     },
     {
       "ID": "ach_contender",
@@ -26381,7 +26386,7 @@
       "Name": "On Safari",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 4891
+      "UsersEstimate": 4892
     },
     {
       "ID": "ach_defensive",
@@ -26469,7 +26474,7 @@
       "Name": "Hotel California",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 27951
+      "UsersEstimate": 27952
     },
     {
       "ID": "ach_impressive_aim",
@@ -26637,7 +26642,7 @@
       "Name": "Variety is the Spice of Death",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 4891
+      "UsersEstimate": 4892
     },
     {
       "ID": "ach_welcome_to_hell_a",
@@ -26645,7 +26650,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 27951
+      "UsersEstimate": 27952
     },
     {
       "ID": "ach_well_known_survivor",
@@ -26668,22 +26673,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 698785,
+      "Progressed": 698803,
       "Completed": 2237
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 24327,
-      "Completed": 24327
+      "Progressed": 24345,
+      "Completed": 24345
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-10-20T05:03:08.1601116+00:00",
-  "LastChanged_Achievements": "2023-10-20T06:07:05.2385132+00:00",
+  "LastChanged_Achievements": "2023-10-20T07:06:24.4464229+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:12.5060368+00:00",
-  "LastUpdate_Ratings": "2023-10-20T06:03:21.6793023+00:00",
-  "LastUpdate_Achievements": "2023-10-20T06:07:05.2386903+00:00"
+  "LastUpdate_Ratings": "2023-10-20T07:03:23.4118716+00:00",
+  "LastUpdate_Achievements": "2023-10-20T07:06:24.4465799+00:00"
 }

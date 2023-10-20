@@ -4,7 +4,7 @@
   "ProductSlug": "shadow-complex",
   "Ranking_EOS_Progress": 683,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewPlayers": 400,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2009-08-19T14:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:49.5662954+00:00",
   "LastChanged": "2023-03-31T05:57:49.5662955+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:41.9961252+00:00",
-  "LastUpdate_Ratings": "2023-10-20T06:00:32.7293146+00:00",
-  "LastUpdate_Achievements": "2023-10-20T06:04:12.2441005+00:00"
+  "LastUpdate_Ratings": "2023-10-20T06:59:50.91+00:00",
+  "LastUpdate_Achievements": "2023-10-20T07:04:04.3133703+00:00"
 }
