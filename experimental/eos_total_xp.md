@@ -377,6 +377,7 @@
 | [Learning Factory](../games/l/learning_factory.md) | 57 | 1,000 |
 | [LEGO® Star Wars™: The Skywalker Saga](../games/l/lego®_star_wars™__the_skywalker_saga.md) | 45 | 1,000 |
 | [Lemon Cake](../games/l/lemon_cake.md) | 17 | 1,000 |
+| [Lempo](../games/l/lempo.md) | 34 | 1,000 |
 | [Lichenvale](../games/l/lichenvale.md) | 11 | 1,000 |
 | [Life After Death](../games/l/life_after_death.md) | 60 | 1,000 |
 | [Life Changer](../games/f/f853934fb6874d8783701be12ba6b8b9.md) | 20 | 1,000 |

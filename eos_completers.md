@@ -3,8 +3,8 @@
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 66.67% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.58% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 47.02% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 46.68% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.85% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 46.66% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.17% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -35,7 +35,7 @@
 | 33 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.80% |
 | 34 | [Anna's Quest](games/a/anna's_quest.md) | 10.71% |
 | 35 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.53% |
-| 36 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.24% |
+| 36 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.21% |
 | 37 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 10.00% |
 | 37 | [Smelter](games/s/smelter.md) | 10.00% |
 | 39 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
@@ -78,7 +78,7 @@
 | 76 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
 | 77 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.78% |
 | 78 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.76% |
-| 79 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.64% |
+| 79 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.63% |
 | 80 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
 | 81 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 82 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
@@ -108,7 +108,7 @@
 | 106 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.40% |
 | 107 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.39% |
 | 108 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.28% |
-| 109 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.27% |
+| 109 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.26% |
 | 110 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.22% |
 | 111 | [Bloodshore](games/b/bloodshore.md) | 2.11% |
 | 112 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.97% |

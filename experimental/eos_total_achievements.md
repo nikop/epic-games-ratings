@@ -334,6 +334,7 @@
 | [Ghostrunner 2](../games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 34 | 1,000 |
 | [Grand Theft Auto: Vice City – The Definitive Edition](../games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 34 | 1,000 |
 | [Homeworld Remastered Collection](../games/4/4311a0ee99724086b1a4f261b827d038.md) | 34 | 1,000 |
+| [Lempo](../games/l/lempo.md) | 34 | 1,000 |
 | [Ragnarok Survivors Valhalla](../games/3/377c7afca797475bb73be258c94f82ea.md) | 34 | 1,000 |
 | [Redout: Enhanced Edition](../games/r/redout__enhanced_edition.md) | 34 | 1,000 |
 | [Roboplant](../games/r/roboplant.md) | 34 | 1,000 |
