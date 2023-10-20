@@ -5,9 +5,9 @@
   "Ranking_Rating": 151,
   "Ranking_Popularity": 538,
   "Ranking_PopularitySum": 538,
-  "Ranking_EOS_Progress": 254,
+  "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 86,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -107,9 +107,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 742,
+  "EOS_Progressed": 743,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.23,
   "EosHistory": [
@@ -2212,6 +2212,11 @@
       "Time": "2023-10-20T15:09:32.3440486+00:00",
       "NumProgressed": 742,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-10-20T16:09:31.923872+00:00",
+      "NumProgressed": 743,
+      "NumCompleted": 24
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2240,7 +2245,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -2256,15 +2261,15 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
       "SetID": "8a1io5d",
       "Name": "Mirror Mirror on the Wall",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 223
+      "UsersEstimate": 215
     },
     {
       "ID": "_07_FinishAct3",
@@ -2272,7 +2277,7 @@
       "Name": "All Good Things",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "_08_Completion_10",
@@ -2294,9 +2299,9 @@
       "ID": "_10_Completion_30",
       "SetID": "8a1io5d",
       "Name": "Buccaneer",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 186
+      "UsersEstimate": 178
     },
     {
       "ID": "_11_Completion_40",
@@ -2344,7 +2349,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -2352,7 +2357,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -2431,7 +2436,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 742,
+      "Progressed": 743,
       "Completed": 24
     }
   ],
@@ -2439,8 +2444,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-10-20T14:00:07.0626358+00:00",
-  "LastChanged_Achievements": "2023-10-20T15:09:32.3440481+00:00",
+  "LastChanged_Achievements": "2023-10-20T16:09:31.9238712+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:48.0426096+00:00",
-  "LastUpdate_Ratings": "2023-10-20T14:59:55.9588648+00:00",
-  "LastUpdate_Achievements": "2023-10-20T15:09:32.3440744+00:00"
+  "LastUpdate_Ratings": "2023-10-20T15:59:44.8002554+00:00",
+  "LastUpdate_Achievements": "2023-10-20T16:09:31.9239067+00:00"
 }

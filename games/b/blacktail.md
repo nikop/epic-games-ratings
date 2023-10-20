@@ -26,19 +26,19 @@ Rating: 4.68 (Ranked 241)
 | Favorite | 4.00% | ~28 |
 | Specialist | 4.00% | ~28 |
 | Goal! | 3.00% | ~21 |
+| Gnowlledgeable | 3.00% | ~21 |
 | Both sides | 3.00% | ~21 |
 | Always worth a try | 3.00% | ~21 |
 | Toxic | 3.00% | ~21 |
 | Entangled | 3.00% | ~21 |
 | Witch's cookbook | 3.00% | ~21 |
 | Bad apple | 2.00% | ~14 |
-| Gnowlledgeable | 2.00% | ~14 |
 | Loremaster | 1.00% | ~7 |
 | Awards unwarded | 1.00% | ~7 |
 | Mushrooming enthusiast | 0.70% | ~5 |
 | Apex predator | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 709 (Ranked 256)  
+Progressed: 709 (Ranked 257)  
 Completed: 1 (0.14%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |

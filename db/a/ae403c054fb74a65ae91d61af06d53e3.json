@@ -2,7 +2,7 @@
   "ID": "ae403c054fb74a65ae91d61af06d53e3",
   "Name": "Super Adventure Hand",
   "ProductSlug": "super-adventure-hand-62ec9a",
-  "Ranking_EOS_Progress": 543,
+  "Ranking_EOS_Progress": 544,
   "Ranking_EOS_Completed": 14,
   "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 105,
@@ -169,9 +169,9 @@
       "ID": "ach_stun_feet",
       "SetID": "8787m1a",
       "Name": "Take That!",
-      "Percentage": 33,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_thimble_apprentice",
@@ -216,8 +216,8 @@
   ],
   "FirstSeen": "2023-09-24T13:57:59.4774682+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.9964559+00:00",
-  "LastChanged_Achievements": "2023-10-20T15:09:20.7625138+00:00",
+  "LastChanged_Achievements": "2023-10-20T16:09:21.2048888+00:00",
   "LastUpdate_AppInfo": "2023-10-18T03:56:57.1987497+00:00",
-  "LastUpdate_Ratings": "2023-10-20T15:01:53.9917137+00:00",
-  "LastUpdate_Achievements": "2023-10-20T15:09:20.7625247+00:00"
+  "LastUpdate_Ratings": "2023-10-20T16:01:37.2484994+00:00",
+  "LastUpdate_Achievements": "2023-10-20T16:09:21.2049027+00:00"
 }

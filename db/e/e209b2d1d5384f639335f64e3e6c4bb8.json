@@ -213,9 +213,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 311055,
+  "EOS_Progressed": 311095,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3604,
+  "EOS_NewPlayers": 3613,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7113,6 +7113,11 @@
       "Time": "2023-10-20T15:09:44.0315171+00:00",
       "NumProgressed": 311055,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-20T16:09:42.3251348+00:00",
+      "NumProgressed": 311095,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-03T18:03:11.7010747+00:00",
@@ -7125,7 +7130,7 @@
       "Name": "Expedition complete - Easy",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 2177
+      "UsersEstimate": 2178
     },
     {
       "ID": "ACHV_CAMPAIGN_HARD",
@@ -7149,7 +7154,7 @@
       "Name": "Epsilon Base",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 136864
+      "UsersEstimate": 136882
     },
     {
       "ID": "ACHV_M02_COMPLETE",
@@ -7157,7 +7162,7 @@
       "Name": "The Boneyard",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 99538
+      "UsersEstimate": 99550
     },
     {
       "ID": "ACHV_M03_COMPLETE",
@@ -7165,7 +7170,7 @@
       "Name": "Cape Wrath",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 65322
+      "UsersEstimate": 65330
     },
     {
       "ID": "ACHV_M04_COMPLETE",
@@ -7173,7 +7178,7 @@
       "Name": "Kalash Site",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 46658
+      "UsersEstimate": 46664
     },
     {
       "ID": "ACHV_M05_COMPLETE",
@@ -7181,7 +7186,7 @@
       "Name": "Kalash Wreck",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 37327
+      "UsersEstimate": 37331
     },
     {
       "ID": "ACHV_M06_COMPLETE",
@@ -7189,7 +7194,7 @@
       "Name": "Beladin Dune Sea",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 31106
+      "UsersEstimate": 31110
     },
     {
       "ID": "ACHV_M07_COMPLETE",
@@ -7197,7 +7202,7 @@
       "Name": "Gaalsien Base",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 27995
+      "UsersEstimate": 27999
     },
     {
       "ID": "ACHV_M08_COMPLETE",
@@ -7205,7 +7210,7 @@
       "Name": "Tombs of the Ancients",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 24884
+      "UsersEstimate": 24888
     },
     {
       "ID": "ACHV_M09_COMPLETE",
@@ -7213,7 +7218,7 @@
       "Name": "The Whispering Gallery",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 24884
+      "UsersEstimate": 24888
     },
     {
       "ID": "ACHV_M10_COMPLETE",
@@ -7221,7 +7226,7 @@
       "Name": "Khashar Approach",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 21774
+      "UsersEstimate": 21777
     },
     {
       "ID": "ACHV_M11_COMPLETE",
@@ -7229,7 +7234,7 @@
       "Name": "Khashar Plateau",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 21774
+      "UsersEstimate": 21777
     },
     {
       "ID": "ACHV_M12_COMPLETE",
@@ -7237,7 +7242,7 @@
       "Name": "Torin Crater",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 21774
+      "UsersEstimate": 21777
     },
     {
       "ID": "ACHV_M13_COMPLETE",
@@ -7245,7 +7250,7 @@
       "Name": "Khar-Toba Site",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 18663
+      "UsersEstimate": 18666
     },
     {
       "ID": "ACHV_MP_1V1_TIER_LV_1",
@@ -7501,20 +7506,20 @@
       "Name": "Campaign Tutorial",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 158638
+      "UsersEstimate": 158658
     }
   ],
   "AchievementSets": [
     {
       "ID": "2l5j4fd",
       "IsBase": true,
-      "Progressed": 311055,
+      "Progressed": 311095,
       "Completed": 0
     },
     {
       "ID": "a9dj9gi",
       "IsBase": false,
-      "Progressed": 311044,
+      "Progressed": 311084,
       "Completed": 0
     }
   ],
@@ -7522,8 +7527,8 @@
   "FirstSeenRating": "2023-08-25T17:58:52.6937375+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5079141+00:00",
   "LastChanged": "2023-10-13T07:59:04.9040591+00:00",
-  "LastChanged_Achievements": "2023-10-20T15:09:44.0315166+00:00",
+  "LastChanged_Achievements": "2023-10-20T16:09:42.3251343+00:00",
   "LastUpdate_AppInfo": "2023-10-19T20:57:12.4678185+00:00",
-  "LastUpdate_Ratings": "2023-10-20T14:57:42.3808629+00:00",
-  "LastUpdate_Achievements": "2023-10-20T15:09:44.0315794+00:00"
+  "LastUpdate_Ratings": "2023-10-20T15:57:50.055215+00:00",
+  "LastUpdate_Achievements": "2023-10-20T16:09:42.3252163+00:00"
 }

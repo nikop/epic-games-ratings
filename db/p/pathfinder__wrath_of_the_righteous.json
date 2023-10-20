@@ -3959,9 +3959,9 @@
       "Count": 389
     }
   ],
-  "EOS_Progressed": 11623,
+  "EOS_Progressed": 11624,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13859,6 +13859,11 @@
       "Time": "2023-10-20T15:10:09.5772309+00:00",
       "NumProgressed": 11623,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-20T16:10:06.3873158+00:00",
+      "NumProgressed": 11624,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -14118,7 +14123,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1743
+      "UsersEstimate": 1744
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -14797,21 +14802,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10405,
+      "Progressed": 10406,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11623,
+      "Progressed": 11624,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-10-19T21:58:16.2788454+00:00",
-  "LastChanged_Achievements": "2023-10-20T15:10:09.5772305+00:00",
+  "LastChanged_Achievements": "2023-10-20T16:10:06.3873153+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:48.4782392+00:00",
-  "LastUpdate_Ratings": "2023-10-20T14:59:21.4956435+00:00",
-  "LastUpdate_Achievements": "2023-10-20T15:10:09.5774174+00:00"
+  "LastUpdate_Ratings": "2023-10-20T15:59:15.3196422+00:00",
+  "LastUpdate_Achievements": "2023-10-20T16:10:06.3877141+00:00"
 }

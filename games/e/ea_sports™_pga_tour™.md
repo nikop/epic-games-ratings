@@ -16,7 +16,7 @@
 | The Strongest Field in Golf | 35.00% | ~144 |
 | Ace in the Hole | 34.00% | ~140 |
 | From Many, One | 30.00% | ~124 |
-| A Passion for Excellence | 27.00% | ~111 |
+| A Passion for Excellence | 28.00% | ~115 |
 | Golf's Original Championship | 27.00% | ~111 |
 | A Tradition Unlike Any Other | 26.00% | ~107 |
 | The Ultimate Prize | 20.00% | ~82 |

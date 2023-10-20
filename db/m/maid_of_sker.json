@@ -2,9 +2,9 @@
   "ID": "89a30c2a3fdb4281b5df57350e797ca9",
   "Name": "Maid of Sker",
   "ProductSlug": "maid-of-sker-2ae24e",
-  "Ranking_EOS_Progress": 350,
+  "Ranking_EOS_Progress": 348,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewPlayers": 286,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 187,
+  "EOS_Progressed": 188,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -330,6 +330,11 @@
       "Time": "2023-10-20T13:10:22.1072835+00:00",
       "NumProgressed": 187,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-20T16:05:04.6080269+00:00",
+      "NumProgressed": 188,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -381,7 +386,7 @@
       "Name": "Choking Hazard",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "dodgy_geezer",
@@ -547,9 +552,9 @@
       "ID": "smooth_operator",
       "SetID": "3j2phem",
       "Name": "Smooth Operator",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 32
+      "UsersEstimate": 30
     },
     {
       "ID": "the_long_night",
@@ -580,7 +585,7 @@
     {
       "ID": "3j2phem",
       "IsBase": true,
-      "Progressed": 187,
+      "Progressed": 188,
       "Completed": 0
     }
   ],
@@ -588,8 +593,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2023-10-20T15:05:13.5432849+00:00",
+  "LastChanged_Achievements": "2023-10-20T16:05:04.6080263+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:10.0976641+00:00",
-  "LastUpdate_Ratings": "2023-10-20T15:00:43.8364518+00:00",
-  "LastUpdate_Achievements": "2023-10-20T15:05:13.5433059+00:00"
+  "LastUpdate_Ratings": "2023-10-20T16:00:33.5896748+00:00",
+  "LastUpdate_Achievements": "2023-10-20T16:05:04.6080493+00:00"
 }

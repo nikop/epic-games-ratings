@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -1659,449 +1659,449 @@
       "ID": "achievement_10DifferentThemeLimbs",
       "SetID": "95dc8p",
       "Name": "We Emerge Changed",
-      "Percentage": 4,
+      "Percentage": 0,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 0
     },
     {
       "ID": "achievement_150Calamities",
       "SetID": "95dc8p",
       "Name": "Overwhelming Monstrosity",
-      "Percentage": 0.8,
+      "Percentage": 0,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 0
     },
     {
       "ID": "achievement_1petReceived",
       "SetID": "95dc8p",
       "Name": "Me and My Familiar",
-      "Percentage": 38,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 544
+      "UsersEstimate": 0
     },
     {
       "ID": "achievement_3hookQuestsResolved",
       "SetID": "95dc8p",
       "Name": "Storied Past",
-      "Percentage": 4,
+      "Percentage": 0,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 0
     },
     {
       "ID": "achievement_5petsReceived",
       "SetID": "95dc8p",
       "Name": "A Mythic Menagerie",
-      "Percentage": 14,
+      "Percentage": 0,
       "XP": 20,
-      "UsersEstimate": 200
+      "UsersEstimate": 0
     },
     {
       "ID": "achievement_beatAllStoryCampaigns",
       "SetID": "95dc8p",
       "Name": "Worldwalker",
-      "Percentage": 4,
+      "Percentage": 0,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 0
     },
     {
       "ID": "achievement_beatGameOnIronmanMode",
       "SetID": "95dc8p",
       "Name": "Let Me Get My Chisel",
-      "Percentage": 7,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 0
     },
     {
       "ID": "achievement_beatGameOnWalkingLunch",
       "SetID": "95dc8p",
       "Name": "A Lowly Crust of Beef",
-      "Percentage": 1,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 0
     },
     {
       "ID": "achievement_catchAllElementalSpiritTypes",
       "SetID": "95dc8p",
       "Name": "Gotta Ca... Must Collect All of Them",
-      "Percentage": 27,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 386
+      "UsersEstimate": 0
     },
     {
       "ID": "achievement_endTurnInGrayplane5Times",
       "SetID": "95dc8p",
       "Name": "Passing Shadow",
-      "Percentage": 31,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 444
+      "UsersEstimate": 0
     },
     {
       "ID": "achievement_friendsBlock20Times",
       "SetID": "95dc8p",
       "Name": "The Power of Friendship",
-      "Percentage": 3,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 0
     },
     {
       "ID": "achievement_fullTransformation",
       "SetID": "95dc8p",
       "Name": "Completing the Look",
-      "Percentage": 15,
+      "Percentage": 0,
       "XP": 20,
-      "UsersEstimate": 215
+      "UsersEstimate": 0
     },
     {
       "ID": "achievement_kill1000Cultists",
       "SetID": "95dc8p",
       "Name": "Empty the Caves",
-      "Percentage": 3,
+      "Percentage": 0,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 0
     },
     {
       "ID": "achievement_kill1000Drauven",
       "SetID": "95dc8p",
       "Name": "Drauvenslayers",
-      "Percentage": 2,
+      "Percentage": 0,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 0
     },
     {
       "ID": "achievement_kill1000Gorgons",
       "SetID": "95dc8p",
       "Name": "Back into the Sea",
-      "Percentage": 2,
+      "Percentage": 0,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 0
     },
     {
       "ID": "achievement_kill1000Monsters",
       "SetID": "95dc8p",
       "Name": "Peacemaker",
-      "Percentage": 0.7,
+      "Percentage": 0,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 0
     },
     {
       "ID": "achievement_kill1000Morthagi",
       "SetID": "95dc8p",
       "Name": "Bonebreakers",
-      "Percentage": 3,
+      "Percentage": 0,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 0
     },
     {
       "ID": "achievement_kill1000Thrixl",
       "SetID": "95dc8p",
       "Name": "No More Nightmares",
-      "Percentage": 4,
+      "Percentage": 0,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 0
     },
     {
       "ID": "achievement_kill100Monsters",
       "SetID": "95dc8p",
       "Name": "Who\u0027s Counting?",
-      "Percentage": 14,
+      "Percentage": 0,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 0
     },
     {
       "ID": "achievement_kill3EnemiesWithPoisonInOneTurn",
       "SetID": "95dc8p",
       "Name": "Plague Doctor",
-      "Percentage": 8,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 0
     },
     {
       "ID": "achievement_loseBattle",
       "SetID": "95dc8p",
       "Name": "This Too Shall Pass",
-      "Percentage": 33,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 472
+      "UsersEstimate": 0
     },
     {
       "ID": "achievement_loversVengeance10Kills",
       "SetID": "95dc8p",
       "Name": "How Romantic!",
-      "Percentage": 29,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 415
+      "UsersEstimate": 0
     },
     {
       "ID": "achievement_maimedHero",
       "SetID": "95dc8p",
       "Name": "The Cost of Heroism",
-      "Percentage": 42,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 601
+      "UsersEstimate": 0
     },
     {
       "ID": "achievement_mythwalker",
       "SetID": "95dc8p",
       "Name": "Legends Never Die",
-      "Percentage": 6,
+      "Percentage": 0,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 0
     },
     {
       "ID": "achievement_rivalStuntAbility5Times",
       "SetID": "95dc8p",
       "Name": "Cutthroat Competitors",
-      "Percentage": 31,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 444
+      "UsersEstimate": 0
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
       "SetID": "95dc8p",
       "Name": "Thematic Divergence",
-      "Percentage": 10,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 0
     },
     {
       "ID": "achievement_use3ReactionStrikesInOneTurn",
       "SetID": "95dc8p",
       "Name": "Chain Reaction",
-      "Percentage": 9,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 0
     },
     {
       "ID": "achievement_victoryAfterLosingThreeHeroesInBattle",
       "SetID": "95dc8p",
       "Name": "Pyrrhic Victory",
-      "Percentage": 12,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 0
     },
     {
       "ID": "completedStory_cvawn",
       "SetID": "95dc8p",
       "Name": "In Soil, In Smoke",
-      "Percentage": 5,
+      "Percentage": 0,
       "XP": 50,
-      "UsersEstimate": 72
+      "UsersEstimate": 0
     },
     {
       "ID": "completedStory_ecthis",
       "SetID": "95dc8p",
       "Name": "Everfading",
-      "Percentage": 8,
+      "Percentage": 0,
       "XP": 50,
-      "UsersEstimate": 114
+      "UsersEstimate": 0
     },
     {
       "ID": "completedStory_enduringWar",
       "SetID": "95dc8p",
       "Name": "War Endured",
-      "Percentage": 15,
+      "Percentage": 0,
       "XP": 50,
-      "UsersEstimate": 215
+      "UsersEstimate": 0
     },
     {
       "ID": "completedStory_legacy",
       "SetID": "95dc8p",
       "Name": "Another Tale to Tell",
-      "Percentage": 8,
+      "Percentage": 0,
       "XP": 25,
-      "UsersEstimate": 114
+      "UsersEstimate": 0
     },
     {
       "ID": "completedStory_monarchs",
       "SetID": "95dc8p",
       "Name": "Echoes Die",
-      "Percentage": 10,
+      "Percentage": 0,
       "XP": 50,
-      "UsersEstimate": 143
+      "UsersEstimate": 0
     },
     {
       "ID": "completedStory_procedural",
       "SetID": "95dc8p",
       "Name": "A Story of Heroes",
-      "Percentage": 8,
+      "Percentage": 0,
       "XP": 25,
-      "UsersEstimate": 114
+      "UsersEstimate": 0
     },
     {
       "ID": "completedStory_ulstryx",
       "SetID": "95dc8p",
       "Name": "Daybreak",
-      "Percentage": 29,
+      "Percentage": 0,
       "XP": 50,
-      "UsersEstimate": 415
+      "UsersEstimate": 0
     },
     {
       "ID": "completedStory_vultureLord",
       "SetID": "95dc8p",
       "Name": "A Hunger, Sated",
-      "Percentage": 5,
+      "Percentage": 0,
       "XP": 50,
-      "UsersEstimate": 72
+      "UsersEstimate": 0
     },
     {
       "ID": "cvawn_allDrauvenSurvivedMission",
       "SetID": "95dc8p",
       "Name": "Wingknight\u0027s Prowess",
-      "Percentage": 6,
+      "Percentage": 0,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 0
     },
     {
       "ID": "ecthis_all5PlotCharacters",
       "SetID": "95dc8p",
       "Name": "All My Birds, Safely Home",
-      "Percentage": 6,
+      "Percentage": 0,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 0
     },
     {
       "ID": "enduringWar_destroyCores",
       "SetID": "95dc8p",
       "Name": "Core Failure",
-      "Percentage": 14,
+      "Percentage": 0,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 0
     },
     {
       "ID": "enduringWar_destroyEnduring",
       "SetID": "95dc8p",
       "Name": "War-Ender",
-      "Percentage": 2,
+      "Percentage": 0,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 0
     },
     {
       "ID": "monarchs_acceptDeepkingsOffer",
       "SetID": "95dc8p",
       "Name": "Turncoat",
-      "Percentage": 6,
+      "Percentage": 0,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 0
     },
     {
       "ID": "theme_bear_kill2EnemiesSimultaneously",
       "SetID": "95dc8p",
       "Name": "Bears are Scary",
-      "Percentage": 3,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 0
     },
     {
       "ID": "theme_crow_blind20Enemies",
       "SetID": "95dc8p",
       "Name": "Fight Like a Bird",
-      "Percentage": 2,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 0
     },
     {
       "ID": "theme_fire_hit5EnemiesAtOnce",
       "SetID": "95dc8p",
       "Name": "Grillmaster",
-      "Percentage": 4,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 0
     },
     {
       "ID": "theme_foothill_takeNoDamage20Times",
       "SetID": "95dc8p",
       "Name": "Solid as the Hills",
-      "Percentage": 2,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 0
     },
     {
       "ID": "theme_gem_stunt100Times",
       "SetID": "95dc8p",
       "Name": "Some Say I\u0027m Too Flashy",
-      "Percentage": 3,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 0
     },
     {
       "ID": "theme_green_kill3Enemies",
       "SetID": "95dc8p",
       "Name": "Into Mulch",
-      "Percentage": 3,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 0
     },
     {
       "ID": "theme_morthagi_killWithBoltAndHammer",
       "SetID": "95dc8p",
       "Name": "We Call That Mortificient!",
-      "Percentage": 0.9,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 0
     },
     {
       "ID": "theme_shadow_heal30",
       "SetID": "95dc8p",
       "Name": "Symbiosis",
-      "Percentage": 2,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 0
     },
     {
       "ID": "theme_skeleton_terrify10Enemies",
       "SetID": "95dc8p",
       "Name": "I\u0027m Not Smiling",
-      "Percentage": 2,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 0
     },
     {
       "ID": "theme_star_kill20EnemiesWithFallingStars",
       "SetID": "95dc8p",
       "Name": "Astrology",
-      "Percentage": 3,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 0
     },
     {
       "ID": "theme_storm_kill3Enemies",
       "SetID": "95dc8p",
       "Name": "Tempest",
-      "Percentage": 3,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 0
     },
     {
       "ID": "theme_tree_knockback50Tiles",
       "SetID": "95dc8p",
       "Name": "Thwack!",
-      "Percentage": 2,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 0
     },
     {
       "ID": "theme_vine_poison50Enemies",
       "SetID": "95dc8p",
       "Name": "A Temperamental Shrub",
-      "Percentage": 2,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 0
     },
     {
       "ID": "theme_wolf_killEveryEnemyType",
       "SetID": "95dc8p",
       "Name": "Lochias\u0027s Hunger",
-      "Percentage": 4,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 0
     },
     {
       "ID": "ulstryx_killCalabyneInOneTurn",
       "SetID": "95dc8p",
       "Name": "No Time for Clawmonsters",
-      "Percentage": 4,
+      "Percentage": 0,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 0
     }
   ],
   "AchievementSets": [
@@ -2115,8 +2115,8 @@
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-09-16T17:00:08.5779719+00:00",
-  "LastChanged_Achievements": "2023-10-20T15:06:44.1351917+00:00",
+  "LastChanged_Achievements": "2023-10-20T16:06:27.4984982+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:14.4249097+00:00",
-  "LastUpdate_Ratings": "2023-10-20T15:01:21.4160277+00:00",
-  "LastUpdate_Achievements": "2023-10-20T15:06:44.1352376+00:00"
+  "LastUpdate_Ratings": "2023-10-20T16:01:04.2155238+00:00",
+  "LastUpdate_Achievements": "2023-10-20T16:06:27.4985611+00:00"
 }

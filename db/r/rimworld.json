@@ -4,8 +4,8 @@
   "ProductSlug": "rimworld",
   "Ranking_Rating": 10,
   "Ranking_Popularity": 211,
-  "Ranking_PopularitySum": 150,
-  "Ranking_EOS_Progress": 685,
+  "Ranking_PopularitySum": 151,
+  "Ranking_EOS_Progress": 686,
   "Ranking_EOS_Completed": 317,
   "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 105,
@@ -2594,6 +2594,6 @@
   "FirstSeen": "2022-07-22T20:18:32.0105732+00:00",
   "LastChanged": "2023-10-19T14:58:27.0412142+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:54.8212753+00:00",
-  "LastUpdate_Ratings": "2023-10-20T14:59:28.6823999+00:00",
-  "LastUpdate_Achievements": "2023-10-20T15:08:30.5042873+00:00"
+  "LastUpdate_Ratings": "2023-10-20T15:59:21.3148765+00:00",
+  "LastUpdate_Achievements": "2023-10-20T16:08:15.3711423+00:00"
 }

@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alone with Them | 74.00% | ~178 |
-| Forced to Kill | 70.00% | ~168 |
+| Alone with Them | 73.00% | ~176 |
+| Forced to Kill | 70.00% | ~169 |
 | A Night To Remember | 40.00% | ~96 |
-| Safe...For now? | 33.00% | ~79 |
-| Open Sesame | 28.00% | ~67 |
-| What have I done!? | 18.00% | ~43 |
+| Safe...For now? | 33.00% | ~80 |
+| Open Sesame | 27.00% | ~65 |
 | Them and Us | 17.00% | ~41 |
 | OUTRAGE | 17.00% | ~41 |
+| What have I done!? | 17.00% | ~41 |
 | This Coffin Has Your Name On It! | 14.00% | ~34 |
 | Alone In The Dark | 13.00% | ~31 |
-| Parasite Exterminated | 13.00% | ~31 |
 | The Cultists | 13.00% | ~31 |
+| Parasite Exterminated | 12.00% | ~29 |
 | The Forgotten Tower | 12.00% | ~29 |
 | Lover of classics | 10.00% | ~24 |
 | Trapped | 10.00% | ~24 |
@@ -27,10 +27,10 @@
 | I Am The Gate Keeper! | 6.00% | ~14 |
 | This Mansion Is Clean | 4.00% | ~10 |
 | Armed To The Teeth | 3.00% | ~7 |
-| Run and Gun | 3.00% | ~7 |
 | The bus stop | 3.00% | ~7 |
 | Back In Time | 2.00% | ~5 |
 | Spiritual essence well spent | 2.00% | ~5 |
+| Run and Gun | 2.00% | ~5 |
 | Pet The Dog | 2.00% | ~5 |
 | The 5th Element | 2.00% | ~5 |
 | Retro Player | 1.00% | ~2 |
@@ -45,8 +45,8 @@
 | No Time To Relax | 0.40% | ~1 |
 | Survival Horror | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240 (Ranked 335)  
-Completed: 1 (0.42%) (Ranked 188)  
+Progressed: 241 (Ranked 334)  
+Completed: 1 (0.41%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -116,7 +116,7 @@ Completed: 1 (0.42%) (Ranked 188)
 | 2023-10-16 | 219 | 1 |
 | 2023-10-18 | 221 | 1 |
 | 2023-10-19 | 234 | 1 |
-| 2023-10-20 | 240 | 1 |
+| 2023-10-20 | 241 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

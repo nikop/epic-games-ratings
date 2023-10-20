@@ -2,7 +2,7 @@
   "ID": "59ab39c876754ffc9b5732cff9dfb47d",
   "Name": "Velo",
   "ProductSlug": "velo-6271f1",
-  "Ranking_EOS_Progress": 685,
+  "Ranking_EOS_Progress": 686,
   "Ranking_EOS_Completed": 317,
   "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 105,
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-14T15:59:09.942673+00:00",
-  "LastUpdate_Ratings": "2023-10-20T14:58:37.3977445+00:00",
-  "LastUpdate_Achievements": "2023-10-20T15:08:11.9945953+00:00"
+  "LastUpdate_Ratings": "2023-10-20T15:58:34.7355113+00:00",
+  "LastUpdate_Achievements": "2023-10-20T16:07:58.4716786+00:00"
 }

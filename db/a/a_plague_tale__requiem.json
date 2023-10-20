@@ -10384,9 +10384,9 @@
       "ID": "ACH_32",
       "SetID": "9d4cf4c",
       "Name": "Perfect shot",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 2986
+      "UsersEstimate": 3122
     },
     {
       "ID": "ACH_33",
@@ -10425,8 +10425,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-10-19T21:01:27.400524+00:00",
-  "LastChanged_Achievements": "2023-10-20T15:07:24.032755+00:00",
+  "LastChanged_Achievements": "2023-10-20T16:07:15.6767472+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:04.2648355+00:00",
-  "LastUpdate_Ratings": "2023-10-20T14:57:02.4806753+00:00",
-  "LastUpdate_Achievements": "2023-10-20T15:07:24.0328281+00:00"
+  "LastUpdate_Ratings": "2023-10-20T15:57:17.3877513+00:00",
+  "LastUpdate_Achievements": "2023-10-20T16:07:15.6768492+00:00"
 }

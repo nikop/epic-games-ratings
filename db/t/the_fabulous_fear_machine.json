@@ -2,7 +2,7 @@
   "ID": "599554e2ea49491bb9ca088a43fec83a",
   "Name": "The Fabulous Fear Machine",
   "ProductSlug": "the-fabulous-fear-machine-8e7c6b",
-  "Ranking_EOS_Progress": 477,
+  "Ranking_EOS_Progress": 478,
   "Ranking_EOS_Completed": 317,
   "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 105,
@@ -235,9 +235,9 @@
       "ID": "16",
       "SetID": "d37idgg",
       "Name": "Bread and bocaua",
-      "Percentage": 17,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "17",
@@ -475,9 +475,9 @@
       "ID": "43",
       "SetID": "d37idgg",
       "Name": "ECO mode",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "44",
@@ -507,9 +507,9 @@
       "ID": "47",
       "SetID": "d37idgg",
       "Name": "A new Hindenburg",
-      "Percentage": 3,
+      "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "5",
@@ -562,8 +562,8 @@
   ],
   "FirstSeen": "2023-10-04T21:00:27.0019409+00:00",
   "FirstSeenAchievements": "2023-09-01T11:02:14.7440084+00:00",
-  "LastChanged_Achievements": "2023-10-20T15:09:06.3437389+00:00",
+  "LastChanged_Achievements": "2023-10-20T16:09:07.8974491+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:37.1787046+00:00",
-  "LastUpdate_Ratings": "2023-10-20T14:59:03.7847927+00:00",
-  "LastUpdate_Achievements": "2023-10-20T15:09:06.3437741+00:00"
+  "LastUpdate_Ratings": "2023-10-20T15:58:58.6301334+00:00",
+  "LastUpdate_Achievements": "2023-10-20T16:09:07.8974921+00:00"
 }

@@ -15,6 +15,7 @@ Rating: 4.57 (Ranked 459)
 | Ferocious wild boars | 100.00% | ~2 |
 | Beast slayer | 100.00% | ~2 |
 | Samaritan | 100.00% | ~2 |
+| Ogre friend | 100.00% | ~2 |
 | The fourth triplet | 100.00% | ~2 |
 | Idiot | 100.00% | ~2 |
 | Well-to-do | 100.00% | ~2 |
@@ -35,7 +36,6 @@ Rating: 4.57 (Ranked 459)
 | Titan Lord | 50.00% | ~1 |
 | Terror of the hens | 50.00% | ~1 |
 | Big game hunter | 50.00% | ~1 |
-| Ogre friend | 50.00% | ~1 |
 | Hard worker | 50.00% | ~1 |
 | Workaholic | 50.00% | ~1 |
 | Peacekeeper | 50.00% | ~1 |
@@ -56,7 +56,7 @@ Rating: 4.57 (Ranked 459)
 | Moneybags | 0.00% | ~0 |
 | King Midas | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2 (Ranked 602)  
+Progressed: 2 (Ranked 603)  
 Completed: 0 (0.00%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |

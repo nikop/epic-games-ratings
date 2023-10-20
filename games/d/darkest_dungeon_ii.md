@@ -6,47 +6,47 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~112,512 |
-| Don't Make Me Turn This Coach Around | 71.00% | ~85,897 |
-| A Clear Conscience | 69.00% | ~83,477 |
-| Unleash Hell | 68.00% | ~82,267 |
-| Unfulfilled Desires | 68.00% | ~82,267 |
-| Funny Guy | 67.00% | ~81,057 |
-| Unshackled | 67.00% | ~81,057 |
-| Long Live the King | 66.00% | ~79,847 |
-| Resurrection | 62.00% | ~75,008 |
-| Wyrdly Reconstructed | 62.00% | ~75,008 |
-| Boxcar Kid | 60.00% | ~72,589 |
-| Rush Hour | 60.00% | ~72,589 |
-| To Grandmother's House | 60.00% | ~72,589 |
-| Serenity Now! | 54.00% | ~65,330 |
-| Hope Rekindled | 50.00% | ~60,490 |
-| Ramble On | 49.00% | ~59,281 |
-| Nope | 49.00% | ~59,281 |
-| This Looks Familiar | 38.00% | ~45,973 |
-| Now Stay Dead | 38.00% | ~45,973 |
-| Merry Time | 36.00% | ~43,553 |
-| Harvest Festival | 36.00% | ~43,553 |
-| Hot Air | 36.00% | ~43,553 |
+| A Place to Lay Your Head | 93.00% | ~112,514 |
+| Don't Make Me Turn This Coach Around | 71.00% | ~85,898 |
+| A Clear Conscience | 69.00% | ~83,478 |
+| Unleash Hell | 68.00% | ~82,268 |
+| Unfulfilled Desires | 68.00% | ~82,268 |
+| Funny Guy | 67.00% | ~81,059 |
+| Unshackled | 67.00% | ~81,059 |
+| Long Live the King | 66.00% | ~79,849 |
+| Resurrection | 62.00% | ~75,009 |
+| Wyrdly Reconstructed | 62.00% | ~75,009 |
+| Boxcar Kid | 60.00% | ~72,590 |
+| Rush Hour | 60.00% | ~72,590 |
+| To Grandmother's House | 60.00% | ~72,590 |
+| Serenity Now! | 54.00% | ~65,331 |
+| Hope Rekindled | 50.00% | ~60,492 |
+| Ramble On | 49.00% | ~59,282 |
+| Nope | 49.00% | ~59,282 |
+| This Looks Familiar | 38.00% | ~45,974 |
+| Now Stay Dead | 38.00% | ~45,974 |
+| Merry Time | 36.00% | ~43,554 |
+| Harvest Festival | 36.00% | ~43,554 |
+| Hot Air | 36.00% | ~43,554 |
 | Creep and Sleep | 33.00% | ~39,924 |
-| Overdue Notice | 32.00% | ~38,714 |
-| Whale | 32.00% | ~38,714 |
-| Banishment | 31.00% | ~37,504 |
-| FNG | 30.00% | ~36,294 |
-| Predator | 25.00% | ~30,245 |
-| Reverse Banditry | 25.00% | ~30,245 |
-| Autodidact | 25.00% | ~30,245 |
+| Overdue Notice | 32.00% | ~38,715 |
+| Whale | 32.00% | ~38,715 |
+| Banishment | 31.00% | ~37,505 |
+| FNG | 30.00% | ~36,295 |
+| Predator | 25.00% | ~30,246 |
+| Reverse Banditry | 25.00% | ~30,246 |
+| Autodidact | 25.00% | ~30,246 |
 | Meat and Greet | 23.00% | ~27,826 |
 | Spelunker | 22.00% | ~26,616 |
 | Road Trip | 22.00% | ~26,616 |
 | Eyes Up | 21.00% | ~25,406 |
-| It Rings a Bell | 20.00% | ~24,196 |
+| It Rings a Bell | 20.00% | ~24,197 |
 | Escape from the Black Hole | 18.00% | ~21,777 |
 | Dissector | 17.00% | ~20,567 |
 | It Happens | 17.00% | ~20,567 |
 | This Belongs in a Museum | 16.00% | ~19,357 |
 | Handled | 16.00% | ~19,357 |
-| Catch and Decease | 14.00% | ~16,937 |
+| Catch and Decease | 14.00% | ~16,938 |
 | Not Today! | 13.00% | ~15,728 |
 | Deprogramming | 13.00% | ~15,728 |
 | Shrine of Reflection | 12.00% | ~14,518 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Loop Year | 0.10% | ~121 |
 | No Gravestone Left Unturned | 0.10% | ~121 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 120,981 (Ranked 77)  
+Progressed: 120,983 (Ranked 77)  
 Completed: 1 (0.00%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,10 +245,10 @@ Completed: 1 (0.00%) (Ranked 317)
 | 2023-10-17 | 120,790 | 1 |
 | 2023-10-18 | 120,858 | 1 |
 | 2023-10-19 | 120,929 | 1 |
-| 2023-10-20 | 120,981 | 1 |
+| 2023-10-20 | 120,983 | 1 |
 ## Awards
 Max (Character Customization): 7,466  (Ranked 51)  
-Sum: 19,571 (Ranked 57)  
+Sum: 19,573 (Ranked 57)  
 Diff (max vs sum): -6  
 | Award | Count |
 | ----- | ----- |
@@ -256,7 +256,7 @@ Diff (max vs sum): -6
 | This game has Diverse Characters | 1,564 |
 | This game has Challenging Combat | 1,499 |
 | This game is Highly Recommended | 1,434 |
-| This game is Extremely Fun | 1,393 |
+| This game is Extremely Fun | 1,395 |
 | This game has Amazing Characters | 1,390 |
 | This game has Amazing Storytelling | 1,315 |
 | This game has Quickly Understood Controls | 1,291 |
@@ -533,3 +533,4 @@ Diff (max vs sum): -6
 | 2023-10-17 | 4.68 | - | 7,464 | 19,556 |
 | 2023-10-18 | 4.68 | - | 7,464 | 19,566 |
 | 2023-10-19 | 4.68 | - | 7,466 | 19,571 |
+| 2023-10-20 | 4.68 | - | 7,466 | 19,573 |

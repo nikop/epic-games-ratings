@@ -6,12 +6,12 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 33.00% | ~76,539 |
-| Alt+F4 | 7.00% | ~16,235 |
-| Where's that freaking Dwarf? | 6.00% | ~13,916 |
-| Déjà vu | 5.00% | ~11,597 |
-| Sock! SOCK! | 4.00% | ~9,277 |
-| Speedrun | 4.00% | ~9,277 |
+| Sowwy! | 33.00% | ~76,544 |
+| Alt+F4 | 7.00% | ~16,237 |
+| Where's that freaking Dwarf? | 6.00% | ~13,917 |
+| Déjà vu | 5.00% | ~11,598 |
+| Sock! SOCK! | 4.00% | ~9,278 |
+| Speedrun | 4.00% | ~9,278 |
 | A beer, two curses, three companions | 3.00% | ~6,958 |
 | GG EZ | 3.00% | ~6,958 |
 | DM intervention | 3.00% | ~6,958 |
@@ -32,18 +32,18 @@ Number of Ratings: 118  (23.09.2022)
 | I am the night | 2.00% | ~4,639 |
 | Team Building Exercise | 2.00% | ~4,639 |
 | Oh, when I'll be level 10... | 2.00% | ~4,639 |
-| Res Judicata | 1.00% | ~2,319 |
-| The Famous Dungeon of Naheulbeuk | 1.00% | ~2,319 |
-| Dwarf Fortress | 1.00% | ~2,319 |
-| %#*!$*! | 1.00% | ~2,319 |
-| Look but don't touch | 1.00% | ~2,319 |
-| The beards of change | 1.00% | ~2,319 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,319 |
-| Lust and Debauchery | 1.00% | ~2,319 |
-| Thieves' Guild Accreditation | 1.00% | ~2,319 |
-| Dead for good | 0.90% | ~2,087 |
-| Material Girl | 0.90% | ~2,087 |
-| Gargantua | 0.80% | ~1,855 |
+| Res Judicata | 1.00% | ~2,320 |
+| The Famous Dungeon of Naheulbeuk | 1.00% | ~2,320 |
+| Dwarf Fortress | 1.00% | ~2,320 |
+| %#*!$*! | 1.00% | ~2,320 |
+| Look but don't touch | 1.00% | ~2,320 |
+| The beards of change | 1.00% | ~2,320 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,320 |
+| Lust and Debauchery | 1.00% | ~2,320 |
+| Thieves' Guild Accreditation | 1.00% | ~2,320 |
+| Dead for good | 0.90% | ~2,088 |
+| Material Girl | 0.90% | ~2,088 |
+| Gargantua | 0.80% | ~1,856 |
 | In Navalu's footsteps | 0.70% | ~1,624 |
 | We come in peace | 0.60% | ~1,392 |
 | Lëgal Legend | 0.60% | ~1,392 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~232 |
 | Dwarf Candy | 0.10% | ~232 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,935 (Ranked 60)  
+Progressed: 231,950 (Ranked 60)  
 Completed: 6 (0.00%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,7 +237,7 @@ Completed: 6 (0.00%) (Ranked 317)
 | 2023-10-17 | 231,503 | 6 |
 | 2023-10-18 | 231,653 | 6 |
 | 2023-10-19 | 231,827 | 6 |
-| 2023-10-20 | 231,935 | 6 |
+| 2023-10-20 | 231,950 | 6 |
 ## Awards
 Max (Character Customization): 216  (Ranked 274)  
 Sum: 428 (Ranked 326)  

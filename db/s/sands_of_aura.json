@@ -2,9 +2,9 @@
   "ID": "ef02301060454cfd8345fae625743294",
   "Name": "Sands of Aura",
   "ProductSlug": "sands-of-aura",
-  "Ranking_EOS_Progress": 547,
+  "Ranking_EOS_Progress": 544,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-10-21T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8,
+  "EOS_Progressed": 9,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -74,6 +74,11 @@
     {
       "Time": "2023-10-20T03:04:40.7346258+00:00",
       "NumProgressed": 8,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-20T16:05:26.8674667+00:00",
+      "NumProgressed": 9,
       "NumCompleted": 0
     }
   ],
@@ -237,7 +242,7 @@
       "ID": "CRAGBOSS_DEFEAT",
       "SetID": "cm0d613",
       "Name": "A Small Thirsty Thing",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -277,7 +282,7 @@
       "ID": "DEFEAT_BELFRY_SOLO",
       "SetID": "cm0d613",
       "Name": "Let Me Solo Them",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -365,7 +370,7 @@
       "ID": "GRECKKO_DEFEAT",
       "SetID": "cm0d613",
       "Name": "Sovereignty of Irons",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -461,7 +466,7 @@
       "ID": "RETURN_SCRIPTURE",
       "SetID": "cm0d613",
       "Name": "Leisis Bless You",
-      "Percentage": 25,
+      "Percentage": 22,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -485,15 +490,15 @@
       "ID": "START_GAME",
       "SetID": "cm0d613",
       "Name": "Setting Sail",
-      "Percentage": 75,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "UBAANI_DEFEAT",
       "SetID": "cm0d613",
       "Name": "Spirit Within",
-      "Percentage": 25,
+      "Percentage": 22,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -517,7 +522,7 @@
       "ID": "USE_FLOWERING_VASCULATURE",
       "SetID": "cm0d613",
       "Name": "Transformative Nature",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -550,7 +555,7 @@
     {
       "ID": "cm0d613",
       "IsBase": true,
-      "Progressed": 8,
+      "Progressed": 9,
       "Completed": 0
     }
   ],
@@ -558,8 +563,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2023-10-20T15:05:36.7507694+00:00",
+  "LastChanged_Achievements": "2023-10-20T16:05:26.8674661+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:44.4339276+00:00",
-  "LastUpdate_Ratings": "2023-10-20T14:59:19.2170314+00:00",
-  "LastUpdate_Achievements": "2023-10-20T15:05:36.7508138+00:00"
+  "LastUpdate_Ratings": "2023-10-20T15:59:12.9815733+00:00",
+  "LastUpdate_Achievements": "2023-10-20T16:05:26.8675352+00:00"
 }

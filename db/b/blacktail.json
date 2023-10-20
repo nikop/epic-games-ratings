@@ -5,7 +5,7 @@
   "Ranking_Rating": 241,
   "Ranking_Popularity": 538,
   "Ranking_PopularitySum": 538,
-  "Ranking_EOS_Progress": 256,
+  "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 105,
@@ -2114,9 +2114,9 @@
       "ID": "HeadOnHerShoulders",
       "SetID": "2aagp3d",
       "Name": "Gnowlledgeable",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 21
     },
     {
       "ID": "HexMaster",
@@ -2275,8 +2275,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-10-13T20:57:47.9412245+00:00",
-  "LastChanged_Achievements": "2023-10-20T15:07:20.4546517+00:00",
+  "LastChanged_Achievements": "2023-10-20T16:07:11.678832+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:44.2099257+00:00",
-  "LastUpdate_Ratings": "2023-10-20T15:01:54.7057878+00:00",
-  "LastUpdate_Achievements": "2023-10-20T15:07:20.4546811+00:00"
+  "LastUpdate_Ratings": "2023-10-20T16:01:37.9467184+00:00",
+  "LastUpdate_Achievements": "2023-10-20T16:07:11.6788717+00:00"
 }

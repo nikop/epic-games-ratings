@@ -5,14 +5,14 @@ Rating: 4.56 (Ranked 475)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 29.00% | ~5,372 |
+| On Deceive Inc.'s Secret Service | 29.00% | ~5,373 |
 | Mainframe Hacker | 23.00% | ~4,261 |
 | The Spy who eliminated me | 23.00% | ~4,261 |
 | Tomorrow Never Dyes | 22.00% | ~4,076 |
-| From the Vault with Love | 18.00% | ~3,334 |
-| Never Say Loser Again | 18.00% | ~3,334 |
-| Tailor-Made | 18.00% | ~3,334 |
-| For your Eyes only | 18.00% | ~3,334 |
+| From the Vault with Love | 18.00% | ~3,335 |
+| Never Say Loser Again | 18.00% | ~3,335 |
+| Tailor-Made | 18.00% | ~3,335 |
+| For your Eyes only | 18.00% | ~3,335 |
 | Assistant Accountant | 17.00% | ~3,149 |
 | You Only Live Twice | 16.00% | ~2,964 |
 | Fully Decked Out | 16.00% | ~2,964 |
@@ -23,17 +23,17 @@ Rating: 4.56 (Ranked 475)
 | Private Collection | 11.00% | ~2,038 |
 | Killer Looks | 11.00% | ~2,038 |
 | Hostile Takeover | 11.00% | ~2,038 |
-| Keycards Royale | 10.00% | ~1,852 |
-| Dr. No Kill | 10.00% | ~1,852 |
+| Keycards Royale | 10.00% | ~1,853 |
+| Dr. No Kill | 10.00% | ~1,853 |
 | In It to Win It | 9.00% | ~1,667 |
 | Security Supervisor | 6.00% | ~1,112 |
 | License to Thrill | 5.00% | ~926 |
 | Social of Solace | 3.00% | ~556 |
 | Live and let lie | 3.00% | ~556 |
 | Safe Withdrawal | 3.00% | ~556 |
-| Branch Manager | 2.00% | ~370 |
-| Call Me Maybe | 2.00% | ~370 |
-| PHD in VIP | 2.00% | ~370 |
+| Branch Manager | 2.00% | ~371 |
+| Call Me Maybe | 2.00% | ~371 |
+| PHD in VIP | 2.00% | ~371 |
 | The terminals are not enough | 1.00% | ~185 |
 | Lose Another Day | 1.00% | ~185 |
 | Chairman of Deceive Inc. | 0.90% | ~167 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 475)
 | Extraction Confusion | 0.20% | ~37 |
 | Spyfall | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,525 (Ranked 130)  
+Progressed: 18,526 (Ranked 130)  
 Completed: 4 (0.02%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 4 (0.02%) (Ranked 291)
 | 2023-10-17 | 18,411 | 4 |
 | 2023-10-18 | 18,467 | 4 |
 | 2023-10-19 | 18,507 | 4 |
-| 2023-10-20 | 18,525 | 4 |
+| 2023-10-20 | 18,526 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

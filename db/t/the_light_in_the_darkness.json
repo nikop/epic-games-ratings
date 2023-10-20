@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 40,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2539,
+  "EOS_Progressed": 2540,
   "EOS_Completed": 228,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 8.98,
   "EosHistory": [
@@ -6686,6 +6686,11 @@
       "Time": "2023-10-19T16:08:02.0462937+00:00",
       "NumProgressed": 2539,
       "NumCompleted": 228
+    },
+    {
+      "Time": "2023-10-20T16:09:07.6341784+00:00",
+      "NumProgressed": 2540,
+      "NumCompleted": 228
     }
   ],
   "TotalAchievements": 12,
@@ -6721,7 +6726,7 @@
       "Name": "Green Ticket Roundup",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "Jacques a Dit",
@@ -6729,7 +6734,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 939
+      "UsersEstimate": 940
     },
     {
       "ID": "Jakob",
@@ -6737,7 +6742,7 @@
       "Name": "Jakob",
       "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "Jude",
@@ -6792,7 +6797,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2539,
+      "Progressed": 2540,
       "Completed": 228
     }
   ],
@@ -6800,8 +6805,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-10-20T15:09:06.1499685+00:00",
+  "LastChanged_Achievements": "2023-10-20T16:09:07.6341779+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:02.4862405+00:00",
-  "LastUpdate_Ratings": "2023-10-20T15:00:20.4910351+00:00",
-  "LastUpdate_Achievements": "2023-10-20T15:09:06.1500084+00:00"
+  "LastUpdate_Ratings": "2023-10-20T16:00:08.2733659+00:00",
+  "LastUpdate_Achievements": "2023-10-20T16:09:07.6342434+00:00"
 }

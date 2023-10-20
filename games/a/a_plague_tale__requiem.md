@@ -25,8 +25,8 @@ Rating: 4.73 (Ranked 167)
 | Improved crossbow | 27.00% | ~3,665 |
 | King Hugo | 25.00% | ~3,394 |
 | Mercy | 24.00% | ~3,258 |
+| Perfect shot | 23.00% | ~3,122 |
 | Effective instruments | 22.00% | ~2,986 |
-| Perfect shot | 22.00% | ~2,986 |
 | Perfect throw | 22.00% | ~2,986 |
 | Knights! | 21.00% | ~2,851 |
 | Handful of pockets | 13.00% | ~1,765 |

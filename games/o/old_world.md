@@ -21,6 +21,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble | 2.00% | ~296 |
 | Pioneer | 2.00% | ~296 |
 | Strong | 2.00% | ~296 |
+| Warrior | 2.00% | ~296 |
 | Hanging Gardens | 2.00% | ~296 |
 | Oracle | 2.00% | ~296 |
 | Judaism | 2.00% | ~296 |
@@ -37,12 +38,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Keystone | 1.00% | ~148 |
 | Magnificent | 1.00% | ~148 |
 | Valiant | 1.00% | ~148 |
-| Warrior | 1.00% | ~148 |
 | Wise | 1.00% | ~148 |
 | Developing Cities | 1.00% | ~148 |
 | Legendary Cities | 1.00% | ~148 |
 | Strong Cities | 1.00% | ~148 |
 | Able Difficulty | 1.00% | ~148 |
+| Just Difficulty | 1.00% | ~148 |
 | Furious Family | 1.00% | ~148 |
 | Apadana | 1.00% | ~148 |
 | Colossus | 1.00% | ~148 |
@@ -64,7 +65,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Zoroastrianism | 1.00% | ~148 |
 | Kushite Pyramids | 1.00% | ~148 |
 | Mighty | 0.90% | ~133 |
-| Just Difficulty | 0.90% | ~133 |
 | Artisans | 0.90% | ~133 |
 | Acropolis | 0.90% | ~133 |
 | Mythology | 0.90% | ~133 |
@@ -75,6 +75,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Champions | 0.80% | ~119 |
 | Sages | 0.80% | ~119 |
 | Mausoleum | 0.80% | ~119 |
+| Learn to Play 3 | 0.80% | ~119 |
 | Hanging Gardens in Babylon | 0.70% | ~104 |
 | Intercessor | 0.70% | ~104 |
 | Invincible | 0.70% | ~104 |
@@ -82,7 +83,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Good Difficulty | 0.70% | ~104 |
 | Patrons | 0.70% | ~104 |
 | Circus Maximus | 0.70% | ~104 |
-| Learn to Play 3 | 0.70% | ~104 |
 | Greece | 0.70% | ~104 |
 | Power to the People | 0.70% | ~104 |
 | Persian Paganism | 0.70% | ~104 |
@@ -112,6 +112,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Church of the Holy Sepulchre | 0.50% | ~74 |
 | Babylonia | 0.50% | ~74 |
 | Carthage | 0.50% | ~74 |
+| Industrial Progress | 0.50% | ~74 |
 | Military Prestige | 0.50% | ~74 |
 | Dualism | 0.50% | ~74 |
 | Gnosticism | 0.50% | ~74 |
@@ -133,7 +134,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | One True Faith | 0.40% | ~59 |
 | Assyrian Paganism | 0.40% | ~59 |
 | Hittite Paganism | 0.40% | ~59 |
-| Industrial Progress | 0.40% | ~59 |
 | Enlightenment | 0.40% | ~59 |
 | Turreted Elephant | 0.40% | ~59 |
 | All Nations | 0.40% | ~59 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,813 (Ranked 138)  
+Progressed: 14,815 (Ranked 138)  
 Completed: 5 (0.03%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -532,7 +532,7 @@ Completed: 5 (0.03%) (Ranked 286)
 | 2023-10-17 | 14,775 | 5 |
 | 2023-10-18 | 14,791 | 5 |
 | 2023-10-19 | 14,805 | 5 |
-| 2023-10-20 | 14,813 | 5 |
+| 2023-10-20 | 14,815 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,848 (Ranked 211)  

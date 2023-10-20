@@ -7,8 +7,8 @@
 | Just Went Shopping | 97.00% | ~344 |
 | Decision Maker | 80.00% | ~284 |
 | Sneaky Sneak | 78.00% | ~277 |
-| DIY | 77.00% | ~273 |
-| Master Chef | 65.00% | ~231 |
+| DIY | 78.00% | ~277 |
+| Master Chef | 66.00% | ~234 |
 | Master of Cards | 59.00% | ~209 |
 | Over Nine Thousaaand | 57.00% | ~202 |
 | Getting the Hang Of This | 48.00% | ~170 |

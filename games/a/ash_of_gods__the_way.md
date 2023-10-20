@@ -54,7 +54,7 @@
 | That's the way! | 0.00% | ~0 |
 | She-Wolf | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4 (Ranked 579)  
+Progressed: 4 (Ranked 580)  
 Completed: 0 (0.00%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |

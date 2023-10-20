@@ -2,10 +2,10 @@
   "ID": "e0172a81e4f0430e88c3156bdadfd088",
   "Name": "Solitairica",
   "ProductSlug": "solitairica",
-  "Ranking_Rating": 575,
+  "Ranking_Rating": 576,
   "Ranking_Popularity": 371,
   "Ranking_PopularitySum": 303,
-  "Ranking_EOS_Progress": 685,
+  "Ranking_EOS_Progress": 686,
   "Ranking_EOS_Completed": 317,
   "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 105,
@@ -1033,10 +1033,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 589,
       "NumberOfAwardsMax": 85
+    },
+    {
+      "Time": "2023-10-20T16:00:32.6518818+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 590,
+      "NumberOfAwardsMax": 85
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 589,
+  "NumberOfAwards": 590,
   "NumberOfAwardsMax": 85,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -1098,7 +1104,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 55
+      "Count": 56
     },
     {
       "Text": "This game has a Creative Community",
@@ -1118,8 +1124,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:54.4785127+00:00",
-  "LastChanged": "2023-10-19T20:59:54.2385757+00:00",
+  "LastChanged": "2023-10-20T16:00:32.6518816+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:07.5297491+00:00",
-  "LastUpdate_Ratings": "2023-10-20T15:00:42.9530437+00:00",
-  "LastUpdate_Achievements": "2023-10-20T15:05:52.3277462+00:00"
+  "LastUpdate_Ratings": "2023-10-20T16:00:32.6518822+00:00",
+  "LastUpdate_Achievements": "2023-10-20T16:05:40.755034+00:00"
 }

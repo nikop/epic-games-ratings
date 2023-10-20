@@ -7421,10 +7421,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 32126,
       "NumberOfAwardsMax": 5424
+    },
+    {
+      "Time": "2023-10-20T15:58:57.2701698+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 32127,
+      "NumberOfAwardsMax": 5424
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32126,
+  "NumberOfAwards": 32127,
   "NumberOfAwardsMax": 5424,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7468,12 +7474,12 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3475
+      "Count": 3476
     }
   ],
-  "EOS_Progressed": 232348,
+  "EOS_Progressed": 232356,
   "EOS_Completed": 2374,
-  "EOS_NewPlayers": 644,
+  "EOS_NewPlayers": 646,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
@@ -27896,6 +27902,11 @@
       "Time": "2023-10-20T15:05:28.5022728+00:00",
       "NumProgressed": 232348,
       "NumCompleted": 2374
+    },
+    {
+      "Time": "2023-10-20T16:05:19.1743307+00:00",
+      "NumProgressed": 232356,
+      "NumCompleted": 2374
     }
   ],
   "TotalAchievements": 528,
@@ -32099,7 +32110,7 @@
       "Name": "Foul Play",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 794
+      "UsersEstimate": 795
     },
     {
       "ID": "objective_completed_1416",
@@ -32130,21 +32141,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 198622,
+      "Progressed": 198630,
       "Completed": 3665
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 232348,
+      "Progressed": 232356,
       "Completed": 2374
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-10-20T09:58:31.3588551+00:00",
-  "LastChanged_Achievements": "2023-10-20T15:05:28.502272+00:00",
+  "LastChanged": "2023-10-20T15:58:57.2701697+00:00",
+  "LastChanged_Achievements": "2023-10-20T16:05:19.1743301+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:38.1045135+00:00",
-  "LastUpdate_Ratings": "2023-10-20T14:59:02.322259+00:00",
-  "LastUpdate_Achievements": "2023-10-20T15:05:28.5049102+00:00"
+  "LastUpdate_Ratings": "2023-10-20T15:58:57.2701702+00:00",
+  "LastUpdate_Achievements": "2023-10-20T16:05:19.1777356+00:00"
 }

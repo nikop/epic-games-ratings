@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start of a Journey | 88.00% | ~35 |
-| A thing of beauty | 85.00% | ~34 |
-| Escape the Maze | 50.00% | ~20 |
-| Brace the cold | 33.00% | ~13 |
-| A Long Walk | 30.00% | ~12 |
-| Dont mind the heat | 13.00% | ~5 |
-| A Dangerous Road | 8.00% | ~3 |
-| City of Puzzles | 8.00% | ~3 |
-| This field of danger | 8.00% | ~3 |
-| Labyrinths of the Mind | 8.00% | ~3 |
+| Start of a Journey | 88.00% | ~36 |
+| A thing of beauty | 85.00% | ~35 |
+| Escape the Maze | 49.00% | ~20 |
+| Brace the cold | 32.00% | ~13 |
+| A Long Walk | 29.00% | ~12 |
+| Dont mind the heat | 12.00% | ~5 |
+| A Dangerous Road | 7.00% | ~3 |
+| City of Puzzles | 7.00% | ~3 |
+| This field of danger | 7.00% | ~3 |
+| Labyrinths of the Mind | 7.00% | ~3 |
 | Scorched Ruins | 5.00% | ~2 |
 | City of Illusion | 5.00% | ~2 |
 | Kill the Flames | 5.00% | ~2 |
@@ -23,8 +23,8 @@
 | The Final Test | 5.00% | ~2 |
 | A Journey's End | 5.00% | ~2 |
 | A Terrifying Blizzard | 5.00% | ~2 |
-| A Stone Left Unturned | 3.00% | ~1 |
-| Celibacy/Delicacy | 3.00% | ~1 |
+| A Stone Left Unturned | 2.00% | ~1 |
+| Celibacy/Delicacy | 2.00% | ~1 |
 | No End is Eternal | 0.00% | ~0 |
 | Tranquility/Resilience | 0.00% | ~0 |
 | Recovery/Imagination | 0.00% | ~0 |
@@ -53,7 +53,7 @@
 | A Quick Secret | 0.00% | ~0 |
 | A Complete Journey | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40 (Ranked 459)  
+Progressed: 41 (Ranked 460)  
 Completed: 0 (0.00%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,3 +88,4 @@ Completed: 0 (0.00%) (Ranked 317)
 | 2023-09-18 | 38 | 0 |
 | 2023-10-18 | 39 | 0 |
 | 2023-10-19 | 40 | 0 |
+| 2023-10-20 | 41 | 0 |

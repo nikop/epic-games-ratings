@@ -1273,9 +1273,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 13229,
+  "EOS_Progressed": 13230,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -13013,6 +13013,11 @@
       "Time": "2023-10-20T13:09:05.3925206+00:00",
       "NumProgressed": 13229,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-10-20T16:03:39.0437204+00:00",
+      "NumProgressed": 13230,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 35,
@@ -13024,7 +13029,7 @@
       "Name": "Getting Started",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 10848
+      "UsersEstimate": 10849
     },
     {
       "ID": "ACH02",
@@ -13136,7 +13141,7 @@
       "Name": "They Can\u2019t Stop All of Us",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "ACH16",
@@ -13168,7 +13173,7 @@
       "Name": "Rescue a Kitten Too?",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "ACH20",
@@ -13303,7 +13308,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13229,
+      "Progressed": 13230,
       "Completed": 50
     }
   ],
@@ -13311,8 +13316,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-10-19T12:00:41.6097418+00:00",
-  "LastChanged_Achievements": "2023-10-20T15:03:30.1048429+00:00",
+  "LastChanged_Achievements": "2023-10-20T16:03:39.0437196+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:42.8574604+00:00",
-  "LastUpdate_Ratings": "2023-10-20T15:01:55.6751259+00:00",
-  "LastUpdate_Achievements": "2023-10-20T15:03:30.1049254+00:00"
+  "LastUpdate_Ratings": "2023-10-20T16:01:38.7616403+00:00",
+  "LastUpdate_Achievements": "2023-10-20T16:03:39.0438477+00:00"
 }
