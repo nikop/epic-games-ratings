@@ -15,7 +15,7 @@ Number of Ratings: 98  (23.09.2022)
 | Agent 47 | 26.00% | ~389 |
 | You're Gonna Go Far, Kid | 26.00% | ~389 |
 | Bomberman | 26.00% | ~389 |
-| Death to the Oppressor! | 19.00% | ~284 |
+| Death to the Oppressor! | 19.00% | ~285 |
 | The Gang's All Here | 16.00% | ~240 |
 | One by One | 14.00% | ~210 |
 | Your Answer | 14.00% | ~210 |
@@ -37,7 +37,7 @@ Number of Ratings: 98  (23.09.2022)
 | A Little Culture | 0.10% | ~1 |
 | Scout | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,497 (Ranked 220)  
+Progressed: 1,498 (Ranked 220)  
 Completed: 1 (0.07%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,6 +200,7 @@ Completed: 1 (0.07%) (Ranked 264)
 | 2023-10-15 | 1,493 | 1 |
 | 2023-10-17 | 1,496 | 1 |
 | 2023-10-18 | 1,497 | 1 |
+| 2023-10-20 | 1,498 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

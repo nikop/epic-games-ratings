@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting Sail | 71.00% | ~5 |
-| Leisis Bless You | 29.00% | ~2 |
-| Spirit Within | 29.00% | ~2 |
-| A Small Thirsty Thing | 14.00% | ~1 |
-| Sovereignty of Irons | 14.00% | ~1 |
+| Setting Sail | 75.00% | ~6 |
+| Leisis Bless You | 25.00% | ~2 |
+| Spirit Within | 25.00% | ~2 |
+| A Small Thirsty Thing | 13.00% | ~1 |
+| Sovereignty of Irons | 13.00% | ~1 |
 | Rain Must Fall | 0.00% | ~0 |
 | No Salvation | 0.00% | ~0 |
 | Overboard | 0.00% | ~0 |
@@ -63,7 +63,7 @@
 | Savage Progeny | 0.00% | ~0 |
 | Champion of Starspire | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7 (Ranked 552)  
+Progressed: 8 (Ranked 545)  
 Completed: 0 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,6 +72,7 @@ Completed: 0 (0.00%) (Ranked 316)
 | 2023-10-16 | 3 | 0 |
 | 2023-10-17 | 6 | 0 |
 | 2023-10-18 | 7 | 0 |
+| 2023-10-20 | 8 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

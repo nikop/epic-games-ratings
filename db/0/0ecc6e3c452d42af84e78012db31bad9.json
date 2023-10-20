@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3544,
+  "EOS_Progressed": 3545,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.73,
   "EosHistory": [
@@ -8254,6 +8254,11 @@
       "Time": "2023-10-20T02:22:45.029607+00:00",
       "NumProgressed": 3544,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-10-20T03:06:50.0419856+00:00",
+      "NumProgressed": 3545,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 16,
@@ -8297,7 +8302,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 2729
+      "UsersEstimate": 2730
     },
     {
       "ID": "ach_architecture_completed",
@@ -8361,7 +8366,7 @@
       "Name": "Game opened",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2658
+      "UsersEstimate": 2659
     },
     {
       "ID": "ach_magic_wand",
@@ -8377,7 +8382,7 @@
       "Name": "Master",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 1382
+      "UsersEstimate": 1383
     },
     {
       "ID": "ach_tornado",
@@ -8385,21 +8390,21 @@
       "Name": "Aeolus",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 992
+      "UsersEstimate": 993
     }
   ],
   "AchievementSets": [
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 3544,
+      "Progressed": 3545,
       "Completed": 26
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-10-20T02:22:45.0296064+00:00",
+  "LastChanged_Achievements": "2023-10-20T03:06:50.0419846+00:00",
   "LastUpdate_AppInfo": "2023-10-13T16:57:41.3474245+00:00",
-  "LastUpdate_Ratings": "2023-10-20T02:13:47.4854878+00:00",
-  "LastUpdate_Achievements": "2023-10-20T02:22:45.0296692+00:00"
+  "LastUpdate_Ratings": "2023-10-20T02:57:34.100827+00:00",
+  "LastUpdate_Achievements": "2023-10-20T03:06:50.0420773+00:00"
 }

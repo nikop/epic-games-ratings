@@ -588,9 +588,9 @@
       "ID": "FavoredbytheCosmos",
       "SetID": "1jeo1g7",
       "Name": "Favored by the Cosmos",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Gottatinkeremall",
@@ -836,9 +836,9 @@
       "ID": "StellarHaste",
       "SetID": "1jeo1g7",
       "Name": "Stellar Haste",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "TheAbyssalTerror",
@@ -860,9 +860,9 @@
       "ID": "TheChaosArtisan",
       "SetID": "1jeo1g7",
       "Name": "The Chaos Artisan",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "TheCorruptionGoddess",
@@ -996,9 +996,9 @@
       "ID": "AquarianHero",
       "SetID": "1jeo1g7",
       "Name": "Aquarian Hero",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "AquarianMastery",
@@ -1115,8 +1115,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-10-20T02:23:09.9070986+00:00",
+  "LastChanged_Achievements": "2023-10-20T03:07:19.7016836+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:31.1237479+00:00",
-  "LastUpdate_Ratings": "2023-10-20T02:14:01.4543702+00:00",
-  "LastUpdate_Achievements": "2023-10-20T02:23:09.9072139+00:00"
+  "LastUpdate_Ratings": "2023-10-20T02:57:51.5129039+00:00",
+  "LastUpdate_Achievements": "2023-10-20T03:07:19.7017998+00:00"
 }

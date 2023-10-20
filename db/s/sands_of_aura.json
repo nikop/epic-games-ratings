@@ -2,9 +2,9 @@
   "ID": "ef02301060454cfd8345fae625743294",
   "Name": "Sands of Aura",
   "ProductSlug": "sands-of-aura",
-  "Ranking_EOS_Progress": 552,
+  "Ranking_EOS_Progress": 545,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-10-21T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7,
+  "EOS_Progressed": 8,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -69,6 +69,11 @@
     {
       "Time": "2023-10-18T10:04:08.086843+00:00",
       "NumProgressed": 7,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-20T03:04:40.7346258+00:00",
+      "NumProgressed": 8,
       "NumCompleted": 0
     }
   ],
@@ -232,7 +237,7 @@
       "ID": "CRAGBOSS_DEFEAT",
       "SetID": "cm0d613",
       "Name": "A Small Thirsty Thing",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -360,7 +365,7 @@
       "ID": "GRECKKO_DEFEAT",
       "SetID": "cm0d613",
       "Name": "Sovereignty of Irons",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -456,7 +461,7 @@
       "ID": "RETURN_SCRIPTURE",
       "SetID": "cm0d613",
       "Name": "Leisis Bless You",
-      "Percentage": 29,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -480,15 +485,15 @@
       "ID": "START_GAME",
       "SetID": "cm0d613",
       "Name": "Setting Sail",
-      "Percentage": 71,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "UBAANI_DEFEAT",
       "SetID": "cm0d613",
       "Name": "Spirit Within",
-      "Percentage": 29,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -545,7 +550,7 @@
     {
       "ID": "cm0d613",
       "IsBase": true,
-      "Progressed": 7,
+      "Progressed": 8,
       "Completed": 0
     }
   ],
@@ -553,8 +558,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2023-10-20T02:20:53.5787189+00:00",
+  "LastChanged_Achievements": "2023-10-20T03:04:40.7346252+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:44.4339276+00:00",
-  "LastUpdate_Ratings": "2023-10-20T02:14:42.8528306+00:00",
-  "LastUpdate_Achievements": "2023-10-20T02:20:53.5787741+00:00"
+  "LastUpdate_Ratings": "2023-10-20T02:58:38.3523737+00:00",
+  "LastUpdate_Achievements": "2023-10-20T03:04:40.7346816+00:00"
 }

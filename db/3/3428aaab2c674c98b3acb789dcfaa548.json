@@ -6327,10 +6327,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 13908,
       "NumberOfAwardsMax": 4876
+    },
+    {
+      "Time": "2023-10-20T02:58:06.355822+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 13910,
+      "NumberOfAwardsMax": 4876
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13908,
+  "NumberOfAwards": 13910,
   "NumberOfAwardsMax": 4876,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6380,7 +6386,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 446
+      "Count": 448
     },
     {
       "Text": "This game is Extremely Fun",
@@ -6407,9 +6413,9 @@
       "Count": 990
     }
   ],
-  "EOS_Progressed": 819594,
+  "EOS_Progressed": 819609,
   "EOS_Completed": 183,
-  "EOS_NewPlayers": 4905,
+  "EOS_NewPlayers": 4899,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -23687,6 +23693,11 @@
       "Time": "2023-10-20T02:23:01.9788925+00:00",
       "NumProgressed": 819594,
       "NumCompleted": 183
+    },
+    {
+      "Time": "2023-10-20T03:07:10.369534+00:00",
+      "NumProgressed": 819609,
+      "NumCompleted": 183
     }
   ],
   "TotalAchievements": 75,
@@ -23698,7 +23709,7 @@
       "Name": "Ain\u0027t That a Kick in the Head",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 188507
+      "UsersEstimate": 188510
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -23794,7 +23805,7 @@
       "Name": "Crafty",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 49176
+      "UsersEstimate": 49177
     },
     {
       "ID": "ACHIEVEMENT_CURIOS_AND_RELICS",
@@ -23994,7 +24005,7 @@
       "Name": "New Kid",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 49176
+      "UsersEstimate": 49177
     },
     {
       "ID": "ACHIEVEMENT_NEW_VEGAS_SAMURAI",
@@ -24034,7 +24045,7 @@
       "Name": "Ol\u0027 Buddy Ol\u0027 Pal",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 49176
+      "UsersEstimate": 49177
     },
     {
       "ID": "ACHIEVEMENT_ONE_ARMED_BANDIT",
@@ -24170,7 +24181,7 @@
       "Name": "They Went That-a-Way",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 49176
+      "UsersEstimate": 49177
     },
     {
       "ID": "ACHIEVEMENT_THE_BOSS",
@@ -24297,22 +24308,22 @@
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 819594,
+      "Progressed": 819609,
       "Completed": 222
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 819594,
+      "Progressed": 819609,
       "Completed": 183
     }
   ],
   "FirstSeen": "2023-06-01T15:57:19.0339471+00:00",
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
-  "LastChanged": "2023-10-19T22:57:54.3438498+00:00",
-  "LastChanged_Achievements": "2023-10-20T02:23:01.9788919+00:00",
+  "LastChanged": "2023-10-20T02:58:06.3558217+00:00",
+  "LastChanged_Achievements": "2023-10-20T03:07:10.3695335+00:00",
   "LastUpdate_AppInfo": "2023-10-13T04:56:59.2186153+00:00",
-  "LastUpdate_Ratings": "2023-10-20T02:14:14.5715392+00:00",
-  "LastUpdate_Achievements": "2023-10-20T02:23:01.9790854+00:00"
+  "LastUpdate_Ratings": "2023-10-20T02:58:06.3558227+00:00",
+  "LastUpdate_Achievements": "2023-10-20T03:07:10.3697207+00:00"
 }

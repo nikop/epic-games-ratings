@@ -4,7 +4,7 @@
   "ProductSlug": "a-long-journey-to-an-uncertain-end-514c7e",
   "Ranking_EOS_Progress": 683,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewPlayers": 404,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-06-30T15:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-13T23:57:19.3522704+00:00",
-  "LastUpdate_Ratings": "2023-10-20T02:13:34.3285255+00:00",
-  "LastUpdate_Achievements": "2023-10-20T02:21:11.4772276+00:00"
+  "LastUpdate_Ratings": "2023-10-20T02:57:20.273211+00:00",
+  "LastUpdate_Achievements": "2023-10-20T03:05:01.1399204+00:00"
 }

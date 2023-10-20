@@ -7,16 +7,16 @@ Number of Ratings: 5,603  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Lawbringer | 39.00% | ~24,784 |
-| Landlord | 33.00% | ~20,971 |
+| Landlord | 33.00% | ~20,972 |
 | Bannerlord | 23.00% | ~14,616 |
 | Horde breaker | 23.00% | ~14,616 |
 | Lawmaker | 23.00% | ~14,616 |
 | Trained | 23.00% | ~14,616 |
 | The king is pleased | 19.00% | ~12,074 |
-| King Solomon | 17.00% | ~10,803 |
+| King Solomon | 17.00% | ~10,804 |
 | Apple of my eye | 16.00% | ~10,168 |
 | I can do it | 16.00% | ~10,168 |
-| God of the Arena | 13.00% | ~8,261 |
+| God of the Arena | 13.00% | ~8,262 |
 | Against all odds | 12.00% | ~7,626 |
 | This Is Our Land | 12.00% | ~7,626 |
 | Duelist | 10.00% | ~6,355 |
@@ -27,15 +27,15 @@ Number of Ratings: 5,603  (23.09.2022)
 | Butterlord | 8.00% | ~5,084 |
 | Know your enemy | 7.00% | ~4,448 |
 | Mastery | 7.00% | ~4,448 |
-| Crowdfunded | 5.00% | ~3,177 |
-| Crush your enemies | 5.00% | ~3,177 |
-| My way | 5.00% | ~3,177 |
+| Crowdfunded | 5.00% | ~3,178 |
+| Crush your enemies | 5.00% | ~3,178 |
+| My way | 5.00% | ~3,178 |
 | Veni vidi vici | 4.00% | ~2,542 |
 | Freedom! | 3.00% | ~1,906 |
 | Long live the Empire! | 3.00% | ~1,906 |
 | Real Estate | 3.00% | ~1,906 |
-| Entrepreneur | 1.00% | ~635 |
-| Supreme Emperor | 1.00% | ~635 |
+| Entrepreneur | 1.00% | ~636 |
+| Supreme Emperor | 1.00% | ~636 |
 | Crackshot | 0.90% | ~572 |
 | Undercover | 0.80% | ~508 |
 | Fat Cat | 0.70% | ~445 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,548 (Ranked 98)  
+Progressed: 63,550 (Ranked 98)  
 Completed: 0 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 0 (0.00%) (Ranked 316)
 | 2023-10-17 | 63,440 | 0 |
 | 2023-10-18 | 63,498 | 0 |
 | 2023-10-19 | 63,545 | 0 |
-| 2023-10-20 | 63,548 | 0 |
+| 2023-10-20 | 63,550 | 0 |
 ## Awards
 Max (Character Customization): 7,249  (Ranked 52)  
 Sum: 14,927 (Ranked 66)  

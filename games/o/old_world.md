@@ -8,6 +8,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | ---- | ---------- | ----- |
 | Explorer | 3.00% | ~444 |
 | Settler | 3.00% | ~444 |
+| Friendly Family | 3.00% | ~444 |
 | Play a Single Player Game | 3.00% | ~444 |
 | Able | 2.00% | ~296 |
 | Architect | 2.00% | ~296 |
@@ -20,7 +21,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble | 2.00% | ~296 |
 | Pioneer | 2.00% | ~296 |
 | Strong | 2.00% | ~296 |
-| Friendly Family | 2.00% | ~296 |
 | Hanging Gardens | 2.00% | ~296 |
 | Oracle | 2.00% | ~296 |
 | Judaism | 2.00% | ~296 |
@@ -44,6 +44,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong Cities | 1.00% | ~148 |
 | Able Difficulty | 1.00% | ~148 |
 | Furious Family | 1.00% | ~148 |
+| Apadana | 1.00% | ~148 |
 | Colossus | 1.00% | ~148 |
 | Great Ziggurat | 1.00% | ~148 |
 | Ishtar Gate | 1.00% | ~148 |
@@ -66,7 +67,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just Difficulty | 0.90% | ~133 |
 | Artisans | 0.90% | ~133 |
 | Acropolis | 0.90% | ~133 |
-| Apadana | 0.90% | ~133 |
 | Mythology | 0.90% | ~133 |
 | Win a Single Player Game | 0.90% | ~133 |
 | Beloved | 0.80% | ~118 |
@@ -90,6 +90,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Landowners | 0.60% | ~89 |
 | Riders | 0.60% | ~89 |
 | Statesmen | 0.60% | ~89 |
+| Traders | 0.60% | ~89 |
 | Hittite Iron | 0.60% | ~89 |
 | Circus Maximus | 0.60% | ~89 |
 | Temple of Solomon | 0.60% | ~89 |
@@ -100,13 +101,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Economic Reform | 0.60% | ~89 |
 | Legalism | 0.60% | ~89 |
 | Redemption | 0.60% | ~89 |
+| Revelation | 0.60% | ~89 |
 | Legionary | 0.60% | ~89 |
 | Phalangite | 0.60% | ~89 |
 | Double Victory | 0.60% | ~89 |
 | Capable | 0.50% | ~74 |
 | Strong Difficulty | 0.50% | ~74 |
 | Hunters | 0.50% | ~74 |
-| Traders | 0.50% | ~74 |
 | Hagia Sophia | 0.50% | ~74 |
 | Church of the Holy Sepulchre | 0.50% | ~74 |
 | Babylonia | 0.50% | ~74 |
@@ -114,7 +115,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Military Prestige | 0.50% | ~74 |
 | Dualism | 0.50% | ~74 |
 | Gnosticism | 0.50% | ~74 |
-| Revelation | 0.50% | ~74 |
 | Veneration | 0.50% | ~74 |
 | Cimmerian Archer | 0.50% | ~74 |
 | Mounted Lancer | 0.50% | ~74 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,808 (Ranked 137)  
+Progressed: 14,809 (Ranked 137)  
 Completed: 5 (0.03%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -532,7 +532,7 @@ Completed: 5 (0.03%) (Ranked 285)
 | 2023-10-17 | 14,775 | 5 |
 | 2023-10-18 | 14,791 | 5 |
 | 2023-10-19 | 14,805 | 5 |
-| 2023-10-20 | 14,808 | 5 |
+| 2023-10-20 | 14,809 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,848 (Ranked 211)  

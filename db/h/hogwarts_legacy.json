@@ -9231,7 +9231,7 @@
       "Count": 726
     }
   ],
-  "EOS_Progressed": 298588,
+  "EOS_Progressed": 298590,
   "EOS_Completed": 489,
   "EOS_NewPlayers": 368,
   "EOS_NewCompleters": 4,
@@ -28761,6 +28761,11 @@
       "Time": "2023-10-20T01:49:05.9918895+00:00",
       "NumProgressed": 298588,
       "NumCompleted": 489
+    },
+    {
+      "Time": "2023-10-20T03:07:03.1929164+00:00",
+      "NumProgressed": 298590,
+      "NumCompleted": 489
     }
   ],
   "TotalAchievements": 45,
@@ -28860,7 +28865,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14929
+      "UsersEstimate": 14930
     },
     {
       "ID": "PFA_20",
@@ -29052,7 +29057,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14929
+      "UsersEstimate": 14930
     },
     {
       "ID": "PFA_42",
@@ -29100,7 +29105,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38816
+      "UsersEstimate": 38817
     },
     {
       "ID": "PFA_7",
@@ -29108,7 +29113,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38816
+      "UsersEstimate": 38817
     },
     {
       "ID": "PFA_8",
@@ -29131,7 +29136,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298588,
+      "Progressed": 298590,
       "Completed": 489
     }
   ],
@@ -29139,8 +29144,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-20T02:14:58.5179856+00:00",
-  "LastChanged_Achievements": "2023-10-20T02:22:56.5528641+00:00",
+  "LastChanged_Achievements": "2023-10-20T03:07:03.192916+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:16.623812+00:00",
-  "LastUpdate_Ratings": "2023-10-20T02:14:58.5179863+00:00",
-  "LastUpdate_Achievements": "2023-10-20T02:22:56.5530221+00:00"
+  "LastUpdate_Ratings": "2023-10-20T02:58:58.7434902+00:00",
+  "LastUpdate_Achievements": "2023-10-20T03:07:03.1930751+00:00"
 }

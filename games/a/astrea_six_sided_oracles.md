@@ -28,20 +28,20 @@
 | The Corruption Goddess | 16.00% | ~10 |
 | The Goddes Avatar | 16.00% | ~10 |
 | Astral Adventurer | 15.00% | ~9 |
+| Favored by the Cosmos | 15.00% | ~9 |
 | Unbeatable | 15.00% | ~9 |
-| Favored by the Cosmos | 13.00% | ~8 |
 | Wave Bender | 11.00% | ~7 |
 | Heavy Purger | 10.00% | ~6 |
+| Stellar Haste | 10.00% | ~6 |
 | Apian Hero | 10.00% | ~6 |
 | Lacertian Hero | 10.00% | ~6 |
 | Anomaly Control | 8.00% | ~5 |
 | Can't touch this | 8.00% | ~5 |
 | Sadistic Plan | 8.00% | ~5 |
-| Stellar Haste | 8.00% | ~5 |
+| The Chaos Artisan | 8.00% | ~5 |
 | The Dark Moon | 8.00% | ~5 |
 | Behenian Hero | 8.00% | ~5 |
 | Denying Destiny | 7.00% | ~4 |
-| The Chaos Artisan | 7.00% | ~4 |
 | The Distorted Sage | 7.00% | ~4 |
 | Artificer | 5.00% | ~3 |
 | Purification Avatar | 5.00% | ~3 |
@@ -53,6 +53,7 @@
 | Reflexive Mind | 3.00% | ~2 |
 | Sentinelphobic | 3.00% | ~2 |
 | The Ardent Prince | 3.00% | ~2 |
+| Aquarian Hero | 3.00% | ~2 |
 | Aquarian Mastery | 3.00% | ~2 |
 | Eridanian Hero | 3.00% | ~2 |
 | Eridanian Mastery | 3.00% | ~2 |
@@ -68,7 +69,6 @@
 | Prestidigitation | 2.00% | ~1 |
 | The Raging Skies | 2.00% | ~1 |
 | This is Fine | 2.00% | ~1 |
-| Aquarian Hero | 2.00% | ~1 |
 | Apian Champion | 0.00% | ~0 |
 | Apian Hero | 0.00% | ~0 |
 | Apian Mastery | 0.00% | ~0 |

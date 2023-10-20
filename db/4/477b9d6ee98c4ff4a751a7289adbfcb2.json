@@ -4,7 +4,7 @@
   "ProductSlug": "monmusu-gladiator-e00e4d",
   "Ranking_EOS_Progress": 601,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewPlayers": 404,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-08-20T15:00:00+00:00",
@@ -219,8 +219,8 @@
   ],
   "FirstSeen": "2023-10-18T22:09:37.5777143+00:00",
   "FirstSeenAchievements": "2023-10-18T22:15:20.7521371+00:00",
-  "LastChanged_Achievements": "2023-10-20T02:20:09.9545418+00:00",
+  "LastChanged_Achievements": "2023-10-20T03:03:50.1861129+00:00",
   "LastUpdate_AppInfo": "2023-10-18T22:09:32.530306+00:00",
-  "LastUpdate_Ratings": "2023-10-20T02:14:02.6436645+00:00",
-  "LastUpdate_Achievements": "2023-10-20T02:20:09.9545587+00:00"
+  "LastUpdate_Ratings": "2023-10-20T02:57:53.1011349+00:00",
+  "LastUpdate_Achievements": "2023-10-20T03:03:50.1861658+00:00"
 }

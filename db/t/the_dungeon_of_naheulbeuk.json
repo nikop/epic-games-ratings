@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 326,
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewPlayers": 57,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1173,9 +1173,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 231849,
+  "EOS_Progressed": 231858,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 1455,
+  "EOS_NewPlayers": 1462,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15343,6 +15343,11 @@
       "Time": "2023-10-20T02:25:23.2718746+00:00",
       "NumProgressed": 231849,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-20T03:09:09.6605539+00:00",
+      "NumProgressed": 231858,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 88,
@@ -15402,7 +15407,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11592
+      "UsersEstimate": 11593
     },
     {
       "ID": "Chapter2",
@@ -15410,7 +15415,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6955
+      "UsersEstimate": 6956
     },
     {
       "ID": "Chapter3",
@@ -15498,7 +15503,7 @@
       "Name": "Res Judicata",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2318
+      "UsersEstimate": 2319
     },
     {
       "ID": "CompanionPriestress",
@@ -15706,7 +15711,7 @@
       "Name": "The Famous Dungeon of Naheulbeuk",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2318
+      "UsersEstimate": 2319
     },
     {
       "ID": "DifficultyIronManNoCompanion",
@@ -15770,7 +15775,7 @@
       "Name": "Dwarf Fortress",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2318
+      "UsersEstimate": 2319
     },
     {
       "ID": "DwarfInsultWin",
@@ -15778,7 +15783,7 @@
       "Name": "%#*!$*!",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2318
+      "UsersEstimate": 2319
     },
     {
       "ID": "DwarfLevel2",
@@ -15794,7 +15799,7 @@
       "Name": "Look but don\u0027t touch",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2318
+      "UsersEstimate": 2319
     },
     {
       "ID": "ElfHitTwoFriends",
@@ -15802,7 +15807,7 @@
       "Name": "Sowwy!",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 76510
+      "UsersEstimate": 76513
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -15818,7 +15823,7 @@
       "Name": "GG EZ",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 6955
+      "UsersEstimate": 6956
     },
     {
       "ID": "EndCombatOneHp",
@@ -15826,7 +15831,7 @@
       "Name": "DM intervention",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6955
+      "UsersEstimate": 6956
     },
     {
       "ID": "EndGameCursed",
@@ -15850,7 +15855,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 16229
+      "UsersEstimate": 16230
     },
     {
       "ID": "FollowBraztok",
@@ -15858,7 +15863,7 @@
       "Name": "The beards of change",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2318
+      "UsersEstimate": 2319
     },
     {
       "ID": "FollowNarzatok",
@@ -15874,7 +15879,7 @@
       "Name": "I\u0027ve seen that beard before! It was on sale, and came with a broomstick and a bucket!",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2318
+      "UsersEstimate": 2319
     },
     {
       "ID": "KillDungeonLich",
@@ -15970,7 +15975,7 @@
       "Name": "Lust and Debauchery",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 2318
+      "UsersEstimate": 2319
     },
     {
       "ID": "RangerEpic",
@@ -15994,7 +15999,7 @@
       "Name": "Thieves\u0027 Guild Accreditation",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2318
+      "UsersEstimate": 2319
     },
     {
       "ID": "Speedrun",
@@ -16050,28 +16055,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6955
+      "UsersEstimate": 6956
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 231849,
+      "Progressed": 231858,
       "Completed": 6
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 231849,
+      "Progressed": 231858,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-10-15T22:57:47.2240798+00:00",
-  "LastChanged_Achievements": "2023-10-20T02:25:23.271874+00:00",
+  "LastChanged_Achievements": "2023-10-20T03:09:09.660553+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:06.1366459+00:00",
-  "LastUpdate_Ratings": "2023-10-20T02:15:25.384999+00:00",
-  "LastUpdate_Achievements": "2023-10-20T02:25:23.2720617+00:00"
+  "LastUpdate_Ratings": "2023-10-20T02:59:31.6165827+00:00",
+  "LastUpdate_Achievements": "2023-10-20T03:09:09.6607499+00:00"
 }

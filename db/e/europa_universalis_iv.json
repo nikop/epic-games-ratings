@@ -10959,9 +10959,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 434701,
+  "EOS_Progressed": 434717,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5636,
+  "EOS_NewPlayers": 5641,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31729,6 +31729,11 @@
       "Time": "2023-10-20T02:19:40.5545878+00:00",
       "NumProgressed": 434701,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-20T03:03:39.8055542+00:00",
+      "NumProgressed": 434717,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -32740,7 +32745,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17388
+      "UsersEstimate": 17389
     },
     {
       "ID": "achievement_grand_coalition",
@@ -34020,7 +34025,7 @@
       "Name": "That is mine!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 13041
+      "UsersEstimate": 13042
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -34404,7 +34409,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17388
+      "UsersEstimate": 17389
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -34436,7 +34441,7 @@
       "Name": "Victorious!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17388
+      "UsersEstimate": 17389
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -34571,21 +34576,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 434701,
+      "Progressed": 434717,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 434701,
+      "Progressed": 434717,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-10-19T21:58:26.1961319+00:00",
-  "LastChanged_Achievements": "2023-10-20T02:19:40.5545873+00:00",
+  "LastChanged_Achievements": "2023-10-20T03:03:39.8055538+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:17.3086374+00:00",
-  "LastUpdate_Ratings": "2023-10-20T02:14:54.1846737+00:00",
-  "LastUpdate_Achievements": "2023-10-20T02:19:40.5559918+00:00"
+  "LastUpdate_Ratings": "2023-10-20T02:58:52.1923263+00:00",
+  "LastUpdate_Achievements": "2023-10-20T03:03:39.8068078+00:00"
 }

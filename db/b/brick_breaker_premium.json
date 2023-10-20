@@ -4,7 +4,7 @@
   "ProductSlug": "brick-breaker-premium-f28b1e",
   "Ranking_EOS_Progress": 683,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewPlayers": 404,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-05-05T22:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-05T18:57:17.3054312+00:00",
   "LastUpdate_AppInfo": "2023-10-14T13:57:01.584816+00:00",
-  "LastUpdate_Ratings": "2023-10-20T02:14:42.7928466+00:00",
-  "LastUpdate_Achievements": "2023-10-20T02:25:36.3353264+00:00"
+  "LastUpdate_Ratings": "2023-10-20T02:58:38.3004677+00:00",
+  "LastUpdate_Achievements": "2023-10-20T03:09:25.3296343+00:00"
 }

@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25135,
+  "EOS_Progressed": 25141,
   "EOS_Completed": 11759,
-  "EOS_NewPlayers": 2382,
+  "EOS_NewPlayers": 2385,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 46.78,
+  "EOS_Completed_Percentage": 46.77,
   "EosHistory": [
     {
       "Time": "2023-08-15T10:06:43.8267441+00:00",
@@ -6099,6 +6099,11 @@
       "Time": "2023-10-20T02:21:34.6955626+00:00",
       "NumProgressed": 25135,
       "NumCompleted": 11759
+    },
+    {
+      "Time": "2023-10-20T03:05:27.9340058+00:00",
+      "NumProgressed": 25141,
+      "NumCompleted": 11759
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -6119,7 +6124,7 @@
       "Name": "First blood",
       "Percentage": 63,
       "XP": 25,
-      "UsersEstimate": 15835
+      "UsersEstimate": 15839
     },
     {
       "ID": "grenadeKills",
@@ -6135,7 +6140,7 @@
       "Name": "Head popping I",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1006
     },
     {
       "ID": "headshots1000",
@@ -6165,9 +6170,9 @@
       "ID": "matchesLost",
       "SetID": "b3jeemd",
       "Name": "Hang in there",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 101
+      "UsersEstimate": 126
     },
     {
       "ID": "matchesWon",
@@ -6222,14 +6227,14 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 25135,
+      "Progressed": 25141,
       "Completed": 11759
     }
   ],
   "FirstSeen": "2023-09-28T12:00:24.9112474+00:00",
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
-  "LastChanged_Achievements": "2023-10-20T02:21:34.6955621+00:00",
+  "LastChanged_Achievements": "2023-10-20T03:05:27.9340053+00:00",
   "LastUpdate_AppInfo": "2023-10-14T10:57:22.1358598+00:00",
-  "LastUpdate_Ratings": "2023-10-20T02:15:46.5619682+00:00",
-  "LastUpdate_Achievements": "2023-10-20T02:21:34.6956071+00:00"
+  "LastUpdate_Ratings": "2023-10-20T02:59:57.1548567+00:00",
+  "LastUpdate_Achievements": "2023-10-20T03:05:27.934059+00:00"
 }
