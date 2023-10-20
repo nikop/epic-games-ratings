@@ -2,13 +2,13 @@
   "ID": "e33138cc2b964d38a42a812b83b6507e",
   "Name": "City of Gangsters",
   "ProductSlug": "city-of-gangsters-6c2974",
-  "Ranking_Rating": 832,
+  "Ranking_Rating": 833,
   "Ranking_Popularity": 447,
   "Ranking_PopularitySum": 399,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -688,9 +688,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 348435,
+  "EOS_Progressed": 348437,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 949,
+  "EOS_NewPlayers": 951,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21313,6 +21313,11 @@
       "Time": "2023-10-20T06:06:01.7034466+00:00",
       "NumProgressed": 348435,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-20T08:06:04.9463849+00:00",
+      "NumProgressed": 348437,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -21428,7 +21433,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 52265
+      "UsersEstimate": 52266
     },
     {
       "ID": "ach015",
@@ -21532,7 +21537,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 160280
+      "UsersEstimate": 160281
     },
     {
       "ID": "ach028",
@@ -21660,7 +21665,7 @@
       "Name": "Street Fighter",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 24390
+      "UsersEstimate": 24391
     },
     {
       "ID": "ach044",
@@ -21684,7 +21689,7 @@
       "Name": "Friendly Gestures",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 24390
+      "UsersEstimate": 24391
     },
     {
       "ID": "ach047",
@@ -21932,7 +21937,7 @@
       "Name": "People Person",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 24390
+      "UsersEstimate": 24391
     },
     {
       "ID": "ach079",
@@ -21963,7 +21968,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 348435,
+      "Progressed": 348437,
       "Completed": 7
     }
   ],
@@ -21971,8 +21976,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-10-19T15:58:26.556201+00:00",
-  "LastChanged_Achievements": "2023-10-20T07:05:33.5396149+00:00",
+  "LastChanged_Achievements": "2023-10-20T08:06:04.9463844+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:45.8070686+00:00",
-  "LastUpdate_Ratings": "2023-10-20T06:58:31.4360396+00:00",
-  "LastUpdate_Achievements": "2023-10-20T07:05:33.539828+00:00"
+  "LastUpdate_Ratings": "2023-10-20T07:59:02.5640172+00:00",
+  "LastUpdate_Achievements": "2023-10-20T08:06:04.9466191+00:00"
 }

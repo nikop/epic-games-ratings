@@ -6,15 +6,15 @@ Rating: 4.67 (Ranked 265)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Azoria Beckons | 73.00% | ~5,019 |
-| A Thorny Situation | 70.00% | ~4,812 |
-| ... And Spit Back Out | 60.00% | ~4,125 |
+| A Thorny Situation | 70.00% | ~4,813 |
+| ... And Spit Back Out | 60.00% | ~4,126 |
 | Break-Net Speed | 48.00% | ~3,300 |
-| Bramble Breaker | 46.00% | ~3,162 |
-| Miner 49er | 42.00% | ~2,888 |
+| Bramble Breaker | 46.00% | ~3,163 |
+| Miner 49er | 43.00% | ~2,957 |
 | Humble Collector | 42.00% | ~2,888 |
 | Calm Sailing | 36.00% | ~2,475 |
 | Open the Gate! | 33.00% | ~2,269 |
-| Mist Walker | 31.00% | ~2,131 |
+| Mist Walker | 31.00% | ~2,132 |
 | Lumberjack | 26.00% | ~1,788 |
 | Oui, Chef! | 23.00% | ~1,581 |
 | Clear the Air | 18.00% | ~1,238 |
@@ -28,8 +28,8 @@ Rating: 4.67 (Ranked 265)
 | Got to Catch Them All | 7.00% | ~481 |
 | Rumble in the Jumble | 7.00% | ~481 |
 | Fanatical Farmer | 7.00% | ~481 |
-| Scattered Scroll Scrounger | 6.00% | ~412 |
-| Azorian Anniversary | 6.00% | ~412 |
+| Scattered Scroll Scrounger | 6.00% | ~413 |
+| Azorian Anniversary | 6.00% | ~413 |
 | I Now Pronounce You... | 4.00% | ~275 |
 | Chatty Neighbor | 4.00% | ~275 |
 | Right Tool For the Job | 3.00% | ~206 |
@@ -41,7 +41,7 @@ Rating: 4.67 (Ranked 265)
 | Giving the People What They Want | 0.10% | ~7 |
 | Very Skilled | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,875 (Ranked 164)  
+Progressed: 6,876 (Ranked 164)  
 Completed: 0 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 0 (0.00%) (Ranked 316)
 | 2023-10-17 | 6,772 | 0 |
 | 2023-10-18 | 6,810 | 0 |
 | 2023-10-19 | 6,869 | 0 |
-| 2023-10-20 | 6,875 | 0 |
+| 2023-10-20 | 6,876 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

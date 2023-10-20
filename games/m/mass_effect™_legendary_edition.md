@@ -22,16 +22,16 @@
 | Principled | 52.00% | ~390 |
 | Medal of Exploration III | 51.00% | ~382 |
 | Asari Ally | 51.00% | ~382 |
+| Paramour I | 49.00% | ~368 |
 | Soldier Ally | 49.00% | ~368 |
-| Paramour I | 48.00% | ~360 |
 | Colonial Savior | 48.00% | ~360 |
 | Scientist | 48.00% | ~360 |
 | Merciless | 47.00% | ~352 |
 | Krogan Ally | 45.00% | ~338 |
+| Missing in Action | 44.00% | ~330 |
 | Very Elusive | 44.00% | ~330 |
 | Head Hunter | 44.00% | ~330 |
 | Sentinel Ally | 43.00% | ~322 |
-| Missing in Action | 43.00% | ~322 |
 | Scholar | 42.00% | ~315 |
 | Veteran | 41.00% | ~308 |
 | Operative | 41.00% | ~308 |

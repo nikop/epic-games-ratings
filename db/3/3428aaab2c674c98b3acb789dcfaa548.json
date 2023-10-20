@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 16,
   "Ranking_EOS_Completed": 290,
   "Ranking_EOS_NewPlayers": 21,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-06-01T15:00:00+00:00",
     "PcReleaseDate": "2010-10-19T11:26:00+00:00",
@@ -6339,10 +6339,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 13919,
       "NumberOfAwardsMax": 4876
+    },
+    {
+      "Time": "2023-10-20T07:58:16.5000409+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 13930,
+      "NumberOfAwardsMax": 4876
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13919,
+  "NumberOfAwards": 13930,
   "NumberOfAwardsMax": 4876,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6356,7 +6362,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2714
+      "Count": 2725
     },
     {
       "Text": "This game has Diverse Characters",
@@ -6419,9 +6425,9 @@
       "Count": 995
     }
   ],
-  "EOS_Progressed": 819689,
+  "EOS_Progressed": 819706,
   "EOS_Completed": 183,
-  "EOS_NewPlayers": 4920,
+  "EOS_NewPlayers": 4917,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -23724,6 +23730,11 @@
       "Time": "2023-10-20T07:06:43.0756675+00:00",
       "NumProgressed": 819689,
       "NumCompleted": 183
+    },
+    {
+      "Time": "2023-10-20T08:07:32.8463742+00:00",
+      "NumProgressed": 819706,
+      "NumCompleted": 183
     }
   ],
   "TotalAchievements": 75,
@@ -23735,7 +23746,7 @@
       "Name": "Ain\u0027t That a Kick in the Head",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 188528
+      "UsersEstimate": 188532
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -23743,7 +23754,7 @@
       "Name": "All or Nothing",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4098
+      "UsersEstimate": 4099
     },
     {
       "ID": "ACHIEVEMENT_ARIZONA_KILLER",
@@ -23815,7 +23826,7 @@
       "Name": "Come Fly With Me",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 40984
+      "UsersEstimate": 40985
     },
     {
       "ID": "ACHIEVEMENT_CONDEMNED_TO_REPEAT_IT",
@@ -23831,7 +23842,7 @@
       "Name": "Crafty",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 49181
+      "UsersEstimate": 49182
     },
     {
       "ID": "ACHIEVEMENT_CURIOS_AND_RELICS",
@@ -23959,7 +23970,7 @@
       "Name": "Lead Dealer",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 40984
+      "UsersEstimate": 40985
     },
     {
       "ID": "ACHIEVEMENT_LITTLE_WHEEL",
@@ -23967,7 +23978,7 @@
       "Name": "Little Wheel",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 4098
+      "UsersEstimate": 4099
     },
     {
       "ID": "ACHIEVEMENT_LOVE_THE_BOMB",
@@ -24015,7 +24026,7 @@
       "Name": "May my Hand Forget its Skill",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 4098
+      "UsersEstimate": 4099
     },
     {
       "ID": "ACHIEVEMENT_MOD_MASTER",
@@ -24031,7 +24042,7 @@
       "Name": "New Kid",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 49181
+      "UsersEstimate": 49182
     },
     {
       "ID": "ACHIEVEMENT_NEW_VEGAS_SAMURAI",
@@ -24071,7 +24082,7 @@
       "Name": "Ol\u0027 Buddy Ol\u0027 Pal",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 49181
+      "UsersEstimate": 49182
     },
     {
       "ID": "ACHIEVEMENT_ONE_ARMED_BANDIT",
@@ -24143,7 +24154,7 @@
       "Name": "Ring-a-Ding-Ding",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 40984
+      "UsersEstimate": 40985
     },
     {
       "ID": "ACHIEVEMENT_ROCKETS_RED_GLARE",
@@ -24207,7 +24218,7 @@
       "Name": "They Went That-a-Way",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 49181
+      "UsersEstimate": 49182
     },
     {
       "ID": "ACHIEVEMENT_THE_BOSS",
@@ -24231,7 +24242,7 @@
       "Name": "The House Always Wins",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 4098
+      "UsersEstimate": 4099
     },
     {
       "ID": "ACHIEVEMENT_THE_LEGEND_OF_THE_STAR",
@@ -24239,7 +24250,7 @@
       "Name": "The Legend of the Star",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 4098
+      "UsersEstimate": 4099
     },
     {
       "ID": "ACHIEVEMENT_THE_WHOLE_GANGS_HERE",
@@ -24287,7 +24298,7 @@
       "Name": "Walker of the Mojave",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 40984
+      "UsersEstimate": 40985
     },
     {
       "ID": "ACHIEVEMENT_WARHEAD_HUNTER",
@@ -24334,22 +24345,22 @@
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 819689,
+      "Progressed": 819706,
       "Completed": 222
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 819689,
+      "Progressed": 819706,
       "Completed": 183
     }
   ],
   "FirstSeen": "2023-06-01T15:57:19.0339471+00:00",
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
-  "LastChanged": "2023-10-20T06:57:56.5289495+00:00",
-  "LastChanged_Achievements": "2023-10-20T07:06:43.0756672+00:00",
+  "LastChanged": "2023-10-20T07:58:16.5000408+00:00",
+  "LastChanged_Achievements": "2023-10-20T08:07:32.8463737+00:00",
   "LastUpdate_AppInfo": "2023-10-20T05:57:00.8031772+00:00",
-  "LastUpdate_Ratings": "2023-10-20T06:57:56.52895+00:00",
-  "LastUpdate_Achievements": "2023-10-20T07:06:43.0758477+00:00"
+  "LastUpdate_Ratings": "2023-10-20T07:58:16.5000414+00:00",
+  "LastUpdate_Achievements": "2023-10-20T08:07:32.8465628+00:00"
 }

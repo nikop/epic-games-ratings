@@ -10,12 +10,12 @@
 | Train hard, fight easy | 50.00% | ~2 |
 | Royal blessing | 50.00% | ~2 |
 | Under cover | 50.00% | ~2 |
+| A hidden snake | 50.00% | ~2 |
 | Power of Inquisition | 25.00% | ~1 |
 | Surpass the teacher | 25.00% | ~1 |
 | By own strength | 25.00% | ~1 |
 | A solo player | 25.00% | ~1 |
 | Do it yourself | 25.00% | ~1 |
-| A hidden snake | 25.00% | ~1 |
 | Blood and sand | 25.00% | ~1 |
 | Crimson rivers | 0.00% | ~0 |
 | For the greater good | 0.00% | ~0 |

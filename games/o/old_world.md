@@ -93,6 +93,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Traders | 0.60% | ~89 |
 | Hittite Iron | 0.60% | ~89 |
 | Circus Maximus | 0.60% | ~89 |
+| Hagia Sophia | 0.60% | ~89 |
 | Temple of Solomon | 0.60% | ~89 |
 | Pantheon | 0.60% | ~89 |
 | Via Recta Souk | 0.60% | ~89 |
@@ -108,7 +109,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Capable | 0.50% | ~74 |
 | Strong Difficulty | 0.50% | ~74 |
 | Hunters | 0.50% | ~74 |
-| Hagia Sophia | 0.50% | ~74 |
 | Church of the Holy Sepulchre | 0.50% | ~74 |
 | Babylonia | 0.50% | ~74 |
 | Carthage | 0.50% | ~74 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,811 (Ranked 137)  
+Progressed: 14,812 (Ranked 137)  
 Completed: 5 (0.03%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -532,7 +532,7 @@ Completed: 5 (0.03%) (Ranked 285)
 | 2023-10-17 | 14,775 | 5 |
 | 2023-10-18 | 14,791 | 5 |
 | 2023-10-19 | 14,805 | 5 |
-| 2023-10-20 | 14,811 | 5 |
+| 2023-10-20 | 14,812 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,848 (Ranked 211)  

@@ -1,17 +1,17 @@
 # SYNCED
 [Store](https://store.epicgames.com/en-US/p/synced)  
 [View Rawdata](../../db/s/synced.json)  
-Rating: 4.16 (Ranked 914)  
+Rating: 4.17 (Ranked 912)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 31.00% | ~19,795 |
+| Your Lucky Day | 31.00% | ~19,796 |
 | As Far Away As Possible | 16.00% | ~10,217 |
 | A Most Unstable Organism | 12.00% | ~7,663 |
 | No Time to Follow Protocol | 10.00% | ~6,386 |
-| Float Like a Butterfly... | 8.00% | ~5,108 |
-| Nano Connoisseur | 6.00% | ~3,831 |
-| In Two Places At Once | 6.00% | ~3,831 |
+| Float Like a Butterfly... | 8.00% | ~5,109 |
+| Nano Connoisseur | 6.00% | ~3,832 |
+| In Two Places At Once | 6.00% | ~3,832 |
 | Pulling Your Weight | 3.00% | ~1,916 |
 | Reaping Rivals | 3.00% | ~1,916 |
 | fifteenth Time's the Charm | 1.00% | ~639 |
@@ -22,7 +22,7 @@ Rating: 4.16 (Ranked 914)
 | Runs for Your Money | 0.20% | ~128 |
 | Past Master | 0.20% | ~128 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,856 (Ranked 97)  
+Progressed: 63,859 (Ranked 97)  
 Completed: 20 (0.03%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,11 +76,11 @@ Completed: 20 (0.03%) (Ranked 285)
 | 2023-10-17 | 63,567 | 18 |
 | 2023-10-18 | 63,694 | 18 |
 | 2023-10-19 | 63,825 | 20 |
-| 2023-10-20 | 63,856 | 20 |
+| 2023-10-20 | 63,859 | 20 |
 ## Awards
 Max (Great for Beginners): 74  (Ranked 384)  
-Sum: 271 (Ranked 365)  
-Diff (max vs sum): 19  
+Sum: 274 (Ranked 362)  
+Diff (max vs sum): 22  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 74 |
@@ -88,8 +88,8 @@ Diff (max vs sum): 19
 | This game is Highly Recommended | 38 |
 | This game is Extremely Fun | 33 |
 | This game has a Competitive Community | 32 |
+| This game has Amazing Storytelling | 30 |
 | This game has Quickly Understood Controls | 28 |
-| This game has Amazing Storytelling | 27 |
 | This game is Relaxing | 24 |
 | This game has Unique Visuals | 20 |
 ## Ratings History
@@ -136,4 +136,4 @@ Diff (max vs sum): 19
 | 2023-10-17 | 4.17 | 71 | 269 |
 | 2023-10-18 | 4.17 | 71 | 267 |
 | 2023-10-19 | 4.17 | 74 | 270 |
-| 2023-10-20 | 4.16 | 74 | 271 |
+| 2023-10-20 | 4.17 | 74 | 274 |

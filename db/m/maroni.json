@@ -3,8 +3,8 @@
   "Name": "Maroni",
   "Ranking_EOS_Progress": 683,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 400,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:32:33.5585754+00:00",
-  "LastUpdate_Ratings": "2023-10-20T06:59:33.7668155+00:00",
-  "LastUpdate_Achievements": "2023-10-20T07:04:13.0699938+00:00"
+  "LastUpdate_Ratings": "2023-10-20T08:00:27.8664975+00:00",
+  "LastUpdate_Achievements": "2023-10-20T08:04:25.0486011+00:00"
 }

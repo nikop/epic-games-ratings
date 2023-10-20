@@ -2,12 +2,12 @@
   "ID": "d613614e082c4f648835a32f15c1d29b",
   "Name": "SYNCED",
   "ProductSlug": "synced",
-  "Ranking_Rating": 914,
+  "Ranking_Rating": 912,
   "Ranking_Popularity": 384,
-  "Ranking_PopularitySum": 365,
+  "Ranking_PopularitySum": 362,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 68,
+  "Ranking_EOS_NewPlayers": 67,
   "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.16,
+  "Rating": 4.17,
   "RatingHistory": [
     {
       "Time": "2023-09-09T22:00:06.1147594+00:00",
@@ -685,10 +685,16 @@
       "Rating": 4.16,
       "NumberOfAwards": 271,
       "NumberOfAwardsMax": 74
+    },
+    {
+      "Time": "2023-10-20T07:59:11.0184927+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 274,
+      "NumberOfAwardsMax": 74
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 271,
+  "NumberOfAwards": 274,
   "NumberOfAwardsMax": 74,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -726,7 +732,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 27
+      "Count": 30
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -747,7 +753,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 63856,
+  "EOS_Progressed": 63859,
   "EOS_Completed": 20,
   "EOS_NewPlayers": 1055,
   "EOS_NewCompleters": 5,
@@ -5897,6 +5903,11 @@
       "Time": "2023-10-20T07:09:31.313228+00:00",
       "NumProgressed": 63856,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-10-20T08:09:46.5409604+00:00",
+      "NumProgressed": 63859,
+      "NumCompleted": 20
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -5909,7 +5920,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 19795
+      "UsersEstimate": 19796
     },
     {
       "ID": "10",
@@ -5949,7 +5960,7 @@
       "Name": "Nano Connoisseur",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 3831
+      "UsersEstimate": 3832
     },
     {
       "ID": "15",
@@ -5997,7 +6008,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 5108
+      "UsersEstimate": 5109
     },
     {
       "ID": "6",
@@ -6005,7 +6016,7 @@
       "Name": "In Two Places At Once",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 3831
+      "UsersEstimate": 3832
     },
     {
       "ID": "7",
@@ -6036,16 +6047,16 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 63856,
+      "Progressed": 63859,
       "Completed": 20
     }
   ],
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged": "2023-10-20T01:41:04.1587335+00:00",
-  "LastChanged_Achievements": "2023-10-20T07:09:31.3132275+00:00",
+  "LastChanged": "2023-10-20T07:59:11.0184925+00:00",
+  "LastChanged_Achievements": "2023-10-20T08:09:46.5409599+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:34.3906075+00:00",
-  "LastUpdate_Ratings": "2023-10-20T06:58:37.67141+00:00",
-  "LastUpdate_Achievements": "2023-10-20T07:09:31.3132695+00:00"
+  "LastUpdate_Ratings": "2023-10-20T07:59:11.0184931+00:00",
+  "LastUpdate_Achievements": "2023-10-20T08:09:46.5410128+00:00"
 }

@@ -1,42 +1,42 @@
 # Train Valley 2
 [Store](https://store.epicgames.com/en-US/p/train-valley-2-3606da)  
 [View Rawdata](../../db/t/train_valley_2.json)  
-Rating: 4.44 (Ranked 660)  
+Rating: 4.44 (Ranked 661)  
 Number of Ratings: 87  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~297,703 |
-| Full garage | 60.00% | ~244,688 |
-| To the eyeballs! | 51.00% | ~207,985 |
-| Individual delivery | 46.00% | ~187,594 |
-| Non-Stop | 44.00% | ~179,438 |
-| Juggler | 36.00% | ~146,813 |
-| Forgot something | 35.00% | ~142,735 |
-| Close call! | 30.00% | ~122,344 |
-| Get out my way | 28.00% | ~114,188 |
-| Common cause | 26.00% | ~106,031 |
-| Critical care | 26.00% | ~106,031 |
-| Mega-railroad | 23.00% | ~93,797 |
-| Upgrade complete | 23.00% | ~93,797 |
-| Just in time! | 18.00% | ~73,406 |
-| Builder | 17.00% | ~69,328 |
-| Long Haul | 17.00% | ~69,216 |
-| Steam Age | 16.00% | ~65,250 |
-| Multilevel road | 15.00% | ~61,172 |
-| Bridgemania | 14.00% | ~57,094 |
-| Need to think | 14.00% | ~57,094 |
-| The Tortoise | 12.00% | ~48,938 |
-| Without a lunch break | 11.00% | ~44,859 |
-| Beginner | 10.00% | ~40,781 |
-| One way | 10.00% | ~40,781 |
-| Relocation | 10.00% | ~40,781 |
-| Industrial Age | 9.00% | ~36,703 |
-| Just One More Valley | 9.00% | ~36,644 |
-| Prick of conscience | 8.00% | ~32,625 |
-| Missed it! | 7.00% | ~28,547 |
-| At the last moment! | 6.00% | ~24,469 |
-| Overseer | 6.00% | ~24,469 |
+| Dealmaker | 73.00% | ~297,714 |
+| Full garage | 60.00% | ~244,696 |
+| To the eyeballs! | 51.00% | ~207,992 |
+| Individual delivery | 46.00% | ~187,600 |
+| Non-Stop | 44.00% | ~179,444 |
+| Juggler | 36.00% | ~146,818 |
+| Forgot something | 35.00% | ~142,739 |
+| Close call! | 30.00% | ~122,348 |
+| Get out my way | 28.00% | ~114,192 |
+| Common cause | 26.00% | ~106,035 |
+| Critical care | 26.00% | ~106,035 |
+| Mega-railroad | 23.00% | ~93,800 |
+| Upgrade complete | 23.00% | ~93,800 |
+| Just in time! | 18.00% | ~73,409 |
+| Builder | 17.00% | ~69,331 |
+| Long Haul | 17.00% | ~69,219 |
+| Steam Age | 16.00% | ~65,252 |
+| Multilevel road | 15.00% | ~61,174 |
+| Bridgemania | 14.00% | ~57,096 |
+| Need to think | 14.00% | ~57,096 |
+| The Tortoise | 12.00% | ~48,939 |
+| Without a lunch break | 11.00% | ~44,861 |
+| Beginner | 10.00% | ~40,783 |
+| One way | 10.00% | ~40,783 |
+| Relocation | 10.00% | ~40,783 |
+| Industrial Age | 9.00% | ~36,704 |
+| Just One More Valley | 9.00% | ~36,645 |
+| Prick of conscience | 8.00% | ~32,626 |
+| Missed it! | 7.00% | ~28,548 |
+| At the last moment! | 6.00% | ~24,470 |
+| Overseer | 6.00% | ~24,470 |
 | Jewelry accuracy | 5.00% | ~20,391 |
 | Stargazer | 5.00% | ~20,391 |
 | Bridge builder | 4.00% | ~16,313 |
@@ -44,18 +44,18 @@ Number of Ratings: 87  (23.09.2022)
 | Highlander | 4.00% | ~16,313 |
 | Large construction | 4.00% | ~16,313 |
 | Squander | 4.00% | ~16,313 |
-| Engineer | 3.00% | ~12,234 |
-| Living it large | 3.00% | ~12,234 |
-| Sabotage | 3.00% | ~12,234 |
+| Engineer | 3.00% | ~12,235 |
+| Living it large | 3.00% | ~12,235 |
+| Sabotage | 3.00% | ~12,235 |
 | Test Batch | 3.00% | ~12,215 |
-| Astronomer | 2.00% | ~8,156 |
-| Globalisation Age | 2.00% | ~8,156 |
-| Innovator | 2.00% | ~8,156 |
-| Lucky vandal | 2.00% | ~8,156 |
-| The Hare | 2.00% | ~8,156 |
-| Vandal | 2.00% | ~8,156 |
-| Will work | 2.00% | ~8,156 |
-| Woodcutter | 2.00% | ~8,156 |
+| Astronomer | 2.00% | ~8,157 |
+| Globalisation Age | 2.00% | ~8,157 |
+| Innovator | 2.00% | ~8,157 |
+| Lucky vandal | 2.00% | ~8,157 |
+| The Hare | 2.00% | ~8,157 |
+| Vandal | 2.00% | ~8,157 |
+| Will work | 2.00% | ~8,157 |
+| Woodcutter | 2.00% | ~8,157 |
 | Occupied! | 2.00% | ~8,143 |
 | Achiever | 1.00% | ~4,078 |
 | Metro builder | 1.00% | ~4,078 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~407 |
 | World Zapper | 0.10% | ~407 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 407,813 (Ranked 42)  
+Progressed: 407,827 (Ranked 42)  
 Completed: 19 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 19 (0.00%) (Ranked 316)
 | 2023-10-17 | 407,192 | 19 |
 | 2023-10-18 | 407,479 | 19 |
 | 2023-10-19 | 407,744 | 19 |
-| 2023-10-20 | 407,813 | 19 |
+| 2023-10-20 | 407,827 | 19 |
 ## Awards
 Max (Challenging Puzzles): 784  (Ranked 167)  
 Sum: 1,589 (Ranked 221)  

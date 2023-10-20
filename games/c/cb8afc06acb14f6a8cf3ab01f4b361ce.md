@@ -1,30 +1,30 @@
 # Soulstice
 [Store](https://store.epicgames.com/en-US/p/soulstice)  
 [View Rawdata](../../db/c/cb8afc06acb14f6a8cf3ab01f4b361ce.json)  
-Rating: 4.18 (Ranked 902)  
+Rating: 4.18 (Ranked 903)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The touch of Chaos | 38.00% | ~106,942 |
-| May the Torchbearer light our way | 36.00% | ~101,314 |
-| A powerful aura was here | 23.00% | ~64,728 |
-| Let's raise the stakes!! | 10.00% | ~28,143 |
-| Your wounds… They are healing so fast! | 6.00% | ~16,886 |
-| Rumors are true | 5.00% | ~14,071 |
-| Pride is a sin, young Knight | 5.00% | ~14,071 |
-| Bring it on! | 5.00% | ~14,071 |
-| We'll be careful | 4.00% | ~11,257 |
-| Back to your senses | 3.00% | ~8,443 |
+| The touch of Chaos | 38.00% | ~106,959 |
+| May the Torchbearer light our way | 36.00% | ~101,329 |
+| A powerful aura was here | 23.00% | ~64,738 |
+| Let's raise the stakes!! | 10.00% | ~28,147 |
+| Your wounds… They are healing so fast! | 6.00% | ~16,888 |
+| Rumors are true | 5.00% | ~14,074 |
+| Pride is a sin, young Knight | 5.00% | ~14,074 |
+| Bring it on! | 5.00% | ~14,074 |
+| We'll be careful | 4.00% | ~11,259 |
+| Back to your senses | 3.00% | ~8,444 |
 | They tricked me | 2.00% | ~5,629 |
 | We need to talk | 2.00% | ~5,629 |
 | They won't last long | 2.00% | ~5,629 |
 | I took a risk | 2.00% | ~5,629 |
-| I feel drawn to it | 1.00% | ~2,814 |
-| Here to stay | 1.00% | ~2,814 |
-| Counting on you | 1.00% | ~2,814 |
-| This is the end | 1.00% | ~2,814 |
-| We can choose to fight | 1.00% | ~2,814 |
-| Their fate is sealed | 1.00% | ~2,814 |
+| I feel drawn to it | 1.00% | ~2,815 |
+| Here to stay | 1.00% | ~2,815 |
+| Counting on you | 1.00% | ~2,815 |
+| This is the end | 1.00% | ~2,815 |
+| We can choose to fight | 1.00% | ~2,815 |
+| Their fate is sealed | 1.00% | ~2,815 |
 | Not even from this world | 0.60% | ~1,689 |
 | You want more? I've got more! | 0.50% | ~1,407 |
 | No damsels in distress | 0.30% | ~844 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 902)
 | We strike as one | 0.10% | ~281 |
 | Chaos be damned! | 0.10% | ~281 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 281,427 (Ranked 49)  
+Progressed: 281,470 (Ranked 49)  
 Completed: 1 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 1 (0.00%) (Ranked 316)
 | 2023-10-17 | 278,045 | 1 |
 | 2023-10-18 | 279,492 | 1 |
 | 2023-10-19 | 280,964 | 1 |
-| 2023-10-20 | 281,427 | 1 |
+| 2023-10-20 | 281,470 | 1 |
 ## Awards
 Max (Great Boss Battles): 33  (Ranked 468)  
 Sum: 33 (Ranked 493)  

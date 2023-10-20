@@ -1281,9 +1281,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 20370,
+  "EOS_Progressed": 20371,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 462,
+  "EOS_NewPlayers": 458,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -21111,6 +21111,11 @@
       "Time": "2023-10-20T07:06:14.2343302+00:00",
       "NumProgressed": 20370,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2023-10-20T08:06:56.1506031+00:00",
+      "NumProgressed": 20371,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 45,
@@ -21210,7 +21215,7 @@
       "Name": "Homerunner",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 9166
+      "UsersEstimate": 9167
     },
     {
       "ID": "ICallItLuck",
@@ -21258,7 +21263,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 15481
+      "UsersEstimate": 15482
     },
     {
       "ID": "MoreThanHuman",
@@ -21266,7 +21271,7 @@
       "Name": "More than human",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 2444
+      "UsersEstimate": 2445
     },
     {
       "ID": "Neuromancer",
@@ -21314,7 +21319,7 @@
       "Name": "Perfection",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 6518
+      "UsersEstimate": 6519
     },
     {
       "ID": "PreempativeStrike",
@@ -21322,7 +21327,7 @@
       "Name": "Pre-empative strike",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2444
+      "UsersEstimate": 2445
     },
     {
       "ID": "PushItToTheLimit",
@@ -21386,7 +21391,7 @@
       "Name": "Strike",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2444
+      "UsersEstimate": 2445
     },
     {
       "ID": "SwordRunner",
@@ -21402,7 +21407,7 @@
       "Name": "Sword to a gunfight",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 5907
+      "UsersEstimate": 5908
     },
     {
       "ID": "TripleA",
@@ -21418,7 +21423,7 @@
       "Name": "Unstoppable force",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 4481
+      "UsersEstimate": 4482
     },
     {
       "ID": "UpCloseAndPersonal",
@@ -21434,7 +21439,7 @@
       "Name": "Upgrades not mandatory",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 5907
+      "UsersEstimate": 5908
     },
     {
       "ID": "Wallrunner",
@@ -21442,7 +21447,7 @@
       "Name": "Wallrunner",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 10796
+      "UsersEstimate": 10797
     },
     {
       "ID": "WaveOfMutilation",
@@ -21450,7 +21455,7 @@
       "Name": "Wave of mutilation",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 4481
+      "UsersEstimate": 4482
     },
     {
       "ID": "WhereAreMyKeys",
@@ -21466,7 +21471,7 @@
       "Name": "Where He Stood",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1019
     },
     {
       "ID": "WhyNotBoth",
@@ -21481,21 +21486,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 20370,
+      "Progressed": 20371,
       "Completed": 47
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 20370,
+      "Progressed": 20371,
       "Completed": 75
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-10-19T11:58:16.9304823+00:00",
-  "LastChanged_Achievements": "2023-10-20T07:06:14.2343297+00:00",
+  "LastChanged_Achievements": "2023-10-20T08:06:56.1506022+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:38.0192871+00:00",
-  "LastUpdate_Ratings": "2023-10-20T06:58:08.5726101+00:00",
-  "LastUpdate_Achievements": "2023-10-20T07:06:14.2344915+00:00"
+  "LastUpdate_Ratings": "2023-10-20T07:58:34.4265629+00:00",
+  "LastUpdate_Achievements": "2023-10-20T08:06:56.1507781+00:00"
 }

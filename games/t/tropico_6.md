@@ -6,16 +6,16 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~4,212 |
+| Just One...More...Term... | 75.00% | ~4,213 |
 | Un-Lonely Island | 47.00% | ~2,640 |
-| The Beginning of a Servantship | 45.00% | ~2,527 |
+| The Beginning of a Servantship | 45.00% | ~2,528 |
 | Trade Is My Trait | 37.00% | ~2,078 |
 | Number 18 | 24.00% | ~1,348 |
 | We Don't Have Time For That | 19.00% | ~1,067 |
 | The Legend of Langostino | 17.00% | ~955 |
 | The Governator | 17.00% | ~955 |
 | Caribbean Comrade | 16.00% | ~899 |
-| The Dreamer of Dreams | 15.00% | ~842 |
+| The Dreamer of Dreams | 15.00% | ~843 |
 | Go Sovereigns! | 11.00% | ~618 |
 | For Science! | 11.00% | ~618 |
 | Happy Ending? | 10.00% | ~562 |
@@ -32,11 +32,11 @@ Number of Ratings: 398  (23.09.2022)
 | Viva Tropico! | 5.00% | ~281 |
 | Watch The World Burn | 5.00% | ~281 |
 | Fairy Tale Come True | 5.00% | ~281 |
-| Been there, Done That | 3.00% | ~168 |
-| Apocalypso | 3.00% | ~168 |
-| Narcissist | 3.00% | ~168 |
-| Promising Endeavors | 3.00% | ~168 |
-| The Time For Wonders | 3.00% | ~168 |
+| Been there, Done That | 3.00% | ~169 |
+| Apocalypso | 3.00% | ~169 |
+| Narcissist | 3.00% | ~169 |
+| Promising Endeavors | 3.00% | ~169 |
+| The Time For Wonders | 3.00% | ~169 |
 | Chain Gang | 2.00% | ~112 |
 | One Does Not Simply Stage A Coup | 2.00% | ~112 |
 | Sublime Subliminal Supreme | 2.00% | ~112 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~51 |
 | My Ways | 0.30% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,616 (Ranked 170)  
+Progressed: 5,617 (Ranked 170)  
 Completed: 2 (0.04%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,6 +230,7 @@ Completed: 2 (0.04%) (Ranked 279)
 | 2023-10-17 | 5,596 | 2 |
 | 2023-10-18 | 5,605 | 2 |
 | 2023-10-19 | 5,616 | 2 |
+| 2023-10-20 | 5,617 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 100  (Ranked 349)  
 Sum: 712 (Ranked 284)  

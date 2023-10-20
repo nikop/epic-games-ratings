@@ -34,9 +34,9 @@
 | Half hat | 45.00% | ~5 |
 | Sick Kids | 45.00% | ~5 |
 | Pale Kids | 45.00% | ~5 |
+| School Kids | 45.00% | ~5 |
 | Post Industrial | 45.00% | ~5 |
 | No More Remains | 36.00% | ~4 |
-| School Kids | 36.00% | ~4 |
 | Primetime Content Consumer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 11 (Ranked 535)  

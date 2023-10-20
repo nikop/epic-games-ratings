@@ -4,8 +4,8 @@
   "ProductSlug": "match-village-5f41dd",
   "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 109,
-  "Ranking_EOS_NewPlayers": 255,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-06-01T13:00:00+00:00",
     "PcReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 396,
+  "EOS_Progressed": 397,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.27,
   "EosHistory": [
@@ -1294,6 +1294,11 @@
       "Time": "2023-10-19T12:06:37.7392597+00:00",
       "NumProgressed": 396,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-20T08:06:46.5103754+00:00",
+      "NumProgressed": 397,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 24,
@@ -1321,15 +1326,15 @@
       "Name": "Big House",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "brewery",
       "SetID": "ap7g2g4",
       "Name": "Brewery",
-      "Percentage": 85,
+      "Percentage": 84,
       "XP": 30,
-      "UsersEstimate": 337
+      "UsersEstimate": 333
     },
     {
       "ID": "church",
@@ -1351,9 +1356,9 @@
       "ID": "expedition",
       "SetID": "ap7g2g4",
       "Name": "Expedition",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 100,
-      "UsersEstimate": 222
+      "UsersEstimate": 218
     },
     {
       "ID": "fish_trade",
@@ -1385,7 +1390,7 @@
       "Name": "Hope farm",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "marketplace",
@@ -1409,7 +1414,7 @@
       "Name": "Match 3",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "match_6",
@@ -1425,7 +1430,7 @@
       "Name": "Match 9",
       "Percentage": 68,
       "XP": 50,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "mill",
@@ -1433,7 +1438,7 @@
       "Name": "Mill",
       "Percentage": 81,
       "XP": 30,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "sawmill",
@@ -1441,7 +1446,7 @@
       "Name": "Sawmill",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "seaweed_farm",
@@ -1449,7 +1454,7 @@
       "Name": "Seaweed farm",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "tavern",
@@ -1471,9 +1476,9 @@
       "ID": "water_platform",
       "SetID": "ap7g2g4",
       "Name": "Water platform",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 107
     },
     {
       "ID": "wheat_farm",
@@ -1481,7 +1486,7 @@
       "Name": "Wheat farm",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "wood",
@@ -1489,21 +1494,21 @@
       "Name": "Wood",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     }
   ],
   "AchievementSets": [
     {
       "ID": "ap7g2g4",
       "IsBase": true,
-      "Progressed": 396,
+      "Progressed": 397,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-06-02T14:56:55.6252119+00:00",
   "FirstSeenAchievements": "2023-05-18T11:00:53.5255241+00:00",
-  "LastChanged_Achievements": "2023-10-20T07:06:06.6593064+00:00",
+  "LastChanged_Achievements": "2023-10-20T08:06:46.5103748+00:00",
   "LastUpdate_AppInfo": "2023-10-19T23:57:02.3123727+00:00",
-  "LastUpdate_Ratings": "2023-10-20T06:58:04.1017905+00:00",
-  "LastUpdate_Achievements": "2023-10-20T07:06:06.6593368+00:00"
+  "LastUpdate_Ratings": "2023-10-20T07:58:28.5053504+00:00",
+  "LastUpdate_Achievements": "2023-10-20T08:06:46.5104153+00:00"
 }

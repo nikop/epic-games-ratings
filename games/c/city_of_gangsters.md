@@ -1,13 +1,13 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.28 (Ranked 832)  
+Rating: 4.28 (Ranked 833)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~160,280 |
+| Corner Clout | 46.00% | ~160,281 |
 | Copacetic Coordination | 16.00% | ~55,750 |
-| Fronting the Money | 15.00% | ~52,265 |
+| Fronting the Money | 15.00% | ~52,266 |
 | The Dawn of Automation | 14.00% | ~48,781 |
 | Extraordinary Logistics | 14.00% | ~48,781 |
 | Dirty Money | 13.00% | ~45,297 |
@@ -20,9 +20,9 @@ Rating: 4.28 (Ranked 832)
 | Neighborhood Watch | 10.00% | ~34,844 |
 | Core Corps | 8.00% | ~27,875 |
 | Sizeable Stash | 8.00% | ~27,875 |
-| Street Fighter | 7.00% | ~24,390 |
-| Friendly Gestures | 7.00% | ~24,390 |
-| People Person | 7.00% | ~24,390 |
+| Street Fighter | 7.00% | ~24,391 |
+| Friendly Gestures | 7.00% | ~24,391 |
+| People Person | 7.00% | ~24,391 |
 | Liquor Lord | 6.00% | ~20,906 |
 | Safety in Numbers | 6.00% | ~20,906 |
 | Moving Experiences | 6.00% | ~20,906 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 832)
 | High Pillow | 0.10% | ~348 |
 | Station Master | 0.10% | ~348 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 348,435 (Ranked 43)  
+Progressed: 348,437 (Ranked 43)  
 Completed: 7 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,7 +269,7 @@ Completed: 7 (0.00%) (Ranked 316)
 | 2023-10-17 | 348,171 | 7 |
 | 2023-10-18 | 348,282 | 7 |
 | 2023-10-19 | 348,407 | 7 |
-| 2023-10-20 | 348,435 | 7 |
+| 2023-10-20 | 348,437 | 7 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 447)  
 Sum: 178 (Ranked 399)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 392,
   "Ranking_EOS_Completed": 146,
   "Ranking_EOS_NewPlayers": 294,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
     "PcReleaseDate": "2022-09-15T07:00:00+00:00",
@@ -769,9 +769,9 @@
       "ID": "Achi_34",
       "SetID": "51a97k7",
       "Name": "Hydrophobia",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "Achi_35",
@@ -914,8 +914,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-10-20T07:09:31.8004278+00:00",
+  "LastChanged_Achievements": "2023-10-20T08:09:47.122347+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:15.9188063+00:00",
-  "LastUpdate_Ratings": "2023-10-20T06:57:04.7825546+00:00",
-  "LastUpdate_Achievements": "2023-10-20T07:09:31.8005404+00:00"
+  "LastUpdate_Ratings": "2023-10-20T07:57:08.5269735+00:00",
+  "LastUpdate_Achievements": "2023-10-20T08:09:47.1223919+00:00"
 }

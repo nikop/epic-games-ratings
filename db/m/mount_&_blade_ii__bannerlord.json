@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -8100,7 +8100,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 63553,
+  "EOS_Progressed": 63554,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 382,
   "EOS_NewCompleters": 0,
@@ -27460,6 +27460,11 @@
       "Time": "2023-10-20T06:06:09.348545+00:00",
       "NumProgressed": 63553,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-20T08:06:12.4890717+00:00",
+      "NumProgressed": 63554,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -27479,7 +27484,7 @@
       "Name": "Apple of my eye",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 10168
+      "UsersEstimate": 10169
     },
     {
       "ID": "Bannerlord",
@@ -27639,7 +27644,7 @@
       "Name": "I can do it",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10168
+      "UsersEstimate": 10169
     },
     {
       "ID": "I spit on your grave",
@@ -27695,7 +27700,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 20972
+      "UsersEstimate": 20973
     },
     {
       "ID": "Lawbringer",
@@ -27878,15 +27883,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 63553,
+      "Progressed": 63554,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-19T21:58:40.6111401+00:00",
-  "LastChanged_Achievements": "2023-10-20T07:05:39.6530615+00:00",
+  "LastChanged_Achievements": "2023-10-20T08:06:12.4890711+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:51.8810296+00:00",
-  "LastUpdate_Ratings": "2023-10-20T06:58:45.6791427+00:00",
-  "LastUpdate_Achievements": "2023-10-20T07:05:39.6532167+00:00"
+  "LastUpdate_Ratings": "2023-10-20T07:59:20.9705913+00:00",
+  "LastUpdate_Achievements": "2023-10-20T08:06:12.4892511+00:00"
 }

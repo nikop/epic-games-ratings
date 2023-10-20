@@ -6,18 +6,18 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 3.00% | ~28,542 |
-| No one left behind | 2.00% | ~19,028 |
-| Medic | 2.00% | ~19,028 |
-| Handyman | 2.00% | ~19,028 |
-| Zealous | 2.00% | ~19,028 |
-| Not half bad | 2.00% | ~19,028 |
-| Apt Survivor | 2.00% | ~19,028 |
-| Survival Treasures | 2.00% | ~19,028 |
-| Skillful | 2.00% | ~19,028 |
-| Sorted | 2.00% | ~19,028 |
-| Resurgence | 2.00% | ~19,028 |
-| Make Some Noise | 2.00% | ~19,028 |
+| It wakes | 3.00% | ~28,543 |
+| No one left behind | 2.00% | ~19,029 |
+| Medic | 2.00% | ~19,029 |
+| Handyman | 2.00% | ~19,029 |
+| Zealous | 2.00% | ~19,029 |
+| Not half bad | 2.00% | ~19,029 |
+| Apt Survivor | 2.00% | ~19,029 |
+| Survival Treasures | 2.00% | ~19,029 |
+| Skillful | 2.00% | ~19,029 |
+| Sorted | 2.00% | ~19,029 |
+| Resurgence | 2.00% | ~19,029 |
+| Make Some Noise | 2.00% | ~19,029 |
 | The Grand Sacrifice | 1.00% | ~9,514 |
 | Agonizing Escape | 1.00% | ~9,514 |
 | Backdoor Escape | 1.00% | ~9,514 |
@@ -36,9 +36,9 @@ Number of Ratings: 70,340  (23.09.2022)
 | Close Shave | 1.00% | ~9,514 |
 | Preemptive Strike | 1.00% | ~9,514 |
 | Humanitarian | 1.00% | ~9,514 |
-| Vulture | 0.90% | ~8,562 |
-| III | 0.90% | ~8,562 |
-| Second Act | 0.90% | ~8,562 |
+| Vulture | 0.90% | ~8,563 |
+| III | 0.90% | ~8,563 |
+| Second Act | 0.90% | ~8,563 |
 | Escape Artist | 0.80% | ~7,611 |
 | First to the Punch | 0.80% | ~7,611 |
 | Every Last Drop | 0.80% | ~7,611 |
@@ -57,18 +57,18 @@ Number of Ratings: 70,340  (23.09.2022)
 | A Fast Death | 0.70% | ~6,660 |
 | Chorus of Chaos | 0.70% | ~6,660 |
 | One More Step | 0.70% | ~6,660 |
-| Gifts for the Fog | 0.60% | ~5,708 |
-| Shock Therapy | 0.60% | ~5,708 |
-| All Aboard | 0.60% | ~5,708 |
-| Item of Obsession | 0.60% | ~5,708 |
-| House of Pain | 0.60% | ~5,708 |
-| Holiday Get-Together | 0.60% | ~5,708 |
-| Campbell's Chapel Legacy | 0.60% | ~5,708 |
-| Cutting Out | 0.60% | ~5,708 |
-| Outrun Evil | 0.60% | ~5,708 |
-| Classy Act | 0.60% | ~5,708 |
-| Lifting The Fog | 0.60% | ~5,708 |
-| MU/TH/UR Dearest | 0.60% | ~5,708 |
+| Gifts for the Fog | 0.60% | ~5,709 |
+| Shock Therapy | 0.60% | ~5,709 |
+| All Aboard | 0.60% | ~5,709 |
+| Item of Obsession | 0.60% | ~5,709 |
+| House of Pain | 0.60% | ~5,709 |
+| Holiday Get-Together | 0.60% | ~5,709 |
+| Campbell's Chapel Legacy | 0.60% | ~5,709 |
+| Cutting Out | 0.60% | ~5,709 |
+| Outrun Evil | 0.60% | ~5,709 |
+| Classy Act | 0.60% | ~5,709 |
+| Lifting The Fog | 0.60% | ~5,709 |
+| MU/TH/UR Dearest | 0.60% | ~5,709 |
 | A bite for the Entity | 0.50% | ~4,757 |
 | Blood on your face | 0.50% | ~4,757 |
 | Leapfrog | 0.50% | ~4,757 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~951 |
 | Adept Ripley | 0.10% | ~951 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 951,386 (Ranked 14)  
+Progressed: 951,426 (Ranked 14)  
 Completed: 52 (0.01%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -419,7 +419,7 @@ Completed: 52 (0.01%) (Ranked 298)
 | 2023-10-17 | 946,172 | 51 |
 | 2023-10-18 | 948,147 | 51 |
 | 2023-10-19 | 950,730 | 51 |
-| 2023-10-20 | 951,386 | 52 |
+| 2023-10-20 | 951,426 | 52 |
 ## Awards
 Max (Diverse Characters): 34,271  (Ranked 15)  
 Sum: 264,312 (Ranked 13)  

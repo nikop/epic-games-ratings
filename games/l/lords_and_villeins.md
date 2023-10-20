@@ -1,7 +1,7 @@
 # Lords and Villeins
 [Store](https://store.epicgames.com/en-US/p/lords-and-villeins-746931)  
 [View Rawdata](../../db/l/lords_and_villeins.json)  
-Rating: 4.41 (Ranked 702)  
+Rating: 4.43 (Ranked 676)  
 Number of Ratings: 21  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -14,3 +14,4 @@ Number of Ratings: 21  (23.09.2022)
 | 2022-11-13 | 4.38 | - | - | - |
 | 2022-11-16 | 4.41 | - | - | - |
 | 2023-03-31 | 4.41 | - | 0 | 0 |
+| 2023-10-20 | 4.43 | - | 0 | 0 |

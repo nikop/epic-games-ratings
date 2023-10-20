@@ -6,32 +6,32 @@ Number of Ratings: 21,082  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unseen Assassin | 46.00% | ~619,537 |
-| Death From Above | 45.00% | ~606,069 |
-| Master of the Household | 38.00% | ~511,791 |
-| Death of the Party | 36.00% | ~484,855 |
-| NEXUS-47 | 33.00% | ~444,450 |
-| The Last Tango | 31.00% | ~417,514 |
-| Nightmare Fuel | 30.00% | ~404,046 |
-| The Result of Previous Training | 28.00% | ~377,109 |
-| Tools of the Trade | 28.00% | ~377,109 |
-| Cleared for Field Duty | 27.00% | ~363,641 |
-| Seizing the Opportunity | 26.00% | ~350,173 |
-| Bullet Train | 21.00% | ~282,832 |
-| Stylish Assassin | 20.00% | ~269,364 |
-| Silent Assassin | 14.00% | ~188,555 |
-| Rise Up | 12.00% | ~161,618 |
-| Evil Wine Club | 11.00% | ~148,150 |
-| Console Cowboy | 10.00% | ~134,682 |
-| Last Stop | 10.00% | ~134,682 |
+| Unseen Assassin | 46.00% | ~619,540 |
+| Death From Above | 45.00% | ~606,072 |
+| Master of the Household | 38.00% | ~511,794 |
+| Death of the Party | 36.00% | ~484,857 |
+| NEXUS-47 | 33.00% | ~444,453 |
+| The Last Tango | 31.00% | ~417,516 |
+| Nightmare Fuel | 30.00% | ~404,048 |
+| The Result of Previous Training | 28.00% | ~377,111 |
+| Tools of the Trade | 28.00% | ~377,111 |
+| Cleared for Field Duty | 27.00% | ~363,643 |
+| Seizing the Opportunity | 26.00% | ~350,175 |
+| Bullet Train | 21.00% | ~282,833 |
+| Stylish Assassin | 20.00% | ~269,365 |
+| Silent Assassin | 14.00% | ~188,556 |
+| Rise Up | 12.00% | ~161,619 |
+| Evil Wine Club | 11.00% | ~148,151 |
+| Console Cowboy | 10.00% | ~134,683 |
+| Last Stop | 10.00% | ~134,683 |
 | A New Profile | 9.00% | ~121,214 |
 | Full House | 9.00% | ~121,214 |
 | Dune Raider | 8.00% | ~107,746 |
 | No Stone Unturned | 8.00% | ~107,746 |
 | Train Surfing | 8.00% | ~107,746 |
-| Icebreaker | 7.00% | ~94,277 |
-| Family Feud | 6.00% | ~80,809 |
-| Rich Harvest | 6.00% | ~80,809 |
+| Icebreaker | 7.00% | ~94,278 |
+| Family Feud | 6.00% | ~80,810 |
+| Rich Harvest | 6.00% | ~80,810 |
 | Shortcut Killer | 5.00% | ~67,341 |
 | Stair Master | 5.00% | ~67,341 |
 | Followed the Trails | 5.00% | ~67,341 |
@@ -49,12 +49,12 @@ Number of Ratings: 21,082  (23.09.2022)
 | Hack the Planet | 3.00% | ~40,405 |
 | Master the Terroir | 3.00% | ~40,405 |
 | Vineyard Virtuoso | 3.00% | ~40,405 |
-| Bird Art | 2.00% | ~26,936 |
+| Bird Art | 2.00% | ~26,937 |
 | Top of the Class | 1.00% | ~13,468 |
 | Ripe for the Picking | 1.00% | ~13,468 |
 | The Creative Assassin | 0.70% | ~9,428 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,346,819 (Ranked 9)  
+Progressed: 1,346,826 (Ranked 9)  
 Completed: 2,161 (0.16%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,7 +237,7 @@ Completed: 2,161 (0.16%) (Ranked 233)
 | 2023-10-17 | 1,346,165 | 2,160 |
 | 2023-10-18 | 1,346,444 | 2,161 |
 | 2023-10-19 | 1,346,743 | 2,161 |
-| 2023-10-20 | 1,346,819 | 2,161 |
+| 2023-10-20 | 1,346,826 | 2,161 |
 ## Awards
 Max (Diverse Characters): 10,360  (Ranked 38)  
 Sum: 72,343 (Ranked 21)  

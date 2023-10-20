@@ -5,10 +5,10 @@
   "Ranking_Rating": 339,
   "Ranking_Popularity": 538,
   "Ranking_PopularitySum": 538,
-  "Ranking_EOS_Progress": 257,
+  "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 78,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -79,9 +79,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 691,
+  "EOS_Progressed": 692,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.76,
   "EosHistory": [
@@ -2574,6 +2574,11 @@
       "Time": "2023-10-19T22:09:05.6399886+00:00",
       "NumProgressed": 691,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-10-20T08:09:05.2189802+00:00",
+      "NumProgressed": 692,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 28,
@@ -2583,9 +2588,9 @@
       "ID": "MQ01_1",
       "SetID": "bbing49",
       "Name": "Read Between The Lines",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 456
+      "UsersEstimate": 450
     },
     {
       "ID": "MQ01_2",
@@ -2593,7 +2598,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 66,
       "XP": 40,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "MQ02_1",
@@ -2633,7 +2638,7 @@
       "Name": "Fond Memories",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "MQ03_2",
@@ -2649,7 +2654,7 @@
       "Name": "History Check",
       "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "MQ03_4",
@@ -2665,15 +2670,15 @@
       "Name": "A Method To His Madness",
       "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "MQ04_1",
       "SetID": "bbing49",
       "Name": "Going Once...",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 276
+      "UsersEstimate": 270
     },
     {
       "ID": "MQ04_2",
@@ -2808,7 +2813,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 691,
+      "Progressed": 692,
       "Completed": 26
     }
   ],
@@ -2816,8 +2821,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-09-29T08:03:08.864479+00:00",
-  "LastChanged_Achievements": "2023-10-20T07:08:18.022855+00:00",
+  "LastChanged_Achievements": "2023-10-20T08:09:05.2189797+00:00",
   "LastUpdate_AppInfo": "2023-10-14T11:57:11.1901804+00:00",
-  "LastUpdate_Ratings": "2023-10-20T06:57:16.0749543+00:00",
-  "LastUpdate_Achievements": "2023-10-20T07:08:18.0228906+00:00"
+  "LastUpdate_Ratings": "2023-10-20T07:57:23.774039+00:00",
+  "LastUpdate_Achievements": "2023-10-20T08:09:05.2190194+00:00"
 }

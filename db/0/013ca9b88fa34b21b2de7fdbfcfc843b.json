@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -139,9 +139,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6875,
+  "EOS_Progressed": 6876,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 327,
+  "EOS_NewPlayers": 328,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4739,6 +4739,11 @@
       "Time": "2023-10-20T07:06:09.7606775+00:00",
       "NumProgressed": 6875,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-20T08:06:50.5918453+00:00",
+      "NumProgressed": 6876,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -4759,7 +4764,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 4812
+      "UsersEstimate": 4813
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -4845,9 +4850,9 @@
       "ID": "COLLECT_MINERALS",
       "SetID": "9eia0f5",
       "Name": "Miner 49er",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 2888
+      "UsersEstimate": 2957
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -4895,7 +4900,7 @@
       "Name": "Scattered Scroll Scrounger",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "DISCOVER_WHIRLPOOL",
@@ -4903,7 +4908,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 4125
+      "UsersEstimate": 4126
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -4911,7 +4916,7 @@
       "Name": "Mist Walker",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 2131
+      "UsersEstimate": 2132
     },
     {
       "ID": "DISPATCH_JUMBLES",
@@ -4927,7 +4932,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 3162
+      "UsersEstimate": 3163
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -4983,7 +4988,7 @@
       "Name": "Azorian Anniversary",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "UPGRADE_ALLSKILLSMAX",
@@ -5030,7 +5035,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 6875,
+      "Progressed": 6876,
       "Completed": 0
     }
   ],
@@ -5038,8 +5043,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-19T23:00:19.6996037+00:00",
-  "LastChanged_Achievements": "2023-10-20T07:06:09.760677+00:00",
+  "LastChanged_Achievements": "2023-10-20T08:06:50.5918448+00:00",
   "LastUpdate_AppInfo": "2023-10-20T06:57:04.6097237+00:00",
-  "LastUpdate_Ratings": "2023-10-20T06:59:50.1671449+00:00",
-  "LastUpdate_Achievements": "2023-10-20T07:06:09.7607411+00:00"
+  "LastUpdate_Ratings": "2023-10-20T08:00:48.8308651+00:00",
+  "LastUpdate_Achievements": "2023-10-20T08:06:50.5919108+00:00"
 }
