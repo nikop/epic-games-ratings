@@ -329,9 +329,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 111722,
+  "EOS_Progressed": 111723,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 728,
+  "EOS_NewPlayers": 723,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -14984,6 +14984,11 @@
       "Time": "2023-10-20T01:48:47.2983395+00:00",
       "NumProgressed": 111722,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-10-20T02:22:38.4040432+00:00",
+      "NumProgressed": 111723,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 49,
@@ -15003,7 +15008,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 86026
+      "UsersEstimate": 86027
     },
     {
       "ID": "EAwards_10",
@@ -15011,7 +15016,7 @@
       "Name": "Juan Punch Man",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12289
+      "UsersEstimate": 12290
     },
     {
       "ID": "EAwards_11",
@@ -15147,7 +15152,7 @@
       "Name": "I have nothing left to teach you",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 12289
+      "UsersEstimate": 12290
     },
     {
       "ID": "EAwards_27",
@@ -15386,7 +15391,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 111722,
+      "Progressed": 111723,
       "Completed": 47
     }
   ],
@@ -15394,8 +15399,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-25T16:00:07.3978241+00:00",
-  "LastChanged_Achievements": "2023-10-20T01:48:47.2983389+00:00",
-  "LastUpdate_AppInfo": "2023-10-13T01:42:07.6726517+00:00",
-  "LastUpdate_Ratings": "2023-10-20T01:45:07.6169083+00:00",
-  "LastUpdate_Achievements": "2023-10-20T01:48:47.2984871+00:00"
+  "LastChanged_Achievements": "2023-10-20T02:22:38.4040427+00:00",
+  "LastUpdate_AppInfo": "2023-10-20T02:13:27.0030355+00:00",
+  "LastUpdate_Ratings": "2023-10-20T02:19:02.5263641+00:00",
+  "LastUpdate_Achievements": "2023-10-20T02:22:38.4041835+00:00"
 }

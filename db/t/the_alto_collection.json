@@ -784,9 +784,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 43221,
+  "EOS_Progressed": 43224,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 748,
+  "EOS_NewPlayers": 747,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -21294,6 +21294,11 @@
       "Time": "2023-10-20T01:48:35.1846739+00:00",
       "NumProgressed": 43221,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-20T02:22:26.3868892+00:00",
+      "NumProgressed": 43224,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -21329,7 +21334,7 @@
       "Name": "Scout",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4754
+      "UsersEstimate": 4755
     },
     {
       "ID": "distance500000",
@@ -21433,7 +21438,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 6915
+      "UsersEstimate": 6916
     },
     {
       "ID": "playerFelipe",
@@ -21513,7 +21518,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 11237
+      "UsersEstimate": 11238
     },
     {
       "ID": "sandboarder",
@@ -21529,7 +21534,7 @@
       "Name": "Sightseer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4754
+      "UsersEstimate": 4755
     },
     {
       "ID": "ultimate",
@@ -21569,7 +21574,7 @@
       "Name": "Welcome Maya",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6483
+      "UsersEstimate": 6484
     },
     {
       "ID": "unlockpaz",
@@ -21616,15 +21621,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 43221,
+      "Progressed": 43224,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-10-12T08:00:34.9108004+00:00",
-  "LastChanged_Achievements": "2023-10-20T01:48:35.1846734+00:00",
+  "LastChanged_Achievements": "2023-10-20T02:22:26.3868886+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:17.6286578+00:00",
-  "LastUpdate_Ratings": "2023-10-20T01:40:49.9514163+00:00",
-  "LastUpdate_Achievements": "2023-10-20T01:48:35.1848257+00:00"
+  "LastUpdate_Ratings": "2023-10-20T02:14:44.7780125+00:00",
+  "LastUpdate_Achievements": "2023-10-20T02:22:26.3870445+00:00"
 }

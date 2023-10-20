@@ -4,7 +4,7 @@
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 397,
+  "EOS_Progressed": 400,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -1744,6 +1744,11 @@
       "Time": "2023-10-20T01:49:08.8689691+00:00",
       "NumProgressed": 397,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-20T02:22:59.3217281+00:00",
+      "NumProgressed": 400,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 14,
@@ -1753,9 +1758,9 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "296pn27",
       "Name": "The gateway to the underworld",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 103
+      "UsersEstimate": 108
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -1763,7 +1768,7 @@
       "Name": "Is it merely a dream?",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -1803,7 +1808,7 @@
       "Name": "The path to enlightenment",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -1817,9 +1822,9 @@
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "296pn27",
       "Name": "This looks really bad",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 60
+      "UsersEstimate": 56
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -1866,14 +1871,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 397,
+      "Progressed": 400,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-10-20T01:49:08.8689686+00:00",
+  "LastChanged_Achievements": "2023-10-20T02:22:59.3217274+00:00",
   "LastUpdate_AppInfo": "2023-10-14T11:57:11.021684+00:00",
-  "LastUpdate_Ratings": "2023-10-20T01:42:43.5364082+00:00",
-  "LastUpdate_Achievements": "2023-10-20T01:49:08.8689966+00:00"
+  "LastUpdate_Ratings": "2023-10-20T02:16:31.6448768+00:00",
+  "LastUpdate_Achievements": "2023-10-20T02:22:59.3217489+00:00"
 }

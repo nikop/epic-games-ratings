@@ -6,17 +6,17 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 3.00% | ~28,530 |
-| Medic | 2.00% | ~19,020 |
-| Handyman | 2.00% | ~19,020 |
-| Zealous | 2.00% | ~19,020 |
-| Not half bad | 2.00% | ~19,020 |
-| Apt Survivor | 2.00% | ~19,020 |
-| Survival Treasures | 2.00% | ~19,020 |
-| Skillful | 2.00% | ~19,020 |
-| Sorted | 2.00% | ~19,020 |
-| Resurgence | 2.00% | ~19,020 |
-| Make Some Noise | 2.00% | ~19,020 |
+| It wakes | 3.00% | ~28,532 |
+| Medic | 2.00% | ~19,021 |
+| Handyman | 2.00% | ~19,021 |
+| Zealous | 2.00% | ~19,021 |
+| Not half bad | 2.00% | ~19,021 |
+| Apt Survivor | 2.00% | ~19,021 |
+| Survival Treasures | 2.00% | ~19,021 |
+| Skillful | 2.00% | ~19,021 |
+| Sorted | 2.00% | ~19,021 |
+| Resurgence | 2.00% | ~19,021 |
+| Make Some Noise | 2.00% | ~19,021 |
 | The Grand Sacrifice | 1.00% | ~9,510 |
 | Agonizing Escape | 1.00% | ~9,510 |
 | Backdoor Escape | 1.00% | ~9,510 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~951 |
 | Adept Ripley | 0.10% | ~951 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 950,994 (Ranked 14)  
+Progressed: 951,050 (Ranked 14)  
 Completed: 52 (0.01%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -419,7 +419,7 @@ Completed: 52 (0.01%) (Ranked 298)
 | 2023-10-17 | 946,172 | 51 |
 | 2023-10-18 | 948,147 | 51 |
 | 2023-10-19 | 950,730 | 51 |
-| 2023-10-20 | 950,994 | 52 |
+| 2023-10-20 | 951,050 | 52 |
 ## Awards
 Max (Diverse Characters): 34,176  (Ranked 15)  
 Sum: 264,217 (Ranked 13)  

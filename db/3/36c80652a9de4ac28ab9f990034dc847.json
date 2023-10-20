@@ -4,7 +4,7 @@
   "ProductSlug": "death-crown-b2f5cd",
   "Ranking_EOS_Progress": 538,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewPlayers": 280,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-08-22T23:00:00+00:00",
@@ -87,9 +87,9 @@
       "ID": "All_Bosses",
       "SetID": "cla1dpp",
       "Name": "Till death tear us apart!",
-      "Percentage": 10,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "All_Human_Missions",
@@ -111,9 +111,9 @@
       "ID": "Boss_Blacksmith",
       "SetID": "cla1dpp",
       "Name": "No, this is not a stack of coins!",
-      "Percentage": 10,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Boss_Cita",
@@ -127,9 +127,9 @@
       "ID": "Boss_Cube",
       "SetID": "cla1dpp",
       "Name": "I hate geometry so much!",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Boss_King",
@@ -143,9 +143,9 @@
       "ID": "Boss_Pyramid",
       "SetID": "cla1dpp",
       "Name": "We\u0027ll build a new one!",
-      "Percentage": 10,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Boss_Sphere",
@@ -159,9 +159,9 @@
       "ID": "Boss_Tower",
       "SetID": "cla1dpp",
       "Name": "My tower is bigger than yours.",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Boss_Tree",
@@ -183,9 +183,9 @@
       "ID": "Full_Upgrade_Cita",
       "SetID": "cla1dpp",
       "Name": "Anything for my princess!",
-      "Percentage": 10,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "No_Lose_All_Human_Missions",
@@ -199,9 +199,9 @@
       "ID": "Pass_Tutorial",
       "SetID": "cla1dpp",
       "Name": "First time here?",
-      "Percentage": 40,
+      "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "PvP_Mission",
@@ -247,17 +247,17 @@
       "ID": "Up_Farm",
       "SetID": "cla1dpp",
       "Name": "We need to go deeper!",
-      "Percentage": 10,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Up_Tower",
       "SetID": "cla1dpp",
       "Name": "Prepare Uranus!",
-      "Percentage": 10,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
@@ -269,8 +269,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-23T14:02:21.3308024+00:00",
-  "LastChanged_Achievements": "2023-10-20T01:47:30.9673336+00:00",
+  "LastChanged_Achievements": "2023-10-20T02:21:23.9387029+00:00",
   "LastUpdate_AppInfo": "2023-10-18T17:59:10.952117+00:00",
-  "LastUpdate_Ratings": "2023-10-20T01:42:29.7181189+00:00",
-  "LastUpdate_Achievements": "2023-10-20T01:47:30.9673538+00:00"
+  "LastUpdate_Ratings": "2023-10-20T02:16:19.2598317+00:00",
+  "LastUpdate_Achievements": "2023-10-20T02:21:23.9387196+00:00"
 }

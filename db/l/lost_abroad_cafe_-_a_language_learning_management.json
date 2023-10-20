@@ -4,7 +4,7 @@
   "ProductSlug": "lost-abroad-cafe-a-language-learning-management-sim-bfc28c",
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-05-26T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 502,
+  "EOS_Progressed": 503,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2274,6 +2274,11 @@
       "Time": "2023-10-19T19:06:17.3209568+00:00",
       "NumProgressed": 502,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-20T02:22:58.809821+00:00",
+      "NumProgressed": 503,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 8,
@@ -2285,7 +2290,7 @@
       "Name": "Barista",
       "Percentage": 54,
       "XP": 75,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "coffee_100",
@@ -2301,7 +2306,7 @@
       "Name": "Coffee Connoisseur",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "countertop",
@@ -2317,7 +2322,7 @@
       "Name": "Get Lost!",
       "Percentage": 89,
       "XP": 50,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "tea_10",
@@ -2348,14 +2353,14 @@
     {
       "ID": "56hff7o",
       "IsBase": true,
-      "Progressed": 502,
+      "Progressed": 503,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-23T10:58:45.2753016+00:00",
   "FirstSeenAchievements": "2023-05-18T05:04:21.5286003+00:00",
-  "LastChanged_Achievements": "2023-10-20T01:49:08.2231472+00:00",
+  "LastChanged_Achievements": "2023-10-20T02:22:58.8098205+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:12.6694346+00:00",
-  "LastUpdate_Ratings": "2023-10-20T01:41:50.5382678+00:00",
-  "LastUpdate_Achievements": "2023-10-20T01:49:08.2232023+00:00"
+  "LastUpdate_Ratings": "2023-10-20T02:15:42.2218927+00:00",
+  "LastUpdate_Achievements": "2023-10-20T02:22:58.8098457+00:00"
 }

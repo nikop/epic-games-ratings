@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 250469,
+  "EOS_Progressed": 250470,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 191,
+  "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16897,6 +16897,11 @@
       "Time": "2023-10-20T00:05:05.3426808+00:00",
       "NumProgressed": 250469,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-20T02:21:38.7764514+00:00",
+      "NumProgressed": 250470,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -16932,7 +16937,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 52598
+      "UsersEstimate": 52599
     },
     {
       "ID": "blotbuster",
@@ -17004,7 +17009,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 45084
+      "UsersEstimate": 45085
     },
     {
       "ID": "curator",
@@ -17148,7 +17153,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 125234
+      "UsersEstimate": 125235
     },
     {
       "ID": "notScared",
@@ -17275,7 +17280,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 250469,
+      "Progressed": 250470,
       "Completed": 6
     }
   ],
@@ -17283,8 +17288,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-10-20T01:47:46.5836807+00:00",
+  "LastChanged_Achievements": "2023-10-20T02:21:38.7764509+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:46.1902995+00:00",
-  "LastUpdate_Ratings": "2023-10-20T01:42:31.5071727+00:00",
-  "LastUpdate_Achievements": "2023-10-20T01:47:46.5838179+00:00"
+  "LastUpdate_Ratings": "2023-10-20T02:16:21.1000822+00:00",
+  "LastUpdate_Achievements": "2023-10-20T02:21:38.776593+00:00"
 }

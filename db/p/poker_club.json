@@ -859,9 +859,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 532059,
+  "EOS_Progressed": 532060,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1543,
+  "EOS_NewPlayers": 1539,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21364,6 +21364,11 @@
       "Time": "2023-10-20T01:50:11.087576+00:00",
       "NumProgressed": 532059,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-20T02:24:10.0797861+00:00",
+      "NumProgressed": 532060,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -21527,7 +21532,7 @@
       "Name": "Handy",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 218144
+      "UsersEstimate": 218145
     },
     {
       "ID": "HoldingYourOwn",
@@ -21623,7 +21628,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 404365
+      "UsersEstimate": 404366
     },
     {
       "ID": "ProPlayer",
@@ -21647,7 +21652,7 @@
       "Name": "Rank Amateur",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 111732
+      "UsersEstimate": 111733
     },
     {
       "ID": "RegularPunter",
@@ -21727,14 +21732,14 @@
       "Name": "W.H.I.P.",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 58526
+      "UsersEstimate": 58527
     }
   ],
   "AchievementSets": [
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 532059,
+      "Progressed": 532060,
       "Completed": 2
     }
   ],
@@ -21742,8 +21747,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2023-10-19T18:59:39.594422+00:00",
-  "LastChanged_Achievements": "2023-10-20T01:50:11.0875755+00:00",
+  "LastChanged_Achievements": "2023-10-20T02:24:10.0797852+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:39.863967+00:00",
-  "LastUpdate_Ratings": "2023-10-20T01:42:23.8014365+00:00",
-  "LastUpdate_Achievements": "2023-10-20T01:50:11.087731+00:00"
+  "LastUpdate_Ratings": "2023-10-20T02:16:13.408848+00:00",
+  "LastUpdate_Achievements": "2023-10-20T02:24:10.079952+00:00"
 }

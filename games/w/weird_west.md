@@ -6,20 +6,20 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,645 |
-| Self-Improvement | 71.00% | ~1,327 |
+| Unforgiven | 88.00% | ~1,646 |
+| Self-Improvement | 71.00% | ~1,328 |
 | Perky | 66.00% | ~1,234 |
-| Let’s Ride | 60.00% | ~1,121 |
-| Welcome to the Weird West | 57.00% | ~1,065 |
+| Let’s Ride | 60.00% | ~1,122 |
+| Welcome to the Weird West | 57.00% | ~1,066 |
 | Dead or Alive | 56.00% | ~1,047 |
 | Full House | 37.00% | ~692 |
-| Off the Trail | 34.00% | ~635 |
+| Off the Trail | 34.00% | ~636 |
 | Justice Served | 30.00% | ~561 |
 | Chain Reaction | 27.00% | ~505 |
 | Through Their Eyes | 26.00% | ~486 |
-| Dishonored | 25.00% | ~467 |
-| Rain of Death | 25.00% | ~467 |
-| Scholar | 25.00% | ~467 |
+| Dishonored | 25.00% | ~468 |
+| Rain of Death | 25.00% | ~468 |
+| Scholar | 25.00% | ~468 |
 | The Great Escape | 24.00% | ~449 |
 | That’s All, Folks | 19.00% | ~355 |
 | Fallen Star | 16.00% | ~299 |
@@ -45,8 +45,8 @@ Number of Ratings: 125  (23.09.2022)
 | Getting the Gang Back Together | 7.00% | ~131 |
 | Healing Old Wounds | 6.00% | ~112 |
 | Who You Gonna Call? | 6.00% | ~112 |
-| This Is Sparta | 5.00% | ~93 |
-| What’s in the Box? | 5.00% | ~93 |
+| This Is Sparta | 5.00% | ~94 |
+| What’s in the Box? | 5.00% | ~94 |
 | Ghost Town | 3.00% | ~56 |
 | Lord Inut Sends His Regards | 3.00% | ~56 |
 | Moondrunk | 3.00% | ~56 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.50% | ~9 |
 | Revenant | 0.50% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,869 (Ranked 209)  
+Progressed: 1,870 (Ranked 209)  
 Completed: 7 (0.37%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 7 (0.37%) (Ranked 196)
 | 2023-10-17 | 1,854 | 7 |
 | 2023-10-18 | 1,856 | 7 |
 | 2023-10-19 | 1,868 | 7 |
-| 2023-10-20 | 1,869 | 7 |
+| 2023-10-20 | 1,870 | 7 |
 ## Awards
 Max (Impact the Story): 28  (Ranked 486)  
 Sum: 28 (Ranked 500)  

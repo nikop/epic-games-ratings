@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25125,
+  "EOS_Progressed": 25135,
   "EOS_Completed": 11759,
   "EOS_NewPlayers": 2382,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 46.8,
+  "EOS_Completed_Percentage": 46.78,
   "EosHistory": [
     {
       "Time": "2023-08-15T10:06:43.8267441+00:00",
@@ -6094,6 +6094,11 @@
       "Time": "2023-10-20T01:47:42.2188671+00:00",
       "NumProgressed": 25125,
       "NumCompleted": 11759
+    },
+    {
+      "Time": "2023-10-20T02:21:34.6955626+00:00",
+      "NumProgressed": 25135,
+      "NumCompleted": 11759
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -6114,7 +6119,7 @@
       "Name": "First blood",
       "Percentage": 63,
       "XP": 25,
-      "UsersEstimate": 15829
+      "UsersEstimate": 15835
     },
     {
       "ID": "grenadeKills",
@@ -6162,7 +6167,7 @@
       "Name": "Hang in there",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "matchesWon",
@@ -6186,7 +6191,7 @@
       "Name": "Rifle Master",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "shotgunKills",
@@ -6217,14 +6222,14 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 25125,
+      "Progressed": 25135,
       "Completed": 11759
     }
   ],
   "FirstSeen": "2023-09-28T12:00:24.9112474+00:00",
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
-  "LastChanged_Achievements": "2023-10-20T01:47:42.2188666+00:00",
+  "LastChanged_Achievements": "2023-10-20T02:21:34.6955621+00:00",
   "LastUpdate_AppInfo": "2023-10-14T10:57:22.1358598+00:00",
-  "LastUpdate_Ratings": "2023-10-20T01:41:56.7565648+00:00",
-  "LastUpdate_Achievements": "2023-10-20T01:47:42.2189236+00:00"
+  "LastUpdate_Ratings": "2023-10-20T02:15:46.5619682+00:00",
+  "LastUpdate_Achievements": "2023-10-20T02:21:34.6956071+00:00"
 }

@@ -117,9 +117,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 76209,
+  "EOS_Progressed": 76211,
   "EOS_Completed": 799,
-  "EOS_NewPlayers": 571,
+  "EOS_NewPlayers": 573,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -20482,6 +20482,11 @@
       "Time": "2023-10-20T01:48:34.7118638+00:00",
       "NumProgressed": 76209,
       "NumCompleted": 799
+    },
+    {
+      "Time": "2023-10-20T02:22:25.813613+00:00",
+      "NumProgressed": 76211,
+      "NumCompleted": 799
     }
   ],
   "TotalAchievements": 25,
@@ -20589,15 +20594,15 @@
       "Name": "Magnetic Miracles",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 3810
+      "UsersEstimate": 3811
     },
     {
       "ID": "Master, Commander",
       "SetID": "1e8d2nk",
       "Name": "Master, Commander",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 16004
+      "UsersEstimate": 15242
     },
     {
       "ID": "Meaty",
@@ -20621,7 +20626,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 12193
+      "UsersEstimate": 12194
     },
     {
       "ID": "Nothing Left to Say",
@@ -20692,7 +20697,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 76209,
+      "Progressed": 76211,
       "Completed": 799
     }
   ],
@@ -20700,8 +20705,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-10-20T01:48:34.7118633+00:00",
+  "LastChanged_Achievements": "2023-10-20T02:22:25.8136124+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:21.8706974+00:00",
-  "LastUpdate_Ratings": "2023-10-20T01:39:45.2533841+00:00",
-  "LastUpdate_Achievements": "2023-10-20T01:48:34.7120175+00:00"
+  "LastUpdate_Ratings": "2023-10-20T02:13:40.6101828+00:00",
+  "LastUpdate_Achievements": "2023-10-20T02:22:25.8137616+00:00"
 }

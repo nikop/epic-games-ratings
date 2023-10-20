@@ -2,7 +2,7 @@
   "ID": "d3c246767bfc4056af80742e75319d79",
   "Name": "Stellar Interface",
   "ProductSlug": "stellar-interface-d14cc4",
-  "Ranking_EOS_Progress": 424,
+  "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 405,
   "Ranking_EOS_NewCompleters": 105,
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 64,
+  "EOS_Progressed": 65,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -334,6 +334,11 @@
       "Time": "2023-09-26T01:46:42.0094677+00:00",
       "NumProgressed": 64,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-20T02:20:31.7908575+00:00",
+      "NumProgressed": 65,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 132,
@@ -367,7 +372,7 @@
       "ID": "BronzeBallyBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Bronze Prince of Ball-air",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
       "UsersEstimate": 8
     },
@@ -479,7 +484,7 @@
       "ID": "Cleared10LevelsAchievement",
       "SetID": "a8djcgh",
       "Name": "Rambo I",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 5,
       "UsersEstimate": 19
     },
@@ -903,7 +908,7 @@
       "ID": "Killed0EnemiesInLevelAchievement",
       "SetID": "a8djcgh",
       "Name": "Pacifist",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
       "UsersEstimate": 8
     },
@@ -951,7 +956,7 @@
       "ID": "Killed100EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Killing Spree",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 5,
       "UsersEstimate": 45
     },
@@ -967,9 +972,9 @@
       "ID": "Killed10EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "First Blood",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "Killed20BossesAchievement",
@@ -1039,7 +1044,7 @@
       "ID": "NoHealthLostIn3LevelsAchievement",
       "SetID": "a8djcgh",
       "Name": "Stoic",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
       "UsersEstimate": 12
     },
@@ -1047,7 +1052,7 @@
       "ID": "PerksUnlocked10Achievement",
       "SetID": "a8djcgh",
       "Name": "10Gb HDD",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 5,
       "UsersEstimate": 19
     },
@@ -1055,7 +1060,7 @@
       "ID": "PerksUnlocked25Achievement",
       "SetID": "a8djcgh",
       "Name": "25Gb HDD",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
       "UsersEstimate": 8
     },
@@ -1071,7 +1076,7 @@
       "ID": "PerksUnlocked5Achievement",
       "SetID": "a8djcgh",
       "Name": "5Gb HDD",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 5,
       "UsersEstimate": 34
     },
@@ -1103,7 +1108,7 @@
       "ID": "PlayedFor1HourAchievement",
       "SetID": "a8djcgh",
       "Name": "Galactic Cadet",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
       "UsersEstimate": 10
     },
@@ -1295,7 +1300,7 @@
       "ID": "VisitLostLord1TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Collateral Damage I",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
       "UsersEstimate": 8
     },
@@ -1327,7 +1332,7 @@
       "ID": "VisitMerchant1TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Merchant Prince I",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 5,
       "UsersEstimate": 34
     },
@@ -1351,7 +1356,7 @@
       "ID": "VisitOverlord1TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Almost There I",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
       "UsersEstimate": 12
     },
@@ -1383,7 +1388,7 @@
       "ID": "VisitRegular10TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Fighting Fit I",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 5,
       "UsersEstimate": 21
     },
@@ -1400,14 +1405,14 @@
     {
       "ID": "a8djcgh",
       "IsBase": true,
-      "Progressed": 64,
+      "Progressed": 65,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-10-20T01:46:37.2587683+00:00",
+  "LastChanged_Achievements": "2023-10-20T02:20:31.790857+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:21.6026477+00:00",
-  "LastUpdate_Ratings": "2023-10-20T01:42:01.7813645+00:00",
-  "LastUpdate_Achievements": "2023-10-20T01:46:37.2589903+00:00"
+  "LastUpdate_Ratings": "2023-10-20T02:15:51.3123104+00:00",
+  "LastUpdate_Achievements": "2023-10-20T02:20:31.7910603+00:00"
 }

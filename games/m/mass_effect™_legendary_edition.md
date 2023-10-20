@@ -47,10 +47,10 @@
 | Broke, Blind, and Bedlam | 34.00% | ~255 |
 | Ghost Ship | 33.00% | ~247 |
 | The Assassin | 33.00% | ~247 |
+| The Justicar | 33.00% | ~247 |
 | The Quarian | 33.00% | ~247 |
 | The Prodigal | 33.00% | ~247 |
 | A Personal Touch | 32.00% | ~240 |
-| The Justicar | 32.00% | ~240 |
 | Battlemaster | 32.00% | ~240 |
 | Ghost of the Father | 32.00% | ~240 |
 | The Cure | 32.00% | ~240 |
@@ -100,8 +100,8 @@
 | Sabotage Specialist | 18.00% | ~135 |
 | Well Connected | 18.00% | ~135 |
 | Electronics Specialist | 17.00% | ~127 |
+| Executioner | 17.00% | ~127 |
 | Throw Mastery | 16.00% | ~120 |
-| Executioner | 16.00% | ~120 |
 | Patriot | 16.00% | ~120 |
 | Master and Commander | 16.00% | ~120 |
 | Legend | 15.00% | ~112 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 106,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -4239,9 +4239,9 @@
       "Count": 518
     }
   ],
-  "EOS_Progressed": 10927,
+  "EOS_Progressed": 10928,
   "EOS_Completed": 262,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 2.4,
   "EosHistory": [
@@ -16339,6 +16339,11 @@
       "Time": "2023-10-20T01:50:12.0079568+00:00",
       "NumProgressed": 10927,
       "NumCompleted": 262
+    },
+    {
+      "Time": "2023-10-20T02:24:11.1322542+00:00",
+      "NumProgressed": 10928,
+      "NumCompleted": 262
     }
   ],
   "TotalAchievements": 15,
@@ -16406,7 +16411,7 @@
       "Name": "Gardener",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 3387
+      "UsersEstimate": 3388
     },
     {
       "ID": "Generous",
@@ -16422,7 +16427,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 70,
       "XP": 75,
-      "UsersEstimate": 7649
+      "UsersEstimate": 7650
     },
     {
       "ID": "Miner",
@@ -16469,7 +16474,7 @@
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 10927,
+      "Progressed": 10928,
       "Completed": 262
     }
   ],
@@ -16477,8 +16482,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-10-19T21:58:54.2871827+00:00",
-  "LastChanged_Achievements": "2023-10-20T01:50:12.0079563+00:00",
+  "LastChanged_Achievements": "2023-10-20T02:24:11.1322537+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:03.0185965+00:00",
-  "LastUpdate_Ratings": "2023-10-20T01:41:27.2538288+00:00",
-  "LastUpdate_Achievements": "2023-10-20T01:50:12.0080535+00:00"
+  "LastUpdate_Ratings": "2023-10-20T02:15:19.5515067+00:00",
+  "LastUpdate_Achievements": "2023-10-20T02:24:11.1323444+00:00"
 }

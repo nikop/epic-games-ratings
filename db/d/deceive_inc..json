@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -259,9 +259,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18512,
+  "EOS_Progressed": 18513,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -11849,6 +11849,11 @@
       "Time": "2023-10-20T01:46:30.5383514+00:00",
       "NumProgressed": 18512,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-20T02:20:25.2244828+00:00",
+      "NumProgressed": 18513,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -11860,7 +11865,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5368
+      "UsersEstimate": 5369
     },
     {
       "ID": "0002",
@@ -12124,7 +12129,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2221
+      "UsersEstimate": 2222
     },
     {
       "ID": "0035",
@@ -12147,7 +12152,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18512,
+      "Progressed": 18513,
       "Completed": 4
     }
   ],
@@ -12155,8 +12160,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-10-20T01:46:30.5383509+00:00",
+  "LastChanged_Achievements": "2023-10-20T02:20:25.2244822+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:07.4457302+00:00",
-  "LastUpdate_Ratings": "2023-10-20T01:43:04.7889322+00:00",
-  "LastUpdate_Achievements": "2023-10-20T01:46:30.538459+00:00"
+  "LastUpdate_Ratings": "2023-10-20T02:16:54.1803245+00:00",
+  "LastUpdate_Achievements": "2023-10-20T02:20:25.2245852+00:00"
 }

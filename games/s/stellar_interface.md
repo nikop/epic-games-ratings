@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 84.00% | ~54 |
-| Killing Spree | 70.00% | ~45 |
-| 5Gb HDD | 53.00% | ~34 |
-| Merchant Prince I | 53.00% | ~34 |
+| First Blood | 85.00% | ~55 |
+| Killing Spree | 69.00% | ~45 |
+| 5Gb HDD | 52.00% | ~34 |
+| Merchant Prince I | 52.00% | ~34 |
 | Dominating | 34.00% | ~22 |
-| Fighting Fit I | 33.00% | ~21 |
-| Rambo I | 30.00% | ~19 |
-| 10Gb HDD | 30.00% | ~19 |
+| Fighting Fit I | 32.00% | ~21 |
+| Rambo I | 29.00% | ~19 |
+| 10Gb HDD | 29.00% | ~19 |
 | The Vette | 28.00% | ~18 |
 | Mega Kill | 23.00% | ~15 |
-| Stoic | 19.00% | ~12 |
-| Almost There I | 19.00% | ~12 |
+| Stoic | 18.00% | ~12 |
+| Almost There I | 18.00% | ~12 |
 | Omicron Alpha | 17.00% | ~11 |
-| Galactic Cadet | 16.00% | ~10 |
-| Bronze Prince of Ball-air | 13.00% | ~8 |
-| Pacifist | 13.00% | ~8 |
-| 25Gb HDD | 13.00% | ~8 |
-| Collateral Damage I | 13.00% | ~8 |
+| Galactic Cadet | 15.00% | ~10 |
+| Bronze Prince of Ball-air | 12.00% | ~8 |
+| Pacifist | 12.00% | ~8 |
+| 25Gb HDD | 12.00% | ~8 |
+| Collateral Damage I | 12.00% | ~8 |
 | Rambo II | 11.00% | ~7 |
 | Defrosted | 11.00% | ~7 |
 | Unstoppable | 11.00% | ~7 |
@@ -137,7 +137,7 @@
 | Almost There IV | 0.00% | ~0 |
 | Fighting Fit V | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64 (Ranked 424)  
+Progressed: 65 (Ranked 423)  
 Completed: 0 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,3 +181,4 @@ Completed: 0 (0.00%) (Ranked 316)
 | 2023-09-16 | 62 | 0 |
 | 2023-09-23 | 63 | 0 |
 | 2023-09-26 | 64 | 0 |
+| 2023-10-20 | 65 | 0 |

@@ -15,8 +15,8 @@
 | Apian Champion | 28.00% | ~17 |
 | Lacertian Champion | 28.00% | ~17 |
 | Wild's Keeper | 26.00% | ~16 |
+| Stellar Dismantler | 25.00% | ~15 |
 | Mind Illuminator | 23.00% | ~14 |
-| Stellar Dismantler | 23.00% | ~14 |
 | Behenian Champion | 23.00% | ~14 |
 | Loyal Partner | 21.00% | ~13 |
 | Aquarian Champion | 21.00% | ~13 |
