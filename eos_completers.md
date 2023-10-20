@@ -4,7 +4,7 @@
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 66.67% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.58% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.83% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 46.80% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 46.78% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.17% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -237,10 +237,10 @@
 | 233 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
 | 236 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
 | 237 | [BLACKTAIL](games/b/blacktail.md) | 0.14% |
-| 237 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.14% |
-| 239 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
-| 239 | [Isonzo](games/i/isonzo.md) | 0.13% |
-| 239 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
+| 238 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
+| 238 | [Isonzo](games/i/isonzo.md) | 0.13% |
+| 238 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
+| 238 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.13% |
 | 242 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
 | 242 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.12% |
 | 242 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.12% |
