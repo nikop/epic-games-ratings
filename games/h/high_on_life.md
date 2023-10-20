@@ -8,6 +8,7 @@ Rating: 4.64 (Ranked 325)
 | Creature Feature | 1.00% | ~243 |
 | Satisfied Gus-tomer | 1.00% | ~243 |
 | Are You Packin'? | 1.00% | ~243 |
+| Bring A Knife to a Gun Fight | 1.00% | ~243 |
 | Sweezy Like Sunday Morning | 1.00% | ~243 |
 | First Bounty Down | 1.00% | ~243 |
 | G3 Graduation | 1.00% | ~243 |
@@ -15,7 +16,6 @@ Rating: 4.64 (Ranked 325)
 | Cold-Blooded Driller | 1.00% | ~243 |
 | Who's The Boss? | 1.00% | ~243 |
 | Don't Knife The Hand That Feeds | 1.00% | ~243 |
-| Bring A Knife to a Gun Fight | 0.90% | ~218 |
 | RIP Davey Glutes | 0.90% | ~218 |
 | We're All Very Impressed, Trust Me | 0.90% | ~218 |
 | Lezduit! | 0.80% | ~194 |
@@ -51,7 +51,7 @@ Rating: 4.64 (Ranked 325)
 | That's B.A.L.L., Folks | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 24,266 (Ranked 122)  
-Completed: 13 (0.05%) (Ranked 275)  
+Completed: 13 (0.05%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

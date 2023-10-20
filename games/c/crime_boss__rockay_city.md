@@ -19,7 +19,7 @@ Rating: 3.94 (Ranked 987)
 | Raider’s Ruin | 0.70% | ~624 |
 | Rockay Rex | 0.70% | ~624 |
 | Hidden Sonata | 0.60% | ~535 |
-| Track Star | 0.50% | ~446 |
+| Track Star | 0.60% | ~535 |
 | Headhunter | 0.50% | ~446 |
 | True Player | 0.50% | ~446 |
 | I Like Trains | 0.40% | ~357 |
@@ -48,7 +48,7 @@ Rating: 3.94 (Ranked 987)
 | Now You See Me | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 89,196 (Ranked 85)  
-Completed: 50 (0.06%) (Ranked 269)  
+Completed: 50 (0.06%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

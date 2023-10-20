@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Meissa's Savior | 34.00% | ~21 |
 | Noctuan Champion | 34.00% | ~21 |
-| Meissa's Savior | 32.00% | ~20 |
+| Endless Tricks | 32.00% | ~20 |
+| Purification Pioneer | 32.00% | ~20 |
 | Dicesmithing Time! | 31.00% | ~19 |
-| Endless Tricks | 31.00% | ~19 |
-| Purification Pioneer | 31.00% | ~19 |
 | Eridanian Champion | 31.00% | ~19 |
 | Mechanical Buddy | 29.00% | ~18 |
 | Sanctuary Guardian | 29.00% | ~18 |
 | Lacertian Champion | 29.00% | ~18 |
+| Mind Illuminator | 27.00% | ~17 |
 | Wild's Keeper | 27.00% | ~17 |
 | Apian Champion | 27.00% | ~17 |
-| Mind Illuminator | 26.00% | ~16 |
 | Stellar Dismantler | 24.00% | ~15 |
 | Anomaly Destroyer | 23.00% | ~14 |
 | Behenian Champion | 23.00% | ~14 |
@@ -103,8 +103,8 @@
 | Unepic Hero | 0.00% | ~0 |
 | Apian Mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62 (Ranked 426)  
-Completed: 0 (0.00%) (Ranked 316)  
+Progressed: 62 (Ranked 427)  
+Completed: 0 (0.00%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

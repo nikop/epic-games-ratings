@@ -14,12 +14,12 @@ Rating: 4.58 (Ranked 439)
 | Data Archivist | 4.00% | ~566 |
 | Martian Music | 4.00% | ~566 |
 | Heal Thy Medic | 4.00% | ~566 |
+| Khan's Revenge | 4.00% | ~566 |
 | Captain Drummer | 4.00% | ~566 |
 | Celebrations are in Order | 4.00% | ~566 |
 | Impossible Objects | 4.00% | ~566 |
 | Stogie for Fogey | 3.00% | ~424 |
 | Spore Taste | 3.00% | ~424 |
-| Khan's Revenge | 3.00% | ~424 |
 | Doctor Approved | 2.00% | ~283 |
 | Bottoms up! | 2.00% | ~283 |
 | Thorston Mayer | 2.00% | ~283 |

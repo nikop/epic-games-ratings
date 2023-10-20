@@ -46,11 +46,11 @@
 | Archivist | 34.00% | ~256 |
 | Broke, Blind, and Bedlam | 34.00% | ~256 |
 | Ghost Ship | 33.00% | ~248 |
+| The Assassin | 33.00% | ~248 |
 | The Justicar | 33.00% | ~248 |
 | The Quarian | 33.00% | ~248 |
 | The Prodigal | 33.00% | ~248 |
 | A Personal Touch | 32.00% | ~241 |
-| The Assassin | 32.00% | ~241 |
 | Battlemaster | 32.00% | ~241 |
 | Ghost of the Father | 32.00% | ~241 |
 | The Cure | 32.00% | ~241 |
@@ -65,14 +65,14 @@
 | Cat's in the Cradle | 30.00% | ~226 |
 | Fade Away | 30.00% | ~226 |
 | Treason | 30.00% | ~226 |
+| Digital Exorcist | 30.00% | ~226 |
 | Bringer of War | 30.00% | ~226 |
 | Doppelganger | 29.00% | ~218 |
-| Digital Exorcist | 29.00% | ~218 |
+| Mobilizer | 29.00% | ~218 |
 | Mission Accomplished | 28.00% | ~211 |
 | Suicide Mission | 28.00% | ~211 |
 | Against All Odds | 28.00% | ~211 |
 | Friend or Foe | 28.00% | ~211 |
-| Mobilizer | 28.00% | ~211 |
 | Untouchable | 27.00% | ~203 |
 | First Aid Specialist | 27.00% | ~203 |
 | Eye of the Hurricane | 26.00% | ~196 |
@@ -133,7 +133,7 @@
 | The One and Only | 0.70% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 752 (Ranked 252)  
-Completed: 0 (0.00%) (Ranked 316)  
+Completed: 0 (0.00%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

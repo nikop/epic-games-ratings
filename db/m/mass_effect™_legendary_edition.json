@@ -3,9 +3,9 @@
   "Name": "Mass Effect\u2122 Legendary Edition",
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 252,
-  "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_Completed": 317,
+  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 752,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2439,9 +2439,9 @@
       "ID": "achievement_45",
       "SetID": "d252ncf",
       "Name": "The Assassin",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 241
+      "UsersEstimate": 248
     },
     {
       "ID": "achievement_46",
@@ -2719,9 +2719,9 @@
       "ID": "achievement_77",
       "SetID": "d252ncf",
       "Name": "Digital Exorcist",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 218
+      "UsersEstimate": 226
     },
     {
       "ID": "achievement_78",
@@ -2759,9 +2759,9 @@
       "ID": "achievement_81",
       "SetID": "d252ncf",
       "Name": "Mobilizer",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 211
+      "UsersEstimate": 218
     },
     {
       "ID": "achievement_82",
@@ -2931,8 +2931,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-20T14:07:59.6285695+00:00",
+  "LastChanged_Achievements": "2023-10-20T15:07:45.5196357+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:30.4071338+00:00",
-  "LastUpdate_Ratings": "2023-10-20T14:03:23.1064455+00:00",
-  "LastUpdate_Achievements": "2023-10-20T14:07:59.6287521+00:00"
+  "LastUpdate_Ratings": "2023-10-20T15:03:07.1878326+00:00",
+  "LastUpdate_Achievements": "2023-10-20T15:07:45.5198152+00:00"
 }

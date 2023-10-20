@@ -6,9 +6,9 @@
   "Ranking_Popularity": 288,
   "Ranking_PopularitySum": 251,
   "Ranking_EOS_Progress": 24,
-  "Ranking_EOS_Completed": 316,
+  "Ranking_EOS_Completed": 317,
   "Ranking_EOS_NewPlayers": 50,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-07-28T15:00:00+00:00",
     "PcReleaseDate": "2022-07-28T15:00:00+00:00",
@@ -2152,9 +2152,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 674096,
+  "EOS_Progressed": 674116,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 1758,
+  "EOS_NewPlayers": 1765,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22907,6 +22907,11 @@
       "Time": "2023-10-20T14:09:36.3080758+00:00",
       "NumProgressed": 674096,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-10-20T15:09:21.6454198+00:00",
+      "NumProgressed": 674116,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 54,
@@ -22918,7 +22923,7 @@
       "Name": "The dream begins",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 539277
+      "UsersEstimate": 539293
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -22998,7 +23003,7 @@
       "Name": "Where there\u0027s muck there\u0027s brass",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 26964
+      "UsersEstimate": 26965
     },
     {
       "ID": "COMPLETE_ONE_CONTRACT",
@@ -23006,7 +23011,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 242675
+      "UsersEstimate": 242682
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -23158,7 +23163,7 @@
       "Name": "The first of many",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 208970
+      "UsersEstimate": 208976
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -23190,7 +23195,7 @@
       "Name": "Teamwork makes the dream work",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 40446
+      "UsersEstimate": 40447
     },
     {
       "ID": "NO_FINE_CONTRACT",
@@ -23222,7 +23227,7 @@
       "Name": "Lawn in the U.S.A.",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 101114
+      "UsersEstimate": 101117
     },
     {
       "ID": "PART_EX_LESS_EXPENSIVE",
@@ -23238,7 +23243,7 @@
       "Name": "Bigger and better",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 26964
+      "UsersEstimate": 26965
     },
     {
       "ID": "PICK_UP_250_OBJECTS",
@@ -23278,7 +23283,7 @@
       "Name": "Credible",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 47187
+      "UsersEstimate": 47188
     },
     {
       "ID": "RP_DISTINGUISHED",
@@ -23318,7 +23323,7 @@
       "Name": "Positive word of mouth",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 121337
+      "UsersEstimate": 121341
     },
     {
       "ID": "RP_TRUSTED",
@@ -23334,7 +23339,7 @@
       "Name": "Blade Runner",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 60669
+      "UsersEstimate": 60670
     },
     {
       "ID": "UPGRADE_COMPANY_HQ",
@@ -23342,22 +23347,22 @@
       "Name": "Aggressive expansion",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 26964
+      "UsersEstimate": 26965
     }
   ],
   "AchievementSets": [
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 674096,
+      "Progressed": 674116,
       "Completed": 17
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-09-24T17:02:01.5697717+00:00",
-  "LastChanged_Achievements": "2023-10-20T14:09:36.3080755+00:00",
+  "LastChanged_Achievements": "2023-10-20T15:09:21.6454195+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:05.8982674+00:00",
-  "LastUpdate_Ratings": "2023-10-20T14:00:37.9138483+00:00",
-  "LastUpdate_Achievements": "2023-10-20T14:09:36.3082078+00:00"
+  "LastUpdate_Ratings": "2023-10-20T15:00:25.5298436+00:00",
+  "LastUpdate_Achievements": "2023-10-20T15:09:21.6455598+00:00"
 }

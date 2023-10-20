@@ -4,7 +4,7 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 512,
+  "EOS_Progressed": 513,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.56,
   "EosHistory": [
@@ -920,6 +920,11 @@
       "Time": "2023-10-19T23:05:05.0441012+00:00",
       "NumProgressed": 512,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-20T15:05:43.1168936+00:00",
+      "NumProgressed": 513,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 20,
@@ -987,7 +992,7 @@
       "Name": "The Bribe",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ENDING_7",
@@ -1003,7 +1008,7 @@
       "Name": "Even Tempered",
       "Percentage": 58,
       "XP": 50,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -1051,7 +1056,7 @@
       "Name": "Proficient Storyteller",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "PROTECTOR",
@@ -1059,7 +1064,7 @@
       "Name": "Protector",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "SABOTAGE",
@@ -1075,7 +1080,7 @@
       "Name": "Shill Bidder",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "STAR_CROSSED_LOVERS",
@@ -1090,7 +1095,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 512,
+      "Progressed": 513,
       "Completed": 8
     }
   ],
@@ -1098,8 +1103,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-10-20T14:05:57.7990584+00:00",
+  "LastChanged_Achievements": "2023-10-20T15:05:43.1168933+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:20.5549393+00:00",
-  "LastUpdate_Ratings": "2023-10-20T14:01:20.6997526+00:00",
-  "LastUpdate_Achievements": "2023-10-20T14:05:57.7990731+00:00"
+  "LastUpdate_Ratings": "2023-10-20T15:01:12.1350567+00:00",
+  "LastUpdate_Achievements": "2023-10-20T15:05:43.1169089+00:00"
 }

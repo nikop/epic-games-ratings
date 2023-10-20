@@ -1,7 +1,7 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.19 (Ranked 897)  
+Rating: 4.19 (Ranked 898)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -10,7 +10,7 @@ Rating: 4.19 (Ranked 897)
 | Flesh Wound | 5.00% | ~805 |
 | Chew 'Em Up | 5.00% | ~805 |
 | Float Like A Butterfly | 5.00% | ~805 |
-| Keep Fighting | 5.00% | ~201 |
+| Keep Fighting | 5.00% | ~202 |
 | You Need a Gun | 4.00% | ~644 |
 | I Do Belong Here | 4.00% | ~644 |
 | Two Heads Are Better Than One | 4.00% | ~644 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 897)
 | Hoard Mode | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,101 (Ranked 134)  
+Progressed: 16,105 (Ranked 134)  
 Completed: 75 (0.47%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,7 +229,7 @@ Completed: 75 (0.47%) (Ranked 180)
 | 2023-10-17 | 16,022 | 75 |
 | 2023-10-18 | 16,031 | 75 |
 | 2023-10-19 | 16,085 | 75 |
-| 2023-10-20 | 16,101 | 75 |
+| 2023-10-20 | 16,105 | 75 |
 ## Awards
 Max (Highly Recommended): 76  (Ranked 381)  
 Sum: 448 (Ranked 323)  

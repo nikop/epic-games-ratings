@@ -6,9 +6,9 @@
   "Ranking_Popularity": 239,
   "Ranking_PopularitySum": 196,
   "Ranking_EOS_Progress": 125,
-  "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_Completed": 250,
+  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -1959,9 +1959,9 @@
       "Count": 216
     }
   ],
-  "EOS_Progressed": 21018,
+  "EOS_Progressed": 21021,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -9394,6 +9394,11 @@
       "Time": "2023-10-20T14:05:31.4698904+00:00",
       "NumProgressed": 21018,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-10-20T15:05:16.6280901+00:00",
+      "NumProgressed": 21021,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -9405,7 +9410,7 @@
       "Name": "Family man",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2732
+      "UsersEstimate": 2733
     },
     {
       "ID": "CarMechanic",
@@ -9453,7 +9458,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 19967
+      "UsersEstimate": 19970
     },
     {
       "ID": "GameOver",
@@ -9493,7 +9498,7 @@
       "Name": "Junior Estate Agent",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2732
+      "UsersEstimate": 2733
     },
     {
       "ID": "KnockKnock",
@@ -9517,7 +9522,7 @@
       "Name": "Just Enough",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3993
+      "UsersEstimate": 3994
     },
     {
       "ID": "Negotiator",
@@ -9557,7 +9562,7 @@
       "Name": "Pro-creative",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3783
+      "UsersEstimate": 3784
     },
     {
       "ID": "Strongman",
@@ -9565,7 +9570,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6516
+      "UsersEstimate": 6517
     },
     {
       "ID": "VeronicaLiptson",
@@ -9588,15 +9593,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 21018,
+      "Progressed": 21021,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-10-19T02:58:10.2624005+00:00",
-  "LastChanged_Achievements": "2023-10-20T14:05:31.46989+00:00",
+  "LastChanged_Achievements": "2023-10-20T15:05:16.6280897+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:53.7092922+00:00",
-  "LastUpdate_Ratings": "2023-10-20T13:59:59.8320458+00:00",
-  "LastUpdate_Achievements": "2023-10-20T14:05:31.4699385+00:00"
+  "LastUpdate_Ratings": "2023-10-20T14:59:49.5075068+00:00",
+  "LastUpdate_Achievements": "2023-10-20T15:05:16.6281394+00:00"
 }

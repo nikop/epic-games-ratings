@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just Went Shopping | 97.00% | ~343 |
-| Decision Maker | 80.00% | ~283 |
-| Sneaky Sneak | 78.00% | ~276 |
-| DIY | 78.00% | ~276 |
-| Master Chef | 66.00% | ~234 |
-| Master of Cards | 58.00% | ~205 |
+| Just Went Shopping | 97.00% | ~344 |
+| Decision Maker | 80.00% | ~284 |
+| Sneaky Sneak | 78.00% | ~277 |
+| DIY | 77.00% | ~273 |
+| Master Chef | 65.00% | ~231 |
+| Master of Cards | 59.00% | ~209 |
 | Over Nine Thousaaand | 57.00% | ~202 |
 | Getting the Hang Of This | 48.00% | ~170 |
 | Collector | 29.00% | ~103 |
 | Blow ‘Em Up | 22.00% | ~78 |
-| That’s What Friends Are For | 21.00% | ~74 |
+| That’s What Friends Are For | 21.00% | ~75 |
 | Poker-Man | 20.00% | ~71 |
 | FOR THE GAUNTLET! | 20.00% | ~71 |
 | Untapped Potential | 17.00% | ~60 |
 | Played by Gramps | 14.00% | ~50 |
-| Size Doesn’t Matter | 12.00% | ~42 |
-| I Choo-Choo-Choose You | 12.00% | ~42 |
-| My Savior! | 12.00% | ~42 |
+| Size Doesn’t Matter | 12.00% | ~43 |
+| I Choo-Choo-Choose You | 12.00% | ~43 |
+| My Savior! | 12.00% | ~43 |
 | Totally Swamped | 11.00% | ~39 |
-| Limitless | 10.00% | ~35 |
-| Hammer Time | 10.00% | ~35 |
-| Is Anyone Out There? | 10.00% | ~35 |
+| Limitless | 10.00% | ~36 |
+| Hammer Time | 10.00% | ~36 |
+| Is Anyone Out There? | 10.00% | ~36 |
 | Hired Goon | 6.00% | ~21 |
 | Holy Scrap! | 6.00% | ~21 |
 | How I Met Your Nana | 4.00% | ~14 |
@@ -33,8 +33,8 @@
 | Lord of the Wastes | 3.00% | ~11 |
 | Through Hell and Back | 3.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 354 (Ranked 304)  
-Completed: 11 (3.11%) (Ranked 91)  
+Progressed: 355 (Ranked 304)  
+Completed: 11 (3.10%) (Ranked 91)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -64,6 +64,7 @@ Completed: 11 (3.11%) (Ranked 91)
 | 2023-09-16 | 352 | 11 |
 | 2023-09-19 | 353 | 11 |
 | 2023-10-19 | 354 | 11 |
+| 2023-10-20 | 355 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

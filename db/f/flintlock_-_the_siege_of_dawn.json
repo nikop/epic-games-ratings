@@ -3,9 +3,9 @@
   "Name": "Flintlock - The Siege of Dawn",
   "ProductSlug": "flintlock-the-siege-of-dawn-210044",
   "Ranking_EOS_Progress": 685,
-  "Ranking_EOS_Completed": 316,
+  "Ranking_EOS_Completed": 317,
   "Ranking_EOS_NewPlayers": 399,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -39,8 +39,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:48:56.0996827+00:00",
-  "LastChanged_Achievements": "2023-10-20T14:09:29.4063602+00:00",
+  "LastChanged_Achievements": "2023-10-20T15:09:14.8717167+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:46.8842807+00:00",
-  "LastUpdate_Ratings": "2023-10-20T14:02:11.5859758+00:00",
-  "LastUpdate_Achievements": "2023-10-20T14:09:29.4063628+00:00"
+  "LastUpdate_Ratings": "2023-10-20T15:01:58.6140052+00:00",
+  "LastUpdate_Achievements": "2023-10-20T15:09:14.8717198+00:00"
 }

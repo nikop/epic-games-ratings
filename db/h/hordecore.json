@@ -4,8 +4,8 @@
   "ProductSlug": "hordecore",
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 399,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-03-02T17:00:00+00:00",
     "PcReleaseDate": "2022-03-02T17:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 354,
+  "EOS_Progressed": 355,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.11,
+  "EOS_Completed_Percentage": 3.1,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:58.4754336+00:00",
@@ -179,6 +179,11 @@
       "Time": "2023-10-19T13:11:01.8605667+00:00",
       "NumProgressed": 354,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-20T15:05:36.4600902+00:00",
+      "NumProgressed": 355,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 28,
@@ -190,7 +195,7 @@
       "Name": "Just Went Shopping",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "10",
@@ -222,7 +227,7 @@
       "Name": "Limitless",
       "Percentage": 10,
       "XP": 85,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "14",
@@ -238,7 +243,7 @@
       "Name": "Size Doesn\u2019t Matter",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "16",
@@ -254,7 +259,7 @@
       "Name": "Hammer Time",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "18",
@@ -262,7 +267,7 @@
       "Name": "I Choo-Choo-Choose You",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "19",
@@ -270,7 +275,7 @@
       "Name": "That\u2019s What Friends Are For",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "2",
@@ -278,7 +283,7 @@
       "Name": "Decision Maker",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "20",
@@ -286,7 +291,7 @@
       "Name": "Is Anyone Out There?",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "21",
@@ -294,7 +299,7 @@
       "Name": "My Savior!",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "22",
@@ -358,23 +363,23 @@
       "Name": "Sneaky Sneak",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "4",
       "SetID": "1530e6b",
       "Name": "Master of Cards",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 205
+      "UsersEstimate": 209
     },
     {
       "ID": "5",
       "SetID": "1530e6b",
       "Name": "DIY",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 276
+      "UsersEstimate": 273
     },
     {
       "ID": "6",
@@ -396,9 +401,9 @@
       "ID": "8",
       "SetID": "1530e6b",
       "Name": "Master Chef",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 234
+      "UsersEstimate": 231
     },
     {
       "ID": "9",
@@ -413,7 +418,7 @@
     {
       "ID": "1530e6b",
       "IsBase": true,
-      "Progressed": 354,
+      "Progressed": 355,
       "Completed": 11
     }
   ],
@@ -421,8 +426,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.7013302+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.4754344+00:00",
   "LastChanged": "2023-03-31T05:57:38.7013303+00:00",
-  "LastChanged_Achievements": "2023-10-20T14:05:51.2369949+00:00",
+  "LastChanged_Achievements": "2023-10-20T15:05:36.4600894+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:48.5425349+00:00",
-  "LastUpdate_Ratings": "2023-10-20T14:02:14.1580846+00:00",
-  "LastUpdate_Achievements": "2023-10-20T14:05:51.2370119+00:00"
+  "LastUpdate_Ratings": "2023-10-20T15:02:01.5024659+00:00",
+  "LastUpdate_Achievements": "2023-10-20T15:05:36.4601083+00:00"
 }

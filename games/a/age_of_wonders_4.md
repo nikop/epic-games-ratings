@@ -1,7 +1,7 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.61 (Ranked 380)  
+Rating: 4.60 (Ranked 402)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -57,7 +57,7 @@ Rating: 4.61 (Ranked 380)
 | The Grey Wizard | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,228 (Ranked 174)  
-Completed: 6 (0.11%) (Ranked 247)  
+Completed: 6 (0.11%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -268,3 +268,4 @@ Diff (max vs sum): -8
 | 2023-09-30 | 4.60 | 25 | 25 |
 | 2023-10-11 | 4.60 | 26 | 26 |
 | 2023-10-18 | 4.61 | 26 | 26 |
+| 2023-10-20 | 4.60 | 26 | 26 |

@@ -8,7 +8,7 @@
 | Eat My Dust | 41.00% | ~643 |
 | Clean Race | 40.00% | ~628 |
 | Hear That Roar! | 38.00% | ~596 |
-| Rivals to the End | 28.00% | ~439 |
+| Rivals to the End | 29.00% | ~455 |
 | Bitter Rivalry | 25.00% | ~392 |
 | We're Going to Need a Bigger Garage | 24.00% | ~377 |
 | Champagne Spray | 23.00% | ~361 |
@@ -30,12 +30,12 @@
 | The Road to Liberty | 3.00% | ~47 |
 | Romantic Races | 3.00% | ~47 |
 | Iconic! | 2.00% | ~31 |
+| I'll Be the Best! | 2.00% | ~31 |
 | Back in Blighty | 2.00% | ~31 |
 | Still Here | 2.00% | ~31 |
 | Rounding Off | 2.00% | ~31 |
 | My Work Here Is Done | 2.00% | ~31 |
 | Overtaking the Master | 2.00% | ~31 |
-| I'll Be the Best! | 1.00% | ~16 |
 | Next Level | 1.00% | ~16 |
 | I Don't Stop | 1.00% | ~16 |
 | Exhausted but Happy | 0.80% | ~13 |
@@ -55,7 +55,7 @@
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,569 (Ranked 217)  
-Completed: 0 (0.00%) (Ranked 316)  
+Completed: 0 (0.00%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

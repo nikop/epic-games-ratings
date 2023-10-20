@@ -5,23 +5,23 @@ Rating: 4.73 (Ranked 167)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~12,488 |
-| Newcomers | 79.00% | ~10,723 |
-| A Burden of Blood | 74.00% | ~10,045 |
+| Under a New Sun | 92.00% | ~12,489 |
+| Newcomers | 79.00% | ~10,724 |
+| A Burden of Blood | 74.00% | ~10,046 |
 | Protector's Duty | 71.00% | ~9,638 |
-| In our Wake | 69.00% | ~9,366 |
-| Alchemist | 69.00% | ~9,366 |
-| Leaving all Behind | 65.00% | ~8,823 |
+| In our Wake | 69.00% | ~9,367 |
+| Alchemist | 69.00% | ~9,367 |
+| Leaving all Behind | 65.00% | ~8,824 |
 | Felons | 63.00% | ~8,552 |
-| A Sea of Promises | 61.00% | ~8,280 |
+| A Sea of Promises | 61.00% | ~8,281 |
 | Tales and Revelations | 58.00% | ~7,873 |
-| Bloodline | 53.00% | ~7,194 |
-| The Cradle of Centuries | 49.00% | ~6,651 |
+| Bloodline | 53.00% | ~7,195 |
+| The Cradle of Centuries | 49.00% | ~6,652 |
 | The Life We Deserve | 47.00% | ~6,380 |
 | Night guard | 44.00% | ~5,973 |
 | Nothing Left | 40.00% | ~5,430 |
 | Healing our Wounds | 38.00% | ~5,158 |
-| Dying Sun | 34.00% | ~4,615 |
+| Dying Sun | 34.00% | ~4,616 |
 | Improved crossbow | 27.00% | ~3,665 |
 | King Hugo | 25.00% | ~3,394 |
 | Mercy | 24.00% | ~3,258 |
@@ -37,11 +37,11 @@ Rating: 4.73 (Ranked 167)
 | Ornithologist | 5.00% | ~679 |
 | Immortal memories | 4.00% | ~543 |
 | Sneaky | 4.00% | ~543 |
-| Explorer | 2.00% | ~271 |
-| Old protector | 2.00% | ~271 |
+| Explorer | 2.00% | ~272 |
+| Old protector | 2.00% | ~272 |
 | Malignant | 1.00% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,574 (Ranked 141)  
+Progressed: 13,575 (Ranked 141)  
 Completed: 49 (0.36%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 49 (0.36%) (Ranked 198)
 | 2023-10-16 | 13,565 | 49 |
 | 2023-10-17 | 13,569 | 49 |
 | 2023-10-18 | 13,571 | 49 |
-| 2023-10-20 | 13,574 | 49 |
+| 2023-10-20 | 13,575 | 49 |
 ## Awards
 Max (Great Boss Battles): 427  (Ranked 216)  
 Sum: 663 (Ranked 296)  

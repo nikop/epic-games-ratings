@@ -2,13 +2,13 @@
   "ID": "effee7c2775148e9a99f5685d29751d2",
   "Name": "The Surge 2",
   "ProductSlug": "the-surge-2-e7df70",
-  "Ranking_Rating": 861,
+  "Ranking_Rating": 862,
   "Ranking_Popularity": 538,
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 171,
   "Ranking_EOS_NewPlayers": 284,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -264,7 +264,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2091,
+  "EOS_Progressed": 2092,
   "EOS_Completed": 12,
   "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
@@ -2734,6 +2734,11 @@
       "Time": "2023-10-16T14:04:23.4386828+00:00",
       "NumProgressed": 2091,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-10-20T15:07:01.6192676+00:00",
+      "NumProgressed": 2092,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 57,
@@ -2753,7 +2758,7 @@
       "Name": "Jailbreak",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1380
+      "UsersEstimate": 1381
     },
     {
       "ID": "ACHV_03",
@@ -2761,7 +2766,7 @@
       "Name": "Dead Again",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "ACHV_04",
@@ -2769,7 +2774,7 @@
       "Name": "Overheated",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "ACHV_05",
@@ -2849,7 +2854,7 @@
       "Name": "Reborn",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACHV_15",
@@ -2937,7 +2942,7 @@
       "Name": "Full Arsenal",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "ACHV_26",
@@ -2945,7 +2950,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1673
+      "UsersEstimate": 1674
     },
     {
       "ID": "ACHV_27",
@@ -2953,7 +2958,7 @@
       "Name": "High Performance",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "ACHV_28",
@@ -2977,7 +2982,7 @@
       "Name": "Powered Up",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "ACHV_31",
@@ -2993,7 +2998,7 @@
       "Name": "Remote Surgery",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACHV_33",
@@ -3049,7 +3054,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1610
+      "UsersEstimate": 1611
     },
     {
       "ID": "ACHV_40",
@@ -3065,7 +3070,7 @@
       "Name": "Suited and Booted",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "ACHV_42",
@@ -3121,7 +3126,7 @@
       "Name": "Turbo Booster",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACHV_49",
@@ -3153,7 +3158,7 @@
       "Name": "Juiced Up",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACHV_53",
@@ -3185,7 +3190,7 @@
       "Name": "Squid Pro Quo",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACHV_57",
@@ -3200,7 +3205,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2091,
+      "Progressed": 2092,
       "Completed": 12
     }
   ],
@@ -3208,8 +3213,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-09-02T12:01:51.7744509+00:00",
-  "LastChanged_Achievements": "2023-10-20T14:07:15.2496815+00:00",
+  "LastChanged_Achievements": "2023-10-20T15:07:01.6192669+00:00",
   "LastUpdate_AppInfo": "2023-10-14T10:57:23.4388633+00:00",
-  "LastUpdate_Ratings": "2023-10-20T13:57:34.4495409+00:00",
-  "LastUpdate_Achievements": "2023-10-20T14:07:15.2497367+00:00"
+  "LastUpdate_Ratings": "2023-10-20T14:57:10.0001436+00:00",
+  "LastUpdate_Achievements": "2023-10-20T15:07:01.6193223+00:00"
 }

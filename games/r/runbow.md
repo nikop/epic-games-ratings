@@ -6,7 +6,7 @@ Rating: 4.46 (Ranked 631)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | In The Zone | 53.00% | ~132,755 |
-| My First Runbow | 50.00% | ~125,240 |
+| My First Runbow | 50.00% | ~125,241 |
 | It's The Fall | 26.00% | ~65,125 |
 | The Stunner | 22.00% | ~55,106 |
 | Be Aggressive | 21.00% | ~52,601 |
@@ -17,7 +17,7 @@ Rating: 4.46 (Ranked 631)
 | Chan-tastic | 15.00% | ~37,572 |
 | Muddy Waters | 14.00% | ~35,067 |
 | Toasty! | 13.00% | ~32,563 |
-| Lazy Laser | 8.00% | ~20,038 |
+| Lazy Laser | 8.00% | ~20,039 |
 | Just A Phaze | 7.00% | ~17,534 |
 | Into The Drift | 7.00% | ~17,534 |
 | Ready? Fight! | 7.00% | ~17,534 |
@@ -52,8 +52,8 @@ Rating: 4.46 (Ranked 631)
 | Talent Scout | 0.10% | ~250 |
 | True Completionist | 0.10% | ~250 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250,481 (Ranked 52)  
-Completed: 6 (0.00%) (Ranked 316)  
+Progressed: 250,482 (Ranked 52)  
+Completed: 6 (0.00%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -235,7 +235,7 @@ Completed: 6 (0.00%) (Ranked 316)
 | 2023-10-17 | 250,415 | 6 |
 | 2023-10-18 | 250,438 | 6 |
 | 2023-10-19 | 250,467 | 6 |
-| 2023-10-20 | 250,481 | 6 |
+| 2023-10-20 | 250,482 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

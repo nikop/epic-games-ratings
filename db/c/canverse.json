@@ -3,9 +3,9 @@
   "Name": "canVERSE",
   "ProductSlug": "canverse-ea3961",
   "Ranking_EOS_Progress": 685,
-  "Ranking_EOS_Completed": 316,
+  "Ranking_EOS_Completed": 317,
   "Ranking_EOS_NewPlayers": 399,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-08-02T09:00:00+00:00",
     "PcReleaseDate": "2022-06-07T08:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-03T18:01:14.3960732+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:34.4883462+00:00",
-  "LastUpdate_Ratings": "2023-10-20T14:00:37.5418858+00:00",
-  "LastUpdate_Achievements": "2023-10-20T14:05:56.735291+00:00"
+  "LastUpdate_Ratings": "2023-10-20T15:00:25.1627546+00:00",
+  "LastUpdate_Achievements": "2023-10-20T15:05:41.893068+00:00"
 }

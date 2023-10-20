@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 187,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2547,9 +2547,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26738,
+  "EOS_Progressed": 26743,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 346,
+  "EOS_NewPlayers": 349,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -15577,6 +15577,11 @@
       "Time": "2023-10-20T14:05:49.1272504+00:00",
       "NumProgressed": 26738,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-10-20T15:05:34.3482916+00:00",
+      "NumProgressed": 26743,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 51,
@@ -15866,9 +15871,9 @@
       "ID": "Skilled",
       "SetID": "819popo",
       "Name": "Skilled",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 214
+      "UsersEstimate": 241
     },
     {
       "ID": "Solo_Capture",
@@ -15995,7 +16000,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26738,
+      "Progressed": 26743,
       "Completed": 60
     }
   ],
@@ -16003,8 +16008,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-20T09:02:11.43749+00:00",
-  "LastChanged_Achievements": "2023-10-20T14:05:49.12725+00:00",
+  "LastChanged_Achievements": "2023-10-20T15:05:34.3482909+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:17.9420656+00:00",
-  "LastUpdate_Ratings": "2023-10-20T14:02:31.7019275+00:00",
-  "LastUpdate_Achievements": "2023-10-20T14:05:49.127345+00:00"
+  "LastUpdate_Ratings": "2023-10-20T15:02:17.3794961+00:00",
+  "LastUpdate_Achievements": "2023-10-20T15:05:34.3483894+00:00"
 }

@@ -7,7 +7,7 @@
 | Iceberg Theory | 78.00% | ~78 |
 | Gear Up | 67.00% | ~67 |
 | A Grand Show | 67.00% | ~67 |
-| Freshen Up | 58.00% | ~58 |
+| Freshen Up | 59.00% | ~59 |
 | GG EZ | 55.00% | ~55 |
 | Hydrophobia | 42.00% | ~42 |
 | Ka-Ching! | 33.00% | ~33 |
@@ -16,7 +16,7 @@
 | Mr. Want It All | 17.00% | ~17 |
 | Toe to Toe | 16.00% | ~16 |
 | The Hidden Secret | 15.00% | ~15 |
-| Phew! | 14.00% | ~14 |
+| Phew! | 15.00% | ~15 |
 | The Abyss Conqueror | 12.00% | ~12 |
 | Space Warrior: Prologue | 11.00% | ~11 |
 | The Fortress Conqueror | 10.00% | ~10 |

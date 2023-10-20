@@ -6,9 +6,9 @@
   "Ranking_Popularity": 538,
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 130,
-  "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_Completed": 291,
+  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -259,9 +259,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18524,
+  "EOS_Progressed": 18525,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 162,
+  "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -11899,6 +11899,11 @@
       "Time": "2023-10-20T14:05:10.7229817+00:00",
       "NumProgressed": 18524,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-20T15:04:45.5839145+00:00",
+      "NumProgressed": 18525,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -11934,7 +11939,7 @@
       "Name": "Security Supervisor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1111
+      "UsersEstimate": 1112
     },
     {
       "ID": "0005",
@@ -12094,7 +12099,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4075
+      "UsersEstimate": 4076
     },
     {
       "ID": "0025",
@@ -12197,7 +12202,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18524,
+      "Progressed": 18525,
       "Completed": 4
     }
   ],
@@ -12205,8 +12210,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-10-20T14:05:10.7229814+00:00",
+  "LastChanged_Achievements": "2023-10-20T15:04:45.5839139+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:07.4457302+00:00",
-  "LastUpdate_Ratings": "2023-10-20T13:57:22.1395644+00:00",
-  "LastUpdate_Achievements": "2023-10-20T14:05:10.7230571+00:00"
+  "LastUpdate_Ratings": "2023-10-20T14:56:57.8734661+00:00",
+  "LastUpdate_Achievements": "2023-10-20T15:04:45.5839936+00:00"
 }

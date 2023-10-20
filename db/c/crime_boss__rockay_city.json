@@ -6,8 +6,8 @@
   "Ranking_Popularity": 205,
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 85,
-  "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_Completed": 270,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -4157,7 +4157,7 @@
   ],
   "EOS_Progressed": 89196,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -22671,9 +22671,9 @@
       "ID": "ACH_0014",
       "SetID": "3kam13l",
       "Name": "Track Star",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 446
+      "UsersEstimate": 535
     },
     {
       "ID": "ACH_0015",
@@ -22982,8 +22982,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-10-20T13:08:04.645463+00:00",
-  "LastChanged_Achievements": "2023-10-20T14:06:34.7999421+00:00",
+  "LastChanged_Achievements": "2023-10-20T15:06:20.6814574+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:09.3878818+00:00",
-  "LastUpdate_Ratings": "2023-10-20T14:03:00.8452582+00:00",
-  "LastUpdate_Achievements": "2023-10-20T14:06:34.8000561+00:00"
+  "LastUpdate_Ratings": "2023-10-20T15:02:45.2289484+00:00",
+  "LastUpdate_Achievements": "2023-10-20T15:06:20.6815718+00:00"
 }

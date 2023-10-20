@@ -6,20 +6,20 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 75.00% | ~37,655 |
-| I read Shakespeare and stuff | 64.00% | ~32,132 |
-| Just a sprinkle | 63.00% | ~31,630 |
-| I'm stumped | 61.00% | ~30,626 |
-| Plant get enough | 60.00% | ~30,124 |
-| It's just the beginning | 59.00% | ~29,622 |
-| This is just my weekend vehicle | 58.00% | ~29,120 |
-| Hard work pays off | 53.00% | ~26,610 |
+| Own use | 75.00% | ~37,657 |
+| I read Shakespeare and stuff | 64.00% | ~32,134 |
+| Just a sprinkle | 63.00% | ~31,632 |
+| I'm stumped | 61.00% | ~30,627 |
+| Plant get enough | 60.00% | ~30,125 |
+| It's just the beginning | 59.00% | ~29,623 |
+| This is just my weekend vehicle | 58.00% | ~29,121 |
+| Hard work pays off | 53.00% | ~26,611 |
 | It's never too late to farm | 50.00% | ~25,104 |
-| All out of Land | 44.00% | ~22,091 |
-| Field Trip | 43.00% | ~21,589 |
-| I like to switch it up | 40.00% | ~20,083 |
+| All out of Land | 44.00% | ~22,092 |
+| Field Trip | 43.00% | ~21,590 |
+| I like to switch it up | 40.00% | ~20,084 |
 | Help me to help you | 38.00% | ~19,079 |
-| Ultimutt Pawesomeness | 28.00% | ~14,058 |
+| Ultimutt Pawesomeness | 28.00% | ~14,059 |
 | Van Gogh | 26.00% | ~13,054 |
 | You wood not believe it | 22.00% | ~11,046 |
 | Vehicle fleet | 22.00% | ~11,046 |
@@ -34,11 +34,11 @@ Number of Ratings: 7,683  (23.09.2022)
 | Highly cultivated | 11.00% | ~5,523 |
 | It's sow easy | 11.00% | ~5,523 |
 | Giddy-up! | 10.00% | ~5,021 |
-| Cowherd | 7.00% | ~3,514 |
-| Fluffyness | 6.00% | ~3,012 |
-| Road Trip | 6.00% | ~3,012 |
-| Helper A does not stop … ever | 6.00% | ~3,012 |
-| Bringing in the Honey | 6.00% | ~3,012 |
+| Cowherd | 7.00% | ~3,515 |
+| Fluffyness | 6.00% | ~3,013 |
+| Road Trip | 6.00% | ~3,013 |
+| Helper A does not stop … ever | 6.00% | ~3,013 |
+| Bringing in the Honey | 6.00% | ~3,013 |
 | Three little piggies… | 4.00% | ~2,008 |
 | Game on | 4.00% | ~2,008 |
 | Pretty colourful | 0.90% | ~452 |
@@ -50,8 +50,8 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~201 |
 | Raisin the stakes | 0.30% | ~151 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,207 (Ranked 103)  
-Completed: 6 (0.01%) (Ranked 298)  
+Progressed: 50,209 (Ranked 103)  
+Completed: 6 (0.01%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -233,10 +233,10 @@ Completed: 6 (0.01%) (Ranked 298)
 | 2023-10-17 | 50,106 | 6 |
 | 2023-10-18 | 50,141 | 6 |
 | 2023-10-19 | 50,185 | 6 |
-| 2023-10-20 | 50,207 | 6 |
+| 2023-10-20 | 50,209 | 6 |
 ## Awards
 Max (Great for Beginners): 5,216  (Ranked 70)  
-Sum: 41,414 (Ranked 33)  
+Sum: 41,419 (Ranked 33)  
 Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
@@ -245,7 +245,7 @@ Diff (max vs sum): 37
 | This game is Educational | 4,251 |
 | This game is Relaxing | 4,202 |
 | This game has Quickly Understood Controls | 4,175 |
-| This game is Highly Recommended | 4,116 |
+| This game is Highly Recommended | 4,121 |
 | This game is Extremely Fun | 4,071 |
 | This game has Amazing Storytelling | 3,967 |
 | This game has Amazing Characters | 3,598 |
@@ -531,4 +531,4 @@ Diff (max vs sum): 37
 | 2023-10-17 | 4.69 | - | 5,202 | 41,339 |
 | 2023-10-18 | 4.69 | - | 5,208 | 41,376 |
 | 2023-10-19 | 4.69 | - | 5,216 | 41,408 |
-| 2023-10-20 | 4.69 | - | 5,216 | 41,414 |
+| 2023-10-20 | 4.69 | - | 5,216 | 41,419 |

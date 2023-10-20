@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -253,9 +253,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 36900,
+  "EOS_Progressed": 36901,
   "EOS_Completed": 115,
-  "EOS_NewPlayers": 227,
+  "EOS_NewPlayers": 225,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -16063,6 +16063,11 @@
       "Time": "2023-10-20T13:14:35.390231+00:00",
       "NumProgressed": 36900,
       "NumCompleted": 115
+    },
+    {
+      "Time": "2023-10-20T15:09:27.9578476+00:00",
+      "NumProgressed": 36901,
+      "NumCompleted": 115
     }
   ],
   "TotalAchievements": 14,
@@ -16114,7 +16119,7 @@
       "Name": "Easter Bunny",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "carving",
@@ -16162,7 +16167,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 28413
+      "UsersEstimate": 28414
     },
     {
       "ID": "roots",
@@ -16185,15 +16190,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 36900,
+      "Progressed": 36901,
       "Completed": 115
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-10-14T11:57:58.6551569+00:00",
-  "LastChanged_Achievements": "2023-10-20T14:09:42.7776842+00:00",
+  "LastChanged_Achievements": "2023-10-20T15:09:27.9578471+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:38.5341026+00:00",
-  "LastUpdate_Ratings": "2023-10-20T14:01:54.4917474+00:00",
-  "LastUpdate_Achievements": "2023-10-20T14:09:42.7777673+00:00"
+  "LastUpdate_Ratings": "2023-10-20T15:01:43.0743912+00:00",
+  "LastUpdate_Achievements": "2023-10-20T15:09:27.9579304+00:00"
 }
