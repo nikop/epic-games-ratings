@@ -4,7 +4,7 @@
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 66.67% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.58% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 47.02% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 46.71% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 46.70% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.17% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -86,7 +86,7 @@
 | 84 | [Doodle God](games/d/doodle_god.md) | 3.27% |
 | 85 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.24% |
 | 85 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.24% |
-| 87 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.23% |
+| 87 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.21% |
 | 88 | [Monster Harvest](games/m/monster_harvest.md) | 3.15% |
 | 88 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.15% |
 | 90 | [Without Escape](games/w/without_escape.md) | 3.12% |
@@ -572,6 +572,7 @@
 | 316 | [Rift Rangers](games/2/24e2970ac5124a649554e210843f6774.md) | 0.00% |
 | 316 | [Riftbound](games/r/riftbound.md) | 0.00% |
 | 316 | [Rise of Industry](games/r/rise_of_industry.md) | 0.00% |
+| 316 | [Risen](games/r/risen.md) | 0.00% |
 | 316 | [Road 96](games/r/road_96.md) | 0.00% |
 | 316 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 0.00% |
 | 316 | [Roboplant](games/r/roboplant.md) | 0.00% |
