@@ -117,9 +117,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 76212,
+  "EOS_Progressed": 76214,
   "EOS_Completed": 799,
-  "EOS_NewPlayers": 573,
+  "EOS_NewPlayers": 571,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -20492,6 +20492,11 @@
       "Time": "2023-10-20T03:06:27.9013352+00:00",
       "NumProgressed": 76212,
       "NumCompleted": 799
+    },
+    {
+      "Time": "2023-10-20T04:06:25.3777384+00:00",
+      "NumProgressed": 76214,
+      "NumCompleted": 799
     }
   ],
   "TotalAchievements": 25,
@@ -20519,7 +20524,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 13718
+      "UsersEstimate": 13719
     },
     {
       "ID": "Audiophile",
@@ -20543,7 +20548,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 13718
+      "UsersEstimate": 13719
     },
     {
       "ID": "Butcher",
@@ -20551,7 +20556,7 @@
       "Name": "Butcher",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 3048
+      "UsersEstimate": 3049
     },
     {
       "ID": "Cut Call",
@@ -20575,7 +20580,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 15242
+      "UsersEstimate": 15243
     },
     {
       "ID": "Hearty",
@@ -20605,9 +20610,9 @@
       "ID": "Master, Commander",
       "SetID": "1e8d2nk",
       "Name": "Master, Commander",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 15242
+      "UsersEstimate": 16005
     },
     {
       "ID": "Meaty",
@@ -20623,7 +20628,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 14480
+      "UsersEstimate": 14481
     },
     {
       "ID": "Nice Try",
@@ -20671,7 +20676,7 @@
       "Name": "Spicy",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 3048
+      "UsersEstimate": 3049
     },
     {
       "ID": "Taco Toto",
@@ -20702,7 +20707,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 76212,
+      "Progressed": 76214,
       "Completed": 799
     }
   ],
@@ -20710,8 +20715,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-10-20T03:06:27.9013347+00:00",
+  "LastChanged_Achievements": "2023-10-20T04:06:25.3777357+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:21.8706974+00:00",
-  "LastUpdate_Ratings": "2023-10-20T02:57:26.028188+00:00",
-  "LastUpdate_Achievements": "2023-10-20T03:06:27.9014781+00:00"
+  "LastUpdate_Ratings": "2023-10-20T03:57:20.9955157+00:00",
+  "LastUpdate_Achievements": "2023-10-20T04:06:25.3779091+00:00"
 }

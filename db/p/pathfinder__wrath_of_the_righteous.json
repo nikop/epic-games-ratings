@@ -3959,7 +3959,7 @@
       "Count": 389
     }
   ],
-  "EOS_Progressed": 11612,
+  "EOS_Progressed": 11613,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
@@ -13819,6 +13819,11 @@
       "Time": "2023-10-20T01:51:41.8581248+00:00",
       "NumProgressed": 11612,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-20T04:09:18.1939907+00:00",
+      "NumProgressed": 11613,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -13870,7 +13875,7 @@
       "Name": "Heart of the Fallen Land",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "07_FinalThreshold",
@@ -14030,7 +14035,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1393
+      "UsersEstimate": 1394
     },
     {
       "ID": "28_GreatUpstart",
@@ -14062,7 +14067,7 @@
       "Name": "Divide and Rule",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "32_MythicReinforcements",
@@ -14070,7 +14075,7 @@
       "Name": "Mythic Reinforcements",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "33_DefendersHeart",
@@ -14206,7 +14211,7 @@
       "Name": "A Flame",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "50_HeyIKnowYou",
@@ -14262,7 +14267,7 @@
       "Name": "Get the Toad",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "57_PathOfDevil",
@@ -14757,21 +14762,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10394,
+      "Progressed": 10395,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11612,
+      "Progressed": 11613,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-10-19T21:58:16.2788454+00:00",
-  "LastChanged_Achievements": "2023-10-20T03:09:28.9850098+00:00",
+  "LastChanged_Achievements": "2023-10-20T04:09:18.1939901+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:48.4782392+00:00",
-  "LastUpdate_Ratings": "2023-10-20T02:58:40.3112868+00:00",
-  "LastUpdate_Achievements": "2023-10-20T03:09:28.9852159+00:00"
+  "LastUpdate_Ratings": "2023-10-20T03:58:35.5646975+00:00",
+  "LastUpdate_Achievements": "2023-10-20T04:09:18.1942304+00:00"
 }

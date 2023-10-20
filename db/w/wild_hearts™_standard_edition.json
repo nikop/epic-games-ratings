@@ -1029,9 +1029,9 @@
       "ID": "achievement_43",
       "SetID": "2cpn27e",
       "Name": "Team Hunter",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "achievement_44",
@@ -1123,8 +1123,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-10-20T03:04:11.1543183+00:00",
+  "LastChanged_Achievements": "2023-10-20T04:04:04.7387014+00:00",
   "LastUpdate_AppInfo": "2023-10-14T13:56:56.586235+00:00",
-  "LastUpdate_Ratings": "2023-10-20T02:58:01.364887+00:00",
-  "LastUpdate_Achievements": "2023-10-20T03:04:11.1543695+00:00"
+  "LastUpdate_Ratings": "2023-10-20T03:57:54.8901221+00:00",
+  "LastUpdate_Achievements": "2023-10-20T04:04:04.7387474+00:00"
 }

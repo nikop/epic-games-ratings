@@ -2535,9 +2535,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26692,
+  "EOS_Progressed": 26701,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 309,
+  "EOS_NewPlayers": 317,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -15515,6 +15515,11 @@
       "Time": "2023-10-20T03:04:38.7041365+00:00",
       "NumProgressed": 26692,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-10-20T04:04:32.8314937+00:00",
+      "NumProgressed": 26701,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 51,
@@ -15580,9 +15585,9 @@
       "ID": "Collector",
       "SetID": "819popo",
       "Name": "Collector",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 160
     },
     {
       "ID": "Cultured",
@@ -15646,7 +15651,7 @@
       "Name": "Escape Artist",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "Fragile_Panes",
@@ -15748,9 +15753,9 @@
       "ID": "Reckless",
       "SetID": "819popo",
       "Name": "Reckless",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 160
     },
     {
       "ID": "Rift_Destroyer",
@@ -15782,7 +15787,7 @@
       "Name": "Rivalry",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "Seasoned",
@@ -15933,7 +15938,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26692,
+      "Progressed": 26701,
       "Completed": 59
     }
   ],
@@ -15941,8 +15946,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-20T00:00:11.7622234+00:00",
-  "LastChanged_Achievements": "2023-10-20T03:04:38.704136+00:00",
+  "LastChanged_Achievements": "2023-10-20T04:04:32.8314931+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:17.9420656+00:00",
-  "LastUpdate_Ratings": "2023-10-20T03:00:57.8075799+00:00",
-  "LastUpdate_Achievements": "2023-10-20T03:04:38.7042636+00:00"
+  "LastUpdate_Ratings": "2023-10-20T04:01:00.414208+00:00",
+  "LastUpdate_Achievements": "2023-10-20T04:04:32.831665+00:00"
 }

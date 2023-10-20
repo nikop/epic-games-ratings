@@ -2,9 +2,9 @@
   "ID": "713cf66874564881adc4f5bb9ade5ceb",
   "Name": "Them and Us",
   "ProductSlug": "them-and-us-7c9c73",
-  "Ranking_EOS_Progress": 335,
-  "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_Progress": 334,
+  "Ranking_EOS_Completed": 188,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 235,
+  "EOS_Progressed": 236,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.43,
+  "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
     {
       "Time": "2023-04-30T13:59:34.488144+00:00",
@@ -1011,6 +1011,11 @@
       "Time": "2023-10-20T01:49:23.060001+00:00",
       "NumProgressed": 235,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-20T04:07:21.1819577+00:00",
+      "NumProgressed": 236,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1036,9 +1041,9 @@
       "ID": "ETUA_AlonewithThem",
       "SetID": "65jc0ap",
       "Name": "Alone with Them",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 170
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -1068,7 +1073,7 @@
       "ID": "ETUA_BoxOfPloutus",
       "SetID": "65jc0ap",
       "Name": "Box Of Ploutus",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -1118,7 +1123,7 @@
       "Name": "Forced to Kill",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -1244,7 +1249,7 @@
       "ID": "ETUA_SurvivalHero",
       "SetID": "65jc0ap",
       "Name": "Survival Hero",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -1326,7 +1331,7 @@
       "Name": "What A Mansion",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ETUA_WhatHaveIDone",
@@ -1341,7 +1346,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 235,
+      "Progressed": 236,
       "Completed": 1
     }
   ],
@@ -1349,8 +1354,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-10-20T03:07:23.2396338+00:00",
+  "LastChanged_Achievements": "2023-10-20T04:07:21.181957+00:00",
   "LastUpdate_AppInfo": "2023-10-14T13:56:58.0301725+00:00",
-  "LastUpdate_Ratings": "2023-10-20T02:58:15.1619354+00:00",
-  "LastUpdate_Achievements": "2023-10-20T03:07:23.2396723+00:00"
+  "LastUpdate_Ratings": "2023-10-20T03:58:08.6031508+00:00",
+  "LastUpdate_Achievements": "2023-10-20T04:07:21.1819993+00:00"
 }

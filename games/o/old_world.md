@@ -76,6 +76,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mausoleum | 0.80% | ~118 |
 | Hanging Gardens in Babylon | 0.70% | ~104 |
 | Intercessor | 0.70% | ~104 |
+| Invincible | 0.70% | ~104 |
 | Lion | 0.70% | ~104 |
 | Victorious | 0.70% | ~104 |
 | Good Difficulty | 0.70% | ~104 |
@@ -85,7 +86,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Power to the People | 0.70% | ~104 |
 | Building Wonders | 0.70% | ~104 |
 | Points Victory | 0.70% | ~104 |
-| Invincible | 0.60% | ~89 |
 | Subjugator | 0.60% | ~89 |
 | Landowners | 0.60% | ~89 |
 | Riders | 0.60% | ~89 |
@@ -140,6 +140,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Bad Heir Day | 0.30% | ~44 |
 | Ishtar Gate in Babylon | 0.30% | ~44 |
 | Carthage - Ox Hide | 0.30% | ~44 |
+| Old | 0.30% | ~44 |
 | Peacemaker | 0.30% | ~44 |
 | Cao'an | 0.30% | ~44 |
 | Adur Burzen-Mihr | 0.30% | ~44 |
@@ -154,7 +155,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Bronze Victory (Carthage 1) | 0.20% | ~30 |
 | Silver Victory (Carthage 1) | 0.20% | ~30 |
 | Ancient | 0.20% | ~30 |
-| Old | 0.20% | ~30 |
 | Glorious Difficulty | 0.20% | ~30 |
 | Magnificent Difficulty | 0.20% | ~30 |
 | The Eternal Treaty | 0.20% | ~30 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,809 (Ranked 137)  
+Progressed: 14,810 (Ranked 137)  
 Completed: 5 (0.03%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -532,7 +532,7 @@ Completed: 5 (0.03%) (Ranked 285)
 | 2023-10-17 | 14,775 | 5 |
 | 2023-10-18 | 14,791 | 5 |
 | 2023-10-19 | 14,805 | 5 |
-| 2023-10-20 | 14,809 | 5 |
+| 2023-10-20 | 14,810 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,848 (Ranked 211)  

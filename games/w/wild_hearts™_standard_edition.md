@@ -29,7 +29,7 @@
 | Mighty Marmelizer | 40.00% | ~62 |
 | Karakuri Trail | 37.00% | ~57 |
 | Kemono at Heart | 36.00% | ~56 |
-| Team Hunter | 34.00% | ~53 |
+| Team Hunter | 35.00% | ~54 |
 | Reincarnation Cycle Stopper | 34.00% | ~53 |
 | Artful Assister | 32.00% | ~50 |
 | Karakuri Isle | 30.00% | ~46 |

@@ -1908,9 +1908,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14809,
+  "EOS_Progressed": 14810,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 182,
+  "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14263,6 +14263,11 @@
       "Time": "2023-10-20T03:09:19.9638554+00:00",
       "NumProgressed": 14809,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-20T04:09:09.4089537+00:00",
+      "NumProgressed": 14810,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -14768,9 +14773,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_INVINCIBLE",
       "SetID": "9201eeb",
       "Name": "Invincible",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 104
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_JUST",
@@ -14848,9 +14853,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_OLD",
       "SetID": "9201eeb",
       "Name": "Old",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_PEACEMAKER",
@@ -17009,21 +17014,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14809,
+      "Progressed": 14810,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14809,
+      "Progressed": 14810,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-19T15:58:51.8836736+00:00",
-  "LastChanged_Achievements": "2023-10-20T03:09:19.9638549+00:00",
+  "LastChanged_Achievements": "2023-10-20T04:09:09.408953+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:21.7880328+00:00",
-  "LastUpdate_Ratings": "2023-10-20T02:59:18.8501333+00:00",
-  "LastUpdate_Achievements": "2023-10-20T03:09:19.9652175+00:00"
+  "LastUpdate_Ratings": "2023-10-20T03:59:15.23433+00:00",
+  "LastUpdate_Achievements": "2023-10-20T04:09:09.410181+00:00"
 }

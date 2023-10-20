@@ -532,9 +532,9 @@
       "ID": "DenyingDestiny",
       "SetID": "1jeo1g7",
       "Name": "Denying Destiny",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "DiceSpecialist",
@@ -1115,8 +1115,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-10-20T03:07:19.7016836+00:00",
+  "LastChanged_Achievements": "2023-10-20T04:07:17.4183452+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:31.1237479+00:00",
-  "LastUpdate_Ratings": "2023-10-20T02:57:51.5129039+00:00",
-  "LastUpdate_Achievements": "2023-10-20T03:07:19.7017998+00:00"
+  "LastUpdate_Ratings": "2023-10-20T03:57:44.9920147+00:00",
+  "LastUpdate_Achievements": "2023-10-20T04:07:17.4184603+00:00"
 }

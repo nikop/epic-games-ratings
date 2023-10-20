@@ -5,25 +5,25 @@ Rating: 4.76 (Ranked 119)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~17,815 |
-| The Killing Jar | 8.00% | ~15,835 |
-| Expanding Horizons | 7.00% | ~13,856 |
-| Quest for Survival | 7.00% | ~13,856 |
-| Not Your Average Trait | 7.00% | ~13,856 |
-| Gleaming the Cube | 6.00% | ~11,876 |
-| Familiar Face | 6.00% | ~11,876 |
-| Duality | 6.00% | ~11,876 |
-| Boss'n Up | 6.00% | ~11,876 |
-| Trait Chaser | 6.00% | ~11,876 |
-| Not So Special Now | 5.00% | ~9,897 |
-| Not a Janitor | 5.00% | ~9,897 |
-| Equal Measures | 5.00% | ~9,897 |
-| Blue Goddess | 5.00% | ~9,897 |
-| Top Performer | 5.00% | ~9,897 |
-| Shhh...It's a Secret | 5.00% | ~9,897 |
-| Almost There | 5.00% | ~9,897 |
-| Make Some Room | 5.00% | ~9,897 |
-| Good, But Could Be Better! | 5.00% | ~9,897 |
+| First of Many | 9.00% | ~17,816 |
+| The Killing Jar | 8.00% | ~15,836 |
+| Expanding Horizons | 7.00% | ~13,857 |
+| Quest for Survival | 7.00% | ~13,857 |
+| Not Your Average Trait | 7.00% | ~13,857 |
+| Gleaming the Cube | 6.00% | ~11,877 |
+| Familiar Face | 6.00% | ~11,877 |
+| Duality | 6.00% | ~11,877 |
+| Boss'n Up | 6.00% | ~11,877 |
+| Trait Chaser | 6.00% | ~11,877 |
+| Not So Special Now | 5.00% | ~9,898 |
+| Not a Janitor | 5.00% | ~9,898 |
+| Equal Measures | 5.00% | ~9,898 |
+| Blue Goddess | 5.00% | ~9,898 |
+| Top Performer | 5.00% | ~9,898 |
+| Shhh...It's a Secret | 5.00% | ~9,898 |
+| Almost There | 5.00% | ~9,898 |
+| Make Some Room | 5.00% | ~9,898 |
+| Good, But Could Be Better! | 5.00% | ~9,898 |
 | Chaos | 4.00% | ~7,918 |
 | Traitor | 4.00% | ~7,918 |
 | Power Surge | 4.00% | ~7,918 |
@@ -34,15 +34,15 @@ Rating: 4.76 (Ranked 119)
 | The Web | 4.00% | ~7,918 |
 | Scrap Collector | 4.00% | ~7,918 |
 | All These Traits� | 4.00% | ~7,918 |
-| Am I Seeing This? | 3.00% | ~5,938 |
-| Forever is a Long Time Coming | 3.00% | ~5,938 |
-| The Agenda | 3.00% | ~5,938 |
-| Tall Tales | 3.00% | ~5,938 |
-| Bad Moon Rising | 3.00% | ~5,938 |
-| Strapped | 3.00% | ~5,938 |
-| Edgelord | 3.00% | ~5,938 |
-| The Ultimate Weapon | 3.00% | ~5,938 |
-| No One Should Have All That Power | 3.00% | ~5,938 |
+| Am I Seeing This? | 3.00% | ~5,939 |
+| Forever is a Long Time Coming | 3.00% | ~5,939 |
+| The Agenda | 3.00% | ~5,939 |
+| Tall Tales | 3.00% | ~5,939 |
+| Bad Moon Rising | 3.00% | ~5,939 |
+| Strapped | 3.00% | ~5,939 |
+| Edgelord | 3.00% | ~5,939 |
+| The Ultimate Weapon | 3.00% | ~5,939 |
+| No One Should Have All That Power | 3.00% | ~5,939 |
 | Crafty | 2.00% | ~3,959 |
 | Only Human | 2.00% | ~3,959 |
 | Red Room | 2.00% | ~3,959 |
@@ -51,13 +51,13 @@ Rating: 4.76 (Ranked 119)
 | Carnage in C-Minor | 2.00% | ~3,959 |
 | Maxed Out! | 2.00% | ~3,959 |
 | Transmutate | 2.00% | ~3,959 |
-| Ghost in the Machine | 1.00% | ~1,979 |
-| The Trigger | 1.00% | ~1,979 |
-| Cutting Edge | 1.00% | ~1,979 |
-| Proving Grounds | 1.00% | ~1,979 |
+| Ghost in the Machine | 1.00% | ~1,980 |
+| The Trigger | 1.00% | ~1,980 |
+| Cutting Edge | 1.00% | ~1,980 |
+| Proving Grounds | 1.00% | ~1,980 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 197,939 (Ranked 68)  
-Completed: 397 (0.20%) (Ranked 225)  
+Progressed: 197,954 (Ranked 68)  
+Completed: 398 (0.20%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -152,18 +152,18 @@ Completed: 397 (0.20%) (Ranked 225)
 | 2023-10-17 | 196,940 | 394 |
 | 2023-10-18 | 197,355 | 396 |
 | 2023-10-19 | 197,874 | 397 |
-| 2023-10-20 | 197,939 | 397 |
+| 2023-10-20 | 197,954 | 398 |
 ## Awards
 Max (Great Boss Battles): 1,855  (Ranked 114)  
-Sum: 4,046 (Ranked 147)  
+Sum: 4,048 (Ranked 147)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 1,855 |
 | This game has Challenging Combat | 246 |
 | This game has Diverse Characters | 242 |
+| This game is Relaxing | 240 |
 | This game is Extremely Fun | 238 |
-| This game is Relaxing | 238 |
 | This game is Highly Recommended | 228 |
 | This game has Amazing Storytelling | 220 |
 | This game has Quickly Understood Controls | 217 |
@@ -259,3 +259,4 @@ Diff (max vs sum): -33
 | 2023-10-17 | 4.76 | 1,843 | 4,024 |
 | 2023-10-18 | 4.76 | 1,848 | 4,034 |
 | 2023-10-19 | 4.76 | 1,855 | 4,046 |
+| 2023-10-20 | 4.76 | 1,855 | 4,048 |

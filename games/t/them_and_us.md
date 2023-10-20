@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alone with Them | 73.00% | ~172 |
-| Forced to Kill | 69.00% | ~162 |
+| Alone with Them | 72.00% | ~170 |
+| Forced to Kill | 69.00% | ~163 |
 | A Night To Remember | 39.00% | ~92 |
 | Safe...For now? | 34.00% | ~80 |
 | Open Sesame | 28.00% | ~66 |
@@ -22,7 +22,7 @@
 | Modern Player | 9.00% | ~21 |
 | Rest In Peace | 9.00% | ~21 |
 | The Curse Is Real | 9.00% | ~21 |
-| What A Mansion | 7.00% | ~16 |
+| What A Mansion | 7.00% | ~17 |
 | Researcher | 6.00% | ~14 |
 | I Am The Gate Keeper! | 6.00% | ~14 |
 | This Mansion Is Clean | 4.00% | ~9 |
@@ -34,8 +34,8 @@
 | Pet The Dog | 2.00% | ~5 |
 | The 5th Element | 2.00% | ~5 |
 | Retro Player | 1.00% | ~2 |
-| Box Of Ploutus | 0.90% | ~2 |
-| Survival Hero | 0.90% | ~2 |
+| Box Of Ploutus | 0.80% | ~2 |
+| Survival Hero | 0.80% | ~2 |
 | Before The Eclipse | 0.40% | ~1 |
 | Chosen One | 0.40% | ~1 |
 | Die Another Day | 0.40% | ~1 |
@@ -45,8 +45,8 @@
 | No Time To Relax | 0.40% | ~1 |
 | Survival Horror | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235 (Ranked 335)  
-Completed: 1 (0.43%) (Ranked 187)  
+Progressed: 236 (Ranked 334)  
+Completed: 1 (0.42%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -116,7 +116,7 @@ Completed: 1 (0.43%) (Ranked 187)
 | 2023-10-16 | 219 | 1 |
 | 2023-10-18 | 221 | 1 |
 | 2023-10-19 | 234 | 1 |
-| 2023-10-20 | 235 | 1 |
+| 2023-10-20 | 236 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
