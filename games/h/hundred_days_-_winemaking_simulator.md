@@ -1,20 +1,20 @@
 # Hundred Days - Winemaking Simulator
 [Store](https://store.epicgames.com/en-US/p/hundred-days-winemaking-simulator)  
 [View Rawdata](../../db/h/hundred_days_-_winemaking_simulator.json)  
-Rating: 4.35 (Ranked 777)  
+Rating: 4.35 (Ranked 776)  
 Number of Ratings: 7,669  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 39.00% | ~3,415 |
-| It's a good start | 10.00% | ~876 |
-| Bonjour! | 7.00% | ~613 |
-| Quack | 7.00% | ~613 |
-| The Assistant | 6.00% | ~525 |
-| The Blue Marl | 6.00% | ~525 |
+| Bye Bye | 39.00% | ~3,420 |
+| It's a good start | 9.00% | ~789 |
+| Bonjour! | 7.00% | ~614 |
+| Quack | 7.00% | ~614 |
+| The Assistant | 6.00% | ~526 |
+| The Blue Marl | 6.00% | ~526 |
 | Ostinata | 5.00% | ~438 |
 | Better than nothing? | 5.00% | ~438 |
-| A long journey | 4.00% | ~350 |
+| A long journey | 4.00% | ~351 |
 | Big Money | 3.00% | ~263 |
 | Keep the doctor away | 3.00% | ~263 |
 | Surprise of Langhe | 3.00% | ~263 |
@@ -38,7 +38,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Unsuitable Terroir | 0.20% | ~18 |
 | Master Winemaker | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,757 (Ranked 153)  
+Progressed: 8,768 (Ranked 153)  
 Completed: 8 (0.09%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,10 +94,10 @@ Completed: 8 (0.09%) (Ranked 256)
 | 2023-10-17 | 8,453 | 8 |
 | 2023-10-18 | 8,579 | 8 |
 | 2023-10-19 | 8,694 | 8 |
-| 2023-10-20 | 8,757 | 8 |
+| 2023-10-20 | 8,768 | 8 |
 ## Awards
 Max (Relaxing): 205  (Ranked 277)  
-Sum: 1,591 (Ranked 221)  
+Sum: 1,592 (Ranked 221)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
@@ -105,7 +105,7 @@ Diff (max vs sum): 56
 | This game is Extremely Fun | 204 |
 | This game has Quickly Understood Controls | 201 |
 | This game is Great for Beginners | 200 |
-| This game is Highly Recommended | 193 |
+| This game is Highly Recommended | 194 |
 | This game is Educational | 178 |
 | This game has Amazing Storytelling | 175 |
 | This game has Easy Combat | 127 |
@@ -173,3 +173,4 @@ Diff (max vs sum): 56
 | 2023-09-27 | 4.34 | - | 205 | 1,590 |
 | 2023-09-29 | 4.35 | - | 205 | 1,590 |
 | 2023-10-10 | 4.35 | - | 205 | 1,591 |
+| 2023-10-20 | 4.35 | - | 205 | 1,592 |

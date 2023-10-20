@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -265,7 +265,7 @@
   "Tags": [],
   "EOS_Progressed": 2046,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5687,9 +5687,9 @@
       "ID": "A40",
       "SetID": "9b7p7eo",
       "Name": "Mind the Gap",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1309
+      "UsersEstimate": 1330
     },
     {
       "ID": "A41",
@@ -5816,8 +5816,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-10-20T16:00:20.5501075+00:00",
-  "LastChanged_Achievements": "2023-10-20T16:05:18.0024879+00:00",
+  "LastChanged_Achievements": "2023-10-20T17:05:55.2468941+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:04.7958216+00:00",
-  "LastUpdate_Ratings": "2023-10-20T16:00:20.5501083+00:00",
-  "LastUpdate_Achievements": "2023-10-20T16:05:18.0025767+00:00"
+  "LastUpdate_Ratings": "2023-10-20T17:00:49.9111298+00:00",
+  "LastUpdate_Achievements": "2023-10-20T17:05:55.2470501+00:00"
 }

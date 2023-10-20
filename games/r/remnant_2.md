@@ -5,35 +5,35 @@ Rating: 4.76 (Ranked 119)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~17,837 |
-| The Killing Jar | 8.00% | ~15,855 |
-| Expanding Horizons | 7.00% | ~13,873 |
-| Quest for Survival | 7.00% | ~13,873 |
-| Not Your Average Trait | 7.00% | ~13,873 |
-| Gleaming the Cube | 6.00% | ~11,891 |
-| Familiar Face | 6.00% | ~11,891 |
-| Duality | 6.00% | ~11,891 |
-| Boss'n Up | 6.00% | ~11,891 |
-| Trait Chaser | 6.00% | ~11,891 |
-| Not So Special Now | 5.00% | ~9,910 |
-| Not a Janitor | 5.00% | ~9,910 |
-| Equal Measures | 5.00% | ~9,910 |
-| Blue Goddess | 5.00% | ~9,910 |
-| Top Performer | 5.00% | ~9,910 |
-| Shhh...It's a Secret | 5.00% | ~9,910 |
-| Almost There | 5.00% | ~9,910 |
-| Make Some Room | 5.00% | ~9,910 |
-| Good, But Could Be Better! | 5.00% | ~9,910 |
-| Chaos | 4.00% | ~7,928 |
-| Traitor | 4.00% | ~7,928 |
-| Power Surge | 4.00% | ~7,928 |
-| The God Gambit | 4.00% | ~7,928 |
-| Dark Designs | 4.00% | ~7,928 |
-| Madman's Paradise | 4.00% | ~7,928 |
-| Was This Supposed To Happen? | 4.00% | ~7,928 |
-| The Web | 4.00% | ~7,928 |
-| Scrap Collector | 4.00% | ~7,928 |
-| All These Traits� | 4.00% | ~7,928 |
+| First of Many | 9.00% | ~17,839 |
+| The Killing Jar | 8.00% | ~15,857 |
+| Expanding Horizons | 7.00% | ~13,875 |
+| Quest for Survival | 7.00% | ~13,875 |
+| Not Your Average Trait | 7.00% | ~13,875 |
+| Gleaming the Cube | 6.00% | ~11,893 |
+| Familiar Face | 6.00% | ~11,893 |
+| Duality | 6.00% | ~11,893 |
+| Boss'n Up | 6.00% | ~11,893 |
+| Trait Chaser | 6.00% | ~11,893 |
+| Not So Special Now | 5.00% | ~9,911 |
+| Not a Janitor | 5.00% | ~9,911 |
+| Equal Measures | 5.00% | ~9,911 |
+| Blue Goddess | 5.00% | ~9,911 |
+| Top Performer | 5.00% | ~9,911 |
+| Shhh...It's a Secret | 5.00% | ~9,911 |
+| Almost There | 5.00% | ~9,911 |
+| Make Some Room | 5.00% | ~9,911 |
+| Good, But Could Be Better! | 5.00% | ~9,911 |
+| Chaos | 4.00% | ~7,929 |
+| Traitor | 4.00% | ~7,929 |
+| Power Surge | 4.00% | ~7,929 |
+| The God Gambit | 4.00% | ~7,929 |
+| Dark Designs | 4.00% | ~7,929 |
+| Madman's Paradise | 4.00% | ~7,929 |
+| Was This Supposed To Happen? | 4.00% | ~7,929 |
+| The Web | 4.00% | ~7,929 |
+| Scrap Collector | 4.00% | ~7,929 |
+| All These Traits� | 4.00% | ~7,929 |
 | Am I Seeing This? | 3.00% | ~5,946 |
 | Forever is a Long Time Coming | 3.00% | ~5,946 |
 | The Agenda | 3.00% | ~5,946 |
@@ -56,7 +56,7 @@ Rating: 4.76 (Ranked 119)
 | Cutting Edge | 1.00% | ~1,982 |
 | Proving Grounds | 1.00% | ~1,982 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 198,190 (Ranked 68)  
+Progressed: 198,214 (Ranked 68)  
 Completed: 400 (0.20%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,10 +152,10 @@ Completed: 400 (0.20%) (Ranked 225)
 | 2023-10-17 | 196,940 | 394 |
 | 2023-10-18 | 197,355 | 396 |
 | 2023-10-19 | 197,874 | 397 |
-| 2023-10-20 | 198,190 | 400 |
+| 2023-10-20 | 198,214 | 400 |
 ## Awards
 Max (Great Boss Battles): 1,862  (Ranked 114)  
-Sum: 3,874 (Ranked 150)  
+Sum: 3,875 (Ranked 150)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
@@ -166,7 +166,7 @@ Diff (max vs sum): -36
 | This game is Extremely Fun | 238 |
 | This game is Highly Recommended | 228 |
 | This game has Amazing Storytelling | 221 |
-| This game has Quickly Understood Controls | 217 |
+| This game has Quickly Understood Controls | 218 |
 | This game has Amazing Characters | 214 |
 | This game has Unique Visuals | 183 |
 | This game has a Creative Community | 166 |

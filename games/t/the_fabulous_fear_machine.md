@@ -32,11 +32,11 @@
 | The beast in the Oval Office | 20.00% | ~6 |
 | Blood Red Island | 20.00% | ~6 |
 | Bread and bocaua | 20.00% | ~6 |
+| Fanatacism is... poisonous | 20.00% | ~6 |
 | The adventurer | 20.00% | ~6 |
 | Pulp! The Beyond | 20.00% | ~6 |
 | The barbarian invasions | 20.00% | ~6 |
 | America had no Faith | 20.00% | ~6 |
-| Fanatacism is... poisonous | 17.00% | ~5 |
 | The scholar | 17.00% | ~5 |
 | Pulp! True Adventures | 17.00% | ~5 |
 | Pulp! Tales from the Crypt | 13.00% | ~4 |

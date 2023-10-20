@@ -2,7 +2,7 @@
   "ID": "f76d927e6a344026a1cdd6b44b52c055",
   "Name": "The Riflemen",
   "ProductSlug": "the-riflemen-8be608",
-  "Ranking_Rating": 777,
+  "Ranking_Rating": 776,
   "Ranking_Popularity": 538,
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 121,
@@ -47,11 +47,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25291,
+  "EOS_Progressed": 25311,
   "EOS_Completed": 11759,
   "EOS_NewPlayers": 2369,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 46.49,
+  "EOS_Completed_Percentage": 46.46,
   "EosHistory": [
     {
       "Time": "2023-08-15T10:06:43.8267441+00:00",
@@ -6192,6 +6192,11 @@
       "Time": "2023-10-20T16:06:17.1254576+00:00",
       "NumProgressed": 25291,
       "NumCompleted": 11759
+    },
+    {
+      "Time": "2023-10-20T17:07:02.9690014+00:00",
+      "NumProgressed": 25311,
+      "NumCompleted": 11759
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -6212,7 +6217,7 @@
       "Name": "First blood",
       "Percentage": 63,
       "XP": 25,
-      "UsersEstimate": 15933
+      "UsersEstimate": 15946
     },
     {
       "ID": "grenadeKills",
@@ -6260,7 +6265,7 @@
       "Name": "Hang in there",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "matchesWon",
@@ -6284,7 +6289,7 @@
       "Name": "Rifle Master",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "shotgunKills",
@@ -6315,7 +6320,7 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 25291,
+      "Progressed": 25311,
       "Completed": 11759
     }
   ],
@@ -6323,8 +6328,8 @@
   "FirstSeenRating": "2023-10-20T10:59:47.6628885+00:00",
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
   "LastChanged": "2023-10-20T14:01:15.4336485+00:00",
-  "LastChanged_Achievements": "2023-10-20T16:06:17.1254572+00:00",
+  "LastChanged_Achievements": "2023-10-20T17:07:02.9690007+00:00",
   "LastUpdate_AppInfo": "2023-10-14T10:57:22.1358598+00:00",
-  "LastUpdate_Ratings": "2023-10-20T16:00:50.2119406+00:00",
-  "LastUpdate_Achievements": "2023-10-20T16:06:17.1255149+00:00"
+  "LastUpdate_Ratings": "2023-10-20T17:01:26.5540838+00:00",
+  "LastUpdate_Achievements": "2023-10-20T17:07:02.9690641+00:00"
 }

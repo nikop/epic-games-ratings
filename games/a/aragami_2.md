@@ -6,22 +6,22 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~40,532 |
-| First Steps | 80.00% | ~34,866 |
+| Awakening | 93.00% | ~40,533 |
+| First Steps | 80.00% | ~34,867 |
 | Control the Shadows | 67.00% | ~29,201 |
-| Tools of the Trade | 63.00% | ~27,457 |
+| Tools of the Trade | 63.00% | ~27,458 |
 | Apprentice | 60.00% | ~26,150 |
-| Secret Seeker | 57.00% | ~24,842 |
+| Secret Seeker | 57.00% | ~24,843 |
 | Forge of Assassins | 55.00% | ~23,971 |
-| Revenant | 52.00% | ~22,663 |
-| I don’t Care! | 45.00% | ~19,612 |
+| Revenant | 52.00% | ~22,664 |
+| I don’t Care! | 45.00% | ~19,613 |
 | Bird of Prey | 37.00% | ~16,126 |
 | Engraved with Power | 32.00% | ~13,947 |
 | Lady | 31.00% | ~13,511 |
-| Fashionable Assassin | 27.00% | ~11,767 |
+| Fashionable Assassin | 27.00% | ~11,768 |
 | Apex Predator | 24.00% | ~10,460 |
 | Soul Reaver | 22.00% | ~9,588 |
-| Embers | 21.00% | ~9,152 |
+| Embers | 21.00% | ~9,153 |
 | Wall Lizard | 20.00% | ~8,717 |
 | Clinging to Life | 18.00% | ~7,845 |
 | Burning | 17.00% | ~7,409 |
@@ -33,9 +33,9 @@ Number of Ratings: 88  (23.09.2022)
 | Ruse | 11.00% | ~4,794 |
 | Master Ninja | 11.00% | ~4,794 |
 | Hatching | 10.00% | ~4,358 |
-| Bonds | 9.00% | ~3,922 |
-| Get Over Here | 9.00% | ~3,922 |
-| The Hidden Village | 9.00% | ~3,922 |
+| Bonds | 9.00% | ~3,923 |
+| Get Over Here | 9.00% | ~3,923 |
+| The Hidden Village | 9.00% | ~3,923 |
 | Denouement | 8.00% | ~3,487 |
 | A Pleasant Stay | 8.00% | ~3,487 |
 | Pilgrimage | 7.00% | ~3,051 |
@@ -45,13 +45,13 @@ Number of Ratings: 88  (23.09.2022)
 | Left Behind | 4.00% | ~1,743 |
 | Secrets of the Earth | 4.00% | ~1,743 |
 | Heart of Fire | 4.00% | ~1,743 |
-| The Lion’s Den | 3.00% | ~1,307 |
-| Forest Spirits | 3.00% | ~1,307 |
+| The Lion’s Den | 3.00% | ~1,308 |
+| Forest Spirits | 3.00% | ~1,308 |
 | Hot Potato | 2.00% | ~872 |
 | Legacy | 2.00% | ~872 |
 | Anger Management | 1.00% | ~436 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,583 (Ranked 108)  
+Progressed: 43,584 (Ranked 108)  
 Completed: 238 (0.55%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,7 +234,7 @@ Completed: 238 (0.55%) (Ranked 174)
 | 2023-10-17 | 43,534 | 238 |
 | 2023-10-18 | 43,558 | 238 |
 | 2023-10-19 | 43,574 | 238 |
-| 2023-10-20 | 43,583 | 238 |
+| 2023-10-20 | 43,584 | 238 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

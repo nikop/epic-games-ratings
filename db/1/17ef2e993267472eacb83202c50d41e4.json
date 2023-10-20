@@ -47,7 +47,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7304,
+  "EOS_Progressed": 7305,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 0,
@@ -4567,6 +4567,11 @@
       "Time": "2023-10-20T16:10:06.899434+00:00",
       "NumProgressed": 7304,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-20T17:10:38.9323963+00:00",
+      "NumProgressed": 7305,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -4691,7 +4696,7 @@
       "Name": "Purchased Grenade",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 803
+      "UsersEstimate": 804
     },
     {
       "ID": "GamesPlayed1",
@@ -4699,7 +4704,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2264
+      "UsersEstimate": 2265
     },
     {
       "ID": "GamesPlayed10",
@@ -4771,7 +4776,7 @@
       "Name": "Purchased Heal and Shield",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 803
+      "UsersEstimate": 804
     },
     {
       "ID": "HAUpgraded1",
@@ -5163,14 +5168,14 @@
       "Name": "Upgraded Weaponized Capacitor to Level 3",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     }
   ],
   "AchievementSets": [
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 7304,
+      "Progressed": 7305,
       "Completed": 1
     }
   ],
@@ -5178,8 +5183,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-10-19T01:40:11.4529879+00:00",
-  "LastChanged_Achievements": "2023-10-20T16:10:06.8994335+00:00",
+  "LastChanged_Achievements": "2023-10-20T17:10:38.9323957+00:00",
   "LastUpdate_AppInfo": "2023-10-17T11:57:13.9193686+00:00",
-  "LastUpdate_Ratings": "2023-10-20T15:58:26.9420476+00:00",
-  "LastUpdate_Achievements": "2023-10-20T16:10:06.8995888+00:00"
+  "LastUpdate_Ratings": "2023-10-20T16:58:40.742583+00:00",
+  "LastUpdate_Achievements": "2023-10-20T17:10:38.9325271+00:00"
 }

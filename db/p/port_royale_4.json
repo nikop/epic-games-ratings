@@ -2,12 +2,12 @@
   "ID": "e89efaeec0cd408abee8bd4dd02c8d32",
   "Name": "Port Royale 4",
   "ProductSlug": "port-royale-4",
-  "Ranking_Rating": 967,
+  "Ranking_Rating": 966,
   "Ranking_Popularity": 538,
   "Ranking_PopularitySum": 538,
-  "Ranking_EOS_Progress": 238,
+  "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.03,
+  "Rating": 4.04,
   "NumberOfRatings": 53,
   "RatingHistory": [
     {
@@ -235,6 +235,12 @@
     {
       "Time": "2023-07-02T02:29:11.8786644+00:00",
       "Rating": 4.03,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-10-20T17:00:06.4752573+00:00",
+      "Rating": 4.04,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -2834,9 +2840,9 @@
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
-  "LastChanged": "2023-07-02T02:29:11.8786643+00:00",
-  "LastChanged_Achievements": "2023-10-20T16:04:28.3825308+00:00",
+  "LastChanged": "2023-10-20T17:00:06.4752571+00:00",
+  "LastChanged_Achievements": "2023-10-20T17:04:58.8591019+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:54.3716671+00:00",
-  "LastUpdate_Ratings": "2023-10-20T15:59:39.2039648+00:00",
-  "LastUpdate_Achievements": "2023-10-20T16:04:28.3825886+00:00"
+  "LastUpdate_Ratings": "2023-10-20T17:00:06.475258+00:00",
+  "LastUpdate_Achievements": "2023-10-20T17:04:58.8591597+00:00"
 }

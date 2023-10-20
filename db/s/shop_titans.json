@@ -3,12 +3,12 @@
   "Name": "Shop Titans",
   "ProductSlug": "shop-titans-d95c1c",
   "Ranking_Rating": 974,
-  "Ranking_Popularity": 72,
+  "Ranking_Popularity": 73,
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6551,10 +6551,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27413,
       "NumberOfAwardsMax": 4797
+    },
+    {
+      "Time": "2023-10-20T17:01:03.0306332+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27415,
+      "NumberOfAwardsMax": 4797
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27413,
+  "NumberOfAwards": 27415,
   "NumberOfAwardsMax": 4797,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6604,12 +6610,12 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3762
+      "Count": 3764
     }
   ],
-  "EOS_Progressed": 137872,
+  "EOS_Progressed": 137873,
   "EOS_Completed": 171,
-  "EOS_NewPlayers": 339,
+  "EOS_NewPlayers": 338,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -25347,6 +25353,11 @@
       "Time": "2023-10-20T16:06:22.8512512+00:00",
       "NumProgressed": 137872,
       "NumCompleted": 171
+    },
+    {
+      "Time": "2023-10-20T17:07:09.6358575+00:00",
+      "NumProgressed": 137873,
+      "NumCompleted": 171
     }
   ],
   "TotalAchievements": 112,
@@ -25772,9 +25783,9 @@
       "ID": "furniture02",
       "SetID": "anfd17p",
       "Name": "Cranked up to 11",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 827
+      "UsersEstimate": 965
     },
     {
       "ID": "furniture03",
@@ -26253,15 +26264,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 137872,
+      "Progressed": 137873,
       "Completed": 171
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-10-20T16:00:34.2248966+00:00",
-  "LastChanged_Achievements": "2023-10-20T16:06:22.8512507+00:00",
+  "LastChanged": "2023-10-20T17:01:03.030633+00:00",
+  "LastChanged_Achievements": "2023-10-20T17:07:09.635857+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:10.2617104+00:00",
-  "LastUpdate_Ratings": "2023-10-20T16:00:34.2248972+00:00",
-  "LastUpdate_Achievements": "2023-10-20T16:06:22.8518686+00:00"
+  "LastUpdate_Ratings": "2023-10-20T17:01:03.0306337+00:00",
+  "LastUpdate_Achievements": "2023-10-20T17:07:09.636184+00:00"
 }

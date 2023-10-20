@@ -2,7 +2,7 @@
   "ID": "ce8393adfbf342ceab0a36479ffbc627",
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
-  "Ranking_Rating": 553,
+  "Ranking_Rating": 552,
   "Ranking_Popularity": 307,
   "Ranking_PopularitySum": 389,
   "Ranking_EOS_Progress": 135,
@@ -534,9 +534,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 15854,
+  "EOS_Progressed": 15856,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
@@ -12374,6 +12374,11 @@
       "Time": "2023-10-20T16:06:41.0877894+00:00",
       "NumProgressed": 15854,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-10-20T17:07:30.2196154+00:00",
+      "NumProgressed": 15856,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 41,
@@ -12401,7 +12406,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3646
+      "UsersEstimate": 3647
     },
     {
       "ID": "tpote_achievement_12",
@@ -12449,7 +12454,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2695
+      "UsersEstimate": 2696
     },
     {
       "ID": "tpote_achievement_18",
@@ -12457,7 +12462,7 @@
       "Name": "Friar Tuck",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 1585
+      "UsersEstimate": 1586
     },
     {
       "ID": "tpote_achievement_19",
@@ -12489,7 +12494,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4756
+      "UsersEstimate": 4757
     },
     {
       "ID": "tpote_achievement_22",
@@ -12545,7 +12550,7 @@
       "Name": "Whodunnit",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1902
+      "UsersEstimate": 1903
     },
     {
       "ID": "tpote_achievement_29",
@@ -12561,7 +12566,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5073
+      "UsersEstimate": 5074
     },
     {
       "ID": "tpote_achievement_30",
@@ -12569,7 +12574,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1585
+      "UsersEstimate": 1586
     },
     {
       "ID": "tpote_achievement_31",
@@ -12705,22 +12710,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 5549
+      "UsersEstimate": 5550
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15854,
+      "Progressed": 15856,
       "Completed": 113
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-10-14T16:59:08.0001807+00:00",
-  "LastChanged_Achievements": "2023-10-20T16:06:41.0877889+00:00",
+  "LastChanged_Achievements": "2023-10-20T17:07:30.2196149+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:18.9172053+00:00",
-  "LastUpdate_Ratings": "2023-10-20T15:57:27.5678351+00:00",
-  "LastUpdate_Achievements": "2023-10-20T16:06:41.0879055+00:00"
+  "LastUpdate_Ratings": "2023-10-20T16:57:28.8435577+00:00",
+  "LastUpdate_Achievements": "2023-10-20T17:07:30.2197418+00:00"
 }

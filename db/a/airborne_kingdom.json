@@ -2,13 +2,13 @@
   "ID": "e1809e1742cb498080d8849b11a99c5a",
   "Name": "Airborne Kingdom",
   "ProductSlug": "airborne-kingdom",
-  "Ranking_Rating": 325,
+  "Ranking_Rating": 304,
   "Ranking_Popularity": 538,
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -21,7 +21,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.64,
+  "Rating": 4.65,
   "NumberOfRatings": 74,
   "RatingHistory": [
     {
@@ -316,15 +316,21 @@
       "Rating": 4.64,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-10-20T16:58:18.859029+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7367,
+  "EOS_Progressed": 7368,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -5117,6 +5123,11 @@
       "Time": "2023-10-20T06:09:11.7577953+00:00",
       "NumProgressed": 7367,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-10-20T17:09:49.3302425+00:00",
+      "NumProgressed": 7368,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 27,
@@ -5136,7 +5147,7 @@
       "Name": "Daylight Found",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1915
+      "UsersEstimate": 1916
     },
     {
       "ID": "AK_FIELDS_WATERED",
@@ -5144,7 +5155,7 @@
       "Name": "Fields Watered",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 3020
+      "UsersEstimate": 3021
     },
     {
       "ID": "AK_GLOWING_WATERS",
@@ -5168,7 +5179,7 @@
       "Name": "Harp Tuned",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1694
+      "UsersEstimate": 1695
     },
     {
       "ID": "AK_HOPES_HOISTED",
@@ -5208,7 +5219,7 @@
       "Name": "Knowledge Shared",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 1473
+      "UsersEstimate": 1474
     },
     {
       "ID": "AK_LEARNED_SCHOLAR",
@@ -5232,7 +5243,7 @@
       "Name": "A Peaceful Respite",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1031
+      "UsersEstimate": 1032
     },
     {
       "ID": "AK_PROPHECY_FULFILLED",
@@ -5248,7 +5259,7 @@
       "Name": "Pyre Ignited",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1694
+      "UsersEstimate": 1695
     },
     {
       "ID": "AK_RELIC_FINDER",
@@ -5256,7 +5267,7 @@
       "Name": "Relic Finder",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1473
+      "UsersEstimate": 1474
     },
     {
       "ID": "AK_SEEKERS_FOUND",
@@ -5264,7 +5275,7 @@
       "Name": "Seekers Found",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 3020
+      "UsersEstimate": 3021
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -5272,7 +5283,7 @@
       "Name": "Settling the Skies",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 3020
+      "UsersEstimate": 3021
     },
     {
       "ID": "AK_SMALL_COMMUNITY",
@@ -5304,7 +5315,7 @@
       "Name": "Travelers Returned",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1694
+      "UsersEstimate": 1695
     },
     {
       "ID": "AK_TRUE_CHALLENGE",
@@ -5343,15 +5354,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7367,
+      "Progressed": 7368,
       "Completed": 55
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
-  "LastChanged": "2023-08-27T09:59:24.0528306+00:00",
-  "LastChanged_Achievements": "2023-10-20T16:09:13.4889897+00:00",
+  "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
+  "LastChanged_Achievements": "2023-10-20T17:09:49.330242+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:12.3218327+00:00",
-  "LastUpdate_Ratings": "2023-10-20T15:58:09.0988636+00:00",
-  "LastUpdate_Achievements": "2023-10-20T16:09:13.4890499+00:00"
+  "LastUpdate_Ratings": "2023-10-20T16:58:18.8590353+00:00",
+  "LastUpdate_Achievements": "2023-10-20T17:09:49.3303083+00:00"
 }

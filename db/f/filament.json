@@ -2,7 +2,7 @@
   "ID": "89fb09a222a54e53b692e9c36e68d0a1",
   "Name": "Filament",
   "ProductSlug": "filament-332a92",
-  "Ranking_Rating": 796,
+  "Ranking_Rating": 795,
   "Ranking_Popularity": 197,
   "Ranking_PopularitySum": 290,
   "Ranking_EOS_Progress": 66,
@@ -276,9 +276,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 203754,
+  "EOS_Progressed": 203755,
   "EOS_Completed": 519,
-  "EOS_NewPlayers": 402,
+  "EOS_NewPlayers": 398,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -19991,6 +19991,11 @@
       "Time": "2023-10-20T16:05:33.9249485+00:00",
       "NumProgressed": 203754,
       "NumCompleted": 519
+    },
+    {
+      "Time": "2023-10-20T17:06:12.8220612+00:00",
+      "NumProgressed": 203755,
+      "NumCompleted": 519
     }
   ],
   "TotalAchievements": 29,
@@ -20026,7 +20031,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 191529
+      "UsersEstimate": 191530
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -20186,7 +20191,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20375
+      "UsersEstimate": 20376
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -20233,7 +20238,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 203754,
+      "Progressed": 203755,
       "Completed": 519
     }
   ],
@@ -20241,8 +20246,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-10-17T16:00:20.099734+00:00",
-  "LastChanged_Achievements": "2023-10-20T16:05:33.9249481+00:00",
+  "LastChanged_Achievements": "2023-10-20T17:06:12.8220606+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:18.0641163+00:00",
-  "LastUpdate_Ratings": "2023-10-20T16:02:04.7864169+00:00",
-  "LastUpdate_Achievements": "2023-10-20T16:05:33.9251286+00:00"
+  "LastUpdate_Ratings": "2023-10-20T17:02:56.4524385+00:00",
+  "LastUpdate_Achievements": "2023-10-20T17:06:12.822236+00:00"
 }

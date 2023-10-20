@@ -2,9 +2,9 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_EOS_Progress": 314,
+  "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -1643,9 +1643,9 @@
       "ID": "PROGRESS_N4",
       "SetID": "2gma9an",
       "Name": "The darkness",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 28
+      "UsersEstimate": 31
     },
     {
       "ID": "PROGRESS_N5",
@@ -1666,8 +1666,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-20T16:07:10.1935898+00:00",
+  "LastChanged_Achievements": "2023-10-20T17:07:51.0197753+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:19.4856723+00:00",
-  "LastUpdate_Ratings": "2023-10-20T16:00:51.6721537+00:00",
-  "LastUpdate_Achievements": "2023-10-20T16:07:10.1936219+00:00"
+  "LastUpdate_Ratings": "2023-10-20T17:01:27.7697157+00:00",
+  "LastUpdate_Achievements": "2023-10-20T17:07:51.0198046+00:00"
 }

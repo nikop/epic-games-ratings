@@ -4,7 +4,7 @@
   "ProductSlug": "dhexus-904371",
   "Ranking_EOS_Progress": 686,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-19T16:57:03.8439279+00:00",
-  "LastUpdate_Ratings": "2023-10-20T15:57:47.4726384+00:00",
-  "LastUpdate_Achievements": "2023-10-20T16:04:08.2915063+00:00"
+  "LastUpdate_Ratings": "2023-10-20T16:57:52.1414334+00:00",
+  "LastUpdate_Achievements": "2023-10-20T17:04:35.5535808+00:00"
 }

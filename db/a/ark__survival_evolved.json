@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 12,
   "Ranking_EOS_Progress": 686,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2020-06-11T15:00:00+00:00",
@@ -12816,10 +12816,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 272920,
       "NumberOfAwardsMax": 62378
+    },
+    {
+      "Time": "2023-10-20T17:01:46.8104431+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 272942,
+      "NumberOfAwardsMax": 62378
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 272920,
+  "NumberOfAwards": 272942,
   "NumberOfAwardsMax": 62378,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -12833,7 +12839,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 22136
+      "Count": 22147
     },
     {
       "Text": "This game is Highly Recommended",
@@ -12845,7 +12851,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 21222
+      "Count": 21229
     },
     {
       "Text": "This game is Educational",
@@ -12875,7 +12881,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 19855
+      "Count": 19859
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -12907,8 +12913,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:31.1262321+00:00",
-  "LastChanged": "2023-10-20T15:01:23.4686098+00:00",
+  "LastChanged": "2023-10-20T17:01:46.8104429+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:28.2940798+00:00",
-  "LastUpdate_Ratings": "2023-10-20T16:01:07.731575+00:00",
-  "LastUpdate_Achievements": "2023-10-20T16:05:59.8050965+00:00"
+  "LastUpdate_Ratings": "2023-10-20T17:01:46.8104441+00:00",
+  "LastUpdate_Achievements": "2023-10-20T17:06:43.3369835+00:00"
 }

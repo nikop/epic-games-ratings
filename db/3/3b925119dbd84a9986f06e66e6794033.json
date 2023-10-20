@@ -2,9 +2,9 @@
   "ID": "3b925119dbd84a9986f06e66e6794033",
   "Name": "The Jackbox Party Pack 10",
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
-  "Ranking_EOS_Progress": 460,
+  "Ranking_EOS_Progress": 455,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 41,
+  "EOS_Progressed": 42,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -94,6 +94,11 @@
       "Time": "2023-10-20T16:06:07.2359189+00:00",
       "NumProgressed": 41,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-20T17:06:51.7077294+00:00",
+      "NumProgressed": 42,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -128,9 +133,9 @@
       "ID": "DODO_RE_MI_SURVIVED_TUTORIAL",
       "SetID": "9j9h72e",
       "Name": "Dodo Re Mi: Beginner\u2019s Pluck",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "HYPNO_CORRECT_GROUP",
@@ -168,7 +173,7 @@
       "ID": "RISKYTEXT_BOOST_VOTE",
       "SetID": "9j9h72e",
       "Name": "FixyText: Pump It Up",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 50,
       "UsersEstimate": 8
     },
@@ -176,7 +181,7 @@
       "ID": "RISKYTEXT_ONE_WORD_GETS_VOTES_FROM_ALL_VOTING_PLAYERS",
       "SetID": "9j9h72e",
       "Name": "FixyText: Bestseller",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 50,
       "UsersEstimate": 6
     },
@@ -200,9 +205,9 @@
       "ID": "TIME_JINX",
       "SetID": "9j9h72e",
       "Name": "Timejinx: Timejinx",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "TIME_ORWELL",
@@ -216,9 +221,9 @@
       "ID": "TIME_PERFECT_DATE",
       "SetID": "9j9h72e",
       "Name": "Timejinx: The Perfect Date",
-      "Percentage": 34,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "TIME_PERFECT_GUEST",
@@ -265,14 +270,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 41,
+      "Progressed": 42,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-10-20T16:06:07.2359185+00:00",
+  "LastChanged_Achievements": "2023-10-20T17:06:51.7077288+00:00",
   "LastUpdate_AppInfo": "2023-10-13T20:57:00.1112303+00:00",
-  "LastUpdate_Ratings": "2023-10-20T15:57:34.7761558+00:00",
-  "LastUpdate_Achievements": "2023-10-20T16:06:07.2359329+00:00"
+  "LastUpdate_Ratings": "2023-10-20T16:57:38.3176402+00:00",
+  "LastUpdate_Achievements": "2023-10-20T17:06:51.7077454+00:00"
 }

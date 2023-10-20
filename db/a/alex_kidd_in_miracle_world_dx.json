@@ -4,7 +4,7 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 310,
+  "EOS_Progressed": 311,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.29,
   "EosHistory": [
@@ -444,6 +444,11 @@
       "Time": "2023-10-18T08:08:25.2052466+00:00",
       "NumProgressed": 310,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-20T17:04:10.6512003+00:00",
+      "NumProgressed": 311,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -495,7 +500,7 @@
       "Name": "Prisoner",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "GOOSEKA_DEFEATED",
@@ -559,7 +564,7 @@
       "Name": "Third Commander",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "PET_DOG",
@@ -582,7 +587,7 @@
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 310,
+      "Progressed": 311,
       "Completed": 4
     }
   ],
@@ -590,8 +595,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-10-20T16:03:36.6179263+00:00",
+  "LastChanged_Achievements": "2023-10-20T17:04:10.6511996+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:21.7306089+00:00",
-  "LastUpdate_Ratings": "2023-10-20T15:57:45.6858751+00:00",
-  "LastUpdate_Achievements": "2023-10-20T16:03:36.6179467+00:00"
+  "LastUpdate_Ratings": "2023-10-20T16:57:50.5941948+00:00",
+  "LastUpdate_Achievements": "2023-10-20T17:04:10.6512231+00:00"
 }

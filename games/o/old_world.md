@@ -6,25 +6,28 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 3.00% | ~444 |
-| Settler | 3.00% | ~444 |
-| Friendly Family | 3.00% | ~444 |
-| Play a Single Player Game | 3.00% | ~444 |
+| Explorer | 3.00% | ~445 |
+| Settler | 3.00% | ~445 |
+| Friendly Family | 3.00% | ~445 |
+| Play a Single Player Game | 3.00% | ~445 |
 | Able | 2.00% | ~296 |
 | Architect | 2.00% | ~296 |
 | Glorious | 2.00% | ~296 |
 | Good | 2.00% | ~296 |
 | Intrepid | 2.00% | ~296 |
 | Just | 2.00% | ~296 |
+| Keystone | 2.00% | ~296 |
 | Learned | 2.00% | ~296 |
 | Mason | 2.00% | ~296 |
 | Noble | 2.00% | ~296 |
 | Pioneer | 2.00% | ~296 |
 | Strong | 2.00% | ~296 |
 | Warrior | 2.00% | ~296 |
+| Strong Cities | 2.00% | ~296 |
 | Hanging Gardens | 2.00% | ~296 |
 | Oracle | 2.00% | ~296 |
 | Judaism | 2.00% | ~296 |
+| Babylonian Paganism | 2.00% | ~296 |
 | Naming Landmarks | 2.00% | ~296 |
 | Trade Caravan | 2.00% | ~296 |
 | Kushite Paganism | 2.00% | ~296 |
@@ -35,13 +38,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightened | 1.00% | ~148 |
 | Fountainhead | 1.00% | ~148 |
 | Great | 1.00% | ~148 |
-| Keystone | 1.00% | ~148 |
 | Magnificent | 1.00% | ~148 |
 | Valiant | 1.00% | ~148 |
 | Wise | 1.00% | ~148 |
 | Developing Cities | 1.00% | ~148 |
 | Legendary Cities | 1.00% | ~148 |
-| Strong Cities | 1.00% | ~148 |
 | Able Difficulty | 1.00% | ~148 |
 | Just Difficulty | 1.00% | ~148 |
 | Furious Family | 1.00% | ~148 |
@@ -57,7 +58,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 2 | 1.00% | ~148 |
 | Christianity | 1.00% | ~148 |
 | Manichaeism | 1.00% | ~148 |
-| Babylonian Paganism | 1.00% | ~148 |
 | Carthaginian Paganism | 1.00% | ~148 |
 | Egyptian Paganism | 1.00% | ~148 |
 | Greek Paganism | 1.00% | ~148 |
@@ -103,6 +103,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legalism | 0.60% | ~89 |
 | Redemption | 0.60% | ~89 |
 | Revelation | 0.60% | ~89 |
+| Cimmerian Archer | 0.60% | ~89 |
 | Legionary | 0.60% | ~89 |
 | Phalangite | 0.60% | ~89 |
 | Double Victory | 0.60% | ~89 |
@@ -112,12 +113,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Church of the Holy Sepulchre | 0.50% | ~74 |
 | Babylonia | 0.50% | ~74 |
 | Carthage | 0.50% | ~74 |
+| One True Faith | 0.50% | ~74 |
 | Industrial Progress | 0.50% | ~74 |
 | Military Prestige | 0.50% | ~74 |
 | Dualism | 0.50% | ~74 |
 | Gnosticism | 0.50% | ~74 |
 | Veneration | 0.50% | ~74 |
-| Cimmerian Archer | 0.50% | ~74 |
 | Mounted Lancer | 0.50% | ~74 |
 | Ambition Victory | 0.50% | ~74 |
 | The Clergy | 0.50% | ~74 |
@@ -128,10 +129,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ready | 0.40% | ~59 |
 | Noble Difficulty | 0.40% | ~59 |
 | Clerics | 0.40% | ~59 |
+| Adur Burzen-Mihr | 0.40% | ~59 |
 | Learn to Play 5 | 0.40% | ~59 |
 | Egypt | 0.40% | ~59 |
 | Rome | 0.40% | ~59 |
-| One True Faith | 0.40% | ~59 |
 | Assyrian Paganism | 0.40% | ~59 |
 | Hittite Paganism | 0.40% | ~59 |
 | Enlightenment | 0.40% | ~59 |
@@ -143,7 +144,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Old | 0.30% | ~44 |
 | Peacemaker | 0.30% | ~44 |
 | Cao'an | 0.30% | ~44 |
-| Adur Burzen-Mihr | 0.30% | ~44 |
 | Old World Order | 0.30% | ~44 |
 | Ten Crowns | 0.30% | ~44 |
 | Cataphract Archer | 0.30% | ~44 |
@@ -164,6 +164,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persia | 0.20% | ~30 |
 | Pantheon of Gods | 0.20% | ~30 |
 | Apadana in Parsa | 0.20% | ~30 |
+| Play a Free-For-All Game (>2 Players) | 0.20% | ~30 |
 | Play a Network Game | 0.20% | ~30 |
 | Capturing Cities | 0.20% | ~30 |
 | Three Man Chariot | 0.20% | ~30 |
@@ -253,6 +254,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Alexander the Great | 0.10% | ~15 |
 | Alexander the Alright | 0.10% | ~15 |
 | Youth Prevails | 0.10% | ~15 |
+| Toppling the Giants | 0.10% | ~15 |
 | Rule of Pharaohs | 0.10% | ~15 |
 | Knowledge of the Ancients | 0.10% | ~15 |
 | Learn By Playing 1 - Able | 0.10% | ~15 |
@@ -264,7 +266,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pyramids in Menefer | 0.10% | ~15 |
 | Realistic Mortality | 0.10% | ~15 |
 | Play a 1-v-1 Game | 0.10% | ~15 |
-| Play a Free-For-All Game (>2 Players) | 0.10% | ~15 |
 | Play a Hotseat Game | 0.10% | ~15 |
 | Play a LAN Game | 0.10% | ~15 |
 | Play a MP Teams Game | 0.10% | ~15 |
@@ -340,7 +341,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Via Recta Souk in Damascus | 0.00% | ~0 |
 | Elephant in Elephantine | 0.00% | ~0 |
 | That Also Works | 0.00% | ~0 |
-| Toppling the Giants | 0.00% | ~0 |
 | The Eastern Empire | 0.00% | ~0 |
 | Mausoleum in Halicarnassus | 0.00% | ~0 |
 | Hardcore | 0.00% | ~0 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,815 (Ranked 138)  
+Progressed: 14,818 (Ranked 138)  
 Completed: 5 (0.03%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -532,7 +532,7 @@ Completed: 5 (0.03%) (Ranked 286)
 | 2023-10-17 | 14,775 | 5 |
 | 2023-10-18 | 14,791 | 5 |
 | 2023-10-19 | 14,805 | 5 |
-| 2023-10-20 | 14,815 | 5 |
+| 2023-10-20 | 14,818 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,848 (Ranked 211)  

@@ -4,7 +4,7 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1571,
+  "EOS_Progressed": 1572,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3162,6 +3162,11 @@
       "Time": "2023-10-20T16:09:29.2311858+00:00",
       "NumProgressed": 1571,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-20T17:10:07.8490655+00:00",
+      "NumProgressed": 1572,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -3382,7 +3387,7 @@
       "Name": "Clean Race",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -3470,7 +3475,7 @@
       "Name": "Eat My Dust",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -3478,7 +3483,7 @@
       "Name": "Champagne Spray",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -3565,14 +3570,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1571,
+      "Progressed": 1572,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-20T16:09:29.2311853+00:00",
+  "LastChanged_Achievements": "2023-10-20T17:10:07.849065+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:05.5662527+00:00",
-  "LastUpdate_Ratings": "2023-10-20T16:00:26.6853504+00:00",
-  "LastUpdate_Achievements": "2023-10-20T16:09:29.2312576+00:00"
+  "LastUpdate_Ratings": "2023-10-20T17:00:55.4512742+00:00",
+  "LastUpdate_Achievements": "2023-10-20T17:10:07.8491449+00:00"
 }

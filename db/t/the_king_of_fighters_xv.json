@@ -2,12 +2,12 @@
   "ID": "168fc558aeef44a5b9cba5f25b5bb93f",
   "Name": "THE KING OF FIGHTERS XV",
   "ProductSlug": "the-king-of-fighters-xv",
-  "Ranking_Rating": 325,
+  "Ranking_Rating": 326,
   "Ranking_Popularity": 383,
   "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 686,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-02-17T00:00:00+00:00",
@@ -519,6 +519,6 @@
   "FirstSeen": "2022-07-22T20:21:01.2233812+00:00",
   "LastChanged": "2023-10-19T04:58:36.7238227+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:11.1974105+00:00",
-  "LastUpdate_Ratings": "2023-10-20T16:00:23.3055776+00:00",
-  "LastUpdate_Achievements": "2023-10-20T16:09:42.9996109+00:00"
+  "LastUpdate_Ratings": "2023-10-20T17:00:52.5956692+00:00",
+  "LastUpdate_Achievements": "2023-10-20T17:10:23.4306983+00:00"
 }

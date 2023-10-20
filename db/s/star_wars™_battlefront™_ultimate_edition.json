@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 749,
+  "EOS_Progressed": 751,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2059,6 +2059,11 @@
       "Time": "2023-10-20T15:08:38.8916785+00:00",
       "NumProgressed": 749,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-20T17:09:14.5158502+00:00",
+      "NumProgressed": 751,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -2071,7 +2076,7 @@
       "Name": "A New Hope",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "achievement_10",
@@ -2103,7 +2108,7 @@
       "Name": "What\u0027s the cargo?",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "achievement_14",
@@ -2119,7 +2124,7 @@
       "Name": "The Force is strong with this one",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "achievement_16",
@@ -2167,7 +2172,7 @@
       "Name": "Collector",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "achievement_21",
@@ -2175,7 +2180,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "achievement_22",
@@ -2183,7 +2188,7 @@
       "Name": "Distinguished",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "achievement_23",
@@ -2207,7 +2212,7 @@
       "Name": "A tremor in the Force",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "achievement_26",
@@ -2255,7 +2260,7 @@
       "Name": "Precision shot",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "achievement_31",
@@ -2287,7 +2292,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "achievement_35",
@@ -2295,7 +2300,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 674
+      "UsersEstimate": 676
     },
     {
       "ID": "achievement_36",
@@ -2311,7 +2316,7 @@
       "Name": "Off to a good start",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 509
+      "UsersEstimate": 511
     },
     {
       "ID": "achievement_38",
@@ -2319,7 +2324,7 @@
       "Name": "Survivor",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "achievement_39",
@@ -2335,15 +2340,15 @@
       "Name": "I suggest a new strategy",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "achievement_40",
       "SetID": "271ol84",
       "Name": "Do... or do not. There is no try",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 389
+      "UsersEstimate": 398
     },
     {
       "ID": "achievement_41",
@@ -2359,7 +2364,7 @@
       "Name": "Not bad for a little furball",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "achievement_43",
@@ -2383,7 +2388,7 @@
       "Name": "This is a new day, a new beginning",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "achievement_46",
@@ -2391,7 +2396,7 @@
       "Name": "Patience you must have",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "achievement_47",
@@ -2407,7 +2412,7 @@
       "Name": "No such thing as luck",
       "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "achievement_49",
@@ -2415,7 +2420,7 @@
       "Name": "Do we take prisoners?",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "achievement_5",
@@ -2423,7 +2428,7 @@
       "Name": "Shoot first",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "achievement_50",
@@ -2431,7 +2436,7 @@
       "Name": "City in the Clouds",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "achievement_51",
@@ -2471,7 +2476,7 @@
       "Name": "Stop that Droid",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "achievement_56",
@@ -2479,7 +2484,7 @@
       "Name": "Support the troops",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "achievement_57",
@@ -2519,7 +2524,7 @@
       "Name": "What will you become?",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "achievement_61",
@@ -2543,7 +2548,7 @@
       "Name": "Disturbed tranquility",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "achievement_7",
@@ -2574,13 +2579,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 749,
+      "Progressed": 751,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 749,
+      "Progressed": 751,
       "Completed": 1
     }
   ],
@@ -2588,8 +2593,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-20T16:08:23.1147598+00:00",
+  "LastChanged_Achievements": "2023-10-20T17:09:14.5158496+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:22.846224+00:00",
-  "LastUpdate_Ratings": "2023-10-20T15:59:42.6719125+00:00",
-  "LastUpdate_Achievements": "2023-10-20T16:08:23.1148441+00:00"
+  "LastUpdate_Ratings": "2023-10-20T17:00:10.1341505+00:00",
+  "LastUpdate_Achievements": "2023-10-20T17:09:14.5159581+00:00"
 }
