@@ -18,6 +18,7 @@
 | In The Palm Of My Hand | 64.00% | ~7 |
 | Bully of Bullies | 64.00% | ~7 |
 | Hospitalised | 64.00% | ~7 |
+| Paled | 64.00% | ~7 |
 | Foraged | 64.00% | ~7 |
 | Merciful feat | 64.00% | ~7 |
 | Referee! | 64.00% | ~7 |
@@ -25,18 +26,17 @@
 | Fly Free | 64.00% | ~7 |
 | First do no harm | 64.00% | ~7 |
 | Twenty-Six | 55.00% | ~6 |
-| Paled | 55.00% | ~6 |
 | Signal interruption | 55.00% | ~6 |
+| Unladylike | 55.00% | ~6 |
 | Half hat | 55.00% | ~6 |
 | Sick Kids | 55.00% | ~6 |
+| Pale Kids | 55.00% | ~6 |
 | Wild Kids | 55.00% | ~6 |
+| Post Industrial | 55.00% | ~6 |
 | How Do I Look? | 55.00% | ~6 |
 | Far Ahead | 45.00% | ~5 |
-| Unladylike | 45.00% | ~5 |
-| Pale Kids | 45.00% | ~5 |
+| No More Remains | 45.00% | ~5 |
 | School Kids | 45.00% | ~5 |
-| Post Industrial | 45.00% | ~5 |
-| No More Remains | 36.00% | ~4 |
 | Primetime Content Consumer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 11 (Ranked 535)  

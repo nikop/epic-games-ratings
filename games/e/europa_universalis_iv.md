@@ -6,22 +6,22 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,393 |
-| Until death do us apart | 4.00% | ~17,393 |
-| Victorious! | 4.00% | ~17,393 |
-| That is mine! | 3.00% | ~13,045 |
+| That's a Grand Army | 4.00% | ~17,394 |
+| Until death do us apart | 4.00% | ~17,394 |
+| Victorious! | 4.00% | ~17,394 |
+| That is mine! | 3.00% | ~13,046 |
 | Brothers in Arms | 2.00% | ~8,697 |
 | Cold War | 2.00% | ~8,697 |
 | For the Glory | 2.00% | ~8,697 |
 | That's a Grand Navy | 2.00% | ~8,697 |
 | Seriously?! | 2.00% | ~8,697 |
-| Defender of the Faith | 1.00% | ~4,348 |
-| It's all about the money | 1.00% | ~4,348 |
-| Respected | 1.00% | ~4,348 |
-| The Princess is in this Castle | 1.00% | ~4,348 |
-| True Catholic | 1.00% | ~4,348 |
-| Truly Divine Ruler | 1.00% | ~4,348 |
-| It's all about luck | 0.90% | ~3,913 |
+| Defender of the Faith | 1.00% | ~4,349 |
+| It's all about the money | 1.00% | ~4,349 |
+| Respected | 1.00% | ~4,349 |
+| The Princess is in this Castle | 1.00% | ~4,349 |
+| True Catholic | 1.00% | ~4,349 |
+| Truly Divine Ruler | 1.00% | ~4,349 |
+| It's all about luck | 0.90% | ~3,914 |
 | Blockader | 0.80% | ~3,479 |
 | Double the Love | 0.80% | ~3,479 |
 | Royal Authority | 0.80% | ~3,479 |
@@ -39,13 +39,13 @@ Number of Ratings: 8,414  (23.09.2022)
 | Isn't this the way to India? | 0.40% | ~1,739 |
 | Queen of Conquest | 0.40% | ~1,739 |
 | The Five Colonies | 0.40% | ~1,739 |
-| All That's Thine Shall Be Mine | 0.30% | ~1,304 |
-| Down Under | 0.30% | ~1,304 |
-| Electable! | 0.30% | ~1,304 |
-| A Golden Empire | 0.30% | ~1,304 |
-| Market Control | 0.30% | ~1,304 |
-| Populists in Government | 0.30% | ~1,304 |
-| Trustworthy | 0.30% | ~1,304 |
+| All That's Thine Shall Be Mine | 0.30% | ~1,305 |
+| Down Under | 0.30% | ~1,305 |
+| Electable! | 0.30% | ~1,305 |
+| A Golden Empire | 0.30% | ~1,305 |
+| Market Control | 0.30% | ~1,305 |
+| Populists in Government | 0.30% | ~1,305 |
+| Trustworthy | 0.30% | ~1,305 |
 | Absolutely | 0.20% | ~870 |
 | All belongs to Mother Russia | 0.20% | ~870 |
 | At every continent | 0.20% | ~870 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 434,828 (Ranked 40)  
+Progressed: 434,854 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -544,10 +544,10 @@ Completed: 1 (0.00%) (Ranked 316)
 | 2023-10-17 | 433,352 | 1 |
 | 2023-10-18 | 433,999 | 1 |
 | 2023-10-19 | 434,645 | 1 |
-| 2023-10-20 | 434,828 | 1 |
+| 2023-10-20 | 434,854 | 1 |
 ## Awards
 Max (Educational): 6,599  (Ranked 55)  
-Sum: 54,195 (Ranked 24)  
+Sum: 54,207 (Ranked 24)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
@@ -557,7 +557,7 @@ Diff (max vs sum): 31
 | This game has Challenging Combat | 6,231 |
 | This game is Extremely Fun | 6,221 |
 | This game is Relaxing | 6,070 |
-| This game has Competitive Players | 5,918 |
+| This game has Competitive Players | 5,930 |
 | This game has Amazing Storytelling | 5,521 |
 | This game has Amazing Characters | 5,098 |
 | This game has Obsessive Gameplay | 3,351 |
@@ -840,4 +840,4 @@ Diff (max vs sum): 31
 | 2023-10-17 | 4.69 | - | 6,571 | 53,991 |
 | 2023-10-18 | 4.69 | - | 6,571 | 54,079 |
 | 2023-10-19 | 4.69 | - | 6,587 | 54,183 |
-| 2023-10-20 | 4.69 | - | 6,599 | 54,195 |
+| 2023-10-20 | 4.69 | - | 6,599 | 54,207 |

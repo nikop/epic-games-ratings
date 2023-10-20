@@ -1388,9 +1388,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 129885,
+  "EOS_Progressed": 129888,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 252,
+  "EOS_NewPlayers": 254,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -19583,6 +19583,11 @@
       "Time": "2023-10-20T09:05:18.6916585+00:00",
       "NumProgressed": 129885,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-10-20T10:04:34.0814067+00:00",
+      "NumProgressed": 129888,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -19626,7 +19631,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 23379
+      "UsersEstimate": 23380
     },
     {
       "ID": "ACH_COP_BAD",
@@ -19650,7 +19655,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31172
+      "UsersEstimate": 31173
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -19674,7 +19679,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36368
+      "UsersEstimate": 36369
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -19690,7 +19695,7 @@
       "Name": "The Lawbringer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5195
+      "UsersEstimate": 5196
     },
     {
       "ID": "ACH_COP_LIBERAL",
@@ -19738,7 +19743,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 14287
+      "UsersEstimate": 14288
     },
     {
       "ID": "ACH_CUNO",
@@ -19754,7 +19759,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 12988
+      "UsersEstimate": 12989
     },
     {
       "ID": "ACH_GLUTEN",
@@ -19890,7 +19895,7 @@
       "Name": "Fairweather t-500 Vitreous Enamel",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 5195
+      "UsersEstimate": 5196
     },
     {
       "ID": "ACH_REAL_MUSOR",
@@ -19913,15 +19918,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 129885,
+      "Progressed": 129888,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-10-19T18:57:03.7336531+00:00",
-  "LastChanged_Achievements": "2023-10-20T09:05:18.6916576+00:00",
+  "LastChanged_Achievements": "2023-10-20T10:04:34.081406+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:18.5281336+00:00",
-  "LastUpdate_Ratings": "2023-10-20T08:57:51.3558059+00:00",
-  "LastUpdate_Achievements": "2023-10-20T09:05:18.6917999+00:00"
+  "LastUpdate_Ratings": "2023-10-20T09:57:38.1401579+00:00",
+  "LastUpdate_Achievements": "2023-10-20T10:04:34.0815562+00:00"
 }

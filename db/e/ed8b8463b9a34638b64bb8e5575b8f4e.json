@@ -282,9 +282,9 @@
       "ID": "passive_fist",
       "SetID": "7i36ba9",
       "Name": "Passive Fist",
-      "Percentage": 12,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "poor_gracie_ray",
@@ -409,8 +409,8 @@
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2023-10-20T09:06:08.1817655+00:00",
+  "LastChanged_Achievements": "2023-10-20T10:05:10.4411046+00:00",
   "LastUpdate_AppInfo": "2023-10-13T23:57:20.0684448+00:00",
-  "LastUpdate_Ratings": "2023-10-20T08:57:38.323439+00:00",
-  "LastUpdate_Achievements": "2023-10-20T09:06:08.1817855+00:00"
+  "LastUpdate_Ratings": "2023-10-20T09:57:28.3857726+00:00",
+  "LastUpdate_Achievements": "2023-10-20T10:05:10.4411279+00:00"
 }

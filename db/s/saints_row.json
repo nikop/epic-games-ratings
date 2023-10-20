@@ -3855,9 +3855,9 @@
       "Count": 1070
     }
   ],
-  "EOS_Progressed": 75543,
+  "EOS_Progressed": 75545,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 761,
+  "EOS_NewPlayers": 759,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -24445,6 +24445,11 @@
       "Time": "2023-10-20T09:06:24.0686418+00:00",
       "NumProgressed": 75543,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-20T10:05:21.9636591+00:00",
+      "NumProgressed": 75545,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -24552,7 +24557,7 @@
       "Name": "The Side Job",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 23418
+      "UsersEstimate": 23419
     },
     {
       "ID": "complete_first_wanted_mission",
@@ -24568,7 +24573,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 34750
+      "UsersEstimate": 34751
     },
     {
       "ID": "customize_a_vehicle",
@@ -24576,7 +24581,7 @@
       "Name": "Tune Up",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 24929
+      "UsersEstimate": 24930
     },
     {
       "ID": "customize_a_weapon",
@@ -24584,7 +24589,7 @@
       "Name": "Optimized",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 27951
+      "UsersEstimate": 27952
     },
     {
       "ID": "cutting_edge_materials",
@@ -24640,7 +24645,7 @@
       "Name": "Power Players",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 14353
+      "UsersEstimate": 14354
     },
     {
       "ID": "empire_tier_4",
@@ -24696,7 +24701,7 @@
       "Name": "Et tu?",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 12842
+      "UsersEstimate": 12843
     },
     {
       "ID": "get_fired",
@@ -24704,7 +24709,7 @@
       "Name": "Performance Review",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 27195
+      "UsersEstimate": 27196
     },
     {
       "ID": "hit_max_level",
@@ -24736,7 +24741,7 @@
       "Name": "Wrecking Ball",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 21152
+      "UsersEstimate": 21153
     },
     {
       "ID": "kill_tank_driver_with_rail",
@@ -24752,7 +24757,7 @@
       "Name": "Making a Name",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 26440
+      "UsersEstimate": 26441
     },
     {
       "ID": "one_third_purple",
@@ -24768,7 +24773,7 @@
       "Name": "Closet Space",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6043
+      "UsersEstimate": 6044
     },
     {
       "ID": "prank_coop_partner",
@@ -24840,7 +24845,7 @@
       "Name": "To The Nines",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 31728
+      "UsersEstimate": 31729
     },
     {
       "ID": "whole_map_purple",
@@ -24879,13 +24884,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 75543,
+      "Progressed": 75545,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 47180,
+      "Progressed": 47182,
       "Completed": 4140
     }
   ],
@@ -24893,8 +24898,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-10-18T15:59:18.1995048+00:00",
-  "LastChanged_Achievements": "2023-10-20T09:06:24.0686411+00:00",
+  "LastChanged_Achievements": "2023-10-20T10:05:21.9636583+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:20.7071116+00:00",
-  "LastUpdate_Ratings": "2023-10-20T09:01:07.5139303+00:00",
-  "LastUpdate_Achievements": "2023-10-20T09:06:24.0688584+00:00"
+  "LastUpdate_Ratings": "2023-10-20T09:59:59.9566147+00:00",
+  "LastUpdate_Achievements": "2023-10-20T10:05:21.9638309+00:00"
 }

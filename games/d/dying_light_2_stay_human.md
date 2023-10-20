@@ -6,40 +6,40 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 38.00% | ~242,401 |
-| Into the Unknown | 35.00% | ~223,264 |
-| First Shot | 35.00% | ~223,264 |
-| Herzlich Wilkommen! | 33.00% | ~210,506 |
-| Good Night & Good Luck | 32.00% | ~204,127 |
-| Sancho Panza | 31.00% | ~197,748 |
-| Oh, So This Is How It Works! | 29.00% | ~184,990 |
-| Flag Burning | 26.00% | ~165,853 |
-| Under Pressure | 24.00% | ~153,095 |
-| On the Trail of the Enemy | 24.00% | ~153,095 |
-| Light in the Darkness | 24.00% | ~153,095 |
-| It Wasn't That Hard, Was It? | 24.00% | ~153,095 |
-| Can't Touch This! | 24.00% | ~153,095 |
-| Get Outta My House! | 23.00% | ~146,716 |
-| Night Hunter | 22.00% | ~140,337 |
-| Being All Social | 21.00% | ~133,958 |
-| After the Fall | 19.00% | ~121,200 |
-| We Will Be Heard! | 18.00% | ~114,821 |
-| Tunnel Entrance | 17.00% | ~108,442 |
-| Known Associate | 16.00% | ~102,064 |
-| Brush with Death | 16.00% | ~102,064 |
-| Debris and Ashes | 15.00% | ~95,685 |
-| Going Down | 15.00% | ~95,685 |
-| Family First | 15.00% | ~95,685 |
-| Your World, Your Rules | 14.00% | ~89,306 |
-| Death From Afar | 14.00% | ~89,306 |
-| Terminal Headache | 14.00% | ~89,306 |
-| Slowpoke! | 12.00% | ~76,548 |
-| Tickets, Please! | 7.00% | ~44,653 |
-| Parkour Master | 6.00% | ~38,274 |
-| Combat Master | 6.00% | ~38,274 |
-| Municipal Services | 5.00% | ~31,895 |
-| Ban Hammer | 5.00% | ~31,895 |
-| Modder | 5.00% | ~31,895 |
+| You Never Forget Your First... | 38.00% | ~242,407 |
+| Into the Unknown | 35.00% | ~223,269 |
+| First Shot | 35.00% | ~223,269 |
+| Herzlich Wilkommen! | 33.00% | ~210,511 |
+| Good Night & Good Luck | 32.00% | ~204,132 |
+| Sancho Panza | 31.00% | ~197,753 |
+| Oh, So This Is How It Works! | 29.00% | ~184,994 |
+| Flag Burning | 26.00% | ~165,857 |
+| Under Pressure | 24.00% | ~153,099 |
+| On the Trail of the Enemy | 24.00% | ~153,099 |
+| Light in the Darkness | 24.00% | ~153,099 |
+| It Wasn't That Hard, Was It? | 24.00% | ~153,099 |
+| Can't Touch This! | 24.00% | ~153,099 |
+| Get Outta My House! | 23.00% | ~146,720 |
+| Night Hunter | 22.00% | ~140,341 |
+| Being All Social | 21.00% | ~133,962 |
+| After the Fall | 19.00% | ~121,203 |
+| We Will Be Heard! | 18.00% | ~114,824 |
+| Tunnel Entrance | 17.00% | ~108,445 |
+| Known Associate | 16.00% | ~102,066 |
+| Brush with Death | 16.00% | ~102,066 |
+| Debris and Ashes | 15.00% | ~95,687 |
+| Going Down | 15.00% | ~95,687 |
+| Family First | 15.00% | ~95,687 |
+| Your World, Your Rules | 14.00% | ~89,308 |
+| Death From Afar | 14.00% | ~89,308 |
+| Terminal Headache | 14.00% | ~89,308 |
+| Slowpoke! | 12.00% | ~76,549 |
+| Tickets, Please! | 7.00% | ~44,654 |
+| Parkour Master | 6.00% | ~38,275 |
+| Combat Master | 6.00% | ~38,275 |
+| Municipal Services | 5.00% | ~31,896 |
+| Ban Hammer | 5.00% | ~31,896 |
+| Modder | 5.00% | ~31,896 |
 | Tube Map | 4.00% | ~25,516 |
 | Don Quixote | 4.00% | ~25,516 |
 | Can't You Read the Signs? | 4.00% | ~25,516 |
@@ -53,8 +53,8 @@ Number of Ratings: 7,305  (23.09.2022)
 | Who Wants To Be a... | 2.00% | ~12,758 |
 | Lightning Reflexes | 2.00% | ~12,758 |
 | Fit as a Fiddle | 2.00% | ~12,758 |
-| Nemesis | 1.00% | ~2,833 |
-| Enter the Hall | 1.00% | ~2,833 |
+| Nemesis | 1.00% | ~2,834 |
+| Enter the Hall | 1.00% | ~2,834 |
 | A Friend in Need... | 0.90% | ~5,741 |
 | Night of Terrors | 0.90% | ~2,550 |
 | Man On a Mission | 0.80% | ~5,103 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~283 |
 | Connoisseur | 0.10% | ~283 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 637,897 (Ranked 28)  
+Progressed: 637,912 (Ranked 28)  
 Completed: 65 (0.01%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 65 (0.01%) (Ranked 298)
 | 2023-10-17 | 636,909 | 65 |
 | 2023-10-18 | 637,258 | 65 |
 | 2023-10-19 | 637,761 | 65 |
-| 2023-10-20 | 637,897 | 65 |
+| 2023-10-20 | 637,912 | 65 |
 ## Awards
 Max (Character Customization): 9,559  (Ranked 40)  
 Sum: 23,618 (Ranked 54)  

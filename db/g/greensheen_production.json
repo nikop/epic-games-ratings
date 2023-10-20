@@ -3,7 +3,7 @@
   "Name": "greensheen Production",
   "Ranking_EOS_Progress": 535,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewPlayers": 312,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": null,
@@ -122,9 +122,9 @@
       "ID": "CompletePaleCity",
       "SetID": "aph8hbk",
       "Name": "Paled",
-      "Percentage": 55,
+      "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "CompleteSchool",
@@ -170,9 +170,9 @@
       "ID": "FindAllPhantomKids",
       "SetID": "aph8hbk",
       "Name": "No More Remains",
-      "Percentage": 36,
+      "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "FootballGoal",
@@ -202,9 +202,9 @@
       "ID": "Governess",
       "SetID": "aph8hbk",
       "Name": "Unladylike",
-      "Percentage": 45,
+      "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "HalfHatsCollected",
@@ -250,9 +250,9 @@
       "ID": "KidsPaleCity",
       "SetID": "aph8hbk",
       "Name": "Pale Kids",
-      "Percentage": 45,
+      "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "KidsSchool",
@@ -274,9 +274,9 @@
       "ID": "MailMan",
       "SetID": "aph8hbk",
       "Name": "Post Industrial",
-      "Percentage": 45,
+      "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "PaperPlaneWindow",
@@ -368,8 +368,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-31T13:15:39.9572089+00:00",
-  "LastChanged_Achievements": "2023-10-20T09:04:58.391118+00:00",
+  "LastChanged_Achievements": "2023-10-20T10:04:19.0569204+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:13.194983+00:00",
-  "LastUpdate_Ratings": "2023-10-20T08:58:10.5104527+00:00",
-  "LastUpdate_Achievements": "2023-10-20T09:04:58.3911475+00:00"
+  "LastUpdate_Ratings": "2023-10-20T09:57:49.5889664+00:00",
+  "LastUpdate_Achievements": "2023-10-20T10:04:19.0569497+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "64f5543ade2942d59ae4e0321915e0da",
   "Name": "Laika: Aged Through Blood",
   "ProductSlug": "laika-3293ee",
-  "Ranking_EOS_Progress": 553,
+  "Ranking_EOS_Progress": 545,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewPlayers": 302,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 7,
+  "EOS_Progressed": 8,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41,6 +41,11 @@
     {
       "Time": "2023-10-20T01:46:40.8715712+00:00",
       "NumProgressed": 7,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-20T10:04:40.8431698+00:00",
+      "NumProgressed": 8,
       "NumCompleted": 0
     }
   ],
@@ -124,7 +129,7 @@
       "ID": "AC_BOSS_00",
       "SetID": "16i2akc",
       "Name": "Hunger",
-      "Percentage": 57,
+      "Percentage": 50,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -220,7 +225,7 @@
       "ID": "AC_DEATH_ENEMIES_1",
       "SetID": "16i2akc",
       "Name": "Killer",
-      "Percentage": 29,
+      "Percentage": 25,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -244,7 +249,7 @@
       "ID": "AC_DISTANCE_1",
       "SetID": "16i2akc",
       "Name": "Excursion",
-      "Percentage": 29,
+      "Percentage": 25,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -252,7 +257,7 @@
       "ID": "AC_DISTANCE_2",
       "SetID": "16i2akc",
       "Name": "Journey",
-      "Percentage": 29,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -260,7 +265,7 @@
       "ID": "AC_DISTANCE_3",
       "SetID": "16i2akc",
       "Name": "Voyage",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 45,
       "UsersEstimate": 1
     },
@@ -356,7 +361,7 @@
       "ID": "AC_ROSCOBOSS",
       "SetID": "16i2akc",
       "Name": "Loss",
-      "Percentage": 29,
+      "Percentage": 25,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -389,13 +394,13 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 7,
+      "Progressed": 8,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-10-20T09:05:27.8481625+00:00",
+  "LastChanged_Achievements": "2023-10-20T10:04:40.8431692+00:00",
   "LastUpdate_AppInfo": "2023-10-17T14:57:07.2341362+00:00",
-  "LastUpdate_Ratings": "2023-10-20T08:59:23.8582373+00:00",
-  "LastUpdate_Achievements": "2023-10-20T09:05:27.8481973+00:00"
+  "LastUpdate_Ratings": "2023-10-20T09:58:40.7002831+00:00",
+  "LastUpdate_Achievements": "2023-10-20T10:04:40.8432004+00:00"
 }

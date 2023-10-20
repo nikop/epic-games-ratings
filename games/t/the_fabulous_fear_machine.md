@@ -36,9 +36,9 @@
 | Bread and bocaua | 17.00% | ~5 |
 | Fanatacism is... poisonous | 17.00% | ~5 |
 | The adventurer | 17.00% | ~5 |
+| Pulp! True Adventures | 17.00% | ~5 |
 | America had no Faith | 17.00% | ~5 |
 | The scholar | 13.00% | ~4 |
-| Pulp! True Adventures | 13.00% | ~4 |
 | Pulp! Tales from the Crypt | 10.00% | ~3 |
 | ECO mode | 10.00% | ~3 |
 | Vaccine fans | 7.00% | ~2 |

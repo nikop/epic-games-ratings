@@ -497,9 +497,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 529600,
+  "EOS_Progressed": 529602,
   "EOS_Completed": 487,
-  "EOS_NewPlayers": 441,
+  "EOS_NewPlayers": 442,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -19957,6 +19957,11 @@
       "Time": "2023-10-20T09:06:55.3206835+00:00",
       "NumProgressed": 529600,
       "NumCompleted": 487
+    },
+    {
+      "Time": "2023-10-20T10:05:44.4921436+00:00",
+      "NumProgressed": 529602,
+      "NumCompleted": 487
     }
   ],
   "TotalAchievements": 57,
@@ -19976,7 +19981,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 238320
+      "UsersEstimate": 238321
     },
     {
       "ID": "11",
@@ -19984,7 +19989,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 370720
+      "UsersEstimate": 370721
     },
     {
       "ID": "12",
@@ -20048,7 +20053,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 328352
+      "UsersEstimate": 328353
     },
     {
       "ID": "2",
@@ -20192,7 +20197,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 264800
+      "UsersEstimate": 264801
     },
     {
       "ID": "36",
@@ -20224,7 +20229,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 180064
+      "UsersEstimate": 180065
     },
     {
       "ID": "4",
@@ -20296,7 +20301,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 328352
+      "UsersEstimate": 328353
     },
     {
       "ID": "48",
@@ -20312,7 +20317,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 180064
+      "UsersEstimate": 180065
     },
     {
       "ID": "5",
@@ -20344,7 +20349,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 243616
+      "UsersEstimate": 243617
     },
     {
       "ID": "53",
@@ -20423,15 +20428,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 529600,
+      "Progressed": 529602,
       "Completed": 487
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-10-20T09:06:55.3206828+00:00",
+  "LastChanged_Achievements": "2023-10-20T10:05:44.4921428+00:00",
   "LastUpdate_AppInfo": "2023-10-14T13:56:54.8848084+00:00",
-  "LastUpdate_Ratings": "2023-10-20T08:58:06.7811625+00:00",
-  "LastUpdate_Achievements": "2023-10-20T09:06:55.3208924+00:00"
+  "LastUpdate_Ratings": "2023-10-20T09:57:47.8711188+00:00",
+  "LastUpdate_Achievements": "2023-10-20T10:05:44.4922962+00:00"
 }

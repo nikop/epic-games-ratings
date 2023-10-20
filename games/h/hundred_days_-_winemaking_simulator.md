@@ -6,12 +6,12 @@ Number of Ratings: 7,669  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 39.00% | ~3,401 |
-| It's a good start | 10.00% | ~872 |
-| Bonjour! | 7.00% | ~610 |
-| Quack | 7.00% | ~610 |
-| The Assistant | 6.00% | ~523 |
-| The Blue Marl | 6.00% | ~523 |
+| Bye Bye | 39.00% | ~3,403 |
+| It's a good start | 10.00% | ~873 |
+| Bonjour! | 7.00% | ~611 |
+| Quack | 7.00% | ~611 |
+| The Assistant | 6.00% | ~524 |
+| The Blue Marl | 6.00% | ~524 |
 | Ostinata | 5.00% | ~436 |
 | Better than nothing? | 5.00% | ~436 |
 | A long journey | 4.00% | ~349 |
@@ -19,13 +19,13 @@ Number of Ratings: 7,669  (23.09.2022)
 | Keep the doctor away | 3.00% | ~262 |
 | Surprise of Langhe | 3.00% | ~262 |
 | Famous | 3.00% | ~262 |
-| What is that? A castle? | 2.00% | ~174 |
-| A lot of space | 2.00% | ~174 |
-| A big garage | 2.00% | ~174 |
-| Millionaire | 2.00% | ~174 |
-| Exotic | 2.00% | ~174 |
-| Welcome to the club | 2.00% | ~174 |
-| Very Important Winemaker | 2.00% | ~174 |
+| What is that? A castle? | 2.00% | ~175 |
+| A lot of space | 2.00% | ~175 |
+| A big garage | 2.00% | ~175 |
+| Millionaire | 2.00% | ~175 |
+| Exotic | 2.00% | ~175 |
+| Welcome to the club | 2.00% | ~175 |
+| Very Important Winemaker | 2.00% | ~175 |
 | Pastry Chef | 1.00% | ~87 |
 | King of Langhe | 1.00% | ~87 |
 | Gem of Monferrato | 1.00% | ~87 |
@@ -38,7 +38,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Unsuitable Terroir | 0.20% | ~17 |
 | Master Winemaker | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,721 (Ranked 153)  
+Progressed: 8,726 (Ranked 153)  
 Completed: 8 (0.09%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,11 +94,11 @@ Completed: 8 (0.09%) (Ranked 255)
 | 2023-10-17 | 8,453 | 8 |
 | 2023-10-18 | 8,579 | 8 |
 | 2023-10-19 | 8,694 | 8 |
-| 2023-10-20 | 8,721 | 8 |
+| 2023-10-20 | 8,726 | 8 |
 ## Awards
 Max (Relaxing): 205  (Ranked 277)  
-Sum: 1,591 (Ranked 220)  
-Diff (max vs sum): 57  
+Sum: 1,591 (Ranked 221)  
+Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 205 |

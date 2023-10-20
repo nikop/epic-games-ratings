@@ -1,61 +1,61 @@
 # Saints Row IV Re-Elected
 [Store](https://store.epicgames.com/en-US/p/saints-row-iv-re-elected)  
 [View Rawdata](../../db/s/saints_row_iv_re-elected.json)  
-Rating: 4.40 (Ranked 725)  
+Rating: 4.40 (Ranked 724)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zero Saints Thirty | 63.00% | ~181,091 |
-| Destroyer-In-Chief | 57.00% | ~163,844 |
-| There Is No Pancakes | 54.00% | ~155,221 |
-| First of Many | 42.00% | ~120,727 |
-| Woah. | 37.00% | ~106,355 |
-| Don't Look Down | 29.00% | ~83,359 |
-| Don't Panic | 28.00% | ~80,485 |
-| Ooo A Piece of Candy! | 23.00% | ~66,113 |
-| Ghost in the Machine | 18.00% | ~51,740 |
-| All Too Easy | 15.00% | ~43,117 |
-| Didn't Need to See Him Naked | 14.00% | ~40,242 |
-| Indomitable | 10.00% | ~28,745 |
-| Blast from the Past | 9.00% | ~25,870 |
-| Bow to the Boss! | 9.00% | ~25,870 |
-| Friend of the Raptors | 9.00% | ~25,870 |
-| About Time! | 8.00% | ~22,996 |
-| Actor-Turned-Politician | 7.00% | ~20,121 |
-| Betrayed | 7.00% | ~20,121 |
-| Maximum Stopping Power | 7.00% | ~20,121 |
-| Poodle Skirt | 7.00% | ~20,121 |
-| You Chose... Poorly | 7.00% | ~20,121 |
-| Double Team | 6.00% | ~17,247 |
-| Keymaster | 6.00% | ~17,247 |
-| Imperator | 5.00% | ~14,372 |
-| *BEEP* YOU, CLAWZ! | 4.00% | ~11,498 |
-| Half Way Home | 4.00% | ~11,498 |
-| How It Should Be | 4.00% | ~11,498 |
-| Machine Man | 4.00% | ~11,498 |
-| The Full Kinzie | 4.00% | ~11,498 |
-| ...A Saint Gets a Gun | 3.00% | ~8,623 |
-| And I Ran... | 3.00% | ~8,623 |
-| Chill Out | 3.00% | ~8,623 |
-| Elementary | 3.00% | ~8,623 |
-| On Her Saint's Secret Service | 3.00% | ~8,623 |
-| Paranormal Bromance | 3.00% | ~8,623 |
-| Saints & Sensibility | 3.00% | ~8,623 |
-| The Two Shaundis | 3.00% | ~8,623 |
-| Benjamin [CENSORED] King | 2.00% | ~5,749 |
-| Better This Way | 2.00% | ~5,749 |
-| Bouncin' with an Old Friend | 2.00% | ~5,749 |
-| Our Gift to You | 2.00% | ~5,749 |
-| The Face of the Saints | 2.00% | ~5,749 |
-| The Twin Saints | 2.00% | ~5,749 |
-| Where's My Cape? | 2.00% | ~5,749 |
-| A Real Cluster.... | 1.00% | ~2,874 |
-| A Very Genki Holiday | 1.00% | ~2,874 |
-| Here! Catch! | 1.00% | ~2,874 |
-| Minty Fresh! | 1.00% | ~2,874 |
-| Switch Hitter | 1.00% | ~2,874 |
-| The Whole Story | 1.00% | ~2,874 |
-| Zoo Keeper | 1.00% | ~2,874 |
+| Zero Saints Thirty | 63.00% | ~181,110 |
+| Destroyer-In-Chief | 57.00% | ~163,861 |
+| There Is No Pancakes | 54.00% | ~155,237 |
+| First of Many | 42.00% | ~120,740 |
+| Woah. | 37.00% | ~106,366 |
+| Don't Look Down | 29.00% | ~83,368 |
+| Don't Panic | 28.00% | ~80,493 |
+| Ooo A Piece of Candy! | 23.00% | ~66,119 |
+| Ghost in the Machine | 18.00% | ~51,746 |
+| All Too Easy | 15.00% | ~43,121 |
+| Didn't Need to See Him Naked | 14.00% | ~40,247 |
+| Indomitable | 10.00% | ~28,748 |
+| Blast from the Past | 9.00% | ~25,873 |
+| Bow to the Boss! | 9.00% | ~25,873 |
+| Friend of the Raptors | 9.00% | ~25,873 |
+| About Time! | 8.00% | ~22,998 |
+| Actor-Turned-Politician | 7.00% | ~20,123 |
+| Betrayed | 7.00% | ~20,123 |
+| Maximum Stopping Power | 7.00% | ~20,123 |
+| Poodle Skirt | 7.00% | ~20,123 |
+| You Chose... Poorly | 7.00% | ~20,123 |
+| Double Team | 6.00% | ~17,249 |
+| Keymaster | 6.00% | ~17,249 |
+| Imperator | 5.00% | ~14,374 |
+| *BEEP* YOU, CLAWZ! | 4.00% | ~11,499 |
+| Half Way Home | 4.00% | ~11,499 |
+| How It Should Be | 4.00% | ~11,499 |
+| Machine Man | 4.00% | ~11,499 |
+| The Full Kinzie | 4.00% | ~11,499 |
+| ...A Saint Gets a Gun | 3.00% | ~8,624 |
+| And I Ran... | 3.00% | ~8,624 |
+| Chill Out | 3.00% | ~8,624 |
+| Elementary | 3.00% | ~8,624 |
+| On Her Saint's Secret Service | 3.00% | ~8,624 |
+| Paranormal Bromance | 3.00% | ~8,624 |
+| Saints & Sensibility | 3.00% | ~8,624 |
+| The Two Shaundis | 3.00% | ~8,624 |
+| Benjamin [CENSORED] King | 2.00% | ~5,750 |
+| Better This Way | 2.00% | ~5,750 |
+| Bouncin' with an Old Friend | 2.00% | ~5,750 |
+| Our Gift to You | 2.00% | ~5,750 |
+| The Face of the Saints | 2.00% | ~5,750 |
+| The Twin Saints | 2.00% | ~5,750 |
+| Where's My Cape? | 2.00% | ~5,750 |
+| A Real Cluster.... | 1.00% | ~2,875 |
+| A Very Genki Holiday | 1.00% | ~2,875 |
+| Here! Catch! | 1.00% | ~2,875 |
+| Minty Fresh! | 1.00% | ~2,875 |
+| Switch Hitter | 1.00% | ~2,875 |
+| The Whole Story | 1.00% | ~2,875 |
+| Zoo Keeper | 1.00% | ~2,875 |
 | Make a List, Check it Twice | 0.90% | ~2,587 |
 | Back in the Day | 0.70% | ~2,012 |
 | Dear Santa | 0.70% | ~2,012 |
@@ -78,7 +78,7 @@ Rating: 4.40 (Ranked 725)
 | Super Power Team Up! | 0.10% | ~287 |
 | Ultimate Hot Potato | 0.10% | ~287 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 287,446 (Ranked 48)  
+Progressed: 287,476 (Ranked 48)  
 Completed: 15 (0.01%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,7 +261,7 @@ Completed: 15 (0.01%) (Ranked 298)
 | 2023-10-17 | 286,309 | 15 |
 | 2023-10-18 | 286,777 | 15 |
 | 2023-10-19 | 287,265 | 15 |
-| 2023-10-20 | 287,446 | 15 |
+| 2023-10-20 | 287,476 | 15 |
 ## Awards
 Max (Great Boss Battles): 473  (Ranked 208)  
 Sum: 473 (Ranked 319)  

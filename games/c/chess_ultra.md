@@ -5,31 +5,31 @@ Rating: 4.29 (Ranked 824)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 70.00% | ~149,414 |
-| Doubled Pawn | 56.00% | ~119,531 |
-| Check | 55.00% | ~117,397 |
-| Absolute pin | 47.00% | ~100,321 |
-| Promotion | 31.00% | ~66,169 |
-| Checkmate | 30.00% | ~64,035 |
-| O-O | 24.00% | ~51,228 |
-| Spanish Bishop | 21.00% | ~44,824 |
-| Queen Sacrifice | 20.00% | ~42,690 |
-| Stalemate | 18.00% | ~38,421 |
-| O-O-O | 13.00% | ~27,748 |
-| Octopus | 13.00% | ~27,748 |
+| Chop Wood | 70.00% | ~149,418 |
+| Doubled Pawn | 56.00% | ~119,534 |
+| Check | 55.00% | ~117,400 |
+| Absolute pin | 47.00% | ~100,323 |
+| Promotion | 31.00% | ~66,171 |
+| Checkmate | 30.00% | ~64,036 |
+| O-O | 24.00% | ~51,229 |
+| Spanish Bishop | 21.00% | ~44,825 |
+| Queen Sacrifice | 20.00% | ~42,691 |
+| Stalemate | 18.00% | ~38,422 |
+| O-O-O | 13.00% | ~27,749 |
+| Octopus | 13.00% | ~27,749 |
 | Stranger Danger | 12.00% | ~25,614 |
-| En Passant | 9.00% | ~19,210 |
-| Double Check | 7.00% | ~14,941 |
+| En Passant | 9.00% | ~19,211 |
+| Double Check | 7.00% | ~14,942 |
 | Piece Collector | 6.00% | ~12,807 |
-| ELO | 5.00% | ~10,672 |
-| Family Fork | 5.00% | ~10,672 |
-| Friendly Fire | 5.00% | ~10,672 |
+| ELO | 5.00% | ~10,673 |
+| Family Fork | 5.00% | ~10,673 |
+| Friendly Fire | 5.00% | ~10,673 |
 | Underpromote | 4.00% | ~8,538 |
-| ELO ELO | 3.00% | ~6,403 |
-| Learner | 3.00% | ~6,403 |
+| ELO ELO | 3.00% | ~6,404 |
+| Learner | 3.00% | ~6,404 |
 | Blind Pigs | 2.00% | ~4,269 |
 | ELO ELO ELO | 2.00% | ~4,269 |
-| Bobby Time | 1.00% | ~2,134 |
+| Bobby Time | 1.00% | ~2,135 |
 | Back-rank Mate | 0.90% | ~1,921 |
 | Chess Champion | 0.30% | ~640 |
 | Alekhine’s gun | 0.20% | ~427 |
@@ -44,7 +44,7 @@ Rating: 4.29 (Ranked 824)
 | Tournament Master | 0.10% | ~213 |
 | Tournament Pro | 0.10% | ~213 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213,449 (Ranked 64)  
+Progressed: 213,454 (Ranked 64)  
 Completed: 2 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 2 (0.00%) (Ranked 316)
 | 2023-10-17 | 213,094 | 2 |
 | 2023-10-18 | 213,251 | 2 |
 | 2023-10-19 | 213,405 | 2 |
-| 2023-10-20 | 213,449 | 2 |
+| 2023-10-20 | 213,454 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

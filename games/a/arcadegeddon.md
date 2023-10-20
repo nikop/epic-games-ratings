@@ -6,34 +6,34 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 89.00% | ~8,322 |
-| Photogenic | 86.00% | ~8,041 |
-| Plug It In | 82.00% | ~7,667 |
-| Surge Gauntlet Jockey | 82.00% | ~7,667 |
-| Adventure Time | 78.00% | ~7,293 |
-| Playing With Power | 75.00% | ~7,012 |
-| Coup d'Etat | 58.00% | ~5,423 |
-| You're Fired | 56.00% | ~5,236 |
-| Get Furious | 55.00% | ~5,142 |
-| Gunplay And Cosplay | 54.00% | ~5,049 |
-| Hacks In Stacks | 54.00% | ~5,049 |
-| Meching Enemies | 48.00% | ~4,488 |
-| Ticket Toddler | 43.00% | ~4,020 |
-| Booty Bashing | 38.00% | ~3,553 |
+| Let's Get This Party Started | 89.00% | ~8,323 |
+| Photogenic | 86.00% | ~8,043 |
+| Plug It In | 82.00% | ~7,669 |
+| Surge Gauntlet Jockey | 82.00% | ~7,669 |
+| Adventure Time | 78.00% | ~7,295 |
+| Playing With Power | 75.00% | ~7,014 |
+| Coup d'Etat | 58.00% | ~5,424 |
+| You're Fired | 56.00% | ~5,237 |
+| Get Furious | 55.00% | ~5,144 |
+| Gunplay And Cosplay | 54.00% | ~5,050 |
+| Hacks In Stacks | 54.00% | ~5,050 |
+| Meching Enemies | 48.00% | ~4,489 |
+| Ticket Toddler | 43.00% | ~4,021 |
+| Booty Bashing | 38.00% | ~3,554 |
 | Field Medic | 37.00% | ~3,460 |
 | Here Comes a New Challenger | 37.00% | ~3,460 |
 | Rapid Response | 33.00% | ~3,086 |
-| Surge Ahead | 30.00% | ~2,805 |
-| The Full Monty | 30.00% | ~2,805 |
-| Guardian Angel | 27.00% | ~2,524 |
+| Surge Ahead | 30.00% | ~2,806 |
+| The Full Monty | 30.00% | ~2,806 |
+| Guardian Angel | 27.00% | ~2,525 |
 | Poppin Noggins | 24.00% | ~2,244 |
-| Clips and Crits | 19.00% | ~1,776 |
+| Clips and Crits | 19.00% | ~1,777 |
 | Grey Goo | 17.00% | ~1,590 |
-| Boss of Bosses | 15.00% | ~1,402 |
+| Boss of Bosses | 15.00% | ~1,403 |
 | The Final Blow | 14.00% | ~1,309 |
 | To Be Continued | 13.00% | ~1,216 |
-| Light My Fire | 11.00% | ~1,028 |
-| Seasoned Adventurer | 11.00% | ~1,028 |
+| Light My Fire | 11.00% | ~1,029 |
+| Seasoned Adventurer | 11.00% | ~1,029 |
 | 1.21 Gigawatts | 10.00% | ~935 |
 | Get In The Ring! | 9.00% | ~842 |
 | This Is My Boomstick! | 9.00% | ~842 |
@@ -46,8 +46,8 @@ Number of Ratings: 801  (23.09.2022)
 | No Chill | 4.00% | ~374 |
 | Start Your Collection | 4.00% | ~374 |
 | Team Player | 4.00% | ~374 |
-| Event Horizon | 3.00% | ~280 |
-| Treasure Hunting | 3.00% | ~280 |
+| Event Horizon | 3.00% | ~281 |
+| Treasure Hunting | 3.00% | ~281 |
 | Nexuwizard | 2.00% | ~187 |
 | Everybody Freeze | 1.00% | ~94 |
 | Nature Is Lit | 0.90% | ~84 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~37 |
 | Pyrotechnical | 0.20% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,350 (Ranked 152)  
+Progressed: 9,352 (Ranked 152)  
 Completed: 1 (0.01%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,6 +240,7 @@ Completed: 1 (0.01%) (Ranked 298)
 | 2023-10-17 | 9,335 | 1 |
 | 2023-10-18 | 9,342 | 1 |
 | 2023-10-19 | 9,350 | 1 |
+| 2023-10-20 | 9,352 | 1 |
 ## Awards
 Max (Relaxing): 64  (Ranked 399)  
 Sum: 463 (Ranked 321)  

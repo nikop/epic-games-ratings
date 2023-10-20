@@ -423,9 +423,9 @@
       "ID": "KR4_ACHIEVEMENT_ICESCULPTOR",
       "SetID": "caeik3h",
       "Name": "Ice sculptor",
-      "Percentage": 60,
+      "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "KR4_ACHIEVEMENT_INCREDIBLES",
@@ -751,9 +751,9 @@
       "ID": "KR4_ACHIEVEMENT_VERUK_MAX",
       "SetID": "caeik3h",
       "Name": "Champion Of The Arena",
-      "Percentage": 12,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "KR4_ACHIEVEMENT_WINTERLORD",
@@ -782,8 +782,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-10-20T09:06:41.5161273+00:00",
+  "LastChanged_Achievements": "2023-10-20T10:05:34.7865686+00:00",
   "LastUpdate_AppInfo": "2023-10-19T15:57:07.9737012+00:00",
-  "LastUpdate_Ratings": "2023-10-20T09:03:02.1078519+00:00",
-  "LastUpdate_Achievements": "2023-10-20T09:06:41.516214+00:00"
+  "LastUpdate_Ratings": "2023-10-20T10:01:00.3916453+00:00",
+  "LastUpdate_Achievements": "2023-10-20T10:05:34.7866679+00:00"
 }

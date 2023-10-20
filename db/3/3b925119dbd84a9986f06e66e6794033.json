@@ -222,9 +222,9 @@
       "ID": "TKO2_BEACH_LIFE",
       "SetID": "9j9h72e",
       "Name": "Tee K.O. 2: Life\u0027s A Beach",
-      "Percentage": 11,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "TKO2_DOMINO",
@@ -261,8 +261,8 @@
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-10-20T09:06:38.8289452+00:00",
+  "LastChanged_Achievements": "2023-10-20T10:05:32.875043+00:00",
   "LastUpdate_AppInfo": "2023-10-13T20:57:00.1112303+00:00",
-  "LastUpdate_Ratings": "2023-10-20T08:57:38.5071269+00:00",
-  "LastUpdate_Achievements": "2023-10-20T09:06:38.828964+00:00"
+  "LastUpdate_Ratings": "2023-10-20T09:57:28.5242374+00:00",
+  "LastUpdate_Achievements": "2023-10-20T10:05:32.8750615+00:00"
 }

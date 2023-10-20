@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 458,
   "Ranking_EOS_Completed": 101,
-  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_NewPlayers": 284,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -331,9 +331,9 @@
       "ID": "CompleteChapter4",
       "SetID": "52ail55",
       "Name": "Servant of the Blue Raven",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "CompleteChapter5",
@@ -473,8 +473,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-10-20T09:04:52.2103287+00:00",
+  "LastChanged_Achievements": "2023-10-20T10:04:14.4656442+00:00",
   "LastUpdate_AppInfo": "2023-10-20T05:57:01.1405668+00:00",
-  "LastUpdate_Ratings": "2023-10-20T08:58:53.8427834+00:00",
-  "LastUpdate_Achievements": "2023-10-20T09:04:52.2103619+00:00"
+  "LastUpdate_Ratings": "2023-10-20T09:58:20.7925785+00:00",
+  "LastUpdate_Achievements": "2023-10-20T10:04:14.4656751+00:00"
 }

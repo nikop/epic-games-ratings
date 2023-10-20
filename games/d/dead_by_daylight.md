@@ -6,44 +6,44 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 3.00% | ~28,545 |
-| No one left behind | 2.00% | ~19,030 |
-| Medic | 2.00% | ~19,030 |
-| Handyman | 2.00% | ~19,030 |
-| Zealous | 2.00% | ~19,030 |
-| Not half bad | 2.00% | ~19,030 |
-| Apt Survivor | 2.00% | ~19,030 |
-| Survival Treasures | 2.00% | ~19,030 |
-| Skillful | 2.00% | ~19,030 |
-| Sorted | 2.00% | ~19,030 |
-| Resurgence | 2.00% | ~19,030 |
-| Make Some Noise | 2.00% | ~19,030 |
-| The Grand Sacrifice | 1.00% | ~9,515 |
-| Agonizing Escape | 1.00% | ~9,515 |
-| Backdoor Escape | 1.00% | ~9,515 |
-| I've got your back | 1.00% | ~9,515 |
-| Nerves of steel | 1.00% | ~9,515 |
-| Perfect Escape | 1.00% | ~9,515 |
-| Perfect Killing | 1.00% | ~9,515 |
-| Bloody Millionaire | 1.00% | ~9,515 |
-| Apt Killer | 1.00% | ~9,515 |
-| Risk it all | 1.00% | ~9,515 |
-| I | 1.00% | ~9,515 |
-| II | 1.00% | ~9,515 |
-| Engineer | 1.00% | ~9,515 |
-| Wounded Healer | 1.00% | ~9,515 |
-| Healthy Obsession | 1.00% | ~9,515 |
-| Close Shave | 1.00% | ~9,515 |
-| Preemptive Strike | 1.00% | ~9,515 |
-| Humanitarian | 1.00% | ~9,515 |
+| It wakes | 3.00% | ~28,547 |
+| No one left behind | 2.00% | ~19,032 |
+| Medic | 2.00% | ~19,032 |
+| Handyman | 2.00% | ~19,032 |
+| Zealous | 2.00% | ~19,032 |
+| Not half bad | 2.00% | ~19,032 |
+| Apt Survivor | 2.00% | ~19,032 |
+| Survival Treasures | 2.00% | ~19,032 |
+| Skillful | 2.00% | ~19,032 |
+| Sorted | 2.00% | ~19,032 |
+| Resurgence | 2.00% | ~19,032 |
+| Make Some Noise | 2.00% | ~19,032 |
+| The Grand Sacrifice | 1.00% | ~9,516 |
+| Agonizing Escape | 1.00% | ~9,516 |
+| Backdoor Escape | 1.00% | ~9,516 |
+| I've got your back | 1.00% | ~9,516 |
+| Nerves of steel | 1.00% | ~9,516 |
+| Perfect Escape | 1.00% | ~9,516 |
+| Perfect Killing | 1.00% | ~9,516 |
+| Bloody Millionaire | 1.00% | ~9,516 |
+| Apt Killer | 1.00% | ~9,516 |
+| Risk it all | 1.00% | ~9,516 |
+| I | 1.00% | ~9,516 |
+| II | 1.00% | ~9,516 |
+| Engineer | 1.00% | ~9,516 |
+| Wounded Healer | 1.00% | ~9,516 |
+| Healthy Obsession | 1.00% | ~9,516 |
+| Close Shave | 1.00% | ~9,516 |
+| Preemptive Strike | 1.00% | ~9,516 |
+| Humanitarian | 1.00% | ~9,516 |
 | Vulture | 0.90% | ~8,564 |
 | III | 0.90% | ~8,564 |
 | Second Act | 0.90% | ~8,564 |
-| Escape Artist | 0.80% | ~7,612 |
-| First to the Punch | 0.80% | ~7,612 |
-| Every Last Drop | 0.80% | ~7,612 |
-| With Scars to Show | 0.80% | ~7,612 |
-| Rebuilding The Borgo | 0.80% | ~7,612 |
+| Escape Artist | 0.80% | ~7,613 |
+| First to the Punch | 0.80% | ~7,613 |
+| Every Last Drop | 0.80% | ~7,613 |
+| With Scars to Show | 0.80% | ~7,613 |
+| Rebuilding The Borgo | 0.80% | ~7,613 |
 | Blood on your hands | 0.70% | ~6,661 |
 | Made it out alive! | 0.70% | ~6,661 |
 | III-50 | 0.70% | ~6,661 |
@@ -99,6 +99,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Heavy Burden | 0.30% | ~2,855 |
 | I See You | 0.30% | ~2,855 |
 | Power Moves | 0.30% | ~2,855 |
+| Punch Drunk | 0.30% | ~2,855 |
 | Prowler | 0.30% | ~2,855 |
 | Triage | 0.30% | ~2,855 |
 | High Speed Pursuit | 0.30% | ~2,855 |
@@ -109,7 +110,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Dismantle | 0.20% | ~1,903 |
 | Denied! | 0.20% | ~1,903 |
 | Death of Ignorance | 0.20% | ~1,903 |
-| Punch Drunk | 0.20% | ~1,903 |
 | Viral Video | 0.20% | ~1,903 |
 | Ghost in the Machine | 0.20% | ~1,903 |
 | From the Deep | 0.20% | ~1,903 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~952 |
 | Adept Ripley | 0.10% | ~952 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 951,505 (Ranked 14)  
+Progressed: 951,578 (Ranked 14)  
 Completed: 52 (0.01%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -419,7 +419,7 @@ Completed: 52 (0.01%) (Ranked 298)
 | 2023-10-17 | 946,172 | 51 |
 | 2023-10-18 | 948,147 | 51 |
 | 2023-10-19 | 950,730 | 51 |
-| 2023-10-20 | 951,505 | 52 |
+| 2023-10-20 | 951,578 | 52 |
 ## Awards
 Max (Diverse Characters): 34,271  (Ranked 15)  
 Sum: 264,312 (Ranked 13)  

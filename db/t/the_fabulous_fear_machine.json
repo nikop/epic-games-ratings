@@ -4,7 +4,7 @@
   "ProductSlug": "the-fabulous-fear-machine-8e7c6b",
   "Ranking_EOS_Progress": 476,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewPlayers": 312,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-10-04T16:00:00+00:00",
@@ -427,9 +427,9 @@
       "ID": "38",
       "SetID": "d37idgg",
       "Name": "Pulp! True Adventures",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "39",
@@ -562,8 +562,8 @@
   ],
   "FirstSeen": "2023-10-04T21:00:27.0019409+00:00",
   "FirstSeenAchievements": "2023-09-01T11:02:14.7440084+00:00",
-  "LastChanged_Achievements": "2023-10-20T09:09:30.3104501+00:00",
+  "LastChanged_Achievements": "2023-10-20T10:09:07.066346+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:37.1787046+00:00",
-  "LastUpdate_Ratings": "2023-10-20T08:59:12.3310978+00:00",
-  "LastUpdate_Achievements": "2023-10-20T09:09:30.3104937+00:00"
+  "LastUpdate_Ratings": "2023-10-20T09:58:32.6062193+00:00",
+  "LastUpdate_Achievements": "2023-10-20T10:09:07.0663926+00:00"
 }

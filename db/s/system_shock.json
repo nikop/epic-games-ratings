@@ -2,7 +2,7 @@
   "ID": "e49aaa31c1324e398e0b1029a0c6d390",
   "Name": "System Shock",
   "ProductSlug": "system-shock",
-  "Ranking_Rating": 324,
+  "Ranking_Rating": 304,
   "Ranking_Popularity": 538,
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 588,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.64,
+  "Rating": 4.65,
   "RatingHistory": [
     {
       "Time": "2023-06-14T13:58:13.4205726+00:00",
@@ -131,6 +131,12 @@
     {
       "Time": "2023-09-06T05:58:52.4865487+00:00",
       "Rating": 4.64,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-10-20T09:58:30.8590262+00:00",
+      "Rating": 4.65,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -544,9 +550,9 @@
   "FirstSeen": "2023-05-30T18:57:52.7596476+00:00",
   "FirstSeenRating": "2023-06-14T13:58:13.4205723+00:00",
   "FirstSeenAchievements": "2023-05-26T00:04:35.1577542+00:00",
-  "LastChanged": "2023-09-06T05:58:52.4865486+00:00",
-  "LastChanged_Achievements": "2023-10-20T09:07:45.0864029+00:00",
+  "LastChanged": "2023-10-20T09:58:30.859026+00:00",
+  "LastChanged_Achievements": "2023-10-20T10:06:20.7086203+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:25.938088+00:00",
-  "LastUpdate_Ratings": "2023-10-20T08:59:08.6804838+00:00",
-  "LastUpdate_Achievements": "2023-10-20T09:07:45.0864443+00:00"
+  "LastUpdate_Ratings": "2023-10-20T09:58:30.8590266+00:00",
+  "LastUpdate_Achievements": "2023-10-20T10:06:20.7087011+00:00"
 }
