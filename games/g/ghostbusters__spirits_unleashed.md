@@ -33,8 +33,8 @@ Rating: 4.50 (Ranked 574)
 | Legions | 0.80% | ~213 |
 | Skilled | 0.80% | ~213 |
 | Stunner | 0.80% | ~213 |
+| We have the best insurance | 0.70% | ~187 |
 | Pesky Jerks | 0.70% | ~187 |
-| We have the best insurance | 0.60% | ~160 |
 | Diabolical | 0.60% | ~160 |
 | Rift Destroyer | 0.60% | ~160 |
 | Seasoned | 0.60% | ~160 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 574)
 | Mycophile | 0.10% | ~27 |
 | Ultimate Defense | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,668 (Ranked 118)  
+Progressed: 26,673 (Ranked 119)  
 Completed: 59 (0.22%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,16 +240,17 @@ Completed: 59 (0.22%) (Ranked 219)
 | 2023-10-17 | 26,559 | 58 |
 | 2023-10-18 | 26,596 | 59 |
 | 2023-10-19 | 26,668 | 59 |
+| 2023-10-20 | 26,673 | 59 |
 ## Awards
 Max (Great for Quick Sessions): 266  (Ranked 257)  
-Sum: 2,420 (Ranked 187)  
+Sum: 2,421 (Ranked 187)  
 Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 266 |
 | This game is Great for Beginners | 265 |
 | This game has Competitive Players | 244 |
-| This game has Amazing Storytelling | 241 |
+| This game has Amazing Storytelling | 242 |
 | This game is Extremely Fun | 240 |
 | This game has Diverse Characters | 239 |
 | This game is Relaxing | 238 |
@@ -447,3 +448,4 @@ Diff (max vs sum): 70
 | 2023-10-17 | 4.50 | 264 | 2,400 |
 | 2023-10-18 | 4.50 | 264 | 2,405 |
 | 2023-10-19 | 4.50 | 266 | 2,420 |
+| 2023-10-20 | 4.50 | 266 | 2,421 |

@@ -5,10 +5,10 @@
   "Ranking_Rating": 574,
   "Ranking_Popularity": 257,
   "Ranking_PopularitySum": 187,
-  "Ranking_EOS_Progress": 118,
+  "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 219,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2449,10 +2449,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2420,
       "NumberOfAwardsMax": 266
+    },
+    {
+      "Time": "2023-10-20T00:00:11.7622237+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2421,
+      "NumberOfAwardsMax": 266
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2420,
+  "NumberOfAwards": 2421,
   "NumberOfAwardsMax": 266,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2502,7 +2508,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 241
+      "Count": 242
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2529,9 +2535,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26668,
+  "EOS_Progressed": 26673,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 287,
+  "EOS_NewPlayers": 292,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -15489,6 +15495,11 @@
       "Time": "2023-10-19T23:04:57.9947201+00:00",
       "NumProgressed": 26668,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-10-20T00:04:16.0275623+00:00",
+      "NumProgressed": 26673,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 51,
@@ -15522,9 +15533,9 @@
       "ID": "Best_Insurance",
       "SetID": "819popo",
       "Name": "We have the best insurance",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 160
+      "UsersEstimate": 187
     },
     {
       "ID": "Catostrophic_Destroyer",
@@ -15907,16 +15918,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26668,
+      "Progressed": 26673,
       "Completed": 59
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-10-19T20:00:52.7351325+00:00",
-  "LastChanged_Achievements": "2023-10-19T23:04:57.9947196+00:00",
+  "LastChanged": "2023-10-20T00:00:11.7622234+00:00",
+  "LastChanged_Achievements": "2023-10-20T00:04:16.0275615+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:17.9420656+00:00",
-  "LastUpdate_Ratings": "2023-10-19T23:00:44.3901264+00:00",
-  "LastUpdate_Achievements": "2023-10-19T23:04:57.9948481+00:00"
+  "LastUpdate_Ratings": "2023-10-20T00:00:11.7622242+00:00",
+  "LastUpdate_Achievements": "2023-10-20T00:04:16.0277092+00:00"
 }

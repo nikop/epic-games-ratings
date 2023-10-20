@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 14625,
+  "EOS_Progressed": 14626,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 1828,
+  "EOS_NewPlayers": 1825,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -3458,6 +3458,11 @@
       "Time": "2023-10-19T21:05:10.9439605+00:00",
       "NumProgressed": 14625,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-10-20T00:04:35.42249+00:00",
+      "NumProgressed": 14626,
+      "NumCompleted": 64
     }
   ],
   "AchievementsAdded": "2023-09-20T21:06:26.7864758+00:00",
@@ -3470,7 +3475,7 @@
       "Name": "It Took Two",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 5996
+      "UsersEstimate": 5997
     },
     {
       "ID": "achievement_10",
@@ -3494,7 +3499,7 @@
       "Name": "On Rails Experience",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 8336
+      "UsersEstimate": 8337
     },
     {
       "ID": "achievement_13",
@@ -3518,7 +3523,7 @@
       "Name": "Lost And Found",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1462
+      "UsersEstimate": 1463
     },
     {
       "ID": "achievement_16",
@@ -3534,7 +3539,7 @@
       "Name": "Something Fishy",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1462
+      "UsersEstimate": 1463
     },
     {
       "ID": "achievement_18",
@@ -3574,7 +3579,7 @@
       "Name": "Fried Friendship",
       "Percentage": 87,
       "XP": 50,
-      "UsersEstimate": 12724
+      "UsersEstimate": 12725
     },
     {
       "ID": "achievement_4",
@@ -3582,7 +3587,7 @@
       "Name": "Struck A Pose",
       "Percentage": 88,
       "XP": 50,
-      "UsersEstimate": 12870
+      "UsersEstimate": 12871
     },
     {
       "ID": "achievement_5",
@@ -3622,20 +3627,20 @@
       "Name": "A Daring Devil",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 7605
+      "UsersEstimate": 7606
     }
   ],
   "AchievementSets": [
     {
       "ID": "2bk7oji",
       "IsBase": true,
-      "Progressed": 14625,
+      "Progressed": 14626,
       "Completed": 64
     }
   ],
   "FirstSeenAchievements": "2023-07-27T23:04:38.3880568+00:00",
-  "LastChanged_Achievements": "2023-10-19T23:05:18.6122279+00:00",
+  "LastChanged_Achievements": "2023-10-20T00:04:35.4224893+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:21.7081643+00:00",
-  "LastUpdate_Ratings": "2023-10-19T23:03:17.8279051+00:00",
-  "LastUpdate_Achievements": "2023-10-19T23:05:18.612256+00:00"
+  "LastUpdate_Ratings": "2023-10-20T00:02:14.281408+00:00",
+  "LastUpdate_Achievements": "2023-10-20T00:04:35.4225315+00:00"
 }

@@ -9,7 +9,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | The Shutdown | 66.00% | ~309,747 |
 | Jeef Skeejj | 44.00% | ~206,498 |
 | Careful planning | 39.00% | ~183,032 |
-| Second Coming | 34.00% | ~159,566 |
+| Second Coming | 34.00% | ~159,567 |
 | Jeef Skagg | 30.00% | ~140,794 |
 | Mother | 25.00% | ~117,328 |
 | In space, no one can hear you scream | 24.00% | ~112,635 |
@@ -20,8 +20,8 @@ Number of Ratings: 1,003  (23.09.2022)
 | May His passing cleanse the world | 15.00% | ~70,397 |
 | Chapter II: Fallible Flesh | 15.00% | ~70,397 |
 | Pope Zenon | 15.00% | ~70,397 |
-| Tetsuo | 11.00% | ~51,624 |
-| Plan for the worst | 11.00% | ~51,624 |
+| Tetsuo | 11.00% | ~51,625 |
+| Plan for the worst | 11.00% | ~51,625 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~46,931 |
 | Chapter IV: Through the Looking Glass | 8.00% | ~37,545 |
 | Through the mirror | 8.00% | ~37,545 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~13 |
 | Kronos Rule | 0.10% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 469,313 (Ranked 37)  
+Progressed: 469,314 (Ranked 37)  
 Completed: 19 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,6 +269,7 @@ Completed: 19 (0.00%) (Ranked 316)
 | 2023-10-17 | 469,214 | 19 |
 | 2023-10-18 | 469,270 | 19 |
 | 2023-10-19 | 469,313 | 19 |
+| 2023-10-20 | 469,314 | 19 |
 ## Awards
 Max (Character Customization): 221  (Ranked 269)  
 Sum: 242 (Ranked 370)  

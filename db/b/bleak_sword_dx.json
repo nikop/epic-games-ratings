@@ -4,7 +4,7 @@
   "ProductSlug": "bleak-sword-dx-5b2d4c",
   "Ranking_EOS_Progress": 683,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewPlayers": 408,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-06-08T17:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-12T00:01:42.0616924+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:23.3408371+00:00",
-  "LastUpdate_Ratings": "2023-10-19T22:57:34.5022632+00:00",
-  "LastUpdate_Achievements": "2023-10-19T23:06:32.062944+00:00"
+  "LastUpdate_Ratings": "2023-10-19T23:57:30.7149359+00:00",
+  "LastUpdate_Achievements": "2023-10-20T00:05:39.8437135+00:00"
 }

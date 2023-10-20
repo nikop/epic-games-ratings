@@ -30,7 +30,7 @@
 | A great audience | 3.00% | ~9 |
 | Fashion victim | 1.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 306 (Ranked 312)  
+Progressed: 306 (Ranked 313)  
 Completed: 20 (6.54%) (Ranked 51)  
 ## EOS Players History
 | Date | Progressed | Completed |

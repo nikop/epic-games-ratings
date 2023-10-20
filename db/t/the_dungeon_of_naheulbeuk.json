@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 326,
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewPlayers": 57,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1173,9 +1173,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 231827,
+  "EOS_Progressed": 231836,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 1451,
+  "EOS_NewPlayers": 1453,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15328,6 +15328,11 @@
       "Time": "2023-10-19T23:09:36.9075279+00:00",
       "NumProgressed": 231827,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-20T00:08:37.4553633+00:00",
+      "NumProgressed": 231836,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 88,
@@ -15387,7 +15392,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11591
+      "UsersEstimate": 11592
     },
     {
       "ID": "Chapter2",
@@ -15459,7 +15464,7 @@
       "Name": "Friendly fire",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "CompanionMinstrel",
@@ -15467,7 +15472,7 @@
       "Name": "I\u0027d rather... Just... Sing!",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "CompanionNone",
@@ -15787,7 +15792,7 @@
       "Name": "Sowwy!",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 76503
+      "UsersEstimate": 76506
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -15835,7 +15840,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 16228
+      "UsersEstimate": 16229
     },
     {
       "ID": "FollowBraztok",
@@ -15867,7 +15872,7 @@
       "Name": "Dead for good",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2086
+      "UsersEstimate": 2087
     },
     {
       "ID": "KillGolbargh",
@@ -15915,7 +15920,7 @@
       "Name": "Inception",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "PriestessEpic",
@@ -16027,7 +16032,7 @@
       "Name": "Material Girl",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2086
+      "UsersEstimate": 2087
     },
     {
       "ID": "WizardResistBurn",
@@ -16042,21 +16047,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 231827,
+      "Progressed": 231836,
       "Completed": 6
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 231827,
+      "Progressed": 231836,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-10-15T22:57:47.2240798+00:00",
-  "LastChanged_Achievements": "2023-10-19T23:09:36.9075274+00:00",
+  "LastChanged_Achievements": "2023-10-20T00:08:37.4553626+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:06.1366459+00:00",
-  "LastUpdate_Ratings": "2023-10-19T22:59:18.1243545+00:00",
-  "LastUpdate_Achievements": "2023-10-19T23:09:36.9077162+00:00"
+  "LastUpdate_Ratings": "2023-10-19T23:58:59.0207347+00:00",
+  "LastUpdate_Achievements": "2023-10-20T00:08:37.4555602+00:00"
 }

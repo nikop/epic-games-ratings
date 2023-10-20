@@ -10,13 +10,13 @@ Rating: 4.76 (Ranked 119)
 | Troll with the Punches | 13.00% | ~38,816 |
 | A Keen Sense of Spell | 12.00% | ~35,830 |
 | That's a Keeper | 12.00% | ~35,830 |
-| Grappling with a Graphorn | 11.00% | ~32,844 |
-| The One Who Mastered Memories | 11.00% | ~32,844 |
-| The Hallowed Hero | 11.00% | ~32,844 |
-| The Defender of Dragons | 11.00% | ~32,844 |
-| Loom for Improvement | 11.00% | ~32,844 |
-| A Talent for Spending | 11.00% | ~32,844 |
-| Coasting Along | 11.00% | ~32,844 |
+| Grappling with a Graphorn | 11.00% | ~32,845 |
+| The One Who Mastered Memories | 11.00% | ~32,845 |
+| The Hallowed Hero | 11.00% | ~32,845 |
+| The Defender of Dragons | 11.00% | ~32,845 |
+| Loom for Improvement | 11.00% | ~32,845 |
+| A Talent for Spending | 11.00% | ~32,845 |
+| Coasting Along | 11.00% | ~32,845 |
 | The Hero of Hogwarts | 10.00% | ~29,859 |
 | Challenge Accepted | 10.00% | ~29,859 |
 | Followed the Butterflies | 10.00% | ~29,859 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 119)
 | The Nature of the Beast | 0.70% | ~2,090 |
 | Collector's Edition | 0.30% | ~896 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,586 (Ranked 47)  
+Progressed: 298,587 (Ranked 47)  
 Completed: 489 (0.16%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,9 +234,10 @@ Completed: 489 (0.16%) (Ranked 233)
 | 2023-10-17 | 298,513 | 488 |
 | 2023-10-18 | 298,550 | 488 |
 | 2023-10-19 | 298,586 | 489 |
+| 2023-10-20 | 298,587 | 489 |
 ## Awards
 Max (Character Customization): 23,644  (Ranked 17)  
-Sum: 46,210 (Ranked 30)  
+Sum: 46,213 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -244,7 +245,7 @@ Diff (max vs sum): -13
 | This game has Great Boss Battles | 11,835 |
 | This game is Great for Beginners | 1,197 |
 | This game has Amazing Storytelling | 1,166 |
-| This game has Diverse Characters | 1,156 |
+| This game has Diverse Characters | 1,159 |
 | This game is Extremely Fun | 1,150 |
 | This game is Relaxing | 1,148 |
 | This game has Amazing Characters | 1,113 |
@@ -464,4 +465,4 @@ Diff (max vs sum): -13
 | 2023-10-16 | 4.76 | 23,559 | 45,997 |
 | 2023-10-17 | 4.76 | 23,586 | 46,073 |
 | 2023-10-18 | 4.76 | 23,620 | 46,145 |
-| 2023-10-19 | 4.76 | 23,644 | 46,210 |
+| 2023-10-19 | 4.76 | 23,644 | 46,213 |

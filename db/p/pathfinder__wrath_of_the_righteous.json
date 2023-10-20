@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 115,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3959,9 +3959,9 @@
       "Count": 389
     }
   ],
-  "EOS_Progressed": 11606,
+  "EOS_Progressed": 11609,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13809,6 +13809,11 @@
       "Time": "2023-10-19T23:09:56.6178509+00:00",
       "NumProgressed": 11606,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-20T00:09:15.0707276+00:00",
+      "NumProgressed": 11609,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -13828,7 +13833,7 @@
       "Name": "Burning City",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1973
+      "UsersEstimate": 1974
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -13844,7 +13849,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 928
+      "UsersEstimate": 929
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -13852,7 +13857,7 @@
       "Name": "Embrace of the Abyss",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "06_HeartOfFallenLand",
@@ -13876,7 +13881,7 @@
       "Name": "Path of the Angel",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "09_PathOfDemon",
@@ -14188,7 +14193,7 @@
       "Name": "A Spark",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2089
+      "UsersEstimate": 2090
     },
     {
       "ID": "49_Flame",
@@ -14212,7 +14217,7 @@
       "Name": "Demonic and Divine",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "52_TrulyImportantDeed",
@@ -14747,21 +14752,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10388,
+      "Progressed": 10391,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11606,
+      "Progressed": 11609,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-10-19T21:58:16.2788454+00:00",
-  "LastChanged_Achievements": "2023-10-19T23:09:56.6178503+00:00",
+  "LastChanged_Achievements": "2023-10-20T00:09:15.0707254+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:48.4782392+00:00",
-  "LastUpdate_Ratings": "2023-10-19T22:58:29.7181037+00:00",
-  "LastUpdate_Achievements": "2023-10-19T23:09:56.6180823+00:00"
+  "LastUpdate_Ratings": "2023-10-19T23:58:16.3937186+00:00",
+  "LastUpdate_Achievements": "2023-10-20T00:09:15.0710756+00:00"
 }

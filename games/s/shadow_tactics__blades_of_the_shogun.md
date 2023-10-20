@@ -7,8 +7,8 @@ Number of Ratings: 495  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Genin | 12.00% | ~25,047 |
-| A thief's beginning | 10.00% | ~20,872 |
-| Thorough | 10.00% | ~20,872 |
+| A thief's beginning | 10.00% | ~20,873 |
+| Thorough | 10.00% | ~20,873 |
 | Disguised | 9.00% | ~18,785 |
 | Rollin' | 9.00% | ~18,785 |
 | Rescue Takuma | 8.00% | ~16,698 |
@@ -18,10 +18,10 @@ Number of Ratings: 495  (23.09.2022)
 | Jonin | 7.00% | ~14,611 |
 | Stoned Ox | 7.00% | ~14,611 |
 | Yabu | 7.00% | ~14,611 |
-| Chunin | 6.00% | ~12,523 |
-| Flying Rocks | 6.00% | ~12,523 |
-| Mugen Unchained | 6.00% | ~12,523 |
-| Warzone | 6.00% | ~12,523 |
+| Chunin | 6.00% | ~12,524 |
+| Flying Rocks | 6.00% | ~12,524 |
+| Mugen Unchained | 6.00% | ~12,524 |
+| Warzone | 6.00% | ~12,524 |
 | Okkoto | 5.00% | ~10,436 |
 | Prisoners | 5.00% | ~10,436 |
 | Too Early | 5.00% | ~10,436 |
@@ -31,11 +31,11 @@ Number of Ratings: 495  (23.09.2022)
 | Noboru | 3.00% | ~6,262 |
 | Stoned | 3.00% | ~6,262 |
 | The Old Way | 3.00% | ~6,262 |
-| Atheist Ox | 2.00% | ~4,174 |
-| It's raining men | 2.00% | ~4,174 |
-| No Gimmicks | 2.00% | ~4,174 |
-| Old Man | 2.00% | ~4,174 |
-| Winner Winner | 2.00% | ~4,174 |
+| Atheist Ox | 2.00% | ~4,175 |
+| It's raining men | 2.00% | ~4,175 |
+| No Gimmicks | 2.00% | ~4,175 |
+| Old Man | 2.00% | ~4,175 |
+| Winner Winner | 2.00% | ~4,175 |
 | Meticulous | 1.00% | ~2,087 |
 | The End | 1.00% | ~2,087 |
 | Undeserved Honor | 1.00% | ~2,087 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~209 |
 | Release the Kraken | 0.10% | ~209 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 208,723 (Ranked 65)  
+Progressed: 208,726 (Ranked 65)  
 Completed: 91 (0.04%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,6 +234,7 @@ Completed: 91 (0.04%) (Ranked 279)
 | 2023-10-17 | 208,416 | 91 |
 | 2023-10-18 | 208,553 | 91 |
 | 2023-10-19 | 208,723 | 91 |
+| 2023-10-20 | 208,726 | 91 |
 ## Awards
 Max (Great for Beginners): 567  (Ranked 196)  
 Sum: 4,796 (Ranked 138)  

@@ -4,7 +4,7 @@
   "ProductSlug": "terrorbane-437dd3",
   "Ranking_EOS_Progress": 453,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewPlayers": 408,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-04-01T00:00:00+00:00",
@@ -314,8 +314,8 @@
   "FirstSeenRating": "2023-04-02T01:58:31.1782551+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:15.1891477+00:00",
   "LastChanged": "2023-04-02T01:58:31.1782553+00:00",
-  "LastChanged_Achievements": "2023-10-19T23:06:52.0164138+00:00",
+  "LastChanged_Achievements": "2023-10-20T00:05:57.7420223+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:18.210492+00:00",
-  "LastUpdate_Ratings": "2023-10-19T23:03:34.786586+00:00",
-  "LastUpdate_Achievements": "2023-10-19T23:06:52.0164375+00:00"
+  "LastUpdate_Ratings": "2023-10-20T00:02:30.8572165+00:00",
+  "LastUpdate_Achievements": "2023-10-20T00:05:57.7420422+00:00"
 }

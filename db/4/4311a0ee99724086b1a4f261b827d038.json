@@ -3,11 +3,11 @@
   "Name": "Homeworld Remastered Collection",
   "ProductSlug": "homeworld-remastered-collection",
   "Ranking_Rating": 494,
-  "Ranking_Popularity": 485,
+  "Ranking_Popularity": 486,
   "Ranking_PopularitySum": 420,
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 57,
+  "Ranking_EOS_NewPlayers": 58,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
@@ -437,9 +437,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 227176,
+  "EOS_Progressed": 227181,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1452,
+  "EOS_NewPlayers": 1451,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10507,6 +10507,11 @@
       "Time": "2023-10-19T23:07:34.1875018+00:00",
       "NumProgressed": 227176,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-20T00:06:34.6375189+00:00",
+      "NumProgressed": 227181,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -10575,7 +10580,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 47707
+      "UsersEstimate": 47708
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -10703,7 +10708,7 @@
       "Name": "Tanis Completed",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 29533
+      "UsersEstimate": 29534
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -10711,7 +10716,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 15902
+      "UsersEstimate": 15903
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -10775,7 +10780,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 56794
+      "UsersEstimate": 56795
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -10790,7 +10795,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 227176,
+      "Progressed": 227181,
       "Completed": 0
     }
   ],
@@ -10798,8 +10803,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-10-19T11:57:22.5712142+00:00",
-  "LastChanged_Achievements": "2023-10-19T23:07:34.1875013+00:00",
-  "LastUpdate_AppInfo": "2023-10-12T22:57:12.5355858+00:00",
-  "LastUpdate_Ratings": "2023-10-19T22:57:18.7603098+00:00",
-  "LastUpdate_Achievements": "2023-10-19T23:07:34.1875666+00:00"
+  "LastChanged_Achievements": "2023-10-20T00:06:34.6375177+00:00",
+  "LastUpdate_AppInfo": "2023-10-19T23:57:01.7865039+00:00",
+  "LastUpdate_Ratings": "2023-10-19T23:57:17.7067733+00:00",
+  "LastUpdate_Achievements": "2023-10-20T00:06:34.6376096+00:00"
 }

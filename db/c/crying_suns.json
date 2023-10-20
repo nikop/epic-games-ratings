@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -625,9 +625,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 469313,
+  "EOS_Progressed": 469314,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 366,
+  "EOS_NewPlayers": 367,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19700,6 +19700,11 @@
       "Time": "2023-10-19T22:09:35.7815525+00:00",
       "NumProgressed": 469313,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-10-20T00:09:06.5637744+00:00",
+      "NumProgressed": 469314,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 79,
@@ -19863,7 +19868,7 @@
       "Name": "Tetsuo",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51624
+      "UsersEstimate": 51625
     },
     {
       "ID": "achievement_story_meet_vivar",
@@ -19895,7 +19900,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 159566
+      "UsersEstimate": 159567
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -20159,7 +20164,7 @@
       "Name": "Plan for the worst",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51624
+      "UsersEstimate": 51625
     },
     {
       "ID": "achievement_win_expedition_without_monster_noloss",
@@ -20342,21 +20347,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 13247,
+      "Progressed": 13248,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 469313,
+      "Progressed": 469314,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-10-10T01:42:39.6470224+00:00",
-  "LastChanged_Achievements": "2023-10-19T23:09:47.2374639+00:00",
+  "LastChanged_Achievements": "2023-10-20T00:09:06.5637738+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:23.4157652+00:00",
-  "LastUpdate_Ratings": "2023-10-19T22:59:52.7866713+00:00",
-  "LastUpdate_Achievements": "2023-10-19T23:09:47.2377211+00:00"
+  "LastUpdate_Ratings": "2023-10-19T23:59:28.8399956+00:00",
+  "LastUpdate_Achievements": "2023-10-20T00:09:06.5639949+00:00"
 }

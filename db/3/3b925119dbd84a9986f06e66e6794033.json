@@ -2,9 +2,9 @@
   "ID": "3b925119dbd84a9986f06e66e6794033",
   "Name": "The Jackbox Party Pack 10",
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
-  "Ranking_EOS_Progress": 505,
+  "Ranking_EOS_Progress": 485,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17,
+  "EOS_Progressed": 23,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -44,6 +44,11 @@
       "Time": "2023-10-19T23:05:38.6000994+00:00",
       "NumProgressed": 17,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-20T00:04:52.7591165+00:00",
+      "NumProgressed": 23,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -54,7 +59,7 @@
       "ID": "DODO_RE_MI_NOON_LIGHT",
       "SetID": "9j9h72e",
       "Name": "Dodo Re Mi: Noonlight Sonata",
-      "Percentage": 18,
+      "Percentage": 13,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -62,7 +67,7 @@
       "ID": "DODO_RE_MI_PAPER_BLADDER",
       "SetID": "9j9h72e",
       "Name": "Dodo Re Mi: Paper Bladder",
-      "Percentage": 24,
+      "Percentage": 17,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -70,7 +75,7 @@
       "ID": "DODO_RE_MI_SAX_FAMILY",
       "SetID": "9j9h72e",
       "Name": "Dodo Re Mi: It\u0027s About Family",
-      "Percentage": 6,
+      "Percentage": 4,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -78,7 +83,7 @@
       "ID": "DODO_RE_MI_SURVIVED_TUTORIAL",
       "SetID": "9j9h72e",
       "Name": "Dodo Re Mi: Beginner\u2019s Pluck",
-      "Percentage": 24,
+      "Percentage": 17,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -86,7 +91,7 @@
       "ID": "HYPNO_CORRECT_GROUP",
       "SetID": "9j9h72e",
       "Name": "Hypnotorious: Brainiacs",
-      "Percentage": 24,
+      "Percentage": 17,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -94,7 +99,7 @@
       "ID": "HYPNO_OUTLIER_ID",
       "SetID": "9j9h72e",
       "Name": "Hypnotorious: Self Aware",
-      "Percentage": 12,
+      "Percentage": 9,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -102,7 +107,7 @@
       "ID": "HYPNO_OUTLIER_ONLY_ID",
       "SetID": "9j9h72e",
       "Name": "Hypnotorious: Galaxy Brain",
-      "Percentage": 12,
+      "Percentage": 9,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -110,7 +115,7 @@
       "ID": "HYPNO_UNANIMOUS_OUTLIER",
       "SetID": "9j9h72e",
       "Name": "Hypnotorious: Masterminds",
-      "Percentage": 12,
+      "Percentage": 9,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -118,7 +123,7 @@
       "ID": "RISKYTEXT_BOOST_VOTE",
       "SetID": "9j9h72e",
       "Name": "FixyText: Pump It Up",
-      "Percentage": 24,
+      "Percentage": 17,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -126,7 +131,7 @@
       "ID": "RISKYTEXT_ONE_WORD_GETS_VOTES_FROM_ALL_VOTING_PLAYERS",
       "SetID": "9j9h72e",
       "Name": "FixyText: Bestseller",
-      "Percentage": 24,
+      "Percentage": 17,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -134,7 +139,7 @@
       "ID": "RISKYTEXT_PLAY_ALL_CATEGORIES",
       "SetID": "9j9h72e",
       "Name": "FixyText: Chatterbox",
-      "Percentage": 29,
+      "Percentage": 22,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -142,15 +147,15 @@
       "ID": "RISKYTEXT_VOTE_FOR_EDITED_WORD",
       "SetID": "9j9h72e",
       "Name": "FixyText: Co-author",
-      "Percentage": 24,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "TIME_JINX",
       "SetID": "9j9h72e",
       "Name": "Timejinx: Timejinx",
-      "Percentage": 41,
+      "Percentage": 30,
       "XP": 50,
       "UsersEstimate": 7
     },
@@ -158,7 +163,7 @@
       "ID": "TIME_ORWELL",
       "SetID": "9j9h72e",
       "Name": "Timejinx: Did You Even Read the Book?!",
-      "Percentage": 6,
+      "Percentage": 4,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -166,7 +171,7 @@
       "ID": "TIME_PERFECT_DATE",
       "SetID": "9j9h72e",
       "Name": "Timejinx: The Perfect Date",
-      "Percentage": 29,
+      "Percentage": 22,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -174,7 +179,7 @@
       "ID": "TIME_PERFECT_GUEST",
       "SetID": "9j9h72e",
       "Name": "Timejinx: The Perfect Guest",
-      "Percentage": 12,
+      "Percentage": 9,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -182,7 +187,7 @@
       "ID": "TKO2_BEACH_LIFE",
       "SetID": "9j9h72e",
       "Name": "Tee K.O. 2: Life\u0027s A Beach",
-      "Percentage": 18,
+      "Percentage": 13,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -190,7 +195,7 @@
       "ID": "TKO2_DOMINO",
       "SetID": "9j9h72e",
       "Name": "Tee K.O. 2: Domino",
-      "Percentage": 12,
+      "Percentage": 9,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -198,7 +203,7 @@
       "ID": "TKO2_DRAGONS_FAVORITE",
       "SetID": "9j9h72e",
       "Name": "Tee K.O. 2: Dragon\u2019s Favorite",
-      "Percentage": 18,
+      "Percentage": 13,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -206,23 +211,23 @@
       "ID": "TKO2_NOT_HERE",
       "SetID": "9j9h72e",
       "Name": "Tee K.O. 2: I Wasn\u2019t Supposed To Be Here",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 17,
+      "Progressed": 23,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-10-19T23:05:38.6000988+00:00",
+  "LastChanged_Achievements": "2023-10-20T00:04:52.7591159+00:00",
   "LastUpdate_AppInfo": "2023-10-13T20:57:00.1112303+00:00",
   "LastUpdate_Ratings": "2023-10-19T23:03:35.2707468+00:00",
-  "LastUpdate_Achievements": "2023-10-19T23:05:38.6001118+00:00"
+  "LastUpdate_Achievements": "2023-10-20T00:04:52.759132+00:00"
 }

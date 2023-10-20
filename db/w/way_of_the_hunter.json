@@ -4,10 +4,10 @@
   "ProductSlug": "way-of-the-hunter",
   "Ranking_Rating": 754,
   "Ranking_Popularity": 416,
-  "Ranking_PopularitySum": 351,
+  "Ranking_PopularitySum": 350,
   "Ranking_EOS_Progress": 683,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewPlayers": 408,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-08-22T17:00:00+00:00",
@@ -1127,10 +1127,16 @@
       "Rating": 4.37,
       "NumberOfAwards": 295,
       "NumberOfAwardsMax": 50
+    },
+    {
+      "Time": "2023-10-19T23:59:09.5655916+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 296,
+      "NumberOfAwardsMax": 50
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 295,
+  "NumberOfAwards": 296,
   "NumberOfAwardsMax": 50,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1162,7 +1168,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 40
+      "Count": 41
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1225,8 +1231,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-22T17:32:55.4881061+00:00",
   "FirstSeenRating": "2022-08-25T19:31:36.42786+00:00",
-  "LastChanged": "2023-10-19T17:00:03.5875998+00:00",
+  "LastChanged": "2023-10-19T23:59:09.5655914+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:08.6025709+00:00",
-  "LastUpdate_Ratings": "2023-10-19T22:59:31.2593207+00:00",
-  "LastUpdate_Achievements": "2023-10-19T23:09:28.0825139+00:00"
+  "LastUpdate_Ratings": "2023-10-19T23:59:09.565592+00:00",
+  "LastUpdate_Achievements": "2023-10-20T00:08:29.6529151+00:00"
 }

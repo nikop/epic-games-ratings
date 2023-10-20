@@ -5,20 +5,20 @@ Rating: 4.18 (Ranked 902)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The touch of Chaos | 38.00% | ~106,766 |
-| May the Torchbearer light our way | 36.00% | ~101,147 |
-| A powerful aura was here | 23.00% | ~64,622 |
-| Let's raise the stakes!! | 10.00% | ~28,096 |
-| Your wounds… They are healing so fast! | 6.00% | ~16,858 |
-| Rumors are true | 5.00% | ~14,048 |
-| Pride is a sin, young Knight | 5.00% | ~14,048 |
-| Bring it on! | 5.00% | ~14,048 |
-| We'll be careful | 4.00% | ~11,239 |
-| Back to your senses | 3.00% | ~8,429 |
-| They tricked me | 2.00% | ~5,619 |
-| We need to talk | 2.00% | ~5,619 |
-| They won't last long | 2.00% | ~5,619 |
-| I took a risk | 2.00% | ~5,619 |
+| The touch of Chaos | 38.00% | ~106,791 |
+| May the Torchbearer light our way | 36.00% | ~101,171 |
+| A powerful aura was here | 23.00% | ~64,637 |
+| Let's raise the stakes!! | 10.00% | ~28,103 |
+| Your wounds… They are healing so fast! | 6.00% | ~16,862 |
+| Rumors are true | 5.00% | ~14,052 |
+| Pride is a sin, young Knight | 5.00% | ~14,052 |
+| Bring it on! | 5.00% | ~14,052 |
+| We'll be careful | 4.00% | ~11,241 |
+| Back to your senses | 3.00% | ~8,431 |
+| They tricked me | 2.00% | ~5,621 |
+| We need to talk | 2.00% | ~5,621 |
+| They won't last long | 2.00% | ~5,621 |
+| I took a risk | 2.00% | ~5,621 |
 | I feel drawn to it | 1.00% | ~2,810 |
 | Here to stay | 1.00% | ~2,810 |
 | Counting on you | 1.00% | ~2,810 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 902)
 | We strike as one | 0.10% | ~281 |
 | Chaos be damned! | 0.10% | ~281 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 280,964 (Ranked 49)  
+Progressed: 281,030 (Ranked 49)  
 Completed: 1 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,6 +73,7 @@ Completed: 1 (0.00%) (Ranked 316)
 | 2023-10-17 | 278,045 | 1 |
 | 2023-10-18 | 279,492 | 1 |
 | 2023-10-19 | 280,964 | 1 |
+| 2023-10-20 | 281,030 | 1 |
 ## Awards
 Max (Great Boss Battles): 33  (Ranked 468)  
 Sum: 33 (Ranked 493)  

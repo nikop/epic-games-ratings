@@ -5,27 +5,27 @@ Rating: 4.48 (Ranked 609)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~148,452 |
-| FIRST BLOOD | 40.00% | ~131,957 |
-| KEVIN! | 30.00% | ~98,968 |
-| JACK OF ALL TRADES | 23.00% | ~75,875 |
-| CRIMINAL | 20.00% | ~65,979 |
-| GRANDMA WOULD BE PROUD | 11.00% | ~36,288 |
-| WITHOUT BREAKING A SWEAT | 9.00% | ~29,690 |
-| HONORS STUDENT | 8.00% | ~26,391 |
-| BUTCHER | 5.00% | ~16,495 |
-| RAMBO | 5.00% | ~16,495 |
-| HELL'S KITCHEN | 4.00% | ~13,196 |
-| INDIVIDUAL APPROACH | 4.00% | ~13,196 |
-| CELEBRITY | 3.00% | ~9,897 |
-| MARTYR | 3.00% | ~9,897 |
-| GRATITUDE | 2.00% | ~6,598 |
-| PATTY-KILLER | 1.00% | ~3,299 |
-| PRUDENT | 1.00% | ~3,299 |
-| GOURMET | 0.90% | ~2,969 |
-| EXPERIMENTALIST | 0.80% | ~2,639 |
-| LAW-ABIDING CITIZEN | 0.80% | ~2,639 |
-| SCATTERBRAIN | 0.50% | ~1,649 |
+| MASTER CHEF | 45.00% | ~148,494 |
+| FIRST BLOOD | 40.00% | ~131,994 |
+| KEVIN! | 30.00% | ~98,996 |
+| JACK OF ALL TRADES | 23.00% | ~75,897 |
+| CRIMINAL | 20.00% | ~65,997 |
+| GRANDMA WOULD BE PROUD | 11.00% | ~36,298 |
+| WITHOUT BREAKING A SWEAT | 9.00% | ~29,699 |
+| HONORS STUDENT | 8.00% | ~26,399 |
+| BUTCHER | 5.00% | ~16,499 |
+| RAMBO | 5.00% | ~16,499 |
+| HELL'S KITCHEN | 4.00% | ~13,199 |
+| INDIVIDUAL APPROACH | 4.00% | ~13,199 |
+| CELEBRITY | 3.00% | ~9,900 |
+| MARTYR | 3.00% | ~9,900 |
+| GRATITUDE | 2.00% | ~6,600 |
+| PATTY-KILLER | 1.00% | ~3,300 |
+| PRUDENT | 1.00% | ~3,300 |
+| GOURMET | 0.90% | ~2,970 |
+| EXPERIMENTALIST | 0.80% | ~2,640 |
+| LAW-ABIDING CITIZEN | 0.80% | ~2,640 |
+| SCATTERBRAIN | 0.50% | ~1,650 |
 | HIGH TECHNOLOGIES | 0.40% | ~1,320 |
 | TASTE UNTASTY | 0.40% | ~1,320 |
 | CORRUPTIONIST | 0.10% | ~330 |
@@ -34,7 +34,7 @@ Rating: 4.48 (Ranked 609)
 | MISTER ALL THUMBS | 0.10% | ~330 |
 | TRAVELER | 0.10% | ~330 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 329,893 (Ranked 45)  
+Progressed: 329,986 (Ranked 45)  
 Completed: 14 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,6 +144,7 @@ Completed: 14 (0.00%) (Ranked 316)
 | 2023-10-17 | 325,069 | 14 |
 | 2023-10-18 | 327,541 | 14 |
 | 2023-10-19 | 329,893 | 14 |
+| 2023-10-20 | 329,986 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
