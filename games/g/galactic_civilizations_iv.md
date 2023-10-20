@@ -6,34 +6,34 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 78.00% | ~5,401 |
-| Worker Specialization | 78.00% | ~5,401 |
-| First Contact | 73.00% | ~5,055 |
-| Win a Battle | 66.00% | ~4,570 |
-| Anomaly Researcher | 62.00% | ~4,293 |
-| Unleash My Power | 61.00% | ~4,224 |
-| Own 30 Planets | 33.00% | ~2,285 |
-| Xenocide | 32.00% | ~2,216 |
-| Design a Civilization | 31.00% | ~2,146 |
-| Commodity Trader | 30.00% | ~2,077 |
-| Design a Ship | 28.00% | ~1,939 |
-| Commodity Seller | 25.00% | ~1,731 |
-| Prestige Victory! | 14.00% | ~969 |
+| Colonize a Planet | 78.00% | ~5,403 |
+| Worker Specialization | 78.00% | ~5,403 |
+| First Contact | 73.00% | ~5,057 |
+| Win a Battle | 66.00% | ~4,572 |
+| Anomaly Researcher | 62.00% | ~4,295 |
+| Unleash My Power | 61.00% | ~4,225 |
+| Own 30 Planets | 33.00% | ~2,286 |
+| Xenocide | 32.00% | ~2,217 |
+| Design a Civilization | 31.00% | ~2,147 |
+| Commodity Trader | 30.00% | ~2,078 |
+| Design a Ship | 28.00% | ~1,940 |
+| Commodity Seller | 25.00% | ~1,732 |
+| Prestige Victory! | 14.00% | ~970 |
 | Galactic War | 11.00% | ~762 |
 | Trading Partner | 9.00% | ~623 |
 | Fleet Victory | 8.00% | ~554 |
 | Win as Terrans | 7.00% | ~485 |
-| Gain an Ally | 6.00% | ~415 |
-| War with the Unknown | 6.00% | ~415 |
-| Win with a Custom Faction | 6.00% | ~415 |
+| Gain an Ally | 6.00% | ~416 |
+| War with the Unknown | 6.00% | ~416 |
+| Win with a Custom Faction | 6.00% | ~416 |
 | Win Quickly | 5.00% | ~346 |
 | Conquest Victory! | 4.00% | ~277 |
 | Pirate Cleansing | 3.00% | ~208 |
 | Win an Immense Game | 3.00% | ~208 |
-| Artifact Mastery | 2.00% | ~138 |
-| Win as Altarians | 2.00% | ~138 |
-| Win as the Yor | 2.00% | ~138 |
-| Influence Victory! | 2.00% | ~138 |
+| Artifact Mastery | 2.00% | ~139 |
+| Win as Altarians | 2.00% | ~139 |
+| Win as the Yor | 2.00% | ~139 |
+| Influence Victory! | 2.00% | ~139 |
 | Win as Arceans | 1.00% | ~69 |
 | Win as the Baratak | 1.00% | ~69 |
 | Win as Festron | 1.00% | ~69 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,924 (Ranked 164)  
+Progressed: 6,927 (Ranked 163)  
 Completed: 0 (0.00%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,11 +262,11 @@ Completed: 0 (0.00%) (Ranked 317)
 | 2023-10-17 | 6,850 | 0 |
 | 2023-10-18 | 6,860 | 0 |
 | 2023-10-19 | 6,878 | 0 |
-| 2023-10-20 | 6,924 | 0 |
+| 2023-10-20 | 6,927 | 0 |
 ## Awards
 Max (Diverse Characters): 94  (Ranked 359)  
-Sum: 681 (Ranked 288)  
-Diff (max vs sum): 71  
+Sum: 681 (Ranked 289)  
+Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 94 |

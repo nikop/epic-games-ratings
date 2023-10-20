@@ -4,8 +4,8 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 46,
-  "Ranking_EOS_NewPlayers": 294,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -1963,9 +1963,9 @@
       "ID": "AmanitaRun",
       "SetID": "db30heh",
       "Name": "Wild Run",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 228
+      "UsersEstimate": 233
     },
     {
       "ID": "BasiliskBroom",
@@ -2267,9 +2267,9 @@
       "ID": "RogueRum",
       "SetID": "db30heh",
       "Name": "In Good Spirits",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 397
+      "UsersEstimate": 402
     },
     {
       "ID": "SleepingBasiliskAmanita",
@@ -2330,8 +2330,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-10-20T22:06:02.0159709+00:00",
+  "LastChanged_Achievements": "2023-10-20T23:05:45.7449236+00:00",
   "LastUpdate_AppInfo": "2023-10-17T21:57:14.1155127+00:00",
-  "LastUpdate_Ratings": "2023-10-20T21:59:00.470601+00:00",
-  "LastUpdate_Achievements": "2023-10-20T22:06:02.0160185+00:00"
+  "LastUpdate_Ratings": "2023-10-20T22:58:57.0403561+00:00",
+  "LastUpdate_Achievements": "2023-10-20T23:05:45.7449821+00:00"
 }

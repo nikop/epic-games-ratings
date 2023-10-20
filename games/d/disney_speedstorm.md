@@ -5,17 +5,17 @@ Rating: 4.40 (Ranked 723)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 5.00% | ~12,031 |
-| IT MAKES BOOM! | 3.00% | ~7,218 |
-| EXTRA BOOST | 2.00% | ~4,812 |
-| PROTECTED | 2.00% | ~4,812 |
-| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,406 |
-| AGGRESSIVE RACER | 1.00% | ~2,406 |
-| PRO | 1.00% | ~2,406 |
-| A TIGER'S FEAR | 0.90% | ~2,166 |
-| ACE SPEEDSTER | 0.50% | ~1,203 |
-| IT'S A LONG WAY TO THE TOP | 0.40% | ~962 |
-| DEFEAT OUR CHAMPION | 0.40% | ~962 |
+| ROOKIE | 5.00% | ~12,039 |
+| IT MAKES BOOM! | 3.00% | ~7,223 |
+| EXTRA BOOST | 2.00% | ~4,816 |
+| PROTECTED | 2.00% | ~4,816 |
+| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,408 |
+| AGGRESSIVE RACER | 1.00% | ~2,408 |
+| PRO | 1.00% | ~2,408 |
+| A TIGER'S FEAR | 0.90% | ~2,167 |
+| ACE SPEEDSTER | 0.50% | ~1,204 |
+| IT'S A LONG WAY TO THE TOP | 0.40% | ~963 |
+| DEFEAT OUR CHAMPION | 0.40% | ~963 |
 | TRAINING HARD | 0.30% | ~722 |
 | RELEASE THE KRAKEN | 0.30% | ~722 |
 | BE OUR GUEST | 0.30% | ~722 |
@@ -25,12 +25,12 @@ Rating: 4.40 (Ranked 723)
 | FRIENDLY | 0.30% | ~722 |
 | MASTER | 0.30% | ~722 |
 | LEGENDARY HERO | 0.30% | ~722 |
-| PERFECTLY POISED | 0.20% | ~481 |
-| EXPERIENCED CREW | 0.20% | ~481 |
-| ACE TRICKSTER | 0.20% | ~481 |
+| PERFECTLY POISED | 0.20% | ~482 |
+| EXPERIENCED CREW | 0.20% | ~482 |
+| ACE TRICKSTER | 0.20% | ~482 |
 | FRAMED! | 0.10% | ~241 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,615 (Ranked 56)  
+Progressed: 240,782 (Ranked 56)  
 Completed: 236 (0.10%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,11 +209,11 @@ Completed: 236 (0.10%) (Ranked 250)
 | 2023-10-17 | 232,528 | 235 |
 | 2023-10-18 | 235,284 | 235 |
 | 2023-10-19 | 237,962 | 235 |
-| 2023-10-20 | 240,615 | 236 |
+| 2023-10-20 | 240,782 | 236 |
 ## Awards
-Max (Diverse Characters): 32  (Ranked 472)  
+Max (Diverse Characters): 32  (Ranked 471)  
 Sum: 131 (Ranked 419)  
-Diff (max vs sum): 53  
+Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 32 |

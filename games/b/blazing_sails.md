@@ -3,9 +3,9 @@
 [View Rawdata](../../db/b/blazing_sails.json)  
 Rating: 3.80 (Ranked 1,009)  
 ## Awards
-Max (Amazing Characters): 33  (Ranked 468)  
+Max (Amazing Characters): 33  (Ranked 467)  
 Sum: 137 (Ranked 415)  
-Diff (max vs sum): 53  
+Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Characters | 33 |

@@ -4,8 +4,8 @@
   "ProductSlug": "the-last-three-50d8e0",
   "Ranking_EOS_Progress": 687,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 402,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 403,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-15T14:57:01.0476783+00:00",
-  "LastUpdate_Ratings": "2023-10-20T21:57:21.0855321+00:00",
-  "LastUpdate_Achievements": "2023-10-20T22:10:04.5212451+00:00"
+  "LastUpdate_Ratings": "2023-10-20T22:57:20.8271594+00:00",
+  "LastUpdate_Achievements": "2023-10-20T23:09:45.3984792+00:00"
 }

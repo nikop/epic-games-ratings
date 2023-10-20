@@ -20,11 +20,11 @@
 | An expert mediator | 27.00% | ~6 |
 | Betty Allen | 27.00% | ~6 |
 | DI Hardwicke | 27.00% | ~6 |
-| The Investigation Begins | 23.00% | ~5 |
-| An odd series of events | 14.00% | ~3 |
-| Ms. Camilla B. Culsham | 14.00% | ~3 |
-| Irene Court-Smyth | 14.00% | ~3 |
-| The Apartment | 14.00% | ~3 |
+| The Investigation Begins | 27.00% | ~6 |
+| An odd series of events | 18.00% | ~4 |
+| Ms. Camilla B. Culsham | 18.00% | ~4 |
+| Irene Court-Smyth | 18.00% | ~4 |
+| The Apartment | 18.00% | ~4 |
 | Well-acquainted | 9.00% | ~2 |
 | Truth from within | 9.00% | ~2 |
 | A rude awakening | 9.00% | ~2 |

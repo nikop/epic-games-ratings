@@ -3,12 +3,12 @@
   "Name": "Ghostbusters: Spirits Unleashed Ecto Edition",
   "ProductSlug": "ghostbusters-spirits-unleashed",
   "Ranking_Rating": 576,
-  "Ranking_Popularity": 257,
+  "Ranking_Popularity": 254,
   "Ranking_PopularitySum": 187,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2485,12 +2485,18 @@
       "Rating": 4.5,
       "NumberOfAwards": 2435,
       "NumberOfAwardsMax": 268
+    },
+    {
+      "Time": "2023-10-20T23:02:52.0626782+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2442,
+      "NumberOfAwardsMax": 273
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2435,
-  "NumberOfAwardsMax": 268,
-  "MaxAwardTitle": "Great for Beginners",
+  "NumberOfAwards": 2442,
+  "NumberOfAwardsMax": 273,
+  "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
@@ -2514,7 +2520,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 266
+      "Count": 273
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2565,9 +2571,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26819,
+  "EOS_Progressed": 26825,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 407,
+  "EOS_NewPlayers": 411,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -15635,6 +15641,11 @@
       "Time": "2023-10-20T22:06:19.2483631+00:00",
       "NumProgressed": 26819,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-10-20T23:06:03.0057583+00:00",
+      "NumProgressed": 26825,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 51,
@@ -16053,16 +16064,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26819,
+      "Progressed": 26825,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-10-20T22:03:11.4695392+00:00",
-  "LastChanged_Achievements": "2023-10-20T22:06:19.2483627+00:00",
+  "LastChanged": "2023-10-20T23:02:52.0626781+00:00",
+  "LastChanged_Achievements": "2023-10-20T23:06:03.0057578+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:17.9420656+00:00",
-  "LastUpdate_Ratings": "2023-10-20T22:03:11.4695398+00:00",
-  "LastUpdate_Achievements": "2023-10-20T22:06:19.248596+00:00"
+  "LastUpdate_Ratings": "2023-10-20T23:02:52.0626787+00:00",
+  "LastUpdate_Achievements": "2023-10-20T23:06:03.005887+00:00"
 }

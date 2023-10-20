@@ -33,8 +33,8 @@
 | Head Hunter | 44.00% | ~333 |
 | Sentinel Ally | 43.00% | ~326 |
 | Scholar | 43.00% | ~326 |
+| Operative | 42.00% | ~318 |
 | Veteran | 41.00% | ~310 |
-| Operative | 41.00% | ~310 |
 | The Professor | 40.00% | ~303 |
 | Power Full | 40.00% | ~303 |
 | The Archangel | 39.00% | ~295 |
@@ -81,9 +81,9 @@
 | World Shaker | 26.00% | ~197 |
 | Weapon Specialist | 25.00% | ~189 |
 | Liberator | 25.00% | ~189 |
+| Pathfinder | 24.00% | ~182 |
 | Tunnel Rat | 24.00% | ~182 |
 | Savior | 23.00% | ~174 |
-| Pathfinder | 23.00% | ~174 |
 | Arbiter | 23.00% | ~174 |
 | Lost and Found | 23.00% | ~174 |
 | Paramour II | 22.00% | ~167 |
@@ -132,7 +132,7 @@
 | Insanity III | 1.00% | ~8 |
 | The One and Only | 0.70% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 757 (Ranked 252)  
+Progressed: 757 (Ranked 253)  
 Completed: 0 (0.00%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |

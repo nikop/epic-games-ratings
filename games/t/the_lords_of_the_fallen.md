@@ -1,11 +1,11 @@
 # Lords of the Fallen
 [Store](https://store.epicgames.com/en-US/p/lords-of-the-fallen)  
 [View Rawdata](../../db/t/the_lords_of_the_fallen.json)  
-Rating: 4.23 (Ranked 871)  
+Rating: 4.24 (Ranked 861)  
 ## Awards
-Max (Character Customization): 42  (Ranked 437)  
-Sum: 62 (Ranked 464)  
-Diff (max vs sum): -27  
+Max (Great Boss Battles): 20  (Ranked 530)  
+Sum: 20 (Ranked 531)  
+Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 42 |

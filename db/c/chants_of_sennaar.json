@@ -4,8 +4,8 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 309,
+  "EOS_Progressed": 310,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6.47,
+  "EOS_Completed_Percentage": 6.45,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1450,6 +1450,11 @@
       "Time": "2023-10-20T15:07:18.7772305+00:00",
       "NumProgressed": 309,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-10-20T23:07:48.5572045+00:00",
+      "NumProgressed": 310,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 25,
@@ -1507,9 +1512,9 @@
       "ID": "META_RESULT_1-2",
       "SetID": "2gma9an",
       "Name": "Open door",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 16
     },
     {
       "ID": "META_RESULT_1-3",
@@ -1517,7 +1522,7 @@
       "Name": "Free at last",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "META_RESULT_1-4",
@@ -1565,7 +1570,7 @@
       "Name": "Rascal",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -1619,9 +1624,9 @@
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 46
     },
     {
       "ID": "PROGRESS_N2",
@@ -1660,14 +1665,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 309,
+      "Progressed": 310,
       "Completed": 20
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-20T22:08:06.0498815+00:00",
+  "LastChanged_Achievements": "2023-10-20T23:07:48.5572039+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:19.4856723+00:00",
-  "LastUpdate_Ratings": "2023-10-20T22:01:49.0741536+00:00",
-  "LastUpdate_Achievements": "2023-10-20T22:08:06.0499085+00:00"
+  "LastUpdate_Ratings": "2023-10-20T23:01:28.8843435+00:00",
+  "LastUpdate_Achievements": "2023-10-20T23:07:48.5572369+00:00"
 }

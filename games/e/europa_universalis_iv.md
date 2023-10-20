@@ -6,22 +6,22 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,418 |
-| Until death do us apart | 4.00% | ~17,418 |
-| Victorious! | 4.00% | ~17,418 |
-| That is mine! | 3.00% | ~13,064 |
-| Brothers in Arms | 2.00% | ~8,709 |
-| Cold War | 2.00% | ~8,709 |
-| For the Glory | 2.00% | ~8,709 |
-| That's a Grand Navy | 2.00% | ~8,709 |
-| Seriously?! | 2.00% | ~8,709 |
+| That's a Grand Army | 4.00% | ~17,419 |
+| Until death do us apart | 4.00% | ~17,419 |
+| Victorious! | 4.00% | ~17,419 |
+| That is mine! | 3.00% | ~13,065 |
+| Brothers in Arms | 2.00% | ~8,710 |
+| Cold War | 2.00% | ~8,710 |
+| For the Glory | 2.00% | ~8,710 |
+| That's a Grand Navy | 2.00% | ~8,710 |
+| Seriously?! | 2.00% | ~8,710 |
 | Defender of the Faith | 1.00% | ~4,355 |
+| It's all about luck | 1.00% | ~4,355 |
 | It's all about the money | 1.00% | ~4,355 |
 | Respected | 1.00% | ~4,355 |
 | The Princess is in this Castle | 1.00% | ~4,355 |
 | True Catholic | 1.00% | ~4,355 |
 | Truly Divine Ruler | 1.00% | ~4,355 |
-| It's all about luck | 0.90% | ~3,919 |
 | Blockader | 0.80% | ~3,484 |
 | Double the Love | 0.80% | ~3,484 |
 | Royal Authority | 0.80% | ~3,484 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 435,458 (Ranked 40)  
+Progressed: 435,486 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -544,10 +544,10 @@ Completed: 1 (0.00%) (Ranked 317)
 | 2023-10-17 | 433,352 | 1 |
 | 2023-10-18 | 433,999 | 1 |
 | 2023-10-19 | 434,645 | 1 |
-| 2023-10-20 | 435,458 | 1 |
+| 2023-10-20 | 435,486 | 1 |
 ## Awards
 Max (Educational): 6,599  (Ranked 55)  
-Sum: 54,274 (Ranked 24)  
+Sum: 54,282 (Ranked 24)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
@@ -555,7 +555,7 @@ Diff (max vs sum): 31
 | This game is Highly Recommended | 6,294 |
 | This game has Diverse Characters | 6,277 |
 | This game has Challenging Combat | 6,244 |
-| This game is Extremely Fun | 6,221 |
+| This game is Extremely Fun | 6,229 |
 | This game is Relaxing | 6,070 |
 | This game has Competitive Players | 5,930 |
 | This game has Amazing Storytelling | 5,531 |
@@ -840,4 +840,4 @@ Diff (max vs sum): 31
 | 2023-10-17 | 4.69 | - | 6,571 | 53,991 |
 | 2023-10-18 | 4.69 | - | 6,571 | 54,079 |
 | 2023-10-19 | 4.69 | - | 6,587 | 54,183 |
-| 2023-10-20 | 4.69 | - | 6,599 | 54,274 |
+| 2023-10-20 | 4.69 | - | 6,599 | 54,282 |

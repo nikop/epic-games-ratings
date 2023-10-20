@@ -6,19 +6,19 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 75.00% | ~4,711 |
-| Having A Field Day | 75.00% | ~4,711 |
-| Reap What You Sow | 72.00% | ~4,522 |
-| The First Day | 69.00% | ~4,334 |
-| Green Thumb | 67.00% | ~4,208 |
-| Novice Researcher | 67.00% | ~4,208 |
+| Get A Room | 75.00% | ~4,712 |
+| Having A Field Day | 75.00% | ~4,712 |
+| Reap What You Sow | 72.00% | ~4,523 |
+| The First Day | 69.00% | ~4,335 |
+| Green Thumb | 67.00% | ~4,209 |
+| Novice Researcher | 67.00% | ~4,209 |
 | Home Cooked Meal | 59.00% | ~3,706 |
-| Onward | 57.00% | ~3,580 |
+| Onward | 57.00% | ~3,581 |
 | The First Week | 55.00% | ~3,455 |
-| Beam Me Up | 52.00% | ~3,266 |
-| Putting Food on the Table | 52.00% | ~3,266 |
-| Studious Researcher | 52.00% | ~3,266 |
-| Adept Researcher | 45.00% | ~2,826 |
+| Beam Me Up | 52.00% | ~3,267 |
+| Putting Food on the Table | 52.00% | ~3,267 |
+| Studious Researcher | 52.00% | ~3,267 |
+| Adept Researcher | 45.00% | ~2,827 |
 | Retribution | 42.00% | ~2,638 |
 | Feast or Famine | 42.00% | ~2,638 |
 | ...And Don’t Come Back! | 42.00% | ~2,638 |
@@ -26,19 +26,19 @@ Number of Ratings: 706  (23.09.2022)
 | Luminary Researcher | 32.00% | ~2,010 |
 | Heating Up | 31.00% | ~1,947 |
 | Winter Is Coming | 28.00% | ~1,759 |
-| Winter Is Here | 24.00% | ~1,507 |
+| Winter Is Here | 24.00% | ~1,508 |
 | Disassembled | 22.00% | ~1,382 |
 | A Party Now | 21.00% | ~1,319 |
 | Oh Deer! | 21.00% | ~1,319 |
 | All Year Round | 21.00% | ~1,319 |
 | Nothing Wasted | 13.00% | ~817 |
 | Don't Cry Wolf | 13.00% | ~817 |
-| Deerly Departed | 8.00% | ~502 |
+| Deerly Departed | 8.00% | ~503 |
 | Where Wolf? | 5.00% | ~314 |
 | Food Chain | 2.00% | ~126 |
 | Wabbit Season | 0.50% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,281 (Ranked 168)  
+Progressed: 6,282 (Ranked 168)  
 Completed: 14 (0.22%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,11 +200,11 @@ Completed: 14 (0.22%) (Ranked 218)
 | 2023-10-17 | 6,246 | 14 |
 | 2023-10-18 | 6,260 | 14 |
 | 2023-10-19 | 6,266 | 14 |
-| 2023-10-20 | 6,281 | 14 |
+| 2023-10-20 | 6,282 | 14 |
 ## Awards
-Max (Relaxing): 123  (Ranked 324)  
+Max (Relaxing): 123  (Ranked 325)  
 Sum: 997 (Ranked 250)  
-Diff (max vs sum): 74  
+Diff (max vs sum): 75  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 123 |

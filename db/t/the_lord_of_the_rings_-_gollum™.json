@@ -4,8 +4,8 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 294,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 287,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
     "PcReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -23,9 +23,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 533,
+  "EOS_Progressed": 534,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -1303,6 +1303,11 @@
       "Time": "2023-10-20T19:04:11.4336803+00:00",
       "NumProgressed": 533,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-20T23:04:37.9000975+00:00",
+      "NumProgressed": 534,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1416,9 +1421,9 @@
       "ID": "Collectibles1",
       "SetID": "70l3651",
       "Name": "Collectibles Part 1",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 278
     },
     {
       "ID": "Collectibles2",
@@ -1466,13 +1471,13 @@
       "Name": "Like Flying...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "GollumChoices",
       "SetID": "70l3651",
       "Name": "We wants it! We needs it",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 90,
       "UsersEstimate": 4
     },
@@ -1601,14 +1606,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 533,
+      "Progressed": 534,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-10-20T22:04:53.6004841+00:00",
+  "LastChanged_Achievements": "2023-10-20T23:04:37.9000971+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:54.5145948+00:00",
-  "LastUpdate_Ratings": "2023-10-20T22:03:13.5371206+00:00",
-  "LastUpdate_Achievements": "2023-10-20T22:04:53.6005185+00:00"
+  "LastUpdate_Ratings": "2023-10-20T23:02:53.3696927+00:00",
+  "LastUpdate_Achievements": "2023-10-20T23:04:37.9001379+00:00"
 }

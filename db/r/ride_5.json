@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 317,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1579,
+  "EOS_Progressed": 1580,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3192,6 +3192,11 @@
       "Time": "2023-10-20T22:10:22.1581442+00:00",
       "NumProgressed": 1579,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-20T23:10:13.0178298+00:00",
+      "NumProgressed": 1580,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -3202,9 +3207,9 @@
       "ID": "ML_ACHIEVEMENT_01",
       "SetID": "c7hf6a4",
       "Name": "First Love",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 663
+      "UsersEstimate": 679
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -3220,7 +3225,7 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -3380,7 +3385,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -3490,9 +3495,9 @@
       "ID": "ML_ACHIEVEMENT_37",
       "SetID": "c7hf6a4",
       "Name": "Bitter Rivalry",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 395
+      "UsersEstimate": 411
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -3500,7 +3505,7 @@
       "Name": "Eat My Dust",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -3514,9 +3519,9 @@
       "ID": "ML_ACHIEVEMENT_40",
       "SetID": "c7hf6a4",
       "Name": "Rounding Off",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 47
     },
     {
       "ID": "ML_ACHIEVEMENT_41",
@@ -3595,14 +3600,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1579,
+      "Progressed": 1580,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-20T22:10:22.1581437+00:00",
+  "LastChanged_Achievements": "2023-10-20T23:10:13.0178293+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:05.5662527+00:00",
-  "LastUpdate_Ratings": "2023-10-20T22:01:17.7327323+00:00",
-  "LastUpdate_Achievements": "2023-10-20T22:10:22.1582338+00:00"
+  "LastUpdate_Ratings": "2023-10-20T23:01:03.0542655+00:00",
+  "LastUpdate_Achievements": "2023-10-20T23:10:13.0179068+00:00"
 }

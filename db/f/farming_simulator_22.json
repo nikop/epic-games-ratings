@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 299,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -10338,9 +10338,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 50239,
+  "EOS_Progressed": 50240,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 377,
+  "EOS_NewPlayers": 373,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -26778,6 +26778,11 @@
       "Time": "2023-10-20T22:10:11.5862308+00:00",
       "NumProgressed": 50239,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-20T23:10:02.2470887+00:00",
+      "NumProgressed": 50240,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -26869,7 +26874,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 32153
+      "UsersEstimate": 32154
     },
     {
       "ID": "CutTree",
@@ -26925,7 +26930,7 @@
       "Name": "Plant get enough",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 30143
+      "UsersEstimate": 30144
     },
     {
       "ID": "Harvested",
@@ -26941,7 +26946,7 @@
       "Name": "Own use",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 37679
+      "UsersEstimate": 37680
     },
     {
       "ID": "HorseJumps",
@@ -27021,7 +27026,7 @@
       "Name": "All out of Land",
       "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 22105
+      "UsersEstimate": 22106
     },
     {
       "ID": "NumProductionPoints",
@@ -27061,7 +27066,7 @@
       "Name": "It\u0027s just the beginning",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 29641
+      "UsersEstimate": 29642
     },
     {
       "ID": "Sow",
@@ -27093,7 +27098,7 @@
       "Name": "Field Trip",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 22105
+      "UsersEstimate": 22106
     },
     {
       "ID": "TruckDriving",
@@ -27132,15 +27137,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 50239,
+      "Progressed": 50240,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-10-20T22:03:10.2701862+00:00",
-  "LastChanged_Achievements": "2023-10-20T22:10:11.5862303+00:00",
+  "LastChanged_Achievements": "2023-10-20T23:10:02.2470882+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:17.6227562+00:00",
-  "LastUpdate_Ratings": "2023-10-20T22:03:10.270187+00:00",
-  "LastUpdate_Achievements": "2023-10-20T22:10:11.5864249+00:00"
+  "LastUpdate_Ratings": "2023-10-20T23:02:51.0762414+00:00",
+  "LastUpdate_Achievements": "2023-10-20T23:10:02.2472533+00:00"
 }

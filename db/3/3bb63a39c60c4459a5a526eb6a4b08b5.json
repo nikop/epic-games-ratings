@@ -4,8 +4,8 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 832,
+  "EOS_Progressed": 833,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -3094,6 +3094,11 @@
       "Time": "2023-10-20T16:07:05.7406329+00:00",
       "NumProgressed": 832,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-20T23:07:43.4433182+00:00",
+      "NumProgressed": 833,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -3143,9 +3148,9 @@
       "ID": "Calculated",
       "SetID": "1e89b4i",
       "Name": "Calculated",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 158
+      "UsersEstimate": 150
     },
     {
       "ID": "Close",
@@ -3153,7 +3158,7 @@
       "Name": "That Was Close!",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "Creator",
@@ -3201,7 +3206,7 @@
       "Name": "Game Started",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "FullCompletion",
@@ -3305,7 +3310,7 @@
       "Name": "New Record",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "NoTimeForModernization",
@@ -3417,7 +3422,7 @@
       "Name": "Ten!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "TimeForManagement",
@@ -3440,14 +3445,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 832,
+      "Progressed": 833,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-10-20T22:08:00.9568451+00:00",
+  "LastChanged_Achievements": "2023-10-20T23:07:43.4433178+00:00",
   "LastUpdate_AppInfo": "2023-10-17T13:57:19.6755888+00:00",
-  "LastUpdate_Ratings": "2023-10-20T21:57:31.0460271+00:00",
-  "LastUpdate_Achievements": "2023-10-20T22:08:00.9569055+00:00"
+  "LastUpdate_Ratings": "2023-10-20T22:57:32.1842849+00:00",
+  "LastUpdate_Achievements": "2023-10-20T23:07:43.4433714+00:00"
 }

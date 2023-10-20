@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~680 |
-| Off to a good start | 68.00% | ~514 |
-| Do... or do not. There is no try | 52.00% | ~393 |
-| A good blaster at your side | 34.00% | ~257 |
-| Scrap collector | 20.00% | ~151 |
+| New Recruit | 90.00% | ~682 |
+| Off to a good start | 68.00% | ~515 |
+| Do... or do not. There is no try | 52.00% | ~394 |
+| A good blaster at your side | 34.00% | ~258 |
+| Scrap collector | 20.00% | ~152 |
 | I suggest a new strategy | 19.00% | ~144 |
 | All right, I'll give it a try | 18.00% | ~136 |
 | Great shot, kid! | 18.00% | ~136 |
 | Shoot first | 17.00% | ~129 |
 | The power of the Force | 16.00% | ~121 |
 | Together we can rule the galaxy | 16.00% | ~121 |
-| Collector | 15.00% | ~113 |
+| Collector | 15.00% | ~114 |
 | Tell Jabba that I've got his money | 11.00% | ~83 |
 | Best star-pilot in the galaxy | 11.00% | ~83 |
 | Survivor | 11.00% | ~83 |
 | Never tell me the odds! | 10.00% | ~76 |
 | A cunning warrior | 10.00% | ~76 |
 | What's the cargo? | 9.00% | ~68 |
-| "Gonk? Gonk!" | 8.00% | ~60 |
-| Impressive. Most impressive. | 8.00% | ~60 |
-| Judge me by my size, do you? | 8.00% | ~60 |
+| "Gonk? Gonk!" | 8.00% | ~61 |
+| Impressive. Most impressive. | 8.00% | ~61 |
+| Judge me by my size, do you? | 8.00% | ~61 |
 | Distinguished | 7.00% | ~53 |
 | A tremor in the Force | 7.00% | ~53 |
 | Support the troops | 7.00% | ~53 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.30% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 756 (Ranked 253)  
+Progressed: 758 (Ranked 252)  
 Completed: 1 (0.13%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 1 (0.13%) (Ranked 238)
 | 2023-10-17 | 715 | 1 |
 | 2023-10-18 | 730 | 1 |
 | 2023-10-19 | 739 | 1 |
-| 2023-10-20 | 756 | 1 |
+| 2023-10-20 | 758 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,31 +1,31 @@
 # while True: learn()
 [Store](https://store.epicgames.com/en-US/p/while-true-learn)  
 [View Rawdata](../../db/w/while_true__learn().json)  
-Rating: 4.51 (Ranked 553)  
+Rating: 4.51 (Ranked 554)  
 Number of Ratings: 896  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 93.00% | ~564,995 |
-| Error: Stack Overflow | 66.00% | ~400,964 |
-| We need more gold | 61.00% | ~370,588 |
-| The dawn of civilization | 53.00% | ~321,986 |
-| More FPS for the FPS god! | 50.00% | ~303,760 |
-| Beauty and harmony | 48.00% | ~291,610 |
-| One more! | 44.00% | ~267,309 |
-| Overmind | 24.00% | ~145,805 |
-| RNG is my best friend now | 18.00% | ~109,354 |
+| First.. Bit? | 93.00% | ~564,999 |
+| Error: Stack Overflow | 66.00% | ~400,967 |
+| We need more gold | 61.00% | ~370,591 |
+| The dawn of civilization | 53.00% | ~321,989 |
+| More FPS for the FPS god! | 50.00% | ~303,763 |
+| Beauty and harmony | 48.00% | ~291,612 |
+| One more! | 44.00% | ~267,311 |
+| Overmind | 24.00% | ~145,806 |
+| RNG is my best friend now | 18.00% | ~109,355 |
 | Cosplay | 13.00% | ~78,978 |
 | Evolution in progress... | 13.00% | ~78,978 |
 | Step by step | 8.00% | ~48,602 |
 | README reader | 3.00% | ~18,226 |
 | Data scientist | 3.00% | ~18,226 |
 | One small step for a man... | 3.00% | ~18,226 |
-| To see it all, to learn it all | 2.00% | ~12,150 |
-| Evolution complete | 2.00% | ~12,150 |
-| Best deal on the market | 2.00% | ~12,150 |
-| Is this Skynet? | 2.00% | ~12,150 |
-| Cybergeek 2047 | 2.00% | ~12,150 |
+| To see it all, to learn it all | 2.00% | ~12,151 |
+| Evolution complete | 2.00% | ~12,151 |
+| Best deal on the market | 2.00% | ~12,151 |
+| Is this Skynet? | 2.00% | ~12,151 |
+| Cybergeek 2047 | 2.00% | ~12,151 |
 | The hoarder | 1.00% | ~6,075 |
 | Ping | 1.00% | ~6,075 |
 | Magna cum laude | 1.00% | ~6,075 |
@@ -35,7 +35,7 @@ Number of Ratings: 896  (23.09.2022)
 | Elements will destroy you! | 0.30% | ~1,823 |
 | The Scrooge | 0.10% | ~608 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 607,521 (Ranked 29)  
+Progressed: 607,526 (Ranked 29)  
 Completed: 533 (0.09%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,7 +218,7 @@ Completed: 533 (0.09%) (Ranked 256)
 | 2023-10-17 | 607,190 | 532 |
 | 2023-10-18 | 607,284 | 532 |
 | 2023-10-19 | 607,397 | 532 |
-| 2023-10-20 | 607,521 | 533 |
+| 2023-10-20 | 607,526 | 533 |
 ## Awards
 Max (Challenging Puzzles): 134  (Ranked 316)  
 Sum: 134 (Ranked 417)  

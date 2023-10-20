@@ -3,12 +3,12 @@
   "Name": "Hand of Fate 2",
   "ProductSlug": "hand-of-fate-2",
   "Ranking_Rating": 493,
-  "Ranking_Popularity": 456,
+  "Ranking_Popularity": 455,
   "Ranking_PopularitySum": 394,
   "Ranking_EOS_Progress": 25,
   "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -901,7 +901,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 663570,
+  "EOS_Progressed": 663571,
   "EOS_Completed": 171,
   "EOS_NewPlayers": 309,
   "EOS_NewCompleters": 0,
@@ -18321,6 +18321,11 @@
       "Time": "2023-10-20T22:08:17.076408+00:00",
       "NumProgressed": 663570,
       "NumCompleted": 171
+    },
+    {
+      "Time": "2023-10-20T23:07:59.7639001+00:00",
+      "NumProgressed": 663571,
+      "NumCompleted": 171
     }
   ],
   "TotalAchievements": 48,
@@ -18332,7 +18337,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 477770
+      "UsersEstimate": 477771
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -18420,7 +18425,7 @@
       "Name": "Jack of all Trades",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 33178
+      "UsersEstimate": 33179
     },
     {
       "ID": "Achievement_13_Dice_Master",
@@ -18508,7 +18513,7 @@
       "Name": "Smithy",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 33178
+      "UsersEstimate": 33179
     },
     {
       "ID": "Achievement_24_Leap_of_Faith",
@@ -18572,7 +18577,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 79628
+      "UsersEstimate": 79629
     },
     {
       "ID": "Achievement_32_Karma",
@@ -18596,7 +18601,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 165892
+      "UsersEstimate": 165893
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -18715,15 +18720,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 663570,
+      "Progressed": 663571,
       "Completed": 171
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-09-17T14:00:02.1778642+00:00",
-  "LastChanged_Achievements": "2023-10-20T22:08:17.0764075+00:00",
+  "LastChanged_Achievements": "2023-10-20T23:07:59.7638996+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:29.0869646+00:00",
-  "LastUpdate_Ratings": "2023-10-20T22:00:30.975079+00:00",
-  "LastUpdate_Achievements": "2023-10-20T22:08:17.0766014+00:00"
+  "LastUpdate_Ratings": "2023-10-20T23:00:13.6081176+00:00",
+  "LastUpdate_Achievements": "2023-10-20T23:07:59.7640755+00:00"
 }

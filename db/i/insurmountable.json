@@ -3,12 +3,12 @@
   "Name": "Insurmountable",
   "ProductSlug": "insurmountable-b02c31",
   "Ranking_Rating": 888,
-  "Ranking_Popularity": 519,
-  "Ranking_PopularitySum": 522,
+  "Ranking_Popularity": 518,
+  "Ranking_PopularitySum": 521,
   "Ranking_EOS_Progress": 687,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 402,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 403,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-04-14T15:00:00+00:00",
     "PcReleaseDate": "2021-04-29T00:00:00+00:00",
@@ -594,6 +594,6 @@
   "FirstSeen": "2022-07-22T20:16:54.1539465+00:00",
   "LastChanged": "2022-12-31T14:56:59.7606412+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:31.2672733+00:00",
-  "LastUpdate_Ratings": "2023-10-20T22:02:09.8788485+00:00",
-  "LastUpdate_Achievements": "2023-10-20T22:04:51.0704659+00:00"
+  "LastUpdate_Ratings": "2023-10-20T23:01:54.0112945+00:00",
+  "LastUpdate_Achievements": "2023-10-20T23:04:35.4674075+00:00"
 }

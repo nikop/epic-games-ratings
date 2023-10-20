@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -175,9 +175,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14161,
+  "EOS_Progressed": 14164,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 238,
+  "EOS_NewPlayers": 239,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -9160,6 +9160,11 @@
       "Time": "2023-10-20T22:06:21.2455954+00:00",
       "NumProgressed": 14161,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-10-20T23:06:05.1683572+00:00",
+      "NumProgressed": 14164,
+      "NumCompleted": 26
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -9196,7 +9201,7 @@
       "Name": "Data Archivist",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "13",
@@ -9204,7 +9209,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2407
+      "UsersEstimate": 2408
     },
     {
       "ID": "14",
@@ -9252,7 +9257,7 @@
       "Name": "Martian Music",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "2",
@@ -9292,7 +9297,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "24",
@@ -9308,7 +9313,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "26",
@@ -9348,7 +9353,7 @@
       "Name": "Captain Drummer",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "30",
@@ -9380,7 +9385,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "7",
@@ -9404,29 +9409,29 @@
       "Name": "Impossible Objects",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14161,
+      "Progressed": 14164,
       "Completed": 26
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 115,
-      "Completed": 115
+      "Progressed": 118,
+      "Completed": 118
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-20T08:59:25.5282382+00:00",
-  "LastChanged_Achievements": "2023-10-20T22:06:21.245595+00:00",
+  "LastChanged_Achievements": "2023-10-20T23:06:05.1683565+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:40.5814563+00:00",
-  "LastUpdate_Ratings": "2023-10-20T21:59:51.0989355+00:00",
-  "LastUpdate_Achievements": "2023-10-20T22:06:21.2456944+00:00"
+  "LastUpdate_Ratings": "2023-10-20T22:59:36.8646443+00:00",
+  "LastUpdate_Achievements": "2023-10-20T23:06:05.1684508+00:00"
 }

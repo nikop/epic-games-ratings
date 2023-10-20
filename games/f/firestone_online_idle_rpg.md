@@ -28,13 +28,13 @@ Rating: 4.06 (Ranked 956)
 | Superior | 14.00% | ~287 |
 | The Unstoppable | 14.00% | ~287 |
 | Scientist | 13.00% | ~267 |
+| Hunter | 12.00% | ~246 |
 | The power of Awakening | 12.00% | ~246 |
 | Challenger | 11.00% | ~226 |
 | Daily Quest Completionist | 11.00% | ~226 |
 | Doing My Part | 11.00% | ~226 |
 | Four Leaf Clover | 11.00% | ~226 |
 | Frostfire Liberator | 11.00% | ~226 |
-| Hunter | 11.00% | ~226 |
 | Mastery | 11.00% | ~226 |
 | Moving Up The Ladder | 11.00% | ~226 |
 | Relic Of The Past | 11.00% | ~226 |
@@ -81,7 +81,7 @@ Rating: 4.06 (Ranked 956)
 | War Machines Army | 0.20% | ~4 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,053 (Ranked 205)  
+Progressed: 2,053 (Ranked 206)  
 Completed: 2 (0.10%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |

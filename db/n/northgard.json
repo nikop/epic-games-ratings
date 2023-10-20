@@ -3,12 +3,12 @@
   "Name": "Northgard",
   "ProductSlug": "northgard",
   "Ranking_Rating": 190,
-  "Ranking_Popularity": 480,
-  "Ranking_PopularitySum": 413,
+  "Ranking_Popularity": 479,
+  "Ranking_PopularitySum": 412,
   "Ranking_EOS_Progress": 687,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 402,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 403,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-07-21T14:00:00+00:00",
     "PcReleaseDate": "2021-07-21T14:00:00+00:00",
@@ -400,10 +400,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 143,
       "NumberOfAwardsMax": 30
+    },
+    {
+      "Time": "2023-10-20T23:01:01.5474914+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 145,
+      "NumberOfAwardsMax": 30
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 143,
+  "NumberOfAwards": 145,
   "NumberOfAwardsMax": 30,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -435,13 +441,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 20
+      "Count": 21
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 20
+      "Count": 21
     }
   ],
   "EOS_Progressed": 0,
@@ -455,8 +461,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:06.911042+00:00",
-  "LastChanged": "2023-10-16T21:58:43.3197037+00:00",
+  "LastChanged": "2023-10-20T23:01:01.5474913+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:04.7385871+00:00",
-  "LastUpdate_Ratings": "2023-10-20T22:01:16.1712205+00:00",
-  "LastUpdate_Achievements": "2023-10-20T22:06:12.2590309+00:00"
+  "LastUpdate_Ratings": "2023-10-20T23:01:01.547492+00:00",
+  "LastUpdate_Achievements": "2023-10-20T23:05:55.6079369+00:00"
 }
