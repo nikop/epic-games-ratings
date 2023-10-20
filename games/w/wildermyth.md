@@ -6,6 +6,8 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| This Too Shall Pass | 0.10% | ~1 |
+| The Cost of Heroism | 0.10% | ~1 |
 | We Emerge Changed | 0.00% | ~0 |
 | Overwhelming Monstrosity | 0.00% | ~0 |
 | Me and My Familiar | 0.00% | ~0 |
@@ -26,9 +28,7 @@ Number of Ratings: 45  (23.09.2022)
 | No More Nightmares | 0.00% | ~0 |
 | Who's Counting? | 0.00% | ~0 |
 | Plague Doctor | 0.00% | ~0 |
-| This Too Shall Pass | 0.00% | ~0 |
 | How Romantic! | 0.00% | ~0 |
-| The Cost of Heroism | 0.00% | ~0 |
 | Legends Never Die | 0.00% | ~0 |
 | Cutthroat Competitors | 0.00% | ~0 |
 | Thematic Divergence | 0.00% | ~0 |

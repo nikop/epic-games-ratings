@@ -95,6 +95,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Traders | 0.60% | ~89 |
 | Hittite Iron | 0.60% | ~89 |
 | Hagia Sophia | 0.60% | ~89 |
+| Church of the Holy Sepulchre | 0.60% | ~89 |
 | Temple of Solomon | 0.60% | ~89 |
 | Pantheon | 0.60% | ~89 |
 | Via Recta Souk | 0.60% | ~89 |
@@ -110,7 +111,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Capable | 0.50% | ~74 |
 | Strong Difficulty | 0.50% | ~74 |
 | Hunters | 0.50% | ~74 |
-| Church of the Holy Sepulchre | 0.50% | ~74 |
 | Babylonia | 0.50% | ~74 |
 | Carthage | 0.50% | ~74 |
 | One True Faith | 0.50% | ~74 |

@@ -32,6 +32,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Against All Odds | 3.00% | ~510 |
 | Ruined Armory | 3.00% | ~510 |
 | Dangerous Lands | 3.00% | ~510 |
+| Fishmen Ritual Site | 3.00% | ~510 |
 | Forbidden Lands | 3.00% | ~510 |
 | Haunted Forest | 3.00% | ~510 |
 | Flooded Mines | 3.00% | ~510 |
@@ -41,7 +42,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Defying the Crown | 3.00% | ~510 |
 | Into the Forest | 3.00% | ~510 |
 | Refinery | 2.00% | ~340 |
-| Fishmen Ritual Site | 2.00% | ~340 |
 | Victory through Prosperity | 2.00% | ~340 |
 | Feeding The People | 1.00% | ~170 |
 | Efficient Explorer | 1.00% | ~170 |

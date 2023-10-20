@@ -4,7 +4,7 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1572,
+  "EOS_Progressed": 1573,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3167,6 +3167,11 @@
       "Time": "2023-10-20T17:10:07.8490655+00:00",
       "NumProgressed": 1572,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-20T18:09:55.7826818+00:00",
+      "NumProgressed": 1573,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -3179,7 +3184,7 @@
       "Name": "First Love",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -3187,7 +3192,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -3251,7 +3256,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -3570,14 +3575,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1572,
+      "Progressed": 1573,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-20T17:10:07.849065+00:00",
+  "LastChanged_Achievements": "2023-10-20T18:09:55.7826812+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:05.5662527+00:00",
-  "LastUpdate_Ratings": "2023-10-20T17:00:55.4512742+00:00",
-  "LastUpdate_Achievements": "2023-10-20T17:10:07.8491449+00:00"
+  "LastUpdate_Ratings": "2023-10-20T18:00:58.6839706+00:00",
+  "LastUpdate_Achievements": "2023-10-20T18:09:55.7827452+00:00"
 }

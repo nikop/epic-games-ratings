@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewPlayers": 304,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -2576,9 +2576,9 @@
       "ID": "NoCritterSump",
       "SetID": "a9e499d",
       "Name": "Wildlife Protection",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "NoDeathRun",
@@ -2801,8 +2801,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-10-20T17:04:46.7461283+00:00",
+  "LastChanged_Achievements": "2023-10-20T18:04:34.7961354+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:58.9588664+00:00",
-  "LastUpdate_Ratings": "2023-10-20T17:03:01.4282384+00:00",
-  "LastUpdate_Achievements": "2023-10-20T17:04:46.7461871+00:00"
+  "LastUpdate_Ratings": "2023-10-20T18:02:52.1834435+00:00",
+  "LastUpdate_Achievements": "2023-10-20T18:04:34.7962403+00:00"
 }

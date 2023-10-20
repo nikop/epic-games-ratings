@@ -4,7 +4,7 @@
   "ProductSlug": "gas-station-simulator-ee93c7",
   "Ranking_EOS_Progress": 370,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -682,9 +682,9 @@
       "ID": "GSS_ACH_02_SHOP_02",
       "SetID": "5fn8ia4",
       "Name": "It\u0027s just getting started",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "GSS_ACH_03_TIP_01",
@@ -1042,9 +1042,9 @@
       "ID": "GSS_ACH_48_UPGRADE_STATION_02",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 3",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 92
     },
     {
       "ID": "GSS_ACH_49_UPGRADE_STATION_03",
@@ -1329,8 +1329,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-20T17:06:58.9728555+00:00",
+  "LastChanged_Achievements": "2023-10-20T18:06:46.4097196+00:00",
   "LastUpdate_AppInfo": "2023-10-16T13:57:01.0346306+00:00",
-  "LastUpdate_Ratings": "2023-10-20T16:58:32.7971884+00:00",
-  "LastUpdate_Achievements": "2023-10-20T17:06:58.9729628+00:00"
+  "LastUpdate_Ratings": "2023-10-20T17:58:28.2104641+00:00",
+  "LastUpdate_Achievements": "2023-10-20T18:06:46.4098364+00:00"
 }

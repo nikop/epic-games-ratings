@@ -1,29 +1,29 @@
 # Ken Follett's The Pillars of the Earth
 [Store](https://store.epicgames.com/en-US/p/ken-follets-the-pillars-of-the-earth)  
 [View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
-Rating: 4.51 (Ranked 552)  
+Rating: 4.51 (Ranked 553)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 40.00% | ~6,342 |
+| Tattletale | 40.00% | ~6,343 |
 | Man of politics | 35.00% | ~5,550 |
-| Friends of sorts | 33.00% | ~5,232 |
-| Yet another secret | 33.00% | ~5,232 |
-| Let there be darkness | 32.00% | ~5,074 |
+| Friends of sorts | 33.00% | ~5,233 |
+| Yet another secret | 33.00% | ~5,233 |
+| Let there be darkness | 32.00% | ~5,075 |
 | End of Book One | 30.00% | ~4,757 |
-| Garden of Eden | 24.00% | ~3,805 |
-| Full house | 24.00% | ~3,805 |
+| Garden of Eden | 24.00% | ~3,806 |
+| Full house | 24.00% | ~3,806 |
 | Wannabe knight | 23.00% | ~3,647 |
-| Help an old friend | 22.00% | ~3,488 |
-| Two of us | 20.00% | ~3,171 |
+| Help an old friend | 22.00% | ~3,489 |
+| Two of us | 20.00% | ~3,172 |
 | Negotiation skills | 18.00% | ~2,854 |
 | Workers' union | 18.00% | ~2,854 |
 | End of Book Two | 18.00% | ~2,854 |
 | Everything's in order | 17.00% | ~2,696 |
 | Twist of Fate | 14.00% | ~2,220 |
 | Jack was here! | 14.00% | ~2,220 |
-| Exterminator | 13.00% | ~2,061 |
+| Exterminator | 13.00% | ~2,062 |
 | Whodunnit | 12.00% | ~1,903 |
 | Good midwife | 11.00% | ~1,744 |
 | First profit | 11.00% | ~1,744 |
@@ -35,7 +35,7 @@ Number of Ratings: 368  (23.09.2022)
 | The oath | 9.00% | ~1,427 |
 | The truth revealed | 9.00% | ~1,427 |
 | The End. | 9.00% | ~1,427 |
-| A cry for help | 8.00% | ~1,268 |
+| A cry for help | 8.00% | ~1,269 |
 | Silentium est aureum | 7.00% | ~1,110 |
 | Rebel without a cause | 6.00% | ~951 |
 | Staring contest champion | 5.00% | ~793 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~476 |
 | Boy of mystery | 2.00% | ~317 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,856 (Ranked 135)  
+Progressed: 15,858 (Ranked 135)  
 Completed: 113 (0.71%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,14 +231,14 @@ Completed: 113 (0.71%) (Ranked 160)
 | 2023-10-17 | 15,811 | 113 |
 | 2023-10-18 | 15,828 | 113 |
 | 2023-10-19 | 15,845 | 113 |
-| 2023-10-20 | 15,856 | 113 |
+| 2023-10-20 | 15,858 | 113 |
 ## Awards
-Max (Easy Puzzles): 152  (Ranked 307)  
-Sum: 194 (Ranked 389)  
-Diff (max vs sum): -82  
+Max (Easy Puzzles): 153  (Ranked 306)  
+Sum: 195 (Ranked 389)  
+Diff (max vs sum): -83  
 | Award | Count |
 | ----- | ----- |
-| This game features Easy Puzzles | 152 |
+| This game features Easy Puzzles | 153 |
 | In this game, your choices Impact the Story | 42 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -331,3 +331,4 @@ Diff (max vs sum): -82
 | 2023-09-24 | 4.51 | - | 150 | 192 |
 | 2023-09-26 | 4.51 | - | 151 | 193 |
 | 2023-10-14 | 4.51 | - | 152 | 194 |
+| 2023-10-20 | 4.51 | - | 153 | 195 |

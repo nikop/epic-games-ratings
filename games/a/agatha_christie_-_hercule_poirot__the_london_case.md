@@ -13,8 +13,8 @@
 | A curious gathering | 48.00% | ~10 |
 | Little grey cells | 43.00% | ~9 |
 | Impossible is possible | 43.00% | ~9 |
+| The Missing Magdalene | 43.00% | ~9 |
 | Arthur Hastings | 43.00% | ~9 |
-| The Missing Magdalene | 38.00% | ~8 |
 | Everything matters | 29.00% | ~6 |
 | Order and method | 29.00% | ~6 |
 | An expert mediator | 24.00% | ~5 |

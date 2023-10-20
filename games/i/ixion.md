@@ -33,9 +33,9 @@ Rating: 4.56 (Ranked 475)
 | Oats | 5.00% | ~162 |
 | What They Hide From Us | 5.00% | ~162 |
 | BRAWL! | 5.00% | ~162 |
+| What the Ruins Teach Us | 5.00% | ~162 |
 | ...  in a finite world | 4.00% | ~130 |
 | In Dolos We Trust | 4.00% | ~130 |
-| What the Ruins Teach Us | 4.00% | ~130 |
 | Sustainable Energy | 3.00% | ~97 |
 | Delivery! | 3.00% | ~97 |
 | Pedal to the Metal | 3.00% | ~97 |

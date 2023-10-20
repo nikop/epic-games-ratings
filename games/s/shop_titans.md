@@ -78,6 +78,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Archivist | 0.60% | ~827 |
 | Omae wa Mou Shindeiru | 0.60% | ~827 |
 | Supercharged | 0.60% | ~827 |
+| Ritualist | 0.60% | ~827 |
 | Fit for a King | 0.60% | ~827 |
 | By Your Powers Combined... | 0.60% | ~827 |
 | Wealth Beyond Measure | 0.60% | ~827 |
@@ -97,7 +98,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Constellated | 0.50% | ~689 |
 | Fillin' the Bin | 0.50% | ~689 |
 | Industrial Evolution | 0.50% | ~689 |
-| Ritualist | 0.50% | ~689 |
 | A Legend is Born | 0.50% | ~689 |
 | Economy of Scarce | 0.50% | ~689 |
 | The Free Encyclopedia | 0.40% | ~551 |

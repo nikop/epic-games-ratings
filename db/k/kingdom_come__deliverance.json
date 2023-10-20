@@ -7885,10 +7885,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 28021,
       "NumberOfAwardsMax": 7531
+    },
+    {
+      "Time": "2023-10-20T18:00:39.5219981+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 28023,
+      "NumberOfAwardsMax": 7531
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28021,
+  "NumberOfAwards": 28023,
   "NumberOfAwardsMax": 7531,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7938,7 +7944,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1651
+      "Count": 1653
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -7971,7 +7977,7 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 805438,
+  "EOS_Progressed": 805442,
   "EOS_Completed": 51,
   "EOS_NewPlayers": 782,
   "EOS_NewCompleters": 1,
@@ -28456,6 +28462,11 @@
       "Time": "2023-10-20T17:06:59.61153+00:00",
       "NumProgressed": 805438,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-20T18:06:47.0202959+00:00",
+      "NumProgressed": 805442,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -28491,7 +28502,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 128870
+      "UsersEstimate": 128871
     },
     {
       "ID": "Awakening",
@@ -28499,7 +28510,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 169142
+      "UsersEstimate": 169143
     },
     {
       "ID": "BadGirl",
@@ -28547,7 +28558,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 257740
+      "UsersEstimate": 257741
     },
     {
       "ID": "Bookworm",
@@ -28571,7 +28582,7 @@
       "Name": "Casanova",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 48326
+      "UsersEstimate": 48327
     },
     {
       "ID": "Cavalier",
@@ -28667,7 +28678,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 185251
+      "UsersEstimate": 185252
     },
     {
       "ID": "Fighter",
@@ -28747,7 +28758,7 @@
       "Name": "Haggler",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 72489
+      "UsersEstimate": 72490
     },
     {
       "ID": "HardcoreHenry",
@@ -29003,7 +29014,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 88598
+      "UsersEstimate": 88599
     },
     {
       "ID": "Sniper",
@@ -29075,7 +29086,7 @@
       "Name": "Traveller",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 88598
+      "UsersEstimate": 88599
     },
     {
       "ID": "TrialAndError",
@@ -29122,15 +29133,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 805438,
+      "Progressed": 805442,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-10-20T10:59:18.4940797+00:00",
-  "LastChanged_Achievements": "2023-10-20T17:06:59.6115292+00:00",
+  "LastChanged": "2023-10-20T18:00:39.5219979+00:00",
+  "LastChanged_Achievements": "2023-10-20T18:06:47.0202953+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:13.6850555+00:00",
-  "LastUpdate_Ratings": "2023-10-20T17:00:38.319289+00:00",
-  "LastUpdate_Achievements": "2023-10-20T17:06:59.6117287+00:00"
+  "LastUpdate_Ratings": "2023-10-20T18:00:39.5219986+00:00",
+  "LastUpdate_Achievements": "2023-10-20T18:06:47.0205617+00:00"
 }

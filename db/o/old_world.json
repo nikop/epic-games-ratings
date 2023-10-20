@@ -15678,9 +15678,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_CHRISTIANITY",
       "SetID": "9201eeb",
       "Name": "Church of the Holy Sepulchre",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 89
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_JUDAISM",
@@ -17052,8 +17052,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-19T15:58:51.8836736+00:00",
-  "LastChanged_Achievements": "2023-10-20T17:10:32.3575208+00:00",
+  "LastChanged_Achievements": "2023-10-20T18:10:20.9503882+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:21.7880328+00:00",
-  "LastUpdate_Ratings": "2023-10-20T17:00:25.304687+00:00",
-  "LastUpdate_Achievements": "2023-10-20T17:10:32.3588856+00:00"
+  "LastUpdate_Ratings": "2023-10-20T18:00:28.29226+00:00",
+  "LastUpdate_Achievements": "2023-10-20T18:10:20.9517052+00:00"
 }

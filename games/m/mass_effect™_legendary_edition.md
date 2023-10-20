@@ -8,7 +8,7 @@
 | Spectre Inductee | 83.00% | ~626 |
 | Medal of Exploration I | 75.00% | ~566 |
 | Recruit | 72.00% | ~543 |
-| Search and Rescue | 71.00% | ~535 |
+| Search and Rescue | 72.00% | ~543 |
 | Quarian Ally | 68.00% | ~513 |
 | Medal of Heroism | 65.00% | ~490 |
 | Honorarium of Corporate Service | 65.00% | ~490 |
@@ -16,7 +16,7 @@
 | Medal of Honor | 58.00% | ~437 |
 | Meritorious Service Medal | 58.00% | ~437 |
 | Medal of Exploration II | 58.00% | ~437 |
-| Turian Ally | 56.00% | ~422 |
+| Turian Ally | 57.00% | ~430 |
 | Charismatic | 56.00% | ~422 |
 | Soldier | 55.00% | ~415 |
 | Asari Ally | 52.00% | ~392 |
@@ -25,8 +25,8 @@
 | Soldier Ally | 49.00% | ~369 |
 | Paramour I | 48.00% | ~362 |
 | Colonial Savior | 48.00% | ~362 |
+| Scientist | 48.00% | ~362 |
 | Merciless | 47.00% | ~354 |
-| Scientist | 47.00% | ~354 |
 | Krogan Ally | 45.00% | ~339 |
 | Missing in Action | 44.00% | ~332 |
 | Very Elusive | 44.00% | ~332 |
@@ -55,11 +55,11 @@
 | Ghost of the Father | 32.00% | ~241 |
 | The Cure | 32.00% | ~241 |
 | Big Game Hunter | 32.00% | ~241 |
+| Revenge! | 32.00% | ~241 |
 | Heart of Darkness | 32.00% | ~241 |
 | Shopaholic | 32.00% | ~241 |
 | Catharsis | 31.00% | ~234 |
 | Agent | 31.00% | ~234 |
-| Revenge! | 31.00% | ~234 |
 | Driven | 31.00% | ~234 |
 | Focused | 30.00% | ~226 |
 | Cat's in the Cradle | 30.00% | ~226 |

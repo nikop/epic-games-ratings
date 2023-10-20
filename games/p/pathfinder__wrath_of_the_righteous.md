@@ -7,16 +7,16 @@ Number of Ratings: 1,354  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Devoured by Darkness | 25.00% | ~2,906 |
-| A Spark | 18.00% | ~2,092 |
+| A Spark | 18.00% | ~2,093 |
 | Burning City | 17.00% | ~1,976 |
 | Defender's Heart | 15.00% | ~1,744 |
-| Mythic Choices | 14.00% | ~1,627 |
+| Mythic Choices | 14.00% | ~1,628 |
 | Banner over the Citadel | 13.00% | ~1,511 |
 | Queen's Gratitude | 12.00% | ~1,395 |
 | Fifth Crusade | 8.00% | ~930 |
-| Embrace of the Abyss | 6.00% | ~697 |
-| Path of the Angel | 6.00% | ~697 |
-| Demonic and Divine | 6.00% | ~697 |
+| Embrace of the Abyss | 6.00% | ~698 |
+| Path of the Angel | 6.00% | ~698 |
+| Demonic and Divine | 6.00% | ~698 |
 | Path of the Azata | 5.00% | ~581 |
 | Transformation | 5.00% | ~581 |
 | The Legacy | 5.00% | ~581 |
@@ -36,12 +36,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | Hanged Man's Notes | 3.00% | ~312 |
 | The Lady of the Forest | 3.00% | ~312 |
 | Beware Still Water | 3.00% | ~312 |
-| Path of the Demon | 2.00% | ~232 |
-| Path of the Aeon | 2.00% | ~232 |
-| Path of the Lich | 2.00% | ~232 |
-| Capitulation Is Now Moot | 2.00% | ~232 |
-| Your First Big Enemy | 2.00% | ~232 |
-| Truly Important Deed | 2.00% | ~232 |
+| Path of the Demon | 2.00% | ~233 |
+| Path of the Aeon | 2.00% | ~233 |
+| Path of the Lich | 2.00% | ~233 |
+| Capitulation Is Now Moot | 2.00% | ~233 |
+| Your First Big Enemy | 2.00% | ~233 |
+| Truly Important Deed | 2.00% | ~233 |
 | Stay Underground | 2.00% | ~208 |
 | Sarkoris Will Be Green | 2.00% | ~208 |
 | The Final Threshold | 1.00% | ~116 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Playful Mood | 0.70% | ~81 |
 | Dreadful Dragon | 0.70% | ~81 |
 | Prelate's Nemesis | 0.50% | ~58 |
-| Ashes to Ashes | 0.40% | ~46 |
+| Ashes to Ashes | 0.40% | ~47 |
 | Masterful Dispel | 0.30% | ~35 |
 | Just Pathetic | 0.30% | ~35 |
 | Path of the Swarm | 0.20% | ~23 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,624 (Ranked 146)  
+Progressed: 11,626 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,7 +306,7 @@ Completed: 0 (0.00%) (Ranked 317)
 | 2023-10-17 | 11,545 | 0 |
 | 2023-10-18 | 11,567 | 0 |
 | 2023-10-19 | 11,606 | 0 |
-| 2023-10-20 | 11,624 | 0 |
+| 2023-10-20 | 11,626 | 0 |
 ## Awards
 Max (Character Customization): 1,726  (Ranked 119)  
 Sum: 6,994 (Ranked 115)  

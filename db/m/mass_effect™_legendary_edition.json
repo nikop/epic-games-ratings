@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 754,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2289,9 +2289,9 @@
       "ID": "achievement_27",
       "SetID": "b9pe172",
       "Name": "Turian Ally",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 422
+      "UsersEstimate": 430
     },
     {
       "ID": "achievement_28",
@@ -2345,9 +2345,9 @@
       "ID": "achievement_33",
       "SetID": "b9pe172",
       "Name": "Search and Rescue",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 535
+      "UsersEstimate": 543
     },
     {
       "ID": "achievement_34",
@@ -2681,9 +2681,9 @@
       "ID": "achievement_71",
       "SetID": "d252ncf",
       "Name": "Scientist",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 354
+      "UsersEstimate": 362
     },
     {
       "ID": "achievement_72",
@@ -2713,9 +2713,9 @@
       "ID": "achievement_75",
       "SetID": "d252ncf",
       "Name": "Revenge!",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 234
+      "UsersEstimate": 241
     },
     {
       "ID": "achievement_76",
@@ -2941,8 +2941,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-20T17:08:18.8523565+00:00",
+  "LastChanged_Achievements": "2023-10-20T18:08:05.962062+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:30.4071338+00:00",
-  "LastUpdate_Ratings": "2023-10-20T17:03:48.7031519+00:00",
-  "LastUpdate_Achievements": "2023-10-20T17:08:18.8525995+00:00"
+  "LastUpdate_Ratings": "2023-10-20T18:03:37.2334108+00:00",
+  "LastUpdate_Achievements": "2023-10-20T18:08:05.9624607+00:00"
 }

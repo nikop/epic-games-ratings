@@ -5,15 +5,15 @@ Rating: 4.68 (Ranked 241)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 95.00% | ~3,162 |
-| On the Top Step | 90.00% | ~2,995 |
-| Setting up for Success | 79.00% | ~2,629 |
+| Getting on the Step | 95.00% | ~3,163 |
+| On the Top Step | 90.00% | ~2,996 |
+| Setting up for Success | 79.00% | ~2,630 |
 | Team Orders | 77.00% | ~2,563 |
-| Engineer | 57.00% | ~1,897 |
-| Familiar Faces | 51.00% | ~1,697 |
+| Engineer | 57.00% | ~1,898 |
+| Familiar Faces | 51.00% | ~1,698 |
 | Going the Extra Mile | 45.00% | ~1,498 |
-| Sharing the Love | 44.00% | ~1,464 |
-| Hitting a Season | 41.00% | ~1,364 |
+| Sharing the Love | 44.00% | ~1,465 |
+| Hitting a Season | 41.00% | ~1,365 |
 | Challenge Yourself | 36.00% | ~1,198 |
 | A Dozen Pieces | 34.00% | ~1,132 |
 | Making History | 34.00% | ~1,132 |
@@ -23,11 +23,11 @@ Rating: 4.68 (Ranked 241)
 | Reduce | 21.00% | ~699 |
 | Ups and Downs | 21.00% | ~699 |
 | Crucial Combo | 20.00% | ~666 |
-| One for the Book | 19.00% | ~632 |
+| One for the Book | 19.00% | ~633 |
 | Reuse | 18.00% | ~599 |
 | Gathering Dust | 17.00% | ~566 |
 | Proving Them Wrong | 17.00% | ~566 |
-| Oil and Water | 16.00% | ~532 |
+| Oil and Water | 16.00% | ~533 |
 | Hitting a Bullseye | 15.00% | ~499 |
 | Lightning Round the World | 14.00% | ~466 |
 | Eagle Eye | 13.00% | ~433 |
@@ -55,7 +55,7 @@ Rating: 4.68 (Ranked 241)
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,328 (Ranked 189)  
+Progressed: 3,329 (Ranked 189)  
 Completed: 0 (0.00%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 0 (0.00%) (Ranked 317)
 | 2023-10-17 | 3,311 | 0 |
 | 2023-10-18 | 3,319 | 0 |
 | 2023-10-19 | 3,325 | 0 |
-| 2023-10-20 | 3,328 | 0 |
+| 2023-10-20 | 3,329 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

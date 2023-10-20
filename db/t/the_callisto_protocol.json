@@ -1313,9 +1313,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 16108,
+  "EOS_Progressed": 16109,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -7708,6 +7708,11 @@
       "Time": "2023-10-20T17:05:45.0391643+00:00",
       "NumProgressed": 16108,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2023-10-20T18:05:32.6524978+00:00",
+      "NumProgressed": 16109,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 47,
@@ -7895,7 +7900,7 @@
       "Name": "Paper Jams",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "SHARE_PHOTO",
@@ -8094,13 +8099,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16108,
+      "Progressed": 16109,
       "Completed": 75
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4034,
+      "Progressed": 4035,
       "Completed": 29
     }
   ],
@@ -8108,8 +8113,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-10-19T07:57:37.4777054+00:00",
-  "LastChanged_Achievements": "2023-10-20T17:05:45.0391637+00:00",
+  "LastChanged_Achievements": "2023-10-20T18:05:32.6524972+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:28.7445303+00:00",
-  "LastUpdate_Ratings": "2023-10-20T16:58:24.2268608+00:00",
-  "LastUpdate_Achievements": "2023-10-20T17:05:45.03926+00:00"
+  "LastUpdate_Ratings": "2023-10-20T17:58:20.6299756+00:00",
+  "LastUpdate_Achievements": "2023-10-20T18:05:32.6525824+00:00"
 }

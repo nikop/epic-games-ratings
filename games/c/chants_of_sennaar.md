@@ -12,13 +12,13 @@
 | True G3M4R | 10.00% | ~31 |
 | Scholar | 10.00% | ~31 |
 | The darkness | 10.00% | ~31 |
+| One last step | 9.00% | ~28 |
 | I did it | 8.00% | ~25 |
 | In this together | 8.00% | ~25 |
 | Peace walker | 8.00% | ~25 |
 | Cable guy | 8.00% | ~25 |
 | A good beginning | 8.00% | ~25 |
-| One last step | 8.00% | ~25 |
-| Half the way | 7.00% | ~22 |
+| Half the way | 8.00% | ~25 |
 | Champollion | 7.00% | ~22 |
 | Open door | 6.00% | ~19 |
 | Feels like springtime | 6.00% | ~19 |

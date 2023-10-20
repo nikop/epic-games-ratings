@@ -16,13 +16,13 @@
 | Immolator | 4.00% | ~143 |
 | Go For the Head | 4.00% | ~143 |
 | Spartan Sandal | 4.00% | ~143 |
-| Symbols of Heresy | 4.00% | ~143 |
 | The Sons of Minos | 4.00% | ~143 |
 | Eidola | 4.00% | ~143 |
 | Comedy and Tragedy | 3.00% | ~107 |
 | Pillars of Eternity | 3.00% | ~107 |
 | War Chest | 3.00% | ~107 |
 | Chthonic Investor | 3.00% | ~107 |
+| Symbols of Heresy | 3.00% | ~107 |
 | First Fragment | 3.00% | ~107 |
 | Sisters of the Pantheon | 3.00% | ~107 |
 | Labour of Apollo | 3.00% | ~107 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,571 (Ranked 185)  
+Progressed: 3,574 (Ranked 185)  
 Completed: 0 (0.00%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,6 +238,7 @@ Completed: 0 (0.00%) (Ranked 317)
 | 2023-10-16 | 3,567 | 0 |
 | 2023-10-18 | 3,568 | 0 |
 | 2023-10-19 | 3,571 | 0 |
+| 2023-10-20 | 3,574 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2542,
+  "EOS_Progressed": 2543,
   "EOS_Completed": 228,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 8.97,
   "EosHistory": [
@@ -6696,6 +6696,11 @@
       "Time": "2023-10-20T17:09:42.6009406+00:00",
       "NumProgressed": 2542,
       "NumCompleted": 228
+    },
+    {
+      "Time": "2023-10-20T18:09:30.7701329+00:00",
+      "NumProgressed": 2543,
+      "NumCompleted": 228
     }
   ],
   "TotalAchievements": 12,
@@ -6755,7 +6760,7 @@
       "Name": "Jude",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "Le Juif et la France",
@@ -6763,7 +6768,7 @@
       "Name": "Le Juif et la France",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "Little Helper",
@@ -6802,7 +6807,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2542,
+      "Progressed": 2543,
       "Completed": 228
     }
   ],
@@ -6810,8 +6815,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-10-20T17:09:42.6009401+00:00",
+  "LastChanged_Achievements": "2023-10-20T18:09:30.7701323+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:02.4862405+00:00",
-  "LastUpdate_Ratings": "2023-10-20T17:00:38.1049036+00:00",
-  "LastUpdate_Achievements": "2023-10-20T17:09:42.6010008+00:00"
+  "LastUpdate_Ratings": "2023-10-20T18:00:39.2477877+00:00",
+  "LastUpdate_Achievements": "2023-10-20T18:09:30.7702024+00:00"
 }

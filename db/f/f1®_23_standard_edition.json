@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
@@ -391,9 +391,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3328,
+  "EOS_Progressed": 3329,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3176,6 +3176,11 @@
       "Time": "2023-10-20T17:05:48.8003524+00:00",
       "NumProgressed": 3328,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-20T18:05:36.3994973+00:00",
+      "NumProgressed": 3329,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -3228,7 +3233,7 @@
       "Name": "Setting up for Success",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 2629
+      "UsersEstimate": 2630
     },
     {
       "ID": "achievement_0007",
@@ -3236,7 +3241,7 @@
       "Name": "Getting on the Step",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 3162
+      "UsersEstimate": 3163
     },
     {
       "ID": "achievement_0008",
@@ -3244,7 +3249,7 @@
       "Name": "On the Top Step",
       "Percentage": 90,
       "XP": 20,
-      "UsersEstimate": 2995
+      "UsersEstimate": 2996
     },
     {
       "ID": "achievement_0009",
@@ -3284,7 +3289,7 @@
       "Name": "Oil and Water",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "achievement_0014",
@@ -3308,7 +3313,7 @@
       "Name": "Hitting a Season",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 1364
+      "UsersEstimate": 1365
     },
     {
       "ID": "achievement_0017",
@@ -3364,7 +3369,7 @@
       "Name": "Sharing the Love",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1464
+      "UsersEstimate": 1465
     },
     {
       "ID": "achievement_0024",
@@ -3444,7 +3449,7 @@
       "Name": "Engineer",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 1897
+      "UsersEstimate": 1898
     },
     {
       "ID": "achievement_0034",
@@ -3500,7 +3505,7 @@
       "Name": "One for the Book",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "achievement_0041",
@@ -3524,7 +3529,7 @@
       "Name": "Familiar Faces",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1697
+      "UsersEstimate": 1698
     },
     {
       "ID": "achievement_0044",
@@ -3579,7 +3584,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 3328,
+      "Progressed": 3329,
       "Completed": 0
     }
   ],
@@ -3587,8 +3592,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-10-19T14:57:14.4451199+00:00",
-  "LastChanged_Achievements": "2023-10-20T17:05:48.8003519+00:00",
+  "LastChanged_Achievements": "2023-10-20T18:05:36.3994965+00:00",
   "LastUpdate_AppInfo": "2023-10-14T13:56:56.8221835+00:00",
-  "LastUpdate_Ratings": "2023-10-20T16:58:10.6066599+00:00",
-  "LastUpdate_Achievements": "2023-10-20T17:05:48.8004144+00:00"
+  "LastUpdate_Ratings": "2023-10-20T17:58:04.2960898+00:00",
+  "LastUpdate_Achievements": "2023-10-20T18:05:36.3996098+00:00"
 }

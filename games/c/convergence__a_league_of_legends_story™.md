@@ -55,7 +55,7 @@ Rating: 4.62 (Ranked 357)
 | Thinking Two Steps Ahead | 1.00% | ~9 |
 | A Lesson in Precision | 1.00% | ~9 |
 | No Time to Waste | 1.00% | ~9 |
-| Wildlife Protection | 0.80% | ~7 |
+| Wildlife Protection | 0.90% | ~8 |
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)

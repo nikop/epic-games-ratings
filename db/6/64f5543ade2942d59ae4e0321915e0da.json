@@ -2,9 +2,9 @@
   "ID": "64f5543ade2942d59ae4e0321915e0da",
   "Name": "Laika: Aged Through Blood",
   "ProductSlug": "laika-3293ee",
-  "Ranking_EOS_Progress": 549,
+  "Ranking_EOS_Progress": 544,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewPlayers": 295,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 8,
+  "EOS_Progressed": 9,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -46,6 +46,11 @@
     {
       "Time": "2023-10-20T10:04:40.8431698+00:00",
       "NumProgressed": 8,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-20T18:05:25.6519241+00:00",
+      "NumProgressed": 9,
       "NumCompleted": 0
     }
   ],
@@ -129,7 +134,7 @@
       "ID": "AC_BOSS_00",
       "SetID": "16i2akc",
       "Name": "Hunger",
-      "Percentage": 63,
+      "Percentage": 56,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -137,7 +142,7 @@
       "ID": "AC_BOSS_01",
       "SetID": "16i2akc",
       "Name": "Misery",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -225,7 +230,7 @@
       "ID": "AC_DEATH_ENEMIES_1",
       "SetID": "16i2akc",
       "Name": "Killer",
-      "Percentage": 25,
+      "Percentage": 22,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -249,15 +254,15 @@
       "ID": "AC_DISTANCE_1",
       "SetID": "16i2akc",
       "Name": "Excursion",
-      "Percentage": 25,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "AC_DISTANCE_2",
       "SetID": "16i2akc",
       "Name": "Journey",
-      "Percentage": 25,
+      "Percentage": 22,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -265,7 +270,7 @@
       "ID": "AC_DISTANCE_3",
       "SetID": "16i2akc",
       "Name": "Voyage",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 45,
       "UsersEstimate": 1
     },
@@ -361,7 +366,7 @@
       "ID": "AC_ROSCOBOSS",
       "SetID": "16i2akc",
       "Name": "Loss",
-      "Percentage": 38,
+      "Percentage": 33,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -394,13 +399,13 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 8,
+      "Progressed": 9,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-10-20T17:05:38.1695189+00:00",
+  "LastChanged_Achievements": "2023-10-20T18:05:25.6519233+00:00",
   "LastUpdate_AppInfo": "2023-10-17T14:57:07.2341362+00:00",
-  "LastUpdate_Ratings": "2023-10-20T16:59:29.5279821+00:00",
-  "LastUpdate_Achievements": "2023-10-20T17:05:38.1695527+00:00"
+  "LastUpdate_Ratings": "2023-10-20T17:59:33.8360478+00:00",
+  "LastUpdate_Achievements": "2023-10-20T18:05:25.6519585+00:00"
 }

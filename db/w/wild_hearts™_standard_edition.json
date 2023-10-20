@@ -4,7 +4,7 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 359,
   "Ranking_EOS_Completed": 87,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -788,9 +788,9 @@
       "ID": "achievement_14",
       "SetID": "2cpn27e",
       "Name": "Fusion Conjuror",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 106
     },
     {
       "ID": "achievement_15",
@@ -1138,8 +1138,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-10-20T17:05:26.688173+00:00",
+  "LastChanged_Achievements": "2023-10-20T18:05:14.4896801+00:00",
   "LastUpdate_AppInfo": "2023-10-14T13:56:56.586235+00:00",
-  "LastUpdate_Ratings": "2023-10-20T16:58:39.7466965+00:00",
-  "LastUpdate_Achievements": "2023-10-20T17:05:26.6882237+00:00"
+  "LastUpdate_Ratings": "2023-10-20T17:58:37.8742545+00:00",
+  "LastUpdate_Achievements": "2023-10-20T18:05:14.4897615+00:00"
 }

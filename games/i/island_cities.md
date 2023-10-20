@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome! | 96.00% | ~708 |
-| A tiny town | 86.00% | ~635 |
-| Buildings, roads, cars, ...and people | 66.00% | ~487 |
-| Great view from the beach and from the hill | 56.00% | ~413 |
+| Welcome! | 96.00% | ~709 |
+| A tiny town | 86.00% | ~636 |
+| Buildings, roads, cars, ...and people | 66.00% | ~488 |
+| Great view from the beach and from the hill | 56.00% | ~414 |
 | Bridges to come and go | 49.00% | ~362 |
-| Found an oasis | 43.00% | ~317 |
-| Burger or pizza? | 38.00% | ~280 |
+| Found an oasis | 43.00% | ~318 |
+| Burger or pizza? | 38.00% | ~281 |
 | Passion for sports | 33.00% | ~244 |
-| Who loves trains? | 30.00% | ~221 |
+| Who loves trains? | 30.00% | ~222 |
 | Easy and steady climb | 28.00% | ~207 |
-| At the heart of the city | 25.00% | ~184 |
+| At the heart of the city | 25.00% | ~185 |
 | Calm neighborhood | 23.00% | ~170 |
 | Elevated ring | 21.00% | ~155 |
 | Not lonely anymore | 20.00% | ~148 |
-| Monumental tribute | 20.00% | ~148 |
+| Monumental tribute | 19.00% | ~140 |
 | The beach is right there | 18.00% | ~133 |
 | Commuting | 18.00% | ~133 |
 | Le jardin magnifique | 18.00% | ~133 |
-| Aiming for a living and human city | 17.00% | ~125 |
-| City of dreams | 17.00% | ~125 |
-| Happy Christmas night! | 17.00% | ~125 |
-| Night walk along the beach | 17.00% | ~125 |
+| Aiming for a living and human city | 17.00% | ~126 |
+| City of dreams | 17.00% | ~126 |
+| Happy Christmas night! | 17.00% | ~126 |
+| Night walk along the beach | 17.00% | ~126 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 738 (Ranked 256)  
-Completed: 122 (16.53%) (Ranked 21)  
+Progressed: 739 (Ranked 256)  
+Completed: 122 (16.51%) (Ranked 21)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -175,7 +175,7 @@ Completed: 122 (16.53%) (Ranked 21)
 | 2023-10-17 | 728 | 120 |
 | 2023-10-18 | 732 | 121 |
 | 2023-10-19 | 735 | 122 |
-| 2023-10-20 | 738 | 122 |
+| 2023-10-20 | 739 | 122 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
