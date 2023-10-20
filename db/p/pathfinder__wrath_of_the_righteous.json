@@ -3959,9 +3959,9 @@
       "Count": 389
     }
   ],
-  "EOS_Progressed": 11613,
+  "EOS_Progressed": 11615,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13824,6 +13824,11 @@
       "Time": "2023-10-20T04:09:18.1939907+00:00",
       "NumProgressed": 11613,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-20T06:09:56.1414981+00:00",
+      "NumProgressed": 11615,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -13835,7 +13840,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2903
+      "UsersEstimate": 2904
     },
     {
       "ID": "02_BurningCity",
@@ -13843,7 +13848,7 @@
       "Name": "Burning City",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1974
+      "UsersEstimate": 1975
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -14203,7 +14208,7 @@
       "Name": "A Spark",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2090
+      "UsersEstimate": 2091
     },
     {
       "ID": "49_Flame",
@@ -14762,21 +14767,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10395,
+      "Progressed": 10397,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11613,
+      "Progressed": 11615,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-10-19T21:58:16.2788454+00:00",
-  "LastChanged_Achievements": "2023-10-20T05:09:34.927484+00:00",
+  "LastChanged_Achievements": "2023-10-20T06:09:56.1414975+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:48.4782392+00:00",
-  "LastUpdate_Ratings": "2023-10-20T04:58:31.7171761+00:00",
-  "LastUpdate_Achievements": "2023-10-20T05:09:34.9276727+00:00"
+  "LastUpdate_Ratings": "2023-10-20T05:58:41.2843123+00:00",
+  "LastUpdate_Achievements": "2023-10-20T06:09:56.1418002+00:00"
 }

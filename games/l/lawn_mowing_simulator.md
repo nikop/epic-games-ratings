@@ -6,20 +6,20 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 80.00% | ~539,209 |
-| Every story has a beginning | 36.00% | ~242,644 |
-| The first of many | 31.00% | ~208,943 |
-| Positive word of mouth | 18.00% | ~121,322 |
-| Lawn in the U.S.A. | 15.00% | ~101,102 |
-| Blade Runner | 9.00% | ~60,661 |
+| The dream begins | 80.00% | ~539,214 |
+| Every story has a beginning | 36.00% | ~242,646 |
+| The first of many | 31.00% | ~208,946 |
+| Positive word of mouth | 18.00% | ~121,323 |
+| Lawn in the U.S.A. | 15.00% | ~101,103 |
+| Blade Runner | 9.00% | ~60,662 |
 | Credible | 7.00% | ~47,181 |
 | Teamwork makes the dream work | 6.00% | ~40,441 |
-| Where there's muck there's brass | 4.00% | ~26,960 |
-| Bigger and better | 4.00% | ~26,960 |
-| Aggressive expansion | 4.00% | ~26,960 |
-| Size isn't everything | 3.00% | ~20,220 |
-| Close shave | 3.00% | ~20,220 |
-| Established | 3.00% | ~20,220 |
+| Where there's muck there's brass | 4.00% | ~26,961 |
+| Bigger and better | 4.00% | ~26,961 |
+| Aggressive expansion | 4.00% | ~26,961 |
+| Size isn't everything | 3.00% | ~20,221 |
+| Close shave | 3.00% | ~20,221 |
+| Established | 3.00% | ~20,221 |
 | Fighting on all fronts | 2.00% | ~13,480 |
 | Mighty Mowing Park Ranger | 2.00% | ~13,480 |
 | Every good deed… | 2.00% | ~13,480 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~674 |
 | Mo mowers, mo problems | 0.10% | ~674 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 674,011 (Ranked 24)  
+Progressed: 674,018 (Ranked 24)  
 Completed: 17 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 17 (0.00%) (Ranked 316)
 | 2023-10-17 | 673,536 | 17 |
 | 2023-10-18 | 673,751 | 17 |
 | 2023-10-19 | 673,964 | 17 |
-| 2023-10-20 | 674,011 | 17 |
+| 2023-10-20 | 674,018 | 17 |
 ## Awards
 Max (Quickly Understood Controls): 182  (Ranked 288)  
 Sum: 982 (Ranked 251)  

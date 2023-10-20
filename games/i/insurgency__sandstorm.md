@@ -24,9 +24,9 @@ Number of Ratings: 1,316  (23.09.2022)
 | Efficient | 1.00% | ~4,641 |
 | Ruthless | 1.00% | ~4,641 |
 | Semper Paratus | 1.00% | ~4,641 |
-| Carrying | 0.90% | ~4,176 |
-| Mount & Gun | 0.90% | ~4,176 |
-| Personal | 0.90% | ~4,176 |
+| Carrying | 0.90% | ~4,177 |
+| Mount & Gun | 0.90% | ~4,177 |
+| Personal | 0.90% | ~4,177 |
 | Grounded | 0.80% | ~3,712 |
 | Play to Win | 0.80% | ~3,712 |
 | #1 | 0.70% | ~3,248 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~464 |
 | Road Hazard | 0.10% | ~464 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 464,052 (Ranked 39)  
+Progressed: 464,057 (Ranked 39)  
 Completed: 2 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 2 (0.00%) (Ranked 316)
 | 2023-10-17 | 463,385 | 2 |
 | 2023-10-18 | 463,672 | 2 |
 | 2023-10-19 | 463,959 | 2 |
-| 2023-10-20 | 464,052 | 2 |
+| 2023-10-20 | 464,057 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 392  (Ranked 224)  
 Sum: 3,083 (Ranked 171)  

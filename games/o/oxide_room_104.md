@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What's going on here? | 90.00% | ~173 |
-| Brute force | 83.00% | ~159 |
+| What's going on here? | 89.00% | ~172 |
+| Brute force | 82.00% | ~158 |
 | Nimble fingers | 80.00% | ~154 |
 | Room 104 | 80.00% | ~154 |
 | Face to face | 79.00% | ~152 |
-| Now or never | 76.00% | ~146 |
-| Let's play a game… | 75.00% | ~144 |
-| First aid | 63.00% | ~121 |
-| Soundtrack | 62.00% | ~119 |
+| Let's play a game… | 75.00% | ~145 |
+| Now or never | 75.00% | ~145 |
+| First aid | 63.00% | ~122 |
+| Soundtrack | 62.00% | ~120 |
 | Antidote | 56.00% | ~108 |
-| Pick the right door | 27.00% | ~52 |
-| The third floor | 19.00% | ~36 |
+| Pick the right door | 26.00% | ~50 |
+| The third floor | 19.00% | ~37 |
 | One-way | 17.00% | ~33 |
 | On the right path | 16.00% | ~31 |
 | It can't be true | 16.00% | ~31 |
-| He who seeks, finds! | 13.00% | ~25 |
 | I'm close now | 12.00% | ~23 |
 | Failed attempt | 12.00% | ~23 |
 | The real escape | 12.00% | ~23 |
 | Good choice | 12.00% | ~23 |
 | Take the long way round | 12.00% | ~23 |
+| He who seeks, finds! | 12.00% | ~23 |
 | Nightmare in the kitchen | 10.00% | ~19 |
-| Born again | 7.00% | ~13 |
+| Born again | 7.00% | ~14 |
 | 373 | 6.00% | ~12 |
 | The experiment | 6.00% | ~12 |
 | Matthew's revenge | 5.00% | ~10 |
@@ -36,7 +36,7 @@
 | Matthew's mistakes | 0.00% | ~0 |
 | Sly as a fox | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 192 (Ranked 345)  
+Progressed: 193 (Ranked 345)  
 Completed: 0 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,3 +108,4 @@ Completed: 0 (0.00%) (Ranked 316)
 | 2023-10-07 | 183 | 0 |
 | 2023-10-18 | 185 | 0 |
 | 2023-10-19 | 192 | 0 |
+| 2023-10-20 | 193 | 0 |

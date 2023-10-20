@@ -3855,9 +3855,9 @@
       "Count": 1070
     }
   ],
-  "EOS_Progressed": 75538,
+  "EOS_Progressed": 75539,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 761,
+  "EOS_NewPlayers": 760,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -24425,6 +24425,11 @@
       "Time": "2023-10-20T05:05:08.7958353+00:00",
       "NumProgressed": 75538,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-20T06:05:23.3034894+00:00",
+      "NumProgressed": 75539,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -24484,7 +24489,7 @@
       "Name": "Finders Keepers",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 18884
+      "UsersEstimate": 18885
     },
     {
       "ID": "complet_epilogue_mission",
@@ -24548,7 +24553,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 34747
+      "UsersEstimate": 34748
     },
     {
       "ID": "customize_a_vehicle",
@@ -24612,7 +24617,7 @@
       "Name": "A Young Empire",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18884
+      "UsersEstimate": 18885
     },
     {
       "ID": "empire_tier_3",
@@ -24676,7 +24681,7 @@
       "Name": "Et tu?",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 12841
+      "UsersEstimate": 12842
     },
     {
       "ID": "get_fired",
@@ -24732,7 +24737,7 @@
       "Name": "Making a Name",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 26438
+      "UsersEstimate": 26439
     },
     {
       "ID": "one_third_purple",
@@ -24788,7 +24793,7 @@
       "Name": "Food for Thought",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 20395
+      "UsersEstimate": 20396
     },
     {
       "ID": "two_thirds_purple",
@@ -24844,7 +24849,7 @@
       "Name": "Face Off",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 2830
+      "UsersEstimate": 2831
     },
     {
       "ID": "bfhj_complete_mission_3_collectible",
@@ -24859,13 +24864,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 75538,
+      "Progressed": 75539,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 47175,
+      "Progressed": 47176,
       "Completed": 4138
     }
   ],
@@ -24873,8 +24878,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-10-18T15:59:18.1995048+00:00",
-  "LastChanged_Achievements": "2023-10-20T05:05:08.7958348+00:00",
+  "LastChanged_Achievements": "2023-10-20T06:05:23.3034887+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:20.7071116+00:00",
-  "LastUpdate_Ratings": "2023-10-20T04:59:51.8486764+00:00",
-  "LastUpdate_Achievements": "2023-10-20T05:05:08.7959821+00:00"
+  "LastUpdate_Ratings": "2023-10-20T06:00:00.3582554+00:00",
+  "LastUpdate_Achievements": "2023-10-20T06:05:23.3036725+00:00"
 }

@@ -8,8 +8,8 @@
 | Marc Allard | 62.00% | ~13 |
 | The Ship | 57.00% | ~12 |
 | Seeking the truth | 52.00% | ~11 |
-| An old friend | 43.00% | ~9 |
-| The Gala | 38.00% | ~8 |
+| An old friend | 48.00% | ~10 |
+| The Gala | 43.00% | ~9 |
 | A curious gathering | 38.00% | ~8 |
 | Little grey cells | 33.00% | ~7 |
 | Impossible is possible | 33.00% | ~7 |

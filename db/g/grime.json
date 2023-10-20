@@ -1153,9 +1153,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 153293,
+  "EOS_Progressed": 153301,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1556,
+  "EOS_NewPlayers": 1563,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12288,6 +12288,11 @@
       "Time": "2023-10-20T05:06:11.2612356+00:00",
       "NumProgressed": 153293,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-20T06:06:24.5142811+00:00",
+      "NumProgressed": 153301,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -12395,7 +12400,7 @@
       "Name": "Shapely",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "DEFEAT_FLOWERHEART",
@@ -12483,7 +12488,7 @@
       "Name": "Watcher",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "DEFEAT_WHISPERERS",
@@ -12666,21 +12671,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 152876,
+      "Progressed": 152884,
       "Completed": 1164
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 153293,
+      "Progressed": 153301,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-19T03:57:30.2133222+00:00",
-  "LastChanged_Achievements": "2023-10-20T05:06:11.2612351+00:00",
+  "LastChanged_Achievements": "2023-10-20T06:06:24.5142805+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:33.8479674+00:00",
-  "LastUpdate_Ratings": "2023-10-20T04:58:02.1629036+00:00",
-  "LastUpdate_Achievements": "2023-10-20T05:06:11.2613239+00:00"
+  "LastUpdate_Ratings": "2023-10-20T05:58:11.9924732+00:00",
+  "LastUpdate_Achievements": "2023-10-20T06:06:24.5143996+00:00"
 }

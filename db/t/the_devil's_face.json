@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 401,
+  "EOS_Progressed": 402,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -1754,6 +1754,11 @@
       "Time": "2023-10-20T05:07:12.7270502+00:00",
       "NumProgressed": 401,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-20T06:07:25.243855+00:00",
+      "NumProgressed": 402,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 14,
@@ -1765,15 +1770,15 @@
       "Name": "The gateway to the underworld",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "296pn27",
       "Name": "Is it merely a dream?",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 104
+      "UsersEstimate": 109
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -1876,14 +1881,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 401,
+      "Progressed": 402,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-10-20T05:07:12.7270498+00:00",
+  "LastChanged_Achievements": "2023-10-20T06:07:25.2438543+00:00",
   "LastUpdate_AppInfo": "2023-10-14T11:57:11.021684+00:00",
-  "LastUpdate_Ratings": "2023-10-20T05:00:43.0937767+00:00",
-  "LastUpdate_Achievements": "2023-10-20T05:07:12.7270671+00:00"
+  "LastUpdate_Ratings": "2023-10-20T06:00:53.0261201+00:00",
+  "LastUpdate_Achievements": "2023-10-20T06:07:25.243878+00:00"
 }

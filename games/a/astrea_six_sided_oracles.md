@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 31.00% | ~19 |
+| Meissa's Savior | 32.00% | ~20 |
+| Dicesmithing Time! | 31.00% | ~19 |
+| Endless Tricks | 31.00% | ~19 |
 | Eridanian Champion | 31.00% | ~19 |
 | Noctuan Champion | 31.00% | ~19 |
-| Dicesmithing Time! | 30.00% | ~18 |
-| Endless Tricks | 30.00% | ~18 |
-| Sanctuary Guardian | 30.00% | ~18 |
-| Mechanical Buddy | 28.00% | ~17 |
-| Purification Pioneer | 28.00% | ~17 |
-| Apian Champion | 28.00% | ~17 |
-| Lacertian Champion | 28.00% | ~17 |
-| Wild's Keeper | 26.00% | ~16 |
-| Mind Illuminator | 25.00% | ~15 |
-| Stellar Dismantler | 25.00% | ~15 |
+| Mechanical Buddy | 29.00% | ~18 |
+| Purification Pioneer | 29.00% | ~18 |
+| Sanctuary Guardian | 29.00% | ~18 |
+| Lacertian Champion | 29.00% | ~18 |
+| Wild's Keeper | 27.00% | ~17 |
+| Apian Champion | 27.00% | ~17 |
+| Mind Illuminator | 24.00% | ~15 |
+| Stellar Dismantler | 24.00% | ~15 |
 | Behenian Champion | 23.00% | ~14 |
 | Anomaly Destroyer | 21.00% | ~13 |
 | Loyal Partner | 21.00% | ~13 |
@@ -42,7 +42,7 @@
 | The Chaos Artisan | 8.00% | ~5 |
 | The Dark Moon | 8.00% | ~5 |
 | Behenian Hero | 8.00% | ~5 |
-| The Distorted Sage | 7.00% | ~4 |
+| The Distorted Sage | 6.00% | ~4 |
 | Artificer | 5.00% | ~3 |
 | If I Had Failed... | 5.00% | ~3 |
 | Purification Avatar | 5.00% | ~3 |
@@ -103,7 +103,7 @@
 | Virtuous Warrior | 0.00% | ~0 |
 | Apian Mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61 (Ranked 426)  
+Progressed: 62 (Ranked 425)  
 Completed: 0 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,3 +129,4 @@ Completed: 0 (0.00%) (Ranked 316)
 | 2023-10-15 | 56 | 0 |
 | 2023-10-16 | 58 | 0 |
 | 2023-10-19 | 61 | 0 |
+| 2023-10-20 | 62 | 0 |

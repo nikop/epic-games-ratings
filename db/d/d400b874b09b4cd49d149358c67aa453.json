@@ -1507,9 +1507,9 @@
       "ID": "ACH_END_FIRST_MAIL_MISSION",
       "SetID": "al4k4nh",
       "Name": "I love customers",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 356
+      "UsersEstimate": 360
     },
     {
       "ID": "ACH_END_FIRST_TUTORIAL",
@@ -1674,8 +1674,8 @@
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-10-20T05:07:08.5057598+00:00",
+  "LastChanged_Achievements": "2023-10-20T06:07:21.1835475+00:00",
   "LastUpdate_AppInfo": "2023-10-18T22:09:33.8138445+00:00",
-  "LastUpdate_Ratings": "2023-10-20T04:57:45.855195+00:00",
-  "LastUpdate_Achievements": "2023-10-20T05:07:08.505783+00:00"
+  "LastUpdate_Ratings": "2023-10-20T05:57:53.9895129+00:00",
+  "LastUpdate_Achievements": "2023-10-20T06:07:21.1835894+00:00"
 }

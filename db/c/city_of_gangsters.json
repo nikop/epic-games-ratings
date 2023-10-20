@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 399,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 71,
+  "Ranking_EOS_NewPlayers": 72,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -688,9 +688,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 348433,
+  "EOS_Progressed": 348435,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 956,
+  "EOS_NewPlayers": 952,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21308,6 +21308,11 @@
       "Time": "2023-10-20T05:05:47.9677095+00:00",
       "NumProgressed": 348433,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-20T06:06:01.7034466+00:00",
+      "NumProgressed": 348435,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -21447,7 +21452,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 45296
+      "UsersEstimate": 45297
     },
     {
       "ID": "ach018",
@@ -21527,7 +21532,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 160279
+      "UsersEstimate": 160280
     },
     {
       "ID": "ach028",
@@ -21623,7 +21628,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 34843
+      "UsersEstimate": 34844
     },
     {
       "ID": "ach040",
@@ -21671,7 +21676,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 45296
+      "UsersEstimate": 45297
     },
     {
       "ID": "ach046",
@@ -21783,7 +21788,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 34843
+      "UsersEstimate": 34844
     },
     {
       "ID": "ach060",
@@ -21847,7 +21852,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 55749
+      "UsersEstimate": 55750
     },
     {
       "ID": "ach069",
@@ -21958,7 +21963,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 348433,
+      "Progressed": 348435,
       "Completed": 7
     }
   ],
@@ -21966,8 +21971,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-10-19T15:58:26.556201+00:00",
-  "LastChanged_Achievements": "2023-10-20T05:05:47.967709+00:00",
+  "LastChanged_Achievements": "2023-10-20T06:06:01.7034459+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:45.8070686+00:00",
-  "LastUpdate_Ratings": "2023-10-20T04:58:41.6241532+00:00",
-  "LastUpdate_Achievements": "2023-10-20T05:05:47.9678838+00:00"
+  "LastUpdate_Ratings": "2023-10-20T05:58:50.6814296+00:00",
+  "LastUpdate_Achievements": "2023-10-20T06:06:01.703682+00:00"
 }

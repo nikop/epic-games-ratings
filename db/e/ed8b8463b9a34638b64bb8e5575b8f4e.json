@@ -4,7 +4,7 @@
   "ProductSlug": "the-isle-tide-hotel-adf588",
   "Ranking_EOS_Progress": 473,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-09-12T11:00:00+00:00",
@@ -189,9 +189,9 @@
       "ID": "check_and_no_mate",
       "SetID": "7i36ba9",
       "Name": "Check and No Mate",
-      "Percentage": 6,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "christ_the_saviour",
@@ -205,9 +205,9 @@
       "ID": "cold_feet",
       "SetID": "7i36ba9",
       "Name": "Cold Feet",
-      "Percentage": 16,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "cultipedia",
@@ -357,9 +357,9 @@
       "ID": "the_petition",
       "SetID": "7i36ba9",
       "Name": "The Petition",
-      "Percentage": 16,
+      "Percentage": 19,
       "XP": 95,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "the_price_is_right",
@@ -404,8 +404,8 @@
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2023-10-20T05:04:55.3354457+00:00",
+  "LastChanged_Achievements": "2023-10-20T06:05:09.7356932+00:00",
   "LastUpdate_AppInfo": "2023-10-13T23:57:20.0684448+00:00",
-  "LastUpdate_Ratings": "2023-10-20T04:57:04.0857003+00:00",
-  "LastUpdate_Achievements": "2023-10-20T05:04:55.3354625+00:00"
+  "LastUpdate_Ratings": "2023-10-20T05:57:11.1275957+00:00",
+  "LastUpdate_Achievements": "2023-10-20T06:05:09.7357145+00:00"
 }
