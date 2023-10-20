@@ -1111,10 +1111,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 427,
       "NumberOfAwardsMax": 216
+    },
+    {
+      "Time": "2023-10-20T14:00:38.2941947+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 428,
+      "NumberOfAwardsMax": 216
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 427,
+  "NumberOfAwards": 428,
   "NumberOfAwardsMax": 216,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1152,7 +1158,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 24
+      "Count": 25
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1173,9 +1179,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 231916,
+  "EOS_Progressed": 231924,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 1451,
+  "EOS_NewPlayers": 1448,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15398,6 +15404,11 @@
       "Time": "2023-10-20T13:15:05.840502+00:00",
       "NumProgressed": 231916,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-20T14:10:03.8123211+00:00",
+      "NumProgressed": 231924,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 88,
@@ -15465,7 +15476,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6957
+      "UsersEstimate": 6958
     },
     {
       "ID": "Chapter3",
@@ -15857,7 +15868,7 @@
       "Name": "Sowwy!",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 76532
+      "UsersEstimate": 76535
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -15873,7 +15884,7 @@
       "Name": "GG EZ",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 6957
+      "UsersEstimate": 6958
     },
     {
       "ID": "EndCombatOneHp",
@@ -15881,7 +15892,7 @@
       "Name": "DM intervention",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6957
+      "UsersEstimate": 6958
     },
     {
       "ID": "EndGameCursed",
@@ -15905,7 +15916,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 16234
+      "UsersEstimate": 16235
     },
     {
       "ID": "FollowBraztok",
@@ -15945,7 +15956,7 @@
       "Name": "We come in peace",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 1391
+      "UsersEstimate": 1392
     },
     {
       "ID": "MinistrelEpic",
@@ -16017,7 +16028,7 @@
       "Name": "L\u00EBgal Legend",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 1391
+      "UsersEstimate": 1392
     },
     {
       "ID": "QuestPriestess",
@@ -16105,28 +16116,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6957
+      "UsersEstimate": 6958
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 231916,
+      "Progressed": 231924,
       "Completed": 6
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 231916,
+      "Progressed": 231924,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2023-10-15T22:57:47.2240798+00:00",
-  "LastChanged_Achievements": "2023-10-20T13:15:05.8405016+00:00",
+  "LastChanged": "2023-10-20T14:00:38.2941945+00:00",
+  "LastChanged_Achievements": "2023-10-20T14:10:03.8123206+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:06.1366459+00:00",
-  "LastUpdate_Ratings": "2023-10-20T13:05:23.2491663+00:00",
-  "LastUpdate_Achievements": "2023-10-20T13:15:05.8407557+00:00"
+  "LastUpdate_Ratings": "2023-10-20T14:00:38.294195+00:00",
+  "LastUpdate_Achievements": "2023-10-20T14:10:03.812472+00:00"
 }

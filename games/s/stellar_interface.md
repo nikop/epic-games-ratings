@@ -92,6 +92,7 @@
 | Rambo VI | 2.00% | ~1 |
 | Space Odysseus | 2.00% | ~1 |
 | Freedom Fighter | 2.00% | ~1 |
+| Goodbye Terror | 2.00% | ~1 |
 | Namaste | 2.00% | ~1 |
 | Burrow Deep | 2.00% | ~1 |
 | Omicron Gamma | 2.00% | ~1 |
@@ -117,7 +118,6 @@
 | Voyager 3 | 0.00% | ~0 |
 | Pedal to the Metal | 0.00% | ~0 |
 | No Peace No Love | 0.00% | ~0 |
-| Goodbye Terror | 0.00% | ~0 |
 | Charlie Doesn't Surf | 0.00% | ~0 |
 | Plower Flower | 0.00% | ~0 |
 | Articulated Exoskeleton | 0.00% | ~0 |

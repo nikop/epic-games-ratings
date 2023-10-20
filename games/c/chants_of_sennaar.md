@@ -18,8 +18,8 @@
 | Cable guy | 8.00% | ~25 |
 | A good beginning | 8.00% | ~25 |
 | One last step | 8.00% | ~25 |
-| Half the way | 7.00% | ~21 |
-| Champollion | 7.00% | ~21 |
+| Half the way | 7.00% | ~22 |
+| Champollion | 7.00% | ~22 |
 | Open door | 6.00% | ~18 |
 | Feels like springtime | 6.00% | ~18 |
 | Alchemists Express | 6.00% | ~18 |
@@ -30,8 +30,8 @@
 | A great audience | 3.00% | ~9 |
 | Fashion victim | 1.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 307 (Ranked 315)  
-Completed: 20 (6.51%) (Ranked 51)  
+Progressed: 308 (Ranked 315)  
+Completed: 20 (6.49%) (Ranked 51)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -122,4 +122,4 @@ Completed: 20 (6.51%) (Ranked 51)
 | 2023-10-17 | 304 | 20 |
 | 2023-10-18 | 305 | 20 |
 | 2023-10-19 | 306 | 20 |
-| 2023-10-20 | 307 | 20 |
+| 2023-10-20 | 308 | 20 |

@@ -1,33 +1,33 @@
 # Soulstice
 [Store](https://store.epicgames.com/en-US/p/soulstice)  
 [View Rawdata](../../db/c/cb8afc06acb14f6a8cf3ab01f4b361ce.json)  
-Rating: 4.18 (Ranked 903)  
+Rating: 4.18 (Ranked 904)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The touch of Chaos | 38.00% | ~107,077 |
-| May the Torchbearer light our way | 36.00% | ~101,441 |
-| A powerful aura was here | 23.00% | ~64,810 |
-| Let's raise the stakes!! | 10.00% | ~28,178 |
-| Your wounds… They are healing so fast! | 6.00% | ~16,907 |
-| Rumors are true | 5.00% | ~14,089 |
-| Pride is a sin, young Knight | 5.00% | ~14,089 |
-| Bring it on! | 5.00% | ~14,089 |
-| We'll be careful | 4.00% | ~11,271 |
-| Back to your senses | 3.00% | ~8,453 |
-| They tricked me | 2.00% | ~5,636 |
-| We need to talk | 2.00% | ~5,636 |
-| They won't last long | 2.00% | ~5,636 |
-| I took a risk | 2.00% | ~5,636 |
-| I feel drawn to it | 1.00% | ~2,818 |
-| Here to stay | 1.00% | ~2,818 |
-| Counting on you | 1.00% | ~2,818 |
-| This is the end | 1.00% | ~2,818 |
-| We can choose to fight | 1.00% | ~2,818 |
-| Their fate is sealed | 1.00% | ~2,818 |
+| The touch of Chaos | 38.00% | ~107,107 |
+| May the Torchbearer light our way | 36.00% | ~101,470 |
+| A powerful aura was here | 23.00% | ~64,828 |
+| Let's raise the stakes!! | 10.00% | ~28,186 |
+| Your wounds… They are healing so fast! | 6.00% | ~16,912 |
+| Rumors are true | 5.00% | ~14,093 |
+| Pride is a sin, young Knight | 5.00% | ~14,093 |
+| Bring it on! | 5.00% | ~14,093 |
+| We'll be careful | 4.00% | ~11,274 |
+| Back to your senses | 3.00% | ~8,456 |
+| They tricked me | 2.00% | ~5,637 |
+| We need to talk | 2.00% | ~5,637 |
+| They won't last long | 2.00% | ~5,637 |
+| I took a risk | 2.00% | ~5,637 |
+| I feel drawn to it | 1.00% | ~2,819 |
+| Here to stay | 1.00% | ~2,819 |
+| Counting on you | 1.00% | ~2,819 |
+| This is the end | 1.00% | ~2,819 |
+| We can choose to fight | 1.00% | ~2,819 |
+| Their fate is sealed | 1.00% | ~2,819 |
 | Not even from this world | 0.60% | ~1,691 |
 | You want more? I've got more! | 0.50% | ~1,409 |
-| No damsels in distress | 0.30% | ~845 |
+| No damsels in distress | 0.30% | ~846 |
 | The Ashen Knight | 0.20% | ~564 |
 | Through the Veil | 0.20% | ~564 |
 | The immortal is bound to reborn | 0.10% | ~282 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 903)
 | We strike as one | 0.10% | ~282 |
 | Chaos be damned! | 0.10% | ~282 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 281,781 (Ranked 49)  
+Progressed: 281,861 (Ranked 49)  
 Completed: 1 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 1 (0.00%) (Ranked 316)
 | 2023-10-17 | 278,045 | 1 |
 | 2023-10-18 | 279,492 | 1 |
 | 2023-10-19 | 280,964 | 1 |
-| 2023-10-20 | 281,781 | 1 |
+| 2023-10-20 | 281,861 | 1 |
 ## Awards
 Max (Great Boss Battles): 33  (Ranked 468)  
 Sum: 33 (Ranked 493)  

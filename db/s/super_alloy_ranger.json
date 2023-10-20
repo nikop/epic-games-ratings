@@ -646,9 +646,9 @@
       "ID": "Achi_18",
       "SetID": "51a97k7",
       "Name": "Gear Up",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "Achi_19",
@@ -678,9 +678,9 @@
       "ID": "Achi_22",
       "SetID": "51a97k7",
       "Name": "Iceberg Theory",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "Achi_23",
@@ -742,9 +742,9 @@
       "ID": "Achi_30",
       "SetID": "51a97k7",
       "Name": "A Grand Show",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "Achi_31",
@@ -919,8 +919,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-10-20T13:15:23.7278263+00:00",
+  "LastChanged_Achievements": "2023-10-20T14:10:22.4886466+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:15.9188063+00:00",
-  "LastUpdate_Ratings": "2023-10-20T13:02:40.3567107+00:00",
-  "LastUpdate_Achievements": "2023-10-20T13:15:23.7278764+00:00"
+  "LastUpdate_Ratings": "2023-10-20T13:57:33.5652051+00:00",
+  "LastUpdate_Achievements": "2023-10-20T14:10:22.4886851+00:00"
 }

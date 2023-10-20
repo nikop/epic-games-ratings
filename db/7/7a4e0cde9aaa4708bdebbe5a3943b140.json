@@ -2,9 +2,9 @@
   "ID": "7a4e0cde9aaa4708bdebbe5a3943b140",
   "Name": "RedRaptor",
   "ProductSlug": "redraptor-71deb7",
-  "Ranking_EOS_Progress": 589,
+  "Ranking_EOS_Progress": 579,
   "Ranking_EOS_Completed": 2,
-  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewPlayers": 316,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-10-11T12:00:00+00:00",
@@ -22,11 +22,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3,
+  "EOS_Progressed": 4,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 66.67,
+  "EOS_Completed_Percentage": 50,
   "EosHistory": [
     {
       "Time": "2023-10-11T15:07:27.5875608+00:00",
@@ -47,6 +47,11 @@
       "Time": "2023-10-17T00:07:08.6059483+00:00",
       "NumProgressed": 3,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-20T14:07:40.912602+00:00",
+      "NumProgressed": 4,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-18T15:02:16.3526143+00:00",
@@ -57,7 +62,7 @@
       "ID": "Stage1",
       "SetID": "ag762md",
       "Name": "Stage 1",
-      "Percentage": 133,
+      "Percentage": 100,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -65,7 +70,7 @@
       "ID": "Stage2",
       "SetID": "ag762md",
       "Name": "Stage 2",
-      "Percentage": 67,
+      "Percentage": 50,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -73,7 +78,7 @@
       "ID": "Stage3",
       "SetID": "ag762md",
       "Name": "Stage 3",
-      "Percentage": 67,
+      "Percentage": 50,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -81,7 +86,7 @@
       "ID": "Stage4",
       "SetID": "ag762md",
       "Name": "Stage 4",
-      "Percentage": 67,
+      "Percentage": 50,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -89,7 +94,7 @@
       "ID": "Stage5",
       "SetID": "ag762md",
       "Name": "Stage 5",
-      "Percentage": 67,
+      "Percentage": 50,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -97,7 +102,7 @@
       "ID": "Upgrade1",
       "SetID": "ag762md",
       "Name": "First Upgrade",
-      "Percentage": 100,
+      "Percentage": 75,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -105,7 +110,7 @@
       "ID": "Upgrade10",
       "SetID": "ag762md",
       "Name": "Tenth Upgrade",
-      "Percentage": 100,
+      "Percentage": 75,
       "XP": 100,
       "UsersEstimate": 3
     },
@@ -113,7 +118,7 @@
       "ID": "Upgrade2",
       "SetID": "ag762md",
       "Name": "Second Upgrade",
-      "Percentage": 100,
+      "Percentage": 75,
       "XP": 100,
       "UsersEstimate": 3
     },
@@ -121,7 +126,7 @@
       "ID": "Upgrade3",
       "SetID": "ag762md",
       "Name": "Third Upgrade",
-      "Percentage": 100,
+      "Percentage": 75,
       "XP": 100,
       "UsersEstimate": 3
     },
@@ -129,7 +134,7 @@
       "ID": "Upgrade4",
       "SetID": "ag762md",
       "Name": "Fourth Upgrade",
-      "Percentage": 100,
+      "Percentage": 75,
       "XP": 100,
       "UsersEstimate": 3
     },
@@ -137,7 +142,7 @@
       "ID": "Upgrade5",
       "SetID": "ag762md",
       "Name": "Fifth Upgrade",
-      "Percentage": 100,
+      "Percentage": 75,
       "XP": 100,
       "UsersEstimate": 3
     }
@@ -146,13 +151,13 @@
     {
       "ID": "ag762md",
       "IsBase": true,
-      "Progressed": 3,
+      "Progressed": 4,
       "Completed": 2
     }
   ],
   "FirstSeenAchievements": "2023-09-18T15:02:16.3526142+00:00",
-  "LastChanged_Achievements": "2023-10-20T13:12:23.7576556+00:00",
+  "LastChanged_Achievements": "2023-10-20T14:07:40.9126015+00:00",
   "LastUpdate_AppInfo": "2023-10-16T16:57:10.2248982+00:00",
-  "LastUpdate_Ratings": "2023-10-20T13:03:30.650171+00:00",
-  "LastUpdate_Achievements": "2023-10-20T13:12:23.7576658+00:00"
+  "LastUpdate_Ratings": "2023-10-20T13:58:30.1983435+00:00",
+  "LastUpdate_Achievements": "2023-10-20T14:07:40.9126094+00:00"
 }

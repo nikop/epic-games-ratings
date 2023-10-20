@@ -2,7 +2,7 @@
   "ID": "277e364d24ec43069f4ee3c4414d5096",
   "Name": "Guacamelee! 2",
   "ProductSlug": "guacamelee-2-ac4977",
-  "Ranking_Rating": 379,
+  "Ranking_Rating": 380,
   "Ranking_Popularity": 538,
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 78,
@@ -329,9 +329,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 111760,
+  "EOS_Progressed": 111763,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 730,
+  "EOS_NewPlayers": 729,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -15044,6 +15044,11 @@
       "Time": "2023-10-20T13:12:53.5891109+00:00",
       "NumProgressed": 111760,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-10-20T14:08:13.7300309+00:00",
+      "NumProgressed": 111763,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 49,
@@ -15063,7 +15068,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 86055
+      "UsersEstimate": 86058
     },
     {
       "ID": "EAwards_10",
@@ -15127,7 +15132,7 @@
       "Name": "Talented Player",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 40234
+      "UsersEstimate": 40235
     },
     {
       "ID": "EAwards_18",
@@ -15135,7 +15140,7 @@
       "Name": "You Survived",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 10058
+      "UsersEstimate": 10059
     },
     {
       "ID": "EAwards_19",
@@ -15151,7 +15156,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 53645
+      "UsersEstimate": 53646
     },
     {
       "ID": "EAwards_20",
@@ -15199,7 +15204,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 21234
+      "UsersEstimate": 21235
     },
     {
       "ID": "EAwards_26",
@@ -15239,7 +15244,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 21234
+      "UsersEstimate": 21235
     },
     {
       "ID": "EAwards_30",
@@ -15247,7 +15252,7 @@
       "Name": "Moves Like Jaguar",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 4470
+      "UsersEstimate": 4471
     },
     {
       "ID": "EAwards_31",
@@ -15327,7 +15332,7 @@
       "Name": "Severed",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13411
+      "UsersEstimate": 13412
     },
     {
       "ID": "EAwards_40",
@@ -15407,7 +15412,7 @@
       "Name": "Prickly Pair",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 10058
+      "UsersEstimate": 10059
     },
     {
       "ID": "EAwards_6",
@@ -15423,7 +15428,7 @@
       "Name": "Questionable Plumbing",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13411
+      "UsersEstimate": 13412
     },
     {
       "ID": "EAwards_8",
@@ -15431,7 +15436,7 @@
       "Name": "Santa Golpiza!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13411
+      "UsersEstimate": 13412
     },
     {
       "ID": "EAwards_9",
@@ -15446,7 +15451,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 111760,
+      "Progressed": 111763,
       "Completed": 47
     }
   ],
@@ -15454,8 +15459,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-25T16:00:07.3978241+00:00",
-  "LastChanged_Achievements": "2023-10-20T13:12:53.5891106+00:00",
+  "LastChanged_Achievements": "2023-10-20T14:08:13.7300305+00:00",
   "LastUpdate_AppInfo": "2023-10-20T02:13:27.0030355+00:00",
-  "LastUpdate_Ratings": "2023-10-20T13:02:32.3276434+00:00",
-  "LastUpdate_Achievements": "2023-10-20T13:12:53.5892617+00:00"
+  "LastUpdate_Ratings": "2023-10-20T13:57:25.1465827+00:00",
+  "LastUpdate_Achievements": "2023-10-20T14:08:13.7301344+00:00"
 }

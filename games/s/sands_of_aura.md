@@ -10,6 +10,7 @@
 | A Small Thirsty Thing | 13.00% | ~1 |
 | Let Me Solo Them | 13.00% | ~1 |
 | Sovereignty of Irons | 13.00% | ~1 |
+| Transformative Nature | 13.00% | ~1 |
 | Rain Must Fall | 0.00% | ~0 |
 | No Salvation | 0.00% | ~0 |
 | Overboard | 0.00% | ~0 |
@@ -58,7 +59,6 @@
 | Artisan Armaments | 0.00% | ~0 |
 | Reaching Vines | 0.00% | ~0 |
 | Holding Out | 0.00% | ~0 |
-| Transformative Nature | 0.00% | ~0 |
 | Twin Thorns | 0.00% | ~0 |
 | Savage Progeny | 0.00% | ~0 |
 | Champion of Starspire | 0.00% | ~0 |

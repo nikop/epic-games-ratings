@@ -2,9 +2,9 @@
   "ID": "357881b5bfbe4dbb8804e55e826057cc",
   "Name": "Lempo",
   "ProductSlug": "lempo-a6a67d",
-  "Ranking_EOS_Progress": 684,
+  "Ranking_EOS_Progress": 632,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-09-07T15:00:00+00:00",
@@ -24,12 +24,18 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2023-10-20T14:08:40.6359868+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
   "AchievementsAdded": "2023-10-20T11:06:50.9287705+00:00",
   "TotalAchievements": 34,
   "TotalAchievementsXP": 1000,
@@ -110,9 +116,9 @@
       "ID": "DOGS_OUT",
       "SetID": "2elb2co",
       "Name": "Who let the dog out",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DYING_IS_A_PROMISE",
@@ -302,23 +308,23 @@
       "ID": "WORKING_OVERTIME",
       "SetID": "2elb2co",
       "Name": "Working overtime",
-      "Percentage": 0,
+      "Percentage": 200,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
     {
       "ID": "2elb2co",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-10T04:57:31.3604018+00:00",
   "FirstSeenAchievements": "2023-08-09T09:06:40.0586903+00:00",
-  "LastChanged_Achievements": "2023-10-20T13:13:18.5302303+00:00",
+  "LastChanged_Achievements": "2023-10-20T14:08:40.6359862+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:43.9206345+00:00",
-  "LastUpdate_Ratings": "2023-10-20T13:06:41.3968842+00:00",
-  "LastUpdate_Achievements": "2023-10-20T13:13:18.5302555+00:00"
+  "LastUpdate_Ratings": "2023-10-20T14:02:08.779054+00:00",
+  "LastUpdate_Achievements": "2023-10-20T14:08:40.6360074+00:00"
 }

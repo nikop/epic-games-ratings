@@ -4,7 +4,7 @@
   "ProductSlug": "stellar-interface-d14cc4",
   "Ranking_EOS_Progress": 424,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-03-30T00:00:00+00:00",
@@ -612,9 +612,9 @@
       "ID": "CompleteFullRunWithErebusAchievement",
       "SetID": "a8djcgh",
       "Name": "Goodbye Terror",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CompleteFullRunWithKilgoreAchievement",
@@ -1411,8 +1411,8 @@
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-10-20T13:10:16.5845479+00:00",
+  "LastChanged_Achievements": "2023-10-20T14:05:22.7994397+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:21.6026477+00:00",
-  "LastUpdate_Ratings": "2023-10-20T13:06:00.0607565+00:00",
-  "LastUpdate_Achievements": "2023-10-20T13:10:16.584748+00:00"
+  "LastUpdate_Ratings": "2023-10-20T14:01:21.2370875+00:00",
+  "LastUpdate_Achievements": "2023-10-20T14:05:22.7995997+00:00"
 }

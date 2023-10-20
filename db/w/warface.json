@@ -2,12 +2,12 @@
   "ID": "80e804312c2149c69a75aee703e85a9a",
   "Name": "Warface",
   "ProductSlug": "warface",
-  "Ranking_Rating": 995,
+  "Ranking_Rating": 996,
   "Ranking_Popularity": 215,
   "Ranking_PopularitySum": 174,
-  "Ranking_EOS_Progress": 684,
+  "Ranking_EOS_Progress": 685,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-06-29T09:00:00+00:00",
@@ -3724,10 +3724,16 @@
       "Rating": 3.9,
       "NumberOfAwards": 2962,
       "NumberOfAwardsMax": 428
+    },
+    {
+      "Time": "2023-10-20T14:02:36.8309925+00:00",
+      "Rating": 3.9,
+      "NumberOfAwards": 2963,
+      "NumberOfAwardsMax": 428
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2962,
+  "NumberOfAwards": 2963,
   "NumberOfAwardsMax": 428,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3741,7 +3747,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 365
+      "Count": 366
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3809,8 +3815,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:34.3823284+00:00",
-  "LastChanged": "2023-10-20T00:00:14.9556367+00:00",
+  "LastChanged": "2023-10-20T14:02:36.8309924+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:56.6818152+00:00",
-  "LastUpdate_Ratings": "2023-10-20T13:07:04.4052244+00:00",
-  "LastUpdate_Achievements": "2023-10-20T13:10:53.6356405+00:00"
+  "LastUpdate_Ratings": "2023-10-20T14:02:36.830993+00:00",
+  "LastUpdate_Achievements": "2023-10-20T14:06:03.2030418+00:00"
 }

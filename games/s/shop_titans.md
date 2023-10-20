@@ -1,7 +1,7 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 973)  
+Rating: 3.99 (Ranked 974)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -22,6 +22,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | The Daily Grind | 1.00% | ~1,379 |
 | On the Path to Greatness | 1.00% | ~1,379 |
 | Ascended | 1.00% | ~1,379 |
+| Vanity, Verily | 1.00% | ~1,379 |
 | Bounty Hunters | 1.00% | ~1,379 |
 | Blank Page Syndrome | 1.00% | ~1,379 |
 | Demand for Supplies | 1.00% | ~1,379 |
@@ -37,7 +38,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Did we pack lunch? | 1.00% | ~1,379 |
 | Arcane Industries | 1.00% | ~1,379 |
 | Research & Development | 0.90% | ~1,241 |
-| Vanity, Verily | 0.90% | ~1,241 |
 | Power of Love | 0.90% | ~1,241 |
 | Flawless Fusion | 0.90% | ~1,241 |
 | Helping Hand | 0.90% | ~1,241 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,859 (Ranked 73)  
+Progressed: 137,865 (Ranked 73)  
 Completed: 171 (0.12%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,7 +302,7 @@ Completed: 171 (0.12%) (Ranked 243)
 | 2023-10-17 | 137,757 | 170 |
 | 2023-10-18 | 137,790 | 171 |
 | 2023-10-19 | 137,829 | 171 |
-| 2023-10-20 | 137,859 | 171 |
+| 2023-10-20 | 137,865 | 171 |
 ## Awards
 Max (Great for Beginners): 4,797  (Ranked 72)  
 Sum: 27,410 (Ranked 50)  

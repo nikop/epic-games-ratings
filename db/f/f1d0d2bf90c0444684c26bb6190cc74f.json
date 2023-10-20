@@ -2,9 +2,9 @@
   "ID": "f1d0d2bf90c0444684c26bb6190cc74f",
   "Name": "Sunlight Scream",
   "ProductSlug": "sunlight-scream-de8642",
-  "Ranking_EOS_Progress": 631,
+  "Ranking_EOS_Progress": 632,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-10-01T15:00:00+00:00",
@@ -235,8 +235,8 @@
   ],
   "FirstSeen": "2023-10-03T07:59:55.5424018+00:00",
   "FirstSeenAchievements": "2023-10-01T18:04:21.9188966+00:00",
-  "LastChanged_Achievements": "2023-10-20T13:12:23.1740828+00:00",
+  "LastChanged_Achievements": "2023-10-20T14:07:40.2740659+00:00",
   "LastUpdate_AppInfo": "2023-10-13T23:57:21.0309034+00:00",
-  "LastUpdate_Ratings": "2023-10-20T13:03:53.7955342+00:00",
-  "LastUpdate_Achievements": "2023-10-20T13:12:23.1741008+00:00"
+  "LastUpdate_Ratings": "2023-10-20T13:58:56.4834065+00:00",
+  "LastUpdate_Achievements": "2023-10-20T14:07:40.2740804+00:00"
 }

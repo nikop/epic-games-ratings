@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iceberg Theory | 77.00% | ~77 |
-| Gear Up | 66.00% | ~66 |
-| A Grand Show | 66.00% | ~66 |
+| Iceberg Theory | 78.00% | ~78 |
+| Gear Up | 67.00% | ~67 |
+| A Grand Show | 67.00% | ~67 |
 | Freshen Up | 58.00% | ~58 |
 | GG EZ | 55.00% | ~55 |
 | Hydrophobia | 42.00% | ~42 |

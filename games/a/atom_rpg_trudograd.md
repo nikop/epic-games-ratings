@@ -16,9 +16,9 @@ Rating: 4.54 (Ranked 514)
 | Walking Fortress | 4.00% | ~50 |
 | Freelance Police | 3.00% | ~38 |
 | The Great and Powerful | 3.00% | ~38 |
+| Albino Bloodsucker | 2.00% | ~25 |
 | Fight Club | 2.00% | ~25 |
 | Human Antidote | 2.00% | ~25 |
-| Albino Bloodsucker | 1.00% | ~13 |
 | Death of the Author | 1.00% | ~13 |
 | Memoirs of a Nibbler | 1.00% | ~13 |
 | Rising Star | 0.90% | ~11 |

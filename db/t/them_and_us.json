@@ -4,7 +4,7 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 238,
+  "EOS_Progressed": 240,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -1026,6 +1026,11 @@
       "Time": "2023-10-20T10:08:08.6978127+00:00",
       "NumProgressed": 238,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-20T14:08:58.199777+00:00",
+      "NumProgressed": 240,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1053,7 +1058,7 @@
       "Name": "Alone with Them",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 178
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -1131,9 +1136,9 @@
       "ID": "ETUA_ForcedtoKill",
       "SetID": "65jc0ap",
       "Name": "Forced to Kill",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 168
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -1141,7 +1146,7 @@
       "Name": "Them and Us",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ETUA_LifeOfTheThousandGods",
@@ -1165,7 +1170,7 @@
       "Name": "Modern Player",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ETUA_NightmareOver",
@@ -1197,7 +1202,7 @@
       "Name": "OUTRAGE",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ETUA_PTD",
@@ -1229,7 +1234,7 @@
       "Name": "Rest In Peace",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ETUA_SUPER",
@@ -1243,17 +1248,17 @@
       "ID": "ETUA_SafeFornow",
       "SetID": "65jc0ap",
       "Name": "Safe...For now?",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 79
     },
     {
       "ID": "ETUA_StayDead",
       "SetID": "65jc0ap",
       "Name": "I Am The Gate Keeper!",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "ETUA_SurvivalHero",
@@ -1293,7 +1298,7 @@
       "Name": "The Curse Is Real",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ETUA_TheForgottenTower",
@@ -1309,7 +1314,7 @@
       "Name": "This Coffin Has Your Name On It!",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ETUA_ThisMansionIsClean",
@@ -1323,9 +1328,9 @@
       "ID": "ETUA_Thiswillbealongnight",
       "SetID": "65jc0ap",
       "Name": "A Night To Remember",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 96
     },
     {
       "ID": "ETUA_Trapped",
@@ -1356,7 +1361,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 238,
+      "Progressed": 240,
       "Completed": 1
     }
   ],
@@ -1364,8 +1369,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-10-20T13:13:34.6270885+00:00",
+  "LastChanged_Achievements": "2023-10-20T14:08:58.1997766+00:00",
   "LastUpdate_AppInfo": "2023-10-14T13:56:58.0301725+00:00",
-  "LastUpdate_Ratings": "2023-10-20T13:03:57.6187673+00:00",
-  "LastUpdate_Achievements": "2023-10-20T13:13:34.6271253+00:00"
+  "LastUpdate_Ratings": "2023-10-20T13:59:00.6635384+00:00",
+  "LastUpdate_Achievements": "2023-10-20T14:08:58.1998066+00:00"
 }

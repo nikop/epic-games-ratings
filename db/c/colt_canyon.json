@@ -2,12 +2,12 @@
   "ID": "9e1d499956694029a8a58c2c4a2b6b27",
   "Name": "Colt Canyon",
   "ProductSlug": "colt-canyon",
-  "Ranking_Rating": 379,
+  "Ranking_Rating": 339,
   "Ranking_Popularity": 538,
   "Ranking_PopularitySum": 538,
-  "Ranking_EOS_Progress": 684,
+  "Ranking_EOS_Progress": 685,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-09-02T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.61,
+  "Rating": 4.63,
   "RatingHistory": [
     {
       "Time": "2022-11-22T22:58:31.2864905+00:00",
@@ -43,6 +43,12 @@
       "Rating": 4.61,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-10-20T14:02:04.0197038+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -61,8 +67,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:00.807877+00:00",
   "FirstSeenRating": "2022-11-22T22:58:31.2864903+00:00",
-  "LastChanged": "2023-03-31T05:58:33.0805346+00:00",
+  "LastChanged": "2023-10-20T14:02:04.0197036+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:41.8609728+00:00",
-  "LastUpdate_Ratings": "2023-10-20T13:06:37.0345267+00:00",
-  "LastUpdate_Achievements": "2023-10-20T13:11:32.1784769+00:00"
+  "LastUpdate_Ratings": "2023-10-20T14:02:04.0197041+00:00",
+  "LastUpdate_Achievements": "2023-10-20T14:06:44.6472806+00:00"
 }

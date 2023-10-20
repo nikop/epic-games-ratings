@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -559,9 +559,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3759,
+  "EOS_Progressed": 3760,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -7359,6 +7359,11 @@
       "Time": "2023-10-20T10:05:22.68771+00:00",
       "NumProgressed": 3759,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-20T14:06:22.9357627+00:00",
+      "NumProgressed": 3760,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7370,7 +7375,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -7450,7 +7455,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1729
+      "UsersEstimate": 1730
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -7538,7 +7543,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1541
+      "UsersEstimate": 1542
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -7602,7 +7607,7 @@
       "Name": "Der Geist",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -7626,7 +7631,7 @@
       "Name": "Close Quarters",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -7706,7 +7711,7 @@
       "Name": "Change the Channel",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1165
+      "UsersEstimate": 1166
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -7762,7 +7767,7 @@
       "Name": "Target America",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -7937,13 +7942,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3710,
+      "Progressed": 3711,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3759,
+      "Progressed": 3760,
       "Completed": 11
     }
   ],
@@ -7951,8 +7956,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-10-18T04:01:21.5719039+00:00",
-  "LastChanged_Achievements": "2023-10-20T13:11:11.8998862+00:00",
+  "LastChanged_Achievements": "2023-10-20T14:06:22.9357624+00:00",
   "LastUpdate_AppInfo": "2023-10-14T10:57:25.01046+00:00",
-  "LastUpdate_Ratings": "2023-10-20T13:08:26.5453365+00:00",
-  "LastUpdate_Achievements": "2023-10-20T13:11:11.900032+00:00"
+  "LastUpdate_Ratings": "2023-10-20T14:03:21.2329144+00:00",
+  "LastUpdate_Achievements": "2023-10-20T14:06:22.9358558+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "a567c32599bf4d4fb609e424f3691b39",
   "Name": "Them\u0027s Fightin\u0027 Herds",
   "ProductSlug": "thems-fightin-herds",
-  "Ranking_Rating": 356,
+  "Ranking_Rating": 357,
   "Ranking_Popularity": 506,
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 61,
@@ -265,7 +265,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 231237,
+  "EOS_Progressed": 231238,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 273,
   "EOS_NewCompleters": 0,
@@ -19145,6 +19145,11 @@
       "Time": "2023-10-20T13:12:12.1686943+00:00",
       "NumProgressed": 231237,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-20T14:07:28.2965732+00:00",
+      "NumProgressed": 231238,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -19220,7 +19225,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 83245
+      "UsersEstimate": 83246
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -19356,7 +19361,7 @@
       "Name": "Makin\u0027 Bacon",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 9249
+      "UsersEstimate": 9250
     },
     {
       "ID": "WIN_1_ONLINE_MATCH",
@@ -19379,7 +19384,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 231237,
+      "Progressed": 231238,
       "Completed": 5
     }
   ],
@@ -19387,8 +19392,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-10-13T17:59:14.424156+00:00",
-  "LastChanged_Achievements": "2023-10-20T13:12:12.1686938+00:00",
+  "LastChanged_Achievements": "2023-10-20T14:07:28.2965728+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:22.1725241+00:00",
-  "LastUpdate_Ratings": "2023-10-20T13:03:11.9302745+00:00",
-  "LastUpdate_Achievements": "2023-10-20T13:12:12.1688231+00:00"
+  "LastUpdate_Ratings": "2023-10-20T13:58:08.6559024+00:00",
+  "LastUpdate_Achievements": "2023-10-20T14:07:28.2966759+00:00"
 }

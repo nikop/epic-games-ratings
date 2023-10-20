@@ -4,6 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Working overtime | 200.00% | ~2 |
+| Who let the dog out | 100.00% | ~1 |
 | Afraid of the dark | 0.00% | ~0 |
 | Alone in the dark | 0.00% | ~0 |
 | Blaze it | 0.00% | ~0 |
@@ -13,7 +15,6 @@
 | Champion of the lost | 0.00% | ~0 |
 | Clueless | 0.00% | ~0 |
 | Curses? No thanks! | 0.00% | ~0 |
-| Who let the dog out | 0.00% | ~0 |
 | Dying is a promise | 0.00% | ~0 |
 | Endless Loop | 0.00% | ~0 |
 | Immortal runner | 0.00% | ~0 |
@@ -37,4 +38,10 @@
 | The truth is out there | 0.00% | ~0 |
 | Void digger | 0.00% | ~0 |
 | Wonderful garden grandpa! | 0.00% | ~0 |
-| Working overtime | 0.00% | ~0 |
+## Popularity (Based on EOS Achievements)
+Progressed: 1 (Ranked 632)  
+Completed: 0 (0.00%) (Ranked 316)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2023-10-20 | 1 | 0 |

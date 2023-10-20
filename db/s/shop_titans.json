@@ -2,12 +2,12 @@
   "ID": "9696e0c7c26841789a152588c744d506",
   "Name": "Shop Titans",
   "ProductSlug": "shop-titans-d95c1c",
-  "Ranking_Rating": 973,
+  "Ranking_Rating": 974,
   "Ranking_Popularity": 72,
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -6601,9 +6601,9 @@
       "Count": 3762
     }
   ],
-  "EOS_Progressed": 137859,
+  "EOS_Progressed": 137865,
   "EOS_Completed": 171,
-  "EOS_NewPlayers": 337,
+  "EOS_NewPlayers": 338,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -25326,6 +25326,11 @@
       "Time": "2023-10-20T13:11:39.1757919+00:00",
       "NumProgressed": 137859,
       "NumCompleted": 171
+    },
+    {
+      "Time": "2023-10-20T14:06:52.4783688+00:00",
+      "NumProgressed": 137865,
+      "NumCompleted": 171
     }
   ],
   "TotalAchievements": 112,
@@ -25463,9 +25468,9 @@
       "ID": "bookentry",
       "SetID": "anfd17p",
       "Name": "Vanity, Verily",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1241
+      "UsersEstimate": 1379
     },
     {
       "ID": "boss01",
@@ -26232,15 +26237,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 137859,
+      "Progressed": 137865,
       "Completed": 171
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-20T02:59:44.5550251+00:00",
-  "LastChanged_Achievements": "2023-10-20T13:11:39.1757915+00:00",
+  "LastChanged_Achievements": "2023-10-20T14:06:52.4783686+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:10.2617104+00:00",
-  "LastUpdate_Ratings": "2023-10-20T13:05:38.4855198+00:00",
-  "LastUpdate_Achievements": "2023-10-20T13:11:39.1760842+00:00"
+  "LastUpdate_Ratings": "2023-10-20T14:00:57.8666233+00:00",
+  "LastUpdate_Achievements": "2023-10-20T14:06:52.4785827+00:00"
 }
