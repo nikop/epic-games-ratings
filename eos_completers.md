@@ -3,8 +3,8 @@
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 66.67% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.58% |
-| 4 | [The Riflemen](games/t/the_riflemen.md) | 46.85% |
-| 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.83% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.83% |
+| 4 | [The Riflemen](games/t/the_riflemen.md) | 46.83% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.17% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -70,10 +70,10 @@
 | 68 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.55% |
 | 69 | [ZZT!](games/z/zzt!.md) | 4.46% |
 | 70 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.43% |
-| 71 | [The Bunker](games/t/the_bunker.md) | 4.20% |
-| 72 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.15% |
-| 73 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.06% |
-| 74 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.05% |
+| 71 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.29% |
+| 72 | [The Bunker](games/t/the_bunker.md) | 4.20% |
+| 73 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.15% |
+| 74 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.06% |
 | 75 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.00% |
 | 76 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
 | 77 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.78% |
@@ -117,9 +117,9 @@
 | 115 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 116 | [Night Book](games/n/night_book.md) | 1.83% |
 | 117 | [Sifu](games/s/sifu.md) | 1.81% |
-| 118 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.80% |
-| 119 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.79% |
-| 119 | [Frogun](games/f/frogun.md) | 1.79% |
+| 118 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.79% |
+| 118 | [Frogun](games/f/frogun.md) | 1.79% |
+| 118 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.79% |
 | 121 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 1.75% |
 | 122 | [Somerville](games/s/somerville.md) | 1.70% |
 | 123 | [Five Dates](games/f/five_dates.md) | 1.58% |
@@ -241,11 +241,11 @@
 | 239 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
 | 239 | [Isonzo](games/i/isonzo.md) | 0.13% |
 | 239 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
-| 239 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.13% |
-| 243 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
-| 243 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.12% |
-| 243 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
-| 243 | [Shop Titans](games/s/shop_titans.md) | 0.12% |
+| 242 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
+| 242 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.12% |
+| 242 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.12% |
+| 242 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
+| 242 | [Shop Titans](games/s/shop_titans.md) | 0.12% |
 | 247 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.11% |
 | 247 | [Outward Definitive Edition](games/o/outward.md) | 0.11% |
 | 249 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
