@@ -4,7 +4,7 @@
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 66.67% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.58% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 47.02% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 46.72% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 46.71% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.17% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -221,9 +221,9 @@
 | 219 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.22% |
 | 219 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 0.22% |
 | 219 | [Going Medieval](games/g/going_medieval.md) | 0.22% |
-| 222 | [Blanc](games/b/blanc.md) | 0.21% |
-| 222 | [Circus Electrique](games/c/circus_electrique.md) | 0.21% |
-| 222 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.21% |
+| 219 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.22% |
+| 223 | [Blanc](games/b/blanc.md) | 0.21% |
+| 223 | [Circus Electrique](games/c/circus_electrique.md) | 0.21% |
 | 225 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.20% |
 | 225 | [Remnant 2](games/r/remnant_2.md) | 0.20% |
 | 227 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.19% |
