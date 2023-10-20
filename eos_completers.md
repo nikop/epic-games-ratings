@@ -4,7 +4,7 @@
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 66.67% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.58% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.85% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 46.66% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 46.65% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.17% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -50,7 +50,7 @@
 | 48 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.25% |
 | 49 | [Time Loader](games/t/time_loader.md) | 7.20% |
 | 50 | [Scorn](games/s/scorn.md) | 6.99% |
-| 51 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.54% |
+| 51 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.51% |
 | 52 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.38% |
 | 53 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.27% |
 | 54 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -138,7 +138,7 @@
 | 135 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.29% |
 | 137 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.16% |
 | 138 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.12% |
-| 138 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.12% |
+| 139 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.11% |
 | 140 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 1.08% |
 | 141 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.07% |
 | 142 | [Adios](games/a/adios.md) | 1.05% |
@@ -160,7 +160,7 @@
 | 158 | [Eternights](games/e/eternights.md) | 0.74% |
 | 159 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.73% |
 | 160 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.71% |
-| 161 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.69% |
+| 161 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.68% |
 | 162 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.66% |
 | 163 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.64% |
 | 164 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
@@ -185,8 +185,8 @@
 | 181 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
 | 181 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.46% |
 | 185 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.45% |
-| 186 | [It Takes Two](games/i/it_takes_two.md) | 0.44% |
-| 187 | [Tchia](games/t/tchia.md) | 0.43% |
+| 185 | [Tchia](games/t/tchia.md) | 0.45% |
+| 187 | [It Takes Two](games/i/it_takes_two.md) | 0.44% |
 | 188 | [Them and Us](games/t/them_and_us.md) | 0.42% |
 | 188 | [Wildermyth](games/w/wildermyth.md) | 0.42% |
 | 190 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.41% |
@@ -221,9 +221,9 @@
 | 219 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.22% |
 | 219 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 0.22% |
 | 219 | [Going Medieval](games/g/going_medieval.md) | 0.22% |
-| 219 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.22% |
-| 223 | [Blanc](games/b/blanc.md) | 0.21% |
-| 223 | [Circus Electrique](games/c/circus_electrique.md) | 0.21% |
+| 222 | [Blanc](games/b/blanc.md) | 0.21% |
+| 222 | [Circus Electrique](games/c/circus_electrique.md) | 0.21% |
+| 222 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.21% |
 | 225 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.20% |
 | 225 | [Remnant 2](games/r/remnant_2.md) | 0.20% |
 | 227 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.19% |
