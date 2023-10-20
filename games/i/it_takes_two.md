@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Struck A Pose | 88.00% | ~13,094 |
-| Fried Friendship | 87.00% | ~12,945 |
-| Look At Him Go | 78.00% | ~11,606 |
-| On Rails Experience | 57.00% | ~8,481 |
-| A Daring Devil | 52.00% | ~7,737 |
-| Break the Bank | 43.00% | ~6,398 |
-| It Took Two | 41.00% | ~6,100 |
+| Struck A Pose | 88.00% | ~13,097 |
+| Fried Friendship | 87.00% | ~12,948 |
+| Look At Him Go | 78.00% | ~11,609 |
+| On Rails Experience | 57.00% | ~8,483 |
+| A Daring Devil | 52.00% | ~7,739 |
+| Break the Bank | 43.00% | ~6,400 |
+| It Took Two | 41.00% | ~6,102 |
 | Bug Sized Relaxation | 21.00% | ~3,125 |
-| Plastic Prison Breakers | 17.00% | ~2,529 |
+| Plastic Prison Breakers | 17.00% | ~2,530 |
 | Terror Of The Seven Seas | 15.00% | ~2,232 |
-| Realize Your Art | 12.00% | ~1,785 |
-| Force Triangulated | 12.00% | ~1,785 |
-| Meditation Maestro | 12.00% | ~1,785 |
+| Realize Your Art | 12.00% | ~1,786 |
+| Force Triangulated | 12.00% | ~1,786 |
+| Meditation Maestro | 12.00% | ~1,786 |
 | Lost And Found | 10.00% | ~1,488 |
 | Something Fishy | 10.00% | ~1,488 |
 | Platforming Prodigy | 9.00% | ~1,339 |
-| Snackosaurus | 8.00% | ~1,190 |
+| Snackosaurus | 8.00% | ~1,191 |
 | Mood Swing | 7.00% | ~1,042 |
 | Minigame Megalomania | 4.00% | ~595 |
 | Faraway Frequencies | 4.00% | ~595 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,879 (Ranked 137)  
+Progressed: 14,883 (Ranked 137)  
 Completed: 65 (0.44%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,4 +60,4 @@ Completed: 65 (0.44%) (Ranked 187)
 | 2023-10-17 | 14,272 | 64 |
 | 2023-10-18 | 14,455 | 64 |
 | 2023-10-19 | 14,625 | 64 |
-| 2023-10-20 | 14,879 | 65 |
+| 2023-10-20 | 14,883 | 65 |

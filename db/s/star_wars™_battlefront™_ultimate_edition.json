@@ -2,7 +2,7 @@
   "ID": "fefe1db11f534484987ef50ec1e25225",
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
-  "Ranking_EOS_Progress": 254,
+  "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 105,
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 754,
+  "EOS_Progressed": 756,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
@@ -2069,6 +2069,11 @@
       "Time": "2023-10-20T21:08:46.4310001+00:00",
       "NumProgressed": 754,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-20T22:09:30.937927+00:00",
+      "NumProgressed": 756,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -2257,7 +2262,7 @@
       "Name": "Never tell me the odds!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "achievement_30",
@@ -2305,7 +2310,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "achievement_36",
@@ -2321,7 +2326,7 @@
       "Name": "Off to a good start",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "achievement_38",
@@ -2345,7 +2350,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "achievement_40",
@@ -2353,7 +2358,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "achievement_41",
@@ -2385,7 +2390,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "achievement_45",
@@ -2433,7 +2438,7 @@
       "Name": "Shoot first",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "achievement_50",
@@ -2561,15 +2566,15 @@
       "Name": "A cunning warrior",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "achievement_8",
       "SetID": "271ol84",
       "Name": "Don\u0027t underestimate the Force",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 38
+      "UsersEstimate": 30
     },
     {
       "ID": "achievement_9",
@@ -2584,13 +2589,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 754,
+      "Progressed": 756,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 754,
+      "Progressed": 756,
       "Completed": 1
     }
   ],
@@ -2598,8 +2603,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-20T21:08:46.4309993+00:00",
+  "LastChanged_Achievements": "2023-10-20T22:09:30.9379265+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:22.846224+00:00",
-  "LastUpdate_Ratings": "2023-10-20T21:00:19.153571+00:00",
-  "LastUpdate_Achievements": "2023-10-20T21:08:46.4310861+00:00"
+  "LastUpdate_Ratings": "2023-10-20T22:00:29.8687378+00:00",
+  "LastUpdate_Achievements": "2023-10-20T22:09:30.9380215+00:00"
 }

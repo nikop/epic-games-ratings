@@ -16,10 +16,10 @@
 | The Missing Magdalene | 41.00% | ~9 |
 | Arthur Hastings | 41.00% | ~9 |
 | Everything matters | 32.00% | ~7 |
-| Order and method | 27.00% | ~6 |
+| Order and method | 32.00% | ~7 |
+| An expert mediator | 27.00% | ~6 |
+| Betty Allen | 27.00% | ~6 |
 | DI Hardwicke | 27.00% | ~6 |
-| An expert mediator | 23.00% | ~5 |
-| Betty Allen | 23.00% | ~5 |
 | The Investigation Begins | 23.00% | ~5 |
 | An odd series of events | 14.00% | ~3 |
 | Ms. Camilla B. Culsham | 14.00% | ~3 |

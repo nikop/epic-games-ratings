@@ -4,7 +4,7 @@
   "ProductSlug": "ghostrunner-2",
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 462,
+  "EOS_Progressed": 467,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 461,
+  "EOS_NewPlayers": 466,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -214,6 +214,11 @@
     {
       "Time": "2023-10-20T21:06:49.9748084+00:00",
       "NumProgressed": 462,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-20T22:07:29.4798758+00:00",
+      "NumProgressed": 467,
       "NumCompleted": 0
     }
   ],
@@ -498,13 +503,13 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 462,
+      "Progressed": 467,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
-  "LastChanged_Achievements": "2023-10-20T21:06:49.9748081+00:00",
+  "LastChanged_Achievements": "2023-10-20T22:07:29.4798753+00:00",
   "LastUpdate_AppInfo": "2023-10-19T09:57:16.8195873+00:00",
-  "LastUpdate_Ratings": "2023-10-20T21:03:35.44585+00:00",
-  "LastUpdate_Achievements": "2023-10-20T21:06:49.9748324+00:00"
+  "LastUpdate_Ratings": "2023-10-20T22:04:11.2263923+00:00",
+  "LastUpdate_Achievements": "2023-10-20T22:07:29.4799024+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 97,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
@@ -3855,9 +3855,9 @@
       "Count": 1070
     }
   ],
-  "EOS_Progressed": 75603,
+  "EOS_Progressed": 75604,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 765,
+  "EOS_NewPlayers": 758,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -24505,6 +24505,11 @@
       "Time": "2023-10-20T21:06:17.9407201+00:00",
       "NumProgressed": 75603,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-20T22:06:53.2280595+00:00",
+      "NumProgressed": 75604,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -24604,7 +24609,7 @@
       "Name": "Showdown",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 12096
+      "UsersEstimate": 12097
     },
     {
       "ID": "complete_first_side_hustle",
@@ -24628,7 +24633,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 34777
+      "UsersEstimate": 34778
     },
     {
       "ID": "customize_a_vehicle",
@@ -24748,7 +24753,7 @@
       "Name": "Kitted Out",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 10584
+      "UsersEstimate": 10585
     },
     {
       "ID": "get_betrayed",
@@ -24772,7 +24777,7 @@
       "Name": "Took It to The Limit",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 12096
+      "UsersEstimate": 12097
     },
     {
       "ID": "infinite_boost_refill",
@@ -24900,7 +24905,7 @@
       "Name": "To The Nines",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 31753
+      "UsersEstimate": 31754
     },
     {
       "ID": "whole_map_purple",
@@ -24939,13 +24944,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 75603,
+      "Progressed": 75604,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 47240,
+      "Progressed": 47241,
       "Completed": 4142
     }
   ],
@@ -24953,8 +24958,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-10-18T15:59:18.1995048+00:00",
-  "LastChanged_Achievements": "2023-10-20T21:06:17.9407195+00:00",
+  "LastChanged_Achievements": "2023-10-20T22:06:53.2280587+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:20.7071116+00:00",
-  "LastUpdate_Ratings": "2023-10-20T21:01:29.2418881+00:00",
-  "LastUpdate_Achievements": "2023-10-20T21:06:17.9409511+00:00"
+  "LastUpdate_Ratings": "2023-10-20T22:01:52.036976+00:00",
+  "LastUpdate_Achievements": "2023-10-20T22:06:53.2283392+00:00"
 }

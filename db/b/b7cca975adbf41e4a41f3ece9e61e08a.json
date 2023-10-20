@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 875,
+  "EOS_Progressed": 877,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 867,
+  "EOS_NewPlayers": 869,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -389,6 +389,11 @@
       "Time": "2023-10-20T21:07:07.2421542+00:00",
       "NumProgressed": 875,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-20T22:07:37.5742188+00:00",
+      "NumProgressed": 877,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -401,7 +406,7 @@
       "Name": "Last Night...Did We...",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 735
+      "UsersEstimate": 737
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -409,7 +414,7 @@
       "Name": "I Challenge You To Save More Money!",
       "Percentage": 74,
       "XP": 20,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -497,7 +502,7 @@
       "Name": "I Love How Tough You Are",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -585,7 +590,7 @@
       "Name": "Wanna Come To My Place For Dinner?",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_30",
@@ -607,9 +612,9 @@
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "7opfcp",
       "Name": "What I Want Is You",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 298
+      "UsersEstimate": 307
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -617,7 +622,7 @@
       "Name": "To Be Or Not To Be",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -649,7 +654,7 @@
       "Name": "FIRST LOVE",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_0",
@@ -657,7 +662,7 @@
       "Name": "Are You Alright?",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_1",
@@ -711,9 +716,9 @@
       "ID": "NEW_ACHIEVEMENT_2_7",
       "SetID": "7opfcp",
       "Name": "Drama King",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 201
+      "UsersEstimate": 193
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_8",
@@ -736,14 +741,14 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 875,
+      "Progressed": 877,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-18T10:00:20.8201425+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
-  "LastChanged_Achievements": "2023-10-20T21:07:07.2421534+00:00",
+  "LastChanged_Achievements": "2023-10-20T22:07:37.5742184+00:00",
   "LastUpdate_AppInfo": "2023-10-20T20:57:21.0259668+00:00",
-  "LastUpdate_Ratings": "2023-10-20T21:02:48.0754936+00:00",
-  "LastUpdate_Achievements": "2023-10-20T21:07:07.2421949+00:00"
+  "LastUpdate_Ratings": "2023-10-20T22:03:20.7700622+00:00",
+  "LastUpdate_Achievements": "2023-10-20T22:07:37.5742547+00:00"
 }

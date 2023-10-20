@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 74,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -429,11 +429,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2991,
+  "EOS_Progressed": 2992,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.05,
+  "EOS_Completed_Percentage": 4.04,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:02.7979813+00:00",
@@ -3829,6 +3829,11 @@
       "Time": "2023-10-20T21:04:02.7480046+00:00",
       "NumProgressed": 2991,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-10-20T22:04:31.1013168+00:00",
+      "NumProgressed": 2992,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 14,
@@ -3840,7 +3845,7 @@
       "Name": "Ancient Curse",
       "Percentage": 28,
       "XP": 80,
-      "UsersEstimate": 837
+      "UsersEstimate": 838
     },
     {
       "ID": "ACH_CASE_CLOSED",
@@ -3936,7 +3941,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 927
+      "UsersEstimate": 928
     },
     {
       "ID": "ACH_WELCOME_TO_RAVEN_BROOKS",
@@ -3944,14 +3949,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 77,
       "XP": 35,
-      "UsersEstimate": 2303
+      "UsersEstimate": 2304
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2991,
+      "Progressed": 2992,
       "Completed": 121
     }
   ],
@@ -3959,8 +3964,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-10-19T19:00:24.4466804+00:00",
-  "LastChanged_Achievements": "2023-10-20T21:04:02.7480039+00:00",
+  "LastChanged_Achievements": "2023-10-20T22:04:31.1013163+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:11.4944348+00:00",
-  "LastUpdate_Ratings": "2023-10-20T20:57:43.3082612+00:00",
-  "LastUpdate_Achievements": "2023-10-20T21:04:02.7480515+00:00"
+  "LastUpdate_Ratings": "2023-10-20T21:57:27.8864669+00:00",
+  "LastUpdate_Achievements": "2023-10-20T22:04:31.1013596+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 435,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -781,9 +781,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 10642,
+  "EOS_Progressed": 10643,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -11596,6 +11596,11 @@
       "Time": "2023-10-20T19:05:53.4752494+00:00",
       "NumProgressed": 10642,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-10-20T22:06:38.4767015+00:00",
+      "NumProgressed": 10643,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 34,
@@ -11767,7 +11772,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4895
+      "UsersEstimate": 4896
     },
     {
       "ID": "ACH22",
@@ -11775,7 +11780,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2128
+      "UsersEstimate": 2129
     },
     {
       "ID": "ACH23",
@@ -11878,7 +11883,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10642,
+      "Progressed": 10643,
       "Completed": 60
     }
   ],
@@ -11886,8 +11891,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-10-20T18:00:39.436899+00:00",
-  "LastChanged_Achievements": "2023-10-20T21:06:05.0497239+00:00",
+  "LastChanged_Achievements": "2023-10-20T22:06:38.4767011+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:56.7423853+00:00",
-  "LastUpdate_Ratings": "2023-10-20T21:00:43.2957854+00:00",
-  "LastUpdate_Achievements": "2023-10-20T21:06:05.0498166+00:00"
+  "LastUpdate_Ratings": "2023-10-20T22:01:00.0047654+00:00",
+  "LastUpdate_Achievements": "2023-10-20T22:06:38.4768067+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 115,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3885,10 +3885,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6994,
       "NumberOfAwardsMax": 1726
+    },
+    {
+      "Time": "2023-10-20T21:59:55.1875468+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6995,
+      "NumberOfAwardsMax": 1726
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6994,
+  "NumberOfAwards": 6995,
   "NumberOfAwardsMax": 1726,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3914,7 +3920,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 637
+      "Count": 638
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3959,9 +3965,9 @@
       "Count": 389
     }
   ],
-  "EOS_Progressed": 11633,
+  "EOS_Progressed": 11637,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13879,6 +13885,11 @@
       "Time": "2023-10-20T21:10:18.5482175+00:00",
       "NumProgressed": 11633,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-20T22:10:51.8110676+00:00",
+      "NumProgressed": 11637,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -13890,7 +13901,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2908
+      "UsersEstimate": 2909
     },
     {
       "ID": "02_BurningCity",
@@ -13906,7 +13917,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1512
+      "UsersEstimate": 1513
     },
     {
       "ID": "04_FithCrusade",
@@ -14138,7 +14149,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1745
+      "UsersEstimate": 1746
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -14258,7 +14269,7 @@
       "Name": "A Spark",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2094
+      "UsersEstimate": 2095
     },
     {
       "ID": "49_Flame",
@@ -14770,7 +14781,7 @@
       "Name": "Hanged Man\u0027s Notes",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "DLC4_25_Sarkoris Will Be Green",
@@ -14802,7 +14813,7 @@
       "Name": "The Lady of the Forest",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "DLC4_34_Beware of Still Water",
@@ -14810,28 +14821,28 @@
       "Name": "Beware Still Water",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     }
   ],
   "AchievementSets": [
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10415,
+      "Progressed": 10419,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11633,
+      "Progressed": 11637,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-10-19T21:58:16.2788454+00:00",
-  "LastChanged_Achievements": "2023-10-20T21:10:18.5482165+00:00",
+  "LastChanged": "2023-10-20T21:59:55.1875466+00:00",
+  "LastChanged_Achievements": "2023-10-20T22:10:51.8110672+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:48.4782392+00:00",
-  "LastUpdate_Ratings": "2023-10-20T20:59:46.2494501+00:00",
-  "LastUpdate_Achievements": "2023-10-20T21:10:18.5485029+00:00"
+  "LastUpdate_Ratings": "2023-10-20T21:59:55.1875472+00:00",
+  "LastUpdate_Achievements": "2023-10-20T22:10:51.8113149+00:00"
 }

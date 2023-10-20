@@ -6,12 +6,12 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 25.00% | ~2,908 |
-| A Spark | 18.00% | ~2,094 |
+| Devoured by Darkness | 25.00% | ~2,909 |
+| A Spark | 18.00% | ~2,095 |
 | Burning City | 17.00% | ~1,978 |
-| Defender's Heart | 15.00% | ~1,745 |
+| Defender's Heart | 15.00% | ~1,746 |
 | Mythic Choices | 14.00% | ~1,629 |
-| Banner over the Citadel | 13.00% | ~1,512 |
+| Banner over the Citadel | 13.00% | ~1,513 |
 | Queen's Gratitude | 12.00% | ~1,396 |
 | Fifth Crusade | 8.00% | ~931 |
 | Embrace of the Abyss | 6.00% | ~698 |
@@ -33,9 +33,9 @@ Number of Ratings: 1,354  (23.09.2022)
 | Heroic Victory | 3.00% | ~349 |
 | Core of the Riddle | 3.00% | ~349 |
 | Hey, I Know You! | 3.00% | ~349 |
-| Hanged Man's Notes | 3.00% | ~312 |
-| The Lady of the Forest | 3.00% | ~312 |
-| Beware Still Water | 3.00% | ~312 |
+| Hanged Man's Notes | 3.00% | ~313 |
+| The Lady of the Forest | 3.00% | ~313 |
+| Beware Still Water | 3.00% | ~313 |
 | Path of the Demon | 2.00% | ~233 |
 | Path of the Aeon | 2.00% | ~233 |
 | Path of the Lich | 2.00% | ~233 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,633 (Ranked 146)  
+Progressed: 11,637 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,17 +306,17 @@ Completed: 0 (0.00%) (Ranked 317)
 | 2023-10-17 | 11,545 | 0 |
 | 2023-10-18 | 11,567 | 0 |
 | 2023-10-19 | 11,606 | 0 |
-| 2023-10-20 | 11,633 | 0 |
+| 2023-10-20 | 11,637 | 0 |
 ## Awards
 Max (Character Customization): 1,726  (Ranked 119)  
-Sum: 6,994 (Ranked 115)  
+Sum: 6,995 (Ranked 115)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,726 |
 | This game is Extremely Fun | 652 |
 | This game is Highly Recommended | 640 |
-| This game has Amazing Characters | 637 |
+| This game has Amazing Characters | 638 |
 | This game has Diverse Characters | 630 |
 | This game has Amazing Storytelling | 614 |
 | This game has Challenging Combat | 581 |
@@ -566,3 +566,4 @@ Diff (max vs sum): 4
 | 2023-10-15 | 4.76 | - | 1,723 | 6,989 |
 | 2023-10-17 | 4.76 | - | 1,726 | 6,993 |
 | 2023-10-19 | 4.76 | - | 1,726 | 6,994 |
+| 2023-10-20 | 4.76 | - | 1,726 | 6,995 |

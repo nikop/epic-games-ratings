@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 84.00% | ~735 |
-| I Challenge You To Save More Money! | 74.00% | ~648 |
-| I Love How Tough You Are | 51.00% | ~446 |
-| Wanna Come To My Place For Dinner? | 41.00% | ~359 |
-| Are You Alright? | 35.00% | ~306 |
-| What I Want Is You | 34.00% | ~298 |
-| To Be Or Not To Be | 31.00% | ~271 |
+| Last Night...Did We... | 84.00% | ~737 |
+| I Challenge You To Save More Money! | 74.00% | ~649 |
+| I Love How Tough You Are | 51.00% | ~447 |
+| Wanna Come To My Place For Dinner? | 41.00% | ~360 |
+| What I Want Is You | 35.00% | ~307 |
+| Are You Alright? | 35.00% | ~307 |
+| To Be Or Not To Be | 31.00% | ~272 |
 | Love Actually | 24.00% | ~210 |
 | Go Clean up In Your Own Way | 24.00% | ~210 |
-| Drama King | 23.00% | ~201 |
+| Drama King | 22.00% | ~193 |
 | You're Really Something Else | 21.00% | ~184 |
 | Drama CP: Reel to Real | 20.00% | ~175 |
-| FIRST LOVE | 19.00% | ~166 |
+| FIRST LOVE | 19.00% | ~167 |
 | Worthless Speech | 18.00% | ~158 |
 | Happy Family | 17.00% | ~149 |
 | Still Single | 17.00% | ~149 |
@@ -47,7 +47,7 @@
 | Tall; Grande; Venti | 0.20% | ~2 |
 | Limerence | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 875 (Ranked 245)  
+Progressed: 877 (Ranked 245)  
 Completed: 1 (0.11%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,4 +60,4 @@ Completed: 1 (0.11%) (Ranked 247)
 | 2023-10-10 | 8 | 0 |
 | 2023-10-18 | 179 | 0 |
 | 2023-10-19 | 539 | 0 |
-| 2023-10-20 | 875 | 1 |
+| 2023-10-20 | 877 | 1 |

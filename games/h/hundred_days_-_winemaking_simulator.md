@@ -6,26 +6,26 @@ Number of Ratings: 7,669  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 39.00% | ~3,437 |
-| It's a good start | 9.00% | ~793 |
-| Bonjour! | 7.00% | ~617 |
-| Quack | 7.00% | ~617 |
-| The Assistant | 6.00% | ~529 |
-| The Blue Marl | 6.00% | ~529 |
+| Bye Bye | 39.00% | ~3,442 |
+| It's a good start | 9.00% | ~794 |
+| Bonjour! | 7.00% | ~618 |
+| Quack | 7.00% | ~618 |
+| The Assistant | 6.00% | ~530 |
+| The Blue Marl | 6.00% | ~530 |
 | Ostinata | 5.00% | ~441 |
 | Better than nothing? | 5.00% | ~441 |
 | A long journey | 4.00% | ~353 |
-| Big Money | 3.00% | ~264 |
-| Keep the doctor away | 3.00% | ~264 |
-| Surprise of Langhe | 3.00% | ~264 |
-| Famous | 3.00% | ~264 |
-| What is that? A castle? | 2.00% | ~176 |
-| A lot of space | 2.00% | ~176 |
-| A big garage | 2.00% | ~176 |
-| Millionaire | 2.00% | ~176 |
-| Exotic | 2.00% | ~176 |
-| Welcome to the club | 2.00% | ~176 |
-| Very Important Winemaker | 2.00% | ~176 |
+| Big Money | 3.00% | ~265 |
+| Keep the doctor away | 3.00% | ~265 |
+| Surprise of Langhe | 3.00% | ~265 |
+| Famous | 3.00% | ~265 |
+| What is that? A castle? | 2.00% | ~177 |
+| A lot of space | 2.00% | ~177 |
+| A big garage | 2.00% | ~177 |
+| Millionaire | 2.00% | ~177 |
+| Exotic | 2.00% | ~177 |
+| Welcome to the club | 2.00% | ~177 |
+| Very Important Winemaker | 2.00% | ~177 |
 | Pastry Chef | 1.00% | ~88 |
 | King of Langhe | 1.00% | ~88 |
 | Gem of Monferrato | 1.00% | ~88 |
@@ -38,7 +38,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Unsuitable Terroir | 0.20% | ~18 |
 | Master Winemaker | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,814 (Ranked 153)  
+Progressed: 8,826 (Ranked 153)  
 Completed: 8 (0.09%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 8 (0.09%) (Ranked 256)
 | 2023-10-17 | 8,453 | 8 |
 | 2023-10-18 | 8,579 | 8 |
 | 2023-10-19 | 8,694 | 8 |
-| 2023-10-20 | 8,814 | 8 |
+| 2023-10-20 | 8,826 | 8 |
 ## Awards
 Max (Relaxing): 205  (Ranked 277)  
 Sum: 1,592 (Ranked 221)  

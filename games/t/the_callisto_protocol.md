@@ -26,8 +26,8 @@ Rating: 4.19 (Ranked 898)
 | Full Circle | 4.00% | ~645 |
 | Power Up | 4.00% | ~645 |
 | It's Time | 4.00% | ~162 |
-| Giving Back | 3.00% | ~483 |
-| Terminated | 3.00% | ~483 |
+| Giving Back | 3.00% | ~484 |
+| Terminated | 3.00% | ~484 |
 | In Striking Distance | 2.00% | ~322 |
 | The Commonality | 2.00% | ~322 |
 | One Last Job | 2.00% | ~81 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 898)
 | Hoard Mode | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,115 (Ranked 134)  
+Progressed: 16,118 (Ranked 134)  
 Completed: 75 (0.47%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,7 +229,7 @@ Completed: 75 (0.47%) (Ranked 180)
 | 2023-10-17 | 16,022 | 75 |
 | 2023-10-18 | 16,031 | 75 |
 | 2023-10-19 | 16,085 | 75 |
-| 2023-10-20 | 16,115 | 75 |
+| 2023-10-20 | 16,118 | 75 |
 ## Awards
 Max (Highly Recommended): 76  (Ranked 381)  
 Sum: 448 (Ranked 323)  

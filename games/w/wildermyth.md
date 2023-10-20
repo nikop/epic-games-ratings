@@ -13,6 +13,7 @@ Number of Ratings: 45  (23.09.2022)
 | Gotta Ca... Must Collect All of Them | 0.10% | ~1 |
 | Passing Shadow | 0.10% | ~1 |
 | Completing the Look | 0.10% | ~1 |
+| No More Nightmares | 0.10% | ~1 |
 | Who's Counting? | 0.10% | ~1 |
 | How Romantic! | 0.10% | ~1 |
 | Cutthroat Competitors | 0.10% | ~1 |
@@ -35,7 +36,6 @@ Number of Ratings: 45  (23.09.2022)
 | Back into the Sea | 0.00% | ~0 |
 | Peacemaker | 0.00% | ~0 |
 | Bonebreakers | 0.00% | ~0 |
-| No More Nightmares | 0.00% | ~0 |
 | Plague Doctor | 0.00% | ~0 |
 | Legends Never Die | 0.00% | ~0 |
 | Thematic Divergence | 0.00% | ~0 |

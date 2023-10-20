@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 414,
+  "EOS_Progressed": 415,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -1804,6 +1804,11 @@
       "Time": "2023-10-20T21:08:34.425332+00:00",
       "NumProgressed": 414,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-20T22:09:17.0925309+00:00",
+      "NumProgressed": 415,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 14,
@@ -1861,9 +1866,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "296pn27",
       "Name": "The path to enlightenment",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 70
+      "UsersEstimate": 75
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -1871,15 +1876,15 @@
       "Name": "Our efforts are finally yielding progress",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "296pn27",
       "Name": "This looks really bad",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 62
+      "UsersEstimate": 66
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -1926,14 +1931,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 414,
+      "Progressed": 415,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-10-20T21:08:34.425331+00:00",
+  "LastChanged_Achievements": "2023-10-20T22:09:17.0925304+00:00",
   "LastUpdate_AppInfo": "2023-10-14T11:57:11.021684+00:00",
-  "LastUpdate_Ratings": "2023-10-20T21:02:37.6822477+00:00",
-  "LastUpdate_Achievements": "2023-10-20T21:08:34.4253574+00:00"
+  "LastUpdate_Ratings": "2023-10-20T22:03:06.2095226+00:00",
+  "LastUpdate_Achievements": "2023-10-20T22:09:17.0925586+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 307,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 434,
+  "EOS_Progressed": 435,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -1452,6 +1452,11 @@
       "Time": "2023-10-17T13:13:16.3637527+00:00",
       "NumProgressed": 434,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-20T22:10:07.9179083+00:00",
+      "NumProgressed": 435,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -1479,7 +1484,7 @@
       "Name": "On the Road",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "findalltapes",
@@ -1503,7 +1508,7 @@
       "Name": "Truthseeker",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "scoreminrankrb2",
@@ -1582,7 +1587,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 434,
+      "Progressed": 435,
       "Completed": 2
     }
   ],
@@ -1590,8 +1595,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-10-20T21:09:29.2202399+00:00",
+  "LastChanged_Achievements": "2023-10-20T22:10:07.9179077+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:30.9477837+00:00",
-  "LastUpdate_Ratings": "2023-10-20T20:58:38.4494585+00:00",
-  "LastUpdate_Achievements": "2023-10-20T21:09:29.2202635+00:00"
+  "LastUpdate_Ratings": "2023-10-20T21:58:32.6966717+00:00",
+  "LastUpdate_Achievements": "2023-10-20T22:10:07.9179337+00:00"
 }

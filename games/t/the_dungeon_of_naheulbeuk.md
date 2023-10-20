@@ -6,32 +6,32 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 33.00% | ~76,565 |
-| Alt+F4 | 7.00% | ~16,241 |
-| Where's that freaking Dwarf? | 6.00% | ~13,921 |
-| Déjà vu | 5.00% | ~11,601 |
+| Sowwy! | 33.00% | ~76,571 |
+| Alt+F4 | 7.00% | ~16,242 |
+| Where's that freaking Dwarf? | 6.00% | ~13,922 |
+| Déjà vu | 5.00% | ~11,602 |
 | Sock! SOCK! | 4.00% | ~9,281 |
 | Speedrun | 4.00% | ~9,281 |
-| A beer, two curses, three companions | 3.00% | ~6,960 |
-| GG EZ | 3.00% | ~6,960 |
-| DM intervention | 3.00% | ~6,960 |
-| Fireproof Wizardess | 3.00% | ~6,960 |
-| Livin' in a dwarven paradise | 2.00% | ~4,640 |
-| Shiny and Crôm | 2.00% | ~4,640 |
-| Way of the Wimp | 2.00% | ~4,640 |
-| The plot thickens... At the tavern | 2.00% | ~4,640 |
-| The demons' feast | 2.00% | ~4,640 |
-| The Great Library | 2.00% | ~4,640 |
-| Torture and Sensibility | 2.00% | ~4,640 |
-| Urik's Depths | 2.00% | ~4,640 |
-| The Dungeon Master | 2.00% | ~4,640 |
-| The Statuette of Gladeulfeurah | 2.00% | ~4,640 |
-| The Woman in the High Castle | 2.00% | ~4,640 |
-| A tale of adventurers not quite like the others... | 2.00% | ~4,640 |
-| The Ranger of Chaos | 2.00% | ~4,640 |
-| I am the night | 2.00% | ~4,640 |
-| Team Building Exercise | 2.00% | ~4,640 |
-| Oh, when I'll be level 10... | 2.00% | ~4,640 |
+| A beer, two curses, three companions | 3.00% | ~6,961 |
+| GG EZ | 3.00% | ~6,961 |
+| DM intervention | 3.00% | ~6,961 |
+| Fireproof Wizardess | 3.00% | ~6,961 |
+| Livin' in a dwarven paradise | 2.00% | ~4,641 |
+| Shiny and Crôm | 2.00% | ~4,641 |
+| Way of the Wimp | 2.00% | ~4,641 |
+| The plot thickens... At the tavern | 2.00% | ~4,641 |
+| The demons' feast | 2.00% | ~4,641 |
+| The Great Library | 2.00% | ~4,641 |
+| Torture and Sensibility | 2.00% | ~4,641 |
+| Urik's Depths | 2.00% | ~4,641 |
+| The Dungeon Master | 2.00% | ~4,641 |
+| The Statuette of Gladeulfeurah | 2.00% | ~4,641 |
+| The Woman in the High Castle | 2.00% | ~4,641 |
+| A tale of adventurers not quite like the others... | 2.00% | ~4,641 |
+| The Ranger of Chaos | 2.00% | ~4,641 |
+| I am the night | 2.00% | ~4,641 |
+| Team Building Exercise | 2.00% | ~4,641 |
+| Oh, when I'll be level 10... | 2.00% | ~4,641 |
 | Res Judicata | 1.00% | ~2,320 |
 | The Famous Dungeon of Naheulbeuk | 1.00% | ~2,320 |
 | Dwarf Fortress | 1.00% | ~2,320 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~232 |
 | Dwarf Candy | 0.10% | ~232 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,015 (Ranked 60)  
+Progressed: 232,032 (Ranked 60)  
 Completed: 6 (0.00%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,7 +237,7 @@ Completed: 6 (0.00%) (Ranked 317)
 | 2023-10-17 | 231,503 | 6 |
 | 2023-10-18 | 231,653 | 6 |
 | 2023-10-19 | 231,827 | 6 |
-| 2023-10-20 | 232,015 | 6 |
+| 2023-10-20 | 232,032 | 6 |
 ## Awards
 Max (Character Customization): 216  (Ranked 274)  
 Sum: 428 (Ranked 326)  

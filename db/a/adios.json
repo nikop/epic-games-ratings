@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -117,10 +117,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 76284,
-  "EOS_Completed": 802,
+  "EOS_Progressed": 76287,
+  "EOS_Completed": 803,
   "EOS_NewPlayers": 580,
-  "EOS_NewCompleters": 7,
+  "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
     {
@@ -20572,6 +20572,11 @@
       "Time": "2023-10-20T21:07:54.043887+00:00",
       "NumProgressed": 76284,
       "NumCompleted": 802
+    },
+    {
+      "Time": "2023-10-20T22:08:30.3661961+00:00",
+      "NumProgressed": 76287,
+      "NumCompleted": 803
     }
   ],
   "TotalAchievements": 25,
@@ -20599,7 +20604,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 13731
+      "UsersEstimate": 13732
     },
     {
       "ID": "Audiophile",
@@ -20615,7 +20620,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 16782
+      "UsersEstimate": 16783
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -20623,7 +20628,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 13731
+      "UsersEstimate": 13732
     },
     {
       "ID": "Butcher",
@@ -20703,7 +20708,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 14494
+      "UsersEstimate": 14495
     },
     {
       "ID": "Nice Try",
@@ -20711,7 +20716,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 12205
+      "UsersEstimate": 12206
     },
     {
       "ID": "Nothing Left to Say",
@@ -20727,7 +20732,7 @@
       "Name": "Piano Man",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 8391
+      "UsersEstimate": 8392
     },
     {
       "ID": "Right On Target",
@@ -20782,16 +20787,16 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 76284,
-      "Completed": 802
+      "Progressed": 76287,
+      "Completed": 803
     }
   ],
   "FirstSeen": "2022-07-22T20:27:11.1683553+00:00",
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-10-20T21:07:54.0438863+00:00",
+  "LastChanged_Achievements": "2023-10-20T22:08:30.3661956+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:21.8706974+00:00",
-  "LastUpdate_Ratings": "2023-10-20T20:58:06.8183498+00:00",
-  "LastUpdate_Achievements": "2023-10-20T21:07:54.0440779+00:00"
+  "LastUpdate_Ratings": "2023-10-20T21:57:56.7948526+00:00",
+  "LastUpdate_Achievements": "2023-10-20T22:08:30.366409+00:00"
 }

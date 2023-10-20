@@ -758,9 +758,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4303,
+  "EOS_Progressed": 4306,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 220,
+  "EOS_NewPlayers": 221,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -7793,6 +7793,11 @@
       "Time": "2023-10-20T21:09:45.1706602+00:00",
       "NumProgressed": 4303,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-20T22:10:25.9895657+00:00",
+      "NumProgressed": 4306,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -7805,7 +7810,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -7845,7 +7850,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -7925,7 +7930,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -7965,7 +7970,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -7988,15 +7993,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4303,
+      "Progressed": 4306,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-14T13:04:06.5278861+00:00",
-  "LastChanged_Achievements": "2023-10-20T21:09:45.1706594+00:00",
+  "LastChanged_Achievements": "2023-10-20T22:10:25.989565+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:04.1779972+00:00",
-  "LastUpdate_Ratings": "2023-10-20T21:00:53.6077108+00:00",
-  "LastUpdate_Achievements": "2023-10-20T21:09:45.1707264+00:00"
+  "LastUpdate_Ratings": "2023-10-20T22:01:11.4733195+00:00",
+  "LastUpdate_Achievements": "2023-10-20T22:10:25.9896643+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 396,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -829,9 +829,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 6088,
+  "EOS_Progressed": 6089,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8654,6 +8654,11 @@
       "Time": "2023-10-20T16:06:45.5743758+00:00",
       "NumProgressed": 6088,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-20T22:07:50.0639128+00:00",
+      "NumProgressed": 6089,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -8673,7 +8678,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 3409
+      "UsersEstimate": 3410
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -8689,7 +8694,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 2861
+      "UsersEstimate": 2862
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -8721,7 +8726,7 @@
       "Name": "Scaling up",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 3409
+      "UsersEstimate": 3410
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -8833,7 +8838,7 @@
       "Name": "Diamond in the Rough",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 791
+      "UsersEstimate": 792
     },
     {
       "ID": "ACHIEVEMENT_023",
@@ -8944,13 +8949,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6088,
+      "Progressed": 6089,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5460,
+      "Progressed": 5461,
       "Completed": 112
     }
   ],
@@ -8958,8 +8963,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-10-17T13:06:11.7747359+00:00",
-  "LastChanged_Achievements": "2023-10-20T21:07:18.5228107+00:00",
+  "LastChanged_Achievements": "2023-10-20T22:07:50.0639124+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:14.7785025+00:00",
-  "LastUpdate_Ratings": "2023-10-20T20:57:49.7617465+00:00",
-  "LastUpdate_Achievements": "2023-10-20T21:07:18.5229102+00:00"
+  "LastUpdate_Ratings": "2023-10-20T21:57:39.2545796+00:00",
+  "LastUpdate_Achievements": "2023-10-20T22:07:50.063998+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "8f08ba8f76c940f89fa9d84658535a02",
   "Name": "Mundaun",
   "ProductSlug": "mundaun",
-  "Ranking_EOS_Progress": 686,
+  "Ranking_EOS_Progress": 687,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 402,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-03-16T13:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:20.3066671+00:00",
   "LastChanged": "2023-03-31T05:57:20.3066672+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:03.7669347+00:00",
-  "LastUpdate_Ratings": "2023-10-20T21:03:36.2677463+00:00",
-  "LastUpdate_Achievements": "2023-10-20T21:06:26.4978086+00:00"
+  "LastUpdate_Ratings": "2023-10-20T22:04:11.9960351+00:00",
+  "LastUpdate_Achievements": "2023-10-20T22:07:02.6661563+00:00"
 }

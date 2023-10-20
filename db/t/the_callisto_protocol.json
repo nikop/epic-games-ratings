@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 323,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1313,9 +1313,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 16115,
+  "EOS_Progressed": 16118,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -7728,6 +7728,11 @@
       "Time": "2023-10-20T21:05:33.338991+00:00",
       "NumProgressed": 16115,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2023-10-20T22:06:02.7767507+00:00",
+      "NumProgressed": 16118,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 47,
@@ -7755,7 +7760,7 @@
       "Name": "Giving Back",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -7875,7 +7880,7 @@
       "Name": "Terminated",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -8114,13 +8119,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16115,
+      "Progressed": 16118,
       "Completed": 75
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4041,
+      "Progressed": 4044,
       "Completed": 29
     }
   ],
@@ -8128,8 +8133,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-10-19T07:57:37.4777054+00:00",
-  "LastChanged_Achievements": "2023-10-20T21:05:33.3389901+00:00",
+  "LastChanged_Achievements": "2023-10-20T22:06:02.7767501+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:28.7445303+00:00",
-  "LastUpdate_Ratings": "2023-10-20T20:58:36.6929567+00:00",
-  "LastUpdate_Achievements": "2023-10-20T21:05:33.3390816+00:00"
+  "LastUpdate_Ratings": "2023-10-20T21:58:30.7564203+00:00",
+  "LastUpdate_Achievements": "2023-10-20T22:06:02.7768247+00:00"
 }

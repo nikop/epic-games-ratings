@@ -5,8 +5,8 @@ Rating: 4.40 (Ranked 723)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~79,825 |
-| Predator I | 22.00% | ~56,650 |
+| Survivor | 31.00% | ~79,826 |
+| Predator I | 22.00% | ~56,651 |
 | Fixer I | 10.00% | ~25,750 |
 | A week in Century City | 10.00% | ~25,750 |
 | The Wait | 7.00% | ~18,025 |
@@ -38,31 +38,31 @@ Rating: 4.40 (Ranked 723)
 | Committed Relationship | 0.80% | ~2,060 |
 | Number 1 | 0.80% | ~2,060 |
 | Interior designer | 0.60% | ~1,545 |
-| The Gamble | 0.50% | ~1,287 |
-| The Descent | 0.50% | ~1,287 |
-| A major purchase | 0.50% | ~1,287 |
+| The Gamble | 0.50% | ~1,288 |
+| The Descent | 0.50% | ~1,288 |
+| A major purchase | 0.50% | ~1,288 |
 | Expert Hunter | 0.40% | ~1,030 |
 | Fungi hunter | 0.40% | ~1,030 |
 | Predator III | 0.40% | ~1,030 |
-| Arms dealer | 0.30% | ~772 |
-| Fixer III | 0.30% | ~772 |
-| AML questionnaire | 0.30% | ~772 |
-| Heartbreaker | 0.30% | ~772 |
+| Arms dealer | 0.30% | ~773 |
+| Fixer III | 0.30% | ~773 |
+| AML questionnaire | 0.30% | ~773 |
+| Heartbreaker | 0.30% | ~773 |
 | Workhorse | 0.20% | ~515 |
 | Homerun | 0.20% | ~515 |
 | A season in Century City | 0.20% | ~515 |
-| Saver III | 0.10% | ~257 |
-| Collector | 0.10% | ~257 |
-| Mansion | 0.10% | ~257 |
-| Green thumb III | 0.10% | ~257 |
-| Plantation | 0.10% | ~257 |
-| Reminescence | 0.10% | ~257 |
-| Beloved | 0.10% | ~257 |
-| Capitalist II | 0.10% | ~257 |
-| Capitalist III | 0.10% | ~257 |
-| Hell Is You | 0.10% | ~257 |
+| Saver III | 0.10% | ~258 |
+| Collector | 0.10% | ~258 |
+| Mansion | 0.10% | ~258 |
+| Green thumb III | 0.10% | ~258 |
+| Plantation | 0.10% | ~258 |
+| Reminescence | 0.10% | ~258 |
+| Beloved | 0.10% | ~258 |
+| Capitalist II | 0.10% | ~258 |
+| Capitalist III | 0.10% | ~258 |
+| Hell Is You | 0.10% | ~258 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 257,499 (Ranked 51)  
+Progressed: 257,503 (Ranked 51)  
 Completed: 3 (0.00%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,7 +245,7 @@ Completed: 3 (0.00%) (Ranked 317)
 | 2023-10-17 | 257,404 | 3 |
 | 2023-10-18 | 257,440 | 3 |
 | 2023-10-19 | 257,471 | 3 |
-| 2023-10-20 | 257,499 | 3 |
+| 2023-10-20 | 257,503 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 45  (Ranked 429)  
 Sum: 296 (Ranked 351)  

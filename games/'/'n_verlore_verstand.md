@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start of a Journey | 88.00% | ~36 |
-| A thing of beauty | 85.00% | ~35 |
-| Escape the Maze | 51.00% | ~21 |
-| Brace the cold | 34.00% | ~14 |
-| A Long Walk | 32.00% | ~13 |
+| Start of a Journey | 88.00% | ~37 |
+| A thing of beauty | 86.00% | ~36 |
+| Escape the Maze | 52.00% | ~22 |
+| Brace the cold | 36.00% | ~15 |
+| A Long Walk | 33.00% | ~14 |
 | Dont mind the heat | 12.00% | ~5 |
 | A Dangerous Road | 7.00% | ~3 |
 | City of Puzzles | 7.00% | ~3 |
@@ -53,7 +53,7 @@
 | A Quick Secret | 0.00% | ~0 |
 | A Complete Journey | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41 (Ranked 461)  
+Progressed: 42 (Ranked 457)  
 Completed: 0 (0.00%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,4 +88,4 @@ Completed: 0 (0.00%) (Ranked 317)
 | 2023-09-18 | 38 | 0 |
 | 2023-10-18 | 39 | 0 |
 | 2023-10-19 | 40 | 0 |
-| 2023-10-20 | 41 | 0 |
+| 2023-10-20 | 42 | 0 |

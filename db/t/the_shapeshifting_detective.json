@@ -4,7 +4,7 @@
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
   "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 320,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
@@ -289,9 +289,9 @@
       "ID": "a_woman_scorned",
       "SetID": "2db2j74",
       "Name": "A Woman Scorned",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 53
     },
     {
       "ID": "book_em_danny",
@@ -466,8 +466,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-10-20T21:07:51.4833218+00:00",
+  "LastChanged_Achievements": "2023-10-20T22:08:27.5436276+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:28.592918+00:00",
-  "LastUpdate_Ratings": "2023-10-20T21:01:42.4477539+00:00",
-  "LastUpdate_Achievements": "2023-10-20T21:07:51.4833396+00:00"
+  "LastUpdate_Ratings": "2023-10-20T22:02:05.6226734+00:00",
+  "LastUpdate_Achievements": "2023-10-20T22:08:27.5436446+00:00"
 }

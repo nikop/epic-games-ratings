@@ -17,8 +17,8 @@
 | Meritorious Service Medal | 58.00% | ~439 |
 | Medal of Exploration II | 58.00% | ~439 |
 | Turian Ally | 57.00% | ~431 |
+| Soldier | 56.00% | ~424 |
 | Charismatic | 56.00% | ~424 |
-| Soldier | 55.00% | ~416 |
 | Medal of Exploration III | 52.00% | ~394 |
 | Asari Ally | 52.00% | ~394 |
 | Principled | 52.00% | ~394 |
@@ -37,14 +37,14 @@
 | Operative | 41.00% | ~310 |
 | The Professor | 40.00% | ~303 |
 | Power Full | 40.00% | ~303 |
-| The Archangel | 38.00% | ~288 |
+| The Archangel | 39.00% | ~295 |
 | Completionist | 37.00% | ~280 |
 | The Convict | 37.00% | ~280 |
 | Colony Defense | 36.00% | ~273 |
 | The Krogan | 36.00% | ~273 |
 | Galactic Explorer | 36.00% | ~273 |
+| Broke, Blind, and Bedlam | 35.00% | ~265 |
 | Archivist | 34.00% | ~257 |
-| Broke, Blind, and Bedlam | 34.00% | ~257 |
 | Ghost Ship | 33.00% | ~250 |
 | The Assassin | 33.00% | ~250 |
 | The Justicar | 33.00% | ~250 |
@@ -82,10 +82,10 @@
 | Weapon Specialist | 25.00% | ~189 |
 | Liberator | 25.00% | ~189 |
 | Tunnel Rat | 24.00% | ~182 |
+| Savior | 23.00% | ~174 |
 | Pathfinder | 23.00% | ~174 |
 | Arbiter | 23.00% | ~174 |
 | Lost and Found | 23.00% | ~174 |
-| Savior | 22.00% | ~167 |
 | Paramour II | 22.00% | ~167 |
 | Party Crasher | 21.00% | ~159 |
 | Pyromaniac | 20.00% | ~151 |
