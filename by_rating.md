@@ -233,7 +233,7 @@
 | 224 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 538 |
 | 224 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 0 | 538 |
 | 224 | [Revita](games/r/revita.md) | 4.69 | 0 | 538 |
-| 224 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,524 | 36 |
+| 224 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,530 | 36 |
 | 224 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 351 | 233 |
 | 224 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 27 | 495 |
 | 224 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.69 | 0 | 538 |
@@ -370,7 +370,7 @@
 | 356 | [Limbo](games/l/limbo.md) | 4.62 | 0 | 538 |
 | 356 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 0 | 538 |
 | 356 | [Partisans 1941](games/p/partisans_1941.md) | 4.62 | 0 | 538 |
-| 356 | [Path of Exile](games/p/path_of_exile.md) | 4.62 | 2,660 | 100 |
+| 356 | [Path of Exile](games/p/path_of_exile.md) | 4.62 | 2,661 | 100 |
 | 356 | [Prey](games/p/prey.md) | 4.62 | 5,739 | 66 |
 | 356 | [Roguebook](games/r/roguebook.md) | 4.62 | 0 | 538 |
 | 356 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.62 | 25 | 505 |
@@ -861,7 +861,6 @@
 | 859 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 538 |
 | 859 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 32 | 471 |
 | 859 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.24 | 22 | 519 |
-| 859 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 4.24 | 42 | 437 |
 | 859 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 699 | 179 |
 | 859 | [Rise of Industry](games/r/rise_of_industry.md) | 4.24 | 0 | 538 |
 | 859 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 46 | 425 |
@@ -869,11 +868,12 @@
 | 859 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.24 | 172 | 297 |
 | 859 | [The Surge 2](games/t/the_surge_2.md) | 4.24 | 0 | 538 |
 | 859 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 24 | 510 |
-| 870 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 0 | 538 |
-| 870 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,010 | 149 |
-| 870 | [Men of War](games/m/men_of_war.md) | 4.23 | 0 | 538 |
-| 870 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.23 | 0 | 538 |
-| 870 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 0 | 538 |
+| 869 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 0 | 538 |
+| 869 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,010 | 149 |
+| 869 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 4.23 | 42 | 437 |
+| 869 | [Men of War](games/m/men_of_war.md) | 4.23 | 0 | 538 |
+| 869 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.23 | 0 | 538 |
+| 869 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 0 | 538 |
 | 875 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.22 | 0 | 538 |
 | 875 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 183 | 287 |
 | 875 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 217 | 273 |
