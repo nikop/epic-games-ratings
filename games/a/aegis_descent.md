@@ -9,7 +9,7 @@
 | Line of Duty | 72.00% | ~295 |
 | Gunner | 56.00% | ~230 |
 | DocKing | 47.00% | ~193 |
-| What-A-Shot | 44.00% | ~180 |
+| What-A-Shot | 45.00% | ~184 |
 | Batteries Included | 39.00% | ~160 |
 | Death from Above | 35.00% | ~144 |
 | Hull King | 27.00% | ~111 |

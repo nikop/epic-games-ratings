@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 211,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -1910,7 +1910,7 @@
   ],
   "EOS_Progressed": 14813,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 177,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14396,9 +14396,9 @@
       "ID": "ACHIEVEMENT_BARBARIAN_INVASION_GREAT_RAGING",
       "SetID": "9201eeb",
       "Name": "The Great Raging Horde",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_BARBARIAN_INVASION_MULTIPLAYER",
@@ -14948,9 +14948,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_VICTORIOUS",
       "SetID": "9201eeb",
       "Name": "Victorious",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 119
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_WARRIOR",
@@ -14980,9 +14980,9 @@
       "ID": "ACHIEVEMENT_COUNCIL_OF_MADNESS",
       "SetID": "9201eeb",
       "Name": "Council of Madness",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_CULTURE_DEVELOPING",
@@ -15372,9 +15372,9 @@
       "ID": "ACHIEVEMENT_GREECE3_NO_WOUND",
       "SetID": "9201eeb",
       "Name": "Not a Scratch",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_GREECE3_OLYMPICS",
@@ -15556,9 +15556,9 @@
       "ID": "ACHIEVEMENT_GREECE6_ANTIGONID",
       "SetID": "9201eeb",
       "Name": "Youth Prevails",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_GREECE6_MACEDONIA",
@@ -15572,9 +15572,9 @@
       "ID": "ACHIEVEMENT_GREECE6_PTOLEMY",
       "SetID": "9201eeb",
       "Name": "Rule of Pharaohs",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_GREECE6_SELEUCUS",
@@ -15772,9 +15772,9 @@
       "ID": "ACHIEVEMENT_KNOWLEDGE_ANCIENTS",
       "SetID": "9201eeb",
       "Name": "Knowledge of the Ancients",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_LBP1",
@@ -16580,9 +16580,9 @@
       "ID": "ACHIEVEMENT_SACRED_PROFANE_DEPOSE_TRIBE",
       "SetID": "9201eeb",
       "Name": "Deposed Tribe",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_DISSENT_ALL",
@@ -16612,9 +16612,9 @@
       "ID": "ACHIEVEMENT_SACRED_PROFANE_MYTHICAL_BEAST",
       "SetID": "9201eeb",
       "Name": "The Mythical Beast",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_PILGRIMAGE",
@@ -17042,8 +17042,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-19T15:58:51.8836736+00:00",
-  "LastChanged_Achievements": "2023-10-20T12:09:25.1548086+00:00",
+  "LastChanged_Achievements": "2023-10-20T13:15:18.5892858+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:21.7880328+00:00",
-  "LastUpdate_Ratings": "2023-10-20T11:59:24.534528+00:00",
-  "LastUpdate_Achievements": "2023-10-20T12:09:25.1559476+00:00"
+  "LastUpdate_Ratings": "2023-10-20T13:05:08.8503175+00:00",
+  "LastUpdate_Achievements": "2023-10-20T13:15:18.5906132+00:00"
 }

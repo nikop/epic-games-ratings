@@ -4,7 +4,7 @@
   "ProductSlug": "assassins-creed-syndicate",
   "Ranking_Rating": 552,
   "Ranking_Popularity": 331,
-  "Ranking_PopularitySum": 266,
+  "Ranking_PopularitySum": 265,
   "Ranking_EOS_Progress": 684,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 398,
@@ -2610,10 +2610,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 866,
       "NumberOfAwardsMax": 118
+    },
+    {
+      "Time": "2023-10-20T13:06:46.2378354+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 867,
+      "NumberOfAwardsMax": 118
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 866,
+  "NumberOfAwards": 867,
   "NumberOfAwardsMax": 118,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2645,7 +2651,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 101
+      "Count": 102
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2701,8 +2707,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:50.1720529+00:00",
-  "LastChanged": "2023-10-20T12:01:03.2284175+00:00",
+  "LastChanged": "2023-10-20T13:06:46.2378352+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:48.1038789+00:00",
-  "LastUpdate_Ratings": "2023-10-20T12:01:03.2284182+00:00",
-  "LastUpdate_Achievements": "2023-10-20T12:08:22.7685931+00:00"
+  "LastUpdate_Ratings": "2023-10-20T13:06:46.2378359+00:00",
+  "LastUpdate_Achievements": "2023-10-20T13:14:24.0237053+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 101,
-  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 40,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.5,
   "EosHistory": [
@@ -275,9 +275,9 @@
       "ID": "CompleteChapter15",
       "SetID": "52ail55",
       "Name": "The Great Scheme",
-      "Percentage": 20,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "CompleteChapter16",
@@ -473,8 +473,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-10-20T12:03:54.4138942+00:00",
+  "LastChanged_Achievements": "2023-10-20T13:09:47.1342836+00:00",
   "LastUpdate_AppInfo": "2023-10-20T05:57:01.1405668+00:00",
-  "LastUpdate_Ratings": "2023-10-20T11:58:22.5066912+00:00",
-  "LastUpdate_Achievements": "2023-10-20T12:03:54.4139265+00:00"
+  "LastUpdate_Ratings": "2023-10-20T13:03:56.5100019+00:00",
+  "LastUpdate_Achievements": "2023-10-20T13:09:47.1343142+00:00"
 }

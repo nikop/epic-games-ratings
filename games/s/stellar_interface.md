@@ -92,6 +92,7 @@
 | Rambo VI | 2.00% | ~1 |
 | Space Odysseus | 2.00% | ~1 |
 | Freedom Fighter | 2.00% | ~1 |
+| Namaste | 2.00% | ~1 |
 | Burrow Deep | 2.00% | ~1 |
 | Omicron Gamma | 2.00% | ~1 |
 | Unbalanced | 2.00% | ~1 |
@@ -101,10 +102,12 @@
 | Godlike | 2.00% | ~1 |
 | Usurper IV | 2.00% | ~1 |
 | Rampage | 2.00% | ~1 |
+| Five-O | 2.00% | ~1 |
 | Galactic Colonel | 2.00% | ~1 |
 | Galactic Major | 2.00% | ~1 |
 | Magic Silver mirror; on the wall | 2.00% | ~1 |
 | Galactic Captain | 2.00% | ~1 |
+| Consumist | 2.00% | ~1 |
 | Collateral Damage IV | 2.00% | ~1 |
 | Fighting Fit IV | 2.00% | ~1 |
 | Providence | 0.00% | ~0 |
@@ -117,7 +120,6 @@
 | Goodbye Terror | 0.00% | ~0 |
 | Charlie Doesn't Surf | 0.00% | ~0 |
 | Plower Flower | 0.00% | ~0 |
-| Namaste | 0.00% | ~0 |
 | Articulated Exoskeleton | 0.00% | ~0 |
 | Wrath of the Stars | 0.00% | ~0 |
 | Omicron Major | 0.00% | ~0 |
@@ -129,9 +131,7 @@
 | Completionist | 0.00% | ~0 |
 | Usurper VI | 0.00% | ~0 |
 | Usurper V | 0.00% | ~0 |
-| Five-O | 0.00% | ~0 |
 | Universal Captain | 0.00% | ~0 |
-| Consumist | 0.00% | ~0 |
 | Hal | 0.00% | ~0 |
 | Almost There V | 0.00% | ~0 |
 | Almost There IV | 0.00% | ~0 |

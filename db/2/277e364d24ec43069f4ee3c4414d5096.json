@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewPlayers": 84,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
@@ -329,9 +329,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 111756,
+  "EOS_Progressed": 111760,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 729,
+  "EOS_NewPlayers": 730,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -15039,6 +15039,11 @@
       "Time": "2023-10-20T12:06:46.6261012+00:00",
       "NumProgressed": 111756,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-10-20T13:12:53.5891109+00:00",
+      "NumProgressed": 111760,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 49,
@@ -15058,7 +15063,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 86052
+      "UsersEstimate": 86055
     },
     {
       "ID": "EAwards_10",
@@ -15066,7 +15071,7 @@
       "Name": "Juan Punch Man",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12293
+      "UsersEstimate": 12294
     },
     {
       "ID": "EAwards_11",
@@ -15074,7 +15079,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 29057
+      "UsersEstimate": 29058
     },
     {
       "ID": "EAwards_12",
@@ -15082,7 +15087,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 16763
+      "UsersEstimate": 16764
     },
     {
       "ID": "EAwards_13",
@@ -15122,7 +15127,7 @@
       "Name": "Talented Player",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 40232
+      "UsersEstimate": 40234
     },
     {
       "ID": "EAwards_18",
@@ -15138,7 +15143,7 @@
       "Name": "One Born Every Minute",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 6705
+      "UsersEstimate": 6706
     },
     {
       "ID": "EAwards_2",
@@ -15146,7 +15151,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 53643
+      "UsersEstimate": 53645
     },
     {
       "ID": "EAwards_20",
@@ -15170,7 +15175,7 @@
       "Name": "Combo Machine",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 6705
+      "UsersEstimate": 6706
     },
     {
       "ID": "EAwards_23",
@@ -15178,7 +15183,7 @@
       "Name": "These are not fertilized",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 8940
+      "UsersEstimate": 8941
     },
     {
       "ID": "EAwards_24",
@@ -15202,7 +15207,7 @@
       "Name": "I have nothing left to teach you",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 12293
+      "UsersEstimate": 12294
     },
     {
       "ID": "EAwards_27",
@@ -15282,7 +15287,7 @@
       "Name": "Nacho Libre",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 8940
+      "UsersEstimate": 8941
     },
     {
       "ID": "EAwards_36",
@@ -15410,7 +15415,7 @@
       "Name": "Severed 2",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 8940
+      "UsersEstimate": 8941
     },
     {
       "ID": "EAwards_7",
@@ -15441,7 +15446,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 111756,
+      "Progressed": 111760,
       "Completed": 47
     }
   ],
@@ -15449,8 +15454,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-25T16:00:07.3978241+00:00",
-  "LastChanged_Achievements": "2023-10-20T12:06:46.6261005+00:00",
+  "LastChanged_Achievements": "2023-10-20T13:12:53.5891106+00:00",
   "LastUpdate_AppInfo": "2023-10-20T02:13:27.0030355+00:00",
-  "LastUpdate_Ratings": "2023-10-20T11:57:01.9562545+00:00",
-  "LastUpdate_Achievements": "2023-10-20T12:06:46.626236+00:00"
+  "LastUpdate_Ratings": "2023-10-20T13:02:32.3276434+00:00",
+  "LastUpdate_Achievements": "2023-10-20T13:12:53.5892617+00:00"
 }

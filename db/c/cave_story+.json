@@ -4,7 +4,7 @@
   "ProductSlug": "cave-story-plus",
   "Ranking_Rating": 190,
   "Ranking_Popularity": 337,
-  "Ranking_PopularitySum": 427,
+  "Ranking_PopularitySum": 428,
   "Ranking_EOS_Progress": 684,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 398,
@@ -622,6 +622,6 @@
   "FirstSeen": "2022-07-22T20:30:31.2539727+00:00",
   "LastChanged": "2023-10-13T04:00:09.2003812+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:08.5634087+00:00",
-  "LastUpdate_Ratings": "2023-10-20T11:58:52.1836957+00:00",
-  "LastUpdate_Achievements": "2023-10-20T12:06:03.4756623+00:00"
+  "LastUpdate_Ratings": "2023-10-20T13:04:32.4271402+00:00",
+  "LastUpdate_Achievements": "2023-10-20T13:12:06.3760341+00:00"
 }

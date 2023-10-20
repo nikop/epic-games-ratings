@@ -4,7 +4,7 @@
   "ProductSlug": "aegis-descent-a1f5a0",
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewPlayers": 350,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -698,9 +698,9 @@
       "ID": "Award_WhatAShot",
       "SetID": "9ojec6n",
       "Name": "What-A-Shot",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 180
+      "UsersEstimate": 184
     }
   ],
   "AchievementSets": [
@@ -715,8 +715,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-10-20T12:04:20.6682046+00:00",
+  "LastChanged_Achievements": "2023-10-20T13:10:15.3620267+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:46.6374316+00:00",
-  "LastUpdate_Ratings": "2023-10-20T11:59:03.344519+00:00",
-  "LastUpdate_Achievements": "2023-10-20T12:04:20.668244+00:00"
+  "LastUpdate_Ratings": "2023-10-20T13:04:43.7725882+00:00",
+  "LastUpdate_Achievements": "2023-10-20T13:10:15.3620684+00:00"
 }

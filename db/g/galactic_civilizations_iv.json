@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 289,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -915,9 +915,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 6903,
+  "EOS_Progressed": 6905,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7220,6 +7220,11 @@
       "Time": "2023-10-20T12:06:35.9025508+00:00",
       "NumProgressed": 6903,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-20T13:12:42.2295465+00:00",
+      "NumProgressed": 6905,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -7263,7 +7268,7 @@
       "Name": "Commodity Trader",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 2071
+      "UsersEstimate": 2072
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -7271,7 +7276,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 4280
+      "UsersEstimate": 4281
     },
     {
       "ID": "Control_All_Relics",
@@ -7295,7 +7300,7 @@
       "Name": "Xenocide",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2209
+      "UsersEstimate": 2210
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -7311,7 +7316,7 @@
       "Name": "Design a Civilization",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2140
+      "UsersEstimate": 2141
     },
     {
       "ID": "First_Major_Ally",
@@ -7335,7 +7340,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5384
+      "UsersEstimate": 5386
     },
     {
       "ID": "First_Race_Met",
@@ -7343,7 +7348,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 5039
+      "UsersEstimate": 5041
     },
     {
       "ID": "First_Ship_Designed",
@@ -7367,7 +7372,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5384
+      "UsersEstimate": 5386
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -7447,7 +7452,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2347
+      "UsersEstimate": 2348
     },
     {
       "ID": "Play_1000_Hours",
@@ -7551,7 +7556,7 @@
       "Name": "Unleash My Power",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4211
+      "UsersEstimate": 4212
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -7567,7 +7572,7 @@
       "Name": "Galactic War",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "War_Without_Translator",
@@ -7719,7 +7724,7 @@
       "Name": "Win a Battle",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 4556
+      "UsersEstimate": 4557
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -7783,7 +7788,7 @@
       "Name": "Prestige Victory!",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "Win_Quickly",
@@ -7806,15 +7811,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6903,
+      "Progressed": 6905,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-10-20T12:06:35.90255+00:00",
+  "LastChanged_Achievements": "2023-10-20T13:12:42.2295459+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:21.0832103+00:00",
-  "LastUpdate_Ratings": "2023-10-20T11:59:24.7111607+00:00",
-  "LastUpdate_Achievements": "2023-10-20T12:06:35.9026633+00:00"
+  "LastUpdate_Ratings": "2023-10-20T13:05:08.9313397+00:00",
+  "LastUpdate_Achievements": "2023-10-20T13:12:42.2296793+00:00"
 }

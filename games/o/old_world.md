@@ -71,6 +71,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Single Player Game | 0.90% | ~133 |
 | Beloved | 0.80% | ~119 |
 | Conqueror | 0.80% | ~119 |
+| Victorious | 0.80% | ~119 |
 | Champions | 0.80% | ~119 |
 | Sages | 0.80% | ~119 |
 | Mausoleum | 0.80% | ~119 |
@@ -78,7 +79,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intercessor | 0.70% | ~104 |
 | Invincible | 0.70% | ~104 |
 | Lion | 0.70% | ~104 |
-| Victorious | 0.70% | ~104 |
 | Good Difficulty | 0.70% | ~104 |
 | Patrons | 0.70% | ~104 |
 | Circus Maximus | 0.70% | ~104 |
@@ -179,6 +179,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Future Regicide | 0.10% | ~15 |
 | Acropolis in Athenai | 0.10% | ~15 |
 | Barbarian Horde | 0.10% | ~15 |
+| The Great Raging Horde | 0.10% | ~15 |
 | United Against The Horde | 0.10% | ~15 |
 | Battle of Opis | 0.10% | ~15 |
 | Before the Mongol Horde | 0.10% | ~15 |
@@ -206,6 +207,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Destroyer | 0.10% | ~15 |
 | Holy | 0.10% | ~15 |
 | White Death | 0.10% | ~15 |
+| Council of Madness | 0.10% | ~15 |
 | Oracle in Delphi | 0.10% | ~15 |
 | Great Difficulty | 0.10% | ~15 |
 | Ethnic Diversity | 0.10% | ~15 |
@@ -227,6 +229,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Tell the Spartans | 0.10% | ~15 |
 | Shape of Things to Come | 0.10% | ~15 |
 | I am the Archon Now | 0.10% | ~15 |
+| Not a Scratch | 0.10% | ~15 |
 | The Olive Wreath | 0.10% | ~15 |
 | Those Were Mine | 0.10% | ~15 |
 | If? Then! | 0.10% | ~15 |
@@ -249,6 +252,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Alexander the Mediocre | 0.10% | ~15 |
 | Alexander the Great | 0.10% | ~15 |
 | Alexander the Alright | 0.10% | ~15 |
+| Youth Prevails | 0.10% | ~15 |
+| Rule of Pharaohs | 0.10% | ~15 |
+| Knowledge of the Ancients | 0.10% | ~15 |
 | Learn By Playing 1 - Able | 0.10% | ~15 |
 | Learn By Playing 2 - Just | 0.10% | ~15 |
 | Learn By Playing 3 - Good | 0.10% | ~15 |
@@ -282,7 +288,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a MP Teams Game | 0.10% | ~15 |
 | Win a Network Game | 0.10% | ~15 |
 | Win a Play-By-Cloud Game | 0.10% | ~15 |
+| Deposed Tribe | 0.10% | ~15 |
 | Five Cults | 0.10% | ~15 |
+| The Mythical Beast | 0.10% | ~15 |
 | Pilgrimage | 0.10% | ~15 |
 | Patriarch St Paul | 0.10% | ~15 |
 | Hypatia the Teacher | 0.10% | ~15 |
@@ -325,28 +333,20 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egypt Campaign | 0.10% | ~15 |
 | The Hekau Khasut Slaves | 0.10% | ~15 |
 | Alexander the Great | 0.00% | ~0 |
-| The Great Raging Horde | 0.00% | ~0 |
 | Epic Victory (Carthage 4) | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |
 | Rebuilder | 0.00% | ~0 |
 | Restorer | 0.00% | ~0 |
-| Council of Madness | 0.00% | ~0 |
 | Via Recta Souk in Damascus | 0.00% | ~0 |
 | Elephant in Elephantine | 0.00% | ~0 |
 | That Also Works | 0.00% | ~0 |
-| Not a Scratch | 0.00% | ~0 |
-| Youth Prevails | 0.00% | ~0 |
 | Toppling the Giants | 0.00% | ~0 |
-| Rule of Pharaohs | 0.00% | ~0 |
 | The Eastern Empire | 0.00% | ~0 |
 | Mausoleum in Halicarnassus | 0.00% | ~0 |
 | Hardcore | 0.00% | ~0 |
-| Knowledge of the Ancients | 0.00% | ~0 |
 | Merchants of the Levant | 0.00% | ~0 |
 | Win a 1-v-1 Game | 0.00% | ~0 |
-| Deposed Tribe | 0.00% | ~0 |
 | Religious Dissent | 0.00% | ~0 |
-| The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 14,813 (Ranked 137)  

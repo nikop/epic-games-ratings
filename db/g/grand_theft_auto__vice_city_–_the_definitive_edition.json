@@ -4,10 +4,10 @@
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
   "Ranking_Rating": 494,
   "Ranking_Popularity": 352,
-  "Ranking_PopularitySum": 434,
+  "Ranking_PopularitySum": 435,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -777,7 +777,7 @@
   ],
   "EOS_Progressed": 10637,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -11855,8 +11855,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-10-17T16:58:14.7372277+00:00",
-  "LastChanged_Achievements": "2023-10-20T12:04:59.9076923+00:00",
+  "LastChanged_Achievements": "2023-10-20T13:10:57.8519943+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:56.7423853+00:00",
-  "LastUpdate_Ratings": "2023-10-20T11:59:36.324494+00:00",
-  "LastUpdate_Achievements": "2023-10-20T12:04:59.9077858+00:00"
+  "LastUpdate_Ratings": "2023-10-20T13:05:17.8735267+00:00",
+  "LastUpdate_Achievements": "2023-10-20T13:10:57.8520993+00:00"
 }

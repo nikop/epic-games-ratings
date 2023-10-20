@@ -2,9 +2,9 @@
   "ID": "7f872c3666b5464eaa1bb0241d3499eb",
   "Name": "I Saw Black Clouds",
   "ProductSlug": "i-saw-black-clouds-67008d",
-  "Ranking_EOS_Progress": 315,
+  "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 303,
+  "EOS_Progressed": 304,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.32,
   "EosHistory": [
@@ -371,6 +371,11 @@
       "Time": "2023-10-19T21:07:41.3149958+00:00",
       "NumProgressed": 303,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-20T13:13:35.9118216+00:00",
+      "NumProgressed": 304,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 15,
@@ -414,7 +419,7 @@
       "Name": "End",
       "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "escape",
@@ -444,9 +449,9 @@
       "ID": "jack",
       "SetID": "8b5dfcp",
       "Name": "Jack",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 48
+      "UsersEstimate": 46
     },
     {
       "ID": "nonconsensual",
@@ -460,9 +465,9 @@
       "ID": "origin",
       "SetID": "8b5dfcp",
       "Name": "Origin",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 148
+      "UsersEstimate": 146
     },
     {
       "ID": "realist",
@@ -501,7 +506,7 @@
     {
       "ID": "8b5dfcp",
       "IsBase": true,
-      "Progressed": 303,
+      "Progressed": 304,
       "Completed": 4
     }
   ],
@@ -509,8 +514,8 @@
   "FirstSeenRating": "2023-03-31T05:57:25.6585069+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.1686763+00:00",
   "LastChanged": "2023-03-31T05:57:25.658507+00:00",
-  "LastChanged_Achievements": "2023-10-20T12:07:36.0679182+00:00",
+  "LastChanged_Achievements": "2023-10-20T13:13:35.9118211+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:50.8498026+00:00",
-  "LastUpdate_Ratings": "2023-10-20T12:01:10.4419319+00:00",
-  "LastUpdate_Achievements": "2023-10-20T12:07:36.0679322+00:00"
+  "LastUpdate_Ratings": "2023-10-20T13:06:50.5942611+00:00",
+  "LastUpdate_Achievements": "2023-10-20T13:13:35.9118353+00:00"
 }

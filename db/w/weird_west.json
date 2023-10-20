@@ -2,12 +2,12 @@
   "ID": "73ce3d09e1d949e8b80f66c78c1cda50",
   "Name": "Weird West: Definitive Edition",
   "ProductSlug": "weird-west-906661",
-  "Ranking_Rating": 650,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 500,
+  "Ranking_Rating": 651,
+  "Ranking_Popularity": 488,
+  "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -364,9 +364,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1875,
+  "EOS_Progressed": 1877,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2194,6 +2194,11 @@
       "Time": "2023-10-20T12:05:09.5787326+00:00",
       "NumProgressed": 1875,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-20T13:11:07.9480955+00:00",
+      "NumProgressed": 1877,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -2205,7 +2210,7 @@
       "Name": "Chain Reaction",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "ACH_DEAD_OR_ALIVE",
@@ -2213,7 +2218,7 @@
       "Name": "Dead or Alive",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 1050
+      "UsersEstimate": 1051
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -2317,7 +2322,7 @@
       "Name": "Healing Old Wounds",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "ACH_HERE_COMES_SANTA_CLAUS",
@@ -2349,7 +2354,7 @@
       "Name": "Justice Served",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "ACH_LETS_RIDE",
@@ -2357,7 +2362,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1126
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -2453,7 +2458,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1219
+      "UsersEstimate": 1220
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -2501,7 +2506,7 @@
       "Name": "Self-Improvement",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 1331
+      "UsersEstimate": 1333
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -2517,7 +2522,7 @@
       "Name": "That\u2019s All, Folks",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "ACH_THERE_IS_HOPE",
@@ -2531,9 +2536,9 @@
       "ID": "ACH_THE_GREAT_ESCAPE",
       "SetID": "8j30i9k",
       "Name": "The Great Escape",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 450
+      "UsersEstimate": 432
     },
     {
       "ID": "ACH_THE_HARD_WAY",
@@ -2581,7 +2586,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1650
+      "UsersEstimate": 1652
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -2589,7 +2594,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 1069
+      "UsersEstimate": 1070
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -2605,7 +2610,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "ACH_WINDS_OF_WAR",
@@ -2628,15 +2633,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1875,
+      "Progressed": 1877,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-10-19T21:58:58.9756693+00:00",
-  "LastChanged_Achievements": "2023-10-20T12:05:09.5787317+00:00",
+  "LastChanged_Achievements": "2023-10-20T13:11:07.9480949+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:22.2877358+00:00",
-  "LastUpdate_Ratings": "2023-10-20T11:59:43.6077514+00:00",
-  "LastUpdate_Achievements": "2023-10-20T12:05:09.5787879+00:00"
+  "LastUpdate_Ratings": "2023-10-20T13:05:23.5991318+00:00",
+  "LastUpdate_Achievements": "2023-10-20T13:11:07.9481667+00:00"
 }

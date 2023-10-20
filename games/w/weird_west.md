@@ -1,27 +1,27 @@
 # Weird West: Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/weird-west-906661)  
 [View Rawdata](../../db/w/weird_west.json)  
-Rating: 4.45 (Ranked 650)  
+Rating: 4.45 (Ranked 651)  
 Number of Ratings: 125  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,650 |
-| Self-Improvement | 71.00% | ~1,331 |
-| Perky | 65.00% | ~1,219 |
-| Let’s Ride | 60.00% | ~1,125 |
-| Welcome to the Weird West | 57.00% | ~1,069 |
-| Dead or Alive | 56.00% | ~1,050 |
+| Unforgiven | 88.00% | ~1,652 |
+| Self-Improvement | 71.00% | ~1,333 |
+| Perky | 65.00% | ~1,220 |
+| Let’s Ride | 60.00% | ~1,126 |
+| Welcome to the Weird West | 57.00% | ~1,070 |
+| Dead or Alive | 56.00% | ~1,051 |
 | Full House | 37.00% | ~694 |
 | Off the Trail | 34.00% | ~638 |
-| Justice Served | 30.00% | ~562 |
-| Chain Reaction | 27.00% | ~506 |
+| Justice Served | 30.00% | ~563 |
+| Chain Reaction | 27.00% | ~507 |
 | Through Their Eyes | 26.00% | ~488 |
 | Dishonored | 25.00% | ~469 |
 | Rain of Death | 25.00% | ~469 |
 | Scholar | 25.00% | ~469 |
-| The Great Escape | 24.00% | ~450 |
-| That’s All, Folks | 19.00% | ~356 |
+| The Great Escape | 23.00% | ~432 |
+| That’s All, Folks | 19.00% | ~357 |
 | Fallen Star | 16.00% | ~300 |
 | For Balance | 16.00% | ~300 |
 | Here Comes Santa Claus | 16.00% | ~300 |
@@ -43,8 +43,8 @@ Number of Ratings: 125  (23.09.2022)
 | Monster Hunter | 8.00% | ~150 |
 | Knuckle Sandwich | 8.00% | ~150 |
 | Getting the Gang Back Together | 7.00% | ~131 |
-| Healing Old Wounds | 6.00% | ~112 |
-| Who You Gonna Call? | 6.00% | ~112 |
+| Healing Old Wounds | 6.00% | ~113 |
+| Who You Gonna Call? | 6.00% | ~113 |
 | This Is Sparta | 5.00% | ~94 |
 | What’s in the Box? | 5.00% | ~94 |
 | Ghost Town | 3.00% | ~56 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.50% | ~9 |
 | Revenant | 0.50% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,875 (Ranked 209)  
+Progressed: 1,877 (Ranked 209)  
 Completed: 7 (0.37%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,11 +196,11 @@ Completed: 7 (0.37%) (Ranked 196)
 | 2023-10-17 | 1,854 | 7 |
 | 2023-10-18 | 1,856 | 7 |
 | 2023-10-19 | 1,868 | 7 |
-| 2023-10-20 | 1,875 | 7 |
+| 2023-10-20 | 1,877 | 7 |
 ## Awards
-Max (Impact the Story): 28  (Ranked 486)  
-Sum: 28 (Ranked 500)  
-Diff (max vs sum): -14  
+Max (Impact the Story): 28  (Ranked 488)  
+Sum: 28 (Ranked 501)  
+Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | In this game, your choices Impact the Story | 28 |

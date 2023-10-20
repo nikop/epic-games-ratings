@@ -1,11 +1,11 @@
 # Bridge Constructor: The Walking Dead
 [Store](https://store.epicgames.com/en-US/p/bridge-constructor-the-walking-dead)  
 [View Rawdata](../../db/b/bridge_constructor_the_walking_dead.json)  
-Rating: 3.93 (Ranked 990)  
+Rating: 3.93 (Ranked 989)  
 Number of Ratings: 104  (23.09.2022)  
 ## Awards
-Max (Challenging Puzzles): 29  (Ranked 480)  
-Sum: 29 (Ranked 497)  
+Max (Challenging Puzzles): 29  (Ranked 481)  
+Sum: 29 (Ranked 498)  
 Diff (max vs sum): -17  
 | Award | Count |
 | ----- | ----- |

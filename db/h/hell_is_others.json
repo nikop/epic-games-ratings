@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 351,
   "Ranking_EOS_Progress": 51,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -1111,7 +1111,7 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 257483,
+  "EOS_Progressed": 257487,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 261,
   "EOS_NewCompleters": 0,
@@ -19091,6 +19091,11 @@
       "Time": "2023-10-20T12:08:09.9821114+00:00",
       "NumProgressed": 257483,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-20T13:14:10.5487866+00:00",
+      "NumProgressed": 257487,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -19150,7 +19155,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 79820
+      "UsersEstimate": 79821
     },
     {
       "ID": "BackHomeNTimes",
@@ -19206,7 +19211,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25748
+      "UsersEstimate": 25749
     },
     {
       "ID": "CreditLevel2",
@@ -19214,7 +19219,7 @@
       "Name": "Fixer II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7724
+      "UsersEstimate": 7725
     },
     {
       "ID": "CreditLevel3",
@@ -19374,7 +19379,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7724
+      "UsersEstimate": 7725
     },
     {
       "ID": "KillOtherWithMine",
@@ -19390,7 +19395,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 56646
+      "UsersEstimate": 56647
     },
     {
       "ID": "KillOthers2",
@@ -19494,7 +19499,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25748
+      "UsersEstimate": 25749
     },
     {
       "ID": "ReachNDays2",
@@ -19549,7 +19554,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 257483,
+      "Progressed": 257487,
       "Completed": 3
     }
   ],
@@ -19557,8 +19562,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-10-19T18:57:30.8283269+00:00",
-  "LastChanged_Achievements": "2023-10-20T12:08:09.9821106+00:00",
+  "LastChanged_Achievements": "2023-10-20T13:14:10.5487862+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:45.0933759+00:00",
-  "LastUpdate_Ratings": "2023-10-20T11:58:00.4690919+00:00",
-  "LastUpdate_Achievements": "2023-10-20T12:08:09.9822702+00:00"
+  "LastUpdate_Ratings": "2023-10-20T13:03:35.9451898+00:00",
+  "LastUpdate_Achievements": "2023-10-20T13:14:10.5489484+00:00"
 }

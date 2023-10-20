@@ -2,12 +2,12 @@
   "ID": "17ef2e993267472eacb83202c50d41e4",
   "Name": "NEXUS",
   "ProductSlug": "nexus-058364",
-  "Ranking_Rating": 994,
+  "Ranking_Rating": 993,
   "Ranking_Popularity": 538,
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
@@ -47,9 +47,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7300,
+  "EOS_Progressed": 7302,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 197,
+  "EOS_NewPlayers": 195,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4552,6 +4552,11 @@
       "Time": "2023-10-20T12:09:31.6230577+00:00",
       "NumProgressed": 7300,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-20T13:15:25.5390838+00:00",
+      "NumProgressed": 7302,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -4684,7 +4689,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2263
+      "UsersEstimate": 2264
     },
     {
       "ID": "GamesPlayed10",
@@ -5155,7 +5160,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 7300,
+      "Progressed": 7302,
       "Completed": 1
     }
   ],
@@ -5163,8 +5168,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-10-19T01:40:11.4529879+00:00",
-  "LastChanged_Achievements": "2023-10-20T12:09:31.6230568+00:00",
+  "LastChanged_Achievements": "2023-10-20T13:15:25.5390834+00:00",
   "LastUpdate_AppInfo": "2023-10-17T11:57:13.9193686+00:00",
-  "LastUpdate_Ratings": "2023-10-20T11:58:07.1496084+00:00",
-  "LastUpdate_Achievements": "2023-10-20T12:09:31.6231635+00:00"
+  "LastUpdate_Ratings": "2023-10-20T13:03:42.3385047+00:00",
+  "LastUpdate_Achievements": "2023-10-20T13:15:25.5391959+00:00"
 }

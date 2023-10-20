@@ -55,6 +55,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Locally Sourced | 0.70% | ~965 |
 | Flying off the Shelves | 0.70% | ~965 |
 | This Power Level...! | 0.70% | ~965 |
+| Master of Transmutation | 0.70% | ~965 |
 | Hidden Potential | 0.70% | ~965 |
 | Expansion in Session | 0.70% | ~965 |
 | Mammonite | 0.70% | ~965 |
@@ -75,7 +76,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Booty by the Boatload | 0.60% | ~827 |
 | Archivist | 0.60% | ~827 |
 | Omae wa Mou Shindeiru | 0.60% | ~827 |
-| Master of Transmutation | 0.60% | ~827 |
 | Supercharged | 0.60% | ~827 |
 | Cranked up to 11 | 0.60% | ~827 |
 | Fit for a King | 0.60% | ~827 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,858 (Ranked 73)  
+Progressed: 137,859 (Ranked 73)  
 Completed: 171 (0.12%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,7 +302,7 @@ Completed: 171 (0.12%) (Ranked 243)
 | 2023-10-17 | 137,757 | 170 |
 | 2023-10-18 | 137,790 | 171 |
 | 2023-10-19 | 137,829 | 171 |
-| 2023-10-20 | 137,858 | 171 |
+| 2023-10-20 | 137,859 | 171 |
 ## Awards
 Max (Great for Beginners): 4,797  (Ranked 72)  
 Sum: 27,410 (Ranked 50)  

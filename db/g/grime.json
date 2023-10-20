@@ -1153,9 +1153,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 153343,
+  "EOS_Progressed": 153353,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1546,
+  "EOS_NewPlayers": 1548,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12323,6 +12323,11 @@
       "Time": "2023-10-20T12:06:11.5653946+00:00",
       "NumProgressed": 153343,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-20T13:12:15.4847463+00:00",
+      "NumProgressed": 153353,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -12406,7 +12411,7 @@
       "Name": "Weeper",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 1533
+      "UsersEstimate": 1534
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -12606,7 +12611,7 @@
       "Name": "Ravenous",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1533
+      "UsersEstimate": 1534
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -12701,21 +12706,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 152926,
+      "Progressed": 152936,
       "Completed": 1164
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 153343,
+      "Progressed": 153353,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-19T03:57:30.2133222+00:00",
-  "LastChanged_Achievements": "2023-10-20T12:06:11.5653936+00:00",
+  "LastChanged_Achievements": "2023-10-20T13:12:15.4847458+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:33.8479674+00:00",
-  "LastUpdate_Ratings": "2023-10-20T11:58:20.4923282+00:00",
-  "LastUpdate_Achievements": "2023-10-20T12:06:11.5654882+00:00"
+  "LastUpdate_Ratings": "2023-10-20T13:03:54.7298851+00:00",
+  "LastUpdate_Achievements": "2023-10-20T13:12:15.484868+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -47,9 +47,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1130,
+  "EOS_Progressed": 1131,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1977,6 +1977,11 @@
       "Time": "2023-10-19T10:06:31.2747805+00:00",
       "NumProgressed": 1130,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-20T13:12:49.4921054+00:00",
+      "NumProgressed": 1131,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -2156,7 +2161,7 @@
       "Name": "The Penitent Ones",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "EXILED_SOLDIER_FRIEND",
@@ -2196,7 +2201,7 @@
       "Name": "Hidden Secrets",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "SUMMON_BOSS",
@@ -2332,7 +2337,7 @@
       "Name": "Accepting the Prophecy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "WINMATCH_DIFF_STANDARD",
@@ -2347,7 +2352,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 1130,
+      "Progressed": 1131,
       "Completed": 0
     }
   ],
@@ -2355,8 +2360,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-10-20T12:06:42.7841023+00:00",
+  "LastChanged_Achievements": "2023-10-20T13:12:49.492105+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:25.3307321+00:00",
-  "LastUpdate_Ratings": "2023-10-20T11:58:40.9090325+00:00",
-  "LastUpdate_Achievements": "2023-10-20T12:06:42.7841498+00:00"
+  "LastUpdate_Ratings": "2023-10-20T13:04:17.8898602+00:00",
+  "LastUpdate_Achievements": "2023-10-20T13:12:49.4921515+00:00"
 }
