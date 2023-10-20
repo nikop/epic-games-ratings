@@ -4,9 +4,9 @@
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.58% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.53% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 46.43% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 46.36% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
-| 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.17% |
+| 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.00% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
 | 9 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 10 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.17% |
@@ -61,10 +61,10 @@
 | 59 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 5.56% |
 | 60 | [Time on Frog Island](games/t/time_on_frog_island.md) | 5.26% |
 | 61 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 5.08% |
-| 62 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.00% |
-| 63 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.92% |
-| 64 | [JARS](games/j/jars.md) | 4.82% |
-| 65 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
+| 62 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.92% |
+| 63 | [JARS](games/j/jars.md) | 4.82% |
+| 64 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
+| 65 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 4.76% |
 | 66 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.71% |
 | 67 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.70% |
 | 68 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.55% |
@@ -115,7 +115,7 @@
 | 112 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.96% |
 | 114 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.94% |
 | 115 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
-| 116 | [Night Book](games/n/night_book.md) | 1.83% |
+| 116 | [Night Book](games/n/night_book.md) | 1.82% |
 | 117 | [Sifu](games/s/sifu.md) | 1.81% |
 | 118 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.79% |
 | 118 | [Frogun](games/f/frogun.md) | 1.79% |
@@ -240,13 +240,13 @@
 | 238 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
 | 238 | [Isonzo](games/i/isonzo.md) | 0.13% |
 | 238 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
+| 238 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.13% |
 | 238 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.13% |
-| 242 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
-| 242 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.12% |
-| 242 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.12% |
-| 242 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.12% |
-| 242 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
-| 242 | [Shop Titans](games/s/shop_titans.md) | 0.12% |
+| 243 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
+| 243 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.12% |
+| 243 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.12% |
+| 243 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
+| 243 | [Shop Titans](games/s/shop_titans.md) | 0.12% |
 | 248 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.11% |
 | 248 | [Outward Definitive Edition](games/o/outward.md) | 0.11% |
 | 250 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
