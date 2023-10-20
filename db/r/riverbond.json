@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 34,
   "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
     "PcReleaseDate": "2019-06-09T00:00:00+00:00",
@@ -497,9 +497,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 529630,
+  "EOS_Progressed": 529632,
   "EOS_Completed": 487,
-  "EOS_NewPlayers": 430,
+  "EOS_NewPlayers": 426,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -20007,6 +20007,11 @@
       "Time": "2023-10-20T19:06:37.5857353+00:00",
       "NumProgressed": 529630,
       "NumCompleted": 487
+    },
+    {
+      "Time": "2023-10-20T20:06:18.3716385+00:00",
+      "NumProgressed": 529632,
+      "NumCompleted": 487
     }
   ],
   "TotalAchievements": 57,
@@ -20034,7 +20039,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 370741
+      "UsersEstimate": 370742
     },
     {
       "ID": "12",
@@ -20058,7 +20063,7 @@
       "Name": "Going on an Adventure",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 58259
+      "UsersEstimate": 58260
     },
     {
       "ID": "15",
@@ -20090,7 +20095,7 @@
       "Name": "To Victory!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 79444
+      "UsersEstimate": 79445
     },
     {
       "ID": "19",
@@ -20098,7 +20103,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 328371
+      "UsersEstimate": 328372
     },
     {
       "ID": "2",
@@ -20114,7 +20119,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 127111
+      "UsersEstimate": 127112
     },
     {
       "ID": "21",
@@ -20122,7 +20127,7 @@
       "Name": "Make Peace, Not War",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 58259
+      "UsersEstimate": 58260
     },
     {
       "ID": "22",
@@ -20242,7 +20247,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 264815
+      "UsersEstimate": 264816
     },
     {
       "ID": "36",
@@ -20274,7 +20279,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 180074
+      "UsersEstimate": 180075
     },
     {
       "ID": "4",
@@ -20322,7 +20327,7 @@
       "Name": "Under the Radar",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 42370
+      "UsersEstimate": 42371
     },
     {
       "ID": "45",
@@ -20346,7 +20351,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 328371
+      "UsersEstimate": 328372
     },
     {
       "ID": "48",
@@ -20362,7 +20367,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 180074
+      "UsersEstimate": 180075
     },
     {
       "ID": "5",
@@ -20394,7 +20399,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 243630
+      "UsersEstimate": 243631
     },
     {
       "ID": "53",
@@ -20473,15 +20478,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 529630,
+      "Progressed": 529632,
       "Completed": 487
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-10-20T19:06:37.5857348+00:00",
+  "LastChanged_Achievements": "2023-10-20T20:06:18.3716381+00:00",
   "LastUpdate_AppInfo": "2023-10-14T13:56:54.8848084+00:00",
-  "LastUpdate_Ratings": "2023-10-20T18:57:59.142413+00:00",
-  "LastUpdate_Achievements": "2023-10-20T19:06:37.5858677+00:00"
+  "LastUpdate_Ratings": "2023-10-20T19:57:53.4600321+00:00",
+  "LastUpdate_Achievements": "2023-10-20T20:06:18.3718274+00:00"
 }

@@ -6,8 +6,8 @@
   "Ranking_Popularity": 502,
   "Ranking_PopularitySum": 510,
   "Ranking_EOS_Progress": 174,
-  "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_Completed": 247,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -6704,9 +6704,9 @@
       "ID": "43",
       "SetID": "3aa2279",
       "Name": "The Grey Wizard",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 10
     },
     {
       "ID": "44",
@@ -6823,8 +6823,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-10-20T15:01:55.5187477+00:00",
-  "LastChanged_Achievements": "2023-10-20T19:04:04.5131725+00:00",
+  "LastChanged_Achievements": "2023-10-20T20:03:48.2090947+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:43.1584566+00:00",
-  "LastUpdate_Ratings": "2023-10-20T19:02:06.0188582+00:00",
-  "LastUpdate_Achievements": "2023-10-20T19:04:04.5132408+00:00"
+  "LastUpdate_Ratings": "2023-10-20T20:01:34.8821601+00:00",
+  "LastUpdate_Achievements": "2023-10-20T20:03:48.2091758+00:00"
 }

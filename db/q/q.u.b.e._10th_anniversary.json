@@ -5,9 +5,9 @@
   "Ranking_Rating": 803,
   "Ranking_Popularity": 538,
   "Ranking_PopularitySum": 538,
-  "Ranking_EOS_Progress": 223,
+  "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 57,
+  "Ranking_EOS_NewPlayers": 53,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-09-29T11:00:00+00:00",
@@ -58,9 +58,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1476,
+  "EOS_Progressed": 1652,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1441,
+  "EOS_NewPlayers": 1617,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -112,6 +112,11 @@
     {
       "Time": "2023-10-20T19:09:21.1637313+00:00",
       "NumProgressed": 1476,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-20T20:08:35.65689+00:00",
+      "NumProgressed": 1652,
       "NumCompleted": 0
     }
   ],
@@ -252,7 +257,7 @@
       "Name": "Sector 1",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_Sector2",
@@ -260,7 +265,7 @@
       "Name": "Sector 2",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_Sector3",
@@ -268,7 +273,7 @@
       "Name": "Sector 3",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_Sector4",
@@ -276,7 +281,7 @@
       "Name": "Sector 4",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_Sector5",
@@ -284,7 +289,7 @@
       "Name": "Sector 5",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_Sector6",
@@ -292,7 +297,7 @@
       "Name": "Sector 6",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_Sector7",
@@ -315,7 +320,7 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 1476,
+      "Progressed": 1652,
       "Completed": 0
     }
   ],
@@ -323,8 +328,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2023-10-20T16:57:08.6444892+00:00",
-  "LastChanged_Achievements": "2023-10-20T19:09:21.1637308+00:00",
+  "LastChanged_Achievements": "2023-10-20T20:08:35.6568895+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:07.4360759+00:00",
-  "LastUpdate_Ratings": "2023-10-20T18:57:01.4634363+00:00",
-  "LastUpdate_Achievements": "2023-10-20T19:09:21.163746+00:00"
+  "LastUpdate_Ratings": "2023-10-20T19:57:01.2034535+00:00",
+  "LastUpdate_Achievements": "2023-10-20T20:08:35.6569072+00:00"
 }

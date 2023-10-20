@@ -15,9 +15,9 @@ Rating: 4.14 (Ranked 928)
 | Call of the Fount: Baptized | 6.00% | ~2,533 |
 | No Mercy | 5.00% | ~2,111 |
 | Explorer: Seeker | 5.00% | ~2,111 |
-| Through the Eyes of Another: Empath | 4.00% | ~1,688 |
-| Stuck | 4.00% | ~1,688 |
-| Help Me Out Here | 4.00% | ~1,688 |
+| Through the Eyes of Another: Empath | 4.00% | ~1,689 |
+| Stuck | 4.00% | ~1,689 |
+| Help Me Out Here | 4.00% | ~1,689 |
 | Outdoorsperson | 3.00% | ~1,266 |
 | The Interloper | 3.00% | ~1,266 |
 | Hop, Step, Jump | 3.00% | ~1,266 |
@@ -59,7 +59,7 @@ Rating: 4.14 (Ranked 928)
 | Remembrance | 0.10% | ~42 |
 | Cat Person | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,212 (Ranked 111)  
+Progressed: 42,214 (Ranked 111)  
 Completed: 3 (0.01%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,7 +242,7 @@ Completed: 3 (0.01%) (Ranked 299)
 | 2023-10-17 | 42,164 | 3 |
 | 2023-10-18 | 42,184 | 3 |
 | 2023-10-19 | 42,199 | 3 |
-| 2023-10-20 | 42,212 | 3 |
+| 2023-10-20 | 42,214 | 3 |
 ## Awards
 Max (Character Customization): 28  (Ranked 488)  
 Sum: 28 (Ranked 501)  

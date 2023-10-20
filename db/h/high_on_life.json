@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 276,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -5863,9 +5863,9 @@
       "ID": "ACH_GET_MAGBOOTS",
       "SetID": "cdkbb11",
       "Name": "RIP Davey Glutes",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 218
+      "UsersEstimate": 243
     },
     {
       "ID": "ACH_GET_SWEEZY",
@@ -5895,9 +5895,9 @@
       "ID": "ACH_HUMAN_HAVEN",
       "SetID": "cdkbb11",
       "Name": "Sequel-Bait",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 45,
-      "UsersEstimate": 49
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH_JUGGLE_SKILLS",
@@ -5927,9 +5927,9 @@
       "ID": "ACH_KILL_GARM",
       "SetID": "cdkbb11",
       "Name": "Legendary Bounty Hunter",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 60,
-      "UsersEstimate": 170
+      "UsersEstimate": 194
     },
     {
       "ID": "ACH_KILL_GIBLETS",
@@ -6055,9 +6055,9 @@
       "ID": "ACH_DEFEAT_MUX",
       "SetID": "7fgbhpb",
       "Name": "Mux Ado About Shipping",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_FIND_ALL_LANDMARKS",
@@ -6150,8 +6150,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-07T05:03:09.4311759+00:00",
-  "LastChanged_Achievements": "2023-10-20T19:03:44.7749513+00:00",
+  "LastChanged_Achievements": "2023-10-20T20:03:30.3792172+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:39.0375133+00:00",
-  "LastUpdate_Ratings": "2023-10-20T18:59:06.1327595+00:00",
-  "LastUpdate_Achievements": "2023-10-20T19:03:44.7750101+00:00"
+  "LastUpdate_Ratings": "2023-10-20T19:58:50.1957159+00:00",
+  "LastUpdate_Achievements": "2023-10-20T20:03:30.3792954+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -4408,9 +4408,9 @@
       "ID": "campaign3",
       "SetID": "2h56gn1",
       "Name": "Economics 101",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 2231
+      "UsersEstimate": 2269
     },
     {
       "ID": "campaign4",
@@ -4529,8 +4529,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-10-20T19:05:00.9206586+00:00",
+  "LastChanged_Achievements": "2023-10-20T20:04:50.1398241+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:35.2759082+00:00",
-  "LastUpdate_Ratings": "2023-10-20T18:58:34.8362242+00:00",
-  "LastUpdate_Achievements": "2023-10-20T19:05:00.9206983+00:00"
+  "LastUpdate_Ratings": "2023-10-20T19:58:22.7935385+00:00",
+  "LastUpdate_Achievements": "2023-10-20T20:04:50.1398758+00:00"
 }

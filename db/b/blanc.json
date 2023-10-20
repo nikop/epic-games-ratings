@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2813,
+  "EOS_Progressed": 2815,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -3746,6 +3746,11 @@
       "Time": "2023-10-20T07:05:28.2737917+00:00",
       "NumProgressed": 2813,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-20T20:06:24.3432027+00:00",
+      "NumProgressed": 2815,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -3765,7 +3770,7 @@
       "Name": "A big leap for wolfkind",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "FALLEN_TREE",
@@ -3821,7 +3826,7 @@
       "Name": "Starting as a duo",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -3845,7 +3850,7 @@
       "Name": "Transmission",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "UNEXPECTED_ENCOUNTER",
@@ -3853,14 +3858,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2813,
+      "Progressed": 2815,
       "Completed": 6
     }
   ],
@@ -3868,8 +3873,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-10-20T19:06:43.9943748+00:00",
+  "LastChanged_Achievements": "2023-10-20T20:06:24.3432022+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:51.2813216+00:00",
-  "LastUpdate_Ratings": "2023-10-20T19:02:23.6648365+00:00",
-  "LastUpdate_Achievements": "2023-10-20T19:06:43.9944012+00:00"
+  "LastUpdate_Ratings": "2023-10-20T20:01:48.9653626+00:00",
+  "LastUpdate_Achievements": "2023-10-20T20:06:24.3432371+00:00"
 }

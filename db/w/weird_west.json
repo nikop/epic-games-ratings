@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -364,9 +364,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1882,
+  "EOS_Progressed": 1883,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2219,6 +2219,11 @@
       "Time": "2023-10-20T19:06:04.8484914+00:00",
       "NumProgressed": 1882,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-20T20:05:48.413805+00:00",
+      "NumProgressed": 1883,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -2254,7 +2259,7 @@
       "Name": "Dishonored",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "ACH_DOG_DAYS",
@@ -2310,7 +2315,7 @@
       "Name": "Full House",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "ACH_GETTING_THE_GANG_BACK_TOGETHER",
@@ -2382,7 +2387,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1130
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -2478,7 +2483,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1223
+      "UsersEstimate": 1224
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -2502,7 +2507,7 @@
       "Name": "Rain of Death",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "ACH_REVENANT",
@@ -2518,7 +2523,7 @@
       "Name": "Scholar",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "ACH_SELF_IMPROVEMENT",
@@ -2526,7 +2531,7 @@
       "Name": "Self-Improvement",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 1336
+      "UsersEstimate": 1337
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -2590,7 +2595,7 @@
       "Name": "Through Their Eyes",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "ACH_TURNING_THE_TABLES",
@@ -2606,7 +2611,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1656
+      "UsersEstimate": 1657
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -2653,15 +2658,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1882,
+      "Progressed": 1883,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-10-19T21:58:58.9756693+00:00",
-  "LastChanged_Achievements": "2023-10-20T19:06:04.848491+00:00",
+  "LastChanged_Achievements": "2023-10-20T20:05:48.4138044+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:22.2877358+00:00",
-  "LastUpdate_Ratings": "2023-10-20T19:00:32.2110668+00:00",
-  "LastUpdate_Achievements": "2023-10-20T19:06:04.8485366+00:00"
+  "LastUpdate_Ratings": "2023-10-20T20:00:11.9833869+00:00",
+  "LastUpdate_Achievements": "2023-10-20T20:05:48.4138643+00:00"
 }

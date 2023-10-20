@@ -6,24 +6,24 @@ Number of Ratings: 4,733  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 81.00% | ~33,610 |
-| Initial Capital | 69.00% | ~28,631 |
-| Moneybags | 48.00% | ~19,917 |
-| Junior Supply Officer | 48.00% | ~19,917 |
-| Naval Warfare. Arson | 36.00% | ~14,938 |
-| Naval Warfare. Ramming | 35.00% | ~14,523 |
-| Amateur | 34.00% | ~14,108 |
-| Naval Constructor | 34.00% | ~14,108 |
-| Naval Warfare. Tactics | 33.00% | ~13,693 |
-| Naval Warfare. Weaponry Basics | 25.00% | ~10,374 |
-| Naval Warfare. Lucky Shot | 22.00% | ~9,129 |
-| Naval Warfare. Flooding | 21.00% | ~8,714 |
-| Business Magnate | 19.00% | ~7,884 |
-| Battle Hero | 17.00% | ~7,054 |
-| Supply Officer | 15.00% | ~6,224 |
-| Smooth Supply | 15.00% | ~6,224 |
-| Warrior | 14.00% | ~5,809 |
-| Veteran | 9.00% | ~3,734 |
+| Junior Naval Designer | 81.00% | ~33,624 |
+| Initial Capital | 69.00% | ~28,643 |
+| Moneybags | 48.00% | ~19,925 |
+| Junior Supply Officer | 48.00% | ~19,925 |
+| Naval Warfare. Arson | 36.00% | ~14,944 |
+| Naval Warfare. Ramming | 35.00% | ~14,529 |
+| Amateur | 34.00% | ~14,114 |
+| Naval Constructor | 34.00% | ~14,114 |
+| Naval Warfare. Tactics | 33.00% | ~13,699 |
+| Naval Warfare. Weaponry Basics | 25.00% | ~10,378 |
+| Naval Warfare. Lucky Shot | 22.00% | ~9,132 |
+| Naval Warfare. Flooding | 21.00% | ~8,717 |
+| Business Magnate | 19.00% | ~7,887 |
+| Battle Hero | 17.00% | ~7,057 |
+| Supply Officer | 15.00% | ~6,227 |
+| Smooth Supply | 15.00% | ~6,227 |
+| Warrior | 14.00% | ~5,812 |
+| Veteran | 9.00% | ~3,736 |
 | Legend of the Seas | 4.00% | ~1,660 |
 | Chief Naval Architect | 4.00% | ~1,660 |
 | Shield | 4.00% | ~1,660 |
@@ -40,18 +40,18 @@ Number of Ratings: 4,733  (23.09.2022)
 | Old-Timer | 1.00% | ~415 |
 | Secret Instructions | 0.80% | ~332 |
 | Raider | 0.80% | ~332 |
-| Experienced One | 0.70% | ~290 |
-| "Yamamoto Isoroku" | 0.50% | ~207 |
+| Experienced One | 0.70% | ~291 |
+| "Yamamoto Isoroku" | 0.50% | ~208 |
 | Ravager | 0.40% | ~166 |
 | "Yamamoto Isoroku" | 0.40% | ~166 |
-| "Honorable Service" | 0.30% | ~124 |
-| Hit Hard! Hit Fast! Hit Often! | 0.30% | ~124 |
-| "Science of Victory" with Honors | 0.10% | ~41 |
-| "Honorable Service" with Honors | 0.10% | ~41 |
-| "Yamamoto Isoroku" with Honors | 0.10% | ~41 |
-| Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~41 |
+| "Honorable Service" | 0.30% | ~125 |
+| Hit Hard! Hit Fast! Hit Often! | 0.30% | ~125 |
+| "Science of Victory" with Honors | 0.10% | ~42 |
+| "Honorable Service" with Honors | 0.10% | ~42 |
+| "Yamamoto Isoroku" with Honors | 0.10% | ~42 |
+| Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,494 (Ranked 112)  
+Progressed: 41,511 (Ranked 112)  
 Completed: 0 (0.00%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,22 +119,22 @@ Completed: 0 (0.00%) (Ranked 317)
 | 2023-10-17 | 40,399 | 0 |
 | 2023-10-18 | 40,801 | 0 |
 | 2023-10-19 | 41,163 | 0 |
-| 2023-10-20 | 41,494 | 0 |
+| 2023-10-20 | 41,511 | 0 |
 ## Awards
 Max (Relaxing): 1,432  (Ranked 131)  
-Sum: 12,008 (Ranked 81)  
+Sum: 12,017 (Ranked 81)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 1,432 |
 | This game has Quickly Understood Controls | 1,430 |
 | This game has Challenging Combat | 1,417 |
+| This game has Competitive Players | 1,402 |
 | This game is Highly Recommended | 1,402 |
-| This game has Competitive Players | 1,398 |
 | This game is Extremely Fun | 1,376 |
 | This game has Realistic Visuals | 1,263 |
 | This game has Amazing Storytelling | 1,178 |
-| This game has a Competitive Community | 1,112 |
+| This game has a Competitive Community | 1,117 |
 | This game has Amazing Characters | 942 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -420,4 +420,4 @@ Diff (max vs sum): 50
 | 2023-10-17 | 4.41 | - | 1,427 | 11,935 |
 | 2023-10-18 | 4.41 | - | 1,427 | 11,954 |
 | 2023-10-19 | 4.41 | - | 1,431 | 11,995 |
-| 2023-10-20 | 4.41 | - | 1,432 | 12,008 |
+| 2023-10-20 | 4.41 | - | 1,432 | 12,017 |

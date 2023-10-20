@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 86,
-  "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -107,11 +107,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 744,
+  "EOS_Progressed": 746,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.23,
+  "EOS_Completed_Percentage": 3.22,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -2222,6 +2222,11 @@
       "Time": "2023-10-20T18:09:58.9160111+00:00",
       "NumProgressed": 744,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-10-20T20:09:17.80866+00:00",
+      "NumProgressed": 746,
+      "NumCompleted": 24
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2234,7 +2239,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -2242,7 +2247,7 @@
       "Name": "A New Journey",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "_03_FinishAct1",
@@ -2250,15 +2255,15 @@
       "Name": "The Adventure Begins",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "_04_CollectAllRelics",
       "SetID": "8a1io5d",
       "Name": "This Belongs in a Museum",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 283
+      "UsersEstimate": 276
     },
     {
       "ID": "_05_FinishAct2",
@@ -2266,7 +2271,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -2290,7 +2295,7 @@
       "Name": "Swabbie",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "_09_Completion_20",
@@ -2322,7 +2327,7 @@
       "Name": "Privateer",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "_13_Completion_60",
@@ -2362,7 +2367,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -2402,7 +2407,7 @@
       "Name": "Accursed Artifacts",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "_23_CrewTale_CNN",
@@ -2410,7 +2415,7 @@
       "Name": "Lyrical Longing",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "_24_CrewTale_SNP",
@@ -2426,7 +2431,7 @@
       "Name": "Rustic Recipe",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "_26_ReviveVirgilio",
@@ -2441,7 +2446,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 744,
+      "Progressed": 746,
       "Completed": 24
     }
   ],
@@ -2449,8 +2454,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-10-20T14:00:07.0626358+00:00",
-  "LastChanged_Achievements": "2023-10-20T19:09:45.7144465+00:00",
+  "LastChanged_Achievements": "2023-10-20T20:09:17.8086596+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:48.0426096+00:00",
-  "LastUpdate_Ratings": "2023-10-20T19:00:02.0803243+00:00",
-  "LastUpdate_Achievements": "2023-10-20T19:09:45.7144719+00:00"
+  "LastUpdate_Ratings": "2023-10-20T19:59:44.406552+00:00",
+  "LastUpdate_Achievements": "2023-10-20T20:09:17.8086912+00:00"
 }

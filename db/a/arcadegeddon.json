@@ -820,7 +820,7 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 9352,
+  "EOS_Progressed": 9353,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
@@ -10525,6 +10525,11 @@
       "Time": "2023-10-20T10:05:32.0533321+00:00",
       "NumProgressed": 9352,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-20T20:06:03.514594+00:00",
+      "NumProgressed": 9353,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -10568,7 +10573,7 @@
       "Name": "Coup d\u0027Etat",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 5424
+      "UsersEstimate": 5425
     },
     {
       "ID": "ACH_EVENT_HORIZON",
@@ -10592,7 +10597,7 @@
       "Name": "Field Medic",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 3460
+      "UsersEstimate": 3461
     },
     {
       "ID": "ACH_GET_FURIOUS",
@@ -10640,7 +10645,7 @@
       "Name": "Gunplay And Cosplay",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 5050
+      "UsersEstimate": 5051
     },
     {
       "ID": "ACH_HACKS_IN_STACKS",
@@ -10648,7 +10653,7 @@
       "Name": "Hacks In Stacks",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 5050
+      "UsersEstimate": 5051
     },
     {
       "ID": "ACH_HERE_COMES_A_NEW_CHALLENGER",
@@ -10656,7 +10661,7 @@
       "Name": "Here Comes a New Challenger",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 3460
+      "UsersEstimate": 3461
     },
     {
       "ID": "ACH_IM_THE_PLUGGERNAUT",
@@ -10680,7 +10685,7 @@
       "Name": "Let\u0027s Get This Party Started",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 8323
+      "UsersEstimate": 8324
     },
     {
       "ID": "ACH_LIGHT_MY_FIRE",
@@ -10736,7 +10741,7 @@
       "Name": "Photogenic",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 8043
+      "UsersEstimate": 8044
     },
     {
       "ID": "ACH_PLAYING_WITH_POWER",
@@ -10744,7 +10749,7 @@
       "Name": "Playing With Power",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 7014
+      "UsersEstimate": 7015
     },
     {
       "ID": "ACH_PLUG_IT_IN",
@@ -10760,7 +10765,7 @@
       "Name": "Poppin Noggins",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 2244
+      "UsersEstimate": 2245
     },
     {
       "ID": "ACH_PYROTECHNICAL",
@@ -10904,7 +10909,7 @@
       "Name": "Ticket Toddler",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 4021
+      "UsersEstimate": 4022
     },
     {
       "ID": "ACH_TO_BE_CONTINUED",
@@ -10928,22 +10933,22 @@
       "Name": "You\u0027re Fired",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 5237
+      "UsersEstimate": 5238
     }
   ],
   "AchievementSets": [
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 9352,
+      "Progressed": 9353,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-10-11T06:59:53.9186259+00:00",
-  "LastChanged_Achievements": "2023-10-20T19:06:21.1143972+00:00",
+  "LastChanged_Achievements": "2023-10-20T20:06:03.5145934+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:12.7858251+00:00",
-  "LastUpdate_Ratings": "2023-10-20T19:00:35.9542358+00:00",
-  "LastUpdate_Achievements": "2023-10-20T19:06:21.1144794+00:00"
+  "LastUpdate_Ratings": "2023-10-20T20:00:15.4441511+00:00",
+  "LastUpdate_Achievements": "2023-10-20T20:06:03.5146972+00:00"
 }

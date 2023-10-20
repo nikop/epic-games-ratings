@@ -4,7 +4,7 @@
   "ProductSlug": "blazing-sails",
   "Ranking_Rating": 1009,
   "Ranking_Popularity": 468,
-  "Ranking_PopularitySum": 409,
+  "Ranking_PopularitySum": 415,
   "Ranking_EOS_Progress": 686,
   "Ranking_EOS_Completed": 317,
   "Ranking_EOS_NewPlayers": 399,
@@ -255,10 +255,16 @@
       "Rating": 3.8,
       "NumberOfAwards": 157,
       "NumberOfAwardsMax": 33
+    },
+    {
+      "Time": "2023-10-20T20:03:04.0681786+00:00",
+      "Rating": 3.8,
+      "NumberOfAwards": 137,
+      "NumberOfAwardsMax": 33
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 157,
+  "NumberOfAwards": 137,
   "NumberOfAwardsMax": 33,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -311,8 +317,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-12T17:58:51.2912831+00:00",
   "FirstSeenRating": "2023-10-13T14:59:17.6210713+00:00",
-  "LastChanged": "2023-10-20T19:03:15.5653939+00:00",
+  "LastChanged": "2023-10-20T20:03:04.0681785+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:23.6389481+00:00",
-  "LastUpdate_Ratings": "2023-10-20T19:03:15.5653943+00:00",
-  "LastUpdate_Achievements": "2023-10-20T19:06:30.5890504+00:00"
+  "LastUpdate_Ratings": "2023-10-20T20:03:04.068179+00:00",
+  "LastUpdate_Achievements": "2023-10-20T20:06:12.020654+00:00"
 }

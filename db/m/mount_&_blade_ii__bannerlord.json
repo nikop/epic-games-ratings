@@ -8038,10 +8038,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 14940,
       "NumberOfAwardsMax": 7255
+    },
+    {
+      "Time": "2023-10-20T19:59:46.3113477+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 14942,
+      "NumberOfAwardsMax": 7255
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14940,
+  "NumberOfAwards": 14942,
   "NumberOfAwardsMax": 7255,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8055,7 +8061,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 902
+      "Count": 903
     },
     {
       "Text": "This game is Extremely Fun",
@@ -8097,7 +8103,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 966
+      "Count": 967
     },
     {
       "Text": "This game is Relaxing",
@@ -8118,9 +8124,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 63592,
+  "EOS_Progressed": 63593,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 393,
+  "EOS_NewPlayers": 394,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27538,6 +27544,11 @@
       "Time": "2023-10-20T19:07:10.488625+00:00",
       "NumProgressed": 63592,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-20T20:06:39.5307773+00:00",
+      "NumProgressed": 63593,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -27757,7 +27768,7 @@
       "Name": "Know your enemy",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 4451
+      "UsersEstimate": 4452
     },
     {
       "ID": "Lance-a-lot",
@@ -27773,7 +27784,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 20985
+      "UsersEstimate": 20986
     },
     {
       "ID": "Lawbringer",
@@ -27805,7 +27816,7 @@
       "Name": "Mastery",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 4451
+      "UsersEstimate": 4452
     },
     {
       "ID": "Minor Clan",
@@ -27901,7 +27912,7 @@
       "Name": "The king is pleased",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12082
+      "UsersEstimate": 12083
     },
     {
       "ID": "This Is Our Land",
@@ -27956,15 +27967,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 63592,
+      "Progressed": 63593,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-10-20T19:00:03.8653198+00:00",
-  "LastChanged_Achievements": "2023-10-20T19:07:10.4886246+00:00",
+  "LastChanged": "2023-10-20T19:59:46.3113475+00:00",
+  "LastChanged_Achievements": "2023-10-20T20:06:39.5307767+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:51.8810296+00:00",
-  "LastUpdate_Ratings": "2023-10-20T19:00:03.8653205+00:00",
-  "LastUpdate_Achievements": "2023-10-20T19:07:10.4887512+00:00"
+  "LastUpdate_Ratings": "2023-10-20T19:59:46.3113482+00:00",
+  "LastUpdate_Achievements": "2023-10-20T20:06:39.530935+00:00"
 }

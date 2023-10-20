@@ -2,12 +2,12 @@
   "ID": "0208da63c74542c99e8a0837e4e688c3",
   "Name": "Hardspace: Shipbreaker",
   "ProductSlug": "hardspace-shipbreaker",
-  "Ranking_Rating": 283,
+  "Ranking_Rating": 284,
   "Ranking_Popularity": 538,
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewPlayers": 356,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -2041,8 +2041,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-27T22:57:40.9300302+00:00",
-  "LastChanged_Achievements": "2023-10-20T19:07:50.0787765+00:00",
+  "LastChanged_Achievements": "2023-10-20T20:07:13.107608+00:00",
   "LastUpdate_AppInfo": "2023-10-14T13:56:54.4187457+00:00",
-  "LastUpdate_Ratings": "2023-10-20T18:57:03.0849644+00:00",
-  "LastUpdate_Achievements": "2023-10-20T19:07:50.0788003+00:00"
+  "LastUpdate_Ratings": "2023-10-20T19:57:02.6223339+00:00",
+  "LastUpdate_Achievements": "2023-10-20T20:07:13.1076369+00:00"
 }

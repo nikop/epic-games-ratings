@@ -6,45 +6,46 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Too Shall Pass | 0.10% | ~1 |
-| The Cost of Heroism | 0.10% | ~1 |
+| This Too Shall Pass | 0.20% | ~3 |
+| The Cost of Heroism | 0.20% | ~3 |
+| Me and My Familiar | 0.10% | ~1 |
+| Let Me Get My Chisel | 0.10% | ~1 |
+| Gotta Ca... Must Collect All of Them | 0.10% | ~1 |
+| Passing Shadow | 0.10% | ~1 |
+| Completing the Look | 0.10% | ~1 |
+| Who's Counting? | 0.10% | ~1 |
+| How Romantic! | 0.10% | ~1 |
+| Cutthroat Competitors | 0.10% | ~1 |
+| Everfading | 0.10% | ~1 |
+| War Endured | 0.10% | ~1 |
+| Echoes Die | 0.10% | ~1 |
+| Daybreak | 0.10% | ~1 |
+| Core Failure | 0.10% | ~1 |
+| Into Mulch | 0.10% | ~1 |
 | We Emerge Changed | 0.00% | ~0 |
 | Overwhelming Monstrosity | 0.00% | ~0 |
-| Me and My Familiar | 0.00% | ~0 |
 | Storied Past | 0.00% | ~0 |
 | A Mythic Menagerie | 0.00% | ~0 |
 | Worldwalker | 0.00% | ~0 |
-| Let Me Get My Chisel | 0.00% | ~0 |
 | A Lowly Crust of Beef | 0.00% | ~0 |
-| Gotta Ca... Must Collect All of Them | 0.00% | ~0 |
-| Passing Shadow | 0.00% | ~0 |
 | The Power of Friendship | 0.00% | ~0 |
-| Completing the Look | 0.00% | ~0 |
 | Empty the Caves | 0.00% | ~0 |
 | Drauvenslayers | 0.00% | ~0 |
 | Back into the Sea | 0.00% | ~0 |
 | Peacemaker | 0.00% | ~0 |
 | Bonebreakers | 0.00% | ~0 |
 | No More Nightmares | 0.00% | ~0 |
-| Who's Counting? | 0.00% | ~0 |
 | Plague Doctor | 0.00% | ~0 |
-| How Romantic! | 0.00% | ~0 |
 | Legends Never Die | 0.00% | ~0 |
-| Cutthroat Competitors | 0.00% | ~0 |
 | Thematic Divergence | 0.00% | ~0 |
 | Chain Reaction | 0.00% | ~0 |
 | Pyrrhic Victory | 0.00% | ~0 |
 | In Soil, In Smoke | 0.00% | ~0 |
-| Everfading | 0.00% | ~0 |
-| War Endured | 0.00% | ~0 |
 | Another Tale to Tell | 0.00% | ~0 |
-| Echoes Die | 0.00% | ~0 |
 | A Story of Heroes | 0.00% | ~0 |
-| Daybreak | 0.00% | ~0 |
 | A Hunger, Sated | 0.00% | ~0 |
 | Wingknight's Prowess | 0.00% | ~0 |
 | All My Birds, Safely Home | 0.00% | ~0 |
-| Core Failure | 0.00% | ~0 |
 | War-Ender | 0.00% | ~0 |
 | Turncoat | 0.00% | ~0 |
 | Bears are Scary | 0.00% | ~0 |
@@ -52,7 +53,6 @@ Number of Ratings: 45  (23.09.2022)
 | Grillmaster | 0.00% | ~0 |
 | Solid as the Hills | 0.00% | ~0 |
 | Some Say I'm Too Flashy | 0.00% | ~0 |
-| Into Mulch | 0.00% | ~0 |
 | We Call That Mortificient! | 0.00% | ~0 |
 | Symbiosis | 0.00% | ~0 |
 | I'm Not Smiling | 0.00% | ~0 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Lochias's Hunger | 0.00% | ~0 |
 | No Time for Clawmonsters | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,431 (Ranked 224)  
+Progressed: 1,432 (Ranked 224)  
 Completed: 6 (0.42%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,6 +202,7 @@ Completed: 6 (0.42%) (Ranked 188)
 | 2023-10-16 | 1,424 | 6 |
 | 2023-10-17 | 1,427 | 6 |
 | 2023-10-18 | 1,431 | 6 |
+| 2023-10-20 | 1,432 | 6 |
 ## Awards
 Max (Character Customization): 28  (Ranked 488)  
 Sum: 28 (Ranked 501)  

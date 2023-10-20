@@ -97,9 +97,9 @@
       "ID": "All_Bosses",
       "SetID": "cla1dpp",
       "Name": "Till death tear us apart!",
-      "Percentage": 25,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "All_Human_Missions",
@@ -113,17 +113,17 @@
       "ID": "All_Missions",
       "SetID": "cla1dpp",
       "Name": "Patience and a little dust.",
-      "Percentage": 8,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Boss_Blacksmith",
       "SetID": "cla1dpp",
       "Name": "No, this is not a stack of coins!",
-      "Percentage": 25,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Boss_Cita",
@@ -137,25 +137,25 @@
       "ID": "Boss_Cube",
       "SetID": "cla1dpp",
       "Name": "I hate geometry so much!",
-      "Percentage": 33,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Boss_King",
       "SetID": "cla1dpp",
       "Name": "You are tearing me apart Deathy!",
-      "Percentage": 8,
+      "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Boss_Pyramid",
       "SetID": "cla1dpp",
       "Name": "We\u0027ll build a new one!",
-      "Percentage": 25,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Boss_Sphere",
@@ -169,9 +169,9 @@
       "ID": "Boss_Tower",
       "SetID": "cla1dpp",
       "Name": "My tower is bigger than yours.",
-      "Percentage": 33,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Boss_Tree",
@@ -193,9 +193,9 @@
       "ID": "Full_Upgrade_Cita",
       "SetID": "cla1dpp",
       "Name": "Anything for my princess!",
-      "Percentage": 25,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "No_Lose_All_Human_Missions",
@@ -209,9 +209,9 @@
       "ID": "Pass_Tutorial",
       "SetID": "cla1dpp",
       "Name": "First time here?",
-      "Percentage": 50,
+      "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "PvP_Mission",
@@ -257,9 +257,9 @@
       "ID": "Up_Farm",
       "SetID": "cla1dpp",
       "Name": "We need to go deeper!",
-      "Percentage": 25,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Up_Tower",
@@ -279,8 +279,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-23T14:02:21.3308024+00:00",
-  "LastChanged_Achievements": "2023-10-20T19:06:17.8008418+00:00",
+  "LastChanged_Achievements": "2023-10-20T20:06:00.5388566+00:00",
   "LastUpdate_AppInfo": "2023-10-18T17:59:10.952117+00:00",
-  "LastUpdate_Ratings": "2023-10-20T19:02:06.0201705+00:00",
-  "LastUpdate_Achievements": "2023-10-20T19:06:17.8008562+00:00"
+  "LastUpdate_Ratings": "2023-10-20T20:01:34.9235122+00:00",
+  "LastUpdate_Achievements": "2023-10-20T20:06:00.5388737+00:00"
 }

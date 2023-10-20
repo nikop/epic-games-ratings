@@ -18,7 +18,7 @@ Rating: 3.98 (Ranked 978)
 | Detective | 19.00% | ~318 |
 | The Collector | 18.00% | ~301 |
 | Get your hands dirty | 10.00% | ~167 |
-| Space Forest | 9.00% | ~150 |
+| Space Forest | 9.00% | ~151 |
 | All Wheel Trouble | 7.00% | ~117 |
 | ITS crash site | 6.00% | ~100 |
 | DeDust | 5.00% | ~84 |
@@ -54,7 +54,7 @@ Rating: 3.98 (Ranked 978)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,672 (Ranked 213)  
+Progressed: 1,673 (Ranked 213)  
 Completed: 0 (0.00%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,6 +214,7 @@ Completed: 0 (0.00%) (Ranked 317)
 | 2023-10-17 | 1,669 | 0 |
 | 2023-10-18 | 1,670 | 0 |
 | 2023-10-19 | 1,672 | 0 |
+| 2023-10-20 | 1,673 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

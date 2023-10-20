@@ -6,6 +6,7 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Ten out of Ten | 0.20% | ~1,786 |
 | City Lights | 0.10% | ~893 |
 | To Bad Decisions! | 0.10% | ~893 |
 | Bushido and Chill | 0.10% | ~893 |
@@ -29,7 +30,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Daemon In The Shell | 0.10% | ~893 |
 | Life of the Road | 0.10% | ~893 |
 | Stanislavski's Method | 0.10% | ~893 |
-| Ten out of Ten | 0.10% | ~893 |
 | Temperance | 0.10% | ~893 |
 | Rough Landing | 0.10% | ~893 |
 | The Devil | 0.10% | ~893 |
@@ -50,17 +50,17 @@ Number of Ratings: 32,700  (23.09.2022)
 | V for Vendetta | 0.10% | ~893 |
 | It's Elementary | 0.10% | ~893 |
 | Legend of The Afterlife | 0.10% | ~893 |
-| The APB is Not Enough | 0.10% | ~21 |
-| Spin Doctor | 0.10% | ~21 |
-| Relic Ruler | 0.10% | ~21 |
-| All the President's Men | 0.10% | ~21 |
-| Judgement Day | 0.10% | ~21 |
-| Arachnophobia | 0.10% | ~21 |
-| King of Cups | 0.10% | ~21 |
-| King of Pentacles | 0.10% | ~21 |
-| King of Swords | 0.10% | ~21 |
-| King of Wands | 0.10% | ~21 |
-| The Tower | 0.10% | ~21 |
+| The APB is Not Enough | 0.10% | ~22 |
+| Spin Doctor | 0.10% | ~22 |
+| Relic Ruler | 0.10% | ~22 |
+| All the President's Men | 0.10% | ~22 |
+| Judgement Day | 0.10% | ~22 |
+| Arachnophobia | 0.10% | ~22 |
+| King of Cups | 0.10% | ~22 |
+| King of Pentacles | 0.10% | ~22 |
+| King of Swords | 0.10% | ~22 |
+| King of Wands | 0.10% | ~22 |
+| The Tower | 0.10% | ~22 |
 | All the President's Men | 0.00% | ~0 |
 | Arachnophobia | 0.00% | ~0 |
 | Dirty Deeds | 0.00% | ~0 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 892,870 (Ranked 15)  
+Progressed: 892,886 (Ranked 15)  
 Completed: 2,689 (0.30%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 2,689 (0.30%) (Ranked 206)
 | 2023-10-17 | 892,443 | 2,678 |
 | 2023-10-18 | 892,603 | 2,683 |
 | 2023-10-19 | 892,734 | 2,687 |
-| 2023-10-20 | 892,870 | 2,689 |
+| 2023-10-20 | 892,886 | 2,689 |
 ## Awards
 Max (Character Customization): 99,962  (Ranked 9)  
 Sum: 315,112 (Ranked 11)  

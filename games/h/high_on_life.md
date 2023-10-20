@@ -9,6 +9,7 @@ Rating: 4.64 (Ranked 326)
 | Satisfied Gus-tomer | 1.00% | ~243 |
 | Are You Packin'? | 1.00% | ~243 |
 | Bring A Knife to a Gun Fight | 1.00% | ~243 |
+| RIP Davey Glutes | 1.00% | ~243 |
 | Sweezy Like Sunday Morning | 1.00% | ~243 |
 | First Bounty Down | 1.00% | ~243 |
 | G3 Graduation | 1.00% | ~243 |
@@ -16,23 +17,22 @@ Rating: 4.64 (Ranked 326)
 | Cold-Blooded Driller | 1.00% | ~243 |
 | Who's The Boss? | 1.00% | ~243 |
 | Don't Knife The Hand That Feeds | 1.00% | ~243 |
-| RIP Davey Glutes | 0.90% | ~218 |
 | We're All Very Impressed, Trust Me | 0.90% | ~218 |
 | Lezduit! | 0.80% | ~194 |
+| Legendary Bounty Hunter | 0.80% | ~194 |
 | Self-Actualization | 0.80% | ~194 |
 | Spent 15 Hours At The Alien Strip Club | 0.80% | ~194 |
 | Bathe With A Giant Nude Alien | 0.80% | ~12 |
-| Legendary Bounty Hunter | 0.70% | ~170 |
 | Fallout Doesn't Let You Do This | 0.70% | ~170 |
 | Series Wrap on Suit-O | 0.70% | ~170 |
 | Eatin' Good in the Neighborhood | 0.60% | ~146 |
 | We Came, We Chainsaw, We Conquered | 0.60% | ~9 |
 | Eye Scream, You Scream | 0.50% | ~121 |
-| Mux Ado About Shipping | 0.40% | ~6 |
+| Mux Ado About Shipping | 0.50% | ~8 |
+| Sequel-Bait | 0.30% | ~73 |
 | Gunning For Your Job | 0.30% | ~73 |
 | Playing Favorites | 0.30% | ~73 |
 | Fall In Love With A Parasite | 0.30% | ~5 |
-| Sequel-Bait | 0.20% | ~49 |
 | We Paid For The Rights To Put A Whole Movie In Here | 0.20% | ~49 |
 | Meet Frasier from Frasier | 0.20% | ~3 |
 | Epic Legendary Prize | 0.10% | ~24 |

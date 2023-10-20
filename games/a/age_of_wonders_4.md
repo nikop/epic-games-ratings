@@ -50,14 +50,14 @@ Rating: 4.60 (Ranked 402)
 | Snap Out of It! | 0.90% | ~47 |
 | Betrayal Most Foul | 0.60% | ~31 |
 | I Want to Break Free | 0.30% | ~16 |
+| The Grey Wizard | 0.20% | ~10 |
 | Returning Circle | 0.20% | ~10 |
 | I'll Fight You All | 0.20% | ~10 |
 | Draconic Connoisseur | 0.20% | ~10 |
 | Master of Evilness | 0.10% | ~5 |
-| The Grey Wizard | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,228 (Ranked 174)  
-Completed: 6 (0.11%) (Ranked 248)  
+Completed: 6 (0.11%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

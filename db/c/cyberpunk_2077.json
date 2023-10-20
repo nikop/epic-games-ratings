@@ -13880,9 +13880,9 @@
       "Count": 10987
     }
   ],
-  "EOS_Progressed": 892870,
+  "EOS_Progressed": 892886,
   "EOS_Completed": 2689,
-  "EOS_NewPlayers": 1427,
+  "EOS_NewPlayers": 1433,
   "EOS_NewCompleters": 34,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -34620,6 +34620,11 @@
       "Time": "2023-10-20T19:05:42.4618819+00:00",
       "NumProgressed": 892870,
       "NumCompleted": 2689
+    },
+    {
+      "Time": "2023-10-20T20:05:27.8077561+00:00",
+      "NumProgressed": 892886,
+      "NumCompleted": 2689
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -34814,9 +34819,9 @@
       "ID": "Specialist",
       "SetID": "47clieb",
       "Name": "Ten out of Ten",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 893
+      "UsersEstimate": 1786
     },
     {
       "ID": "Temperance",
@@ -35008,7 +35013,7 @@
       "Name": "The APB is Not Enough",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Easycomeeasygo",
@@ -35032,7 +35037,7 @@
       "Name": "Spin Doctor",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Kingofcups",
@@ -35072,7 +35077,7 @@
       "Name": "Relic Ruler",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "UltimateSurvivor",
@@ -35088,7 +35093,7 @@
       "Name": "All the President\u0027s Men",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "HydraIsDead",
@@ -35096,7 +35101,7 @@
       "Name": "Judgement Day",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "IHateSpider",
@@ -35104,7 +35109,7 @@
       "Name": "Arachnophobia",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "KingOfTheCups",
@@ -35112,7 +35117,7 @@
       "Name": "King of Cups",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "KingOfThePentacles",
@@ -35120,7 +35125,7 @@
       "Name": "King of Pentacles",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "KingOfTheSwords",
@@ -35128,7 +35133,7 @@
       "Name": "King of Swords",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "KingOfTheWands",
@@ -35136,7 +35141,7 @@
       "Name": "King of Wands",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "TheTower",
@@ -35144,28 +35149,28 @@
       "Name": "The Tower",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 892870,
+      "Progressed": 892886,
       "Completed": 2689
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 21493,
+      "Progressed": 21509,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-20T18:59:11.4382809+00:00",
-  "LastChanged_Achievements": "2023-10-20T19:05:42.4618814+00:00",
+  "LastChanged_Achievements": "2023-10-20T20:05:27.8077557+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:37.5483976+00:00",
-  "LastUpdate_Ratings": "2023-10-20T18:59:11.4382818+00:00",
-  "LastUpdate_Achievements": "2023-10-20T19:05:42.462023+00:00"
+  "LastUpdate_Ratings": "2023-10-20T19:58:54.7335114+00:00",
+  "LastUpdate_Achievements": "2023-10-20T20:05:27.8079536+00:00"
 }

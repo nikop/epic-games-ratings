@@ -5,8 +5,9 @@ Rating: 4.50 (Ranked 576)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 3.00% | ~803 |
-| Advancement | 2.00% | ~536 |
+| Advancement | 3.00% | ~804 |
+| Stylish | 3.00% | ~804 |
+| Clutch Capture | 2.00% | ~536 |
 | I collect Spores, Molds, and Fungi | 2.00% | ~536 |
 | Discovery | 2.00% | ~536 |
 | Meticulously Efficient | 2.00% | ~536 |
@@ -17,7 +18,6 @@ Rating: 4.50 (Ranked 576)
 | Vaporous Expansion | 2.00% | ~536 |
 | Animated | 1.00% | ~268 |
 | Back Off | 1.00% | ~268 |
-| Clutch Capture | 1.00% | ~268 |
 | Cultured | 1.00% | ~268 |
 | Daily Dose | 1.00% | ~268 |
 | Ectoplasmic Entity | 1.00% | ~268 |
@@ -34,8 +34,8 @@ Rating: 4.50 (Ranked 576)
 | Legions | 0.80% | ~214 |
 | Pesky Jerks | 0.80% | ~214 |
 | Stunner | 0.80% | ~214 |
-| We have the best insurance | 0.70% | ~187 |
-| Seasoned | 0.70% | ~187 |
+| We have the best insurance | 0.70% | ~188 |
+| Seasoned | 0.70% | ~188 |
 | Collector | 0.60% | ~161 |
 | Diabolical | 0.60% | ~161 |
 | Escape Artist | 0.60% | ~161 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 576)
 | Mycophile | 0.10% | ~27 |
 | Ultimate Defense | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,778 (Ranked 119)  
+Progressed: 26,796 (Ranked 119)  
 Completed: 60 (0.22%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,15 +240,15 @@ Completed: 60 (0.22%) (Ranked 219)
 | 2023-10-17 | 26,559 | 58 |
 | 2023-10-18 | 26,596 | 59 |
 | 2023-10-19 | 26,668 | 59 |
-| 2023-10-20 | 26,778 | 60 |
+| 2023-10-20 | 26,796 | 60 |
 ## Awards
-Max (Great for Quick Sessions): 266  (Ranked 257)  
-Sum: 2,429 (Ranked 187)  
+Max (Great for Beginners): 268  (Ranked 257)  
+Sum: 2,432 (Ranked 187)  
 Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
+| This game is Great for Beginners | 268 |
 | This game is Great for Quick Sessions | 266 |
-| This game is Great for Beginners | 265 |
 | This game has Competitive Players | 244 |
 | This game has Diverse Characters | 242 |
 | This game has Amazing Storytelling | 242 |
@@ -448,4 +448,4 @@ Diff (max vs sum): 70
 | 2023-10-17 | 4.50 | 264 | 2,400 |
 | 2023-10-18 | 4.50 | 264 | 2,405 |
 | 2023-10-19 | 4.50 | 266 | 2,420 |
-| 2023-10-20 | 4.50 | 266 | 2,429 |
+| 2023-10-20 | 4.50 | 268 | 2,432 |

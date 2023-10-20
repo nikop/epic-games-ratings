@@ -56,7 +56,7 @@ Rating: 4.62 (Ranked 357)
 | A Lesson in Precision | 1.00% | ~9 |
 | No Time to Waste | 1.00% | ~9 |
 | Wildlife Protection | 0.90% | ~8 |
-| Going to Live Forever | 0.60% | ~5 |
+| Going to Live Forever | 0.70% | ~6 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 908 (Ranked 243)  

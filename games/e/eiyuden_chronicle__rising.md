@@ -6,19 +6,19 @@ Number of Ratings: 48  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Plenty More to Go | 88.00% | ~609 |
-| All Bark, No Bite | 77.00% | ~533 |
+| Plenty More to Go | 88.00% | ~610 |
+| All Bark, No Bite | 77.00% | ~534 |
 | Hopeful Hunter | 68.00% | ~471 |
 | Amateur Adventurer | 65.00% | ~450 |
-| The Road to Recovery | 64.00% | ~443 |
-| Partners? | 63.00% | ~436 |
+| The Road to Recovery | 64.00% | ~444 |
+| Partners? | 63.00% | ~437 |
 | Magical Mineral Golem | 56.00% | ~388 |
 | On Outlander Lane | 55.00% | ~381 |
 | A Girl About the Town | 52.00% | ~360 |
 | First Time Fishing | 52.00% | ~360 |
 | First Time Hunting | 50.00% | ~346 |
-| Rune Wall Wreckage | 49.00% | ~339 |
-| ...And Your Tax Money | 47.00% | ~325 |
+| Rune Wall Wreckage | 49.00% | ~340 |
+| ...And Your Tax Money | 47.00% | ~326 |
 | The Lords of the Snowpeak | 41.00% | ~284 |
 | The Go-To Girl | 38.00% | ~263 |
 | The Lava Mantor Wyrm | 37.00% | ~256 |
@@ -27,9 +27,9 @@ Number of Ratings: 48  (23.09.2022)
 | The Great Forest...On Foot! | 37.00% | ~256 |
 | One Mean Merc | 36.00% | ~249 |
 | Money, Money, Money | 36.00% | ~249 |
-| Adept, for an Acting Mayor | 35.00% | ~242 |
-| Rune Wall Master | 34.00% | ~235 |
-| The Quarry...On Foot! | 32.00% | ~221 |
+| Adept, for an Acting Mayor | 35.00% | ~243 |
+| Rune Wall Master | 34.00% | ~236 |
+| The Quarry...On Foot! | 32.00% | ~222 |
 | The Runebarrows...On Foot! | 29.00% | ~201 |
 | The Lava Ruins...On Foot! | 28.00% | ~194 |
 | Meat Master | 27.00% | ~187 |
@@ -37,9 +37,9 @@ Number of Ratings: 48  (23.09.2022)
 | Armor Master | 25.00% | ~173 |
 | Fishing Master | 25.00% | ~173 |
 | The Pride of the Town | 23.00% | ~159 |
-| This Treasure I've Found | 21.00% | ~145 |
-| New Nevaeh's Number One Customer | 21.00% | ~145 |
-| Arms Master | 20.00% | ~138 |
+| This Treasure I've Found | 21.00% | ~146 |
+| New Nevaeh's Number One Customer | 21.00% | ~146 |
+| Arms Master | 19.00% | ~132 |
 | Rune Scholar | 17.00% | ~118 |
 | No Treasure Left Behind | 14.00% | ~97 |
 | One-Hundred Resident Record | 12.00% | ~83 |
@@ -55,10 +55,10 @@ Number of Ratings: 48  (23.09.2022)
 | Full Force - CJ | 9.00% | ~62 |
 | Full Force - Garoo | 9.00% | ~62 |
 | Full Force - Isha | 8.00% | ~55 |
-| Rising Champion | 7.00% | ~48 |
+| Rising Champion | 7.00% | ~49 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 692 (Ranked 259)  
-Completed: 60 (8.67%) (Ranked 41)  
+Progressed: 693 (Ranked 259)  
+Completed: 60 (8.66%) (Ranked 41)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -92,6 +92,7 @@ Completed: 60 (8.67%) (Ranked 41)
 | 2023-09-20 | 691 | 59 |
 | 2023-09-25 | 692 | 59 |
 | 2023-10-05 | 692 | 60 |
+| 2023-10-20 | 693 | 60 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -2,9 +2,9 @@
   "ID": "e7a7820e516744b88212c1f78aa895df",
   "Name": "Overpass 2",
   "ProductSlug": "overpass-2",
-  "Ranking_EOS_Progress": 356,
+  "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 171,
+  "EOS_Progressed": 173,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -655,6 +655,11 @@
       "Time": "2023-10-20T19:06:27.9651111+00:00",
       "NumProgressed": 171,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-20T20:06:09.8275158+00:00",
+      "NumProgressed": 173,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-28T09:03:06.3221207+00:00",
@@ -667,7 +672,7 @@
       "Name": "You\u0027re Fired!",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "achMaxCage",
@@ -721,9 +726,9 @@
       "ID": "achScout1",
       "SetID": "7ji07dj",
       "Name": "You\u0027re Hired!",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 29
     },
     {
       "ID": "achScoutMaxStar",
@@ -761,9 +766,9 @@
       "ID": "achSponsor20",
       "SetID": "7ji07dj",
       "Name": "Corporate Cooperator",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 75,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "achSponsor5",
@@ -890,14 +895,14 @@
     {
       "ID": "7ji07dj",
       "IsBase": true,
-      "Progressed": 171,
+      "Progressed": 173,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-03T04:00:29.2485771+00:00",
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2023-10-20T19:06:27.9651108+00:00",
+  "LastChanged_Achievements": "2023-10-20T20:06:09.8275153+00:00",
   "LastUpdate_AppInfo": "2023-10-19T10:57:08.9129564+00:00",
-  "LastUpdate_Ratings": "2023-10-20T18:59:57.4244619+00:00",
-  "LastUpdate_Achievements": "2023-10-20T19:06:27.9651435+00:00"
+  "LastUpdate_Ratings": "2023-10-20T19:59:39.3945104+00:00",
+  "LastUpdate_Achievements": "2023-10-20T20:06:09.8275406+00:00"
 }

@@ -4,39 +4,39 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Nightmare Territory | 57.00% | ~48 |
-| Bring It | 42.00% | ~35 |
-| Grew Bigger | 42.00% | ~35 |
+| Nightmare Territory | 62.00% | ~53 |
+| Bring It | 42.00% | ~36 |
+| Grew Bigger | 42.00% | ~36 |
+| Coffee Thermos | 40.00% | ~34 |
+| Hunting Season | 40.00% | ~34 |
 | Find the Light | 39.00% | ~33 |
-| Coffee Thermos | 39.00% | ~33 |
-| Hunting Season | 37.00% | ~31 |
 | Lights Shining | 31.00% | ~26 |
 | Yippee Ki-yay | 31.00% | ~26 |
-| Filling the Shape | 30.00% | ~25 |
-| Ready for a Fight | 29.00% | ~24 |
-| Greatest Hits | 29.00% | ~24 |
-| Darkness Coiled | 29.00% | ~24 |
+| Filling the Shape | 29.00% | ~25 |
+| Darkness Coiled | 29.00% | ~25 |
+| Ready for a Fight | 28.00% | ~24 |
+| Greatest Hits | 28.00% | ~24 |
 | The Other Side | 24.00% | ~20 |
-| Aimed Ahead | 23.00% | ~19 |
+| Aimed Ahead | 22.00% | ~19 |
+| Chased the Source | 22.00% | ~19 |
+| Not the Last | 21.00% | ~18 |
 | All Accounted For | 21.00% | ~18 |
-| Chased the Source | 21.00% | ~18 |
 | Carry his Words | 20.00% | ~17 |
+| Felt Good | 19.00% | ~16 |
 | Stop Right There | 18.00% | ~15 |
-| Felt Good | 18.00% | ~15 |
 | Shining in the Night | 18.00% | ~15 |
 | Storm Cloud | 13.00% | ~11 |
-| Not the Last | 13.00% | ~11 |
+| Somebody's Home | 13.00% | ~11 |
 | New York City | 13.00% | ~11 |
+| Secret Stashes | 13.00% | ~11 |
 | Return | 13.00% | ~11 |
 | Finding a Way | 13.00% | ~11 |
 | Talk Show | 12.00% | ~10 |
+| This is the Moment | 11.00% | ~9 |
 | Into the Overlap | 11.00% | ~9 |
-| Secret Stashes | 11.00% | ~9 |
 | All His Life | 11.00% | ~9 |
-| This is the Moment | 10.00% | ~8 |
-| Growing Stronger | 10.00% | ~8 |
-| Stunning Vistas | 10.00% | ~8 |
-| Somebody's Home | 10.00% | ~8 |
+| Growing Stronger | 9.00% | ~8 |
+| Stunning Vistas | 9.00% | ~8 |
 | Escape its Gravity | 8.00% | ~7 |
 | The Trail of the Writer | 8.00% | ~7 |
 | Stop the Monster | 8.00% | ~7 |
@@ -71,14 +71,14 @@
 | Cut Short | 1.00% | ~1 |
 | Rustic Charm | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 84 (Ranked 408)  
+Progressed: 85 (Ranked 407)  
 Completed: 0 (0.00%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-10-18 | 25 | 0 |
 | 2023-10-19 | 50 | 0 |
-| 2023-10-20 | 84 | 0 |
+| 2023-10-20 | 85 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
