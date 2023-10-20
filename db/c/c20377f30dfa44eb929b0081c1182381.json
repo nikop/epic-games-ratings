@@ -4,7 +4,7 @@
   "ProductSlug": "tour-de-france-2023",
   "Ranking_EOS_Progress": 604,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-07-27T08:00:00+00:00",
@@ -393,8 +393,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T09:00:47.9095634+00:00",
-  "LastChanged_Achievements": "2023-10-20T18:06:36.4634288+00:00",
+  "LastChanged_Achievements": "2023-10-20T19:06:19.2821689+00:00",
   "LastUpdate_AppInfo": "2023-10-19T15:57:06.0653843+00:00",
-  "LastUpdate_Ratings": "2023-10-20T17:57:54.5726778+00:00",
-  "LastUpdate_Achievements": "2023-10-20T18:06:36.4634893+00:00"
+  "LastUpdate_Ratings": "2023-10-20T18:57:53.2112029+00:00",
+  "LastUpdate_Achievements": "2023-10-20T19:06:19.2821957+00:00"
 }

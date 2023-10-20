@@ -4,12 +4,12 @@
 Rating: 4.70 (Ranked 207)  
 Number of Ratings: 6,367  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 1,907  (Ranked 113)  
-Sum: 2,163 (Ranked 200)  
+Max (Great Boss Battles): 1,909  (Ranked 113)  
+Sum: 2,165 (Ranked 200)  
 Diff (max vs sum): -87  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 1,907 |
+| This game has Great Boss Battles | 1,909 |
 | This game has Diverse Characters | 45 |
 | This game has Quickly Understood Controls | 42 |
 | This game is Relaxing | 40 |
@@ -184,3 +184,4 @@ Diff (max vs sum): -87
 | 2023-10-16 | 4.70 | - | 1,905 | 2,161 |
 | 2023-10-17 | 4.70 | - | 1,906 | 2,162 |
 | 2023-10-19 | 4.70 | - | 1,907 | 2,163 |
+| 2023-10-20 | 4.70 | - | 1,909 | 2,165 |

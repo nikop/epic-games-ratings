@@ -259,9 +259,9 @@
       "ID": "MAIN_CLEAR_TUTORIAL",
       "SetID": "apihg0e",
       "Name": "The Journey Begins",
-      "Percentage": 186,
+      "Percentage": 200,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -393,7 +393,7 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-10-20T18:08:54.9097704+00:00",
-  "LastUpdate_Ratings": "2023-10-20T17:58:31.4782273+00:00",
-  "LastUpdate_Achievements": "2023-10-20T18:08:54.909812+00:00"
+  "LastChanged_Achievements": "2023-10-20T19:08:44.5991626+00:00",
+  "LastUpdate_Ratings": "2023-10-20T18:58:27.8856292+00:00",
+  "LastUpdate_Achievements": "2023-10-20T19:08:44.5991882+00:00"
 }

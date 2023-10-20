@@ -2257,9 +2257,9 @@
       "ID": "achievement_23",
       "SetID": "b9pe172",
       "Name": "Medal of Exploration III",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 385
+      "UsersEstimate": 392
     },
     {
       "ID": "achievement_24",
@@ -2465,9 +2465,9 @@
       "ID": "achievement_47",
       "SetID": "d252ncf",
       "Name": "The Justicar",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 241
+      "UsersEstimate": 249
     },
     {
       "ID": "achievement_48",
@@ -2697,9 +2697,9 @@
       "ID": "achievement_73",
       "SetID": "d252ncf",
       "Name": "Scholar",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 317
+      "UsersEstimate": 324
     },
     {
       "ID": "achievement_74",
@@ -2941,8 +2941,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-20T18:08:05.962062+00:00",
+  "LastChanged_Achievements": "2023-10-20T19:07:57.4140559+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:30.4071338+00:00",
-  "LastUpdate_Ratings": "2023-10-20T18:03:37.2334108+00:00",
-  "LastUpdate_Achievements": "2023-10-20T18:08:05.9624607+00:00"
+  "LastUpdate_Ratings": "2023-10-20T19:03:26.4543583+00:00",
+  "LastUpdate_Achievements": "2023-10-20T19:07:57.4142398+00:00"
 }

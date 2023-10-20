@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 145,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 9,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -7477,10 +7477,10 @@
       "Count": 3476
     }
   ],
-  "EOS_Progressed": 232363,
+  "EOS_Progressed": 232366,
   "EOS_Completed": 2374,
-  "EOS_NewPlayers": 635,
-  "EOS_NewCompleters": 17,
+  "EOS_NewPlayers": 634,
+  "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
     {
@@ -27917,6 +27917,11 @@
       "Time": "2023-10-20T18:05:45.0836287+00:00",
       "NumProgressed": 232363,
       "NumCompleted": 2374
+    },
+    {
+      "Time": "2023-10-20T19:05:30.6670379+00:00",
+      "NumProgressed": 232366,
+      "NumCompleted": 2374
     }
   ],
   "TotalAchievements": 528,
@@ -29790,9 +29795,9 @@
       "ID": "objective_completed_4",
       "SetID": "cc37lbc",
       "Name": "Are Ya Chicken?",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 232
+      "UsersEstimate": 465
     },
     {
       "ID": "objective_completed_40",
@@ -32151,21 +32156,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 198637,
+      "Progressed": 198640,
       "Completed": 3665
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 232363,
+      "Progressed": 232366,
       "Completed": 2374
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-10-20T15:58:57.2701697+00:00",
-  "LastChanged_Achievements": "2023-10-20T18:05:45.0836281+00:00",
+  "LastChanged_Achievements": "2023-10-20T19:05:30.6670375+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:38.1045135+00:00",
-  "LastUpdate_Ratings": "2023-10-20T17:59:17.301905+00:00",
-  "LastUpdate_Achievements": "2023-10-20T18:05:45.0871102+00:00"
+  "LastUpdate_Ratings": "2023-10-20T18:59:08.4675163+00:00",
+  "LastUpdate_Achievements": "2023-10-20T19:05:30.6696065+00:00"
 }

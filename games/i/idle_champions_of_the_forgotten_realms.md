@@ -13,6 +13,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Jungles of Doomspace | 0.30% | ~596 |
 | Spelljammers in Training | 0.30% | ~596 |
 | The Ring of Regeneration | 0.20% | ~465 |
+| Are Ya Chicken? | 0.20% | ~465 |
 | The Mad Wizard | 0.20% | ~465 |
 | Elturel's Last Stand | 0.20% | ~397 |
 | The Hunt for The Last Breath | 0.20% | ~397 |
@@ -249,7 +250,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Shadowfell Stalwarts | 0.10% | ~199 |
 | Nimble Escape | 0.10% | ~232 |
 | Nimblest Escape | 0.10% | ~232 |
-| Are Ya Chicken? | 0.10% | ~232 |
 | Useless Allies | 0.10% | ~232 |
 | Stumbling Escape | 0.10% | ~232 |
 | Distracted Escape | 0.10% | ~199 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Entrance of the Gladiators | 0.10% | ~199 |
 | Time Out | 0.10% | ~199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,363 (Ranked 59)  
+Progressed: 232,366 (Ranked 59)  
 Completed: 2,374 (1.02%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -718,7 +718,7 @@ Completed: 2,374 (1.02%) (Ranked 145)
 | 2023-10-17 | 232,098 | 2,367 |
 | 2023-10-18 | 232,193 | 2,373 |
 | 2023-10-19 | 232,282 | 2,374 |
-| 2023-10-20 | 232,363 | 2,374 |
+| 2023-10-20 | 232,366 | 2,374 |
 ## Awards
 Max (Great for Beginners): 5,424  (Ranked 69)  
 Sum: 32,127 (Ranked 41)  

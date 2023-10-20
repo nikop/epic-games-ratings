@@ -4,11 +4,12 @@
 Rating: 3.80 (Ranked 1,009)  
 ## Awards
 Max (Amazing Characters): 33  (Ranked 468)  
-Sum: 125 (Ranked 421)  
-Diff (max vs sum): 47  
+Sum: 157 (Ranked 409)  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Characters | 33 |
+| This game has Quickly Understood Controls | 32 |
 | This game is Extremely Fun | 29 |
 | This game is Highly Recommended | 23 |
 | This game is Relaxing | 20 |
@@ -23,4 +24,4 @@ Diff (max vs sum): 47
 | 2023-10-17 | 3.76 | 0 | 0 |
 | 2023-10-18 | 3.80 | 0 | 0 |
 | 2023-10-19 | 3.82 | 20 | 40 |
-| 2023-10-20 | 3.81 | 33 | 125 |
+| 2023-10-20 | 3.81 | 33 | 157 |

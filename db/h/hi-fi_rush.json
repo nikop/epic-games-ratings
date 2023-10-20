@@ -7124,9 +7124,9 @@
       "ID": "Ach010",
       "SetID": "12n4k20",
       "Name": "I think I deserve some praise, here!",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 83
     },
     {
       "ID": "Ach011",
@@ -7635,8 +7635,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-09-20T21:58:46.0382146+00:00",
-  "LastChanged_Achievements": "2023-10-20T18:06:43.882306+00:00",
+  "LastChanged_Achievements": "2023-10-20T19:06:26.343409+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:56.0502704+00:00",
-  "LastUpdate_Ratings": "2023-10-20T18:00:33.4553238+00:00",
-  "LastUpdate_Achievements": "2023-10-20T18:06:43.8825095+00:00"
+  "LastUpdate_Ratings": "2023-10-20T19:00:21.2079918+00:00",
+  "LastUpdate_Achievements": "2023-10-20T19:06:26.3435017+00:00"
 }

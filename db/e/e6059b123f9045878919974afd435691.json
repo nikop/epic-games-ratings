@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -2221,9 +2221,9 @@
       "ID": "AMMO_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "How Many Do You Need?",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 405
+      "UsersEstimate": 414
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -2333,17 +2333,17 @@
       "ID": "BURN_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Burnt Smell",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 180
+      "UsersEstimate": 189
     },
     {
       "ID": "BURN_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Where There\u0027s Smoke There\u0027s Fire",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 117
     },
     {
       "ID": "BURN_ACHIEVEMENT_3",
@@ -2469,9 +2469,9 @@
       "ID": "FREE_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Free Like Birds",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 90
     },
     {
       "ID": "FREE_ACHIEVEMENT_3",
@@ -2517,9 +2517,9 @@
       "ID": "KILLR_ACHIEVEMENT_4",
       "SetID": "9lcahn0",
       "Name": "Call The Winchester",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 108
     },
     {
       "ID": "KILLR_ACHIEVEMENT_5",
@@ -2661,9 +2661,9 @@
       "ID": "RAPTOR_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "The Clairvoyant Who Doesn\u0027t See",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 405
+      "UsersEstimate": 414
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -2748,8 +2748,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-10-20T18:04:44.4121489+00:00",
+  "LastChanged_Achievements": "2023-10-20T19:04:32.9284228+00:00",
   "LastUpdate_AppInfo": "2023-10-19T21:57:04.6044923+00:00",
-  "LastUpdate_Ratings": "2023-10-20T17:59:12.5770249+00:00",
-  "LastUpdate_Achievements": "2023-10-20T18:04:44.4122869+00:00"
+  "LastUpdate_Ratings": "2023-10-20T18:59:03.8707279+00:00",
+  "LastUpdate_Achievements": "2023-10-20T19:04:32.9284881+00:00"
 }

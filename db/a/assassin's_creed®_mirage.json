@@ -2,12 +2,12 @@
   "ID": "9bcf5a4dc1d54cb6ab1a42f3a70c5cf4",
   "Name": "Assassin\u0027s Creed\u00AE Mirage",
   "ProductSlug": "assassins-creed-mirage",
-  "Ranking_Rating": 631,
-  "Ranking_Popularity": 390,
+  "Ranking_Rating": 650,
+  "Ranking_Popularity": 383,
   "Ranking_PopularitySum": 299,
   "Ranking_EOS_Progress": 686,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-10-05T16:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.46,
+  "Rating": 4.45,
   "RatingHistory": [
     {
       "Time": "2023-10-06T05:58:23.6709701+00:00",
@@ -475,12 +475,18 @@
       "Rating": 4.46,
       "NumberOfAwards": 628,
       "NumberOfAwardsMax": 72
+    },
+    {
+      "Time": "2023-10-20T19:00:28.818293+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 636,
+      "NumberOfAwardsMax": 75
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 628,
-  "NumberOfAwardsMax": 72,
-  "MaxAwardTitle": "Relaxing",
+  "NumberOfAwards": 636,
+  "NumberOfAwardsMax": 75,
+  "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
       "Text": "This game is Relaxing",
@@ -498,7 +504,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 67
+      "Count": 75
     },
     {
       "Text": "This game is Educational",
@@ -561,8 +567,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-05T18:58:30.4202319+00:00",
   "FirstSeenRating": "2023-10-06T05:58:23.6709697+00:00",
-  "LastChanged": "2023-10-20T18:00:43.9476243+00:00",
+  "LastChanged": "2023-10-20T19:00:28.8182928+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:14.6654197+00:00",
-  "LastUpdate_Ratings": "2023-10-20T18:00:43.9476249+00:00",
-  "LastUpdate_Achievements": "2023-10-20T18:08:10.8971028+00:00"
+  "LastUpdate_Ratings": "2023-10-20T19:00:28.8182934+00:00",
+  "LastUpdate_Achievements": "2023-10-20T19:08:01.8173559+00:00"
 }

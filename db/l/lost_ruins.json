@@ -885,9 +885,9 @@
       "ID": "BossKiller",
       "SetID": "82505mn",
       "Name": "Boss Killer",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 103
+      "UsersEstimate": 108
     },
     {
       "ID": "BugHunter",
@@ -1109,9 +1109,9 @@
       "ID": "TheEnd",
       "SetID": "82505mn",
       "Name": "The End",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 58
     },
     {
       "ID": "TheFallen",
@@ -1182,8 +1182,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-10-20T18:10:17.596811+00:00",
+  "LastChanged_Achievements": "2023-10-20T19:10:13.1201958+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:36.2898004+00:00",
-  "LastUpdate_Ratings": "2023-10-20T18:01:59.2617234+00:00",
-  "LastUpdate_Achievements": "2023-10-20T18:10:17.5968469+00:00"
+  "LastUpdate_Ratings": "2023-10-20T19:01:49.0989673+00:00",
+  "LastUpdate_Achievements": "2023-10-20T19:10:13.1202271+00:00"
 }

@@ -19,9 +19,9 @@
 | Turian Ally | 57.00% | ~430 |
 | Charismatic | 56.00% | ~422 |
 | Soldier | 55.00% | ~415 |
+| Medal of Exploration III | 52.00% | ~392 |
 | Asari Ally | 52.00% | ~392 |
 | Principled | 52.00% | ~392 |
-| Medal of Exploration III | 51.00% | ~385 |
 | Soldier Ally | 49.00% | ~369 |
 | Paramour I | 48.00% | ~362 |
 | Colonial Savior | 48.00% | ~362 |
@@ -32,7 +32,7 @@
 | Very Elusive | 44.00% | ~332 |
 | Head Hunter | 44.00% | ~332 |
 | Sentinel Ally | 43.00% | ~324 |
-| Scholar | 42.00% | ~317 |
+| Scholar | 43.00% | ~324 |
 | Veteran | 41.00% | ~309 |
 | Operative | 41.00% | ~309 |
 | The Professor | 40.00% | ~302 |
@@ -47,10 +47,10 @@
 | Broke, Blind, and Bedlam | 34.00% | ~256 |
 | Ghost Ship | 33.00% | ~249 |
 | The Assassin | 33.00% | ~249 |
+| The Justicar | 33.00% | ~249 |
 | The Quarian | 33.00% | ~249 |
 | The Prodigal | 33.00% | ~249 |
 | A Personal Touch | 32.00% | ~241 |
-| The Justicar | 32.00% | ~241 |
 | Battlemaster | 32.00% | ~241 |
 | Ghost of the Father | 32.00% | ~241 |
 | The Cure | 32.00% | ~241 |

@@ -1,7 +1,7 @@
 # Forspoken
 [Store](https://store.epicgames.com/en-US/p/forspoken)  
 [View Rawdata](../../db/f/forspoken.json)  
-Rating: 4.14 (Ranked 929)  
+Rating: 4.14 (Ranked 928)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -59,7 +59,7 @@ Rating: 4.14 (Ranked 929)
 | Remembrance | 0.10% | ~42 |
 | Cat Person | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,211 (Ranked 111)  
+Progressed: 42,212 (Ranked 111)  
 Completed: 3 (0.01%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,7 +242,7 @@ Completed: 3 (0.01%) (Ranked 299)
 | 2023-10-17 | 42,164 | 3 |
 | 2023-10-18 | 42,184 | 3 |
 | 2023-10-19 | 42,199 | 3 |
-| 2023-10-20 | 42,211 | 3 |
+| 2023-10-20 | 42,212 | 3 |
 ## Awards
 Max (Character Customization): 28  (Ranked 488)  
 Sum: 28 (Ranked 501)  

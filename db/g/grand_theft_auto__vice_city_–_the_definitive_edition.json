@@ -2,12 +2,12 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 513,
+  "Ranking_Rating": 514,
   "Ranking_Popularity": 352,
   "Ranking_PopularitySum": 435,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -781,9 +781,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 10641,
+  "EOS_Progressed": 10642,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -11591,6 +11591,11 @@
       "Time": "2023-10-20T18:06:09.2400712+00:00",
       "NumProgressed": 10641,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-10-20T19:05:53.4752494+00:00",
+      "NumProgressed": 10642,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 34,
@@ -11690,7 +11695,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "ACH13",
@@ -11706,7 +11711,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4469
+      "UsersEstimate": 4470
     },
     {
       "ID": "ACH15",
@@ -11873,7 +11878,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10641,
+      "Progressed": 10642,
       "Completed": 60
     }
   ],
@@ -11881,8 +11886,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-10-20T18:00:39.436899+00:00",
-  "LastChanged_Achievements": "2023-10-20T18:06:09.2400705+00:00",
+  "LastChanged_Achievements": "2023-10-20T19:05:53.475249+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:56.7423853+00:00",
-  "LastUpdate_Ratings": "2023-10-20T18:00:39.4368999+00:00",
-  "LastUpdate_Achievements": "2023-10-20T18:06:09.2402269+00:00"
+  "LastUpdate_Ratings": "2023-10-20T19:00:26.2737874+00:00",
+  "LastUpdate_Achievements": "2023-10-20T19:05:53.4753211+00:00"
 }

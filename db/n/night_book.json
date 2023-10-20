@@ -4,7 +4,7 @@
   "ProductSlug": "night-book-77f2c7",
   "Ranking_EOS_Progress": 340,
   "Ranking_EOS_Completed": 116,
-  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewPlayers": 294,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 219,
+  "EOS_Progressed": 220,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.83,
+  "EOS_Completed_Percentage": 1.82,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:54.2644177+00:00",
@@ -256,6 +256,11 @@
       "Time": "2023-10-20T14:08:37.1444254+00:00",
       "NumProgressed": 219,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-20T19:08:35.2314082+00:00",
+      "NumProgressed": 220,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 17,
@@ -275,7 +280,7 @@
       "Name": "Career Woman",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "deal_or_no_deal",
@@ -283,7 +288,7 @@
       "Name": "Deal Or No Deal",
       "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "hopeful",
@@ -305,9 +310,9 @@
       "ID": "impress_theron",
       "SetID": "a3kkelb",
       "Name": "Impress Theron",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 101
+      "UsersEstimate": 99
     },
     {
       "ID": "marriage_is_off",
@@ -329,9 +334,9 @@
       "ID": "off_his_meds",
       "SetID": "a3kkelb",
       "Name": "He\u0027s Off His Meds",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 123
     },
     {
       "ID": "on_your_bike",
@@ -379,7 +384,7 @@
       "Name": "Unhelpful",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "use_your_connections",
@@ -395,14 +400,14 @@
       "Name": "Will This Help?",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     }
   ],
   "AchievementSets": [
     {
       "ID": "a3kkelb",
       "IsBase": true,
-      "Progressed": 219,
+      "Progressed": 220,
       "Completed": 4
     }
   ],
@@ -410,8 +415,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2023-10-20T18:08:45.6590621+00:00",
+  "LastChanged_Achievements": "2023-10-20T19:08:35.2314078+00:00",
   "LastUpdate_AppInfo": "2023-10-14T11:57:10.8818675+00:00",
-  "LastUpdate_Ratings": "2023-10-20T18:02:31.0104723+00:00",
-  "LastUpdate_Achievements": "2023-10-20T18:08:45.6590768+00:00"
+  "LastUpdate_Ratings": "2023-10-20T19:02:20.1531325+00:00",
+  "LastUpdate_Achievements": "2023-10-20T19:08:35.2314192+00:00"
 }

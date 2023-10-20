@@ -4,7 +4,7 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 241,
+  "EOS_Progressed": 242,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -1036,6 +1036,11 @@
       "Time": "2023-10-20T16:08:27.8388446+00:00",
       "NumProgressed": 241,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-20T19:08:58.0169078+00:00",
+      "NumProgressed": 242,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1061,9 +1066,9 @@
       "ID": "ETUA_AlonewithThem",
       "SetID": "65jc0ap",
       "Name": "Alone with Them",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 179
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -1231,7 +1236,7 @@
       "Name": "Researcher",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ETUA_RestInPeace",
@@ -1263,7 +1268,7 @@
       "Name": "I Am The Gate Keeper!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ETUA_SurvivalHero",
@@ -1335,7 +1340,7 @@
       "Name": "A Night To Remember",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ETUA_Trapped",
@@ -1366,7 +1371,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 241,
+      "Progressed": 242,
       "Completed": 1
     }
   ],
@@ -1374,8 +1379,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-10-20T18:09:08.2345349+00:00",
+  "LastChanged_Achievements": "2023-10-20T19:08:58.0169074+00:00",
   "LastUpdate_AppInfo": "2023-10-14T13:56:58.0301725+00:00",
-  "LastUpdate_Ratings": "2023-10-20T17:58:59.6227916+00:00",
-  "LastUpdate_Achievements": "2023-10-20T18:09:08.234591+00:00"
+  "LastUpdate_Ratings": "2023-10-20T18:58:53.5978124+00:00",
+  "LastUpdate_Achievements": "2023-10-20T19:08:58.0169385+00:00"
 }

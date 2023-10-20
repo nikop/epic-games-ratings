@@ -1313,9 +1313,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 16109,
+  "EOS_Progressed": 16112,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -7713,6 +7713,11 @@
       "Time": "2023-10-20T18:05:32.6524978+00:00",
       "NumProgressed": 16109,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2023-10-20T19:05:18.4126268+00:00",
+      "NumProgressed": 16112,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 47,
@@ -7754,9 +7759,9 @@
       "ID": "DISARM_ENEMY",
       "SetID": "4hj6d86",
       "Name": "Flesh Wound",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 805
+      "UsersEstimate": 967
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -7852,7 +7857,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 805
+      "UsersEstimate": 806
     },
     {
       "ID": "KILL_ROBOT",
@@ -7884,7 +7889,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 805
+      "UsersEstimate": 806
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -7898,9 +7903,9 @@
       "ID": "PRINT_WEAPON",
       "SetID": "4hj6d86",
       "Name": "Paper Jams",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 967
+      "UsersEstimate": 1128
     },
     {
       "ID": "SHARE_PHOTO",
@@ -8084,7 +8089,7 @@
       "Name": "It\u0027s Time",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "LOCK_UNDER_7SEC",
@@ -8099,13 +8104,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16109,
+      "Progressed": 16112,
       "Completed": 75
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4035,
+      "Progressed": 4038,
       "Completed": 29
     }
   ],
@@ -8113,8 +8118,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-10-19T07:57:37.4777054+00:00",
-  "LastChanged_Achievements": "2023-10-20T18:05:32.6524972+00:00",
+  "LastChanged_Achievements": "2023-10-20T19:05:18.4126264+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:28.7445303+00:00",
-  "LastUpdate_Ratings": "2023-10-20T17:58:20.6299756+00:00",
-  "LastUpdate_Achievements": "2023-10-20T18:05:32.6525824+00:00"
+  "LastUpdate_Ratings": "2023-10-20T18:58:14.5552163+00:00",
+  "LastUpdate_Achievements": "2023-10-20T19:05:18.4126923+00:00"
 }

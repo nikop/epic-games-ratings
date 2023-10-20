@@ -39,6 +39,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Fountainhead | 1.00% | ~148 |
 | Great | 1.00% | ~148 |
 | Magnificent | 1.00% | ~148 |
+| Mighty | 1.00% | ~148 |
 | Valiant | 1.00% | ~148 |
 | Wise | 1.00% | ~148 |
 | Developing Cities | 1.00% | ~148 |
@@ -64,7 +65,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Roman Paganism | 1.00% | ~148 |
 | Zoroastrianism | 1.00% | ~148 |
 | Kushite Pyramids | 1.00% | ~148 |
-| Mighty | 0.90% | ~133 |
 | Artisans | 0.90% | ~133 |
 | Acropolis | 0.90% | ~133 |
 | Mythology | 0.90% | ~133 |
@@ -101,6 +101,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Via Recta Souk | 0.60% | ~89 |
 | Learn to Play 4 | 0.60% | ~89 |
 | Economic Reform | 0.60% | ~89 |
+| Military Prestige | 0.60% | ~89 |
 | Legalism | 0.60% | ~89 |
 | Redemption | 0.60% | ~89 |
 | Revelation | 0.60% | ~89 |
@@ -108,6 +109,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legionary | 0.60% | ~89 |
 | Phalangite | 0.60% | ~89 |
 | Double Victory | 0.60% | ~89 |
+| The Clergy | 0.60% | ~89 |
 | Capable | 0.50% | ~74 |
 | Strong Difficulty | 0.50% | ~74 |
 | Hunters | 0.50% | ~74 |
@@ -115,13 +117,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage | 0.50% | ~74 |
 | One True Faith | 0.50% | ~74 |
 | Industrial Progress | 0.50% | ~74 |
-| Military Prestige | 0.50% | ~74 |
 | Dualism | 0.50% | ~74 |
 | Gnosticism | 0.50% | ~74 |
 | Veneration | 0.50% | ~74 |
 | Mounted Lancer | 0.50% | ~74 |
 | Ambition Victory | 0.50% | ~74 |
-| The Clergy | 0.50% | ~74 |
 | The Great Mage | 0.50% | ~74 |
 | Poetic Leader | 0.50% | ~74 |
 | Kmt Unified | 0.50% | ~74 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,818 (Ranked 138)  
+Progressed: 14,819 (Ranked 138)  
 Completed: 5 (0.03%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -532,7 +532,7 @@ Completed: 5 (0.03%) (Ranked 286)
 | 2023-10-17 | 14,775 | 5 |
 | 2023-10-18 | 14,791 | 5 |
 | 2023-10-19 | 14,805 | 5 |
-| 2023-10-20 | 14,818 | 5 |
+| 2023-10-20 | 14,819 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,848 (Ranked 211)  

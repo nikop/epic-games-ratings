@@ -421,9 +421,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2679,
+  "EOS_Progressed": 2680,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 246,
+  "EOS_NewPlayers": 244,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2956,6 +2956,11 @@
       "Time": "2023-10-20T18:08:44.4810324+00:00",
       "NumProgressed": 2679,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-20T19:08:34.1835677+00:00",
+      "NumProgressed": 2680,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -3008,7 +3013,7 @@
       "Name": "ROTY",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 964
+      "UsersEstimate": 965
     },
     {
       "ID": "achievement_15",
@@ -3064,7 +3069,7 @@
       "Name": "Saw It Coming",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 1500
+      "UsersEstimate": 1501
     },
     {
       "ID": "achievement_21",
@@ -3135,7 +3140,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 2679,
+      "Progressed": 2680,
       "Completed": 0
     }
   ],
@@ -3143,8 +3148,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-10-20T02:19:14.8265756+00:00",
-  "LastChanged_Achievements": "2023-10-20T18:08:44.4810315+00:00",
+  "LastChanged_Achievements": "2023-10-20T19:08:34.1835665+00:00",
   "LastUpdate_AppInfo": "2023-10-19T02:57:12.4417313+00:00",
-  "LastUpdate_Ratings": "2023-10-20T18:03:40.194785+00:00",
-  "LastUpdate_Achievements": "2023-10-20T18:08:44.4810842+00:00"
+  "LastUpdate_Ratings": "2023-10-20T19:03:30.6331473+00:00",
+  "LastUpdate_Achievements": "2023-10-20T19:08:34.1835928+00:00"
 }
