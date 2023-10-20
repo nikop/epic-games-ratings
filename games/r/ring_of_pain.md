@@ -6,18 +6,18 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~228,674 |
-| Uncharted Territory | 89.00% | ~212,000 |
-| Getting A Glimpse | 73.00% | ~173,887 |
-| A Quick Escape | 65.00% | ~154,831 |
-| Explorer | 62.00% | ~147,685 |
-| An Offering | 62.00% | ~147,685 |
-| Defeat The Dark | 61.00% | ~145,303 |
-| Colorful Corpse | 58.00% | ~138,157 |
-| That Was Quick | 57.00% | ~135,775 |
-| A Donation | 57.00% | ~135,775 |
-| Goodbye, Frog Friend | 54.00% | ~128,629 |
-| Heavy Hitter | 53.00% | ~126,247 |
+| First Steps | 96.00% | ~228,675 |
+| Uncharted Territory | 89.00% | ~212,001 |
+| Getting A Glimpse | 73.00% | ~173,888 |
+| A Quick Escape | 65.00% | ~154,832 |
+| Explorer | 62.00% | ~147,686 |
+| An Offering | 62.00% | ~147,686 |
+| Defeat The Dark | 61.00% | ~145,304 |
+| Colorful Corpse | 58.00% | ~138,158 |
+| That Was Quick | 57.00% | ~135,776 |
+| A Donation | 57.00% | ~135,776 |
+| Goodbye, Frog Friend | 54.00% | ~128,630 |
+| Heavy Hitter | 53.00% | ~126,248 |
 | Heartless | 46.00% | ~109,573 |
 | Spine Breaker | 46.00% | ~109,573 |
 | Deflection | 45.00% | ~107,191 |
@@ -44,16 +44,16 @@ Number of Ratings: 15,086  (23.09.2022)
 | New Perspectives | 27.00% | ~64,315 |
 | Shapeshifting | 27.00% | ~64,315 |
 | Destroy Your Fears | 26.00% | ~61,933 |
-| Save Our Souls | 25.00% | ~59,550 |
-| To The Death! | 20.00% | ~47,640 |
-| Well Prepared | 20.00% | ~47,640 |
-| Just Chilling | 20.00% | ~47,640 |
-| All Consuming | 19.00% | ~45,258 |
-| Stop Hitting Yourself | 19.00% | ~45,258 |
-| Shadow Spreads | 17.00% | ~40,494 |
-| Max Damage! | 17.00% | ~40,494 |
-| Don't Ignore Me! | 17.00% | ~40,494 |
-| Illuminate, Eliminate | 17.00% | ~40,494 |
+| Save Our Souls | 25.00% | ~59,551 |
+| To The Death! | 20.00% | ~47,641 |
+| Well Prepared | 20.00% | ~47,641 |
+| Just Chilling | 20.00% | ~47,641 |
+| All Consuming | 19.00% | ~45,259 |
+| Stop Hitting Yourself | 19.00% | ~45,259 |
+| Shadow Spreads | 17.00% | ~40,495 |
+| Max Damage! | 17.00% | ~40,495 |
+| Don't Ignore Me! | 17.00% | ~40,495 |
+| Illuminate, Eliminate | 17.00% | ~40,495 |
 | Doing Time | 16.00% | ~38,112 |
 | Spreading Plague | 15.00% | ~35,730 |
 | The Long Run | 15.00% | ~35,730 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Down Under | 0.50% | ~1,191 |
 | Near Death Experience | 0.30% | ~715 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,202 (Ranked 57)  
+Progressed: 238,203 (Ranked 57)  
 Completed: 281 (0.12%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 281 (0.12%) (Ranked 242)
 | 2023-10-17 | 238,089 | 281 |
 | 2023-10-18 | 238,139 | 281 |
 | 2023-10-19 | 238,190 | 281 |
-| 2023-10-20 | 238,202 | 281 |
+| 2023-10-20 | 238,203 | 281 |
 ## Awards
 Max (Quickly Understood Controls): 1,498  (Ranked 127)  
 Sum: 11,618 (Ranked 83)  

@@ -4,8 +4,8 @@
   "ProductSlug": "lunas-fishing-garden",
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_NewPlayers": 347,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-06-16T16:00:00+00:00",
     "PcReleaseDate": "2021-06-16T16:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 685,
+  "EOS_Progressed": 686,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.28,
+  "EOS_Completed_Percentage": 6.27,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:09.7835451+00:00",
@@ -144,6 +144,11 @@
       "Time": "2023-10-19T01:47:39.8112915+00:00",
       "NumProgressed": 685,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-10-20T05:06:02.9431933+00:00",
+      "NumProgressed": 686,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 14,
@@ -203,7 +208,7 @@
       "Name": "A Feel for the Reel",
       "Percentage": 84,
       "XP": 80,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "3_master_angler",
@@ -211,7 +216,7 @@
       "Name": "Master Angler",
       "Percentage": 24,
       "XP": 200,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "4_bird_breeder",
@@ -241,9 +246,9 @@
       "ID": "7_cleanup",
       "SetID": "459695l",
       "Name": "Cleanup Duty",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 75,
-      "UsersEstimate": 123
+      "UsersEstimate": 117
     },
     {
       "ID": "8_else",
@@ -266,7 +271,7 @@
     {
       "ID": "459695l",
       "IsBase": true,
-      "Progressed": 685,
+      "Progressed": 686,
       "Completed": 43
     }
   ],
@@ -274,8 +279,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.8897635+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.7835458+00:00",
   "LastChanged": "2023-03-31T05:57:45.8897637+00:00",
-  "LastChanged_Achievements": "2023-10-20T04:05:55.8240509+00:00",
+  "LastChanged_Achievements": "2023-10-20T05:06:02.9431928+00:00",
   "LastUpdate_AppInfo": "2023-10-14T13:57:01.0594386+00:00",
-  "LastUpdate_Ratings": "2023-10-20T03:58:25.7487424+00:00",
-  "LastUpdate_Achievements": "2023-10-20T04:05:55.8240649+00:00"
+  "LastUpdate_Ratings": "2023-10-20T04:58:21.4875926+00:00",
+  "LastUpdate_Achievements": "2023-10-20T05:06:02.9432033+00:00"
 }

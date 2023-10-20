@@ -21,6 +21,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Own the Means of Production | 2.00% | ~2,757 |
 | The Daily Grind | 1.00% | ~1,378 |
 | On the Path to Greatness | 1.00% | ~1,378 |
+| Ascended | 1.00% | ~1,378 |
 | Bounty Hunters | 1.00% | ~1,378 |
 | Blank Page Syndrome | 1.00% | ~1,378 |
 | Demand for Supplies | 1.00% | ~1,378 |
@@ -35,7 +36,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Through Repetition, Perfection | 1.00% | ~1,378 |
 | Did we pack lunch? | 1.00% | ~1,378 |
 | Arcane Industries | 1.00% | ~1,378 |
-| Ascended | 0.90% | ~1,241 |
 | Research & Development | 0.90% | ~1,241 |
 | Vanity, Verily | 0.90% | ~1,241 |
 | Flawless Fusion | 0.90% | ~1,241 |
@@ -58,6 +58,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Hidden Potential | 0.70% | ~965 |
 | Expansion in Session | 0.70% | ~965 |
 | Mammonite | 0.70% | ~965 |
+| Necromancer Queen | 0.70% | ~965 |
 | Miracle Alchemist | 0.70% | ~965 |
 | Laden with Loot | 0.70% | ~965 |
 | Seasoned Journeyman | 0.70% | ~965 |
@@ -81,7 +82,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | By Your Powers Combined... | 0.60% | ~827 |
 | Wealth Beyond Measure | 0.60% | ~827 |
 | Fat Cat Tag Team | 0.60% | ~827 |
-| Necromancer Queen | 0.60% | ~827 |
 | Item of Renown | 0.60% | ~827 |
 | Master Merchant | 0.60% | ~827 |
 | Bountiful Harvest | 0.60% | ~827 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,841 (Ranked 73)  
+Progressed: 137,844 (Ranked 73)  
 Completed: 171 (0.12%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,7 +302,7 @@ Completed: 171 (0.12%) (Ranked 242)
 | 2023-10-17 | 137,757 | 170 |
 | 2023-10-18 | 137,790 | 171 |
 | 2023-10-19 | 137,829 | 171 |
-| 2023-10-20 | 137,841 | 171 |
+| 2023-10-20 | 137,844 | 171 |
 ## Awards
 Max (Great for Beginners): 4,797  (Ranked 72)  
 Sum: 27,410 (Ranked 50)  

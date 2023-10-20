@@ -21,7 +21,7 @@ Rating: 3.82 (Ranked 1,002)
 | Catch of the Day | 26.00% | ~422 |
 | Amateur Chef | 23.00% | ~373 |
 | Fishing Guru | 21.00% | ~341 |
-| Spark of Love | 18.00% | ~292 |
+| Spark of Love | 19.00% | ~308 |
 | Community Helper | 18.00% | ~292 |
 | Expert Chemist | 15.00% | ~243 |
 | Stone Specialist | 14.00% | ~227 |

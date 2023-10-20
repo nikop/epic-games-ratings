@@ -1,13 +1,14 @@
 # Blazing Sails
 [Store](https://store.epicgames.com/en-US/p/blazing-sails)  
 [View Rawdata](../../db/b/blazing_sails.json)  
-Rating: 3.81 (Ranked 1,006)  
+Rating: 3.80 (Ranked 1,007)  
 ## Awards
-Max (Amazing Characters): 20  (Ranked 530)  
-Sum: 40 (Ranked 481)  
-Diff (max vs sum): 49  
+Max (Highly Recommended): 23  (Ranked 516)  
+Sum: 63 (Ranked 463)  
+Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
+| This game is Highly Recommended | 23 |
 | This game has Amazing Characters | 20 |
 | This game is Relaxing | 20 |
 ## Ratings History
@@ -20,3 +21,4 @@ Diff (max vs sum): 49
 | 2023-10-17 | 3.76 | 0 | 0 |
 | 2023-10-18 | 3.80 | 0 | 0 |
 | 2023-10-19 | 3.82 | 20 | 40 |
+| 2023-10-20 | 3.80 | 23 | 63 |

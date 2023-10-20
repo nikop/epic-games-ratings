@@ -4,11 +4,11 @@
   "ProductSlug": "the-outer-worlds-spacers-choice-edition",
   "Ranking_Rating": 420,
   "Ranking_Popularity": 425,
-  "Ranking_PopularitySum": 473,
+  "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 683,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 402,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-03-07T16:00:00+00:00",
     "PcReleaseDate": "2023-03-07T16:00:00+00:00",
@@ -572,8 +572,8 @@
   "FirstSeenRating": "2023-03-24T21:56:57.663882+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5081268+00:00",
   "LastChanged": "2023-10-18T23:59:36.9396172+00:00",
-  "LastChanged_Achievements": "2023-10-20T04:05:03.5624206+00:00",
+  "LastChanged_Achievements": "2023-10-20T05:05:10.8303257+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:29.3163025+00:00",
-  "LastUpdate_Ratings": "2023-10-20T04:00:18.1237278+00:00",
-  "LastUpdate_Achievements": "2023-10-20T04:05:03.5624247+00:00"
+  "LastUpdate_Ratings": "2023-10-20T05:00:07.3893019+00:00",
+  "LastUpdate_Achievements": "2023-10-20T05:05:10.8303285+00:00"
 }

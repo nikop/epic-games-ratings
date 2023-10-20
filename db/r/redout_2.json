@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -1372,9 +1372,9 @@
       "ID": "ONEPAINT",
       "SetID": "3dh70f3",
       "Name": "It\u0027s like an haircut",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 208
     },
     {
       "ID": "ONEPLATINUM",
@@ -1477,8 +1477,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-07-10T22:58:27.6839393+00:00",
-  "LastChanged_Achievements": "2023-10-20T04:06:20.1092864+00:00",
+  "LastChanged_Achievements": "2023-10-20T05:06:27.9965086+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:34.5174184+00:00",
-  "LastUpdate_Ratings": "2023-10-20T04:00:20.8281391+00:00",
-  "LastUpdate_Achievements": "2023-10-20T04:06:20.1093439+00:00"
+  "LastUpdate_Ratings": "2023-10-20T05:00:10.3184037+00:00",
+  "LastUpdate_Achievements": "2023-10-20T05:06:27.9965532+00:00"
 }

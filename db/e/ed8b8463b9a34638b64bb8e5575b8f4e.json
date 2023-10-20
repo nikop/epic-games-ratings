@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 473,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-09-12T11:00:00+00:00",
     "PcReleaseDate": "2023-09-12T09:00:00+00:00",
@@ -253,9 +253,9 @@
       "ID": "josh_the_saviour",
       "SetID": "7i36ba9",
       "Name": "Josh the Saviour",
-      "Percentage": 13,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "knock_knockout",
@@ -365,9 +365,9 @@
       "ID": "the_price_is_right",
       "SetID": "7i36ba9",
       "Name": "The Price is Right",
-      "Percentage": 63,
+      "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "the_swell_celebration",
@@ -404,8 +404,8 @@
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2023-10-20T04:04:47.6570281+00:00",
+  "LastChanged_Achievements": "2023-10-20T05:04:55.3354457+00:00",
   "LastUpdate_AppInfo": "2023-10-13T23:57:20.0684448+00:00",
-  "LastUpdate_Ratings": "2023-10-20T03:57:09.3496756+00:00",
-  "LastUpdate_Achievements": "2023-10-20T04:04:47.6570659+00:00"
+  "LastUpdate_Ratings": "2023-10-20T04:57:04.0857003+00:00",
+  "LastUpdate_Achievements": "2023-10-20T05:04:55.3354625+00:00"
 }

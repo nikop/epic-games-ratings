@@ -4,11 +4,11 @@
   "ProductSlug": "scott-pilgrim-vs-the-world-the-game",
   "Ranking_Rating": 99,
   "Ranking_Popularity": 437,
-  "Ranking_PopularitySum": 477,
+  "Ranking_PopularitySum": 478,
   "Ranking_EOS_Progress": 683,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 402,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-01-14T05:00:00+00:00",
     "PcReleaseDate": "2021-01-14T05:00:00+00:00",
@@ -414,6 +414,6 @@
   "FirstSeen": "2022-07-22T20:29:24.6298445+00:00",
   "LastChanged": "2023-10-11T23:58:05.853078+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:13.2787923+00:00",
-  "LastUpdate_Ratings": "2023-10-20T04:02:04.5969887+00:00",
-  "LastUpdate_Achievements": "2023-10-20T04:07:06.8981883+00:00"
+  "LastUpdate_Ratings": "2023-10-20T05:01:20.2896604+00:00",
+  "LastUpdate_Achievements": "2023-10-20T05:07:15.0533852+00:00"
 }

@@ -5,29 +5,29 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meissa's Savior | 31.00% | ~19 |
+| Eridanian Champion | 31.00% | ~19 |
 | Noctuan Champion | 31.00% | ~19 |
 | Dicesmithing Time! | 30.00% | ~18 |
 | Endless Tricks | 30.00% | ~18 |
 | Sanctuary Guardian | 30.00% | ~18 |
-| Eridanian Champion | 30.00% | ~18 |
 | Mechanical Buddy | 28.00% | ~17 |
 | Purification Pioneer | 28.00% | ~17 |
 | Apian Champion | 28.00% | ~17 |
 | Lacertian Champion | 28.00% | ~17 |
 | Wild's Keeper | 26.00% | ~16 |
+| Mind Illuminator | 25.00% | ~15 |
 | Stellar Dismantler | 25.00% | ~15 |
-| Mind Illuminator | 23.00% | ~14 |
 | Behenian Champion | 23.00% | ~14 |
+| Anomaly Destroyer | 21.00% | ~13 |
 | Loyal Partner | 21.00% | ~13 |
 | Aquarian Champion | 21.00% | ~13 |
-| Anomaly Destroyer | 20.00% | ~12 |
 | Heart Gate | 18.00% | ~11 |
 | Shard Spender | 18.00% | ~11 |
 | Star Killer | 18.00% | ~11 |
+| Astral Adventurer | 16.00% | ~10 |
 | Astral Seeker | 16.00% | ~10 |
 | The Corruption Goddess | 16.00% | ~10 |
 | The Goddes Avatar | 16.00% | ~10 |
-| Astral Adventurer | 15.00% | ~9 |
 | Favored by the Cosmos | 15.00% | ~9 |
 | Unbeatable | 15.00% | ~9 |
 | Wave Bender | 11.00% | ~7 |
@@ -44,12 +44,13 @@
 | Behenian Hero | 8.00% | ~5 |
 | The Distorted Sage | 7.00% | ~4 |
 | Artificer | 5.00% | ~3 |
+| If I Had Failed... | 5.00% | ~3 |
 | Purification Avatar | 5.00% | ~3 |
 | The Abyssal Terror | 5.00% | ~3 |
 | Behenian Mastery | 5.00% | ~3 |
 | Lacertian Mastery | 5.00% | ~3 |
+| Noctuan Hero | 5.00% | ~3 |
 | Astrarium of Holding | 3.00% | ~2 |
-| If I Had Failed... | 3.00% | ~2 |
 | Reflexive Mind | 3.00% | ~2 |
 | Sentinelphobic | 3.00% | ~2 |
 | The Ardent Prince | 3.00% | ~2 |
@@ -57,7 +58,6 @@
 | Aquarian Mastery | 3.00% | ~2 |
 | Eridanian Hero | 3.00% | ~2 |
 | Eridanian Mastery | 3.00% | ~2 |
-| Noctuan Hero | 3.00% | ~2 |
 | Noctuan Mastery | 3.00% | ~2 |
 | Anomaly Master | 2.00% | ~1 |
 | Arch-Oracle | 2.00% | ~1 |

@@ -9,25 +9,25 @@ Number of Ratings: 22,103  (23.09.2022)
 | First F#@!ing Day | 46.00% | ~34,747 |
 | To The Nines | 42.00% | ~31,726 |
 | Optimized | 37.00% | ~27,949 |
-| Performance Review | 36.00% | ~27,193 |
+| Performance Review | 36.00% | ~27,194 |
 | Making a Name | 35.00% | ~26,438 |
-| Tune Up | 33.00% | ~24,927 |
+| Tune Up | 33.00% | ~24,928 |
 | Wet Work | 32.00% | ~24,172 |
 | Landlord | 32.00% | ~24,172 |
-| The Side Job | 31.00% | ~23,416 |
-| Wrecking Ball | 28.00% | ~21,150 |
+| The Side Job | 31.00% | ~23,417 |
+| Wrecking Ball | 28.00% | ~21,151 |
 | Food for Thought | 27.00% | ~20,395 |
 | Finders Keepers | 25.00% | ~18,884 |
 | A Young Empire | 25.00% | ~18,884 |
 | Work Ethic | 23.00% | ~17,374 |
-| Picking Fights | 20.00% | ~15,107 |
+| Picking Fights | 20.00% | ~15,108 |
 | Power Players | 19.00% | ~14,352 |
 | Quality Time | 18.00% | ~13,597 |
 | Et tu? | 17.00% | ~12,841 |
 | Showdown | 16.00% | ~12,086 |
 | Took It to The Limit | 16.00% | ~12,086 |
 | Kitted Out | 14.00% | ~10,575 |
-| Masters of Santo Ileso | 12.00% | ~9,064 |
+| Masters of Santo Ileso | 12.00% | ~9,065 |
 | Hijacked | 11.00% | ~8,309 |
 | The Spins | 10.00% | ~7,554 |
 | The Mechanic | 10.00% | ~7,554 |
@@ -43,9 +43,9 @@ Number of Ratings: 22,103  (23.09.2022)
 | Free Refills | 5.00% | ~3,777 |
 | Smooth Moves | 5.00% | ~3,777 |
 | Hazardous Heist | 5.00% | ~2,359 |
-| Neighborly | 4.00% | ~3,021 |
-| Prankster | 4.00% | ~3,021 |
-| Tourist | 4.00% | ~3,021 |
+| Neighborly | 4.00% | ~3,022 |
+| Prankster | 4.00% | ~3,022 |
+| Tourist | 4.00% | ~3,022 |
 | Shopping Spree | 3.00% | ~2,266 |
 | Always Be Hustling | 3.00% | ~2,266 |
 | Community Outreach | 3.00% | ~2,266 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~151 |
 | Fiesta Time | 0.20% | ~151 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 75,537 (Ranked 90)  
+Progressed: 75,538 (Ranked 90)  
 Completed: 51 (0.07%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 51 (0.07%) (Ranked 264)
 | 2023-10-17 | 75,335 | 51 |
 | 2023-10-18 | 75,425 | 51 |
 | 2023-10-19 | 75,514 | 51 |
-| 2023-10-20 | 75,537 | 51 |
+| 2023-10-20 | 75,538 | 51 |
 ## Awards
 Max (Extremely Fun): 1,070  (Ranked 143)  
 Sum: 8,688 (Ranked 97)  
