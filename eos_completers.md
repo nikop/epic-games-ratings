@@ -4,7 +4,7 @@
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 66.67% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.58% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.83% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 46.77% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 46.76% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.17% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -166,11 +166,11 @@
 | 164 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
 | 164 | [Potion Permit](games/p/potion_permit.md) | 0.62% |
 | 166 | [Haven](games/h/haven.md) | 0.61% |
-| 167 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.59% |
-| 168 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.58% |
-| 168 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.58% |
-| 168 | [Grindstone](games/g/grindstone.md) | 0.58% |
-| 168 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.58% |
+| 167 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.58% |
+| 167 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.58% |
+| 167 | [Grindstone](games/g/grindstone.md) | 0.58% |
+| 167 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.58% |
+| 167 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.58% |
 | 172 | [The Surge 2](games/t/the_surge_2.md) | 0.57% |
 | 173 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.56% |
 | 174 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
@@ -187,8 +187,8 @@
 | 185 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.45% |
 | 186 | [It Takes Two](games/i/it_takes_two.md) | 0.44% |
 | 187 | [Tchia](games/t/tchia.md) | 0.43% |
-| 187 | [Them and Us](games/t/them_and_us.md) | 0.43% |
-| 189 | [Wildermyth](games/w/wildermyth.md) | 0.42% |
+| 188 | [Them and Us](games/t/them_and_us.md) | 0.42% |
+| 188 | [Wildermyth](games/w/wildermyth.md) | 0.42% |
 | 190 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.41% |
 | 191 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 192 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.39% |

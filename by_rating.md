@@ -153,7 +153,7 @@
 | 151 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 0 | 538 |
 | 151 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.74 | 0 | 538 |
 | 151 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 824 | 161 |
-| 151 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 16,468 | 24 |
+| 151 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 16,583 | 24 |
 | 151 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 716 | 177 |
 | 151 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.74 | 0 | 538 |
 | 151 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 7,249 | 52 |
@@ -687,7 +687,7 @@
 | 675 | [Railway Empire 2](games/r/railway_empire_2.md) | 4.43 | 0 | 538 |
 | 675 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 0 | 538 |
 | 675 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 0 | 538 |
-| 675 | [SMITE](games/s/smite.md) | 4.43 | 4,465 | 79 |
+| 675 | [SMITE](games/s/smite.md) | 4.43 | 4,471 | 79 |
 | 675 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.43 | 0 | 538 |
 | 675 | [STG Football](games/s/stg_football.md) | 4.43 | 45 | 429 |
 | 675 | [The Surge](games/t/the_surge.md) | 4.43 | 29 | 480 |
@@ -907,12 +907,12 @@
 | 902 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 4.18 | 0 | 538 |
 | 902 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 207,741 | 5 |
 | 902 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 356 |
+| 902 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 4.18 | 33 | 468 |
 | 902 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 0 | 538 |
 | 902 | [Train Sim World® 4: Standard Edition](games/c/c2e18b972be9485bbc408c021e620cff.md) | 4.18 | 26 | 500 |
-| 910 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.17 | 36 | 454 |
-| 910 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.17 | 94 | 359 |
-| 910 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 4.17 | 33 | 468 |
-| 910 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 0 | 538 |
+| 911 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.17 | 36 | 454 |
+| 911 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.17 | 94 | 359 |
+| 911 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 0 | 538 |
 | 914 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 0 | 538 |
 | 914 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 618 | 188 |
 | 914 | [Family Man](games/f/family_man.md) | 4.16 | 0 | 538 |
