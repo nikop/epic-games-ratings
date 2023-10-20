@@ -2,13 +2,13 @@
   "ID": "31bd7140ab344cd59a770e14b2afbcea",
   "Name": "Aven Colony",
   "ProductSlug": "aven-colony",
-  "Ranking_Rating": 887,
+  "Ranking_Rating": 886,
   "Ranking_Popularity": 321,
   "Ranking_PopularitySum": 278,
   "Ranking_EOS_Progress": 684,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 396,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-11-04T15:00:00+00:00",
     "PcReleaseDate": "2017-07-25T15:00:00+00:00",
@@ -1660,6 +1660,6 @@
   "FirstSeen": "2022-07-22T20:23:59.6890424+00:00",
   "LastChanged": "2023-10-14T18:00:30.1889055+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:15.1754291+00:00",
-  "LastUpdate_Ratings": "2023-10-20T10:58:46.4309894+00:00",
-  "LastUpdate_Achievements": "2023-10-20T11:09:15.8782648+00:00"
+  "LastUpdate_Ratings": "2023-10-20T11:58:57.7008732+00:00",
+  "LastUpdate_Achievements": "2023-10-20T12:09:22.018635+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 39,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 40,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-02-10T17:00:00+00:00",
     "PcReleaseDate": "2018-12-12T12:21:00+00:00",
@@ -3736,9 +3736,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 464097,
+  "EOS_Progressed": 464107,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2359,
+  "EOS_NewPlayers": 2356,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24466,6 +24466,11 @@
       "Time": "2023-10-20T11:05:13.4468219+00:00",
       "NumProgressed": 464097,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-20T12:05:19.1490478+00:00",
+      "NumProgressed": 464107,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -24509,7 +24514,7 @@
       "Name": "Cinematic",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 2320
+      "UsersEstimate": 2321
     },
     {
       "ID": "ACH_DESIGNATED_DRIVER",
@@ -24756,15 +24761,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 464097,
+      "Progressed": 464107,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-10-19T06:59:50.8323942+00:00",
-  "LastChanged_Achievements": "2023-10-20T11:05:13.4468216+00:00",
+  "LastChanged_Achievements": "2023-10-20T12:05:19.149047+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:10.7771003+00:00",
-  "LastUpdate_Ratings": "2023-10-20T10:59:37.5679123+00:00",
-  "LastUpdate_Achievements": "2023-10-20T11:05:13.4469459+00:00"
+  "LastUpdate_Ratings": "2023-10-20T12:00:03.0660239+00:00",
+  "LastUpdate_Achievements": "2023-10-20T12:05:19.1491989+00:00"
 }

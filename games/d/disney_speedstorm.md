@@ -5,14 +5,14 @@ Rating: 4.41 (Ranked 704)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 5.00% | ~11,951 |
-| IT MAKES BOOM! | 3.00% | ~7,170 |
-| EXTRA BOOST | 2.00% | ~4,780 |
-| PROTECTED | 2.00% | ~4,780 |
-| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,390 |
-| AGGRESSIVE RACER | 1.00% | ~2,390 |
-| PRO | 1.00% | ~2,390 |
-| A TIGER'S FEAR | 0.90% | ~2,151 |
+| ROOKIE | 5.00% | ~11,954 |
+| IT MAKES BOOM! | 3.00% | ~7,173 |
+| EXTRA BOOST | 2.00% | ~4,782 |
+| PROTECTED | 2.00% | ~4,782 |
+| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,391 |
+| AGGRESSIVE RACER | 1.00% | ~2,391 |
+| PRO | 1.00% | ~2,391 |
+| A TIGER'S FEAR | 0.90% | ~2,152 |
 | ACE SPEEDSTER | 0.50% | ~1,195 |
 | IT'S A LONG WAY TO THE TOP | 0.40% | ~956 |
 | DEFEAT OUR CHAMPION | 0.40% | ~956 |
@@ -30,7 +30,7 @@ Rating: 4.41 (Ranked 704)
 | ACE TRICKSTER | 0.20% | ~478 |
 | FRAMED! | 0.10% | ~239 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,013 (Ranked 56)  
+Progressed: 239,084 (Ranked 56)  
 Completed: 235 (0.10%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,15 +209,15 @@ Completed: 235 (0.10%) (Ranked 249)
 | 2023-10-17 | 232,528 | 235 |
 | 2023-10-18 | 235,284 | 235 |
 | 2023-10-19 | 237,962 | 235 |
-| 2023-10-20 | 239,013 | 235 |
+| 2023-10-20 | 239,084 | 235 |
 ## Awards
-Max (Diverse Characters): 31  (Ranked 476)  
-Sum: 126 (Ranked 419)  
-Diff (max vs sum): 57  
+Max (Great for Quick Sessions): 31  (Ranked 476)  
+Sum: 128 (Ranked 417)  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 31 |
-| This game is Great for Quick Sessions | 29 |
+| This game is Great for Quick Sessions | 31 |
 | This game has Amazing Characters | 23 |
 | This game is Great for Beginners | 22 |
 | This game has Amazing Storytelling | 21 |
@@ -243,3 +243,4 @@ Diff (max vs sum): 57
 | 2023-10-17 | 4.41 | 28 | 113 |
 | 2023-10-18 | 4.42 | 29 | 119 |
 | 2023-10-19 | 4.41 | 31 | 126 |
+| 2023-10-20 | 4.41 | 31 | 128 |

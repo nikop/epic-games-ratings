@@ -2,13 +2,13 @@
   "ID": "a3dd9f3da8ec49c7b25dec42cce2ec46",
   "Name": "Adios",
   "ProductSlug": "adios-b378b4",
-  "Ranking_Rating": 1018,
+  "Ranking_Rating": 1017,
   "Ranking_Popularity": 538,
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 142,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -117,9 +117,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 76232,
+  "EOS_Progressed": 76234,
   "EOS_Completed": 799,
-  "EOS_NewPlayers": 572,
+  "EOS_NewPlayers": 570,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -20522,6 +20522,11 @@
       "Time": "2023-10-20T11:06:17.7032511+00:00",
       "NumProgressed": 76232,
       "NumCompleted": 799
+    },
+    {
+      "Time": "2023-10-20T12:06:31.9459257+00:00",
+      "NumProgressed": 76234,
+      "NumCompleted": 799
     }
   ],
   "TotalAchievements": 25,
@@ -20605,7 +20610,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 15246
+      "UsersEstimate": 15247
     },
     {
       "ID": "Hearty",
@@ -20732,7 +20737,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 76232,
+      "Progressed": 76234,
       "Completed": 799
     }
   ],
@@ -20740,8 +20745,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-10-20T11:06:17.7032507+00:00",
+  "LastChanged_Achievements": "2023-10-20T12:06:31.9459249+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:21.8706974+00:00",
-  "LastUpdate_Ratings": "2023-10-20T10:57:26.9379785+00:00",
-  "LastUpdate_Achievements": "2023-10-20T11:06:17.7033514+00:00"
+  "LastUpdate_Ratings": "2023-10-20T11:57:33.1351909+00:00",
+  "LastUpdate_Achievements": "2023-10-20T12:06:31.946064+00:00"
 }

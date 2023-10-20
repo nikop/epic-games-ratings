@@ -2,13 +2,13 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 897,
+  "Ranking_Rating": 896,
   "Ranking_Popularity": 381,
   "Ranking_PopularitySum": 323,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1313,9 +1313,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 16098,
+  "EOS_Progressed": 16100,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -7683,6 +7683,11 @@
       "Time": "2023-10-20T11:04:29.9972517+00:00",
       "NumProgressed": 16098,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2023-10-20T12:04:30.1019573+00:00",
+      "NumProgressed": 16100,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 47,
@@ -8038,7 +8043,7 @@
       "Name": "One Last Job",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "KILL_BIOBOT",
@@ -8069,13 +8074,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16098,
+      "Progressed": 16100,
       "Completed": 75
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4024,
+      "Progressed": 4026,
       "Completed": 29
     }
   ],
@@ -8083,8 +8088,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-10-19T07:57:37.4777054+00:00",
-  "LastChanged_Achievements": "2023-10-20T11:04:29.9972511+00:00",
+  "LastChanged_Achievements": "2023-10-20T12:04:30.1019565+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:28.7445303+00:00",
-  "LastUpdate_Ratings": "2023-10-20T10:57:48.7523998+00:00",
-  "LastUpdate_Achievements": "2023-10-20T11:04:29.9973134+00:00"
+  "LastUpdate_Ratings": "2023-10-20T11:57:55.1411371+00:00",
+  "LastUpdate_Achievements": "2023-10-20T12:04:30.1020253+00:00"
 }

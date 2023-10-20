@@ -4,8 +4,8 @@
   "ProductSlug": "dustborn-467935",
   "Ranking_EOS_Progress": 684,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 396,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-17T21:57:12.154309+00:00",
-  "LastUpdate_Ratings": "2023-10-20T10:59:55.5229135+00:00",
-  "LastUpdate_Achievements": "2023-10-20T11:05:48.4533594+00:00"
+  "LastUpdate_Ratings": "2023-10-20T12:00:25.6531414+00:00",
+  "LastUpdate_Achievements": "2023-10-20T12:05:58.5621508+00:00"
 }

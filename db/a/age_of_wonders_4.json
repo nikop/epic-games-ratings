@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -363,9 +363,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 5227,
+  "EOS_Progressed": 5228,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -6388,6 +6388,11 @@
       "Time": "2023-10-19T12:09:25.7535751+00:00",
       "NumProgressed": 5227,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-20T12:03:26.2801643+00:00",
+      "NumProgressed": 5228,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 50,
@@ -6527,7 +6532,7 @@
       "Name": "Secret Technique",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "25",
@@ -6798,13 +6803,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5227,
+      "Progressed": 5228,
       "Completed": 4765
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5227,
+      "Progressed": 5228,
       "Completed": 6
     }
   ],
@@ -6812,8 +6817,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-10-18T14:59:07.0695785+00:00",
-  "LastChanged_Achievements": "2023-10-20T11:03:32.9678936+00:00",
+  "LastChanged_Achievements": "2023-10-20T12:03:26.2801636+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:43.1584566+00:00",
-  "LastUpdate_Ratings": "2023-10-20T11:00:24.368774+00:00",
-  "LastUpdate_Achievements": "2023-10-20T11:03:32.9680019+00:00"
+  "LastUpdate_Ratings": "2023-10-20T12:00:57.9450817+00:00",
+  "LastUpdate_Achievements": "2023-10-20T12:03:26.2802737+00:00"
 }

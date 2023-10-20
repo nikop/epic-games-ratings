@@ -6,15 +6,15 @@ Rating: 4.50 (Ranked 575)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 3.00% | ~802 |
-| Advancement | 2.00% | ~534 |
-| I collect Spores, Molds, and Fungi | 2.00% | ~534 |
-| Discovery | 2.00% | ~534 |
-| Meticulously Efficient | 2.00% | ~534 |
-| Fully Upgraded | 2.00% | ~534 |
-| Solo Capture | 2.00% | ~534 |
-| Swift Rift Removers | 2.00% | ~534 |
-| Teamwork | 2.00% | ~534 |
-| Vaporous Expansion | 2.00% | ~534 |
+| Advancement | 2.00% | ~535 |
+| I collect Spores, Molds, and Fungi | 2.00% | ~535 |
+| Discovery | 2.00% | ~535 |
+| Meticulously Efficient | 2.00% | ~535 |
+| Fully Upgraded | 2.00% | ~535 |
+| Solo Capture | 2.00% | ~535 |
+| Swift Rift Removers | 2.00% | ~535 |
+| Teamwork | 2.00% | ~535 |
+| Vaporous Expansion | 2.00% | ~535 |
 | Animated | 1.00% | ~267 |
 | Back Off | 1.00% | ~267 |
 | Clutch Capture | 1.00% | ~267 |
@@ -37,11 +37,11 @@ Rating: 4.50 (Ranked 575)
 | Pesky Jerks | 0.70% | ~187 |
 | Collector | 0.60% | ~160 |
 | Diabolical | 0.60% | ~160 |
+| Escape Artist | 0.60% | ~160 |
 | Reckless | 0.60% | ~160 |
 | Rift Destroyer | 0.60% | ~160 |
 | Seasoned | 0.60% | ~160 |
 | Tobin's Prodigy | 0.60% | ~160 |
-| Escape Artist | 0.50% | ~134 |
 | Rivalry | 0.50% | ~134 |
 | Fragile Panes | 0.40% | ~107 |
 | Liability | 0.40% | ~107 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 575)
 | Mycophile | 0.10% | ~27 |
 | Ultimate Defense | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,723 (Ranked 119)  
+Progressed: 26,728 (Ranked 119)  
 Completed: 60 (0.22%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,7 +240,7 @@ Completed: 60 (0.22%) (Ranked 219)
 | 2023-10-17 | 26,559 | 58 |
 | 2023-10-18 | 26,596 | 59 |
 | 2023-10-19 | 26,668 | 59 |
-| 2023-10-20 | 26,723 | 60 |
+| 2023-10-20 | 26,728 | 60 |
 ## Awards
 Max (Great for Quick Sessions): 266  (Ranked 257)  
 Sum: 2,423 (Ranked 187)  

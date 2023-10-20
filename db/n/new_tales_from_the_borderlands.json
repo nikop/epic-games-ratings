@@ -2,13 +2,13 @@
   "ID": "28ed8f56800c4bcc9eaa0c5264ec6917",
   "Name": "New Tales from the Borderlands",
   "ProductSlug": "new-tales-from-the-borderlands",
-  "Ranking_Rating": 948,
+  "Ranking_Rating": 947,
   "Ranking_Popularity": 538,
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
     "PcReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -177,9 +177,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3676,
+  "EOS_Progressed": 3677,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1682,6 +1682,11 @@
       "Time": "2023-10-20T09:05:14.2493428+00:00",
       "NumProgressed": 3676,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-20T12:04:11.6813538+00:00",
+      "NumProgressed": 3677,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -1725,7 +1730,7 @@
       "Name": "Totally Intentional",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 1654
+      "UsersEstimate": 1655
     },
     {
       "ID": "FIND_FIRST_VAULTLANDER",
@@ -1765,7 +1770,7 @@
       "Name": "The Shardmenstration",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "FINISH_EPISODE_5",
@@ -1797,7 +1802,7 @@
       "Name": "You Rich Now!",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "HACK_YOUR_FIRST_OBJECT",
@@ -1861,7 +1866,7 @@
       "Name": "Those Were the Days...",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "WIN_EVERY_VAULTLANDER_IN_MAIN",
@@ -1900,7 +1905,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3676,
+      "Progressed": 3677,
       "Completed": 0
     }
   ],
@@ -1908,8 +1913,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2023-10-20T11:04:13.3559735+00:00",
+  "LastChanged_Achievements": "2023-10-20T12:04:11.6813531+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:39.2129033+00:00",
-  "LastUpdate_Ratings": "2023-10-20T10:57:37.8575663+00:00",
-  "LastUpdate_Achievements": "2023-10-20T11:04:13.3559956+00:00"
+  "LastUpdate_Ratings": "2023-10-20T11:57:46.7304312+00:00",
+  "LastUpdate_Achievements": "2023-10-20T12:04:11.6813814+00:00"
 }

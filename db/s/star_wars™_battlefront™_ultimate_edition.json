@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 744,
+  "EOS_Progressed": 745,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2039,6 +2039,11 @@
       "Time": "2023-10-20T10:08:04.7428459+00:00",
       "NumProgressed": 744,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-20T12:07:30.5140242+00:00",
+      "NumProgressed": 745,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -2251,7 +2256,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "achievement_33",
@@ -2291,7 +2296,7 @@
       "Name": "Off to a good start",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "achievement_38",
@@ -2315,15 +2320,15 @@
       "Name": "I suggest a new strategy",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "achievement_40",
       "SetID": "271ol84",
       "Name": "Do... or do not. There is no try",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 394
+      "UsersEstimate": 387
     },
     {
       "ID": "achievement_41",
@@ -2353,9 +2358,9 @@
       "ID": "achievement_44",
       "SetID": "cemm4l8",
       "Name": "A good blaster at your side",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 246
+      "UsersEstimate": 253
     },
     {
       "ID": "achievement_45",
@@ -2403,7 +2408,7 @@
       "Name": "Shoot first",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "achievement_50",
@@ -2554,13 +2559,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 744,
+      "Progressed": 745,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 744,
+      "Progressed": 745,
       "Completed": 1
     }
   ],
@@ -2568,8 +2573,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-20T11:07:00.1672282+00:00",
+  "LastChanged_Achievements": "2023-10-20T12:07:30.5140233+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:22.846224+00:00",
-  "LastUpdate_Ratings": "2023-10-20T10:59:01.8521148+00:00",
-  "LastUpdate_Achievements": "2023-10-20T11:07:00.1672881+00:00"
+  "LastUpdate_Ratings": "2023-10-20T11:59:13.7846688+00:00",
+  "LastUpdate_Achievements": "2023-10-20T12:07:30.5141083+00:00"
 }

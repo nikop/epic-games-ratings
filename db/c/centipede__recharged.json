@@ -2,13 +2,13 @@
   "ID": "a1edd0d2e28d4d298152c001e7c47e22",
   "Name": "Centipede: Recharged",
   "ProductSlug": "centipede-recharged",
-  "Ranking_Rating": 812,
+  "Ranking_Rating": 811,
   "Ranking_Popularity": 538,
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 164,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -305,9 +305,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17931,
+  "EOS_Progressed": 17932,
   "EOS_Completed": 112,
-  "EOS_NewPlayers": 162,
+  "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -14210,6 +14210,11 @@
       "Time": "2023-10-20T11:05:48.0400266+00:00",
       "NumProgressed": 17931,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2023-10-20T12:05:58.1049924+00:00",
+      "NumProgressed": 17932,
+      "NumCompleted": 112
     }
   ],
   "TotalAchievements": 16,
@@ -14221,7 +14226,7 @@
       "Name": "Beat \u0027em Up",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 4841
+      "UsersEstimate": 4842
     },
     {
       "ID": "Burning_For_You",
@@ -14269,7 +14274,7 @@
       "Name": "Fireworks",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 5917
+      "UsersEstimate": 5918
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -14325,7 +14330,7 @@
       "Name": "Sole Survivor",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 6634
+      "UsersEstimate": 6635
     },
     {
       "ID": "Still_Burning",
@@ -14348,15 +14353,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 17931,
+      "Progressed": 17932,
       "Completed": 112
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-07-21T02:04:12.2963456+00:00",
-  "LastChanged_Achievements": "2023-10-20T11:05:48.0400259+00:00",
+  "LastChanged_Achievements": "2023-10-20T12:05:58.1049912+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:27.7450235+00:00",
-  "LastUpdate_Ratings": "2023-10-20T10:59:59.9468677+00:00",
-  "LastUpdate_Achievements": "2023-10-20T11:05:48.0401+00:00"
+  "LastUpdate_Ratings": "2023-10-20T12:00:30.0542726+00:00",
+  "LastUpdate_Achievements": "2023-10-20T12:05:58.1050898+00:00"
 }

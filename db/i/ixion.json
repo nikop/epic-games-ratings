@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -5422,17 +5422,17 @@
       "ID": "ACH_BASE_17",
       "SetID": "92iocjf",
       "Name": "What They Hide From Us",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 130
+      "UsersEstimate": 162
     },
     {
       "ID": "ACH_BASE_18",
       "SetID": "92iocjf",
       "Name": "Infinite Growth...",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 745
+      "UsersEstimate": 778
     },
     {
       "ID": "ACH_BASE_19",
@@ -5837,8 +5837,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-09-17T17:59:23.8865698+00:00",
-  "LastChanged_Achievements": "2023-10-20T11:04:28.0926391+00:00",
+  "LastChanged_Achievements": "2023-10-20T12:04:28.1918127+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:38.5119493+00:00",
-  "LastUpdate_Ratings": "2023-10-20T10:58:24.7992399+00:00",
-  "LastUpdate_Achievements": "2023-10-20T11:04:28.0927082+00:00"
+  "LastUpdate_Ratings": "2023-10-20T11:58:34.6205177+00:00",
+  "LastUpdate_Achievements": "2023-10-20T12:04:28.1919029+00:00"
 }

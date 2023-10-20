@@ -5,34 +5,34 @@ Rating: 4.55 (Ranked 494)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 102.00% | ~19,213 |
-| Before the Downfall | 97.00% | ~18,271 |
-| Money like Water | 95.00% | ~17,894 |
-| Minimalist | 93.00% | ~17,517 |
-| Builder | 86.00% | ~16,199 |
-| Eraser | 73.00% | ~13,750 |
-| Pocket of Trains | 68.00% | ~12,808 |
-| Inspector | 61.00% | ~11,490 |
-| Going the Distance | 56.00% | ~10,548 |
-| Oil Baron | 44.00% | ~8,288 |
-| Loads-a-Money | 44.00% | ~8,288 |
-| Helper of the People | 41.00% | ~7,723 |
-| Simplification | 35.00% | ~6,593 |
-| Box of Trains | 35.00% | ~6,593 |
+| Trevithick's Legacy | 102.00% | ~19,211 |
+| Before the Downfall | 97.00% | ~18,269 |
+| Money like Water | 95.00% | ~17,892 |
+| Minimalist | 93.00% | ~17,516 |
+| Builder | 86.00% | ~16,197 |
+| Eraser | 73.00% | ~13,749 |
+| Pocket of Trains | 68.00% | ~12,807 |
+| Inspector | 61.00% | ~11,489 |
+| Going the Distance | 56.00% | ~10,547 |
+| Oil Baron | 44.00% | ~8,287 |
+| Loads-a-Money | 44.00% | ~8,287 |
+| Helper of the People | 41.00% | ~7,722 |
+| Simplification | 35.00% | ~6,592 |
+| Box of Trains | 35.00% | ~6,592 |
 | Let There be Light | 34.00% | ~6,404 |
-| Hot Water | 32.00% | ~6,028 |
-| Indecisive | 30.00% | ~5,651 |
+| Hot Water | 32.00% | ~6,027 |
+| Indecisive | 30.00% | ~5,650 |
 | The scenic route | 29.00% | ~5,462 |
 | Industrialist | 26.00% | ~4,897 |
-| 8K is Enough for Everyone | 24.00% | ~4,521 |
-| Perfectionist | 24.00% | ~4,521 |
-| Trains over Pipes | 24.00% | ~4,521 |
+| 8K is Enough for Everyone | 24.00% | ~4,520 |
+| Perfectionist | 24.00% | ~4,520 |
+| Trains over Pipes | 24.00% | ~4,520 |
 | Man of Steel | 17.00% | ~3,202 |
-| Room Full of Trains | 13.00% | ~2,449 |
-| Investor | 10.00% | ~1,884 |
+| Room Full of Trains | 13.00% | ~2,448 |
+| Investor | 10.00% | ~1,883 |
 | The poor groundwater levels | 8.00% | ~1,507 |
-| Multiverse | 7.00% | ~1,319 |
-| Metropolis | 7.00% | ~1,319 |
+| Multiverse | 7.00% | ~1,318 |
+| Metropolis | 7.00% | ~1,318 |
 | High Flier | 4.00% | ~753 |
 | To infinity, and beyond! | 3.00% | ~565 |
 | Space industrialization | 2.00% | ~377 |
@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 494)
 | Overdeer | 0.60% | ~113 |
 | Cloud Services | 0.30% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,836 (Ranked 129)  
+Progressed: 18,834 (Ranked 129)  
 Completed: 32 (0.17%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |

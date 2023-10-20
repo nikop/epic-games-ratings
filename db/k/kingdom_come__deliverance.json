@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 48,
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -7971,9 +7971,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 805405,
+  "EOS_Progressed": 805407,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 798,
+  "EOS_NewPlayers": 792,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -28426,6 +28426,11 @@
       "Time": "2023-10-20T11:05:23.6623435+00:00",
       "NumProgressed": 805405,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-20T12:05:30.5837592+00:00",
+      "NumProgressed": 805407,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -28549,7 +28554,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 201351
+      "UsersEstimate": 201352
     },
     {
       "ID": "Chivalrous",
@@ -28597,7 +28602,7 @@
       "Name": "Convict",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 80540
+      "UsersEstimate": 80541
     },
     {
       "ID": "DavidHorak",
@@ -28637,7 +28642,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 185243
+      "UsersEstimate": 185244
     },
     {
       "ID": "Fighter",
@@ -28717,7 +28722,7 @@
       "Name": "Haggler",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 72486
+      "UsersEstimate": 72487
     },
     {
       "ID": "HardcoreHenry",
@@ -29092,15 +29097,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 805405,
+      "Progressed": 805407,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-10-20T10:59:18.4940797+00:00",
-  "LastChanged_Achievements": "2023-10-20T11:05:23.662343+00:00",
+  "LastChanged_Achievements": "2023-10-20T12:05:30.5837584+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:13.6850555+00:00",
-  "LastUpdate_Ratings": "2023-10-20T10:59:18.4940803+00:00",
-  "LastUpdate_Achievements": "2023-10-20T11:05:23.662504+00:00"
+  "LastUpdate_Ratings": "2023-10-20T11:59:36.3531839+00:00",
+  "LastUpdate_Achievements": "2023-10-20T12:05:30.5839766+00:00"
 }

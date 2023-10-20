@@ -2,13 +2,13 @@
   "ID": "af0ea01162704696bebf8633a52a7a6d",
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
-  "Ranking_Rating": 987,
+  "Ranking_Rating": 986,
   "Ranking_Popularity": 205,
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 269,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -4149,9 +4149,9 @@
       "Count": 458
     }
   ],
-  "EOS_Progressed": 89194,
+  "EOS_Progressed": 89196,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -22619,6 +22619,11 @@
       "Time": "2023-10-20T11:05:17.1898228+00:00",
       "NumProgressed": 89194,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-10-20T12:05:23.170993+00:00",
+      "NumProgressed": 89196,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 41,
@@ -22957,13 +22962,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 89194,
+      "Progressed": 89196,
       "Completed": 50
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 17541,
+      "Progressed": 17543,
       "Completed": 15551
     }
   ],
@@ -22971,8 +22976,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-10-20T10:03:09.3012209+00:00",
-  "LastChanged_Achievements": "2023-10-20T11:05:17.1898224+00:00",
+  "LastChanged_Achievements": "2023-10-20T12:05:23.1709921+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:09.3878818+00:00",
-  "LastUpdate_Ratings": "2023-10-20T11:01:01.8574836+00:00",
-  "LastUpdate_Achievements": "2023-10-20T11:05:17.1899332+00:00"
+  "LastUpdate_Ratings": "2023-10-20T12:01:46.0991779+00:00",
+  "LastUpdate_Achievements": "2023-10-20T12:05:23.1711394+00:00"
 }

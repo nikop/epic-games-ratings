@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Alone with Them | 74.00% | ~176 |
-| Forced to Kill | 70.00% | ~167 |
+| Forced to Kill | 71.00% | ~169 |
 | A Night To Remember | 39.00% | ~93 |
 | Safe...For now? | 34.00% | ~81 |
 | Open Sesame | 28.00% | ~67 |
@@ -14,8 +14,8 @@
 | OUTRAGE | 17.00% | ~40 |
 | This Coffin Has Your Name On It! | 14.00% | ~33 |
 | Alone In The Dark | 13.00% | ~31 |
+| Parasite Exterminated | 13.00% | ~31 |
 | The Cultists | 13.00% | ~31 |
-| Parasite Exterminated | 12.00% | ~29 |
 | The Forgotten Tower | 12.00% | ~29 |
 | Lover of classics | 10.00% | ~24 |
 | Trapped | 10.00% | ~24 |

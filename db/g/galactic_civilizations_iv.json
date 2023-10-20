@@ -2,13 +2,13 @@
   "ID": "fbab831cc1c94385b4e311f47f6fdc4f",
   "Name": "Galactic Civilizations IV",
   "ProductSlug": "galactic-civilizations-iv",
-  "Ranking_Rating": 913,
+  "Ranking_Rating": 912,
   "Ranking_Popularity": 359,
   "Ranking_PopularitySum": 289,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -915,9 +915,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 6902,
+  "EOS_Progressed": 6903,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7215,6 +7215,11 @@
       "Time": "2023-10-20T11:06:21.0232732+00:00",
       "NumProgressed": 6902,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-20T12:06:35.9025508+00:00",
+      "NumProgressed": 6903,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -7266,7 +7271,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 4279
+      "UsersEstimate": 4280
     },
     {
       "ID": "Control_All_Relics",
@@ -7338,7 +7343,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 5038
+      "UsersEstimate": 5039
     },
     {
       "ID": "First_Ship_Designed",
@@ -7546,7 +7551,7 @@
       "Name": "Unleash My Power",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4210
+      "UsersEstimate": 4211
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -7714,7 +7719,7 @@
       "Name": "Win a Battle",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 4555
+      "UsersEstimate": 4556
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -7801,15 +7806,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6902,
+      "Progressed": 6903,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-10-20T11:06:21.0232728+00:00",
+  "LastChanged_Achievements": "2023-10-20T12:06:35.90255+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:21.0832103+00:00",
-  "LastUpdate_Ratings": "2023-10-20T10:59:10.8899193+00:00",
-  "LastUpdate_Achievements": "2023-10-20T11:06:21.0233588+00:00"
+  "LastUpdate_Ratings": "2023-10-20T11:59:24.7111607+00:00",
+  "LastUpdate_Achievements": "2023-10-20T12:06:35.9026633+00:00"
 }

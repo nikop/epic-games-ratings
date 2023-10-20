@@ -6,10 +6,10 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,396 |
-| Until death do us apart | 4.00% | ~17,396 |
-| Victorious! | 4.00% | ~17,396 |
-| That is mine! | 3.00% | ~13,047 |
+| That's a Grand Army | 4.00% | ~17,397 |
+| Until death do us apart | 4.00% | ~17,397 |
+| Victorious! | 4.00% | ~17,397 |
+| That is mine! | 3.00% | ~13,048 |
 | Brothers in Arms | 2.00% | ~8,698 |
 | Cold War | 2.00% | ~8,698 |
 | For the Glory | 2.00% | ~8,698 |
@@ -27,11 +27,11 @@ Number of Ratings: 8,414  (23.09.2022)
 | Royal Authority | 0.80% | ~3,479 |
 | Total Control | 0.80% | ~3,479 |
 | My armies are invincible! | 0.70% | ~3,044 |
-| Agressive Expander | 0.50% | ~2,174 |
-| Azur semé de lis or | 0.50% | ~2,174 |
-| City of Cities | 0.50% | ~2,174 |
-| Combined Arms | 0.50% | ~2,174 |
-| This navy can take it all | 0.50% | ~2,174 |
+| Agressive Expander | 0.50% | ~2,175 |
+| Azur semé de lis or | 0.50% | ~2,175 |
+| City of Cities | 0.50% | ~2,175 |
+| Combined Arms | 0.50% | ~2,175 |
+| This navy can take it all | 0.50% | ~2,175 |
 | Bright Spark | 0.40% | ~1,740 |
 | The Emperors new clothes | 0.40% | ~1,740 |
 | Factionalism | 0.40% | ~1,740 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 434,889 (Ranked 40)  
+Progressed: 434,917 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -544,15 +544,15 @@ Completed: 1 (0.00%) (Ranked 316)
 | 2023-10-17 | 433,352 | 1 |
 | 2023-10-18 | 433,999 | 1 |
 | 2023-10-19 | 434,645 | 1 |
-| 2023-10-20 | 434,889 | 1 |
+| 2023-10-20 | 434,917 | 1 |
 ## Awards
 Max (Educational): 6,599  (Ranked 55)  
-Sum: 54,207 (Ranked 24)  
+Sum: 54,225 (Ranked 24)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 6,599 |
-| This game is Highly Recommended | 6,276 |
+| This game is Highly Recommended | 6,294 |
 | This game has Diverse Characters | 6,261 |
 | This game has Challenging Combat | 6,231 |
 | This game is Extremely Fun | 6,221 |
@@ -840,4 +840,4 @@ Diff (max vs sum): 31
 | 2023-10-17 | 4.69 | - | 6,571 | 53,991 |
 | 2023-10-18 | 4.69 | - | 6,571 | 54,079 |
 | 2023-10-19 | 4.69 | - | 6,587 | 54,183 |
-| 2023-10-20 | 4.69 | - | 6,599 | 54,207 |
+| 2023-10-20 | 4.69 | - | 6,599 | 54,225 |

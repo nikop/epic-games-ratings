@@ -1,21 +1,21 @@
 # Madden NFL 23
 [Store](https://store.epicgames.com/en-US/p/madden-nfl-23)  
 [View Rawdata](../../db/m/madden_nfl_23.json)  
-Rating: 4.28 (Ranked 834)  
+Rating: 4.28 (Ranked 833)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bragging Rights | 55.00% | ~1,519 |
+| Bragging Rights | 56.00% | ~1,547 |
 | MVP | 54.00% | ~1,491 |
-| Big Spender | 53.00% | ~1,463 |
+| Big Spender | 53.00% | ~1,464 |
 | Stud Finder | 42.00% | ~1,160 |
-| Dealmaker | 40.00% | ~1,104 |
+| Dealmaker | 40.00% | ~1,105 |
 | ROTY | 33.00% | ~911 |
 | Roster Reshuffle | 31.00% | ~856 |
 | Future of the Franchise | 19.00% | ~525 |
 | Change of Scenery | 18.00% | ~497 |
-| Throwin’ Dots | 17.00% | ~469 |
-| Already in Progress | 17.00% | ~469 |
+| Throwin’ Dots | 17.00% | ~470 |
+| Already in Progress | 17.00% | ~470 |
 | Primetime | 16.00% | ~442 |
 | Pro Bowler | 16.00% | ~442 |
 | Unblockable | 10.00% | ~276 |
@@ -27,7 +27,7 @@ Rating: 4.28 (Ranked 834)
 | Lockdown Leader | 0.50% | ~14 |
 | The Fortress | 0.40% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,761 (Ranked 196)  
+Progressed: 2,762 (Ranked 196)  
 Completed: 0 (0.00%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,7 +62,7 @@ Completed: 0 (0.00%) (Ranked 316)
 | 2023-10-17 | 2,678 | 0 |
 | 2023-10-18 | 2,716 | 0 |
 | 2023-10-19 | 2,748 | 0 |
-| 2023-10-20 | 2,761 | 0 |
+| 2023-10-20 | 2,762 | 0 |
 ## Awards
 Max (Diverse Characters): 29  (Ranked 480)  
 Sum: 76 (Ranked 451)  

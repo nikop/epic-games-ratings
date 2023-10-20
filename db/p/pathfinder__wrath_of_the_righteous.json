@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 115,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3959,9 +3959,9 @@
       "Count": 389
     }
   ],
-  "EOS_Progressed": 11617,
+  "EOS_Progressed": 11618,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13839,6 +13839,11 @@
       "Time": "2023-10-20T10:09:49.2803267+00:00",
       "NumProgressed": 11617,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-20T12:09:31.2271627+00:00",
+      "NumProgressed": 11618,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -13986,7 +13991,7 @@
       "Name": "Mythic Choices",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1626
+      "UsersEstimate": 1627
     },
     {
       "ID": "19_EqualToAroden",
@@ -14777,21 +14782,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10399,
+      "Progressed": 10400,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11617,
+      "Progressed": 11618,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-10-19T21:58:16.2788454+00:00",
-  "LastChanged_Achievements": "2023-10-20T11:09:24.0274466+00:00",
+  "LastChanged_Achievements": "2023-10-20T12:09:31.2271619+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:48.4782392+00:00",
-  "LastUpdate_Ratings": "2023-10-20T10:58:40.29111+00:00",
-  "LastUpdate_Achievements": "2023-10-20T11:09:24.0276257+00:00"
+  "LastUpdate_Ratings": "2023-10-20T11:58:50.085919+00:00",
+  "LastUpdate_Achievements": "2023-10-20T12:09:31.2273855+00:00"
 }

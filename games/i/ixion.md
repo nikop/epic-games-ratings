@@ -7,8 +7,8 @@ Rating: 4.56 (Ranked 475)
 | ---- | ---------- | ----- |
 | Wakey Wakey | 28.00% | ~907 |
 | Sputnik 2049 | 25.00% | ~810 |
+| Infinite Growth... | 24.00% | ~778 |
 | Without Breaking Some Eggs... | 23.00% | ~745 |
-| Infinite Growth... | 23.00% | ~745 |
 | Space Society | 17.00% | ~551 |
 | A Thousand Strong | 17.00% | ~551 |
 | Ready for a New World | 17.00% | ~551 |
@@ -31,8 +31,8 @@ Rating: 4.56 (Ranked 475)
 | All in Good Health | 6.00% | ~194 |
 | From the Past | 6.00% | ~194 |
 | Oats | 5.00% | ~162 |
+| What They Hide From Us | 5.00% | ~162 |
 | BRAWL! | 5.00% | ~162 |
-| What They Hide From Us | 4.00% | ~130 |
 | ...  in a finite world | 4.00% | ~130 |
 | In Dolos We Trust | 4.00% | ~130 |
 | What the Ruins Teach Us | 4.00% | ~130 |

@@ -30,10 +30,10 @@
 | Blessed antennas | 27.00% | ~8 |
 | The bully | 23.00% | ~7 |
 | The beast in the Oval Office | 20.00% | ~6 |
+| Blood Red Island | 20.00% | ~6 |
 | Pulp! The Beyond | 20.00% | ~6 |
 | The barbarian invasions | 20.00% | ~6 |
 | America had no Faith | 20.00% | ~6 |
-| Blood Red Island | 17.00% | ~5 |
 | Bread and bocaua | 17.00% | ~5 |
 | Fanatacism is... poisonous | 17.00% | ~5 |
 | The scholar | 17.00% | ~5 |

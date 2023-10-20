@@ -2,13 +2,13 @@
   "ID": "03fd634dc7f24662ac5545277b89a826",
   "Name": "The Uncertain: Light at the End",
   "ProductSlug": "the-uncertain-light-at-the-end",
-  "Ranking_Rating": 1004,
+  "Ranking_Rating": 1003,
   "Ranking_Popularity": 538,
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 272,
-  "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_Completed": 139,
+  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
@@ -83,11 +83,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 538,
+  "EOS_Progressed": 539,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.12,
+  "EOS_Completed_Percentage": 1.11,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:44.5175392+00:00",
@@ -768,6 +768,11 @@
       "Time": "2023-10-20T09:10:35.5614611+00:00",
       "NumProgressed": 538,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-20T12:09:29.6834152+00:00",
+      "NumProgressed": 539,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -867,7 +872,7 @@
       "Name": "Bundle of Joy",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "Hitman",
@@ -899,7 +904,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "Leisurely_Strol",
@@ -1010,7 +1015,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 538,
+      "Progressed": 539,
       "Completed": 6
     }
   ],
@@ -1018,8 +1023,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-10-20T11:09:22.428476+00:00",
+  "LastChanged_Achievements": "2023-10-20T12:09:29.6834144+00:00",
   "LastUpdate_AppInfo": "2023-10-14T10:57:26.6462722+00:00",
-  "LastUpdate_Ratings": "2023-10-20T11:03:18.7154454+00:00",
-  "LastUpdate_Achievements": "2023-10-20T11:09:22.4284963+00:00"
+  "LastUpdate_Ratings": "2023-10-20T12:03:08.7105796+00:00",
+  "LastUpdate_Achievements": "2023-10-20T12:09:29.6834398+00:00"
 }

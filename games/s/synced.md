@@ -1,11 +1,11 @@
 # SYNCED
 [Store](https://store.epicgames.com/en-US/p/synced)  
 [View Rawdata](../../db/s/synced.json)  
-Rating: 4.17 (Ranked 913)  
+Rating: 4.17 (Ranked 912)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 31.00% | ~19,799 |
+| Your Lucky Day | 31.00% | ~19,800 |
 | As Far Away As Possible | 16.00% | ~10,219 |
 | A Most Unstable Organism | 12.00% | ~7,664 |
 | No Time to Follow Protocol | 10.00% | ~6,387 |
@@ -22,7 +22,7 @@ Rating: 4.17 (Ranked 913)
 | Runs for Your Money | 0.20% | ~128 |
 | Past Master | 0.20% | ~128 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,869 (Ranked 98)  
+Progressed: 63,870 (Ranked 98)  
 Completed: 20 (0.03%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,11 +76,11 @@ Completed: 20 (0.03%) (Ranked 285)
 | 2023-10-17 | 63,567 | 18 |
 | 2023-10-18 | 63,694 | 18 |
 | 2023-10-19 | 63,825 | 20 |
-| 2023-10-20 | 63,869 | 20 |
+| 2023-10-20 | 63,870 | 20 |
 ## Awards
 Max (Great for Beginners): 74  (Ranked 384)  
-Sum: 274 (Ranked 362)  
-Diff (max vs sum): 22  
+Sum: 250 (Ranked 367)  
+Diff (max vs sum): 17  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 74 |
