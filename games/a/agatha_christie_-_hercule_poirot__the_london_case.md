@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Little ideas | 62.00% | ~13 |
-| Marc Allard | 62.00% | ~13 |
-| The Ship | 57.00% | ~12 |
-| Seeking the truth | 57.00% | ~12 |
-| An old friend | 52.00% | ~11 |
-| The Gala | 48.00% | ~10 |
-| A curious gathering | 48.00% | ~10 |
-| Little grey cells | 43.00% | ~9 |
-| Impossible is possible | 43.00% | ~9 |
-| The Missing Magdalene | 43.00% | ~9 |
-| Arthur Hastings | 43.00% | ~9 |
-| Everything matters | 29.00% | ~6 |
-| Order and method | 29.00% | ~6 |
-| An expert mediator | 24.00% | ~5 |
-| Betty Allen | 24.00% | ~5 |
-| DI Hardwicke | 24.00% | ~5 |
-| The Investigation Begins | 24.00% | ~5 |
+| Little ideas | 59.00% | ~13 |
+| Marc Allard | 59.00% | ~13 |
+| The Ship | 55.00% | ~12 |
+| Seeking the truth | 55.00% | ~12 |
+| An old friend | 50.00% | ~11 |
+| The Gala | 45.00% | ~10 |
+| A curious gathering | 45.00% | ~10 |
+| Little grey cells | 41.00% | ~9 |
+| Impossible is possible | 41.00% | ~9 |
+| The Missing Magdalene | 41.00% | ~9 |
+| Arthur Hastings | 41.00% | ~9 |
+| Everything matters | 32.00% | ~7 |
+| Order and method | 27.00% | ~6 |
+| DI Hardwicke | 27.00% | ~6 |
+| An expert mediator | 23.00% | ~5 |
+| Betty Allen | 23.00% | ~5 |
+| The Investigation Begins | 23.00% | ~5 |
 | An odd series of events | 14.00% | ~3 |
 | Ms. Camilla B. Culsham | 14.00% | ~3 |
 | Irene Court-Smyth | 14.00% | ~3 |
 | The Apartment | 14.00% | ~3 |
-| Well-acquainted | 10.00% | ~2 |
-| Truth from within | 10.00% | ~2 |
-| A rude awakening | 10.00% | ~2 |
-| Anastasia Babanin | 10.00% | ~2 |
-| Nathaniel Dryden | 10.00% | ~2 |
-| Zakariya Demir | 10.00% | ~2 |
-| Bartholomew | 10.00% | ~2 |
-| The Scheme | 10.00% | ~2 |
+| Well-acquainted | 9.00% | ~2 |
+| Truth from within | 9.00% | ~2 |
+| A rude awakening | 9.00% | ~2 |
+| Anastasia Babanin | 9.00% | ~2 |
+| Nathaniel Dryden | 9.00% | ~2 |
+| Zakariya Demir | 9.00% | ~2 |
+| Bartholomew | 9.00% | ~2 |
+| The Scheme | 9.00% | ~2 |
 | A curious phrase | 5.00% | ~1 |
 | The Denouement | 0.00% | ~0 |
 | Well-travelled | 0.00% | ~0 |
@@ -51,7 +51,7 @@
 | The Secrets | 0.00% | ~0 |
 | The Investigation Starts Anew | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21 (Ranked 494)  
+Progressed: 22 (Ranked 491)  
 Completed: 0 (0.00%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,3 +72,4 @@ Completed: 0 (0.00%) (Ranked 317)
 | 2023-10-11 | 17 | 0 |
 | 2023-10-15 | 18 | 0 |
 | 2023-10-19 | 21 | 0 |
+| 2023-10-20 | 22 | 0 |

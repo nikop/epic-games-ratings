@@ -5,7 +5,7 @@ Rating: 4.76 (Ranked 119)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 15.00% | ~44,792 |
+| The Sort Who Makes an Entrance | 15.00% | ~44,793 |
 | First Class Student | 13.00% | ~38,820 |
 | Troll with the Punches | 13.00% | ~38,820 |
 | A Keen Sense of Spell | 12.00% | ~35,834 |
@@ -20,8 +20,8 @@ Rating: 4.76 (Ranked 119)
 | The Hero of Hogwarts | 10.00% | ~29,862 |
 | Challenge Accepted | 10.00% | ~29,862 |
 | Followed the Butterflies | 10.00% | ~29,862 |
-| The Spell Master | 9.00% | ~26,875 |
-| Rising From the Ashes | 9.00% | ~26,875 |
+| The Spell Master | 9.00% | ~26,876 |
+| Rising From the Ashes | 9.00% | ~26,876 |
 | The Avenging Gazelle | 8.00% | ~23,889 |
 | Beast Friends | 8.00% | ~23,889 |
 | A Sallow Grave | 8.00% | ~23,889 |
@@ -37,9 +37,9 @@ Rating: 4.76 (Ranked 119)
 | Room with a View | 4.00% | ~11,945 |
 | The Intrepid Explorer | 4.00% | ~11,945 |
 | The Wise Owl | 4.00% | ~11,945 |
-| Put Down Roots | 3.00% | ~8,958 |
-| The Auror's Apprentice | 3.00% | ~8,958 |
-| Floo Around the World | 3.00% | ~8,958 |
+| Put Down Roots | 3.00% | ~8,959 |
+| The Auror's Apprentice | 3.00% | ~8,959 |
+| Floo Around the World | 3.00% | ~8,959 |
 | The Good Samaritan | 2.00% | ~5,972 |
 | Rise to the Challenges | 2.00% | ~5,972 |
 | Finishing Touches | 2.00% | ~5,972 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 119)
 | The Nature of the Beast | 0.70% | ~2,090 |
 | Collector's Edition | 0.30% | ~896 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,616 (Ranked 47)  
+Progressed: 298,618 (Ranked 47)  
 Completed: 490 (0.16%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,10 +234,10 @@ Completed: 490 (0.16%) (Ranked 233)
 | 2023-10-17 | 298,513 | 488 |
 | 2023-10-18 | 298,550 | 488 |
 | 2023-10-19 | 298,586 | 489 |
-| 2023-10-20 | 298,616 | 490 |
+| 2023-10-20 | 298,618 | 490 |
 ## Awards
 Max (Character Customization): 23,665  (Ranked 17)  
-Sum: 46,258 (Ranked 30)  
+Sum: 46,261 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -250,7 +250,7 @@ Diff (max vs sum): -13
 | This game is Extremely Fun | 1,150 |
 | This game has Amazing Characters | 1,113 |
 | This game is Highly Recommended | 1,087 |
-| This game has Quickly Understood Controls | 1,035 |
+| This game has Quickly Understood Controls | 1,038 |
 | This game has Beautiful Visuals | 958 |
 | This game has a Creative Community | 728 |
 ## Ratings History
@@ -466,4 +466,4 @@ Diff (max vs sum): -13
 | 2023-10-17 | 4.76 | 23,586 | 46,073 |
 | 2023-10-18 | 4.76 | 23,620 | 46,145 |
 | 2023-10-19 | 4.76 | 23,644 | 46,213 |
-| 2023-10-20 | 4.76 | 23,665 | 46,258 |
+| 2023-10-20 | 4.76 | 23,665 | 46,261 |

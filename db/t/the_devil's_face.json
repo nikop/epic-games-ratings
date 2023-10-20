@@ -3,8 +3,8 @@
   "Name": "The Devil\u0027s Face",
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 296,
-  "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_Completed": 214,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 413,
+  "EOS_Progressed": 414,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -1799,6 +1799,11 @@
       "Time": "2023-10-20T17:09:01.6128602+00:00",
       "NumProgressed": 413,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-20T21:08:34.425332+00:00",
+      "NumProgressed": 414,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 14,
@@ -1816,9 +1821,9 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "296pn27",
       "Name": "Is it merely a dream?",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 116
+      "UsersEstimate": 120
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -1921,14 +1926,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 413,
+      "Progressed": 414,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-10-20T20:07:57.2368814+00:00",
+  "LastChanged_Achievements": "2023-10-20T21:08:34.425331+00:00",
   "LastUpdate_AppInfo": "2023-10-14T11:57:11.021684+00:00",
-  "LastUpdate_Ratings": "2023-10-20T20:01:50.6195468+00:00",
-  "LastUpdate_Achievements": "2023-10-20T20:07:57.2369024+00:00"
+  "LastUpdate_Ratings": "2023-10-20T21:02:37.6822477+00:00",
+  "LastUpdate_Achievements": "2023-10-20T21:08:34.4253574+00:00"
 }

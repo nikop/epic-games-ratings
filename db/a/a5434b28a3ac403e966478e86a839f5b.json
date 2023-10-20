@@ -4,7 +4,7 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -1250,9 +1250,9 @@
       "ID": "ACH_end",
       "SetID": "51of0eo",
       "Name": "Assassinate the Makron",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 120,
-      "UsersEstimate": 71
+      "UsersEstimate": 76
     },
     {
       "ID": "ACH_eou1",
@@ -1290,9 +1290,9 @@
       "ID": "ACH_eou5",
       "SetID": "51of0eo",
       "Name": "Shut Down Processing Plant",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 102
+      "UsersEstimate": 107
     },
     {
       "ID": "ACH_eou6",
@@ -1361,8 +1361,8 @@
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-10-20T20:07:25.9080803+00:00",
+  "LastChanged_Achievements": "2023-10-20T21:08:03.2704373+00:00",
   "LastUpdate_AppInfo": "2023-10-19T23:57:01.6240112+00:00",
-  "LastUpdate_Ratings": "2023-10-20T19:57:28.7451473+00:00",
-  "LastUpdate_Achievements": "2023-10-20T20:07:25.9081001+00:00"
+  "LastUpdate_Ratings": "2023-10-20T20:57:50.9298826+00:00",
+  "LastUpdate_Achievements": "2023-10-20T21:08:03.2704566+00:00"
 }

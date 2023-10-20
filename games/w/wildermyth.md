@@ -16,6 +16,7 @@ Number of Ratings: 45  (23.09.2022)
 | Who's Counting? | 0.10% | ~1 |
 | How Romantic! | 0.10% | ~1 |
 | Cutthroat Competitors | 0.10% | ~1 |
+| Chain Reaction | 0.10% | ~1 |
 | Everfading | 0.10% | ~1 |
 | War Endured | 0.10% | ~1 |
 | Echoes Die | 0.10% | ~1 |
@@ -38,7 +39,6 @@ Number of Ratings: 45  (23.09.2022)
 | Plague Doctor | 0.00% | ~0 |
 | Legends Never Die | 0.00% | ~0 |
 | Thematic Divergence | 0.00% | ~0 |
-| Chain Reaction | 0.00% | ~0 |
 | Pyrrhic Victory | 0.00% | ~0 |
 | In Soil, In Smoke | 0.00% | ~0 |
 | Another Tale to Tell | 0.00% | ~0 |

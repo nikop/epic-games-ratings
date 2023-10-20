@@ -4,7 +4,7 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 242,
+  "EOS_Progressed": 243,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -1041,6 +1041,11 @@
       "Time": "2023-10-20T19:08:58.0169078+00:00",
       "NumProgressed": 242,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-20T21:08:50.5740736+00:00",
+      "NumProgressed": 243,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1060,15 +1065,15 @@
       "Name": "Alone In The Dark",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ETUA_AlonewithThem",
       "SetID": "65jc0ap",
       "Name": "Alone with Them",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 179
+      "UsersEstimate": 177
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -1148,15 +1153,15 @@
       "Name": "Forced to Kill",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ETUA_IsThemAndUs",
       "SetID": "65jc0ap",
       "Name": "Them and Us",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 39
     },
     {
       "ID": "ETUA_LifeOfTheThousandGods",
@@ -1204,15 +1209,15 @@
       "Name": "Open Sesame",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ETUA_OutRage",
       "SetID": "65jc0ap",
       "Name": "OUTRAGE",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 39
     },
     {
       "ID": "ETUA_PTD",
@@ -1300,7 +1305,7 @@
       "Name": "The Cultists",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ETUA_TheCurseIsReal",
@@ -1371,7 +1376,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 242,
+      "Progressed": 243,
       "Completed": 1
     }
   ],
@@ -1379,8 +1384,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-10-20T20:08:14.1084334+00:00",
+  "LastChanged_Achievements": "2023-10-20T21:08:50.5740728+00:00",
   "LastUpdate_AppInfo": "2023-10-14T13:56:58.0301725+00:00",
-  "LastUpdate_Ratings": "2023-10-20T19:58:39.3465938+00:00",
-  "LastUpdate_Achievements": "2023-10-20T20:08:14.108471+00:00"
+  "LastUpdate_Ratings": "2023-10-20T20:59:11.6604345+00:00",
+  "LastUpdate_Achievements": "2023-10-20T21:08:50.5741177+00:00"
 }

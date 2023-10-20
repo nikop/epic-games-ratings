@@ -6,43 +6,43 @@ Number of Ratings: 1,046,587  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One small trip | 13.00% | ~4,681,876 |
-| Snowflake | 12.00% | ~4,321,732 |
-| Fall Throttle | 11.00% | ~3,961,588 |
-| Big Bully | 9.00% | ~3,241,299 |
-| Face First | 9.00% | ~3,241,299 |
-| One to Watch | 8.00% | ~2,881,155 |
-| Style Points | 8.00% | ~2,881,155 |
-| Troublemaker | 8.00% | ~2,881,155 |
-| Flawless Victory | 7.00% | ~2,521,010 |
-| Fall Bae | 7.00% | ~2,521,010 |
-| Ahead of the Pack | 7.00% | ~2,521,010 |
-| Stumble Chums | 7.00% | ~2,521,010 |
-| Victory! | 6.00% | ~2,160,866 |
-| Bargain Bucket | 5.00% | ~1,800,722 |
-| Catwalk Model | 3.00% | ~1,080,433 |
-| Household Name | 3.00% | ~1,080,433 |
-| Head Turner | 3.00% | ~1,080,433 |
-| One giant leap | 3.00% | ~1,080,433 |
-| Quite Dashing | 3.00% | ~1,080,433 |
-| Big Air | 2.00% | ~720,289 |
-| Down to the Wire | 2.00% | ~720,289 |
-| Star of the Show | 2.00% | ~720,289 |
-| Shopping Spree | 2.00% | ~720,289 |
-| Squad Goals | 2.00% | ~720,289 |
-| Top Tier | 2.00% | ~720,289 |
-| Low Baller | 1.00% | ~360,144 |
-| Mad Trendy | 1.00% | ~360,144 |
-| Veteran Status | 0.90% | ~324,130 |
-| Show Off | 0.80% | ~288,115 |
-| Golden Guy | 0.70% | ~252,101 |
-| Track Star | 0.60% | ~216,087 |
-| Big Tease | 0.40% | ~144,058 |
-| Fall Guy Fashionista | 0.40% | ~144,058 |
-| Infallible | 0.20% | ~72,029 |
+| One small trip | 13.00% | ~4,681,994 |
+| Snowflake | 12.00% | ~4,321,840 |
+| Fall Throttle | 11.00% | ~3,961,687 |
+| Big Bully | 9.00% | ~3,241,380 |
+| Face First | 9.00% | ~3,241,380 |
+| One to Watch | 8.00% | ~2,881,227 |
+| Style Points | 8.00% | ~2,881,227 |
+| Troublemaker | 8.00% | ~2,881,227 |
+| Flawless Victory | 7.00% | ~2,521,074 |
+| Fall Bae | 7.00% | ~2,521,074 |
+| Ahead of the Pack | 7.00% | ~2,521,074 |
+| Stumble Chums | 7.00% | ~2,521,074 |
+| Victory! | 6.00% | ~2,160,920 |
+| Bargain Bucket | 5.00% | ~1,800,767 |
+| Catwalk Model | 3.00% | ~1,080,460 |
+| Household Name | 3.00% | ~1,080,460 |
+| Head Turner | 3.00% | ~1,080,460 |
+| One giant leap | 3.00% | ~1,080,460 |
+| Quite Dashing | 3.00% | ~1,080,460 |
+| Big Air | 2.00% | ~720,307 |
+| Down to the Wire | 2.00% | ~720,307 |
+| Star of the Show | 2.00% | ~720,307 |
+| Shopping Spree | 2.00% | ~720,307 |
+| Squad Goals | 2.00% | ~720,307 |
+| Top Tier | 2.00% | ~720,307 |
+| Low Baller | 1.00% | ~360,153 |
+| Mad Trendy | 1.00% | ~360,153 |
+| Veteran Status | 0.90% | ~324,138 |
+| Show Off | 0.80% | ~288,123 |
+| Golden Guy | 0.70% | ~252,107 |
+| Track Star | 0.60% | ~216,092 |
+| Big Tease | 0.40% | ~144,061 |
+| Fall Guy Fashionista | 0.40% | ~144,061 |
+| Infallible | 0.20% | ~72,031 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36,014,432 (Ranked 1)  
-Completed: 44,375 (0.12%) (Ranked 243)  
+Progressed: 36,015,337 (Ranked 1)  
+Completed: 44,376 (0.12%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -224,24 +224,24 @@ Completed: 44,375 (0.12%) (Ranked 243)
 | 2023-10-17 | 35,975,160 | 44,214 |
 | 2023-10-18 | 35,988,326 | 44,262 |
 | 2023-10-19 | 36,001,396 | 44,330 |
-| 2023-10-20 | 36,014,432 | 44,375 |
+| 2023-10-20 | 36,015,337 | 44,376 |
 ## Awards
-Max (Great for Beginners): 150,303  (Ranked 7)  
-Sum: 1,376,786 (Ranked 5)  
+Max (Great for Beginners): 150,343  (Ranked 7)  
+Sum: 1,376,897 (Ranked 5)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 150,303 |
+| This game is Great for Beginners | 150,343 |
 | This game is Relaxing | 136,224 |
 | This game has Competitive Players | 133,629 |
 | This game has Quickly Understood Controls | 133,331 |
 | This game is Great for Quick Sessions | 132,761 |
-| This game has Diverse Characters | 129,028 |
+| This game has Diverse Characters | 129,074 |
 | This game is Extremely Fun | 122,050 |
 | This game is Highly Recommended | 116,039 |
 | This game has Amazing Characters | 112,731 |
 | This game has Amazing Storytelling | 107,217 |
-| This game has Playful Visuals | 103,473 |
+| This game has Playful Visuals | 103,498 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -513,4 +513,4 @@ Diff (max vs sum): 2
 | 2023-10-17 | 4.51 | - | 150,194 | 1,376,038 |
 | 2023-10-18 | 4.51 | - | 150,247 | 1,376,321 |
 | 2023-10-19 | 4.51 | - | 150,303 | 1,376,593 |
-| 2023-10-20 | 4.51 | - | 150,303 | 1,376,786 |
+| 2023-10-20 | 4.51 | - | 150,343 | 1,376,897 |

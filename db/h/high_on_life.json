@@ -2,7 +2,7 @@
   "ID": "28eda6de701c47dfbbe6255fcee8aa65",
   "Name": "High On Life",
   "ProductSlug": "high-on-life-3a855b",
-  "Ranking_Rating": 326,
+  "Ranking_Rating": 325,
   "Ranking_Popularity": 538,
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 122,
@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24268,
+  "EOS_Progressed": 24270,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5774,6 +5774,11 @@
       "Time": "2023-10-20T19:03:44.7749516+00:00",
       "NumProgressed": 24268,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-10-20T21:03:48.4401289+00:00",
+      "NumProgressed": 24270,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 44,
@@ -5903,9 +5908,9 @@
       "ID": "ACH_JUGGLE_SKILLS",
       "SetID": "cdkbb11",
       "Name": "We\u0027re All Very Impressed, Trust Me",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 218
+      "UsersEstimate": 243
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -6127,22 +6132,22 @@
       "ID": "ACH_TOXXO_BATH",
       "SetID": "7fgbhpb",
       "Name": "Bathe With A Giant Nude Alien",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     }
   ],
   "AchievementSets": [
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24268,
+      "Progressed": 24270,
       "Completed": 13
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1561,
+      "Progressed": 1563,
       "Completed": 1373
     }
   ],
@@ -6150,8 +6155,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-07T05:03:09.4311759+00:00",
-  "LastChanged_Achievements": "2023-10-20T20:03:30.3792172+00:00",
+  "LastChanged_Achievements": "2023-10-20T21:03:48.4401285+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:39.0375133+00:00",
-  "LastUpdate_Ratings": "2023-10-20T19:58:50.1957159+00:00",
-  "LastUpdate_Achievements": "2023-10-20T20:03:30.3792954+00:00"
+  "LastUpdate_Ratings": "2023-10-20T20:59:23.8765248+00:00",
+  "LastUpdate_Achievements": "2023-10-20T21:03:48.4402358+00:00"
 }

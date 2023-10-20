@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Set Up | 98.00% | ~557 |
-| Digital Casanova | 97.00% | ~551 |
-| Hold my Beer | 65.00% | ~369 |
-| Nueva Beginnings | 36.00% | ~204 |
+| All Set Up | 98.00% | ~558 |
+| Digital Casanova | 97.00% | ~552 |
+| Hold my Beer | 65.00% | ~370 |
+| Nueva Beginnings | 36.00% | ~205 |
 | Only Thyme Will Tell | 32.00% | ~182 |
 | We Go Again | 32.00% | ~182 |
-| Not Alone | 30.00% | ~170 |
+| Not Alone | 30.00% | ~171 |
 | Booty Call | 28.00% | ~159 |
-| In Contempt of Duvet | 27.00% | ~153 |
+| In Contempt of Duvet | 27.00% | ~154 |
 | Planting the Seed | 20.00% | ~114 |
 | Light Sleepers | 15.00% | ~85 |
-| Smooth Criminal | 8.00% | ~45 |
+| Smooth Criminal | 8.00% | ~46 |
 | Sore Loser | 7.00% | ~40 |
 | Interrogation | 5.00% | ~28 |
 | Crash and Burn | 3.00% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 568 (Ranked 269)  
+Progressed: 569 (Ranked 269)  
 Completed: 9 (1.58%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,6 +144,7 @@ Completed: 9 (1.58%) (Ranked 123)
 | 2023-10-17 | 563 | 9 |
 | 2023-10-18 | 566 | 9 |
 | 2023-10-19 | 568 | 9 |
+| 2023-10-20 | 569 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

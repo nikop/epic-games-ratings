@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2543,
+  "EOS_Progressed": 2544,
   "EOS_Completed": 228,
   "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 8.97,
+  "EOS_Completed_Percentage": 8.96,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -6701,6 +6701,11 @@
       "Time": "2023-10-20T18:09:30.7701329+00:00",
       "NumProgressed": 2543,
       "NumCompleted": 228
+    },
+    {
+      "Time": "2023-10-20T21:09:20.2691875+00:00",
+      "NumProgressed": 2544,
+      "NumCompleted": 228
     }
   ],
   "TotalAchievements": 12,
@@ -6712,7 +6717,7 @@
       "Name": "Arranging Boxes",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "Bernard",
@@ -6776,7 +6781,7 @@
       "Name": "Little Helper",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 839
+      "UsersEstimate": 840
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -6807,7 +6812,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2543,
+      "Progressed": 2544,
       "Completed": 228
     }
   ],
@@ -6815,8 +6820,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-10-20T20:08:33.8833788+00:00",
+  "LastChanged_Achievements": "2023-10-20T21:09:20.2691868+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:02.4862405+00:00",
-  "LastUpdate_Ratings": "2023-10-20T20:00:06.113386+00:00",
-  "LastUpdate_Achievements": "2023-10-20T20:08:33.8834282+00:00"
+  "LastUpdate_Ratings": "2023-10-20T21:00:43.1213253+00:00",
+  "LastUpdate_Achievements": "2023-10-20T21:09:20.2692378+00:00"
 }

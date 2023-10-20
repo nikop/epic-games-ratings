@@ -6,8 +6,8 @@
   "Ranking_Popularity": 257,
   "Ranking_PopularitySum": 187,
   "Ranking_EOS_Progress": 119,
-  "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_Completed": 218,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2559,9 +2559,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26796,
+  "EOS_Progressed": 26813,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 393,
+  "EOS_NewPlayers": 401,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -15619,6 +15619,11 @@
       "Time": "2023-10-20T20:05:21.0107301+00:00",
       "NumProgressed": 26796,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-10-20T21:05:48.1464344+00:00",
+      "NumProgressed": 26813,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 51,
@@ -15798,7 +15803,7 @@
       "Name": "Legions",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "Liability",
@@ -15846,7 +15851,7 @@
       "Name": "Pesky Jerks",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "Reckless",
@@ -15926,7 +15931,7 @@
       "Name": "Stunner",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "Stylish",
@@ -16037,7 +16042,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26796,
+      "Progressed": 26813,
       "Completed": 60
     }
   ],
@@ -16045,8 +16050,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-20T20:01:54.2815039+00:00",
-  "LastChanged_Achievements": "2023-10-20T20:05:21.0107296+00:00",
+  "LastChanged_Achievements": "2023-10-20T21:05:48.1464336+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:17.9420656+00:00",
-  "LastUpdate_Ratings": "2023-10-20T20:01:54.2815047+00:00",
-  "LastUpdate_Achievements": "2023-10-20T20:05:21.0108559+00:00"
+  "LastUpdate_Ratings": "2023-10-20T21:02:41.1706269+00:00",
+  "LastUpdate_Achievements": "2023-10-20T21:05:48.1465655+00:00"
 }

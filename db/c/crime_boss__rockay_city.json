@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -4155,9 +4155,9 @@
       "Count": 460
     }
   ],
-  "EOS_Progressed": 89203,
+  "EOS_Progressed": 89204,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -22645,6 +22645,11 @@
       "Time": "2023-10-20T18:06:37.8813762+00:00",
       "NumProgressed": 89203,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-10-20T21:06:30.0410691+00:00",
+      "NumProgressed": 89204,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 41,
@@ -22918,9 +22923,9 @@
       "ID": "ACH_0451",
       "SetID": "3kam13l",
       "Name": "Raider\u2019s Ruin",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 624
+      "UsersEstimate": 714
     },
     {
       "ID": "ACH_0452",
@@ -22983,13 +22988,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 89203,
+      "Progressed": 89204,
       "Completed": 50
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 17550,
+      "Progressed": 17551,
       "Completed": 15552
     }
   ],
@@ -22997,8 +23002,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-10-20T13:08:04.645463+00:00",
-  "LastChanged_Achievements": "2023-10-20T20:06:03.0405465+00:00",
+  "LastChanged_Achievements": "2023-10-20T21:06:30.0410681+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:09.3878818+00:00",
-  "LastUpdate_Ratings": "2023-10-20T20:02:22.3048877+00:00",
-  "LastUpdate_Achievements": "2023-10-20T20:06:03.0406917+00:00"
+  "LastUpdate_Ratings": "2023-10-20T21:03:09.5796839+00:00",
+  "LastUpdate_Achievements": "2023-10-20T21:06:30.0412966+00:00"
 }

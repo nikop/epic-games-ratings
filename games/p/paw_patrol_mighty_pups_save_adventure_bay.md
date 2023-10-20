@@ -12,13 +12,13 @@
 | Risky Rescue | 55.00% | ~18 |
 | Carlos Is Tangled | 52.00% | ~17 |
 | Mandy Family | 48.00% | ~16 |
+| Paw patrol member | 39.00% | ~13 |
+| Robot Out of Control | 39.00% | ~13 |
 | Break Time | 36.00% | ~12 |
 | Clear the Road | 36.00% | ~12 |
-| Paw patrol member | 36.00% | ~12 |
-| Robot Out of Control | 36.00% | ~12 |
+| Training Day | 33.00% | ~11 |
+| The Fastest | 33.00% | ~11 |
 | Master of the Rope | 30.00% | ~10 |
-| Training Day | 30.00% | ~10 |
-| The Fastest | 30.00% | ~10 |
 | Never Miss | 30.00% | ~10 |
 | In the Air | 27.00% | ~9 |
 | Adventure Bay’s Citizen | 27.00% | ~9 |
@@ -35,7 +35,7 @@
 | The Collector | 0.00% | ~0 |
 | Pup Treat Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33 (Ranked 474)  
+Progressed: 33 (Ranked 475)  
 Completed: 0 (0.00%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |

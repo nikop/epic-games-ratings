@@ -6,7 +6,7 @@ Rating: 4.24 (Ranked 861)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rigged And Ready | 80.00% | ~1,674 |
-| Don't I Know You...? | 77.00% | ~1,611 |
+| Don't I Know You...? | 77.00% | ~1,612 |
 | Jailbreak | 66.00% | ~1,381 |
 | Suited and Booted | 39.00% | ~816 |
 | HEADSHOT! | 38.00% | ~795 |
@@ -19,11 +19,11 @@ Rating: 4.24 (Ranked 861)
 | Luminary | 23.00% | ~481 |
 | True Survivor | 22.00% | ~460 |
 | It's a Trap | 22.00% | ~460 |
-| Offensive Defense | 20.00% | ~418 |
-| Shocking | 20.00% | ~418 |
-| Unforeseeable Consequences | 20.00% | ~418 |
-| Court Martial | 19.00% | ~397 |
-| Clean Cut | 19.00% | ~397 |
+| Offensive Defense | 20.00% | ~419 |
+| Shocking | 20.00% | ~419 |
+| Unforeseeable Consequences | 20.00% | ~419 |
+| Court Martial | 19.00% | ~398 |
+| Clean Cut | 19.00% | ~398 |
 | Dead Again | 18.00% | ~377 |
 | Full Arsenal | 17.00% | ~356 |
 | Can't Trust Banks | 15.00% | ~314 |
@@ -41,7 +41,7 @@ Rating: 4.24 (Ranked 861)
 | Defense in Depth | 9.00% | ~188 |
 | A Little Banged Up | 8.00% | ~167 |
 | Following In Their Footsteps | 8.00% | ~167 |
-| Reverse Engineering | 7.00% | ~146 |
+| Reverse Engineering | 7.00% | ~147 |
 | Reborn | 6.00% | ~126 |
 | Remote Surgery | 6.00% | ~126 |
 | Turbo Booster | 6.00% | ~126 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 861)
 | Swiss Army Drone | 1.00% | ~21 |
 | The Easy Way Out | 1.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,092 (Ranked 204)  
+Progressed: 2,093 (Ranked 204)  
 Completed: 12 (0.57%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 12 (0.57%) (Ranked 171)
 | 2023-10-14 | 2,088 | 12 |
 | 2023-10-15 | 2,089 | 12 |
 | 2023-10-16 | 2,091 | 12 |
-| 2023-10-20 | 2,092 | 12 |
+| 2023-10-20 | 2,093 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

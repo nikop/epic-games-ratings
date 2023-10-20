@@ -16,9 +16,9 @@
 | Look Mum I'm A Detective | 20.00% | ~41 |
 | You Had One Job | 14.00% | ~29 |
 | Poetent | 13.00% | ~27 |
-| Book 'em Danny | 12.00% | ~24 |
-| Voyeur | 12.00% | ~24 |
-| Oscar Winning Performance | 11.00% | ~22 |
+| Book 'em Danny | 12.00% | ~25 |
+| Voyeur | 12.00% | ~25 |
+| Oscar Winning Performance | 11.00% | ~23 |
 | Put A Ring On It | 9.00% | ~18 |
 | Chicken | 8.00% | ~16 |
 | Heavy Rayne | 8.00% | ~16 |
@@ -26,7 +26,7 @@
 | Show Me Some Skin | 5.00% | ~10 |
 | The Big Sleep | 4.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 204 (Ranked 342)  
+Progressed: 205 (Ranked 342)  
 Completed: 2 (0.98%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,6 +69,7 @@ Completed: 2 (0.98%) (Ranked 148)
 | 2023-09-11 | 202 | 2 |
 | 2023-10-11 | 203 | 2 |
 | 2023-10-19 | 204 | 2 |
+| 2023-10-20 | 205 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

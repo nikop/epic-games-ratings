@@ -1,7 +1,7 @@
 # High On Life
 [Store](https://store.epicgames.com/en-US/p/high-on-life-3a855b)  
 [View Rawdata](../../db/h/high_on_life.json)  
-Rating: 4.64 (Ranked 326)  
+Rating: 4.64 (Ranked 325)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -11,18 +11,18 @@ Rating: 4.64 (Ranked 326)
 | Bring A Knife to a Gun Fight | 1.00% | ~243 |
 | RIP Davey Glutes | 1.00% | ~243 |
 | Sweezy Like Sunday Morning | 1.00% | ~243 |
+| We're All Very Impressed, Trust Me | 1.00% | ~243 |
 | First Bounty Down | 1.00% | ~243 |
 | G3 Graduation | 1.00% | ~243 |
 | Hardest Battle In The Game | 1.00% | ~243 |
 | Cold-Blooded Driller | 1.00% | ~243 |
 | Who's The Boss? | 1.00% | ~243 |
 | Don't Knife The Hand That Feeds | 1.00% | ~243 |
-| We're All Very Impressed, Trust Me | 0.90% | ~218 |
+| Bathe With A Giant Nude Alien | 0.90% | ~14 |
 | Lezduit! | 0.80% | ~194 |
 | Legendary Bounty Hunter | 0.80% | ~194 |
 | Self-Actualization | 0.80% | ~194 |
 | Spent 15 Hours At The Alien Strip Club | 0.80% | ~194 |
-| Bathe With A Giant Nude Alien | 0.80% | ~12 |
 | Fallout Doesn't Let You Do This | 0.70% | ~170 |
 | Series Wrap on Suit-O | 0.70% | ~170 |
 | Eatin' Good in the Neighborhood | 0.60% | ~146 |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 326)
 | It's Like The Santa Clause | 0.10% | ~2 |
 | That's B.A.L.L., Folks | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,268 (Ranked 122)  
+Progressed: 24,270 (Ranked 122)  
 Completed: 13 (0.05%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,7 +232,7 @@ Completed: 13 (0.05%) (Ranked 276)
 | 2023-10-17 | 24,246 | 13 |
 | 2023-10-18 | 24,252 | 13 |
 | 2023-10-19 | 24,259 | 13 |
-| 2023-10-20 | 24,268 | 13 |
+| 2023-10-20 | 24,270 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

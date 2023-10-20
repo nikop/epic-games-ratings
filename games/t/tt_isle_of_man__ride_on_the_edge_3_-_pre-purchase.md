@@ -14,7 +14,7 @@
 | Start Your Engines | 10.00% | ~16 |
 | No Room for Improvement | 9.00% | ~14 |
 | Lone Wolf | 9.00% | ~14 |
-| Nerd | 6.00% | ~9 |
+| Nerd | 7.00% | ~11 |
 | Playing God | 6.00% | ~9 |
 | First and Foremost | 5.00% | ~8 |
 | Made Mother Proud | 5.00% | ~8 |
@@ -44,7 +44,7 @@
 | Superbike Superfan | 1.00% | ~2 |
 | Playing Favourites | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 155 (Ranked 362)  
+Progressed: 155 (Ranked 363)  
 Completed: 2 (1.29%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |

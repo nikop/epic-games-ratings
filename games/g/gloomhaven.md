@@ -6,36 +6,36 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 44.00% | ~6,484 |
-| Overkill | 34.00% | ~5,010 |
-| A normal day in Gloomhaven | 34.00% | ~5,010 |
-| Vaccine Incoming | 33.00% | ~4,863 |
-| Spread the plague | 31.00% | ~4,568 |
-| Get over here! | 24.00% | ~3,537 |
-| Just when I thought I was out... | 19.00% | ~2,800 |
-| Precious! | 17.00% | ~2,505 |
-| Mine... All Mine... | 17.00% | ~2,505 |
-| Light of my life | 15.00% | ~2,210 |
-| Anatomy Lesson | 15.00% | ~2,210 |
-| Grizzled veteran | 13.00% | ~1,916 |
-| You activated my trap card! | 13.00% | ~1,916 |
-| Obstacle race | 13.00% | ~1,916 |
-| Augmented rat | 12.00% | ~1,768 |
-| Doom and gloom | 11.00% | ~1,621 |
-| Who's the Boss? | 9.00% | ~1,326 |
-| Dungeon Veteran | 8.00% | ~1,179 |
-| Pack leader | 8.00% | ~1,179 |
-| Pain is your friend | 8.00% | ~1,179 |
-| Black death | 8.00% | ~1,179 |
-| Play it again, Sam | 8.00% | ~1,179 |
-| Quad damage | 6.00% | ~884 |
-| Power Up! | 5.00% | ~737 |
-| The Pro from Dover | 5.00% | ~737 |
-| Pretty lights! | 5.00% | ~737 |
-| Now you see me... | 5.00% | ~737 |
-| Caught off guard | 4.00% | ~589 |
-| Merchant of doom | 3.00% | ~442 |
-| Grin and bear it | 3.00% | ~442 |
+| I'm not dead yet | 44.00% | ~6,494 |
+| Overkill | 34.00% | ~5,018 |
+| A normal day in Gloomhaven | 34.00% | ~5,018 |
+| Vaccine Incoming | 33.00% | ~4,870 |
+| Spread the plague | 31.00% | ~4,575 |
+| Get over here! | 24.00% | ~3,542 |
+| Just when I thought I was out... | 19.00% | ~2,804 |
+| Precious! | 17.00% | ~2,509 |
+| Mine... All Mine... | 17.00% | ~2,509 |
+| Light of my life | 15.00% | ~2,214 |
+| Anatomy Lesson | 15.00% | ~2,214 |
+| Grizzled veteran | 13.00% | ~1,919 |
+| You activated my trap card! | 13.00% | ~1,919 |
+| Obstacle race | 13.00% | ~1,919 |
+| Augmented rat | 12.00% | ~1,771 |
+| Doom and gloom | 11.00% | ~1,623 |
+| Who's the Boss? | 9.00% | ~1,328 |
+| Dungeon Veteran | 8.00% | ~1,181 |
+| Pack leader | 8.00% | ~1,181 |
+| Pain is your friend | 8.00% | ~1,181 |
+| Black death | 8.00% | ~1,181 |
+| Play it again, Sam | 8.00% | ~1,181 |
+| Quad damage | 6.00% | ~886 |
+| Power Up! | 5.00% | ~738 |
+| The Pro from Dover | 5.00% | ~738 |
+| Pretty lights! | 5.00% | ~738 |
+| Now you see me... | 5.00% | ~738 |
+| Caught off guard | 4.00% | ~590 |
+| Merchant of doom | 3.00% | ~443 |
+| Grin and bear it | 3.00% | ~443 |
 | I hate portals | 2.00% | ~295 |
 | From Gloom, only greed and death emerges | 2.00% | ~295 |
 | The Rat King | 2.00% | ~295 |
@@ -45,8 +45,8 @@ Number of Ratings: 68  (23.09.2022)
 | Master Assassin | 2.00% | ~295 |
 | The Sniper | 2.00% | ~295 |
 | An axe to grind | 2.00% | ~295 |
-| Add a bit of colour | 1.00% | ~147 |
-| How to train your Drake | 1.00% | ~147 |
+| Add a bit of colour | 1.00% | ~148 |
+| How to train your Drake | 1.00% | ~148 |
 | New Blood | 0.90% | ~133 |
 | Captain hooked | 0.80% | ~118 |
 | Betray this | 0.70% | ~103 |
@@ -58,8 +58,8 @@ Number of Ratings: 68  (23.09.2022)
 | MacReady Steady.. Go! | 0.30% | ~44 |
 | Pull out the big guns | 0.30% | ~44 |
 | Crimson Tornado | 0.30% | ~44 |
-| The Cartographer | 0.20% | ~29 |
-| The Jaws of victory! | 0.20% | ~29 |
+| The Cartographer | 0.20% | ~30 |
+| The Jaws of victory! | 0.20% | ~30 |
 | A cult following | 0.10% | ~15 |
 | Over your dead body | 0.10% | ~15 |
 | The Guildmaster | 0.10% | ~15 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~15 |
 | Murder Death Kill | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,736 (Ranked 139)  
+Progressed: 14,759 (Ranked 139)  
 Completed: 1 (0.01%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,10 +105,10 @@ Completed: 1 (0.01%) (Ranked 299)
 | 2023-10-17 | 14,108 | 1 |
 | 2023-10-18 | 14,328 | 1 |
 | 2023-10-19 | 14,556 | 1 |
-| 2023-10-20 | 14,736 | 1 |
+| 2023-10-20 | 14,759 | 1 |
 ## Awards
 Max (Character Customization): 3,555  (Ranked 90)  
-Sum: 8,302 (Ranked 98)  
+Sum: 8,303 (Ranked 98)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -122,7 +122,7 @@ Diff (max vs sum): -8
 | This game has Amazing Storytelling | 483 |
 | This game has Quickly Understood Controls | 482 |
 | This game has Unique Visuals | 377 |
-| This game has a Creative Community | 212 |
+| This game has a Creative Community | 213 |
 | This game has Obsessive Gameplay | 152 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -323,4 +323,4 @@ Diff (max vs sum): -8
 | 2023-10-17 | 4.47 | - | 3,554 | 8,298 |
 | 2023-10-18 | 4.47 | - | 3,555 | 8,300 |
 | 2023-10-19 | 4.47 | - | 3,555 | 8,301 |
-| 2023-10-20 | 4.47 | - | 3,555 | 8,302 |
+| 2023-10-20 | 4.47 | - | 3,555 | 8,303 |

@@ -4,7 +4,7 @@
   "ProductSlug": "indika-296db0",
   "Ranking_EOS_Progress": 686,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewPlayers": 400,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-18T14:57:02.9297873+00:00",
-  "LastUpdate_Ratings": "2023-10-20T19:58:23.0272042+00:00",
-  "LastUpdate_Achievements": "2023-10-20T20:04:36.4216778+00:00"
+  "LastUpdate_Ratings": "2023-10-20T20:58:54.9980017+00:00",
+  "LastUpdate_Achievements": "2023-10-20T21:05:04.3076192+00:00"
 }

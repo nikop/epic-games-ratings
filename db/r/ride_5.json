@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1575,
+  "EOS_Progressed": 1576,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
@@ -3182,6 +3182,11 @@
       "Time": "2023-10-20T20:09:15.4294375+00:00",
       "NumProgressed": 1575,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-20T21:09:41.5842679+00:00",
+      "NumProgressed": 1576,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -3202,7 +3207,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -3394,7 +3399,7 @@
       "Name": "Evangelist",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ML_ACHIEVEMENT_27",
@@ -3480,9 +3485,9 @@
       "ID": "ML_ACHIEVEMENT_37",
       "SetID": "c7hf6a4",
       "Name": "Bitter Rivalry",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 394
+      "UsersEstimate": 410
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -3585,14 +3590,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1575,
+      "Progressed": 1576,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-20T20:09:15.4294371+00:00",
+  "LastChanged_Achievements": "2023-10-20T21:09:41.584267+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:05.5662527+00:00",
-  "LastUpdate_Ratings": "2023-10-20T20:00:21.9617428+00:00",
-  "LastUpdate_Achievements": "2023-10-20T20:09:15.4295024+00:00"
+  "LastUpdate_Ratings": "2023-10-20T21:00:59.1570187+00:00",
+  "LastUpdate_Achievements": "2023-10-20T21:09:41.5843399+00:00"
 }

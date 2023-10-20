@@ -31,9 +31,9 @@ Rating: 4.50 (Ranked 576)
 | Whoopsie | 1.00% | ~268 |
 | Side Hustle | 0.90% | ~241 |
 | Skilled | 0.90% | ~241 |
-| Legions | 0.80% | ~214 |
-| Pesky Jerks | 0.80% | ~214 |
-| Stunner | 0.80% | ~214 |
+| Legions | 0.80% | ~215 |
+| Pesky Jerks | 0.80% | ~215 |
+| Stunner | 0.80% | ~215 |
 | We have the best insurance | 0.70% | ~188 |
 | Seasoned | 0.70% | ~188 |
 | Collector | 0.60% | ~161 |
@@ -57,8 +57,8 @@ Rating: 4.50 (Ranked 576)
 | Mycophile | 0.10% | ~27 |
 | Ultimate Defense | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,796 (Ranked 119)  
-Completed: 60 (0.22%) (Ranked 219)  
+Progressed: 26,813 (Ranked 119)  
+Completed: 60 (0.22%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -240,7 +240,7 @@ Completed: 60 (0.22%) (Ranked 219)
 | 2023-10-17 | 26,559 | 58 |
 | 2023-10-18 | 26,596 | 59 |
 | 2023-10-19 | 26,668 | 59 |
-| 2023-10-20 | 26,796 | 60 |
+| 2023-10-20 | 26,813 | 60 |
 ## Awards
 Max (Great for Beginners): 268  (Ranked 257)  
 Sum: 2,432 (Ranked 187)  

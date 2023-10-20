@@ -2,12 +2,12 @@
   "ID": "77f2b98e2cef40c8a7437518bf420e47",
   "Name": "Cyberpunk 2077",
   "ProductSlug": "cyberpunk-2077",
-  "Ranking_Rating": 326,
+  "Ranking_Rating": 325,
   "Ranking_Popularity": 9,
   "Ranking_PopularitySum": 11,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 59,
+  "Ranking_EOS_NewPlayers": 58,
   "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -13800,10 +13800,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 315112,
       "NumberOfAwardsMax": 99962
+    },
+    {
+      "Time": "2023-10-20T20:59:29.5846493+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 315273,
+      "NumberOfAwardsMax": 99962
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 315112,
+  "NumberOfAwards": 315273,
   "NumberOfAwardsMax": 99962,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -13835,7 +13841,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 16684
+      "Count": 16845
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -13880,10 +13886,10 @@
       "Count": 10987
     }
   ],
-  "EOS_Progressed": 892886,
-  "EOS_Completed": 2689,
-  "EOS_NewPlayers": 1433,
-  "EOS_NewCompleters": 34,
+  "EOS_Progressed": 892897,
+  "EOS_Completed": 2690,
+  "EOS_NewPlayers": 1434,
+  "EOS_NewCompleters": 35,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -34625,6 +34631,11 @@
       "Time": "2023-10-20T20:05:27.8077561+00:00",
       "NumProgressed": 892886,
       "NumCompleted": 2689
+    },
+    {
+      "Time": "2023-10-20T21:05:55.1657692+00:00",
+      "NumProgressed": 892897,
+      "NumCompleted": 2690
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -35156,21 +35167,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 892886,
-      "Completed": 2689
+      "Progressed": 892897,
+      "Completed": 2690
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 21509,
+      "Progressed": 21520,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-10-20T18:59:11.4382809+00:00",
-  "LastChanged_Achievements": "2023-10-20T20:05:27.8077557+00:00",
+  "LastChanged": "2023-10-20T20:59:29.5846491+00:00",
+  "LastChanged_Achievements": "2023-10-20T21:05:55.1657685+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:37.5483976+00:00",
-  "LastUpdate_Ratings": "2023-10-20T19:58:54.7335114+00:00",
-  "LastUpdate_Achievements": "2023-10-20T20:05:27.8079536+00:00"
+  "LastUpdate_Ratings": "2023-10-20T20:59:29.5846499+00:00",
+  "LastUpdate_Achievements": "2023-10-20T21:05:55.1659827+00:00"
 }

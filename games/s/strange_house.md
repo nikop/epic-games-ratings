@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Piglet | 100.00% | ~1 |
 | Alcoholic | 0.00% | ~0 |
 | Chapter 1 | 0.00% | ~0 |
-| Piglet | 0.00% | ~0 |
 | Lost Cat | 0.00% | ~0 |
 | Underground | 0.00% | ~0 |
 | Nice Glass | 0.00% | ~0 |

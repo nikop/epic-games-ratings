@@ -4,7 +4,7 @@
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
   "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 356,
+  "Ranking_EOS_NewPlayers": 318,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 204,
+  "EOS_Progressed": 205,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -275,6 +275,11 @@
       "Time": "2023-10-19T18:05:52.1450656+00:00",
       "NumProgressed": 204,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-20T21:07:51.4833226+00:00",
+      "NumProgressed": 205,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 21,
@@ -294,7 +299,7 @@
       "Name": "Book \u0027em Danny",
       "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "bullseye",
@@ -358,7 +363,7 @@
       "Name": "Oscar Winning Performance",
       "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "patient_listener",
@@ -438,7 +443,7 @@
       "Name": "Voyeur",
       "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "you_had_one_job",
@@ -453,7 +458,7 @@
     {
       "ID": "2db2j74",
       "IsBase": true,
-      "Progressed": 204,
+      "Progressed": 205,
       "Completed": 2
     }
   ],
@@ -461,8 +466,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-10-20T20:07:14.0684414+00:00",
+  "LastChanged_Achievements": "2023-10-20T21:07:51.4833218+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:28.592918+00:00",
-  "LastUpdate_Ratings": "2023-10-20T20:01:06.6404339+00:00",
-  "LastUpdate_Achievements": "2023-10-20T20:07:14.0684588+00:00"
+  "LastUpdate_Ratings": "2023-10-20T21:01:42.4477539+00:00",
+  "LastUpdate_Achievements": "2023-10-20T21:07:51.4833396+00:00"
 }

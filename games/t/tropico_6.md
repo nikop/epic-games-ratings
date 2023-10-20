@@ -6,15 +6,15 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~4,214 |
-| Un-Lonely Island | 47.00% | ~2,641 |
-| The Beginning of a Servantship | 45.00% | ~2,529 |
-| Trade Is My Trait | 37.00% | ~2,079 |
+| Just One...More...Term... | 75.00% | ~4,216 |
+| Un-Lonely Island | 47.00% | ~2,642 |
+| The Beginning of a Servantship | 45.00% | ~2,530 |
+| Trade Is My Trait | 37.00% | ~2,080 |
 | Number 18 | 24.00% | ~1,349 |
 | We Don't Have Time For That | 19.00% | ~1,068 |
-| The Governator | 17.00% | ~955 |
-| Caribbean Comrade | 16.00% | ~899 |
-| The Legend of Langostino | 16.00% | ~899 |
+| The Governator | 17.00% | ~956 |
+| Caribbean Comrade | 16.00% | ~900 |
+| The Legend of Langostino | 16.00% | ~900 |
 | The Dreamer of Dreams | 15.00% | ~843 |
 | Go Sovereigns! | 11.00% | ~618 |
 | For Science! | 11.00% | ~618 |
@@ -23,9 +23,9 @@ Number of Ratings: 398  (23.09.2022)
 | Shackadelic | 10.00% | ~562 |
 | Double Trouble | 8.00% | ~450 |
 | Firestarter | 8.00% | ~450 |
-| I Owe You Nothing | 7.00% | ~393 |
-| Make Tropico Great Again! | 7.00% | ~393 |
-| French Connection | 7.00% | ~393 |
+| I Owe You Nothing | 7.00% | ~394 |
+| Make Tropico Great Again! | 7.00% | ~394 |
+| French Connection | 7.00% | ~394 |
 | Don't Panic! | 6.00% | ~337 |
 | Computer Says "No" | 6.00% | ~337 |
 | Beware The Betman | 6.00% | ~337 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~51 |
 | My Ways | 0.30% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,619 (Ranked 170)  
+Progressed: 5,622 (Ranked 171)  
 Completed: 2 (0.04%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,16 +230,16 @@ Completed: 2 (0.04%) (Ranked 280)
 | 2023-10-17 | 5,596 | 2 |
 | 2023-10-18 | 5,605 | 2 |
 | 2023-10-19 | 5,616 | 2 |
-| 2023-10-20 | 5,619 | 2 |
+| 2023-10-20 | 5,622 | 2 |
 ## Awards
-Max (Quickly Understood Controls): 100  (Ranked 349)  
-Sum: 712 (Ranked 283)  
+Max (Highly Recommended): 100  (Ranked 349)  
+Sum: 713 (Ranked 283)  
 Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 106 |
+| This game is Highly Recommended | 100 |
 | This game has Quickly Understood Controls | 100 |
-| This game is Highly Recommended | 99 |
 | This game is Relaxing | 94 |
 | This game has Amazing Storytelling | 92 |
 | This game is Extremely Fun | 87 |
@@ -399,3 +399,4 @@ Diff (max vs sum): 66
 | 2023-10-13 | 4.65 | - | 100 | 709 |
 | 2023-10-14 | 4.66 | - | 100 | 709 |
 | 2023-10-16 | 4.66 | - | 100 | 712 |
+| 2023-10-20 | 4.66 | - | 100 | 713 |

@@ -17,10 +17,10 @@
 | Boulder Clash | 13.00% | ~483 |
 | Held Back by the Roots | 12.00% | ~446 |
 | Well Supplied | 10.00% | ~372 |
+| Damage Control | 8.00% | ~298 |
 | Sniped | 7.00% | ~260 |
 | Leave Them no Cake | 7.00% | ~260 |
 | Would be a Shame if Someone Would Waste Those Units | 7.00% | ~260 |
-| Damage Control | 7.00% | ~260 |
 | Master of the Brawl | 7.00% | ~260 |
 | Your Biggest Fans | 6.00% | ~223 |
 | A Secret Recipe | 6.00% | ~223 |

@@ -4,7 +4,7 @@
   "ProductSlug": "strange-house-5fd1b5",
   "Ranking_EOS_Progress": 633,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewPlayers": 400,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-11-03T11:00:00+00:00",
@@ -58,9 +58,9 @@
       "ID": "FoundPig",
       "SetID": "a2ci5mh",
       "Name": "Piglet",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "LostCat",
@@ -96,8 +96,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:48.3132312+00:00",
-  "LastChanged_Achievements": "2023-10-20T20:04:40.9911022+00:00",
+  "LastChanged_Achievements": "2023-10-20T21:05:08.9962537+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:26.1735361+00:00",
-  "LastUpdate_Ratings": "2023-10-20T19:57:46.5964574+00:00",
-  "LastUpdate_Achievements": "2023-10-20T20:04:40.9911084+00:00"
+  "LastUpdate_Ratings": "2023-10-20T20:58:17.8815864+00:00",
+  "LastUpdate_Achievements": "2023-10-20T21:05:08.996262+00:00"
 }

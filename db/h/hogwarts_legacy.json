@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -9187,10 +9187,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 46258,
       "NumberOfAwardsMax": 23665
+    },
+    {
+      "Time": "2023-10-20T21:00:09.6546883+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 46261,
+      "NumberOfAwardsMax": 23665
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 46258,
+  "NumberOfAwards": 46261,
   "NumberOfAwardsMax": 23665,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9258,7 +9264,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1035
+      "Count": 1038
     },
     {
       "Text": "This game has a Creative Community",
@@ -9267,9 +9273,9 @@
       "Count": 728
     }
   ],
-  "EOS_Progressed": 298616,
+  "EOS_Progressed": 298618,
   "EOS_Completed": 490,
-  "EOS_NewPlayers": 365,
+  "EOS_NewPlayers": 364,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -28862,6 +28868,11 @@
       "Time": "2023-10-20T20:07:54.1786468+00:00",
       "NumProgressed": 298616,
       "NumCompleted": 490
+    },
+    {
+      "Time": "2023-10-20T21:08:31.4494463+00:00",
+      "NumProgressed": 298618,
+      "NumCompleted": 490
     }
   ],
   "TotalAchievements": 45,
@@ -28873,7 +28884,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 44792
+      "UsersEstimate": 44793
     },
     {
       "ID": "PFA_10",
@@ -29033,7 +29044,7 @@
       "Name": "Put Down Roots",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8958
+      "UsersEstimate": 8959
     },
     {
       "ID": "PFA_29",
@@ -29049,7 +29060,7 @@
       "Name": "The Auror\u0027s Apprentice",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8958
+      "UsersEstimate": 8959
     },
     {
       "ID": "PFA_30",
@@ -29089,7 +29100,7 @@
       "Name": "Floo Around the World",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8958
+      "UsersEstimate": 8959
     },
     {
       "ID": "PFA_35",
@@ -29177,7 +29188,7 @@
       "Name": "The Spell Master",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 26875
+      "UsersEstimate": 26876
     },
     {
       "ID": "PFA_45",
@@ -29225,23 +29236,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26875
+      "UsersEstimate": 26876
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298616,
+      "Progressed": 298618,
       "Completed": 490
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-10-20T18:59:50.424233+00:00",
-  "LastChanged_Achievements": "2023-10-20T20:07:54.1786461+00:00",
+  "LastChanged": "2023-10-20T21:00:09.6546881+00:00",
+  "LastChanged_Achievements": "2023-10-20T21:08:31.4494453+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:16.623812+00:00",
-  "LastUpdate_Ratings": "2023-10-20T19:59:33.4354014+00:00",
-  "LastUpdate_Achievements": "2023-10-20T20:07:54.1788059+00:00"
+  "LastUpdate_Ratings": "2023-10-20T21:00:09.654689+00:00",
+  "LastUpdate_Achievements": "2023-10-20T21:08:31.4496522+00:00"
 }

@@ -5,8 +5,8 @@ Rating: 4.37 (Ranked 755)
 Number of Ratings: 190  (23.09.2022)  
 ## Awards
 Max (Highly Recommended): 50  (Ranked 416)  
-Sum: 297 (Ranked 350)  
-Diff (max vs sum): 66  
+Sum: 298 (Ranked 349)  
+Diff (max vs sum): 67  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 50 |
@@ -15,8 +15,8 @@ Diff (max vs sum): 66
 | This game is Extremely Fun | 37 |
 | This game has Amazing Storytelling | 35 |
 | This game has Amazing Characters | 34 |
+| This game is Educational | 28 |
 | This game has Realistic Visuals | 27 |
-| This game is Educational | 27 |
 | This game has Diverse Characters | 25 |
 | This game has Challenging Combat | 25 |
 | This game has Obsessive Gameplay | 21 |
@@ -176,4 +176,4 @@ Diff (max vs sum): 66
 | 2023-10-15 | 4.37 | - | 48 | 318 |
 | 2023-10-17 | 4.37 | - | 49 | 319 |
 | 2023-10-19 | 4.37 | - | 50 | 320 |
-| 2023-10-20 | 4.37 | - | 50 | 297 |
+| 2023-10-20 | 4.37 | - | 50 | 298 |

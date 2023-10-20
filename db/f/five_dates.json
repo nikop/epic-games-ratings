@@ -4,7 +4,7 @@
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 568,
+  "EOS_Progressed": 569,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.58,
   "EosHistory": [
@@ -1190,6 +1190,11 @@
       "Time": "2023-10-19T23:06:40.5444007+00:00",
       "NumProgressed": 568,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-20T21:07:45.1675806+00:00",
+      "NumProgressed": 569,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 15,
@@ -1201,7 +1206,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "booty_call",
@@ -1225,7 +1230,7 @@
       "Name": "Digital Casanova",
       "Percentage": 97,
       "XP": 50,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "hold_my_beer",
@@ -1233,7 +1238,7 @@
       "Name": "Hold my Beer",
       "Percentage": 65,
       "XP": 25,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "in_contempt_of_duvet",
@@ -1241,7 +1246,7 @@
       "Name": "In Contempt of Duvet",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "interrogation",
@@ -1265,7 +1270,7 @@
       "Name": "Not Alone",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "nueva_beginnings",
@@ -1273,7 +1278,7 @@
       "Name": "Nueva Beginnings",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "only_thyme_will_tell",
@@ -1297,7 +1302,7 @@
       "Name": "Smooth Criminal",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "sore_loser",
@@ -1320,7 +1325,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 568,
+      "Progressed": 569,
       "Completed": 9
     }
   ],
@@ -1328,8 +1333,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-10-20T20:07:07.8020415+00:00",
+  "LastChanged_Achievements": "2023-10-20T21:07:45.1675636+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:54.2224534+00:00",
-  "LastUpdate_Ratings": "2023-10-20T19:59:39.5601482+00:00",
-  "LastUpdate_Achievements": "2023-10-20T20:07:07.8020589+00:00"
+  "LastUpdate_Ratings": "2023-10-20T21:00:16.9869474+00:00",
+  "LastUpdate_Achievements": "2023-10-20T21:07:45.1676118+00:00"
 }
